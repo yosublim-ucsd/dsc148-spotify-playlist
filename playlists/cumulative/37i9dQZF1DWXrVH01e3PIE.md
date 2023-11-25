@@ -4,7 +4,7 @@
 
 > MP El Juvenil & Lucho SSJ en la casa del Trap Argentino.
 
-252 songs - 12 hr 8 min
+253 songs - 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [Neymar Jr](https://open.spotify.com/track/2uSaWBsTaYdcKMd1ITO9Er) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Arcones](https://open.spotify.com/artist/1Pf4laSttup4Nd1itUUqV3) | [Neymar Jr](https://open.spotify.com/album/1GYvbPA4RvK86h7oTXhaMY) | 2:33 | 2023-04-14 |  |
 | [Nike](https://open.spotify.com/track/4bhrb6cU8a6t2RYWuNUT5O) | [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS) | [Música de Barrio](https://open.spotify.com/album/3yXHx5bO1DX9pk114uWe6n) | 2:59 | 2023-11-17 |  |
 | [NO PARA](https://open.spotify.com/track/1d5YgbhNxmvqdzf1aqcYDO) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf) | [NO PARA](https://open.spotify.com/album/2Yir8cApTfiPzWE4HwMRq5) | 2:39 | 2023-08-04 |  |
-| [No Pares](https://open.spotify.com/track/0kj0n7ZfZG3qY1hJMtkhx7) | [Muerejoven](https://open.spotify.com/artist/2yGXs7AlyNVetlMvwsFXGk) | [No Pares](https://open.spotify.com/album/5tGoiLVYEX5aPACbG0Isb4) | 2:09 | 2023-09-01 |  |
+| [No Pares](https://open.spotify.com/track/0kj0n7ZfZG3qY1hJMtkhx7) | [Muerejoven](https://open.spotify.com/artist/2yGXs7AlyNVetlMvwsFXGk) | [No Pares](https://open.spotify.com/album/5tGoiLVYEX5aPACbG0Isb4) | 2:09 | 2023-09-01 | 2023-11-25 |
 | [No Puedo](https://open.spotify.com/track/6MbSMSXrSlvsyHf4kcaLQi) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 2:55 | 2022-01-21 |  |
 | [No Tiene Sentido](https://open.spotify.com/track/6qTfLcLXzymtYrfSRptEhf) | [Midel](https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p), [Santos Cuneo](https://open.spotify.com/artist/2FEgeZiCkW82L14BHsDXRZ) | [No Tiene Sentido](https://open.spotify.com/album/3ZGtjPuGFi585P7tMgyNBI) | 2:26 | 2022-01-21 | 2023-02-11 |
 | [no twin](https://open.spotify.com/track/2phdLu86u9OXfmRCrZ2Dur) | [Ill Quentin](https://open.spotify.com/artist/26TC05Yq727xEWV77nRinH) | [no twin](https://open.spotify.com/album/4ot7HHE3CQz8aKSpkB7j6b) | 2:34 | 2022-06-17 | 2022-09-03 |
@@ -184,6 +184,7 @@
 | [Rompediscoteka](https://open.spotify.com/track/5IdLmgNH1r8QQbELC1GueB) | [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS) | [Rompediscoteka](https://open.spotify.com/album/22pOSKsw95pibnK4OZq2Om) | 3:02 | 2022-04-01 | 2023-03-02 |
 | [ROMPEDISCOTEKA](https://open.spotify.com/track/65pH9RioD4Kw4laCZdWexI) | [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS) | [ROMPEDISCOTEKA](https://open.spotify.com/album/0vmEOqbr8asBKT1OlmSgNb) | 3:02 | 2023-02-24 | 2023-03-18 |
 | [RPSNT](https://open.spotify.com/track/1IhWFLPAiD30fCt2YoIa5Y) | [Osx Mob](https://open.spotify.com/artist/6uJE0vxnT7UNCgBHOCZ7WV), [Spekter](https://open.spotify.com/artist/2hliiu43MCbFQnDtfXKXsm) | [RPSNT](https://open.spotify.com/album/1y1CLAGu91YqmrlWP04xo0) | 2:48 | 2022-01-21 | 2022-03-05 |
+| [Sabio](https://open.spotify.com/track/0Rul56oJRTpYSUFodXo3Ge) | [El Doctor](https://open.spotify.com/artist/1p9IEVolgFCEjlFwEGTjPG), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Sabio](https://open.spotify.com/album/4U081d9PgMAMylCphc5v6p) | 4:00 | 2023-11-24 |  |
 | [Salsa Suprema](https://open.spotify.com/track/0A4F5SYr1vmvNJ9mdA7fJQ) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [Salsa Suprema](https://open.spotify.com/album/7hKtv2HaJdDylmlykXCcEX) | 2:32 | 2023-01-27 | 2023-09-16 |
 | [Sangre](https://open.spotify.com/track/3ODrnuH1Qx2iX6P7MEo3lF) | [MP El Juvenil](https://open.spotify.com/artist/15vXM78j1GTjXVKzk8i5P3), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic) | [Sangre](https://open.spotify.com/album/7jxepQCHjYw27f7DWpApSW) | 2:47 | 2022-01-21 | 2022-04-02 |
 | [Se Que No](https://open.spotify.com/track/5f9nATgIwnc5YVVeTo8H3m) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [7 Secretos](https://open.spotify.com/album/1DHS9kMaklrQAiiOxUAzmO) | 2:33 | 2022-04-05 |  |

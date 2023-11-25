@@ -1857,6 +1857,32 @@
     },
     {
       "album": {
+        "name": "Dhruva Natchathiram (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/03vZNwmbPH0VKg5sHtDtac"
+      },
+      "artists": [
+        {
+          "name": "Harris Jayaraj",
+          "url": "https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l"
+        },
+        {
+          "name": "Hariharan",
+          "url": "https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu"
+        },
+        {
+          "name": "Tanvi Shah",
+          "url": "https://open.spotify.com/artist/11PIHAhH0HI8SCdjhJ5zyA"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238806,
+      "name": "Arugil",
+      "url": "https://open.spotify.com/track/0KWi6MugSFSX9MRfUnngXO"
+    },
+    {
+      "album": {
         "name": "Viduthalai (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6B4QVNX6NKy1EkU3a8bGe4"
       },
@@ -10188,6 +10214,40 @@
       "duration_ms": 168049,
       "name": "Lady Luck",
       "url": "https://open.spotify.com/track/2866dwDrdw61Z92FNpOvoW"
+    },
+    {
+      "album": {
+        "name": "Life is On (From \"Annapoorani\") (Tamil)",
+        "url": "https://open.spotify.com/album/3HM7mrTwD34LzpiGT8B46h"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "D. Harshini Nethra",
+          "url": "https://open.spotify.com/artist/3aAMaw6tZfpiedaleT4Di0"
+        },
+        {
+          "name": "V.M. Shreenitha",
+          "url": "https://open.spotify.com/artist/5suhI0Yia2tSCRN0sjYrpA"
+        },
+        {
+          "name": "R. Gokul",
+          "url": "https://open.spotify.com/artist/47gEnVsVySzz8tyuc6NZ4w"
+        },
+        {
+          "name": "V. Shivathmika",
+          "url": "https://open.spotify.com/artist/4xePdQ8zeScxPnmoMuKLM3"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191517,
+      "name": "Life is On (From \"Annapoorani\") (Tamil)",
+      "url": "https://open.spotify.com/track/7pcFmiJ56CbcfTpRrgpjuk"
     },
     {
       "album": {
@@ -23325,6 +23385,28 @@
     },
     {
       "album": {
+        "name": "Wrong Pannadha (From \"Saindhav\")",
+        "url": "https://open.spotify.com/album/6LIGnTriyGBGFOo40cYu5V"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Gana Francis",
+          "url": "https://open.spotify.com/artist/4266Hzvg3Laf0fNQSqNJA4"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "Wrong Pannadha (From \"Saindhav\")",
+      "url": "https://open.spotify.com/track/763jze9Yxf3Jg1AY8THsd3"
+    },
+    {
+      "album": {
         "name": "Wrong Pannadha (From \"Saindhav\") (Tamil)",
         "url": "https://open.spotify.com/album/574y1dU6kb36JuixLtKrcY"
       },
@@ -23336,7 +23418,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 217500,
       "name": "Wrong Pannadha (From \"Saindhav\") (Tamil)",
       "url": "https://open.spotify.com/track/50UWi8cd7L6nU3tePIBBXT"

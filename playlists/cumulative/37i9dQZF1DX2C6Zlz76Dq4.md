@@ -4,7 +4,7 @@
 
 > Country's legendary artists singing your favorite Christmas Classics\. Cover: Reba McEntire
 
-173 songs - 9 hr 1 min
+174 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Andy and Opie Christmas](https://open.spotify.com/track/0ZnxCkgmA7AbT4MDtNkBES) | [Charlie Monk & Jim Weatherly](https://open.spotify.com/artist/6bPQp6jZKIQzkITirmMLmu) | [Andy and Opie Christmas \- Single](https://open.spotify.com/album/70UoBt7nKnFxc01MPWqGNk) | 4:27 | 2021-12-16 | 2023-11-07 |
 | [Angels Among Us](https://open.spotify.com/track/0yMiAfLtIP8oYya3sEj1Xe) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [The Classic Christmas Album](https://open.spotify.com/album/0X608yp1ap2tJPuYHj5wmq) | 4:07 | 2021-12-16 |  |
 | [At Christmas](https://open.spotify.com/track/1BtzAkndcmh0ef68sSuPvO) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [At Christmas](https://open.spotify.com/album/0d2rN27soyxNpL1c87aCKP) | 2:54 | 2021-12-16 |  |
+| [Beautiful Star of Bethlehem](https://open.spotify.com/track/7FFXfYeF3H1IsSUbwyk3kC) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1) | [Beautiful Star of Bethlehem](https://open.spotify.com/album/64TNhQ20gsVJBPaoZatLmx) | 3:26 | 2023-11-24 |  |
 | [Blue Christmas](https://open.spotify.com/track/5LRO9vh8rMPCv1UitAphgE) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [The Classic Christmas Album](https://open.spotify.com/album/3Jxbxc50mckc4xrw2dg4yD) | 2:08 | 2021-12-16 | 2022-12-10 |
 | [Blue Christmas](https://open.spotify.com/track/4mXHEvTZiIMmkSABmibbN2) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [The Classic Christmas Album](https://open.spotify.com/album/4F9bBF6egZaLSCxlufFBm5) | 2:29 | 2021-12-16 |  |
 | [Blue Christmas](https://open.spotify.com/track/20ol6ml32aThEgrfm9kBSz) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Breath Of Heaven](https://open.spotify.com/album/7hUIziQmosuFiL0wjTSjf7) | 3:49 | 2021-12-16 |  |

@@ -635,6 +635,28 @@
     },
     {
       "album": {
+        "name": "Ele Voltar\u00e1",
+        "url": "https://open.spotify.com/album/1SBo8s8MA1PocxxEDFd7yZ"
+      },
+      "artists": [
+        {
+          "name": "Irm\u00e3 Ana Paula, CMES",
+          "url": "https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv"
+        },
+        {
+          "name": "Mission\u00e1rio Shalom",
+          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269958,
+      "name": "Ele Voltar\u00e1",
+      "url": "https://open.spotify.com/track/4cqi3syiCRmBwMlKB41mJl"
+    },
+    {
+      "album": {
         "name": "Em Teus Bra\u00e7os",
         "url": "https://open.spotify.com/album/46QDV92Y95zImk6yOoEh58"
       },
@@ -1208,7 +1230,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 117143,
       "name": "Joquebede (Remix) (feat. Israel Santos)",
       "url": "https://open.spotify.com/track/2zfeao3DVGHDktWIacU5JZ"
@@ -2230,7 +2252,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 161958,
       "name": "Rescue Me",
       "url": "https://open.spotify.com/track/6V7AyvLYXVj9NGcUAgbwuk"
@@ -2344,6 +2366,28 @@
       "duration_ms": 168411,
       "name": "Ruja o Le\u00e3o - M\u00cbDNA - Remix",
       "url": "https://open.spotify.com/track/4K1qJEJk8YHjwGMzBg5JxD"
+    },
+    {
+      "album": {
+        "name": "Salmo 91",
+        "url": "https://open.spotify.com/album/0yCqkoSSklTwTLlPD4v2kK"
+      },
+      "artists": [
+        {
+          "name": "Lufra",
+          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
+        },
+        {
+          "name": "Dj Mello",
+          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159375,
+      "name": "Salmo 91",
+      "url": "https://open.spotify.com/track/6lRL1PDW4ZeuENyxWQajvU"
     },
     {
       "album": {
@@ -2646,7 +2690,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 203911,
       "name": "Terra Seca - Remix",
       "url": "https://open.spotify.com/track/0fn6pLt2MOuZrZax2JRgwG"
@@ -2934,6 +2978,28 @@
       "duration_ms": 150138,
       "name": "Vejo o Teu Amor",
       "url": "https://open.spotify.com/track/4BVlnHrTr3l58riMroKcT3"
+    },
+    {
+      "album": {
+        "name": "Vem Com Josu\u00e9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0EHC6weGCaJaEaR0kG5df8"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        },
+        {
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186280,
+      "name": "Vem Com Josu\u00e9 - Ao Vivo",
+      "url": "https://open.spotify.com/track/2JV5mbWknaQejsso4UGAGo"
     },
     {
       "album": {

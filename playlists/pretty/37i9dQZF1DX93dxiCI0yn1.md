@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93dxiCI0yn1.md) - [plain]
 
 > 新たな“ラップスタア“を発掘する人気オーディション番組<a href="https://rapstar2023.jp/">「ラップスタア誕生」</a>歴代出場者、審査員の楽曲を特集。 Cover: ShowyVICTOR
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,953 likes - 103 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,968 likes - 103 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93dxiCI0yn1.md) - [plain]
 | 22 | [THE MAN](https://open.spotify.com/track/6GoECX7vdhdo0j9Ow29xap) | [Kay\-on](https://open.spotify.com/artist/2F81r2H2weMXa83CD2VD9H) | [THE MAN](https://open.spotify.com/album/0NEszw9t1GZ2lqoJGWrDxt) | 2:11 |
 | 23 | [HOUSE PARTY](https://open.spotify.com/track/1J994y1srEqIJm6JXUAaD5) | [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj) | [HOUSE PARTY](https://open.spotify.com/album/0xg94ljK0x1DCvBOVbLuLH) | 2:40 |
 | 24 | [Me vs\. Me](https://open.spotify.com/track/4ekHj2CZEIOgGxreDtW8Hn) | [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [Me vs\. Me](https://open.spotify.com/album/5ioH2X1MVgNbIy9rZjdTzs) | 2:12 |
-| 25 | [SAI](https://open.spotify.com/track/59KWSPPbqWmEKuKSqmsBs5) | [Kamui](https://open.spotify.com/artist/39PBUM5S4D2fVPFbzMUr6C), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [SAI](https://open.spotify.com/album/0WpaYZtwH0XvmauoXOKgYh) | 2:05 |
+| 25 | [SAI](https://open.spotify.com/track/5osMyTdNI7vyNnS03Tb8X5) | [Kamui](https://open.spotify.com/artist/39PBUM5S4D2fVPFbzMUr6C), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [RAFRAGE](https://open.spotify.com/album/3FttzCyCj9hf5L4O2xhYcR) | 2:09 |
 | 26 | [STACK](https://open.spotify.com/track/2egH5pOM9QLeyi4iGlasXz) | [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj) | [STACK](https://open.spotify.com/album/339NbGkQL7VCH5NXYRPo8D) | 2:49 |
 | 27 | [So Fresh](https://open.spotify.com/track/2VHuZSOXl4Jd7HNRNPqu2P) | [98jams](https://open.spotify.com/artist/5IvIPZASf5yXz0FwxRtQKx), [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [TOME](https://open.spotify.com/artist/118eRdycS98oyMFEl5xvbo), [kiddy](https://open.spotify.com/artist/48MOj0FSIyfQdOJvTYDFFR) | [So Fresh](https://open.spotify.com/album/4QZtoH7MQHwj9vIPWCT4ik) | 3:39 |
 | 28 | [Waratte Ikiru \- DJ B=BALL GENRE BNDR REMIX](https://open.spotify.com/track/0VUwvX36Ng2urytLNBix5e) | [EASTA](https://open.spotify.com/artist/3M73iVLAP7NbB5ZrO0dlzO), [Naothelaiza](https://open.spotify.com/artist/4E2QYdTcANut4Oga8XTUQQ), [ShowyRENZO](https://open.spotify.com/artist/1MLMBTcgBXus7IgbvLaoP4), [Fuji Taito](https://open.spotify.com/artist/2OaVFBtZot8aFcdKYwE39f), [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [DJ B=BALL](https://open.spotify.com/artist/1H1VSaQpvrFZ4W1VhilK3k) | [Waratte Ikiru \(Remixes\)](https://open.spotify.com/album/6naw9rNDF8ctNKDoqGmDO1) | 4:55 |

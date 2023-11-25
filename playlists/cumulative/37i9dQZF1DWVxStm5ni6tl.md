@@ -4,7 +4,7 @@
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: Rau\_Ze, Artwork by: Isu Kim
 
-531 songs - 1 day 3 hr 23 min
+533 songs - 1 day 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Down](https://open.spotify.com/track/14DRhkqPzsKKdEHC8Mk8Nr) | [nyan](https://open.spotify.com/artist/7G7jG8dvAGtnvRlLNvssfr) | [Down](https://open.spotify.com/album/2lAQg7KKgCMXFOJr18bPIh) | 3:24 | 2023-11-22 |  |
 | [draps blancs](https://open.spotify.com/track/6Ph3SGhwnpkrUUwYaLMP28) | [Miro Chino](https://open.spotify.com/artist/7LGfZCzWqRgxqEjLMcuPlI) | [draps blancs](https://open.spotify.com/album/5lvZztaoquhzK9hw0KMGv6) | 5:10 | 2023-09-13 | 2023-10-05 |
 | [Dress Shirt](https://open.spotify.com/track/4McbjkShnmL7Khfw7y2aAz) | [Sophia Fracassi](https://open.spotify.com/artist/7MPa3OSyGyLNq9CedDr2LT) | [Dress Shirt](https://open.spotify.com/album/6PQBGJpeY71TM8ECQnM3JG) | 2:53 | 2023-08-23 | 2023-08-31 |
+| [Drinks With the Boys](https://open.spotify.com/track/4H4O3hecO77pDBqSBaPuS9) | [Jess and Tay](https://open.spotify.com/artist/6KtwQmb0IJYn2FYlE0eFCZ) | [Drinks With the Boys](https://open.spotify.com/album/3aTeOxMIjKyHI0BVC8znaI) | 3:04 | 2023-11-24 |  |
 | [Drop On Me](https://open.spotify.com/track/4eXJPQuPmrRJDv34RyZlfr) | [Great Grinzo](https://open.spotify.com/artist/6jPzAOjQdkQ79P1p3ogbS3) | [Drop On Me](https://open.spotify.com/album/3oRsnzlCg07hSGzBVkDGFM) | 1:56 | 2023-09-13 | 2023-09-21 |
 | [Drop Ship](https://open.spotify.com/track/0ms6No7pjrbC3yIg3UO0HH) | [Sheldon Sabastian](https://open.spotify.com/artist/3TVN22ppuxvrMtVOIGFYYn) | [Drop Ship](https://open.spotify.com/album/0oxEw9sx77i15pxH89Njl1) | 1:51 | 2023-09-13 | 2023-10-05 |
 | [Duel](https://open.spotify.com/track/6Bop5sTWP6R5YfBFquPM0K) | [Benjamin Proulx](https://open.spotify.com/artist/6wxpEggyJPIcvE7XvoxINR) | [Duel](https://open.spotify.com/album/0clKcVz5ZnpWticAtWhYCr) | 3:18 | 2023-07-26 | 2023-08-17 |
@@ -135,7 +136,7 @@
 | [Era Ew](https://open.spotify.com/track/4a9IOiz22310IXokTSF0M9) | [Soleil Launière](https://open.spotify.com/artist/1IsyWHwpRxJdFMaJSr8pS1) | [Taueu](https://open.spotify.com/album/4Nd9DJ1apGJMyAd3ItSRFf) | 3:25 | 2023-10-18 | 2023-11-16 |
 | [EverWere](https://open.spotify.com/track/6ve2xBuHWg3ibp7EeuZ2gG) | [Emily Chambers](https://open.spotify.com/artist/1C06ksRGDW6ZsByvvmlIDI) | [EverWere](https://open.spotify.com/album/4j8QJAO5TWbNXObSFKxZL6) | 3:22 | 2023-10-11 | 2023-11-16 |
 | [Everything I Need](https://open.spotify.com/track/7a8ogSptFNMYP1UrD7czjB) | [Tissa Rahim](https://open.spotify.com/artist/7H9ACHtPWFveu1EhyVryi1) | [Everything I Need](https://open.spotify.com/album/1K2F69UGj8pcBQ4RYhGVbQ) | 2:53 | 2023-11-22 |  |
-| [Exodus](https://open.spotify.com/track/2IVYpRIIaUGQQNzWe4XVHO) | [Close Talker](https://open.spotify.com/artist/4xyP3FGvSmDPFy9rsOifMh) | [Exodus](https://open.spotify.com/album/1tFqi90SVcYZFsRbrZAUHh) | 3:23 | 2023-11-08 |  |
+| [Exodus](https://open.spotify.com/track/2IVYpRIIaUGQQNzWe4XVHO) | [Close Talker](https://open.spotify.com/artist/4xyP3FGvSmDPFy9rsOifMh) | [Exodus](https://open.spotify.com/album/1tFqi90SVcYZFsRbrZAUHh) | 3:23 | 2023-11-08 | 2023-11-25 |
 | [Fake Money](https://open.spotify.com/track/5ZAkwPHjuje4eM3gItHXoB) | [Sarah Itamah](https://open.spotify.com/artist/5E5tgdinLfCPJAccYJjsta) | [Fake Money](https://open.spotify.com/album/41YFlcejLMS6h0Ak8DYQbb) | 2:28 | 2023-09-13 | 2023-10-05 |
 | [fall](https://open.spotify.com/track/4QgVlI8j7UrbJk3fQNVcMb) | [Jay Portal](https://open.spotify.com/artist/2mE6lFglCyhkrseEcufU0d) | [fall](https://open.spotify.com/album/0bFqjbudaEwjUxclJ1tats) | 2:41 | 2023-10-11 | 2023-11-16 |
 | [Fall in Love](https://open.spotify.com/track/0NGHySvV5DUB9NbGhJMFH7) | [Cooper Bloom](https://open.spotify.com/artist/4Eoxq31F619UBh0JyaYaw2), [CARYS](https://open.spotify.com/artist/7sNr4UxauWqLRElKZufDRU) | [Fall in Love](https://open.spotify.com/album/4YiGUBJXgVx4WMFiUkb49q) | 2:49 | 2023-09-06 | 2023-09-28 |
@@ -418,7 +419,7 @@
 | [Scared To Love](https://open.spotify.com/track/41LJWtSAOjSXe2ishYcgTh) | [Ella Rossi](https://open.spotify.com/artist/5XeDL6Pow4Ag5j9HWv9KHm) | [Scared To Love](https://open.spotify.com/album/5RbIoUnNqqCqM8QOFPStWj) | 3:13 | 2023-09-06 | 2023-10-05 |
 | [Second Bird Calling](https://open.spotify.com/track/5WmqrwWeRGVvIAzopOcUhV) | [Eccodek](https://open.spotify.com/artist/2lSY5zGzh4DXe7hRp3Iy7o), [Peppermoth](https://open.spotify.com/artist/3m1iwGUxL5xcMHl1a0WTih), [Mansa Sissoko](https://open.spotify.com/artist/6U52UZp4nySAM1yDS4NEmI) | [Second Bird Calling](https://open.spotify.com/album/4HYnS8oWwkof8kUb13GSwh) | 4:42 | 2023-09-13 | 2023-09-21 |
 | [secret handshakes](https://open.spotify.com/track/7IZKPDpb3YJJVxYnAWrQ2a) | [Moira & Claire](https://open.spotify.com/artist/3jCEVKIIkR6ayqeBhPLVxN) | [secret handshakes](https://open.spotify.com/album/4a0C92yrH9QpAi6eY4XWDh) | 2:53 | 2023-10-18 | 2023-11-09 |
-| [Self Revolution](https://open.spotify.com/track/6xq246xhPP6sxsXrMyB8en) | [Gary Beals](https://open.spotify.com/artist/5PXsenJUe92Lu12xrQfPes) | [The Melody Within](https://open.spotify.com/album/0lNVrrcLt81D6u8G6Jn3EV) | 3:14 | 2023-11-08 |  |
+| [Self Revolution](https://open.spotify.com/track/6xq246xhPP6sxsXrMyB8en) | [Gary Beals](https://open.spotify.com/artist/5PXsenJUe92Lu12xrQfPes) | [The Melody Within](https://open.spotify.com/album/0lNVrrcLt81D6u8G6Jn3EV) | 3:14 | 2023-11-08 | 2023-11-25 |
 | [Senseless \- XEmix](https://open.spotify.com/track/01LwmDDekwCUHtcpPMHTvx) | [kristina alcordo](https://open.spotify.com/artist/3y6KP6ZPC8SskJTCNAkFNs) | [Nights Like This \(Mixtape\)](https://open.spotify.com/album/6SCzcKgB6yQXk2fdo1qJxW) | 3:40 | 2023-08-30 | 2023-09-07 |
 | [Settle Down](https://open.spotify.com/track/4tdfBSO7R0wsJRiROQE9zC) | [Eekwol](https://open.spotify.com/artist/6qHlJGY4hYFoVWtoHxAMvb) | [Settle Down](https://open.spotify.com/album/1Er6yOIXEVqLxhs8gtQzoS) | 3:18 | 2023-09-06 | 2023-09-21 |
 | [She just wants to dance](https://open.spotify.com/track/3xuXyhtURoyYvxdQtVLAI3) | [Jay Kutcher](https://open.spotify.com/artist/2XpYj9WxwqofycQ8j80siz) | [She just wants to dance](https://open.spotify.com/album/4KcLTZOMRubhP8uM34mSYZ) | 3:00 | 2023-07-26 | 2023-08-03 |
@@ -537,6 +538,7 @@
 | [You can have it all](https://open.spotify.com/track/62ciFxmwDZB4O3ZHu9rTrq) | [Or Bleu](https://open.spotify.com/artist/1UZOfkZHdPNjus7591XY2G), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Beaucoup](https://open.spotify.com/album/5Lpgfnms4qU0uwtTDGBetH) | 2:37 | 2023-09-13 | 2023-10-05 |
 | [you look important](https://open.spotify.com/track/3Sun36ApDRbq48fWdeXuk3) | [Tino Sutra](https://open.spotify.com/artist/0UdWLioRqdeSw8NtyGlaZV) | [you look important](https://open.spotify.com/album/2AETnWHi6v6cZCzEcqsx8i) | 2:12 | 2023-10-04 | 2023-10-26 |
 | [You're Right](https://open.spotify.com/track/3Oqa2dj6V3ABjzMqYzuWSR) | [Che](https://open.spotify.com/artist/3E5ZrCLCq0HP63QQHF6ttp) | [Dog in Me](https://open.spotify.com/album/1odjMBY5k2lN8XjOz757sQ) | 2:57 | 2023-09-06 | 2023-09-28 |
+| [Young Still](https://open.spotify.com/track/4osWD1UC4dDl204Dsl9O2c) | [Marshall Veroni](https://open.spotify.com/artist/3RsHm43VTxgLUVoo5QNSSI) | [Young Still](https://open.spotify.com/album/4CN0TYA9ODKPRTD9OyBEwi) | 5:56 | 2023-11-24 |  |
 | [Your Darling](https://open.spotify.com/track/4Tfyi4k6QWfzKxgGBkcA8b) | [Fleur Electra](https://open.spotify.com/artist/35JSk7N4ujpaAJ6yvoXkFS) | [Your Darling](https://open.spotify.com/album/1PJORnwmdXUXhQAgoA28TK) | 3:56 | 2023-10-25 | 2023-11-16 |
 | [Última Mujer](https://open.spotify.com/track/3YmhGYWtH60KrL9nSsUDfY) | [Chantel](https://open.spotify.com/artist/0mrCXumAZyMWHVXYYgLcVK) | [Última Mujer](https://open.spotify.com/album/5T12FeTyAorp8QjO8sZt97) | 3:51 | 2023-10-04 | 2023-10-19 |
 

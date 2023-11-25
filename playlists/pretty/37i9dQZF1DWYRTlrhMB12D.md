@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRTlrhMB12D.md) - [plain]
 
 > Soulful Hindi songs for your nostalgic journey\. Cover \- Mere Jeevan Saathi
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,436 likes - 75 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,086 likes - 75 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [O Mere Dil Ke Chain \(From "Mere Jeevan Saathi"\)](https://open.spotify.com/track/71hanKncfyBt0Yi66LRUYm) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Krazy Kishore](https://open.spotify.com/album/43ehHE4nhmYH976HupqUlx) | 4:33 |
 | 2 | [Pyar Diwana Hota Hai \(From "Kati Patang"\)](https://open.spotify.com/track/6MYmHgOoy0BLOtdL2Zug6e) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Krazy Kishore](https://open.spotify.com/album/43ehHE4nhmYH976HupqUlx) | 4:44 |
-| 3 | [Kya Hua Tera Wada](https://open.spotify.com/track/4ac0I6Y1VgHMHduM9ZUUpR) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Mohammed Rafi Songs, Vol.1](https://open.spotify.com/album/4MEdd0I6Gin2VjWv4MN2e0) | 4:18 |
-| 4 | [Chura Liya hai Tumne Jo Dil Ko](https://open.spotify.com/track/3TE0igTdhJgQKTjjYk2BpY) | [RD Burman](https://open.spotify.com/artist/7tDNjA4ARFgCEn4JLPLiH4), [Asha Bhosle](https://open.spotify.com/artist/77zgQIbFiMd5pD3oi9Wpix) | [RD Burman Songs \- Vol.1](https://open.spotify.com/album/5nSl8Ltv5CNKSjaVjtejjq) | 4:47 |
+| 3 | [Kya Hua Tera Vada \(From "Hum Kisise Kum Naheen"\)](https://open.spotify.com/track/4j6c1euXhEl6y7HXObCV3s) | [Sushma Shrestha](https://open.spotify.com/artist/0AyqjTeFKxSNXJAJLLUaUJ), [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Memoirically \- Mohammed Rafi](https://open.spotify.com/album/7EZdE0t7jl1HVelhq6OUej) | 4:17 |
+| 4 | [Chura Liya Hai Tumne Jo Dil Ko \(From "Yaadon Ki Baaraat"\)](https://open.spotify.com/track/3ci9YeXRulpmFPDvqneVwc) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Singing Icon \- Asha Bhosle](https://open.spotify.com/album/3dXlPx1XUd6VIMgXTwpnQ3) | 4:47 |
 | 5 | [Likhe Jo Khat Tujhe \(From "Kanyadaan"\)](https://open.spotify.com/track/2QduffmP1CwjJ6kAA5hkUk) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Memoirically \- Mohammed Rafi](https://open.spotify.com/album/7EZdE0t7jl1HVelhq6OUej) | 4:33 |
 | 6 | [Ek Ajnabee Haseena Se \(From "Ajanabee"\)](https://open.spotify.com/track/2gDdd8Z9yxoAEZ9DilapRx) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [The Enigma R\. D\. Burman](https://open.spotify.com/album/79mznklT8BtsMSeF2mWwXn) | 4:26 |
 | 7 | [Mere Mehboob Qayamat Hogi, Pt\. 1 \(From "Mr\. X in Bombay"\)](https://open.spotify.com/track/0us929HY2oacANZERkLkUL) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Krazy Kishore](https://open.spotify.com/album/43ehHE4nhmYH976HupqUlx) | 3:48 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRTlrhMB12D.md) - [plain]
 | 74 | [Dil Tadap Tadap Ke Kah Raha](https://open.spotify.com/track/3BhrEWJmIt4lgE5CHKc5cN) | [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Madhumati \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6DUq0IMq75xMZuQpJKJSmm) | 3:27 |
 | 75 | [Yeh Raat Yeh Chandni](https://open.spotify.com/track/1X8ZEqYlX1rSlaoQt5dRy9) | [Hemant Kumar](https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj) | [Baarishein, Chai Aur Hemant Kumar](https://open.spotify.com/album/0Z4dnIU8RAr8hDEb8IKhko) | 4:56 |
 
-Snapshot ID: `MCwyMjdlNmI2Njk3Nzk3Yzc3NjFiOTUyMGU5ZTEyZmViZDI1NTdkZmE2`
+Snapshot ID: `MCw0NTViMjJmNjI3YTc3NjIzNDNiZjU5YTFjNjg4YjFkNTVhYTNhNDBi`

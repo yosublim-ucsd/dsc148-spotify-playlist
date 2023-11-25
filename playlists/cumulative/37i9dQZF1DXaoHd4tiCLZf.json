@@ -1528,10 +1528,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 183186,
       "name": "Je suis - Tu hais",
       "url": "https://open.spotify.com/track/1s1DqwJZNCrSlFponDoD0k"
+    },
+    {
+      "album": {
+        "name": "Des tours",
+        "url": "https://open.spotify.com/album/3Yfu9yUPUVzIGAZZW8xzeT"
+      },
+      "artists": [
+        {
+          "name": "KIZ",
+          "url": "https://open.spotify.com/artist/2y7twK2fqUipb5Ef2hNrdO"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183186,
+      "name": "Je suis - Tu hais",
+      "url": "https://open.spotify.com/track/5eMVfBYv22ad10rdZHYBjL"
     },
     {
       "album": {

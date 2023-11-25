@@ -4,7 +4,7 @@
 
 > Relájate y toma un profundo respiro de serenidad auditiva.
 
-357 songs - 17 hr 57 min
+358 songs - 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Dysania](https://open.spotify.com/track/0DDAJ13i1P8PAG2uSmJxQA) | [Merlin Loughty](https://open.spotify.com/artist/3TNlVudGOBeQObBQQIQUcu) | [Confessions](https://open.spotify.com/album/0SR37Tsywrqw2SBims80Ij) | 3:01 | 2022-12-02 |  |
 | [Early Morning Song](https://open.spotify.com/track/1yAV3jaWFJcy98R3fdzeHf) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Early Morning Song](https://open.spotify.com/album/3vKF61GauYt2Q1Na4kUvv8) | 3:10 | 2022-07-05 | 2023-01-21 |
 | [Elements of Calm](https://open.spotify.com/track/0l4nTCCQFJGhpSUMTGxvrB) | [Tranquil Spirits](https://open.spotify.com/artist/1WQeauToddg6owwNSO1wQp) | [Elements of Calm](https://open.spotify.com/album/6wmCUeJXImFBOpKOoGW728) | 3:54 | 2022-07-05 | 2022-07-29 |
-| [Elements of Calm](https://open.spotify.com/track/2sF9F7GyYSlviYnBxc3xsI) | [Tranquil Spirits](https://open.spotify.com/artist/1WQeauToddg6owwNSO1wQp) | [Elements of Calm](https://open.spotify.com/album/5CcLsRELzK8tV7yooEMyzJ) | 3:54 | 2022-07-05 |  |
+| [Elements of Calm](https://open.spotify.com/track/2sF9F7GyYSlviYnBxc3xsI) | [Tranquil Spirits](https://open.spotify.com/artist/1WQeauToddg6owwNSO1wQp) | [Elements of Calm](https://open.spotify.com/album/5CcLsRELzK8tV7yooEMyzJ) | 3:54 | 2022-07-05 | 2023-11-25 |
 | [Elixir](https://open.spotify.com/track/3qdcjaWIyUvivaO5lcpe0J) | [Leyenda](https://open.spotify.com/artist/1kgpTcXkeXeImymThm78ZB) | [Healing Spell](https://open.spotify.com/album/5IByIwRPBjaO6Hg6igyZBw) | 2:24 | 2022-07-05 | 2023-10-03 |
 | [Elle](https://open.spotify.com/track/2BJhRC9dnBCJIIeJaN1OBD) | [xerLK](https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9) | [Elle](https://open.spotify.com/album/4xinTWNwoFKTRju5K40K7H) | 2:41 | 2022-07-05 | 2023-04-07 |
 | [Elle](https://open.spotify.com/track/5CxvHxU1tTeU6pjvJMbo3B) | [xerLK](https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9) | [Elle](https://open.spotify.com/album/7qhynNeQhU7f1jyhdLnzCO) | 2:41 | 2022-07-05 | 2022-07-29 |
@@ -315,6 +315,7 @@
 | [Stellato](https://open.spotify.com/track/6SyLAus9iKAcj7MZ1yaDZ3) | [Jeanelle Bolduc](https://open.spotify.com/artist/395oAJMtpPY7ovJ9GbFkGQ) | [Stellato](https://open.spotify.com/album/61DLZh0gdcOBZo9ERrk6zj) | 3:22 | 2022-07-05 |  |
 | [Still Space](https://open.spotify.com/track/7e7HTzbFsmLR0mg9QkwMPr) | [Satoshi Ashikawa](https://open.spotify.com/artist/0O0TybCQ8Mib6g5AwnfXz5) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 3:59 | 2022-07-05 |  |
 | [Stillness](https://open.spotify.com/track/3HBY9kD6UISZDwjto7e8bh) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Reflections](https://open.spotify.com/album/1z0vCXugB5Wur3hxjCXJOA) | 4:15 | 2022-07-05 |  |
+| [Stressophobic](https://open.spotify.com/track/6O6CClNFRAQ9Y2wB3t2g84) | [Phobic](https://open.spotify.com/artist/4pgvre1wDhGGmEbjevWClj) | [Stressophobic](https://open.spotify.com/album/4viW8FRpQz928WnCqe2NME) | 2:52 | 2023-11-24 |  |
 | [Submerged](https://open.spotify.com/track/0FaCS30JAXH9ntYh3TcF31) | [The Aural Healer](https://open.spotify.com/artist/5aS55avvX9UAYN3LVTRwyr) | [Liquid Universe](https://open.spotify.com/album/4MkMpficPrQ8RnElrfp8Iq) | 3:01 | 2022-07-05 |  |
 | [Sunset.](https://open.spotify.com/track/1af0Bl1E6TP3b6lknIVXVD) | [LFO Waves](https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z) | [Sunset.](https://open.spotify.com/album/6dFq4LUUF73048fcshZaM3) | 2:24 | 2022-07-05 | 2022-07-29 |
 | [Sunset.](https://open.spotify.com/track/6lRV39qhxzzpDYrS4zAHfl) | [LFO Waves](https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z) | [Sunset.](https://open.spotify.com/album/5lI7kyTtOIKYNpN7NL9uqa) | 2:24 | 2022-07-05 |  |

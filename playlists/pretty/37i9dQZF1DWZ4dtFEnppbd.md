@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4dtFEnppbd.md) - [plain]
 
 > Sounds of spiritual comfort and cultural traditions of triumph.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,272 likes - 27 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,273 likes - 27 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4dtFEnppbd.md) - [plain]
 | 13 | [Jesus Is Love](https://open.spotify.com/track/52i3VeUFbCRk3z8YgBFM7N) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [The Best Of Lionel Richie 20th Century Masters The Millennium Collection](https://open.spotify.com/album/6UaOmeGGHUSHyy3F4ngAwa) | 6:06 |
 | 14 | [Great Is Thy Faithfulness](https://open.spotify.com/track/26jEK23GYzHoLGIrZOyIDH) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Delores "Mom" Winans](https://open.spotify.com/artist/5UMZOxh7uusc8idFcHNe7T) | [Alone In His Presence](https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ) | 5:00 |
 | 15 | [Everything You Touch Is A Song](https://open.spotify.com/track/0nFEeSOwXfkYKSShg2RR1V) | [The Winans](https://open.spotify.com/artist/7EQrc1Kz56jCHgJ895CZJ8) | [Tomorrow](https://open.spotify.com/album/1OFvGlqOQ1gSJ6Jf6DFVRS) | 5:23 |
-| 16 | [Now Behold the Lamb](https://open.spotify.com/track/77aKjAafF8qar9i3d6F84P) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [The Family](https://open.spotify.com/artist/0eV7uNHXarEGKmDzr5jPxp) | [Christmas](https://open.spotify.com/album/2LEbJTBi1Wi88sb3SWRxg4) | 6:58 |
+| 16 | [Now Behold the Lamb \- Live](https://open.spotify.com/track/77aKjAafF8qar9i3d6F84P) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [The Family](https://open.spotify.com/artist/0eV7uNHXarEGKmDzr5jPxp) | [Christmas](https://open.spotify.com/album/2LEbJTBi1Wi88sb3SWRxg4) | 6:58 |
 | 17 | [The Potter's House \- Live](https://open.spotify.com/track/2GLX6WynSRAirDye9AtKkw) | [Tramaine Hawkins](https://open.spotify.com/artist/3VrvtMPf98keYfWoBPx4OR) | [Tramaine Hawkins Live](https://open.spotify.com/album/0e7ByrzFOoMGqhPTQttAT4) | 6:35 |
 | 18 | [Safe In His Arms](https://open.spotify.com/track/4TsOvX4vJ41XOBA0Dmks9k) | [Rev\. Milton Brunson](https://open.spotify.com/artist/3Tiff2zKob5oG6m7AQpbis), [The Thompson Community Singers](https://open.spotify.com/artist/1MWWUdLJVnU7HryE29JNZI) | [Fifty Blessed Years](https://open.spotify.com/album/4IddWR3TFYrrjYJ4SyaPtK) | 5:04 |
 | 19 | [Jesus Paid It All](https://open.spotify.com/track/6wmaBYjdDnrPpof3WdguF4) | [Mississippi Mass Choir](https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW) | [I'll See You In The Rapture](https://open.spotify.com/album/7ilTFnzPNBzMKL5kloYGzG) | 6:40 |
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4dtFEnppbd.md) - [plain]
 | 26 | [Calvary](https://open.spotify.com/track/02z20oTwSuEa4EBx8Q47Dj) | [Kim Burrell](https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA) | [Live in Concert](https://open.spotify.com/album/1DwIkkDUYWYgslR1McB65B) | 9:33 |
 | 27 | [The Center of My Joy](https://open.spotify.com/track/01uA4LkBFfp2xEeIojihtC) | [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP) | [Textures](https://open.spotify.com/album/11vPXkDqXaKM84D1ggfpHl) | 5:17 |
 
-Snapshot ID: `MCw4OWM4NThkNjJhNzBlNWU4NzFkZTBlZWUxODRkMGI0ZmQ3N2E1YzJk`
+Snapshot ID: `MCw3MDMwZjUyYmZhOWNhNDBiNWYyYTBiNzZkOWQwNDBiMThkMmVjYjM3`

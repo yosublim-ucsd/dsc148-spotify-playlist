@@ -539,6 +539,24 @@
     },
     {
       "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/6kzNNU7HLkQKa34biXSXqu"
+      },
+      "artists": [
+        {
+          "name": "KAASI",
+          "url": "https://open.spotify.com/artist/0rCjhB7bSAgpshTquzm1I6"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340642,
+      "name": "Bus",
+      "url": "https://open.spotify.com/track/7hTKI86bzqfnKfxaOJiWdl"
+    },
+    {
+      "album": {
         "name": "Call On Me & Lifetime (Remixes)",
         "url": "https://open.spotify.com/album/1CRH8YfN1l16GxyuuFQn18"
       },
@@ -562,6 +580,24 @@
       "duration_ms": 209767,
       "name": "Call On Me (with Tove Lo) - SILK \"2am\" Remix",
       "url": "https://open.spotify.com/track/1FOB0dyeUM2iOLMNnX8dKE"
+    },
+    {
+      "album": {
+        "name": "Igneous",
+        "url": "https://open.spotify.com/album/0wws0DAEgjEi4qchBKQVVO"
+      },
+      "artists": [
+        {
+          "name": "Polynation",
+          "url": "https://open.spotify.com/artist/4Rcol4u0q89lypqKI83GDz"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411000,
+      "name": "Cascade",
+      "url": "https://open.spotify.com/track/7k4KRUOx0iqFxdk8JhNtks"
     },
     {
       "album": {
@@ -1254,7 +1290,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 225314,
       "name": "Everything",
       "url": "https://open.spotify.com/track/68DlocJklu5t9y9Fsg7Qvr"
@@ -1826,7 +1862,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 403716,
       "name": "Huge Organ",
       "url": "https://open.spotify.com/track/0zP9e41aqAToTcN8Ioh9FS"
@@ -1940,6 +1976,24 @@
       "duration_ms": 209750,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/333fT7uDUEd2UcPuGVSAzP"
+    },
+    {
+      "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/2yvMBRLfWvhFXt1uagrU9R"
+      },
+      "artists": [
+        {
+          "name": "Austin Ato",
+          "url": "https://open.spotify.com/artist/6sCrZwNbMhp1iahiiFQY66"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409003,
+      "name": "I'm On The Phone",
+      "url": "https://open.spotify.com/track/3hqYEDLI5zoMZstBonoXiZ"
     },
     {
       "album": {
@@ -3730,7 +3784,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 262722,
       "name": "Soulflow",
       "url": "https://open.spotify.com/track/34k8q1O8eAk4HWzU4jQ7ls"
@@ -4444,7 +4498,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 497521,
       "name": "Want You In My Soul",
       "url": "https://open.spotify.com/track/125ABiFu87TxipoWAMK8LR"
@@ -4674,6 +4728,40 @@
       "duration_ms": 226451,
       "name": "Wish I Knew",
       "url": "https://open.spotify.com/track/4LbRlcWWiY68c0zXJEqtwW"
+    },
+    {
+      "album": {
+        "name": "Work (CVMPANILE & Draxx Remix)",
+        "url": "https://open.spotify.com/album/6EsrSYAlt4N7hL2EfhMUqe"
+      },
+      "artists": [
+        {
+          "name": "Kevin McKay",
+          "url": "https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg"
+        },
+        {
+          "name": "Pupa Nas T",
+          "url": "https://open.spotify.com/artist/4vm90zckXYAA2AZGFStkmy"
+        },
+        {
+          "name": "Denise Belfon",
+          "url": "https://open.spotify.com/artist/20rSjugHQ6CwKR44JnteQf"
+        },
+        {
+          "name": "CVMPANILE",
+          "url": "https://open.spotify.com/artist/57xJDNhXj9OxeNKYrM3c8W"
+        },
+        {
+          "name": "Draxx (ITA)",
+          "url": "https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371076,
+      "name": "Work - CVMPANILE & Draxx Extended Remix",
+      "url": "https://open.spotify.com/track/5DZccyNEsfrSWTP02aWMrU"
     },
     {
       "album": {

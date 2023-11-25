@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 
 > Music from and inspired by Emily in Paris, new episodes now streaming!
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,681 likes - 216 songs - 12 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,848 likes - 216 songs - 12 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,7 +179,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 | 169 | [The Break](https://open.spotify.com/track/7JMZlCsevBlClH6MMENrZL) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [The Break](https://open.spotify.com/album/5FzGZk5IFH8u4ff4rxrt6h) | 3:03 |
 | 170 | [La Paix](https://open.spotify.com/track/3acVD8EIi5J4GUqPz1eAe8) | [Barbagallo](https://open.spotify.com/artist/6s6G7IGye7b8hnTMG2bMPz) | [Les Grands Brûlés](https://open.spotify.com/album/53U2OgkxriblkoAGgfH5cC) | 3:57 |
 | 171 | [Dans la radio \- Futuro Pelo Remix](https://open.spotify.com/track/04aQGQLfy4u0jU9KPPuXlf) | [Jacques](https://open.spotify.com/artist/55i4AnS7E58y41UwE0vvQh), [Futuro Pelo](https://open.spotify.com/artist/5EqHv5lvGgrnkuGEFn67yN) | [Dans la radio \(Remix\)](https://open.spotify.com/album/28zFesgoPPwzJQQJysgUmQ) | 2:58 |
-| 172 | [Je suis \- Tu hais](https://open.spotify.com/track/1s1DqwJZNCrSlFponDoD0k) | [KIZ](https://open.spotify.com/artist/2y7twK2fqUipb5Ef2hNrdO) | [Des tours](https://open.spotify.com/album/552jXwMYOCjcapSPZORvCQ) | 3:03 |
+| 172 | [Je suis \- Tu hais](https://open.spotify.com/track/5eMVfBYv22ad10rdZHYBjL) | [KIZ](https://open.spotify.com/artist/2y7twK2fqUipb5Ef2hNrdO) | [Des tours](https://open.spotify.com/album/3Yfu9yUPUVzIGAZZW8xzeT) | 3:03 |
 | 173 | [Where Is My Ego ? \- Dim Sum Remix](https://open.spotify.com/track/4p2ziT3CUffFyt4KrGwQ6s) | [Husbands](https://open.spotify.com/artist/006Mv4bnAJGVnasH1pbDEO) | [Where Is My Ego ?](https://open.spotify.com/album/7jX2PDOngM3aSnOLv609U0) | 4:24 |
 | 174 | [Lovin' Feeling](https://open.spotify.com/track/5pxtj7cCnv2hZe6mbS2MBx) | [French 79](https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e), [Kid Francescoli](https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD) | [Olympic](https://open.spotify.com/album/6rkKOTP3oBns0nR6mfHOsH) | 3:24 |
 | 175 | [Dream](https://open.spotify.com/track/1gg7VrHQD09dTZd8MzCsRA) | [Husbands](https://open.spotify.com/artist/006Mv4bnAJGVnasH1pbDEO) | [DREAM / OVERSEAS](https://open.spotify.com/album/5TSqxB0rEAWFXXApmFtwXf) | 3:37 |

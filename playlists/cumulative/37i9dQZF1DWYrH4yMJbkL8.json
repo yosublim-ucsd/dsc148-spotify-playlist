@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "A free space for Indigenous creators. Currently curated by Jeremy Dutcher.",
+  "description": "A free space for Indigenous creators. Currently curated by Shawnee Kish.",
   "name": "Indigenous",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 221813,
       "name": "100 Years - Remastered 2021",
       "url": "https://open.spotify.com/track/0dOPhH828C4TwABjiFGHEx"
@@ -182,7 +182,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 244341,
       "name": "Aarehg\u00efjre - Early Spring",
       "url": "https://open.spotify.com/track/2q1P6ZQd1DNkd7yv9R5AIT"
@@ -276,7 +276,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 192673,
       "name": "Akakaw",
       "url": "https://open.spotify.com/track/0tSy6coB9Bs7qAdkcCi2JE"
@@ -294,7 +294,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 293160,
       "name": "Ale vuos guo\u0111e mu",
       "url": "https://open.spotify.com/track/677GdS6dk6gIeRz8gF0vcc"
@@ -597,6 +597,24 @@
     },
     {
       "album": {
+        "name": "Debut",
+        "url": "https://open.spotify.com/album/67Exl2sjFAgPYg10sXUWVM"
+      },
+      "artists": [
+        {
+          "name": "Silla and Rise",
+          "url": "https://open.spotify.com/artist/36mbGtXK7s9nAr0QMTsTIl"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222981,
+      "name": "Atausiq \u2013 One",
+      "url": "https://open.spotify.com/track/7GK2eKZ1mwQM0MWyKQfulz"
+    },
+    {
+      "album": {
         "name": "Nitehi aimihewin",
         "url": "https://open.spotify.com/album/0m78A0vSqw5gGGVXQM3aGk"
       },
@@ -859,6 +877,24 @@
     },
     {
       "album": {
+        "name": "Reckoning EP",
+        "url": "https://open.spotify.com/album/7apBRbtudCHTCvJdRDWVwU"
+      },
+      "artists": [
+        {
+          "name": "Melody McKiver",
+          "url": "https://open.spotify.com/artist/2gjAAOSvTNAJMZ04trV0SA"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222960,
+      "name": "Bezhig",
+      "url": "https://open.spotify.com/track/39xVeO3UF3wHHU8jiJAmOJ"
+    },
+    {
+      "album": {
         "name": "Feed the Fire",
         "url": "https://open.spotify.com/album/3trrC8035F4ueYpGAh7eYn"
       },
@@ -946,7 +982,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 212183,
       "name": "Bobtail Road",
       "url": "https://open.spotify.com/track/5kPu5GCBKldjAy2sMgU2bU"
@@ -1186,7 +1222,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 172986,
       "name": "Change Has To Come",
       "url": "https://open.spotify.com/track/7wyO4tofP2m6SGdtkjUnLJ"
@@ -1230,7 +1266,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-13",
+      "date_removed": null,
       "duration_ms": 221392,
       "name": "Child Of The Government",
       "url": "https://open.spotify.com/track/2c9bXyhZiAco7lXNyugSl6"
@@ -1654,7 +1690,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 318959,
       "name": "Dodem",
       "url": "https://open.spotify.com/track/6WVvlRjBgIkpK29xDRm9VG"
@@ -1744,7 +1780,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 230971,
       "name": "Duohta Lie\u0111it",
       "url": "https://open.spotify.com/track/1gbwDV4K1HTAomf2PqW1Dj"
@@ -2481,6 +2517,24 @@
     },
     {
       "album": {
+        "name": "Heartbreak on the Coast",
+        "url": "https://open.spotify.com/album/2nhPAJDgObvUZMbf7jF2QN"
+      },
+      "artists": [
+        {
+          "name": "Nimkish",
+          "url": "https://open.spotify.com/artist/2wanSS60dzfQZZlkp8yswA"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216480,
+      "name": "Get You",
+      "url": "https://open.spotify.com/track/6ZiuH476qmdiNSg1PFy4CK"
+    },
+    {
+      "album": {
         "name": "Returning Home (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7sWKJP7QMK6KHlevNSb7B2"
       },
@@ -2528,7 +2582,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 252857,
       "name": "Gitu'an",
       "url": "https://open.spotify.com/track/5iOugw7fxcgOIFtkjlkWfe"
@@ -2680,6 +2734,24 @@
       "duration_ms": 214706,
       "name": "Got It Bad",
       "url": "https://open.spotify.com/track/28rferE61pjOeG0zbCjRpN"
+    },
+    {
+      "album": {
+        "name": "Omen",
+        "url": "https://open.spotify.com/album/06bmdZDfjxENvEm3jwKEx8"
+      },
+      "artists": [
+        {
+          "name": "Twin Flames",
+          "url": "https://open.spotify.com/artist/5rd4DwuxvrxyZoG0rC9YHi"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246539,
+      "name": "Grace Too",
+      "url": "https://open.spotify.com/track/7fySPnE1inumg81vJnaMPG"
     },
     {
       "album": {
@@ -3215,6 +3287,28 @@
     },
     {
       "album": {
+        "name": "I Get High",
+        "url": "https://open.spotify.com/album/5pYG80NmlqRu2HDLgsBKZG"
+      },
+      "artists": [
+        {
+          "name": "iskw\u0113",
+          "url": "https://open.spotify.com/artist/31flUlPgtGjDz3WL9hn420"
+        },
+        {
+          "name": "Nina Hagen",
+          "url": "https://open.spotify.com/artist/7xZHrltZh8zIRvjimgABvj"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239173,
+      "name": "I Get High ft Nina Hagen",
+      "url": "https://open.spotify.com/track/1kN91pjvwyxjjayV5BiCxx"
+    },
+    {
+      "album": {
         "name": "Native North America (Vol. 1) : Aboriginal Folk, Rock, And Country 1966-1985",
         "url": "https://open.spotify.com/album/20uFRx6K8E7YtRsbiRJyen"
       },
@@ -3371,6 +3465,42 @@
     },
     {
       "album": {
+        "name": "Sacred Seed",
+        "url": "https://open.spotify.com/album/1u4jIt75xXcLPOb0EshZup"
+      },
+      "artists": [
+        {
+          "name": "Pura F\u00e9",
+          "url": "https://open.spotify.com/artist/4X29e8gzgjLJ6ZpFp6TljL"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250200,
+      "name": "Idle No More",
+      "url": "https://open.spotify.com/track/4rDacArzBpLPCukfXVm4ZJ"
+    },
+    {
+      "album": {
+        "name": "The Velvet Devil",
+        "url": "https://open.spotify.com/album/0Y1iv2OLNtd2yWCDSoAUpI"
+      },
+      "artists": [
+        {
+          "name": "Andrea Menard",
+          "url": "https://open.spotify.com/artist/4RtLwUiX36WrAIajEOU3x9"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203426,
+      "name": "If I Were a Man",
+      "url": "https://open.spotify.com/track/24q0ttB7sfMYYTTocRpUfb"
+    },
+    {
+      "album": {
         "name": "Lonely Ghost",
         "url": "https://open.spotify.com/album/7szrcW1WAyocBTM1Laq3Z2"
       },
@@ -3494,10 +3624,28 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-01",
+      "date_removed": null,
       "duration_ms": 157800,
       "name": "Immamiit",
       "url": "https://open.spotify.com/track/2ZRPpMm6rtv8NGmKH8wTBQ"
+    },
+    {
+      "album": {
+        "name": "My All To You",
+        "url": "https://open.spotify.com/album/6meWLme3zfqggs1SfGOwIh"
+      },
+      "artists": [
+        {
+          "name": "Beatrice Deer",
+          "url": "https://open.spotify.com/artist/3YEhsztAtjqpC0JikHMmYe"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211489,
+      "name": "Immutaa",
+      "url": "https://open.spotify.com/track/5Q9v0cy6iqc4VvCtDpUnPk"
     },
     {
       "album": {
@@ -3610,7 +3758,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-09",
+      "date_removed": null,
       "duration_ms": 211965,
       "name": "Intuition",
       "url": "https://open.spotify.com/track/6evHTeZnv784MePmGVMzi3"
@@ -3780,7 +3928,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 275250,
       "name": "ka utapanashkutshet",
       "url": "https://open.spotify.com/track/45EENGqU3bBtzZO3mN193p"
@@ -3966,7 +4114,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 270933,
       "name": "LANDBACK",
       "url": "https://open.spotify.com/track/6MHRLX5oeXxWUbuvqT7QFG"
@@ -4182,7 +4330,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 149000,
       "name": "Little Wheel Spin And Spin",
       "url": "https://open.spotify.com/track/6FAOMHHxM2FXst5vOc2RpK"
@@ -4266,6 +4414,24 @@
       "duration_ms": 201000,
       "name": "Lost With You",
       "url": "https://open.spotify.com/track/6TqpVC4vqsZsFT0AH5doGJ"
+    },
+    {
+      "album": {
+        "name": "Love Alone",
+        "url": "https://open.spotify.com/album/11r93iWsgjzlkyDp2jymBc"
+      },
+      "artists": [
+        {
+          "name": "Anachnid",
+          "url": "https://open.spotify.com/artist/3InHKoRqLAoPvPfH5T6WEO"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246464,
+      "name": "Love Alone",
+      "url": "https://open.spotify.com/track/1qBOFi4RL3dPOgoQMQ8tkY"
     },
     {
       "album": {
@@ -4364,7 +4530,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 235000,
       "name": "Mali",
       "url": "https://open.spotify.com/track/1egDrduiGHmIDmwBWOihCz"
@@ -4560,6 +4726,24 @@
       "duration_ms": 231360,
       "name": "Messenger",
       "url": "https://open.spotify.com/track/6JOYyS95P8oVdN1ggQ9VRY"
+    },
+    {
+      "album": {
+        "name": "Met You",
+        "url": "https://open.spotify.com/album/7gKbauN9q5wDC9rHMrnTnX"
+      },
+      "artists": [
+        {
+          "name": "Rosary Spence",
+          "url": "https://open.spotify.com/artist/1jFu5p4hT9GMHuQzumcUBr"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212794,
+      "name": "Met You",
+      "url": "https://open.spotify.com/track/6sOoJA0hdIxu05nfp656mH"
     },
     {
       "album": {
@@ -4874,7 +5058,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 193002,
       "name": "Nicto Kicko",
       "url": "https://open.spotify.com/track/0XGhTmn4VHUQkGDl7HXoGd"
@@ -5001,6 +5185,24 @@
     },
     {
       "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/3hQtaxXNlSKpCz1Li6BiUm"
+      },
+      "artists": [
+        {
+          "name": "Shawnee Kish",
+          "url": "https://open.spotify.com/artist/67KtTWjRTAU9ZkjRFnaffZ"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166694,
+      "name": "No Evil",
+      "url": "https://open.spotify.com/track/37R6oND48ZIrFwmPs9Vt2G"
+    },
+    {
+      "album": {
         "name": "The Land, The Water, The Sky",
         "url": "https://open.spotify.com/album/3TBUsH85t2wRWS6DfMHcga"
       },
@@ -5012,7 +5214,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 286383,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/2ElOjg63UnovNDm8vauTRo"
@@ -5146,7 +5348,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 256000,
       "name": "Odana",
       "url": "https://open.spotify.com/track/1yhwQLeQQjaeKipD09osli"
@@ -5388,7 +5590,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 225078,
       "name": "Ovddos / Hivumuuniq",
       "url": "https://open.spotify.com/track/19gcf7E6b7rVAHz2TK9Q7f"
@@ -5576,7 +5778,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 222215,
       "name": "Pomawsuwinuwok Wonakiyawolotuwok",
       "url": "https://open.spotify.com/track/54RrPwnNwGk3XCIhPswkqo"
@@ -6000,7 +6202,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 166651,
       "name": "Resisto Y Ya",
       "url": "https://open.spotify.com/track/0WBaWHu6eLYiatba49zosh"
@@ -6167,6 +6369,24 @@
     },
     {
       "album": {
+        "name": "North Star Calling",
+        "url": "https://open.spotify.com/album/2PdiDRBnfTLh6c5SZ4Zt62"
+      },
+      "artists": [
+        {
+          "name": "Leela Gilday",
+          "url": "https://open.spotify.com/artist/0nSstpr48Xb3fVs5AZHOLN"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276624,
+      "name": "Rolling Thunder",
+      "url": "https://open.spotify.com/track/7FSRPmibUlwf3jNSA0Uswe"
+    },
+    {
+      "album": {
         "name": "Multidimensional Culture",
         "url": "https://open.spotify.com/album/7HKq1geZSeixNxtQOc8ZCu"
       },
@@ -6298,7 +6518,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 121694,
       "name": "Sakom",
       "url": "https://open.spotify.com/track/3WY6yYsdDJH1JpqzJDXdft"
@@ -6670,7 +6890,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 359307,
       "name": "Singing Up Country",
       "url": "https://open.spotify.com/track/11EFXIUzqm0axnIyTXKwJP"
@@ -6688,7 +6908,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 267125,
       "name": "Sinnatuumait (Dreams)",
       "url": "https://open.spotify.com/track/03dkWkSwq8FWDOxOG70Uk8"
@@ -7121,6 +7341,24 @@
     },
     {
       "album": {
+        "name": "Stella!",
+        "url": "https://open.spotify.com/album/3AflcEw67i4FAw1HGZ6ll8"
+      },
+      "artists": [
+        {
+          "name": "Shawnee Kish",
+          "url": "https://open.spotify.com/artist/67KtTWjRTAU9ZkjRFnaffZ"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145010,
+      "name": "Stella!",
+      "url": "https://open.spotify.com/track/3UWENa1Y14I1bSC6HeS4ea"
+    },
+    {
+      "album": {
         "name": "Pass the Torch",
         "url": "https://open.spotify.com/album/2OSCceRfNm6FLSbxsBSo3P"
       },
@@ -7172,6 +7410,24 @@
       "duration_ms": 208511,
       "name": "Storytelling Warrior",
       "url": "https://open.spotify.com/track/60XKJNgKm2DVll5Ov8m3Hv"
+    },
+    {
+      "album": {
+        "name": "Native Music",
+        "url": "https://open.spotify.com/album/1dKCIXwquHjOXRr5xsbEYj"
+      },
+      "artists": [
+        {
+          "name": "Lisa Muswagon",
+          "url": "https://open.spotify.com/artist/0ZkIb4eCGyDSGIBMEAj2yh"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149500,
+      "name": "Strong Woman",
+      "url": "https://open.spotify.com/track/3WRUxIn2ht7btvJXcpn6QV"
     },
     {
       "album": {
@@ -7266,7 +7522,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 195173,
       "name": "Sunstreams",
       "url": "https://open.spotify.com/track/6lG9rQwEfqKidsZbWwef8S"
@@ -7428,7 +7684,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 340954,
       "name": "Take My Hand",
       "url": "https://open.spotify.com/track/4UQecGDOydqhMRLGhyRQye"
@@ -7502,7 +7758,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 226666,
       "name": "Tapwe",
       "url": "https://open.spotify.com/track/7jiXHIRCaDtvVwKms0WLuF"
@@ -7524,7 +7780,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 263800,
       "name": "Tasiulaurluk (Isuarsivik Anthem)",
       "url": "https://open.spotify.com/track/0muBtJ9nIGW3ZZ5dzKqzkk"
@@ -7560,10 +7816,28 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 172638,
       "name": "Teeth",
       "url": "https://open.spotify.com/track/0JNgAdyuKvjdepuvm1OPmX"
+    },
+    {
+      "album": {
+        "name": "Tongues",
+        "url": "https://open.spotify.com/album/565j8hb4CaU9pWZSz7tVMh"
+      },
+      "artists": [
+        {
+          "name": "Tanya Tagaq",
+          "url": "https://open.spotify.com/artist/2WIb75pwIt78VCAhAtPObY"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215482,
+      "name": "Teeth Agape",
+      "url": "https://open.spotify.com/track/5xi07QPZNbBs6MmKsGhrd1"
     },
     {
       "album": {
@@ -7686,7 +7960,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-01",
+      "date_removed": null,
       "duration_ms": 232706,
       "name": "The Healer",
       "url": "https://open.spotify.com/track/2mQocJ9mjee0Qj55RJADTT"
@@ -7726,7 +8000,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 211662,
       "name": "The OG",
       "url": "https://open.spotify.com/track/42MbvdispU0Gm9XjruM5FM"
@@ -7820,7 +8094,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 240596,
       "name": "The War Racket",
       "url": "https://open.spotify.com/track/4pPDcvBNGwVmNHt103fgzY"
@@ -7860,6 +8134,24 @@
       "duration_ms": 342552,
       "name": "The Witching Hour (Electric Witch)",
       "url": "https://open.spotify.com/track/7K9isvfuLxPwZTg8aDDCe3"
+    },
+    {
+      "album": {
+        "name": "Everything and Nothing at All",
+        "url": "https://open.spotify.com/album/0W4K7bWby8EqFWbnUhxXlQ"
+      },
+      "artists": [
+        {
+          "name": "Celeigh Cardinal",
+          "url": "https://open.spotify.com/artist/7HAq3UBI3pb8ok9k7dkdGR"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262999,
+      "name": "There Ain't No Way",
+      "url": "https://open.spotify.com/track/47yh0CLSsEeABT2kVFaH5V"
     },
     {
       "album": {
@@ -7964,7 +8256,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 241880,
       "name": "Thunderbird Song",
       "url": "https://open.spotify.com/track/2Wz1NF7zA4mgeszYux0BT9"
@@ -8022,7 +8314,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 202083,
       "name": "Tongues",
       "url": "https://open.spotify.com/track/4cdatGZQkKpBKZOiXptz5I"
@@ -8098,6 +8390,28 @@
       "duration_ms": 190680,
       "name": "Truth",
       "url": "https://open.spotify.com/track/4VbffBUFxJ960bNtvCBbiE"
+    },
+    {
+      "album": {
+        "name": "Sing Mohawk With Yako",
+        "url": "https://open.spotify.com/album/3DEeglTzRvXVTYj30ZfYZw"
+      },
+      "artists": [
+        {
+          "name": "Yako",
+          "url": "https://open.spotify.com/artist/4yt4Sccto06hCzwySencvp"
+        },
+        {
+          "name": "Shawnee Kish",
+          "url": "https://open.spotify.com/artist/67KtTWjRTAU9ZkjRFnaffZ"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105722,
+      "name": "Twinkle Twinkle",
+      "url": "https://open.spotify.com/track/6We9RKubfy33WzDgqIr0bJ"
     },
     {
       "album": {
@@ -8227,6 +8541,24 @@
     },
     {
       "album": {
+        "name": "Inuktitut",
+        "url": "https://open.spotify.com/album/6Kw9owtgtKeyx9LSM1CEzP"
+      },
+      "artists": [
+        {
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238288,
+      "name": "Uummati Attanarsimat (Heart of Glass)",
+      "url": "https://open.spotify.com/track/4GgQWuxZL8qbZUHHA0wWuI"
+    },
+    {
+      "album": {
         "name": "Uummati Attanarsimat (Heart of Glass)",
         "url": "https://open.spotify.com/album/4qQYh3Udg39IwdwBPM8TZZ"
       },
@@ -8256,7 +8588,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 172453,
       "name": "Vildaluodda",
       "url": "https://open.spotify.com/track/6HN90v90gh0PnSlZUYvCWe"
@@ -8440,7 +8772,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 232986,
       "name": "War",
       "url": "https://open.spotify.com/track/2I4G4WtBV7DlR1jeN3OBgD"
@@ -8596,7 +8928,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 225106,
       "name": "We Were Here",
       "url": "https://open.spotify.com/track/5324JvTUrlVccbspYQmX7a"
@@ -8701,6 +9033,24 @@
     },
     {
       "album": {
+        "name": "Church House Blues",
+        "url": "https://open.spotify.com/album/2cCuO5kbKBYkhRP6028JvC"
+      },
+      "artists": [
+        {
+          "name": "Crystal Shawanda",
+          "url": "https://open.spotify.com/artist/31X6W8Y4y9E0G78r5Y2rXG"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298226,
+      "name": "When It Comes To Love",
+      "url": "https://open.spotify.com/track/1xch92JhTa1SPgQrFUVZDW"
+    },
+    {
+      "album": {
         "name": "When the Smoke Clears",
         "url": "https://open.spotify.com/album/5xGWDO5DeQdCiTKKOo08N8"
       },
@@ -8734,6 +9084,42 @@
       "duration_ms": 185920,
       "name": "When You Miss Someone",
       "url": "https://open.spotify.com/track/0WTMkjTjqKy2KnNQYGfQI5"
+    },
+    {
+      "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/3hQtaxXNlSKpCz1Li6BiUm"
+      },
+      "artists": [
+        {
+          "name": "Shawnee Kish",
+          "url": "https://open.spotify.com/artist/67KtTWjRTAU9ZkjRFnaffZ"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196169,
+      "name": "Win Me Over",
+      "url": "https://open.spotify.com/track/4I0PJAhToG8Wxn3Mc2Z9ao"
+    },
+    {
+      "album": {
+        "name": "Dreamweaver",
+        "url": "https://open.spotify.com/album/39gvn7LqSbcAVjl3nbvVWZ"
+      },
+      "artists": [
+        {
+          "name": "Anachnid",
+          "url": "https://open.spotify.com/artist/3InHKoRqLAoPvPfH5T6WEO"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180074,
+      "name": "Windigo",
+      "url": "https://open.spotify.com/track/4mKj2fDfP39TaXBktqH3Or"
     },
     {
       "album": {
@@ -8792,6 +9178,24 @@
       "duration_ms": 139214,
       "name": "Would You Die? - Stripped Down",
       "url": "https://open.spotify.com/track/6Tw3l5g2HVrwSLXqQSoZat"
+    },
+    {
+      "album": {
+        "name": "Women's Voices for Attawapiskat",
+        "url": "https://open.spotify.com/album/4kt8rzn4ioRO2TzqxVs7LQ"
+      },
+      "artists": [
+        {
+          "name": "Pura F\u00e9",
+          "url": "https://open.spotify.com/artist/4X29e8gzgjLJ6ZpFp6TljL"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236304,
+      "name": "You Are Not Alone (Canoe Song) [Excerpt] [feat. Gail Obediah]",
+      "url": "https://open.spotify.com/track/6gaNXZ6hNj9SoWf2kYee81"
     },
     {
       "album": {

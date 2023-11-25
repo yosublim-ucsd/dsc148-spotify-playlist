@@ -1742,7 +1742,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 214986,
       "name": "DEEP END (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/63YcOq8SNXtnZtCfjyEpmq"
@@ -4084,7 +4084,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 182818,
       "name": "Lies (feat. Fridayy)",
       "url": "https://open.spotify.com/track/06r4zNmjkvIRbzdu68RPNp"
@@ -4436,6 +4436,24 @@
       "duration_ms": 138411,
       "name": "Lovin On Me",
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
+    },
+    {
+      "album": {
+        "name": "Lowkey Pt. 2",
+        "url": "https://open.spotify.com/album/69NZLe2QZUXpbFsq9FIPxm"
+      },
+      "artists": [
+        {
+          "name": "Seddy Hendrinx",
+          "url": "https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230426,
+      "name": "Lowkey Pt. 2",
+      "url": "https://open.spotify.com/track/4zv3m52ktyOrzPGPoa9CNT"
     },
     {
       "album": {
@@ -6360,6 +6378,28 @@
       "duration_ms": 213333,
       "name": "Shake That Shit (feat. Kalan.FrFr)",
       "url": "https://open.spotify.com/track/3gP9gEf80R4j2mDjAsv6y5"
+    },
+    {
+      "album": {
+        "name": "Shawty",
+        "url": "https://open.spotify.com/album/4Nq3jfA6ZwxT6KZ17F3kyC"
+      },
+      "artists": [
+        {
+          "name": "Major Nine",
+          "url": "https://open.spotify.com/artist/2Hkr2U742ustoFcSW378ZE"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178964,
+      "name": "Shawty",
+      "url": "https://open.spotify.com/track/6jlBIo4lam4ZFso2PciGwU"
     },
     {
       "album": {

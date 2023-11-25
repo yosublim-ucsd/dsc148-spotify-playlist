@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-2,184 songs - 6 day 3 hr 9 min
+2,185 songs - 6 day 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -690,7 +690,8 @@
 | [El Despertar](https://open.spotify.com/track/1FL5mtgvNtJeHqm0ZkkMGt) | [Los Darts](https://open.spotify.com/artist/2e57Rvt0jZWYdbJJZgXScn) | [Color de Trópico \(Compiled By El Dragón Criollo y El Palmas\)](https://open.spotify.com/album/1ADKGt7i1rGDNPjiZscJV4) | 4:28 | 2022-06-09 | 2022-07-29 |
 | [El Diablo](https://open.spotify.com/track/5JXTjnYJd1STK0BWh3FIBS) | [Compay Quinto](https://open.spotify.com/artist/3ZjBjzEP0zWUcwUOsyKAoQ) | [El Diablo](https://open.spotify.com/album/5Z4w9G3XAfA3zw0LOq7SEY) | 2:47 | 2022-06-09 |  |
 | [El Fen](https://open.spotify.com/track/2XWm5Dzs7pt1qr57gUrZ5U) | [Ait Meslayene](https://open.spotify.com/artist/6UqOmCP26EuPagfWAAGEaI) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Part 2\) \(Habibi Funk 015\)](https://open.spotify.com/album/2QTAwOmV0lj1S1zGTuipFg) | 4:39 | 2022-07-12 | 2022-11-20 |
-| [El Fen](https://open.spotify.com/track/7mxnjeb6R7jMyKbxGTaB9B) | [Ait Meslayene](https://open.spotify.com/artist/6UqOmCP26EuPagfWAAGEaI) | [El Fen / Casbah](https://open.spotify.com/album/4FyMIn7x3MvXhS77CU8gOs) | 4:39 | 2022-10-31 |  |
+| [El Fen](https://open.spotify.com/track/7mxnjeb6R7jMyKbxGTaB9B) | [Ait Meslayene](https://open.spotify.com/artist/6UqOmCP26EuPagfWAAGEaI) | [El Fen / Casbah](https://open.spotify.com/album/4FyMIn7x3MvXhS77CU8gOs) | 4:39 | 2022-10-31 | 2023-11-25 |
+| [El fen](https://open.spotify.com/track/4rDxUHTSSRzYmYgzYOSRCr) | [Ait Meslayene](https://open.spotify.com/artist/6UqOmCP26EuPagfWAAGEaI) | [Je suis saoul](https://open.spotify.com/album/2vphiwW3fz3JyAI8x8qtIS) | 4:39 | 2023-10-06 |  |
 | [El Lobo](https://open.spotify.com/track/0CElgyNyOIQZ7b7tZa2m8e) | [Wganda Kenya](https://open.spotify.com/artist/6svnFatzuDJZKCWIK6edka) | [Palenque Palenque: Champeta Criolla & Afro Roots in Colombia 1975\-91](https://open.spotify.com/album/46rUmHGdXxemAoZHzfGyzF) | 3:02 | 2023-03-17 |  |
 | [El Lobo](https://open.spotify.com/track/0dgxoGtXDjStLnCJeeErvO) | [Wganda Kenya](https://open.spotify.com/artist/6svnFatzuDJZKCWIK6edka) | [Palenque Palenque: Champeta Criolla & Afro Roots in Colombia 1975 \- 91](https://open.spotify.com/album/3nnDp17ONStMm4LY6D64Mq) | 3:02 | 2022-06-09 | 2022-07-29 |
 | [El Lobo](https://open.spotify.com/track/5OTZykrDsyMc45J1K3uEz7) | [Wganda Kenya](https://open.spotify.com/artist/6svnFatzuDJZKCWIK6edka) | [Palenque Palenque: Champeta Criolla & Afro Roots in Colombia 1975\-91](https://open.spotify.com/album/1gXeomyVC17Y26UmWP5ugy) | 3:02 | 2022-07-27 | 2023-04-30 |

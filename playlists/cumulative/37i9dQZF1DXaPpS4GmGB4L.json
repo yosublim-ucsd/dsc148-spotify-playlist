@@ -546,7 +546,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 204400,
       "name": "Don`t Care",
       "url": "https://open.spotify.com/track/3k6KyWwZQCTfK4Hj9dDKRU"
@@ -900,6 +900,24 @@
       "duration_ms": 274693,
       "name": "Hate to See You Go",
       "url": "https://open.spotify.com/track/57Paxn9MrW8d8FmFyndLKj"
+    },
+    {
+      "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/516Bv1lX91UTFGLIdpKYYt"
+      },
+      "artists": [
+        {
+          "name": "Laura Evans",
+          "url": "https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230459,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/35j5tUnce6812hJBmwxXGV"
     },
     {
       "album": {

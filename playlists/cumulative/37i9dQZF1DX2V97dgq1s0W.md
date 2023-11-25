@@ -2,7 +2,7 @@
 
 ### [Riffs & Runs](https://open.spotify.com/playlist/37i9dQZF1DX2V97dgq1s0W)
 
-> Beautifully chilled vocals from around the world\. Cover: Jaz Karis & Shae Universe
+> Beautifully chilled vocals from around the world\. Cover: Kali Claire & Shae Universe
 
 234 songs - 12 hr 15 min
 

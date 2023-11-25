@@ -1441,6 +1441,24 @@
     },
     {
       "album": {
+        "name": "gardenside",
+        "url": "https://open.spotify.com/album/5gVEAhuFA0zVlAtn4eYxPV"
+      },
+      "artists": [
+        {
+          "name": "Swansea Skag",
+          "url": "https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156035,
+      "name": "gardenside",
+      "url": "https://open.spotify.com/track/4poUtXSEEq14Nl00q9Yr0P"
+    },
+    {
+      "album": {
         "name": "gave you my all",
         "url": "https://open.spotify.com/album/6f2HSagGc0cJvZAZZraJqp"
       },
@@ -1954,6 +1972,24 @@
       "duration_ms": 151454,
       "name": "I hope we can still be friends",
       "url": "https://open.spotify.com/track/2Fp2eFJSDMZCZ3Pc9OINmp"
+    },
+    {
+      "album": {
+        "name": "i see pain",
+        "url": "https://open.spotify.com/album/5jVDZXzD12zdCEtsmrUGR5"
+      },
+      "artists": [
+        {
+          "name": "kurffew",
+          "url": "https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163891,
+      "name": "i see pain",
+      "url": "https://open.spotify.com/track/7kAkl44rGhMqNpJU66qoKT"
     },
     {
       "album": {

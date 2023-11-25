@@ -2,9 +2,9 @@
 
 ### [POGO](https://open.spotify.com/playlist/37i9dQZF1DWTphHAHFWZlz)
 
-> Nuevo sonido, misma actitud.<br/>📷 Evlay
+> Nuevo sonido, misma actitud.<br/>📷 FEMI
 
-267 songs - 15 hr 34 min
+268 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Escape a Plutón](https://open.spotify.com/track/77p7tm1xAoZaMIouZNKkPp) | [Fútbol](https://open.spotify.com/artist/3F4LyTOlwym0YQmYBlbAAf), [Shaman Herrera](https://open.spotify.com/artist/6v6Zd9sNdAHCHBrrIs58So) | [Escape a Plutón](https://open.spotify.com/album/50jmo3TCxTOYM1yBIpykqm) | 2:23 | 2022-06-29 | 2023-05-20 |
 | [Escurridiza](https://open.spotify.com/track/5wLMgRfTU6darBQ2X1DkeN) | [Lopsis](https://open.spotify.com/artist/7a03TrYmYowGh36mXBsLGD) | [El Resto de los Días](https://open.spotify.com/album/0XqoGBuZ30uBpXlfBlSQx5) | 3:20 | 2022-06-29 | 2023-05-20 |
 | [Estás acá](https://open.spotify.com/track/4q2adyzkct9AlMxrtsVHSK) | [Telepáticos](https://open.spotify.com/artist/0r4Bb4UTFpuFvIvENU6Az0) | [Telepáticos](https://open.spotify.com/album/3RIPF4H67CpBKiXrE1A8WR) | 3:31 | 2022-06-29 | 2022-07-20 |
+| [FANTINO](https://open.spotify.com/track/5dLzWnp0GXZyEFGhreAy9g) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [CULTURA FAMÉLICA](https://open.spotify.com/album/7z8JY0oZEWjeDI055rNyHo) | 3:20 | 2023-11-24 |  |
 | [Fornai](https://open.spotify.com/track/6zzkVxSr17jP2B7PbnsoXk) | [BARRO](https://open.spotify.com/artist/15eDgdb1lKrgc9DDtuLN41) | [Barro](https://open.spotify.com/album/2oUg7X1bWG4JfAkmuSDNMS) | 2:54 | 2023-05-19 | 2023-07-29 |
 | [Frontera](https://open.spotify.com/track/1Do9XJmrqphuNTk3XJ37ah) | [Años Luz](https://open.spotify.com/artist/46N1BjrxCmtoQO0RVjVzlP) | [Frontera](https://open.spotify.com/album/0EdNh6GwvHJViNFEXdVOBA) | 3:01 | 2022-09-09 | 2023-05-20 |
 | [Fuera de Foco](https://open.spotify.com/track/3HBuXMWVqplKX6GXaQCyrS) | [Los Reyes del Falsete](https://open.spotify.com/artist/3fSY3Q7ElfLbI1cR3RyOXd) | [El Show del Fin del Mundo, Vol\. 1](https://open.spotify.com/album/1NwffYreHko6QEXjoAdSmq) | 3:16 | 2022-07-19 | 2022-09-10 |
@@ -152,7 +153,7 @@
 | [Las Malas Memorias](https://open.spotify.com/track/0lkwAvd25lzmH3bhz19vw2) | [Martes 13](https://open.spotify.com/artist/4yQad4h1S2VKZbiEYlnFKy) | [Las Malas Memorias](https://open.spotify.com/album/0rQINXwCm2jPWHwwqCZdY2) | 3:02 | 2022-09-09 | 2023-05-20 |
 | [LATAS](https://open.spotify.com/track/6CidWSzeGzBIz82eS4sG4m) | [K4](https://open.spotify.com/artist/0yjlGMMFuIci8JCTAOb2AU), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2), [Proyecto Gomez Casa](https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe) | [LATAS](https://open.spotify.com/album/3oDPZk5VVbahXJSq0HVhat) | 2:36 | 2023-05-19 |  |
 | [Liberen al Pity](https://open.spotify.com/track/3raStJ1O5HY7Np5e9UaKx8) | [un muerto mas](https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0) | [Verano en Invierno](https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5) | 2:40 | 2023-05-19 |  |
-| [Limpio y Suelto](https://open.spotify.com/track/0MbHB6J0fAroord0VamzkK) | [Santoz](https://open.spotify.com/artist/3TBQtYdNFCgig6ZrFUJkLx), [ROMAN YOUGARETH](https://open.spotify.com/artist/1FZXkcxfsrrD0WTj9WMJFX) | [Hiperbórea](https://open.spotify.com/album/4jbjW5z9G3r2diahIwLT1G) | 4:30 | 2023-05-19 |  |
+| [Limpio y Suelto](https://open.spotify.com/track/0MbHB6J0fAroord0VamzkK) | [Santoz](https://open.spotify.com/artist/3TBQtYdNFCgig6ZrFUJkLx), [ROMAN YOUGARETH](https://open.spotify.com/artist/1FZXkcxfsrrD0WTj9WMJFX) | [Hiperbórea](https://open.spotify.com/album/4jbjW5z9G3r2diahIwLT1G) | 4:30 | 2023-05-19 | 2023-11-25 |
 | [Lithium](https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 4:17 | 2023-05-30 | 2023-06-09 |
 | [Llave](https://open.spotify.com/track/6GIJNt8kpPdvviJTEUT83u) | [Cu4tro Cu4rtos](https://open.spotify.com/artist/2afoXYN0RY5wWIJCSydf2v), [Damián Palacios](https://open.spotify.com/artist/6cAzrlKrcDZE6afA3ksm2S), [Gabriel Simonet](https://open.spotify.com/artist/4JyTKHn394pexqe2CFPt9q), [Hernán Romero](https://open.spotify.com/artist/3IFe0nS1QsWfow70RzaAaH) | [Llave](https://open.spotify.com/album/31emrUvnCBsaL1UO9xmKeh) | 2:53 | 2022-06-29 | 2022-07-20 |
 | [Lo Que Guarden Tus Ojos](https://open.spotify.com/track/71fxuzel9fUGYTOTaQDb4g) | [Las Sombras](https://open.spotify.com/artist/5el5cbPZc64RtoKhnL2Bzw) | [Lo Que Guarden Tus Ojos](https://open.spotify.com/album/7At1MTQ5r0FoGocoMMR68k) | 3:16 | 2022-07-19 | 2022-08-13 |

@@ -1216,7 +1216,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 140468,
       "name": "Jaane Jaan - Title Track (From \"Jaane Jaan\")",
       "url": "https://open.spotify.com/track/5rFTcUfO3ZPztJHEmFOdvM"
@@ -1264,7 +1264,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 196124,
       "name": "JALSA 2.0 - From \"Mission Raniganj: The Great Bharat Rescue\"",
       "url": "https://open.spotify.com/track/4OgcGtcurJBgS7H1iW7peT"
@@ -1308,6 +1308,48 @@
       "duration_ms": 218372,
       "name": "Jiye Toh Jiye Kaise 2.0",
       "url": "https://open.spotify.com/track/5wi8UMMGlsKoBxXmbBFsF6"
+    },
+    {
+      "album": {
+        "name": "Baar Baar Dekho (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/110yeLSV0XY4Wtu7DnenNq"
+      },
+      "artists": [
+        {
+          "name": "Prem",
+          "url": "https://open.spotify.com/artist/0rW6jVAVhjFADg75BYfI1l"
+        },
+        {
+          "name": "Hardeep",
+          "url": "https://open.spotify.com/artist/6a9AtaXEnfNdyDju1FrXfT"
+        },
+        {
+          "name": "Amar Arshi",
+          "url": "https://open.spotify.com/artist/3f7Qfkua3IcRpUFzUaUnrX"
+        },
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        },
+        {
+          "name": "Indeep Bakshi",
+          "url": "https://open.spotify.com/artist/0Te1QGD9jtzrxPa8nie9OQ"
+        },
+        {
+          "name": "Amrik Singh",
+          "url": "https://open.spotify.com/artist/1Sqacm1VMROsVrDOUwxS5G"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187006,
+      "name": "Kala Chashma",
+      "url": "https://open.spotify.com/track/6mdLX10dvBb7rGYbMXpKzz"
     },
     {
       "album": {
@@ -1603,6 +1645,24 @@
     },
     {
       "album": {
+        "name": "Starfish",
+        "url": "https://open.spotify.com/album/1U83oaOX9s4WfrrzF45shm"
+      },
+      "artists": [
+        {
+          "name": "Manan Bhardwaj",
+          "url": "https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215092,
+      "name": "Madhaniyan",
+      "url": "https://open.spotify.com/track/0L0EHuJRqIbEnEc1hPSmhg"
+    },
+    {
+      "album": {
         "name": "Main Khiladi (From \"Selfiee\")",
         "url": "https://open.spotify.com/album/7MFOyviMDG0SSRDOUbFnki"
       },
@@ -1626,6 +1686,36 @@
       "duration_ms": 187099,
       "name": "Main Khiladi - From \"Selfiee\"",
       "url": "https://open.spotify.com/track/7E0A86Yhc0ZyOl6aAPE5wN"
+    },
+    {
+      "album": {
+        "name": "Gadar 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5Oxg8wfDhPIrEBM9Yz7ilI"
+      },
+      "artists": [
+        {
+          "name": "Mithoon",
+          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Aditya Narayan",
+          "url": "https://open.spotify.com/artist/4Z0t0LHjOjFRiv0mjBw206"
+        },
+        {
+          "name": "Anand Bakshi",
+          "url": "https://open.spotify.com/artist/3Bku4b0uiR8KJSXu7U8Iyy"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230281,
+      "name": "Main Nikla Gaddi Leke",
+      "url": "https://open.spotify.com/track/5GCK0hKd4TkMlxM8tFOhQv"
     },
     {
       "album": {
@@ -1804,7 +1894,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 322442,
       "name": "Mirchi Lagi Toh (from \"Coolie No. 1\")",
       "url": "https://open.spotify.com/track/46HqZTCD7Wqd0Q95iuuHmt"
@@ -3036,7 +3126,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 237209,
       "name": "Tum Kya Mile - Shreya's Version (From \"Rocky Aur Rani Kii Prem Kahaani\")",
       "url": "https://open.spotify.com/track/1XF1cPnzsbGYn2mjKUjnWa"
@@ -3084,6 +3174,36 @@
       "duration_ms": 178619,
       "name": "Tum Par Hum Hai Atke (From \"Pagalpanti\")",
       "url": "https://open.spotify.com/track/0j6LeC4rexb63tw2IaY5Gq"
+    },
+    {
+      "album": {
+        "name": "Gadar 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5Oxg8wfDhPIrEBM9Yz7ilI"
+      },
+      "artists": [
+        {
+          "name": "Mithoon",
+          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+        },
+        {
+          "name": "Anand Bakshi",
+          "url": "https://open.spotify.com/artist/3Bku4b0uiR8KJSXu7U8Iyy"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288428,
+      "name": "Udd Jaa Kaale Kaava",
+      "url": "https://open.spotify.com/track/2y9cKRYWrbPquZXJGYHbTG"
     },
     {
       "album": {

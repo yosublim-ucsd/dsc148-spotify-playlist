@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Aliocha Schneider",
+  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Valence",
   "name": "Montr\u00e9al Chill",
   "tracks": [
     {
@@ -1231,6 +1231,24 @@
     },
     {
       "album": {
+        "name": "Baloney suicide",
+        "url": "https://open.spotify.com/album/1I8Rle8kXRX8sqTYl1Jm5b"
+      },
+      "artists": [
+        {
+          "name": "VioleTT Pi",
+          "url": "https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122253,
+      "name": "Celui qui attend",
+      "url": "https://open.spotify.com/track/7mn8maSbvyP6Zkot8KxgTm"
+    },
+    {
+      "album": {
         "name": "Central Park La Fontaine",
         "url": "https://open.spotify.com/album/1ivGuq5opyNFHIrm3cv7gl"
       },
@@ -1742,7 +1760,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 195493,
       "name": "Depuis Marseille",
       "url": "https://open.spotify.com/track/4mAUDy4YPWmpn55wfcf9yw"
@@ -5015,6 +5033,24 @@
     },
     {
       "album": {
+        "name": "Onze / \u00c0 l'\u00e9tang des roseaux",
+        "url": "https://open.spotify.com/album/1r65So7Rknf9GTdsPSWFaR"
+      },
+      "artists": [
+        {
+          "name": "Valence",
+          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190506,
+      "name": "Onze",
+      "url": "https://open.spotify.com/track/6DrxgVFozVbFmyRRXm5Bkr"
+    },
+    {
+      "album": {
         "name": "Oublier",
         "url": "https://open.spotify.com/album/3MJltJ9phcfouKbcupRDoP"
       },
@@ -5178,7 +5214,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 174813,
       "name": "Participaction",
       "url": "https://open.spotify.com/track/0qsq7Uc65KPIHIRoWWClzb"

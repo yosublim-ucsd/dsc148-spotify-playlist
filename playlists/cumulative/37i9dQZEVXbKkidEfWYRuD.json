@@ -930,7 +930,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 241106,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
@@ -3756,7 +3756,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 105232,
       "name": "EXPLASAO RITMADA",
       "url": "https://open.spotify.com/track/5FSasTy8m8R5kLQi7AGzGe"
@@ -6058,7 +6058,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 130973,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
@@ -6786,7 +6786,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 117146,
       "name": "Let It Snow! Let It Snow! Let It Snow!",
       "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
@@ -10178,7 +10178,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 126266,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
@@ -14528,7 +14528,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-24",
+      "date_removed": null,
       "duration_ms": 227560,
       "name": "\u0411\u0443\u0440\u0435\u0432\u0456\u044f\u043c\u0438",
       "url": "https://open.spotify.com/track/0LydTnU3RQKbgMCKFWQ5nS"
@@ -17952,7 +17952,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-24",
+      "date_removed": null,
       "duration_ms": 144235,
       "name": "\u041a\u0430\u0441\u0435\u0442\u0430",
       "url": "https://open.spotify.com/track/4MQmxIxM5CXKjdq4IrCWhd"
@@ -18832,7 +18832,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-24",
+      "date_removed": null,
       "duration_ms": 169500,
       "name": "\u041b\u044e\u0434\u0438",
       "url": "https://open.spotify.com/track/3mMPorZSb7rycKSyo0lLuB"
@@ -22841,6 +22841,24 @@
     },
     {
       "album": {
+        "name": "\u0421\u0443\u043a\u0438\u043d\u044b \u0434\u0435\u0442\u0438",
+        "url": "https://open.spotify.com/album/1PV414X1IyI0enzFicFBwJ"
+      },
+      "artists": [
+        {
+          "name": "1.Kla$",
+          "url": "https://open.spotify.com/artist/2KbKmQQqFN6MgbWViBVl06"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218998,
+      "name": "\u0421\u0443\u043a\u0438\u043d\u044b \u0434\u0435\u0442\u0438",
+      "url": "https://open.spotify.com/track/6sp8FsxehQt23pATaY9Gt5"
+    },
+    {
+      "album": {
         "name": "\u0421\u0425\u0418\u041a2",
         "url": "https://open.spotify.com/album/18guABxrqCcpjoPHeR3t81"
       },
@@ -23528,7 +23546,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-24",
+      "date_removed": null,
       "duration_ms": 158608,
       "name": "\u0422\u0420\u0418 \u041f\u041e\u041b\u041e\u0421\u0418",
       "url": "https://open.spotify.com/track/1coHgc8pIpmMRGGLXB3JXf"

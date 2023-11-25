@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: The Blessed Madonna, Joy Anonymous",
+  "description": "The home for alternative electronic music. Cover: Shygirl",
   "name": "Altar",
   "tracks": [
     {
@@ -3265,6 +3265,24 @@
     },
     {
       "album": {
+        "name": "In Sri Lanka",
+        "url": "https://open.spotify.com/album/2sIpOaUihE0eLxmYWkAbOD"
+      },
+      "artists": [
+        {
+          "name": "Anish Kumar",
+          "url": "https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112679,
+      "name": "Crab Noodling",
+      "url": "https://open.spotify.com/track/3dGoWp0RewrQpwAJDHuV4C"
+    },
+    {
+      "album": {
         "name": "Nymph in the Wild",
         "url": "https://open.spotify.com/album/0vChzZ1D6SfrMhC9zNFoQU"
       },
@@ -4664,7 +4682,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 201111,
       "name": "Everyday (Far From)",
       "url": "https://open.spotify.com/track/6EI7rWSTNICgjFB6qxqy4T"
@@ -7613,6 +7631,28 @@
     },
     {
       "album": {
+        "name": "Jenny (Heaven Can You Hear Me)",
+        "url": "https://open.spotify.com/album/48E7qLe1f4qle7WeA2qt2X"
+      },
+      "artists": [
+        {
+          "name": "Bandit",
+          "url": "https://open.spotify.com/artist/4mI8m4MJtY9yKLsxxa3Ri2"
+        },
+        {
+          "name": "Belfort",
+          "url": "https://open.spotify.com/artist/5n2GF9IrgXtV9s2HBPCI3R"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195013,
+      "name": "Jenny (Heaven Can You Hear Me)",
+      "url": "https://open.spotify.com/track/6j5PkIPTIt17kDCNppFmpy"
+    },
+    {
+      "album": {
         "name": "Jobi",
         "url": "https://open.spotify.com/album/57Z1J5yuB2PjLsAq0l1Pt2"
       },
@@ -10292,7 +10332,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 213666,
       "name": "Nobody Else Will Do",
       "url": "https://open.spotify.com/track/0X2BDvXWRUYKkgOvWqvUdM"
@@ -12188,6 +12228,32 @@
       "duration_ms": 385436,
       "name": "Running (feat. Meg Myers)",
       "url": "https://open.spotify.com/track/7vHdp6gYkI0736fDSX1IBo"
+    },
+    {
+      "album": {
+        "name": "Get So High EP",
+        "url": "https://open.spotify.com/album/2A93YSkgFA7OG2fy11yPQX"
+      },
+      "artists": [
+        {
+          "name": "Decades",
+          "url": "https://open.spotify.com/artist/2jNb4TNoYjSHsK5ONo6miz"
+        },
+        {
+          "name": "Anna Straker",
+          "url": "https://open.spotify.com/artist/4irCZ5mqRsmTXEEbMvO2VZ"
+        },
+        {
+          "name": "Coldabank",
+          "url": "https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251000,
+      "name": "Running Away",
+      "url": "https://open.spotify.com/track/3lBY1yKEFSa8eKd1F7nirp"
     },
     {
       "album": {
@@ -16756,7 +16822,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 358506,
       "name": "ZP Dub",
       "url": "https://open.spotify.com/track/1s2JMss9B3tkpLxzdVukkl"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,291 likes - 1,190 songs - 3 day 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,323 likes - 1,190 songs - 3 day 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 24 | [Uptown Top Ranking](https://open.spotify.com/track/1k1Esg0K4Yinvhkk86s7YM) | [Althea And Donna](https://open.spotify.com/artist/5E8FbSTegbOlYAH4b2rZj2) | [Reggae Anthology: Joe Gibbs \- Scorchers From The Mighty Two](https://open.spotify.com/album/5x9vcngxMjklHd0DOhvml9) | 3:49 |
 | 25 | [Memories](https://open.spotify.com/track/6vjGahl5Hs4aIe3QHXVaMn) | [Amadeo](https://open.spotify.com/artist/3wmQ1Q1KAo0tdg6aQhfEDF) | [Les Chansons En Or](https://open.spotify.com/album/4JiDnhIL1BM5zbnwIEvxGb) | 3:57 |
 | 26 | [Rouhi Ya Hafida](https://open.spotify.com/track/55jMXCqZq8mAEP1EBveCvS) | [Mallek Mohamed](https://open.spotify.com/artist/2wF5QoyZWf6qbi3C0vbor4) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Habibi Funk 007\)](https://open.spotify.com/album/3Uq1VMWNQLBVqd9GiSoxlC) | 4:02 |
-| 27 | [El Fen](https://open.spotify.com/track/7mxnjeb6R7jMyKbxGTaB9B) | [Ait Meslayene](https://open.spotify.com/artist/6UqOmCP26EuPagfWAAGEaI) | [El Fen / Casbah](https://open.spotify.com/album/4FyMIn7x3MvXhS77CU8gOs) | 4:39 |
+| 27 | [El fen](https://open.spotify.com/track/4rDxUHTSSRzYmYgzYOSRCr) | [Ait Meslayene](https://open.spotify.com/artist/6UqOmCP26EuPagfWAAGEaI) | [Je suis saoul](https://open.spotify.com/album/2vphiwW3fz3JyAI8x8qtIS) | 4:39 |
 | 28 | [Mucha Muchacha](https://open.spotify.com/track/1OjPNeudZAsKgMvuw04due) | [Esquivel!](https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi) | [Cabaret Manana](https://open.spotify.com/album/4iusuKgQWQPNAWsIX7r5wJ) | 2:18 |
 | 29 | [Mótame en la tormenta](https://open.spotify.com/track/1xrGp1o6vGDMBV3PHmLNA7) | [LA MECANICA POPULAR](https://open.spotify.com/artist/5HSs4Esw2LP6dSBsjCL2kK) | [Noche triler](https://open.spotify.com/album/7AGuFiVXeGfR6CyhoWxVId) | 5:37 |
 | 30 | [Kota Singa \(Disco Dub\)](https://open.spotify.com/track/5zSPPuGA5Fh22ff4mrtAwF) | [Katong Beach Boys](https://open.spotify.com/artist/0q5hBVZvegfWp14XO668h7) | [Kota Singa \(Disco Dub\)](https://open.spotify.com/album/02f5DVvKZY8GatP15noAha) | 3:26 |
@@ -1199,4 +1199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1189 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1190 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCxkODIwYzA5MTMyNzU2M2MwODg0MDUwYWFiNzhiMmJhNTJmOTM0ZThj`
+Snapshot ID: `MCwzMzg2MWUxMTU1ODI2ODk5NzYwMTAwY2YzMTA2MjhmMzljYjQ3ZTlj`

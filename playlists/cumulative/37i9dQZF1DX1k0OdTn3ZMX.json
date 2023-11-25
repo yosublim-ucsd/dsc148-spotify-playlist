@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-15",
-  "description": "n\u00fc-metal revival is happening here and now with While She Sleeps.",
+  "description": "n\u00fc-metal revival is happening here and now with Dope.",
   "name": "new n\u00fc",
   "tracks": [
     {
@@ -74,6 +74,24 @@
       "duration_ms": 210133,
       "name": "A Million Watts",
       "url": "https://open.spotify.com/track/32FJsFEX94WIb5nio2jhnq"
+    },
+    {
+      "album": {
+        "name": "AI (Save Yourself)",
+        "url": "https://open.spotify.com/album/2PcWCQtSCQea2SDQbJmuqO"
+      },
+      "artists": [
+        {
+          "name": "Kid Bookie",
+          "url": "https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188895,
+      "name": "AI (Save Yourself)",
+      "url": "https://open.spotify.com/track/2MrnJVZSGAzz1IobfPEwHv"
     },
     {
       "album": {
@@ -216,6 +234,28 @@
       "duration_ms": 186384,
       "name": "BLACK_WAVE",
       "url": "https://open.spotify.com/track/5rYoxMOnrq09FDTgkS1dMU"
+    },
+    {
+      "album": {
+        "name": "Break My Fall",
+        "url": "https://open.spotify.com/album/1SwIFHVJtunGpDylAM2ieB"
+      },
+      "artists": [
+        {
+          "name": "Dead by April",
+          "url": "https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6"
+        },
+        {
+          "name": "Samuel Ericsson",
+          "url": "https://open.spotify.com/artist/6atTe9Lf4xvmWJ3ZdG4A4L"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212545,
+      "name": "Break My Fall",
+      "url": "https://open.spotify.com/track/1UpwPq2h2xCmOsCIwFYmz3"
     },
     {
       "album": {
@@ -602,6 +642,24 @@
       "duration_ms": 218904,
       "name": "For the Beaten",
       "url": "https://open.spotify.com/track/33QuKSmC3xJISItWeGuPWc"
+    },
+    {
+      "album": {
+        "name": "Fractured",
+        "url": "https://open.spotify.com/album/70CjNkRxogynvPUn3pJgya"
+      },
+      "artists": [
+        {
+          "name": "Graphic Nature",
+          "url": "https://open.spotify.com/artist/0QUcDHMfwBsMAufKXbzhkH"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222740,
+      "name": "Fractured",
+      "url": "https://open.spotify.com/track/4c66tmKsdmvNENPo54oDny"
     },
     {
       "album": {
@@ -1020,7 +1078,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 144146,
       "name": "Sit On It",
       "url": "https://open.spotify.com/track/4Ej8mKdpBikpOyDgRLK0i4"
@@ -1200,7 +1258,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 179632,
       "name": "Unraveling",
       "url": "https://open.spotify.com/track/6YP09NwxQ8SLxcIksD89Bp"
@@ -1384,7 +1442,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 219947,
       "name": "Witch",
       "url": "https://open.spotify.com/track/5MSdmihYEiWhtegR9Ji6mA"

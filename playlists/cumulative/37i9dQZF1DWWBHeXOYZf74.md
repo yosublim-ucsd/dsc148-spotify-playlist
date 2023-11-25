@@ -2,9 +2,9 @@
 
 ### [POLLEN](https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74)
 
-> Genre\-less\. Quality first always\. Cover: Danny Brown
+> Genre\-less\. Quality first always\. Cover:
 
-2,291 songs - 5 day 8 hr 44 min
+2,292 songs - 5 day 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [48 \(feat\. Pink Siifu\)](https://open.spotify.com/track/62nCNWIaxfTwrRhbCM8LwQ) | [Maxo](https://open.spotify.com/artist/758sHPdw5FpB5ZM8f5MpXe), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [Even God Has A Sense Of Humor](https://open.spotify.com/album/4joXp47OdL7OR96VI80yLF) | 2:39 | 2023-02-24 | 2023-03-25 |
 | [4AM in Toronto \(feat\. Miloh Smith\)](https://open.spotify.com/track/6eWC3LPPER3hQlwGqdQOo6) | [Junia\-T](https://open.spotify.com/artist/0OnVUhC12ynNpOuQsRgXLl), [Miloh Smith](https://open.spotify.com/artist/7vs9TLkoc9aeRbkSEV77c3) | [4AM in Toronto](https://open.spotify.com/album/49xmVXNYHS8RmJp8C5baPY) | 4:24 | 2021-03-25 | 2021-06-12 |
 | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx) | 3:10 | 2023-04-07 | 2023-09-23 |
-| [5 to 8 Hours a Day \(WWwaG\)](https://open.spotify.com/track/0SoEbU9NN28HxNAhkLDuEe) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [I Killed Your Dog](https://open.spotify.com/album/2O01P3dwp47dyImCnTdfyo) | 4:30 | 2023-10-13 |  |
+| [5 to 8 Hours a Day \(WWwaG\)](https://open.spotify.com/track/0SoEbU9NN28HxNAhkLDuEe) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [I Killed Your Dog](https://open.spotify.com/album/2O01P3dwp47dyImCnTdfyo) | 4:30 | 2023-10-13 | 2023-11-25 |
 | [50/50](https://open.spotify.com/track/0tEtaU2hWPVnqU9FkCs6bu) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [50/50](https://open.spotify.com/album/5w5NsFzVYvg2inlvZpuvYt) | 3:28 | 2022-12-16 | 2023-02-25 |
 | [50/50](https://open.spotify.com/track/3I4G8p5a0n1I7owUfaUUpH) | [Jockstrap](https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k) | [50/50](https://open.spotify.com/album/0CfK7axWPYSxqUpnaMhECd) | 3:35 | 2021-11-20 | 2021-12-18 |
 | [50/50](https://open.spotify.com/track/3ANR48a5B76FjAWpmsHwrF) | [Miso Extra](https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg) | [50/50](https://open.spotify.com/album/6AZg2QXV08VsP294XLko3W) | 3:01 | 2023-08-18 | 2023-09-23 |
@@ -1575,6 +1575,7 @@
 | [Point and Kill](https://open.spotify.com/track/3kczhPFdkUR44SHLUvbKFE) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj) | 3:05 | 2021-12-24 | 2022-01-15 |
 | [Poison](https://open.spotify.com/track/7M4fSXTAUQih72cf0FbMgA) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Poison \(feat\. The Weeknd\)](https://open.spotify.com/album/2t0AfNqhtlMnjFxbTzmPqO) | 2:42 | 2021-12-17 | 2022-02-12 |
 | [Poison](https://open.spotify.com/track/1N9jzEJmaNZw8lSqTSLwZR) | [Swank Mami](https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr) | [Poison](https://open.spotify.com/album/49hw5yv8BUKx6OQ578yt6T) | 2:55 | 2023-09-15 |  |
+| [Police Scanner](https://open.spotify.com/track/15YfCOUZ0480yVO8huUvTY) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Police Scanner](https://open.spotify.com/album/3UEx6dCjY47tO4a57de8dW) | 2:22 | 2023-11-24 |  |
 | [Polite](https://open.spotify.com/track/2SEM6i1v4kureWTjMiDE98) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Polite](https://open.spotify.com/album/2bouxxQ1WAFp5fC1XOJlLN) | 3:24 | 2021-04-15 | 2021-07-17 |
 | [Polite](https://open.spotify.com/track/6vBq30WUf7EJq0bQPEkBXr) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Sensational](https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one) | 3:24 | 2021-12-24 | 2022-01-15 |
 | [Polvo](https://open.spotify.com/track/0pKdAo40LH2hb5gNXfSg5x) | [Mr Twin Sister](https://open.spotify.com/artist/5ltJZgIW3OkY5WvuzX5MYz) | [Polvo](https://open.spotify.com/album/40Sp1MVZlXx7lyzNPj98Uw) | 4:02 | 2021-09-04 | 2021-10-30 |

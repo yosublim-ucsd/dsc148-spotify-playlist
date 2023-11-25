@@ -2,9 +2,9 @@
 
 ### [Fresh Folk](https://open.spotify.com/playlist/37i9dQZF1DXaUDcU6KDCj4)
 
-> Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Katie Pruitt
+> Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Ocie Elliott
 
-1,643 songs - 4 day 4 hr 34 min
+1,647 songs - 4 day 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -778,6 +778,7 @@
 | [Kill Her Freak Out](https://open.spotify.com/track/52k45PRM4dPM8r4JLsmfVo) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Kill Her Freak Out](https://open.spotify.com/album/3em3bEmd56ykqk9Hc8TYt1) | 4:20 | 2022-09-30 | 2023-01-21 |
 | [Knee Deep](https://open.spotify.com/track/0ohAR0pE2KSVqQ89esompg) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN) | [Knee Deep](https://open.spotify.com/album/5JUMQJxMHpWelgqfacFUNT) | 3:42 | 2023-03-31 | 2023-06-17 |
 | [Knife Fighter](https://open.spotify.com/track/2AQuxFv52ShOmNdRRQjmeU) | [Peter Matthew Bauer](https://open.spotify.com/artist/4ZMQlzOFrvOftjt1rjl8YR) | [Knife Fighter](https://open.spotify.com/album/6eh8hZrVMmORpMMQ5XGqIK) | 3:44 | 2022-05-20 | 2022-07-23 |
+| [Know the Night](https://open.spotify.com/track/0hfjholWfyL1cxsvjwkzM8) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Know the Night](https://open.spotify.com/album/1rKrDA2rrti4WOKjsF4XWm) | 3:10 | 2023-11-24 |  |
 | [Know Your Demons](https://open.spotify.com/track/3AonChVGbKzTPGpkiR4Awe) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Know Your Demons](https://open.spotify.com/album/408i5hH2MLHqX6X6srXEL8) | 3:26 | 2022-03-11 | 2022-07-16 |
 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 | 2023-03-24 | 2023-06-10 |
 | [Lake Missoula \(feat\. Mt\. Joy\)](https://open.spotify.com/track/1sfDyeBfzNeABw4afi4e5A) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau), [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Lake Missoula \(feat\. Mt\. Joy\)](https://open.spotify.com/album/6TmjKa40zMkgLDvePjukuZ) | 3:24 | 2023-06-09 | 2023-08-19 |
@@ -1140,6 +1141,7 @@
 | [Running](https://open.spotify.com/track/5VRGp1W4cpQ0kO3HWLsafP) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Running](https://open.spotify.com/album/2mGGXU9rtoBSgqVKthBSkJ) | 3:05 | 2022-09-09 | 2022-12-17 |
 | [Running from the Dawn](https://open.spotify.com/track/7jb6FDwrUuTgcgeE1iMGi4) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [though the world will tell me so, vol\. 1](https://open.spotify.com/album/1nht2bWHhw4ke6nUJwUkBB) | 3:31 | 2023-01-13 | 2023-04-29 |
 | [Running on Sweet Smile](https://open.spotify.com/track/0qWeKlQ4XsdZI9YOARIfSl) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Running on Sweet Smile](https://open.spotify.com/album/6kTJFL44amSlYwT0U5PzxO) | 3:21 | 2022-10-21 | 2023-03-18 |
+| [Running Out of Time](https://open.spotify.com/track/6LYWoOmdoxbLcqTWA0uBMP) | [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Running Out of Time](https://open.spotify.com/album/5GFgdQo0ECaJSUbOoZ0Qu6) | 3:32 | 2023-11-24 |  |
 | [Sad](https://open.spotify.com/track/1K6dPwnP8alsRxVc5ET5Ft) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Carving Canyons](https://open.spotify.com/album/0keDX0kFNMMZtGWK3YP5GO) | 3:24 | 2022-08-19 | 2023-01-06 |
 | [Sad](https://open.spotify.com/track/2FyJqbLBacg8U7uiSy0cLg) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Sad](https://open.spotify.com/album/5aOz3OK9QSRaFR8oY992ct) | 3:24 | 2022-08-19 | 2022-09-20 |
 | [Safe & Sound \(feat\. Joy Williams and John Paul White\) \(Taylor’s Version\)](https://open.spotify.com/track/2RJnNdu4pb3MypbBroHU0T) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa), [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [Safe & Sound \(Taylor's Version\)](https://open.spotify.com/album/4eZKjfeKPSwd6NYsmlKjuR) | 3:59 | 2023-03-17 | 2023-05-27 |
@@ -1448,6 +1450,7 @@
 | [Time Machine](https://open.spotify.com/track/3iLjA1DD3Z7FDCNnMsKSz3) | [Jana Horn](https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1) | [Time Machine](https://open.spotify.com/album/2UiXq4ZRGg9WtjsiyHdCik) | 2:53 | 2022-01-07 | 2022-01-22 |
 | [Time Shrinks](https://open.spotify.com/track/5SDIFVKRHCDEuJGD3TSRwV) | [Arcy Drive](https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O) | [Time Shrinks](https://open.spotify.com/album/70DhLvAJHcpWMoZVWTH1v0) | 3:36 | 2023-09-22 |  |
 | [Tired of Loving You](https://open.spotify.com/track/1FDj1s2HooZEv2c7r41I57) | [San Fermin](https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt) | [Tired of Loving You](https://open.spotify.com/album/6C41HQCznPpjo1rBqUVIf2) | 3:49 | 2022-06-03 | 2022-07-23 |
+| [to be all alone](https://open.spotify.com/track/1gi55AIRocF4dFXaZDUdDD) | [Philip Brooks](https://open.spotify.com/artist/6Bo5UEoUopq42HZX3apU1w) | [in a house by a stream](https://open.spotify.com/album/7MxWmrgEf87dLhghxgPDNa) | 2:55 | 2023-11-24 |  |
 | [To Die For](https://open.spotify.com/track/2FVpuvwkSFqDZOXStPZfiB) | [Arlo McKinley](https://open.spotify.com/artist/4bnCmwKU89Rt1zWnRIdSUa) | [To Die For](https://open.spotify.com/album/06WmNWTuEwCWHQaP0XZaiV) | 3:23 | 2022-05-13 | 2022-06-11 |
 | [To Learn](https://open.spotify.com/track/63a0svve0p3CIiGx9a9DTy) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [To Learn](https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l) | 2:17 | 2023-05-19 | 2023-08-05 |
 | [To Love The Earth](https://open.spotify.com/track/1zts1SmWnDUdd5uUv7G5sf) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Left Hand](https://open.spotify.com/album/2t1mL93fMNoyu84qChrOnO) | 3:35 | 2023-08-25 | 2023-10-21 |
@@ -1459,6 +1462,7 @@
 | [Toil and Trouble](https://open.spotify.com/track/7sSJOnYFVHh04AOMuY7hAx) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Toil and Trouble](https://open.spotify.com/album/4ovJJhIrbom7VNyUfIwKbd) | 2:23 | 2023-06-16 | 2023-07-08 |
 | [Toll](https://open.spotify.com/track/5NkB0cYXhhyX0ErtkhK1k1) | [Naima Bock](https://open.spotify.com/artist/3UvBjnS0xNdifivRctkxok) | [Giant Palm](https://open.spotify.com/album/6ovv5BhFVVHOusujVm5LIf) | 5:05 | 2022-07-01 | 2022-09-17 |
 | [Tom Barrett](https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [River Fools & Mountain Saints](https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl) | 3:13 | 2022-03-25 | 2022-07-16 |
+| [Tomorrow](https://open.spotify.com/track/2y70NzSl4qa67ZQjf1zlyQ) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Tomorrow](https://open.spotify.com/album/72Kj0KxXZBEobZAA3EIIZi) | 4:43 | 2023-11-24 |  |
 | [Tomorrow](https://open.spotify.com/track/36q9e2bci1iIm9e1zlJ8y0) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tomorrow](https://open.spotify.com/album/32J3TIXdYC4fQpK8IFhTDX) | 2:43 | 2021-12-17 | 2022-03-26 |
 | [Tongue Tied](https://open.spotify.com/track/3ckJWEhX7Zi7dvoC2iCHkR) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Tongue Tied](https://open.spotify.com/album/5pIdg3VmRmejKmKD7nfIav) | 4:52 | 2023-04-21 | 2023-06-24 |
 | [Too Young To Die](https://open.spotify.com/track/74TVOIh9i0lO35JX4oui7X) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Too Young To Die](https://open.spotify.com/album/5VSAFRyWMxSB3aawn8FWmJ) | 2:38 | 2023-07-21 | 2023-09-23 |

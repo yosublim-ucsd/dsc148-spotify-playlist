@@ -1256,7 +1256,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 374409,
       "name": "Laha",
       "url": "https://open.spotify.com/track/5kaBa5XzSlgiwg4ArBDmRZ"
@@ -2383,6 +2383,28 @@
     },
     {
       "album": {
+        "name": "Take Me Up",
+        "url": "https://open.spotify.com/album/5pj6lM9bSMpSMQI8Z106ns"
+      },
+      "artists": [
+        {
+          "name": "Lucas Borchardt",
+          "url": "https://open.spotify.com/artist/1awSZh0X5DJMLQVgx8TyeR"
+        },
+        {
+          "name": "Twowelve",
+          "url": "https://open.spotify.com/artist/6SWRBTgTY3yT2GJ5TTKuDl"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Take Me Up",
+      "url": "https://open.spotify.com/track/6BSqFOO1C1rwU6Wqg7kvhU"
+    },
+    {
+      "album": {
         "name": "Tasty",
         "url": "https://open.spotify.com/album/3GfSnsAJoEar9vU5DcKbxa"
       },
@@ -2572,7 +2594,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 196535,
       "name": "Trippin",
       "url": "https://open.spotify.com/track/4iU5SbOCM3kEdkOV8Isbm1"
@@ -2766,6 +2788,28 @@
       "duration_ms": 151051,
       "name": "Walls",
       "url": "https://open.spotify.com/track/10o0LKMtVv6TQUq1XBRFKc"
+    },
+    {
+      "album": {
+        "name": "Way Back",
+        "url": "https://open.spotify.com/album/76ZIraomSbcDfmAdaJqNa5"
+      },
+      "artists": [
+        {
+          "name": "Duarte",
+          "url": "https://open.spotify.com/artist/11ofEe58zrex8X5NBbWhsk"
+        },
+        {
+          "name": "Roddy Lima",
+          "url": "https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Way Back",
+      "url": "https://open.spotify.com/track/1Q1clcocESI1KAgIQ638lS"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Solo musica italiana indipendente, aggiornata ogni mercoledì\. Cover: <a href="spotify:artist:0K0IoIF0ARUBsCeRrIs6iw">Daria Huber</a>
 
-1,013 songs - 2 day 2 hr 23 min
+1,014 songs - 2 day 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -612,7 +612,8 @@
 | [Non andare via](https://open.spotify.com/track/4WF0UUXCu6810tgEl3AEIb) | [Giovane Giovane](https://open.spotify.com/artist/4BAxuRON1nw7gbgNTSAKAI) | [Non andare via](https://open.spotify.com/album/1uCrMx4jf7Nsipum2rpnTg) | 2:46 | 2022-03-03 | 2022-03-25 |
 | [non bevo più caffè](https://open.spotify.com/track/3PzljMGulBNrtqpOx7W2AG) | [Mariangela Tria](https://open.spotify.com/artist/1cNCpk5ae58rvv9lhGqotR) | [non bevo più caffè](https://open.spotify.com/album/33ScURcGo2o1IL3nbk3yLE) | 2:18 | 2022-01-06 | 2022-02-18 |
 | [NON C'HO VOGLIA](https://open.spotify.com/track/0PJuBiUN2seAh7Ia33OYA9) | [venerdì](https://open.spotify.com/artist/0v9674wp1zmIxhlfpjBXfo) | [NON C'HO VOGLIA](https://open.spotify.com/album/0DfhGcBmei3dnp2pXPU9q1) | 2:48 | 2023-11-21 |  |
-| [Non capisco niente](https://open.spotify.com/track/6O3EHSyweYh1rnBxnQfDJh) | [Brando Madonia](https://open.spotify.com/artist/3UAeF4girTzN2loV6WRsCh) | [Autunno 80](https://open.spotify.com/album/4MfMNoH9BbDIogppCD25Nt) | 2:49 | 2023-11-14 |  |
+| [Non capisco niente](https://open.spotify.com/track/5EfCHYvLNxrlW40OOCJwaC) | [Brando Madonia](https://open.spotify.com/artist/3UAeF4girTzN2loV6WRsCh) | [Autunno 80](https://open.spotify.com/album/7MSwtrNw5iC3LVA0x1Q4Lj) | 2:49 | 2023-11-22 |  |
+| [Non capisco niente](https://open.spotify.com/track/6O3EHSyweYh1rnBxnQfDJh) | [Brando Madonia](https://open.spotify.com/artist/3UAeF4girTzN2loV6WRsCh) | [Autunno 80](https://open.spotify.com/album/4MfMNoH9BbDIogppCD25Nt) | 2:49 | 2023-11-14 | 2023-11-25 |
 | [Non ci credo che ti penso ancora](https://open.spotify.com/track/2Kig57HRtfKRcBvCm8So4B) | [xDiemondx](https://open.spotify.com/artist/2NAdP1sDABAGeAT7TGHenN) | [Non ci credo che ti penso ancora](https://open.spotify.com/album/6PIzJhvykPulWFW1Z5HcbL) | 2:21 | 2022-03-17 | 2022-04-20 |
 | [Non imparo mai](https://open.spotify.com/track/4kfcMfRe0UuENCkO25EXgE) | [Maura](https://open.spotify.com/artist/637853CZ5FohFDeBONa2D7) | [Non imparo mai](https://open.spotify.com/album/7rKE1oS8ui351iS0y75EjJ) | 2:48 | 2022-01-06 | 2022-02-26 |
 | [NON LO SO X4](https://open.spotify.com/track/1UzR9fzj03QX9QGVpe0UTt) | [Cloudì](https://open.spotify.com/artist/14F6TgN7IOUEReU7piFW82), [Sbale](https://open.spotify.com/artist/4aAiKU8UocJHjZfxjQuaCU) | [NON LO SO X4](https://open.spotify.com/album/7ecccb52hK4RiXrLuQoExO) | 3:04 | 2023-05-30 | 2023-07-13 |

@@ -4151,6 +4151,24 @@
     },
     {
       "album": {
+        "name": "Beyond Silence",
+        "url": "https://open.spotify.com/album/4QYQk9sEi1k8a8T4Q98Duh"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Mardal",
+          "url": "https://open.spotify.com/artist/56PuDgywHPrbEFyujgPc9V"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207600,
+      "name": "Tranquillity Coast",
+      "url": "https://open.spotify.com/track/4pNApe3zxo7l2iv7ryP5t0"
+    },
+    {
+      "album": {
         "name": "Traversing",
         "url": "https://open.spotify.com/album/0diFPJv3sk4ChhKrDXCrsn"
       },
@@ -4436,6 +4454,24 @@
       "duration_ms": 204114,
       "name": "voyaging in",
       "url": "https://open.spotify.com/track/4pHFitNAPMhPA1udwLnL0A"
+    },
+    {
+      "album": {
+        "name": "Warmed Rain",
+        "url": "https://open.spotify.com/album/3fBpYInTjqo9KIVf5bZO9q"
+      },
+      "artists": [
+        {
+          "name": "Electric Rivers",
+          "url": "https://open.spotify.com/artist/4ATjV5COMvZp7XfnELm7nV"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151215,
+      "name": "Warmed Rain",
+      "url": "https://open.spotify.com/track/6d1tqEJjDt9uCDxl2hHTMe"
     },
     {
       "album": {

@@ -757,6 +757,24 @@
     },
     {
       "album": {
+        "name": "Dinavella",
+        "url": "https://open.spotify.com/album/1ztLQ6dcHw4rH88FDa1SOo"
+      },
+      "artists": [
+        {
+          "name": "Kishan D'Souza",
+          "url": "https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Dinavella",
+      "url": "https://open.spotify.com/track/3lgQcLrvO2wEk882hNcIeZ"
+    },
+    {
+      "album": {
         "name": "Don't Worry 2",
         "url": "https://open.spotify.com/album/3YKpYn2iDXF3oXNBGNN8DI"
       },
@@ -3551,7 +3569,7 @@
         },
         {
           "name": "J.O.Y",
-          "url": "https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm"
+          "url": "https://open.spotify.com/artist/5kPJFxIz3zK6ViPvDPcVOb"
         },
         {
           "name": "Yaaru",

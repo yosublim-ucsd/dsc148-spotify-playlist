@@ -2184,6 +2184,28 @@
     {
       "album": {
         "name": "Khoya",
+        "url": "https://open.spotify.com/album/6iVv6eBhwiX9qBJMkWbNtG"
+      },
+      "artists": [
+        {
+          "name": "Akshath",
+          "url": "https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo"
+        },
+        {
+          "name": "Rovalio",
+          "url": "https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181894,
+      "name": "Khoya",
+      "url": "https://open.spotify.com/track/1PTX1futeTG5wTrMNPrSRH"
+    },
+    {
+      "album": {
+        "name": "Khoya",
         "url": "https://open.spotify.com/album/2AjolCCtmTdfRkQsvl4TeA"
       },
       "artists": [

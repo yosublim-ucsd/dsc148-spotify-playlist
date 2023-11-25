@@ -1,13 +1,77 @@
 {
-  "description": "make it pop! cover: Will Linley",
-  "num_followers": 211273,
+  "description": "make it pop! cover: Mark Ambor",
+  "num_followers": 211352,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTM0NTRlNjgxZjcwODc0NzRiNjk2MzM4ZTVjNDNkZDBhZDAwZDgw",
+  "snapshot_id": "MCxiMTYwZTVkNDE5ZjM0ODAxOTczOTRkNWYxNzY3MjVmYzZiMzAyZWNi",
   "tracks": [
+    {
+      "added_at": "2023-11-10 05:41:14",
+      "album": {
+        "name": "Good To Be",
+        "url": "https://open.spotify.com/album/0GBpszNiUBiRAKZoCRb9KW"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 147166,
+      "name": "Good To Be",
+      "url": "https://open.spotify.com/track/2hPGC3ZuGsJUF1ixwzNMU6"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Cheerleaders and Jocks",
+        "url": "https://open.spotify.com/album/0x1qVcEYZiyq36Ps01Til8"
+      },
+      "artists": [
+        {
+          "name": "Jude York",
+          "url": "https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED"
+        }
+      ],
+      "duration_ms": 227393,
+      "name": "Cheerleaders and Jocks",
+      "url": "https://open.spotify.com/track/6AJbBmXX4GCr5ANj9goh0j"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Books",
+        "url": "https://open.spotify.com/album/5makcexyZJmKWVzA7QLpyj"
+      },
+      "artists": [
+        {
+          "name": "Kid Sistr",
+          "url": "https://open.spotify.com/artist/7ysZTe2PbCTqmC2tE1dpCk"
+        }
+      ],
+      "duration_ms": 174789,
+      "name": "Books",
+      "url": "https://open.spotify.com/track/5s5XSIecq1xvvOyujFFjrI"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "orbit",
+        "url": "https://open.spotify.com/album/5xLRIrNswkxjD0U0z47Rw2"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "duration_ms": 189994,
+      "name": "orbit",
+      "url": "https://open.spotify.com/track/1xMtUb8b1DxW89FJfxOwPN"
+    },
     {
       "added_at": "2023-11-10 05:41:14",
       "album": {
@@ -23,6 +87,42 @@
       "duration_ms": 193386,
       "name": "Magic",
       "url": "https://open.spotify.com/track/1ozTHWtYAhhLeJ2CejjNyF"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Videotape (with Evangelia)",
+        "url": "https://open.spotify.com/album/4gwlxWSU2UWhjXmNxXZcrH"
+      },
+      "artists": [
+        {
+          "name": "good job nicky",
+          "url": "https://open.spotify.com/artist/2dFtLleECB8O3QgW40cuuY"
+        },
+        {
+          "name": "Evangelia",
+          "url": "https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK"
+        }
+      ],
+      "duration_ms": 198933,
+      "name": "Videotape (with Evangelia)",
+      "url": "https://open.spotify.com/track/7lKASOohLedcNxoXEmoKCF"
+    },
+    {
+      "added_at": "2023-11-10 05:41:14",
+      "album": {
+        "name": "a girl like me",
+        "url": "https://open.spotify.com/album/51gIsdlU8UIgzSgDJrEr9Z"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 162628,
+      "name": "a girl like me",
+      "url": "https://open.spotify.com/track/2KzkWP9RYW1xz4gqDRArQd"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -43,22 +143,6 @@
     {
       "added_at": "2023-11-10 05:41:14",
       "album": {
-        "name": "a girl like me",
-        "url": "https://open.spotify.com/album/51gIsdlU8UIgzSgDJrEr9Z"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 162628,
-      "name": "a girl like me",
-      "url": "https://open.spotify.com/track/2KzkWP9RYW1xz4gqDRArQd"
-    },
-    {
-      "added_at": "2023-11-10 05:41:14",
-      "album": {
         "name": "i can't get my shit together",
         "url": "https://open.spotify.com/album/4Q1JfWQoV1zWHLejdhpyey"
       },
@@ -73,20 +157,20 @@
       "url": "https://open.spotify.com/track/5QQH0yRUbD4fYqNWKiPX9I"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "I Hope It All Works Out",
-        "url": "https://open.spotify.com/album/4Y7hxshp2MXAMXW5BwqZ6s"
+        "name": "my friend's toyota",
+        "url": "https://open.spotify.com/album/3nIvomXE7fMgjtLvrkLTPg"
       },
       "artists": [
         {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+          "name": "asiris",
+          "url": "https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2"
         }
       ],
-      "duration_ms": 167083,
-      "name": "I Hope It All Works Out",
-      "url": "https://open.spotify.com/track/2u2claSA1aCUMrVRsBD4Ik"
+      "duration_ms": 194400,
+      "name": "my friend's toyota",
+      "url": "https://open.spotify.com/track/5klqVId6gE0LT4QkbPUKCf"
     },
     {
       "added_at": "2023-11-10 05:41:14",
@@ -121,10 +205,10 @@
       "url": "https://open.spotify.com/track/4qkgz8ubKhUeqQohjjM2ey"
     },
     {
-      "added_at": "2023-11-10 05:41:14",
+      "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Good To Be",
-        "url": "https://open.spotify.com/album/0GBpszNiUBiRAKZoCRb9KW"
+        "name": "I Hope It All Works Out",
+        "url": "https://open.spotify.com/album/4Y7hxshp2MXAMXW5BwqZ6s"
       },
       "artists": [
         {
@@ -132,9 +216,9 @@
           "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
         }
       ],
-      "duration_ms": 147166,
-      "name": "Good To Be",
-      "url": "https://open.spotify.com/track/2hPGC3ZuGsJUF1ixwzNMU6"
+      "duration_ms": 167083,
+      "name": "I Hope It All Works Out",
+      "url": "https://open.spotify.com/track/2u2claSA1aCUMrVRsBD4Ik"
     },
     {
       "added_at": "2023-11-10 05:41:14",
@@ -167,6 +251,22 @@
       "duration_ms": 124451,
       "name": "Baby Blue",
       "url": "https://open.spotify.com/track/5ZDdx332AQj2n6TOW0LlZU"
+    },
+    {
+      "added_at": "2023-11-10 05:41:14",
+      "album": {
+        "name": "FYTY",
+        "url": "https://open.spotify.com/album/3Yp9S2bM34ia7nXn3qUcBX"
+      },
+      "artists": [
+        {
+          "name": "Dylan Matthew",
+          "url": "https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX"
+        }
+      ],
+      "duration_ms": 172251,
+      "name": "FYTY",
+      "url": "https://open.spotify.com/track/53XQLHcvLkKAxTvz0Py1wC"
     },
     {
       "added_at": "2023-11-10 05:41:14",
@@ -331,22 +431,6 @@
     {
       "added_at": "2023-11-10 05:41:14",
       "album": {
-        "name": "Maybe",
-        "url": "https://open.spotify.com/album/1S34M64cH8Q95LwKvFKLpq"
-      },
-      "artists": [
-        {
-          "name": "Will Linley",
-          "url": "https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N"
-        }
-      ],
-      "duration_ms": 167412,
-      "name": "Maybe",
-      "url": "https://open.spotify.com/track/0iUC5CRjpV3Kayoz0oNvE6"
-    },
-    {
-      "added_at": "2023-11-10 05:41:14",
-      "album": {
         "name": "Damn, I miss you",
         "url": "https://open.spotify.com/album/0Byim1JQ7KLiOph79QbFQQ"
       },
@@ -447,22 +531,6 @@
       "duration_ms": 161333,
       "name": "Brake Lights",
       "url": "https://open.spotify.com/track/72VpsA3m5YIVDxVEaGuTGv"
-    },
-    {
-      "added_at": "2023-11-10 05:41:14",
-      "album": {
-        "name": "Alone In A Crowd",
-        "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 163392,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/44KmuZ16Pj6t9vCenzwxxa"
     },
     {
       "added_at": "2023-11-10 05:41:14",
@@ -579,70 +647,6 @@
     {
       "added_at": "2023-11-10 05:41:14",
       "album": {
-        "name": "Afterlife",
-        "url": "https://open.spotify.com/album/6QxANS2xYXeZjbezRja99U"
-      },
-      "artists": [
-        {
-          "name": "Kid Bloom",
-          "url": "https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P"
-        }
-      ],
-      "duration_ms": 163866,
-      "name": "Afterlife",
-      "url": "https://open.spotify.com/track/2Kg1iDi7uHeAKUsFUV8cbU"
-    },
-    {
-      "added_at": "2023-11-10 05:41:14",
-      "album": {
-        "name": "Migraine",
-        "url": "https://open.spotify.com/album/2ciW2sBC9n41YdliEdBxbl"
-      },
-      "artists": [
-        {
-          "name": "BoyWithUke",
-          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
-        }
-      ],
-      "duration_ms": 206560,
-      "name": "Migraine",
-      "url": "https://open.spotify.com/track/6T7DCQh0h7yPvoKtCMDKVb"
-    },
-    {
-      "added_at": "2023-11-10 05:41:14",
-      "album": {
-        "name": "this is what space feels like",
-        "url": "https://open.spotify.com/album/23Dast9Z49J73VBjh3JulP"
-      },
-      "artists": [
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "duration_ms": 183017,
-      "name": "this is what space feels like",
-      "url": "https://open.spotify.com/track/6PetYmvjKZBjiUYlnlAcn1"
-    },
-    {
-      "added_at": "2023-11-10 05:41:14",
-      "album": {
-        "name": "FYTY",
-        "url": "https://open.spotify.com/album/3Yp9S2bM34ia7nXn3qUcBX"
-      },
-      "artists": [
-        {
-          "name": "Dylan Matthew",
-          "url": "https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX"
-        }
-      ],
-      "duration_ms": 172251,
-      "name": "FYTY",
-      "url": "https://open.spotify.com/track/53XQLHcvLkKAxTvz0Py1wC"
-    },
-    {
-      "added_at": "2023-11-10 05:41:14",
-      "album": {
         "name": "Blame My Ex",
         "url": "https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc"
       },
@@ -727,22 +731,6 @@
     {
       "added_at": "2023-11-10 05:41:14",
       "album": {
-        "name": "HOSTAGE",
-        "url": "https://open.spotify.com/album/53ZYFWC6rPIwdMuisHdMWK"
-      },
-      "artists": [
-        {
-          "name": "Braden Bales",
-          "url": "https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv"
-        }
-      ],
-      "duration_ms": 141876,
-      "name": "HOSTAGE",
-      "url": "https://open.spotify.com/track/1p1EeOGryPK0AQRraHw6fW"
-    },
-    {
-      "added_at": "2023-11-10 05:41:14",
-      "album": {
         "name": "Fictional Illustrations",
         "url": "https://open.spotify.com/album/3xrJrR589weA5sIkdMZuQh"
       },
@@ -759,22 +747,6 @@
     {
       "added_at": "2023-11-10 05:41:14",
       "album": {
-        "name": "DRUMMER",
-        "url": "https://open.spotify.com/album/09YYQq1yP55sRzmWosI10f"
-      },
-      "artists": [
-        {
-          "name": "G Flip",
-          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
-        }
-      ],
-      "duration_ms": 229464,
-      "name": "Australia",
-      "url": "https://open.spotify.com/track/0qiHOHIkb4UEoxpKq6WhVZ"
-    },
-    {
-      "added_at": "2023-11-10 05:41:14",
-      "album": {
         "name": "Mama's Boy",
         "url": "https://open.spotify.com/album/6dgC3pUWlaKFLbm1sIQxGA"
       },
@@ -787,22 +759,6 @@
       "duration_ms": 155721,
       "name": "Mama's Boy",
       "url": "https://open.spotify.com/track/65leXqfkdViSssEVN23uYL"
-    },
-    {
-      "added_at": "2023-11-10 05:41:14",
-      "album": {
-        "name": "no rain, no flowers",
-        "url": "https://open.spotify.com/album/6ze4gb3v4vNgMtpyLQFaMi"
-      },
-      "artists": [
-        {
-          "name": "Dylan Matthew",
-          "url": "https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX"
-        }
-      ],
-      "duration_ms": 159702,
-      "name": "Thank God!",
-      "url": "https://open.spotify.com/track/0AzV6bXHxPJQdyabx62qF9"
     },
     {
       "added_at": "2023-11-10 05:41:14",
@@ -855,62 +811,6 @@
     {
       "added_at": "2023-11-10 05:41:14",
       "album": {
-        "name": "Big Dumb Heart, Chapter 2",
-        "url": "https://open.spotify.com/album/6yy1V5XpYgD9u7s6mDBxxL"
-      },
-      "artists": [
-        {
-          "name": "Jenna Raine",
-          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
-        }
-      ],
-      "duration_ms": 202480,
-      "name": "Cruise Control",
-      "url": "https://open.spotify.com/track/6KHznvkaHF4g5oZDYCBU8c"
-    },
-    {
-      "added_at": "2023-11-10 05:41:14",
-      "album": {
-        "name": "The End",
-        "url": "https://open.spotify.com/album/1gGuLJfZnXUoAs5nk7UXV6"
-      },
-      "artists": [
-        {
-          "name": "Cody Fry",
-          "url": "https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT"
-        },
-        {
-          "name": "Cory Wong",
-          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
-        },
-        {
-          "name": "Vincen Garc\u00eda",
-          "url": "https://open.spotify.com/artist/1E17v2QgyFXkqxsHngr6YD"
-        }
-      ],
-      "duration_ms": 251120,
-      "name": "Somebody To You (feat. Cory Wong & Vincen Garc\u00eda)",
-      "url": "https://open.spotify.com/track/0vigaWzrt5hQlfUuirda0o"
-    },
-    {
-      "added_at": "2023-11-10 05:41:14",
-      "album": {
-        "name": "You Don't Even",
-        "url": "https://open.spotify.com/album/1Vw2QQWVguHw3kTwCq3kaf"
-      },
-      "artists": [
-        {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
-        }
-      ],
-      "duration_ms": 138013,
-      "name": "You Don't Even",
-      "url": "https://open.spotify.com/track/6jTGHYU466eF0XxVOQuQMy"
-    },
-    {
-      "added_at": "2023-11-10 05:41:14",
-      "album": {
         "name": "to whoever wants to hear",
         "url": "https://open.spotify.com/album/6O3hKc6RYsOsDWsfvh40uA"
       },
@@ -959,22 +859,6 @@
     {
       "added_at": "2023-11-10 05:41:14",
       "album": {
-        "name": "Boy Scout",
-        "url": "https://open.spotify.com/album/5IyUVUACxYS7DE1URy80jv"
-      },
-      "artists": [
-        {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
-        }
-      ],
-      "duration_ms": 200261,
-      "name": "Boy Scout",
-      "url": "https://open.spotify.com/track/0rJltghxX2Ene77FGVYxdL"
-    },
-    {
-      "added_at": "2023-11-10 05:41:14",
-      "album": {
         "name": "wear your heart out",
         "url": "https://open.spotify.com/album/4KOM21G440kOOadSRiTeEu"
       },
@@ -1003,22 +887,6 @@
       "duration_ms": 170000,
       "name": "Second to Last",
       "url": "https://open.spotify.com/track/5QqBKaGI2vLb8d33krUWap"
-    },
-    {
-      "added_at": "2023-11-10 05:41:14",
-      "album": {
-        "name": "chuck taylors",
-        "url": "https://open.spotify.com/album/4liRxZ74LiRx6k8WzAW1pf"
-      },
-      "artists": [
-        {
-          "name": "Scott Helman",
-          "url": "https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg"
-        }
-      ],
-      "duration_ms": 162645,
-      "name": "chuck taylors",
-      "url": "https://open.spotify.com/track/4tGb9FSVHRKmUIWsXxf7o6"
     },
     {
       "added_at": "2023-11-10 05:41:14",
@@ -1187,38 +1055,6 @@
     {
       "added_at": "2023-11-10 05:41:14",
       "album": {
-        "name": "Off By Heart",
-        "url": "https://open.spotify.com/album/5JpDR4H0reeTZTS453Xbc1"
-      },
-      "artists": [
-        {
-          "name": "Dulcie",
-          "url": "https://open.spotify.com/artist/5mizYbdTNtmQlU97XqxJOe"
-        }
-      ],
-      "duration_ms": 183694,
-      "name": "Off By Heart",
-      "url": "https://open.spotify.com/track/2SYPolHtiL3IdKPkTDKNIY"
-    },
-    {
-      "added_at": "2023-11-10 05:41:14",
-      "album": {
-        "name": "daisies",
-        "url": "https://open.spotify.com/album/4NNX4e5yeyhDcuL2awCGpx"
-      },
-      "artists": [
-        {
-          "name": "JXN",
-          "url": "https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU"
-        }
-      ],
-      "duration_ms": 124338,
-      "name": "daisies",
-      "url": "https://open.spotify.com/track/1l13o2Aj524pm3R0qDY4uL"
-    },
-    {
-      "added_at": "2023-11-10 05:41:14",
-      "album": {
         "name": "House on a Hill (feat. Em Beihold)",
         "url": "https://open.spotify.com/album/7uitFkWZtfoUki1y2C9o8Q"
       },
@@ -1287,62 +1123,6 @@
     {
       "added_at": "2023-11-10 05:41:14",
       "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 164533,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/51Zw1cKDgkad0CXv23HCMU"
-    },
-    {
-      "added_at": "2023-11-10 05:41:14",
-      "album": {
-        "name": "Caffeine",
-        "url": "https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO"
-      },
-      "artists": [
-        {
-          "name": "Jack Kays",
-          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "Caffeine",
-      "url": "https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx"
-    },
-    {
-      "added_at": "2023-11-10 05:41:14",
-      "album": {
-        "name": "You Need Jesus",
-        "url": "https://open.spotify.com/album/2JhiffKjGgJ1DcjNPE0WHG"
-      },
-      "artists": [
-        {
-          "name": "BABY GRAVY",
-          "url": "https://open.spotify.com/artist/46VgqDxDEn45y1t0zBS7Do"
-        },
-        {
-          "name": "Yung Gravy",
-          "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
-        },
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        }
-      ],
-      "duration_ms": 134797,
-      "name": "You Need Jesus",
-      "url": "https://open.spotify.com/track/2JJjWLvlJhfYSfj4umyaTc"
-    },
-    {
-      "added_at": "2023-11-10 05:41:14",
-      "album": {
         "name": "Designer",
         "url": "https://open.spotify.com/album/1yqFXiexBb1qKUsmI8X64l"
       },
@@ -1355,22 +1135,6 @@
       "duration_ms": 190933,
       "name": "Designer",
       "url": "https://open.spotify.com/track/41aABK6UlttIeeGplvwW5t"
-    },
-    {
-      "added_at": "2023-11-10 05:41:14",
-      "album": {
-        "name": "The Last Songs I'll Write About You (for real)",
-        "url": "https://open.spotify.com/album/49uA6OX4uL1St7ZPWJ4kGD"
-      },
-      "artists": [
-        {
-          "name": "BL\u00dc EYES",
-          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
-        }
-      ],
-      "duration_ms": 220305,
-      "name": "Ruin My Life",
-      "url": "https://open.spotify.com/track/64239Uo0wTZHwUVipPzBbw"
     },
     {
       "added_at": "2023-11-10 05:41:14",

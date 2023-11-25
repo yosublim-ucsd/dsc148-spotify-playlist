@@ -4,7 +4,7 @@
 
 > get lost in the  a e s t h e t i c
 
-441 songs - 1 day 0 hr 32 min
+442 songs - 1 day 0 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Amoeba](https://open.spotify.com/track/18pKjAl3n5Gsaj77yojbta) | [Aletta Vilkier](https://open.spotify.com/artist/2bYcBeoG4uGs59ESbt8cFa), [Fernando Lima](https://open.spotify.com/artist/1RAjXAReRPsoxwRQHygGFH) | [Vaporwave Edition](https://open.spotify.com/album/56iimhO7ZQWHQU6sITfcYD) | 6:46 | 2022-09-11 | 2022-11-11 |
 | [Andromeda](https://open.spotify.com/track/5On4syxOQUdVxkH9wQTnuU) | [DUCAT](https://open.spotify.com/artist/4ADZvJH9oSDFHFGkwWGGGD), [VANITAS命死](https://open.spotify.com/artist/3626h020F6R0HEQdaRTTWI) | [Andromeda](https://open.spotify.com/album/6XgUrLZkOD8SatBNkr0CgW) | 3:25 | 2022-04-11 | 2022-07-22 |
 | [Anomaly](https://open.spotify.com/track/1N9xhwPDSx1A8SGPcD7M3k) | [oDDling](https://open.spotify.com/artist/2zhOohLhIGzDcBhAqmBmuE) | [Anomaly](https://open.spotify.com/album/2BacN89ksqwckgSLcayfkb) | 3:52 | 2021-12-08 | 2023-11-17 |
+| [Anomaly](https://open.spotify.com/track/7b1E7EB2odr3au4goaDxn2) | [oDDling](https://open.spotify.com/artist/2zhOohLhIGzDcBhAqmBmuE) | [Anomaly](https://open.spotify.com/album/5DNdyrCHb0OIhNHI0vu9vf) | 3:52 | 2023-07-18 |  |
 | [Apricot \- Remix](https://open.spotify.com/track/3ohOgM9Zdz1ynBOosQqtTK) | [Runners Club 95](https://open.spotify.com/artist/2TSGxQ356S2ddpb6uBuo0Z), [luxury elite](https://open.spotify.com/artist/28516pIwBLUO62yBiLAfdI) | [Apricot Remixes](https://open.spotify.com/album/6hVvUy8oO6P21H1zuTRQvo) | 3:24 | 2022-04-11 | 2022-07-27 |
 | [Aquascaping ピ ラ ミ ッ ド](https://open.spotify.com/track/3JWklyImki98eVMPDMWH1y) | [猫 シ Corp.](https://open.spotify.com/artist/4eYVVrnphe4blxWuzahYQE) | [Hiraeth](https://open.spotify.com/album/5liW7KNunCxMaEP3gbCI1C) | 1:14 | 2021-12-08 | 2022-11-19 |
 | [Aquascaping ピラミッド](https://open.spotify.com/track/3fcapo2HfJHiZ6xBXknUPN) | [猫 シ Corp.](https://open.spotify.com/artist/4eYVVrnphe4blxWuzahYQE) | [Hiraeth](https://open.spotify.com/album/6VFTvpLVvfzUTMtNBloDEv) | 1:14 | 2022-11-04 |  |
@@ -69,7 +70,7 @@
 | [carats](https://open.spotify.com/track/7tHv5CC9ugGB6NT85jz1Hs) | [ber.nell](https://open.spotify.com/artist/4KNk6gDEWeAGr3ILBq2SI6) | [carats](https://open.spotify.com/album/62zdbui0FzDuHNbHsGL4Yz) | 2:30 | 2022-07-15 | 2022-08-14 |
 | [Carrie Bradshaw](https://open.spotify.com/track/2azLsNFfIPtxNU4QmJzPow) | [Runners Club 95](https://open.spotify.com/artist/2TSGxQ356S2ddpb6uBuo0Z) | [No Sugar Added](https://open.spotify.com/album/2qcJjLbDDZ0of1pzHNrL1L) | 2:42 | 2021-12-08 | 2022-07-24 |
 | [Carrie Bradshaw](https://open.spotify.com/track/7wWoHrgmniGylyEOxt0CyY) | [Runners Club 95](https://open.spotify.com/artist/2TSGxQ356S2ddpb6uBuo0Z) | [No Sugar Added](https://open.spotify.com/album/4olgBAtPoJfrz9wZglnWrX) | 2:42 | 2022-08-12 |  |
-| [CasaBlanca](https://open.spotify.com/track/2inAz0qo2e55MeKbw9Locb) | [Tiën](https://open.spotify.com/artist/3kRYpFgIOADMkDpUnclkVh) | [CasaBlanca](https://open.spotify.com/album/63MZ5QlzaZghJP7F4QXMES) | 3:03 | 2022-11-04 |  |
+| [CasaBlanca](https://open.spotify.com/track/2inAz0qo2e55MeKbw9Locb) | [Tiën](https://open.spotify.com/artist/3kRYpFgIOADMkDpUnclkVh) | [CasaBlanca](https://open.spotify.com/album/63MZ5QlzaZghJP7F4QXMES) | 3:03 | 2022-11-04 | 2023-11-25 |
 | [Casino](https://open.spotify.com/track/3EXRThFH4uBHhlf5h0Z09k) | [LensCorp™ International](https://open.spotify.com/artist/5lmw1MJ22ttKw0PP7MZWyy) | [Online™](https://open.spotify.com/album/3uf2QyucWw4m50xMahNoTV) | 1:02 | 2022-04-12 | 2022-04-21 |
 | [City Lights](https://open.spotify.com/track/0LiyqVSNN07YMBKdnPhI8A) | [FM Attack](https://open.spotify.com/artist/6nPggL1KGOD5Ba0yK0cxmb) | [City Lights](https://open.spotify.com/album/3mw1X0nqWBSSWlGrbBYkCc) | 3:20 | 2022-07-15 |  |
 | [City Lights \- Betamaxx Remix](https://open.spotify.com/track/0ZOfbmMrmdKF4uQcgISxs9) | [FM Attack](https://open.spotify.com/artist/6nPggL1KGOD5Ba0yK0cxmb), [Betamaxx](https://open.spotify.com/artist/3uIfha7lvdSsoFeJNJS3vJ) | [City Lights](https://open.spotify.com/album/5FUZdUXNGAWLg6bdlb5eou) | 4:31 | 2022-11-04 | 2023-10-01 |
@@ -161,7 +162,7 @@
 | [HAIRSALON](https://open.spotify.com/track/44k0k0RYix0BDTB9vHnmzy) | [Designer Jeans](https://open.spotify.com/artist/53EUvvVtuxGwO2SvyTLz8y) | [HAIRSALON](https://open.spotify.com/album/7tZuDWOg9hffa3FdX3fv2E) | 3:40 | 2021-12-08 | 2023-01-25 |
 | [Halo](https://open.spotify.com/track/66BktgRnxtUvJJyWWPHjZk) | [Zane Alexander](https://open.spotify.com/artist/3YZb2aI52lJJK9ektquNK7), [Downtown Binary](https://open.spotify.com/artist/0H4t3GcGse8cqfL222mfbv) | [Halo](https://open.spotify.com/album/7avrXWHHwYaXyIACiSNJ8Y) | 3:32 | 2021-12-08 | 2022-04-26 |
 | [Happy](https://open.spotify.com/track/4pM8IKc8qGOnKyloJyKU0T) | [Tupperwave](https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO), [Dan Mason](https://open.spotify.com/artist/6PyfRFk5DQu2o0P74VA2ag) | [Baby, I Miss You](https://open.spotify.com/album/5SMFDE1yT4gjp9I0rIxBX5) | 2:56 | 2021-12-08 | 2023-09-19 |
-| [Harlequin](https://open.spotify.com/track/7rDsuv5zejXYlPUkG5nW0p) | [FM Skyline](https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf) | [Harlequin](https://open.spotify.com/album/3cB1LycEBKXgS2OT8z2sPb) | 2:56 | 2021-12-08 | 2023-11-23 |
+| [Harlequin](https://open.spotify.com/track/7rDsuv5zejXYlPUkG5nW0p) | [FM Skyline](https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf) | [Harlequin](https://open.spotify.com/album/3cB1LycEBKXgS2OT8z2sPb) | 2:56 | 2021-12-08 |  |
 | [Heat of the Night](https://open.spotify.com/track/0XsgXfG9q008DLdpCUMmeZ) | [Stux.Io](https://open.spotify.com/artist/5OmqY8dwR6GFMocNY3ph68), [Eccodroid](https://open.spotify.com/artist/5JTPEjc9JfEu5tGuLdwvQj), [Vaporwavez](https://open.spotify.com/artist/67AOfL6Oi8UZqpuGlw0mT3) | [Heat of the Night](https://open.spotify.com/album/6B5R3MI94ZLV94uZWl7pSg) | 2:19 | 2021-12-08 | 2022-07-20 |
 | [Heathrow](https://open.spotify.com/track/2rdh7qYQmaUQSOyjpsQpZy) | [ぬいぐるみクレヨン Lush Crayon](https://open.spotify.com/artist/62v3nR2gE0z1AFSFHxKepe) | [Mine on the Street](https://open.spotify.com/album/5g1FwC5d7jc047UHwpqBgk) | 2:24 | 2021-12-08 | 2022-07-27 |
 | [Hex](https://open.spotify.com/track/3KDLbDzWeQSpG57zjiFckX) | [Rhodes Rodosu](https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ) | [Sweven](https://open.spotify.com/album/7wvBpiNKq63JYLAVbz40vY) | 4:02 | 2023-07-18 |  |
@@ -235,7 +236,7 @@
 | [Mist](https://open.spotify.com/track/5sr3JK23eZydJPz643hDc1) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i) | [One Hundred Mornings \(Bonus Tracks\)](https://open.spotify.com/album/1q1iZ1xrAljMcjvjpEFhfa) | 2:35 | 2021-12-08 |  |
 | [Mistakes \- Remastered 2022](https://open.spotify.com/track/1CStstWwirzOtUxGKjhgKt) | [Donor Lens](https://open.spotify.com/artist/0gF93jqUmpFOFEtBKXWFiA) | [Miracle Lounge มิราเคิล เลานจ์ \(Remastered\) \[Remastered 2022\]](https://open.spotify.com/album/4QIGIQ7D3GrntTZRPAuS2o) | 1:25 | 2022-04-11 | 2022-07-06 |
 | [Misty Reflections](https://open.spotify.com/track/3cBtHwcoJm3GTKEkkwTLO3) | [Tupperwave](https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO) | [VaporLoops, Vol\. 1](https://open.spotify.com/album/5AUO9iVgc0azZXcpvpg4Rc) | 3:49 | 2022-07-15 | 2023-01-25 |
-| [Monogon](https://open.spotify.com/track/60r9DrLtGACy95pTVVLw2a) | [Vaporwave Club](https://open.spotify.com/artist/3hNjVPQVt9yTum1hDWyjwx) | [Polygon Paradise](https://open.spotify.com/album/2nsz0P9PDU6iYEMY1EPuK5) | 2:20 | 2022-04-12 |  |
+| [Monogon](https://open.spotify.com/track/60r9DrLtGACy95pTVVLw2a) | [Vaporwave Club](https://open.spotify.com/artist/3hNjVPQVt9yTum1hDWyjwx) | [Polygon Paradise](https://open.spotify.com/album/2nsz0P9PDU6iYEMY1EPuK5) | 2:20 | 2022-04-12 | 2023-11-25 |
 | [Moonlight Moodlight](https://open.spotify.com/track/014hP9JyoLjrkRFBKj1dou) | [Tupperwave](https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO) | [VaporLoops, Vol\. 1](https://open.spotify.com/album/5AUO9iVgc0azZXcpvpg4Rc) | 4:40 | 2022-07-15 | 2022-09-02 |
 | [more than ordinary](https://open.spotify.com/track/5So7dKqA4iJRTIW9j9MW24) | [92](https://open.spotify.com/artist/5k7ly6stBhv3Pw43X7oMtg) | [Wants and Needs](https://open.spotify.com/album/652mPQWHKHwl39CQ9HozGP) | 1:45 | 2023-07-18 |  |
 | [Morning Brew](https://open.spotify.com/track/2lpKOSbQQfA1WkhvEWm3y9) | [Dan Mason ダン·メイソン](https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa) | [Electric Elevator 2: Second Floor](https://open.spotify.com/album/15uhjGCpE6oXgUFZSOPtkp) | 2:14 | 2022-06-06 | 2022-07-27 |

@@ -4,7 +4,7 @@
 
 > The best newly released songs of the week\. Cover: Alextbh
 
-8,485 songs - 19 day 9 hr 8 min
+8,488 songs - 19 day 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3774,6 +3774,7 @@
 | [Jim Carrey](https://open.spotify.com/track/1Jo2xoLjy1EfU8n7jLL6qN) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Jim Carrey](https://open.spotify.com/album/5Oy1LcmGT63jjU7ave3oyH) | 3:03 | 2023-07-13 | 2023-07-21 |
 | [Jimmy Cooks \(feat\. 21 Savage\)](https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 3:38 | 2022-06-17 | 2022-06-24 |
 | [Jimmy, Brian and Mike](https://open.spotify.com/track/7wtDXxRShBmxJAeXzE4H3p) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Eminem Show \(Expanded Edition\)](https://open.spotify.com/album/6EzbFdrwvWpnpUjzrR57aU) | 3:21 | 2022-05-26 | 2022-06-03 |
+| [Jingle Bell Rock](https://open.spotify.com/track/0ijCESscFXtRc0dtDgu1Uv) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Jingle Bell Rock](https://open.spotify.com/album/7dSaBwUid0hjWdJ5QzIKyu) | 2:10 | 2023-11-23 |  |
 | [Jodoh Ajal Rezeki](https://open.spotify.com/track/40IiqAuWE2PsoiFVm8yBHm) | [Haris Ismail](https://open.spotify.com/artist/7lfFMAUlQG5HlBipqdkfgM), [Faizal Tahir](https://open.spotify.com/artist/0CIHy5rV9yWHNaYa8U3KLk), [Neelofa](https://open.spotify.com/artist/1OJ7e3qOeNgrHHy6vnBsnJ) | [Jodoh Ajal Rezeki](https://open.spotify.com/album/2ULnMUW9akEVjoF1qieBKA) | 2:57 | 2023-03-23 | 2023-03-31 |
 | [Joe](https://open.spotify.com/track/2fSdrOgBjisneSqSwhXWsn) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Joe](https://open.spotify.com/album/6jZmjxCxlbPxxeClvZbjZo) | 3:07 | 2022-09-15 | 2022-09-23 |
 | [Jogging](https://open.spotify.com/track/0mOWr9wYa3oyJ8qodnXJlI) | [Wave And So](https://open.spotify.com/artist/7tGqjrytCoVKlwyqkkFE4f) | [Jogging](https://open.spotify.com/album/4TmNZlqZx7hv2uvneacAI4) | 3:16 | 2022-01-13 | 2022-01-21 |
@@ -6314,6 +6315,7 @@
 | [Skylight](https://open.spotify.com/track/4ur8uhTyzF4Ok9WyxQLr68) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Skylight](https://open.spotify.com/album/0DD0jU03Tn8NxFInW0AtGY) | 4:00 | 2021-12-23 | 2021-12-31 |
 | [Skyline](https://open.spotify.com/track/1QxIFMs4M8qd5cbJJu80v4) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Skyline](https://open.spotify.com/album/7CrDnyaqZVhO6UupmkQiHe) | 3:02 | 2022-04-28 | 2022-05-06 |
 | [SLAY](https://open.spotify.com/track/32Ao6xLLir3dPOhQGvqgSB) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [ALL MY GIRLS](https://open.spotify.com/album/2yjigHf9lgspW2K5y99Qr0) | 3:40 | 2023-08-17 | 2023-08-25 |
+| [Sleep](https://open.spotify.com/track/76JrGQqPhi5WnVjuvNGMtK) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Sleep](https://open.spotify.com/album/6iap0f96nMrJ30TDGVz8Uz) | 2:26 | 2023-11-23 |  |
 | [Sleep Crying](https://open.spotify.com/track/4yxRUP0PKgYHYKzzypQvm0) | [SILVY](https://open.spotify.com/artist/5m8lmgqE3WYbGqmYKVNJSA) | [Sleep Crying](https://open.spotify.com/album/1JkSJUTh5tgcJInjayUmmb) | 3:20 | 2022-08-25 | 2022-09-02 |
 | [Sleep Tight \- Edit](https://open.spotify.com/track/0RbE1ZbqtX6Y3aMBwmcT5Q) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Sleep Tight](https://open.spotify.com/album/35QXLfwiBbjR2kVNRSKM2R) | 3:03 | 2022-04-28 | 2022-05-06 |
 | [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 | 2023-04-13 | 2023-04-21 |
@@ -7221,7 +7223,8 @@
 | [Through It All](https://open.spotify.com/track/2okkK713IKZ8R8FSBXuw9B) | [Jay Ocean](https://open.spotify.com/artist/6WK3Qxj1lGo2lr8d7y2fZM) | [Through It All](https://open.spotify.com/album/3BnSjGsjMPvyNarzVQVYbc) | 3:33 | 2023-06-01 | 2023-06-09 |
 | [Through The Fires](https://open.spotify.com/track/7F4UgivYUzFRf8uUEVQC8m) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Through The Fires](https://open.spotify.com/album/1zxdHgvP38B7QdYw61I2Sl) | 4:31 | 2022-05-19 | 2022-05-27 |
 | [THROW A DICE](https://open.spotify.com/track/0IpOdu8u7wev6QegkGguEb) | [XODIAC](https://open.spotify.com/artist/1Yhs3H3tkZhk4mSQgzECWb) | [THROW A DICE](https://open.spotify.com/album/6PJs3PXJlXN12XpYW4pPVY) | 3:17 | 2023-04-27 | 2023-05-05 |
-| [Throw Your Arms Around Me](https://open.spotify.com/track/6oMH9gcyIewqAoG62I1oAW) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Mushroom: 50 Years Of Making Noise \(Reimagined\)](https://open.spotify.com/album/2gpFlvBE5l3fLaOllaJzUR) | 3:03 | 2023-11-23 |  |
+| [Throw Your Arms Around Me](https://open.spotify.com/track/0CVwSCQOx3CMHjwDCmaElh) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Mushroom: 50 Years Of Making Noise \(Reimagined\)](https://open.spotify.com/album/4SRtPtUkg4izzJZ2Kr2LMJ) | 3:03 | 2023-11-23 |  |
+| [Throw Your Arms Around Me](https://open.spotify.com/track/6oMH9gcyIewqAoG62I1oAW) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Mushroom: 50 Years Of Making Noise \(Reimagined\)](https://open.spotify.com/album/2gpFlvBE5l3fLaOllaJzUR) | 3:03 | 2023-11-23 | 2023-11-25 |
 | [Throwback Tears](https://open.spotify.com/track/68Z7JAEz6ZSFJ9bA4KFGRg) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Throwback Tears](https://open.spotify.com/album/5mNkXsJh0QVVEKIq9Rx1en) | 1:57 | 2023-01-12 | 2023-01-20 |
 | [Thunder Fever](https://open.spotify.com/track/22uorZHWp6U89kCJugaqiR) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Thunder Fever](https://open.spotify.com/album/5d92PvDER2GJql4x86vkwk) | 3:09 | 2022-02-24 | 2022-03-04 |
 | [THUNDER N’ LIGHTNING](https://open.spotify.com/track/0MyDQQ7v5WMb7PaQ0boFkL) | [Reub](https://open.spotify.com/artist/2VIpsUyYMf7opaz3dG4OiF) | [THUNDER N’ LIGHTNING](https://open.spotify.com/album/41M8bkeuc5nEh3PrqtyRp5) | 3:41 | 2023-07-13 | 2023-07-21 |

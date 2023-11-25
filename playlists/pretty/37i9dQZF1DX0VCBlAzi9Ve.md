@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VCBlAzi9Ve.md) - [plain]
 
 > Let it simmer with some smooth R&amp;B.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,602 likes - 25 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,618 likes - 25 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VCBlAzi9Ve.md) - [plain]
 | 12 | [Harder, Better, Faster, Stronger \- The Neptunes Remix](https://open.spotify.com/track/5a8PsqWOuGh7FR1tC6UKUs) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [Daft Club](https://open.spotify.com/album/1O5WUh9KsgHT2QaUCJeVPG) | 5:12 |
 | 13 | [She Came II Give It II U \(feat\. Nicki Minaj\)](https://open.spotify.com/track/0kF6MdXhjQeYhZ2kogCIsx) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [She Came II Give It II U \(feat\. Nicki Minaj\)](https://open.spotify.com/album/3gUHo30KyBxq9lBS2hnGLW) | 4:02 |
 | 14 | [Rock Your Body](https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:27 |
-| 15 | [Feelin \- Original Mix](https://open.spotify.com/track/6XLSATCZY8hLodpoQrfx27) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Jess](https://open.spotify.com/artist/0vzlcDC7qhbx7pm9ExsQV7) | [Foreign Language \(Remixes\)](https://open.spotify.com/album/13vTyQaEtmVgYKrFthfNnx) | 6:16 |
+| 15 | [Feelin'](https://open.spotify.com/track/27KV63roXg29PN7bMAKl2i) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Jess](https://open.spotify.com/artist/0TmD2CTH26wHTBb8LxOw7s) | [Foreign Language \(Remixes\)](https://open.spotify.com/album/7mQVfIZsB9tgd1bcyKUnaD) | 6:16 |
 | 16 | [Maniac](https://open.spotify.com/track/1zczShrEjQLIsXgty7XFFE) | [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [Casablanca Reworks](https://open.spotify.com/album/754XEdGEvq4MzdghPJxBfx) | 4:47 |
 | 17 | [Nighttiming](https://open.spotify.com/track/1jbrKpiTZ5jSblBypybUmV) | [Coconut Records](https://open.spotify.com/artist/2YKp8Odp8GGbAkVU60Yk2Y) | [Nighttiming](https://open.spotify.com/album/4FeD2BdcaGX75b5X1gvvsg) | 2:48 |
 | 18 | [Too Cool To Dance](https://open.spotify.com/track/72Nl5JkVhoHtmPkNeyLaSy) | [Eden xo](https://open.spotify.com/artist/4ZEHm819BPEhaYNeC2LLeI) | [Too Cool To Dance](https://open.spotify.com/album/2Ab6Yk3XbReGj62BGl3YN5) | 3:09 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VCBlAzi9Ve.md) - [plain]
 | 24 | [Fiona Coyne](https://open.spotify.com/track/0dvS6gcGGKvXPWo0mC6UVP) | [Skylar Spence](https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL) | [Prom King](https://open.spotify.com/album/4kB3NXXqZGTtehCAbyGar7) | 4:09 |
 | 25 | [Go Bang](https://open.spotify.com/track/7sPKwl78bZIhXuBZvOykFD) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Go Bang](https://open.spotify.com/album/6FhmsyMDKvnpHx8JgefrvC) | 11:04 |
 
-Snapshot ID: `MCw1OWNkYjEzY2ZjNjYwYzZjZWYxMmRiMzg4NGEyY2Q5M2M2NGVmOTIw`
+Snapshot ID: `MCxmYWM1YzA2MTMyZTcxNzcyNWE5ZjczNDQ3MzRlMjkzMWJkYzk0NjFl`

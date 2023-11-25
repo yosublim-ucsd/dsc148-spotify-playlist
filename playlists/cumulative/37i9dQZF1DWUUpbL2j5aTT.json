@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "The best of Brazilian House. Photo: Fabricio Pe\u00e7anha",
+  "description": "The best of Brazilian House. Photo: Meca",
   "name": "House Brasil",
   "tracks": [
     {
@@ -85,6 +85,24 @@
     },
     {
       "album": {
+        "name": "Abyssal",
+        "url": "https://open.spotify.com/album/08ow2gobwaKEcYbnGeKv7e"
+      },
+      "artists": [
+        {
+          "name": "Meca",
+          "url": "https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345853,
+      "name": "Abyssal",
+      "url": "https://open.spotify.com/track/0roqJ6Ik4PklLkx1XslXVU"
+    },
+    {
+      "album": {
         "name": "Addictive",
         "url": "https://open.spotify.com/album/6sZycycWxSmPtRRrarYJSU"
       },
@@ -158,7 +176,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 196369,
       "name": "Anyway",
       "url": "https://open.spotify.com/track/1D2k8w6a7pGgm01Q3xLiae"
@@ -634,7 +652,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 125714,
       "name": "Don't",
       "url": "https://open.spotify.com/track/0kgicICgleRJFUcUlF1uk8"
@@ -660,7 +678,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 243870,
       "name": "Empire feat Laura Rogalli (Natema Remix) - Short Edit",
       "url": "https://open.spotify.com/track/5SCxwXX1FzzdGWTVsLCymt"
@@ -758,7 +776,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 121935,
       "name": "Go Bananas",
       "url": "https://open.spotify.com/track/7sMTAnbe0GyC8SquQFyJuA"
@@ -944,7 +962,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 197839,
       "name": "Into It",
       "url": "https://open.spotify.com/track/0mfFuUFIEIzaBvFP1mLise"
@@ -1170,7 +1188,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 159517,
       "name": "Master & Slave - Mallover 2022 Remix",
       "url": "https://open.spotify.com/track/7vAkYFMtaga6xhAXhOc4Ni"
@@ -1254,7 +1272,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 261290,
       "name": "Ningu\u00e9m",
       "url": "https://open.spotify.com/track/3sftN56oIBQV6zCYsMcHQC"
@@ -1685,6 +1703,28 @@
     },
     {
       "album": {
+        "name": "Silverstone",
+        "url": "https://open.spotify.com/album/6TfU6xhKT4I7ptc5qeiG48"
+      },
+      "artists": [
+        {
+          "name": "Victor Lou",
+          "url": "https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt"
+        },
+        {
+          "name": "Odaya",
+          "url": "https://open.spotify.com/artist/3su3dTqf9eYWR9Z9OwvZ8z"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282720,
+      "name": "Silverstone",
+      "url": "https://open.spotify.com/track/6K3Gfbn3KK6lxSpwPN1jK0"
+    },
+    {
+      "album": {
         "name": "Smack Yo'",
         "url": "https://open.spotify.com/album/22zxJTlAohxTyPwxjrfwqm"
       },
@@ -1696,7 +1736,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 245669,
       "name": "Smack Yo'",
       "url": "https://open.spotify.com/track/2UdCQIDwFvGhslUYZH5tRR"
@@ -1780,6 +1820,24 @@
       "duration_ms": 241875,
       "name": "Steven Hawking - Luca Lush Remix",
       "url": "https://open.spotify.com/track/0G6THpMZjfai5fiQlCIg8x"
+    },
+    {
+      "album": {
+        "name": "Sarava",
+        "url": "https://open.spotify.com/album/32hf6dpv1rxU5OcFtsg9R8"
+      },
+      "artists": [
+        {
+          "name": "Brisotti",
+          "url": "https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225116,
+      "name": "Swarm",
+      "url": "https://open.spotify.com/track/55ojw2RLZaaUI3eVBOhR2z"
     },
     {
       "album": {

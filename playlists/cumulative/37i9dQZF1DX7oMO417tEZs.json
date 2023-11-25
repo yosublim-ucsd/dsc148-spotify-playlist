@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-20",
-  "description": "new gems by artists carving their own lane. cover: Peggy Gou, Lenny Kravitz",
+  "description": "new gems by artists carving their own lane. cover: Bj\u00f6rk, ROSAL\u00cdA",
   "name": "outliers",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 231545,
       "name": "(It Goes Like) Nanana - Edit",
       "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
@@ -1902,6 +1902,24 @@
       "duration_ms": 213453,
       "name": "Better When We're Close",
       "url": "https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg"
+    },
+    {
+      "album": {
+        "name": "bienoquee",
+        "url": "https://open.spotify.com/album/4VCzRZrM2YdTmEBYJmykic"
+      },
+      "artists": [
+        {
+          "name": "Antoniya",
+          "url": "https://open.spotify.com/artist/5kA25TZjzmQtCEFCIAwlOE"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161475,
+      "name": "bienoquee",
+      "url": "https://open.spotify.com/track/6SDIT18m2UYnHRDh8J1IJi"
     },
     {
       "album": {
@@ -5066,7 +5084,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 185321,
       "name": "Eden",
       "url": "https://open.spotify.com/track/3Hn1KmWMe6toEkcPs1FiPi"
@@ -12907,6 +12925,28 @@
     },
     {
       "album": {
+        "name": "Oral",
+        "url": "https://open.spotify.com/album/0Jldmuyjx6v7nMefI7y00r"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222737,
+      "name": "Oral",
+      "url": "https://open.spotify.com/track/6VCNxAwxA83j2jE3QZpYPr"
+    },
+    {
+      "album": {
         "name": "Original Classic (Byron The Aquarius Remix)",
         "url": "https://open.spotify.com/album/3bXcpdz7EF1Cgc1H7J5auA"
       },
@@ -13328,7 +13368,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 151497,
       "name": "perky",
       "url": "https://open.spotify.com/track/3ij9bvJRbDU8ZJiYIUkzUV"
@@ -13772,6 +13812,24 @@
       "duration_ms": 194254,
       "name": "Practice",
       "url": "https://open.spotify.com/track/6J2ECbAbX4L4WgIkeXyeq6"
+    },
+    {
+      "album": {
+        "name": "Precious/Pressure",
+        "url": "https://open.spotify.com/album/2FyCJZV376wzUTVb1uElBr"
+      },
+      "artists": [
+        {
+          "name": "a l l i e",
+          "url": "https://open.spotify.com/artist/4XN4jO4xdDFw0EhdOTN7re"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192210,
+      "name": "Precious/Pressure",
+      "url": "https://open.spotify.com/track/5RzBkZkrTk5XSmMUSXJZ73"
     },
     {
       "album": {
@@ -14222,7 +14280,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 184510,
       "name": "Ride Or Die (with Villano Antillano)",
       "url": "https://open.spotify.com/track/3dvVgBNJtYZH58rTpIQLEI"
@@ -14630,6 +14688,24 @@
       "duration_ms": 288216,
       "name": "Sapling",
       "url": "https://open.spotify.com/track/3fHd7acEOwt3UsnDq6DEL2"
+    },
+    {
+      "album": {
+        "name": "sapon",
+        "url": "https://open.spotify.com/album/1Dlo15YbEjGlLb0vTAfMBV"
+      },
+      "artists": [
+        {
+          "name": "Flavien Berger",
+          "url": "https://open.spotify.com/artist/5PyU5aVBI66v0pkCIvEJfu"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190426,
+      "name": "sapon",
+      "url": "https://open.spotify.com/track/5hNK7NeURb8ZVYBD2vZuiU"
     },
     {
       "album": {

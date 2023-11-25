@@ -1,12 +1,12 @@
 {
   "description": "Sambinhas selecionados especialmente pra voc\u00ea curtir um dia de sol.",
-  "num_followers": 133865,
+  "num_followers": 133932,
   "original_name": "Samba & \u00e1gua fresca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ODRkMDJmMTU3MTI3ZTI2MWE1MWY0ZTJmMzdkMDNiNWEzYTM5YTg0",
+  "snapshot_id": "MCw5N2U4NDJmMzYwZjE3NDQzMGQ4ODllYzQ2YTYxNzc5MDE0ZWY5ZTAw",
   "tracks": [
     {
       "added_at": "2023-11-10 03:01:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
-        "name": "Beth",
-        "url": "https://open.spotify.com/album/57u3pqnTEmTJvl9iJ5x2kO"
-      },
-      "artists": [
-        {
-          "name": "Beth Carvalho",
-          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
-        }
-      ],
-      "duration_ms": 208733,
-      "name": "Chega de Saudade",
-      "url": "https://open.spotify.com/track/7CS9xHifm0tfyGCmrRAEQ7"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
         "name": "Paira no Ar",
         "url": "https://open.spotify.com/album/20W8NdudWpnH6GU9Fn7fa1"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 193682,
       "name": "Paira no Ar",
       "url": "https://open.spotify.com/track/5JFZgF38a3bINUXwEr8YSx"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
+        "name": "Beth",
+        "url": "https://open.spotify.com/album/57u3pqnTEmTJvl9iJ5x2kO"
+      },
+      "artists": [
+        {
+          "name": "Beth Carvalho",
+          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
+        }
+      ],
+      "duration_ms": 208733,
+      "name": "Chega de Saudade",
+      "url": "https://open.spotify.com/track/7CS9xHifm0tfyGCmrRAEQ7"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
+        "name": "Ind\u00edcio de Amor",
+        "url": "https://open.spotify.com/album/27vtkCprC2mUoBnjYx96Vn"
+      },
+      "artists": [
+        {
+          "name": "Tel\u00ea",
+          "url": "https://open.spotify.com/artist/2o8rkPYB1LuAn1CfN0xjm1"
+        }
+      ],
+      "duration_ms": 208736,
+      "name": "Ind\u00edcio de Amor",
+      "url": "https://open.spotify.com/track/0vCeLhWpLbjUoHUy3pq0EL"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
         "name": "Dia De Gl\u00f3ria",
         "url": "https://open.spotify.com/album/6EV9tH0aYrzvnINZJQ55fH"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 242589,
       "name": "Dia De Gl\u00f3ria",
       "url": "https://open.spotify.com/track/33zWdhvtorBDf3voIMVZe6"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
-        "name": "Ind\u00edcio de Amor",
-        "url": "https://open.spotify.com/album/27vtkCprC2mUoBnjYx96Vn"
-      },
-      "artists": [
-        {
-          "name": "Tel\u00ea",
-          "url": "https://open.spotify.com/artist/2o8rkPYB1LuAn1CfN0xjm1"
-        }
-      ],
-      "duration_ms": 208736,
-      "name": "Ind\u00edcio de Amor",
-      "url": "https://open.spotify.com/track/0vCeLhWpLbjUoHUy3pq0EL"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
+        "name": "Cantoras do Brasil",
+        "url": "https://open.spotify.com/album/4Zg1k7ciP5ew90hzPCkhuI"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "duration_ms": 192520,
+      "name": "Na Linha do Mar",
+      "url": "https://open.spotify.com/track/5aVHKHEeZ7XT6Upt6nl19H"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
         "name": "Samba Jazz, de Raiz Cl\u00e1udio Jorge 70",
         "url": "https://open.spotify.com/album/4YIKXtcEx1IUK4eM6awnC4"
       },
@@ -1591,18 +1607,18 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
-        "name": "Cantoras do Brasil",
-        "url": "https://open.spotify.com/album/4Zg1k7ciP5ew90hzPCkhuI"
+        "name": "Macieira",
+        "url": "https://open.spotify.com/album/1nfsB4TyQJUTefoMzBohSQ"
       },
       "artists": [
         {
-          "name": "Various Artists",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          "name": "Tel\u00ea",
+          "url": "https://open.spotify.com/artist/2o8rkPYB1LuAn1CfN0xjm1"
         }
       ],
-      "duration_ms": 192520,
-      "name": "Na Linha do Mar",
-      "url": "https://open.spotify.com/track/5aVHKHEeZ7XT6Upt6nl19H"
+      "duration_ms": 203680,
+      "name": "Macieira",
+      "url": "https://open.spotify.com/track/2Aa7811ydihpw3zDKimFDX"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -1623,22 +1639,6 @@
       "duration_ms": 311590,
       "name": "Alquimias",
       "url": "https://open.spotify.com/track/0AXNgjMMwC79W7C3FtzkDP"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
-        "name": "Macieira",
-        "url": "https://open.spotify.com/album/1nfsB4TyQJUTefoMzBohSQ"
-      },
-      "artists": [
-        {
-          "name": "Tel\u00ea",
-          "url": "https://open.spotify.com/artist/2o8rkPYB1LuAn1CfN0xjm1"
-        }
-      ],
-      "duration_ms": 203680,
-      "name": "Macieira",
-      "url": "https://open.spotify.com/track/2Aa7811ydihpw3zDKimFDX"
     },
     {
       "added_at": "2023-11-10 03:01:00",

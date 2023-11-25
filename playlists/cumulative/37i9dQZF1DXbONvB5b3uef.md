@@ -4,7 +4,7 @@
 
 > Como el humo voy, como el humo vengo...
 
-61 songs - 3 hr 52 min
+62 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Boomwest](https://open.spotify.com/track/6KMnI96SaK2I8Q8y7uuwgi) | [Vandalic](https://open.spotify.com/artist/6JAxeQXL5JSyAbTcFPWny0), [Dank Sa](https://open.spotify.com/artist/3qIbc4u5ujDMC8M2uXzLyU) | [Boomwest](https://open.spotify.com/album/2DYi77VTvjd6uubtK8Kzt1) | 2:50 | 2023-09-15 |  |
 | [Burbujas de Cristal](https://open.spotify.com/track/15yuvKhcoEtV5KwKxqHSwa) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [Burbujas de Cristal](https://open.spotify.com/album/0UYbHFy4zdCF34CRebZmRQ) | 3:44 | 2023-09-15 |  |
 | [Buscando Billete](https://open.spotify.com/track/6J77wNAZ5yT0p1dwuAxXAd) | [The Seler](https://open.spotify.com/artist/07H7kklAEFGHh0VxZNJ9bD), [Vandalic](https://open.spotify.com/artist/6JAxeQXL5JSyAbTcFPWny0) | [Buscando Billete](https://open.spotify.com/album/4CRukqXG1N7rI2sUox6Vo6) | 2:53 | 2023-09-15 |  |
+| [certeros](https://open.spotify.com/track/05XNGfkw7iWDYukQbiR4fc) | [Lil Wacho](https://open.spotify.com/artist/5LSBA1VYe9Vvxute4ZCaZQ), [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [Royal Religion](https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX) | [certeros](https://open.spotify.com/album/4M9iw709hphgt8LJVDzNTr) | 3:35 | 2023-11-24 |  |
 | [Chase The Devil](https://open.spotify.com/track/6KGggJ08SRmMuJojRYM4Lv) | [Max Romeo](https://open.spotify.com/artist/45QpZznbXYo3nWy0TIhvgv), [The Upsetters](https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b) | [War Ina Babylon \(Expanded Edition\)](https://open.spotify.com/album/7xlWX3qBfCI68LjswqlBH6) | 3:26 | 2023-09-15 |  |
 | [Como Mario](https://open.spotify.com/track/54u0nhUqypduR2oMMmBvrg) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Como Mario](https://open.spotify.com/album/2v7Gt7mkGcLMnlTJa97SPw) | 3:04 | 2023-09-15 |  |
 | [Desvielados](https://open.spotify.com/track/3N1D4VrIeFeZyraFaIOakm) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6), [BeeJay](https://open.spotify.com/artist/2Ki5IbMaLO1tpVSOBItanZ) | [IceWeed\-Man](https://open.spotify.com/album/3q5JdUUCimWQCm9bRsxcD8) | 4:12 | 2023-09-15 |  |

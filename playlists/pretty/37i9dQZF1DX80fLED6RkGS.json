@@ -1,12 +1,12 @@
 {
   "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP?si=1ojDmF_JTw-m7rq6pQmTVg\"> Maandy </a> ",
-  "num_followers": 23317,
+  "num_followers": 23361,
   "original_name": "Gengetone Fire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTBmY2EyYWYxNTQ4YmQ3Nzk1MmVlZDQ1NTNkMGEzMmJlNjQwMjE5",
+  "snapshot_id": "MCw1NzAwZmRhNDYyNzBmZjYzYmM5MDZmNzk5MDdhOWUyYjE4YWQ2NTBl",
   "tracks": [
     {
       "added_at": "2023-11-24 00:59:00",
@@ -63,18 +63,42 @@
     {
       "added_at": "2023-11-24 00:59:00",
       "album": {
-        "name": "Tic Tac",
-        "url": "https://open.spotify.com/album/45tM63BQiPw2SIbXkMVgz6"
+        "name": "Body Count",
+        "url": "https://open.spotify.com/album/2tiWnPlBkpaV8WBU42uZd6"
       },
       "artists": [
         {
-          "name": "RanzScooby",
-          "url": "https://open.spotify.com/artist/4QZongCaHTAfYZo1fpessq"
+          "name": "Heavy Cane",
+          "url": "https://open.spotify.com/artist/4QU2tUvCM07X05YlZpwJiY"
+        },
+        {
+          "name": "Exray Taniua",
+          "url": "https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6"
+        },
+        {
+          "name": "Fathermoh",
+          "url": "https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA"
         }
       ],
-      "duration_ms": 237593,
-      "name": "Tic Tac",
-      "url": "https://open.spotify.com/track/35KmDvN2PDlwKYNHMkIi7i"
+      "duration_ms": 184980,
+      "name": "Body Count",
+      "url": "https://open.spotify.com/track/5YdCQ6QNUaZWwJ9DwoTXvv"
+    },
+    {
+      "added_at": "2023-11-24 11:47:27",
+      "album": {
+        "name": "Dem Mauru",
+        "url": "https://open.spotify.com/album/5a9bIZ0OOkkm3QBjjEhnXj"
+      },
+      "artists": [
+        {
+          "name": "Maandy",
+          "url": "https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP"
+        }
+      ],
+      "duration_ms": 162821,
+      "name": "Dem Mauru",
+      "url": "https://open.spotify.com/track/60wD5VNwJuJo4osZ2JLPlM"
     },
     {
       "added_at": "2023-11-24 00:59:00",
@@ -99,22 +123,6 @@
     {
       "added_at": "2023-11-24 00:59:00",
       "album": {
-        "name": "Sijai Kuona",
-        "url": "https://open.spotify.com/album/3mY8s35Y1pp95tsiKSBQZ9"
-      },
-      "artists": [
-        {
-          "name": "Nelly The Goon",
-          "url": "https://open.spotify.com/artist/6Z0LfL7qEINpGSsgc9aeeO"
-        }
-      ],
-      "duration_ms": 158850,
-      "name": "Sijai Kuona",
-      "url": "https://open.spotify.com/track/6LawuGfcWcu5pGaUyISx0W"
-    },
-    {
-      "added_at": "2023-11-24 00:59:00",
-      "album": {
         "name": "NAKUDAI",
         "url": "https://open.spotify.com/album/1MOXbYPVwue2bYu972FlTT"
       },
@@ -131,6 +139,46 @@
       "duration_ms": 143804,
       "name": "NAKUDAI",
       "url": "https://open.spotify.com/track/2R0cPu8OCV9DMTQJANdXDL"
+    },
+    {
+      "added_at": "2023-11-24 00:59:00",
+      "album": {
+        "name": "Tic Tac",
+        "url": "https://open.spotify.com/album/45tM63BQiPw2SIbXkMVgz6"
+      },
+      "artists": [
+        {
+          "name": "RanzScooby",
+          "url": "https://open.spotify.com/artist/4QZongCaHTAfYZo1fpessq"
+        }
+      ],
+      "duration_ms": 237593,
+      "name": "Tic Tac",
+      "url": "https://open.spotify.com/track/35KmDvN2PDlwKYNHMkIi7i"
+    },
+    {
+      "added_at": "2023-11-24 00:59:00",
+      "album": {
+        "name": "Miss Behavior",
+        "url": "https://open.spotify.com/album/7qs2V9CF80wz2vlkeYPmgC"
+      },
+      "artists": [
+        {
+          "name": "Boutross",
+          "url": "https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y"
+        },
+        {
+          "name": "Savara",
+          "url": "https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap"
+        },
+        {
+          "name": "Fathermoh",
+          "url": "https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA"
+        }
+      ],
+      "duration_ms": 167058,
+      "name": "Miss Behavior",
+      "url": "https://open.spotify.com/track/0d2WBQpBAgE5VZE1UeoIon"
     },
     {
       "added_at": "2023-11-24 00:59:00",
@@ -179,46 +227,6 @@
     {
       "added_at": "2023-11-24 00:59:00",
       "album": {
-        "name": "Reggae Genje",
-        "url": "https://open.spotify.com/album/0jm6e4Z3pakpXww8POKqrG"
-      },
-      "artists": [
-        {
-          "name": "Unspoken Salaton",
-          "url": "https://open.spotify.com/artist/3FmMDBIQ6C4mEsgPVcVugY"
-        }
-      ],
-      "duration_ms": 165949,
-      "name": "Reggae Genje",
-      "url": "https://open.spotify.com/track/2dlQMoy1olxwVfcKuwEXZN"
-    },
-    {
-      "added_at": "2023-11-24 00:59:00",
-      "album": {
-        "name": "Miss Behavior",
-        "url": "https://open.spotify.com/album/7qs2V9CF80wz2vlkeYPmgC"
-      },
-      "artists": [
-        {
-          "name": "Boutross",
-          "url": "https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y"
-        },
-        {
-          "name": "Savara",
-          "url": "https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap"
-        },
-        {
-          "name": "Fathermoh",
-          "url": "https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA"
-        }
-      ],
-      "duration_ms": 167058,
-      "name": "Miss Behavior",
-      "url": "https://open.spotify.com/track/0d2WBQpBAgE5VZE1UeoIon"
-    },
-    {
-      "added_at": "2023-11-24 00:59:00",
-      "album": {
         "name": "Sababisha",
         "url": "https://open.spotify.com/album/3jN1KdqjRgVa8yyWA0975q"
       },
@@ -235,42 +243,6 @@
       "duration_ms": 184427,
       "name": "Miondoko",
       "url": "https://open.spotify.com/track/4PqHRjNOD0OxOjS9Lk0tar"
-    },
-    {
-      "added_at": "2023-11-24 00:59:00",
-      "album": {
-        "name": "DANCEHALLING",
-        "url": "https://open.spotify.com/album/0S3d65JRsHsULOLi4BTkyc"
-      },
-      "artists": [
-        {
-          "name": "Uncojingjong",
-          "url": "https://open.spotify.com/artist/4TM3Re5tPyINdQRSNlAfIo"
-        }
-      ],
-      "duration_ms": 144065,
-      "name": "DANCEHALLING",
-      "url": "https://open.spotify.com/track/1HDXvQAavbE3GsTOIQWkKi"
-    },
-    {
-      "added_at": "2023-11-24 00:59:00",
-      "album": {
-        "name": "Kaskie Vibaya",
-        "url": "https://open.spotify.com/album/3I2xim6t1W5RqtqXKElICs"
-      },
-      "artists": [
-        {
-          "name": "Fathermoh",
-          "url": "https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA"
-        },
-        {
-          "name": "Ssaru",
-          "url": "https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW"
-        }
-      ],
-      "duration_ms": 157844,
-      "name": "Kaskie Vibaya",
-      "url": "https://open.spotify.com/track/1kgxOHGjNsyg4fGZ31YJQT"
     },
     {
       "added_at": "2023-11-24 00:59:00",
@@ -335,42 +307,18 @@
     {
       "added_at": "2023-11-24 00:59:00",
       "album": {
-        "name": "Body Count",
-        "url": "https://open.spotify.com/album/0Vr9Kp5Rb2kHwD3Eji29r7"
+        "name": "DANCEHALLING",
+        "url": "https://open.spotify.com/album/0S3d65JRsHsULOLi4BTkyc"
       },
       "artists": [
         {
-          "name": "Noti Flow",
-          "url": "https://open.spotify.com/artist/1iEI7tRZgaXjPrpPj6cAM6"
-        },
-        {
-          "name": "Exray Taniua",
-          "url": "https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6"
-        },
-        {
-          "name": "Fathermoh",
-          "url": "https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA"
+          "name": "Uncojingjong",
+          "url": "https://open.spotify.com/artist/4TM3Re5tPyINdQRSNlAfIo"
         }
       ],
-      "duration_ms": 185279,
-      "name": "Body Count",
-      "url": "https://open.spotify.com/track/1pBVsYNb3NiijlRyy1JxD3"
-    },
-    {
-      "added_at": "2023-11-24 00:59:00",
-      "album": {
-        "name": "KISHASH",
-        "url": "https://open.spotify.com/album/5FIGoVPCIumXd9FgJrOv4b"
-      },
-      "artists": [
-        {
-          "name": "Lilmaina",
-          "url": "https://open.spotify.com/artist/1GF4G0q7pW65JWvuKWKDzv"
-        }
-      ],
-      "duration_ms": 159940,
-      "name": "KISHASH",
-      "url": "https://open.spotify.com/track/7BmSFviUm0dByhAZ10wNbk"
+      "duration_ms": 144065,
+      "name": "DANCEHALLING",
+      "url": "https://open.spotify.com/track/1HDXvQAavbE3GsTOIQWkKi"
     },
     {
       "added_at": "2023-11-24 00:59:00",
@@ -407,6 +355,26 @@
     {
       "added_at": "2023-11-24 00:59:00",
       "album": {
+        "name": "Kaskie Vibaya",
+        "url": "https://open.spotify.com/album/3I2xim6t1W5RqtqXKElICs"
+      },
+      "artists": [
+        {
+          "name": "Fathermoh",
+          "url": "https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA"
+        },
+        {
+          "name": "Ssaru",
+          "url": "https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW"
+        }
+      ],
+      "duration_ms": 157844,
+      "name": "Kaskie Vibaya",
+      "url": "https://open.spotify.com/track/1kgxOHGjNsyg4fGZ31YJQT"
+    },
+    {
+      "added_at": "2023-11-24 00:59:00",
+      "album": {
         "name": "SHIKISHA",
         "url": "https://open.spotify.com/album/6KL7UuI8zLAudCNlqNlU7b"
       },
@@ -423,6 +391,22 @@
       "duration_ms": 118935,
       "name": "SHIKISHA",
       "url": "https://open.spotify.com/track/67onwGiAzAdJcOV34Selns"
+    },
+    {
+      "added_at": "2023-11-24 00:59:00",
+      "album": {
+        "name": "KISHASH",
+        "url": "https://open.spotify.com/album/5FIGoVPCIumXd9FgJrOv4b"
+      },
+      "artists": [
+        {
+          "name": "Lilmaina",
+          "url": "https://open.spotify.com/artist/1GF4G0q7pW65JWvuKWKDzv"
+        }
+      ],
+      "duration_ms": 159940,
+      "name": "KISHASH",
+      "url": "https://open.spotify.com/track/7BmSFviUm0dByhAZ10wNbk"
     },
     {
       "added_at": "2023-11-24 00:59:00",
@@ -667,22 +651,6 @@
     {
       "added_at": "2023-11-24 00:59:00",
       "album": {
-        "name": "Alert",
-        "url": "https://open.spotify.com/album/6R8MrjmK8u5RfIwPHR2lU4"
-      },
-      "artists": [
-        {
-          "name": "Lilmaina",
-          "url": "https://open.spotify.com/artist/1GF4G0q7pW65JWvuKWKDzv"
-        }
-      ],
-      "duration_ms": 120228,
-      "name": "Alert",
-      "url": "https://open.spotify.com/track/6Lp23k6v9eSrZf3kS4t1E7"
-    },
-    {
-      "added_at": "2023-11-24 00:59:00",
-      "album": {
         "name": "Summer Bunny",
         "url": "https://open.spotify.com/album/4RdOzbPcys3H6QuuFT0MUe"
       },
@@ -719,6 +687,22 @@
       "duration_ms": 173402,
       "name": "Soko Ni Chafu",
       "url": "https://open.spotify.com/track/4aX0YxzDQPrhKNrlHE0NSV"
+    },
+    {
+      "added_at": "2023-11-24 00:59:00",
+      "album": {
+        "name": "Alert",
+        "url": "https://open.spotify.com/album/6R8MrjmK8u5RfIwPHR2lU4"
+      },
+      "artists": [
+        {
+          "name": "Lilmaina",
+          "url": "https://open.spotify.com/artist/1GF4G0q7pW65JWvuKWKDzv"
+        }
+      ],
+      "duration_ms": 120228,
+      "name": "Alert",
+      "url": "https://open.spotify.com/track/6Lp23k6v9eSrZf3kS4t1E7"
     },
     {
       "added_at": "2023-11-24 00:59:00",
@@ -1143,30 +1127,6 @@
     {
       "added_at": "2023-11-24 00:59:00",
       "album": {
-        "name": "Sipangwingwi",
-        "url": "https://open.spotify.com/album/0ywMMyiBU8YALzIvDbG2qn"
-      },
-      "artists": [
-        {
-          "name": "Exray Taniua",
-          "url": "https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6"
-        },
-        {
-          "name": "Trio Mio",
-          "url": "https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX"
-        },
-        {
-          "name": "Ssaru",
-          "url": "https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW"
-        }
-      ],
-      "duration_ms": 206280,
-      "name": "Sipangwingwi",
-      "url": "https://open.spotify.com/track/7oWXkvkj3DMw2xNRl172Q1"
-    },
-    {
-      "added_at": "2023-11-24 00:59:00",
-      "album": {
         "name": "Toxic",
         "url": "https://open.spotify.com/album/5QGE7Gq5bxFa5jt8Y6vTIx"
       },
@@ -1475,26 +1435,46 @@
     {
       "added_at": "2023-11-24 00:59:00",
       "album": {
-        "name": "Tunajienjoy",
-        "url": "https://open.spotify.com/album/5QGn8oyBAVabSHcNmHM8bA"
+        "name": "Tena",
+        "url": "https://open.spotify.com/album/6vXeMhDzsMVmrm8GueCM2B"
       },
       "artists": [
         {
-          "name": "Trio Mio",
-          "url": "https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX"
+          "name": "Maandy",
+          "url": "https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP"
         },
         {
-          "name": "Ywaya Tajiri",
-          "url": "https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE"
-        },
-        {
-          "name": "Savara",
-          "url": "https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap"
+          "name": "Cedo",
+          "url": "https://open.spotify.com/artist/4XnL8ClOo3yWrWU4VJWa6q"
         }
       ],
-      "duration_ms": 225600,
-      "name": "Tunajienjoy",
-      "url": "https://open.spotify.com/track/5naXm7Cg0tvVbCupoZDvhb"
+      "duration_ms": 200666,
+      "name": "Tena",
+      "url": "https://open.spotify.com/track/7hNNskVSOIIKM9vkv5vMYf"
+    },
+    {
+      "added_at": "2023-11-24 11:47:27",
+      "album": {
+        "name": "UTU UZIMA",
+        "url": "https://open.spotify.com/album/7zAVowRwWqZPUSFpdbmN6P"
+      },
+      "artists": [
+        {
+          "name": "Jua Cali",
+          "url": "https://open.spotify.com/artist/0V6gO3DpMzQxDs31TqdsXz"
+        },
+        {
+          "name": "Bussa J",
+          "url": "https://open.spotify.com/artist/1QIbS7iQAGVsFmOhOMGIYd"
+        },
+        {
+          "name": "Mbithi",
+          "url": "https://open.spotify.com/artist/3M8x29mEaZklQcMDwHMgKH"
+        }
+      ],
+      "duration_ms": 188235,
+      "name": "CHEZA KI WEWE",
+      "url": "https://open.spotify.com/track/417ilOjQWFM6pGqLlGnFwN"
     },
     {
       "added_at": "2023-11-24 00:59:00",
@@ -1567,6 +1547,54 @@
     {
       "added_at": "2023-11-24 00:59:00",
       "album": {
+        "name": "Sipangwingwi",
+        "url": "https://open.spotify.com/album/0ywMMyiBU8YALzIvDbG2qn"
+      },
+      "artists": [
+        {
+          "name": "Exray Taniua",
+          "url": "https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6"
+        },
+        {
+          "name": "Trio Mio",
+          "url": "https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX"
+        },
+        {
+          "name": "Ssaru",
+          "url": "https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW"
+        }
+      ],
+      "duration_ms": 206280,
+      "name": "Sipangwingwi",
+      "url": "https://open.spotify.com/track/7oWXkvkj3DMw2xNRl172Q1"
+    },
+    {
+      "added_at": "2023-11-24 11:47:27",
+      "album": {
+        "name": "Makofi",
+        "url": "https://open.spotify.com/album/5Mb2exbthwd15Wn62pqnyC"
+      },
+      "artists": [
+        {
+          "name": "Exray Taniua",
+          "url": "https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6"
+        },
+        {
+          "name": "Omollo",
+          "url": "https://open.spotify.com/artist/7HPHXUb4hjkkVdGe1YzxGf"
+        },
+        {
+          "name": "Odi Wa Muranga",
+          "url": "https://open.spotify.com/artist/789Et77m6EivwPJBTtEcu8"
+        }
+      ],
+      "duration_ms": 209397,
+      "name": "Makofi",
+      "url": "https://open.spotify.com/track/0KBjCrxN7mmBmQmzupQxMR"
+    },
+    {
+      "added_at": "2023-11-24 00:59:00",
+      "album": {
         "name": "Three Wise Goats",
         "url": "https://open.spotify.com/album/3txLNkrdXGL8nvqiOItiRR"
       },
@@ -1627,26 +1655,6 @@
       "duration_ms": 246883,
       "name": "Gin Ama Whiskey",
       "url": "https://open.spotify.com/track/6zhNp08Kd10UrhfvOCLu0d"
-    },
-    {
-      "added_at": "2023-11-24 00:59:00",
-      "album": {
-        "name": "Tena",
-        "url": "https://open.spotify.com/album/6vXeMhDzsMVmrm8GueCM2B"
-      },
-      "artists": [
-        {
-          "name": "Maandy",
-          "url": "https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP"
-        },
-        {
-          "name": "Cedo",
-          "url": "https://open.spotify.com/artist/4XnL8ClOo3yWrWU4VJWa6q"
-        }
-      ],
-      "duration_ms": 200666,
-      "name": "Tena",
-      "url": "https://open.spotify.com/track/7hNNskVSOIIKM9vkv5vMYf"
     }
   ],
   "unique_name": "Gengetone Fire",

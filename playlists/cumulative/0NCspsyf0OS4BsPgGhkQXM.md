@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-944 songs - 2 day 1 hr 55 min
+945 songs - 2 day 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,6 +324,7 @@
 | [Good Things Fall Apart \(with Jon Bellion\)](https://open.spotify.com/track/3LxG9HkMMFP0MZuiw3O2rF) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [ASCEND](https://open.spotify.com/album/60xcVwuQJAOyu11xf9mObS) | 3:36 | 2023-02-21 | 2023-08-19 |
 | [Good Things Fall Apart \(with Jon Bellion\)](https://open.spotify.com/track/6pooRNiLyYpxZeIA5kJ5EX) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Good Things Fall Apart \(with Jon Bellion\)](https://open.spotify.com/album/4IYvXJnU8zPRzPPTu4dJUl) | 3:36 | 2022-01-14 |  |
 | [Got Me Feeling](https://open.spotify.com/track/50xpT0nYSH9p0viSZBLDv1) | [JAIDPIT](https://open.spotify.com/artist/7K5XMvoNRHcieSixBJIQ9G) | [Got Me Feeling](https://open.spotify.com/album/1taoqWNz3N5zFkfxZWoWFe) | 3:12 | 2022-08-13 | 2022-09-10 |
+| [Government Hooker](https://open.spotify.com/track/6luTWh6j0KQQ1OgYAgV8ke) | [Bread Beatz](https://open.spotify.com/artist/6Bwo8WbpyBecVCrrKcAtuH) | [Government Hooker](https://open.spotify.com/album/4KniEeOj40mFwv6jnyzj6J) | 2:24 | 2023-11-24 |  |
 | [GRAVES](https://open.spotify.com/track/2NPP7YXovwRup7HPCSuV4D) | [T\-Mass](https://open.spotify.com/artist/0M3cZtjQZ8fz3Hbw1A4CwF), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [GRAVES](https://open.spotify.com/album/4SGV9kedUN8m8Hc2oFKJZK) | 2:55 | 2023-07-14 | 2023-10-14 |
 | [Gravity](https://open.spotify.com/track/21PELgAI135nZmhjEi9MxG) | [Amidy](https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV), [Danny Olson](https://open.spotify.com/artist/06MSAITCPRhtuJMD4UL96s), [Tyler Graves](https://open.spotify.com/artist/5bFKudtw20QjmAFeA1hBLq) | [Gravity](https://open.spotify.com/album/70pPhEPFbPp31jXsSxPiOj) | 4:22 | 2022-10-28 | 2022-12-10 |
 | [greedy](https://open.spotify.com/track/2tIQSmtj2glFRHfZ3km9lv) | [Ben Maxwell](https://open.spotify.com/artist/6OPUscoxZHZHQ2wUbiQhmR) | [greedy](https://open.spotify.com/album/5UZF0OjdK1dc6m4JTM8Ed3) | 1:52 | 2023-10-13 |  |
@@ -692,7 +693,7 @@
 | [ROCK RN!](https://open.spotify.com/track/70pbugu4TKU6GSpLOfCxCE) | [FXRCE](https://open.spotify.com/artist/5UKXrvmyouEgmvon7DwwzA), [YXUNGXROTICA](https://open.spotify.com/artist/7gyc1wWTGmRwZpYtiFwH1D), [fkbambam](https://open.spotify.com/artist/1BZ5smaHoDSI2a61ErUch6) | [ROCK RN!](https://open.spotify.com/album/61GQReFPkwPCAuc7VTjPne) | 1:17 | 2023-10-20 | 2023-11-18 |
 | [Roof Down](https://open.spotify.com/track/2hRm3384vOFLfMnX06WxYC) | [NOMIS.K](https://open.spotify.com/artist/36hPgyntcoyEcgYDkaKrBc) | [Fragments EP](https://open.spotify.com/album/28gU1VbzdzjgET7fpwgbtv) | 2:54 | 2022-04-22 | 2022-06-04 |
 | [Rumor](https://open.spotify.com/track/2QC2PTvF3yONXlvih301aR) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [WYN](https://open.spotify.com/artist/1mFo3mR5ZWTQbNg1RgWj2D) | [Rumor](https://open.spotify.com/album/2vEarBohKW4xTClQB24GHh) | 4:38 | 2022-01-14 | 2022-03-19 |
-| [RUN](https://open.spotify.com/track/2HLAnzeY4r794YnCq2JlgN) | [LeKtriQue](https://open.spotify.com/artist/2ZZE8SPVWBysGWL1pRDHEy) | [RUN](https://open.spotify.com/album/4hgySpGDjputCw0tgHD96d) | 2:40 | 2023-11-17 |  |
+| [RUN](https://open.spotify.com/track/2HLAnzeY4r794YnCq2JlgN) | [Lektrique](https://open.spotify.com/artist/2ZZE8SPVWBysGWL1pRDHEy) | [RUN](https://open.spotify.com/album/4hgySpGDjputCw0tgHD96d) | 2:40 | 2023-11-17 |  |
 | [Run Like the Wind](https://open.spotify.com/track/1QTioKoSnWLDde5BunQnCp) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [IDK, Vol\. 2](https://open.spotify.com/album/2l7fX4vQC0CIHZVJ63aPYt) | 2:51 | 2022-01-14 | 2022-09-15 |
 | [Run Like The Wind \- Ookay Remix](https://open.spotify.com/track/13iTzttt2HngeGOKtWFOmi) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [IDK, Vol\. 2 \(Remixes\)](https://open.spotify.com/album/7EEYkZsi5x7PJwXYGRuPXX) | 3:07 | 2022-03-15 | 2022-09-15 |
 | [Runaway \(U & I\)](https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Pharmacy](https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2) | 3:47 | 2023-02-21 |  |

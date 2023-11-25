@@ -1265,6 +1265,24 @@
     },
     {
       "album": {
+        "name": "The First Christmas",
+        "url": "https://open.spotify.com/album/3mggmM1Msp3b5gvsZfs5Yg"
+      },
+      "artists": [
+        {
+          "name": "Goldb\u00e6k",
+          "url": "https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167800,
+      "name": "The First Christmas",
+      "url": "https://open.spotify.com/track/3JsIen630AIZTAiGpEHgkU"
+    },
+    {
+      "album": {
         "name": "A Solo Piano Christmas",
         "url": "https://open.spotify.com/album/2bG3qQqkhWssPLeGtEwvzY"
       },

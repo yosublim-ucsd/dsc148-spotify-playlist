@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYjqIbceAHm0.md) - [plain]
 
 > Meet the soundtrack and exclusive unreleased videos of JTBC's global idol audition 'Peak Time'! \(JTBC의 글로벌 아이돌 오디션 '피크타임'의 사운드 트랙과 독점 미공개 영상들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,547 likes - 49 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,548 likes - 49 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYjqIbceAHm0.md) - [plain]
 | 19 | [Nothin' without you](https://open.spotify.com/track/2zCBydeXslxRDueRELNtTI) | [TEAM 15:00](https://open.spotify.com/artist/44qUs2UwzLHgKPkC8rsSdn) | [PEAK TIME \- 3Round <Originals Match>](https://open.spotify.com/album/2aItKmuyEnQ9nKmUY0IGrU) | 3:08 |
 | 20 | [Thunder\(Urr\)](https://open.spotify.com/track/5Cy07EPonlsFFQ4HCbBkQE) | [BDC](https://open.spotify.com/artist/3FgebbL1Lp8wynkXgtscfd) | [PEAK TIME \- 3Round <Originals Match>](https://open.spotify.com/album/2aItKmuyEnQ9nKmUY0IGrU) | 3:23 |
 | 21 | [Like We’ve Never Been](https://open.spotify.com/track/6sGSemAYoAkSimoC3hETv6) | [M.O.N.T](https://open.spotify.com/artist/205HvlOEb4EZFrBHXv8kLZ) | [PEAK TIME \- 3Round <Originals Match>](https://open.spotify.com/album/2aItKmuyEnQ9nKmUY0IGrU) | 3:20 |
-| 22 | [STEP BY STEP](https://open.spotify.com/track/0Gfdo6899913Re01dh7lFU) | [24K](https://open.spotify.com/artist/5r6waWb7zJbYnwwdy08EPO) | [PEAK TIME \- 3Round <Originals Match>](https://open.spotify.com/album/2aItKmuyEnQ9nKmUY0IGrU) | 3:33 |
+| 22 | [STEP BY STEP](https://open.spotify.com/track/0Gfdo6899913Re01dh7lFU) | [24K+](https://open.spotify.com/artist/5r6waWb7zJbYnwwdy08EPO) | [PEAK TIME \- 3Round <Originals Match>](https://open.spotify.com/album/2aItKmuyEnQ9nKmUY0IGrU) | 3:33 |
 | 23 | [Chamomile](https://open.spotify.com/track/6DnltfCFJE2yzuj3LoMIno) | [TEAM 23:00](https://open.spotify.com/artist/3MkfOOCUo4pqJzdZv6YzrN) | [PEAK TIME \- 3Round <Originals Match>](https://open.spotify.com/album/2aItKmuyEnQ9nKmUY0IGrU) | 3:16 |
 | 24 | [Be Mine](https://open.spotify.com/track/4SUoJARMnoLM8raLDxL52X) | [TEAM 24:00](https://open.spotify.com/artist/5L7N8Gswa6XUVHLPJ2M7a0) | [PEAK TIME \- 3Round <Originals Match>](https://open.spotify.com/album/2aItKmuyEnQ9nKmUY0IGrU) | 3:42 |
 | 25 | [Time of Our Life](https://open.spotify.com/track/4lPq0t2yWlIpRuURifAdJi) | [Vocal A Unit](https://open.spotify.com/artist/3Dom1R1u7Jbn8VSuiFDjx6) | [PEAK TIME \- 2Round <Union match>Pt.2](https://open.spotify.com/album/3uTbsS82hqYxpmf0dAWTLY) | 2:49 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYjqIbceAHm0.md) - [plain]
 | 48 | [Never Ever](https://open.spotify.com/track/54yalx0ONuGj0mMyBNZxhm) | [GHOST9](https://open.spotify.com/artist/0II6bFFAPO59zO8qFSf4Gb) | [PEAK TIME \- Survival Round](https://open.spotify.com/album/67ty9JxnL34dc5TZdAAsqt) | 2:47 |
 | 49 | [Beautiful](https://open.spotify.com/track/3oTqTIaSQw1A7pPabZLwtw) | [TEAM 15:00](https://open.spotify.com/artist/44qUs2UwzLHgKPkC8rsSdn) | [PEAK TIME \- Survival Round](https://open.spotify.com/album/67ty9JxnL34dc5TZdAAsqt) | 2:39 |
 
-Snapshot ID: `MCxkZTQ5Mzk1ZGFmNjQ4OTlmNWYzYWRjNzgzOWM5NTU1OTczZDliMmQy`
+Snapshot ID: `MCxkNGNhZGZlMmY3MjhkODY2ODdjZTZkOTcyYzAwMTkzNjVkYTAzNzc1`

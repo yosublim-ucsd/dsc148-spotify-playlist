@@ -4,7 +4,7 @@
 
 > Find your flow state with Beta frequencies for increased concentration.
 
-76 songs - 3 hr 58 min
+77 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Beta Intelligence](https://open.spotify.com/track/4k5NyKgdxBaE4BZaQH2Vb1) | [The Inner Circle](https://open.spotify.com/artist/0mRW2BlrPBuwMkmtgZbDIB) | [Binaural Sphere](https://open.spotify.com/album/02tvTtzLWwJkElS8m4diA5) | 3:12 | 2022-09-06 |  |
 | [Beta Resonance 25 Hz](https://open.spotify.com/track/4bWPFawFKCDdSsQ5zwZHpj) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Binaural Resonance](https://open.spotify.com/album/6smVmCCDgc6g1nIcUOpc3G) | 3:08 | 2023-04-06 |  |
 | [Beta Serenade 17 Hz](https://open.spotify.com/track/1tgXeD0P4KHpQ3XQ2hBbwu) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Binaural Serenade](https://open.spotify.com/album/75xJLqtlDky9rlnxzknINy) | 2:38 | 2023-05-05 |  |
+| [Beta Ship 15 Hz](https://open.spotify.com/track/6sGcJQPdvmft1vQbnIoQQX) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Binaural Ships](https://open.spotify.com/album/2gaDsloUSsn46sY19MEVBW) | 2:33 | 2023-11-24 |  |
 | [Beta Sinus 100 Hz \- 114 Hz](https://open.spotify.com/track/5866agZQlTT4KApKmUR5NK) | [Ampinomene](https://open.spotify.com/artist/2gJIRzMe4S1gOOpV5G6pc4) | [Ampinomene](https://open.spotify.com/album/7K1iVbSGN6L22Ci3NiBm75) | 3:20 | 2022-09-06 |  |
 | [Beta Sinus 150 Hz \- 158 Hz](https://open.spotify.com/track/61QjtzlyMeRCpB97Du46vo) | [Synchrophonic](https://open.spotify.com/artist/3TUQC7breUMMUi7bQVZQkP) | [Synchrophonic](https://open.spotify.com/album/7cvHCFG1pBFTERjISA6675) | 3:40 | 2022-09-06 |  |
 | [Beta Sinus 150 Hz \- 158 Hz](https://open.spotify.com/track/5MQelJ5ZJIKFf2AZDNXoMz) | [Young Grove](https://open.spotify.com/artist/13evvWhJQpp7eMwNomoJ6e) | [Young Grove](https://open.spotify.com/album/6337k53fE94N3Wh6XAgW60) | 3:40 | 2022-09-06 |  |

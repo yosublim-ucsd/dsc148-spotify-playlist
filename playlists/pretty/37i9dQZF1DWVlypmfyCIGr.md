@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 森大翔
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,526 likes - 80 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,537 likes - 80 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [めざめ](https://open.spotify.com/track/36HbrTD566YyTsL4TWFtQS) | [大阪もちつきサークル](https://open.spotify.com/artist/3F677ufXvzGV2hAnVyF3cL) | [めざめ](https://open.spotify.com/album/2g5r30pWV0z1UkruNpqbfy) | 0:46 |
 | 80 | [Futatsu no ashita](https://open.spotify.com/track/7FafEVghhbuNa5fwPbo752) | [Penguinrush](https://open.spotify.com/artist/6EZO3QfDzV0BREKPesx6Io) | [Futatsu no ashita](https://open.spotify.com/album/5IxhQa8RC3XOqwZglRxf2x) | 4:57 |
 
-Snapshot ID: `MCxlNWEwY2QxZDI1NTc0NGQ5NmRkZjM5MzM5NDkzOTcwNGQxNWNmMjJj`
+Snapshot ID: `MCxmZGVhNmYyYzRiZmQ2MTkwYzg4MTkwNjkzNmFjMDc0Yzc5MjQyMzM4`

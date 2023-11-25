@@ -4,7 +4,7 @@
 
 > New age music for balancing mind and body.
 
-735 songs - 1 day 12 hr 46 min
+736 songs - 1 day 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Eternal Spaces](https://open.spotify.com/track/6MGM4k4KUGLvDy8Xeieoxq) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Eternal Spaces](https://open.spotify.com/album/7MBLePUpu4R5Nd2KURuPi8) | 2:48 | 2023-01-03 |  |
 | [Eternity](https://open.spotify.com/track/1t4SmpsYd5S6XoCQN3p7vv) | [David Elo](https://open.spotify.com/artist/6j82CtAMpY8Oa3unyVmriF) | [Eternity](https://open.spotify.com/album/1nPhnAH9DfARfDIw1jwA1N) | 2:49 | 2023-06-20 |  |
 | [Eternity](https://open.spotify.com/track/1UuAqSrgWWlbRCLIvznmuX) | [Jan Seevers](https://open.spotify.com/artist/2Cz6NXkRr408IQNdwG0T32) | [Eternity](https://open.spotify.com/album/3qO5ILte0pTz4Q6q79AT7i) | 3:03 | 2022-06-22 | 2023-01-04 |
+| [Ethereal Requiem](https://open.spotify.com/track/0JjZi8EZaNdvOSq7cgMvQs) | [Iminum](https://open.spotify.com/artist/1xjezEibBtcDRYjpMxXOQX) | [Ethereal Requiem](https://open.spotify.com/album/41yPO40cJvvDZNo6xHMouU) | 3:15 | 2023-11-24 |  |
 | [Ethereal Spaces Pt 2](https://open.spotify.com/track/1mD0RfHVYUkOizGgyJgJD1) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Ethereal Spaces Pt 2](https://open.spotify.com/album/7hET4nANrxoMHd7ysLsdCC) | 8:10 | 2023-06-20 |  |
 | [Etoile](https://open.spotify.com/track/683qBY5WPSLBPfgDioGVmS) | [Eztebe Matia](https://open.spotify.com/artist/3n2j9RLqJFPzyI8WGn94bm) | [Etoile](https://open.spotify.com/album/4s0qbwDBSI2z9tjahbd4WT) | 2:15 | 2022-06-22 |  |
 | [Eunoia](https://open.spotify.com/track/7qpWLNqJUYQpoNtoZcTDaU) | [Clyde Boudreaux](https://open.spotify.com/artist/2uJ9p2oANjdZ8N5Ni7OL4L) | [Eunoia](https://open.spotify.com/album/3z0WSTyGVc6dBnnicvGOPI) | 4:33 | 2021-12-21 | 2022-07-29 |
@@ -452,7 +453,7 @@
 | [One Drope On World](https://open.spotify.com/track/14lFQ2ennhUQyDvS7LIxB8) | [SWAMP&STAR](https://open.spotify.com/artist/3l9cGKVRvyJHWSNDOb6fd5) | [One Drope On World](https://open.spotify.com/album/1zQSTded6rxRs9eTj42mml) | 3:22 | 2023-08-29 |  |
 | [One Simple Day](https://open.spotify.com/track/72m4yj70tdBd95AumCShfr) | [Pierre Koenigs](https://open.spotify.com/artist/5VfDxDonlL9ImwQFQksAcY) | [Songs To Let Go](https://open.spotify.com/album/57Bw2jFpmGB0bASSgbBwir) | 3:09 | 2021-12-21 | 2022-07-29 |
 | [Onye Amuma](https://open.spotify.com/track/6CcNlcTKGyqi2pbcr4vubX) | [Ikupu Ume](https://open.spotify.com/artist/3jKOrP3N4xtMAgfet68LDP) | [Onye Amuma](https://open.spotify.com/album/2NXjIdg0VNEsXuudS2K8pP) | 3:10 | 2022-10-03 |  |
-| [Open Air](https://open.spotify.com/track/7KTPLShpRc7m6091ywTrjU) | [Ion Dia](https://open.spotify.com/artist/6tuTemxMmES4GFfBd54bHX) | [Open Air](https://open.spotify.com/album/5YXErTPlxXqszRJHa5JCGs) | 2:43 | 2022-11-25 |  |
+| [Open Air](https://open.spotify.com/track/7KTPLShpRc7m6091ywTrjU) | [Ion Dia](https://open.spotify.com/artist/6tuTemxMmES4GFfBd54bHX) | [Open Air](https://open.spotify.com/album/5YXErTPlxXqszRJHa5JCGs) | 2:43 | 2022-11-25 | 2023-11-25 |
 | [Oscalated](https://open.spotify.com/track/09uALXIXXbw9TV31XtuMvk) | [Setareha](https://open.spotify.com/artist/5gV1FzhRvG4WhQXku1tUav) | [Call Of Nature](https://open.spotify.com/album/6w7ox31LekFkKOMQi8QnHK) | 3:12 | 2023-08-11 |  |
 | [Overview](https://open.spotify.com/track/6bJS4c8xM5nGOtxqndR0G7) | [Magenta Dust](https://open.spotify.com/artist/6g7j780GtRaJOzRCzEuSrj) | [New Wings](https://open.spotify.com/album/0nIpY77hGOsJKfiWomgZXO) | 3:18 | 2022-03-04 |  |
 | [Owls](https://open.spotify.com/track/42CQUucCi6h2gHB5BQfSbb) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Moonrise](https://open.spotify.com/album/2CiGQi3XgsbETzwSFzn2yk) | 2:26 | 2021-12-21 | 2022-07-29 |

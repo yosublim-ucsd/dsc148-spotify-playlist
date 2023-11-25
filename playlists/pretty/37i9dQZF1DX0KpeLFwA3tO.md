@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Short Stack
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,803 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,825 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [Diritto Di Obbedire](https://open.spotify.com/track/5v2fyB3sLf7sB7CrLVqmnh) | [Golpe](https://open.spotify.com/artist/3poEwG5DgXTTIYKyD2mi33) | [Diritto Di Obbedire](https://open.spotify.com/album/4KwdVsKZZbIs74vOMLrSEZ) | 1:14 |
 | 100 | [FATHER JOHN](https://open.spotify.com/track/6QaakLNuvBzzd7vMT50xMS) | [Family Man](https://open.spotify.com/artist/4CpA5E2uTlbIgUSrDQH9mB) | [FATHER JOHN](https://open.spotify.com/album/06kZNBKAs1Yfv8Z6Sdc4rQ) | 3:20 |
 
-Snapshot ID: `MCwyMzA5MWZlZTMyYTE4ZjZkOGI2N2ViMzJhNWNjZjM3NDI4YzM2YTQ5`
+Snapshot ID: `MCw2NGU0MmY2YjkwN2YyMzJiY2RmYzAzYWU4NWE3MTJlMzM4YjZlNmYz`

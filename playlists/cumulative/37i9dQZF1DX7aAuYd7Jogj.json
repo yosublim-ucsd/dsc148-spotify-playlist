@@ -1204,7 +1204,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 261000,
       "name": "Country Chimes",
       "url": "https://open.spotify.com/track/3htH2dXVeOFB2qfqJBO9Og"
@@ -5672,6 +5672,24 @@
       "duration_ms": 199318,
       "name": "Traumlandschaft",
       "url": "https://open.spotify.com/track/0KOenusM2ayoQfGrhBf5Q9"
+    },
+    {
+      "album": {
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/7CcyiZx1qrc4mmV5Wwb9IO"
+      },
+      "artists": [
+        {
+          "name": "The Calming",
+          "url": "https://open.spotify.com/artist/1MyGOa9AuDmi82QJU0RPc9"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179139,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/16de3wlJTjU7repgWOBahR"
     },
     {
       "album": {

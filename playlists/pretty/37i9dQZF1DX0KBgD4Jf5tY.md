@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica italiana indipendente, aggiornata ogni mercoledì\. Cover: <a href="spotify:artist:0K0IoIF0ARUBsCeRrIs6iw">Daria Huber</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,681 likes - 55 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,684 likes - 55 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 16 | [ARIAH](https://open.spotify.com/track/1pYrbPCQr7QNEXA2jCRWwV) | [Keitho](https://open.spotify.com/artist/69ijR6KQt5CmkVMurO8eX5), [Hybrido](https://open.spotify.com/artist/2C0B8pJz2cga9qRoR41Xmz), [Thomie](https://open.spotify.com/artist/2fqmvIXvXg6AXU5PIcIVVD) | [ARIAH](https://open.spotify.com/album/5CJuBor0wzFBq4Vuc6LoTH) | 1:41 |
 | 17 | [Rain is still fine](https://open.spotify.com/track/7wgPfPXhpXYzfLqsHumKyn) | [Club Rivera](https://open.spotify.com/artist/1L4K8LgLv7PjcRWILPgKZs) | [Elements](https://open.spotify.com/album/3RhxqTTmoS4mc1mQHRAtHp) | 4:55 |
 | 18 | [stella diazepam](https://open.spotify.com/track/1ULJEeIKRw0QrMZruqZ6JE) | [Floral Grin](https://open.spotify.com/artist/5m1fvLDO1DDWVNhluFhOA9) | [stella diazepam](https://open.spotify.com/album/36qmKezCV6117mh4GhEb3D) | 3:30 |
-| 19 | [Non capisco niente](https://open.spotify.com/track/6O3EHSyweYh1rnBxnQfDJh) | [Brando Madonia](https://open.spotify.com/artist/3UAeF4girTzN2loV6WRsCh) | [Autunno 80](https://open.spotify.com/album/4MfMNoH9BbDIogppCD25Nt) | 2:49 |
+| 19 | [Non capisco niente](https://open.spotify.com/track/5EfCHYvLNxrlW40OOCJwaC) | [Brando Madonia](https://open.spotify.com/artist/3UAeF4girTzN2loV6WRsCh) | [Autunno 80](https://open.spotify.com/album/7MSwtrNw5iC3LVA0x1Q4Lj) | 2:49 |
 | 20 | [Madre mia](https://open.spotify.com/track/4dKVc3Oa3JyXrplJ3ewXZI) | [Blocage](https://open.spotify.com/artist/44oncuQSlFMMh7PRslRKUk), [Voleur pnz](https://open.spotify.com/artist/6BGAhqSN3qEqlZRpMogAFN) | [Madre mia](https://open.spotify.com/album/7rCKIoBiJCTFZg13UMsJa4) | 3:10 |
 | 21 | [The Weather Song](https://open.spotify.com/track/2OXsiCgkmUbfP6DoaQniaK) | [TA GA DA](https://open.spotify.com/artist/4UL9L4TWC5aRyfvc1qHFZ5) | [The Weather Song](https://open.spotify.com/album/3KZmLwH0oI1MVeu6OUSAEX) | 3:45 |
 | 22 | [multa](https://open.spotify.com/track/4yt0GAqL091yBYXp7gz44b) | [Bilu](https://open.spotify.com/artist/7kCdQlFzI23kq4VDOKNOws) | [multa](https://open.spotify.com/album/02v7LA7wO1rOF4jMnbbrvT) | 1:59 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 54 | [D I S T A N T I](https://open.spotify.com/track/3UI3UeiZ5KBL4hFpbGoNxq) | [Comeilmiele](https://open.spotify.com/artist/4OcuLUpqOjSYlrZN8W87Qn) | [D I S T A N T I](https://open.spotify.com/album/0qGSc8llH8kSegbByz9o3I) | 3:00 |
 | 55 | [CAMICIA](https://open.spotify.com/track/1w0VFCBAwFRHlrtIJ28kQY) | [Mazinga Paddon](https://open.spotify.com/artist/41hE2XbxlMwh2jpfUhHjLG) | [CAMICIA](https://open.spotify.com/album/6zfwL3VPDjpjFigvkdohBt) | 3:35 |
 
-Snapshot ID: `MCw0ZWVhMWNmODU4MWRhNDMyM2M1MDgzOWVhZTFmNTA2Y2UyYmYzNWMz`
+Snapshot ID: `MCxhMTI0NTFlNDNlZTk4MzkzZjQ3OGY3NDFlYmVkNzgzMTdjOTFlYzQ2`

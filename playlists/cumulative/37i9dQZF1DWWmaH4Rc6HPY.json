@@ -251,6 +251,36 @@
     },
     {
       "album": {
+        "name": "cada que...",
+        "url": "https://open.spotify.com/album/0hggg1LVqaRvo98L25NXXk"
+      },
+      "artists": [
+        {
+          "name": "te vi en un planetario",
+          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
+        },
+        {
+          "name": "Santa Madero",
+          "url": "https://open.spotify.com/artist/0CRFTlHrIHedPTQFqUYAXN"
+        },
+        {
+          "name": "Poder Fantasma",
+          "url": "https://open.spotify.com/artist/7BAa5FikfNdBTzy3FNBV0w"
+        },
+        {
+          "name": "Mariana Taylor",
+          "url": "https://open.spotify.com/artist/3CCt5sS8zDpFbP9EKPH5Yt"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216721,
+      "name": "cada que...",
+      "url": "https://open.spotify.com/track/0DxQ4wo5u9JtbTDGqcGO1h"
+    },
+    {
+      "album": {
         "name": "Canciones Tristes",
         "url": "https://open.spotify.com/album/2wKs3Fz684CerCyUOhJOxP"
       },
@@ -1636,6 +1666,24 @@
       "duration_ms": 185690,
       "name": "Un Parque",
       "url": "https://open.spotify.com/track/6w4uvxQ9nhHIpRSjMHWczj"
+    },
+    {
+      "album": {
+        "name": "Una Historia Sin Final",
+        "url": "https://open.spotify.com/album/00ZYICR61FOAcHsb9hK5l5"
+      },
+      "artists": [
+        {
+          "name": "Jay de la Cueva",
+          "url": "https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216586,
+      "name": "Una Historia Sin Final",
+      "url": "https://open.spotify.com/track/3OPy2J3WaJDKmkzAvV7Kbo"
     },
     {
       "album": {

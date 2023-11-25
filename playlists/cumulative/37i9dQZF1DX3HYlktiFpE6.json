@@ -877,6 +877,24 @@
     },
     {
       "album": {
+        "name": "highs and lows",
+        "url": "https://open.spotify.com/album/3JF5SoC409uL2D7FOgau1H"
+      },
+      "artists": [
+        {
+          "name": "The Virginia Belles",
+          "url": "https://open.spotify.com/artist/22YaTeakBauJ5h9iMDVrAR"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191940,
+      "name": "Everywhere",
+      "url": "https://open.spotify.com/track/1cYdB2jTXcfCX9NgQe0fib"
+    },
+    {
+      "album": {
         "name": "Ultimate Pitch Perfect (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U"
       },
@@ -3016,7 +3034,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 115706,
       "name": "Wavin' Flag",
       "url": "https://open.spotify.com/track/21i3JjSTPryzlVKNBiWjxE"

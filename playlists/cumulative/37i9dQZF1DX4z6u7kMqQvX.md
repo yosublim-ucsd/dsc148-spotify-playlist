@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-469 songs - 1 day 2 hr 40 min
+470 songs - 1 day 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,7 @@
 | [Loca / El Celular](https://open.spotify.com/track/1H9BTOXs7KCWnVfZoOgLLf) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Invierno en Vivo](https://open.spotify.com/album/1grqXXes9m5X3KQkhE81yP) | 5:21 | 2022-07-29 | 2022-09-20 |
 | [Loco](https://open.spotify.com/track/44nbI3uV9Xy4JTQJ6eCYTL) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Loco](https://open.spotify.com/album/07unMn9Pkm8nWxv1Kr1sdt) | 2:58 | 2022-07-15 | 2022-07-24 |
 | [Loco en el Desierto](https://open.spotify.com/track/392fECmnYZTQjL97hqEElg) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Conociendo Rusia](https://open.spotify.com/album/1xP7EDeNa518tfq8vxT4cT) | 4:17 | 2022-01-07 |  |
-| [Locos](https://open.spotify.com/track/6jpSWY7bnhVxGD5dBNQW6v) | [Vosque](https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6) | [Locos](https://open.spotify.com/album/66TuRKaKJ99ryYQzPQPrnF) | 3:33 | 2023-10-05 |  |
+| [Locos](https://open.spotify.com/track/6jpSWY7bnhVxGD5dBNQW6v) | [Vosque](https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6) | [Locos](https://open.spotify.com/album/66TuRKaKJ99ryYQzPQPrnF) | 3:33 | 2023-10-05 | 2023-11-25 |
 | [Lola](https://open.spotify.com/track/6bsR9mIOQ0FNQ2J06V9eXg) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf), [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Bailando Con Mi Sombra](https://open.spotify.com/album/5ffP5cXy42RDzWC1QsedmU) | 2:59 | 2022-01-28 | 2022-06-29 |
 | [Loop de Amor](https://open.spotify.com/track/47ppVEH3w6A6pIOmWlpK3y) | [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof) | [Loop de Amor](https://open.spotify.com/album/66jk4CSCR1s8D53bg9kJDC) | 2:44 | 2022-01-07 | 2022-06-29 |
 | [Loop en Mi](https://open.spotify.com/track/7C6aTvTyHYGnLlzV5IKhto) | [Maria Codino](https://open.spotify.com/artist/7zuaGTLVm6z97wydRCyUdj) | [Loop en Mi](https://open.spotify.com/album/5rXlpB54MxsqiiBmLpUg6q) | 4:25 | 2022-01-28 | 2022-06-11 |
@@ -282,6 +282,7 @@
 | [Melodía de Extrañar](https://open.spotify.com/track/5R332yPmr1HnfvevX73Tb0) | [Lara Pedrosa](https://open.spotify.com/artist/1FnX7FGjz4cjIvo6rmMK8N), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Melodía de Extrañar](https://open.spotify.com/album/6iwm50gytq0b0BMuWcXNiR) | 2:46 | 2022-04-01 | 2022-05-25 |
 | [Mentira](https://open.spotify.com/track/5xcxpy75Jw5sLiJI8tT7uC) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [Mentira](https://open.spotify.com/album/5b6BwahD7XcYvvo3s56vo7) | 3:35 | 2022-01-07 | 2023-03-03 |
 | [Mira](https://open.spotify.com/track/56sf5ag1EOhbdt8QZrJuTd) | [Panga Nébula](https://open.spotify.com/artist/5MaXrbt4TDa3rPp1XbkmKu) | [Mira](https://open.spotify.com/album/5OVOAqruYgl6ZUDrT5eQpT) | 3:09 | 2022-01-07 | 2023-03-02 |
+| [Mirándote \- Versión radio](https://open.spotify.com/track/2uQZbSjd91u02aIjSE77ew) | [Pedrina y Rio](https://open.spotify.com/artist/6JkcXRzUF8IXV78ATWAHRK) | [Mirándote \- Versión radio](https://open.spotify.com/album/2YSnahVyY6Aj6Xy2H04P4H) | 3:54 | 2023-11-23 |  |
 | [Mirándote – Versión radio](https://open.spotify.com/track/45iwO0aQGvzVFsIiiyiWSC) | [Pedrina y Rio](https://open.spotify.com/artist/6JkcXRzUF8IXV78ATWAHRK) | [Mirándote – Versión radio](https://open.spotify.com/album/5PX994LStMZS47M3ZosGlZ) | 3:54 | 2022-04-01 | 2022-04-18 |
 | [misiones](https://open.spotify.com/track/7u4p8GY2fckksa73OsyXTa) | [Jazmín Esquivel](https://open.spotify.com/artist/0wfckwaQiT9YWllkSO7oUU) | [misiones](https://open.spotify.com/album/1o88S5U0jspiw4en1nWDe8) | 4:07 | 2022-01-07 | 2022-07-08 |
 | [Modo Avión](https://open.spotify.com/track/5qZNL9BORsrXLEzysCGXEc) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Modo Avión](https://open.spotify.com/album/2AhJpW85a5KzalPxVJLvTp) | 2:40 | 2022-01-07 | 2023-03-03 |

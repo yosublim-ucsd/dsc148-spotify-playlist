@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be?si=I4u0nPYhSEGd1qydwDJU3Q\">Pilani Bubu</a>",
+  "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/1CQAguK72YsRMOjz1ECeqq?si=gQyaDY81TYKBclXlWJQcZg\">Zu.</a>",
   "name": "Jazz NXT",
   "tracks": [
     {
@@ -1413,6 +1413,24 @@
     },
     {
       "album": {
+        "name": "Umnikelo",
+        "url": "https://open.spotify.com/album/7AFHOhItwamZalv57itrhZ"
+      },
+      "artists": [
+        {
+          "name": "Thandeka Dladla",
+          "url": "https://open.spotify.com/artist/7ntMlnq9iQvy3ZPehbenHc"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309416,
+      "name": "Inkhatazo",
+      "url": "https://open.spotify.com/track/3coK5yd6TJncroyAWMk3Qt"
+    },
+    {
+      "album": {
         "name": "Inkululeko",
         "url": "https://open.spotify.com/album/2jaXRcmklOiLxffL337Ish"
       },
@@ -1748,10 +1766,28 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 272546,
       "name": "Kucheza",
       "url": "https://open.spotify.com/track/6xSE8mjOiwe0qrIpd8YTvc"
+    },
+    {
+      "album": {
+        "name": "Convergence Bekezela Siyeza",
+        "url": "https://open.spotify.com/album/3tmmJjesjQuWYgA2qvafpe"
+      },
+      "artists": [
+        {
+          "name": "Linda Tshabalala",
+          "url": "https://open.spotify.com/artist/2owcGskTifdgn9Tw7sK9p7"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362205,
+      "name": "Kunzima Madoda",
+      "url": "https://open.spotify.com/track/0hLqS3gWMiVvANb5HvndhP"
     },
     {
       "album": {
@@ -1878,6 +1914,24 @@
       "duration_ms": 786640,
       "name": "Magwaza",
       "url": "https://open.spotify.com/track/0hcy9qRxJvDU7SmarGV2aB"
+    },
+    {
+      "album": {
+        "name": "Maswitsi",
+        "url": "https://open.spotify.com/album/42wwNyvnXH1ic9WXoDMPih"
+      },
+      "artists": [
+        {
+          "name": "Kgethi Nkotsi",
+          "url": "https://open.spotify.com/artist/4wzL116zQJRoKFm99b6zFx"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "Majampa Jampa",
+      "url": "https://open.spotify.com/track/2BbZxaStk8il8epewh9Dbp"
     },
     {
       "album": {
@@ -2960,6 +3014,28 @@
       "duration_ms": 351773,
       "name": "Sunset (in California)",
       "url": "https://open.spotify.com/track/4TtGgEvZmvelHF4hvUStfi"
+    },
+    {
+      "album": {
+        "name": "Tones of Epiphany",
+        "url": "https://open.spotify.com/album/3xGxUaz3ASDBegpjbmChea"
+      },
+      "artists": [
+        {
+          "name": "Zu.",
+          "url": "https://open.spotify.com/artist/1CQAguK72YsRMOjz1ECeqq"
+        },
+        {
+          "name": "Zuko Collective",
+          "url": "https://open.spotify.com/artist/7ES5SeD9pzZlWsStxrVUMK"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362790,
+      "name": "The Aha Moment",
+      "url": "https://open.spotify.com/track/5DCuEzR8CjK94M2DWwKygy"
     },
     {
       "album": {

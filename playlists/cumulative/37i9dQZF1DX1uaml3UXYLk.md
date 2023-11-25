@@ -4,7 +4,7 @@
 
 > Electronic music with caffeine.
 
-567 songs - 1 day 11 hr 36 min
+570 songs - 1 day 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Apéritif](https://open.spotify.com/track/4SKLUEuuVz456xe7QZkEQo) | [Mandoja](https://open.spotify.com/artist/0BBuIQuQkbPCu68yfdkmmH) | [Apéritif](https://open.spotify.com/album/3fNgLQ8XzeOW9HMI8AXykN) | 2:44 | 2021-02-20 | 2022-05-20 |
 | [Arcane](https://open.spotify.com/track/5v0GAHUhylQVErZVjvj25N) | [DJ Eely](https://open.spotify.com/artist/1pWq7WE6SgN6KxOFXD3w80) | [Arcane](https://open.spotify.com/album/4g5aOdoLGI7kuE3hFrL8Y6) | 4:06 | 2020-10-20\* | 2020-12-24 |
 | [Assorted Colors](https://open.spotify.com/track/7oqUTNg5AqFBH0whCZMYmJ) | [Broken Keys](https://open.spotify.com/artist/1B3C72b6z9h8VBcQl3bDwP) | [Assorted Colors](https://open.spotify.com/album/3E8edqpFdMZNHrH05LMi9h) | 3:26 | 2021-02-24 | 2021-08-25 |
+| [ASTRO](https://open.spotify.com/track/6EjELKksixItWv6YL5kue4) | [Didi Henric](https://open.spotify.com/artist/6lV1RWdJ0XSM4OxR8QbYyk) | [ASTRO](https://open.spotify.com/album/2A41r1CEJTDY9n81fPlJG6) | 2:01 | 2023-11-24 |  |
 | [Asy](https://open.spotify.com/track/0xgQ3LG2JQcvtPivzIaACS) | [Glenneth](https://open.spotify.com/artist/1J1OlnQmAupMJMAlLDgnEa) | [Gaze](https://open.spotify.com/album/0k82yUpUYyvQV11mes5JgX) | 7:53 | 2020-11-13 | 2020-12-11 |
 | [Atamasco](https://open.spotify.com/track/7x0p3Zv2c8sPbWKVMowndy) | [SCÆNDALOUS](https://open.spotify.com/artist/1Vg3IL8IPc6KmKBrfxfFUq) | [Atamasco](https://open.spotify.com/album/1Ii3LKFwRry1gGHgtwAmUd) | 2:46 | 2021-05-13 |  |
 | [Attic](https://open.spotify.com/track/1vWFZftqbF0PnIWVNoHAQy) | [Mischermann](https://open.spotify.com/artist/5xBgObnND07wlcVi0tf1ZF) | [Attic](https://open.spotify.com/album/3kbDDv5DDGRqaCpBnNfZcP) | 3:34 | 2020-11-13 | 2021-06-04 |
@@ -121,6 +122,7 @@
 | [Crispy](https://open.spotify.com/track/5B6twCLP2ufIy2Mc4L1rS0) | [Phlowsum](https://open.spotify.com/artist/71p3dUDaqo6EyfzQm8zCCo) | [Crispy](https://open.spotify.com/album/5xISlOqT0KGHfwbW0NOtij) | 2:28 | 2021-10-16 | 2022-04-06 |
 | [crusade](https://open.spotify.com/track/30bpR02KwJ6SpvHUvdvuoW) | [Cloode](https://open.spotify.com/artist/0QvInajilVJw8If75PeAH8) | [crusade](https://open.spotify.com/album/2aQzUj8sNTgQN1AV3uETXt) | 2:08 | 2022-02-10 |  |
 | [Cul de Sac](https://open.spotify.com/track/4AMrfTJror50C9Tx3zX5Z2) | [HOUNDTRACK](https://open.spotify.com/artist/3nw1z931Oc4JMbF4rGfz6O) | [Cul de Sac](https://open.spotify.com/album/0KcH619DqxpelLGbWgRA0J) | 3:35 | 2020-10-20\* | 2021-06-23 |
+| [D N A](https://open.spotify.com/track/69f6p04wKzUe5WQVsfne99) | [Roberto Mazza](https://open.spotify.com/artist/2u3XtKYn13EPJtbRlCWyAN) | [D N A](https://open.spotify.com/album/2438Jv1Uxvjqkfrdj6179k) | 4:54 | 2023-11-24 |  |
 | [Daiane's Samba](https://open.spotify.com/track/5SQTB8jJNdMHKQslwg1GX2) | [Keknou](https://open.spotify.com/artist/37iv6CM0QO9ZqPJsxT1ZPy) | [Daiane's Samba](https://open.spotify.com/album/5BnKfRcJNRnbWvYTiTy3vU) | 2:43 | 2021-01-29 |  |
 | [Dancing On The Ceiling](https://open.spotify.com/track/4i9EX3daDLV0qiWOROKCUJ) | [SCRP](https://open.spotify.com/artist/6mRmujco5e9ge5KHau1mV1) | [Dancing On The Ceiling](https://open.spotify.com/album/1t1lPrpOtT685DdfsWwIuz) | 3:51 | 2023-01-13 |  |
 | [Dancing with Taylor](https://open.spotify.com/track/36PqpImKv4HV6ueNoR0o9s) | [Venus Bay](https://open.spotify.com/artist/6LUI0R17HWaZZPh7xDYzNp) | [Dancing with Taylor](https://open.spotify.com/album/4bLhdFsywgLO3Hup4H4Qan) | 3:01 | 2023-10-12 |  |
@@ -162,6 +164,7 @@
 | [Electric Moments](https://open.spotify.com/track/3T24DOXoiTHkzRxgnSX0SI) | [Reza Solhi](https://open.spotify.com/artist/1Tm9n1qxzzLEpXGSu3nWIJ) | [Electric Moments](https://open.spotify.com/album/10wIuQ7caZKzB0fXSmKzRk) | 2:35 | 2021-05-13 |  |
 | [Electric Moon](https://open.spotify.com/track/1vAORWsOWbYpFyxUjWIvRP) | [Venus Bay](https://open.spotify.com/artist/6LUI0R17HWaZZPh7xDYzNp) | [Electric Moon](https://open.spotify.com/album/3FV2nTiKyWzRATZ1ghgeP6) | 3:16 | 2021-05-13 | 2021-08-25 |
 | [Embrace](https://open.spotify.com/track/5TXeBjOzQ5JXsIyopwEnec) | [Konrad Wijk](https://open.spotify.com/artist/7bGBkxzCyn9FMjY2g1LMp2) | [Embrace](https://open.spotify.com/album/46YVi0CuFan0r1Q6e3H8zx) | 2:56 | 2021-11-10 | 2022-08-05 |
+| [Empty Room](https://open.spotify.com/track/7i4Tu1sMCYeRhUAYa5jwCR) | [9Fivey](https://open.spotify.com/artist/5U5RKfPTGsbCTyLTnaUHXU) | [Empty Room](https://open.spotify.com/album/1S4zdBRDvFyg30YDSzuZq8) | 2:11 | 2023-11-24 |  |
 | [Endless Magic](https://open.spotify.com/track/4DKN3nZrkDvTyzdROv69Ic) | [Astrolemo](https://open.spotify.com/artist/6XtEzqCB9T1Y8uAjCGS17j) | [Endless Magic](https://open.spotify.com/album/3MgmDh1eWHfU743BO4BDiO) | 1:53 | 2020-10-20\* | 2021-01-07 |
 | [Enigma](https://open.spotify.com/track/3uPv7gwfs6YzUVeD8pyZ4c) | [Damian Parker](https://open.spotify.com/artist/3sQBQExp7ULhVKEjUbfPwg) | [Enigma](https://open.spotify.com/album/4pD6ofyOFWOYJwuxrWhpuY) | 2:38 | 2021-02-12 | 2022-10-07 |
 | [Epoch](https://open.spotify.com/track/6GOmKirZo88Mh9Q1KAtgAm) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Epoch](https://open.spotify.com/album/7Hk39wavPUtIEWsHpHx6Pk) | 4:52 | 2020-10-20\* | 2021-01-07 |
@@ -209,7 +212,7 @@
 | [Golden Destiny](https://open.spotify.com/track/3uIb5mjwBPlISNSAGAiojl) | [9Fivey](https://open.spotify.com/artist/5U5RKfPTGsbCTyLTnaUHXU) | [Golden Destiny](https://open.spotify.com/album/3AOOrt1mfG94t5AGUMP7vh) | 2:14 | 2023-09-15 |  |
 | [Good Rising](https://open.spotify.com/track/74f0VaipJke6lIWI5BEfTW) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Good Rising](https://open.spotify.com/album/6FpPtyj1Q86xBCiHgAKxL6) | 2:25 | 2021-04-15 | 2021-05-13 |
 | [Granite Stone \(Instrumental Version\)](https://open.spotify.com/track/5AsK51bvshzxVrR33GwlXf) | [Daxten](https://open.spotify.com/artist/1uwGIdDsv9rhyzuqgYhOuS), [Wai](https://open.spotify.com/artist/2naLLiIUfTp0IxAN6JM3hn) | [Rumors](https://open.spotify.com/album/5QxpbwNLKbIpNTO7LbZCVB) | 3:27 | 2020-10-20\* | 2022-04-06 |
-| [Grapefruit Diet](https://open.spotify.com/track/2wALasLtHG5IBHxc5Xlj2O) | [Mechagnome](https://open.spotify.com/artist/13PdnMKcJONs4BQg3b0U5q) | [Grapefruit Diet](https://open.spotify.com/album/1vlo1lL9bs1e6xuGcsob0X) | 2:57 | 2023-05-05 |  |
+| [Grapefruit Diet](https://open.spotify.com/track/2wALasLtHG5IBHxc5Xlj2O) | [Mechagnome](https://open.spotify.com/artist/13PdnMKcJONs4BQg3b0U5q) | [Grapefruit Diet](https://open.spotify.com/album/1vlo1lL9bs1e6xuGcsob0X) | 2:57 | 2023-05-05 | 2023-11-25 |
 | [grip drop](https://open.spotify.com/track/7z1mAqvJYpMhnYUkv8gQqi) | [frukks](https://open.spotify.com/artist/1y4w1ZX8F5vH0aT3rMuz1M) | [grip drop](https://open.spotify.com/album/3nugq9vUCI2fwOXCEsGTWO) | 3:19 | 2021-08-25 |  |
 | [Gubei](https://open.spotify.com/track/2QYrwIPguH63XwDKU7Zn4j) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Reijo / Gubei](https://open.spotify.com/album/6891clOMyBDVjdEPRuQelY) | 4:56 | 2021-08-25 | 2023-03-04 |
 | [guidance](https://open.spotify.com/track/0CQ9nsxVPYnPV0AsOnSKFD) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [guidance](https://open.spotify.com/album/3LAbfKYJjzKVbHvnbwp9ih) | 3:22 | 2023-10-02 |  |

@@ -406,7 +406,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 182666,
       "name": "Alzypher Vol. 10",
       "url": "https://open.spotify.com/track/1gnsY2TnziUSPAdTwScTtl"
@@ -1812,7 +1812,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 218863,
       "name": "Especies",
       "url": "https://open.spotify.com/track/0wfvhjv5cqqSuwJD84WYZ8"
@@ -1856,7 +1856,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 150141,
       "name": "Estrecho / Alvarado (feat. pablopablo)",
       "url": "https://open.spotify.com/track/4E6kns35AUSkJhHpXYRRKF"
@@ -2096,7 +2096,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 133466,
       "name": "GO",
       "url": "https://open.spotify.com/track/4AuPpQnGyE61BDNHcfpFxJ"
@@ -2425,6 +2425,32 @@
     },
     {
       "album": {
+        "name": "La Cone (Remix)",
+        "url": "https://open.spotify.com/album/5MCrjSyYNt43WgQ5BFzzat"
+      },
+      "artists": [
+        {
+          "name": "Conep",
+          "url": "https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx"
+        },
+        {
+          "name": "CDobleta",
+          "url": "https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245198,
+      "name": "La Cone - Remix",
+      "url": "https://open.spotify.com/track/797tr1SLB3YJe9ff2AwQWN"
+    },
+    {
+      "album": {
         "name": "La Escuela",
         "url": "https://open.spotify.com/album/2wjVKjLqiuQkEkNBkrM3ib"
       },
@@ -2458,7 +2484,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 159653,
       "name": "La Familia (Episodio 3)",
       "url": "https://open.spotify.com/track/3My1xeYZKWoxQ1BL5FTBHK"
@@ -3017,6 +3043,32 @@
     },
     {
       "album": {
+        "name": "Males Necesarios",
+        "url": "https://open.spotify.com/album/3AScJiZ1UZDbnxmGHXpvPt"
+      },
+      "artists": [
+        {
+          "name": "Se\u00f1or Marrano",
+          "url": "https://open.spotify.com/artist/4TGavohrECqpfWpLz6QhkG"
+        },
+        {
+          "name": "Gaceloide",
+          "url": "https://open.spotify.com/artist/1aJ2OoDQTmH3eAHEXXZIk4"
+        },
+        {
+          "name": "Limbo Lowfi",
+          "url": "https://open.spotify.com/artist/4EQWL5UyTdKnVQeIERcnpr"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Males Necesarios",
+      "url": "https://open.spotify.com/track/5dXEifSRH3X3qEjH4aybdG"
+    },
+    {
+      "album": {
         "name": "Malvada",
         "url": "https://open.spotify.com/album/6FUY0mliGmcUTZDyDgah6I"
       },
@@ -3180,6 +3232,32 @@
       "duration_ms": 185870,
       "name": "Mar y Tierra",
       "url": "https://open.spotify.com/track/3lz3pZ0Jd5XtB4PfgvcHg1"
+    },
+    {
+      "album": {
+        "name": "Me Ignora",
+        "url": "https://open.spotify.com/album/0WQ8donDvzlPseefL2iCO0"
+      },
+      "artists": [
+        {
+          "name": "Willie DeVille",
+          "url": "https://open.spotify.com/artist/18vnqu7XJRHPmua3tsejG5"
+        },
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        },
+        {
+          "name": "daf",
+          "url": "https://open.spotify.com/artist/0Qc4LgAor2CY57GcI5hfKy"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193846,
+      "name": "Me Ignora",
+      "url": "https://open.spotify.com/track/0rceqfTk0Lvo15LcuCEiJT"
     },
     {
       "album": {
@@ -4133,6 +4211,32 @@
     },
     {
       "album": {
+        "name": "No Deal, No Drama",
+        "url": "https://open.spotify.com/album/3Lwj2wWSBHJeHDbfzweBSz"
+      },
+      "artists": [
+        {
+          "name": "No Deal",
+          "url": "https://open.spotify.com/artist/35dFa02f8Yg6eZJz5N3wMF"
+        },
+        {
+          "name": "Gonzalo Genek",
+          "url": "https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I"
+        },
+        {
+          "name": "Valeria",
+          "url": "https://open.spotify.com/artist/2UjOBQK3HTHySKoYn12YKj"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189397,
+      "name": "Prohibido",
+      "url": "https://open.spotify.com/track/0t1aa9a3LsT9dsRZIJEL8J"
+    },
+    {
+      "album": {
         "name": "PUAJ (sesi\u00f3n)",
         "url": "https://open.spotify.com/album/2NU5SWfJFO8IN7cvecZlww"
       },
@@ -4210,6 +4314,28 @@
       "duration_ms": 221541,
       "name": "Qui\u00faboles Que",
       "url": "https://open.spotify.com/track/4SEFSM1H18Q8uLXsi7zcIj"
+    },
+    {
+      "album": {
+        "name": "27",
+        "url": "https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184253,
+      "name": "RAZONES (feat. Morad)",
+      "url": "https://open.spotify.com/track/62OmBF30kfTb0XLbGZPeTS"
     },
     {
       "album": {

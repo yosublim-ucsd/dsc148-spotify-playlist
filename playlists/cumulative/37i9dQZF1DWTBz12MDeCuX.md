@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: JBS, MilleniumKid
 
-1,441 songs - 2 day 19 hr 56 min
+1,442 songs - 2 day 20 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -636,7 +636,8 @@
 | [I’m a Mess \(with YUNGBLUD\)](https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [I’m a Mess \(with YUNGBLUD\)](https://open.spotify.com/album/7kpLyQOiE4j9bNCZhKvWBr) | 3:07 | 2022-11-03 | 2022-11-18 |
 | [Ja ich weiß](https://open.spotify.com/track/0KzMKVa7n63hl3GQM90cwy) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ) | [nimmdichnichtsoernst \- EP](https://open.spotify.com/album/35UU914sq7Q5fGBqwzC1px) | 2:48 | 2023-05-04 | 2023-05-19 |
 | [JACKIE BROWN](https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 2:49 | 2023-03-20 | 2023-03-31 |
-| [James Blake](https://open.spotify.com/track/6wjiWdFdfcyZNikqjqb9vu) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [James Blake](https://open.spotify.com/album/5PVKyMewYidIhvFGpiGeNW) | 3:44 | 2023-11-23 |  |
+| [James Blake](https://open.spotify.com/track/2jjmmklmlTnS5WEYrL0MkN) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [James Blake](https://open.spotify.com/album/0jaT6ytnqXaQ0EhElQg9Zn) | 3:44 | 2023-11-23 |  |
+| [James Blake](https://open.spotify.com/track/6wjiWdFdfcyZNikqjqb9vu) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [James Blake](https://open.spotify.com/album/5PVKyMewYidIhvFGpiGeNW) | 3:44 | 2023-11-23 | 2023-11-25 |
 | [Japanese Denim](https://open.spotify.com/track/1boXOL0ua7N2iCOUVI1p9F) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Get You \- Single](https://open.spotify.com/album/5qfhZ5YkZ4LhEUbYgjrWt6) | 4:30 | 2023-08-29 | 2023-09-08 |
 | [Je M'appelle](https://open.spotify.com/track/6A3SB2C4U6JtCavQOXLYNN) | [Benzz](https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh) | [Je M'appelle](https://open.spotify.com/album/6T6uWGOSAUhvoZfLlIyDuJ) | 2:19 | 2022-06-09 | 2022-08-05 |
 | [JESUS IN BERLIN](https://open.spotify.com/track/1eBGNWrnfmSCHN4IfEUqUX) | [nullzwei](https://open.spotify.com/artist/3PkWoIJrG7k4yJuGytxTds), [Chris Sigl](https://open.spotify.com/artist/5bo6pQQsgmpE3dB7ZxtXot), [BERTHAJU](https://open.spotify.com/artist/78ZYaBigpiwJBwo2owu6ks) | [JESUS IN BERLIN](https://open.spotify.com/album/3O87y5cnZk4fVJbjSfc3Xl) | 2:32 | 2023-02-02 | 2023-03-03 |
@@ -1368,7 +1369,7 @@
 | [Weeds](https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Emotional Creature](https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8) | 3:22 | 2022-07-28 | 2022-08-02 |
 | [Wegen dir](https://open.spotify.com/track/4rOnBJJtINrWBM9dsTpUOA) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Wegen dir](https://open.spotify.com/album/5oVwMSiD5Bldu9Mv0YAgha) | 2:07 | 2022-11-24 | 2022-12-24 |
 | [Weihnachtslied 2022](https://open.spotify.com/track/6DBkV77Ti1Vrq2oemw79ZJ) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9) | [Weihnachtslied 2022](https://open.spotify.com/album/4GiyJLCszEkMQgZ68HnjD1) | 2:37 | 2022-11-28 | 2023-01-04 |
-| [Weihnachtslied 2023](https://open.spotify.com/track/75pat6BKtU00aVVFheGu9k) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9) | [Weihnachtslied 2023](https://open.spotify.com/album/7mf1UQK6QfUd0UG97rUUwT) | 2:32 | 2023-11-23 |  |
+| [Weihnachtslied 2023](https://open.spotify.com/track/75pat6BKtU00aVVFheGu9k) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Dani](https://open.spotify.com/artist/5lCJ034qFUkrWNFXUTxLVn), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [Weihnachtslied 2023](https://open.spotify.com/album/7mf1UQK6QfUd0UG97rUUwT) | 2:32 | 2023-11-23 |  |
 | [Weil ich muss](https://open.spotify.com/track/1UH7AgTjLwgwPlhWTHaNBs) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Weil ich muss](https://open.spotify.com/album/4TFhExkzyu2d6TsRGSRiZW) | 3:24 | 2022-11-17 | 2022-11-25 |
 | [Wein](https://open.spotify.com/track/1lnDtmE0sOQwTmJp0AmDnH) | [KXXMA](https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx), [KALUMA](https://open.spotify.com/artist/4dgLZMavMm3danubiJxbtw), [Beamy](https://open.spotify.com/artist/0vmBLdFrNG2HAUT5N5oNew) | [Wein](https://open.spotify.com/album/1GVRKw1hdICjzXZzQJhLMw) | 2:25 | 2023-10-19 | 2023-11-24 |
 | [WEINST DU](https://open.spotify.com/track/1zNsXrIjWAp8xFMUjLvO9d) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac) | [WEINST DU](https://open.spotify.com/album/6MkhESb5H3hlm9zNzaVJLr) | 2:22 | 2023-09-28 |  |

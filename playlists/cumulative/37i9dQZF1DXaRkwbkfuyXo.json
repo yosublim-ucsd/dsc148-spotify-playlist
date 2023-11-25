@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "Entre Dios Y El Diablo",
+        "url": "https://open.spotify.com/album/5yhcHgchenU7HC1E8fhzbM"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198026,
+      "name": "Aquiles Afirmo",
+      "url": "https://open.spotify.com/track/5KaVwzqAIYGi73KgSXXCaU"
+    },
+    {
+      "album": {
         "name": "La Cheyenne Sin Placas",
         "url": "https://open.spotify.com/album/1leTiFBaqtwrnUnJuaSjeF"
       },
@@ -638,7 +656,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 137228,
       "name": "El 24",
       "url": "https://open.spotify.com/track/1W8rZxURkCD27SKRoslS4b"
@@ -743,6 +761,24 @@
     },
     {
       "album": {
+        "name": "Hoy M\u00e1s Fuerte",
+        "url": "https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133226,
+      "name": "El Cholo",
+      "url": "https://open.spotify.com/track/6z4awm3ZfXQjXGF5loOUAi"
+    },
+    {
+      "album": {
         "name": "Y Seguimos La Borrachera",
         "url": "https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD"
       },
@@ -838,6 +874,24 @@
       "duration_ms": 152120,
       "name": "El Corrido CP-3 AKA El Corrido Del Talib\u00e1n",
       "url": "https://open.spotify.com/track/1WTnFa5oFYInFV4aX3sHpv"
+    },
+    {
+      "album": {
+        "name": "El Corrido Del Gabacho",
+        "url": "https://open.spotify.com/album/6FDRRBt3rTzUDBdbOxnJxq"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180333,
+      "name": "El Corrido Del Gabacho",
+      "url": "https://open.spotify.com/track/1TNdZ1fmrHF0tig41zq37B"
     },
     {
       "album": {
@@ -986,6 +1040,42 @@
       "duration_ms": 144973,
       "name": "El Fp",
       "url": "https://open.spotify.com/track/6cVd6YSo03kPrxThzlPtj6"
+    },
+    {
+      "album": {
+        "name": "Invasi\u00f3n Del Corrido 2014",
+        "url": "https://open.spotify.com/album/4uhLECQ2IKp7Lpf5Lwst1R"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210666,
+      "name": "El G\u00fcero Rey Del Pop",
+      "url": "https://open.spotify.com/track/5Y481yMqaljbPmJehun6YE"
+    },
+    {
+      "album": {
+        "name": "El Perfil del Muchacho",
+        "url": "https://open.spotify.com/album/5OX1uiyu8aYIuQs9oN8A8n"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0xcs1RSih2SElPUcqOrYBo"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179866,
+      "name": "El Hijo del Ingeniero",
+      "url": "https://open.spotify.com/track/346k4djpLH5R6JQgiW0zSQ"
     },
     {
       "album": {
@@ -1378,7 +1468,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 172706,
       "name": "Escuela De Rancho",
       "url": "https://open.spotify.com/track/0JmnQ5TRO3wEfnyNhaVx0D"
@@ -1476,6 +1566,24 @@
       "duration_ms": 145493,
       "name": "Estrategia De Escape",
       "url": "https://open.spotify.com/track/5RJ6UcbfdyH9zA57IAK9vO"
+    },
+    {
+      "album": {
+        "name": "Archivo Privado",
+        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147506,
+      "name": "Estrategias De Escape",
+      "url": "https://open.spotify.com/track/3ROMpY5IE7Y61Z3dVfugpm"
     },
     {
       "album": {
@@ -1587,6 +1695,24 @@
     },
     {
       "album": {
+        "name": "Amor En Tiempos de Guerra",
+        "url": "https://open.spotify.com/album/35Wf0nrq7URxqLaTwbUZ14"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234815,
+      "name": "Heroe de las Huertas",
+      "url": "https://open.spotify.com/track/3R3fouWuZfVJA98FWyqsZc"
+    },
+    {
+      "album": {
         "name": "Corridos",
         "url": "https://open.spotify.com/album/0dAb8o8AA2xIaFrXJ0skzy"
       },
@@ -1620,6 +1746,42 @@
       "duration_ms": 145360,
       "name": "J. Walker",
       "url": "https://open.spotify.com/track/59sVHAfxiIX1uAKXjFksAI"
+    },
+    {
+      "album": {
+        "name": "Corridos De Alto Calibre",
+        "url": "https://open.spotify.com/album/1YKiiRFhUVaLMVEu0l59Ri"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Javier El De Los Llanos",
+      "url": "https://open.spotify.com/track/7kyK2NSDfRE1612vdYuqIx"
+    },
+    {
+      "album": {
+        "name": "Especialista",
+        "url": "https://open.spotify.com/album/1udzzVN47urH7cthUlyRMz"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186120,
+      "name": "Kikil Caro",
+      "url": "https://open.spotify.com/track/3Awf41B1t5v7STTM2uCXc7"
     },
     {
       "album": {
@@ -1672,6 +1834,42 @@
       "duration_ms": 277421,
       "name": "La Fuga del Dorian (feat. Ariel Camacho & Regulo Caro)",
       "url": "https://open.spotify.com/track/0aKMglFhqmZzJXiNdT0BGK"
+    },
+    {
+      "album": {
+        "name": "Llegamos, Estamos Y Seguimos",
+        "url": "https://open.spotify.com/album/321hhbH02mTHxpJS8n7o7k"
+      },
+      "artists": [
+        {
+          "name": "Noel Torres",
+          "url": "https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161653,
+      "name": "La Guan\u00e1bana",
+      "url": "https://open.spotify.com/track/4064j7CdW3TU1hjb6jQXhl"
+    },
+    {
+      "album": {
+        "name": "\"14 Exitos\" A Cada Instante",
+        "url": "https://open.spotify.com/album/26vKr0uiVeTMbiqyNJcc6Z"
+      },
+      "artists": [
+        {
+          "name": "Julio Chaidez",
+          "url": "https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215920,
+      "name": "La Hielera",
+      "url": "https://open.spotify.com/track/7hIPNq6BMFEDJxfio5I1wz"
     },
     {
       "album": {
@@ -1845,6 +2043,24 @@
     },
     {
       "album": {
+        "name": "Senzu-Rah",
+        "url": "https://open.spotify.com/album/5j4Jj0DflPXIWwrJa3W5hS"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199253,
+      "name": "Lo Caro No Es Pa' Tarifa",
+      "url": "https://open.spotify.com/track/78aZJ1siRyAVWZiBVehrZV"
+    },
+    {
+      "album": {
         "name": "Locos Desde Ayer",
         "url": "https://open.spotify.com/album/08uTtEwEDNHpHqMqZOo4J8"
       },
@@ -1878,6 +2094,24 @@
       "duration_ms": 163226,
       "name": "Locos Desde Ayer",
       "url": "https://open.spotify.com/track/5kOerWLruDrwe8zA9HPglH"
+    },
+    {
+      "album": {
+        "name": "El Movimiento Alterado - Top 20 Corridos Delincuentes",
+        "url": "https://open.spotify.com/album/43Xzn4opxrPb3qOcE2wuZs"
+      },
+      "artists": [
+        {
+          "name": "Buknas De Culiacan",
+          "url": "https://open.spotify.com/artist/45hYVfD7CFus8HDkcFnUvH"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174001,
+      "name": "Los Caballeros Templarios",
+      "url": "https://open.spotify.com/track/66FYx0CKtDSn4Ao7Rr8Ozf"
     },
     {
       "album": {
@@ -2012,6 +2246,24 @@
       "duration_ms": 237040,
       "name": "Missiones MP",
       "url": "https://open.spotify.com/track/3hswamg6GIzoIqyZe3oykn"
+    },
+    {
+      "album": {
+        "name": "Morir y Existir En Vivo",
+        "url": "https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235973,
+      "name": "Morir Con Estilo (En Vivo)",
+      "url": "https://open.spotify.com/track/3t8SxAtPucuWFMUitFlJSw"
     },
     {
       "album": {
@@ -2177,6 +2429,24 @@
     },
     {
       "album": {
+        "name": "Poder y Respeto",
+        "url": "https://open.spotify.com/album/2DaRZDIgbjHe746Gx3pYRQ"
+      },
+      "artists": [
+        {
+          "name": "Martin Castillo",
+          "url": "https://open.spotify.com/artist/7cTBwZEDfYdYu1ti31AgPw"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196266,
+      "name": "Recuerdos de Uno",
+      "url": "https://open.spotify.com/track/1ptL9S3BF4074kqm6U51YA"
+    },
+    {
+      "album": {
         "name": "La Supremac\u00eda",
         "url": "https://open.spotify.com/album/2qgYY0i0OW85xXawxTkEDW"
       },
@@ -2192,6 +2462,24 @@
       "duration_ms": 234146,
       "name": "Scarface Renacido",
       "url": "https://open.spotify.com/track/1tpYFtQ5BsCB8lRug5VPtK"
+    },
+    {
+      "album": {
+        "name": "Historias de la Calle",
+        "url": "https://open.spotify.com/album/68oeH15c0id8blWP7cOu5T"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154680,
+      "name": "Se Volvi\u00f3 a Pelar Mi Ap\u00e1",
+      "url": "https://open.spotify.com/track/76wKy6yQjIJiMbuO0EQQsy"
     },
     {
       "album": {
@@ -2282,6 +2570,24 @@
       "duration_ms": 169106,
       "name": "Viva Mi Lindo Michoacan",
       "url": "https://open.spotify.com/track/534NRKCO5nvYwOXqY1gydw"
+    },
+    {
+      "album": {
+        "name": "10 A\u00f1os",
+        "url": "https://open.spotify.com/album/7r0v2WWlFeQ5f7vmDVv9Je"
+      },
+      "artists": [
+        {
+          "name": "Fidel Rueda",
+          "url": "https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159312,
+      "name": "Ya No Soy el Mandadero",
+      "url": "https://open.spotify.com/track/06pDUeRKhA0ghcuCkyrSPS"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXaRkwbkfuyXo"

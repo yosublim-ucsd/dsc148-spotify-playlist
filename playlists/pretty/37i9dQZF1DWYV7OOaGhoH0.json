@@ -1,13 +1,29 @@
 {
-  "description": "The best in folk & acoustic today featuring music from Madi Diaz",
-  "num_followers": 1863129,
+  "description": "The best in folk & acoustic today featuring music from Rachel Zegler",
+  "num_followers": 1863241,
   "original_name": "Roots Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMmZkYWUzMGFkYTZhNDQ0OWYyNmZmZmNjMjY1ODE4MjFiNGM1Mzcy",
+  "snapshot_id": "MCxjZjIyZjFjOTljYWRiZTg3MmQ5MTJkMjQxMjBlM2U2ZDBhMjJlNjIx",
   "tracks": [
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "The Hanging Tree (from The Hunger Games: The Ballad of Songbirds & Snakes)",
+        "url": "https://open.spotify.com/album/0tkdGuAFwXKyGsNmsEbaCn"
+      },
+      "artists": [
+        {
+          "name": "Rachel Zegler",
+          "url": "https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3"
+        }
+      ],
+      "duration_ms": 143988,
+      "name": "The Hanging Tree - from The Hunger Games: The Ballad of Songbirds & Snakes",
+      "url": "https://open.spotify.com/track/12xA59A83Ir77gcYs0w4TA"
+    },
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {

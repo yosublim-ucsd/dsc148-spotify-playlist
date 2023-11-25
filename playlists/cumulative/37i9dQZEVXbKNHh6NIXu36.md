@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Austria.
 
-1,808 songs - 3 day 18 hr 24 min
+1,809 songs - 3 day 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Anders](https://open.spotify.com/track/5RKvst7SDOCTWGlLcF6kSE) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Blaue Stunden](https://open.spotify.com/album/1DndcvOnocioZ39IRv5xp3) | 2:35 | 2023-11-05 | 2023-11-12 |
 | [Anders](https://open.spotify.com/track/5TYmnScjaRecWuBqEaA7S5) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Anders](https://open.spotify.com/album/5AXp6zh5m2lyBV5OTH5iwq) | 2:35 | 2023-04-22 | 2023-09-03 |
 | [ANGEKOMMEN](https://open.spotify.com/track/0MYlBBu6RZktCUKz9If4wF) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [Data Luv](https://open.spotify.com/artist/2gtmbs0Uas9TBSMqkA4zjE) | [ANGEKOMMEN](https://open.spotify.com/album/5jORXH3NqYVQiVbFc86xnA) | 2:36 | 2021-04-18 | 2021-04-26 |
+| [Angel Numbers / Ten Toes](https://open.spotify.com/track/3XqM8hLCEYlbnFjoWwqtFv) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [11:11](https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR) | 5:06 | 2023-11-24 |  |
 | [Angst](https://open.spotify.com/track/0UuNO0yYvsMPlyLF7RfQlg) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 3:44 | 2022-04-30 | 2022-05-08 |
 | [ANGST>LIEBE](https://open.spotify.com/track/6KiPf8zHwaBK7VMHZZ1ReL) | [Ellice](https://open.spotify.com/artist/7sAaTbbHDafboXdSERjtEl) | [ANGST>LIEBE](https://open.spotify.com/album/6MXxm5A1n2rI3n0sGBrnF3) | 2:59 | 2023-10-14 | 2023-11-19 |
 | [ANNA](https://open.spotify.com/track/2H4HtOA24KXUYiINpGZ1ju) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [ANNA](https://open.spotify.com/album/2QG8jbLMq7vHYyiS2OCCeY) | 2:24 | 2023-05-06 | 2023-06-25 |
@@ -1722,7 +1723,7 @@
 | [Weisse Fahnen](https://open.spotify.com/track/3b4Wdpk6yOx4iEXzfzpnJ9) | [Peter Fox](https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI) | [Weisse Fahnen](https://open.spotify.com/album/4ddlFwyNsvmZcJBxx2VP09) | 3:32 | 2023-03-18 | 2023-03-20 |
 | [Weisse Orchideen](https://open.spotify.com/track/0fNYJMvRcSBEC4zK3SClpK) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [Weisse Orchideen](https://open.spotify.com/album/0dQq7rjlKZbkK2bPGfiZT2) | 2:57 | 2023-01-21 | 2023-02-02 |
 | [Weit weg](https://open.spotify.com/track/3JwcBCsrJheY6egRrpqHjm) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [XV](https://open.spotify.com/album/39eNnt0fhAmQUyC3m3IATi) | 2:32 | 2023-06-24 | 2023-07-02 |
-| [Weißes Haus](https://open.spotify.com/track/2EbO8k2jAHVRMVvUB77nNt) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Schwarzes Herz](https://open.spotify.com/album/0Xsdw4O63MRbnZn81z7Uws) | 2:48 | 2023-08-26 |  |
+| [Weißes Haus](https://open.spotify.com/track/2EbO8k2jAHVRMVvUB77nNt) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Schwarzes Herz](https://open.spotify.com/album/0Xsdw4O63MRbnZn81z7Uws) | 2:48 | 2023-08-26 | 2023-11-25 |
 | [Weißes Haus](https://open.spotify.com/track/5OXgrcI2K6erTLMTlEJ23H) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Weißes Haus](https://open.spotify.com/album/76MbuCHFar5NafVYMqVopm) | 2:48 | 2023-07-15 | 2023-08-27 |
 | [Welcome To Mi Casa](https://open.spotify.com/track/0TG5hT6seTSVsgBDK6NfmJ) | [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [ALPHA](https://open.spotify.com/album/79VfxswlqSCscjT31Hm8iO) | 2:25 | 2023-04-08 | 2023-04-10 |
 | [Welcome To New York \(Taylor's Version\)](https://open.spotify.com/track/1hR8BSuEqPCCZfv93zzzz9) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:32 | 2023-10-28 | 2023-11-01 |

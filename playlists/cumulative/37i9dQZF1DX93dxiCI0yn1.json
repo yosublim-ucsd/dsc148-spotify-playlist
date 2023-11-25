@@ -1760,10 +1760,32 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 125500,
       "name": "SAI",
       "url": "https://open.spotify.com/track/59KWSPPbqWmEKuKSqmsBs5"
+    },
+    {
+      "album": {
+        "name": "RAFRAGE",
+        "url": "https://open.spotify.com/album/3FttzCyCj9hf5L4O2xhYcR"
+      },
+      "artists": [
+        {
+          "name": "Kamui",
+          "url": "https://open.spotify.com/artist/39PBUM5S4D2fVPFbzMUr6C"
+        },
+        {
+          "name": "Tade Dust",
+          "url": "https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129285,
+      "name": "SAI",
+      "url": "https://open.spotify.com/track/5osMyTdNI7vyNnS03Tb8X5"
     },
     {
       "album": {

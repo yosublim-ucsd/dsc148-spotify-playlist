@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 
 > Listen to Indian women, at full volume\. Cover \- Lisa Mishra
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,805 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,811 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 | 2 | [Mohabbat Karne Wale](https://open.spotify.com/track/6q2kG1nmxpfmmvnx5J8cJb) | [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [Swapnil Tare](https://open.spotify.com/artist/16023OFrIxSmKOMpIVJ6Ax), [Hafeez Hoshiyarpuri](https://open.spotify.com/artist/7Ck29k6n63SKcKvyLcWDRr) | [Mohabbat Karne Wale](https://open.spotify.com/album/7hCywRNiiG9vy0f1qyEW7p) | 3:59 |
 | 3 | [Shagnaa](https://open.spotify.com/track/4YtqSiEWM1xXtzn1hmdkqr) | [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Shagnaa](https://open.spotify.com/album/2YxNZ37OoJNlYLhfpBWVSp) | 3:25 |
 | 4 | [Karmawali](https://open.spotify.com/track/6mfdRFpZTTOGwzRCHQlnDW) | [Shruti Pathak](https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE) | [Karmawali](https://open.spotify.com/album/7sh3XAVFEufhE6NVyiRDV4) | 4:20 |
-| 5 | [Vaari Vaari](https://open.spotify.com/track/2xOmEPAN79q9s2rfp50vIz) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Avinash Chouhan](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Vaari Vaari](https://open.spotify.com/album/11MHkHTCh8qKoG6beDGHD6) | 2:41 |
+| 5 | [Vaari Vaari](https://open.spotify.com/track/2xOmEPAN79q9s2rfp50vIz) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [JUNO](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Vaari Vaari](https://open.spotify.com/album/11MHkHTCh8qKoG6beDGHD6) | 2:41 |
 | 6 | [Udh Di Phiran](https://open.spotify.com/track/4sTY5k1xidkZWbtvVZrft3) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY), [Bilal Saeed](https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ) | [Udh Di Phiran](https://open.spotify.com/album/1uvy9ZXnUqwEvvDHcWJK8e) | 3:41 |
 | 7 | [Rasiya \(From "Brahmastra"\)](https://open.spotify.com/track/4Hv055xg1SZZgwwGBx8Cr5) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [TUSHAR JOSHI](https://open.spotify.com/artist/324yz9K4ufBcGkcgUhTiHH) | [Rasiya \(From "Brahmastra"\)](https://open.spotify.com/album/5pjSP9gi3qIDK9NvI0uY88) | 4:25 |
 | 8 | [Shaamat \(From "Ek Villain Returns"\)](https://open.spotify.com/track/455lcFHS2MOMKcGquhAf22) | [Ankit Tiwari](https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB), [Tara Sutaria](https://open.spotify.com/artist/6rOmL22Rvtv9INMpxfLluj) | [Shaamat \(From "Ek Villain Returns"\)](https://open.spotify.com/album/6fgugUW2JZ9MYLffnmv8fB) | 5:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 | 49 | [Nasha \(From "Sukhee"\)](https://open.spotify.com/track/4toBFhkIjRvPcAJIk98d58) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Chakshu Kotwal](https://open.spotify.com/artist/0w3yzcroyJEGY9nzsseeam), [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo) | [Nasha \(From "Sukhee"\)](https://open.spotify.com/album/1jl3wLVKVzmtjwfDNyMoXI) | 3:33 |
 | 50 | [Pari Hoon Main \(From "Thank You For Coming\)](https://open.spotify.com/track/4351grftIjxdiHySLZYrvS) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Sushant Divgikar](https://open.spotify.com/artist/7a2NKzIrcY9uEhQQbpSpv8), [Rahul Pais](https://open.spotify.com/artist/0iByQOkheGQaW823yagplF), [Nariman Khambata](https://open.spotify.com/artist/3kvPoJrBHkhNT8j7Pj8QZN), [Leslee Lewis](https://open.spotify.com/artist/42mDOvp3BiaMBM3ae4zWwV), [Rajesh Johri](https://open.spotify.com/artist/4Jl8jq6OJfgIj896dVWVn2) | [Pari Hoon Main \(From "Thank You for Coming\)](https://open.spotify.com/album/0BMh0toShdqxdgFU4TOMmA) | 3:19 |
 
-Snapshot ID: `MCxmMTUxOWMyMjRhNjQ5MDJkYzA1NjlkMzExNTk5NGU5MTcyZWIyMmY4`
+Snapshot ID: `MCxiYWUxZGQ3YTBhMGQ4MDRjZjNlMzVlM2UxZTU2NzFlZWIwZTQ3NDcw`

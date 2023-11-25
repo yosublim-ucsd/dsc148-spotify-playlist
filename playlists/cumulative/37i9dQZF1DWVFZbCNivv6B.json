@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Aqu\u00ed vive el hip-hop mexicano. La Liga Malandra en la casa. ",
+  "description": "Aqu\u00ed vive el hip-hop mexicano. Dan Sanchez, Tornillo y Natanael Cano en la casa. ",
   "name": "Arena Hip-Hop",
   "tracks": [
     {
@@ -1287,6 +1287,24 @@
     },
     {
       "album": {
+        "name": "The Lost Tapes",
+        "url": "https://open.spotify.com/album/4w8svQGnQITyzc6UibGWgr"
+      },
+      "artists": [
+        {
+          "name": "Mike Diaz",
+          "url": "https://open.spotify.com/artist/5pR3pEU0bCMZhhAzag3DUz"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160879,
+      "name": "Bruce Lee",
+      "url": "https://open.spotify.com/track/23VaXQAsoAWVTFx4nROlS5"
+    },
+    {
+      "album": {
         "name": "To Anywhere",
         "url": "https://open.spotify.com/album/0D0l81uLwVgMbS7DfaEh6V"
       },
@@ -1478,7 +1496,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 196000,
       "name": "Carne y Hueso",
       "url": "https://open.spotify.com/track/1mZCWADOADnVrneELzVmfh"
@@ -2556,6 +2574,28 @@
       "duration_ms": 258239,
       "name": "Donde Sea",
       "url": "https://open.spotify.com/track/3Zkzz1Z01psdyUZt5vgFXL"
+    },
+    {
+      "album": {
+        "name": "El Bols\u00f3n",
+        "url": "https://open.spotify.com/album/6krHFxbelvtQ4IJ33MLtRe"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231177,
+      "name": "El Bols\u00f3n",
+      "url": "https://open.spotify.com/track/56BnSpQ60kTtOt415JTRoD"
     },
     {
       "album": {
@@ -3880,7 +3920,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 162866,
       "name": "Imaginando Voy",
       "url": "https://open.spotify.com/track/2woVDlN4GzCB2LUQSd4QAA"
@@ -5322,7 +5362,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 263163,
       "name": "Mexicano Hlm",
       "url": "https://open.spotify.com/track/78e99L4fvnow9pXDrFkFMc"
@@ -9496,6 +9536,32 @@
       "duration_ms": 154488,
       "name": "Una Madre Llora",
       "url": "https://open.spotify.com/track/6YT9Q9zhziCCy9lCL4NMNw"
+    },
+    {
+      "album": {
+        "name": "Disfrutando El Proceso",
+        "url": "https://open.spotify.com/album/60falhlYX9dCpWmjlHfVGa"
+      },
+      "artists": [
+        {
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        },
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "Una Ruedita",
+      "url": "https://open.spotify.com/track/2D9WyuykuMo5MvU5grpXpI"
     },
     {
       "album": {

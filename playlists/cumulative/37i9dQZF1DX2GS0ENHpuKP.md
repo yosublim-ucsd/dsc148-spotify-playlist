@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:77J3V0V7sEOf5ifCDBSNaJ">Nu Genea</a>'s favorite tracks\. Updated regularly\. Curated by Nu Genea\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-71 songs - 6 hr 1 min
+72 songs - 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Cosmic Sounds](https://open.spotify.com/track/4OiN37qE1wHFRBobO5eveW) | [N'draman Blintch](https://open.spotify.com/artist/6fXkGRg0VOSFulEpv7cWQV) | [Cosmic Sounds \(Hi Track \- Self Destruction\)](https://open.spotify.com/album/1aJ6Oao8t9P3y7Ty0kwqYc) | 11:16 | 2022-07-19 |  |
 | [Danse Cette Zik](https://open.spotify.com/track/0JSDjKJ1VJwmRwW35I3OYH) | [Parbleu](https://open.spotify.com/artist/6TPtmX8rRaOXQgN6WFFTlo) | [Danse Cette Zik](https://open.spotify.com/album/3dMQYdTraNEoCBKUC34Uyt) | 4:19 | 2022-07-19 |  |
 | [Danse Cette Zik](https://open.spotify.com/track/51PXrjioD9DjjGs8QBdHEp) | [Parbleu](https://open.spotify.com/artist/6TPtmX8rRaOXQgN6WFFTlo) | [DANSE CETTE ZIK](https://open.spotify.com/album/4LdWqDu7mPZS8wHwAtRpoT) | 4:19 | 2022-07-19 | 2023-01-07 |
-| [El Fen](https://open.spotify.com/track/7mxnjeb6R7jMyKbxGTaB9B) | [Ait Meslayene](https://open.spotify.com/artist/6UqOmCP26EuPagfWAAGEaI) | [El Fen / Casbah](https://open.spotify.com/album/4FyMIn7x3MvXhS77CU8gOs) | 4:39 | 2022-07-19 |  |
+| [El Fen](https://open.spotify.com/track/7mxnjeb6R7jMyKbxGTaB9B) | [Ait Meslayene](https://open.spotify.com/artist/6UqOmCP26EuPagfWAAGEaI) | [El Fen / Casbah](https://open.spotify.com/album/4FyMIn7x3MvXhS77CU8gOs) | 4:39 | 2022-07-19 | 2023-11-25 |
+| [El fen](https://open.spotify.com/track/4rDxUHTSSRzYmYgzYOSRCr) | [Ait Meslayene](https://open.spotify.com/artist/6UqOmCP26EuPagfWAAGEaI) | [Je suis saoul](https://open.spotify.com/album/2vphiwW3fz3JyAI8x8qtIS) | 4:39 | 2023-05-24 |  |
 | [Erotic Delight](https://open.spotify.com/track/4nPXbB4vUCX5VMICAKGlvF) | [Witch](https://open.spotify.com/artist/5sRPCgjvseLhVvE1nJYaN8) | [Kuomboka](https://open.spotify.com/album/1BbEMko1TnuTZJlsjTlQji) | 5:31 | 2022-07-19 |  |
 | [Femmes Pays Douces](https://open.spotify.com/track/7kOyqLYMy9H8nHWrlzYSbI) | [Raphaël Toiné](https://open.spotify.com/artist/2ddBIV2qOCQfX4lVnNZSJh) | [Ce Ta Ou / Sud Africa Révolution](https://open.spotify.com/album/2LVxgI3pFsT9qh0Di2xbx4) | 5:41 | 2022-07-19 |  |
 | [Fotonovela](https://open.spotify.com/track/53sf1Z9U5W34m4PlhHlmyT) | [Ivan](https://open.spotify.com/artist/4geJci3XRoeMknHvknu2gL) | [Lo Mejor De Los Ochenta](https://open.spotify.com/album/1uYi1bqEbverdinug6DMVO) | 4:41 | 2022-07-19 |  |

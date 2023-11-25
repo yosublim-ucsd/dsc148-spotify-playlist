@@ -4,7 +4,7 @@
 
 > 新たな“ラップスタア“を発掘する人気オーディション番組<a href="https://rapstar2023.jp/">「ラップスタア誕生」</a>歴代出場者、審査員の楽曲を特集。 Cover: ShowyVICTOR
 
-103 songs - 5 hr 4 min
+104 songs - 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,8 @@
 | [REVENGE](https://open.spotify.com/track/0R4r4I1toXjohYKZLcIQEL) | [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA), [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA) | [REVENGE](https://open.spotify.com/album/42hlt0eaqW9269f8jqqa20) | 3:25 | 2023-10-24 |  |
 | [Rice Spice](https://open.spotify.com/track/34IAM1iapMADhwJc5kxxip) | [nana](https://open.spotify.com/artist/7uzEQGrUAupBJK2j3uQsoC) | [Rice Spice](https://open.spotify.com/album/0pQ7biuEQJGAMZJk5c3v6y) | 1:50 | 2023-10-24 |  |
 | [SABOLOW](https://open.spotify.com/track/3iD7ipMkpxFYHUsECdcCYf) | [STICKY BUDS](https://open.spotify.com/artist/606E8dfYTpa1QY1MLJxN8J) | [Get Dream Story](https://open.spotify.com/album/4DOWq9dCkrfoAtKn80d1lO) | 2:52 | 2023-10-24 |  |
-| [SAI](https://open.spotify.com/track/59KWSPPbqWmEKuKSqmsBs5) | [Kamui](https://open.spotify.com/artist/39PBUM5S4D2fVPFbzMUr6C), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [SAI](https://open.spotify.com/album/0WpaYZtwH0XvmauoXOKgYh) | 2:05 | 2023-10-24 |  |
+| [SAI](https://open.spotify.com/track/59KWSPPbqWmEKuKSqmsBs5) | [Kamui](https://open.spotify.com/artist/39PBUM5S4D2fVPFbzMUr6C), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [SAI](https://open.spotify.com/album/0WpaYZtwH0XvmauoXOKgYh) | 2:05 | 2023-10-24 | 2023-11-25 |
+| [SAI](https://open.spotify.com/track/5osMyTdNI7vyNnS03Tb8X5) | [Kamui](https://open.spotify.com/artist/39PBUM5S4D2fVPFbzMUr6C), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [RAFRAGE](https://open.spotify.com/album/3FttzCyCj9hf5L4O2xhYcR) | 2:09 | 2023-11-07 |  |
 | [Self Made 2](https://open.spotify.com/track/5wIye7EwWRyTZSGN19E4i3) | [KOWICHI](https://open.spotify.com/artist/6CbooCqOA6MI23syacRER2), [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo) | [Higher](https://open.spotify.com/album/14tw5k8TACNP7vaUSM3M6s) | 3:03 | 2023-10-24 |  |
 | [Selfish](https://open.spotify.com/track/1hwqsjPVA3p4KZ09yTglg6) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [Selfish](https://open.spotify.com/album/2qyP7Wson4vojQNDQqzXD7) | 3:44 | 2023-10-24 |  |
 | [SHITOZEIKIN](https://open.spotify.com/track/38XwRSlXtlTilsgSylq9Xs) | [ShowyRENZO](https://open.spotify.com/artist/1MLMBTcgBXus7IgbvLaoP4) | [2022](https://open.spotify.com/album/6ecvXcTrpUhDrKS56iDdle) | 2:22 | 2023-10-24 |  |

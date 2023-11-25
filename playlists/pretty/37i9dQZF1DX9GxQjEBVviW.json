@@ -1,6 +1,6 @@
 {
   "description": "\u200bBoogie along to doo-wop's greatest hits.",
-  "num_followers": 218904,
+  "num_followers": 219033,
   "original_name": "Doo-Wop Dee Doo",
   "owner": {
     "name": "Spotify",
@@ -43,6 +43,22 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
+        "name": "Remember When",
+        "url": "https://open.spotify.com/album/6m8QVjXat9WFfyZPBSe0y8"
+      },
+      "artists": [
+        {
+          "name": "The Shirelles",
+          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
+        }
+      ],
+      "duration_ms": 124502,
+      "name": "Mama Said",
+      "url": "https://open.spotify.com/track/1SN5fcUZyWFktGbEoHdHOm"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
         "name": "Life Could Be a Dream: The Sh-Boom Sound of The Chords",
         "url": "https://open.spotify.com/album/5MPJ9H0ko7mCsfjkyrg0xE"
       },
@@ -71,22 +87,6 @@
       "duration_ms": 162093,
       "name": "The Lion Sleeps Tonight (Wimoweh)",
       "url": "https://open.spotify.com/track/2F4FNcz68howQWD4zaGJSi"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
-        "name": "Remember When",
-        "url": "https://open.spotify.com/album/6m8QVjXat9WFfyZPBSe0y8"
-      },
-      "artists": [
-        {
-          "name": "The Shirelles",
-          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
-        }
-      ],
-      "duration_ms": 124502,
-      "name": "Mama Said",
-      "url": "https://open.spotify.com/track/1SN5fcUZyWFktGbEoHdHOm"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -144,8 +144,12 @@
       },
       "artists": [
         {
-          "name": "Maurice Williams & The Zodiacs",
-          "url": "https://open.spotify.com/artist/43BgumF6B7s0W2mhVkmVO4"
+          "name": "Maurice Williams",
+          "url": "https://open.spotify.com/artist/1CgE69lpZKGAcA5kIIK82D"
+        },
+        {
+          "name": "The Zodiacs",
+          "url": "https://open.spotify.com/artist/1HCE0pbqGLSvWaz5q4TeDd"
         }
       ],
       "duration_ms": 94906,
@@ -583,6 +587,22 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
+        "name": "The Pennsylvania Vikings",
+        "url": "https://open.spotify.com/album/3AEbuPJtClS1zNd8oTJLSD"
+      },
+      "artists": [
+        {
+          "name": "The Del-Vikings",
+          "url": "https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5"
+        }
+      ],
+      "duration_ms": 143492,
+      "name": "Whispering Bells",
+      "url": "https://open.spotify.com/track/146DRoVAxV5jNjv04Pw6XJ"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
         "name": "The Four Aces' Greatest Hits",
         "url": "https://open.spotify.com/album/6GfLyMNLMpMayW8kqBDUaL"
       },
@@ -599,22 +619,6 @@
       "duration_ms": 137493,
       "name": "Heart And Soul",
       "url": "https://open.spotify.com/track/6UVPuIgNTVNpqyX3YGoj1T"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
-        "name": "The Pennsylvania Vikings",
-        "url": "https://open.spotify.com/album/3AEbuPJtClS1zNd8oTJLSD"
-      },
-      "artists": [
-        {
-          "name": "The Del-Vikings",
-          "url": "https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5"
-        }
-      ],
-      "duration_ms": 143492,
-      "name": "Whispering Bells",
-      "url": "https://open.spotify.com/track/146DRoVAxV5jNjv04Pw6XJ"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -699,18 +703,18 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "Presenting the Jive Five",
-        "url": "https://open.spotify.com/album/38QUQ8y53mMhnpd4Yv07CI"
+        "name": "Dirty Dancing: Anniversary Edition",
+        "url": "https://open.spotify.com/album/3LRhyjBARwKrCp28rmcmAM"
       },
       "artists": [
         {
-          "name": "The Jive Five",
-          "url": "https://open.spotify.com/artist/2HWsf577KqaPhXyBFzei7L"
+          "name": "The Five Satins",
+          "url": "https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS"
         }
       ],
-      "duration_ms": 154466,
-      "name": "My True Story",
-      "url": "https://open.spotify.com/track/1zfxyezgvocPSjSVup5ND4"
+      "duration_ms": 185333,
+      "name": "In the Still of the Night",
+      "url": "https://open.spotify.com/track/5XiWLaXiajWLXnQWN7fUWy"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -731,18 +735,18 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "Dirty Dancing: Anniversary Edition",
-        "url": "https://open.spotify.com/album/3LRhyjBARwKrCp28rmcmAM"
+        "name": "Presenting the Jive Five",
+        "url": "https://open.spotify.com/album/38QUQ8y53mMhnpd4Yv07CI"
       },
       "artists": [
         {
-          "name": "The Five Satins",
-          "url": "https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS"
+          "name": "The Jive Five",
+          "url": "https://open.spotify.com/artist/2HWsf577KqaPhXyBFzei7L"
         }
       ],
-      "duration_ms": 185333,
-      "name": "In the Still of the Night",
-      "url": "https://open.spotify.com/track/5XiWLaXiajWLXnQWN7fUWy"
+      "duration_ms": 154466,
+      "name": "My True Story",
+      "url": "https://open.spotify.com/track/1zfxyezgvocPSjSVup5ND4"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -811,18 +815,18 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "Anthology: The Deluxe Collection (Remastered)",
-        "url": "https://open.spotify.com/album/5GuwHCtGYe062YWhAyc0jF"
+        "name": "Doo Wop Classics Vol. 1",
+        "url": "https://open.spotify.com/album/74o0BLyhgBt6bvNqflYNmp"
       },
       "artists": [
         {
-          "name": "Sonny Til & The Orioles",
-          "url": "https://open.spotify.com/artist/0xu2ZjoR7pUPjMIDcJ67dW"
+          "name": "The Chantels",
+          "url": "https://open.spotify.com/artist/08kLJJHCIH3KZGk4FZmWSK"
         }
       ],
-      "duration_ms": 181866,
-      "name": "Crying in the Chapel - Remastered",
-      "url": "https://open.spotify.com/track/53AD8JznNIb0jUZvwFY6MB"
+      "duration_ms": 170000,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/3OQws3wO9koGb1g2QP2YsN"
     }
   ],
   "unique_name": "Doo-Wop Dee Doo",

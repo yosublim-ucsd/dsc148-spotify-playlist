@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Sirens of Lesbos
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,847 likes - 75 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,894 likes - 75 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Everything](https://open.spotify.com/track/6vS6Lz9bQPYtYD00i6pgti) | [Sirens Of Lesbos](https://open.spotify.com/artist/18XyLuKeMMfkTNKTmc6yOU), [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9) | [Peace](https://open.spotify.com/album/7lkoHO7IuanGlzELdbvgaZ) | 3:29 |
+| 1 | [Everything](https://open.spotify.com/track/3q31VYWuho2mEqIkNaH0Kw) | [Sirens Of Lesbos](https://open.spotify.com/artist/18XyLuKeMMfkTNKTmc6yOU), [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9) | [Everything](https://open.spotify.com/album/6wvOvnTGgvM1V0HWn76daC) | 3:29 |
 | 2 | [This Life \(feat\. Tom Smith\)](https://open.spotify.com/track/4I7874tDqZCophpQwyMsEj) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Tom Smith](https://open.spotify.com/artist/5nw0YnxEyqweUJ4Piu9TWM) | [This Life \(feat\. Tom Smith\)](https://open.spotify.com/album/3lorSURnDgAL373NgbkvRz) | 4:08 |
 | 3 | [Watch Me](https://open.spotify.com/track/3Zu4WIeXp4NbQZbcqv1MOr) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Watch Me](https://open.spotify.com/album/7qfq6ubyO9WY1vLFAMAC85) | 3:40 |
 | 4 | [She Is Coming \- Jean Tonique Remix](https://open.spotify.com/track/4qYqjNyEIWX3lSoUVZgCY0) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI) | [She Is Coming \(Jean Tonique Remix\)](https://open.spotify.com/album/4ffi6qFZOWFltGjdOyTPJP) | 3:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/5789JwERVglbf574Olz2Bi) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:35 |
 | 75 | [Skipping Like A Stone \(feat\. Beck\) \- Gerd Janson Remix](https://open.spotify.com/track/3qDaCdP9xU4wMoLYJCipyo) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Skipping Like A Stone \(feat\. Beck\) \[Gerd Janson Remix\]](https://open.spotify.com/album/1sTGjuVWoBksS49T9pOp4b) | 3:05 |
 
-Snapshot ID: `MCxmODdjOWE3ZjUwNTk4YjI5NmZmYzI5OTZiNDQ0NThiNWI2Yjg4NjFi`
+Snapshot ID: `MCxiNGYxYWM4ZGUyZjg0MWUwYTQwMDA0YTI0ZTgyYzk5MzgxM2FhMTJk`

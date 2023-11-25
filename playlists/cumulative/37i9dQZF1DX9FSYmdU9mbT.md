@@ -2,9 +2,9 @@
 
 ### [O Melhor da MPB](https://open.spotify.com/playlist/37i9dQZF1DX9FSYmdU9mbT)
 
-> Os grandes artistas da MPB\. Foto: Djavan
+> Os grandes artistas da MPB\. Foto: Chico Buarque
 
-141 songs - 9 hr 3 min
+142 songs - 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Lenha](https://open.spotify.com/track/03eJrJinZp8ofxM3nQQs9F) | [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Top Hits](https://open.spotify.com/album/1QKWvjU1m1Eh2CJ2TsiPE8) | 4:09 | 2021-12-31 |  |
 | [Lábios Que Beijei](https://open.spotify.com/track/4eCxHYt3VfiffuRSkydhgN) | [Fagner](https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8) | [Lábios Que Beijei](https://open.spotify.com/album/1wUzUUx7Uush6TxCnkp0AS) | 4:04 | 2021-12-31 | 2022-08-27 |
 | [Malandro](https://open.spotify.com/track/4QKBTRNlO2JhK16ZvTjlhU) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Lição de Vida](https://open.spotify.com/album/6kiq9bXzRbrqefDZS2llhA) | 3:11 | 2022-01-20 |  |
-| [Mama África / Brilho de Beleza / Pra Não Dizer Que Não Falei das Flores \- Ao Vivo \| Bônus Track](https://open.spotify.com/track/56QI0cHMqOQRBw4jbNFGZD) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH), [Lazzo Matumbi](https://open.spotify.com/artist/5dW7bJXFalrMehazA9L2yV), [Seu Pereira](https://open.spotify.com/artist/28pAHiB6AXRv8xAFi6y2cw), [Luizinho Calixto](https://open.spotify.com/artist/5RVxzbhV0agb2TSjCD3Kmk), [Escurinho](https://open.spotify.com/artist/4JPtZ1t3FJ7SjLPEAHQswo), [Michi Ruzitschika](https://open.spotify.com/artist/030OnLWDWctqB2Rx6bBOx1) | [Estado de Poesia \(Ao Vivo\) \(Deluxe Edition\)](https://open.spotify.com/album/3mDS3K8Eg7eCJ3Ny8uJG3J) | 9:30 | 2021-12-31 |  |
+| [Mama África / Brilho de Beleza / Pra Não Dizer Que Não Falei das Flores \- Ao Vivo \| Bônus Track](https://open.spotify.com/track/56QI0cHMqOQRBw4jbNFGZD) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH), [Lazzo Matumbi](https://open.spotify.com/artist/5dW7bJXFalrMehazA9L2yV), [Seu Pereira](https://open.spotify.com/artist/28pAHiB6AXRv8xAFi6y2cw), [Luizinho Calixto](https://open.spotify.com/artist/5RVxzbhV0agb2TSjCD3Kmk), [Escurinho](https://open.spotify.com/artist/4JPtZ1t3FJ7SjLPEAHQswo), [Michi Ruzitschika](https://open.spotify.com/artist/030OnLWDWctqB2Rx6bBOx1) | [Estado de Poesia \(Ao Vivo\) \(Deluxe Edition\)](https://open.spotify.com/album/3mDS3K8Eg7eCJ3Ny8uJG3J) | 9:30 | 2021-12-31 | 2023-11-25 |
 | [Maria Maria](https://open.spotify.com/track/2hSz6S13sgIM6lWm2cNYy1) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Trem Azul](https://open.spotify.com/album/0Jl8gxF0bV3CDB2A01Y30N) | 4:20 | 2023-03-17 |  |
 | [Mentiras \- Ao Vivo](https://open.spotify.com/track/7ukIahQfkESY8Wtq6Dy5CQ) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Mentiras \(Ao Vivo\)](https://open.spotify.com/album/7EIvnWGjG2cwm4amIuIpGf) | 2:58 | 2021-12-31 |  |
 | [Metamorfose ambulante](https://open.spotify.com/track/1BGrHLBKZCVGslxe0dSExv) | [Raul Seixas](https://open.spotify.com/artist/7jrRQZg4FZq6dwpi3baKcu) | [City of God](https://open.spotify.com/album/6mRPjqrWgOMZ0sTiZEPZyU) | 3:47 | 2021-12-31 | 2022-07-29 |
@@ -130,6 +130,7 @@
 | [Rosa de Hiroshima](https://open.spotify.com/track/5BUmMyyJviZZ5XxVyfUAjO) | [Secos & Molhados](https://open.spotify.com/artist/4EKJxXaAZapG14Q5FTZoxm) | [Gigantes](https://open.spotify.com/album/0hIgIeXzJlQEEDQcrKJ6Wv) | 1:58 | 2021-12-31 |  |
 | [Sabiá \- Ao Vivo](https://open.spotify.com/track/629DheUXpR6hplX51EWdiw) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Caravanas Ao Vivo](https://open.spotify.com/album/23D3QyvWb50hK2AYNCtpyE) | 3:04 | 2021-12-31 |  |
 | [Samba da Bênção](https://open.spotify.com/track/2moGHNaU8a4j1iowyOiYnF) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Que Falta Você Me Faz](https://open.spotify.com/album/32OEAAkXqmtVjP1ZjCopWs) | 3:02 | 2021-12-31 |  |
+| [Samba do Grande Amor](https://open.spotify.com/track/4tj4BdoordmiTZJcyTjimT) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Que Tal Um Samba? \(Ao Vivo\)](https://open.spotify.com/album/38cyb88pRnyy49dDSuETpO) | 2:50 | 2023-11-24 |  |
 | [Sangue latino](https://open.spotify.com/track/4LxKSGFZOX66wGSsH0kFRE) | [Secos & Molhados](https://open.spotify.com/artist/4EKJxXaAZapG14Q5FTZoxm) | [Gigantes](https://open.spotify.com/album/0hIgIeXzJlQEEDQcrKJ6Wv) | 2:08 | 2021-12-31 |  |
 | [Se Eu Quiser Falar Com Deus](https://open.spotify.com/track/6j7cLMzPmnmlP5f6qQk9Cl) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Se Eu Quiser Falar Com Deus](https://open.spotify.com/album/6IIhhDMiY6Abab01TmzLiV) | 4:35 | 2021-12-31 |  |
 | [Se Todos Fossem Iguais a Você](https://open.spotify.com/track/5KCyS9wZaKo5T6AnKMQ1uG) | [Nana Caymmi](https://open.spotify.com/artist/1hQT9TlJXMBP6Dy4lExSKn) | [Nana, Tom, Vinicius](https://open.spotify.com/album/73qo38bDY4G4RczOWQxDtI) | 2:58 | 2021-12-31 | 2022-11-10 |

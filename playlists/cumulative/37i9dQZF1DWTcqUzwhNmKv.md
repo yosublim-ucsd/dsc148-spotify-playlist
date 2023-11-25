@@ -2,7 +2,7 @@
 
 ### [Kickass Metal](https://open.spotify.com/playlist/37i9dQZF1DWTcqUzwhNmKv)
 
-> Polaris on top of the biggest Metal playlist.
+> Sleep Token on top of the biggest Metal playlist.
 
 559 songs - 1 day 13 hr 31 min
 

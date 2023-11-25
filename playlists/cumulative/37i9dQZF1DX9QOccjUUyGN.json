@@ -377,6 +377,24 @@
     },
     {
       "album": {
+        "name": "A + DE 100",
+        "url": "https://open.spotify.com/album/64OFkeqmlaAx0MK4icLkht"
+      },
+      "artists": [
+        {
+          "name": "Kaf\u00e9",
+          "url": "https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208027,
+      "name": "A + DE 100",
+      "url": "https://open.spotify.com/track/0gEmbs7Enyqe9Fi8E8ZXhE"
+    },
+    {
+      "album": {
         "name": "A Fonte",
         "url": "https://open.spotify.com/album/3FtMnxO2hM0LxEQE4Jfc7h"
       },
@@ -1865,6 +1883,24 @@
     },
     {
       "album": {
+        "name": "Brinquedo Usado",
+        "url": "https://open.spotify.com/album/1pv9JcELtHI9OWG1pIfRaR"
+      },
+      "artists": [
+        {
+          "name": "POLLO",
+          "url": "https://open.spotify.com/artist/6TgVQhHx0BWvzdEQxRnr23"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204800,
+      "name": "Brinquedo Usado",
+      "url": "https://open.spotify.com/track/0NfIFBpgZgX7lCxwERSJsl"
+    },
+    {
+      "album": {
         "name": "Brisa",
         "url": "https://open.spotify.com/album/0PzDO7w9X2c5xuFRSzXVef"
       },
@@ -2512,6 +2548,32 @@
       "duration_ms": 171702,
       "name": "Chuva de Ben\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/30vr0rox6VBWsmAcbuf5yW"
+    },
+    {
+      "album": {
+        "name": "Ciclo Vicioso",
+        "url": "https://open.spotify.com/album/5NZc85gEcg0SbmnApAJYsz"
+      },
+      "artists": [
+        {
+          "name": "Xandr\u00ea",
+          "url": "https://open.spotify.com/artist/7v3aW9XzyzamnU6DAC6vE6"
+        },
+        {
+          "name": "2T",
+          "url": "https://open.spotify.com/artist/3ls0I42IWbgbZFnFCfi21m"
+        },
+        {
+          "name": "Chris Beats Zn",
+          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130588,
+      "name": "Ciclo Vicioso",
+      "url": "https://open.spotify.com/track/21s5zoBqFvYrUI9miinCM4"
     },
     {
       "album": {
@@ -3556,7 +3618,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 136744,
       "name": "Dono do Tempo",
       "url": "https://open.spotify.com/track/6pHT6i4sfrZTE5Y9Omwgzb"
@@ -4871,6 +4933,28 @@
     },
     {
       "album": {
+        "name": "Frango \u00e9 Frango! Travesti \u00e9 Travesti!",
+        "url": "https://open.spotify.com/album/0iM2ePdVPIqqhZRB4wxkDO"
+      },
+      "artists": [
+        {
+          "name": "Boombeat",
+          "url": "https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189440,
+      "name": "Frango \u00e9 Frango! Travesti \u00e9 Travesti!",
+      "url": "https://open.spotify.com/track/6I1rsNRIdyuqVq4JirGDyp"
+    },
+    {
+      "album": {
         "name": "Frio & Calculista",
         "url": "https://open.spotify.com/album/3uAl8UgCy8Qgzff4RKl0rP"
       },
@@ -5116,7 +5200,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 146848,
       "name": "GEMINIANA",
       "url": "https://open.spotify.com/track/2wyFw9zIMvm86zFqC9IAHl"
@@ -7011,6 +7095,28 @@
     },
     {
       "album": {
+        "name": "Love Of The Prod\u00edgio",
+        "url": "https://open.spotify.com/album/6pME6CDIMaoe17y9iOBTyU"
+      },
+      "artists": [
+        {
+          "name": "Kotim",
+          "url": "https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN"
+        },
+        {
+          "name": "CJota",
+          "url": "https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173714,
+      "name": "Mentirosa",
+      "url": "https://open.spotify.com/track/2rvoxrAjeKLaE6Wjtk5PKb"
+    },
+    {
+      "album": {
         "name": "Diamandra",
         "url": "https://open.spotify.com/album/5YhdCHqkkCMJ3AGCilrf4j"
       },
@@ -7916,7 +8022,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 178285,
       "name": "Niggas (feat. Dzalles)",
       "url": "https://open.spotify.com/track/7hvyNLtgwCBIbMLF8uh3FE"
@@ -12380,7 +12486,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 145152,
       "name": "Vinho na Ta\u00e7a",
       "url": "https://open.spotify.com/track/78An0nOO8LbmRqwQnU28F0"

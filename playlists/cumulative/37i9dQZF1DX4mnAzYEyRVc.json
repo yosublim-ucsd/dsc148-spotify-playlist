@@ -5067,6 +5067,24 @@
     },
     {
       "album": {
+        "name": "My Heart Is A Stoner",
+        "url": "https://open.spotify.com/album/5TiR2bIYRPbj5jL66CZkqL"
+      },
+      "artists": [
+        {
+          "name": "Mahout",
+          "url": "https://open.spotify.com/artist/5G2nAYF3qHfYs8BdbXIVVw"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210250,
+      "name": "Mexican Border",
+      "url": "https://open.spotify.com/track/0JBXyeLCDEPJ4ENlMeYdTy"
+    },
+    {
+      "album": {
         "name": "El Ska No Est\u00e1 en Extinci\u00f3n",
         "url": "https://open.spotify.com/album/2Gu2UiJbj83jMYCuoEu6xT"
       },
@@ -5502,7 +5520,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 255500,
       "name": "Mudik",
       "url": "https://open.spotify.com/track/3u7pq1wcyrms1poAnD5HuR"
@@ -6382,6 +6400,24 @@
       "duration_ms": 272640,
       "name": "Padre Nuestro",
       "url": "https://open.spotify.com/track/7nOt7uN0iXGuvLRVfvclg5"
+    },
+    {
+      "album": {
+        "name": "Palm Trees and Pines",
+        "url": "https://open.spotify.com/album/1TfmRHcX2VSoLyQu5qDNoS"
+      },
+      "artists": [
+        {
+          "name": "Mad Caddies",
+          "url": "https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220645,
+      "name": "Palm Trees and Pines",
+      "url": "https://open.spotify.com/track/4FzgB1N6xjQnTLWEQgS2VS"
     },
     {
       "album": {
@@ -10444,7 +10480,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 243615,
       "name": "Yes It's True",
       "url": "https://open.spotify.com/track/7otmuOjM6VPcBbagbJznIw"

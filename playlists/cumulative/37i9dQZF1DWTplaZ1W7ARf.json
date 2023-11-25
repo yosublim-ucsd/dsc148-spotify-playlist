@@ -81,6 +81,28 @@
     },
     {
       "album": {
+        "name": "All Night Long",
+        "url": "https://open.spotify.com/album/3WKSeXqTJkMAP8qFYAYSFR"
+      },
+      "artists": [
+        {
+          "name": "Bay Swag",
+          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160120,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/3gw2cdej8K6EaLEzAgs4U0"
+    },
+    {
+      "album": {
         "name": "All The Way Up",
         "url": "https://open.spotify.com/album/7jNtmENfhyfT0BL24uMdSH"
       },
@@ -1402,7 +1424,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 179301,
       "name": "Forgot How To Cry",
       "url": "https://open.spotify.com/track/7eebNlfH4nRdgJQh8e3yMU"
@@ -1584,7 +1606,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 155538,
       "name": "Got It No Mo",
       "url": "https://open.spotify.com/track/0Zdtrfv5sofAp92eo1LC4s"
@@ -3288,6 +3310,24 @@
       "duration_ms": 237262,
       "name": "Peepin Out The Window (with Future & Bslime)",
       "url": "https://open.spotify.com/track/03kozlqpm5twrblZia0m9j"
+    },
+    {
+      "album": {
+        "name": "Perkys For The Pain",
+        "url": "https://open.spotify.com/album/501ucxwX9FGNPjYUK6rRCz"
+      },
+      "artists": [
+        {
+          "name": "OG Bobby Billions",
+          "url": "https://open.spotify.com/artist/6bS1ddLkqrK5Jl6GyKK4j2"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217453,
+      "name": "Perkys For The Pain",
+      "url": "https://open.spotify.com/track/4NH6uz7nK8HIwwXkAGUIWN"
     },
     {
       "album": {

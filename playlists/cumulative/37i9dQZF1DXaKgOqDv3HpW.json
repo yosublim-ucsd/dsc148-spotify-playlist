@@ -1413,6 +1413,24 @@
     },
     {
       "album": {
+        "name": "Foundations",
+        "url": "https://open.spotify.com/album/3lC1z30L9bLTA8vY9QvD9L"
+      },
+      "artists": [
+        {
+          "name": "Adriana Milou",
+          "url": "https://open.spotify.com/artist/1hdDs4wK0nVxEMPc1IXXRb"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Foundations",
+      "url": "https://open.spotify.com/track/4vtTkKRxYq5DqZ3dnkFjyX"
+    },
+    {
+      "album": {
         "name": "Anna's Waltz",
         "url": "https://open.spotify.com/album/1OnOLXhfMvWq65EGVDgDPw"
       },
@@ -1694,7 +1712,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 203374,
       "name": "I Promise",
       "url": "https://open.spotify.com/track/1XH3miXC6EsroQKHct8ygN"

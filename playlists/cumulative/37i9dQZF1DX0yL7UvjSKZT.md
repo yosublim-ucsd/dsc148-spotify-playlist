@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: Sierra Ferrell
 
-350 songs - 21 hr 52 min
+351 songs - 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Just Pick One](https://open.spotify.com/track/77TVhN6bb5SGqHDM7wCqPX) | [Mama's Broke](https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k) | [Just Pick One](https://open.spotify.com/album/5iLEZzs8ZELq9dnK9krazU) | 3:01 | 2022-03-04 |  |
 | [Kalamazoo](https://open.spotify.com/track/2UAlL898aPpEM265wnWV3Q) | [The Show Ponies](https://open.spotify.com/artist/0N12PNPrehNU9PVsJMfdzi) | [How It All Goes Down](https://open.spotify.com/album/0DhpnbqiSrzKDJ2Wk5MkHp) | 5:53 | 2021-10-01 | 2022-07-29 |
 | [Kalamazoo](https://open.spotify.com/track/5PJDK2nTkv1AETAh9LSXSL) | [The Show Ponies](https://open.spotify.com/artist/0N12PNPrehNU9PVsJMfdzi) | [How It All Goes Down](https://open.spotify.com/album/20bd13dm6VyvLpBh3vpuLH) | 5:53 | 2022-07-22 | 2023-06-03 |
+| [Kessler](https://open.spotify.com/track/08mJobF7P3KjQvEDgZ6uRq) | [Moonlight Mile](https://open.spotify.com/artist/7ax4yYo9LU1BlwOIama074) | [Kessler](https://open.spotify.com/album/4Uu2Wvme4SHshmWmQrYj0m) | 3:31 | 2023-11-24 |  |
 | [Kill the Snake](https://open.spotify.com/track/1OOmfxYnKweraqU5y6nta5) | [Chatham Rabbits](https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od) | [Kill the Snake](https://open.spotify.com/album/4XgxQ7cWdvzEkBebsD2fbV) | 3:18 | 2022-04-15 | 2022-10-08 |
 | [Killjoy](https://open.spotify.com/track/6cBVVOLuuCWXh9H9Q47pYF) | [Sarah Gross](https://open.spotify.com/artist/58lbHYipYB2JGbElUXeG2p) | [Killjoy](https://open.spotify.com/album/6CoCJcLjQnNvjYAv485Pec) | 3:57 | 2023-10-20 |  |
 | [Lemons and Tangerines \- Live Session, Paso Robles, CA, 2021](https://open.spotify.com/track/5xIO3D9k6gUGg5ptO1abRk) | [AJ Lee & Blue Summit](https://open.spotify.com/artist/1VwMKPdHxC7tI21tynmXEr), [Jam in the Van](https://open.spotify.com/artist/1CUVxHzaFXiqedLmCt1pKa) | [Jam in the Van \- AJ Lee & Blue Summit \(Live Session, Paso Robles, CA, 2021\)](https://open.spotify.com/album/5fmJvOgfxX37ndWmbnOL2U) | 4:12 | 2022-01-21 | 2022-11-19 |

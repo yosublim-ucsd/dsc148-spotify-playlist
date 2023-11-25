@@ -4,7 +4,7 @@
 
 > Gentle Ambient piano to help you fall asleep.
 
-885 songs - 1 day 20 hr 32 min
+889 songs - 1 day 20 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Center of Attention](https://open.spotify.com/track/3P0y5vYWxPRRekolc4eCHp) | [Angelo Garnier](https://open.spotify.com/artist/7qvvsAZAERVhX0qJ1kq6In) | [Center of Attention](https://open.spotify.com/album/4zzxld3PGyxOkpB09VpW7u) | 3:26 | 2023-01-27 |  |
 | [Cette Montagne](https://open.spotify.com/track/0sMr78LRMvZNviXwmOWGQE) | [Tascenda](https://open.spotify.com/artist/5Xj1fqlAVsgyiKy5K4hy1d) | [Cette Montagne](https://open.spotify.com/album/4NIeCDqaUXOh2WD7jE0qNf) | 3:26 | 2022-09-02 |  |
 | [Chamomile](https://open.spotify.com/track/7dqavwTVYCNJVsXXMli1fM) | [Leah Maur](https://open.spotify.com/artist/5t4Zi1CHP9SPoQ5bcHvJRN) | [Chamomile](https://open.spotify.com/album/1BUrAPfeLyjf2ij8yLDZUt) | 2:53 | 2020-10-20\* | 2021-02-06 |
+| [Changing](https://open.spotify.com/track/4shpPdwshLr1rOzUwLIWIH) | [De Janos](https://open.spotify.com/artist/6MnCLU3GNlSU6WcgJOAjwl) | [Changing](https://open.spotify.com/album/7MQoVjYeZi5C5kn801Ccwf) | 3:03 | 2023-11-24 |  |
 | [Changing Places](https://open.spotify.com/track/5WmNIkqdsm7rQeFowj0lSX) | [Leyton Miller](https://open.spotify.com/artist/1Ne3d3mvmU8z83OHnVFSxu) | [Changing Places](https://open.spotify.com/album/2rUV1oK9FmH4fnpz1ogjzV) | 2:56 | 2020-10-20\* | 2020-12-12 |
 | [Chia](https://open.spotify.com/track/7kW7FXKmMzmbGvhe0FECQl) | [Marcus Rivero](https://open.spotify.com/artist/29vNrxA7CEM2eKlANyo9Yy) | [The Sudden Change](https://open.spotify.com/album/4zd9ex795plyotGggtA8w3) | 3:04 | 2023-03-09 |  |
 | [Chilling Silence](https://open.spotify.com/track/3VlcsvQirSTpAJfet47IcJ) | [Osteriana](https://open.spotify.com/artist/1tTvqzD47dcgaRbQTNjgF2) | [Chilling Silence](https://open.spotify.com/album/1Vn2yKkRMV3S2i5QQhOE8p) | 2:26 | 2021-02-06 | 2021-08-17 |
@@ -270,6 +271,7 @@
 | [Enhanced Forest](https://open.spotify.com/track/4LNHbuE2OgsQeVu0j0q0sO) | [Nity Nite](https://open.spotify.com/artist/4guySyIq4d9Uqju9xRakhu) | [Excalibur](https://open.spotify.com/album/6nTu52xbK2nAcKkg1FobsD) | 3:16 | 2020-10-20\* | 2021-05-04 |
 | [Enter The Land Of Dreams](https://open.spotify.com/track/0L4f2UeOE4yBmN12wQZEMf) | [Torino Sky](https://open.spotify.com/artist/4qUuZzHZAeduYNqDbRGITd) | [Enter The Land Of Dreams](https://open.spotify.com/album/1uEzMKeaDNR6R9BMnFXRMe) | 2:48 | 2020-10-20\* | 2021-01-21 |
 | [Eons](https://open.spotify.com/track/538bWp96juSoSBvM7wD2Qm) | [Erratic Peace](https://open.spotify.com/artist/2soZQALc84ALUcZxlDyxPD) | [Eons](https://open.spotify.com/album/1mrlHBWDGAFlIiZooWzedK) | 3:03 | 2021-05-04 | 2021-08-17 |
+| [Epica](https://open.spotify.com/track/1SlPCpAID4a7arQNHlMQR6) | [Ella Watson](https://open.spotify.com/artist/6JWxnRLmLn5kIc1IDLMaja) | [Epica](https://open.spotify.com/album/4TfFxhoAs2ksWIeHTUAyX4) | 3:09 | 2023-11-24 |  |
 | [Epiphany](https://open.spotify.com/track/7etqolbqNqTmybDTIN77pt) | [Aari Kumar](https://open.spotify.com/artist/5u8vwlOeUEwxaklbfP6cnG) | [Epiphany](https://open.spotify.com/album/3QhvbpLgFT2pHsxdirqLW7) | 2:52 | 2022-01-21 | 2023-03-10 |
 | [Espacio Profundo](https://open.spotify.com/track/58qIj9EQyodliH0oNe0CBG) | [Universo](https://open.spotify.com/artist/1Ww4X8PlwRBiocjYoAoQ4N) | [Universo](https://open.spotify.com/album/3LMaJaRCGdEpxeYRKr7zEv) | 3:02 | 2020-10-20\* | 2021-02-06 |
 | [Especial](https://open.spotify.com/track/6l7WoPzesqiAO6MV4s1Xsc) | [Eckhart Lange](https://open.spotify.com/artist/6EbSaSGsX82f6k7pEZNdUW) | [Especial](https://open.spotify.com/album/0CEmX2gNW0VYv6gjgC11kD) | 2:37 | 2023-09-20 |  |
@@ -361,6 +363,7 @@
 | [Gravity Shimmer](https://open.spotify.com/track/5t8M9QXP5SMe6hy6eG8dqh) | [John Goodlove](https://open.spotify.com/artist/1k9phNanPQ2ScqreRWpy2j) | [Total Surrender](https://open.spotify.com/album/5rsR8YlSkGutQK3voIBkU6) | 4:02 | 2020-10-20\* | 2020-12-12 |
 | [Haverzh](https://open.spotify.com/track/0GocVBngN9RHyWlfQnS4Th) | [Iota Psi](https://open.spotify.com/artist/6mkoUM994JIaNGMTix01yW) | [Haverzh](https://open.spotify.com/album/6Ecv6UjUXqs3fTQ5kPqGM3) | 3:07 | 2023-09-15 |  |
 | [Healing Nights](https://open.spotify.com/track/5C1ohEY2mRhaH0t4DwMI84) | [Into A Dream](https://open.spotify.com/artist/4V3QwXoUMFmSF1aJ934nbS) | [The Silent Mind](https://open.spotify.com/album/40YwLU6A5En5HNNUk27z8H) | 3:41 | 2020-10-20\* | 2020-12-12 |
+| [Hemisphere](https://open.spotify.com/track/6CnvPkfLDrexDOZQFMTsi8) | [Solis Occasum](https://open.spotify.com/artist/6bKBTQOaODtyaHOJCnXMSd) | [Hemisphere](https://open.spotify.com/album/0vtUpnunHb8ccIlHSqoYnN) | 3:02 | 2023-11-24 |  |
 | [Heraklion Flight](https://open.spotify.com/track/35WZ0k4EdBorlX8Zd3K26o) | [Lost Fables](https://open.spotify.com/artist/1uTJ77nWT4cR9Ur5HtdHPo) | [Aero](https://open.spotify.com/album/2VJyIjdbZkMnpt55e4olfC) | 4:15 | 2020-10-20\* | 2021-02-06 |
 | [Herinneringen](https://open.spotify.com/track/0CMYUXTTTmI6Lwc0opH2XG) | [Sohn Aelia](https://open.spotify.com/artist/58PoZ2UB30eX8jppZ6B87i) | [Herinneringen](https://open.spotify.com/album/23T1MB2c8969U4LJFrvo3B) | 2:52 | 2022-01-21 |  |
 | [Hibernation](https://open.spotify.com/track/3td70QAqqhGc6NLnXIbG4o) | [Nova Issue](https://open.spotify.com/artist/2JG4r9snKhqze9RGKeGEvh) | [Hibernation](https://open.spotify.com/album/130XxDY9DAdC2uhyB9AGaT) | 3:29 | 2021-07-07 | 2022-03-25 |
@@ -775,6 +778,7 @@
 | [Tawelwch](https://open.spotify.com/track/3dQv95YPj2n9tesVZKN4FT) | [Chieloka](https://open.spotify.com/artist/3IBhxjT8AiBiz7DpMUEjEj) | [Tawelwch](https://open.spotify.com/album/0QlsWt0H3rYHW0nTmuvzIR) | 2:50 | 2022-01-28 |  |
 | [Te Urewera](https://open.spotify.com/track/5phPjqe0T4phCAXczNnYgS) | [Jay Belshaw](https://open.spotify.com/artist/5g3sUkuQbNRfpCCKsmJGl0) | [Te Urewera](https://open.spotify.com/album/6tFLZ7gy4Hdn224gUYvkAy) | 3:04 | 2021-05-04 | 2022-03-16 |
 | [Tears Of Change](https://open.spotify.com/track/3jQlNsMoO2C4NzwoBi9R6v) | [Leon Baker](https://open.spotify.com/artist/3JQJt6xbvE5sawRz3bgKB0) | [Tears Of Change](https://open.spotify.com/album/4OKcUyYXCVMR4FrIsUsCRm) | 2:53 | 2022-12-20 |  |
+| [Tender](https://open.spotify.com/track/45OiJXLGZ6VpCfQ5aeHthU) | [St/llar](https://open.spotify.com/artist/1gfLjawL26XCWfHI8lyi5B) | [Tender](https://open.spotify.com/album/2LhK1JRZO6K3y2s1PtAibB) | 3:03 | 2023-11-24 |  |
 | [Tenderly](https://open.spotify.com/track/1QHQ8xwQpH5MHHZ4jSXX36) | [Elfva](https://open.spotify.com/artist/5kie64trGheZwIDvvwBHF1) | [Tenderly](https://open.spotify.com/album/0A4WqcLZ5WDyVaA18Sngu4) | 2:59 | 2020-12-04 | 2021-05-04 |
 | [The Arco](https://open.spotify.com/track/1Gv5jmYpcXBAKhiCaDjHNW) | [Quadrant Beta](https://open.spotify.com/artist/7c1VTKyjBDzeUERgDiz46f) | [The Arco](https://open.spotify.com/album/5JE4Xl3HU0o5Zgr1iurkdJ) | 3:23 | 2021-09-22 | 2021-10-06 |
 | [The Butterfly Effect](https://open.spotify.com/track/1WLZuGNHUN8H8ylUbJNO1q) | [Mjuk](https://open.spotify.com/artist/1MI6YCbJfKv7EaTI8XcpM6) | [The Butterfly Effect](https://open.spotify.com/album/4HRdyd69XKgZgoNbWZoJOo) | 2:55 | 2020-10-20\* | 2020-12-12 |

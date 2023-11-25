@@ -4,7 +4,7 @@
 
 > back up in the sky
 
-248 songs - 15 hr 4 min
+250 songs - 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [flutter](https://open.spotify.com/track/1D8sCqR7SwxUTwUDqMyUAp) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [flutter](https://open.spotify.com/album/0r2dEhL4Ijur6WDzvgXygl) | 4:27 | 2022-12-12 | 2023-05-25 |
 | [forest green](https://open.spotify.com/track/4ARqMW0NJQpNtqnYHAgbjO) | [flyingfish](https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG) | [forest green](https://open.spotify.com/album/10avrb3XzKDttFJte6w2gR) | 3:27 | 2023-09-29 |  |
 | [Forgotten, Fossilized, Archaic](https://open.spotify.com/track/61YVCATCLSWCAh7xDNN7Kw) | [Autumn's Grey Solace](https://open.spotify.com/artist/0f00mZvxmxeuhmxEot8LlP) | [Within The Depths Of A Darkened Forest](https://open.spotify.com/album/5Gk1Trdz04ixib0LV4LIdy) | 4:43 | 2023-10-31 |  |
+| [gardenside](https://open.spotify.com/track/4poUtXSEEq14Nl00q9Yr0P) | [Swansea Skag](https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T) | [gardenside](https://open.spotify.com/album/5gVEAhuFA0zVlAtn4eYxPV) | 2:36 | 2023-11-24 |  |
 | [gave you my all](https://open.spotify.com/track/4FkQp96ud503gquiM2Ur9l) | [juggler](https://open.spotify.com/artist/0HX7DEWAlnzbE3sikNXQik) | [gave you my all](https://open.spotify.com/album/6f2HSagGc0cJvZAZZraJqp) | 3:13 | 2023-07-13 | 2023-09-30 |
 | [get high, breathe underwater \(\#3\)](https://open.spotify.com/track/7wmtiUjDliyuM6dA2OSAnZ) | [Teen Suicide](https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU) | [honeybee table at the butterfly feast](https://open.spotify.com/album/7240kGNKtkhUSkYy9MPrRB) | 3:51 | 2022-09-02 | 2023-07-14 |
 | [Ghost](https://open.spotify.com/track/4yiCdDyDuTCDpvy3ppYIP1) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Distressor](https://open.spotify.com/album/4Mk9GyIiXwZg9KZN1UvTA2) | 4:12 | 2023-10-31 |  |
@@ -114,6 +115,7 @@
 | [I Don't Need You](https://open.spotify.com/track/7IWdKDoQ3QNaF790h3skyc) | [Acid Ghost](https://open.spotify.com/artist/3DxAikzv8719U68yCVRELD) | [I Don't Need You](https://open.spotify.com/album/2Wl1F5cEimia3CrJO7Jsrm) | 3:06 | 2022-09-02 | 2023-05-25 |
 | [I Get Confused](https://open.spotify.com/track/4SbAeYSD7Fj2rL23sl8m1T) | [The Brooksidez](https://open.spotify.com/artist/3eU81ipH6PM8mWeywCS173) | [Signs Dreams and Memories](https://open.spotify.com/album/51wEqTdb3qnzEbpPNqCXAM) | 2:14 | 2022-09-02 | 2022-12-13 |
 | [I hope we can still be friends](https://open.spotify.com/track/2Fp2eFJSDMZCZ3Pc9OINmp) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [I hope we can still be friends](https://open.spotify.com/album/2DFYfHxIagpHC6SrZ596qo) | 2:31 | 2022-09-02 | 2023-05-25 |
+| [i see pain](https://open.spotify.com/track/7kAkl44rGhMqNpJU66qoKT) | [kurffew](https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz) | [i see pain](https://open.spotify.com/album/5jVDZXzD12zdCEtsmrUGR5) | 2:43 | 2023-11-24 |  |
 | [i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:25 | 2022-12-12 |  |
 | [If I Die](https://open.spotify.com/track/2mTffb4JPUXq31NWaqQgIN) | [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Sometimes / If I Die](https://open.spotify.com/album/0KTScQWu6RzOUg3phjUjlR) | 2:56 | 2023-10-13 |  |
 | [In My Dreams](https://open.spotify.com/track/5cyI9Gh69DQ00AhB7NQ8EU) | [Pleasure Nature](https://open.spotify.com/artist/3ZGM51bHuk90ka2P14mrzQ) | [In My Dreams](https://open.spotify.com/album/5T85Km8fTrr29MTvRGJ0yt) | 3:27 | 2022-09-30 | 2022-12-13 |

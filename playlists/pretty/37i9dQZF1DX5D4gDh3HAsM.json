@@ -1,12 +1,12 @@
 {
   "description": "Jazzy takes on your favorite Holiday songs. Cover: Samara Joy",
-  "num_followers": 522028,
+  "num_followers": 522955,
   "original_name": "Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDYwM2FmMDlkYWFjYjg1NjNkYzVjMWM2ZjlkOWM5Yzg2OTMyNmQ1",
+  "snapshot_id": "MCwxM2I5MTdmNTE0MmQxOGRiOGFhNTQwYTg3ODJmODg3NmZkMTY3OTlh",
   "tracks": [
     {
       "added_at": "2023-11-14 17:07:11",
@@ -413,6 +413,22 @@
       "url": "https://open.spotify.com/track/1Plru2OsTMH5W2O9fyFKsg"
     },
     {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "The Christmas EP",
+        "url": "https://open.spotify.com/album/6ySR5CSUPP9Fp2fKgyqIzq"
+      },
+      "artists": [
+        {
+          "name": "Emmaline",
+          "url": "https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5"
+        }
+      ],
+      "duration_ms": 266166,
+      "name": "You're A Mean One, Mr. Grinch",
+      "url": "https://open.spotify.com/track/6RUQf03CK4UUvHDCyPDscx"
+    },
+    {
       "added_at": "2021-11-12 15:48:58",
       "album": {
         "name": "Christmas Don\u2019t Let Me Down",
@@ -791,34 +807,6 @@
       "duration_ms": 189815,
       "name": "The Christmas Waltz",
       "url": "https://open.spotify.com/track/0NG05wDqGPCQWOkzBErSyn"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "You're a Mean One, Mr. Grinch",
-        "url": "https://open.spotify.com/album/4Evqychsx6JVmElWlLHkyE"
-      },
-      "artists": [
-        {
-          "name": "Leif Shires",
-          "url": "https://open.spotify.com/artist/3YVt5oKfFEE0yJa7yJ3wWE"
-        },
-        {
-          "name": "Pat Coil",
-          "url": "https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503"
-        },
-        {
-          "name": "Jacob Jezioro",
-          "url": "https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df"
-        },
-        {
-          "name": "Danny Gottlieb",
-          "url": "https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM"
-        }
-      ],
-      "duration_ms": 238611,
-      "name": "You're a Mean One, Mr. Grinch",
-      "url": "https://open.spotify.com/track/0Fwkp0jkEylKAOo9xep0JO"
     },
     {
       "added_at": "2022-11-04 04:00:00",

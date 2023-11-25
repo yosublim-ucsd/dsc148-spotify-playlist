@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Latinoam\u00e9rica baila al ritmo de Daddy Yankee.",
+  "description": "Latinoam\u00e9rica baila al ritmo de Rels B y Kenia OS.",
   "name": "El Ritmo",
   "tracks": [
     {
@@ -478,7 +478,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 202894,
       "name": "7 L\u00e1grimas - Remix",
       "url": "https://open.spotify.com/track/3wlX0yg6NRMDPwOvdPmuLn"
@@ -3199,6 +3199,28 @@
     },
     {
       "album": {
+        "name": "Chispeo ft. Ovy On The Drums - Spotify Singles",
+        "url": "https://open.spotify.com/album/19bgWVSbdr6hodfxeJd4wU"
+      },
+      "artists": [
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130602,
+      "name": "Chispeo ft. Ovy On The Drums - Spotify Singles",
+      "url": "https://open.spotify.com/track/2xfDE32mrcMyk9MpBVfY0F"
+    },
+    {
+      "album": {
         "name": "Chiste",
         "url": "https://open.spotify.com/album/0LwOkOMLlcs3NPs0fcrVKA"
       },
@@ -4802,7 +4824,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 158117,
       "name": "DOCE",
       "url": "https://open.spotify.com/track/4PVTQLnioH7nyQw9tqydeH"
@@ -5558,7 +5580,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 171521,
       "name": "EN EL GHETTO #4 (Mamasota)",
       "url": "https://open.spotify.com/track/0DxcodexgP3zyY8jnNhBiW"
@@ -9509,6 +9531,28 @@
     },
     {
       "album": {
+        "name": "Me Tiene Adicto",
+        "url": "https://open.spotify.com/album/64ZyUnJcrzbV8T9YlGjhch"
+      },
+      "artists": [
+        {
+          "name": "Jared",
+          "url": "https://open.spotify.com/artist/7mccMACHaRkUsmX5Y4TPdg"
+        },
+        {
+          "name": "Killua97",
+          "url": "https://open.spotify.com/artist/404oLEm20rXDCHi61f6uvg"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Me Tiene Adicto",
+      "url": "https://open.spotify.com/track/773jYJZITXKRtKFnakI13k"
+    },
+    {
+      "album": {
         "name": "Medayork",
         "url": "https://open.spotify.com/album/6RJQwbAKTyRQ8IFoXmSFhm"
       },
@@ -9934,7 +9978,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 121836,
       "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
       "url": "https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh"
@@ -10617,6 +10661,24 @@
     },
     {
       "album": {
+        "name": "Nervios de Acero",
+        "url": "https://open.spotify.com/album/0Q1CgNC7kxF5R1Ln5LfTO2"
+      },
+      "artists": [
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187368,
+      "name": "Nervios de Acero",
+      "url": "https://open.spotify.com/track/5AtOFc69R8iYQlShJoXB3n"
+    },
+    {
+      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -10650,7 +10712,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 174482,
       "name": "NEXT IN LINE: BORRACHERA LA HP",
       "url": "https://open.spotify.com/track/0NUYkttqncImXKwhHC0z9F"
@@ -11020,10 +11082,28 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 191561,
       "name": "No Te Creas Tanto",
       "url": "https://open.spotify.com/track/3lTqxHwO6NqyGZhOxhWFvV"
+    },
+    {
+      "album": {
+        "name": "No te enamores de \u00e9l",
+        "url": "https://open.spotify.com/album/0iqIzRLZwJlE757cS7Ow6Z"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197366,
+      "name": "No te enamores de \u00e9l",
+      "url": "https://open.spotify.com/track/6R0DBvEERp0MrxqxNsQ6rw"
     },
     {
       "album": {
@@ -11625,6 +11705,24 @@
     },
     {
       "album": {
+        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
+        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134131,
+      "name": "OTRO ROUND",
+      "url": "https://open.spotify.com/track/28SuPULQaeBPA7MEcHG1ns"
+    },
+    {
+      "album": {
         "name": "Pa La Pared",
         "url": "https://open.spotify.com/album/7qxbeqkRWr5RgjQTO87k4I"
       },
@@ -12077,6 +12175,28 @@
     },
     {
       "album": {
+        "name": "Peluche",
+        "url": "https://open.spotify.com/album/4L1RL1AIEsKYyXS7aK8tO6"
+      },
+      "artists": [
+        {
+          "name": "Nino Freestyle",
+          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
+        },
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176493,
+      "name": "Peluche",
+      "url": "https://open.spotify.com/track/7AvSsFrEPmtIMgFrkbHPNy"
+    },
+    {
+      "album": {
         "name": "Pendiente al Paso",
         "url": "https://open.spotify.com/album/7ap8XyPzeSrAUx7O2v7I7c"
       },
@@ -12393,6 +12513,28 @@
     },
     {
       "album": {
+        "name": "PLEBITA",
+        "url": "https://open.spotify.com/album/1LeugvjTI7mdcVwmED0DpW"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147228,
+      "name": "PLEBITA",
+      "url": "https://open.spotify.com/track/2T27yDWUrmTBEF08PH8bFs"
+    },
+    {
+      "album": {
         "name": "Poderosa",
         "url": "https://open.spotify.com/album/2uHtmuxFlU05JMjiM5EsjQ"
       },
@@ -12442,6 +12584,28 @@
       "duration_ms": 288000,
       "name": "POLARIS - Remix",
       "url": "https://open.spotify.com/track/0EhuGnOS6fTc5l5UNtDEH2"
+    },
+    {
+      "album": {
+        "name": "Por Dentro",
+        "url": "https://open.spotify.com/album/0eurPgSTFcfvsgGSqIciS4"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        },
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165981,
+      "name": "Por Dentro",
+      "url": "https://open.spotify.com/track/671fHUAB2n0MocazS1bMB8"
     },
     {
       "album": {
@@ -12544,7 +12708,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 145160,
       "name": "Porsche",
       "url": "https://open.spotify.com/track/1HfgxilGdoMGuSr85ID0mX"
@@ -13602,7 +13766,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 174902,
       "name": "SANGR\u00cdA",
       "url": "https://open.spotify.com/track/4XJk55bxVL2bHHU7SJk1Ko"
@@ -14392,7 +14556,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 188800,
       "name": "Solta-te",
       "url": "https://open.spotify.com/track/2UI3cAPpvUIQDVxZZn9WUo"
@@ -15627,6 +15791,28 @@
     },
     {
       "album": {
+        "name": "TQLEO",
+        "url": "https://open.spotify.com/album/1plVBo1oifzN6Kv9RNF4L0"
+      },
+      "artists": [
+        {
+          "name": "Badly Rouse",
+          "url": "https://open.spotify.com/artist/6mDzBxeWQSzUFBFZ78iWC8"
+        },
+        {
+          "name": "Tomasa del Real",
+          "url": "https://open.spotify.com/artist/3Dz4sliAAIVOlALfHW9TtD"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156704,
+      "name": "TQLEO",
+      "url": "https://open.spotify.com/track/6DM8UReHlQx80cwhVDLZDU"
+    },
+    {
+      "album": {
         "name": "Traductor",
         "url": "https://open.spotify.com/album/5b4J3ESXsrkLZ3hLcoVVpl"
       },
@@ -15664,10 +15850,32 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 133373,
       "name": "Traigan Alcohol",
       "url": "https://open.spotify.com/track/1wZnKMALjutPTCALbEd5Ts"
+    },
+    {
+      "album": {
+        "name": "TRAJECITO",
+        "url": "https://open.spotify.com/album/22pfyMyN1fDcgnlSLNPGGo"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194526,
+      "name": "TRAJECITO",
+      "url": "https://open.spotify.com/track/2NGbCghWkDGTZtknazgEuf"
     },
     {
       "album": {
@@ -16210,6 +16418,24 @@
       "duration_ms": 196974,
       "name": "Verte de Nuevo",
       "url": "https://open.spotify.com/track/7M8BZVPwEvO66vJCZvBXOY"
+    },
+    {
+      "album": {
+        "name": "VESTIDO",
+        "url": "https://open.spotify.com/album/2h2xSUaNodauA8kyky8KIg"
+      },
+      "artists": [
+        {
+          "name": "STRANGEHUMAN",
+          "url": "https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143380,
+      "name": "VESTIDO",
+      "url": "https://open.spotify.com/track/60LZcrgvD5a5vChTbtibL4"
     },
     {
       "album": {
@@ -16920,7 +17146,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 199578,
       "name": "YAYA",
       "url": "https://open.spotify.com/track/4i7y0dm58PDFNgiXtASg6J"

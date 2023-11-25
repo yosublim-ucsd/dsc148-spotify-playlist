@@ -4,7 +4,7 @@
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: <a href="https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj?si=UFddna35Qde6UQ66Vm7Kbg"> KABEAUSHE</a>
 
-174 songs - 10 hr 26 min
+175 songs - 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Polished Masks](https://open.spotify.com/track/4ost2G6dIe7SQpbPrqSDOh) | [S3kyerewaa](https://open.spotify.com/artist/11hUTgOvMopsRpP3JzXsub) | [TWO II](https://open.spotify.com/album/0LxizsZ3vRcN4KwXuShA83) | 3:38 | 2023-06-16 |  |
 | [Present](https://open.spotify.com/track/0qL6DFrJO5Ep1Q7wRjlpQE) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Worry <](https://open.spotify.com/album/2a7v6mAjcRSKp5GVdhEW93) | 2:48 | 2022-03-03 |  |
 | [Pusana](https://open.spotify.com/track/1tXSR1siT7TA16FY70Cy6E) | [Crate Classics](https://open.spotify.com/artist/6Pkxj2NAUsoETNsVLA0DUx), [Tres](https://open.spotify.com/artist/1xOdbBrnyBhqyWkOx1K32l) | [Pusana](https://open.spotify.com/album/6IpyTvQWOtShzCqnZ9ZoWD) | 3:25 | 2022-05-19 | 2023-02-04 |
+| [quiet face](https://open.spotify.com/track/0x2GowE3BwQCG7ZAYwiTxC) | [Nyokabi Kariuki](https://open.spotify.com/artist/04vacT34stkfP2TFkNvDf2) | [FEELING BODY](https://open.spotify.com/album/3D2gBvOa2KhfW0qXjN0lHj) | 3:10 | 2023-11-24 |  |
 | [Rain or Sun](https://open.spotify.com/track/1BPdZEr7bepUhUrKIoLJab) | [Total Hip Replacement](https://open.spotify.com/artist/6m8keKnv7yR5UcUpCEosO5), [KWAME YEBOAH](https://open.spotify.com/artist/50NKRxEVV07QOG72kYaDB2), [Nsoroma](https://open.spotify.com/artist/36dLW3V3CtJ2I3dYYdiO4w) | [Rain or Sun](https://open.spotify.com/album/48LteUpZNIlMtvaj0J6MXb) | 4:14 | 2023-09-09 | 2023-09-15 |
 | [Raise Me Up](https://open.spotify.com/track/4FYldB9dN6Emigix7ppAYO) | [Yorxe](https://open.spotify.com/artist/6S4m4nLUKn7OuavvVKQWv8) | [Raise Me Up](https://open.spotify.com/album/4f7DsT5qVrvPvMEcVWhVOp) | 3:01 | 2023-01-12 | 2023-02-04 |
 | [River](https://open.spotify.com/track/7Ilb1rJj0ZwfeCnNFJu2EL) | [Matt Ngesa](https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35) | [River](https://open.spotify.com/album/23rK7zw01dbxldl7KQYNRu) | 3:38 | 2023-05-26 | 2023-06-03 |

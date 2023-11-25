@@ -785,6 +785,28 @@
     },
     {
       "album": {
+        "name": "All Night Long",
+        "url": "https://open.spotify.com/album/3WKSeXqTJkMAP8qFYAYSFR"
+      },
+      "artists": [
+        {
+          "name": "Bay Swag",
+          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160120,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/3gw2cdej8K6EaLEzAgs4U0"
+    },
+    {
+      "album": {
         "name": "Already Know",
         "url": "https://open.spotify.com/album/4WzqoNvuz17jbj8dSg4quA"
       },
@@ -1024,7 +1046,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 207835,
       "name": "Aye (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/2Hc1LaV6bzFil3dE71eORA"
@@ -3297,6 +3319,28 @@
     },
     {
       "album": {
+        "name": "Cosca",
+        "url": "https://open.spotify.com/album/7mrB72SorH1BWaW8UNPCVe"
+      },
+      "artists": [
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Wun Two",
+          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116756,
+      "name": "Cosca",
+      "url": "https://open.spotify.com/track/2R5rLyz7W77xL7dEsMMNkY"
+    },
+    {
+      "album": {
         "name": "Coulda Been",
         "url": "https://open.spotify.com/album/5MFXnC0QhQ8yZPfwqILrBa"
       },
@@ -3650,7 +3694,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 126857,
       "name": "Deli",
       "url": "https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN"
@@ -4754,7 +4798,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 216703,
       "name": "Endless Fashion (feat. Nicki Minaj)",
       "url": "https://open.spotify.com/track/41bmnQZoDMQdDh5zyomtW7"
@@ -5206,7 +5250,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 158549,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/7bPY7SRKFhkQwsjfJUyH5m"
@@ -5414,7 +5458,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 192727,
       "name": "Flooded The Face",
       "url": "https://open.spotify.com/track/4daEMLSZCgZ2Mt7gNm2SRa"
@@ -6573,6 +6617,24 @@
     },
     {
       "album": {
+        "name": "Gotta Choose",
+        "url": "https://open.spotify.com/album/7JALtNevh46kAzpIzhMLoW"
+      },
+      "artists": [
+        {
+          "name": "Sdot Go",
+          "url": "https://open.spotify.com/artist/73sV26yCMzpIeYxesG3jdV"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122355,
+      "name": "Gotta Choose",
+      "url": "https://open.spotify.com/track/7GPMJcc9gyb5pAzlmgPrbE"
+    },
+    {
+      "album": {
         "name": "Gratuity",
         "url": "https://open.spotify.com/album/3RGJQBgfxj2bYWCoEPoc5e"
       },
@@ -7331,6 +7393,28 @@
     },
     {
       "album": {
+        "name": "How We Get It",
+        "url": "https://open.spotify.com/album/1ClpBOmXZMVGBeN0pcPdoB"
+      },
+      "artists": [
+        {
+          "name": "AZ",
+          "url": "https://open.spotify.com/artist/7HqrSDuI9lHuH1CDismTFg"
+        },
+        {
+          "name": "Fat Joe",
+          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200490,
+      "name": "How We Get It",
+      "url": "https://open.spotify.com/track/7fUWdT1JMsoN0ZHOD9eXpi"
+    },
+    {
+      "album": {
         "name": "Humble Af.",
         "url": "https://open.spotify.com/album/2ONKlkCM8XBO55kgtm9Zvf"
       },
@@ -7504,7 +7588,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 186453,
       "name": "I Can't Lie (with Kodak Black)",
       "url": "https://open.spotify.com/track/3VLsdzHOFM9pyn79QTjiGJ"
@@ -7732,6 +7816,24 @@
       "duration_ms": 212604,
       "name": "If I Go Down - from the film National Champions",
       "url": "https://open.spotify.com/track/5EiJy15UPO6iQSRDoerbv4"
+    },
+    {
+      "album": {
+        "name": "Import Export",
+        "url": "https://open.spotify.com/album/7bDoRkgS1MwS21rZojZSJt"
+      },
+      "artists": [
+        {
+          "name": "Kirk Knight",
+          "url": "https://open.spotify.com/artist/1nSpOxq3pcgomrfpXudQuq"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147720,
+      "name": "Import Export",
+      "url": "https://open.spotify.com/track/3eg4SbUZinCsEaG5BqMIRC"
     },
     {
       "album": {
@@ -8272,7 +8374,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 190320,
       "name": "June 22nd",
       "url": "https://open.spotify.com/track/2uPyRKg62IcLFaGXXw0qEn"
@@ -8862,7 +8964,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 155783,
       "name": "Let's Do It (feat. NLE Choppa & Dee Play4Keeps)",
       "url": "https://open.spotify.com/track/2g2Lp3kUkZ4HqtxBrDu5Tt"
@@ -10850,7 +10952,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 150413,
       "name": "No Angels (with Lola Brooke)",
       "url": "https://open.spotify.com/track/41s7nEKyANNfGaxRyMyFGI"
@@ -11779,6 +11881,24 @@
     },
     {
       "album": {
+        "name": "King Zoo",
+        "url": "https://open.spotify.com/album/1fboUYBvu86pCmFNrLb615"
+      },
+      "artists": [
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118615,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/5HUxZN7PuTML2SkJnBuP5a"
+    },
+    {
+      "album": {
         "name": "Baby Goat 2",
         "url": "https://open.spotify.com/album/77KBd69KrqhbtxT5VKe6bC"
       },
@@ -12598,10 +12718,32 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 151142,
       "name": "Project Walls (feat. YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/0m9cSkuwYOCUWCf48IS5ds"
+    },
+    {
+      "album": {
+        "name": "Project XXX",
+        "url": "https://open.spotify.com/album/2EZrlcbTi3NHvlw0OTAHaX"
+      },
+      "artists": [
+        {
+          "name": "B Jack$",
+          "url": "https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo"
+        },
+        {
+          "name": "MCVERTT",
+          "url": "https://open.spotify.com/artist/5vqMF43W0Sex6zjJJKv7LC"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129229,
+      "name": "Project XXX",
+      "url": "https://open.spotify.com/track/35f1EXgZelEJKJPGo6VWIQ"
     },
     {
       "album": {
@@ -12740,7 +12882,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 133000,
       "name": "Pull Up (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/4EzkcqltSOxYE2lstuLOFs"
@@ -13137,6 +13279,24 @@
     },
     {
       "album": {
+        "name": "ready 2 live!",
+        "url": "https://open.spotify.com/album/0w51x7cat5Md51wQIrFH9R"
+      },
+      "artists": [
+        {
+          "name": "Chow Lee",
+          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129962,
+      "name": "ready 2 live!",
+      "url": "https://open.spotify.com/track/1hbf3w5z3KXCsIxtcSqNcP"
+    },
+    {
+      "album": {
         "name": "Real Hips",
         "url": "https://open.spotify.com/album/6zCOpxRDqFd5SkVytQOrBQ"
       },
@@ -13348,6 +13508,28 @@
       "duration_ms": 135111,
       "name": "Remember (with Nigo)",
       "url": "https://open.spotify.com/track/0PGRXJFSwpn5OAGFpEwiqK"
+    },
+    {
+      "album": {
+        "name": "BLOCKBUSTA",
+        "url": "https://open.spotify.com/album/4XN6Kx1iUxtuhuAfh0zqZN"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201356,
+      "name": "REMIND 'EM (feat. Quavo)",
+      "url": "https://open.spotify.com/track/12bLurKBuh3UpOuLg5ftSV"
     },
     {
       "album": {
@@ -14836,6 +15018,24 @@
       "duration_ms": 142183,
       "name": "Slizzy Talk",
       "url": "https://open.spotify.com/track/1Qvxd1s2lzrXedEjqdYQQn"
+    },
+    {
+      "album": {
+        "name": "Sloppy Seconds (Ick Pt. 2)",
+        "url": "https://open.spotify.com/album/4tl8geDZIbp8ZZNTwpwzDc"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162071,
+      "name": "Sloppy Seconds (Ick Pt. 2)",
+      "url": "https://open.spotify.com/track/00WnaHagi3KLsrbs20OFVt"
     },
     {
       "album": {
@@ -17384,6 +17584,24 @@
       "duration_ms": 139603,
       "name": "Whamm",
       "url": "https://open.spotify.com/track/3DIcTbNf44ekC4Ce9MObZt"
+    },
+    {
+      "album": {
+        "name": "What Happened 2 Me?",
+        "url": "https://open.spotify.com/album/7yZKo3Y1n3RxQklCfzWx8x"
+      },
+      "artists": [
+        {
+          "name": "Is0kenny",
+          "url": "https://open.spotify.com/artist/1gDoTzsseyqOOrvKCCY2sb"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99688,
+      "name": "What Happened 2 Me?",
+      "url": "https://open.spotify.com/track/5GSvt7mMyRlV4O9M8chg1T"
     },
     {
       "album": {

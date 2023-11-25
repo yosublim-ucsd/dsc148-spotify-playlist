@@ -2059,6 +2059,24 @@
     },
     {
       "album": {
+        "name": "Galler-E",
+        "url": "https://open.spotify.com/album/7asa3U3pJ9IHG5PsO602gP"
+      },
+      "artists": [
+        {
+          "name": "E the profit",
+          "url": "https://open.spotify.com/artist/55ZKRn4w3oNhBMV7sgG1PP"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106666,
+      "name": "Busy",
+      "url": "https://open.spotify.com/track/75baMigu6wpU2Lx3CoxYvt"
+    },
+    {
+      "album": {
         "name": "Bye Bye",
         "url": "https://open.spotify.com/album/1oKYKiAwR31eJvkRwpQVrb"
       },
@@ -2778,7 +2796,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 216800,
       "name": "Don't Get Ya Feelings In It (feat. Luh Tyler)",
       "url": "https://open.spotify.com/track/6QdVy8gj2rEDDcrI5npDJS"
@@ -3238,7 +3256,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 234047,
       "name": "Fashion Week",
       "url": "https://open.spotify.com/track/4FjuYI27ToM2hATy6NsJv0"
@@ -3525,6 +3543,24 @@
     },
     {
       "album": {
+        "name": "Free My N***a",
+        "url": "https://open.spotify.com/album/7Mk6Qao19lj3TcpQcDvE3t"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129145,
+      "name": "Free My N***a",
+      "url": "https://open.spotify.com/track/2z7LbO6rugeuWIBOWpncVi"
+    },
+    {
+      "album": {
         "name": "Free The Shiners",
         "url": "https://open.spotify.com/album/5SOJj0pfKKW1qjPqub2tLk"
       },
@@ -3628,7 +3664,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 204800,
       "name": "From The Hood",
       "url": "https://open.spotify.com/track/7jVMNHk15YGRHRXYFoCXK8"
@@ -4270,7 +4306,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 170748,
       "name": "Got Me Hot",
       "url": "https://open.spotify.com/track/5KGRNJjSz2SFRz2tAZRbxB"
@@ -6480,7 +6516,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 125184,
       "name": "Lost & Found",
       "url": "https://open.spotify.com/track/35gPF7j6rBRHKUe4zsXqry"
@@ -8574,6 +8610,32 @@
       "duration_ms": 194047,
       "name": "Pound Town 2 (feat. Nicki Minaj & Tay Keith)",
       "url": "https://open.spotify.com/track/6IEXjer2qbXhRLFv99NQQv"
+    },
+    {
+      "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/0LR35Mz9TSsI87kuvSCSH4"
+      },
+      "artists": [
+        {
+          "name": "Mark Battles",
+          "url": "https://open.spotify.com/artist/24SwsBq76FnNeXW9Do4wPI"
+        },
+        {
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+        },
+        {
+          "name": "Quality Control",
+          "url": "https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138526,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/27NZPKJRrUgtVAoqg06WkY"
     },
     {
       "album": {
@@ -11996,7 +12058,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 135173,
       "name": "Water",
       "url": "https://open.spotify.com/track/5vPUHGrfbCQjTUmlr8JMIN"
@@ -12138,6 +12200,24 @@
       "duration_ms": 181393,
       "name": "What Happened To Virgil (feat. Gunna)",
       "url": "https://open.spotify.com/track/7ohROa13QK43JBRqfCmz4P"
+    },
+    {
+      "album": {
+        "name": "WHAT YOU WANT",
+        "url": "https://open.spotify.com/album/5ZZpCvbAPixOpDD6JMPulF"
+      },
+      "artists": [
+        {
+          "name": "SoFaygo",
+          "url": "https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136270,
+      "name": "WHAT YOU WANT",
+      "url": "https://open.spotify.com/track/6FyTGkolQEgIHp3isy1ZSJ"
     },
     {
       "album": {

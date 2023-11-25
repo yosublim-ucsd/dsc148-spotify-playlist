@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "canzoni felici italiane e internazionali per un settembre preso bene \u2600\ufe0f",
+  "description": "canzoni felici italiane e internazionali per un autunno preso bene \u2600\ufe0f",
   "name": "una playlist felice",
   "tracks": [
     {
@@ -4786,7 +4786,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 122496,
       "name": "Pi\u00f9 Happy",
       "url": "https://open.spotify.com/track/1k12zgoYBe7a7Lr3uNx3xl"
@@ -5372,6 +5372,24 @@
       "duration_ms": 165673,
       "name": "Soldier, Poet, King",
       "url": "https://open.spotify.com/track/3xtiXNDbSKxy20I7D6vFUg"
+    },
+    {
+      "album": {
+        "name": "SoloSolo",
+        "url": "https://open.spotify.com/album/5B5PwF6k8dMRZKgYXXL1qw"
+      },
+      "artists": [
+        {
+          "name": "Spacehippiez",
+          "url": "https://open.spotify.com/artist/1SMNrh8qrsRR3ufDamWNFh"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131752,
+      "name": "SoloSolo",
+      "url": "https://open.spotify.com/track/5L1Nk5pbNYzB6cflojmVck"
     },
     {
       "album": {

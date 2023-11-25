@@ -960,7 +960,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 191882,
       "name": "close 2 u",
       "url": "https://open.spotify.com/track/29ZOn3UbhmHCtVv1ScDwPe"
@@ -1830,6 +1830,24 @@
       "duration_ms": 269249,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh"
+    },
+    {
+      "album": {
+        "name": "get 2 know u",
+        "url": "https://open.spotify.com/album/17pcSdocogAE15G4Vh6qWq"
+      },
+      "artists": [
+        {
+          "name": "henri",
+          "url": "https://open.spotify.com/artist/7nJ5r6Up446alyOTy7Umsf"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215527,
+      "name": "get 2 know u",
+      "url": "https://open.spotify.com/track/2viKyXsVIxLrNgwGwcFGMN"
     },
     {
       "album": {
@@ -5348,7 +5366,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 189350,
       "name": "something we would dance to",
       "url": "https://open.spotify.com/track/3SCxgfMHjQsyQ7fSHw5c9K"

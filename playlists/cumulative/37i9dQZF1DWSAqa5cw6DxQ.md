@@ -4,7 +4,7 @@
 
 > Clear your mind with soothing new age guitar.
 
-165 songs - 8 hr 7 min
+166 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [En Stilla Plats](https://open.spotify.com/track/42aXU4fhzS1bx3rIYowx5c) | [Alva Abrahamson](https://open.spotify.com/artist/1Bnfz5xvq0H2MT2rYSaz5y) | [En Stilla Plats](https://open.spotify.com/album/4wnu2eR9UZ3LWzjx9e0Le9) | 2:59 | 2023-04-06 |  |
 | [Eon](https://open.spotify.com/track/6275BlFfdADtbHAJ2srKet) | [Hedda Young](https://open.spotify.com/artist/1MsiVgU8p0gLDLnGroMkIS) | [Eon](https://open.spotify.com/album/2iSItPlsLKH69eAOUKDugf) | 2:41 | 2023-09-22 |  |
 | [Epigraph](https://open.spotify.com/track/3OcJggIq9Iy4DOP6m3YuZs) | [Cody Wallter](https://open.spotify.com/artist/74gCXv8vhu5ZfQj76y6O7L) | [Epigraph](https://open.spotify.com/album/3SPOXEwsVbH1pT4NPUXnhX) | 2:33 | 2023-05-05 |  |
+| [Epilogue](https://open.spotify.com/track/3SuA0W1bN0TmEl9dXge51i) | [Magnus Hartman](https://open.spotify.com/artist/0mAdUTIB13jBSnfdYp7xKl) | [Epilogue](https://open.spotify.com/album/3veI6Ek6CPU159ZRsZLpaZ) | 2:07 | 2023-11-24 |  |
 | [Essential Transformation](https://open.spotify.com/track/13dIRMP00LvvzqhY9OLOSk) | [Cold Space](https://open.spotify.com/artist/3PxPykyuBn8TuWjnuJ3jIr) | [Essential Transformation](https://open.spotify.com/album/0OlqiG1lP38XGnl5TrITD8) | 4:08 | 2022-07-08 |  |
 | [Everyday Peace](https://open.spotify.com/track/7CGtdNBijQGEvkZeLU4699) | [Moira Kent](https://open.spotify.com/artist/75XVrjr0r3FvwErC3VDPcl) | [Everyday Peace](https://open.spotify.com/album/1UiPNc6vzfDESq9EcXoO0B) | 2:15 | 2022-02-28 | 2023-01-21 |
 | [Exploration Of Nothingness](https://open.spotify.com/track/3BB7bvFdR0uhOKE1RnH4nY) | [Hedda Young](https://open.spotify.com/artist/1MsiVgU8p0gLDLnGroMkIS) | [Exploration Of Nothingness](https://open.spotify.com/album/2EZSjgi3X9HOCvYgjIaMKo) | 2:08 | 2022-02-28 | 2023-10-06 |
@@ -126,7 +127,7 @@
 | [Remember Rain](https://open.spotify.com/track/3xRLIbOyquBObxGPdIZe2A) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Aldo Mythology](https://open.spotify.com/album/290k8TOQf58TGNug3fCWbb) | 2:49 | 2023-08-18 |  |
 | [Reposeful](https://open.spotify.com/track/3212jPly6zOlG8EKmiJ8pf) | [Jonas Bergwall](https://open.spotify.com/artist/0ftaU73nHXEcuyB2BVCLi5) | [Reposeful](https://open.spotify.com/album/6W600f8bk6lwStjaswF53R) | 2:23 | 2023-01-20 |  |
 | [Reposeful Views](https://open.spotify.com/track/1nz7X92O6UlyjKe2qg0lSd) | [Dag Sommer](https://open.spotify.com/artist/7C14yKyhGQefwbz7ckNHmy) | [Reposeful Views](https://open.spotify.com/album/1OM9rRIk5WsQyGIsHmPfZB) | 3:04 | 2023-04-14 |  |
-| [Reset](https://open.spotify.com/track/423CiX74q1x1ngQoZ5tAEY) | [Sierra Rubio](https://open.spotify.com/artist/4qnjQV2WCiNWFyIh42xFcM) | [Reset](https://open.spotify.com/album/1adS1XhqBudKquCDqma83g) | 2:15 | 2022-02-28 |  |
+| [Reset](https://open.spotify.com/track/423CiX74q1x1ngQoZ5tAEY) | [Sierra Rubio](https://open.spotify.com/artist/4qnjQV2WCiNWFyIh42xFcM) | [Reset](https://open.spotify.com/album/1adS1XhqBudKquCDqma83g) | 2:15 | 2022-02-28 | 2023-11-25 |
 | [Restore Calm](https://open.spotify.com/track/2kWgnixsXJN1kOOeTU84fE) | [Palacín](https://open.spotify.com/artist/4AFGBpC7hxvSJArGRadDoL) | [Tremoland](https://open.spotify.com/album/1PLLrdOtibrkAzPxV8j3jj) | 2:35 | 2022-02-28 |  |
 | [Riddles](https://open.spotify.com/track/0q6IHlkLK8Mu1gyVZukEvy) | [Samaneh Awad](https://open.spotify.com/artist/2r6oyERO8APn3d2BXDB3e1) | [Riddles](https://open.spotify.com/album/1v317uEoGbIxuZ9L8aIjxh) | 2:17 | 2023-04-28 |  |
 | [Sail Away](https://open.spotify.com/track/6mamgQsrc9tFBXAEaOqa1Y) | [C\. Lindquist](https://open.spotify.com/artist/59yCLT7odiMwxirAZ4YZaw) | [Sail Away](https://open.spotify.com/album/6aeoXB2a6hKW11kJ4NIfKB) | 5:38 | 2022-05-19 |  |

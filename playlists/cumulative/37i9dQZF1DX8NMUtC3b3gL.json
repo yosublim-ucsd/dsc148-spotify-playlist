@@ -1731,6 +1731,24 @@
     },
     {
       "album": {
+        "name": "Cozy Cabin",
+        "url": "https://open.spotify.com/album/77VvjjPPUHVzYz0Hvo5qPL"
+      },
+      "artists": [
+        {
+          "name": "Elon Husky",
+          "url": "https://open.spotify.com/artist/4MSu62C3898KnZ5tNT3MKI"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178714,
+      "name": "Cozy Cabin",
+      "url": "https://open.spotify.com/track/7nnnBJFl8r283qVvKsMk6z"
+    },
+    {
+      "album": {
         "name": "Creme De La Creme",
         "url": "https://open.spotify.com/album/7rbmVzwB6iBNmLkMGoUmr3"
       },
@@ -3740,6 +3758,24 @@
       "duration_ms": 135000,
       "name": "Just A Few Miles",
       "url": "https://open.spotify.com/track/3N5JOSqTmJoywIMqHngNZH"
+    },
+    {
+      "album": {
+        "name": "just let go",
+        "url": "https://open.spotify.com/album/3mvZhIFRu0cRvtnefLXFBu"
+      },
+      "artists": [
+        {
+          "name": "Cheeky Beez",
+          "url": "https://open.spotify.com/artist/2bsxN6WcHThnyAuPiLscbA"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169230,
+      "name": "just let go",
+      "url": "https://open.spotify.com/track/7btoampX4TCsFEw4Q7KZRS"
     },
     {
       "album": {
@@ -6337,6 +6373,24 @@
     },
     {
       "album": {
+        "name": "Shimmer",
+        "url": "https://open.spotify.com/album/0FyFmv5TUrev7ydzA4HHx2"
+      },
+      "artists": [
+        {
+          "name": "Chekkerz",
+          "url": "https://open.spotify.com/artist/4ymqiB3DtTzSICNZMScTKz"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141260,
+      "name": "Shimmer",
+      "url": "https://open.spotify.com/track/4fjhWALslN4Q9GZ7VtU99p"
+    },
+    {
+      "album": {
         "name": "Shinin'",
         "url": "https://open.spotify.com/album/2QjcsjYwpRoP0dRirJVc8Z"
       },
@@ -6844,6 +6898,24 @@
       "duration_ms": 170500,
       "name": "Sthlm Night",
       "url": "https://open.spotify.com/track/7eMXZGWOAL7clS5ki24HDO"
+    },
+    {
+      "album": {
+        "name": "Still Here",
+        "url": "https://open.spotify.com/album/5l71uz99kUhTzmA1CynluJ"
+      },
+      "artists": [
+        {
+          "name": "Miss Misaki",
+          "url": "https://open.spotify.com/artist/72WUl0K33i5N2nHaAeOw0M"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145500,
+      "name": "Still Here",
+      "url": "https://open.spotify.com/track/6yXp48pov09DBrGIr0AiXu"
     },
     {
       "album": {

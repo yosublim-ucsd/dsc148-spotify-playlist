@@ -706,6 +706,24 @@
     {
       "album": {
         "name": "Closer",
+        "url": "https://open.spotify.com/album/5heDsRjgWf63G0F3dzGEji"
+      },
+      "artists": [
+        {
+          "name": "Otis Kane",
+          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213546,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/2mAMcZ18iCU39tTF0PHvVx"
+    },
+    {
+      "album": {
+        "name": "Closer",
         "url": "https://open.spotify.com/album/6ELbkRCauMrlJbzY0NfFDh"
       },
       "artists": [
@@ -1368,7 +1386,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 249197,
       "name": "Dry",
       "url": "https://open.spotify.com/track/4ug40UefedjvTEXuuIZaQA"
@@ -2174,6 +2192,28 @@
       "duration_ms": 185680,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/5jXECssVEET9zaFn0s2Ar7"
+    },
+    {
+      "album": {
+        "name": "Heaven On Earth",
+        "url": "https://open.spotify.com/album/7cxrsAsuhamOFXS0tY1EPr"
+      },
+      "artists": [
+        {
+          "name": "Baby Bash",
+          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
+        },
+        {
+          "name": "Mikey Jimenez",
+          "url": "https://open.spotify.com/artist/0DgdXuxVB3yXP5U54WZvSL"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164331,
+      "name": "Heaven On Earth",
+      "url": "https://open.spotify.com/track/6JXizpl5Kd1VJiFv1VM58D"
     },
     {
       "album": {
@@ -5242,7 +5282,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 159529,
       "name": "Smile",
       "url": "https://open.spotify.com/track/5fnOfJ4Gm43UQzYpfZuAaZ"

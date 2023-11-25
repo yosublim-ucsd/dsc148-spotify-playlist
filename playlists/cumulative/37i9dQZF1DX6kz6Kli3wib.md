@@ -4,7 +4,7 @@
 
 > Soft electronic music for your dinner.
 
-288 songs - 14 hr 0 min
+289 songs - 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [Summer Haze](https://open.spotify.com/track/5hroJun9AzlCNFDC7ScBol) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Summer Haze](https://open.spotify.com/album/7lZSOlmlbo5nfmXaNtZSzw) | 3:15 | 2022-07-08 |  |
 | [Summertime Love](https://open.spotify.com/track/2h1OAlUkaqGlUdiCsfWy0P) | [Lady Mas](https://open.spotify.com/artist/1dLFAvqPp134vW4ZpZzUYJ) | [Summertime Love](https://open.spotify.com/album/0LcN6YlgfKqBqvdpB29JNM) | 3:20 | 2021-11-11 |  |
 | [Sun Glitches](https://open.spotify.com/track/4J9HHafhgC42Dm18pJUIQo) | [Dream Lanterns](https://open.spotify.com/artist/4gpy3xS2i5lM4Yopidaimg) | [Sun Glitches](https://open.spotify.com/album/2MkOSCMXM1BVOVKZQUrR6h) | 4:01 | 2021-11-11 | 2022-02-11 |
+| [Sunday Things](https://open.spotify.com/track/6LJG84ULDJA9Q1bwEKzkTT) | [Leon FM](https://open.spotify.com/artist/4Yc8THLLISQc6PwYxM1yu1) | [Sunday Things](https://open.spotify.com/album/10k3XBRyUNgr2if36KYXgB) | 2:19 | 2023-11-24 |  |
 | [sunique](https://open.spotify.com/track/7a44ttV7Dp0nxJTXduqgSb) | [roumr](https://open.spotify.com/artist/5Cwole4lK6hzKCGiw4gaxO) | [sunique](https://open.spotify.com/album/60t2NsIUvRFZ6kMTMIg7SH) | 3:08 | 2021-11-11 |  |
 | [Sunny Bliss](https://open.spotify.com/track/2T7kI9QPKQqTaPIFSWOHq9) | [Emapea](https://open.spotify.com/artist/3BiFZY6zbND5L3MEM6niE6) | [Sunny Bliss](https://open.spotify.com/album/0werJhOlcIWNTGO3kuMDqq) | 2:15 | 2022-09-02 | 2023-08-12 |
 | [Sunny Days](https://open.spotify.com/track/5sMoxo9DZqEkDbt13nS9Wi) | [GIM GAM](https://open.spotify.com/artist/6l3713Vu1NzSyc18FhDN8Y) | [Sunny Days](https://open.spotify.com/album/6lid2BG9r2esUAkjLAH5y4) | 4:42 | 2022-07-22 |  |

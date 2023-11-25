@@ -1,13 +1,249 @@
 {
   "description": "A playlist oficial do Carona Podpah, Original Spotify com o <a href=\"spotify:show:1GLSDdk9CDEwziGNIlnb8a\">Podpah</a>",
-  "num_followers": 8061,
+  "num_followers": 8066,
   "original_name": "Carona Podpah com m\u00fasica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MWFkZGE1ZWUxMDAxNDllYjc4OWY5M2I4YjljZWFmNDNmYzMzYTM4",
+  "snapshot_id": "MCw4N2E5Y2VjZmVkYzg2MjgzYjJkNGVjODM2NWNlODliNWQ3NGYxNmRk",
   "tracks": [
+    {
+      "added_at": "2023-11-24 17:30:34",
+      "album": {
+        "name": "Americana Na Vaquejada",
+        "url": "https://open.spotify.com/album/35vat6W0JnjkK3tXIqx1eX"
+      },
+      "artists": [
+        {
+          "name": "Grand\u00e3o Vaqueiro",
+          "url": "https://open.spotify.com/artist/1gveCzOmKMjqEMwuB5kKNH"
+        },
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        }
+      ],
+      "duration_ms": 156330,
+      "name": "Americana Na Vaquejada",
+      "url": "https://open.spotify.com/track/1M6rclDhYmqRBMFGNJOFKB"
+    },
+    {
+      "added_at": "2023-11-24 17:30:34",
+      "album": {
+        "name": "Pra Quebrar a Cara",
+        "url": "https://open.spotify.com/album/17noeiLlv35PJi4QcKqv7W"
+      },
+      "artists": [
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        }
+      ],
+      "duration_ms": 163892,
+      "name": "A Gente Se Entrega",
+      "url": "https://open.spotify.com/track/1GOS5OIo4KywJF7Fw9QR4E"
+    },
+    {
+      "added_at": "2023-11-24 17:30:34",
+      "album": {
+        "name": "O Fant\u00e1stico Mundo De Nattan (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3MsdSA7cGEb95F2IMQUGGJ"
+      },
+      "artists": [
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        }
+      ],
+      "duration_ms": 213968,
+      "name": "Tem Cabare Essa Noite - Ao Vivo",
+      "url": "https://open.spotify.com/track/26wGpqOPBAV2QAXMMYWolQ"
+    },
+    {
+      "added_at": "2023-11-24 17:30:34",
+      "album": {
+        "name": "Joelma",
+        "url": "https://open.spotify.com/album/6THS2SxEna3SEPoo0oQXTo"
+      },
+      "artists": [
+        {
+          "name": "Joelma",
+          "url": "https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM"
+        }
+      ],
+      "duration_ms": 179040,
+      "name": "Voando Pro Par\u00e1",
+      "url": "https://open.spotify.com/track/0rywmdqLgV4ebmnzPvSqmP"
+    },
+    {
+      "added_at": "2023-11-24 17:30:34",
+      "album": {
+        "name": "No Piseiro 2K21",
+        "url": "https://open.spotify.com/album/5Zsznl9EDHvcIlS4mISPaN"
+      },
+      "artists": [
+        {
+          "name": "Banda Djav\u00fa",
+          "url": "https://open.spotify.com/artist/4adpoL1QBRZW6jWjRVMB04"
+        },
+        {
+          "name": "Geandson Rios",
+          "url": "https://open.spotify.com/artist/482Qx0ZT7wB1xHDnpwsRgW"
+        }
+      ],
+      "duration_ms": 205597,
+      "name": "Telefone",
+      "url": "https://open.spotify.com/track/004LR2NO7LGsSP7Ne4LpR1"
+    },
+    {
+      "added_at": "2023-11-24 17:30:34",
+      "album": {
+        "name": "Bicho Solto - O XIII",
+        "url": "https://open.spotify.com/album/1cB12BBKMd9SzfeUi87HaL"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 298360,
+      "name": "Eu Te Devoro",
+      "url": "https://open.spotify.com/track/6wky1KFF0YvgtrFaH4ep9r"
+    },
+    {
+      "added_at": "2023-11-24 17:30:34",
+      "album": {
+        "name": "Ra\u00ed Saia Rodada - As Melhores",
+        "url": "https://open.spotify.com/album/5HbQHol43ar7zgPbg4RU20"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00ed Saia Rodada",
+          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
+        },
+        {
+          "name": "Tony Guerra & Forr\u00f3 Sacode",
+          "url": "https://open.spotify.com/artist/1usT5Rtr5iz4gWLdkxIUhV"
+        }
+      ],
+      "duration_ms": 168658,
+      "name": "Amor de Rapariga",
+      "url": "https://open.spotify.com/track/3FqfOiM2tvrSsFUi5mwFX1"
+    },
+    {
+      "added_at": "2023-11-24 17:30:34",
+      "album": {
+        "name": "Dan\u00e7ando No Campo Minado",
+        "url": "https://open.spotify.com/album/2z17OM6dPj1iltZmLcdb2o"
+      },
+      "artists": [
+        {
+          "name": "Engenheiros Do Hawaii",
+          "url": "https://open.spotify.com/artist/0GNq4xh8uFCyihPurnunf7"
+        }
+      ],
+      "duration_ms": 198760,
+      "name": "At\u00e9 O Fim",
+      "url": "https://open.spotify.com/track/2bCp6mhFTizRp9I1SxyAQX"
+    },
+    {
+      "added_at": "2023-11-24 17:30:34",
+      "album": {
+        "name": "Avi\u00f5es do Forr\u00f3, Vol. 4",
+        "url": "https://open.spotify.com/album/1RcJWWK60UiUkmMDMkRipQ"
+      },
+      "artists": [
+        {
+          "name": "Avi\u00f5es do Forr\u00f3",
+          "url": "https://open.spotify.com/artist/4mnhyGRAuExTL4J0soT4za"
+        }
+      ],
+      "duration_ms": 208535,
+      "name": "Risca Faca",
+      "url": "https://open.spotify.com/track/5BXqaWb8fRDDe1fDi30MfC"
+    },
+    {
+      "added_at": "2023-11-24 17:30:34",
+      "album": {
+        "name": "Avi\u00f5es Fantasy (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1qOhPJ43PrzQMkpUGqNAcy"
+      },
+      "artists": [
+        {
+          "name": "Avi\u00f5es do Forr\u00f3",
+          "url": "https://open.spotify.com/artist/4mnhyGRAuExTL4J0soT4za"
+        }
+      ],
+      "duration_ms": 166217,
+      "name": "Bumbum Granada - Ao Vivo",
+      "url": "https://open.spotify.com/track/1RkpXLUzD8xQd7pgQAyaNI"
+    },
+    {
+      "added_at": "2023-11-24 17:30:34",
+      "album": {
+        "name": "Sofr\u00eancia Ou Fuleragem? (Ao Vivo / Parte 1)",
+        "url": "https://open.spotify.com/album/3DKLn7HZgyaK7zNfhi6pbG"
+      },
+      "artists": [
+        {
+          "name": "Leo Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        },
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        }
+      ],
+      "duration_ms": 155050,
+      "name": "Golzinho Vermelho - Ao Vivo",
+      "url": "https://open.spotify.com/track/2xURVPHtWbb2tjz1B92soa"
+    },
+    {
+      "added_at": "2023-11-24 17:30:34",
+      "album": {
+        "name": "Vampiro",
+        "url": "https://open.spotify.com/album/2Czm8l03F67WEzX8MDruyy"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        }
+      ],
+      "duration_ms": 250434,
+      "name": "Vampiro",
+      "url": "https://open.spotify.com/track/6bTdZ7xfKp3NqqADJ8HLyj"
+    },
+    {
+      "added_at": "2023-11-24 17:30:34",
+      "album": {
+        "name": "Cora\u00e7\u00e3o Cachorro",
+        "url": "https://open.spotify.com/album/22MXULSCWHEYSofgElYc8d"
+      },
+      "artists": [
+        {
+          "name": "Avine Vinny",
+          "url": "https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W"
+        },
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        }
+      ],
+      "duration_ms": 150802,
+      "name": "Cora\u00e7\u00e3o Cachorro",
+      "url": "https://open.spotify.com/track/2RGIuYTsyyHoOCqW0krvNE"
+    },
     {
       "added_at": "2023-11-17 14:56:00",
       "album": {

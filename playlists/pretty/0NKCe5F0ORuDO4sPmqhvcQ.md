@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,892 likes - 138 songs - 7 hr 52 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,893 likes - 142 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,5 +146,9 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 136 | [Red Earth Creek \- Winemaker Remix](https://open.spotify.com/track/4wy471QJmNNGD2PWaWByb6) | [Höhn](https://open.spotify.com/artist/05YiYkc5jTBQOjP5e10g7u), [Winemaker](https://open.spotify.com/artist/3eNJj6RBtXDPkAaXxBH3Hy) | [Red Earth Creek \(Winemaker Remix\)](https://open.spotify.com/album/0FpxqYnlBl5RdUNHaEzcU0) | 4:44 |
 | 137 | [Feel The Need](https://open.spotify.com/track/2wa4S5WSyATZVQUN7fL4L0) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Feel The Need](https://open.spotify.com/album/3eBcoTjDLcgkVo6xBFn3Wj) | 3:35 |
 | 138 | [White Lie](https://open.spotify.com/track/05W5WSaPyW5GCiNY5gOuyH) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k) | [White Lie](https://open.spotify.com/album/6g3FQBSHayd37yO3a77AIH) | 3:18 |
+| 139 | [Pondering Minds](https://open.spotify.com/track/36Pig1iSIarIq3NudqIPNM) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [Khai](https://open.spotify.com/artist/2nUgzaTpZZxmzOh2hGlp64) | [Pondering Minds](https://open.spotify.com/album/0rXMwYMIcqCsH7fmnsimlN) | 4:38 |
+| 140 | [I Could Be \(feat\. valentina cy\)](https://open.spotify.com/track/19yCgFt2hIHCqLyfsAQPTA) | [CHROMEBODIES](https://open.spotify.com/artist/5SY7jZZAfGLD3R9FYwoYGI), [valentina cy](https://open.spotify.com/artist/6VSCooQeDo6An0mx1mhYyx) | [I Could Be \(feat\. valentina cy\)](https://open.spotify.com/album/6tDdVYFLF6PqcnkcLwKrQ0) | 3:26 |
+| 141 | [WannaPlay](https://open.spotify.com/track/0K0Z29VUyxchhKdmMGBNYm) | [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA) | [PraXis](https://open.spotify.com/album/33wang90IMoiP2zLalEAC9) | 3:44 |
+| 142 | [InLuv](https://open.spotify.com/track/38ikGqZ3gwFWGSw2dzaS42) | [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA) | [PraXis](https://open.spotify.com/album/33wang90IMoiP2zLalEAC9) | 3:09 |
 
-Snapshot ID: `MTA1NTksMmVjZjk4Nzk2ZWQ1MzUzYzdmOWZmZjEzNjY5NTQ5NTYxMWExOGM5MA==`
+Snapshot ID: `MTA1NjMsYWExODI0Mjg5MDI4ZTk5ZWM5ZWNiYTdkMTI0OTA1YmQ4NzdiOTBmNg==`

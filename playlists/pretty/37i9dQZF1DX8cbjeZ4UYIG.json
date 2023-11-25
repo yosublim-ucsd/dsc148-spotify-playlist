@@ -1,6 +1,6 @@
 {
   "description": "Classic tunes that shaped and defined the 90s rave scene - a unique era for dance music.",
-  "num_followers": 299609,
+  "num_followers": 299738,
   "original_name": "Rave Classics",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-10-19 16:18:01",
       "album": {
-        "name": "Classics",
-        "url": "https://open.spotify.com/album/28lpBShPdRMmQxT2kEAKMq"
-      },
-      "artists": [
-        {
-          "name": "Joey Beltram",
-          "url": "https://open.spotify.com/artist/4OW0w5K2UNaWtbpRqzWqI0"
-        }
-      ],
-      "duration_ms": 350813,
-      "name": "Energy Flash",
-      "url": "https://open.spotify.com/track/46ddej1ibGIgs58H0wakoK"
-    },
-    {
-      "added_at": "2023-10-19 16:18:01",
-      "album": {
         "name": "Experience",
         "url": "https://open.spotify.com/album/7uSC6NXKlE3zGo0mu8Ik5r"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 331266,
       "name": "Your Love - Remix",
       "url": "https://open.spotify.com/track/6vsy0Bg3BeAyq7INPGEA2o"
+    },
+    {
+      "added_at": "2023-10-19 16:18:01",
+      "album": {
+        "name": "Classics",
+        "url": "https://open.spotify.com/album/28lpBShPdRMmQxT2kEAKMq"
+      },
+      "artists": [
+        {
+          "name": "Joey Beltram",
+          "url": "https://open.spotify.com/artist/4OW0w5K2UNaWtbpRqzWqI0"
+        }
+      ],
+      "duration_ms": 350813,
+      "name": "Energy Flash",
+      "url": "https://open.spotify.com/track/46ddej1ibGIgs58H0wakoK"
     },
     {
       "added_at": "2023-10-19 16:18:01",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-10-19 16:18:01",
       "album": {
+        "name": "Tell Me Why",
+        "url": "https://open.spotify.com/album/7nf0pfKVjqF7zAmudyu7JQ"
+      },
+      "artists": [
+        {
+          "name": "Rachel Wallace",
+          "url": "https://open.spotify.com/artist/2wfU1vhvZxd5wBQFsWkH5b"
+        }
+      ],
+      "duration_ms": 287276,
+      "name": "Tell Me Why - M&M Full Vocal",
+      "url": "https://open.spotify.com/track/272RmS2rS59JVBhlSR0cMv"
+    },
+    {
+      "added_at": "2023-10-19 16:18:01",
+      "album": {
         "name": "Klass of '92 - '95 (Lesson 3)",
         "url": "https://open.spotify.com/album/5oHQcV6vmrKk1suY99ORYK"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 221066,
       "name": "C\u00fcbik",
       "url": "https://open.spotify.com/track/5BxETnZ8Dzm86jcuFAozOa"
-    },
-    {
-      "added_at": "2023-10-19 16:18:01",
-      "album": {
-        "name": "Tell Me Why",
-        "url": "https://open.spotify.com/album/7nf0pfKVjqF7zAmudyu7JQ"
-      },
-      "artists": [
-        {
-          "name": "Rachel Wallace",
-          "url": "https://open.spotify.com/artist/2wfU1vhvZxd5wBQFsWkH5b"
-        }
-      ],
-      "duration_ms": 287276,
-      "name": "Tell Me Why - M&M Full Vocal",
-      "url": "https://open.spotify.com/track/272RmS2rS59JVBhlSR0cMv"
     }
   ],
   "unique_name": "Rave Classics",

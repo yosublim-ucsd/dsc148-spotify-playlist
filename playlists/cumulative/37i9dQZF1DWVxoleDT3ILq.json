@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-16",
-  "description": "Todo el sonido indie de Chile. Foto: Pedropiedra",
+  "description": "Todo el sonido indie de Chile. Foto: Estoy Bien",
   "name": "Indie Chile",
   "tracks": [
     {
@@ -2363,6 +2363,28 @@
     },
     {
       "album": {
+        "name": "Apoyo Emocional",
+        "url": "https://open.spotify.com/album/1G5jvDrtoyDSZGz9juVFqb"
+      },
+      "artists": [
+        {
+          "name": "Estoy Bien",
+          "url": "https://open.spotify.com/artist/3L2tBKYsn5RF3NM1NLQEda"
+        },
+        {
+          "name": "Sim\u00f3n Campusano",
+          "url": "https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221826,
+      "name": "El Sonido De Las Campanas",
+      "url": "https://open.spotify.com/track/7H01fPYJe56IldvnvtGrpY"
+    },
+    {
+      "album": {
         "name": "Cuentos del Nuevo Jard\u00edn",
         "url": "https://open.spotify.com/album/6YmFJdP4eHaH3o404jSj4v"
       },
@@ -3573,6 +3595,24 @@
     },
     {
       "album": {
+        "name": "La Casa Gana",
+        "url": "https://open.spotify.com/album/6pawFPYHWVGitTT9iSqNcN"
+      },
+      "artists": [
+        {
+          "name": "Crist\u00f3bal Brice\u00f1o",
+          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300272,
+      "name": "La Casa Gana",
+      "url": "https://open.spotify.com/track/2XxDJqTFLMaLhbQfDOgiYz"
+    },
+    {
+      "album": {
         "name": "Bestia",
         "url": "https://open.spotify.com/album/5MxhmYS9jmITi4mqz6FAX9"
       },
@@ -4732,7 +4772,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 184124,
       "name": "NO",
       "url": "https://open.spotify.com/track/41ISYYrvwGoG5i261zTOTJ"
@@ -7856,7 +7896,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 221625,
       "name": "Una Mitad de M\u00ed",
       "url": "https://open.spotify.com/track/38bIIeg1Dcjnry2PhkvPdo"

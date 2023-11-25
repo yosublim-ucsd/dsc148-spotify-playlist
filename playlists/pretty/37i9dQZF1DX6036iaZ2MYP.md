@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Midas the Jagaban
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,488 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,536 likes - 49 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 42 | [Opposés](https://open.spotify.com/track/10cXtrKUCAqtqKYWJOLR7b) | [Lhiroyd](https://open.spotify.com/artist/30ISUZ5Xkto4CyeClftpG8), [Alicia.](https://open.spotify.com/artist/497jP4B8qjwywlQShLt7TU) | [Afroland : Bleu Nuit](https://open.spotify.com/album/1fmvqeOzCZji4DcGVFZtLa) | 2:35 |
 | 43 | [Rowanda](https://open.spotify.com/track/32W2XSNHGRMPm3GKEuHm3r) | [Zefanio](https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Rowanda](https://open.spotify.com/album/0w2FJiew9Pjcp63aATXuV5) | 3:32 |
 | 44 | [Back](https://open.spotify.com/track/0GEX3Viy33NfvCax4GUREd) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Back](https://open.spotify.com/album/26PeJZE5BuDDc95AM07vX5) | 2:18 |
-| 45 | [Katana \(feat\. Jungeli\)](https://open.spotify.com/track/7wdSNcLfqVXJHcECtEZ5ZI) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Emma'a](https://open.spotify.com/album/492YAgwbV47RfRlhs2GA9w) | 2:04 |
-| 46 | [BAD TILL ETERNITY \(feat\. Zlatan\)](https://open.spotify.com/track/2iJxQENVp6qHhHv1rdoPtX) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [BAD TILL ETERNITY \(feat\. Zlatan\)](https://open.spotify.com/album/4REcDrYHUkwAsyFH51SbOi) | 2:53 |
-| 47 | [Pull Up](https://open.spotify.com/track/0IBxgBMEp0Bdjb0SCZ2SPk) | [Jaywillz](https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk) | [Pull Up](https://open.spotify.com/album/6TXaWaOHkfq2h1UUNBMTOH) | 2:58 |
-| 48 | [Doucement](https://open.spotify.com/track/5yLTF2TaQbWwbWCdnOtXic) | [MK](https://open.spotify.com/artist/5r4Ip1WtFkVnYgeoYeq2kb) | [Doucement](https://open.spotify.com/album/6JlJJMgyYHS3ShaNZHM0bc) | 2:35 |
-| 49 | [Badman Love](https://open.spotify.com/track/1fDTVpr032sozi3eJl3PKt) | [Jayboogz](https://open.spotify.com/artist/5tTHX8CPiN6VMR8YEWecSS) | [Badman Love](https://open.spotify.com/album/4IWeBBTpKqsnjdoccWmpbL) | 2:55 |
-| 50 | [Câlin](https://open.spotify.com/track/055A214tvDRBmiCcSWiQ2c) | [Teevii](https://open.spotify.com/artist/0BsnEMjLXXT5SZW6CksSTp) | [Câlin](https://open.spotify.com/album/1PYfLY7mmLIEpD0u9UowAS) | 2:05 |
+| 45 | [BAD TILL ETERNITY \(feat\. Zlatan\)](https://open.spotify.com/track/2iJxQENVp6qHhHv1rdoPtX) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [BAD TILL ETERNITY \(feat\. Zlatan\)](https://open.spotify.com/album/4REcDrYHUkwAsyFH51SbOi) | 2:53 |
+| 46 | [Pull Up](https://open.spotify.com/track/0IBxgBMEp0Bdjb0SCZ2SPk) | [Jaywillz](https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk) | [Pull Up](https://open.spotify.com/album/6TXaWaOHkfq2h1UUNBMTOH) | 2:58 |
+| 47 | [Doucement](https://open.spotify.com/track/5yLTF2TaQbWwbWCdnOtXic) | [MK](https://open.spotify.com/artist/5r4Ip1WtFkVnYgeoYeq2kb) | [Doucement](https://open.spotify.com/album/6JlJJMgyYHS3ShaNZHM0bc) | 2:35 |
+| 48 | [Badman Love](https://open.spotify.com/track/1fDTVpr032sozi3eJl3PKt) | [Jayboogz](https://open.spotify.com/artist/5tTHX8CPiN6VMR8YEWecSS) | [Badman Love](https://open.spotify.com/album/4IWeBBTpKqsnjdoccWmpbL) | 2:55 |
+| 49 | [Câlin](https://open.spotify.com/track/055A214tvDRBmiCcSWiQ2c) | [Teevii](https://open.spotify.com/artist/0BsnEMjLXXT5SZW6CksSTp) | [Câlin](https://open.spotify.com/album/1PYfLY7mmLIEpD0u9UowAS) | 2:05 |
 
-Snapshot ID: `MCxjMDVhZmFlZWM3MDdhMDAwNjhkMzJhYWMwMjlmMzRiZWFmYTkyOGM0`
+Snapshot ID: `MCw3ZmUyYTZkN2U2ZmM3ZDYwYTA5ODg3YjYyOWYwZmM4NTE3YTNlOGNj`

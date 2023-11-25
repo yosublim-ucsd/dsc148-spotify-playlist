@@ -1,12 +1,12 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 449633,
+  "num_followers": 449771,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjFkOTJjZGE5ZDdkODg1OGRjMTAzNzMzYzJlY2QyZWJlM2JhZTA4",
+  "snapshot_id": "MCwxNjIyMjc5OTI2YTlkM2VjOTEzNzY0YmU4N2I4MWE5YmNlNzYwMTE2",
   "tracks": [
     {
       "added_at": "2023-11-24 00:01:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
+        "name": "Umami",
+        "url": "https://open.spotify.com/album/6om5wLwMEeQcY1Uwlh7Oel"
+      },
+      "artists": [
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "duration_ms": 184938,
+      "name": "Petit Prince Du Macadam",
+      "url": "https://open.spotify.com/track/3cCLvbMCHMgX7DLXPr1ALv"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
         "name": "Untold Business",
         "url": "https://open.spotify.com/album/186HTycU1jAk9PociChcpO"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 213387,
       "name": "Everything\u2019s Gonna Be Alright",
       "url": "https://open.spotify.com/track/21lbj2ezsvMg0XoeBL49bw"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
-        "name": "Umami",
-        "url": "https://open.spotify.com/album/6om5wLwMEeQcY1Uwlh7Oel"
-      },
-      "artists": [
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        }
-      ],
-      "duration_ms": 184938,
-      "name": "Petit Prince Du Macadam",
-      "url": "https://open.spotify.com/track/3cCLvbMCHMgX7DLXPr1ALv"
     },
     {
       "added_at": "2023-11-24 00:01:00",

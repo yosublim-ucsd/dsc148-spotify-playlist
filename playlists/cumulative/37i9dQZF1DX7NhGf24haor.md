@@ -4,7 +4,7 @@
 
 > Updated weekly \| Hardstyle \| Cover: Gunz For Hire \(Ran\-D & Adaro\)
 
-665 songs - 1 day 12 hr 21 min
+666 songs - 1 day 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,7 +388,8 @@
 | [Never Take Me Alive](https://open.spotify.com/track/1ZcOXjxLOaG6JfDthfEtiQ) | [Endymion](https://open.spotify.com/artist/1dWCpNKvuNDv2rE4gCVNwj), [I WAS THE LION](https://open.spotify.com/artist/0hYPQPYA6Wu90339kq6046) | [Never Take Me Alive](https://open.spotify.com/album/0Qe7Yvt2HmjafD6UYIrBIs) | 4:37 | 2023-05-18 | 2023-06-26 |
 | [New Generation](https://open.spotify.com/track/02dLy4a6fenVwNuL877d9j) | [Kronos](https://open.spotify.com/artist/2B3mYtzGes0f92Yfn4mVQD) | [New Generation](https://open.spotify.com/album/2D533gf1t4nLg9yuIvbDdS) | 2:19 | 2023-10-12 |  |
 | [Next Level](https://open.spotify.com/track/3rYbbTaZpgTkgTVM0TgaSo) | [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr), [Sub Sonik](https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l) | [Next Level](https://open.spotify.com/album/4V5Unm0OwUFn32saWfnqgU) | 3:28 | 2023-03-09 | 2023-07-01 |
-| [Nine 2 Five](https://open.spotify.com/track/1qPJHuTYqCa4VwlpZRhUVs) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Nine 2 Five](https://open.spotify.com/album/6s4XltvvPnGX6rv75FrQMd) | 2:23 | 2023-11-23 |  |
+| [Nine 2 Five](https://open.spotify.com/track/1qPJHuTYqCa4VwlpZRhUVs) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Nine 2 Five](https://open.spotify.com/album/6s4XltvvPnGX6rv75FrQMd) | 2:23 | 2023-11-23 | 2023-11-25 |
+| [Nine 2 Five](https://open.spotify.com/track/5zylS3y0Yh4slf7IM1UFai) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Nine 2 Five](https://open.spotify.com/album/1kTIfYlljukpQidDcdZh3e) | 2:23 | 2023-11-23 |  |
 | [No Guts No Glory \(Defqon.1 Anthem 2015\) \- Edit Version](https://open.spotify.com/track/5niWktDYrgqE6FbStUkeDS) | [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT), [Skits Vicious](https://open.spotify.com/artist/6wagDejDLL6ujxepmXcj9m) | [No Guts No Glory \(Defqon.1 Anthem 2015\)](https://open.spotify.com/album/7qCywPCmgkThjMMuvJXWfJ) | 5:58 | 2023-06-18 | 2023-06-26 |
 | [No More \(feat\. Veronica Bravo\)](https://open.spotify.com/track/0aAHHE4Gs1MgL1WVVHYqvX) | [Lockdown](https://open.spotify.com/artist/11ESC6KI0jpdML0CijeROt), [Marnage](https://open.spotify.com/artist/1WVacTvQLSx5Kg3sji9WZP), [Veronica Bravo](https://open.spotify.com/artist/3xIHOffeC188QWHIiCaLXr) | [No More \(feat\. Veronica Bravo\)](https://open.spotify.com/album/57NU4PCcrt5z9aeDq5hsXR) | 2:49 | 2023-04-20 | 2023-07-28 |
 | [No Normal Salvation](https://open.spotify.com/track/5ed60efGstSyBothslQaxF) | [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD) | [No Normal Salvation](https://open.spotify.com/album/7wdevlsHroWB2DcNBPmtD4) | 4:30 | 2023-08-17 | 2023-08-22 |

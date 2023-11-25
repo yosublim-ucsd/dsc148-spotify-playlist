@@ -1,6 +1,6 @@
 {
   "description": "The best new music by independent artists and labels, featuring Alan Troy. Updates every Wednesday.",
-  "num_followers": 172836,
+  "num_followers": 172843,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,22 @@
     {
       "added_at": "2023-11-15 06:00:00",
       "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/0N8VLr0WiDxkexS9wLr6f0"
+      },
+      "artists": [
+        {
+          "name": "Sessi",
+          "url": "https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX"
+        }
+      ],
+      "duration_ms": 138800,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/3JOaWtqZIoilfjtcDe1Qzb"
+    },
+    {
+      "added_at": "2023-11-15 06:00:00",
+      "album": {
         "name": "ntendp",
         "url": "https://open.spotify.com/album/5IESmcewxuYZh3A4OMtXIv"
       },
@@ -487,22 +503,6 @@
     {
       "added_at": "2023-11-15 06:00:00",
       "album": {
-        "name": "Diamante y L\u00e1grima",
-        "url": "https://open.spotify.com/album/5LUxPQ5YEkWH0rKz20FQLY"
-      },
-      "artists": [
-        {
-          "name": "Baby City Club",
-          "url": "https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h"
-        }
-      ],
-      "duration_ms": 200174,
-      "name": "Diamante y L\u00e1grima",
-      "url": "https://open.spotify.com/track/76SatmEoGFfKiA6qVuBg7s"
-    },
-    {
-      "added_at": "2023-11-15 06:00:00",
-      "album": {
         "name": "Riley (S)",
         "url": "https://open.spotify.com/album/3qiAqPoSj9fpCiDLwgENe0"
       },
@@ -515,6 +515,22 @@
       "duration_ms": 178040,
       "name": "Riley",
       "url": "https://open.spotify.com/track/3tQpd0YrAwWK8YGP3aRj8D"
+    },
+    {
+      "added_at": "2023-11-15 06:00:00",
+      "album": {
+        "name": "Diamante y L\u00e1grima",
+        "url": "https://open.spotify.com/album/5LUxPQ5YEkWH0rKz20FQLY"
+      },
+      "artists": [
+        {
+          "name": "Baby City Club",
+          "url": "https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h"
+        }
+      ],
+      "duration_ms": 200174,
+      "name": "Diamante y L\u00e1grima",
+      "url": "https://open.spotify.com/track/76SatmEoGFfKiA6qVuBg7s"
     },
     {
       "added_at": "2023-11-15 06:00:00",
@@ -551,6 +567,22 @@
     {
       "added_at": "2023-11-15 06:00:00",
       "album": {
+        "name": "No llamaste",
+        "url": "https://open.spotify.com/album/1VybcvZTjsmeh2YTcIQF5H"
+      },
+      "artists": [
+        {
+          "name": "Mica Sotera",
+          "url": "https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1"
+        }
+      ],
+      "duration_ms": 234541,
+      "name": "No llamaste",
+      "url": "https://open.spotify.com/track/3Ai0LAvak9jRvvNiNav1dr"
+    },
+    {
+      "added_at": "2023-11-15 06:00:00",
+      "album": {
         "name": "Apocal\u00edptico",
         "url": "https://open.spotify.com/album/0kFnFOhodIwr3UY0f2JQXn"
       },
@@ -563,22 +595,6 @@
       "duration_ms": 197647,
       "name": "Apocal\u00edptico",
       "url": "https://open.spotify.com/track/3jpi95EBQXXKTdd510DQBe"
-    },
-    {
-      "added_at": "2023-11-15 06:00:00",
-      "album": {
-        "name": "Motel Kilomango",
-        "url": "https://open.spotify.com/album/2Et2imBWvYQ8XJYrBbwsqp"
-      },
-      "artists": [
-        {
-          "name": "Adrie",
-          "url": "https://open.spotify.com/artist/4RuSib7ZtJd4SI61XGkCto"
-        }
-      ],
-      "duration_ms": 173512,
-      "name": "Drowning",
-      "url": "https://open.spotify.com/track/3oa7Q4VLpv9YYbpp741qih"
     },
     {
       "added_at": "2023-11-15 06:00:00",
@@ -599,6 +615,22 @@
     {
       "added_at": "2023-11-15 06:00:00",
       "album": {
+        "name": "Motel Kilomango",
+        "url": "https://open.spotify.com/album/2Et2imBWvYQ8XJYrBbwsqp"
+      },
+      "artists": [
+        {
+          "name": "Adrie",
+          "url": "https://open.spotify.com/artist/4RuSib7ZtJd4SI61XGkCto"
+        }
+      ],
+      "duration_ms": 173512,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/3oa7Q4VLpv9YYbpp741qih"
+    },
+    {
+      "added_at": "2023-11-15 06:00:00",
+      "album": {
         "name": "Ya Se Fue",
         "url": "https://open.spotify.com/album/6SFW7nOwBJK61hJLnfU2PX"
       },
@@ -611,22 +643,6 @@
       "duration_ms": 170904,
       "name": "Ya Se Fue",
       "url": "https://open.spotify.com/track/6JQ3tU4PwJr51FW9YRKq43"
-    },
-    {
-      "added_at": "2023-11-15 06:00:00",
-      "album": {
-        "name": "No llamaste",
-        "url": "https://open.spotify.com/album/1VybcvZTjsmeh2YTcIQF5H"
-      },
-      "artists": [
-        {
-          "name": "Mica Sotera",
-          "url": "https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1"
-        }
-      ],
-      "duration_ms": 234541,
-      "name": "No llamaste",
-      "url": "https://open.spotify.com/track/3Ai0LAvak9jRvvNiNav1dr"
     },
     {
       "added_at": "2023-11-15 06:00:00",
@@ -695,22 +711,6 @@
     {
       "added_at": "2023-11-15 06:00:00",
       "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/0N8VLr0WiDxkexS9wLr6f0"
-      },
-      "artists": [
-        {
-          "name": "Sessi",
-          "url": "https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX"
-        }
-      ],
-      "duration_ms": 138800,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/3JOaWtqZIoilfjtcDe1Qzb"
-    },
-    {
-      "added_at": "2023-11-15 06:00:00",
-      "album": {
         "name": "Lim\u00f3n",
         "url": "https://open.spotify.com/album/6lAhiTHG3kXbI3i028N3oa"
       },
@@ -732,8 +732,8 @@
       },
       "artists": [
         {
-          "name": "Mueres en el mar",
-          "url": "https://open.spotify.com/artist/7nDRCrPWyorRS27T7fMJKe"
+          "name": "Mueres En El Mar",
+          "url": "https://open.spotify.com/artist/3uSAEMMv8UuIz8Dfvc3Xx1"
         },
         {
           "name": "SCD",

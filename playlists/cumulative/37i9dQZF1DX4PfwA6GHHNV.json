@@ -174,7 +174,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-23",
+      "date_removed": null,
       "duration_ms": 199012,
       "name": "Anel da Pandora",
       "url": "https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU"
@@ -244,7 +244,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 169250,
       "name": "Cabeza",
       "url": "https://open.spotify.com/track/5y6IrzbBkHqV0E0Dzg2DkZ"
@@ -456,7 +456,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 191020,
       "name": "Corpo Nu",
       "url": "https://open.spotify.com/track/7MJPdQG7vz2LanUrsVuyJN"
@@ -1105,6 +1105,32 @@
     },
     {
       "album": {
+        "name": "O Que Ela Tem?",
+        "url": "https://open.spotify.com/album/2VzqF8GFXe6zF6xho5ZBJ7"
+      },
+      "artists": [
+        {
+          "name": "Volpato",
+          "url": "https://open.spotify.com/artist/2oRKjDzl0iaeEyk8SO2pWl"
+        },
+        {
+          "name": "BETINHO",
+          "url": "https://open.spotify.com/artist/51CZxgpuuYyBfyM99WEnWa"
+        },
+        {
+          "name": "Dalua",
+          "url": "https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "O Que Ela Tem?",
+      "url": "https://open.spotify.com/track/68csPARkvDN7lXPnqJJFja"
+    },
+    {
+      "album": {
         "name": "Encruzilhada",
         "url": "https://open.spotify.com/album/2Mfu5KHRKxv7NwkyKbFnwk"
       },
@@ -1412,7 +1438,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 177115,
       "name": "Rodeo",
       "url": "https://open.spotify.com/track/2vxlmjVmQJzYqo5zOcbDP5"
@@ -1698,6 +1724,28 @@
       "duration_ms": 215572,
       "name": "T\u00f4 Aqui de Novo",
       "url": "https://open.spotify.com/track/275dNEWSB7w03WE4v9JZPo"
+    },
+    {
+      "album": {
+        "name": "Verdade ou Ilus\u00e3o",
+        "url": "https://open.spotify.com/album/23pMQXiRHWuovyRxKGJpCA"
+      },
+      "artists": [
+        {
+          "name": "Abayomi",
+          "url": "https://open.spotify.com/artist/2uDMCuJTV24DEJJh4p5dc0"
+        },
+        {
+          "name": "Mr. Dan",
+          "url": "https://open.spotify.com/artist/0tEbPIVxu2YOmZXOWAkJ52"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204019,
+      "name": "Verdade ou Ilus\u00e3o",
+      "url": "https://open.spotify.com/track/2kX3tbCZwWHnS2zRS8FLcO"
     },
     {
       "album": {

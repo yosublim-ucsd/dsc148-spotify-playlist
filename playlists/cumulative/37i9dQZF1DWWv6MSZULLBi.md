@@ -2,9 +2,9 @@
 
 ### [Folk & Friends](https://open.spotify.com/playlist/37i9dQZF1DWWv6MSZULLBi)
 
-> A laid\-back trip in the folk scene\. Cover: Chance Peña
+> A laid\-back trip in the folk scene\. Cover: Elisapie
 
-634 songs - 1 day 14 hr 45 min
+638 songs - 1 day 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Coal](https://open.spotify.com/track/2M6MUNGK2VZEb7WQWt8tUY) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Beneath Oak Trees](https://open.spotify.com/album/5rxcUws1sdLRSVBLbQw6JK) | 3:14 | 2023-10-27 |  |
 | [Cocoon](https://open.spotify.com/track/02S4BqhislMrIaDBl8lsKP) | [Jordan Klassen](https://open.spotify.com/artist/70QS2gTlkKW2rNjlmMBNp8) | [Cocoon](https://open.spotify.com/album/7MODNKHR8XR73kkh0BWITu) | 3:31 | 2023-07-21 | 2023-10-21 |
 | [collarbone](https://open.spotify.com/track/6QASovTU1wUcXQf5rHf9fU) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [collarbone](https://open.spotify.com/album/1bt86fE1GNk3sEKsY5ZHgP) | 3:23 | 2023-11-10 |  |
-| [Come on By](https://open.spotify.com/track/1zYY2CKpDuGchopm3RYSKy) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Come on By](https://open.spotify.com/album/0BNAxaSKj1NIDQQnEBYrOX) | 3:25 | 2023-10-27 |  |
+| [Come on By](https://open.spotify.com/track/1zYY2CKpDuGchopm3RYSKy) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Come on By](https://open.spotify.com/album/0BNAxaSKj1NIDQQnEBYrOX) | 3:25 | 2023-10-27 | 2023-11-25 |
 | [Comeback](https://open.spotify.com/track/7JC0Llg55ocb30jdJSjO8C) | [Luke Wallace](https://open.spotify.com/artist/4L7pFHjo5Tv5CT58UYTDm6) | [Comeback](https://open.spotify.com/album/7mThlkMaVrBly1Yb93TrxF) | 4:01 | 2022-05-13 | 2022-06-11 |
 | [Coming Home](https://open.spotify.com/track/3cThhPUrZb0kCyMP16wuCq) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Coming Home](https://open.spotify.com/album/4eYQjUjsAlXey57Roncuyk) | 3:11 | 2022-05-13 | 2022-05-20 |
 | [Coming Like A Storm](https://open.spotify.com/track/21ZZoNpWAzqYgiTJdAZ23X) | [Reuben And The Dark](https://open.spotify.com/artist/6eXJslu7IJJ6Ej8Czbd0iO) | [Coming Like A Storm](https://open.spotify.com/album/6EzioNrB5s89cA1CSYao1i) | 3:21 | 2022-06-10 | 2022-09-24 |
@@ -318,6 +318,7 @@
 | [Kansas](https://open.spotify.com/track/0x0OjST3CNulTlhzLybBc9) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Kansas](https://open.spotify.com/album/6Pjx7eyaHx64bGn2LUr9Dx) | 3:31 | 2023-08-11 | 2023-10-21 |
 | [Knock The Wind](https://open.spotify.com/track/16zmpunEamESQNJWqUUGih) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Knock The Wind](https://open.spotify.com/album/2P5Hbwj8Pl8ZJI5X5lbsAG) | 2:45 | 2023-08-18 | 2023-08-22 |
 | [Knock The Wind](https://open.spotify.com/track/72elIQIbmE6rLBvXXsknK5) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Dizzy](https://open.spotify.com/album/18B8EjYaDsWbukaC6dXyvc) | 2:45 | 2023-08-18 | 2023-11-11 |
+| [Know the Night](https://open.spotify.com/track/0hfjholWfyL1cxsvjwkzM8) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Know the Night](https://open.spotify.com/album/1rKrDA2rrti4WOKjsF4XWm) | 3:10 | 2023-11-24 |  |
 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 | 2023-03-24 | 2023-07-01 |
 | [Lately](https://open.spotify.com/track/4jIguNAkXc1KhaNjPNo6Bl) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Shelter](https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL) | 3:30 | 2023-07-07 |  |
 | [Lazy River](https://open.spotify.com/track/48BvKO5IOnwr8EDzKQNcIU) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Lazy River](https://open.spotify.com/album/5JvVAYl9FDztt3pFlFl1iT) | 3:54 | 2023-02-10 | 2023-07-08 |
@@ -347,6 +348,7 @@
 | [Loose Ends](https://open.spotify.com/track/63zDvmBVcYFsSdv1khtFX0) | [Kyle Church](https://open.spotify.com/artist/6LamrVF16MEe2AO5WAGodJ) | [Loose Ends](https://open.spotify.com/album/0OHpfNdFdOeqf5OSb6RZSS) | 4:04 | 2023-04-14 | 2023-05-06 |
 | [Lost In The Water](https://open.spotify.com/track/3sW1rJ2twqyUKXu5iHqgGK) | [Adam Wendler](https://open.spotify.com/artist/3ea4XDPCrAm68rpImApb94) | [Lost In The Water](https://open.spotify.com/album/5nG0Wogo87eozwXnKHjXJ4) | 3:10 | 2022-07-01 | 2022-08-31 |
 | [Lotusland](https://open.spotify.com/track/3sK6qdQsZvPjRkua3UrSGD) | [Jordan Klassen](https://open.spotify.com/artist/70QS2gTlkKW2rNjlmMBNp8) | [Glossolalia](https://open.spotify.com/album/66hCqmyDrUMjZrooeuG1PM) | 3:21 | 2022-05-13 | 2022-10-22 |
+| [Love Is a Stranger \- Spotify Singles](https://open.spotify.com/track/1BSirCglKNnJ39ag8fhiK0) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Spotify Singles](https://open.spotify.com/album/5bbRNKzRs3j44dxQR9SzJ3) | 3:42 | 2023-11-24 |  |
 | [Love Is Selfish](https://open.spotify.com/track/5ZsJidhpJJ4qFhmp5h5oyk) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Love Is Selfish](https://open.spotify.com/album/3XzfsUkZx4TCGdchhJBI1A) | 2:52 | 2022-05-13 | 2022-09-17 |
 | [Love Wouldn't Take Me Back](https://open.spotify.com/track/5a4XN7YQHhgFN2Dbcu28od) | [Ten Kills the Pack](https://open.spotify.com/artist/73avNAcHbfmgcSGEjKit9l) | [Thank You for Trying: ACT I](https://open.spotify.com/album/4c4wjCUhgmyR2nOGmd9gGl) | 3:59 | 2022-09-16 | 2022-12-17 |
 | [Maggie](https://open.spotify.com/track/6Zwrxz3uCj8Pbx9ohCRD7W) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Maggie](https://open.spotify.com/album/6qx5cnOifPpGkSu6jFLXZA) | 2:58 | 2023-01-20 | 2023-06-03 |
@@ -446,7 +448,7 @@
 | [Psycho](https://open.spotify.com/track/5K4RNsbpTAYfmxV0uh2OU3) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [White Limo Stuck In The Snow](https://open.spotify.com/album/73gnvlOHq9e2IbEQC3H8fu) | 4:29 | 2023-10-20 |  |
 | [Psycho](https://open.spotify.com/track/64xpMEva0Mp715x0APgbvQ) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Good Ol Days](https://open.spotify.com/album/0AYf7a5HfwRars592KS1Dr) | 4:29 | 2023-09-15 | 2023-10-21 |
 | [Qaumajur](https://open.spotify.com/track/4iEYvfQHN2ceUpZS852rnm) | [Putumayo](https://open.spotify.com/artist/7k8vgAYpmLCJNOs1J8SB8X), [Juurini](https://open.spotify.com/artist/4hJndL9GhSQZ3rymH5P5cx), [Beatrice Deer](https://open.spotify.com/artist/3YEhsztAtjqpC0JikHMmYe) | [Qaumajur](https://open.spotify.com/album/63FnoKSa6gnqhLykGflXTI) | 3:34 | 2023-08-04 |  |
-| [Qimatsilunga \(I Want to Break Free\)](https://open.spotify.com/track/3s7edrMgsb2GHt36L0mFOp) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Qimatsilunga \(I Want to Break Free\)](https://open.spotify.com/album/5ILR1GcWMyPSkEfWBsqwfZ) | 4:03 | 2023-09-15 |  |
+| [Qimatsilunga \(I Want to Break Free\)](https://open.spotify.com/track/3s7edrMgsb2GHt36L0mFOp) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Qimatsilunga \(I Want to Break Free\)](https://open.spotify.com/album/5ILR1GcWMyPSkEfWBsqwfZ) | 4:03 | 2023-09-15 | 2023-11-25 |
 | [Qimmijuat \(Wild Horses\)](https://open.spotify.com/track/3Rt3viQJXYZ72pLpqmL1C2) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Qimmijuat \(Wild Horses\)](https://open.spotify.com/album/464WdsCECkTzqIEv3ITRrD) | 5:29 | 2023-08-04 | 2023-09-16 |
 | [Rabbit Hole](https://open.spotify.com/track/36MNQV3Kw7wL3VKZIPsaVl) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Rabbit Hole](https://open.spotify.com/album/0vki8QdI8o4MSUN0arMXfV) | 2:22 | 2022-07-29 | 2022-09-24 |
 | [Rainbow](https://open.spotify.com/track/6cglXxd6F4eWXr6nVXE2Ac) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8) | [Rainbow](https://open.spotify.com/album/5kcZWZvnwksb7zBUD7H53P) | 3:45 | 2023-05-05 | 2023-06-09 |
@@ -461,6 +463,7 @@
 | [Robin](https://open.spotify.com/track/5Ma2vRYotanVRTZuhOguZM) | [Genesis Ritchot](https://open.spotify.com/artist/3G7RNCad1xTbtGy4GYMZhm) | [Robin](https://open.spotify.com/album/68LVD0utr1na8Y0NOyH2h0) | 3:22 | 2022-05-13 | 2022-09-24 |
 | [Rolling Stone](https://open.spotify.com/track/44QpElmFBK9jewAfK5osmc) | [Gert Taberner](https://open.spotify.com/artist/3Jy7XwrGPgOEq4OxRODWbf) | [Rolling Stone / New York](https://open.spotify.com/album/3FX5u4NRsdqBzG4D19yn4L) | 3:47 | 2022-05-13 | 2022-06-11 |
 | [Room Service](https://open.spotify.com/track/5NURmMpR9TkfYroyf9HcJQ) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Paint My Bedroom Black](https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB) | 3:46 | 2023-11-10 |  |
+| [Running Out of Time](https://open.spotify.com/track/6LYWoOmdoxbLcqTWA0uBMP) | [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Running Out of Time](https://open.spotify.com/album/5GFgdQo0ECaJSUbOoZ0Qu6) | 3:32 | 2023-11-24 |  |
 | [Sad All The Time \- Bonus Track](https://open.spotify.com/track/05SLKEyD0ZnGLEsCMx4FAf) | [Mariel Buckley](https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV) | [Everywhere I Used to Be \(Deluxe\)](https://open.spotify.com/album/7r5UvKF4coPqePysjqIHx9) | 2:40 | 2023-07-07 | 2023-09-09 |
 | [Safe Flight \- Acoustic](https://open.spotify.com/track/2e8vuU33xtWNOPtPzCcDJa) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Safe Flight \(Acoustic\)](https://open.spotify.com/album/5oIF7vKLlB1trWhyCKIeul) | 3:59 | 2022-08-12 | 2023-03-18 |
 | [Sailors](https://open.spotify.com/track/2zo2zOxH0wpLWX80jYsaWF) | [Matiu](https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE), [Kanen](https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC) | [Sailors](https://open.spotify.com/album/2ZkWGXSW6wuOp8maQ5vbp7) | 4:01 | 2022-05-13 | 2022-10-15 |
@@ -605,6 +608,7 @@
 | [What In The World](https://open.spotify.com/track/2tnP8nZxy6lx3qow73IZ7A) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL) | [What In The World](https://open.spotify.com/album/36t9kuw9Y14nkK8aOceiFY) | 3:42 | 2022-05-13 | 2022-07-29 |
 | [What in the World](https://open.spotify.com/track/6Bt8N0YVzHZsQYqKIGwmEv) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL) | [Come Morning](https://open.spotify.com/album/70Lbc0nDNzvJb4UBDXVU6K) | 3:42 | 2022-07-22 | 2022-09-10 |
 | [What Remains](https://open.spotify.com/track/718WbSuYzjlBxu4MshY3e0) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [What Remains](https://open.spotify.com/album/2YIO4ZeMpjH5g5ZSQSvchV) | 4:16 | 2022-08-12 | 2022-09-24 |
+| [What You Don’t Know](https://open.spotify.com/track/6tp9ZObhuYqZb1lNPyMXxf) | [Martin Kerr](https://open.spotify.com/artist/3Qg69CFtPUh3Uu14OfjV2t) | [What You Don't Know](https://open.spotify.com/album/1fKYAXIj2jDoT5amgBVbSc) | 2:59 | 2023-11-24 |  |
 | [When Did I Grow Up?](https://open.spotify.com/track/5OQc60sLFAKinNJpZ2QDr4) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [When Did I Grow Up?](https://open.spotify.com/album/2HNtL0Gt037SCCMV1r5DcF) | 2:49 | 2023-03-31 | 2023-05-27 |
 | [When I Fly](https://open.spotify.com/track/3OKoCqjPpCJUYQAlnCS2dV) | [Jadea Kelly](https://open.spotify.com/artist/3ro4f3VnPO6PiAah0POgwD) | [Roses](https://open.spotify.com/album/0t2iOdlsZEn4DmXMkRKBIe) | 3:25 | 2022-05-13 | 2022-10-01 |
 | [When I Was a Girl in Colorado](https://open.spotify.com/track/7fEXK4nlHRU4WyGDCwx9AT) | [Judy Collins](https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn) | [When I Was a Girl in Colorado](https://open.spotify.com/album/75sA20SoPvoZCsXdg0NKMx) | 5:00 | 2022-05-13 | 2022-08-20 |
@@ -637,10 +641,10 @@
 | [You'll Never Get To Heaven With That Attitude](https://open.spotify.com/track/69ayK3fANIcCgiiF05xRsr) | [Scott Orr](https://open.spotify.com/artist/12vInSu21rqLXfH6QKTLl1) | [You'll Never Get to Heaven With That Attitude](https://open.spotify.com/album/57WeEXLDRuasGenvl7ljv8) | 3:41 | 2022-06-03 | 2022-11-26 |
 | [You're My Winter](https://open.spotify.com/track/5u6vKboXSgqGxh7dCWy6tQ) | [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Songs I Wish I Wrote](https://open.spotify.com/album/7nkoBpcjx1dmXS8yRCqMUS) | 3:36 | 2022-12-23 | 2023-05-20 |
 | [You're the One](https://open.spotify.com/track/2YEN8LRUuTViNyCGeUQukS) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [You're the One](https://open.spotify.com/album/6RBTZpN4KkTLDbPdSUYRPJ) | 3:25 | 2023-05-12 | 2023-09-02 |
-| [You're the One](https://open.spotify.com/track/3TPQJ4fzrDgG8SChcHhtO8) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [You're the One](https://open.spotify.com/album/3k6GZZ7QUpFQlNjuPizVEZ) | 3:25 | 2023-09-01 |  |
+| [You're the One](https://open.spotify.com/track/3TPQJ4fzrDgG8SChcHhtO8) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [You're the One](https://open.spotify.com/album/3k6GZZ7QUpFQlNjuPizVEZ) | 3:25 | 2023-09-01 | 2023-11-25 |
 | [Young \- Spotify Singles](https://open.spotify.com/track/764lmcFd4PTTZtxcksPLDR) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Spotify Singles](https://open.spotify.com/album/7rTB3uvhAwdwSTxDp1l3nf) | 3:49 | 2023-09-29 |  |
 | [Your Beautiful Self](https://open.spotify.com/track/0R2V3TO0hv1QQmLICsxBHJ) | [Land of Talk](https://open.spotify.com/artist/0mEF6nwliNqJuMldWFPuvo) | [Your Beautiful Self](https://open.spotify.com/album/2lCbzs1hrhbnh1Ra7HafE3) | 4:12 | 2023-08-18 |  |
-| [Your Hand in Mine](https://open.spotify.com/track/69hxfX2XVJwbJONF32a0kR) | [Martin Kerr](https://open.spotify.com/artist/3Qg69CFtPUh3Uu14OfjV2t) | [Don't Listen to Me](https://open.spotify.com/album/0YN8HCMApGlIZv075BmKpz) | 3:51 | 2023-07-21 |  |
+| [Your Hand in Mine](https://open.spotify.com/track/69hxfX2XVJwbJONF32a0kR) | [Martin Kerr](https://open.spotify.com/artist/3Qg69CFtPUh3Uu14OfjV2t) | [Don't Listen to Me](https://open.spotify.com/album/0YN8HCMApGlIZv075BmKpz) | 3:51 | 2023-07-21 | 2023-11-25 |
 | [You’d Like to Believe](https://open.spotify.com/track/6yEMIk1gWqatcZm2bSGEeM) | [Ten Kills the Pack](https://open.spotify.com/artist/73avNAcHbfmgcSGEjKit9l) | [You'd Like to Believe](https://open.spotify.com/album/6jAsIfTjQWYzrDHab7f1Eb) | 3:15 | 2022-12-16 | 2023-05-20 |
 
 \*This playlist was first scraped on 2022-05-14. Prior content cannot be recovered.

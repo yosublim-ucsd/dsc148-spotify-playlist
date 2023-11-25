@@ -4,7 +4,7 @@
 
 > Relax to these chilled instrumental Christmas tunes.
 
-70 songs - 3 hr 51 min
+71 songs - 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Still, Still, Still](https://open.spotify.com/track/28hC0zMOkbVZBNPw0NJTdN) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Christmas Piano with Alexis](https://open.spotify.com/album/2YymiUCe4WEr0GBJ0aSLFx) | 1:52 | 2023-10-13 |  |
 | [The Christmas Song](https://open.spotify.com/track/2ZqwIozv140VtUIcKllHQJ) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [The Christmas Song](https://open.spotify.com/album/1b1lifPc4Un5xuO9LJjcdd) | 3:15 | 2021-12-16 |  |
 | [The Christmas Song \(Chestnuts Roasting On An Open Fire\)](https://open.spotify.com/track/1oGv4rDnVsy1gjRe8xkzEz) | [Mel Tormé and Robert Wells](https://open.spotify.com/artist/2OsA2lCQCoBnZieSdGUVfN), [Elliott Jacqués](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [The Christmas Song \(Chestnuts Roasting On An Open Fire\)](https://open.spotify.com/album/5Alx7HeL1vtAV2crddvB3h) | 3:15 | 2021-12-16 | 2022-07-29 |
+| [The First Christmas](https://open.spotify.com/track/3JsIen630AIZTAiGpEHgkU) | [Goldbæk](https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO) | [The First Christmas](https://open.spotify.com/album/3mggmM1Msp3b5gvsZfs5Yg) | 2:47 | 2023-11-24 |  |
 | [The First Noel](https://open.spotify.com/track/0f9O0RNskatv4lzUK6axjy) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [A Solo Piano Christmas](https://open.spotify.com/album/2bG3qQqkhWssPLeGtEwvzY) | 3:44 | 2021-12-16 |  |
 | [The Wexford Carol](https://open.spotify.com/track/2DUq09XWvzX2QRXKs3ZMUH) | [Carducci String Quartet](https://open.spotify.com/artist/4cKOYjPLQGb79166NxfeyI) | [The Wexford Carol](https://open.spotify.com/album/2avlZClfTbrRCAMttmcPuE) | 2:37 | 2023-10-20 |  |
 | [Walking in the Air \- Piano Solo](https://open.spotify.com/track/1s7kwpJPuBhHVO0WuEgFmE) | [Howard Blake](https://open.spotify.com/artist/3Hf08nPu2dPY3sdngyHQei), [Joe Alexander Shepherd](https://open.spotify.com/artist/0LN3ADKCdqFQv7uJ1kZjBa) | [Walking in the Air \(Piano Solo\)](https://open.spotify.com/album/2OL3V55VQa6cl2QNpOXF2K) | 3:39 | 2021-12-16 | 2022-07-29 |

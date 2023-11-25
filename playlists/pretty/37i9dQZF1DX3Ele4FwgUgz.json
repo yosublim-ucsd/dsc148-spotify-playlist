@@ -1,12 +1,12 @@
 {
   "description": "Music from \"Love Live! Nijigasaki High School Idol Club\" \u300c\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a\u300d\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\n\u00a92022 \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
-  "num_followers": 13131,
+  "num_followers": 13139,
   "original_name": "Love Live! Nijigasaki High School Idol Club \u30e9\u30d6\u30e9\u30a4\u30d6!\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTVmMWM3NmZjZDViYmZiMjE2YTVlOGQzZTRjYmQ4ZWE0ZTM0NThh",
+  "snapshot_id": "MCw0OWQ1MmRiNTliNmY5NGE4MWY2OGU0NTY2YTcyZTZiZjgyZDQzYTRm",
   "tracks": [
     {
       "added_at": "2023-11-07 18:16:32",
@@ -227,22 +227,6 @@
     {
       "added_at": "2023-11-07 18:16:32",
       "album": {
-        "name": "Eternal Light",
-        "url": "https://open.spotify.com/album/5zkPtKjefIE5nBluB7N9vm"
-      },
-      "artists": [
-        {
-          "name": "DiverDiva",
-          "url": "https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd"
-        }
-      ],
-      "duration_ms": 246893,
-      "name": "Eternal Light",
-      "url": "https://open.spotify.com/track/3uG7brmuuZ3wvajMrOf6L2"
-    },
-    {
-      "added_at": "2023-11-07 18:16:32",
-      "album": {
         "name": "Eutopia / EMOTION / stars we chase (\u4e09\u8239\u681e\u5b50\u76e4)",
         "url": "https://open.spotify.com/album/0LiQMHhv95LfzN5RkdkP5T"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 230693,
       "name": "EMOTION",
       "url": "https://open.spotify.com/track/5hi5zEqlG3kXMDVH84i7N7"
+    },
+    {
+      "added_at": "2023-11-07 18:16:32",
+      "album": {
+        "name": "Eternal Light",
+        "url": "https://open.spotify.com/album/5zkPtKjefIE5nBluB7N9vm"
+      },
+      "artists": [
+        {
+          "name": "DiverDiva",
+          "url": "https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd"
+        }
+      ],
+      "duration_ms": 246893,
+      "name": "Eternal Light",
+      "url": "https://open.spotify.com/track/3uG7brmuuZ3wvajMrOf6L2"
     },
     {
       "added_at": "2023-11-07 18:16:32",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-11-07 18:16:32",
       "album": {
-        "name": "Just Believe!!!",
-        "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
-      },
-      "artists": [
-        {
-          "name": "\u4e09\u8239\u681e\u5b50 (CV.\u5c0f\u6cc9\u840c\u9999)",
-          "url": "https://open.spotify.com/artist/2wFPTxM1Xl1f5vUk1jPY3d"
-        }
-      ],
-      "duration_ms": 234240,
-      "name": "\u6c7a\u610f\u306e\u5149",
-      "url": "https://open.spotify.com/track/5bKOT6xcTF9SLJw4sKgb2s"
-    },
-    {
-      "added_at": "2023-11-07 18:16:32",
-      "album": {
         "name": "Dream with You / Poppin' Up! / DIVE! (\u512a\u6728\u305b\u3064\u83dc\u76e4)",
         "url": "https://open.spotify.com/album/2B6zWwAKJXh0RMSne3pQvZ"
       },
@@ -403,6 +387,22 @@
     {
       "added_at": "2023-11-07 18:16:32",
       "album": {
+        "name": "Just Believe!!!",
+        "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
+      },
+      "artists": [
+        {
+          "name": "\u4e09\u8239\u681e\u5b50 (CV.\u5c0f\u6cc9\u840c\u9999)",
+          "url": "https://open.spotify.com/artist/2wFPTxM1Xl1f5vUk1jPY3d"
+        }
+      ],
+      "duration_ms": 234240,
+      "name": "\u6c7a\u610f\u306e\u5149",
+      "url": "https://open.spotify.com/track/5bKOT6xcTF9SLJw4sKgb2s"
+    },
+    {
+      "added_at": "2023-11-07 18:16:32",
+      "album": {
         "name": "Fly with You!!",
         "url": "https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX"
       },
@@ -415,6 +415,22 @@
       "duration_ms": 219840,
       "name": "Cherry Bomb",
       "url": "https://open.spotify.com/track/6Ut3eQN8VLwQXjRejHmNk3"
+    },
+    {
+      "added_at": "2023-11-07 18:16:32",
+      "album": {
+        "name": "Love U my friends",
+        "url": "https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV"
+      },
+      "artists": [
+        {
+          "name": "\u512a\u6728\u305b\u3064\u83dc (CV.\u6960\u6728\u3068\u3082\u308a)",
+          "url": "https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN"
+        }
+      ],
+      "duration_ms": 269453,
+      "name": "MELODY",
+      "url": "https://open.spotify.com/track/6DmIItjA98dekA0MvIeiHC"
     },
     {
       "added_at": "2023-11-07 18:16:32",
@@ -467,22 +483,6 @@
     {
       "added_at": "2023-11-07 18:16:32",
       "album": {
-        "name": "Love U my friends",
-        "url": "https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV"
-      },
-      "artists": [
-        {
-          "name": "\u512a\u6728\u305b\u3064\u83dc (CV.\u6960\u6728\u3068\u3082\u308a)",
-          "url": "https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN"
-        }
-      ],
-      "duration_ms": 269453,
-      "name": "MELODY",
-      "url": "https://open.spotify.com/track/6DmIItjA98dekA0MvIeiHC"
-    },
-    {
-      "added_at": "2023-11-07 18:16:32",
-      "album": {
         "name": "MONSTER GIRLS",
         "url": "https://open.spotify.com/album/0oMa84sBIJyioafjIAvEar"
       },
@@ -495,22 +495,6 @@
       "duration_ms": 236746,
       "name": "MONSTER GIRLS",
       "url": "https://open.spotify.com/track/6ZGnmaySGGk2pcprMoBX73"
-    },
-    {
-      "added_at": "2023-11-07 18:16:32",
-      "album": {
-        "name": "MONSTER GIRLS",
-        "url": "https://open.spotify.com/album/0oMa84sBIJyioafjIAvEar"
-      },
-      "artists": [
-        {
-          "name": "\u9418 \u5d50\u73e0 (CV.\u6cd5\u5143\u660e\u83dc)",
-          "url": "https://open.spotify.com/artist/1btXM114txUV2HtiylRvoK"
-        }
-      ],
-      "duration_ms": 239013,
-      "name": "Queendom",
-      "url": "https://open.spotify.com/track/1ydn7r96t51VLtpZ5T8CeI"
     },
     {
       "added_at": "2023-11-07 18:16:32",
@@ -531,22 +515,6 @@
     {
       "added_at": "2023-11-07 18:16:32",
       "album": {
-        "name": "Infinity! Our wings!!",
-        "url": "https://open.spotify.com/album/2QVpsejvYq0As5FLW3BFoo"
-      },
-      "artists": [
-        {
-          "name": "A\u30fbZU\u30fbNA",
-          "url": "https://open.spotify.com/artist/6J6RrsIzXnWKqcFu7ri9Pd"
-        }
-      ],
-      "duration_ms": 271106,
-      "name": "Infinity\uff01Our wings!!",
-      "url": "https://open.spotify.com/track/0Ozd2HHjz6HZEbmttB6bMO"
-    },
-    {
-      "added_at": "2023-11-07 18:16:32",
-      "album": {
         "name": "Just Believe!!!",
         "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
       },
@@ -559,6 +527,38 @@
       "duration_ms": 261013,
       "name": "LIKE IT!LOVE IT!",
       "url": "https://open.spotify.com/track/4PeeXkEdUeIucB7kbcp2u9"
+    },
+    {
+      "added_at": "2023-11-07 18:16:32",
+      "album": {
+        "name": "MONSTER GIRLS",
+        "url": "https://open.spotify.com/album/0oMa84sBIJyioafjIAvEar"
+      },
+      "artists": [
+        {
+          "name": "\u9418 \u5d50\u73e0 (CV.\u6cd5\u5143\u660e\u83dc)",
+          "url": "https://open.spotify.com/artist/1btXM114txUV2HtiylRvoK"
+        }
+      ],
+      "duration_ms": 239013,
+      "name": "Queendom",
+      "url": "https://open.spotify.com/track/1ydn7r96t51VLtpZ5T8CeI"
+    },
+    {
+      "added_at": "2023-11-07 18:16:32",
+      "album": {
+        "name": "Infinity! Our wings!!",
+        "url": "https://open.spotify.com/album/2QVpsejvYq0As5FLW3BFoo"
+      },
+      "artists": [
+        {
+          "name": "A\u30fbZU\u30fbNA",
+          "url": "https://open.spotify.com/artist/6J6RrsIzXnWKqcFu7ri9Pd"
+        }
+      ],
+      "duration_ms": 271106,
+      "name": "Infinity\uff01Our wings!!",
+      "url": "https://open.spotify.com/track/0Ozd2HHjz6HZEbmttB6bMO"
     },
     {
       "added_at": "2023-11-07 18:16:32",

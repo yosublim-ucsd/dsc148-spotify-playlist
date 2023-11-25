@@ -4,7 +4,7 @@
 
 > Lie back to chilled ambient with the sounds of nature.
 
-144 songs - 7 hr 35 min
+146 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Dream Keeper](https://open.spotify.com/track/5MkHTzooL7E4aMVXzFpQDX) | [Elijah Reilly](https://open.spotify.com/artist/40cyqxW9Yq0YEUY8NME3sy) | [Dream Keeper](https://open.spotify.com/album/5xSDOT3xhjSlUvafM3jvjk) | 3:51 | 2022-05-25 |  |
 | [Dream Maps](https://open.spotify.com/track/0NoCoOtd8LFywZnH9KIKGo) | [Oneironautics](https://open.spotify.com/artist/6VYV0dDe760s66s9973L1Q) | [Floating Mind](https://open.spotify.com/album/2cAj2jNdLgh4pUwcfwiKyM) | 2:16 | 2022-05-25 |  |
 | [Dreamtime](https://open.spotify.com/track/3gtEg83VqmivKPUxhDLbSb) | [Melissa Styles](https://open.spotify.com/artist/5MJZC6Xx2EbqrBNbUHkyct) | [Dreamtime](https://open.spotify.com/album/3vkP1MukrrPFgRzlDXwn7g) | 2:02 | 2022-05-25 |  |
+| [Drifting Downstream](https://open.spotify.com/track/4id7nbDobU3Y9VK98pAQXY) | [Tonal Topographies](https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8) | [Drifting Downstream](https://open.spotify.com/album/54huiG7nVJZpqAF6yvRpL3) | 3:22 | 2023-11-24 |  |
 | [Elements of Quicksand](https://open.spotify.com/track/6ZyoHDnwJO6zy1xAOjAPQu) | [Chilloa](https://open.spotify.com/artist/5Q0zlGmb0xNmAgRUsWP7K6) | [Elements of Quicksand](https://open.spotify.com/album/49bEH6m6F74PrRw1iYWd36) | 2:54 | 2022-05-25 |  |
 | [Emberly Path](https://open.spotify.com/track/6LQiwabLqjy1jEJEACKcyj) | [Peaceful Plausible](https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI) | [Emberly Path](https://open.spotify.com/album/2E7vitCgw71paDzGHMukLQ) | 2:59 | 2022-09-13 |  |
 | [Embrace the Light](https://open.spotify.com/track/09U502UKKVz6OtWUidPyf1) | [Doosi](https://open.spotify.com/artist/6M99p2uc6AP0HCJiqnjszP) | [Embrace the Light](https://open.spotify.com/album/4O6JKe83iRSaZRKvXurpqG) | 3:06 | 2022-05-25 | 2023-07-29 |
@@ -92,6 +93,7 @@
 | [Morning Birds](https://open.spotify.com/track/6RLN4bPw3Z8I7HAbY6mD37) | [Liam Armstrong](https://open.spotify.com/artist/3DsYgBfA8QoZTZohcLf1jy) | [Morning Birds](https://open.spotify.com/album/5ckeXbLDEZNLgxavmsj00B) | 3:13 | 2022-05-25 |  |
 | [Nature of Illusion \- Meditation Version](https://open.spotify.com/track/4mLnypSRwLgf9i2qsaBHkd) | [Solen Taylor](https://open.spotify.com/artist/4p9by6GGMfgVGEBqiYhXqB) | [Nature of Illusion](https://open.spotify.com/album/58fIvjE46TGrQ6GiF97Vrp) | 2:07 | 2022-05-25 |  |
 | [Nature's Awakening](https://open.spotify.com/track/01VRlzhuv5LS1WLZsBJuek) | [Mhino](https://open.spotify.com/artist/1DR1nFSKpiWjUZO4PpydG8) | [Nature's Awakening](https://open.spotify.com/album/5x2Ih98J99fFLaDRNFsPf0) | 2:51 | 2022-12-02 |  |
+| [Nature's Bed](https://open.spotify.com/track/05CwrrO3RBQ8yQ0D6jxgA2) | [Sinnesro](https://open.spotify.com/artist/3CHM9Tbf0hM4MBzWGAcGPc) | [Nature's Bed](https://open.spotify.com/album/6VBCk80s3CdZjsDbX1cTFi) | 3:11 | 2023-11-24 |  |
 | [Nature's Drone 432Hz](https://open.spotify.com/track/0t4H5P4RqjlO7GjmqmoRCm) | [Drömlandskap](https://open.spotify.com/artist/02S4ky4seZriPGxQ2JWQqe) | [Nature's Drone 432Hz](https://open.spotify.com/album/0dxeNYb0H4Mu9Wkdad2LPA) | 2:35 | 2022-09-30 |  |
 | [Night Waves](https://open.spotify.com/track/2Al8nAkIepCfSlWDJMSanz) | [Summer Sea](https://open.spotify.com/artist/1lmCmB56gK4BS9i1Y6lLhP) | [Night Waves](https://open.spotify.com/album/6yuXpqdYcXc8EPHikT59rD) | 3:40 | 2022-05-25 |  |
 | [Ocean Unwind](https://open.spotify.com/track/2HLgn2iuSkMPlMCdV3BNdH) | [Haf](https://open.spotify.com/artist/4ZN3pGwIN6s1NNiKAivvuM) | [Ocean Unwind](https://open.spotify.com/album/6hAXiuDrYUvmhYjEZdfXkq) | 3:06 | 2022-07-08 |  |

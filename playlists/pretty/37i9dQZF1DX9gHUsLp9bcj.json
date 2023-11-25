@@ -1,6 +1,6 @@
 {
   "description": "This is the Latin soundtrack of the 50s! Cover:  P\u00e9rez Prado",
-  "num_followers": 27296,
+  "num_followers": 27339,
   "original_name": "50s Latino",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
-        "name": "Mar\u00eda Victoria",
-        "url": "https://open.spotify.com/album/64Rwiu8nkPZQpvhuHFwx6i"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Victoria",
-          "url": "https://open.spotify.com/artist/2ZaGoLikmuGjY9tFEFQ14o"
-        }
-      ],
-      "duration_ms": 202553,
-      "name": "Mil Besos",
-      "url": "https://open.spotify.com/track/7hPNJ4s8iAR6v6J8Pa5oR4"
-    },
-    {
-      "added_at": "2023-02-17 20:56:35",
-      "album": {
         "name": "Boleros In Tr\u00edo",
         "url": "https://open.spotify.com/album/6Q5WjwqD0rXwSlU5fuw0O7"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 157480,
       "name": "Amor Que Malo Eres",
       "url": "https://open.spotify.com/track/3UALUQSEr7cIp3yjnPCMVe"
+    },
+    {
+      "added_at": "2023-02-17 20:56:35",
+      "album": {
+        "name": "Mar\u00eda Victoria",
+        "url": "https://open.spotify.com/album/64Rwiu8nkPZQpvhuHFwx6i"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Victoria",
+          "url": "https://open.spotify.com/artist/2ZaGoLikmuGjY9tFEFQ14o"
+        }
+      ],
+      "duration_ms": 202553,
+      "name": "Mil Besos",
+      "url": "https://open.spotify.com/track/7hPNJ4s8iAR6v6J8Pa5oR4"
     },
     {
       "added_at": "2023-02-17 20:56:35",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
+        "name": "His 28 Greatest Hits",
+        "url": "https://open.spotify.com/album/0le6lAknFh1BF6GZ3GSTon"
+      },
+      "artists": [
+        {
+          "name": "Trini Lopez",
+          "url": "https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv"
+        }
+      ],
+      "duration_ms": 146760,
+      "name": "Cuando Calienta El Sol",
+      "url": "https://open.spotify.com/track/7pP7yMX0Nu862YXP5S9Eqs"
+    },
+    {
+      "added_at": "2023-02-17 20:56:35",
+      "album": {
         "name": "Rock & Roll",
         "url": "https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K"
       },
@@ -615,22 +631,6 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
-        "name": "His 28 Greatest Hits",
-        "url": "https://open.spotify.com/album/0le6lAknFh1BF6GZ3GSTon"
-      },
-      "artists": [
-        {
-          "name": "Trini Lopez",
-          "url": "https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv"
-        }
-      ],
-      "duration_ms": 146760,
-      "name": "Cuando Calienta El Sol",
-      "url": "https://open.spotify.com/track/7pP7yMX0Nu862YXP5S9Eqs"
-    },
-    {
-      "added_at": "2023-02-17 20:56:35",
-      "album": {
         "name": "The Best Of Perez Prado: The Original Mambo #5",
         "url": "https://open.spotify.com/album/5tZ8FshywMxf1RdSTaZx5m"
       },
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
-        "name": "Antonio Machin, Vol. 3 (1947-1950 Remastered)",
-        "url": "https://open.spotify.com/album/6E45UvcXJk3sZNrisgRLho"
-      },
-      "artists": [
-        {
-          "name": "Antonio Mach\u00edn",
-          "url": "https://open.spotify.com/artist/30iuQTTr3l7QihN6KKgJrG"
-        }
-      ],
-      "duration_ms": 187129,
-      "name": "Somos (Bolero) - Remastered",
-      "url": "https://open.spotify.com/track/4vYLtJruIsptXIberxsgWM"
-    },
-    {
-      "added_at": "2023-02-17 20:56:35",
-      "album": {
         "name": "Mexico's Greatest Hits",
         "url": "https://open.spotify.com/album/2giGcyHpDs98pN0FsdvcCW"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 232333,
       "name": "Quiereme Mucho (Yours)",
       "url": "https://open.spotify.com/track/3hThX54q9haPCi0olgOHG2"
+    },
+    {
+      "added_at": "2023-02-17 20:56:35",
+      "album": {
+        "name": "Antonio Machin, Vol. 3 (1947-1950 Remastered)",
+        "url": "https://open.spotify.com/album/6E45UvcXJk3sZNrisgRLho"
+      },
+      "artists": [
+        {
+          "name": "Antonio Mach\u00edn",
+          "url": "https://open.spotify.com/artist/30iuQTTr3l7QihN6KKgJrG"
+        }
+      ],
+      "duration_ms": 187129,
+      "name": "Somos (Bolero) - Remastered",
+      "url": "https://open.spotify.com/track/4vYLtJruIsptXIberxsgWM"
     },
     {
       "added_at": "2023-02-17 20:56:35",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
-        "name": "Como Acostumbras",
-        "url": "https://open.spotify.com/album/5obF728wpq8sOPlW0atl0A"
-      },
-      "artists": [
-        {
-          "name": "Gloria Lasso",
-          "url": "https://open.spotify.com/artist/2ufn5Tb2Vau3Y2kMNkJr47"
-        }
-      ],
-      "duration_ms": 168866,
-      "name": "Luna de miel",
-      "url": "https://open.spotify.com/track/6XeBrrONfLyB25iWk7I00R"
-    },
-    {
-      "added_at": "2023-02-17 20:56:35",
-      "album": {
         "name": "Lola Beltr\u00e1n en Concierto: 15 Aniversario, En Vivo en el Palacio de Bellas Artes 1976 y en el Teatro Olympia de Paris",
         "url": "https://open.spotify.com/album/094POuqSlcB4gYOwnw4N9K"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 191426,
       "name": "Tu Castigo",
       "url": "https://open.spotify.com/track/1TBn1IZC0Aj9weRj0HsKFQ"
+    },
+    {
+      "added_at": "2023-02-17 20:56:35",
+      "album": {
+        "name": "Como Acostumbras",
+        "url": "https://open.spotify.com/album/5obF728wpq8sOPlW0atl0A"
+      },
+      "artists": [
+        {
+          "name": "Gloria Lasso",
+          "url": "https://open.spotify.com/artist/2ufn5Tb2Vau3Y2kMNkJr47"
+        }
+      ],
+      "duration_ms": 168866,
+      "name": "Luna de miel",
+      "url": "https://open.spotify.com/track/6XeBrrONfLyB25iWk7I00R"
     }
   ],
   "unique_name": "50s Latino",

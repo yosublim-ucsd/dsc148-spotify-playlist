@@ -179,6 +179,32 @@
     },
     {
       "album": {
+        "name": "Angels",
+        "url": "https://open.spotify.com/album/29oPN3u6CiGP1Lw0Q4qiZG"
+      },
+      "artists": [
+        {
+          "name": "House Gospel Choir",
+          "url": "https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ"
+        },
+        {
+          "name": "MORGAN",
+          "url": "https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI"
+        },
+        {
+          "name": "Crackazat",
+          "url": "https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365250,
+      "name": "Angels - Crackazat Remix",
+      "url": "https://open.spotify.com/track/47asp73irkfYAFCjD1KOxJ"
+    },
+    {
+      "album": {
         "name": "Angels By My Side (feat. Pauline Taylor)",
         "url": "https://open.spotify.com/album/3AxIohtIZVMGMNVoqrl2O3"
       },
@@ -282,7 +308,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 505159,
       "name": "Beau Mot Plage - Luke Solomon & Honey Dijon Remix",
       "url": "https://open.spotify.com/track/7lvXfKZn86NzFX2Cf8uT1D"
@@ -392,7 +418,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 416640,
       "name": "Blackbird - Ian Pooley's Basic Dub",
       "url": "https://open.spotify.com/track/7uuPqTd2VEt9lVvvZ6Dj8p"
@@ -701,6 +727,24 @@
     },
     {
       "album": {
+        "name": "No Ejector Seat EP",
+        "url": "https://open.spotify.com/album/32dvYgeMsjL9tjsUbDLFJC"
+      },
+      "artists": [
+        {
+          "name": "Groove Armada",
+          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368035,
+      "name": "Chicago Chicago",
+      "url": "https://open.spotify.com/track/6JqFOTbpxkt880H9Y2TUt5"
+    },
+    {
+      "album": {
         "name": "Closer (Derrick Carter Remix)",
         "url": "https://open.spotify.com/album/2Dj1Mp8dlM2SLt3Qg4qWPW"
       },
@@ -734,7 +778,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 379124,
       "name": "Come On Then - Rerub",
       "url": "https://open.spotify.com/track/45g2ZCIP9ehDHlSXVXctbG"
@@ -792,6 +836,24 @@
       "duration_ms": 427962,
       "name": "Ctairs",
       "url": "https://open.spotify.com/track/56r3BSxEExeBwj9za8BCFw"
+    },
+    {
+      "album": {
+        "name": "Cybersoul",
+        "url": "https://open.spotify.com/album/08nc03NWQXKJHQtXkoZoxD"
+      },
+      "artists": [
+        {
+          "name": "Reggie Dokes",
+          "url": "https://open.spotify.com/artist/3Tlb20Fc21tarAIsgPR7PH"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393070,
+      "name": "Cybersoul",
+      "url": "https://open.spotify.com/track/1kPiTHCnPXRzhJZLeKU4eX"
     },
     {
       "album": {
@@ -982,7 +1044,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 618393,
       "name": "Do You Feel The Same? - Luke Solomon Tribute Remix",
       "url": "https://open.spotify.com/track/3DdwHbCMxxtZ1hjm39Dto1"
@@ -1131,6 +1193,28 @@
     },
     {
       "album": {
+        "name": "Everybody",
+        "url": "https://open.spotify.com/album/0IB2Diuo38BbhhEWJ55d77"
+      },
+      "artists": [
+        {
+          "name": "youANDme",
+          "url": "https://open.spotify.com/artist/6kHXBiY7g3rkzhyxGW9WEG"
+        },
+        {
+          "name": "Elli Altenberger",
+          "url": "https://open.spotify.com/artist/2S5ksq7jg05djziB32i6mn"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410162,
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/3bTqE2U32W5WvwONj4xr1E"
+    },
+    {
+      "album": {
         "name": "Defined",
         "url": "https://open.spotify.com/album/2oISJK1pZ6iRNh5XsmEMCG"
       },
@@ -1160,7 +1244,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 464306,
       "name": "Feel Funky",
       "url": "https://open.spotify.com/track/6MhGRUjntHi9qGYK3D6LUz"
@@ -1232,7 +1316,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 329101,
       "name": "Forever",
       "url": "https://open.spotify.com/track/2HhD9OZdNjHODz9fEaWCq1"
@@ -1254,6 +1338,24 @@
       "duration_ms": 329101,
       "name": "Forever",
       "url": "https://open.spotify.com/track/0sPSHm2B6ECdQaBz4LWj7H"
+    },
+    {
+      "album": {
+        "name": "Freaks Only",
+        "url": "https://open.spotify.com/album/7c5mde5ZcFJhWjgQwL2MxF"
+      },
+      "artists": [
+        {
+          "name": "Harvard Bass",
+          "url": "https://open.spotify.com/artist/0PpMaWbHMqUcVYcsF2O9CM"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360899,
+      "name": "Freaks Only",
+      "url": "https://open.spotify.com/track/1lsoHhSUn1c4MikwxklT3T"
     },
     {
       "album": {
@@ -1312,7 +1414,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 215768,
       "name": "Good Woman - Edit",
       "url": "https://open.spotify.com/track/3moxYB3Zti5dXy9dIDlBrR"
@@ -1444,7 +1546,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 482028,
       "name": "Hallelujah In Heaven (feat. Andreya Triana) - Groove Assassin's Supernova Extended Edit",
       "url": "https://open.spotify.com/track/6NvvAAsumyZazbERxgD8dA"
@@ -1466,6 +1568,28 @@
       "duration_ms": 401974,
       "name": "Hardbody",
       "url": "https://open.spotify.com/track/0vAJxWHc0Hu9hK2aZZ69Ya"
+    },
+    {
+      "album": {
+        "name": "Hate",
+        "url": "https://open.spotify.com/album/3071HCpBw7F9QvLMYV31Jq"
+      },
+      "artists": [
+        {
+          "name": "Seth Troxler",
+          "url": "https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B"
+        },
+        {
+          "name": "Audion",
+          "url": "https://open.spotify.com/artist/1ygSVTF0A998n2Z3nmLei8"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 602761,
+      "name": "Hate",
+      "url": "https://open.spotify.com/track/0x90eVrDCcd5Xoq2HCWnMS"
     },
     {
       "album": {
@@ -1542,6 +1666,24 @@
       "duration_ms": 435133,
       "name": "Hey Hey - DF's Attention Vocal Mix",
       "url": "https://open.spotify.com/track/70UEWHNbuYCh70KK7QCNj3"
+    },
+    {
+      "album": {
+        "name": "Hi On Ya Luv EP",
+        "url": "https://open.spotify.com/album/3lsz2bhPEl7Oz5UqSAmppy"
+      },
+      "artists": [
+        {
+          "name": "Tiptoes",
+          "url": "https://open.spotify.com/artist/0OPGFIdqpZs3pxJ7MLuVjD"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215433,
+      "name": "Hi On Ya Luv",
+      "url": "https://open.spotify.com/track/7EjYtdn0lJQP7fz0WPELnA"
     },
     {
       "album": {
@@ -1805,6 +1947,28 @@
     },
     {
       "album": {
+        "name": "Sambaraw",
+        "url": "https://open.spotify.com/album/6wmsKNQDaZV02nVwTrWW9z"
+      },
+      "artists": [
+        {
+          "name": "Matheo Velez",
+          "url": "https://open.spotify.com/artist/6MxFlTSSCQgopzNmiEsaxU"
+        },
+        {
+          "name": "Obando",
+          "url": "https://open.spotify.com/artist/6z20dqk2EYyKPAMGlDB4w7"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337142,
+      "name": "I'm Breathing - Original Mix",
+      "url": "https://open.spotify.com/track/070iaSxw7oUGKPH8KndRSn"
+    },
+    {
+      "album": {
         "name": "I.K.U.K.",
         "url": "https://open.spotify.com/album/44ocLaVzBmtdzkoBUyopi8"
       },
@@ -1864,7 +2028,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 375887,
       "name": "In Da Club - Harvard Bass Dub",
       "url": "https://open.spotify.com/track/2JVXGUgrUVxdvtbls8zeyy"
@@ -1890,6 +2054,24 @@
       "duration_ms": 213358,
       "name": "In The Club",
       "url": "https://open.spotify.com/track/2Nt5P7S3Fb5UfWentBaDS1"
+    },
+    {
+      "album": {
+        "name": "Iss Good / Problematic",
+        "url": "https://open.spotify.com/album/4aCudEt0rsbboem2Muj1mU"
+      },
+      "artists": [
+        {
+          "name": "Seven Davis Jr.",
+          "url": "https://open.spotify.com/artist/0j4Q5USZhEJ3OUfyRyW2xj"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188249,
+      "name": "Iss Good",
+      "url": "https://open.spotify.com/track/7qqGe3CuFN798NAGPcpuZH"
     },
     {
       "album": {
@@ -2272,7 +2454,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 244691,
       "name": "Love Me Like You Care (feat. Hadiya George)",
       "url": "https://open.spotify.com/track/3MHqDzcl0CfEWVk5BG4wcI"
@@ -2355,6 +2537,24 @@
     },
     {
       "album": {
+        "name": "Black Power Electronics",
+        "url": "https://open.spotify.com/album/4Al3FvKz0avVt67TQE3og5"
+      },
+      "artists": [
+        {
+          "name": "Galcher Lustwerk",
+          "url": "https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232567,
+      "name": "Mirror & Table",
+      "url": "https://open.spotify.com/track/648xXPbHaVmE0Xhrml5lYQ"
+    },
+    {
+      "album": {
         "name": "Infamous Lost Tracks",
         "url": "https://open.spotify.com/album/56GAajB9dtzrsGyQwdbABV"
       },
@@ -2384,10 +2584,28 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 352400,
       "name": "Mouth - Pepe Bradock Remix",
       "url": "https://open.spotify.com/track/1L7588Rq7oVuIEbxrBAuoP"
+    },
+    {
+      "album": {
+        "name": "House Of Love EP",
+        "url": "https://open.spotify.com/album/6ktIVml6n1WoyQKDhBw9jQ"
+      },
+      "artists": [
+        {
+          "name": "Ron Carroll",
+          "url": "https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314999,
+      "name": "Mysteries",
+      "url": "https://open.spotify.com/track/2IreVUem94fjF5wlWEc6Tg"
     },
     {
       "album": {
@@ -2550,7 +2768,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 425039,
       "name": "Now I See You",
       "url": "https://open.spotify.com/track/3nD7CtX1rmlTN1GOmV67a8"
@@ -2586,7 +2804,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 297412,
       "name": "Old Soul Funk - Original Mix",
       "url": "https://open.spotify.com/track/1d0j1ABNYvN6CYNdF8p9DW"
@@ -2684,7 +2902,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 369098,
       "name": "Pills",
       "url": "https://open.spotify.com/track/58a1Fay6JytcOR0Fv04BCc"
@@ -2706,7 +2924,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 229240,
       "name": "Professional Widow - Armand's Star Trunk Funkin' Mix; Radio Edit; 2016 Remaster",
       "url": "https://open.spotify.com/track/0MT7RXj7XwkyvA0e05fgo6"
@@ -2848,6 +3066,24 @@
       "duration_ms": 400600,
       "name": "Resolve",
       "url": "https://open.spotify.com/track/2EQfe0nOQ2BMDAVvQXMHtK"
+    },
+    {
+      "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/2WLC0yZgAdbPMf5JhBkH3k"
+      },
+      "artists": [
+        {
+          "name": "Waajeed",
+          "url": "https://open.spotify.com/artist/4dXRZcf1AdzvwZ9AiRIsmT"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378240,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/206YXBQOITTdVwqLqnUbz8"
     },
     {
       "album": {
@@ -3151,6 +3387,28 @@
     },
     {
       "album": {
+        "name": "Lime Juice",
+        "url": "https://open.spotify.com/album/3pPwk1rtFuLmj5pwOClsoz"
+      },
+      "artists": [
+        {
+          "name": "Charlie Vettuno",
+          "url": "https://open.spotify.com/artist/6SjBIWfrxSzMxeQb0pu9k0"
+        },
+        {
+          "name": "Ericka Corleone",
+          "url": "https://open.spotify.com/artist/2GFKQfQ1PJd2icDmFB03Ca"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169622,
+      "name": "Slow For Me",
+      "url": "https://open.spotify.com/track/0tMfEwY1LtVWFj9Qobaas3"
+    },
+    {
+      "album": {
         "name": "Someday EP",
         "url": "https://open.spotify.com/album/5QjBEb1GwmxGjEaJLfuVWX"
       },
@@ -3188,6 +3446,24 @@
       "duration_ms": 300000,
       "name": "Something Different",
       "url": "https://open.spotify.com/track/5gX7AEGXahevO0PnmWBBzC"
+    },
+    {
+      "album": {
+        "name": "The Beach Album",
+        "url": "https://open.spotify.com/album/0fUJqNtddOzz1QdNwzoRJB"
+      },
+      "artists": [
+        {
+          "name": "Eli Escobar",
+          "url": "https://open.spotify.com/artist/3J8gnwzixjNXj5gM6a7h93"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235846,
+      "name": "Something Inside Of Me",
+      "url": "https://open.spotify.com/track/0z2eF7uXnl8MQEiv3VlzsD"
     },
     {
       "album": {
@@ -3311,6 +3587,50 @@
     },
     {
       "album": {
+        "name": "Sunday School",
+        "url": "https://open.spotify.com/album/3ySVaJhq6NJhZ8Xk33RmCA"
+      },
+      "artists": [
+        {
+          "name": "Bushwacka!",
+          "url": "https://open.spotify.com/artist/3qME1ocYrJ5U6gjWn2Lw6h"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198912,
+      "name": "Sunday School",
+      "url": "https://open.spotify.com/track/0zLgOvF38QWGmogMT06Tlw"
+    },
+    {
+      "album": {
+        "name": "Sweat (feat. Dames Brown) [Snips Remix]",
+        "url": "https://open.spotify.com/album/5pTpRcq57asF4t4Ku6x38T"
+      },
+      "artists": [
+        {
+          "name": "Melvo Baptiste",
+          "url": "https://open.spotify.com/artist/1QpOH83Mq6hEUPnLudxPw6"
+        },
+        {
+          "name": "Dames Brown",
+          "url": "https://open.spotify.com/artist/7Hgnu346InP2IcZoMGGT8B"
+        },
+        {
+          "name": "Snips",
+          "url": "https://open.spotify.com/artist/2LczK9mpRtIHDCZU1Eb46U"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284789,
+      "name": "Sweat (feat. Dames Brown) - Snips Extended Remix",
+      "url": "https://open.spotify.com/track/1gkGTq3Lq0ZKvL7b8QmUyc"
+    },
+    {
+      "album": {
         "name": "Spaces and Places Album Sampler 2",
         "url": "https://open.spotify.com/album/0gBxMDsIAHDZjJpZDV7glr"
       },
@@ -3388,7 +3708,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 206666,
       "name": "They Frontin' (feat. Monty Luke) [Mixed]",
       "url": "https://open.spotify.com/track/207iG2HJPRuULIAEnv4zzi"
@@ -3599,6 +3919,24 @@
     },
     {
       "album": {
+        "name": "You Should Have Been There",
+        "url": "https://open.spotify.com/album/0psIJe7qfDH0SGpzisukxi"
+      },
+      "artists": [
+        {
+          "name": "thatmanmonkz",
+          "url": "https://open.spotify.com/artist/6ya2VsRgWjLkM2S2NINMhL"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 500807,
+      "name": "Wash Good",
+      "url": "https://open.spotify.com/track/4O0RF0l2NUdkdbCLgpQYbm"
+    },
+    {
+      "album": {
         "name": "Welcome",
         "url": "https://open.spotify.com/album/0MPvMSKD7OAZHc6c4zD0c8"
       },
@@ -3614,7 +3952,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 340893,
       "name": "Welcome - Mitch von Arx Remix",
       "url": "https://open.spotify.com/track/4QZC3wjOXO6eXyKlxQkIOM"

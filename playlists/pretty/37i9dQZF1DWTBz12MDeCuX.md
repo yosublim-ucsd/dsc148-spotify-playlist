@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: JBS, MilleniumKid
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,850 likes - 100 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,032 likes - 100 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 24 | [Ich wollte nie dass wir uns lieben](https://open.spotify.com/track/7dJ8ZklVUvGHEGeEAPFDUG) | [Yung Yury](https://open.spotify.com/artist/7tzELpzPjTq26pa5FT9ykz), [Damn Yury](https://open.spotify.com/artist/7oxHYIVHNg4JQdKnUe1HiQ) | [Ich wollte nie dass wir uns lieben](https://open.spotify.com/album/0eMANyhPipWYEE1hhYnt9B) | 2:15 |
 | 25 | [KETA UND KRAWALL](https://open.spotify.com/track/6zP4Utvok4QRXlNYBZkpGa) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn), [Barré](https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl) | [KETA UND KRAWALL](https://open.spotify.com/album/1J45kvnBanNkQebLmKvXTa) | 2:05 |
 | 26 | [Mo\-Fr](https://open.spotify.com/track/5yNUQuj43NzLCXqCOjWfGZ) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [Mo\-Fr](https://open.spotify.com/album/4etBEAEb9JcVFw1CwmgUmt) | 2:53 |
-| 27 | [James Blake](https://open.spotify.com/track/6wjiWdFdfcyZNikqjqb9vu) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [James Blake](https://open.spotify.com/album/5PVKyMewYidIhvFGpiGeNW) | 3:44 |
+| 27 | [James Blake](https://open.spotify.com/track/2jjmmklmlTnS5WEYrL0MkN) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [James Blake](https://open.spotify.com/album/0jaT6ytnqXaQ0EhElQg9Zn) | 3:44 |
 | 28 | [You Broke My Heart](https://open.spotify.com/track/5Se32hEA9raeboZerywxka) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs Scary Hours Edition](https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO) | 3:50 |
 | 29 | [Komm in meine Arme \- Remix](https://open.spotify.com/track/23SubncezpLXwkL22Kf3Nb) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA), [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6), [Phil The Beat](https://open.spotify.com/artist/35pKZ36ma78w8aE467fRO9), [Beatgees](https://open.spotify.com/artist/6TmHCol5w2iwL18tI45zo7) | [Komm in meine Arme \(Remix\)](https://open.spotify.com/album/7ETtvcUamU4NqCe6Rw6nxY) | 2:38 |
 | 30 | [Shut up My Moms Calling \- \(Sped Up\)](https://open.spotify.com/track/31mzt4ZV8C0f52pIz1NSwd) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Shut up My Moms Calling \(Sped up\)](https://open.spotify.com/album/0h2GcVhEPwh1mrRg3MSa3A) | 2:15 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 32 | [DU FEHLST!!!](https://open.spotify.com/track/3k6nkN9tg5Wu0cQdNvyZBU) | [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6), [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7) | [DU FEHLST!!!](https://open.spotify.com/album/5dPJfPpVpJTeTYfwgaXq3j) | 3:04 |
 | 33 | [prayer1](https://open.spotify.com/track/2R4sIoCrJb4OV5qcsNDIQ6) | [april27](https://open.spotify.com/artist/058SQVFoFi7A55lusoKyzi) | [prayer1](https://open.spotify.com/album/7byVxlCnqyq58cDcMj3bls) | 2:22 |
 | 34 | [Nothing's New](https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Good God!](https://open.spotify.com/album/3fIxJzinc2MADbgfkLrmYY) | 3:31 |
-| 35 | [Weihnachtslied 2023](https://open.spotify.com/track/75pat6BKtU00aVVFheGu9k) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9) | [Weihnachtslied 2023](https://open.spotify.com/album/7mf1UQK6QfUd0UG97rUUwT) | 2:32 |
+| 35 | [Weihnachtslied 2023](https://open.spotify.com/track/75pat6BKtU00aVVFheGu9k) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Dani](https://open.spotify.com/artist/5lCJ034qFUkrWNFXUTxLVn), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [Weihnachtslied 2023](https://open.spotify.com/album/7mf1UQK6QfUd0UG97rUUwT) | 2:32 |
 | 36 | [Liebe Grüsse](https://open.spotify.com/track/5qQLBOEAelSN7JWqX3RIIv) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Liebe Grüsse](https://open.spotify.com/album/795oJD0ZgKdDjbKojgmswf) | 2:16 |
 | 37 | [SWEET BABY JESUS](https://open.spotify.com/track/0n29d99rxiJb0yG4iscrSj) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn), [Barré](https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl) | [SWEET BABY JESUS](https://open.spotify.com/album/0AsdS9yRfd9qi02UneG9ke) | 2:03 |
 | 38 | [Zeit Steht Still](https://open.spotify.com/track/4HwlV0rJqT0p7uxsO5sfHn) | [Strob](https://open.spotify.com/artist/0JP5ABLaBXOg8HFsxUoPzC), [BLND](https://open.spotify.com/artist/7lYO7pNGYK81I1OJJMUlER) | [Zeit Steht Still](https://open.spotify.com/album/07kYrpxuoT1O7hfzFUTUn9) | 2:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/track/0ZDwhNFZnPx9EIPCcwGUHC) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/album/4LVNTAzkG26XlODcRP0v4b) | 3:15 |
 | 100 | [Why Do You Hate Me](https://open.spotify.com/track/2sgbEfih4ClTQ13fo3zaOl) | [CH4YN](https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU) | [Why Do You Hate Me](https://open.spotify.com/album/2TOSa1BTQF23HlqLjOSltx) | 2:23 |
 
-Snapshot ID: `MCwzMGFhZmU0ZTc1NjU1Yjk0OWJhMmNhZWQ4Y2I1MDQ5YWVhNThmMWE5`
+Snapshot ID: `MCwzYTcwNDQ2MTZiYmJmNzRlYjNjODBhMWEwOWRjYzVjNzgwYzM3ZjNk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 
 > P fkn R\. Esto llega al choliiiii\. Cover: YOVNGCHIMI & Dei V
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,281 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,285 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 29 | [WYA](https://open.spotify.com/track/5lCMDnVpGTuFC7YejgpTIF) | [J Abdiel](https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [WYA](https://open.spotify.com/album/510YwmkYmdNRSYPQSxDV2O) | 3:16 |
 | 30 | [FREELANCE 2.0](https://open.spotify.com/track/49vODnnBxP9MrmlJ6PDe5v) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ), [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm), [Anubiis](https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB), [CDobleta](https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE) | [FREELANCE 2.0 ROA, Amarion, Ankhal \( FT\. CDobleta, Anubiis\)](https://open.spotify.com/album/5x5L7lXzNVon76iOsZKdPx) | 5:36 |
 | 31 | [Blancos & Rojos](https://open.spotify.com/track/4FRMNJTazpo6vhHnfnG2qy) | [Hanzel La H](https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o), [CDobleta](https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE) | [Blancos & Rojos](https://open.spotify.com/album/6dLcpS5nJkKsDy78PQakRP) | 2:42 |
-| 32 | [Para Mi](https://open.spotify.com/track/3mUPsqEeq0GoIv1wSuivqf) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Para Mi](https://open.spotify.com/album/4EN6HX2xApPwC7nA7FjI7k) | 4:27 |
-| 33 | [Anfetamina](https://open.spotify.com/track/30gIEtWe6BawlVKlsgllKa) | [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Anfetamina](https://open.spotify.com/album/7J6peVThlSZeHce1YMyW9n) | 3:56 |
+| 32 | [Anfetamina](https://open.spotify.com/track/30gIEtWe6BawlVKlsgllKa) | [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Anfetamina](https://open.spotify.com/album/7J6peVThlSZeHce1YMyW9n) | 3:56 |
+| 33 | [Para Mi](https://open.spotify.com/track/3mUPsqEeq0GoIv1wSuivqf) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Para Mi](https://open.spotify.com/album/4EN6HX2xApPwC7nA7FjI7k) | 4:27 |
 | 34 | [4 Palos](https://open.spotify.com/track/6Mh7481h4oyU49ukULwRtf) | [Michael Flores](https://open.spotify.com/artist/2gATjk9j2u50i0HmXZySZY), [CDobleta](https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE) | [4 Palos](https://open.spotify.com/album/1QoaG39dqeQ6iHpHwLX0wK) | 2:52 |
 | 35 | [CHIQUITA](https://open.spotify.com/track/5Y2YfTLAcDhbpGNariMtSD) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [MIDNIGHT](https://open.spotify.com/album/2Qx6ZrlVmywBp2UV9XGJNu) | 2:57 |
 | 36 | [Maybach](https://open.spotify.com/track/3uDP8Rf3ddTO04d069A8pH) | [Gigolo Y La Exce](https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Santurcinos](https://open.spotify.com/album/0kwhdyfH85kj8FxQM0K0ux) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 49 | [D.N.D \(feat\. Nio Garcia\)](https://open.spotify.com/track/49zTA53lttr65mA6Z99S6O) | [Los G4](https://open.spotify.com/artist/1uaiSMIzlh2Y6Fx4bC1c6s), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [CERTIFIED](https://open.spotify.com/album/6BO3l1rv04Juyf1DMwq6zp) | 4:00 |
 | 50 | [TRIPLE H \- REMIX](https://open.spotify.com/track/5ozjtYSB1mlLviwOHHQGS6) | [Marconi Impara](https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [BOOEEE](https://open.spotify.com/album/1tI9Dw2LF6n2Dd1PCTkc8p) | 4:45 |
 
-Snapshot ID: `MCw5MDYxODJmMmI0OWNiNGI5ZmE1MjQyNmQzODlmYmU2ODk3MDRlOWI4`
+Snapshot ID: `MCxhNGJjNWMyOTQ4MGI2NzQxZWY3YjY3OWNmNTZlZmMzNWRiNDYzOTcx`

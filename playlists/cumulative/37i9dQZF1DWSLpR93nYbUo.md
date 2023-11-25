@@ -4,7 +4,7 @@
 
 > Ouça as novidades da cena eletrônica\. Foto: CEVITH
 
-142 songs - 8 hr 7 min
+144 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Its Love](https://open.spotify.com/track/0CAsG2mvqgwPBu9V3eO3WE) | [Gangbang](https://open.spotify.com/artist/4xAlQ5oAnU0WpbN23f9Dkz) | [Its Love](https://open.spotify.com/album/2DM6PaURTWTxvpJUZ3YlF5) | 5:20 | 2023-07-21 | 2023-09-30 |
 | [Kairos](https://open.spotify.com/track/6wd0dPO0ajkgBkhWD7jaw4) | [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD) | [Kairos](https://open.spotify.com/album/1HAbjNEmRND9a1AWMg0L2u) | 3:06 | 2023-10-20 |  |
 | [Knifes & Spoons](https://open.spotify.com/track/5XmPHUdiDDVNrcZRrJytaT) | [Raz](https://open.spotify.com/artist/6AaKVN1QdU3HMRWH7tDva3) | [Knifes & Spoons](https://open.spotify.com/album/4IBj2HCDkWTA6TWlJOxRnJ) | 1:16 | 2023-08-18 |  |
-| [Laha](https://open.spotify.com/track/5kaBa5XzSlgiwg4ArBDmRZ) | [Brisotti](https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl) | [Laha EP](https://open.spotify.com/album/4OTtTRp0v3SXcX42mj7QoU) | 6:14 | 2023-09-29 |  |
+| [Laha](https://open.spotify.com/track/5kaBa5XzSlgiwg4ArBDmRZ) | [Brisotti](https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl) | [Laha EP](https://open.spotify.com/album/4OTtTRp0v3SXcX42mj7QoU) | 6:14 | 2023-09-29 | 2023-11-25 |
 | [Lay Down](https://open.spotify.com/track/2xjPXHyvzpg1cFzBPpjd2J) | [Voltech](https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o) | [Lay Down](https://open.spotify.com/album/4wfYn8TbTw3ROMnXWJEseB) | 2:59 | 2023-10-06 |  |
 | [Light](https://open.spotify.com/track/1kpk5xfAxdJ2cY5owd2afF) | [CityBoyz](https://open.spotify.com/artist/5kEOrEZbeQSV4rv7UqxrKK) | [Light](https://open.spotify.com/album/0ZdxRuwegtcHgWJ1t0PD1f) | 2:46 | 2023-07-21 | 2023-10-14 |
 | [Like That](https://open.spotify.com/track/25R67sd3GYqD6iGrbFOkmY) | [BRN](https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj) | [Like That](https://open.spotify.com/album/5nBA9CbygJco08TqreFh4d) | 3:48 | 2023-08-18 |  |
@@ -125,6 +125,7 @@
 | [Take \- Radio Edit](https://open.spotify.com/track/3p3di0xn3SIvOSxoI3wNVf) | [Phael](https://open.spotify.com/artist/1zWOPmDwXSO50211NJHi0g), [Cool 7rack](https://open.spotify.com/artist/4csVM6wJgy2PcaH8aKSkT7) | [Take](https://open.spotify.com/album/4t1IuRk9pZRPXKRvJsqRUP) | 2:30 | 2023-08-11 |  |
 | [Take It](https://open.spotify.com/track/3E6pRr10U7gMno9Ryz6HFC) | [Kubi](https://open.spotify.com/artist/6ePfLvMTRs5ma91LfsE523) | [Take It](https://open.spotify.com/album/5pZy8jhvkq18dX4LoEHuem) | 3:33 | 2023-07-21 | 2023-09-23 |
 | [Take Me Higher](https://open.spotify.com/track/46llJyW3ZoNwOHmP5rF7u9) | [BAF](https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9) | [Take Me Higher](https://open.spotify.com/album/7guWqurSqbQVpihJxOScAC) | 2:48 | 2023-11-10 |  |
+| [Take Me Up](https://open.spotify.com/track/6BSqFOO1C1rwU6Wqg7kvhU) | [Lucas Borchardt](https://open.spotify.com/artist/1awSZh0X5DJMLQVgx8TyeR), [Twowelve](https://open.spotify.com/artist/6SWRBTgTY3yT2GJ5TTKuDl) | [Take Me Up](https://open.spotify.com/album/5pj6lM9bSMpSMQI8Z106ns) | 2:52 | 2023-11-24 |  |
 | [Tasty](https://open.spotify.com/track/1T0qmEAMLiRkei11Xouph3) | [Gustavo Mota](https://open.spotify.com/artist/045FVvBNAc7VnPYvzAJpO1), [INGEK](https://open.spotify.com/artist/2gk1ww8aKvkheN0f6WJ0G2) | [Tasty](https://open.spotify.com/album/3GfSnsAJoEar9vU5DcKbxa) | 2:20 | 2023-09-29 |  |
 | [Tears](https://open.spotify.com/track/4J8euWtEZJmDRuFAjzAMI5) | [Lonelysoul.](https://open.spotify.com/artist/0SiRcOpdzIT5ea5SwdEQ37), [Levis Della](https://open.spotify.com/artist/0mz0ZT7rpJuWFxJ8lnxdB5), [Sanduú](https://open.spotify.com/artist/7DsAqd25L6sEx0NICIYF3f) | [Tears](https://open.spotify.com/album/3bjsXm28P3JAb3rvqYa684) | 2:24 | 2023-07-21 | 2023-08-26 |
 | [The Rhythm](https://open.spotify.com/track/4XkzbINV9TTT4aVKRl3BI8) | [JOMAQ](https://open.spotify.com/artist/6jcjRT0Ake2QswM8OFTWNO), [Milton Shadow](https://open.spotify.com/artist/6nHOzkptRNRmloGB6juwsd) | [The Rhythm](https://open.spotify.com/album/6osKmZY07zNN5kUORyEI7y) | 3:20 | 2023-08-18 |  |
@@ -134,7 +135,7 @@
 | [Till the World Knows Me](https://open.spotify.com/track/1NFPtZARcv2bpQ9Z4Bycfy) | [Sillaz](https://open.spotify.com/artist/7EroDVPELCYcB8zyB2XN9F) | [Till the World Knows Me](https://open.spotify.com/album/0jkxbj3vxFSbOMvU0NFGMl) | 4:12 | 2023-07-21 |  |
 | [Tira A Camisa](https://open.spotify.com/track/74wXmElNAq0vNBS47FiZSz) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [Tira A Camisa](https://open.spotify.com/album/2uNjixcI6TJrlOcJfbJyuF) | 3:00 | 2023-09-22 |  |
 | [Tonight](https://open.spotify.com/track/4xF3hjfUUEAOQESZmBwbnv) | [Royale BR](https://open.spotify.com/artist/6OLLWuyehNLw5nFKLok3gs) | [Tonight](https://open.spotify.com/album/04F8y4KfwMra5M1l3gplna) | 3:00 | 2023-08-25 |  |
-| [Trippin](https://open.spotify.com/track/4iU5SbOCM3kEdkOV8Isbm1) | [Low Disco](https://open.spotify.com/artist/2vIT4AnEcrFuJaS2JYYVjx) | [Refused EP](https://open.spotify.com/album/6vX6OrdwL9rJwQold48e9C) | 3:16 | 2023-10-13 |  |
+| [Trippin](https://open.spotify.com/track/4iU5SbOCM3kEdkOV8Isbm1) | [Low Disco](https://open.spotify.com/artist/2vIT4AnEcrFuJaS2JYYVjx) | [Refused EP](https://open.spotify.com/album/6vX6OrdwL9rJwQold48e9C) | 3:16 | 2023-10-13 | 2023-11-25 |
 | [Trust Yourself \- RAMAH Remix](https://open.spotify.com/track/7fRkT3nEZ9dcdReEDiP8lC) | [CEVITH](https://open.spotify.com/artist/0R5cBqUk6GntjEAHrAQxjd), [RAMAH](https://open.spotify.com/artist/1Mk6KWgnA9JzOnS1TgSwJi) | [Trust Yourself \(RAMAH Remix\)](https://open.spotify.com/album/2fjKSDSWwUoVKJtzMaitUH) | 4:13 | 2023-11-17 |  |
 | [Try](https://open.spotify.com/track/6SdMZ4jklZZNtuzNVQZPCY) | [Royale BR](https://open.spotify.com/artist/6OLLWuyehNLw5nFKLok3gs) | [Try](https://open.spotify.com/album/37WRmPS6elxB9UQZw84GTH) | 2:26 | 2023-10-20 |  |
 | [Tugudu](https://open.spotify.com/track/7pobnc2nZR6B1BWXksLPz9) | [Gustavo Mota](https://open.spotify.com/artist/045FVvBNAc7VnPYvzAJpO1) | [Tugudu](https://open.spotify.com/album/4X8ykiffFeI1RPpC0gVAxr) | 3:31 | 2023-09-01 |  |
@@ -144,6 +145,7 @@
 | [Velocidade](https://open.spotify.com/track/14QQZUBzohHF1BBSKZ1wfO) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [Velocidade](https://open.spotify.com/album/7LmXgG6EOwRJ5468fhAbI6) | 2:38 | 2023-08-25 |  |
 | [Viagem Ao Centro Do Eu \(Coragem\)](https://open.spotify.com/track/6olpmATWho4waNlcAKJQKo) | [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Paulo Novaes](https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6), [Nina Oliveira](https://open.spotify.com/artist/5VCRm5ymb1B8lybUhaDIN1) | [Viagem Ao Centro Do Eu \(Coragem\)](https://open.spotify.com/album/5hxVW27RJP6u3O7XlaUjwx) | 4:13 | 2023-09-22 |  |
 | [Walls](https://open.spotify.com/track/10o0LKMtVv6TQUq1XBRFKc) | [Obzkure](https://open.spotify.com/artist/2A0Vr6jboum6XRvVfMD3Tl) | [Walls](https://open.spotify.com/album/2yMOT0xmZBEoh9PSL8wqP3) | 2:31 | 2023-07-21 |  |
+| [Way Back](https://open.spotify.com/track/1Q1clcocESI1KAgIQ638lS) | [Duarte](https://open.spotify.com/artist/11ofEe58zrex8X5NBbWhsk), [Roddy Lima](https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx) | [Way Back](https://open.spotify.com/album/76ZIraomSbcDfmAdaJqNa5) | 2:45 | 2023-11-24 |  |
 | [Wertzeung \- Radio Edit](https://open.spotify.com/track/25muAqGzh4IDJEXuvJ7sun) | [BAKKA \(BR\)](https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8) | [Wertzeung](https://open.spotify.com/album/6QYbCPH3AiTO31FYcQuc0W) | 4:38 | 2023-07-21 | 2023-09-16 |
 | [What I Am](https://open.spotify.com/track/4e3UcIEatVBWujQdjHxBK6) | [GREG \(BR\)](https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79), [Gusty](https://open.spotify.com/artist/1EGzWaoNjgTZAYZgB1EwxW) | [What I Am](https://open.spotify.com/album/76XR4xB0JIm2gCizeu6pWu) | 2:38 | 2023-07-21 | 2023-09-16 |
 | [You Give Me a Feelin'](https://open.spotify.com/track/3WZvq6eOdH8nvtJHHINa23) | [SPECT3R](https://open.spotify.com/artist/4NWK1Lp9NUDfJpAnSmAo4t) | [You Give Me a Feelin'](https://open.spotify.com/album/7p3bpCZZ4VhXmcJJ3g1r3D) | 3:10 | 2023-07-21 | 2023-10-14 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "edgy muziek met een rand uit eigen land. cover: NAVARONE COLE",
+  "description": "edgy muziek met een rand uit eigen land. cover: Naaz",
   "name": "karakter.",
   "tracks": [
     {
@@ -808,6 +808,24 @@
       "duration_ms": 227466,
       "name": "In Between",
       "url": "https://open.spotify.com/track/4eckDYgci1yENJ2uQHce4k"
+    },
+    {
+      "album": {
+        "name": "In Mijn Ritme",
+        "url": "https://open.spotify.com/album/53zn3XqI41ya1dosLPr2Ky"
+      },
+      "artists": [
+        {
+          "name": "Willem",
+          "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200777,
+      "name": "In Mijn Ritme",
+      "url": "https://open.spotify.com/track/4NypvDwmgKjZ9UYFQ7mxIW"
     },
     {
       "album": {
@@ -1774,6 +1792,24 @@
       "duration_ms": 132633,
       "name": "Unknown Emotions",
       "url": "https://open.spotify.com/track/0txBNrcVUh5KwUDntM4Jb3"
+    },
+    {
+      "album": {
+        "name": "UPROOT",
+        "url": "https://open.spotify.com/album/3PFdGibdmouG6DD5BiYn7l"
+      },
+      "artists": [
+        {
+          "name": "Naaz",
+          "url": "https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193926,
+      "name": "UPROOT",
+      "url": "https://open.spotify.com/track/757h2XNOmakab55xqMFDRc"
     },
     {
       "album": {

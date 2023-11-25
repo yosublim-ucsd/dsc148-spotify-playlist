@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: The Cleverlys
 
-249 songs - 15 hr 57 min
+250 songs - 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Single Ladies \(Put a Ring On It\)](https://open.spotify.com/track/70OBOxYnVHt07Vgv1KgjKu) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [The Cleverlys](https://open.spotify.com/album/5XpJpEeeYJw0s8Q95T3Y6O) | 4:30 | 2021-08-20 |  |
 | [Slow Dancing in a Burning Room](https://open.spotify.com/track/5YafubHfFZDXSZUtCLGRVX) | [Shadowgrass](https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE) | [Shadowgrass](https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1) | 4:15 | 2022-04-29 |  |
 | [Snowbird](https://open.spotify.com/track/7F1QwL7cYL8VrV2kW5iRI5) | [Special Consensus](https://open.spotify.com/artist/1cKp8EUuOryR1PEOAnGWNt), [Claire Lynch](https://open.spotify.com/artist/00eldNtAqcdLF9adKlyFZf) | [Snowbird](https://open.spotify.com/album/3T43QsJmuywzsRApuCVs2L) | 3:32 | 2023-04-28 |  |
+| [So Far Away](https://open.spotify.com/track/2nwVBqjV5HPLDPlmExAUML) | [Town Mountain](https://open.spotify.com/artist/5cudslRGWg0GsXaN79Wifs) | [So Far Away](https://open.spotify.com/album/0lXVZ5Qf46yARjeuHMCh5d) | 3:41 | 2023-11-24 |  |
 | [Some Might Say](https://open.spotify.com/track/5n7jdlBdFRB8Qey6hVNJQu) | [Danny Burns](https://open.spotify.com/artist/7vjM9siqHKUjRrgopSgNLU), [Dennis Parker](https://open.spotify.com/artist/06YZcS2aoIREKT55qy4KhN), [Scott Vestal](https://open.spotify.com/artist/6dnbsL19QVqDqacfrak5IC), [Ethan Burkhardt](https://open.spotify.com/artist/66ONZHHb6U6lrRBCI1ZMO0), [Billy Contreras](https://open.spotify.com/artist/4WQUxsTG9b6WSXsZCyDPxu), [Matt Menefee](https://open.spotify.com/artist/2A8KLJp5U4zoPrewOpJYbu), [Tony Wray](https://open.spotify.com/artist/130ShDSmz0I3kDPg37lqlW), [Josh Methany](https://open.spotify.com/artist/5W3GMYyA1nWOQrqKe4PlPg) | [Some Might Say](https://open.spotify.com/album/3CUsbiuld57ptitcrvaNYn) | 3:39 | 2022-11-18 |  |
 | [Somebody to Love](https://open.spotify.com/track/0L9fWUcLnPIf5Z7rljJ8Mm) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/1eGhBN5TotmkJFhtVm9Kvm) | 3:42 | 2022-05-27 | 2022-10-14 |
 | [Somebody to Love](https://open.spotify.com/track/2tJesD4R8yf7G5JRzgE05y) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/3gWZlMKDGLdB36OQjOo4fZ) | 3:42 | 2022-10-07 |  |

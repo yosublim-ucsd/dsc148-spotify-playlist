@@ -2442,7 +2442,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 185250,
       "name": "Favour",
       "url": "https://open.spotify.com/track/3VmmsSRAhOr3MIWdMUdKjE"
@@ -2999,6 +2999,28 @@
     },
     {
       "album": {
+        "name": "HEADCASE",
+        "url": "https://open.spotify.com/album/4QFtZ8a8SjNrk2uCY1TP0Z"
+      },
+      "artists": [
+        {
+          "name": "OddKidOut",
+          "url": "https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux"
+        },
+        {
+          "name": "Hyro The Hero",
+          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122400,
+      "name": "HEADCASE",
+      "url": "https://open.spotify.com/track/5WOZJnZXHTB02ZavH48bMH"
+    },
+    {
+      "album": {
         "name": "Hearteater",
         "url": "https://open.spotify.com/album/07nDVEKSCJsJRwnkH86CFa"
       },
@@ -3252,6 +3274,28 @@
       "duration_ms": 241475,
       "name": "i don\u2019t wanna write sad songs anymore",
       "url": "https://open.spotify.com/track/5lrOg4024hpqo39lVsr2nM"
+    },
+    {
+      "album": {
+        "name": "I Wish I Could Forget You",
+        "url": "https://open.spotify.com/album/1KpagOX50yv8bE0XvcZNUq"
+      },
+      "artists": [
+        {
+          "name": "Cabuizee",
+          "url": "https://open.spotify.com/artist/60v1WXUYLa0WGarCGy7hF4"
+        },
+        {
+          "name": "Raddix",
+          "url": "https://open.spotify.com/artist/2ECb9wVfWlrUdjGlpk1P2H"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196285,
+      "name": "I Wish I Could Forget You",
+      "url": "https://open.spotify.com/track/37ezXYMDox6zjvU5HNhdF6"
     },
     {
       "album": {
@@ -5146,7 +5190,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 199448,
       "name": "Raindrops",
       "url": "https://open.spotify.com/track/2s7IP5vJzTJXRZ9vxVAuG5"

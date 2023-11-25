@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume! Cover: UCHE YARA",
-  "num_followers": 29912,
+  "num_followers": 29908,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWM0MDM5MjkyNWJlMGMzMWFjOWI0OWJkZGI3ZjViMmE5YWIwMGFj",
+  "snapshot_id": "MCxkYjcyNWE5MzI0YTkzMDRhYmQxNGYyN2U2NGJjZDIzNDA3ODUwNzQz",
   "tracks": [
     {
       "added_at": "2023-11-07 23:00:00",
@@ -251,18 +251,18 @@
     {
       "added_at": "2023-11-07 23:00:00",
       "album": {
-        "name": "Foxx",
-        "url": "https://open.spotify.com/album/7CQqgj7H1MY6iEu5E6E173"
+        "name": "Wer bin ich?",
+        "url": "https://open.spotify.com/album/1V2qUVwP9VNLD5jClrpdwf"
       },
       "artists": [
         {
-          "name": "Moglii",
-          "url": "https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS"
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/39IqPtl3QzWMrjGLzoqQ24"
         }
       ],
-      "duration_ms": 193845,
-      "name": "Foxx",
-      "url": "https://open.spotify.com/track/1cAecmf7rCCpqGJvPIZpEo"
+      "duration_ms": 126492,
+      "name": "Wer bin ich?",
+      "url": "https://open.spotify.com/track/0Df77mLtYwmY1vJJL4ezHw"
     },
     {
       "added_at": "2023-11-07 23:00:00",
@@ -283,18 +283,18 @@
     {
       "added_at": "2023-11-07 23:00:00",
       "album": {
-        "name": "Wer bin ich?",
-        "url": "https://open.spotify.com/album/1V2qUVwP9VNLD5jClrpdwf"
+        "name": "Foxx",
+        "url": "https://open.spotify.com/album/7CQqgj7H1MY6iEu5E6E173"
       },
       "artists": [
         {
-          "name": "KARA",
-          "url": "https://open.spotify.com/artist/39IqPtl3QzWMrjGLzoqQ24"
+          "name": "Moglii",
+          "url": "https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS"
         }
       ],
-      "duration_ms": 126492,
-      "name": "Wer bin ich?",
-      "url": "https://open.spotify.com/track/0Df77mLtYwmY1vJJL4ezHw"
+      "duration_ms": 193845,
+      "name": "Foxx",
+      "url": "https://open.spotify.com/track/1cAecmf7rCCpqGJvPIZpEo"
     },
     {
       "added_at": "2023-11-07 23:00:00",
@@ -459,6 +459,30 @@
     {
       "added_at": "2023-11-07 23:00:00",
       "album": {
+        "name": "SNACKS",
+        "url": "https://open.spotify.com/album/7c17jsWUkwcqaYXpb7ayXV"
+      },
+      "artists": [
+        {
+          "name": "Antje Schomaker",
+          "url": "https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n"
+        },
+        {
+          "name": "Juli",
+          "url": "https://open.spotify.com/artist/7g13nmmxq4XN0hd64Jzkol"
+        },
+        {
+          "name": "Eva Briegel",
+          "url": "https://open.spotify.com/artist/46Ks1huLimSVHpgTUruVoj"
+        }
+      ],
+      "duration_ms": 195066,
+      "name": "Irgendwohin",
+      "url": "https://open.spotify.com/track/5WBkovIPgnge8evVpddLrh"
+    },
+    {
+      "added_at": "2023-11-07 23:00:00",
+      "album": {
         "name": "FROSTY",
         "url": "https://open.spotify.com/album/1jSuq12CCzp1ipFI45flxt"
       },
@@ -491,30 +515,6 @@
       "duration_ms": 214853,
       "name": "Plastic Pleasures - Sped Up",
       "url": "https://open.spotify.com/track/1FxDdE1F6UWHiolcWgMdUk"
-    },
-    {
-      "added_at": "2023-11-07 23:00:00",
-      "album": {
-        "name": "SNACKS",
-        "url": "https://open.spotify.com/album/7c17jsWUkwcqaYXpb7ayXV"
-      },
-      "artists": [
-        {
-          "name": "Antje Schomaker",
-          "url": "https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n"
-        },
-        {
-          "name": "Juli",
-          "url": "https://open.spotify.com/artist/7g13nmmxq4XN0hd64Jzkol"
-        },
-        {
-          "name": "Eva Briegel",
-          "url": "https://open.spotify.com/artist/46Ks1huLimSVHpgTUruVoj"
-        }
-      ],
-      "duration_ms": 195066,
-      "name": "Irgendwohin",
-      "url": "https://open.spotify.com/track/5WBkovIPgnge8evVpddLrh"
     },
     {
       "added_at": "2023-11-07 23:00:00",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-11-07 23:00:00",
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/5EfyRkh3E5olUj5lCXRLGa"
+      },
+      "artists": [
+        {
+          "name": "Maria Basel",
+          "url": "https://open.spotify.com/artist/7bG0R0A7ysGORFgSyyuWfR"
+        }
+      ],
+      "duration_ms": 182787,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/4lCDZEg7rGyNakOoZSnx7p"
+    },
+    {
+      "added_at": "2023-11-07 23:00:00",
+      "album": {
         "name": "Something's Dripping From The Ceiling",
         "url": "https://open.spotify.com/album/4YNwKQcG0gcHovZ9P2zjiE"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 341043,
       "name": "Cold",
       "url": "https://open.spotify.com/track/5ATHCczlO4oYhNEmEA4sGx"
-    },
-    {
-      "added_at": "2023-11-07 23:00:00",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/5EfyRkh3E5olUj5lCXRLGa"
-      },
-      "artists": [
-        {
-          "name": "Maria Basel",
-          "url": "https://open.spotify.com/artist/7bG0R0A7ysGORFgSyyuWfR"
-        }
-      ],
-      "duration_ms": 182787,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/4lCDZEg7rGyNakOoZSnx7p"
     },
     {
       "added_at": "2023-11-07 23:00:00",

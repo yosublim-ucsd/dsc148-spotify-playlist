@@ -2119,6 +2119,24 @@
     },
     {
       "album": {
+        "name": "FEELING BODY",
+        "url": "https://open.spotify.com/album/3D2gBvOa2KhfW0qXjN0lHj"
+      },
+      "artists": [
+        {
+          "name": "Nyokabi Kariuki",
+          "url": "https://open.spotify.com/artist/04vacT34stkfP2TFkNvDf2"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190212,
+      "name": "quiet face",
+      "url": "https://open.spotify.com/track/0x2GowE3BwQCG7ZAYwiTxC"
+    },
+    {
+      "album": {
         "name": "Rain or Sun",
         "url": "https://open.spotify.com/album/48LteUpZNIlMtvaj0J6MXb"
       },

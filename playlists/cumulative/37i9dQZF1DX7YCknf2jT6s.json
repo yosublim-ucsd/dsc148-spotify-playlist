@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Andr\u00e9 3000",
+  "description": "New jazz for open minds. Cover: Nubiyan Twist",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -176,7 +176,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 183836,
       "name": "50 Years",
       "url": "https://open.spotify.com/track/3Dy0QWzEEKNpduq84nGxia"
@@ -432,6 +432,28 @@
       "duration_ms": 509298,
       "name": "A Day Without You",
       "url": "https://open.spotify.com/track/4WzBJCHBXcUXAzM48jWy7v"
+    },
+    {
+      "album": {
+        "name": "A Lovesome Thing",
+        "url": "https://open.spotify.com/album/47b74rWLSpPJjFfmw3gLUh"
+      },
+      "artists": [
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        },
+        {
+          "name": "Geri Allen",
+          "url": "https://open.spotify.com/artist/0jqAOYfo9ipclW7ATXPhHg"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 618645,
+      "name": "A Flower is a Lovesome Thing",
+      "url": "https://open.spotify.com/track/1pZ9MJT3kKWTe9WDvfbgdN"
     },
     {
       "album": {
@@ -7386,7 +7408,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 177370,
       "name": "Feed Them To The Machine",
       "url": "https://open.spotify.com/track/69ttmOIzh9you9xe4whVDj"
@@ -9154,7 +9176,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 175148,
       "name": "Hello",
       "url": "https://open.spotify.com/track/26r5hoIx5hDUY9b4tDisHx"
@@ -14505,6 +14527,24 @@
     },
     {
       "album": {
+        "name": "Never Doubt",
+        "url": "https://open.spotify.com/album/7JBHfFH8n8HNHvwZTgMmr3"
+      },
+      "artists": [
+        {
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250399,
+      "name": "Never Doubt",
+      "url": "https://open.spotify.com/track/2n3IsOUF3qp6tHHozmEKGy"
+    },
+    {
+      "album": {
         "name": "\u30c8\u30ea\u30aa\u30d4\u30c3\u30af \u301c\u6fc0\u95d8\u306e\u8a18\u9332\u301c",
         "url": "https://open.spotify.com/album/7lcqOb9nm6NaPFRF9b02fK"
       },
@@ -19480,6 +19520,24 @@
       "duration_ms": 252000,
       "name": "So Cold",
       "url": "https://open.spotify.com/track/6vv87FsmQpbakkEQUm3G3n"
+    },
+    {
+      "album": {
+        "name": "So Mi Stay",
+        "url": "https://open.spotify.com/album/2TGuOjs6ree8F2eB1A4S1n"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260226,
+      "name": "So Mi Stay",
+      "url": "https://open.spotify.com/track/11u619J5WmRcm5ByntmjWQ"
     },
     {
       "album": {
@@ -24880,7 +24938,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 94586,
       "name": "Welcome To Baratie",
       "url": "https://open.spotify.com/track/3W5zGsOFSMJTssLAVSp575"
@@ -25212,6 +25270,32 @@
       "duration_ms": 330874,
       "name": "Wings",
       "url": "https://open.spotify.com/track/3hUngNsqq838qYdEQrMEcg"
+    },
+    {
+      "album": {
+        "name": "Crisis & Opportunity, Vol.4 - Meditations",
+        "url": "https://open.spotify.com/album/4xl86Mx1lHtBaH2y6HrLMb"
+      },
+      "artists": [
+        {
+          "name": "Myele Manzanza",
+          "url": "https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd"
+        },
+        {
+          "name": "Matthew Sheens",
+          "url": "https://open.spotify.com/artist/0JPXDx4VWAKMfFCVg2mw5E"
+        },
+        {
+          "name": "Matt Penman",
+          "url": "https://open.spotify.com/artist/7HSQeZZSI9YNyVe2emSM9k"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 468460,
+      "name": "Winter",
+      "url": "https://open.spotify.com/track/3HlO9LOzWYtazt0URqky8r"
     },
     {
       "album": {

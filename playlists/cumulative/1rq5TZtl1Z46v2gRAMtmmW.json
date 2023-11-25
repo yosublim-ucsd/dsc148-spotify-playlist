@@ -220,7 +220,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 209500,
       "name": "Ancestral Future Now - KMRU Rework",
       "url": "https://open.spotify.com/track/53o9V6ERr9euyGcX9uZDoF"
@@ -1678,7 +1678,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 257414,
       "name": "Hidden Angel - Hackney Road Studio Session",
       "url": "https://open.spotify.com/track/4VkylJXzgZjeNHksy0ANIE"
@@ -2028,6 +2028,28 @@
       "duration_ms": 289430,
       "name": "Infinite Window",
       "url": "https://open.spotify.com/track/2EqeGPRUCz1sFz7etlN21Y"
+    },
+    {
+      "album": {
+        "name": "Reworks: Vol2",
+        "url": "https://open.spotify.com/album/3mPD0KqR6ACKk1IUt2jJE3"
+      },
+      "artists": [
+        {
+          "name": "James Heather",
+          "url": "https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu"
+        },
+        {
+          "name": "Ishmael Ensemble",
+          "url": "https://open.spotify.com/artist/6LiMIy9kwdQAfMrBInyUvY"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283200,
+      "name": "Invisible Forces - Ishmael Ensemble Remix",
+      "url": "https://open.spotify.com/track/2Q3gB3xpEyClhoAYNEl2PA"
     },
     {
       "album": {
@@ -2618,6 +2640,28 @@
       "duration_ms": 158882,
       "name": "Now U Do - Edit",
       "url": "https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF"
+    },
+    {
+      "album": {
+        "name": "Reworks: Vol2",
+        "url": "https://open.spotify.com/album/3mPD0KqR6ACKk1IUt2jJE3"
+      },
+      "artists": [
+        {
+          "name": "James Heather",
+          "url": "https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu"
+        },
+        {
+          "name": "Nailah Hunter",
+          "url": "https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230500,
+      "name": "Oizys - Nailah Hunter Rework",
+      "url": "https://open.spotify.com/track/5DcscpafyYnOPyOZFzH55k"
     },
     {
       "album": {

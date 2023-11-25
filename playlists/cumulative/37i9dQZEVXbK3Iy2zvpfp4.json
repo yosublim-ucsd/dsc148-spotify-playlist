@@ -8588,7 +8588,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 150401,
       "name": "Fighting My Demons",
       "url": "https://open.spotify.com/track/2c7sRekhMGlj7u1WIIzoQu"
@@ -15390,7 +15390,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-23",
+      "date_removed": null,
       "duration_ms": 125769,
       "name": "Love Game",
       "url": "https://open.spotify.com/track/4n81eNyWOkaxBIPrBQk0NJ"
@@ -20210,7 +20210,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 155905,
       "name": "Overdrive (feat. Norma Jean Martine)",
       "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
@@ -21018,7 +21018,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-23",
+      "date_removed": null,
       "duration_ms": 159080,
       "name": "Perfect Night",
       "url": "https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8"
@@ -21718,7 +21718,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 142080,
       "name": "prayer1",
       "url": "https://open.spotify.com/track/2R4sIoCrJb4OV5qcsNDIQ6"
@@ -22776,7 +22776,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 186782,
       "name": "Re\u017eim neru\u0161it",
       "url": "https://open.spotify.com/track/6AZaXcXWfcFgJRgl4bsgvD"
@@ -24492,7 +24492,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 136528,
       "name": "Sick Of Your Love",
       "url": "https://open.spotify.com/track/4qNx6PlGnuFUyZNYcNBXCo"
@@ -29313,6 +29313,28 @@
     },
     {
       "album": {
+        "name": "VVV",
+        "url": "https://open.spotify.com/album/58qd4MXmdf6NlmxMDhOZVa"
+      },
+      "artists": [
+        {
+          "name": "mikeeysmind",
+          "url": "https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN"
+        },
+        {
+          "name": "Sanikwave",
+          "url": "https://open.spotify.com/artist/4vy5ZH1CnzEqaInvIUu4z1"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227612,
+      "name": "VVV",
+      "url": "https://open.spotify.com/track/71H5M1aGUJCEkjxinQWBW2"
+    },
+    {
+      "album": {
         "name": "Na ceste za mnou",
         "url": "https://open.spotify.com/album/23NHjOVzpWLIyOMmWhMhmA"
       },
@@ -31534,7 +31556,7 @@
       ],
       "date_added": "2023-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 144000,
       "name": "\u0413\u0443\u043b\u044f\u044e",
       "url": "https://open.spotify.com/track/4lleps28xCklJLtTt5MoJt"

@@ -41,6 +41,28 @@
     },
     {
       "album": {
+        "name": "2 Pa 2",
+        "url": "https://open.spotify.com/album/6WSIEb9TdBnMg2WabHoVOt"
+      },
+      "artists": [
+        {
+          "name": "FVBIIAN",
+          "url": "https://open.spotify.com/artist/3QkNp8MdNMNnDqMVDnbN3p"
+        },
+        {
+          "name": "DLAM",
+          "url": "https://open.spotify.com/artist/5nOaUEjOFgKlPBzFTaUapR"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "2 Pa 2",
+      "url": "https://open.spotify.com/track/239UkSdw8tu7ibYQPw3ZqX"
+    },
+    {
+      "album": {
         "name": "2021",
         "url": "https://open.spotify.com/album/6rSzR0tafmEZqdTiNrqPLJ"
       },
@@ -1086,7 +1108,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 154971,
       "name": "Carajo Beba",
       "url": "https://open.spotify.com/track/6PaF7s99cL2s12b1bzzRVz"
@@ -1685,6 +1707,32 @@
     },
     {
       "album": {
+        "name": "Date Grasa",
+        "url": "https://open.spotify.com/album/2kzo362UsHIhf6QS6SXyZ1"
+      },
+      "artists": [
+        {
+          "name": "Alnz G",
+          "url": "https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf"
+        },
+        {
+          "name": "Mad Fuentes",
+          "url": "https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW"
+        },
+        {
+          "name": "Malianteo Mx",
+          "url": "https://open.spotify.com/artist/1N8srm49MOUfNdYsxQ1E06"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163529,
+      "name": "Date Grasa",
+      "url": "https://open.spotify.com/track/5VS3fIxPQaWb3UggVFXEiO"
+    },
+    {
+      "album": {
         "name": "De 0 a 100",
         "url": "https://open.spotify.com/album/7xwuPWyhZEwx3zmOBj165l"
       },
@@ -1964,7 +2012,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 192142,
       "name": "Dime",
       "url": "https://open.spotify.com/track/02jGuqnuB3qTII9eNoQBfq"
@@ -4300,7 +4348,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 168960,
       "name": "Los QLMT3N",
       "url": "https://open.spotify.com/track/4EBefJvph8XFLalxZsZGyW"
@@ -5614,7 +5662,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 119533,
       "name": "Nota",
       "url": "https://open.spotify.com/track/5bC850rBpoHkvF0Nx4t2YM"
@@ -5922,7 +5970,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 187000,
       "name": "PAL CIELO",
       "url": "https://open.spotify.com/track/2aQurrxYljh8pFejntNDwq"
@@ -6411,6 +6459,28 @@
     },
     {
       "album": {
+        "name": "PLEBITA",
+        "url": "https://open.spotify.com/album/1LeugvjTI7mdcVwmED0DpW"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147228,
+      "name": "PLEBITA",
+      "url": "https://open.spotify.com/track/2T27yDWUrmTBEF08PH8bFs"
+    },
+    {
+      "album": {
         "name": "POEMA A TUS PROBLEMAS",
         "url": "https://open.spotify.com/album/65eUZ6WDTDo4ZYI1nqXkz5"
       },
@@ -6552,6 +6622,28 @@
       "duration_ms": 170450,
       "name": "Prisionero",
       "url": "https://open.spotify.com/track/2engG3iABkqRUGSHMDr55i"
+    },
+    {
+      "album": {
+        "name": "La Cosecha Vol 1",
+        "url": "https://open.spotify.com/album/7rjRzz1CJd6vYmwBTa89E1"
+      },
+      "artists": [
+        {
+          "name": "Lexxx Torres",
+          "url": "https://open.spotify.com/artist/5JUJKO2egZMEcwR3fB3u0w"
+        },
+        {
+          "name": "Easy Mo",
+          "url": "https://open.spotify.com/artist/76Oj47sMTbpy61tK8k81Ty"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186122,
+      "name": "Purple Haze",
+      "url": "https://open.spotify.com/track/6LN4YNM0DzMmTBRA9D2Dvd"
     },
     {
       "album": {
@@ -9060,6 +9152,28 @@
       "duration_ms": 183012,
       "name": "\u00d1ero Session 7",
       "url": "https://open.spotify.com/track/1tDpUBaXfL5mLqL4pHCxMu"
+    },
+    {
+      "album": {
+        "name": "\u00d1ero Session 8",
+        "url": "https://open.spotify.com/album/0lBWP5l7mhQ4afnp8RVZ2C"
+      },
+      "artists": [
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "Jossie A",
+          "url": "https://open.spotify.com/artist/3wXd0N7IkY2bZ4KMbhmBJ5"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144468,
+      "name": "\u00d1ero Session 8",
+      "url": "https://open.spotify.com/track/4K4d0aCB2G7oULFGnR8UYv"
     },
     {
       "album": {

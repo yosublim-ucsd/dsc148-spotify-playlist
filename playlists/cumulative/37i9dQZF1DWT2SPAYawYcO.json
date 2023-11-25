@@ -5881,7 +5881,7 @@
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 171063,
+      "duration_ms": 171838,
       "name": "BULLETPROOF",
       "url": "https://open.spotify.com/track/6vGvAowS6NL9kDoQCTiUzN"
     },
@@ -22432,10 +22432,28 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 237847,
       "name": "Lion",
       "url": "https://open.spotify.com/track/3l4rzb2PtCxrOUzaD3RHEk"
+    },
+    {
+      "album": {
+        "name": "Lion",
+        "url": "https://open.spotify.com/album/3wgcQA1ECrAQBYjrVfYQJe"
+      },
+      "artists": [
+        {
+          "name": "Birds Of Tokyo",
+          "url": "https://open.spotify.com/artist/25ou7Y6W7L1fcMoCZMbf86"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237847,
+      "name": "Lion",
+      "url": "https://open.spotify.com/track/50HYpx833n8I466f6n8nat"
     },
     {
       "album": {
@@ -28155,6 +28173,24 @@
     },
     {
       "album": {
+        "name": "King Zoo",
+        "url": "https://open.spotify.com/album/1fboUYBvu86pCmFNrLb615"
+      },
+      "artists": [
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118615,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/5HUxZN7PuTML2SkJnBuP5a"
+    },
+    {
+      "album": {
         "name": "OUTSIDE RUNNIN (feat. PHI11A)",
         "url": "https://open.spotify.com/album/22O9ZjrV8p1TBLXBjACNE0"
       },
@@ -29910,6 +29946,24 @@
       "duration_ms": 151384,
       "name": "Public Demand",
       "url": "https://open.spotify.com/track/4K1QtToqoDgfopYzTrD9KK"
+    },
+    {
+      "album": {
+        "name": "Pull It Up",
+        "url": "https://open.spotify.com/album/33cYFSyck2TiCnEYHFxqk6"
+      },
+      "artists": [
+        {
+          "name": "Gold Fang",
+          "url": "https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154261,
+      "name": "Pull It Up",
+      "url": "https://open.spotify.com/track/4LbTlzMQmQlJJ0ABxBRYsF"
     },
     {
       "album": {
@@ -32822,10 +32876,28 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 186702,
       "name": "Settle Petal",
       "url": "https://open.spotify.com/track/0OZzJeWYjfzyaUfjuib2qb"
+    },
+    {
+      "album": {
+        "name": "Settle Petal",
+        "url": "https://open.spotify.com/album/15sV58RWILYvlgPXkOOTfy"
+      },
+      "artists": [
+        {
+          "name": "The Buoys",
+          "url": "https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186702,
+      "name": "Settle Petal",
+      "url": "https://open.spotify.com/track/6bChyygWt38QX2rOuPNzvw"
     },
     {
       "album": {
@@ -33753,6 +33825,28 @@
     },
     {
       "album": {
+        "name": "M1onTheBeat The Mixtape",
+        "url": "https://open.spotify.com/album/2eNxE5vYk1YgZGQx6BT8UL"
+      },
+      "artists": [
+        {
+          "name": "M1onTheBeat",
+          "url": "https://open.spotify.com/artist/7gOJzXf9msdY8JUhMQypSH"
+        },
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122089,
+      "name": "Skinfade",
+      "url": "https://open.spotify.com/track/4UCEIGRovOmBuJz0oOHjI2"
+    },
+    {
+      "album": {
         "name": "Skinfade",
         "url": "https://open.spotify.com/album/3q7jI2SR3PNrwvAlIAG8Wy"
       },
@@ -33768,7 +33862,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 122089,
       "name": "Skinfade",
       "url": "https://open.spotify.com/track/4e4opOX6j40mfCuWS4u1jD"
@@ -38534,6 +38628,24 @@
     {
       "album": {
         "name": "Mushroom: 50 Years Of Making Noise (Reimagined)",
+        "url": "https://open.spotify.com/album/4SRtPtUkg4izzJZ2Kr2LMJ"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183677,
+      "name": "Throw Your Arms Around Me",
+      "url": "https://open.spotify.com/track/0CVwSCQOx3CMHjwDCmaElh"
+    },
+    {
+      "album": {
+        "name": "Mushroom: 50 Years Of Making Noise (Reimagined)",
         "url": "https://open.spotify.com/album/2gpFlvBE5l3fLaOllaJzUR"
       },
       "artists": [
@@ -38544,7 +38656,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 183677,
       "name": "Throw Your Arms Around Me",
       "url": "https://open.spotify.com/track/6oMH9gcyIewqAoG62I1oAW"

@@ -448,7 +448,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 229996,
       "name": "Colors Of The Moon",
       "url": "https://open.spotify.com/track/2m9dwTEyYuMREZTttiFKmF"
@@ -1028,6 +1028,24 @@
       "duration_ms": 217499,
       "name": "Floating",
       "url": "https://open.spotify.com/track/1G4QmXMFFPKypYFfZaV3Mg"
+    },
+    {
+      "album": {
+        "name": "Floating mountains",
+        "url": "https://open.spotify.com/album/2QKzH0nFv4CrRCGOwYwJH3"
+      },
+      "artists": [
+        {
+          "name": "Dream WIzard",
+          "url": "https://open.spotify.com/artist/6ykiEbUBL5ud2RR3QY32o7"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Floating mountains",
+      "url": "https://open.spotify.com/track/5io4X8nDxnVCU3wp25U4WI"
     },
     {
       "album": {

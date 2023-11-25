@@ -4,7 +4,7 @@
 
 > Soundtrack your practice with this mix of chill and motivational tracks perfect for vinyasa yoga.
 
-372 songs - 15 hr 56 min
+373 songs - 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@
 | [hey there](https://open.spotify.com/track/68Zo3BRsxsowxAxwT1RC9I) | [Soulflu](https://open.spotify.com/artist/6dBaFTE0JSiCN4JL9K03tM) | [hey there](https://open.spotify.com/album/3KIlwKpgo3op5kfqQXuvXy) | 1:51 | 2023-08-10 | 2023-10-06 |
 | [Hidden Village](https://open.spotify.com/track/1XlLmcGawSaHSysOg5YPbq) | [Slacker Jack's](https://open.spotify.com/artist/3IYkO05jx2ouEKrI90Fml0) | [Hidden Village](https://open.spotify.com/album/3vr5I9Jb9vgRuFsRfTfhnQ) | 2:37 | 2022-03-14 |  |
 | [Hide Me](https://open.spotify.com/track/3rH00yyUuY5QaCmr7TEimq) | [Qommodity](https://open.spotify.com/artist/5Pts11yzPI5Qsl7PmTed5P) | [Hide Me](https://open.spotify.com/album/6StMIiLIF66coXCGXZIWok) | 2:34 | 2022-06-22 |  |
-| [Hojas Secas](https://open.spotify.com/track/1GU8SNqu49z9lay861Rby1) | [Cielomoto](https://open.spotify.com/artist/27GlbcSMtO4kBTdzs2a5Ph) | [Hojas Secas](https://open.spotify.com/album/1jngVxcmAseCKTOA6I3OHR) | 2:20 | 2022-06-02 |  |
+| [Hojas Secas](https://open.spotify.com/track/1GU8SNqu49z9lay861Rby1) | [Cielomoto](https://open.spotify.com/artist/27GlbcSMtO4kBTdzs2a5Ph) | [Hojas Secas](https://open.spotify.com/album/1jngVxcmAseCKTOA6I3OHR) | 2:20 | 2022-06-02 | 2023-11-25 |
 | [Hold On](https://open.spotify.com/track/7KKfvDIIyl6tqeXADXah6W) | [Mac Beez](https://open.spotify.com/artist/4BlBvAGQrqv3vWmx8GWTds) | [Hold On](https://open.spotify.com/album/2ZFRC28tWKrAIQtbTIaWAC) | 3:44 | 2022-03-14 | 2022-07-29 |
 | [honestly](https://open.spotify.com/track/5zCa75jnSOrgap5EaAW7zI) | [dirtybirdie](https://open.spotify.com/artist/757oyVLql8wYqYzOEz7BIT) | [honestly](https://open.spotify.com/album/4zIdz6orD5zDjyknExQwxk) | 1:38 | 2022-06-02 | 2022-11-26 |
 | [Hope even more](https://open.spotify.com/track/5qLlEaKLP4FI09QqDYVFCL) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Hope even more](https://open.spotify.com/album/6gxoN7Y7FGLPgWxyAN01LP) | 2:09 | 2022-06-02 | 2022-11-26 |
@@ -337,6 +337,7 @@
 | [Time And Place](https://open.spotify.com/track/7vjcy4XREUkVbfG3V6jpj9) | [LYXOc](https://open.spotify.com/artist/3VLfve633bKsqmdN7bYujc) | [Time And Place](https://open.spotify.com/album/09rV6gvgFkBQMKGOlBUflC) | 2:11 | 2023-06-20 |  |
 | [Time Traveler](https://open.spotify.com/track/7MH56weRw2uMcFaTAWgHUE) | [mennasa](https://open.spotify.com/artist/3J5F3p73CQAPPPbQzlLHUk) | [Time Traveler](https://open.spotify.com/album/7azHzF2Y0ZP7zX22WdSAld) | 3:01 | 2023-01-24 |  |
 | [Tinkerer](https://open.spotify.com/track/6L83ooUIEa5RyayCgTgnSo) | [Svedje](https://open.spotify.com/artist/0IWHtpPrewzL4qFOOuUk89) | [Tinkerer](https://open.spotify.com/album/4FyPos8muBshzBWUqHburL) | 2:36 | 2022-07-28 | 2023-01-25 |
+| [To the Warmth](https://open.spotify.com/track/31hiwcy0awy9bdb5JNVtKg) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [To the Warmth](https://open.spotify.com/album/5eAfBdWeMNygAk8JXfwDka) | 2:07 | 2023-11-24 |  |
 | [tori](https://open.spotify.com/track/4RsPO5uzWZLswhbc8ExfyL) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [tori](https://open.spotify.com/album/1e769cLRV0uXNAmZG1Wo25) | 1:42 | 2022-09-22 | 2023-06-21 |
 | [Tree Luv](https://open.spotify.com/track/6LPuiJpNuRZ2zuG9XnEbGd) | [Felix Johansson Carne](https://open.spotify.com/artist/5tb6pZdgWLr5oHOlSgtiqk) | [Tree Luv](https://open.spotify.com/album/43oNGGHpRfrnIUp6tuXdA1) | 2:01 | 2022-03-14 | 2022-10-26 |
 | [Tsega](https://open.spotify.com/track/0z3JbwNCfq6wwuONwZH1pg) | [Yax Keyon](https://open.spotify.com/artist/04m8qKALJROziTgfvAI2RY) | [Virtura](https://open.spotify.com/album/1Js5sMBEWLA3UXGp04Ol2S) | 2:36 | 2022-03-14 | 2022-06-03 |

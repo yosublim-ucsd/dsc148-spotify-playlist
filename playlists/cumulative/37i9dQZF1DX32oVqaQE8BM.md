@@ -4,7 +4,7 @@
 
 > The ultimate chill out playlist.
 
-552 songs - 23 hr 30 min
+554 songs - 23 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,6 +336,7 @@
 | [Nights In Lisbon](https://open.spotify.com/track/6fWRrZdxU2Ucw00Ecmg893) | [Moyya](https://open.spotify.com/artist/4fPlOWWhp8ooStHBxk3zoF) | [Nights In Lisbon](https://open.spotify.com/album/1tMH8E04BhBQ0jwMN1zQQ3) | 2:32 | 2021-11-10 | 2022-07-08 |
 | [nineteeneightyhaze](https://open.spotify.com/track/0cPnHVDQf504zgJxLltS8B) | [glowbot](https://open.spotify.com/artist/3K4q3uZtRibDMDIHCRk4XI) | [nineteeneightyhaze](https://open.spotify.com/album/5RNyvmgxoMexYtmd7tTtnv) | 2:39 | 2021-11-10 | 2022-04-15 |
 | [noice](https://open.spotify.com/track/5ZUbGn8uO1vLCQv8ijvbl6) | [fresh from the oven](https://open.spotify.com/artist/6glzNO8EqQsWlQfmxnwK36) | [noice](https://open.spotify.com/album/4HSeaIj5gON2LOdILxHzIT) | 1:48 | 2021-11-10 | 2022-04-15 |
+| [nostalgic euphoria](https://open.spotify.com/track/5LAj6q1KFOd5oQOoWS1DvF) | [Cat Dreams](https://open.spotify.com/artist/5FcssevMYhJmgxxVmIUkH1) | [nostalgic euphoria](https://open.spotify.com/album/27fjifkxlmpSCiWtunPjGN) | 2:15 | 2023-11-24 |  |
 | [Nothing But Love](https://open.spotify.com/track/5Ta751OhMtN2F0IR9fJRFL) | [Chimes & Diamonds](https://open.spotify.com/artist/22hToWuWyog4NvZLmuZKND) | [Nothing But Love](https://open.spotify.com/album/4VAJ4cK6wAGBEeoC28bF20) | 2:34 | 2023-01-13 |  |
 | [Nuages](https://open.spotify.com/track/5zABvoRurfZ456yMRvqjZ7) | [Stanton](https://open.spotify.com/artist/2bFESEkcjm4jaMnLd3ROM5) | [Nuages](https://open.spotify.com/album/7Jd7l8nFnClLENTSnAde8L) | 2:37 | 2021-11-10 | 2022-09-23 |
 | [Number\#](https://open.spotify.com/track/48db71uT5mlzqtkBG5BOtJ) | [Azurenity](https://open.spotify.com/artist/670tCQfj3LeVsUqb2SY4Rs) | [Number\#](https://open.spotify.com/album/0vCDjbfYpMvookIZDrLXvl) | 2:15 | 2022-10-28 |  |
@@ -529,6 +530,7 @@
 | [Vacation](https://open.spotify.com/track/3EvZtIXtY5pRyboLxVc93n) | [Hanawal](https://open.spotify.com/artist/3xUcEsjHpe4Ps5ziYErlqs) | [Vacation](https://open.spotify.com/album/6mgZeATUdVHaEOobbSR6Dv) | 3:15 | 2022-05-20 | 2023-08-05 |
 | [Vacay lets gooo](https://open.spotify.com/track/2xCtE1orl0wVEhSI1fDMDY) | [Sapphire Llama](https://open.spotify.com/artist/0ukEGWLjiNHntHlKL4qeF9) | [Vacay lets gooo](https://open.spotify.com/album/5xUrXJ3vZ3biL78DOEabhH) | 2:01 | 2022-05-20 | 2023-07-14 |
 | [Vegetable Potion](https://open.spotify.com/track/5IaPHmM1d2l7WH2PXrkSor) | [Bring Your Vest](https://open.spotify.com/artist/3cCwLIIuTQy9USf5NyVKH3) | [Vegetable Potion](https://open.spotify.com/album/0e2Cyivw8FxGN1GCqbl3hU) | 2:03 | 2021-11-10 | 2022-08-20 |
+| [velvet whispers](https://open.spotify.com/track/6AoVHkrBvCgNwqTI2uYYgT) | [Tofu Sundae](https://open.spotify.com/artist/5To0dZmha3dFTtCJw96FNF) | [velvet whispers](https://open.spotify.com/album/3EEdgK8RCtScM3N2KP5y1K) | 3:17 | 2023-11-24 |  |
 | [Venice](https://open.spotify.com/track/1FO9LieasI7ttaaDzijInm) | [lowclowds](https://open.spotify.com/artist/25oJa6BWwoxxrNa299VMh1) | [Venice](https://open.spotify.com/album/0FSV7nJLdW3WtRGmfnzeVb) | 3:24 | 2022-01-21 |  |
 | [Ventur](https://open.spotify.com/track/3I4VGcGozyKvr1PdM6lcrv) | [LXXXVII](https://open.spotify.com/artist/311w5PIT9AJHKLoVXGxboO) | [Adonis](https://open.spotify.com/album/2mtgtqsG6hjWnXEphM32P1) | 2:35 | 2023-06-23 |  |
 | [Venus Vacuum](https://open.spotify.com/track/0HymQuVijWULNPUvTgZmbx) | [spice rack](https://open.spotify.com/artist/4as7eq7Z4RegcT6FJ754Ub) | [the spice is right](https://open.spotify.com/album/1PHAihdUhYxo9dZrN1QOyb) | 1:54 | 2021-11-10 | 2022-07-08 |

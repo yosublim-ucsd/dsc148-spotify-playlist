@@ -912,7 +912,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 188330,
       "name": "CRIME",
       "url": "https://open.spotify.com/track/6VZ4iuA1y0utK4YR9dMfhu"
@@ -2876,6 +2876,28 @@
       "duration_ms": 143253,
       "name": "Ouro e fuzil",
       "url": "https://open.spotify.com/track/5mZiN4E6mMh3YL3BDh9bOm"
+    },
+    {
+      "album": {
+        "name": "Paco de 100",
+        "url": "https://open.spotify.com/album/7fdTm9HaWOebHU81vG2vDE"
+      },
+      "artists": [
+        {
+          "name": "Choice",
+          "url": "https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu"
+        },
+        {
+          "name": "Thai Flow",
+          "url": "https://open.spotify.com/artist/5Ag6yKoGGYp66o9vtpH89s"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173877,
+      "name": "Paco de 100",
+      "url": "https://open.spotify.com/track/7K8uNMveijYGBeOQ3cR9wo"
     },
     {
       "album": {

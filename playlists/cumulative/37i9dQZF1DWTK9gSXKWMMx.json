@@ -661,6 +661,24 @@
     },
     {
       "album": {
+        "name": "Got to Turn My Luck Around",
+        "url": "https://open.spotify.com/album/0i8QrpzYCFyjZOiU1YzwRJ"
+      },
+      "artists": [
+        {
+          "name": "Rikard From",
+          "url": "https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178254,
+      "name": "Got to Turn My Luck Around",
+      "url": "https://open.spotify.com/track/59KzDuAokelU5fbTyBJM3w"
+    },
+    {
+      "album": {
         "name": "Hard Luck Shuffle",
         "url": "https://open.spotify.com/album/5A2kCy9saaJoe0BaSAcodC"
       },
@@ -694,6 +712,24 @@
       "duration_ms": 107608,
       "name": "Harper Street Blues",
       "url": "https://open.spotify.com/track/6gvGs82KUQSdH7Rp7AWTGj"
+    },
+    {
+      "album": {
+        "name": "Heart of the Blues",
+        "url": "https://open.spotify.com/album/3lJPiGOXC8AzJa6yf3a1Wk"
+      },
+      "artists": [
+        {
+          "name": "Oliver Stone",
+          "url": "https://open.spotify.com/artist/05yLB7Qm97sxn5VYq6JlEv"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Heart of the Blues",
+      "url": "https://open.spotify.com/track/3o2HBctC0bYs4xhgnpN14F"
     },
     {
       "album": {
@@ -1409,6 +1445,24 @@
     },
     {
       "album": {
+        "name": "That Old Porch",
+        "url": "https://open.spotify.com/album/77Hyxy9dV2qGQYO1mAybd3"
+      },
+      "artists": [
+        {
+          "name": "Kent Reid",
+          "url": "https://open.spotify.com/artist/2npEkfpTFEv9fhD2B4KmoZ"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202611,
+      "name": "That Old Porch",
+      "url": "https://open.spotify.com/track/5AoZ1WkfBhFrHPNYaooxGA"
+    },
+    {
+      "album": {
         "name": "Just the Piano...Just the Blues",
         "url": "https://open.spotify.com/album/4LoZ1QlGwt1Cd644g4bJ5N"
       },
@@ -1482,6 +1536,24 @@
       "duration_ms": 166165,
       "name": "Three O'clock in the Morning",
       "url": "https://open.spotify.com/track/57ZHl1a9YV0HlXz3wflmhT"
+    },
+    {
+      "album": {
+        "name": "Troubled Times",
+        "url": "https://open.spotify.com/album/22BTfFRNUJNKwk6Co1I7P5"
+      },
+      "artists": [
+        {
+          "name": "Kent Reid",
+          "url": "https://open.spotify.com/artist/2npEkfpTFEv9fhD2B4KmoZ"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177649,
+      "name": "Troubled Times",
+      "url": "https://open.spotify.com/track/3SY0tbLvmjD5p2BMqHy8GK"
     },
     {
       "album": {

@@ -603,6 +603,24 @@
     },
     {
       "album": {
+        "name": "Amber Maze",
+        "url": "https://open.spotify.com/album/56qWyIiPguvdabICuSNRMH"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202180,
+      "name": "Amber Maze",
+      "url": "https://open.spotify.com/track/4kqUv7kK2MtHelXU04icin"
+    },
+    {
+      "album": {
         "name": "Luna",
         "url": "https://open.spotify.com/album/2iKeXCLFndoxnXqpBEVbmd"
       },
@@ -842,6 +860,32 @@
       "duration_ms": 195000,
       "name": "Ave verum corpus, K.618 (Arr. for Piano by Franz Liszt)",
       "url": "https://open.spotify.com/track/65P5vqHd18YLG8AsaVGFjw"
+    },
+    {
+      "album": {
+        "name": "Away in a Manger",
+        "url": "https://open.spotify.com/album/4wfByvjDSosW5Uu4tuGkKQ"
+      },
+      "artists": [
+        {
+          "name": "Lucy Walker",
+          "url": "https://open.spotify.com/artist/41mzqYSPSky81wEfmW8K8j"
+        },
+        {
+          "name": "Anna Lapwood",
+          "url": "https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP"
+        },
+        {
+          "name": "The Chapel Choir of Pembroke College, Cambridge",
+          "url": "https://open.spotify.com/artist/6DPxkITuYSrDAPdhISWO35"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256746,
+      "name": "Away in a Manger",
+      "url": "https://open.spotify.com/track/10Gq29WYwHlK1hJ6zXiaMu"
     },
     {
       "album": {
@@ -1677,6 +1721,46 @@
     },
     {
       "album": {
+        "name": "The Hunger Games: The Ballad of Songbirds and Snakes (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/6L0YVSVuw4BD3UX3fhl8et"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        },
+        {
+          "name": "Yuja Wang",
+          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87746,
+      "name": "Cut the Feed",
+      "url": "https://open.spotify.com/track/1kVU4kYl5NT50If7iqC4X1"
+    },
+    {
+      "album": {
+        "name": "Dancer in the Snow",
+        "url": "https://open.spotify.com/album/4WwMjkRVwcU5aqwCQysdqt"
+      },
+      "artists": [
+        {
+          "name": "Goldb\u00e6k",
+          "url": "https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174800,
+      "name": "Dancer in the Snow",
+      "url": "https://open.spotify.com/track/1PbNy6LgD8zehL8vxAOitp"
+    },
+    {
+      "album": {
         "name": "Christmas Piano with Alexis",
         "url": "https://open.spotify.com/album/2YymiUCe4WEr0GBJ0aSLFx"
       },
@@ -1943,6 +2027,40 @@
     },
     {
       "album": {
+        "name": "Emerald and Stone",
+        "url": "https://open.spotify.com/album/4EQe1P20TVDfxwRKDp3El5"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        },
+        {
+          "name": "Leo Abrahams",
+          "url": "https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd"
+        },
+        {
+          "name": "Anastasia Kobekina",
+          "url": "https://open.spotify.com/artist/3gyMSbylsDuJor2dpGQ96m"
+        },
+        {
+          "name": "Kammerorchester Basel",
+          "url": "https://open.spotify.com/artist/1fY6hh9OH6MirLiogDiwPU"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135893,
+      "name": "Emerald and Stone",
+      "url": "https://open.spotify.com/track/1i1qDioBSMR3YQ2xKSi75m"
+    },
+    {
+      "album": {
         "name": "Emery (Solo Piano Version)",
         "url": "https://open.spotify.com/album/7DtFAScxn5E9IMX5EIlJQQ"
       },
@@ -1976,6 +2094,28 @@
       "duration_ms": 190531,
       "name": "Emma: Piano Suite",
       "url": "https://open.spotify.com/track/6aPBXIPYNbh1l1dgTWRPug"
+    },
+    {
+      "album": {
+        "name": "Epistrophy",
+        "url": "https://open.spotify.com/album/2L2K4tjWtmbp8ldkM88adt"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        },
+        {
+          "name": "Hiroco.M",
+          "url": "https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Epistrophy",
+      "url": "https://open.spotify.com/track/2U1cIjS5cocGGNEHt76HeP"
     },
     {
       "album": {
@@ -2537,6 +2677,46 @@
     },
     {
       "album": {
+        "name": "The Hunger Games: The Ballad of Songbirds and Snakes (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/6L0YVSVuw4BD3UX3fhl8et"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        },
+        {
+          "name": "Yuja Wang",
+          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Happy Hunger Games",
+      "url": "https://open.spotify.com/track/1r6dHjM3HcbTwF2KkH7qxh"
+    },
+    {
+      "album": {
+        "name": "Days of Summer",
+        "url": "https://open.spotify.com/album/1hHODhliayILdyJjLMQcsY"
+      },
+      "artists": [
+        {
+          "name": "Goldb\u00e6k",
+          "url": "https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144080,
+      "name": "Harvest Moon",
+      "url": "https://open.spotify.com/track/6NkVzZZeFmbfz6w1o0cmh9"
+    },
+    {
+      "album": {
         "name": "Here And Now",
         "url": "https://open.spotify.com/album/0rh2udD9KDXNZmNiMjtY1e"
       },
@@ -2614,6 +2794,24 @@
       "duration_ms": 224133,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/0bd5X6ndZS46pr3ffGaeeh"
+    },
+    {
+      "album": {
+        "name": "Home for Christmas",
+        "url": "https://open.spotify.com/album/0ubtrZL0H4L1kHOnq8ba3G"
+      },
+      "artists": [
+        {
+          "name": "Katherine Jenkins",
+          "url": "https://open.spotify.com/artist/6dkXCmyrSrQteo0gwOGzFl"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162800,
+      "name": "Home for Christmas - Fireside Mix",
+      "url": "https://open.spotify.com/track/17osclgmQLjGfBtMZFd3lv"
     },
     {
       "album": {
@@ -2772,6 +2970,28 @@
       "duration_ms": 264533,
       "name": "I. Theme",
       "url": "https://open.spotify.com/track/7B6rnHGkgyR751iXXOiMDM"
+    },
+    {
+      "album": {
+        "name": "The Hunger Games: The Ballad of Songbirds and Snakes (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/6L0YVSVuw4BD3UX3fhl8et"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        },
+        {
+          "name": "Yuja Wang",
+          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263720,
+      "name": "Ideas Firing",
+      "url": "https://open.spotify.com/track/7xJawklsvT0Y7Gmqiboagn"
     },
     {
       "album": {
@@ -3572,6 +3792,32 @@
       "duration_ms": 223506,
       "name": "Les Barricades myst\u00e9rieuses",
       "url": "https://open.spotify.com/track/3ntI5kwRir9u4Ob9v66fUM"
+    },
+    {
+      "album": {
+        "name": "Les berceaux, Op. 23, No. 1",
+        "url": "https://open.spotify.com/album/0BMLPugDyUgKokqLQaGXRE"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Anastasia Kobekina",
+          "url": "https://open.spotify.com/artist/3gyMSbylsDuJor2dpGQ96m"
+        },
+        {
+          "name": "Azul Lima",
+          "url": "https://open.spotify.com/artist/4yFp2S4pGvGLXyNct6e2Q3"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161213,
+      "name": "Les berceaux, Op. 23, No. 1",
+      "url": "https://open.spotify.com/track/7CznDh5LtUbLB9CMyEsovY"
     },
     {
       "album": {
@@ -4395,6 +4641,28 @@
     },
     {
       "album": {
+        "name": "Nuit de No\u00ebl, BV 251",
+        "url": "https://open.spotify.com/album/7GgD5LxXBeMHI37q1XsANN"
+      },
+      "artists": [
+        {
+          "name": "Ferruccio Busoni",
+          "url": "https://open.spotify.com/artist/7xH3VOMwOjnqGu7NERNUx1"
+        },
+        {
+          "name": "Igor Levit",
+          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270613,
+      "name": "Nuit de No\u00ebl, BV 251",
+      "url": "https://open.spotify.com/track/5Vh1mO6NA0h95PG5zO9Gxn"
+    },
+    {
+      "album": {
         "name": "Numb",
         "url": "https://open.spotify.com/album/2p6Pgk2NeihEzZs7Qza2mi"
       },
@@ -4432,6 +4700,24 @@
       "duration_ms": 189861,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/4wps5wZL1C1ye4lzxgGA5P"
+    },
+    {
+      "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/6x8ImQxhntrc7TLqokZoiD"
+      },
+      "artists": [
+        {
+          "name": "HAUSER",
+          "url": "https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260239,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/10fIEVkZmS2ZCpCHSZIBfG"
     },
     {
       "album": {
@@ -4570,6 +4856,28 @@
       "duration_ms": 198897,
       "name": "One Look - Solo Piano Version",
       "url": "https://open.spotify.com/track/7jooXsI76dcqjmcU9QV8K7"
+    },
+    {
+      "album": {
+        "name": "The Hunger Games: The Ballad of Songbirds and Snakes (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/6L0YVSVuw4BD3UX3fhl8et"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        },
+        {
+          "name": "Yuja Wang",
+          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226320,
+      "name": "Open the Gate",
+      "url": "https://open.spotify.com/track/0GaxRvKaAQxSiVZRWOJvHf"
     },
     {
       "album": {
@@ -4742,6 +5050,28 @@
       "duration_ms": 216853,
       "name": "Passacaglia",
       "url": "https://open.spotify.com/track/4jczO6dyeT2MNM6McX9kjU"
+    },
+    {
+      "album": {
+        "name": "The Hunger Games: The Ballad of Songbirds and Snakes (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/6L0YVSVuw4BD3UX3fhl8et"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        },
+        {
+          "name": "Yuja Wang",
+          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216506,
+      "name": "Passed the Tests",
+      "url": "https://open.spotify.com/track/5kB7JQCaamIAjFJJowDf7h"
     },
     {
       "album": {
@@ -4924,6 +5254,36 @@
       "duration_ms": 230840,
       "name": "Petali (Interno Giorno)",
       "url": "https://open.spotify.com/track/130xrrD2fZWsuPshtY1S3v"
+    },
+    {
+      "album": {
+        "name": "Pian Perduto",
+        "url": "https://open.spotify.com/album/3FtdxPCdRpNGFNXPLrGPld"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        },
+        {
+          "name": "Louisa Fuller",
+          "url": "https://open.spotify.com/artist/557AjoqV9wVpa8vO2k4wuJ"
+        },
+        {
+          "name": "John Metcalfe",
+          "url": "https://open.spotify.com/artist/6s8AUvcmf2fp0Kh7PctPnd"
+        },
+        {
+          "name": "Chris Worsey",
+          "url": "https://open.spotify.com/artist/33TpuAICGC2gekoZZDDZhE"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248724,
+      "name": "Pian Perduto",
+      "url": "https://open.spotify.com/track/6aYE1e0ZcLNS6aGOi0ExBM"
     },
     {
       "album": {
@@ -5229,6 +5589,28 @@
     },
     {
       "album": {
+        "name": "The Hunger Games: The Ballad of Songbirds and Snakes (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/6L0YVSVuw4BD3UX3fhl8et"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        },
+        {
+          "name": "Yuja Wang",
+          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217080,
+      "name": "Planting the Cloth",
+      "url": "https://open.spotify.com/track/7cTQjFvYAhievJhCTvIIOc"
+    },
+    {
+      "album": {
         "name": "Dvor\u00e1k: Poetic Tone Pictures, Op.85",
         "url": "https://open.spotify.com/album/5f7RarjG0HObpRMvidrZ0X"
       },
@@ -5288,6 +5670,28 @@
       "duration_ms": 241803,
       "name": "Prelude in B minor, BWV 855a (Arr. by Alexander Siloti)",
       "url": "https://open.spotify.com/track/18JxYMTSFKZlxqdNFrOs1r"
+    },
+    {
+      "album": {
+        "name": "Prelude in B Minor, BWV 855a (Transcribed by Alexander Siloti)",
+        "url": "https://open.spotify.com/album/4Bz7EaaTAu89637GXU2h44"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Mao Fujita",
+          "url": "https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99786,
+      "name": "Prelude in B Minor, BWV 855a (Transcribed by Alexander Siloti)",
+      "url": "https://open.spotify.com/track/5TMxqAA2kfj9BpDFKbvpwl"
     },
     {
       "album": {
@@ -5627,6 +6031,28 @@
     },
     {
       "album": {
+        "name": "Romance No. 3 in A-Flat Major - Andante moderato",
+        "url": "https://open.spotify.com/album/3hzOu3pYln7higF1HZLdsd"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Lucas Debargue",
+          "url": "https://open.spotify.com/artist/3gGFrz3hjzLPTKFwjzfm3n"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123946,
+      "name": "Romance No. 3 in A-Flat Major - Andante moderato",
+      "url": "https://open.spotify.com/track/4EnuKEW1DuMtvxlXjZoF6X"
+    },
+    {
+      "album": {
         "name": "R\u00eaverie",
         "url": "https://open.spotify.com/album/2dLAe3m29unn27UZORySkH"
       },
@@ -5789,6 +6215,24 @@
     },
     {
       "album": {
+        "name": "Santa Tell Me (Solo Piano Version)",
+        "url": "https://open.spotify.com/album/69IwPRr2zIWTmqBdXGtRdx"
+      },
+      "artists": [
+        {
+          "name": "Chloe Flower",
+          "url": "https://open.spotify.com/artist/1COAEcXEhWarbbgcz44KmJ"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144779,
+      "name": "Santa Tell Me - Solo Piano Version",
+      "url": "https://open.spotify.com/track/6Uxg3HFjTCfStK8b5MZloH"
+    },
+    {
+      "album": {
         "name": "Spotlight",
         "url": "https://open.spotify.com/album/14EcBJ1kPRJvmXoRrt18LQ"
       },
@@ -5812,6 +6256,28 @@
       "duration_ms": 138840,
       "name": "Schwanenlied, Op. 1, No. 1 (Arr. for Violin and String Ensemble by Ellie Consta)",
       "url": "https://open.spotify.com/track/4CgtjECgiar206BXu4ad2k"
+    },
+    {
+      "album": {
+        "name": "The Hunger Games: The Ballad of Songbirds and Snakes (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/6L0YVSVuw4BD3UX3fhl8et"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        },
+        {
+          "name": "Yuja Wang",
+          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118920,
+      "name": "Sejanus",
+      "url": "https://open.spotify.com/track/5WzSe25m3cnrkik2ZsHSvn"
     },
     {
       "album": {
@@ -6198,6 +6664,28 @@
       "duration_ms": 407012,
       "name": "Stay (From \"Interstellar\" Soundtrack)",
       "url": "https://open.spotify.com/track/5UzZn4Vj5zxsNO5mgFomsB"
+    },
+    {
+      "album": {
+        "name": "The Hunger Games: The Ballad of Songbirds and Snakes (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/6L0YVSVuw4BD3UX3fhl8et"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        },
+        {
+          "name": "Yuja Wang",
+          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126040,
+      "name": "Strategy",
+      "url": "https://open.spotify.com/track/4dq4lDhGNtgtKkBXnzjjS7"
     },
     {
       "album": {
@@ -6811,6 +7299,24 @@
     },
     {
       "album": {
+        "name": "The First Christmas",
+        "url": "https://open.spotify.com/album/3mggmM1Msp3b5gvsZfs5Yg"
+      },
+      "artists": [
+        {
+          "name": "Goldb\u00e6k",
+          "url": "https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167800,
+      "name": "The First Christmas",
+      "url": "https://open.spotify.com/track/3JsIen630AIZTAiGpEHgkU"
+    },
+    {
+      "album": {
         "name": "N\u00e9o-Romance",
         "url": "https://open.spotify.com/album/0Uv7rvKUVNnEUOBkKyF1Q1"
       },
@@ -7195,6 +7701,28 @@
     },
     {
       "album": {
+        "name": "Night After Night (Music from the Movies of M. Night Shyamalan)",
+        "url": "https://open.spotify.com/album/6bZ512Kffdbv911Mbxi1ui"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        },
+        {
+          "name": "Jean-Yves Thibaudet",
+          "url": "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116346,
+      "name": "The Sixth Sense: Lonely Boy",
+      "url": "https://open.spotify.com/track/0kpN8g0aaQHpXll0lTYLVX"
+    },
+    {
+      "album": {
         "name": "Interview with the Vampire (Original Television Series Soundtrack)",
         "url": "https://open.spotify.com/album/3Xwi1pqsnqkg0yALPywazK"
       },
@@ -7378,6 +7906,72 @@
       "duration_ms": 172280,
       "name": "Three Romances for Violin and Piano, Op. 22: I. Andante molto",
       "url": "https://open.spotify.com/track/76Dnq6tk34o2Z4IqFA8aua"
+    },
+    {
+      "album": {
+        "name": "The Hunger Games: The Ballad of Songbirds and Snakes (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/6L0YVSVuw4BD3UX3fhl8et"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        },
+        {
+          "name": "Yuja Wang",
+          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125946,
+      "name": "Three Solos for Yuja: I. Friendship",
+      "url": "https://open.spotify.com/track/7xk2gA09jJdQntYM4oT2kU"
+    },
+    {
+      "album": {
+        "name": "The Hunger Games: The Ballad of Songbirds and Snakes (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/6L0YVSVuw4BD3UX3fhl8et"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        },
+        {
+          "name": "Yuja Wang",
+          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123026,
+      "name": "Three Solos for Yuja: II. Rue's Farewell",
+      "url": "https://open.spotify.com/track/0YU9VaL1wt2jI4L7byfz9F"
+    },
+    {
+      "album": {
+        "name": "The Hunger Games: The Ballad of Songbirds and Snakes (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/6L0YVSVuw4BD3UX3fhl8et"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        },
+        {
+          "name": "Yuja Wang",
+          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120653,
+      "name": "Three Solos for Yuja: III. Victor",
+      "url": "https://open.spotify.com/track/2PIEQ8b55zCcPIvJFxdEGX"
     },
     {
       "album": {
@@ -7582,6 +8176,24 @@
       "duration_ms": 182333,
       "name": "Tr\u00e4umerei, Op. 15",
       "url": "https://open.spotify.com/track/55FlJmC8BokdshB9j5xvup"
+    },
+    {
+      "album": {
+        "name": "N\u00e9o-Romance (Extended Version)",
+        "url": "https://open.spotify.com/album/17jfSsvaOuU0gmu3YLQHPw"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Streliski",
+          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292042,
+      "name": "Umbra",
+      "url": "https://open.spotify.com/track/5bpsn4ohsUn5yXNT4Uvv9J"
     },
     {
       "album": {
@@ -7880,6 +8492,28 @@
       "duration_ms": 159746,
       "name": "Wandering II",
       "url": "https://open.spotify.com/track/1XPUfZx0Nhl7Tl1AT2LKos"
+    },
+    {
+      "album": {
+        "name": "Water Circle",
+        "url": "https://open.spotify.com/album/5zJ8z44uP5wUbrQAkL6PRB"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        },
+        {
+          "name": "Hiroco.M",
+          "url": "https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "Water Circle",
+      "url": "https://open.spotify.com/track/3kxF1Y5pG1yu7j1y9qT2hg"
     },
     {
       "album": {

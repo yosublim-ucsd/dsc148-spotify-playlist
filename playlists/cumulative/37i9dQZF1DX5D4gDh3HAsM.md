@@ -4,7 +4,7 @@
 
 > Jazzy takes on your favorite Holiday songs\. Cover: Samara Joy
 
-139 songs - 8 hr 16 min
+140 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Winter Wonderland \- Spotify Singles Holiday](https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Spotify Singles Holiday](https://open.spotify.com/album/1Ph9nV8cNv7Gq7yHOlmbgh) | 2:12 | 2023-11-14 |  |
 | [Wonderful Christmastime](https://open.spotify.com/track/6qaVpEUBt6tLOrzZkRjhJB) | [Walt Weiskopf](https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3) | [European Quartet: A Little Christmas Music](https://open.spotify.com/album/2KxLBRm5ZqsiiTs6efbZHb) | 5:20 | 2022-11-11 |  |
 | [Wonderful Christmastime](https://open.spotify.com/track/7pDKjFyrECfNrXScLg5MM9) | [Walt Weiskopf](https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3) | [Wonderful Christmastime](https://open.spotify.com/album/3fa8tkY8qCM6rmxp4p2xUd) | 5:20 | 2022-11-11 | 2022-11-27 |
-| [You're a Mean One, Mr\. Grinch](https://open.spotify.com/track/0Fwkp0jkEylKAOo9xep0JO) | [Leif Shires](https://open.spotify.com/artist/3YVt5oKfFEE0yJa7yJ3wWE), [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df), [Danny Gottlieb](https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM) | [You're a Mean One, Mr\. Grinch](https://open.spotify.com/album/4Evqychsx6JVmElWlLHkyE) | 3:58 | 2022-11-04 |  |
+| [You're A Mean One, Mr\. Grinch](https://open.spotify.com/track/6RUQf03CK4UUvHDCyPDscx) | [Emmaline](https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5) | [The Christmas EP](https://open.spotify.com/album/6ySR5CSUPP9Fp2fKgyqIzq) | 4:26 | 2023-11-24 |  |
+| [You're a Mean One, Mr\. Grinch](https://open.spotify.com/track/0Fwkp0jkEylKAOo9xep0JO) | [Leif Shires](https://open.spotify.com/artist/3YVt5oKfFEE0yJa7yJ3wWE), [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df), [Danny Gottlieb](https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM) | [You're a Mean One, Mr\. Grinch](https://open.spotify.com/album/4Evqychsx6JVmElWlLHkyE) | 3:58 | 2022-11-04 | 2023-11-25 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

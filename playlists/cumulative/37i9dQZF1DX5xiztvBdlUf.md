@@ -4,7 +4,7 @@
 
 > Deep House in all its shapes and colours.
 
-371 songs - 1 day 10 hr 29 min
+372 songs - 1 day 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Linda](https://open.spotify.com/track/5crNzoEWl4aXE9NR3b4y8Y) | [Dj Beekay](https://open.spotify.com/artist/58jrFyEJ3krC8cwAEsA2BM), [Thandi Draai](https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG) | [Linda](https://open.spotify.com/album/3UZE1UZDlJGZjjNc381wds) | 7:57 | 2022-04-04 | 2022-04-21 |
 | [Little Friends](https://open.spotify.com/track/6IA0e1P8bT0d6nGUR7UFvz) | [Joyce Muniz](https://open.spotify.com/artist/2V5PoybhNfFnNEs0NKv44L), [Alinka](https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls) | [Permanent Vacation 7](https://open.spotify.com/album/4M0De1Ew8Vi380QSLXG1lO) | 4:31 | 2021-11-26 | 2022-07-27 |
 | [Lolita Express](https://open.spotify.com/track/0zitH5kttHInGS0wgaCjrk) | [Roslyn](https://open.spotify.com/artist/7uCzJnMglskTEuLhnzlawg) | [Lolita Express](https://open.spotify.com/album/0pEnOKDH8bM9KQlU3qK6sM) | 4:27 | 2021-11-26 | 2022-04-05 |
+| [Looking For The Light](https://open.spotify.com/track/2aKi0hmZ7M5wVnd69RUEu7) | [Samuel Miller](https://open.spotify.com/artist/4S1EXenN3a8icOr9keFIG8), [Luxe Agoris](https://open.spotify.com/artist/6ejyZKJqfU1trzNHiAA3Ro) | [Looking For The Light](https://open.spotify.com/album/0TPIkCygwT8QuomYuRi7sW) | 2:57 | 2023-11-14 |  |
 | [Lore](https://open.spotify.com/track/0QswOQrUWKn93eOYBh6wWC) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Lore EP](https://open.spotify.com/album/1DCXlz2JvEcTUOZqgn5tDB) | 3:58 | 2021-11-26 | 2022-06-17 |
 | [Lost Generation \- Edit](https://open.spotify.com/track/4IAQZlLWEiMhrYPfL4btZi) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Bright Sparks](https://open.spotify.com/artist/1Dn88PoQjnQgLTOaokePFz), [Bulgarian Voices Angelite](https://open.spotify.com/artist/6OxyG688AdDLBKo5yrJXU9), [Huun\-Huur\-Tu](https://open.spotify.com/artist/1bK0K2tuAcvMScEWIHt54t) | [Lost Generation](https://open.spotify.com/album/2s9p73FuCiqa0XBz3jtevC) | 2:43 | 2022-11-25 |  |
 | [Love And Hate](https://open.spotify.com/track/5Vt5PmlQvb0U9HbEX0qYRi) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Love And Hate](https://open.spotify.com/album/1NEZ9FtarC6DX5hbnC7H1c) | 4:27 | 2023-04-28 |  |
@@ -277,7 +278,7 @@
 | [Resurrection](https://open.spotify.com/track/5e5IW2XLqA67asAqMNr5Um) | [Alice DiMar](https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN) | [Resurrection](https://open.spotify.com/album/4eEozCG4NVNBkdevuiPMPN) | 3:46 | 2023-05-05 | 2023-05-30 |
 | [Rio Secreto](https://open.spotify.com/track/6Dtmck4yTQkCEjnOhKfOBh) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Human Nature \(Night\)](https://open.spotify.com/album/6HqvZTY7Gmp0pIub9JfkXi) | 6:14 | 2021-11-26 | 2022-05-07 |
 | [River \- Stephan Zovsky Remix](https://open.spotify.com/track/7220jXD5H9FEezY7uotmVl) | [Andy's Echo](https://open.spotify.com/artist/7AsYa6HcbppsUd6qcYwJew), [Bjørk Stellar](https://open.spotify.com/artist/0SjbZtXCVUjIpW0y94un1D), [Stephan Zovsky](https://open.spotify.com/artist/7311LpGBvRgQVXyxBl2PzP) | [River \(Stephan Zovsky Remix\)](https://open.spotify.com/album/6xNNwm1kLkbbdXitIolOxi) | 7:36 | 2022-03-09 | 2022-06-25 |
-| [Roads Of Gold \- Edit](https://open.spotify.com/track/1M1g0SAJavX4mMLqEqKTDn) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Redward Martin](https://open.spotify.com/artist/2WnWBVe8DzF0qpstAxddn2) | [Roads Of Gold](https://open.spotify.com/album/5j2ZsWodikhixJNHhUCGKq) | 5:10 | 2023-09-15 |  |
+| [Roads Of Gold \- Edit](https://open.spotify.com/track/1M1g0SAJavX4mMLqEqKTDn) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Redward Martin](https://open.spotify.com/artist/2WnWBVe8DzF0qpstAxddn2) | [Roads Of Gold](https://open.spotify.com/album/5j2ZsWodikhixJNHhUCGKq) | 5:10 | 2023-09-15 | 2023-11-25 |
 | [Roda](https://open.spotify.com/track/1lBaMqhhJIRNqiNSn1EUMc) | [MonoJack](https://open.spotify.com/artist/0cOtwWgfpavqmqhEkqner9) | [Roda](https://open.spotify.com/album/2R2VAtvhljTHh0sZ54xip1) | 4:45 | 2022-04-04 | 2023-11-16 |
 | [Rodouard](https://open.spotify.com/track/1OTeodltHQeNxnS2Lznyqn) | [DESTIINO](https://open.spotify.com/artist/4rqaY6QDdM0mL8jqGR020d), [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [Rodouard](https://open.spotify.com/album/2IDtNtjmoGBMeQuprTOLuk) | 5:16 | 2022-04-04 | 2022-04-21 |
 | [Roskill](https://open.spotify.com/track/0SaXnvFBhh9xbSH68xUxli) | [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX) | [Roskill](https://open.spotify.com/album/3Mj7BTnNRpcRQwUM0u1ugc) | 7:00 | 2021-11-26 | 2022-07-18 |

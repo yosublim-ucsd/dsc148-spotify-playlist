@@ -4,7 +4,7 @@
 
 > Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento.
 
-133 songs - 7 hr 57 min
+134 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Além da Bossa](https://open.spotify.com/track/7eoYRn9t2a0XprCvLLW7lZ) | [Carlos Lyra](https://open.spotify.com/artist/3LokxmaXXZpL7sLZASDzCS), [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Além da Bossa](https://open.spotify.com/album/19GvUGWM0Nxpeu9tAT3fnq) | 3:45 | 2021-11-26 |  |
 | [As Cores das Flores](https://open.spotify.com/track/0SIpgaiaCYnrMsFra2eRRU) | [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG), [Márcio Moreira](https://open.spotify.com/artist/2B05TksdlRPIiOgu0wl8Kg) | [As Cores das Flores](https://open.spotify.com/album/4KdRvg4blGZQsB2upPmpKL) | 3:01 | 2021-11-26 |  |
 | [Ataraxia](https://open.spotify.com/track/59eUAGih69vhMrwQoHrQNP) | [Emma dos Santos](https://open.spotify.com/artist/5BCrXE0QF0mUKYmQTk43gp) | [Ataraxia](https://open.spotify.com/album/2qm9RP68WSIOpjeuz9Y8bk) | 3:03 | 2021-11-26 |  |
-| [Bachianas Brasileiras No.2: O Trenzinho do Caipira](https://open.spotify.com/track/2EJVC0ARkDDHxTkFQe4hhW) | [Chico Teixeira](https://open.spotify.com/artist/0rAlodh0dGYlbFuk3XGPmW) | [Bachianas Brasileiras No.2: O Trenzinho do Caipira](https://open.spotify.com/album/550yBsaBetEVsKvQkVH2Xn) | 2:41 | 2021-11-26 |  |
+| [Bachianas Brasileiras No.2: O Trenzinho do Caipira](https://open.spotify.com/track/2EJVC0ARkDDHxTkFQe4hhW) | [Chico Teixeira](https://open.spotify.com/artist/0rAlodh0dGYlbFuk3XGPmW) | [Bachianas Brasileiras No.2: O Trenzinho do Caipira](https://open.spotify.com/album/550yBsaBetEVsKvQkVH2Xn) | 2:41 | 2021-11-26 | 2023-11-25 |
 | [Batidinha](https://open.spotify.com/track/3KqGO5n8QUERnz0HXcma5S) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Wave](https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T) | 3:17 | 2021-11-26 |  |
 | [Bela Moça](https://open.spotify.com/track/1UR5ufGKOhG6sUpcTcsXB6) | [Davide Sosa](https://open.spotify.com/artist/6h3NI13Spsuh4zJEuDjeY4) | [Insônia](https://open.spotify.com/album/6HI3NhU2eJR1Ca1M5LEVPZ) | 3:16 | 2021-11-26 |  |
 | [Bim Bom](https://open.spotify.com/track/0QNmH33S2Hk6tIHVYLcom4) | [Ana Solari](https://open.spotify.com/artist/1Gv09zvQN6BmMpFygO3SiP) | [Bim Bom](https://open.spotify.com/album/6Z5CN2IlbUsmmxxnLSrDwq) | 1:41 | 2021-11-26 |  |
@@ -111,6 +111,7 @@
 | [Samba Sem Verão](https://open.spotify.com/track/5W5wploZHg8Y2CpiwTp1l9) | [Marcio Nucci](https://open.spotify.com/artist/5emBFil4bHt1h81zHDIhsa), [Delia Fischer](https://open.spotify.com/artist/4ervLQixU78Enkn5yLnGdG), [Jaques Morelenbaum](https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d) | [Samba Sem Verão](https://open.spotify.com/album/76pPBEo0uNo1NB1t7BKijH) | 4:13 | 2021-11-26 |  |
 | [Sambete](https://open.spotify.com/track/5FLvvnxzuhVPZIgDroYY6I) | [Zé Paulo Becker](https://open.spotify.com/artist/0dsqfNACo3h5n5Ed6rgKG2) | [Semente Chorojazz](https://open.spotify.com/album/06sIxnlL5TlCXfehFM33m9) | 4:27 | 2021-11-26 |  |
 | [Saudade da Saudade](https://open.spotify.com/track/70ig40aEN4esNMLSOAQWlR) | [Zé Miguel Wisnik](https://open.spotify.com/artist/4yazl771ZuBfsAKt6wyCbV), [José Miguel Wisnik](https://open.spotify.com/artist/5FVYrkTlyUHUXegj892Zni), [Alaíde Costa](https://open.spotify.com/artist/2KkoeJkkFr802J5gPjlRGs), [Sérgio Reze](https://open.spotify.com/artist/2n7NzG02khB453J56v7q2m), [Zeca Assumpção](https://open.spotify.com/artist/7gKUlLG0rXbo1vFLzl59AF) | [O Anel \- Alaíde Costa Canta José Miguel Wisnik](https://open.spotify.com/album/0pOnNIts6BIQjTLM7w41Hy) | 4:14 | 2021-11-26 |  |
+| [Saudade Fez um Samba](https://open.spotify.com/track/6DqwMVBqftG7yoPb2Uu0Rq) | [Carlos Lyra](https://open.spotify.com/artist/3LokxmaXXZpL7sLZASDzCS), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr), [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [Saudade Fez um Samba](https://open.spotify.com/album/7nUUtvmgriNDiRYrgJmiG7) | 2:50 | 2023-11-24 |  |
 | [Se Acontecer](https://open.spotify.com/track/1PuqbHqhn1uGiT6xTyt4hw) | [Luciana Souza](https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM) | [Storytellers](https://open.spotify.com/album/79Nec7JBai5QMAC0PX81ic) | 5:10 | 2021-11-26 |  |
 | [Seres Incriveis](https://open.spotify.com/track/6k1V8fUxya4uGTu5gRZ1OW) | [Jair Oliveira](https://open.spotify.com/artist/1kuKDHZD1oPXwVZviVgRbV) | [Selfie](https://open.spotify.com/album/7Al9VuPMLbkh6hjL90GFgz) | 3:07 | 2021-11-26 |  |
 | [Sorte!](https://open.spotify.com/track/7IMxp7JxSPZxnodd8qpaeA) | [John Finbury](https://open.spotify.com/artist/5ZJCJGLaqOHfaspjjNQism), [Thalma De Freitas](https://open.spotify.com/artist/7dRgH9TbkPlyf3auU5jZKY), [Vitor Gonçalves](https://open.spotify.com/artist/5dEIDzhH5MWFhRrM8Cb7mh) | [Sorte!](https://open.spotify.com/album/3A5DErmYfP8WBBPcUa08sw) | 4:51 | 2021-11-26 |  |

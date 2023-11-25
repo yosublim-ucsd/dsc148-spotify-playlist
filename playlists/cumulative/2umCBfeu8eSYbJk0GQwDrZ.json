@@ -223,6 +223,24 @@
     },
     {
       "album": {
+        "name": "Be my baby (up tempo)",
+        "url": "https://open.spotify.com/album/1ujz8A8AZVgghgtYGPTPuk"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9rez Montcalm",
+          "url": "https://open.spotify.com/artist/6jtz3WsEdKxxYqO9LVWgcB"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175921,
+      "name": "Be my baby - up tempo",
+      "url": "https://open.spotify.com/track/4tAhdFF2zvgmhvvxbxA98z"
+    },
+    {
+      "album": {
         "name": "bella / i can't find anyone",
         "url": "https://open.spotify.com/album/2oMSoRAvlKoz4yPK2iFgwD"
       },
@@ -270,7 +288,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 117840,
       "name": "Blanket",
       "url": "https://open.spotify.com/track/34mIasINn8fmO54la1cDaM"
@@ -292,6 +310,24 @@
       "duration_ms": 212025,
       "name": "Brambles",
       "url": "https://open.spotify.com/track/2sHWoU97dgQfATRm99WFzr"
+    },
+    {
+      "album": {
+        "name": "Hindsight is 50/50",
+        "url": "https://open.spotify.com/album/0Ahyl5qytaDHcK6qJC1n2w"
+      },
+      "artists": [
+        {
+          "name": "Ghost Woman",
+          "url": "https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197923,
+      "name": "Buik",
+      "url": "https://open.spotify.com/track/31Vsakk4P0GK89taZPvCHy"
     },
     {
       "album": {
@@ -378,7 +414,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 181223,
       "name": "Crush",
       "url": "https://open.spotify.com/track/1qpMpd6otkEvU1X8o4rN54"
@@ -584,7 +620,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 91451,
       "name": "gold teeth & fenty",
       "url": "https://open.spotify.com/track/0Wv6HkhK5prLQUNFfhLWbK"
@@ -714,6 +750,24 @@
       "duration_ms": 172807,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/4pURBqYm54mgqXoFKOSEmT"
+    },
+    {
+      "album": {
+        "name": "A Welcome Change",
+        "url": "https://open.spotify.com/album/660simutXbvry7FxV27Cds"
+      },
+      "artists": [
+        {
+          "name": "Post-Modern Connection",
+          "url": "https://open.spotify.com/artist/5F8oPLYeNdQR8btNkeb4xR"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181466,
+      "name": "Home To You",
+      "url": "https://open.spotify.com/track/4l8quRVm1alY13vw2dUz0L"
     },
     {
       "album": {
@@ -938,7 +992,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 282366,
       "name": "Making It Through",
       "url": "https://open.spotify.com/track/0qGEFPVwq5NMah8QFbVMkm"
@@ -1075,6 +1129,28 @@
     },
     {
       "album": {
+        "name": "Oral",
+        "url": "https://open.spotify.com/album/0Jldmuyjx6v7nMefI7y00r"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222737,
+      "name": "Oral",
+      "url": "https://open.spotify.com/track/6VCNxAwxA83j2jE3QZpYPr"
+    },
+    {
+      "album": {
         "name": "Emerald Year",
         "url": "https://open.spotify.com/album/7kCRt2MTG9a9qPwm05orZR"
       },
@@ -1147,6 +1223,24 @@
     },
     {
       "album": {
+        "name": "Sadie Hawkins Prom",
+        "url": "https://open.spotify.com/album/4wzK5q2gMTURbtmG7mnK0g"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134036,
+      "name": "Sadie Hawkins Prom",
+      "url": "https://open.spotify.com/track/4pcACeh4E6y7UraJbukR5h"
+    },
+    {
+      "album": {
         "name": "Separate Ways (feat. The Mar\u00edas)",
         "url": "https://open.spotify.com/album/0RPUD4sJF4iHT97MKwyyNz"
       },
@@ -1166,6 +1260,24 @@
       "duration_ms": 206833,
       "name": "Separate Ways (feat. The Mar\u00edas)",
       "url": "https://open.spotify.com/track/4fwPxcF4rZQIBZr1h6Qd2S"
+    },
+    {
+      "album": {
+        "name": "shutting me out / goo lagoon",
+        "url": "https://open.spotify.com/album/3KYjSlyLTpzkCxWNlg2IqL"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146080,
+      "name": "shutting me out",
+      "url": "https://open.spotify.com/track/0hxy957I8oiUktegIZPK9P"
     },
     {
       "album": {
@@ -1216,7 +1328,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 259040,
       "name": "Spider Bites",
       "url": "https://open.spotify.com/track/2mv5dA8av1yu8bRKtTw2Z5"
@@ -1270,7 +1382,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 193280,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/5hFVuHDVUqR9FvVnHFoLLo"

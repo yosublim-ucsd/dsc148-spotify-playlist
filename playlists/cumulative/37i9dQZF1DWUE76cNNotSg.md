@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-380 songs - 1 day 0 hr 42 min
+382 songs - 1 day 0 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [875 Dollars](https://open.spotify.com/track/0Z5onPOaXhY85ZSPMeLLNl) | [De Lux](https://open.spotify.com/artist/6go0iwCisHtnyywarV5OEZ) | [875 Dollars](https://open.spotify.com/album/3V5VuiwOT6klao54o6veS7) | 5:59 | 2020-12-22 | 2022-04-21 |
 | [Acid Rain \- Edit](https://open.spotify.com/track/7fFdUC2J917YgkTKPzuySl) | [Lxury](https://open.spotify.com/artist/65A90NWrD8qdbNtsRgVXdf) | [Acid Rain \(Edit\)](https://open.spotify.com/album/0wG2Ose6eAKTyohO1JoPJd) | 2:56 | 2020-12-22 | 2022-04-21 |
 | [Agitations tropicales](https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Odyssée \- EP](https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA) | 4:08 | 2021-02-13 |  |
-| [All I Want](https://open.spotify.com/track/3ZGHAc7tq5CQzfK7HsobCa) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [All In All](https://open.spotify.com/album/2ROQYFuwNtresrGarebbjN) | 7:48 | 2020-12-22 |  |
+| [All I Want](https://open.spotify.com/track/3ZGHAc7tq5CQzfK7HsobCa) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [All In All](https://open.spotify.com/album/2ROQYFuwNtresrGarebbjN) | 7:48 | 2020-12-22 | 2023-11-25 |
 | [Alone in the Mountains](https://open.spotify.com/track/2Ug0yCvg19wxkpwALYWzHi) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Alone in the Mountains](https://open.spotify.com/album/7oGOnYxXUMTH8BGooDqsC4) | 3:16 | 2023-04-21 |  |
 | [Antidote](https://open.spotify.com/track/5WTeFqk3rVakNfKSsZQYrF) | [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Antidote](https://open.spotify.com/album/3u6dsqF6OwR0UtwQXAt5XX) | 4:53 | 2020-12-22 | 2022-07-29 |
 | [Anxious](https://open.spotify.com/track/1Ym5VTu587kLmzWFzS4ePa) | [Holy Ghost!](https://open.spotify.com/artist/2Vhc7Y0Kc6HzMC6glKM4h6) | [Anxious](https://open.spotify.com/album/3XitazgHhYwNBfccOAeVte) | 4:45 | 2020-12-22 | 2022-04-21 |
@@ -43,6 +43,7 @@
 | [Bibles](https://open.spotify.com/track/3OHpvUlcPZyBBPXrQLHUBi) | [Jaja Bu](https://open.spotify.com/artist/6iTFxnPZmX0HdWmL73irIa) | [Bibles](https://open.spotify.com/album/6xTikQVU7W7ePE5jMkukvl) | 4:33 | 2021-09-10 | 2022-07-29 |
 | [Blue Ceiling](https://open.spotify.com/track/4TQd8QvI6SdxnBbdEILnXI) | [moanday](https://open.spotify.com/artist/46DBxDEHTfHqwqB8jwmqLB) | [Blue Ceiling](https://open.spotify.com/album/3Bbsr7ZHxi4Y1ANu8S7gbw) | 2:46 | 2021-03-08 | 2022-07-29 |
 | [Blue Ceiling](https://open.spotify.com/track/6o0kb9c076D1vN0NDlLMSR) | [moanday](https://open.spotify.com/artist/46DBxDEHTfHqwqB8jwmqLB) | [Blue Ceiling](https://open.spotify.com/album/6C58bgXl2VzaM846UbvglD) | 2:46 | 2021-03-08 | 2023-10-29 |
+| [Bobby & Whitney \- Ashley Beedle No' West Edit](https://open.spotify.com/track/0wYNfsk8I5SXaXGmXU9KKa) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [Ashley Beedle](https://open.spotify.com/artist/7gs54cZveSV3kraHmiGYDr) | [Bobby & Whitney \(Ashley Beedle Remixes\)](https://open.spotify.com/album/11Y7W8eajykFngFQV1uI9T) | 3:05 | 2023-11-24 |  |
 | [Bodies](https://open.spotify.com/track/5mueyPaJsGl0bGiZSu1z0e) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Bodies](https://open.spotify.com/album/16mo5DcJexdaBnL0u5QAoS) | 3:29 | 2020-12-22 |  |
 | [Can't Stop Cryin'](https://open.spotify.com/track/4jJs2ohRchPCc7VrYWpjbN) | [Austin Manuel](https://open.spotify.com/artist/0ih9NQR8CkKRwxfN9yXozi) | [Can't Stop Cryin'](https://open.spotify.com/album/0hL9VPzSao6NlX3aSEPkym) | 3:13 | 2020-12-22 | 2022-07-29 |
 | [Canary Islands](https://open.spotify.com/track/7MuU7UbVaKyu4HkHBoHwrD) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Canary Islands](https://open.spotify.com/album/3T0gMffhvjVW4DQi6PUj1L) | 3:24 | 2021-03-19 |  |
@@ -93,6 +94,7 @@
 | [Dynasty](https://open.spotify.com/track/1UglHGkDf43W58XZKdnqbE) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Through the Walls](https://open.spotify.com/album/58NWdqyxvKIUlzHEXqfeiv) | 3:21 | 2020-12-22 | 2022-04-20 |
 | [easy breezy](https://open.spotify.com/track/1eXzN85vuVH3VpDJlsrH8j) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [easy breezy](https://open.spotify.com/album/3oiZnlQEBv4kVT0yoSr86S) | 3:19 | 2023-11-10 |  |
 | [Ecstasy](https://open.spotify.com/track/5wzGHgamBPcqrWwuhGDfam) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Ecstasy](https://open.spotify.com/album/6BcSwoWKyFgB4CoVIYLxac) | 5:03 | 2020-12-22 | 2022-04-19 |
+| [Electric Fish](https://open.spotify.com/track/2i90BhQ6Mfvrd8yHRTHyZx) | [Ana Frango Elétrico](https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1) | [Me Chama De Gato Que Eu Sou Sua](https://open.spotify.com/album/6UZpK4jB5MYVYJpwwi2mbP) | 4:12 | 2023-11-24 |  |
 | [Energy](https://open.spotify.com/track/5MKNjfIpldYwoMIn3xRbQh) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [It's All a Bit Fuzzy](https://open.spotify.com/album/5Bt0eWwW0SAFvsgeH2SPJL) | 3:14 | 2023-11-10 |  |
 | [Enjoy Your Life](https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Enjoy Your Life](https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N) | 4:00 | 2023-04-14 |  |
 | [Everything Goes](https://open.spotify.com/track/6XyAYhsz7lOEjcsvhmp1zy) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Everything Goes](https://open.spotify.com/album/3w6jrYvgyPlSlMjOQnvGvT) | 5:24 | 2020-12-22 | 2022-04-08 |
@@ -163,7 +165,7 @@
 | [I Wanna Know](https://open.spotify.com/track/0xGTpQrQSRS2o8TMYGCyOr) | [La Felix](https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj) | [I Wanna Know](https://open.spotify.com/album/4g93Ifdeb2qTaoSDFMFUDS) | 5:20 | 2020-12-22 | 2022-07-29 |
 | [I'm In Love With You](https://open.spotify.com/track/668AkXg9qeMsY8fivgpPxL) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [I'm In Love With You](https://open.spotify.com/album/3rALWkXOoed2qwwayoKb3B) | 4:12 | 2021-03-19 | 2023-08-30 |
 | [I've Been In Love](https://open.spotify.com/track/7j3zZ2jAjzFD60UjhldhHo) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:49 | 2023-11-10 |  |
-| [IDK](https://open.spotify.com/track/4y9wGKxahGfBmvBJM7nGGB) | [Vaarwell](https://open.spotify.com/artist/7jz4ptH9vUGJdMpKFryEEG) | [IDK](https://open.spotify.com/album/4Y83PvVhaZqBbAqusw4M85) | 2:43 | 2023-04-07 |  |
+| [IDK](https://open.spotify.com/track/4y9wGKxahGfBmvBJM7nGGB) | [Vaarwell](https://open.spotify.com/artist/7jz4ptH9vUGJdMpKFryEEG) | [IDK](https://open.spotify.com/album/4Y83PvVhaZqBbAqusw4M85) | 2:43 | 2023-04-07 | 2023-11-25 |
 | [In the Garden](https://open.spotify.com/track/0mYb0BPh3rC1YuAVBtr6Di) | [LANNDS](https://open.spotify.com/artist/5Bff2ovjNhOhKU6kHEXKHy) | [In the Garden](https://open.spotify.com/album/2vOAHsQ1zmVnJgE9y0SgCx) | 3:40 | 2021-10-01 | 2022-07-20 |
 | [In The Genes](https://open.spotify.com/track/7qmfoJOvyf8FgUxFpKTyKq) | [Hot Toddy](https://open.spotify.com/artist/163htIH0QGu4ZDcR7B0aUW) | [Love Music](https://open.spotify.com/album/6Vic53TolsMk2phqGftC3p) | 8:00 | 2020-12-22 | 2022-04-18 |
 | [Infield \(Young & Sick Remix\)](https://open.spotify.com/track/3xkMBk1wMJ3aEnWO0sSOW7) | [Arthur Moon](https://open.spotify.com/artist/5iDcZ7vN17Cq55AbEqy0aC), [Young & Sick](https://open.spotify.com/artist/3pQXFWbvLit77NpvNmOo3k) | [Infield \(Young & Sick Remix\)](https://open.spotify.com/album/1kTRU2NEv60y4JYGUwuvNt) | 4:58 | 2020-12-22 | 2022-07-29 |

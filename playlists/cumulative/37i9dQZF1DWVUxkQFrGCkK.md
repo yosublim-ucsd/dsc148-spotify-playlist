@@ -4,7 +4,7 @@
 
 > Chill & Bumpy
 
-354 songs - 1 day 2 hr 46 min
+356 songs - 1 day 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [A Walk In The Park \- Moodymann Remix](https://open.spotify.com/track/4L1cTkm5pw0OluxjVVYZF9) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B), [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [A Walk In The Park \(Moodymann Remix\)](https://open.spotify.com/album/17lrQ0gDXaJh5RvtFWlE6u) | 5:22 | 2023-08-24 |  |
 | [ADD SUV \(feat\. Pharrell Williams\) \- Armand Van Helden Club Remix](https://open.spotify.com/track/7kE1g5T0Mmc84izq9DirqZ) | [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [ADD SUV](https://open.spotify.com/album/7iAhrXrGRbPcXWL6E8xiIW) | 4:44 | 2023-08-24 |  |
 | [AFRAID](https://open.spotify.com/track/6mZeGv9bMJ0etcLHCNXCno) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v) | [AFRAID](https://open.spotify.com/album/4IOS1T3uDYgm9mz8TEuK7Y) | 3:28 | 2023-05-11 | 2023-08-02 |
-| [Again \- Edit](https://open.spotify.com/track/6s7QWRG8BeBPL1xwUBWKxR) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ) | [Again \(Edit\)](https://open.spotify.com/album/5EnGrwJflFFXSuIHhkPcXu) | 3:33 | 2023-11-23 |  |
+| [Again \- Edit](https://open.spotify.com/track/6Jy35IQl4MUrYX90AkBZuD) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ) | [Again \(Edit\)](https://open.spotify.com/album/3vGWOnoKWrxkueS2VXtj4F) | 3:33 | 2023-11-23 |  |
+| [Again \- Edit](https://open.spotify.com/track/6s7QWRG8BeBPL1xwUBWKxR) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ) | [Again \(Edit\)](https://open.spotify.com/album/5EnGrwJflFFXSuIHhkPcXu) | 3:33 | 2023-11-23 | 2023-11-25 |
 | [Ain't No Other Man \- Rework](https://open.spotify.com/track/2arAYoniFUo3ojtcDEIhdl) | [Murphy's Law \(UK\)](https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1) | [Ain't No Other Man \(Rework\)](https://open.spotify.com/album/6iHOTd9FBBOLSDfJp8mFFq) | 2:34 | 2023-05-25 |  |
 | [Alegria](https://open.spotify.com/track/6THD0HpXvLeHy8kdiK4NQg) | [ARYMÉ](https://open.spotify.com/artist/5zdOlKWTERNvDJXkwMYRX6), [Osfur](https://open.spotify.com/artist/6qrKiEKVVelbXJa8HwchwO) | [Alegria](https://open.spotify.com/album/7jLacsfzdGbhbfwE5EH455) | 2:24 | 2023-11-23 |  |
 | [Alive](https://open.spotify.com/track/2DYFxnCylg9w08UNLG5qTr) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Alive](https://open.spotify.com/album/1kdJHSLs8tTh6g9FRRNRV5) | 4:30 | 2023-04-13 |  |
@@ -297,6 +298,7 @@
 | [Sounds So Nice](https://open.spotify.com/track/1yTYLQVe6TUcCFrr5a96As) | [Bungalow](https://open.spotify.com/artist/6G9mC3mgZJoMoYTUrN7KWU) | [Sundae Sauuce Presents: Chocolate Drizzle](https://open.spotify.com/album/0JpEaFsmduibGQhAEoIgXz) | 3:21 | 2023-06-29 | 2023-08-02 |
 | [Speak To Me](https://open.spotify.com/track/0EcvbNYvQdFiKn1LSiD1ub) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Speak To Me](https://open.spotify.com/album/7yX28X5NrAHaWP6kAjCy2d) | 6:42 | 2023-05-25 | 2023-08-02 |
 | [Star 69 \- Shermanology Remix](https://open.spotify.com/track/1aolkrCy1LD4YBlS4gStSV) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Star 69 \(Shermanology Remix\)](https://open.spotify.com/album/0h9SrjcXezB7KkTDW4ZJpt) | 5:53 | 2023-08-01 | 2023-08-25 |
+| [Stay High](https://open.spotify.com/track/7LXimIqTYO76Utly8VFABu) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Stay High](https://open.spotify.com/album/3E3JRB0gGzHuc56GB3hUPJ) | 3:08 | 2023-11-24 |  |
 | [Stay Inside \(feat\. Liv.e\) \- Sandy Rivera Remix](https://open.spotify.com/track/5oFNZCGG0BX6EF2pGKsiQ1) | [JT Donaldson](https://open.spotify.com/artist/4sg0H3qltIBMe0G25XjwUN), [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP), [Sandy Rivera](https://open.spotify.com/artist/6eChRUoyiCUCrUbwbT9Jq3) | [Stay Inside \(feat\. Liv.e\) \[Remixes\]](https://open.spotify.com/album/3KCWwGUT2EPhzHQ3t2ouEP) | 3:51 | 2023-05-11 |  |
 | [Step By Step \- Axel Boman’s In The Air Version](https://open.spotify.com/track/4rOUCnPgp5QW9uAkAReJUa) | [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [Step By Step \(Axel Boman’s In The Air Version\)](https://open.spotify.com/album/5cOYhU6gw1uoUpLrbp6zE9) | 3:22 | 2023-05-11 | 2023-08-02 |
 | [Subaru Dreams](https://open.spotify.com/track/3CdERnE1LHQuFHngbLtxjH) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Oxytoxin](https://open.spotify.com/album/6IB5Af6Ipn3EWd6S6eZhel) | 4:04 | 2023-08-10 | 2023-08-25 |

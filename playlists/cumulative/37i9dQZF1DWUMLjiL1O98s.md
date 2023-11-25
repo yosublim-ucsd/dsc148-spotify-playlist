@@ -4,7 +4,7 @@
 
 > La nueva ola del Afrobeats con un toque latino\. Feid y Rema en portada
 
-145 songs - 7 hr 26 min
+146 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Maria](https://open.spotify.com/track/33UTgzWoQmA8tJHoAt9pbX) | [Mystro](https://open.spotify.com/artist/7GUayRAp1ClL94DXIwMmD4), [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z) | [Maria](https://open.spotify.com/album/7jbsDUNv63Vk9jTMeIX8qn) | 3:27 | 2023-06-30 |  |
 | [Maria Elegante \(feat\. Afro B\)](https://open.spotify.com/track/2OU6RxOSA8n7nDpg3gF3aX) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:06 | 2023-06-30 |  |
 | [Me Gustas Natural](https://open.spotify.com/track/1Sym1HsTqsa2pYKhYL1j15) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 2:50 | 2023-06-30 |  |
-| [Mercedes](https://open.spotify.com/track/7nEcDt1fVVc6eA061D9GxX) | [DMT LEVEL](https://open.spotify.com/artist/1kqwCCNjx1fb5GgRGxaG2g), [Haznar](https://open.spotify.com/artist/4sXdCzE0VCnzM6OkEA0iOQ) | [Mercedes](https://open.spotify.com/album/1jP2LBxP5JmlpEdBgX45XO) | 2:12 | 2023-06-30 |  |
+| [Mercedes](https://open.spotify.com/track/7nEcDt1fVVc6eA061D9GxX) | [DMT LEVEL](https://open.spotify.com/artist/1kqwCCNjx1fb5GgRGxaG2g), [Haznar](https://open.spotify.com/artist/4sXdCzE0VCnzM6OkEA0iOQ) | [Mercedes](https://open.spotify.com/album/1jP2LBxP5JmlpEdBgX45XO) | 2:12 | 2023-06-30 | 2023-11-25 |
 | [Mi Condena](https://open.spotify.com/track/0ibMX6sBEHryBE17hseJwf) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk) | [Mi Condena](https://open.spotify.com/album/06AKqQkJHOAqgBRdyXYccG) | 3:38 | 2023-09-29 |  |
 | [Mi HAP \- Prod\. by Dj Cham](https://open.spotify.com/track/0qIn9pb1WADuL8aFdySMjG) | [Wow Popy](https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv) | [Mi HAP](https://open.spotify.com/album/0vdgHDEHIe5jglHQcCamuF) | 3:27 | 2023-06-30 |  |
 | [Mi Luz \(ft\. Rels B\)](https://open.spotify.com/track/0TkIQ2I48rz4kpk1XpfyHq) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [NASTU](https://open.spotify.com/album/6wl31M47YdcV6eNyfXCjCk) | 2:48 | 2023-07-21 | 2023-08-05 |
@@ -97,6 +97,7 @@
 | [No Stress](https://open.spotify.com/track/5C3vZiMOn2KHMbNQOhL6oQ) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 3:22 | 2023-07-21 | 2023-08-05 |
 | [Ocean](https://open.spotify.com/track/2kPjKPf34ZF0vXVBcsLimh) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Sin Sol](https://open.spotify.com/album/2CsypJgFF6iLwdWkHYanv9) | 3:24 | 2023-06-30 |  |
 | [OMA](https://open.spotify.com/track/2tnb6KLgg0e3NCtvLkoer1) | [ZERO](https://open.spotify.com/artist/66l0RF4YIJeNNTZzqdP6ew) | [OMA](https://open.spotify.com/album/2197Q17orIgTBhVYZ01PwU) | 2:24 | 2023-06-30 |  |
+| [OTRO ROUND](https://open.spotify.com/track/28SuPULQaeBPA7MEcHG1ns) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 2:14 | 2023-11-24 |  |
 | [Pasa\_je\_ro](https://open.spotify.com/track/5wPrJkHbugqIJuMQJN2qjp) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pasa\_je\_ro](https://open.spotify.com/album/6iYDWq8eBZDw4Te0dOsnAI) | 4:07 | 2023-06-30 |  |
 | [Paz](https://open.spotify.com/track/0zPR15MfQqMMotAnKesKR4) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Paz](https://open.spotify.com/album/7lQMPfBaZEewTGeyPXz46u) | 3:06 | 2023-06-30 |  |
 | [PEGAiTO](https://open.spotify.com/track/7yGnizi0N4HKP98afWnvjO) | [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Calacote](https://open.spotify.com/artist/52PhGA4a6erATMkWfLuFvO) | [Luna En Geminis](https://open.spotify.com/album/3yG5loq3NNuIXlAMyHFkXe) | 2:53 | 2023-06-30 |  |

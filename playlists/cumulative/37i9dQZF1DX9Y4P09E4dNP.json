@@ -988,7 +988,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 189474,
       "name": "Made in Ghana",
       "url": "https://open.spotify.com/track/7dMMkof2wbprZYG6ggp8eP"
@@ -1552,6 +1552,24 @@
       "duration_ms": 236460,
       "name": "Over",
       "url": "https://open.spotify.com/track/22RZSNHtfaNLTz1rOeAe5B"
+    },
+    {
+      "album": {
+        "name": "Nte Tee Pa",
+        "url": "https://open.spotify.com/album/1UJkGB9Kbbd7Z5kMYR1YRv"
+      },
+      "artists": [
+        {
+          "name": "Obrafour",
+          "url": "https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300359,
+      "name": "Oye Ohene featuring Tinny",
+      "url": "https://open.spotify.com/track/4SOb4NVBitP5gvKClrIbvq"
     },
     {
       "album": {

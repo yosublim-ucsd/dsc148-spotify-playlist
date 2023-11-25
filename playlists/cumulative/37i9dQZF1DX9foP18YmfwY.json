@@ -309,6 +309,32 @@
     },
     {
       "album": {
+        "name": "Bom \u00c9 Estarmos Aqui (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2Gbkne8Pc4zagtDSBM2bk8"
+      },
+      "artists": [
+        {
+          "name": "Leo Mantovani",
+          "url": "https://open.spotify.com/artist/3VJMa20Mfb44VqpLj8a4xr"
+        },
+        {
+          "name": "Davidson Silva",
+          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
+        },
+        {
+          "name": "Eduardo Cruz",
+          "url": "https://open.spotify.com/artist/39KPAfTV5Cot8mos61mUd5"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231219,
+      "name": "Bom \u00c9 Estarmos Aqui - Ao Vivo",
+      "url": "https://open.spotify.com/track/6lc2KWi6u3cXMMjMVlBuO6"
+    },
+    {
+      "album": {
         "name": "Can\u00e7\u00e3o de amor fraterno",
         "url": "https://open.spotify.com/album/6TI8JrepJxlaxxFIZgQjCu"
       },
@@ -456,7 +482,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 238430,
       "name": "Com Tua M\u00e3o",
       "url": "https://open.spotify.com/track/7wXke7G8pXKpPPKNluM3DA"
@@ -1008,7 +1034,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 280851,
       "name": "Exaltado - Ao Vivo",
       "url": "https://open.spotify.com/track/3jARfDXmV195P6y1NWHa82"
@@ -1467,6 +1493,24 @@
     },
     {
       "album": {
+        "name": "Maria Porta do C\u00e9u",
+        "url": "https://open.spotify.com/album/75LxVcoWjfJ0kSuTBMZA8F"
+      },
+      "artists": [
+        {
+          "name": "Padre Rodrigo Natal",
+          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281739,
+      "name": "Maria Porta do C\u00e9u",
+      "url": "https://open.spotify.com/track/4lwl2jjSyJi29f781kSKzW"
+    },
+    {
+      "album": {
         "name": "Maria Porta do C\u00e9u (Maria Passa na Frente)",
         "url": "https://open.spotify.com/album/0CjTATUNtQXUPAI15486Yi"
       },
@@ -1504,6 +1548,28 @@
       "duration_ms": 240513,
       "name": "Maria Vem",
       "url": "https://open.spotify.com/track/0AlGx8Q5pUvpt8Z4NcrA8L"
+    },
+    {
+      "album": {
+        "name": "Maria, M\u00e3e e Rainha",
+        "url": "https://open.spotify.com/album/1IJ7RefzvJFgJO7NREVLtX"
+      },
+      "artists": [
+        {
+          "name": "Padre Alexandre Spena Regueira",
+          "url": "https://open.spotify.com/artist/2Jra44kCQpRDRj2qDcKGjW"
+        },
+        {
+          "name": "Alvaro & Daniel",
+          "url": "https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225152,
+      "name": "Maria, M\u00e3e e Rainha",
+      "url": "https://open.spotify.com/track/14GmPiDPsP4WMmeorXYDdX"
     },
     {
       "album": {
@@ -2022,10 +2088,28 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 214000,
       "name": "Ponto de Partida",
       "url": "https://open.spotify.com/track/05Teec4me0ieroW0A3CWTN"
+    },
+    {
+      "album": {
+        "name": "Pra Te Ver Feliz",
+        "url": "https://open.spotify.com/album/0geKasDgvcEy4LFKxZna9z"
+      },
+      "artists": [
+        {
+          "name": "Ziza Fernandes",
+          "url": "https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206336,
+      "name": "Pra Te Ver Feliz",
+      "url": "https://open.spotify.com/track/53oVXkxQalQSjP11ML8qmD"
     },
     {
       "album": {
@@ -2168,6 +2252,24 @@
       "duration_ms": 218378,
       "name": "Retrovisor",
       "url": "https://open.spotify.com/track/79Vqir1xW9gpTkZQDe1bje"
+    },
+    {
+      "album": {
+        "name": "Romanos 12",
+        "url": "https://open.spotify.com/album/1HNPnd9VdzaOtRo933kud2"
+      },
+      "artists": [
+        {
+          "name": "Fraternidade S\u00e3o Jo\u00e3o Paulo II",
+          "url": "https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 490000,
+      "name": "Romanos 12",
+      "url": "https://open.spotify.com/track/1wRFaq5QqbIgS2vJTazBuL"
     },
     {
       "album": {
@@ -2492,7 +2594,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 255510,
       "name": "Subirei a Montanha",
       "url": "https://open.spotify.com/track/4ibqD0Z73ub2HmDywE2RGv"
@@ -2532,7 +2634,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 326208,
       "name": "Te Adorar",
       "url": "https://open.spotify.com/track/3blCCA06ECZDzJkfFzGRAJ"

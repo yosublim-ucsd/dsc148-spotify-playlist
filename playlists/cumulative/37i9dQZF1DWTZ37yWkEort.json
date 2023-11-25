@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "Carol of the Bells",
+        "url": "https://open.spotify.com/album/60lvtyh0ZKUrIxyle722Ou"
+      },
+      "artists": [
+        {
+          "name": "Red Letter Daze",
+          "url": "https://open.spotify.com/artist/1vAhVbWP3CHJtZ4Tf9gcdW"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125016,
+      "name": "Carol of the Bells",
+      "url": "https://open.spotify.com/track/3rBwq738wVuKxJZ6YBvfV5"
+    },
+    {
+      "album": {
         "name": "The Spirit Of The Season (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5BCKBGFjhmVbHg29qQkzCT"
       },
@@ -510,7 +528,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 156306,
       "name": "Home For The Holidays",
       "url": "https://open.spotify.com/track/3C5X3TE5feQ482zwMf1tcy"
@@ -1142,7 +1160,7 @@
       ],
       "date_added": "2017-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 128466,
       "name": "Run Run Rudolph",
       "url": "https://open.spotify.com/track/3n9zxQWvIIMVcbkKBXUejX"
@@ -1204,6 +1222,24 @@
       "duration_ms": 163226,
       "name": "Santa's Lost His Mojo",
       "url": "https://open.spotify.com/track/4hansT3HdsQlMsXqzbFCj8"
+    },
+    {
+      "album": {
+        "name": "Santamagic",
+        "url": "https://open.spotify.com/album/73qQ1YcElJG6QTrQ9XxHgV"
+      },
+      "artists": [
+        {
+          "name": "The Real Group",
+          "url": "https://open.spotify.com/artist/4EIXOUTnf8Gtbk2kq4LYNK"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118653,
+      "name": "Santamagic",
+      "url": "https://open.spotify.com/track/0QXqoBRJ9tbw1AQ94rxfGn"
     },
     {
       "album": {

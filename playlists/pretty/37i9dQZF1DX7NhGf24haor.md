@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: Gunz For Hire \(Ran\-D & Adaro\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,530 likes - 95 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,720 likes - 95 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Nine 2 Five](https://open.spotify.com/track/1qPJHuTYqCa4VwlpZRhUVs) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Nine 2 Five](https://open.spotify.com/album/6s4XltvvPnGX6rv75FrQMd) | 2:23 |
+| 1 | [Nine 2 Five](https://open.spotify.com/track/5zylS3y0Yh4slf7IM1UFai) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Nine 2 Five](https://open.spotify.com/album/1kTIfYlljukpQidDcdZh3e) | 2:23 |
 | 2 | [Dia De Los Muertos](https://open.spotify.com/track/50nwmMcvFwPpbTU85WZC7h) | [Gunz For Hire](https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW) | [Dia De Los Muertos](https://open.spotify.com/album/5VvNMLeMWPdGKhDj8fr5VY) | 3:35 |
 | 3 | [Wrong or Right \(The Riddle\) \[Revelation Remix\]](https://open.spotify.com/track/4xUjGco1qY0RW3B7DYstgA) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Revelation](https://open.spotify.com/artist/4xSp6WltH5N47OrAu4pjKw) | [Wrong or Right \(The Riddle\) \[Revelation Remix\]](https://open.spotify.com/album/1nkvxZnYm7VzhmJGS7OqL9) | 3:08 |
 | 4 | [Reflected Reality \- Official Shockerz 2023 Anthem](https://open.spotify.com/track/0zCbTdlV1vSVAr28LDtwfg) | [Aversion](https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC) | [Reflected Reality \(Official Shockerz 2023 Anthem\)](https://open.spotify.com/album/42mQWU7bnIF2p26Mw2mJlx) | 3:55 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 94 | [Bound By Blood](https://open.spotify.com/track/0urHN48EcZuLqImG7ASp98) | [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp), [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr) | [Bound By Blood](https://open.spotify.com/album/2fH2mZmPLKbWrnFBdQ90gw) | 3:45 |
 | 95 | [silhouette \- 2k23 version](https://open.spotify.com/track/3eZNxLLqqq0chX0b1QRkvx) | [Phuture Noize](https://open.spotify.com/artist/7AGSJihqYPhYy5QzMcwcQT) | [live at defqon.1 2k23](https://open.spotify.com/album/2cUKKwC6zhjYOr0Usm1Jid) | 2:42 |
 
-Snapshot ID: `MCw2MTY0NDE5ODJlODZlY2YzNTc1NWZiZjUxMDQxNTJlYWY1YzYyNTcz`
+Snapshot ID: `MCxmMjU3ZjJmNTI0MjA3ZmUyNTY1YjRkMTIxMTE1ODE5ZDM3ZDNhNDJl`

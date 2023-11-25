@@ -4,7 +4,7 @@
 
 > Music to reduce insomnia and help you relax.
 
-378 songs - 18 hr 43 min
+379 songs - 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,6 +329,7 @@
 | [Taivas](https://open.spotify.com/track/7lKhxWhv5sPG9MBaDfdJL7) | [Lumi Couri](https://open.spotify.com/artist/3lxrrGQ5yyzG43gu1ttAfP) | [Taivas](https://open.spotify.com/album/4eZo8y8cM7ZGqaUJoaooZ9) | 2:24 | 2021-11-10 |  |
 | [Tantric Life](https://open.spotify.com/track/6TMCj9pbXE0PmopzQdhiZw) | [Neotantra](https://open.spotify.com/artist/1VlwdDnFdsyCA3fLc9D6Gi) | [Tantric Life](https://open.spotify.com/album/0UCujJiEfJKAJ78EUaUEwt) | 3:12 | 2021-11-10 | 2023-04-07 |
 | [Te Urewera](https://open.spotify.com/track/5phPjqe0T4phCAXczNnYgS) | [Jay Belshaw](https://open.spotify.com/artist/5g3sUkuQbNRfpCCKsmJGl0) | [Te Urewera](https://open.spotify.com/album/6tFLZ7gy4Hdn224gUYvkAy) | 3:04 | 2021-11-10 |  |
+| [Tender](https://open.spotify.com/track/45OiJXLGZ6VpCfQ5aeHthU) | [St/llar](https://open.spotify.com/artist/1gfLjawL26XCWfHI8lyi5B) | [Tender](https://open.spotify.com/album/2LhK1JRZO6K3y2s1PtAibB) | 3:03 | 2023-11-24 |  |
 | [Tenderly](https://open.spotify.com/track/1QHQ8xwQpH5MHHZ4jSXX36) | [Elfva](https://open.spotify.com/artist/5kie64trGheZwIDvvwBHF1) | [Tenderly](https://open.spotify.com/album/0A4WqcLZ5WDyVaA18Sngu4) | 2:59 | 2021-11-10 | 2022-10-08 |
 | [The Arco](https://open.spotify.com/track/1Gv5jmYpcXBAKhiCaDjHNW) | [Quadrant Beta](https://open.spotify.com/artist/7c1VTKyjBDzeUERgDiz46f) | [The Arco](https://open.spotify.com/album/5JE4Xl3HU0o5Zgr1iurkdJ) | 3:23 | 2021-11-10 | 2023-02-18 |
 | [The Hands Of Time](https://open.spotify.com/track/2etpMgKM1SbJLOXJQ4bexE) | [Alexandro Alain](https://open.spotify.com/artist/0NqwKVBHcGGunnkgsVfouD) | [The Hands Of Time](https://open.spotify.com/album/1kbHxrCOM0F14VekC7QMga) | 2:31 | 2022-11-11 |  |

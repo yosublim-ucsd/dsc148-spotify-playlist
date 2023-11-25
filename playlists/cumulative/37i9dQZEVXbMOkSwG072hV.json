@@ -7416,7 +7416,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-22",
+      "date_removed": null,
       "duration_ms": 186870,
       "name": "Cheiro de Mato",
       "url": "https://open.spotify.com/track/1WgIQxW737iaI3dOG4Szfc"
@@ -24465,6 +24465,24 @@
     },
     {
       "album": {
+        "name": "No Estilo GTA",
+        "url": "https://open.spotify.com/album/0x0AsRe6ZqVSVlfAMBPqd8"
+      },
+      "artists": [
+        {
+          "name": "Iagor4M",
+          "url": "https://open.spotify.com/artist/7l5ORQKUTZHYnRZNvozbjm"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217779,
+      "name": "No Estilo GTA",
+      "url": "https://open.spotify.com/track/21V4fVrMzl9jcO1pHwdVFW"
+    },
+    {
+      "album": {
         "name": "no longer bound",
         "url": "https://open.spotify.com/album/1ri9HxSukluBBAvkqPd39A"
       },
@@ -35124,7 +35142,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 118541,
       "name": "Terapia",
       "url": "https://open.spotify.com/track/1HVXbcklvh8FTdEtMrOmHt"
@@ -40022,7 +40040,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 150093,
       "name": "\u00cdsis",
       "url": "https://open.spotify.com/track/5wwbnoRORYlLYf9QZAzrm7"

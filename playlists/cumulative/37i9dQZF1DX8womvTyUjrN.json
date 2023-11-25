@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Fresh Latin pop on the rise. Cover: Donovan Morales",
+  "description": "Fresh Latin pop on the rise. Cover: Yami Safdie",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -1874,7 +1874,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 186209,
       "name": "Como Si Nada",
       "url": "https://open.spotify.com/track/0WOZZpdj3HKxYKtZlLjdJg"
@@ -8680,6 +8680,28 @@
       "duration_ms": 159480,
       "name": "Tal Vez",
       "url": "https://open.spotify.com/track/2roQw5McQNlTzAu2dGGL14"
+    },
+    {
+      "album": {
+        "name": "Tango De Crueldad",
+        "url": "https://open.spotify.com/album/5zZOvM2FlIBpEADJHkUjH1"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        },
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143970,
+      "name": "Tango De Crueldad",
+      "url": "https://open.spotify.com/track/2yuoFc7FMd31eA0gaMmHxq"
     },
     {
       "album": {

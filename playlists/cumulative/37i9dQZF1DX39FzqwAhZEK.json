@@ -1622,7 +1622,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 234807,
       "name": "Elements of Calm",
       "url": "https://open.spotify.com/track/2sF9F7GyYSlviYnBxc3xsI"
@@ -5532,6 +5532,24 @@
       "duration_ms": 255144,
       "name": "Stillness",
       "url": "https://open.spotify.com/track/3HBY9kD6UISZDwjto7e8bh"
+    },
+    {
+      "album": {
+        "name": "Stressophobic",
+        "url": "https://open.spotify.com/album/4viW8FRpQz928WnCqe2NME"
+      },
+      "artists": [
+        {
+          "name": "Phobic",
+          "url": "https://open.spotify.com/artist/4pgvre1wDhGGmEbjevWClj"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Stressophobic",
+      "url": "https://open.spotify.com/track/6O6CClNFRAQ9Y2wB3t2g84"
     },
     {
       "album": {

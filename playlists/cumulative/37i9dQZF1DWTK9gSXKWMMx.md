@@ -4,7 +4,7 @@
 
 > Sit back and relax to the smooth sound of blues piano.
 
-85 songs - 4 hr 47 min
+89 songs - 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,8 +44,10 @@
 | [Dusty Road Blues](https://open.spotify.com/track/3hSc4uZpE2F35BmdnkITDO) | [Johnny Blackwood](https://open.spotify.com/artist/0Cp7RkxzaI0pJm1GvYHuSe) | [Dusty Road Blues](https://open.spotify.com/album/4lLwS4mtT8wP66TGLblZ5X) | 2:34 | 2023-10-02 |  |
 | [Easy Does It](https://open.spotify.com/track/70z4kWjDKAvQ6s4OYT0Bgv) | [Joe Krown](https://open.spotify.com/artist/6u0LV9Hm6zvvflRqUqav6Q) | [Just the Piano...Just the Blues](https://open.spotify.com/album/4LoZ1QlGwt1Cd644g4bJ5N) | 4:08 | 2021-12-03 | 2023-06-13 |
 | [Goodbye Pork Pie Hat](https://open.spotify.com/track/4pwfhJMOpGRd3hABNPd1n2) | [Joshua Ware](https://open.spotify.com/artist/6FMxrKi6qjCJnoY4rMNIHT) | [Midnight Solo Sessions](https://open.spotify.com/album/5G2e2LCTC6MFixt6amtciV) | 2:20 | 2022-01-21 |  |
+| [Got to Turn My Luck Around](https://open.spotify.com/track/59KzDuAokelU5fbTyBJM3w) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [Got to Turn My Luck Around](https://open.spotify.com/album/0i8QrpzYCFyjZOiU1YzwRJ) | 2:58 | 2023-11-24 |  |
 | [Hard Luck Shuffle](https://open.spotify.com/track/6YX1HXLbCAbAwLRHyPNyTG) | [Omar Parker](https://open.spotify.com/artist/4PTjlUerKZHANK5vASqQvV) | [Hard Luck Shuffle](https://open.spotify.com/album/5A2kCy9saaJoe0BaSAcodC) | 3:21 | 2023-09-22 |  |
 | [Harper Street Blues](https://open.spotify.com/track/6gvGs82KUQSdH7Rp7AWTGj) | [Neil Dunker](https://open.spotify.com/artist/0tJbegEI1Xa3pUnlGhwph8) | [Harper Street Blues](https://open.spotify.com/album/65XVY3REOEASfhR6WhvAiW) | 1:47 | 2023-04-28 |  |
+| [Heart of the Blues](https://open.spotify.com/track/3o2HBctC0bYs4xhgnpN14F) | [Oliver Stone](https://open.spotify.com/artist/05yLB7Qm97sxn5VYq6JlEv) | [Heart of the Blues](https://open.spotify.com/album/3lJPiGOXC8AzJa6yf3a1Wk) | 2:16 | 2023-11-24 |  |
 | [I Got It Bad](https://open.spotify.com/track/2O2ZgsGlwexJ4mlMQYphlZ) | [Benny Green](https://open.spotify.com/artist/4g55GmK5iQOyCoDdQCzWKZ) | [Green's Blues](https://open.spotify.com/album/2nBRs9PNx08q96K4LI5T6V) | 5:55 | 2023-06-12 |  |
 | [I'll Tell You Like It Is](https://open.spotify.com/track/5Y4RLpAh2AjP2bMXoE4Drh) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [I'll Tell You Like It Is](https://open.spotify.com/album/5kDSHCVtmVSIVSTqJTksBu) | 4:11 | 2023-08-04 |  |
 | [Imagine](https://open.spotify.com/track/3byWT4cNKt09Heqaa4sZ9o) | [Late Night Boy](https://open.spotify.com/artist/0FnVrn8XCkh7WoV9yn1wCX) | [Imagine](https://open.spotify.com/album/1xn3RlEzSXSXSMd6LdL2N9) | 3:00 | 2023-06-12 |  |
@@ -84,10 +86,12 @@
 | [Solo Piano Blues Improv](https://open.spotify.com/track/1UDsIm2Zv4seGt2Iz96zjb) | [Michael Silverman Jazz Piano Trio](https://open.spotify.com/artist/0higANuaOqI1ye1LxB46Aj) | [Relaxing Jazz For Quiet Moments: Relaxing Jazz Piano Music](https://open.spotify.com/album/4bHSQNDqSd5TFjHBDPsUhl) | 1:55 | 2021-12-03 |  |
 | [Someone To Watch Over Me](https://open.spotify.com/track/4RZP3Vkqd7OaMFcJV4NwAM) | [Benny Green](https://open.spotify.com/artist/4g55GmK5iQOyCoDdQCzWKZ) | [Green's Blues](https://open.spotify.com/album/2nBRs9PNx08q96K4LI5T6V) | 4:18 | 2023-06-12 |  |
 | [Something Blue](https://open.spotify.com/track/6iRURJLwZ955oKZflqydbs) | [Eximo Blue](https://open.spotify.com/artist/4lA30wTihw90nvQdV78pjm) | [Sunday Blues Piano](https://open.spotify.com/album/5PaoMcY6LaWaYToobjUrzp) | 1:52 | 2021-12-03 |  |
+| [That Old Porch](https://open.spotify.com/track/5AoZ1WkfBhFrHPNYaooxGA) | [Kent Reid](https://open.spotify.com/artist/2npEkfpTFEv9fhD2B4KmoZ) | [That Old Porch](https://open.spotify.com/album/77Hyxy9dV2qGQYO1mAybd3) | 3:22 | 2023-11-24 |  |
 | [The Grind](https://open.spotify.com/track/1V5e4VotOmyiv6gq5HF46d) | [Joe Krown](https://open.spotify.com/artist/6u0LV9Hm6zvvflRqUqav6Q) | [Just the Piano...Just the Blues](https://open.spotify.com/album/4LoZ1QlGwt1Cd644g4bJ5N) | 4:45 | 2021-12-03 | 2023-06-13 |
 | [The Homeless Wanderer](https://open.spotify.com/track/1NUdV2Lc7e2sbC14T7kG4q) | [Emahoy Tsege Mariam Gebru](https://open.spotify.com/artist/1D86M7ewUQH1vS0QsXCmI9) | [Ethiopiques, vol\. 21: Emahoy \(Piano Solo\)](https://open.spotify.com/album/4OYhJgrDTR74Yo4SE8Exdk) | 7:07 | 2022-05-27 |  |
 | [The Way It Should Be Played](https://open.spotify.com/track/0MFmzLHt46NlMXp9uBwG4W) | [Relaxing Piano Crew](https://open.spotify.com/artist/09zTbBto6vE4LzVjQluIz2), [Kazuhiro Chujo](https://open.spotify.com/artist/3h7iR2Yq6tYRfZou6MjtyV) | [Bar Blues Piano BGM](https://open.spotify.com/album/3HdSdlPlAW0qSqHB229Mpg) | 2:14 | 2021-12-03 |  |
 | [Three O'clock in the Morning](https://open.spotify.com/track/57ZHl1a9YV0HlXz3wflmhT) | [Chris Banta](https://open.spotify.com/artist/2TOHI8x53t6K4EK0Jod7ve) | [Boogie Woogie & Blues Piano](https://open.spotify.com/album/3AWdv42Hu1netbXSt6gx82) | 2:46 | 2021-12-03 |  |
+| [Troubled Times](https://open.spotify.com/track/3SY0tbLvmjD5p2BMqHy8GK) | [Kent Reid](https://open.spotify.com/artist/2npEkfpTFEv9fhD2B4KmoZ) | [Troubled Times](https://open.spotify.com/album/22BTfFRNUJNKwk6Co1I7P5) | 2:57 | 2023-11-24 |  |
 | [Un piccolo vecchio swing](https://open.spotify.com/track/60DRLblaDS96A0c2Bqwp4I) | [Gian Marco La Serra](https://open.spotify.com/artist/2UqzItH7bRUBh8hfjSkKMq), [Andrea Moro](https://open.spotify.com/artist/15hCfSudwmzOQbx2xavIG4) | [Un piccolo vecchio swing](https://open.spotify.com/album/1dhJbEok8jzxoyVH7tYTMv) | 2:29 | 2021-12-03 | 2023-06-13 |
 | [Voodoo Rag](https://open.spotify.com/track/5fKitjmfucWNCOZzyk8y6j) | [Chris Nole](https://open.spotify.com/artist/4VgHlBqO0dcrhFpuoPtHFB) | [Barrel House Boogie Piano](https://open.spotify.com/album/3kpHDkBXSh3bXBMRBWGShn) | 3:45 | 2021-12-03 | 2023-06-13 |
 | [Wazuri Blues](https://open.spotify.com/track/3Q8ZjS0JPDxOLiijhDDJBe) | [Kenny Barron](https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3) | [At The Piano](https://open.spotify.com/album/2d4yZdBZNZFYQfxWvo9uly) | 4:39 | 2023-06-12 |  |

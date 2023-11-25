@@ -761,6 +761,24 @@
     },
     {
       "album": {
+        "name": "Drifting Downstream",
+        "url": "https://open.spotify.com/album/54huiG7nVJZpqAF6yvRpL3"
+      },
+      "artists": [
+        {
+          "name": "Tonal Topographies",
+          "url": "https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202744,
+      "name": "Drifting Downstream",
+      "url": "https://open.spotify.com/track/4id7nbDobU3Y9VK98pAQXY"
+    },
+    {
+      "album": {
         "name": "Elements of Quicksand",
         "url": "https://open.spotify.com/album/49bEH6m6F74PrRw1iYWd36"
       },
@@ -1514,6 +1532,24 @@
       "duration_ms": 171057,
       "name": "Nature's Awakening",
       "url": "https://open.spotify.com/track/01VRlzhuv5LS1WLZsBJuek"
+    },
+    {
+      "album": {
+        "name": "Nature's Bed",
+        "url": "https://open.spotify.com/album/6VBCk80s3CdZjsDbX1cTFi"
+      },
+      "artists": [
+        {
+          "name": "Sinnesro",
+          "url": "https://open.spotify.com/artist/3CHM9Tbf0hM4MBzWGAcGPc"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191914,
+      "name": "Nature's Bed",
+      "url": "https://open.spotify.com/track/05CwrrO3RBQ8yQ0D6jxgA2"
     },
     {
       "album": {

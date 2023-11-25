@@ -1,12 +1,12 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 78953,
+  "num_followers": 78982,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzU1ZDMwNTY1ZmRiODgxODFlNzk4ZmQ4YTQ4ZDdmNmNkZjFmODgz",
+  "snapshot_id": "MCxiZDY5NjY0MGRmMTcxNTdlZmEyNGIwY2U0ODdmMGU4MzExNjI1Yzkz",
   "tracks": [
     {
       "added_at": "2023-10-27 07:45:00",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Psychedelic Jungle",
-        "url": "https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn"
-      },
-      "artists": [
-        {
-          "name": "The Cramps",
-          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
-        }
-      ],
-      "duration_ms": 186038,
-      "name": "Goo Goo Muck",
-      "url": "https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "The Smiths",
         "url": "https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 223253,
       "name": "Pretty Girls Make Graves - 2011 Remaster",
       "url": "https://open.spotify.com/track/3wUMcPzXcmaeW8QxTdyXQO"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "Psychedelic Jungle",
+        "url": "https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn"
+      },
+      "artists": [
+        {
+          "name": "The Cramps",
+          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
+        }
+      ],
+      "duration_ms": 186038,
+      "name": "Goo Goo Muck",
+      "url": "https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Flexorcist",
-        "url": "https://open.spotify.com/album/182ckyYQ6wiPAbi121pAKb"
-      },
-      "artists": [
-        {
-          "name": "The Voidz",
-          "url": "https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ"
-        }
-      ],
-      "duration_ms": 357463,
-      "name": "Flexorcist",
-      "url": "https://open.spotify.com/track/2P4FWhDB0wxPyULFAAmx15"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "So Jealous",
         "url": "https://open.spotify.com/album/2yNhqBKfZPzrxRJqGMbSz9"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 150293,
       "name": "Walking with a Ghost",
       "url": "https://open.spotify.com/track/7ImkjvM1OKWhJ5HIPOHcHE"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "Flexorcist",
+        "url": "https://open.spotify.com/album/182ckyYQ6wiPAbi121pAKb"
+      },
+      "artists": [
+        {
+          "name": "The Voidz",
+          "url": "https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ"
+        }
+      ],
+      "duration_ms": 357463,
+      "name": "Flexorcist",
+      "url": "https://open.spotify.com/track/2P4FWhDB0wxPyULFAAmx15"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Dead Man's Bones",
-        "url": "https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr"
-      },
-      "artists": [
-        {
-          "name": "Dead Man's Bones",
-          "url": "https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk"
-        }
-      ],
-      "duration_ms": 180186,
-      "name": "Dead Man's Bones",
-      "url": "https://open.spotify.com/track/6vLgqz7K77h0kRraU31R5x"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "St. Charles Square",
         "url": "https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 235325,
       "name": "St. Charles Square",
       "url": "https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "Dead Man's Bones",
+        "url": "https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr"
+      },
+      "artists": [
+        {
+          "name": "Dead Man's Bones",
+          "url": "https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk"
+        }
+      ],
+      "duration_ms": 180186,
+      "name": "Dead Man's Bones",
+      "url": "https://open.spotify.com/track/6vLgqz7K77h0kRraU31R5x"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Plastic Surgery Disasters/In God We Trust, Inc.",
-        "url": "https://open.spotify.com/album/7vtq4mlZSC1HC4a6UdcVug"
-      },
-      "artists": [
-        {
-          "name": "Dead Kennedys",
-          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
-        }
-      ],
-      "duration_ms": 215179,
-      "name": "Halloween",
-      "url": "https://open.spotify.com/track/4QL6epCx6rlUbDG4TF3sj9"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "Norm",
         "url": "https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 179280,
       "name": "Halloween Store",
       "url": "https://open.spotify.com/track/3oWGBitSdsizfiIlCfwUqV"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "Plastic Surgery Disasters/In God We Trust, Inc.",
+        "url": "https://open.spotify.com/album/7vtq4mlZSC1HC4a6UdcVug"
+      },
+      "artists": [
+        {
+          "name": "Dead Kennedys",
+          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
+        }
+      ],
+      "duration_ms": 215179,
+      "name": "Halloween",
+      "url": "https://open.spotify.com/track/4QL6epCx6rlUbDG4TF3sj9"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Pip Paine (Pay The \u00a35000 You Owe)",
-        "url": "https://open.spotify.com/album/3PWeJGk1ybkkO5lF9eXVUt"
-      },
-      "artists": [
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        }
-      ],
-      "duration_ms": 281066,
-      "name": "Trick or Treatz",
-      "url": "https://open.spotify.com/track/3JjiOYtQlAl7AHh2sXBgC6"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "Frankenstein",
         "url": "https://open.spotify.com/album/48ULeYOIxptWfLQdebRfVB"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 268186,
       "name": "Frankenstein",
       "url": "https://open.spotify.com/track/2N0vFGHku7wNk66Aw5HZSR"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "Pip Paine (Pay The \u00a35000 You Owe)",
+        "url": "https://open.spotify.com/album/3PWeJGk1ybkkO5lF9eXVUt"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        }
+      ],
+      "duration_ms": 281066,
+      "name": "Trick or Treatz",
+      "url": "https://open.spotify.com/track/3JjiOYtQlAl7AHh2sXBgC6"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Transangelic Exodus",
-        "url": "https://open.spotify.com/album/0qH9x299SJCF03WuVXgXAN"
-      },
-      "artists": [
-        {
-          "name": "Ezra Furman",
-          "url": "https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY"
-        }
-      ],
-      "duration_ms": 289000,
-      "name": "Suck the Blood from My Wound",
-      "url": "https://open.spotify.com/track/08udle8t4dGZzQ67AEs8X4"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "By Default",
         "url": "https://open.spotify.com/album/7uIZLgnTNZEJ1d0iO0qvEo"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 168936,
       "name": "Black Magic",
       "url": "https://open.spotify.com/track/6qWbdBTcF2u7zvSXLxKRZx"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "Transangelic Exodus",
+        "url": "https://open.spotify.com/album/0qH9x299SJCF03WuVXgXAN"
+      },
+      "artists": [
+        {
+          "name": "Ezra Furman",
+          "url": "https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY"
+        }
+      ],
+      "duration_ms": 289000,
+      "name": "Suck the Blood from My Wound",
+      "url": "https://open.spotify.com/track/08udle8t4dGZzQ67AEs8X4"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "A Girl Like You",
-        "url": "https://open.spotify.com/album/6vtVr80gX551QRmXU6QZJ4"
-      },
-      "artists": [
-        {
-          "name": "Anna B Savage",
-          "url": "https://open.spotify.com/artist/6nbtlXRy0S6adYpDVoRdNi"
-        }
-      ],
-      "duration_ms": 192600,
-      "name": "A Girl Like You",
-      "url": "https://open.spotify.com/track/3KrIoPBs9kptUnczFNg9tW"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "In Ghost Colours (UK Version Delux)",
         "url": "https://open.spotify.com/album/5IlfTdX8ifs6qbQYgk7AoS"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 268986,
       "name": "So Haunted",
       "url": "https://open.spotify.com/track/08fNM1EU6GnebBtv3Btl4d"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "A Girl Like You",
+        "url": "https://open.spotify.com/album/6vtVr80gX551QRmXU6QZJ4"
+      },
+      "artists": [
+        {
+          "name": "Anna B Savage",
+          "url": "https://open.spotify.com/artist/6nbtlXRy0S6adYpDVoRdNi"
+        }
+      ],
+      "duration_ms": 192600,
+      "name": "A Girl Like You",
+      "url": "https://open.spotify.com/track/3KrIoPBs9kptUnczFNg9tW"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Hit to Death in the Future Head",
-        "url": "https://open.spotify.com/album/1lynS5ouWEeWeMNT0XLqpJ"
-      },
-      "artists": [
-        {
-          "name": "The Flaming Lips",
-          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
-        }
-      ],
-      "duration_ms": 342693,
-      "name": "Halloween on the Barbary Coast",
-      "url": "https://open.spotify.com/track/7q7nZbhTbQotDE2P5vIJPL"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "No Regerts",
         "url": "https://open.spotify.com/album/5psuEv9OT8vMrW9TOiCGVS"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 159883,
       "name": "Evil",
       "url": "https://open.spotify.com/track/0Sy6N3rl8dsccN9MwWHoWi"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "Hit to Death in the Future Head",
+        "url": "https://open.spotify.com/album/1lynS5ouWEeWeMNT0XLqpJ"
+      },
+      "artists": [
+        {
+          "name": "The Flaming Lips",
+          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
+        }
+      ],
+      "duration_ms": 342693,
+      "name": "Halloween on the Barbary Coast",
+      "url": "https://open.spotify.com/track/7q7nZbhTbQotDE2P5vIJPL"
     },
     {
       "added_at": "2023-10-27 07:45:00",

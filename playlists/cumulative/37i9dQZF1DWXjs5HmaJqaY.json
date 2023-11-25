@@ -651,6 +651,24 @@
     },
     {
       "album": {
+        "name": "Dimension",
+        "url": "https://open.spotify.com/album/6x0CBRdU8588pZ40icfONg"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 481920,
+      "name": "Dimension",
+      "url": "https://open.spotify.com/track/2kWWPlO74XtWFY0xiaFFqH"
+    },
+    {
+      "album": {
         "name": "New Electronic Folk and the Floor",
         "url": "https://open.spotify.com/album/5pROYlIuHsXwxFV6PWRtnW"
       },
@@ -1832,6 +1850,32 @@
         {
           "name": "ILAYO",
           "url": "https://open.spotify.com/artist/2Wzl6ov46GbQTZHUpy23iR"
+        },
+        {
+          "name": "DJ Lion",
+          "url": "https://open.spotify.com/artist/0ZwTI7HIWqX7mz1KwdZSoq"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426307,
+      "name": "Lost In Complexity - DJ Lion Remix",
+      "url": "https://open.spotify.com/track/6b88cZdqkkfRozZY8Ws35F"
+    },
+    {
+      "album": {
+        "name": "Lost In Complexity (Edit) + Remixes",
+        "url": "https://open.spotify.com/album/1C1pAoJA45saJXg3HZfBXC"
+      },
+      "artists": [
+        {
+          "name": "Moritz Hofbauer",
+          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
+        },
+        {
+          "name": "ILAYO",
+          "url": "https://open.spotify.com/artist/2Wzl6ov46GbQTZHUpy23iR"
         }
       ],
       "date_added": "2023-10-06",
@@ -2110,6 +2154,32 @@
       "duration_ms": 383698,
       "name": "Moulin Rouge",
       "url": "https://open.spotify.com/track/3HVuI6V6SO1kycXAPF4Ti6"
+    },
+    {
+      "album": {
+        "name": "Rave the Planet: Supporter Series, Vol. 017",
+        "url": "https://open.spotify.com/album/23quYCxH4q3QPzaLhCAmww"
+      },
+      "artists": [
+        {
+          "name": "Dr. Motte",
+          "url": "https://open.spotify.com/artist/16XHmIkkg5P1YR2EoBFPOp"
+        },
+        {
+          "name": "Jam El Mar",
+          "url": "https://open.spotify.com/artist/0UmSf9lDFeavYgD65VrtHs"
+        },
+        {
+          "name": "Mark Reeve",
+          "url": "https://open.spotify.com/artist/58zZkWGb6qvx0AJ6L3ttlZ"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379800,
+      "name": "Music Is The Answer - Mark Reeve Remix",
+      "url": "https://open.spotify.com/track/5NNDC4CgDCZfh5IfC8yeO7"
     },
     {
       "album": {
@@ -2566,7 +2636,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 391186,
       "name": "R U FCKNG SERIOUS - Moritz Hofbauer Remix",
       "url": "https://open.spotify.com/track/5SfyXx7eOVL3zI16uNjRRN"
@@ -3200,7 +3270,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 378240,
       "name": "Time Of My Life - Cherry (UA) Remix",
       "url": "https://open.spotify.com/track/6nCa2xyV6szWUq2mXi7gV2"

@@ -684,7 +684,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 192821,
       "name": "Calm Waters",
       "url": "https://open.spotify.com/track/5ipVdxQrpHlOWHC0sRFavT"
@@ -1192,6 +1192,24 @@
       "duration_ms": 151200,
       "name": "Elba",
       "url": "https://open.spotify.com/track/5snLmzdl7l5t4vSwG19sYG"
+    },
+    {
+      "album": {
+        "name": "Eloudius",
+        "url": "https://open.spotify.com/album/7CXUaUcv3ItOmL7W4Edhed"
+      },
+      "artists": [
+        {
+          "name": "Moktar Debous",
+          "url": "https://open.spotify.com/artist/5gWsUOTIaNIIeyOaxfxA91"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191111,
+      "name": "Eloudius",
+      "url": "https://open.spotify.com/track/6Tl3O3dPqIdJWljoejNX0k"
     },
     {
       "album": {
@@ -2178,7 +2196,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 167151,
       "name": "Lemuria",
       "url": "https://open.spotify.com/track/3U10BbfZtZxMmiaEVuievr"
@@ -2412,7 +2430,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 186151,
       "name": "Lunar Glow",
       "url": "https://open.spotify.com/track/1aprpxWKe3dmT8uzc6bhvG"

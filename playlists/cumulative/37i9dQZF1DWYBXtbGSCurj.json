@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: Azevedo, Caio Luccas",
+  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: Chefin",
   "name": "Trap Ouro",
   "tracks": [
     {
@@ -100,6 +100,24 @@
       "duration_ms": 163000,
       "name": "1.5.7",
       "url": "https://open.spotify.com/track/3dkXSYgqtNE3BlLendqGnU"
+    },
+    {
+      "album": {
+        "name": "10 Carros",
+        "url": "https://open.spotify.com/album/1ZakiImfctMIFKkLNIDlcI"
+      },
+      "artists": [
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141176,
+      "name": "10 Carros",
+      "url": "https://open.spotify.com/track/2twZl1jsRbJRTNCE6VB6eW"
     },
     {
       "album": {
@@ -882,6 +900,32 @@
       "duration_ms": 194397,
       "name": "Afrodite",
       "url": "https://open.spotify.com/track/64o4tdehsJc5CTULrcY0cY"
+    },
+    {
+      "album": {
+        "name": "AGILIDADE",
+        "url": "https://open.spotify.com/album/0WViaVdGPXcK3RwXPuMA4c"
+      },
+      "artists": [
+        {
+          "name": "AmandesNoBeat",
+          "url": "https://open.spotify.com/artist/3xODk4jCgo4W4HskpPRPz6"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Bi\u00e9",
+          "url": "https://open.spotify.com/artist/73RAtZuq0QHqk1iNuwQz8m"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147754,
+      "name": "AGILIDADE",
+      "url": "https://open.spotify.com/track/7aTSVvdzV8GRiWNX7lgkrC"
     },
     {
       "album": {
@@ -4988,7 +5032,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 181778,
       "name": "Copy",
       "url": "https://open.spotify.com/track/3Q6P44efSOTR4O52255KmX"
@@ -8518,7 +8562,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 287076,
       "name": "Farto do Topo",
       "url": "https://open.spotify.com/track/4Y3aoMq0KVNhm22BADKlwm"
@@ -13570,7 +13614,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 164000,
       "name": "Me Leva Pra Casa",
       "url": "https://open.spotify.com/track/4leTvVRDhTdHMZAtSnwntn"
@@ -16421,6 +16465,36 @@
     },
     {
       "album": {
+        "name": "N\u00e3o Tenho Tempo",
+        "url": "https://open.spotify.com/album/0DU5qPWKr1bR86WsRjiiPP"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125624,
+      "name": "N\u00e3o Tenho Tempo",
+      "url": "https://open.spotify.com/track/42Lqgo4o80uHEKKtaGOkj1"
+    },
+    {
+      "album": {
         "name": "N\u00e3o \u00c9 Suficiente",
         "url": "https://open.spotify.com/album/0DdhIZIclkM4Ly5b3p4YR1"
       },
@@ -17386,7 +17460,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 115275,
       "name": "Outro Som de Sacanagem",
       "url": "https://open.spotify.com/track/4PylJL83J3Pl6m4NN2tmhm"
@@ -18728,7 +18802,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 194430,
       "name": "PORNSTAR",
       "url": "https://open.spotify.com/track/1x4ADGTpBnBaMz4LEUl7Xn"
@@ -20187,6 +20261,32 @@
     },
     {
       "album": {
+        "name": "REF\u00c9M",
+        "url": "https://open.spotify.com/album/5p0RhSgaS6TkOK51zjpEIs"
+      },
+      "artists": [
+        {
+          "name": "AmandesNoBeat",
+          "url": "https://open.spotify.com/artist/3xODk4jCgo4W4HskpPRPz6"
+        },
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "Nandela",
+          "url": "https://open.spotify.com/artist/5ZBgyN7hk6t2s74XcQyxrY"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "REF\u00c9M",
+      "url": "https://open.spotify.com/track/1xsBqK77dC9h4kDQ9seGYi"
+    },
+    {
+      "album": {
         "name": "Rel\u00f3gio",
         "url": "https://open.spotify.com/album/5uILYUGi75xEwKeRmieFNN"
       },
@@ -21413,6 +21513,32 @@
     },
     {
       "album": {
+        "name": "Sem Raz\u00e3o",
+        "url": "https://open.spotify.com/album/4KTs14s080aUNIHeZrTXh2"
+      },
+      "artists": [
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "CJota",
+          "url": "https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH"
+        },
+        {
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Sem Raz\u00e3o",
+      "url": "https://open.spotify.com/track/58ZOtehrdRnaXVXgyY7meV"
+    },
+    {
+      "album": {
         "name": "Sem Saber",
         "url": "https://open.spotify.com/album/7uUfRYWccTpD0y69BnjW6I"
       },
@@ -21674,6 +21800,36 @@
       "duration_ms": 313333,
       "name": "Set Loja Kings",
       "url": "https://open.spotify.com/track/6FdfJI0SllgNcVzD4sqZvq"
+    },
+    {
+      "album": {
+        "name": "Seu Desejo",
+        "url": "https://open.spotify.com/album/3adNSP3xdQtHLXDiKt7AMU"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "GREGO",
+          "url": "https://open.spotify.com/artist/4v4g6B3AmczdtPlNE4t39X"
+        },
+        {
+          "name": "DJ Pedro Vieira",
+          "url": "https://open.spotify.com/artist/6Nc0KutYK7ABhJ2jC1K2mn"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234545,
+      "name": "Seu Desejo",
+      "url": "https://open.spotify.com/track/2YcIs0ze3MeObnD9zXTifZ"
     },
     {
       "album": {
@@ -22154,7 +22310,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 100540,
       "name": "Sonhos (Intro)",
       "url": "https://open.spotify.com/track/6H6tKjl8GmNyUFjxDtqZYd"
@@ -23718,6 +23874,52 @@
       "duration_ms": 160888,
       "name": "Trap de Gringo",
       "url": "https://open.spotify.com/track/7cO5WfSORVQYfxUbgfanPa"
+    },
+    {
+      "album": {
+        "name": "TRAP DE MALOKA",
+        "url": "https://open.spotify.com/album/5mDbL5J9Unm0GVZnZCMLmH"
+      },
+      "artists": [
+        {
+          "name": "EHXIS",
+          "url": "https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Danike",
+          "url": "https://open.spotify.com/artist/5utjRtQc65CvfyqVPw0asK"
+        },
+        {
+          "name": "KayG",
+          "url": "https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk"
+        },
+        {
+          "name": "Kayin",
+          "url": "https://open.spotify.com/artist/42TGK7zUYHdMcKOPRg8g61"
+        },
+        {
+          "name": "Fahel",
+          "url": "https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC"
+        },
+        {
+          "name": "6ee",
+          "url": "https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW"
+        },
+        {
+          "name": "NERESZZ",
+          "url": "https://open.spotify.com/artist/0q3HhX2NqZo0or1zi7RAko"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "TRAP DE MALOKA",
+      "url": "https://open.spotify.com/track/7t0GcNEgTvKsBHP2EzWb4G"
     },
     {
       "album": {
@@ -25426,7 +25628,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 144660,
       "name": "Xeque Mate",
       "url": "https://open.spotify.com/track/57V2taA0W9V5Q68XqH4uAC"

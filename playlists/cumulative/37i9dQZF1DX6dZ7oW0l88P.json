@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "Blessed By A Harp",
+        "url": "https://open.spotify.com/album/3Y55iVuUn505DQWRyxZFaN"
+      },
+      "artists": [
+        {
+          "name": "Val\u00e9ry Guilloux",
+          "url": "https://open.spotify.com/artist/75SvP483ULjCCmGKmGnBL7"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198316,
+      "name": "Blessed By A Harp",
+      "url": "https://open.spotify.com/track/2Y4Bb9qTqvFdjcqO6dAsi4"
+    },
+    {
+      "album": {
         "name": "Nature Walks, Vol. 1",
         "url": "https://open.spotify.com/album/4LnGmQk6wKOWBEYfJWkxn6"
       },
@@ -690,7 +708,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 315560,
       "name": "Fingall's Lamentation / Marbhna",
       "url": "https://open.spotify.com/track/46yX1HXCnHEMIp5WS9a8Cj"
@@ -838,7 +856,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 145338,
       "name": "Harp Carrousel",
       "url": "https://open.spotify.com/track/3zBRhaiUrQ0ou91oZGCafb"
@@ -856,7 +874,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 182155,
       "name": "Harp Cocoon",
       "url": "https://open.spotify.com/track/12orMw5oRxzeJoFum2fw4J"
@@ -874,7 +892,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 191142,
       "name": "Harp Lullaby",
       "url": "https://open.spotify.com/track/7H5vKsjiKOJHCejokRXTTn"
@@ -1043,6 +1061,24 @@
     },
     {
       "album": {
+        "name": "In the Moment",
+        "url": "https://open.spotify.com/album/6u5sxi4wLpo9Uo1Ol84mGE"
+      },
+      "artists": [
+        {
+          "name": "Moon Garden",
+          "url": "https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "In the Moment",
+      "url": "https://open.spotify.com/track/4fzQznJIuWPxl8jjmbAQAS"
+    },
+    {
+      "album": {
         "name": "Enchanted Eden & Introspective Illusions",
         "url": "https://open.spotify.com/album/1iAlgtn0THENUi4T6gMMbn"
       },
@@ -1184,7 +1220,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 267013,
       "name": "Lenaerts: Fantaisie sur la Boh\u00e8me de Puccini, Pt. 1",
       "url": "https://open.spotify.com/track/3j9dQrn1E6TWojRj1BEWxx"
@@ -1206,6 +1242,24 @@
       "duration_ms": 169000,
       "name": "Les Belles Cordes",
       "url": "https://open.spotify.com/track/41a5ljXdIkwoOp43yvAkYP"
+    },
+    {
+      "album": {
+        "name": "Light And Dark",
+        "url": "https://open.spotify.com/album/5G5Uut8akYzRtxBUGlrp7F"
+      },
+      "artists": [
+        {
+          "name": "Caiharice",
+          "url": "https://open.spotify.com/artist/4FIDD82Hp8dfCV7hwuAfEn"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190500,
+      "name": "Light And Dark",
+      "url": "https://open.spotify.com/track/0hfd9tzSPhGsRWBlFEhuwM"
     },
     {
       "album": {
@@ -1502,7 +1556,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 164826,
       "name": "Music For Growing Flowers - Pt. 5",
       "url": "https://open.spotify.com/track/6Ud2eoIWr1PlHZjBulf0fG"
@@ -1520,7 +1574,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 309200,
       "name": "Music of Spey",
       "url": "https://open.spotify.com/track/0ecznKoNRZ07IK0VUFPIBB"
@@ -1698,7 +1752,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 184000,
       "name": "No Mud No Lotus",
       "url": "https://open.spotify.com/track/4qDMRe940jLc9QIU5wtvOB"
@@ -2124,7 +2178,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 173628,
       "name": "River Flows in You",
       "url": "https://open.spotify.com/track/2gvxgyu4TVOizX3KMrlKmL"
@@ -2290,7 +2344,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 205880,
       "name": "Sir Arthur Shaen",
       "url": "https://open.spotify.com/track/3mrhQayC2vDbqp1ArINfFT"
@@ -2326,7 +2380,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 225861,
       "name": "Smile",
       "url": "https://open.spotify.com/track/2QUzGxebyjqN5qStur0Shc"
@@ -2398,7 +2452,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 226876,
       "name": "Sometimes He's In My Dreams",
       "url": "https://open.spotify.com/track/2BQplCyfCnTV5RvDYBz9UB"
@@ -2546,7 +2600,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 179000,
       "name": "The Dream is the Answer",
       "url": "https://open.spotify.com/track/1Kgs9sJrIvldhEOSci4oVY"
@@ -2604,6 +2658,24 @@
       "duration_ms": 191428,
       "name": "The Last Journey",
       "url": "https://open.spotify.com/track/4gSnNc4eQO8zElIves7Eal"
+    },
+    {
+      "album": {
+        "name": "The Light",
+        "url": "https://open.spotify.com/album/6mlW1tbwWmIl1ui7TaX568"
+      },
+      "artists": [
+        {
+          "name": "Yeshi Namdak",
+          "url": "https://open.spotify.com/artist/1Q024x44ggYq9bvRsaRPri"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174765,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/5Er0CbvKlDheH1X7fDgEM2"
     },
     {
       "album": {
@@ -2798,7 +2870,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 230051,
       "name": "We Wave From Our Boats",
       "url": "https://open.spotify.com/track/0ax8Q0A3ejFqsLA7Gl7mH3"

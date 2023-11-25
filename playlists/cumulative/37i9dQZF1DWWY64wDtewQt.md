@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-623 songs - 23 hr 53 min
+624 songs - 23 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [ARCHANGEL](https://open.spotify.com/track/2C38tr7Qwrum8WJLnFnGVf) | [Skorde](https://open.spotify.com/artist/3voCipmmrW5uF4EMA6aSbj) | [ARCHANGEL](https://open.spotify.com/album/4iLY9g8XHuDqIv5DHneCBo) | 2:48 | 2023-02-24 | 2023-03-18 |
 | [AREAMATE MIZ](https://open.spotify.com/track/6A3uNmMItYREVU0mKY84DO) | [Anar](https://open.spotify.com/artist/4C5EDmZfgkkSwUVFSvuUNP) | [AREAMATE MIZ](https://open.spotify.com/album/2cuN40DJHCdsfxqx7jM8w3) | 1:20 | 2023-09-29 | 2023-11-08 |
 | [AREAMATE MIZ](https://open.spotify.com/track/0jFVh6ZKnTa7YeXhegoizc) | [Imprviious](https://open.spotify.com/artist/3542zdQigI42Ldk3KOrZ77) | [AREAMATE MIZ](https://open.spotify.com/album/5zjPzj6uBC7cKbBehDtsqc) | 1:20 | 2023-09-29 | 2023-11-12 |
-| [AREAMATE MIZ](https://open.spotify.com/track/5fidhv2cY1UFSmM0IfzXUc) | [Imprviious](https://open.spotify.com/artist/3542zdQigI42Ldk3KOrZ77) | [AREAMATE MIZ](https://open.spotify.com/album/3PUiEfbilwe50AC5AqaMLX) | 1:20 | 2023-09-29 |  |
+| [AREAMATE MIZ](https://open.spotify.com/track/5fidhv2cY1UFSmM0IfzXUc) | [Imprviious](https://open.spotify.com/artist/3542zdQigI42Ldk3KOrZ77) | [AREAMATE MIZ](https://open.spotify.com/album/3PUiEfbilwe50AC5AqaMLX) | 1:20 | 2023-09-29 | 2023-11-25 |
+| [AREAMATE MIZ](https://open.spotify.com/track/7iTkZfuWTGTMLfCSKiGKKz) | [Imprviious](https://open.spotify.com/artist/3542zdQigI42Ldk3KOrZ77) | [AREAMATE MIZ](https://open.spotify.com/album/5In521cVolHQ12SbPSg50a) | 1:20 | 2023-09-29 |  |
 | [Arumanakku Mk Iii](https://open.spotify.com/track/1eXjYLn5POhiBLZuxFbZA6) | [SMKY LPRD](https://open.spotify.com/artist/2yDqXxG97zwpFIy9o1ZEQr) | [ARUMANAKKU MK III](https://open.spotify.com/album/5rTkqyJBPAFENcGeGlqCm6) | 5:18 | 2022-01-14 | 2022-02-05 |
 | [ASTRO](https://open.spotify.com/track/54sEjr0FU2YTPbEliJ1YPh) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [IVOXYGEN](https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm), [zaichkou888](https://open.spotify.com/artist/7yzEddrxGDljtj9TmeCfte) | [ASTRO](https://open.spotify.com/album/3c8QZL2igzmAcM8IfupjTC) | 2:24 | 2023-11-06 |  |
 | [Attack of the Killer Beast \(Phonk\)](https://open.spotify.com/track/1nJOtOQJqzHaxh8kzuudxR) | [SXCREDMANE](https://open.spotify.com/artist/7MLzeghYGtox25YcP078j9) | [Attack of the Killer Beast \(Phonk\)](https://open.spotify.com/album/2Co4pvEvpsBHIGXufGc3p3) | 2:16 | 2023-02-10 | 2023-06-17 |

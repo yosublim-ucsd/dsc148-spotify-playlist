@@ -4,7 +4,7 @@
 
 > Jazz voices of today\. Cover: Samara Joy
 
-674 songs - 1 day 23 hr 14 min
+675 songs - 1 day 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [Devil May Care](https://open.spotify.com/track/5ImWPpPTnxTsVUiuQ6RVKu) | [Sherine 尚羚](https://open.spotify.com/artist/3jHGEibos6PbvirMBJlgFl), [Steve LaSpina](https://open.spotify.com/artist/5OmSSr7NqennGE7koYEUjn) | [TWO FOR THE ROAD](https://open.spotify.com/album/3MDlqsMUVL8Ak4BIwrUTto) | 3:31 | 2021-11-05 | 2022-07-29 |
 | [Did I Remember](https://open.spotify.com/track/6RgjSDtmbERAdRSzc9h5Bd) | [Hot Sugar Band](https://open.spotify.com/artist/1MnPmJJRQj85pHB2veNylr), [Nicolle Rochelle](https://open.spotify.com/artist/6KqrWNQDVycyqwk8G1SkQL) | [Did I Remember](https://open.spotify.com/album/117k407f1SSmKwmPh74khJ) | 3:58 | 2020-10-23 | 2022-02-13 |
 | [Did Somebody Make a Fool Out of You](https://open.spotify.com/track/3y5Z7sB8kKEuBI06G2fZcb) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Did Somebody Make a Fool Out of You](https://open.spotify.com/album/5VvEOtmiR7TFEWp62vjPOs) | 4:51 | 2022-07-29 | 2023-11-04 |
-| [Did Somebody Make a Fool Out of You](https://open.spotify.com/track/2a6ZvVIWBeBSjAcbPgolD9) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Black Acid Soul \(Deluxe\)](https://open.spotify.com/album/41KI9nUWYRQDxXfgfbX5Zz) | 4:51 | 2022-08-05 |  |
+| [Did Somebody Make a Fool Out of You](https://open.spotify.com/track/2a6ZvVIWBeBSjAcbPgolD9) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Black Acid Soul \(Deluxe\)](https://open.spotify.com/album/41KI9nUWYRQDxXfgfbX5Zz) | 4:51 | 2022-08-05 | 2023-11-25 |
 | [Dignidad](https://open.spotify.com/track/6BvnDPPGQsdQoymojmjNjW) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Sean Mason](https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z), [Jonathan Michel](https://open.spotify.com/artist/2G2WfpJo95sdb8Djp7xzd8), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS) | [Dignidad](https://open.spotify.com/album/7wQyzR5qpjMCyZFn8bcxYB) | 3:03 | 2023-07-21 | 2023-08-05 |
 | [Dindi \(with Paolo Fresu\)](https://open.spotify.com/track/3pW8zELCXQhiczD2UKS62j) | [Mario Biondi](https://open.spotify.com/artist/1dRsXw2TtfCXfqMLRiP088), [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi) | [Crooning Undercover](https://open.spotify.com/album/5SVHtY9fN5Ne3rPZOqtKg7) | 5:01 | 2023-09-29 |  |
 | [Do You Want to Know a Secret](https://open.spotify.com/track/4NmevLdf0DjM22ASgnLrYh) | [Mathilda Homer](https://open.spotify.com/artist/0uwGk8b2zINQFSKiLbK50Y) | [Do You Want to Know a Secret](https://open.spotify.com/album/3poKwA1VNvoXkRwULoaFJY) | 2:00 | 2020-11-14 | 2022-02-19 |
@@ -163,6 +163,7 @@
 | [Double Rainbow](https://open.spotify.com/track/2XL317luBaRSE49D5JzeSq) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Double Rainbow](https://open.spotify.com/album/4vHFlhP6Lc6bW9xDjN8hxe) | 4:31 | 2020-10-09 | 2022-02-19 |
 | [Dream a Little Dream of Me](https://open.spotify.com/track/0fVhDykD0OZ7pIytVEKQyF) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Grand Songs](https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv) | 3:06 | 2022-02-18 | 2023-02-25 |
 | [Dream Dream](https://open.spotify.com/track/0BDhPwiAdl5l83JyHLoEBk) | [Camille Bertault](https://open.spotify.com/artist/7Dg9vuKpfUPSsWslQ4dm3n) | [Le tigre](https://open.spotify.com/album/3so5zdZeersdAyGsnFFtMY) | 4:02 | 2020-10-09 | 2022-02-11 |
+| [Dream Life](https://open.spotify.com/track/2dSXV3BOMaw9aB8SrRmOiH) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Dream Life](https://open.spotify.com/album/1sqJUG8S7F9cmEe7mxyNVZ) | 2:57 | 2023-11-24 |  |
 | [Earth](https://open.spotify.com/track/5YhEegiv5zyzhGix6a8wPm) | [Linntett](https://open.spotify.com/artist/3OuA2EcINvZBtsayc5OffV), [Laura Totenhagen](https://open.spotify.com/artist/2ECGxRKDjWiwqj4oufIyEs) | [Jazz Montez Presents Vol\. I](https://open.spotify.com/album/242iXvXkQouR3XCtSKFP4x) | 6:52 | 2022-02-18 | 2022-06-24 |
 | [East of the Sun and West of the Moon](https://open.spotify.com/track/0hed9Q52TtwFLRMgK0M98e) | [Live Foyn Friis](https://open.spotify.com/artist/4dZ1woIhLE3Y92MRKhr8af), [Bård Helgerud](https://open.spotify.com/artist/2GMYgVdLfQj8frPJDRLkvh), [Rodrigo Villagra](https://open.spotify.com/artist/0RgfOjYOuHTiBygi9BwAzv), [Magnus Sefaniassen Eide](https://open.spotify.com/artist/6S5pM5PQo4Z7dv6xUE8Ahw) | [Live Sings Sassy](https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr) | 6:21 | 2022-03-11 | 2023-02-25 |
 | [Embraceable You](https://open.spotify.com/track/2JUXoMH3QEp0e1Uk45oxqX) | [Robin Mckelle](https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV) | [Embraceable You](https://open.spotify.com/album/0GsbrReQDXI4lmLxRRUa8V) | 4:40 | 2023-04-21 |  |

@@ -6,10 +6,118 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgzMzY1MDAsMDAwMDAwMDBkNjRiN2I0Mjc0YWQyNWM0ZTJjOTY4ODNhNjZkY2E4Ng==",
+  "snapshot_id": "MjgzNDY1ODAsMDAwMDAwMDBlZDY0ZjNhY2MwZWY0Mjg0Mzc0NDg4N2EwODlhZDE0Nw==",
   "tracks": [
     {
-      "added_at": "2023-11-17 03:00:00",
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "Queen Of Rock 'n' Roll",
+        "url": "https://open.spotify.com/album/6BFvkzsLs4ysIGaxdr8i8Q"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "duration_ms": 250670,
+      "name": "Proud Mary (Edit) - 2023 Remaster",
+      "url": "https://open.spotify.com/track/7LZAajCyieyiHQGxU3HloP"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "Owner Of A Lonely Heart (farfetch'd Edit)",
+        "url": "https://open.spotify.com/album/5QNsNfBYB23lwvGXMLH3RK"
+      },
+      "artists": [
+        {
+          "name": "Yes",
+          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
+        },
+        {
+          "name": "farfetch'd",
+          "url": "https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G"
+        }
+      ],
+      "duration_ms": 152023,
+      "name": "Owner Of A Lonely Heart (farfetch'd Edit)",
+      "url": "https://open.spotify.com/track/1sN8YtuNoj8t7gMDX9EBfb"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "Sinestesia",
+        "url": "https://open.spotify.com/album/22V1HdrXA98V9wELP3Ptio"
+      },
+      "artists": [
+        {
+          "name": "Ojal De Ajaw",
+          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
+        },
+        {
+          "name": "Sador",
+          "url": "https://open.spotify.com/artist/0c6ot2z49nSVTPHoMZP51Y"
+        },
+        {
+          "name": "Senc",
+          "url": "https://open.spotify.com/artist/12cygJZmz2aa87fXBgThs6"
+        },
+        {
+          "name": "Dj Efe",
+          "url": "https://open.spotify.com/artist/4XdZAAWHiuwSW2gpTVWx4U"
+        }
+      ],
+      "duration_ms": 266602,
+      "name": "Sinestesia",
+      "url": "https://open.spotify.com/track/71iBB129nEBFzw7gBiwrww"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "Tchaikovsky: Symphony No. 4 in F Minor, Op. 36, TH 27; The Nutcracker, Op. 71a, TH 35",
+        "url": "https://open.spotify.com/album/5OPtH2JpV3H6qUYw1TilNW"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Pittsburgh Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/7oOCHAPJjD7IARb5hrzvw9"
+        },
+        {
+          "name": "William Steinberg",
+          "url": "https://open.spotify.com/artist/3oLKocKU2vgprWeskj53Fo"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "The Nutcracker (Suite), Op. 71a, TH 35: IId. Arabian Dance",
+      "url": "https://open.spotify.com/track/1P1zQA3aKjYlCYg98Q3DS3"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "xmas sped up + slowed",
+        "url": "https://open.spotify.com/album/0QplsJsS4g4VFDCJODfyaL"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 177662,
+      "name": "What Christmas Means to Me (feat. Stevie Wonder) - Slowed & Reverb",
+      "url": "https://open.spotify.com/track/14TIy5ASSW9O354VELxV5I"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
       "album": {
         "name": "Ayahuasca",
         "url": "https://open.spotify.com/album/7tcaADtvrhMXfy7EC63p8j"
@@ -25,7 +133,7 @@
       "url": "https://open.spotify.com/track/19Kgdm3IMoslUlpBNcYmeU"
     },
     {
-      "added_at": "2023-11-17 03:00:00",
+      "added_at": "2023-11-24 03:00:00",
       "album": {
         "name": "Mess It Up (Purple Disco Machine Remix)",
         "url": "https://open.spotify.com/album/0L6IypGWr61krz90boqPDD"
@@ -45,7 +153,7 @@
       "url": "https://open.spotify.com/track/7wkTF8cHGCurrfNATqvJLc"
     },
     {
-      "added_at": "2023-11-17 03:00:00",
+      "added_at": "2023-11-24 03:00:00",
       "album": {
         "name": "Fallen (Deluxe Edition / Remastered 2023)",
         "url": "https://open.spotify.com/album/1l60K3wSsZjJDfeAvnkZw5"
@@ -61,7 +169,7 @@
       "url": "https://open.spotify.com/track/558sFNXvHZWWOzbsDaeak2"
     },
     {
-      "added_at": "2023-11-17 03:00:00",
+      "added_at": "2023-11-24 03:00:00",
       "album": {
         "name": "Live In Helsinki St. John's Church",
         "url": "https://open.spotify.com/album/3mlEZOZcTZ6NY0jfFg1EaQ"
@@ -77,7 +185,7 @@
       "url": "https://open.spotify.com/track/0GSBDca01R6z6fUIBDajgn"
     },
     {
-      "added_at": "2023-11-17 03:00:00",
+      "added_at": "2023-11-24 03:00:00",
       "album": {
         "name": "Trial By Fire",
         "url": "https://open.spotify.com/album/0Tfz5EVaNE6oeAn4vttNEi"
@@ -93,7 +201,7 @@
       "url": "https://open.spotify.com/track/6oIGM95s3TIyPqhHIH2AQ6"
     },
     {
-      "added_at": "2023-11-17 03:00:00",
+      "added_at": "2023-11-24 03:00:00",
       "album": {
         "name": "Leave Me Blue (Live)",
         "url": "https://open.spotify.com/album/5DHLdDb2OAxCXGXlBK64rI"
@@ -109,7 +217,7 @@
       "url": "https://open.spotify.com/track/1z8bRmSyzJ9BBX0KhvKvPO"
     },
     {
-      "added_at": "2023-11-17 03:00:00",
+      "added_at": "2023-11-24 03:00:00",
       "album": {
         "name": "The Complete Budokan 1978 (Live)",
         "url": "https://open.spotify.com/album/6LosaBGHSd97BYSVI7x4ni"
@@ -125,7 +233,7 @@
       "url": "https://open.spotify.com/track/2jaHpMuTVaEM2kFtAmkOHi"
     },
     {
-      "added_at": "2023-11-17 03:00:00",
+      "added_at": "2023-11-24 03:00:00",
       "album": {
         "name": "Rockstar",
         "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
@@ -145,7 +253,7 @@
       "url": "https://open.spotify.com/track/0olhDuJdwF3WbIu16hCE3S"
     },
     {
-      "added_at": "2023-11-17 03:00:00",
+      "added_at": "2023-11-24 03:00:00",
       "album": {
         "name": "And Still (Bright-Side Mix)",
         "url": "https://open.spotify.com/album/68zGmkQetcDd6s5lcScxEp"
@@ -161,59 +269,7 @@
       "url": "https://open.spotify.com/track/1ITNKEIgQNWx1mkIZu9R3H"
     },
     {
-      "added_at": "2023-11-17 03:00:00",
-      "album": {
-        "name": "EUPHORIA",
-        "url": "https://open.spotify.com/album/1LzqwHBZhp1k8lOEKjQIYc"
-      },
-      "artists": [
-        {
-          "name": "Narada Michael Walden",
-          "url": "https://open.spotify.com/artist/37WGztoQRbNgo55GQCw75B"
-        },
-        {
-          "name": "Carlos Santana",
-          "url": "https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ"
-        },
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        },
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        },
-        {
-          "name": "Lino Nicolosi",
-          "url": "https://open.spotify.com/artist/5wYc4ue14YKomrRwsEZW9j"
-        }
-      ],
-      "duration_ms": 346730,
-      "name": "THE MORE I LOVE MY LIFE - Radio Edit",
-      "url": "https://open.spotify.com/track/6P7PylF3pxrs2wGsEBRO8o"
-    },
-    {
-      "added_at": "2023-11-17 03:00:00",
-      "album": {
-        "name": "Selections From The Nutcracker (LO-FI Hip Hop)",
-        "url": "https://open.spotify.com/album/55WYGg22vIySFtppKWxQIK"
-      },
-      "artists": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "LO-FI BEATS",
-          "url": "https://open.spotify.com/artist/7iUy9ctasMRtp5jwWs95Fm"
-        }
-      ],
-      "duration_ms": 210825,
-      "name": "The Nutcracker, Op.71, Act I Scene 2: The Forest of Fir Trees In Winter - LO-FI Hip Hop",
-      "url": "https://open.spotify.com/track/0i9ktfACheecVu5YJX48yH"
-    },
-    {
-      "added_at": "2023-11-17 03:00:00",
+      "added_at": "2023-11-24 03:00:00",
       "album": {
         "name": "DJ Play A Christmas Song (DJ Mixes)",
         "url": "https://open.spotify.com/album/1qsVaIjStefGK4mJLwNHia"
@@ -233,7 +289,7 @@
       "url": "https://open.spotify.com/track/5kU3NesP9gTe1tqvbB9R05"
     },
     {
-      "added_at": "2023-11-17 03:00:00",
+      "added_at": "2023-11-24 03:00:00",
       "album": {
         "name": "Autopoi\u00e9tica",
         "url": "https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI"
@@ -249,7 +305,7 @@
       "url": "https://open.spotify.com/track/7vNHNUWpNNW9G5hokRWVpH"
     },
     {
-      "added_at": "2023-11-17 03:00:00",
+      "added_at": "2023-11-24 03:00:00",
       "album": {
         "name": "Jimi Hendrix Experience: Live At The Hollywood Bowl: August 18, 1967",
         "url": "https://open.spotify.com/album/0DtRXNeZDS03QOb4TsDVLP"
@@ -265,7 +321,7 @@
       "url": "https://open.spotify.com/track/267hVJUi029ovd5X6rqTo1"
     },
     {
-      "added_at": "2023-11-17 03:00:00",
+      "added_at": "2023-11-24 03:00:00",
       "album": {
         "name": "Up (25th Anniversary Edition)",
         "url": "https://open.spotify.com/album/5kQu0kycLJGGRoqsDR3cv3"
@@ -281,7 +337,7 @@
       "url": "https://open.spotify.com/track/096Cw6U4EUPLCTkkSmDczL"
     },
     {
-      "added_at": "2023-11-17 03:00:00",
+      "added_at": "2023-11-24 03:00:00",
       "album": {
         "name": "A la Cima (Remix)",
         "url": "https://open.spotify.com/album/1VqpdzhSfajFfSPiIAiL6B"
@@ -309,7 +365,7 @@
       "url": "https://open.spotify.com/track/1DR7UyAbzyvWbtmfHrRtiS"
     },
     {
-      "added_at": "2023-11-17 03:00:00",
+      "added_at": "2023-11-24 03:00:00",
       "album": {
         "name": "1982",
         "url": "https://open.spotify.com/album/41vrCbXFyOwLTHls46ugCV"
@@ -325,7 +381,7 @@
       "url": "https://open.spotify.com/track/6FFhcYF1E0tZNE7qiUfBTr"
     },
     {
-      "added_at": "2023-11-17 03:00:00",
+      "added_at": "2023-11-24 03:00:00",
       "album": {
         "name": "Screams (Live)",
         "url": "https://open.spotify.com/album/3p4CRzUioxQfCVOz9ROmsc"
@@ -341,7 +397,7 @@
       "url": "https://open.spotify.com/track/6IL4Ev4bnsUbwLIWrSvJKo"
     },
     {
-      "added_at": "2023-11-17 03:00:00",
+      "added_at": "2023-11-24 03:00:00",
       "album": {
         "name": "Already Over (Fort Minor Mix) [feat. Dom McLennon]",
         "url": "https://open.spotify.com/album/0IRqCSzSbRllF7hI0pT5OJ"
@@ -365,7 +421,7 @@
       "url": "https://open.spotify.com/track/21FONObbqlF5Dfrx2fau0n"
     },
     {
-      "added_at": "2023-11-17 03:00:00",
+      "added_at": "2023-11-24 03:00:00",
       "album": {
         "name": "Real Love (33 Below Remix)",
         "url": "https://open.spotify.com/album/77mVDnHiUlQkGrL612rzCY"
@@ -389,7 +445,7 @@
       "url": "https://open.spotify.com/track/1kmWZGrZwy8yOalxNJ0DUs"
     },
     {
-      "added_at": "2023-11-17 03:00:00",
+      "added_at": "2023-11-24 03:00:00",
       "album": {
         "name": "Look Ma, No Brains!",
         "url": "https://open.spotify.com/album/2alV6LwgUWGExud9ntcugb"
@@ -405,7 +461,7 @@
       "url": "https://open.spotify.com/track/0Xs1aDAUmp3W6If2y5JQMK"
     },
     {
-      "added_at": "2023-11-17 03:00:00",
+      "added_at": "2023-11-24 03:00:00",
       "album": {
         "name": "Live (Josh's Picks 2023)",
         "url": "https://open.spotify.com/album/29C5dKO98K9MikzQl3FgyN"
@@ -421,7 +477,7 @@
       "url": "https://open.spotify.com/track/5xracHGMcwt9ynMyXWCesA"
     },
     {
-      "added_at": "2023-11-17 03:00:00",
+      "added_at": "2023-11-24 03:00:00",
       "album": {
         "name": "Noviembre",
         "url": "https://open.spotify.com/album/0dlauudMf58IRyIAxj5knN"
@@ -437,7 +493,7 @@
       "url": "https://open.spotify.com/track/4tmRbBGXBf7UZTjcRHOMdY"
     },
     {
-      "added_at": "2023-11-17 03:00:00",
+      "added_at": "2023-11-24 03:00:00",
       "album": {
         "name": "Embers Fire",
         "url": "https://open.spotify.com/album/6mOZFO7g6QBtBr5R8fzZZD"
@@ -453,7 +509,7 @@
       "url": "https://open.spotify.com/track/2FCPbojm4fFPWRZ9WWQ89x"
     },
     {
-      "added_at": "2023-11-17 03:00:00",
+      "added_at": "2023-11-24 03:00:00",
       "album": {
         "name": "Another Perfect Day (40th Anniversary)",
         "url": "https://open.spotify.com/album/5AsFm6eJVG3335fYjuC5kM"
@@ -469,7 +525,7 @@
       "url": "https://open.spotify.com/track/2DpKUXgAncWPZ5dn3TEZFI"
     },
     {
-      "added_at": "2023-11-17 03:00:00",
+      "added_at": "2023-11-24 03:00:00",
       "album": {
         "name": "Too Hot in Tokyo 1994 (Live)",
         "url": "https://open.spotify.com/album/2X1oRqhUQ8a907oi3iY6mN"
@@ -485,7 +541,7 @@
       "url": "https://open.spotify.com/track/6OQCpxBDRLZx0FkIBnaia5"
     },
     {
-      "added_at": "2023-11-17 03:00:00",
+      "added_at": "2023-11-24 03:00:00",
       "album": {
         "name": "A Torch In The Dark",
         "url": "https://open.spotify.com/album/6H6kvxbLq2kpLd8QGJfrbx"
@@ -501,7 +557,7 @@
       "url": "https://open.spotify.com/track/4kga9bV33OuMRYwzt7oPul"
     },
     {
-      "added_at": "2023-11-17 03:00:00",
+      "added_at": "2023-11-24 03:00:00",
       "album": {
         "name": "Live 1978 - 1992",
         "url": "https://open.spotify.com/album/14EWYgtvXZSz0pzvpUCsbL"
@@ -517,7 +573,7 @@
       "url": "https://open.spotify.com/track/11SkgKmpzIviXkKuILQTc9"
     },
     {
-      "added_at": "2023-11-17 03:00:00",
+      "added_at": "2023-11-24 03:00:00",
       "album": {
         "name": "Blind",
         "url": "https://open.spotify.com/album/2EwH6yri6GZ6kevbkAp89V"
@@ -537,7 +593,7 @@
       "url": "https://open.spotify.com/track/4oZ5jMaa1EJRu6fzWvqZ83"
     },
     {
-      "added_at": "2023-11-17 03:00:00",
+      "added_at": "2023-11-24 03:00:00",
       "album": {
         "name": "Catch A Fire (50th Anniversary)",
         "url": "https://open.spotify.com/album/5fys4mnxoURHl9ThAEPoKU"
@@ -553,7 +609,7 @@
       "url": "https://open.spotify.com/track/3J9JUxKFWfck2gA1IDn4Bh"
     },
     {
-      "added_at": "2023-11-17 03:00:00",
+      "added_at": "2023-11-24 03:00:00",
       "album": {
         "name": "Endlos",
         "url": "https://open.spotify.com/album/4jW8H7KBRZuRalIQ43bQKy"
@@ -569,7 +625,7 @@
       "url": "https://open.spotify.com/track/7fz3vtDl7DGXa5HLQTGXR1"
     },
     {
-      "added_at": "2023-11-17 03:00:00",
+      "added_at": "2023-11-24 03:00:00",
       "album": {
         "name": "In Utero (30th Anniversary Super Deluxe)",
         "url": "https://open.spotify.com/album/68uIz7DtgDoPUFTKxdzL9t"
@@ -585,7 +641,7 @@
       "url": "https://open.spotify.com/track/1KxYekYpnaLDTMtqOv1xqx"
     },
     {
-      "added_at": "2023-11-17 03:00:00",
+      "added_at": "2023-11-24 03:00:00",
       "album": {
         "name": "ONE MORE TIME...",
         "url": "https://open.spotify.com/album/00txDYFrU4LjWqwKE8iQJA"
@@ -601,7 +657,7 @@
       "url": "https://open.spotify.com/track/3UiGU4b8sbTobJEi6OEi9h"
     },
     {
-      "added_at": "2023-11-17 03:00:00",
+      "added_at": "2023-11-24 03:00:00",
       "album": {
         "name": "Drama",
         "url": "https://open.spotify.com/album/3ODXBYShxAlpNTKoiWY3Qb"
@@ -617,7 +673,7 @@
       "url": "https://open.spotify.com/track/0cGG17lAn1vhWje5CbVbQ0"
     },
     {
-      "added_at": "2023-11-17 03:00:00",
+      "added_at": "2023-11-24 03:00:00",
       "album": {
         "name": "New Gold Dream - Live From Paisley Abbey",
         "url": "https://open.spotify.com/album/3cJ50VlN3fp5pwTKPPH4xz"
@@ -633,7 +689,7 @@
       "url": "https://open.spotify.com/track/3ZV1YERoqObJ9kqS2AbLOh"
     },
     {
-      "added_at": "2023-11-17 03:00:00",
+      "added_at": "2023-11-24 03:00:00",
       "album": {
         "name": "Diamonds and Pearls (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/2CnYN07kMv2DMP3cDjEjHK"
@@ -649,7 +705,7 @@
       "url": "https://open.spotify.com/track/1FgB9Iqyvi59tC0GNtQxGQ"
     },
     {
-      "added_at": "2023-11-17 03:00:00",
+      "added_at": "2023-11-24 03:00:00",
       "album": {
         "name": "Heart Like A Wheel",
         "url": "https://open.spotify.com/album/4AiplURqVDpdAg8sWQiXNY"
@@ -665,7 +721,7 @@
       "url": "https://open.spotify.com/track/3AY5AeJjkD04OrUlbtfqX8"
     },
     {
-      "added_at": "2023-11-17 03:00:00",
+      "added_at": "2023-11-24 03:00:00",
       "album": {
         "name": "152",
         "url": "https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N"

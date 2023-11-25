@@ -4,7 +4,7 @@
 
 > Rimas cremosas, tan necesarias como tu café\. Blnko y Lng/Sht \(Ex Austin TV\) en portada.
 
-130 songs - 7 hr 19 min
+131 songs - 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Click Clack](https://open.spotify.com/track/5FLGaCNTTNlIuXYq0oPapX) | [Trafikante de Almas](https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP), [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [Lobo Estepario](https://open.spotify.com/artist/3mqPl8mavq0P24IIbbgYnI), [T\-Killa](https://open.spotify.com/artist/52QQ2BADyRwXsS8uqLu2Hl) | [Click Clack](https://open.spotify.com/album/2US4sEHYWI6pVOLAEwR4aD) | 2:51 | 2023-05-26 | 2023-10-21 |
 | [Coastin' \(with Alemán\)](https://open.spotify.com/track/3UCyLYeUJUrt7aE1yzqjqf) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Coastin' \(with Alemán\)](https://open.spotify.com/album/1Vxwqwvz1yO72jFTQ7O5aH) | 4:04 | 2023-09-01 |  |
 | [Colibrí](https://open.spotify.com/track/3SB4BggLTilRbeqErh059h) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Colibrí](https://open.spotify.com/album/65f71lgoP71F7dN6ubyg9P) | 2:30 | 2023-07-21 |  |
-| [Comida Callejera](https://open.spotify.com/track/4PdYMUePyVIgkvVIMz473E) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [Trafikante de Almas](https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP), [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ) | [Umami](https://open.spotify.com/album/3pKymIkWWCw0qkkleJKg5m) | 3:34 | 2023-05-26 |  |
+| [Comida Callejera](https://open.spotify.com/track/4PdYMUePyVIgkvVIMz473E) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [Trafikante de Almas](https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP), [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ) | [Umami](https://open.spotify.com/album/3pKymIkWWCw0qkkleJKg5m) | 3:34 | 2023-05-26 | 2023-11-25 |
 | [Como lo Marca el Manual + Jueves](https://open.spotify.com/track/0yxRNwt4PRJNQJufpft5uX) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Como lo Marca el Manual + Jueves](https://open.spotify.com/album/1vigznZtdoYBc58Qk8ZfGK) | 3:35 | 2023-06-16 |  |
 | [Contigo](https://open.spotify.com/track/1pW8N9hv4VWNj3CNy0UppI) | [AMBKOR](https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz) | [Contigo](https://open.spotify.com/album/7o1BRvcAX80d9sOrJaUAv1) | 3:05 | 2023-10-06 |  |
 | [Cuando la Vi](https://open.spotify.com/track/6bb45aSuTy717dyrjsBXCO) | [Danntik](https://open.spotify.com/artist/1NnUgWVGkPQLsdXue00beJ) | [Cuando la Vi](https://open.spotify.com/album/0GlNVq3q9d3a6DBEoxMOcJ) | 3:43 | 2023-05-26 |  |
@@ -134,6 +134,7 @@
 | [Tulum](https://open.spotify.com/track/52UjHXbZKXIryXqaoYKHpQ) | [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1), [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [Dealers In Caracas](https://open.spotify.com/album/02BgfGEyFT13RLaZcgjgEu) | 3:50 | 2023-05-26 | 2023-10-28 |
 | [Tóxico](https://open.spotify.com/track/6I8eZgiw5o84fI3eA0vqVG) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Tóxico](https://open.spotify.com/album/6SDbcVYvCEx7tBMzpMJLyf) | 2:25 | 2023-11-17 |  |
 | [Tú Tienes el Son](https://open.spotify.com/track/5UBSfqsnxc2GW86eHEsuA2) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Tú Tienes el Son](https://open.spotify.com/album/0YVNvh5zedGZ2cOmC6tD3E) | 3:01 | 2023-10-06 |  |
+| [Vaivén](https://open.spotify.com/track/68RnQABNIGlpZOnWCHTXlP) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Vaivén](https://open.spotify.com/album/4AxOgNmDycOaIv95OiJHMt) | 3:00 | 2023-11-24 |  |
 | [Vegetales Con Pescado](https://open.spotify.com/track/5hXIWWxST35rAT5pUCLAer) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd) | [Vegetales Con Pescado](https://open.spotify.com/album/23XssGbWNkixBvuJL48mA3) | 3:02 | 2023-05-26 |  |
 | [Villana](https://open.spotify.com/track/12IUz1c094GzxDR89vfbO4) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Villana](https://open.spotify.com/album/4SXO8RzIDtT6K5FM83U12u) | 3:18 | 2023-05-26 | 2023-09-09 |
 | [Vámonos](https://open.spotify.com/track/008S9w7s1NF1O3GmtUR6PX) | [Liana Malva](https://open.spotify.com/artist/56plP53XqguNv08lDJUeTt), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Vámonos](https://open.spotify.com/album/0lIZplY0HUvE3jbBu8ZOQj) | 2:40 | 2023-10-13 |  |

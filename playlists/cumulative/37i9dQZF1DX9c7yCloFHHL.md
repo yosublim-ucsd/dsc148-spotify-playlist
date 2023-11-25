@@ -4,7 +4,7 @@
 
 > The cutting edge in new and contemporary Ambient, Atmospheric and Neo\-Classical\. Alaskan Tapes on cover.
 
-1,086 songs - 3 day 14 hr 17 min
+1,087 songs - 3 day 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [Defining Moment](https://open.spotify.com/track/2rr2TctqiPWVf85aeN4CRc) | [Xeuphoria](https://open.spotify.com/artist/6Sbjh6vCJQE5eQTQvYoksJ) | [Defining Moment](https://open.spotify.com/album/6PnK12WOF2bCavWZ8X5K5w) | 3:02 | 2022-12-31 | 2023-01-07 |
 | [Delayed](https://open.spotify.com/track/2sxKhUF19gjuOg9OQY4Nwl) | [Alister Fawnwoda](https://open.spotify.com/artist/16Vq22oDSB5NDYczsnJ89o), [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr), [Greg Leisz](https://open.spotify.com/artist/5OslOE4iegsG2uqyOZJ2OU) | [Delayed](https://open.spotify.com/album/3FyO8rc2LANohFAtV2iDF5) | 4:44 | 2021-12-24 | 2022-03-04 |
 | [Delevan](https://open.spotify.com/track/5BLybnjUyBrTDCbgSRQJs0) | [Chris Bartels](https://open.spotify.com/artist/4RVdMNwTuWJAPTYpzBri7K), [Elijah Bisbee](https://open.spotify.com/artist/2C06lmmEcAw2OsGFUCOfPH), [Blurstem](https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn) | [Delevan](https://open.spotify.com/album/0YZnYLT02sLrrwozl26P1d) | 2:54 | 2022-07-01 | 2023-03-04 |
+| [departure](https://open.spotify.com/track/3h3uBXxBqwc2fEb3K77IZh) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy) | [Lifeglow](https://open.spotify.com/album/0Vi8OowBlaTJrzk7gTLJ3d) | 2:22 | 2023-11-24 |  |
 | [Dependent](https://open.spotify.com/track/6Rps2y2XjwvC2SVlpxvMna) | [Christopher Galovan](https://open.spotify.com/artist/5LUMGK9eTmZdJJwmDph01c) | [Dependent](https://open.spotify.com/album/5JbxW4BC3aNcqI5waUS1ny) | 3:12 | 2022-11-12 | 2023-09-22 |
 | [Der Lange Marsch 7](https://open.spotify.com/track/0G5XaZuNtWp5WAT59JZ4Cf) | [GAS](https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX) | [Der Lange Marsch](https://open.spotify.com/album/0ZjxidVJXnDaOh4w2HMQKa) | 3:12 | 2021-12-24 | 2022-02-25 |
 | [Desire Path](https://open.spotify.com/track/3yZ3SScbUH78WBJnq11kte) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [A Host for All Kinds of Life](https://open.spotify.com/album/08pPPgrNVzEa12ksYN3Drl) | 4:03 | 2023-10-13 |  |
@@ -395,7 +396,7 @@
 | [Golden Galactic](https://open.spotify.com/track/1rYytjDuRhWSYLEvGVeX9m) | [Pantha Du Prince](https://open.spotify.com/artist/7Go2Fj2YWEQkYBqTVQArYi) | [Golden Galactic](https://open.spotify.com/album/0NY36hD9nqw0e2wlJdkiz9) | 4:28 | 2022-07-08 | 2022-09-03 |
 | [Golden Galactic](https://open.spotify.com/track/5UV4bOGPyQyF5hnWuel6Zv) | [Pantha Du Prince](https://open.spotify.com/artist/7Go2Fj2YWEQkYBqTVQArYi) | [Garden Gaia](https://open.spotify.com/album/1DgRx1LvQ06RX992m1yn5m) | 4:28 | 2022-09-02 | 2023-01-01 |
 | [Golden Hour](https://open.spotify.com/track/5lfY5qGSiGqpaVbkW3OCn9) | [Braulio Lam](https://open.spotify.com/artist/2De39lNgozCwzBWQTUPlPS), [Simonel](https://open.spotify.com/artist/4x0ePWZjRP0nwFRuU174vR) | [Endlessness](https://open.spotify.com/album/0pHwRR0CdmJTwTU96ZCrIE) | 3:19 | 2022-02-12 | 2022-03-03 |
-| [Golden Waxcap](https://open.spotify.com/track/0NP6SNyOxJnvjNIvMVNDPt) | [Preslav Literary School](https://open.spotify.com/artist/2i5ykOuXu6SytWoJw7MFJY) | [Mycelium](https://open.spotify.com/album/2YncKGBm21QkOrfWnterb9) | 1:14 | 2023-03-24 |  |
+| [Golden Waxcap](https://open.spotify.com/track/0NP6SNyOxJnvjNIvMVNDPt) | [Preslav Literary School](https://open.spotify.com/artist/2i5ykOuXu6SytWoJw7MFJY) | [Mycelium](https://open.spotify.com/album/2YncKGBm21QkOrfWnterb9) | 1:14 | 2023-03-24 | 2023-11-25 |
 | [Gradual of Image](https://open.spotify.com/track/23nCdon9t8jCCBFKqZDpXf) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Antiphonals](https://open.spotify.com/album/0Nha8uIw64SpmOukz4zLYh) | 3:08 | 2021-12-24 | 2023-02-02 |
 | [Gradual of Image](https://open.spotify.com/track/5m2Tets6QqS5IMuL0v8pf4) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Antiphonals](https://open.spotify.com/album/3dztEmmGXTTLtKkfdepLka) | 3:08 | 2023-01-27 | 2023-03-04 |
 | [Gratitude \(Cello Meditation\)](https://open.spotify.com/track/6seEw5lcLH6PWdQpuuDRMu) | [The Wong Janice](https://open.spotify.com/artist/1q1P9ifOMhgIYCsj9KXxdX) | [Ambient Cabin Sessions](https://open.spotify.com/album/6SvVbc2gGHiC9a4XmkojAZ) | 9:41 | 2023-01-20 | 2023-03-04 |

@@ -1,12 +1,12 @@
 {
   "description": "Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!",
-  "num_followers": 126767,
+  "num_followers": 126786,
   "original_name": "The Hawaiian Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMGQ0YmYzMGQxNmY1MzlmMzM4ZGQ2ZTFlOGE5OWU0ZmVlZGUzYzU0",
+  "snapshot_id": "MCw5NWFkY2U0MjNlNTgzNTIyMGVhYmVjZmNhZmZkMTJhNWYxODdhNTIz",
   "tracks": [
     {
       "added_at": "2022-01-11 02:53:42",
@@ -435,22 +435,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Ultra-Lounge / Bachelor Pad Royale Volume Four",
-        "url": "https://open.spotify.com/album/2AAQHjT8SmbNdKsYIO9dfI"
-      },
-      "artists": [
-        {
-          "name": "King Curtis",
-          "url": "https://open.spotify.com/artist/0WxOgeRxUt0MwPrI7A5atQ"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Melancholy Serenade - Remastered",
-      "url": "https://open.spotify.com/track/32BuDphsq9t2o2j0L4SRrP"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "The Home Recordings Vol. 1",
         "url": "https://open.spotify.com/album/4YvK4WVcx4sTClhZRvmST4"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 211493,
       "name": "Song Of Old Hawaii",
       "url": "https://open.spotify.com/track/5tToPiK5y6qwqTSZNUIds7"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Ultra-Lounge / Bachelor Pad Royale Volume Four",
+        "url": "https://open.spotify.com/album/2AAQHjT8SmbNdKsYIO9dfI"
+      },
+      "artists": [
+        {
+          "name": "King Curtis",
+          "url": "https://open.spotify.com/artist/0WxOgeRxUt0MwPrI7A5atQ"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Melancholy Serenade - Remastered",
+      "url": "https://open.spotify.com/track/32BuDphsq9t2o2j0L4SRrP"
     },
     {
       "added_at": "2021-01-20 03:50:53",

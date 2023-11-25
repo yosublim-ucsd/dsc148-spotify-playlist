@@ -4,7 +4,7 @@
 
 > Música ambiental para noches tranquilas.
 
-327 songs - 16 hr 14 min
+328 songs - 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Haumea](https://open.spotify.com/track/2LXzGeoY2Cm8SFIaq5v0sJ) | [Sonic Slivers](https://open.spotify.com/artist/4DdKHvFkz6FdVks9TAdttM) | [Haumea](https://open.spotify.com/album/120dlLUe1LZ1j1X1n0Z9kH) | 3:02 | 2023-04-06 | 2023-09-01 |
 | [Heaven's Shore](https://open.spotify.com/track/1pAmp7cLogyrAnOyxrTdYY) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Mindful Sleep](https://open.spotify.com/album/2kFyWqR5s7lvq8uNYGx6mj) | 3:32 | 2023-04-06 |  |
 | [Heinamaa](https://open.spotify.com/track/7lpaVjDPjT72Afi7LqXBIx) | [Eyla Calmes](https://open.spotify.com/artist/3CAe04TEaKSxEMemLZqw3X) | [Heinamaa](https://open.spotify.com/album/3tTOPXQxFjqPabpMgjl86q) | 2:32 | 2023-04-06 | 2023-07-14 |
+| [Hemisphere](https://open.spotify.com/track/6CnvPkfLDrexDOZQFMTsi8) | [Solis Occasum](https://open.spotify.com/artist/6bKBTQOaODtyaHOJCnXMSd) | [Hemisphere](https://open.spotify.com/album/0vtUpnunHb8ccIlHSqoYnN) | 3:02 | 2023-11-24 |  |
 | [Herinneringen](https://open.spotify.com/track/0CMYUXTTTmI6Lwc0opH2XG) | [Sohn Aelia](https://open.spotify.com/artist/58PoZ2UB30eX8jppZ6B87i) | [Herinneringen](https://open.spotify.com/album/23T1MB2c8969U4LJFrvo3B) | 2:52 | 2023-04-06 |  |
 | [Hidden Principles](https://open.spotify.com/track/3DHSM5fxFWtCCS57USzgPU) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Sense of Unity](https://open.spotify.com/album/4N9bbWQC5sE5d3QeIdYLaT) | 3:11 | 2023-04-06 |  |
 | [Holding Hands](https://open.spotify.com/track/6n0dkxJ2LkKmoViiGm6lAR) | [Bruno Joel](https://open.spotify.com/artist/3YojgmGKYcr1V6480v3qwy) | [Holding Hands](https://open.spotify.com/album/60yiaR6a8WLSMuUE3KUsjC) | 2:45 | 2023-04-06 | 2023-07-14 |
@@ -275,7 +276,7 @@
 | [Spiritual Alignment](https://open.spotify.com/track/2i171UfyH6nG0qqrIdwoCO) | [Sunwell](https://open.spotify.com/artist/1FZkHf5jmlpSdySTd8BUu2) | [Spiritual Alignment](https://open.spotify.com/album/6APh84KBRc7seMrOxssFi4) | 3:42 | 2023-04-06 |  |
 | [State of Calm](https://open.spotify.com/track/5SSNWUsRXDXVJ0zJdBy9IG) | [Spheres](https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02) | [State of Calm](https://open.spotify.com/album/2muuw1e98HKFEc1jLDhJdX) | 3:02 | 2023-04-06 |  |
 | [Stay A While](https://open.spotify.com/track/5MxNNBnvKIZ1D2IkwB753i) | [Elliott Duncan](https://open.spotify.com/artist/2QoOKA3eotuERltYH8cThZ) | [Stay A While](https://open.spotify.com/album/0LtvCsNWrKLG8n7i3AhXqT) | 2:57 | 2023-04-06 |  |
-| [Steady](https://open.spotify.com/track/089DXbcfLgJEJyuOyQWEdN) | [Alina Linnéa](https://open.spotify.com/artist/2eWNqV0E7nkCq8MndbcmAU) | [Look Ahead](https://open.spotify.com/album/650nklWLMUwYLTG9AVsH34) | 2:52 | 2023-04-06 |  |
+| [Steady](https://open.spotify.com/track/089DXbcfLgJEJyuOyQWEdN) | [Alina Linnéa](https://open.spotify.com/artist/2eWNqV0E7nkCq8MndbcmAU) | [Look Ahead](https://open.spotify.com/album/650nklWLMUwYLTG9AVsH34) | 2:52 | 2023-04-06 | 2023-11-25 |
 | [Stelliferous](https://open.spotify.com/track/2mXs5X2hDss3gdOAwaWgl7) | [Szigeti Aliz](https://open.spotify.com/artist/5MYqSmIAMjoiBp8suHqGaA) | [Stelliferous](https://open.spotify.com/album/1gQFGbrdBfYpcg2MMsZbnE) | 3:27 | 2023-04-06 |  |
 | [Stepping Into A Dream](https://open.spotify.com/track/0bsBttoH3LrYa60QZB201X) | [Soliaga](https://open.spotify.com/artist/7LIerH0gT1AvTtmxx7xQp8) | [Stepping Into A Dream](https://open.spotify.com/album/4ocaDhqsCxZJcAxA5zWfFO) | 2:28 | 2023-04-06 |  |
 | [Storytelling](https://open.spotify.com/track/2vVbuQJCiq6MfvmcQil2oW) | [Paul Dennehy](https://open.spotify.com/artist/5borNkYeud0HRvJWIdG3aM) | [Storytelling](https://open.spotify.com/album/5yB8ypsLT0ttxv0wSLM5IM) | 4:44 | 2023-04-06 | 2023-09-01 |

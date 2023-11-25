@@ -531,6 +531,36 @@
     },
     {
       "album": {
+        "name": "Backa",
+        "url": "https://open.spotify.com/album/53urZs32khtmN8wdlaakSd"
+      },
+      "artists": [
+        {
+          "name": "DJ Mic Smith",
+          "url": "https://open.spotify.com/artist/55vSMtCiV6fMgUMh9TEl6i"
+        },
+        {
+          "name": "Supa Gaeta",
+          "url": "https://open.spotify.com/artist/7icmABGIHlSbuTXU206Obz"
+        },
+        {
+          "name": "Haywaya",
+          "url": "https://open.spotify.com/artist/3Tp0IaBE3AwuwhxVVLE49b"
+        },
+        {
+          "name": "Hope Ramafalo",
+          "url": "https://open.spotify.com/artist/4yvEcXzA7owk4FbWCmDvE6"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293265,
+      "name": "Backa",
+      "url": "https://open.spotify.com/track/6pkhDkCjYyVOZBUvXq6twL"
+    },
+    {
+      "album": {
         "name": "Bad Boy",
         "url": "https://open.spotify.com/album/1292tIVpPTJimKAqIOQZlP"
       },
@@ -2126,6 +2156,28 @@
       "duration_ms": 230400,
       "name": "Fine Wine (feat. King Promise & Joeboy)",
       "url": "https://open.spotify.com/track/3E3WIVDBt4rX4N2kRrwSah"
+    },
+    {
+      "album": {
+        "name": "Fiona (feat. Lasmid) [Remix]",
+        "url": "https://open.spotify.com/album/3RkNNWfviQ9hnFO2Sn7jXo"
+      },
+      "artists": [
+        {
+          "name": "Fazil",
+          "url": "https://open.spotify.com/artist/1nKZZibM5fYq7UtMKOZIWq"
+        },
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200689,
+      "name": "Fiona (feat. Lasmid) - Remix",
+      "url": "https://open.spotify.com/track/6lcbqARFc6XYGYkHfRUrwo"
     },
     {
       "album": {
@@ -4112,7 +4164,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 172000,
       "name": "Masesa",
       "url": "https://open.spotify.com/track/0h6KxX4VJVRUL2lQhCmMFE"
@@ -6204,7 +6256,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 177373,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/06NG4AQXXeWnnODyUCC6ZU"
@@ -6684,7 +6736,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 166426,
       "name": "Take Away",
       "url": "https://open.spotify.com/track/3TbPmLDrVHWDaNboZjSHuK"
@@ -7722,6 +7774,28 @@
       "duration_ms": 175504,
       "name": "you",
       "url": "https://open.spotify.com/track/5Wdl4yFoXOX1xmA53udLyZ"
+    },
+    {
+      "album": {
+        "name": "Ka Na Wu",
+        "url": "https://open.spotify.com/album/4WjFmcus19qITkG4kvNWj4"
+      },
+      "artists": [
+        {
+          "name": "Pappy Kojo",
+          "url": "https://open.spotify.com/artist/05wqlCGQReohsxStVBR052"
+        },
+        {
+          "name": "Skonti",
+          "url": "https://open.spotify.com/artist/1cNkGlkbYoFw0BJJJ9UMNl"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224200,
+      "name": "You Bad",
+      "url": "https://open.spotify.com/track/5DF5DbMr266CwVjCcxbsgn"
     },
     {
       "album": {

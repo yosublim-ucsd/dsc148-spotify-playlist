@@ -4,7 +4,7 @@
 
 > Classic and new soul music for the perfect dinner.
 
-360 songs - 23 hr 19 min
+361 songs - 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [If Only You Knew](https://open.spotify.com/track/60kYnvU89eL92jJ3eQcPXq) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [I'm In Love Again](https://open.spotify.com/album/2PcZjItgjHSkKFIiW44hHy) | 4:45 | 2023-01-09 | 2023-06-28 |
 | [If You Don't Know Me by Now \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/3NElqDNNnzvWYOwsbxLQKN) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Harold Melvin & The Blue Notes \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef) | 3:25 | 2023-01-09 |  |
 | [If You Got A Heart \- Single Version](https://open.spotify.com/track/1Rns2Yiuu0yiLDeCOqClJH) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [That's It! / Duke Recordings Vol\. III](https://open.spotify.com/album/6UDjveu23U4KAxKU5RlnsB) | 2:41 | 2023-01-09 | 2023-06-28 |
+| [In the Middle of the Game \(Don't Change the Play\)](https://open.spotify.com/track/5SvUY0Jz5ptqO3lYk9Yky2) | [Betty Wright](https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz), [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Betty Wright: The Movie](https://open.spotify.com/album/1dH9d5rYKYTKlfMk734TVR) | 3:54 | 2023-08-15 |  |
 | [In Time](https://open.spotify.com/track/21SHzZ1qsXzJ5Socuuyo8w) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Fresh](https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD) | 5:47 | 2023-06-27 |  |
 | [Inside My Love \- Remastered 1993](https://open.spotify.com/track/1HdNTlZrGTlgxDn31GB6Sv) | [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj) | [Capitol Gold: The Best Of Minnie Riperton](https://open.spotify.com/album/1Zc6fY5TjkirFsQIeX7KFL) | 3:58 | 2023-06-27 |  |
 | [Inspiration Information](https://open.spotify.com/track/3q8AgabNzK1mPJdI8egIcn) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Inspiration Information/ Wings Of Love](https://open.spotify.com/album/0JittRuqxUKruy1LlfxY4S) | 4:12 | 2023-06-27 |  |
@@ -278,7 +279,7 @@
 | [Some Type of Love](https://open.spotify.com/track/2nI6aT3cnPFoXQ1L705wcY) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Some Type of Love](https://open.spotify.com/album/5t4A7Loq1pKRFlkBOs1O2O) | 3:05 | 2023-01-09 | 2023-06-28 |
 | [Something](https://open.spotify.com/track/2U52Hp8zYnG2kvt2de0M2L) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1), [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [Family Dinner \- Vol\. 1](https://open.spotify.com/album/7uveEcuLgfEecFLxABRKnO) | 7:35 | 2023-06-27 |  |
 | [Something He Can Feel](https://open.spotify.com/track/4IOtu2nO8Us3kPtEZmUr0k) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Sparkle](https://open.spotify.com/album/0SKeM61sUnpAIRUPH4Tzk3) | 6:21 | 2023-01-09 | 2023-06-28 |
-| [Space of You](https://open.spotify.com/track/3gkYWg3IFAWmRrXVr0kMh0) | [Ntjam Rosie](https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R) | [Elle](https://open.spotify.com/album/2J3eJIHwv0u4SkFO81F3Gf) | 3:50 | 2023-06-27 |  |
+| [Space of You](https://open.spotify.com/track/3gkYWg3IFAWmRrXVr0kMh0) | [Ntjam Rosie](https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R) | [Elle](https://open.spotify.com/album/2J3eJIHwv0u4SkFO81F3Gf) | 3:50 | 2023-06-27 | 2023-11-25 |
 | [Spanish Harlem](https://open.spotify.com/track/0sQ594D1EuU66VDdtHBE6j) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [The Very Best of Aretha Franklin \- The 70's](https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn) | 3:33 | 2023-01-09 |  |
 | [Spirit in the Dark](https://open.spotify.com/track/1wGvueGYFPUmQUtVglgcPt) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Spirit in the Dark](https://open.spotify.com/album/1s3FSienS5KcpWckmq4NHO) | 4:03 | 2023-06-27 |  |
 | [Spooky \(Single Version\)](https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Love Songs](https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA) | 2:44 | 2023-06-27 |  |

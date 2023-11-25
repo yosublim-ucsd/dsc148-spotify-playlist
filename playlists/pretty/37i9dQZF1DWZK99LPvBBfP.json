@@ -1,12 +1,12 @@
 {
   "description": "Club classics from the homeland of dance music.",
-  "num_followers": 237269,
+  "num_followers": 237398,
   "original_name": "Ibiza Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzI3Njg0Y2NmZTMwODVjYTkyMzBiNzc1NDUwMmM4NWQ0OTBjMWI5",
+  "snapshot_id": "MCw3YWQ2ODNlMTQwMTc4ZTdkMzQ2ZDEwNzFkZTllZWNlOTM5ZTc2MTcz",
   "tracks": [
     {
       "added_at": "2023-08-11 15:42:20",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-08-11 15:42:20",
       "album": {
+        "name": "Strictly Hardrive",
+        "url": "https://open.spotify.com/album/58gDcsComtrCGQGzSuD031"
+      },
+      "artists": [
+        {
+          "name": "Hardrive",
+          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
+        }
+      ],
+      "duration_ms": 392293,
+      "name": "Deep Inside",
+      "url": "https://open.spotify.com/track/1i6KuPV0SnkciFR5yJEbty"
+    },
+    {
+      "added_at": "2023-08-11 15:42:20",
+      "album": {
         "name": "Music Is the Answer (Part 2)",
         "url": "https://open.spotify.com/album/06DQnIInJxEezrxyFBHERC"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 849960,
       "name": "Music Is the Answer - Original Extended 12-Inch Mix",
       "url": "https://open.spotify.com/track/4n8YdXETqQ3NvWs5XNpvar"
-    },
-    {
-      "added_at": "2023-08-11 15:42:20",
-      "album": {
-        "name": "Strictly Hardrive",
-        "url": "https://open.spotify.com/album/58gDcsComtrCGQGzSuD031"
-      },
-      "artists": [
-        {
-          "name": "Hardrive",
-          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
-        }
-      ],
-      "duration_ms": 392293,
-      "name": "Deep Inside",
-      "url": "https://open.spotify.com/track/1i6KuPV0SnkciFR5yJEbty"
     },
     {
       "added_at": "2023-08-11 15:42:20",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2023-08-11 15:42:20",
       "album": {
-        "name": "Housemusic.De",
-        "url": "https://open.spotify.com/album/1Y1ejuQvNlSQXKA7Ef5qzW"
-      },
-      "artists": [
-        {
-          "name": "Milk & Sugar",
-          "url": "https://open.spotify.com/artist/159cwGtgCzNpyHWY6tzihH"
-        },
-        {
-          "name": "Lizzy Pattinson",
-          "url": "https://open.spotify.com/artist/1rxn6ryjjQGlWB6onfUZyG"
-        }
-      ],
-      "duration_ms": 213813,
-      "name": "Let the Sun Shine - Terrace Vocal Radio Edit",
-      "url": "https://open.spotify.com/track/18wQx3mWVM5qBVckrLZjj3"
-    },
-    {
-      "added_at": "2023-08-11 15:42:20",
-      "album": {
         "name": "Don't You Want Me",
         "url": "https://open.spotify.com/album/5EsmJemSNDssD0hy9bJA3N"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 187053,
       "name": "Don't You Want Me - Hooj Mix Edit",
       "url": "https://open.spotify.com/track/5yccftMOR4DWGxpVyuqaKs"
+    },
+    {
+      "added_at": "2023-08-11 15:42:20",
+      "album": {
+        "name": "Housemusic.De",
+        "url": "https://open.spotify.com/album/1Y1ejuQvNlSQXKA7Ef5qzW"
+      },
+      "artists": [
+        {
+          "name": "Milk & Sugar",
+          "url": "https://open.spotify.com/artist/159cwGtgCzNpyHWY6tzihH"
+        },
+        {
+          "name": "Lizzy Pattinson",
+          "url": "https://open.spotify.com/artist/1rxn6ryjjQGlWB6onfUZyG"
+        }
+      ],
+      "duration_ms": 213813,
+      "name": "Let the Sun Shine - Terrace Vocal Radio Edit",
+      "url": "https://open.spotify.com/track/18wQx3mWVM5qBVckrLZjj3"
     },
     {
       "added_at": "2023-08-11 15:42:20",

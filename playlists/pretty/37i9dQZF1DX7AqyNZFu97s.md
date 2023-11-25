@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Essence Martins
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,418 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,432 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 99 | [Lost You](https://open.spotify.com/track/0TSUzYE5lJ7ss7PcF8r6Cx) | [Ella Sands](https://open.spotify.com/artist/3PQ8pmeEU17bYhdWnUs6eg) | [Lost You](https://open.spotify.com/album/2k1o1hjASLUp796zFUgyEL) | 3:07 |
 | 100 | [M.D.M.A.](https://open.spotify.com/track/2Nbmo4Z0zXxVNAfXt6mppq) | [Lua.](https://open.spotify.com/artist/6mmawxELp9o7kFYDPL5NeK) | [M.D.M.A.](https://open.spotify.com/album/3Uc2rXNrJcWLkyabGvII7a) | 3:06 |
 
-Snapshot ID: `MCxmODU4YjAwNWZjMWNhYzc1NjcxNjZhOTdlYmYwMTcwODMyN2I0ZTM1`
+Snapshot ID: `MCxjZTIwNzVlOTliYzlkYTA0NjM4NTMzZTA5OGM2NzRlNjk0MTdmNzQ3`

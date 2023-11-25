@@ -1917,6 +1917,40 @@
     },
     {
       "album": {
+        "name": "KABUKI (03)",
+        "url": "https://open.spotify.com/album/7BPgUyl7IEegN18835IE2R"
+      },
+      "artists": [
+        {
+          "name": "\u771f\u65b0\u5bbfGR\u5b66\u5712",
+          "url": "https://open.spotify.com/artist/05W3IYfntUTen1kfrsHY0N"
+        },
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "RYUJA",
+          "url": "https://open.spotify.com/artist/5V5D4yH8tPAapxW0CH7l3e"
+        },
+        {
+          "name": "Tokyo Gal",
+          "url": "https://open.spotify.com/artist/4Og0GstkKZkmI5BkkntBwX"
+        },
+        {
+          "name": "\u5927\u795e \u7e8f (CV: \u5409\u7530\u51dc\u97f3)",
+          "url": "https://open.spotify.com/artist/0KVD9C9bWghG5tKjDMZxrM"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "KABUKI - 03",
+      "url": "https://open.spotify.com/track/5xxkortLPvzM54Cr51yWCj"
+    },
+    {
+      "album": {
         "name": "DENONBU (HARAJUKU Kawaii Halloween REMIX)",
         "url": "https://open.spotify.com/album/5e5pkM1cSsDKE5PCaDDvXc"
       },

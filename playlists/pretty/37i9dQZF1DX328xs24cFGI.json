@@ -1,12 +1,12 @@
 {
   "description": "\u604b\u3057\u3066\u308b\u3042\u306a\u305f\u306b\u5bc4\u308a\u6dfb\u3046\u3001\u7d20\u6575\u306a\u30e9\u30d6\u30bd\u30f3\u30b0\u3092\u96c6\u3081\u307e\u3057\u305f\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 150650,
+  "num_followers": 150742,
   "original_name": "\u604b\u3059\u308b\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTZlZjliNTg4YmYyZWU4YjFiOWQyZDdjZGUxZWYxNzZiZmIxNGNl",
+  "snapshot_id": "MCxhMTljZTIzOWY4NTg1MjI0NmQ2YzNjNmVjZGRmZDM3MGVjNDdjMTY4",
   "tracks": [
     {
       "added_at": "2023-11-23 15:00:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-11-23 15:00:00",
       "album": {
+        "name": "Sugar Honey",
+        "url": "https://open.spotify.com/album/1sjIR9eofpdxuRYwNCgUYV"
+      },
+      "artists": [
+        {
+          "name": "WOLF HOWL HARMONY from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn"
+        }
+      ],
+      "duration_ms": 205733,
+      "name": "Sugar Honey",
+      "url": "https://open.spotify.com/track/7iB96cXDuwxr5mhPfg9J0U"
+    },
+    {
+      "added_at": "2023-11-23 15:00:00",
+      "album": {
         "name": "\u5927\u962aLOVER",
         "url": "https://open.spotify.com/album/0uH4fu7TXAnnrx4aRhSBln"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 315500,
       "name": "TSUNAMI",
       "url": "https://open.spotify.com/track/2iXZA6Ecf9AZHw92tZBNLv"
-    },
-    {
-      "added_at": "2023-11-23 15:00:00",
-      "album": {
-        "name": "Sugar Honey",
-        "url": "https://open.spotify.com/album/1sjIR9eofpdxuRYwNCgUYV"
-      },
-      "artists": [
-        {
-          "name": "WOLF HOWL HARMONY from EXILE TRIBE",
-          "url": "https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn"
-        }
-      ],
-      "duration_ms": 205733,
-      "name": "Sugar Honey",
-      "url": "https://open.spotify.com/track/7iB96cXDuwxr5mhPfg9J0U"
     },
     {
       "added_at": "2023-11-23 15:00:00",

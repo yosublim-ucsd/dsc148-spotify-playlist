@@ -1,12 +1,12 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 67991,
+  "num_followers": 68049,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGUzZDkyNmQ3ZGU4OTExNjA4NzEzYzEzZGMwYThiOWY5ZTlhMDA1",
+  "snapshot_id": "MCwxNjJkMjZiYTAyYTlkODI3MjM5MmY1OGMwYzQ3OGJmZWZiZTI0ZWVk",
   "tracks": [
     {
       "added_at": "2022-08-05 05:00:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
+        "name": "Pasito Chacalon",
+        "url": "https://open.spotify.com/album/53R6GRQ1RYE0H4dn1xwdBW"
+      },
+      "artists": [
+        {
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Pasito Chacalon",
+      "url": "https://open.spotify.com/track/66OXBVfGaka7L38l50OMOW"
+    },
+    {
+      "added_at": "2022-08-05 05:00:00",
+      "album": {
         "name": "vaMos",
         "url": "https://open.spotify.com/album/4nrtKr0c1QbQDyr8llymgr"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 171432,
       "name": "vaMos",
       "url": "https://open.spotify.com/track/4bgV7f02Yt2wIdKRVwVYSn"
-    },
-    {
-      "added_at": "2022-08-05 05:00:00",
-      "album": {
-        "name": "Pasito Chacalon",
-        "url": "https://open.spotify.com/album/53R6GRQ1RYE0H4dn1xwdBW"
-      },
-      "artists": [
-        {
-          "name": "Cachirula",
-          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Pasito Chacalon",
-      "url": "https://open.spotify.com/track/66OXBVfGaka7L38l50OMOW"
     },
     {
       "added_at": "2022-08-05 05:00:00",
@@ -759,18 +759,42 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
-        "name": "Playlist",
-        "url": "https://open.spotify.com/album/05t3S7RiXvwsuYK4jj8Pf1"
+        "name": "Much\u00edsimo Tribal",
+        "url": "https://open.spotify.com/album/5QN3rjn0ivCi8PtLv63vlp"
       },
       "artists": [
         {
-          "name": "Sheeqo Beat",
-          "url": "https://open.spotify.com/artist/4PPVTIy0XtTMJuiA7mC4Ak"
+          "name": "Tribal Guarachero",
+          "url": "https://open.spotify.com/artist/5joTsOB4J8FAS2srUZrwCt"
         }
       ],
-      "duration_ms": 181818,
-      "name": "Shake It Off",
-      "url": "https://open.spotify.com/track/7cO56Ywy5ddith2FRPTaM6"
+      "duration_ms": 220212,
+      "name": "La Culebritica",
+      "url": "https://open.spotify.com/track/589A2uQDPameLScx9xkUDn"
+    },
+    {
+      "added_at": "2022-08-05 05:00:00",
+      "album": {
+        "name": "Imag\u00ednate",
+        "url": "https://open.spotify.com/album/1DPWhGySSW1Jgf2AbaQOrx"
+      },
+      "artists": [
+        {
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        },
+        {
+          "name": "CID MX",
+          "url": "https://open.spotify.com/artist/7l5dXp0vXYWwkOiLVJ06qx"
+        },
+        {
+          "name": "TBX",
+          "url": "https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp"
+        }
+      ],
+      "duration_ms": 157142,
+      "name": "Imag\u00ednate",
+      "url": "https://open.spotify.com/track/6dc7BsgtDwxlq4z7WyGE6Z"
     },
     {
       "added_at": "2022-08-05 05:00:00",
@@ -791,22 +815,6 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
-        "name": "Zapatear",
-        "url": "https://open.spotify.com/album/2ZCfbuEez3QTha7TdNcC8s"
-      },
-      "artists": [
-        {
-          "name": "Los Dutis",
-          "url": "https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi"
-        }
-      ],
-      "duration_ms": 162049,
-      "name": "Zapatear",
-      "url": "https://open.spotify.com/track/2ZEruRr8IXykUCQBlEiYhv"
-    },
-    {
-      "added_at": "2022-08-05 05:00:00",
-      "album": {
         "name": "Pompi Cadera",
         "url": "https://open.spotify.com/album/4Ny0w4fmGU7XvctBjU6bxD"
       },
@@ -819,6 +827,38 @@
       "duration_ms": 140720,
       "name": "Pompi Cadera",
       "url": "https://open.spotify.com/track/0yYfcUbO9c4VvtnUYfxdOf"
+    },
+    {
+      "added_at": "2022-08-05 05:00:00",
+      "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/05t3S7RiXvwsuYK4jj8Pf1"
+      },
+      "artists": [
+        {
+          "name": "Sheeqo Beat",
+          "url": "https://open.spotify.com/artist/4PPVTIy0XtTMJuiA7mC4Ak"
+        }
+      ],
+      "duration_ms": 181818,
+      "name": "Shake It Off",
+      "url": "https://open.spotify.com/track/7cO56Ywy5ddith2FRPTaM6"
+    },
+    {
+      "added_at": "2022-08-05 05:00:00",
+      "album": {
+        "name": "Zapatear",
+        "url": "https://open.spotify.com/album/2ZCfbuEez3QTha7TdNcC8s"
+      },
+      "artists": [
+        {
+          "name": "Los Dutis",
+          "url": "https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi"
+        }
+      ],
+      "duration_ms": 162049,
+      "name": "Zapatear",
+      "url": "https://open.spotify.com/track/2ZEruRr8IXykUCQBlEiYhv"
     },
     {
       "added_at": "2022-08-05 05:00:00",
@@ -855,30 +895,6 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
-        "name": "Imag\u00ednate",
-        "url": "https://open.spotify.com/album/1DPWhGySSW1Jgf2AbaQOrx"
-      },
-      "artists": [
-        {
-          "name": "Cachirula",
-          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
-        },
-        {
-          "name": "CID MX",
-          "url": "https://open.spotify.com/artist/7l5dXp0vXYWwkOiLVJ06qx"
-        },
-        {
-          "name": "TBX",
-          "url": "https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp"
-        }
-      ],
-      "duration_ms": 157142,
-      "name": "Imag\u00ednate",
-      "url": "https://open.spotify.com/track/6dc7BsgtDwxlq4z7WyGE6Z"
-    },
-    {
-      "added_at": "2022-08-05 05:00:00",
-      "album": {
         "name": "Terror, Ep. 2",
         "url": "https://open.spotify.com/album/4FX3UqkVgH0TW2DhXpOzH2"
       },
@@ -911,22 +927,6 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
-        "name": "Las M\u00e1s Picudas del Tribal",
-        "url": "https://open.spotify.com/album/4X8TwSLAqP8J60F0wXfYOA"
-      },
-      "artists": [
-        {
-          "name": "DJ Morphius",
-          "url": "https://open.spotify.com/artist/0JG1qMChKnNWRh0GRgOJJN"
-        }
-      ],
-      "duration_ms": 192613,
-      "name": "Mueve Tu Caderita",
-      "url": "https://open.spotify.com/track/7E6SsIPD1wn0SZsm4CxJhr"
-    },
-    {
-      "added_at": "2022-08-05 05:00:00",
-      "album": {
         "name": "Brindemos Por Ellas",
         "url": "https://open.spotify.com/album/5MqF13YB9GTHdMIkTerpEs"
       },
@@ -947,6 +947,22 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
+        "name": "Las M\u00e1s Picudas del Tribal",
+        "url": "https://open.spotify.com/album/4X8TwSLAqP8J60F0wXfYOA"
+      },
+      "artists": [
+        {
+          "name": "DJ Morphius",
+          "url": "https://open.spotify.com/artist/0JG1qMChKnNWRh0GRgOJJN"
+        }
+      ],
+      "duration_ms": 192613,
+      "name": "Mueve Tu Caderita",
+      "url": "https://open.spotify.com/track/7E6SsIPD1wn0SZsm4CxJhr"
+    },
+    {
+      "added_at": "2022-08-05 05:00:00",
+      "album": {
         "name": "Generaci\u00f3n Tribal",
         "url": "https://open.spotify.com/album/1IqiZ7iimf2SSnjqoSHHZh"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 184146,
       "name": "Sheeqo, Get Loose",
       "url": "https://open.spotify.com/track/0kAQ4h2COEfGZCTu5KYOaK"
-    },
-    {
-      "added_at": "2022-08-05 05:00:00",
-      "album": {
-        "name": "Afroguaracha",
-        "url": "https://open.spotify.com/album/1OMT3htpBd2nNCHufrTLCi"
-      },
-      "artists": [
-        {
-          "name": "Dj Otto",
-          "url": "https://open.spotify.com/artist/4NUOSz1OVP30beWFCtEIVv"
-        }
-      ],
-      "duration_ms": 189393,
-      "name": "Afroguaracha",
-      "url": "https://open.spotify.com/track/1PHiNCctsPo5yvKRCTbKDn"
     }
   ],
   "unique_name": "Fiesta Tribal",

@@ -4,7 +4,7 @@
 
 > New music off the beaten track\. Cover: Sirens of Lesbos
 
-555 songs - 1 day 14 hr 13 min
+556 songs - 1 day 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,8 @@
 | [Ever New](https://open.spotify.com/track/6nXk3XcfNmwtig7acQxRbc) | [Beverly Glenn\-Copeland](https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe) | [Keyboard Fantasies](https://open.spotify.com/album/3U4V4WwMxXaHIjRnDQqaXK) | 7:08 | 2022-12-30 | 2023-01-02 |
 | [Every Little Drop \(Edit\)](https://open.spotify.com/track/796JQcRYU4x0oO17xmh9xs) | [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS), [Richard x](https://open.spotify.com/artist/1U3sbewNFRq4oyhUWZinMi) | [Every Little Drop \(Edit\)](https://open.spotify.com/album/7bE9IkWBXiHK6Tv35lPZ6B) | 3:35 | 2023-11-09 |  |
 | [Everyday \- Jennifer Cardini Remix](https://open.spotify.com/track/02awIGJCgPAMs4xLWTfcdf) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Jennifer Cardini](https://open.spotify.com/artist/3AN049igIAaoX0fjTCkpnf) | [Everyday \(Jennifer Cardini Remix\)](https://open.spotify.com/album/29tchebjLMABWzP2jKWa0j) | 7:20 | 2022-12-15 | 2023-03-25 |
-| [Everything](https://open.spotify.com/track/6vS6Lz9bQPYtYD00i6pgti) | [Sirens Of Lesbos](https://open.spotify.com/artist/18XyLuKeMMfkTNKTmc6yOU), [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9) | [Peace](https://open.spotify.com/album/7lkoHO7IuanGlzELdbvgaZ) | 3:29 | 2023-11-23 |  |
+| [Everything](https://open.spotify.com/track/3q31VYWuho2mEqIkNaH0Kw) | [Sirens Of Lesbos](https://open.spotify.com/artist/18XyLuKeMMfkTNKTmc6yOU), [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9) | [Everything](https://open.spotify.com/album/6wvOvnTGgvM1V0HWn76daC) | 3:29 | 2023-11-23 |  |
+| [Everything](https://open.spotify.com/track/6vS6Lz9bQPYtYD00i6pgti) | [Sirens Of Lesbos](https://open.spotify.com/artist/18XyLuKeMMfkTNKTmc6yOU), [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9) | [Peace](https://open.spotify.com/album/7lkoHO7IuanGlzELdbvgaZ) | 3:29 | 2023-11-23 | 2023-11-25 |
 | [EVERYTHINGSALRIGHT](https://open.spotify.com/track/4Sko63ptJsDz9aP8zX5dT5) | [ford.](https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18) | [EVERYTHINGSALRIGHT](https://open.spotify.com/album/6fxy5Sv8laZHCodqu9ICQG) | 2:55 | 2023-06-30 | 2023-09-29 |
 | [Fader \- Edit](https://open.spotify.com/track/4oR9onkuU2xWQL3E5apApP) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Fader](https://open.spotify.com/album/2WKucBnirwfJwNMtcxxD1U) | 2:24 | 2023-06-22 | 2023-07-14 |
 | [Fading](https://open.spotify.com/track/6a6ukMkLFXcWvqP0fdlDfZ) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Fading](https://open.spotify.com/album/4bUlfYprHew2m5NsyzD84I) | 4:27 | 2023-05-04 | 2023-11-03 |

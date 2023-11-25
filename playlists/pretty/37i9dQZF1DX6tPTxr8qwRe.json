@@ -1,12 +1,12 @@
 {
   "description": "Dark, hard hitting pop. Cover: emlyn",
-  "num_followers": 394448,
+  "num_followers": 394529,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGVjNzY5YjVhZWY5ZGMyMzJkYjE5NzVhYTY5OTAzZWIzYjQ5YzQ2",
+  "snapshot_id": "MCw0OGMxMjM4N2QxYTY5OGQ1ODQ3NmYxNGU3MjgwMDUzNTcyNDdmY2Yx",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -29,20 +29,20 @@
       "url": "https://open.spotify.com/track/59BEuButSI6B9CZuPYZjNa"
     },
     {
-      "added_at": "2023-11-17 07:30:59",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "I AM",
-        "url": "https://open.spotify.com/album/386kgx8oUr4TFpLXuEMzBh"
+        "name": "inhale - E.P.",
+        "url": "https://open.spotify.com/album/6g4KDMX0EEAUiH6bSltjlL"
       },
       "artists": [
         {
-          "name": "Ashley Sienna",
-          "url": "https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi"
+          "name": "Lili-Ann De Francesco",
+          "url": "https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA"
         }
       ],
-      "duration_ms": 156800,
-      "name": "Siren",
-      "url": "https://open.spotify.com/track/5psxNqlcbQhHuMLY7NT5Hr"
+      "duration_ms": 167533,
+      "name": "the girl (that you can't get over)",
+      "url": "https://open.spotify.com/track/5rvkNjOc5Q6rV26iqdTWwB"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -59,6 +59,54 @@
       "duration_ms": 147205,
       "name": "little miss misogyny",
       "url": "https://open.spotify.com/track/6uKxavyhKpvneaIAx0ve4D"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "HATE 2 LUV U",
+        "url": "https://open.spotify.com/album/5exZjAvyfhdDdssxOcWfRj"
+      },
+      "artists": [
+        {
+          "name": "AViVA",
+          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
+        }
+      ],
+      "duration_ms": 177479,
+      "name": "HATE 2 LUV U",
+      "url": "https://open.spotify.com/track/0cg2EwJcOFj4S7ZDoDhBMc"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Better On Mute",
+        "url": "https://open.spotify.com/album/11cXlTcVE4u0BTEm6YID09"
+      },
+      "artists": [
+        {
+          "name": "Sophie Powers",
+          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
+        }
+      ],
+      "duration_ms": 157782,
+      "name": "Better On Mute",
+      "url": "https://open.spotify.com/track/4PUoS8YRJCKdG76cYjbdpL"
+    },
+    {
+      "added_at": "2023-11-17 07:30:59",
+      "album": {
+        "name": "I AM",
+        "url": "https://open.spotify.com/album/386kgx8oUr4TFpLXuEMzBh"
+      },
+      "artists": [
+        {
+          "name": "Ashley Sienna",
+          "url": "https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi"
+        }
+      ],
+      "duration_ms": 156800,
+      "name": "Siren",
+      "url": "https://open.spotify.com/track/5psxNqlcbQhHuMLY7NT5Hr"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -91,22 +139,6 @@
       "duration_ms": 169445,
       "name": "not ur baby",
       "url": "https://open.spotify.com/track/5xP6KmGWbPdz5ICUT7apYt"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Better On Mute",
-        "url": "https://open.spotify.com/album/11cXlTcVE4u0BTEm6YID09"
-      },
-      "artists": [
-        {
-          "name": "Sophie Powers",
-          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
-        }
-      ],
-      "duration_ms": 157782,
-      "name": "Better On Mute",
-      "url": "https://open.spotify.com/track/4PUoS8YRJCKdG76cYjbdpL"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -483,22 +515,6 @@
       "duration_ms": 140128,
       "name": "yellow tape",
       "url": "https://open.spotify.com/track/6XAzStbS0JfyN17D6vNv2L"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "WEIRDO",
-        "url": "https://open.spotify.com/album/6rDokynybvQJty9nxAAGVh"
-      },
-      "artists": [
-        {
-          "name": "AViVA",
-          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
-        }
-      ],
-      "duration_ms": 150558,
-      "name": "WEIRDO",
-      "url": "https://open.spotify.com/track/4q0l0eybNVn3ae13cj4OBw"
     },
     {
       "added_at": "2023-10-06 04:00:00",

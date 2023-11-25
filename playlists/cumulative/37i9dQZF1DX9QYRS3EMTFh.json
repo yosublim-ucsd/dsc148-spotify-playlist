@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Kalash",
+  "description": "Les hits dancehall du moment. Photo : Bamby",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -501,6 +501,28 @@
     },
     {
       "album": {
+        "name": "C'M\u00e9chant",
+        "url": "https://open.spotify.com/album/0EvfTeUySDV4bmRAQZis2r"
+      },
+      "artists": [
+        {
+          "name": "X-Man",
+          "url": "https://open.spotify.com/artist/4VYr2jD1AzhmEyT2L8xTg4"
+        },
+        {
+          "name": "Danthology",
+          "url": "https://open.spotify.com/artist/6Rii9NJk3gtAOB1qnbTYPM"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "Badman",
+      "url": "https://open.spotify.com/track/1qjqfHddO0S8QhhPp1utLh"
+    },
+    {
+      "album": {
         "name": "Balenciaga",
         "url": "https://open.spotify.com/album/0e0i3tOTZITqs0MofFmAc5"
       },
@@ -644,7 +666,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 141600,
       "name": "Bed a Rock",
       "url": "https://open.spotify.com/track/40a2fbFR0ANcVWKI9JJxcC"
@@ -1328,6 +1350,24 @@
       "duration_ms": 142082,
       "name": "Choquer",
       "url": "https://open.spotify.com/track/7y1z1fQtI1akuOk4lMrqEm"
+    },
+    {
+      "album": {
+        "name": "Chupa Chups",
+        "url": "https://open.spotify.com/album/4evQmLlRFvmjGbbLfrVnO4"
+      },
+      "artists": [
+        {
+          "name": "Bamby",
+          "url": "https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130067,
+      "name": "Chupa Chups",
+      "url": "https://open.spotify.com/track/1yPvo0vccRNMEc8xDIFsqi"
     },
     {
       "album": {
@@ -2497,6 +2537,32 @@
     },
     {
       "album": {
+        "name": "HAMMA",
+        "url": "https://open.spotify.com/album/3MC886v5swRTdejOseX1hP"
+      },
+      "artists": [
+        {
+          "name": "Kybba",
+          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
+        },
+        {
+          "name": "Stylo G",
+          "url": "https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd"
+        },
+        {
+          "name": "Kalibwoy",
+          "url": "https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163882,
+      "name": "HAMMA",
+      "url": "https://open.spotify.com/track/63xYkQNeCb7EYyBFqoJVmK"
+    },
+    {
+      "album": {
         "name": "Hard & Strong",
         "url": "https://open.spotify.com/album/5nm7V9dkjdXJOQf3mzwM3b"
       },
@@ -3204,7 +3270,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 120000,
       "name": "Kosto",
       "url": "https://open.spotify.com/track/36IXjhbi7m7KGBWLRy1mXE"
@@ -6896,7 +6962,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 101176,
       "name": "WW",
       "url": "https://open.spotify.com/track/2Hr3MEW0eoM0wtKMEy0eWS"

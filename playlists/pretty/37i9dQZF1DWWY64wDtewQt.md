@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,061,820 likes - 100 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,069,064 likes - 100 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 56 | [TUCA DONKA](https://open.spotify.com/track/7bxyNLXYaEYaZTxAuQTHlD) | [CURSEDEVIL](https://open.spotify.com/artist/6rzNFUmaEVnYb8kzh9tBTt), [DJ FKU](https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe), [Skorde](https://open.spotify.com/artist/3voCipmmrW5uF4EMA6aSbj) | [TUCA DONKA](https://open.spotify.com/album/27XmqsKeLyr5jDURAordcd) | 1:15 |
 | 57 | [PSYCHO CRUISE](https://open.spotify.com/track/1tkHHqMZaVoNtQvC32Om8X) | [ONIMXRU](https://open.spotify.com/artist/3ysIyoivMDpeqLg0VMRPQw), [STRAWANGLE](https://open.spotify.com/artist/4o5PswOvXGSq0y5BqZTR9n) | [PSYCHO CRUISE](https://open.spotify.com/album/2F3yPhrN0gUj5O5lORwMu6) | 2:31 |
 | 58 | [Oppa](https://open.spotify.com/track/2YSBjsqZ2YxwwHi8xqf9ms) | [NECROLX](https://open.spotify.com/artist/6IQCHQSopenTR9Tr9vIelQ), [YOUK3IV](https://open.spotify.com/artist/4ftc3UZdpRIPlQVWZRnEg4), [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja) | [Oppa](https://open.spotify.com/album/0MjCgPgOnJJKGvaaLINZig) | 1:27 |
-| 59 | [AREAMATE MIZ](https://open.spotify.com/track/5fidhv2cY1UFSmM0IfzXUc) | [Imprviious](https://open.spotify.com/artist/3542zdQigI42Ldk3KOrZ77) | [AREAMATE MIZ](https://open.spotify.com/album/3PUiEfbilwe50AC5AqaMLX) | 1:20 |
+| 59 | [AREAMATE MIZ](https://open.spotify.com/track/7iTkZfuWTGTMLfCSKiGKKz) | [Imprviious](https://open.spotify.com/artist/3542zdQigI42Ldk3KOrZ77) | [AREAMATE MIZ](https://open.spotify.com/album/5In521cVolHQ12SbPSg50a) | 1:20 |
 | 60 | [MURDER PLOT](https://open.spotify.com/track/62ZAFyVwbc9f2M8qCW1qJr) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [MURDER PLOT](https://open.spotify.com/album/55fBYJVENoSR8pMOr7Cmhv) | 2:06 |
 | 61 | [COWBELL WARRIOR!](https://open.spotify.com/track/3yMrcqveZ2DrWBYJbDsous) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [COWBELL WARRIOR!](https://open.spotify.com/album/7E5iS4h201MO7HWZqbrMU4) | 2:29 |
 | 62 | [SUICIDE YEAR](https://open.spotify.com/track/6hRvewF5MRAsqqxnNs3z2b) | [WEEDMANE](https://open.spotify.com/artist/6agBXAcUugzO8DQTChZZrx), [Suicideyear](https://open.spotify.com/artist/3WaNZnwUPrpOIS5ZcIyjTO) | [SUICIDE YEAR](https://open.spotify.com/album/6y0bYi0XTNsGQzbKMYNxg1) | 1:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 99 | [Phonk Bachi Bachi](https://open.spotify.com/track/4hx1w2XDXdS7w7cQ4NJxIj) | [DJ TOPO](https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP), [Mc Rd](https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d) | [Phonk Bachi Bachi](https://open.spotify.com/album/6w26U8IiuMeNYdMAfX52W6) | 1:44 |
 | 100 | [Mtg \- Coração](https://open.spotify.com/track/4nyMoK6gePLzCJybQl4O2F) | [Dj Samir](https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk), [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM) | [Mtg \- Coração](https://open.spotify.com/album/4LsthlcTRWkcsfRRn9yxYC) | 1:53 |
 
-Snapshot ID: `MCwxMWNkZWEwOTU4OTQ1ZDk5N2RiYzU4MWE4MjAxMzQxOWRkMzYzMzhk`
+Snapshot ID: `MCxlNjNhYTE1ZWQyMGM4MjY2NGI0ZTRhMmIzY2EzYTg1NDI3MTM5MzBh`

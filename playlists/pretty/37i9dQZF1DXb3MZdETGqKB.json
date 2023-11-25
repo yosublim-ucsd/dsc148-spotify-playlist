@@ -1,13 +1,33 @@
 {
   "description": "All new, all blues. Cover: Shanice Green",
-  "num_followers": 145787,
+  "num_followers": 145827,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTA0YzJhYTE5MmZiNjYzZjY5MjU3NThiMzgxZjFkZTc4YjI3OWJi",
+  "snapshot_id": "MCw0YWNlZjMyZmMyMzhmNjgzYTkwYzVjOTc2NmZhNmMyNWM5Zjc4ZGYz",
   "tracks": [
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "BRIGHT LIGHTS",
+        "url": "https://open.spotify.com/album/4FjIgyTYsZAdVQXbECbyu4"
+      },
+      "artists": [
+        {
+          "name": "Kuku",
+          "url": "https://open.spotify.com/artist/0jsSBgwm0lKxe2zNfrSSoc"
+        },
+        {
+          "name": "Nicolas Giraud",
+          "url": "https://open.spotify.com/artist/54HWkeX9BCjVS0rfEnlzie"
+        }
+      ],
+      "duration_ms": 257000,
+      "name": "BRIGHT LIGHTS",
+      "url": "https://open.spotify.com/track/3OX5XAgqCftQYpIERxXFvE"
+    },
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
@@ -1599,22 +1619,6 @@
       "duration_ms": 180800,
       "name": "Spin Me Round",
       "url": "https://open.spotify.com/track/0iEo9wkzqOfVfVkezh8obQ"
-    },
-    {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "Man in the Ground",
-        "url": "https://open.spotify.com/album/3pSMQQFLcjdQDasxNuGNEF"
-      },
-      "artists": [
-        {
-          "name": "Jack Barksdale",
-          "url": "https://open.spotify.com/artist/0Xr86XoAGFGXZTAFjr3EMt"
-        }
-      ],
-      "duration_ms": 186920,
-      "name": "Man in the Ground",
-      "url": "https://open.spotify.com/track/58hIcKjEMwvTLGdEsdfRPf"
     },
     {
       "added_at": "2023-02-24 05:01:00",

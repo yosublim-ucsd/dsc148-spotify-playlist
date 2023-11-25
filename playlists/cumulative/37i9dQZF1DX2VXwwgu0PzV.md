@@ -4,7 +4,7 @@
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: <a href="https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf?si=142KHl8DQJqxey\_zQJW4kA">Pastor Courage</a>
 
-477 songs - 1 day 3 hr 52 min
+478 songs - 1 day 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,6 +277,7 @@
 | [Lord You Are Good \- Spontaneous](https://open.spotify.com/track/53rr2POjQ9z4lO4P39Bnua) | [Chris Heaven](https://open.spotify.com/artist/0wWIHR4oX0miVq88XpVoYZ) | [Lord You Are Good \(Spontaneous\)](https://open.spotify.com/album/1DHzPKOhwivoj9n4GoOyGn) | 6:45 | 2023-10-20 |  |
 | [Love Is Sweet](https://open.spotify.com/track/4ylpxiJDwyF3nhwFyPnJPE) | [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Love Is Sweet](https://open.spotify.com/album/43MImKx1fAjC0xMdGdj3tu) | 2:35 | 2023-02-10 | 2023-06-16 |
 | [Love Me](https://open.spotify.com/track/1x8g9i82Ej5xNzwysUyZCd) | [Sammy Hart](https://open.spotify.com/artist/7uj5a4BDtYb5oI4EfypnNv) | [Love Me](https://open.spotify.com/album/5cQa96HLCYtv4TQbyvS1S9) | 3:49 | 2023-02-02 | 2023-06-16 |
+| [MAJO](https://open.spotify.com/track/3ixbMvMSAZLWRhqNdlQbnd) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F) | [MAJO](https://open.spotify.com/album/3rcxWLvZXA2ZtmZzvPNqec) | 2:53 | 2023-11-24 |  |
 | [Make Sense](https://open.spotify.com/track/3PrQ70kcR8zjGOBNjPeykZ) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y), [Edem Evangelist](https://open.spotify.com/artist/0PMnq7uQBuRGsQuhMmikYH) | [Make Sense](https://open.spotify.com/album/50hYQz2kMs1xREwVSDwbiy) | 3:24 | 2023-09-01 | 2023-10-20 |
 | [Malaika](https://open.spotify.com/track/2uznTqRWArP0zVo3aq55ar) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Malaika](https://open.spotify.com/album/7gxJJvnaREpG5vxTkVnPIV) | 3:23 | 2023-11-03 |  |
 | [Man on a Mission](https://open.spotify.com/track/0XeKqPjspgM5eAOhaCNMwL) | [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [The Prodigal Son](https://open.spotify.com/album/0V8fKBOCPB9xJuQt3j8cOQ) | 2:37 | 2023-11-10 |  |

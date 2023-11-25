@@ -1953,6 +1953,24 @@
     },
     {
       "album": {
+        "name": "FORCE",
+        "url": "https://open.spotify.com/album/7eAyYcKJHcFtmUr7hTLhRu"
+      },
+      "artists": [
+        {
+          "name": "Nth Shade",
+          "url": "https://open.spotify.com/artist/7JjX7x1u28JKVMa8BZUSVB"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132331,
+      "name": "FORCE",
+      "url": "https://open.spotify.com/track/4eaeb6yZdjHiZxah0DFsnK"
+    },
+    {
+      "album": {
         "name": "Forest Run",
         "url": "https://open.spotify.com/album/7bqI8NfwJ4xVglMlcqp3V5"
       },
@@ -3649,6 +3667,24 @@
     },
     {
       "album": {
+        "name": "Perfect Circus",
+        "url": "https://open.spotify.com/album/5CRwyLx3ogA1XaEqaqJRMe"
+      },
+      "artists": [
+        {
+          "name": "Vince Voyage",
+          "url": "https://open.spotify.com/artist/229yYJk7wWvnJcs9bhJx5N"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126585,
+      "name": "Perfect Circus",
+      "url": "https://open.spotify.com/track/08ZBgVEJzJxdEqMf8cE4Tt"
+    },
+    {
+      "album": {
         "name": "Persist Display",
         "url": "https://open.spotify.com/album/4JuU828Mu0bygg7RANN2cp"
       },
@@ -3934,6 +3970,24 @@
       "duration_ms": 213288,
       "name": "Right Days",
       "url": "https://open.spotify.com/track/33LCCushOR1xZnjwlQqpqp"
+    },
+    {
+      "album": {
+        "name": "Riviera Blue",
+        "url": "https://open.spotify.com/album/5xPcqCeZu9xKNJgQI1vriZ"
+      },
+      "artists": [
+        {
+          "name": "Lou Kil",
+          "url": "https://open.spotify.com/artist/1vxHeyltNjjNC7OSS573mh"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160333,
+      "name": "Riviera Blue",
+      "url": "https://open.spotify.com/track/7DiVzbxu9xlNNVEossvvGO"
     },
     {
       "album": {

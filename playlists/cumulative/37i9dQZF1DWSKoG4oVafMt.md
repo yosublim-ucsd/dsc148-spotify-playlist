@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Jordan Sandhu
 
-793 songs - 1 day 19 hr 8 min
+794 songs - 1 day 19 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Chandigarh Shehar](https://open.spotify.com/track/5ucWVRFoIeMQWaZAIQrizf) | [Nawab](https://open.spotify.com/artist/1fTMfqHcXtTa0G42Wu7qH5) | [Chandigarh Shehar](https://open.spotify.com/album/1rXQeaAZ16j5qwPQJwJzzq) | 2:47 | 2022-11-07 | 2023-02-04 |
 | [Chandni Raat](https://open.spotify.com/track/578rtgpyZraj98LvEt7xJ1) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Chandni Raat](https://open.spotify.com/album/1cITau9wOAmBXUThCfhMvt) | 2:42 | 2022-11-23 | 2023-01-28 |
 | [Changa na lage](https://open.spotify.com/track/5booVo7Su2BgAeVq6eCOMZ) | [Nikk](https://open.spotify.com/artist/6z9kS2dZQbqNV69wfrCZAR) | [Changa na lage](https://open.spotify.com/album/1SRU1k6hekc4KECdPq9Zps) | 2:59 | 2022-08-01 | 2022-08-18 |
-| [Chann Da Ghar](https://open.spotify.com/track/4zVSoXEX5aG2BKwomRnmFN) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Chann Da Ghar](https://open.spotify.com/album/5sauoyA0rdI9NsIxCWAxnm) | 5:57 | 2023-11-17 |  |
+| [Chann Da Ghar](https://open.spotify.com/track/4zVSoXEX5aG2BKwomRnmFN) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Chann Da Ghar](https://open.spotify.com/album/5sauoyA0rdI9NsIxCWAxnm) | 5:57 | 2023-11-17 | 2023-11-25 |
 | [Chann Naal Taare](https://open.spotify.com/track/5Vbtdgm7Qeniint7D1nC6h) | [JusKeys](https://open.spotify.com/artist/3WOftlTipq4ezwzR72Pkwc), [Aabha](https://open.spotify.com/artist/1tIokWNuHKG7KdL8bofehf), [Navvu Dhunda](https://open.spotify.com/artist/0rbaV5TUegz1QZCkUz56Uu) | [Chann Naal Taare](https://open.spotify.com/album/0veWAgTtygASgJILWSw8FC) | 3:03 | 2023-01-27 | 2023-02-02 |
 | [Chann Sitare \(From "Oye Makhna"\)](https://open.spotify.com/track/4ZlAM2VoFpv0VyZjv34A4o) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Avvy Sra](https://open.spotify.com/artist/1vKd2cgDOiLcV5YA5uy7GG), [Harmanjeet Singh](https://open.spotify.com/artist/5GKQZoriMz17iLIGdRp2Yt) | [Chann Sitare \(From "Oye Makhna"\) \- Single](https://open.spotify.com/album/78eSecjSVDN0T0KDylfVMf) | 3:07 | 2022-12-10 |  |
 | [Chann Ve](https://open.spotify.com/track/4kRAwnOs2edirDxN6kMd9G) | [Amar Sehmbi](https://open.spotify.com/artist/39qok0BZ6YbUgGWRH4UEEY) | [Chann Ve](https://open.spotify.com/album/57mOXc3ukwIaKzddLAwXnC) | 3:14 | 2022-12-01 | 2023-01-20 |
@@ -208,6 +208,7 @@
 | [Ferozi Koka](https://open.spotify.com/track/3nBT3djv8UdFtlM7hqfnit) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Ferozi Koka](https://open.spotify.com/album/58CBHd8bAudqjM2ySjMaqt) | 2:52 | 2022-10-06 | 2023-02-04 |
 | [Fikar](https://open.spotify.com/track/70BgJ8MYMyF3zURCqUd8FP) | [Jashan Inder](https://open.spotify.com/artist/0tGfv5UMyYeDwBwo86cat8), [Sofia Inder](https://open.spotify.com/artist/04T6LAjLQUxF7JCqclfr5F), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [Fikar](https://open.spotify.com/album/3PeCg4DIogrEPkyds3rFnp) | 3:28 | 2023-09-20 |  |
 | [Firozi](https://open.spotify.com/track/3C1CI7A7stRCh6gpBWCEQS) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Nimmo](https://open.spotify.com/album/3F2cjyTEus264GbYrXgrnc) | 3:36 | 2022-02-02 | 2022-04-06 |
+| [Fitrat \- From "Parinda Paar Geyaa"](https://open.spotify.com/track/2Ei7LnTPtn9Byklantuv3N) | [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W), [Kartik Dev](https://open.spotify.com/artist/3RP5G139xbMICwhskoljmz), [Gaurav Dev](https://open.spotify.com/artist/68Cqe4YTtQpcuyKLktPxr9) | [Fitrat \(From "Parinda Paar Geyaa"\)](https://open.spotify.com/album/548T3tZE4mfnxkGxN2PfUL) | 3:15 | 2023-11-24 |  |
 | [Five Flower](https://open.spotify.com/track/74wcCZYO6yofhiahlJqkKk) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Five Flower](https://open.spotify.com/album/463xWGyBZ2PjYCLIVAIxU5) | 2:38 | 2022-09-09 | 2022-12-16 |
 | [Flat](https://open.spotify.com/track/2yeklSP8NLY1INR6GOzVgd) | [Mani Moudgill](https://open.spotify.com/artist/3MGTi8Rfb4d7hprj5R2BEC) | [Flat](https://open.spotify.com/album/0VPaB19nfI80AE71iO22zN) | 2:33 | 2022-07-21 | 2022-07-29 |
 | [Flat](https://open.spotify.com/track/3W4qJ1f1anwipbPi0M93Dq) | [Mani Moudgill](https://open.spotify.com/artist/3MGTi8Rfb4d7hprj5R2BEC) | [Flat \- Single](https://open.spotify.com/album/26hIh6pP1BRAuePDXuRxn7) | 2:33 | 2022-07-28 | 2022-08-18 |

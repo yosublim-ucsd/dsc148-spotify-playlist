@@ -4,7 +4,7 @@
 
 > Celebra con sazón\. A holiday playlist with tropical flavor.
 
-164 songs - 11 hr 10 min
+165 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Esta Navidad](https://open.spotify.com/track/6Gau5rKadNtM3eQPN4Nyku) | [Johnny Ventura y su Combo](https://open.spotify.com/artist/0q0lEulQZYw4EexzUVDiJR) | [Navidad Sin Ti](https://open.spotify.com/album/6mwWKwdIg3twKIw8B5Ob73) | 4:13 | 2022-11-25 |  |
 | [Esta Navidad](https://open.spotify.com/track/3NvDk88G0njN98HkUg6Y7e) | [Zona Roja](https://open.spotify.com/artist/2zXofGxFg93OZHBFAiweAI) | [Con Tanto Cache](https://open.spotify.com/album/4VEo435ch0afkFTpXwg64Z) | 4:33 | 2022-12-18 |  |
 | [Esta Parranda Te la Debía](https://open.spotify.com/track/5digKW6ClEPvvOw8dumMk8) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq), [José Nogueras](https://open.spotify.com/artist/1z8Vc58XjwvSENCaae5j0D) | [Versos de Nuestra Cultura](https://open.spotify.com/album/1EuDECMiIY2t7ti1kYHWnK) | 3:33 | 2022-12-18 |  |
+| [Faltan 5 pa’ las 12](https://open.spotify.com/track/7kFu9DNXibWTUkgU5dSJVr) | [C4 Trío](https://open.spotify.com/artist/316XlJTSEuNi2LaH6I2x7y), [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Faltan 5 pa’ las 12](https://open.spotify.com/album/3SThMaeZTQJxxJAKhpNMgl) | 3:28 | 2023-11-24 |  |
 | [Farolito \(Little Star\)](https://open.spotify.com/track/5tTS9k3YRyHHPVut0PO8I9) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Abriendo Puertas](https://open.spotify.com/album/58L3coHWC8BOho10VpDHXV) | 4:39 | 2022-11-25 |  |
 | [Feliz Cumbé](https://open.spotify.com/track/1CvYdv3AwrsTt90owD32VB) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [El Gran Mayimbe](https://open.spotify.com/album/3YcXVczErplYfnXgiNNCjg) | 3:13 | 2022-11-25 |  |
 | [Feliz Navidad](https://open.spotify.com/track/7DIeziYfgC6i2chzXCh5Vc) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Duelo Cumbiambero En Navidad](https://open.spotify.com/album/1RlMpDTvsBxwqaTIzKc8iy) | 2:58 | 2022-11-25 | 2023-09-24 |
@@ -85,7 +86,7 @@
 | [Fin de Semana \- Version Navideña](https://open.spotify.com/track/4he2N9NCRkMdzCcFyADnp7) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Y Es Fácil!](https://open.spotify.com/album/0hTAsUTkGytIz0jozjge3A) | 4:39 | 2022-11-25 |  |
 | [Grito En Navidad](https://open.spotify.com/track/3jWOE0Ly1Weqfl1nxlLjhc) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Navideños](https://open.spotify.com/album/7lsz6aRXUQ37WOtDz3yVOh) | 5:48 | 2022-12-18 |  |
 | [Gózate La Navidad](https://open.spotify.com/track/2JP7cYDckFDmhu8wrLGtg9) | [Sin Fronteras](https://open.spotify.com/artist/4dAnxrHLMYZbfHKyyTr5nV), [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Gózate La Navidad](https://open.spotify.com/album/20Oy7Ji4W1CCrekZx4NcG5) | 4:20 | 2023-11-17 |  |
-| [Hay Mucha Alegria](https://open.spotify.com/track/3sWxMI7ptGU5eq5ptxqrh1) | [Caña Brava](https://open.spotify.com/artist/14C1tQKnUFJiWwKAp2Umga) | [Navidad en Merengue \(Versión Editada\)](https://open.spotify.com/album/6iJ0AdHHXnP1L0gLhi4e1M) | 6:02 | 2023-11-17 |  |
+| [Hay Mucha Alegria](https://open.spotify.com/track/3sWxMI7ptGU5eq5ptxqrh1) | [Caña Brava](https://open.spotify.com/artist/14C1tQKnUFJiWwKAp2Umga) | [Navidad en Merengue \(Versión Editada\)](https://open.spotify.com/album/6iJ0AdHHXnP1L0gLhi4e1M) | 6:02 | 2023-11-17 | 2023-11-25 |
 | [Jingle Bells](https://open.spotify.com/track/596IbfViVl4ZBgC9DeWLCu) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Alegría Alegría](https://open.spotify.com/album/5I0cycBD0AJlQkx5fcJHET) | 2:24 | 2022-11-25 | 2023-08-17 |
 | [La Banda](https://open.spotify.com/track/0nzgxLkf876dcJIJWLDkUD) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [Asalto Navideño: Vol\. 1 & 2](https://open.spotify.com/album/2m2jXwkrxiFkmfjYArZRQw) | 3:03 | 2022-12-18 |  |
 | [La Clave](https://open.spotify.com/track/5Ux94g63fF8uxUHaqDOi8t) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [La Clave](https://open.spotify.com/album/2X4174eeWM2B3aMPKUyk5S) | 2:17 | 2022-12-13 |  |

@@ -1592,7 +1592,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 132918,
       "name": "Mercedes",
       "url": "https://open.spotify.com/track/7nEcDt1fVVc6eA061D9GxX"
@@ -1928,6 +1928,24 @@
       "duration_ms": 144000,
       "name": "OMA",
       "url": "https://open.spotify.com/track/2tnb6KLgg0e3NCtvLkoer1"
+    },
+    {
+      "album": {
+        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
+        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134131,
+      "name": "OTRO ROUND",
+      "url": "https://open.spotify.com/track/28SuPULQaeBPA7MEcHG1ns"
     },
     {
       "album": {

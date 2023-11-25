@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-509 songs - 20 hr 51 min
+511 songs - 20 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Bapelujah](https://open.spotify.com/track/52Hm0VKu1rFGiTU1GxYVkh) | [Beat Oven](https://open.spotify.com/artist/57nxKbKZ4Uc9jzTkcCfRRq) | [Bapelujah](https://open.spotify.com/album/7wQMP5OKSDcA3sUO4AJrGj) | 1:17 | 2021-06-12 | 2022-07-28 |
 | [Berlin Rain](https://open.spotify.com/track/4bIti4ZqD4yOkTvHEHJ04L) | [Muscle](https://open.spotify.com/artist/7rX3arPA93JjNPBtZ9JNu2) | [Berlin Rain / At Dusk](https://open.spotify.com/album/1BzHg6Un80v0yApbtlyt90) | 1:33 | 2019-05-26\* | 2020-01-14 |
 | [Best Regards](https://open.spotify.com/track/4DAgTthT39ZAJTv6Vya7df) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [Best Regards](https://open.spotify.com/album/5EFl3ZMdhYIhsBpysh8QlF) | 2:36 | 2020-06-19 | 2022-07-22 |
+| [Best Regards](https://open.spotify.com/track/5jJWPAn20sxi5UiHBLWEai) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [The Art of Chilling, Vol\. 2](https://open.spotify.com/album/5fQUFkVsUUBoLPTc2j9mlp) | 2:36 | 2023-11-23 |  |
 | [BIG BLUE](https://open.spotify.com/track/5EWpiLgQ6WYrvp7DbYhj70) | [Yakkle](https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap) | [BIG BLUE](https://open.spotify.com/album/5N20fAevDwj4glrtlKdCzl) | 2:46 | 2021-09-28 | 2022-07-27 |
 | [Bike Ride in Osaka](https://open.spotify.com/track/1VOZoXy7aPGruK8JsFQp7H) | [tecashi](https://open.spotify.com/artist/0lyektFoueMSyY7rE3212w) | [Bike Ride in Osaka](https://open.spotify.com/album/6HbBPWORHXSGkhH62Qllis) | 2:00 | 2022-10-20 | 2023-03-02 |
 | [birchwood](https://open.spotify.com/track/2Zf7bX6kpYa1qaixtXumKM) | [sus9th](https://open.spotify.com/artist/1AfdR7N8ClMmksHKhr2IGC) | [aura collis](https://open.spotify.com/album/2KeGLxZlT33x8rUwgKyF00) | 3:27 | 2022-01-27 | 2023-03-13 |
@@ -75,7 +76,7 @@
 | [Cenario](https://open.spotify.com/track/7KQGUqom3BIzU0UB8XltUN) | [soho](https://open.spotify.com/artist/5rCxM6JMlwyQ3tuds8DqPR) | [Home Grown](https://open.spotify.com/album/2zWWibkLVYNp39mnQoGMJb) | 2:04 | 2019-05-26\* | 2020-01-14 |
 | [Change](https://open.spotify.com/track/7oD6a9yGIHCqtlqIplK4tN) | [JinSei](https://open.spotify.com/artist/3wptMvKU4cdKcFcEp5qpXM) | [Change](https://open.spotify.com/album/7raWI0KFGJ2nVuUbvCkFus) | 1:48 | 2020-11-06 | 2022-07-28 |
 | [Chet's Dip Cuts](https://open.spotify.com/track/31SKs7K6vBqP83AaQ578pn) | [Kavv](https://open.spotify.com/artist/2s9AUbN500rutTnXy78HzE) | [Chet's Dip Cuts](https://open.spotify.com/album/0ii1o8MN8EHstHRmU2nJHP) | 1:27 | 2020-06-19 | 2021-10-29 |
-| [chill oil](https://open.spotify.com/track/3zitR68UQPvSJXhj0VhVKB) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [Jr.TEA](https://open.spotify.com/artist/6LzvdyO4rk5hMzyRhlrt4e) | [chill oil](https://open.spotify.com/album/1EBszIXQGrExYYVJl0UaYV) | 2:35 | 2023-03-09 |  |
+| [chill oil](https://open.spotify.com/track/3zitR68UQPvSJXhj0VhVKB) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [Jr.TEA](https://open.spotify.com/artist/6LzvdyO4rk5hMzyRhlrt4e) | [chill oil](https://open.spotify.com/album/1EBszIXQGrExYYVJl0UaYV) | 2:35 | 2023-03-09 | 2023-11-25 |
 | [ChunkySoul!!!](https://open.spotify.com/track/1tsSV0cI3Qc5WhZqNYCruu) | [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU) | [Zion II](https://open.spotify.com/album/5fnXMRZFd0SkPitan6pLu4) | 2:03 | 2019-05-26\* | 2020-01-14 |
 | [City Strollin'](https://open.spotify.com/track/0DZyMqCAMr4LALQKA1QizL) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Nocatchphraze](https://open.spotify.com/artist/4efXbuujGTBlH1mfRkvnpJ), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [City Strollin'](https://open.spotify.com/album/2AV89a2bJw3pjTpfCa3hg4) | 3:18 | 2021-10-30 | 2022-07-29 |
 | [Cloud Walking](https://open.spotify.com/track/1A2KuZ3ojY7MdfZrkecxiY) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF), [Homage](https://open.spotify.com/artist/0Nax9ohdb2ezDUpPmT3iMz) | [Collabs, Vol 2](https://open.spotify.com/album/4xN8ZoRTp9aE1mu61uO1oe) | 1:58 | 2020-06-19 | 2022-04-20 |
@@ -269,7 +270,8 @@
 | [Love Letter](https://open.spotify.com/track/5jSL7kbq81gOtD1QUOAAwB) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [Love Letter](https://open.spotify.com/album/03gEl4GdfDFvbt9Ff3nUmi) | 1:56 | 2020-01-14 | 2022-07-28 |
 | [Love Letter](https://open.spotify.com/track/5NlG6wkRWwPrKel04bKkYK) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [High Jazz](https://open.spotify.com/album/0NKeDOv1E57bjmFusvxqiE) | 1:56 | 2023-01-12 |  |
 | [Love Letter](https://open.spotify.com/track/6SEzAZ2Uq0h5oncDuRRxTZ) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [High Jazz](https://open.spotify.com/album/1DdWGJ2V6GhO6cgaBx9WNj) | 1:56 | 2022-07-28 | 2022-11-20 |
-| [Love Vibe and Learn](https://open.spotify.com/track/13ErCwuebmVrM0kEyiTmoG) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Love Vibe and Learn](https://open.spotify.com/album/7esU7PfctSuckvtAz97Gdx) | 2:12 | 2023-11-23 |  |
+| [Love Vibe and Learn](https://open.spotify.com/track/13ErCwuebmVrM0kEyiTmoG) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Love Vibe and Learn](https://open.spotify.com/album/7esU7PfctSuckvtAz97Gdx) | 2:12 | 2023-11-23 | 2023-11-25 |
+| [Love Vibe and Learn](https://open.spotify.com/track/5TdBSyit6udNnTqJhbgiFT) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Noflik \- Love Vibe and Learn](https://open.spotify.com/album/2ZJ7gLKBBlKmL0kgTWmPj3) | 2:12 | 2023-11-23 |  |
 | [Loveofmine](https://open.spotify.com/track/17axGpHVTMbKHKh0z0JCXt) | [Bugseed](https://open.spotify.com/artist/0ObliAtls0po56kVnacsOd) | [Synchronicty](https://open.spotify.com/album/4QN6IgCdZjGE8SQK63ef7R) | 3:07 | 2021-08-04 | 2021-10-29 |
 | [Mad Skillz](https://open.spotify.com/track/6TjxqtYXNC0TIhq03rDJ9n) | [Remulak](https://open.spotify.com/artist/5epeii4aAE7NXFsBkqoJxB), [Type.Raw](https://open.spotify.com/artist/5esWbbDTsZQ6mM3OHd4fSg) | [Mad Skillz](https://open.spotify.com/album/73XpuHdsSUhYWIfmqugGVj) | 2:31 | 2020-08-30 | 2022-07-28 |
 | [Magic Hoodie](https://open.spotify.com/track/3Q5uu90ueSV1hk1bIKYBKu) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi) | [Dazzle](https://open.spotify.com/album/3lJ3wJoBUclrt7c1QNHAwv) | 1:58 | 2019-05-26\* | 2020-01-14 |

@@ -6817,6 +6817,24 @@
     },
     {
       "album": {
+        "name": "Government Hooker",
+        "url": "https://open.spotify.com/album/4KniEeOj40mFwv6jnyzj6J"
+      },
+      "artists": [
+        {
+          "name": "Bread Beatz",
+          "url": "https://open.spotify.com/artist/6Bwo8WbpyBecVCrrKcAtuH"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144990,
+      "name": "Government Hooker",
+      "url": "https://open.spotify.com/track/6luTWh6j0KQQ1OgYAgV8ke"
+    },
+    {
+      "album": {
         "name": "GRAVES",
         "url": "https://open.spotify.com/album/4SGV9kedUN8m8Hc2oFKJZK"
       },
@@ -14814,7 +14832,7 @@
       },
       "artists": [
         {
-          "name": "LeKtriQue",
+          "name": "Lektrique",
           "url": "https://open.spotify.com/artist/2ZZE8SPVWBysGWL1pRDHEy"
         }
       ],

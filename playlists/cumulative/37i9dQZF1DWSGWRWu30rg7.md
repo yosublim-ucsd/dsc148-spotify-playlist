@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: bungareyza, Dimansyah Laitupa
 
-2,826 songs - 7 day 5 hr 33 min
+2,828 songs - 7 day 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Bahagia Baru](https://open.spotify.com/track/4Kr2YX8yYQxFmzAXO9eyoy) | [Gratia Elena](https://open.spotify.com/artist/3CP8cFbrbdzXwCS8VBrf02), [Agseisa](https://open.spotify.com/artist/3HB7NpAUWsKvbuw0MQiR53) | [Bahagia Baru](https://open.spotify.com/album/4ZMuehSuLDXRewZjQbzgND) | 3:52 | 2023-01-26 | 2023-02-04 |
 | [Bahagia Bersamamu](https://open.spotify.com/track/7AfHrSycm3NiDDx1aPF09j) | [DISGUISE](https://open.spotify.com/artist/0JvLfNbHsmAIuatgg3MLCp) | [Bahagia Bersamamu](https://open.spotify.com/album/3pzJCy7U2oMudU6si7rdI7) | 4:38 | 2023-08-25 | 2023-09-08 |
 | [Bahagia Oh Bahagia](https://open.spotify.com/track/5uQQSOtbJ3XWZur8Jd46fz) | [Haliya](https://open.spotify.com/artist/3mElqeVM0OocytLEYXJpYh), [Baked by Bibi](https://open.spotify.com/artist/7sZFxGSJHWMqrwouPSU2Wt) | [Bahagia Oh Bahagia](https://open.spotify.com/album/5YtQ8oIUewpgzqmMoMDrXg) | 3:08 | 2022-05-12 | 2022-05-27 |
+| [Bahagia?](https://open.spotify.com/track/1REO7oWnTKUjqmP2QrnqAI) | [KIRA](https://open.spotify.com/artist/6ZnDvYKDDFZQbATQYilBed) | [Bahagia?](https://open.spotify.com/album/0XerFe1dgUsjIoNqVIckH7) | 4:10 | 2023-11-24 |  |
 | [Bahagiaku](https://open.spotify.com/track/71wR2AMmCrIWjW8iTv8GsQ) | [Asya](https://open.spotify.com/artist/1SQcLGz6rb5OzKosxCV2mQ) | [Bahagiaku](https://open.spotify.com/album/0C3Ym36nbiS27ivZv4GNMu) | 3:22 | 2023-10-12 | 2023-11-03 |
 | [Bahagialah Cinta](https://open.spotify.com/track/5K3XivJn0NLtYMhhIW3DCz) | [Asyraf Jamal](https://open.spotify.com/artist/2VVF9v30tOFn3gmOjlscX7) | [Bahagialah Cinta](https://open.spotify.com/album/0RUgjY7DIC2z0k4MgECw2A) | 4:32 | 2023-05-11 | 2023-05-26 |
 | [BAHASA BARU](https://open.spotify.com/track/2t4dVJGywyzTvjAZjzRBIN) | [Melati ESP](https://open.spotify.com/artist/2yHzkL2Cb1qMhEtFeeyr68) | [BAHASA BARU](https://open.spotify.com/album/0PnkH2LvSSZwXCtoRJdfEg) | 4:10 | 2023-03-09 | 2023-03-25 |
@@ -988,6 +989,7 @@
 | [Hot Chocolate](https://open.spotify.com/track/4HYwpdPiwPHH9S5HDNZuaD) | [Raditya Mahendra](https://open.spotify.com/artist/0NIPf15M5HYUAIxh8LWcxS) | [Hot Chocolate](https://open.spotify.com/album/35qz3JlrAzTO6Uyw6gVHzF) | 3:21 | 2023-11-02 | 2023-11-24 |
 | [Hourglass](https://open.spotify.com/track/58UHqvQcvYsTRX1KH4C2gJ) | [Larry Fattyman](https://open.spotify.com/artist/0MlLzD7F1VFdywqJUrcm1R) | [Hourglass](https://open.spotify.com/album/6ovV6EeEBoIC8d7uwrEqWx) | 2:12 | 2022-06-09 | 2022-07-01 |
 | [How Could We](https://open.spotify.com/track/6DzlhYGOYRVEiN9bmUC1nC) | [Jasmine Risach](https://open.spotify.com/artist/2BNcSe8pI5AHKmYV6D1JIj) | [Show Me the Way Out](https://open.spotify.com/album/7dpEYmIzGdJkrbvvX7FT0V) | 2:56 | 2023-03-02 | 2023-03-18 |
+| [How Much Do You Love Me](https://open.spotify.com/track/6LwpW2WMxPqICW1dBXsV7a) | [TERUNA](https://open.spotify.com/artist/0YTMep6ABS7gI4txhB1DFL) | [The Surrealist Party](https://open.spotify.com/album/5esuY8C9LUggVuV7XQ24Ky) | 3:46 | 2023-11-24 |  |
 | [How to forget you?](https://open.spotify.com/track/2rY29Cs4RM8LBGiYYMma62) | [Reza Aden](https://open.spotify.com/artist/6UPMZrdju1U1xzdAD6sYn8), [TRU](https://open.spotify.com/artist/3fTnOsnzB3qr1aVOAIAAR1) | [How to forget you?](https://open.spotify.com/album/59TuA9e60mfPVGJK1uhqYk) | 4:54 | 2022-06-23 | 2022-07-15 |
 | [How To Grow Up](https://open.spotify.com/track/0LitnbxSoOsVG4hmRFIy0D) | [Marini Nainggolan](https://open.spotify.com/artist/68CRp4uznB4jlgbcNEqbTp) | [Pre\-28](https://open.spotify.com/album/28pcnfEv9iqRkkwGUpTKkl) | 5:18 | 2022-03-24 | 2022-04-08 |
 | [How to Say Goodbye to Memories](https://open.spotify.com/track/0OR30Ecv8LECSYvAEgOOln) | [J Lym](https://open.spotify.com/artist/7cSkAegJzjgmQHDWiK4w8b) | [Bluish Scenario](https://open.spotify.com/album/3cQzVG5gUnYdp2sfLRx2wY) | 3:03 | 2022-09-01 | 2022-09-16 |

@@ -465,6 +465,28 @@
     },
     {
       "album": {
+        "name": "ChouChou",
+        "url": "https://open.spotify.com/album/1RGI0NzcvbOEAvkuHqVXv6"
+      },
+      "artists": [
+        {
+          "name": "Siggy & D1ns",
+          "url": "https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm"
+        },
+        {
+          "name": "$hirak",
+          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123994,
+      "name": "ChouChou",
+      "url": "https://open.spotify.com/track/4CPWhSxDp6N4p8YWj43mpy"
+    },
+    {
+      "album": {
         "name": "clutter",
         "url": "https://open.spotify.com/album/4YCV5lQcuCZGVaJUqm6Uk6"
       },
@@ -1528,6 +1550,24 @@
       "duration_ms": 185293,
       "name": "Maybe Another Time",
       "url": "https://open.spotify.com/track/3XCU2WB2v2SXiNPphH2JZY"
+    },
+    {
+      "album": {
+        "name": "Medeplichtig",
+        "url": "https://open.spotify.com/album/52Rv3uBuWFbr6NAfSDufny"
+      },
+      "artists": [
+        {
+          "name": "Pommelien Thijs",
+          "url": "https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166746,
+      "name": "Medeplichtig",
+      "url": "https://open.spotify.com/track/1M19j4iqQyyWK1IzfY5Cod"
     },
     {
       "album": {

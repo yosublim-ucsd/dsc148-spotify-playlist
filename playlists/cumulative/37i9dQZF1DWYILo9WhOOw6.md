@@ -4,7 +4,7 @@
 
 > Use Delta frequencies for the best night's sleep.
 
-117 songs - 5 hr 55 min
+119 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Delta Sleep Binaural 92.4Hz \- 94Hz](https://open.spotify.com/track/6wiSWb52zpQOYgG2qXyJ7t) | [New Lab](https://open.spotify.com/artist/2JERrrG5RDWd8oVOhpPl2F) | [Delta Resonance](https://open.spotify.com/album/37iNiPm2yyCRX8rAedpJXG) | 2:55 | 2023-09-27 |  |
 | [Delta Sleep Waves 87.2Hz \- 88.6Hz](https://open.spotify.com/track/2eCKzMlnobzurHO3q6WvTc) | [Triangular Prism III](https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf) | [Delta Explorer](https://open.spotify.com/album/7C8HFx6AiAe5CO5pctS023) | 3:11 | 2023-04-07 |  |
 | [Delta Sleep Waves 88.8Hz \- 90.2Hz](https://open.spotify.com/track/5QsYuzWo2yegOxhVuGhYnk) | [Triangular Prism III](https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf) | [Delta Explorer](https://open.spotify.com/album/7C8HFx6AiAe5CO5pctS023) | 3:24 | 2023-04-07 |  |
+| [Delta Sleep Waves 94\-95 Hz](https://open.spotify.com/track/4xijftzN70pgv2qn1HMGEt) | [Lee Hale](https://open.spotify.com/artist/1AbkLy2s1YzaXCRn6vFRoU) | [Delta Sleep Waves 94\-95 Hz](https://open.spotify.com/album/1c1QnP3Q5NE56amorwqM3m) | 2:36 | 2023-11-24 |  |
 | [Delta Sleep Waves 98Hz \- 99.6Hz](https://open.spotify.com/track/51US4kWdKFk1uWhRXG1LbV) | [Infinite Field](https://open.spotify.com/artist/4k5wUzbeVt1nviNANoqMI2) | [Delta Mind](https://open.spotify.com/album/3fUJVv905XG6LDsQc0s0Zn) | 2:52 | 2023-06-02 |  |
 | [Delta Texture](https://open.spotify.com/track/6mOIw0WpfWuPck0t9fxNsn) | [DreamDeeper](https://open.spotify.com/artist/5OyM0rVbelDv6mU0FEjdNL) | [Textures](https://open.spotify.com/album/3vIYI9geHSqDN9LkIvXXuk) | 3:27 | 2023-01-20 |  |
 | [Delta Waves Beauty 73 Hz \- 74 Hz](https://open.spotify.com/track/7E0oNouL0E2RkYSlhxcMWP) | [Beyond Quantum](https://open.spotify.com/artist/526CTPjTISiN03ICeZO0Nf) | [Binaural Bliss](https://open.spotify.com/album/3wOu9ExpMCzOmMKcDFw2fo) | 2:58 | 2023-01-20 |  |
@@ -114,6 +115,7 @@
 | [Sleep Architect \(Delta Waves\)](https://open.spotify.com/track/4OmIx94FGulyQCG4p8DD0U) | [Dreamstatic](https://open.spotify.com/artist/24sCSCuOs5lxNXY5SsMUdj) | [Dreamstatic](https://open.spotify.com/album/3GnJyk0lcbxS6J7PvzsPGa) | 3:12 | 2023-01-20 |  |
 | [Sleep with Peace](https://open.spotify.com/track/6ZrQJUmZV9Zzd4sGifErEj) | [Hypnosis Therapy](https://open.spotify.com/artist/4BqilCCtLl5MiIEZVVYPmn) | [Deep Sleep: Body & Mind Healing with Binaural Beats](https://open.spotify.com/album/6Ns28NOPCQwnn5ns5ddQ5j) | 2:09 | 2023-01-20 |  |
 | [Slow Delta Soothe 96Hz \- 98Hz](https://open.spotify.com/track/6VEEg3q83KL26gj3zuT7Fn) | [Northern Sines](https://open.spotify.com/artist/6TWxyoPlukVztmpleDmXl3) | [Slow Delta Soothe 96Hz \- 98Hz](https://open.spotify.com/album/3epBpB6BhuQH5mAI3QqqDt) | 3:02 | 2023-01-20 |  |
+| [Soothing Delta Waves 75\-76 Hz](https://open.spotify.com/track/11mzu2eNekJbWkRztqdZny) | [Carl Burch](https://open.spotify.com/artist/51FObJDqTsXP89SXrNnUhL) | [Soothing Delta Waves 75\-76 Hz](https://open.spotify.com/album/3ja3duBbZqkUYvMjWHzhEU) | 2:34 | 2023-11-24 |  |
 | [Subconcious Delta Sinus 104Hz \- 106Hz](https://open.spotify.com/track/0TPns33GmXwiHO40SqeE4q) | [Sleeping Stars](https://open.spotify.com/artist/54dYMs8urBZyC8MDEifWuc) | [Subconcious](https://open.spotify.com/album/0PR5aydbGJutcoABq6Ja3o) | 3:07 | 2023-01-20 |  |
 | [subconcious Delta Sinus 81 Hz \- 83Hz](https://open.spotify.com/track/3Mstj0T1X4Ux7bcRIdmVOy) | [Pixeo](https://open.spotify.com/artist/2CdpLUBjbFoWgopv6lTTYf) | [Binaural Reflections](https://open.spotify.com/album/3dxCxziHGfiIaqaJM4eTGL) | 2:20 | 2023-01-20 |  |
 | [Subconscious Waves \(Delta Drone 1Hz\)](https://open.spotify.com/track/0VWMb7msvFr9KZAJGcR9rd) | [Bruce Brus](https://open.spotify.com/artist/6jKgLzBdINpIrcinbmi7hI) | [Subconscious Waves](https://open.spotify.com/album/2y9XokCm9PRZRpCLKSf3s8) | 3:50 | 2023-01-20 |  |

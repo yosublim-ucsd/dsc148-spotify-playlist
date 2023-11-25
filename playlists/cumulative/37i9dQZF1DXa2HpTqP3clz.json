@@ -946,7 +946,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 188666,
       "name": "Blue Railroad Train",
       "url": "https://open.spotify.com/track/5xQF2S5p9hckklJLsTbNzq"
@@ -3828,7 +3828,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 167093,
       "name": "I Could Get Used to This",
       "url": "https://open.spotify.com/track/4b1DeHoA9huGEvRofgk6ih"
@@ -4034,7 +4034,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-12",
+      "date_removed": null,
       "duration_ms": 213826,
       "name": "I'm On Fire",
       "url": "https://open.spotify.com/track/3xSdEH8yjB0hiCcj9CG0xR"
@@ -8018,6 +8018,24 @@
       "duration_ms": 238320,
       "name": "The Bottle",
       "url": "https://open.spotify.com/track/3GvQoR5OJASgMthwXCNswj"
+    },
+    {
+      "album": {
+        "name": "Mixtape",
+        "url": "https://open.spotify.com/album/4OzBnoR48bFk7ZGH6FZG0h"
+      },
+      "artists": [
+        {
+          "name": "Front Country",
+          "url": "https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310845,
+      "name": "The Boys of Summer",
+      "url": "https://open.spotify.com/track/4HXG1NYhCRUAHN6wFs93mb"
     },
     {
       "album": {

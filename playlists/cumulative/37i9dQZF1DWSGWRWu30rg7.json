@@ -3923,6 +3923,24 @@
     },
     {
       "album": {
+        "name": "Bahagia?",
+        "url": "https://open.spotify.com/album/0XerFe1dgUsjIoNqVIckH7"
+      },
+      "artists": [
+        {
+          "name": "KIRA",
+          "url": "https://open.spotify.com/artist/6ZnDvYKDDFZQbATQYilBed"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250758,
+      "name": "Bahagia?",
+      "url": "https://open.spotify.com/track/1REO7oWnTKUjqmP2QrnqAI"
+    },
+    {
+      "album": {
         "name": "Bahagiaku",
         "url": "https://open.spotify.com/album/0C3Ym36nbiS27ivZv4GNMu"
       },
@@ -18454,6 +18472,24 @@
       "duration_ms": 176646,
       "name": "How Could We",
       "url": "https://open.spotify.com/track/6DzlhYGOYRVEiN9bmUC1nC"
+    },
+    {
+      "album": {
+        "name": "The Surrealist Party",
+        "url": "https://open.spotify.com/album/5esuY8C9LUggVuV7XQ24Ky"
+      },
+      "artists": [
+        {
+          "name": "TERUNA",
+          "url": "https://open.spotify.com/artist/0YTMep6ABS7gI4txhB1DFL"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226865,
+      "name": "How Much Do You Love Me",
+      "url": "https://open.spotify.com/track/6LwpW2WMxPqICW1dBXsV7a"
     },
     {
       "album": {

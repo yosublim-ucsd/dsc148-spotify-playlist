@@ -4,7 +4,7 @@
 
 > 'Tis the season to settle in with a warm cup of coffee and these stripped down holiday tunes.
 
-158 songs - 8 hr 14 min
+159 songs - 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Come Thou Fount](https://open.spotify.com/track/4FuMgG920Za5GiUklVbz5k) | [Chase & Co.](https://open.spotify.com/artist/51QbzvHA7CzMBA9CwWL46n) | [Come Thou Fount](https://open.spotify.com/album/5xSJ1iI6wsN5fZvglyIYBT) | 2:56 | 2023-10-06 |  |
 | [Country Christmas](https://open.spotify.com/track/1A81LCryI8Trjaml37TeLK) | [Michele Leao](https://open.spotify.com/artist/6FjXAOfjiavprwnGzY0YvF) | [Country Christmas](https://open.spotify.com/album/6Dnh02rJWIkH6qDjMhe5wc) | 3:33 | 2022-10-24 | 2023-10-21 |
 | [Do They Know It's Christmas](https://open.spotify.com/track/0Mlv2PQsXoSGzBVb06UYM3) | [The Local Bros.](https://open.spotify.com/artist/2eArGWvPUKX6H63vH4w0bZ) | [Do They Know It's Christmas](https://open.spotify.com/album/2QRW3nUC5J3Fd3aaZ4KkpZ) | 2:54 | 2023-10-06 |  |
+| [driving home for christmas](https://open.spotify.com/track/4QQsFGPVZpzl6B9W0ghX99) | [middle of june](https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm) | [driving home for christmas](https://open.spotify.com/album/1ZYbSe0svgGtxXY3qOynAj) | 3:57 | 2023-11-24 |  |
 | [Fairytale of New York](https://open.spotify.com/track/4mimSQ5z7B6qRGKke32S2k) | [Tore](https://open.spotify.com/artist/1GZrKwVL73MyDEr4bR9sRk) | [Acoustic Christmas \- Deluxe Edition](https://open.spotify.com/album/20PjNlTdOUYB2lIg5ipiA7) | 3:40 | 2021-12-17 |  |
 | [Father Christmas](https://open.spotify.com/track/5iI2rZDnITXBEUN7VqbFdm) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Father Christmas](https://open.spotify.com/album/4m71bdFHBVGHbrvTizqnl7) | 4:57 | 2022-10-24 |  |
 | [Feliz Navidad](https://open.spotify.com/track/4ODWSl1UJ6ok9t1RQOrD4p) | [Iris](https://open.spotify.com/artist/2kO5sbBJbD36k1hMbtJAca) | [Feliz Navidad](https://open.spotify.com/album/6p1lBmV93fLMOEVFLuTQdK) | 1:57 | 2021-12-17 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Cruzando cerros y arroyos mientras recordamos el legado campirano y rancher\u00f3n.",
-  "num_followers": 70605,
+  "num_followers": 70791,
   "original_name": "Sierre\u00f1as Viejitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDAwNDM3YWNkNWY3YzU5NzdiZjFiZjAwNGYzZmM4MmY1MDI2NjU5",
+  "snapshot_id": "MCxiMjk1ZDdlNTFkOGUxNTg5OWFkNWRlNTA5NWVhMDlkMzM3OWE2Zjc5",
   "tracks": [
     {
       "added_at": "2023-11-09 23:10:04",
@@ -811,22 +811,18 @@
     {
       "added_at": "2023-11-09 23:10:04",
       "album": {
-        "name": "El Diablo y el Federal",
-        "url": "https://open.spotify.com/album/2rcwazegT8e3JlhPPtHJYk"
+        "name": "16 \u00c9xitos (En Vivo)",
+        "url": "https://open.spotify.com/album/0s82a3ioSduBeiOggJx2HA"
       },
       "artists": [
         {
-          "name": "El Canelo De Sinaloa",
-          "url": "https://open.spotify.com/artist/5WyCFEWzY8eMcSOu0BFjhJ"
-        },
-        {
-          "name": "Los Dos Del Sitio",
-          "url": "https://open.spotify.com/artist/4fKzhjg1iCHqWvXBB1U6G2"
+          "name": "Los Alte\u00f1os De La Sierra",
+          "url": "https://open.spotify.com/artist/5C4JSfm4IJsyqrngMh1iPK"
         }
       ],
-      "duration_ms": 133722,
-      "name": "El Frijolito",
-      "url": "https://open.spotify.com/track/2DinJPTgjKjiBG8zEmUAq8"
+      "duration_ms": 215005,
+      "name": "Los 4 Grandes - En Vivo",
+      "url": "https://open.spotify.com/track/2O8ytiGfFkRzLD5CxgFS76"
     },
     {
       "added_at": "2023-11-09 23:10:04",
@@ -863,6 +859,26 @@
     {
       "added_at": "2023-11-09 23:10:04",
       "album": {
+        "name": "El Diablo y el Federal",
+        "url": "https://open.spotify.com/album/2rcwazegT8e3JlhPPtHJYk"
+      },
+      "artists": [
+        {
+          "name": "El Canelo De Sinaloa",
+          "url": "https://open.spotify.com/artist/5WyCFEWzY8eMcSOu0BFjhJ"
+        },
+        {
+          "name": "Los Dos Del Sitio",
+          "url": "https://open.spotify.com/artist/4fKzhjg1iCHqWvXBB1U6G2"
+        }
+      ],
+      "duration_ms": 133722,
+      "name": "El Frijolito",
+      "url": "https://open.spotify.com/track/2DinJPTgjKjiBG8zEmUAq8"
+    },
+    {
+      "added_at": "2023-11-09 23:10:04",
+      "album": {
         "name": "El Jardin Olvidado",
         "url": "https://open.spotify.com/album/4akU0gaOGgrJJvg2oP3eSB"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 630053,
       "name": "Las Rancheras de los Reyes",
       "url": "https://open.spotify.com/track/5bkmKDY3FsMvzp6qh2L16s"
-    },
-    {
-      "added_at": "2023-11-09 23:10:04",
-      "album": {
-        "name": "16 \u00c9xitos (En Vivo)",
-        "url": "https://open.spotify.com/album/0s82a3ioSduBeiOggJx2HA"
-      },
-      "artists": [
-        {
-          "name": "Los Alte\u00f1os De La Sierra",
-          "url": "https://open.spotify.com/artist/5C4JSfm4IJsyqrngMh1iPK"
-        }
-      ],
-      "duration_ms": 215005,
-      "name": "Los 4 Grandes - En Vivo",
-      "url": "https://open.spotify.com/track/2O8ytiGfFkRzLD5CxgFS76"
     },
     {
       "added_at": "2023-11-09 23:10:04",

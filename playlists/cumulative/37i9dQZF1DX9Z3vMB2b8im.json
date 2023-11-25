@@ -254,7 +254,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 231133,
       "name": "Bardennoch",
       "url": "https://open.spotify.com/track/1YQjWqGwJmyscFhUNxsC33"
@@ -1017,6 +1017,24 @@
     },
     {
       "album": {
+        "name": "Joshua",
+        "url": "https://open.spotify.com/album/07POYRnUQ5sXuJEAy1x8hQ"
+      },
+      "artists": [
+        {
+          "name": "Morgan Harper-Jones",
+          "url": "https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253933,
+      "name": "Forever For Now",
+      "url": "https://open.spotify.com/track/36wyK4BQLsL2wy3gWCgz4F"
+    },
+    {
+      "album": {
         "name": "Forward",
         "url": "https://open.spotify.com/album/0TBhmTc9ppxvJmGRAQQOoG"
       },
@@ -1122,6 +1140,24 @@
       "duration_ms": 157493,
       "name": "Give Me A Minute",
       "url": "https://open.spotify.com/track/3YyASDEwePUZaPcgCjGOoV"
+    },
+    {
+      "album": {
+        "name": "I Don't Think I Do (Demo Versions)",
+        "url": "https://open.spotify.com/album/5sWsinLSTjwtVFOSeOrsLc"
+      },
+      "artists": [
+        {
+          "name": "Augusta",
+          "url": "https://open.spotify.com/artist/7yqaPPacsc3ANzPAfU7pTu"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226186,
+      "name": "Give Me A Reason - Demo Version",
+      "url": "https://open.spotify.com/track/76u9IeQG9eJKeUMp9EmuMZ"
     },
     {
       "album": {
@@ -1302,7 +1338,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 172500,
       "name": "Haven (from Life Is Strange)",
       "url": "https://open.spotify.com/track/0bndF6tTweNXPjwpPL7Slt"
@@ -2569,6 +2605,24 @@
     },
     {
       "album": {
+        "name": "Braille Moon County",
+        "url": "https://open.spotify.com/album/5SXYZTcn77owiQbpZHYkhD"
+      },
+      "artists": [
+        {
+          "name": "Praers",
+          "url": "https://open.spotify.com/artist/6GqH3F9ysSFc9pVn6DhLSO"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224423,
+      "name": "Part of Your Life",
+      "url": "https://open.spotify.com/track/0Dzg3P15yPFUFLuR7HN0E8"
+    },
+    {
+      "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/0xS0iOtxQRoJvfcFcJA5Gv"
       },
@@ -2746,7 +2800,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 281586,
       "name": "Powders",
       "url": "https://open.spotify.com/track/42PXe38ikfPn8fsMmnMbpm"
@@ -2873,6 +2927,24 @@
     },
     {
       "album": {
+        "name": "Songs For The Canyon",
+        "url": "https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"
+      },
+      "artists": [
+        {
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151960,
+      "name": "Rolling Stone",
+      "url": "https://open.spotify.com/track/00qJKFfHIjJ5qKC5JtqBSZ"
+    },
+    {
+      "album": {
         "name": "Antichrist / Room Service",
         "url": "https://open.spotify.com/album/4jqlP0cYR2KLC3FDppEKC5"
       },
@@ -2884,7 +2956,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 226125,
       "name": "Room Service",
       "url": "https://open.spotify.com/track/6ocOUCoXsFtuFtLEXNHc5H"
@@ -2902,7 +2974,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 163000,
       "name": "Sad Song",
       "url": "https://open.spotify.com/track/7jehpZchGhVt4u65HPSTdm"
@@ -3324,7 +3396,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 227209,
       "name": "The Giver",
       "url": "https://open.spotify.com/track/7A3uhvZBmoLzCCFQT14lGU"
@@ -3382,6 +3454,24 @@
       "duration_ms": 150929,
       "name": "The World Seen Through Your Eyes",
       "url": "https://open.spotify.com/track/3wZJx9WqtJpWwtJ0rRjRFv"
+    },
+    {
+      "album": {
+        "name": "The World Turns",
+        "url": "https://open.spotify.com/album/6pU7eZ9plEaMsCEjF3Y2kQ"
+      },
+      "artists": [
+        {
+          "name": "John Smith",
+          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261605,
+      "name": "The World Turns",
+      "url": "https://open.spotify.com/track/2QDe9NxlEQRlYE9rqja2Gj"
     },
     {
       "album": {
@@ -3472,6 +3562,24 @@
       "duration_ms": 221708,
       "name": "Through Those Eyes Again",
       "url": "https://open.spotify.com/track/7bBEsXVdI9IuCOWRhEiUoZ"
+    },
+    {
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/0FpJ9wlktoKInqfSpgBSjf"
+      },
+      "artists": [
+        {
+          "name": "Rosie H Sullivan",
+          "url": "https://open.spotify.com/artist/0lVelcY3fGmACzxZGSW3Je"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273687,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/3AZ3iDuNNkxIKYZJiFzYvc"
     },
     {
       "album": {

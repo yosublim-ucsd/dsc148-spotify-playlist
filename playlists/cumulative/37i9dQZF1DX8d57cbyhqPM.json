@@ -602,7 +602,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 195491,
       "name": "Benda",
       "url": "https://open.spotify.com/track/4KElRi2M7RodLDq6fWoiN5"
@@ -990,7 +990,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 272519,
       "name": "Caler Son",
       "url": "https://open.spotify.com/track/6O8ZZH9r6QRobAbf8xy3rN"
@@ -1008,7 +1008,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 141290,
       "name": "Caresse",
       "url": "https://open.spotify.com/track/5gbz2cNy6onybV68m96GFD"
@@ -1790,7 +1790,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 203787,
       "name": "Egogo",
       "url": "https://open.spotify.com/track/2wtHPYS5KY2JKBMqXVY0Oh"
@@ -3712,7 +3712,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 179873,
       "name": "Mopacho Panama",
       "url": "https://open.spotify.com/track/7wbMzPQrM8HF5z5ouQNiZT"
@@ -3791,6 +3791,28 @@
     },
     {
       "album": {
+        "name": "Mukongo",
+        "url": "https://open.spotify.com/album/5gfuY6txGvt4B32LE5F92L"
+      },
+      "artists": [
+        {
+          "name": "Hugo Kafumbi",
+          "url": "https://open.spotify.com/artist/4vtmFniIoQeD5t7oNfu4Te"
+        },
+        {
+          "name": "Bill Clinton Kalonji",
+          "url": "https://open.spotify.com/artist/7LuYI195pq8XPB6FutPLdD"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170500,
+      "name": "Mukongo",
+      "url": "https://open.spotify.com/track/6WVDlfwQiquzD8daC0vCgI"
+    },
+    {
+      "album": {
         "name": "Muselu",
         "url": "https://open.spotify.com/album/3c6N0JVOcFLrMMhFQOPoj3"
       },
@@ -3831,6 +3853,46 @@
     },
     {
       "album": {
+        "name": "Mambo",
+        "url": "https://open.spotify.com/album/0TyIDqKomocrUepDK60JsZ"
+      },
+      "artists": [
+        {
+          "name": "DJ P2N",
+          "url": "https://open.spotify.com/artist/6JNbpPDLC00W4j3MghVxFN"
+        },
+        {
+          "name": "Innoss'B",
+          "url": "https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274868,
+      "name": "Muziko (Remix)",
+      "url": "https://open.spotify.com/track/0myEyvPyNgmMwVTHkWlXwX"
+    },
+    {
+      "album": {
+        "name": "MWA MBUYI",
+        "url": "https://open.spotify.com/album/7nkfOiaZr6MA0eDnhC9wNN"
+      },
+      "artists": [
+        {
+          "name": "Ferre Gola",
+          "url": "https://open.spotify.com/artist/0is7KJiz3t87LiJWUO1tNI"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225992,
+      "name": "MWA MBUYI",
+      "url": "https://open.spotify.com/track/7vsDFUAI6IIgMcjPhyQgDD"
+    },
+    {
+      "album": {
         "name": "Mwinda",
         "url": "https://open.spotify.com/album/1oBCQkbNReIySY06NBdHgs"
       },
@@ -3864,6 +3926,24 @@
       "duration_ms": 170928,
       "name": "Na Boyi",
       "url": "https://open.spotify.com/track/6T8xtq9KAapHyYAij2iRu6"
+    },
+    {
+      "album": {
+        "name": "Renaissance",
+        "url": "https://open.spotify.com/album/4prx4daG1yxE8HzDRxcrMT"
+      },
+      "artists": [
+        {
+          "name": "SevMokonzi",
+          "url": "https://open.spotify.com/artist/0FXwUzwyrYyGJkYwAnpYp8"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189126,
+      "name": "Na d\u00e9marrer",
+      "url": "https://open.spotify.com/track/2wNDQHCnQARthNpnEtRmzr"
     },
     {
       "album": {
@@ -4670,6 +4750,24 @@
       "duration_ms": 217142,
       "name": "Petit g\u00e9nie",
       "url": "https://open.spotify.com/track/6z0GwK274ToNmvxfyYPuHw"
+    },
+    {
+      "album": {
+        "name": "Pieteron",
+        "url": "https://open.spotify.com/album/2e1ZMyWJzNs7AYyswMeOsG"
+      },
+      "artists": [
+        {
+          "name": "Fulu Miziki",
+          "url": "https://open.spotify.com/artist/5YpOlimBuGWDamh62kx4cu"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Pieteron",
+      "url": "https://open.spotify.com/track/2hT7SV5QUhbO0p8T1dkHS6"
     },
     {
       "album": {

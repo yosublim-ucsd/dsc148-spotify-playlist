@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Emis Killa, yungest Moonstar, Artie 5ive, Geolier e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,439 likes - 85 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,477 likes - 85 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 84 | [+Freddo](https://open.spotify.com/track/1WRAGwxtrW7oqRM6n8xIS2) | [Ombrv](https://open.spotify.com/artist/3k0UmxDhNM3pdvDlQjhg82) | [+Freddo](https://open.spotify.com/album/0zW7laPPT6VM49UZEFkAPK) | 2:16 |
 | 85 | [Modo](https://open.spotify.com/track/2o0p3cv07zS46ieNAwfKlW) | [DJ Fede](https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8), [Dj Kamo](https://open.spotify.com/artist/70gSqeThzMyjZt29jDdMh6), [Oyoshe](https://open.spotify.com/artist/6t49JCW50szpbRh9TuX2s8) | [Modo](https://open.spotify.com/album/2zp7KQL4JmQHf5NbQt3Ygk) | 4:03 |
 
-Snapshot ID: `MCxlOTBkMTk4Yjk5ZDA2NDMwYTExYjM3YThmNzYyZmY4YWQ0MDI1NTY0`
+Snapshot ID: `MCw1ZDM3ZmZlOGFjMmM1NTZjMWIwYjU1OGUwNjMzZDc0MWFiZTEzYzUy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 
 > <a href="spotify:artist:2jYMYP2SVifgmzNRQJx3SJ">Modeselektor</a>'s favorite tracks\. Updated regularly\. Curated by Modeselektor\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,109 likes - 59 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,146 likes - 59 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 | 58 | [WALK LIKE](https://open.spotify.com/track/0zAwd1PM87cO0UIXEOi6Gy) | [Mahne Frame](https://open.spotify.com/artist/0O1hTTSAVlJKFo7urBx6FI) | [WALK LIKE](https://open.spotify.com/album/48JsSe6jHzY2R9VV2CXSOj) | 3:02 |
 | 59 | [The Golden Ratio \(Version\)](https://open.spotify.com/track/2bQ2B1Zvk8ecLp1VAcI0bt) | [Cybotron](https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm) | [Maintain The Golden Ratio](https://open.spotify.com/album/5dV2HXWXjGWqR4oOTXJw4Z) | 4:42 |
 
-Snapshot ID: `MCxlZGJmOTEwMDAzYjU4MjZlNmM2MDY4MmE2YTEzNGYyMWI0MTNlZjI3`
+Snapshot ID: `MCxhYTc5MGY2NjViNjA1MDAyNmQ2YTcxZjcxZGMyNTJmNzdlMTllNDgy`

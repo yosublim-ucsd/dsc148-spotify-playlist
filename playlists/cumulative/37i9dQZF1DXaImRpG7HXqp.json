@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "A La Vida",
+        "url": "https://open.spotify.com/album/0Roms7p8Q8kD7M2uCnJ4Hp"
+      },
+      "artists": [
+        {
+          "name": "Matthias Trapp",
+          "url": "https://open.spotify.com/artist/5WKLrD3PamTJ6XPLeI3CXg"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127658,
+      "name": "A La Vida",
+      "url": "https://open.spotify.com/track/3lxOV0832ANSqKoOmuVaNQ"
+    },
+    {
+      "album": {
         "name": "De Mano A Mano",
         "url": "https://open.spotify.com/album/7ilmeRDYvSLSsIgBBjdPIQ"
       },
@@ -182,6 +200,24 @@
       "duration_ms": 151159,
       "name": "Acamchula Creeks",
       "url": "https://open.spotify.com/track/0nlYGpYrgVvtxy00ShqZ04"
+    },
+    {
+      "album": {
+        "name": "Act of Kindness",
+        "url": "https://open.spotify.com/album/6nKme2M8g4OjVWz7v8Ze9W"
+      },
+      "artists": [
+        {
+          "name": "Amma Lerato",
+          "url": "https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185190,
+      "name": "Act of Kindness",
+      "url": "https://open.spotify.com/track/3Xip9lwNo2DAPADWHdVgyi"
     },
     {
       "album": {
@@ -780,6 +816,24 @@
       "duration_ms": 159061,
       "name": "Azores",
       "url": "https://open.spotify.com/track/2YN1AKTAJApNLbTyNXrm6j"
+    },
+    {
+      "album": {
+        "name": "Back in the Village",
+        "url": "https://open.spotify.com/album/201oJA5eb4m9kl57WySUIF"
+      },
+      "artists": [
+        {
+          "name": "Cordell Zoe",
+          "url": "https://open.spotify.com/artist/1HVeNsc2IF1ob1427YyiRc"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134653,
+      "name": "Back in the Village",
+      "url": "https://open.spotify.com/track/1ThpkLTeAScDpOmm7NHSec"
     },
     {
       "album": {
@@ -1493,6 +1547,24 @@
     },
     {
       "album": {
+        "name": "Brooke's Path",
+        "url": "https://open.spotify.com/album/05aFINCNicADeoVTXnMpRh"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Hugh",
+          "url": "https://open.spotify.com/artist/0N9JbcwE2w3f9Qn6M6F3UP"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184343,
+      "name": "Brooke's Path",
+      "url": "https://open.spotify.com/track/6IrsZTFv2PMsRbYLhtpBur"
+    },
+    {
+      "album": {
         "name": "Farewell Summer",
         "url": "https://open.spotify.com/album/3S24lJTMp9qizsxmVHBdKW"
       },
@@ -1738,7 +1810,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 141497,
       "name": "Chameleon\u2019s tuning",
       "url": "https://open.spotify.com/track/35DNlywB4BvMt3Ys4aIxPR"
@@ -5073,6 +5145,24 @@
     },
     {
       "album": {
+        "name": "La Taverne",
+        "url": "https://open.spotify.com/album/1OuYr9HD5X4SIlzfuRALlo"
+      },
+      "artists": [
+        {
+          "name": "Dieter Huber",
+          "url": "https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155342,
+      "name": "La Taverne",
+      "url": "https://open.spotify.com/track/3mnqApvGyVFEqgFr77X9ij"
+    },
+    {
+      "album": {
         "name": "La Venue",
         "url": "https://open.spotify.com/album/0eGdnNpMq1wzNMtLICDSHZ"
       },
@@ -5232,6 +5322,24 @@
       "duration_ms": 143478,
       "name": "Lakes of Covadonga",
       "url": "https://open.spotify.com/track/03Vp5T4fXcsPL0cUTiKDy8"
+    },
+    {
+      "album": {
+        "name": "Lamento",
+        "url": "https://open.spotify.com/album/6G8qzns0DWKeqOcbpGwl9s"
+      },
+      "artists": [
+        {
+          "name": "Valencia Torres",
+          "url": "https://open.spotify.com/artist/1FIDJ9PL61hAFkpZPodejt"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130337,
+      "name": "Lamento",
+      "url": "https://open.spotify.com/track/5Mtm03KO4lvM4qmVEeRYaY"
     },
     {
       "album": {
@@ -5667,6 +5775,24 @@
     },
     {
       "album": {
+        "name": "Lingering Thoughts",
+        "url": "https://open.spotify.com/album/2D9nlP0XvJVp8TkA9VMqCk"
+      },
+      "artists": [
+        {
+          "name": "Graham Matheson",
+          "url": "https://open.spotify.com/artist/6ueD2UQZleDy48zMyvmt4e"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131000,
+      "name": "Lingering Thoughts",
+      "url": "https://open.spotify.com/track/1K6EHDgY0pA4Pz8VUzKF26"
+    },
+    {
+      "album": {
         "name": "Llamame e Insiste",
         "url": "https://open.spotify.com/album/1VuqJvXizrcq4dyqYTgWE2"
       },
@@ -5876,7 +6002,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 239535,
       "name": "Low Hanging Fruit",
       "url": "https://open.spotify.com/track/4Cjmwt8CPG0zusrNcnavxZ"
@@ -8656,7 +8782,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 184628,
       "name": "Simmer Down",
       "url": "https://open.spotify.com/track/3RW2g8eTVmmzIITKh4BBLO"
@@ -10013,6 +10139,24 @@
     },
     {
       "album": {
+        "name": "The small things in life",
+        "url": "https://open.spotify.com/album/6XJEnO611nb1gGDE2kpUPa"
+      },
+      "artists": [
+        {
+          "name": "Steve D",
+          "url": "https://open.spotify.com/artist/7JaeTu8xN4ZYcKyGrK6DBW"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135652,
+      "name": "The small things in life",
+      "url": "https://open.spotify.com/track/77RRa9i2ITwLznWo4Q9HPv"
+    },
+    {
+      "album": {
         "name": "The Stillness Within",
         "url": "https://open.spotify.com/album/7pfveCDNbixSABr4bVIfJZ"
       },
@@ -11025,6 +11169,24 @@
     },
     {
       "album": {
+        "name": "Wetterstein",
+        "url": "https://open.spotify.com/album/0u5TdFB5G2JI6BR5bQQIs5"
+      },
+      "artists": [
+        {
+          "name": "Michael Reiss",
+          "url": "https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248267,
+      "name": "Wetterstein",
+      "url": "https://open.spotify.com/track/6WfdfnyXB4XRHPtdYUtMZw"
+    },
+    {
+      "album": {
         "name": "We\u00b4re Ok",
         "url": "https://open.spotify.com/album/76w4CGhDqw94xOmbrYuGML"
       },
@@ -11382,6 +11544,24 @@
       "duration_ms": 151308,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/27DodeB1seENJxnWojPa6G"
+    },
+    {
+      "album": {
+        "name": "Yesteryear",
+        "url": "https://open.spotify.com/album/5Uu6qKT8FsFyUD0tRDIfxZ"
+      },
+      "artists": [
+        {
+          "name": "Armand Beck",
+          "url": "https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159242,
+      "name": "Yesteryear",
+      "url": "https://open.spotify.com/track/26onATmE5ib4iKkPfvHtnw"
     },
     {
       "album": {

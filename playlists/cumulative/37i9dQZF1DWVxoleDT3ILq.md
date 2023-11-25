@@ -2,9 +2,9 @@
 
 ### [Indie Chile](https://open.spotify.com/playlist/37i9dQZF1DWVxoleDT3ILq)
 
-> Todo el sonido indie de Chile\. Foto: Pedropiedra
+> Todo el sonido indie de Chile\. Foto: Estoy Bien
 
-433 songs - 1 day 2 hr 4 min
+435 songs - 1 day 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [El Mapa de Tu Viaje \(En Vivo\)](https://open.spotify.com/track/2TedwYOhVfQnc7rvDeIdVw) | [Humboldt](https://open.spotify.com/artist/1wJii6AWThPVePpQF0P4G6), [Javiera Parra](https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8) | [El Mapa de Tu Viaje \(En Vivo\)](https://open.spotify.com/album/20Pqm1Q6e17GhS5Ym9H7I1) | 3:58 | 2022-04-29 | 2022-07-23 |
 | [El Mar Está Lleno de Peces](https://open.spotify.com/track/11pTkTkPjyCtqyTs3UXEaj) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [El Mar Está Lleno de Peces](https://open.spotify.com/album/46AlndBvm2gauKbI9Bvug8) | 2:45 | 2022-04-29 | 2022-07-09 |
 | [El Sol](https://open.spotify.com/track/315ikEk4qSZHHw8oOIcb3s) | [Juan Desordenado](https://open.spotify.com/artist/2KAzBjzTRRbCgP5gvssbqB), [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [El Sol](https://open.spotify.com/album/2DX3LvX3UF13SmwnjMq2Vr) | 3:33 | 2022-04-15 | 2022-07-28 |
+| [El Sonido De Las Campanas](https://open.spotify.com/track/7H01fPYJe56IldvnvtGrpY) | [Estoy Bien](https://open.spotify.com/artist/3L2tBKYsn5RF3NM1NLQEda), [Simón Campusano](https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU) | [Apoyo Emocional](https://open.spotify.com/album/1G5jvDrtoyDSZGz9juVFqb) | 3:41 | 2023-11-24 |  |
 | [El Vagón](https://open.spotify.com/track/2aLnOJ8EdmwkbpJUsAZrVv) | [Los Furtivos Gnomos](https://open.spotify.com/artist/2kJktHNhofgGCsnjsEpImn) | [Cuentos del Nuevo Jardín](https://open.spotify.com/album/6YmFJdP4eHaH3o404jSj4v) | 4:23 | 2022-04-15 | 2022-07-26 |
 | [ELLA \(CAE LA NOCHE\)](https://open.spotify.com/track/47BEXkblFksAYVHd0xPNEI) | [Bocho](https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el), [Sergio Escribano](https://open.spotify.com/artist/116npLgwaQ7gM9Foz4Lg7W), [Escaparate de Poesía](https://open.spotify.com/artist/7tH4CflLKZ7jEJwsUzZL9I) | [DIAMANTE](https://open.spotify.com/album/0KVpNPH2JueCEJll6TbmgD) | 3:41 | 2023-06-02 | 2023-11-11 |
 | [Ella Me Dijo](https://open.spotify.com/track/0ysVoswBZh3USWAWpjBnVu) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [Ella Me Dijo](https://open.spotify.com/album/0Md6dUyqlF0v2i3NpyRYSK) | 3:07 | 2023-03-24 | 2023-07-25 |
@@ -192,6 +193,7 @@
 | [Karma](https://open.spotify.com/track/7nJzvoXmzFfKH0XupDiBzV) | [Charly Benavente](https://open.spotify.com/artist/38RtVKKRJwYGkKJDuZtHJP) | [Karma](https://open.spotify.com/album/5qJlhQrdU7GFAvn8w48ukg) | 3:16 | 2023-03-24 | 2023-06-10 |
 | [Klapaucius](https://open.spotify.com/track/00tq3tSdLI9zOn3ctd3OlQ) | [Al Menos Se Intenta](https://open.spotify.com/artist/6iXVwJ4tstSPx7zMv24ChX), [Aquiestawally](https://open.spotify.com/artist/6cM3ql6as318GpwefoKVIl) | [Klapaucius](https://open.spotify.com/album/2s8fH3h5DAarJXn7jlzBHW) | 3:34 | 2022-04-15 | 2022-07-29 |
 | [Kurt & Courtney](https://open.spotify.com/track/7E1UM6gU9bKFzfWAivMK4M) | [Adolescentes Sin Edad](https://open.spotify.com/artist/6HBntxIY4gRjp8syM0IEYV) | [Kurt & Courtney](https://open.spotify.com/album/2ZCQvBGaccRTo4f6pOOn3d) | 3:20 | 2022-04-15 | 2022-07-25 |
+| [La Casa Gana](https://open.spotify.com/track/2XxDJqTFLMaLhbQfDOgiYz) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [La Casa Gana](https://open.spotify.com/album/6pawFPYHWVGitTT9iSqNcN) | 5:00 | 2023-11-24 |  |
 | [La Experiencia](https://open.spotify.com/track/5qdztRteIy0iATHFFYIBPs) | [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L) | [Bestia](https://open.spotify.com/album/5MxhmYS9jmITi4mqz6FAX9) | 4:20 | 2022-04-15 | 2022-12-10 |
 | [La Fiesta](https://open.spotify.com/track/3ESZU7ayz6gxMCt2Q0FQLc) | [El Mulu](https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM), [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk) | [La Fiesta](https://open.spotify.com/album/1T0ZC5gGVRUWxCXhAraJ1J) | 3:12 | 2023-05-26 |  |
 | [La Fórmula Secreta](https://open.spotify.com/track/3rLhlaPfiZV2n2yz09cvxh) | [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3) | [La Fórmula Secreta](https://open.spotify.com/album/3FniLCzu3kr6odaO6oGDkh) | 3:14 | 2023-03-31 | 2023-09-02 |
@@ -252,7 +254,7 @@
 | [Ngen](https://open.spotify.com/track/3fPT6RHEUzylzTDsIRYsrM) | [Valentina Peralta](https://open.spotify.com/artist/2zsV26r2jyjg8toXnBiEId), [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh), [TÜFACHI BEAT](https://open.spotify.com/artist/6k5nnu2Y7sy4eg2QR9gBbQ), [ÜÑÜM](https://open.spotify.com/artist/5vdG5FPdkNvlzxE8ecl3sB) | [Ngen](https://open.spotify.com/album/7Hn97v4Hrtx9STRHNI7vO4) | 3:52 | 2022-04-15 | 2022-07-29 |
 | [Nictofobia](https://open.spotify.com/track/5hoD4dyws4eNkUiFnIAoNE) | [Algunos Amistosos](https://open.spotify.com/artist/5WanPtdbCY6UgiYy0pPhPx) | [Nictofobia](https://open.spotify.com/album/1LdKQVzzuCRjnbdLU597wL) | 5:37 | 2022-04-15 | 2022-07-24 |
 | [NIÑA](https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC) | [Bocho](https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el) | [NIÑA](https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj) | 3:20 | 2022-05-13 |  |
-| [NO](https://open.spotify.com/track/41ISYYrvwGoG5i261zTOTJ) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H), [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [NO](https://open.spotify.com/album/6oxH1qmCv2rBjRvmG5SlhP) | 3:04 | 2023-08-11 |  |
+| [NO](https://open.spotify.com/track/41ISYYrvwGoG5i261zTOTJ) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H), [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [NO](https://open.spotify.com/album/6oxH1qmCv2rBjRvmG5SlhP) | 3:04 | 2023-08-11 | 2023-11-25 |
 | [No Es Tarde](https://open.spotify.com/track/3POg7duhY3fUIi0vJce5Cq) | [Vale Castillo](https://open.spotify.com/artist/3kQFg1b6dX3GfuQL58ANpF) | [No Es Tarde](https://open.spotify.com/album/3Kq5jEJvqx1Mwev62asIzB) | 2:36 | 2022-04-15 | 2022-12-24 |
 | [No hace falta nada](https://open.spotify.com/track/6Fo1epLQ8hWDg6lPRdA43D) | [Diego Adrian](https://open.spotify.com/artist/0fRW8ok5l05BHKpkNBDrxh), [Adrianigual](https://open.spotify.com/artist/1zPEKROH5M1RQz9wJinKPW) | [No hace falta nada](https://open.spotify.com/album/39Jhh7LhDJiJLqYG9K2kYv) | 3:28 | 2022-04-15 | 2022-07-29 |
 | [no hace falta saber](https://open.spotify.com/track/6lXq1bTonpEYQYSQ9IXI1Y) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [no hace falta saber](https://open.spotify.com/album/7okZw7sF6r7x5NNF2eMaxW) | 2:48 | 2023-06-23 |  |
@@ -412,7 +414,7 @@
 | [Un X100To](https://open.spotify.com/track/3qqpcNOdikbvhBHfuNmNv0) | [FrioLento](https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn) | [Un X100To](https://open.spotify.com/album/3qFH6xUlirc58HvKzoaQnU) | 2:47 | 2023-08-11 |  |
 | [Un Último Encuentro](https://open.spotify.com/track/7c4UxItuj8p1l6ZOhWSTMa) | [Lomberr](https://open.spotify.com/artist/0Tfp8FQQcN3bRpFI5J70Rz) | [Un Último Encuentro](https://open.spotify.com/album/5IikbrVGPIEv6tnCr2tO76) | 5:37 | 2022-04-15 | 2022-07-29 |
 | [Una Calma](https://open.spotify.com/track/5nQj5zdIaN4saUEfwMTUWF) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Una Calma](https://open.spotify.com/album/42hxDhsnYMq64qqGxL6nr1) | 4:31 | 2022-04-15 | 2022-11-29 |
-| [Una Mitad de Mí](https://open.spotify.com/track/38bIIeg1Dcjnry2PhkvPdo) | [Era de Oro](https://open.spotify.com/artist/78ZaNmvhhut7RJ2yNILLD7), [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [Una Mitad de Mí](https://open.spotify.com/album/5CqhXaK5UZoArCo1xMFhZ8) | 3:41 | 2023-01-27 |  |
+| [Una Mitad de Mí](https://open.spotify.com/track/38bIIeg1Dcjnry2PhkvPdo) | [Era de Oro](https://open.spotify.com/artist/78ZaNmvhhut7RJ2yNILLD7), [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [Una Mitad de Mí](https://open.spotify.com/album/5CqhXaK5UZoArCo1xMFhZ8) | 3:41 | 2023-01-27 | 2023-11-25 |
 | [VALOR](https://open.spotify.com/track/1pkGCeruFaTaIVsYrbw1f6) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [VALOR](https://open.spotify.com/album/7kOTGMgMDMkgIagREdKl9s) | 3:43 | 2023-11-17 |  |
 | [Vamos a Almorzar](https://open.spotify.com/track/1Exy9Y5em8PcfNIDs41nS5) | [Colombina Parra](https://open.spotify.com/artist/1s60AzQYm7kiHJJoqx7nDk) | [Flores Como Gato](https://open.spotify.com/album/2qQjsD0f7yHuRHoVj1LX4B) | 3:12 | 2022-04-15 | 2022-07-21 |
 | [Vaso de agua](https://open.spotify.com/track/1ZWArrmgFGakWumTH24Isn) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Vaso de agua](https://open.spotify.com/album/3J5DPUm1L0l2aW28N4K5Bh) | 3:42 | 2023-05-26 | 2023-07-07 |

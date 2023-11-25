@@ -1,12 +1,12 @@
 {
   "description": "Die Playlist, die dich f\u00fchlt. Cover: JBS, MilleniumKid",
-  "num_followers": 445850,
+  "num_followers": 446032,
   "original_name": "me right now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMGFhZmU0ZTc1NjU1Yjk0OWJhMmNhZWQ4Y2I1MDQ5YWVhNThmMWE5",
+  "snapshot_id": "MCwzYTcwNDQ2MTZiYmJmNzRlYjNjODBhMWEwOWRjYzVjNzgwYzM3ZjNk",
   "tracks": [
     {
       "added_at": "2023-11-23 23:00:00",
@@ -496,7 +496,7 @@
       "added_at": "2023-11-23 23:00:00",
       "album": {
         "name": "James Blake",
-        "url": "https://open.spotify.com/album/5PVKyMewYidIhvFGpiGeNW"
+        "url": "https://open.spotify.com/album/0jaT6ytnqXaQ0EhElQg9Zn"
       },
       "artists": [
         {
@@ -510,7 +510,7 @@
       ],
       "duration_ms": 224146,
       "name": "James Blake",
-      "url": "https://open.spotify.com/track/6wjiWdFdfcyZNikqjqb9vu"
+      "url": "https://open.spotify.com/track/2jjmmklmlTnS5WEYrL0MkN"
     },
     {
       "added_at": "2023-11-23 23:00:00",
@@ -650,6 +650,22 @@
         {
           "name": "01099",
           "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+        },
+        {
+          "name": "Dani",
+          "url": "https://open.spotify.com/artist/5lCJ034qFUkrWNFXUTxLVn"
+        },
+        {
+          "name": "Gustav",
+          "url": "https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC"
+        },
+        {
+          "name": "Paul",
+          "url": "https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg"
+        },
+        {
+          "name": "Zachi",
+          "url": "https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2"
         }
       ],
       "duration_ms": 152475,

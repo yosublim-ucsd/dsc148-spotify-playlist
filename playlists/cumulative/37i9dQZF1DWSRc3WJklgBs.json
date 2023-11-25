@@ -822,7 +822,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 154285,
       "name": "All I Own",
       "url": "https://open.spotify.com/track/50ePFYXFGh5AszAs7TJ3Sj"
@@ -3814,7 +3814,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 240000,
       "name": "Center of the World",
       "url": "https://open.spotify.com/track/36XWkGgDGY8rm3GFPChJZj"
@@ -12382,6 +12382,24 @@
       "duration_ms": 216393,
       "name": "Know You Better",
       "url": "https://open.spotify.com/track/5VrSVEkPSHpWOn3stPrGWE"
+    },
+    {
+      "album": {
+        "name": "Kratos (A Little Closer)",
+        "url": "https://open.spotify.com/album/5pFCMAphKik56FTRTgLgqh"
+      },
+      "artists": [
+        {
+          "name": "Alex LeMirage",
+          "url": "https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Kratos (A Little Closer)",
+      "url": "https://open.spotify.com/track/5xblvfji6HaQl7L4OwBMsm"
     },
     {
       "album": {
@@ -24042,6 +24060,24 @@
       "duration_ms": 238048,
       "name": "Wanderlust",
       "url": "https://open.spotify.com/track/4DRXA3mohweU9tE7VugYdp"
+    },
+    {
+      "album": {
+        "name": "Wanna Believe",
+        "url": "https://open.spotify.com/album/1M8XoqN9RxaTVvCjZuwq7r"
+      },
+      "artists": [
+        {
+          "name": "Babsy.",
+          "url": "https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Wanna Believe",
+      "url": "https://open.spotify.com/track/0MbpWJ5YBwyNJaUc757hu9"
     },
     {
       "album": {

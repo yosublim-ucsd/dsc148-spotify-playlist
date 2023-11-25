@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: SleepyThePrince.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,918 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,927 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 99 | [Sem Parar](https://open.spotify.com/track/7nSqmvOMgDzAhr7hkLx3gN) | [Vicente Augusto](https://open.spotify.com/artist/50bEMb8JJd2GxHQF1AoOV7), [Ary Rafeiro](https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO) | [Sem Parar](https://open.spotify.com/album/1UUgWYpo34wjGwSXGxZHIV) | 3:16 |
 | 100 | [Paparazzi](https://open.spotify.com/track/6p9WtxAiuqr5UsvuYLYu8A) | [Léo Stunna](https://open.spotify.com/artist/76G7MhrDdGsmuLceSWlXRG) | [O.P.O.R](https://open.spotify.com/album/42EAQbn7KhADLlkwpBSP0i) | 2:30 |
 
-Snapshot ID: `MCxkMzVjM2VjNjllMmU5OWRmMGNkY2Q1NjRhYWExOTFmMDZiMGJjYmJm`
+Snapshot ID: `MCw4ZjBlZWZkMzcyMWFjODgxZWQxNWRiMjhhZDBiZTc2YmFmMDU1OThl`

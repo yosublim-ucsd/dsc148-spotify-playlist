@@ -222,7 +222,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 199183,
       "name": "Amar No Es Poseer",
       "url": "https://open.spotify.com/track/3MhHgwjIvlWhg64zcwJlhx"
@@ -1256,7 +1256,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 225936,
       "name": "En A\u00f1os Luz",
       "url": "https://open.spotify.com/track/2HtmGWcpIJBgO8GVpjfbl2"
@@ -2705,6 +2705,24 @@
     },
     {
       "album": {
+        "name": "Para\u00edsos Artificiales en el Liceu de Barcelona (En directo)",
+        "url": "https://open.spotify.com/album/6R1S1fhBg5MdACuNPybjPU"
+      },
+      "artists": [
+        {
+          "name": "Dorian",
+          "url": "https://open.spotify.com/artist/6GoZ2axiSqX91WzMrvJfWk"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256437,
+      "name": "Para\u00edsos Artificiales en el Liceu de Barcelona - En directo",
+      "url": "https://open.spotify.com/track/5bNgYIEfOKjmW9LmTAOlii"
+    },
+    {
+      "album": {
         "name": "Pasajeros",
         "url": "https://open.spotify.com/album/2qNTQM3J2eoEfZlFMyb6WY"
       },
@@ -3474,6 +3492,24 @@
       "duration_ms": 175669,
       "name": "Tu Nombre",
       "url": "https://open.spotify.com/track/3mTDQM9PlZ3PJvROVjgwzq"
+    },
+    {
+      "album": {
+        "name": "Una Historia Sin Final",
+        "url": "https://open.spotify.com/album/00ZYICR61FOAcHsb9hK5l5"
+      },
+      "artists": [
+        {
+          "name": "Jay de la Cueva",
+          "url": "https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216586,
+      "name": "Una Historia Sin Final",
+      "url": "https://open.spotify.com/track/3OPy2J3WaJDKmkzAvV7Kbo"
     },
     {
       "album": {

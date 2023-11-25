@@ -2152,7 +2152,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 205980,
       "name": "BODY//TEMPLE",
       "url": "https://open.spotify.com/track/27JkJCQwvAxWOvGotwkiBp"
@@ -3374,7 +3374,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 215273,
       "name": "Come Back Stronger",
       "url": "https://open.spotify.com/track/5PlNqAEj4tSnSC2RR6ja5Z"
@@ -3663,6 +3663,24 @@
     },
     {
       "album": {
+        "name": "Cult Classic",
+        "url": "https://open.spotify.com/album/3vw9IZ3YV2T5bqYTYG0IXr"
+      },
+      "artists": [
+        {
+          "name": "Holy Wars",
+          "url": "https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198123,
+      "name": "CULT CLASSIC",
+      "url": "https://open.spotify.com/track/7hgIaQykdol1sWnj1uqBup"
+    },
+    {
+      "album": {
         "name": "Ego Trip",
         "url": "https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ"
       },
@@ -3780,6 +3798,24 @@
       "duration_ms": 198644,
       "name": "D34D",
       "url": "https://open.spotify.com/track/4kOvk302uELcb6SGt0tAAP"
+    },
+    {
+      "album": {
+        "name": "D4MAGE DONE",
+        "url": "https://open.spotify.com/album/0aLZoFfNBXhbJf7W75grCN"
+      },
+      "artists": [
+        {
+          "name": "I See Stars",
+          "url": "https://open.spotify.com/artist/3iCJOi5YKh247eutgCyLFe"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195133,
+      "name": "D4MAGE DONE",
+      "url": "https://open.spotify.com/track/7BnK1opiLlkxkBQ0TVKRYw"
     },
     {
       "album": {
@@ -7966,7 +8002,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 178207,
       "name": "Hyperactive",
       "url": "https://open.spotify.com/track/1er58pTJbvjLsBG0bWTo6K"
@@ -13814,7 +13850,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 207602,
       "name": "Salt (feat. Dayseeker)",
       "url": "https://open.spotify.com/track/4giP4hSHWfO7LfvlG50Z44"
@@ -16284,7 +16320,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 244597,
       "name": "The Dirt I'm Buried In",
       "url": "https://open.spotify.com/track/4OjAxkNVwleUdCUS098eBw"
@@ -17878,7 +17914,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 237055,
       "name": "Viper Room",
       "url": "https://open.spotify.com/track/4h7cu0LWpvr2sOhBWWsNkJ"
@@ -19056,7 +19092,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 219947,
       "name": "Witch",
       "url": "https://open.spotify.com/track/5MSdmihYEiWhtegR9Ji6mA"

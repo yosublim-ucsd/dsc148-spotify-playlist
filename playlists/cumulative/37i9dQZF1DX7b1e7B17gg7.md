@@ -4,7 +4,7 @@
 
 > Soft instrumental Blues for any activity.
 
-87 songs - 6 hr 6 min
+89 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,12 +55,13 @@
 | [Inland Empire](https://open.spotify.com/track/0bFDDU8ETywjcjKAHRsWDH) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Winter Is For Lovers](https://open.spotify.com/album/2jRFS663e7VPtA64depQBV) | 3:26 | 2022-11-30 |  |
 | [It's a Rough Ride We're On](https://open.spotify.com/track/4b3axSuUQYp1I0Yfg5HKEV) | [Berdon Kirksaether & the Twang Bar Kings](https://open.spotify.com/artist/7kKITC8LNIVa12gLPgEMqR) | [Blues \(Remastered\)](https://open.spotify.com/album/05w7jAECBOIsITCBBAxeeX) | 3:30 | 2022-11-30 |  |
 | [Laika's Song](https://open.spotify.com/track/4t32sZg7Cz1yTrIxHqV7Hy) | [Gwenifer Raymond](https://open.spotify.com/artist/2scavaz2jGMWRFULHoe5je) | [You Never Were Much of a Dancer](https://open.spotify.com/album/00hAIOxKP2p7ZIesC5oz2M) | 1:48 | 2023-02-24 | 2023-08-24 |
-| [Lenny](https://open.spotify.com/track/0h4jHdNzUrV9eGR2PT5R8c) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Texas Flood \(Legacy Edition\)](https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ) | 4:57 | 2023-01-03 |  |
+| [Lenny](https://open.spotify.com/track/0h4jHdNzUrV9eGR2PT5R8c) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Texas Flood \(Legacy Edition\)](https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ) | 4:57 | 2023-01-03 | 2023-11-25 |
 | [Linda](https://open.spotify.com/track/12psIyrsp6DXHqzkkweac1) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Like It When It Rains](https://open.spotify.com/album/3ByQx4sjHeotnf7aOoKdGD) | 4:53 | 2022-11-30 | 2023-08-24 |
 | [Little Brother \- Instrumental](https://open.spotify.com/track/5M5Koy1MEDGQ081SivilWW) | [Mr\. B](https://open.spotify.com/artist/0P5frht0A8pd2wsVtc2kMK), [J.C\. Heard](https://open.spotify.com/artist/7kCD8Z9gH6ifP16a5H7H4N) | [Shining The Pearls](https://open.spotify.com/album/3CmrFsbuOW5c8CG1olr1Kc) | 4:23 | 2022-11-30 |  |
 | [Love, Lost and Found](https://open.spotify.com/track/47TygRahZHyLO99AjznZfb) | [Mel Brown](https://open.spotify.com/artist/2ncZrdRpyOoLiAFzgrkXvZ) | [Love, Lost and Found](https://open.spotify.com/album/07hE2feivwgHnjpfGkdWlY) | 5:42 | 2022-11-30 |  |
 | [Marlin Blue](https://open.spotify.com/track/7qoMhUsMR9kUJlWCYZQ65C) | [Jeremy Spencer](https://open.spotify.com/artist/3GrqVz7V3Hd8gvfvUcR9wk) | [Boundless](https://open.spotify.com/album/2FRcVl2T3Hl4dYyJh1VBmJ) | 2:46 | 2022-11-30 |  |
 | [Mellow Blues Pt.1](https://open.spotify.com/track/73cT6WgSDYZ7IH6GM3zV0E) | [Sonny Thompson & Lula Reed](https://open.spotify.com/artist/2fmQwLfdowskywLBhgpqoT) | [The Very Best of Sonny Thompson](https://open.spotify.com/album/6IGo1HrijUDT2vYrrtVAeJ) | 2:43 | 2022-11-30 | 2023-08-24 |
+| [Mid Week Blues](https://open.spotify.com/track/5RHLpB33y8GxEufsoPARQr) | [Kyra](https://open.spotify.com/artist/60wyxXFd0zi9xeX1AC4mkf) | [Mid Week Blues](https://open.spotify.com/album/2ug59lvY897e5DcDggSif8) | 3:35 | 2023-11-24 |  |
 | [Mojo Blues](https://open.spotify.com/track/1QdEiSoPTpZv5oktIRAbSZ) | [Terry Johnson](https://open.spotify.com/artist/7DWOTQc5g2G2zbd6SaXej7) | [Terry Mojo Johnson, Vol\. 2](https://open.spotify.com/album/0dx2z2A8kweCRK3etpg5GK) | 3:12 | 2022-11-30 |  |
 | [Mr\. B.](https://open.spotify.com/track/3AuSpsrM5g5XHqC8LTIMuE) | [Tomislav Goluban](https://open.spotify.com/artist/6q3mDdArQz0RwXGYZPRJJN), [Boško Petrović](https://open.spotify.com/artist/2GGvRFBST0G71PsDnFNOrA) | [Mr\. B.](https://open.spotify.com/album/02dBZeFlgUrHhUNNZMSCOs) | 6:45 | 2023-02-24 |  |
 | [No Entry Blues](https://open.spotify.com/track/7hxz3zPoriVdciNiWA6QDY) | [Errol Linton](https://open.spotify.com/artist/5HNpXzOeP7gbZgqCkxYfaW) | [No Entry](https://open.spotify.com/album/54Q3cyvgB0PlWf3ML7v3rD) | 4:14 | 2023-02-24 |  |
@@ -74,6 +75,7 @@
 | [Rigo's Blues](https://open.spotify.com/track/5Zrlbo3PDGziGvAUccOozk) | [Tom Rigney](https://open.spotify.com/artist/3slWYiAVBZ82CDexfn4IK4) | [Back Porch Blues](https://open.spotify.com/album/4OeXjIOg8ResXnVKTleUSi) | 4:18 | 2022-11-30 |  |
 | [Roads](https://open.spotify.com/track/7JZJ84ZmMhrUNw3eQNgUxN) | [Lior Holzman](https://open.spotify.com/artist/4FKgykI3l7fUUayQm9He3O) | [Roads](https://open.spotify.com/album/5EyvVzoYsNcZnFa2wPyFNz) | 3:15 | 2023-02-17 |  |
 | [Run through the mountains](https://open.spotify.com/track/2J8XXy0ds8g4wpEe5PmHfN) | [Gary O'Slide](https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf) | [Vagabond](https://open.spotify.com/album/7JhTlHuk4lt3ylNQMIDAY4) | 1:50 | 2023-03-03 | 2023-08-24 |
+| [Sandu](https://open.spotify.com/track/5h0YCcpbhZwJpX9j5Lkdvp) | [Fred Hayes](https://open.spotify.com/artist/62p6oXKfOk0e0tLh9uO94a) | [Sandu](https://open.spotify.com/album/0iq7F94ZjDD5sfnlfDAhue) | 2:34 | 2023-11-24 |  |
 | [Sandu](https://open.spotify.com/track/3djatpF3E3vAj05vQX3Jxv) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [Sandu](https://open.spotify.com/album/1gKmNF6qPfsSWFldrDr2MK) | 2:38 | 2023-10-13 |  |
 | [Sittin on Top of the World](https://open.spotify.com/track/7G234VgTRaXpiX9GnsZvdK) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Like It When It Rains](https://open.spotify.com/album/3ByQx4sjHeotnf7aOoKdGD) | 4:53 | 2022-11-30 |  |
 | [Skyman](https://open.spotify.com/track/013yxuTbh3mfL0Qjtaykqj) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [The Broadcasters](https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH) | [Spread The Love](https://open.spotify.com/album/5tV9K29GLvCGljAybCSVht) | 8:19 | 2022-11-30 | 2023-08-24 |

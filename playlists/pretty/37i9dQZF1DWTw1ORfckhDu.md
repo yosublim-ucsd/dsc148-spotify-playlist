@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa TIPPA ja Kube.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,310 likes - 60 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,349 likes - 60 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 59 | [Liikkuu Juttuu](https://open.spotify.com/track/7sQkF23GZt3EJYJflV8xVO) | [Jere](https://open.spotify.com/artist/3Oxf4EUF3hcY3qpqd5W04o) | [Liikkuu Juttuu](https://open.spotify.com/album/3PwvlZoFtHVCnFYTikVl36) | 3:03 |
 | 60 | [Oikotiet](https://open.spotify.com/track/1HFqG5KbdKJADAgFGa7cNK) | [Tuomas Kauhanen](https://open.spotify.com/artist/61ZSrIBRin3VT35hbvS5UE) | [Oikotiet](https://open.spotify.com/album/0IEJ4c8rIL16GtDMCMwLj0) | 2:24 |
 
-Snapshot ID: `MCxjYzVkZjljZGIzYmJkODNjOTc2Nzk5M2U2M2I5Y2EyYjkyYTk2NjEz`
+Snapshot ID: `MCw3NjJmNTQzNWEzYjZmNjEzYmE1ZmY5MjE5ZDk0YTA1YmMxYzVjNGNj`

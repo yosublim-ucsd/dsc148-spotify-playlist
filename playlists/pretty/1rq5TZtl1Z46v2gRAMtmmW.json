@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 28775,
+  "num_followers": 28781,
   "original_name": "Ninja Tune - New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzUzMiw0OTcwMjQyY2M1ODJhMjExODlkOTJhYWY4OGJmYWEwYzFhYjU3OTI5",
+  "snapshot_id": "MzUzOCxlYmY0YWZkYWMyOTAyZmI2MTViZjZmYjMxMTk4MzFkODk1YTM4ODdl",
   "tracks": [
     {
       "added_at": "2023-11-10 14:45:24",
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/0cLufjoaDFrrLnNWH0fMvd"
     },
     {
-      "added_at": "2023-11-03 15:42:11",
+      "added_at": "2023-11-24 11:41:31",
       "album": {
         "name": "Reworks: Vol2",
         "url": "https://open.spotify.com/album/3mPD0KqR6ACKk1IUt2jJE3"
@@ -68,13 +68,13 @@
           "url": "https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu"
         },
         {
-          "name": "KMRU",
-          "url": "https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a"
+          "name": "Ishmael Ensemble",
+          "url": "https://open.spotify.com/artist/6LiMIy9kwdQAfMrBInyUvY"
         }
       ],
-      "duration_ms": 209500,
-      "name": "Ancestral Future Now - KMRU Rework",
-      "url": "https://open.spotify.com/track/53o9V6ERr9euyGcX9uZDoF"
+      "duration_ms": 283200,
+      "name": "Invisible Forces - Ishmael Ensemble Remix",
+      "url": "https://open.spotify.com/track/2Q3gB3xpEyClhoAYNEl2PA"
     },
     {
       "added_at": "2023-10-27 16:06:15",
@@ -139,6 +139,26 @@
       "duration_ms": 207840,
       "name": "Satisfy You",
       "url": "https://open.spotify.com/track/5kEw87BEeUlM4Y3z7e31wq"
+    },
+    {
+      "added_at": "2023-11-24 11:41:28",
+      "album": {
+        "name": "Reworks: Vol2",
+        "url": "https://open.spotify.com/album/3mPD0KqR6ACKk1IUt2jJE3"
+      },
+      "artists": [
+        {
+          "name": "James Heather",
+          "url": "https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu"
+        },
+        {
+          "name": "Nailah Hunter",
+          "url": "https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF"
+        }
+      ],
+      "duration_ms": 230500,
+      "name": "Oizys - Nailah Hunter Rework",
+      "url": "https://open.spotify.com/track/5DcscpafyYnOPyOZFzH55k"
     },
     {
       "added_at": "2023-10-20 13:46:42",
@@ -511,34 +531,6 @@
       "duration_ms": 436484,
       "name": "You Knew",
       "url": "https://open.spotify.com/track/3tYTLCvnS63hpobSK3tRsR"
-    },
-    {
-      "added_at": "2023-08-11 09:58:46",
-      "album": {
-        "name": "Hidden Angel (Hackney Road Studio Session)",
-        "url": "https://open.spotify.com/album/2ho48nKrT5MmDd45bGNssX"
-      },
-      "artists": [
-        {
-          "name": "James Heather",
-          "url": "https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu"
-        },
-        {
-          "name": "Roger Robinson",
-          "url": "https://open.spotify.com/artist/7aTVcGnRT0kjTwWKjTU3xR"
-        },
-        {
-          "name": "Penelope Trappes",
-          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
-        },
-        {
-          "name": "Specimens",
-          "url": "https://open.spotify.com/artist/32sLVQDV5zUAFxNkj0i7ld"
-        }
-      ],
-      "duration_ms": 257414,
-      "name": "Hidden Angel - Hackney Road Studio Session",
-      "url": "https://open.spotify.com/track/4VkylJXzgZjeNHksy0ANIE"
     },
     {
       "added_at": "2023-07-12 16:04:46",

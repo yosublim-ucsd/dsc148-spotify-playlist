@@ -4,7 +4,7 @@
 
 > Let the hum of calming white noise box fans lull you to sleep.
 
-149 songs - 6 hr 39 min
+150 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Box Fan Zen: Gentle Whispers of Slumber](https://open.spotify.com/track/3u6HW07foQfzEzSm57P3Nk) | [HQ\-10](https://open.spotify.com/artist/5BntICoXdAWEKAI8q4KGk5) | [Sleepscape Symphony: Box Fan's Lullabies for Sleep](https://open.spotify.com/album/1fi8jhn5t0HMOcOSKpQG01) | 2:15 | 2023-07-06 |  |
 | [Bright Fan \(Filtered 1.8khz\)](https://open.spotify.com/track/2uPX2NkfAviPxVdjq8Ktcj) | [JBE Noise Factory](https://open.spotify.com/artist/42f8Y2VsCZeUEdkbWxQejb) | [Fan Sounds Vol\. 1](https://open.spotify.com/album/0YEkPZ64ji8bJpu2ceIQce) | 2:38 | 2023-05-25 |  |
 | [Broken Bedroom Fan](https://open.spotify.com/track/1YyJRtFjLbxDKSwkT4oZTN) | [No Placebo](https://open.spotify.com/artist/6PfMowhcQPSNiPw4Fag26i) | [Broken Bedroom Fan](https://open.spotify.com/album/7zPFLeFTAZ8J3tV1wIf51J) | 2:36 | 2023-05-25 |  |
-| [Brown Fan Noise](https://open.spotify.com/track/30C07kifcrut0Lz0x5yJkg) | [MKG Sound Library](https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN) | [Fan Noise](https://open.spotify.com/album/6xbIBXN9DVYNaqAYk1tCMH) | 2:26 | 2023-05-25 |  |
+| [Brown Fan Noise](https://open.spotify.com/track/30C07kifcrut0Lz0x5yJkg) | [MKG Sound Library](https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN) | [Fan Noise](https://open.spotify.com/album/6xbIBXN9DVYNaqAYk1tCMH) | 2:26 | 2023-05-25 | 2023-11-25 |
 | [Brown Noise Box Fan](https://open.spotify.com/track/63zxOjVo4jnzSiV7fDg0l4) | [Robins Sound](https://open.spotify.com/artist/7kWBfpJPJPpsFTsCD6C5Pv) | [Brown Noise Box Fan](https://open.spotify.com/album/4F8Di8CAvS2VDpGHtjvUsP) | 2:14 | 2023-08-15 |  |
 | [Calm Fan](https://open.spotify.com/track/48FISy9hmvqREbJh6sdpSI) | [Home Sounds](https://open.spotify.com/artist/7wYCOLJRTwlaS5jgf9rCiI) | [Calming Fan Sounds](https://open.spotify.com/album/4n6bgMp0fNv2qfqeW6W3lL) | 2:48 | 2023-05-25 | 2023-10-20 |
 | [Calm Restful Box Fan Sounds](https://open.spotify.com/track/5Xwa50s98jHMvuK0Cgnmok) | [Emotional Support Fan](https://open.spotify.com/artist/6MmL3GAvpQHHIKryoi4eIf) | [Calm Restful Box Fan Sounds](https://open.spotify.com/album/5PnBXTlS3RMT2Ynjq6i4iC) | 3:09 | 2023-08-15 |  |
@@ -82,6 +82,7 @@
 | [Dreamy AC Fan Sounds](https://open.spotify.com/track/3KENWEphynpCgEnX3kXk6h) | [ASMR HOME](https://open.spotify.com/artist/5egbo4BefQDLFi0EvqDJyM) | [Bedroom Sleep Sounds](https://open.spotify.com/album/3ZdoATG0kV02f3EHvob9Cd) | 3:16 | 2023-05-25 |  |
 | [Drifting Air Vent](https://open.spotify.com/track/1xM18RpJ9Iex80uXZ4QyHs) | [Drowse Off](https://open.spotify.com/artist/318hciCz2MiTnD1Mgb0BBG) | [Air Circulator](https://open.spotify.com/album/3y6cbkSQKYq7FPB5wZ0MNZ) | 3:26 | 2023-06-22 | 2023-08-16 |
 | [Drowsing Fan](https://open.spotify.com/track/4rorNMIh6PEqMSTZLrKxbj) | [Erity](https://open.spotify.com/artist/252S10kCSN54mC9V1Q5xV6) | [Sleepy Winds](https://open.spotify.com/album/5ijg5JySc4tAxjJQtFdBv8) | 1:45 | 2023-05-25 | 2023-06-23 |
+| [Early Morning Fan](https://open.spotify.com/track/6wRFjbACI6Ikxmsm6kTXOE) | [MKG Sound Library](https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN) | [Early Morning Fan](https://open.spotify.com/album/2fcTnELHxs3srffnIpBRAR) | 2:26 | 2023-11-24 |  |
 | [Factory Aircon](https://open.spotify.com/track/5mZW7viWYiSEKYbvKoWvVU) | [The Right Noises](https://open.spotify.com/artist/68HmrxxSwi1z5OvNg7ufJQ) | [ASMR Enviroments](https://open.spotify.com/album/1zwU28wkpBKhCM32okzJ9a) | 1:36 | 2023-05-25 | 2023-06-23 |
 | [Fan Brown Noise](https://open.spotify.com/track/3y0HUv9745xLwVpxi1gUYG) | [Depth of Noise](https://open.spotify.com/artist/5fqU7hizLIOQ6FxU9BrlwH) | [Colorful Fan](https://open.spotify.com/album/31nJadrylksNbjllXnFEtw) | 2:36 | 2023-07-06 | 2023-08-16 |
 | [Fan of Fan](https://open.spotify.com/track/0LsoqN0ayMRrnOclvbRPDe) | [Robins Sound](https://open.spotify.com/artist/7kWBfpJPJPpsFTsCD6C5Pv) | [Fan of Fan](https://open.spotify.com/album/6Y9TL1Ih4eNP94aZSP2yLw) | 3:12 | 2023-07-06 |  |

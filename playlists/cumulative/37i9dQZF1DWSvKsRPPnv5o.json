@@ -2722,7 +2722,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 197800,
       "name": "Courtesy Of A Rich Nigga",
       "url": "https://open.spotify.com/track/0Wv28mbuNvGVRtRBbN1r5C"
@@ -4310,7 +4310,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 205185,
       "name": "Free My Mind",
       "url": "https://open.spotify.com/track/4kYOrgTRLZzKi8DcuwXfqM"
@@ -5071,6 +5071,24 @@
     },
     {
       "album": {
+        "name": "Doggystyle (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2QioUoh1jheynkUHP4XsCN"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141734,
+      "name": "Gz Up, Hoes Down",
+      "url": "https://open.spotify.com/track/0cCLG47Bxcj7GpCXmkKP5r"
+    },
+    {
+      "album": {
         "name": "Had To Make It",
         "url": "https://open.spotify.com/album/1PZpVsOgwl3RVlxNED29T8"
       },
@@ -5296,7 +5314,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 148031,
       "name": "Heat Warning",
       "url": "https://open.spotify.com/track/7kBe0MvuSawtc6DcL2zfdz"
@@ -6596,6 +6614,28 @@
       "duration_ms": 142336,
       "name": "LA",
       "url": "https://open.spotify.com/track/6JZu4re1SmhRxi4heaK0TH"
+    },
+    {
+      "album": {
+        "name": "Another Summer Night",
+        "url": "https://open.spotify.com/album/0LFRpZraGwxBcc0pypFDKy"
+      },
+      "artists": [
+        {
+          "name": "Kamaiyah",
+          "url": "https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO"
+        },
+        {
+          "name": "03 Greedo",
+          "url": "https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165957,
+      "name": "Lamborghini Dreams (feat. 03 Greedo)",
+      "url": "https://open.spotify.com/track/4oPLgP2Mkkpo5e7lU6OnN7"
     },
     {
       "album": {
@@ -8120,6 +8160,32 @@
       "duration_ms": 208620,
       "name": "Nasty",
       "url": "https://open.spotify.com/track/0WlotBaAKbCwFTRnrypGpu"
+    },
+    {
+      "album": {
+        "name": "Out The Way",
+        "url": "https://open.spotify.com/album/4Q6x7xl8C0Dfsays5iXumP"
+      },
+      "artists": [
+        {
+          "name": "Lil Maru",
+          "url": "https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L"
+        },
+        {
+          "name": "22gfay",
+          "url": "https://open.spotify.com/artist/6s42W36OZkRrPGbmrS8bOs"
+        },
+        {
+          "name": "Marvin Beats",
+          "url": "https://open.spotify.com/artist/2yGhMPZp5X4dW3dngyUaus"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161724,
+      "name": "Nasty 4 (with 22Gfay & Marvin Beats)",
+      "url": "https://open.spotify.com/track/0onnXdhVKdIkeewWQd5Mpv"
     },
     {
       "album": {
@@ -11440,6 +11506,28 @@
       "duration_ms": 186563,
       "name": "Tada (feat. Blxst)",
       "url": "https://open.spotify.com/track/6OG1hV6boTYr0GGU16NNnz"
+    },
+    {
+      "album": {
+        "name": "Another Summer Night",
+        "url": "https://open.spotify.com/album/0LFRpZraGwxBcc0pypFDKy"
+      },
+      "artists": [
+        {
+          "name": "Kamaiyah",
+          "url": "https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO"
+        },
+        {
+          "name": "Hott Boy Zay",
+          "url": "https://open.spotify.com/artist/3O7PsoS8yBCnx5Fe7BHQYc"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128103,
+      "name": "Take A Sip (feat. Hott Boy Zay)",
+      "url": "https://open.spotify.com/track/5AH0wCYthxjHaRlUjlZvoW"
     },
     {
       "album": {

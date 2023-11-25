@@ -283,6 +283,24 @@
     },
     {
       "album": {
+        "name": "Lo Mejor de R\u00e1faga",
+        "url": "https://open.spotify.com/album/328Ys1TcAr9CNAHcy9jf9N"
+      },
+      "artists": [
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213506,
+      "name": "Ag\u00fcita",
+      "url": "https://open.spotify.com/track/4AwjZri8DDFBQQnZZKeVBF"
+    },
+    {
+      "album": {
         "name": "Megamix",
         "url": "https://open.spotify.com/album/3Cbl0a3SPzkwd0537ju3WS"
       },
@@ -4578,7 +4596,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 207957,
       "name": "Que Ser\u00e1 de Ti",
       "url": "https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd"
@@ -5427,6 +5445,24 @@
     },
     {
       "album": {
+        "name": "Te Felicito",
+        "url": "https://open.spotify.com/album/6FjriXiFkFOWvcpFXDnuFT"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Master",
+          "url": "https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211488,
+      "name": "Te Felicito",
+      "url": "https://open.spotify.com/track/35ZHtz35yjq91UBqe7fTdk"
+    },
+    {
+      "album": {
         "name": "Te Hubieras Ido Antes",
         "url": "https://open.spotify.com/album/7AgB035l0VvxVvBAblr4gq"
       },
@@ -5590,7 +5626,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 191333,
       "name": "Tonta",
       "url": "https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU"

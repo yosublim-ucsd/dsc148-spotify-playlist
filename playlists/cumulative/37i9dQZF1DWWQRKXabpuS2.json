@@ -1300,7 +1300,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 296525,
       "name": "El Omor Mara",
       "url": "https://open.spotify.com/track/38uIJpJ96aL5yMijoGwEtC"
@@ -4248,6 +4248,24 @@
       "duration_ms": 323376,
       "name": "\u0627\u0644\u0639\u062c\u0628 \u0641\u064a \u0627\u0644\u0647\u0648\u0649",
       "url": "https://open.spotify.com/track/7xj5Biz8I1trcgVq57jzhk"
+    },
+    {
+      "album": {
+        "name": "\u0627\u0644\u0639\u0645\u0631 \u0645\u0631\u0647",
+        "url": "https://open.spotify.com/album/7iheqelPa0NoHhuNDTbsuf"
+      },
+      "artists": [
+        {
+          "name": "Talal Salamah",
+          "url": "https://open.spotify.com/artist/2yisgYUsuIfLHOcuCnbNu0"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296525,
+      "name": "\u0627\u0644\u0639\u0645\u0631 \u0645\u0631\u0647",
+      "url": "https://open.spotify.com/track/0Sy22uAj6TAgeMaBYsZoA8"
     },
     {
       "album": {

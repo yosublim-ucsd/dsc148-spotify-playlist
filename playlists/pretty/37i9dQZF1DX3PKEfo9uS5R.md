@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 
 > Chill house tracks to power your pilates session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,597 likes - 86 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,639 likes - 86 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,10 +31,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 | 21 | [Inside](https://open.spotify.com/track/266AcipKTXIgXJxre9q96l) | [Karl Spark](https://open.spotify.com/artist/1fT4bjnaK1NRVL2Kt62clf) | [Eternity](https://open.spotify.com/album/1hao8mc9TnqAnw0CxneHYN) | 2:38 |
 | 22 | [Passion Dance](https://open.spotify.com/track/1pYGDlPoRvrV5wSUjDdAEW) | [Beechy Hayze](https://open.spotify.com/artist/0ayMvt8eo6a2HQwnu2q9Mi) | [Passion Dance](https://open.spotify.com/album/500ExojY2lcDHP6GGvrelw) | 3:38 |
 | 23 | [Mar y Sol](https://open.spotify.com/track/7ET0GAyYAy35LEZJnFwFEa) | [Teide Garcia](https://open.spotify.com/artist/451rSCehp88cqkjv6QQLha) | [Mar y Sol](https://open.spotify.com/album/2zRJG1SeLJ2LzyULzKyUPj) | 3:28 |
-| 24 | [Sphinx](https://open.spotify.com/track/5yxbR0xFLPYD1Rwcpue0L9) | [Lui](https://open.spotify.com/artist/0Rk4M5J8WUbwga9BIXQyZA) | [Sphinx](https://open.spotify.com/album/7BkPWJsOkhwGgSU4cU0FtP) | 3:14 |
-| 25 | [drift](https://open.spotify.com/track/15bdg1OPg7Se0f5aIYWUxR) | [Sin & Logo](https://open.spotify.com/artist/4nEsyYc3Si04SYob0Grvau) | [drift](https://open.spotify.com/album/61s9uzgpln4l7n81lM0UIw) | 3:57 |
-| 26 | [joy love](https://open.spotify.com/track/6k7j89mjONxCj8FioP1cii) | [Goose Groovy](https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA) | [joy love](https://open.spotify.com/album/6G4Hf6evzUuupK4RQjGPQy) | 2:33 |
-| 27 | [Think im falling](https://open.spotify.com/track/3imE71iFvzkD6UUkYkDkDu) | [WingIt](https://open.spotify.com/artist/47DyyyhbkdgZhVnA6GSjpy) | [Island Bypass](https://open.spotify.com/album/1XxoGgi1KmVTJXtgDWQWW4) | 2:06 |
+| 24 | [drift](https://open.spotify.com/track/15bdg1OPg7Se0f5aIYWUxR) | [Sin & Logo](https://open.spotify.com/artist/4nEsyYc3Si04SYob0Grvau) | [drift](https://open.spotify.com/album/61s9uzgpln4l7n81lM0UIw) | 3:57 |
+| 25 | [joy love](https://open.spotify.com/track/6k7j89mjONxCj8FioP1cii) | [Goose Groovy](https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA) | [joy love](https://open.spotify.com/album/6G4Hf6evzUuupK4RQjGPQy) | 2:33 |
+| 26 | [Think im falling](https://open.spotify.com/track/3imE71iFvzkD6UUkYkDkDu) | [WingIt](https://open.spotify.com/artist/47DyyyhbkdgZhVnA6GSjpy) | [Island Bypass](https://open.spotify.com/album/1XxoGgi1KmVTJXtgDWQWW4) | 2:06 |
+| 27 | [SkyLine](https://open.spotify.com/track/6df4BhFdbN9GmbFcrjMKnn) | [Remy Bishop](https://open.spotify.com/artist/0wUt9Mhv62Ou9brQ1IpD3u) | [SkyLine](https://open.spotify.com/album/0QeUVy88a7MH1JkRnouLH0) | 2:12 |
 | 28 | [Really](https://open.spotify.com/track/1aApO1iwmZQxfwbFPbxy3I) | [Sleap Year](https://open.spotify.com/artist/3rHbl02YzcYLfkNurILXKH) | [Really](https://open.spotify.com/album/3slEFvvLdHdY87gYg8QHt2) | 2:05 |
 | 29 | [The House](https://open.spotify.com/track/2ButdsowcftDJQOYPeBes7) | [Suuunday](https://open.spotify.com/artist/1bBmR4RoeoRqkJgI7R8fAv) | [The House](https://open.spotify.com/album/7ekED2arGdfKQsg1Gqekiw) | 2:37 |
 | 30 | [Saharan Nights](https://open.spotify.com/track/2xzGTbiRdVuRGnLISbZuQ4) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [My Everything](https://open.spotify.com/album/6LibNk6jpDCze0Zb7Y8QLi) | 2:44 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 | 85 | [Gardient heaven](https://open.spotify.com/track/4O1CGcCUjJXow4oBHxMxTK) | [YAN KAL](https://open.spotify.com/artist/04735OZRCyYdkA5Cay4qkG) | [Gardient heaven](https://open.spotify.com/album/1WVwh0s7pzG0PXzvtRVVJ8) | 2:32 |
 | 86 | [The Good Ones](https://open.spotify.com/track/5l4L0T8QAFd3BYInKaurCn) | [Simon Hawking](https://open.spotify.com/artist/76o1itwHoGVElGCaKgeysV) | [Paradise](https://open.spotify.com/album/6PHcvL4SPEaSy1Ny818JnF) | 2:53 |
 
-Snapshot ID: `MCw0MGUyOTkxNDIzN2NiZWY0ZjVjZDc1MTNiZjFhMGMyODUwZTQ5ZmE3`
+Snapshot ID: `MCxlNWFkNzU4MDUzNDhkYWVmZjAwYzZlYjlkMTYzM2ZjNDVhODZiNDZj`

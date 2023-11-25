@@ -4,7 +4,7 @@
 
 > Desde la Sierra hasta el mar, Perú es una tierra de rimas y rap\. Foto: Jaze
 
-84 songs - 4 hr 56 min
+85 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Estoy Bien](https://open.spotify.com/track/42e8NZUQvgxiirRcVEjbOz) | [Miguel Guerrero](https://open.spotify.com/artist/0oLKZhIMEbx19AiEz2hTA6) | [A Veces Es Bueno Estar Triste](https://open.spotify.com/album/2AGlNJbOjLzn0o7wSEWegz) | 3:14 | 2022-08-26 |  |
 | [Familia, risas, amor](https://open.spotify.com/track/4HectIi9YhLtC8U0HBtTLH) | [Maraví](https://open.spotify.com/artist/7ywfcCHkPBdIZub9j62NBj) | [Familia, risas, amor](https://open.spotify.com/album/58v2AWLbuGNEUtCk0zjrjr) | 2:48 | 2022-08-26 |  |
 | [Felicidad](https://open.spotify.com/track/0mFTxc2cynulWEqV0Z7W7n) | [Terco92](https://open.spotify.com/artist/2KUtIRV7tG4q4uyzHSkOqT) | [Seriedad](https://open.spotify.com/album/5EZted154LBAvMVoPK6jqy) | 4:51 | 2022-08-26 |  |
-| [High](https://open.spotify.com/track/4zPNQ2SbdyFK1aGoKJw3BM) | [Nero Lvigi](https://open.spotify.com/artist/0qzSMS5kmApxk4mB8k1UBx), [M2H](https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi) | [High](https://open.spotify.com/album/1mmp0mqbtpmPqo5qKRTDJX) | 3:26 | 2022-08-26 |  |
+| [High](https://open.spotify.com/track/4zPNQ2SbdyFK1aGoKJw3BM) | [Nero Lvigi](https://open.spotify.com/artist/0qzSMS5kmApxk4mB8k1UBx), [M2H](https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi) | [High](https://open.spotify.com/album/1mmp0mqbtpmPqo5qKRTDJX) | 3:26 | 2022-08-26 | 2023-11-25 |
 | [Hábitos](https://open.spotify.com/track/2rAvcI0Gr7U5tjXDGBCMLR) | [Giru Mad Fleiva](https://open.spotify.com/artist/54nlY8whZk1ZWDsXG2Oqw5) | [Hábitos](https://open.spotify.com/album/09Piq8hsnuixVQvRDmderX) | 3:12 | 2022-08-26 |  |
 | [Ilumina](https://open.spotify.com/track/3PeSFeePzAa8ewb8Iki04U) | [Pedro Mo](https://open.spotify.com/artist/3SddrVrcgL6qbXhj8AkwTZ), [Heather Grey](https://open.spotify.com/artist/0NHdHKgWjJriXzzufBwSqE) | [Ilumina](https://open.spotify.com/album/3LDIDTYvffKOY18dYFXjzY) | 2:55 | 2022-08-26 |  |
 | [Kaykunapi](https://open.spotify.com/track/5GPMzrfc5U7kU7qCB0kzt2) | [Hip Hop Peruano Mas Na](https://open.spotify.com/artist/2Tr0mJ3E4bL4CqVb4lHoUH), [Liberato Kani](https://open.spotify.com/artist/36gANGyQxxQagGCqYlQnqb) | [Hip Hop Peruano Mas Na : Mixtape, Vol\. 2](https://open.spotify.com/album/2mFYlXBO09xr1f14S4XZUn) | 2:42 | 2023-04-21 |  |
@@ -68,6 +68,7 @@
 | [Pensándote](https://open.spotify.com/track/1K4MmbuBViyd8VBQ0t8DbV) | [M2H](https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI) | [Pensándote](https://open.spotify.com/album/4Cva4Z9dBDFpwgLuH9Zfnx) | 3:19 | 2022-08-26 |  |
 | [Plan A](https://open.spotify.com/track/3YHNQW3RnOJRo1ifGbQyW9) | [Temple Sour](https://open.spotify.com/artist/1s5qi7koTDNSvEC71Y3Jg3), [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [Plan A](https://open.spotify.com/album/2w79SS5PfcMgrk47WUDHk6) | 3:59 | 2022-08-26 |  |
 | [Posdata Mi Amor](https://open.spotify.com/track/1ztPOG5RIUXF8z0EFltFh6) | [Hip Hop Peruano Mas Na](https://open.spotify.com/artist/2Tr0mJ3E4bL4CqVb4lHoUH), [Terrateniente](https://open.spotify.com/artist/7tfiLDqUafEO9EUeqzjSHp) | [Sancocho](https://open.spotify.com/album/5vA3ugVT2dgoBszbpvrr75) | 3:03 | 2022-08-26 |  |
+| [Prohibido](https://open.spotify.com/track/0t1aa9a3LsT9dsRZIJEL8J) | [No Deal](https://open.spotify.com/artist/35dFa02f8Yg6eZJz5N3wMF), [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I), [Valeria](https://open.spotify.com/artist/2UjOBQK3HTHySKoYn12YKj) | [No Deal, No Drama](https://open.spotify.com/album/3Lwj2wWSBHJeHDbfzweBSz) | 3:09 | 2023-11-24 |  |
 | [Que Esperas De Mi](https://open.spotify.com/track/2PUtigNLIDllpP0RBcsbS3) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Yezzy Wallace](https://open.spotify.com/artist/4ne3MCOxiaIATbGCFQbyNk) | [Que Esperas De Mi](https://open.spotify.com/album/28AZGoAknURB9KTtyBMEto) | 3:33 | 2022-08-26 |  |
 | [Que Se Jodan](https://open.spotify.com/track/1BzgjrOrjBEd5GtJVFeRbD) | [Warrior Rapper School](https://open.spotify.com/artist/5BL81UunAE1uoEIIsxfvF8), [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo) | [Terapias](https://open.spotify.com/album/1zKXFyYjrWOEkpbdk3LoT9) | 3:33 | 2022-08-26 |  |
 | [Quizás](https://open.spotify.com/track/1gUlnrSpnJrsE4O1NH3kC3) | [Homiecidio Bando](https://open.spotify.com/artist/2ZouHtMqYZPZxkCdgxbX35) | [Los Que Son](https://open.spotify.com/album/2s1yM6C6jr14MBEiJCojzd) | 4:13 | 2022-08-26 |  |

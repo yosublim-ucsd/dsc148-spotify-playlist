@@ -9025,6 +9025,24 @@
     },
     {
       "album": {
+        "name": "Dear Insanity...",
+        "url": "https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204880,
+      "name": "Don't Go Insane",
+      "url": "https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg"
+    },
+    {
+      "album": {
         "name": "Don\u2019t Hate Me",
         "url": "https://open.spotify.com/album/5onmM2jMU1bod6ybbehqAq"
       },
@@ -9482,7 +9500,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 285173,
       "name": "Droit devant",
       "url": "https://open.spotify.com/track/0Ig3W1BxUeVZSVhsqEVyIa"
@@ -10198,7 +10216,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 248733,
       "name": "En berne",
       "url": "https://open.spotify.com/track/3GK7LlzP8ovFRt1QRViTd7"
@@ -14212,7 +14230,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-22",
+      "date_removed": null,
       "duration_ms": 153016,
       "name": "Hass Hass",
       "url": "https://open.spotify.com/track/72vuBPMhwFNlSYpTSf6fVD"
@@ -16788,7 +16806,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 247024,
       "name": "Ici-bas",
       "url": "https://open.spotify.com/track/0ylDKFr0R8Z4waaequfXux"
@@ -22942,7 +22960,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-16",
+      "date_removed": null,
       "duration_ms": 119015,
       "name": "Mmhmm",
       "url": "https://open.spotify.com/track/1nQaTUDJ7Rc4yOvZmg9Ozr"
@@ -32998,7 +33016,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 182346,
       "name": "Stick Season",
       "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
@@ -33986,7 +34004,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 165933,
       "name": "Tant qu'on aura de l'amour",
       "url": "https://open.spotify.com/track/1guIrh1itHNqNZsnwkWz08"
@@ -38206,6 +38224,28 @@
       "duration_ms": 227612,
       "name": "VVV",
       "url": "https://open.spotify.com/track/5XXAkqaDUHTVyBCuVBzCWF"
+    },
+    {
+      "album": {
+        "name": "VVV",
+        "url": "https://open.spotify.com/album/58qd4MXmdf6NlmxMDhOZVa"
+      },
+      "artists": [
+        {
+          "name": "mikeeysmind",
+          "url": "https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN"
+        },
+        {
+          "name": "Sanikwave",
+          "url": "https://open.spotify.com/artist/4vy5ZH1CnzEqaInvIUu4z1"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227612,
+      "name": "VVV",
+      "url": "https://open.spotify.com/track/71H5M1aGUJCEkjxinQWBW2"
     },
     {
       "album": {

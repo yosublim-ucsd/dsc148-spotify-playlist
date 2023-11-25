@@ -3413,6 +3413,24 @@
     },
     {
       "album": {
+        "name": "So Far Away",
+        "url": "https://open.spotify.com/album/0lXVZ5Qf46yARjeuHMCh5d"
+      },
+      "artists": [
+        {
+          "name": "Town Mountain",
+          "url": "https://open.spotify.com/artist/5cudslRGWg0GsXaN79Wifs"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221397,
+      "name": "So Far Away",
+      "url": "https://open.spotify.com/track/2nwVBqjV5HPLDPlmExAUML"
+    },
+    {
+      "album": {
         "name": "Some Might Say",
         "url": "https://open.spotify.com/album/3CUsbiuld57ptitcrvaNYn"
       },

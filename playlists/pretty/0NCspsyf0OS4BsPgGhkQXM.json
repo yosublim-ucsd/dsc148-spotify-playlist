@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2049256,
+  "num_followers": 2049366,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTQyNDQsZjM5NTkyZTIwZWFkZjNlZTkyOWQ1ZTVkMDNkMjg1NGVkODA0OTc4Mg==",
+  "snapshot_id": "MTQyNDksZjhlMjhmNWM1MjAwZjUzZGVjYTg5ZWY4MTJjNDg4ODEzODQ1NmI3ZQ==",
   "tracks": [
     {
       "added_at": "2023-09-06 04:03:55",
@@ -213,6 +213,22 @@
       "url": "https://open.spotify.com/track/5ZVujHtwnsqFJvLnqRSdch"
     },
     {
+      "added_at": "2023-11-24 17:23:20",
+      "album": {
+        "name": "Government Hooker",
+        "url": "https://open.spotify.com/album/4KniEeOj40mFwv6jnyzj6J"
+      },
+      "artists": [
+        {
+          "name": "Bread Beatz",
+          "url": "https://open.spotify.com/artist/6Bwo8WbpyBecVCrrKcAtuH"
+        }
+      ],
+      "duration_ms": 144990,
+      "name": "Government Hooker",
+      "url": "https://open.spotify.com/track/6luTWh6j0KQQ1OgYAgV8ke"
+    },
+    {
       "added_at": "2023-09-06 04:03:55",
       "album": {
         "name": "NOVA",
@@ -257,26 +273,6 @@
       "url": "https://open.spotify.com/track/03nVbs87Wv4nvL3YZrdy3n"
     },
     {
-      "added_at": "2023-10-12 15:39:11",
-      "album": {
-        "name": "Ghost Town",
-        "url": "https://open.spotify.com/album/4NT0EDiOqeIcyoomo56LSA"
-      },
-      "artists": [
-        {
-          "name": "VINAI",
-          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
-        },
-        {
-          "name": "John De Sohn",
-          "url": "https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm"
-        }
-      ],
-      "duration_ms": 155409,
-      "name": "Ghost Town",
-      "url": "https://open.spotify.com/track/4PPCWezfTaXfJxvJh3scND"
-    },
-    {
       "added_at": "2023-09-06 04:03:55",
       "album": {
         "name": "7-DS",
@@ -315,26 +311,6 @@
       "duration_ms": 131734,
       "name": "Saxobeat",
       "url": "https://open.spotify.com/track/0tFWKeOPbfDfR4l1x4eh3O"
-    },
-    {
-      "added_at": "2023-10-12 15:40:07",
-      "album": {
-        "name": "Stress You",
-        "url": "https://open.spotify.com/album/5D5ZXdcjvXx8tW4pMgeUaD"
-      },
-      "artists": [
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "SUPER-Hi",
-          "url": "https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE"
-        }
-      ],
-      "duration_ms": 156426,
-      "name": "Stress You",
-      "url": "https://open.spotify.com/track/5NvBcltC9SGWoo9GnIrkhn"
     },
     {
       "added_at": "2023-09-06 04:03:55",
@@ -1179,6 +1155,46 @@
       "duration_ms": 273802,
       "name": "Alone",
       "url": "https://open.spotify.com/track/3MEYFivt6bilQ9q9mFWZ4g"
+    },
+    {
+      "added_at": "2023-10-12 15:39:11",
+      "album": {
+        "name": "Ghost Town",
+        "url": "https://open.spotify.com/album/4NT0EDiOqeIcyoomo56LSA"
+      },
+      "artists": [
+        {
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+        },
+        {
+          "name": "John De Sohn",
+          "url": "https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm"
+        }
+      ],
+      "duration_ms": 155409,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/4PPCWezfTaXfJxvJh3scND"
+    },
+    {
+      "added_at": "2023-10-12 15:40:07",
+      "album": {
+        "name": "Stress You",
+        "url": "https://open.spotify.com/album/5D5ZXdcjvXx8tW4pMgeUaD"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "SUPER-Hi",
+          "url": "https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE"
+        }
+      ],
+      "duration_ms": 156426,
+      "name": "Stress You",
+      "url": "https://open.spotify.com/track/5NvBcltC9SGWoo9GnIrkhn"
     },
     {
       "added_at": "2023-10-20 11:51:10",
@@ -2212,7 +2228,7 @@
       },
       "artists": [
         {
-          "name": "LeKtriQue",
+          "name": "Lektrique",
           "url": "https://open.spotify.com/artist/2ZZE8SPVWBysGWL1pRDHEy"
         }
       ],

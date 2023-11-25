@@ -2,7 +2,7 @@
 
 ### [RNB X](https://open.spotify.com/playlist/37i9dQZF1DX4SBhb3fqCJd)
 
-> Where R&B lives\. Cover: Ari Lennox
+> Where R&B lives\. Cover: Chris Brown
 
 398 songs - 22 hr 35 min
 

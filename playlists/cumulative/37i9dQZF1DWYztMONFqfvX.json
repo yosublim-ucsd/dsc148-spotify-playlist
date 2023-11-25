@@ -542,11 +542,15 @@
         {
           "name": "Arijit Singh",
           "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
         }
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-28",
+      "date_removed": null,
       "duration_ms": 261702,
       "name": "Apna Bana Le",
       "url": "https://open.spotify.com/track/5bQ6oDLqvw8tywmnSmwEyL"
@@ -642,7 +646,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 376065,
       "name": "Bhool Jaa",
       "url": "https://open.spotify.com/track/1loeDOvAGVAdrQDGIJQzwV"
@@ -2778,7 +2782,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 305232,
       "name": "Tumhe Kitna Pyaar Karte (From \"Bawaal\")",
       "url": "https://open.spotify.com/track/03hJuEQpEQERrHpjcXKWzJ"
@@ -2804,6 +2808,32 @@
       "duration_ms": 187326,
       "name": "Tumhein Mohabbat",
       "url": "https://open.spotify.com/track/2TKBCWeVnjdyzOL4xgYLmo"
+    },
+    {
+      "album": {
+        "name": "Kesari (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3hdOKtAGjNOJckzjOrgTmN"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223999,
+      "name": "Ve Maahi",
+      "url": "https://open.spotify.com/track/276OSoX4vez6UtPF8TGWav"
     },
     {
       "album": {

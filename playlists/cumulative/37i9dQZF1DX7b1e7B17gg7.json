@@ -890,7 +890,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 297373,
       "name": "Lenny",
       "url": "https://open.spotify.com/track/0h4jHdNzUrV9eGR2PT5R8c"
@@ -988,6 +988,24 @@
       "duration_ms": 163040,
       "name": "Mellow Blues Pt.1",
       "url": "https://open.spotify.com/track/73cT6WgSDYZ7IH6GM3zV0E"
+    },
+    {
+      "album": {
+        "name": "Mid Week Blues",
+        "url": "https://open.spotify.com/album/2ug59lvY897e5DcDggSif8"
+      },
+      "artists": [
+        {
+          "name": "Kyra",
+          "url": "https://open.spotify.com/artist/60wyxXFd0zi9xeX1AC4mkf"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215067,
+      "name": "Mid Week Blues",
+      "url": "https://open.spotify.com/track/5RHLpB33y8GxEufsoPARQr"
     },
     {
       "album": {
@@ -1226,6 +1244,24 @@
       "duration_ms": 110385,
       "name": "Run through the mountains",
       "url": "https://open.spotify.com/track/2J8XXy0ds8g4wpEe5PmHfN"
+    },
+    {
+      "album": {
+        "name": "Sandu",
+        "url": "https://open.spotify.com/album/0iq7F94ZjDD5sfnlfDAhue"
+      },
+      "artists": [
+        {
+          "name": "Fred Hayes",
+          "url": "https://open.spotify.com/artist/62p6oXKfOk0e0tLh9uO94a"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154511,
+      "name": "Sandu",
+      "url": "https://open.spotify.com/track/5h0YCcpbhZwJpX9j5Lkdvp"
     },
     {
       "album": {

@@ -245,6 +245,28 @@
     },
     {
       "album": {
+        "name": "Alientos",
+        "url": "https://open.spotify.com/album/6hBvd81RW9NF5epZx07lfH"
+      },
+      "artists": [
+        {
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        },
+        {
+          "name": "Ghetto Kumb\u00e9",
+          "url": "https://open.spotify.com/artist/2e74MUhJZSeg2Goe2UUAj3"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283636,
+      "name": "Alientos",
+      "url": "https://open.spotify.com/track/0rWM6crTli6lBYVqRvH2oW"
+    },
+    {
+      "album": {
         "name": "Alma m\u00eda",
         "url": "https://open.spotify.com/album/46CtsbjvsgUoTTRaKI6l14"
       },
@@ -1302,7 +1324,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 173043,
       "name": "Desierto",
       "url": "https://open.spotify.com/track/4AaWrj0s8jwkrQZT41aMXM"
@@ -1702,7 +1724,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 196998,
       "name": "El Quemado",
       "url": "https://open.spotify.com/track/5W5S8hUx2LHauozu4zJMji"
@@ -1898,6 +1920,24 @@
       "duration_ms": 218626,
       "name": "Ghost Dance",
       "url": "https://open.spotify.com/track/4n7OorABBVfxTI7vId6WtK"
+    },
+    {
+      "album": {
+        "name": "Guajirando",
+        "url": "https://open.spotify.com/album/1DxR3oLTOIyq5UWLWg1yzP"
+      },
+      "artists": [
+        {
+          "name": "Mito y Comadre",
+          "url": "https://open.spotify.com/artist/4lVrLJoIiHaEL7E4Wrl04H"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238236,
+      "name": "Guajirando",
+      "url": "https://open.spotify.com/track/1SZumP0LYfgq6cVvxkYAPL"
     },
     {
       "album": {
@@ -2412,7 +2452,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 255583,
       "name": "La Selva",
       "url": "https://open.spotify.com/track/0MaWSRHVhv3JzskCafmwWm"
@@ -4350,6 +4390,28 @@
       "duration_ms": 226058,
       "name": "Sin control",
       "url": "https://open.spotify.com/track/4yNonlwveBYAglVu6lO4hw"
+    },
+    {
+      "album": {
+        "name": "Astra",
+        "url": "https://open.spotify.com/album/4OAUrKQYGBtbThIVRIAVQx"
+      },
+      "artists": [
+        {
+          "name": "Mit\u00fa",
+          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
+        },
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313198,
+      "name": "Sin Freno",
+      "url": "https://open.spotify.com/track/24drvQN3WTdQE2wzR37GAb"
     },
     {
       "album": {

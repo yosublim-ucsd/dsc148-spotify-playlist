@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Shanice Green
 
-251 songs - 14 hr 37 min
+252 songs - 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Blood Red River](https://open.spotify.com/track/616pu8ULCu4L2FTMXUxi6S) | [Rī Wolf](https://open.spotify.com/artist/1XDa8n7FHrWuRxvzZvmi7n), [Justin Johnson](https://open.spotify.com/artist/151RUyDTIDJM8gXwGJbv7z) | [Blood Red River](https://open.spotify.com/album/3RanJ97dq8CzpeJ2rIvlWz) | 3:54 | 2022-01-14 | 2023-08-19 |
 | [Blues Funky Like Dat](https://open.spotify.com/track/6ZRUSMo4fKCk7bLKhE31lJ) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Jontavious Willis](https://open.spotify.com/artist/73IlVk80PrVQlPW92IEv4r) | [Ridin'](https://open.spotify.com/album/1a6ae4VcrzwUEOCJ1lDZpq) | 3:25 | 2023-03-24 |  |
 | [Boom Boom](https://open.spotify.com/track/1tRztGP1nj2Vdn3wGaRtkq) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Jon](https://open.spotify.com/artist/2QJKrWBci7NRXIFDe1zo6p), [Bri Bryant](https://open.spotify.com/artist/3Ex7pM0HrUKWMuGoOJ0AnR) | [Boom Boom](https://open.spotify.com/album/1u48epo8DIoUdTxL5EfE3B) | 2:52 | 2021-02-05 | 2022-03-26 |
+| [BRIGHT LIGHTS](https://open.spotify.com/track/3OX5XAgqCftQYpIERxXFvE) | [Kuku](https://open.spotify.com/artist/0jsSBgwm0lKxe2zNfrSSoc), [Nicolas Giraud](https://open.spotify.com/artist/54HWkeX9BCjVS0rfEnlzie) | [BRIGHT LIGHTS](https://open.spotify.com/album/4FjIgyTYsZAdVQXbECbyu4) | 4:17 | 2023-11-24 |  |
 | [Bring on the Pain](https://open.spotify.com/track/5S5uBzMAWzzqwpqxoNnGqq) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM), [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Heart of Fire](https://open.spotify.com/album/1Vk2mDeiPytdF3RgwMeke0) | 3:54 | 2021-10-19 | 2023-04-25 |
 | [Broken & Blue \(feat\. Joe Bonamassa\)](https://open.spotify.com/track/6YhIOU8jVa14jqcyc6bCKf) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Real Gone](https://open.spotify.com/album/5Y3BKzJMHKfPlGb24weYXe) | 4:22 | 2023-03-24 |  |
 | [Bubble Shuffle](https://open.spotify.com/track/1MvvDwmlMMfLTGLBwUsWFG) | [Otis Wilkins](https://open.spotify.com/artist/6loAmVdFK5vPObIjS6e396), [Jake Lloyd](https://open.spotify.com/artist/2UYjCPGpaqvKlp1GNyScqL) | [Bubble Shuffle](https://open.spotify.com/album/27vZoFgL4DFLMSJTIW2HXT) | 2:37 | 2023-03-24 |  |
@@ -130,7 +131,7 @@
 | [Love One Another](https://open.spotify.com/track/64eBuqWRATkq4dtgMtzGq0) | [Tito Jackson](https://open.spotify.com/artist/1laENy18mrm9kaI9BJUbdP), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi), [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi), [Marlon Jackson](https://open.spotify.com/artist/5DG9htBpiEo5W6jUmYgbKF) | [Under Your Spell](https://open.spotify.com/album/18U447Ip4CM4yoQc26DJ1i) | 3:03 | 2021-07-09 | 2022-08-27 |
 | [Lover's Game](https://open.spotify.com/track/1SFK3eoJqXkmGvcfmdzWC1) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/0uQFwLloIMk8kEMh5yfbbz) | 2:49 | 2023-03-10 |  |
 | [Make a Move](https://open.spotify.com/track/4GOm5E75Wqq3e3SzlbsGvr) | [Foreign Affairs](https://open.spotify.com/artist/3lKfbaqRTWrGrrjwNG4dqR) | [Make a Move](https://open.spotify.com/album/2xx4wUH6WUi7JqAZORwSQZ) | 2:26 | 2021-07-26 | 2022-08-27 |
-| [Man in the Ground](https://open.spotify.com/track/58hIcKjEMwvTLGdEsdfRPf) | [Jack Barksdale](https://open.spotify.com/artist/0Xr86XoAGFGXZTAFjr3EMt) | [Man in the Ground](https://open.spotify.com/album/3pSMQQFLcjdQDasxNuGNEF) | 3:06 | 2022-02-18 |  |
+| [Man in the Ground](https://open.spotify.com/track/58hIcKjEMwvTLGdEsdfRPf) | [Jack Barksdale](https://open.spotify.com/artist/0Xr86XoAGFGXZTAFjr3EMt) | [Man in the Ground](https://open.spotify.com/album/3pSMQQFLcjdQDasxNuGNEF) | 3:06 | 2022-02-18 | 2023-11-25 |
 | [Mansplaining](https://open.spotify.com/track/5Tm0VqSqqqNwZUVQuwVbkG) | [Suzy Jones](https://open.spotify.com/artist/09LV3PoRCBuphbxYFEx8eh) | [Mansplaining](https://open.spotify.com/album/3yLVnS35HeOSWjOvpeIGci) | 4:01 | 2023-02-24 |  |
 | [Marinate \(feat\. Eric Debonair McNair\)](https://open.spotify.com/track/0ZQFl5jbiOlMVd9LJ1hOjB) | [Davis Chris](https://open.spotify.com/artist/22pJFdsUssxfZ6RB6NPztj), [Mr Foster](https://open.spotify.com/artist/3A0mmSV3bOnB4vCgtFVntm), [Eric Debonair McNair](https://open.spotify.com/artist/1eXugyduNLx3cD5MVHWzkz) | [Wings and Blue Cheese](https://open.spotify.com/album/6SVJvFoVij5TG39JhWkoBA) | 2:49 | 2021-02-05 | 2022-03-26 |
 | [Mermentau Bridge](https://open.spotify.com/track/0fYkNpOMsXzSARMvUN2QdC) | [Rod Gator](https://open.spotify.com/artist/2ujFQDji7S3dy974xmgQoM) | [For Louisiana](https://open.spotify.com/album/3U5PnRc797Sof0LD6NgWkC) | 3:36 | 2021-09-17 | 2023-05-20 |

@@ -2,9 +2,9 @@
 
 ### [Dancehall Official](https://open.spotify.com/playlist/37i9dQZF1DXan38dNVDdl4)
 
-> The biggest Dancehall playlist in the world\. Cover: Masicka
+> The biggest Dancehall playlist in the world\. Cover: Buju Banton
 
-413 songs - 20 hr 33 min
+417 songs - 20 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Click Mi Finger](https://open.spotify.com/track/2gUCdANxjdifegHVvt9BVC) | [Erup](https://open.spotify.com/artist/06u187az5ps4QsoZHMN8DJ) | [First Semester: Dancehall](https://open.spotify.com/album/6dMkzA6Tv5vyMCjbW3ccdx) | 2:38 | 2023-07-10 | 2023-08-08 |
 | [Clutcha](https://open.spotify.com/track/0L1lplbv7MBRszw5gHu0qx) | [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR), [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C), [Northside Media](https://open.spotify.com/artist/6rh7bHX839FxEEXlxJApWB) | [Clutcha](https://open.spotify.com/album/6wnaC1YP7uoeDBMUT0mEVC) | 2:35 | 2021-12-20 | 2022-11-11 |
 | [Clutcha](https://open.spotify.com/track/0jHfKDP1LfRrEmazuothw6) | [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR), [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C), [Northside Media](https://open.spotify.com/artist/6rh7bHX839FxEEXlxJApWB) | [Clutcha](https://open.spotify.com/album/3an36gbtylm5YkyliMqGIK) | 2:35 | 2022-09-09 | 2023-02-01 |
+| [COCONUT WATA \(SIP\)](https://open.spotify.com/track/6ZNzOXz18cAPpWOehFINzo) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [COCONUT WATA \(SIP\)](https://open.spotify.com/album/3B8Uek8SQsTqZEdEjjWKWU) | 3:05 | 2023-11-24 |  |
 | [Coke](https://open.spotify.com/track/0OTbL9Oa4FDYuP7uMeA140) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Coke](https://open.spotify.com/album/6cV8ukJjYOPAsfBRvFdIkZ) | 2:55 | 2022-06-17 | 2023-02-01 |
 | [Coke](https://open.spotify.com/track/0d2fLvOnX6Odmv8RUz9QMc) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Coke](https://open.spotify.com/album/6XLQoAN43bJqjgJZ6uFit5) | 2:55 | 2021-12-20 | 2022-07-29 |
 | [Cold Streets](https://open.spotify.com/track/0bVFBDSBCtwimv7IsTZNnY) | [450](https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL), [Falconn](https://open.spotify.com/artist/4DEgH35qSaMQfi45LW6dD5) | [Cold Streets](https://open.spotify.com/album/1rTU2t9VKZOA5N26e4x3CG) | 3:43 | 2023-11-17 |  |
@@ -146,10 +147,12 @@
 | [Gal Policy](https://open.spotify.com/track/7yJG5oJwYfom8AVXDcgFLx) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Gal Policy](https://open.spotify.com/album/5x1BzHxHcnvjru9T9iA4R8) | 2:16 | 2021-12-20 | 2023-08-08 |
 | [Gangster Party](https://open.spotify.com/track/4QrJB0XivrCeKslDREK3OM) | [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w) | [Gangster Party](https://open.spotify.com/album/0EpF7doVnjZRbz83G8nRN4) | 3:02 | 2022-07-29 | 2022-09-10 |
 | [Ghetto Story](https://open.spotify.com/track/00bnP8RyknzZMkNlEAO2ih) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK) | [Ghetto Story \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/35NmvuGyzxJcHMCkh68v5y) | 4:11 | 2023-07-10 | 2023-08-08 |
+| [Ghost Gun](https://open.spotify.com/track/121GYG3wvHWHr1t0JyVupG) | [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w), [Ireland Boss](https://open.spotify.com/artist/3JoZVMSSVzYhhMQ5dthRuT) | [Ghost Gun](https://open.spotify.com/album/4JELyA9XB5flfY0f2l4nlz) | 2:44 | 2023-11-24 |  |
 | [Glock 40](https://open.spotify.com/track/5gbt4T7oUtLs2nkDfN0XvZ) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [Eclipse](https://open.spotify.com/artist/73UvMKMCMeorzSkeBi7PIM) | [Glock 40](https://open.spotify.com/album/7y62e7mFSyul2nTJE1swm7) | 2:16 | 2023-01-31 | 2023-06-17 |
 | [Glock 40](https://open.spotify.com/track/1CVaaz9RwS2UgWWAcleX42) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [Eclipse](https://open.spotify.com/artist/73UvMKMCMeorzSkeBi7PIM) | [Glock 40](https://open.spotify.com/album/6GUXVlDpDDNbRjtwfCKeYH) | 2:16 | 2023-05-17 | 2023-09-25 |
 | [Go Down Deh \(feat\. Shaggy and Sean Paul\)](https://open.spotify.com/track/0VzBKgimNRMauaqzT2rEnS) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Go Down Deh \(feat\. Shaggy and Sean Paul\)](https://open.spotify.com/album/7LtfkzsGno2TsHLCkEa8BD) | 2:34 | 2021-12-20 | 2023-07-11 |
 | [Go\-Go Club \- Raw](https://open.spotify.com/track/3DN6pjkh7qt29LHxmTgpIs) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Go\-Go Club Riddim](https://open.spotify.com/album/1RaksHAwQBc3peia1vL4K5) | 2:23 | 2023-07-10 | 2023-08-08 |
+| [Going On](https://open.spotify.com/track/2KU5gAH7edadilnAsBJEih) | [Skippa](https://open.spotify.com/artist/5EWUPUksGg8Gslp0xz7zbv), [Sulfa Ge](https://open.spotify.com/artist/02e5lJkZ0ZcAY3AexUXA8J) | [Going On](https://open.spotify.com/album/4DYzRVGtDAeTVDZJmuNfiB) | 3:24 | 2023-11-24 |  |
 | [Good Comfort](https://open.spotify.com/track/0Y2gj3rSBjtB13CsfOnSDF) | [DJ Frass](https://open.spotify.com/artist/0OV6SkCcoRHlz2uaCo0PG9), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Good Comfort](https://open.spotify.com/album/6RF60O8kXnv9Ik21vLEOem) | 2:14 | 2021-12-20 | 2022-03-05 |
 | [Good Feeling](https://open.spotify.com/track/5tqwkL3YOAGIfUHuaD7z01) | [Daddy1](https://open.spotify.com/artist/1KgNeTwbXBsI13ic0uGxNi), [Damage Musiq](https://open.spotify.com/artist/0sjTBvvHmLPJ3vcmAjitTJ) | [Good Feeling](https://open.spotify.com/album/24uvA5S694cXu1cgwENmXZ) | 2:36 | 2023-05-14 | 2023-07-11 |
 | [Good Hole](https://open.spotify.com/track/6r7WFrLtJ3i70kfHJYs3Mh) | [Lexxus](https://open.spotify.com/artist/6LCFuJlEO46XKJlT3ZguIa) | [Famine](https://open.spotify.com/album/0G6VV6THUWMvqfbBuU1dwk) | 3:19 | 2023-07-10 | 2023-08-08 |
@@ -314,6 +317,7 @@
 | [Shottaz](https://open.spotify.com/track/3b2M5gLUNCPDtcY8HE6jv6) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Kraff Gad](https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR) | [Shottaz](https://open.spotify.com/album/106weqr1J9aDUmPTCQU4Ka) | 2:29 | 2023-04-21 | 2023-07-11 |
 | [SIDUNG](https://open.spotify.com/track/7vuQEzDmZAGUkfFRDNd4OW) | [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2) | [SIDUNG](https://open.spotify.com/album/5xvkP892H4YG7N8JFIzg5v) | 2:25 | 2023-09-24 | 2023-11-18 |
 | [Silence](https://open.spotify.com/track/5Ea6VaQFplATEu2biAQdlB) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Forever](https://open.spotify.com/album/0xAUnt43o2FfxIpVFusIOq) | 3:35 | 2022-03-04 | 2023-07-11 |
+| [Silent Thoughts](https://open.spotify.com/track/0RYyPc6t3e0vm5fNHaJKUF) | [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w) | [Silent Thoughts](https://open.spotify.com/album/0ylYKHEQG5G02KIzIEUIkg) | 2:42 | 2023-11-24 |  |
 | [SINTRAP \(Giftcard\)](https://open.spotify.com/track/7EBrB8ZuJe9zYI5kW39WQn) | [Najeeriii](https://open.spotify.com/artist/2m6yzJ0whBggOhNgLskdLF) | [SIN TRAP \(Giftcard\)](https://open.spotify.com/album/1pYvUxE24u8KYnQCUdN3YV) | 2:57 | 2023-04-21 | 2023-07-11 |
 | [Sixteen](https://open.spotify.com/track/2HZphTYchmvBQL2ejpNSoq) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Sixteen](https://open.spotify.com/album/7haMIIfvSha0xeZjITr8po) | 2:53 | 2023-08-07 | 2023-09-25 |
 | [Skeleton Cartier](https://open.spotify.com/track/0ONJRBtjpdlfvyz1jJFHUp) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Skeleton Cartier](https://open.spotify.com/album/1Ei9rdh0ZaUuNjPpFpXwS9) | 3:41 | 2022-09-09 | 2023-01-30 |

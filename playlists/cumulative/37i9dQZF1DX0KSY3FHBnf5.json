@@ -524,10 +524,28 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 126779,
       "name": "Distorted Reflection",
       "url": "https://open.spotify.com/track/1BKy0j97r7k1d4zxBatcbr"
+    },
+    {
+      "album": {
+        "name": "Distorted Reflection",
+        "url": "https://open.spotify.com/album/4CySKexmDR7s1n2i9pcoza"
+      },
+      "artists": [
+        {
+          "name": "MrNotYet",
+          "url": "https://open.spotify.com/artist/4iCgLge4R9IC6xVrL4HFPB"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126779,
+      "name": "Distorted Reflection",
+      "url": "https://open.spotify.com/track/3dCN2xyenuKehKD6ePQ60Q"
     },
     {
       "album": {
@@ -789,6 +807,24 @@
     },
     {
       "album": {
+        "name": "endless time",
+        "url": "https://open.spotify.com/album/0SKPG2tHMeWzPiUmqziq7z"
+      },
+      "artists": [
+        {
+          "name": "L0WS",
+          "url": "https://open.spotify.com/artist/40Eeh79VT5l36HSPs4aUku"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149514,
+      "name": "endless time",
+      "url": "https://open.spotify.com/track/1eOpY9hSAJjyBFpeAFOQkU"
+    },
+    {
+      "album": {
         "name": "Enigma",
         "url": "https://open.spotify.com/album/6LJqBoX8XnhSwDfjakgVBR"
       },
@@ -822,6 +858,28 @@
       "duration_ms": 114857,
       "name": "Enigma",
       "url": "https://open.spotify.com/track/6sVsKes7vgD1XmNM3aAcDk"
+    },
+    {
+      "album": {
+        "name": "Lifeglow",
+        "url": "https://open.spotify.com/album/0Vi8OowBlaTJrzk7gTLJ3d"
+      },
+      "artists": [
+        {
+          "name": "\u00d8neheart",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        },
+        {
+          "name": "Antent",
+          "url": "https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125085,
+      "name": "erased",
+      "url": "https://open.spotify.com/track/6G9BrX4DAlIcVj61VSJgFS"
     },
     {
       "album": {
@@ -2478,6 +2536,24 @@
     {
       "album": {
         "name": "Sleeping City",
+        "url": "https://open.spotify.com/album/5oajsTE9QUeZsf2rDSkG8Y"
+      },
+      "artists": [
+        {
+          "name": "Kaeshani",
+          "url": "https://open.spotify.com/artist/3Vy5YImGBmHQKHXLT7pTBP"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129032,
+      "name": "Sleeping City",
+      "url": "https://open.spotify.com/track/56wqF57MDs5ou6lruLcfSJ"
+    },
+    {
+      "album": {
+        "name": "Sleeping City",
         "url": "https://open.spotify.com/album/1zXkXdCk2vmYNs9uYwRVF7"
       },
       "artists": [
@@ -2488,7 +2564,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 129032,
       "name": "Sleeping City",
       "url": "https://open.spotify.com/track/6unebrf4wJ1DLAk0fpIC8A"
@@ -2532,7 +2608,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 124065,
       "name": "snowfall",
       "url": "https://open.spotify.com/track/4xF4ZBGPZKxECeDFrqSAG4"
@@ -2626,7 +2702,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 121839,
       "name": "stay focus",
       "url": "https://open.spotify.com/track/6y9jBhUORN7JbPNe1FVfSG"
@@ -3054,7 +3130,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 164571,
       "name": "wishful thinking (Instrumental)",
       "url": "https://open.spotify.com/track/45PuAlvLsCrqtBkIiOvpvl"

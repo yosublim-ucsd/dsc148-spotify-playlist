@@ -445,6 +445,28 @@
     },
     {
       "album": {
+        "name": "Current Situation",
+        "url": "https://open.spotify.com/album/0387VwvQCdqqoxFyRSO23f"
+      },
+      "artists": [
+        {
+          "name": "Country Wizzy",
+          "url": "https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW"
+        },
+        {
+          "name": "Young Lunya",
+          "url": "https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229894,
+      "name": "Current Situation",
+      "url": "https://open.spotify.com/track/3LMUTCgud5RcUcer01ShUf"
+    },
+    {
+      "album": {
         "name": "Daddy Issues",
         "url": "https://open.spotify.com/album/0mW2ngUVUED2RLX1W0Nq14"
       },
@@ -1114,7 +1136,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 192000,
       "name": "Like That",
       "url": "https://open.spotify.com/track/77e741vkrVhgXSbfZvQx3L"
@@ -1426,7 +1448,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 211344,
       "name": "My confession",
       "url": "https://open.spotify.com/track/2BGpZQQHGekYN2wvfFcxyL"
@@ -2390,6 +2412,24 @@
       "duration_ms": 255432,
       "name": "Tunawaka",
       "url": "https://open.spotify.com/track/5410D9GERkTOPJtAiw1hHH"
+    },
+    {
+      "album": {
+        "name": "Underated",
+        "url": "https://open.spotify.com/album/3nzGGudeGMwFou9SswrfDU"
+      },
+      "artists": [
+        {
+          "name": "Stamina Shorwebwenzi",
+          "url": "https://open.spotify.com/artist/7vGp5tmuvQ5ku1Fh6d1UsV"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177293,
+      "name": "Underated",
+      "url": "https://open.spotify.com/track/7bd4QDW2jxqpV9oGN27xcJ"
     },
     {
       "album": {

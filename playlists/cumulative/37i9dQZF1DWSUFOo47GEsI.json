@@ -5791,6 +5791,24 @@
     },
     {
       "album": {
+        "name": "Tender",
+        "url": "https://open.spotify.com/album/2LhK1JRZO6K3y2s1PtAibB"
+      },
+      "artists": [
+        {
+          "name": "St/llar",
+          "url": "https://open.spotify.com/artist/1gfLjawL26XCWfHI8lyi5B"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183291,
+      "name": "Tender",
+      "url": "https://open.spotify.com/track/45OiJXLGZ6VpCfQ5aeHthU"
+    },
+    {
+      "album": {
         "name": "Tenderly",
         "url": "https://open.spotify.com/album/0A4WqcLZ5WDyVaA18Sngu4"
       },

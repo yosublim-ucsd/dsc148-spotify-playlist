@@ -1,35 +1,47 @@
 {
   "description": "Neighborhood Storytellers. Cover: Gunna",
-  "num_followers": 56558,
+  "num_followers": 56555,
   "original_name": "Street Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDQ4NjhkNDFhZDgxMzYzZjc4MDkwNDYzMjhmMzBjYzQ3Y2RkNTEz",
+  "snapshot_id": "MCxhN2I3ZjkwMzQ3OWNkNDNkMDM5MjZiNTUyNzVmMDQ3ZjYxNjNmNjBj",
   "tracks": [
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Nightmares In the Trenches",
-        "url": "https://open.spotify.com/album/3ZuNOvosbywUYTfgZc09tU"
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv"
       },
       "artists": [
         {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "Only The Family",
-          "url": "https://open.spotify.com/artist/3IaKn0ExWTMPqa0mscUYw3"
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
         }
       ],
-      "duration_ms": 181621,
-      "name": "Hood Said",
-      "url": "https://open.spotify.com/track/1ZxCe04CimoGGfz5LbSozY"
+      "duration_ms": 184006,
+      "name": "Love For A Thug",
+      "url": "https://open.spotify.com/track/694k4TfDqOqmhebj79li54"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "a Gift & a Curse",
+        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 184026,
+      "name": "alright",
+      "url": "https://open.spotify.com/track/4zivXJkUD87842VhywHGFn"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "When I Was Dead",
         "url": "https://open.spotify.com/album/65SsQtOf5Cd25fanX62XRR"
@@ -49,39 +61,27 @@
       "url": "https://open.spotify.com/track/53lr5OfKYB7MoYsHI5psrR"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "a Gift & a Curse",
-        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
+        "name": "Nightmares In the Trenches",
+        "url": "https://open.spotify.com/album/3ZuNOvosbywUYTfgZc09tU"
       },
       "artists": [
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 184026,
-      "name": "alright",
-      "url": "https://open.spotify.com/track/4zivXJkUD87842VhywHGFn"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv"
-      },
-      "artists": [
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
         {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+          "name": "Only The Family",
+          "url": "https://open.spotify.com/artist/3IaKn0ExWTMPqa0mscUYw3"
         }
       ],
-      "duration_ms": 184006,
-      "name": "Love For A Thug",
-      "url": "https://open.spotify.com/track/694k4TfDqOqmhebj79li54"
+      "duration_ms": 181621,
+      "name": "Hood Said",
+      "url": "https://open.spotify.com/track/1ZxCe04CimoGGfz5LbSozY"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "Decided 2",
         "url": "https://open.spotify.com/album/5kK8oDrnJr64xQhyaHFjtQ"
@@ -101,7 +101,51 @@
       "url": "https://open.spotify.com/track/7KeM63RotkWiGnHKkboz4t"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Been One",
+        "url": "https://open.spotify.com/album/69bYMgvQpIYHsNNDxDTQqa"
+      },
+      "artists": [
+        {
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+        },
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 286159,
+      "name": "Room Comfort (feat. Fridayy and Lil Durk)",
+      "url": "https://open.spotify.com/track/2pog8j1Dq6rzyWrkA3F6Zt"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "EL TORO 2",
+        "url": "https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 145317,
+      "name": "I THINK (FEAT. LIL BABY)",
+      "url": "https://open.spotify.com/track/4wYXfAEYdfKkOmtOE6c8Hx"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "Too Good To Be True",
         "url": "https://open.spotify.com/album/1jhGoiKDR41Qa2mzlveJFX"
@@ -129,7 +173,7 @@
       "url": "https://open.spotify.com/track/3Yz2rLkcpPZaJmz9QXH6IT"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv"
@@ -145,7 +189,7 @@
       "url": "https://open.spotify.com/track/2z2gqgwu1GCurpZJYzcytE"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "Dennis Daughter",
         "url": "https://open.spotify.com/album/6MhWcjVKMVa7QbIELyjaUe"
@@ -161,7 +205,27 @@
       "url": "https://open.spotify.com/track/2DsYCCFti7D3Kt3Dcr9EfC"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "All Night Long",
+        "url": "https://open.spotify.com/album/3WKSeXqTJkMAP8qFYAYSFR"
+      },
+      "artists": [
+        {
+          "name": "Bay Swag",
+          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 160120,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/3gw2cdej8K6EaLEzAgs4U0"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "FK Everybody",
         "url": "https://open.spotify.com/album/1rN9PgZ2jMbPikhdycTYbF"
@@ -177,7 +241,7 @@
       "url": "https://open.spotify.com/track/45YtAmvSaVvXfGEoRnIxK7"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "Right Here",
         "url": "https://open.spotify.com/album/4s0o2qrQSAm6j4ehyQ5AHr"
@@ -193,27 +257,7 @@
       "url": "https://open.spotify.com/track/0Xz83Aulqi02DwdamKn1pl"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "EL TORO 2",
-        "url": "https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 145317,
-      "name": "I THINK (FEAT. LIL BABY)",
-      "url": "https://open.spotify.com/track/4wYXfAEYdfKkOmtOE6c8Hx"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "WTF (feat. Polo G) [Remix]",
         "url": "https://open.spotify.com/album/6eb8NRWbiyJrn6chLPQokL"
@@ -233,31 +277,7 @@
       "url": "https://open.spotify.com/track/4Y43nu7MxbFOBJnZNfuruc"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Been One",
-        "url": "https://open.spotify.com/album/69bYMgvQpIYHsNNDxDTQqa"
-      },
-      "artists": [
-        {
-          "name": "Rylo Rodriguez",
-          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
-        },
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 286159,
-      "name": "Room Comfort (feat. Fridayy and Lil Durk)",
-      "url": "https://open.spotify.com/track/2pog8j1Dq6rzyWrkA3F6Zt"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "Remember",
         "url": "https://open.spotify.com/album/475bx5gQq2PATODjuDmXJ8"
@@ -277,7 +297,7 @@
       "url": "https://open.spotify.com/track/47AnQOnGJsW36cWmYtKB5u"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "IF I DIE RIGHT NOW",
         "url": "https://open.spotify.com/album/4cAgvy7ZjVP0SxreZZulHI"
@@ -293,7 +313,7 @@
       "url": "https://open.spotify.com/track/2rIHvbvMbiQ2pjotR2rZpX"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "Junkie Mode",
         "url": "https://open.spotify.com/album/1Q9ZaQpLOmVAhq2bHhOp03"
@@ -309,7 +329,7 @@
       "url": "https://open.spotify.com/track/2NYzTjbXL17B1ulwQSIi6P"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "The Streets",
         "url": "https://open.spotify.com/album/3Iqca530onnDoofMp0goL6"
@@ -325,7 +345,23 @@
       "url": "https://open.spotify.com/track/4b9gu3ChsEGAnle4WIqxqo"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Perkys For The Pain",
+        "url": "https://open.spotify.com/album/501ucxwX9FGNPjYUK6rRCz"
+      },
+      "artists": [
+        {
+          "name": "OG Bobby Billions",
+          "url": "https://open.spotify.com/artist/6bS1ddLkqrK5Jl6GyKK4j2"
+        }
+      ],
+      "duration_ms": 217453,
+      "name": "Perkys For The Pain",
+      "url": "https://open.spotify.com/track/4NH6uz7nK8HIwwXkAGUIWN"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "Hard To Love",
         "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
@@ -341,7 +377,7 @@
       "url": "https://open.spotify.com/track/6DKeSgqFW8OLGk6FgAEjvf"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "Go To Hell",
         "url": "https://open.spotify.com/album/0lVsaUVTURhkRAOEv6hwhI"
@@ -369,7 +405,7 @@
       "url": "https://open.spotify.com/track/2Yd5D02hVICrlpMvd4JOqc"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "Gangsta Art 2",
         "url": "https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA"
@@ -397,7 +433,7 @@
       "url": "https://open.spotify.com/track/1UMBmIdPvOmnBlpgc0J9Tf"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "Sun Up / Sun Down",
         "url": "https://open.spotify.com/album/35QTFJiXPklVTsbRaVarI8"
@@ -417,7 +453,7 @@
       "url": "https://open.spotify.com/track/7z1KycCf3qBqmfbaagBS0F"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "C My Side",
         "url": "https://open.spotify.com/album/0yUMVA7aCUTvCt8txudyWp"
@@ -433,7 +469,7 @@
       "url": "https://open.spotify.com/track/2bj7ZnOPZZCgj3vRHDIVEM"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "Vision Clear",
         "url": "https://open.spotify.com/album/5FSyNfC0rFII5HqETCwXro"
@@ -453,7 +489,7 @@
       "url": "https://open.spotify.com/track/6BOpl0I9xAlAroApT4aVFT"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "June 22nd",
         "url": "https://open.spotify.com/album/3T94lLozmbIFa4BiHNtkjC"
@@ -469,7 +505,7 @@
       "url": "https://open.spotify.com/track/2uPyRKg62IcLFaGXXw0qEn"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "Summer's Mine",
         "url": "https://open.spotify.com/album/2T5rnsXB2Hu0LOw554ciPS"
@@ -489,7 +525,7 @@
       "url": "https://open.spotify.com/track/2laOkDCyIDDmXxtGqrql6V"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "Life Of The Party",
         "url": "https://open.spotify.com/album/6XkmlhDX3zlEpd6J5m6CQo"
@@ -509,7 +545,7 @@
       "url": "https://open.spotify.com/track/7JCR3o72lk90eWwvr0cwdq"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "No Distractions",
         "url": "https://open.spotify.com/album/3axNoaSEpTM4Wr4TQt7Ut6"
@@ -529,7 +565,7 @@
       "url": "https://open.spotify.com/track/7tmlt7mrxRcss23czKZTMF"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "222",
         "url": "https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL"
@@ -549,7 +585,7 @@
       "url": "https://open.spotify.com/track/1vHzUmqpA2tgO1OGtBuItX"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "Pain Talk (feat. Lil Tjay)",
         "url": "https://open.spotify.com/album/5Adus949FUrddWzqZ5SFxZ"
@@ -569,7 +605,7 @@
       "url": "https://open.spotify.com/track/7soBkLenwWM7kB92cuyl04"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "I'm Alright",
         "url": "https://open.spotify.com/album/7GgLBFfOfLWWAfc2JHuqiM"
@@ -585,7 +621,7 @@
       "url": "https://open.spotify.com/track/04ozGXjtrjK6cvnzuA0juQ"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "a Gift & a Curse",
         "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
@@ -601,7 +637,7 @@
       "url": "https://open.spotify.com/track/5QG0l8nybp5rLMo7saQHl2"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "4 The Trenches",
         "url": "https://open.spotify.com/album/3Uqp9nAzjdY5Ew55jk0bCg"
@@ -621,7 +657,7 @@
       "url": "https://open.spotify.com/track/71dIX6uF8GBFCHbgx4JeXn"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "Hook Mitchell (feat. Dame D.O.L.L.A.)",
         "url": "https://open.spotify.com/album/0f3GzsAigXJPTZj6pNmODH"
@@ -641,7 +677,7 @@
       "url": "https://open.spotify.com/track/6CKDa6mKBdGpllS72Bpj5V"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "child of GOD",
         "url": "https://open.spotify.com/album/2tdQ8ymmQslIQTBSPO1xga"
@@ -661,7 +697,7 @@
       "url": "https://open.spotify.com/track/4mkguQG08ITzkOuwxEEhDt"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "Public Housing, Pt. 2",
         "url": "https://open.spotify.com/album/6HgjCMe3yei1aus3qyUDSI"
@@ -677,7 +713,7 @@
       "url": "https://open.spotify.com/track/1DenbmzkT4hvnq1ltyBZBM"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "Alone Out Here",
         "url": "https://open.spotify.com/album/6A7VXdrdqlFzAxmnrEVvP5"
@@ -693,7 +729,7 @@
       "url": "https://open.spotify.com/track/2xx71dWJoxs5bxufeyhEVQ"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "Roadkill",
         "url": "https://open.spotify.com/album/3YYDZAGUoNpbLao2B96eGi"
@@ -709,7 +745,7 @@
       "url": "https://open.spotify.com/track/1UuEqB02onXOpwc3jK5LFU"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "Been One",
         "url": "https://open.spotify.com/album/69bYMgvQpIYHsNNDxDTQqa"
@@ -725,7 +761,7 @@
       "url": "https://open.spotify.com/track/1XoANQIq3IKd0YsZTDd4RR"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "All The Way Up",
         "url": "https://open.spotify.com/album/7jNtmENfhyfT0BL24uMdSH"
@@ -741,7 +777,7 @@
       "url": "https://open.spotify.com/track/0LbyKoFKOsLhhEpg7BsKQo"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "Demons",
         "url": "https://open.spotify.com/album/23cyGrIH9iVKlngeTnndpr"
@@ -761,23 +797,7 @@
       "url": "https://open.spotify.com/track/0bgHaekoNA5WT3oSHxRlw0"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Got It No Mo",
-        "url": "https://open.spotify.com/album/3pbZejTl2ASbbNVVyIgLo4"
-      },
-      "artists": [
-        {
-          "name": "Lil Zay Osama",
-          "url": "https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt"
-        }
-      ],
-      "duration_ms": 155538,
-      "name": "Got It No Mo",
-      "url": "https://open.spotify.com/track/0Zdtrfv5sofAp92eo1LC4s"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv"
@@ -797,7 +817,7 @@
       "url": "https://open.spotify.com/track/7ry34dFOuoK2c5GoYWWsl3"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "222",
         "url": "https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL"
@@ -817,7 +837,7 @@
       "url": "https://open.spotify.com/track/6AqZbaM3bQNYvX9OTjzakL"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "Feel This Way",
         "url": "https://open.spotify.com/album/0YIBIawpHrHSaZEhy4MDNB"
@@ -833,7 +853,7 @@
       "url": "https://open.spotify.com/track/0jYpNETYGOMvFvEIhXgmhA"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "Risk Takers",
         "url": "https://open.spotify.com/album/4zcudfEaBMysM9hvHiLRN1"
@@ -849,7 +869,7 @@
       "url": "https://open.spotify.com/track/6BJGlhrDS2mKteYz7o2bt6"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "Pistolz & Pearlz",
         "url": "https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b"
@@ -865,7 +885,7 @@
       "url": "https://open.spotify.com/track/4286sbHO5syVcp8BrFO2dI"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "Hard Headed",
         "url": "https://open.spotify.com/album/67nUdwCrIPZUJiaqAsn2Sj"
@@ -881,7 +901,7 @@
       "url": "https://open.spotify.com/track/5O6Ec9WvYxysLcESvDmz9N"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "Hopeless Island",
         "url": "https://open.spotify.com/album/4EFEB8u3JIaK4wy4NEHcdR"
@@ -897,7 +917,7 @@
       "url": "https://open.spotify.com/track/6c0KBEx6B7qQDx53Y0FlQx"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "a Gift & a Curse",
         "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
@@ -911,22 +931,6 @@
       "duration_ms": 173360,
       "name": "go crazy",
       "url": "https://open.spotify.com/track/6YD8EpsddOfEwAhaymGu0Q"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Forgot How To Cry",
-        "url": "https://open.spotify.com/album/7ik9Eg1awH6A2Hfh0kpYTX"
-      },
-      "artists": [
-        {
-          "name": "Jackboy",
-          "url": "https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB"
-        }
-      ],
-      "duration_ms": 179301,
-      "name": "Forgot How To Cry",
-      "url": "https://open.spotify.com/track/7eebNlfH4nRdgJQh8e3yMU"
     }
   ],
   "unique_name": "Street Soul",

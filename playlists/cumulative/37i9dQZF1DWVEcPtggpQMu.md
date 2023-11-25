@@ -2,7 +2,7 @@
 
 ### [Mzansi Raps](https://open.spotify.com/playlist/37i9dQZF1DWVEcPtggpQMu)
 
-> Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras?si=GkFCponvT7aad8\_K8wHWoQ">MashBeatz</a>
+> Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/7JnVA6sPhYeTpLoWd5DvTz?si=C\-\-l\_cL9S4GUg8C\_OXKatg">Espiquet</a>, <a href="https://open.spotify.com/artist/0JwjW1x56tK5hnHvlRSSw9?si=4XI4Y1i\_TzORU1\_2gzmm5A">TOSS</a>
 
 643 songs - 1 day 11 hr 0 min
 
@@ -109,7 +109,7 @@
 | [Call Me Up](https://open.spotify.com/track/7cSlFpcnrIDsmwVw3QFoJA) | [DJ Capital](https://open.spotify.com/artist/1Z2lV83lH6bNPLr0c0ofsL), [Touchline](https://open.spotify.com/artist/17GDrcknjyTyuxDbZ4kHlz), [Thabiso Lavish](https://open.spotify.com/artist/31gaX166pm8kfjpM9yujDA) | [Call Me Up](https://open.spotify.com/album/0Dsh8VOYvRMQPe3hco5TpI) | 3:28 | 2022-03-24 | 2022-04-15 |
 | [CALLING FOR YOU](https://open.spotify.com/track/0ktPQbm5bTtSBKjdpk6uXl) | [DYLAN](https://open.spotify.com/artist/0MiK2GCTKCn7okire8MtHu) | [CALLING FOR YOU](https://open.spotify.com/album/2NbNT1yKWjHgQ4a2Ytv8vV) | 2:01 | 2023-10-20 | 2023-11-07 |
 | [Calls On Me](https://open.spotify.com/track/3HsdEh6AiLR4OM8fuTBdZ9) | [Sgi\_Magalela](https://open.spotify.com/artist/4SEe2uJQ5IIJvpyTbtIfAE) | [Calls On Me](https://open.spotify.com/album/5OSzG9Pfyrj4AcBVYz9bo5) | 2:38 | 2022-03-24 | 2022-07-29 |
-| [CAN'T GET ENOUGH \(feat\. Moozlie\)](https://open.spotify.com/track/3Y49VbQ1rQoLzIHgZ9MPFk) | [NOTBENJAMIN](https://open.spotify.com/artist/303bUa4VDUe6fAPIM5vzvN), [XXC Legacy](https://open.spotify.com/artist/2NTfvgbSma5efyg5iyLG43), [Moozlie](https://open.spotify.com/artist/4TvEx3QxTDbOBf5XgfNPiU) | [NOSTALGIA](https://open.spotify.com/album/4jtjmA5MBU3wk2NJHiA7D5) | 3:13 | 2023-11-23 |  |
+| [CAN'T GET ENOUGH \(feat\. Moozlie\)](https://open.spotify.com/track/3Y49VbQ1rQoLzIHgZ9MPFk) | [NOTBENJAMIN](https://open.spotify.com/artist/303bUa4VDUe6fAPIM5vzvN), [XXC Legacy](https://open.spotify.com/artist/2NTfvgbSma5efyg5iyLG43), [Moozlie](https://open.spotify.com/artist/4TvEx3QxTDbOBf5XgfNPiU) | [NOSTALGIA](https://open.spotify.com/album/4jtjmA5MBU3wk2NJHiA7D5) | 3:13 | 2023-11-23 | 2023-11-25 |
 | [Can't See You](https://open.spotify.com/track/1M32j82T22uoGhzl7QIjGm) | [Suhn](https://open.spotify.com/artist/21FjHoi27TUaIuUSYxdOwf) | [Can't See You](https://open.spotify.com/album/5Movtv8Ug6FAqqTqIU9XXZ) | 2:55 | 2022-09-09 | 2022-09-23 |
 | [Can't Wait](https://open.spotify.com/track/4ARfnWxjN6vb1QLDl1yuKA) | [Mo$hpit Cindy](https://open.spotify.com/artist/7mlXK93aYpGSbRPaEqdLYU) | [Can't Wait](https://open.spotify.com/album/7IiykOHeyG8Mhx6Bo033N1) | 2:42 | 2022-02-17 | 2022-03-04 |
 | [Can’t Imagine](https://open.spotify.com/track/0rnpL28BY6fgO5ZYZnAwT6) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Can’t Imagine](https://open.spotify.com/album/1ia7otI37M8BfXPGkFtnTw) | 2:23 | 2022-12-12 | 2023-01-20 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Chance Pe\u00f1a",
+  "description": "A laid-back trip in the folk scene. Cover: Elisapie",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -1782,7 +1782,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 205093,
       "name": "Come on By",
       "url": "https://open.spotify.com/track/1zYY2CKpDuGchopm3RYSKy"
@@ -5773,6 +5773,24 @@
     },
     {
       "album": {
+        "name": "Know the Night",
+        "url": "https://open.spotify.com/album/1rKrDA2rrti4WOKjsF4XWm"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190266,
+      "name": "Know the Night",
+      "url": "https://open.spotify.com/track/0hfjholWfyL1cxsvjwkzM8"
+    },
+    {
+      "album": {
         "name": "labour",
         "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
       },
@@ -6304,6 +6322,24 @@
       "duration_ms": 201679,
       "name": "Lotusland",
       "url": "https://open.spotify.com/track/3sK6qdQsZvPjRkua3UrSGD"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5bbRNKzRs3j44dxQR9SzJ3"
+      },
+      "artists": [
+        {
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222138,
+      "name": "Love Is a Stranger - Spotify Singles",
+      "url": "https://open.spotify.com/track/1BSirCglKNnJ39ag8fhiK0"
     },
     {
       "album": {
@@ -8128,7 +8164,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 243756,
       "name": "Qimatsilunga (I Want to Break Free)",
       "url": "https://open.spotify.com/track/3s7edrMgsb2GHt36L0mFOp"
@@ -8392,6 +8428,24 @@
       "duration_ms": 226125,
       "name": "Room Service",
       "url": "https://open.spotify.com/track/5NURmMpR9TkfYroyf9HcJQ"
+    },
+    {
+      "album": {
+        "name": "Running Out of Time",
+        "url": "https://open.spotify.com/album/5GFgdQo0ECaJSUbOoZ0Qu6"
+      },
+      "artists": [
+        {
+          "name": "Stu Larsen",
+          "url": "https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212191,
+      "name": "Running Out of Time",
+      "url": "https://open.spotify.com/track/6LYWoOmdoxbLcqTWA0uBMP"
     },
     {
       "album": {
@@ -11247,6 +11301,24 @@
     },
     {
       "album": {
+        "name": "What You Don't Know",
+        "url": "https://open.spotify.com/album/1fKYAXIj2jDoT5amgBVbSc"
+      },
+      "artists": [
+        {
+          "name": "Martin Kerr",
+          "url": "https://open.spotify.com/artist/3Qg69CFtPUh3Uu14OfjV2t"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179409,
+      "name": "What You Don\u2019t Know",
+      "url": "https://open.spotify.com/track/6tp9ZObhuYqZb1lNPyMXxf"
+    },
+    {
+      "album": {
         "name": "When Did I Grow Up?",
         "url": "https://open.spotify.com/album/2HNtL0Gt037SCCMV1r5DcF"
       },
@@ -11846,7 +11918,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 205040,
       "name": "You're the One",
       "url": "https://open.spotify.com/track/3TPQJ4fzrDgG8SChcHhtO8"
@@ -11900,7 +11972,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 231640,
       "name": "Your Hand in Mine",
       "url": "https://open.spotify.com/track/69hxfX2XVJwbJONF32a0kR"

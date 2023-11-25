@@ -4,7 +4,7 @@
 
 > Usar la imaginación es la solución de un mundo ideal, ¡Vivan lxs niñxs!
 
-128 songs - 6 hr 17 min
+129 songs - 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Flores Amarillas](https://open.spotify.com/track/5wBBoVjoounI5e36oI8oZe) | [Floricienta](https://open.spotify.com/artist/7dtC84FkhalFSKToofOdOv) | [Floricienta](https://open.spotify.com/album/5vzRtE9SIJ6MVL0j6uFhW9) | 3:43 | 2023-06-30 |  |
 | [For the First Time in Forever \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/70b5Sq3ePOu3Gqg0hjlOtR) | [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI), [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 3:45 | 2020-07-16 | 2023-04-28 |
 | [Get Up, Stand Up](https://open.spotify.com/track/36jJo5n5etzL8cjDZPzvkZ) | [Sweet Little Band](https://open.spotify.com/artist/7HBA3bLuJTLRvjK8NX9ZSy) | [Bob Marley For Babies](https://open.spotify.com/album/1rDl2v4himtK04EL0yYDXr) | 2:12 | 2020-07-16 | 2023-04-28 |
-| [Give It To Me x Dom Dom Yes Yes](https://open.spotify.com/track/0zJJXKUjLkkDx4fMV0TwDK) | [RSL Covers](https://open.spotify.com/artist/4gnNEWozOTP3wj5L2DAkOw), [krush](https://open.spotify.com/artist/2wzro1nMLkaoWx5geebHIp) | [Give It To Me x Dom Dom Yes Yes](https://open.spotify.com/album/1NZKEWwLeumqlgFnc8hoG8) | 2:02 | 2023-10-20 |  |
+| [Give It To Me x Dom Dom Yes Yes](https://open.spotify.com/track/0zJJXKUjLkkDx4fMV0TwDK) | [RSL Covers](https://open.spotify.com/artist/4gnNEWozOTP3wj5L2DAkOw), [krush](https://open.spotify.com/artist/2wzro1nMLkaoWx5geebHIp) | [Give It To Me x Dom Dom Yes Yes](https://open.spotify.com/album/1NZKEWwLeumqlgFnc8hoG8) | 2:02 | 2023-10-20 | 2023-11-25 |
+| [Give It To Me x Dom Dom Yes Yes](https://open.spotify.com/track/6t5AUFeURlbh39F4MsXv5D) | [Soplaz](https://open.spotify.com/artist/0GdVSl1ldNbIVkwL2pjbEg), [krush](https://open.spotify.com/artist/2wzro1nMLkaoWx5geebHIp), [RSL Covers](https://open.spotify.com/artist/4gnNEWozOTP3wj5L2DAkOw) | [Give It To Me x Dom Dom Yes Yes](https://open.spotify.com/album/368z1YSCEAA1ows2UsfUUE) | 2:02 | 2023-10-20 |  |
 | [Hakuna Matata](https://open.spotify.com/track/2BFnHiGCfLy5Z96yMeO50g) | [Claudia Pizá](https://open.spotify.com/artist/6siLUAe0KmIQIAoBuihe5x), [Raúl Carballeda](https://open.spotify.com/artist/6GJcuvrFIs0ZZ9zz0l9L6e), [Francisco Colmenero](https://open.spotify.com/artist/7CUbYXaUdYaKhpzeGWwoBb) | [El Rey Leon \(Edición Especial\)](https://open.spotify.com/album/1DdGBTfcxge1ganY62TfpD) | 3:31 | 2023-04-27 |  |
 | [Happy \- From "Despicable Me 2"](https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W) | 3:52 | 2023-04-27 |  |
 | [How Far I'll Go](https://open.spotify.com/track/6mb6lVLNrcUgLnEN8QnDJd) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 2:43 | 2020-07-16 |  |

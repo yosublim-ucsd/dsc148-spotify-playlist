@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Rau_Ze",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Hamza",
   "name": "Nouveaut\u00e9s francophones",
   "tracks": [
     {
@@ -3453,6 +3453,28 @@
     },
     {
       "album": {
+        "name": "Miroirs",
+        "url": "https://open.spotify.com/album/5y08xFNtrldDoRVDAH30Uu"
+      },
+      "artists": [
+        {
+          "name": "Joseph Kamel",
+          "url": "https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI"
+        },
+        {
+          "name": "Julien Dor\u00e9",
+          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176653,
+      "name": "Beau (feat. Julien Dor\u00e9)",
+      "url": "https://open.spotify.com/track/7xZrirKz1fymGxGVPtRRRk"
+    },
+    {
+      "album": {
         "name": "Applaudissez, bande de chameaux",
         "url": "https://open.spotify.com/album/5iY1ENGgSyP7THcv1Zmgsl"
       },
@@ -3756,6 +3778,32 @@
       "duration_ms": 149560,
       "name": "Big boy",
       "url": "https://open.spotify.com/track/3evB6yurMLTf8UnKV3QrXX"
+    },
+    {
+      "album": {
+        "name": "Club des Coeurs Solitaires",
+        "url": "https://open.spotify.com/album/1D3Pv7udHK5UQ8OTj748qo"
+      },
+      "artists": [
+        {
+          "name": "Yes*",
+          "url": "https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS"
+        },
+        {
+          "name": "Hubert Lenoir",
+          "url": "https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj"
+        },
+        {
+          "name": "Prinzly",
+          "url": "https://open.spotify.com/artist/6CecCbMlZKpr8sovW5ucq1"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275342,
+      "name": "Big Pharma",
+      "url": "https://open.spotify.com/track/2HhKYAgFjRf63cXqSMMr5w"
     },
     {
       "album": {
@@ -4264,7 +4312,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 241946,
       "name": "Bonjour",
       "url": "https://open.spotify.com/track/3XFjzqLdlWVrW0fQetpqUd"
@@ -5367,6 +5415,24 @@
     },
     {
       "album": {
+        "name": "C'\u00e9tait salement romantique (Reprise)",
+        "url": "https://open.spotify.com/album/2RyqxGld3TAwD7iv0RNMRM"
+      },
+      "artists": [
+        {
+          "name": "C\u0153ur De Pirate",
+          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188997,
+      "name": "C'\u00e9tait salement romantique - Reprise",
+      "url": "https://open.spotify.com/track/6gdBIxmojnm85w2VpFcP8p"
+    },
+    {
+      "album": {
         "name": "C-17",
         "url": "https://open.spotify.com/album/1D5vGnjjpXVo5sSW5OMiAc"
       },
@@ -6186,7 +6252,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 286451,
       "name": "Chaise pliante, pt. 10",
       "url": "https://open.spotify.com/track/25DoHshEuKyhCpHd5UO4Bo"
@@ -9598,7 +9664,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 198973,
       "name": "Desperado",
       "url": "https://open.spotify.com/track/7vrKgMYior2b66Gy0ud8rl"
@@ -10378,6 +10444,24 @@
       "duration_ms": 191959,
       "name": "Downtown Contrec\u0153ur",
       "url": "https://open.spotify.com/track/2cxdHELPfDBZblp9wGQIjp"
+    },
+    {
+      "album": {
+        "name": "Sinc\u00e8rement",
+        "url": "https://open.spotify.com/album/573smzehvvzd4Nl5QoW1MW"
+      },
+      "artists": [
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160960,
+      "name": "Drift\u00e9",
+      "url": "https://open.spotify.com/track/2RhLQNIhtQRPU2I2ExxBS3"
     },
     {
       "album": {
@@ -18792,7 +18876,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 167735,
       "name": "Kid Sentiment",
       "url": "https://open.spotify.com/track/7eotaZbb99gmoxVFqZwKhu"
@@ -19116,7 +19200,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 194499,
       "name": "L'Ami id\u00e9al",
       "url": "https://open.spotify.com/track/0QMtHqmvPe1URDTdsa3tGt"
@@ -20502,6 +20586,24 @@
       "duration_ms": 168359,
       "name": "La Peuf 6",
       "url": "https://open.spotify.com/track/2ZIXpFR5pRAy8fgj4Ar41k"
+    },
+    {
+      "album": {
+        "name": "BAD JAZZ",
+        "url": "https://open.spotify.com/album/6MuDbEDzWZe4CNXc6GqeC7"
+      },
+      "artists": [
+        {
+          "name": "HALO",
+          "url": "https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81290,
+      "name": "LA PLUIE",
+      "url": "https://open.spotify.com/track/7uwSn8hfkVaXqp9UdRvUsj"
     },
     {
       "album": {
@@ -22576,7 +22678,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 206079,
       "name": "Les ent\u00eat\u00e9.e.s",
       "url": "https://open.spotify.com/track/4e8lef1lBidiTu7WlUWJ5N"
@@ -24274,7 +24376,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 178115,
       "name": "Ma muse",
       "url": "https://open.spotify.com/track/04Y0l7UQzs13uyKXzCYi2p"
@@ -24520,7 +24622,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 196089,
       "name": "Magot",
       "url": "https://open.spotify.com/track/69zAnyBtarXinChSUq925t"
@@ -24665,6 +24767,24 @@
     },
     {
       "album": {
+        "name": "Maison-monde",
+        "url": "https://open.spotify.com/album/1gtEMwLBQYFoScnowHICsK"
+      },
+      "artists": [
+        {
+          "name": "Marie C\u00e9leste",
+          "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212427,
+      "name": "Maison-monde",
+      "url": "https://open.spotify.com/track/5RBF1WP8lY0OtzVOoYnPFN"
+    },
+    {
+      "album": {
         "name": "Make It Alright",
         "url": "https://open.spotify.com/album/42kvW1YuCH0u7SeTPZhCC6"
       },
@@ -24800,6 +24920,28 @@
       "duration_ms": 212000,
       "name": "Mama",
       "url": "https://open.spotify.com/track/63lZCrUiCmSU2ofO0AcCKs"
+    },
+    {
+      "album": {
+        "name": "Maman",
+        "url": "https://open.spotify.com/album/21Yoob2SRAwz7aDHDWf7qr"
+      },
+      "artists": [
+        {
+          "name": "pataugeoire",
+          "url": "https://open.spotify.com/artist/2Y5bshWQcWGxvTQPQ0qcrA"
+        },
+        {
+          "name": "Sophia Bel",
+          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211203,
+      "name": "Maman",
+      "url": "https://open.spotify.com/track/5FwtloM8eGWtqPtglVcqfX"
     },
     {
       "album": {
@@ -25287,6 +25429,24 @@
     },
     {
       "album": {
+        "name": "Mauvais sang",
+        "url": "https://open.spotify.com/album/20fsMVnh2nEDkblGvBFTdA"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Poulin",
+          "url": "https://open.spotify.com/artist/5ILOB9Q4xiPUxzo2tYwxQy"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251440,
+      "name": "Mauvais sang",
+      "url": "https://open.spotify.com/track/3OnjR76S8jearRtcX56I9B"
+    },
+    {
+      "album": {
         "name": "Au bar des espoirs",
         "url": "https://open.spotify.com/album/41s9no7Ky1PqMXyML8szae"
       },
@@ -25476,7 +25636,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 139121,
       "name": "Menteur",
       "url": "https://open.spotify.com/track/2sUpqx3CM2VSMO0ktW1eJR"
@@ -28414,6 +28574,24 @@
       "duration_ms": 183394,
       "name": "Onirisme",
       "url": "https://open.spotify.com/track/2z1T0cX0Ejfn2cBHkfDwaE"
+    },
+    {
+      "album": {
+        "name": "Onze / \u00c0 l'\u00e9tang des roseaux",
+        "url": "https://open.spotify.com/album/1r65So7Rknf9GTdsPSWFaR"
+      },
+      "artists": [
+        {
+          "name": "Valence",
+          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190506,
+      "name": "Onze",
+      "url": "https://open.spotify.com/track/6DrxgVFozVbFmyRRXm5Bkr"
     },
     {
       "album": {
@@ -36244,7 +36422,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 181360,
       "name": "Submerg\u00e9",
       "url": "https://open.spotify.com/track/46ae6uZp2EKthMU14RcyQh"
@@ -38647,6 +38825,28 @@
     },
     {
       "album": {
+        "name": "Triste v\u00e9rit\u00e9",
+        "url": "https://open.spotify.com/album/0eA4GmZulIHkD1W8AEnVxI"
+      },
+      "artists": [
+        {
+          "name": "Domeno",
+          "url": "https://open.spotify.com/artist/7yMAFCnx0clryFBMwaQI3Y"
+        },
+        {
+          "name": "Imposs",
+          "url": "https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175161,
+      "name": "Triste v\u00e9rit\u00e9",
+      "url": "https://open.spotify.com/track/4mRv9joOcPsrLO0qwN8AYR"
+    },
+    {
+      "album": {
         "name": "Tristesse",
         "url": "https://open.spotify.com/album/2knIF0Z25bt6E8fYWYhOqJ"
       },
@@ -39154,7 +39354,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 235640,
       "name": "tu peux rester si tu veux",
       "url": "https://open.spotify.com/track/3XG5ZZn5C23XFuZrHR5wqi"
@@ -39704,7 +39904,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 169624,
       "name": "Un peu souvent",
       "url": "https://open.spotify.com/track/1Wcgru0esYSI7grIF9rPnN"
@@ -39722,7 +39922,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 154535,
       "name": "Un peu trop",
       "url": "https://open.spotify.com/track/3jiS0ETithGTKn2uGT6dbF"
@@ -40314,7 +40514,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 214720,
       "name": "Vendredi",
       "url": "https://open.spotify.com/track/4hdSkfUs1LUisa1owTWqe4"
@@ -41327,6 +41527,24 @@
     },
     {
       "album": {
+        "name": "Woah, Stop",
+        "url": "https://open.spotify.com/album/4t2lyyHBcg25rn1LmeKKfh"
+      },
+      "artists": [
+        {
+          "name": "Statzz",
+          "url": "https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150624,
+      "name": "Woah, Stop",
+      "url": "https://open.spotify.com/track/3LC0jmxXmTV1uQW0aJmFhd"
+    },
+    {
+      "album": {
         "name": "Woman",
         "url": "https://open.spotify.com/album/357ArQ5cFSeaAW8LFLHo9n"
       },
@@ -42296,6 +42514,24 @@
       "duration_ms": 242125,
       "name": "\u00c7a m'manque",
       "url": "https://open.spotify.com/track/1C1hagvlPCvPHHB1VSOTpr"
+    },
+    {
+      "album": {
+        "name": "\u00c7a Parait",
+        "url": "https://open.spotify.com/album/65WegECCKRFE8PaRLlTWzZ"
+      },
+      "artists": [
+        {
+          "name": "Salimo",
+          "url": "https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141662,
+      "name": "\u00c7a Parait",
+      "url": "https://open.spotify.com/track/53hrIOmrtgJYJi1rIfVJTF"
     },
     {
       "album": {

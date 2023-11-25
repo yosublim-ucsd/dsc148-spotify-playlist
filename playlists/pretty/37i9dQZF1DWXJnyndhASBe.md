@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Paluch
 
-[Spotify](https://open.spotify.com/user/spotify) - 491,521 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 491,610 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 39 | [WWA NA KXKSIE](https://open.spotify.com/track/0oyR4Ql18Y1GNwS3arouvb) | [Yung Adisz](https://open.spotify.com/artist/2G8IXlvZR5PxsMAAg2ZG40), [schafter](https://open.spotify.com/artist/2aDaFARm4U9hf5DI9Fhbnh), [Gottastral](https://open.spotify.com/artist/4QXo5C5MyU5monLYHsJOG9), [Tosiek](https://open.spotify.com/artist/0WvOprQ8IaFWR5L76Czhww) | [WWA NA KXKSIE](https://open.spotify.com/album/6R3IJyx9vPOZFk4ARB7N2H) | 3:25 |
 | 40 | [BIBA](https://open.spotify.com/track/0t77FnN3xAxcYjW9v3dZeD) | [Żabson](https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft), [Kronkel Dom](https://open.spotify.com/artist/1dkyORGHN0TOmjzu5qCO45), [Kizo](https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy), [Sir Mich](https://open.spotify.com/artist/77QIEno3j2L5WkrHkh2OnP) | [Macrodosing](https://open.spotify.com/album/01nWaHBDli91cOvKShpivr) | 1:58 |
 | 41 | [5 INFLUENCEREK](https://open.spotify.com/track/4u3pVIKFDquOVeyvkc1Hjh) | [Zeamsone](https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY) | [???](https://open.spotify.com/album/6b9nJ7eZHoXbVfIA3KQ6bg) | 2:24 |
-| 42 | [TRZEBA MIEĆ](https://open.spotify.com/track/1QYuWVIRrywtQYd3ETeL1Q) | [Young Igi](https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc) | [TRZEBA MIEĆ](https://open.spotify.com/album/2aCk1OHYdQY0EjvQqYOzF2) | 2:31 |
+| 42 | [TRZEBA MIEĆ](https://open.spotify.com/track/1QYuWVIRrywtQYd3ETeL1Q) | [Young Igi](https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc), [Sergiusz](https://open.spotify.com/artist/3vsRnplSphnC5VPIJgvUl0), [2K](https://open.spotify.com/artist/0awWNjR5qmSZsQVFAo2NsR) | [TRZEBA MIEĆ](https://open.spotify.com/album/2aCk1OHYdQY0EjvQqYOzF2) | 2:31 |
 | 43 | [TOTORO](https://open.spotify.com/track/4oa5GCUVLK0KMXOHhz70tr) | [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99), [Kubi Producent](https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht) | [UZUMAKI FORMA OSTATECZNA](https://open.spotify.com/album/6qcbKRA7omOSjv0PoUVj79) | 2:56 |
 | 44 | [You Can’t Sit With Us](https://open.spotify.com/track/7tfKEvbgjUEfcCf0c8nr2f) | [Honorata Skarbek](https://open.spotify.com/artist/05Fgqq7GfWeNol1TR5H3og), [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E) | [You Can’t Sit With Us](https://open.spotify.com/album/21QUlOgsmc5sQtewNj7iuZ) | 2:24 |
 | 45 | [LICEUM \(SALA 27\)](https://open.spotify.com/track/6MRatjwwFoJt07cK1bt6FW) | [27.Fuckdemons](https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw) | [LICEUM \(SALA 27\)](https://open.spotify.com/album/4SIhFEYOOqe0eDvetreSU9) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [Ride or Die](https://open.spotify.com/track/5OVD56aqdB0BmEzFXwvito) | [Waima](https://open.spotify.com/artist/1gfxO9EsNea8tyDzrHexdp), [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99), [Kaptur](https://open.spotify.com/artist/4NJA8jbfxc4daVM2wi9ybd), [Mjonszu](https://open.spotify.com/artist/4h0vqFFUqp5yFQ7K3dyJD8) | [Cameleo](https://open.spotify.com/album/7D9aUl816mU5lIFCgHMVdS) | 3:27 |
 | 50 | [w aucie noc i 90bpm](https://open.spotify.com/track/4PG1vjjSiKQBdykSyqAHWG) | [Kukon](https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD), [Baltik Beatz](https://open.spotify.com/artist/5P2MqlvPHysck4DS90dBaW), [Phunk'ill](https://open.spotify.com/artist/6jSShb0II1n6RNMCmqBSSM) | [w aucie noc i 90bpm](https://open.spotify.com/album/2XptoJZXg4ep4gAn91OQET) | 2:26 |
 
-Snapshot ID: `MCwxNzg5NWUyZGNiNDk4MTc0M2Y3NmUxODk3MzhhMGQyMzkxOTZmZjQ1`
+Snapshot ID: `MCxlZmQwNzRiNTgzYTVkNjY4NGY0YTE4ODY1YzM2MTVhNjA4MjI0Zjk0`

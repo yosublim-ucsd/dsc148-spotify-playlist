@@ -3359,6 +3359,32 @@
     },
     {
       "album": {
+        "name": "Ch\u1ecbu C\u00e1ch M\u00ecnh N\u00f3i Thua",
+        "url": "https://open.spotify.com/album/6H01GjpEb6taXvwiqEzpFy"
+      },
+      "artists": [
+        {
+          "name": "RHYDER",
+          "url": "https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ"
+        },
+        {
+          "name": "Coolkid",
+          "url": "https://open.spotify.com/artist/65bcNos7ivMNHgHJDsjWWX"
+        },
+        {
+          "name": "BAN",
+          "url": "https://open.spotify.com/artist/0CO1IZAPmgTbkfXvcRCLsL"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181558,
+      "name": "Ch\u1ecbu C\u00e1ch M\u00ecnh N\u00f3i Thua",
+      "url": "https://open.spotify.com/track/3ZbZtdEw9U0uZW4tZItIwq"
+    },
+    {
+      "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU"
       },
@@ -14506,7 +14532,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 224175,
       "name": "Tell the kids i love them (ft. Shiki)",
       "url": "https://open.spotify.com/track/2UtFCtiSoc30GJ4MUcHDKr"

@@ -768,6 +768,24 @@
     {
       "album": {
         "name": "Morgue",
+        "url": "https://open.spotify.com/album/3QzIwDA0KnU6o8QKdeJnyt"
+      },
+      "artists": [
+        {
+          "name": "Otus",
+          "url": "https://open.spotify.com/artist/5NgVz693TXUKsh7wFGPEPe"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153120,
+      "name": "Morgue",
+      "url": "https://open.spotify.com/track/2tsDvDQaTkQAYsCHo4SGT9"
+    },
+    {
+      "album": {
+        "name": "Morgue",
         "url": "https://open.spotify.com/album/127oCVYGHOgjQ5WvFnEWko"
       },
       "artists": [
@@ -778,7 +796,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 153120,
       "name": "Morgue",
       "url": "https://open.spotify.com/track/47zqDEkR048yjkN3YJvlYg"

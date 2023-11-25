@@ -3811,6 +3811,24 @@
     },
     {
       "album": {
+        "name": "Minder",
+        "url": "https://open.spotify.com/album/1l0LkI4MZlTkUeHk9iZetu"
+      },
+      "artists": [
+        {
+          "name": "Iben Haugen",
+          "url": "https://open.spotify.com/artist/3l78xKQ87BafNzCaqvHjow"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162857,
+      "name": "Minder",
+      "url": "https://open.spotify.com/track/00XgwH3Lfej0ht4gCrX6cx"
+    },
+    {
+      "album": {
         "name": "Minutes",
         "url": "https://open.spotify.com/album/3WNhmBvd5KGFOW2vPEFNkR"
       },

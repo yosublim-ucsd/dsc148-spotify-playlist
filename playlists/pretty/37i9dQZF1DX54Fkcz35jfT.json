@@ -1,12 +1,12 @@
 {
   "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: \u30aa\u30e1\u3067\u305f\u3044\u982d\u3067\u306a\u306b\u3088\u308a",
-  "num_followers": 41953,
+  "num_followers": 41970,
   "original_name": "Loud Rock Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjRhMWNmMjMwODkzYzhhNDlmZjI2ODE5NjVkNjJiYTMxN2M3MzIx",
+  "snapshot_id": "MCxmMmQzYmEwMGUyZTUzNzMyNTBlZmJhNTRkOWM4Mjc1NDdmZjU4MjVh",
   "tracks": [
     {
       "added_at": "2023-11-23 15:00:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-11-23 15:00:00",
       "album": {
+        "name": "THE ETERNAL DOOM",
+        "url": "https://open.spotify.com/album/35kPTUOLmfdvLb7IyrTInP"
+      },
+      "artists": [
+        {
+          "name": "Knosis",
+          "url": "https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh"
+        }
+      ],
+      "duration_ms": 180666,
+      "name": "\u5384\u707d",
+      "url": "https://open.spotify.com/track/0IAJ4414Gaan0R3Eq6dtBm"
+    },
+    {
+      "added_at": "2023-11-23 15:00:00",
+      "album": {
         "name": "yoake",
         "url": "https://open.spotify.com/album/5jugeblIbCduKGADB7Y09A"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 289600,
       "name": "yoake",
       "url": "https://open.spotify.com/track/71wrW2jUPnOX48WfMZRFfA"
-    },
-    {
-      "added_at": "2023-11-23 15:00:00",
-      "album": {
-        "name": "BUG",
-        "url": "https://open.spotify.com/album/1Rav5NLGbB4c3nozaOPvRP"
-      },
-      "artists": [
-        {
-          "name": "THE ORAL CIGARETTES",
-          "url": "https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q"
-        }
-      ],
-      "duration_ms": 231428,
-      "name": "BUG",
-      "url": "https://open.spotify.com/track/3ll3777Lzzs15BdKwzbgIU"
     },
     {
       "added_at": "2023-11-23 15:00:00",
@@ -927,18 +927,18 @@
     {
       "added_at": "2023-11-23 15:00:00",
       "album": {
-        "name": "THE ETERNAL DOOM",
-        "url": "https://open.spotify.com/album/35kPTUOLmfdvLb7IyrTInP"
+        "name": "BUG",
+        "url": "https://open.spotify.com/album/1Rav5NLGbB4c3nozaOPvRP"
       },
       "artists": [
         {
-          "name": "Knosis",
-          "url": "https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh"
+          "name": "THE ORAL CIGARETTES",
+          "url": "https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q"
         }
       ],
-      "duration_ms": 180666,
-      "name": "\u5384\u707d",
-      "url": "https://open.spotify.com/track/0IAJ4414Gaan0R3Eq6dtBm"
+      "duration_ms": 231428,
+      "name": "BUG",
+      "url": "https://open.spotify.com/track/3ll3777Lzzs15BdKwzbgIU"
     },
     {
       "added_at": "2023-11-23 15:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-11-23 15:00:00",
       "album": {
-        "name": "Tank-top Flower for Friends",
-        "url": "https://open.spotify.com/album/2Ll3DZYOR4UKeswV5TADhu"
-      },
-      "artists": [
-        {
-          "name": "Yabai T-Shirts Yasan",
-          "url": "https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS"
-        }
-      ],
-      "duration_ms": 132386,
-      "name": "Blooming the Tank-top",
-      "url": "https://open.spotify.com/track/2vBvV18PwrlUhTm9jaxhh6"
-    },
-    {
-      "added_at": "2023-11-23 15:00:00",
-      "album": {
         "name": "TAKING THEM DOWN",
         "url": "https://open.spotify.com/album/4SRTjaKlxpG3Y1UKnQaVrU"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 172974,
       "name": "TAKING THEM DOWN",
       "url": "https://open.spotify.com/track/3c1lVormOG2JXVtRXCQBOX"
+    },
+    {
+      "added_at": "2023-11-23 15:00:00",
+      "album": {
+        "name": "Tank-top Flower for Friends",
+        "url": "https://open.spotify.com/album/2Ll3DZYOR4UKeswV5TADhu"
+      },
+      "artists": [
+        {
+          "name": "Yabai T-Shirts Yasan",
+          "url": "https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS"
+        }
+      ],
+      "duration_ms": 132386,
+      "name": "Blooming the Tank-top",
+      "url": "https://open.spotify.com/track/2vBvV18PwrlUhTm9jaxhh6"
     },
     {
       "added_at": "2023-11-23 15:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-11-23 15:00:00",
       "album": {
-        "name": "Falling Down",
-        "url": "https://open.spotify.com/album/7cPyMm0ljz5LICHgWSIGkJ"
-      },
-      "artists": [
-        {
-          "name": "(sic)boy",
-          "url": "https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk"
-        }
-      ],
-      "duration_ms": 160642,
-      "name": "Falling Down",
-      "url": "https://open.spotify.com/track/4R4wqSahsw27qRmVvtkBVe"
-    },
-    {
-      "added_at": "2023-11-23 15:00:00",
-      "album": {
         "name": "\u30cf\u30c3\u30d4\u30fc\u30a6\u30a7\u30c7\u30a3\u30f3\u30b0\u524d\u30bd\u30f3\u30b0 (2\u5e74\u4ee5\u5185\u306b\u5225\u308c\u306a\u3044ver.)",
         "url": "https://open.spotify.com/album/4oKEQDyW0bVuES2JPlAhjd"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 229642,
       "name": "\u30cf\u30c3\u30d4\u30fc\u30a6\u30a7\u30c7\u30a3\u30f3\u30b0\u524d\u30bd\u30f3\u30b0 - 2\u5e74\u4ee5\u5185\u306b\u5225\u308c\u306a\u3044ver.",
       "url": "https://open.spotify.com/track/4yv1CAi0CXaLGMFnmwrNnq"
+    },
+    {
+      "added_at": "2023-11-23 15:00:00",
+      "album": {
+        "name": "Falling Down",
+        "url": "https://open.spotify.com/album/7cPyMm0ljz5LICHgWSIGkJ"
+      },
+      "artists": [
+        {
+          "name": "(sic)boy",
+          "url": "https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk"
+        }
+      ],
+      "duration_ms": 160642,
+      "name": "Falling Down",
+      "url": "https://open.spotify.com/track/4R4wqSahsw27qRmVvtkBVe"
     },
     {
       "added_at": "2023-11-23 15:00:00",
@@ -1463,34 +1463,18 @@
     {
       "added_at": "2023-11-23 15:00:00",
       "album": {
-        "name": "hellsong. (let it in)",
-        "url": "https://open.spotify.com/album/25BaXSn7LKFdhareEiMpjb"
+        "name": "LUST (Selected Edition)",
+        "url": "https://open.spotify.com/album/5kAkYG1awEWhHuqDP5FjZE"
       },
       "artists": [
         {
-          "name": "CVLTE",
-          "url": "https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA"
+          "name": "\u30b3\u30ed\u30ca\u30ca\u30e2\u30ec\u30e2\u30e2",
+          "url": "https://open.spotify.com/artist/1LrHPFKVeA6Lw0vffeFZbr"
         }
       ],
-      "duration_ms": 185712,
-      "name": "hellsong. (let it in)",
-      "url": "https://open.spotify.com/track/44c8cYVjTFqJ5Yj6WyjMSQ"
-    },
-    {
-      "added_at": "2023-11-23 15:00:00",
-      "album": {
-        "name": "BEST of the Tank-top",
-        "url": "https://open.spotify.com/album/0Ng4VLkEM5p6YLXmqJi5Gf"
-      },
-      "artists": [
-        {
-          "name": "Yabai T-Shirts Yasan",
-          "url": "https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS"
-        }
-      ],
-      "duration_ms": 204973,
-      "name": "\u304b\u308fE",
-      "url": "https://open.spotify.com/track/4EjGcScTz7Uy1ISJfeeeEd"
+      "duration_ms": 222479,
+      "name": "\u30d3\u30ad\u30cb\u30fb\u30b9\u30dd\u30fc\u30c4\u30fb\u30dd\u30f3\u30c1\u30f3",
+      "url": "https://open.spotify.com/track/3cSfR5ePuViozu47qMhxNv"
     },
     {
       "added_at": "2023-11-23 15:00:00",
@@ -1515,18 +1499,34 @@
     {
       "added_at": "2023-11-23 15:00:00",
       "album": {
-        "name": "LUST (Selected Edition)",
-        "url": "https://open.spotify.com/album/5kAkYG1awEWhHuqDP5FjZE"
+        "name": "BEST of the Tank-top",
+        "url": "https://open.spotify.com/album/0Ng4VLkEM5p6YLXmqJi5Gf"
       },
       "artists": [
         {
-          "name": "\u30b3\u30ed\u30ca\u30ca\u30e2\u30ec\u30e2\u30e2",
-          "url": "https://open.spotify.com/artist/1LrHPFKVeA6Lw0vffeFZbr"
+          "name": "Yabai T-Shirts Yasan",
+          "url": "https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS"
         }
       ],
-      "duration_ms": 222479,
-      "name": "\u30d3\u30ad\u30cb\u30fb\u30b9\u30dd\u30fc\u30c4\u30fb\u30dd\u30f3\u30c1\u30f3",
-      "url": "https://open.spotify.com/track/3cSfR5ePuViozu47qMhxNv"
+      "duration_ms": 204973,
+      "name": "\u304b\u308fE",
+      "url": "https://open.spotify.com/track/4EjGcScTz7Uy1ISJfeeeEd"
+    },
+    {
+      "added_at": "2023-11-23 15:00:00",
+      "album": {
+        "name": "hellsong. (let it in)",
+        "url": "https://open.spotify.com/album/25BaXSn7LKFdhareEiMpjb"
+      },
+      "artists": [
+        {
+          "name": "CVLTE",
+          "url": "https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA"
+        }
+      ],
+      "duration_ms": 185712,
+      "name": "hellsong. (let it in)",
+      "url": "https://open.spotify.com/track/44c8cYVjTFqJ5Yj6WyjMSQ"
     },
     {
       "added_at": "2023-11-23 15:00:00",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2023-11-23 15:00:00",
       "album": {
-        "name": "Candy Cruise EP",
-        "url": "https://open.spotify.com/album/7f9rnDJTOsfDAn7FWGOlWN"
+        "name": "MAKING THE ROAD",
+        "url": "https://open.spotify.com/album/3rwiRN4pofymsM0Ex9oYoY"
       },
       "artists": [
         {
-          "name": "SHANK",
-          "url": "https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF"
+          "name": "Hi-STANDARD",
+          "url": "https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH"
         }
       ],
-      "duration_ms": 115520,
-      "name": "Japanese Cherry",
-      "url": "https://open.spotify.com/track/0rtQpVwfZW6ESBMc3XX5Gg"
+      "duration_ms": 120200,
+      "name": "STAY GOLD",
+      "url": "https://open.spotify.com/track/1YOjTz7D3IdqkxyAUUArLR"
     }
   ],
   "unique_name": "Loud Rock Japan",

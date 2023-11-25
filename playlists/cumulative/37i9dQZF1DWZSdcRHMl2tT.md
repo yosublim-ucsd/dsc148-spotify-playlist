@@ -4,7 +4,7 @@
 
 > Chill house beats for hanging out in the sun.
 
-401 songs - 20 hr 16 min
+402 songs - 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,7 +243,7 @@
 | [New Body](https://open.spotify.com/track/25hdCrZ2At7T6rb83Cuqyk) | [Tomu DJ](https://open.spotify.com/artist/3IkZulWyXacENlNykgnmwh), [DJ Manny](https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7), [SUCIA!](https://open.spotify.com/artist/4phVhN1ZvL8HshQ5UE7Wec) | [Half Moon Bay](https://open.spotify.com/album/1m8EjkInRMWiIxtJLYBfRI) | 4:07 | 2022-08-12 |  |
 | [New Jade](https://open.spotify.com/track/0aXTlYIS7b7mMDMBUUAtFq) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Rayn / New Jade](https://open.spotify.com/album/6CaGwdawqrWQ14o9vew84L) | 3:47 | 2022-04-05 |  |
 | [Next To Me](https://open.spotify.com/track/3zLvAsYtkRFNEHS4Z4Oe87) | [Soul to Speak](https://open.spotify.com/artist/0uYPjw4NSVY5IiZZd6kHdd) | [Next To Me](https://open.spotify.com/album/0rQjy8jVtUlzjp7D6lUWbg) | 2:22 | 2023-06-23 |  |
-| [Nigeria Rhythm](https://open.spotify.com/track/6OxqqDfG5smNFoVejgtBLI) | [Tropical king](https://open.spotify.com/artist/1KS0DksrAJXHcQ3kdc90tE) | [Nigeria Rhythm](https://open.spotify.com/album/3gSzRNT9ADgWo5YOmDxaqQ) | 2:42 | 2022-10-07 |  |
+| [Nigeria Rhythm](https://open.spotify.com/track/6OxqqDfG5smNFoVejgtBLI) | [Tropical king](https://open.spotify.com/artist/1KS0DksrAJXHcQ3kdc90tE) | [Nigeria Rhythm](https://open.spotify.com/album/3gSzRNT9ADgWo5YOmDxaqQ) | 2:42 | 2022-10-07 | 2023-11-25 |
 | [Night Ranger](https://open.spotify.com/track/7iyKQvIJ0kjdytW4WgR6U5) | [Jo Lange](https://open.spotify.com/artist/1IoUhC61gvcKQiYvbus1me) | [Aerials](https://open.spotify.com/album/4p4jg5815wGcBGM6CIeBLl) | 3:33 | 2022-11-25 |  |
 | [Night Shades](https://open.spotify.com/track/0jneMOWzfrISVk4esEnvC9) | [Purple Waves](https://open.spotify.com/artist/0KJ2P4KrAgSoL8dg3Bpoc1) | [Night Shades](https://open.spotify.com/album/1mq4x89voeeXoA7FYaKEQa) | 2:21 | 2023-08-04 |  |
 | [Night Time Bliss](https://open.spotify.com/track/3sZZDhEVYJ8tyTiYEGCcg6) | [Phello](https://open.spotify.com/artist/6TArvryQ2YjjufQdezlUUh) | [Night Time Bliss](https://open.spotify.com/album/0EDmSY43a9bcUdCDimpyba) | 2:54 | 2023-10-02 |  |
@@ -276,6 +276,7 @@
 | [Pinkland](https://open.spotify.com/track/3NrEA3JQTvVFfy6BMPy8EH) | [Young Community](https://open.spotify.com/artist/1dThUtszO1jevy1BfKlCcR) | [Pinkland](https://open.spotify.com/album/2uEEJf58UChxAoZWm7YGat) | 5:29 | 2022-04-15 | 2022-07-22 |
 | [Play Day](https://open.spotify.com/track/0Uh3tGWukoXgGxsZvPLtmw) | [Oskarr Starr](https://open.spotify.com/artist/0j6bCXv5JPvFkLqPlcwlZ9) | [Play Day](https://open.spotify.com/album/0UKqrWV652dKSlLiF641a9) | 4:02 | 2022-04-05 | 2022-07-29 |
 | [Play It Deep](https://open.spotify.com/track/7CMPSvxS4twJI3a7RYOC6j) | [BLK BX](https://open.spotify.com/artist/1y1qkzZPEQRXs5lHzqQP41) | [Play it Deep](https://open.spotify.com/album/3r6lYpUQHUjQEpXI7mlRzh) | 2:55 | 2022-04-05 | 2022-09-09 |
+| [Pool Squad](https://open.spotify.com/track/17UhZzfi5g69iF7AVmfmat) | [Dr\. Stu](https://open.spotify.com/artist/5GlVlEMBULr4iUAjL4cT1R) | [Pool Squad](https://open.spotify.com/album/2mfKZWabYVC28EemAt8XeR) | 2:46 | 2023-11-24 |  |
 | [Poolside](https://open.spotify.com/track/7MwdpC8XHqrQuk8PZS0H7t) | [Lil Harry](https://open.spotify.com/artist/5T1ysNHc5KEa6gjPBahyBc) | [Poolside](https://open.spotify.com/album/6ZNvoxhhS4FY1nTZg1OpAj) | 2:54 | 2022-07-22 |  |
 | [Prends Une Gorgée](https://open.spotify.com/track/3GnWF937SVEkmDWCiZW2wR) | [De Mayu](https://open.spotify.com/artist/7bUlyOlDHrlNWjVUTiamjJ) | [Prends Une Gorgée](https://open.spotify.com/album/1Od3DKnrdSJkZ6bxNtjiTG) | 3:13 | 2022-04-05 |  |
 | [Pretty Party People](https://open.spotify.com/track/3IbMrPsQjOBhqM3SqgUf6B) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [Pretty Party People](https://open.spotify.com/album/31i7kLJmzrGirJU54NqMOd) | 2:41 | 2023-05-05 |  |

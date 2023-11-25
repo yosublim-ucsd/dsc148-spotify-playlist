@@ -1,13 +1,29 @@
 {
-  "description": "Discover your new favourite artists from UK&IE. Cover: B-ahwe",
-  "num_followers": 119726,
+  "description": "Discover your new favourite artists from UK&IE. Cover: Essosa",
+  "num_followers": 119721,
   "original_name": "RADAR UK & Ireland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzQxMjVkMWQwZTA0MDI1ODE0NzcxMTQyMmY4OTc5YTE4NTE5MDg5",
+  "snapshot_id": "MCxhMjI5OTk5OWU5YTA3YzdjMjUxYzhiNWJlNDE0MmNhNzc5Zjk0NTIw",
   "tracks": [
+    {
+      "added_at": "2023-11-24 00:00:00",
+      "album": {
+        "name": "Tell Nobody",
+        "url": "https://open.spotify.com/album/4ywZzKzeST3zTSCwd3UN7X"
+      },
+      "artists": [
+        {
+          "name": "Essosa",
+          "url": "https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY"
+        }
+      ],
+      "duration_ms": 169674,
+      "name": "Tell Nobody",
+      "url": "https://open.spotify.com/track/2tVDJV4m7XhHR1JO4DQQKR"
+    },
     {
       "added_at": "2023-11-17 00:00:00",
       "album": {

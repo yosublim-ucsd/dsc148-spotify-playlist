@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Aziz Hedra",
+  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Awdella",
   "name": "RADAR Indonesia",
   "tracks": [
     {
@@ -2762,6 +2762,24 @@
       "duration_ms": 249343,
       "name": "Tafsir Mistik",
       "url": "https://open.spotify.com/track/0aPepMh9otBMbV4xKmiRtq"
+    },
+    {
+      "album": {
+        "name": "Tak Bisa Bilang",
+        "url": "https://open.spotify.com/album/6PWcf1Zb6nOjN5XJFIs1gH"
+      },
+      "artists": [
+        {
+          "name": "Awdella",
+          "url": "https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249336,
+      "name": "Tak Bisa Bilang",
+      "url": "https://open.spotify.com/track/2rNMr1l3vFvJcIJh59QVLg"
     },
     {
       "album": {

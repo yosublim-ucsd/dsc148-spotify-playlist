@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GS0ENHpuKP.md) - [plain]
 
 > <a href="spotify:artist:77J3V0V7sEOf5ifCDBSNaJ">Nu Genea</a>'s favorite tracks\. Updated regularly\. Curated by Nu Genea\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,107 likes - 55 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,149 likes - 55 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GS0ENHpuKP.md) - [plain]
 | 15 | [Song for You](https://open.spotify.com/track/0u8ZMXcwzcKqQnWqcCAvLB) | [Popcorn](https://open.spotify.com/artist/1OjLkKWa1sOm8onEQUrZLQ) | [Prime Choice](https://open.spotify.com/album/3w6kQTZlkeOk28IVFwirEt) | 4:33 |
 | 16 | [Use My Body](https://open.spotify.com/track/7icSPAv1VMEjh7jHP4rqt0) | [Mavis John](https://open.spotify.com/artist/3MkGbWOM7lb49LNZViHwxG) | [Mr Bongo Record Club, Vol\. 1](https://open.spotify.com/album/5KZ592h7LSigAzhRtsRwue) | 4:27 |
 | 17 | [Riflessione finale](https://open.spotify.com/track/1rlFvwrdtu1dO7iB8ZoBUl) | [Enzo Carella](https://open.spotify.com/artist/5OJ0DNeHpHq7b6fHWRaPp9) | [Sfinge](https://open.spotify.com/album/35JBlxCx7XjzZDD5XbR76s) | 4:26 |
-| 18 | [El Fen](https://open.spotify.com/track/7mxnjeb6R7jMyKbxGTaB9B) | [Ait Meslayene](https://open.spotify.com/artist/6UqOmCP26EuPagfWAAGEaI) | [El Fen / Casbah](https://open.spotify.com/album/4FyMIn7x3MvXhS77CU8gOs) | 4:39 |
+| 18 | [El fen](https://open.spotify.com/track/4rDxUHTSSRzYmYgzYOSRCr) | [Ait Meslayene](https://open.spotify.com/artist/6UqOmCP26EuPagfWAAGEaI) | [Je suis saoul](https://open.spotify.com/album/2vphiwW3fz3JyAI8x8qtIS) | 4:39 |
 | 19 | [Marechià](https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ), [Célia Kameni](https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt) | [Marechià](https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W) | 4:24 |
 | 20 | [Vamonos](https://open.spotify.com/track/5EuXInpQgpeEBEcJ2yS97u) | [Elkin & Nelson](https://open.spotify.com/artist/2B6jLXMjMSW7Jf8yBM6rVJ) | [Elkin & Nelson](https://open.spotify.com/album/1pK8v2GvaZlmRbwKfcdsDW) | 9:17 |
 | 21 | [Ti voglio](https://open.spotify.com/track/5Z8A2y3IxNvkRzEMxWu01u) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv) | [Io Fuori](https://open.spotify.com/album/2vxXavw8SrYsHR707Novja) | 5:49 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GS0ENHpuKP.md) - [plain]
 | 54 | [Il vecchiaccio](https://open.spotify.com/track/1u0uPBJx7pHVlx9L2Wcydu) | [Bruno Lauzi](https://open.spotify.com/artist/69lP1pS5aRVxgyvi0uOYbg) | [le più belle canzoni](https://open.spotify.com/album/02322HwE6b1hf200vS8dVR) | 3:45 |
 | 55 | [Lotus 72 D \- Fast Version](https://open.spotify.com/track/7rtcBPsHDLeYW9cHDrO0NB) | [Zé Roberto](https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ) | [Lotus 72 D](https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai) | 3:00 |
 
-Snapshot ID: `MCw4YjkwMDYxOGE3OTA2ZjViOTc2ZTdkY2VlOTBiM2U1ODU4YTUzOTcy`
+Snapshot ID: `MCwxZDJiZTlkYjg1OGM3ODc5YzllMzkyM2U2MjI1MWQ3ZDNmYzlmMmI5`

@@ -203,6 +203,32 @@
     },
     {
       "album": {
+        "name": "Bandook",
+        "url": "https://open.spotify.com/album/0sk24QdJxC9xo3pf0kUtnO"
+      },
+      "artists": [
+        {
+          "name": "Chani Nattan",
+          "url": "https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp"
+        },
+        {
+          "name": "Inderpal Moga",
+          "url": "https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN"
+        },
+        {
+          "name": "Sultaan",
+          "url": "https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174375,
+      "name": "Bandook",
+      "url": "https://open.spotify.com/track/0PI4h632z9m5GWEV5UuBJr"
+    },
+    {
+      "album": {
         "name": "Bar 4 Bar Champ 2023",
         "url": "https://open.spotify.com/album/3aV2FnHhTFdvZATdsnHZwX"
       },
@@ -562,7 +588,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 178520,
       "name": "Gucci",
       "url": "https://open.spotify.com/track/7wkAbTbO0iaLuoTvAkWMCV"
@@ -896,6 +922,24 @@
       "duration_ms": 240870,
       "name": "Mere Yaar",
       "url": "https://open.spotify.com/track/4WGB2CIMUlIUKmNTA3cDm1"
+    },
+    {
+      "album": {
+        "name": "Messiah",
+        "url": "https://open.spotify.com/album/6Dw5vjF9XOoR7SdfDRajiY"
+      },
+      "artists": [
+        {
+          "name": "tricksingh",
+          "url": "https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137191,
+      "name": "Messiah",
+      "url": "https://open.spotify.com/track/1flBeSEMyqnJvY3olfBS6i"
     },
     {
       "album": {
@@ -1316,7 +1360,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 164141,
       "name": "Raid",
       "url": "https://open.spotify.com/track/7ECFmo4sbVrI5wh9SuoMho"

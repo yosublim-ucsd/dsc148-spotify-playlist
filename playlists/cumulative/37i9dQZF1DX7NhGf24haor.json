@@ -8168,10 +8168,28 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 143200,
       "name": "Nine 2 Five",
       "url": "https://open.spotify.com/track/1qPJHuTYqCa4VwlpZRhUVs"
+    },
+    {
+      "album": {
+        "name": "Nine 2 Five",
+        "url": "https://open.spotify.com/album/1kTIfYlljukpQidDcdZh3e"
+      },
+      "artists": [
+        {
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143200,
+      "name": "Nine 2 Five",
+      "url": "https://open.spotify.com/track/5zylS3y0Yh4slf7IM1UFai"
     },
     {
       "album": {

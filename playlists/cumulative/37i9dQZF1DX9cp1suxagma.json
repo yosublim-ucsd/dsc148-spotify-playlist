@@ -382,7 +382,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 157843,
       "name": "Beatriz",
       "url": "https://open.spotify.com/track/5cK1zvYTFLjgEasUpEYoAj"
@@ -480,7 +480,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 190586,
       "name": "Casi",
       "url": "https://open.spotify.com/track/4MJS2cxqpRbwn9G88X3w0j"
@@ -668,6 +668,24 @@
       "duration_ms": 205938,
       "name": "Despu\u00e9s de la Tormenta",
       "url": "https://open.spotify.com/track/4ivDHA6dgIlrit7blIR1hm"
+    },
+    {
+      "album": {
+        "name": "Discoteca",
+        "url": "https://open.spotify.com/album/1gVXO4KetZZupnhcN9zBxQ"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Santamaria",
+          "url": "https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185822,
+      "name": "Discoteca",
+      "url": "https://open.spotify.com/track/7GoflMNfOi849vMcoRuMKB"
     },
     {
       "album": {
@@ -1773,6 +1791,24 @@
     },
     {
       "album": {
+        "name": "No soy yo",
+        "url": "https://open.spotify.com/album/78WLJ4fRlnvYprbgAwvNi9"
+      },
+      "artists": [
+        {
+          "name": "Chago",
+          "url": "https://open.spotify.com/artist/5aQK13za62lrxQASWuHMbG"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146818,
+      "name": "No soy yo",
+      "url": "https://open.spotify.com/track/47Q1O0vKdL4QTC9FZdSwT1"
+    },
+    {
+      "album": {
         "name": "No S\u00e9 Querer",
         "url": "https://open.spotify.com/album/5mCGmJ3N1H0ARTdBCihqMO"
       },
@@ -1886,7 +1922,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 212698,
       "name": "Nuez",
       "url": "https://open.spotify.com/track/6Pt1SXtWsjL8tEKV94F5VX"
@@ -2403,6 +2439,24 @@
     },
     {
       "album": {
+        "name": "Si Volviera A Conocerte",
+        "url": "https://open.spotify.com/album/7zfm25FnJAkDghWQZNTDD4"
+      },
+      "artists": [
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191924,
+      "name": "Si Volviera A Conocerte",
+      "url": "https://open.spotify.com/track/5fRvUrRQHWfnwssgPQKQ49"
+    },
+    {
+      "album": {
         "name": "\u00bfA D\u00f3nde Vamos?",
         "url": "https://open.spotify.com/album/01R2vYq9iDhn4ZXtM5dd7i"
       },
@@ -2484,6 +2538,24 @@
       "duration_ms": 205791,
       "name": "Sirena",
       "url": "https://open.spotify.com/track/1juHIWqgFiDFAKuEBP24Lt"
+    },
+    {
+      "album": {
+        "name": "Sobreviviste",
+        "url": "https://open.spotify.com/album/1TpmuLGyFw9tVtuBIt7t6u"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186760,
+      "name": "Sobreviviste",
+      "url": "https://open.spotify.com/track/3CGPWcU0S3tnb1hSvtyBmj"
     },
     {
       "album": {
@@ -2630,6 +2702,24 @@
       "duration_ms": 242400,
       "name": "Te Cre\u00ed",
       "url": "https://open.spotify.com/track/1G2ZDpnDiNoS2hLunRxsvL"
+    },
+    {
+      "album": {
+        "name": "Te Dejo Entrar",
+        "url": "https://open.spotify.com/album/7Il8qjMFGj4QT1XLih4Qcp"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192845,
+      "name": "Te Dejo Entrar",
+      "url": "https://open.spotify.com/track/39ME7Co4Z5ETWFhAGBqMhh"
     },
     {
       "album": {
@@ -3114,7 +3204,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 206573,
       "name": "Ya Para Qu\u00e9",
       "url": "https://open.spotify.com/track/7HCZWKJmHITV7Pt5YTQDcL"
@@ -3204,7 +3294,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 169613,
       "name": "\u00bfY Si Eras T\u00fa?",
       "url": "https://open.spotify.com/track/4PFEzT2wC6BISXyRbP72zs"

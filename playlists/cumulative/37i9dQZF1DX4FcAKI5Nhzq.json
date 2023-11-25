@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! Cover: Crush",
+  "description": "Future K-Pop hits! Cover: BANG YEDAM",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -692,6 +692,24 @@
       "duration_ms": 186872,
       "name": "Always",
       "url": "https://open.spotify.com/track/6bLZ6JV1mAGz4xfS1ZwOMV"
+    },
+    {
+      "album": {
+        "name": "CONTINUUM",
+        "url": "https://open.spotify.com/album/2AsnF98Eiqyyz1KtvmBhQP"
+      },
+      "artists": [
+        {
+          "name": "VIXX",
+          "url": "https://open.spotify.com/artist/5BkB3rXc0qIdUtuEnhbK0A"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178080,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/6tIIC3K58Sk6Et8KYmynez"
     },
     {
       "album": {
@@ -3630,7 +3648,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 185719,
       "name": "DANG! (hocus pocus)",
       "url": "https://open.spotify.com/track/2pNxufMWgPp8I7m6zPChq6"
@@ -4018,6 +4036,24 @@
       "duration_ms": 191816,
       "name": "Diamonds (feat. TAEYONG)",
       "url": "https://open.spotify.com/track/1ng5jtfyr1MaEfmKvsXw48"
+    },
+    {
+      "album": {
+        "name": "DIE 4 YOU",
+        "url": "https://open.spotify.com/album/0FMkdX3YNx7Ez7pv3XRGzr"
+      },
+      "artists": [
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194045,
+      "name": "DIE 4 YOU",
+      "url": "https://open.spotify.com/track/7yZD4AVfQtAZD4cG8eRnPk"
     },
     {
       "album": {
@@ -7275,6 +7311,24 @@
     },
     {
       "album": {
+        "name": "I (Feat. DAWN)",
+        "url": "https://open.spotify.com/album/4yCLOlSNlSuwvzGVkYsLwU"
+      },
+      "artists": [
+        {
+          "name": "Park Bom",
+          "url": "https://open.spotify.com/artist/3uHb6dRazmcaT15bMexUtt"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233573,
+      "name": "I (Feat. DAWN)",
+      "url": "https://open.spotify.com/track/6md6ZAdNYB356gXFFW7GXV"
+    },
+    {
+      "album": {
         "name": "I AM SHAMPOO",
         "url": "https://open.spotify.com/album/2MH5K8RTLoLzkpgtIYWFUe"
       },
@@ -8580,7 +8634,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 199146,
       "name": "LET\u2032S DANCE",
       "url": "https://open.spotify.com/track/5OJFA4FvJAML5CgPzTjRM8"
@@ -8678,7 +8732,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 209453,
       "name": "Like Heaven (Feat. Paul Blanco)",
       "url": "https://open.spotify.com/track/5VqfYiw615GoTJpkvzWPYm"
@@ -11255,6 +11309,24 @@
     },
     {
       "album": {
+        "name": "ONLY ONE",
+        "url": "https://open.spotify.com/album/1gh4MsmIImvxnpiDELpt6S"
+      },
+      "artists": [
+        {
+          "name": "BANG YEDAM",
+          "url": "https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190640,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/00Ba2PRFeih7voe93Bf5mk"
+    },
+    {
+      "album": {
         "name": "THE FIRST STEP : CHAPTER THREE",
         "url": "https://open.spotify.com/album/3dfrKjXXIsZ8ftwen5v40w"
       },
@@ -12060,7 +12132,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 177453,
       "name": "RA TA TA (Feat. Lil Cherry)",
       "url": "https://open.spotify.com/track/37WwbTpUvG0Vi4kvGY14nP"

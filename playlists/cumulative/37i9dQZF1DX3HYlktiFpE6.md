@@ -4,7 +4,7 @@
 
 > Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more\. Just sing it! Cover: Pentatonix
 
-161 songs - 8 hr 40 min
+162 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Erase Me](https://open.spotify.com/track/5ACHI9SsKvZXiBY3sUqGKd) | [Distilled Harmony](https://open.spotify.com/artist/2oYLwmWHaHrK4suIVZh8SU) | [Mirage](https://open.spotify.com/album/2JiSCBhXuT7wpFHAVqkqyt) | 3:17 | 2023-06-02 |  |
 | [Escape \(The Piña Colada Song\)](https://open.spotify.com/track/5Q9y6VbwQ5PvvnfAJJ8R1K) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [Escape \(The Piña Colada Song\)](https://open.spotify.com/album/4BRCQ0PIitcwgK72XEnQnu) | 3:44 | 2023-06-23 |  |
 | [Every Summertime](https://open.spotify.com/track/22mBPR8JCwq0Pn1SLRdhBX) | [The Filharmonic](https://open.spotify.com/artist/63QppfTaQHZpb8VhSlsvZz) | [Profiles](https://open.spotify.com/album/3bEXompivsNWzJnqKGtTPO) | 3:12 | 2023-10-20 |  |
+| [Everywhere](https://open.spotify.com/track/1cYdB2jTXcfCX9NgQe0fib) | [The Virginia Belles](https://open.spotify.com/artist/22YaTeakBauJ5h9iMDVrAR) | [highs and lows](https://open.spotify.com/album/3JF5SoC409uL2D7FOgau1H) | 3:11 | 2023-11-24 |  |
 | [F\*\*k You](https://open.spotify.com/track/7A2JJ6L13W5WTdi2NCyn6R) | [The Sockapellas](https://open.spotify.com/artist/4iMeGfjSNJnmmg6yPKCzhd) | [Ultimate Pitch Perfect \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U) | 1:12 | 2021-12-24 | 2022-11-13 |
 | [F\*\*k You](https://open.spotify.com/track/2iSznonsMCSU95AHXFGVcH) | [The Sockapellas](https://open.spotify.com/artist/4iMeGfjSNJnmmg6yPKCzhd) | [Pitch Perfect \(More Music From The Motion Picture\) EP](https://open.spotify.com/album/7a2PTJIJdgJZPRoO1op0hS) | 1:12 | 2021-12-24 |  |
 | [Feelin' It](https://open.spotify.com/track/14cikDRwGYOB1UfdA44V4P) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [Feelin' It](https://open.spotify.com/album/5tO2dLnLIp7up7epQNTjpI) | 3:02 | 2021-12-24 | 2023-05-04 |
@@ -162,7 +163,7 @@
 | [Waka Waka \(This Time For Africa\)](https://open.spotify.com/track/1ZRXk2GjLeHu1Ojv4WDWs4) | [University of Rochester YellowJackets](https://open.spotify.com/artist/5PdBpsZXvnEbbTe1589fMO) | [United We Sing](https://open.spotify.com/album/7oJCzq2s36F8PByLgaaYX6) | 3:19 | 2021-12-24 |  |
 | [Waka Waka \(This Time for Africa\)](https://open.spotify.com/track/37x7PLzv5rAxTZAgfCInUx) | [University of Rochester YellowJackets](https://open.spotify.com/artist/5PdBpsZXvnEbbTe1589fMO) | [Voices Only 2013 College A Cappella, Vol\. 1](https://open.spotify.com/album/6zr4GyBIMy2GRvIGPflYaK) | 3:20 | 2021-12-24 | 2022-11-13 |
 | [Wake Me Up](https://open.spotify.com/track/60Q0ZSKKBea7otGijFgrQI) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [Crazy Life](https://open.spotify.com/album/7qn9BbiBucTH28IoyEGMyy) | 3:13 | 2021-12-24 | 2023-10-21 |
-| [Wavin' Flag](https://open.spotify.com/track/21i3JjSTPryzlVKNBiWjxE) | [University of Rochester YellowJackets](https://open.spotify.com/artist/5PdBpsZXvnEbbTe1589fMO) | [The Sing\-Off: Season 3: Episode 1 \- Signature Songs](https://open.spotify.com/album/6QOq1vvaRJxVzDFS1GBN3S) | 1:55 | 2021-12-24 |  |
+| [Wavin' Flag](https://open.spotify.com/track/21i3JjSTPryzlVKNBiWjxE) | [University of Rochester YellowJackets](https://open.spotify.com/artist/5PdBpsZXvnEbbTe1589fMO) | [The Sing\-Off: Season 3: Episode 1 \- Signature Songs](https://open.spotify.com/album/6QOq1vvaRJxVzDFS1GBN3S) | 1:55 | 2021-12-24 | 2023-11-25 |
 | [We Belong \- From "Pitch Perfect 2" Soundtrack](https://open.spotify.com/track/2pnsJSwvm00f84JxPzHKUg) | [Rebel Wilson](https://open.spotify.com/artist/2PBf6AHIDEgPtF2aJebmhq), [Adam Devine](https://open.spotify.com/artist/44Z6QdihkJhFiGhyk1ISVI) | [Pitch Perfect 2 \- Special Edition \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE) | 3:34 | 2021-12-24 |  |
 | [We Belong \- From "Pitch Perfect 2" Soundtrack](https://open.spotify.com/track/4ONGO8V1owsu27dK3mvSfK) | [Rebel Wilson](https://open.spotify.com/artist/2PBf6AHIDEgPtF2aJebmhq), [Adam Devine](https://open.spotify.com/artist/44Z6QdihkJhFiGhyk1ISVI) | [Pitch Perfect 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Us79qhfgvZlWTuWBClLmR) | 3:34 | 2021-12-24 | 2022-07-29 |
 | [We Found Love](https://open.spotify.com/track/71V0rTB5iFgHkjkTG20iAg) | [Voices in Your Head](https://open.spotify.com/artist/44v8JgDySt9tkgfV3AWxBJ) | [The Singles: In My Mind](https://open.spotify.com/album/2mRy0qh8B7XE7ZfBCXGKhY) | 3:45 | 2022-12-09 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes. Cover: <a href=\"spotify:artist:5l8VQNuIg0turYE1VtM9zV\">Leonard Cohen</a>",
-  "num_followers": 10231,
+  "num_followers": 10233,
   "original_name": "Leonard Cohen: Covered",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDg5MWVlNmZhZTU1ZDE5MDdhMmM0ZGU3ODFiYjlhMDg2N2MwYzY2",
+  "snapshot_id": "MCw4YjdiYmNlNGY1YWZjMzg1NTg5OTRkZTgyNzkyZjRmYTA2ZDZlYmE3",
   "tracks": [
     {
       "added_at": "2018-12-06 19:29:22",
@@ -417,26 +417,6 @@
       "url": "https://open.spotify.com/track/1EIfLBzokPuUFaU8aZ9nf3"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Here It Is: A Tribute to Leonard Cohen",
-        "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
-      },
-      "artists": [
-        {
-          "name": "Here It Is",
-          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
-        },
-        {
-          "name": "Peter Gabriel",
-          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
-        }
-      ],
-      "duration_ms": 312760,
-      "name": "Here It Is",
-      "url": "https://open.spotify.com/track/0MJpdShAMrg3fpW83THGyC"
-    },
-    {
       "added_at": "2018-12-06 19:29:22",
       "album": {
         "name": "Tower Of Song - The Songs Of Leonard Cohen",
@@ -455,6 +435,26 @@
       "duration_ms": 199600,
       "name": "Sisters Of Mercy",
       "url": "https://open.spotify.com/track/1t8gcWQNb5bD9XssAzxbcw"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Here It Is: A Tribute to Leonard Cohen",
+        "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
+      },
+      "artists": [
+        {
+          "name": "Here It Is",
+          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
+        },
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "duration_ms": 312760,
+      "name": "Here It Is",
+      "url": "https://open.spotify.com/track/0MJpdShAMrg3fpW83THGyC"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -503,26 +503,6 @@
       "duration_ms": 482493,
       "name": "Always",
       "url": "https://open.spotify.com/track/2gVIZoOxoTwSbkMwWkd2x8"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "You Want It Darker",
-        "url": "https://open.spotify.com/album/2MH9oJX77xgvcnkolwPtBp"
-      },
-      "artists": [
-        {
-          "name": "Here It Is",
-          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
-        },
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 304680,
-      "name": "You Want It Darker (feat. Iggy Pop)",
-      "url": "https://open.spotify.com/track/4V9hISY6WBa3NPyBgcZ9dD"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -623,6 +603,26 @@
       "duration_ms": 180106,
       "name": "Who By Fire",
       "url": "https://open.spotify.com/track/13t5z9HD9e6syCaUweEqYH"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "You Want It Darker",
+        "url": "https://open.spotify.com/album/2MH9oJX77xgvcnkolwPtBp"
+      },
+      "artists": [
+        {
+          "name": "Here It Is",
+          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 304680,
+      "name": "You Want It Darker (feat. Iggy Pop)",
+      "url": "https://open.spotify.com/track/4V9hISY6WBa3NPyBgcZ9dD"
     },
     {
       "added_at": "2018-12-06 19:29:22",

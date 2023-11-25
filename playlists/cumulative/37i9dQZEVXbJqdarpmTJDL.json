@@ -8678,7 +8678,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 187500,
       "name": "FEMINISTIS",
       "url": "https://open.spotify.com/track/3CBZxjDHQpgvHsnqF06CSu"
@@ -8880,7 +8880,7 @@
       ],
       "date_added": "2023-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 180326,
       "name": "Floga",
       "url": "https://open.spotify.com/track/57uiFyexstQyJ04VAAXa49"
@@ -9828,6 +9828,32 @@
       "duration_ms": 148633,
       "name": "Geia Sou",
       "url": "https://open.spotify.com/track/6dpGIUTsj7yZGhrnhccX27"
+    },
+    {
+      "album": {
+        "name": "GEITONIA III",
+        "url": "https://open.spotify.com/album/69TgVl1JEo3yUftA3v0NIz"
+      },
+      "artists": [
+        {
+          "name": "MG",
+          "url": "https://open.spotify.com/artist/6SWOdiks4Ac3lMM8NCqDm0"
+        },
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        },
+        {
+          "name": "Phen",
+          "url": "https://open.spotify.com/artist/3Or7sFYK0roAEy6IznZP5q"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209600,
+      "name": "GEITONIA III",
+      "url": "https://open.spotify.com/track/2vlD1APBebhoBy8Ok5lCUB"
     },
     {
       "album": {
@@ -27512,6 +27538,32 @@
       "duration_ms": 181000,
       "name": "Vavilona",
       "url": "https://open.spotify.com/track/3SOiiEaKhpZOZxg3qgu8vb"
+    },
+    {
+      "album": {
+        "name": "VENDETTA",
+        "url": "https://open.spotify.com/album/6BuTdBv3IDQijHQEtyMAU3"
+      },
+      "artists": [
+        {
+          "name": "RACK",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        },
+        {
+          "name": "MENJU",
+          "url": "https://open.spotify.com/artist/0LEXmZvtgBqS9MZgqpLU6f"
+        },
+        {
+          "name": "Oge",
+          "url": "https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139436,
+      "name": "VENDETTA",
+      "url": "https://open.spotify.com/track/0qEyAUuAcmXEn54vqCZrRo"
     },
     {
       "album": {

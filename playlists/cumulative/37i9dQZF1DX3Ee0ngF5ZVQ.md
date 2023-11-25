@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Flatland Cavalry
 
-569 songs - 1 day 9 hr 53 min
+570 songs - 1 day 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [All In This Together](https://open.spotify.com/track/7gvpJ3YIEBOcgpjgP9v8hW) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX), [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [All In This Together](https://open.spotify.com/album/0c05xTDdNlYMUqzeOx9X3X) | 3:38 | 2022-02-25 | 2022-07-27 |
 | [All It Cost Me Was Everything](https://open.spotify.com/track/0pE4AMTKXsXRwCJWFLtqx5) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Mercy](https://open.spotify.com/album/3OMTlnEISam5mlHSO9kdxq) | 3:50 | 2023-01-06 |  |
 | [All It Cost Me Was Everything](https://open.spotify.com/track/1DUaW1loQrhR7WIIRtxehF) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [All It Cost Me Was Everything](https://open.spotify.com/album/0gpB09xRcG5BTyVanMJNJC) | 3:50 | 2021-12-17 | 2023-01-07 |
-| [All Of My Exes \(Still Make Me Breakfast\) \- Live From Cheatham Street](https://open.spotify.com/track/48pMU2RkrMLAzM4NfGIBUQ) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Live From Cheatham Street](https://open.spotify.com/album/5toLbY15yPPb1iVknycOc0) | 4:14 | 2023-10-06 |  |
+| [All Of My Exes \(Still Make Me Breakfast\) \- Live From Cheatham Street](https://open.spotify.com/track/48pMU2RkrMLAzM4NfGIBUQ) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Live From Cheatham Street](https://open.spotify.com/album/5toLbY15yPPb1iVknycOc0) | 4:14 | 2023-10-06 | 2023-11-25 |
 | [All We Are Is Memories](https://open.spotify.com/track/5v2UMwQWKZOIBD4d7CFN5a) | [Houston Bernard](https://open.spotify.com/artist/47sMYU4wkPXThnOUOSqbXl) | [All We Are Is Memories](https://open.spotify.com/album/5Hz5PIPFSlJdTr9HJXmbGc) | 4:00 | 2021-12-17 | 2022-03-19 |
 | [All You Got](https://open.spotify.com/track/5e0QbyoJLhQUVtwmVqUqkI) | [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ) | [All You Got](https://open.spotify.com/album/6t9hCUzNZ79wpGmXv4NAZg) | 3:13 | 2022-01-28 | 2022-07-29 |
 | [Alone In Your Mind](https://open.spotify.com/track/3q3hYhGxZNfPav2qgPewP7) | [Larissa Boyd](https://open.spotify.com/artist/76BLe6Ojs4hwzg9xOkOagD) | [Alone In Your Mind](https://open.spotify.com/album/5HgZ4NjsrD5Yfr51CaElbn) | 4:52 | 2021-12-17 | 2022-07-29 |
@@ -101,6 +101,7 @@
 | [Car Ride Home](https://open.spotify.com/track/5oiyEMZL6oA50VLnbas2hE) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Car Ride Home](https://open.spotify.com/album/5qRwxL43IJCKoVJKpicz0e) | 4:35 | 2023-04-28 | 2023-05-20 |
 | [Carolina Blue](https://open.spotify.com/track/76JB6oI3TtAfumq8n6nWie) | [Casey Daniels Band](https://open.spotify.com/artist/7eVdtDS1ReoSxBZ4Apqpc7) | [Carolina Blue](https://open.spotify.com/album/0fkNQ1049j1r0Dj4oF6hRn) | 3:41 | 2023-01-13 | 2023-06-24 |
 | [Change Your Mind](https://open.spotify.com/track/0pGMmBw3aXGWGR32ydIZMU) | [Nathan Perry](https://open.spotify.com/artist/0GNySaIRzLXcOfWpKlRv3w) | [Change Your Mind](https://open.spotify.com/album/3SavsOcLJAxYDGWUvgo4e1) | 4:10 | 2022-03-25 | 2022-07-09 |
+| [Chasing My Tail](https://open.spotify.com/track/33IImDk07VMw7E99BWz6jK) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Have A Nice Day](https://open.spotify.com/album/2xXY6j7QVSz6rpqEU9q1Ha) | 3:58 | 2023-11-24 |  |
 | [Cheap Seats](https://open.spotify.com/track/20pXH2n3JK80FTqcSjq6iS) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Unwanted Man](https://open.spotify.com/album/4o5I0LPIKI0LqNGfV88pCw) | 3:53 | 2022-07-22 | 2022-09-10 |
 | [Cheap Seats](https://open.spotify.com/track/2iMyXbr0uNggwmJMobab0s) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [From The Album 'Unwanted Man'](https://open.spotify.com/album/7uyT7ndhraNB58aoPyFhU0) | 3:53 | 2022-04-22 | 2022-07-29 |
 | [Cheater](https://open.spotify.com/track/6EPaIJavBPjo5aXlnEFfBU) | [Taylor Tumlinson](https://open.spotify.com/artist/2qY2krsaIOF7H8SUEVYiBn) | [Cheater](https://open.spotify.com/album/3cIDyXsKBDgSSVZmedqwTn) | 3:09 | 2022-03-11 | 2022-07-29 |

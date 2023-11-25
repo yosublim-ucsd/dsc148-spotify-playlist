@@ -1,13 +1,29 @@
 {
-  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ?si=ygY5KPDnT3W2Ng5lASMb6w\">Justin Lee</a> ",
-  "num_followers": 10203,
+  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU?si=MhhOT8hQRVm7-aNkyYmJJw\">Beatenberg</a> ",
+  "num_followers": 10229,
   "original_name": "SAlt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTMxNWQ4Yjc2ZjNhN2QwYTYxYjc5OTE3NzIyODRlNWFlMzJhMjUy",
+  "snapshot_id": "MCxiMjM5MGI0ZDMyMmM5M2I1ZGZlODk4Nzk0YWY2ODQ1ZjJhNTJlZjNk",
   "tracks": [
+    {
+      "added_at": "2023-11-24 06:12:45",
+      "album": {
+        "name": "When I Fall Asleep",
+        "url": "https://open.spotify.com/album/4vUFuA4wTNZGro4h3MF5Oc"
+      },
+      "artists": [
+        {
+          "name": "Beatenberg",
+          "url": "https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU"
+        }
+      ],
+      "duration_ms": 218132,
+      "name": "When I Fall Asleep",
+      "url": "https://open.spotify.com/track/1I344E7xPEUPHBBmKOC9Fr"
+    },
     {
       "added_at": "2023-11-17 04:48:46",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 117500,
       "name": "As The Sun Shines",
       "url": "https://open.spotify.com/track/6ZZ1JyFWpUv1szHI8HE4e9"
+    },
+    {
+      "added_at": "2023-11-24 06:12:45",
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/6d27t0lgtkKkjjeJ55fHzq"
+      },
+      "artists": [
+        {
+          "name": "Goofy Geese",
+          "url": "https://open.spotify.com/artist/4ogf206MydyTFBUNeguyIl"
+        }
+      ],
+      "duration_ms": 243613,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/6QknKLdxORTpHLH8l0UHeA"
     },
     {
       "added_at": "2023-11-17 04:48:46",
@@ -45,6 +77,22 @@
       "url": "https://open.spotify.com/track/1jUKqH0MwpaEPvPRznSdIs"
     },
     {
+      "added_at": "2023-11-24 06:12:45",
+      "album": {
+        "name": "Myself",
+        "url": "https://open.spotify.com/album/7066a4iAQh7Ao93j3NCdus"
+      },
+      "artists": [
+        {
+          "name": "Keanan Eksteen",
+          "url": "https://open.spotify.com/artist/2J4GlBnz2g9mW4Xwaa5M3C"
+        }
+      ],
+      "duration_ms": 181520,
+      "name": "Myself",
+      "url": "https://open.spotify.com/track/2Ihlx7ofrZaCVgt2oPVNzz"
+    },
+    {
       "added_at": "2023-11-17 04:48:46",
       "album": {
         "name": "I Fled the Scene",
@@ -59,6 +107,22 @@
       "duration_ms": 176320,
       "name": "I Fled the Scene",
       "url": "https://open.spotify.com/track/2RV94PjhiOfGOTRQweb8GP"
+    },
+    {
+      "added_at": "2023-11-24 06:12:45",
+      "album": {
+        "name": "Two Tattoos",
+        "url": "https://open.spotify.com/album/3N84iANkCmZBRxFh8Xva1r"
+      },
+      "artists": [
+        {
+          "name": "Nic van Graan",
+          "url": "https://open.spotify.com/artist/5szYkf5z4q40eLOyWDFJgt"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Two Tattoos",
+      "url": "https://open.spotify.com/track/4Bb8xLIvXbmad5WHObUXi2"
     },
     {
       "added_at": "2023-11-17 04:48:46",
@@ -81,6 +145,22 @@
       "url": "https://open.spotify.com/track/1qmHuOON7erR8dv24pI8rA"
     },
     {
+      "added_at": "2023-11-24 06:12:45",
+      "album": {
+        "name": "SUPERVILLAIN",
+        "url": "https://open.spotify.com/album/4jDx4OKNHDbNp2iqdvKA80"
+      },
+      "artists": [
+        {
+          "name": "burningforestboy",
+          "url": "https://open.spotify.com/artist/44JiNZ7Zxi7IDh6njqD55M"
+        }
+      ],
+      "duration_ms": 188888,
+      "name": "SUPERVILLAIN",
+      "url": "https://open.spotify.com/track/0eJu803TPIQ0renJjcg2eh"
+    },
+    {
       "added_at": "2023-11-17 04:48:46",
       "album": {
         "name": "IF / bathroom",
@@ -97,20 +177,20 @@
       "url": "https://open.spotify.com/track/1dQssvlvziHVBot5bRpGZc"
     },
     {
-      "added_at": "2023-11-17 04:48:46",
+      "added_at": "2023-11-24 06:12:45",
       "album": {
-        "name": "Hurt People",
-        "url": "https://open.spotify.com/album/2irLbApb5k7XG5OGM3elCv"
+        "name": "Lost In Love Affairs",
+        "url": "https://open.spotify.com/album/5v607pXdYFSnogq55WkUBJ"
       },
       "artists": [
         {
-          "name": "Lakkabrah",
-          "url": "https://open.spotify.com/artist/6TLtJV2odjb1t3Ln6V8gQR"
+          "name": "Ashwin Smith",
+          "url": "https://open.spotify.com/artist/21O1GLm7iw8np86CJ4hNtO"
         }
       ],
-      "duration_ms": 136090,
-      "name": "Hurt People",
-      "url": "https://open.spotify.com/track/4p9kRGYquwGJpT1zSULAui"
+      "duration_ms": 175282,
+      "name": "Lost In Love Affairs",
+      "url": "https://open.spotify.com/track/4GqJGDjWZYkB0kIuoncs8z"
     },
     {
       "added_at": "2023-11-17 04:48:46",
@@ -129,6 +209,86 @@
       "url": "https://open.spotify.com/track/4foj4tagBgwMdVaGGNJflj"
     },
     {
+      "added_at": "2023-11-24 06:12:45",
+      "album": {
+        "name": "Cloud 9",
+        "url": "https://open.spotify.com/album/1mh3WN4S5xw4G5KF1eBr1J"
+      },
+      "artists": [
+        {
+          "name": "Louis Island",
+          "url": "https://open.spotify.com/artist/6rJfoutBvVApGcMV0FNIft"
+        }
+      ],
+      "duration_ms": 134800,
+      "name": "Escape This Town",
+      "url": "https://open.spotify.com/track/0VtegTLgwRWskYQcwrKypY"
+    },
+    {
+      "added_at": "2023-11-09 22:00:00",
+      "album": {
+        "name": "1988",
+        "url": "https://open.spotify.com/album/2bfvxrn24ZELLxTRi2payd"
+      },
+      "artists": [
+        {
+          "name": "Hunter As a Horse",
+          "url": "https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F"
+        }
+      ],
+      "duration_ms": 244909,
+      "name": "1988",
+      "url": "https://open.spotify.com/track/60GeeJt1UxTSbZEleGRDTY"
+    },
+    {
+      "added_at": "2023-11-24 06:12:45",
+      "album": {
+        "name": "Love Over Fear",
+        "url": "https://open.spotify.com/album/0QhFDIypxlfR1t70xcsmOs"
+      },
+      "artists": [
+        {
+          "name": "Annell Moya",
+          "url": "https://open.spotify.com/artist/4e7TsPbyfgbknzgLGZRpTf"
+        }
+      ],
+      "duration_ms": 256161,
+      "name": "Love Over Fear",
+      "url": "https://open.spotify.com/track/3Adr9vPyQ7k8unpOuiBFBp"
+    },
+    {
+      "added_at": "2023-11-17 04:48:46",
+      "album": {
+        "name": "Hurt People",
+        "url": "https://open.spotify.com/album/2irLbApb5k7XG5OGM3elCv"
+      },
+      "artists": [
+        {
+          "name": "Lakkabrah",
+          "url": "https://open.spotify.com/artist/6TLtJV2odjb1t3Ln6V8gQR"
+        }
+      ],
+      "duration_ms": 136090,
+      "name": "Hurt People",
+      "url": "https://open.spotify.com/track/4p9kRGYquwGJpT1zSULAui"
+    },
+    {
+      "added_at": "2023-11-24 06:12:45",
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/3Gz7lhMIaDt7CXQdXkdXKW"
+      },
+      "artists": [
+        {
+          "name": "Mi\u0142an",
+          "url": "https://open.spotify.com/artist/40ZY8BNW70i9c18nbaBHsK"
+        }
+      ],
+      "duration_ms": 136035,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/5brEdgJziEAxsfq5d5zprI"
+    },
+    {
       "added_at": "2023-11-17 04:48:46",
       "album": {
         "name": "I Need You",
@@ -143,6 +303,38 @@
       "duration_ms": 181573,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/1TOXyfF6p6coOOhmevQe70"
+    },
+    {
+      "added_at": "2023-11-24 06:12:45",
+      "album": {
+        "name": "Into This New Year",
+        "url": "https://open.spotify.com/album/2n2P70KmTC4LeQwvOZLkAF"
+      },
+      "artists": [
+        {
+          "name": "Luke Beling",
+          "url": "https://open.spotify.com/artist/2gPsg80rQMmL5dKBC0yg2V"
+        }
+      ],
+      "duration_ms": 198787,
+      "name": "Into This New Year",
+      "url": "https://open.spotify.com/track/3VIl8git975ZsbrtrYoQba"
+    },
+    {
+      "added_at": "2023-11-24 06:12:45",
+      "album": {
+        "name": "On my own again",
+        "url": "https://open.spotify.com/album/3DJs4iFFJz3bqTTpuEopA0"
+      },
+      "artists": [
+        {
+          "name": "Just Passing Through",
+          "url": "https://open.spotify.com/artist/5RQczrs9bNSuwSgwACYNm6"
+        }
+      ],
+      "duration_ms": 205498,
+      "name": "On my own again",
+      "url": "https://open.spotify.com/track/4keHHKTtwrmrsgyItSYyZR"
     },
     {
       "added_at": "2023-11-17 04:48:46",
@@ -163,22 +355,6 @@
     {
       "added_at": "2023-11-09 22:00:00",
       "album": {
-        "name": "1988",
-        "url": "https://open.spotify.com/album/2bfvxrn24ZELLxTRi2payd"
-      },
-      "artists": [
-        {
-          "name": "Hunter As a Horse",
-          "url": "https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F"
-        }
-      ],
-      "duration_ms": 244909,
-      "name": "1988",
-      "url": "https://open.spotify.com/track/60GeeJt1UxTSbZEleGRDTY"
-    },
-    {
-      "added_at": "2023-11-09 22:00:00",
-      "album": {
         "name": "Quarter Life Crisis (Deluxe)",
         "url": "https://open.spotify.com/album/71mcDUoyViKC1i3kmAvJiI"
       },
@@ -191,6 +367,22 @@
       "duration_ms": 258762,
       "name": "Obvious",
       "url": "https://open.spotify.com/track/3mHiyFqlw2ERmQCiXkmaXM"
+    },
+    {
+      "added_at": "2023-11-24 06:12:45",
+      "album": {
+        "name": "Gasoline",
+        "url": "https://open.spotify.com/album/0fUxexsiSTK0fIJHby7bbN"
+      },
+      "artists": [
+        {
+          "name": "Cowie",
+          "url": "https://open.spotify.com/artist/63K0O2a07QUZoNn9cqDt35"
+        }
+      ],
+      "duration_ms": 215586,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/5gG8U6wMw8WRWzS4po7r3x"
     },
     {
       "added_at": "2023-11-09 22:00:00",
@@ -1475,218 +1667,6 @@
       "duration_ms": 153600,
       "name": "Still Here",
       "url": "https://open.spotify.com/track/6qNZb2B2C0G8fmz5CjwM93"
-    },
-    {
-      "added_at": "2023-09-29 03:01:55",
-      "album": {
-        "name": "hopeless&romantic",
-        "url": "https://open.spotify.com/album/17zYP01z2IOiCF4nXJRjCd"
-      },
-      "artists": [
-        {
-          "name": "CHXRL",
-          "url": "https://open.spotify.com/artist/53YDsmOqu4zlV0VQbNUUNZ"
-        }
-      ],
-      "duration_ms": 169458,
-      "name": "The Girl Next Door",
-      "url": "https://open.spotify.com/track/0SmbxaUGQ39XPF1fDP2uBD"
-    },
-    {
-      "added_at": "2023-09-29 03:01:55",
-      "album": {
-        "name": "Boomerang",
-        "url": "https://open.spotify.com/album/2rBQkJX216bVFWHMf4p0jw"
-      },
-      "artists": [
-        {
-          "name": "Namakau Star",
-          "url": "https://open.spotify.com/artist/5PJjfwzboKU6Q8mapvR1oc"
-        },
-        {
-          "name": "The Planetoids",
-          "url": "https://open.spotify.com/artist/01lK8t2cYqYfRherW82aHm"
-        }
-      ],
-      "duration_ms": 191078,
-      "name": "Boomerang",
-      "url": "https://open.spotify.com/track/7bxjF7TOFpd3ZyKTSVquCG"
-    },
-    {
-      "added_at": "2023-09-29 03:01:55",
-      "album": {
-        "name": "Crazy Love",
-        "url": "https://open.spotify.com/album/0NuTrWehqrVHi5jU3Da63g"
-      },
-      "artists": [
-        {
-          "name": "The Plastics",
-          "url": "https://open.spotify.com/artist/2TwbN0GbcmhHelBGFarQJq"
-        }
-      ],
-      "duration_ms": 173500,
-      "name": "Crazy Love",
-      "url": "https://open.spotify.com/track/2Umbg5vbB11Ljyk8hSck9j"
-    },
-    {
-      "added_at": "2023-09-29 03:01:55",
-      "album": {
-        "name": "Why Do You Care",
-        "url": "https://open.spotify.com/album/6pjUk8rWTphN4DsBtgIVhN"
-      },
-      "artists": [
-        {
-          "name": "COOL BOY",
-          "url": "https://open.spotify.com/artist/77c3dsWSmQRci2HAdaFFeT"
-        }
-      ],
-      "duration_ms": 196007,
-      "name": "Why Do You Care",
-      "url": "https://open.spotify.com/track/5DOXhBq8DjaMDzWdvYsjg3"
-    },
-    {
-      "added_at": "2023-09-29 03:01:55",
-      "album": {
-        "name": "Love Me Then Die",
-        "url": "https://open.spotify.com/album/6ujv9y19zQs49ARD6pNZRu"
-      },
-      "artists": [
-        {
-          "name": "The Meister",
-          "url": "https://open.spotify.com/artist/1CgnbZB3Fo0TyWeU3BVtSH"
-        },
-        {
-          "name": "Louie Van Wolf",
-          "url": "https://open.spotify.com/artist/0V3OJ2G59WUnkBJkrRSTe2"
-        },
-        {
-          "name": "LyndaWrighter",
-          "url": "https://open.spotify.com/artist/3XnNsPUDX0odgc80emdfrW"
-        }
-      ],
-      "duration_ms": 268604,
-      "name": "Love Me Then Die",
-      "url": "https://open.spotify.com/track/2l8bDo9IbKMCnnMs4T5rhR"
-    },
-    {
-      "added_at": "2023-09-29 03:01:55",
-      "album": {
-        "name": "Black Out Baby",
-        "url": "https://open.spotify.com/album/5wC5SiibVhS1ChLRj8OFRX"
-      },
-      "artists": [
-        {
-          "name": "Katy Hallauer",
-          "url": "https://open.spotify.com/artist/7g1bTthu5ETWFuq5igUMRm"
-        }
-      ],
-      "duration_ms": 209812,
-      "name": "Black Out Baby",
-      "url": "https://open.spotify.com/track/6zh4KcGIZcHJ24wSiBq5eZ"
-    },
-    {
-      "added_at": "2023-09-29 03:01:55",
-      "album": {
-        "name": "Metamorphosis",
-        "url": "https://open.spotify.com/album/1bjuw3TAOwpLpCUGMUtToX"
-      },
-      "artists": [
-        {
-          "name": "Tessi Nandi",
-          "url": "https://open.spotify.com/artist/7LDVOmpX6bj3BYkD0O5jWZ"
-        }
-      ],
-      "duration_ms": 244690,
-      "name": "Metamorphosis",
-      "url": "https://open.spotify.com/track/5vK9xSL7EHnUcWuaZJ9xLd"
-    },
-    {
-      "added_at": "2023-09-29 03:01:55",
-      "album": {
-        "name": "give",
-        "url": "https://open.spotify.com/album/3PEAnGvmd5uaPsAOWlLITK"
-      },
-      "artists": [
-        {
-          "name": "Lyssa Heyman",
-          "url": "https://open.spotify.com/artist/4ZJfrvm7c4gAWHOgBYGiLO"
-        }
-      ],
-      "duration_ms": 186962,
-      "name": "give",
-      "url": "https://open.spotify.com/track/0NLhvK9vUSITapD6YHqR3c"
-    },
-    {
-      "added_at": "2023-09-29 03:01:55",
-      "album": {
-        "name": "Stagefright",
-        "url": "https://open.spotify.com/album/3pHBAx4it2Z9LlqSJGJF4j"
-      },
-      "artists": [
-        {
-          "name": "Kabaal Klankbaan",
-          "url": "https://open.spotify.com/artist/4HrNCPJFdxokdkYcRHk4mb"
-        },
-        {
-          "name": "King Nqoba",
-          "url": "https://open.spotify.com/artist/2fiSOtpmdQoWLpf3IkSZgr"
-        },
-        {
-          "name": "Gil Hockman",
-          "url": "https://open.spotify.com/artist/4zlyea5wf3baPSMG7gsNMQ"
-        }
-      ],
-      "duration_ms": 252354,
-      "name": "Stagefright (Self-Help Rock Remix)",
-      "url": "https://open.spotify.com/track/1BSxdzz3UsQ9LK8ZEYBTAf"
-    },
-    {
-      "added_at": "2023-09-29 03:01:55",
-      "album": {
-        "name": "Amplified",
-        "url": "https://open.spotify.com/album/1xUtyGK2EC9lMtx54FpI4c"
-      },
-      "artists": [
-        {
-          "name": "Thara",
-          "url": "https://open.spotify.com/artist/71AA4Rd7e9VJ3M52B2jzvU"
-        }
-      ],
-      "duration_ms": 202676,
-      "name": "Amplified",
-      "url": "https://open.spotify.com/track/7iAvEBj3p8VtXmMd68jdQx"
-    },
-    {
-      "added_at": "2023-09-29 03:01:55",
-      "album": {
-        "name": "Games Night",
-        "url": "https://open.spotify.com/album/31oy4HFSd7E3t0CnGKYcZi"
-      },
-      "artists": [
-        {
-          "name": "Local Neighbour",
-          "url": "https://open.spotify.com/artist/4zMdLoGXWkdYvVNPN6HGqR"
-        }
-      ],
-      "duration_ms": 243377,
-      "name": "Games Night",
-      "url": "https://open.spotify.com/track/5qWC2QEfRsTp6UE9NPNu2y"
-    },
-    {
-      "added_at": "2023-09-29 03:01:55",
-      "album": {
-        "name": "The Phoenix",
-        "url": "https://open.spotify.com/album/4Bt6P8MUACJ5f3oGSZ6hAb"
-      },
-      "artists": [
-        {
-          "name": "Golden Blue",
-          "url": "https://open.spotify.com/artist/6IPUSjbmivAym8Q1pj9yvc"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "The Phoenix",
-      "url": "https://open.spotify.com/track/6wUrwv6uO6roQ1OUQrLnFW"
     }
   ],
   "unique_name": "SAlt",

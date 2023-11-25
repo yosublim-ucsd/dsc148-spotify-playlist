@@ -438,7 +438,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 222635,
       "name": "Bitcoins",
       "url": "https://open.spotify.com/track/7zaRisvugR7vIT5SuhIlsW"
@@ -1046,7 +1046,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 231126,
       "name": "Inteiro",
       "url": "https://open.spotify.com/track/5b6mh3jQ9Fo1UGn6WYcsMB"
@@ -1474,6 +1474,24 @@
       "duration_ms": 314137,
       "name": "NAVES IMPERIAIS",
       "url": "https://open.spotify.com/track/4puX3OiPSEFC5AgLbStFNJ"
+    },
+    {
+      "album": {
+        "name": "KINTSUGI (DELUXE)",
+        "url": "https://open.spotify.com/album/0R8zowO1xL1LgHcwiKgcoc"
+      },
+      "artists": [
+        {
+          "name": "A Trilha",
+          "url": "https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166812,
+      "name": "No Princ\u00edpio",
+      "url": "https://open.spotify.com/track/0aFNhLg6YmxGuuyAi7BVgp"
     },
     {
       "album": {
@@ -2392,6 +2410,28 @@
       "duration_ms": 215836,
       "name": "Vestido Azul",
       "url": "https://open.spotify.com/track/5hLjEIr4NmAsGarqTwm0mA"
+    },
+    {
+      "album": {
+        "name": "Viver",
+        "url": "https://open.spotify.com/album/1vS6G52uJfUgt8ZIInVMgK"
+      },
+      "artists": [
+        {
+          "name": "Judas O Outro",
+          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
+        },
+        {
+          "name": "Fl\u00e1vio Morilha",
+          "url": "https://open.spotify.com/artist/7lZ1saVYmbFFjaY0Vcxuy7"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228710,
+      "name": "Viver",
+      "url": "https://open.spotify.com/track/0aAQv9SZAJ3KgJuQ0lqNRn"
     },
     {
       "album": {

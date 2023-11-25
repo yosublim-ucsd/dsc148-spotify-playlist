@@ -46,7 +46,7 @@
     {
       "album": {
         "name": "Again (Edit)",
-        "url": "https://open.spotify.com/album/5EnGrwJflFFXSuIHhkPcXu"
+        "url": "https://open.spotify.com/album/3vGWOnoKWrxkueS2VXtj4F"
       },
       "artists": [
         {
@@ -57,6 +57,24 @@
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 213750,
+      "name": "Again - Edit",
+      "url": "https://open.spotify.com/track/6Jy35IQl4MUrYX90AkBZuD"
+    },
+    {
+      "album": {
+        "name": "Again (Edit)",
+        "url": "https://open.spotify.com/album/5EnGrwJflFFXSuIHhkPcXu"
+      },
+      "artists": [
+        {
+          "name": "Roger Sanchez",
+          "url": "https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-25",
       "duration_ms": 213750,
       "name": "Again - Edit",
       "url": "https://open.spotify.com/track/6s7QWRG8BeBPL1xwUBWKxR"

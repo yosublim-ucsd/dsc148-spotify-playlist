@@ -4,13 +4,13 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-374 songs - 1 day 7 hr 5 min
+375 songs - 1 day 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [01](https://open.spotify.com/track/3Ij5JfgKbiCF7h8J90TTpa) | [Giuseppe Ielasi](https://open.spotify.com/artist/7JqFxlbv8o0djCv6o1LWLL) | [Five Wooden Frames](https://open.spotify.com/album/6xQzhfDkGBLBRk2XrwHhkv) | 7:48 | 2023-09-22 | 2023-10-07 |
 | [2c](https://open.spotify.com/track/4vVCKY4vnslc7dfJmN3mZC) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Grafts \(Expanded Reissue\)](https://open.spotify.com/album/2sB7YlLZuBhoQjovV8bZTW) | 7:52 | 2022-03-17 | 2023-03-18 |
-| [310](https://open.spotify.com/track/2jdNVXrmEvEa16mLGsqCjB) | [Koiwa](https://open.spotify.com/artist/7cVHUQpOTXqA7tbHCkIQqS) | [310](https://open.spotify.com/album/6wHh9OpcjKM3mOObQkCGhG) | 5:32 | 2022-09-12 |  |
+| [310](https://open.spotify.com/track/2jdNVXrmEvEa16mLGsqCjB) | [Koiwa](https://open.spotify.com/artist/7cVHUQpOTXqA7tbHCkIQqS) | [310](https://open.spotify.com/album/6wHh9OpcjKM3mOObQkCGhG) | 5:32 | 2022-09-12 | 2023-11-25 |
 | [A Field of Night](https://open.spotify.com/track/0XhNhTydcNnkbwYguBsPt3) | [Chequerboard](https://open.spotify.com/artist/4xjrTN2tw4VsS7mlBdSCmr) | [The Unfolding](https://open.spotify.com/album/0gflF9tUooliM9pyoUx7BO) | 7:33 | 2023-04-21 |  |
 | [A Field of Night](https://open.spotify.com/track/0YeA95qfyzG5jhm8M5XTpp) | [Chequerboard](https://open.spotify.com/artist/4xjrTN2tw4VsS7mlBdSCmr) | [The Unfolding](https://open.spotify.com/album/6fePA0wognv8fQ9mPed4YQ) | 7:33 | 2022-09-20 | 2023-04-20 |
 | [A Spire \- 2022 Remaster](https://open.spotify.com/track/7207n5INusM5trHSwl2dh3) | [Tape](https://open.spotify.com/artist/3uSlMGXphiafjKQwbj4QwW) | [Rideau \(2022 remaster\)](https://open.spotify.com/album/1hQkKy7llnXI08TnEdPfiw) | 11:45 | 2023-08-18 | 2023-09-01 |
@@ -330,6 +330,7 @@
 | [The Dreamer](https://open.spotify.com/track/0L0NJvN4XQbZshfOUTkfzb) | [Anja Lauvdal](https://open.spotify.com/artist/5nojNXCvAawjyDStjVyUTO) | [From a Story Now Lost](https://open.spotify.com/album/7gi9cpVkxTabwZcj1OU53M) | 4:51 | 2023-09-22 | 2023-10-07 |
 | [The Giant](https://open.spotify.com/track/7CtFWtjwqTRYKGf7EuprFZ) | [Bill Nace](https://open.spotify.com/artist/6kCCUIp2jp39YUjbqEAmzL) | [Through A Room](https://open.spotify.com/album/7apigBoLcJ0tHiwUyVYqWs) | 2:23 | 2023-09-22 | 2023-10-07 |
 | [The Revenant Main Theme \(Alva Noto Remodel\)](https://open.spotify.com/track/1gAMCezhYq7VO20SzaGdcZ) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp) | [Travesía](https://open.spotify.com/album/4esuZN5LafbntrKxLrvuYe) | 2:56 | 2023-05-19 | 2023-06-06 |
+| [The Round](https://open.spotify.com/track/3tZO5AhYbA9COrcIF9KLtr) | [Peter Bark](https://open.spotify.com/artist/1owDCRcm8r3mCfAVzwNbB2), [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl) | [Dream Night](https://open.spotify.com/album/2mLAk2M7FkDJUG6UikCE6S) | 3:02 | 2023-11-17 |  |
 | [The Signals From the Abyss](https://open.spotify.com/track/1BtGXDNmvkFfC5W8rU2od2) | [X.Y.R.](https://open.spotify.com/artist/6toHLoCsmqKPjtprSVucxz) | [Aquarealm](https://open.spotify.com/album/5lb8k3A7i5h38XOLRJDWk1) | 7:48 | 2022-07-08 | 2022-07-29 |
 | [The Signals From the Abyss](https://open.spotify.com/track/6yJWaFqw7Umwe3LYpMjgyh) | [X.Y.R.](https://open.spotify.com/artist/6toHLoCsmqKPjtprSVucxz) | [Aquarealm](https://open.spotify.com/album/2b2NKMGXqjTtRkHQVXjkBS) | 7:48 | 2023-03-16 | 2023-08-03 |
 | [The Weight Of History](https://open.spotify.com/track/7a9u3Yk9hKzxa3lqBBbcXf) | [Lisa Lerkenfeldt](https://open.spotify.com/artist/3famB97koyRfo502IWQjFL) | [Collagen](https://open.spotify.com/album/5DCzCJxAkCrd011i8CgZgx) | 6:30 | 2023-08-18 | 2023-09-01 |

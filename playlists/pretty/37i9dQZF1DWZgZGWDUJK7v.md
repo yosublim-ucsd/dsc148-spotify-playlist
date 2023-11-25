@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 
 > Meet the popular webtoon OSTs now! \(Cover: Operation: True Love\(작전명 순정\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,987 likes - 131 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,059 likes - 131 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 | 13 | [Missing you at the night](https://open.spotify.com/track/2yligKIUYBMtw9XW8CfjN2) | [Geum Nara](https://open.spotify.com/artist/3768yyysXGqQOcJMi1GvZ7) | [Oh, Boy! OST Part.18 \(Soundtrack\)](https://open.spotify.com/album/1uhGglTdvY0sFWq99dCEyw) | 3:18 |
 | 14 | [It's not what I want](https://open.spotify.com/track/6tEAPcJcKXUfAs2QveWgpQ) | [BBAHN](https://open.spotify.com/artist/095i3doKOvEd3cY25Mjcvi) | [Café Anchorage OST Part.19 \(Soundtrack\)](https://open.spotify.com/album/0IEOcub1mb7jJz3wvvtXWn) | 3:22 |
 | 15 | [I can't forget](https://open.spotify.com/track/6Z0WLXnpWWkHSgHTgUzw6Y) | [CANDO](https://open.spotify.com/artist/06KgokwCwsWO8f1h1pzPcV) | [Oh, Boy! OST Part.17 \(Soundtrack\)](https://open.spotify.com/album/3zaTEUZbs7Sg3Um8AeC3rb) | 3:24 |
-| 16 | [품](https://open.spotify.com/track/4BhPMX4CcdGvd9KIQNIhnz) | [Kajin](https://open.spotify.com/artist/2CKvV2WzEkuxJCAA1qBnGG) | [요조신사 마초숙녀 \(Original Webtoon Soundtrack\) Pt\. 29](https://open.spotify.com/album/4Ep6MfNWCisZZGVjZd5eiK) | 3:44 |
+| 16 | [품](https://open.spotify.com/track/4BhPMX4CcdGvd9KIQNIhnz) | [Kajin](https://open.spotify.com/artist/7q4cacEQUFUHxQWwgIfSTZ) | [요조신사 마초숙녀 \(Original Webtoon Soundtrack\) Pt\. 29](https://open.spotify.com/album/4Ep6MfNWCisZZGVjZd5eiK) | 3:44 |
 | 17 | [The Moon Has Passed](https://open.spotify.com/track/5hwwtgaNRiKAgh13DDSPSd) | [Lucia](https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc) | [The Moon Has Passed \(The Moon during the Day\)](https://open.spotify.com/album/4czzoSuEU0TpQlotMDcdJx) | 3:46 |
 | 18 | [온세상이 너](https://open.spotify.com/track/6sWpb7Ked0QP1LuVCKmcJZ) | [CODA BRIDGE](https://open.spotify.com/artist/4EHj2EYtaVfrMnQqvSw0ca) | [요조신사 마초숙녀 \(Original Webtoon Soundtrack\) Pt\. 28](https://open.spotify.com/album/6qo1VC3B2K7WaiZZNTa3LF) | 3:39 |
 | 19 | [The Moment My Heart \(She is My Type♡ X KYUHYUN\)](https://open.spotify.com/track/2wmFuAxSzNVgTSVjGAoiJ5) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [The Moment My Heart \(She is My Type♡ X KYUHYUN\)](https://open.spotify.com/album/4i1sZysnsbV5bIAyALa04J) | 3:53 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 | 130 | [I Like You, But Got Tired of Liking You](https://open.spotify.com/track/3zQBBTKaHLNp633PCHTHOQ) | [Oisobagi](https://open.spotify.com/artist/5VHe33YC6hsyT9QXtAHVB5) | [Naver webtoon 'Love Revolution' \(Original Soundtrack\)](https://open.spotify.com/album/097XnpiY8MwxhW7fpkONsh) | 4:16 |
 | 131 | [I will give you all](https://open.spotify.com/track/1LSixbz3eBJ6H71F3lCl6y) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [The Legendary Moonlight Sculptor Webtoon OST Part.1](https://open.spotify.com/album/59qfAfD31VSn7lYtfqCh5K) | 3:43 |
 
-Snapshot ID: `MCxlOWY3YTg0MTA1YWI0MmYzMjIzNjNmODc1YWE2NTIyNTYzMjUxYjhj`
+Snapshot ID: `MCwxNzc0ZDBkN2M3OGZlNzExMTA4M2YwYmVjNTkzMDQyYWIzZWJiMTJi`

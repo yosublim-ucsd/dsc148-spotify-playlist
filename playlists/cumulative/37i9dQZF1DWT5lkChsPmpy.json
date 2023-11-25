@@ -7418,7 +7418,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 170273,
       "name": "Time Imprisoned",
       "url": "https://open.spotify.com/track/0LbCtG6IBveEF7MejHErAM"
@@ -8114,6 +8114,24 @@
       "duration_ms": 193194,
       "name": "Yama",
       "url": "https://open.spotify.com/track/5S94oJQP87jbUfsDZ2uj4h"
+    },
+    {
+      "album": {
+        "name": "You Bring Me Joy",
+        "url": "https://open.spotify.com/album/4kqLcy9CZENOXuG3Hfwsew"
+      },
+      "artists": [
+        {
+          "name": "Pierre Sloane",
+          "url": "https://open.spotify.com/artist/3G1f9LnHpTlrX8gANDYXuH"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244666,
+      "name": "You Bring Me Joy",
+      "url": "https://open.spotify.com/track/0QuRKVBqzM0M3OBD8fkbbl"
     },
     {
       "album": {

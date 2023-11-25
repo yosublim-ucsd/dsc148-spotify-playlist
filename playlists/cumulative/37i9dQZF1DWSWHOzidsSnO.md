@@ -4,7 +4,7 @@
 
 > ¡Mujeres de los Andes, a todo volumen! En portada Las Áñez.
 
-271 songs - 14 hr 58 min
+272 songs - 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Airampito](https://open.spotify.com/track/6qiVSgeijeice6TrfhnCKj) | [Flor Pucarina](https://open.spotify.com/artist/0Cx0jBqPZuvdKTcpOkRsk8) | [¡Sola...Siempre Sola!](https://open.spotify.com/album/712D7w8qU2KB9J9HJQOpEk) | 2:51 | 2023-03-01 | 2023-04-06 |
 | [AL NATURAL](https://open.spotify.com/track/2Hr2c6kxojvdyu5eJzq4NE) | [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR) | [AL NATURAL](https://open.spotify.com/album/1BmvwEPLkAqdVOeW19LW4t) | 3:15 | 2022-10-05 |  |
 | [Al Tiempo](https://open.spotify.com/track/4qzItEnlJBTPp1ByoYIoIx) | [Las Áñez](https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Al Tiempo](https://open.spotify.com/album/2s0S6lQrbEyKsjRoosKIg3) | 3:37 | 2022-01-05 | 2023-01-05 |
-| [Algo Hermoso Termina](https://open.spotify.com/track/6vLSpP0HTFZBPAy0DGflyR) | [Lunalé](https://open.spotify.com/artist/19JUD3vdAL8B0G7hpxQHuu) | [Algo Hermoso Termina](https://open.spotify.com/album/5SCuA150dDqy1sOUOysBK5) | 2:55 | 2023-05-26 |  |
+| [Algo Hermoso Termina](https://open.spotify.com/track/6vLSpP0HTFZBPAy0DGflyR) | [Lunalé](https://open.spotify.com/artist/19JUD3vdAL8B0G7hpxQHuu) | [Algo Hermoso Termina](https://open.spotify.com/album/5SCuA150dDqy1sOUOysBK5) | 2:55 | 2023-05-26 | 2023-11-25 |
 | [Alguien](https://open.spotify.com/track/06GNb7cUCN6YTQmzfFd2m1) | [Amy Gutierrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [Alguien](https://open.spotify.com/album/6Tm5rVXr3ofn5d5vK8U6ie) | 4:32 | 2023-01-04 | 2023-03-09 |
 | [Alguien](https://open.spotify.com/track/0W0TfbLgn0G6Jea3d4W0Oc) | [Amy Gutiérrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [Alguien](https://open.spotify.com/album/1JQXeWn40cYX0smhF8nSqm) | 4:32 | 2023-03-03 |  |
 | [Amante y Amigo](https://open.spotify.com/track/4UvRhamcRD4kpjEFtVN2ef) | [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC) | [Mi Historia](https://open.spotify.com/album/2FQg1fzHKwyTEZgk1XziKf) | 3:04 | 2023-02-01 |  |
@@ -125,6 +125,7 @@
 | [I Like It, I Like It](https://open.spotify.com/track/5o6IOZ3zuX5mY6aEpTeyGR) | [Chloé Silva](https://open.spotify.com/artist/58NvZS9y8CUo1VUEyGdcKc) | [I Like It, I Like It](https://open.spotify.com/album/7ynKKHjmQLBTUujHPFblZ5) | 4:06 | 2023-06-14 | 2023-07-29 |
 | [IGUAL](https://open.spotify.com/track/3FMJBg2c0tysqTmlUkgqD3) | [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX) | [IGUAL](https://open.spotify.com/album/63NWY5CKtm0L7sHb395qf9) | 3:36 | 2023-05-26 | 2023-06-21 |
 | [Imágenes](https://open.spotify.com/track/53JvAzn6rIzHFkAE4MnMQO) | [Adriana Lucia](https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o) | [Imágenes](https://open.spotify.com/album/6EMkMek4awK6MwOeazX9Z7) | 5:00 | 2023-08-11 | 2023-11-02 |
+| [ingenuamente, Vol\. 2](https://open.spotify.com/track/33hL3bl4exUdpylZ4JhV6f) | [Daniela Arredondo](https://open.spotify.com/artist/0HyOOT0sKxLVRVRNwN8stq) | [ingenuamente, Vol\. 2](https://open.spotify.com/album/1u98MqINJAVWsVqmxi7eEI) | 2:26 | 2023-11-24 |  |
 | [Invasión Costeña](https://open.spotify.com/track/4fuJAsFHJLQbapuIJh3Yys) | [Cynthia Montaño](https://open.spotify.com/artist/0ZmLQD0JMILG9pXpHLTfaw) | [Invasión Costeña](https://open.spotify.com/album/2KsCCBWv278m3g0T79GwkA) | 4:31 | 2022-01-05 | 2023-06-08 |
 | [kunai](https://open.spotify.com/track/3k5F4Vn3Nq6rNF5YSww3MO) | [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA) | [kunai](https://open.spotify.com/album/7hTt5gR7X0HZ6YeoFglPmX) | 2:09 | 2023-11-01 | 2023-11-22 |
 | [La América Que Se Olvida](https://open.spotify.com/track/0AGZs1EHZGQWsgECcEXPyr) | [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT) | [La América Que Se Olvida](https://open.spotify.com/album/6ORkGUSMv5j55oFy90JxzV) | 3:06 | 2023-07-06 |  |

@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-744 songs - 1 day 18 hr 16 min
+747 songs - 1 day 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Coastline](https://open.spotify.com/track/1uaM53HQVyWcim7agCjB15) | [Urban Curls](https://open.spotify.com/artist/6cvuKU8oG3PqgwiJreZLfI) | [Coastline](https://open.spotify.com/album/34E1TXm0e68uT476tkZxsk) | 3:20 | 2021-02-19 | 2022-09-02 |
 | [Cobolt](https://open.spotify.com/track/5RWPlLSHtYpNFLcFOBgVmD) | [Lady Mas](https://open.spotify.com/artist/1dLFAvqPp134vW4ZpZzUYJ) | [Cobolt](https://open.spotify.com/album/2BLfxGmUEWrIOD97xNVEQY) | 3:00 | 2021-04-15 | 2022-07-22 |
 | [coffe table](https://open.spotify.com/track/6e8DIf3Eox4C4YaTSuVxsK) | [PZA BIANCO](https://open.spotify.com/artist/4AR6Ql1R3ElQIJB8ZnqggH) | [coffe table](https://open.spotify.com/album/5OGDpsXmNA0wy2qRHvcmMj) | 2:29 | 2022-10-28 |  |
+| [Coffee Without Sugar](https://open.spotify.com/track/34dCuZgVi1wXx3IjrrMHS6) | [bombergirl](https://open.spotify.com/artist/79pr8Jy2Fxo9u6EaOxbCAQ) | [Coffee Without Sugar](https://open.spotify.com/album/7MKXMBEUVsQotfJs6EFwvS) | 2:40 | 2023-11-24 |  |
 | [Color Code](https://open.spotify.com/track/2hPUPT84eEvIxxDvdN0n0R) | [DJ ZeeZee](https://open.spotify.com/artist/6vjAwcOZNHp71G8mYs2yUg) | [Color Code](https://open.spotify.com/album/6vVBfItLBRgeK0pRTjXgkY) | 3:20 | 2020-04-03\* | 2021-03-18 |
 | [Colored Waves](https://open.spotify.com/track/0Z7HrettzLSkhelO24HKDX) | [Zumaia](https://open.spotify.com/artist/30w51iPwkBwWcs6ZzrrxsH) | [Colored Waves](https://open.spotify.com/album/1pTgJHK31BvOFi3SEhx9ZZ) | 2:24 | 2023-09-15 |  |
 | [Colors of You](https://open.spotify.com/track/0fVisMBg8MPemjOxLj3Jeu) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Bluebells](https://open.spotify.com/album/1SqKWpy6qU65qhVHUjw1LA) | 3:34 | 2021-03-18 | 2022-10-07 |
@@ -462,7 +463,7 @@
 | [on my mind](https://open.spotify.com/track/79A8xKMQDj3mPY0J7CNpLy) | [Good Kings](https://open.spotify.com/artist/0p9lqEL03evk1imDzxLJJU) | [on my mind](https://open.spotify.com/album/3V3Wbbd4KwxV9jBJ9EB7gs) | 2:57 | 2022-08-19 |  |
 | [On My Way](https://open.spotify.com/track/28H2eFbLiKPfJ44ZvGWPax) | [Wasted House](https://open.spotify.com/artist/7cU0yD9la2xTxWSaxc5uk2) | [On My Way](https://open.spotify.com/album/62gm87KgQEdnTeZNJ129os) | 1:56 | 2021-11-08 | 2023-07-29 |
 | [On the Fly](https://open.spotify.com/track/2noqFiLZzV5Z50Eyf5AfC3) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Cygnus A](https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV) | 3:02 | 2022-05-20 | 2022-06-10 |
-| [One Day](https://open.spotify.com/track/23xtj6sfcsi2pZjmLM0m6L) | [GIM GAM](https://open.spotify.com/artist/6l3713Vu1NzSyc18FhDN8Y) | [One Day](https://open.spotify.com/album/7oXojJOI8sgR1i5y9bRNlx) | 3:02 | 2022-09-02 |  |
+| [One Day](https://open.spotify.com/track/23xtj6sfcsi2pZjmLM0m6L) | [GIM GAM](https://open.spotify.com/artist/6l3713Vu1NzSyc18FhDN8Y) | [One Day](https://open.spotify.com/album/7oXojJOI8sgR1i5y9bRNlx) | 3:02 | 2022-09-02 | 2023-11-25 |
 | [One Day Back](https://open.spotify.com/track/3DrTuirQtYns2DOev8VVag) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [One Day Back](https://open.spotify.com/album/0tqrWV0uxSRhDVRS1pf8Tj) | 3:30 | 2022-10-07 |  |
 | [One Day Left](https://open.spotify.com/track/1I1HlSJlLcKbKXMkiucFnr) | [Tales of Terra](https://open.spotify.com/artist/44PWNrMWTLwg7crjJN127B) | [One Day Left](https://open.spotify.com/album/1jB6WV9aFf2YzHBzi7k93O) | 2:13 | 2023-09-22 |  |
 | [One Try](https://open.spotify.com/track/0r2uhuFtiYZzeNncUUzvv7) | [Nico Belucci](https://open.spotify.com/artist/1ffy5tc5ZYaivIp4zF2r6a) | [One Try](https://open.spotify.com/album/6lsgyMkymdgSTK43XGqvqI) | 2:31 | 2022-05-10 | 2023-03-15 |
@@ -502,6 +503,7 @@
 | [Playthru](https://open.spotify.com/track/6gJmvaiNmOZWZoG7WRGJrO) | [Baron Grand](https://open.spotify.com/artist/1MmcsrLM2fdTjAf6tQu8SB) | [Remote Presence](https://open.spotify.com/album/3uZN27EbPINm5Pr8eHkA7F) | 3:07 | 2020-04-07 | 2020-11-19 |
 | [pleased as punch](https://open.spotify.com/track/5U4oJZhsOEDu4GNxv3LZ2L) | [Ms\. Velvet](https://open.spotify.com/artist/0y0wpWjKYzAqmY0nQkaZcH) | [pleased as punch](https://open.spotify.com/album/65ijOt7F7UB24RVOpELEXk) | 3:19 | 2022-12-23 |  |
 | [Politics of the Heart](https://open.spotify.com/track/25JczHXGPBQ6PZGt5293MR) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [One More Time Around](https://open.spotify.com/album/5i4o0pR4boNE3ttyh2G8dG) | 2:52 | 2023-02-03 |  |
+| [Pool Squad](https://open.spotify.com/track/17UhZzfi5g69iF7AVmfmat) | [Dr\. Stu](https://open.spotify.com/artist/5GlVlEMBULr4iUAjL4cT1R) | [Pool Squad](https://open.spotify.com/album/2mfKZWabYVC28EemAt8XeR) | 2:46 | 2023-11-24 |  |
 | [Pororoca \- Radio Edit](https://open.spotify.com/track/4fQewx3TWzldEKuTOGdXop) | [Dandara](https://open.spotify.com/artist/6h2EcimpzT4Ft2t2vfjEt4), [Anissa Damali](https://open.spotify.com/artist/2f2hnF8xUwrKCFODnhCfns) | [Gager](https://open.spotify.com/album/1J3MEi4KLC9UB227dO3l1y) | 3:46 | 2020-11-04 | 2020-11-11 |
 | [Portraits](https://open.spotify.com/track/2c6ZZ6INknHZTWPO8JxKuX) | [Siarate](https://open.spotify.com/artist/3fPUbKTg9j2k4xPGs4dbz2) | [Portraits](https://open.spotify.com/album/72zW22EzgsNETzSygNOCGm) | 4:38 | 2021-02-10 | 2021-09-09 |
 | [Positano](https://open.spotify.com/track/2XxGvI9nvrkK6BuNAOvRQw) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Positano](https://open.spotify.com/album/365Du5Bh6lzXuxvSq7h7jW) | 3:08 | 2021-09-09 |  |
@@ -712,6 +714,7 @@
 | [Underview](https://open.spotify.com/track/5Ut0xXdUvgW5TVuTr6FZCv) | [Shiruky](https://open.spotify.com/artist/1Tr7ffkJ66E8bXTm2g7uEM) | [Got This](https://open.spotify.com/album/0TtK0hLbzepa08Rosnmgqb) | 3:57 | 2021-06-16 | 2021-09-22 |
 | [Unknown Controlpanel](https://open.spotify.com/track/4Jbd4SmdEeNeH6if9lsNLe) | [Midnight Cycler](https://open.spotify.com/artist/3SBMxed906yvEy1tA8Avaj) | [Anticyclone Velodrome](https://open.spotify.com/album/6mlT2K4JCofZHXmLzSxDUx) | 3:06 | 2021-07-08 |  |
 | [Until I'm Home](https://open.spotify.com/track/1UA9mnrucrT9yYOscmw1be) | [imagiro](https://open.spotify.com/artist/2O8Fgh14LT9QBGfFM5q5Rb) | [Until I'm Home](https://open.spotify.com/album/0rDZkSIj0LVNQWrDzXInpu) | 3:18 | 2020-04-03\* | 2021-01-05 |
+| [Uphills](https://open.spotify.com/track/4d3TNDKyQuHKla1p56aLeG) | [Dahtona](https://open.spotify.com/artist/0BFc77yZN31TbzgtbLIhkW) | [Uphills](https://open.spotify.com/album/0KRQSCLixeVCIs4Q1ASrzZ) | 2:29 | 2023-11-24 |  |
 | [Urban Exploration](https://open.spotify.com/track/1ykMsXleK0ys7uJYCDttJT) | [SÁBADA](https://open.spotify.com/artist/4XzpwlfkxNpig7JhxSJxTn) | [Urban Exploration](https://open.spotify.com/album/61uzHmj37eSY7jeP7UHM4s) | 2:11 | 2021-08-20 | 2022-02-11 |
 | [Vacaciones](https://open.spotify.com/track/7qZigaS8Wx6JuBue3JMGzc) | [Sebastian Campos](https://open.spotify.com/artist/6ziUFFJdD7qKJESWP1K1Ee) | [Vacaciones](https://open.spotify.com/album/6S1OAh4LVIhJs9QDDKPZBG) | 2:41 | 2021-02-04 | 2021-08-20 |
 | [Vacay \- Tropical Jazz Mix](https://open.spotify.com/track/1N4jRXLb40EAyJMzFQZzX2) | [Millennial Matt](https://open.spotify.com/artist/2NTRqwTkxJsD6o5WtJ3rVB) | [Vacay \- Tropical Jazz Mix](https://open.spotify.com/album/0rRUr0U1aJM8uu5RejSV9R) | 2:43 | 2021-11-08 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The hottest new pop with all the drops. Cover: Marshmello & Tyla",
-  "num_followers": 137361,
+  "num_followers": 137406,
   "original_name": "Fresh Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMmY0MWM3Yjg4NWJlMDQ3ODVhN2NmZjJhODVhZTI2YWYyZjk5MDI0",
+  "snapshot_id": "MCxjOGUwOTQ5OTNlMzMzM2FkNjA0NDMwODhiZWY3Mjk0NmU5NmM4NmRm",
   "tracks": [
     {
       "added_at": "2023-11-17 05:01:00",
@@ -27,6 +27,26 @@
       "duration_ms": 191733,
       "name": "Water",
       "url": "https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Still Got It bad",
+        "url": "https://open.spotify.com/album/6XqCdGxjzalzwAWE3ekh68"
+      },
+      "artists": [
+        {
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+        },
+        {
+          "name": "MATTN",
+          "url": "https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio"
+        }
+      ],
+      "duration_ms": 141869,
+      "name": "Still Got It Bad",
+      "url": "https://open.spotify.com/track/3sBekLF0BJII3VhcmqzMHg"
     },
     {
       "added_at": "2023-11-17 05:01:00",
@@ -109,6 +129,26 @@
       "url": "https://open.spotify.com/track/5asMstLe5UTmy01PCdM43c"
     },
     {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Look At Me Now (ATLANTIS Remix)",
+        "url": "https://open.spotify.com/album/7zhqPhgBEpsYeD8FZAH4n6"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        },
+        {
+          "name": "ATLANTIS",
+          "url": "https://open.spotify.com/artist/1PGVxy8gGbJYkHL1DHlq1F"
+        }
+      ],
+      "duration_ms": 160786,
+      "name": "Look At Me Now (ATLANTIS Remix)",
+      "url": "https://open.spotify.com/track/69IiCMIc86C2kv28dEgdpw"
+    },
+    {
       "added_at": "2023-11-17 05:01:00",
       "album": {
         "name": "Waste My Love",
@@ -163,6 +203,22 @@
       "duration_ms": 196849,
       "name": "Us ft. ERNEST",
       "url": "https://open.spotify.com/track/1pNvwvyu0toAciKIigdbO5"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Good At Goodbyes",
+        "url": "https://open.spotify.com/album/6W2DHMEQzAuZbFX41oK5oi"
+      },
+      "artists": [
+        {
+          "name": "Samira",
+          "url": "https://open.spotify.com/artist/0QmyeiU8zjcckReXT6sjuT"
+        }
+      ],
+      "duration_ms": 214976,
+      "name": "Good At Goodbyes",
+      "url": "https://open.spotify.com/track/2dGq1DXChJfos8lxXJBfnG"
     },
     {
       "added_at": "2023-11-10 05:00:00",

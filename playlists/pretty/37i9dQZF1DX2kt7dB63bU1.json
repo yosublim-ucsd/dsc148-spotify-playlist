@@ -1,12 +1,12 @@
 {
   "description": "Jazz voices of today. Cover: Samara Joy",
-  "num_followers": 133562,
+  "num_followers": 133602,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5M2MxNDYzOTZlYTVkOTcxM2IwODA5YjIxMDFkMTJhZGM0NGE3NGNk",
+  "snapshot_id": "MCxhMWM0MTJjZGNhNDY5MzQzNmEyZTFiYWYxNTFmOGYyZDVjNzA2OGUx",
   "tracks": [
     {
       "added_at": "2023-09-22 04:01:00",
@@ -171,6 +171,22 @@
       "duration_ms": 282441,
       "name": "What Gives You The Right",
       "url": "https://open.spotify.com/track/7weVhPDPHC8H1nOQJMalw9"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Dream Life",
+        "url": "https://open.spotify.com/album/1sqJUG8S7F9cmEe7mxyNVZ"
+      },
+      "artists": [
+        {
+          "name": "Lusaint",
+          "url": "https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7"
+        }
+      ],
+      "duration_ms": 177151,
+      "name": "Dream Life",
+      "url": "https://open.spotify.com/track/2dSXV3BOMaw9aB8SrRmOiH"
     },
     {
       "added_at": "2023-09-29 04:01:00",
@@ -1239,22 +1255,6 @@
       "duration_ms": 159294,
       "name": "My Boy",
       "url": "https://open.spotify.com/track/2I7LnGwzorTgRFn7FymQRg"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
-        "name": "Black Acid Soul (Deluxe)",
-        "url": "https://open.spotify.com/album/41KI9nUWYRQDxXfgfbX5Zz"
-      },
-      "artists": [
-        {
-          "name": "Lady Blackbird",
-          "url": "https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ"
-        }
-      ],
-      "duration_ms": 291760,
-      "name": "Did Somebody Make a Fool Out of You",
-      "url": "https://open.spotify.com/track/2a6ZvVIWBeBSjAcbPgolD9"
     },
     {
       "added_at": "2022-10-07 04:00:00",

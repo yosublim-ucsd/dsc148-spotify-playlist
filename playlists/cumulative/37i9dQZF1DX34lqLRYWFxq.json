@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-11",
-  "description": "What's new in rock this week. Cover: Mannequin Pussy",
+  "description": "What's new in rock this week. Cover: EKKSTACY",
   "name": "Ready to Rock",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 166536,
       "name": "18",
       "url": "https://open.spotify.com/track/1S2Las2wOFICFuvIdskoY5"
+    },
+    {
+      "album": {
+        "name": "Plaster Girl",
+        "url": "https://open.spotify.com/album/4NsBMTb8rkkZubdE4lNQYQ"
+      },
+      "artists": [
+        {
+          "name": "Thermal",
+          "url": "https://open.spotify.com/artist/0rXfVyHv2j4AaWRvhM44KS"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215373,
+      "name": "18",
+      "url": "https://open.spotify.com/track/0t0tjmV33ODNJvKfUKQ0WC"
     },
     {
       "album": {
@@ -921,6 +939,24 @@
     },
     {
       "album": {
+        "name": "B/W Rainbow",
+        "url": "https://open.spotify.com/album/2UrIwY8TCUCBe5VXVCStoO"
+      },
+      "artists": [
+        {
+          "name": "Stuck in the Sound",
+          "url": "https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "B/W Rainbow",
+      "url": "https://open.spotify.com/track/4Mao9J2KxOWkqp9u1LULTd"
+    },
+    {
+      "album": {
         "name": "Baby Don't feat. DijahSB",
         "url": "https://open.spotify.com/album/27YKNgXkIlYURmfTDtZJCp"
       },
@@ -1268,7 +1304,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 217022,
       "name": "Blame",
       "url": "https://open.spotify.com/track/7fEEIa4xFz9bhv55ZcxG6m"
@@ -2339,6 +2375,24 @@
     },
     {
       "album": {
+        "name": "CRUEL",
+        "url": "https://open.spotify.com/album/7ELoEFG7ec1h7GLDZdFU99"
+      },
+      "artists": [
+        {
+          "name": "LYELL",
+          "url": "https://open.spotify.com/artist/3aDih8lIm5GOfAaorpUg5Y"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141017,
+      "name": "CRUEL",
+      "url": "https://open.spotify.com/track/0T70OATh83XtJsQG74lL86"
+    },
+    {
+      "album": {
         "name": "Crumbled",
         "url": "https://open.spotify.com/album/0WuxkTSMVZa1nWI7YaR6XS"
       },
@@ -2498,7 +2552,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 164790,
       "name": "DArkSide",
       "url": "https://open.spotify.com/track/19vHgVS1aukRiQWhTqfKnE"
@@ -2516,7 +2570,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 359184,
       "name": "Days Of Oblivion",
       "url": "https://open.spotify.com/track/2p83KMWc8xidIJ0RwXsz25"
@@ -3426,7 +3480,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 138460,
       "name": "FELL IN LOVE",
       "url": "https://open.spotify.com/track/0rc6gtN1L7i0TacdfxhiND"
@@ -3901,6 +3955,32 @@
     },
     {
       "album": {
+        "name": "GLOFS (feat. Rou Reynolds of Enter Shikari)",
+        "url": "https://open.spotify.com/album/4DVMNKOHTvzJVVgiHNBPn9"
+      },
+      "artists": [
+        {
+          "name": "Blackout Problems",
+          "url": "https://open.spotify.com/artist/22P5BkhcPUCtDGC9laXpDM"
+        },
+        {
+          "name": "Rou Reynolds",
+          "url": "https://open.spotify.com/artist/39sN02pcMOMbe3kVNajete"
+        },
+        {
+          "name": "Enter Shikari",
+          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232138,
+      "name": "GLOFS",
+      "url": "https://open.spotify.com/track/35ZQUE0DuUFEptq5LJv6nI"
+    },
+    {
+      "album": {
         "name": "Goldfish",
         "url": "https://open.spotify.com/album/6S6gqcWWRledJ24fK2B4cR"
       },
@@ -4212,6 +4292,24 @@
       "duration_ms": 274653,
       "name": "Happiness",
       "url": "https://open.spotify.com/track/3fzHIvuu1GtWtIlyBqhjR6"
+    },
+    {
+      "album": {
+        "name": "HATE 2 LUV U",
+        "url": "https://open.spotify.com/album/5exZjAvyfhdDdssxOcWfRj"
+      },
+      "artists": [
+        {
+          "name": "AViVA",
+          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177479,
+      "name": "HATE 2 LUV U",
+      "url": "https://open.spotify.com/track/0cg2EwJcOFj4S7ZDoDhBMc"
     },
     {
       "album": {
@@ -4719,6 +4817,24 @@
     },
     {
       "album": {
+        "name": "Hummingbird",
+        "url": "https://open.spotify.com/album/4Hdoq8Muugv4U1mF6wk1Cb"
+      },
+      "artists": [
+        {
+          "name": "j ember",
+          "url": "https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239375,
+      "name": "Hummingbird",
+      "url": "https://open.spotify.com/track/66y55qURIWQMGONkG0ZZyd"
+    },
+    {
+      "album": {
         "name": "HUNGOVER",
         "url": "https://open.spotify.com/album/4SmmY5mzkycS02Vk9pofKA"
       },
@@ -4842,7 +4958,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 183109,
       "name": "i don\u2019t sleep as good as i used to",
       "url": "https://open.spotify.com/track/2YCrJo5Ly8VS7rWMO30xbX"
@@ -4864,6 +4980,24 @@
       "duration_ms": 237184,
       "name": "I Dream Of You",
       "url": "https://open.spotify.com/track/1mvpuH8Z0DMYUQXBSGaWEW"
+    },
+    {
+      "album": {
+        "name": "I Give Up",
+        "url": "https://open.spotify.com/album/4z14UggJ54RKbF4vCZEwv3"
+      },
+      "artists": [
+        {
+          "name": "The Royal Foundry",
+          "url": "https://open.spotify.com/artist/7w7g3NoDd7yITLuPp8kmfg"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214322,
+      "name": "I Give Up",
+      "url": "https://open.spotify.com/track/2A84TTcDgNVhKK2QiYB69H"
     },
     {
       "album": {
@@ -4968,7 +5102,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 181518,
       "name": "I'm Starting to Think I'm Bad at Parties",
       "url": "https://open.spotify.com/track/5fnjga2XOQ8oLg02mwZlQg"
@@ -4990,7 +5124,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 186258,
       "name": "Iconic (feat. Jax)",
       "url": "https://open.spotify.com/track/4r0AbYYtiklnWyNRgEHPM8"
@@ -6860,7 +6994,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 205609,
       "name": "My Own Hell",
       "url": "https://open.spotify.com/track/3FiRWP4QJ1Di59fGDOYQAR"
@@ -6950,7 +7084,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 183974,
       "name": "Never Grow Up",
       "url": "https://open.spotify.com/track/4XNRSMu212fobcMZePUE9z"
@@ -7703,6 +7837,24 @@
     },
     {
       "album": {
+        "name": "Pedestal",
+        "url": "https://open.spotify.com/album/3wkV84YZxNsqZ0CUZkKAdj"
+      },
+      "artists": [
+        {
+          "name": "Lime Cordiale",
+          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261798,
+      "name": "Pedestal",
+      "url": "https://open.spotify.com/track/6lKaiRbX5DtGMGNvE4xRbx"
+    },
+    {
+      "album": {
         "name": "Across The Room",
         "url": "https://open.spotify.com/album/5xD3AZ3zsBzhXFCcEmULkD"
       },
@@ -8274,7 +8426,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 182745,
       "name": "Ramona",
       "url": "https://open.spotify.com/track/2W6yKDUYSIdp6vPnPWqiv8"
@@ -9063,6 +9215,24 @@
     },
     {
       "album": {
+        "name": "shutting me out / goo lagoon",
+        "url": "https://open.spotify.com/album/4WJsVZksTyP64i6fsH9Ocq"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146080,
+      "name": "shutting me out",
+      "url": "https://open.spotify.com/track/1XKLWx4XOnB6nMkl5qFtYi"
+    },
+    {
+      "album": {
         "name": "Velveteen",
         "url": "https://open.spotify.com/album/20autaRlTtoAUnewO5c12H"
       },
@@ -9348,7 +9518,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 218027,
       "name": "Sometimes, I Swear",
       "url": "https://open.spotify.com/track/0koN5ovIrxSXrO7QJXQB4Y"
@@ -9676,6 +9846,24 @@
       "duration_ms": 193600,
       "name": "Sugar Like That",
       "url": "https://open.spotify.com/track/2GZga87kUDmNkFtOq49sEr"
+    },
+    {
+      "album": {
+        "name": "Pages",
+        "url": "https://open.spotify.com/album/4alJEpLwJu3ptq8h9rVs6Y"
+      },
+      "artists": [
+        {
+          "name": "Big Wreck",
+          "url": "https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293560,
+      "name": "Summerlong",
+      "url": "https://open.spotify.com/track/2COp8DoPQO3BkkTpInguVK"
     },
     {
       "album": {
@@ -10094,7 +10282,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 211152,
       "name": "The Hills",
       "url": "https://open.spotify.com/track/1McBsb9H3rFIl5cENthWd6"
@@ -10134,6 +10322,24 @@
       "duration_ms": 334430,
       "name": "The King",
       "url": "https://open.spotify.com/track/0Uz8mMqszbxBELP66p4s94"
+    },
+    {
+      "album": {
+        "name": "The Knock / Soldiers Of Love",
+        "url": "https://open.spotify.com/album/3NFcWx0CCnq7D177zszg8F"
+      },
+      "artists": [
+        {
+          "name": "Feeder",
+          "url": "https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212926,
+      "name": "The Knock",
+      "url": "https://open.spotify.com/track/7xm6gxaOBemqmU3KjriBx5"
     },
     {
       "album": {
@@ -10422,6 +10628,28 @@
       "duration_ms": 139787,
       "name": "THIRST4VIOLENCE (feat. Freddie Dredd & Silverstein)",
       "url": "https://open.spotify.com/track/6fQaD9UaCJPLceCxfS8fpH"
+    },
+    {
+      "album": {
+        "name": "thoughts i have while lying in bed (with Beach Weather)",
+        "url": "https://open.spotify.com/album/57u0BXm756Oc5nKELfd6qR"
+      },
+      "artists": [
+        {
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        },
+        {
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219994,
+      "name": "thoughts i have while lying in bed",
+      "url": "https://open.spotify.com/track/7t01uN0kyKMEK8Ow9hhEXa"
     },
     {
       "album": {

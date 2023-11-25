@@ -4,7 +4,7 @@
 
 > Música para insubordinados\. Sum 41 en portada.
 
-142 songs - 7 hr 37 min
+143 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,11 +118,12 @@
 | [Real Thing](https://open.spotify.com/track/1Rz1CTinAymBA4dcMPGijY) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Time & Space](https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx) | 1:56 | 2023-09-23 |  |
 | [Rest Assured](https://open.spotify.com/track/0EWhAlXHKrwWIJjX9Gg56R) | [The Lemonheads](https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X) | [Come on Feel The Lemonheads](https://open.spotify.com/album/1mA5CUUztAKf53GDuypfAT) | 2:28 | 2023-09-23 |  |
 | [Retrofuturo](https://open.spotify.com/track/77KgPizQ8zRT0GSe8AfG61) | [Thermo](https://open.spotify.com/artist/3HA7l0ZFLSMYWHCVuUZjT7) | [Retrofuturo](https://open.spotify.com/album/2b2G2zi3bSi3qw0fBkP2DL) | 3:23 | 2023-09-29 |  |
-| [Revolución en 32 versos](https://open.spotify.com/track/2IpIhUpVuQTsIseaQ4z7G0) | [Chico Jorge](https://open.spotify.com/artist/5RlSgVslS8qQuHh3a1GQNd) | [Revolución en 32 versos](https://open.spotify.com/album/6hIwZvUQkppY4xBoxjwXWs) | 2:47 | 2022-03-25 |  |
+| [Revolución en 32 versos](https://open.spotify.com/track/2IpIhUpVuQTsIseaQ4z7G0) | [Chico Jorge](https://open.spotify.com/artist/5RlSgVslS8qQuHh3a1GQNd) | [Revolución en 32 versos](https://open.spotify.com/album/6hIwZvUQkppY4xBoxjwXWs) | 2:47 | 2022-03-25 | 2023-11-25 |
 | [Rotura](https://open.spotify.com/track/4MNwrAigvEocVgWDGxkS10) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Rotura](https://open.spotify.com/album/7hBTPDVJPbi2Igtfv9dphz) | 3:36 | 2023-06-23 |  |
 | [Sabinal](https://open.spotify.com/track/6GdjcejLIYstjDTS111tKR) | [The Shelter](https://open.spotify.com/artist/0s4gHJntOTkBezUfGz1oRa), [Pollo Bruxo](https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ) | [Sabinal](https://open.spotify.com/album/2VW2Arzox2JddtDvguuUU1) | 2:16 | 2023-06-23 |  |
 | [Say It If You Mean It](https://open.spotify.com/track/3291tPBAOx7pH5rcP9Adoj) | [Tsunami Bomb](https://open.spotify.com/artist/5oNVC8oAZ9Tmhnx5kLihgC) | [The Ultimate Escape](https://open.spotify.com/album/3qsUeo8pudOL4jri4YSzET) | 3:18 | 2023-09-23 |  |
 | [ser feliz](https://open.spotify.com/track/4unFzO0xTe39Ni2sd0EXEI) | [niño viejo](https://open.spotify.com/artist/3lqwBqukon1qKszWWfSvz9) | [ser feliz](https://open.spotify.com/album/55c6HMx99ZGqkCoyAeN6hF) | 3:40 | 2022-03-25 | 2023-09-24 |
+| [Shadow \(I'm Breaking Down\)](https://open.spotify.com/track/35k8QihhSU5Z7Rqz7FD2nv) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/album/0F93SGg55xfIxn8xXzbG93) | 3:38 | 2023-11-24 |  |
 | [Shred Cruz](https://open.spotify.com/track/2PfhxN59IQspC3t8OLsZLV) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Split](https://open.spotify.com/album/4D8SizoxWUnb4yG8PC1cdj) | 2:08 | 2023-09-23 |  |
 | [Siento](https://open.spotify.com/track/3SCNVBQtQbU18bgGBvPXOW) | [Mal Pasar](https://open.spotify.com/artist/3rFOwSVu18ny0UBce3HUy0) | [Siento](https://open.spotify.com/album/0f0lYdtu9kE6prjAUr7jiQ) | 3:34 | 2023-07-28 | 2023-09-24 |
 | [Soy Basura](https://open.spotify.com/track/5mwejIKy819KOkrl7RmNXD) | [Pájaros Vampiro](https://open.spotify.com/artist/1mDd7cul31CzwMxrjL6wXd) | [Soy Basura](https://open.spotify.com/album/3ESj5vJEa3xuiT8Bc0rQhu) | 1:48 | 2022-03-25 |  |

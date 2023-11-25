@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-335 songs - 18 hr 19 min
+336 songs - 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Care 4 U](https://open.spotify.com/track/2KYp9IpK1HURPiKflNwz2i) | [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [Care 4 U](https://open.spotify.com/album/0j4vyMYQA11sZ3Yr1ZxEu8) | 2:37 | 2023-06-22 |  |
 | [Carried Away](https://open.spotify.com/track/2NmYaJ4xxGhzcndnj73yBE) | [Pesukone](https://open.spotify.com/artist/68mk8GNhUjTLMw72RCBIvV), [Buzlanes](https://open.spotify.com/artist/35WZpX1M97DyGPXGrBgnCd) | [Carried Away](https://open.spotify.com/album/06Cr286tHjc0OEBAWdQf3E) | 2:56 | 2023-06-29 |  |
 | [Close 2 U](https://open.spotify.com/track/35pDv7illobZwBuAESRD6g) | [Aliiias](https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG) | [Close 2 U](https://open.spotify.com/album/7aMPbn9Qj4BMb8Y27UEMQF) | 3:01 | 2023-06-29 |  |
-| [close 2 u](https://open.spotify.com/track/29ZOn3UbhmHCtVv1ScDwPe) | [henri](https://open.spotify.com/artist/7nJ5r6Up446alyOTy7Umsf) | [rakkaus](https://open.spotify.com/album/1YgHQC8MHFGfoBXTkiSOFV) | 3:11 | 2023-06-08 |  |
+| [close 2 u](https://open.spotify.com/track/29ZOn3UbhmHCtVv1ScDwPe) | [henri](https://open.spotify.com/artist/7nJ5r6Up446alyOTy7Umsf) | [rakkaus](https://open.spotify.com/album/1YgHQC8MHFGfoBXTkiSOFV) | 3:11 | 2023-06-08 | 2023-11-25 |
 | [Clouds](https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj) | 2:38 | 2023-04-13 |  |
 | [Confused 133](https://open.spotify.com/track/2L5FCkyzwgpPMsgoTuB7qr) | [Ninezz](https://open.spotify.com/artist/6QnL72psaayojSvTDQaJqY) | [Confused 133](https://open.spotify.com/album/318k5epPI1tchtYBglX5kM) | 2:42 | 2023-10-27 |  |
 | [Connection \- OLAN Remix](https://open.spotify.com/track/7sO1orGW0luwyk8A0msOOM) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT), [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB), [OLAN](https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO) | [Connection \(OLAN Remix\)](https://open.spotify.com/album/65Qp0I8uDysKMCUKrsVynv) | 4:04 | 2023-11-02 |  |
@@ -98,6 +98,7 @@
 | [Forever](https://open.spotify.com/track/3XPCIPycCKEjQVG087GkLk) | [Jordan Burns](https://open.spotify.com/artist/5Aapt5sVTPkERQAz6TtuZS) | [Forever](https://open.spotify.com/album/342hxZWpKqeP2gHMrZ4zMM) | 3:45 | 2023-06-08 |  |
 | [Friday Night](https://open.spotify.com/track/6wgmzw64fvWGVNfDRbOHFh) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Summer Someday](https://open.spotify.com/album/3T5GjO0RHixIYMXeUsq099) | 3:49 | 2023-04-13 | 2023-05-03 |
 | [Gemini](https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Miracles](https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy) | 4:29 | 2023-09-21 |  |
+| [get 2 know u](https://open.spotify.com/track/2viKyXsVIxLrNgwGwcFGMN) | [henri](https://open.spotify.com/artist/7nJ5r6Up446alyOTy7Umsf) | [get 2 know u](https://open.spotify.com/album/17pcSdocogAE15G4Vh6qWq) | 3:35 | 2023-11-24 |  |
 | [ghost \(feat\. HUMAN\)](https://open.spotify.com/track/1FBe5ufpstCna9qm0Y6q9U) | [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj), [HUMAN](https://open.spotify.com/artist/4rje1ago7T6xEn8SABCTIY) | [ghost \(feat\. HUMAN\)](https://open.spotify.com/album/3wIh99BbkbZ5DGOGxJ2bPR) | 3:56 | 2023-06-01 |  |
 | [ghost2](https://open.spotify.com/track/0DgyAyvFmYA232P4jWheGP) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [lil spirits](https://open.spotify.com/album/4PiQXqTTVf4PYb0na1NqMh) | 3:18 | 2023-06-15 |  |
 | [Gipsy](https://open.spotify.com/track/7mA03cPnG3UkLgf1ed87fI) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Haj](https://open.spotify.com/artist/05WNscDcYnsCEMH42h1ehL) | [The Return of House Music](https://open.spotify.com/album/4lsszip8gEvULzZTTThGnS) | 4:28 | 2023-06-01 |  |
@@ -270,7 +271,7 @@
 | [Soak Up The Sun](https://open.spotify.com/track/2vhaFJVzOrVgF4wdU2lzp0) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr) | [Soak Up The Sun](https://open.spotify.com/album/0oufmjtrlHZxQW7scjMcJk) | 3:36 | 2023-09-07 |  |
 | [sober](https://open.spotify.com/track/1U2bitiQwMK8GfMwhsmERj) | [devin](https://open.spotify.com/artist/1nTDIsZa79wLRMZDfuVG3h) | [sober](https://open.spotify.com/album/27Zp5a2eVYz1W7e8KQmcOQ) | 2:07 | 2023-11-16 |  |
 | [Something Stronger](https://open.spotify.com/track/1VhD0FPDYqFhqRJVguVAJe) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA), [SHYA](https://open.spotify.com/artist/3bUHVz55uXLTtxggKQyXIO), [Coldabank](https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA) | [Something Stronger](https://open.spotify.com/album/6jjwM9Sheset9qyHMMA4PB) | 2:07 | 2023-04-13 |  |
-| [something we would dance to](https://open.spotify.com/track/3SCxgfMHjQsyQ7fSHw5c9K) | [henri](https://open.spotify.com/artist/7nJ5r6Up446alyOTy7Umsf) | [rakkaus](https://open.spotify.com/album/1YgHQC8MHFGfoBXTkiSOFV) | 3:09 | 2023-06-01 |  |
+| [something we would dance to](https://open.spotify.com/track/3SCxgfMHjQsyQ7fSHw5c9K) | [henri](https://open.spotify.com/artist/7nJ5r6Up446alyOTy7Umsf) | [rakkaus](https://open.spotify.com/album/1YgHQC8MHFGfoBXTkiSOFV) | 3:09 | 2023-06-01 | 2023-11-25 |
 | [Start Small \- Lamorn Remix](https://open.spotify.com/track/6tGZBNnzbG7iFa4LoH1bIy) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Lamorn](https://open.spotify.com/artist/5cfLsokNJlFQisLDtzugO9) | [Second Nature \(Remixes\)](https://open.spotify.com/album/4C4V7xWan1E9J5zC30ySqD) | 4:58 | 2023-06-08 |  |
 | [Stuck On You](https://open.spotify.com/track/3MPGIPuYWDP3ToQtcHd6cK) | [MashBit](https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ) | [Stuck On You](https://open.spotify.com/album/4FGWofRXJbI2nUc7l5jylx) | 2:29 | 2023-11-16 |  |
 | [Sun Showers](https://open.spotify.com/track/5xbCwWdi2a6qa7zOFc7Ej6) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 4:34 | 2023-07-14 |  |

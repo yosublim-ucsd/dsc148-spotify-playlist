@@ -4,7 +4,7 @@
 
 > Dark, hard hitting pop\. Cover: emlyn
 
-538 songs - 1 day 0 hr 41 min
+540 songs - 1 day 0 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [Happier Than Ever \- Edit](https://open.spotify.com/track/3Wc4jQhzto9iZehUirrzcM) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Happier Than Ever](https://open.spotify.com/album/6Yg2WbhAn0F3vFiwFnC7wO) | 2:05 | 2022-06-17 | 2022-10-08 |
 | [Happy](https://open.spotify.com/track/6DXI5kHhGs2yrWFPFsecm1) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Happy](https://open.spotify.com/album/09Pmkia3NOqY9TOhTgS2Un) | 2:44 | 2023-04-28 | 2023-08-19 |
 | [HAPPY EVER AFTER](https://open.spotify.com/track/2tKw9pdaR2paQyfDYLGrWo) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [HAPPY EVER AFTER](https://open.spotify.com/album/0NUinuyKeYqHOAHbWxkWRZ) | 3:14 | 2023-03-17 | 2023-04-22 |
+| [HATE 2 LUV U](https://open.spotify.com/track/0cg2EwJcOFj4S7ZDoDhBMc) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [HATE 2 LUV U](https://open.spotify.com/album/5exZjAvyfhdDdssxOcWfRj) | 2:57 | 2023-11-24 |  |
 | [Hate Me](https://open.spotify.com/track/6MrYw32izcQ1yzrGqmzPrd) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ) | 3:20 | 2023-02-17 | 2023-08-19 |
 | [Hate Me Too](https://open.spotify.com/track/0AKwswdgnA36IYqhGaSdK2) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Hate Me Too](https://open.spotify.com/album/2IGTjTYk3uc9fwlIinRvCr) | 3:06 | 2022-01-28 | 2022-03-18 |
 | [Haunt Your Dreams](https://open.spotify.com/track/4UuCqDO4FGdM3ZTJuN3pSW) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Haunt Your Dreams](https://open.spotify.com/album/1vYOBi8w3jO0JDaX8yexVJ) | 2:51 | 2023-06-02 | 2023-08-19 |
@@ -467,6 +468,7 @@
 | [the AUDACITY](https://open.spotify.com/track/7zrVdaTYQS4QDw7DvETwvL) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [the AUDACITY](https://open.spotify.com/album/2GGCXmPDkBybkSJR59L8yA) | 3:13 | 2022-04-29 | 2022-09-24 |
 | [THE FLOOR IS LAVA!!](https://open.spotify.com/track/7H45IsekLH01EQ4rY1bng8) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [THE FLOOR IS LAVA!!](https://open.spotify.com/album/02cUgScRSAqfbFp6UHKXmh) | 2:45 | 2022-06-03 | 2022-08-06 |
 | [The Funeral](https://open.spotify.com/track/799vfa9SphWopM5qUnxYRU) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [The Funeral](https://open.spotify.com/album/4ahAi44tIEwj2r91oHKrgw) | 3:31 | 2022-03-18 | 2022-04-16 |
+| [the girl \(that you can't get over\)](https://open.spotify.com/track/5rvkNjOc5Q6rV26iqdTWwB) | [Lili\-Ann De Francesco](https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA) | [inhale \- E.P.](https://open.spotify.com/album/6g4KDMX0EEAUiH6bSltjlL) | 2:47 | 2023-11-24 |  |
 | [The Maze](https://open.spotify.com/track/6xpGgaH6GxF1x2TdipaHSi) | [J\. Maya](https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU) | [The Maze](https://open.spotify.com/album/3PPaBeyg3p9bKAsgU3uBRW) | 3:24 | 2023-09-22 |  |
 | [the other side](https://open.spotify.com/track/28nGgL1ko5fj8M41SxPf94) | [margø](https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU) | [the other side](https://open.spotify.com/album/42rzcyCeL2t08zVCEukAnr) | 3:03 | 2022-03-11 | 2022-05-20 |
 | [The Saint And The Sinner](https://open.spotify.com/track/0NglzykMdrtMzNzA6HuDyN) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [The Saint And The Sinner](https://open.spotify.com/album/1mYlxJmW2sSZdSuZFWeaKg) | 3:12 | 2022-01-14 | 2022-03-18 |
@@ -518,7 +520,7 @@
 | [We're All Gonna Die](https://open.spotify.com/track/0vQ6sPAB5lR3VhiOUAhQ9n) | [CRAY](https://open.spotify.com/artist/7pylhrS9HpyWwbTtmEqg9K) | [We're All Gonna Die](https://open.spotify.com/album/0YKNaAwk4NPSqJ8vS2dwyy) | 2:48 | 2022-04-29 | 2022-05-20 |
 | [Weapon \(With Newnion, FLOOR\) \(Prod.Czaer\)](https://open.spotify.com/track/6poVmpGU3y3jj1Z9xbbbH4) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Street Dance Girls Fighter\(SGF\) Special](https://open.spotify.com/album/4azL8fNPVZ8tmKqPyK1583) | 3:40 | 2022-01-14 | 2022-03-18 |
 | [WEEDKILLER](https://open.spotify.com/track/4c5LGEwgEEgL8VlNeeBCL8) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [WEEDKILLER](https://open.spotify.com/album/6b3Dg5Yc2v7SN0EjTVfcoa) | 2:06 | 2023-04-07 | 2023-08-19 |
-| [WEIRDO](https://open.spotify.com/track/4q0l0eybNVn3ae13cj4OBw) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [WEIRDO](https://open.spotify.com/album/6rDokynybvQJty9nxAAGVh) | 2:30 | 2023-10-13 |  |
+| [WEIRDO](https://open.spotify.com/track/4q0l0eybNVn3ae13cj4OBw) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [WEIRDO](https://open.spotify.com/album/6rDokynybvQJty9nxAAGVh) | 2:30 | 2023-10-13 | 2023-11-25 |
 | [Welcome To The Real World](https://open.spotify.com/track/1qqFDzFd2AZTKP542DsJOZ) | [Sarah Barrios](https://open.spotify.com/artist/0HJsX1aTdgG1VDIRDiseSJ) | [Welcome To The Real World](https://open.spotify.com/album/1o4IxSYAQM3FIzRfPoSEIT) | 3:02 | 2023-05-19 | 2023-08-05 |
 | [WET WHITE TEE SHIRT \(SIDE A\)](https://open.spotify.com/track/6ZDhN5vt4HgLjhJWug0N59) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [UPSAHL PRESENTS: THE PHX TAPES V2](https://open.spotify.com/album/00YldAKY4lZ1LNjb4qyVJ9) | 2:14 | 2023-06-09 | 2023-09-09 |
 | [what it means to be a girl](https://open.spotify.com/track/6H6M3RdPVYAURu9oCimO2z) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [what it means to be a girl / this is how i learn to say no](https://open.spotify.com/album/5Ty9rTy9cD0NEJVJsDRTiA) | 2:48 | 2021-12-03 | 2022-04-02 |

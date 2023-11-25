@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Star of Bethlehem",
+        "url": "https://open.spotify.com/album/64TNhQ20gsVJBPaoZatLmx"
+      },
+      "artists": [
+        {
+          "name": "Wynonna",
+          "url": "https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206598,
+      "name": "Beautiful Star of Bethlehem",
+      "url": "https://open.spotify.com/track/7FFXfYeF3H1IsSUbwyk3kC"
+    },
+    {
+      "album": {
         "name": "The Classic Christmas Album",
         "url": "https://open.spotify.com/album/3Jxbxc50mckc4xrw2dg4yD"
       },

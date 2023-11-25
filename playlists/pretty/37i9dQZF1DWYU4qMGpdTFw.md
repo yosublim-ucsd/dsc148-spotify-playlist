@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYU4qMGpdTFw.md) - [plain]
 | 26 | [Tura Satana](https://open.spotify.com/track/7kjTHGEHAYjqIc4yfic2Qc) | [Ugly Miss Piggy](https://open.spotify.com/artist/6iPF6s7eWNkHrP5LyNrYbm) | [Ugly Miss Piggy](https://open.spotify.com/album/7pNMy1F1rwn87dSMGPAd6Z) | 2:09 |
 | 27 | [Nena Zombie](https://open.spotify.com/track/5CgWKWktidzsEO9mX9Gl4j) | [Los Cuchillos](https://open.spotify.com/artist/1A03GmlINp7oMDPNu3YqjN) | [Monstronautas de la Era Atomica](https://open.spotify.com/album/19lVQINmgSd4hlZcMbeuVp) | 3:49 |
 | 28 | [Ajolote](https://open.spotify.com/track/4fUyzWW2pgqd8f3sJQg5ce) | [Los Honey Rockets](https://open.spotify.com/artist/1HzepbZEfm93lQXjFFfXq1) | [Asco en el Escenario](https://open.spotify.com/album/4eRBqjr2N7tRgPojNauSuk) | 2:54 |
-| 29 | [El Garaqge de Ginna Monster](https://open.spotify.com/track/1bf4TNiNJZ12uUk08px8PM) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [4](https://open.spotify.com/album/0WtYJpkdfN9g0rEGcgL55a) | 3:00 |
+| 29 | [El Garage de Ginna Monster](https://open.spotify.com/track/1bf4TNiNJZ12uUk08px8PM) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [4](https://open.spotify.com/album/0WtYJpkdfN9g0rEGcgL55a) | 3:00 |
 | 30 | [Captain Captain](https://open.spotify.com/track/3a1gDqfnMe39zTxI0k0SV3) | [The King Khan & BBQ Show](https://open.spotify.com/artist/4n0gvapwYbRpzU5Ov68B6P) | [What's For Dinner?](https://open.spotify.com/album/4NVwqWBq007KCMjfIPu3Bu) | 4:35 |
 | 31 | [Delincuente](https://open.spotify.com/track/5GgzofR27LCAPrYhSV1rqA) | [Wau y Los Arrrghs!!!](https://open.spotify.com/artist/6E5KbVutTSwdQMVtCDUVlh) | [¡¡¡Viven!!!](https://open.spotify.com/album/1O3rrFEc39bmYhKF3hWUgq) | 2:02 |
 | 32 | [Qué cabrón](https://open.spotify.com/track/5z3sA2PvmqV3CL0iD2gLNH) | [Los Headaches](https://open.spotify.com/artist/6YjUeyK58SGiT9lFuYQVnj) | [Qué cabrón](https://open.spotify.com/album/3CB8MbmGIXrzxxQ5sTfHTV) | 2:58 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYU4qMGpdTFw.md) - [plain]
 | 70 | [Alpaca](https://open.spotify.com/track/1aKLAx0q6575E5EjhSIgMl) | [Deathorcist](https://open.spotify.com/artist/5TNeUEygdPYbGmqHsSfoGk) | [Alpaca](https://open.spotify.com/album/3ymomE4E1aESx1hiUg5lyt) | 4:06 |
 | 71 | [Get Up!](https://open.spotify.com/track/3MAvDDp5U2EOBA6kQCTZPv) | [TRASH DAY](https://open.spotify.com/artist/7atgGb1JGbFC3OGbuQDYiF) | [Get Up!](https://open.spotify.com/album/10Hq07ay4eXDwaNwwyiMQ2) | 2:53 |
 
-Snapshot ID: `MCxkYTI5MjA2ZTBjOTA5OWI1ZmM0MzVjZWJjZjExYzRiMWJhZTUwNmIz`
+Snapshot ID: `MCwxYWYyMDMyMjcwYTMxYTIwMzI2ZTZhYmNkNjNmZTM4MzVlMTYyNjQ1`

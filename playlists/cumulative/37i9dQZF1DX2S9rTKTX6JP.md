@@ -4,7 +4,7 @@
 
 > The very best rock covers\. Cover: Dolly Parton
 
-323 songs - 20 hr 49 min
+324 songs - 20 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,7 @@
 | [Only Happy When It Rains](https://open.spotify.com/track/6PQsEmqXl81ULIZcuk8VoO) | [Sam Tinnesz](https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp), [Holy Wars](https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4) | [The Influence EP](https://open.spotify.com/album/79IXJNggITVEGL4W4LEXw1) | 2:44 | 2022-03-25 | 2022-04-19 |
 | [Our House](https://open.spotify.com/track/1rkGytnje8oF8Ek13ZodT5) | [American Hi\-Fi](https://open.spotify.com/artist/4XlcLj6bxCnpBIOHmBpIWP) | [Our House](https://open.spotify.com/album/1o0W44e3TLSSkyFI55Wi2Z) | 3:32 | 2020-12-16 | 2022-07-29 |
 | [Patience](https://open.spotify.com/track/7n3u7RrzdXGVcclBEp9aSa) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Patience](https://open.spotify.com/album/6EEv3516e4dH7sAPPUq9oo) | 4:13 | 2020-12-16 |  |
-| [People Are Strange](https://open.spotify.com/track/3PX33J7MsHibdN9kmubVTk) | [The Violent](https://open.spotify.com/artist/5NokRbYYfqacBmRVBRj0wD) | [The Violent](https://open.spotify.com/album/0mQNxURcyah31JJNXMA86S) | 2:27 | 2022-10-26 |  |
+| [People Are Strange](https://open.spotify.com/track/3PX33J7MsHibdN9kmubVTk) | [The Violent](https://open.spotify.com/artist/5NokRbYYfqacBmRVBRj0wD) | [The Violent](https://open.spotify.com/album/0mQNxURcyah31JJNXMA86S) | 2:27 | 2022-10-26 | 2023-11-25 |
 | [People Are Strange](https://open.spotify.com/track/7GoOq1xY12PehqOfUryNWU) | [The Violent](https://open.spotify.com/artist/5NokRbYYfqacBmRVBRj0wD) | [The Violent](https://open.spotify.com/album/5hrWPFVNiTbMqrv6rdvVap) | 2:27 | 2022-03-22 | 2022-10-14 |
 | [Personal Jesus](https://open.spotify.com/track/5dcwiQFqn0mTcWewYIv7MV) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 3:19 | 2020-12-16 |  |
 | [Personal Jesus \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/0KXYrQAqpAREiCi4pB5fO9) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Spotify Singles](https://open.spotify.com/album/31LKYg7MAykCp1E7DSRox6) | 3:56 | 2020-12-16 |  |
@@ -277,6 +277,7 @@
 | [The Chain](https://open.spotify.com/track/5s5c2hMadLfWU51ARzHaFD) | [Toothgrinder](https://open.spotify.com/artist/03YfzFNcD7l9uskxK7WaPP) | [The Chain](https://open.spotify.com/album/4oMBxV4LDUVMZVAzC62BDu) | 4:35 | 2020-12-16 | 2022-11-26 |
 | [The Chain](https://open.spotify.com/track/6Y3AzfzJP4NswhfLOpd8aY) | [Toothgrinder](https://open.spotify.com/artist/03YfzFNcD7l9uskxK7WaPP) | [The Chain](https://open.spotify.com/album/6isNHMQ20tEx8dJ7CUAiAT) | 4:35 | 2023-11-17 |  |
 | [The Chain \(From "Gears 5"\)](https://open.spotify.com/track/1UhzEMXJx2OjdvzBdLXfut) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Chain \(From "Gears 5"\)](https://open.spotify.com/album/1QgqZD9a32WpKpVQjmfCZO) | 4:12 | 2022-10-26 | 2022-11-13 |
+| [The Chain \(from Gears 5\)](https://open.spotify.com/track/1Wnh6j4MzTyYIjDH1NmGIT) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Chain \(from Gears 5\)](https://open.spotify.com/album/0oP07JNydHXvXKegHE675I) | 4:12 | 2023-11-17 |  |
 | [The Chain \- Cover](https://open.spotify.com/track/24Z6f7iN56nFDY4VYylcMm) | [New Dialogue](https://open.spotify.com/artist/1LrZbHRZ3WMonnXy9NU3Vj) | [The Chain \(Cover\)](https://open.spotify.com/album/5PsbxRJmAQVLQfcRRd0PLg) | 3:03 | 2022-03-25 | 2022-04-21 |
 | [The Day I Tried To Live](https://open.spotify.com/track/0xvvmc0Akzpd1C8CAI21f9) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [The Day I Tried To Live](https://open.spotify.com/album/3oXmosWd6LEHUbek4WvKl2) | 4:55 | 2020-12-16 | 2022-07-29 |
 | [The Hand That Feeds](https://open.spotify.com/track/4BgPztdHQ15vB5Ri8ANfRq) | [MONOWHALES](https://open.spotify.com/artist/6Ok8AIUj7YYGC981xWCbgQ) | [The Hand That Feeds](https://open.spotify.com/album/1bgHW8a8OZS0PPn3ENnXkh) | 3:25 | 2022-03-25 | 2022-05-28 |

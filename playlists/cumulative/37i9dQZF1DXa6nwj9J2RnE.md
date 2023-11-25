@@ -2,9 +2,9 @@
 
 ### [karakter.](https://open.spotify.com/playlist/37i9dQZF1DXa6nwj9J2RnE)
 
-> edgy muziek met een rand uit eigen land\. cover: NAVARONE COLE
+> edgy muziek met een rand uit eigen land\. cover: Naaz
 
-110 songs - 6 hr 6 min
+112 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Ik Kijk Soms Naar Jou](https://open.spotify.com/track/7jBqqJNT5aOCkuyvrd7scH) | [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Ik Kijk Soms Naar Jou](https://open.spotify.com/album/3GjyYmdr4NyQStCXM3iyWx) | 3:02 | 2023-11-01 |  |
 | [Imaginary Friend](https://open.spotify.com/track/7f7GnNw5gENI7Rpq45Ft5R) | [Mickie](https://open.spotify.com/artist/1fhrWRji66FUx7jES5tMJX) | [First Boy In Space](https://open.spotify.com/album/3DhyZK51vn05p2kAfjzIDF) | 3:40 | 2023-02-23 | 2023-05-26 |
 | [In Between](https://open.spotify.com/track/4eckDYgci1yENJ2uQHce4k) | [Sheila and The Kit](https://open.spotify.com/artist/3EYBjavx2VfeoBhQjwMz74) | [In Between](https://open.spotify.com/album/7qB5fb3CM75F2SEtVNriYT) | 3:47 | 2023-02-23 | 2023-06-09 |
+| [In Mijn Ritme](https://open.spotify.com/track/4NypvDwmgKjZ9UYFQ7mxIW) | [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [In Mijn Ritme](https://open.spotify.com/album/53zn3XqI41ya1dosLPr2Ky) | 3:20 | 2023-11-23 |  |
 | [IN THE HILLS//IN DE WEIDE](https://open.spotify.com/track/3JjcRAnlWFHCXR0zrV7gE5) | [Ray Fuego](https://open.spotify.com/artist/3UYgneqZCePK5PhrHE8E9U) | [IN THE HILLS//IN DE WEIDE](https://open.spotify.com/album/5pGOZmnzL3j5Y5cKoDk0u3) | 2:37 | 2023-08-31 |  |
 | [Into Your Head](https://open.spotify.com/track/5VY9wxhKgJJula88AQVOei) | [Noha Saré](https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7) | [Into Your Head](https://open.spotify.com/album/2mhAyi89acxMmBxj8hdWj4) | 2:52 | 2023-02-23 |  |
 | [just killing \(time\)](https://open.spotify.com/track/0yiXlHnykTqp7srRhFPYQ3) | [Socks;SportsSocks](https://open.spotify.com/artist/5iofxr31yEqGuxH0OIrAEq) | [just killing \(time\)](https://open.spotify.com/album/1dVLxrIx7iT4Vx1cLK9ZKA) | 4:00 | 2023-02-23 | 2023-03-18 |
@@ -100,6 +101,7 @@
 | [The Observer](https://open.spotify.com/track/6f6qL5EOxhStjbxy4mSbfQ) | [Leah Rye](https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn) | [The Observer](https://open.spotify.com/album/0F4ukdM899G7C49k0SBWL2) | 4:43 | 2023-06-08 |  |
 | [Time for Love](https://open.spotify.com/track/4wCYpfVP2qRSYB4OO5q8FC) | [Kafka](https://open.spotify.com/artist/4jDwckX5APMXI8oCH60Jqa), [WAZGOGG](https://open.spotify.com/artist/7FsxjSM1Naj6x4BYp7cXm5) | [Time for Love](https://open.spotify.com/album/5la69AsSpd40RNEmgojJ3p) | 3:41 | 2023-05-09 |  |
 | [Unknown Emotions](https://open.spotify.com/track/0txBNrcVUh5KwUDntM4Jb3) | [Sophie van Hasselt](https://open.spotify.com/artist/3r68N4ZRD3j8AfGrGvhMVm) | [Eat My Brain](https://open.spotify.com/album/6nnhnOsILg9HXlSKUK5RSG) | 2:12 | 2023-02-23 | 2023-08-22 |
+| [UPROOT](https://open.spotify.com/track/757h2XNOmakab55xqMFDRc) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [UPROOT](https://open.spotify.com/album/3PFdGibdmouG6DD5BiYn7l) | 3:13 | 2023-11-23 |  |
 | [Vallen](https://open.spotify.com/track/41eqyX8AkVLck2y8WE3y5j) | [Emilia Mabel](https://open.spotify.com/artist/5ui9cV71wlarlXk0uKYWVV) | [Vallen](https://open.spotify.com/album/5yjHp3FxUjwGgb6MWQHDFW) | 3:02 | 2023-02-23 | 2023-06-09 |
 | [Vanavond](https://open.spotify.com/track/5bNXaDNh0p6qQk1CWs9tVO) | [Gianski](https://open.spotify.com/artist/1tC6NRB6c1mVgV4xrqrOgy) | [Vanavond](https://open.spotify.com/album/5PpFQHdoDf04BYHH29Rtwy) | 2:34 | 2023-02-23 |  |
 | [VERFBOMMENVERF](https://open.spotify.com/track/5a8XU0IawHs3qtkET6LiK0) | [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ) | [VERFBOMMENVERF](https://open.spotify.com/album/7aKZV7ORfgsplHnJfchgTf) | 2:30 | 2023-05-25 |  |

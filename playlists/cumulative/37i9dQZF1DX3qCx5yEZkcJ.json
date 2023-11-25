@@ -637,6 +637,24 @@
     },
     {
       "album": {
+        "name": "The Art of Chilling, Vol. 2",
+        "url": "https://open.spotify.com/album/5fQUFkVsUUBoLPTc2j9mlp"
+      },
+      "artists": [
+        {
+          "name": "The BREED",
+          "url": "https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156359,
+      "name": "Best Regards",
+      "url": "https://open.spotify.com/track/5jJWPAn20sxi5UiHBLWEai"
+    },
+    {
+      "album": {
         "name": "BIG BLUE",
         "url": "https://open.spotify.com/album/5N20fAevDwj4glrtlKdCzl"
       },
@@ -1338,7 +1356,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 155454,
       "name": "chill oil",
       "url": "https://open.spotify.com/track/3zitR68UQPvSJXhj0VhVKB"
@@ -5134,10 +5152,28 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 132187,
       "name": "Love Vibe and Learn",
       "url": "https://open.spotify.com/track/13ErCwuebmVrM0kEyiTmoG"
+    },
+    {
+      "album": {
+        "name": "Noflik - Love Vibe and Learn",
+        "url": "https://open.spotify.com/album/2ZJ7gLKBBlKmL0kgTWmPj3"
+      },
+      "artists": [
+        {
+          "name": "Noflik",
+          "url": "https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132187,
+      "name": "Love Vibe and Learn",
+      "url": "https://open.spotify.com/track/5TdBSyit6udNnTqJhbgiFT"
     },
     {
       "album": {

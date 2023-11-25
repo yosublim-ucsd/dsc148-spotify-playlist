@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Isadora Pompeo",
+  "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Isaias Saad",
   "name": "Louvor & Adora\u00e7\u00e3o",
   "tracks": [
     {
@@ -46,6 +46,24 @@
       "duration_ms": 427365,
       "name": "A B\u00ean\u00e7\u00e3o (The Blessing) (feat. Lukas Agustinho)",
       "url": "https://open.spotify.com/track/2ei5FBkatI52VChwfJjRPC"
+    },
+    {
+      "album": {
+        "name": "A Nuvem",
+        "url": "https://open.spotify.com/album/5QgKrMFMiB8GIXi3D8GN6d"
+      },
+      "artists": [
+        {
+          "name": "Marquinhos Gomes",
+          "url": "https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "A Nuvem",
+      "url": "https://open.spotify.com/track/1PBMPxk5xDzRf6H3GRQS4C"
     },
     {
       "album": {
@@ -1416,7 +1434,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 319283,
       "name": "Esse Vento Vai Passar - Studio Session",
       "url": "https://open.spotify.com/track/5K5zTAn7Sf5UNmuIZ7e6Db"
@@ -2764,7 +2782,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 245376,
       "name": "O Melhor Pra Ti (Ao Vivo)",
       "url": "https://open.spotify.com/track/2lTQLOsw92uCoVVG5knixC"
@@ -3069,6 +3087,28 @@
     },
     {
       "album": {
+        "name": "Pra Sempre YHWH",
+        "url": "https://open.spotify.com/album/7FrnuDNVM4ME4NzotXKxlO"
+      },
+      "artists": [
+        {
+          "name": "Julliany Souza",
+          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453667,
+      "name": "Pra Sempre YHWH",
+      "url": "https://open.spotify.com/track/3WT5NnA09K10tgY7O17RF4"
+    },
+    {
+      "album": {
         "name": "Ton Canta, Vol. 2",
         "url": "https://open.spotify.com/album/6CuBKE2wSnkXV8FVyRql8X"
       },
@@ -3164,6 +3204,24 @@
       "duration_ms": 313141,
       "name": "Quebro Meu Vaso",
       "url": "https://open.spotify.com/track/6g88LTq36Dhe7Dgl3mRph3"
+    },
+    {
+      "album": {
+        "name": "Quem Te Guarda \u00c9 Deus",
+        "url": "https://open.spotify.com/album/4vZcPGoLtOAbsvANPIdt5h"
+      },
+      "artists": [
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "Quem Te Guarda \u00c9 Deus",
+      "url": "https://open.spotify.com/track/2jK5rOxNUXibAJrHaFVDak"
     },
     {
       "album": {
@@ -3440,7 +3498,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 487277,
       "name": "Santo pra Sempre - Ao Vivo",
       "url": "https://open.spotify.com/track/2jCAyhO8rDrechp8ekD9TT"
@@ -3949,6 +4007,28 @@
     },
     {
       "album": {
+        "name": "Tu \u00c9s Bom (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6yy47v6dJuqMp4Susk8IDt"
+      },
+      "artists": [
+        {
+          "name": "Preto no Branco",
+          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
+        },
+        {
+          "name": "Lorena Fadi",
+          "url": "https://open.spotify.com/artist/22ar4P0skJmstiB0GPJ3TT"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240819,
+      "name": "Tu \u00c9s Bom - Ao Vivo",
+      "url": "https://open.spotify.com/track/2xMLSMWYSqMVIRWA3eATmn"
+    },
+    {
+      "album": {
         "name": "Tu \u00e9s Fiel Senhor / Sou Feliz / Meu Tributo (Ao Vivo)",
         "url": "https://open.spotify.com/album/0372gytPSbw0SKdWnHU11P"
       },
@@ -4168,7 +4248,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 280841,
       "name": "Viva O Hoje - Ao Vivo",
       "url": "https://open.spotify.com/track/7BTzNVACbAuAruiEbdRDrW"
@@ -4424,7 +4504,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 243409,
       "name": "Yeshua - Ao Vivo",
       "url": "https://open.spotify.com/track/337boaYUw9T4DArIIASGT9"
@@ -4504,6 +4584,24 @@
       "duration_ms": 372173,
       "name": "\u00c9 Tudo Sobre Voc\u00ea - Ao Vivo",
       "url": "https://open.spotify.com/track/7HMdbgEuBQHTcitMmhfmB9"
+    },
+    {
+      "album": {
+        "name": "Bondade e Fidelidade (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5j0f8bR03wez6tjrHpiKUN"
+      },
+      "artists": [
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 478933,
+      "name": "\u00c9s Fiel - Ao Vivo",
+      "url": "https://open.spotify.com/track/4m0Nt1EV6rAKTkWCylIzO9"
     },
     {
       "album": {

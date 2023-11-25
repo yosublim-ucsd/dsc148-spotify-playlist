@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Os grandes artistas da MPB. Foto: Djavan",
+  "description": "Os grandes artistas da MPB. Foto: Chico Buarque",
   "name": "O Melhor da MPB",
   "tracks": [
     {
@@ -1502,7 +1502,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 570563,
       "name": "Mama \u00c1frica / Brilho de Beleza / Pra N\u00e3o Dizer Que N\u00e3o Falei das Flores - Ao Vivo | B\u00f4nus Track",
       "url": "https://open.spotify.com/track/56QI0cHMqOQRBw4jbNFGZD"
@@ -2350,6 +2350,24 @@
       "duration_ms": 182160,
       "name": "Samba da B\u00ean\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/2moGHNaU8a4j1iowyOiYnF"
+    },
+    {
+      "album": {
+        "name": "Que Tal Um Samba? (Ao Vivo)",
+        "url": "https://open.spotify.com/album/38cyb88pRnyy49dDSuETpO"
+      },
+      "artists": [
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170448,
+      "name": "Samba do Grande Amor",
+      "url": "https://open.spotify.com/track/4tj4BdoordmiTZJcyTjimT"
     },
     {
       "album": {

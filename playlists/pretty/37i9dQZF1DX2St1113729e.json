@@ -1,12 +1,12 @@
 {
   "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. Fran Laoren",
-  "num_followers": 123515,
+  "num_followers": 123528,
   "original_name": "helium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYmQ4ZTE0NmZkNTMzOTUwNzM5M2JkYzA1YWY4ZDgwZjFmZTAyZjA1",
+  "snapshot_id": "MCwwZjQxZGRlYTk3Zjk4MWFiMGI1MmQwOWFjNGU1OGRiNGI3MDUzODNm",
   "tracks": [
     {
       "added_at": "2023-11-16 22:59:00",
@@ -859,26 +859,6 @@
     {
       "added_at": "2023-11-16 22:59:00",
       "album": {
-        "name": "GRIS",
-        "url": "https://open.spotify.com/album/2qnDfIFPrpJcOxrfuNXqAr"
-      },
-      "artists": [
-        {
-          "name": "LoLo",
-          "url": "https://open.spotify.com/artist/04gHmjV4hmiIrT3PHXlTbZ"
-        },
-        {
-          "name": "Bardo",
-          "url": "https://open.spotify.com/artist/344GueD4a3lOx05pX5I6n6"
-        }
-      ],
-      "duration_ms": 125991,
-      "name": "GRIS",
-      "url": "https://open.spotify.com/track/1Uhtp4LoA7qxapCAimRaOz"
-    },
-    {
-      "added_at": "2023-11-16 22:59:00",
-      "album": {
         "name": "tamagotchi (Remix)",
         "url": "https://open.spotify.com/album/6BkSsALt3g81OmJ4PzGIRb"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 145615,
       "name": "tamagotchi - Remix",
       "url": "https://open.spotify.com/track/2ZWwHCcNlejOAYFMQFiF7f"
+    },
+    {
+      "added_at": "2023-11-16 22:59:00",
+      "album": {
+        "name": "GRIS",
+        "url": "https://open.spotify.com/album/2qnDfIFPrpJcOxrfuNXqAr"
+      },
+      "artists": [
+        {
+          "name": "LoLo",
+          "url": "https://open.spotify.com/artist/04gHmjV4hmiIrT3PHXlTbZ"
+        },
+        {
+          "name": "Bardo",
+          "url": "https://open.spotify.com/artist/344GueD4a3lOx05pX5I6n6"
+        }
+      ],
+      "duration_ms": 125991,
+      "name": "GRIS",
+      "url": "https://open.spotify.com/track/1Uhtp4LoA7qxapCAimRaOz"
     },
     {
       "added_at": "2023-11-16 22:59:00",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2023-11-16 22:59:00",
       "album": {
+        "name": "suave",
+        "url": "https://open.spotify.com/album/3AaFB3c8RAVfu0Y6vTXTvv"
+      },
+      "artists": [
+        {
+          "name": "Nina Emocional",
+          "url": "https://open.spotify.com/artist/6Dqvme3Uru6IJaryxBgknz"
+        }
+      ],
+      "duration_ms": 146526,
+      "name": "suave",
+      "url": "https://open.spotify.com/track/4cwcXuBuI2K9b3xtv3Reis"
+    },
+    {
+      "added_at": "2023-11-16 22:59:00",
+      "album": {
         "name": "MEJORES QUE AYER",
         "url": "https://open.spotify.com/album/7sgKcp5deTKBal1SRqTtRX"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 170269,
       "name": "MEJORES QUE AYER",
       "url": "https://open.spotify.com/track/3fcUglHHrcdv25dXNyTHWc"
-    },
-    {
-      "added_at": "2023-11-16 22:59:00",
-      "album": {
-        "name": "suave",
-        "url": "https://open.spotify.com/album/3AaFB3c8RAVfu0Y6vTXTvv"
-      },
-      "artists": [
-        {
-          "name": "Nina Emocional",
-          "url": "https://open.spotify.com/artist/6Dqvme3Uru6IJaryxBgknz"
-        }
-      ],
-      "duration_ms": 146526,
-      "name": "suave",
-      "url": "https://open.spotify.com/track/4cwcXuBuI2K9b3xtv3Reis"
     },
     {
       "added_at": "2023-11-16 22:59:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-11-16 22:59:00",
       "album": {
-        "name": "OJITOS ROJOS",
-        "url": "https://open.spotify.com/album/38An6jNp5N2fbq5yPj1bcu"
-      },
-      "artists": [
-        {
-          "name": "BAJOCERO X",
-          "url": "https://open.spotify.com/artist/0zry48rNmbs7Qd3gM4YkEq"
-        }
-      ],
-      "duration_ms": 139715,
-      "name": "OJITOS ROJOS",
-      "url": "https://open.spotify.com/track/58xcliQlKIyd2pZsMFWzSX"
-    },
-    {
-      "added_at": "2023-11-16 22:59:00",
-      "album": {
         "name": "LA ESKINA DEL ESTANKE",
         "url": "https://open.spotify.com/album/2VukIjOu9AXoe66SxCFJTF"
       },
@@ -1111,18 +1095,18 @@
     {
       "added_at": "2023-11-16 22:59:00",
       "album": {
-        "name": "Psicomaniatico",
-        "url": "https://open.spotify.com/album/6ajDjodbTeLPz06fT5m2yr"
+        "name": "OJITOS ROJOS",
+        "url": "https://open.spotify.com/album/38An6jNp5N2fbq5yPj1bcu"
       },
       "artists": [
         {
-          "name": "MYKKA",
-          "url": "https://open.spotify.com/artist/7qUmZzfGAo66NPgOEx0MWa"
+          "name": "BAJOCERO X",
+          "url": "https://open.spotify.com/artist/0zry48rNmbs7Qd3gM4YkEq"
         }
       ],
-      "duration_ms": 137865,
-      "name": "Psicomaniatico",
-      "url": "https://open.spotify.com/track/7IcdOMAiDvntNktQzLyv6M"
+      "duration_ms": 139715,
+      "name": "OJITOS ROJOS",
+      "url": "https://open.spotify.com/track/58xcliQlKIyd2pZsMFWzSX"
     },
     {
       "added_at": "2023-11-16 22:59:00",
@@ -1139,6 +1123,22 @@
       "duration_ms": 137572,
       "name": "Gand\u00eda Shore",
       "url": "https://open.spotify.com/track/23n3Xpz5J9dhaWmyZt9V5L"
+    },
+    {
+      "added_at": "2023-11-16 22:59:00",
+      "album": {
+        "name": "Psicomaniatico",
+        "url": "https://open.spotify.com/album/6ajDjodbTeLPz06fT5m2yr"
+      },
+      "artists": [
+        {
+          "name": "MYKKA",
+          "url": "https://open.spotify.com/artist/7qUmZzfGAo66NPgOEx0MWa"
+        }
+      ],
+      "duration_ms": 137865,
+      "name": "Psicomaniatico",
+      "url": "https://open.spotify.com/track/7IcdOMAiDvntNktQzLyv6M"
     },
     {
       "added_at": "2023-11-16 22:59:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-11-16 22:59:00",
       "album": {
-        "name": "Cu\u00e1ntas Veces",
-        "url": "https://open.spotify.com/album/7igQKVqM29rwzZYHoV267G"
-      },
-      "artists": [
-        {
-          "name": "Nova Caeli",
-          "url": "https://open.spotify.com/artist/6RgIDy1x1vhGst77P2Wuts"
-        }
-      ],
-      "duration_ms": 161828,
-      "name": "Cu\u00e1ntas Veces",
-      "url": "https://open.spotify.com/track/7xqVmgYINjUmLktnTxQqFY"
-    },
-    {
-      "added_at": "2023-11-16 22:59:00",
-      "album": {
         "name": "oniria",
         "url": "https://open.spotify.com/album/1Btj0VH3tWjhuIMilXh4qJ"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 164442,
       "name": "hechizo final",
       "url": "https://open.spotify.com/track/3EvVrRxevFUiuS4ZX1pK7p"
+    },
+    {
+      "added_at": "2023-11-16 22:59:00",
+      "album": {
+        "name": "Cu\u00e1ntas Veces",
+        "url": "https://open.spotify.com/album/7igQKVqM29rwzZYHoV267G"
+      },
+      "artists": [
+        {
+          "name": "Nova Caeli",
+          "url": "https://open.spotify.com/artist/6RgIDy1x1vhGst77P2Wuts"
+        }
+      ],
+      "duration_ms": 161828,
+      "name": "Cu\u00e1ntas Veces",
+      "url": "https://open.spotify.com/track/7xqVmgYINjUmLktnTxQqFY"
     },
     {
       "added_at": "2023-11-16 22:59:00",
@@ -1699,18 +1699,22 @@
     {
       "added_at": "2023-11-16 22:59:00",
       "album": {
-        "name": "El Terror Solo Es Amor",
-        "url": "https://open.spotify.com/album/7tnWwDwWDTg1SdPJPIjmbe"
+        "name": "b\u00e1goas de cocodrilo (Galician Army) [Remix]",
+        "url": "https://open.spotify.com/album/6ShoJ2YTxOT0mYEVK77MwN"
       },
       "artists": [
         {
-          "name": "MU\u00d1EKI77A",
-          "url": "https://open.spotify.com/artist/4vPj1iAE8l3VAQNenIOGt8"
+          "name": "Berto",
+          "url": "https://open.spotify.com/artist/7AKh8HXKj8nJqm8xUcJJAy"
+        },
+        {
+          "name": "Galician Army",
+          "url": "https://open.spotify.com/artist/1uryf2kVKqQP54Kb9EsN2x"
         }
       ],
-      "duration_ms": 155912,
-      "name": "Dementores",
-      "url": "https://open.spotify.com/track/1Jwykvx2g4P2gSHUxho7bp"
+      "duration_ms": 277500,
+      "name": "b\u00e1goas de cocodrilo (Galician Army) - Remix",
+      "url": "https://open.spotify.com/track/5gll3DVfSHPwso3oH0Ummw"
     },
     {
       "added_at": "2023-11-16 22:59:00",
@@ -1735,26 +1739,6 @@
     {
       "added_at": "2023-11-16 22:59:00",
       "album": {
-        "name": "b\u00e1goas de cocodrilo (Galician Army) [Remix]",
-        "url": "https://open.spotify.com/album/6ShoJ2YTxOT0mYEVK77MwN"
-      },
-      "artists": [
-        {
-          "name": "Berto",
-          "url": "https://open.spotify.com/artist/7AKh8HXKj8nJqm8xUcJJAy"
-        },
-        {
-          "name": "Galician Army",
-          "url": "https://open.spotify.com/artist/1uryf2kVKqQP54Kb9EsN2x"
-        }
-      ],
-      "duration_ms": 277500,
-      "name": "b\u00e1goas de cocodrilo (Galician Army) - Remix",
-      "url": "https://open.spotify.com/track/5gll3DVfSHPwso3oH0Ummw"
-    },
-    {
-      "added_at": "2023-11-16 22:59:00",
-      "album": {
         "name": "2035",
         "url": "https://open.spotify.com/album/7xcHmGc4ctuRjSQn54hZst"
       },
@@ -1771,6 +1755,42 @@
       "duration_ms": 112428,
       "name": "2035",
       "url": "https://open.spotify.com/track/3nbCRULrZIFo4prDNzOZ75"
+    },
+    {
+      "added_at": "2023-11-16 22:59:00",
+      "album": {
+        "name": "El Terror Solo Es Amor",
+        "url": "https://open.spotify.com/album/7tnWwDwWDTg1SdPJPIjmbe"
+      },
+      "artists": [
+        {
+          "name": "MU\u00d1EKI77A",
+          "url": "https://open.spotify.com/artist/4vPj1iAE8l3VAQNenIOGt8"
+        }
+      ],
+      "duration_ms": 155912,
+      "name": "Dementores",
+      "url": "https://open.spotify.com/track/1Jwykvx2g4P2gSHUxho7bp"
+    },
+    {
+      "added_at": "2023-11-16 22:59:00",
+      "album": {
+        "name": "PINTEREST CRUSH",
+        "url": "https://open.spotify.com/album/2Jap1w2j0RoVoEsPiB3bDb"
+      },
+      "artists": [
+        {
+          "name": "pobre lucca",
+          "url": "https://open.spotify.com/artist/4JbQJha6cddW2i4dyS7UkA"
+        },
+        {
+          "name": "Talla",
+          "url": "https://open.spotify.com/artist/0xt6sVefZnVDysMgz4RzHI"
+        }
+      ],
+      "duration_ms": 154298,
+      "name": "PINTEREST CRUSH",
+      "url": "https://open.spotify.com/track/10kdBtdf7g4SYGCTvc7pKq"
     },
     {
       "added_at": "2023-11-16 22:59:00",
@@ -1795,26 +1815,6 @@
       "duration_ms": 120000,
       "name": "LUN\u00c1TICO",
       "url": "https://open.spotify.com/track/0NEPa7pOruKTGKY5d34spg"
-    },
-    {
-      "added_at": "2023-11-16 22:59:00",
-      "album": {
-        "name": "PINTEREST CRUSH",
-        "url": "https://open.spotify.com/album/2Jap1w2j0RoVoEsPiB3bDb"
-      },
-      "artists": [
-        {
-          "name": "pobre lucca",
-          "url": "https://open.spotify.com/artist/4JbQJha6cddW2i4dyS7UkA"
-        },
-        {
-          "name": "Talla",
-          "url": "https://open.spotify.com/artist/0xt6sVefZnVDysMgz4RzHI"
-        }
-      ],
-      "duration_ms": 154298,
-      "name": "PINTEREST CRUSH",
-      "url": "https://open.spotify.com/track/10kdBtdf7g4SYGCTvc7pKq"
     },
     {
       "added_at": "2023-11-16 22:59:00",
@@ -1907,42 +1907,18 @@
     {
       "added_at": "2023-11-16 22:59:00",
       "album": {
-        "name": "TikTok",
-        "url": "https://open.spotify.com/album/35hGzz3bFwNrnqfPuYTDWu"
+        "name": "tamagotchi",
+        "url": "https://open.spotify.com/album/5tBPoDajcUY3wf4pnBJfMV"
       },
       "artists": [
         {
-          "name": "Ure",
-          "url": "https://open.spotify.com/artist/0zdYNVXKtTexSAyDN5Wlz3"
-        },
-        {
-          "name": "Autotune Angel",
-          "url": "https://open.spotify.com/artist/51QnHDUuSZ6xZWeCIxtoyT"
+          "name": "Lil Zhark",
+          "url": "https://open.spotify.com/artist/3FI7NS91eeSjBP3V0znDuB"
         }
       ],
-      "duration_ms": 128003,
-      "name": "TikTok",
-      "url": "https://open.spotify.com/track/6KkDeZ5espFoLmhKuaJkwh"
-    },
-    {
-      "added_at": "2023-11-16 22:59:00",
-      "album": {
-        "name": "Club Mood",
-        "url": "https://open.spotify.com/album/7A4AwFyMY3PC53Sd5zSmXE"
-      },
-      "artists": [
-        {
-          "name": "Lazykidd",
-          "url": "https://open.spotify.com/artist/6IvJetdbENjptniI7Gfmdv"
-        },
-        {
-          "name": "Kid$trange",
-          "url": "https://open.spotify.com/artist/6JVlP4bIQtcUrftDS1R2Q0"
-        }
-      ],
-      "duration_ms": 135529,
-      "name": "Club Mood",
-      "url": "https://open.spotify.com/track/6EQ1GmJL0ITzztn1Nl22vP"
+      "duration_ms": 105100,
+      "name": "tamagotchi",
+      "url": "https://open.spotify.com/track/72QyKS10NvfMYszzFMYWzj"
     },
     {
       "added_at": "2023-11-16 22:59:00",
@@ -1971,18 +1947,42 @@
     {
       "added_at": "2023-11-16 22:59:00",
       "album": {
-        "name": "tamagotchi",
-        "url": "https://open.spotify.com/album/5tBPoDajcUY3wf4pnBJfMV"
+        "name": "Club Mood",
+        "url": "https://open.spotify.com/album/7A4AwFyMY3PC53Sd5zSmXE"
       },
       "artists": [
         {
-          "name": "Lil Zhark",
-          "url": "https://open.spotify.com/artist/3FI7NS91eeSjBP3V0znDuB"
+          "name": "Lazykidd",
+          "url": "https://open.spotify.com/artist/6IvJetdbENjptniI7Gfmdv"
+        },
+        {
+          "name": "Kid$trange",
+          "url": "https://open.spotify.com/artist/6JVlP4bIQtcUrftDS1R2Q0"
         }
       ],
-      "duration_ms": 105100,
-      "name": "tamagotchi",
-      "url": "https://open.spotify.com/track/72QyKS10NvfMYszzFMYWzj"
+      "duration_ms": 135529,
+      "name": "Club Mood",
+      "url": "https://open.spotify.com/track/6EQ1GmJL0ITzztn1Nl22vP"
+    },
+    {
+      "added_at": "2023-11-16 22:59:00",
+      "album": {
+        "name": "TikTok",
+        "url": "https://open.spotify.com/album/35hGzz3bFwNrnqfPuYTDWu"
+      },
+      "artists": [
+        {
+          "name": "Ure",
+          "url": "https://open.spotify.com/artist/0zdYNVXKtTexSAyDN5Wlz3"
+        },
+        {
+          "name": "Autotune Angel",
+          "url": "https://open.spotify.com/artist/51QnHDUuSZ6xZWeCIxtoyT"
+        }
+      ],
+      "duration_ms": 128003,
+      "name": "TikTok",
+      "url": "https://open.spotify.com/track/6KkDeZ5espFoLmhKuaJkwh"
     }
   ],
   "unique_name": "helium",

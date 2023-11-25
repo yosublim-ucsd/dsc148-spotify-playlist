@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Provinz, ENNIO
 
-456 songs - 22 hr 5 min
+457 songs - 22 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,8 @@
 | [Irgendwo](https://open.spotify.com/track/1yJgf4ImIanoAfQudI60N7) | [Kicker Dibs](https://open.spotify.com/artist/0VVyXeKjpFojiRo57RjbMt), [dery](https://open.spotify.com/artist/1ZxMxowLXzup8y1McJ3JbT) | [Die Pointe](https://open.spotify.com/album/37bJUCwPLErO9HkGNJTJFs) | 2:57 | 2023-09-14 | 2023-10-06 |
 | [Irgendwo im Nirgendwo](https://open.spotify.com/track/2NJFMUUAOFj9V0uvEOzltu) | [Pablu](https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3) | [Irgendwo im Nirgendwo](https://open.spotify.com/album/2uOZo0Rk6iiIJdHaf9RzYS) | 3:09 | 2023-09-14 | 2023-10-20 |
 | [Ist schon ok](https://open.spotify.com/track/2bj4uIB30s0hm9G4d5wo6b) | [Paul Weber](https://open.spotify.com/artist/5Awy5kGk6lVTb5XSSNPRcB) | [Von all dem nichts gewusst](https://open.spotify.com/album/5NQSuJvKv3GHBQYjo3HzBk) | 3:51 | 2023-03-23 | 2023-04-14 |
-| [James Blake](https://open.spotify.com/track/6wjiWdFdfcyZNikqjqb9vu) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [James Blake](https://open.spotify.com/album/5PVKyMewYidIhvFGpiGeNW) | 3:44 | 2023-11-24 |  |
+| [James Blake](https://open.spotify.com/track/2jjmmklmlTnS5WEYrL0MkN) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [James Blake](https://open.spotify.com/album/0jaT6ytnqXaQ0EhElQg9Zn) | 3:44 | 2023-11-24 |  |
+| [James Blake](https://open.spotify.com/track/6wjiWdFdfcyZNikqjqb9vu) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [James Blake](https://open.spotify.com/album/5PVKyMewYidIhvFGpiGeNW) | 3:44 | 2023-11-24 | 2023-11-25 |
 | [Jil Sander Sun](https://open.spotify.com/track/4IlShOKmFooAGyTkGfZ0gX) | [Betterov](https://open.spotify.com/artist/2LTDsDjf02umXildBzlrKZ) | [Jil Sander Sun](https://open.spotify.com/album/6CK3LlfNyo5rmkDIBoRUPg) | 3:27 | 2023-06-08 | 2023-07-21 |
 | [Julia](https://open.spotify.com/track/5gaR66TOk71AnTvjdnKkuR) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Julia](https://open.spotify.com/album/5pmizTJIFtVWJpb1PkKljc) | 2:17 | 2023-02-13 | 2023-05-19 |
 | [June](https://open.spotify.com/track/5MOQEkTya2UEh5N2pHiYf6) | [BECKS](https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57) | [June](https://open.spotify.com/album/2gRsAYk3oBYBJoKFhXflgf) | 2:44 | 2023-06-29 |  |

@@ -4,7 +4,7 @@
 
 > Future & melodic bass\. Cover: Said The Sky, Terry Zhong, CVBZ.
 
-457 songs - 1 day 3 hr 15 min
+458 songs - 1 day 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,6 +266,7 @@
 | [Love Is Blind](https://open.spotify.com/track/6eHdUZDZppaYodOTmnRQOM) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Love Is Blind](https://open.spotify.com/album/423gOrx1KMJG9XxFScREUx) | 3:41 | 2022-07-08 | 2022-08-06 |
 | [Love Is Blind](https://open.spotify.com/track/7JWF6zMQnBlbLUNApXcGip) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Awakening](https://open.spotify.com/album/43waCycGjPG5xy1rH5plSy) | 3:41 | 2022-07-29 | 2023-04-09 |
 | [Love You Enough](https://open.spotify.com/track/5hGhZiwQvYp3OD9Hakq8Fk) | [Amidy](https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV) | [Love You Enough](https://open.spotify.com/album/4lxf1rPXfR9Juy3nK9dnYu) | 3:26 | 2023-01-27 | 2023-06-18 |
+| [low](https://open.spotify.com/track/0MeVLXYXl55nom0wFD2hZm) | [Cadmium](https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy), [Andreas Stone](https://open.spotify.com/artist/4Z63ecu9ZjtVVsIuuOfua3) | [low](https://open.spotify.com/album/6aZcESFNYUK1sBs6Xf6VnS) | 3:52 | 2023-11-17 |  |
 | [Lucky Ones](https://open.spotify.com/track/10G56Sctj9tU3njUO8HtK0) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Leslie Powell](https://open.spotify.com/artist/67tylszKgAZkKeJ0hCMyjU) | [Lucky Ones](https://open.spotify.com/album/3OZBx7xEhKo0ZQuNGBhLiD) | 3:25 | 2022-12-02 |  |
 | [Made For](https://open.spotify.com/track/3wPIAfjNvZqSDdyEU95gxI) | [Hoang](https://open.spotify.com/artist/2KjxvxgJvbwweNVRMSuIRG), [nøll](https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Made For](https://open.spotify.com/album/6YEB4gTyYiACoJsBkYCRiS) | 3:20 | 2023-09-01 |  |
 | [Magic](https://open.spotify.com/track/1PGjHonPC2r4vHCAfwEof5) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [Brother Leo](https://open.spotify.com/artist/4FEOZMbo7XIdGHVrrioAP6) | [Magic](https://open.spotify.com/album/5c4t8rwrNtUpQGewiaoHNa) | 2:58 | 2023-02-10 | 2023-08-12 |
@@ -439,7 +440,7 @@
 | [want u 2 stay](https://open.spotify.com/track/2ss3z79TTuD3YkQAWol9DE) | [Dot](https://open.spotify.com/artist/1A18QbMmejwewRn5hfEFMT), [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu) | [want u 2 stay](https://open.spotify.com/album/4DwQhiao8stnXWX6R9uZfb) | 2:58 | 2022-07-08 | 2023-05-20 |
 | [Wasted Time](https://open.spotify.com/track/4h9AqdgRkK8m7TxjqWWhmX) | [Feather](https://open.spotify.com/artist/0ouPTYWjHfprRwZH76ivWi), [Badnights](https://open.spotify.com/artist/5CiCfM47n3cXeWvxtn5TVd) | [Wasted Time](https://open.spotify.com/album/6vRishxcEmdMeKR7LQ46Rd) | 3:29 | 2022-07-08 | 2022-09-19 |
 | [Wasteland](https://open.spotify.com/track/0NmnFMWMkTETNANGpVVqyc) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5) | [Wasteland](https://open.spotify.com/album/2eRmy99Sn63h90imFr84Be) | 3:03 | 2022-07-08 | 2023-09-16 |
-| [We Fall Down](https://open.spotify.com/track/5He8dKCynZPFzBPG5M5Ajy) | [KEPIK](https://open.spotify.com/artist/43KdGzqdAQatWUdAFGS4Gn), [Shaley Scott](https://open.spotify.com/artist/1dkMJbf84C7saOwz1C7b4v) | [We Fall Down](https://open.spotify.com/album/5NwRnvEi6zKKMs41uX1CMu) | 4:23 | 2022-07-08 |  |
+| [We Fall Down](https://open.spotify.com/track/5He8dKCynZPFzBPG5M5Ajy) | [KEPIK](https://open.spotify.com/artist/43KdGzqdAQatWUdAFGS4Gn), [Shaley Scott](https://open.spotify.com/artist/1dkMJbf84C7saOwz1C7b4v) | [We Fall Down](https://open.spotify.com/album/5NwRnvEi6zKKMs41uX1CMu) | 4:23 | 2022-07-08 | 2023-11-25 |
 | [What If](https://open.spotify.com/track/2Ov2Ifb7w9QxQj7lRIZtj8) | [Kerala](https://open.spotify.com/artist/69WQTuZb5HA8XwqLyRL28N), [Marie Lang](https://open.spotify.com/artist/4h08PzGTaAqN1uAhj4IHFW) | [What If](https://open.spotify.com/album/1KJLNKwhf3IW9Im9i0Ut2Q) | 3:24 | 2022-07-08 | 2022-08-06 |
 | [WHAT THE HELL \- OBLVYN Remix](https://open.spotify.com/track/1FMdcepWuMtbyp7YbvCEjd) | [Johnning](https://open.spotify.com/artist/1yPdXrLhRc50YbwiwCr1uN), [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF) | [WHAT THE HELL \(OBLVYN Remix\)](https://open.spotify.com/album/30WclCTrWqACvzWo9C8tBT) | 2:59 | 2022-08-26 | 2022-11-29 |
 | [When I Fall](https://open.spotify.com/track/1zIzW4i8tD51F4U21uFaHC) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [When I Fall](https://open.spotify.com/album/4Tjmwmy2Q0fJQm2WBjVrKq) | 3:25 | 2022-12-16 |  |

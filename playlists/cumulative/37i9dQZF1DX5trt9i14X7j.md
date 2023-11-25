@@ -4,7 +4,7 @@
 
 > Dedicated to all the programmers out there.
 
-179 songs - 11 hr 9 min
+180 songs - 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Mano](https://open.spotify.com/track/5IE9m0dNaRoVbdYUeRTkSl) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Four](https://open.spotify.com/album/4ykiA59HEv4gwYiDWW4UF0) | 4:12 | 2023-10-17 |  |
 | [Mauer Blues](https://open.spotify.com/track/1NqGRBFJXZKeQDlenJSMbs) | [Federico Albanese](https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL) | [Mauer Blues](https://open.spotify.com/album/2y20fT1DGloMjS6KmLTUE9) | 4:01 | 2021-12-08 | 2022-07-29 |
 | [Mauer Blues](https://open.spotify.com/track/1lLuJ1PTq8wXAorPqHwMOd) | [Federico Albanese](https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL) | [By the Deep Sea](https://open.spotify.com/album/364G2DGbhBt4xwR5KCZC82) | 4:01 | 2022-07-25 |  |
+| [Mercy \- from "The Hunger Games: The Ballad of Songbirds and Snakes" Score](https://open.spotify.com/track/3oMawK9eqpd5Ln59b8tr4E) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Hunger Games: The Ballad of Songbirds and Snakes \(Original Motion Picture Score\)](https://open.spotify.com/album/6L0YVSVuw4BD3UX3fhl8et) | 2:21 | 2023-11-24 |  |
 | [Mil Sonidos](https://open.spotify.com/track/11oVQ68B4PnVQHIY6svpXg) | [Reina del Mar](https://open.spotify.com/artist/2eTD3o9uyy2e71k0hzNjE6) | [Mil Sonidos](https://open.spotify.com/album/3j1WvLoIAxywTPF3VUIgEe) | 3:12 | 2022-05-31 |  |
 | [Mind](https://open.spotify.com/track/77jK2QjSXOGX3eFxT9Opuk) | [chrms](https://open.spotify.com/artist/4ysxE5dwRvjnXcd5IGCZiB), [Sabu](https://open.spotify.com/artist/7x83EC0xUwygcVSbS6Rwou) | [Lover Boy](https://open.spotify.com/album/7d8Lt4YEN9P6DkaT7FwPd1) | 4:04 | 2021-12-08 |  |
 | [Monsters Theme](https://open.spotify.com/track/1ZF7dgpDrpruRFeS2EXlFk) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Monsters \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3dTSBzYUFB1AjAoCTyxIHY) | 4:55 | 2021-12-08 | 2022-07-29 |

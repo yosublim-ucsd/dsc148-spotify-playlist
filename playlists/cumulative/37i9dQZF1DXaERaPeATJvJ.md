@@ -2,9 +2,9 @@
 
 ### [Memorindie](https://open.spotify.com/playlist/37i9dQZF1DXaERaPeATJvJ)
 
-> Nostalgia kancah musik Independen era 90an hingga 2000an\. Cover: Goodnight Electric
+> Thank you for the music, Barefood \(2009\-2023\)
 
-122 songs - 8 hr 20 min
+127 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Before Circus Over](https://open.spotify.com/track/6zMoDgj2JvpUiT7KtGK2HJ) | [Bottlesmoker](https://open.spotify.com/artist/16MalIQgGrZWovgflIVr0I) | [Slow Mo Smile](https://open.spotify.com/album/7ailqk7fkSCCwVuiuRlWyh) | 4:56 | 2022-08-04 | 2023-05-27 |
 | [Berlayar](https://open.spotify.com/track/2vGdIDuFo0EKPxywKCyWpu) | [BANDEMPO](https://open.spotify.com/artist/0JKGXfROquGhxuydA0tvOx) | [Bandempo 20th Anniversary](https://open.spotify.com/album/2XO48VaowaWFOvY48Sia4y) | 3:01 | 2021-11-25 |  |
 | [Biara](https://open.spotify.com/track/2G38QfmlWGmAnMISsx6EeV) | [Sieve](https://open.spotify.com/artist/6UtGpQD2GgpZBkU3WlqcJB) | [Biara](https://open.spotify.com/album/3v1Q7EALIjc7mB1PRVfDTQ) | 2:27 | 2021-11-25 |  |
+| [Biru](https://open.spotify.com/track/3YQMGuD8YeCFbqoPOzqQgq) | [Barefood](https://open.spotify.com/artist/6UZs7JW1FeeIoYIBAUsLfM) | [Milkbox](https://open.spotify.com/album/0sw7BNUNlQBHNR5TrJbGwe) | 7:42 | 2023-11-24 |  |
 | [Cermin](https://open.spotify.com/track/3QqEFHU2gPzV0nq277y9fK) | [WONDERGEL](https://open.spotify.com/artist/7kqRQuWrQEUJECtxamxmr3) | [Wondergel](https://open.spotify.com/album/0ljj3xlOQw965rlOFF5xnJ) | 4:21 | 2022-04-14 |  |
 | [Confession, Pt\. 2](https://open.spotify.com/track/1KJDoezH79kJuyYIjOaD4J) | [Media Distorsi](https://open.spotify.com/artist/0lPD0oAckOuHRAq9CsxqEz), [Maria Claudine](https://open.spotify.com/artist/2dQVm4j9XcZF1ZbCGT55mF) | [Chapter 01: The Beginning](https://open.spotify.com/album/34GK92dwjZYXYPza1Uettt) | 5:56 | 2021-11-25 |  |
 | [Detektif Flamboyan](https://open.spotify.com/track/6LxII7H3DAC6Of4XaP7AdA) | [C'mon Lennon](https://open.spotify.com/artist/1RDrenzYUkREj4MDKQmdnP) | [Ketika La La La](https://open.spotify.com/album/1heP6tMSv3osMfEx4btHFd) | 4:03 | 2022-05-12 |  |
@@ -39,6 +40,7 @@
 | [Funny Little Dream](https://open.spotify.com/track/6c9Migc6BSfWp1pMIr7DuM) | [Funny Little Dream](https://open.spotify.com/artist/40L6hP5vs4ZXKmfU80mBaJ) | [Funny Little Dream](https://open.spotify.com/album/29AM4873XavAXXXvr446D0) | 3:10 | 2022-07-30 | 2023-03-26 |
 | [Hanya Kau](https://open.spotify.com/track/3UfR1fCPSLK4AXyl5QtKqN) | [The Adams](https://open.spotify.com/artist/0zuIBB0gRxp4i4E2gvrcoM) | [V2.05](https://open.spotify.com/album/72g5NvgwUJDA45iqYPltFG) | 4:17 | 2021-11-25 |  |
 | [Hilang](https://open.spotify.com/track/59be0zIdpIlGnpGBq17JB2) | [rumahsakit](https://open.spotify.com/artist/1Foqp2ngVCEaD2xKanB7QP) | [rumahsakit](https://open.spotify.com/album/6UGe4giZjoyqAku6wQaxdw) | 3:56 | 2021-11-25 |  |
+| [Hitam](https://open.spotify.com/track/49MPpSfJ3E3om0kMIIEq5c) | [Barefood](https://open.spotify.com/artist/6UZs7JW1FeeIoYIBAUsLfM) | [Milkbox](https://open.spotify.com/album/0sw7BNUNlQBHNR5TrJbGwe) | 4:03 | 2023-11-24 |  |
 | [Hook Up](https://open.spotify.com/track/7MiiJTXScerKHs4TkqXX1e) | [Holy City Rollers](https://open.spotify.com/artist/1xX7RmaDFxsvVtR9l8qJ4v) | [First Chapter of Allordia](https://open.spotify.com/album/7DVn7xIvYUsPGFjLwTeJff) | 4:20 | 2022-01-06 |  |
 | [I'm OK](https://open.spotify.com/track/69xEITRbwTnRYEBGTdy3Kp) | [Goodnight Electric](https://open.spotify.com/artist/01mXW5OUPBFLlEDcYwD3zE) | [Electroduce Yourself](https://open.spotify.com/album/2BhBRPic40xAcJMKMt8Fzk) | 3:51 | 2021-11-25 |  |
 | [I've Got Johnny in My Head](https://open.spotify.com/track/5QPa0rmNEhWGjOChRu5EYS) | [Teenage Death Star](https://open.spotify.com/artist/0IawwTkzo4Y48AuJawFBCE) | [Longway to Nowhere](https://open.spotify.com/album/49y6mQksPVUliQNHhULU8n) | 2:59 | 2021-11-25 |  |
@@ -85,6 +87,7 @@
 | [Pada Awalnya](https://open.spotify.com/track/41m65kJO5iZ4S42AqOSD0Q) | [VOX](https://open.spotify.com/artist/0T90XEl0OLRsdEmE42DNLX) | [Pada Awalnya](https://open.spotify.com/album/5MHkgIcCWTujqjrwqgLZcq) | 3:43 | 2021-11-25 | 2022-01-07 |
 | [Paradox](https://open.spotify.com/track/6Sqy4qSkZwHvbQlOmqCGe2) | [Dried Cassava](https://open.spotify.com/artist/0ZFOqczQaOVygEA3lFm244) | [Mind Thieves](https://open.spotify.com/album/10u0ZDzXKtAUOrzuoZtk8z) | 5:07 | 2022-08-04 |  |
 | [Penggalan Kisah Lama](https://open.spotify.com/track/6CgS033Lai60cUo17xKNUV) | [La Luna](https://open.spotify.com/artist/70vCC614T0CWhPaIjDo9Na) | [Kilas Balik](https://open.spotify.com/album/4dAo8QjTz9yvUGPgUUBn8p) | 3:46 | 2022-04-14 |  |
+| [Perfect Colour](https://open.spotify.com/track/4jPqP3tWOtuvxTg7N1ul1P) | [Barefood](https://open.spotify.com/artist/6UZs7JW1FeeIoYIBAUsLfM) | [Sullen](https://open.spotify.com/album/41epQaOhVwcFtskbmpRqhk) | 4:04 | 2023-11-24 |  |
 | [Pergi Ke Bulan](https://open.spotify.com/track/5ucDkQKPniJlwTVMCQOvj1) | [Klarinet](https://open.spotify.com/artist/5W8Z7MYHJ3JML7lWVUHcY2) | [Klarinet](https://open.spotify.com/album/4ui8LbRdGOFtZu0T7NHbQM) | 2:52 | 2021-11-25 |  |
 | [Pig Paranoia](https://open.spotify.com/track/4ynxHnSWd8VGoocpWpSvTT) | [Zeke Khaseli](https://open.spotify.com/artist/3XBY4eyiy1tI1SKwkvWokU) | [Salacca Zalacca \(10TH Anniversary Edition\)](https://open.spotify.com/album/37vmU4bxRfyjWokSMH5rWW) | 2:32 | 2021-11-25 |  |
 | [Please Say Yes](https://open.spotify.com/track/1qs68Q2hSHRfsAsGtwL94n) | [Santamonica](https://open.spotify.com/artist/2wFJwReSekCDUH8ncvHPou) | [Reminisce 189](https://open.spotify.com/album/7Aw6H2i0Ksex2n8Qb9LwJG) | 3:55 | 2023-09-29 |  |
@@ -114,8 +117,10 @@
 | [Strange Is the Song in Our Conversation](https://open.spotify.com/track/10s8XK7vzEIfDP1fSIVzst) | [Monkey to Millionaire](https://open.spotify.com/artist/3CvmuoTHGPRoQLO4N64C98), [Marsha Suryawinata](https://open.spotify.com/artist/74ImuWk6U363Ktn4QbQjsL) | [Lantai Merah](https://open.spotify.com/album/51pYHM3rQTWuN1wvIyknsi) | 4:48 | 2022-05-04 |  |
 | [Suburban Love](https://open.spotify.com/track/5idywMLoczcnF9P3w26bTq) | [Lipstik Lipsing](https://open.spotify.com/artist/4TjOT7gITmHkn7X0NUEPhc) | [Room for Outside](https://open.spotify.com/album/6Zt1SG67JijuskYbTSwxDs) | 5:10 | 2022-04-14 | 2022-07-29 |
 | [Suburban Love](https://open.spotify.com/track/7yaIMTgpZ6LeYERcEfdjoU) | [Lipstik Lipsing](https://open.spotify.com/artist/4TjOT7gITmHkn7X0NUEPhc) | [Room for Outside EP](https://open.spotify.com/album/1pMz5XuqVY07Hhg96cZdlH) | 5:10 | 2022-06-23 |  |
+| [Sullen](https://open.spotify.com/track/1umML8sNzZSYBvDmTY7odB) | [Barefood](https://open.spotify.com/artist/6UZs7JW1FeeIoYIBAUsLfM), [Putriani Mulyadi](https://open.spotify.com/artist/6TjcNFT3kpw0Nc7uc3sX7k) | [Sullen](https://open.spotify.com/album/41epQaOhVwcFtskbmpRqhk) | 4:24 | 2023-11-24 |  |
 | [Ta' Ada Yang Gelap](https://open.spotify.com/track/0csrfbjfJcRxCDcp4KzhDO) | [FABLE](https://open.spotify.com/artist/6GoEL7hKaBGHSLoDkcFMNm) | [Fable](https://open.spotify.com/album/3ItOraUy3QuOtiiWHAVFO9) | 4:21 | 2021-11-25 |  |
 | [Tarian](https://open.spotify.com/track/1QVHsfLzOrsoKJTbRnbWZS) | [L'Alphalpha](https://open.spotify.com/artist/46ipdIq678HcnKpQqYFPuh) | [Von Stufe Zu Stufe](https://open.spotify.com/album/3xBAgVZ2bjZeUbRmO4CMUH) | 5:16 | 2021-11-25 |  |
+| [Teenage Daydream](https://open.spotify.com/track/5PmbSdYIp2jLOuKcoVdJZu) | [Barefood](https://open.spotify.com/artist/6UZs7JW1FeeIoYIBAUsLfM) | [Sullen](https://open.spotify.com/album/41epQaOhVwcFtskbmpRqhk) | 2:50 | 2023-11-24 |  |
 | [Telescope](https://open.spotify.com/track/4W9qZ9HziEYeBkBGExW7e9) | [Hollywood Nobody](https://open.spotify.com/artist/227hPsCkg7IeGxtgboqx62) | [Everything Happens for a Reason](https://open.spotify.com/album/4sCtz1eFV9MKR1TeDf0fIX) | 4:09 | 2021-11-25 |  |
 | [Tentang Cinta](https://open.spotify.com/track/2yQ7b1nWiSlhVr3c9kxZGB) | [Majelis Lidah Berduri](https://open.spotify.com/artist/16iW3hwUVe7LU0bfy5wjpe) | [Re\-Anamnesis](https://open.spotify.com/album/6U17ll6J80hIzIijDmWu7U) | 3:46 | 2022-04-14 |  |
 | [Teriak Gila](https://open.spotify.com/track/3O8aGQKFWHyq0UwJyzFtGG) | [Cuts](https://open.spotify.com/artist/6jnTaV0jKpS85zcC4ybsft) | [Rrradarrr](https://open.spotify.com/album/53HlDsygw2WROw5dc4vzt8) | 3:40 | 2021-11-25 |  |

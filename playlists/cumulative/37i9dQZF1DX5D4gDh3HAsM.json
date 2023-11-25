@@ -2661,6 +2661,24 @@
     },
     {
       "album": {
+        "name": "The Christmas EP",
+        "url": "https://open.spotify.com/album/6ySR5CSUPP9Fp2fKgyqIzq"
+      },
+      "artists": [
+        {
+          "name": "Emmaline",
+          "url": "https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266166,
+      "name": "You're A Mean One, Mr. Grinch",
+      "url": "https://open.spotify.com/track/6RUQf03CK4UUvHDCyPDscx"
+    },
+    {
+      "album": {
         "name": "You're a Mean One, Mr. Grinch",
         "url": "https://open.spotify.com/album/4Evqychsx6JVmElWlLHkyE"
       },
@@ -2684,7 +2702,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 238611,
       "name": "You're a Mean One, Mr. Grinch",
       "url": "https://open.spotify.com/track/0Fwkp0jkEylKAOo9xep0JO"

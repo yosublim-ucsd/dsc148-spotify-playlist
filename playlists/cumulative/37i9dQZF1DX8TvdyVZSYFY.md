@@ -4,7 +4,7 @@
 
 > Big hits from the world of acoustics.
 
-463 songs - 1 day 3 hr 28 min
+464 songs - 1 day 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,6 +283,7 @@
 | [One Call Away \- Acoustic](https://open.spotify.com/track/5GC6GvRtBRHbfwn3RS1L72) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Riptide \- Acoustic Hits](https://open.spotify.com/album/4WbUpcP8PHPiRQ1Ch2AcAM) | 3:09 | 2022-01-10 | 2022-11-13 |
 | [Only Girl \(In The World\)](https://open.spotify.com/track/0cgu69vaxW8IBiSEfXo8dZ) | [Lola Rhodes](https://open.spotify.com/artist/6o0VAgvpfBjrUuDWjjQJ4O) | [Only Girl \(In The World\)](https://open.spotify.com/album/5xutPBaeAFInzHFkswlv2e) | 3:55 | 2021-03-09 |  |
 | [Only Girl In The World \- Live Lounge Acoustic Version](https://open.spotify.com/track/6SiVcj93hSwHvRUOvfr4Io) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Lights](https://open.spotify.com/album/4yw6Rd1Te2q3AVWRDG224Z) | 4:07 | 2021-03-09 | 2022-07-29 |
+| [Only Girl In The World \- Radio 1 Live Lounge Acoustic Version](https://open.spotify.com/track/5mzbxuHRsbnUzGyJkDy4je) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Divas \- En Vivo Y En Directo](https://open.spotify.com/album/0pCjpaf9gsBnogeL6CmFT1) | 4:07 | 2023-10-23 |  |
 | [Only Girl In The World \- Radio 1 Live Lounge Acoustic Version](https://open.spotify.com/track/6mz7nudr70riksmajdpGMS) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Acoustic Covers](https://open.spotify.com/album/5clX8eIQwBUCIuueIUU5XP) | 4:07 | 2022-01-10 | 2023-10-09 |
 | [Only Want You \- Live from Spotify Studios NYC](https://open.spotify.com/track/04RaThB20KTtI8wwXASw3L) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Spotify Singles](https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu) | 2:22 | 2021-03-09 |  |
 | [Only You](https://open.spotify.com/track/2ODveYidOlM11e0JZrM1aE) | [Michael Shynes](https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3) | [Only You](https://open.spotify.com/album/1JMNVtOFxycRM2IR2ZxFYH) | 2:46 | 2021-03-09 |  |
@@ -395,7 +396,7 @@
 | [Teenage Dream](https://open.spotify.com/track/68ngc4vLwImhAeWHmXKcEI) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Teenage Dream](https://open.spotify.com/album/4EljF3hf20ZscDyd8bBB7R) | 3:17 | 2021-03-09 |  |
 | [thank u, next](https://open.spotify.com/track/33GUAPKqFS56qvW54hbI65) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [thank u, next](https://open.spotify.com/album/4ewCSFPqKZAI2mOsDWTqBs) | 3:48 | 2021-03-09 |  |
 | [The A Team \- Acoustic](https://open.spotify.com/track/6Qm7DBWQguBzK459j4fOBt) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [The A Team](https://open.spotify.com/album/7jfNbUImln4VF01QtMpe0q) | 4:01 | 2021-03-09 | 2022-07-29 |
-| [The Book of Love \- Spotify Session](https://open.spotify.com/track/54FZgilRgqRRxwIz0tPly6) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Spotify Session](https://open.spotify.com/album/2IV7ZEABJEfaqxuQWlbV48) | 3:23 | 2021-03-09 |  |
+| [The Book of Love \- Spotify Session](https://open.spotify.com/track/54FZgilRgqRRxwIz0tPly6) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Spotify Session](https://open.spotify.com/album/2IV7ZEABJEfaqxuQWlbV48) | 3:23 | 2021-03-09 | 2023-11-25 |
 | [The Greatest](https://open.spotify.com/track/2zFlsk4LABgLWDRkiIrShG) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Cover Sessions, Vol\. 4](https://open.spotify.com/album/4GRswj5X73eFGhe6QDTRCD) | 3:11 | 2022-01-10 |  |
 | [The Greatest](https://open.spotify.com/track/73WxImnNEhNpqbwuSxWfIU) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Cover Sessions, Vol\. 4](https://open.spotify.com/album/1PDOaspB3MCVnusDuO1ewv) | 3:11 | 2021-03-09 | 2022-07-29 |
 | [The Line \- Acoustic](https://open.spotify.com/track/4dStVNGbwUcLoO5NYJWAm0) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [The Line \(Acoustic\)](https://open.spotify.com/album/6xJUKqYm7bcUXWdqUyTpSc) | 3:20 | 2021-03-09 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk du moment\. Photo : Fanny J x Nesly
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,427 likes - 40 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,490 likes - 40 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 39 | [LOUD](https://open.spotify.com/track/4jJBZuAd8KHFS9ALEZsAM3) | [Kelly Krow](https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p), [Magdala](https://open.spotify.com/artist/3uadfXnnMTKpzaGo96mRFz) | [LOUD](https://open.spotify.com/album/1YrHvEby37Qg6RkeB0Kdyg) | 3:00 |
 | 40 | [Ny fitiavanay \(Notre amour\)](https://open.spotify.com/track/0e23qMbeMafeUQsuaqsIBh) | [Taylor Gasy](https://open.spotify.com/artist/547AvIcjAqi3Vz78SppsjN), [Jayneziss](https://open.spotify.com/artist/2gQcVMHBDwjdYAEOzubaHV) | [Ny fitiavanay \(Notre amour\)](https://open.spotify.com/album/7DMZmlKJXnqN6lL3AK51Qt) | 2:31 |
 
-Snapshot ID: `MCw4NzE3NDMzNWFiZGEyMzQzM2RhMDQyOWY2NjA5MDY4ZDEwMjNhOWJl`
+Snapshot ID: `MCw4ZTZjZDUxOTE5Y2Q0YmZlYmRkNjk3ZTc4NjA3OGQ0NmU3Yjg5NGQ5`

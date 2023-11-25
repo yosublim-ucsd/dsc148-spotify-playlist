@@ -830,7 +830,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 223001,
       "name": "Bandida Treinada",
       "url": "https://open.spotify.com/track/1DRdKxj7DgMVBLp6ogpj3k"
@@ -1150,7 +1150,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 185272,
       "name": "Bodychain",
       "url": "https://open.spotify.com/track/2bbS80l8gIe2hRcrwLDsNK"
@@ -3833,6 +3833,32 @@
     },
     {
       "album": {
+        "name": "Idas E Vindas",
+        "url": "https://open.spotify.com/album/1yUoLzFJSZFRPHraH1Kvce"
+      },
+      "artists": [
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        },
+        {
+          "name": "MC Leozinho ZS",
+          "url": "https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8"
+        },
+        {
+          "name": "2050",
+          "url": "https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129075,
+      "name": "Idas E Vindas",
+      "url": "https://open.spotify.com/track/34fT3R6qrme2MZqw8pkH9M"
+    },
+    {
+      "album": {
         "name": "Ilus\u00e3o",
         "url": "https://open.spotify.com/album/06ZRaFS4lY8dQQXTYrAlOZ"
       },
@@ -5056,7 +5082,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 169285,
       "name": "Menu",
       "url": "https://open.spotify.com/track/1rBkBn8Glsj5Rk5z74CFoo"
@@ -5909,6 +5935,28 @@
     },
     {
       "album": {
+        "name": "N\u00e3o Tem Como Evitar",
+        "url": "https://open.spotify.com/album/0LxtAwZaxckyMvt0a2gO07"
+      },
+      "artists": [
+        {
+          "name": "Lionel",
+          "url": "https://open.spotify.com/artist/0kgUQXfIgn7sKY38YQMPJA"
+        },
+        {
+          "name": "Pel\u00e9 MilFlows",
+          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151584,
+      "name": "N\u00e3o Tem Como Evitar",
+      "url": "https://open.spotify.com/track/17zv37HCXfhwZUWPdu8R90"
+    },
+    {
+      "album": {
         "name": "N\u00e3o Tem Outra",
         "url": "https://open.spotify.com/album/70Xzw60lDTWOuyMsYiILxV"
       },
@@ -5932,6 +5980,36 @@
       "duration_ms": 150857,
       "name": "N\u00e3o Tem Outra",
       "url": "https://open.spotify.com/track/1auS0HfKQ8dooy12OyrlgW"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Tenho Tempo",
+        "url": "https://open.spotify.com/album/0DU5qPWKr1bR86WsRjiiPP"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125624,
+      "name": "N\u00e3o Tenho Tempo",
+      "url": "https://open.spotify.com/track/42Lqgo4o80uHEKKtaGOkj1"
     },
     {
       "album": {
@@ -8698,7 +8776,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 167090,
       "name": "Toda estranha",
       "url": "https://open.spotify.com/track/2meJca6wSL6dDbe2SM0uI6"
@@ -8742,6 +8820,24 @@
       "duration_ms": 142978,
       "name": "Tudo Que C\u00ea Quer",
       "url": "https://open.spotify.com/track/3owVuCE1JenyUfQxP5JHDt"
+    },
+    {
+      "album": {
+        "name": "T\u00e1 Fod*",
+        "url": "https://open.spotify.com/album/6lProWEld2RgXzXN30KI1N"
+      },
+      "artists": [
+        {
+          "name": "Afrocidade",
+          "url": "https://open.spotify.com/artist/1kbDI5eg73ftGzwOf4OKZL"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181647,
+      "name": "T\u00e1 Fod*",
+      "url": "https://open.spotify.com/track/3soB2fp5V9KVxQM6BZ6JIg"
     },
     {
       "album": {

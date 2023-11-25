@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "Relaxe com hinos ac\u00fasticos. Foto: AM\u00c9M",
+  "description": "Relaxe com hinos ac\u00fasticos. Foto: Theo Rubia",
   "name": "Gospel Ac\u00fastico",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 306573,
       "name": "A Mesa",
       "url": "https://open.spotify.com/track/6YfTtc4MhkQwMjbQ41MeFE"
+    },
+    {
+      "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/1vXbROI1H0bcVL4TIzV0Yf"
+      },
+      "artists": [
+        {
+          "name": "Jeferson Pillar",
+          "url": "https://open.spotify.com/artist/4vqAhxv4WcsEcTv34ABpcZ"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295674,
+      "name": "A Morte Vai Morrer",
+      "url": "https://open.spotify.com/track/7FG1e1Zl4SWSsk4oJl58Eu"
     },
     {
       "album": {
@@ -168,7 +186,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 253706,
       "name": "Algu\u00e9m Como Eu",
       "url": "https://open.spotify.com/track/6kbcLo1Sgi5OjzEvtdgxyy"
@@ -194,7 +212,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 251342,
       "name": "Al\u00e9m do Rio",
       "url": "https://open.spotify.com/track/5sqGOZkwV4UZkZGzJ9srrK"
@@ -1414,7 +1432,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 248701,
       "name": "Meu Mundo - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2Sjz40NGcmkosB4eZ5OoM5"
@@ -2212,6 +2230,42 @@
       "duration_ms": 270933,
       "name": "Quem Sou",
       "url": "https://open.spotify.com/track/3R8AdlPHOXTNpnzUoUqcpK"
+    },
+    {
+      "album": {
+        "name": "Quem Te Guarda \u00c9 Deus",
+        "url": "https://open.spotify.com/album/4vZcPGoLtOAbsvANPIdt5h"
+      },
+      "artists": [
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "Quem Te Guarda \u00c9 Deus",
+      "url": "https://open.spotify.com/track/2jK5rOxNUXibAJrHaFVDak"
+    },
+    {
+      "album": {
+        "name": "Hist\u00f3rias Vol. 1 (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2zSnQpQr9HxRWCz4OaUPSx"
+      },
+      "artists": [
+        {
+          "name": "Theo Rubia",
+          "url": "https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Quero Mais - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7gC2JG5pQNF2YJg0cFWlPC"
     },
     {
       "album": {

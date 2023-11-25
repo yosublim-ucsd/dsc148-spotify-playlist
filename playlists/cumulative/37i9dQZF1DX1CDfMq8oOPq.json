@@ -487,6 +487,24 @@
     },
     {
       "album": {
+        "name": "Bitch Eu Sou Incr\u00edvel",
+        "url": "https://open.spotify.com/album/7kOviuHFNlgdqgtNDso9yi"
+      },
+      "artists": [
+        {
+          "name": "MC Taya",
+          "url": "https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136367,
+      "name": "Bitch Eu Sou Incr\u00edvel",
+      "url": "https://open.spotify.com/track/4gVag1vpVNTPE5MoOTwc2J"
+    },
+    {
+      "album": {
         "name": "Brutas Amam, Choram e Sentem Raiva",
         "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
       },
@@ -2914,7 +2932,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 194884,
       "name": "Oompa Loompa",
       "url": "https://open.spotify.com/track/17YRNfsbyA7wTOEhANAyK7"

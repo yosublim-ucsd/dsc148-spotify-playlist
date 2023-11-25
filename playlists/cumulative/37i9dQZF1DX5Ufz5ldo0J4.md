@@ -4,7 +4,7 @@
 
 > Lean back, close your eyes, and relax.
 
-293 songs - 13 hr 45 min
+295 songs - 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Message of Hope](https://open.spotify.com/track/4B3sBWHD5rfWtkXCdYwrFq) | [Elise Magnefold](https://open.spotify.com/artist/6NwzoAF59ghN7JuBvwHVex) | [Little Things](https://open.spotify.com/album/6D5LLJs53kFNpxoIhQWGlY) | 3:26 | 2021-12-10 |  |
 | [A Moment of Reflection](https://open.spotify.com/track/15msDW5lW6xONIUtKAfaPC) | [Tiny Rhino](https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4) | [Ma Belle](https://open.spotify.com/album/6HYlPk0YVry6TQKA1pnp5n) | 3:04 | 2021-12-10 |  |
 | [A new day](https://open.spotify.com/track/36rrXNpPdOpmHpI2vZECFd) | [Nadine Gaertner](https://open.spotify.com/artist/20pShYixHbYfabMneFBBAW) | [A new day](https://open.spotify.com/album/6PaweQ9HpdnCbZyYDMAwrc) | 2:40 | 2021-12-10 | 2023-07-18 |
+| [above the clouds](https://open.spotify.com/track/3tYIa6bWt6MFfDHCRceCZ6) | [Dancing and Dreaming](https://open.spotify.com/artist/0og1CmJP5QtC99aDftPaOt) | [above the clouds](https://open.spotify.com/album/2CuKBq5lsJJh87ajdVzwa9) | 2:05 | 2023-11-24 |  |
 | [Above the Horizon](https://open.spotify.com/track/2WdSNu3lf2rujezHg0FmcI) | [Alexander Sterling](https://open.spotify.com/artist/7jCHPpIZYNW9xezoE6m6Ez) | [Above the Horizon](https://open.spotify.com/album/12y2nb8I6xA1ptwjBEY1JJ) | 3:24 | 2021-12-10 |  |
 | [Aesthetic](https://open.spotify.com/track/0i1dfTENGrNNBWeZlknUf4) | [Gyr](https://open.spotify.com/artist/2A1jbcxHxyQkW1uukhPrFQ) | [Aesthetic](https://open.spotify.com/album/71FyFTipWq6kbUmtBWw2oZ) | 2:09 | 2022-04-08 | 2023-03-25 |
 | [After the storm](https://open.spotify.com/track/3WuOYQvrHVAANn735uiw1k) | [Glimmolo](https://open.spotify.com/artist/7g6rklSRWpUUeX8czkiTqM) | [Ascending](https://open.spotify.com/album/4cpBPNXBlDk70DloBxTjDz) | 3:41 | 2021-12-10 |  |
@@ -51,6 +52,7 @@
 | [Cielo](https://open.spotify.com/track/2iz8mLXZg0y2ObLkWBvJVE) | [Theo Adagio](https://open.spotify.com/artist/0hXbvfASKCsYIP7qG9iN4K) | [Cielo](https://open.spotify.com/album/4Mc2ZJzVs7svcAa6K16PzR) | 2:33 | 2023-01-09 |  |
 | [Circadian](https://open.spotify.com/track/3bb6awuqz2ZJggqGtvPVYE) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [Phases](https://open.spotify.com/album/7sJJum4P8SaEmJI6Ud1rpk) | 2:52 | 2021-12-10 |  |
 | [Clear Sky](https://open.spotify.com/track/0sStz9SBt5DOF7CynqUUwa) | [Sleepy Clouds](https://open.spotify.com/artist/2VGcECsvRjugsMNJ2bVSsM) | [Looking Up](https://open.spotify.com/album/6v569ccwhxvUy8qHjHYix5) | 3:10 | 2021-12-10 |  |
+| [climbing](https://open.spotify.com/track/05bXLSRcvUBWiHS5nw6MPj) | [Cosy Kittens](https://open.spotify.com/artist/3Qhm77fx1BlSuwusIYpYxY) | [climbing](https://open.spotify.com/album/1MvnFkJitq1T7Tgnihwagq) | 2:05 | 2023-11-24 |  |
 | [Close your eyes](https://open.spotify.com/track/53Mz4V3XL02YupbVnJKfMl) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Close your eyes](https://open.spotify.com/album/7n60AHGWLfjBq8eEdTbja0) | 3:12 | 2021-12-10 | 2022-08-13 |
 | [Clouds](https://open.spotify.com/track/6za1vOLEcxfVRs9xFTNGfS) | [Vista Hierro](https://open.spotify.com/artist/0CALPbZtkitbpbqDjU6Ddp) | [An Evening Sky](https://open.spotify.com/album/3au3MZf62Yy8cm4OknYbWh) | 2:32 | 2022-12-02 |  |
 | [Corinne](https://open.spotify.com/track/5C7NbwyZvvGVu8wTxzgg8p) | [Free Arrows](https://open.spotify.com/artist/1p11ASxd4v3ZAMkYgMtxOK) | [Corinne](https://open.spotify.com/album/1rZC9cRFPOo0ouBM7fVMSR) | 2:37 | 2022-02-25 |  |

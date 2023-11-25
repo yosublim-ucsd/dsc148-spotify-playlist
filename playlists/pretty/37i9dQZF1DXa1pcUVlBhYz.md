@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 
 > Electronic + Dance making waves, every month\. Cover: HoneyLuv & Cakes da Killa
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,999 likes - 76 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,009 likes - 76 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

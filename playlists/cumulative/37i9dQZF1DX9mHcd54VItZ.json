@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT?si=O3l0X_BbR2i27-j3gS8sTw\">Rooksein</a>",
+  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x?si=4-pnZ4abSOeO33A8uE0ppw\">Fokofpolisiekar</a>",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -650,7 +650,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 254711,
       "name": "Black Sheep",
       "url": "https://open.spotify.com/track/582kWu8C2iODVokqsIovwj"
@@ -1090,7 +1090,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 192290,
       "name": "Contagious",
       "url": "https://open.spotify.com/track/5JtXQeRS0pznrpwKWRHmk3"
@@ -1245,6 +1245,24 @@
     },
     {
       "album": {
+        "name": "Dans Deur Die Donker",
+        "url": "https://open.spotify.com/album/63sTwGlgIvUrLTz5ZimooE"
+      },
+      "artists": [
+        {
+          "name": "Fokofpolisiekar",
+          "url": "https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182589,
+      "name": "Dans Deur Die Donker",
+      "url": "https://open.spotify.com/track/7qJBfedTGqxSzdqSuBfrW6"
+    },
+    {
+      "album": {
         "name": "Dapper",
         "url": "https://open.spotify.com/album/2rpJjqpMJQOx69ksFk7vbB"
       },
@@ -1336,7 +1354,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 215498,
       "name": "Delirium Tremors - Radio Edit",
       "url": "https://open.spotify.com/track/6mEeRt3Y4seCZ3Ag54MAhK"
@@ -1578,6 +1596,28 @@
       "duration_ms": 220525,
       "name": "Down - Remastered",
       "url": "https://open.spotify.com/track/50lAUbTwVsGu97tj3j6cGi"
+    },
+    {
+      "album": {
+        "name": "Down to the River",
+        "url": "https://open.spotify.com/album/31QhV7ZJ1nznjUKJuX4JAW"
+      },
+      "artists": [
+        {
+          "name": "Avolver",
+          "url": "https://open.spotify.com/artist/4EAEBDaLWbbNMdZaZN5m3H"
+        },
+        {
+          "name": "Ras",
+          "url": "https://open.spotify.com/artist/73Fb42WCoh5SGn6uxcZvXU"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282000,
+      "name": "Down to the River",
+      "url": "https://open.spotify.com/track/2XcyCqS4tINmDjYXzz3e39"
     },
     {
       "album": {
@@ -2328,7 +2368,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 222433,
       "name": "Goue Lokke",
       "url": "https://open.spotify.com/track/1cgeBbPkPmJNMzvwg6nCQL"
@@ -2892,7 +2932,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 228781,
       "name": "Innocence",
       "url": "https://open.spotify.com/track/2nuJbLSFHbWNYSQ3C7HTay"
@@ -3156,6 +3196,24 @@
       "duration_ms": 175728,
       "name": "Kopskud Revolusie (feat. Spoegwolf)",
       "url": "https://open.spotify.com/track/5taKG0t4Z0sv247eXWuWij"
+    },
+    {
+      "album": {
+        "name": "Kwart Voor Agt",
+        "url": "https://open.spotify.com/album/4xBSzNEi7mGjeLmZd3GGAN"
+      },
+      "artists": [
+        {
+          "name": "Lliam Meredith",
+          "url": "https://open.spotify.com/artist/4sPxPaCiavoNQIVjvXqJG9"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149781,
+      "name": "Kwart Voor Agt",
+      "url": "https://open.spotify.com/track/6TpfBdBtrDpzl7NEn11PMu"
     },
     {
       "album": {
@@ -4174,7 +4232,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 189493,
       "name": "Outcasts",
       "url": "https://open.spotify.com/track/38WBPi8N2uLBIA03sU0vea"
@@ -4780,6 +4838,24 @@
       "duration_ms": 194053,
       "name": "Selfish Lover",
       "url": "https://open.spotify.com/track/1Tbgb7vB07zvuKuZKXI0aU"
+    },
+    {
+      "album": {
+        "name": "Shadow Fiend",
+        "url": "https://open.spotify.com/album/2D6QcBj0AN3i3E0YUeoZFd"
+      },
+      "artists": [
+        {
+          "name": "Crash And The Void",
+          "url": "https://open.spotify.com/artist/32sIYcqIVAbg6nV8ARSGHo"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Shadow Fiend",
+      "url": "https://open.spotify.com/track/080JBnOECwq62d9KOSoYFD"
     },
     {
       "album": {
@@ -5639,6 +5715,24 @@
     },
     {
       "album": {
+        "name": "Terapie Vir Nou",
+        "url": "https://open.spotify.com/album/2s7XUTruquG0eOrNIyqMQN"
+      },
+      "artists": [
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218117,
+      "name": "Terapie Vir Nou",
+      "url": "https://open.spotify.com/track/7K7JxiW7VcnJexqPaAY9Bd"
+    },
+    {
+      "album": {
         "name": "Fire",
         "url": "https://open.spotify.com/album/5Do7e2q8fSBTYV29HmBieO"
       },
@@ -5900,7 +5994,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 223348,
       "name": "The Villain",
       "url": "https://open.spotify.com/track/2s0QDe1ZjH0Pm9rsciZwQY"
@@ -6198,6 +6292,24 @@
       "duration_ms": 178500,
       "name": "Use Me",
       "url": "https://open.spotify.com/track/3SAvq5q3kuXSQ2qKxuBGMI"
+    },
+    {
+      "album": {
+        "name": "Vakansie Vir My Siel",
+        "url": "https://open.spotify.com/album/3lkkoC0gKDx7uplWEymzAk"
+      },
+      "artists": [
+        {
+          "name": "Millennium",
+          "url": "https://open.spotify.com/artist/4AaYTQtnZyjXm9JniWgGFw"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261579,
+      "name": "Vakansie Vir My Siel",
+      "url": "https://open.spotify.com/track/1lJ44Qfd4jmcpxzUMRaGoU"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1490264,
+  "num_followers": 1490289,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZWViOTA2MGVhNjY4NDhlZmI4ODJiZmQ3NDVmYTllZGMzNDY5NGUx",
+  "snapshot_id": "MCxkNmM2YzkzNzA0OWI3MDYzZTQ2YjVhNTBjYTdlYzBiOWI4ZDgxNTRh",
   "tracks": [
     {
       "added_at": "2023-11-23 15:00:00",
@@ -583,6 +583,38 @@
     {
       "added_at": "2023-11-23 15:00:00",
       "album": {
+        "name": "High Jazz",
+        "url": "https://open.spotify.com/album/0NKeDOv1E57bjmFusvxqiE"
+      },
+      "artists": [
+        {
+          "name": "High John",
+          "url": "https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80"
+        }
+      ],
+      "duration_ms": 116905,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/5NlG6wkRWwPrKel04bKkYK"
+    },
+    {
+      "added_at": "2023-11-23 15:00:00",
+      "album": {
+        "name": "Noflik - Love Vibe and Learn",
+        "url": "https://open.spotify.com/album/2ZJ7gLKBBlKmL0kgTWmPj3"
+      },
+      "artists": [
+        {
+          "name": "Noflik",
+          "url": "https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt"
+        }
+      ],
+      "duration_ms": 132187,
+      "name": "Love Vibe and Learn",
+      "url": "https://open.spotify.com/track/5TdBSyit6udNnTqJhbgiFT"
+    },
+    {
+      "added_at": "2023-11-23 15:00:00",
+      "album": {
         "name": "Cosmic",
         "url": "https://open.spotify.com/album/0Q413u4gUUGs8EKDe13hzs"
       },
@@ -603,38 +635,6 @@
       "duration_ms": 94468,
       "name": "Cosmic",
       "url": "https://open.spotify.com/track/3ESJIVVpwOAK9fK5sktDl7"
-    },
-    {
-      "added_at": "2023-11-23 15:00:00",
-      "album": {
-        "name": "Love Vibe and Learn",
-        "url": "https://open.spotify.com/album/7esU7PfctSuckvtAz97Gdx"
-      },
-      "artists": [
-        {
-          "name": "Noflik",
-          "url": "https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt"
-        }
-      ],
-      "duration_ms": 132187,
-      "name": "Love Vibe and Learn",
-      "url": "https://open.spotify.com/track/13ErCwuebmVrM0kEyiTmoG"
-    },
-    {
-      "added_at": "2023-11-23 15:00:00",
-      "album": {
-        "name": "High Jazz",
-        "url": "https://open.spotify.com/album/0NKeDOv1E57bjmFusvxqiE"
-      },
-      "artists": [
-        {
-          "name": "High John",
-          "url": "https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80"
-        }
-      ],
-      "duration_ms": 116905,
-      "name": "Love Letter",
-      "url": "https://open.spotify.com/track/5NlG6wkRWwPrKel04bKkYK"
     },
     {
       "added_at": "2023-11-23 15:00:00",
@@ -1275,22 +1275,18 @@
     {
       "added_at": "2023-11-23 15:00:00",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/66ncBKTGIriA52zkGJ3P7R"
+        "name": "That's Just Me",
+        "url": "https://open.spotify.com/album/01SkyAcTlSdHNE6Vm8z6tq"
       },
       "artists": [
         {
-          "name": "Allgood",
-          "url": "https://open.spotify.com/artist/27axU7fE93Z7h8OhRFrD4r"
-        },
-        {
-          "name": "Kanimayo",
-          "url": "https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1"
+          "name": "Ameba",
+          "url": "https://open.spotify.com/artist/0YYVUJe2T4XdBza6Y0RA8P"
         }
       ],
-      "duration_ms": 128000,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/67srAaUUWCfeCz4TFzmmC2"
+      "duration_ms": 90383,
+      "name": "That's Just Me",
+      "url": "https://open.spotify.com/track/7rLueW1eSGQhAf9MruvO3d"
     },
     {
       "added_at": "2023-11-23 15:00:00",
@@ -1311,18 +1307,22 @@
     {
       "added_at": "2023-11-23 15:00:00",
       "album": {
-        "name": "That's Just Me",
-        "url": "https://open.spotify.com/album/01SkyAcTlSdHNE6Vm8z6tq"
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/66ncBKTGIriA52zkGJ3P7R"
       },
       "artists": [
         {
-          "name": "Ameba",
-          "url": "https://open.spotify.com/artist/0YYVUJe2T4XdBza6Y0RA8P"
+          "name": "Allgood",
+          "url": "https://open.spotify.com/artist/27axU7fE93Z7h8OhRFrD4r"
+        },
+        {
+          "name": "Kanimayo",
+          "url": "https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1"
         }
       ],
-      "duration_ms": 90383,
-      "name": "That's Just Me",
-      "url": "https://open.spotify.com/track/7rLueW1eSGQhAf9MruvO3d"
+      "duration_ms": 128000,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/67srAaUUWCfeCz4TFzmmC2"
     },
     {
       "added_at": "2023-11-23 15:00:00",
@@ -1415,22 +1415,18 @@
     {
       "added_at": "2023-11-23 15:00:00",
       "album": {
-        "name": "chill oil",
-        "url": "https://open.spotify.com/album/1EBszIXQGrExYYVJl0UaYV"
+        "name": "The Art of Chilling, Vol. 2",
+        "url": "https://open.spotify.com/album/5fQUFkVsUUBoLPTc2j9mlp"
       },
       "artists": [
         {
-          "name": "maeshima soshi",
-          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
-        },
-        {
-          "name": "Jr.TEA",
-          "url": "https://open.spotify.com/artist/6LzvdyO4rk5hMzyRhlrt4e"
+          "name": "The BREED",
+          "url": "https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k"
         }
       ],
-      "duration_ms": 155454,
-      "name": "chill oil",
-      "url": "https://open.spotify.com/track/3zitR68UQPvSJXhj0VhVKB"
+      "duration_ms": 156359,
+      "name": "Best Regards",
+      "url": "https://open.spotify.com/track/5jJWPAn20sxi5UiHBLWEai"
     }
   ],
   "unique_name": "Mellow Beats",

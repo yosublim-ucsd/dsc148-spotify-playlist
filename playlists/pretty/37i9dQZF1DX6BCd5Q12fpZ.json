@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 65757,
+  "num_followers": 65763,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTRlZDBhYzYwMDAyZGJhOTc1MjNmNjczNDI4ZTRkZThkNzViNmI4",
+  "snapshot_id": "MCw4NjhkYmY1YzZkOGZmNWFjNjFkMjMyMjUyNGQzNzhlNDE5ZmI5YjA4",
   "tracks": [
     {
       "added_at": "2023-05-05 17:20:54",
@@ -431,6 +431,22 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
+        "name": "Love Shine a Light (15th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6GhLMnty4i8qdRV2zxbB1q"
+      },
+      "artists": [
+        {
+          "name": "Katrina & The Waves",
+          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
+        }
+      ],
+      "duration_ms": 187947,
+      "name": "Love Shine a Light",
+      "url": "https://open.spotify.com/track/2z8pAqNDkjVOzlJg3M3cuO"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
         "name": "Trenule\u021bul",
         "url": "https://open.spotify.com/album/7fM5IQBccLOksJ96AMl0xv"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 180030,
       "name": "Trenule\u021bul (cu Fra\u021bii Advahov)",
       "url": "https://open.spotify.com/track/63idiVcxkGB3hgH6n3qKqM"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
-        "name": "Love Shine a Light (15th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6GhLMnty4i8qdRV2zxbB1q"
-      },
-      "artists": [
-        {
-          "name": "Katrina & The Waves",
-          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
-        }
-      ],
-      "duration_ms": 187947,
-      "name": "Love Shine a Light",
-      "url": "https://open.spotify.com/track/2z8pAqNDkjVOzlJg3M3cuO"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Sexuality",
-        "url": "https://open.spotify.com/album/5XKp5IjYVitTx6XIFIC6PA"
-      },
-      "artists": [
-        {
-          "name": "S\u00e9bastien Tellier",
-          "url": "https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z"
-        }
-      ],
-      "duration_ms": 188853,
-      "name": "Divine",
-      "url": "https://open.spotify.com/track/6JYxLv2GGPaZDkyJaHSQJY"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "If Love Was a Crime (Eurovision 2016 - Bulgaria)",
         "url": "https://open.spotify.com/album/1CeeOXzTsGhGGvjIaDiocW"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 179481,
       "name": "If Love Was a Crime - Eurovision 2016 - Bulgaria",
       "url": "https://open.spotify.com/track/1G5qDCiqei7ozj5ku43TuR"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Sexuality",
+        "url": "https://open.spotify.com/album/5XKp5IjYVitTx6XIFIC6PA"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9bastien Tellier",
+          "url": "https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z"
+        }
+      ],
+      "duration_ms": 188853,
+      "name": "Divine",
+      "url": "https://open.spotify.com/track/6JYxLv2GGPaZDkyJaHSQJY"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "A Million Voices",
-        "url": "https://open.spotify.com/album/43rQvK1t3lUDzNhXRLE6bQ"
-      },
-      "artists": [
-        {
-          "name": "Polina Gagarina",
-          "url": "https://open.spotify.com/artist/3Pdait6yo2LXvw2CwnagZr"
-        }
-      ],
-      "duration_ms": 180381,
-      "name": "A Million Voices",
-      "url": "https://open.spotify.com/track/6VlxdfLIfqf7saVOuerWyR"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Glorious",
         "url": "https://open.spotify.com/album/5kbxsF7LoGVuD6JivCLLtC"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 207594,
       "name": "Glorious - Video Edit",
       "url": "https://open.spotify.com/track/1UqzLT0ZGWXD9K5npit5Nr"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "A Million Voices",
+        "url": "https://open.spotify.com/album/43rQvK1t3lUDzNhXRLE6bQ"
+      },
+      "artists": [
+        {
+          "name": "Polina Gagarina",
+          "url": "https://open.spotify.com/artist/3Pdait6yo2LXvw2CwnagZr"
+        }
+      ],
+      "duration_ms": 180381,
+      "name": "A Million Voices",
+      "url": "https://open.spotify.com/track/6VlxdfLIfqf7saVOuerWyR"
     },
     {
       "added_at": "2023-05-05 17:20:54",

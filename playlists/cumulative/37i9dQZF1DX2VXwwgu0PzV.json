@@ -5859,6 +5859,28 @@
     },
     {
       "album": {
+        "name": "MAJO",
+        "url": "https://open.spotify.com/album/3rcxWLvZXA2ZtmZzvPNqec"
+      },
+      "artists": [
+        {
+          "name": "nina shezz",
+          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
+        },
+        {
+          "name": "Jvson",
+          "url": "https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173015,
+      "name": "MAJO",
+      "url": "https://open.spotify.com/track/3ixbMvMSAZLWRhqNdlQbnd"
+    },
+    {
+      "album": {
         "name": "Make Sense",
         "url": "https://open.spotify.com/album/50hYQz2kMs1xREwVSDwbiy"
       },

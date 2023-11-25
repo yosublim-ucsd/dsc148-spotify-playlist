@@ -1,13 +1,113 @@
 {
-  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT?si=O3l0X_BbR2i27-j3gS8sTw\">Rooksein</a>",
-  "num_followers": 15542,
+  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x?si=4-pnZ4abSOeO33A8uE0ppw\">Fokofpolisiekar</a>",
+  "num_followers": 15589,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjQwZTRmMzdjNGMyNDcwNDNhNDBmM2Q5MmNkZTc1YTkyYWNmMTA0",
+  "snapshot_id": "MCxkZDc0YWVkYzgxNTBiOTZkN2YzZGFlOGFmZGYwOGNiMWQ3MjI5OGQw",
   "tracks": [
+    {
+      "added_at": "2023-11-24 06:00:13",
+      "album": {
+        "name": "Dans Deur Die Donker",
+        "url": "https://open.spotify.com/album/63sTwGlgIvUrLTz5ZimooE"
+      },
+      "artists": [
+        {
+          "name": "Fokofpolisiekar",
+          "url": "https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x"
+        }
+      ],
+      "duration_ms": 182589,
+      "name": "Dans Deur Die Donker",
+      "url": "https://open.spotify.com/track/7qJBfedTGqxSzdqSuBfrW6"
+    },
+    {
+      "added_at": "2023-11-24 06:00:13",
+      "album": {
+        "name": "Terapie Vir Nou",
+        "url": "https://open.spotify.com/album/2s7XUTruquG0eOrNIyqMQN"
+      },
+      "artists": [
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "duration_ms": 218117,
+      "name": "Terapie Vir Nou",
+      "url": "https://open.spotify.com/track/7K7JxiW7VcnJexqPaAY9Bd"
+    },
+    {
+      "added_at": "2023-11-24 06:00:13",
+      "album": {
+        "name": "Shadow Fiend",
+        "url": "https://open.spotify.com/album/2D6QcBj0AN3i3E0YUeoZFd"
+      },
+      "artists": [
+        {
+          "name": "Crash And The Void",
+          "url": "https://open.spotify.com/artist/32sIYcqIVAbg6nV8ARSGHo"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Shadow Fiend",
+      "url": "https://open.spotify.com/track/080JBnOECwq62d9KOSoYFD"
+    },
+    {
+      "added_at": "2023-11-24 06:00:13",
+      "album": {
+        "name": "Kwart Voor Agt",
+        "url": "https://open.spotify.com/album/4xBSzNEi7mGjeLmZd3GGAN"
+      },
+      "artists": [
+        {
+          "name": "Lliam Meredith",
+          "url": "https://open.spotify.com/artist/4sPxPaCiavoNQIVjvXqJG9"
+        }
+      ],
+      "duration_ms": 149781,
+      "name": "Kwart Voor Agt",
+      "url": "https://open.spotify.com/track/6TpfBdBtrDpzl7NEn11PMu"
+    },
+    {
+      "added_at": "2023-11-24 06:00:13",
+      "album": {
+        "name": "Vakansie Vir My Siel",
+        "url": "https://open.spotify.com/album/3lkkoC0gKDx7uplWEymzAk"
+      },
+      "artists": [
+        {
+          "name": "Millennium",
+          "url": "https://open.spotify.com/artist/4AaYTQtnZyjXm9JniWgGFw"
+        }
+      ],
+      "duration_ms": 261579,
+      "name": "Vakansie Vir My Siel",
+      "url": "https://open.spotify.com/track/1lJ44Qfd4jmcpxzUMRaGoU"
+    },
+    {
+      "added_at": "2023-11-24 06:00:13",
+      "album": {
+        "name": "Down to the River",
+        "url": "https://open.spotify.com/album/31QhV7ZJ1nznjUKJuX4JAW"
+      },
+      "artists": [
+        {
+          "name": "Avolver",
+          "url": "https://open.spotify.com/artist/4EAEBDaLWbbNMdZaZN5m3H"
+        },
+        {
+          "name": "Ras",
+          "url": "https://open.spotify.com/artist/73Fb42WCoh5SGn6uxcZvXU"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "Down to the River",
+      "url": "https://open.spotify.com/track/2XcyCqS4tINmDjYXzz3e39"
+    },
     {
       "added_at": "2023-11-09 22:00:00",
       "album": {
@@ -73,38 +173,6 @@
       "url": "https://open.spotify.com/track/6RQ8lFoVNN5WcRR9cFlThW"
     },
     {
-      "added_at": "2023-11-09 22:00:00",
-      "album": {
-        "name": "The Villain",
-        "url": "https://open.spotify.com/album/6fHn43hrLvdxr9V7ljZBbn"
-      },
-      "artists": [
-        {
-          "name": "Crash And The Void",
-          "url": "https://open.spotify.com/artist/32sIYcqIVAbg6nV8ARSGHo"
-        }
-      ],
-      "duration_ms": 223348,
-      "name": "The Villain",
-      "url": "https://open.spotify.com/track/2s0QDe1ZjH0Pm9rsciZwQY"
-    },
-    {
-      "added_at": "2023-11-17 07:59:01",
-      "album": {
-        "name": "Black Sheep",
-        "url": "https://open.spotify.com/album/5iNIxlLpw2rlU2RHUeFa02"
-      },
-      "artists": [
-        {
-          "name": "Crash And The Void",
-          "url": "https://open.spotify.com/artist/32sIYcqIVAbg6nV8ARSGHo"
-        }
-      ],
-      "duration_ms": 254711,
-      "name": "Black Sheep",
-      "url": "https://open.spotify.com/track/582kWu8C2iODVokqsIovwj"
-    },
-    {
       "added_at": "2023-10-12 22:00:00",
       "album": {
         "name": "Invisible Walls",
@@ -139,22 +207,6 @@
       "duration_ms": 172750,
       "name": "O, My Donner",
       "url": "https://open.spotify.com/track/000TBF61gauDzXiOs4GFNs"
-    },
-    {
-      "added_at": "2023-10-26 22:00:00",
-      "album": {
-        "name": "Innocence",
-        "url": "https://open.spotify.com/album/3Pm5DFzMu6MMKeyUlBfT9I"
-      },
-      "artists": [
-        {
-          "name": "Cindy-Louise",
-          "url": "https://open.spotify.com/artist/6nEhQq8FIrP4VY4lixkdZD"
-        }
-      ],
-      "duration_ms": 228781,
-      "name": "Innocence",
-      "url": "https://open.spotify.com/track/2nuJbLSFHbWNYSQ3C7HTay"
     },
     {
       "added_at": "2023-09-07 21:59:00",
@@ -589,22 +641,6 @@
       "url": "https://open.spotify.com/track/2em2HgEcpE1OAJevg8suiw"
     },
     {
-      "added_at": "2023-08-31 21:59:00",
-      "album": {
-        "name": "Contagious",
-        "url": "https://open.spotify.com/album/0JBFWuICgQnyvb6rjDsA0d"
-      },
-      "artists": [
-        {
-          "name": "Dream Demon",
-          "url": "https://open.spotify.com/artist/2YQKfqhM5oQ2u59LelCzki"
-        }
-      ],
-      "duration_ms": 192290,
-      "name": "Contagious",
-      "url": "https://open.spotify.com/track/5JtXQeRS0pznrpwKWRHmk3"
-    },
-    {
       "added_at": "2023-08-17 22:01:39",
       "album": {
         "name": "Supermark",
@@ -705,22 +741,6 @@
       "url": "https://open.spotify.com/track/0lIUqLV6zqnyRl7cPPhj9u"
     },
     {
-      "added_at": "2023-08-11 08:29:40",
-      "album": {
-        "name": "Delirium Tremors (Radio Edit)",
-        "url": "https://open.spotify.com/album/2VgzCSHbnfuPLKwnqfMMHa"
-      },
-      "artists": [
-        {
-          "name": "Ruff Majik",
-          "url": "https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL"
-        }
-      ],
-      "duration_ms": 215498,
-      "name": "Delirium Tremors - Radio Edit",
-      "url": "https://open.spotify.com/track/6mEeRt3Y4seCZ3Ag54MAhK"
-    },
-    {
       "added_at": "2023-08-04 10:43:32",
       "album": {
         "name": "Big Mistakes",
@@ -757,26 +777,6 @@
       "url": "https://open.spotify.com/track/5yPEgsIa9x4BkMsBJaF2cM"
     },
     {
-      "added_at": "2023-08-04 10:43:32",
-      "album": {
-        "name": "Outcasts",
-        "url": "https://open.spotify.com/album/1WJEMPcD7KGqkJrSzmgTdD"
-      },
-      "artists": [
-        {
-          "name": "Cindy-Louise",
-          "url": "https://open.spotify.com/artist/6nEhQq8FIrP4VY4lixkdZD"
-        },
-        {
-          "name": "Erick Gerber",
-          "url": "https://open.spotify.com/artist/4EPvmo3SCToxenG4mQfhcc"
-        }
-      ],
-      "duration_ms": 189493,
-      "name": "Outcasts",
-      "url": "https://open.spotify.com/track/38WBPi8N2uLBIA03sU0vea"
-    },
-    {
       "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Almal Baklei",
@@ -811,22 +811,6 @@
       "duration_ms": 201684,
       "name": "Leave This Town",
       "url": "https://open.spotify.com/track/2UJNr5PUzkDpqqLriIJpqK"
-    },
-    {
-      "added_at": "2023-07-06 21:59:00",
-      "album": {
-        "name": "Vreemd",
-        "url": "https://open.spotify.com/album/3QhqEsWuvMdvBEcVXWb5UM"
-      },
-      "artists": [
-        {
-          "name": "Skelm",
-          "url": "https://open.spotify.com/artist/0lWcirgozFoMaWPo9jZXHD"
-        }
-      ],
-      "duration_ms": 222433,
-      "name": "Goue Lokke",
-      "url": "https://open.spotify.com/track/1cgeBbPkPmJNMzvwg6nCQL"
     },
     {
       "added_at": "2023-05-11 21:59:00",

@@ -1,13 +1,257 @@
 {
-  "description": "The newest r&b drops, every week. Cover: Queen Naija",
-  "num_followers": 1030776,
+  "description": "The newest r&b drops, every week. Cover: Tink",
+  "num_followers": 1030920,
   "original_name": "R&B Weekly",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDdjOTA1YjVhMTgwYjUzOTk0Y2M4NWRlZjZiM2NjNGM2Y2Q5YWUw",
+  "snapshot_id": "MCwwOGMxZjlhZWUwY2M3OTNmNWZlY2UzMTU4OWJkMmUxNjkwMTRkYjNk",
   "tracks": [
+    {
+      "added_at": "2023-11-24 05:05:10",
+      "album": {
+        "name": "40x",
+        "url": "https://open.spotify.com/album/2syjdE335q11f2DJ8bhhBo"
+      },
+      "artists": [
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        }
+      ],
+      "duration_ms": 148717,
+      "name": "40x",
+      "url": "https://open.spotify.com/track/0b8U8Ow5AgqHrWbIjr4aqk"
+    },
+    {
+      "added_at": "2023-11-24 05:05:10",
+      "album": {
+        "name": "The Usual",
+        "url": "https://open.spotify.com/album/2khlhFYg6henqe94VRdZi7"
+      },
+      "artists": [
+        {
+          "name": "Omarion",
+          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
+        }
+      ],
+      "duration_ms": 180412,
+      "name": "The Usual",
+      "url": "https://open.spotify.com/track/5x9fWc8iclfcPJRzV933qF"
+    },
+    {
+      "added_at": "2023-11-24 05:05:10",
+      "album": {
+        "name": "BUT IF iiM HONEST (Deluxe)",
+        "url": "https://open.spotify.com/album/60IL3MSpGD0i92uo4K0fdI"
+      },
+      "artists": [
+        {
+          "name": "RAAHiiM",
+          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
+        }
+      ],
+      "duration_ms": 122999,
+      "name": "Bodies",
+      "url": "https://open.spotify.com/track/79DROhb8BggADXpPCNzMZa"
+    },
+    {
+      "added_at": "2023-11-24 05:05:10",
+      "album": {
+        "name": "Thoughts I Never Said",
+        "url": "https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "emil",
+          "url": "https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb"
+        }
+      ],
+      "duration_ms": 181290,
+      "name": "Gave You My All",
+      "url": "https://open.spotify.com/track/2WEgOHRhsCMNiV4qcWNxAX"
+    },
+    {
+      "added_at": "2023-11-24 05:05:10",
+      "album": {
+        "name": "Foreigner (Remix)",
+        "url": "https://open.spotify.com/album/5uGTNlBHY623RJaSi1c5ZR"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        },
+        {
+          "name": "Projexx",
+          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
+        }
+      ],
+      "duration_ms": 233400,
+      "name": "Foreigner - Remix",
+      "url": "https://open.spotify.com/track/6XgQzX1QmQO5m7uVXqWEHE"
+    },
+    {
+      "added_at": "2023-11-24 05:05:10",
+      "album": {
+        "name": "Wish You Wouldn't",
+        "url": "https://open.spotify.com/album/1C0fzrQke15VOfaSRcuzBD"
+      },
+      "artists": [
+        {
+          "name": "Kali Claire",
+          "url": "https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x"
+        },
+        {
+          "name": "Sha\u00e9 Universe",
+          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
+        }
+      ],
+      "duration_ms": 197508,
+      "name": "Wish You Wouldn't",
+      "url": "https://open.spotify.com/track/4C9QPaM63xlVh4u6cqW1V6"
+    },
+    {
+      "added_at": "2023-11-24 05:05:10",
+      "album": {
+        "name": "Tell Nobody",
+        "url": "https://open.spotify.com/album/4ywZzKzeST3zTSCwd3UN7X"
+      },
+      "artists": [
+        {
+          "name": "Essosa",
+          "url": "https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY"
+        }
+      ],
+      "duration_ms": 169674,
+      "name": "Tell Nobody",
+      "url": "https://open.spotify.com/track/2tVDJV4m7XhHR1JO4DQQKR"
+    },
+    {
+      "added_at": "2023-11-24 05:05:10",
+      "album": {
+        "name": "I CANT FOCUS",
+        "url": "https://open.spotify.com/album/0oZVxKfC4LSENpYNbOZbYQ"
+      },
+      "artists": [
+        {
+          "name": "Che Ecru",
+          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
+        }
+      ],
+      "duration_ms": 142222,
+      "name": "Phasing",
+      "url": "https://open.spotify.com/track/0eogSUnD4yS7rVwAFAJWHA"
+    },
+    {
+      "added_at": "2023-11-24 05:05:10",
+      "album": {
+        "name": "A Timeless Christmas",
+        "url": "https://open.spotify.com/album/5IBq0A7yHPkYX9xf6tAEsi"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 215342,
+      "name": "A Timeless Christmas",
+      "url": "https://open.spotify.com/track/39UYaCYN5NtZQjWsdsWsqF"
+    },
+    {
+      "added_at": "2023-11-24 05:05:10",
+      "album": {
+        "name": "Guarded Woman",
+        "url": "https://open.spotify.com/album/1LghLb5csBU2PHkJwFhO5R"
+      },
+      "artists": [
+        {
+          "name": "Flozigg",
+          "url": "https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv"
+        }
+      ],
+      "duration_ms": 187692,
+      "name": "Guarded Woman",
+      "url": "https://open.spotify.com/track/7bMreGxJsh4atzKClAODGd"
+    },
+    {
+      "added_at": "2023-11-24 05:05:10",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/5heDsRjgWf63G0F3dzGEji"
+      },
+      "artists": [
+        {
+          "name": "Otis Kane",
+          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
+        }
+      ],
+      "duration_ms": 213546,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/2mAMcZ18iCU39tTF0PHvVx"
+    },
+    {
+      "added_at": "2023-11-24 05:05:10",
+      "album": {
+        "name": "A Beautiful Patience",
+        "url": "https://open.spotify.com/album/2GJDCkQDAygjTCYa5d78ww"
+      },
+      "artists": [
+        {
+          "name": "FACESOUL",
+          "url": "https://open.spotify.com/artist/0OcOX42YhjTjFbbiMRHBUC"
+        }
+      ],
+      "duration_ms": 203687,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/77ld03JoBuWZoFBcPVOSzb"
+    },
+    {
+      "added_at": "2023-11-24 05:05:10",
+      "album": {
+        "name": "Lover & Friend",
+        "url": "https://open.spotify.com/album/4Ccmc7eguhAphHJeOsfefZ"
+      },
+      "artists": [
+        {
+          "name": "Kadeem Tyrell",
+          "url": "https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh"
+        }
+      ],
+      "duration_ms": 177906,
+      "name": "Lover & Friend",
+      "url": "https://open.spotify.com/track/10m5CT42VKtDifUiAczDdk"
+    },
+    {
+      "added_at": "2023-11-24 05:05:10",
+      "album": {
+        "name": "Heaven On Earth",
+        "url": "https://open.spotify.com/album/7cxrsAsuhamOFXS0tY1EPr"
+      },
+      "artists": [
+        {
+          "name": "Baby Bash",
+          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
+        },
+        {
+          "name": "Mikey Jimenez",
+          "url": "https://open.spotify.com/artist/0DgdXuxVB3yXP5U54WZvSL"
+        }
+      ],
+      "duration_ms": 164331,
+      "name": "Heaven On Earth",
+      "url": "https://open.spotify.com/track/6JXizpl5Kd1VJiFv1VM58D"
+    },
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
@@ -2779,26 +3023,6 @@
     {
       "added_at": "2023-10-20 04:12:57",
       "album": {
-        "name": "Sy Ari & R&B Friends",
-        "url": "https://open.spotify.com/album/4enWSMyHHm4UjP15SlY03S"
-      },
-      "artists": [
-        {
-          "name": "Sy Ari Da Kid",
-          "url": "https://open.spotify.com/artist/5ZI5pbnKxA6Qy1fVNsjCp0"
-        },
-        {
-          "name": "Tink",
-          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
-        }
-      ],
-      "duration_ms": 192025,
-      "name": "Rebound",
-      "url": "https://open.spotify.com/track/0iKgNJfhZ6y8xF9wGVJjLU"
-    },
-    {
-      "added_at": "2023-10-20 04:12:57",
-      "album": {
         "name": "FEEL GOOD",
         "url": "https://open.spotify.com/album/4wZNmJws8kE6JTdnSaXP7L"
       },
@@ -2991,22 +3215,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Nearly Straight",
-        "url": "https://open.spotify.com/album/2aViIw8MflAIHHsPK5hXX9"
-      },
-      "artists": [
-        {
-          "name": "chlothegod",
-          "url": "https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx"
-        }
-      ],
-      "duration_ms": 156053,
-      "name": "Good Guys",
-      "url": "https://open.spotify.com/track/33qepYPIBzWlDVJtpV2oAK"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Close To You",
         "url": "https://open.spotify.com/album/6iW6njrciRWKrt2WiROpvK"
       },
@@ -3023,46 +3231,6 @@
       "duration_ms": 206460,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/7fun2GTQefXGiJ2uJk2svG"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/21W5SKtLnrfbBhlHY35K1V"
-      },
-      "artists": [
-        {
-          "name": "Alexia Jayy",
-          "url": "https://open.spotify.com/artist/13qhBGFWNzC29m0Cq2inta"
-        },
-        {
-          "name": "Big K.R.I.T.",
-          "url": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
-        }
-      ],
-      "duration_ms": 204591,
-      "name": "You",
-      "url": "https://open.spotify.com/track/3qt4QZ767NHveEpFva4Nz9"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Aries",
-        "url": "https://open.spotify.com/album/5V4G3SHuvRJQzNPbsE1evO"
-      },
-      "artists": [
-        {
-          "name": "Asal Hazel",
-          "url": "https://open.spotify.com/artist/0Qnzp2no3f8GqBNh7Jywtt"
-        },
-        {
-          "name": "Zacari",
-          "url": "https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI"
-        }
-      ],
-      "duration_ms": 194657,
-      "name": "Aries",
-      "url": "https://open.spotify.com/track/7pPZgM6AELtlf2Rp9TOL3X"
     },
     {
       "added_at": "2023-10-06 04:00:00",

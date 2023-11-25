@@ -4,7 +4,7 @@
 
 > Music from and inspired by Emily in Paris, new episodes now streaming!
 
-238 songs - 14 hr 7 min
+239 songs - 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,8 @@
 | [J'ai Deux Amours](https://open.spotify.com/track/1cCLS8B6Lq3AaCMQ9nDepD) | [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn) | [Emily In Paris Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/2MxZ2f68wKQKL7RNlKB2s0) | 3:01 | 2022-12-21 |  |
 | [Jackhammer](https://open.spotify.com/track/7vSGaDdWtWnw4wkAqygil4) | [Dmitri Belichenko](https://open.spotify.com/artist/63PgbqTgSdE6bWhGNcqw1g) | [Electro Circuit](https://open.spotify.com/album/4kjv0WWLxT90YlKGxuatse) | 2:42 | 2022-05-20 |  |
 | [Je ne te quitte pas](https://open.spotify.com/track/2iTASCclU14M5AXXuX9XG2) | [Fred Nevché](https://open.spotify.com/artist/72dcnDFjo3MFsrvpUAthMi) | [Valdevaqueros](https://open.spotify.com/album/3XMiMBIxEVMepYJJXD3uQZ) | 3:38 | 2022-05-20 |  |
-| [Je suis \- Tu hais](https://open.spotify.com/track/1s1DqwJZNCrSlFponDoD0k) | [KIZ](https://open.spotify.com/artist/2y7twK2fqUipb5Ef2hNrdO) | [Des tours](https://open.spotify.com/album/552jXwMYOCjcapSPZORvCQ) | 3:03 | 2022-05-20 |  |
+| [Je suis \- Tu hais](https://open.spotify.com/track/1s1DqwJZNCrSlFponDoD0k) | [KIZ](https://open.spotify.com/artist/2y7twK2fqUipb5Ef2hNrdO) | [Des tours](https://open.spotify.com/album/552jXwMYOCjcapSPZORvCQ) | 3:03 | 2022-05-20 | 2023-11-25 |
+| [Je suis \- Tu hais](https://open.spotify.com/track/5eMVfBYv22ad10rdZHYBjL) | [KIZ](https://open.spotify.com/artist/2y7twK2fqUipb5Ef2hNrdO) | [Des tours](https://open.spotify.com/album/3Yfu9yUPUVzIGAZZW8xzeT) | 3:03 | 2022-12-21 |  |
 | [Je suis venue te dire](https://open.spotify.com/track/5UspWXQneWFk669M9aZTlD) | [Insolente](https://open.spotify.com/artist/6lNweRKE0EoaN1jXSZSuPq) | [Je suis venue te dire](https://open.spotify.com/album/3hRirGJugaUvEcsJGsNBL6) | 2:45 | 2022-05-20 |  |
 | [Je T’appelle](https://open.spotify.com/track/5LS6l15r1QFAccHbxsb1IV) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Tout Autour De Nous](https://open.spotify.com/album/32JXrOWx2ebrYtB1isz11n) | 3:53 | 2022-12-21 |  |
 | [Je vole](https://open.spotify.com/track/5WdYHMbq9mIyS7MgApa9dC) | [Laure Briard](https://open.spotify.com/artist/01kBbtD0A37qtJ9EdA3Fm1) | [Sur la piste de danse](https://open.spotify.com/album/0at4gCqwXWf5lDktHsYilh) | 3:59 | 2022-12-21 |  |

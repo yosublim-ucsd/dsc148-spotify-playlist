@@ -1,12 +1,12 @@
 {
   "description": "Where nature and white noise meet.",
-  "num_followers": 909264,
+  "num_followers": 909357,
   "original_name": "Nature Noise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWMwYWEwNjc0NjgxZWJjOTQzYWY1NmFmNTg1NTQ1ZDJkYjcxOTUx",
+  "snapshot_id": "MCxlYjdlYTVkMTJmNDhiMzI3ZjRlZTk3ZjliNjEyYjg4YjViNTdiM2Iy",
   "tracks": [
     {
       "added_at": "2023-06-20 09:13:06",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
-        "name": "Green Noise For Sleep",
-        "url": "https://open.spotify.com/album/5FJxX8YnoQcjcxu4L9yea1"
-      },
-      "artists": [
-        {
-          "name": "Mind Noises",
-          "url": "https://open.spotify.com/artist/3zopqDmnylp1biwM4hg2gN"
-        }
-      ],
-      "duration_ms": 150966,
-      "name": "Pouring Noise",
-      "url": "https://open.spotify.com/track/6Ngp4e90mK3LdVPU9YTNAX"
-    },
-    {
-      "added_at": "2023-06-20 09:13:06",
-      "album": {
         "name": "Soothing Green Noise",
         "url": "https://open.spotify.com/album/4U0vt6QJHQrvrh4IRxO2pg"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 136550,
       "name": "Rainy Night - Sweet Spot Green Noise",
       "url": "https://open.spotify.com/track/4K1TQrctzubFO1My5EiyMh"
+    },
+    {
+      "added_at": "2023-06-20 09:13:06",
+      "album": {
+        "name": "Green Noise For Sleep",
+        "url": "https://open.spotify.com/album/5FJxX8YnoQcjcxu4L9yea1"
+      },
+      "artists": [
+        {
+          "name": "Mind Noises",
+          "url": "https://open.spotify.com/artist/3zopqDmnylp1biwM4hg2gN"
+        }
+      ],
+      "duration_ms": 150966,
+      "name": "Pouring Noise",
+      "url": "https://open.spotify.com/track/6Ngp4e90mK3LdVPU9YTNAX"
     },
     {
       "added_at": "2023-06-20 09:13:06",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
-        "name": "Paradise Noise",
-        "url": "https://open.spotify.com/album/44ADZZ3ukpWzUel2lt151f"
-      },
-      "artists": [
-        {
-          "name": "Hill Of Noise",
-          "url": "https://open.spotify.com/artist/5Kb33lObrpsXohW3VqcjHU"
-        }
-      ],
-      "duration_ms": 151579,
-      "name": "Aquatic Ambiance",
-      "url": "https://open.spotify.com/track/2UOtHeQGoHUFiHuz2ltGQA"
-    },
-    {
-      "added_at": "2023-06-20 09:13:06",
-      "album": {
         "name": "Stereo Waves",
         "url": "https://open.spotify.com/album/0jsBg94hPzWjFfGYUFwdJJ"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 154284,
       "name": "Stereo Waves",
       "url": "https://open.spotify.com/track/29DeShLV9kzW2RXeTpo8bX"
+    },
+    {
+      "added_at": "2023-06-20 09:13:06",
+      "album": {
+        "name": "Paradise Noise",
+        "url": "https://open.spotify.com/album/44ADZZ3ukpWzUel2lt151f"
+      },
+      "artists": [
+        {
+          "name": "Hill Of Noise",
+          "url": "https://open.spotify.com/artist/5Kb33lObrpsXohW3VqcjHU"
+        }
+      ],
+      "duration_ms": 151579,
+      "name": "Aquatic Ambiance",
+      "url": "https://open.spotify.com/track/2UOtHeQGoHUFiHuz2ltGQA"
     },
     {
       "added_at": "2023-06-20 09:13:06",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
-        "name": "California Ocean Sounds",
-        "url": "https://open.spotify.com/album/3or8OyLPvGttkcdl1TwXtQ"
-      },
-      "artists": [
-        {
-          "name": "Coastal Sounds",
-          "url": "https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx"
-        }
-      ],
-      "duration_ms": 169962,
-      "name": "Pacific Waves Crashing",
-      "url": "https://open.spotify.com/track/0AhBZXFDruygIhpiaCgSHG"
-    },
-    {
-      "added_at": "2023-06-20 09:13:06",
-      "album": {
         "name": "Oceanic Samples",
         "url": "https://open.spotify.com/album/2ffO6O5OI2XeIx02v1pdTt"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 173349,
       "name": "Oceanic Samples",
       "url": "https://open.spotify.com/track/7t87vcupUHamRBHfIOh1Rm"
+    },
+    {
+      "added_at": "2023-06-20 09:13:06",
+      "album": {
+        "name": "California Ocean Sounds",
+        "url": "https://open.spotify.com/album/3or8OyLPvGttkcdl1TwXtQ"
+      },
+      "artists": [
+        {
+          "name": "Coastal Sounds",
+          "url": "https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx"
+        }
+      ],
+      "duration_ms": 169962,
+      "name": "Pacific Waves Crashing",
+      "url": "https://open.spotify.com/track/0AhBZXFDruygIhpiaCgSHG"
     },
     {
       "added_at": "2023-06-20 09:13:06",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
+        "name": "Rainfall Place",
+        "url": "https://open.spotify.com/album/0XYQjSIyavsYfrPr7XiUsN"
+      },
+      "artists": [
+        {
+          "name": "Rainfall Place",
+          "url": "https://open.spotify.com/artist/12VKP0dcM6h7NRx0UPgqXX"
+        }
+      ],
+      "duration_ms": 142663,
+      "name": "Sleep Well Rain",
+      "url": "https://open.spotify.com/track/1uf2Q4KhwuhWJ7DFBDrGvZ"
+    },
+    {
+      "added_at": "2023-06-20 09:13:06",
+      "album": {
         "name": "Late Night Rain",
         "url": "https://open.spotify.com/album/3mVc5Qq7VqnhPKPaMgr4X0"
       },
@@ -1163,18 +1179,18 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
-        "name": "Rainfall Place",
-        "url": "https://open.spotify.com/album/0XYQjSIyavsYfrPr7XiUsN"
+        "name": "Nature",
+        "url": "https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ"
       },
       "artists": [
         {
-          "name": "Rainfall Place",
-          "url": "https://open.spotify.com/artist/12VKP0dcM6h7NRx0UPgqXX"
+          "name": "The Rainforest Collective",
+          "url": "https://open.spotify.com/artist/5DzuSKp2ib9DD7ZIeOg2sz"
         }
       ],
-      "duration_ms": 142663,
-      "name": "Sleep Well Rain",
-      "url": "https://open.spotify.com/track/1uf2Q4KhwuhWJ7DFBDrGvZ"
+      "duration_ms": 165296,
+      "name": "Zen Nature Sounds",
+      "url": "https://open.spotify.com/track/5AltIifJScpUdJyQNxf3oj"
     },
     {
       "added_at": "2023-06-20 09:13:06",
@@ -1211,22 +1227,6 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
-        "name": "Nature",
-        "url": "https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ"
-      },
-      "artists": [
-        {
-          "name": "The Rainforest Collective",
-          "url": "https://open.spotify.com/artist/5DzuSKp2ib9DD7ZIeOg2sz"
-        }
-      ],
-      "duration_ms": 165296,
-      "name": "Zen Nature Sounds",
-      "url": "https://open.spotify.com/track/5AltIifJScpUdJyQNxf3oj"
-    },
-    {
-      "added_at": "2023-06-20 09:13:06",
-      "album": {
         "name": "Nature Sounds",
         "url": "https://open.spotify.com/album/1T5VM6UfaORn0Un4X6vyip"
       },
@@ -1239,6 +1239,22 @@
       "duration_ms": 200960,
       "name": "Early Morning Birds",
       "url": "https://open.spotify.com/track/36rXKDCQDvYXG6nCjYOwRo"
+    },
+    {
+      "added_at": "2023-06-20 09:13:06",
+      "album": {
+        "name": "Natural Sound Makers",
+        "url": "https://open.spotify.com/album/6tZho0aym2p3qnh7JOYVih"
+      },
+      "artists": [
+        {
+          "name": "Natural Sound Makers",
+          "url": "https://open.spotify.com/artist/3Af6nKYYghPjQMNzRgVXe8"
+        }
+      ],
+      "duration_ms": 150726,
+      "name": "Dark Forest",
+      "url": "https://open.spotify.com/track/1n1qvg30KAOuNxfgR8jhSZ"
     },
     {
       "added_at": "2023-06-20 09:13:06",
@@ -1259,18 +1275,18 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
-        "name": "Natural Sound Makers",
-        "url": "https://open.spotify.com/album/6tZho0aym2p3qnh7JOYVih"
+        "name": "Rain Ambience",
+        "url": "https://open.spotify.com/album/1KTaSrFgB6KZfzJTxCWXIV"
       },
       "artists": [
         {
-          "name": "Natural Sound Makers",
-          "url": "https://open.spotify.com/artist/3Af6nKYYghPjQMNzRgVXe8"
+          "name": "Ambature",
+          "url": "https://open.spotify.com/artist/75H8JLJECgFwyMddSZSvIM"
         }
       ],
-      "duration_ms": 150726,
-      "name": "Dark Forest",
-      "url": "https://open.spotify.com/track/1n1qvg30KAOuNxfgR8jhSZ"
+      "duration_ms": 133021,
+      "name": "Rain Ambience",
+      "url": "https://open.spotify.com/track/0CBPKuwcdJpHiF1KtWKkg9"
     },
     {
       "added_at": "2023-06-20 09:13:06",
@@ -1303,22 +1319,6 @@
       "duration_ms": 258079,
       "name": "Shelter in the Forest",
       "url": "https://open.spotify.com/track/6vDu8yINpZR4zHGNLkxOV4"
-    },
-    {
-      "added_at": "2023-06-20 09:13:06",
-      "album": {
-        "name": "Rain Ambience",
-        "url": "https://open.spotify.com/album/1KTaSrFgB6KZfzJTxCWXIV"
-      },
-      "artists": [
-        {
-          "name": "Ambature",
-          "url": "https://open.spotify.com/artist/75H8JLJECgFwyMddSZSvIM"
-        }
-      ],
-      "duration_ms": 133021,
-      "name": "Rain Ambience",
-      "url": "https://open.spotify.com/track/0CBPKuwcdJpHiF1KtWKkg9"
     },
     {
       "added_at": "2023-06-20 09:13:06",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
-        "name": "P\u00e1jaros De La Ducha",
-        "url": "https://open.spotify.com/album/7mvwhOjWmC1A12udpUlgRL"
-      },
-      "artists": [
-        {
-          "name": "Los P\u00e1jaros Cantores",
-          "url": "https://open.spotify.com/artist/54rOAQdy1JZ7lmDX77MNOA"
-        }
-      ],
-      "duration_ms": 155295,
-      "name": "Sonido De Los P\u00e1jaros",
-      "url": "https://open.spotify.com/track/0GMZizrA12Ap9Vvbqcx16M"
-    },
-    {
-      "added_at": "2023-06-20 09:13:06",
-      "album": {
         "name": "3D Audio Textures of Birds & Water",
         "url": "https://open.spotify.com/album/0IVTahDgPVYrsC56rid7Mu"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 120664,
       "name": "Birds by the River",
       "url": "https://open.spotify.com/track/5Jf7lpi81Hgf80BgrZzYIP"
+    },
+    {
+      "added_at": "2023-06-20 09:13:06",
+      "album": {
+        "name": "P\u00e1jaros De La Ducha",
+        "url": "https://open.spotify.com/album/7mvwhOjWmC1A12udpUlgRL"
+      },
+      "artists": [
+        {
+          "name": "Los P\u00e1jaros Cantores",
+          "url": "https://open.spotify.com/artist/54rOAQdy1JZ7lmDX77MNOA"
+        }
+      ],
+      "duration_ms": 155295,
+      "name": "Sonido De Los P\u00e1jaros",
+      "url": "https://open.spotify.com/track/0GMZizrA12Ap9Vvbqcx16M"
     },
     {
       "added_at": "2023-06-20 09:13:06",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
-        "name": "Umbrella Stories",
-        "url": "https://open.spotify.com/album/2UBPrjPyeAerL59M9N6GQl"
-      },
-      "artists": [
-        {
-          "name": "Precip",
-          "url": "https://open.spotify.com/artist/2MvLKa31qeJOBzobqE10FX"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Rain Days On End",
-      "url": "https://open.spotify.com/track/3Jn8zSkXJjUgYY6BMt63HY"
-    },
-    {
-      "added_at": "2023-06-20 09:13:06",
-      "album": {
         "name": "Deep Sleep FX",
         "url": "https://open.spotify.com/album/1y3kDuu8NrB0O3wM9ge5uj"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 161239,
       "name": "Big Ocean Waves",
       "url": "https://open.spotify.com/track/7Lj7U5e9TgSz5TcSoD9SZs"
+    },
+    {
+      "added_at": "2023-06-20 09:13:06",
+      "album": {
+        "name": "Umbrella Stories",
+        "url": "https://open.spotify.com/album/2UBPrjPyeAerL59M9N6GQl"
+      },
+      "artists": [
+        {
+          "name": "Precip",
+          "url": "https://open.spotify.com/artist/2MvLKa31qeJOBzobqE10FX"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Rain Days On End",
+      "url": "https://open.spotify.com/track/3Jn8zSkXJjUgYY6BMt63HY"
     },
     {
       "added_at": "2023-06-20 09:13:06",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
-        "name": "Augmentation De La Temp\u00e9rature",
-        "url": "https://open.spotify.com/album/0ciLsFneHhbBdGSEj25KrV"
-      },
-      "artists": [
-        {
-          "name": "S'enfoncer Dans Le Paradis",
-          "url": "https://open.spotify.com/artist/6jjZLzJSJMBo8aKARuLucF"
-        }
-      ],
-      "duration_ms": 138205,
-      "name": "\u00c9lev\u00e9 Naturel",
-      "url": "https://open.spotify.com/track/5IxXSlodpE3vSMSDUtjktG"
-    },
-    {
-      "added_at": "2023-06-20 09:13:06",
-      "album": {
         "name": "Rain Sounds Vol. 1",
         "url": "https://open.spotify.com/album/5qyBJ814BTtn20m8dXbTxj"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 153054,
       "name": "Rain Falling Down",
       "url": "https://open.spotify.com/track/3v8tpKiO7zMZomEQh53cve"
+    },
+    {
+      "added_at": "2023-06-20 09:13:06",
+      "album": {
+        "name": "Augmentation De La Temp\u00e9rature",
+        "url": "https://open.spotify.com/album/0ciLsFneHhbBdGSEj25KrV"
+      },
+      "artists": [
+        {
+          "name": "S'enfoncer Dans Le Paradis",
+          "url": "https://open.spotify.com/artist/6jjZLzJSJMBo8aKARuLucF"
+        }
+      ],
+      "duration_ms": 138205,
+      "name": "\u00c9lev\u00e9 Naturel",
+      "url": "https://open.spotify.com/track/5IxXSlodpE3vSMSDUtjktG"
     },
     {
       "added_at": "2023-06-20 09:13:06",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
+        "name": "Nighttime Waves",
+        "url": "https://open.spotify.com/album/6Ya4idfkceVw1AmzjXeqeW"
+      },
+      "artists": [
+        {
+          "name": "Aurise",
+          "url": "https://open.spotify.com/artist/2hxzpIVNlctBSHKs4aUZkP"
+        }
+      ],
+      "duration_ms": 191600,
+      "name": "Soothing Lake Waves",
+      "url": "https://open.spotify.com/track/2FFkQBFoPY14EbwDijOOnG"
+    },
+    {
+      "added_at": "2023-06-20 09:13:06",
+      "album": {
         "name": "Volume 2",
         "url": "https://open.spotify.com/album/5JszjLduB2DL2yy9jAu92o"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 218500,
       "name": "Fall Asleep In The Rainforest",
       "url": "https://open.spotify.com/track/6laELth2IuDYyBx5hm4epM"
-    },
-    {
-      "added_at": "2023-06-20 09:13:06",
-      "album": {
-        "name": "Nighttime Waves",
-        "url": "https://open.spotify.com/album/6Ya4idfkceVw1AmzjXeqeW"
-      },
-      "artists": [
-        {
-          "name": "Aurise",
-          "url": "https://open.spotify.com/artist/2hxzpIVNlctBSHKs4aUZkP"
-        }
-      ],
-      "duration_ms": 191600,
-      "name": "Soothing Lake Waves",
-      "url": "https://open.spotify.com/track/2FFkQBFoPY14EbwDijOOnG"
     },
     {
       "added_at": "2023-06-20 09:13:06",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
-        "name": "Natural Relaxation",
-        "url": "https://open.spotify.com/album/4p5N8lC09TgcmcW5iELNXU"
-      },
-      "artists": [
-        {
-          "name": "Natsound",
-          "url": "https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw"
-        }
-      ],
-      "duration_ms": 151576,
-      "name": "Relaxing Rainscape",
-      "url": "https://open.spotify.com/track/7BEWCZV2lGvR5IjieCqTTK"
-    },
-    {
-      "added_at": "2023-06-20 09:13:06",
-      "album": {
         "name": "Rain Healing",
         "url": "https://open.spotify.com/album/4M1SM1am0TFgRp3RJOcjmX"
       },
@@ -1819,18 +1803,34 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
-        "name": "Cozy Forest Samples",
-        "url": "https://open.spotify.com/album/34k7ietjCtgJttd6kkHxAK"
+        "name": "Natural Relaxation",
+        "url": "https://open.spotify.com/album/4p5N8lC09TgcmcW5iELNXU"
       },
       "artists": [
         {
-          "name": "Hi Freq Samples",
-          "url": "https://open.spotify.com/artist/6DMErYWlNweJ8rNY62Q6jw"
+          "name": "Natsound",
+          "url": "https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw"
         }
       ],
-      "duration_ms": 135979,
-      "name": "Chill Forest",
-      "url": "https://open.spotify.com/track/7mu0BraDictq1Jj73bbyi4"
+      "duration_ms": 151576,
+      "name": "Relaxing Rainscape",
+      "url": "https://open.spotify.com/track/7BEWCZV2lGvR5IjieCqTTK"
+    },
+    {
+      "added_at": "2023-06-20 09:13:06",
+      "album": {
+        "name": "Wave Period",
+        "url": "https://open.spotify.com/album/75qHF82HCi47YOiDfgKX1Q"
+      },
+      "artists": [
+        {
+          "name": "Deeply Oceanic",
+          "url": "https://open.spotify.com/artist/5XxDTSUvUZnEOlY6plTe9v"
+        }
+      ],
+      "duration_ms": 164954,
+      "name": "Looking At The Ocean",
+      "url": "https://open.spotify.com/track/3EwIzgNyOL5siTxOaZL0fo"
     },
     {
       "added_at": "2023-06-20 09:13:06",
@@ -1851,18 +1851,18 @@
     {
       "added_at": "2023-06-20 09:13:06",
       "album": {
-        "name": "Wave Period",
-        "url": "https://open.spotify.com/album/75qHF82HCi47YOiDfgKX1Q"
+        "name": "Cozy Forest Samples",
+        "url": "https://open.spotify.com/album/34k7ietjCtgJttd6kkHxAK"
       },
       "artists": [
         {
-          "name": "Deeply Oceanic",
-          "url": "https://open.spotify.com/artist/5XxDTSUvUZnEOlY6plTe9v"
+          "name": "Hi Freq Samples",
+          "url": "https://open.spotify.com/artist/6DMErYWlNweJ8rNY62Q6jw"
         }
       ],
-      "duration_ms": 164954,
-      "name": "Looking At The Ocean",
-      "url": "https://open.spotify.com/track/3EwIzgNyOL5siTxOaZL0fo"
+      "duration_ms": 135979,
+      "name": "Chill Forest",
+      "url": "https://open.spotify.com/track/7mu0BraDictq1Jj73bbyi4"
     },
     {
       "added_at": "2023-06-20 09:13:06",

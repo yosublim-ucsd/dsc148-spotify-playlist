@@ -1,12 +1,12 @@
 {
   "description": "Soulful Hindi songs for your nostalgic journey. Cover - Mere Jeevan Saathi",
-  "num_followers": 312436,
+  "num_followers": 313086,
   "original_name": "Old is Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjdlNmI2Njk3Nzk3Yzc3NjFiOTUyMGU5ZTEyZmViZDI1NTdkZmE2",
+  "snapshot_id": "MCw0NTViMjJmNjI3YTc3NjIzNDNiZjU5YTFjNjg4YjFkNTVhYTNhNDBi",
   "tracks": [
     {
       "added_at": "2023-11-18 15:41:19",
@@ -43,38 +43,42 @@
     {
       "added_at": "2023-11-18 15:41:19",
       "album": {
-        "name": "Mohammed Rafi Songs, Vol.1",
-        "url": "https://open.spotify.com/album/4MEdd0I6Gin2VjWv4MN2e0"
+        "name": "Memoirically - Mohammed Rafi",
+        "url": "https://open.spotify.com/album/7EZdE0t7jl1HVelhq6OUej"
       },
       "artists": [
+        {
+          "name": "Sushma Shrestha",
+          "url": "https://open.spotify.com/artist/0AyqjTeFKxSNXJAJLLUaUJ"
+        },
         {
           "name": "Mohammed Rafi",
           "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
         }
       ],
-      "duration_ms": 258019,
-      "name": "Kya Hua Tera Wada",
-      "url": "https://open.spotify.com/track/4ac0I6Y1VgHMHduM9ZUUpR"
+      "duration_ms": 257985,
+      "name": "Kya Hua Tera Vada (From \"Hum Kisise Kum Naheen\")",
+      "url": "https://open.spotify.com/track/4j6c1euXhEl6y7HXObCV3s"
     },
     {
       "added_at": "2023-11-18 15:41:19",
       "album": {
-        "name": "RD Burman Songs - Vol.1",
-        "url": "https://open.spotify.com/album/5nSl8Ltv5CNKSjaVjtejjq"
+        "name": "Singing Icon - Asha Bhosle",
+        "url": "https://open.spotify.com/album/3dXlPx1XUd6VIMgXTwpnQ3"
       },
       "artists": [
         {
-          "name": "RD Burman",
-          "url": "https://open.spotify.com/artist/7tDNjA4ARFgCEn4JLPLiH4"
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
         },
         {
-          "name": "Asha Bhosle",
-          "url": "https://open.spotify.com/artist/77zgQIbFiMd5pD3oi9Wpix"
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
         }
       ],
-      "duration_ms": 287857,
-      "name": "Chura Liya hai Tumne Jo Dil Ko",
-      "url": "https://open.spotify.com/track/3TE0igTdhJgQKTjjYk2BpY"
+      "duration_ms": 287840,
+      "name": "Chura Liya Hai Tumne Jo Dil Ko (From \"Yaadon Ki Baaraat\")",
+      "url": "https://open.spotify.com/track/3ci9YeXRulpmFPDvqneVwc"
     },
     {
       "added_at": "2023-11-18 15:41:19",

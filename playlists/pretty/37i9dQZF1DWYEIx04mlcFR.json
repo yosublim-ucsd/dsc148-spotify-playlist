@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de artistas con Humbe en portada. \ud83c\udf0a\u2728 ",
-  "num_followers": 65712,
+  "num_followers": 65750,
   "original_name": "la pop~wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjE2YTQzY2U2MjgzNjAxM2IyNmFlODc1NzA2MWNmNDIxNjJlZGYy",
+  "snapshot_id": "MCxmZTBhZjZjMGNkNjNmNWYwMGE0MmUwY2Q4M2E1ZGNjY2FlZTllOGU0",
   "tracks": [
     {
       "added_at": "2023-11-03 06:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-10-21 01:26:40",
       "album": {
-        "name": "Terapia",
-        "url": "https://open.spotify.com/album/0DP0OKhjTQBnqko7fsP1BN"
-      },
-      "artists": [
-        {
-          "name": "Sofi Saar",
-          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
-        }
-      ],
-      "duration_ms": 162037,
-      "name": "Terapia",
-      "url": "https://open.spotify.com/track/6eXDTV3H1nhC6YgNnaE67g"
-    },
-    {
-      "added_at": "2023-10-21 01:26:40",
-      "album": {
         "name": "LO QUE PAS\u00d3 UNA VEZ",
         "url": "https://open.spotify.com/album/46AiJ3b8zW1Mg7L8oZHf8t"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 150013,
       "name": "LO QUE PAS\u00d3 UNA VEZ",
       "url": "https://open.spotify.com/track/3DEuPFTumozG70UjBuZDTL"
+    },
+    {
+      "added_at": "2023-10-21 01:26:40",
+      "album": {
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/0DP0OKhjTQBnqko7fsP1BN"
+      },
+      "artists": [
+        {
+          "name": "Sofi Saar",
+          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
+        }
+      ],
+      "duration_ms": 162037,
+      "name": "Terapia",
+      "url": "https://open.spotify.com/track/6eXDTV3H1nhC6YgNnaE67g"
     },
     {
       "added_at": "2023-10-21 01:26:40",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-10-21 01:26:40",
       "album": {
-        "name": "cansada de verte en todas partes",
-        "url": "https://open.spotify.com/album/2xpnndjYm4cHc3f207UNXf"
-      },
-      "artists": [
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        }
-      ],
-      "duration_ms": 170803,
-      "name": "cansada de verte en todas partes",
-      "url": "https://open.spotify.com/track/09uBE5fjZUWZfjD2ensCGR"
-    },
-    {
-      "added_at": "2023-10-21 01:26:40",
-      "album": {
         "name": "lalalala",
         "url": "https://open.spotify.com/album/3z4vVK3Og3nwyup77oC2ex"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 244235,
       "name": "lalalala",
       "url": "https://open.spotify.com/track/4dMVCg7imGhzLHazEskCBQ"
+    },
+    {
+      "added_at": "2023-10-21 01:26:40",
+      "album": {
+        "name": "cansada de verte en todas partes",
+        "url": "https://open.spotify.com/album/2xpnndjYm4cHc3f207UNXf"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "duration_ms": 170803,
+      "name": "cansada de verte en todas partes",
+      "url": "https://open.spotify.com/track/09uBE5fjZUWZfjD2ensCGR"
     },
     {
       "added_at": "2023-10-21 01:26:40",

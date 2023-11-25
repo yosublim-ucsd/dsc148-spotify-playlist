@@ -4,7 +4,7 @@
 
 > Lounge and chill out music for your workday.
 
-449 songs - 20 hr 0 min
+450 songs - 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,7 +413,7 @@
 | [Thursday Night \- Hypntc Remix](https://open.spotify.com/track/6eXO9dP7PcJLl4Lb01bcIY) | [Mr\. Hilroy](https://open.spotify.com/artist/1SDhLZ6y3x0OEGEHZ96K2T), [Hypntc](https://open.spotify.com/artist/40WuCSBpNDy6QCmhmZrl1E) | [Thursday Night \(Hypntc Remix\)](https://open.spotify.com/album/0wgzXKKVN6CQRU7XRsW6Sx) | 3:20 | 2022-07-01 |  |
 | [Till dig](https://open.spotify.com/track/2qcPi2BKIrArJ0Cnb06kqC) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Ta Paus](https://open.spotify.com/album/4sWUPjRnNBlT7GYfU9aPaU) | 3:35 | 2021-11-10 | 2022-07-08 |
 | [Time](https://open.spotify.com/track/7AlUplIMwg0AFXK4Ypj1KD) | [The Peaceful Beats Project](https://open.spotify.com/artist/2HxsVVdPzarYSgmY3UAtCB) | [Focus Inside](https://open.spotify.com/album/6j0BaPQlbezfWxEcVB7CLB) | 2:57 | 2021-11-10 | 2022-05-20 |
-| [Time Imprisoned](https://open.spotify.com/track/0LbCtG6IBveEF7MejHErAM) | [Audio Scavengers](https://open.spotify.com/artist/5dqce9cvgiZ0WAX7x7HxVa) | [Time Imprisoned](https://open.spotify.com/album/679DOisO4TQwg5UR3WKWP5) | 2:50 | 2022-06-17 |  |
+| [Time Imprisoned](https://open.spotify.com/track/0LbCtG6IBveEF7MejHErAM) | [Audio Scavengers](https://open.spotify.com/artist/5dqce9cvgiZ0WAX7x7HxVa) | [Time Imprisoned](https://open.spotify.com/album/679DOisO4TQwg5UR3WKWP5) | 2:50 | 2022-06-17 | 2023-11-25 |
 | [Time Warped](https://open.spotify.com/track/3hNBfFtEyb4qFhaSLrvQi2) | [Kaj Lee](https://open.spotify.com/artist/21w3W6pw3KRqaaX3DhiVFG) | [Time Warped](https://open.spotify.com/album/6ghwOw5CnwlFmgM26gG9EQ) | 1:58 | 2021-11-10 | 2022-04-06 |
 | [To you](https://open.spotify.com/track/7hPqGFVUZHdKGLS7xQIwd0) | [Silk Soul](https://open.spotify.com/artist/2DgL3THTMvM0MfSTaYYMAI) | [To you](https://open.spotify.com/album/2pUZkKAIngyGI5yJH7fz8e) | 1:51 | 2022-11-25 | 2023-07-29 |
 | [Tombstone Diploma](https://open.spotify.com/track/5jL5LiIeD5eJ3kTvrx2D6K) | [The Pleasure Principle](https://open.spotify.com/artist/2P9Z65sQszXemqiA6s71es) | [Solvable](https://open.spotify.com/album/3ygEnJjQY0S9mDyYy2sVcB) | 3:48 | 2021-11-10 | 2022-09-09 |
@@ -452,6 +452,7 @@
 | [Wishes](https://open.spotify.com/track/2spvatSBWwVXUVT8EIzjts) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Wishes](https://open.spotify.com/album/2gGOKB9hjdPnYyQkAdNHPS) | 3:01 | 2021-11-10 | 2022-04-06 |
 | [Wonderland](https://open.spotify.com/track/7zo53YenWv2I2cSRxkM24D) | [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe) | [Wonderland](https://open.spotify.com/album/1IJODkkOhE5bBgcGoev3sZ) | 2:27 | 2022-05-27 |  |
 | [Yama](https://open.spotify.com/track/5S94oJQP87jbUfsDZ2uj4h) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Kantan](https://open.spotify.com/album/0EsACGm8MKS86WzhvWUV2K) | 3:13 | 2021-11-10 | 2023-04-22 |
+| [You Bring Me Joy](https://open.spotify.com/track/0QuRKVBqzM0M3OBD8fkbbl) | [Pierre Sloane](https://open.spotify.com/artist/3G1f9LnHpTlrX8gANDYXuH) | [You Bring Me Joy](https://open.spotify.com/album/4kqLcy9CZENOXuG3Hfwsew) | 4:04 | 2023-11-24 |  |
 | [You Did Good](https://open.spotify.com/track/1VQDFJkBUwz9e0OF0IzTuY) | [Underself](https://open.spotify.com/artist/7rw99EZC3keTqq7BH7a6qF) | [This too shall pass](https://open.spotify.com/album/4alH4oDSO2AZtDLZE7cjf4) | 1:44 | 2023-04-21 | 2023-07-29 |
 | [Youth](https://open.spotify.com/track/0w1Bmnum1Fk0Unjy5Ok2ov) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj) | [Youth](https://open.spotify.com/album/1qOuL7TsLLRCTDMFXCCnGm) | 2:24 | 2022-09-02 |  |
 | [Zakky](https://open.spotify.com/track/0hZ2N9qQUApVWKWR1allC5) | [K9 Division](https://open.spotify.com/artist/14mNenIi1W5u68fvDTd7ES) | [Zakky](https://open.spotify.com/album/0qoRty23FJ6Whk9gQQvBIT) | 2:35 | 2021-11-10 | 2022-07-08 |

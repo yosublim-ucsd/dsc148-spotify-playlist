@@ -1161,6 +1161,24 @@
     },
     {
       "album": {
+        "name": "Caf\u00e9",
+        "url": "https://open.spotify.com/album/5exniSTn2LGUbnFHkTnLHL"
+      },
+      "artists": [
+        {
+          "name": "Stefano",
+          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218604,
+      "name": "Caf\u00e9",
+      "url": "https://open.spotify.com/track/2VgA9S2cBOCsxo9JhTa5Ub"
+    },
+    {
+      "album": {
         "name": "CAIXA POSTAL",
         "url": "https://open.spotify.com/album/3DXoL1hqiTstYZgFBtCo9c"
       },
@@ -1465,6 +1483,28 @@
     },
     {
       "album": {
+        "name": "FESTA",
+        "url": "https://open.spotify.com/album/6nmgQuG4dzK2Y3lV7uPZeA"
+      },
+      "artists": [
+        {
+          "name": "kamaitachi",
+          "url": "https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm"
+        },
+        {
+          "name": "Maraia Takai",
+          "url": "https://open.spotify.com/artist/1bKvSW0ik3iCkophyJbo5B"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200007,
+      "name": "Clarice",
+      "url": "https://open.spotify.com/track/190dGHiYz1z0g6I7TrJKMR"
+    },
+    {
+      "album": {
         "name": "Codinome Beija-Flor",
         "url": "https://open.spotify.com/album/2aoPktEuK22sa3LfIzXVBv"
       },
@@ -1678,7 +1718,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 225000,
       "name": "Conex\u00e3o",
       "url": "https://open.spotify.com/track/2EWaBErOpttybo792PEzIB"
@@ -2630,7 +2670,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 194583,
       "name": "e se for pra ser sincera:",
       "url": "https://open.spotify.com/track/1b0xzVRr8fIGa8dftdW3S8"
@@ -3932,7 +3972,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 154137,
       "name": "Idiota Raiz (Deixa Ir)",
       "url": "https://open.spotify.com/track/1T9yLjCFIh5IcE2NXjNPjd"
@@ -4480,7 +4520,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 157000,
       "name": "Mal Te Conhe\u00e7o - Ao Vivo",
       "url": "https://open.spotify.com/track/7Jd7K1nYzdycz1DuY9RH1m"
@@ -5184,7 +5224,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 161540,
       "name": "Nem Eu Me Entendo",
       "url": "https://open.spotify.com/track/6FU5kC8lWZiIOgApwwH33S"
@@ -6869,6 +6909,28 @@
     },
     {
       "album": {
+        "name": "Quero Bem Mais",
+        "url": "https://open.spotify.com/album/67c6vSA5eLN2Q98gIuzdNL"
+      },
+      "artists": [
+        {
+          "name": "Luana Berti",
+          "url": "https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T"
+        },
+        {
+          "name": "Fuze",
+          "url": "https://open.spotify.com/artist/07XCF6HHgQfcYd2Gapo3Jq"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197052,
+      "name": "Quero Bem Mais",
+      "url": "https://open.spotify.com/track/3lLiOQwcKrnus49E9CuBNh"
+    },
+    {
+      "album": {
         "name": "Cora\u00e7\u00e3o/Movimento",
         "url": "https://open.spotify.com/album/7vcOFM1SoQ3cDiZBS2ME1T"
       },
@@ -8171,6 +8233,28 @@
     },
     {
       "album": {
+        "name": "Tela Crua",
+        "url": "https://open.spotify.com/album/2jeDKTduy4R3kG2gVgTjVC"
+      },
+      "artists": [
+        {
+          "name": "Babi Ceresa",
+          "url": "https://open.spotify.com/artist/6j6YUS7ZfbpHmphffIBqWY"
+        },
+        {
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225501,
+      "name": "Tela Crua",
+      "url": "https://open.spotify.com/track/3w7DZzCH9557MSCAcC3AHL"
+    },
+    {
+      "album": {
         "name": "Tempo Demais",
         "url": "https://open.spotify.com/album/4PuaH09i9aiaXA4cx6Xlxd"
       },
@@ -8787,6 +8871,32 @@
     },
     {
       "album": {
+        "name": "T\u00e3o Bem (Atemporal Remix)",
+        "url": "https://open.spotify.com/album/3nPik6VafRjWml3JEbEOBh"
+      },
+      "artists": [
+        {
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148728,
+      "name": "T\u00e3o Bem - Atemporal Remix",
+      "url": "https://open.spotify.com/track/4tVq0nZb8el6tdUvEzvl8N"
+    },
+    {
+      "album": {
         "name": "T\u00e3o Cedo",
         "url": "https://open.spotify.com/album/3TRx3qK9shSrMqn6TUpgDa"
       },
@@ -8899,6 +9009,28 @@
     },
     {
       "album": {
+        "name": "Um dia de domingo",
+        "url": "https://open.spotify.com/album/6UsutqrIyl5NVGoP4i4hoz"
+      },
+      "artists": [
+        {
+          "name": "Lucas Mamede",
+          "url": "https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD"
+        },
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251903,
+      "name": "Um dia de domingo",
+      "url": "https://open.spotify.com/track/4Hnc4ewhudTuDkXiyZ39Vm"
+    },
+    {
+      "album": {
         "name": "Bruna Magalh\u00e3es",
         "url": "https://open.spotify.com/album/4EgPhNp6NjZ7Q7Wt8tvvPf"
       },
@@ -8950,7 +9082,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 177099,
       "name": "Um, Dois, Tr\u00eas",
       "url": "https://open.spotify.com/track/4TB1pJy7ReBCbJtO1b4U7i"

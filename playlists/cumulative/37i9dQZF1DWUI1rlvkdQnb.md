@@ -4,7 +4,7 @@
 
 > Soft, relaxing music for workout recovery.
 
-183 songs - 9 hr 38 min
+184 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Central Park](https://open.spotify.com/track/4RW3rLdFGTmGWRFe5G6epg) | [N.Y\. Atmosphere](https://open.spotify.com/artist/46gZdK1zqsEEbwUtuXKmUb) | [N.Y\. Atmosphere](https://open.spotify.com/album/7GzZ1PrE5t47Nkm05EsRwQ) | 4:22 | 2021-12-10 | 2022-07-29 |
 | [Central Park](https://open.spotify.com/track/4YxNuvFXpexe20Wendz4aj) | [N.Y\. Atmosphere](https://open.spotify.com/artist/46gZdK1zqsEEbwUtuXKmUb) | [ECO SPA MUSIC, Vol\. 1](https://open.spotify.com/album/0TRZ2ieyLcZuk7MPqqtAbA) | 4:22 | 2022-10-21 | 2022-11-13 |
 | [Changes Within](https://open.spotify.com/track/4hdZ8pWXvypfP0FrQTVwCs) | [Momento](https://open.spotify.com/artist/2HD6u9F4pocPtFgmev72AK) | [A Moment of Peace](https://open.spotify.com/album/5tmAu34wwfkAzZrQZZqa3M) | 2:55 | 2021-12-10 |  |
-| [Colors Of The Moon](https://open.spotify.com/track/2m9dwTEyYuMREZTttiFKmF) | [Mandala Dreams](https://open.spotify.com/artist/3i1TDsrVS40yt81IHvWkg1) | [Winds Of Fuji](https://open.spotify.com/album/4QKngpNjlNhdHLESKhcbde) | 3:49 | 2022-06-29 |  |
+| [Colors Of The Moon](https://open.spotify.com/track/2m9dwTEyYuMREZTttiFKmF) | [Mandala Dreams](https://open.spotify.com/artist/3i1TDsrVS40yt81IHvWkg1) | [Winds Of Fuji](https://open.spotify.com/album/4QKngpNjlNhdHLESKhcbde) | 3:49 | 2022-06-29 | 2023-11-25 |
 | [Colors Of The Moon](https://open.spotify.com/track/7oJTS0gsP7c97MrpYOAprd) | [Mandala Dreams](https://open.spotify.com/artist/3i1TDsrVS40yt81IHvWkg1) | [Winds Of Fuji](https://open.spotify.com/album/6kIQSKwUKjiE4hxxMyMkBc) | 3:49 | 2021-12-10 | 2022-07-29 |
 | [Conscience](https://open.spotify.com/track/19ilGQQEukiGNg4XSC5JbN) | [Kotono Tanaka](https://open.spotify.com/artist/2uEVl0y8kXD2i1zFhFt7vT) | [Conscience](https://open.spotify.com/album/2SSgsApJySq0Bjv3mdvTus) | 4:08 | 2021-12-10 |  |
 | [Cosmic Awareness](https://open.spotify.com/track/1CfnsH44lFQ6aqCEdUHmTs) | [Out Of Gravity](https://open.spotify.com/artist/4TFNHaPqofW42WWVafTX7o) | [Cosmic Awareness](https://open.spotify.com/album/5DvEjmp3yXZX3R6crfA87c) | 4:28 | 2022-11-11 | 2022-11-13 |
@@ -65,6 +65,7 @@
 | [Findings](https://open.spotify.com/track/343ddQVZOlgpQ4FWiSwMHP) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [Findings](https://open.spotify.com/album/5qyeAgJQ1rk0uRZcjgCGMc) | 3:22 | 2021-12-10 | 2022-07-29 |
 | [Findings](https://open.spotify.com/track/47fsmEwOq739Cy3pzUgWIQ) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [Findings](https://open.spotify.com/album/3clSZEB0Fg1q8HE6Ckp2ya) | 3:22 | 2022-06-29 | 2022-08-13 |
 | [Floating](https://open.spotify.com/track/1G4QmXMFFPKypYFfZaV3Mg) | [Suraj Ives](https://open.spotify.com/artist/4VPaJH2YvHn7jNz6SVVgwn) | [Floating](https://open.spotify.com/album/7KTojG9yqTuKlodp0F69oK) | 3:37 | 2022-11-11 |  |
+| [Floating mountains](https://open.spotify.com/track/5io4X8nDxnVCU3wp25U4WI) | [Dream WIzard](https://open.spotify.com/artist/6ykiEbUBL5ud2RR3QY32o7) | [Floating mountains](https://open.spotify.com/album/2QKzH0nFv4CrRCGOwYwJH3) | 2:52 | 2023-11-24 |  |
 | [For A While](https://open.spotify.com/track/5Tjrn34j1dJWe3LUpul75B) | [Astrid Whitlock](https://open.spotify.com/artist/2CJRRtlFgGB0RXblglfayQ) | [For A While](https://open.spotify.com/album/7b9wbQZHYq0R0LU7R7Q9NV) | 3:12 | 2023-04-28 |  |
 | [Fragments Café](https://open.spotify.com/track/0BIStdXlI7hvMEkIfROFUt) | [Paris Atmosphere](https://open.spotify.com/artist/7nd5uBLriymq37OCBKq71k) | [Paris Atmosphere](https://open.spotify.com/album/0hEKprQBXJUWFSgrYxbGYb) | 3:54 | 2022-06-29 | 2022-08-13 |
 | [Fragments Café](https://open.spotify.com/track/3jg4Z0yPJsVx5M3BOYkBS0) | [Paris Atmosphere](https://open.spotify.com/artist/7nd5uBLriymq37OCBKq71k) | [Paris Atmosphere](https://open.spotify.com/album/71Ao0d8AcoKZdzOFhZzScO) | 3:54 | 2021-12-10 | 2022-07-29 |

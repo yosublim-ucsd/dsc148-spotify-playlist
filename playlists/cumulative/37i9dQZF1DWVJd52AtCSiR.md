@@ -4,7 +4,7 @@
 
 > Discover the classical side of your favourite Disney soundtracks.
 
-144 songs - 7 hr 29 min
+145 songs - 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [When She Loved Me \- From "Toy Story 2"](https://open.spotify.com/track/6Rz0Ht00jj8yjUeP0ney4I) | [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [The Opera Men](https://open.spotify.com/artist/6CaENxjIBtdu7ZXB7qCd1T) | [When She Loved Me \(From "Toy Story 2"\)](https://open.spotify.com/album/15SoSouyEIVpwgTzFvtQ7k) | 3:01 | 2021-10-07 | 2022-07-16 |
 | [When You Wish Upon A Star \- From "Pinocchio"](https://open.spotify.com/track/6dGmcGtoUrFlwDJzKcr6wo) | [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Renée Fleming](https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8) | [When You Wish Upon A Star \(From "Pinocchio"\)](https://open.spotify.com/album/5ICAp1saglWkMTnzeEfRcr) | 4:00 | 2021-10-07 | 2022-07-16 |
 | [Will He Shoemaker?](https://open.spotify.com/track/57oVp2b8qARYTp8XbVkDaZ) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 3:17 | 2021-10-07 | 2022-09-03 |
+| [Wish End Credits Score Suite](https://open.spotify.com/track/19dvqMf7ISpCdS6BQMOO9e) | [Dave Metzger](https://open.spotify.com/artist/4xYAJbccuTDFnsuA4FzCSr) | [Wish: El Poder de los Deseos \(Banda Sonora Original en Castellano/Deluxe Edition\)](https://open.spotify.com/album/6IMSwtfUQS8sWXU6HclYBl) | 4:31 | 2023-11-24 |  |
 | [You Can Never Belong](https://open.spotify.com/track/3hxmdwLdmjSwV15ahceHY7) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Lilo & Stitch](https://open.spotify.com/album/0tNLpUZfJKyxMS0nKlnyXP) | 3:54 | 2021-10-07 | 2022-07-16 |
 | [You'll Be in My Heart](https://open.spotify.com/track/15DB0qZcbqxSkvjqGM9bds) | [Disney Peaceful Strings](https://open.spotify.com/artist/1kjDZ3RgSHfx5VES0rF6e0) | [Disney Peaceful Strings: Relax](https://open.spotify.com/album/6cBNz6y4BwjCFKawzy55mW) | 3:50 | 2023-01-09 |  |
 | [You've Got A Friend In Me \- From "Toy Story"](https://open.spotify.com/track/0Dc5fbpiEcLYnYajH8FqDt) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [You've Got A Friend In Me \(From "Toy Story"\)](https://open.spotify.com/album/6lArXn3181ZklgXGXdFdqk) | 4:12 | 2023-08-04 |  |

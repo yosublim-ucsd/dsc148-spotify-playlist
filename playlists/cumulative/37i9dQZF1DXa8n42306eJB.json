@@ -223,6 +223,24 @@
     },
     {
       "album": {
+        "name": "Casanova",
+        "url": "https://open.spotify.com/album/0XFw2p6US2uootA3nofB65"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218720,
+      "name": "Casanova",
+      "url": "https://open.spotify.com/track/4lJLnVBDuYMj6Knll4Wcnc"
+    },
+    {
+      "album": {
         "name": "Hazel Eyes",
         "url": "https://open.spotify.com/album/5UW0VIeQ1cgfXJxGqddBm1"
       },
@@ -332,7 +350,7 @@
       ],
       "date_added": "2021-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-25",
       "duration_ms": 199600,
       "name": "Corona and Lime",
       "url": "https://open.spotify.com/track/4mu0eDIt9weCJ6gG3Lox71"
@@ -2146,6 +2164,36 @@
       "duration_ms": 214206,
       "name": "Smokin' Love (with Collie Buddz)",
       "url": "https://open.spotify.com/track/3D7cUXDEKLAFsoD10QRoiR"
+    },
+    {
+      "album": {
+        "name": "Soldiers of Fire",
+        "url": "https://open.spotify.com/album/2XoWy9j7qBcw9SwLDsHAEd"
+      },
+      "artists": [
+        {
+          "name": "Tiki Taane",
+          "url": "https://open.spotify.com/artist/31ACkQCBFwLQGxN8MwfSrO"
+        },
+        {
+          "name": "Tali",
+          "url": "https://open.spotify.com/artist/2IzewUY71zuiCmfPZWahxv"
+        },
+        {
+          "name": "Pdigsss",
+          "url": "https://open.spotify.com/artist/596zbRjlzKiJ71goKlAJ01"
+        },
+        {
+          "name": "Dub FX",
+          "url": "https://open.spotify.com/artist/4ucW1LE5T7y7X4jlaKCeVo"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285000,
+      "name": "Soldiers of Fire",
+      "url": "https://open.spotify.com/track/5nF92ePaTss9lGEzZhhiYb"
     },
     {
       "album": {

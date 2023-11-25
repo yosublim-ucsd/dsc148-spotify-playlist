@@ -1,12 +1,12 @@
 {
   "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: Tyla",
-  "num_followers": 1786740,
+  "num_followers": 1786815,
   "original_name": "Channel-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTFhM2RiZWIzM2VkN2ZiNzJmZTQ2YTAxN2JiMzM3ZDYzZmQxOTEw",
+  "snapshot_id": "MCxmMzcxZDRiNmVmZGNiYjEyYjI3ZGQwODJlZDg4NzYwMTEzNTY3NDEx",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -277,6 +277,22 @@
       "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
     },
     {
+      "added_at": "2023-11-24 05:24:22",
+      "album": {
+        "name": "40x",
+        "url": "https://open.spotify.com/album/2syjdE335q11f2DJ8bhhBo"
+      },
+      "artists": [
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        }
+      ],
+      "duration_ms": 148717,
+      "name": "40x",
+      "url": "https://open.spotify.com/track/0b8U8Ow5AgqHrWbIjr4aqk"
+    },
+    {
       "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Larger Than Life",
@@ -419,6 +435,30 @@
       "duration_ms": 142613,
       "name": "Angels in Tibet",
       "url": "https://open.spotify.com/track/23uUytja1B1mUOOIoygf6u"
+    },
+    {
+      "added_at": "2023-11-24 05:24:22",
+      "album": {
+        "name": "Foreigner (Remix)",
+        "url": "https://open.spotify.com/album/5uGTNlBHY623RJaSi1c5ZR"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        },
+        {
+          "name": "Projexx",
+          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
+        }
+      ],
+      "duration_ms": 233400,
+      "name": "Foreigner - Remix",
+      "url": "https://open.spotify.com/track/6XgQzX1QmQO5m7uVXqWEHE"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1189,26 +1229,6 @@
       "url": "https://open.spotify.com/track/7g6FlLHxbVqMi1s7S8tDTp"
     },
     {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "7 SEAS",
-        "url": "https://open.spotify.com/album/3iOGCPhPYsNTpgtfjFnhOc"
-      },
-      "artists": [
-        {
-          "name": "June Freedom",
-          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
-        },
-        {
-          "name": "Na\u00efka",
-          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
-        }
-      ],
-      "duration_ms": 186500,
-      "name": "Messi",
-      "url": "https://open.spotify.com/track/18PbcGonKcBN61OU7vdPt7"
-    },
-    {
       "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Party No Dey Stop (JayO & Byron Messia Remix)",
@@ -1363,54 +1383,6 @@
       "duration_ms": 181283,
       "name": "Low Waist",
       "url": "https://open.spotify.com/track/5rb99A8aR2scVXSLIbLAft"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Waistline",
-        "url": "https://open.spotify.com/album/627d1VuZD4LwTuFnND4eVR"
-      },
-      "artists": [
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        }
-      ],
-      "duration_ms": 166070,
-      "name": "Waistline",
-      "url": "https://open.spotify.com/track/1W8pwkDbdMBo1Whf4pkVLU"
-    },
-    {
-      "added_at": "2023-09-08 05:00:45",
-      "album": {
-        "name": "Bestie",
-        "url": "https://open.spotify.com/album/6kRPeBs9unh27QfKtYy0GE"
-      },
-      "artists": [
-        {
-          "name": "Rotimi",
-          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Bestie",
-      "url": "https://open.spotify.com/track/0O3oO62iQhp16xX0Z7lqNW"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "SANTIAGO",
-        "url": "https://open.spotify.com/album/3mX0HbDt7oIzBBJHgQYnDY"
-      },
-      "artists": [
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        }
-      ],
-      "duration_ms": 166165,
-      "name": "Fatima",
-      "url": "https://open.spotify.com/track/2588441h1sHx0FPPXBFoLd"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -1789,26 +1761,6 @@
       "url": "https://open.spotify.com/track/7msMFkuYQdBaJhiav2UrM1"
     },
     {
-      "added_at": "2023-07-28 07:18:54",
-      "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 274137,
-      "name": "DELRESTO (ECHOES) (feat. Beyonc\u00e9)",
-      "url": "https://open.spotify.com/track/0OEe83mMZ5kaNw5uZQ7ilG"
-    },
-    {
       "added_at": "2023-08-25 04:00:00",
       "album": {
         "name": "Lifesize Teddy",
@@ -1861,22 +1813,6 @@
       "url": "https://open.spotify.com/track/3sQWzLuYeu8dOVTrYwkFlf"
     },
     {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Oasis",
-        "url": "https://open.spotify.com/album/2fgwCq2iDn5dM1ZYaDQ1du"
-      },
-      "artists": [
-        {
-          "name": "AMAKA",
-          "url": "https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa"
-        }
-      ],
-      "duration_ms": 164848,
-      "name": "Oasis",
-      "url": "https://open.spotify.com/track/4sBXBfLLlDC1NR99JAjVFm"
-    },
-    {
       "added_at": "2023-05-19 06:33:06",
       "album": {
         "name": "What It Is (Versions)",
@@ -1891,22 +1827,6 @@
       "duration_ms": 189824,
       "name": "What It Is (Solo Version)",
       "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
-    },
-    {
-      "added_at": "2023-09-08 05:00:45",
-      "album": {
-        "name": "Whatchu Want",
-        "url": "https://open.spotify.com/album/2nbF4d0GtsO3N9xowbpWKt"
-      },
-      "artists": [
-        {
-          "name": "Citizen Queen",
-          "url": "https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz"
-        }
-      ],
-      "duration_ms": 175642,
-      "name": "Whatchu Want",
-      "url": "https://open.spotify.com/track/5YU1xqvXsXDnhbhu6bRprY"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -2047,22 +1967,6 @@
       "duration_ms": 164210,
       "name": "EGO - ESTA. Remix",
       "url": "https://open.spotify.com/track/4krZyLAZUp2rjgd4yInA8Q"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "Silver Platter (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/79RZZV5Z6Y3Is9716GwJOn"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 165670,
-      "name": "Silver Platter (From Barbie The Album)",
-      "url": "https://open.spotify.com/track/7ru8nP5fLduJ94O54K4Uhl"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2457,22 +2361,6 @@
       "url": "https://open.spotify.com/track/6qtiBwLiezRyj82NVKfvez"
     },
     {
-      "added_at": "2023-07-14 15:37:12",
-      "album": {
-        "name": "1st Lady",
-        "url": "https://open.spotify.com/album/79gSwusnEUZB9tRNuiTVa5"
-      },
-      "artists": [
-        {
-          "name": "Childish Major",
-          "url": "https://open.spotify.com/artist/4bMNzAopkqYTwkBLwMKsF1"
-        }
-      ],
-      "duration_ms": 192078,
-      "name": "1st Lady",
-      "url": "https://open.spotify.com/track/4KNry6US58GNebuDaiYfHD"
-    },
-    {
       "added_at": "2023-07-07 04:00:00",
       "album": {
         "name": "3 of Us",
@@ -2523,26 +2411,6 @@
       "duration_ms": 163675,
       "name": "Where You Go (with Khalid)",
       "url": "https://open.spotify.com/track/5NnCdjUp7MDG1Qas8AVbdY"
-    },
-    {
-      "added_at": "2023-06-16 05:15:23",
-      "album": {
-        "name": "How Soon",
-        "url": "https://open.spotify.com/album/1JL6Vatn02HjOJtxL1eHrt"
-      },
-      "artists": [
-        {
-          "name": "ASTN",
-          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
-        },
-        {
-          "name": "Alex Vaughn",
-          "url": "https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq"
-        }
-      ],
-      "duration_ms": 189740,
-      "name": "How Soon",
-      "url": "https://open.spotify.com/track/3GWvVMl4jh3Ix2xC3DpfWP"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -2967,26 +2835,6 @@
       "duration_ms": 137142,
       "name": "HALLELUJAH (feat. Blaqbonez)",
       "url": "https://open.spotify.com/track/05pGxMUPDOu3lQVDMg6nqS"
-    },
-    {
-      "added_at": "2023-05-05 05:50:55",
-      "album": {
-        "name": "Full Circle : Sonic Book One",
-        "url": "https://open.spotify.com/album/0ZTwFe2keKG5kkROe5Unf7"
-      },
-      "artists": [
-        {
-          "name": "Omarion",
-          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
-        },
-        {
-          "name": "Sevyn Streeter",
-          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
-        }
-      ],
-      "duration_ms": 132021,
-      "name": "Love Me Right",
-      "url": "https://open.spotify.com/track/4iDjnpw9LVl20pDoCDtOSM"
     },
     {
       "added_at": "2023-03-03 05:05:07",

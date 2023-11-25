@@ -4,7 +4,7 @@
 
 > Grab your dancing shoes and strut your stuff with these upbeat blues numbers.
 
-183 songs - 10 hr 35 min
+184 songs - 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Don't Want No Woman](https://open.spotify.com/track/4wf3I828IPvlbEGw7IZ3Ic) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [I Pity The Fool: The Duke Recordings, Vol\. One](https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6) | 2:37 | 2021-12-20 |  |
 | [Don't Want No Woman](https://open.spotify.com/track/33j44avBvB6ybyhtOYxK7u) | [Trampled Under Foot](https://open.spotify.com/artist/1IR09fnMJMFbwX7py3VHkY) | [Badlands](https://open.spotify.com/album/1zJAyAnj2LQRbdTfH8DUbN) | 4:20 | 2023-08-18 |  |
 | [Don't You Just Know It](https://open.spotify.com/track/1Ufhe0CbCnDLC7LvycY4t4) | [Huey "Piano" Smith](https://open.spotify.com/artist/06VZekh3wTqjHJbGCNBBLu) | [This Is..\. Huey 'Piano' Smith](https://open.spotify.com/album/2O3iFb9B97JGcQt1IxvEfD) | 2:34 | 2023-02-24 |  |
-| [Don\`t Care](https://open.spotify.com/track/3k6KyWwZQCTfK4Hj9dDKRU) | [The Bluetonics](https://open.spotify.com/artist/3nBX9z9NzfzxHfOkyU6226) | [Don’t Care](https://open.spotify.com/album/2IVrkUiubvKS4oYzuuVEug) | 3:24 | 2023-08-18 |  |
+| [Don\`t Care](https://open.spotify.com/track/3k6KyWwZQCTfK4Hj9dDKRU) | [The Bluetonics](https://open.spotify.com/artist/3nBX9z9NzfzxHfOkyU6226) | [Don’t Care](https://open.spotify.com/album/2IVrkUiubvKS4oYzuuVEug) | 3:24 | 2023-08-18 | 2023-11-25 |
 | [Done Somebody Wrong \- Live At The Fillmore East, March 1971](https://open.spotify.com/track/0WDsLvL9DKjj3qjed4IBa0) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [At Fillmore East](https://open.spotify.com/album/0Y5Wlv2OJKaW0uDJ5HnUfy) | 4:35 | 2021-12-20 |  |
 | [Down The Road Apiece](https://open.spotify.com/track/4aWXCY2dBDULAE9yjo7Wcq) | [Amos Milburn](https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX) | [Down The Road Apiece \-The Best Of Amos Milburn](https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp) | 2:59 | 2021-12-20 |  |
 | [Easy](https://open.spotify.com/track/2l9uaFZ6qLT51iuuzCgYIk) | [Jimmy & Walter](https://open.spotify.com/artist/4gWn6kCmkp7tqmWkCO59Kb) | [Easy / Before Long](https://open.spotify.com/album/69z9bVNIBVsYOB2tNIVXJt) | 2:57 | 2023-10-13 | 2023-11-23 |
@@ -57,6 +57,7 @@
 | [Got My Mojo Working](https://open.spotify.com/track/65VzqBb5ogD2xIFD8jetMG) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [His Best 1956\-1964 \- The Chess 50th Anniversary Collection](https://open.spotify.com/album/21Lv19NsmMPpwUL58JCP57) | 2:53 | 2021-12-20 |  |
 | [Hate To See You Go](https://open.spotify.com/track/5jthNmPnbVPiEcO8JGgRsZ) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Hate To See You Go](https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI) | 2:16 | 2021-12-20 |  |
 | [Hate to See You Go](https://open.spotify.com/track/57Paxn9MrW8d8FmFyndLKj) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [The Original Lost Elektra Sessions](https://open.spotify.com/album/1cJp20pcnm5tM2eeBhIbMz) | 4:34 | 2023-08-18 |  |
+| [Heartbreaker](https://open.spotify.com/track/35j5tUnce6812hJBmwxXGV) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [Heartbreaker](https://open.spotify.com/album/516Bv1lX91UTFGLIdpKYYt) | 3:50 | 2023-11-24 |  |
 | [Hello Little Girl](https://open.spotify.com/track/2nof4LgSAxUeJPiwLAvkND) | [Big Miller](https://open.spotify.com/artist/4c8m7LzbeEJdqVMfNAW2xn) | [Last of the Blues Shouters](https://open.spotify.com/album/3r0loF6keIGuDG7n6YQ1t0) | 4:09 | 2022-05-27 |  |
 | [Hey! You Know You Wanna!](https://open.spotify.com/track/7afo9mIshxqUKPEPALwROk) | [The Delta Bombers](https://open.spotify.com/artist/2QDX87l1pAGzTn0D6tX8fz) | [Neon Sounds](https://open.spotify.com/album/7L8voRP33mE9BUIScs5SIL) | 4:07 | 2023-08-18 |  |
 | [Hey, Hey](https://open.spotify.com/track/19gGTp7TUX1GaWw05Ji1IR) | [Big Walter Horton's Blues Harp Band](https://open.spotify.com/artist/17GMTl9pnA3XqbTwZBrlta) | [Chicago/The Blues/Today!](https://open.spotify.com/album/2j6hPbEmlTI0DmvLFZbzgw) | 2:24 | 2023-08-25 |  |
