@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0t5sCAa21rb3bjm4Yl7xDv.md) - [plain]
 
 > The hottest tracks you want to hear all in one playlist! Cover: Ashley Sienna
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 81,918 likes - 100 songs - 5 hr 10 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 81,912 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

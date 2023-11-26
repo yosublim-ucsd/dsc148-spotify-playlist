@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Oliver Heldens x WeiBird
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,753 likes - 94 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,809 likes - 94 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 20 | [Tell Me You Love Me](https://open.spotify.com/track/7lak0WdbGJiJDbyBiZcLgH) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [AALLAR](https://open.spotify.com/artist/0Zo4tbJKj4xYiidcaYRtz1), [Che'Nelle](https://open.spotify.com/artist/7zVOa12T0RhNRzpbwZ4OCt) | [Tell Me You Love Me](https://open.spotify.com/album/4Kt5Ph2XYQTBjqP9988Vqo) | 2:42 |
 | 21 | [Little Bit Yours](https://open.spotify.com/track/0LOjVJaTDqXyu37cjUYpT2) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [Little Bit Yours](https://open.spotify.com/album/1AAnGhmJLEL4usZgEyIS97) | 3:16 |
 | 22 | [Loca Loca](https://open.spotify.com/track/3JbxNrWdx6Di9I5E62vZzK) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Pelican](https://open.spotify.com/artist/2uzcKKlZZ4eIanI41raEZ8) | [Loca Loca](https://open.spotify.com/album/2ijafytsdehzweHgZKv2mm) | 2:12 |
-| 23 | [Jadore](https://open.spotify.com/track/2saoTzkKUROkNnpJASbXH9) | [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [Ytram](https://open.spotify.com/artist/5qTx6amAEpOiXxb6KQjquZ), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Jadore](https://open.spotify.com/album/45smTN6b5CtMNBi3KHVwW0) | 3:01 |
+| 23 | [](https://open.spotify.com/track/2saoTzkKUROkNnpJASbXH9) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/45smTN6b5CtMNBi3KHVwW0) | 0:00 |
 | 24 | [Pump Up The Jam](https://open.spotify.com/track/2bazIDcL2XOCZE5rh58R7r) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [HOSANNA](https://open.spotify.com/artist/7M9O9v7kmiDSjN4eKFSik7) | [Pump Up The Jam](https://open.spotify.com/album/5VehHhrEHz67LAT5hLFq8x) | 2:36 |
-| 25 | [Time Machine \(feat\. MSPUIYI\)](https://open.spotify.com/track/0mZFBV9kO5a9DmzV16j9IA) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [MSPUIYI](https://open.spotify.com/artist/1kcyeJ6CdwVqRsKEmkb9Ul) | [Time Machine \(feat\. MSPUIYI\)](https://open.spotify.com/album/1Xu73EVMOz9PQm6NhUmt1w) | 2:27 |
+| 25 | [Time Machine \(with MSPUIYI\)](https://open.spotify.com/track/0mZFBV9kO5a9DmzV16j9IA) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [MSPUIYI](https://open.spotify.com/artist/1kcyeJ6CdwVqRsKEmkb9Ul) | [Time Machine \(with MSPUIYI\)](https://open.spotify.com/album/1Xu73EVMOz9PQm6NhUmt1w) | 2:27 |
 | 26 | [FEEL \(feat\. REWEL\)](https://open.spotify.com/track/4BC7VcrszMhGHpM5eKEJOH) | [C3DRIC](https://open.spotify.com/artist/5P2W0yAyT5iL5HzSi7uHpK), [USAI](https://open.spotify.com/artist/2URl3RyFpTbuZSa8AhZLGt), [REWEL](https://open.spotify.com/artist/73UOSrluHvjIdsQE8L4hEX) | [FEEL \(feat\. REWEL\)](https://open.spotify.com/album/3zkwh6xLhWcucGqzBPmNvW) | 2:14 |
 | 27 | [Glass House](https://open.spotify.com/track/7ohh779FFPKSuPgSYvIPn8) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Terry Zhong](https://open.spotify.com/artist/6gmZPYIcqdjmkauB2krvSg), [CVBZ](https://open.spotify.com/artist/0pt7PX4Hftlg8mV1ySU84Q) | [Glass House](https://open.spotify.com/album/0wJXk6rpJXYEyVVRP6vsZw) | 3:17 |
 | 28 | [Big FU](https://open.spotify.com/track/2HbTwmup8SWz5tMcKZXFLh) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Big FU](https://open.spotify.com/album/6fmQcEPiGQlBlA8LGClYVU) | 2:41 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 93 | [Find Me](https://open.spotify.com/track/58xgEDPulJ1kAA1dPJDoOo) | [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic), [22Bullets](https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9) | [Find Me](https://open.spotify.com/album/6t2pFQJNo3LlL85SZqLkm5) | 2:56 |
 | 94 | [Close To Me](https://open.spotify.com/track/71W31wVTK04iw9nfgV2iDF) | [Kazden](https://open.spotify.com/artist/3YUHQ4bns40UJaTsXpzq2y), [Kohey](https://open.spotify.com/artist/5700ea7BYSV4Uv5qEPQDnx), [Red Motion](https://open.spotify.com/artist/44OTBvXARz9dsn8J6NGcqm) | [Close To Me](https://open.spotify.com/album/29eOhlvjxBsah0zdVKhZl0) | 3:10 |
 
-Snapshot ID: `MCxkMGE5YWIwNTc2NGVhYWEyZGI0ZDJhN2UzOTFmNjU5MDI3NGVhMzk4`
+Snapshot ID: `MCxmZGMxMDNhNDYyMDU2ZWRlODkxYzUyZmViY2Q1Y2JjYjlkZTU1MmFk`

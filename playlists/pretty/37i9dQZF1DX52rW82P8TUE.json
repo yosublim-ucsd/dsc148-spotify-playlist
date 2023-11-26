@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas para dan\u00e7ar e louvar com os pequenos adoradores.",
-  "num_followers": 63219,
+  "num_followers": 63259,
   "original_name": "Gospel Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzY0OTk4MTg4ZmExODIxYjM3YTRlMGIwMGMwMjFhYmUyY2IwYjM4",
+  "snapshot_id": "MCwyYTNjNmQ0ZmM4ZTNiNzEzMzQ3OTNlYTNkZGFjMWVhYTI0ZjBmMmRi",
   "tracks": [
     {
       "added_at": "2023-10-20 03:00:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
+        "name": "Tudo Vai Terminar Bem",
+        "url": "https://open.spotify.com/album/45SiWKT4wFF9c67wCqiMBA"
+      },
+      "artists": [
+        {
+          "name": "Minha Vida \u00e9 Uma Viagem",
+          "url": "https://open.spotify.com/artist/1o0rLhiJRM3IFLGlqBVolR"
+        }
+      ],
+      "duration_ms": 225735,
+      "name": "Tudo Vai Terminar Bem",
+      "url": "https://open.spotify.com/track/4oYgECBXPGWladYejkc4bP"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
         "name": "Jesus Me Ama Tanto",
         "url": "https://open.spotify.com/album/2Zz9nQm8tCtURbCYJnN0mc"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 236683,
       "name": "Jesus Me Ama Tanto",
       "url": "https://open.spotify.com/track/0J8hD8AoGlQipoHU6LF6ZX"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
-        "name": "Tudo Vai Terminar Bem",
-        "url": "https://open.spotify.com/album/45SiWKT4wFF9c67wCqiMBA"
-      },
-      "artists": [
-        {
-          "name": "Minha Vida \u00e9 Uma Viagem",
-          "url": "https://open.spotify.com/artist/1o0rLhiJRM3IFLGlqBVolR"
-        }
-      ],
-      "duration_ms": 225735,
-      "name": "Tudo Vai Terminar Bem",
-      "url": "https://open.spotify.com/track/4oYgECBXPGWladYejkc4bP"
     },
     {
       "added_at": "2023-10-20 03:00:00",

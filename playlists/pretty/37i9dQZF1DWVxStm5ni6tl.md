@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: Rau\_Ze, Artwork by: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,909 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,929 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 74 | [Vespa](https://open.spotify.com/track/1tvofafyM5hEmGf1fNpFcR) | [Chu T](https://open.spotify.com/artist/3gW3eiVlCnRJMKxPThZ1cP), [Loui Grandson](https://open.spotify.com/artist/1mwfJDaLaC3XZPrUuM1HnI) | [Vespa](https://open.spotify.com/album/6mp4LhcAFcBfrLo8FGKbqH) | 3:57 |
 | 75 | [Dopamine](https://open.spotify.com/track/0rBFiJwyHRTp5eSB4VvGtv) | [Drew Now](https://open.spotify.com/artist/2cgMhIxzVBb88R1XVfxnvV) | [Dopamine](https://open.spotify.com/album/3EsOOtKTr2miwR0WUJG2YE) | 2:29 |
 
-Snapshot ID: `MCxmMTY5MGQ0ZDRlZjI4ODk5ZWEyODM5NjNmZDYzMzJhMmFhYzk2NjZh`
+Snapshot ID: `MCxkOGNlNDgyY2ZlZWMyZDQ2NWRkNTQ0ZjgxYmVmNTVkMDM3N2FmNmZk`

@@ -1,12 +1,12 @@
 {
   "description": "Celebre o nascimento de Jesus com louvores natalinos!",
-  "num_followers": 6980,
+  "num_followers": 7012,
   "original_name": "Louvores de Natal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODBiNWUyZjc5ZDczMWU5Y2YzYmQzMzQ4M2UwY2VkZjc4MDIzY2Yy",
+  "snapshot_id": "MCwyMjc4YzFiOGVmYjc1MDJjYzAyMzRlN2E5NDk0YmFmMjNlZDI3MDA1",
   "tracks": [
     {
       "added_at": "2022-12-09 06:26:14",
@@ -691,26 +691,6 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Apaixonado",
-        "url": "https://open.spotify.com/album/1MCml2KLtS3X9Ld3ACxMMp"
-      },
-      "artists": [
-        {
-          "name": "Patricia Romania",
-          "url": "https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K"
-        },
-        {
-          "name": "Daniel L\u00fcdtke",
-          "url": "https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa"
-        }
-      ],
-      "duration_ms": 337537,
-      "name": "Apaixonado",
-      "url": "https://open.spotify.com/track/0X7p8fytxMhvzzxaPJcDJk"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
         "name": "Natal Real",
         "url": "https://open.spotify.com/album/2m49nalJlB2nQHMjZaeIDK"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 256217,
       "name": "Natal Real",
       "url": "https://open.spotify.com/track/7gx0SQWgU3PoLNPW02oRzW"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
+        "name": "Apaixonado",
+        "url": "https://open.spotify.com/album/1MCml2KLtS3X9Ld3ACxMMp"
+      },
+      "artists": [
+        {
+          "name": "Patricia Romania",
+          "url": "https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K"
+        },
+        {
+          "name": "Daniel L\u00fcdtke",
+          "url": "https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa"
+        }
+      ],
+      "duration_ms": 337537,
+      "name": "Apaixonado",
+      "url": "https://open.spotify.com/track/0X7p8fytxMhvzzxaPJcDJk"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -823,26 +823,6 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Noite de Paz",
-        "url": "https://open.spotify.com/album/385673vVXabsOzy5GjDQzn"
-      },
-      "artists": [
-        {
-          "name": "Cristina Mel",
-          "url": "https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP"
-        },
-        {
-          "name": "Jeanne Mascarenhas",
-          "url": "https://open.spotify.com/artist/1yGmI1ZztrHtndLgHTnz9J"
-        }
-      ],
-      "duration_ms": 241222,
-      "name": "Noite de Paz",
-      "url": "https://open.spotify.com/track/2wiRFWjjmgzWRjmg4qUdS1"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
         "name": "Nasceu o Redentor",
         "url": "https://open.spotify.com/album/6UWRRZufr3qRffAOkIfTfW"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 324820,
       "name": "\u00c9 meia-noite (\u00d3, Noite Santa)",
       "url": "https://open.spotify.com/track/3Eozx9uSt4NhxmdBonTIFE"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
+        "name": "Noite de Paz",
+        "url": "https://open.spotify.com/album/385673vVXabsOzy5GjDQzn"
+      },
+      "artists": [
+        {
+          "name": "Cristina Mel",
+          "url": "https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP"
+        },
+        {
+          "name": "Jeanne Mascarenhas",
+          "url": "https://open.spotify.com/artist/1yGmI1ZztrHtndLgHTnz9J"
+        }
+      ],
+      "duration_ms": 241222,
+      "name": "Noite de Paz",
+      "url": "https://open.spotify.com/track/2wiRFWjjmgzWRjmg4qUdS1"
     },
     {
       "added_at": "2022-12-09 06:26:14",

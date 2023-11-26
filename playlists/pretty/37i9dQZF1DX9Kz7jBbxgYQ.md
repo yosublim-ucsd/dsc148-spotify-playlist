@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 
 > Home to the best of South Asian Indie scene\. Cover: AUR
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,539 likes - 71 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,718 likes - 71 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 | 70 | [Nakhre](https://open.spotify.com/track/2hmg6kxG5C2SwaHb0mqqbt) | [Jawad](https://open.spotify.com/artist/5KIc7lniuLWhlXVOuhvvN8), [Road Runner](https://open.spotify.com/artist/0lR8BD5lSNtTjQvggwyqE6), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu) | [Nakhre](https://open.spotify.com/album/6gL7uV8ikgeIX8TCV1oQjU) | 2:46 |
 | 71 | [Heera Ranjha](https://open.spotify.com/track/4X6IOxtvss2IVzLRz0zxeA) | [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI), [Shefali Alvares](https://open.spotify.com/artist/1Jt7JB3WIWaANzwHoybsVn) | [Heera Ranjha](https://open.spotify.com/album/5ib7pTJDafkQ9zAjjhe6Wp) | 2:16 |
 
-Snapshot ID: `MCxhZmU3Y2QwMTdiZTEwZDIyNzY4N2RlNzg3NmJlYTY4NDliNDMxNjEz`
+Snapshot ID: `MCwwOGFhOTMxYTJjNTk4ZDk3MWE3NTYyMzVhOWQ3MDNjYTY5MDY1N2Rk`

@@ -1,12 +1,12 @@
 {
   "description": "Un parque de diversiones para gustos inconformes y sofisticados. Phoenix en portada.",
-  "num_followers": 119604,
+  "num_followers": 119618,
   "original_name": "Indielandia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZWQ4NjE5Mjc5MTMwYjJlZjI3NTIyYTIwZDdiMjg5ZDRiNzM3ODk1",
+  "snapshot_id": "MCw4MDBjMTY0MjBhNmJkZjM3NWU0MTc1MjVmMTA0NmIzNzZmNDIyZDFl",
   "tracks": [
     {
       "added_at": "2023-11-24 06:00:00",
@@ -855,18 +855,18 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Blue Skies",
-        "url": "https://open.spotify.com/album/1vzqa9wcGcflSTyVbQPRFE"
+        "name": "Lunar Eclipse",
+        "url": "https://open.spotify.com/album/5eHQVvyhbGQdSgPdwngpQ6"
       },
       "artists": [
         {
-          "name": "Dehd",
-          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+          "name": "The Vaccines",
+          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
         }
       ],
-      "duration_ms": 150824,
-      "name": "Bad Love",
-      "url": "https://open.spotify.com/track/0atclF6Pp5MffEEi7CSFlE"
+      "duration_ms": 176578,
+      "name": "Lunar Eclipse",
+      "url": "https://open.spotify.com/track/0dE7NZN4VVLlLxJ7WPgpqd"
     }
   ],
   "unique_name": "Indielandia",

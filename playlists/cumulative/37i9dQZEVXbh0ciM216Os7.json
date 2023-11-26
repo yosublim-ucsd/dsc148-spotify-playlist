@@ -440,7 +440,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 354717,
       "name": "4Th Chamber",
       "url": "https://open.spotify.com/track/1Tmq5O0jmQRGxWHNt41LKt"
@@ -6980,7 +6980,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 172004,
       "name": "GOOD ENERGY",
       "url": "https://open.spotify.com/track/1ODnLE2ZDXC1oO041L0ip3"
@@ -8502,7 +8502,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-25",
+      "date_removed": null,
       "duration_ms": 133015,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6vds23cfuR8Wik0sOsEVsO"
@@ -11221,6 +11221,36 @@
     },
     {
       "album": {
+        "name": "Move Back",
+        "url": "https://open.spotify.com/album/33XU3kcn2gOVArQeSzyrya"
+      },
+      "artists": [
+        {
+          "name": "Shortop",
+          "url": "https://open.spotify.com/artist/6eGTfjbspn52wvzNPC6Qz0"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Masta Killa",
+          "url": "https://open.spotify.com/artist/0ME1RawvWt3qOJnYnxVqeh"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353988,
+      "name": "Move Back",
+      "url": "https://open.spotify.com/track/5Kmp5d431tp4BBbqS6CfEi"
+    },
+    {
+      "album": {
         "name": "Moving On",
         "url": "https://open.spotify.com/album/5S0eXl1GZ3SAZfQ2HM5QyW"
       },
@@ -12152,7 +12182,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 215682,
       "name": "Only the Young - Steve Perry & Bryce Miller Remix",
       "url": "https://open.spotify.com/track/4qwEhHH34RHH1B16vXj93L"
@@ -17722,10 +17752,44 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 237534,
       "name": "Vultures",
       "url": "https://open.spotify.com/track/21vc2kQZMS00cAyNT82a1M"
+    },
+    {
+      "album": {
+        "name": "Vultures",
+        "url": "https://open.spotify.com/album/2mT5CGX436a2WbCUMuR20Y"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Bump J",
+          "url": "https://open.spotify.com/artist/3L6bhGrHegoci41Jx2nP0V"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276986,
+      "name": "Vultures",
+      "url": "https://open.spotify.com/track/4fFHFp2cadSc397kr5wPbx"
     },
     {
       "album": {
@@ -17880,7 +17944,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 228088,
       "name": "Wanna See Me Fall",
       "url": "https://open.spotify.com/track/2RL7SOWWbKW9o5pdcbN4q0"

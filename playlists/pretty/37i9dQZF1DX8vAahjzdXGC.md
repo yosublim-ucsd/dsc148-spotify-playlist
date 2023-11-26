@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: James Arthur
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,415 likes - 94 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,473 likes - 95 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,16 +91,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 81 | [Cheerleaders and Jocks](https://open.spotify.com/track/6AJbBmXX4GCr5ANj9goh0j) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [Cheerleaders and Jocks](https://open.spotify.com/album/0x1qVcEYZiyq36Ps01Til8) | 3:47 |
 | 82 | [You Keep Me Hangin' On](https://open.spotify.com/track/2B65GgIvpaodTEPWLxUzLz) | [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn) | [You Keep Me Hangin' On](https://open.spotify.com/album/2LQwEkWtjKtUacX1uaw0PF) | 2:42 |
 | 83 | [Sleep](https://open.spotify.com/track/76JrGQqPhi5WnVjuvNGMtK) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Sleep](https://open.spotify.com/album/6iap0f96nMrJ30TDGVz8Uz) | 2:26 |
-| 84 | [Joka \(Feat\. Mommy Son\)](https://open.spotify.com/track/7CI1d4tLSat7LRVejFDtLU) | [Mad Clown](https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd), [Mommy Son](https://open.spotify.com/artist/5xWKWXamxbujIdti9xpnI1) | [Joka \(Feat\. Mommy Son\)](https://open.spotify.com/album/33XBIAjZa0RJSfXworyYdY) | 2:56 |
-| 85 | [By your side](https://open.spotify.com/track/0CNEESKVtSFkpBdrJG3tjr) | [Na Go Eun](https://open.spotify.com/artist/3cFnHYO4lVvrdvvbkJX6n8) | [By your side](https://open.spotify.com/album/1IPhcJ1QPd88T1KpZCRCCa) | 3:41 |
-| 86 | [Lucky Rocky](https://open.spotify.com/track/0PgyNpeXr3jyNBqIGTPBDA) | [ROCKY](https://open.spotify.com/artist/3bQABAi10Xqg1WsMAhYdBZ) | [ROCKYST](https://open.spotify.com/album/4CWhaTZxTkiPKGRiK47CRw) | 2:29 |
-| 87 | [ODD\-VENTURE](https://open.spotify.com/track/4Qph4A9VjmB9c5W1XFoWY4) | [MCND](https://open.spotify.com/artist/59dDRtMe8DILtibke8FWLK) | [ODD\-VENTURE](https://open.spotify.com/album/4dnRFripiPgsKl90ULXuYN) | 3:15 |
-| 88 | [Playground](https://open.spotify.com/track/5k7uSbk9yjoE33xxZykk0A) | [LUN8wave](https://open.spotify.com/artist/2FYHKERCCUPvQVfemQT4Vi) | [Playground](https://open.spotify.com/album/5cGlKbQ7B5JwVoRHTCjTIx) | 3:03 |
-| 89 | [Believe In Myself](https://open.spotify.com/track/047hYmw8Viqwx4cavskXVy) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [Believe In Myself](https://open.spotify.com/album/5ngmMrPiCbLRleKZXj3zqV) | 3:41 |
-| 90 | [COMPANY](https://open.spotify.com/track/1gEGaXAQLRklf5N7iXKLYl) | [kasper](https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH) | [COMPANY](https://open.spotify.com/album/7B71AsG7c4FEcJpiL1trv1) | 2:58 |
-| 91 | [WDYS](https://open.spotify.com/track/1a8gwdUECQHmUvLxqdirSm) | [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq), [asheu](https://open.spotify.com/artist/3ft1JIPPDsSpFr6y6Xvqu3) | [WDYS](https://open.spotify.com/album/1j5WaQxYRD73CZcBRYGZ9K) | 2:24 |
-| 92 | [Grape Soda](https://open.spotify.com/track/5KJAvewEPVPOU3OnL6bhwH) | [Gabe Watkins](https://open.spotify.com/artist/2GtFIN8b3SolBC7mmCPAAA) | [Grape Soda](https://open.spotify.com/album/6skFJuskZ23J7NXBNfFR8z) | 3:35 |
-| 93 | [higher love](https://open.spotify.com/track/1qeUqkv5ysr4aY5TRbYVv7) | [GARETH FERNANDEZ](https://open.spotify.com/artist/5OCCRySomkXZXoE1JQ5Hkb) | [higher love](https://open.spotify.com/album/3v8rZiLsW5UyLKyhHlhYCL) | 2:58 |
-| 94 | [Memory Lane](https://open.spotify.com/track/6Z9dmhwOZ3wlCfCrjkWMNk) | [CHUROSE](https://open.spotify.com/artist/4y9Jhm3jRfDCgGJ3kgyGDp) | [Memory Lane](https://open.spotify.com/album/0aLUKwVWBquLge7Ztf2LO4) | 3:18 |
+| 84 | [You Did Say So](https://open.spotify.com/track/5LcRW8Wc8GY8rgQ2qyGDzY) | [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z) | [You Did Say So](https://open.spotify.com/album/7aaF8AENb7UviBm2Q1yFGh) | 3:25 |
+| 85 | [Joka \(Feat\. Mommy Son\)](https://open.spotify.com/track/7CI1d4tLSat7LRVejFDtLU) | [Mad Clown](https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd), [Mommy Son](https://open.spotify.com/artist/5xWKWXamxbujIdti9xpnI1) | [Joka \(Feat\. Mommy Son\)](https://open.spotify.com/album/33XBIAjZa0RJSfXworyYdY) | 2:56 |
+| 86 | [By your side](https://open.spotify.com/track/0CNEESKVtSFkpBdrJG3tjr) | [Na Go Eun](https://open.spotify.com/artist/3cFnHYO4lVvrdvvbkJX6n8) | [By your side](https://open.spotify.com/album/1IPhcJ1QPd88T1KpZCRCCa) | 3:41 |
+| 87 | [Lucky Rocky](https://open.spotify.com/track/0PgyNpeXr3jyNBqIGTPBDA) | [ROCKY](https://open.spotify.com/artist/3bQABAi10Xqg1WsMAhYdBZ) | [ROCKYST](https://open.spotify.com/album/4CWhaTZxTkiPKGRiK47CRw) | 2:29 |
+| 88 | [ODD\-VENTURE](https://open.spotify.com/track/4Qph4A9VjmB9c5W1XFoWY4) | [MCND](https://open.spotify.com/artist/59dDRtMe8DILtibke8FWLK) | [ODD\-VENTURE](https://open.spotify.com/album/4dnRFripiPgsKl90ULXuYN) | 3:15 |
+| 89 | [Playground](https://open.spotify.com/track/5k7uSbk9yjoE33xxZykk0A) | [LUN8wave](https://open.spotify.com/artist/2FYHKERCCUPvQVfemQT4Vi) | [Playground](https://open.spotify.com/album/5cGlKbQ7B5JwVoRHTCjTIx) | 3:03 |
+| 90 | [Believe In Myself](https://open.spotify.com/track/047hYmw8Viqwx4cavskXVy) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [Believe In Myself](https://open.spotify.com/album/5ngmMrPiCbLRleKZXj3zqV) | 3:41 |
+| 91 | [COMPANY](https://open.spotify.com/track/1gEGaXAQLRklf5N7iXKLYl) | [kasper](https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH) | [COMPANY](https://open.spotify.com/album/7B71AsG7c4FEcJpiL1trv1) | 2:58 |
+| 92 | [WDYS](https://open.spotify.com/track/1a8gwdUECQHmUvLxqdirSm) | [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq), [asheu](https://open.spotify.com/artist/3ft1JIPPDsSpFr6y6Xvqu3) | [WDYS](https://open.spotify.com/album/1j5WaQxYRD73CZcBRYGZ9K) | 2:24 |
+| 93 | [Grape Soda](https://open.spotify.com/track/5KJAvewEPVPOU3OnL6bhwH) | [Gabe Watkins](https://open.spotify.com/artist/2GtFIN8b3SolBC7mmCPAAA) | [Grape Soda](https://open.spotify.com/album/6skFJuskZ23J7NXBNfFR8z) | 3:35 |
+| 94 | [higher love](https://open.spotify.com/track/1qeUqkv5ysr4aY5TRbYVv7) | [GARETH FERNANDEZ](https://open.spotify.com/artist/5OCCRySomkXZXoE1JQ5Hkb) | [higher love](https://open.spotify.com/album/3v8rZiLsW5UyLKyhHlhYCL) | 2:58 |
+| 95 | [Memory Lane](https://open.spotify.com/track/6Z9dmhwOZ3wlCfCrjkWMNk) | [CHUROSE](https://open.spotify.com/artist/4y9Jhm3jRfDCgGJ3kgyGDp) | [Memory Lane](https://open.spotify.com/album/0aLUKwVWBquLge7Ztf2LO4) | 3:18 |
 
-Snapshot ID: `MCw4MWI4N2FiZDRjYjkzNmQyYzUwZDczODQ4YzViMmQxNzA1ODkyNTM0`
+Snapshot ID: `MCw5NDkzOGVjZTI0NWNjYTU5ZTI1ZGZmODM4YTJjMTAzOGVhYjUyNTI3`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BSEHgPgKpk.md) - [plain]
 
 ### [サザンオールスターズ：ArtistCHRONICLE](https://open.spotify.com/playlist/37i9dQZF1DX2BSEHgPgKpk)
 
-> Spotifyプレイリストシリーズ"ArtistCHRONICLE"\(アーティスト・クロニクル\)、第6弾はサザンオールスターズを特集！ \*Music+Talk版は<a href="spotify:show:7ENAg894BUX86x0x2xB5lu">こちら</a>。制作協力：<a href="https://cocolo.jp/sjr/">FM COCOLO 「SUPER J\-HITS RADIO」</a>
+> Spotifyプレイリストシリーズ"ArtistCHRONICLE"\(アーティスト・クロニクル\)、第7弾はサザンオールスターズを特集！ \*Music+Talk版は<a href="spotify:show:7ENAg894BUX86x0x2xB5lu">こちら</a>。制作協力：<a href="https://cocolo.jp/sjr/">FM COCOLO 「SUPER J\-HITS RADIO」</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,044 likes - 60 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,060 likes - 60 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BSEHgPgKpk.md) - [plain]
 | 59 | [Bongiri koiuta](https://open.spotify.com/track/0POtzhZLoUX2bsFatFD4rD) | [SOUTHERN ALL STARS](https://open.spotify.com/artist/6HqHB2AFBXUQHQFN026oYP) | [Bongiri koiuta](https://open.spotify.com/album/7bUQB59SHqlbzJsHg4lRlM) | 4:19 |
 | 60 | [Utae Nippon no Sora](https://open.spotify.com/track/1gDOmbdOhMADkmNSU9eUMb) | [SOUTHERN ALL STARS](https://open.spotify.com/artist/6HqHB2AFBXUQHQFN026oYP) | [Utae Nippon no Sora](https://open.spotify.com/album/3Unh0miQk8WcU5uSQptS8v) | 4:07 |
 
-Snapshot ID: `MCxmZmM4N2JjOWYxOWI2YjgyNWU3MmU3MDQyNzQ2Njc1MGRlZDQ1NjBh`
+Snapshot ID: `MCw4OTk5MmE2NjY2ZDgwMWUwOTFkY2FkMWNiYjMxNDJmNWFmZWJlMGEx`

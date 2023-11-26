@@ -6,13 +6,13 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgzNDY3MDAsMDAwMDAwMDBjODY3M2Y0ZTFlOWE0MGEwN2M3NzM3MDI3NzBkMDhiMg==",
+  "snapshot_id": "MjgzNDY3MDAsMDAwMDAwMDA5N2I4ZDU5ODBjNjE5YmU4MDFkMmM5ZDFkMzViY2I5NA==",
   "tracks": [
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "Vultures",
-        "url": "https://open.spotify.com/album/4BdfszFenZ1eMrISGvourZ"
+        "url": "https://open.spotify.com/album/2mT5CGX436a2WbCUMuR20Y"
       },
       "artists": [
         {
@@ -30,11 +30,15 @@
         {
           "name": "Bump J",
           "url": "https://open.spotify.com/artist/3L6bhGrHegoci41Jx2nP0V"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 237534,
+      "duration_ms": 276986,
       "name": "Vultures",
-      "url": "https://open.spotify.com/track/21vc2kQZMS00cAyNT82a1M"
+      "url": "https://open.spotify.com/track/4fFHFp2cadSc397kr5wPbx"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -51,30 +55,6 @@
       "duration_ms": 163265,
       "name": "Tree House",
       "url": "https://open.spotify.com/track/2huPt3DZ81E48FRDOtFp9j"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Non Liquid Swordz",
-        "url": "https://open.spotify.com/album/0K2SvxV5rCesE8Bzjgk98M"
-      },
-      "artists": [
-        {
-          "name": "Picanto the boy",
-          "url": "https://open.spotify.com/artist/6gSYK8reLZWaJK2PCfMkT0"
-        },
-        {
-          "name": "GZA",
-          "url": "https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO"
-        },
-        {
-          "name": "Heavy D",
-          "url": "https://open.spotify.com/artist/4AwNnh5SdnB3VGSZ0GPG4H"
-        }
-      ],
-      "duration_ms": 354717,
-      "name": "4Th Chamber",
-      "url": "https://open.spotify.com/track/1Tmq5O0jmQRGxWHNt41LKt"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -123,22 +103,30 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "WU LOCASTRO",
-        "url": "https://open.spotify.com/album/4UM0McBJH2VgjCAHOKWa8h"
+        "name": "Move Back",
+        "url": "https://open.spotify.com/album/33XU3kcn2gOVArQeSzyrya"
       },
       "artists": [
         {
-          "name": "Coast LoCastro",
-          "url": "https://open.spotify.com/artist/0Q0M6pZOS9hpkQRE7aNvff"
+          "name": "Shortop",
+          "url": "https://open.spotify.com/artist/6eGTfjbspn52wvzNPC6Qz0"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
         },
         {
           "name": "Ghostface Killah",
           "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Masta Killa",
+          "url": "https://open.spotify.com/artist/0ME1RawvWt3qOJnYnxVqeh"
         }
       ],
-      "duration_ms": 172004,
-      "name": "GOOD ENERGY",
-      "url": "https://open.spotify.com/track/1ODnLE2ZDXC1oO041L0ip3"
+      "duration_ms": 353988,
+      "name": "Move Back",
+      "url": "https://open.spotify.com/track/5Kmp5d431tp4BBbqS6CfEi"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -395,6 +383,30 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Iris",
+        "url": "https://open.spotify.com/album/2UunCrXmL8bQME9Wye1dBK"
+      },
+      "artists": [
+        {
+          "name": "Jason Greenhart",
+          "url": "https://open.spotify.com/artist/0iLyV4LIHbZMNmuXP6kCKG"
+        },
+        {
+          "name": "GZA",
+          "url": "https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO"
+        },
+        {
+          "name": "Metacaum",
+          "url": "https://open.spotify.com/artist/2B0a78X6BEsBiBX9ly1GFm"
+        }
+      ],
+      "duration_ms": 133015,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/6vds23cfuR8Wik0sOsEVsO"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Say Less",
         "url": "https://open.spotify.com/album/69wYSuJ089rfvYPkVYgd12"
       },
@@ -611,34 +623,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Tech N9ne Presents: NNUTTHOWZE - Siqnaling The Siqly",
-        "url": "https://open.spotify.com/album/6vjunWiWVIjEkOeXJIZALU"
-      },
-      "artists": [
-        {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
-        },
-        {
-          "name": "Zkeircrow",
-          "url": "https://open.spotify.com/artist/0EBQs3FuhHrwUixSsKI2Dn"
-        },
-        {
-          "name": "Phlaque The Grimstress",
-          "url": "https://open.spotify.com/artist/4uUHXzdIW2IXKy362FjGMB"
-        },
-        {
-          "name": "X-Raided",
-          "url": "https://open.spotify.com/artist/3ROTuxpbVooOYY7OanW7No"
-        }
-      ],
-      "duration_ms": 228088,
-      "name": "Wanna See Me Fall",
-      "url": "https://open.spotify.com/track/2RL7SOWWbKW9o5pdcbN4q0"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "The Messy EP",
         "url": "https://open.spotify.com/album/08l5xqoj3C3BhosTQQh50h"
       },
@@ -651,26 +635,6 @@
       "duration_ms": 74571,
       "name": "six a.m. interlude",
       "url": "https://open.spotify.com/track/6anqQBrQhql6FVLVAEuE43"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Only the Young (Steve Perry & Bryce Miller Remix)",
-        "url": "https://open.spotify.com/album/1xG7RX2NZgW7jQWkJ7VfH0"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        },
-        {
-          "name": "Steve Perry",
-          "url": "https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf"
-        }
-      ],
-      "duration_ms": 215682,
-      "name": "Only the Young - Steve Perry & Bryce Miller Remix",
-      "url": "https://open.spotify.com/track/4qwEhHH34RHH1B16vXj93L"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

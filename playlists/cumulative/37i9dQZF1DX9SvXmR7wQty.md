@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Hamza
 
-2,201 songs - 4 day 21 hr 31 min
+2,203 songs - 4 day 21 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Anunnaki](https://open.spotify.com/track/5dfgX2GxEMQsGycPvjxhdP) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [Anunnaki](https://open.spotify.com/album/3sBYDqg8lIbOOC3WQTXk8d) | 3:22 | 2022-01-07 | 2022-01-22 |
 | [Anyway, Mommy Love](https://open.spotify.com/track/3rKIdoC3bgM6UoiRQvvDdi) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Anyway, Mommy Love](https://open.spotify.com/album/6y6NiIQExhEXbvWo4LIe0k) | 3:11 | 2023-10-27 | 2023-11-11 |
 | [Aphélie](https://open.spotify.com/track/1oyFzGMjJWnAsg9yC5u1GO) | [Joseph Boonen](https://open.spotify.com/artist/75yQ1VHbMDt2zo4HAuO4GG) | [Aphélie](https://open.spotify.com/album/0Ioq2Js5cjVVRR9jytXRRr) | 4:24 | 2022-03-25 | 2022-04-02 |
-| [Apocalypse Calypso](https://open.spotify.com/track/1KnLj7n3uEwwEOYeQc1gfg) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Apocalypse Calypso](https://open.spotify.com/album/6W0wlmuTLCE2K5OPMgwsLz) | 3:16 | 2023-10-20 |  |
+| [Apocalypse Calypso](https://open.spotify.com/track/1KnLj7n3uEwwEOYeQc1gfg) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Apocalypse Calypso](https://open.spotify.com/album/6W0wlmuTLCE2K5OPMgwsLz) | 3:16 | 2023-10-20 | 2023-11-26 |
 | [Apparaît](https://open.spotify.com/track/3GS2743jHrfQlA37gOVsmd) | [Bouldat](https://open.spotify.com/artist/6OJIqTSNa43LsvZmIURNAb), [Rach](https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n), [JPS](https://open.spotify.com/artist/0tziQnn4fmfk5ReISVIJEN) | [Apparaît](https://open.spotify.com/album/6WrLK9v2g0Ggzqy5h00vpe) | 4:11 | 2022-09-23 | 2022-10-01 |
 | [Appart des Apes](https://open.spotify.com/track/3yEsyr32BAZ4WegEmFPW7s) | [GLK](https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez) | [Appart des Apes](https://open.spotify.com/album/5yIPSHNtMozcsdkvjfX5rw) | 2:55 | 2023-09-15 | 2023-10-27 |
 | [Appels manqués](https://open.spotify.com/track/7rW4dUZDIWat7hGmW4JjNK) | [Jordane](https://open.spotify.com/artist/53w2o1UZ53Pc5gir1VuAa1) | [Reine de papier](https://open.spotify.com/album/7tXOmWg1UOXPcYXzmPhTB4) | 2:43 | 2022-04-22 | 2022-05-07 |
@@ -898,6 +898,7 @@
 | [J'étais pas là](https://open.spotify.com/track/1BkSFGFEPy48s9CpZOwibL) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [J'étais pas là](https://open.spotify.com/album/5QtyGSykTXzd8tHnicAUp0) | 3:52 | 2022-05-20 | 2022-06-04 |
 | [Jacuzzi](https://open.spotify.com/track/7w1RLxc7gA8EBcRsWgSOUu) | [Izzy\-S](https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ) | [Jacuzzi](https://open.spotify.com/album/4VR3RBzYwMY1WnpiUsfaWt) | 2:43 | 2022-09-09 | 2022-09-24 |
 | [James Dean](https://open.spotify.com/track/4uVv3CQLp68fL2J3CJNDEl) | [LARCHE](https://open.spotify.com/artist/1EIPhCiePboY8AlbZr4HMv) | [James Dean](https://open.spotify.com/album/3rdV9CDNImR96dzxyarYfZ) | 2:50 | 2022-08-05 | 2022-08-27 |
+| [Jane Birkin](https://open.spotify.com/track/4xsVpeTSTh64G82qf2HHaF) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Jane Birkin](https://open.spotify.com/album/2oN1NPHrJDWBFeUiG0phb2) | 3:16 | 2023-11-24 |  |
 | [jardin](https://open.spotify.com/track/1QEcr57b4oSQuRk4ztmKkL) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [consolation](https://open.spotify.com/album/3fDL1MKPGRyXRHUkHK1fR1) | 4:52 | 2022-08-26 | 2022-09-10 |
 | [jardin \- Thx4Crying Halloween Remix](https://open.spotify.com/track/6jYimKdTY5WzTEn54HemmZ) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Thx4Crying](https://open.spotify.com/artist/0J0Cjv3dejTUnksQtxpZP9) | [jardin secret](https://open.spotify.com/album/2VzzSGQefLPMLqSIJaNeXZ) | 3:23 | 2022-10-07 | 2022-10-15 |
 | [Jardin d'orages](https://open.spotify.com/track/390izvGBLKyKv3IC3tup84) | [Olivier Faubert](https://open.spotify.com/artist/7MtaiRiCaon9iTg2dfHC45) | [Mes ombres](https://open.spotify.com/album/3pd4ayFDk7ZMY8XjRG31LP) | 3:40 | 2022-02-18 | 2022-02-26 |
@@ -1203,7 +1204,7 @@
 | [Lettre à mon ex](https://open.spotify.com/track/1PuggGQo0QwgudXOXPAuy5) | [KIKESA](https://open.spotify.com/artist/3U0pUvFUMv6gJiTFnXiueY) | [Lettre à mon ex](https://open.spotify.com/album/0bfuXUDgRkynuuaqjNRl7B) | 3:31 | 2022-02-18 | 2022-03-05 |
 | [LFQB](https://open.spotify.com/track/4kw4akPXc0aMJJIklnSc3B) | [Shotto Guapo](https://open.spotify.com/artist/5Gk8TXAgkY02R4PPtVrhvC) | [LFQB](https://open.spotify.com/album/6SrTR3iGnL2NUpjAKcP9Vc) | 2:38 | 2022-08-12 | 2022-08-27 |
 | [Li bwè](https://open.spotify.com/track/3TpTe5VLoxZOMdf1CRulm8) | [Willows](https://open.spotify.com/artist/0UNhcjtUIMb5u5v6niKshW) | [Li bwè](https://open.spotify.com/album/63LGM4e8OiMyH1VaCMiNzE) | 3:12 | 2023-01-20 | 2023-01-28 |
-| [Liberta](https://open.spotify.com/track/69lKtGrjuqYypkYHm6H2WY) | [DTF](https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM) | [Liberta](https://open.spotify.com/album/4ezzeRj05jnLrRqunm6qJn) | 2:28 | 2023-10-13 |  |
+| [Liberta](https://open.spotify.com/track/69lKtGrjuqYypkYHm6H2WY) | [DTF](https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM) | [Liberta](https://open.spotify.com/album/4ezzeRj05jnLrRqunm6qJn) | 2:28 | 2023-10-13 | 2023-11-26 |
 | [Libre](https://open.spotify.com/track/5h9OvsTeNydBaZp7swQubV) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Nonante\-Cinq](https://open.spotify.com/album/3I756vFQ1PWvG2Q2jJsIkA) | 2:44 | 2021-12-31 | 2022-01-15 |
 | [Libre](https://open.spotify.com/track/6nc69Bx3qktJdCL9f0UlPn) | [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h) | [Libre](https://open.spotify.com/album/2ojAwZApJXaaZXW5hgrf7c) | 2:28 | 2023-07-28 | 2023-08-12 |
 | [Libre](https://open.spotify.com/track/30VLQvNhylxnwSPWBXTt46) | [OneNessa](https://open.spotify.com/artist/72oaCcX2X3nBhyhZGEjnFK) | [Équinoxes](https://open.spotify.com/album/1IrhsqLBXAhTGhh1DYmw2E) | 2:46 | 2022-10-28 | 2022-11-12 |
@@ -1272,6 +1273,7 @@
 | [Ma Way](https://open.spotify.com/track/5YUmEBCcg6hu8lpNegrZ7n) | [Miro](https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj), [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h) | [Ma Way](https://open.spotify.com/album/4CdBkVYkTRu3IT2N4s5X8i) | 2:31 | 2022-04-22 | 2022-05-07 |
 | [Macabre](https://open.spotify.com/track/2M2YBN8AvH6FQJC0IsLErX) | [Dosseh](https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [Macabre](https://open.spotify.com/album/3ZNPSkZKy9kPESBBrx54us) | 3:28 | 2023-06-23 | 2023-09-09 |
 | [Macho](https://open.spotify.com/track/6llQ7JFrmeeX8YaB70eqWc) | [Miels](https://open.spotify.com/artist/1T7DAgRWmzieWxeyEhBD8g) | [Macho](https://open.spotify.com/album/35jsbId0AbyCAGtmIqrSIs) | 2:51 | 2022-07-15 | 2022-08-06 |
+| [MAGHRIBI](https://open.spotify.com/track/01GVrWU4CZgZyHFMShuQb1) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 4:14 | 2023-11-24 |  |
 | [Magic Johnson](https://open.spotify.com/track/68IeiFIaq7Pd5O5REmwMuj) | [SeinsSucrer](https://open.spotify.com/artist/6AFFCSzexIvA2fBeEpe0nP) | [Sua broue](https://open.spotify.com/album/4qCiQshJI98LzrP1gtE7T1) | 1:59 | 2022-06-24 | 2022-07-09 |
 | [Magique](https://open.spotify.com/track/0FzN7tnPh3epsX38zFgvV1) | [S’tano](https://open.spotify.com/artist/5K3ZdxXGFBy0mQXdLA4oIc) | [Magique](https://open.spotify.com/album/7Ju4HUvlakPvIsibpoZ4Wu) | 3:05 | 2023-01-20 | 2023-01-28 |
 | [Magnifique](https://open.spotify.com/track/4mzNeemSeYcTJSPlQWudN7) | [Tronel](https://open.spotify.com/artist/6n7VICMu1PgML7oEbDLmWu) | [TronelDiablo](https://open.spotify.com/album/1kRKwfoDM7hFBH9YrBGlyb) | 3:16 | 2022-08-12 | 2022-08-27 |

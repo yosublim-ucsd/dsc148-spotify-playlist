@@ -4,7 +4,7 @@
 
 > Covers of classic songs with a touch of Jazz\. Cover: Joey Alexander
 
-180 songs - 14 hr 11 min
+181 songs - 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,9 +90,10 @@
 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/1W6p8Y996nO7Pd1JYEZIb6) | [Jacob Karlzon](https://open.spotify.com/artist/3R4vdaqhh9jn2fOCned9nM) | [Shine](https://open.spotify.com/album/5IDEw0lSO7uTBsk8dWRQac) | 4:52 | 2022-10-05 | 2023-09-02 |
 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/1vQPul9VZ1dODkVg9lxF3L) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/album/1wBXnntlEwlD9cuDdwmraq) | 3:39 | 2023-05-30 | 2023-09-02 |
 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/3URt3hJlLJEJFwBNBIyOGY) | [Tom Rogers Band](https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR) | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/album/6DIhteXyU6TqzXu6mdwuzO) | 3:25 | 2022-12-08 |  |
+| [I Think It's Going to Rain Today](https://open.spotify.com/track/2udv6rli9RhcXPplmb51yL) | [Lucia Cadotsch](https://open.spotify.com/artist/6fjIC3dxUYTL8eOzxbU1Ou), [Otis Sandsjö](https://open.spotify.com/artist/6diHo4GRFDIubnyPcfdt44), [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx) | [Speak Low II](https://open.spotify.com/album/0sYiRRG8rL7V23bEP6q5Nz) | 5:18 | 2023-11-24 |  |
 | [I Think It's Going to Rain Today](https://open.spotify.com/track/7g5oxgxTNFTmlkf3B06zsD) | [Lucia Cadotsch](https://open.spotify.com/artist/6fjIC3dxUYTL8eOzxbU1Ou), [Otis Sandsjö](https://open.spotify.com/artist/6diHo4GRFDIubnyPcfdt44), [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx) | [Speak Low II](https://open.spotify.com/album/4gQ5E5ZMBReLfgCRlcLEyw) | 5:18 | 2022-09-13 | 2023-10-19 |
 | [I'm Not In Love](https://open.spotify.com/track/7tJfyCZz0x7QwboxTjVPnc) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Wallflower](https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN) | 3:52 | 2022-09-13 |  |
-| [If It's Magic](https://open.spotify.com/track/5r8SovegCSL6r9GrbRFJBP) | [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [If It's Magic](https://open.spotify.com/album/6cetRsJJ96m3KmLsVwEhVW) | 3:29 | 2023-03-09 |  |
+| [If It's Magic](https://open.spotify.com/track/5r8SovegCSL6r9GrbRFJBP) | [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [If It's Magic](https://open.spotify.com/album/6cetRsJJ96m3KmLsVwEhVW) | 3:29 | 2023-03-09 | 2023-11-26 |
 | [Imagine](https://open.spotify.com/track/0KmnSwNsxEyKVF00QuSZMf) | [Iiro Rantala](https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL) | [My Working Class Hero](https://open.spotify.com/album/2vsc0Nq5p2ni1baaX9MGaf) | 4:42 | 2022-10-05 | 2023-09-02 |
 | [Imagine](https://open.spotify.com/track/2tsqu3KVPqofbieVP3zYU3) | [Junity](https://open.spotify.com/artist/5NZAIgwhoQm0DmqTzVfnKm) | [Reimagined](https://open.spotify.com/album/0ktnG2z63HI3M19iuJLUOq) | 3:35 | 2022-09-13 | 2023-09-02 |
 | [Imagine](https://open.spotify.com/track/70Gf8QOBLSJOvrGsfzrWet) | [Meadowpoints](https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J) | [Imagine](https://open.spotify.com/album/2wNEe8mpjm4cmpygGaAFi8) | 3:53 | 2023-05-30 |  |

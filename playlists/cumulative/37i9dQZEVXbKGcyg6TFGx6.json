@@ -20611,6 +20611,24 @@
     },
     {
       "album": {
+        "name": "Onomatopoeia",
+        "url": "https://open.spotify.com/album/2n1vEk3rAICo8XiyjgjX4E"
+      },
+      "artists": [
+        {
+          "name": "Close",
+          "url": "https://open.spotify.com/artist/31J1rF5xcRXNZte9G2fUgP"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136800,
+      "name": "Onomatopoeia",
+      "url": "https://open.spotify.com/track/0A4HEHzL1Sm5deHtICIosn"
+    },
+    {
+      "album": {
         "name": "Orange",
         "url": "https://open.spotify.com/album/356cpEJ1ccLK6aAx99hWJK"
       },
@@ -25174,7 +25192,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 182160,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf"
@@ -29698,7 +29716,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 222369,
       "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
@@ -29978,6 +29996,32 @@
       "duration_ms": 161123,
       "name": "Why'd You Only Call Me When You're High?",
       "url": "https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9"
+    },
+    {
+      "album": {
+        "name": "Wiedaa",
+        "url": "https://open.spotify.com/album/3Ctd2ddTiU8jNBexIFQE8d"
+      },
+      "artists": [
+        {
+          "name": "Stickle",
+          "url": "https://open.spotify.com/artist/5K8xEsO2oPspkkkdpTBQWo"
+        },
+        {
+          "name": "Yung Hurn",
+          "url": "https://open.spotify.com/artist/4PvnP3yCzrT289cX3wCdOx"
+        },
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174450,
+      "name": "Wiedaa",
+      "url": "https://open.spotify.com/track/0bTdbKXc2F72JgVxvpK3Gi"
     },
     {
       "album": {

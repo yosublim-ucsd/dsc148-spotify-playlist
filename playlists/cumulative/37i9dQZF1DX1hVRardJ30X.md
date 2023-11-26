@@ -4,7 +4,7 @@
 
 > All\-new releases by Latin artists! Cover: Danny Ocean
 
-5,691 songs - 12 day 11 hr 24 min
+5,692 songs - 12 day 11 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3756,7 +3756,8 @@
 | [On My Diez](https://open.spotify.com/track/5bu48uXPHfFNjLsLZSsjbC) | [Feefa](https://open.spotify.com/artist/52EfcUQ2nkatuNSusz3v7C), [Frankie P](https://open.spotify.com/artist/6LQI3uEz03wvTZ2k7aV16v) | [On My Diez](https://open.spotify.com/album/1IAGzdrpYoDkT8pxXFXL0U) | 2:35 | 2021-12-24 | 2022-01-08 |
 | [On Those Nights](https://open.spotify.com/track/7LMdJF0jOmUb5g7bbDqiTQ) | [Alexis Jae](https://open.spotify.com/artist/52I7Ci9JGLBGwv821YNqSF) | [On Those Nights](https://open.spotify.com/album/5EpIdMGqtk2EdiH4CwBu88) | 2:19 | 2022-10-21 | 2022-10-29 |
 | [One Way](https://open.spotify.com/track/6ZJO31KUeQa2RsRY8UNePE) | [Menor Menor](https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW) | [Tibro](https://open.spotify.com/album/0ChvDLK0FX8PgPCDXicUu5) | 2:10 | 2023-03-31 | 2023-04-09 |
-| [ONTAS BB](https://open.spotify.com/track/0AxbelOCUlFunxBJyoixsb) | [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [ONTAS BB](https://open.spotify.com/album/4QLawl4TjcXv7LU2UEaRJQ) | 3:27 | 2023-11-24 |  |
+| [ONTAS BB](https://open.spotify.com/track/0AxbelOCUlFunxBJyoixsb) | [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [ONTAS BB](https://open.spotify.com/album/4QLawl4TjcXv7LU2UEaRJQ) | 3:27 | 2023-11-24 | 2023-11-26 |
+| [ONTAS BB](https://open.spotify.com/track/3IHSOgqSplOCtN2NiGlp0q) | [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [ONTAS BB](https://open.spotify.com/album/2sbHi7VQ7U7uohlhAo0gax) | 3:27 | 2023-11-24 |  |
 | [oop \- acoustic](https://open.spotify.com/track/6neRoHM8ba3et4C1hMzCGw) | [VALÉ](https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE) | [oop \(acoustic\)](https://open.spotify.com/album/3a4BhpI1Jo6yINLZL7cFKF) | 1:38 | 2022-01-14 | 2022-01-22 |
 | [Opciones](https://open.spotify.com/track/6vNhBzDn5yU2fu67YliSgw) | [Kalido](https://open.spotify.com/artist/7rnBtbzDCg9rhtHV6GH77K), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [HIT$ MUSIC](https://open.spotify.com/artist/44ALfmkGESKyMbbRrvw9gT) | [Opciones](https://open.spotify.com/album/3vLYU0OI84HKtizS6Ykau2) | 2:41 | 2023-01-27 | 2023-02-04 |
 | [oportUNO](https://open.spotify.com/track/7t2ghIdjkElp0FUb0RlzaM) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV) | [oportUNO](https://open.spotify.com/album/3i8CtqJD1n76oXJeaKXAdQ) | 2:36 | 2022-03-25 | 2022-04-02 |

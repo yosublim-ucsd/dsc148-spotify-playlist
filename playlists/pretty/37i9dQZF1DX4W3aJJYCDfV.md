@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Jacob Collier + Stormzy + Shawn Mendes \(pictured\), Take That, Björk + ROSALÍA and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 843,525 likes - 132 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 843,573 likes - 132 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 71 | [Musica](https://open.spotify.com/track/207YcqxaFYsOdJarlqyjWl) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Musica](https://open.spotify.com/album/6bjQOS2LqOWMo2sGUYCKpc) | 2:57 |
 | 72 | [AI \(Save Yourself\)](https://open.spotify.com/track/2MrnJVZSGAzz1IobfPEwHv) | [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV) | [AI \(Save Yourself\)](https://open.spotify.com/album/2PcWCQtSCQea2SDQbJmuqO) | 3:08 |
 | 73 | [Sacrifices](https://open.spotify.com/track/0ADsPpxjFXl4ULiJkTrIqY) | [Meron Addis](https://open.spotify.com/artist/3rJPKKWZTceQMIRlMIHVBy) | [Sacrifices](https://open.spotify.com/album/0sOmZ9Cy1CrofLVp2y1bOo) | 3:08 |
-| 74 | [Icy Watch](https://open.spotify.com/track/5i6JGzT3WboBEF7zpYtWEh) | [Suspect OTB](https://open.spotify.com/artist/6UmdRN4VAfN58ZCLYGGBDE) | [It's Dark Outside](https://open.spotify.com/album/5CDwxZwO15f546UbhehISt) | 2:52 |
+| 74 | [Icy Watch](https://open.spotify.com/track/5i6JGzT3WboBEF7zpYtWEh) | [Suspect OTB](https://open.spotify.com/artist/6UmdRN4VAfN58ZCLYGGBDE), [Jacq Charles](https://open.spotify.com/artist/2NvkQvkJzGGJZ21phcNnAn) | [It's Dark Outside](https://open.spotify.com/album/5CDwxZwO15f546UbhehISt) | 2:52 |
 | 75 | [Outro](https://open.spotify.com/track/7mxq8nukPw2NJdxSgAE4m9) | [m4x](https://open.spotify.com/artist/59I91KjkQv2ep7ogDu1U0S) | [Outro](https://open.spotify.com/album/3RCe7DjpNNuZ0NNnQ84Ojh) | 1:46 |
 | 76 | [So Mi Stay](https://open.spotify.com/track/11u619J5WmRcm5ByntmjWQ) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO) | [So Mi Stay](https://open.spotify.com/album/2TGuOjs6ree8F2eB1A4S1n) | 4:20 |
 | 77 | [Believe In Myself](https://open.spotify.com/track/047hYmw8Viqwx4cavskXVy) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [Believe In Myself](https://open.spotify.com/album/5ngmMrPiCbLRleKZXj3zqV) | 3:41 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 131 | [Hard to Love](https://open.spotify.com/track/6QV6miSjUtqppivpjwDZgI) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Hard To Love](https://open.spotify.com/album/0jXxDV0TkGE6f5MezsGFrU) | 2:47 |
 | 132 | [Lover & Friend](https://open.spotify.com/track/10m5CT42VKtDifUiAczDdk) | [Kadeem Tyrell](https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh) | [Lover & Friend](https://open.spotify.com/album/4Ccmc7eguhAphHJeOsfefZ) | 2:57 |
 
-Snapshot ID: `MCxiZDE5YTc1ODYxZTBjMjJiOGJlYTk3YWRmZTA3YWFiMmI0MzhiYWEw`
+Snapshot ID: `MCxlNGM5ZjMzNDlmYTUwNzFhNDMzNjQyNmFmYTc4NDQ5Y2ZlZDk0M2Ez`

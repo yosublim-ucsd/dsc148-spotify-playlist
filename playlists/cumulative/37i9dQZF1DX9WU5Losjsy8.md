@@ -4,7 +4,7 @@
 
 > Skifoan und Hüttenabriss.
 
-95 songs - 4 hr 50 min
+96 songs - 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Ein bisschen Aroma \- Stereoact Remix](https://open.spotify.com/track/38lWlGRELJxyYGLNJvi48e) | [Roger Whittaker](https://open.spotify.com/artist/6pgfx4K1p1kT0RewXjmLfk), [Stereoact](https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a) | [Ein bisschen Aroma \(Stereoact Remix\)](https://open.spotify.com/album/6sD91fTd5gCe5JbnngQmer) | 2:58 | 2023-07-14 |  |
 | [Ein Stern \(der deinen Namen trägt\) \- Party Mix](https://open.spotify.com/track/1o5evgltJughVgrPinzAOV) | [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr), [Nik P.](https://open.spotify.com/artist/159oJddLiuKFNYTa3ZNueS) | [Sternstunden](https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1) | 3:56 | 2023-07-28 |  |
 | [Eine Woche wach](https://open.spotify.com/track/6aRlZoOO6dqXQtqq2wiQZ1) | [Mickie Krause](https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q) | [Eine Woche wach](https://open.spotify.com/album/0SrDdwbGTIpolnxcw4h3JA) | 3:55 | 2023-07-14 |  |
+| [Felicità \- Stereoact Remix](https://open.spotify.com/track/0e78YaDsbQxnfbQWofzBrH) | [Stereoact](https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a), [Al Bano](https://open.spotify.com/artist/2gpELJDuhOQi1DPcI0VFvw) | [Felicità \(Stereoact Remix\)](https://open.spotify.com/album/2FWtL7RNtw2bPUo5MM5XBG) | 2:28 | 2023-11-14 |  |
 | [FiNCHiBOY](https://open.spotify.com/track/4ipRnhSMOaVeLCCo5sPY9K) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [Finchi's Love Tape](https://open.spotify.com/album/2XTORm9FlIAjLcTqrguBhM) | 2:50 | 2023-11-14 |  |
 | [Freitag, Samstag](https://open.spotify.com/track/35WEFAhw47XLju1gu40cjT) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [Freitag, Samstag](https://open.spotify.com/album/2vdeMLYYKkx1kp0J9ggsBL) | 2:36 | 2023-07-28 |  |
 | [Grapefruit](https://open.spotify.com/track/6tsfUUzJ5SFKP7n2H9V22F) | [MartinBepunkt](https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc), [Julia Engelmann](https://open.spotify.com/artist/3yKyH3s5xOHdLDfsD0W9gK), [Raket One](https://open.spotify.com/artist/3WiX1u4IpVintfUX7Qze06) | [Grapefruit](https://open.spotify.com/album/2GPa0un8izzyTkgZWgocBo) | 3:04 | 2023-07-28 |  |
@@ -61,7 +62,7 @@
 | [Kabinenparty](https://open.spotify.com/track/4TUtbQyNMmitAOXIsAMhLn) | [MartinBepunkt](https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc), [Nils\_Gucki](https://open.spotify.com/artist/0IKHmPWMEtjcERBTOo34GF), [MAKZ 38](https://open.spotify.com/artist/3G3KqIib0FNSVpjDl9NhAF) | [Kabinenparty](https://open.spotify.com/album/2aP4tzkye6IAAW0h3wJfV5) | 2:22 | 2023-07-14 |  |
 | [Kabinenparty \(feat\. MAKZ 38\) \- Kreisliga Mix](https://open.spotify.com/track/4tL82MSbNxW9aMexbmnXS2) | [Kreisligalegende](https://open.spotify.com/artist/4gH1d6uZiIbhiUUJoHsd8f), [MartinBepunkt](https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc), [Nils\_Gucki](https://open.spotify.com/artist/0IKHmPWMEtjcERBTOo34GF), [MAKZ 38](https://open.spotify.com/artist/3G3KqIib0FNSVpjDl9NhAF) | [Kabinenparty \(feat\. MAKZ 38\) \[Kreisliga Mix\]](https://open.spotify.com/album/20F5fGaxNSc27Fxp3rNO1x) | 2:22 | 2023-07-14 |  |
 | [King Kong](https://open.spotify.com/track/7GIlBNE6pZRfoRfo4oL7f0) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ) | [King Kong](https://open.spotify.com/album/4RBDtEQ86Uj6hQ1b31H03n) | 2:36 | 2023-07-14 |  |
-| [Kleine Fee](https://open.spotify.com/track/6Hh3PWarkgiMwUP2klVS8h) | [Schürze](https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ) | [Kleine Fee](https://open.spotify.com/album/6mR5HHT7NuAD3ZA82tusHM) | 2:18 | 2023-10-20 |  |
+| [Kleine Fee](https://open.spotify.com/track/6Hh3PWarkgiMwUP2klVS8h) | [Schürze](https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ) | [Kleine Fee](https://open.spotify.com/album/6mR5HHT7NuAD3ZA82tusHM) | 2:18 | 2023-10-20 | 2023-11-26 |
 | [Klempner Klaus](https://open.spotify.com/track/0LStK5S9hM7tmi8X7TItkY) | [GABBY](https://open.spotify.com/artist/7gM9yfQR9QrXqnHmeIkhbI), [Anstandslos & Durchgeknallt](https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO) | [Klempner Klaus](https://open.spotify.com/album/4ZUCnOcTeLaz8XAKhl1zTL) | 2:35 | 2023-08-28 |  |
 | [Knicklicht](https://open.spotify.com/track/4tPfm4RkiCw8XppXUnFe7c) | [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ) | [Knicklicht](https://open.spotify.com/album/1TqfTWxuO8ciwXwoUB5GgE) | 2:18 | 2023-07-14 |  |
 | [Layla](https://open.spotify.com/track/3ujiq7yK4Uan5z4876fHLK) | [DJ Robin](https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz), [Schürze](https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ) | [Layla](https://open.spotify.com/album/6CL5pcCUiPeuKmI9U630l4) | 3:05 | 2023-07-14 |  |

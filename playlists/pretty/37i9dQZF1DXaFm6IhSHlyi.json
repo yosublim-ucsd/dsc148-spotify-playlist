@@ -1,12 +1,12 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 142635,
+  "num_followers": 142651,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjU3MzVmNjU2ODhhZTU5OTg0YTkzNjYzOTUyNGNjYTc2ZTY3OGIx",
+  "snapshot_id": "MCwwYWRhMDYzNjQ5YjNmNmRkMjk5NTc2ZDRiNTY2Y2ZkZTU3YzFjMWQ5",
   "tracks": [
     {
       "added_at": "2022-10-17 15:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Breakthrough",
-        "url": "https://open.spotify.com/album/0vXrZOMW00pJB52Oitkoxi"
-      },
-      "artists": [
-        {
-          "name": "Julie Anne San Jose",
-          "url": "https://open.spotify.com/artist/4NeCu267LZemnoq44lZYKy"
-        }
-      ],
-      "duration_ms": 223546,
-      "name": "Your Song (My One and Only You)",
-      "url": "https://open.spotify.com/track/3vA3D2J5ciFlIjdQ0piQBk"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Kahit Maputi Na Ang Buhok Ko",
         "url": "https://open.spotify.com/album/3J0vrYjkOCucLFNicBoXBY"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 219689,
       "name": "Kahit Maputi Na Ang Buhok Ko",
       "url": "https://open.spotify.com/track/60FXqDiSBkzdexOB3Ai3om"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/0vXrZOMW00pJB52Oitkoxi"
+      },
+      "artists": [
+        {
+          "name": "Julie Anne San Jose",
+          "url": "https://open.spotify.com/artist/4NeCu267LZemnoq44lZYKy"
+        }
+      ],
+      "duration_ms": 223546,
+      "name": "Your Song (My One and Only You)",
+      "url": "https://open.spotify.com/track/3vA3D2J5ciFlIjdQ0piQBk"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Media Tinta",
-        "url": "https://open.spotify.com/album/3fy0AQR7nr6OnEMrhgymm2"
-      },
-      "artists": [
-        {
-          "name": "Sofia Ellar",
-          "url": "https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR"
-        }
-      ],
-      "duration_ms": 234340,
-      "name": "Media Tinta",
-      "url": "https://open.spotify.com/track/05Xna7BUYBWuvEPdBNOq7t"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Te quiero (Versi\u00f3n 2019)",
         "url": "https://open.spotify.com/album/1xg3IvcDs8TmF05ZdKyNQJ"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 230386,
       "name": "Te Quiero - Versi\u00f3n 2019",
       "url": "https://open.spotify.com/track/4tHfu14rSYrdODVeJIGJ4r"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Media Tinta",
+        "url": "https://open.spotify.com/album/3fy0AQR7nr6OnEMrhgymm2"
+      },
+      "artists": [
+        {
+          "name": "Sofia Ellar",
+          "url": "https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR"
+        }
+      ],
+      "duration_ms": 234340,
+      "name": "Media Tinta",
+      "url": "https://open.spotify.com/track/05Xna7BUYBWuvEPdBNOq7t"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2099,6 +2099,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Madhaniyan (Live)",
+        "url": "https://open.spotify.com/album/1JQBJ5I4LF77Q6XHSvuPN1"
+      },
+      "artists": [
+        {
+          "name": "Neha Bhasin",
+          "url": "https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z"
+        }
+      ],
+      "duration_ms": 261592,
+      "name": "Madhaniyan (Live)",
+      "url": "https://open.spotify.com/track/6xuGNFWVVz2VKn56MSkT3D"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "I See The Dream (Badna Salam) [feat. Ali Gatie] [Acoustic]",
         "url": "https://open.spotify.com/album/0vVz5TFO0EWv7fvdSTK2T5"
       },
@@ -2115,22 +2131,6 @@
       "duration_ms": 163366,
       "name": "I See The Dream (Badna Salam) (feat. Ali Gatie) - Acoustic",
       "url": "https://open.spotify.com/track/00Uz6dZGLeIJxWV1FnsqgM"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Madhaniyan (Live)",
-        "url": "https://open.spotify.com/album/1JQBJ5I4LF77Q6XHSvuPN1"
-      },
-      "artists": [
-        {
-          "name": "Neha Bhasin",
-          "url": "https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z"
-        }
-      ],
-      "duration_ms": 261592,
-      "name": "Madhaniyan (Live)",
-      "url": "https://open.spotify.com/track/6xuGNFWVVz2VKn56MSkT3D"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Ana Mesh Magroha",
-        "url": "https://open.spotify.com/album/3hw0hBILtvaXlRWeygmDbI"
-      },
-      "artists": [
-        {
-          "name": "Shaimaa ElShayeb",
-          "url": "https://open.spotify.com/artist/2hEKer00BCTbnluLPC0Mbr"
-        }
-      ],
-      "duration_ms": 155013,
-      "name": "Ana Mesh Magroha",
-      "url": "https://open.spotify.com/track/4vJUFvVTdyLTeA9ANFCF1H"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "I mecht nur wissn wo du bist (I.U.E.)",
         "url": "https://open.spotify.com/album/0UBZIrwAvTOqVty6DaeNR1"
       },
@@ -2247,6 +2231,22 @@
       "duration_ms": 207920,
       "name": "I mecht nur wissn wo du bist - I.U.E.",
       "url": "https://open.spotify.com/track/2NFS0NEUZwJD7jmjOl9sGP"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Ana Mesh Magroha",
+        "url": "https://open.spotify.com/album/3hw0hBILtvaXlRWeygmDbI"
+      },
+      "artists": [
+        {
+          "name": "Shaimaa ElShayeb",
+          "url": "https://open.spotify.com/artist/2hEKer00BCTbnluLPC0Mbr"
+        }
+      ],
+      "duration_ms": 155013,
+      "name": "Ana Mesh Magroha",
+      "url": "https://open.spotify.com/track/4vJUFvVTdyLTeA9ANFCF1H"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2511,22 +2511,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "You Are",
-        "url": "https://open.spotify.com/album/6Rk6fBhF9OygBVeQ0lue2D"
-      },
-      "artists": [
-        {
-          "name": "Malak",
-          "url": "https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf"
-        }
-      ],
-      "duration_ms": 228541,
-      "name": "You Are",
-      "url": "https://open.spotify.com/track/02Mn57DbulnTiXU2B1jmZn"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "How We Love",
         "url": "https://open.spotify.com/album/2KGBrH9IX58DG3jubYV6xd"
       },
@@ -2539,6 +2523,22 @@
       "duration_ms": 230000,
       "name": "How We Love",
       "url": "https://open.spotify.com/track/41GBbgJmNrCRXOmLezn0sP"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "You Are",
+        "url": "https://open.spotify.com/album/6Rk6fBhF9OygBVeQ0lue2D"
+      },
+      "artists": [
+        {
+          "name": "Malak",
+          "url": "https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf"
+        }
+      ],
+      "duration_ms": 228541,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/02Mn57DbulnTiXU2B1jmZn"
     }
   ],
   "unique_name": "Ballads International",

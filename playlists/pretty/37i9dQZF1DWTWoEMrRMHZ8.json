@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Marisa Monte",
-  "num_followers": 347296,
+  "num_followers": 347362,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjN2ZmYTFjODRhODEwNDRlNzc1YjEzMzY4YjUzMzBiOGZiM2FlNzU1",
+  "snapshot_id": "MCw5NjMzYjQ3ZGU0OTExYWFlMGFhNTYxMjUzNTc0NTIzYzhiOTRlYjc3",
   "tracks": [
     {
       "added_at": "2023-11-24 08:34:02",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-11-24 08:34:02",
       "album": {
+        "name": "Nu Com a Minha M\u00fasica (EP)",
+        "url": "https://open.spotify.com/album/576YsQ9t7f2WGkne7NL6Gw"
+      },
+      "artists": [
+        {
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        }
+      ],
+      "duration_ms": 283557,
+      "name": "Nu Com a Minha M\u00fasica",
+      "url": "https://open.spotify.com/track/2RS04SWRKIpffQMPkNszil"
+    },
+    {
+      "added_at": "2023-11-24 08:34:02",
+      "album": {
         "name": "Pago Pra Ver",
         "url": "https://open.spotify.com/album/0NBS6JybiWavZoRw4vgwOD"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 272559,
       "name": "Pago Pra Ver",
       "url": "https://open.spotify.com/track/51i39xBUMKudsDCPqjQF1h"
-    },
-    {
-      "added_at": "2023-11-24 08:34:02",
-      "album": {
-        "name": "Nu Com a Minha M\u00fasica (EP)",
-        "url": "https://open.spotify.com/album/576YsQ9t7f2WGkne7NL6Gw"
-      },
-      "artists": [
-        {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
-        }
-      ],
-      "duration_ms": 283557,
-      "name": "Nu Com a Minha M\u00fasica",
-      "url": "https://open.spotify.com/track/2RS04SWRKIpffQMPkNszil"
     },
     {
       "added_at": "2023-11-24 08:34:02",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2023-11-24 08:34:02",
       "album": {
-        "name": "Um Gosto de Sol",
-        "url": "https://open.spotify.com/album/3KHEbkkbnX5ioSzVXwXw8V"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9u",
-          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
-        },
-        {
-          "name": "Russo Passapusso",
-          "url": "https://open.spotify.com/artist/4Rgs2uEA4ZPVrfSGTcFvVm"
-        }
-      ],
-      "duration_ms": 202549,
-      "name": "Teimosa",
-      "url": "https://open.spotify.com/track/6LMUkpnOYYLR81PhMD1Ult"
-    },
-    {
-      "added_at": "2023-11-24 08:34:02",
-      "album": {
         "name": "Viol\u00e3o de caba\u00e7a",
         "url": "https://open.spotify.com/album/4Wepz1IwezZQ5xRmULcbnu"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 480156,
       "name": "Viol\u00e3o de caba\u00e7a",
       "url": "https://open.spotify.com/track/4xKJU5gCIiWpbaBwRdoAS9"
+    },
+    {
+      "added_at": "2023-11-24 08:34:02",
+      "album": {
+        "name": "Um Gosto de Sol",
+        "url": "https://open.spotify.com/album/3KHEbkkbnX5ioSzVXwXw8V"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9u",
+          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
+        },
+        {
+          "name": "Russo Passapusso",
+          "url": "https://open.spotify.com/artist/4Rgs2uEA4ZPVrfSGTcFvVm"
+        }
+      ],
+      "duration_ms": 202549,
+      "name": "Teimosa",
+      "url": "https://open.spotify.com/track/6LMUkpnOYYLR81PhMD1Ult"
     },
     {
       "added_at": "2023-11-24 08:34:02",
@@ -1379,22 +1379,22 @@
     {
       "added_at": "2023-11-24 08:34:02",
       "album": {
-        "name": "Jo\u00e3o Bosco e Orquestra Ouro Preto: G\u00eanesis",
-        "url": "https://open.spotify.com/album/7u5u9iacVfaJLU5BTQqD7C"
+        "name": "Preciso Me Encontrar (Cita\u00e7\u00e3o: Deixe Me Ir)",
+        "url": "https://open.spotify.com/album/1AAnkhQRdXs5Z1TVcCfxCI"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Bosco",
-          "url": "https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH"
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
         },
         {
-          "name": "Orquestra Ouro Preto",
-          "url": "https://open.spotify.com/artist/2GXvjD5DHFtLk1vOMZ3JMt"
+          "name": "Negra Li",
+          "url": "https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn"
         }
       ],
-      "duration_ms": 319000,
-      "name": "Papel Mach\u00ea",
-      "url": "https://open.spotify.com/track/4LLd9bypGJLoHO0mK1twcn"
+      "duration_ms": 163268,
+      "name": "Preciso Me Encontrar (Cita\u00e7\u00e3o: Deixe Me Ir)",
+      "url": "https://open.spotify.com/track/3AyvCLfKJx3hvzKPLaM1TP"
     },
     {
       "added_at": "2023-11-24 08:34:02",
@@ -1415,6 +1415,26 @@
     {
       "added_at": "2023-11-24 08:34:02",
       "album": {
+        "name": "Jo\u00e3o Bosco e Orquestra Ouro Preto: G\u00eanesis",
+        "url": "https://open.spotify.com/album/7u5u9iacVfaJLU5BTQqD7C"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Bosco",
+          "url": "https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH"
+        },
+        {
+          "name": "Orquestra Ouro Preto",
+          "url": "https://open.spotify.com/artist/2GXvjD5DHFtLk1vOMZ3JMt"
+        }
+      ],
+      "duration_ms": 319000,
+      "name": "Papel Mach\u00ea",
+      "url": "https://open.spotify.com/track/4LLd9bypGJLoHO0mK1twcn"
+    },
+    {
+      "added_at": "2023-11-24 08:34:02",
+      "album": {
         "name": "Novas Cores, Eternas Can\u00e7\u00f5es (Deluxe)",
         "url": "https://open.spotify.com/album/7nowUNu0pHcEL9qK24CfRR"
       },
@@ -1431,26 +1451,6 @@
       "duration_ms": 165815,
       "name": "Regra Tr\u00eas",
       "url": "https://open.spotify.com/track/31P41KIR8XuaRnBw0IMswD"
-    },
-    {
-      "added_at": "2023-11-24 08:34:02",
-      "album": {
-        "name": "Preciso Me Encontrar (Cita\u00e7\u00e3o: Deixe Me Ir)",
-        "url": "https://open.spotify.com/album/1AAnkhQRdXs5Z1TVcCfxCI"
-      },
-      "artists": [
-        {
-          "name": "Elza Soares",
-          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
-        },
-        {
-          "name": "Negra Li",
-          "url": "https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn"
-        }
-      ],
-      "duration_ms": 163268,
-      "name": "Preciso Me Encontrar (Cita\u00e7\u00e3o: Deixe Me Ir)",
-      "url": "https://open.spotify.com/track/3AyvCLfKJx3hvzKPLaM1TP"
     },
     {
       "added_at": "2023-11-24 08:34:02",
@@ -1531,18 +1531,26 @@
     {
       "added_at": "2023-11-24 08:34:02",
       "album": {
-        "name": "Porto",
-        "url": "https://open.spotify.com/album/6Usxsp50R9DWMOn26jlZCj"
+        "name": "Saudade Fez um Samba",
+        "url": "https://open.spotify.com/album/7nUUtvmgriNDiRYrgJmiG7"
       },
       "artists": [
         {
-          "name": "MPB4",
-          "url": "https://open.spotify.com/artist/3SKTkAUNa3oUa2rkd8DAyM"
+          "name": "Carlos Lyra",
+          "url": "https://open.spotify.com/artist/3LokxmaXXZpL7sLZASDzCS"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        },
+        {
+          "name": "Jo\u00e3o Donato",
+          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
         }
       ],
-      "duration_ms": 205360,
-      "name": "Porto",
-      "url": "https://open.spotify.com/track/5OfyMpThWxNX87z92GNerl"
+      "duration_ms": 170880,
+      "name": "Saudade Fez um Samba",
+      "url": "https://open.spotify.com/track/6DqwMVBqftG7yoPb2Uu0Rq"
     },
     {
       "added_at": "2023-11-24 08:34:02",
@@ -1579,18 +1587,18 @@
     {
       "added_at": "2023-11-24 08:34:02",
       "album": {
-        "name": "Tenho Sede",
-        "url": "https://open.spotify.com/album/32GFhnNQcD177HFEO68C4C"
+        "name": "Porto",
+        "url": "https://open.spotify.com/album/6Usxsp50R9DWMOn26jlZCj"
       },
       "artists": [
         {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+          "name": "MPB4",
+          "url": "https://open.spotify.com/artist/3SKTkAUNa3oUa2rkd8DAyM"
         }
       ],
-      "duration_ms": 190468,
-      "name": "Tenho Sede",
-      "url": "https://open.spotify.com/track/0b97rykYOWhwUhJzdhvo9z"
+      "duration_ms": 205360,
+      "name": "Porto",
+      "url": "https://open.spotify.com/track/5OfyMpThWxNX87z92GNerl"
     },
     {
       "added_at": "2023-11-24 08:34:02",
@@ -1607,6 +1615,22 @@
       "duration_ms": 196319,
       "name": "Ser\u00e1 que eu t\u00f4 gostando dela? (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/2NKaOIKEoRdCitUlZXLRLA"
+    },
+    {
+      "added_at": "2023-11-24 08:34:02",
+      "album": {
+        "name": "Tenho Sede",
+        "url": "https://open.spotify.com/album/32GFhnNQcD177HFEO68C4C"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 190468,
+      "name": "Tenho Sede",
+      "url": "https://open.spotify.com/track/0b97rykYOWhwUhJzdhvo9z"
     },
     {
       "added_at": "2023-11-24 08:34:02",
@@ -1679,22 +1703,6 @@
     {
       "added_at": "2023-11-24 08:34:02",
       "album": {
-        "name": "Espelho",
-        "url": "https://open.spotify.com/album/5zn0vUxrEK2ffmPFKl41Nw"
-      },
-      "artists": [
-        {
-          "name": "Chico Chico",
-          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
-        }
-      ],
-      "duration_ms": 131192,
-      "name": "Espelho",
-      "url": "https://open.spotify.com/track/51240EZPieH7ahE2B7IFJv"
-    },
-    {
-      "added_at": "2023-11-24 08:34:02",
-      "album": {
         "name": "Errante",
         "url": "https://open.spotify.com/album/6vrGTfdekueBX6lV9YJpSn"
       },
@@ -1711,26 +1719,38 @@
     {
       "added_at": "2023-11-24 08:34:02",
       "album": {
-        "name": "Saudade Fez um Samba",
-        "url": "https://open.spotify.com/album/7nUUtvmgriNDiRYrgJmiG7"
+        "name": "Espelho",
+        "url": "https://open.spotify.com/album/5zn0vUxrEK2ffmPFKl41Nw"
       },
       "artists": [
         {
-          "name": "Carlos Lyra",
-          "url": "https://open.spotify.com/artist/3LokxmaXXZpL7sLZASDzCS"
-        },
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        },
-        {
-          "name": "Jo\u00e3o Donato",
-          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+          "name": "Chico Chico",
+          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
         }
       ],
-      "duration_ms": 170880,
-      "name": "Saudade Fez um Samba",
-      "url": "https://open.spotify.com/track/6DqwMVBqftG7yoPb2Uu0Rq"
+      "duration_ms": 131192,
+      "name": "Espelho",
+      "url": "https://open.spotify.com/track/51240EZPieH7ahE2B7IFJv"
+    },
+    {
+      "added_at": "2023-11-24 08:34:02",
+      "album": {
+        "name": "A Menina Da Felicidade",
+        "url": "https://open.spotify.com/album/6ntWpW5Vr7cEzvj3VIX0AT"
+      },
+      "artists": [
+        {
+          "name": "Erasmo Carlos",
+          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
+        },
+        {
+          "name": "Gaby Amarantos",
+          "url": "https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L"
+        }
+      ],
+      "duration_ms": 211914,
+      "name": "A Menina Da Felicidade",
+      "url": "https://open.spotify.com/track/1ZPNgIHGgtoaY4wjdHOvIu"
     },
     {
       "added_at": "2023-11-24 08:34:02",
@@ -1771,6 +1791,22 @@
     {
       "added_at": "2023-11-24 08:34:02",
       "album": {
+        "name": "V\u00eatu d'Amour (Deluxe)",
+        "url": "https://open.spotify.com/album/7jTYwfGnPOdMkGuBshsMhY"
+      },
+      "artists": [
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+        }
+      ],
+      "duration_ms": 215173,
+      "name": "Dan\u00e7a Do Amor",
+      "url": "https://open.spotify.com/track/67JG2SdJoiG0mUJ1AxeNwB"
+    },
+    {
+      "added_at": "2023-11-24 08:34:02",
+      "album": {
         "name": "Doce Carnaval",
         "url": "https://open.spotify.com/album/6yeamXA0Sxk8QvgOkRZXXB"
       },
@@ -1791,94 +1827,6 @@
     {
       "added_at": "2023-11-24 08:34:02",
       "album": {
-        "name": "Curado ou Distra\u00eddo",
-        "url": "https://open.spotify.com/album/01pNyNl24FihKAxwGDQC70"
-      },
-      "artists": [
-        {
-          "name": "Pratagy",
-          "url": "https://open.spotify.com/artist/6pa80SSIvE2EacgPZZB6t1"
-        }
-      ],
-      "duration_ms": 244682,
-      "name": "Um Objeto no C\u00e9u",
-      "url": "https://open.spotify.com/track/7KjKUsjJkHo5MGa0UxZkpT"
-    },
-    {
-      "added_at": "2023-11-24 08:34:02",
-      "album": {
-        "name": "A Menina Da Felicidade",
-        "url": "https://open.spotify.com/album/6ntWpW5Vr7cEzvj3VIX0AT"
-      },
-      "artists": [
-        {
-          "name": "Erasmo Carlos",
-          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
-        },
-        {
-          "name": "Gaby Amarantos",
-          "url": "https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L"
-        }
-      ],
-      "duration_ms": 211914,
-      "name": "A Menina Da Felicidade",
-      "url": "https://open.spotify.com/track/1ZPNgIHGgtoaY4wjdHOvIu"
-    },
-    {
-      "added_at": "2023-11-24 08:34:02",
-      "album": {
-        "name": "Dentro de Mim Mora um Anjo",
-        "url": "https://open.spotify.com/album/73T1TmkFsh2GACqwI9HGPJ"
-      },
-      "artists": [
-        {
-          "name": "Ala\u00edde Costa",
-          "url": "https://open.spotify.com/artist/2KkoeJkkFr802J5gPjlRGs"
-        }
-      ],
-      "duration_ms": 180224,
-      "name": "Dentro de Mim Mora um Anjo",
-      "url": "https://open.spotify.com/track/38GXK1MFIadtntHhd2oYrf"
-    },
-    {
-      "added_at": "2023-11-24 08:34:02",
-      "album": {
-        "name": "V\u00eatu d'Amour (Deluxe)",
-        "url": "https://open.spotify.com/album/7jTYwfGnPOdMkGuBshsMhY"
-      },
-      "artists": [
-        {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
-        }
-      ],
-      "duration_ms": 215173,
-      "name": "Dan\u00e7a Do Amor",
-      "url": "https://open.spotify.com/track/67JG2SdJoiG0mUJ1AxeNwB"
-    },
-    {
-      "added_at": "2023-11-24 08:34:02",
-      "album": {
-        "name": "\u00c1urea Martins e Jo\u00e3o Senise Celebram Sinatra & Jobim",
-        "url": "https://open.spotify.com/album/0EfJaMIyZdwDmqmQ968t1b"
-      },
-      "artists": [
-        {
-          "name": "\u00c1urea Martins",
-          "url": "https://open.spotify.com/artist/2IhXQoBqrZnxbQgLlnEQuh"
-        },
-        {
-          "name": "Jo\u00e3o Senise",
-          "url": "https://open.spotify.com/artist/617AppPP43Nj0YZozgZnbb"
-        }
-      ],
-      "duration_ms": 190773,
-      "name": "Medita\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0ueOxHSHracxaMRZslZt05"
-    },
-    {
-      "added_at": "2023-11-24 08:34:02",
-      "album": {
         "name": "Duas da Manh\u00e3",
         "url": "https://open.spotify.com/album/00zcJl8VAUdohbTZfPJnY5"
       },
@@ -1891,22 +1839,6 @@
       "duration_ms": 198071,
       "name": "Duas da Manh\u00e3",
       "url": "https://open.spotify.com/track/4njPGT7H3RNdAy1Lkh3cYI"
-    },
-    {
-      "added_at": "2023-11-24 08:34:02",
-      "album": {
-        "name": "Xir\u00ea",
-        "url": "https://open.spotify.com/album/0h1QwG04EnoVXSiFbgeELZ"
-      },
-      "artists": [
-        {
-          "name": "Clarianas",
-          "url": "https://open.spotify.com/artist/1DYY6zqjaXcOWpgIa4thXe"
-        }
-      ],
-      "duration_ms": 218958,
-      "name": "Tupinamb\u00e1",
-      "url": "https://open.spotify.com/track/6SFJWtpZhmSqwMxRa6JW8l"
     },
     {
       "added_at": "2023-11-24 08:34:02",
@@ -1927,6 +1859,54 @@
     {
       "added_at": "2023-11-24 08:34:02",
       "album": {
+        "name": "Xir\u00ea",
+        "url": "https://open.spotify.com/album/0h1QwG04EnoVXSiFbgeELZ"
+      },
+      "artists": [
+        {
+          "name": "Clarianas",
+          "url": "https://open.spotify.com/artist/1DYY6zqjaXcOWpgIa4thXe"
+        }
+      ],
+      "duration_ms": 218958,
+      "name": "Tupinamb\u00e1",
+      "url": "https://open.spotify.com/track/6SFJWtpZhmSqwMxRa6JW8l"
+    },
+    {
+      "added_at": "2023-11-24 08:34:02",
+      "album": {
+        "name": "Curado ou Distra\u00eddo",
+        "url": "https://open.spotify.com/album/01pNyNl24FihKAxwGDQC70"
+      },
+      "artists": [
+        {
+          "name": "Pratagy",
+          "url": "https://open.spotify.com/artist/6pa80SSIvE2EacgPZZB6t1"
+        }
+      ],
+      "duration_ms": 244682,
+      "name": "Um Objeto no C\u00e9u",
+      "url": "https://open.spotify.com/track/7KjKUsjJkHo5MGa0UxZkpT"
+    },
+    {
+      "added_at": "2023-11-24 08:34:02",
+      "album": {
+        "name": "Dentro de Mim Mora um Anjo",
+        "url": "https://open.spotify.com/album/73T1TmkFsh2GACqwI9HGPJ"
+      },
+      "artists": [
+        {
+          "name": "Ala\u00edde Costa",
+          "url": "https://open.spotify.com/artist/2KkoeJkkFr802J5gPjlRGs"
+        }
+      ],
+      "duration_ms": 180224,
+      "name": "Dentro de Mim Mora um Anjo",
+      "url": "https://open.spotify.com/track/38GXK1MFIadtntHhd2oYrf"
+    },
+    {
+      "added_at": "2023-11-24 08:34:02",
+      "album": {
         "name": "Doce Carnaval",
         "url": "https://open.spotify.com/album/6yeamXA0Sxk8QvgOkRZXXB"
       },
@@ -1943,6 +1923,26 @@
       "duration_ms": 193186,
       "name": "Banho de Cheiro",
       "url": "https://open.spotify.com/track/4HdKCNf0qZ0weLDBsZKJl5"
+    },
+    {
+      "added_at": "2023-11-24 08:34:02",
+      "album": {
+        "name": "\u00c1urea Martins e Jo\u00e3o Senise Celebram Sinatra & Jobim",
+        "url": "https://open.spotify.com/album/0EfJaMIyZdwDmqmQ968t1b"
+      },
+      "artists": [
+        {
+          "name": "\u00c1urea Martins",
+          "url": "https://open.spotify.com/artist/2IhXQoBqrZnxbQgLlnEQuh"
+        },
+        {
+          "name": "Jo\u00e3o Senise",
+          "url": "https://open.spotify.com/artist/617AppPP43Nj0YZozgZnbb"
+        }
+      ],
+      "duration_ms": 190773,
+      "name": "Medita\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0ueOxHSHracxaMRZslZt05"
     },
     {
       "added_at": "2023-11-24 08:34:02",

@@ -4,7 +4,7 @@
 
 > Classic tunes that shaped and defined the 90s rave scene \- a unique era for dance music.
 
-124 songs - 10 hr 52 min
+126 songs - 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Clear \- Jose “Animal” Diaz Remix](https://open.spotify.com/track/5NKHUvpRs7zr0yOQjx8Exr) | [Cybotron](https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm) | [Clear](https://open.spotify.com/album/2a81I8YLdT49A5LWHxetcC) | 4:54 | 2020-10-06 |  |
 | [Code Red](https://open.spotify.com/track/4m3WUb2XPPaVgLBUc5SsNJ) | [Conquering Lion](https://open.spotify.com/artist/5ihLdJPtkczDQGJitNiWcG) | [Code Red](https://open.spotify.com/album/3J7BL97p8taetIOLtaXyI6) | 4:31 | 2020-10-06 | 2022-07-21 |
 | [Cubes](https://open.spotify.com/track/6SWyIMaXdpLkhiItiS40yw) | [Modular Expansion](https://open.spotify.com/artist/7gzna5FLH7KeMHxbqImL7P) | [Unit 1](https://open.spotify.com/album/5w3AS9phJPcCVQMcvefeHt) | 4:05 | 2020-10-06 | 2022-07-20 |
-| [Cübik](https://open.spotify.com/track/5BxETnZ8Dzm86jcuFAozOa) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [Utd\. State 90](https://open.spotify.com/album/7DWTuqhMmJIE9Py0e8Wa5C) | 3:41 | 2020-10-06 |  |
+| [Cübik](https://open.spotify.com/track/5BxETnZ8Dzm86jcuFAozOa) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [Utd\. State 90](https://open.spotify.com/album/7DWTuqhMmJIE9Py0e8Wa5C) | 3:41 | 2020-10-06 | 2023-11-26 |
 | [Cübik \(Original Mix\)](https://open.spotify.com/track/4wOqlDz4gK8tmIBHkOery6) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [EX:EL](https://open.spotify.com/album/0PbQC8LnwDcO02TiiAlpWc) | 3:44 | 2020-10-06 | 2022-07-29 |
 | [Digeridoo](https://open.spotify.com/track/2xfCPmY2rPmy7IqVdoQsBS) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Classics](https://open.spotify.com/album/3SLSq9tzQ8Wq8RWuo0MaXG) | 7:11 | 2020-10-06 | 2022-11-13 |
 | [Digeridoo](https://open.spotify.com/track/3QSQbRPGDky3vRmXVeP8iU) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Digeridoo](https://open.spotify.com/album/1yDakrbF2ddXhBd6c8bV0G) | 7:11 | 2020-10-06 |  |
@@ -49,6 +49,7 @@
 | [Energy Flash](https://open.spotify.com/track/6QBL3OaSCbTbI1N8Oy5twv) | [Joey Beltram](https://open.spotify.com/artist/4OW0w5K2UNaWtbpRqzWqI0) | [Beltram Vol 1](https://open.spotify.com/album/3oPLFFhqRVKH3gagWpdKjk) | 5:50 | 2020-10-06 | 2022-07-28 |
 | [Energy Flash](https://open.spotify.com/track/46ddej1ibGIgs58H0wakoK) | [Joey Beltram](https://open.spotify.com/artist/4OW0w5K2UNaWtbpRqzWqI0) | [Classics](https://open.spotify.com/album/28lpBShPdRMmQxT2kEAKMq) | 5:50 | 2020-10-06 |  |
 | [Everybody's Free \(To Feel Good\)](https://open.spotify.com/track/4rkiST7hsHEuU5EMvApemD) | [Rozalla](https://open.spotify.com/artist/2wnJCxpnKAagrdBJAvaDrQ) | [The Very Best of Rozalla](https://open.spotify.com/album/2xLMSSS0oFoJshrOIrvK7b) | 3:31 | 2020-10-06 |  |
+| [Far out](https://open.spotify.com/track/2EdiQq1vN8sCZUEccfYB8P) | [Sonz Of A Loop Da Loop Era](https://open.spotify.com/artist/7BVU0VCeUMAa18zDX5mOyh) | [Far Out / Higher](https://open.spotify.com/album/4PL37TxrXrlFCamUJDdGrO) | 4:55 | 2023-10-19 |  |
 | [Far Out](https://open.spotify.com/track/4C4J0hCMtaXvwb5qbg05GE) | [Sonz Of A Loop Da Loop Era](https://open.spotify.com/artist/7BVU0VCeUMAa18zDX5mOyh) | [Suburban Base Records \(The History of Hardcore, Jungle, Drum & Bass: 1991\-1997\)](https://open.spotify.com/album/3ezKKW3YNljLv3f62Z6mjr) | 4:55 | 2020-10-06 | 2022-07-17 |
 | [Far out](https://open.spotify.com/track/72qHsDcLYFyPTqKAmQcm4h) | [Sonz Of A Loop Da Loop Era](https://open.spotify.com/artist/7BVU0VCeUMAa18zDX5mOyh) | [Far Out/Higher](https://open.spotify.com/album/3OGpPRrKarUlNG4bF4sn6M) | 4:55 | 2020-10-06 | 2023-11-05 |
 | [Feel Real Good](https://open.spotify.com/track/0JaqIqqFzNkQFoCJTFrakV) | [Manix](https://open.spotify.com/artist/3NxpC1snwKVakSDm2hLNsI) | [Reinforced Presents Callin For Reinforcements](https://open.spotify.com/album/5w8cU8ixaBD5NjjNnFG7mA) | 4:40 | 2020-10-06 |  |
@@ -127,7 +128,8 @@
 | [Virtual Reality](https://open.spotify.com/track/0CL3dgB2zxfXp4bikncXmk) | [QFX](https://open.spotify.com/artist/1VGHyNdmZk1SCK09hMFwlr) | [The Anthems 1995\-2010](https://open.spotify.com/album/6qehPYh5zcEefMYFNl5nYo) | 3:52 | 2020-10-06 | 2022-07-27 |
 | [Voodoo People](https://open.spotify.com/track/03QUcrQ2EyMJv6q7KY3kS5) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Music for the Jilted Generation](https://open.spotify.com/album/3HpFr2EeE38hr706Rxtmjy) | 6:27 | 2020-10-06 | 2022-07-29 |
 | [Voodoo People](https://open.spotify.com/track/0UzhQhSjlIiNHqozH0tKHl) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Music for the Jilted Generation](https://open.spotify.com/album/05yevdRXvaX6KGRaZehaDW) | 6:27 | 2020-10-06 |  |
-| [Voodoo Ray](https://open.spotify.com/track/1Ex3FSidOBkODU3pcsCRYK) | [A Guy Called Gerald](https://open.spotify.com/artist/1TV0WTE9ukywcLGMh4j4iU) | [Voodoo Ray](https://open.spotify.com/album/5AUlLncAftSgXvjWzAWvU9) | 4:27 | 2023-10-19 |  |
+| [Voodoo Ray](https://open.spotify.com/track/1Ex3FSidOBkODU3pcsCRYK) | [A Guy Called Gerald](https://open.spotify.com/artist/1TV0WTE9ukywcLGMh4j4iU) | [Voodoo Ray](https://open.spotify.com/album/5AUlLncAftSgXvjWzAWvU9) | 4:27 | 2023-10-19 | 2023-11-26 |
+| [Voodoo Ray](https://open.spotify.com/track/2P2NuxsDeOIzyjnqEhLGBD) | [A Guy Called Gerald](https://open.spotify.com/artist/1TV0WTE9ukywcLGMh4j4iU) | [Hot Lemonade](https://open.spotify.com/album/2GYZ3Z8rM4RzeMBbOI52ua) | 4:27 | 2023-10-19 |  |
 | [We Are I.E\. \- Original Extended Edit](https://open.spotify.com/track/5updfQssZ3S5hmPSyPhHdV) | [Lennie De Ice](https://open.spotify.com/artist/5FlgrBF71OneBX2lLRe4Tj) | [We Are I.E.](https://open.spotify.com/album/6WxzGPzFFbOh5KfbT7IvdC) | 4:58 | 2020-10-06 | 2022-07-29 |
 | [We Are I.E\. \- Original Extended Edit](https://open.spotify.com/track/7Li4jlU5MVqS5f3J2ooviA) | [Lennie De Ice](https://open.spotify.com/artist/5FlgrBF71OneBX2lLRe4Tj) | [We Are I.E.](https://open.spotify.com/album/0tZD3DurMqNzntpB60M5cH) | 4:58 | 2020-10-06 | 2022-11-12 |
 | [Your Love \(Remix\)](https://open.spotify.com/track/4axNug8UrlC0ndpSNhe5iF) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Experience](https://open.spotify.com/album/3LYrQ4Pr2CMbQl3nWxXItR) | 5:31 | 2020-10-06 | 2022-07-29 |

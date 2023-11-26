@@ -1,12 +1,12 @@
 {
   "description": "\u0639\u064a\u0634 \u0623\u062c\u0645\u0644 \u062d\u0627\u0644\u0629 \u062d\u0628 \ud83e\udef6\u2764\ufe0f\n \u0643\u0648\u0641\u0631: <a href=\"https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg?si=SaDgQlWvTb2aXAi94J-UOA\"> \u0627\u0646\u063a\u0627\u0645 </a>",
-  "num_followers": 103383,
+  "num_followers": 103657,
   "original_name": "\u062d\u0628 \u0648\u063a\u0631\u0627\u0645",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMGRmNDIyZWM0NDM3MDBlYTAzZDEwZGI5NDRiOWM2NDNhNWUwNTdj",
+  "snapshot_id": "MCw5NGMyZDFiMWZkOWE5ODMxMjU1MzE0ZDU3ZjYwOTcxYzk5M2FmMDQ0",
   "tracks": [
     {
       "added_at": "2023-11-13 11:00:27",
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-11-13 11:00:27",
       "album": {
-        "name": "Kol Haga Bena",
-        "url": "https://open.spotify.com/album/4sP2eO6axQPJmj29zVbWe3"
-      },
-      "artists": [
-        {
-          "name": "Tamer Hosny",
-          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
-        }
-      ],
-      "duration_ms": 250032,
-      "name": "Kol Haga Bena",
-      "url": "https://open.spotify.com/track/6R9vGR2LDKwSjCdGfzk4iF"
-    },
-    {
-      "added_at": "2023-11-13 11:00:27",
-      "album": {
         "name": "Lehqt Nafsy",
         "url": "https://open.spotify.com/album/5Hy7i5IWXGVgnZ6EGYK5Oq"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 199076,
       "name": "Manga",
       "url": "https://open.spotify.com/track/72UjNW994y94RYAdTB4zD4"
+    },
+    {
+      "added_at": "2023-11-13 11:00:27",
+      "album": {
+        "name": "Kol Haga Bena",
+        "url": "https://open.spotify.com/album/4sP2eO6axQPJmj29zVbWe3"
+      },
+      "artists": [
+        {
+          "name": "Tamer Hosny",
+          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
+        }
+      ],
+      "duration_ms": 250032,
+      "name": "Kol Haga Bena",
+      "url": "https://open.spotify.com/track/6R9vGR2LDKwSjCdGfzk4iF"
     },
     {
       "added_at": "2023-11-13 11:00:27",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-11-13 11:00:27",
       "album": {
-        "name": "\u0628\u062d\u0628\u0643",
-        "url": "https://open.spotify.com/album/2BBf2DS8iEOLWD5qUVCBe2"
-      },
-      "artists": [
-        {
-          "name": "Tamer Hosny",
-          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Enta Ekhtyar - From Bhabak Movie",
-      "url": "https://open.spotify.com/track/41THKTMbCeKcxnhNj1AeK7"
-    },
-    {
-      "added_at": "2023-11-13 11:00:27",
-      "album": {
         "name": "Habbeit",
         "url": "https://open.spotify.com/album/06o2PRxxn8CSKjNkEiOyCk"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 257532,
       "name": "Bi Kelma Menak",
       "url": "https://open.spotify.com/track/042s2c7HA1Bd1LLFUEaja0"
+    },
+    {
+      "added_at": "2023-11-13 11:00:27",
+      "album": {
+        "name": "\u0628\u062d\u0628\u0643",
+        "url": "https://open.spotify.com/album/2BBf2DS8iEOLWD5qUVCBe2"
+      },
+      "artists": [
+        {
+          "name": "Tamer Hosny",
+          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Enta Ekhtyar - From Bhabak Movie",
+      "url": "https://open.spotify.com/track/41THKTMbCeKcxnhNj1AeK7"
     },
     {
       "added_at": "2023-11-13 11:00:27",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-11-13 11:00:27",
       "album": {
-        "name": "Bahebak",
-        "url": "https://open.spotify.com/album/12IyIdjFQNAWCrKXbtEunW"
-      },
-      "artists": [
-        {
-          "name": "Tamer Hosny",
-          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Bahebak",
-      "url": "https://open.spotify.com/track/6a4l9CrvajT9qtcFAY9oxk"
-    },
-    {
-      "added_at": "2023-11-13 11:00:27",
-      "album": {
         "name": "Bi Saraha",
         "url": "https://open.spotify.com/album/3q4jN4ZH36O9VdVD1iwZ3E"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 205333,
       "name": "Aamel Nasini",
       "url": "https://open.spotify.com/track/7qBENtVsjHWpkCNKTTGyJN"
+    },
+    {
+      "added_at": "2023-11-13 11:00:27",
+      "album": {
+        "name": "Bahebak",
+        "url": "https://open.spotify.com/album/12IyIdjFQNAWCrKXbtEunW"
+      },
+      "artists": [
+        {
+          "name": "Tamer Hosny",
+          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Bahebak",
+      "url": "https://open.spotify.com/track/6a4l9CrvajT9qtcFAY9oxk"
     },
     {
       "added_at": "2023-11-13 11:00:27",
@@ -647,6 +647,22 @@
     {
       "added_at": "2023-11-13 11:00:27",
       "album": {
+        "name": "Ekhtart Sah",
+        "url": "https://open.spotify.com/album/3wfH8A6DyBlbWWyzonseqf"
+      },
+      "artists": [
+        {
+          "name": "Tamer Hosny",
+          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
+        }
+      ],
+      "duration_ms": 316880,
+      "name": "Etamen",
+      "url": "https://open.spotify.com/track/5ti8xf2EXHvNFipCq7MzNa"
+    },
+    {
+      "added_at": "2023-11-13 11:00:27",
+      "album": {
         "name": "\u0644\u064a\u0644\u0649 \u0646\u0647\u0627\u0631\u0649",
         "url": "https://open.spotify.com/album/3LWomHcV23wxuDTR8PnkrJ"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 218827,
       "name": "Awel Mara Etabelna",
       "url": "https://open.spotify.com/track/1ifVT3ZS6GZEmOhJI050Sq"
-    },
-    {
-      "added_at": "2023-11-13 11:00:27",
-      "album": {
-        "name": "Ekhtart Sah",
-        "url": "https://open.spotify.com/album/3wfH8A6DyBlbWWyzonseqf"
-      },
-      "artists": [
-        {
-          "name": "Tamer Hosny",
-          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
-        }
-      ],
-      "duration_ms": 316880,
-      "name": "Etamen",
-      "url": "https://open.spotify.com/track/5ti8xf2EXHvNFipCq7MzNa"
     },
     {
       "added_at": "2023-11-13 11:00:27",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-11-13 11:00:27",
       "album": {
+        "name": "\u062f\u064a \u062d\u0628\u064a\u0628\u062a\u064a",
+        "url": "https://open.spotify.com/album/51H6iYdNtR5szs6gji45LJ"
+      },
+      "artists": [
+        {
+          "name": "SAMO ZAEN",
+          "url": "https://open.spotify.com/artist/4DW2hW7UeUenUJo7MUWEQl"
+        }
+      ],
+      "duration_ms": 232511,
+      "name": "\u062f\u064a \u062d\u0628\u064a\u0628\u062a\u064a",
+      "url": "https://open.spotify.com/track/1usEdJo0r9qk2gcnvx7bTr"
+    },
+    {
+      "added_at": "2023-11-13 11:00:27",
+      "album": {
         "name": "Tool Mahna Maa Baad (Coke Studio Egypt 2023)",
         "url": "https://open.spotify.com/album/1zwC6c3YBRtzZEPzLBjZgC"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 215040,
       "name": "Tool Mahna Maa Baad (Coke Studio Egypt 2023)",
       "url": "https://open.spotify.com/track/1voa8b59cgkIhPpEnHIk31"
-    },
-    {
-      "added_at": "2023-11-13 11:00:27",
-      "album": {
-        "name": "\u062f\u064a \u062d\u0628\u064a\u0628\u062a\u064a",
-        "url": "https://open.spotify.com/album/51H6iYdNtR5szs6gji45LJ"
-      },
-      "artists": [
-        {
-          "name": "SAMO ZAEN",
-          "url": "https://open.spotify.com/artist/4DW2hW7UeUenUJo7MUWEQl"
-        }
-      ],
-      "duration_ms": 232511,
-      "name": "\u062f\u064a \u062d\u0628\u064a\u0628\u062a\u064a",
-      "url": "https://open.spotify.com/track/1usEdJo0r9qk2gcnvx7bTr"
     },
     {
       "added_at": "2023-11-13 11:00:27",

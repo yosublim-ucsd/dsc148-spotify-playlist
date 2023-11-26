@@ -4,7 +4,7 @@
 
 > Lo más nuevo de la Música Mexicana\. Cover: Gerardo Ortiz and Santa Fe Klan
 
-3,968 songs - 8 day 15 hr 37 min
+3,969 songs - 8 day 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2767,7 +2767,8 @@
 | [Olvídame Tú](https://open.spotify.com/track/2KwsKHfXagurEXkTPpWGEN) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Olvídame Tú](https://open.spotify.com/album/1WVbKmdcQlfQJLUYkGZu06) | 3:41 | 2022-10-28 | 2022-11-05 |
 | [Olvídate De Mí](https://open.spotify.com/track/4PGBe2ag7rU52WltQAscyJ) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Olvídate De Mí](https://open.spotify.com/album/6q45KudoMXj6WpG3dPsOVl) | 3:29 | 2023-09-15 | 2023-09-23 |
 | [Oni Shangó](https://open.spotify.com/track/4Z8isjOPZFB01rsxjL4cqo) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Los De Porte Fino](https://open.spotify.com/artist/6xTz1zhl5vDs8RK3X9d1yi) | [Oni Shangó](https://open.spotify.com/album/6o8gzxHeaiecVTZp4oAOA2) | 1:58 | 2022-09-02 | 2022-09-10 |
-| [ONTAS BB](https://open.spotify.com/track/0AxbelOCUlFunxBJyoixsb) | [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [ONTAS BB](https://open.spotify.com/album/4QLawl4TjcXv7LU2UEaRJQ) | 3:27 | 2023-11-24 |  |
+| [ONTAS BB](https://open.spotify.com/track/0AxbelOCUlFunxBJyoixsb) | [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [ONTAS BB](https://open.spotify.com/album/4QLawl4TjcXv7LU2UEaRJQ) | 3:27 | 2023-11-24 | 2023-11-26 |
+| [ONTAS BB](https://open.spotify.com/track/3IHSOgqSplOCtN2NiGlp0q) | [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [ONTAS BB](https://open.spotify.com/album/2sbHi7VQ7U7uohlhAo0gax) | 3:27 | 2023-11-24 |  |
 | [Orden de Aprehensión](https://open.spotify.com/track/3XwPHI5g5QN41Jlt5J13QV) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Canelos De Durango](https://open.spotify.com/artist/4XAsg7uclewySpdLcD81LJ) | [Entre Amigos](https://open.spotify.com/album/7v1XFpws6JNWe5fwOC8vPZ) | 3:39 | 2023-01-27 | 2023-02-04 |
 | [Oro Negro](https://open.spotify.com/track/627JaIxyG2KyF2BKRMOPhK) | [Los De La 21](https://open.spotify.com/artist/1BGwlfPEZp2S4eBxOclgaE) | [Oro Negro](https://open.spotify.com/album/6QeXTk5uTSARcSO6NR7OJF) | 3:41 | 2023-01-20 | 2023-01-28 |
 | [Otra Botella](https://open.spotify.com/track/3X1sFqUe5J6Wqrn99jL6R7) | [Zexta Alianza](https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [Otra Botella](https://open.spotify.com/album/6Nr8ddIjhdjliv3Db8foiD) | 3:37 | 2023-09-22 | 2023-09-30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Anderson Freire
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,439 likes - 95 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,544 likes - 95 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 94 | [Naquela Cruz](https://open.spotify.com/track/0RcDWdgqUlN1es8XePSr0T) | [Cintia Alves](https://open.spotify.com/artist/44QKgWEOgO8Au3u2fzrTAo) | [Naquela Cruz](https://open.spotify.com/album/0OqgbG8RKtch1zUglONrlk) | 3:16 |
 | 95 | [Deus Sem Rival](https://open.spotify.com/track/6omyfzYqN1rRkWad7gTlZU) | [Padre Diogo Albuquerque](https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b) | [Deus Sem Rival](https://open.spotify.com/album/1c0ufX8C017iO7T31UWE1N) | 6:14 |
 
-Snapshot ID: `MCw3MzY5NTEyZTkxOWFkYTllYTlkMWI2MTg3ZjA3ZDZiNDdmMTZmODM2`
+Snapshot ID: `MCxmMjY0YzQyYmM2N2VhZjdiN2M2MDE1YzEwYTFkOTNlMDRiMmU2NWZj`

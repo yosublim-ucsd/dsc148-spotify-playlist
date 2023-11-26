@@ -1,12 +1,12 @@
 {
   "description": "A celebration of Norway's dance scene!",
-  "num_followers": 132192,
+  "num_followers": 132228,
   "original_name": "Space Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWIzZDliYjJjNzZhODlkYTgxMzE4NTY0MTZlMDBlNzk2OGFkZGFk",
+  "snapshot_id": "MCxlOTQ1MDI4NDM1Y2NkMWUxMTAyMmExODJhZjA3YzEyMTVmMmU4MzI5",
   "tracks": [
     {
       "added_at": "2023-08-02 08:46:27",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
-        "name": "Closing Shot",
-        "url": "https://open.spotify.com/album/1skGl2lZ48OV8KUalrFBPD"
-      },
-      "artists": [
-        {
-          "name": "Lindstr\u00f8m",
-          "url": "https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB"
-        }
-      ],
-      "duration_ms": 503648,
-      "name": "Closing Shot",
-      "url": "https://open.spotify.com/track/1ROqr2iZR9SSGv0PvlPssV"
-    },
-    {
-      "added_at": "2023-08-02 08:46:27",
-      "album": {
         "name": "Sondag",
         "url": "https://open.spotify.com/album/1LdfVewFu5TLTgaxFCyABn"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 330106,
       "name": "Ok, Kjor Romskip - Original Mix",
       "url": "https://open.spotify.com/track/1i7POakPGDR8Z7PJEGDp5P"
+    },
+    {
+      "added_at": "2023-08-02 08:46:27",
+      "album": {
+        "name": "Closing Shot",
+        "url": "https://open.spotify.com/album/1skGl2lZ48OV8KUalrFBPD"
+      },
+      "artists": [
+        {
+          "name": "Lindstr\u00f8m",
+          "url": "https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB"
+        }
+      ],
+      "duration_ms": 503648,
+      "name": "Closing Shot",
+      "url": "https://open.spotify.com/track/1ROqr2iZR9SSGv0PvlPssV"
     },
     {
       "added_at": "2023-08-02 08:46:27",
@@ -519,18 +519,18 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
-        "name": "Staying In",
-        "url": "https://open.spotify.com/album/0SSgR5G630l1HxQkCMoWhP"
+        "name": "Tr\u00f8bbel",
+        "url": "https://open.spotify.com/album/1Es585IxIHauFNjCaRoRyU"
       },
       "artists": [
         {
-          "name": "Diskjokke",
-          "url": "https://open.spotify.com/artist/77jljjDLgcihmTS2WW7Uxo"
+          "name": "Bj\u00f8rn Torske",
+          "url": "https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68"
         }
       ],
-      "duration_ms": 234213,
-      "name": "Staying In",
-      "url": "https://open.spotify.com/track/6gQIMENC4azncXDUOzD1YE"
+      "duration_ms": 282085,
+      "name": "Hard Trafikk",
+      "url": "https://open.spotify.com/track/5jJuwmQ8Jdfx08F9hAx5tg"
     },
     {
       "added_at": "2023-08-02 08:46:27",
@@ -555,18 +555,18 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
-        "name": "Tr\u00f8bbel",
-        "url": "https://open.spotify.com/album/1Es585IxIHauFNjCaRoRyU"
+        "name": "Staying In",
+        "url": "https://open.spotify.com/album/0SSgR5G630l1HxQkCMoWhP"
       },
       "artists": [
         {
-          "name": "Bj\u00f8rn Torske",
-          "url": "https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68"
+          "name": "Diskjokke",
+          "url": "https://open.spotify.com/artist/77jljjDLgcihmTS2WW7Uxo"
         }
       ],
-      "duration_ms": 282085,
-      "name": "Hard Trafikk",
-      "url": "https://open.spotify.com/track/5jJuwmQ8Jdfx08F9hAx5tg"
+      "duration_ms": 234213,
+      "name": "Staying In",
+      "url": "https://open.spotify.com/track/6gQIMENC4azncXDUOzD1YE"
     },
     {
       "added_at": "2023-08-02 08:46:27",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
+        "name": "Pass Deg For Trancen",
+        "url": "https://open.spotify.com/album/56nwZDDlMEx2qcAh2FSYd1"
+      },
+      "artists": [
+        {
+          "name": "Angermund",
+          "url": "https://open.spotify.com/artist/6lEonesLdaKa759afymnJv"
+        }
+      ],
+      "duration_ms": 398813,
+      "name": "Langt Der Borte",
+      "url": "https://open.spotify.com/track/4bj0QaHFcnQTGhkAMtZAvk"
+    },
+    {
+      "added_at": "2023-08-02 08:46:27",
+      "album": {
         "name": "The Point At The End Of Infinity",
         "url": "https://open.spotify.com/album/6xKexStWn3mgT7AIDeFbmZ"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 424462,
       "name": "Tidl\u00f8s - Kohib Remix",
       "url": "https://open.spotify.com/track/33ZKHbquD746iTaSk6y58k"
-    },
-    {
-      "added_at": "2023-08-02 08:46:27",
-      "album": {
-        "name": "Pass Deg For Trancen",
-        "url": "https://open.spotify.com/album/56nwZDDlMEx2qcAh2FSYd1"
-      },
-      "artists": [
-        {
-          "name": "Angermund",
-          "url": "https://open.spotify.com/artist/6lEonesLdaKa759afymnJv"
-        }
-      ],
-      "duration_ms": 398813,
-      "name": "Langt Der Borte",
-      "url": "https://open.spotify.com/track/4bj0QaHFcnQTGhkAMtZAvk"
     },
     {
       "added_at": "2023-08-02 08:46:27",

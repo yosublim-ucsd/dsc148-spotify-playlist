@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 
 > <a href="spotify:artist:2jYMYP2SVifgmzNRQJx3SJ">Modeselektor</a>'s favorite tracks\. Updated regularly\. Curated by Modeselektor\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,146 likes - 59 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,178 likes - 59 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 | 15 | [U Projected 2](https://open.spotify.com/track/6lAoNoRN9ehsoA5o7dTTaJ) | [Voice Actor](https://open.spotify.com/artist/6PsuUa5ijopH2T8rVzHSZc), [Yarrow.co](https://open.spotify.com/artist/3NB9lrY3lN3V8xxk4DrXRw) | [Fake Sleep](https://open.spotify.com/album/683V0gSCgBQUiSosMjXtGQ) | 2:06 |
 | 16 | [Blouse N Skirt](https://open.spotify.com/track/5fpyo4ZtBEciPSffzcj9cl) | [Chad Dubz](https://open.spotify.com/artist/3lyLUYni8vVP6VyzENRhdd) | [Blouse N Skirt](https://open.spotify.com/album/4FJ8x7o8GALXx28ZRtTyJl) | 3:29 |
 | 17 | [Unborn Yet Alive](https://open.spotify.com/track/1uWQDkwh6htJFYYH3tPFES) | [Aïsha Devi](https://open.spotify.com/artist/4RtrEYqj2bINZ2HXWUG3j4) | [Death Is Home](https://open.spotify.com/album/2mbcBhD6LbNpx9Tzv5cPUP) | 3:07 |
-| 18 | [Bad Bitch \(Body, Waist, Lips, Face\) \(with KenTheMan\)](https://open.spotify.com/track/68MLGWFI3cMdMIw73nOJIn) | [KitschKrieg](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr) | [German Engineering 1](https://open.spotify.com/album/27QzTWiwWFEFDY9nvJWsJ6) | 2:42 |
+| 18 | [Bad Bitch \(Body, Waist, Lips, Face\) \(with KenTheMan\)](https://open.spotify.com/track/68MLGWFI3cMdMIw73nOJIn) | [KitschKrieg](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr) | [German Engineering 1](https://open.spotify.com/album/27QzTWiwWFEFDY9nvJWsJ6) | 2:42 |
 | 19 | [RASEN in OKINAWA](https://open.spotify.com/track/0fMmPHi9En7OQBH08Zqxq9) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [Tsubaki](https://open.spotify.com/artist/1kTgsTapNxgD7vcgcBoxMx), [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz) | [THE UNION](https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp) | 4:49 |
 | 20 | [Seven \(Drumhell\)](https://open.spotify.com/track/4ekLUDFsOmaw90lAnRpaPJ) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Seven \(Drumhell\)](https://open.spotify.com/album/3mDw4ByMFjnhx8SYIV7EB2) | 3:32 |
 | 21 | [Arcade](https://open.spotify.com/track/1vw3ihJHOSzddo5oxpOu6x) | [Santiago Salazar](https://open.spotify.com/artist/6kwYw9GSb9LeXMHbSb7KtM) | [Arcade](https://open.spotify.com/album/1jjTZ9JF1gwA3HXM6S1TOz) | 6:19 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 | 58 | [WALK LIKE](https://open.spotify.com/track/0zAwd1PM87cO0UIXEOi6Gy) | [Mahne Frame](https://open.spotify.com/artist/0O1hTTSAVlJKFo7urBx6FI) | [WALK LIKE](https://open.spotify.com/album/48JsSe6jHzY2R9VV2CXSOj) | 3:02 |
 | 59 | [The Golden Ratio \(Version\)](https://open.spotify.com/track/2bQ2B1Zvk8ecLp1VAcI0bt) | [Cybotron](https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm) | [Maintain The Golden Ratio](https://open.spotify.com/album/5dV2HXWXjGWqR4oOTXJw4Z) | 4:42 |
 
-Snapshot ID: `MCxhYTc5MGY2NjViNjA1MDAyNmQ2YTcxZjcxZGMyNTJmNzdlMTllNDgy`
+Snapshot ID: `MCxlZGJmOTEwMDAzYjU4MjZlNmM2MDY4MmE2YTEzNGYyMWI0MTNlZjI3`

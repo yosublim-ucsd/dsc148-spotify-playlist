@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 
 > Electronic music with caffeine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,312 likes - 168 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,361 likes - 168 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 | 8 | [D N A](https://open.spotify.com/track/69f6p04wKzUe5WQVsfne99) | [Roberto Mazza](https://open.spotify.com/artist/2u3XtKYn13EPJtbRlCWyAN) | [D N A](https://open.spotify.com/album/2438Jv1Uxvjqkfrdj6179k) | 4:54 |
 | 9 | [Empty Room](https://open.spotify.com/track/7i4Tu1sMCYeRhUAYa5jwCR) | [9Fivey](https://open.spotify.com/artist/5U5RKfPTGsbCTyLTnaUHXU) | [Empty Room](https://open.spotify.com/album/1S4zdBRDvFyg30YDSzuZq8) | 2:11 |
 | 10 | [Monsieur](https://open.spotify.com/track/1PJkjjYVNjO64a88U65x6m) | [Túnn](https://open.spotify.com/artist/7hfCTHwFBHdujO41a9RPXv) | [Monsieur](https://open.spotify.com/album/0YeuJQDS0j7EBNgrtNsSBr) | 2:58 |
-| 11 | [New Angeles](https://open.spotify.com/track/5y0tN7T4fu7fNnHp4RYcpH) | [Arie de Laang](https://open.spotify.com/artist/1T1ukBvUGD5uDGjjYda8k1), [Folta Tres](https://open.spotify.com/artist/1iLaFy9DHbJz1Bmc19mSoe) | [New Angeles](https://open.spotify.com/album/4cSf0FF9F9yqMVwmV9vY1A) | 2:21 |
+| 11 | [New Angeles](https://open.spotify.com/track/5y0tN7T4fu7fNnHp4RYcpH) | [Folta Tres](https://open.spotify.com/artist/1iLaFy9DHbJz1Bmc19mSoe) | [New Angeles](https://open.spotify.com/album/4cSf0FF9F9yqMVwmV9vY1A) | 2:21 |
 | 12 | [In Deep](https://open.spotify.com/track/28CuT91wRWdQtJU93Hm3ds) | [Beachwax](https://open.spotify.com/artist/0FBeOkbRfYxk44W6AOooKr) | [In Deep](https://open.spotify.com/album/6db4KQXbbcBQ82ox62bVAm) | 2:51 |
 | 13 | [Shine](https://open.spotify.com/track/4tAKd6ouFGZMGcU4CQvtH7) | [Art of November](https://open.spotify.com/artist/1jLcY4U2jXPcyzUg6FANBq) | [Shine](https://open.spotify.com/album/5uD45F8wERKOjBswG3fSXY) | 2:46 |
 | 14 | [Moments Of Sundown](https://open.spotify.com/track/1skrQ2EgnDHVciNJRtvL6c) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Moments Of Sundown](https://open.spotify.com/album/0h9MjPvEVqyJYox9mFdCsC) | 4:05 |
@@ -177,4 +177,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 | 167 | [Together Forever](https://open.spotify.com/track/3zfzHaKtAAey6JIzkDZZwS) | [Alba Petersen](https://open.spotify.com/artist/7iAYNShn0GIFTAUqxabBWb) | [Together Forever](https://open.spotify.com/album/3wRz3weljJwo7QnC9CK0Cy) | 2:12 |
 | 168 | [Beach & Towel](https://open.spotify.com/track/0S2WwkBNYpiXWssKc6Nwrf) | [Superbandy](https://open.spotify.com/artist/3QldRhGT9NdS8ehqa6g40b) | [Beach & Towel](https://open.spotify.com/album/19IWLkyd4dr67RCRMbIyGG) | 2:40 |
 
-Snapshot ID: `MCwxYWVmZGY2YjNhNTk2OTYyN2JlMzAwMmNlODY0MDk5Y2M2ZDE3YTY4`
+Snapshot ID: `MCw5NGZkZGU4ZTRhZTkzZTUzYjRmMmE1M2VmNDg1Yjg0Zjk4YTRmZmJj`

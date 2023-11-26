@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-516 songs - 1 day 13 hr 40 min
+517 songs - 1 day 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Dissonance](https://open.spotify.com/track/5MmEgl5zr8lTmu30HO00Fw) | [Jack Sparrow](https://open.spotify.com/artist/6iI4RUhF2HROnohuxUKfzR) | [Dissonance](https://open.spotify.com/album/1YI0DOkY7g3M4fsMYuMycJ) | 5:32 | 2022-07-08 | 2022-07-30 |
 | [Distant Light](https://open.spotify.com/track/0dpN2BrkuBkpayGK55o70X) | [Mikrodot](https://open.spotify.com/artist/6VOHGnsTE8qraeCVr0B8Dg) | [Universal](https://open.spotify.com/album/2u24rPh4PG59tEqJy2qEaH) | 4:13 | 2022-02-17 | 2022-10-29 |
 | [Disturbed](https://open.spotify.com/track/5JexpLUHY3HriFPMzbO0aQ) | [Drone](https://open.spotify.com/artist/0shWQ9M3KOAHMv2W9lMecN) | [Disturbed](https://open.spotify.com/album/0dhYot6jIkDIPw5nMJIHWl) | 4:41 | 2022-02-17 | 2023-05-05 |
+| [DIY \- Old Skool Mix](https://open.spotify.com/track/4O20esaZKdbmWpGmPKm8Yj) | [Coki](https://open.spotify.com/artist/4WvwRJA3YhUn5J2caHXoAG), [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [DIY](https://open.spotify.com/album/7CURbqdBFzwEBVN6Hk8h6F) | 3:09 | 2023-11-24 |  |
 | [Down Town Dub](https://open.spotify.com/track/4bC6kRiriuqVWM4D2UgIUW) | [Hebbe](https://open.spotify.com/artist/5ZkVhiQlO1pdKjtysy3Nrn) | [Down Town Dub / Tumble](https://open.spotify.com/album/42jIA73ix0bgwNw8slzbOx) | 5:36 | 2022-02-17 | 2023-03-10 |
 | [Dread & Buried \- Congi Remix](https://open.spotify.com/track/2AuzAvDq4piWEeSsfkZxqp) | [Origin One](https://open.spotify.com/artist/1EKZ8G8paqscrKD9uZMOor), [Congi](https://open.spotify.com/artist/6q8R4RVlc4DZ1XElNLj6Ag) | [Deeply Remixed, Vol\. 2](https://open.spotify.com/album/1rD87trISV6lwx6QJ5TRpp) | 3:54 | 2022-02-17 |  |
 | [Dreamer](https://open.spotify.com/track/1fuLBcbyY3mYcKAjzb6jLD) | [Monty](https://open.spotify.com/artist/2w5c2l70mYNDdSLifFyZjJ), [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Dreamer](https://open.spotify.com/album/0Zvw2kNrsvYmsPIo8ouBbA) | 4:37 | 2022-02-17 | 2022-10-08 |
@@ -474,7 +475,7 @@
 | [The Wisp Song](https://open.spotify.com/track/4eJrcgPtNToP8lBTxuozIg) | [Chee](https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA) | [Polarities](https://open.spotify.com/album/1FHgoaW0HQ6LpKRkEUmA9A) | 3:46 | 2023-04-28 |  |
 | [Thrill](https://open.spotify.com/track/4cnSDRJALb1Tts0m7wcB3J) | [Effin](https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH) | [Cheap Thrills](https://open.spotify.com/album/2HCpsqhia2r9yhCzZd5fll) | 4:48 | 2023-09-08 |  |
 | [Toast](https://open.spotify.com/track/0BuIHXZ4Dr7Bu02fPpHA3l) | [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI) | [Toast](https://open.spotify.com/album/2ZKGLudhFxiX9cpgKrDelD) | 2:41 | 2023-05-26 | 2023-09-09 |
-| [Tokyo Hyaku Synchronicity \#036 Poseidon Forest](https://open.spotify.com/track/1D4OWth7qppoyd9FMDBwjY) | [Cam Lasky](https://open.spotify.com/artist/2UWIVc2ZEBbdoFjOYf4yph) | [Tokyo Hyaku Synchronicity \#036 Poseidon Forest](https://open.spotify.com/album/42f49jgEcFtznfONjknPWq) | 4:39 | 2022-02-17 |  |
+| [Tokyo Hyaku Synchronicity \#036 Poseidon Forest](https://open.spotify.com/track/1D4OWth7qppoyd9FMDBwjY) | [Cam Lasky](https://open.spotify.com/artist/2UWIVc2ZEBbdoFjOYf4yph) | [Tokyo Hyaku Synchronicity \#036 Poseidon Forest](https://open.spotify.com/album/42f49jgEcFtznfONjknPWq) | 4:39 | 2022-02-17 | 2023-11-26 |
 | [Toll](https://open.spotify.com/track/7tPfSMVAl3siiEWiUFl2Bm) | [Traces](https://open.spotify.com/artist/1Nz3cFW2b2b7JitffqTt91) | [Psychopath](https://open.spotify.com/album/197CVo2y8VHACcYM1ks2aW) | 4:42 | 2022-02-17 | 2022-07-29 |
 | [Tomahawk](https://open.spotify.com/track/5e2kW2xynPWKlR1Fy5qegJ) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4) | [Tomahawk EP](https://open.spotify.com/album/0NqcRquGzvdLrk9td9YLXg) | 6:30 | 2022-02-17 | 2022-07-30 |
 | [Tomorrow](https://open.spotify.com/track/3agFXIx45gyrD8457JK6wK) | [Dillard](https://open.spotify.com/artist/5nAvegaN5UuHkKfAo9a2kq) | [Tomorrow \- EP](https://open.spotify.com/album/7IrrWUxNknlPtmVE1jPRVE) | 5:29 | 2022-02-17 |  |

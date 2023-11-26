@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,862 likes - 105 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,901 likes - 105 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 104 | [Out of my way](https://open.spotify.com/track/3IJva3DWEpzNA51HuB9kal) | [SoLonely](https://open.spotify.com/artist/5wLADFwrz9AGUJotefFzPv) | [Out of my way](https://open.spotify.com/album/73N684FrI6TzO1b9mPmDM6) | 2:48 |
 | 105 | [Everyday](https://open.spotify.com/track/2V94jAJE9mICI8n9ZP64OI) | [Duvchi](https://open.spotify.com/artist/0Pv1zES3REvZ4OuYrW2tGc) | [Everyday](https://open.spotify.com/album/6PYU9bNLqGC86S61RMuW75) | 2:46 |
 
-Snapshot ID: `MCxlNDhiNDU4NjRhNjM5NThhZTA5ZDQ4NjI0N2RhNDhlYTAyM2ExNGZm`
+Snapshot ID: `MCxmZDlmZmEzMWEzNzcwYTI1OGRjM2NiNDkxYmI1MTAxNjdmMTljNzZj`

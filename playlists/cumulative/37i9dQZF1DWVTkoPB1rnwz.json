@@ -2487,6 +2487,24 @@
     },
     {
       "album": {
+        "name": "Windswept Adan",
+        "url": "https://open.spotify.com/album/0LxeUCxtPfUtnHTKbW52MB"
+      },
+      "artists": [
+        {
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118421,
+      "name": "Horo",
+      "url": "https://open.spotify.com/track/2dPNIrQEWiNkX0iyg3PwIo"
+    },
+    {
+      "album": {
         "name": "Hounds",
         "url": "https://open.spotify.com/album/7lJJkUlTnBK26FYYOn0E4m"
       },
@@ -3454,7 +3472,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 151302,
       "name": "memorial park",
       "url": "https://open.spotify.com/track/5TCKrAOgiVCHEgUEgUBL1Q"

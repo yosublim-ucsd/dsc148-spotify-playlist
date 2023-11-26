@@ -162,7 +162,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 138947,
       "name": "100 Mili",
       "url": "https://open.spotify.com/track/2faP6QUfGN94HI1FTSrpsm"
@@ -16144,7 +16144,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 142500,
       "name": "Hentai",
       "url": "https://open.spotify.com/track/4WASSSbTnOr8upRdiFy0Iz"
@@ -21600,7 +21600,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 117056,
       "name": "Megaloman\u00edaca",
       "url": "https://open.spotify.com/track/3clfhHrwPNWtN2KlHfzEIi"
@@ -27458,7 +27458,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-08",
+      "date_removed": null,
       "duration_ms": 294122,
       "name": "Passa L\u00e1 em Casa Jesus",
       "url": "https://open.spotify.com/track/7qKr6x5EXFDxI5Ei6Xfaqj"
@@ -35167,6 +35167,32 @@
     },
     {
       "album": {
+        "name": "RICKNELSO",
+        "url": "https://open.spotify.com/album/2eKGskEpGoKMBahXHpM8ZR"
+      },
+      "artists": [
+        {
+          "name": "MC Rick",
+          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
+        },
+        {
+          "name": "Mc Leozin",
+          "url": "https://open.spotify.com/artist/6mKwmTMzDrye9elc8JWiw3"
+        },
+        {
+          "name": "Dj Caio Vieira",
+          "url": "https://open.spotify.com/artist/4Kv35Xnw1ODjO2nIHLhdBY"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "Terminei Com A Ex",
+      "url": "https://open.spotify.com/track/301UKq8uNAv7Zj7MQkQWyd"
+    },
+    {
+      "album": {
         "name": "Terra de Ningu\u00e9m",
         "url": "https://open.spotify.com/album/1jy7oM1IDer13ttPyJ0Z7p"
       },
@@ -40040,7 +40066,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-25",
+      "date_removed": null,
       "duration_ms": 150093,
       "name": "\u00cdsis",
       "url": "https://open.spotify.com/track/5wwbnoRORYlLYf9QZAzrm7"

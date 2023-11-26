@@ -4,7 +4,7 @@
 
 > The sound of Jazz from the nordics\. Cover: Jan Garbarek
 
-141 songs - 12 hr 47 min
+142 songs - 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Polska Of Despair \(1\)](https://open.spotify.com/track/56YZA4Zy6UNZMBSLBTUh1k) | [Bobo Stenson Trio](https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV) | [Serenity](https://open.spotify.com/album/39tOPTArYE0OWaZkx0IYIO) | 6:51 | 2022-06-01 |  |
 | [Popkoral](https://open.spotify.com/track/79XuzOga3pizrLG9XVfbwP) | [Helge Lien Trio](https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY), [Helge Lien](https://open.spotify.com/artist/2HlDnWc1U5F7D30DTyWJ4F), [Mats Eilertsen](https://open.spotify.com/artist/66tv0Nc5AOVkeyMGS25rJh), [Per Oddvar Johansen](https://open.spotify.com/artist/1nLQ0q9ZBZkn0hSq0gRAnd) | [10](https://open.spotify.com/album/4Ua984QTWTd5HzdiR9mHZd) | 4:27 | 2022-06-01 | 2023-09-01 |
 | [På gjensyn](https://open.spotify.com/track/3iix1vmZ38BObrSRUTUNbF) | [Maridalen](https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ), [Jonas Kilmork Vemøy](https://open.spotify.com/artist/2V4iZGTDOkqbimRsSwIRe7) | [På gjensyn](https://open.spotify.com/album/3apCEklyPqvaDBKHSQ0B2W) | 6:07 | 2022-06-01 |  |
+| [På havets bunn](https://open.spotify.com/track/2vSfGunb5DZxIWeiKxvXOc) | [Maridalen](https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ) | [På havets bunn](https://open.spotify.com/album/1IEAMA5b2cH0TmEc4vFbnK) | 3:32 | 2023-11-24 |  |
 | [Red Hook \- Live At The Jazz Standard, New York / 2017](https://open.spotify.com/track/6GZ5LgI8dM3Ynj7J05kANS) | [Jakob Bro](https://open.spotify.com/artist/6slrkfC61k7yWM5Hl5USES), [Thomas Morgan](https://open.spotify.com/artist/6txzCcsy6ZKKKQLHmE3Y9L), [Joey Baron](https://open.spotify.com/artist/0sQXx1Ji0yvldYg6cuEAOW) | [Bay Of Rainbows \(Live At The Jazz Standard, New York / 2017\)](https://open.spotify.com/album/7E6lXyBvHGKpw4zgQllpdU) | 8:34 | 2022-06-01 |  |
 | [Remembering](https://open.spotify.com/track/7egSnOVoyp1SvQtr2ZUp1z) | [Kjetil Mulelid Trio](https://open.spotify.com/artist/474vK8QpU3WL9RxRCmo5cX) | [Who Do You Love the Most?](https://open.spotify.com/album/49BEjb3ppEwJklB8nbhPpR) | 4:43 | 2022-06-01 |  |
 | [Remembrance IV](https://open.spotify.com/track/6jZqtVqT7TEEyCuU6ZAl2m) | [Ketil Bjørnstad](https://open.spotify.com/artist/3OjcHir4Q8ERzefXtMU1ph), [Tore Brunborg](https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh), [Jon Christensen](https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr) | [Remembrance](https://open.spotify.com/album/6wDMKhu1pCrJSUSYfwqQcC) | 4:13 | 2022-06-01 |  |
@@ -121,7 +122,7 @@
 | [Space Available](https://open.spotify.com/track/2CxRumIs60L7x1KIGW0dV1) | [Kornstad Trio](https://open.spotify.com/artist/3TeWAxfFgwFqpW7Nhv0Tel) | [Jazzland Sampler 2005](https://open.spotify.com/album/4WEjrmJnXmkS6M135uN2j2) | 3:38 | 2022-08-12 | 2023-11-08 |
 | [Space Is the Place](https://open.spotify.com/track/2Vp1EnHodm8cYQkn54aqKD) | [Carsten Dahl, Arild Andersen, Jon Christensen](https://open.spotify.com/artist/7jQHF3wIZuWlLhQn5mhdYV) | [Space Is the Place](https://open.spotify.com/album/4lQAHafLECfbxdayEp8jzK) | 4:01 | 2022-06-01 | 2023-09-01 |
 | [Svevende](https://open.spotify.com/track/7yvX6vySEFHb22V8Lu4I0Y) | [Jan Garbarek](https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym), [Bobo Stenson Quartet](https://open.spotify.com/artist/6ybMn3tDNAZOdal026IIBE) | [Jan Garbarek: Works](https://open.spotify.com/album/5gBKCpTf5pPauJ5jOG9DaX) | 4:59 | 2022-06-01 |  |
-| [Sævelid](https://open.spotify.com/track/4Rp6uSiUUg1WBj5sLL1OSq) | [Helge Lien Trio](https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY), [Tore Brunborg](https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh) | [Funeral Dance](https://open.spotify.com/album/7705DbH2prtKgDn3rUYTTE) | 5:20 | 2023-08-31 |  |
+| [Sævelid](https://open.spotify.com/track/4Rp6uSiUUg1WBj5sLL1OSq) | [Helge Lien Trio](https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY), [Tore Brunborg](https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh) | [Funeral Dance](https://open.spotify.com/album/7705DbH2prtKgDn3rUYTTE) | 5:20 | 2023-08-31 | 2023-11-26 |
 | [Taplow](https://open.spotify.com/track/4JHItqtk4k5wv207UO1D66) | [Eyolf Dale](https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS) | [Return to Mind](https://open.spotify.com/album/6sLdkFvDQyNLhpHkhWMNEr) | 4:44 | 2022-06-01 |  |
 | [The Circle](https://open.spotify.com/track/2NRezjzOzV4gjiEL2pt6eW) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Opening](https://open.spotify.com/album/5i1LH4nSX9Vwm3C037k4Q7) | 3:56 | 2022-06-01 |  |
 | [The Door](https://open.spotify.com/track/7xlHjxJbGQjHA40E7pFnZB) | [Mathias Eick](https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ), [Jon Balke](https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq), [Audun Kleive](https://open.spotify.com/artist/7vLSlwyxgwz4SCqkkTtMaq), [Audun Erlien](https://open.spotify.com/artist/3PqrFVZBgt9aojin43n6eN) | [The Door](https://open.spotify.com/album/2dySoKZJaOsXcAZPwngDrB) | 7:52 | 2022-06-01 |  |

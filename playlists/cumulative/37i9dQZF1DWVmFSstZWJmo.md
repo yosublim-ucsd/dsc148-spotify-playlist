@@ -2,7 +2,7 @@
 
 ### [Indie Sleaze](https://open.spotify.com/playlist/37i9dQZF1DWVmFSstZWJmo)
 
-> Is "indie sleaze" in the room with us? ft\. The Strokes
+> Is "indie sleaze" in the room with us now? ft\. Sky Ferreira
 
 194 songs - 12 hr 12 min
 

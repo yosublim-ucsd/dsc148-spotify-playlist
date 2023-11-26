@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Stuck In The Sound
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,570 likes - 40 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,703 likes - 40 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 25 | [Flares](https://open.spotify.com/track/75C7Qa3xlNCIPKFVPK30G7) | [acloudyskye](https://open.spotify.com/artist/5OeSHuvHTS9qUgAUTt3GIR) | [Flares](https://open.spotify.com/album/0fZevyMg5ylimodoTYQvfr) | 3:44 |
 | 26 | [Raindrops](https://open.spotify.com/track/2rYwrGzzu9p1t6TKZI5WF2) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [Raindrops](https://open.spotify.com/album/5AlTB1HLuVSpwjVmgmizoo) | 2:30 |
 | 27 | [Only This Could Happen To Me](https://open.spotify.com/track/4tkNRCnN7TGV1ukMfIXuaU) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [Karaoke Sellouts](https://open.spotify.com/album/6HinBdxcvcnRmm4QKvDP1d) | 3:24 |
-| 28 | [Fearless Child \- Studio](https://open.spotify.com/track/4bFQ2XT2Qoj2fi9IuJyZcO) | [Telegraph](https://open.spotify.com/artist/6jPQ9UDEbratb1Sys0sovL) | [Fearless Child](https://open.spotify.com/album/69NTkIjVjsMKPehOvv3Vtn) | 3:34 |
+| 28 | [Fearless Child](https://open.spotify.com/track/4bFQ2XT2Qoj2fi9IuJyZcO) | [Telegraph](https://open.spotify.com/artist/6jPQ9UDEbratb1Sys0sovL) | [Fearless Child](https://open.spotify.com/album/69NTkIjVjsMKPehOvv3Vtn) | 3:34 |
 | 29 | [The Gum](https://open.spotify.com/track/2iutcc3G7i4hjd3rWby7gC) | [Piqued Jacks](https://open.spotify.com/artist/5eprmPyM92CrWnnE1P840z) | [The Gum](https://open.spotify.com/album/0x2wjrWC5ebNAwDMm8Jg8L) | 2:49 |
 | 30 | [Shadow Boxer](https://open.spotify.com/track/6gh12NhoStXiqAY5JzgAPT) | [Moon Shot](https://open.spotify.com/artist/7q6MMOgRRdkw9Xw5xAfQa9) | [Shadow Boxer](https://open.spotify.com/album/2MH0RKgBMcZd7eWffJjBfq) | 3:50 |
 | 31 | [Bleed](https://open.spotify.com/track/4fdePf5VSPS5o39XeDhYu2) | [Block of Flats](https://open.spotify.com/artist/1Hr0GjUPxbMDrkRFhXA7p4) | [No Hope For The Hopeless](https://open.spotify.com/album/1wVuy0meFq9O0B0ZIWcEFS) | 3:06 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 39 | [WHAT'S YOUR NEED?](https://open.spotify.com/track/5gYhf2RYyP3duXGLn3LCKb) | [FISHLORD](https://open.spotify.com/artist/1Hv9p9zMYy3gc2VWQfK5gg) | [WHAT'S YOUR NEED?](https://open.spotify.com/album/47XeZTUMqxG8v1m7SEi2Cv) | 2:14 |
 | 40 | [Shaving My Head](https://open.spotify.com/track/3G3MnJQVRSXeavVT0yQsqB) | [The Nagging Doubts](https://open.spotify.com/artist/2sSlFb9ZRolDd3qcBrMDCr) | [Shaving My Head](https://open.spotify.com/album/3gxinPIArZSnvQmZpQBRLJ) | 3:42 |
 
-Snapshot ID: `MCxmM2IwODZhYzBlOTdhZDZiNDk4MDkyNjI0ZGFhOThhMjg2NDNmZmQ3`
+Snapshot ID: `MCxlMGE1N2I3ZGY5MjBiMWEzZjM1Yzk5MGM2OWZmYjdmMDgyZjVlODI3`

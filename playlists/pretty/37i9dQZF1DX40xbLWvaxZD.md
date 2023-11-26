@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40xbLWvaxZD.md) - [plain]
 
 > Music from the gaming series "Yakuza: Like a Dragon" \-「龍が如く7外伝 名を消した男」発売記念！シリーズ歴代テーマソング、サントラ楽曲を網羅した公式プレイリストが登場
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,283 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,305 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40xbLWvaxZD.md) - [plain]
 | 2 | [Hannya's Attack](https://open.spotify.com/track/38RZDYEJLHsnrSlcYmwuvb) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6), [小林 秀聡](https://open.spotify.com/artist/0hUaNfEHmXkQQgxzSGkD3X) | [LIKE A DRAGON GAIDEN The Man Who Erased His Name](https://open.spotify.com/album/0Ut5nt09qUJ3V9EdefN3Ry) | 2:36 |
 | 3 | [Two Faced Castle](https://open.spotify.com/track/6GHmxVpI3yHDyuFqHc01NB) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6), [吉田 沙織](https://open.spotify.com/artist/57wo2Em3UktCMqpCRK5pFv) | [LIKE A DRAGON GAIDEN The Man Who Erased His Name](https://open.spotify.com/album/0Ut5nt09qUJ3V9EdefN3Ry) | 2:20 |
 | 4 | [Nouveau Riche](https://open.spotify.com/track/7hgz5zFXQj0ukl3QUXABR1) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6), [花田 啓太朗](https://open.spotify.com/artist/1rouXc6iBnQS4Xc27JY99Z) | [LIKE A DRAGON GAIDEN The Man Who Erased His Name](https://open.spotify.com/album/0Ut5nt09qUJ3V9EdefN3Ry) | 1:28 |
-| 5 | [I’m Fading Away](https://open.spotify.com/track/6N1imaUHeYFar4zMZM2hNj) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6), [青木 千紘](https://open.spotify.com/artist/1D2ap5fmnmdRb5SWBxtoFz) | [LIKE A DRAGON GAIDEN The Man Who Erased His Name](https://open.spotify.com/album/0Ut5nt09qUJ3V9EdefN3Ry) | 3:27 |
+| 5 | [I’m Fading Away](https://open.spotify.com/track/6N1imaUHeYFar4zMZM2hNj) | [Steve J\. Conte](https://open.spotify.com/artist/2HCgF1ptXijYbr3gURtsim) | [LIKE A DRAGON GAIDEN The Man Who Erased His Name](https://open.spotify.com/album/0Ut5nt09qUJ3V9EdefN3Ry) | 3:27 |
 | 6 | [Addiction](https://open.spotify.com/track/7J1wA8eLKbUoT6wNbF37JX) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6), [尾池 智史](https://open.spotify.com/artist/6uzmmp0fEZY2brLf0S54Ho) | [LIKE A DRAGON GAIDEN The Man Who Erased His Name](https://open.spotify.com/album/0Ut5nt09qUJ3V9EdefN3Ry) | 1:32 |
 | 7 | [Reception at Coliseum](https://open.spotify.com/track/3deWyw0vJNROgjP0KomsIN) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6), [水野 健治](https://open.spotify.com/artist/5f9u63A1rfNgf5BBsnISqW) | [LIKE A DRAGON GAIDEN The Man Who Erased His Name](https://open.spotify.com/album/0Ut5nt09qUJ3V9EdefN3Ry) | 2:13 |
 | 8 | [Good Taste](https://open.spotify.com/track/1IDegbxxxHU4FBbyD7KRFw) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6), [福田 遼](https://open.spotify.com/artist/4uKqJoShYWfv5yrwjFlAi7) | [LIKE A DRAGON GAIDEN The Man Who Erased His Name](https://open.spotify.com/album/0Ut5nt09qUJ3V9EdefN3Ry) | 1:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40xbLWvaxZD.md) - [plain]
 | 49 | [神室純恋歌 ～桐生&支静加～](https://open.spotify.com/track/5gaoeg4XdKm8VcgXAi21ne) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [龍が如く4 伝説を継ぐもの オリジナルサウンドトラック \(Volume2\)](https://open.spotify.com/album/0TFUPjHC7uubOXRNdCzOOp) | 2:02 |
 | 50 | [Shiawase\-nara\-iiya \- Full Spec Edition](https://open.spotify.com/track/795netq7zSVvayTiDkbePw) | [真島吾朗\(宇垣秀成\)](https://open.spotify.com/artist/2zVL188G4nA4K7JtwwkULn) | [Goro Majima Karaoke hit song collection\(Ryu ga gotoku7 hikari to yami no yukue\)](https://open.spotify.com/album/1aIDQgb9nklXl66X0C1Drc) | 6:30 |
 
-Snapshot ID: `MCxhZGY5YjRhMjQ0MWE0N2Q3M2I3MGNlNzFkMTk4OTliMmRkZjc5MGU2`
+Snapshot ID: `MCwzN2UyMDE1NmJkY2Q2NDY5YjljY2MzYWVjMGJhM2M1NDFmYWU4OGU3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Tink
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,030,920 likes - 185 songs - 9 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,031,074 likes - 185 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -194,4 +194,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 184 | [Ain’t Nobody](https://open.spotify.com/track/0Ctpzuq446LGu8RVIQOFiJ) | [Nevi](https://open.spotify.com/artist/3KYwV2yzftyYsJCKocAhbM) | [genesis \(Deluxe Edition\)](https://open.spotify.com/album/5snWN07rioDJfH1hR8aITX) | 2:25 |
 | 185 | [Good Ex](https://open.spotify.com/track/7b7MKh1kOgwASPihOs7vve) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [In A Perfect World](https://open.spotify.com/album/3oPebCk2nGseupO5q4PxiI) | 2:35 |
 
-Snapshot ID: `MCwwOGMxZjlhZWUwY2M3OTNmNWZlY2UzMTU4OWJkMmUxNjkwMTRkYjNk`
+Snapshot ID: `MCw5ODAzNDM5YWIwYmNjOWU0YWM1MmY5MjNjMDBjNTRlNTVkMDg0Nzlh`

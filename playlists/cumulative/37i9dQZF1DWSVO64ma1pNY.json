@@ -450,6 +450,24 @@
     {
       "album": {
         "name": "The Good Life",
+        "url": "https://open.spotify.com/album/5cxdVsmUNjq5w3D6Pgk4yJ"
+      },
+      "artists": [
+        {
+          "name": "Makeout",
+          "url": "https://open.spotify.com/artist/4RkIeqeY7seRZby4X73Ajk"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150924,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/4e5GTUlVObWYB7WUkyKa7g"
+    },
+    {
+      "album": {
+        "name": "The Good Life",
         "url": "https://open.spotify.com/album/0EediFqDde4eULfWGkBoxN"
       },
       "artists": [
@@ -586,7 +604,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 208266,
       "name": "Falling Apart",
       "url": "https://open.spotify.com/track/1oFe7QvpwY3xZVyABI2TXP"

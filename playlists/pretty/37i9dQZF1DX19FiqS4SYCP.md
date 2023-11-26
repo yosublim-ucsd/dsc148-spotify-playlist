@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 
 > Tejano's new wave! La nueva ola de música tejana\. Cover: Gary Hobbs
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,590 likes - 80 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,595 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,16 +19,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 | 9 | [Parí](https://open.spotify.com/track/1bBl6hOdOK4VDg7TO2BpkD) | [AJ Castillo](https://open.spotify.com/artist/1KpWrB0KqGwEPdomvoTREW) | [Parí](https://open.spotify.com/album/7FXTMmof7mvI7VhTBAyCrD) | 3:40 |
 | 10 | [Vivir Sin Ti](https://open.spotify.com/track/5Wyaap4fsKtDr8FPQO7Z6m) | [Proyekto Kumbia](https://open.spotify.com/artist/3v9C8V5rYmya5EI96pku4W) | [Vivir Sin Ti](https://open.spotify.com/album/5jszXkhQthDS7qYvVLLsOU) | 3:09 |
 | 11 | [Déjame Sufrir](https://open.spotify.com/track/7ErdvZo7JE1dIYY1GFL0sm) | [David Olivarez](https://open.spotify.com/artist/41WfhF5UfpKXMpkkCXbeCm) | [Déjame Sufrir](https://open.spotify.com/album/3X4lnddczeCRZVcS9qfvbk) | 3:53 |
-| 12 | [Pena Tras Pena](https://open.spotify.com/track/2AGedJazvxikTtvlSTQePn) | [South TX Homies](https://open.spotify.com/artist/7yMp1Rpn2cWmZxvK4B95xq) | [Una Promesa](https://open.spotify.com/album/3oXhAc1BHDRgrb31kAZ0o7) | 3:33 |
-| 13 | [Por Qué Me Fui A Enamorar De Ti](https://open.spotify.com/track/6wZ5T64zJdYE5eyAailiIi) | [Karla Christina](https://open.spotify.com/artist/6oqN5DUzIm9sGSX3KpFQBP) | [Por Qué Me Fui A Enamorar De Ti](https://open.spotify.com/album/4iEOANj4Ybn1DYEX3CC9RU) | 4:05 |
+| 12 | [Por Qué Me Fui A Enamorar De Ti](https://open.spotify.com/track/6wZ5T64zJdYE5eyAailiIi) | [Karla Christina](https://open.spotify.com/artist/6oqN5DUzIm9sGSX3KpFQBP) | [Por Qué Me Fui A Enamorar De Ti](https://open.spotify.com/album/4iEOANj4Ybn1DYEX3CC9RU) | 4:05 |
+| 13 | [Pena Tras Pena](https://open.spotify.com/track/2AGedJazvxikTtvlSTQePn) | [South TX Homies](https://open.spotify.com/artist/7yMp1Rpn2cWmZxvK4B95xq) | [Una Promesa](https://open.spotify.com/album/3oXhAc1BHDRgrb31kAZ0o7) | 3:33 |
 | 14 | [Que Daría](https://open.spotify.com/track/1dVBQo1V3r6KGWIIsdm8jT) | [Gary Hobbs](https://open.spotify.com/artist/274Y6HvCIUkt5pi7jPWRke) | [Sin Fin](https://open.spotify.com/album/011kZvqHZywq4DLzdngA47) | 3:57 |
 | 15 | [Dime Que Si](https://open.spotify.com/track/0bgfyx78KRzHFOj78fUH9x) | [Negami](https://open.spotify.com/artist/2NSP557TgNwneGnhiZpNzG) | [Dime Que Si](https://open.spotify.com/album/5UBDeSU8OLzFB6UxO3cZJq) | 3:05 |
 | 16 | [Ay Amor](https://open.spotify.com/track/0lY5lJa3XSkivRhSEkc0nQ) | [Gabriella](https://open.spotify.com/artist/1n6ZR4WIvyvuioc07O5UiM) | [Ay Amor](https://open.spotify.com/album/7MkYFmRwumTmK74vY990jB) | 3:48 |
 | 17 | [Jam Session El Besito Y Voy Navegando](https://open.spotify.com/track/38hja6SCCM5GnL6krYdhSh) | [Carlos y Los Cachorros](https://open.spotify.com/artist/6j2ViCjLAVLUTBxDHFECka) | [Jam Session El Besito Y Voy Navegando](https://open.spotify.com/album/7LYOL5acndia5Ar7tINUfI) | 5:02 |
 | 18 | [Que Bonito Fuera](https://open.spotify.com/track/3Y5ToqDRUVDCCdg5fmf4pY) | [The Homeboyz](https://open.spotify.com/artist/1l61cJnRmPBJTtyx8i6qDv) | [Oddz](https://open.spotify.com/album/2tkBSXvOoKzeXRfKRAjPwC) | 4:01 |
 | 19 | [Rogando Por Tu Amor](https://open.spotify.com/track/3konQZ2dxzZ9N83J0fC5qo) | [EL GALLO DEZ](https://open.spotify.com/artist/6HouSoogSl8M3OvLrdxij5) | [Rogando Por Tu Amor](https://open.spotify.com/album/0hJfMeu3ayGQtUbMZ8KZiM) | 3:23 |
-| 20 | [Otra Vez Soltera](https://open.spotify.com/track/5KVoEPfr37AST35AsDcY7t) | [Las Fenix](https://open.spotify.com/artist/2ZNrWgSrqOlD6uF54Hx4ZY) | [Otra Vez Soltera](https://open.spotify.com/album/6YuNLasBSbj27kGKevK0dT) | 2:33 |
-| 21 | [Raspar Zapato](https://open.spotify.com/track/2YXRDo7vScKAjz6fYNnXbh) | [Tejano Highway 281](https://open.spotify.com/artist/004UYHPUOnYC9p2vu9XcIV) | [Raspar Zapato](https://open.spotify.com/album/13UQwlje5pY3bt2o1Y6xL6) | 2:44 |
+| 20 | [Raspar Zapato](https://open.spotify.com/track/2YXRDo7vScKAjz6fYNnXbh) | [Tejano Highway 281](https://open.spotify.com/artist/004UYHPUOnYC9p2vu9XcIV) | [Raspar Zapato](https://open.spotify.com/album/13UQwlje5pY3bt2o1Y6xL6) | 2:44 |
+| 21 | [Otra Vez Soltera](https://open.spotify.com/track/5KVoEPfr37AST35AsDcY7t) | [Las Fenix](https://open.spotify.com/artist/2ZNrWgSrqOlD6uF54Hx4ZY) | [Otra Vez Soltera](https://open.spotify.com/album/6YuNLasBSbj27kGKevK0dT) | 2:33 |
 | 22 | [Dame Un Besito](https://open.spotify.com/track/1eujaqtBOGkVnY3oVkcTnG) | [La Fiebre](https://open.spotify.com/artist/2dJ841WWMQuBwrFtQmsOE9) | [Dame Un Besito](https://open.spotify.com/album/1UsFXTfhEuJPhwz0VEFgaT) | 3:06 |
 | 23 | [Cuando Me Dé la Gana](https://open.spotify.com/track/6vMQHbiTjjqAEP3ZPZKYIQ) | [Cezar Omar](https://open.spotify.com/artist/2pti4nraMh3e7GJg522LFq), [Stefani Montiel](https://open.spotify.com/artist/68itzJPfdDLNgLecpEfaHI) | [Cuando Me Dé la Gana](https://open.spotify.com/album/3r3a9WllDkWBl8Idoes2go) | 3:27 |
 | 24 | [Anhelos](https://open.spotify.com/track/4IloVueaAHDjIRuvxFOE9w) | [La Dezz](https://open.spotify.com/artist/7DayckUSebiooSMdF8C2a1), [Ram Herrera](https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE) | [Anhelos](https://open.spotify.com/album/6bQNxIp5ebYjjlnlZr69xd) | 4:17 |
@@ -41,14 +41,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 | 31 | [Una Ilusión](https://open.spotify.com/track/2kYq6e5BuHzKr8iRsl5AWo) | [Isabel Marie](https://open.spotify.com/artist/1i4JicYEjrRhkORObJYf89) | [Una Ilusión](https://open.spotify.com/album/4r0G7rL668VA5YsHTwzVsU) | 3:16 |
 | 32 | [Infraganti](https://open.spotify.com/track/5nXpvGtAZJfVtkeJgxhwbN) | [Monica Saldivar](https://open.spotify.com/artist/6DsEG8AZVx2LpveCIwzkMw) | [Soy Mas Fuerte \(Deluxe\)](https://open.spotify.com/album/2BwD5INs8kHprriWKDmbP6) | 3:49 |
 | 33 | [Quiereme \- Hard Core Tex\-Mex Version](https://open.spotify.com/track/0Mw3XtMS8mVa0TePH6JWPS) | [El Tiempo](https://open.spotify.com/artist/0DxGeLKI2FB9WsIi8dmPr2), [Juan P\. Moreno](https://open.spotify.com/artist/0tlZzUtqFwN2raxLbHTH5I) | [Quiereme \(Hard Core Tex\-Mex Version\)](https://open.spotify.com/album/0ZprEjt9HQi9GHR6dZAD8m) | 3:27 |
-| 34 | [Anda Vuela Y Vete](https://open.spotify.com/track/2MvbaM5Xr5WhIivUQ8ofWq) | [Kamryn Ramirez](https://open.spotify.com/artist/5aymaxJUjnEDpKqnlZJ6Md) | [Anda Vuela Y Vete](https://open.spotify.com/album/7MLTri6EzzNH2BduIXholw) | 2:45 |
-| 35 | [Volverás](https://open.spotify.com/track/7ARQgwWu1HNr6GVo7OIlfb) | [Jenny B](https://open.spotify.com/artist/3BaCKKe6NFRb12KYkYAhgB) | [Volverás](https://open.spotify.com/album/6ixTsLJz2DcMzqHtJneQkZ) | 3:20 |
+| 34 | [Volverás](https://open.spotify.com/track/7ARQgwWu1HNr6GVo7OIlfb) | [Jenny B](https://open.spotify.com/artist/3BaCKKe6NFRb12KYkYAhgB) | [Volverás](https://open.spotify.com/album/6ixTsLJz2DcMzqHtJneQkZ) | 3:20 |
+| 35 | [Anda Vuela Y Vete](https://open.spotify.com/track/2MvbaM5Xr5WhIivUQ8ofWq) | [Kamryn Ramirez](https://open.spotify.com/artist/5aymaxJUjnEDpKqnlZJ6Md) | [Anda Vuela Y Vete](https://open.spotify.com/album/7MLTri6EzzNH2BduIXholw) | 2:45 |
 | 36 | [Pura Sabrosura](https://open.spotify.com/track/3etkEQi64KOu73UexyHvCU) | [Severo y Grupo Fuego](https://open.spotify.com/artist/6KZCZ4IGZLiJpvVysat6F6) | [Pura Sabrosura](https://open.spotify.com/album/007AGLSQRBYHMtIvW8Z2mv) | 2:39 |
 | 37 | [Porque Vivo Enamorado](https://open.spotify.com/track/32ovEWIxJqBuOr5WGrPGGx) | [Roel Martinez](https://open.spotify.com/artist/4RikQLyFZfarbZVAapJ7fe) | [Porque Vivo Enamorado](https://open.spotify.com/album/5GtBt9MN0FOppVuMy2vvWS) | 3:42 |
-| 38 | [Increible](https://open.spotify.com/track/5oleBetA6x9DZgnjFxzVnL) | [MARISELA HERNANDEZ](https://open.spotify.com/artist/0hpmUWNOBWVBpjOHv54CFZ) | [Increible](https://open.spotify.com/album/5MdQjoBT8WWX4vxA7Bi0VK) | 3:41 |
-| 39 | [Otra Oportunidad](https://open.spotify.com/track/2DNiXqfzhHi43i28uokiFT) | [Grupo Alamo](https://open.spotify.com/artist/61gPodc8cyGwCnO8Z8quDy) | [Camino al Progreso](https://open.spotify.com/album/2UarTzL0sMw8IpBXVJiUDn) | 3:49 |
-| 40 | [Ven](https://open.spotify.com/track/6FS7iWuieGglr6YX7olj0x) | [ALICIA C](https://open.spotify.com/artist/0JEYuKSjp4pSEcUujGTz0X) | [Ven](https://open.spotify.com/album/5HVrcYwT78z0OsbZmiEtLV) | 2:57 |
-| 41 | [Amigo Fiel](https://open.spotify.com/track/2e57bUnVZ0zGmVzcPiZlue) | [Ram Herrera](https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE) | [Amigo Fiel](https://open.spotify.com/album/4bFSwa77NlmSKLUNavclWx) | 3:36 |
+| 38 | [Amigo Fiel](https://open.spotify.com/track/2e57bUnVZ0zGmVzcPiZlue) | [Ram Herrera](https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE) | [Amigo Fiel](https://open.spotify.com/album/4bFSwa77NlmSKLUNavclWx) | 3:36 |
+| 39 | [Increible](https://open.spotify.com/track/5oleBetA6x9DZgnjFxzVnL) | [MARISELA HERNANDEZ](https://open.spotify.com/artist/0hpmUWNOBWVBpjOHv54CFZ) | [Increible](https://open.spotify.com/album/5MdQjoBT8WWX4vxA7Bi0VK) | 3:41 |
+| 40 | [Otra Oportunidad](https://open.spotify.com/track/2DNiXqfzhHi43i28uokiFT) | [Grupo Alamo](https://open.spotify.com/artist/61gPodc8cyGwCnO8Z8quDy) | [Camino al Progreso](https://open.spotify.com/album/2UarTzL0sMw8IpBXVJiUDn) | 3:49 |
+| 41 | [Ven](https://open.spotify.com/track/6FS7iWuieGglr6YX7olj0x) | [ALICIA C](https://open.spotify.com/artist/0JEYuKSjp4pSEcUujGTz0X) | [Ven](https://open.spotify.com/album/5HVrcYwT78z0OsbZmiEtLV) | 2:57 |
 | 42 | [Si Manana No Me Ves](https://open.spotify.com/track/4hkokOj67Cb9gzt6QV2nUd) | [Anikka](https://open.spotify.com/artist/3hkqKQ2qlIE4STNnjFLDnh) | [Si Manana No Me Ves](https://open.spotify.com/album/3NqmmCyTpThcgwBSalVtH6) | 3:21 |
 | 43 | [El Error Más Bello](https://open.spotify.com/track/53gfKh57VZYYkQtoxHmxUt) | [Juan Treviño](https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG) | [El Error Más Bello](https://open.spotify.com/album/7o7d17PLyFmjGB0an0yovJ) | 3:25 |
 | 44 | [No Olvides Nuestro Amor](https://open.spotify.com/track/1Ta3yiAmE3pwV0PTHh7aQi) | [Savannah V.](https://open.spotify.com/artist/4tIM2vdL2VzMLAG4HjvcCo) | [No Olvides Nuestro Amor](https://open.spotify.com/album/3n0v17UcuyufwjmzRz4jFg) | 3:05 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 | 79 | [Ilusiones](https://open.spotify.com/track/2ppb8UJGd46K2s3amo3Tdf) | [Inspirazion](https://open.spotify.com/artist/0VsDIktkT2MwCO9U48QBvZ) | [Ilusiones](https://open.spotify.com/album/3RuGEPSv2fjAkSAZ3zi06i) | 3:17 |
 | 80 | [Los Laureles](https://open.spotify.com/track/4X934GVbVTB738dLh2fsDG) | [Grupo Rumores](https://open.spotify.com/artist/7yTayx79xvmK2D61aPGprO) | [La Faldita](https://open.spotify.com/album/3PloZ7lDWnocn5J8b8qIYd) | 3:12 |
 
-Snapshot ID: `MCw0YWQyMWZkYzMxZGNkMDVlMDYzMDBjMTc0NWEwODliYWUyNTdlMWFi`
+Snapshot ID: `MCw5NTcxYzQzYzk1Yzk2NjVhYTQ3M2ZmOWJjZWZiNWI0Y2JkZWYwYmI5`

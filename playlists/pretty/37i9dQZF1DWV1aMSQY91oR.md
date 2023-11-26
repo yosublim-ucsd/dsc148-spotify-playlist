@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > We're back! The newest Hip\-Hop, refreshed weekly\. Cover: Da Crook, NorthSideBenji
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,974 likes - 48 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,989 likes - 48 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 47 | [Beama \(feat\. Lola Brooke\)](https://open.spotify.com/track/3Q3zd5UhDRBCPW7pPF9QMw) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Beama \(feat\. Lola Brooke\)](https://open.spotify.com/album/2JbQMbjpv7accIdixIkT0G) | 2:21 |
 | 48 | [Moonwalk](https://open.spotify.com/track/3ScdcNvPQpHs9QEvMefVyc) | [Obia le Chef](https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3), [Cotola](https://open.spotify.com/artist/1Mpkla8m8LaM1rCJjyxXjw) | [Moonwalk](https://open.spotify.com/album/5vfFtiaSfEeURQTZFRFIsD) | 2:50 |
 
-Snapshot ID: `MCw4ZTJlMmU4ZGQ4ZDVkY2M4OTYwNjAwYzdhOTQ5YTAxNjBkMTRjMjMz`
+Snapshot ID: `MCxkYjgwNWM2MjVjMjQxOTc4NDFkYTFjZjRlZTY0N2E2NDM4MmFmOGQx`

@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 65763,
+  "num_followers": 65774,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjhkYmY1YzZkOGZmNWFjNjFkMjMyMjUyNGQzNzhlNDE5ZmI5YjA4",
+  "snapshot_id": "MCw1ZTRlZDBhYzYwMDAyZGJhOTc1MjNmNjczNDI4ZTRkZThkNzViNmI4",
   "tracks": [
     {
       "added_at": "2023-05-05 17:20:54",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "A Million Voices",
-        "url": "https://open.spotify.com/album/43rQvK1t3lUDzNhXRLE6bQ"
-      },
-      "artists": [
-        {
-          "name": "Polina Gagarina",
-          "url": "https://open.spotify.com/artist/3Pdait6yo2LXvw2CwnagZr"
-        }
-      ],
-      "duration_ms": 180381,
-      "name": "A Million Voices",
-      "url": "https://open.spotify.com/track/6VlxdfLIfqf7saVOuerWyR"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Vive la vie (Edition sp\u00e9ciale)",
         "url": "https://open.spotify.com/album/64TJ7px9P7xSUXHB3604uf"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 169181,
       "name": "Moustache",
       "url": "https://open.spotify.com/track/6ILOO5bZA9x6zanAMO0hKr"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "A Million Voices",
+        "url": "https://open.spotify.com/album/43rQvK1t3lUDzNhXRLE6bQ"
+      },
+      "artists": [
+        {
+          "name": "Polina Gagarina",
+          "url": "https://open.spotify.com/artist/3Pdait6yo2LXvw2CwnagZr"
+        }
+      ],
+      "duration_ms": 180381,
+      "name": "A Million Voices",
+      "url": "https://open.spotify.com/track/6VlxdfLIfqf7saVOuerWyR"
     },
     {
       "added_at": "2023-05-05 17:20:54",

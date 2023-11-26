@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Danny Ocean
 
-[Spotify](https://open.spotify.com/user/spotify) - 585,775 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 585,837 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 5 | [Oral](https://open.spotify.com/track/6VCNxAwxA83j2jE3QZpYPr) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Oral](https://open.spotify.com/album/0Jldmuyjx6v7nMefI7y00r) | 3:42 |
 | 6 | [QUIZÁS SI QUIZÁS NO](https://open.spotify.com/track/3WQhuJnlOTV9RiDZx2tDFF) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [QUIZÁS SI QUIZÁS NO](https://open.spotify.com/album/12yhzd8FI261UJ2UZDqMcw) | 3:23 |
 | 7 | [LA CAPI](https://open.spotify.com/track/68OXeY9CUQebrOAAh3b3Jw) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 3:22 |
-| 8 | [ONTAS BB](https://open.spotify.com/track/0AxbelOCUlFunxBJyoixsb) | [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [ONTAS BB](https://open.spotify.com/album/4QLawl4TjcXv7LU2UEaRJQ) | 3:27 |
+| 8 | [ONTAS BB](https://open.spotify.com/track/3IHSOgqSplOCtN2NiGlp0q) | [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [ONTAS BB](https://open.spotify.com/album/2sbHi7VQ7U7uohlhAo0gax) | 3:27 |
 | 9 | [Por Dentro](https://open.spotify.com/track/671fHUAB2n0MocazS1bMB8) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Por Dentro](https://open.spotify.com/album/0eurPgSTFcfvsgGSqIciS4) | 2:45 |
 | 10 | [Sobreviviste](https://open.spotify.com/track/3CGPWcU0S3tnb1hSvtyBmj) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Sobreviviste](https://open.spotify.com/album/1TpmuLGyFw9tVtuBIt7t6u) | 3:06 |
 | 11 | [AÚN TE QUIERO](https://open.spotify.com/track/1NI6GSGPQn0EYeW27V2n2n) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [AÚN TE QUIERO](https://open.spotify.com/album/6ElZodBAzNw2Tsh7eFrK9u) | 3:25 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 59 | [SOLOS](https://open.spotify.com/track/13YhNghBwAKN9rGfNfAkD8) | [BRAVO](https://open.spotify.com/artist/7qtrIbvzw3v43TXqADisFd) | [SOLOS](https://open.spotify.com/album/1gLN3mimnYFosrReFBrxPz) | 2:18 |
 | 60 | [EL O YO](https://open.spotify.com/track/0BpjBMutkKy8AIEk3zxzSK) | [Pit Andre](https://open.spotify.com/artist/0OPADCRhYaBPCE4Mu8LOpt) | [EL O YO](https://open.spotify.com/album/7BWgRk3HBCjsWBuRWSCYQt) | 3:23 |
 
-Snapshot ID: `MCw2MzBiODczYThlMDhlZjk2MTE5NGMzOWViZGE3Nzg2OTY1OWJiM2Rj`
+Snapshot ID: `MCwxMjJiNjE2NDZlMzYwOTEyNGM1ODY2NDRlM2Y1ZjMxZjhjNTQzZjZj`

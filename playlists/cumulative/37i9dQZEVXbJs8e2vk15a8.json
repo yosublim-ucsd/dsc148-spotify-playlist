@@ -3871,6 +3871,28 @@
     },
     {
       "album": {
+        "name": "Black Sheep (Brie Larson Vocal Version)",
+        "url": "https://open.spotify.com/album/3blvQlrV0IeDBOWqDz2yYd"
+      },
+      "artists": [
+        {
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+        },
+        {
+          "name": "Brie Larson",
+          "url": "https://open.spotify.com/artist/7g77hiv179GYIwhfCgETGy"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294065,
+      "name": "Black Sheep - Brie Larson Vocal Version",
+      "url": "https://open.spotify.com/track/60TThBDrPpek5k520l0W0L"
+    },
+    {
+      "album": {
         "name": "In Absentia (Deluxe - Remastered)",
         "url": "https://open.spotify.com/album/38d7C2XIoUX0v5cU0HuSSW"
       },
@@ -5233,6 +5255,40 @@
     },
     {
       "album": {
+        "name": "CHUPON",
+        "url": "https://open.spotify.com/album/6iZo2sL8hRlzjikyJn5vyh"
+      },
+      "artists": [
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "El Gudi",
+          "url": "https://open.spotify.com/artist/4bBHOk8nEyfPGCZsDEEZsB"
+        },
+        {
+          "name": "Ovi\u00f1a",
+          "url": "https://open.spotify.com/artist/3cJuFQQKreRtCtbQZ83Sam"
+        },
+        {
+          "name": "Jey F",
+          "url": "https://open.spotify.com/artist/72JO7MqhlJuMCwkx4w8Afr"
+        },
+        {
+          "name": "Alan Dazmel",
+          "url": "https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201084,
+      "name": "CHUPON",
+      "url": "https://open.spotify.com/track/7v4JGOsUkblqcvOJ0YpNUU"
+    },
+    {
+      "album": {
         "name": "Chup\u00f3n",
         "url": "https://open.spotify.com/album/0TVjnQlL30VMz4Kqu0qoVQ"
       },
@@ -5260,7 +5316,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 201084,
       "name": "Chup\u00f3n",
       "url": "https://open.spotify.com/track/3lev2QW3nUHNuxrVstVEGj"
@@ -6882,7 +6938,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 463737,
       "name": "DEMO #4: BellaK.O.",
       "url": "https://open.spotify.com/track/2eQFpLpV3jteALVz85YKIs"
@@ -6922,6 +6978,24 @@
       "duration_ms": 222133,
       "name": "DEMO #5: nostalgIA",
       "url": "https://open.spotify.com/track/5ne3gNVpzya4jOH8hOmNkL"
+    },
+    {
+      "album": {
+        "name": "DEMO #5: nostalgIA (Spanglish Version)",
+        "url": "https://open.spotify.com/album/32eAYvFNmfM0HVo6zY6Lwh"
+      },
+      "artists": [
+        {
+          "name": "FlowGPT",
+          "url": "https://open.spotify.com/artist/1mxt7qtdBFCHAeEeDHGgiC"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222188,
+      "name": "DEMO #5: nostalgIA - Spanglish Version",
+      "url": "https://open.spotify.com/track/092oBVwyJLxHnYEu5E1Rw6"
     },
     {
       "album": {
@@ -7630,6 +7704,24 @@
       "duration_ms": 190574,
       "name": "Domingo",
       "url": "https://open.spotify.com/track/0F8OdNaqNCzR8CeU59u6CZ"
+    },
+    {
+      "album": {
+        "name": "Dear Insanity...",
+        "url": "https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204880,
+      "name": "Don't Go Insane",
+      "url": "https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg"
     },
     {
       "album": {
@@ -8914,6 +9006,24 @@
       "duration_ms": 281835,
       "name": "Esclava",
       "url": "https://open.spotify.com/track/5ScRltS6KmeYTUiHULKNAx"
+    },
+    {
+      "album": {
+        "name": "Esc\u00e1pate conmigo",
+        "url": "https://open.spotify.com/album/7n4x6qlqlzhkt7CdBlOPIy"
+      },
+      "artists": [
+        {
+          "name": "Mati G\u00f3mez",
+          "url": "https://open.spotify.com/artist/23mC5tLCbMk9zqrR2dFtNE"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158127,
+      "name": "Esc\u00e1pate conmigo",
+      "url": "https://open.spotify.com/track/0f3L9EegaCOzH6KwbZwzA0"
     },
     {
       "album": {
@@ -11968,7 +12078,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 192244,
       "name": "Humilde, Flaite y Sencillo",
       "url": "https://open.spotify.com/track/1kAar44j6QmeO2kxUKzcRo"
@@ -12784,7 +12894,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 161760,
       "name": "IT GIRL",
       "url": "https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP"
@@ -14126,6 +14236,28 @@
       "duration_ms": 129229,
       "name": "Latidos",
       "url": "https://open.spotify.com/track/7exaYYNN99DHkbZuHOZWO3"
+    },
+    {
+      "album": {
+        "name": "Le Gustan lo' Flaites",
+        "url": "https://open.spotify.com/album/7F0QdDugWW1NkQBtQXhFkx"
+      },
+      "artists": [
+        {
+          "name": "El Joan",
+          "url": "https://open.spotify.com/artist/4d7tFHxzWvzfsgCqPAEOSQ"
+        },
+        {
+          "name": "Celso El Potente",
+          "url": "https://open.spotify.com/artist/7psSmcUfVtqIeuWKKd8Md2"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183328,
+      "name": "Le Gustan lo' Flaites",
+      "url": "https://open.spotify.com/track/1smRP4zRit7A6ZDQXkFJWC"
     },
     {
       "album": {
@@ -15647,6 +15779,32 @@
     },
     {
       "album": {
+        "name": "MARTILLAZO",
+        "url": "https://open.spotify.com/album/1FX1f4X5yS0wlnItHjvhvo"
+      },
+      "artists": [
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158333,
+      "name": "MARTILLAZO",
+      "url": "https://open.spotify.com/track/283ngLR3LX6cdq9unM7MJ0"
+    },
+    {
+      "album": {
         "name": "Seven Inches Of Satanic Panic",
         "url": "https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF"
       },
@@ -16842,7 +17000,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 231156,
       "name": "Mi Primera Chamba",
       "url": "https://open.spotify.com/track/7iIdxOrsBlv0D0geWSSOcQ"
@@ -16886,6 +17044,24 @@
       "duration_ms": 231444,
       "name": "Mi Primera Chamba",
       "url": "https://open.spotify.com/track/6KL3mzK9SdRCT93pPgVvHu"
+    },
+    {
+      "album": {
+        "name": "Mi Primera Chamba - Si la Calle Llama Edit",
+        "url": "https://open.spotify.com/album/2AEL1CakMM940deBq8mYvc"
+      },
+      "artists": [
+        {
+          "name": "Luna Cristofanelli",
+          "url": "https://open.spotify.com/artist/3HQ5dYTQ6URNajUz07H0pr"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226562,
+      "name": "Mi Primera Chamba - Si la Calle Llama Edit",
+      "url": "https://open.spotify.com/track/010OId0BrP0zHToUv4a4xx"
     },
     {
       "album": {
@@ -16940,7 +17116,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 185600,
       "name": "Mia Na' Mas",
       "url": "https://open.spotify.com/track/0QlLclyUHQs859oPptz6qh"
@@ -19030,7 +19206,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 222168,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/1cpVRg3KxPzALorPNCxhqI"
@@ -25550,7 +25726,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 238986,
       "name": "SPECIALZ",
       "url": "https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF"

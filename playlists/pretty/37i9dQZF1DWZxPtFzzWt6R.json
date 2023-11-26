@@ -1,12 +1,12 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Can\u00e7\u00e3o & Louvor",
-  "num_followers": 74609,
+  "num_followers": 74666,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhY2FiMTQzMjgwMDE0YjU4YTc4MzdjMmY3YjVkNThkNjIzMzkwMjQw",
+  "snapshot_id": "MCw3NjEzODE5ZjU0MjJhNzI0ZTRhYjgxNTBlYTY1MGYwMzUxOTZhMzZi",
   "tracks": [
     {
       "added_at": "2023-11-24 07:22:12",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-11-24 07:22:12",
       "album": {
-        "name": "De Volta \u00e0 Inoc\u00eancia",
-        "url": "https://open.spotify.com/album/7dWg5ZEhECD7rehmm0adzf"
-      },
-      "artists": [
-        {
-          "name": "Alvaro & Daniel",
-          "url": "https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2"
-        }
-      ],
-      "duration_ms": 288012,
-      "name": "De Volta \u00e0 Inoc\u00eancia",
-      "url": "https://open.spotify.com/track/39NU2dGXS0Jjb3CufYOtXv"
-    },
-    {
-      "added_at": "2023-11-24 07:22:12",
-      "album": {
         "name": "Minha Ilha",
         "url": "https://open.spotify.com/album/02Tuv2t5HpJcHCu9bjyrCb"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 284505,
       "name": "Minha Ilha",
       "url": "https://open.spotify.com/track/0DKrKNKy0Mi7alxkaebj5x"
+    },
+    {
+      "added_at": "2023-11-24 07:22:12",
+      "album": {
+        "name": "De Volta \u00e0 Inoc\u00eancia",
+        "url": "https://open.spotify.com/album/7dWg5ZEhECD7rehmm0adzf"
+      },
+      "artists": [
+        {
+          "name": "Alvaro & Daniel",
+          "url": "https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2"
+        }
+      ],
+      "duration_ms": 288012,
+      "name": "De Volta \u00e0 Inoc\u00eancia",
+      "url": "https://open.spotify.com/track/39NU2dGXS0Jjb3CufYOtXv"
     },
     {
       "added_at": "2023-11-24 07:22:12",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-11-24 07:22:12",
       "album": {
-        "name": "Confia no Processo",
-        "url": "https://open.spotify.com/album/6suujei9SvAs3eKoGfoLtp"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Marcos & Danilo",
-          "url": "https://open.spotify.com/artist/27HdKF8P7IOhGzwgVi2w4F"
-        }
-      ],
-      "duration_ms": 183645,
-      "name": "Confia no Processo",
-      "url": "https://open.spotify.com/track/3ZJbvLFRJKqBxLk1zHstuv"
-    },
-    {
-      "added_at": "2023-11-24 07:22:12",
-      "album": {
         "name": "Quem Foi Que Me Tocou",
         "url": "https://open.spotify.com/album/7f6cChSO1EpHAlmEZLXbRX"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 281002,
       "name": "Quem Foi Que Me Tocou",
       "url": "https://open.spotify.com/track/0FgEqIM4SYwjvCbdIzQU04"
+    },
+    {
+      "added_at": "2023-11-24 07:22:12",
+      "album": {
+        "name": "Confia no Processo",
+        "url": "https://open.spotify.com/album/6suujei9SvAs3eKoGfoLtp"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Marcos & Danilo",
+          "url": "https://open.spotify.com/artist/27HdKF8P7IOhGzwgVi2w4F"
+        }
+      ],
+      "duration_ms": 183645,
+      "name": "Confia no Processo",
+      "url": "https://open.spotify.com/track/3ZJbvLFRJKqBxLk1zHstuv"
     },
     {
       "added_at": "2023-11-24 07:22:12",

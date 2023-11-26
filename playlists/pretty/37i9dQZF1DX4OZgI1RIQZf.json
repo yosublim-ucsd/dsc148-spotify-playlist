@@ -1,12 +1,12 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 78982,
+  "num_followers": 79020,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDY5NjY0MGRmMTcxNTdlZmEyNGIwY2U0ODdmMGU4MzExNjI1Yzkz",
+  "snapshot_id": "MCxlYzU1ZDMwNTY1ZmRiODgxODFlNzk4ZmQ4YTQ4ZDdmNmNkZjFmODgz",
   "tracks": [
     {
       "added_at": "2023-10-27 07:45:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Introducing The Sonics",
-        "url": "https://open.spotify.com/album/2EmUijeHFyILSHUC2kzxXv"
-      },
-      "artists": [
-        {
-          "name": "The Sonics",
-          "url": "https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy"
-        }
-      ],
-      "duration_ms": 158680,
-      "name": "The Witch",
-      "url": "https://open.spotify.com/track/18k49mXvNPtKlcT6Ky39pe"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "Blood Red Moon",
         "url": "https://open.spotify.com/album/7x67tt2IeXCju0IjT3jCCJ"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 271546,
       "name": "Blood Red Moon",
       "url": "https://open.spotify.com/track/6LOBCrIpUtcw54KXHWCY70"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "Introducing The Sonics",
+        "url": "https://open.spotify.com/album/2EmUijeHFyILSHUC2kzxXv"
+      },
+      "artists": [
+        {
+          "name": "The Sonics",
+          "url": "https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy"
+        }
+      ],
+      "duration_ms": 158680,
+      "name": "The Witch",
+      "url": "https://open.spotify.com/track/18k49mXvNPtKlcT6Ky39pe"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Friendly Fires",
-        "url": "https://open.spotify.com/album/3sGsbbZGQqc3npPtdlAgnU"
-      },
-      "artists": [
-        {
-          "name": "Friendly Fires",
-          "url": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
-        }
-      ],
-      "duration_ms": 213640,
-      "name": "Skeleton Boy",
-      "url": "https://open.spotify.com/track/0O2UcLBP75ugJ8DxskP8gz"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "Frankenstein",
         "url": "https://open.spotify.com/album/48ULeYOIxptWfLQdebRfVB"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 268186,
       "name": "Frankenstein",
       "url": "https://open.spotify.com/track/2N0vFGHku7wNk66Aw5HZSR"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "Friendly Fires",
+        "url": "https://open.spotify.com/album/3sGsbbZGQqc3npPtdlAgnU"
+      },
+      "artists": [
+        {
+          "name": "Friendly Fires",
+          "url": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
+        }
+      ],
+      "duration_ms": 213640,
+      "name": "Skeleton Boy",
+      "url": "https://open.spotify.com/track/0O2UcLBP75ugJ8DxskP8gz"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Four Words To Stand On",
-        "url": "https://open.spotify.com/album/0UIVEV4vALA9fawXE8YLHS"
-      },
-      "artists": [
-        {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
-        }
-      ],
-      "duration_ms": 211480,
-      "name": "Standing On Ghosts",
-      "url": "https://open.spotify.com/track/5DQNmdJagdL4HGnkcu6qwW"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "By Default",
         "url": "https://open.spotify.com/album/7uIZLgnTNZEJ1d0iO0qvEo"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 168936,
       "name": "Black Magic",
       "url": "https://open.spotify.com/track/6qWbdBTcF2u7zvSXLxKRZx"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "Four Words To Stand On",
+        "url": "https://open.spotify.com/album/0UIVEV4vALA9fawXE8YLHS"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "duration_ms": 211480,
+      "name": "Standing On Ghosts",
+      "url": "https://open.spotify.com/track/5DQNmdJagdL4HGnkcu6qwW"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Dark and Stormy",
-        "url": "https://open.spotify.com/album/7beMB0mRNOgPfrCyNlhXmk"
-      },
-      "artists": [
-        {
-          "name": "Hot Chip",
-          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
-        }
-      ],
-      "duration_ms": 295840,
-      "name": "Dark and Stormy",
-      "url": "https://open.spotify.com/track/5o45wuK2lhBcwR3fSnakXL"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "Whip It On",
         "url": "https://open.spotify.com/album/1beQ4oVlpOV8hr8WIoUouF"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 150293,
       "name": "Attack of the Ghost Riders",
       "url": "https://open.spotify.com/track/39us5jxLPBBrBMqCx8crY7"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "Dark and Stormy",
+        "url": "https://open.spotify.com/album/7beMB0mRNOgPfrCyNlhXmk"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        }
+      ],
+      "duration_ms": 295840,
+      "name": "Dark and Stormy",
+      "url": "https://open.spotify.com/track/5o45wuK2lhBcwR3fSnakXL"
     },
     {
       "added_at": "2023-10-27 07:45:00",

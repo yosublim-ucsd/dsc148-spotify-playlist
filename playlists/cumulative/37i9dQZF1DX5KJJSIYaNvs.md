@@ -4,7 +4,7 @@
 
 > Listen to Indian women, at full volume\. Cover \- Lisa Mishra
 
-246 songs - 14 hr 19 min
+247 songs - 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Kahe Muskay Re](https://open.spotify.com/track/5aXPiCepce7TvDI8Iq7knH) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Bhavai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0OwpfpNKcCIAP6fOCytSEI) | 4:44 | 2021-12-10 | 2022-02-02 |
 | [Kalle Kalle \(From "Chandigarh Kare Aashiqui"\)](https://open.spotify.com/track/5o6q9gQXi5umBrUczroW79) | [Priya Saraiya](https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO) | [Kalle Kalle \(From "Chandigarh Kare Aashiqui"\)](https://open.spotify.com/album/6QJUBLyhuSfrrXsdxvbHT5) | 3:47 | 2022-02-01 | 2023-01-04 |
 | [Karmawali](https://open.spotify.com/track/6mfdRFpZTTOGwzRCHQlnDW) | [Shruti Pathak](https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE) | [Karmawali](https://open.spotify.com/album/7sh3XAVFEufhE6NVyiRDV4) | 4:20 | 2023-11-17 |  |
+| [Kashmir](https://open.spotify.com/track/0FDlo7Rz1GQXjYz3y0UxPb) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [ANIMAL](https://open.spotify.com/album/0a183xiCHiC1GQd8ou7WXO) | 3:36 | 2023-11-25 |  |
 | [Kashmiri Apple](https://open.spotify.com/track/3BOCJTidTQjcF1Wtx23FEG) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Kashmiri Apple](https://open.spotify.com/album/4uv4ayUNwsS959kshlPpxi) | 3:24 | 2022-03-07 | 2022-04-06 |
 | [Kehndi Haan Kehndi Naa](https://open.spotify.com/track/7jl8FKIm4v4RfaGXLEV0s6) | [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86) | [Kehndi Haan Kehndi Naa](https://open.spotify.com/album/5KBhZPdX6L8iWK8E6azUde) | 3:21 | 2022-02-01 | 2022-03-08 |
 | [Kehri Gali](https://open.spotify.com/track/1paDFKGNdKWOSq8sk4Bv8u) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Tini \- EP](https://open.spotify.com/album/2ieFpeF1ll67TuqGjmOJP3) | 3:33 | 2022-09-06 | 2023-03-03 |
@@ -234,7 +235,7 @@
 | [Tu Hai](https://open.spotify.com/track/7dZU2M1wzwOixYS6OoSMfO) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq) | [Jammin \- Season 1](https://open.spotify.com/album/2TOpxaq3s212H86RbwKx4z) | 3:29 | 2023-03-02 | 2023-07-21 |
 | [Tu Toh Gaya Re \(From "Bob Biswas"\)](https://open.spotify.com/track/1V9MzOZA1PRhK0VCFMf8II) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Bianca Gomes](https://open.spotify.com/artist/1vM5cIvyQYTdXXXHl5IV6T) | [Tu Toh Gaya Re \(From "Bob Biswas"\)](https://open.spotify.com/album/3NlyYQJD6uH1SAGG2f8kpn) | 2:28 | 2021-12-10 | 2022-02-02 |
 | [Tu Yaheen Hai](https://open.spotify.com/track/0Xf1lj3RisQlWR2dqp22Zk) | [Shehnaaz Gill](https://open.spotify.com/artist/1opCEf85NTZSE7YkxLCvmV) | [Tu Yaheen Hai](https://open.spotify.com/album/3lvgntw7SY1ZlNDjPFhK7k) | 4:15 | 2021-12-10 | 2022-02-02 |
-| [Tum Jaise Ho](https://open.spotify.com/track/7ofq7AcSmMCB2fKpj1iDoo) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Tum Jaise Ho](https://open.spotify.com/album/40CMf6LyJR9XT0gaUuQdX0) | 4:10 | 2023-09-22 |  |
+| [Tum Jaise Ho](https://open.spotify.com/track/7ofq7AcSmMCB2fKpj1iDoo) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Tum Jaise Ho](https://open.spotify.com/album/40CMf6LyJR9XT0gaUuQdX0) | 4:10 | 2023-09-22 | 2023-11-26 |
 | [Tum Kehte Ho](https://open.spotify.com/track/3M7JuqD4jpOR3SJn48UXU4) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Sunayana Kachroo](https://open.spotify.com/artist/29UdvhODQC1KwziGG44sKL), [Saleel Kulkarni](https://open.spotify.com/artist/6Ow4DmnD2v4gQtqpPjR3lr) | [Tum Kehte Ho](https://open.spotify.com/album/6334yNVPRPAyZzLnp3CalX) | 4:35 | 2023-09-11 | 2023-11-06 |
 | [Tum Kya Mile \- Shreya's Version \(From "Rocky Aur Rani Kii Prem Kahaani"\)](https://open.spotify.com/track/1XF1cPnzsbGYn2mjKUjnWa) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Tum Kya Mile \- Shreya's Version \(From "Rocky Aur Rani Kii Prem Kahaani"\)](https://open.spotify.com/album/1LsdbOwH1SPB0s5IkII3C1) | 3:57 | 2023-07-27 |  |
 | [Tum Tum Nahin \- From " Ishq\-E\-Nadaan"](https://open.spotify.com/track/4qkFBdbzua0jnUeAJwgpj3) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Rajanarayan Deb](https://open.spotify.com/artist/1uS2iOCd5qD2Bzio1WnGwN), [Gunjan Nanda](https://open.spotify.com/artist/3MH13OTrrUS4XWAOVwlK8V) | [Tum Tum Nahin \(From " Ishq\-E\-Nadaan"\)](https://open.spotify.com/album/4GgGbX0hOXzRH3bifF1zRr) | 4:26 | 2023-07-13 |  |

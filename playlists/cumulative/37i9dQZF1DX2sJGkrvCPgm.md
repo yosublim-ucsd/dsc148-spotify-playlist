@@ -4,7 +4,7 @@
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-317 songs - 20 hr 1 min
+318 songs - 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,7 @@
 | [Light of the World](https://open.spotify.com/track/1u3uHNw5klnbBFFhZQKg18) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Light of the World](https://open.spotify.com/album/3ZGUn2HIrvuerquXBLLKBB) | 4:19 | 2021-12-24 |  |
 | [Listen! They're Singing!](https://open.spotify.com/track/0D3WquLAq77rYaU8VkIEoE) | [Evan Wickham](https://open.spotify.com/artist/6lPnAPe7eezhOUdTrwm7cZ) | [Christmas Music Vol\. 1](https://open.spotify.com/album/3xtWS5nLHWhLmkqC9NTKKb) | 2:02 | 2021-12-24 | 2022-07-22 |
 | [Little Drummer Boy \(Rewrapped\)](https://open.spotify.com/track/3MihysDPUE1E1aAmtcQvat) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Little Drummer Boy \(Rewrapped\)](https://open.spotify.com/album/20A6sDG40Uak6QEBxfeb89) | 4:11 | 2021-12-24 |  |
-| [Love Came Down](https://open.spotify.com/track/6OILMUMGX7ikLZ1W1OXAow) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Love Came Down](https://open.spotify.com/album/1mmoXYhZKXF2q0xD3PAG3T) | 3:51 | 2021-12-24 |  |
+| [Love Came Down](https://open.spotify.com/track/6OILMUMGX7ikLZ1W1OXAow) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Love Came Down](https://open.spotify.com/album/1mmoXYhZKXF2q0xD3PAG3T) | 3:51 | 2021-12-24 | 2023-11-26 |
 | [Love Is Here \(Christmas Version\)](https://open.spotify.com/track/4F9SoRyoPDdEGnsgIr9bLe) | [Dave Pettigrew](https://open.spotify.com/artist/5Fp3pq06IU08L28CrmfwPg) | [Love Is Here \(Christmas Version\)](https://open.spotify.com/album/5qJ7w2KDWBYTsKDUwUQkwu) | 3:32 | 2021-12-24 | 2022-07-29 |
 | [Make Good Your Christmas Day \(Renewed\)](https://open.spotify.com/track/4pTOhyPPEdoId614N81KFD) | [Christy Nockels](https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6), [Annie Rose Nockels](https://open.spotify.com/artist/2FGdMWxr9jpNrjiCjp2778), [Elliana Nockels](https://open.spotify.com/artist/2vyl92aUXMc7Ll6oMka2tW) | [The Thrill of Hope Renewed](https://open.spotify.com/album/2IAtaheIjW5TzYHc4GtfkL) | 4:53 | 2021-12-24 | 2022-07-29 |
 | [Make Room](https://open.spotify.com/track/0lEWsFKKwItsH88Lv2QwB3) | [The Sing Team](https://open.spotify.com/artist/1laNwx3Sgr12cbdw3UTROn) | [The Last Christmas On Earth..\. Again!](https://open.spotify.com/album/0nMovNBGG59zb0XmniBhAF) | 4:16 | 2021-12-24 | 2022-07-27 |
@@ -312,6 +312,7 @@
 | [White Christmas](https://open.spotify.com/track/5g3MZjhHJQAhqwP8jz2ahr) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [From Seed To Sequoia](https://open.spotify.com/album/3Aa8olM4RJ0Gc820cqvREs) | 1:33 | 2021-12-24 | 2023-07-22 |
 | [White Christmas](https://open.spotify.com/track/5pteOm3ioLG03qmNL1lZJn) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [All Heaven And Nature Sing](https://open.spotify.com/album/3yGqcUTfaxgJVcjAmn3FWQ) | 4:23 | 2021-12-24 | 2022-11-29 |
 | [White Christmas](https://open.spotify.com/track/1BtsXyRo4KHHhlJ3daoRXB) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX) | [White Christmas](https://open.spotify.com/album/2M0e3x6XRFJClaE5qOL3lT) | 3:06 | 2021-12-24 | 2022-12-22 |
+| [White Christmas](https://open.spotify.com/track/5j6eigKLRQgr3lP9sdsUsL) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [White Christmas](https://open.spotify.com/album/53UaQ99zUPZUbFOyqtrGii) | 4:13 | 2023-11-17 |  |
 | [White Christmas \- feat\. Francesca Battistelli](https://open.spotify.com/track/0gU0EA4TbIjhQKM6fN7IXU) | [Sidewalk Prophets](https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U), [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [Merry Christmas To You](https://open.spotify.com/album/5tF68h8vrUySWLXoUTc8gC) | 3:31 | 2021-12-24 | 2022-07-25 |
 | [White Forests](https://open.spotify.com/track/1MVRfEyXw9U7csWWfVFUwA) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Waiting For The Dawn](https://open.spotify.com/album/4ft2IddmKZZ29X9jyO8BAH) | 2:43 | 2021-12-24 | 2022-07-24 |
 | [Who Would Have Dreamed](https://open.spotify.com/track/7Ltz3D5rdlqkJACASe7aRS) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [Prepare Him Room: Celebrating the Birth of Jesus in Song](https://open.spotify.com/album/11tcda5WmtOqrd7zfGpbgG) | 3:52 | 2021-12-24 | 2022-07-29 |

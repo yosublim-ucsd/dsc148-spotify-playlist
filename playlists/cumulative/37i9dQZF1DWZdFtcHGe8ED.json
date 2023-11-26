@@ -848,7 +848,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-10",
+      "date_removed": null,
       "duration_ms": 257407,
       "name": "Born of Hate",
       "url": "https://open.spotify.com/track/0KFBWumneVmEuoIxTbgNrA"
@@ -3546,7 +3546,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 152280,
       "name": "Lowlife",
       "url": "https://open.spotify.com/track/5BPPlNliU7Ddz1uU20MQcG"
@@ -3762,7 +3762,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 287600,
       "name": "Masked Jackal",
       "url": "https://open.spotify.com/track/2pjI7phMrTO2KOJCqCkHIU"
@@ -5226,6 +5226,24 @@
       "duration_ms": 237513,
       "name": "Sea Savage",
       "url": "https://open.spotify.com/track/3Gwcz0OK7mFE87P7CjVG0W"
+    },
+    {
+      "album": {
+        "name": "Mental Vortex",
+        "url": "https://open.spotify.com/album/56gqMPiLXiyHNUCPnVeoX9"
+      },
+      "artists": [
+        {
+          "name": "Coroner",
+          "url": "https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330986,
+      "name": "Semtex Revolution",
+      "url": "https://open.spotify.com/track/6ZpcI3ZJtbbONbJ6LQm1XO"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia 🔥 Cover: Sfera Ebbasta
 
-[Spotify](https://open.spotify.com/user/spotify) - 906,323 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 906,716 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 29 | [Baby Mama](https://open.spotify.com/track/4Y60H8heDsEpQ2hin2g6V5) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [Baby Mama](https://open.spotify.com/album/3P40qeC2k4oGbF89ppRUJO) | 2:31 |
 | 30 | [SELEÇAO \(prod\. MILES\) 07.07.23](https://open.spotify.com/track/20vV3sZSFlDW4JMmJ0HNW7) | [yungest Moonstar](https://open.spotify.com/artist/3l9OOqBvHs4SM91bWqtaQb) | [SELEÇAO \(prod\. MILES\) 07.07.23](https://open.spotify.com/album/5dixIOOyTr0IaF2LVFlGIx) | 2:21 |
 | 31 | [Restare \(feat\. Lazza\)](https://open.spotify.com/track/4Vguuo2E1onl5knqW1X3fH) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [INNOCENTE](https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58) | 3:46 |
-| 32 | [SPEDIZIONE PUNITIVA](https://open.spotify.com/track/2RqyqoJTECRr2py03ZmTvF) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [SPEDIZIONE PUNITIVA](https://open.spotify.com/album/7GuR3OGl4rQ7RkFGPdcQHW) | 2:36 |
+| 32 | [Spedizione punitiva](https://open.spotify.com/track/2RqyqoJTECRr2py03ZmTvF) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [Spedizione punitiva](https://open.spotify.com/album/7GuR3OGl4rQ7RkFGPdcQHW) | 2:36 |
 | 33 | [RESPIRA \(feat\. Marracash\)](https://open.spotify.com/track/2zuRZkoWxoNtKaA4Q44f44) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [CVLT](https://open.spotify.com/album/6HXtcSvv1AXivyZrZjEdG1) | 3:43 |
 | 34 | [1 MESSAGGIO](https://open.spotify.com/track/3GsSmGgMELKhaYSj3QTShu) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [1 MESSAGGIO](https://open.spotify.com/album/4ckePFG01HSFnIDOtG9ZjS) | 2:34 |
 | 35 | [ALBV](https://open.spotify.com/track/11CLbFT3tm8UTU2b0XNd79) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [ALBV](https://open.spotify.com/album/7CIlHDEtln2cbqATa3uRoF) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [GRAMMELOT](https://open.spotify.com/track/0QZYznuUxIPXs7gY8CPvS4) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [The Globe](https://open.spotify.com/album/0Wp32iRbmSA3VvGZmAYjDv) | 1:36 |
 | 50 | [FASHION](https://open.spotify.com/track/2GrgmzXmNHOfqIcrDSQmQa) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [FASHION](https://open.spotify.com/album/6F9abOtP5f8U6AVCHFN8Tl) | 2:29 |
 
-Snapshot ID: `MCw0ZDcwYjcwNDBhM2NjZWJhNDMxNzk2NjU3OTU4YmZkMDc1Njg3MDk4`
+Snapshot ID: `MCwwYjYyYmFlYTdhMTdlMGYzYjc3YTcyMGIwMGJhMDdjZTQ0OGI3MGEy`

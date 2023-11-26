@@ -7118,7 +7118,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 166615,
       "name": "ER DETTE TIL \u00c5 OVERLEVE",
       "url": "https://open.spotify.com/track/1aILoZDz3wsIKO4Nj6aLgz"
@@ -8222,7 +8222,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 212962,
       "name": "Floden",
       "url": "https://open.spotify.com/track/0XzWcSh30W1H1o4ZiyI90j"
@@ -13650,7 +13650,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 214187,
       "name": "Josefin",
       "url": "https://open.spotify.com/track/2O7YJWue0OOBHWxRaqDsm9"
@@ -13862,6 +13862,24 @@
       "duration_ms": 232106,
       "name": "Jula Hjemme (feat. Trygve Skaug)",
       "url": "https://open.spotify.com/track/47G1D6ZRAkj37PsONIqs8h"
+    },
+    {
+      "album": {
+        "name": "Julebordet",
+        "url": "https://open.spotify.com/album/5eCWb5w3BlkVfi00JEHG4h"
+      },
+      "artists": [
+        {
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104276,
+      "name": "Julebordet",
+      "url": "https://open.spotify.com/track/7jUOzuH2aoUpElTEqPLKl1"
     },
     {
       "album": {
@@ -16170,7 +16188,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 173465,
       "name": "L\u00f8sningsorienterte",
       "url": "https://open.spotify.com/track/60vClM4MsGoWmEKO1soSlV"
@@ -16806,6 +16824,24 @@
       "duration_ms": 246133,
       "name": "MELTDOWN (feat. Drake)",
       "url": "https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb"
+    },
+    {
+      "album": {
+        "name": "Memory Lane & Winter Song",
+        "url": "https://open.spotify.com/album/5IvpvVd9LKgHACcUSHL5Y8"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192133,
+      "name": "Memory Lane",
+      "url": "https://open.spotify.com/track/7hHrs2q5c5rtzHLJ2DKHTT"
     },
     {
       "album": {
@@ -17726,7 +17762,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 137773,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
@@ -18554,6 +18590,28 @@
       "duration_ms": 233291,
       "name": "N\u00e5r himmelen faller ned",
       "url": "https://open.spotify.com/track/5aasUgkPxYhqKcxmNLotmH"
+    },
+    {
+      "album": {
+        "name": "N\u00e5r himmelen faller ned",
+        "url": "https://open.spotify.com/album/0yrNYpC4vyD54hTUPA5HpE"
+      },
+      "artists": [
+        {
+          "name": "Fay Wildhagen",
+          "url": "https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P"
+        },
+        {
+          "name": "SKAAR",
+          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250666,
+      "name": "N\u00e5r himmelen faller ned",
+      "url": "https://open.spotify.com/track/5icMVddPJD8okw9U8E0tVZ"
     },
     {
       "album": {
@@ -21714,6 +21772,24 @@
       "duration_ms": 209156,
       "name": "Say Yes To Heaven",
       "url": "https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe"
+    },
+    {
+      "album": {
+        "name": "Se s\u00e5 glad nissen er (med Nissemor)",
+        "url": "https://open.spotify.com/album/6H08zHLAXuWDeyae4lGWNS"
+      },
+      "artists": [
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151138,
+      "name": "Se s\u00e5 glad nissen er (med Nissemor)",
+      "url": "https://open.spotify.com/track/3QsQuRWsIU4ULKqkoLthy0"
     },
     {
       "album": {
@@ -25900,6 +25976,24 @@
       "duration_ms": 178414,
       "name": "Used to love you",
       "url": "https://open.spotify.com/track/4laljsUqeYkQLWoI9dh3D0"
+    },
+    {
+      "album": {
+        "name": "Usynlig",
+        "url": "https://open.spotify.com/album/2Kfze08v4d2Pqa5odUlRON"
+      },
+      "artists": [
+        {
+          "name": "Erika Norwich",
+          "url": "https://open.spotify.com/artist/1FsZYh8RTfafSEVmoVxWeK"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223086,
+      "name": "Usynlig",
+      "url": "https://open.spotify.com/track/0FRFFlbsXKwRYAPD7W7s6G"
     },
     {
       "album": {

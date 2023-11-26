@@ -4,7 +4,7 @@
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus.
 
-337 songs - 21 hr 58 min
+338 songs - 22 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [Hope Has Come \(Behold Him\)](https://open.spotify.com/track/14js1KdzK6dBLb9iW9Kd7x) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Hope Has Come \(Behold Him\)](https://open.spotify.com/album/7KqhvzyLBG4gpJvcaOZuTx) | 4:41 | 2022-11-26 |  |
 | [Hope is Here](https://open.spotify.com/track/4dM1fAwYIDG5XtncJyUEgB) | [LIFE Worship](https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d) | [With Us \(Emmanuel\)](https://open.spotify.com/album/2EFxlrFbmIJ05ZakXWZpOA) | 4:09 | 2021-12-24 | 2022-07-26 |
 | [Hope Is Here \(Do Not Fear\)](https://open.spotify.com/track/6uJaKvuzBPNxGmKWj5sVqj) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Hope Is Here](https://open.spotify.com/album/4p855YH6nf6IJgfiy6oNw7) | 3:23 | 2021-12-11 |  |
-| [How Glorious The Love Of Heaven](https://open.spotify.com/track/6mSg1Tl81CFwIrziHn9ifs) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Christmas Is Here](https://open.spotify.com/album/0qbZkLOHFhBHyOzCwkmENF) | 3:58 | 2021-12-24 |  |
+| [How Glorious The Love Of Heaven](https://open.spotify.com/track/6mSg1Tl81CFwIrziHn9ifs) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Christmas Is Here](https://open.spotify.com/album/0qbZkLOHFhBHyOzCwkmENF) | 3:58 | 2021-12-24 | 2023-11-26 |
 | [Humble People, Humble Christ \- Christmas Worship Bonus Track](https://open.spotify.com/track/0syu2w7DHVOHtiGq1eSIoa) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz), [Gabriella Velez](https://open.spotify.com/artist/6RfRV0mC3oSKOAEbL1rSvO), [Royce Lovett](https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N) | [No More Wasted Years](https://open.spotify.com/album/1qpgxwVd0GemgTLsBDKRBx) | 4:20 | 2023-11-17 |  |
 | [I Don't Want Christmas to End](https://open.spotify.com/track/2bc79MDIi1VULLU3KqyMoB) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [I Don't Want Christmas to End](https://open.spotify.com/album/76Vw1t2n6PBb0GiQK7p5aj) | 3:49 | 2021-12-11 |  |
 | [I Dream Of Christmas](https://open.spotify.com/track/0OYglQniaQNazYF0fJblbV) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas \(Extended\)](https://open.spotify.com/album/0Yn0lja0EAPbCZptiHw4Pj) | 3:22 | 2021-12-11 | 2023-11-18 |
@@ -246,6 +246,7 @@
 | [O Holy Night](https://open.spotify.com/track/4Jl0cjYdFu0ybMXuKTrXzQ) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [SVRCINA](https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C) | [The Birth Of A King](https://open.spotify.com/album/6omoliEPeOeAjrNOe0Dfdz) | 5:13 | 2021-12-11 |  |
 | [O Holy Night](https://open.spotify.com/track/77t2jkqojne0vc9YDnJ3NP) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Lowborn](https://open.spotify.com/album/42fwK8CU4k8YMq2d0rVxOO) | 4:52 | 2022-11-26 | 2023-10-03 |
 | [O Holy Night](https://open.spotify.com/track/6tYMJrhpToYlJdVK0IAOkE) | [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL) | [Christmas Past](https://open.spotify.com/album/3btctA0Xw5hPVAsZizRPLo) | 6:28 | 2021-12-24 | 2022-07-27 |
+| [O Holy Night \(feat\. P\-Tempo\) \- Amapiano](https://open.spotify.com/track/5aGam7phUVA2qOXIdUpG9W) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [P\-Tempo](https://open.spotify.com/artist/6XZsA5edNiT1XXJ36ANxd7) | [O Holy Night](https://open.spotify.com/album/0WNoCFIT8mVFyFuhe1iEaL) | 6:09 | 2023-11-17 |  |
 | [O Holy Night \(feat\. The McLendon Family\)](https://open.spotify.com/track/6vhEfu9CT6t8eH2hJNf48l) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq), [The McLendon Family](https://open.spotify.com/artist/5P8EFlWzOUDzJHmR6QyF1A) | [O Holy Night](https://open.spotify.com/album/5vfXOSlFK6iXixw7PXHIpe) | 5:06 | 2022-12-11 | 2023-11-07 |
 | [O Holy Night \(feat\. The Tenors\)](https://open.spotify.com/track/6nN0z2cPwFydCWPjtPaiLe) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31), [The Tenors](https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a) | [O Holy Night \(feat\. The Tenors\)](https://open.spotify.com/album/0p0zK4648YuGhRYWteoQ3l) | 4:19 | 2021-12-11 | 2023-06-04 |
 | [O Holy Night \- Amapiano](https://open.spotify.com/track/2f44MvPUQH4TK9DYNJxHow) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [P\-Tempo](https://open.spotify.com/artist/6XZsA5edNiT1XXJ36ANxd7) | [O Holy Night](https://open.spotify.com/album/741xPvKHHY0sF4NW9YP92P) | 6:09 | 2021-12-24 | 2022-11-13 |

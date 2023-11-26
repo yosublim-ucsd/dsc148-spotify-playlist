@@ -1145,6 +1145,24 @@
     },
     {
       "album": {
+        "name": "Nunca",
+        "url": "https://open.spotify.com/album/7p0oT5v3N8KZSYbvikcZMd"
+      },
+      "artists": [
+        {
+          "name": "Tomo Como Rey",
+          "url": "https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193133,
+      "name": "Nunca",
+      "url": "https://open.spotify.com/track/41KXHfwXP2gaovUW1Tvcue"
+    },
+    {
+      "album": {
         "name": "La Fiesta es de Nosotros",
         "url": "https://open.spotify.com/album/67YStxw0rxexYKzFU6ocdT"
       },

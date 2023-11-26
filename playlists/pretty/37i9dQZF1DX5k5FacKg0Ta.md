@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k5FacKg0Ta.md) - [plain]
 
 > Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz\-helmiä.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,279 likes - 69 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,304 likes - 69 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k5FacKg0Ta.md) - [plain]
 | 7 | [Komma Hem](https://open.spotify.com/track/6fpFP1SiA0gkMA2GoBI6lL) | [Koma Saxo](https://open.spotify.com/artist/28Ua0GwMz73dcNeUZIXDq8), [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx) | [Post Koma](https://open.spotify.com/album/0Kg10FOiXQVIsBAoMRhzLh) | 3:30 |
 | 8 | [Two Shadows of You](https://open.spotify.com/track/2zobyQH3iCld0ZOVpibSXt) | [Janne Huttunen](https://open.spotify.com/artist/2vnmi19CBiKUjsjyrLfyhA) | [Two Shadows of You](https://open.spotify.com/album/4zUjsY7rKNOMdqcQKt2e7W) | 7:29 |
 | 9 | [Earthbeat \- Single Edit](https://open.spotify.com/track/74ZDuZ6IzMjxJz7Gq72WC4) | [Tuomas Paukku Scription](https://open.spotify.com/artist/71OhqiVpT4D9PqQlUYLXD1) | [Earthbeat](https://open.spotify.com/album/1fowrT0sKZSEHUALZZU7PO) | 5:56 |
-| 10 | [A Smile In Exile](https://open.spotify.com/track/2Km22hqTP1oCagWeUhKSVr) | [Afrojazz Quintet](https://open.spotify.com/artist/2kCBdg9ftIoUvnvSffRz3z), [Jimi Tenor](https://open.spotify.com/artist/69H6uUTI29XBzQXV1d3A7D) | [Welcome To Our Future](https://open.spotify.com/album/6bSvq46jgueYOXbrjjggs2) | 5:30 |
+| 10 | [A Smile In Exile](https://open.spotify.com/track/2Km22hqTP1oCagWeUhKSVr) | [Afrojazz Quintet](https://open.spotify.com/artist/2kCBdg9ftIoUvnvSffRz3z), [Jimi Tenor](https://open.spotify.com/artist/69H6uUTI29XBzQXV1d3A7D) | [Welcome Our Future](https://open.spotify.com/album/6bSvq46jgueYOXbrjjggs2) | 5:30 |
 | 11 | [Try Again](https://open.spotify.com/track/3mRP9loGOgziATfqC21ipN) | [Peela](https://open.spotify.com/artist/5vgx2GUNPPiJ7tyE9xtVZA) | [Try Again](https://open.spotify.com/album/7Js6Q1TX5YB7PTvhgnPtKC) | 6:39 |
 | 12 | [Flores](https://open.spotify.com/track/11og6Mc6Zrz6mDULVTYppk) | [Max Zenger](https://open.spotify.com/artist/4BQaIjXZ3I0j8rDThV7C2b), [Globus](https://open.spotify.com/artist/18F5bmmZmitWWqYTkJqq95), [Kasperi Sarikoski](https://open.spotify.com/artist/1yNUIy8ESiCTqEcCcf0snT), [Mikael Myrskog](https://open.spotify.com/artist/3pzdD5EnatdGM1OMZFuABN), [Kaisa Mäensivu](https://open.spotify.com/artist/7LueFk6L7bLSNynsATb1ck), [Anssi Tirkkonen](https://open.spotify.com/artist/49dmNgQJQPyyNdujxcaqLF) | [Flores](https://open.spotify.com/album/0YaGa6g2ntjSlBqfYb580T) | 15:04 |
 | 13 | [Veden alla \- 2023](https://open.spotify.com/track/6x7mh47gjmjznDKPzlcPcM) | [Emma Salokoski](https://open.spotify.com/artist/4lkbQDGu2L3lpSmZnb0b8U), [Jarmo Saari](https://open.spotify.com/artist/37iScztCuS0YBVo4ta3Gcn) | [Viileässä virrassa](https://open.spotify.com/album/4XVYgJbW4PstuNlOw9cH6k) | 5:40 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k5FacKg0Ta.md) - [plain]
 | 68 | [Jasmiinin kukka](https://open.spotify.com/track/2t6JgAAry6wez10HnkJWvP) | [Ilkka Arola Sound Tagine](https://open.spotify.com/artist/5sb3EcTfz8Kkx1Zs8Vt429) | [Blue & Golden](https://open.spotify.com/album/07uM6sL7Usdi3pHcwQunsc) | 7:05 |
 | 69 | [Sgr A\*](https://open.spotify.com/track/3QLXh5l26khTqOJC8VdzVZ) | [Ilmiliekki Quartet](https://open.spotify.com/artist/5lyAsOhlvbGujJCVQoDC1B), [Verneri Pohjola](https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX), [Tuomo Prättälä](https://open.spotify.com/artist/06xoCURLIPFP4LvhXi8aLx), [Antti Lötjönen](https://open.spotify.com/artist/6uEOkKRkGPB7Z274RWBiCR), [Olavi Louhivuori](https://open.spotify.com/artist/7MsLyr0nCXGN6OGoZgZqrT) | [Ilmiliekki Quartet](https://open.spotify.com/album/7nYDVrrDqIis4MuedOyFBZ) | 5:49 |
 
-Snapshot ID: `MCwxMjdmODU0YmNiZDYzYmQ2NzhhMWIxNWEwYjhmMThmMTk2M2YyMTg0`
+Snapshot ID: `MCw5OGE3MjE0MzBkNWIwZTgwNmI2MDNkODU1OTAzODAxMGQ4MDljY2Ji`

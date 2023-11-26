@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume! Cover: UCHE YARA",
-  "num_followers": 29908,
+  "num_followers": 29911,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjcyNWE5MzI0YTkzMDRhYmQxNGYyN2U2NGJjZDIzNDA3ODUwNzQz",
+  "snapshot_id": "MCw2OWM0MDM5MjkyNWJlMGMzMWFjOWI0OWJkZGI3ZjViMmE5YWIwMGFj",
   "tracks": [
     {
       "added_at": "2023-11-07 23:00:00",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-11-07 23:00:00",
       "album": {
-        "name": "Rotten Soul",
-        "url": "https://open.spotify.com/album/0L0df4kAmYN3iocYLf6MFI"
-      },
-      "artists": [
-        {
-          "name": "DAMONA",
-          "url": "https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w"
-        }
-      ],
-      "duration_ms": 193788,
-      "name": "Rotten Soul",
-      "url": "https://open.spotify.com/track/7q36ObsjScn8spZ1w1VOUC"
-    },
-    {
-      "added_at": "2023-11-07 23:00:00",
-      "album": {
         "name": "Wie lang",
         "url": "https://open.spotify.com/album/3QLqXwmTBLdIEYPhMzxmvo"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 149815,
       "name": "Wie lang",
       "url": "https://open.spotify.com/track/5jMbm8FdjIu3dmBEm19IJv"
+    },
+    {
+      "added_at": "2023-11-07 23:00:00",
+      "album": {
+        "name": "Rotten Soul",
+        "url": "https://open.spotify.com/album/0L0df4kAmYN3iocYLf6MFI"
+      },
+      "artists": [
+        {
+          "name": "DAMONA",
+          "url": "https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w"
+        }
+      ],
+      "duration_ms": 193788,
+      "name": "Rotten Soul",
+      "url": "https://open.spotify.com/track/7q36ObsjScn8spZ1w1VOUC"
     },
     {
       "added_at": "2023-11-07 23:00:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-11-07 23:00:00",
       "album": {
-        "name": "WITCH",
-        "url": "https://open.spotify.com/album/12kAESgAld7orprsv64J0k"
-      },
-      "artists": [
-        {
-          "name": "FL\u00d8RE",
-          "url": "https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD"
-        }
-      ],
-      "duration_ms": 151242,
-      "name": "WITCH",
-      "url": "https://open.spotify.com/track/06JsKnlqdAYvbhWWwzXyM4"
-    },
-    {
-      "added_at": "2023-11-07 23:00:00",
-      "album": {
         "name": "Take a While",
         "url": "https://open.spotify.com/album/2Ce7sXWqwSRzmsKcvQjVtd"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 227453,
       "name": "Take a While",
       "url": "https://open.spotify.com/track/3DTaMVWs1eDCQCj6fl1lEq"
+    },
+    {
+      "added_at": "2023-11-07 23:00:00",
+      "album": {
+        "name": "WITCH",
+        "url": "https://open.spotify.com/album/12kAESgAld7orprsv64J0k"
+      },
+      "artists": [
+        {
+          "name": "FL\u00d8RE",
+          "url": "https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD"
+        }
+      ],
+      "duration_ms": 151242,
+      "name": "WITCH",
+      "url": "https://open.spotify.com/track/06JsKnlqdAYvbhWWwzXyM4"
     },
     {
       "added_at": "2023-11-07 23:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-11-07 23:00:00",
       "album": {
-        "name": "Pano",
-        "url": "https://open.spotify.com/album/0yFtpTMLVcvXncVBje4kYH"
-      },
-      "artists": [
-        {
-          "name": "Pano",
-          "url": "https://open.spotify.com/artist/2xvpNrwAVmdK1EIfA3ckzw"
-        }
-      ],
-      "duration_ms": 208419,
-      "name": "Cut The Corners",
-      "url": "https://open.spotify.com/track/68NFJKq7usQ7hFVpsA2rMv"
-    },
-    {
-      "added_at": "2023-11-07 23:00:00",
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/6fGsPLmLX8BucYV14XsA4t"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 221450,
       "name": "Blue",
       "url": "https://open.spotify.com/track/2R62w7tfRIvpyUsasJUeIR"
+    },
+    {
+      "added_at": "2023-11-07 23:00:00",
+      "album": {
+        "name": "Pano",
+        "url": "https://open.spotify.com/album/0yFtpTMLVcvXncVBje4kYH"
+      },
+      "artists": [
+        {
+          "name": "Pano",
+          "url": "https://open.spotify.com/artist/2xvpNrwAVmdK1EIfA3ckzw"
+        }
+      ],
+      "duration_ms": 208419,
+      "name": "Cut The Corners",
+      "url": "https://open.spotify.com/track/68NFJKq7usQ7hFVpsA2rMv"
     },
     {
       "added_at": "2023-11-07 23:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-11-07 23:00:00",
       "album": {
-        "name": "Josef",
-        "url": "https://open.spotify.com/album/6UwCgEgFtwkbW2pXzYoMFp"
-      },
-      "artists": [
-        {
-          "name": "MIBLU",
-          "url": "https://open.spotify.com/artist/3HoYVojQrcPcPHFiO26sJh"
-        }
-      ],
-      "duration_ms": 175266,
-      "name": "Josef",
-      "url": "https://open.spotify.com/track/3KczH9bH2A3gsMNNiTQB9G"
-    },
-    {
-      "added_at": "2023-11-07 23:00:00",
-      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/5EfyRkh3E5olUj5lCXRLGa"
       },
@@ -743,6 +727,22 @@
     {
       "added_at": "2023-11-07 23:00:00",
       "album": {
+        "name": "Josef",
+        "url": "https://open.spotify.com/album/6UwCgEgFtwkbW2pXzYoMFp"
+      },
+      "artists": [
+        {
+          "name": "MIBLU",
+          "url": "https://open.spotify.com/artist/3HoYVojQrcPcPHFiO26sJh"
+        }
+      ],
+      "duration_ms": 175266,
+      "name": "Josef",
+      "url": "https://open.spotify.com/track/3KczH9bH2A3gsMNNiTQB9G"
+    },
+    {
+      "added_at": "2023-11-07 23:00:00",
+      "album": {
         "name": "Something's Dripping From The Ceiling",
         "url": "https://open.spotify.com/album/4YNwKQcG0gcHovZ9P2zjiE"
       },
@@ -755,6 +755,22 @@
       "duration_ms": 246871,
       "name": "Something's Dripping From The Ceiling",
       "url": "https://open.spotify.com/track/3zO4t7n7JScZQPcpPNi1WF"
+    },
+    {
+      "added_at": "2023-11-07 23:00:00",
+      "album": {
+        "name": "Do It Anyway",
+        "url": "https://open.spotify.com/album/5xjrLChsR9sFgODn5NbFPT"
+      },
+      "artists": [
+        {
+          "name": "Taia Dya",
+          "url": "https://open.spotify.com/artist/1j5C5FI4k5YuyrOSsxIeoc"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Do It Anyway",
+      "url": "https://open.spotify.com/track/46WfoHmp8CsgECJ14JkRzW"
     },
     {
       "added_at": "2023-11-07 23:00:00",
@@ -787,22 +803,6 @@
       "duration_ms": 161250,
       "name": "PLASTIKROSEN",
       "url": "https://open.spotify.com/track/1rEaDd9diA2h78kqux9k7v"
-    },
-    {
-      "added_at": "2023-11-07 23:00:00",
-      "album": {
-        "name": "Do It Anyway",
-        "url": "https://open.spotify.com/album/5xjrLChsR9sFgODn5NbFPT"
-      },
-      "artists": [
-        {
-          "name": "Taia Dya",
-          "url": "https://open.spotify.com/artist/1j5C5FI4k5YuyrOSsxIeoc"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Do It Anyway",
-      "url": "https://open.spotify.com/track/46WfoHmp8CsgECJ14JkRzW"
     },
     {
       "added_at": "2023-11-07 23:00:00",

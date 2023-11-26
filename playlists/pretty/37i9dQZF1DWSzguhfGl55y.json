@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 621401,
+  "num_followers": 621456,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDcyNjJjOGVmMjhhMmU1ZTA3NmM3MWQ0MWI5NDc5MWEzMzI1YWM5",
+  "snapshot_id": "MCxiZjVhNzk5NWRiODIwYjA5MWU3NzI1MWZlNWQ1YmJjYzBlNDIzMjBh",
   "tracks": [
     {
       "added_at": "2023-10-11 12:51:15",
@@ -219,6 +219,22 @@
     {
       "added_at": "2023-10-11 12:51:15",
       "album": {
+        "name": "Ich & meine Maske (Premium Version)",
+        "url": "https://open.spotify.com/album/2xBC5FpIToABiNhGz2x3jN"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "duration_ms": 230906,
+      "name": "Augen auf",
+      "url": "https://open.spotify.com/track/1ZQdvTmo5eSs7N2LRQQSwa"
+    },
+    {
+      "added_at": "2023-10-11 12:51:15",
+      "album": {
         "name": "Heavy Metal Payback",
         "url": "https://open.spotify.com/album/3m1BhLKInOY8Rrs4R6STQz"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 270426,
       "name": "F\u00fcr immer jung",
       "url": "https://open.spotify.com/track/3tv1DRqL9KRuIUawu6eYG0"
-    },
-    {
-      "added_at": "2023-10-11 12:51:15",
-      "album": {
-        "name": "Ich & meine Maske (Premium Version)",
-        "url": "https://open.spotify.com/album/2xBC5FpIToABiNhGz2x3jN"
-      },
-      "artists": [
-        {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
-        }
-      ],
-      "duration_ms": 230906,
-      "name": "Augen auf",
-      "url": "https://open.spotify.com/track/1ZQdvTmo5eSs7N2LRQQSwa"
     },
     {
       "added_at": "2023-10-11 12:51:15",
@@ -839,6 +839,26 @@
     {
       "added_at": "2023-10-11 12:51:15",
       "album": {
+        "name": "Bitte Ziehen Sie Durch",
+        "url": "https://open.spotify.com/album/2AZNRmYwTikPWYSz766esn"
+      },
+      "artists": [
+        {
+          "name": "Deichkind",
+          "url": "https://open.spotify.com/artist/49eo9xE4yGzJLWkOndiODs"
+        },
+        {
+          "name": "Nina Tenge",
+          "url": "https://open.spotify.com/artist/5OsMY9Hwrho3pltegqow1p"
+        }
+      ],
+      "duration_ms": 207413,
+      "name": "Bon voyage (feat. Nina)",
+      "url": "https://open.spotify.com/track/0ys1g8PTTs6ADeDp2h1xpd"
+    },
+    {
+      "added_at": "2023-10-11 12:51:15",
+      "album": {
         "name": "The Best Of",
         "url": "https://open.spotify.com/album/62tJU39A7UP3x85dJGQkdn"
       },
@@ -855,22 +875,6 @@
       "duration_ms": 213813,
       "name": "All 4 One",
       "url": "https://open.spotify.com/track/5stqdnEmsr98AV26GweHJ8"
-    },
-    {
-      "added_at": "2023-10-11 12:51:15",
-      "album": {
-        "name": "BLYAT",
-        "url": "https://open.spotify.com/album/186E5XovNHY19VgZPNjHJs"
-      },
-      "artists": [
-        {
-          "name": "Capital Bra",
-          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
-        }
-      ],
-      "duration_ms": 212506,
-      "name": "Nur noch Gucci",
-      "url": "https://open.spotify.com/track/6zxFyURXhsMwwkLQGZbzBw"
     },
     {
       "added_at": "2023-10-11 12:51:15",
@@ -895,22 +899,18 @@
     {
       "added_at": "2023-10-11 12:51:15",
       "album": {
-        "name": "Bitte Ziehen Sie Durch",
-        "url": "https://open.spotify.com/album/2AZNRmYwTikPWYSz766esn"
+        "name": "BLYAT",
+        "url": "https://open.spotify.com/album/186E5XovNHY19VgZPNjHJs"
       },
       "artists": [
         {
-          "name": "Deichkind",
-          "url": "https://open.spotify.com/artist/49eo9xE4yGzJLWkOndiODs"
-        },
-        {
-          "name": "Nina Tenge",
-          "url": "https://open.spotify.com/artist/5OsMY9Hwrho3pltegqow1p"
+          "name": "Capital Bra",
+          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
         }
       ],
-      "duration_ms": 207413,
-      "name": "Bon voyage (feat. Nina)",
-      "url": "https://open.spotify.com/track/0ys1g8PTTs6ADeDp2h1xpd"
+      "duration_ms": 212506,
+      "name": "Nur noch Gucci",
+      "url": "https://open.spotify.com/track/6zxFyURXhsMwwkLQGZbzBw"
     }
   ],
   "unique_name": "Deutschrap: Die Klassiker",

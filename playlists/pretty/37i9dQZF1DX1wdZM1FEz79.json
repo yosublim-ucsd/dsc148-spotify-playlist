@@ -1,12 +1,12 @@
 {
   "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover: EPITONE PROJECT(YOONA)) (\uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694. (\ucee4\ubc84: \uc5d0\ud53c\ud1a4 \ud504\ub85c\uc81d\ud2b8(\uc724\uc544))",
-  "num_followers": 281971,
+  "num_followers": 282058,
   "original_name": "K-Folk/Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjAzM2EyZTM4NDIxY2ExM2JjZmI0ZDc4MTU4YTc5ZDI4ODRiMGU3",
+  "snapshot_id": "MCwxOGI1MDIyNDFiNzFkY2E0ZGM0YTNlZjQyODVlY2RiNmFjNjEwMjZj",
   "tracks": [
     {
       "added_at": "2023-11-16 14:21:29",
@@ -27,18 +27,22 @@
     {
       "added_at": "2023-11-16 14:21:29",
       "album": {
-        "name": "Expectation - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ"
+        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
       },
       "artists": [
         {
           "name": "D.O.",
           "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        },
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
         }
       ],
-      "duration_ms": 158733,
-      "name": "Somebody",
-      "url": "https://open.spotify.com/track/2sZEjTi51vnlwpmIAKdwgX"
+      "duration_ms": 151733,
+      "name": "I'm Gonna Love You",
+      "url": "https://open.spotify.com/track/1jxGBe4s8FwL2ZeNWszVuu"
     },
     {
       "added_at": "2023-11-16 14:21:29",
@@ -159,22 +163,18 @@
     {
       "added_at": "2023-11-16 14:21:29",
       "album": {
-        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
+        "name": "Expectation - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ"
       },
       "artists": [
         {
           "name": "D.O.",
           "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        },
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
         }
       ],
-      "duration_ms": 151733,
-      "name": "I'm Gonna Love You",
-      "url": "https://open.spotify.com/track/1jxGBe4s8FwL2ZeNWszVuu"
+      "duration_ms": 158733,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/2sZEjTi51vnlwpmIAKdwgX"
     },
     {
       "added_at": "2023-11-16 14:21:29",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-11-16 14:21:29",
       "album": {
+        "name": "Paint",
+        "url": "https://open.spotify.com/album/5jxRZ8YZanMKXowrQVYf3A"
+      },
+      "artists": [
+        {
+          "name": "MoonMoon",
+          "url": "https://open.spotify.com/artist/1LOeaOZCreokgQaauWT5rV"
+        }
+      ],
+      "duration_ms": 188196,
+      "name": "Paint",
+      "url": "https://open.spotify.com/track/4lthTadTs7WMkpn9w2krk4"
+    },
+    {
+      "added_at": "2023-11-16 14:21:29",
+      "album": {
         "name": "\ubd04\uc778\uac00 \ubd10 Spring Love - SM STATION",
         "url": "https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 198749,
       "name": "\ubd04\uc778\uac00 \ubd10 Spring Love",
       "url": "https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv"
-    },
-    {
-      "added_at": "2023-11-16 14:21:29",
-      "album": {
-        "name": "Paint",
-        "url": "https://open.spotify.com/album/5jxRZ8YZanMKXowrQVYf3A"
-      },
-      "artists": [
-        {
-          "name": "MoonMoon",
-          "url": "https://open.spotify.com/artist/1LOeaOZCreokgQaauWT5rV"
-        }
-      ],
-      "duration_ms": 188196,
-      "name": "Paint",
-      "url": "https://open.spotify.com/track/4lthTadTs7WMkpn9w2krk4"
     },
     {
       "added_at": "2023-11-16 14:21:29",
@@ -879,18 +879,18 @@
     {
       "added_at": "2023-11-16 14:21:29",
       "album": {
-        "name": "Destined with You (Original Television Soundtrack), Pt.2",
-        "url": "https://open.spotify.com/album/14gtejc7d8d85MVpb8mL2E"
+        "name": "H_ello?",
+        "url": "https://open.spotify.com/album/6jfjO5f2SuzkXZHlE7pH4B"
       },
       "artists": [
         {
-          "name": "\ud6c8\uc815\uc591",
-          "url": "https://open.spotify.com/artist/4dv6MuOGWS4Y6tt7IbTnfp"
+          "name": "J_ust",
+          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
         }
       ],
-      "duration_ms": 206253,
-      "name": "Can I Be Me",
-      "url": "https://open.spotify.com/track/6EUtGHQUEvqH1LzaitgSXw"
+      "duration_ms": 223200,
+      "name": "I want to be a pillow",
+      "url": "https://open.spotify.com/track/5lDeH3wAzJ1YnBYDPL6NYk"
     }
   ],
   "unique_name": "K-Folk/Acoustic",

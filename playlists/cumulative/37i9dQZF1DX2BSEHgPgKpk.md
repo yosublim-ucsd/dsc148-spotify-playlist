@@ -2,7 +2,7 @@
 
 ### [サザンオールスターズ：ArtistCHRONICLE](https://open.spotify.com/playlist/37i9dQZF1DX2BSEHgPgKpk)
 
-> Spotifyプレイリストシリーズ"ArtistCHRONICLE"\(アーティスト・クロニクル\)、第6弾はサザンオールスターズを特集！ \*Music+Talk版は<a href="spotify:show:7ENAg894BUX86x0x2xB5lu">こちら</a>。制作協力：<a href="https://cocolo.jp/sjr/">FM COCOLO 「SUPER J\-HITS RADIO」</a>
+> Spotifyプレイリストシリーズ"ArtistCHRONICLE"\(アーティスト・クロニクル\)、第7弾はサザンオールスターズを特集！ \*Music+Talk版は<a href="spotify:show:7ENAg894BUX86x0x2xB5lu">こちら</a>。制作協力：<a href="https://cocolo.jp/sjr/">FM COCOLO 「SUPER J\-HITS RADIO」</a>
 
 60 songs - 4 hr 34 min
 

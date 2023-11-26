@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Just Bee
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,588 likes - 120 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,597 likes - 120 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 7 | [alright](https://open.spotify.com/track/6s2TBrbs9bTC1faiyww2AN) | [raph](https://open.spotify.com/artist/4dnl0VOP7cS57VQOWxr3ND) | [alright](https://open.spotify.com/album/7evoZt4Hmido1pg2lCAVt4) | 2:12 |
 | 8 | [feelit?](https://open.spotify.com/track/1NFls9VltXXSfZh2GxzNAX) | [nonas](https://open.spotify.com/artist/4sFiaUdDNFg0DhJjN6riEB) | [feelit?](https://open.spotify.com/album/3IEOmMfmbLheFV7utGKmuO) | 2:50 |
 | 9 | [Meant To Be](https://open.spotify.com/track/6qPECnkHF98w1GhvdxMn2E) | [Timfaye](https://open.spotify.com/artist/7nQa2cROizYQz5dNBypXNt) | [Meant To Be](https://open.spotify.com/album/5aHtIdwvQRXqiK3syjRFCH) | 3:16 |
-| 10 | [I don’t want to](https://open.spotify.com/track/55o4oMQcxg6bMtFQR2X4tK) | [Tsoiwaijenjen](https://open.spotify.com/artist/3wTDAuG2SWbTjvxLe3kgnj) | [I don’t want to](https://open.spotify.com/album/3oelo5BHuJqQdzXn0e61Y0) | 4:23 |
+| 10 | [I don't want to](https://open.spotify.com/track/55o4oMQcxg6bMtFQR2X4tK) | [Tsoiwaijenjen](https://open.spotify.com/artist/3wTDAuG2SWbTjvxLe3kgnj) | [I don't want to](https://open.spotify.com/album/3oelo5BHuJqQdzXn0e61Y0) | 4:23 |
 | 11 | [Until I'm Alright](https://open.spotify.com/track/5v9QgQcfjOnjzg8rtN72AT) | [The Wavelength](https://open.spotify.com/artist/3yvaG8Q6oLAp95rMecgACr) | [Until I'm Alright](https://open.spotify.com/album/0TMejVAhdRNoiA4r8f9Odt) | 3:16 |
 | 12 | [Tired](https://open.spotify.com/track/6stBln0ggCnabO6MZnJdVK) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [Tired](https://open.spotify.com/album/7MeKJXwJaDUfzZ0FiIVRal) | 3:18 |
 | 13 | [年月漫漫 \- 電影《年少日記》主題曲](https://open.spotify.com/track/4X9Z19oJlxgR4G6i9hwCYZ) | [iii](https://open.spotify.com/artist/3pQeUO1dZJCsibkawRfUYT), [Lau Heung King](https://open.spotify.com/artist/72AJX3x6g9ISakQ4X8N8Pd) | [年月漫漫 \(電影《年少日記》主題曲\)](https://open.spotify.com/album/77YMeS9QqVa3cYEeaQOO11) | 4:07 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 119 | [Lucky Girl Syndrome](https://open.spotify.com/track/3cjzj5M52Jl0u6JHNTU7z8) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [Lucky Girl Syndrome](https://open.spotify.com/album/4LA9YSzUkfXimeP4Tq7xmC) | 2:36 |
 | 120 | [Sorry呢度係香港](https://open.spotify.com/track/1RVoiNHphu8IfIJK8T1b2Q) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw) | [Sorry呢度係香港](https://open.spotify.com/album/5FajEbPVB8XfS5TfpSy5Ui) | 3:26 |
 
-Snapshot ID: `MCxhZjMzMzdmNDRlODkyMWMwZWY4OTI2MDhmOWIzNDJmZWU4ZDFmMDgw`
+Snapshot ID: `MCw4MDY0ZmY5ODE5ZDFmMWM5MjM0MjQzMzdlODRkYzA4ODEyZTBjNzZk`

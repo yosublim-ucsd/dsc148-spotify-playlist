@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,363 songs - 2 day 3 hr 22 min
+1,364 songs - 2 day 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -941,7 +941,7 @@
 | [Pumpkin](https://open.spotify.com/track/7oFtROdiwVSsqm8WmY6Zyv) | [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T), [Nobel](https://open.spotify.com/artist/5uC5qAuoCUyUduFrVAnYrE) | [Pumpkin](https://open.spotify.com/album/0OmDBT6N79NtzuBX3YNBBB) | 2:12 | 2022-09-09 | 2023-04-21 |
 | [Puppy Attakk](https://open.spotify.com/track/3nSzRd7SyJgfjANyMhplh3) | [wahzaf:tru](https://open.spotify.com/artist/1PZFqQ7hbIOK3Drq2aXKuC) | [Puppy Attakk](https://open.spotify.com/album/4ctCw71T1KsVWCg9g0OdrY) | 3:12 | 2023-10-06 |  |
 | [Purple Dress](https://open.spotify.com/track/2CNAK398ZWTjt7TJhZXbNT) | [lagom.](https://open.spotify.com/artist/2isRNqunLqbfBjiXZ4ZGdX) | [Purple Dress](https://open.spotify.com/album/7I9FUIhdhV0deg1XiZ8s5F) | 2:30 | 2022-07-08 | 2023-04-21 |
-| [Purple Skies](https://open.spotify.com/track/1fhsrPZVn5i7tsEsbspzgM) | [Venti](https://open.spotify.com/artist/1g1rRWEsI2Wy2xVALwaeaL) | [Purple Skies](https://open.spotify.com/album/4Thel3mQHPCmIUUaQgoN7B) | 2:17 | 2023-11-24 |  |
+| [Purple Skies](https://open.spotify.com/track/1fhsrPZVn5i7tsEsbspzgM) | [Venti](https://open.spotify.com/artist/1g1rRWEsI2Wy2xVALwaeaL) | [Purple Skies](https://open.spotify.com/album/4Thel3mQHPCmIUUaQgoN7B) | 2:17 | 2023-11-24 | 2023-11-26 |
 | [pyjamas](https://open.spotify.com/track/2hUhKjunV4ryNKlQmnDqN0) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [pyjamas](https://open.spotify.com/album/1k5jnVJrROUCzvUVvrbKXT) | 2:02 | 2022-09-02 |  |
 | [queue](https://open.spotify.com/track/6p7WEWtYxc0JqrJJOYFsJn) | [sumwut](https://open.spotify.com/artist/6rDyCgfBm5atHVVNFxLFn0) | [queue](https://open.spotify.com/album/3iQMbmMhC355C1L6d18uoo) | 2:12 | 2022-07-29 | 2023-08-04 |
 | [Quickly](https://open.spotify.com/track/3klS1XdaiAt2mkvtHYfOCK) | [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X), [Kristoffer Eikrem](https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h) | [Bittersweet](https://open.spotify.com/album/7mUs0A1m3ceo8HUsLM15BT) | 2:58 | 2022-08-19 | 2023-01-13 |
@@ -1070,6 +1070,7 @@
 | [Smokers Delight](https://open.spotify.com/track/2r3L8vTYNoiXVPM4G9jbpm) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x), [Hirokee](https://open.spotify.com/artist/65Tgs3GmQLXn1Snl8Wge6b), [Sandy Mental](https://open.spotify.com/artist/1TIM4mSeLlFajoWxR0GDK3) | [Smokers Delight](https://open.spotify.com/album/10CkZnvZUBEJ24uzYxeBvk) | 1:57 | 2022-04-15 | 2022-11-12 |
 | [Smokey](https://open.spotify.com/track/4p14eOpDYsh7lxZCNDFeF6) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Smokey](https://open.spotify.com/album/25uVN5TAJTQ2byMKlkOJab) | 1:30 | 2022-01-27 | 2022-06-10 |
 | [smooof](https://open.spotify.com/track/1LvgRFtCVEAPSB3wi71XCz) | [fresh from the oven](https://open.spotify.com/artist/6glzNO8EqQsWlQfmxnwK36) | [smooof](https://open.spotify.com/album/1g3DAdvE09HPSC8pkvIQ3L) | 1:55 | 2022-01-27 | 2022-09-09 |
+| [Smoove it](https://open.spotify.com/track/1TH9qGv02IQYNh8rWweltY) | [Gooee](https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf) | [Smoove it](https://open.spotify.com/album/7DsMpXrDtMEZbnCd6WYBbE) | 2:39 | 2023-11-24 |  |
 | [Snacks On The Beach](https://open.spotify.com/track/7I9YFbEsvtYfAnR7MEdSCi) | [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ) | [Snacks On The Beach](https://open.spotify.com/album/4lFuYHK0y9xpPAblxC0A3O) | 2:30 | 2022-04-15 | 2022-10-29 |
 | [Sneaking in the long run](https://open.spotify.com/track/388Klb72arugFs9RbskMa7) | [Bamboozled Bumblebee](https://open.spotify.com/artist/2AjeGYqAkWP7ZcD0NPPIG0) | [Sneaking in the long run](https://open.spotify.com/album/5F7noDv4iqiEcKc7iLdCha) | 2:18 | 2022-07-22 |  |
 | [Snow](https://open.spotify.com/track/7gDD63ZLoB08QdUkamY9cc) | [FRANZ](https://open.spotify.com/artist/4pAtdFcsdl8iMusalbOlLS), [aunt](https://open.spotify.com/artist/1Qq3CjUcS69tT2vvp1ttpB) | [Snow](https://open.spotify.com/album/5FHTW00QwPLbDBa3uJZHqp) | 2:34 | 2022-07-29 | 2022-11-12 |

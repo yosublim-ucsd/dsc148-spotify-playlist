@@ -1,12 +1,12 @@
 {
   "description": "Con licuachela en mano y perreando hasta el piso. Uzielito Mix, El Bogueto y Dani Flow en portada ",
-  "num_followers": 12169,
+  "num_followers": 12221,
   "original_name": "Perreo Bellakoso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjJiNWJmYWJlNmI4M2Q3MzExMGJjMjYyMDY5MWNmODQxMDRhZTU0",
+  "snapshot_id": "MCxiYzlmYWE5ZTQ5OWMyNzE5OWIyMmM4YmNhOTg5YjBmY2FiZWU3ZGRj",
   "tracks": [
     {
       "added_at": "2023-11-24 06:00:00",
@@ -543,6 +543,30 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
+        "name": "El Plan",
+        "url": "https://open.spotify.com/album/13MFiU8nBDQXn2CbTK2tbv"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "Sky Rompiendo",
+          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
+        }
+      ],
+      "duration_ms": 226725,
+      "name": "El Plan",
+      "url": "https://open.spotify.com/track/1QViKg2J40k0w7phvi5k2Q"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
         "name": "Hora de Salir",
         "url": "https://open.spotify.com/album/4HAKrFKWngyiF8OsEdoS09"
       },
@@ -571,30 +595,6 @@
       "duration_ms": 117068,
       "name": "Azote",
       "url": "https://open.spotify.com/track/7IJZyhrttBYZAIwQxmPxuj"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "El Plan",
-        "url": "https://open.spotify.com/album/13MFiU8nBDQXn2CbTK2tbv"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        },
-        {
-          "name": "Sky Rompiendo",
-          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
-        }
-      ],
-      "duration_ms": 226725,
-      "name": "El Plan",
-      "url": "https://open.spotify.com/track/1QViKg2J40k0w7phvi5k2Q"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -691,26 +691,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Tu Sicaria",
-        "url": "https://open.spotify.com/album/6LcDLFvmP0BrUOgEFjscJR"
-      },
-      "artists": [
-        {
-          "name": "Ms Nina",
-          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
-        },
-        {
-          "name": "Beauty Brain",
-          "url": "https://open.spotify.com/artist/3KsfLbdoFjSnXT2QUK7ooR"
-        }
-      ],
-      "duration_ms": 147013,
-      "name": "Tu Sicaria",
-      "url": "https://open.spotify.com/track/5cyKYhm8vo5edvuT5tIuQ6"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "La Gata de la Agr\u00edcola Oriental (feat. Kery)",
         "url": "https://open.spotify.com/album/717P5W2rhbmKgikLXjWsKG"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 191026,
       "name": "La Gata de la Agr\u00edcola Oriental (feat. Kery)",
       "url": "https://open.spotify.com/track/6ldT8rxnVimIKIJJLAcKq7"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "Tu Sicaria",
+        "url": "https://open.spotify.com/album/6LcDLFvmP0BrUOgEFjscJR"
+      },
+      "artists": [
+        {
+          "name": "Ms Nina",
+          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
+        },
+        {
+          "name": "Beauty Brain",
+          "url": "https://open.spotify.com/artist/3KsfLbdoFjSnXT2QUK7ooR"
+        }
+      ],
+      "duration_ms": 147013,
+      "name": "Tu Sicaria",
+      "url": "https://open.spotify.com/track/5cyKYhm8vo5edvuT5tIuQ6"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Boricua Reggaeton Clasicos de Barrio, Vol. 1",
-        "url": "https://open.spotify.com/album/6bUq5lb8Dgl3whC2xgrXCl"
-      },
-      "artists": [
-        {
-          "name": "Don Chezina",
-          "url": "https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt"
-        }
-      ],
-      "duration_ms": 150418,
-      "name": "Vacilon",
-      "url": "https://open.spotify.com/track/4RSoYhMvBaQkxCXfq0kvjj"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "L-GANTE | Mission 19",
         "url": "https://open.spotify.com/album/5moYjalNC0bbzVArARZog3"
       },
@@ -1043,6 +1027,22 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
+        "name": "Boricua Reggaeton Clasicos de Barrio, Vol. 1",
+        "url": "https://open.spotify.com/album/6bUq5lb8Dgl3whC2xgrXCl"
+      },
+      "artists": [
+        {
+          "name": "Don Chezina",
+          "url": "https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt"
+        }
+      ],
+      "duration_ms": 150418,
+      "name": "Vacilon",
+      "url": "https://open.spotify.com/track/4RSoYhMvBaQkxCXfq0kvjj"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
         "name": "Ubi",
         "url": "https://open.spotify.com/album/1T7eoAJmQkDVxPWYQuyEUM"
       },
@@ -1055,26 +1055,6 @@
       "duration_ms": 186487,
       "name": "Ubi",
       "url": "https://open.spotify.com/track/0FwCxicKn0FYSDZ8c9gVG1"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "Baja Sube Sube",
-        "url": "https://open.spotify.com/album/2LxhsDsrjtvVjqi7GMBTsM"
-      },
-      "artists": [
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        }
-      ],
-      "duration_ms": 211404,
-      "name": "Baja Sube Sube",
-      "url": "https://open.spotify.com/track/6XlNE8CrehIYsI2ZivGn7I"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1099,6 +1079,26 @@
       "duration_ms": 195625,
       "name": "Metele",
       "url": "https://open.spotify.com/track/0bhNA2f3YxwP2dNo1BTbcB"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "Baja Sube Sube",
+        "url": "https://open.spotify.com/album/2LxhsDsrjtvVjqi7GMBTsM"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "duration_ms": 211404,
+      "name": "Baja Sube Sube",
+      "url": "https://open.spotify.com/track/6XlNE8CrehIYsI2ZivGn7I"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1731,26 +1731,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "OG CITY",
-        "url": "https://open.spotify.com/album/2tio4413w3hOjYmb6MlDVz"
-      },
-      "artists": [
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        },
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        }
-      ],
-      "duration_ms": 241341,
-      "name": "No Traje Naki",
-      "url": "https://open.spotify.com/track/6wZVFscvWZbJaTl4Ju5MOF"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "Maldades",
         "url": "https://open.spotify.com/album/7uJRnxKIlIfh29O7EGCVkX"
       },
@@ -1767,6 +1747,26 @@
       "duration_ms": 161739,
       "name": "Maldades",
       "url": "https://open.spotify.com/track/6C8XeTHHVoqNEgg20x4J1t"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "OG CITY",
+        "url": "https://open.spotify.com/album/2tio4413w3hOjYmb6MlDVz"
+      },
+      "artists": [
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "duration_ms": 241341,
+      "name": "No Traje Naki",
+      "url": "https://open.spotify.com/track/6wZVFscvWZbJaTl4Ju5MOF"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1839,6 +1839,22 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
+        "name": "CULETEO",
+        "url": "https://open.spotify.com/album/7IGufkYRaam4cn196RMR2G"
+      },
+      "artists": [
+        {
+          "name": "Arturo Challa",
+          "url": "https://open.spotify.com/artist/5hbTewixuDJk5PGugClaj6"
+        }
+      ],
+      "duration_ms": 133580,
+      "name": "CULETEO",
+      "url": "https://open.spotify.com/track/1elKwtcNQfOs6bmpXRMNgJ"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
         "name": "Perreo Chakalon",
         "url": "https://open.spotify.com/album/6yiD7DcSWqTeh4s7M9cMo1"
       },
@@ -1855,22 +1871,6 @@
       "duration_ms": 136162,
       "name": "Perreo Chakalon",
       "url": "https://open.spotify.com/track/3Mwty5hFEbRARdiMsS6Kyr"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "CULETEO",
-        "url": "https://open.spotify.com/album/7IGufkYRaam4cn196RMR2G"
-      },
-      "artists": [
-        {
-          "name": "Arturo Challa",
-          "url": "https://open.spotify.com/artist/5hbTewixuDJk5PGugClaj6"
-        }
-      ],
-      "duration_ms": 133580,
-      "name": "CULETEO",
-      "url": "https://open.spotify.com/track/1elKwtcNQfOs6bmpXRMNgJ"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1947,6 +1947,22 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
+        "name": "Llego El Perreo",
+        "url": "https://open.spotify.com/album/4Vb6NhgiW727CjOYxrlFnP"
+      },
+      "artists": [
+        {
+          "name": "Dj Bekman",
+          "url": "https://open.spotify.com/artist/3PHuVxvrf7wtssAIDL3D8F"
+        }
+      ],
+      "duration_ms": 212802,
+      "name": "Perreo Como Antes",
+      "url": "https://open.spotify.com/track/5InIuRBCKBEiSboJnliVQo"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
         "name": "DOCE",
         "url": "https://open.spotify.com/album/1jCDlwlLxrRkMUFq0MyC4b"
       },
@@ -1963,22 +1979,6 @@
       "duration_ms": 158117,
       "name": "DOCE",
       "url": "https://open.spotify.com/track/4PVTQLnioH7nyQw9tqydeH"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "Llego El Perreo",
-        "url": "https://open.spotify.com/album/4Vb6NhgiW727CjOYxrlFnP"
-      },
-      "artists": [
-        {
-          "name": "Dj Bekman",
-          "url": "https://open.spotify.com/artist/3PHuVxvrf7wtssAIDL3D8F"
-        }
-      ],
-      "duration_ms": 212802,
-      "name": "Perreo Como Antes",
-      "url": "https://open.spotify.com/track/5InIuRBCKBEiSboJnliVQo"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -2095,26 +2095,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "PUSSY",
-        "url": "https://open.spotify.com/album/6swVOsbbkJkFCyNoeiasgs"
-      },
-      "artists": [
-        {
-          "name": "Prxblxm",
-          "url": "https://open.spotify.com/artist/1OTxM38rUpGaEv4nMo4Qf5"
-        },
-        {
-          "name": "Rplcmnts",
-          "url": "https://open.spotify.com/artist/2oNFbBjwhA61ygGaRwKo88"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "PUSSY",
-      "url": "https://open.spotify.com/track/4iMIvJp1UPVWbAh9nwMM85"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "To' to' to'",
         "url": "https://open.spotify.com/album/3oDe5dREfsr34yvFW95M3V"
       },
@@ -2131,6 +2111,26 @@
       "duration_ms": 144489,
       "name": "To' to' to'",
       "url": "https://open.spotify.com/track/1wnfv6zW14hCVXaN2Vi6RW"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "PUSSY",
+        "url": "https://open.spotify.com/album/6swVOsbbkJkFCyNoeiasgs"
+      },
+      "artists": [
+        {
+          "name": "Prxblxm",
+          "url": "https://open.spotify.com/artist/1OTxM38rUpGaEv4nMo4Qf5"
+        },
+        {
+          "name": "Rplcmnts",
+          "url": "https://open.spotify.com/artist/2oNFbBjwhA61ygGaRwKo88"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "PUSSY",
+      "url": "https://open.spotify.com/track/4iMIvJp1UPVWbAh9nwMM85"
     },
     {
       "added_at": "2023-11-24 06:00:00",

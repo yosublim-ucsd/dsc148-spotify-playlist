@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 983,878 likes - 99 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 983,879 likes - 99 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 | 98 | [Hiding On The Moon](https://open.spotify.com/track/5tgY2SlsTLGMETzl2tIem4) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [Hiding On The Moon](https://open.spotify.com/album/0j8BOGYANd6au3xvdmQka0) | 3:53 |
 | 99 | [Sandman](https://open.spotify.com/track/3iXH8nRdc945PO0GlbOroA) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Sandman](https://open.spotify.com/album/0tdqSTY29oE3dMnk2A1PVc) | 3:32 |
 
-Snapshot ID: `MCw2ODYxY2E0M2EyODZhMTVkOTY0NGJkNDMyMzBmYzIyMDdmYjMxZjE1`
+Snapshot ID: `MCxiNzk5N2M1NGI0Zjc0NmI5ZWIzNGM1YjU1Yzk1N2Y5NzdlZjgzYjM0`

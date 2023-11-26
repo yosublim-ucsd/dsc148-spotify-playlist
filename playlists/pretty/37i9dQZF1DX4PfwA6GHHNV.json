@@ -1,12 +1,12 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 13359,
+  "num_followers": 13412,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYWY0NDk0MzY5YWM5YThhODg1YTkxN2Y4N2Y5NTRkMjk0NGNkMjJk",
+  "snapshot_id": "MCxiOWE2MzgxYjE3YTNmMTNlYzI2ZGE5ZDg1MDkxYjVhNzkyOGJlNTlk",
   "tracks": [
     {
       "added_at": "2023-11-24 17:29:31",
@@ -767,6 +767,26 @@
     {
       "added_at": "2023-11-24 17:29:31",
       "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/7kQSGEo2Sk1Kxmt3NYdzdT"
+      },
+      "artists": [
+        {
+          "name": "Ryan Realcria",
+          "url": "https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX"
+        },
+        {
+          "name": "Bi$",
+          "url": "https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA"
+        }
+      ],
+      "duration_ms": 144522,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/11jWFITfECvDfLi3ukJWYt"
+    },
+    {
+      "added_at": "2023-11-24 17:29:31",
+      "album": {
         "name": "S\u00f3 Minha",
         "url": "https://open.spotify.com/album/2yAVdMoZb53qdEVhKiM8gn"
       },
@@ -799,26 +819,6 @@
       "duration_ms": 136800,
       "name": "Deixa Falar",
       "url": "https://open.spotify.com/track/0FiYoFSKLu3UgbmfR6i0Ph"
-    },
-    {
-      "added_at": "2023-11-24 17:29:31",
-      "album": {
-        "name": "Medusa",
-        "url": "https://open.spotify.com/album/7kQSGEo2Sk1Kxmt3NYdzdT"
-      },
-      "artists": [
-        {
-          "name": "Ryan Realcria",
-          "url": "https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX"
-        },
-        {
-          "name": "Bi$",
-          "url": "https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA"
-        }
-      ],
-      "duration_ms": 144522,
-      "name": "Medusa",
-      "url": "https://open.spotify.com/track/11jWFITfECvDfLi3ukJWYt"
     },
     {
       "added_at": "2023-11-24 17:29:31",
@@ -979,6 +979,26 @@
     {
       "added_at": "2023-11-24 17:29:31",
       "album": {
+        "name": "Verdade ou Ilus\u00e3o",
+        "url": "https://open.spotify.com/album/23pMQXiRHWuovyRxKGJpCA"
+      },
+      "artists": [
+        {
+          "name": "Abayomi",
+          "url": "https://open.spotify.com/artist/2uDMCuJTV24DEJJh4p5dc0"
+        },
+        {
+          "name": "Mr. Dan",
+          "url": "https://open.spotify.com/artist/0tEbPIVxu2YOmZXOWAkJ52"
+        }
+      ],
+      "duration_ms": 204019,
+      "name": "Verdade ou Ilus\u00e3o",
+      "url": "https://open.spotify.com/track/2kX3tbCZwWHnS2zRS8FLcO"
+    },
+    {
+      "added_at": "2023-11-24 17:29:31",
+      "album": {
         "name": "S\u00f3 Me Usa",
         "url": "https://open.spotify.com/album/0xmojnhZydiC9P120Le1Ol"
       },
@@ -1019,46 +1039,18 @@
     {
       "added_at": "2023-11-24 17:29:31",
       "album": {
-        "name": "O Que Ela Tem?",
-        "url": "https://open.spotify.com/album/2VzqF8GFXe6zF6xho5ZBJ7"
+        "name": "Patipapa",
+        "url": "https://open.spotify.com/album/7vy2f8OwWWBA4DKZkox2u5"
       },
       "artists": [
         {
-          "name": "Volpato",
-          "url": "https://open.spotify.com/artist/2oRKjDzl0iaeEyk8SO2pWl"
-        },
-        {
-          "name": "BETINHO",
-          "url": "https://open.spotify.com/artist/51CZxgpuuYyBfyM99WEnWa"
-        },
-        {
-          "name": "Dalua",
-          "url": "https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym"
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
         }
       ],
-      "duration_ms": 133333,
-      "name": "O Que Ela Tem?",
-      "url": "https://open.spotify.com/track/68csPARkvDN7lXPnqJJFja"
-    },
-    {
-      "added_at": "2023-11-24 17:29:31",
-      "album": {
-        "name": "Verdade ou Ilus\u00e3o",
-        "url": "https://open.spotify.com/album/23pMQXiRHWuovyRxKGJpCA"
-      },
-      "artists": [
-        {
-          "name": "Abayomi",
-          "url": "https://open.spotify.com/artist/2uDMCuJTV24DEJJh4p5dc0"
-        },
-        {
-          "name": "Mr. Dan",
-          "url": "https://open.spotify.com/artist/0tEbPIVxu2YOmZXOWAkJ52"
-        }
-      ],
-      "duration_ms": 204019,
-      "name": "Verdade ou Ilus\u00e3o",
-      "url": "https://open.spotify.com/track/2kX3tbCZwWHnS2zRS8FLcO"
+      "duration_ms": 140000,
+      "name": "Patipapa",
+      "url": "https://open.spotify.com/track/0ERFK8AQaBl0R0ql8I2KpT"
     }
   ],
   "unique_name": "pique afrobeats",

@@ -6079,6 +6079,40 @@
     },
     {
       "album": {
+        "name": "CHUPON",
+        "url": "https://open.spotify.com/album/6iZo2sL8hRlzjikyJn5vyh"
+      },
+      "artists": [
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "El Gudi",
+          "url": "https://open.spotify.com/artist/4bBHOk8nEyfPGCZsDEEZsB"
+        },
+        {
+          "name": "Ovi\u00f1a",
+          "url": "https://open.spotify.com/artist/3cJuFQQKreRtCtbQZ83Sam"
+        },
+        {
+          "name": "Jey F",
+          "url": "https://open.spotify.com/artist/72JO7MqhlJuMCwkx4w8Afr"
+        },
+        {
+          "name": "Alan Dazmel",
+          "url": "https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201084,
+      "name": "CHUPON",
+      "url": "https://open.spotify.com/track/7v4JGOsUkblqcvOJ0YpNUU"
+    },
+    {
+      "album": {
         "name": "Chup\u00f3n",
         "url": "https://open.spotify.com/album/0TVjnQlL30VMz4Kqu0qoVQ"
       },
@@ -6106,7 +6140,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 201084,
       "name": "Chup\u00f3n",
       "url": "https://open.spotify.com/track/3lev2QW3nUHNuxrVstVEGj"
@@ -6750,7 +6784,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 326582,
       "name": "Conquistadora",
       "url": "https://open.spotify.com/track/0GOyB49I3DQKLCOBUAH5T1"
@@ -8084,6 +8118,24 @@
       "duration_ms": 222133,
       "name": "DEMO #5: nostalgIA",
       "url": "https://open.spotify.com/track/5ne3gNVpzya4jOH8hOmNkL"
+    },
+    {
+      "album": {
+        "name": "DEMO #5: nostalgIA (Spanglish Version)",
+        "url": "https://open.spotify.com/album/32eAYvFNmfM0HVo6zY6Lwh"
+      },
+      "artists": [
+        {
+          "name": "FlowGPT",
+          "url": "https://open.spotify.com/artist/1mxt7qtdBFCHAeEeDHGgiC"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222188,
+      "name": "DEMO #5: nostalgIA - Spanglish Version",
+      "url": "https://open.spotify.com/track/092oBVwyJLxHnYEu5E1Rw6"
     },
     {
       "album": {
@@ -14768,7 +14820,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-25",
+      "date_removed": null,
       "duration_ms": 161760,
       "name": "IT GIRL",
       "url": "https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP"
@@ -19346,7 +19398,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 231156,
       "name": "Mi Primera Chamba",
       "url": "https://open.spotify.com/track/7iIdxOrsBlv0D0geWSSOcQ"
@@ -19390,6 +19442,24 @@
       "duration_ms": 231444,
       "name": "Mi Primera Chamba",
       "url": "https://open.spotify.com/track/6KL3mzK9SdRCT93pPgVvHu"
+    },
+    {
+      "album": {
+        "name": "Mi Primera Chamba - Si la Calle Llama Edit",
+        "url": "https://open.spotify.com/album/2AEL1CakMM940deBq8mYvc"
+      },
+      "artists": [
+        {
+          "name": "Luna Cristofanelli",
+          "url": "https://open.spotify.com/artist/3HQ5dYTQ6URNajUz07H0pr"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226562,
+      "name": "Mi Primera Chamba - Si la Calle Llama Edit",
+      "url": "https://open.spotify.com/track/010OId0BrP0zHToUv4a4xx"
     },
     {
       "album": {
@@ -21850,7 +21920,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 222168,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/1cpVRg3KxPzALorPNCxhqI"
@@ -26518,7 +26588,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 241921,
       "name": "SANDUNGA",
       "url": "https://open.spotify.com/track/4QJF76nruk2vvuCzGDCqsL"
@@ -29514,7 +29584,7 @@
       ],
       "date_added": "2023-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-03",
+      "date_removed": null,
       "duration_ms": 229938,
       "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
       "url": "https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u"

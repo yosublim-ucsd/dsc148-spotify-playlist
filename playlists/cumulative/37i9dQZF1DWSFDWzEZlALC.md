@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Provinz, ENNIO
 
-457 songs - 22 hr 9 min
+458 songs - 22 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,8 @@
 | [es ist spät](https://open.spotify.com/track/5eg2Kn2Z85VdZYX6mYkdkw) | [frytz](https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO) | [es ist spät](https://open.spotify.com/album/4kiJxNQKvKzuClgBAbHcdW) | 2:01 | 2023-09-14 | 2023-10-06 |
 | [Es regnet Hirn \(feat\. Paula Carolina\)](https://open.spotify.com/track/02Y7L1qY9Z771QO2w3ubgk) | [OK KID](https://open.spotify.com/artist/5syyAQTWJ2BaLtjOKE99MK), [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Es regnet Hirn \(feat\. Paula Carolina\)](https://open.spotify.com/album/0ip66XV3S8XeOHlqymdX0M) | 3:14 | 2023-11-02 |  |
 | [Es zieht im Paradies](https://open.spotify.com/track/72japCviuui2IqOffiZurS) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Es zieht im Paradies](https://open.spotify.com/album/1gK7m86MSO7JTqmlO7DKvM) | 3:05 | 2023-11-16 |  |
-| [Etwas Neues Beginnt](https://open.spotify.com/track/69S8tugy2hU1qGVXQ6c5lD) | [RAR](https://open.spotify.com/artist/0ms1soCPtzKiqFMK198lya) | [Etwas Neues Beginnt](https://open.spotify.com/album/6ccUBn5gB1wqIS5KfRqaSG) | 3:00 | 2023-10-26 |  |
+| [Etwas Neues Beginnt](https://open.spotify.com/track/69S8tugy2hU1qGVXQ6c5lD) | [RAR](https://open.spotify.com/artist/0ms1soCPtzKiqFMK198lya) | [Etwas Neues Beginnt](https://open.spotify.com/album/6ccUBn5gB1wqIS5KfRqaSG) | 3:00 | 2023-10-26 | 2023-11-26 |
+| [Etwas Neues beginnt](https://open.spotify.com/track/7LbRCCUHkWEc7tyDP7h1uz) | [RAR](https://open.spotify.com/artist/0ms1soCPtzKiqFMK198lya) | [Maschinenmensch EP](https://open.spotify.com/album/0aB1rZ0lKJU3dIea7UkFrf) | 3:00 | 2023-11-24 |  |
 | [Ewiger Fahrgast](https://open.spotify.com/track/3RXfhZCEVajHZa9lwyPruL) | [Lord Folter](https://open.spotify.com/artist/39KCAyOBvMmaBfzmCsFjf6), [Lebsanft](https://open.spotify.com/artist/4YIP17o8PviGHVQM3ISOAo) | [Wir Werden Sehen](https://open.spotify.com/album/3qx0YVMoydVJuhLPdyimfH) | 3:06 | 2023-02-02 | 2023-02-24 |
 | [Fahrradstraße](https://open.spotify.com/track/5Vd4NMyFkvegiddZh4njgX) | [Carla Ahad](https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln) | [Fahrradstraße](https://open.spotify.com/album/2QNh6PLdTY5r9c3q2cEo1l) | 2:24 | 2023-06-15 | 2023-07-21 |
 | [Fall Für Dich](https://open.spotify.com/track/0MgXzvMM4bq01XgEHMeEhF) | [Iloveakim](https://open.spotify.com/artist/4kC5Fz635iHKsPkif7NcT0) | [Fall Für Dich](https://open.spotify.com/album/0gs7cRaAOIvhJt8oqMyypJ) | 2:33 | 2023-06-23 | 2023-07-14 |

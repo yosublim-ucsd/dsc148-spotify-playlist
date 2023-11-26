@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as principais vozes de adoradoras do gospel brasileiro. Foto:  Bruna Olly, Julia Vit\u00f3ria",
-  "num_followers": 309427,
+  "num_followers": 309523,
   "original_name": "Mulheres do Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNGZlN2E2YjkwMzk1YjcwOGNlNTc1YzkwMjg3NTRjNDEzMzI1NzMz",
+  "snapshot_id": "MCw5Nzg2ODc1ZjEwMDg1YmQwYzkzODlmMzYzMmI2M2YwMmEwMjMwMTcz",
   "tracks": [
     {
       "added_at": "2023-11-24 07:20:02",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-11-24 07:20:02",
       "album": {
+        "name": "Tudo em Mim",
+        "url": "https://open.spotify.com/album/2Xzp0ZlJZXb3n7OWVFTvrj"
+      },
+      "artists": [
+        {
+          "name": "Luma Elpidio",
+          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
+        }
+      ],
+      "duration_ms": 245333,
+      "name": "Tudo em Mim",
+      "url": "https://open.spotify.com/track/3OKmHJqGnGVCfA4BFoQXKw"
+    },
+    {
+      "added_at": "2023-11-24 07:20:02",
+      "album": {
         "name": "Eu Mais Deus (Ao Vivo)",
         "url": "https://open.spotify.com/album/1IudxS4wetQCAuugeZLLwX"
       },
@@ -1171,22 +1187,6 @@
     {
       "added_at": "2023-11-24 07:20:02",
       "album": {
-        "name": "Vida (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5SAP9wOXqQ16J393goGNBi"
-      },
-      "artists": [
-        {
-          "name": "Gislaine Rodrigues",
-          "url": "https://open.spotify.com/artist/4De0baIDAcYNBXL6bDybaM"
-        }
-      ],
-      "duration_ms": 380800,
-      "name": "Teu Falar - Ao Vivo",
-      "url": "https://open.spotify.com/track/77FLekaTNuBaH84ZQX2dzU"
-    },
-    {
-      "added_at": "2023-11-24 07:20:02",
-      "album": {
         "name": "Grande \u00e9 o Nosso Deus",
         "url": "https://open.spotify.com/album/6NuNaLHxBQnl2wQq2m8wfd"
       },
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2023-11-24 07:20:02",
       "album": {
-        "name": "Tudo em Mim",
-        "url": "https://open.spotify.com/album/2Xzp0ZlJZXb3n7OWVFTvrj"
+        "name": "Vida (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5SAP9wOXqQ16J393goGNBi"
       },
       "artists": [
         {
-          "name": "Luma Elpidio",
-          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
+          "name": "Gislaine Rodrigues",
+          "url": "https://open.spotify.com/artist/4De0baIDAcYNBXL6bDybaM"
         }
       ],
-      "duration_ms": 245333,
-      "name": "Tudo em Mim",
-      "url": "https://open.spotify.com/track/3OKmHJqGnGVCfA4BFoQXKw"
+      "duration_ms": 380800,
+      "name": "Teu Falar - Ao Vivo",
+      "url": "https://open.spotify.com/track/77FLekaTNuBaH84ZQX2dzU"
     },
     {
       "added_at": "2023-11-24 07:20:02",

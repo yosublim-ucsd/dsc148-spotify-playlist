@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > new gems by artists carving their own lane\. cover: Björk, ROSALÍA
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,529 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,538 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 86 | [MODERN JAM \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/3KCNiDi9Pza6ZD8FggNoaw) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:15 |
 | 87 | [Boom Boom](https://open.spotify.com/track/4BID2xH9ckVVKRNTtcVluE) | [Blue Hawaii](https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ), [SKY LEON](https://open.spotify.com/artist/1ry1IbtMEE1MfHZJoDnaVT) | [Boom Boom](https://open.spotify.com/album/1b4ffSO1YHIGBhrlG5j6Ny) | 3:55 |
 | 88 | [Olympian](https://open.spotify.com/track/0CAyfEyFk3Ux8fF02Av8xF) | [KANADA THE LOOP](https://open.spotify.com/artist/0memvAGubR0iSAZmXnY4ta) | [Olympian](https://open.spotify.com/album/2svqZlPDI5XcyJLLDVtyYY) | 2:08 |
-| 89 | [Trenchezzz \(with Nemzzz\)](https://open.spotify.com/track/3puypQeebjOFKb9FeKdgAA) | [KitschKrieg](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr) | [German Engineering 1](https://open.spotify.com/album/27QzTWiwWFEFDY9nvJWsJ6) | 2:38 |
+| 89 | [Trenchezzz \(with Nemzzz\)](https://open.spotify.com/track/3puypQeebjOFKb9FeKdgAA) | [KitschKrieg](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr) | [German Engineering 1](https://open.spotify.com/album/27QzTWiwWFEFDY9nvJWsJ6) | 2:38 |
 | 90 | [Mile End \- A COLORS SHOW](https://open.spotify.com/track/6mASxVYgPVdBdtAFxZZO21) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Mile End \- A COLORS SHOW](https://open.spotify.com/album/0KrUum0XYaw2JEErYAxLBE) | 2:33 |
 | 91 | [Potential](https://open.spotify.com/track/7apEq9wOCGf5Jjrad5FLkc) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Potential](https://open.spotify.com/album/1Gc5ogOOXhknM8F4JH8bdp) | 1:34 |
 | 92 | [Gone \(Abebe Bikila\)](https://open.spotify.com/track/7FAudIc6pJYU91ELpQ655R) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Gone \(Abebe Bikila\)](https://open.spotify.com/album/18nylQsLYIMdHvNXgfPVuO) | 2:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [Open](https://open.spotify.com/track/1N3GP64durAzTxsSELqX9i) | [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns), [Yuki Dreams Again](https://open.spotify.com/artist/4IYRXwfKzdo76LVTCG3r2t) | [OPEN](https://open.spotify.com/album/6WgmYQIOJGVs6OKYHCu0wc) | 3:09 |
 | 100 | [how far will you go](https://open.spotify.com/track/7BBX8agn6l3GlJWCecoLi2) | [GOVI](https://open.spotify.com/artist/12qE4Gh9Ee2jAooVkZLq62) | [how far will you go](https://open.spotify.com/album/5APyne5EPcLxhAVEm95BK7) | 3:38 |
 
-Snapshot ID: `MCxjYjcyZTg3Y2I2ZjVkNzk0ZTUxMTM5NDlhYWFjMmZjYTRhNmNkMmM1`
+Snapshot ID: `MCxlMjVjM2Q2ZTQ3YmJhNmMwYmY1MzYxYzU5YjE1Y2U3Y2IxODhmZGY2`

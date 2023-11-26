@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Solo il meglio dello street rap italiano\. Cover: Digital Astro, Tony Boy, Artie 5ive
 
-[Spotify](https://open.spotify.com/user/spotify) - 875,280 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 875,508 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 15 | [RED&BLUE](https://open.spotify.com/track/6jxeK8g2wpe2yVLsHcjRhG) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [RED&BLUE](https://open.spotify.com/album/3aVMMj8FWLf4e5cMZ5JdWC) | 3:27 |
 | 16 | [N.47](https://open.spotify.com/track/4xkvFol7qRPv0OTbOF1iSj) | [Fre\_nky](https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW) | [N.47](https://open.spotify.com/album/6fUu9JsM3bqDrC6K9SFSlC) | 2:25 |
 | 17 | [LEVANTE \(feat\. Paky\)](https://open.spotify.com/track/5J40VCMOSuXZZAGJZeFzQJ) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [LEVANTE \(feat\. Paky\)](https://open.spotify.com/album/3eZqA45DiafIF7obBL69jg) | 2:19 |
-| 18 | [SPEDIZIONE PUNITIVA](https://open.spotify.com/track/2RqyqoJTECRr2py03ZmTvF) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [SPEDIZIONE PUNITIVA](https://open.spotify.com/album/7GuR3OGl4rQ7RkFGPdcQHW) | 2:36 |
+| 18 | [Spedizione punitiva](https://open.spotify.com/track/2RqyqoJTECRr2py03ZmTvF) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [Spedizione punitiva](https://open.spotify.com/album/7GuR3OGl4rQ7RkFGPdcQHW) | 2:36 |
 | 19 | [ADIOS \(feat\. Yunes LaGrintaa\)](https://open.spotify.com/track/5F5STJurlkKk31rguyet4N) | [Fre\_nky](https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW), [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [ADIOS \(feat\. Yunes LaGrintaa\)](https://open.spotify.com/album/4tGjr14oYsIMsLC9NQaeJ4) | 3:02 |
 | 20 | [Carne Halal \(feat\. Baby Gang & Simba La Rue\)](https://open.spotify.com/track/6jiRQs8QM6ozzFxdIDUkm2) | [Escomar](https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [Carne Halal \(feat\. Baby Gang & Simba La Rue\)](https://open.spotify.com/album/5J3YRgWiaxwdDR1zCJTph6) | 4:04 |
 | 21 | [LE BAMBINE FANNO OH \(feat\. Nerissima Serpe, ANNA, Papa V, Artie 5ive\)](https://open.spotify.com/track/0bB8hmswtN9WvOQXV159CC) | [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [NO REGULAR MUSIC](https://open.spotify.com/album/2KiDg7QmIS9i9mqA2UXBi2) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [IMBORGHESI](https://open.spotify.com/track/08sKSGw1ADTFGbPfg8EtTY) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33), [MINUR](https://open.spotify.com/artist/7rylbiZO3rabYvIKu4Kcg0) | [IMBORGHESI](https://open.spotify.com/album/2MNYQ9zHQbjck8OtyaxKs5) | 2:44 |
 | 50 | [GRAMMELOT](https://open.spotify.com/track/0QZYznuUxIPXs7gY8CPvS4) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [The Globe](https://open.spotify.com/album/0Wp32iRbmSA3VvGZmAYjDv) | 1:36 |
 
-Snapshot ID: `MCw3YjE5NmNmMjFiOTk1MDVmYzBlMTVlMTRjNDZhMDMxZjcxZDYxZWI1`
+Snapshot ID: `MCw2Y2M2NWJjOWRjOTI4NDU1M2RlZTVmZjZmNWY2YWQxMDYxNTFkMjc4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > New music from Eyedress and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,196,652 likes - 116 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,196,744 likes - 116 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 | 115 | [865](https://open.spotify.com/track/08BZ9zZVpoyPUqHx73G1h5) | [Cece Coakley](https://open.spotify.com/artist/41cBCgJoK9bpY0Qy2SWIRN) | [865](https://open.spotify.com/album/1cBLYaQDehnktc3DVdWsfg) | 3:45 |
 | 116 | [Soft Like a Flower](https://open.spotify.com/track/2hj7KCZ38HJWlEfQDs4IQH) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [I Don't Want You Anymore](https://open.spotify.com/album/5BDZURHIJ6XQWJVaT9sZIb) | 3:18 |
 
-Snapshot ID: `MCxjYmM4YjNlYzdkOTJjZmQ0MzFkMTU5ZTFlOGJhYmNiMWRiNTI2MzFl`
+Snapshot ID: `MCxmMDAwMTdjYWY4MzZkMTIwNDk0MGNlMmUxNTZmYjhlNGMyN2QzY2Fi`

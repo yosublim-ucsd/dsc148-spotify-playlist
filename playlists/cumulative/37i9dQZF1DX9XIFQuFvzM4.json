@@ -2954,6 +2954,24 @@
     {
       "album": {
         "name": "The Money Recordings",
+        "url": "https://open.spotify.com/album/6ZWEHYVFoCsoQutmBjW1wS"
+      },
+      "artists": [
+        {
+          "name": "Bettye Swann",
+          "url": "https://open.spotify.com/artist/0g3EsNvUCwgpsdkAiIC50W"
+        }
+      ],
+      "date_added": "2021-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195293,
+      "name": "Make Me Yours",
+      "url": "https://open.spotify.com/track/2u0TWxcEOhIwSzyIAwxdIs"
+    },
+    {
+      "album": {
+        "name": "The Money Recordings",
         "url": "https://open.spotify.com/album/1dQ3AlrITgcI4FYnOcfm6d"
       },
       "artists": [
@@ -4010,7 +4028,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 222370,
       "name": "Strictly Reserved for You",
       "url": "https://open.spotify.com/track/0QM3kYculSR2QjtXnysN1Z"

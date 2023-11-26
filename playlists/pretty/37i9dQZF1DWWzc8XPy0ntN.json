@@ -1,12 +1,12 @@
 {
   "description": "Productores latinos underground para bailar con aud\u00edfonos.",
-  "num_followers": 123600,
+  "num_followers": 123605,
   "original_name": "Escena Electr\u00f3nica Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDFhNWU3YmE5MTM2YjNhNWRjNDZiNTRhMjJiNGE1MTlkNzU3Y2Iy",
+  "snapshot_id": "MCw4MDNkMDFmNjE2YWU4NzdmOTRlZThlM2NhMTY1MGFmZTNmNzNmNjMx",
   "tracks": [
     {
       "added_at": "2022-08-18 23:29:09",
@@ -27,26 +27,6 @@
       "duration_ms": 316721,
       "name": "Estaci\u00f3n Esperanza",
       "url": "https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Atl\u00e1ntida",
-        "url": "https://open.spotify.com/album/5WHYmcgeLzkJVlnyAYA3pj"
-      },
-      "artists": [
-        {
-          "name": "DNGDNGDNG",
-          "url": "https://open.spotify.com/artist/4qw8wHJ1ZGNFQVZ1zM4NOq"
-        },
-        {
-          "name": "Dengue Dengue Dengue",
-          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
-        }
-      ],
-      "duration_ms": 330880,
-      "name": "Atl\u00e1ntida",
-      "url": "https://open.spotify.com/track/4XG8r3tuGn2Sossi2eoNtO"
     },
     {
       "added_at": "2023-03-23 21:33:09",
@@ -73,24 +53,24 @@
       "url": "https://open.spotify.com/track/4lCjFg06zDoSOSFVxSQyzp"
     },
     {
-      "added_at": "2023-01-07 03:40:31",
+      "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "sol",
-        "url": "https://open.spotify.com/album/6dOkPpcZ3elxSPmyZbvCIg"
+        "name": "Atl\u00e1ntida",
+        "url": "https://open.spotify.com/album/5WHYmcgeLzkJVlnyAYA3pj"
       },
       "artists": [
         {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+          "name": "DNGDNGDNG",
+          "url": "https://open.spotify.com/artist/4qw8wHJ1ZGNFQVZ1zM4NOq"
         },
         {
-          "name": "Grethel Ross",
-          "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
+          "name": "Dengue Dengue Dengue",
+          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
         }
       ],
-      "duration_ms": 119649,
-      "name": "sol",
-      "url": "https://open.spotify.com/track/77hF3X4YebUOpYoqY7s9xj"
+      "duration_ms": 330880,
+      "name": "Atl\u00e1ntida",
+      "url": "https://open.spotify.com/track/4XG8r3tuGn2Sossi2eoNtO"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -111,6 +91,26 @@
       "duration_ms": 197560,
       "name": "Bemb\u00e9",
       "url": "https://open.spotify.com/track/0yNL4Rma8wSmtBH39UuEUG"
+    },
+    {
+      "added_at": "2023-01-07 03:40:31",
+      "album": {
+        "name": "sol",
+        "url": "https://open.spotify.com/album/6dOkPpcZ3elxSPmyZbvCIg"
+      },
+      "artists": [
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        },
+        {
+          "name": "Grethel Ross",
+          "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
+        }
+      ],
+      "duration_ms": 119649,
+      "name": "sol",
+      "url": "https://open.spotify.com/track/77hF3X4YebUOpYoqY7s9xj"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -701,6 +701,26 @@
       "url": "https://open.spotify.com/track/6mgPAe08nGJuIrFwCYuJSN"
     },
     {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Bufebe",
+        "url": "https://open.spotify.com/album/1BU2ah2FQ4SbswByhQonrO"
+      },
+      "artists": [
+        {
+          "name": "Bufi",
+          "url": "https://open.spotify.com/artist/0ckrHQgGWuXzYxRM0jLOZZ"
+        },
+        {
+          "name": "Kubebe",
+          "url": "https://open.spotify.com/artist/05EKr75TBeDGYstwAKRMpH"
+        }
+      ],
+      "duration_ms": 324444,
+      "name": "Corrado",
+      "url": "https://open.spotify.com/track/0ulKl0MCIn9mYHmxK8DLA2"
+    },
+    {
       "added_at": "2022-12-21 17:17:38",
       "album": {
         "name": "Dreamy Hamilton (Remixes)",
@@ -723,26 +743,6 @@
       "duration_ms": 337102,
       "name": "Dreamy Hamilton - Oneironautics Remix",
       "url": "https://open.spotify.com/track/0uVfcsjX9FX0VRU3sn2PyR"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Bufebe",
-        "url": "https://open.spotify.com/album/1BU2ah2FQ4SbswByhQonrO"
-      },
-      "artists": [
-        {
-          "name": "Bufi",
-          "url": "https://open.spotify.com/artist/0ckrHQgGWuXzYxRM0jLOZZ"
-        },
-        {
-          "name": "Kubebe",
-          "url": "https://open.spotify.com/artist/05EKr75TBeDGYstwAKRMpH"
-        }
-      ],
-      "duration_ms": 324444,
-      "name": "Corrado",
-      "url": "https://open.spotify.com/track/0ulKl0MCIn9mYHmxK8DLA2"
     },
     {
       "added_at": "2022-12-21 17:17:38",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Poliformo",
-        "url": "https://open.spotify.com/album/7HNzwLPaPAzrvlyJcLLoke"
-      },
-      "artists": [
-        {
-          "name": "El Irreal Veintiuno",
-          "url": "https://open.spotify.com/artist/4mOFGxqzVUXiZUL2oBAYX5"
-        }
-      ],
-      "duration_ms": 233544,
-      "name": "Yuto Nahua",
-      "url": "https://open.spotify.com/track/2IO0F8uCdcCVnzSWokGjOx"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Ananda",
         "url": "https://open.spotify.com/album/458iq3ckasP86d5CoLlyJb"
       },
@@ -911,22 +895,34 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Desire Path",
-        "url": "https://open.spotify.com/album/4QMLBkfHh8ZrBLm3HGDx9V"
+        "name": "Poliformo",
+        "url": "https://open.spotify.com/album/7HNzwLPaPAzrvlyJcLLoke"
       },
       "artists": [
         {
-          "name": "Lila Tirando a Violeta",
-          "url": "https://open.spotify.com/artist/1ZD9xcoRJKY4ldaV4UuAhx"
-        },
-        {
-          "name": "Nicola Cruz",
-          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
+          "name": "El Irreal Veintiuno",
+          "url": "https://open.spotify.com/artist/4mOFGxqzVUXiZUL2oBAYX5"
         }
       ],
-      "duration_ms": 215462,
-      "name": "Cuerpo Que Flota",
-      "url": "https://open.spotify.com/track/4x9kOCgS6h3IBFZPR8asWe"
+      "duration_ms": 233544,
+      "name": "Yuto Nahua",
+      "url": "https://open.spotify.com/track/2IO0F8uCdcCVnzSWokGjOx"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Love is Dancing",
+        "url": "https://open.spotify.com/album/3yisAaoFw3xGdJF4ZIUrZ8"
+      },
+      "artists": [
+        {
+          "name": "Suricata",
+          "url": "https://open.spotify.com/artist/2xKpXTLYPN7jd325QEb65b"
+        }
+      ],
+      "duration_ms": 506612,
+      "name": "Love is Dancing",
+      "url": "https://open.spotify.com/track/1XNXuM7R6Lmk5RdWnfe2S0"
     }
   ],
   "unique_name": "Escena Electr\u00f3nica Experimental",

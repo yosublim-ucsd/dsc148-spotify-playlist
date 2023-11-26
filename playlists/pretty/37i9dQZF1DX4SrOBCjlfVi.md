@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Gucci Mane, Sexyy Red, and more\. Cover: Busta Rhymes
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,736 likes - 49 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,804 likes - 49 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 48 | [Going Crazy](https://open.spotify.com/track/6Shif3zQ84HcpovpwOuaR8) | [Big Moochie Grape](https://open.spotify.com/artist/3tYObOPkxDpra3sjNdCeKa) | [Going Crazy](https://open.spotify.com/album/3xuMDBizmfgxu8RQ4CEqBc) | 2:36 |
 | 49 | [Oprah & Gayle \(feat\. Benny The Butcher\)](https://open.spotify.com/track/0CFqRIdR0LbMGGHSjTaQYt) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Welcome 2 Collegrove](https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy) | 5:13 |
 
-Snapshot ID: `MCxhMGVkMDRhNDk3NWUzNzE3YTY3MTU3ZjU1MTViMGE4YzJlZjI5NjNm`
+Snapshot ID: `MCxmY2ExOTg5Yjg1YTRiMGYwMzJiYjkxNTk0MTE2YmRhZWMyYzZhMDIx`

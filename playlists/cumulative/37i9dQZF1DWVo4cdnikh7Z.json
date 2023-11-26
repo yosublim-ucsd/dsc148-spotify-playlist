@@ -10217,6 +10217,44 @@
     },
     {
       "album": {
+        "name": "Life Is On (From \"Annapoorani\")",
+        "url": "https://open.spotify.com/album/3d6swBFVTZx2vRIcwgnVfv"
+      },
+      "artists": [
+        {
+          "name": "D. Harshini Nethra",
+          "url": "https://open.spotify.com/artist/3aAMaw6tZfpiedaleT4Di0"
+        },
+        {
+          "name": "V.M. Shreenitha",
+          "url": "https://open.spotify.com/artist/5suhI0Yia2tSCRN0sjYrpA"
+        },
+        {
+          "name": "R. Gokul",
+          "url": "https://open.spotify.com/artist/47gEnVsVySzz8tyuc6NZ4w"
+        },
+        {
+          "name": "V. Shivathmika",
+          "url": "https://open.spotify.com/artist/4xePdQ8zeScxPnmoMuKLM3"
+        },
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191517,
+      "name": "Life is On (From \"Annapoorani\")",
+      "url": "https://open.spotify.com/track/3ddbf90chTkRcheH4XxU2q"
+    },
+    {
+      "album": {
         "name": "Life is On (From \"Annapoorani\") (Tamil)",
         "url": "https://open.spotify.com/album/3HM7mrTwD34LzpiGT8B46h"
       },
@@ -10244,7 +10282,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 191517,
       "name": "Life is On (From \"Annapoorani\") (Tamil)",
       "url": "https://open.spotify.com/track/7pcFmiJ56CbcfTpRrgpjuk"

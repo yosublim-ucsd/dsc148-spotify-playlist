@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,225 songs - 2 day 23 hr 31 min
+1,226 songs - 2 day 23 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Beg for You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O) | 2:48 | 2022-01-28 |  |
 | [Behemoth \(Close to You\) \- Glacci Remix](https://open.spotify.com/track/4F1JoCM04XyuHetowmQDNP) | [Lapsung](https://open.spotify.com/artist/5RiJWTRqyY4Xnbon43JjAy), [Glacci](https://open.spotify.com/artist/1vmPXcKvniaZvX8u0KrdfS), [Nathalie Nedeljkovic](https://open.spotify.com/artist/0zZGieje83CDK90Jx4blVT) | [Behemoth \(Close to You\) \[Glacci Remix\]](https://open.spotify.com/album/0msxqXy5yvO2Ua3M6qeZ8P) | 4:55 | 2019-08-09\* | 2019-09-09 |
 | [Believe in Love](https://open.spotify.com/track/4Dm6csvvOYiqqpJOW8QYvD) | [Rohn Dahlberg](https://open.spotify.com/artist/5OcQS469ZWswsuUEJtNIeo) | [Believe in Love](https://open.spotify.com/album/1ueDVJM95iLoIUsRFnnYhW) | 5:30 | 2019-08-20 | 2020-10-30 |
+| [Believe In Myself](https://open.spotify.com/track/047hYmw8Viqwx4cavskXVy) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [Believe In Myself](https://open.spotify.com/album/5ngmMrPiCbLRleKZXj3zqV) | 3:41 | 2023-11-24 |  |
 | [Belong](https://open.spotify.com/track/1la2o7WHv6erRe18gs5sMN) | [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43), [Shapov](https://open.spotify.com/artist/36VSvhsPFTdsj1CtmatPiQ) | [Belong](https://open.spotify.com/album/2KylFRyM8qPACh2qSozGDp) | 3:24 | 2019-08-09\* | 2019-08-27 |
 | [Belong](https://open.spotify.com/track/2weUyrtneH2J6q8mMW7KE3) | [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43), [Shapov](https://open.spotify.com/artist/36VSvhsPFTdsj1CtmatPiQ) | [Belong](https://open.spotify.com/album/3GHdJhk6n0gPnpXYzlp4uJ) | 3:24 | 2020-04-16 | 2021-07-31 |
 | [Beneath Us \- Original Mix](https://open.spotify.com/track/0Yv8KzstdxkSG9IZir4fnm) | [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw), [SubLion](https://open.spotify.com/artist/7aPj37WTj6KrCLdCQfBZR6) | [Beneath Us](https://open.spotify.com/album/35gORXWA6etOXfmDq6a926) | 4:56 | 2019-08-09\* | 2019-08-27 |
@@ -1003,7 +1004,7 @@
 | [Take](https://open.spotify.com/track/07HrxwZqh0R2QGg0mABuYA) | [Echos](https://open.spotify.com/artist/6SnMMbLQ4iS8WIyt3ksmCR) | [Echos](https://open.spotify.com/album/0IMs2SyGSyl3fVRtFNeQdx) | 3:16 | 2019-08-09\* | 2019-09-14 |
 | [Take A Chance](https://open.spotify.com/track/75Nq7k2qnyeOlXIOiJ56HN) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Greatest Tits](https://open.spotify.com/album/3NV7lasFnUDfE4ZMvYKwQx) | 4:24 | 2023-06-30 | 2023-07-19 |
 | [Take A Chance On Me](https://open.spotify.com/track/6KJBwR1yrqviwL31XRpu3n) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Greatest Tits](https://open.spotify.com/album/3yZSOcz06tt6XFh5sWGnkI) | 4:24 | 2023-07-14 |  |
-| [Take Me Somewhere](https://open.spotify.com/track/6Qmalh6imfMxJAiO6HjiZh) | [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI) | [Take Me Somewhere](https://open.spotify.com/album/5AyOo0oZOQmoDrU8dqyiNp) | 3:14 | 2023-08-11 |  |
+| [Take Me Somewhere](https://open.spotify.com/track/6Qmalh6imfMxJAiO6HjiZh) | [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI) | [Take Me Somewhere](https://open.spotify.com/album/5AyOo0oZOQmoDrU8dqyiNp) | 3:14 | 2023-08-11 | 2023-11-26 |
 | [Take Me There](https://open.spotify.com/track/6cirkf76kYPUsdzQfjAFRw) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Take Me There](https://open.spotify.com/album/1u4DytoOvqrGjqVMfemZyY) | 4:28 | 2019-08-09\* | 2019-09-14 |
 | [Take Me To The Sunshine \(feat\. BullySongs\)](https://open.spotify.com/track/4peF3yGZAZfeOFDahi6Ig5) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [BullySongs](https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5) | [Take Me To The Sunshine \(feat\. BullySongs\)](https://open.spotify.com/album/20AY41HrcfdjRmHSpLLSgd) | 2:57 | 2022-02-04 |  |
 | [Take My Chance](https://open.spotify.com/track/3uD3HzG6tO8lWUIKtJKcxA) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Take My Chance](https://open.spotify.com/album/3xaAySZDsBeu2k12tDaLsZ) | 3:18 | 2023-11-17 |  |

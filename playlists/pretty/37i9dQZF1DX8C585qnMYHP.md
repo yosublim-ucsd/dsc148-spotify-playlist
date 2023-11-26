@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new Experimental by independent artists and labels, with Marta Del Grandi on cover\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,773 likes - 100 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,875 likes - 100 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,11 +58,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 48 | [The Welcome](https://open.spotify.com/track/6avHgNCLusYdAqRomrH0p9) | [group O](https://open.spotify.com/artist/77MD0CeIUigcitW3c8OfvC) | [OH YA MA HA \(Music From Airports\) ICN\-HAN\-LPQ](https://open.spotify.com/album/5sAKqIzPYQHmTPkMQNE0TI) | 1:15 |
 | 49 | [Hounds](https://open.spotify.com/track/0wdxA7IX2xfcOMyF47WXFm) | [Jupi/ter](https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x) | [Islands, Pt\. 3](https://open.spotify.com/album/6XFN9uEpCDmHwoRpYVzzTZ) | 5:01 |
 | 50 | [I](https://open.spotify.com/track/00UC3Q9hxjfgvBzkUpxe3o) | [Of The Muses](https://open.spotify.com/artist/0bYSzLLgzeNiGoEsAYg2Ch) | [I](https://open.spotify.com/album/2xjnI3kZzDTIjUe1Zcwb2G) | 9:08 |
-| 51 | [Slowing Everything Down](https://open.spotify.com/track/2UwsVfyJpAKF0VFpfFc9JZ) | [Nico Less](https://open.spotify.com/artist/5AoXgqcYEvfXsp9WP2chqu) | [Slowing Everything Down](https://open.spotify.com/album/7I9HdlRfhn236XbMP6mCMk) | 6:13 |
+| 51 | [October](https://open.spotify.com/track/4BlcZJBXjWCffLynTahdVD) | [Mejiwahn](https://open.spotify.com/artist/5nwqAZGgbbZOuK11nRCGyj) | [October](https://open.spotify.com/album/0ESqmNRSe1gA2yXIJmopkP) | 3:16 |
 | 52 | [Blue Emperor](https://open.spotify.com/track/2WEb5xogCboXRtXnU3W2a8) | [Gonubie](https://open.spotify.com/artist/5GUhu2CDRcOkRLjmz4051y) | [Signals At Both Ears](https://open.spotify.com/album/6eyXuQBXVEcv3KU5cZxXM8) | 11:08 |
-| 53 | [The End of What?](https://open.spotify.com/track/52e028KD9UrxvpunBicff3) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [Pt\. I](https://open.spotify.com/album/0WfthyeVmVxhwbs09RwtwK) | 4:57 |
+| 53 | [Slowing Everything Down](https://open.spotify.com/track/2UwsVfyJpAKF0VFpfFc9JZ) | [Nico Less](https://open.spotify.com/artist/5AoXgqcYEvfXsp9WP2chqu) | [Slowing Everything Down](https://open.spotify.com/album/7I9HdlRfhn236XbMP6mCMk) | 6:13 |
 | 54 | [Hint](https://open.spotify.com/track/5RTICRvRhMHjURWKZvYO9y) | [SPIME.IM](https://open.spotify.com/artist/6zOLowG2X8FkUqPSEmetDJ) | [Hint](https://open.spotify.com/album/6kuAtwn4IGu4L0NnlBOJHc) | 5:03 |
-| 55 | [October](https://open.spotify.com/track/4BlcZJBXjWCffLynTahdVD) | [Mejiwahn](https://open.spotify.com/artist/5nwqAZGgbbZOuK11nRCGyj) | [October](https://open.spotify.com/album/0ESqmNRSe1gA2yXIJmopkP) | 3:16 |
+| 55 | [The End of What?](https://open.spotify.com/track/52e028KD9UrxvpunBicff3) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [Pt\. I](https://open.spotify.com/album/0WfthyeVmVxhwbs09RwtwK) | 4:57 |
 | 56 | [How The River Flows](https://open.spotify.com/track/4M4ote4L4R4Zs4JeOmHzo6) | [Sólstrauman](https://open.spotify.com/artist/4RaiONmR8oJ3bxr2RlH1bO) | [How The River Flows](https://open.spotify.com/album/1i4Gs7Srglt8CsdPwlutVp) | 4:23 |
 | 57 | [Assim](https://open.spotify.com/track/2qJ0alAK9ja55NUAafSykX) | [Xexa](https://open.spotify.com/artist/5YOOZDm22sEdpPpf8QX9J8) | [Vibrações de Prata](https://open.spotify.com/album/2JIG0FQTzPK42gw78K2Cuj) | 2:08 |
 | 58 | [k00ky](https://open.spotify.com/track/7CgPSGWTtmFOIRhND4GThX) | [wh0wh0](https://open.spotify.com/artist/7bf0hNbZUch3Fcc33forpw) | [k00ky](https://open.spotify.com/album/6AACE0NmIuO7L6xfwA5Qz5) | 2:59 |
@@ -89,17 +89,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 79 | [Reno](https://open.spotify.com/track/65i8qMn7gtqUu1cfKhCL6j) | [SEES00000](https://open.spotify.com/artist/6w3jNIUXSNbtWXNnAiBK45) | [Miracle\-Tech](https://open.spotify.com/album/0KfFMK9V0890u9O5qAsV3v) | 3:06 |
 | 80 | [Boundless](https://open.spotify.com/track/2X3U6oC0OOfZ2rGMhf8AxQ) | [David's Lyre](https://open.spotify.com/artist/7r391x0B3O3T9GNLdlhaJw) | [Boundless](https://open.spotify.com/album/1cUYR2EBSW0DVZ6IIqFBNy) | 2:35 |
 | 81 | [depois do sonho, só a saudade de quem nunca fomos](https://open.spotify.com/track/3u5W72Xf3KTreCDcQDSxhu) | [Gil Dionísio](https://open.spotify.com/artist/1cNxusdvXFitPzzJOGolCn) | [depois do sonho, só a saudade de quem nunca fomos](https://open.spotify.com/album/2dejoMCn59YdyfVP5ICt6a) | 11:07 |
-| 82 | [C \(Featuring the Voice of Fred Moten\)](https://open.spotify.com/track/3ttvx9JURlyt351VhBFmkg) | [Markus Floats](https://open.spotify.com/artist/4pK3XAPHEKPWwwEGpqwP1Z) | [Introduction / C \(Featuring the Voice of Fred Moten\)](https://open.spotify.com/album/0su3LyRPZ1IXvLvcOuS5TL) | 4:23 |
-| 83 | [Пророчество / П\-П](https://open.spotify.com/track/5tpvGcFAp8rF3MGy0laB7D) | [Тлам](https://open.spotify.com/artist/7a170v5bOCKGY5tAZm41MQ) | [Хочется хорошего](https://open.spotify.com/album/0XBBSuKcTuoHw0t63PqvJk) | 4:57 |
+| 82 | [Пророчество / П\-П](https://open.spotify.com/track/5tpvGcFAp8rF3MGy0laB7D) | [Тлам](https://open.spotify.com/artist/7a170v5bOCKGY5tAZm41MQ) | [Хочется хорошего](https://open.spotify.com/album/0XBBSuKcTuoHw0t63PqvJk) | 4:57 |
+| 83 | [C \(Featuring the Voice of Fred Moten\)](https://open.spotify.com/track/3ttvx9JURlyt351VhBFmkg) | [Markus Floats](https://open.spotify.com/artist/4pK3XAPHEKPWwwEGpqwP1Z) | [Introduction / C \(Featuring the Voice of Fred Moten\)](https://open.spotify.com/album/0su3LyRPZ1IXvLvcOuS5TL) | 4:23 |
 | 84 | [The Hell We Chose](https://open.spotify.com/track/4wwDdd8G1kkBlMZ5FjbgYe) | [REBEL YELL](https://open.spotify.com/artist/08BlEXQUX2YD1cGlk9RBNw) | [DESOLATION](https://open.spotify.com/album/2xAK7yGGfnLgyG771lfhWJ) | 3:32 |
 | 85 | [Skin](https://open.spotify.com/track/0Xidhto8UQzz9zurCQf5vj) | [Cut 989](https://open.spotify.com/artist/6IajSdT5nmPTiMYdIMizWn) | [Opinions](https://open.spotify.com/album/5mqDIJ2nEdeNjBOn1oUync) | 5:22 |
-| 86 | [Misplaced Dream](https://open.spotify.com/track/5TXE8o5Te1UKMvRFtRyFis) | [TATSURO MURAKAMI](https://open.spotify.com/artist/0LFWj0uI5FspWoS9XiTxO1) | [An Imaginary Autumn](https://open.spotify.com/album/2S7q3Tf1DuU6AQ0qbTwADh) | 4:19 |
-| 87 | [A Black Moon Tide](https://open.spotify.com/track/5UkLcM1yFjeFBLUhwuKbkV) | [Field Lines Cartographer](https://open.spotify.com/artist/5DrN1ISL1mmX76CJe5CuZB) | [Phases of This and Other Moons](https://open.spotify.com/album/5UCezrK3RURbjVIpWUvxAD) | 3:44 |
+| 86 | [A Black Moon Tide](https://open.spotify.com/track/5UkLcM1yFjeFBLUhwuKbkV) | [Field Lines Cartographer](https://open.spotify.com/artist/5DrN1ISL1mmX76CJe5CuZB) | [Phases of This and Other Moons](https://open.spotify.com/album/5UCezrK3RURbjVIpWUvxAD) | 3:44 |
+| 87 | [Misplaced Dream](https://open.spotify.com/track/5TXE8o5Te1UKMvRFtRyFis) | [TATSURO MURAKAMI](https://open.spotify.com/artist/0LFWj0uI5FspWoS9XiTxO1) | [An Imaginary Autumn](https://open.spotify.com/album/2S7q3Tf1DuU6AQ0qbTwADh) | 4:19 |
 | 88 | [Go Red Laugh White](https://open.spotify.com/track/3YY9jc0TCCJHJRzrNN9mly) | [Szymon Wójcik](https://open.spotify.com/artist/0D1zwUd1QfJuUA8rf3Kace) | [All the Wonders of Six Little Spoons](https://open.spotify.com/album/0Z3Z0B5XPq3BVsCwCWIZVD) | 4:07 |
-| 89 | [If Yer Dreamin](https://open.spotify.com/track/7vCCMfYUSapBh426uTrChQ) | [Colin Miller](https://open.spotify.com/artist/0vRHLsgnZk64dSk4mKgpaw) | [If Yer Dreamin](https://open.spotify.com/album/3HyJilhL4GD8PugNhsRfiZ) | 3:02 |
-| 90 | [FUTURA 2000](https://open.spotify.com/track/7taqxrAe5xltbEdeamlD0m) | [San Leo](https://open.spotify.com/artist/1g7G97GbkEAtBcEiMFVJdy) | [FUTURA 2000](https://open.spotify.com/album/1S6SYtisVAy2Nx4R4aLAPp) | 11:44 |
+| 89 | [Rhyolite](https://open.spotify.com/track/25BuQvUTwj33xcJqbOfKsx) | [blackbody\_radiation](https://open.spotify.com/artist/1KWb17jGSlqzn8wByXHTsQ) | [Ultra\-Materials](https://open.spotify.com/album/3WAbMZybs547PluyGB0pcX) | 15:16 |
+| 90 | [If Yer Dreamin](https://open.spotify.com/track/7vCCMfYUSapBh426uTrChQ) | [Colin Miller](https://open.spotify.com/artist/0vRHLsgnZk64dSk4mKgpaw) | [If Yer Dreamin](https://open.spotify.com/album/3HyJilhL4GD8PugNhsRfiZ) | 3:02 |
 | 91 | [small circle](https://open.spotify.com/track/6IEZQrtG6Wm2hHweerVfKC) | [Jason Calhoun](https://open.spotify.com/artist/70RGuffxPE3qcjlvfeAaUy) | [small circle](https://open.spotify.com/album/21UMEdY1bi4yqimxA8VzSh) | 8:35 |
-| 92 | [Rhyolite](https://open.spotify.com/track/25BuQvUTwj33xcJqbOfKsx) | [blackbody\_radiation](https://open.spotify.com/artist/1KWb17jGSlqzn8wByXHTsQ) | [Ultra\-Materials](https://open.spotify.com/album/3WAbMZybs547PluyGB0pcX) | 15:16 |
+| 92 | [FUTURA 2000](https://open.spotify.com/track/7taqxrAe5xltbEdeamlD0m) | [San Leo](https://open.spotify.com/artist/1g7G97GbkEAtBcEiMFVJdy) | [FUTURA 2000](https://open.spotify.com/album/1S6SYtisVAy2Nx4R4aLAPp) | 11:44 |
 | 93 | [A Fresh Soul](https://open.spotify.com/track/0eLwrkWrMU0OzJwJiEf4On) | [Luca Nieri](https://open.spotify.com/artist/4Wq9oYkkB8oK6CUSYLSNCC) | [The Sorcerer & The Demon](https://open.spotify.com/album/7lXMEWlnHRbUsfXr9kJZua) | 1:57 |
 | 94 | [Já não consigo mais, mas vou continuar](https://open.spotify.com/track/7KYswH2kUpHwYo81gatUsJ) | [Gil Dionísio](https://open.spotify.com/artist/1cNxusdvXFitPzzJOGolCn) | [Já não consigo mais, mas vou continuar](https://open.spotify.com/album/6G7f7Qxs5DgFxNipIjZ6hZ) | 5:54 |
 | 95 | [Coat of Arms](https://open.spotify.com/track/4stozFL4dSnWNakPG44z8P) | [Some Exercise](https://open.spotify.com/artist/6es4qGZzFYIjk75owf8rPt) | [Coat of Arms](https://open.spotify.com/album/24HBtg1ai9EOEWlTma2Rui) | 3:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 99 | [Incubator](https://open.spotify.com/track/4yV0SSifaLWmDDiCLAewH1) | [UNCIVILIZED GIRLS MEMORY](https://open.spotify.com/artist/01UvG1nVdhGv3bF6VVIT2H) | [HEAVEN](https://open.spotify.com/album/4c9WLUSIr93MPolYtdeGdK) | 1:15 |
 | 100 | [Assim](https://open.spotify.com/track/2qJ0alAK9ja55NUAafSykX) | [Xexa](https://open.spotify.com/artist/5YOOZDm22sEdpPpf8QX9J8) | [Vibrações de Prata](https://open.spotify.com/album/2JIG0FQTzPK42gw78K2Cuj) | 2:08 |
 
-Snapshot ID: `MCwxMjMwMjFmZjE5NTVmNzE1OWNhZTg2MDYxZGFhYjA1ODE4YTM0ODA4`
+Snapshot ID: `MCw0MDgzMTRlM2E3ZDhkNzBmZGQyNzU4ZjIyYTc0OGFiM2RlODQzZGYx`

@@ -1204,7 +1204,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 138666,
       "name": "Busy Branches",
       "url": "https://open.spotify.com/track/2GKQNEAMc6bQjqBHdNtlzz"
@@ -2344,7 +2344,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 150000,
       "name": "Dope",
       "url": "https://open.spotify.com/track/1lPk06VsnBj2v5fw7rtfQe"
@@ -2366,6 +2366,42 @@
       "duration_ms": 141000,
       "name": "Down Under",
       "url": "https://open.spotify.com/track/2tElFTry4qcyqdbtPIkdsq"
+    },
+    {
+      "album": {
+        "name": "downright",
+        "url": "https://open.spotify.com/album/3y8tJE7EYUUR5JJzOiudtv"
+      },
+      "artists": [
+        {
+          "name": "W8lss",
+          "url": "https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144891,
+      "name": "downright",
+      "url": "https://open.spotify.com/track/3MuG1hLdgsuwUpq6CWQ1wM"
+    },
+    {
+      "album": {
+        "name": "Downtime",
+        "url": "https://open.spotify.com/album/5pWGzIP2RcutSjYAtsITyM"
+      },
+      "artists": [
+        {
+          "name": "DBTFUL",
+          "url": "https://open.spotify.com/artist/1GdjEjgv3RpYjjIBvwGv21"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136235,
+      "name": "Downtime",
+      "url": "https://open.spotify.com/track/19duLYydAX6UiqlFKW54Qu"
     },
     {
       "album": {
@@ -4178,6 +4214,24 @@
       "duration_ms": 102500,
       "name": "have we met before?",
       "url": "https://open.spotify.com/track/096FqtiSIjZqAAZH6U6mW7"
+    },
+    {
+      "album": {
+        "name": "Hazel Eyes",
+        "url": "https://open.spotify.com/album/3Fses3uRSqH6ODu45oPCwH"
+      },
+      "artists": [
+        {
+          "name": "Loomington",
+          "url": "https://open.spotify.com/artist/3ROJ8HN1XE4TIV86RgP4OA"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142666,
+      "name": "Hazel Eyes",
+      "url": "https://open.spotify.com/track/18te6JAwwL6xrKnVgYgXvA"
     },
     {
       "album": {
@@ -6701,6 +6755,24 @@
     },
     {
       "album": {
+        "name": "New Season",
+        "url": "https://open.spotify.com/album/6dE9jnDDLfbCkhCkbHp3W9"
+      },
+      "artists": [
+        {
+          "name": "sunala.",
+          "url": "https://open.spotify.com/artist/4hBM2zmhhFPO2aKD5cHtJl"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120857,
+      "name": "New Season",
+      "url": "https://open.spotify.com/track/4KFkKyUl1er3ta67yoQHHz"
+    },
+    {
+      "album": {
         "name": "New Shoes",
         "url": "https://open.spotify.com/album/6WYHhMNiP9uosSqoM3EFgs"
       },
@@ -7484,7 +7556,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 180208,
       "name": "Pastel",
       "url": "https://open.spotify.com/track/3yyOBSQN3E1x7DSqLiXRd8"
@@ -8595,6 +8667,24 @@
     },
     {
       "album": {
+        "name": "Salty Spears",
+        "url": "https://open.spotify.com/album/1yVbF1CJghhfNg5ROV8ceF"
+      },
+      "artists": [
+        {
+          "name": "Pickle Bits",
+          "url": "https://open.spotify.com/artist/2KOou75brQkBcUrNhPtC1s"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136904,
+      "name": "Salty Spears",
+      "url": "https://open.spotify.com/track/6ZmBhY7KvNRg7ohYNyIgCK"
+    },
+    {
+      "album": {
         "name": "sandcastles",
         "url": "https://open.spotify.com/album/1LN7ORFTpSy9ZpnsflxqPN"
       },
@@ -9152,6 +9242,24 @@
       "duration_ms": 129863,
       "name": "Slowdown",
       "url": "https://open.spotify.com/track/2IpmQO6mPAmx3StyIDpqKe"
+    },
+    {
+      "album": {
+        "name": "Slowmotion",
+        "url": "https://open.spotify.com/album/09cHYQH8RY5ywsDND2EMp1"
+      },
+      "artists": [
+        {
+          "name": "Zauvage",
+          "url": "https://open.spotify.com/artist/68PKk1kwlU32sq0WuTTf0s"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148315,
+      "name": "Slowmotion",
+      "url": "https://open.spotify.com/track/62FD9nH97vjBJ7UJBlusRA"
     },
     {
       "album": {
@@ -10140,7 +10248,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 124044,
       "name": "Symbols",
       "url": "https://open.spotify.com/track/5ICH0pKxnPXbO2HxRIZu7B"
@@ -11926,7 +12034,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 86236,
       "name": "yesterday floor",
       "url": "https://open.spotify.com/track/1xAA5ZuoxcefBg3EmxIQJc"
@@ -12122,7 +12230,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 90352,
       "name": "zinnia",
       "url": "https://open.spotify.com/track/1DQs099CsJFZhRhY4RLEHM"

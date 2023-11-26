@@ -4,7 +4,7 @@
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Los Plebes del Rancho y Carolina Ross en portada.
 
-311 songs - 16 hr 35 min
+312 songs - 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Amor](https://open.spotify.com/track/0QLthYlRZYAP9iRs9cjmzD) | [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Amor](https://open.spotify.com/album/5uL2IYw4ub2PuWRIESxwzd) | 4:41 | 2023-01-20 |  |
 | [Amor Fugaz](https://open.spotify.com/track/4O2bxKTnK9En7OPw8kGDDF) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [The Life in Your Eyes](https://open.spotify.com/album/7hnH4pDgMDP4veSuZ7Uxlz) | 2:55 | 2021-12-27 |  |
 | [Andamos Mejor](https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Andamos Mejor](https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf) | 2:17 | 2022-02-22 |  |
-| [Ando Triste](https://open.spotify.com/track/2NSr6ZIecxwvuLuMZIyQpm) | [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Ando Triste](https://open.spotify.com/album/0QGvhNBMCUs4UKSyHUSdyW) | 2:40 | 2023-08-04 |  |
+| [Ando Triste](https://open.spotify.com/track/2NSr6ZIecxwvuLuMZIyQpm) | [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Ando Triste](https://open.spotify.com/album/0QGvhNBMCUs4UKSyHUSdyW) | 2:40 | 2023-08-04 | 2023-11-26 |
 | [Antes De Llamarme](https://open.spotify.com/track/4ZPyBJfE4ICPFMxDKvLIAx) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [Antes De Llamarte](https://open.spotify.com/album/7a5RxaCPugv9C25CytE9e8) | 2:38 | 2023-01-13 | 2023-02-14 |
 | [Aplaca Tus Berrinches](https://open.spotify.com/track/7pNp2nI4VFoEGxWQqSDL8e) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Aplaca Tus Berrinches](https://open.spotify.com/album/66FijRk3dAcaEUv9gdFrjr) | 3:12 | 2022-09-23 | 2022-12-03 |
 | [Aquí Te Espero](https://open.spotify.com/track/33vrRiIiut4rOFmkgorJD6) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Aquí Te Espero](https://open.spotify.com/album/7HTM9QDAoJ0GOegmJfgDOE) | 4:15 | 2023-08-03 |  |
@@ -163,6 +163,7 @@
 | [La Joya](https://open.spotify.com/track/5KyAyaQLzwXXJs0vSTtdI1) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [La Joya](https://open.spotify.com/album/2dORJIqrbsOWUpVVf09aRM) | 2:52 | 2023-08-04 | 2023-09-06 |
 | [La Lista](https://open.spotify.com/track/0sQGMzZCE7urmEya7Ky7AL) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [La Lista](https://open.spotify.com/album/2W91Gs7qvH1yODKt8Hm7QH) | 3:31 | 2022-05-13 | 2022-12-03 |
 | [La Nueva Generacion](https://open.spotify.com/track/3XKbU2FWC2PDkaIAk4Gf8f) | [Clave 520](https://open.spotify.com/artist/3DnH9jotIhBLs9xikHAp54) | [La Nueva Generacion](https://open.spotify.com/album/0Ywgf0mdv0JIzPVuLJuOUW) | 3:28 | 2022-07-12 | 2022-08-06 |
+| [La Original](https://open.spotify.com/track/3py6gppNmac3Lt6dq81hbp) | [Los Lara](https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4) | [La Original](https://open.spotify.com/album/2ANuDURJDHtHMgiaJOaBGO) | 2:17 | 2023-11-17 |  |
 | [La Plebada del 09](https://open.spotify.com/track/1dafTXbbbK0wSsji6VbPJJ) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [La Catafixia](https://open.spotify.com/album/4nbbbprIlA9GDUDqlc59CH) | 2:33 | 2022-03-18 | 2023-07-01 |
 | [Labios de Cereza](https://open.spotify.com/track/7s963HIFOPyhSiqt10vYFn) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Labios de Cereza](https://open.spotify.com/album/2LMo4r5riy5inwflDaWAKK) | 3:34 | 2022-12-02 | 2023-07-01 |
 | [LADY GAGA](https://open.spotify.com/track/0WCxpmafw3tOlUmiilGbsy) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [GÉNESIS](https://open.spotify.com/album/7DOIN787fF8Jv9KFZEBcW6) | 3:32 | 2023-06-30 | 2023-07-02 |

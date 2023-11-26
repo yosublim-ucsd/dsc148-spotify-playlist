@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno.
 
-384 songs - 1 day 8 hr 39 min
+385 songs - 1 day 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,7 +228,7 @@
 | [New World](https://open.spotify.com/track/3q4e7f2g9FeA6yh9PfS78H) | [Coeus](https://open.spotify.com/artist/7yibHBJHi3LZD0uvWAdyya) | [Symbiosis One](https://open.spotify.com/album/64bLKFRFtgwGKWHs8qZe68) | 6:51 | 2022-11-24 | 2022-12-04 |
 | [No Tomorrow](https://open.spotify.com/track/1KiKIjnfm2is7U2iBEebda) | [AN21](https://open.spotify.com/artist/3wPBMtzFP84b7UN786Sxhn), [Maunt](https://open.spotify.com/artist/23VFpXmOCxnReEwvUCulSb) | [No Tomorrow](https://open.spotify.com/album/78OyyeUJyyoYRHDLtBzsqi) | 3:56 | 2022-12-28 | 2023-01-06 |
 | [Ocean Drive](https://open.spotify.com/track/5p8w7JOwtF7brVkTIErUpT) | [Scott Rill](https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV), [ETERN3](https://open.spotify.com/artist/5PdrEVEQ1qv1psFZ9pxDMx) | [Ocean Drive](https://open.spotify.com/album/7zvBu5tW5d286WfktO4bRV) | 3:55 | 2023-11-09 |  |
-| [Of Me \- Edit](https://open.spotify.com/track/292721zd62TFxtEeKAYmFP) | [Pryda](https://open.spotify.com/artist/37U9sPqTZMd7AKJCWgcvkt) | [The Return/Of Me](https://open.spotify.com/album/4fnoEdPFTsXhkKPmwRwlJL) | 4:05 | 2023-08-04 |  |
+| [Of Me \- Edit](https://open.spotify.com/track/292721zd62TFxtEeKAYmFP) | [Pryda](https://open.spotify.com/artist/37U9sPqTZMd7AKJCWgcvkt) | [The Return/Of Me](https://open.spotify.com/album/4fnoEdPFTsXhkKPmwRwlJL) | 4:05 | 2023-08-04 | 2023-11-26 |
 | [On My Knees \- Cassian Remix](https://open.spotify.com/track/1CSpqWhM6rbOvA268uT9jh) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [On My Knees \(Cassian Remix\)](https://open.spotify.com/album/45YkAIprd06F6G1zKJiJ4B) | 5:48 | 2022-12-28 | 2023-01-06 |
 | [One](https://open.spotify.com/track/7iOicmTfgUU7nx05MdwjNc) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY) | [Reverse Affection](https://open.spotify.com/album/1qEHygPuXMc1JsjXWHGo1F) | 7:29 | 2023-04-07 | 2023-04-29 |
 | [One More Fluorescent Rush](https://open.spotify.com/track/0oHp0oW3RhkwBuNSDFY1Jq) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Whities 013](https://open.spotify.com/album/34ARyooCzTJw3YydlcqBiW) | 6:27 | 2022-11-23 | 2023-02-04 |
@@ -296,6 +296,7 @@
 | [Silence](https://open.spotify.com/track/2QKv1gdooWYYvFo3YZaMcE) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [Maurice Kaar](https://open.spotify.com/artist/4Tj0xN2fUJ8nxZEq5ikSRa) | [Silence](https://open.spotify.com/album/0bukLAr1ttYfDlBJ81qKYp) | 3:50 | 2023-10-13 |  |
 | [Silver Screen](https://open.spotify.com/track/6lBySALfpud2idAf6X6Pqi) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [Silver Screen](https://open.spotify.com/album/3SJu0buwmV07qtrRSvHY7U) | 6:42 | 2022-11-28 | 2023-02-04 |
 | [Simulacrum](https://open.spotify.com/track/1W1uFNsvlGIpC2WFNCVNIr) | [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Wennink](https://open.spotify.com/artist/5ABv9Z75CGfgyALYFpB6Qk) | [Simulacrum](https://open.spotify.com/album/3QLiQ0hFrcrlNoUjc8KGAb) | 6:06 | 2022-11-27 | 2022-12-04 |
+| [Simulation](https://open.spotify.com/track/5166Ws58cqwtQE2YR7Nyal) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Simulation](https://open.spotify.com/album/08D0nW5tIE8sRDIZruTU2V) | 3:15 | 2023-11-24 |  |
 | [Singularity](https://open.spotify.com/track/0yuJtvXsapVOQfNDYxQ5mw) | [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7) | [Powers of Ten](https://open.spotify.com/album/5zj0qH4lKPQOotmWkE3ECb) | 7:01 | 2022-11-23 | 2023-06-01 |
 | [Sirin](https://open.spotify.com/track/0fTBC7dIy8c8rRFonamGJF) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y) | [Light For Me / Sirin](https://open.spotify.com/album/5dAVG1bgWrBZEokRk1EcRN) | 3:24 | 2023-03-03 | 2023-03-11 |
 | [Skynet](https://open.spotify.com/track/24NYldsWLPZ9a1vgEYpQJh) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC) | [Skynet](https://open.spotify.com/album/3ncdnHQ31kD9BgqQGpKu2v) | 5:22 | 2023-11-09 | 2023-11-25 |

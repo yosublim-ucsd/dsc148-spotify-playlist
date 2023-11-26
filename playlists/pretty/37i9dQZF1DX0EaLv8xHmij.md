@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 
 > O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow embaçado\. Foto: Fúria
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,027 likes - 75 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,038 likes - 75 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 | 9 | [Midio](https://open.spotify.com/track/48x2oAieb2KwWhab3vhifB) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [KIB7](https://open.spotify.com/artist/7lSYO6wq6ueSYYIEUbF92u) | [Midio](https://open.spotify.com/album/0XiqFoJpqkH0DOHbq5bBlY) | 2:43 |
 | 10 | [Alegria](https://open.spotify.com/track/5cIhfx7tNDuHCtJg0QCWTM) | [Domalote](https://open.spotify.com/artist/6TiYrtFfbM9NZr53oENtGe), [SMU](https://open.spotify.com/artist/2qATSoNFfzMaTEZFfJpG4c) | [Alegria](https://open.spotify.com/album/2tvWQnxCgthxE4f8J9hRzN) | 1:41 |
 | 11 | [Quem Que Fica](https://open.spotify.com/track/6DyxxUezwxebNw7ngUSv89) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt), [MG CDD](https://open.spotify.com/artist/2zjzZE2PUwitmtRDFgrABn), [G\. Shao](https://open.spotify.com/artist/60hsJi04alPOxGuomSHpuz) | [MIXTAPE EU MERMO](https://open.spotify.com/album/7vRgYe1RGL5md2vIZQadmW) | 2:18 |
-| 12 | [A Profecia](https://open.spotify.com/track/6vXfQauHyTf7dWGkrAXpuW) | [Tas Mc](https://open.spotify.com/artist/75LrYEzGI5S9Akg3FwvK6H), [Sosa](https://open.spotify.com/artist/2eYytza3nHrkpYUhkoqJXC), [Baruan](https://open.spotify.com/artist/28K7ZBrL5x0cEdBL4X3SHW) | [Sobre Verdades](https://open.spotify.com/album/6djVDlhWBuln5h0WoyJoHe) | 2:45 |
+| 12 | [A Profecia](https://open.spotify.com/track/6vXfQauHyTf7dWGkrAXpuW) | [Tas Mc](https://open.spotify.com/artist/75LrYEzGI5S9Akg3FwvK6H), [Sosa](https://open.spotify.com/artist/2eYytza3nHrkpYUhkoqJXC), [Baruan](https://open.spotify.com/artist/15kt3VcbrDtWgrmgCOyRsw) | [Sobre Verdades](https://open.spotify.com/album/6djVDlhWBuln5h0WoyJoHe) | 2:45 |
 | 13 | [D.S.A.B](https://open.spotify.com/track/1JpDmQM6XyeF62myhNcf2B) | [Sena Mc](https://open.spotify.com/artist/0KmUWyp6jHACYG8KaXiCyV), [Akira Presidente](https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG), [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP), [Delli Beatz](https://open.spotify.com/artist/7EaQWxFZ0tJfoXylyF4dSn) | [Valioso](https://open.spotify.com/album/6R25D8RauPYTEEBHeT3m5J) | 3:21 |
 | 14 | [Fresh Sesh \#02 \- Sinais de Sucessagem](https://open.spotify.com/track/03lg4qwy8ugN6TtZgcQwxh) | [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [Pior Versão de Mim](https://open.spotify.com/artist/3VI6PCewAVll6K4cYoNWt7), [Fresh Mind Co.](https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc), [Yure IDD](https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS), [LH Emici](https://open.spotify.com/artist/2W1myCBiCFdRWmQuzQWCdK), [Nochica](https://open.spotify.com/artist/7KXVP4FXUjg321zasfnoBZ) | [Fresh Sesh \#02 \- Sinais de Sucessagem](https://open.spotify.com/album/1uoUpCO6SWml6hqHwfDTy9) | 3:32 |
 | 15 | [Catequese 2](https://open.spotify.com/track/2f2KHGQD3aaF9CkCU8jJuf) | [Scooby](https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd), [Uk Drill](https://open.spotify.com/artist/2xTSG6uGCWr6gHw9ClNxEt) | [Catequese 2](https://open.spotify.com/album/1RzDSdMJzF1curdRIWiSPv) | 2:46 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 | 74 | [CRIME](https://open.spotify.com/track/0beS82r81NQmbSmZ3hEGgt) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [CRIME](https://open.spotify.com/album/3wDmkkTCFs3cvSzKCDOogf) | 3:08 |
 | 75 | [Os Pitbull do Ano, Pt\. 2](https://open.spotify.com/track/2WLjFfNF7aIdTk6SVVo6NR) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Baviera](https://open.spotify.com/artist/6cUTkFvlPW27lYc3qcoOgy), [KOPO](https://open.spotify.com/artist/3vSHkuSE00R9QBkm5SByaA) | [Os Pitbull do Ano, Pt\. 2](https://open.spotify.com/album/6dI7q22ZoKPIzWuWDVoawl) | 3:27 |
 
-Snapshot ID: `MCxlNjE0NTgyMGMyZTMyYWMyYTBmMWFjYzg3NzIzYjRhNGE3ZjYwNjQw`
+Snapshot ID: `MCwxOGQ4ZmU3MjM1ZjU3ODMzNzJjM2YyYjMyODI0M2NlMjM3MzMxZGNm`

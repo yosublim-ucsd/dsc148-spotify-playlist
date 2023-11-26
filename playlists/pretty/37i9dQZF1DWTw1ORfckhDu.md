@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa TIPPA ja Kube.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,349 likes - 60 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,383 likes - 60 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Silkkii \(feat\. Joalin\)](https://open.spotify.com/track/6ik7RSb2fOJevYEFMu2P1A) | [DAVI](https://open.spotify.com/artist/6SZyjpoIRcvW29wO1u0ouV), [Joalin](https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX) | [Silkkii \(feat\. Joalin\)](https://open.spotify.com/album/6IgZ9QUQqDGGs5FAHwFAHH) | 2:08 |
-| 2 | [100 kg kukkia](https://open.spotify.com/track/4T5U89USlowyG8zLMsaKgf) | [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O) | [100 kg kukkia](https://open.spotify.com/album/2I2m3AZ6EkUUIuoK75zwkk) | 2:47 |
+| 1 | [100 kg kukkia](https://open.spotify.com/track/4T5U89USlowyG8zLMsaKgf) | [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O) | [100 kg kukkia](https://open.spotify.com/album/2I2m3AZ6EkUUIuoK75zwkk) | 2:47 |
+| 2 | [Silkkii \(feat\. Joalin\)](https://open.spotify.com/track/6ik7RSb2fOJevYEFMu2P1A) | [DAVI](https://open.spotify.com/artist/6SZyjpoIRcvW29wO1u0ouV), [Joalin](https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX) | [Silkkii \(feat\. Joalin\)](https://open.spotify.com/album/6IgZ9QUQqDGGs5FAHwFAHH) | 2:08 |
 | 3 | [Maalainen](https://open.spotify.com/track/1vVDwcw3Qo9lL3RpIBrwqS) | [Pyrythekid](https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW), [Axel Kala](https://open.spotify.com/artist/4efs3AqHijagPC7sFYksBD) | [Maalainen](https://open.spotify.com/album/7GemBwf8DwYWne3AbV6RjJ) | 2:58 |
 | 4 | [Lattiast kattoon \(feat\. Kube\)](https://open.spotify.com/track/0baRHyknQv1ui5GlHVLGvO) | [TIPPA](https://open.spotify.com/artist/0kWknKjD7r2hNh8KntEx59), [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4) | [Lattiast kattoon \(feat\. Kube\)](https://open.spotify.com/album/12NYWLhQl25BMBpANqRgUI) | 2:00 |
-| 5 | [Meidän pöytä \(feat\. Cledos, Elastinen\)](https://open.spotify.com/track/2l67fMyuuQVC5wWx1VyXl3) | [vitunleija](https://open.spotify.com/artist/0nV8YXTHj3pP05WTGNBF5Z), [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe), [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Meidän pöytä \(feat\. Cledos, Elastinen\)](https://open.spotify.com/album/1FLnsRs0lg2odjBClHJ9tS) | 2:33 |
-| 6 | [Deja Vu](https://open.spotify.com/track/52XyOJi13FXLYPDWUT50Yi) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Deja Vu](https://open.spotify.com/album/4HNBqbiCT3DkMzSQMCcooa) | 2:19 |
+| 5 | [Deja Vu](https://open.spotify.com/track/52XyOJi13FXLYPDWUT50Yi) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Deja Vu](https://open.spotify.com/album/4HNBqbiCT3DkMzSQMCcooa) | 2:19 |
+| 6 | [Meidän pöytä \(feat\. Cledos, Elastinen\)](https://open.spotify.com/track/2l67fMyuuQVC5wWx1VyXl3) | [vitunleija](https://open.spotify.com/artist/0nV8YXTHj3pP05WTGNBF5Z), [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe), [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Meidän pöytä \(feat\. Cledos, Elastinen\)](https://open.spotify.com/album/1FLnsRs0lg2odjBClHJ9tS) | 2:33 |
 | 7 | [Tässä ja nyt \(feat\. william\)](https://open.spotify.com/track/52Jcc0xkoJyguwYnfKUnFU) | [Överi](https://open.spotify.com/artist/55ueMDhpCYDmeffxXff2Aw), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Tässä ja nyt \(feat\. william\)](https://open.spotify.com/album/5X4Ftxb2PKeexJD9V9zf62) | 2:45 |
 | 8 | [DNA](https://open.spotify.com/track/3pcwjQGRMsc9Q1zX0BQ2z2) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [DNA](https://open.spotify.com/album/2BD6tw7q1we7e7uleDNIK9) | 2:40 |
-| 9 | [Demoneista ystävii](https://open.spotify.com/track/3rK7sL207zzuVPq5iX0qpM) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Demoneista ystävii](https://open.spotify.com/album/2KfNKCtRsib5lzN9QbJsiS) | 3:01 |
-| 10 | [Haikailla](https://open.spotify.com/track/0WaM1Gm2pepIsQOGtUfEKG) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Haikailla](https://open.spotify.com/album/6Cf1dmW8TpCtRTF7xS4tIT) | 3:08 |
+| 9 | [Haikailla](https://open.spotify.com/track/0WaM1Gm2pepIsQOGtUfEKG) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Haikailla](https://open.spotify.com/album/6Cf1dmW8TpCtRTF7xS4tIT) | 3:08 |
+| 10 | [Demoneista ystävii](https://open.spotify.com/track/3rK7sL207zzuVPq5iX0qpM) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Demoneista ystävii](https://open.spotify.com/album/2KfNKCtRsib5lzN9QbJsiS) | 3:01 |
 | 11 | [Kiireinen nainen \(feat\. ibe\)](https://open.spotify.com/track/4haz2w5fIZagLEIOig3FGK) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Kiireinen nainen \(feat\. ibe\)](https://open.spotify.com/album/1rCAQxlXHja56iaCpyBLkb) | 3:04 |
 | 12 | [Kahdestaan \(la di da\)](https://open.spotify.com/track/4eUeYZTu9Hk7VlKkgSjfXz) | [T Swoop](https://open.spotify.com/artist/3XB4IVNkzpc80d9qmthhl3) | [Kahdestaan \(la di da\)](https://open.spotify.com/album/01k7k2mVuOAP8rzEFsPMjx) | 2:20 |
 | 13 | [Liian moni \(feat\. VJ\)](https://open.spotify.com/track/3QUpgNvOU1AQsxVrdUby1H) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe), [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2) | [euro musik](https://open.spotify.com/album/5RAmd82hWPvFBmUs73B5gO) | 2:21 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 59 | [Liikkuu Juttuu](https://open.spotify.com/track/7sQkF23GZt3EJYJflV8xVO) | [Jere](https://open.spotify.com/artist/3Oxf4EUF3hcY3qpqd5W04o) | [Liikkuu Juttuu](https://open.spotify.com/album/3PwvlZoFtHVCnFYTikVl36) | 3:03 |
 | 60 | [Oikotiet](https://open.spotify.com/track/1HFqG5KbdKJADAgFGa7cNK) | [Tuomas Kauhanen](https://open.spotify.com/artist/61ZSrIBRin3VT35hbvS5UE) | [Oikotiet](https://open.spotify.com/album/0IEJ4c8rIL16GtDMCMwLj0) | 2:24 |
 
-Snapshot ID: `MCw3NjJmNTQzNWEzYjZmNjEzYmE1ZmY5MjE5ZDk0YTA1YmMxYzVjNGNj`
+Snapshot ID: `MCxmYmY4NTczMTg1NmM1YzFlNDMxMWFhZjA0MjU4OGNlMjJhNTQ2YTQ4`

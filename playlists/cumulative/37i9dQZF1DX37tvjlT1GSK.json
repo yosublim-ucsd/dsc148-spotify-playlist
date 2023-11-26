@@ -276,7 +276,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 160108,
       "name": "Ando Triste",
       "url": "https://open.spotify.com/track/2NSr6ZIecxwvuLuMZIyQpm"
@@ -2984,6 +2984,24 @@
       "duration_ms": 208750,
       "name": "La Nueva Generacion",
       "url": "https://open.spotify.com/track/3XKbU2FWC2PDkaIAk4Gf8f"
+    },
+    {
+      "album": {
+        "name": "La Original",
+        "url": "https://open.spotify.com/album/2ANuDURJDHtHMgiaJOaBGO"
+      },
+      "artists": [
+        {
+          "name": "Los Lara",
+          "url": "https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137941,
+      "name": "La Original",
+      "url": "https://open.spotify.com/track/3py6gppNmac3Lt6dq81hbp"
     },
     {
       "album": {

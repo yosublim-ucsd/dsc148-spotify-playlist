@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pop-punk por siempre!",
-  "num_followers": 65800,
+  "num_followers": 65811,
   "original_name": "Escena Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Yzk3YmM3ZDk0ZjM2NDBhZGM2OTg5ODUzMDQyMDcwMDVjMTlkZTFj",
+  "snapshot_id": "MCxkNmJiNjMyZDdhNWU4Y2RjM2EwNzJiNTI1ODc0OWU4ODBhOTQ3NTA0",
   "tracks": [
     {
       "added_at": "2023-10-27 21:57:42",
@@ -519,6 +519,22 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
+        "name": "Fantasmas",
+        "url": "https://open.spotify.com/album/6DXXRDiKXGvJ69FRjVykHZ"
+      },
+      "artists": [
+        {
+          "name": "Aurum",
+          "url": "https://open.spotify.com/artist/4c0Bp0wMrzxY4LbvrBQnHB"
+        }
+      ],
+      "duration_ms": 216296,
+      "name": "Fantasmas",
+      "url": "https://open.spotify.com/track/4p1fdScUiB1t9idEW5r3sW"
+    },
+    {
+      "added_at": "2023-10-27 21:57:42",
+      "album": {
         "name": "J\u00e4ula",
         "url": "https://open.spotify.com/album/1yLnsXPIitOv2ExApCDEGE"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 226063,
       "name": "Cc (Como Compas)",
       "url": "https://open.spotify.com/track/5Bnn9MKvL9JGeBdbnSdB5O"
-    },
-    {
-      "added_at": "2023-10-27 21:57:42",
-      "album": {
-        "name": "Ciencia Ficci\u00f3n",
-        "url": "https://open.spotify.com/album/1wzWJCTRw6p6vSTnsQIQtG"
-      },
-      "artists": [
-        {
-          "name": "Buen Viaje",
-          "url": "https://open.spotify.com/artist/2JbVpWXj4zBylmwqoDrDhJ"
-        }
-      ],
-      "duration_ms": 224735,
-      "name": "Ciencia Ficci\u00f3n",
-      "url": "https://open.spotify.com/track/4G8wj2dAQxmJMXuNHsEKyf"
     },
     {
       "added_at": "2023-10-27 21:57:42",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
-        "name": "Fantasmas",
-        "url": "https://open.spotify.com/album/6DXXRDiKXGvJ69FRjVykHZ"
-      },
-      "artists": [
-        {
-          "name": "Aurum",
-          "url": "https://open.spotify.com/artist/4c0Bp0wMrzxY4LbvrBQnHB"
-        }
-      ],
-      "duration_ms": 216296,
-      "name": "Fantasmas",
-      "url": "https://open.spotify.com/track/4p1fdScUiB1t9idEW5r3sW"
-    },
-    {
-      "added_at": "2023-10-27 21:57:42",
-      "album": {
         "name": "El B\u00e1lsamo para los Sabios y los Buenos Perdedores",
         "url": "https://open.spotify.com/album/4L41cXrG4RL5W63unJLi6A"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 214592,
       "name": "Espero Nadie Ocupe Mi Lugar",
       "url": "https://open.spotify.com/track/3dc5ORKPHJyI9DVEUNZtl9"
+    },
+    {
+      "added_at": "2023-10-27 21:57:42",
+      "album": {
+        "name": "Ciencia Ficci\u00f3n",
+        "url": "https://open.spotify.com/album/1wzWJCTRw6p6vSTnsQIQtG"
+      },
+      "artists": [
+        {
+          "name": "Buen Viaje",
+          "url": "https://open.spotify.com/artist/2JbVpWXj4zBylmwqoDrDhJ"
+        }
+      ],
+      "duration_ms": 224735,
+      "name": "Ciencia Ficci\u00f3n",
+      "url": "https://open.spotify.com/track/4G8wj2dAQxmJMXuNHsEKyf"
     },
     {
       "added_at": "2023-10-27 21:57:42",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
-        "name": "Ella Miente",
-        "url": "https://open.spotify.com/album/1RD7dFPtirurqEyykabBi6"
-      },
-      "artists": [
-        {
-          "name": "Helian Evans",
-          "url": "https://open.spotify.com/artist/0zX0CnUqQpJKrwLhgLMN3N"
-        }
-      ],
-      "duration_ms": 139700,
-      "name": "Ella Miente",
-      "url": "https://open.spotify.com/track/6cCsyE7NzSudXeDNuLS0Hp"
-    },
-    {
-      "added_at": "2023-10-27 21:57:42",
-      "album": {
         "name": "La teor\u00eda de los septenios",
         "url": "https://open.spotify.com/album/0reFkfAIDklJl8B2CCqxwo"
       },
@@ -703,6 +687,22 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
+        "name": "Ella Miente",
+        "url": "https://open.spotify.com/album/1RD7dFPtirurqEyykabBi6"
+      },
+      "artists": [
+        {
+          "name": "Helian Evans",
+          "url": "https://open.spotify.com/artist/0zX0CnUqQpJKrwLhgLMN3N"
+        }
+      ],
+      "duration_ms": 139700,
+      "name": "Ella Miente",
+      "url": "https://open.spotify.com/track/6cCsyE7NzSudXeDNuLS0Hp"
+    },
+    {
+      "added_at": "2023-10-27 21:57:42",
+      "album": {
         "name": "Bacard\u00ed",
         "url": "https://open.spotify.com/album/3tNAKRAt8mpmVJih2RCW7G"
       },
@@ -715,26 +715,6 @@
       "duration_ms": 151572,
       "name": "Bacard\u00ed",
       "url": "https://open.spotify.com/track/4PZ0I8gxiq4NUK43UOrWUu"
-    },
-    {
-      "added_at": "2023-10-27 21:57:42",
-      "album": {
-        "name": "Autodestrucci\u00f3n",
-        "url": "https://open.spotify.com/album/3OeUOu3JA9jwSWqE95VPrR"
-      },
-      "artists": [
-        {
-          "name": "Buen Viaje",
-          "url": "https://open.spotify.com/artist/2JbVpWXj4zBylmwqoDrDhJ"
-        },
-        {
-          "name": "Fear Allison",
-          "url": "https://open.spotify.com/artist/75t1ar10ekAij353mysCMK"
-        }
-      ],
-      "duration_ms": 234437,
-      "name": "Conversaciones Con Mi Almohada",
-      "url": "https://open.spotify.com/track/56azZHaAdx4Ml2GybnV58P"
     },
     {
       "added_at": "2023-10-27 21:57:42",
@@ -767,6 +747,26 @@
       "duration_ms": 228920,
       "name": "Humanos Como T\u00fa",
       "url": "https://open.spotify.com/track/3fvNWLnmratSXuqcVXIHyU"
+    },
+    {
+      "added_at": "2023-10-27 21:57:42",
+      "album": {
+        "name": "Autodestrucci\u00f3n",
+        "url": "https://open.spotify.com/album/3OeUOu3JA9jwSWqE95VPrR"
+      },
+      "artists": [
+        {
+          "name": "Buen Viaje",
+          "url": "https://open.spotify.com/artist/2JbVpWXj4zBylmwqoDrDhJ"
+        },
+        {
+          "name": "Fear Allison",
+          "url": "https://open.spotify.com/artist/75t1ar10ekAij353mysCMK"
+        }
+      ],
+      "duration_ms": 234437,
+      "name": "Conversaciones Con Mi Almohada",
+      "url": "https://open.spotify.com/track/56azZHaAdx4Ml2GybnV58P"
     },
     {
       "added_at": "2023-10-27 21:57:42",

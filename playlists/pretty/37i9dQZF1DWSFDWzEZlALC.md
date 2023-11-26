@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Provinz, ENNIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,789 likes - 75 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,038 likes - 75 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 29 | [Mo\-Fr](https://open.spotify.com/track/5yNUQuj43NzLCXqCOjWfGZ) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [Mo\-Fr](https://open.spotify.com/album/4etBEAEb9JcVFw1CwmgUmt) | 2:53 |
 | 30 | [Parfüm](https://open.spotify.com/track/7eRSNIlv45XoIDKu9WnpNh) | [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3) | [Parfüm](https://open.spotify.com/album/0zbxVAuSLPtJdVwSqTyBvM) | 2:04 |
 | 31 | [Utopie](https://open.spotify.com/track/5dEk2G5Cdklq7eZFCrTIkm) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Utopie](https://open.spotify.com/album/7k8u3WFdC2fHOmp9VWsC2E) | 2:43 |
-| 32 | [Etwas Neues Beginnt](https://open.spotify.com/track/69S8tugy2hU1qGVXQ6c5lD) | [RAR](https://open.spotify.com/artist/0ms1soCPtzKiqFMK198lya) | [Etwas Neues Beginnt](https://open.spotify.com/album/6ccUBn5gB1wqIS5KfRqaSG) | 3:00 |
+| 32 | [Etwas Neues beginnt](https://open.spotify.com/track/7LbRCCUHkWEc7tyDP7h1uz) | [RAR](https://open.spotify.com/artist/0ms1soCPtzKiqFMK198lya) | [Maschinenmensch EP](https://open.spotify.com/album/0aB1rZ0lKJU3dIea7UkFrf) | 3:00 |
 | 33 | [1000 Liter Teer](https://open.spotify.com/track/6rO1YKvGeBdLQ0h2IuLvLt) | [therror](https://open.spotify.com/artist/19umoxJexdhKLQBrkUngZq) | [1000 Liter Teer](https://open.spotify.com/album/17xJVBmWiOyJVjCRb2bVaT) | 3:08 |
 | 34 | [Schlaf gut](https://open.spotify.com/track/1gUDyPpx99jRTVgSvrWEjl) | [Betterov](https://open.spotify.com/artist/2LTDsDjf02umXildBzlrKZ), [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Schlaf gut](https://open.spotify.com/album/1Swdd6ktgwOrIYVCk3v4m7) | 3:21 |
 | 35 | [nie wieder \(mundsburg\)](https://open.spotify.com/track/1y7KRS1FcDLVC8Y3uqLxJI) | [katlix](https://open.spotify.com/artist/2w9SZxjM9DUKiFsMhAk5Lr) | [U3](https://open.spotify.com/album/1uWOEbea8gCuMPCGNN64mt) | 2:51 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Es regnet Hirn \(feat\. Paula Carolina\)](https://open.spotify.com/track/02Y7L1qY9Z771QO2w3ubgk) | [OK KID](https://open.spotify.com/artist/5syyAQTWJ2BaLtjOKE99MK), [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Es regnet Hirn \(feat\. Paula Carolina\)](https://open.spotify.com/album/0ip66XV3S8XeOHlqymdX0M) | 3:14 |
 | 75 | [primetime](https://open.spotify.com/track/2gsaXMADNny0n6eHFeBryZ) | [Alli Neumann](https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh) | [PRIMETIME](https://open.spotify.com/album/3RK4pNM1XeJ0ZxhKHdSuKr) | 2:51 |
 
-Snapshot ID: `MCxhOTA2Y2ZmMzQ4NWZhOWJkN2U4ODNmYTdhZjM0NWFiOWRmOTJlYzJh`
+Snapshot ID: `MCwxZDY5ZjNkMjcxZTFiYWQwMjhjN2IzYzY4NjU2OGM0MTViZGU0OWEw`

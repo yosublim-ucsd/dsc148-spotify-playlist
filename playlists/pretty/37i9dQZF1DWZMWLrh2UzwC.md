@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Alextbh
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,193 likes - 83 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,197 likes - 84 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 16 | [狂愛](https://open.spotify.com/track/5PvlPTFo3pcJPmSTDEDKaW) | [Will Pan](https://open.spotify.com/artist/7fCFxj1GCRqwFZEP4iJRw0) | [狂愛](https://open.spotify.com/album/6PkgN0xRFvSm1W8C9mE4ID) | 3:00 |
 | 17 | [我愛我](https://open.spotify.com/track/01EimQYtqVold1ENssqpJG) | [张静汶](https://open.spotify.com/artist/6H1fGzH3FVEgBEinAi4rcB), [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [我愛我](https://open.spotify.com/album/10KpBrH2fURIk1sTanzQPu) | 3:58 |
 | 18 | [Love Me](https://open.spotify.com/track/2NI01lKPFK3Qa3t7uE1AP9) | [Ben Hum](https://open.spotify.com/artist/4ATqdfAOYsKwaVVPEktade) | [Love Me](https://open.spotify.com/album/4DH3aQkGrZtjr844Sm3yuI) | 2:36 |
-| 19 | [Time Machine \(feat\. MSPUIYI\)](https://open.spotify.com/track/0mZFBV9kO5a9DmzV16j9IA) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [MSPUIYI](https://open.spotify.com/artist/1kcyeJ6CdwVqRsKEmkb9Ul) | [Time Machine \(feat\. MSPUIYI\)](https://open.spotify.com/album/1Xu73EVMOz9PQm6NhUmt1w) | 2:27 |
+| 19 | [Time Machine \(with MSPUIYI\)](https://open.spotify.com/track/0mZFBV9kO5a9DmzV16j9IA) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [MSPUIYI](https://open.spotify.com/artist/1kcyeJ6CdwVqRsKEmkb9Ul) | [Time Machine \(with MSPUIYI\)](https://open.spotify.com/album/1Xu73EVMOz9PQm6NhUmt1w) | 2:27 |
 | 20 | [orbit](https://open.spotify.com/track/1xMtUb8b1DxW89FJfxOwPN) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [orbit](https://open.spotify.com/album/5xLRIrNswkxjD0U0z47Rw2) | 3:09 |
 | 21 | [Oral](https://open.spotify.com/track/6VCNxAwxA83j2jE3QZpYPr) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Oral](https://open.spotify.com/album/0Jldmuyjx6v7nMefI7y00r) | 3:42 |
 | 22 | [Memory Lane](https://open.spotify.com/track/7hHrs2q5c5rtzHLJ2DKHTT) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Memory Lane & Winter Song](https://open.spotify.com/album/5IvpvVd9LKgHACcUSHL5Y8) | 3:12 |
@@ -80,16 +80,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 70 | [Cheerleaders and Jocks](https://open.spotify.com/track/6AJbBmXX4GCr5ANj9goh0j) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [Cheerleaders and Jocks](https://open.spotify.com/album/0x1qVcEYZiyq36Ps01Til8) | 3:47 |
 | 71 | [You Keep Me Hangin' On](https://open.spotify.com/track/2B65GgIvpaodTEPWLxUzLz) | [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn) | [You Keep Me Hangin' On](https://open.spotify.com/album/2LQwEkWtjKtUacX1uaw0PF) | 2:42 |
 | 72 | [Sleep](https://open.spotify.com/track/76JrGQqPhi5WnVjuvNGMtK) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Sleep](https://open.spotify.com/album/6iap0f96nMrJ30TDGVz8Uz) | 2:26 |
-| 73 | [Joka \(Feat\. Mommy Son\)](https://open.spotify.com/track/7CI1d4tLSat7LRVejFDtLU) | [Mad Clown](https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd), [Mommy Son](https://open.spotify.com/artist/5xWKWXamxbujIdti9xpnI1) | [Joka \(Feat\. Mommy Son\)](https://open.spotify.com/album/33XBIAjZa0RJSfXworyYdY) | 2:56 |
-| 74 | [Mr\. Streetboy](https://open.spotify.com/track/63TccNreszvD0ySqpH6N6C) | [Cassette Tape](https://open.spotify.com/artist/45d9rjxmTAPHleESx39ao2) | [Mr\. Streetboy](https://open.spotify.com/album/3KhbDtI5OTPm6eVXRIS1gT) | 3:06 |
-| 75 | [How It Feels?](https://open.spotify.com/track/3pmpUSlpO7rh9s6UsMyZBK) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [How It Feels?](https://open.spotify.com/album/26wAehJGNA8S5z1xMWTa8b) | 3:28 |
-| 76 | [By your side](https://open.spotify.com/track/0CNEESKVtSFkpBdrJG3tjr) | [Na Go Eun](https://open.spotify.com/artist/3cFnHYO4lVvrdvvbkJX6n8) | [By your side](https://open.spotify.com/album/1IPhcJ1QPd88T1KpZCRCCa) | 3:41 |
-| 77 | [Lucky Rocky](https://open.spotify.com/track/0PgyNpeXr3jyNBqIGTPBDA) | [ROCKY](https://open.spotify.com/artist/3bQABAi10Xqg1WsMAhYdBZ) | [ROCKYST](https://open.spotify.com/album/4CWhaTZxTkiPKGRiK47CRw) | 2:29 |
-| 78 | [ODD\-VENTURE](https://open.spotify.com/track/4Qph4A9VjmB9c5W1XFoWY4) | [MCND](https://open.spotify.com/artist/59dDRtMe8DILtibke8FWLK) | [ODD\-VENTURE](https://open.spotify.com/album/4dnRFripiPgsKl90ULXuYN) | 3:15 |
-| 79 | [Playground](https://open.spotify.com/track/5k7uSbk9yjoE33xxZykk0A) | [LUN8wave](https://open.spotify.com/artist/2FYHKERCCUPvQVfemQT4Vi) | [Playground](https://open.spotify.com/album/5cGlKbQ7B5JwVoRHTCjTIx) | 3:03 |
-| 80 | [Believe In Myself](https://open.spotify.com/track/047hYmw8Viqwx4cavskXVy) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [Believe In Myself](https://open.spotify.com/album/5ngmMrPiCbLRleKZXj3zqV) | 3:41 |
-| 81 | [So Human \(feat\. TALA\)](https://open.spotify.com/track/4InSeposZUrX2aIFfiAJMN) | [Matter Halo](https://open.spotify.com/artist/2KRTc4R7uXYt0NE3eyyBtT), [TALA](https://open.spotify.com/artist/2VL6HPPI1raa3qKW6NUNBR) | [Nightvision \(Love Is God 14/16 Edition\)](https://open.spotify.com/album/7KVfISd8W2SkeymuYGPOmH) | 6:02 |
-| 82 | [Grape Soda](https://open.spotify.com/track/5KJAvewEPVPOU3OnL6bhwH) | [Gabe Watkins](https://open.spotify.com/artist/2GtFIN8b3SolBC7mmCPAAA) | [Grape Soda](https://open.spotify.com/album/6skFJuskZ23J7NXBNfFR8z) | 3:35 |
-| 83 | [Memory Lane](https://open.spotify.com/track/6Z9dmhwOZ3wlCfCrjkWMNk) | [CHUROSE](https://open.spotify.com/artist/4y9Jhm3jRfDCgGJ3kgyGDp) | [Memory Lane](https://open.spotify.com/album/0aLUKwVWBquLge7Ztf2LO4) | 3:18 |
+| 73 | [You Did Say So](https://open.spotify.com/track/5LcRW8Wc8GY8rgQ2qyGDzY) | [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z) | [You Did Say So](https://open.spotify.com/album/7aaF8AENb7UviBm2Q1yFGh) | 3:25 |
+| 74 | [Joka \(Feat\. Mommy Son\)](https://open.spotify.com/track/7CI1d4tLSat7LRVejFDtLU) | [Mad Clown](https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd), [Mommy Son](https://open.spotify.com/artist/5xWKWXamxbujIdti9xpnI1) | [Joka \(Feat\. Mommy Son\)](https://open.spotify.com/album/33XBIAjZa0RJSfXworyYdY) | 2:56 |
+| 75 | [Mr\. Streetboy](https://open.spotify.com/track/63TccNreszvD0ySqpH6N6C) | [Cassette Tape](https://open.spotify.com/artist/45d9rjxmTAPHleESx39ao2) | [Mr\. Streetboy](https://open.spotify.com/album/3KhbDtI5OTPm6eVXRIS1gT) | 3:06 |
+| 76 | [How It Feels?](https://open.spotify.com/track/3pmpUSlpO7rh9s6UsMyZBK) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [How It Feels?](https://open.spotify.com/album/26wAehJGNA8S5z1xMWTa8b) | 3:28 |
+| 77 | [By your side](https://open.spotify.com/track/0CNEESKVtSFkpBdrJG3tjr) | [Na Go Eun](https://open.spotify.com/artist/3cFnHYO4lVvrdvvbkJX6n8) | [By your side](https://open.spotify.com/album/1IPhcJ1QPd88T1KpZCRCCa) | 3:41 |
+| 78 | [Lucky Rocky](https://open.spotify.com/track/0PgyNpeXr3jyNBqIGTPBDA) | [ROCKY](https://open.spotify.com/artist/3bQABAi10Xqg1WsMAhYdBZ) | [ROCKYST](https://open.spotify.com/album/4CWhaTZxTkiPKGRiK47CRw) | 2:29 |
+| 79 | [ODD\-VENTURE](https://open.spotify.com/track/4Qph4A9VjmB9c5W1XFoWY4) | [MCND](https://open.spotify.com/artist/59dDRtMe8DILtibke8FWLK) | [ODD\-VENTURE](https://open.spotify.com/album/4dnRFripiPgsKl90ULXuYN) | 3:15 |
+| 80 | [Playground](https://open.spotify.com/track/5k7uSbk9yjoE33xxZykk0A) | [LUN8wave](https://open.spotify.com/artist/2FYHKERCCUPvQVfemQT4Vi) | [Playground](https://open.spotify.com/album/5cGlKbQ7B5JwVoRHTCjTIx) | 3:03 |
+| 81 | [Believe In Myself](https://open.spotify.com/track/047hYmw8Viqwx4cavskXVy) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [Believe In Myself](https://open.spotify.com/album/5ngmMrPiCbLRleKZXj3zqV) | 3:41 |
+| 82 | [So Human \(feat\. TALA\)](https://open.spotify.com/track/4InSeposZUrX2aIFfiAJMN) | [Matter Halo](https://open.spotify.com/artist/2KRTc4R7uXYt0NE3eyyBtT), [TALA](https://open.spotify.com/artist/2VL6HPPI1raa3qKW6NUNBR) | [Nightvision \(Love Is God 14/16 Edition\)](https://open.spotify.com/album/7KVfISd8W2SkeymuYGPOmH) | 6:02 |
+| 83 | [Grape Soda](https://open.spotify.com/track/5KJAvewEPVPOU3OnL6bhwH) | [Gabe Watkins](https://open.spotify.com/artist/2GtFIN8b3SolBC7mmCPAAA) | [Grape Soda](https://open.spotify.com/album/6skFJuskZ23J7NXBNfFR8z) | 3:35 |
+| 84 | [Memory Lane](https://open.spotify.com/track/6Z9dmhwOZ3wlCfCrjkWMNk) | [CHUROSE](https://open.spotify.com/artist/4y9Jhm3jRfDCgGJ3kgyGDp) | [Memory Lane](https://open.spotify.com/album/0aLUKwVWBquLge7Ztf2LO4) | 3:18 |
 
-Snapshot ID: `MCwxYzkzOTdiZTQ5ZTA2MTFkNWYzMjMxYWExMjhjMmJmOGFhYzU0MDIw`
+Snapshot ID: `MCwzMWI3YmM1NjA5NWY1ZGRhMDk5YWQwYTljM2MxZWQ1NDk0NDE0ZTcx`

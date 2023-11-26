@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星！Cover: Jocelyn 9.4.0
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,760 likes - 72 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,766 likes - 72 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 71 | [睡不著](https://open.spotify.com/track/0GM2W66glRyOBd1Ckw43eF) | [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [A Bedroom of One's Own](https://open.spotify.com/album/106w7wcRpHY8hqHhajG3nb) | 4:00 |
 | 72 | [打噴嚏 \(feat\. Lulu 黃路梓茵\)](https://open.spotify.com/track/2tCAtipSgQFH6g3IlhX0BK) | [Gail](https://open.spotify.com/artist/6l81JeOQ3usizemdSG6mP7), [Lulu Huang Lu Zi Yin](https://open.spotify.com/artist/1Qx9W9TY2vPox7BS9urTlK) | [無法掩蓋](https://open.spotify.com/album/7CAoh9ST8o6uSAmTgbOZAB) | 3:37 |
 
-Snapshot ID: `MCw4Y2NlNDQzMWE5YTU4YWM2NDM0MTI1ZGMwOWVmOGViZWVlMzlhOWEz`
+Snapshot ID: `MCwyMTg0ZjdkZTQ0OGRiZTI2MGMzY2ViZjcwNTI1Mjc4NWI3NWMwODZm`

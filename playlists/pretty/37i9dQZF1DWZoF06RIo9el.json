@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de noviembre 2023",
-  "num_followers": 1537963,
+  "num_followers": 1538013,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwM2U2NDhkM2UyZTA1NmZmMjIxZTYwYTA2YTYyYmZlYWI1Njc2N2Rj",
+  "snapshot_id": "MCxiY2IyNmE4MzJjYmZmZTFmODE3ODc0OGM1NjllYTRmZGYyOTQ3MmM4",
   "tracks": [
     {
       "added_at": "2023-11-07 18:06:21",
@@ -543,26 +543,6 @@
     {
       "added_at": "2023-11-07 18:06:21",
       "album": {
-        "name": "Trajecito XS",
-        "url": "https://open.spotify.com/album/7GBVZbQlOaJzfzxo7kCHQ1"
-      },
-      "artists": [
-        {
-          "name": "Alejo",
-          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 220880,
-      "name": "Trajecito XS",
-      "url": "https://open.spotify.com/track/535EyYs5tDynf3kt9niGa4"
-    },
-    {
-      "added_at": "2023-11-07 18:06:21",
-      "album": {
         "name": "LULUNA",
         "url": "https://open.spotify.com/album/6ONpKrCEQZQGVCULcGTEcq"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 188592,
       "name": "LULUNA",
       "url": "https://open.spotify.com/track/3FEEtt6a2JNuoxkBPOaFO8"
+    },
+    {
+      "added_at": "2023-11-07 18:06:21",
+      "album": {
+        "name": "Trajecito XS",
+        "url": "https://open.spotify.com/album/7GBVZbQlOaJzfzxo7kCHQ1"
+      },
+      "artists": [
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 220880,
+      "name": "Trajecito XS",
+      "url": "https://open.spotify.com/track/535EyYs5tDynf3kt9niGa4"
     },
     {
       "added_at": "2023-11-07 18:06:21",

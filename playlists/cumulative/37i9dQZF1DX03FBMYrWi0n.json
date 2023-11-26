@@ -1808,10 +1808,28 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 295687,
       "name": "Peupliers",
       "url": "https://open.spotify.com/track/1CvXAfQiVuP7wdDK7O3xX1"
+    },
+    {
+      "album": {
+        "name": "I-IV",
+        "url": "https://open.spotify.com/album/5wT1hbnJLcieEspdBaKuz3"
+      },
+      "artists": [
+        {
+          "name": "Totalement Sublime",
+          "url": "https://open.spotify.com/artist/1aeePX7Ou6mrvZYVUpk4OY"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295687,
+      "name": "Peupliers",
+      "url": "https://open.spotify.com/track/7eqIIVv89zKpa0QfWeGQEK"
     },
     {
       "album": {

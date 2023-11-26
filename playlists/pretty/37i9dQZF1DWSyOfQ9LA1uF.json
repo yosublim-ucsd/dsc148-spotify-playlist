@@ -1,28 +1,28 @@
 {
   "description": "Bedroom bootlegs and electroclash gems. Cover: MGMT",
-  "num_followers": 68092,
+  "num_followers": 68129,
   "original_name": "Bloghouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzA1ODc5NmM5MjA2N2MxODQ1MWM3MjI4MDQ0ZWFmNjIyOTFkNTVh",
+  "snapshot_id": "MCw3MjA1ZmJkNzA0MmY2MTMzYzNjYzQ1MWYxMDhjZDcxY2E5MjM2YjYz",
   "tracks": [
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
-        "name": "Bag Raiders (Deluxe)",
-        "url": "https://open.spotify.com/album/6zVi5jNALX1GeD3MxiFmqo"
+        "name": "Crystal Castles",
+        "url": "https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH"
       },
       "artists": [
         {
-          "name": "Bag Raiders",
-          "url": "https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46"
+          "name": "Crystal Castles",
+          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
         }
       ],
-      "duration_ms": 235813,
-      "name": "Shooting Stars",
-      "url": "https://open.spotify.com/track/0UeYCHOETPfai02uskjJ3x"
+      "duration_ms": 258453,
+      "name": "Crimewave",
+      "url": "https://open.spotify.com/track/3TjliM0xQ3fkza0RpINRrq"
     },
     {
       "added_at": "2022-08-24 22:29:13",
@@ -283,6 +283,22 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
+        "name": "Bag Raiders (Deluxe)",
+        "url": "https://open.spotify.com/album/6zVi5jNALX1GeD3MxiFmqo"
+      },
+      "artists": [
+        {
+          "name": "Bag Raiders",
+          "url": "https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46"
+        }
+      ],
+      "duration_ms": 235813,
+      "name": "Shooting Stars",
+      "url": "https://open.spotify.com/track/0UeYCHOETPfai02uskjJ3x"
+    },
+    {
+      "added_at": "2022-08-24 22:29:13",
+      "album": {
         "name": "Tongue N' Cheek (Dirtee Deluxe Edition)",
         "url": "https://open.spotify.com/album/0tbxVYstYiHpBwA7qYL1hC"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 335800,
       "name": "I Think I Like It",
       "url": "https://open.spotify.com/track/5cPcd6pLrpDVmKnonjd3EQ"
-    },
-    {
-      "added_at": "2022-08-24 22:29:13",
-      "album": {
-        "name": "Crystal Castles",
-        "url": "https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH"
-      },
-      "artists": [
-        {
-          "name": "Crystal Castles",
-          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-        }
-      ],
-      "duration_ms": 258453,
-      "name": "Crimewave",
-      "url": "https://open.spotify.com/track/3TjliM0xQ3fkza0RpINRrq"
     },
     {
       "added_at": "2022-08-24 22:29:13",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
-        "name": "Fancy Footwork",
-        "url": "https://open.spotify.com/album/3nfMATNPBENRMg1sV88nNF"
-      },
-      "artists": [
-        {
-          "name": "Chromeo",
-          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
-        }
-      ],
-      "duration_ms": 198093,
-      "name": "Fancy Footwork",
-      "url": "https://open.spotify.com/track/2kBt8AO9HZn8VvtyPhWX1o"
-    },
-    {
-      "added_at": "2022-08-24 22:29:13",
-      "album": {
         "name": "Lucky Boy At Night",
         "url": "https://open.spotify.com/album/34ir3zlhfLzKq2kO54Gall"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 218626,
       "name": "Signatune - Thomas Bangalter Edit",
       "url": "https://open.spotify.com/track/0lbVB3ktcJkLZwX3GkiNi9"
+    },
+    {
+      "added_at": "2022-08-24 22:29:13",
+      "album": {
+        "name": "Fancy Footwork",
+        "url": "https://open.spotify.com/album/3nfMATNPBENRMg1sV88nNF"
+      },
+      "artists": [
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        }
+      ],
+      "duration_ms": 198093,
+      "name": "Fancy Footwork",
+      "url": "https://open.spotify.com/track/2kBt8AO9HZn8VvtyPhWX1o"
     },
     {
       "added_at": "2022-08-24 22:29:13",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
-        "name": "Idealism",
-        "url": "https://open.spotify.com/album/50MnC37ZrDB6U94K6M1do8"
-      },
-      "artists": [
-        {
-          "name": "Digitalism",
-          "url": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
-        }
-      ],
-      "duration_ms": 250693,
-      "name": "Idealistic",
-      "url": "https://open.spotify.com/track/2VbIou1DtUewZVgfte6kIW"
-    },
-    {
-      "added_at": "2022-08-24 22:29:13",
-      "album": {
         "name": "Lucky Boy At Night",
         "url": "https://open.spotify.com/album/34ir3zlhfLzKq2kO54Gall"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 266480,
       "name": "Lucky Boy - Outlines Remix",
       "url": "https://open.spotify.com/track/5zWOZ9upQkrFL5lfZ8GPCh"
+    },
+    {
+      "added_at": "2022-08-24 22:29:13",
+      "album": {
+        "name": "Idealism",
+        "url": "https://open.spotify.com/album/50MnC37ZrDB6U94K6M1do8"
+      },
+      "artists": [
+        {
+          "name": "Digitalism",
+          "url": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
+        }
+      ],
+      "duration_ms": 250693,
+      "name": "Idealistic",
+      "url": "https://open.spotify.com/track/2VbIou1DtUewZVgfte6kIW"
     },
     {
       "added_at": "2022-08-24 22:29:13",

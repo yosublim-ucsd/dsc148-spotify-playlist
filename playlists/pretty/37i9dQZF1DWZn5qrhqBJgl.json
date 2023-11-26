@@ -1,12 +1,12 @@
 {
   "description": "Dope global beat makers. <a href=\"spotify:artist:4fOizZJsCaT3RYpqNdeGKk\">Thanks Joey</a>",
-  "num_followers": 107882,
+  "num_followers": 107928,
   "original_name": "Dope Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNThmNzFjOTM5MWZkNGM1MzYzYzg0NzUzN2I0YmVlZmM5YjU4ZmVk",
+  "snapshot_id": "MCw1YzE1OTFiYmI2MGNiYjU5ZDExZTA5NzJhZTJmODUwNTkzNzM1M2Zk",
   "tracks": [
     {
       "added_at": "2022-03-22 11:23:16",
@@ -311,6 +311,22 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
+        "name": "Signs",
+        "url": "https://open.spotify.com/album/6A3ddeuWO08Vezfc0ArP7N"
+      },
+      "artists": [
+        {
+          "name": "C Y G N",
+          "url": "https://open.spotify.com/artist/6OgHTWl7y9oeccoxeXXDPn"
+        }
+      ],
+      "duration_ms": 200597,
+      "name": "Signs",
+      "url": "https://open.spotify.com/track/6K4UmGe34YIIdnmFfSB6jP"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
         "name": "Arabstazy - Under Frustration Vol. 2",
         "url": "https://open.spotify.com/album/57xfOZGUXk91oUUnlMrxPW"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 322842,
       "name": "Ik Vari Do Vari",
       "url": "https://open.spotify.com/track/6tEhSz0ct5TlKXBsSNWIHa"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
-        "name": "Signs",
-        "url": "https://open.spotify.com/album/6A3ddeuWO08Vezfc0ArP7N"
-      },
-      "artists": [
-        {
-          "name": "C Y G N",
-          "url": "https://open.spotify.com/artist/6OgHTWl7y9oeccoxeXXDPn"
-        }
-      ],
-      "duration_ms": 200597,
-      "name": "Signs",
-      "url": "https://open.spotify.com/track/6K4UmGe34YIIdnmFfSB6jP"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -511,18 +511,18 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Be Mine",
-        "url": "https://open.spotify.com/album/3D4AoTdYFTk0kWbSd9kBR8"
+        "name": "Draai Je Om",
+        "url": "https://open.spotify.com/album/75LwEJvg8k29QAbzPGQXaf"
       },
       "artists": [
         {
-          "name": "Amine Maxwell",
-          "url": "https://open.spotify.com/artist/7fBgvBDrg5ZA7YvweEd1Ii"
+          "name": "Gio",
+          "url": "https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS"
         }
       ],
-      "duration_ms": 122587,
-      "name": "Be Mine",
-      "url": "https://open.spotify.com/track/0H1tDY1dWsJk4f7Y9TmzdN"
+      "duration_ms": 194984,
+      "name": "Draai Je Om - Instrumental",
+      "url": "https://open.spotify.com/track/7KVqGZPu3a2IaCUx6wbXLR"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -543,6 +543,22 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
+        "name": "Be Mine",
+        "url": "https://open.spotify.com/album/3D4AoTdYFTk0kWbSd9kBR8"
+      },
+      "artists": [
+        {
+          "name": "Amine Maxwell",
+          "url": "https://open.spotify.com/artist/7fBgvBDrg5ZA7YvweEd1Ii"
+        }
+      ],
+      "duration_ms": 122587,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/0H1tDY1dWsJk4f7Y9TmzdN"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
         "name": "Targa",
         "url": "https://open.spotify.com/album/1tgeNyPWndmO5FN0xvZFC3"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 172068,
       "name": "Targa",
       "url": "https://open.spotify.com/track/3plV0LOsX8KuJ3zWzB97Lc"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
-        "name": "Draai Je Om",
-        "url": "https://open.spotify.com/album/75LwEJvg8k29QAbzPGQXaf"
-      },
-      "artists": [
-        {
-          "name": "Gio",
-          "url": "https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS"
-        }
-      ],
-      "duration_ms": 194984,
-      "name": "Draai Je Om - Instrumental",
-      "url": "https://open.spotify.com/track/7KVqGZPu3a2IaCUx6wbXLR"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -627,8 +627,8 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Arrival",
-        "url": "https://open.spotify.com/album/5LNZcwaftnv3Guu9h7wtAe"
+        "name": "Eshkol",
+        "url": "https://open.spotify.com/album/4vuuyt8VMuzSOzjKkVzDeV"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA"
         }
       ],
-      "duration_ms": 165957,
-      "name": "Arrival",
-      "url": "https://open.spotify.com/track/7uzPqqddeuLnSf22N4nCJm"
+      "duration_ms": 118588,
+      "name": "Eshkol",
+      "url": "https://open.spotify.com/track/5MlDCzLbDIMw1ZdfkI7rCQ"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Crushing",
-        "url": "https://open.spotify.com/album/0cAXEMWNAvsGfc6t2AIutV"
-      },
-      "artists": [
-        {
-          "name": "helistofax",
-          "url": "https://open.spotify.com/artist/1OFeufWeaCNizpr4djN3qW"
-        }
-      ],
-      "duration_ms": 131350,
-      "name": "Crushing",
-      "url": "https://open.spotify.com/track/3tYmkRTiIWqJxz9XqSAQCS"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Skye",
         "url": "https://open.spotify.com/album/5sQMdn4wUgSkwz3XzyfzgT"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 190098,
       "name": "Skye",
       "url": "https://open.spotify.com/track/3zwh6p8XI0Afw46DUkijRd"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Crushing",
+        "url": "https://open.spotify.com/album/0cAXEMWNAvsGfc6t2AIutV"
+      },
+      "artists": [
+        {
+          "name": "helistofax",
+          "url": "https://open.spotify.com/artist/1OFeufWeaCNizpr4djN3qW"
+        }
+      ],
+      "duration_ms": 131350,
+      "name": "Crushing",
+      "url": "https://open.spotify.com/track/3tYmkRTiIWqJxz9XqSAQCS"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -755,8 +755,8 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Eshkol",
-        "url": "https://open.spotify.com/album/4vuuyt8VMuzSOzjKkVzDeV"
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/5LNZcwaftnv3Guu9h7wtAe"
       },
       "artists": [
         {
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA"
         }
       ],
-      "duration_ms": 118588,
-      "name": "Eshkol",
-      "url": "https://open.spotify.com/track/5MlDCzLbDIMw1ZdfkI7rCQ"
+      "duration_ms": 165957,
+      "name": "Arrival",
+      "url": "https://open.spotify.com/track/7uzPqqddeuLnSf22N4nCJm"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Sadkid",
-        "url": "https://open.spotify.com/album/56frZIAiRNfLJkSUeNhPMp"
-      },
-      "artists": [
-        {
-          "name": "Samtozi",
-          "url": "https://open.spotify.com/artist/263DDNMHg38ycXZLljVMPY"
-        }
-      ],
-      "duration_ms": 181347,
-      "name": "Sadkid",
-      "url": "https://open.spotify.com/track/096msV2KaAwqi5P0PWJqfb"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "If You Show Me Love",
         "url": "https://open.spotify.com/album/6O0f7boDgPl6KhA1YIAR2i"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 90044,
       "name": "If You Show Me Love",
       "url": "https://open.spotify.com/track/60xIJpG6Iah0i5IQxyRlXK"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Sadkid",
+        "url": "https://open.spotify.com/album/56frZIAiRNfLJkSUeNhPMp"
+      },
+      "artists": [
+        {
+          "name": "Samtozi",
+          "url": "https://open.spotify.com/artist/263DDNMHg38ycXZLljVMPY"
+        }
+      ],
+      "duration_ms": 181347,
+      "name": "Sadkid",
+      "url": "https://open.spotify.com/track/096msV2KaAwqi5P0PWJqfb"
     },
     {
       "added_at": "2022-03-22 11:23:16",

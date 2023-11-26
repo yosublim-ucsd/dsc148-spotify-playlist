@@ -4,7 +4,7 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-333 songs - 19 hr 10 min
+334 songs - 19 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Apasionadamente](https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Apasionadamente](https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks) | 3:00 | 2021-12-09 |  |
 | [Aquí Vinimos \- El Que Busca Mix](https://open.spotify.com/track/4XYDvFGIzgCg3QGqpwB1I8) | [Cheo & Ulises Hadjis](https://open.spotify.com/artist/7IKuQRkkcfoycYLQVDGLpg) | [Aquí Vinimos \(El Que Busca Mix\)](https://open.spotify.com/album/4pCn6UMCYtGWObf3x9vBp6) | 2:30 | 2022-04-07 | 2022-04-21 |
 | [Aquí voy a estar](https://open.spotify.com/track/6YIDc3upMMQlfqCcsQIPCz) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM), [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4) | [Aquí voy a estar](https://open.spotify.com/album/1gtfWLpH8iADoYRAs0QnHe) | 4:30 | 2022-04-07 | 2023-04-12 |
-| [Arabia](https://open.spotify.com/track/7KneZ5qdn89Lg0MTeTEsWb) | [Isra y Vale](https://open.spotify.com/artist/6gv84Nihr8Dg93KuxArFxl) | [Aguadulce II](https://open.spotify.com/album/30i1SVLlSGfgtnyFJCGTis) | 4:47 | 2023-10-27 |  |
+| [Arabia](https://open.spotify.com/track/7KneZ5qdn89Lg0MTeTEsWb) | [Isra y Vale](https://open.spotify.com/artist/6gv84Nihr8Dg93KuxArFxl) | [Aguadulce II](https://open.spotify.com/album/30i1SVLlSGfgtnyFJCGTis) | 4:47 | 2023-10-27 | 2023-11-26 |
 | [Ausente](https://open.spotify.com/track/5Y7TAGEM42zS5MOxkBr1nD) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Ausente](https://open.spotify.com/album/7DEyRK52e2b6N00hNO1UF7) | 3:54 | 2021-12-09 | 2022-12-31 |
 | [Ausente](https://open.spotify.com/track/7uR5yFqTHZYqPlO9zXTR2M) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Para Echar la Lloradita](https://open.spotify.com/album/1JkjAUi5VkRPtiVbT273KR) | 3:54 | 2023-04-03 |  |
 | [Ay De Mi](https://open.spotify.com/track/1Wxg4UUmjKL8yVmXL97aB0) | [Natalia Doco](https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN) | [Mucho Chino](https://open.spotify.com/album/1l8i1gKfgAXi2tMoKvpsDR) | 2:49 | 2022-05-14 | 2022-10-28 |
@@ -200,6 +200,7 @@
 | [Miénteme](https://open.spotify.com/track/1kWjEyML20EpP7yjw5cfA5) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Trébol](https://open.spotify.com/album/1d75UCUMQna3KfPPZ9tAcg) | 2:32 | 2022-05-14 | 2022-10-28 |
 | [Miénteme](https://open.spotify.com/track/6YhRYUfDBEI4xWHFNr2mpI) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Trébol](https://open.spotify.com/album/5vM9AoEkijaGb0h9RcUIv3) | 2:32 | 2021-12-09 | 2022-07-03 |
 | [Mojo](https://open.spotify.com/track/70NxnUV2P0uOus3V5eL9gs) | [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW), [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [Mojo](https://open.spotify.com/album/0SMSBq8yQiGXqultNvsRWy) | 3:26 | 2021-12-09 |  |
+| [Morocha](https://open.spotify.com/track/0J5iKmHgIeFQPHXVzYl50l) | [Bautista Esandi](https://open.spotify.com/artist/4izhjDz0ZcXxJ7QaUxoopy) | [Morocha](https://open.spotify.com/album/562Y2FlQlL1IorRt8XlZ6g) | 2:58 | 2023-11-24 |  |
 | [Morocha](https://open.spotify.com/track/26qMesSTMPFXkkiTwcN0FC) | [Bautista Esandi](https://open.spotify.com/artist/4izhjDz0ZcXxJ7QaUxoopy) | [Morocha](https://open.spotify.com/album/5Wnk1YttMAJftBy9e1AKv2) | 2:58 | 2021-12-09 | 2023-10-20 |
 | [Motor Psico](https://open.spotify.com/track/2uwT02C1hcLamwIUPSyE1K) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4) | [Motor Psico](https://open.spotify.com/album/0LgyAgeRdl9XdGnYXHzJGX) | 4:56 | 2022-05-14 | 2022-10-26 |
 | [Motor Psico](https://open.spotify.com/track/65JemFi7O8Tfj35WJitEa8) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4) | [Motor Psico](https://open.spotify.com/album/1I1MvAZ4cnGo7XHLqPtIm3) | 4:56 | 2022-04-07 | 2022-04-20 |

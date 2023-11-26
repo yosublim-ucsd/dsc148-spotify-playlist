@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Pedro Sampaio, Simone Mendes, MC Hariel, DUDA BEAT, Chefin e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,921,032 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,921,333 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 49 | [Halls de Menta](https://open.spotify.com/track/1ajkkgg8GJyrSkdDM6356b) | [Victor Miranda](https://open.spotify.com/artist/2SgHiKUv8KDYSu04TYRrGl), [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5) | [Halls de Menta](https://open.spotify.com/album/1vcHU6NVyYlbGVngUlzirR) | 2:46 |
 | 50 | [Vestido No Limite \- Ao Vivo](https://open.spotify.com/track/1akyiTwsR6waVEiriTOpFe) | [João Bosco e Gabriel](https://open.spotify.com/artist/21WAvVROZ83oUvJwFTG2dH), [Kadu Martins](https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK) | [Vestido No Limite \(Ao Vivo\)](https://open.spotify.com/album/1zpQkFvbUfl8AhEAd6alEE) | 2:28 |
 | 51 | [Homecoming](https://open.spotify.com/track/6Q1VMEsgtuOXZxdduuj4lG) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Homecoming](https://open.spotify.com/album/3WHRzQYzTFmIVnYiqGWBra) | 2:52 |
-| 52 | [colorida](https://open.spotify.com/track/6RmkIFg8AnHjG3rhITyGJV) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3), [Ananda](https://open.spotify.com/artist/3ocjm34azq21UtebolrtKj) | [JOVEM \(Deluxe\)](https://open.spotify.com/album/7tDVAA2c0ipIHUaJD9kj0M) | 2:54 |
+| 52 | [colorida](https://open.spotify.com/track/6RmkIFg8AnHjG3rhITyGJV) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3), [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [JOVEM \(Deluxe\)](https://open.spotify.com/album/7tDVAA2c0ipIHUaJD9kj0M) | 2:54 |
 | 53 | [Amor a Vera](https://open.spotify.com/track/1mwwM0YLQ5h9hZ0JWbQStM) | [Castello Branco](https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90) | [Amor a Vera](https://open.spotify.com/album/6dsM1TnLA8vSk8Pj8zLXeV) | 2:12 |
 | 54 | [Tá Fod\*](https://open.spotify.com/track/3soB2fp5V9KVxQM6BZ6JIg) | [Afrocidade](https://open.spotify.com/artist/1kbDI5eg73ftGzwOf4OKZL) | [Tá Fod\*](https://open.spotify.com/album/6lProWEld2RgXzXN30KI1N) | 3:01 |
 | 55 | [Patipapa](https://open.spotify.com/track/0ERFK8AQaBl0R0ql8I2KpT) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX) | [Patipapa](https://open.spotify.com/album/7vy2f8OwWWBA4DKZkox2u5) | 2:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 99 | [desanuviar](https://open.spotify.com/track/6dv427zxWatn55rEml3TlB) | [saudade](https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA), [Bruna Mendez](https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc), [Fs.aiff](https://open.spotify.com/artist/5mCR2OZdHbeSAp7NuS4Rbp) | [desanuviar](https://open.spotify.com/album/1i6hCNGOrRxCCvKmE1cB8f) | 2:56 |
 | 100 | [Duas da Manhã](https://open.spotify.com/track/4njPGT7H3RNdAy1Lkh3cYI) | [Santaella](https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p) | [Duas da Manhã](https://open.spotify.com/album/00zcJl8VAUdohbTZfPJnY5) | 3:18 |
 
-Snapshot ID: `MCwzNDlmYzYxYWM4ZGEyYTMwOWM0NDQ3ODUwMzRmZDM5YmMxM2I0OTM5`
+Snapshot ID: `MCxhNjQwYmIzNTlkMzY4ZDYxNjA5MDJlNzY5ZmQ0YWNhZjJiZGI3ZmQ4`

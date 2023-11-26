@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the electric, amplified sound that is Chicago Blues.\u00a0",
-  "num_followers": 134108,
+  "num_followers": 134155,
   "original_name": "Chicago Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTEyYzcwMzIxYmFjYWFmZmU5OGNlN2FiOWIxMTc2ZDJlNzg2YjFi",
+  "snapshot_id": "MCw4OTdkNjA4MjgxZGFlMDNmZjJjM2RlMWY4Y2VkMjNmYjNhZTVjMmYy",
   "tracks": [
     {
       "added_at": "2016-03-21 20:31:35",
@@ -235,22 +235,6 @@
     {
       "added_at": "2018-02-27 18:08:29",
       "album": {
-        "name": "Living Chicago Blues, Vol. 4",
-        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
-      },
-      "artists": [
-        {
-          "name": "Luther \"Guitar Junior\" Johnson",
-          "url": "https://open.spotify.com/artist/2uti5VYcw9CSKw9gYx639x"
-        }
-      ],
-      "duration_ms": 185773,
-      "name": "Somebody Have Mercy",
-      "url": "https://open.spotify.com/track/4MUh1QHWGu6QWFJdwbmKmt"
-    },
-    {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
         "name": "I Am The Blues",
         "url": "https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 400760,
       "name": "I Can't Quit You, Baby",
       "url": "https://open.spotify.com/track/4iKp3icJChjTFQBYbydH43"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
+        "name": "Living Chicago Blues, Vol. 4",
+        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
+      },
+      "artists": [
+        {
+          "name": "Luther \"Guitar Junior\" Johnson",
+          "url": "https://open.spotify.com/artist/2uti5VYcw9CSKw9gYx639x"
+        }
+      ],
+      "duration_ms": 185773,
+      "name": "Somebody Have Mercy",
+      "url": "https://open.spotify.com/track/4MUh1QHWGu6QWFJdwbmKmt"
     },
     {
       "added_at": "2016-03-21 20:31:35",
@@ -361,22 +361,6 @@
       "url": "https://open.spotify.com/track/5ZUxxja3WzBZUFF6P9M9HN"
     },
     {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
-        "name": "Blowin' Like Hell",
-        "url": "https://open.spotify.com/album/6V9vz3rCyZg93CIaALPizp"
-      },
-      "artists": [
-        {
-          "name": "William Clarke",
-          "url": "https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke"
-        }
-      ],
-      "duration_ms": 345666,
-      "name": "Lonesome Bedroom Blues",
-      "url": "https://open.spotify.com/track/6a2GFiWodKXdHDFPcaCRdL"
-    },
-    {
       "added_at": "2016-03-21 20:31:35",
       "album": {
         "name": "I Am The Blues",
@@ -391,6 +375,22 @@
       "duration_ms": 216373,
       "name": "The Little Red Rooster",
       "url": "https://open.spotify.com/track/3knwd2whi9QUViKgWCsixF"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
+        "name": "Blowin' Like Hell",
+        "url": "https://open.spotify.com/album/6V9vz3rCyZg93CIaALPizp"
+      },
+      "artists": [
+        {
+          "name": "William Clarke",
+          "url": "https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke"
+        }
+      ],
+      "duration_ms": 345666,
+      "name": "Lonesome Bedroom Blues",
+      "url": "https://open.spotify.com/track/6a2GFiWodKXdHDFPcaCRdL"
     },
     {
       "added_at": "2016-03-21 20:31:35",
@@ -539,6 +539,30 @@
     {
       "added_at": "2018-02-27 18:08:29",
       "album": {
+        "name": "Count Your Blessings",
+        "url": "https://open.spotify.com/album/0wXMoxr5erc9iBIkzuwzYl"
+      },
+      "artists": [
+        {
+          "name": "Nick Moss & The Flip Tops",
+          "url": "https://open.spotify.com/artist/41z6z2F1HddUUSPOtOhhuk"
+        },
+        {
+          "name": "Barrelhouse Chuck",
+          "url": "https://open.spotify.com/artist/5xdyzBf4bTgRC13sG3dShO"
+        },
+        {
+          "name": "Kate Moss",
+          "url": "https://open.spotify.com/artist/3IP1UVkxCwvyb5wdQVn269"
+        }
+      ],
+      "duration_ms": 241400,
+      "name": "Ain't Times Hard",
+      "url": "https://open.spotify.com/track/7L5U6eRJEFQbjqUUTwDVPu"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
         "name": "They call me the snake",
         "url": "https://open.spotify.com/album/6iWOfKBUyJjqc0kAx20DuU"
       },
@@ -567,30 +591,6 @@
       "duration_ms": 233333,
       "name": "Driving Wheel",
       "url": "https://open.spotify.com/track/7M8XGHJQPYZcYftZyQLmMC"
-    },
-    {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
-        "name": "Count Your Blessings",
-        "url": "https://open.spotify.com/album/0wXMoxr5erc9iBIkzuwzYl"
-      },
-      "artists": [
-        {
-          "name": "Nick Moss & The Flip Tops",
-          "url": "https://open.spotify.com/artist/41z6z2F1HddUUSPOtOhhuk"
-        },
-        {
-          "name": "Barrelhouse Chuck",
-          "url": "https://open.spotify.com/artist/5xdyzBf4bTgRC13sG3dShO"
-        },
-        {
-          "name": "Kate Moss",
-          "url": "https://open.spotify.com/artist/3IP1UVkxCwvyb5wdQVn269"
-        }
-      ],
-      "duration_ms": 241400,
-      "name": "Ain't Times Hard",
-      "url": "https://open.spotify.com/track/7L5U6eRJEFQbjqUUTwDVPu"
     },
     {
       "added_at": "2018-02-27 18:08:29",

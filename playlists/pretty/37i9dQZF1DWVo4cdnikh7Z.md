@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 
 > New Music from Kollywood.<br/>Cover : Captain Miller
 
-[Spotify](https://open.spotify.com/user/spotify) - 647,472 likes - 80 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 648,094 likes - 80 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 | 5 | [Badass \(From "Leo"\)](https://open.spotify.com/track/32qnBgfzURbwNayQIEB5W5) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Badass \(From "Leo"\)](https://open.spotify.com/album/4f9WYw6XMUlo3O9dJ15HvP) | 3:49 |
 | 6 | [Hayyoda \(From "Jawan"\)](https://open.spotify.com/track/6aQIGqAo9PxRKjUkhYtR6R) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Priya Mali](https://open.spotify.com/artist/5PMrnGmlpH0l7Uc9DnnatM) | [Hayyoda \(From "Jawan"\)](https://open.spotify.com/album/3JiVWzoQqLwmH8DcayvdQ6) | 3:20 |
 | 7 | [10000 Pax](https://open.spotify.com/track/38VTRiQJgUyuFQMiUoyG2q) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts) | [Jigarthanda DoubleX \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/66wPpXvuJUBh5lrHY0LmhS) | 2:43 |
-| 8 | [Life is On \(From "Annapoorani"\) \(Tamil\)](https://open.spotify.com/track/7pcFmiJ56CbcfTpRrgpjuk) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [D\. Harshini Nethra](https://open.spotify.com/artist/3aAMaw6tZfpiedaleT4Di0), [V.M\. Shreenitha](https://open.spotify.com/artist/5suhI0Yia2tSCRN0sjYrpA), [R\. Gokul](https://open.spotify.com/artist/47gEnVsVySzz8tyuc6NZ4w), [V\. Shivathmika](https://open.spotify.com/artist/4xePdQ8zeScxPnmoMuKLM3) | [Life is On \(From "Annapoorani"\) \(Tamil\)](https://open.spotify.com/album/3HM7mrTwD34LzpiGT8B46h) | 3:11 |
+| 8 | [Life is On \(From "Annapoorani"\)](https://open.spotify.com/track/3ddbf90chTkRcheH4XxU2q) | [D\. Harshini Nethra](https://open.spotify.com/artist/3aAMaw6tZfpiedaleT4Di0), [V.M\. Shreenitha](https://open.spotify.com/artist/5suhI0Yia2tSCRN0sjYrpA), [R\. Gokul](https://open.spotify.com/artist/47gEnVsVySzz8tyuc6NZ4w), [V\. Shivathmika](https://open.spotify.com/artist/4xePdQ8zeScxPnmoMuKLM3), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Life Is On \(From "Annapoorani"\)](https://open.spotify.com/album/3d6swBFVTZx2vRIcwgnVfv) | 3:11 |
 | 9 | [Ratata \(From "Leo"\)](https://open.spotify.com/track/58clncAcNFhSh5ERdonnCp) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Ratata \(From "Leo"\)](https://open.spotify.com/album/0DP7AaZHxpxXnX2ViuplAR) | 2:11 |
 | 10 | [Theekuchi](https://open.spotify.com/track/11ktAtbN1lp3aTvvbhDWi3) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Jigarthanda DoubleX \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/66wPpXvuJUBh5lrHY0LmhS) | 2:53 |
 | 11 | [Touching Touching \(From "Japan"\)](https://open.spotify.com/track/1j4MpVUmV2C6iMsUa01mwd) | [Karthi](https://open.spotify.com/artist/0B33QkzBOTcn3E0oTzqLfJ), [Indravathi Chauhan](https://open.spotify.com/artist/1cNcHeOmjm7yKUYWhrmjMM), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Arunraja Kamaraj](https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe) | [Touching Touching \(From "Japan"\)](https://open.spotify.com/album/0I9vHFefKgGlrBKMyMghu6) | 3:36 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 | 79 | [Aradhya \(From "Kushi"\) \(Tamil\)](https://open.spotify.com/track/0H419AjRA2CY6RtjNT1q1l) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Aradhya \(From "Kushi"\) \(Tamil\)](https://open.spotify.com/album/4BlgOYbwSOCeJueIHUG9wp) | 4:42 |
 | 80 | [Muthuvel Pandian Theme \- Instrumental](https://open.spotify.com/track/6BLzMdz3Gw8ho9GZMr9GSG) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Jailer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0zRUzTXH7GtGLxt6uVdARD) | 1:42 |
 
-Snapshot ID: `MCxiYjQwMDgwZTA1MmIxMThkOGUzNDI5Y2JhNjgxODRmOThjYmQ3ODk4`
+Snapshot ID: `MCwwM2JmNDk1MDdmZmI1Yjg4ZjJlNjQzODUzZDRkMmYzMjFiMWIxOWNj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Suerte Campeón en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,676 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,701 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Adiós](https://open.spotify.com/track/2MbZ030ykuMYIzR7Sm7vQH) | [Sadfields](https://open.spotify.com/artist/21EFkTCquqEqYOWXi19fDF) | [Adiós](https://open.spotify.com/album/01gAlyPtKZ8lXy9fleOvef) | 4:23 |
 | 50 | [Quémalo](https://open.spotify.com/track/3tilCyrJmRuc7IEiE1rQB5) | [Wet Baes](https://open.spotify.com/artist/6mYovveNfg4PF4HnT8Lner) | [Quémalo](https://open.spotify.com/album/1H0dVRfemEAODn2J4hXv5x) | 3:04 |
 
-Snapshot ID: `MCw2ZmQwNDUwMTEwOGRiYWM1NzViZTZlYWE2Yjk2ZmNhZTUyY2U3MTRk`
+Snapshot ID: `MCxiNDI4Y2QxZDU3ZTkwZjMzMDJmNDVjOGZmOWQwN2Q3NjEzYTBjYTdi`

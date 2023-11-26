@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PP3DA4J0N8.md) - [plain]
 
 > Sounds of birds, rain, and forest ambience.
 
-[Spotify](https://open.spotify.com/user/spotify) - 996,234 likes - 131 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 996,484 likes - 131 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PP3DA4J0N8.md) - [plain]
 | 38 | [Nature Sounds](https://open.spotify.com/track/0aiIxhhNwCZcUF4foUSpNa) | [When Doves Cry \(FX\)](https://open.spotify.com/artist/3lPRLDLxH0H7EhjakuDNgP) | [Bird Sounds Vol\. 1](https://open.spotify.com/album/7e7U3d9Ip6aMKP2PFTlOej) | 2:08 |
 | 39 | [Nature Night\-time](https://open.spotify.com/track/0qjA7VzJyneuisZRNATzWp) | [mahogany](https://open.spotify.com/artist/4DUwhWpSYNXUbSbuvtrjeA) | [Nature Hideout](https://open.spotify.com/album/5Ad8mClENx1NQfnFkA4Mv6) | 3:12 |
 | 40 | [Forest Therapy](https://open.spotify.com/track/1o5wI9xAk3n5SVXBbdAEf3) | [INDAYA](https://open.spotify.com/artist/3UzYsKmyzyiSLGVC7RXlvw) | [Nature Heritage](https://open.spotify.com/album/3i29jHWl0L3sa276ySSsos) | 3:16 |
-| 41 | [Overflowing Stream](https://open.spotify.com/track/0bkpm8NP8SJZLlPKol67db) | [Naturae](https://open.spotify.com/artist/4HL4peOCpnvJztd1zYQLuU) | [Streams & Falls](https://open.spotify.com/album/1MgJ6AXomRefwSqSHFijCP) | 4:58 |
-| 42 | [Bird Chatter In Rainforest](https://open.spotify.com/track/5ZDdbserCXlDm3CY0Yt1bF) | [Natural Awakening](https://open.spotify.com/artist/0c854X9smbUIbXTJLLdya3) | [Rain Awakening](https://open.spotify.com/album/3Fqifn6gJ1EMsUBWXefkIc) | 3:18 |
-| 43 | [Dripping Wet Leaves and Thunder](https://open.spotify.com/track/4ceay3NQJmIvSgX7wh8RKZ) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Thunderstorms vol II](https://open.spotify.com/album/2PEHvR7NUyQNTLSaDOxAcg) | 3:48 |
+| 41 | [Dripping Wet Leaves and Thunder](https://open.spotify.com/track/4ceay3NQJmIvSgX7wh8RKZ) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Thunderstorms vol II](https://open.spotify.com/album/2PEHvR7NUyQNTLSaDOxAcg) | 3:48 |
+| 42 | [Overflowing Stream](https://open.spotify.com/track/0bkpm8NP8SJZLlPKol67db) | [Naturae](https://open.spotify.com/artist/4HL4peOCpnvJztd1zYQLuU) | [Streams & Falls](https://open.spotify.com/album/1MgJ6AXomRefwSqSHFijCP) | 4:58 |
+| 43 | [Bird Chatter In Rainforest](https://open.spotify.com/track/5ZDdbserCXlDm3CY0Yt1bF) | [Natural Awakening](https://open.spotify.com/artist/0c854X9smbUIbXTJLLdya3) | [Rain Awakening](https://open.spotify.com/album/3Fqifn6gJ1EMsUBWXefkIc) | 3:18 |
 | 44 | [Presence of Thor](https://open.spotify.com/track/4WJQ1YkXPfcNZyg5jZbCCQ) | [Yùhé 愈合](https://open.spotify.com/artist/1FhDUTdr5dsdGbOIKiVmkD) | [Terapheutic Thunder](https://open.spotify.com/album/33SfeV8Cn3Czw2Kj9iN0I3) | 2:14 |
 | 45 | [Sounds in the nature](https://open.spotify.com/track/2XQDWx60U7gXdzzovGIDVc) | [Jacob Woods](https://open.spotify.com/artist/12ZrM4Ur770ACI9F0xsaJh) | [Sounds in the nature](https://open.spotify.com/album/1nBGRfyWDRoedXA9TgBp7I) | 3:16 |
 | 46 | [Light Forest Rain 2](https://open.spotify.com/track/0sHQko0MGE4c2RzGQ9BjX6) | [Smoothe Sounds](https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN) | [Light Forest Rain](https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey) | 2:26 |
@@ -72,20 +72,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PP3DA4J0N8.md) - [plain]
 | 62 | [Rainforest During The Night](https://open.spotify.com/track/166UFdIQFu7c7DKJy0bu6F) | [Mandalay Hill](https://open.spotify.com/artist/5RIo6BjGDrEu3OVt0INvtP) | [Myanmar Rain](https://open.spotify.com/album/47NVh2pWSGVJLL860oCXxR) | 3:28 |
 | 63 | [Distant Thunder in the East of the City](https://open.spotify.com/track/39IRFQpK8ZCRFPOMe9Y4At) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [The Rain](https://open.spotify.com/album/1hVoDnDgD0chGjPJFV7zW4) | 3:03 |
 | 64 | [Wildlife Paradise](https://open.spotify.com/track/4qcjA5Vy7HwEmgkFPbt51A) | [Shorenights](https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1) | [Circle of Earth](https://open.spotify.com/album/3Gu9YgsqlLILMcW5k30exE) | 2:47 |
-| 65 | [Sitting Under The Tree](https://open.spotify.com/track/5ySy6nj1AWOTDx3Tm6M6zb) | [Paul's Field Recordings](https://open.spotify.com/artist/5fxe8QDUhBHXPULOFmFxry) | [Mother Nature](https://open.spotify.com/album/77DLlFKvDKjCbexjhopdve) | 2:23 |
-| 66 | [Rain in the Woods](https://open.spotify.com/track/6uEPTshbIUEHPIKXxoGgMi) | [Outdoor Field Recorders](https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr) | [Out in Nature](https://open.spotify.com/album/12FUICOM1TIiBfQt1p90IS) | 3:28 |
+| 65 | [Rain in the Woods](https://open.spotify.com/track/6uEPTshbIUEHPIKXxoGgMi) | [Outdoor Field Recorders](https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr) | [Out in Nature](https://open.spotify.com/album/12FUICOM1TIiBfQt1p90IS) | 3:28 |
+| 66 | [Sitting Under The Tree](https://open.spotify.com/track/5ySy6nj1AWOTDx3Tm6M6zb) | [Paul's Field Recordings](https://open.spotify.com/artist/5fxe8QDUhBHXPULOFmFxry) | [Mother Nature](https://open.spotify.com/album/77DLlFKvDKjCbexjhopdve) | 2:23 |
 | 67 | [Cuckoo & Other Birds](https://open.spotify.com/track/2oU9jD1FRGW1ocaKLcLeW9) | [Drakir Nature](https://open.spotify.com/artist/3bbyEDM22FIFzuaCTYFonZ) | [Cuckoo & Other Birds](https://open.spotify.com/album/4c5T7nnoDGFjy4eptvyysb) | 3:28 |
 | 68 | [Forest Rain Frogs](https://open.spotify.com/track/3gqUeE0MqS4I9caAXmYnMY) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Rainy Summer Days](https://open.spotify.com/album/6TpQ6fU21enN1K6iDu9Mij) | 2:50 |
 | 69 | [Pouring Sea](https://open.spotify.com/track/2XxYa30X2WQtPXfaP13NDo) | [Aussie Main](https://open.spotify.com/artist/111w4d9SpTVkOaZzTHSBtL) | [Pouring Sea](https://open.spotify.com/album/61k8zMMCTh0YhghMgfqlt6) | 2:00 |
-| 70 | [Light Forest Rain 1](https://open.spotify.com/track/14oV03JSrcUShNmJw0qUvH) | [Smoothe Sounds](https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN) | [Light Forest Rain](https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey) | 2:26 |
-| 71 | [Birds In The Rain](https://open.spotify.com/track/4C7uEMH69SQp0nTUsj35Vb) | [Neightbirds](https://open.spotify.com/artist/2Sv82DcQL8WQoSbUjHorYJ) | [In The Tides](https://open.spotify.com/album/27qtne7V63arjRq9eMUxk7) | 2:04 |
+| 70 | [Birds In The Rain](https://open.spotify.com/track/4C7uEMH69SQp0nTUsj35Vb) | [Neightbirds](https://open.spotify.com/artist/2Sv82DcQL8WQoSbUjHorYJ) | [In The Tides](https://open.spotify.com/album/27qtne7V63arjRq9eMUxk7) | 2:04 |
+| 71 | [Light Forest Rain 1](https://open.spotify.com/track/14oV03JSrcUShNmJw0qUvH) | [Smoothe Sounds](https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN) | [Light Forest Rain](https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey) | 2:26 |
 | 72 | [Empowering Rain](https://open.spotify.com/track/6bjRqHUfxEnGJg6luwnUJH) | [Four Winds](https://open.spotify.com/artist/3MNXmvXsz12M9aeI4w6qqE) | [Rain Mantra](https://open.spotify.com/album/73M4YzG8IXgcVqixgmsYU4) | 2:51 |
 | 73 | [Rainbow Birds](https://open.spotify.com/track/23zePFyNcPwF4kJso7fvdL) | [Feathern](https://open.spotify.com/artist/4UMeJ5VDtxl2J8ENVSsn1T) | [Rainbow Birds](https://open.spotify.com/album/4Jmpz2unBIOR6WJf6jbfAr) | 3:11 |
 | 74 | [Close to the River, Birds Watching](https://open.spotify.com/track/05K6un84uxHhHlmel2WWnu) | [Shaman](https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M) | [3D Audio Textures of Birds & Water](https://open.spotify.com/album/0IVTahDgPVYrsC56rid7Mu) | 3:12 |
 | 75 | [Calming Wave Sound](https://open.spotify.com/track/4lX2tuWNd6wUJqBnywOViu) | [Catching Sleep](https://open.spotify.com/artist/6qsH16CZ8j8s0RWRlgjyW2) | [Water Sounds](https://open.spotify.com/album/1Fx0PVCZ7pDj3nvoLHHepW) | 3:50 |
 | 76 | [River Close with Birds \- River](https://open.spotify.com/track/2KdUMPBKthc1lz3DascPlE) | [Dozy Sounds](https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG) | [Nature's Rain, Oceans, Rivers](https://open.spotify.com/album/6nHdYuYYtvfDSRIBP7TCGo) | 2:17 |
-| 77 | [River Shore](https://open.spotify.com/track/1yRUymHNlI4HnyhFXqou8r) | [Earth Science](https://open.spotify.com/artist/6uVNYr50zFJFtp3R1LYaab) | [Marymere Falls](https://open.spotify.com/album/4RD2hBbd6fz0clfEssVrct) | 3:19 |
-| 78 | [Unaltered Rain](https://open.spotify.com/track/6lBKEeemzxQ4lWGFW9EfTi) | [Organic Nature](https://open.spotify.com/artist/51pWYHXlT0KXM8zYZ6IhRa) | [Organic Rain](https://open.spotify.com/album/683UAPLzNPkJg8K2tQQPdN) | 3:20 |
+| 77 | [Unaltered Rain](https://open.spotify.com/track/6lBKEeemzxQ4lWGFW9EfTi) | [Organic Nature](https://open.spotify.com/artist/51pWYHXlT0KXM8zYZ6IhRa) | [Organic Rain](https://open.spotify.com/album/683UAPLzNPkJg8K2tQQPdN) | 3:20 |
+| 78 | [River Shore](https://open.spotify.com/track/1yRUymHNlI4HnyhFXqou8r) | [Earth Science](https://open.spotify.com/artist/6uVNYr50zFJFtp3R1LYaab) | [Marymere Falls](https://open.spotify.com/album/4RD2hBbd6fz0clfEssVrct) | 3:19 |
 | 79 | [Forest Meditation](https://open.spotify.com/track/5Gs8yP4p8ccqfZun4xmxgR) | [Manaus](https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF) | [Into the Wild](https://open.spotify.com/album/0W83Q53upb4RyRQ62vTF20) | 3:28 |
 | 80 | [Pouring Jungles](https://open.spotify.com/track/7MAG8i1TD0G4AxP6z0oQml) | [Nia Butler](https://open.spotify.com/artist/7AYA0yZx3cMpQOORGfjDXv) | [Pouring Jungles](https://open.spotify.com/album/7mFjRRPoAXu8k8DZT9YxZe) | 2:24 |
 | 81 | [Light Forest Rain Long](https://open.spotify.com/track/3TOdrkKf8QAZhIdpmU6ebO) | [Smoothe Sounds](https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN) | [Light Forest Rain](https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey) | 4:18 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PP3DA4J0N8.md) - [plain]
 | 130 | [Birdsong and Rustling Leaves](https://open.spotify.com/track/2ZuB7OS80eFxrdfZgfCkD2) | [Epic Nature Sounds](https://open.spotify.com/artist/3KCBnJE0Ww7kT7Z7CXlS7h) | [The Melody of Nature's Orchestra](https://open.spotify.com/album/6zFKRc7g2xF644T2z9JcCU) | 2:57 |
 | 131 | [Remote Respite \- Rain](https://open.spotify.com/track/10taLrdqj10KfUHQynQEmT) | [The Forest Escape](https://open.spotify.com/artist/63nWC8U7RxoOnCLl3b6AK4) | [Remote Respite \(Rain\)](https://open.spotify.com/album/5s6KARP40CPhgmFyFJdX0L) | 2:50 |
 
-Snapshot ID: `MCxlMTlhMmRiZDRlMjQxODQ1YTBjZWVjNzU3MzI5ZTJiNjQzZGI3Yjc4`
+Snapshot ID: `MCxiMjBhNzY0NGQ2YzIwNDk5NjFmNTVhOGUxNTBlMjRjNDYyYTYyMzM5`

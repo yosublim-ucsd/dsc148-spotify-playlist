@@ -1,12 +1,12 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1490289,
+  "num_followers": 1490322,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNmM2YzkzNzA0OWI3MDYzZTQ2YjVhNTBjYTdlYzBiOWI4ZDgxNTRh",
+  "snapshot_id": "MCwwZWViOTA2MGVhNjY4NDhlZmI4ODJiZmQ3NDVmYTllZGMzNDY5NGUx",
   "tracks": [
     {
       "added_at": "2023-11-23 15:00:00",
@@ -459,38 +459,6 @@
     {
       "added_at": "2023-11-23 15:00:00",
       "album": {
-        "name": "Boardwalk Bumps 3",
-        "url": "https://open.spotify.com/album/5fRcJfizpJZfVhYr66e7ts"
-      },
-      "artists": [
-        {
-          "name": "Engelwood",
-          "url": "https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T"
-        }
-      ],
-      "duration_ms": 121097,
-      "name": "Good Evening",
-      "url": "https://open.spotify.com/track/5bWvhoW0YfVHgi0IVUl0UG"
-    },
-    {
-      "added_at": "2023-11-23 15:00:00",
-      "album": {
-        "name": "Lazy Days",
-        "url": "https://open.spotify.com/album/0xVnErhgvvQcM49B27Gccc"
-      },
-      "artists": [
-        {
-          "name": "KH",
-          "url": "https://open.spotify.com/artist/07Qyqoi71rSFyc6iwyONrr"
-        }
-      ],
-      "duration_ms": 132743,
-      "name": "Lazy Days",
-      "url": "https://open.spotify.com/track/4YHYqslCkAXAe0a8AfEBUc"
-    },
-    {
-      "added_at": "2023-11-23 15:00:00",
-      "album": {
         "name": "Warmer Together",
         "url": "https://open.spotify.com/album/6NDSwfpx4J4bZfFi27L9JB"
       },
@@ -511,18 +479,50 @@
     {
       "added_at": "2023-11-23 15:00:00",
       "album": {
-        "name": "Mental Acupuncture",
-        "url": "https://open.spotify.com/album/2dtSQyB2dVecMmnDlU9qYn"
+        "name": "Lazy Days",
+        "url": "https://open.spotify.com/album/0xVnErhgvvQcM49B27Gccc"
       },
       "artists": [
         {
-          "name": "Jazzinuf",
-          "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi"
+          "name": "KH",
+          "url": "https://open.spotify.com/artist/07Qyqoi71rSFyc6iwyONrr"
         }
       ],
-      "duration_ms": 152000,
-      "name": "Mental Acupuncture",
-      "url": "https://open.spotify.com/track/34KMYyUvfpXboR9wLwrocX"
+      "duration_ms": 132743,
+      "name": "Lazy Days",
+      "url": "https://open.spotify.com/track/4YHYqslCkAXAe0a8AfEBUc"
+    },
+    {
+      "added_at": "2023-11-23 15:00:00",
+      "album": {
+        "name": "Boardwalk Bumps 3",
+        "url": "https://open.spotify.com/album/5fRcJfizpJZfVhYr66e7ts"
+      },
+      "artists": [
+        {
+          "name": "Engelwood",
+          "url": "https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T"
+        }
+      ],
+      "duration_ms": 121097,
+      "name": "Good Evening",
+      "url": "https://open.spotify.com/track/5bWvhoW0YfVHgi0IVUl0UG"
+    },
+    {
+      "added_at": "2023-11-23 15:00:00",
+      "album": {
+        "name": "High Jazz",
+        "url": "https://open.spotify.com/album/0NKeDOv1E57bjmFusvxqiE"
+      },
+      "artists": [
+        {
+          "name": "High John",
+          "url": "https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80"
+        }
+      ],
+      "duration_ms": 116905,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/5NlG6wkRWwPrKel04bKkYK"
     },
     {
       "added_at": "2023-11-23 15:00:00",
@@ -583,18 +583,18 @@
     {
       "added_at": "2023-11-23 15:00:00",
       "album": {
-        "name": "High Jazz",
-        "url": "https://open.spotify.com/album/0NKeDOv1E57bjmFusvxqiE"
+        "name": "Mental Acupuncture",
+        "url": "https://open.spotify.com/album/2dtSQyB2dVecMmnDlU9qYn"
       },
       "artists": [
         {
-          "name": "High John",
-          "url": "https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80"
+          "name": "Jazzinuf",
+          "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi"
         }
       ],
-      "duration_ms": 116905,
-      "name": "Love Letter",
-      "url": "https://open.spotify.com/track/5NlG6wkRWwPrKel04bKkYK"
+      "duration_ms": 152000,
+      "name": "Mental Acupuncture",
+      "url": "https://open.spotify.com/track/34KMYyUvfpXboR9wLwrocX"
     },
     {
       "added_at": "2023-11-23 15:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-11-23 15:00:00",
       "album": {
-        "name": "Travels",
-        "url": "https://open.spotify.com/album/6dPrjTpoGfTm9d4EaLA8Ru"
-      },
-      "artists": [
-        {
-          "name": "Oilix",
-          "url": "https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x"
-        }
-      ],
-      "duration_ms": 109333,
-      "name": "Laguna Beach",
-      "url": "https://open.spotify.com/track/73EdXxEhsF5NoaH5BZQNPk"
-    },
-    {
-      "added_at": "2023-11-23 15:00:00",
-      "album": {
         "name": "Night Vision",
         "url": "https://open.spotify.com/album/6GblXcxt5814Mq4kIT7ZII"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 90464,
       "name": "Night Vision",
       "url": "https://open.spotify.com/track/62TWSulSg6OuPEwEdmIMQL"
+    },
+    {
+      "added_at": "2023-11-23 15:00:00",
+      "album": {
+        "name": "Travels",
+        "url": "https://open.spotify.com/album/6dPrjTpoGfTm9d4EaLA8Ru"
+      },
+      "artists": [
+        {
+          "name": "Oilix",
+          "url": "https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x"
+        }
+      ],
+      "duration_ms": 109333,
+      "name": "Laguna Beach",
+      "url": "https://open.spotify.com/track/73EdXxEhsF5NoaH5BZQNPk"
     },
     {
       "added_at": "2023-11-23 15:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-11-23 15:00:00",
       "album": {
-        "name": "last wave",
-        "url": "https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh"
-      },
-      "artists": [
-        {
-          "name": "Shimon Hoshino",
-          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
-        }
-      ],
-      "duration_ms": 153652,
-      "name": "last wave",
-      "url": "https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW"
-    },
-    {
-      "added_at": "2023-11-23 15:00:00",
-      "album": {
         "name": "Far Away",
         "url": "https://open.spotify.com/album/1SUebSHdAuvfEHSPu9BScz"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 88000,
       "name": "Caffeine",
       "url": "https://open.spotify.com/track/4Yo8RVWFknM4TVEKG9UvGB"
+    },
+    {
+      "added_at": "2023-11-23 15:00:00",
+      "album": {
+        "name": "last wave",
+        "url": "https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "duration_ms": 153652,
+      "name": "last wave",
+      "url": "https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW"
     },
     {
       "added_at": "2023-11-23 15:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-11-23 15:00:00",
       "album": {
-        "name": "Restless Minds",
-        "url": "https://open.spotify.com/album/0WldfGjBHGC793Dr3AMwmP"
-      },
-      "artists": [
-        {
-          "name": "Yomoti",
-          "url": "https://open.spotify.com/artist/1QybrBtERg1gUpJxwRelUC"
-        }
-      ],
-      "duration_ms": 129334,
-      "name": "Restless Minds",
-      "url": "https://open.spotify.com/track/6eMBHbovGi1RhRrViEtvaV"
-    },
-    {
-      "added_at": "2023-11-23 15:00:00",
-      "album": {
         "name": "Elevator (Remastered)",
         "url": "https://open.spotify.com/album/7DNUHO4a9PrLD51cOaJO1N"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 207291,
       "name": "Elevator - Remastered",
       "url": "https://open.spotify.com/track/2yltjA72DhOW2hL7CzbAMD"
+    },
+    {
+      "added_at": "2023-11-23 15:00:00",
+      "album": {
+        "name": "Restless Minds",
+        "url": "https://open.spotify.com/album/0WldfGjBHGC793Dr3AMwmP"
+      },
+      "artists": [
+        {
+          "name": "Yomoti",
+          "url": "https://open.spotify.com/artist/1QybrBtERg1gUpJxwRelUC"
+        }
+      ],
+      "duration_ms": 129334,
+      "name": "Restless Minds",
+      "url": "https://open.spotify.com/track/6eMBHbovGi1RhRrViEtvaV"
     },
     {
       "added_at": "2023-11-23 15:00:00",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2023-11-23 15:00:00",
       "album": {
-        "name": "edbl & friends - JPRK",
-        "url": "https://open.spotify.com/album/61TTiDwK1dT9CDWczbcg8G"
-      },
-      "artists": [
-        {
-          "name": "edbl",
-          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
-        },
-        {
-          "name": "JPRK",
-          "url": "https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH"
-        }
-      ],
-      "duration_ms": 161771,
-      "name": "5k",
-      "url": "https://open.spotify.com/track/4sOKXbVMDiqWSj9uojOcfp"
-    },
-    {
-      "added_at": "2023-11-23 15:00:00",
-      "album": {
         "name": "The Art of Chilling, Vol. 2",
         "url": "https://open.spotify.com/album/5fQUFkVsUUBoLPTc2j9mlp"
       },
@@ -1427,6 +1407,26 @@
       "duration_ms": 156359,
       "name": "Best Regards",
       "url": "https://open.spotify.com/track/5jJWPAn20sxi5UiHBLWEai"
+    },
+    {
+      "added_at": "2023-11-23 15:00:00",
+      "album": {
+        "name": "Origami Skizzen",
+        "url": "https://open.spotify.com/album/27OrwbZSGLRCg8oPNRHozF"
+      },
+      "artists": [
+        {
+          "name": "Midan",
+          "url": "https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo"
+        },
+        {
+          "name": "AHNAMUSICA",
+          "url": "https://open.spotify.com/artist/2QONtzTPgMymeO5VVQ4w3h"
+        }
+      ],
+      "duration_ms": 152156,
+      "name": "Jazz Neko",
+      "url": "https://open.spotify.com/track/484Ncn0zQgpfa36UFwnBda"
     }
   ],
   "unique_name": "Mellow Beats",

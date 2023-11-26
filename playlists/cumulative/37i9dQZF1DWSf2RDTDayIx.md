@@ -4,7 +4,7 @@
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-381 songs - 20 hr 17 min
+382 songs - 20 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Doses & Mimosas \(Vintage Culture & Zerky Remix\) \- Radio Edit](https://open.spotify.com/track/3yZsBXwiQkqLjnWYip17Uu) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Zerky](https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok), [Cherub](https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz) | [Doses & Mimosas \(Vintage Culture & Zerky Remix\) \[Radio Edit\]](https://open.spotify.com/album/2VWOp5K8co8MfN2503dtvY) | 3:49 | 2022-01-07 |  |
 | [Dreaming \(feat\. SMBDY\)](https://open.spotify.com/track/60n8BhJ1FWhKbhYOF0LzQr) | [David Solomon](https://open.spotify.com/artist/3fzRb5i8Wn7ao2KPDxEiTR), [SMBDY](https://open.spotify.com/artist/3EVIvUOdQq6byU8fIljO2e) | [Dreaming \(feat\. SMBDY\)](https://open.spotify.com/album/5uURWNCgEuR1kob61OI0VJ) | 2:49 | 2021-12-03 | 2022-02-05 |
 | [Dreamteam](https://open.spotify.com/track/1UNYQXk8b0GPbupETN4IHL) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Dreamteam](https://open.spotify.com/album/15YushxelouREDwAN3cdV1) | 3:01 | 2023-10-27 |  |
-| [Easy](https://open.spotify.com/track/4VVzgTike7FW8OiUIDN7hk) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz) | [Easy](https://open.spotify.com/album/3Jkk3mOfUiIcaJboZ77lkp) | 2:29 | 2022-07-01 |  |
+| [Easy](https://open.spotify.com/track/4VVzgTike7FW8OiUIDN7hk) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz) | [Easy](https://open.spotify.com/album/3Jkk3mOfUiIcaJboZ77lkp) | 2:29 | 2022-07-01 | 2023-11-26 |
 | [Easy :\)](https://open.spotify.com/track/2jPgrYdSzHarxh2v6O6aUc) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Easy :\)](https://open.spotify.com/album/1ZyP1Zl2G7SLJDy2QHwt4h) | 3:22 | 2021-12-03 | 2022-01-08 |
 | [Endless Summer](https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Endless Summer](https://open.spotify.com/album/6heWsbxEvCnXbHcw4xlKmE) | 3:07 | 2023-07-14 |  |
 | [Energy \- Mell Hall Remix](https://open.spotify.com/track/6NqiasBrPLutxWZaGKPEuf) | [Stace Cadet](https://open.spotify.com/artist/4C825UjHAWCMvdZwbtpwDT), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3), [Mell Hall](https://open.spotify.com/artist/1EzMBKiEO3rQbvnNxLK6HZ) | [Energy \(Mell Hall Remix\)](https://open.spotify.com/album/2qZtwgTQfNVixAMFI1xNDw) | 3:53 | 2021-12-03 | 2022-01-08 |
@@ -207,6 +207,7 @@
 | [Like I Do](https://open.spotify.com/track/72yOVhxkfd9lgp4Q0EaJTK) | [Steve James](https://open.spotify.com/artist/2rYFy6vVM1YiECVIAHaJBY), [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b), [Brooke Tomlinson](https://open.spotify.com/artist/5spaLjG6DJVXfqlYSskx9C) | [Like I Do](https://open.spotify.com/album/08pYrUzqYdf4kJjtsHTEjc) | 2:50 | 2021-12-03 | 2022-01-08 |
 | [Like You Do](https://open.spotify.com/track/1ap4zdsBydWPSXJqDBqtNL) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Like You Do](https://open.spotify.com/album/1riQFcgbb1smSKeWVarPDx) | 2:32 | 2022-10-05 |  |
 | [Lipstick](https://open.spotify.com/track/5vaOdnTldKw74qWjezLfRO) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Lipstick](https://open.spotify.com/album/5ZmMVvnLnqADYlyLcxLy6l) | 3:00 | 2022-01-07 | 2022-12-10 |
+| [Little Bit Yours](https://open.spotify.com/track/0LOjVJaTDqXyu37cjUYpT2) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [Little Bit Yours](https://open.spotify.com/album/1AAnGhmJLEL4usZgEyIS97) | 3:16 | 2023-11-24 |  |
 | [Little Things x Gypsy Woman \- L BEATS MASHUP](https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things x Gypsy Woman \(L BEATS MASHUP\)](https://open.spotify.com/album/052c03LAr2euUtLKgvOKae) | 2:11 | 2023-06-30 |  |
 | [Lonely](https://open.spotify.com/track/2ZEq4HT450Ye9IFGPTl9qV) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Lonely](https://open.spotify.com/album/3zxRCukRL1NQC4vo7ipUet) | 3:10 | 2021-12-03 | 2022-01-03 |
 | [Long Summer Nights](https://open.spotify.com/track/0ccnGefiTLZYOdHTB7ut1D) | [Oliver Nelson](https://open.spotify.com/artist/4QAp87iZerUP9PKxtLhmW1), [Lilla Vargen](https://open.spotify.com/artist/1bYTiIHnxEdBncCHYCfE4j) | [Long Summer Nights](https://open.spotify.com/album/141USp9NDZaX6aICT4r4JV) | 2:54 | 2022-12-09 |  |

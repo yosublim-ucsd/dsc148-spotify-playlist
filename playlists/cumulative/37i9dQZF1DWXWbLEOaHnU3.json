@@ -606,7 +606,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-24",
+      "date_removed": null,
       "duration_ms": 273375,
       "name": "Behind",
       "url": "https://open.spotify.com/track/1kYEeWOIctxfaPSFFUkExZ"
@@ -812,7 +812,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-22",
+      "date_removed": null,
       "duration_ms": 243428,
       "name": "Carmen",
       "url": "https://open.spotify.com/track/4k5X5M6WGGWNvcXVqqHuMR"
@@ -1604,7 +1604,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 220869,
       "name": "End Of The End (feat. Krigar\u00e8)",
       "url": "https://open.spotify.com/track/322F7GxsKWwpo3Za2cHAHD"
@@ -2014,7 +2014,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 435428,
       "name": "Frequency - Aura Vortex Remix",
       "url": "https://open.spotify.com/track/057ud3gUiKPOJ6CY696J4I"
@@ -2040,7 +2040,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 273043,
       "name": "Full Moon",
       "url": "https://open.spotify.com/track/1VdyrwMU78RwFjR8m5nbjB"
@@ -2505,6 +2505,24 @@
     },
     {
       "album": {
+        "name": "Hogbeza",
+        "url": "https://open.spotify.com/album/3aujW4E3Ma2vnTfgusmGm7"
+      },
+      "artists": [
+        {
+          "name": "Memento Mori",
+          "url": "https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321126,
+      "name": "Hogbeza",
+      "url": "https://open.spotify.com/track/4I78a7kBr9IlrVc69GbwLY"
+    },
+    {
+      "album": {
         "name": "Home Alone (Monod Remix)",
         "url": "https://open.spotify.com/album/5Ulmb846NA4czgUxJhFW7f"
       },
@@ -2960,7 +2978,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-24",
+      "date_removed": null,
       "duration_ms": 181276,
       "name": "Lights On",
       "url": "https://open.spotify.com/track/39FiLxdIcBO5oZaH87Rax7"
@@ -4120,7 +4138,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 395586,
       "name": "Rescue Remedy",
       "url": "https://open.spotify.com/track/40O6AD4vJI620KuFjAdWSV"
@@ -4460,6 +4478,28 @@
       "duration_ms": 224347,
       "name": "See The Light",
       "url": "https://open.spotify.com/track/0LyfNbnOzyPNc8QG8UBkmp"
+    },
+    {
+      "album": {
+        "name": "Shingara",
+        "url": "https://open.spotify.com/album/45ykr0hh1ZI3hhyBMLNZWs"
+      },
+      "artists": [
+        {
+          "name": "Jilax",
+          "url": "https://open.spotify.com/artist/4JivOD3AVVevayZVBLUk1B"
+        },
+        {
+          "name": "3Form",
+          "url": "https://open.spotify.com/artist/6z14QEpwhH5l5jpNypfTNs"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317746,
+      "name": "Shingara",
+      "url": "https://open.spotify.com/track/06uh05Zu2UpLjnH6NydLUL"
     },
     {
       "album": {
@@ -5076,7 +5116,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 368695,
       "name": "Tarana",
       "url": "https://open.spotify.com/track/1nAL2tNR71SJ7b7292chgQ"
@@ -5200,7 +5240,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 287323,
       "name": "The Flute",
       "url": "https://open.spotify.com/track/3CxCYDCB8JCAhqoYGlq8Kf"
@@ -6046,7 +6086,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 238344,
       "name": "Yanama",
       "url": "https://open.spotify.com/track/06KGxO0cdlQl0cD0Y4LHxh"

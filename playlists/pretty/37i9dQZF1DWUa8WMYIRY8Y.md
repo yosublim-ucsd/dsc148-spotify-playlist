@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 
 > Les meilleurs morceaux alternatifs du moment\. Photo : Paramore
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,320 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,346 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 | 49 | [Sunday Afternoon](https://open.spotify.com/track/24s5j6ewZVXK460jEVI1h1) | [YAOUNDÉBOXINGCLUB](https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP) | [Sunday Afternoon](https://open.spotify.com/album/4rDjI4hbV4w4KLsi7JoMjH) | 4:28 |
 | 50 | [Another good year for the roses](https://open.spotify.com/track/1YoOb9usnbDLSAACSSCwzP) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Another good year for the roses](https://open.spotify.com/album/56qRporNZTzZiqwfJaEsV0) | 5:34 |
 
-Snapshot ID: `MCw5OGRiMGY2Njc0ZGZjY2JhYmU5NzNmOTQwMWE4YzFiZjhkMjFjYmRl`
+Snapshot ID: `MCwxNDVkNmEwYjUxZjBlOWEwZjQ5NmZhZjM5OTg1MzhjODAwNThiYTVk`

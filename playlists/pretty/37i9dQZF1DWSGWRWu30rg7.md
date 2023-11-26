@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: bungareyza, Dimansyah Laitupa
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,650 likes - 95 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,654 likes - 95 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 14 | [How Much Do You Love Me](https://open.spotify.com/track/6LwpW2WMxPqICW1dBXsV7a) | [TERUNA](https://open.spotify.com/artist/0YTMep6ABS7gI4txhB1DFL) | [The Surrealist Party](https://open.spotify.com/album/5esuY8C9LUggVuV7XQ24Ky) | 3:46 |
 | 15 | [Will Be My Forever](https://open.spotify.com/track/4P6ef5EwNyevYJpU4HUigL) | [Tiya Rima](https://open.spotify.com/artist/2soMazDNpF3MhIRDhrvD5v) | [Will Be My Forever](https://open.spotify.com/album/6FWUsO3pZdsM5RZFMGLGzF) | 3:42 |
 | 16 | [Celebrate Your Sadness](https://open.spotify.com/track/3IYvBMVH3kOvTdfdNOdKyI) | [Tobias Hosea](https://open.spotify.com/artist/7cPc3OavyjUwdMjfugxoAp) | [Celebrate Your Sadness](https://open.spotify.com/album/4phCHvcav9GEk5V41oZE5V) | 3:28 |
-| 17 | [Hingar Bingar](https://open.spotify.com/track/0OlGe3GbKERM81uSRHlQpe) | [Reaksi](https://open.spotify.com/artist/1yOOMP8xXosRVu4sQkLfWo) | [Hingar Bingar](https://open.spotify.com/album/5lyv2iVVt4tjWALiCPuDAR) | 3:42 |
+| 17 | [Hingar Bingar](https://open.spotify.com/track/0OlGe3GbKERM81uSRHlQpe) | [Reaksi](https://open.spotify.com/artist/0b0aCmBDVr0uEaisB6wLYm) | [Hingar Bingar](https://open.spotify.com/album/5lyv2iVVt4tjWALiCPuDAR) | 3:42 |
 | 18 | [Kill Your Stylist](https://open.spotify.com/track/25v6lHy7xIzA6oKy95AGsF) | [Asian Express](https://open.spotify.com/artist/7gO5CGuo1DhOjlBE7QcJeY) | [Kill Your Stylist](https://open.spotify.com/album/5xNbtqOXjtSBDSy7JxXDrn) | 4:17 |
 | 19 | [Ghosting \(Tak Kan Kembali\)](https://open.spotify.com/track/3rnQsh69Dlie8sOq8vOdjV) | [ELBYTRI](https://open.spotify.com/artist/3I0UZ7B9egDV3pl6C943fX) | [Ghosting \(Tak Kan Kembali\)](https://open.spotify.com/album/6CeDYlPpSVGiaXSJYvt5YP) | 4:15 |
 | 20 | [Friday](https://open.spotify.com/track/776ww5uYwdpx8UwQcOfkYE) | [Collin Junus](https://open.spotify.com/artist/7eJwr0Gb5SZHcPpvkghYPY) | [Friday](https://open.spotify.com/album/1wc4yPHHVxe0I8EgbqWP18) | 2:26 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 94 | [Percaya](https://open.spotify.com/track/0BWpfPvl4jqaTohIZXxVRv) | [YUNOYA](https://open.spotify.com/artist/37IiNPMn4mV08ThuK5V8XG) | [Percaya](https://open.spotify.com/album/26lEJRAEKIEsmIotZCMSau) | 3:00 |
 | 95 | [SHANGHAI](https://open.spotify.com/track/61ofgQLjB8v1PavDMDDtPv) | [Heaven Affair](https://open.spotify.com/artist/2Or6tFioqVmu3O4sEGHlaW) | [SHANGHAI](https://open.spotify.com/album/79CbzZWF6uCUvWYyQjYA7K) | 4:49 |
 
-Snapshot ID: `MCwzOTIwNDBhOGNlZTI3MjNjNzMxZTEzMDRmOWNlMjZkOWY0MzZkY2Vk`
+Snapshot ID: `MCw4YWVkZTZiM2Q0N2YxMzlhYTkxYWQ3Y2M4MmY0YWM3ZmM4OGY3Y2U2`

@@ -1368,7 +1368,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 196683,
       "name": "Alleen Zijn",
       "url": "https://open.spotify.com/track/1lBEW5UIIAJeOG4b2JGn9N"
@@ -5168,7 +5168,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 176579,
       "name": "Dance The Night - From Barbie The Album",
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
@@ -5370,7 +5370,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 176892,
       "name": "Darling",
       "url": "https://open.spotify.com/track/7LtHyF0iUvR1g39UP6kI11"
@@ -6592,7 +6592,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-19",
+      "date_removed": null,
       "duration_ms": 170261,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/4NUmZ5svM1Bbmaz5udqUeJ"
@@ -10227,6 +10227,28 @@
     },
     {
       "album": {
+        "name": "Hier Mag Alles",
+        "url": "https://open.spotify.com/album/7vAX7pi3sdfs65gVw6K1fi"
+      },
+      "artists": [
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "Marco Schuitmaker",
+          "url": "https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195859,
+      "name": "Hier Mag Alles",
+      "url": "https://open.spotify.com/track/1sqe31TzOsjCeex1INgmsq"
+    },
+    {
+      "album": {
         "name": "Hier Ver Vandaan (feat. Frenna)",
         "url": "https://open.spotify.com/album/5KiLxOczqcHvGKorvkaLgF"
       },
@@ -12900,7 +12922,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 183714,
       "name": "Kevin Barry",
       "url": "https://open.spotify.com/track/0sLc24jQdGTNwkieEnDnPe"
@@ -13098,7 +13120,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 205732,
       "name": "Klokkie",
       "url": "https://open.spotify.com/track/1YPGEFybTitvY2ubgPYg8V"
@@ -17050,7 +17072,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-22",
+      "date_removed": null,
       "duration_ms": 164757,
       "name": "Oceaan",
       "url": "https://open.spotify.com/track/7GWU6dQFjYF5YpsAUwZfGq"
@@ -23389,6 +23411,24 @@
     },
     {
       "album": {
+        "name": "De singles: A & B Kanten 1956-1969",
+        "url": "https://open.spotify.com/album/3HrjrKXZQ8L9w42lQomn3C"
+      },
+      "artists": [
+        {
+          "name": "Dorus",
+          "url": "https://open.spotify.com/artist/1pXwedNJp8Le9pKUCzr9pA"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186026,
+      "name": "Twee Motten",
+      "url": "https://open.spotify.com/track/5ttRhxHIw2xddeqtlcwWzs"
+    },
+    {
+      "album": {
         "name": "U & Me (feat. Jonna Fraser & Spanker)",
         "url": "https://open.spotify.com/album/7kYkilr18uS2GmYW7ek4Ju"
       },
@@ -24902,6 +24942,28 @@
       "duration_ms": 230240,
       "name": "What's Love Got to Do with It - 2015 Remaster",
       "url": "https://open.spotify.com/track/3ErsOxqe2RmXkR65wkygDz"
+    },
+    {
+      "album": {
+        "name": "When We Were Young (The Logical Song)",
+        "url": "https://open.spotify.com/album/3vT1YpvKNkGVN3XE1f3kQY"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147432,
+      "name": "When We Were Young (The Logical Song)",
+      "url": "https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq"
     },
     {
       "album": {

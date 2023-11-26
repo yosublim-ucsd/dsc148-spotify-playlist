@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Kee'ahn\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,540 likes - 110 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,564 likes - 110 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 109 | [Hard To Tell](https://open.spotify.com/track/6jgPtwhexa32ckFqhFstn3) | [Sahara Beck](https://open.spotify.com/artist/52eVN5OWWaV4fVShDeJIj3) | [Hard To Tell](https://open.spotify.com/album/3aM1hjyXrIHsgfzj36GN6d) | 3:12 |
 | 110 | [Famous](https://open.spotify.com/track/1dBV0TJOL14mw1Cl1YULPm) | [Logan](https://open.spotify.com/artist/7w8LS5pR81tvDOskUj8x1j) | [Famous](https://open.spotify.com/album/7urbNKYM1F7FC9FZLU3jZs) | 3:06 |
 
-Snapshot ID: `MCw1MDhkY2Q1MTg4OTA3ODQ2ZDA5NzljZTZlNTQwNmVlNTNjMTE2NmI0`
+Snapshot ID: `MCw1MmJhMmVkNWM0OGJkYzg5YWVjOWJkMDJmODliMmZlYjFlYTc2OGY4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Nerissima Serpe
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,194 likes - 51 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,217 likes - 51 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 50 | [Guadagno x2](https://open.spotify.com/track/5DMzIWTK9HtRZOcJxxfUHq) | [Flame](https://open.spotify.com/artist/21L6MycWS5ozaHjts8wrIt) | [Guadagno x2](https://open.spotify.com/album/1PP93VHTU31A0juYtEOlsl) | 2:16 |
 | 51 | [Masri \(feat\. ZiYou\)](https://open.spotify.com/track/1hfd9La1uFtxQAY9OzDVBL) | [Vnubi](https://open.spotify.com/artist/1Q9xOa8YwVuNBwkR2HFii8), [Nesti](https://open.spotify.com/artist/7fUBZgfNvdE2zssOFOZHsj), [ZiYou](https://open.spotify.com/artist/6RdaSvAxIod8j6aBm7cF4U) | [Masri \(feat\. ZiYou\)](https://open.spotify.com/album/39qXLgjvzRDEKdSDFW2hFX) | 2:37 |
 
-Snapshot ID: `MCxlOThjZDFmYzY4Njc4YWZmZDRiZDYxYmQ3NjYzNmQ0MTM0NTE5OTZk`
+Snapshot ID: `MCxlZDM2NTE5MGM4MWIxYjA0MjJmYWMwNmE4YTMxZDYwOGViYzEwMDE0`

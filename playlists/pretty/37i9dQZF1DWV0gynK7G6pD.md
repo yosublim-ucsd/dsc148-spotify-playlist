@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Hélène Grimaud
 
-[Spotify](https://open.spotify.com/user/spotify) - 703,032 likes - 69 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 703,081 likes - 69 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 68 | [Die Schöne Müllerin, D\. 795 \(Arr\. Thomas Guthrie\): No\. 19, Der Müller und der Bach](https://open.spotify.com/track/1bhLGIHWFkXt61yKPZOenG) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Thomas Guthrie](https://open.spotify.com/artist/3v5cH6YFIsuJlt9iGlepeW), [Barokksolistene](https://open.spotify.com/artist/1OcVt5llZFb6dkSeMGhvGJ) | [Schubert: Die Schöne Mullerin](https://open.spotify.com/album/4Mg3ZwTef2lfjp6ZgcE58t) | 4:15 |
 | 69 | [Lucrezia, HWV 145: Già superbo del mio affanno \- Aria](https://open.spotify.com/track/6URAxYUb4F7QMTM7tXZvQJ) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Gemma Bertagnolli](https://open.spotify.com/artist/5T6SmtSi6E1jaMddi1g83Y), [Giovanni Togni](https://open.spotify.com/artist/2vYIBFQ5eamEJssa7SbWra), [Marco Frezzato](https://open.spotify.com/artist/6VWd1rTHBUwb0gUrn5L8aG) | [Lucrezia](https://open.spotify.com/album/0svbSRkd0faTLqfzca3OtO) | 4:34 |
 
-Snapshot ID: `MCwwNDgyZDBjYjVlY2E0ODNlYTRlMzBjYzVjZjdkNjQzZjVjMDFiZDAx`
+Snapshot ID: `MCxiNzFkODY4NWI4NDViMGM4Mzk4NTNlYTMyZGU1N2Y2ZmQxNzBmMDM1`

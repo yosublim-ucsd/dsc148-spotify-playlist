@@ -1,12 +1,12 @@
 {
   "description": "Discover the amazing world of Japanese City Pop from the \u201870s./ \u30cb\u30e5\u30fc\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3068\u3082\u4e00\u7dda\u3092\u753b\u3059\u3001\u90fd\u4f1a\u7684\u3067\u6d17\u7df4\u3055\u308c\u305f\u97f3\u697d\uff1d\u30b7\u30c6\u30a3\u30dd\u30c3\u30d7 \u306e\u8a95\u751f\u3002\u9ece\u660e\u671f\u306e\u8f1d\u304d\u306f\u6c38\u9060\u306b\u3002",
-  "num_followers": 53622,
+  "num_followers": 53685,
   "original_name": "City Pop '70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjU5NTJlY2FhMzE4MTJkYTNjNjEzNjRlZGJlM2UzYzYzZmY0M2Vh",
+  "snapshot_id": "MCxlMTM1OGNiNzgwZmE5M2ZjMTdmMGJkODY2OTNhM2Y2OTA3MTkwYmFj",
   "tracks": [
     {
       "added_at": "2022-11-16 00:55:45",
@@ -471,6 +471,22 @@
     {
       "added_at": "2022-11-16 00:55:45",
       "album": {
+        "name": "City Lights by the Moonlight",
+        "url": "https://open.spotify.com/album/3T28jNrwSvbhytK59y3cAg"
+      },
+      "artists": [
+        {
+          "name": "\u60e3\u9818 \u667a\u5b50",
+          "url": "https://open.spotify.com/artist/69L8hpJ0Tvo0jGRCbX3PNb"
+        }
+      ],
+      "duration_ms": 193693,
+      "name": "I SAY WHO",
+      "url": "https://open.spotify.com/track/1Ehd4X1eWAm2IP43xqPV2x"
+    },
+    {
+      "added_at": "2022-11-16 00:55:45",
+      "album": {
         "name": "\u30b5\u30de\u30fc\u30fb\u30b7\u30a7\u30a4\u30c9",
         "url": "https://open.spotify.com/album/6FFjNNrnEQHDMkQtOG1Oyn"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 206760,
       "name": "\u590f\u306e\u5149\u306b",
       "url": "https://open.spotify.com/track/0sGnR5jtx82QP9kJdkLQUr"
-    },
-    {
-      "added_at": "2022-11-16 00:55:45",
-      "album": {
-        "name": "HORO",
-        "url": "https://open.spotify.com/album/0ccEpDpYPXeXtjaI2UKNd4"
-      },
-      "artists": [
-        {
-          "name": "Chu Kosaka",
-          "url": "https://open.spotify.com/artist/4czBLtKKNzTc6E4cXDYJuA"
-        }
-      ],
-      "duration_ms": 233186,
-      "name": "\u6d41\u661f\u90fd\u5e02",
-      "url": "https://open.spotify.com/track/4FR0ZqOwoQY6FG7AjKPiJ7"
     },
     {
       "added_at": "2022-11-16 00:55:45",
@@ -519,18 +519,18 @@
     {
       "added_at": "2022-11-16 00:55:45",
       "album": {
-        "name": "City Lights by the Moonlight",
-        "url": "https://open.spotify.com/album/3T28jNrwSvbhytK59y3cAg"
+        "name": "HORO",
+        "url": "https://open.spotify.com/album/0ccEpDpYPXeXtjaI2UKNd4"
       },
       "artists": [
         {
-          "name": "\u60e3\u9818 \u667a\u5b50",
-          "url": "https://open.spotify.com/artist/69L8hpJ0Tvo0jGRCbX3PNb"
+          "name": "Chu Kosaka",
+          "url": "https://open.spotify.com/artist/4czBLtKKNzTc6E4cXDYJuA"
         }
       ],
-      "duration_ms": 193693,
-      "name": "I SAY WHO",
-      "url": "https://open.spotify.com/track/1Ehd4X1eWAm2IP43xqPV2x"
+      "duration_ms": 233186,
+      "name": "\u6d41\u661f\u90fd\u5e02",
+      "url": "https://open.spotify.com/track/4FR0ZqOwoQY6FG7AjKPiJ7"
     },
     {
       "added_at": "2022-11-16 00:55:45",
@@ -583,22 +583,6 @@
       "duration_ms": 281680,
       "name": "\u30d4\u30f3\u30af\u30fb\u30b7\u30e3\u30c9\u30a6",
       "url": "https://open.spotify.com/track/1lnWb1e7XWFBnwiKmBq9ZS"
-    },
-    {
-      "added_at": "2022-11-16 00:55:45",
-      "album": {
-        "name": "\u30e2\u30fc\u30cb\u30f3\u30b0",
-        "url": "https://open.spotify.com/album/5NFbf4KyFXu6bKjzBFnHBZ"
-      },
-      "artists": [
-        {
-          "name": "Chu Kosaka",
-          "url": "https://open.spotify.com/artist/4czBLtKKNzTc6E4cXDYJuA"
-        }
-      ],
-      "duration_ms": 242200,
-      "name": "\u30dc\u30f3\u30dc\u30e4\u30fc\u30b8\u6ce2\u6b62\u5834",
-      "url": "https://open.spotify.com/track/2GzdAmcK3Kq3MnCkahwqWa"
     },
     {
       "added_at": "2022-11-16 00:55:45",
@@ -667,6 +651,22 @@
     {
       "added_at": "2022-11-16 00:55:45",
       "album": {
+        "name": "SOUTH OF THE BORDER",
+        "url": "https://open.spotify.com/album/7c23gn3fBcWYojzvB5wBp1"
+      },
+      "artists": [
+        {
+          "name": "Yoshitaka Minami",
+          "url": "https://open.spotify.com/artist/5dS698oTdel4MldPvYoj7p"
+        }
+      ],
+      "duration_ms": 234666,
+      "name": "\u30d7\u30fc\u30eb\u30b5\u30a4\u30c9",
+      "url": "https://open.spotify.com/track/5U0zDcUHmA86AFDP8hc1pX"
+    },
+    {
+      "added_at": "2022-11-16 00:55:45",
+      "album": {
         "name": "WE ARE JUST TAKING OFF",
         "url": "https://open.spotify.com/album/2SUGtlVqzJ69LDlmDLPbNi"
       },
@@ -683,8 +683,8 @@
     {
       "added_at": "2022-11-16 00:55:45",
       "album": {
-        "name": "HORO",
-        "url": "https://open.spotify.com/album/0ccEpDpYPXeXtjaI2UKNd4"
+        "name": "\u30e2\u30fc\u30cb\u30f3\u30b0",
+        "url": "https://open.spotify.com/album/5NFbf4KyFXu6bKjzBFnHBZ"
       },
       "artists": [
         {
@@ -692,25 +692,9 @@
           "url": "https://open.spotify.com/artist/4czBLtKKNzTc6E4cXDYJuA"
         }
       ],
-      "duration_ms": 185893,
-      "name": "\u3057\u3089\u3051\u3061\u307e\u3046\u305c",
-      "url": "https://open.spotify.com/track/37Yy2JCzIA5t7Avs8j56Dh"
-    },
-    {
-      "added_at": "2022-11-16 00:55:45",
-      "album": {
-        "name": "SOUTH OF THE BORDER",
-        "url": "https://open.spotify.com/album/7c23gn3fBcWYojzvB5wBp1"
-      },
-      "artists": [
-        {
-          "name": "Yoshitaka Minami",
-          "url": "https://open.spotify.com/artist/5dS698oTdel4MldPvYoj7p"
-        }
-      ],
-      "duration_ms": 234666,
-      "name": "\u30d7\u30fc\u30eb\u30b5\u30a4\u30c9",
-      "url": "https://open.spotify.com/track/5U0zDcUHmA86AFDP8hc1pX"
+      "duration_ms": 242200,
+      "name": "\u30dc\u30f3\u30dc\u30e4\u30fc\u30b8\u6ce2\u6b62\u5834",
+      "url": "https://open.spotify.com/track/2GzdAmcK3Kq3MnCkahwqWa"
     },
     {
       "added_at": "2022-11-16 00:55:45",
@@ -763,6 +747,22 @@
     {
       "added_at": "2022-11-16 00:55:45",
       "album": {
+        "name": "SOUTH OF THE BORDER",
+        "url": "https://open.spotify.com/album/7c23gn3fBcWYojzvB5wBp1"
+      },
+      "artists": [
+        {
+          "name": "Yoshitaka Minami",
+          "url": "https://open.spotify.com/artist/5dS698oTdel4MldPvYoj7p"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "\u591c\u9593\u98db\u884c",
+      "url": "https://open.spotify.com/track/0nJSH4TfCIFtIzVhpTAQ9T"
+    },
+    {
+      "added_at": "2022-11-16 00:55:45",
+      "album": {
         "name": "Late Late Summer",
         "url": "https://open.spotify.com/album/7mmAMvs6tZsPhgXyDmSYEz"
       },
@@ -779,18 +779,18 @@
     {
       "added_at": "2022-11-16 00:55:45",
       "album": {
-        "name": "City Pop Essentials ~ Idols 2 ~",
-        "url": "https://open.spotify.com/album/6MRGLpcwXwsLTWRuPmcM6Y"
+        "name": "HORO",
+        "url": "https://open.spotify.com/album/0ccEpDpYPXeXtjaI2UKNd4"
       },
       "artists": [
         {
-          "name": "Junko Ohashi & Minoya Central Station",
-          "url": "https://open.spotify.com/artist/3RZbbIjngtULxQCp3wZrrM"
+          "name": "Chu Kosaka",
+          "url": "https://open.spotify.com/artist/4czBLtKKNzTc6E4cXDYJuA"
         }
       ],
-      "duration_ms": 227266,
-      "name": "\u30b7\u30f3\u30d7\u30eb\u30fb\u30e9\u30d6",
-      "url": "https://open.spotify.com/track/0HZDrIXAyBCnkpz1Hsa6jm"
+      "duration_ms": 185893,
+      "name": "\u3057\u3089\u3051\u3061\u307e\u3046\u305c",
+      "url": "https://open.spotify.com/track/37Yy2JCzIA5t7Avs8j56Dh"
     },
     {
       "added_at": "2022-11-16 00:55:45",
@@ -811,18 +811,18 @@
     {
       "added_at": "2022-11-16 00:55:45",
       "album": {
-        "name": "\u30b8\u30e3\u30b9\u30c8\u30fb\u30de\u30a4\u30fb\u30d5\u30a3\u30fc\u30ea\u30f3\u30b0 +2",
-        "url": "https://open.spotify.com/album/4dZTkuCW89dgiRki6f3V7F"
+        "name": "City Pop Essentials ~ Idols 2 ~",
+        "url": "https://open.spotify.com/album/6MRGLpcwXwsLTWRuPmcM6Y"
       },
       "artists": [
         {
-          "name": "KAORU",
-          "url": "https://open.spotify.com/artist/6dSipPIaYrwAIoUYF3OUeg"
+          "name": "Junko Ohashi & Minoya Central Station",
+          "url": "https://open.spotify.com/artist/3RZbbIjngtULxQCp3wZrrM"
         }
       ],
-      "duration_ms": 223600,
-      "name": "JOKER",
-      "url": "https://open.spotify.com/track/7qPyQXFok3Dcy6xcHpFHjg"
+      "duration_ms": 227266,
+      "name": "\u30b7\u30f3\u30d7\u30eb\u30fb\u30e9\u30d6",
+      "url": "https://open.spotify.com/track/0HZDrIXAyBCnkpz1Hsa6jm"
     }
   ],
   "unique_name": "City Pop '70s",

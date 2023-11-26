@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu mengsedih yang menyayat hati \ud83d\ude2d",
-  "num_followers": 1112101,
+  "num_followers": 1112478,
   "original_name": "Generasi Galau",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDVhNWY5MDY2OWE3NGU0MjU1NjgxZTQyYTM0ODEwYzA2ODI4ODA0",
+  "snapshot_id": "MCxiZjU5MzFjZjk2NjE2MDEzZTJhMzM2YTcyMGQxOWJlMGE5MGI3ODc2",
   "tracks": [
     {
       "added_at": "2023-11-13 03:53:38",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-11-13 03:53:38",
       "album": {
-        "name": "ASHER",
-        "url": "https://open.spotify.com/album/4km2qQIoGCCevm1Qf51OcE"
-      },
-      "artists": [
-        {
-          "name": "Fabio Asher",
-          "url": "https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I"
-        }
-      ],
-      "duration_ms": 246730,
-      "name": "Rumah Singgah",
-      "url": "https://open.spotify.com/track/6raMBnVBIvvUngMLyDdzyP"
-    },
-    {
-      "added_at": "2023-11-13 03:53:38",
-      "album": {
         "name": "Manusia",
         "url": "https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 242000,
       "name": "Hati-Hati di Jalan",
       "url": "https://open.spotify.com/track/2hHeGD57S0BcopfVcmehdl"
+    },
+    {
+      "added_at": "2023-11-13 03:53:38",
+      "album": {
+        "name": "ASHER",
+        "url": "https://open.spotify.com/album/4km2qQIoGCCevm1Qf51OcE"
+      },
+      "artists": [
+        {
+          "name": "Fabio Asher",
+          "url": "https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I"
+        }
+      ],
+      "duration_ms": 246730,
+      "name": "Rumah Singgah",
+      "url": "https://open.spotify.com/track/6raMBnVBIvvUngMLyDdzyP"
     },
     {
       "added_at": "2023-11-13 03:53:38",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-11-13 03:53:38",
       "album": {
-        "name": "The 2000's Greatest",
-        "url": "https://open.spotify.com/album/2hwNRtZyqmEcCzV47OUAlN"
-      },
-      "artists": [
-        {
-          "name": "Dewa 19",
-          "url": "https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d"
-        }
-      ],
-      "duration_ms": 300512,
-      "name": "Kangen",
-      "url": "https://open.spotify.com/track/3ZyMRe0jlSqffPBMeHUZFX"
-    },
-    {
-      "added_at": "2023-11-13 03:53:38",
-      "album": {
         "name": "My First Love",
         "url": "https://open.spotify.com/album/43XE7IVshsrjvuTvcLA5Hz"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 263466,
       "name": "Seandainya",
       "url": "https://open.spotify.com/track/1FZQpbWv9WIi7xn2rguVDy"
+    },
+    {
+      "added_at": "2023-11-13 03:53:38",
+      "album": {
+        "name": "The 2000's Greatest",
+        "url": "https://open.spotify.com/album/2hwNRtZyqmEcCzV47OUAlN"
+      },
+      "artists": [
+        {
+          "name": "Dewa 19",
+          "url": "https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d"
+        }
+      ],
+      "duration_ms": 300512,
+      "name": "Kangen",
+      "url": "https://open.spotify.com/track/3ZyMRe0jlSqffPBMeHUZFX"
     }
   ],
   "unique_name": "Generasi Galau",

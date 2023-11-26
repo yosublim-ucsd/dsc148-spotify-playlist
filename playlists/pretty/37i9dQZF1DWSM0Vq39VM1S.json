@@ -1,12 +1,12 @@
 {
   "description": "Le rayon de soleil musical de votre matin\u00e9e.",
-  "num_followers": 155937,
+  "num_followers": 156049,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYmVlMzQyMzk1MGJhMzM3MDc3ZGYzZjE5NzA4N2I1YTZjZjdkNTI1",
+  "snapshot_id": "MCxiNmJjMTkwZjAzMTE5N2YyY2Y2ZGZhYWNiMGJmMTM4MTBjMDMxZTE3",
   "tracks": [
     {
       "added_at": "2023-11-22 15:10:44",
@@ -175,6 +175,22 @@
     {
       "added_at": "2023-11-22 15:10:44",
       "album": {
+        "name": "Chapters",
+        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 216560,
+      "name": "When You Love Someone",
+      "url": "https://open.spotify.com/track/0TXNKTzawI6VgLoA9UauRp"
+    },
+    {
+      "added_at": "2023-11-22 15:10:44",
+      "album": {
         "name": "folklore (deluxe version)",
         "url": "https://open.spotify.com/album/1pzvBxYgT6OVwJLtHkrdQK"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 285640,
       "name": "exile (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/5S4aYQAJOwJMAamANWlICO"
-    },
-    {
-      "added_at": "2023-11-22 15:10:44",
-      "album": {
-        "name": "Chapters",
-        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 216560,
-      "name": "When You Love Someone",
-      "url": "https://open.spotify.com/track/0TXNKTzawI6VgLoA9UauRp"
     },
     {
       "added_at": "2023-11-22 15:10:44",
@@ -419,26 +419,6 @@
     {
       "added_at": "2023-11-22 15:10:44",
       "album": {
-        "name": "The Miseducation of Lauryn Hill",
-        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        },
-        {
-          "name": "Carlos Santana",
-          "url": "https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ"
-        }
-      ],
-      "duration_ms": 369293,
-      "name": "To Zion (feat. Carlos Santana)",
-      "url": "https://open.spotify.com/track/7x6hO9VMAee9x1iWaeNkL6"
-    },
-    {
-      "added_at": "2023-11-22 15:10:44",
-      "album": {
         "name": "Citizen of Glass",
         "url": "https://open.spotify.com/album/78BjMfLH8YUXM6hbodHKmA"
       },
@@ -471,6 +451,42 @@
     {
       "added_at": "2023-11-22 15:10:44",
       "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        },
+        {
+          "name": "Carlos Santana",
+          "url": "https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ"
+        }
+      ],
+      "duration_ms": 369293,
+      "name": "To Zion (feat. Carlos Santana)",
+      "url": "https://open.spotify.com/track/7x6hO9VMAee9x1iWaeNkL6"
+    },
+    {
+      "added_at": "2023-11-22 15:10:44",
+      "album": {
+        "name": "Answer Phone",
+        "url": "https://open.spotify.com/album/64J78r5rx9qs9ZJZ4xSkBt"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 160019,
+      "name": "Answer Phone",
+      "url": "https://open.spotify.com/track/0vYNMCubrGX6XHpX0KrGOe"
+    },
+    {
+      "added_at": "2023-11-22 15:10:44",
+      "album": {
         "name": "If You Leave",
         "url": "https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 284130,
       "name": "The Only Thing",
       "url": "https://open.spotify.com/track/17UVxL0MYEmKzXppfUL5in"
-    },
-    {
-      "added_at": "2023-11-22 15:10:44",
-      "album": {
-        "name": "Answer Phone",
-        "url": "https://open.spotify.com/album/64J78r5rx9qs9ZJZ4xSkBt"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 160019,
-      "name": "Answer Phone",
-      "url": "https://open.spotify.com/track/0vYNMCubrGX6XHpX0KrGOe"
     },
     {
       "added_at": "2023-11-22 15:10:44",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-11-22 15:10:44",
       "album": {
-        "name": "Magnetised (Acoustic)",
-        "url": "https://open.spotify.com/album/2UQjNLTufvDV6PKx2Kn8v2"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 292186,
-      "name": "Magnetised - Acoustic",
-      "url": "https://open.spotify.com/track/5baXzOMmD0sf26hayRqfqI"
-    },
-    {
-      "added_at": "2023-11-22 15:10:44",
-      "album": {
         "name": "Paradis",
         "url": "https://open.spotify.com/album/3TlmlAsJZhteMKH47jkDiL"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 171160,
       "name": "Gaffe aux autres",
       "url": "https://open.spotify.com/track/6PbRfvvnsJr6fIi3iunNyn"
+    },
+    {
+      "added_at": "2023-11-22 15:10:44",
+      "album": {
+        "name": "Magnetised (Acoustic)",
+        "url": "https://open.spotify.com/album/2UQjNLTufvDV6PKx2Kn8v2"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 292186,
+      "name": "Magnetised - Acoustic",
+      "url": "https://open.spotify.com/track/5baXzOMmD0sf26hayRqfqI"
     },
     {
       "added_at": "2023-11-22 15:10:44",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-11-22 15:10:44",
       "album": {
-        "name": "Like A Million Dreams (Live)",
-        "url": "https://open.spotify.com/album/5QRgGWs8fZvzqvcHbIQqey"
-      },
-      "artists": [
-        {
-          "name": "Yodelice",
-          "url": "https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ"
-        }
-      ],
-      "duration_ms": 229464,
-      "name": "Talk to Me - Live",
-      "url": "https://open.spotify.com/track/07XDzVJcwPqKoDqUjUNJ6V"
-    },
-    {
-      "added_at": "2023-11-22 15:10:44",
-      "album": {
         "name": "Unfurl",
         "url": "https://open.spotify.com/album/7pBCXayVLX3fkIDWtMAwOp"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 229533,
       "name": "YaYaYa",
       "url": "https://open.spotify.com/track/4Gc1SJ7eN65EcTvDMPcCzz"
+    },
+    {
+      "added_at": "2023-11-22 15:10:44",
+      "album": {
+        "name": "Like A Million Dreams (Live)",
+        "url": "https://open.spotify.com/album/5QRgGWs8fZvzqvcHbIQqey"
+      },
+      "artists": [
+        {
+          "name": "Yodelice",
+          "url": "https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ"
+        }
+      ],
+      "duration_ms": 229464,
+      "name": "Talk to Me - Live",
+      "url": "https://open.spotify.com/track/07XDzVJcwPqKoDqUjUNJ6V"
     }
   ],
   "unique_name": "R\u00e9veil en douceur",

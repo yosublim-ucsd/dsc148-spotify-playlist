@@ -3803,6 +3803,24 @@
     },
     {
       "album": {
+        "name": "En av ungarna",
+        "url": "https://open.spotify.com/album/6ekSfXbb6ry0JE0hhq5VMI"
+      },
+      "artists": [
+        {
+          "name": "Den svenska bj\u00f6rnstammen",
+          "url": "https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "En av ungarna",
+      "url": "https://open.spotify.com/track/0d7I3Dlg0uAwkZOtUpUYIl"
+    },
+    {
+      "album": {
         "name": "Samlade s\u00e5nger",
         "url": "https://open.spotify.com/album/53W6Wvkzo0eWW2YcwWX0CL"
       },
@@ -4512,6 +4530,24 @@
       "duration_ms": 214293,
       "name": "Fire Burns You Cold",
       "url": "https://open.spotify.com/track/25ffJRgALd9ZCr22nHl8OJ"
+    },
+    {
+      "album": {
+        "name": "Fire Escapes",
+        "url": "https://open.spotify.com/album/7kkPQtRxES08kc1r24BpjK"
+      },
+      "artists": [
+        {
+          "name": "Winona Oak",
+          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170356,
+      "name": "Fire Escapes",
+      "url": "https://open.spotify.com/track/7f8lDyHliy2grjseiVV7JS"
     },
     {
       "album": {
@@ -6726,7 +6762,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 245247,
       "name": "I Got It All",
       "url": "https://open.spotify.com/track/1JHlUpeFlfNvlmHrQXL3bC"
@@ -12395,6 +12431,24 @@
     },
     {
       "album": {
+        "name": "Tjuvjakt",
+        "url": "https://open.spotify.com/album/4xD2AdE5l9uqHoH1y2hrhY"
+      },
+      "artists": [
+        {
+          "name": "Tjuvjakt",
+          "url": "https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185392,
+      "name": "Solsken",
+      "url": "https://open.spotify.com/track/4lf0FPLbugnTdRJCUSNlIg"
+    },
+    {
+      "album": {
         "name": "Som du vill",
         "url": "https://open.spotify.com/album/7Bt9EjtQhswBKqqOo9MiBU"
       },
@@ -13702,7 +13756,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 178020,
       "name": "Tack & F\u00f6rl\u00e5t",
       "url": "https://open.spotify.com/track/77EB8QJSuJ0oCrxsohpOMs"
@@ -14492,7 +14546,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 194643,
       "name": "Tiotusen",
       "url": "https://open.spotify.com/track/0hpsopcXjR8nXMXE7EWwn7"

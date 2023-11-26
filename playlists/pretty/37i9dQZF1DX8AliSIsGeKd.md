@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Township Rebellion
 
-[Spotify](https://open.spotify.com/user/spotify) - 621,469 likes - 91 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 621,688 likes - 91 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Luminous](https://open.spotify.com/track/7MptmD653XjVFIwjrdWykV) | [Township Rebellion](https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R) | [Luminous](https://open.spotify.com/album/4DKmRMycENtkMhBK6i80Xd) | 5:01 |
-| 2 | [Simulation](https://open.spotify.com/track/5166Ws58cqwtQE2YR7Nyal) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Simulation](https://open.spotify.com/album/08D0nW5tIE8sRDIZruTU2V) | 3:18 |
+| 2 | [Simulation](https://open.spotify.com/track/5166Ws58cqwtQE2YR7Nyal) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Simulation](https://open.spotify.com/album/08D0nW5tIE8sRDIZruTU2V) | 3:15 |
 | 3 | [Disconnect](https://open.spotify.com/track/4yzaeprujqqP0lUFrdYHel) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Disconnect](https://open.spotify.com/album/66faGqyvcdo34RE3CeJByv) | 4:22 |
 | 4 | [Stars In Your Eyes \(feat\. Brave Culture\)](https://open.spotify.com/track/6ohIMkHb95QNE0AJkoNJZY) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Weekend Heroes](https://open.spotify.com/artist/0f38k6IM0q7Je0QihLXpD8), [Brave Culture](https://open.spotify.com/artist/2ae35zW7NgAB7k7XlWYOcd) | [Stars In Your Eyes \(feat\. Brave Culture\)](https://open.spotify.com/album/5jrxESXj1aBiPyqF1TGdlQ) | 3:17 |
 | 5 | [Thank You So Much](https://open.spotify.com/track/7CVIp04tpNbuVlt4zmQMkt) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Global Underground: Unique](https://open.spotify.com/album/6V10XSXR6LfUBbniVXyPtC) | 6:08 |
 | 6 | [Dimension](https://open.spotify.com/track/2kWWPlO74XtWFY0xiaFFqH) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Dimension](https://open.spotify.com/album/6x0CBRdU8588pZ40icfONg) | 8:01 |
 | 7 | [Hypochondria](https://open.spotify.com/track/2QI8L5Zn8EgHaDkYjCiBcH) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Hypochondria](https://open.spotify.com/album/6BfZRqmyiPDvJ4gnThXhQf) | 5:46 |
-| 8 | [Power House](https://open.spotify.com/track/5RNJQYjPzlrCXwX48St7UR) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [Power House](https://open.spotify.com/album/0R4Rx9VsDDnulXCPbOWW14) | 5:30 |
+| 8 | [PowerHouse](https://open.spotify.com/track/5RNJQYjPzlrCXwX48St7UR) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [PowerHouse](https://open.spotify.com/album/0R4Rx9VsDDnulXCPbOWW14) | 5:30 |
 | 9 | [Here's The Fear](https://open.spotify.com/track/7LMUqEPcZ5L8Vtjrtg0e7h) | [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Wennink](https://open.spotify.com/artist/5ABv9Z75CGfgyALYFpB6Qk) | [Here's The Fear](https://open.spotify.com/album/3TVdwf87PJVtIcBCynNUa4) | 6:12 |
 | 10 | [This Life \(feat\. Tom Smith\)](https://open.spotify.com/track/4I7874tDqZCophpQwyMsEj) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Tom Smith](https://open.spotify.com/artist/5nw0YnxEyqweUJ4Piu9TWM) | [This Life \(feat\. Tom Smith\)](https://open.spotify.com/album/3lorSURnDgAL373NgbkvRz) | 4:08 |
 | 11 | [Jai](https://open.spotify.com/track/0I2SMryhYP1uu2RyGW8Egs) | [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs), [N1RVAAN](https://open.spotify.com/artist/1LhuBvyi63MWrNF5aBG9lA) | [Jai](https://open.spotify.com/album/4VoSGRyNmId6BOgNF6wcEE) | 5:39 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 90 | [EST](https://open.spotify.com/track/1ojCQ0v59O77rKZbwN8aQh) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [EST](https://open.spotify.com/album/0uTa7zuhN42yVclpAkJL9i) | 5:36 |
 | 91 | [It's All Yours](https://open.spotify.com/track/0sD8btPVrOl5RcEZFoc4A4) | [Dapayk & Padberg](https://open.spotify.com/artist/0CSUa2tToUsyQZYhQPPhyl) | [It's All Yours](https://open.spotify.com/album/72T5KCki9iRKjn24G5EtGN) | 3:06 |
 
-Snapshot ID: `MCxkZWQ5YWM0Y2I3NjlhNDBjZjMxYjI1NmUyODJiOGE1MGM3YmI0ZjQ1`
+Snapshot ID: `MCwwNTAwYTljMGRhY2NkMzQyMWY0NmFiOTFmYjljNzU2NWI0MDVmYjQ1`

@@ -4,7 +4,7 @@
 
 > The tracks that you love from the artists you love\. Cover: Erykah Badu
 
-171 songs - 12 hr 50 min
+172 songs - 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [Halfcrazy](https://open.spotify.com/track/3oXNIpoUMdk8qGkwCeXqGv) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Juslisen](https://open.spotify.com/album/070dWVyJIxcKQmxPRov0Y5) | 4:14 | 2021-07-09 |  |
 | [Hear Me \- Jazzyfatnastees](https://open.spotify.com/track/0diM9EauCprZhM25ew6qof) | [Jazzyfatnastees](https://open.spotify.com/artist/4o6gZFD9CkUCVzYqrDR3wV) | [Muzik of the Mind and Spirit \- a Concept Compilation](https://open.spotify.com/album/7ermETX1IloxCO80fX1poy) | 4:33 | 2021-07-09 |  |
 | [Heard It All Before](https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co) | [Sunshine Anderson](https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK) | [Your Woman](https://open.spotify.com/album/2y7sSNd02a5uTfauRPY0lp) | 4:55 | 2021-07-09 |  |
-| [Hopeless \(From the New Line Cinema Film, "Love Jones"\)](https://open.spotify.com/track/1JzVKAvm4ZF74G6xhuRu5G) | [Dionne Farris](https://open.spotify.com/artist/7HO1DbzU86pWWp1vBN7l6k) | [Love Jones The Music](https://open.spotify.com/album/4JAftHLhvqnVkFL3f4hv0Z) | 3:54 | 2022-06-16 |  |
+| [Hopeless \(From the New Line Cinema Film, "Love Jones"\)](https://open.spotify.com/track/1JzVKAvm4ZF74G6xhuRu5G) | [Dionne Farris](https://open.spotify.com/artist/7HO1DbzU86pWWp1vBN7l6k) | [Love Jones The Music](https://open.spotify.com/album/4JAftHLhvqnVkFL3f4hv0Z) | 3:54 | 2022-06-16 | 2023-11-26 |
+| [Hopeless \(From the New Line Cinema Film, "Love Jones"\)](https://open.spotify.com/track/2XKA576OqiY4PTKpVTA9AC) | [Dionne Farris](https://open.spotify.com/artist/7HO1DbzU86pWWp1vBN7l6k) | [Love Jones The Music](https://open.spotify.com/album/7dt0RR2Kbvu3ZuWloudfjI) | 3:54 | 2022-06-16 |  |
 | [Hopeless \(From the New Line Cinema Film, "Love Jones"\)](https://open.spotify.com/track/5b3MTPM3FsBDFtyMGc5xQL) | [Dionne Farris](https://open.spotify.com/artist/7HO1DbzU86pWWp1vBN7l6k) | [LOVE JONES THE MUSIC](https://open.spotify.com/album/5x9foMlnKm9Ie3MxRK5Kxg) | 3:54 | 2021-07-09 | 2022-07-29 |
 | [I Am Your Woman](https://open.spotify.com/track/30Abx6gxdPaycqNUilFB06) | [Syleena Johnson](https://open.spotify.com/artist/1lE6SEy8f84Zhjvp7r8yTD) | [Chapter 1: Love, Pain and Forgiveness](https://open.spotify.com/album/5LjPdQDUBSH9fvfLsYdXjU) | 4:26 | 2021-07-09 |  |
 | [I Believe in You](https://open.spotify.com/track/6uQQbCOrg3d1ewuz2cbjmL) | [Amp Fiddler](https://open.spotify.com/artist/39g75EmRFeFbvHhsGjUpLU) | [Waltz of a Ghetto Fly](https://open.spotify.com/album/6eX29ysLt9GUE4srUvbJaK) | 3:44 | 2022-06-16 |  |

@@ -430,7 +430,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 221066,
       "name": "C\u00fcbik",
       "url": "https://open.spotify.com/track/5BxETnZ8Dzm86jcuFAozOa"
@@ -740,6 +740,24 @@
       "duration_ms": 211733,
       "name": "Everybody's Free (To Feel Good)",
       "url": "https://open.spotify.com/track/4rkiST7hsHEuU5EMvApemD"
+    },
+    {
+      "album": {
+        "name": "Far Out / Higher",
+        "url": "https://open.spotify.com/album/4PL37TxrXrlFCamUJDdGrO"
+      },
+      "artists": [
+        {
+          "name": "Sonz Of A Loop Da Loop Era",
+          "url": "https://open.spotify.com/artist/7BVU0VCeUMAa18zDX5mOyh"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295720,
+      "name": "Far out",
+      "url": "https://open.spotify.com/track/2EdiQq1vN8sCZUEccfYB8P"
     },
     {
       "album": {
@@ -2178,10 +2196,28 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 267106,
       "name": "Voodoo Ray",
       "url": "https://open.spotify.com/track/1Ex3FSidOBkODU3pcsCRYK"
+    },
+    {
+      "album": {
+        "name": "Hot Lemonade",
+        "url": "https://open.spotify.com/album/2GYZ3Z8rM4RzeMBbOI52ua"
+      },
+      "artists": [
+        {
+          "name": "A Guy Called Gerald",
+          "url": "https://open.spotify.com/artist/1TV0WTE9ukywcLGMh4j4iU"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267106,
+      "name": "Voodoo Ray",
+      "url": "https://open.spotify.com/track/2P2NuxsDeOIzyjnqEhLGBD"
     },
     {
       "album": {

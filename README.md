@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(7065\)
+## Playlists \(7067\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -6402,6 +6402,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Viva Latino No\. 1s](/playlists/pretty/37i9dQZF1DXbzvkbLgvQvI.md)
 - [Viva Latino Presents: Best Latin Songs of 2022](/playlists/pretty/37i9dQZF1DX8L1VmOcEBjS.md)
 - [Vivo de Cumbia](/playlists/pretty/37i9dQZF1DWXeDU5PJuUQs.md)
+- [Vivo de Pop](/playlists/pretty/37i9dQZF1DWV7NKZc0ARlk.md)
 - [Vivo de Rock](/playlists/pretty/37i9dQZF1DWW6E2JpQb9U9.md)
 - [Vivo de Salsa](/playlists/pretty/37i9dQZF1DWSgTTUXeVFiG.md)
 - [Vlna Radosti](/playlists/pretty/37i9dQZF1DWZ2ZhaFg2iRb.md)
@@ -7049,6 +7050,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [天籟美聲](/playlists/pretty/37i9dQZF1DWXxk55r8Lbgr.md)
 - [太陽を見てしまった](/playlists/pretty/37i9dQZF1DX1KJ0jRmRVDZ.md)
 - [孤独の音が聴こえる](/playlists/pretty/37i9dQZF1DX9GQYELvBbt6.md)
+- [安寧鋼琴聲](/playlists/pretty/37i9dQZF1DWTIcwQEMKk2L.md)
 - [弱虫ペダル \-Yowamushi Pedal\-](/playlists/pretty/37i9dQZF1DX4jN8Su7sLaI.md)
 - [心情大振](/playlists/pretty/37i9dQZF1DX6AozTSWwAdQ.md)
 - [恋するプレイリスト](/playlists/pretty/37i9dQZF1DX328xs24cFGI.md)

@@ -4,7 +4,7 @@
 
 > The best newly released songs of the week\. Cover: Alextbh
 
-8,488 songs - 19 day 9 hr 16 min
+8,489 songs - 19 day 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7244,7 +7244,7 @@
 | [Time](https://open.spotify.com/track/1uFXVAXpI3FkU9yiNavhAP) | [Sachiko](https://open.spotify.com/artist/6zoDcc5jPDXMtR0kpnZgAD) | [Time](https://open.spotify.com/album/5F03RNf468uszjwXeQqGWE) | 4:12 | 2022-02-24 | 2022-03-04 |
 | [Time After Time](https://open.spotify.com/track/0W98yebOu4MC2ULhurYbAZ) | [Pascal Letoublon](https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a), [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Time After Time](https://open.spotify.com/album/2xl4YF1t2nMHIooLxeipdx) | 2:52 | 2023-01-05 | 2023-01-13 |
 | [Time Bomb](https://open.spotify.com/track/7n1XKFfjkUjrcnzeSnNLVD) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good \(+ Time Bomb\)](https://open.spotify.com/album/0Bu6vqh3RrzgWTVGSkS4g7) | 3:23 | 2022-07-21 | 2022-07-29 |
-| [Time Machine \(feat\. MSPUIYI\)](https://open.spotify.com/track/0mZFBV9kO5a9DmzV16j9IA) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [MSPUIYI](https://open.spotify.com/artist/1kcyeJ6CdwVqRsKEmkb9Ul) | [Time Machine \(feat\. MSPUIYI\)](https://open.spotify.com/album/1Xu73EVMOz9PQm6NhUmt1w) | 2:27 | 2023-11-23 |  |
+| [Time Machine \(with MSPUIYI\)](https://open.spotify.com/track/0mZFBV9kO5a9DmzV16j9IA) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [MSPUIYI](https://open.spotify.com/artist/1kcyeJ6CdwVqRsKEmkb9Ul) | [Time Machine \(with MSPUIYI\)](https://open.spotify.com/album/1Xu73EVMOz9PQm6NhUmt1w) | 2:27 | 2023-11-23 |  |
 | [TIME MOVES SLOWER](https://open.spotify.com/track/0Yo2jyowBvoLNBcz45C1z6) | [Varis](https://open.spotify.com/artist/53DTvTbpR2jK1KUrR13431) | [TIME MOVES SLOWER](https://open.spotify.com/album/0CSxmwgg1Ei5xPuKbAVRig) | 3:48 | 2022-06-30 | 2022-07-08 |
 | [Time of Your Life](https://open.spotify.com/track/6QvZeQylq5VDMkBx4Uvb0f) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [Time of Your Life](https://open.spotify.com/album/1817WuNlDWoq89RhEofTXA) | 2:55 | 2022-11-10 | 2022-11-18 |
 | [Time Spent Walking Through Memories \(Feat\. 10CM\)](https://open.spotify.com/track/484dgUyawknLkNyQfXoDkh) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Memories](https://open.spotify.com/album/38BploYaSSuEFrk7974uX1) | 3:34 | 2023-09-14 | 2023-09-22 |
@@ -8128,6 +8128,7 @@
 | [You Can Think Of Him](https://open.spotify.com/track/3xWmg3OFSkjKwe5QMrG02E) | [Ashley Singh](https://open.spotify.com/artist/0W5v1wZ9vqtoIgklZa1wcH) | [You Can Think Of Him](https://open.spotify.com/album/2P4PONFAFg1DnUiAztsYWE) | 3:06 | 2023-03-30 | 2023-04-07 |
 | [You Can’t Change Me \(feat\. Raye\)](https://open.spotify.com/track/4HjLBWJ7AKZQcmupi1NSM5) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [You Can’t Change Me \(feat\. Raye\)](https://open.spotify.com/album/5OSSa4lPIbnn1VGtwlojCx) | 2:50 | 2022-11-03 | 2022-11-11 |
 | [You Could Start A Cult \(with Lizzy McAlpine\)](https://open.spotify.com/track/45PRcjOnvjz6VMl7tI3O3c) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [You Could Start A Cult \(with Lizzy McAlpine\)](https://open.spotify.com/album/6sTwHqzlr0QYUzH5Dx4pwk) | 3:14 | 2023-10-26 | 2023-11-03 |
+| [You Did Say So](https://open.spotify.com/track/5LcRW8Wc8GY8rgQ2qyGDzY) | [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z) | [You Did Say So](https://open.spotify.com/album/7aaF8AENb7UviBm2Q1yFGh) | 3:25 | 2023-11-23 |  |
 | [You Don't Even](https://open.spotify.com/track/22ugIn69GgAXsaKox9lXI3) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [You Don't Even](https://open.spotify.com/album/57DIram00k8ChKYxsWJB5l) | 2:18 | 2023-09-07 | 2023-09-15 |
 | [You Don't Even Know Me](https://open.spotify.com/track/0gqspClYQRq1Bdc3R48lnj) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [You Don’t Even Know Me](https://open.spotify.com/album/1YSZG8X5xJNi3KL9pxgghn) | 2:31 | 2023-11-16 | 2023-11-24 |
 | [You Don't Ignore \(Too Late\)](https://open.spotify.com/track/2uWCpK3UYOCF4lDcE36XHM) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [You Don't Ignore \(Too Late\)](https://open.spotify.com/album/5zzxMokPf1XRxfM1n6NnFB) | 3:10 | 2023-07-06 | 2023-07-14 |

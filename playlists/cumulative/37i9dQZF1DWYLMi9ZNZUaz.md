@@ -4,7 +4,7 @@
 
 > Dòng chảy của rap Việt luôn cuồn cuộn\. Ảnh bìa: Đen
 
-79 songs - 4 hr 30 min
+80 songs - 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Em Thích](https://open.spotify.com/track/3XEspwit4d8gwKKgeopfCv) | [Sean](https://open.spotify.com/artist/1xNqmjTeWon7iX8kbPKpZz), [Lửa](https://open.spotify.com/artist/4HOm37irsRwVEddNx6d0lq) | [Em Thích](https://open.spotify.com/album/0o0vf9ksC3aChWzJXZj6D0) | 2:56 | 2023-11-14 |  |
 | [Exit Sign](https://open.spotify.com/track/3UX7FjJDl6RodnWekzFwEB) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [marzuz](https://open.spotify.com/artist/3y6Lfjkrdn5TgkbgDxbpvM) | [Ai Cũng Phải Bắt Đầu Từ Đâu Đó](https://open.spotify.com/album/3Im5W6U3uL6A5fzahEG05u) | 3:21 | 2023-10-19 |  |
 | [Ghé Qua](https://open.spotify.com/track/0pQ67Kp2kED4ISy1ieGPEq) | [PC](https://open.spotify.com/artist/3HD3V1nGFPwepBO7064Ij0), [Dick](https://open.spotify.com/artist/1tikl40deDgJWS57GTKiVh), [tofutns](https://open.spotify.com/artist/0Ux2qIQbEeqvv7uYLgHhDH) | [Ghé Qua](https://open.spotify.com/album/5UFpxFhOmg3nb3wWd3p48D) | 3:57 | 2023-10-19 |  |
+| [Già Cùng Nhau Là Được](https://open.spotify.com/track/3y6kYOBeVg8jtUiBdTR0pD) | [Tùng TeA](https://open.spotify.com/artist/2SWNzbf1maA3oR4x56Uv9W), [PC](https://open.spotify.com/artist/3HD3V1nGFPwepBO7064Ij0), [TaynguyenSound](https://open.spotify.com/artist/5ayWRfrcpObgDDlzheJ2Gr) | [Già Cùng Nhau Là Được](https://open.spotify.com/album/6uLKMVAfgwW68y7GuKYyXK) | 3:51 | 2023-11-23 |  |
 | [Gác Lại Âu Lo \(feat\. Miu Lê\)](https://open.spotify.com/track/1mKDbug8bbfDmLe7I4CJpe) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f), [Miu Lê](https://open.spotify.com/artist/4e5LAUvM35jleGg8gElTsP) | [Gác Lại Âu Lo](https://open.spotify.com/album/510WT3clDw7bTqUcorerQX) | 4:42 | 2023-10-19 | 2023-10-27 |
 | [Hai lần mất em](https://open.spotify.com/track/3Crx5BdxpqzkMfBmNLyZ4v) | [Khói](https://open.spotify.com/artist/3FZ4GX2mWNn7XElse3fQWd), [Galaxyy](https://open.spotify.com/artist/0ZIJokI7PUnSoUqPumMbTv), [VoVanDuc](https://open.spotify.com/artist/0MMvhtfFn1izZ6EeSSPBQW) | [Hai lần mất em](https://open.spotify.com/album/0SjWUk87Zr8h7MX6WZn0QZ) | 4:41 | 2023-10-26 | 2023-11-03 |
 | [Hai Thằng Bịp](https://open.spotify.com/track/41mz9gDQLtdaQE02SJsdhS) | [RZ Mas](https://open.spotify.com/artist/39UJlviUwzZGZrA8DiQy31), [24k.Right](https://open.spotify.com/artist/0hUr8xEtATxbq2OTiJFAP0) | [Hai Thằng Bịp](https://open.spotify.com/album/1TmlpxqYkDzs8TasWPsMrB) | 2:57 | 2023-11-23 |  |
@@ -78,7 +79,7 @@
 | [Tán Gái 505](https://open.spotify.com/track/6DyotcCWPqKQT8YWireU6L) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Tán Gái 505](https://open.spotify.com/album/7kR9l9WkJKNTSEMQSrKZL8) | 2:35 | 2023-10-19 |  |
 | [tình yêu có nghĩa là gì?](https://open.spotify.com/track/1Vla7vXcM0zimotYpresDT) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [ái](https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6) | 2:13 | 2023-10-19 |  |
 | [Unfollow \(feat\. Trung Trần\)](https://open.spotify.com/track/242QPSAd6x7nFNjOqsTJo9) | [Đạt Dope](https://open.spotify.com/artist/00GClaLWFWlgiL2ErXzToa), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [Unfollow \(feat\. Trung Trần\)](https://open.spotify.com/album/5KOC3OBILeMoNertj9eFn8) | 3:47 | 2023-10-19 | 2023-10-31 |
-| [Xin Đừng Nhấc Máy](https://open.spotify.com/track/4Rbnxa7kFSpCHNPJ3uZhtR) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9), [Han Sara](https://open.spotify.com/artist/7sI2avJ3MyFstC9oKNM7py), [Masew](https://open.spotify.com/artist/3nGqUwkJHiLPDECMVrX1Sq) | [Xin Đừng Nhấc Máy](https://open.spotify.com/album/7Jzha1P8JmEFO0oyr3SbB8) | 3:07 | 2023-10-19 |  |
+| [Xin Đừng Nhấc Máy](https://open.spotify.com/track/4Rbnxa7kFSpCHNPJ3uZhtR) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9), [Han Sara](https://open.spotify.com/artist/7sI2avJ3MyFstC9oKNM7py), [Masew](https://open.spotify.com/artist/3nGqUwkJHiLPDECMVrX1Sq) | [Xin Đừng Nhấc Máy](https://open.spotify.com/album/7Jzha1P8JmEFO0oyr3SbB8) | 3:07 | 2023-10-19 | 2023-11-26 |
 | [XTC \(Xích Thêm Chút\) \(Remix\)](https://open.spotify.com/track/7fNHfgOxPLcg4mQLhCnOHB) | [Rapital](https://open.spotify.com/artist/0wqus4nTxIoJvLZLwBt8Df), [Groovie Lã Thắng](https://open.spotify.com/artist/1yx4rYyjUYupI7Ji1YvXRh), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL) | [Rapitalove](https://open.spotify.com/album/3ULu7EK5sl1zUdx2r7D15E) | 4:03 | 2023-10-19 |  |
 | [Yêu 5](https://open.spotify.com/track/5U30iZBlmxkpHqzb1OSnBS) | [Rhymastic](https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw) | [Yêu 5](https://open.spotify.com/album/0zverkhFFDtpDSZlbmJkTr) | 4:00 | 2023-10-19 |  |
 | [yêu anh đi mẹ anh bán bánh mì](https://open.spotify.com/track/70hEVaGwwat644nPWkhKNW) | [Phuc Du](https://open.spotify.com/artist/0qkGQFUrj8ERPAZcdpa79j) | [yêu anh đi mẹ anh bán bánh mì](https://open.spotify.com/album/5SJdYLmgXEYDTRWxambaQU) | 4:12 | 2023-10-19 | 2023-10-27 |

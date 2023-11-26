@@ -1,12 +1,12 @@
 {
   "description": "No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo. ",
-  "num_followers": 323591,
+  "num_followers": 323795,
   "original_name": "Louvando no Tr\u00e2nsito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNWMzN2I4MzA5Y2UyNGFjN2FkMjk0MzE5ODQ0YjgyMDQzMmU4MGI2",
+  "snapshot_id": "MCxhNjI1YzkxMzJjOWY4OWUwOWE1NjkzNjVjZmI3NWJlMjM4OTdiNTMw",
   "tracks": [
     {
       "added_at": "2023-11-24 06:56:09",
@@ -231,22 +231,18 @@
     {
       "added_at": "2023-11-24 06:56:09",
       "album": {
-        "name": "Zion (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3A24aBx6jZCAgovIbZUubC"
+        "name": "Deus Prover\u00e1",
+        "url": "https://open.spotify.com/album/2ev97m3xXsyHzGiEH7iNiN"
       },
       "artists": [
         {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
         }
       ],
-      "duration_ms": 535962,
-      "name": "Oceans (Where Feet May Fail)",
-      "url": "https://open.spotify.com/track/5Mw9bXG1dLNhbjofkVS2oR"
+      "duration_ms": 358240,
+      "name": "Deus Prover\u00e1",
+      "url": "https://open.spotify.com/track/1XGPIdV19Qp3p7aBGhP6EQ"
     },
     {
       "added_at": "2023-11-24 06:56:09",
@@ -267,18 +263,22 @@
     {
       "added_at": "2023-11-24 06:56:09",
       "album": {
-        "name": "Deus Prover\u00e1",
-        "url": "https://open.spotify.com/album/2ev97m3xXsyHzGiEH7iNiN"
+        "name": "Zion (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3A24aBx6jZCAgovIbZUubC"
       },
       "artists": [
         {
-          "name": "Gabriela Gomes",
-          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
         }
       ],
-      "duration_ms": 358240,
-      "name": "Deus Prover\u00e1",
-      "url": "https://open.spotify.com/track/1XGPIdV19Qp3p7aBGhP6EQ"
+      "duration_ms": 535962,
+      "name": "Oceans (Where Feet May Fail)",
+      "url": "https://open.spotify.com/track/5Mw9bXG1dLNhbjofkVS2oR"
     },
     {
       "added_at": "2023-11-24 06:56:09",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-11-24 06:56:09",
       "album": {
-        "name": "N\u00e3o Me Deixes Desistir (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3kxrkqjf3Uco8exfyGqxN6"
-      },
-      "artists": [
-        {
-          "name": "Ana N\u00f3brega",
-          "url": "https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU"
-        }
-      ],
-      "duration_ms": 495026,
-      "name": "Oceanos (Onde Meus P\u00e9s Podem Falhar) [Oceans Where Feet May Fail] - Ao Vivo",
-      "url": "https://open.spotify.com/track/0fLXW4Nn98fE571xO5qpMt"
-    },
-    {
-      "added_at": "2023-11-24 06:56:09",
-      "album": {
         "name": "Pra que outros possam viver",
         "url": "https://open.spotify.com/album/0hPCxbrJbUeArwhQpBbq2h"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 386560,
       "name": "Vai Valer a Pena",
       "url": "https://open.spotify.com/track/7fzImqefMkagp3jEeKtdVy"
+    },
+    {
+      "added_at": "2023-11-24 06:56:09",
+      "album": {
+        "name": "N\u00e3o Me Deixes Desistir (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3kxrkqjf3Uco8exfyGqxN6"
+      },
+      "artists": [
+        {
+          "name": "Ana N\u00f3brega",
+          "url": "https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU"
+        }
+      ],
+      "duration_ms": 495026,
+      "name": "Oceanos (Onde Meus P\u00e9s Podem Falhar) [Oceans Where Feet May Fail] - Ao Vivo",
+      "url": "https://open.spotify.com/track/0fLXW4Nn98fE571xO5qpMt"
     },
     {
       "added_at": "2023-11-24 06:56:09",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-11-24 06:56:09",
       "album": {
-        "name": "Jesus Sempre Tem Mais (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4IQFlCvRYoT5z85w6Yrk2E"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Brito",
-          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
-        }
-      ],
-      "duration_ms": 359280,
-      "name": "Jesus Sempre Tem Mais - Ao Vivo",
-      "url": "https://open.spotify.com/track/5eEZJ0EzlxamBnmUJMO0aD"
-    },
-    {
-      "added_at": "2023-11-24 06:56:09",
-      "album": {
         "name": "Quebrantado Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 259691,
       "name": "Esp\u00edrito Santo",
       "url": "https://open.spotify.com/track/4qO3WITv7447OvVUAdJjzM"
+    },
+    {
+      "added_at": "2023-11-24 06:56:09",
+      "album": {
+        "name": "Jesus Sempre Tem Mais (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4IQFlCvRYoT5z85w6Yrk2E"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Brito",
+          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
+        }
+      ],
+      "duration_ms": 359280,
+      "name": "Jesus Sempre Tem Mais - Ao Vivo",
+      "url": "https://open.spotify.com/track/5eEZJ0EzlxamBnmUJMO0aD"
     },
     {
       "added_at": "2023-11-24 06:56:09",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2023-11-24 06:56:09",
       "album": {
-        "name": "Kemuel (Sony Music Live)",
-        "url": "https://open.spotify.com/album/5ewCRapBYzfnGeXTQq1fE1"
+        "name": "Pintor do Mundo",
+        "url": "https://open.spotify.com/album/6GjoyvpMj60P25HXcyPs0q"
       },
       "artists": [
         {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
+          "name": "Pr. Lucas",
+          "url": "https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS"
         }
       ],
-      "duration_ms": 314289,
-      "name": "Oh Qu\u00e3o Lindo Esse Nome \u00c9 (What a Beautiful Name) [Sony Music Live]",
-      "url": "https://open.spotify.com/track/58EmHn2c6ArCeIsSWBx60n"
+      "duration_ms": 291317,
+      "name": "Pintor do Mundo",
+      "url": "https://open.spotify.com/track/3Xu39iqbrhEkzGwMNeGKRL"
     },
     {
       "added_at": "2023-11-24 06:56:09",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2023-11-24 06:56:09",
       "album": {
-        "name": "Pintor do Mundo",
-        "url": "https://open.spotify.com/album/6GjoyvpMj60P25HXcyPs0q"
+        "name": "Kemuel (Sony Music Live)",
+        "url": "https://open.spotify.com/album/5ewCRapBYzfnGeXTQq1fE1"
       },
       "artists": [
         {
-          "name": "Pr. Lucas",
-          "url": "https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS"
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
         }
       ],
-      "duration_ms": 291317,
-      "name": "Pintor do Mundo",
-      "url": "https://open.spotify.com/track/3Xu39iqbrhEkzGwMNeGKRL"
+      "duration_ms": 314289,
+      "name": "Oh Qu\u00e3o Lindo Esse Nome \u00c9 (What a Beautiful Name) [Sony Music Live]",
+      "url": "https://open.spotify.com/track/58EmHn2c6ArCeIsSWBx60n"
     },
     {
       "added_at": "2023-11-24 06:56:09",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-11-24 06:56:09",
       "album": {
-        "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0iyu4WKKT4CU62Z0E5sHBm"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 328753,
-      "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0lINGdR92RntRrkpkUQ6Gh"
-    },
-    {
-      "added_at": "2023-11-24 06:56:09",
-      "album": {
         "name": "Alfa e \u00d4mega",
         "url": "https://open.spotify.com/album/2zFxoq9gamojSN5gIoh1Fo"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 364878,
       "name": "Alfa e \u00d4mega",
       "url": "https://open.spotify.com/track/2crjmyGUfpWOeOPAnTqCN6"
+    },
+    {
+      "added_at": "2023-11-24 06:56:09",
+      "album": {
+        "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0iyu4WKKT4CU62Z0E5sHBm"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 328753,
+      "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0lINGdR92RntRrkpkUQ6Gh"
     },
     {
       "added_at": "2023-11-24 06:56:09",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2023-11-24 06:56:09",
       "album": {
+        "name": "Mem\u00f3rias 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1sngh1DpFlv5KdnRch5ECO"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 246826,
+      "name": "Grande \u00c9 O Senhor - Ao Vivo",
+      "url": "https://open.spotify.com/track/0DR8OCMH9Vv966ZOdWykGp"
+    },
+    {
+      "added_at": "2023-11-24 06:56:09",
+      "album": {
         "name": "Os Planos de Deus (Ao Vivo)",
         "url": "https://open.spotify.com/album/4hmoxjfFLeugjFi7NavOgo"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 392556,
       "name": "Os Planos de Deus (Ao Vivo)",
       "url": "https://open.spotify.com/track/0fO7XrdPkRXe7k0TzII9Br"
-    },
-    {
-      "added_at": "2023-11-24 06:56:09",
-      "album": {
-        "name": "Mem\u00f3rias 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1sngh1DpFlv5KdnRch5ECO"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 246826,
-      "name": "Grande \u00c9 O Senhor - Ao Vivo",
-      "url": "https://open.spotify.com/track/0DR8OCMH9Vv966ZOdWykGp"
     },
     {
       "added_at": "2023-11-24 06:56:09",
@@ -1847,26 +1847,6 @@
     {
       "added_at": "2023-11-24 06:56:09",
       "album": {
-        "name": "O Senhor do Tempo",
-        "url": "https://open.spotify.com/album/0BQ9B4eRqL4RS6rfKnGR0R"
-      },
-      "artists": [
-        {
-          "name": "Weslei Santos",
-          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
-        },
-        {
-          "name": "Sarah Beatriz",
-          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
-        }
-      ],
-      "duration_ms": 378523,
-      "name": "O Senhor do Tempo",
-      "url": "https://open.spotify.com/track/24ZOQHs3222kboGzhlkf5E"
-    },
-    {
-      "added_at": "2023-11-24 06:56:09",
-      "album": {
         "name": "Me Arrebataste (Ao Vivo)",
         "url": "https://open.spotify.com/album/2Me3WASBmMi23LiTM974pF"
       },
@@ -1887,6 +1867,26 @@
     {
       "added_at": "2023-11-24 06:56:09",
       "album": {
+        "name": "O Senhor do Tempo",
+        "url": "https://open.spotify.com/album/0BQ9B4eRqL4RS6rfKnGR0R"
+      },
+      "artists": [
+        {
+          "name": "Weslei Santos",
+          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
+        },
+        {
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+        }
+      ],
+      "duration_ms": 378523,
+      "name": "O Senhor do Tempo",
+      "url": "https://open.spotify.com/track/24ZOQHs3222kboGzhlkf5E"
+    },
+    {
+      "added_at": "2023-11-24 06:56:09",
+      "album": {
         "name": "Tua Presen\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/0eoHfKmCRrv79OQLJ7OthV"
       },
@@ -1903,18 +1903,22 @@
     {
       "added_at": "2023-11-24 06:56:09",
       "album": {
-        "name": "Seja Forte",
-        "url": "https://open.spotify.com/album/3gaCeWpexrCoT31O4IijbD"
+        "name": "Te Esperamos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6NmhKn0mgP7UGM64S3LcsU"
       },
       "artists": [
         {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+          "name": "Salvaon",
+          "url": "https://open.spotify.com/artist/1YbTEvDgGkTuBpMFtHDbgG"
+        },
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
         }
       ],
-      "duration_ms": 253866,
-      "name": "Seja Forte",
-      "url": "https://open.spotify.com/track/6ULtPMzIdsayMraZMs2KBV"
+      "duration_ms": 404218,
+      "name": "Jo\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/280qovSfG0KrkUt45pfnkV"
     },
     {
       "added_at": "2023-11-24 06:56:09",
@@ -1943,22 +1947,18 @@
     {
       "added_at": "2023-11-24 06:56:09",
       "album": {
-        "name": "Te Esperamos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6NmhKn0mgP7UGM64S3LcsU"
+        "name": "Seja Forte",
+        "url": "https://open.spotify.com/album/3gaCeWpexrCoT31O4IijbD"
       },
       "artists": [
         {
-          "name": "Salvaon",
-          "url": "https://open.spotify.com/artist/1YbTEvDgGkTuBpMFtHDbgG"
-        },
-        {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 404218,
-      "name": "Jo\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/280qovSfG0KrkUt45pfnkV"
+      "duration_ms": 253866,
+      "name": "Seja Forte",
+      "url": "https://open.spotify.com/track/6ULtPMzIdsayMraZMs2KBV"
     },
     {
       "added_at": "2023-11-24 06:56:09",
@@ -1995,8 +1995,8 @@
     {
       "added_at": "2023-11-24 06:56:09",
       "album": {
-        "name": "In Concert (Ao Vivo)",
-        "url": "https://open.spotify.com/album/27qwBuiWJptuALWu9zCFt5"
+        "name": "De Ti Preciso (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6hwTDPKPjPBcgKfOkCZ2F0"
       },
       "artists": [
         {
@@ -2004,9 +2004,9 @@
           "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
         }
       ],
-      "duration_ms": 487277,
-      "name": "Santo pra Sempre - Ao Vivo",
-      "url": "https://open.spotify.com/track/2jCAyhO8rDrechp8ekD9TT"
+      "duration_ms": 313292,
+      "name": "De Ti Preciso - Ao Vivo",
+      "url": "https://open.spotify.com/track/3AbOa504l9MHWKjeUkiITQ"
     },
     {
       "added_at": "2023-11-24 06:56:09",
@@ -2051,6 +2051,26 @@
     {
       "added_at": "2023-11-24 06:56:09",
       "album": {
+        "name": "Pra Sempre YHWH",
+        "url": "https://open.spotify.com/album/7FrnuDNVM4ME4NzotXKxlO"
+      },
+      "artists": [
+        {
+          "name": "Julliany Souza",
+          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        }
+      ],
+      "duration_ms": 453667,
+      "name": "Pra Sempre YHWH",
+      "url": "https://open.spotify.com/track/3WT5NnA09K10tgY7O17RF4"
+    },
+    {
+      "added_at": "2023-11-24 06:56:09",
+      "album": {
         "name": "20 Anos de Adora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/79MbPZxQDWw1Tn6zvBhIG5"
       },
@@ -2087,26 +2107,6 @@
       "duration_ms": 362000,
       "name": "Quando o C\u00e9u Invade a Terra - Ao Vivo",
       "url": "https://open.spotify.com/track/1l7obBlq9HK2PjzvTo7GRT"
-    },
-    {
-      "added_at": "2023-11-24 06:56:09",
-      "album": {
-        "name": "Pra Sempre YHWH",
-        "url": "https://open.spotify.com/album/7FrnuDNVM4ME4NzotXKxlO"
-      },
-      "artists": [
-        {
-          "name": "Julliany Souza",
-          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
-        },
-        {
-          "name": "Tiffany Hudson",
-          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
-        }
-      ],
-      "duration_ms": 453667,
-      "name": "Pra Sempre YHWH",
-      "url": "https://open.spotify.com/track/3WT5NnA09K10tgY7O17RF4"
     },
     {
       "added_at": "2023-11-24 06:56:09",

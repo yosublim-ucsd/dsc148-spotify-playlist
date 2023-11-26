@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Kali Uchis, KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,794 likes - 119 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,813 likes - 119 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 63 | [One Way](https://open.spotify.com/track/0uLs9eBvzMfs6pjPM251TB) | [KLAN](https://open.spotify.com/artist/3PWVGBibvYW9YfZX6ayYq8) | [One Way](https://open.spotify.com/album/3H10cUuEaI4jIxNiZfQAGz) | 2:57 |
 | 64 | [orbit](https://open.spotify.com/track/1xMtUb8b1DxW89FJfxOwPN) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [orbit](https://open.spotify.com/album/5xLRIrNswkxjD0U0z47Rw2) | 3:09 |
 | 65 | [PARADOX](https://open.spotify.com/track/4A7KmDGv9MUaep7bvjvCtr) | [Safraoui](https://open.spotify.com/artist/1xlPEhjbFqhrDjaAvyvueX), [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm) | [PARADOX](https://open.spotify.com/album/2e2y7gbLPVQGJWmgc6Wfrk) | 2:41 |
-| 66 | [Time Machine \(feat\. MSPUIYI\)](https://open.spotify.com/track/0mZFBV9kO5a9DmzV16j9IA) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [MSPUIYI](https://open.spotify.com/artist/1kcyeJ6CdwVqRsKEmkb9Ul) | [Time Machine \(feat\. MSPUIYI\)](https://open.spotify.com/album/1Xu73EVMOz9PQm6NhUmt1w) | 2:27 |
+| 66 | [Time Machine \(with MSPUIYI\)](https://open.spotify.com/track/0mZFBV9kO5a9DmzV16j9IA) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [MSPUIYI](https://open.spotify.com/artist/1kcyeJ6CdwVqRsKEmkb9Ul) | [Time Machine \(with MSPUIYI\)](https://open.spotify.com/album/1Xu73EVMOz9PQm6NhUmt1w) | 2:27 |
 | 67 | [Erinnerung](https://open.spotify.com/track/0mEd23N8r8Jhqipt1ouZmn) | [Philipp Dittberner](https://open.spotify.com/artist/7oaSITFPadI3fnIxbv7hTa) | [Erinnerung](https://open.spotify.com/album/3YicOYlcJlmPDdcmBeIWdn) | 3:16 |
 | 68 | [Kentern](https://open.spotify.com/track/39v1nqefueaCsMnFqZ97lz) | [Lucifer Xo](https://open.spotify.com/artist/3xE1nb6rpQwzHfvNZIn5tb) | [600 Tage später \(denk ich immer noch an dich\)](https://open.spotify.com/album/1GneW3avsXNpRyQvXICx8I) | 2:29 |
 | 69 | [Hard to Love](https://open.spotify.com/track/6QV6miSjUtqppivpjwDZgI) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Hard To Love](https://open.spotify.com/album/0jXxDV0TkGE6f5MezsGFrU) | 2:47 |
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 87 | [Call It Love](https://open.spotify.com/track/3Iy4kFxrVWOxlQNZb9waSX) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Call It Love](https://open.spotify.com/album/47J90qCKpDUJ0B2BqDKxjj) | 2:56 |
 | 88 | [Cheating on Her](https://open.spotify.com/track/0Es5vYxImbwX3V5xYQo3nq) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [Cheating on Her](https://open.spotify.com/album/5HekAwxZr77hxeiwJKMcCy) | 3:38 |
 | 89 | [Skinfade](https://open.spotify.com/track/4UCEIGRovOmBuJz0oOHjI2) | [M1onTheBeat](https://open.spotify.com/artist/7gOJzXf9msdY8JUhMQypSH), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [M1onTheBeat The Mixtape](https://open.spotify.com/album/2eNxE5vYk1YgZGQx6BT8UL) | 2:02 |
-| 90 | [Simulation](https://open.spotify.com/track/5166Ws58cqwtQE2YR7Nyal) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Simulation](https://open.spotify.com/album/08D0nW5tIE8sRDIZruTU2V) | 3:18 |
+| 90 | [Simulation](https://open.spotify.com/track/5166Ws58cqwtQE2YR7Nyal) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Simulation](https://open.spotify.com/album/08D0nW5tIE8sRDIZruTU2V) | 3:15 |
 | 91 | [Missing Me](https://open.spotify.com/track/2Ivwnhg88i6kVohrymi155) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Missing Me](https://open.spotify.com/album/19LNcpEeo0mIpgQSBSd3xj) | 3:44 |
 | 92 | [NIE GERAUCHT](https://open.spotify.com/track/6dlyI0AqT3Sms3DuXbHRoA) | [CHRIS](https://open.spotify.com/artist/5KFGB68TTW3x2GFT8o00rL) | [NIE GERAUCHT](https://open.spotify.com/album/41vKQLgcm2sbCdjlZvayEL) | 2:02 |
 | 93 | [Outside](https://open.spotify.com/track/5HUxZN7PuTML2SkJnBuP5a) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [King Zoo](https://open.spotify.com/album/1fboUYBvu86pCmFNrLb615) | 1:58 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 118 | [therapy](https://open.spotify.com/track/4ndTXhzw5vx2KXZXOHOe8S) | [Gloria Kim](https://open.spotify.com/artist/1DUd25ybTBglvAohsXTmBx) | [therapy](https://open.spotify.com/album/2kbQIS1RXna9AWSxd7XnJF) | 2:16 |
 | 119 | [Weltuntergang](https://open.spotify.com/track/7LMSGi0VCRrjElTXj7DGgJ) | [Jona Straub](https://open.spotify.com/artist/42mdVKdNJDsmQasPjTqVao) | [Weltuntergang](https://open.spotify.com/album/3Kn5I7WfJtMoeK0toJGEDx) | 3:21 |
 
-Snapshot ID: `MCxiYzMzMThmMjlkMTNjMTIwNTViOGIzYTVmMDkwZDg0ODgwMDM5NmQ1`
+Snapshot ID: `MCwzZjYyZWJlODVkYzQzYmM0OTEyMGUxNjk0OWRlNTdkYzk4NmNkZWNk`

@@ -1214,7 +1214,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 166472,
       "name": "Drifta",
       "url": "https://open.spotify.com/track/7mdYZBW0QlFjClvN1a7hyL"
@@ -2653,6 +2653,32 @@
     },
     {
       "album": {
+        "name": "Moon (Tunnel Vision)",
+        "url": "https://open.spotify.com/album/1i0GJTRqV5rMSMc1r1DQr8"
+      },
+      "artists": [
+        {
+          "name": "Deep Kalsi",
+          "url": "https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I"
+        },
+        {
+          "name": "MC INSANE",
+          "url": "https://open.spotify.com/artist/7vlghc3VSBc7oPg2a2FRSq"
+        },
+        {
+          "name": "Harleen Khera",
+          "url": "https://open.spotify.com/artist/7mLdGhPzRNItq5xzNKPMLX"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186750,
+      "name": "Moon - Tunnel Vision",
+      "url": "https://open.spotify.com/track/6EtvIpTCxxWmtwQu0eL63C"
+    },
+    {
+      "album": {
         "name": "My Time",
         "url": "https://open.spotify.com/album/13HeMZSSyKhXyvEAA8C6fh"
       },
@@ -3494,7 +3520,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 164666,
       "name": "Streetwise",
       "url": "https://open.spotify.com/track/5YYqibj5kqYWjZ3GOHHUaC"
@@ -3866,6 +3892,28 @@
       "duration_ms": 200479,
       "name": "War",
       "url": "https://open.spotify.com/track/6mRccKSAN4IChtUsnAzVGl"
+    },
+    {
+      "album": {
+        "name": "4Three4Life",
+        "url": "https://open.spotify.com/album/0Uwa0tQbNoov6ePpP4Gb2Y"
+      },
+      "artists": [
+        {
+          "name": "Vijay Dk",
+          "url": "https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt"
+        },
+        {
+          "name": "KALAM INK",
+          "url": "https://open.spotify.com/artist/6VbH1XK4t6KE5s3k85MTBd"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299401,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/5FwpiBGOwbqO8tFyC8Sjtu"
     },
     {
       "album": {

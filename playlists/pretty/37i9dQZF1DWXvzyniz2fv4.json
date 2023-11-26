@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 154598,
+  "num_followers": 154632,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmI3NWUyYjVjMDQwMGNjOThjNjM4N2Y3Mzg5YTFhMjYxMTUwM2I2",
+  "snapshot_id": "MCw4YmM4MzllOWM3NTg3Mzc0MTFlZTNmYjAzMzRjMTI2NGY4OWZkODE2",
   "tracks": [
     {
       "added_at": "2023-11-24 17:29:54",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-11-24 17:29:54",
       "album": {
+        "name": "Sprite",
+        "url": "https://open.spotify.com/album/0E2Ve4GAqe2UPjVnAjBj0d"
+      },
+      "artists": [
+        {
+          "name": "Lil Fuub",
+          "url": "https://open.spotify.com/artist/47KYl2Wi5f5jmldU2F13An"
+        }
+      ],
+      "duration_ms": 127996,
+      "name": "Sprite",
+      "url": "https://open.spotify.com/track/4LBGvXXBZEMgDK8KZ8xvAT"
+    },
+    {
+      "added_at": "2023-11-24 17:29:54",
+      "album": {
         "name": "Mensagem",
         "url": "https://open.spotify.com/album/2NPc3kgr2YdiElHG3CKA26"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 163030,
       "name": "Fim de Semana",
       "url": "https://open.spotify.com/track/0WhV2RQb0a7WDoJnMQRbnt"
-    },
-    {
-      "added_at": "2023-11-24 17:29:54",
-      "album": {
-        "name": "Sprite",
-        "url": "https://open.spotify.com/album/0E2Ve4GAqe2UPjVnAjBj0d"
-      },
-      "artists": [
-        {
-          "name": "Lil Fuub",
-          "url": "https://open.spotify.com/artist/47KYl2Wi5f5jmldU2F13An"
-        }
-      ],
-      "duration_ms": 127996,
-      "name": "Sprite",
-      "url": "https://open.spotify.com/track/4LBGvXXBZEMgDK8KZ8xvAT"
     },
     {
       "added_at": "2023-11-24 17:29:54",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-11-24 17:29:54",
       "album": {
-        "name": "Spoiler",
-        "url": "https://open.spotify.com/album/45PCXFfR2DT6yXuhLfwcbs"
-      },
-      "artists": [
-        {
-          "name": "Roig",
-          "url": "https://open.spotify.com/artist/20vqMkiF1RvZrVGNiDpdzk"
-        }
-      ],
-      "duration_ms": 196729,
-      "name": "Spoiler",
-      "url": "https://open.spotify.com/track/2zZ8HX3Q66MkYNmfgTiWgK"
-    },
-    {
-      "added_at": "2023-11-24 17:29:54",
-      "album": {
         "name": "De F\u00e9rias Com O WEY",
         "url": "https://open.spotify.com/album/7jXxwDkJ5f63wjRuXI8d2A"
       },
@@ -991,18 +975,38 @@
     {
       "added_at": "2023-11-24 17:29:54",
       "album": {
-        "name": "Inverno",
-        "url": "https://open.spotify.com/album/6duBR0e38IcnyqdcTYBbCj"
+        "name": "Spoiler",
+        "url": "https://open.spotify.com/album/45PCXFfR2DT6yXuhLfwcbs"
       },
       "artists": [
         {
-          "name": "ALMAR",
-          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+          "name": "Roig",
+          "url": "https://open.spotify.com/artist/20vqMkiF1RvZrVGNiDpdzk"
         }
       ],
-      "duration_ms": 212137,
-      "name": "Ros\u00e9",
-      "url": "https://open.spotify.com/track/2VjdWetFejyZ1NI95u12Zy"
+      "duration_ms": 196729,
+      "name": "Spoiler",
+      "url": "https://open.spotify.com/track/2zZ8HX3Q66MkYNmfgTiWgK"
+    },
+    {
+      "added_at": "2023-11-24 17:29:54",
+      "album": {
+        "name": "Fica",
+        "url": "https://open.spotify.com/album/0hDmNQipUfQwvbLxvHh9Ty"
+      },
+      "artists": [
+        {
+          "name": "Nitto",
+          "url": "https://open.spotify.com/artist/2of8A9ksNq06cDBiWVWSgT"
+        },
+        {
+          "name": "Lucas e Orelha",
+          "url": "https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8"
+        }
+      ],
+      "duration_ms": 169472,
+      "name": "Fica",
+      "url": "https://open.spotify.com/track/6EOdzYr7hlBGKb9DzSBeb3"
     },
     {
       "added_at": "2023-11-24 17:29:54",
@@ -1027,22 +1031,18 @@
     {
       "added_at": "2023-11-24 17:29:54",
       "album": {
-        "name": "Fica",
-        "url": "https://open.spotify.com/album/0hDmNQipUfQwvbLxvHh9Ty"
+        "name": "Inverno",
+        "url": "https://open.spotify.com/album/6duBR0e38IcnyqdcTYBbCj"
       },
       "artists": [
         {
-          "name": "Nitto",
-          "url": "https://open.spotify.com/artist/2of8A9ksNq06cDBiWVWSgT"
-        },
-        {
-          "name": "Lucas e Orelha",
-          "url": "https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8"
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
         }
       ],
-      "duration_ms": 169472,
-      "name": "Fica",
-      "url": "https://open.spotify.com/track/6EOdzYr7hlBGKb9DzSBeb3"
+      "duration_ms": 212137,
+      "name": "Ros\u00e9",
+      "url": "https://open.spotify.com/track/2VjdWetFejyZ1NI95u12Zy"
     },
     {
       "added_at": "2023-11-24 17:29:54",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2023-11-24 17:29:54",
       "album": {
+        "name": "Perto do Sol",
+        "url": "https://open.spotify.com/album/7rrUcWBn8BA67KRpL6rS0r"
+      },
+      "artists": [
+        {
+          "name": "RNT",
+          "url": "https://open.spotify.com/artist/5oQCmIhv8pxJm3mhIvrg9d"
+        }
+      ],
+      "duration_ms": 168292,
+      "name": "Perto do Sol",
+      "url": "https://open.spotify.com/track/7nnxD1h7mXYgWVTKsb2uib"
+    },
+    {
+      "added_at": "2023-11-24 17:29:54",
+      "album": {
         "name": "Nossas M\u00eddias",
         "url": "https://open.spotify.com/album/7vdMBWuWRuasIRlEGptvpt"
       },
@@ -1315,38 +1331,22 @@
     {
       "added_at": "2023-11-24 17:29:54",
       "album": {
-        "name": "Perto do Sol",
-        "url": "https://open.spotify.com/album/7rrUcWBn8BA67KRpL6rS0r"
+        "name": "Mist\u00e9rio",
+        "url": "https://open.spotify.com/album/3kBRkJc0JKJ7Cb9PRbs5HG"
       },
       "artists": [
         {
-          "name": "RNT",
-          "url": "https://open.spotify.com/artist/5oQCmIhv8pxJm3mhIvrg9d"
-        }
-      ],
-      "duration_ms": 168292,
-      "name": "Perto do Sol",
-      "url": "https://open.spotify.com/track/7nnxD1h7mXYgWVTKsb2uib"
-    },
-    {
-      "added_at": "2023-11-24 17:29:54",
-      "album": {
-        "name": "Vento Bom",
-        "url": "https://open.spotify.com/album/2h0iw6R2fq3xCWDQvmIS1l"
-      },
-      "artists": [
-        {
-          "name": "MC 2jhow",
-          "url": "https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ"
+          "name": "Knust",
+          "url": "https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ"
         },
         {
-          "name": "Mc Tek\u00e1da-B",
-          "url": "https://open.spotify.com/artist/3Pd4HB94kuGBGGDQVISkcU"
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
         }
       ],
-      "duration_ms": 169409,
-      "name": "Vento Bom",
-      "url": "https://open.spotify.com/track/3TstCrqLn3542vXjNKCpV2"
+      "duration_ms": 142105,
+      "name": "Mist\u00e9rio",
+      "url": "https://open.spotify.com/track/2syPgLsmPg8dBNvqdKhCnc"
     },
     {
       "added_at": "2023-11-24 17:29:54",
@@ -1371,22 +1371,22 @@
     {
       "added_at": "2023-11-24 17:29:54",
       "album": {
-        "name": "Mist\u00e9rio",
-        "url": "https://open.spotify.com/album/3kBRkJc0JKJ7Cb9PRbs5HG"
+        "name": "Vento Bom",
+        "url": "https://open.spotify.com/album/2h0iw6R2fq3xCWDQvmIS1l"
       },
       "artists": [
         {
-          "name": "Knust",
-          "url": "https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ"
+          "name": "MC 2jhow",
+          "url": "https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ"
         },
         {
-          "name": "CMK",
-          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+          "name": "Mc Tek\u00e1da-B",
+          "url": "https://open.spotify.com/artist/3Pd4HB94kuGBGGDQVISkcU"
         }
       ],
-      "duration_ms": 142105,
-      "name": "Mist\u00e9rio",
-      "url": "https://open.spotify.com/track/2syPgLsmPg8dBNvqdKhCnc"
+      "duration_ms": 169409,
+      "name": "Vento Bom",
+      "url": "https://open.spotify.com/track/3TstCrqLn3542vXjNKCpV2"
     },
     {
       "added_at": "2023-11-24 17:29:54",
@@ -1695,30 +1695,30 @@
     {
       "added_at": "2023-11-24 17:29:54",
       "album": {
-        "name": "Sobre Verdades",
-        "url": "https://open.spotify.com/album/6djVDlhWBuln5h0WoyJoHe"
+        "name": "Descanso de Tela",
+        "url": "https://open.spotify.com/album/2boa2yzlE1amlQzyVZiOwa"
       },
       "artists": [
         {
-          "name": "Tas Mc",
-          "url": "https://open.spotify.com/artist/75LrYEzGI5S9Akg3FwvK6H"
+          "name": "Golden Tears",
+          "url": "https://open.spotify.com/artist/3plkOZoZTpgkYUtfN2LQ8T"
         },
         {
-          "name": "J\u00falia Rocha",
-          "url": "https://open.spotify.com/artist/53UPZ6NI8MSbfP7DMtMjTq"
+          "name": "Orfeu",
+          "url": "https://open.spotify.com/artist/18uMcBWoSMzUxHBvz9vzRi"
         },
         {
-          "name": "Raffa Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/7tWwVXeXi2Vhe8ekZoHo0m"
+          "name": "Odin Chan",
+          "url": "https://open.spotify.com/artist/0qbrywRB2LieMLyAtfWSPR"
         },
         {
-          "name": "Baruan",
-          "url": "https://open.spotify.com/artist/28K7ZBrL5x0cEdBL4X3SHW"
+          "name": "Osij\u00e9",
+          "url": "https://open.spotify.com/artist/6TyVy8z8gEOLqXbcdfvFME"
         }
       ],
-      "duration_ms": 218423,
-      "name": "A Volta Pra Casa",
-      "url": "https://open.spotify.com/track/3RxTqlBbys7BqYfD2pu41p"
+      "duration_ms": 172203,
+      "name": "Descanso de Tela",
+      "url": "https://open.spotify.com/track/6wM0ZuX5eOxmbDPciwt7zb"
     }
   ],
   "unique_name": "Resenha na Praia",

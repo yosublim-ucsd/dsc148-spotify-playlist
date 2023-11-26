@@ -92,7 +92,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 231545,
       "name": "(It Goes Like) Nanana - Edit",
       "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
@@ -509,6 +509,28 @@
     },
     {
       "album": {
+        "name": "VARSKVA",
+        "url": "https://open.spotify.com/album/1Qk2lItE5KiD5DqKZpd31w"
+      },
+      "artists": [
+        {
+          "name": "Big Baby Tape",
+          "url": "https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT"
+        },
+        {
+          "name": "MACAN",
+          "url": "https://open.spotify.com/artist/5VKufGMVAZ6fs111xYNKnU"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177777,
+      "name": "4 Da Game",
+      "url": "https://open.spotify.com/track/30X4I15tOx6DodFMMVBMA0"
+    },
+    {
+      "album": {
         "name": "AA LANGUAGE 2",
         "url": "https://open.spotify.com/album/7IvfbDBurAnYpUC0w1h1Na"
       },
@@ -536,6 +558,24 @@
       "duration_ms": 175522,
       "name": "4 ur girl",
       "url": "https://open.spotify.com/track/7wttW3gnMHuS0eXHs5RwUZ"
+    },
+    {
+      "album": {
+        "name": "VARSKVA",
+        "url": "https://open.spotify.com/album/1Qk2lItE5KiD5DqKZpd31w"
+      },
+      "artists": [
+        {
+          "name": "Big Baby Tape",
+          "url": "https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193624,
+      "name": "4x4",
+      "url": "https://open.spotify.com/track/6UeYUsnV81SKokLaNBNSei"
     },
     {
       "album": {
@@ -812,7 +852,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 86709,
       "name": "9mm",
       "url": "https://open.spotify.com/track/3K5KXm1uZjiyQk0J7op1xf"
@@ -1170,7 +1210,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 265360,
       "name": "Agora Hills",
       "url": "https://open.spotify.com/track/5PyDJG7SQRgWXefgexqIge"
@@ -1906,7 +1946,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -1949,6 +1989,32 @@
     },
     {
       "album": {
+        "name": "Melnezera gr\u0101mata",
+        "url": "https://open.spotify.com/album/4ifT0y4TGyDc6p9GIfcprf"
+      },
+      "artists": [
+        {
+          "name": "Net\u012br\u0101s Cilpas",
+          "url": "https://open.spotify.com/artist/7qMwBXRD3KIEf8AGlHu1ze"
+        },
+        {
+          "name": "Melikols",
+          "url": "https://open.spotify.com/artist/7sDKJc2RvC120QMAqQ5A0J"
+        },
+        {
+          "name": "ansis",
+          "url": "https://open.spotify.com/artist/7tkMUE1aCZQssaTYKdgmry"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224852,
+      "name": "an\u0161a b\u012bts",
+      "url": "https://open.spotify.com/track/0HHPzfIRMzE8038shVMclz"
+    },
+    {
+      "album": {
         "name": "Aomine Daiki",
         "url": "https://open.spotify.com/album/47JA7w64AWwtd38x8hvCJz"
       },
@@ -1986,6 +2052,32 @@
       "duration_ms": 198688,
       "name": "Apart",
       "url": "https://open.spotify.com/track/4xpnTZRyz0370mPNC4C233"
+    },
+    {
+      "album": {
+        "name": "Melnezera gr\u0101mata",
+        "url": "https://open.spotify.com/album/4ifT0y4TGyDc6p9GIfcprf"
+      },
+      "artists": [
+        {
+          "name": "Net\u012br\u0101s Cilpas",
+          "url": "https://open.spotify.com/artist/7qMwBXRD3KIEf8AGlHu1ze"
+        },
+        {
+          "name": "Riekstu Armija",
+          "url": "https://open.spotify.com/artist/54om5s0DqZ4AJbtznK2wjn"
+        },
+        {
+          "name": "Ozols",
+          "url": "https://open.spotify.com/artist/6DfYhvIhiblKFpqjBcgKis"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197845,
+      "name": "Apdirsies",
+      "url": "https://open.spotify.com/track/6qlysBr8XWuryeAse7jm9m"
     },
     {
       "album": {
@@ -3176,6 +3268,36 @@
       "duration_ms": 167999,
       "name": "BANDA M\u0100J\u0100S MAMMA R\u0100J\u0100S",
       "url": "https://open.spotify.com/track/5MbHxVpM5npq90QAMw0db7"
+    },
+    {
+      "album": {
+        "name": "Melnezera gr\u0101mata",
+        "url": "https://open.spotify.com/album/4ifT0y4TGyDc6p9GIfcprf"
+      },
+      "artists": [
+        {
+          "name": "Net\u012br\u0101s Cilpas",
+          "url": "https://open.spotify.com/artist/7qMwBXRD3KIEf8AGlHu1ze"
+        },
+        {
+          "name": "Steps",
+          "url": "https://open.spotify.com/artist/6RqVzuPaClLObg598kQEn7"
+        },
+        {
+          "name": "xantikvari\u0101ts",
+          "url": "https://open.spotify.com/artist/5TzEw4wxHOewtBd2By4RIX"
+        },
+        {
+          "name": "rolands \u010de",
+          "url": "https://open.spotify.com/artist/35liSWoGK1NcMBLNQqamHZ"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166138,
+      "name": "Banda Taxi",
+      "url": "https://open.spotify.com/track/4T3cOiKIRBxkkDO9s1kuiB"
     },
     {
       "album": {
@@ -8088,7 +8210,7 @@
       ],
       "date_added": "2023-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 119120,
       "name": "ecstacy (slowed)",
       "url": "https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS"
@@ -11109,6 +11231,32 @@
     },
     {
       "album": {
+        "name": "Melnezera gr\u0101mata",
+        "url": "https://open.spotify.com/album/4ifT0y4TGyDc6p9GIfcprf"
+      },
+      "artists": [
+        {
+          "name": "Net\u012br\u0101s Cilpas",
+          "url": "https://open.spotify.com/artist/7qMwBXRD3KIEf8AGlHu1ze"
+        },
+        {
+          "name": "Arturs Skutelis un Tv\u0113rumi",
+          "url": "https://open.spotify.com/artist/6wERdznqUKZySLMP0kmGAl"
+        },
+        {
+          "name": "Marko",
+          "url": "https://open.spotify.com/artist/3ZgKjRocEczVCcOiWKDkOZ"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151098,
+      "name": "Helsinki",
+      "url": "https://open.spotify.com/track/5DV05exkdihpvdaamJrFWm"
+    },
+    {
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
@@ -11182,6 +11330,28 @@
       "duration_ms": 211294,
       "name": "Higher Power",
       "url": "https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct"
+    },
+    {
+      "album": {
+        "name": "Melnezera gr\u0101mata",
+        "url": "https://open.spotify.com/album/4ifT0y4TGyDc6p9GIfcprf"
+      },
+      "artists": [
+        {
+          "name": "Net\u012br\u0101s Cilpas",
+          "url": "https://open.spotify.com/artist/7qMwBXRD3KIEf8AGlHu1ze"
+        },
+        {
+          "name": "Kapelmeistars Group",
+          "url": "https://open.spotify.com/artist/63COdojvWrpogGTRfsnv36"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96549,
+      "name": "HIP-HOP B\u012aTS",
+      "url": "https://open.spotify.com/track/1ttDhsuhPqB4r3Oy6Zopq0"
     },
     {
       "album": {
@@ -11308,7 +11478,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 119786,
       "name": "Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE"
@@ -11522,7 +11692,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 185917,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
@@ -11750,7 +11920,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 104697,
       "name": "HURTZ",
       "url": "https://open.spotify.com/track/5AE763tJ5Wjs9HwxJfJfkh"
@@ -12924,7 +13094,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 207199,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
@@ -13004,7 +13174,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 151000,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
@@ -13102,7 +13272,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 123000,
       "name": "JAA MAZAA ES SKAABAIS",
       "url": "https://open.spotify.com/track/1LJH42zyVqwVpNjOYmz7B6"
@@ -13142,6 +13312,32 @@
       "duration_ms": 297000,
       "name": "Jail pt 2",
       "url": "https://open.spotify.com/track/7f1w2rZoIf7g56McEUTh5W"
+    },
+    {
+      "album": {
+        "name": "Melnezera gr\u0101mata",
+        "url": "https://open.spotify.com/album/4ifT0y4TGyDc6p9GIfcprf"
+      },
+      "artists": [
+        {
+          "name": "Net\u012br\u0101s Cilpas",
+          "url": "https://open.spotify.com/artist/7qMwBXRD3KIEf8AGlHu1ze"
+        },
+        {
+          "name": "I MEAN LOVE",
+          "url": "https://open.spotify.com/artist/7rJKO7Hk9kzxr2lgOm1ysz"
+        },
+        {
+          "name": "ansis",
+          "url": "https://open.spotify.com/artist/7tkMUE1aCZQssaTYKdgmry"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127820,
+      "name": "Jauns",
+      "url": "https://open.spotify.com/track/7ITbu69K1AEqXLjGwxKGGq"
     },
     {
       "album": {
@@ -14038,6 +14234,58 @@
       "duration_ms": 146086,
       "name": "Komarovo (DVRST Phonk Remix)",
       "url": "https://open.spotify.com/track/1yqaea9PLO8rttUlcNTlcB"
+    },
+    {
+      "album": {
+        "name": "Melnezera gr\u0101mata",
+        "url": "https://open.spotify.com/album/4ifT0y4TGyDc6p9GIfcprf"
+      },
+      "artists": [
+        {
+          "name": "Net\u012br\u0101s Cilpas",
+          "url": "https://open.spotify.com/artist/7qMwBXRD3KIEf8AGlHu1ze"
+        },
+        {
+          "name": "Kurts",
+          "url": "https://open.spotify.com/artist/5PgXShpmYjdGFMXDcLo9YW"
+        },
+        {
+          "name": "I MEAN LOVE",
+          "url": "https://open.spotify.com/artist/7rJKO7Hk9kzxr2lgOm1ysz"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101822,
+      "name": "Krei\u013ca ierocis",
+      "url": "https://open.spotify.com/track/0YUVwPWQBWZBIjKUpexyaI"
+    },
+    {
+      "album": {
+        "name": "Melnezera gr\u0101mata",
+        "url": "https://open.spotify.com/album/4ifT0y4TGyDc6p9GIfcprf"
+      },
+      "artists": [
+        {
+          "name": "Net\u012br\u0101s Cilpas",
+          "url": "https://open.spotify.com/artist/7qMwBXRD3KIEf8AGlHu1ze"
+        },
+        {
+          "name": "Arturs Skutelis un Tv\u0113rumi",
+          "url": "https://open.spotify.com/artist/6wERdznqUKZySLMP0kmGAl"
+        },
+        {
+          "name": "ansis",
+          "url": "https://open.spotify.com/artist/7tkMUE1aCZQssaTYKdgmry"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144856,
+      "name": "Krekli pie griestiem",
+      "url": "https://open.spotify.com/track/1VLsQFFAkZKaBroGwrw0xY"
     },
     {
       "album": {
@@ -15323,6 +15571,24 @@
     },
     {
       "album": {
+        "name": "VARSKVA",
+        "url": "https://open.spotify.com/album/1Qk2lItE5KiD5DqKZpd31w"
+      },
+      "artists": [
+        {
+          "name": "Big Baby Tape",
+          "url": "https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158350,
+      "name": "Lo Siento",
+      "url": "https://open.spotify.com/track/47sdsdiYmgw3qadYl1uyRm"
+    },
+    {
+      "album": {
         "name": "Mercury - Act 1",
         "url": "https://open.spotify.com/album/4fZIyJn2wKb51QPNnWYnqt"
       },
@@ -15378,6 +15644,32 @@
       "duration_ms": 246720,
       "name": "Lonesome Moon",
       "url": "https://open.spotify.com/track/2TWrrULmlZlArhNyTMDYYD"
+    },
+    {
+      "album": {
+        "name": "Melnezera gr\u0101mata",
+        "url": "https://open.spotify.com/album/4ifT0y4TGyDc6p9GIfcprf"
+      },
+      "artists": [
+        {
+          "name": "Net\u012br\u0101s Cilpas",
+          "url": "https://open.spotify.com/artist/7qMwBXRD3KIEf8AGlHu1ze"
+        },
+        {
+          "name": "PCK 97",
+          "url": "https://open.spotify.com/artist/1b6tgpBYNJUV5gyLxpW64Y"
+        },
+        {
+          "name": "Kjuumanis",
+          "url": "https://open.spotify.com/artist/602h3Rd1mXFnbOASfz971e"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146527,
+      "name": "Longb\u012b\u010da / Prospekti",
+      "url": "https://open.spotify.com/track/7glL0BMaKilggZqjZdSXAk"
     },
     {
       "album": {
@@ -15864,7 +16156,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 213920,
       "name": "Lovers Rock",
       "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM"
@@ -16481,6 +16773,32 @@
     },
     {
       "album": {
+        "name": "Melnezera gr\u0101mata",
+        "url": "https://open.spotify.com/album/4ifT0y4TGyDc6p9GIfcprf"
+      },
+      "artists": [
+        {
+          "name": "Net\u012br\u0101s Cilpas",
+          "url": "https://open.spotify.com/artist/7qMwBXRD3KIEf8AGlHu1ze"
+        },
+        {
+          "name": "Pionieris",
+          "url": "https://open.spotify.com/artist/7lDwxebM6gRXsLjEKxhWPS"
+        },
+        {
+          "name": "ansis",
+          "url": "https://open.spotify.com/artist/7tkMUE1aCZQssaTYKdgmry"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113839,
+      "name": "Manevr\u0113 k\u0101 ma\u017eori",
+      "url": "https://open.spotify.com/track/5zC3j9PNbCVMqxJs6ttorN"
+    },
+    {
+      "album": {
         "name": "ODDINARY",
         "url": "https://open.spotify.com/album/1byOOf9U3IiQN1cVHqRqEF"
       },
@@ -17013,6 +17331,28 @@
     },
     {
       "album": {
+        "name": "Melnezera gr\u0101mata",
+        "url": "https://open.spotify.com/album/4ifT0y4TGyDc6p9GIfcprf"
+      },
+      "artists": [
+        {
+          "name": "Net\u012br\u0101s Cilpas",
+          "url": "https://open.spotify.com/artist/7qMwBXRD3KIEf8AGlHu1ze"
+        },
+        {
+          "name": "Wiesulis",
+          "url": "https://open.spotify.com/artist/7u9HzYQPhBC92mdvpzGqu8"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151315,
+      "name": "Mego gamb\u012bts (Freestyle)",
+      "url": "https://open.spotify.com/track/1PUo0qmzw9eTOYgRHXvuVL"
+    },
+    {
+      "album": {
         "name": "Meitene",
         "url": "https://open.spotify.com/album/5jr5CGQ4TiSeMHC8UFTkRq"
       },
@@ -17064,6 +17404,32 @@
       "duration_ms": 213693,
       "name": "Meitenes R\u012bg\u0101",
       "url": "https://open.spotify.com/track/630hAcarC8Vj7mnGgubcPK"
+    },
+    {
+      "album": {
+        "name": "Melnezera gr\u0101mata",
+        "url": "https://open.spotify.com/album/4ifT0y4TGyDc6p9GIfcprf"
+      },
+      "artists": [
+        {
+          "name": "Net\u012br\u0101s Cilpas",
+          "url": "https://open.spotify.com/artist/7qMwBXRD3KIEf8AGlHu1ze"
+        },
+        {
+          "name": "HOTTE",
+          "url": "https://open.spotify.com/artist/6sEWvN5XneNRa15AjhGYlm"
+        },
+        {
+          "name": "xantikvari\u0101ts",
+          "url": "https://open.spotify.com/artist/5TzEw4wxHOewtBd2By4RIX"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108479,
+      "name": "Melnezera m\u016bzika",
+      "url": "https://open.spotify.com/track/3r6arfRdeumGT7LCcnqdkW"
     },
     {
       "album": {
@@ -19677,6 +20043,28 @@
     },
     {
       "album": {
+        "name": "Melnezera gr\u0101mata",
+        "url": "https://open.spotify.com/album/4ifT0y4TGyDc6p9GIfcprf"
+      },
+      "artists": [
+        {
+          "name": "Net\u012br\u0101s Cilpas",
+          "url": "https://open.spotify.com/artist/7qMwBXRD3KIEf8AGlHu1ze"
+        },
+        {
+          "name": "Ozols",
+          "url": "https://open.spotify.com/artist/6DfYhvIhiblKFpqjBcgKis"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151723,
+      "name": "OGMC",
+      "url": "https://open.spotify.com/track/5Ur34XjQQqj1vwFr9LV7bu"
+    },
+    {
+      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
@@ -19944,7 +20332,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 244684,
       "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
@@ -21068,7 +21456,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 184516,
       "name": "Pink + White",
       "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
@@ -21502,6 +21890,32 @@
       "duration_ms": 205040,
       "name": "Praise The Lord (Da Shine) (feat. Skepta)",
       "url": "https://open.spotify.com/track/7ycWLEP1GsNjVvcjawXz3z"
+    },
+    {
+      "album": {
+        "name": "Melnezera gr\u0101mata",
+        "url": "https://open.spotify.com/album/4ifT0y4TGyDc6p9GIfcprf"
+      },
+      "artists": [
+        {
+          "name": "Net\u012br\u0101s Cilpas",
+          "url": "https://open.spotify.com/artist/7qMwBXRD3KIEf8AGlHu1ze"
+        },
+        {
+          "name": "E.V.",
+          "url": "https://open.spotify.com/artist/6hbEkXEt47J5wXvM3aQKNZ"
+        },
+        {
+          "name": "Kaizers",
+          "url": "https://open.spotify.com/artist/3FWtoIJX3Otd8MXp18JEiK"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144126,
+      "name": "Pras\u012bgais klusums",
+      "url": "https://open.spotify.com/track/6UlH4sBzFSQbLtU36mEK4w"
     },
     {
       "album": {
@@ -23382,7 +23796,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
@@ -23752,7 +24166,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 180386,
       "name": "See You Again (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
@@ -24470,6 +24884,36 @@
       "duration_ms": 204447,
       "name": "SIRENS",
       "url": "https://open.spotify.com/track/7LSpFCvRZZot2AlmkUzy9k"
+    },
+    {
+      "album": {
+        "name": "Melnezera gr\u0101mata",
+        "url": "https://open.spotify.com/album/4ifT0y4TGyDc6p9GIfcprf"
+      },
+      "artists": [
+        {
+          "name": "Net\u012br\u0101s Cilpas",
+          "url": "https://open.spotify.com/artist/7qMwBXRD3KIEf8AGlHu1ze"
+        },
+        {
+          "name": "Bruol\u0101ns",
+          "url": "https://open.spotify.com/artist/0AmsZDVDM7jixlEURT5b8a"
+        },
+        {
+          "name": "\u016aGA",
+          "url": "https://open.spotify.com/artist/6gq0u7XJvinsrSBeDX3iAu"
+        },
+        {
+          "name": "Kv\u0101ps",
+          "url": "https://open.spotify.com/artist/4O9aT1KfDwlfL3UAGod2wf"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134227,
+      "name": "SiSiDra 5000",
+      "url": "https://open.spotify.com/track/6TmqMJnMM29rTrNHR8x5Eo"
     },
     {
       "album": {
@@ -25338,7 +25782,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 206019,
       "name": "Standing Next to You",
       "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
@@ -25374,7 +25818,7 @@
       ],
       "date_added": "2022-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 142000,
       "name": "Star Shopping",
       "url": "https://open.spotify.com/track/6Ox1rvlwEpB49drasQm6RF"
@@ -25432,7 +25876,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 230453,
       "name": "Starboy",
       "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
@@ -25454,7 +25898,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 111626,
       "name": "Stargirl Interlude",
       "url": "https://open.spotify.com/track/5gDWsRxpJ2lZAffh5p7K0w"
@@ -26458,6 +26902,28 @@
       "duration_ms": 168979,
       "name": "S\u0101ku no s\u0101kuma",
       "url": "https://open.spotify.com/track/6UiU60DM7JMDPp8FKdWfan"
+    },
+    {
+      "album": {
+        "name": "Melnezera gr\u0101mata",
+        "url": "https://open.spotify.com/album/4ifT0y4TGyDc6p9GIfcprf"
+      },
+      "artists": [
+        {
+          "name": "Net\u012br\u0101s Cilpas",
+          "url": "https://open.spotify.com/artist/7qMwBXRD3KIEf8AGlHu1ze"
+        },
+        {
+          "name": "Amanito",
+          "url": "https://open.spotify.com/artist/5bKsHkFCaEoGWV58dGkvS1"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105794,
+      "name": "S\u0112NE!",
+      "url": "https://open.spotify.com/track/3MJHJ70blnHjkal4YOfn7C"
     },
     {
       "album": {
@@ -27767,6 +28233,32 @@
     },
     {
       "album": {
+        "name": "Melnezera gr\u0101mata",
+        "url": "https://open.spotify.com/album/4ifT0y4TGyDc6p9GIfcprf"
+      },
+      "artists": [
+        {
+          "name": "Net\u012br\u0101s Cilpas",
+          "url": "https://open.spotify.com/artist/7qMwBXRD3KIEf8AGlHu1ze"
+        },
+        {
+          "name": "Eliots",
+          "url": "https://open.spotify.com/artist/39wUlmskWbXVwU5Ttw2cJL"
+        },
+        {
+          "name": "ansis",
+          "url": "https://open.spotify.com/artist/7tkMUE1aCZQssaTYKdgmry"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144018,
+      "name": "Tilti un tune\u013ci",
+      "url": "https://open.spotify.com/track/05cKTqmVoBMoLnOPkW1zYw"
+    },
+    {
+      "album": {
         "name": "RUSH!",
         "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
       },
@@ -28309,6 +28801,28 @@
     },
     {
       "album": {
+        "name": "Melnezera gr\u0101mata",
+        "url": "https://open.spotify.com/album/4ifT0y4TGyDc6p9GIfcprf"
+      },
+      "artists": [
+        {
+          "name": "Net\u012br\u0101s Cilpas",
+          "url": "https://open.spotify.com/artist/7qMwBXRD3KIEf8AGlHu1ze"
+        },
+        {
+          "name": "3adatu stagars",
+          "url": "https://open.spotify.com/artist/4IsKOFrrynvqzcR7wBEM3m"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134370,
+      "name": "Tr\u012bsst\u016bris",
+      "url": "https://open.spotify.com/track/2w0SUuWEDOTASoyOxK0qS9"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -28724,7 +29238,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 229640,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR"
@@ -30072,7 +30586,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 161123,
       "name": "Why'd You Only Call Me When You're High?",
       "url": "https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9"
@@ -30852,6 +31366,36 @@
       "duration_ms": 182796,
       "name": "Zemes stunda",
       "url": "https://open.spotify.com/track/6XUfSHZjqEaFNDeyxcYRi4"
+    },
+    {
+      "album": {
+        "name": "Melnezera gr\u0101mata",
+        "url": "https://open.spotify.com/album/4ifT0y4TGyDc6p9GIfcprf"
+      },
+      "artists": [
+        {
+          "name": "Net\u012br\u0101s Cilpas",
+          "url": "https://open.spotify.com/artist/7qMwBXRD3KIEf8AGlHu1ze"
+        },
+        {
+          "name": "Ods",
+          "url": "https://open.spotify.com/artist/1tyZ7Tmc3dC2eGKsEa19Ev"
+        },
+        {
+          "name": "go\u010da",
+          "url": "https://open.spotify.com/artist/58Lv2hHl4JlN4wkwGmrceH"
+        },
+        {
+          "name": "MC Ap\u0161aude",
+          "url": "https://open.spotify.com/artist/30FEF4YoRN8Sdbw1N0enGq"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148933,
+      "name": "Zen\u012bt\u0101",
+      "url": "https://open.spotify.com/track/6W1ToNLBxyVBOFzjpTP6Th"
     },
     {
       "album": {

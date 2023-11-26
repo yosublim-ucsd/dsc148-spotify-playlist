@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,754 likes - 134 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,366 likes - 134 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 48 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/6oFQR42amYjU5s3MFr6FQl) | [Giada Valenti](https://open.spotify.com/artist/5KTmkF9d1mTUKPofH484Wt), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/4dZPHyoFI9l0oDvuWTcVQV) | 3:56 |
 | 49 | [Home Alone \(with Marnik\)](https://open.spotify.com/track/7zyvQ8sb72g4RuwBpcuGUP) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc) | [Home Alone \(with Marnik\)](https://open.spotify.com/album/4PX1HXUcKRTNYEQOcBfpsc) | 2:08 |
 | 50 | [Broke Christmas](https://open.spotify.com/track/2PrTOuCSGN9mbQLMq9QIbS) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Broke Christmas](https://open.spotify.com/album/07bgrmLpLG1N138pZBVAc3) | 1:47 |
-| 51 | [christmas time](https://open.spotify.com/track/7rkuXl7laeAVFZwWzMR8Tl) | [piri](https://open.spotify.com/artist/1088EQsWxKf0Ols4WnC85s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [christmas time](https://open.spotify.com/album/2nwhsv3Lf8JttICN3e3K92) | 2:48 |
+| 51 | [christmas time](https://open.spotify.com/track/7rkuXl7laeAVFZwWzMR8Tl) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [christmas time](https://open.spotify.com/album/2nwhsv3Lf8JttICN3e3K92) | 2:48 |
 | 52 | [It Must Be Christmas Time](https://open.spotify.com/track/2kWAXjc3Teae3dMxaRl8QA) | [Chris August](https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8) | [It Must Be Christmas Time](https://open.spotify.com/album/5fzIfGruxmxdfn69fbYN8Q) | 2:19 |
 | 53 | [All I Want For Christmas Is You](https://open.spotify.com/track/0LdEfe80Kt3l1vRT07WfJB) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [More The Merrier \(Deluxe Edition\)](https://open.spotify.com/album/2wCP7y2mlhe5h38mkthlkG) | 4:08 |
 | 54 | [Please Come Home For Christmas](https://open.spotify.com/track/2ZQlt4cuWOY6xrNtkP4OsS) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Merry Christmas From Jon Pardi](https://open.spotify.com/album/0rntkIqjxA3mqdfkvB6O8C) | 5:03 |
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 133 | [Please Come Home for Christmas](https://open.spotify.com/track/3GZwaCUpDIOtZxZF7AbQLz) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Please Come Home for Christmas](https://open.spotify.com/album/6vRbT0SJ0jkIj66OT4yrs8) | 2:45 |
 | 134 | [At Least I Have Santa](https://open.spotify.com/track/78InQyI314pCq9GVTrUBib) | [Jackie Evancho](https://open.spotify.com/artist/7FukyKMUPL10mDN9LgAngI) | [At Least I Have Santa](https://open.spotify.com/album/6cpaLiEmVaQrpPUPiAePDF) | 3:24 |
 
-Snapshot ID: `MCw0MTUyMTFjOTY4N2YyZDgzZGRjNzc3NjgxZDgzN2FmYzJhYjJmZmJl`
+Snapshot ID: `MCw3MDkwMGU4Yzc1M2I4MjBhMTQ4ZmZmZWVjZGIwZWQwNDVlMWExMzk4`

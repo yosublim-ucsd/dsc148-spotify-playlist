@@ -1,12 +1,12 @@
 {
   "description": "Dreaming of a white Christmas \u2728\u2744\ufe0f",
-  "num_followers": 138777,
+  "num_followers": 139122,
   "original_name": "White Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjYwOTMxYzI5MzRlMDEwZjM3OGE2M2Y0M2M5MjkyYTk2MGE2NWNk",
+  "snapshot_id": "MCxmYzk4ZTllOTIxNzY4MTMyZTEwMjIxMzE4ZGE2NzYyNWQ4NzM5ODAy",
   "tracks": [
     {
       "added_at": "2023-11-17 22:09:53",
@@ -647,6 +647,22 @@
     {
       "added_at": "2023-11-17 22:09:53",
       "album": {
+        "name": "A Christmas Gift For You From Phil Spector",
+        "url": "https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu"
+      },
+      "artists": [
+        {
+          "name": "Darlene Love",
+          "url": "https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu"
+        }
+      ],
+      "duration_ms": 166453,
+      "name": "Christmas (Baby Please Come Home)",
+      "url": "https://open.spotify.com/track/46pF1zFimM582ss1PrMy68"
+    },
+    {
+      "added_at": "2023-11-17 22:09:53",
+      "album": {
         "name": "Santa Claus Is Comin' to Town (Live at C.W. Post College, Greenvale, NY - December 1975)",
         "url": "https://open.spotify.com/album/6SEtGOi92yZM5TyAGlXlpZ"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 206600,
       "name": "Have Yourself A Merry Little Christmas - Remastered 1999",
       "url": "https://open.spotify.com/track/2FPfeYlrbSBR8PwCU0zaqq"
-    },
-    {
-      "added_at": "2023-11-17 22:09:53",
-      "album": {
-        "name": "A Christmas Gift For You From Phil Spector",
-        "url": "https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu"
-      },
-      "artists": [
-        {
-          "name": "Darlene Love",
-          "url": "https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu"
-        }
-      ],
-      "duration_ms": 166453,
-      "name": "Christmas (Baby Please Come Home)",
-      "url": "https://open.spotify.com/track/46pF1zFimM582ss1PrMy68"
     },
     {
       "added_at": "2023-11-17 22:09:53",
@@ -791,6 +791,22 @@
     {
       "added_at": "2023-11-17 22:09:53",
       "album": {
+        "name": "Rudolph The Red Nosed Reindeer And Other Christmas Classics",
+        "url": "https://open.spotify.com/album/3BPDSjoJlho8oiUPUNrShM"
+      },
+      "artists": [
+        {
+          "name": "Gene Autry",
+          "url": "https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs"
+        }
+      ],
+      "duration_ms": 150266,
+      "name": "Here Comes Santa Claus (Right Down Santa Claus Lane) - 1947 Version",
+      "url": "https://open.spotify.com/track/25leEEaz1gIpp7o21Fqyjo"
+    },
+    {
+      "added_at": "2023-11-17 22:09:53",
+      "album": {
         "name": "Glow",
         "url": "https://open.spotify.com/album/6FjK2XLQJloz36NgRciCHv"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 173560,
       "name": "Baby, It's Cold Outside (feat. Meghan Trainor)",
       "url": "https://open.spotify.com/track/5Q2P43CJra0uRAogjHyJDK"
-    },
-    {
-      "added_at": "2023-11-17 22:09:53",
-      "album": {
-        "name": "Rudolph The Red Nosed Reindeer And Other Christmas Classics",
-        "url": "https://open.spotify.com/album/3BPDSjoJlho8oiUPUNrShM"
-      },
-      "artists": [
-        {
-          "name": "Gene Autry",
-          "url": "https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs"
-        }
-      ],
-      "duration_ms": 150266,
-      "name": "Here Comes Santa Claus (Right Down Santa Claus Lane) - 1947 Version",
-      "url": "https://open.spotify.com/track/25leEEaz1gIpp7o21Fqyjo"
     },
     {
       "added_at": "2023-11-17 22:09:53",
@@ -943,6 +943,22 @@
     {
       "added_at": "2023-11-17 22:09:53",
       "album": {
+        "name": "Meet Me In St. Louis",
+        "url": "https://open.spotify.com/album/1owtCiTnAkCB4vKJ5FD0ki"
+      },
+      "artists": [
+        {
+          "name": "Judy Garland",
+          "url": "https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf"
+        }
+      ],
+      "duration_ms": 162333,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/030mot3ZKR3oskfMsqDB2R"
+    },
+    {
+      "added_at": "2023-11-17 22:09:53",
+      "album": {
         "name": "You Make It Feel Like Christmas",
         "url": "https://open.spotify.com/album/58qdMDlJaZBYleY7Bf0gNc"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 156773,
       "name": "You Make It Feel Like Christmas (feat. Blake Shelton)",
       "url": "https://open.spotify.com/track/2OQ6a4CfUeYskpTTgyawyJ"
-    },
-    {
-      "added_at": "2023-11-17 22:09:53",
-      "album": {
-        "name": "Meet Me In St. Louis",
-        "url": "https://open.spotify.com/album/1owtCiTnAkCB4vKJ5FD0ki"
-      },
-      "artists": [
-        {
-          "name": "Judy Garland",
-          "url": "https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf"
-        }
-      ],
-      "duration_ms": 162333,
-      "name": "Have Yourself A Merry Little Christmas",
-      "url": "https://open.spotify.com/track/030mot3ZKR3oskfMsqDB2R"
     },
     {
       "added_at": "2023-11-17 22:09:53",
@@ -1667,26 +1667,6 @@
     {
       "added_at": "2023-11-17 22:09:53",
       "album": {
-        "name": "Wake Up! (It\u2019s Christmas Time)",
-        "url": "https://open.spotify.com/album/4dRTI6bNOEP4j6PdghSske"
-      },
-      "artists": [
-        {
-          "name": "Forest Blakk",
-          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
-        },
-        {
-          "name": "Atlantic Holiday",
-          "url": "https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N"
-        }
-      ],
-      "duration_ms": 160173,
-      "name": "Wake Up! (It's Christmas Time)",
-      "url": "https://open.spotify.com/track/5neA7SHia4v59Thx1QpRXs"
-    },
-    {
-      "added_at": "2023-11-17 22:09:53",
-      "album": {
         "name": "Back Home Christmas",
         "url": "https://open.spotify.com/album/14nKYXwTDf1eZoEdnWD501"
       },
@@ -1699,6 +1679,22 @@
       "duration_ms": 219400,
       "name": "Back Home Christmas",
       "url": "https://open.spotify.com/track/2rEVJTkweG9QW6HPXyDJI4"
+    },
+    {
+      "added_at": "2023-11-17 22:09:53",
+      "album": {
+        "name": "Sleigh Ride",
+        "url": "https://open.spotify.com/album/76ZALfjfhhwd6WPW1JBhop"
+      },
+      "artists": [
+        {
+          "name": "Tim & The Glory Boys",
+          "url": "https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX"
+        }
+      ],
+      "duration_ms": 185583,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/6IXWwaxcBVLqSbU39Pqc19"
     }
   ],
   "unique_name": "White Christmas",

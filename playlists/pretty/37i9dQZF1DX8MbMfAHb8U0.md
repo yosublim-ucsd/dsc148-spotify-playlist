@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MbMfAHb8U0.md) - [plain]
 
 > The tracks that you love from the artists you love\. Cover: Erykah Badu
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,630 likes - 99 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,849 likes - 99 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MbMfAHb8U0.md) - [plain]
 | 33 | [Heard It All Before](https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co) | [Sunshine Anderson](https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK) | [Your Woman](https://open.spotify.com/album/2y7sSNd02a5uTfauRPY0lp) | 4:55 |
 | 34 | [What Am I Gonna Do](https://open.spotify.com/track/7FFQsnjzumC6eyCXRFPQ2f) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [2000 Watts](https://open.spotify.com/album/530wst7qkLIEeDYkOJXWzZ) | 4:40 |
 | 35 | [Unanswered Question](https://open.spotify.com/track/507JG4hPjRrTAJ82Zq1f5G) | [Amel Larrieux](https://open.spotify.com/artist/4hVcxmC7igpot32EzQf7IR) | [Morning](https://open.spotify.com/album/13Yxiwc6ETb76A6U9VUiZ4) | 3:34 |
-| 36 | [Hopeless \(From the New Line Cinema Film, "Love Jones"\)](https://open.spotify.com/track/1JzVKAvm4ZF74G6xhuRu5G) | [Dionne Farris](https://open.spotify.com/artist/7HO1DbzU86pWWp1vBN7l6k) | [Love Jones The Music](https://open.spotify.com/album/4JAftHLhvqnVkFL3f4hv0Z) | 3:54 |
+| 36 | [Hopeless \(From the New Line Cinema Film, "Love Jones"\)](https://open.spotify.com/track/2XKA576OqiY4PTKpVTA9AC) | [Dionne Farris](https://open.spotify.com/artist/7HO1DbzU86pWWp1vBN7l6k) | [Love Jones The Music](https://open.spotify.com/album/7dt0RR2Kbvu3ZuWloudfjI) | 3:54 |
 | 37 | [Gettin' In the Way](https://open.spotify.com/track/5Kjf7kWia6Ey8nRM4Mgj5l) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Who Is Jill Scott? \- Words and Sounds, Vol\. 1](https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG) | 3:56 |
 | 38 | [More Than A Woman \(feat\. Calvin\) \- Duet w/ Calvin](https://open.spotify.com/track/0fgVs2FjWxf60Gk8aaoECK) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Calvin Richardson](https://open.spotify.com/artist/5lckATQU3N7Ralsw3VfnRb) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:53 |
 | 39 | [Still Ray](https://open.spotify.com/track/4y4ilhWm4BcoWs7o5VsI3R) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [Instant Vintage](https://open.spotify.com/album/2Dfk3iSj303wZD28aXq5ov) | 3:03 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MbMfAHb8U0.md) - [plain]
 | 98 | [Love Jones](https://open.spotify.com/track/0eYwyhS1SsHswOZG23V0Qr) | [Chico DeBarge](https://open.spotify.com/artist/67ISVBZzcCTTKM17Ps00sx) | [Long Time No See](https://open.spotify.com/album/0AHbQKIEj4X5ghszLRhnLL) | 4:43 |
 | 99 | [No Us, No Them](https://open.spotify.com/track/1JP1HHD3E0ovkSkh4UmQGV) | [Bernhoft](https://open.spotify.com/artist/7hJnLLfzUy0oDOtNZF8wUm), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Islander](https://open.spotify.com/album/6HEzdx1DBhs4ACcWde55vG) | 5:41 |
 
-Snapshot ID: `MCw1ZTAxNjE0Y2FlNmQwN2Q4YmExYzM1YmMxZTY1NzFkOGI4NGRlOTA4`
+Snapshot ID: `MCxhYzQxMDAyY2ExNDNmNzI2ZTE5MTM4MDgzYjY5MjA4MDc2MzNkOTc3`

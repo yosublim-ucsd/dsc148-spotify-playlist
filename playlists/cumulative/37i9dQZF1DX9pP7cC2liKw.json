@@ -4280,10 +4280,28 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 252931,
       "name": "PEL\u00cdCULA",
       "url": "https://open.spotify.com/track/1GBg3mPc3XBFkaUkKPTAja"
+    },
+    {
+      "album": {
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/0raBEOIefnhSVfZTXoEwdc"
+      },
+      "artists": [
+        {
+          "name": "Reno Rojas",
+          "url": "https://open.spotify.com/artist/4mGO2uRAEuv4onp3PYNZ0l"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252931,
+      "name": "PEL\u00cdCULA",
+      "url": "https://open.spotify.com/track/619Ig2JkDUlKVDs5PrjVxe"
     },
     {
       "album": {

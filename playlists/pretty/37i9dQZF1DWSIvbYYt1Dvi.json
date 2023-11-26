@@ -1,12 +1,12 @@
 {
   "description": "brime \u00e9 AULAS ",
-  "num_followers": 1236778,
+  "num_followers": 1236758,
   "original_name": "AULAS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Mzg2Y2RjOTE2MWNkYzBlMmYzMGE3MDA4ZmVjMDgzY2FmYzA5NWU1",
+  "snapshot_id": "MCwxN2Y2NmQ1OWFlOTRhNTE1MjRjNTViZWIwZjg2N2I2NDI0ZTFiYTJi",
   "tracks": [
     {
       "added_at": "2023-11-24 17:13:31",
@@ -68,12 +68,16 @@
       },
       "artists": [
         {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+          "name": "EHXIS",
+          "url": "https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4"
         },
         {
           "name": "Mu540",
           "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
         }
       ],
       "duration_ms": 123515,

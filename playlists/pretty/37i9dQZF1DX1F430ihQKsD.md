@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > La scène musicale montréalaise au premier plan\. Photo: Valence
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,037 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,057 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 99 | [Redcup](https://open.spotify.com/track/4qzwmA5yyAaMQgezGFJhRu) | [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8), [Sara Diamond](https://open.spotify.com/artist/4azg4dtpH6PiewGHFzQEj0) | [Redcup](https://open.spotify.com/album/2JqC8e1k92ih07yaSzq8Yx) | 2:41 |
 | 100 | [Almost Lost You](https://open.spotify.com/track/0MipSSCvBt5vFU1bGlOJXw) | [No Cosmos](https://open.spotify.com/artist/57mTtmL6bbLx7YD2Ti3pq9) | [Almost Lost You](https://open.spotify.com/album/0XxfQHSabJLZtrkGGLMiTN) | 3:47 |
 
-Snapshot ID: `MCwzODY5ZDExMDQyZTlhNmUxZjYwM2Q2OGM4NmU3ZWM0ZWNjODg0ZGRm`
+Snapshot ID: `MCxkNmM3ZWI2NDBlNjI3NDI2NzZkZjE1YjQyNDA0Njc1NjBhYWNmMTEy`

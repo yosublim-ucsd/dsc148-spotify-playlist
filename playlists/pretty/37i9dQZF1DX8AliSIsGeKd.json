@@ -1,12 +1,12 @@
 {
   "description": "The best new electronic music. Cover: Township Rebellion",
-  "num_followers": 621469,
+  "num_followers": 621688,
   "original_name": "Electronic Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZWQ5YWM0Y2I3NjlhNDBjZjMxYjI1NmUyODJiOGE1MGM3YmI0ZjQ1",
+  "snapshot_id": "MCwwNTAwYTljMGRhY2NkMzQyMWY0NmFiOTFmYjljNzU2NWI0MDVmYjQ1",
   "tracks": [
     {
       "added_at": "2023-11-24 11:00:00",
@@ -40,7 +40,7 @@
           "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
         }
       ],
-      "duration_ms": 198095,
+      "duration_ms": 195238,
       "name": "Simulation",
       "url": "https://open.spotify.com/track/5166Ws58cqwtQE2YR7Nyal"
     },
@@ -135,7 +135,7 @@
     {
       "added_at": "2023-11-24 11:00:00",
       "album": {
-        "name": "Power House",
+        "name": "PowerHouse",
         "url": "https://open.spotify.com/album/0R4Rx9VsDDnulXCPbOWW14"
       },
       "artists": [
@@ -145,7 +145,7 @@
         }
       ],
       "duration_ms": 330966,
-      "name": "Power House",
+      "name": "PowerHouse",
       "url": "https://open.spotify.com/track/5RNJQYjPzlrCXwX48St7UR"
     },
     {

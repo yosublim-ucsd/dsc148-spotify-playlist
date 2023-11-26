@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,543 songs - 4 day 10 hr 15 min
+1,544 songs - 4 day 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1370,7 +1370,7 @@
 | [The Whistle Song \- Re\-Directed](https://open.spotify.com/track/6wD0LWjn3WZMdLqatEc5vM) | [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc), [Director's Cut](https://open.spotify.com/artist/0sgCVo8Q7D7zCPZL3TytL0), [Eric Kupper](https://open.spotify.com/artist/2ATkDceAaeLUkxPnJPHGkz) | [The Director's Cut Collection](https://open.spotify.com/album/3xVeHKUy4HEdFOH96MeCiG) | 7:57 | 2020-06-12 | 2020-10-09 |
 | [The Wind And The Sea](https://open.spotify.com/track/4gO6QBkKGssMiqaxzzhmhs) | [Shumi](https://open.spotify.com/artist/7JMxVt0726Mmy4rXcSzAEz) | [Jump For Joy](https://open.spotify.com/album/0CVTULUZNbNtThDuLsKh32) | 7:34 | 2020-02-29\* | 2020-03-16 |
 | [Therapy \- Sebastian Davidson Remix](https://open.spotify.com/track/5a2TuGiWm27kRcfg9rxn2d) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [James Newman](https://open.spotify.com/artist/4iaTgZRy5aVnImDyRJn61n), [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp) | [Therapy \(Sebastian Davidson Remix\)](https://open.spotify.com/album/28Bxiu1DfHwb1d5wlzZ1On) | 3:24 | 2020-05-18 | 2020-10-10 |
-| [These Things Will Come To Be](https://open.spotify.com/track/1vVq4Y18oveAg20Ujh43aE) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [These Things Will Come To Be](https://open.spotify.com/album/3RGrGXf9ZsPOuqHm02SSl7) | 4:56 | 2021-07-23 |  |
+| [These Things Will Come To Be](https://open.spotify.com/track/1vVq4Y18oveAg20Ujh43aE) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [These Things Will Come To Be](https://open.spotify.com/album/3RGrGXf9ZsPOuqHm02SSl7) | 4:56 | 2021-07-23 | 2023-11-26 |
 | [Thief](https://open.spotify.com/track/5FjMM1DCJ5q8HOqRlOVId4) | [Nick AM](https://open.spotify.com/artist/1uPP0SnAHHgGKS0WqbSYwe) | [Utopia](https://open.spotify.com/album/3JFjDW9hgB5sGdCdsXBwR5) | 3:34 | 2020-05-18 | 2020-10-09 |
 | [Think](https://open.spotify.com/track/39GdiKa00P00AUxO7rD1xe) | [Kiso](https://open.spotify.com/artist/3okpOKUI8vvwAYi4cDoXdZ) | [Think](https://open.spotify.com/album/3b4HmUQzrud74bCPa6eeQm) | 2:50 | 2020-05-18 | 2020-07-18 |
 | [Thinking Back](https://open.spotify.com/track/6InmT6vejHqnqxUhcOGYex) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O) | [Plastic People](https://open.spotify.com/album/29R3uyqxP5iXDnHnGXXqMe) | 5:00 | 2020-05-18 | 2021-02-19 |
@@ -1417,6 +1417,7 @@
 | [U Got My Heart](https://open.spotify.com/track/752noY44yVo7eYK78VikAx) | [Clément Leroux](https://open.spotify.com/artist/3MttWEEoyq7W9MjHEBaKhG), [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [U Got My Heart](https://open.spotify.com/album/1a8afZYgO0ToDcgn2VJldN) | 3:11 | 2020-03-16 | 2022-04-20 |
 | [Ultimatum \- Edit](https://open.spotify.com/track/0slkzFvyBWcwnjEEDtYE5E) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Ultimatum](https://open.spotify.com/album/3mKvAiTrhpJUTAFsJXmjTE) | 3:33 | 2020-05-18 | 2020-07-18 |
 | [Undecided](https://open.spotify.com/track/25CSuITuHOTUSrCx4u72UT) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Undecided](https://open.spotify.com/album/1Ybr2PycNvqre2mpj35VRD) | 4:06 | 2020-11-13 | 2022-02-19 |
+| [Under The Surface](https://open.spotify.com/track/6u3h5vhjyNTkGziCxwJ3o1) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Under The Surface](https://open.spotify.com/album/57n89DMDCnJg2pY6uszUv1) | 5:24 | 2023-11-24 |  |
 | [Undercover](https://open.spotify.com/track/1QTNCy6V8BhTi0jLUS2P1I) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc) | [Undercover](https://open.spotify.com/album/32i4ZFpav2nsbMtbMvPg76) | 3:32 | 2020-10-23 | 2020-11-06 |
 | [Undertale](https://open.spotify.com/track/4LNBeWjoJdznlYvuAYEGr7) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Nostalgia](https://open.spotify.com/album/1rlTuVFn35yqm1vaOl359q) | 3:13 | 2022-03-11 | 2022-03-26 |
 | [Underwater](https://open.spotify.com/track/6qnULXVFGfFqPj0Hpj0tIG) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx) | [Underwater / Other Voices](https://open.spotify.com/album/3p1vQf7Y8BSHiUVCGR2NtG) | 4:57 | 2021-01-08 | 2022-12-29 |

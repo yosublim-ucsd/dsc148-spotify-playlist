@@ -1,12 +1,12 @@
 {
   "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: NAYEON(\ub098\uc5f0))",
-  "num_followers": 180763,
+  "num_followers": 180900,
   "original_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDdhOWNjZDgwNzkyMmI4YTAzY2MyZTIyY2M0MWZiZGFlNDNmYWJm",
+  "snapshot_id": "MCwxZmU5NGYyMTk5NjI3OTk0NmEyMTA1N2RmZmU1NGI3MmNmYjExMDIx",
   "tracks": [
     {
       "added_at": "2023-09-14 10:27:59",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
-        "name": "I-LAND Part.1 Signal Song",
-        "url": "https://open.spotify.com/album/5hytFjwacV5ObltOLMAqfA"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 217322,
-      "name": "Into the I-LAND",
-      "url": "https://open.spotify.com/track/4YvtgtEH5E1pahZu9uzKRy"
-    },
-    {
-      "added_at": "2023-09-14 10:27:59",
-      "album": {
         "name": "As You Wish",
         "url": "https://open.spotify.com/album/5QsZIQcV5BOX9Tzj3IPVyo"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 195667,
       "name": "As You Wish",
       "url": "https://open.spotify.com/track/42zMiF3EFBg5CsYbgKdhj1"
+    },
+    {
+      "added_at": "2023-09-14 10:27:59",
+      "album": {
+        "name": "I-LAND Part.1 Signal Song",
+        "url": "https://open.spotify.com/album/5hytFjwacV5ObltOLMAqfA"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 217322,
+      "name": "Into the I-LAND",
+      "url": "https://open.spotify.com/track/4YvtgtEH5E1pahZu9uzKRy"
     },
     {
       "added_at": "2023-09-14 10:27:59",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
+        "name": "Bon Voyage",
+        "url": "https://open.spotify.com/album/2dFsfVOAwvmRV8hOBdssiI"
+      },
+      "artists": [
+        {
+          "name": "YooA",
+          "url": "https://open.spotify.com/artist/4ur1jCwyNlhgd0viJkOtcQ"
+        }
+      ],
+      "duration_ms": 219586,
+      "name": "Bon voyage",
+      "url": "https://open.spotify.com/track/4X95Ecd1elHxTccGOko02c"
+    },
+    {
+      "added_at": "2023-09-14 10:27:59",
+      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/3myL1yEMNbzCosXULCjhAO"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 189720,
       "name": "Baby",
       "url": "https://open.spotify.com/track/606Cy8x4IPNlYjKYd88pEr"
-    },
-    {
-      "added_at": "2023-09-14 10:27:59",
-      "album": {
-        "name": "Bon Voyage",
-        "url": "https://open.spotify.com/album/2dFsfVOAwvmRV8hOBdssiI"
-      },
-      "artists": [
-        {
-          "name": "YooA",
-          "url": "https://open.spotify.com/artist/4ur1jCwyNlhgd0viJkOtcQ"
-        }
-      ],
-      "duration_ms": 219586,
-      "name": "Bon voyage",
-      "url": "https://open.spotify.com/track/4X95Ecd1elHxTccGOko02c"
     },
     {
       "added_at": "2023-09-14 10:27:59",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
-        "name": "The 2nd Mini Album 'Summer Vibe'",
-        "url": "https://open.spotify.com/album/3C9klin5PNVtOaR91eqEGz"
-      },
-      "artists": [
-        {
-          "name": "VIVIZ",
-          "url": "https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ"
-        }
-      ],
-      "duration_ms": 218880,
-      "name": "LOVEADE",
-      "url": "https://open.spotify.com/track/0q7U1KqAYPGHdwC8HVw67y"
-    },
-    {
-      "added_at": "2023-09-14 10:27:59",
-      "album": {
         "name": "Blooming Blue",
         "url": "https://open.spotify.com/album/6Np41VY6robn2MhsVhl9Z2"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 190920,
       "name": "Love U",
       "url": "https://open.spotify.com/track/0Hk7Aoxk7qdfj7bO83iL69"
+    },
+    {
+      "added_at": "2023-09-14 10:27:59",
+      "album": {
+        "name": "The 2nd Mini Album 'Summer Vibe'",
+        "url": "https://open.spotify.com/album/3C9klin5PNVtOaR91eqEGz"
+      },
+      "artists": [
+        {
+          "name": "VIVIZ",
+          "url": "https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ"
+        }
+      ],
+      "duration_ms": 218880,
+      "name": "LOVEADE",
+      "url": "https://open.spotify.com/track/0q7U1KqAYPGHdwC8HVw67y"
     },
     {
       "added_at": "2023-09-14 10:27:59",

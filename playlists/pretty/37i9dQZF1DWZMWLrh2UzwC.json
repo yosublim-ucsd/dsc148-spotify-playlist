@@ -1,12 +1,12 @@
 {
   "description": "The best newly released songs of the week. Cover: Alextbh",
-  "num_followers": 62193,
+  "num_followers": 62197,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzkzOTdiZTQ5ZTA2MTFkNWYzMjMxYWExMjhjMmJmOGFhYzU0MDIw",
+  "snapshot_id": "MCwzMWI3YmM1NjA5NWY1ZGRhMDk5YWQwYTljM2MxZWQ1NDk0NDE0ZTcx",
   "tracks": [
     {
       "added_at": "2023-11-23 16:00:00",
@@ -323,7 +323,7 @@
     {
       "added_at": "2023-11-23 16:00:00",
       "album": {
-        "name": "Time Machine (feat. MSPUIYI)",
+        "name": "Time Machine (with MSPUIYI)",
         "url": "https://open.spotify.com/album/1Xu73EVMOz9PQm6NhUmt1w"
       },
       "artists": [
@@ -341,7 +341,7 @@
         }
       ],
       "duration_ms": 147310,
-      "name": "Time Machine (feat. MSPUIYI)",
+      "name": "Time Machine (with MSPUIYI)",
       "url": "https://open.spotify.com/track/0mZFBV9kO5a9DmzV16j9IA"
     },
     {
@@ -1271,6 +1271,22 @@
       "duration_ms": 146146,
       "name": "Sleep",
       "url": "https://open.spotify.com/track/76JrGQqPhi5WnVjuvNGMtK"
+    },
+    {
+      "added_at": "2023-11-23 16:00:00",
+      "album": {
+        "name": "You Did Say So",
+        "url": "https://open.spotify.com/album/7aaF8AENb7UviBm2Q1yFGh"
+      },
+      "artists": [
+        {
+          "name": "DINDIN",
+          "url": "https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z"
+        }
+      ],
+      "duration_ms": 205173,
+      "name": "You Did Say So",
+      "url": "https://open.spotify.com/track/5LcRW8Wc8GY8rgQ2qyGDzY"
     },
     {
       "added_at": "2023-11-23 16:00:00",

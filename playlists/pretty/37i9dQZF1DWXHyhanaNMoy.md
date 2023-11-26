@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion, fissa & good vibes! Cover: Broederliefde
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,102 likes - 70 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,124 likes - 70 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 22 | [Tongparty \(feat\. GuyDo, Young Ellens, Kempi & Penchi\)](https://open.spotify.com/track/0hlBEsdThTS8oucxjr8sfO) | [ChildsPlay](https://open.spotify.com/artist/6rNu1h2bZtfgDuZC5FWGel), [Guydo](https://open.spotify.com/artist/0FxNyLAP2TbgtZWATbTBLe), [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7), [Penchi](https://open.spotify.com/artist/4NOvTuUeo0tIV8uZx5iEgl) | [Tongparty \(feat\. GuyDo, Young Ellens, Kempi & Penchi\)](https://open.spotify.com/album/3M1RNLNrsQsSM4LAnAIX50) | 2:52 |
 | 23 | [Jealousy](https://open.spotify.com/track/5aRxIGkVO0t7oWiwmxQ5WE) | [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [Jealousy](https://open.spotify.com/album/4CbnSfZ10XhzFFG5Lzx0jG) | 2:45 |
 | 24 | [Het Kost Wat](https://open.spotify.com/track/1JgVMnVVOhPBmUDD7SYva3) | [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8) | [Het Kost Wat](https://open.spotify.com/album/4UzcY48Xn0Aulqk3nfjqQ8) | 2:06 |
-| 25 | [Big Up](https://open.spotify.com/track/2FoayXADnf4Zl2GaglxGHW) | [Vurra](https://open.spotify.com/artist/2Qm7GttqaAhxHCgj1vTUOk), [Justicetoch](https://open.spotify.com/artist/3fTOXO1SnhAdbTplyACjJR), [TAVV](https://open.spotify.com/artist/4YddQ3n18iC5QPZQBJMmAM) | [Big Up](https://open.spotify.com/album/7Crfgy4Plz4qIexmdkRa5x) | 2:48 |
+| 25 | [Big Up](https://open.spotify.com/track/2FoayXADnf4Zl2GaglxGHW) | [Vurra](https://open.spotify.com/artist/2Qm7GttqaAhxHCgj1vTUOk), [Justice Toch](https://open.spotify.com/artist/3B4UCLYCwiQTr6bmtpGnIa), [TAVV](https://open.spotify.com/artist/4YddQ3n18iC5QPZQBJMmAM) | [Big Up](https://open.spotify.com/album/7Crfgy4Plz4qIexmdkRa5x) | 2:48 |
 | 26 | [SUPARO](https://open.spotify.com/track/1Di904lomBvS89EWnSpW6J) | [WAYNE FLENORY](https://open.spotify.com/artist/6SZwuzkYiQwQIFMJ6VHCIV) | [SUPARO](https://open.spotify.com/album/7LlsOLJekHO8ArFTTZrYg4) | 2:32 |
 | 27 | [Loco Loco \(feat\. Sluwe Ollie\)](https://open.spotify.com/track/78dZXRH9JBXITQsS9Mlnsl) | [Alessio](https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj), [Sluwe Ollie](https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx) | [Loco Loco \(feat\. Sluwe Ollie\)](https://open.spotify.com/album/3v4lZJxJps8UEnZ8UVEIAy) | 2:45 |
 | 28 | [Tril](https://open.spotify.com/track/6kSv8PoHReHzdB7sFBf2l7) | [Sleazy Stereo](https://open.spotify.com/artist/5JETTAtrcvmmrrGCYINb5i), [Jayh Owen](https://open.spotify.com/artist/4hgkBqik8f6ZueCQEA5VG8), [Kinoh](https://open.spotify.com/artist/2DL90GeChXppBBui74CXlp) | [Tril](https://open.spotify.com/album/6tk81SkkRjdGhq9RJHYZLv) | 2:15 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 69 | [Tranquilo](https://open.spotify.com/track/31BsqR4z06NKoMnsvsMt5z) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [Fmg](https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H) | [Tranquilo](https://open.spotify.com/album/1fhhzc1jjmeK0n4Nb5I7wL) | 2:56 |
 | 70 | [Chérie](https://open.spotify.com/track/0GTO1m0ZbLNvsl6EAMXpj7) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [DNK \(Bonus Track Edition\)](https://open.spotify.com/album/0Zu0z9j0N8J8DXCEZejNRf) | 3:08 |
 
-Snapshot ID: `MCw5YjYxYjljN2EwZTY3MjJlNTZiZDMzYmZiNjA4YzUxNmI4OWZhMjVj`
+Snapshot ID: `MCw4MTYzZWM1MmJiNTFkOTFlYjdmMDUxMGI5YjM3YjY0YjBhZTAyNmUz`

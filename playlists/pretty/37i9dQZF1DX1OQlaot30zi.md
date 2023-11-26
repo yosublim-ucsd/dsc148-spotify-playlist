@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Emis Killa, yungest Moonstar, Artie 5ive, Geolier e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,477 likes - 85 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,498 likes - 85 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 39 | [DEMONS](https://open.spotify.com/track/5EQwrZDB7O9HBULzCWvceU) | [ChesterJ](https://open.spotify.com/artist/2pnE9EPnrQJpN5IhMdh7IQ), [KosmoKrew](https://open.spotify.com/artist/11kJyrEEcK3ei750URYTIH) | [DEMONS](https://open.spotify.com/album/766tu1mmu92FbRN2P6Evu7) | 2:27 |
 | 40 | [MURDER PAIN](https://open.spotify.com/track/2aM03FDpMKlXWHZ7T2j2kl) | [NMP Finesse](https://open.spotify.com/artist/7DPXH0d5qZb6Y49UduvWQa), [SPINASADBOI](https://open.spotify.com/artist/1tkoKvKdCBN70AbgbnYCE5) | [MURDER PAIN](https://open.spotify.com/album/4Eby4U7eH4kDDVHEX0UVLB) | 2:15 |
 | 41 | [F\*\*k the club up \(feat\. Diss Gacha\)](https://open.spotify.com/track/0pSQ12PmPwGkrwbekf40UF) | [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT), [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu) | [F\*\*k the club up \(feat\. Diss Gacha\)](https://open.spotify.com/album/6mQDsMcWWITYk79BxBGhnQ) | 2:20 |
-| 42 | [SPEDIZIONE PUNITIVA](https://open.spotify.com/track/2RqyqoJTECRr2py03ZmTvF) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [SPEDIZIONE PUNITIVA](https://open.spotify.com/album/7GuR3OGl4rQ7RkFGPdcQHW) | 2:36 |
+| 42 | [Spedizione punitiva](https://open.spotify.com/track/2RqyqoJTECRr2py03ZmTvF) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [Spedizione punitiva](https://open.spotify.com/album/7GuR3OGl4rQ7RkFGPdcQHW) | 2:36 |
 | 43 | [Mamy Freestyle](https://open.spotify.com/track/0IXzwakHiOvrggIXRpsa1B) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fri2](https://open.spotify.com/artist/4oLRpvu0D5poM84DoKU64v) | [Mamy Freestyle](https://open.spotify.com/album/35td96bqxOCf5NE1eRH12o) | 2:25 |
 | 44 | [Complicato](https://open.spotify.com/track/6d7BZ0WMfu6OlgA3hIh58P) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:13 |
 | 45 | [FASHION](https://open.spotify.com/track/2GrgmzXmNHOfqIcrDSQmQa) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [FASHION](https://open.spotify.com/album/6F9abOtP5f8U6AVCHFN8Tl) | 2:29 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 84 | [+Freddo](https://open.spotify.com/track/1WRAGwxtrW7oqRM6n8xIS2) | [Ombrv](https://open.spotify.com/artist/3k0UmxDhNM3pdvDlQjhg82) | [+Freddo](https://open.spotify.com/album/0zW7laPPT6VM49UZEFkAPK) | 2:16 |
 | 85 | [Modo](https://open.spotify.com/track/2o0p3cv07zS46ieNAwfKlW) | [DJ Fede](https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8), [Dj Kamo](https://open.spotify.com/artist/70gSqeThzMyjZt29jDdMh6), [Oyoshe](https://open.spotify.com/artist/6t49JCW50szpbRh9TuX2s8) | [Modo](https://open.spotify.com/album/2zp7KQL4JmQHf5NbQt3Ygk) | 4:03 |
 
-Snapshot ID: `MCw1ZDM3ZmZlOGFjMmM1NTZjMWIwYjU1OGUwNjMzZDc0MWFiZTEzYzUy`
+Snapshot ID: `MCxlOTBkMTk4Yjk5ZDA2NDMwYTExYjM3YThmNzYyZmY4YWQ0MDI1NTY0`

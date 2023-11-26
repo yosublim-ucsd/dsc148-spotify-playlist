@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Hungary.",
-  "num_followers": 71790,
+  "num_followers": 71797,
   "original_name": "Top 50 - Hungary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzU0MTkwNDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzU0Mjc3NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-11-24 08:55:44",
+      "added_at": "2023-11-25 08:26:13",
       "album": {
         "name": "A b\u00fas barista ballad\u00e1i",
         "url": "https://open.spotify.com/album/4TGu3sVQHkz67nUz1GWueo"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/1BXp9PwKtW5AKD0QDdaPSw"
     },
     {
-      "added_at": "2023-11-24 08:55:44",
+      "added_at": "2023-11-25 08:26:13",
       "album": {
         "name": "CARPE DIEM",
         "url": "https://open.spotify.com/album/68gj4MmytrI8exdgfjhWzb"
@@ -53,7 +53,7 @@
       "url": "https://open.spotify.com/track/1E2flGJxXQNeBLRqQXiAsK"
     },
     {
-      "added_at": "2023-11-24 08:55:44",
+      "added_at": "2023-11-25 08:26:13",
       "album": {
         "name": "Valencia",
         "url": "https://open.spotify.com/album/0sVF7F2neNBn9D3pRtqlH9"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/7kIn3HrqM432chtEydQgMb"
     },
     {
-      "added_at": "2023-11-24 08:55:44",
+      "added_at": "2023-11-25 08:26:13",
       "album": {
         "name": "CARPE DIEM",
         "url": "https://open.spotify.com/album/68gj4MmytrI8exdgfjhWzb"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/1tCIXEBHBFHO1x3M07z3xy"
     },
     {
-      "added_at": "2023-11-24 08:55:44",
+      "added_at": "2023-11-25 08:26:13",
       "album": {
         "name": "memento",
         "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
@@ -109,7 +109,23 @@
       "url": "https://open.spotify.com/track/5ZY255MSISgMrvHmRZux1E"
     },
     {
-      "added_at": "2023-11-24 08:55:44",
+      "added_at": "2023-11-25 08:26:13",
+      "album": {
+        "name": "memento",
+        "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 169841,
+      "name": "introvert\u00e1lt dal",
+      "url": "https://open.spotify.com/track/2EAvOY1uymm5ZAd0ZbnnPW"
+    },
+    {
+      "added_at": "2023-11-25 08:26:13",
       "album": {
         "name": "tripq",
         "url": "https://open.spotify.com/album/6ZO1hIeCfQ8neaKn3bPhyr"
@@ -129,39 +145,7 @@
       "url": "https://open.spotify.com/track/2IetMd5ZFurl1sjSAqhq2O"
     },
     {
-      "added_at": "2023-11-24 08:55:44",
-      "album": {
-        "name": "A b\u00fas barista ballad\u00e1i",
-        "url": "https://open.spotify.com/album/4TGu3sVQHkz67nUz1GWueo"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        }
-      ],
-      "duration_ms": 134886,
-      "name": "Haramia",
-      "url": "https://open.spotify.com/track/6nLt2P4qTu9T787DlfbVi7"
-    },
-    {
-      "added_at": "2023-11-24 08:55:44",
-      "album": {
-        "name": "memento",
-        "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 169841,
-      "name": "introvert\u00e1lt dal",
-      "url": "https://open.spotify.com/track/2EAvOY1uymm5ZAd0ZbnnPW"
-    },
-    {
-      "added_at": "2023-11-24 08:55:44",
+      "added_at": "2023-11-25 08:26:13",
       "album": {
         "name": "A b\u00fas barista ballad\u00e1i",
         "url": "https://open.spotify.com/album/4TGu3sVQHkz67nUz1GWueo"
@@ -181,7 +165,39 @@
       "url": "https://open.spotify.com/track/7BeoO0doT2iLnmY6wnnexQ"
     },
     {
-      "added_at": "2023-11-24 08:55:44",
+      "added_at": "2023-11-25 08:26:13",
+      "album": {
+        "name": "A b\u00fas barista ballad\u00e1i",
+        "url": "https://open.spotify.com/album/4TGu3sVQHkz67nUz1GWueo"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "duration_ms": 134886,
+      "name": "Haramia",
+      "url": "https://open.spotify.com/track/6nLt2P4qTu9T787DlfbVi7"
+    },
+    {
+      "added_at": "2023-11-25 08:26:13",
+      "album": {
+        "name": "Kopott szavak",
+        "url": "https://open.spotify.com/album/3xA2h2QavwykBiqull4MrL"
+      },
+      "artists": [
+        {
+          "name": "Ekhoe",
+          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
+        }
+      ],
+      "duration_ms": 163137,
+      "name": "Kopott szavak",
+      "url": "https://open.spotify.com/track/5TmzMu4UXoUwQe3kONqNns"
+    },
+    {
+      "added_at": "2023-11-25 08:26:13",
       "album": {
         "name": "NULLAK\u00d6Z\u00d6D / T\u00dcK\u00d6RTEREM",
         "url": "https://open.spotify.com/album/1APxXOizhq9Cb7KJ0eLYFH"
@@ -201,55 +217,7 @@
       "url": "https://open.spotify.com/track/0S2XFRI4Yyd1yWwLQBwEFr"
     },
     {
-      "added_at": "2023-11-24 08:55:44",
-      "album": {
-        "name": "Kopott szavak",
-        "url": "https://open.spotify.com/album/3xA2h2QavwykBiqull4MrL"
-      },
-      "artists": [
-        {
-          "name": "Ekhoe",
-          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
-        }
-      ],
-      "duration_ms": 163137,
-      "name": "Kopott szavak",
-      "url": "https://open.spotify.com/track/5TmzMu4UXoUwQe3kONqNns"
-    },
-    {
-      "added_at": "2023-11-24 08:55:44",
-      "album": {
-        "name": "III. Kr\u00fabi",
-        "url": "https://open.spotify.com/album/6ugdjOOBMHmr14VPGFEPJq"
-      },
-      "artists": [
-        {
-          "name": "Kr\u00fabi",
-          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
-        }
-      ],
-      "duration_ms": 272386,
-      "name": "Mini Kr\u00fabi",
-      "url": "https://open.spotify.com/track/2xsW0zHw5m6CYVNRpjaBDB"
-    },
-    {
-      "added_at": "2023-11-24 08:55:44",
-      "album": {
-        "name": "greedy",
-        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 131872,
-      "name": "greedy",
-      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
-    },
-    {
-      "added_at": "2023-11-24 08:55:44",
+      "added_at": "2023-11-25 08:26:13",
       "album": {
         "name": "III. Kr\u00fabi",
         "url": "https://open.spotify.com/album/6ugdjOOBMHmr14VPGFEPJq"
@@ -265,7 +233,39 @@
       "url": "https://open.spotify.com/track/616njAaXFdHu5rs3FbjyUw"
     },
     {
-      "added_at": "2023-11-24 08:55:44",
+      "added_at": "2023-11-25 08:26:13",
+      "album": {
+        "name": "III. Kr\u00fabi",
+        "url": "https://open.spotify.com/album/6ugdjOOBMHmr14VPGFEPJq"
+      },
+      "artists": [
+        {
+          "name": "Kr\u00fabi",
+          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
+        }
+      ],
+      "duration_ms": 272386,
+      "name": "Mini Kr\u00fabi",
+      "url": "https://open.spotify.com/track/2xsW0zHw5m6CYVNRpjaBDB"
+    },
+    {
+      "added_at": "2023-11-25 08:26:13",
+      "album": {
+        "name": "greedy",
+        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 131872,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
+    },
+    {
+      "added_at": "2023-11-25 08:26:13",
       "album": {
         "name": "tripq",
         "url": "https://open.spotify.com/album/6ZO1hIeCfQ8neaKn3bPhyr"
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/1VPU7SKdABCb3gNCNjMFIZ"
     },
     {
-      "added_at": "2023-11-24 08:55:44",
+      "added_at": "2023-11-25 08:26:13",
       "album": {
         "name": "III. Kr\u00fabi",
         "url": "https://open.spotify.com/album/6ugdjOOBMHmr14VPGFEPJq"
@@ -301,43 +301,7 @@
       "url": "https://open.spotify.com/track/3slZDC1KYm6oV6KMr2BuXw"
     },
     {
-      "added_at": "2023-11-24 08:55:44",
-      "album": {
-        "name": "NULLAK\u00d6Z\u00d6D / T\u00dcK\u00d6RTEREM",
-        "url": "https://open.spotify.com/album/1APxXOizhq9Cb7KJ0eLYFH"
-      },
-      "artists": [
-        {
-          "name": "Beton.Hofi",
-          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
-        },
-        {
-          "name": "ANUBII$",
-          "url": "https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd"
-        }
-      ],
-      "duration_ms": 140917,
-      "name": "NULLAK\u00d6Z\u00d6D",
-      "url": "https://open.spotify.com/track/0dqnJ3Qa6XQHaljGJg92ix"
-    },
-    {
-      "added_at": "2023-11-24 08:55:44",
-      "album": {
-        "name": "A b\u00fas barista ballad\u00e1i",
-        "url": "https://open.spotify.com/album/4TGu3sVQHkz67nUz1GWueo"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        }
-      ],
-      "duration_ms": 161413,
-      "name": "How we do",
-      "url": "https://open.spotify.com/track/71gCKC1ao9dnWS1r6EHFUa"
-    },
-    {
-      "added_at": "2023-11-24 08:55:44",
+      "added_at": "2023-11-25 08:26:13",
       "album": {
         "name": "A l\u00f3 t\u00faloldal\u00e1n",
         "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
@@ -357,7 +321,27 @@
       "url": "https://open.spotify.com/track/6Rc6C6S4lgT5j1OekgI155"
     },
     {
-      "added_at": "2023-11-24 08:55:44",
+      "added_at": "2023-11-25 08:26:13",
+      "album": {
+        "name": "NULLAK\u00d6Z\u00d6D / T\u00dcK\u00d6RTEREM",
+        "url": "https://open.spotify.com/album/1APxXOizhq9Cb7KJ0eLYFH"
+      },
+      "artists": [
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        },
+        {
+          "name": "ANUBII$",
+          "url": "https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd"
+        }
+      ],
+      "duration_ms": 140917,
+      "name": "NULLAK\u00d6Z\u00d6D",
+      "url": "https://open.spotify.com/track/0dqnJ3Qa6XQHaljGJg92ix"
+    },
+    {
+      "added_at": "2023-11-25 08:26:13",
       "album": {
         "name": "III. Kr\u00fabi",
         "url": "https://open.spotify.com/album/6ugdjOOBMHmr14VPGFEPJq"
@@ -373,95 +357,7 @@
       "url": "https://open.spotify.com/track/25FyOnddTVpNJ00XhB6qEC"
     },
     {
-      "added_at": "2023-11-24 08:55:44",
-      "album": {
-        "name": "A b\u00fas barista ballad\u00e1i",
-        "url": "https://open.spotify.com/album/4TGu3sVQHkz67nUz1GWueo"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        }
-      ],
-      "duration_ms": 150333,
-      "name": "Elaludni",
-      "url": "https://open.spotify.com/track/2GNCDexNq9O4PLH0Mubdv9"
-    },
-    {
-      "added_at": "2023-11-24 08:55:44",
-      "album": {
-        "name": "valami amerikai",
-        "url": "https://open.spotify.com/album/1bP0ww7Dq2vnYkzryXtet8"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 220227,
-      "name": "valami amerikai",
-      "url": "https://open.spotify.com/track/4MQDC8hquSlvTBq8gMoPPo"
-    },
-    {
-      "added_at": "2023-11-24 08:55:44",
-      "album": {
-        "name": "PLAYB\u00c1NIA",
-        "url": "https://open.spotify.com/album/5xMzTHcRiGKdBhGj8PjV4h"
-      },
-      "artists": [
-        {
-          "name": "Beton.Hofi",
-          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
-        },
-        {
-          "name": "Hundred Sins",
-          "url": "https://open.spotify.com/artist/1hvixOq3kh8xqWm5ytcK28"
-        }
-      ],
-      "duration_ms": 124273,
-      "name": "BAGIRA",
-      "url": "https://open.spotify.com/track/18DVypBkvcJtVFzQr5Ly7J"
-    },
-    {
-      "added_at": "2023-11-24 08:55:44",
-      "album": {
-        "name": "silbak",
-        "url": "https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 203529,
-      "name": "four moods",
-      "url": "https://open.spotify.com/track/1o0TkBcMTkkOg1KUeB4riK"
-    },
-    {
-      "added_at": "2023-11-24 08:55:44",
-      "album": {
-        "name": "DESHPERADO",
-        "url": "https://open.spotify.com/album/1hbbYNHuiBJ77XlDvk4Syy"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        },
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 140480,
-      "name": "Papa",
-      "url": "https://open.spotify.com/track/3XKdJfbBwnxUnn5tdaJoYL"
-    },
-    {
-      "added_at": "2023-11-24 08:55:44",
+      "added_at": "2023-11-25 08:26:13",
       "album": {
         "name": "Rollin'",
         "url": "https://open.spotify.com/album/1MiseUuQlh2ktcmD3FonJo"
@@ -485,7 +381,95 @@
       "url": "https://open.spotify.com/track/6eaaIxWaso3ooRdPDS5PuN"
     },
     {
-      "added_at": "2023-11-24 08:55:44",
+      "added_at": "2023-11-25 08:26:13",
+      "album": {
+        "name": "A b\u00fas barista ballad\u00e1i",
+        "url": "https://open.spotify.com/album/4TGu3sVQHkz67nUz1GWueo"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "duration_ms": 161413,
+      "name": "How we do",
+      "url": "https://open.spotify.com/track/71gCKC1ao9dnWS1r6EHFUa"
+    },
+    {
+      "added_at": "2023-11-25 08:26:13",
+      "album": {
+        "name": "PLAYB\u00c1NIA",
+        "url": "https://open.spotify.com/album/5xMzTHcRiGKdBhGj8PjV4h"
+      },
+      "artists": [
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        },
+        {
+          "name": "Hundred Sins",
+          "url": "https://open.spotify.com/artist/1hvixOq3kh8xqWm5ytcK28"
+        }
+      ],
+      "duration_ms": 124273,
+      "name": "BAGIRA",
+      "url": "https://open.spotify.com/track/18DVypBkvcJtVFzQr5Ly7J"
+    },
+    {
+      "added_at": "2023-11-25 08:26:13",
+      "album": {
+        "name": "silbak",
+        "url": "https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 203529,
+      "name": "four moods",
+      "url": "https://open.spotify.com/track/1o0TkBcMTkkOg1KUeB4riK"
+    },
+    {
+      "added_at": "2023-11-25 08:26:13",
+      "album": {
+        "name": "DESHPERADO",
+        "url": "https://open.spotify.com/album/1hbbYNHuiBJ77XlDvk4Syy"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        },
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 140480,
+      "name": "Papa",
+      "url": "https://open.spotify.com/track/3XKdJfbBwnxUnn5tdaJoYL"
+    },
+    {
+      "added_at": "2023-11-25 08:26:13",
+      "album": {
+        "name": "valami amerikai",
+        "url": "https://open.spotify.com/album/1bP0ww7Dq2vnYkzryXtet8"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 220227,
+      "name": "valami amerikai",
+      "url": "https://open.spotify.com/track/4MQDC8hquSlvTBq8gMoPPo"
+    },
+    {
+      "added_at": "2023-11-25 08:26:13",
       "album": {
         "name": "V\u00e1rn\u00e9k",
         "url": "https://open.spotify.com/album/6uN19L2UQe36sMy9jI0VC1"
@@ -505,39 +489,23 @@
       "url": "https://open.spotify.com/track/0nQuoTxzDIVoWzaTgF5xtW"
     },
     {
-      "added_at": "2023-11-24 08:55:44",
+      "added_at": "2023-11-25 08:26:13",
       "album": {
-        "name": "III. Kr\u00fabi",
-        "url": "https://open.spotify.com/album/6ugdjOOBMHmr14VPGFEPJq"
+        "name": "A b\u00fas barista ballad\u00e1i",
+        "url": "https://open.spotify.com/album/4TGu3sVQHkz67nUz1GWueo"
       },
       "artists": [
         {
-          "name": "Kr\u00fabi",
-          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
         }
       ],
-      "duration_ms": 375853,
-      "name": "Szex Kr\u00fabival",
-      "url": "https://open.spotify.com/track/2rE8Typld9kgObCRZxE2BS"
+      "duration_ms": 150333,
+      "name": "Elaludni",
+      "url": "https://open.spotify.com/track/2GNCDexNq9O4PLH0Mubdv9"
     },
     {
-      "added_at": "2023-11-24 08:55:44",
-      "album": {
-        "name": "silbak",
-        "url": "https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 164290,
-      "name": "figyelj",
-      "url": "https://open.spotify.com/track/1tAyEL10PQDcIvEL2o75wt"
-    },
-    {
-      "added_at": "2023-11-24 08:55:44",
+      "added_at": "2023-11-25 08:26:13",
       "album": {
         "name": "\u00d6rd\u00f6g N\u00f3rika",
         "url": "https://open.spotify.com/album/1JaFdpKwzHa9KdPdqQ98Yw"
@@ -553,7 +521,7 @@
       "url": "https://open.spotify.com/track/0NECD9bmlKlhxuZHQ5sq7J"
     },
     {
-      "added_at": "2023-11-24 08:55:44",
+      "added_at": "2023-11-25 08:26:13",
       "album": {
         "name": "III. Kr\u00fabi",
         "url": "https://open.spotify.com/album/6ugdjOOBMHmr14VPGFEPJq"
@@ -569,7 +537,7 @@
       "url": "https://open.spotify.com/track/1FjhV0AkAST45DpO7kHuBB"
     },
     {
-      "added_at": "2023-11-24 08:55:44",
+      "added_at": "2023-11-25 08:26:13",
       "album": {
         "name": "memento",
         "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
@@ -585,39 +553,63 @@
       "url": "https://open.spotify.com/track/3UlXaigjBM3sHyOpDbh1RI"
     },
     {
-      "added_at": "2023-11-24 08:55:44",
+      "added_at": "2023-11-25 08:26:13",
       "album": {
-        "name": "III. Kr\u00fabi",
-        "url": "https://open.spotify.com/album/6ugdjOOBMHmr14VPGFEPJq"
+        "name": "A l\u00f3 t\u00faloldal\u00e1n",
+        "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
       },
       "artists": [
         {
-          "name": "Kr\u00fabi",
-          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        },
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
         }
       ],
-      "duration_ms": 309533,
-      "name": "A Bab\u00e1m Zokog Az \u00c1gyon",
-      "url": "https://open.spotify.com/track/6H9JIiYG6WutRc5fGRyesK"
+      "duration_ms": 193542,
+      "name": "Miafasz",
+      "url": "https://open.spotify.com/track/7cU3vDXfkH4bAemYBxuoJT"
     },
     {
-      "added_at": "2023-11-24 08:55:44",
+      "added_at": "2023-11-25 08:26:13",
       "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
+        "name": "silbak",
+        "url": "https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ"
       },
       "artists": [
         {
-          "name": "Kenya Grace",
-          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
         }
       ],
-      "duration_ms": 172964,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
+      "duration_ms": 164290,
+      "name": "figyelj",
+      "url": "https://open.spotify.com/track/1tAyEL10PQDcIvEL2o75wt"
     },
     {
-      "added_at": "2023-11-24 08:55:44",
+      "added_at": "2023-11-25 08:26:13",
+      "album": {
+        "name": "R\u00e9t",
+        "url": "https://open.spotify.com/album/4QTBjYfiHEcmUrX0PkKIlt"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        },
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "duration_ms": 179234,
+      "name": "R\u00e9t",
+      "url": "https://open.spotify.com/track/5pYNDOTIoZZ5ab77vb8EO3"
+    },
+    {
+      "added_at": "2023-11-25 08:26:13",
       "album": {
         "name": "CARPE DIEM",
         "url": "https://open.spotify.com/album/68gj4MmytrI8exdgfjhWzb"
@@ -641,27 +633,23 @@
       "url": "https://open.spotify.com/track/5SDMdbd64hSpeg1OTCUy7L"
     },
     {
-      "added_at": "2023-11-24 08:55:44",
+      "added_at": "2023-11-25 08:26:13",
       "album": {
-        "name": "A l\u00f3 t\u00faloldal\u00e1n",
-        "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
+        "name": "III. Kr\u00fabi",
+        "url": "https://open.spotify.com/album/6ugdjOOBMHmr14VPGFEPJq"
       },
       "artists": [
         {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        },
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+          "name": "Kr\u00fabi",
+          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
         }
       ],
-      "duration_ms": 193542,
-      "name": "Miafasz",
-      "url": "https://open.spotify.com/track/7cU3vDXfkH4bAemYBxuoJT"
+      "duration_ms": 309533,
+      "name": "A Bab\u00e1m Zokog Az \u00c1gyon",
+      "url": "https://open.spotify.com/track/6H9JIiYG6WutRc5fGRyesK"
     },
     {
-      "added_at": "2023-11-24 08:55:44",
+      "added_at": "2023-11-25 08:26:13",
       "album": {
         "name": "Meg\u00e1ll Az Id\u0151",
         "url": "https://open.spotify.com/album/2bVvBJGAS9pPUrF6h6Geoc"
@@ -681,7 +669,23 @@
       "url": "https://open.spotify.com/track/37GSp3Uj1DKHUrhv6EtYN8"
     },
     {
-      "added_at": "2023-11-24 08:55:44",
+      "added_at": "2023-11-25 08:26:13",
+      "album": {
+        "name": "III. Kr\u00fabi",
+        "url": "https://open.spotify.com/album/6ugdjOOBMHmr14VPGFEPJq"
+      },
+      "artists": [
+        {
+          "name": "Kr\u00fabi",
+          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
+        }
+      ],
+      "duration_ms": 375853,
+      "name": "Szex Kr\u00fabival",
+      "url": "https://open.spotify.com/track/2rE8Typld9kgObCRZxE2BS"
+    },
+    {
+      "added_at": "2023-11-25 08:26:13",
       "album": {
         "name": "Si No Est\u00e1s",
         "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
@@ -697,27 +701,23 @@
       "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
     },
     {
-      "added_at": "2023-11-24 08:55:44",
+      "added_at": "2023-11-25 08:26:13",
       "album": {
-        "name": "R\u00e9t",
-        "url": "https://open.spotify.com/album/4QTBjYfiHEcmUrX0PkKIlt"
+        "name": "Vois sur ton chemin (Techno Mix)",
+        "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
       },
       "artists": [
         {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        },
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
         }
       ],
-      "duration_ms": 179234,
-      "name": "R\u00e9t",
-      "url": "https://open.spotify.com/track/5pYNDOTIoZZ5ab77vb8EO3"
+      "duration_ms": 178156,
+      "name": "Vois sur ton chemin - Techno Mix",
+      "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
     },
     {
-      "added_at": "2023-11-24 08:55:44",
+      "added_at": "2023-11-25 08:26:13",
       "album": {
         "name": "A l\u00f3 t\u00faloldal\u00e1n",
         "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
@@ -737,91 +737,23 @@
       "url": "https://open.spotify.com/track/1K17dNOOtcoC1gLcAbccPp"
     },
     {
-      "added_at": "2023-11-24 08:55:44",
+      "added_at": "2023-11-25 08:26:13",
       "album": {
-        "name": "A l\u00f3 t\u00faloldal\u00e1n",
-        "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
       },
       "artists": [
         {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        },
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
         }
       ],
-      "duration_ms": 191538,
-      "name": "Mind1",
-      "url": "https://open.spotify.com/track/7lemjnVRAqQtqqLdSqCKqM"
+      "duration_ms": 172964,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
     },
     {
-      "added_at": "2023-11-24 08:55:44",
-      "album": {
-        "name": "III. Kr\u00fabi",
-        "url": "https://open.spotify.com/album/6ugdjOOBMHmr14VPGFEPJq"
-      },
-      "artists": [
-        {
-          "name": "Kr\u00fabi",
-          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
-        }
-      ],
-      "duration_ms": 267466,
-      "name": "A Tankcsapda Sem Hazudott Mindenben",
-      "url": "https://open.spotify.com/track/7ErnRlMPgfSXKnIw5vruZv"
-    },
-    {
-      "added_at": "2023-11-24 08:55:44",
-      "album": {
-        "name": "Vois sur ton chemin (Techno Mix)",
-        "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
-      },
-      "artists": [
-        {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
-        }
-      ],
-      "duration_ms": 178156,
-      "name": "Vois sur ton chemin - Techno Mix",
-      "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
-    },
-    {
-      "added_at": "2023-11-24 08:55:44",
-      "album": {
-        "name": "memento",
-        "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 189783,
-      "name": "g\u00e1t",
-      "url": "https://open.spotify.com/track/1Qzkw4QaTXbVd1TmDzSNOv"
-    },
-    {
-      "added_at": "2023-11-24 08:55:44",
-      "album": {
-        "name": "III. Kr\u00fabi",
-        "url": "https://open.spotify.com/album/6ugdjOOBMHmr14VPGFEPJq"
-      },
-      "artists": [
-        {
-          "name": "Kr\u00fabi",
-          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
-        }
-      ],
-      "duration_ms": 358007,
-      "name": "Partyz\u00e1n",
-      "url": "https://open.spotify.com/track/1hqs7GPk99VxcGFIhqjkrx"
-    },
-    {
-      "added_at": "2023-11-24 08:55:44",
+      "added_at": "2023-11-25 08:26:13",
       "album": {
         "name": "Focus",
         "url": "https://open.spotify.com/album/5U5KhcGgli7Y4aQySFG1Cd"
@@ -845,7 +777,111 @@
       "url": "https://open.spotify.com/track/5sybMF2Gbm98ociatHQFpT"
     },
     {
-      "added_at": "2023-11-24 08:55:44",
+      "added_at": "2023-11-25 08:26:13",
+      "album": {
+        "name": "A l\u00f3 t\u00faloldal\u00e1n",
+        "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        },
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "duration_ms": 191538,
+      "name": "Mind1",
+      "url": "https://open.spotify.com/track/7lemjnVRAqQtqqLdSqCKqM"
+    },
+    {
+      "added_at": "2023-11-25 08:26:13",
+      "album": {
+        "name": "III. Kr\u00fabi",
+        "url": "https://open.spotify.com/album/6ugdjOOBMHmr14VPGFEPJq"
+      },
+      "artists": [
+        {
+          "name": "Kr\u00fabi",
+          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
+        }
+      ],
+      "duration_ms": 358007,
+      "name": "Partyz\u00e1n",
+      "url": "https://open.spotify.com/track/1hqs7GPk99VxcGFIhqjkrx"
+    },
+    {
+      "added_at": "2023-11-25 08:26:13",
+      "album": {
+        "name": "memento",
+        "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 189783,
+      "name": "g\u00e1t",
+      "url": "https://open.spotify.com/track/1Qzkw4QaTXbVd1TmDzSNOv"
+    },
+    {
+      "added_at": "2023-11-25 08:26:13",
+      "album": {
+        "name": "MENTALITAT",
+        "url": "https://open.spotify.com/album/7jLv7WmSyuS3jVjTMg1H95"
+      },
+      "artists": [
+        {
+          "name": "LMEN PRALA",
+          "url": "https://open.spotify.com/artist/3IIFNhvPllMor8rcbecmSj"
+        }
+      ],
+      "duration_ms": 152619,
+      "name": "MENTALITAT",
+      "url": "https://open.spotify.com/track/3wQlR2WBPLoKAN6uZgRx54"
+    },
+    {
+      "added_at": "2023-11-25 08:26:13",
+      "album": {
+        "name": "Vill\u00e1m",
+        "url": "https://open.spotify.com/album/5nBEJhjzLkpzIl7kM1aRcn"
+      },
+      "artists": [
+        {
+          "name": "Mih\u00e1lyfi Luca",
+          "url": "https://open.spotify.com/artist/0D6r3l2qcIowUMJ2Odb9ot"
+        },
+        {
+          "name": "Ekhoe",
+          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Vill\u00e1m",
+      "url": "https://open.spotify.com/track/7AZobwHObSuZQDCGXWYuop"
+    },
+    {
+      "added_at": "2023-11-25 08:26:13",
+      "album": {
+        "name": "III. Kr\u00fabi",
+        "url": "https://open.spotify.com/album/6ugdjOOBMHmr14VPGFEPJq"
+      },
+      "artists": [
+        {
+          "name": "Kr\u00fabi",
+          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
+        }
+      ],
+      "duration_ms": 267466,
+      "name": "A Tankcsapda Sem Hazudott Mindenben",
+      "url": "https://open.spotify.com/track/7ErnRlMPgfSXKnIw5vruZv"
+    },
+    {
+      "added_at": "2023-11-25 08:26:13",
       "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/2m2Q2oEqlS8bEQ1XwTSGOd"
@@ -865,7 +901,7 @@
       "url": "https://open.spotify.com/track/7iyoi3UIxyjAykpdXxRzdo"
     },
     {
-      "added_at": "2023-11-24 08:55:44",
+      "added_at": "2023-11-25 08:26:13",
       "album": {
         "name": "Scarlet",
         "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
@@ -879,42 +915,6 @@
       "duration_ms": 230480,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
-    },
-    {
-      "added_at": "2023-11-24 08:55:44",
-      "album": {
-        "name": "MENTALITAT",
-        "url": "https://open.spotify.com/album/7jLv7WmSyuS3jVjTMg1H95"
-      },
-      "artists": [
-        {
-          "name": "LMEN PRALA",
-          "url": "https://open.spotify.com/artist/3IIFNhvPllMor8rcbecmSj"
-        }
-      ],
-      "duration_ms": 152619,
-      "name": "MENTALITAT",
-      "url": "https://open.spotify.com/track/3wQlR2WBPLoKAN6uZgRx54"
-    },
-    {
-      "added_at": "2023-11-24 08:55:44",
-      "album": {
-        "name": "Vill\u00e1m",
-        "url": "https://open.spotify.com/album/5nBEJhjzLkpzIl7kM1aRcn"
-      },
-      "artists": [
-        {
-          "name": "Mih\u00e1lyfi Luca",
-          "url": "https://open.spotify.com/artist/0D6r3l2qcIowUMJ2Odb9ot"
-        },
-        {
-          "name": "Ekhoe",
-          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Vill\u00e1m",
-      "url": "https://open.spotify.com/track/7AZobwHObSuZQDCGXWYuop"
     }
   ],
   "unique_name": "Top 50 - Hungary",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTplaZ1W7ARf.md) - [plain]
 
 > Neighborhood Storytellers\. Cover: Gunna
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,555 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,559 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTplaZ1W7ARf.md) - [plain]
 | 49 | [Hopeless Island](https://open.spotify.com/track/6c0KBEx6B7qQDx53Y0FlQx) | [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF) | [Hopeless Island](https://open.spotify.com/album/4EFEB8u3JIaK4wy4NEHcdR) | 2:29 |
 | 50 | [go crazy](https://open.spotify.com/track/6YD8EpsddOfEwAhaymGu0Q) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:53 |
 
-Snapshot ID: `MCxhN2I3ZjkwMzQ3OWNkNDNkMDM5MjZiNTUyNzVmMDQ3ZjYxNjNmNjBj`
+Snapshot ID: `MCw2ODdjMDI3YmM3OWRjZjk5OGU1M2YxNmYwZTgxMzQ0YWZjYmViOWNi`

@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "48 Hours",
+        "url": "https://open.spotify.com/album/7B8hgK92g5E2WnKkKjEzRp"
+      },
+      "artists": [
+        {
+          "name": "Ryder",
+          "url": "https://open.spotify.com/artist/2Lr6UcfZWL1Ur5spOaduOb"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114347,
+      "name": "#skeptacore pt.2",
+      "url": "https://open.spotify.com/track/6lxvXGjMJJzyivD78dfOD4"
+    },
+    {
+      "album": {
         "name": "100 Racks",
         "url": "https://open.spotify.com/album/1ERuzYG4EGlSKY4VYz85Hv"
       },
@@ -1058,7 +1080,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 165428,
       "name": "Country Bars",
       "url": "https://open.spotify.com/track/6Ili2nj6S2wqkVka77EiLU"
@@ -1156,6 +1178,32 @@
       "duration_ms": 156000,
       "name": "DFKM",
       "url": "https://open.spotify.com/track/1uCyxo7OivhyURv4SvsxZE"
+    },
+    {
+      "album": {
+        "name": "DIY",
+        "url": "https://open.spotify.com/album/7CURbqdBFzwEBVN6Hk8h6F"
+      },
+      "artists": [
+        {
+          "name": "Coki",
+          "url": "https://open.spotify.com/artist/4WvwRJA3YhUn5J2caHXoAG"
+        },
+        {
+          "name": "Leotrix",
+          "url": "https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "DIY - Dubstep Mix",
+      "url": "https://open.spotify.com/track/0t8dxQHa6hl2k2vPVaftmF"
     },
     {
       "album": {
@@ -2944,7 +2992,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-26",
       "duration_ms": 171188,
       "name": "Playing for Keeps",
       "url": "https://open.spotify.com/track/5fwAvoUE4Xv5hmSzXrJLyu"

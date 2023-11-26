@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Roberto<br/>Fonseca
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,349 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,424 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [I Might Never See You Again](https://open.spotify.com/track/2ERNVROnqMvIdWTVT8bkim) | [Charley Rose Trio](https://open.spotify.com/artist/5VW8lQtZn9995Dbtf7FSRL), [Enzo Carniel](https://open.spotify.com/artist/2g4MfwXbDBoVoyeE54DIEk), [Ariel Tessier](https://open.spotify.com/artist/7y16hI4NEVEspAqNm7nG5H) | [Dada Pulp](https://open.spotify.com/album/020HlvI3o3TYr0fTMysQ7m) | 6:24 |
 | 50 | [A Night To Remember](https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Night To Remember](https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe) | 3:53 |
 
-Snapshot ID: `MCxlNTZlODEzYTUzMGUwMjFjMmQ3ZDhkOTg4MTIzZDQ1OGUxNTJlZmYy`
+Snapshot ID: `MCwzZGU2ZDcxNzE3ZThmYWQyYTcwNjE2YzBhYzdlYmZhODExZjUxY2Uz`
