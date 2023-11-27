@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 56624,
+  "num_followers": 56732,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDkzNmYyN2Y4MTVhMGJkYjc2NjMxNTViOTdmZWJjMGQ0ZDc1MjA4",
+  "snapshot_id": "MCxiMjc2MTFkODZmODIwZjAyY2VmM2M3OGRlNzJhZGRhMWY3NjVjNjdl",
   "tracks": [
     {
       "added_at": "2023-09-18 17:33:17",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-09-18 17:33:17",
       "album": {
-        "name": "Back To Back",
-        "url": "https://open.spotify.com/album/4d4Z42kZJMcrmYlZ7I19rn"
-      },
-      "artists": [
-        {
-          "name": "Alicia Myers",
-          "url": "https://open.spotify.com/artist/7v4FV3DzSUOvaZyMwTxKIG"
-        }
-      ],
-      "duration_ms": 229626,
-      "name": "I Want To Thank You",
-      "url": "https://open.spotify.com/track/6ODAghAlMTyu9fWa2CNKmf"
-    },
-    {
-      "added_at": "2023-09-18 17:33:17",
-      "album": {
         "name": "The Boss (Expanded Edition)",
         "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 274560,
       "name": "It's My House",
       "url": "https://open.spotify.com/track/7yAslROTLRHGwuiLBpdErT"
+    },
+    {
+      "added_at": "2023-09-18 17:33:17",
+      "album": {
+        "name": "Back To Back",
+        "url": "https://open.spotify.com/album/4d4Z42kZJMcrmYlZ7I19rn"
+      },
+      "artists": [
+        {
+          "name": "Alicia Myers",
+          "url": "https://open.spotify.com/artist/7v4FV3DzSUOvaZyMwTxKIG"
+        }
+      ],
+      "duration_ms": 229626,
+      "name": "I Want To Thank You",
+      "url": "https://open.spotify.com/track/6ODAghAlMTyu9fWa2CNKmf"
     },
     {
       "added_at": "2023-09-18 17:33:17",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-09-18 17:33:17",
       "album": {
+        "name": "The Boss (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 241333,
+      "name": "The Boss",
+      "url": "https://open.spotify.com/track/5kfQK1Vb1mKSwzVn32Tarj"
+    },
+    {
+      "added_at": "2023-09-18 17:33:17",
+      "album": {
         "name": "Off the Wall",
         "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 241000,
       "name": "I'm So Glad That I'm a Woman",
       "url": "https://open.spotify.com/track/2jQhMqaTes0RCSVECpGCUD"
-    },
-    {
-      "added_at": "2023-09-18 17:33:17",
-      "album": {
-        "name": "The Boss (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 241333,
-      "name": "The Boss",
-      "url": "https://open.spotify.com/track/5kfQK1Vb1mKSwzVn32Tarj"
     },
     {
       "added_at": "2023-09-18 17:33:17",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-09-18 17:33:17",
       "album": {
-        "name": "Come to Me",
-        "url": "https://open.spotify.com/album/36xBZHKGsbSbWNZkSy6TH1"
-      },
-      "artists": [
-        {
-          "name": "France Joli",
-          "url": "https://open.spotify.com/artist/10yNnmMFF3U0MW7oeG3bFr"
-        }
-      ],
-      "duration_ms": 590986,
-      "name": "Come to Me",
-      "url": "https://open.spotify.com/track/5wmVHVCMNO6TfCBcXU0cCk"
-    },
-    {
-      "added_at": "2023-09-18 17:33:17",
-      "album": {
         "name": "Keep On Jumpin'",
         "url": "https://open.spotify.com/album/5gQh0forPeR556hKjhEdXW"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 339946,
       "name": "Keep On Jumpin'",
       "url": "https://open.spotify.com/track/6J9rBgsm9USju9PkLf2exF"
+    },
+    {
+      "added_at": "2023-09-18 17:33:17",
+      "album": {
+        "name": "Come to Me",
+        "url": "https://open.spotify.com/album/36xBZHKGsbSbWNZkSy6TH1"
+      },
+      "artists": [
+        {
+          "name": "France Joli",
+          "url": "https://open.spotify.com/artist/10yNnmMFF3U0MW7oeG3bFr"
+        }
+      ],
+      "duration_ms": 590986,
+      "name": "Come to Me",
+      "url": "https://open.spotify.com/track/5wmVHVCMNO6TfCBcXU0cCk"
     },
     {
       "added_at": "2023-09-18 17:33:17",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-09-18 17:33:17",
       "album": {
-        "name": "The Boss (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 280733,
-      "name": "No One Gets The Prize",
-      "url": "https://open.spotify.com/track/3z8EX1QoPW20ME8IueIADZ"
-    },
-    {
-      "added_at": "2023-09-18 17:33:17",
-      "album": {
         "name": "Inner Life",
         "url": "https://open.spotify.com/album/2DqaJOmf1G5MxRPSRonwlB"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 479573,
       "name": "Ain't No Mountain High Enough",
       "url": "https://open.spotify.com/track/06xAJjt8HY09e14cLmBmgP"
+    },
+    {
+      "added_at": "2023-09-18 17:33:17",
+      "album": {
+        "name": "The Boss (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 280733,
+      "name": "No One Gets The Prize",
+      "url": "https://open.spotify.com/track/3z8EX1QoPW20ME8IueIADZ"
     },
     {
       "added_at": "2023-09-18 17:33:17",

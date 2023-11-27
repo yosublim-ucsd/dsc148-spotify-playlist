@@ -755,6 +755,24 @@
     },
     {
       "album": {
+        "name": "Chopin +",
+        "url": "https://open.spotify.com/album/5Kh9ZZuFyKZ5gC4vRwyyLg"
+      },
+      "artists": [
+        {
+          "name": "Martin Stadtfeld",
+          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73573,
+      "name": "Improvisation 7",
+      "url": "https://open.spotify.com/track/0MCv1ES2lNZfmHYvIz6q1f"
+    },
+    {
+      "album": {
         "name": "Interconnectivity",
         "url": "https://open.spotify.com/album/2H9GYEUqMHM950rBnSgZkY"
       },
@@ -1700,7 +1718,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-27",
       "duration_ms": 169500,
       "name": "Valerian",
       "url": "https://open.spotify.com/track/1Hwlo5bLrQ4Xppr7UuSL4I"

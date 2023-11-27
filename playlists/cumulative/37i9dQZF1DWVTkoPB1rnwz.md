@@ -4,7 +4,7 @@
 
 > Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.
 
-335 songs - 19 hr 19 min
+336 songs - 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Awakening](https://open.spotify.com/track/0iqTeRwJinozkLa4PzNYQ4) | [INFINITY](https://open.spotify.com/artist/12pPh6VvLwN3gbBl1LXMPg) | [Breath](https://open.spotify.com/album/4C2zeEXXBDgrV95B7UQEmZ) | 10:44 | 2021-10-16 | 2022-07-29 |
 | [Backward in Time](https://open.spotify.com/track/7kdovDmmXhH6LF2lqFwwiS) | [ANDYL](https://open.spotify.com/artist/5WKziRzYO7w5akjuzcCr80) | [Backward in Time](https://open.spotify.com/album/4zDBM1jVCNXIQWuwNOaoEe) | 3:16 | 2021-10-16 | 2022-07-27 |
 | [BAGELS](https://open.spotify.com/track/5R4tnsOeQ3vkfOwrbEHqDY) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [BAGELS](https://open.spotify.com/album/4G0CGg9PpmfsyyyX6dHmOy) | 4:12 | 2023-05-25 |  |
+| [Balsamo](https://open.spotify.com/track/0nNFSkoWNaqYKTVx5V4AjE) | [Slowdonia](https://open.spotify.com/artist/5YItXypIuZXhnxRE7MRePn) | [Slowdonia EP](https://open.spotify.com/album/5umKaMh59FuSvZi2FFtK4s) | 4:25 | 2021-10-16 |  |
 | [Bamboo](https://open.spotify.com/track/1TmpEkWx1wOEsSmnh3XKcY) | [popadiclo](https://open.spotify.com/artist/0AV4dakwcbV6LhxlImHp7v) | [Bamboo](https://open.spotify.com/album/1GceOSBFDvQROmqSKvQTf9) | 2:24 | 2022-02-14 | 2022-09-03 |
 | [Bamboo](https://open.spotify.com/track/4G9zWkdcUUKdyClixTdQML) | [Tiny Bonsai](https://open.spotify.com/artist/66l97lF8upSBEAb9deRhO5), [Bagira](https://open.spotify.com/artist/1SscozEVDjQtVcYJ4e07fE) | [Fading Colors](https://open.spotify.com/album/2zePDYWSWucFFHSewmjGci) | 2:06 | 2021-10-16 | 2022-07-29 |
 | [Bass.int](https://open.spotify.com/track/0Ko1ghxZLP7NuVWqgqgB4R) | [Daniel Aged](https://open.spotify.com/artist/4n48lhgTy7X3jjsPKc9ErH) | [Daniel Aged](https://open.spotify.com/album/285CZ1A51XV5i3UDNV4W7l) | 1:37 | 2021-10-16 | 2022-07-29 |
@@ -331,7 +332,7 @@
 | [wading through the wetlands](https://open.spotify.com/track/70s82y5YSYOsLhlQnZNh1E) | [santpoort](https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ) | [mudflat hikers](https://open.spotify.com/album/5unmEFWv7YiVMV39friIJY) | 2:44 | 2021-10-16 | 2022-07-28 |
 | [Waiting for You](https://open.spotify.com/track/6zfJirLNG7uyh9R3k1NKOF) | [Beatsloth](https://open.spotify.com/artist/2mNGmwkYJOW9hqFf3BJRQn) | [Waiting for You](https://open.spotify.com/album/11jtUQ6GkxorADe9g3c5hM) | 2:00 | 2022-11-18 | 2022-12-30 |
 | [We](https://open.spotify.com/track/22SzEhlJaen0MCdlOJ2aLe) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [The Sky Sings Its Chorus \(For Us Alone\) \[Pt .1\]](https://open.spotify.com/album/4FQr3OeU7tQKO8h1g8QiI2) | 2:35 | 2021-10-16 | 2022-07-29 |
-| [We](https://open.spotify.com/track/5tMwIq5wvUARN4NOuB2XLW) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [For Us Alone](https://open.spotify.com/album/5qLvjzYlOPBWcoGXH7bUSo) | 2:35 | 2021-10-16 |  |
+| [We](https://open.spotify.com/track/5tMwIq5wvUARN4NOuB2XLW) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [For Us Alone](https://open.spotify.com/album/5qLvjzYlOPBWcoGXH7bUSo) | 2:35 | 2021-10-16 | 2023-11-27 |
 | [when the leaves come falling down](https://open.spotify.com/track/1wtrm5eTeRfEXyJNF4Low1) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [her](https://open.spotify.com/album/1vRcYipEq8fJeeHGldHiFa) | 2:01 | 2021-10-16 |  |
 | [When You Wish \(Cuando Sueñas\) \- Piano](https://open.spotify.com/track/49A3qwVyoYJ8poNAcXv7d6) | [Sueñito](https://open.spotify.com/artist/3ScsUDOUKuTIV8rbrYWVzK) | [When You Wish \(Cuando Sueñas\) \[Piano\]](https://open.spotify.com/album/5lqIIW91kAc40scIEJbz6u) | 3:29 | 2023-02-27 | 2023-05-17 |
 | [While We Wait](https://open.spotify.com/track/61YkyQUuii0m5rHxcD1ntq) | [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu) | [Family](https://open.spotify.com/album/10WiPwjWxFLLYMhcj8E9BC) | 2:06 | 2021-10-16 | 2022-07-28 |

@@ -6,13 +6,13 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgzNDY3MDAsMDAwMDAwMDA5N2I4ZDU5ODBjNjE5YmU4MDFkMmM5ZDFkMzViY2I5NA==",
+  "snapshot_id": "MjgzNDY3MDAsMDAwMDAwMDBmZWYxYWYzMDA1ZTViODkyMGY2OTQ0NDIzY2I4Mzg1MQ==",
   "tracks": [
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "Vultures",
-        "url": "https://open.spotify.com/album/2mT5CGX436a2WbCUMuR20Y"
+        "url": "https://open.spotify.com/album/4BdfszFenZ1eMrISGvourZ"
       },
       "artists": [
         {
@@ -30,15 +30,11 @@
         {
           "name": "Bump J",
           "url": "https://open.spotify.com/artist/3L6bhGrHegoci41Jx2nP0V"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 276986,
+      "duration_ms": 237534,
       "name": "Vultures",
-      "url": "https://open.spotify.com/track/4fFHFp2cadSc397kr5wPbx"
+      "url": "https://open.spotify.com/track/21vc2kQZMS00cAyNT82a1M"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -83,6 +79,26 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Pretty Stoney",
+        "url": "https://open.spotify.com/album/4DpbeBjmxEJszqBJmK1GIw"
+      },
+      "artists": [
+        {
+          "name": "Sijel",
+          "url": "https://open.spotify.com/artist/2owDDwI3LSx8WXRGZ11Z1p"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "duration_ms": 171997,
+      "name": "Pretty Stoney",
+      "url": "https://open.spotify.com/track/1fqlgNEkHwRVYq2Cp3Aztz"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "GMoB WU-TANG",
         "url": "https://open.spotify.com/album/6G1fbpzorFhzRST5RAWJ1S"
       },
@@ -103,34 +119,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Move Back",
-        "url": "https://open.spotify.com/album/33XU3kcn2gOVArQeSzyrya"
-      },
-      "artists": [
-        {
-          "name": "Shortop",
-          "url": "https://open.spotify.com/artist/6eGTfjbspn52wvzNPC6Qz0"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        },
-        {
-          "name": "Masta Killa",
-          "url": "https://open.spotify.com/artist/0ME1RawvWt3qOJnYnxVqeh"
-        }
-      ],
-      "duration_ms": 353988,
-      "name": "Move Back",
-      "url": "https://open.spotify.com/track/5Kmp5d431tp4BBbqS6CfEi"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Mountain",
         "url": "https://open.spotify.com/album/1XIcWiEIOGBtUL4xFEAEXn"
       },
@@ -143,26 +131,6 @@
       "duration_ms": 189125,
       "name": "Mountain",
       "url": "https://open.spotify.com/track/7L1JjNUP8IQccGcr6PtaXQ"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Little Bit Yours",
-        "url": "https://open.spotify.com/album/1AAnGhmJLEL4usZgEyIS97"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "Hannah Boleyn",
-          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
-        }
-      ],
-      "duration_ms": 196092,
-      "name": "Little Bit Yours",
-      "url": "https://open.spotify.com/track/0LOjVJaTDqXyu37cjUYpT2"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -183,6 +151,26 @@
       "duration_ms": 243923,
       "name": "God Rest",
       "url": "https://open.spotify.com/track/5lfsM4DovGXNktCYi1e5pM"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Little Bit Yours",
+        "url": "https://open.spotify.com/album/1AAnGhmJLEL4usZgEyIS97"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "Hannah Boleyn",
+          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
+        }
+      ],
+      "duration_ms": 196092,
+      "name": "Little Bit Yours",
+      "url": "https://open.spotify.com/track/0LOjVJaTDqXyu37cjUYpT2"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -343,6 +331,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Rockin' Around the Christmas Tree",
+        "url": "https://open.spotify.com/album/2NI06JGd3C4GHOeM55FXxU"
+      },
+      "artists": [
+        {
+          "name": "Elly Cooke",
+          "url": "https://open.spotify.com/artist/5DqNmryn6SyOwDjfSbwOGe"
+        }
+      ],
+      "duration_ms": 132464,
+      "name": "Rockin' Around the Christmas Tree",
+      "url": "https://open.spotify.com/track/030heL91n8NNvUHZGmAAZy"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Won\u2019t Give Up",
         "url": "https://open.spotify.com/album/1mbW7KLqK1KYVVhUHerePT"
       },
@@ -363,22 +367,6 @@
       "duration_ms": 251913,
       "name": "Won\u2019t Give Up",
       "url": "https://open.spotify.com/track/7iTqDHIAOL0n9wvwGdcTvZ"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Rockin' Around the Christmas Tree",
-        "url": "https://open.spotify.com/album/2NI06JGd3C4GHOeM55FXxU"
-      },
-      "artists": [
-        {
-          "name": "Elly Cooke",
-          "url": "https://open.spotify.com/artist/5DqNmryn6SyOwDjfSbwOGe"
-        }
-      ],
-      "duration_ms": 132464,
-      "name": "Rockin' Around the Christmas Tree",
-      "url": "https://open.spotify.com/track/030heL91n8NNvUHZGmAAZy"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -451,22 +439,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Live In Helsinki St. John's Church",
-        "url": "https://open.spotify.com/album/3mlEZOZcTZ6NY0jfFg1EaQ"
-      },
-      "artists": [
-        {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
-        }
-      ],
-      "duration_ms": 235640,
-      "name": "Bittersweet - Live In Helsinki St. John's Church",
-      "url": "https://open.spotify.com/track/0GSBDca01R6z6fUIBDajgn"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Up on the Housetop",
         "url": "https://open.spotify.com/album/1X9qEFsBIondSzwmT2yPWn"
       },
@@ -479,6 +451,22 @@
       "duration_ms": 170300,
       "name": "Up on the Housetop",
       "url": "https://open.spotify.com/track/1z5GlN4nJElIMEBaiy9FyY"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Live In Helsinki St. John's Church",
+        "url": "https://open.spotify.com/album/3mlEZOZcTZ6NY0jfFg1EaQ"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        }
+      ],
+      "duration_ms": 235640,
+      "name": "Bittersweet - Live In Helsinki St. John's Church",
+      "url": "https://open.spotify.com/track/0GSBDca01R6z6fUIBDajgn"
     },
     {
       "added_at": "2023-11-24 05:00:00",

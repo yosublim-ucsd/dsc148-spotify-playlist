@@ -1,12 +1,12 @@
 {
   "description": "hariel o maior que n\u00f3s temos rel\u00edquia da filosofia",
-  "num_followers": 1288222,
+  "num_followers": 1288748,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDdmYWExYWIwODM1MjYwYjhiMGVjNzk0YzkxNzVlODg2NWI0YWI4",
+  "snapshot_id": "MCxjMzY2NzRhMTFiZjM2Mzc5M2Q2NWIyZGMxZTYxNTU1YzNhYjg3MmFh",
   "tracks": [
     {
       "added_at": "2023-11-24 11:01:11",
@@ -1055,6 +1055,26 @@
     {
       "added_at": "2023-11-24 11:01:11",
       "album": {
+        "name": "A Moda Antiga",
+        "url": "https://open.spotify.com/album/5FEknIpgVG1BDUdR7oZwgA"
+      },
+      "artists": [
+        {
+          "name": "Mc Kelvinho",
+          "url": "https://open.spotify.com/artist/1S4ASTDQvMwm6jP95pIsYB"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        }
+      ],
+      "duration_ms": 203636,
+      "name": "O 7 Patrocina",
+      "url": "https://open.spotify.com/track/5aDlgmz3RSR2FP5SqZuuzs"
+    },
+    {
+      "added_at": "2023-11-24 11:01:11",
+      "album": {
         "name": "Sereia",
         "url": "https://open.spotify.com/album/56nuoKYRrbcBq73wUuSEyI"
       },
@@ -1091,26 +1111,6 @@
       "duration_ms": 294418,
       "name": "Sereia",
       "url": "https://open.spotify.com/track/77UrDaIQq6JZIJWeLgJaRf"
-    },
-    {
-      "added_at": "2023-11-24 11:01:11",
-      "album": {
-        "name": "A Moda Antiga",
-        "url": "https://open.spotify.com/album/5FEknIpgVG1BDUdR7oZwgA"
-      },
-      "artists": [
-        {
-          "name": "Mc Kelvinho",
-          "url": "https://open.spotify.com/artist/1S4ASTDQvMwm6jP95pIsYB"
-        },
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        }
-      ],
-      "duration_ms": 203636,
-      "name": "O 7 Patrocina",
-      "url": "https://open.spotify.com/track/5aDlgmz3RSR2FP5SqZuuzs"
     },
     {
       "added_at": "2023-11-24 11:01:11",
@@ -1247,6 +1247,30 @@
     {
       "added_at": "2023-11-24 11:01:11",
       "album": {
+        "name": "Para de Mentir",
+        "url": "https://open.spotify.com/album/0nMw6EngQqlOJXLxt53jpQ"
+      },
+      "artists": [
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        }
+      ],
+      "duration_ms": 254142,
+      "name": "Para de Mentir",
+      "url": "https://open.spotify.com/track/1bjvTcHiftBtqeK6Y2Mh8H"
+    },
+    {
+      "added_at": "2023-11-24 11:01:11",
+      "album": {
         "name": "Ascens\u00e3o do Cisne Negro",
         "url": "https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ"
       },
@@ -1303,30 +1327,6 @@
       "duration_ms": 228571,
       "name": "Mal Intencionada (J\u00e1 Foi, J\u00e1 Era)",
       "url": "https://open.spotify.com/track/4TvKjqrk0Hp6k0vsbxyXjK"
-    },
-    {
-      "added_at": "2023-11-24 11:01:11",
-      "album": {
-        "name": "Para de Mentir",
-        "url": "https://open.spotify.com/album/0nMw6EngQqlOJXLxt53jpQ"
-      },
-      "artists": [
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        },
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        }
-      ],
-      "duration_ms": 254142,
-      "name": "Para de Mentir",
-      "url": "https://open.spotify.com/track/1bjvTcHiftBtqeK6Y2Mh8H"
     },
     {
       "added_at": "2023-11-24 11:01:11",

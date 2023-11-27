@@ -1,12 +1,12 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise.",
-  "num_followers": 67931,
+  "num_followers": 68046,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMGM4NWE1ZmFmZmVhODIzZmVmNWQ2NmFlY2RmMGU2NzI3YzhlOGRi",
+  "snapshot_id": "MCxhMWQ3NTUxYTBjZjQyMTlhNDY2NGU2NDEwMjEwOTQ2NTdkZmMwMzAz",
   "tracks": [
     {
       "added_at": "2023-08-24 12:53:30",
@@ -503,6 +503,22 @@
     {
       "added_at": "2023-08-24 12:53:30",
       "album": {
+        "name": "Superflu",
+        "url": "https://open.spotify.com/album/5bkQ6M2RXukXeF9NEHwgUY"
+      },
+      "artists": [
+        {
+          "name": "Pascal Obispo",
+          "url": "https://open.spotify.com/artist/6XPs6CAjfdxIFrVVUFRrAS"
+        }
+      ],
+      "duration_ms": 255573,
+      "name": "Lucie",
+      "url": "https://open.spotify.com/track/5lgjlZSujTErTw7FUoCxj9"
+    },
+    {
+      "added_at": "2023-08-24 12:53:30",
+      "album": {
         "name": "Secret",
         "url": "https://open.spotify.com/album/2uWPQsd3smibQTkgcjOUyw"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 213866,
       "name": "Ta main",
       "url": "https://open.spotify.com/track/7vPyLb2HzPaZxv1egWvWMo"
-    },
-    {
-      "added_at": "2023-08-24 12:53:30",
-      "album": {
-        "name": "Superflu",
-        "url": "https://open.spotify.com/album/5bkQ6M2RXukXeF9NEHwgUY"
-      },
-      "artists": [
-        {
-          "name": "Pascal Obispo",
-          "url": "https://open.spotify.com/artist/6XPs6CAjfdxIFrVVUFRrAS"
-        }
-      ],
-      "duration_ms": 255573,
-      "name": "Lucie",
-      "url": "https://open.spotify.com/track/5lgjlZSujTErTw7FUoCxj9"
     },
     {
       "added_at": "2023-08-24 12:53:30",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-08-24 12:53:30",
       "album": {
-        "name": "Brol La Suite",
-        "url": "https://open.spotify.com/album/2UrPmvaX5X76LIzE6Cfiqu"
-      },
-      "artists": [
-        {
-          "name": "Ang\u00e8le",
-          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
-        }
-      ],
-      "duration_ms": 271320,
-      "name": "Ta reine - Version orchestrale",
-      "url": "https://open.spotify.com/track/4hJljAGAHwfbeCx4y3UpgW"
-    },
-    {
-      "added_at": "2023-08-24 12:53:30",
-      "album": {
         "name": "Jamais Content",
         "url": "https://open.spotify.com/album/7fj2NNii1Wlw8loDuYg9Yw"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 211213,
       "name": "All\u00f4 maman bobo",
       "url": "https://open.spotify.com/track/6feRXBskplLVuNov74Rep3"
+    },
+    {
+      "added_at": "2023-08-24 12:53:30",
+      "album": {
+        "name": "Brol La Suite",
+        "url": "https://open.spotify.com/album/2UrPmvaX5X76LIzE6Cfiqu"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        }
+      ],
+      "duration_ms": 271320,
+      "name": "Ta reine - Version orchestrale",
+      "url": "https://open.spotify.com/track/4hJljAGAHwfbeCx4y3UpgW"
     },
     {
       "added_at": "2023-08-24 12:53:30",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-08-24 12:53:30",
       "album": {
-        "name": "Toujours des fleurs",
-        "url": "https://open.spotify.com/album/2bl3fqhASHS45oLpOD6Jiy"
-      },
-      "artists": [
-        {
-          "name": "Janie",
-          "url": "https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU"
-        }
-      ],
-      "duration_ms": 177491,
-      "name": "Discoth\u00e8que",
-      "url": "https://open.spotify.com/track/4GUN6kkkCz42FuoVubGjMq"
-    },
-    {
-      "added_at": "2023-08-24 12:53:30",
-      "album": {
         "name": "En passant",
         "url": "https://open.spotify.com/album/3Z4uAMHKOdut4Cvx9NemEs"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 265226,
       "name": "Quand tu danses",
       "url": "https://open.spotify.com/track/0NZTCM482lCDSDtvNgeeuz"
+    },
+    {
+      "added_at": "2023-08-24 12:53:30",
+      "album": {
+        "name": "Toujours des fleurs",
+        "url": "https://open.spotify.com/album/2bl3fqhASHS45oLpOD6Jiy"
+      },
+      "artists": [
+        {
+          "name": "Janie",
+          "url": "https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU"
+        }
+      ],
+      "duration_ms": 177491,
+      "name": "Discoth\u00e8que",
+      "url": "https://open.spotify.com/track/4GUN6kkkCz42FuoVubGjMq"
     },
     {
       "added_at": "2023-08-24 12:53:30",

@@ -4,7 +4,7 @@
 
 > Craving that crisp country air? These low\-key Country songs will take you there.
 
-110 songs - 6 hr 27 min
+111 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Every Beginning Ends](https://open.spotify.com/track/4iAjjXGCKNQCtFklN48w7n) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [The Hardest Part](https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3) | 2:30 | 2023-06-15 |  |
 | [Everything Falls for You](https://open.spotify.com/track/4KUTGzToT4a4Ktk9VTBTkH) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Everything Falls for You](https://open.spotify.com/album/24i3BA0medfiaWug4wLyWE) | 3:00 | 2023-06-15 | 2023-09-08 |
 | [Eye to eye](https://open.spotify.com/track/304fXSDwjqmBp9i7XDfYsO) | [Mason & Julez](https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB) | [Eye to eye](https://open.spotify.com/album/389ddGV4tjSkyukGCV8oqk) | 3:11 | 2023-06-15 |  |
-| [Find a River](https://open.spotify.com/track/1rA9rH9nBHIwjuF5MnWbaW) | [The Mitchell Twins](https://open.spotify.com/artist/6hxv3JmXDPj5gdUFh7V89D) | [Find a River](https://open.spotify.com/album/52kQ6HLEUNVqwlyhYWFwG5) | 4:15 | 2023-06-15 |  |
+| [Find a River](https://open.spotify.com/track/1rA9rH9nBHIwjuF5MnWbaW) | [The Mitchell Twins](https://open.spotify.com/artist/6hxv3JmXDPj5gdUFh7V89D) | [Find a River](https://open.spotify.com/album/52kQ6HLEUNVqwlyhYWFwG5) | 4:15 | 2023-06-15 | 2023-11-27 |
+| [Find a River](https://open.spotify.com/track/7Fkz9JnwuKFOXTJ0VnG56c) | [The Mitchell Twins](https://open.spotify.com/artist/6hxv3JmXDPj5gdUFh7V89D) | [Find a River](https://open.spotify.com/album/6kuV3PucilLTjGKmQBjFJ6) | 4:15 | 2023-11-23 |  |
 | [Fix You Too \(feat\. Kameron Marlowe\)](https://open.spotify.com/track/4eIGig7wMD4iZfPKGinoGr) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0), [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Lucky \(Deluxe\)](https://open.spotify.com/album/4Yb0OvM7xTvuyjUivVEXP4) | 3:19 | 2023-09-21 |  |
 | [Flame Trees](https://open.spotify.com/track/2co9PSsx9Iya7fjpP90tpy) | [Loren Ryan](https://open.spotify.com/artist/7feL5IApbaRD52R2efI9NG) | [Flame Trees](https://open.spotify.com/album/1EjnQlHUJ3goSocfydn1bK) | 4:30 | 2023-06-15 |  |
 | [Flip a Coin](https://open.spotify.com/track/3fNV0e9te9ZJeGEvSPR6N5) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [No Better Time](https://open.spotify.com/album/0RrvvsNs4lpXuf7VHI8z4s) | 3:38 | 2023-10-27 |  |

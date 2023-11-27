@@ -1427,6 +1427,28 @@
     },
     {
       "album": {
+        "name": "Cognition",
+        "url": "https://open.spotify.com/album/6T8lsInCHvVedcVchEBS2l"
+      },
+      "artists": [
+        {
+          "name": "Wilkinson",
+          "url": "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
+        },
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226206,
+      "name": "Here For You",
+      "url": "https://open.spotify.com/track/2qxiyScLvjCMb9gg1hTl5F"
+    },
+    {
+      "album": {
         "name": "Hold On [UKF10] (Extended Mix)",
         "url": "https://open.spotify.com/album/7fmARIqEp8YsMMWm2J7QXC"
       },
@@ -1602,7 +1624,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-27",
       "duration_ms": 314000,
       "name": "Journey Inwards",
       "url": "https://open.spotify.com/track/3iLyAY6mucjT2lxrtincYz"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/13wBNPUEHHtM5rjD9u6BYW?si=4H\-oDugfQ1WpY26U4RwEJQ"> OSA </a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,153 likes - 287 songs - 14 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,210 likes - 287 songs - 14 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -296,4 +296,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 286 | [All Roads](https://open.spotify.com/track/0pvgbTB2y9DNDDXb9T7FJW) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [All Roads](https://open.spotify.com/album/2Ns4jtMLkdHBrQyteocGQ9) | 3:17 |
 | 287 | [Always](https://open.spotify.com/track/4RVcEWtAcGr5TwbAk5oQhH) | [Victor Franco](https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv), [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Self Portrait](https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep) | 2:22 |
 
-Snapshot ID: `MCxkODQ2Y2JmMTg3ZjVjNGQ0ZDUwZTc5MGU3ZTRhNWYxYzQ5NjY2OTkz`
+Snapshot ID: `MCxkODcyNTc4N2U2YjA5NTRiZDgzNGY2OWNkOTAxZTYxYjUxNGZlM2Zm`

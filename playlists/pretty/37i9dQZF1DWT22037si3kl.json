@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do trap. Foto: Kyan",
-  "num_followers": 135504,
+  "num_followers": 135522,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmQ5ODJiYWU3NzVhYWIwMWYyNGZiYTk3N2E3MTM4ODljMGQxYTg0",
+  "snapshot_id": "MCwzYzE5MTZiNThlMTI0YzA3OWVjNzY0MjUyOTQ0NGYyNzc3MDVhYTYy",
   "tracks": [
     {
       "added_at": "2023-11-24 14:38:11",
@@ -815,6 +815,26 @@
     {
       "added_at": "2023-11-24 14:38:11",
       "album": {
+        "name": "SHH",
+        "url": "https://open.spotify.com/album/6NhKR6U35pR28qAVdXTQi3"
+      },
+      "artists": [
+        {
+          "name": "Rudies Flacko",
+          "url": "https://open.spotify.com/artist/6gTcIWPsmchtg4klMwWp2o"
+        },
+        {
+          "name": "mavyrmldy",
+          "url": "https://open.spotify.com/artist/2IRkwjCv3xnnHkEre05AZB"
+        }
+      ],
+      "duration_ms": 107055,
+      "name": "CALA-BOCA VADIA",
+      "url": "https://open.spotify.com/track/1dzzdWpDKbZzZWVfNM8Zk5"
+    },
+    {
+      "added_at": "2023-11-24 14:38:11",
+      "album": {
         "name": "Broncud\u00e3o (feat. Lotta)",
         "url": "https://open.spotify.com/album/03M2TXranFleMIW6zTQF7d"
       },
@@ -843,22 +863,30 @@
     {
       "added_at": "2023-11-24 14:38:11",
       "album": {
-        "name": "SHH",
-        "url": "https://open.spotify.com/album/6NhKR6U35pR28qAVdXTQi3"
+        "name": "N\u00e3o Tenho Tempo",
+        "url": "https://open.spotify.com/album/0DU5qPWKr1bR86WsRjiiPP"
       },
       "artists": [
         {
-          "name": "Rudies Flacko",
-          "url": "https://open.spotify.com/artist/6gTcIWPsmchtg4klMwWp2o"
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
         },
         {
-          "name": "mavyrmldy",
-          "url": "https://open.spotify.com/artist/2IRkwjCv3xnnHkEre05AZB"
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
         }
       ],
-      "duration_ms": 107055,
-      "name": "CALA-BOCA VADIA",
-      "url": "https://open.spotify.com/track/1dzzdWpDKbZzZWVfNM8Zk5"
+      "duration_ms": 125624,
+      "name": "N\u00e3o Tenho Tempo",
+      "url": "https://open.spotify.com/track/42Lqgo4o80uHEKKtaGOkj1"
     },
     {
       "added_at": "2023-11-24 14:38:11",
@@ -915,34 +943,6 @@
     {
       "added_at": "2023-11-24 14:38:11",
       "album": {
-        "name": "N\u00e3o Tenho Tempo",
-        "url": "https://open.spotify.com/album/0DU5qPWKr1bR86WsRjiiPP"
-      },
-      "artists": [
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "WEY",
-          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
-        }
-      ],
-      "duration_ms": 125624,
-      "name": "N\u00e3o Tenho Tempo",
-      "url": "https://open.spotify.com/track/42Lqgo4o80uHEKKtaGOkj1"
-    },
-    {
-      "added_at": "2023-11-24 14:38:11",
-      "album": {
         "name": "Passo de Piet",
         "url": "https://open.spotify.com/album/4zxOwhte3u716LoZJVisfY"
       },
@@ -987,26 +987,6 @@
     {
       "added_at": "2023-11-24 14:38:11",
       "album": {
-        "name": "SHH",
-        "url": "https://open.spotify.com/album/6NhKR6U35pR28qAVdXTQi3"
-      },
-      "artists": [
-        {
-          "name": "Rudies Flacko",
-          "url": "https://open.spotify.com/artist/6gTcIWPsmchtg4klMwWp2o"
-        },
-        {
-          "name": "mavyrmldy",
-          "url": "https://open.spotify.com/artist/2IRkwjCv3xnnHkEre05AZB"
-        }
-      ],
-      "duration_ms": 144657,
-      "name": "LEGO",
-      "url": "https://open.spotify.com/track/0irSVZzJLj4hYIDj9kyxTq"
-    },
-    {
-      "added_at": "2023-11-24 14:38:11",
-      "album": {
         "name": "BLOCKO",
         "url": "https://open.spotify.com/album/2AUYOZad5ek65kNUprn5EM"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 159798,
       "name": "FREDDIE MERCURY",
       "url": "https://open.spotify.com/track/4EpS720DSnhvLM9TV995M1"
+    },
+    {
+      "added_at": "2023-11-24 14:38:11",
+      "album": {
+        "name": "SHH",
+        "url": "https://open.spotify.com/album/6NhKR6U35pR28qAVdXTQi3"
+      },
+      "artists": [
+        {
+          "name": "Rudies Flacko",
+          "url": "https://open.spotify.com/artist/6gTcIWPsmchtg4klMwWp2o"
+        },
+        {
+          "name": "mavyrmldy",
+          "url": "https://open.spotify.com/artist/2IRkwjCv3xnnHkEre05AZB"
+        }
+      ],
+      "duration_ms": 144657,
+      "name": "LEGO",
+      "url": "https://open.spotify.com/track/0irSVZzJLj4hYIDj9kyxTq"
     },
     {
       "added_at": "2023-11-24 14:38:11",
@@ -1175,6 +1175,30 @@
     {
       "added_at": "2023-11-24 14:38:11",
       "album": {
+        "name": "Arrume-se Comigo",
+        "url": "https://open.spotify.com/album/5bhkvSuvsigvkrdzoqdTzg"
+      },
+      "artists": [
+        {
+          "name": "Pel\u00e9 MilFlows",
+          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
+        },
+        {
+          "name": "D-Hit",
+          "url": "https://open.spotify.com/artist/2ykrmidRrayttblvRHx30p"
+        },
+        {
+          "name": "Milbeats",
+          "url": "https://open.spotify.com/artist/6oQfW0xYBhMqOMt5cJ4oSV"
+        }
+      ],
+      "duration_ms": 139857,
+      "name": "Arrume-se Comigo",
+      "url": "https://open.spotify.com/track/0tG9AsqN5I8jHG0MEPMqim"
+    },
+    {
+      "added_at": "2023-11-24 14:38:11",
+      "album": {
         "name": "ISSO \u00d1 \u00c9 GPT",
         "url": "https://open.spotify.com/album/79Ie0NdfCAMkZQakRrMLFI"
       },
@@ -1207,30 +1231,6 @@
       "duration_ms": 363145,
       "name": "TAMBOR",
       "url": "https://open.spotify.com/track/5I3fsOI8IJjOkmgqCyZVfY"
-    },
-    {
-      "added_at": "2023-11-24 14:38:11",
-      "album": {
-        "name": "Arrume-se Comigo",
-        "url": "https://open.spotify.com/album/5bhkvSuvsigvkrdzoqdTzg"
-      },
-      "artists": [
-        {
-          "name": "Pel\u00e9 MilFlows",
-          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
-        },
-        {
-          "name": "D-Hit",
-          "url": "https://open.spotify.com/artist/2ykrmidRrayttblvRHx30p"
-        },
-        {
-          "name": "Milbeats",
-          "url": "https://open.spotify.com/artist/6oQfW0xYBhMqOMt5cJ4oSV"
-        }
-      ],
-      "duration_ms": 139857,
-      "name": "Arrume-se Comigo",
-      "url": "https://open.spotify.com/track/0tG9AsqN5I8jHG0MEPMqim"
     },
     {
       "added_at": "2023-11-24 14:38:11",

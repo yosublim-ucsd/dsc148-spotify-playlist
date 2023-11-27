@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/1CQAguK72YsRMOjz1ECeqq?si=gQyaDY81TYKBclXlWJQcZg">Zu.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,003 likes - 60 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,058 likes - 60 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 59 | [Where The Heart Is](https://open.spotify.com/track/43COSQ9QZsY47ZariNFRnS) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [MABUTA](https://open.spotify.com/artist/4Z6IP9yKpOBbitoDKeMIFI) | [Finish The Sun](https://open.spotify.com/album/2aDnrY3VewxtdyuMCuDAAD) | 5:27 |
 | 60 | [Bhaca Blue](https://open.spotify.com/track/4AncHenxnWxZS5ftGRZLc2) | [Steve Dyer](https://open.spotify.com/artist/61aqbPYgQBxkHz5zs4L1YO) | [Genesis of a Different World](https://open.spotify.com/album/1jpy0s4HMRWrT2RIJDWkp9) | 7:56 |
 
-Snapshot ID: `MCw0YTA1N2U5OTMwNWUxNjcyYjJiZjAzZTMyNGY3YTBkMjY3NzRjZmY2`
+Snapshot ID: `MCwzNzIyMzRmZDNhNzhmYTQzOTBlMzgzN2JkYWI1MWI4NzZmYWJhM2Nm`

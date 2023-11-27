@@ -4,7 +4,7 @@
 
 > La playlist che è come andare ai concerti! Novità rock, indie, punk ed emo dall'Italia\. Cover: Måneskin
 
-648 songs - 1 day 11 hr 59 min
+649 songs - 1 day 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,7 +343,8 @@
 | [MADE OF CLAY \- CE CASCO DENTRO](https://open.spotify.com/track/4NpflKmBSPPQ7YlfMirUFR) | [72\-HOUR POST FIGHT](https://open.spotify.com/artist/0QywAgoqmactggMU0Vfwf0), [clauscalmo](https://open.spotify.com/artist/0JYnmJcNn4DnQkJfHFjLnR), [F4](https://open.spotify.com/artist/7eM8i1h5JXPmPP9uJaMAva) | [MADE OF CLAY \(CE CASCO DENTRO\)](https://open.spotify.com/album/2ouE8GAFrGZiAXBJSDUyg6) | 3:04 | 2023-05-18 | 2023-05-26 |
 | [Magic Youth](https://open.spotify.com/track/2jx79Kt60S82dYqXs71CYg) | [Novanta](https://open.spotify.com/artist/4R7cSzZwMv7sXEuf7kq61Z), [The Sensitive Club](https://open.spotify.com/artist/4RzCXrA5DWoXHdJDTeKkzN) | [Magic Youth](https://open.spotify.com/album/6VtzGcYiDa1TpNJPRI6HaY) | 4:10 | 2023-05-03 | 2023-06-23 |
 | [MAI FATTO 31](https://open.spotify.com/track/0TGw55C85UVvG8DJk7eA9R) | [Bachi Da Pietra](https://open.spotify.com/artist/17E3eee30nez6YfwVxhHzH) | [MAI FATTO 31](https://open.spotify.com/album/1wDCJfXNcg4TetMxtJP8la) | 4:12 | 2023-11-02 | 2023-11-04 |
-| [MAI FATTO 31](https://open.spotify.com/track/76iQhtyetBmpoRlCUDEmpH) | [Bachi Da Pietra](https://open.spotify.com/artist/17E3eee30nez6YfwVxhHzH) | [MAI FATTO 31](https://open.spotify.com/album/3ly2EAqIwCplfBlcEow6mE) | 4:12 | 2023-11-02 |  |
+| [MAI FATTO 31](https://open.spotify.com/track/0Y2QHOcbhAsBGNkrdC0iPQ) | [Bachi Da Pietra](https://open.spotify.com/artist/17E3eee30nez6YfwVxhHzH) | [ACCETTA E CONTINUA](https://open.spotify.com/album/3GdVuQynzjOPCrHDyM0wfY) | 4:12 | 2023-11-23 |  |
+| [MAI FATTO 31](https://open.spotify.com/track/76iQhtyetBmpoRlCUDEmpH) | [Bachi Da Pietra](https://open.spotify.com/artist/17E3eee30nez6YfwVxhHzH) | [MAI FATTO 31](https://open.spotify.com/album/3ly2EAqIwCplfBlcEow6mE) | 4:12 | 2023-11-02 | 2023-11-27 |
 | [MALÈSSERE](https://open.spotify.com/track/7uK7WsMJAiw1qTyTWFervQ) | [Mutonia](https://open.spotify.com/artist/1l9tfz6AVS1Q0QuTlaDRER) | [MALÈSSERE](https://open.spotify.com/album/7nMR7KTnz9DRtAdX5M2YWV) | 2:27 | 2023-07-06 | 2023-10-06 |
 | [Mamma e papà](https://open.spotify.com/track/0uCQY7Psi0dql2N0zAEiTl) | [Marco Fracasia](https://open.spotify.com/artist/5cBxKy6si4GgCAJKaoYBrb) | [Mamma e papà](https://open.spotify.com/album/2aPx75NgtEtTVbZvAzaLoZ) | 4:31 | 2023-09-21 | 2023-10-27 |
 | [Manichini](https://open.spotify.com/track/3jFISbW5Ok8RoS3XeDZLfe) | [Mondo Caos](https://open.spotify.com/artist/7cag8XwImcd0DgVSPtgNKP) | [Manichini](https://open.spotify.com/album/5zXmDgtt8EP1bzghLq7Ipc) | 3:25 | 2023-04-20 | 2023-05-12 |

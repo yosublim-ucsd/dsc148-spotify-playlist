@@ -1,12 +1,12 @@
 {
   "description": "Hypnotic melodic <a href=\"spotify:genre:house\">house</a> and <a href=\"spotify:genre:techno\">techno</a> to light up the night.",
-  "num_followers": 430458,
+  "num_followers": 430626,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzNhZGI2NzJmOGViOGY1ZjM2ZTUyOWIwNTBjZTg3ZTdkNmIwOTUz",
+  "snapshot_id": "MCwwMTliNzRhZDM1ZDBjYjkxZGFkYmExZWUwZDE0MDk3MmM3YTZhYWU4",
   "tracks": [
     {
       "added_at": "2023-11-24 05:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Madres",
-        "url": "https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 204067,
-      "name": "Habla Con Ella",
-      "url": "https://open.spotify.com/track/6HMTox9UW3BxOUi8BlMVgk"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Impossible (&ME Remix)",
         "url": "https://open.spotify.com/album/4HmgIUcdgMfWDJYQdxhy6o"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 214214,
       "name": "Bayati Shiraz (feat. Kenan Bayramli)",
       "url": "https://open.spotify.com/track/4T5fdxoMBLOdUBb8CtRuNW"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Madres",
+        "url": "https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 204067,
+      "name": "Habla Con Ella",
+      "url": "https://open.spotify.com/track/6HMTox9UW3BxOUi8BlMVgk"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Little Darling (Joris Voorn Remix)",
-        "url": "https://open.spotify.com/album/2dtExe65fdE0PJLhnPpFyU"
-      },
-      "artists": [
-        {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
-        },
-        {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
-        }
-      ],
-      "duration_ms": 200952,
-      "name": "Little Darling - Joris Voorn Remix",
-      "url": "https://open.spotify.com/track/4NzjiBcQT7Hzp2hvuEViqe"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Pliva",
         "url": "https://open.spotify.com/album/4EATgaagFfAx7fynhS2gdh"
       },
@@ -1087,6 +1067,26 @@
       "duration_ms": 244570,
       "name": "Pliva",
       "url": "https://open.spotify.com/track/5tfqO6elC42ZwXfIN1aSDk"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Little Darling (Joris Voorn Remix)",
+        "url": "https://open.spotify.com/album/2dtExe65fdE0PJLhnPpFyU"
+      },
+      "artists": [
+        {
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        },
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        }
+      ],
+      "duration_ms": 200952,
+      "name": "Little Darling - Joris Voorn Remix",
+      "url": "https://open.spotify.com/track/4NzjiBcQT7Hzp2hvuEViqe"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1131,6 +1131,26 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Somebody (Edit)",
+        "url": "https://open.spotify.com/album/294RRK6GjMAA3ezK8KTMxj"
+      },
+      "artists": [
+        {
+          "name": "Fahlberg",
+          "url": "https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk"
+        },
+        {
+          "name": "Sebjak",
+          "url": "https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA"
+        }
+      ],
+      "duration_ms": 223604,
+      "name": "Somebody - Edit",
+      "url": "https://open.spotify.com/track/6sGmDThWXd16RUqAI4VRFz"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Discoteca",
         "url": "https://open.spotify.com/album/1ToY6vQm5b4DgOpdGHZjVZ"
       },
@@ -1155,26 +1175,6 @@
       "duration_ms": 385103,
       "name": "Discoteca",
       "url": "https://open.spotify.com/track/0ENV8cY0bwun9qSQkh195f"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Somebody (Edit)",
-        "url": "https://open.spotify.com/album/294RRK6GjMAA3ezK8KTMxj"
-      },
-      "artists": [
-        {
-          "name": "Fahlberg",
-          "url": "https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk"
-        },
-        {
-          "name": "Sebjak",
-          "url": "https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA"
-        }
-      ],
-      "duration_ms": 223604,
-      "name": "Somebody - Edit",
-      "url": "https://open.spotify.com/track/6sGmDThWXd16RUqAI4VRFz"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Ultima Ratio",
-        "url": "https://open.spotify.com/album/5zajsdXm81cFLL7qExclll"
-      },
-      "artists": [
-        {
-          "name": "Joachim Pastor",
-          "url": "https://open.spotify.com/artist/6eNOjuJSfKkAvbiGW90AkZ"
-        }
-      ],
-      "duration_ms": 277018,
-      "name": "Ultima Ratio",
-      "url": "https://open.spotify.com/track/4dmiklzCRnTM237iBtbEi5"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Marimba",
         "url": "https://open.spotify.com/album/3i2oCggOTBqY30JWJTkqgU"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 226497,
       "name": "Marimba",
       "url": "https://open.spotify.com/track/3ihksvcKbnm01jQXMY5XYi"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Ultima Ratio",
+        "url": "https://open.spotify.com/album/5zajsdXm81cFLL7qExclll"
+      },
+      "artists": [
+        {
+          "name": "Joachim Pastor",
+          "url": "https://open.spotify.com/artist/6eNOjuJSfKkAvbiGW90AkZ"
+        }
+      ],
+      "duration_ms": 277018,
+      "name": "Ultima Ratio",
+      "url": "https://open.spotify.com/track/4dmiklzCRnTM237iBtbEi5"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1819,70 +1819,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Starz",
-        "url": "https://open.spotify.com/album/6ABh7hs4z4lrjmp1R22R9t"
-      },
-      "artists": [
-        {
-          "name": "andhim",
-          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
-        }
-      ],
-      "duration_ms": 300975,
-      "name": "Starz",
-      "url": "https://open.spotify.com/track/4QdrjvWnftlEW1tlRwxYvx"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "One Touch",
-        "url": "https://open.spotify.com/album/2aYXVu6p7YCnCUmIwosOP7"
-      },
-      "artists": [
-        {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
-        }
-      ],
-      "duration_ms": 352986,
-      "name": "One Touch",
-      "url": "https://open.spotify.com/track/0UrxrZzg8x8xa5GFRRngMS"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Another Disaster",
-        "url": "https://open.spotify.com/album/5byRdBEonyHtaP8IwaGaFU"
-      },
-      "artists": [
-        {
-          "name": "Oliver Schories",
-          "url": "https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq"
-        }
-      ],
-      "duration_ms": 290322,
-      "name": "Another Disaster",
-      "url": "https://open.spotify.com/track/607sdsDqekZqncZatOMu4x"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Unfold Voices EP",
-        "url": "https://open.spotify.com/album/2P9jp1XxHAhD9zK7bfvQ6T"
-      },
-      "artists": [
-        {
-          "name": "JAMIIE",
-          "url": "https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF"
-        }
-      ],
-      "duration_ms": 391577,
-      "name": "Unfold Me",
-      "url": "https://open.spotify.com/track/3wO96BMLqvUSMowH19eWis"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Brisa",
         "url": "https://open.spotify.com/album/4Fyza19j2d7Yb3aRICfX1q"
       },
@@ -1907,22 +1843,50 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Groove You EP",
-        "url": "https://open.spotify.com/album/00dMUIYEjfWzbK19QK301E"
+        "name": "One Touch",
+        "url": "https://open.spotify.com/album/2aYXVu6p7YCnCUmIwosOP7"
       },
       "artists": [
         {
-          "name": "Mustafa Ismaeel",
-          "url": "https://open.spotify.com/artist/4FnXFfnV6miSesny17PNpP"
-        },
-        {
-          "name": "Enamour",
-          "url": "https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO"
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
         }
       ],
-      "duration_ms": 396097,
-      "name": "Nothingness",
-      "url": "https://open.spotify.com/track/3qVkFZ5WdPZpqyV9fVKt68"
+      "duration_ms": 352986,
+      "name": "One Touch",
+      "url": "https://open.spotify.com/track/0UrxrZzg8x8xa5GFRRngMS"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Starz",
+        "url": "https://open.spotify.com/album/6ABh7hs4z4lrjmp1R22R9t"
+      },
+      "artists": [
+        {
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+        }
+      ],
+      "duration_ms": 300975,
+      "name": "Starz",
+      "url": "https://open.spotify.com/track/4QdrjvWnftlEW1tlRwxYvx"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Another Disaster",
+        "url": "https://open.spotify.com/album/5byRdBEonyHtaP8IwaGaFU"
+      },
+      "artists": [
+        {
+          "name": "Oliver Schories",
+          "url": "https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq"
+        }
+      ],
+      "duration_ms": 290322,
+      "name": "Another Disaster",
+      "url": "https://open.spotify.com/track/607sdsDqekZqncZatOMu4x"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1955,6 +1919,42 @@
       "duration_ms": 432360,
       "name": "Never Sleep Again (Keinemusik Remix)",
       "url": "https://open.spotify.com/track/5fPoYOwYZek6N4QSLP6xjD"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Unfold Voices EP",
+        "url": "https://open.spotify.com/album/2P9jp1XxHAhD9zK7bfvQ6T"
+      },
+      "artists": [
+        {
+          "name": "JAMIIE",
+          "url": "https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF"
+        }
+      ],
+      "duration_ms": 391577,
+      "name": "Unfold Me",
+      "url": "https://open.spotify.com/track/3wO96BMLqvUSMowH19eWis"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Groove You EP",
+        "url": "https://open.spotify.com/album/00dMUIYEjfWzbK19QK301E"
+      },
+      "artists": [
+        {
+          "name": "Mustafa Ismaeel",
+          "url": "https://open.spotify.com/artist/4FnXFfnV6miSesny17PNpP"
+        },
+        {
+          "name": "Enamour",
+          "url": "https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO"
+        }
+      ],
+      "duration_ms": 396097,
+      "name": "Nothingness",
+      "url": "https://open.spotify.com/track/3qVkFZ5WdPZpqyV9fVKt68"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -2055,6 +2055,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Fact & Fiction / Can't Get Enough",
+        "url": "https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm"
+      },
+      "artists": [
+        {
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        }
+      ],
+      "duration_ms": 379356,
+      "name": "Can't Get Enough",
+      "url": "https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Dale",
         "url": "https://open.spotify.com/album/57UcRw8voA5xTPL7ctpBIG"
       },
@@ -2071,22 +2087,6 @@
       "duration_ms": 212459,
       "name": "Dale",
       "url": "https://open.spotify.com/track/6c3qEL7Vqln2z2UKvnPjjm"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Fact & Fiction / Can't Get Enough",
-        "url": "https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm"
-      },
-      "artists": [
-        {
-          "name": "JOPLYN",
-          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
-        }
-      ],
-      "duration_ms": 379356,
-      "name": "Can't Get Enough",
-      "url": "https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Ethos",
-        "url": "https://open.spotify.com/album/4wjQEJULPMyZSlxtp53TGi"
-      },
-      "artists": [
-        {
-          "name": "Bonsaye",
-          "url": "https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG"
-        }
-      ],
-      "duration_ms": 222785,
-      "name": "Ethos",
-      "url": "https://open.spotify.com/track/61vtSOrJad1A4DIC1jhoXZ"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Sound of the Jungle (Pt. 6/6)",
         "url": "https://open.spotify.com/album/6m7N4BnroBoUnLmG6W2548"
       },
@@ -2231,6 +2215,22 @@
       "duration_ms": 315418,
       "name": "Morning Comes",
       "url": "https://open.spotify.com/track/5zLGsCUdRieydq198vi0q0"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Ethos",
+        "url": "https://open.spotify.com/album/4wjQEJULPMyZSlxtp53TGi"
+      },
+      "artists": [
+        {
+          "name": "Bonsaye",
+          "url": "https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG"
+        }
+      ],
+      "duration_ms": 222785,
+      "name": "Ethos",
+      "url": "https://open.spotify.com/track/61vtSOrJad1A4DIC1jhoXZ"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -2327,22 +2327,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Rhythm Of The Night",
-        "url": "https://open.spotify.com/album/2O1mDByoHcWrsABgAvCzwU"
-      },
-      "artists": [
-        {
-          "name": "Trance Wax",
-          "url": "https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE"
-        }
-      ],
-      "duration_ms": 213339,
-      "name": "Rhythm Of The Night",
-      "url": "https://open.spotify.com/track/6OFJOpzi9xZrm3eEJE1SIG"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Reset",
         "url": "https://open.spotify.com/album/6Wu82RRKxyysWofgHcfUlD"
       },
@@ -2355,6 +2339,22 @@
       "duration_ms": 447863,
       "name": "Reset",
       "url": "https://open.spotify.com/track/4YJ5mIkrwtMyZknV2uqx3z"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Rhythm Of The Night",
+        "url": "https://open.spotify.com/album/2O1mDByoHcWrsABgAvCzwU"
+      },
+      "artists": [
+        {
+          "name": "Trance Wax",
+          "url": "https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE"
+        }
+      ],
+      "duration_ms": 213339,
+      "name": "Rhythm Of The Night",
+      "url": "https://open.spotify.com/track/6OFJOpzi9xZrm3eEJE1SIG"
     },
     {
       "added_at": "2023-11-24 05:00:00",

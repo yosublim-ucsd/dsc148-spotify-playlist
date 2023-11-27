@@ -1,12 +1,12 @@
 {
   "description": "Blues with a British flavor. Cover: Jeff Beck",
-  "num_followers": 128941,
+  "num_followers": 128996,
   "original_name": "Brit-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZWYxMzg1NWZhMDVhNmY5ODgwNDIwNTI4MjNlMmI3NTMxZTliZDQ2",
+  "snapshot_id": "MCxiMTIyZTdmY2Q2ODI4NmQ3ODJhYmJiNmFhMDBmZTdlYzQ1YTFiNDU5",
   "tracks": [
     {
       "added_at": "2021-04-22 22:35:02",
@@ -203,22 +203,6 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Bridge Of Sighs (2007 Remaster)",
-        "url": "https://open.spotify.com/album/2ufQ2fXlHknTw5RtIN7qaC"
-      },
-      "artists": [
-        {
-          "name": "Robin Trower",
-          "url": "https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3"
-        }
-      ],
-      "duration_ms": 451893,
-      "name": "Too Rolling Stoned - 2007 Remaster",
-      "url": "https://open.spotify.com/track/0aveCMNj686kG1oX4n80P6"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
         "name": "The Rolling Stones, Now!",
         "url": "https://open.spotify.com/album/592dKHbXtiglWyt8AEet23"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 185786,
       "name": "Little Red Rooster - Mono Version",
       "url": "https://open.spotify.com/track/3GgpUEdSy8uO58XG35rRho"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "Bridge Of Sighs (2007 Remaster)",
+        "url": "https://open.spotify.com/album/2ufQ2fXlHknTw5RtIN7qaC"
+      },
+      "artists": [
+        {
+          "name": "Robin Trower",
+          "url": "https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3"
+        }
+      ],
+      "duration_ms": 451893,
+      "name": "Too Rolling Stoned - 2007 Remaster",
+      "url": "https://open.spotify.com/track/0aveCMNj686kG1oX4n80P6"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -283,18 +283,18 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Bridge Of Sighs (2007 Remaster)",
-        "url": "https://open.spotify.com/album/2ufQ2fXlHknTw5RtIN7qaC"
+        "name": "Every Picture Tells A Story",
+        "url": "https://open.spotify.com/album/4VykjLwkyfKMZVLrJJVrYh"
       },
       "artists": [
         {
-          "name": "Robin Trower",
-          "url": "https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3"
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
         }
       ],
-      "duration_ms": 235720,
-      "name": "The Fool and Me - 2007 Remaster",
-      "url": "https://open.spotify.com/track/0KaBfk7ax1IoCyA1aABCf9"
+      "duration_ms": 323733,
+      "name": "(I Know) I'm Losing You",
+      "url": "https://open.spotify.com/track/7s7ylhLGL0sV6TU9bzpN5S"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -331,18 +331,18 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Every Picture Tells A Story",
-        "url": "https://open.spotify.com/album/4VykjLwkyfKMZVLrJJVrYh"
+        "name": "Bridge Of Sighs (2007 Remaster)",
+        "url": "https://open.spotify.com/album/2ufQ2fXlHknTw5RtIN7qaC"
       },
       "artists": [
         {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+          "name": "Robin Trower",
+          "url": "https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3"
         }
       ],
-      "duration_ms": 323733,
-      "name": "(I Know) I'm Losing You",
-      "url": "https://open.spotify.com/track/7s7ylhLGL0sV6TU9bzpN5S"
+      "duration_ms": 235720,
+      "name": "The Fool and Me - 2007 Remaster",
+      "url": "https://open.spotify.com/track/0KaBfk7ax1IoCyA1aABCf9"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -427,22 +427,6 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Twice Removed from Yesterday",
-        "url": "https://open.spotify.com/album/15XZ5bvCoiEXEBprtGkpZu"
-      },
-      "artists": [
-        {
-          "name": "Robin Trower",
-          "url": "https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3"
-        }
-      ],
-      "duration_ms": 162426,
-      "name": "Man of the World",
-      "url": "https://open.spotify.com/track/6xiH4qEmsfOvvdMcuAjX7s"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
         "name": "Tattoo (Remastered 2017)",
         "url": "https://open.spotify.com/album/4lC6XXj4Cq9rsaJh7EghRg"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 187245,
       "name": "Who Do You Love?",
       "url": "https://open.spotify.com/track/4v4zFRDRkXyGPTRyYur26i"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "Twice Removed from Yesterday",
+        "url": "https://open.spotify.com/album/15XZ5bvCoiEXEBprtGkpZu"
+      },
+      "artists": [
+        {
+          "name": "Robin Trower",
+          "url": "https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3"
+        }
+      ],
+      "duration_ms": 162426,
+      "name": "Man of the World",
+      "url": "https://open.spotify.com/track/6xiH4qEmsfOvvdMcuAjX7s"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -547,18 +547,18 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "The Marquis Sessions",
-        "url": "https://open.spotify.com/album/2jIctQtMRND7mnasTHEFmW"
+        "name": "The Yardbirds Story - Pt. 3 - 1965/66 - Big Hits & America Calling",
+        "url": "https://open.spotify.com/album/0lYmtEuL0fLXPP4XKr5O8K"
       },
       "artists": [
         {
-          "name": "Duffy Power",
-          "url": "https://open.spotify.com/artist/1HD11ESo3mcg0LtEJSZkvN"
+          "name": "The Yardbirds",
+          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
         }
       ],
-      "duration_ms": 162360,
-      "name": "I Don't Care",
-      "url": "https://open.spotify.com/track/3hbwdoayA5vJwebCygMDg2"
+      "duration_ms": 208493,
+      "name": "The Train Kept A-Rollin'",
+      "url": "https://open.spotify.com/track/6pW2lKORQaIC6JR4qBNG9e"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -577,22 +577,6 @@
       "url": "https://open.spotify.com/track/1WLo0a2kvkcwTZ9x3r3MDt"
     },
     {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
-        "name": "The Yardbirds Story - Pt. 3 - 1965/66 - Big Hits & America Calling",
-        "url": "https://open.spotify.com/album/0lYmtEuL0fLXPP4XKr5O8K"
-      },
-      "artists": [
-        {
-          "name": "The Yardbirds",
-          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
-        }
-      ],
-      "duration_ms": 208493,
-      "name": "The Train Kept A-Rollin'",
-      "url": "https://open.spotify.com/track/6pW2lKORQaIC6JR4qBNG9e"
-    },
-    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Reckless Heart",
@@ -607,6 +591,22 @@
       "duration_ms": 225125,
       "name": "In the Mood",
       "url": "https://open.spotify.com/track/0itImJ5657GoBZwFY6KcmI"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "The Marquis Sessions",
+        "url": "https://open.spotify.com/album/2jIctQtMRND7mnasTHEFmW"
+      },
+      "artists": [
+        {
+          "name": "Duffy Power",
+          "url": "https://open.spotify.com/artist/1HD11ESo3mcg0LtEJSZkvN"
+        }
+      ],
+      "duration_ms": 162360,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/3hbwdoayA5vJwebCygMDg2"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -987,6 +987,22 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
+        "name": "The Climax Blues Band Plays On",
+        "url": "https://open.spotify.com/album/1t1BkXT15XBN7fJ6br7LuX"
+      },
+      "artists": [
+        {
+          "name": "Climax Blues Band",
+          "url": "https://open.spotify.com/artist/4eeRviM714mXXeILmKHxh2"
+        }
+      ],
+      "duration_ms": 266120,
+      "name": "Hey Baby, Everything's Gonna Be Alright, Yeh Yeh Yeh",
+      "url": "https://open.spotify.com/track/2pKJ5WNABAKYfI4Fa4QmKw"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
         "name": "Truth",
         "url": "https://open.spotify.com/album/0Tt2yDuJ0jiy0JwZzUZdlE"
       },
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "The Climax Blues Band Plays On",
-        "url": "https://open.spotify.com/album/1t1BkXT15XBN7fJ6br7LuX"
-      },
-      "artists": [
-        {
-          "name": "Climax Blues Band",
-          "url": "https://open.spotify.com/artist/4eeRviM714mXXeILmKHxh2"
-        }
-      ],
-      "duration_ms": 266120,
-      "name": "Hey Baby, Everything's Gonna Be Alright, Yeh Yeh Yeh",
-      "url": "https://open.spotify.com/track/2pKJ5WNABAKYfI4Fa4QmKw"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
         "name": "As Safe As Yesterday Is",
         "url": "https://open.spotify.com/album/43KR0GXJQQ7uBwTdga0QLw"
       },
@@ -1035,22 +1035,6 @@
       "duration_ms": 387640,
       "name": "Desperation (Stereo Version)",
       "url": "https://open.spotify.com/track/1wgPsruWiUSxgeFel6L7t5"
-    },
-    {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Telegram",
-        "url": "https://open.spotify.com/album/3Rb0WoIosAvat8zyJkiIzP"
-      },
-      "artists": [
-        {
-          "name": "Mick Clarke",
-          "url": "https://open.spotify.com/artist/67mAkA5iBh0bWPJojt1AHt"
-        }
-      ],
-      "duration_ms": 210800,
-      "name": "House of Cards",
-      "url": "https://open.spotify.com/track/5fR8uILBBYK0hojLRjJrjo"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -1067,6 +1051,22 @@
       "duration_ms": 175853,
       "name": "Jo Ann",
       "url": "https://open.spotify.com/track/2fsmlot7lUJuNMt3AIcSys"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Telegram",
+        "url": "https://open.spotify.com/album/3Rb0WoIosAvat8zyJkiIzP"
+      },
+      "artists": [
+        {
+          "name": "Mick Clarke",
+          "url": "https://open.spotify.com/artist/67mAkA5iBh0bWPJojt1AHt"
+        }
+      ],
+      "duration_ms": 210800,
+      "name": "House of Cards",
+      "url": "https://open.spotify.com/track/5fR8uILBBYK0hojLRjJrjo"
     }
   ],
   "unique_name": "Brit-Blues",

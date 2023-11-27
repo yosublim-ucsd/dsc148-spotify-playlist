@@ -1,12 +1,12 @@
 {
   "description": "Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra m\u00fasica. Foto: Roc\u00edo Jurado",
-  "num_followers": 69803,
+  "num_followers": 69878,
   "original_name": "Reinas de la Canci\u00f3n Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDlmZmZjMmUxMmY3MWY1NTYzMjcxY2IwMWJhOGNkMTYzMjRjMzFh",
+  "snapshot_id": "MCwxNDY3NTllMzJkYzczOTFlOGM3N2Y5ZDI0ODMyOWRiZjgyZDM1NmE3",
   "tracks": [
     {
       "added_at": "2023-08-28 17:02:49",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
-        "name": "Dec\u00e1logo (Sus 10 Mayores \u00c9xitos)",
-        "url": "https://open.spotify.com/album/1hCgERvuup6uAg45GpwrL7"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS"
-        }
-      ],
-      "duration_ms": 211533,
-      "name": "Ponte la Mano en el Pecho",
-      "url": "https://open.spotify.com/track/5R9D7LIue9bA2acd75Tfuv"
-    },
-    {
-      "added_at": "2023-08-28 17:02:49",
-      "album": {
         "name": "The Ultimate Collection",
         "url": "https://open.spotify.com/album/3Sw6xkIaBH2eZtU727ONHX"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 163693,
       "name": "Quizas, Quizas, Quizas",
       "url": "https://open.spotify.com/track/1dbVT7RwxBekrWJ0UrPDZb"
+    },
+    {
+      "added_at": "2023-08-28 17:02:49",
+      "album": {
+        "name": "Dec\u00e1logo (Sus 10 Mayores \u00c9xitos)",
+        "url": "https://open.spotify.com/album/1hCgERvuup6uAg45GpwrL7"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS"
+        }
+      ],
+      "duration_ms": 211533,
+      "name": "Ponte la Mano en el Pecho",
+      "url": "https://open.spotify.com/track/5R9D7LIue9bA2acd75Tfuv"
     },
     {
       "added_at": "2023-08-28 17:02:49",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
-        "name": "Baladilla De Los Tres R\u00edos",
-        "url": "https://open.spotify.com/album/1i9rCl0H6r9v33Bo2LV5lh"
-      },
-      "artists": [
-        {
-          "name": "Pasi\u00f3n Vega",
-          "url": "https://open.spotify.com/artist/1SP2KiLZvq07zY1KUoZ3ey"
-        }
-      ],
-      "duration_ms": 192627,
-      "name": "Baladilla De Los Tres R\u00edos",
-      "url": "https://open.spotify.com/track/4LExk9S2etjsOKYQnipaar"
-    },
-    {
-      "added_at": "2023-08-28 17:02:49",
-      "album": {
         "name": "Pecado de Amor (Original Motion Picture)",
         "url": "https://open.spotify.com/album/77Yz6Y1zfcuPBCPekPz8Pq"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 211746,
       "name": "Los Nardos",
       "url": "https://open.spotify.com/track/0Gx6gmh6jjeRmVlgLUXYA1"
+    },
+    {
+      "added_at": "2023-08-28 17:02:49",
+      "album": {
+        "name": "Baladilla De Los Tres R\u00edos",
+        "url": "https://open.spotify.com/album/1i9rCl0H6r9v33Bo2LV5lh"
+      },
+      "artists": [
+        {
+          "name": "Pasi\u00f3n Vega",
+          "url": "https://open.spotify.com/artist/1SP2KiLZvq07zY1KUoZ3ey"
+        }
+      ],
+      "duration_ms": 192627,
+      "name": "Baladilla De Los Tres R\u00edos",
+      "url": "https://open.spotify.com/track/4LExk9S2etjsOKYQnipaar"
     },
     {
       "added_at": "2023-08-28 17:02:49",

@@ -1,12 +1,12 @@
 {
   "description": "Southern boogie, swinging blues rock and classic boogie rock. Cover: ZZ Top",
-  "num_followers": 77838,
+  "num_followers": 77934,
   "original_name": "Boogie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTBiODJmZjdiMDdjNjA2YmUyMTFiMjFlZGQ3ZmY1NzUzOTNlZmIz",
+  "snapshot_id": "MCw1Y2VlMzhlNWYxZTg0YjFlMDVjZDAzNDViNTc4YzA2MjU4OWM1YTAw",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -511,8 +511,8 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Quotable Quo",
-        "url": "https://open.spotify.com/album/4IAafmNssq4xupEIUR7enj"
+        "name": "Down the Dustpipe",
+        "url": "https://open.spotify.com/album/6uZDQxyMSEQ9kWFVjAaHl3"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
         }
       ],
-      "duration_ms": 242000,
-      "name": "Whatever You Want",
-      "url": "https://open.spotify.com/track/2PkOmx1S4XOwPU1Pgyaoig"
+      "duration_ms": 198426,
+      "name": "Spinning Wheel Blues",
+      "url": "https://open.spotify.com/track/2DmqtzZkGjbxQx38qZ22zw"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -607,8 +607,8 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Down the Dustpipe",
-        "url": "https://open.spotify.com/album/6uZDQxyMSEQ9kWFVjAaHl3"
+        "name": "Quotable Quo",
+        "url": "https://open.spotify.com/album/4IAafmNssq4xupEIUR7enj"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
         }
       ],
-      "duration_ms": 198426,
-      "name": "Spinning Wheel Blues",
-      "url": "https://open.spotify.com/track/2DmqtzZkGjbxQx38qZ22zw"
+      "duration_ms": 242000,
+      "name": "Whatever You Want",
+      "url": "https://open.spotify.com/track/2PkOmx1S4XOwPU1Pgyaoig"
     },
     {
       "added_at": "2021-10-15 04:01:00",

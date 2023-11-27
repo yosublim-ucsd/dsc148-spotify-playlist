@@ -4905,6 +4905,28 @@
     },
     {
       "album": {
+        "name": "Feel It in My Soul",
+        "url": "https://open.spotify.com/album/4JdyE6xgvTGZsAiHJ90D9e"
+      },
+      "artists": [
+        {
+          "name": "Basslovers United",
+          "url": "https://open.spotify.com/artist/4KpgeSLtjj0txr6drzaedu"
+        },
+        {
+          "name": "Andy Jay Powell",
+          "url": "https://open.spotify.com/artist/6LcWcssoNHGP2WHVA9Fk51"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196288,
+      "name": "Feel It in My Soul",
+      "url": "https://open.spotify.com/track/64XX2sg5YsAnOyTwhfTHlG"
+    },
+    {
+      "album": {
         "name": "Feel The Rain",
         "url": "https://open.spotify.com/album/2hHez1jeKZ7Aa0EhbJoGhW"
       },
@@ -9154,7 +9176,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-27",
       "duration_ms": 190009,
       "name": "Meet Again",
       "url": "https://open.spotify.com/track/1TJsxoJte19MgSzGSsIM3h"

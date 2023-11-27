@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWM0MDM5MjkyNWJlMGMzMWFjOWI0OWJkZGI3ZjViMmE5YWIwMGFj",
+  "snapshot_id": "MCxkYjcyNWE5MzI0YTkzMDRhYmQxNGYyN2U2NGJjZDIzNDA3ODUwNzQz",
   "tracks": [
     {
       "added_at": "2023-11-07 23:00:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-11-07 23:00:00",
       "album": {
-        "name": "A little bit",
-        "url": "https://open.spotify.com/album/3nRzIWGROZGFShf6V0zEDC"
-      },
-      "artists": [
-        {
-          "name": "Die P",
-          "url": "https://open.spotify.com/artist/0MOwIUMFiLwG7ls1MQsmhJ"
-        }
-      ],
-      "duration_ms": 209655,
-      "name": "A little bit",
-      "url": "https://open.spotify.com/track/4VFsw6eUV2iVUJ8ihV95cV"
-    },
-    {
-      "added_at": "2023-11-07 23:00:00",
-      "album": {
         "name": "Sexless",
         "url": "https://open.spotify.com/album/0nAUaItX3fligKglwyCRGb"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 165250,
       "name": "TAKE IT SLOW",
       "url": "https://open.spotify.com/track/6LwznmiwKIisc33xXOu03y"
+    },
+    {
+      "added_at": "2023-11-07 23:00:00",
+      "album": {
+        "name": "A little bit",
+        "url": "https://open.spotify.com/album/3nRzIWGROZGFShf6V0zEDC"
+      },
+      "artists": [
+        {
+          "name": "Die P",
+          "url": "https://open.spotify.com/artist/0MOwIUMFiLwG7ls1MQsmhJ"
+        }
+      ],
+      "duration_ms": 209655,
+      "name": "A little bit",
+      "url": "https://open.spotify.com/track/4VFsw6eUV2iVUJ8ihV95cV"
     },
     {
       "added_at": "2023-11-07 23:00:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-11-07 23:00:00",
       "album": {
-        "name": "In My Novaa",
-        "url": "https://open.spotify.com/album/6vEMutP9WTvE9vC5oxhH2a"
-      },
-      "artists": [
-        {
-          "name": "Novaa",
-          "url": "https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm"
-        }
-      ],
-      "duration_ms": 256875,
-      "name": "In My Novaa",
-      "url": "https://open.spotify.com/track/0BWgnfDV4o5PPQMhcKfrzH"
-    },
-    {
-      "added_at": "2023-11-07 23:00:00",
-      "album": {
         "name": "I C U",
         "url": "https://open.spotify.com/album/0xsFbTqIAva4xM9b5foBNe"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 175555,
       "name": "I C U",
       "url": "https://open.spotify.com/track/5ElKn41pCBDbAPZOAvfHPK"
+    },
+    {
+      "added_at": "2023-11-07 23:00:00",
+      "album": {
+        "name": "In My Novaa",
+        "url": "https://open.spotify.com/album/6vEMutP9WTvE9vC5oxhH2a"
+      },
+      "artists": [
+        {
+          "name": "Novaa",
+          "url": "https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm"
+        }
+      ],
+      "duration_ms": 256875,
+      "name": "In My Novaa",
+      "url": "https://open.spotify.com/track/0BWgnfDV4o5PPQMhcKfrzH"
     },
     {
       "added_at": "2023-11-07 23:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-11-07 23:00:00",
       "album": {
-        "name": "Something's Dripping From The Ceiling",
-        "url": "https://open.spotify.com/album/4YNwKQcG0gcHovZ9P2zjiE"
-      },
-      "artists": [
-        {
-          "name": "Batbait",
-          "url": "https://open.spotify.com/artist/1PGFrlFMjm2RIi2ndQ0lHG"
-        }
-      ],
-      "duration_ms": 246871,
-      "name": "Something's Dripping From The Ceiling",
-      "url": "https://open.spotify.com/track/3zO4t7n7JScZQPcpPNi1WF"
-    },
-    {
-      "added_at": "2023-11-07 23:00:00",
-      "album": {
         "name": "Do It Anyway",
         "url": "https://open.spotify.com/album/5xjrLChsR9sFgODn5NbFPT"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 150000,
       "name": "Do It Anyway",
       "url": "https://open.spotify.com/track/46WfoHmp8CsgECJ14JkRzW"
+    },
+    {
+      "added_at": "2023-11-07 23:00:00",
+      "album": {
+        "name": "Something's Dripping From The Ceiling",
+        "url": "https://open.spotify.com/album/4YNwKQcG0gcHovZ9P2zjiE"
+      },
+      "artists": [
+        {
+          "name": "Batbait",
+          "url": "https://open.spotify.com/artist/1PGFrlFMjm2RIi2ndQ0lHG"
+        }
+      ],
+      "duration_ms": 246871,
+      "name": "Something's Dripping From The Ceiling",
+      "url": "https://open.spotify.com/track/3zO4t7n7JScZQPcpPNi1WF"
     },
     {
       "added_at": "2023-11-07 23:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes. Cover: <a href=\"spotify:artist:5l8VQNuIg0turYE1VtM9zV\">Leonard Cohen</a>",
-  "num_followers": 10234,
+  "num_followers": 10236,
   "original_name": "Leonard Cohen: Covered",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDg5MWVlNmZhZTU1ZDE5MDdhMmM0ZGU3ODFiYjlhMDg2N2MwYzY2",
+  "snapshot_id": "MCw4YjdiYmNlNGY1YWZjMzg1NTg5OTRkZTgyNzkyZjRmYTA2ZDZlYmE3",
   "tracks": [
     {
       "added_at": "2018-12-06 19:29:22",
@@ -211,6 +211,22 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
+        "name": "From Her to Eternity (2009 - Remaster)",
+        "url": "https://open.spotify.com/album/5XWZDaQXTMUnXAzyBbpR7P"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "duration_ms": 309280,
+      "name": "Avalanche",
+      "url": "https://open.spotify.com/track/3PH1n0JC1icuzNQTD4Rsv0"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
         "name": "Live Songs",
         "url": "https://open.spotify.com/album/2E0441zcodrrkrNiffdEiC"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 273106,
       "name": "Ain't No Cure For Love",
       "url": "https://open.spotify.com/track/4F6PiM255qHEw6CKRJTjPs"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
-        "name": "From Her to Eternity (2009 - Remaster)",
-        "url": "https://open.spotify.com/album/5XWZDaQXTMUnXAzyBbpR7P"
-      },
-      "artists": [
-        {
-          "name": "Nick Cave & The Bad Seeds",
-          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
-        }
-      ],
-      "duration_ms": 309280,
-      "name": "Avalanche",
-      "url": "https://open.spotify.com/track/3PH1n0JC1icuzNQTD4Rsv0"
     },
     {
       "added_at": "2018-12-06 19:29:22",

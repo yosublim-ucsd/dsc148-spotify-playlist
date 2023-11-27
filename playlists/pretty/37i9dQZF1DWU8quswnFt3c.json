@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: Bellakath",
-  "num_followers": 912216,
+  "num_followers": 912185,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWZlMDUwMWRjNGZiMWRmOTZhNDVmM2M1MzliY2M0YmRhNzRjMjU4",
+  "snapshot_id": "MCw0OGUxZDZjNGQ0OTAyYTlmMWRhYmY5ZmEzZDhjOTdmYjkzY2Q3OGQz",
   "tracks": [
     {
       "added_at": "2023-11-08 04:01:00",
@@ -477,22 +477,6 @@
       "url": "https://open.spotify.com/track/7eQBzDRjBJ2bCkRKxNPbXm"
     },
     {
-      "added_at": "2023-11-08 04:01:00",
-      "album": {
-        "name": "BITE BACK",
-        "url": "https://open.spotify.com/album/3X1sMupgW7KQJQsk0QXAdM"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Wang",
-          "url": "https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP"
-        }
-      ],
-      "duration_ms": 237124,
-      "name": "\u611f\u60c5\u7528\u4e8b",
-      "url": "https://open.spotify.com/track/1MzomU1zM1oEuyIAJ1upfu"
-    },
-    {
       "added_at": "2023-11-16 09:44:48",
       "album": {
         "name": "przestrze\u0144",
@@ -507,6 +491,22 @@
       "duration_ms": 239243,
       "name": "kamfora",
       "url": "https://open.spotify.com/track/3tKMcyxM5JJTXOmim2zH3e"
+    },
+    {
+      "added_at": "2023-11-08 04:01:00",
+      "album": {
+        "name": "BITE BACK",
+        "url": "https://open.spotify.com/album/3X1sMupgW7KQJQsk0QXAdM"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Wang",
+          "url": "https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP"
+        }
+      ],
+      "duration_ms": 237124,
+      "name": "\u611f\u60c5\u7528\u4e8b",
+      "url": "https://open.spotify.com/track/1MzomU1zM1oEuyIAJ1upfu"
     },
     {
       "added_at": "2023-11-08 04:01:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-11-08 04:01:00",
       "album": {
-        "name": "I Am America",
-        "url": "https://open.spotify.com/album/0hdDylmyXxtpZdciiSaQS2"
-      },
-      "artists": [
-        {
-          "name": "Shea Diamond",
-          "url": "https://open.spotify.com/artist/5blcro89qJueGv0DGQ2rsH"
-        }
-      ],
-      "duration_ms": 171949,
-      "name": "I Am America",
-      "url": "https://open.spotify.com/track/0MkBDogipPa3FvHzlXsxqO"
-    },
-    {
-      "added_at": "2023-11-08 04:01:00",
-      "album": {
         "name": "No Te Puto Pilles",
         "url": "https://open.spotify.com/album/53RXjCnxscKdDQUsBcP4bL"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 156223,
       "name": "No Te Puto Pilles",
       "url": "https://open.spotify.com/track/4UE6QnE8VNcA0YLct7PKix"
+    },
+    {
+      "added_at": "2023-11-08 04:01:00",
+      "album": {
+        "name": "I Am America",
+        "url": "https://open.spotify.com/album/0hdDylmyXxtpZdciiSaQS2"
+      },
+      "artists": [
+        {
+          "name": "Shea Diamond",
+          "url": "https://open.spotify.com/artist/5blcro89qJueGv0DGQ2rsH"
+        }
+      ],
+      "duration_ms": 171949,
+      "name": "I Am America",
+      "url": "https://open.spotify.com/track/0MkBDogipPa3FvHzlXsxqO"
     },
     {
       "added_at": "2023-11-14 08:05:40",

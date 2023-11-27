@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Mexico.",
-  "num_followers": 215064,
+  "num_followers": 215082,
   "original_name": "Viral 50 - Mexico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzU0Mjc3NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzU0MzYzMjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-11-25 14:02:02",
+      "added_at": "2023-11-26 16:35:58",
       "album": {
         "name": "\u0414\u0436\u0430\u0433\u0430-\u0434\u0436\u0430\u0433\u0430",
         "url": "https://open.spotify.com/album/5bqf6dvtEfpmc9IqM2wSLz"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/1Hg0KhBCuME4PgsTYMBK9y"
     },
     {
-      "added_at": "2023-11-25 14:02:02",
+      "added_at": "2023-11-26 16:35:58",
       "album": {
         "name": "Talento De Vida",
         "url": "https://open.spotify.com/album/2z6GzbRNcGdp0cGOoaRLuv"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/4mWiyglEmK9eRAwMdD9tQ6"
     },
     {
-      "added_at": "2023-11-25 14:02:02",
+      "added_at": "2023-11-26 16:35:58",
       "album": {
         "name": "Patadas de Ahogado",
         "url": "https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl"
     },
     {
-      "added_at": "2023-11-25 14:02:02",
+      "added_at": "2023-11-26 16:35:58",
       "album": {
         "name": "MARTILLAZO",
         "url": "https://open.spotify.com/album/1FX1f4X5yS0wlnItHjvhvo"
@@ -85,7 +85,7 @@
       "url": "https://open.spotify.com/track/283ngLR3LX6cdq9unM7MJ0"
     },
     {
-      "added_at": "2023-11-25 14:02:02",
+      "added_at": "2023-11-26 16:35:58",
       "album": {
         "name": "DEMO #5: nostalgIA (Spanglish Version)",
         "url": "https://open.spotify.com/album/32eAYvFNmfM0HVo6zY6Lwh"
@@ -101,7 +101,7 @@
       "url": "https://open.spotify.com/track/092oBVwyJLxHnYEu5E1Rw6"
     },
     {
-      "added_at": "2023-11-25 14:02:02",
+      "added_at": "2023-11-26 16:35:58",
       "album": {
         "name": "Un Paso al Frente",
         "url": "https://open.spotify.com/album/2y9esZp2TaKQaRJwh4qvCN"
@@ -117,7 +117,7 @@
       "url": "https://open.spotify.com/track/0aTASO4cEC0nztP2ElvJ3E"
     },
     {
-      "added_at": "2023-11-25 14:02:02",
+      "added_at": "2023-11-26 16:35:58",
       "album": {
         "name": "Good God!",
         "url": "https://open.spotify.com/album/3fIxJzinc2MADbgfkLrmYY"
@@ -133,7 +133,27 @@
       "url": "https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd"
     },
     {
-      "added_at": "2023-11-25 14:02:02",
+      "added_at": "2023-11-26 16:35:58",
+      "album": {
+        "name": "Bling Bling",
+        "url": "https://open.spotify.com/album/6GnpfLqyKCSEYduuuPkZHQ"
+      },
+      "artists": [
+        {
+          "name": "Omar Estrada",
+          "url": "https://open.spotify.com/artist/6onnXFcolKcGYTLpxx2IMC"
+        },
+        {
+          "name": "Uriel Cabrera",
+          "url": "https://open.spotify.com/artist/31BXTMf3VH2s6TE9IDhaZ9"
+        }
+      ],
+      "duration_ms": 242062,
+      "name": "Bling Bling",
+      "url": "https://open.spotify.com/track/5vZIcIcFVO4MqSY9Ue0n2M"
+    },
+    {
+      "added_at": "2023-11-26 16:35:58",
       "album": {
         "name": "PARANOIA",
         "url": "https://open.spotify.com/album/1RPJNNRo1WUciegpWfioAc"
@@ -169,27 +189,7 @@
       "url": "https://open.spotify.com/track/29WxJqIfDRMo9isV07kbJP"
     },
     {
-      "added_at": "2023-11-25 14:02:02",
-      "album": {
-        "name": "Bling Bling",
-        "url": "https://open.spotify.com/album/6GnpfLqyKCSEYduuuPkZHQ"
-      },
-      "artists": [
-        {
-          "name": "Omar Estrada",
-          "url": "https://open.spotify.com/artist/6onnXFcolKcGYTLpxx2IMC"
-        },
-        {
-          "name": "Uriel Cabrera",
-          "url": "https://open.spotify.com/artist/31BXTMf3VH2s6TE9IDhaZ9"
-        }
-      ],
-      "duration_ms": 242062,
-      "name": "Bling Bling",
-      "url": "https://open.spotify.com/track/5vZIcIcFVO4MqSY9Ue0n2M"
-    },
-    {
-      "added_at": "2023-11-25 14:02:02",
+      "added_at": "2023-11-26 16:35:58",
       "album": {
         "name": "Pa las Baby's Y Belikeada",
         "url": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8"
@@ -209,7 +209,7 @@
       "url": "https://open.spotify.com/track/6CvTEtGagmzQvkUzzyKR9k"
     },
     {
-      "added_at": "2023-11-25 14:02:02",
+      "added_at": "2023-11-26 16:35:58",
       "album": {
         "name": "Con To (feat. Flow Nasty)",
         "url": "https://open.spotify.com/album/2PJRh0xPNmeEZVGNhwHGGf"
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/1QFJzim9HBPFW9E1B1333Q"
     },
     {
-      "added_at": "2023-11-25 14:02:02",
+      "added_at": "2023-11-26 16:35:58",
       "album": {
         "name": "Bugambilia",
         "url": "https://open.spotify.com/album/2Ex6JjyUiIcQRqFeoTSInw"
@@ -253,43 +253,7 @@
       "url": "https://open.spotify.com/track/5hXCTV8OCsNak8OVry7yzM"
     },
     {
-      "added_at": "2023-11-25 14:02:02",
-      "album": {
-        "name": "Kittyponeo",
-        "url": "https://open.spotify.com/album/2u2IVr3kVR13lr517rvcjM"
-      },
-      "artists": [
-        {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        },
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        }
-      ],
-      "duration_ms": 159170,
-      "name": "Reggaeton Champagne",
-      "url": "https://open.spotify.com/track/7yIIeKUxTpn36X6CFJhgEi"
-    },
-    {
-      "added_at": "2023-11-25 14:02:02",
-      "album": {
-        "name": "tu fan",
-        "url": "https://open.spotify.com/album/1vt9k84zvlnJKa3D3CNnzx"
-      },
-      "artists": [
-        {
-          "name": "mafalda cardenal",
-          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
-        }
-      ],
-      "duration_ms": 240473,
-      "name": "tu fan",
-      "url": "https://open.spotify.com/track/0tLXkjxahQsnZkKP2GXXf6"
-    },
-    {
-      "added_at": "2023-11-25 14:02:02",
+      "added_at": "2023-11-26 16:35:58",
       "album": {
         "name": "Que Onda",
         "url": "https://open.spotify.com/album/4x6cjOcVz44aiLSOHCLKPd"
@@ -313,7 +277,43 @@
       "url": "https://open.spotify.com/track/6uIIdjYTxxpWOyWuVXrKQO"
     },
     {
-      "added_at": "2023-11-25 14:02:02",
+      "added_at": "2023-11-26 16:35:58",
+      "album": {
+        "name": "Kittyponeo",
+        "url": "https://open.spotify.com/album/2u2IVr3kVR13lr517rvcjM"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        }
+      ],
+      "duration_ms": 159170,
+      "name": "Reggaeton Champagne",
+      "url": "https://open.spotify.com/track/7yIIeKUxTpn36X6CFJhgEi"
+    },
+    {
+      "added_at": "2023-11-26 16:35:58",
+      "album": {
+        "name": "tu fan",
+        "url": "https://open.spotify.com/album/1vt9k84zvlnJKa3D3CNnzx"
+      },
+      "artists": [
+        {
+          "name": "mafalda cardenal",
+          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
+        }
+      ],
+      "duration_ms": 240473,
+      "name": "tu fan",
+      "url": "https://open.spotify.com/track/0tLXkjxahQsnZkKP2GXXf6"
+    },
+    {
+      "added_at": "2023-11-26 16:35:58",
       "album": {
         "name": "Soy El Alucin",
         "url": "https://open.spotify.com/album/0WyIhR0kyAgyNR1PyV7NQH"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/4RAUld9sDjwXTAwbE3pfmi"
     },
     {
-      "added_at": "2023-11-25 14:02:02",
+      "added_at": "2023-11-26 16:35:58",
       "album": {
         "name": "GOLDEN",
         "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
@@ -345,7 +345,23 @@
       "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
     },
     {
-      "added_at": "2023-11-25 14:02:02",
+      "added_at": "2023-11-26 16:35:58",
+      "album": {
+        "name": "COSAS QUE NO TE DIJE",
+        "url": "https://open.spotify.com/album/52te2AyrVAYPc04onR1Lfy"
+      },
+      "artists": [
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 224725,
+      "name": "COSAS QUE NO TE DIJE",
+      "url": "https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z"
+    },
+    {
+      "added_at": "2023-11-26 16:35:58",
       "album": {
         "name": "QU\u00c9 ROLLITO PRIMAVERA",
         "url": "https://open.spotify.com/album/6JiecMCf6YvpuISA6rCzbc"
@@ -369,7 +385,7 @@
       "url": "https://open.spotify.com/track/3WoxwWoay78KXzGRlAm7J7"
     },
     {
-      "added_at": "2023-11-25 14:02:02",
+      "added_at": "2023-11-26 16:35:58",
       "album": {
         "name": "Again (Edit)",
         "url": "https://open.spotify.com/album/3vGWOnoKWrxkueS2VXtj4F"
@@ -385,7 +401,7 @@
       "url": "https://open.spotify.com/track/5zEBelrvQ0nQidz2Bd92q9"
     },
     {
-      "added_at": "2023-11-25 14:02:02",
+      "added_at": "2023-11-26 16:35:58",
       "album": {
         "name": "La V\u00edctima",
         "url": "https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr"
@@ -401,23 +417,7 @@
       "url": "https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY"
     },
     {
-      "added_at": "2023-11-25 14:02:02",
-      "album": {
-        "name": "COSAS QUE NO TE DIJE",
-        "url": "https://open.spotify.com/album/52te2AyrVAYPc04onR1Lfy"
-      },
-      "artists": [
-        {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        }
-      ],
-      "duration_ms": 224725,
-      "name": "COSAS QUE NO TE DIJE",
-      "url": "https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z"
-    },
-    {
-      "added_at": "2023-11-25 14:02:02",
+      "added_at": "2023-11-26 16:35:58",
       "album": {
         "name": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
         "url": "https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk"
@@ -433,7 +433,7 @@
       "url": "https://open.spotify.com/track/17cia5k4BpGVlyEfqrFH50"
     },
     {
-      "added_at": "2023-11-25 14:02:02",
+      "added_at": "2023-11-26 16:35:58",
       "album": {
         "name": "ALV",
         "url": "https://open.spotify.com/album/4AU32F3DgVEo2azUpLlNjM"
@@ -449,7 +449,7 @@
       "url": "https://open.spotify.com/track/0yBcdmjFu13pmOCowHGpzJ"
     },
     {
-      "added_at": "2023-11-25 14:02:02",
+      "added_at": "2023-11-26 16:35:58",
       "album": {
         "name": "Si No Est\u00e1s",
         "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
@@ -465,23 +465,7 @@
       "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
     },
     {
-      "added_at": "2023-11-25 14:02:02",
-      "album": {
-        "name": "Voy por todo (Corrido preview)",
-        "url": "https://open.spotify.com/album/7KGRNWaJsbLHOKwpHDqJtj"
-      },
-      "artists": [
-        {
-          "name": "Javi Olg",
-          "url": "https://open.spotify.com/artist/6m2CsiDKZyumLzUw0q4lI0"
-        }
-      ],
-      "duration_ms": 120883,
-      "name": "Voy por todo (Corrido preview)",
-      "url": "https://open.spotify.com/track/7bMXbWMInL5jfBHfMSYb9N"
-    },
-    {
-      "added_at": "2023-11-25 14:02:02",
+      "added_at": "2023-11-26 16:35:58",
       "album": {
         "name": "The Land Is Inhospitable and So Are We",
         "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
@@ -497,7 +481,27 @@
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
     },
     {
-      "added_at": "2023-11-25 14:02:02",
+      "added_at": "2023-11-26 16:35:58",
+      "album": {
+        "name": "Modo DND",
+        "url": "https://open.spotify.com/album/0HkgYr2M6KeK2dWgIJE6AC"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "duration_ms": 220298,
+      "name": "Modo DND",
+      "url": "https://open.spotify.com/track/1TEKUj8c5iyRNUUxo9SdSD"
+    },
+    {
+      "added_at": "2023-11-26 16:35:58",
       "album": {
         "name": "CHUPON",
         "url": "https://open.spotify.com/album/6iZo2sL8hRlzjikyJn5vyh"
@@ -529,7 +533,7 @@
       "url": "https://open.spotify.com/track/7v4JGOsUkblqcvOJ0YpNUU"
     },
     {
-      "added_at": "2023-11-25 14:02:02",
+      "added_at": "2023-11-26 16:35:58",
       "album": {
         "name": "R\u00e1pido Soy",
         "url": "https://open.spotify.com/album/6DOUE9WKRCWTfWZlHlY8Qr"
@@ -545,27 +549,7 @@
       "url": "https://open.spotify.com/track/492zkdiUa0CECUDyiG3d35"
     },
     {
-      "added_at": "2023-11-25 14:02:02",
-      "album": {
-        "name": "Modo DND",
-        "url": "https://open.spotify.com/album/0HkgYr2M6KeK2dWgIJE6AC"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        },
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        }
-      ],
-      "duration_ms": 220298,
-      "name": "Modo DND",
-      "url": "https://open.spotify.com/track/1TEKUj8c5iyRNUUxo9SdSD"
-    },
-    {
-      "added_at": "2023-11-25 14:02:02",
+      "added_at": "2023-11-26 16:35:58",
       "album": {
         "name": "Espantan (Remix)",
         "url": "https://open.spotify.com/album/0JRUGOfvqo7A2l6NYPnjY5"
@@ -597,27 +581,7 @@
       "url": "https://open.spotify.com/track/2EocM6oTLy6WUBTCipObqj"
     },
     {
-      "added_at": "2023-11-25 14:02:02",
-      "album": {
-        "name": "Coraz\u00f3n Fr\u00edo",
-        "url": "https://open.spotify.com/album/7aC9iMxYc7mHTN3mJWZFc1"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 263810,
-      "name": "Coraz\u00f3n Fr\u00edo",
-      "url": "https://open.spotify.com/track/0KSwFEkVh0KCBR0TwqBVen"
-    },
-    {
-      "added_at": "2023-11-25 14:02:02",
+      "added_at": "2023-11-26 16:35:58",
       "album": {
         "name": "Dembow Zumba La Srt",
         "url": "https://open.spotify.com/album/50vUKq806a2UejX9FCVGwz"
@@ -637,7 +601,27 @@
       "url": "https://open.spotify.com/track/0Pqo8dMSWl0FTHSqcrZlgB"
     },
     {
-      "added_at": "2023-11-25 14:02:02",
+      "added_at": "2023-11-26 16:35:58",
+      "album": {
+        "name": "Coraz\u00f3n Fr\u00edo",
+        "url": "https://open.spotify.com/album/7aC9iMxYc7mHTN3mJWZFc1"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 263810,
+      "name": "Coraz\u00f3n Fr\u00edo",
+      "url": "https://open.spotify.com/track/0KSwFEkVh0KCBR0TwqBVen"
+    },
+    {
+      "added_at": "2023-11-26 16:35:58",
       "album": {
         "name": "$AD BOYZ 4 LIFE II",
         "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
@@ -653,7 +637,39 @@
       "url": "https://open.spotify.com/track/6RcAHyC5sAUIbPTkhOQwd8"
     },
     {
-      "added_at": "2023-11-25 14:02:02",
+      "added_at": "2023-11-26 16:35:58",
+      "album": {
+        "name": "Voy por todo (Corrido preview)",
+        "url": "https://open.spotify.com/album/7KGRNWaJsbLHOKwpHDqJtj"
+      },
+      "artists": [
+        {
+          "name": "Javi Olg",
+          "url": "https://open.spotify.com/artist/6m2CsiDKZyumLzUw0q4lI0"
+        }
+      ],
+      "duration_ms": 120883,
+      "name": "Voy por todo (Corrido preview)",
+      "url": "https://open.spotify.com/track/7bMXbWMInL5jfBHfMSYb9N"
+    },
+    {
+      "added_at": "2023-11-26 16:35:58",
+      "album": {
+        "name": "Dear Insanity...",
+        "url": "https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 204880,
+      "name": "Don't Go Insane",
+      "url": "https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg"
+    },
+    {
+      "added_at": "2023-11-26 16:35:58",
       "album": {
         "name": "LA MONJA (Remix)",
         "url": "https://open.spotify.com/album/6uGMsmWdKqf3B4AcAhAjU0"
@@ -673,39 +689,7 @@
       "url": "https://open.spotify.com/track/18e4G6ufZ2K3wH9CM374t1"
     },
     {
-      "added_at": "2023-11-25 14:02:02",
-      "album": {
-        "name": "Cumbia de Marisol",
-        "url": "https://open.spotify.com/album/61sd5yEb8gDv6Ey9vHi0nE"
-      },
-      "artists": [
-        {
-          "name": "Supergrupo Son Tepito",
-          "url": "https://open.spotify.com/artist/2OsVjQ6haJx589IpLmpYBp"
-        }
-      ],
-      "duration_ms": 253266,
-      "name": "Cumbia de Marisol",
-      "url": "https://open.spotify.com/track/3S03VuRu7nAkPHisVB87ma"
-    },
-    {
-      "added_at": "2023-11-25 14:02:02",
-      "album": {
-        "name": "Dear Insanity...",
-        "url": "https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 204880,
-      "name": "Don't Go Insane",
-      "url": "https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg"
-    },
-    {
-      "added_at": "2023-11-25 14:02:02",
+      "added_at": "2023-11-26 16:35:58",
       "album": {
         "name": "LOU LOU",
         "url": "https://open.spotify.com/album/1sHlTAYqr45xrIUxcDrkmn"
@@ -725,23 +709,23 @@
       "url": "https://open.spotify.com/track/3FvTHuefYV6TxE3Kseqno8"
     },
     {
-      "added_at": "2023-11-25 14:02:02",
+      "added_at": "2023-11-26 16:35:58",
       "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+        "name": "Cumbia de Marisol",
+        "url": "https://open.spotify.com/album/61sd5yEb8gDv6Ey9vHi0nE"
       },
       "artists": [
         {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "Supergrupo Son Tepito",
+          "url": "https://open.spotify.com/artist/2OsVjQ6haJx589IpLmpYBp"
         }
       ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
+      "duration_ms": 253266,
+      "name": "Cumbia de Marisol",
+      "url": "https://open.spotify.com/track/3S03VuRu7nAkPHisVB87ma"
     },
     {
-      "added_at": "2023-11-25 14:02:02",
+      "added_at": "2023-11-26 16:35:58",
       "album": {
         "name": "O Me Voy O Te Vas",
         "url": "https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97"
@@ -757,7 +741,7 @@
       "url": "https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ"
     },
     {
-      "added_at": "2023-11-25 14:02:02",
+      "added_at": "2023-11-26 16:35:58",
       "album": {
         "name": "LAS QUE NO TIENEN PAP\u00c1",
         "url": "https://open.spotify.com/album/4jV2xPaptwajnBeamcIhbf"
@@ -773,7 +757,23 @@
       "url": "https://open.spotify.com/track/6TS8WvNunHz3sIePWAxYfE"
     },
     {
-      "added_at": "2023-11-25 14:02:02",
+      "added_at": "2023-11-26 16:35:58",
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
+    },
+    {
+      "added_at": "2023-11-26 16:35:58",
       "album": {
         "name": "ANDO",
         "url": "https://open.spotify.com/album/6UJ9acnNOzxZCq9lv8Mo8D"
@@ -793,31 +793,7 @@
       "url": "https://open.spotify.com/track/6hwGwCfCwHoSJQw7AYPEQu"
     },
     {
-      "added_at": "2023-11-25 14:02:02",
-      "album": {
-        "name": "Poeta Callejero",
-        "url": "https://open.spotify.com/album/2sTSCaVwAZ0mviMAYXsnw7"
-      },
-      "artists": [
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Gitana",
-          "url": "https://open.spotify.com/artist/7a3wVpLMG9QlXRJBlZvg6B"
-        },
-        {
-          "name": "Dj Kiire",
-          "url": "https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Az\u00f3tame",
-      "url": "https://open.spotify.com/track/5X6RUH7eLa8YrgnWnPijXg"
-    },
-    {
-      "added_at": "2023-11-25 14:02:02",
+      "added_at": "2023-11-26 16:35:58",
       "album": {
         "name": "Otro Show",
         "url": "https://open.spotify.com/album/5KXm7Y71y5UX1KxDLnloGU"
@@ -841,7 +817,47 @@
       "url": "https://open.spotify.com/track/0uBrQT9ny21InKVEsc7lm2"
     },
     {
-      "added_at": "2023-11-25 14:02:02",
+      "added_at": "2023-11-26 16:35:58",
+      "album": {
+        "name": "ABRE LAS PATOTAS",
+        "url": "https://open.spotify.com/album/1Vj0Z6awDhe0HEwvnkydJI"
+      },
+      "artists": [
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        }
+      ],
+      "duration_ms": 169386,
+      "name": "ABRE LAS PATOTAS",
+      "url": "https://open.spotify.com/track/6G75x2FTJ8JSO5iLPKhcYs"
+    },
+    {
+      "added_at": "2023-11-26 16:35:58",
+      "album": {
+        "name": "Poeta Callejero",
+        "url": "https://open.spotify.com/album/2sTSCaVwAZ0mviMAYXsnw7"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Gitana",
+          "url": "https://open.spotify.com/artist/7a3wVpLMG9QlXRJBlZvg6B"
+        },
+        {
+          "name": "Dj Kiire",
+          "url": "https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Az\u00f3tame",
+      "url": "https://open.spotify.com/track/5X6RUH7eLa8YrgnWnPijXg"
+    },
+    {
+      "added_at": "2023-11-26 16:35:58",
       "album": {
         "name": "ELOVRGA",
         "url": "https://open.spotify.com/album/2EmOYnsIj3bkiPYTuhsqZR"
@@ -865,39 +881,7 @@
       "url": "https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE"
     },
     {
-      "added_at": "2023-11-25 14:02:02",
-      "album": {
-        "name": "The Beatles 1967 \u2013 1970 (2023 Edition)",
-        "url": "https://open.spotify.com/album/2AlPRfYeskAMxhJS00xjeP"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 248640,
-      "name": "Now And Then",
-      "url": "https://open.spotify.com/track/7eT64Q8X2RsgMm4lqtWK4n"
-    },
-    {
-      "added_at": "2023-11-25 14:02:02",
-      "album": {
-        "name": "ABRE LAS PATOTAS",
-        "url": "https://open.spotify.com/album/1Vj0Z6awDhe0HEwvnkydJI"
-      },
-      "artists": [
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        }
-      ],
-      "duration_ms": 169386,
-      "name": "ABRE LAS PATOTAS",
-      "url": "https://open.spotify.com/track/6G75x2FTJ8JSO5iLPKhcYs"
-    },
-    {
-      "added_at": "2023-11-25 14:02:02",
+      "added_at": "2023-11-26 16:35:58",
       "album": {
         "name": "Ojo X Ojo",
         "url": "https://open.spotify.com/album/3z2e4ob5NdNuKyyGhOgB5W"
@@ -913,7 +897,7 @@
       "url": "https://open.spotify.com/track/0W4yC1CrhJVQCpcFrB6oGU"
     },
     {
-      "added_at": "2023-11-25 14:02:02",
+      "added_at": "2023-11-26 16:35:58",
       "album": {
         "name": "Perfect Night",
         "url": "https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6"
@@ -929,7 +913,27 @@
       "url": "https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8"
     },
     {
-      "added_at": "2023-11-25 14:02:02",
+      "added_at": "2023-11-26 16:35:58",
+      "album": {
+        "name": "Black Sheep (Brie Larson Vocal Version)",
+        "url": "https://open.spotify.com/album/3blvQlrV0IeDBOWqDz2yYd"
+      },
+      "artists": [
+        {
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+        },
+        {
+          "name": "Brie Larson",
+          "url": "https://open.spotify.com/artist/7g77hiv179GYIwhfCgETGy"
+        }
+      ],
+      "duration_ms": 294065,
+      "name": "Black Sheep - Brie Larson Vocal Version",
+      "url": "https://open.spotify.com/track/60TThBDrPpek5k520l0W0L"
+    },
+    {
+      "added_at": "2023-11-26 16:35:58",
       "album": {
         "name": "SPECIALZ",
         "url": "https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc"
@@ -945,20 +949,20 @@
       "url": "https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF"
     },
     {
-      "added_at": "2023-11-25 14:02:02",
+      "added_at": "2023-11-26 16:35:58",
       "album": {
-        "name": "1989 (Taylor's Version)",
-        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+        "name": "The Beatles 1967 \u2013 1970 (2023 Edition)",
+        "url": "https://open.spotify.com/album/2AlPRfYeskAMxhJS00xjeP"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 146436,
-      "name": "Now That We Don't Talk (Taylor's Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/5KD6AEm19QnMbfWpfoOHMl"
+      "duration_ms": 248640,
+      "name": "Now And Then",
+      "url": "https://open.spotify.com/track/7eT64Q8X2RsgMm4lqtWK4n"
     }
   ],
   "unique_name": "Viral 50 - Mexico",

@@ -909,6 +909,24 @@
     },
     {
       "album": {
+        "name": "Back in the Village",
+        "url": "https://open.spotify.com/album/201oJA5eb4m9kl57WySUIF"
+      },
+      "artists": [
+        {
+          "name": "Cordell Zoe",
+          "url": "https://open.spotify.com/artist/1HVeNsc2IF1ob1427YyiRc"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134653,
+      "name": "Back in the Village",
+      "url": "https://open.spotify.com/track/1ThpkLTeAScDpOmm7NHSec"
+    },
+    {
+      "album": {
         "name": "Barefoot Again",
         "url": "https://open.spotify.com/album/7bxvPmLbLvLwArNY4bJz3J"
       },
@@ -5116,7 +5134,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-27",
       "duration_ms": 121500,
       "name": "L'amour au quotidien",
       "url": "https://open.spotify.com/track/48ny2v2vWno2OfQCmAFg91"

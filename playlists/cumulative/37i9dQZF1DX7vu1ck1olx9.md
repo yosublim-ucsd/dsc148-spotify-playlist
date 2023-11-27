@@ -4,7 +4,7 @@
 
 > Cool down with these chill beats
 
-249 songs - 10 hr 3 min
+250 songs - 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Good Evening](https://open.spotify.com/track/3xSCsPe98emSQSpxCtIkhv) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Good Evening](https://open.spotify.com/album/4lF7OpXCx2JnngN8zeCxMJ) | 2:01 | 2020-11-12 | 2022-07-17 |
 | [Good Evening](https://open.spotify.com/track/5bWvhoW0YfVHgi0IVUl0UG) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Boardwalk Bumps 3](https://open.spotify.com/album/5fRcJfizpJZfVhYr66e7ts) | 2:01 | 2020-11-12 | 2023-11-24 |
 | [Good Riddance](https://open.spotify.com/track/1TokDvDC322LNnDEUqL4uv) | [Bad Gherkin](https://open.spotify.com/artist/15UGYmHXzD3KwCDTE2Xa4B) | [Good Riddance](https://open.spotify.com/album/6U0FtCx12gkLnR4oD55oj9) | 2:20 | 2023-11-17 |  |
+| [green velvet](https://open.spotify.com/track/6v5wgMNhYbZk92SPY88lNm) | [Chekkerz](https://open.spotify.com/artist/4ymqiB3DtTzSICNZMScTKz) | [green velvet](https://open.spotify.com/album/2B893F73aIVF7MJ36y9evq) | 2:11 | 2023-11-24 |  |
 | [Grounding](https://open.spotify.com/track/5wMvw6fFXoeINA8v4Ru13n) | [Chalk Gang](https://open.spotify.com/artist/7nKTvkyNv3iatiJ0A4lBr7) | [Grounding](https://open.spotify.com/album/2KqN3WUFFfQmRhRtVacP4N) | 2:42 | 2023-10-27 |  |
 | [Habitual Words](https://open.spotify.com/track/2IB7U1RPRbCuPspDCq1ecj) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Deeb](https://open.spotify.com/artist/1d9MVFeVkGTYnRNMlNe0dz) | [Twin](https://open.spotify.com/album/3UE5nSckTW1SSgepfBbabG) | 4:15 | 2020-11-12 | 2023-10-29 |
 | [Haru](https://open.spotify.com/track/0fLIRPJy4J2JXZXy80Oaek) | [Elijah Nang](https://open.spotify.com/artist/0yIO6HI875mLzamqmjjFFU) | [Chillhop Essentials Spring 2017](https://open.spotify.com/album/0Mr3TYA4sKQVPUeQp16Q7i) | 2:43 | 2020-11-12 |  |
@@ -188,7 +189,7 @@
 | [Serenity](https://open.spotify.com/track/44Enofs0bXrGNbKuqtdx0k) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Kingdom in Blue](https://open.spotify.com/album/7boAU92M1FypSBlYz0aeSg) | 3:12 | 2020-11-12 | 2023-09-16 |
 | [Serenity](https://open.spotify.com/track/4x1mZMYf8E239Ug0VeYvzQ) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Kingdom in Blue](https://open.spotify.com/album/4n4VJqnZTaPg41iDIakpmE) | 3:12 | 2020-11-12 | 2022-07-29 |
 | [Sesame](https://open.spotify.com/track/2bS8fi0PnaVWjtPWmGqj5j) | [EMERLD](https://open.spotify.com/artist/4u3lbIhbrOqejxRJhK6Wjp), [Buuda](https://open.spotify.com/artist/23wfDzAGsBklQCozMdlnCy) | [Coffee Beats](https://open.spotify.com/album/3YzLE1tSMOuHt1XfAir75z) | 2:33 | 2020-11-12 | 2022-07-29 |
-| [Sesame](https://open.spotify.com/track/2ZDZ4XT0yFmC5kEACI2pwV) | [EMERLD](https://open.spotify.com/artist/4u3lbIhbrOqejxRJhK6Wjp), [Buuda](https://open.spotify.com/artist/23wfDzAGsBklQCozMdlnCy) | [Coffee Beats](https://open.spotify.com/album/3goNpzRpK4nIJr9vIMF3Ks) | 2:33 | 2023-11-24 |  |
+| [Sesame](https://open.spotify.com/track/2ZDZ4XT0yFmC5kEACI2pwV) | [EMERLD](https://open.spotify.com/artist/4u3lbIhbrOqejxRJhK6Wjp), [Buuda](https://open.spotify.com/artist/23wfDzAGsBklQCozMdlnCy) | [Coffee Beats](https://open.spotify.com/album/3goNpzRpK4nIJr9vIMF3Ks) | 2:33 | 2023-11-24 | 2023-11-27 |
 | [shelter](https://open.spotify.com/track/2RyZjcwgW7X3eMm38hZ0zo) | [Kolorama](https://open.spotify.com/artist/7KYVAGDhdO4DJ4qyeTWpcC) | [shelter](https://open.spotify.com/album/2luq40AQDoOiR5hkbogFIc) | 2:05 | 2023-10-27 |  |
 | [Shelter](https://open.spotify.com/track/6k1foZCmEKnMrLAd3nKlkT) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Shelter](https://open.spotify.com/album/0kLQU10QiF47j6ttLaBKcu) | 1:57 | 2020-11-12 | 2023-07-07 |
 | [Shelter](https://open.spotify.com/track/6ls8MehGgZkb3ERkAacm6q) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Shelter](https://open.spotify.com/album/7fSnzb7V35K2jhUf5ZHtX0) | 1:57 | 2020-11-12 |  |

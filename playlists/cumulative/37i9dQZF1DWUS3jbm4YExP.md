@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-627 songs - 1 day 21 hr 13 min
+628 songs - 1 day 21 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [Haditouni \(Habibi Funk 015\)](https://open.spotify.com/track/5NS5Cu30CbNTBVKhh1feTX) | [Douaa](https://open.spotify.com/artist/4iAexb7ScY5FYSUsViF4io) | [Haditouni \(Habibi Funk 015\)](https://open.spotify.com/album/6RUXZAg8m4ye6BYiZbTVD2) | 3:25 | 2021-10-06 |  |
 | [Hala](https://open.spotify.com/track/5riV4PEO5qOgM5mnTJcqMo) | [Liraz](https://open.spotify.com/artist/0qTgfqWyTcC1VAYn2vSMpk) | [Zan](https://open.spotify.com/album/3gzvo3s0ZBcBaQ5AJeYR77) | 3:45 | 2022-03-16 | 2022-04-11 |
 | [Hana Mash Hu Al Yaman](https://open.spotify.com/track/31SocnpUpBkeybeT5UsY65) | [A\-WA](https://open.spotify.com/artist/1EK3SHXyGFZsuj4vrOLhAX) | [Bayti Fi Rasi](https://open.spotify.com/album/46reac1ZzkmCPcHpRMgniL) | 4:11 | 2022-03-16 | 2023-11-05 |
+| [Hana Mash Hu Al Yaman](https://open.spotify.com/track/4tnksYPh1C7j4qEoJipDFO) | [A\-WA](https://open.spotify.com/artist/1EK3SHXyGFZsuj4vrOLhAX) | [Bayti Fi Rasi](https://open.spotify.com/album/7MV14EK7eAdEZdDVB5xHk6) | 4:11 | 2023-11-17 |  |
 | [Hang Tuah \- Frente Cumbiero Remix](https://open.spotify.com/track/0f9EYFymFDnBj585AACYqN) | [Lachinos](https://open.spotify.com/artist/4v8zUs5mBUacLCKyexGeOr), [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Hang Tuah \(Frente Cumbiero Remix\)](https://open.spotify.com/album/46goWAuhamsRVnyIUvrFzT) | 4:17 | 2021-10-06 | 2022-06-21 |
 | [Hayeelin](https://open.spotify.com/track/7qBmYbJW3AKHGxbRXlOpWQ) | [Dur\-Dur Band](https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF) | [Volume 5](https://open.spotify.com/album/3vljYoTzf9am5UQL3lzBhE) | 5:40 | 2021-10-06 | 2022-07-28 |
 | [Hei! Você](https://open.spotify.com/track/3Ztfe3UOfRkjTpajSYZ4qy) | [Dom Salvador & Abolição](https://open.spotify.com/artist/0Aanlviesqoy29lgsP9OC6) | [Série Samba Soul](https://open.spotify.com/album/6D52C2o93yMKyXqOiXRd3A) | 2:32 | 2021-10-06 |  |
@@ -617,7 +618,7 @@
 | [Yardley Suite](https://open.spotify.com/track/2u9mRfYp5vzMCCSLxS85X9) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Yardley Suite](https://open.spotify.com/album/1MVB8WaiCepzmHVvX741WN) | 3:55 | 2021-10-06 | 2022-04-15 |
 | [Yardley Suite](https://open.spotify.com/track/3FLsuVjJ5Ioqb1hgst8N1b) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Yardley Suite](https://open.spotify.com/album/6GYzn93otdQDLDrlHx3mSX) | 3:55 | 2023-08-31 |  |
 | [Yaykatekar Dub \(Love Dub\)](https://open.spotify.com/track/1nkKYuTCHJAczQSpbgigO9) | [OKI](https://open.spotify.com/artist/1DyqDoMaDbFucSdywPnwhO) | [Yaykatekara Dub \(Love Dub\)](https://open.spotify.com/album/143yn83F4xFKVKSWmAFPlb) | 5:10 | 2022-02-03 | 2022-07-29 |
-| [Yaykatekar Dub \(Love Dub\)](https://open.spotify.com/track/6RAt5KUqAzW3XT8pVHTuTT) | [OKI](https://open.spotify.com/artist/1DyqDoMaDbFucSdywPnwhO) | [Tonkori In The Moonlight](https://open.spotify.com/album/5R83YBUE67ySdEaSc1Wpsx) | 5:10 | 2023-10-29 |  |
+| [Yaykatekar Dub \(Love Dub\)](https://open.spotify.com/track/6RAt5KUqAzW3XT8pVHTuTT) | [OKI](https://open.spotify.com/artist/1DyqDoMaDbFucSdywPnwhO) | [Tonkori In The Moonlight](https://open.spotify.com/album/5R83YBUE67ySdEaSc1Wpsx) | 5:10 | 2023-10-29 | 2023-11-27 |
 | [Yeanoh \(Powe'hande Binga'dbe\)](https://open.spotify.com/track/0IVlx6wUnkGmU8zWXznnf1) | [Kondi Band](https://open.spotify.com/artist/2IPZPCen311aH09425TKpF) | [Belle Wahallah](https://open.spotify.com/album/757OI3ObWjiqLTkU6TEFkc) | 5:26 | 2021-10-06 |  |
 | [Yeanoh \(Powe'hande Binga'dbe\)](https://open.spotify.com/track/7L667oKoPNZZQW6AMuxK9a) | [Kondi Band](https://open.spotify.com/artist/2IPZPCen311aH09425TKpF) | [Belle Wahallah](https://open.spotify.com/album/6zfD5ApPpXLXFXqNoaX7b6) | 5:26 | 2021-10-06 | 2022-07-29 |
 | [Yellow Sari](https://open.spotify.com/track/2xRB7a9UJXns10FMexgKn8) | [JJ Whitefield](https://open.spotify.com/artist/1YkLBP9z7ymGS5FXHMEl5S) | [Yellow Sari](https://open.spotify.com/album/2c0QZvuJ1KGVT4mD8rRQCb) | 3:00 | 2021-10-06 | 2022-07-13 |

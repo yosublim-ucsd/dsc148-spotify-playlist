@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFhnU8yozBd.md) - [plain]
 
 > <a href="spotify:artist:7wXTWO45lqpUejDkike0Gf">Sofia Kourtesis</a>'s favorite tracks\. Updated regularly\. Curated by Sofia Kourtesis\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,189 likes - 100 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,214 likes - 100 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFhnU8yozBd.md) - [plain]
 | 30 | [Matrix \- Sofia Kourtesis Remix](https://open.spotify.com/track/5hjiRNGMYjihPgvNl12W0A) | [Perel](https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Matrix \(Sofia Kourtesis Remix\)](https://open.spotify.com/album/3GWAJo3AAQVbQjaBVgEVcn) | 6:44 |
 | 31 | [Tienaté](https://open.spotify.com/track/1SIXMGcsAeA6sNxaY1EG3O) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Bar Mediterraneo](https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS) | 4:38 |
 | 32 | [Glints](https://open.spotify.com/track/4HaqphXEt6efmGX8yTsFmB) | [Frits Wentink](https://open.spotify.com/artist/6RU8a6xLRtKJckACb5wf5D) | [Rarely Pure, Never Simple](https://open.spotify.com/album/40F68tBDpXPfyk4438lwxB) | 5:54 |
-| 33 | [Heaven Is Where You Are \(Dave DK Remix\)](https://open.spotify.com/track/6pFcrZ44tF6NWT4YGG67br) | [Pantha Du Prince](https://open.spotify.com/artist/7Go2Fj2YWEQkYBqTVQArYi), [Dave DK](https://open.spotify.com/artist/0tkgaQKFblaI5WZaV8WPA1) | [Heaven Is Where You Are \(Dave DK Remix\)](https://open.spotify.com/album/7vamx5JEfaM67VsNIAd1EE) | 6:15 |
+| 33 | [Heaven Is Where You Are \(Dave DK Remix\)](https://open.spotify.com/track/0QEPupo0hvgEOOqb8e7R2H) | [Pantha Du Prince](https://open.spotify.com/artist/7Go2Fj2YWEQkYBqTVQArYi), [Dave DK](https://open.spotify.com/artist/0tkgaQKFblaI5WZaV8WPA1) | [Garden Gaia Remixes](https://open.spotify.com/album/7BfEieD8wRanTgqgRy3rGg) | 6:17 |
 | 34 | [Nices Wölkchen](https://open.spotify.com/track/78WXbs2VMEGYXoGPyokKXZ) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Apparat](https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot) | [Amygdala](https://open.spotify.com/album/4W6mTFGMa5Zc4lWp7sOifv) | 5:31 |
 | 35 | [Memory Lake](https://open.spotify.com/track/27wL9Cip8cgvtNRFNpkvcV) | [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H) | [Vortex](https://open.spotify.com/album/2UB4seNzh7Gt4unJR2T0x1) | 5:39 |
 | 36 | [Mermaids On Acid](https://open.spotify.com/track/1Dj2EvuZWH7fkovM61Xh0T) | [Sedef Adasi](https://open.spotify.com/artist/4jY1cwyuyqQATeSI16ZeYD) | [Mermaids On Acid](https://open.spotify.com/album/3XzMBTlN73SweePab35Mqp) | 4:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFhnU8yozBd.md) - [plain]
 | 99 | [Moninga](https://open.spotify.com/track/4P79noXrKGHrYUrsZioxjv) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Sarita Colonia](https://open.spotify.com/album/51Feoswkepa9SEg307gah5) | 4:55 |
 | 100 | [Balance \- Dj Floor Remix](https://open.spotify.com/track/0zKxARvuFIfUMx1MiuZaMR) | [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6), [DJ Floor](https://open.spotify.com/artist/6BuZRXj92YFV1pm7G8ZEyY) | [Balance \(Remixes\)](https://open.spotify.com/album/2OYcucJqPHC9paken1byEp) | 4:07 |
 
-Snapshot ID: `MCxjZWY1NTRmOGIyNmNmZGRlYWRmNzMzMmQ5ODk5ZWE2YzJlNTI5YTNk`
+Snapshot ID: `MCw1MTA3YTc3MjRmNmJhY2YzMTkzMjcxYjQxMGM0M2Q3MjkwYzU5MTI4`

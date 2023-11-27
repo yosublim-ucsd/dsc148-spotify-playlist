@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 23 | [Motion](https://open.spotify.com/track/0VjRIxjA45j70FcF7kppUJ) | [mmmarkos!](https://open.spotify.com/artist/6HUKogubmqdjrszLGzbKxW) | [Preliminer](https://open.spotify.com/album/0vkgsniyzVbBB0dnaCy1gC) | 2:58 |
 | 24 | [Slow Dance](https://open.spotify.com/track/6ryctUvmcZ8WiTQOu7xBrb) | [Ivan Tandyo](https://open.spotify.com/artist/2qi45OSWJeq0lyAng2Lh5Y) | [Slow Dance](https://open.spotify.com/album/55dQDJraxmPTaJAVVVn5gS) | 4:04 |
 | 25 | [Siapa pun Aku](https://open.spotify.com/track/7fvA32seJt22HR8klkLNCJ) | [Stephanie Erastus](https://open.spotify.com/artist/0AXtBFvWqnMIc8AFR0W4J6) | [Siapa pun Aku](https://open.spotify.com/album/50tPSbiihlWOtIBr4P9axo) | 5:28 |
-| 26 | [SACRIFICE \(feat\. HRZN\)](https://open.spotify.com/track/1tfsNhd3HBGLbR5p3dkwQp) | [CVX](https://open.spotify.com/artist/3YDAdiXuKjmL0SsiCr1eyz), [HRZN](https://open.spotify.com/artist/1pybYbXuGaOQGvNIS5md7p) | [SACRIFICE \(feat\. HRZN\)](https://open.spotify.com/album/7lPnlIWq65DjPbkZxZCmUd) | 2:21 |
+| 26 | [SACRIFICE \(feat\. HRZN\)](https://open.spotify.com/track/1tfsNhd3HBGLbR5p3dkwQp) | [CVX](https://open.spotify.com/artist/3YDAdiXuKjmL0SsiCr1eyz), [HRZN](https://open.spotify.com/artist/5GgW9kZdiWNHkqlxAjvcP6) | [SACRIFICE \(feat\. HRZN\)](https://open.spotify.com/album/7lPnlIWq65DjPbkZxZCmUd) | 2:21 |
 | 27 | [Never Be Yours \(Acoustic\)](https://open.spotify.com/track/2VYh5HVT7LNWDGFYraBIrw) | [Naomi Ivo](https://open.spotify.com/artist/0dXFu1nUJiE7LJuNlkzS4g) | [Never Be Yours \(Acoustic\)](https://open.spotify.com/album/1ov2tV80xDDhC8nVtE0yJM) | 3:24 |
 | 28 | [Matematika Cinta](https://open.spotify.com/track/7HgP1kHySXYNzGPpQ8rdlY) | [Aidil Saputra](https://open.spotify.com/artist/3kaVaY8A7Qe48YCkJuZZXd) | [Matematika Cinta](https://open.spotify.com/album/1JJ5rkhnUTTaLq9DsIIvwC) | 3:14 |
 | 29 | [Sejuta Miliar Dunia](https://open.spotify.com/track/2WqJ37P5GBXLXRkI2wLwZo) | [Sheemar](https://open.spotify.com/artist/39ALTxB78V8iEZbk5Q7D7h), [Melanie Putria](https://open.spotify.com/artist/6pFL2wbw65ZTXhtrvYIpem) | [Sejuta Miliar Dunia](https://open.spotify.com/album/7cGMUJGQj1x256p0rLo1la) | 3:48 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 94 | [Percaya](https://open.spotify.com/track/0BWpfPvl4jqaTohIZXxVRv) | [YUNOYA](https://open.spotify.com/artist/37IiNPMn4mV08ThuK5V8XG) | [Percaya](https://open.spotify.com/album/26lEJRAEKIEsmIotZCMSau) | 3:00 |
 | 95 | [SHANGHAI](https://open.spotify.com/track/61ofgQLjB8v1PavDMDDtPv) | [Heaven Affair](https://open.spotify.com/artist/2Or6tFioqVmu3O4sEGHlaW) | [SHANGHAI](https://open.spotify.com/album/79CbzZWF6uCUvWYyQjYA7K) | 4:49 |
 
-Snapshot ID: `MCw4YWVkZTZiM2Q0N2YxMzlhYTkxYWQ3Y2M4MmY0YWM3ZmM4OGY3Y2U2`
+Snapshot ID: `MCwzOTIwNDBhOGNlZTI3MjNjNzMxZTEzMDRmOWNlMjZkOWY0MzZkY2Vk`

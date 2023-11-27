@@ -1,12 +1,12 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 788213,
+  "num_followers": 788352,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNWEyZWNjYmNiMWYxNmRhNjAzYjMzMjE5ZDZlNDcyNWYwMTQxNTA1",
+  "snapshot_id": "MCxlY2Q4MDZmNTJiYmY3ODNiNWVlMjNkOTc4YWRhNmUyY2RkMDhlNDJl",
   "tracks": [
     {
       "added_at": "2023-11-24 15:08:43",
@@ -1219,18 +1219,26 @@
     {
       "added_at": "2023-11-24 15:08:43",
       "album": {
-        "name": "Vidas Pra Contar",
-        "url": "https://open.spotify.com/album/1oUVz3XYuycGaodvUPce2M"
+        "name": "N\u00f3s e o Mar",
+        "url": "https://open.spotify.com/album/2D17MtpiNuMjRABN5GpviU"
       },
       "artists": [
         {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
+        },
+        {
+          "name": "Diogo Monzo",
+          "url": "https://open.spotify.com/artist/5WQDCMkE5lMq5H0lkHKQmc"
+        },
+        {
+          "name": "Ricardo Bacelar",
+          "url": "https://open.spotify.com/artist/0ydGW5O1ai60prNBXKWSbF"
         }
       ],
-      "duration_ms": 261642,
-      "name": "N\u00e3o \u00c9 um Bolero",
-      "url": "https://open.spotify.com/track/25D9YD6JDfQnWzPqgM9osJ"
+      "duration_ms": 233273,
+      "name": "O Barquinho",
+      "url": "https://open.spotify.com/track/1wfW4rHqRsodDpnH1fOD5R"
     }
   ],
   "unique_name": "Cafezinho",

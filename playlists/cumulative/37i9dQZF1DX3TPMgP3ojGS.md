@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,774 songs - 3 day 7 hr 27 min
+1,775 songs - 3 day 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,6 +371,7 @@
 | [Desenlace](https://open.spotify.com/track/2nLJMA693clFEHKBi9de3i) | [Reivaj Ebol](https://open.spotify.com/artist/0qzn5WRrlF1GhZi4Bf95Tz) | [Emociones](https://open.spotify.com/album/4yjNn6XnKBS6eAkpIeKa88) | 2:50 | 2022-09-29 | 2022-12-24 |
 | [Despair](https://open.spotify.com/track/4ltFUwVA65LD3vgoFQo68b) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [Despair](https://open.spotify.com/album/0L9vIwfTY6FIZexNc1aq27) | 3:14 | 2021-04-28 | 2022-04-19 |
 | [Deux](https://open.spotify.com/track/3HZF4X9kNjSDLppU9aw01r) | [Valerie Renaud](https://open.spotify.com/artist/1GgQvtLPuHNOXTFtsUO7Lq) | [Deux](https://open.spotify.com/album/7b3eeTtobX08kn1qW1ljWb) | 3:03 | 2022-05-03 | 2022-07-13 |
+| [Diaphanous](https://open.spotify.com/track/3xdDoLDyvsMgyl1BwVaZ5E) | [Arden Brooks](https://open.spotify.com/artist/1u0BwfDCRUJ9WlO9YVpZ1m) | [Diaphanous](https://open.spotify.com/album/11WJw1yb4yuNMtrwqU8FHS) | 2:53 | 2023-11-21 |  |
 | [Die Amsel](https://open.spotify.com/track/4fQDNzhiPAryhqihnOlsCi) | [Graham Potter](https://open.spotify.com/artist/44yL8NZimkcLdA63E4vEl8) | [Die Amsel](https://open.spotify.com/album/5FFbYlcyUHVj0okb8qCjnZ) | 2:35 | 2021-05-08 | 2022-04-21 |
 | [Die Gezeiten](https://open.spotify.com/track/7kpSen9M7o8eyjoVzOFDIp) | [Franz Widmer](https://open.spotify.com/artist/5UW35z0ndAo5x5dVskuvpl) | [Still wie die Nacht](https://open.spotify.com/album/5LoxreS0o3qQ7Hjt4EXN6q) | 2:00 | 2021-03-06\* | 2021-05-23 |
 | [Dienstag nachmittag](https://open.spotify.com/track/5MMqTH7V8QvIKIILOHPmIU) | [Anke Reinhardt](https://open.spotify.com/artist/3wZyOxY1c2Lz733Ppflv0X) | [Dienstag nachmittag](https://open.spotify.com/album/3wsioAsMpjq7mbB1LqNnWO) | 1:14 | 2022-03-29 | 2022-05-05 |
@@ -1382,7 +1383,7 @@
 | [Sonnet 1](https://open.spotify.com/track/5VKVUectaKrr9Mq9m3fnWT) | [Frederico Morales](https://open.spotify.com/artist/43oHV1OfcYMyNvj7pwUhTx) | [Sonnet 1](https://open.spotify.com/album/61quLSJezCtYqMsoy6pMAz) | 2:11 | 2023-07-06 |  |
 | [Sono innamorato](https://open.spotify.com/track/3QrzFS2f3ARIKlZNAROUDB) | [Antoine Di Luzio](https://open.spotify.com/artist/0nvI5DwMokXVsbHH7sBuwv) | [Sono innamorato](https://open.spotify.com/album/25UUV79Ir4jFcopJDYu20R) | 2:30 | 2021-12-09 | 2022-06-09 |
 | [Soothe](https://open.spotify.com/track/0TA4KpQK657wXKvW3X0Oxf) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [All Behind Us](https://open.spotify.com/album/4hwIH1YgDbVfPSGjelmO08) | 2:30 | 2021-04-23 | 2022-03-28 |
-| [Sou](https://open.spotify.com/track/0tMRFAZNW3Mu4cMV0QUw0Q) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Sou](https://open.spotify.com/album/0bOPUetUUgOWPulo6gp6Or) | 2:03 | 2023-06-27 |  |
+| [Sou](https://open.spotify.com/track/0tMRFAZNW3Mu4cMV0QUw0Q) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Sou](https://open.spotify.com/album/0bOPUetUUgOWPulo6gp6Or) | 2:03 | 2023-06-27 | 2023-11-27 |
 | [Soul Searching](https://open.spotify.com/track/6xxePsq2BKr8dtLUw4E3Er) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [Soul Searching](https://open.spotify.com/album/79sDlK9zbIAZf5UfEhuHfs) | 3:39 | 2021-05-16 | 2022-04-21 |
 | [Sound Of Mind](https://open.spotify.com/track/4zLErnaWoRXh91YcWZ2LKy) | [Macan Moreira](https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ) | [Sound Of Mind](https://open.spotify.com/album/2dqXzH1k1etLj9Bmx17Rjk) | 2:02 | 2023-07-27 |  |
 | [Space](https://open.spotify.com/track/6Ux1msFzvpBSuaZuyyy0lv) | [Vincent Amory](https://open.spotify.com/artist/1WE0vML8umaUUfUgggyssZ) | [Space](https://open.spotify.com/album/4z0bg4l4w2x7B50Camhble) | 3:36 | 2021-05-03 | 2022-07-19 |

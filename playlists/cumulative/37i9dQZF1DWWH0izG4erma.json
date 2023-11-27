@@ -2630,7 +2630,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-27",
       "duration_ms": 214582,
       "name": "Hurt No More",
       "url": "https://open.spotify.com/track/4vdMdvjrwdm3CR5oobcBIS"
@@ -5092,6 +5092,24 @@
       "duration_ms": 200200,
       "name": "Tough Crowd",
       "url": "https://open.spotify.com/track/3CK7htQR2ighxCjU2vra9z"
+    },
+    {
+      "album": {
+        "name": "Highway Desperado",
+        "url": "https://open.spotify.com/album/2SCppOPkT7XTKBJV2XIQUw"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200626,
+      "name": "Tough Crowd",
+      "url": "https://open.spotify.com/track/4XufHN8jFwyZEjvplEJh3w"
     },
     {
       "album": {

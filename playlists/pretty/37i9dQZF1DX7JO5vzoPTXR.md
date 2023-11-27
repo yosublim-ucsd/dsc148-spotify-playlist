@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Songs that are 100% written, produced, and performed by women! Cover: <a href="https://open.spotify.com/playlist/37i9dQZF1EFxQm5kACHpXo?si=e001f7e7337142b9"> KAMILLE </a>, <a href="https://open.spotify.com/playlist/37i9dQZF1EFNris1uapuvu?si=fe089bf421104ba1"> Carla Marie </a> & <a href="https://open.spotify.com/playlist/37i9dQZF1EFymkJOZK4uO1?si=edc3f1f5cb2e4ecc"> Jin Jin </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,000 likes - 39 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,024 likes - 39 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 38 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 4:58 |
 | 39 | [Love Me In Chapters](https://open.spotify.com/track/4MTRui4ZDCOc0a6D2g0qgw) | [Chrissi](https://open.spotify.com/artist/6dKtberVRbUX3Azn8gt2mt) | [Love Me In Chapters](https://open.spotify.com/album/3jSf7bYXENh5wdn2a01DtF) | 3:36 |
 
-Snapshot ID: `MCwyZjFmMzY2N2QzNjcxZWQ5YzUwNTBlYmU0YTFiODE3ZDU5NGJlMWJj`
+Snapshot ID: `MCxmYWJkODI1OWE2ZGNkOGMzMWVmYmJhM2QxZjkzNDUyMzAwNzNiYjZh`

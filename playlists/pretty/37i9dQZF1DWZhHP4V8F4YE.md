@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 
 > All the vibes, enjoyment and future hits right here
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,067 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,192 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 49 | [Joy in Chaos](https://open.spotify.com/track/1HDMh5q6NQAYlos9fFLmOB) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j) | [Joy in Chaos](https://open.spotify.com/album/7x1iXdhcoN8Aw9pE15Ajvp) | 1:10 |
 | 50 | [uMalume](https://open.spotify.com/track/2dbUeQlYxomReWXJPdqDv8) | [Pexi\-Tonic SA](https://open.spotify.com/artist/68UHjRwOCXyo1lZMyDoPeT), [Dj 9.8 SA](https://open.spotify.com/artist/44Flrn3IvTq84uGUtcuXyN), [Laanoss](https://open.spotify.com/artist/0VDpq9YoShWSrkxQUev5EM), [Ceekay Musiq](https://open.spotify.com/artist/6cdkg9u8yFsuAhaWxyTK9A) | [uMalume](https://open.spotify.com/album/0qazgbQD6PQmFsEyqqeX3H) | 4:11 |
 
-Snapshot ID: `MCwyNDBkMGJiODA2NTEyYzY3NzZlMTRlOTZhZDdiMWQ4NmViMzVmNmQy`
+Snapshot ID: `MCxmZjk2YzhkZmRlMTAzNzlmZTUzMDEzNDNlN2E4OThmYzljYjUwODA3`

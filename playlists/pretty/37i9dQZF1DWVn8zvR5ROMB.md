@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Tim McGraw, Callista Clark, Meg McRee and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,503 likes - 54 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,642 likes - 54 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 53 | [Goin Out Sober](https://open.spotify.com/track/7Fc7E271oNVX4gXGDrHZDo) | [Tayler Holder](https://open.spotify.com/artist/5Hz3IW691fbgGqLk4yvlNN) | [Goin Out Sober](https://open.spotify.com/album/7uzIiJZ7Yj4w5Gh8leXv1E) | 3:16 |
 | 54 | [Get You Off That Fence](https://open.spotify.com/track/424P0OXKS5Lpae44oBTnJt) | [Matt Rogers](https://open.spotify.com/artist/05fmyImfk8ILasGDFWQkbC) | [Get You Off That Fence](https://open.spotify.com/album/6cV9t53nUqGdN3eEdt5kGQ) | 3:36 |
 
-Snapshot ID: `MCxlMDQ3ZjgwMWJlZDk5ZGY0MzVjMjA1NDkyNzM3MGNiYWFkNjBmY2E1`
+Snapshot ID: `MCw3ZDAzZDcyNDRiYWE3NGIyYjM1OWJlMzY1YjcwZjQ3ZmI5ZjUyYTUy`

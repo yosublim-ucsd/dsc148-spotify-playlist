@@ -1,12 +1,12 @@
 {
   "description": "Grupo Benzadeus e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 222986,
+  "num_followers": 223011,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZDg0NDU5ZTQ2Mzk2OWNiNDA4MDc2OTRiMWQ2NjAyMTgwMmM5OWM5",
+  "snapshot_id": "MCwxYzNmZDhiNDgyMWUzNDRiOGQ5ZTgxNzY4MTJlYzBjZDFhYjdhYmM1",
   "tracks": [
     {
       "added_at": "2023-11-24 17:43:57",
@@ -739,30 +739,6 @@
     {
       "added_at": "2023-11-24 17:43:57",
       "album": {
-        "name": "O Que Que T\u00e1 Acontecendo",
-        "url": "https://open.spotify.com/album/5smjl2yakSMt8DWxXVrDwG"
-      },
-      "artists": [
-        {
-          "name": "Mc Arizinho",
-          "url": "https://open.spotify.com/artist/61pcuATJNEvZCXhO2DqC1F"
-        },
-        {
-          "name": "DJ TAK VADI\u00c3O",
-          "url": "https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu"
-        },
-        {
-          "name": "Doug Hits",
-          "url": "https://open.spotify.com/artist/11rNmgKeDd6wHHvvhzPHH9"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "O Que Que T\u00e1 Acontecendo",
-      "url": "https://open.spotify.com/track/1JSwsmwxrunlHzo7pjeWMY"
-    },
-    {
-      "added_at": "2023-11-24 17:43:57",
-      "album": {
         "name": "Jardim das Flores",
         "url": "https://open.spotify.com/album/1n1QRIqGrKqhoDjyXWMoKo"
       },
@@ -783,6 +759,30 @@
       "duration_ms": 203294,
       "name": "Jardim das Flores",
       "url": "https://open.spotify.com/track/2guOhSMSG1p8WePFWhkhlj"
+    },
+    {
+      "added_at": "2023-11-24 17:43:57",
+      "album": {
+        "name": "O Que Que T\u00e1 Acontecendo",
+        "url": "https://open.spotify.com/album/5smjl2yakSMt8DWxXVrDwG"
+      },
+      "artists": [
+        {
+          "name": "Mc Arizinho",
+          "url": "https://open.spotify.com/artist/61pcuATJNEvZCXhO2DqC1F"
+        },
+        {
+          "name": "DJ TAK VADI\u00c3O",
+          "url": "https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu"
+        },
+        {
+          "name": "Doug Hits",
+          "url": "https://open.spotify.com/artist/11rNmgKeDd6wHHvvhzPHH9"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "O Que Que T\u00e1 Acontecendo",
+      "url": "https://open.spotify.com/track/1JSwsmwxrunlHzo7pjeWMY"
     },
     {
       "added_at": "2023-11-24 17:43:57",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2023-11-24 17:43:57",
       "album": {
-        "name": "Vai",
-        "url": "https://open.spotify.com/album/1br8sVqsgWydRdIk3dg0t0"
-      },
-      "artists": [
-        {
-          "name": "Gbzin",
-          "url": "https://open.spotify.com/artist/71xcLqhkXhPIX0eSmTofTq"
-        },
-        {
-          "name": "Pique Novo",
-          "url": "https://open.spotify.com/artist/6PtYnpdPPbMSAG8sxFs8uz"
-        }
-      ],
-      "duration_ms": 177410,
-      "name": "Vai",
-      "url": "https://open.spotify.com/track/23Ma7NUOB7oy1sM3gR3wiN"
-    },
-    {
-      "added_at": "2023-11-24 17:43:57",
-      "album": {
         "name": "Xuxu",
         "url": "https://open.spotify.com/album/28NVGuWHSlUaFrsMbx037O"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 172523,
       "name": "Xuxu",
       "url": "https://open.spotify.com/track/45Qqs9BW6k67PuSViT2rLv"
+    },
+    {
+      "added_at": "2023-11-24 17:43:57",
+      "album": {
+        "name": "Vai",
+        "url": "https://open.spotify.com/album/1br8sVqsgWydRdIk3dg0t0"
+      },
+      "artists": [
+        {
+          "name": "Gbzin",
+          "url": "https://open.spotify.com/artist/71xcLqhkXhPIX0eSmTofTq"
+        },
+        {
+          "name": "Pique Novo",
+          "url": "https://open.spotify.com/artist/6PtYnpdPPbMSAG8sxFs8uz"
+        }
+      ],
+      "duration_ms": 177410,
+      "name": "Vai",
+      "url": "https://open.spotify.com/track/23Ma7NUOB7oy1sM3gR3wiN"
     },
     {
       "added_at": "2023-11-24 17:43:57",
@@ -1295,30 +1295,30 @@
     {
       "added_at": "2023-11-24 17:43:57",
       "album": {
-        "name": "M\u00fasicas Para Fumar Bal\u00e3o",
-        "url": "https://open.spotify.com/album/2zBsNCMQxokxViSI9kiaQX"
+        "name": "N\u00e3o Tenho Tempo",
+        "url": "https://open.spotify.com/album/0DU5qPWKr1bR86WsRjiiPP"
       },
       "artists": [
         {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
         },
         {
-          "name": "Derxan",
-          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
         },
         {
-          "name": "Big Bllakk",
-          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
         },
         {
-          "name": "Pedro Apoema",
-          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
         }
       ],
-      "duration_ms": 179574,
-      "name": "Dez e Faixa",
-      "url": "https://open.spotify.com/track/0Z6gKWw11x5pKSA16NOn6C"
+      "duration_ms": 125624,
+      "name": "N\u00e3o Tenho Tempo",
+      "url": "https://open.spotify.com/track/42Lqgo4o80uHEKKtaGOkj1"
     }
   ],
   "unique_name": "AMPLIFIKA",

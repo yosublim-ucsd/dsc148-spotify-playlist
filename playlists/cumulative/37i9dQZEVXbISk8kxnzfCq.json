@@ -3698,7 +3698,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-27",
       "duration_ms": 213061,
       "name": "Efecto",
       "url": "https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx"
@@ -11856,7 +11856,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-22",
+      "date_removed": null,
       "duration_ms": 156500,
       "name": "SABOR FRESA",
       "url": "https://open.spotify.com/track/3kx21xR6IboC9HVdajgBoc"
@@ -12182,7 +12182,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-27",
       "duration_ms": 190476,
       "name": "SEDA",
       "url": "https://open.spotify.com/track/1YnChEM51BVZ5dRhbVFEMl"
@@ -12776,6 +12776,28 @@
       "duration_ms": 231000,
       "name": "Style (Taylor's Version)",
       "url": "https://open.spotify.com/track/1hjRhYpWyqDpPahmSlUTlc"
+    },
+    {
+      "album": {
+        "name": "Sue\u00f1o en USA",
+        "url": "https://open.spotify.com/album/4JKnjrFO8MpHujYAONu3XL"
+      },
+      "artists": [
+        {
+          "name": "Mauro Rosero",
+          "url": "https://open.spotify.com/artist/7kiccqkdbWhqAhecCWVRNS"
+        },
+        {
+          "name": "Mauricio Rosero",
+          "url": "https://open.spotify.com/artist/58ZqkgePPVGMOdL4zRQhcR"
+        }
+      ],
+      "date_added": "2023-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150714,
+      "name": "Sue\u00f1o en USA",
+      "url": "https://open.spotify.com/track/410XQkqd5GTobm1VNzgFSg"
     },
     {
       "album": {

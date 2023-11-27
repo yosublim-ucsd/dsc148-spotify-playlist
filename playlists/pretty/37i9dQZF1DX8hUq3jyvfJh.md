@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > PRISCILLA e mais mulheres poderosas para serem ouvidas no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,542 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,543 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 36 | [Amaré](https://open.spotify.com/track/5cmMXwBZQWWtjPRcl3Boc3) | [Becca Perret](https://open.spotify.com/artist/63Vs4mVVHzjm7PbQgcGior), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Na Becca III](https://open.spotify.com/album/5MsRhdEmCDCsceqWnqWG6H) | 2:36 |
 | 37 | [Sintomas de Saudade](https://open.spotify.com/track/6QlevudYVANWjhtyyH2PJW) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [Sintomas de Saudade](https://open.spotify.com/album/5u16k6T8bhUwgI10rlCwVt) | 3:14 |
 | 38 | [Só Vou Te Machucar](https://open.spotify.com/track/3jxstlmgydxx2aM2TYNeSX) | [A Jaya](https://open.spotify.com/artist/7fb3HrdWWOWEqZV5QddjJT) | [Só Vou Te Machucar](https://open.spotify.com/album/3raYq2maQHJ7bnGfm7rrHn) | 3:45 |
-| 39 | [Pimenta De Cheiro](https://open.spotify.com/track/2cxDLP3uI9ovuHbrNqY3fr) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [ARRISCA](https://open.spotify.com/album/7yvlnTu9zTkkrRGCwUICXc) | 3:27 |
-| 40 | [Menino Bonito](https://open.spotify.com/track/4bc6uLpspNXiL7aFCYAIdo) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE) | [ARREPIADA](https://open.spotify.com/album/7CEH5SQ6yP5MUlunhS8kH0) | 3:49 |
+| 39 | [Menino Bonito](https://open.spotify.com/track/4bc6uLpspNXiL7aFCYAIdo) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE) | [ARREPIADA](https://open.spotify.com/album/7CEH5SQ6yP5MUlunhS8kH0) | 3:49 |
+| 40 | [Pimenta De Cheiro](https://open.spotify.com/track/2cxDLP3uI9ovuHbrNqY3fr) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [ARRISCA](https://open.spotify.com/album/7yvlnTu9zTkkrRGCwUICXc) | 3:27 |
 | 41 | [CASALZÃO DA PORRA](https://open.spotify.com/track/0TwYstDiRvaqGEQA7jNhUj) | [Lary](https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX) | [CASALZÃO DA PORRA](https://open.spotify.com/album/2q6EXTOaMRoozRJAE19e76) | 2:10 |
 | 42 | [Estrela](https://open.spotify.com/track/3kgDQofZbNVUOfYC79nrHy) | [Iuna Falcão](https://open.spotify.com/artist/3j3isTW06zLzcrST7xWt9N), [Xênia França](https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D) | [Estrela](https://open.spotify.com/album/56CY72YnPlnTJpF8WJCgAp) | 4:16 |
 | 43 | [Me Leva Pra Casa](https://open.spotify.com/track/0qAwNCXtJgvLZcLOTVnNjx) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Mete Mac Vol 1](https://open.spotify.com/album/6FhipK7nTsuCbqW5jCg6er) | 2:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Gamei](https://open.spotify.com/track/59LXOmX8TvIf51lxZGezqp) | [Kynnie](https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy) | [93](https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ) | 2:51 |
 | 50 | [Homenagem](https://open.spotify.com/track/2EzZnXR3UgkoX92WHgoNYD) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW) | [7 Estrelas \| quem arrancou o céu?](https://open.spotify.com/album/5weOG4lzh2hlbs1oq5YKjy) | 3:26 |
 
-Snapshot ID: `MCw2ZDViMWRkOTA2YWYyZmNjMjUzN2Q4YWFiMTJlNGY5OTBmNDE2YmJl`
+Snapshot ID: `MCw4ZDYwNDE4NzUzMDkwOTAyNGFmNjdiOWRiYzUzZDE5NTEzZjFhMzQ1`

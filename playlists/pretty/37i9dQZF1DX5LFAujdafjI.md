@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LFAujdafjI.md) - [plain]
 
 > For your pre\-games, afters, spurts of manic cleaning, and everything in between\. Curated by the Portola Festival Department of Science and Research.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,947 likes - 88 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,975 likes - 88 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LFAujdafjI.md) - [plain]
 | 11 | [Snakes Crawl \- East Village Mix](https://open.spotify.com/track/2cjgYQF4OqfM8Xgl7vV4No) | [Phil Kieran](https://open.spotify.com/artist/7fVBYlm65H50HLNLAQHBt5), [Bush Tetras](https://open.spotify.com/artist/2X2Q1fpEwW7WtZxXb4acYb) | [Snakes Crawl EP](https://open.spotify.com/album/1hc74ZF3XlNoCN4BBCWHIO) | 4:08 |
 | 12 | [Cherry Pop](https://open.spotify.com/track/1H8qdZBtVdTfRx1tdEbscn) | [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l) | [Cherry Pop](https://open.spotify.com/album/2m50rIyoZ8by3xTGiYcaMY) | 4:44 |
 | 13 | [Weightless](https://open.spotify.com/track/3DoPDf9n2BF8uE37D6GZdY) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 4:29 |
-| 14 | [DREAMER](https://open.spotify.com/track/44V3prBS5nmjRlQN0lcbeK) | [JEV](https://open.spotify.com/artist/6StZbL9v3UpuaMwIoq8fyW) | [TALK2MUCH](https://open.spotify.com/album/5iWyIv8QHoD5P2vIUOf1j3) | 2:13 |
+| 14 | [DREAMER](https://open.spotify.com/track/7aGcgv4G1upG0XK6nHC5rF) | [JEV](https://open.spotify.com/artist/6StZbL9v3UpuaMwIoq8fyW) | [DREAMER / MY BODY](https://open.spotify.com/album/4T5287ugMNGz0F83VjcqSv) | 2:13 |
 | 15 | [Just for the Times](https://open.spotify.com/track/5lQmq1cbTk6Nn44HNurBQ4) | [Everyone You Know](https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [Just for the Times](https://open.spotify.com/album/751FUQcmvpQEinjZhTOLHH) | 3:25 |
 | 16 | [She's On My Mind](https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 3:01 |
 | 17 | [Blak Britney](https://open.spotify.com/track/2rg7VE22RwEfvFkLYJwfeY) | [Miss Kaninna](https://open.spotify.com/artist/1ODboExevbfXfgKz7NPKxz) | [Blak Britney](https://open.spotify.com/album/53qFc9lbBsEXdSdMbcxQsc) | 2:33 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LFAujdafjI.md) - [plain]
 | 87 | [Last Dance \- Single Version](https://open.spotify.com/track/29RcVe2M9l8rHyWHffBmjf) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Walk Away \- Collector's Edition The Best Of 1977\-1980](https://open.spotify.com/album/1XDoNCowirNlo2oGzCVVh7) | 3:19 |
 | 88 | [Blow Out](https://open.spotify.com/track/5xWn1sBr3ZkFOSUrfp6Iz4) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Blow Out](https://open.spotify.com/album/7CNhoiKG42kp3wZAmTP0r1) | 3:36 |
 
-Snapshot ID: `MCxlODgyMmU4YjZiYjZhMDFjMDZkNGQwNWFmMDE1MzFhNmFjMjkyYzU4`
+Snapshot ID: `MCw4ODgyZjc4OTlmODEzMzQ4NzFmMzQ5MzNlOThjZmM2MDRkMTNkMWMz`

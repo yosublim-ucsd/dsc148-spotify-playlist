@@ -1,12 +1,12 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: The Oozes",
-  "num_followers": 177496,
+  "num_followers": 177604,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDQyZDE3MGY1ZjA0YzgzNmI4ZTU3Y2E4NTEwYjJhODExZDBkYmMz",
+  "snapshot_id": "MCwyNThhMTkzOWY4NGE0ZDU4NzA0ZDY3NzM4MmNiODJhMDYwOGE3NzI5",
   "tracks": [
     {
       "added_at": "2023-05-25 14:38:53",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "All at Once",
-        "url": "https://open.spotify.com/album/1AamkKRYew16QStHIhgY1A"
-      },
-      "artists": [
-        {
-          "name": "Screaming Females",
-          "url": "https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t"
-        }
-      ],
-      "duration_ms": 291600,
-      "name": "Bird in Space",
-      "url": "https://open.spotify.com/track/4PYyyaASFb3gZ9Jh4zisiz"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Sure-Tuff",
         "url": "https://open.spotify.com/album/1C1OTQGHE9NeWHEw2aG8bO"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 220914,
       "name": "Glitterspit",
       "url": "https://open.spotify.com/track/5tLlzGHopRtDv56PntKB8R"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "All at Once",
+        "url": "https://open.spotify.com/album/1AamkKRYew16QStHIhgY1A"
+      },
+      "artists": [
+        {
+          "name": "Screaming Females",
+          "url": "https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t"
+        }
+      ],
+      "duration_ms": 291600,
+      "name": "Bird in Space",
+      "url": "https://open.spotify.com/track/4PYyyaASFb3gZ9Jh4zisiz"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "They/Them",
-        "url": "https://open.spotify.com/album/1OaojIxnExbR4O45XHJUIW"
-      },
-      "artists": [
-        {
-          "name": "Dream Nails",
-          "url": "https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB"
-        }
-      ],
-      "duration_ms": 137781,
-      "name": "They/Them",
-      "url": "https://open.spotify.com/track/7BuZgwIl9cx2hk2fsVlVYu"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Not Your Kind",
         "url": "https://open.spotify.com/album/2bINeWV1YXsi5QrPl28cnh"
       },
@@ -971,18 +955,18 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "In Search of Lost Time",
-        "url": "https://open.spotify.com/album/43q6kUOk6TRY9m343H9cLf"
+        "name": "They/Them",
+        "url": "https://open.spotify.com/album/1OaojIxnExbR4O45XHJUIW"
       },
       "artists": [
         {
-          "name": "Partner",
-          "url": "https://open.spotify.com/artist/15rbZYMoW9AYb3zcuFUNOU"
+          "name": "Dream Nails",
+          "url": "https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB"
         }
       ],
-      "duration_ms": 176786,
-      "name": "Play the Field",
-      "url": "https://open.spotify.com/track/5bLvqbeBT72cnJ53BQ3XHk"
+      "duration_ms": 137781,
+      "name": "They/Them",
+      "url": "https://open.spotify.com/track/7BuZgwIl9cx2hk2fsVlVYu"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -999,6 +983,22 @@
       "duration_ms": 205293,
       "name": "CCCHOKEMEEE",
       "url": "https://open.spotify.com/track/4c9xAn5v8trWontgFe9Q2A"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "In Search of Lost Time",
+        "url": "https://open.spotify.com/album/43q6kUOk6TRY9m343H9cLf"
+      },
+      "artists": [
+        {
+          "name": "Partner",
+          "url": "https://open.spotify.com/artist/15rbZYMoW9AYb3zcuFUNOU"
+        }
+      ],
+      "duration_ms": 176786,
+      "name": "Play the Field",
+      "url": "https://open.spotify.com/track/5bLvqbeBT72cnJ53BQ3XHk"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
+        "name": "Always Already",
+        "url": "https://open.spotify.com/album/266CkD6b9yrFX60cDNAyKy"
+      },
+      "artists": [
+        {
+          "name": "La Luna",
+          "url": "https://open.spotify.com/artist/61DB9tvIGdQwz1B4IxdP7g"
+        }
+      ],
+      "duration_ms": 113413,
+      "name": "House Party",
+      "url": "https://open.spotify.com/track/4LeuJ3WfqbEm0TiYOjdm89"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
         "name": "Bad Girls Go to Hell",
         "url": "https://open.spotify.com/album/1USnl3zRNiSnGZF7toUpcp"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 128880,
       "name": "Queer For You",
       "url": "https://open.spotify.com/track/3wOIv5bly3SnBum3gLRsCa"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
-        "name": "Every Now and Then",
-        "url": "https://open.spotify.com/album/1WXuhPXstAtp8SSSUOMYDt"
-      },
-      "artists": [
-        {
-          "name": "Wolf Girl",
-          "url": "https://open.spotify.com/artist/65fBgVWHUF13eh71KQQsxX"
-        }
-      ],
-      "duration_ms": 154618,
-      "name": "Dream Partner",
-      "url": "https://open.spotify.com/track/0vfeQ9IraM3uOTy4dOssi3"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
+        "name": "Every Now and Then",
+        "url": "https://open.spotify.com/album/1WXuhPXstAtp8SSSUOMYDt"
+      },
+      "artists": [
+        {
+          "name": "Wolf Girl",
+          "url": "https://open.spotify.com/artist/65fBgVWHUF13eh71KQQsxX"
+        }
+      ],
+      "duration_ms": 154618,
+      "name": "Dream Partner",
+      "url": "https://open.spotify.com/track/0vfeQ9IraM3uOTy4dOssi3"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
         "name": "Try to Be Hopeful",
         "url": "https://open.spotify.com/album/1RKrCP38UismUZ1NnC9sjc"
       },
@@ -1243,18 +1259,18 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Always Already",
-        "url": "https://open.spotify.com/album/266CkD6b9yrFX60cDNAyKy"
+        "name": "Queen Zee",
+        "url": "https://open.spotify.com/album/2wbap4Wf20Dbp2kLrZFkHk"
       },
       "artists": [
         {
-          "name": "La Luna",
-          "url": "https://open.spotify.com/artist/61DB9tvIGdQwz1B4IxdP7g"
+          "name": "Queen Zee",
+          "url": "https://open.spotify.com/artist/4Fu68byHFGEiID8pHyYxFL"
         }
       ],
-      "duration_ms": 113413,
-      "name": "House Party",
-      "url": "https://open.spotify.com/track/4LeuJ3WfqbEm0TiYOjdm89"
+      "duration_ms": 143853,
+      "name": "Sissy Fists",
+      "url": "https://open.spotify.com/track/1KHFqFiuV5KNyHjtjTKBbJ"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -1271,22 +1287,6 @@
       "duration_ms": 129706,
       "name": "Girls With Glasses",
       "url": "https://open.spotify.com/track/1oJP3drbPbHRQAnsjrS9eq"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
-        "name": "Queen Zee",
-        "url": "https://open.spotify.com/album/2wbap4Wf20Dbp2kLrZFkHk"
-      },
-      "artists": [
-        {
-          "name": "Queen Zee",
-          "url": "https://open.spotify.com/artist/4Fu68byHFGEiID8pHyYxFL"
-        }
-      ],
-      "duration_ms": 143853,
-      "name": "Sissy Fists",
-      "url": "https://open.spotify.com/track/1KHFqFiuV5KNyHjtjTKBbJ"
     }
   ],
   "unique_name": "Queercore",

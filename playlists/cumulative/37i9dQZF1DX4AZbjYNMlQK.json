@@ -2091,6 +2091,24 @@
     },
     {
       "album": {
+        "name": "No Me Puedes Faltar (Navidad)",
+        "url": "https://open.spotify.com/album/6W6JtAT7c9Cgg73wheBQoP"
+      },
+      "artists": [
+        {
+          "name": "Charlie Zaa",
+          "url": "https://open.spotify.com/artist/1KfBKoozFugeT1PBkz33xl"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208374,
+      "name": "No Me Puedes Faltar (Navidad)",
+      "url": "https://open.spotify.com/track/3c56nqMkeVdVnIxuflEJ5a"
+    },
+    {
+      "album": {
         "name": "Noche de Paz",
         "url": "https://open.spotify.com/album/1OyILXUvwLyWD6rXN0vDOW"
       },
@@ -2464,7 +2482,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-27",
       "duration_ms": 175100,
       "name": "Santa Baby",
       "url": "https://open.spotify.com/track/3ahTtn2xIy34RYlwTOxqW1"

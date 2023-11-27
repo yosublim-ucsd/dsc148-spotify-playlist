@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: Ukiyo
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,374 likes - 104 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,427 likes - 104 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 50 | [Close](https://open.spotify.com/track/1pinLCpXPD4Eh0NX2921VB) | [2XM](https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32) | [Close To Me](https://open.spotify.com/album/6iulyI2FZoRJMl25U1qhfN) | 5:48 |
 | 51 | [Nostalgia \(feat\. Little Green\)](https://open.spotify.com/track/3VP9aycULSUnBqGN5ThCXT) | [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS), [Little Green](https://open.spotify.com/artist/0Kcz7AMOkHHye7xhLJUWTy) | [Nostalgia \(feat\. Little Green\)](https://open.spotify.com/album/2XvL2rUofsY9xaXN2D4VwW) | 2:43 |
 | 52 | [Bullet Train To Paris](https://open.spotify.com/track/0lIOamNC6EMXu1AgPyzSTD) | [Willaris\. K](https://open.spotify.com/artist/6ZHeg2Op5ZkNppXbNLSglj), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [Silversun](https://open.spotify.com/album/4EAemIQHlJl7ZwCndwy8ro) | 4:59 |
-| 53 | [sunburn](https://open.spotify.com/track/2i4SjedIXFgepIyHHgYsBB) | [JUNO](https://open.spotify.com/artist/5rxsXE7ZCWfW3ft7Dc5eyu) | [sunburn](https://open.spotify.com/album/0ddtlQ2MOADX7Y8qgyYN9a) | 2:57 |
+| 53 | [sunburn](https://open.spotify.com/track/2i4SjedIXFgepIyHHgYsBB) | [JUNO](https://open.spotify.com/artist/5rxsXE7ZCWfW3ft7Dc5eyu) | [sunburn](https://open.spotify.com/album/0ddtlQ2MOADX7Y8qgyYN9a) | 2:56 |
 | 54 | [Holding Me Like Water \- Juno Mamba Remix](https://open.spotify.com/track/3GgMbVefHuwM1J8kwvrAHL) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi), [Juno Mamba](https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL) | [Perfect World Remixes Vol\. 2](https://open.spotify.com/album/2biW5T49COGRtwvLL1RC59) | 4:09 |
 | 55 | [Beggin' You](https://open.spotify.com/track/110XNKlluGKyNDKlBle2XD) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst) | [Beggin' You](https://open.spotify.com/album/12LYEydJLy7i3TlDLamRRC) | 3:35 |
 | 56 | [Higher Rush \(feat\. Freaks & Geeks\)](https://open.spotify.com/track/0VnWY7NrE3356pI7jv91Uq) | [ShockOne](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH), [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU) | [Higher Rush \(feat\. Freaks & Geeks\)](https://open.spotify.com/album/0QDxzWlZ3pLlNyl3pYkggD) | 3:25 |

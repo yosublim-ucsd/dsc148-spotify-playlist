@@ -1,12 +1,12 @@
 {
   "description": "Lose yourself in the cosmic spheres of Psytrance.",
-  "num_followers": 525181,
+  "num_followers": 525333,
   "original_name": "Psytrance Supernova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMmMyYmM3ZmJmMjA0N2QxZmI1OWU3MjY3OTQ2MTZkN2Y0NjBkM2Yy",
+  "snapshot_id": "MCxkMGE4NTA0YzFhNmRlYTgwYmViYzEwZTA5Y2U4YWNmNmRkOTIyMDYy",
   "tracks": [
     {
       "added_at": "2023-11-25 18:30:00",
@@ -271,6 +271,26 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/2dSndYO0oWrvM2A5PsTJNb"
+      },
+      "artists": [
+        {
+          "name": "Phaxe",
+          "url": "https://open.spotify.com/artist/4Pgbnc1zRPquMFR4iPH3MN"
+        },
+        {
+          "name": "Querox",
+          "url": "https://open.spotify.com/artist/6As8Iapr8t7LdWNBIGlTtn"
+        }
+      ],
+      "duration_ms": 331094,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/5kCdc14ItHSF6N6rI7wGSX"
+    },
+    {
+      "added_at": "2023-11-25 18:30:00",
+      "album": {
         "name": "Sicko Drop (Claudinho Brasil Remix)",
         "url": "https://open.spotify.com/album/1RZKaqedt3r09PaDCZtaCc"
       },
@@ -291,26 +311,6 @@
       "duration_ms": 161142,
       "name": "Sicko Drop - Claudinho Brasil Remix",
       "url": "https://open.spotify.com/track/3Z7UmZWV0qyY7nK076Bqxe"
-    },
-    {
-      "added_at": "2023-11-25 18:30:00",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/2dSndYO0oWrvM2A5PsTJNb"
-      },
-      "artists": [
-        {
-          "name": "Phaxe",
-          "url": "https://open.spotify.com/artist/4Pgbnc1zRPquMFR4iPH3MN"
-        },
-        {
-          "name": "Querox",
-          "url": "https://open.spotify.com/artist/6As8Iapr8t7LdWNBIGlTtn"
-        }
-      ],
-      "duration_ms": 331094,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/5kCdc14ItHSF6N6rI7wGSX"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -599,26 +599,6 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "Viera",
-        "url": "https://open.spotify.com/album/0I1PNYIS289CGyTOOo4wug"
-      },
-      "artists": [
-        {
-          "name": "Stevie Melani",
-          "url": "https://open.spotify.com/artist/5V4bg7oqV1I1l6acHS18Qx"
-        },
-        {
-          "name": "Sousa",
-          "url": "https://open.spotify.com/artist/41HmpeBfYeKmfs7wL3qyHU"
-        }
-      ],
-      "duration_ms": 150909,
-      "name": "Viera",
-      "url": "https://open.spotify.com/track/121Qef9f4Fa2AKfsBLQWpW"
-    },
-    {
-      "added_at": "2023-11-25 18:30:00",
-      "album": {
         "name": "Flame",
         "url": "https://open.spotify.com/album/5BRloFEHPzJozlMlwV6HhB"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 349014,
       "name": "Flame",
       "url": "https://open.spotify.com/track/5y8drYVT8SGRPxEQEEjSts"
+    },
+    {
+      "added_at": "2023-11-25 18:30:00",
+      "album": {
+        "name": "Viera",
+        "url": "https://open.spotify.com/album/0I1PNYIS289CGyTOOo4wug"
+      },
+      "artists": [
+        {
+          "name": "Stevie Melani",
+          "url": "https://open.spotify.com/artist/5V4bg7oqV1I1l6acHS18Qx"
+        },
+        {
+          "name": "Sousa",
+          "url": "https://open.spotify.com/artist/41HmpeBfYeKmfs7wL3qyHU"
+        }
+      ],
+      "duration_ms": 150909,
+      "name": "Viera",
+      "url": "https://open.spotify.com/track/121Qef9f4Fa2AKfsBLQWpW"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "Don't Give Up",
-        "url": "https://open.spotify.com/album/3mO66DErj3uSmOZZp4r13t"
-      },
-      "artists": [
-        {
-          "name": "Vegas (Brazil)",
-          "url": "https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z"
-        },
-        {
-          "name": "Zahar",
-          "url": "https://open.spotify.com/artist/0g26Yvko7W50BTiwl5vbvA"
-        }
-      ],
-      "duration_ms": 335834,
-      "name": "Don't Give Up",
-      "url": "https://open.spotify.com/track/2cskW9Z51Lh57KFab9Mjp8"
-    },
-    {
-      "added_at": "2023-11-25 18:30:00",
-      "album": {
         "name": "Key To Happiness",
         "url": "https://open.spotify.com/album/2JOtRwO9GnCSK0lYnuleOw"
       },
@@ -1195,6 +1175,26 @@
       "duration_ms": 306857,
       "name": "Music Is My Remedy",
       "url": "https://open.spotify.com/track/6jzgprpVQTyDlNHD8E8jEI"
+    },
+    {
+      "added_at": "2023-11-25 18:30:00",
+      "album": {
+        "name": "Don't Give Up",
+        "url": "https://open.spotify.com/album/3mO66DErj3uSmOZZp4r13t"
+      },
+      "artists": [
+        {
+          "name": "Vegas (Brazil)",
+          "url": "https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z"
+        },
+        {
+          "name": "Zahar",
+          "url": "https://open.spotify.com/artist/0g26Yvko7W50BTiwl5vbvA"
+        }
+      ],
+      "duration_ms": 335834,
+      "name": "Don't Give Up",
+      "url": "https://open.spotify.com/track/2cskW9Z51Lh57KFab9Mjp8"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
+        "name": "Shroomeez",
+        "url": "https://open.spotify.com/album/6WjT81kkedROKlbYj6SInQ"
+      },
+      "artists": [
+        {
+          "name": "Infected Mushroom",
+          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
+        }
+      ],
+      "duration_ms": 390011,
+      "name": "You Wanna Stay",
+      "url": "https://open.spotify.com/track/1zCEQgOjjQRzGieDb3OVKh"
+    },
+    {
+      "added_at": "2023-11-25 18:30:00",
+      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/3DhPzL19TNQPuwdDeodmbB"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 343276,
       "name": "Inner Space",
       "url": "https://open.spotify.com/track/0hA5KmRgeZfIuwJ6ZhLlqc"
-    },
-    {
-      "added_at": "2023-11-25 18:30:00",
-      "album": {
-        "name": "Shroomeez",
-        "url": "https://open.spotify.com/album/6WjT81kkedROKlbYj6SInQ"
-      },
-      "artists": [
-        {
-          "name": "Infected Mushroom",
-          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
-        }
-      ],
-      "duration_ms": 390011,
-      "name": "You Wanna Stay",
-      "url": "https://open.spotify.com/track/1zCEQgOjjQRzGieDb3OVKh"
     },
     {
       "added_at": "2023-11-25 18:30:00",

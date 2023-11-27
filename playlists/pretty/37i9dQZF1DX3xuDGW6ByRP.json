@@ -1,12 +1,12 @@
 {
   "description": "as novas de pop rock br / Foto: Hotelo",
-  "num_followers": 46724,
+  "num_followers": 46789,
   "original_name": "rockers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzJkNGZjOTFlMGFmMDFhMWNiMmY3ZWI0YzI3ODI1YTdmZDNjNGEx",
+  "snapshot_id": "MCxkNDM1NjljNzdiMzcxYzMwNWU4NTZkMGE0MmRhMmZjZWQxMDBhYmM2",
   "tracks": [
     {
       "added_at": "2023-11-24 16:21:21",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-11-24 16:21:21",
       "album": {
-        "name": "VERMELHO FAROL",
-        "url": "https://open.spotify.com/album/7Ab6Y2gxEck4TTtFhATBns"
-      },
-      "artists": [
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        }
-      ],
-      "duration_ms": 150884,
-      "name": "VERMELHO FAROL",
-      "url": "https://open.spotify.com/track/2gbLj4m0UZTFGlUvIBecAo"
-    },
-    {
-      "added_at": "2023-11-24 16:21:21",
-      "album": {
         "name": "SEMPRE ESTRAGO TUDO + CARENTE PRA SEMPRE",
         "url": "https://open.spotify.com/album/3ZMnjFJjAodqKyzFzn55kK"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 188729,
       "name": "sempre estrago tudo",
       "url": "https://open.spotify.com/track/1We5W9pJwrKFmFfI0c0v2y"
+    },
+    {
+      "added_at": "2023-11-24 16:21:21",
+      "album": {
+        "name": "Todo Mundo (Menos Eu)",
+        "url": "https://open.spotify.com/album/3Y69xn0j0ItsAaZvjzNo4U"
+      },
+      "artists": [
+        {
+          "name": "Lou Garcia",
+          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
+        }
+      ],
+      "duration_ms": 126514,
+      "name": "Todo Mundo (Menos Eu)",
+      "url": "https://open.spotify.com/track/5mJkZF1s8A068yo7AqD7oT"
     },
     {
       "added_at": "2023-11-24 16:21:21",
@@ -867,18 +867,18 @@
     {
       "added_at": "2023-11-24 16:21:21",
       "album": {
-        "name": "Todo Mundo (Menos Eu)",
-        "url": "https://open.spotify.com/album/3Y69xn0j0ItsAaZvjzNo4U"
+        "name": "VERMELHO FAROL",
+        "url": "https://open.spotify.com/album/7Ab6Y2gxEck4TTtFhATBns"
       },
       "artists": [
         {
-          "name": "Lou Garcia",
-          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
         }
       ],
-      "duration_ms": 126514,
-      "name": "Todo Mundo (Menos Eu)",
-      "url": "https://open.spotify.com/track/5mJkZF1s8A068yo7AqD7oT"
+      "duration_ms": 150884,
+      "name": "VERMELHO FAROL",
+      "url": "https://open.spotify.com/track/2gbLj4m0UZTFGlUvIBecAo"
     },
     {
       "added_at": "2023-11-24 16:21:21",
@@ -947,26 +947,6 @@
     {
       "added_at": "2023-11-24 16:21:21",
       "album": {
-        "name": "Muito Al\u00e9m",
-        "url": "https://open.spotify.com/album/1FYjcxWp3R3dmBhjtjV3vo"
-      },
-      "artists": [
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        },
-        {
-          "name": "Di Ferrero",
-          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
-        }
-      ],
-      "duration_ms": 168505,
-      "name": "Muito Al\u00e9m",
-      "url": "https://open.spotify.com/track/5Sj1roiO5NxZKpkTnGnlkL"
-    },
-    {
-      "added_at": "2023-11-24 16:21:21",
-      "album": {
         "name": "\u00daltimo Clich\u00ea",
         "url": "https://open.spotify.com/album/6OhFYkE3KeUM6zRlhCE8vE"
       },
@@ -1019,6 +999,26 @@
     {
       "added_at": "2023-11-24 16:21:21",
       "album": {
+        "name": "Muito Al\u00e9m",
+        "url": "https://open.spotify.com/album/1FYjcxWp3R3dmBhjtjV3vo"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        },
+        {
+          "name": "Di Ferrero",
+          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
+        }
+      ],
+      "duration_ms": 168505,
+      "name": "Muito Al\u00e9m",
+      "url": "https://open.spotify.com/track/5Sj1roiO5NxZKpkTnGnlkL"
+    },
+    {
+      "added_at": "2023-11-24 16:21:21",
+      "album": {
         "name": "DUBL\u00ca",
         "url": "https://open.spotify.com/album/21nz8HbPqUOCkPRXbpH5jJ"
       },
@@ -1031,22 +1031,6 @@
       "duration_ms": 178208,
       "name": "DUBL\u00ca",
       "url": "https://open.spotify.com/track/2P4Nbb8Gf5TX2JyBu0kuIY"
-    },
-    {
-      "added_at": "2023-11-24 16:21:21",
-      "album": {
-        "name": "ANTISSOCIAL",
-        "url": "https://open.spotify.com/album/3VQBBPFAWLwpMtiEurj5sW"
-      },
-      "artists": [
-        {
-          "name": "Carol & Vitoria",
-          "url": "https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD"
-        }
-      ],
-      "duration_ms": 146643,
-      "name": "ANTISSOCIAL",
-      "url": "https://open.spotify.com/track/5vkLsYCrNiD56XifYnIBo9"
     },
     {
       "added_at": "2023-11-24 16:21:21",
@@ -1067,6 +1051,22 @@
       "duration_ms": 206021,
       "name": "ponto de vista",
       "url": "https://open.spotify.com/track/0NfqR1Kf2opCwXPaNVouRY"
+    },
+    {
+      "added_at": "2023-11-24 16:21:21",
+      "album": {
+        "name": "ANTISSOCIAL",
+        "url": "https://open.spotify.com/album/3VQBBPFAWLwpMtiEurj5sW"
+      },
+      "artists": [
+        {
+          "name": "Carol & Vitoria",
+          "url": "https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD"
+        }
+      ],
+      "duration_ms": 146643,
+      "name": "ANTISSOCIAL",
+      "url": "https://open.spotify.com/track/5vkLsYCrNiD56XifYnIBo9"
     },
     {
       "added_at": "2023-11-24 16:21:21",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-11-24 16:21:21",
       "album": {
-        "name": "MINHA RELIGI\u00c3O",
-        "url": "https://open.spotify.com/album/2pIHcNnoZyzf0eLWIlT3u9"
-      },
-      "artists": [
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "MINHA RELIGI\u00c3O",
-      "url": "https://open.spotify.com/track/4sYeYCVsVIphRn8F1C27s4"
-    },
-    {
-      "added_at": "2023-11-24 16:21:21",
-      "album": {
         "name": "Conto de Falhas",
         "url": "https://open.spotify.com/album/4MaY416cpeCv9hmnGBfVzl"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 170189,
       "name": "incendiou",
       "url": "https://open.spotify.com/track/2MbrpnlzfICszxaG6eToxk"
+    },
+    {
+      "added_at": "2023-11-24 16:21:21",
+      "album": {
+        "name": "MINHA RELIGI\u00c3O",
+        "url": "https://open.spotify.com/album/2pIHcNnoZyzf0eLWIlT3u9"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "MINHA RELIGI\u00c3O",
+      "url": "https://open.spotify.com/track/4sYeYCVsVIphRn8F1C27s4"
     },
     {
       "added_at": "2023-11-24 16:21:21",
@@ -1223,22 +1223,22 @@
     {
       "added_at": "2023-11-24 16:21:21",
       "album": {
-        "name": "Legado",
-        "url": "https://open.spotify.com/album/7qk4AUAt8F9m508h7HV8sj"
+        "name": "QUEM NUNCA??",
+        "url": "https://open.spotify.com/album/5jOmOMFV9BbNxKHvmrddtV"
       },
       "artists": [
         {
-          "name": "Floco",
-          "url": "https://open.spotify.com/artist/3Dlxw7x1H8jzflD6DBqljc"
+          "name": "Ci\u00e7a Moreira",
+          "url": "https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt"
         },
         {
-          "name": "amanda muraro",
-          "url": "https://open.spotify.com/artist/0H3Ar9Em4fxqO0NYLTs7vJ"
+          "name": "Egypcio",
+          "url": "https://open.spotify.com/artist/6RvFkY3SiqssdttuI7bpH6"
         }
       ],
-      "duration_ms": 134382,
-      "name": "Legado",
-      "url": "https://open.spotify.com/track/22hTtzEc2038qqwCuiZ687"
+      "duration_ms": 216255,
+      "name": "QUEM NUNCA??",
+      "url": "https://open.spotify.com/track/3LhSiMorC6IntBm252H00W"
     },
     {
       "added_at": "2023-11-24 16:21:21",
@@ -1259,6 +1259,26 @@
     {
       "added_at": "2023-11-24 16:21:21",
       "album": {
+        "name": "Legado",
+        "url": "https://open.spotify.com/album/7qk4AUAt8F9m508h7HV8sj"
+      },
+      "artists": [
+        {
+          "name": "Floco",
+          "url": "https://open.spotify.com/artist/3Dlxw7x1H8jzflD6DBqljc"
+        },
+        {
+          "name": "amanda muraro",
+          "url": "https://open.spotify.com/artist/0H3Ar9Em4fxqO0NYLTs7vJ"
+        }
+      ],
+      "duration_ms": 134382,
+      "name": "Legado",
+      "url": "https://open.spotify.com/track/22hTtzEc2038qqwCuiZ687"
+    },
+    {
+      "added_at": "2023-11-24 16:21:21",
+      "album": {
         "name": "VSF (Telefone)",
         "url": "https://open.spotify.com/album/3Q3DAfcLrkaArCrr3AgTKL"
       },
@@ -1271,26 +1291,6 @@
       "duration_ms": 161951,
       "name": "VSF (Telefone)",
       "url": "https://open.spotify.com/track/7JCv3LOgpS0qwh8V1mYU7A"
-    },
-    {
-      "added_at": "2023-11-24 16:21:21",
-      "album": {
-        "name": "QUEM NUNCA??",
-        "url": "https://open.spotify.com/album/5jOmOMFV9BbNxKHvmrddtV"
-      },
-      "artists": [
-        {
-          "name": "Ci\u00e7a Moreira",
-          "url": "https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt"
-        },
-        {
-          "name": "Egypcio",
-          "url": "https://open.spotify.com/artist/6RvFkY3SiqssdttuI7bpH6"
-        }
-      ],
-      "duration_ms": 216255,
-      "name": "QUEM NUNCA??",
-      "url": "https://open.spotify.com/track/3LhSiMorC6IntBm252H00W"
     },
     {
       "added_at": "2023-11-24 16:21:21",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-11-24 16:21:21",
       "album": {
-        "name": "Maria",
-        "url": "https://open.spotify.com/album/5w9jRpGEp94tsWJdmolcVF"
-      },
-      "artists": [
-        {
-          "name": "CHADY",
-          "url": "https://open.spotify.com/artist/61cC0qxfveBuryvFL2y1l8"
-        }
-      ],
-      "duration_ms": 161866,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/7yEOFcyCeH9HYxC9EmJsIA"
-    },
-    {
-      "added_at": "2023-11-24 16:21:21",
-      "album": {
         "name": "FORA DE SI",
         "url": "https://open.spotify.com/album/7xeqEfqU6k9VIbm9v9HD17"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 142825,
       "name": "FORA DE SI",
       "url": "https://open.spotify.com/track/55Glu5AJDiVpUOLmxaTFoc"
+    },
+    {
+      "added_at": "2023-11-24 16:21:21",
+      "album": {
+        "name": "Maria",
+        "url": "https://open.spotify.com/album/5w9jRpGEp94tsWJdmolcVF"
+      },
+      "artists": [
+        {
+          "name": "CHADY",
+          "url": "https://open.spotify.com/artist/61cC0qxfveBuryvFL2y1l8"
+        }
+      ],
+      "duration_ms": 161866,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/7yEOFcyCeH9HYxC9EmJsIA"
     },
     {
       "added_at": "2023-11-24 16:21:21",

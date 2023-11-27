@@ -1,12 +1,12 @@
 {
   "description": "Faith without work[out]s is dead.  Get your beast mode on!",
-  "num_followers": 193848,
+  "num_followers": 194062,
   "original_name": "Beast Mode Christian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTJmZDQ0YWIyNjAzYzZmM2FhYzc1YjAyMTM5NmY0NWE2MGMyMzcx",
+  "snapshot_id": "MCwyZmRmMDNmMDU3M2RlODhhOTI4YTlhMDUxMTE4YjRjMDM2MTE5YTA2",
   "tracks": [
     {
       "added_at": "2023-11-02 08:57:58",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-11-02 08:57:58",
       "album": {
-        "name": "No Days Off",
-        "url": "https://open.spotify.com/album/56R23o2t9HV9BwE6xE2NVj"
-      },
-      "artists": [
-        {
-          "name": "Trip Lee",
-          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
-        }
-      ],
-      "duration_ms": 172523,
-      "name": "No Days Off",
-      "url": "https://open.spotify.com/track/4jZCSQmDeHDR3OfUDfYe9y"
-    },
-    {
-      "added_at": "2023-11-02 08:57:58",
-      "album": {
         "name": "BOSS",
         "url": "https://open.spotify.com/album/1VFRXgn1jNhvh76mJAA0aR"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 130985,
       "name": "BOSS",
       "url": "https://open.spotify.com/track/2YYMl0fsIdd0945tqeoruQ"
+    },
+    {
+      "added_at": "2023-11-02 08:57:58",
+      "album": {
+        "name": "No Days Off",
+        "url": "https://open.spotify.com/album/56R23o2t9HV9BwE6xE2NVj"
+      },
+      "artists": [
+        {
+          "name": "Trip Lee",
+          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+        }
+      ],
+      "duration_ms": 172523,
+      "name": "No Days Off",
+      "url": "https://open.spotify.com/track/4jZCSQmDeHDR3OfUDfYe9y"
     },
     {
       "added_at": "2023-11-02 08:57:58",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-11-02 08:57:58",
       "album": {
-        "name": "Confetti",
-        "url": "https://open.spotify.com/album/2GN4epksZV5WFSZDs1EE6C"
-      },
-      "artists": [
-        {
-          "name": "Trip Lee",
-          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
-        }
-      ],
-      "duration_ms": 181199,
-      "name": "Confetti",
-      "url": "https://open.spotify.com/track/5EmyCt8M4Ws9wY3wcT3i50"
-    },
-    {
-      "added_at": "2023-11-02 08:57:58",
-      "album": {
         "name": "Worship",
         "url": "https://open.spotify.com/album/4XYdo6BWkLGi8Ib8FbS59L"
       },
@@ -1447,22 +1431,6 @@
       "duration_ms": 155887,
       "name": "This Time",
       "url": "https://open.spotify.com/track/4BMfCr1ltbxM1BTF7hyvnK"
-    },
-    {
-      "added_at": "2023-11-02 08:57:58",
-      "album": {
-        "name": "Lord Knows",
-        "url": "https://open.spotify.com/album/1N1KIgC9XvEArNaMAy5A4o"
-      },
-      "artists": [
-        {
-          "name": "Mission",
-          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
-        }
-      ],
-      "duration_ms": 182508,
-      "name": "Lord Knows",
-      "url": "https://open.spotify.com/track/1Agr2KQtfDzfY7rjL6Dcy8"
     },
     {
       "added_at": "2023-11-02 08:57:58",
@@ -1491,6 +1459,38 @@
       "duration_ms": 179916,
       "name": "God Got My Back",
       "url": "https://open.spotify.com/track/6p5X1ACrVlUNM2MMD8f97i"
+    },
+    {
+      "added_at": "2023-11-02 08:57:58",
+      "album": {
+        "name": "Lord Knows",
+        "url": "https://open.spotify.com/album/1N1KIgC9XvEArNaMAy5A4o"
+      },
+      "artists": [
+        {
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+        }
+      ],
+      "duration_ms": 182508,
+      "name": "Lord Knows",
+      "url": "https://open.spotify.com/track/1Agr2KQtfDzfY7rjL6Dcy8"
+    },
+    {
+      "added_at": "2023-11-02 08:57:58",
+      "album": {
+        "name": "Confetti",
+        "url": "https://open.spotify.com/album/2GN4epksZV5WFSZDs1EE6C"
+      },
+      "artists": [
+        {
+          "name": "Trip Lee",
+          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+        }
+      ],
+      "duration_ms": 181199,
+      "name": "Confetti",
+      "url": "https://open.spotify.com/track/5EmyCt8M4Ws9wY3wcT3i50"
     },
     {
       "added_at": "2023-11-02 08:57:58",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-11-02 08:57:58",
       "album": {
-        "name": "September Season Pack, Vol. 3",
-        "url": "https://open.spotify.com/album/7FZ6J6owdc3lk8SbXZxuRB"
-      },
-      "artists": [
-        {
-          "name": "Aha Gazelle",
-          "url": "https://open.spotify.com/artist/7suLW93RkuQKWb4WTI5F14"
-        }
-      ],
-      "duration_ms": 147714,
-      "name": "Real Me",
-      "url": "https://open.spotify.com/track/0GxuDEA7wCRI9H6GQqSmsQ"
-    },
-    {
-      "added_at": "2023-11-02 08:57:58",
-      "album": {
         "name": "Ficky Ficky",
         "url": "https://open.spotify.com/album/7udGdBV98HP5C7vvtKDnKF"
       },
@@ -1587,22 +1571,6 @@
       "duration_ms": 104147,
       "name": "Ficky Ficky",
       "url": "https://open.spotify.com/track/0GDBvTELLm5ujaYzAqZebd"
-    },
-    {
-      "added_at": "2023-11-02 08:57:58",
-      "album": {
-        "name": "Out With a Bang",
-        "url": "https://open.spotify.com/album/2WTykrMsywqEpxUv8t1wnm"
-      },
-      "artists": [
-        {
-          "name": "Adriel Cruz",
-          "url": "https://open.spotify.com/artist/1aBDTgXnbKTDCUubYLbtoa"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Out With a Bang",
-      "url": "https://open.spotify.com/track/0VwFUq4R6tm56k21Kl7JWK"
     },
     {
       "added_at": "2023-11-02 08:57:58",
@@ -1623,18 +1591,34 @@
     {
       "added_at": "2023-11-02 08:57:58",
       "album": {
-        "name": "The End.",
-        "url": "https://open.spotify.com/album/04pUvZNdQT3sT8jJ7Iulwr"
+        "name": "September Season Pack, Vol. 3",
+        "url": "https://open.spotify.com/album/7FZ6J6owdc3lk8SbXZxuRB"
       },
       "artists": [
         {
-          "name": "Trip Lee",
-          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+          "name": "Aha Gazelle",
+          "url": "https://open.spotify.com/artist/7suLW93RkuQKWb4WTI5F14"
         }
       ],
-      "duration_ms": 247597,
-      "name": "Stone",
-      "url": "https://open.spotify.com/track/5Ad67PM8s57fx6ojnA4WgL"
+      "duration_ms": 147714,
+      "name": "Real Me",
+      "url": "https://open.spotify.com/track/0GxuDEA7wCRI9H6GQqSmsQ"
+    },
+    {
+      "added_at": "2023-11-02 08:57:58",
+      "album": {
+        "name": "Out With a Bang",
+        "url": "https://open.spotify.com/album/2WTykrMsywqEpxUv8t1wnm"
+      },
+      "artists": [
+        {
+          "name": "Adriel Cruz",
+          "url": "https://open.spotify.com/artist/1aBDTgXnbKTDCUubYLbtoa"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Out With a Bang",
+      "url": "https://open.spotify.com/track/0VwFUq4R6tm56k21Kl7JWK"
     },
     {
       "added_at": "2023-11-02 08:57:58",
@@ -1659,26 +1643,18 @@
     {
       "added_at": "2023-11-02 08:57:58",
       "album": {
-        "name": "The Same Jesus (Reyer Remix)",
-        "url": "https://open.spotify.com/album/2OPFkntf4D8A4JYJHuzvDI"
+        "name": "The End.",
+        "url": "https://open.spotify.com/album/04pUvZNdQT3sT8jJ7Iulwr"
       },
       "artists": [
         {
-          "name": "Reyer",
-          "url": "https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z"
-        },
-        {
-          "name": "JIMMY ROCK",
-          "url": "https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN"
-        },
-        {
-          "name": "Oleven",
-          "url": "https://open.spotify.com/artist/6hMyqOeb1TTUYkbNXpc6uB"
+          "name": "Trip Lee",
+          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
         }
       ],
-      "duration_ms": 181661,
-      "name": "The Same Jesus - Reyer Remix",
-      "url": "https://open.spotify.com/track/2V8rubGeVQkIIiqPbiDe2G"
+      "duration_ms": 247597,
+      "name": "Stone",
+      "url": "https://open.spotify.com/track/5Ad67PM8s57fx6ojnA4WgL"
     },
     {
       "added_at": "2023-11-02 08:57:58",
@@ -1715,6 +1691,30 @@
       "duration_ms": 137142,
       "name": "moshpit",
       "url": "https://open.spotify.com/track/3ucI5YXSFWj0GLtRXz9x7o"
+    },
+    {
+      "added_at": "2023-11-02 08:57:58",
+      "album": {
+        "name": "The Same Jesus (Reyer Remix)",
+        "url": "https://open.spotify.com/album/2OPFkntf4D8A4JYJHuzvDI"
+      },
+      "artists": [
+        {
+          "name": "Reyer",
+          "url": "https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z"
+        },
+        {
+          "name": "JIMMY ROCK",
+          "url": "https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN"
+        },
+        {
+          "name": "Oleven",
+          "url": "https://open.spotify.com/artist/6hMyqOeb1TTUYkbNXpc6uB"
+        }
+      ],
+      "duration_ms": 181661,
+      "name": "The Same Jesus - Reyer Remix",
+      "url": "https://open.spotify.com/track/2V8rubGeVQkIIiqPbiDe2G"
     },
     {
       "added_at": "2023-11-02 08:57:58",
@@ -1823,30 +1823,6 @@
     {
       "added_at": "2023-11-02 08:57:58",
       "album": {
-        "name": "Rewind",
-        "url": "https://open.spotify.com/album/0li3bqzi1Mbs3qQqIKHEA4"
-      },
-      "artists": [
-        {
-          "name": "FLAME",
-          "url": "https://open.spotify.com/artist/2s6kyMmJZFgPCHXU0QxJLp"
-        },
-        {
-          "name": "Json",
-          "url": "https://open.spotify.com/artist/5eAZLsVlw4VKkwtQS9cfrX"
-        },
-        {
-          "name": "Trubble",
-          "url": "https://open.spotify.com/artist/5xh7PeTyRsGDKrlHC01hxt"
-        }
-      ],
-      "duration_ms": 193653,
-      "name": "Let's Go",
-      "url": "https://open.spotify.com/track/5kYJsf5JPK5Iyqcv92FsmS"
-    },
-    {
-      "added_at": "2023-11-02 08:57:58",
-      "album": {
         "name": "Unstoppable (Do It Again) [Global Remix]",
         "url": "https://open.spotify.com/album/1287vr06Ue6VKn80lYz3uY"
       },
@@ -1871,6 +1847,30 @@
       "duration_ms": 160458,
       "name": "Unstoppable (Do It Again) - Global Remix",
       "url": "https://open.spotify.com/track/012mT5JjqPWeIMw22u4eZj"
+    },
+    {
+      "added_at": "2023-11-02 08:57:58",
+      "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/0li3bqzi1Mbs3qQqIKHEA4"
+      },
+      "artists": [
+        {
+          "name": "FLAME",
+          "url": "https://open.spotify.com/artist/2s6kyMmJZFgPCHXU0QxJLp"
+        },
+        {
+          "name": "Json",
+          "url": "https://open.spotify.com/artist/5eAZLsVlw4VKkwtQS9cfrX"
+        },
+        {
+          "name": "Trubble",
+          "url": "https://open.spotify.com/artist/5xh7PeTyRsGDKrlHC01hxt"
+        }
+      ],
+      "duration_ms": 193653,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/5kYJsf5JPK5Iyqcv92FsmS"
     },
     {
       "added_at": "2023-11-02 08:57:58",
@@ -2223,26 +2223,6 @@
     {
       "added_at": "2023-11-02 08:57:58",
       "album": {
-        "name": "Season",
-        "url": "https://open.spotify.com/album/74b2u5FRQAm3fGaZVuNN4k"
-      },
-      "artists": [
-        {
-          "name": "Jamil",
-          "url": "https://open.spotify.com/artist/4JDmvmyrWfrOVik0WkuoSu"
-        },
-        {
-          "name": "350",
-          "url": "https://open.spotify.com/artist/7tLS8BRv5KP3jPwm3KdsPl"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Season",
-      "url": "https://open.spotify.com/track/6eaicDoH7Icxf9J4HdPfVk"
-    },
-    {
-      "added_at": "2023-11-02 08:57:58",
-      "album": {
         "name": "In My Bible, In My Bag (Remix)",
         "url": "https://open.spotify.com/album/095osNyixbm1VPLWAx6qIc"
       },
@@ -2283,6 +2263,26 @@
       "duration_ms": 138250,
       "name": "Hold Me Back",
       "url": "https://open.spotify.com/track/1ahWWaHuP2LtyLfoB1g9By"
+    },
+    {
+      "added_at": "2023-11-02 08:57:58",
+      "album": {
+        "name": "Season",
+        "url": "https://open.spotify.com/album/74b2u5FRQAm3fGaZVuNN4k"
+      },
+      "artists": [
+        {
+          "name": "Jamil",
+          "url": "https://open.spotify.com/artist/4JDmvmyrWfrOVik0WkuoSu"
+        },
+        {
+          "name": "350",
+          "url": "https://open.spotify.com/artist/7tLS8BRv5KP3jPwm3KdsPl"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Season",
+      "url": "https://open.spotify.com/track/6eaicDoH7Icxf9J4HdPfVk"
     },
     {
       "added_at": "2023-11-02 08:57:58",
@@ -2355,18 +2355,18 @@
     {
       "added_at": "2023-11-02 08:57:58",
       "album": {
-        "name": "SIX THIRTY",
-        "url": "https://open.spotify.com/album/5k2sZKtwSVb27QYXRQDeEV"
+        "name": "What?",
+        "url": "https://open.spotify.com/album/4hpOq5jJwDOm3ziv3XTzzw"
       },
       "artists": [
         {
-          "name": "Sean C. Johnson",
-          "url": "https://open.spotify.com/artist/6jwSgdzEmAv7K0c4G8kq1H"
+          "name": "Reece Lache",
+          "url": "https://open.spotify.com/artist/4JM7nxReyQzeaaafLkhQYe"
         }
       ],
-      "duration_ms": 222375,
-      "name": "SIX THIRTY",
-      "url": "https://open.spotify.com/track/0LOVP9ay38uMVpyO0rSo3w"
+      "duration_ms": 132472,
+      "name": "What?",
+      "url": "https://open.spotify.com/track/6QF4hXZyp6QCrwakTtVO1v"
     },
     {
       "added_at": "2023-11-02 08:57:58",
@@ -2387,18 +2387,34 @@
     {
       "added_at": "2023-11-02 08:57:58",
       "album": {
-        "name": "What?",
-        "url": "https://open.spotify.com/album/4hpOq5jJwDOm3ziv3XTzzw"
+        "name": "SIX THIRTY",
+        "url": "https://open.spotify.com/album/5k2sZKtwSVb27QYXRQDeEV"
       },
       "artists": [
         {
-          "name": "Reece Lache",
-          "url": "https://open.spotify.com/artist/4JM7nxReyQzeaaafLkhQYe"
+          "name": "Sean C. Johnson",
+          "url": "https://open.spotify.com/artist/6jwSgdzEmAv7K0c4G8kq1H"
         }
       ],
-      "duration_ms": 132472,
-      "name": "What?",
-      "url": "https://open.spotify.com/track/6QF4hXZyp6QCrwakTtVO1v"
+      "duration_ms": 222375,
+      "name": "SIX THIRTY",
+      "url": "https://open.spotify.com/track/0LOVP9ay38uMVpyO0rSo3w"
+    },
+    {
+      "added_at": "2023-11-02 08:57:58",
+      "album": {
+        "name": "Limelight",
+        "url": "https://open.spotify.com/album/4ib84EXUEayuXlTVdZL3Wq"
+      },
+      "artists": [
+        {
+          "name": "TKE3",
+          "url": "https://open.spotify.com/artist/0t3vIkZ0lGE9vg88edFFci"
+        }
+      ],
+      "duration_ms": 133388,
+      "name": "Limelight",
+      "url": "https://open.spotify.com/track/67eJisNpkndo9Zkowt7M7V"
     },
     {
       "added_at": "2023-11-02 08:57:58",
@@ -2419,22 +2435,6 @@
       "duration_ms": 176076,
       "name": "Be Gone (feat. Mike Teezy)",
       "url": "https://open.spotify.com/track/2cnc9jsFHDsGDQpYBMtgP9"
-    },
-    {
-      "added_at": "2023-11-02 08:57:58",
-      "album": {
-        "name": "Limelight",
-        "url": "https://open.spotify.com/album/4ib84EXUEayuXlTVdZL3Wq"
-      },
-      "artists": [
-        {
-          "name": "TKE3",
-          "url": "https://open.spotify.com/artist/0t3vIkZ0lGE9vg88edFFci"
-        }
-      ],
-      "duration_ms": 133388,
-      "name": "Limelight",
-      "url": "https://open.spotify.com/track/67eJisNpkndo9Zkowt7M7V"
     },
     {
       "added_at": "2023-11-02 08:57:58",
@@ -2471,6 +2471,22 @@
     {
       "added_at": "2023-11-02 08:57:58",
       "album": {
+        "name": "Need You",
+        "url": "https://open.spotify.com/album/4xOxYOkrefDfXuOVenXPIl"
+      },
+      "artists": [
+        {
+          "name": "Caz",
+          "url": "https://open.spotify.com/artist/4BC0mFwxuHdoumvM6sxLDu"
+        }
+      ],
+      "duration_ms": 200931,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/1g1gGNiGpQ8Oc83C3W6Wuq"
+    },
+    {
+      "added_at": "2023-11-02 08:57:58",
+      "album": {
         "name": "Fight for It",
         "url": "https://open.spotify.com/album/78EFbUt7aY0OUn4KLgW7aM"
       },
@@ -2499,22 +2515,6 @@
       "duration_ms": 157675,
       "name": "PRESSURE",
       "url": "https://open.spotify.com/track/1hqAriaUctIMv62hDNBLWi"
-    },
-    {
-      "added_at": "2023-11-02 08:57:58",
-      "album": {
-        "name": "Need You",
-        "url": "https://open.spotify.com/album/4xOxYOkrefDfXuOVenXPIl"
-      },
-      "artists": [
-        {
-          "name": "Caz",
-          "url": "https://open.spotify.com/artist/4BC0mFwxuHdoumvM6sxLDu"
-        }
-      ],
-      "duration_ms": 200931,
-      "name": "Need You",
-      "url": "https://open.spotify.com/track/1g1gGNiGpQ8Oc83C3W6Wuq"
     },
     {
       "added_at": "2023-11-02 08:57:58",
@@ -2839,26 +2839,22 @@
     {
       "added_at": "2023-11-02 08:57:58",
       "album": {
-        "name": "Grind (feat. Kaleb Mitchell)",
-        "url": "https://open.spotify.com/album/23zxLb7w5htCeR3xTolpFk"
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/360Y9HLXTa23Qt3ODpLSid"
       },
       "artists": [
         {
-          "name": "Shepherd",
-          "url": "https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU"
+          "name": "Joshua Luke Smith",
+          "url": "https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A"
         },
         {
-          "name": "Canon",
-          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
-        },
-        {
-          "name": "Kaleb Mitchell",
-          "url": "https://open.spotify.com/artist/2h3jxkJKn7aBCd9WimAJiq"
+          "name": "Wild Sons",
+          "url": "https://open.spotify.com/artist/1lF0dM3992TbNu7BCTURkk"
         }
       ],
-      "duration_ms": 186906,
-      "name": "Grind (feat. Kaleb Mitchell)",
-      "url": "https://open.spotify.com/track/3EVYGJMre02KMtDbnvBLI8"
+      "duration_ms": 198600,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/4gSD3M18TW4oUikNduQbjP"
     },
     {
       "added_at": "2023-11-02 08:57:58",

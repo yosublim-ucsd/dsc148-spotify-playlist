@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Kali Uchis, KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,813 likes - 119 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,822 likes - 119 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 118 | [therapy](https://open.spotify.com/track/4ndTXhzw5vx2KXZXOHOe8S) | [Gloria Kim](https://open.spotify.com/artist/1DUd25ybTBglvAohsXTmBx) | [therapy](https://open.spotify.com/album/2kbQIS1RXna9AWSxd7XnJF) | 2:16 |
 | 119 | [Weltuntergang](https://open.spotify.com/track/7LMSGi0VCRrjElTXj7DGgJ) | [Jona Straub](https://open.spotify.com/artist/42mdVKdNJDsmQasPjTqVao) | [Weltuntergang](https://open.spotify.com/album/3Kn5I7WfJtMoeK0toJGEDx) | 3:21 |
 
-Snapshot ID: `MCwzZjYyZWJlODVkYzQzYmM0OTEyMGUxNjk0OWRlNTdkYzk4NmNkZWNk`
+Snapshot ID: `MCxiYzMzMThmMjlkMTNjMTIwNTViOGIzYTVmMDkwZDg0ODgwMDM5NmQ1`

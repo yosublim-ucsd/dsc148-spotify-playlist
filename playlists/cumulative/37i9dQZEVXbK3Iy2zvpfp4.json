@@ -8588,7 +8588,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-27",
       "duration_ms": 150401,
       "name": "Fighting My Demons",
       "url": "https://open.spotify.com/track/2c7sRekhMGlj7u1WIIzoQu"
@@ -10374,7 +10374,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-27",
       "duration_ms": 190173,
       "name": "Guilty",
       "url": "https://open.spotify.com/track/4jMwQaDiDICry8Ia1gFnAn"
@@ -15300,7 +15300,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-31",
+      "date_removed": null,
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -20210,7 +20210,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-27",
       "duration_ms": 155905,
       "name": "Overdrive (feat. Norma Jean Martine)",
       "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
@@ -21018,7 +21018,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-27",
       "duration_ms": 159080,
       "name": "Perfect Night",
       "url": "https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8"
@@ -21264,7 +21264,7 @@
       ],
       "date_added": "2023-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-27",
       "duration_ms": 186023,
       "name": "Plan\u00e9ta Hoth",
       "url": "https://open.spotify.com/track/1km168MgqgbSlgmebopRR3"
@@ -23684,7 +23684,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-22",
+      "date_removed": null,
       "duration_ms": 237133,
       "name": "Say The Word (feat. Clementine Douglas)",
       "url": "https://open.spotify.com/track/1V83L9oCbfir9q75yNbB1V"
@@ -25310,6 +25310,24 @@
       "duration_ms": 165673,
       "name": "Soldier, Poet, King",
       "url": "https://open.spotify.com/track/3xtiXNDbSKxy20I7D6vFUg"
+    },
+    {
+      "album": {
+        "name": "Solitude Velocity - Slowed + Loop",
+        "url": "https://open.spotify.com/album/5fjhpjLyKLcQnvLt4mUemp"
+      },
+      "artists": [
+        {
+          "name": "Luke Willies",
+          "url": "https://open.spotify.com/artist/3uIws1bbX1b53e0xJpz94r"
+        }
+      ],
+      "date_added": "2023-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358060,
+      "name": "Solitude Velocity - Slowed + Loop",
+      "url": "https://open.spotify.com/track/5oU6orNT7tPCnGzfx392BF"
     },
     {
       "album": {
@@ -28466,7 +28484,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-22",
+      "date_removed": null,
       "duration_ms": 150000,
       "name": "U H\u0159i\u0161t\u011b 380",
       "url": "https://open.spotify.com/track/0FpgtEgaMZSUw2RAD7JHGs"
@@ -31534,6 +31552,24 @@
       "duration_ms": 193337,
       "name": "\u0161tokholm",
       "url": "https://open.spotify.com/track/1dislHcDKIfdiqyhxvb9I2"
+    },
+    {
+      "album": {
+        "name": "\u0410\u0440\u0435\u0432\u0443\u0430\u0440",
+        "url": "https://open.spotify.com/album/2MxfvzFio1pYm8RuHzZeMR"
+      },
+      "artists": [
+        {
+          "name": "JIMBEI",
+          "url": "https://open.spotify.com/artist/1IlWz5Uzf3eBa5X2fKZOVM"
+        }
+      ],
+      "date_added": "2023-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126300,
+      "name": "\u0410\u0440\u0435\u0432\u0443\u0430\u0440",
+      "url": "https://open.spotify.com/track/3s0MFioEPUZiSHknXO4iaY"
     },
     {
       "album": {

@@ -347,6 +347,24 @@
     },
     {
       "album": {
+        "name": "Hex",
+        "url": "https://open.spotify.com/album/13NnZjrIhPo1L9W4flldxv"
+      },
+      "artists": [
+        {
+          "name": "Toundra",
+          "url": "https://open.spotify.com/artist/3cgIU3hh7Y4pUsPgHB8aYT"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 485250,
+      "name": "El Odio. Parte I",
+      "url": "https://open.spotify.com/track/0NE9QEMV1ljhNC8WB6UqYC"
+    },
+    {
+      "album": {
         "name": "El Odio. Parte I",
         "url": "https://open.spotify.com/album/1H3Ps2PV4sNgbpTzZvuinS"
       },
@@ -538,7 +556,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-11-27",
       "duration_ms": 292453,
       "name": "Golden Hill",
       "url": "https://open.spotify.com/track/3FhASv6CcevRilYRxpCZrK"

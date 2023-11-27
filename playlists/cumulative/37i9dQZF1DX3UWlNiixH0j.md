@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Billyrrom
 
-1,024 songs - 2 day 15 hr 59 min
+1,025 songs - 2 day 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [1096](https://open.spotify.com/track/7Ld2efllkAfXdSOkAqPNwu) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [1096](https://open.spotify.com/album/2Cf2vmP3ffvd5n1Qo1UFNY) | 5:45 | 2023-03-30 | 2023-04-29 |
 | [130](https://open.spotify.com/track/7r7kXWGqoHcLp1CgzoNsvM) | [bed](https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9) | [130](https://open.spotify.com/album/1JDCIfpoBPrYy5vnAFkp30) | 1:30 | 2023-06-20 | 2023-07-05 |
 | [16:28](https://open.spotify.com/track/6uqVlsFHg4Nkr1wRenev6O) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [no public sounds](https://open.spotify.com/album/6aO96YUjirdU0mPzy7mCHd) | 5:45 | 2023-09-26 |  |
+| [18の息吹](https://open.spotify.com/track/7jCXSLeKRdlndNLBoGIOZR) | [山本大斗](https://open.spotify.com/artist/1KA2TRTtiLfWAN7HQBB3su) | [∞](https://open.spotify.com/album/3gcRCzE40Pnraab0ZXcQjR) | 4:33 | 2023-11-24 |  |
 | [2人は飛び降りた](https://open.spotify.com/track/0pFQvJ2re0mMT5DF8o2gjE) | [SUBARASHIKA](https://open.spotify.com/artist/6aNahzVflJNhU49Ttmvsq5) | [2人は飛び降りた](https://open.spotify.com/album/2QpRd89ajCuOe0vZUWkPKb) | 3:57 | 2023-09-26 | 2023-09-28 |
 | [6月は愛について](https://open.spotify.com/track/5pzbLN7UbYjZz7zRZsAKri) | [Nagakumo](https://open.spotify.com/artist/3iT7qp7T00Ot50wtDct8gw) | [JUNE e.p.](https://open.spotify.com/album/4IrEjA3UuyN5o1TAr3aVU9) | 3:09 | 2023-08-08 | 2023-08-10 |
 | [a \(hey\)](https://open.spotify.com/track/1sGH32pmXnEhI5myHYhYi1) | [Thiiird Place](https://open.spotify.com/artist/1p9jWKYjBCIfRSlaO7Ogxk) | [a \(hey\)](https://open.spotify.com/album/2SwEji0M37BGWE7nDKMUOG) | 3:09 | 2023-05-23 | 2023-06-07 |
@@ -300,7 +301,7 @@
 | [Japanalog](https://open.spotify.com/track/6UvaD6jmG8NDUs5j0F0w6f) | [TESTSET](https://open.spotify.com/artist/5yNHyOo143SXywbGvCAXhD) | [1STST](https://open.spotify.com/album/2rrNP1v4yTJDxK4NdYAiZt) | 4:01 | 2023-07-11 | 2023-08-02 |
 | [JET](https://open.spotify.com/track/7hftTxgaRlD51lgTvmtVqJ) | [黄鶯睍睆\(uguisu\-naku\)](https://open.spotify.com/artist/6XUG7F74W7f7j36VzVPlSl) | [JET](https://open.spotify.com/album/3tjGSyyeaNSbn6EDPHW1gE) | 2:53 | 2023-08-08 | 2023-08-16 |
 | [Jimmy](https://open.spotify.com/track/43w8P0srZycFKeKf04etpG) | [Giallo](https://open.spotify.com/artist/4BlSVJE8kmeUwTaDYLZgwU) | [Jimmy](https://open.spotify.com/album/7jsC0HrAcsIjfhrQEwYVT0) | 2:19 | 2023-04-11 | 2023-04-26 |
-| [JOHJI](https://open.spotify.com/track/1trPyHkA0NvuY8jfYLEruI) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [JOHJI](https://open.spotify.com/album/6Mv4qwCruIA7hkMAoCwPOt) | 4:48 | 2023-10-31 |  |
+| [JOHJI](https://open.spotify.com/track/1trPyHkA0NvuY8jfYLEruI) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [JOHJI](https://open.spotify.com/album/6Mv4qwCruIA7hkMAoCwPOt) | 4:48 | 2023-10-31 | 2023-11-27 |
 | [Joyride](https://open.spotify.com/track/49bMyaa2FrqfoKpy5sGrRu) | [Puff](https://open.spotify.com/artist/5UhiiLdlZhWqyThTakJmkw) | [Joyride](https://open.spotify.com/album/5FHem8WetCSGkXRbGjUp1r) | 4:33 | 2023-09-19 | 2023-09-27 |
 | [Jurassic](https://open.spotify.com/track/0okYcNqMBFmSwf2xeECPpd) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Jurassic](https://open.spotify.com/album/6XDBprGtBpzB7t0dHP85fs) | 2:57 | 2023-07-18 | 2023-07-20 |
 | [Jurassic](https://open.spotify.com/track/7HcpoYSDvOks6YAE2A3JQn) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Jurassic](https://open.spotify.com/album/6dgCSpkDbi4Y4WJpC24nZ8) | 2:57 | 2023-07-18 | 2023-08-23 |
@@ -347,7 +348,7 @@
 | [Lovebites \- Tamio Sakuma Remix](https://open.spotify.com/track/1PE0cRc1m8z3k24pd24LXD) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq), [Tamio Sakuma](https://open.spotify.com/artist/6thMychOI4hNx5UlChbzUt) | [Lovebites \(Tamio Sakuma Remix\)](https://open.spotify.com/album/54yX0P1hbzOCuqXnYSIfvU) | 4:27 | 2023-09-08 | 2023-09-20 |
 | [LOWGUYS](https://open.spotify.com/track/0dUDLvyj4ziYpTn9IceO0E) | [Charisma.com](https://open.spotify.com/artist/5plo5UwgrFliohBttLzqRr) | [LOWGUYS](https://open.spotify.com/album/52EbSy9SGomsFj5CsvsWSA) | 3:47 | 2023-06-13 | 2023-06-21 |
 | [Lucky Boy](https://open.spotify.com/track/1rGTt1WmULpnVd1OJYy3C8) | [Ewoks](https://open.spotify.com/artist/6445mZFWCQZeCmwi6hB4wl) | [ep2](https://open.spotify.com/album/4JFAmcIyNGWvwL9IPJmd0Q) | 3:45 | 2023-03-07 | 2023-03-29 |
-| [Lucy](https://open.spotify.com/track/1ioc0bvKPoAjGAyZ5lRxvu) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [Lucy](https://open.spotify.com/album/2xnazTOASgHULfFAeYhC5Y) | 3:07 | 2023-08-01 | 2023-11-24 |
+| [Lucy](https://open.spotify.com/track/1ioc0bvKPoAjGAyZ5lRxvu) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [Lucy](https://open.spotify.com/album/2xnazTOASgHULfFAeYhC5Y) | 3:07 | 2023-08-01 |  |
 | [Magic hour](https://open.spotify.com/track/00431JgUFuCZGE9Ucjh4t5) | [miida and The Department](https://open.spotify.com/artist/6KueHYid6VoKcksdcIKqew), [Lafuzin](https://open.spotify.com/artist/1AHiKEHZA1R7NmOeUMmhoo), [BRIAN SHINSEKAI](https://open.spotify.com/artist/162nZqAL1seshcby7rd2gY) | [Magic hour](https://open.spotify.com/album/5R0VUhPdk9DJkIZgVezqyn) | 4:26 | 2023-07-27 | 2023-08-30 |
 | [magic journey](https://open.spotify.com/track/5oCkzlqCyxgLyIVxuI9xl2) | [中川理沙](https://open.spotify.com/artist/4MyrgJ1rFn4ZxeKIH49jDO) | [magic journey](https://open.spotify.com/album/6dVpUHScn5FVA77pziO3Pq) | 4:03 | 2023-09-05 | 2023-09-20 |
 | [MAJIC](https://open.spotify.com/track/07pGTcfzbu0jtG6aoAfKhM) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR) | [INORI](https://open.spotify.com/album/3jDrLQ2fCCjBgF3IC5wP0D) | 4:01 | 2023-04-04 | 2023-05-24 |
@@ -548,7 +549,7 @@
 | [Starlight](https://open.spotify.com/track/1z39usGi4dXhcBoGGJz97c) | [高井息吹](https://open.spotify.com/artist/7zfwhvxWePJ4CqKqkbndML) | [Starlight / yoakemae](https://open.spotify.com/album/0UiMGbnQYzC9kQYTpoaG6r) | 5:17 | 2023-07-18 | 2023-08-16 |
 | [Staying](https://open.spotify.com/track/0p1deKNxo8x5pb1Nkzy67d) | [Clute](https://open.spotify.com/artist/1Astf0A3Ru04VkY1J4KVbf) | [Staying](https://open.spotify.com/album/4HwyiWSpgYUPy6mjXnZQeE) | 3:47 | 2023-08-30 | 2023-09-06 |
 | [Storm](https://open.spotify.com/track/2SbVG0CbQm7mNisy6Ly9Cs) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [KARÍTAS](https://open.spotify.com/artist/04T85rA4a542j4ftX6DFYc) | [Storm](https://open.spotify.com/album/0zonbnewfvKxpswG4b5v0g) | 3:46 | 2023-01-12 | 2023-03-01 |
-| [Strange Leaf](https://open.spotify.com/track/3c9NKkqj3SNvc1njMOgUks) | [aint lindy](https://open.spotify.com/artist/1fQGGKBMELqEeoBsoywDrC) | [Strange Leaf](https://open.spotify.com/album/5GX6BXfojiA7qG2sXni4hb) | 3:47 | 2023-11-12 |  |
+| [Strange Leaf](https://open.spotify.com/track/3c9NKkqj3SNvc1njMOgUks) | [aint lindy](https://open.spotify.com/artist/1fQGGKBMELqEeoBsoywDrC) | [Strange Leaf](https://open.spotify.com/album/5GX6BXfojiA7qG2sXni4hb) | 3:47 | 2023-11-12 | 2023-11-27 |
 | [Strangers In The Night](https://open.spotify.com/track/3GoiPlWtQO9m1iqxKorcrr) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Strangers In The Night](https://open.spotify.com/album/55CO6FPOjzSeWBHdVz1wTv) | 3:55 | 2023-10-31 |  |
 | [strong zero gravity](https://open.spotify.com/track/701I1Uyx6gLciKwRfuhSJR) | [MANON](https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3) | [strong zero gravity](https://open.spotify.com/album/7dv9fz7OJTyH5UpwvIkzLy) | 4:13 | 2023-01-12 | 2023-01-18 |
 | [suddenly](https://open.spotify.com/track/60H06Uwpf1K7ZSzIPXloZr) | [Spangle Call Lilli Line](https://open.spotify.com/artist/6oCeoRIeqwZAgoaNOv8IyB) | [Ampersand](https://open.spotify.com/album/2WQwITVOBHDt6YzUa2tSnt) | 4:49 | 2023-01-24 | 2023-03-10 |

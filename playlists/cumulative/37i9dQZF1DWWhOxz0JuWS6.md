@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 80s rock! Cover: Def Leppard.
 
-528 songs - 1 day 14 hr 13 min
+529 songs - 1 day 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Don't Forget Me \(When I'm Gone\)](https://open.spotify.com/track/2G0ioyDyvIT1hu71VePzOL) | [Glass Tiger](https://open.spotify.com/artist/53RaPTbZOx2mBoZD6LLWIv) | [The Thin Red Line \(Deluxe\)](https://open.spotify.com/album/6kpcZGUWKsAtrWv7EYCLbV) | 4:08 | 2020-12-08 | 2023-04-02 |
 | [Don't Forget Me \(When I'm Gone\)](https://open.spotify.com/track/2pTMzMFnEtE4D0U4IcYSSX) | [Glass Tiger](https://open.spotify.com/artist/53RaPTbZOx2mBoZD6LLWIv) | [The Thin Red Line](https://open.spotify.com/album/1ejYRdDqaYnRAIVUpuCt0R) | 4:08 | 2020-12-08 | 2022-07-29 |
 | [Don't Go Away Mad \(Just Go Away\)](https://open.spotify.com/track/2zZ8l0uehjvGhJR5SMN9Jl) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood](https://open.spotify.com/album/6pL7kL9cOc0DpWCq6qJtxQ) | 4:39 | 2020-12-08 | 2022-07-29 |
+| [Don't Go Away Mad \(Just Go Away\) \(2021\- Remaster\)](https://open.spotify.com/track/0F5NaGpnJcjQIKgIyZpVCv) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood \(40th Anniversary;2021 \- Remaster\)](https://open.spotify.com/album/2EToovm9UH7cVPepJOg1B6) | 4:38 | 2022-11-17 |  |
 | [Don't Go Away Mad \(Just Go Away\) \- 2021 \- Remaster](https://open.spotify.com/track/4kXV4Kf4IeeA9Ah9RH3VY1) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood \(2021 \- Remaster\)](https://open.spotify.com/album/1pRY36LiSRq5oBwdrLKrF2) | 4:38 | 2020-12-08 | 2023-11-19 |
 | [Don't Let Him Go](https://open.spotify.com/track/6UxGF7LGJ5qE0LJViSTsA2) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Hi Infidelity \(30th Anniversary Edition\)](https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N) | 3:45 | 2020-12-08 |  |
 | [Don't Let Him Know](https://open.spotify.com/track/5XsN0APdDx4ZXWpmTC5sO4) | [Prism](https://open.spotify.com/artist/5LRNWnDWFkMtRmlxtYdW3I) | [Lost Hits Of The 80's](https://open.spotify.com/album/3Z4g149VhJYZMQ3cGTGgJl) | 3:08 | 2020-12-08 | 2022-07-22 |
@@ -323,7 +324,7 @@
 | [People Have the Power](https://open.spotify.com/track/4GbnjrrobeVLCl1FQ5C0OY) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Dream Of Life](https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe) | 5:10 | 2020-12-08 | 2023-04-25 |
 | [Permanent Vacation](https://open.spotify.com/track/0neVe9ZjvNk1ag0SrI2ra0) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Permanent Vacation](https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp) | 4:49 | 2020-12-08 | 2022-07-29 |
 | [Plainsong \- Remastered](https://open.spotify.com/track/4gcfxHL1iRgP0RHCDYMNIo) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy) | 5:17 | 2020-12-08 | 2022-07-06 |
-| [Play The Game \- Remastered 2011](https://open.spotify.com/track/4b0mX1GtrQLiUW9jpb6Xcx) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 3:32 | 2022-11-17 |  |
+| [Play The Game \- Remastered 2011](https://open.spotify.com/track/4b0mX1GtrQLiUW9jpb6Xcx) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 3:32 | 2022-11-17 | 2023-11-27 |
 | [Play The Game \- Remastered 2011](https://open.spotify.com/track/5p6xhgQCwzX0G9PadMU9GA) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(2011 Remaster\)](https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67) | 3:32 | 2020-12-08 | 2022-07-27 |
 | [Play the Game Tonight](https://open.spotify.com/track/5JQaG1VrTu4fbieUsDUdrt) | [Kansas](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) | [Vinyl Confessions](https://open.spotify.com/album/31kDP6XF3s8dIt0iGFS4PX) | 3:27 | 2020-12-08 |  |
 | [Playing with the Boys \- From "Top Gun" Original Soundtrack](https://open.spotify.com/track/0Ag8WW9OeJNnq7inwkqaxL) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [TOP GUN/SOUNDTRACK](https://open.spotify.com/album/0aAtSw6p6dKW33Azdc0Ihq) | 3:54 | 2022-05-30 | 2022-07-26 |

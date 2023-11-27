@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women from all over the world, at full volume\. Cover: Bellakath
 
-[Spotify](https://open.spotify.com/user/spotify) - 912,216 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 912,185 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 24 | [Promets\-moi](https://open.spotify.com/track/4NZUIBH4Nrqepi8GyDerit) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Charlotte](https://open.spotify.com/album/0FupCLD5qVgIl3Omjjp6gu) | 3:08 |
 | 25 | [Beni Yanlış Bırak](https://open.spotify.com/track/6wyeHLKjp7guulm1nqBs8X) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [Beni Yanlış Bırak](https://open.spotify.com/album/2cmLNe0FXyf0NVaOrGfhwL) | 4:44 |
 | 26 | [Bahaane](https://open.spotify.com/track/7eQBzDRjBJ2bCkRKxNPbXm) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [somanshu](https://open.spotify.com/artist/0q7fw7pC9FcW9AUfIw4H5H), [The Rish](https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI), [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs) | [Bahaane](https://open.spotify.com/album/0R3qoIMGjyEOrntY9seZCk) | 2:42 |
-| 27 | [感情用事](https://open.spotify.com/track/1MzomU1zM1oEuyIAJ1upfu) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [BITE BACK](https://open.spotify.com/album/3X1sMupgW7KQJQsk0QXAdM) | 3:57 |
-| 28 | [kamfora](https://open.spotify.com/track/3tKMcyxM5JJTXOmim2zH3e) | [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [przestrzeń](https://open.spotify.com/album/6vd5tpfLPPJ3Bo2VyStDqA) | 3:59 |
+| 27 | [kamfora](https://open.spotify.com/track/3tKMcyxM5JJTXOmim2zH3e) | [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [przestrzeń](https://open.spotify.com/album/6vd5tpfLPPJ3Bo2VyStDqA) | 3:59 |
+| 28 | [感情用事](https://open.spotify.com/track/1MzomU1zM1oEuyIAJ1upfu) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [BITE BACK](https://open.spotify.com/album/3X1sMupgW7KQJQsk0QXAdM) | 3:57 |
 | 29 | [Gelatai](https://open.spotify.com/track/3Wx807nizmqn4rU0esPC33) | [svegliaginevra](https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS) | [Gelatai](https://open.spotify.com/album/7ro4CirH2GXfXnAZVHZ6f1) | 2:56 |
 | 30 | [Sophie](https://open.spotify.com/track/4ySch7clKEIT3h3GXDNBWR) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [Sophie](https://open.spotify.com/album/47cphz8bSNm8xnXlgWrT7I) | 3:14 |
 | 31 | [Fără Te Merau](https://open.spotify.com/track/1GGYCLvxTgJG51XRCkf1r2) | [Delia](https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB), [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr) | [Fără Te Merau](https://open.spotify.com/album/2N7CbtksyOtSHqEXrSixZ7) | 3:02 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 57 | [NEO KAWAII, K?](https://open.spotify.com/track/1XpMbiTtDGFFcA6fyvZm8Y) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [CHAI](https://open.spotify.com/album/5g4cqZOzCM2kUN6D1HX9ds) | 2:34 |
 | 58 | [Baila Conmigo](https://open.spotify.com/track/5Ypzuth3LKAVgMljAoNfP4) | [Soleá Morente](https://open.spotify.com/artist/5X5UPn6eVnwfYcujIQpcfu) | [Ole Lorelei](https://open.spotify.com/album/6HjTgcJIUZgyyVJYwn1SQ7) | 4:10 |
 | 59 | [Sunset Sensory](https://open.spotify.com/track/0ECsJAG3NChMyj84hKupSq) | [Mai Davika](https://open.spotify.com/artist/7LWOi14A1E3fgoQuJajQ4G) | [Sunset Sensory](https://open.spotify.com/album/7zIX5owJgjY8yHOWewF0jG) | 2:51 |
-| 60 | [I Am America](https://open.spotify.com/track/0MkBDogipPa3FvHzlXsxqO) | [Shea Diamond](https://open.spotify.com/artist/5blcro89qJueGv0DGQ2rsH) | [I Am America](https://open.spotify.com/album/0hdDylmyXxtpZdciiSaQS2) | 2:51 |
-| 61 | [No Te Puto Pilles](https://open.spotify.com/track/4UE6QnE8VNcA0YLct7PKix) | [Pantocrator](https://open.spotify.com/artist/0EeQNIqYTjakHI2O81gAa3) | [No Te Puto Pilles](https://open.spotify.com/album/53RXjCnxscKdDQUsBcP4bL) | 2:36 |
+| 60 | [No Te Puto Pilles](https://open.spotify.com/track/4UE6QnE8VNcA0YLct7PKix) | [Pantocrator](https://open.spotify.com/artist/0EeQNIqYTjakHI2O81gAa3) | [No Te Puto Pilles](https://open.spotify.com/album/53RXjCnxscKdDQUsBcP4bL) | 2:36 |
+| 61 | [I Am America](https://open.spotify.com/track/0MkBDogipPa3FvHzlXsxqO) | [Shea Diamond](https://open.spotify.com/artist/5blcro89qJueGv0DGQ2rsH) | [I Am America](https://open.spotify.com/album/0hdDylmyXxtpZdciiSaQS2) | 2:51 |
 | 62 | [Moonlight](https://open.spotify.com/track/093KjE0RKo2wfnWqYZvWJo) | [Noémie Wolfs](https://open.spotify.com/artist/5sJWIuRMqeiMooXNf6pavo) | [Wild At Heart](https://open.spotify.com/album/2Z74FlDExdsnJm1IG7Y2Ia) | 4:09 |
 | 63 | [a la mitad](https://open.spotify.com/track/1gW9X06llszndm9jXmb3tL) | [Lina Sanabria](https://open.spotify.com/artist/4NNyMWpP0BxL3RL0G60hmV) | [a la mitad](https://open.spotify.com/album/5utJnpc0PKXhEjHPdnG9dh) | 3:05 |
 | 64 | [idundomuchtalkingnow](https://open.spotify.com/track/669OXkisqk5sChjgpcwaTI) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8), [Jonwl](https://open.spotify.com/artist/1acr3vZX3WVbX6dXdwjyhz) | [idundomuchtalkingnow](https://open.spotify.com/album/30aPnV4ctObMcAxSlO2uPx) | 3:45 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 74 | [Cruel World](https://open.spotify.com/track/2Y2hR1O1cJYvsWkUJRD8Xy) | [GUMPOONG](https://open.spotify.com/artist/5QTueSjTbOjuiLiGz7APuE) | [Cruel World](https://open.spotify.com/album/31i8l1jymUX8KLVq66XkXO) | 3:47 |
 | 75 | [ICONS](https://open.spotify.com/track/3ix4gw2l6cCyS82epZ4iCL) | [Sophia Amato](https://open.spotify.com/artist/3cVQTQoXntc489KhMdcCDS) | [ICONS](https://open.spotify.com/album/3ZDL01HaLAtasNBZEe1bPA) | 3:09 |
 
-Snapshot ID: `MCw2OWZlMDUwMWRjNGZiMWRmOTZhNDVmM2M1MzliY2M0YmRhNzRjMjU4`
+Snapshot ID: `MCw0OGUxZDZjNGQ0OTAyYTlmMWRhYmY5ZmEzZDhjOTdmYjkzY2Q3OGQz`

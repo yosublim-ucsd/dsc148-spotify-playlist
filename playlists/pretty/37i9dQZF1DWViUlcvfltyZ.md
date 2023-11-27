@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 46 | [ROCK AND ROLL](https://open.spotify.com/track/2yzrUpnqR8BD43EuTW9Rl4) | [Bugo](https://open.spotify.com/artist/01U4yWwtUKMckbI55OiT7g) | [ROCK AND ROLL](https://open.spotify.com/album/76AWqOYMJCCYC7s1eylgfm) | 3:35 |
 | 47 | [Storie Di Lacrime](https://open.spotify.com/track/2hiQgORiBC1Zr05h7QGWRf) | [Il Triangolo](https://open.spotify.com/artist/4Cco3ONl5H31a2rE7oGfQZ) | [Storie Di Lacrime](https://open.spotify.com/album/4cxscTorNCluaPbWuXL0GG) | 3:24 |
 | 48 | [Dignità](https://open.spotify.com/track/1cjqqwQOqlZ6r0ohCUJJlV) | [Eugenio Sournia](https://open.spotify.com/artist/3WCGURs8932ul1bUI4FHCX) | [Dignità](https://open.spotify.com/album/2lvYiCbBdoYamYhHAhwkBW) | 3:50 |
-| 49 | [MAI FATTO 31](https://open.spotify.com/track/76iQhtyetBmpoRlCUDEmpH) | [Bachi Da Pietra](https://open.spotify.com/artist/17E3eee30nez6YfwVxhHzH) | [MAI FATTO 31](https://open.spotify.com/album/3ly2EAqIwCplfBlcEow6mE) | 4:12 |
+| 49 | [MAI FATTO 31](https://open.spotify.com/track/0Y2QHOcbhAsBGNkrdC0iPQ) | [Bachi Da Pietra](https://open.spotify.com/artist/17E3eee30nez6YfwVxhHzH) | [ACCETTA E CONTINUA](https://open.spotify.com/album/3GdVuQynzjOPCrHDyM0wfY) | 4:12 |
 | 50 | [UN GIORNO, TRE AUTUNNI](https://open.spotify.com/track/0hLiFVr4wBItboPoHKRU8L) | [La Gabbia](https://open.spotify.com/artist/1VSD5ZQWKR9HeF3e2xCBiy) | [FRANA / UN GIORNO, TRE AUTUNNI](https://open.spotify.com/album/6zXTEwnCqiKb8TSNsGRcGi) | 4:00 |
 | 51 | [amore/squallore](https://open.spotify.com/track/1XnatIIfDsklJ9Mmz5qci0) | [Adelasia](https://open.spotify.com/artist/7AGxQIsvUzqpdMl1aW1usw) | [amore/squallore](https://open.spotify.com/album/1E3atzTv47V9738zZvx0px) | 2:55 |
 | 52 | [VIVO](https://open.spotify.com/track/4vekb60d6nVafoqxOxSi1n) | [Mutonia](https://open.spotify.com/artist/1l9tfz6AVS1Q0QuTlaDRER) | [MALÈSSERE](https://open.spotify.com/album/7ha36SnBhWZtVsL0OQc9BP) | 2:39 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 59 | [Rumore bianco](https://open.spotify.com/track/6s7rr8yzAFv1ckxvbH8iai) | [And So Your Life Is Ruined](https://open.spotify.com/artist/33mryanYYlYMiJnYAobfEk) | [Rumore bianco](https://open.spotify.com/album/7FCjc7EF3qpfGHRFZIl2mP) | 2:14 |
 | 60 | [Neuro Queer Cyber Punk \(italia\)](https://open.spotify.com/track/1UK7liy7XxmvtFcbiLj914) | [Sun Dojo](https://open.spotify.com/artist/3MRGrKnnFFaVCtsjOGIKgb) | [Neuro Queer Cyber Punk \(italia\)](https://open.spotify.com/album/73Ae3sW9ClAH9khsl5hZrk) | 0:57 |
 
-Snapshot ID: `MCxhZTE3MzY1Yjg3MWM4ZjFjOWIwZjZhYzQwMDZiZTVjYzkwNWJkNjU5`
+Snapshot ID: `MCxjMzlkYzkyOGFkZGQyZDUzODI1ODVhMzNmNmM5MjUwOTk2MTMxOTg5`

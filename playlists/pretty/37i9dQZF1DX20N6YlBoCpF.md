@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die varste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/46aCUT92RT7Q9QwhZuaNXh?si=Q8v3CAF3QxuUfz9G3GYJkw">Leah</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,372 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,501 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 59 | [Aan Soos Brakpan](https://open.spotify.com/track/4oOCQEM8Cfvab9EY56dkC0) | [Wikus Botma](https://open.spotify.com/artist/099AZ9nM47Fy3VJ7aLN2Io) | [Aan Soos Brakpan](https://open.spotify.com/album/2TaF67gjBKkEvBjxQAKZRp) | 3:07 |
 | 60 | [Laatnag Gedagtes](https://open.spotify.com/track/3ACYgEkC2uFq5FY6GRM46r) | [Ivan Roux](https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA) | [Laatnag Gedagtes](https://open.spotify.com/album/7mK9xFRMAJsfyxdX1qecNa) | 2:54 |
 
-Snapshot ID: `MCw0N2NiZjYzM2NhOGNmYzZhNDY3MWU1ZDRiNTM4MzkwMTIwMWY3OGUw`
+Snapshot ID: `MCw2ODk5ZDAzN2Q0YTRiOWJlZDY2ZTBkMzc2ZmIzNGYxNzM5NGFlYWVj`

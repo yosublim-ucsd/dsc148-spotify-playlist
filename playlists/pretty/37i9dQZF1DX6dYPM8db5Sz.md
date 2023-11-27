@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU?si=MhhOT8hQRVm7\-aNkyYmJJw">Beatenberg</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,242 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,281 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 99 | [FEELING IT](https://open.spotify.com/track/5tKM15EmEHGRufPvR2Prqi) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs), [Ashwin Smith](https://open.spotify.com/artist/21O1GLm7iw8np86CJ4hNtO) | [FEELING IT](https://open.spotify.com/album/3I3dDA3aaa94LY9eXkk774) | 2:23 |
 | 100 | [Still Here](https://open.spotify.com/track/6qNZb2B2C0G8fmz5CjwM93) | [Gothe](https://open.spotify.com/artist/6FpFEaQbeODjVhr3dBaUwN) | [Still Here](https://open.spotify.com/album/1NFkXm5FE4zCRZo2YEledF) | 2:33 |
 
-Snapshot ID: `MCxiMTk2NjE2MTJmMGI0YWMyMTY1NWZhZDBmN2Q1ZDM2Y2Y4OTU2NTUz`
+Snapshot ID: `MCxiMjM5MGI0ZDMyMmM5M2I1ZGZlODk4Nzk0YWY2ODQ1ZjJhNTJlZjNk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > Emerging sounds in worship from everywhere.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,822 likes - 130 songs - 11 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,910 likes - 130 songs - 11 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 52 | [What a Friend We Have in Jesus](https://open.spotify.com/track/6FcRGaAH75N9aMVwjQzW7z) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Hannah Hardin](https://open.spotify.com/artist/5JeOw3xyCh4cjWFZcyRXQW) | [What a Friend We Have in Jesus](https://open.spotify.com/album/5oiCKNE3Bxj6uSQ2LeeLum) | 4:34 |
 | 53 | [There’s Nothing That Our God Can’t Do \- Live From Passion 2020](https://open.spotify.com/track/25v5O2q4TMYitlz9br8XGt) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Roar \(Live From Passion 2020\)](https://open.spotify.com/album/3TlEGcbneZP4tE2V0dn1em) | 5:45 |
 | 54 | [Rejoice](https://open.spotify.com/track/2lJnLe5B0RSr8H5DpSktER) | [Brad & Rebekah](https://open.spotify.com/artist/1ef7Y06MRVT7HfRdJDHBOG) | [Life Again](https://open.spotify.com/album/5BI5Wl8TCjrIczfZMQpU0u) | 4:02 |
-| 55 | [Even The Impossible \- Live](https://open.spotify.com/track/76MXIf96ZEL7YKIlBA3rp8) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Even The Impossible \(Live\)](https://open.spotify.com/album/1TaGKUChbljBn2UBmzlBjN) | 4:50 |
-| 56 | [Daughters of Zion](https://open.spotify.com/track/1cOGwFxxHG1xtkKN8Eet5I) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Casey J](https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd), [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Neighbor Songs](https://open.spotify.com/album/2MpPrCjCCzWEEUD9gb93So) | 4:01 |
+| 55 | [Daughters of Zion](https://open.spotify.com/track/1cOGwFxxHG1xtkKN8Eet5I) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Casey J](https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd), [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Neighbor Songs](https://open.spotify.com/album/2MpPrCjCCzWEEUD9gb93So) | 4:01 |
+| 56 | [Even The Impossible \- Live](https://open.spotify.com/track/76MXIf96ZEL7YKIlBA3rp8) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Even The Impossible \(Live\)](https://open.spotify.com/album/1TaGKUChbljBn2UBmzlBjN) | 4:50 |
 | 57 | [I Will Wait \- Live](https://open.spotify.com/track/61w1MUwkJwRYUD4Wxn7dHz) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [The Wait: Silence The Noise \(Live\)](https://open.spotify.com/album/3DieBlaZb3oBUjd8Stuxjd) | 4:56 |
 | 58 | [Real Thing](https://open.spotify.com/track/3sUCZXBv5Gs8cG9opub5MO) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Altars](https://open.spotify.com/album/3ODMG0dAX0ALnDlU7s7aes) | 5:00 |
 | 59 | [Río](https://open.spotify.com/track/0DHIc3Oasiw0g8ynzaqV7O) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm) | [Todos A La Mesa](https://open.spotify.com/album/6Etivewzt1lcrYkWUAqnd9) | 4:07 |
@@ -136,7 +136,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 126 | [Your Name \- Live](https://open.spotify.com/track/6EBl99aH0CywyEmWqje7pW) | [LIFE Worship](https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d) | [Your Name \(Live\)](https://open.spotify.com/album/3gtzVT6Ai7m4pxfdv1KnjG) | 6:25 |
 | 127 | [Lord You Have My Heart \(feat\. Martin Smith\)](https://open.spotify.com/track/5zQBaedwtzHmC1z5OSNqvX) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD), [Martin Smith](https://open.spotify.com/artist/4bY9UB7BwlfZCAnKJPzGIz) | [Lord You Have My Heart \(feat\. Martin Smith\)](https://open.spotify.com/album/2ruV9qUcGIV9SKOQpHrINS) | 4:27 |
 | 128 | [Freedom Found Me](https://open.spotify.com/track/2wRuIOGZyTKwUJP0miokoj) | [Philippa Hanna](https://open.spotify.com/artist/13Ir7pfxQ5ZkpCHaD2NoX2) | [Stained Glass Stories](https://open.spotify.com/album/63Ir1MRyzg4Ep6ckkWxly8) | 3:42 |
-| 129 | [How Deep](https://open.spotify.com/track/3OLozEYOpwDGOvpbE7LXPT) | [RNW Music](https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi) | [When It Comes to You](https://open.spotify.com/album/7iEMna8XHGFwwiR17SqtkV) | 4:48 |
-| 130 | [He Wears A Crown \- Live](https://open.spotify.com/track/6e9VYjX7VFNx7wfoAv01PN) | [Bryan McCleery](https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1) | [He Wears A Crown \(Live At CrossBridge\)](https://open.spotify.com/album/2DUZyqZywcf2ZBtndcacUs) | 5:12 |
+| 129 | [He Wears A Crown \- Live](https://open.spotify.com/track/6e9VYjX7VFNx7wfoAv01PN) | [Bryan McCleery](https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1) | [He Wears A Crown \(Live At CrossBridge\)](https://open.spotify.com/album/2DUZyqZywcf2ZBtndcacUs) | 5:12 |
+| 130 | [The King In All His Beauty](https://open.spotify.com/track/7v8QIGeHDGkUm0ZcLq8eKR) | [Matt Boswell](https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm), [Matt Papa](https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d) | [The King In All His Beauty](https://open.spotify.com/album/2FNhYGpwU2EXdBaZQ0v6ud) | 4:00 |
 
-Snapshot ID: `MCxlYTZhZjQ4NTgwN2ZiNzc1MDA3NWMzOGIxMzlmNTFjZDA1ZGY1MDgx`
+Snapshot ID: `MCxiNDgxMWMyZmI2MWJhZGUyN2NlYjJkZTUwNDE3YjBlNWRjMjg1N2Ri`

@@ -1,12 +1,12 @@
 {
   "description": "You know all the tracks, you just can't sing-along. Cover: Martin Garrix.",
-  "num_followers": 191934,
+  "num_followers": 191954,
   "original_name": "Instrumental Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNGU3YzY2OTM4NmRjYjllNjc3YzZkNGVlNGE3YjRjMjUzZGQwMGY0",
+  "snapshot_id": "MCxjYjA5OTJlYzNkN2QwNzlmYjBlNWNlYTU4MDAyZjkzZWMwOGE5ZDAy",
   "tracks": [
     {
       "added_at": "2021-12-22 06:41:48",
@@ -755,26 +755,6 @@
     {
       "added_at": "2021-12-22 06:41:48",
       "album": {
-        "name": "Reckless",
-        "url": "https://open.spotify.com/album/6RtNDAbbah1pa4IFdlAiNE"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Quintino",
-          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
-        }
-      ],
-      "duration_ms": 148125,
-      "name": "Reckless",
-      "url": "https://open.spotify.com/track/45GtpfaI7fg7mSZBQTNJss"
-    },
-    {
-      "added_at": "2021-12-22 06:41:48",
-      "album": {
         "name": "G.I.P.S.Y.",
         "url": "https://open.spotify.com/album/7gMun8L9PaRORbVjsi4Bli"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 221538,
       "name": "G.I.P.S.Y. - Radio Edit",
       "url": "https://open.spotify.com/track/4BLHQIfrGZX6VKAmCjJwaZ"
+    },
+    {
+      "added_at": "2021-12-22 06:41:48",
+      "album": {
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/6RtNDAbbah1pa4IFdlAiNE"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
+        }
+      ],
+      "duration_ms": 148125,
+      "name": "Reckless",
+      "url": "https://open.spotify.com/track/45GtpfaI7fg7mSZBQTNJss"
     },
     {
       "added_at": "2021-12-22 06:41:48",

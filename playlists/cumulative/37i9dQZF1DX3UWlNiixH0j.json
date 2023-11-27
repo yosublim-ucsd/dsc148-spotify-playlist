@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "\u221e",
+        "url": "https://open.spotify.com/album/3gcRCzE40Pnraab0ZXcQjR"
+      },
+      "artists": [
+        {
+          "name": "\u5c71\u672c\u5927\u6597",
+          "url": "https://open.spotify.com/artist/1KA2TRTtiLfWAN7HQBB3su"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273566,
+      "name": "18\u306e\u606f\u5439",
+      "url": "https://open.spotify.com/track/7jCXSLeKRdlndNLBoGIOZR"
+    },
+    {
+      "album": {
         "name": "2\u4eba\u306f\u98db\u3073\u964d\u308a\u305f",
         "url": "https://open.spotify.com/album/2QpRd89ajCuOe0vZUWkPKb"
       },
@@ -5552,7 +5570,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-27",
       "duration_ms": 288184,
       "name": "JOHJI",
       "url": "https://open.spotify.com/track/1trPyHkA0NvuY8jfYLEruI"
@@ -6426,7 +6444,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-24",
+      "date_removed": null,
       "duration_ms": 187157,
       "name": "Lucy",
       "url": "https://open.spotify.com/track/1ioc0bvKPoAjGAyZ5lRxvu"
@@ -10200,7 +10218,7 @@
       ],
       "date_added": "2023-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-27",
       "duration_ms": 227755,
       "name": "Strange Leaf",
       "url": "https://open.spotify.com/track/3c9NKkqj3SNvc1njMOgUks"

@@ -4,7 +4,7 @@
 
 > Go deep into spontaneous praise and worship here\. On and on.
 
-246 songs - 1 day 0 hr 33 min
+247 songs - 1 day 0 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Forever Amen](https://open.spotify.com/track/3W2ft8jbBUuWiKwwkTlw7z) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Forever Amen](https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY) | 4:30 | 2020-09-04 |  |
 | [Forgiveness](https://open.spotify.com/track/7f86ZiTvk6rNvJLme8BK9f) | [Bread & Wine](https://open.spotify.com/artist/2aabKw2SudelzKpyMjPNv7), [Ben Smith](https://open.spotify.com/artist/3Fh5jeRl6cDZyDwVS7iwX5) | [Forgiveness](https://open.spotify.com/album/5uFLZgja9bmsXyAOCF1iXz) | 5:12 | 2020-09-04 | 2022-07-17 |
 | [Get Your Hopes Up](https://open.spotify.com/track/1axUIOWOLCGMJkGwTKgzda) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [The War Is Over](https://open.spotify.com/album/6Br4yEtoV8RmArmLIAvEgw) | 4:37 | 2020-09-04 | 2022-07-26 |
+| [Get Your Hopes Up](https://open.spotify.com/track/6QTEK7q7GPQQDqZLqhx2n7) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [The War Is Over](https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY) | 4:37 | 2020-09-04 |  |
 | [God Is Love \(Live\)](https://open.spotify.com/track/2MR3EVVOsKwpBGDvJiK6GH) | [Kelly Smith](https://open.spotify.com/artist/6WB0hRZKXEx0VjrzFTIB1u), [Bread & Wine](https://open.spotify.com/artist/2aabKw2SudelzKpyMjPNv7) | [Every Table Is an Altar \(Live\)](https://open.spotify.com/album/1Mvu0P6vOM2O0TAU73QmTc) | 7:55 | 2020-09-04 | 2022-05-06 |
 | [God Of Miracles \- Live](https://open.spotify.com/track/7bQNc5PaDgv08uz6KX0Cp1) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Everything And Nothing Less \(Live\)](https://open.spotify.com/album/2xDcclkUahNr3s9gJ948sg) | 5:26 | 2020-09-04 | 2022-07-29 |
 | [God Of Miracles \- Live](https://open.spotify.com/track/2RwzuFDm2uqTaMMXXSZSw6) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Everything And Nothing Less \(Live\)](https://open.spotify.com/album/66663xiz1SATmBnF78aEpA) | 5:26 | 2020-09-04 |  |
@@ -208,7 +209,7 @@
 | [The Cause Of Christ](https://open.spotify.com/track/70EydOWbBwGIlHuv0h7uwF) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [The Garden](https://open.spotify.com/album/0VlrwygIqoI06z2BTCYuTq) | 4:57 | 2020-09-04 |  |
 | [The Cross Has The Final Word](https://open.spotify.com/track/6i4s9bd1Z9Hj3mTr6sK9Wq) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [The Darker The Night / The Brighter The Morning](https://open.spotify.com/album/5UjzIvJl8qRO65dQTMXrho) | 4:14 | 2020-09-04 | 2023-05-24 |
 | [The Garden](https://open.spotify.com/track/45LRF6yJJO6RNcFhkNt569) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [The Garden](https://open.spotify.com/album/4k7vz7z2AZytIw9f1GTNZE) | 5:39 | 2020-09-04 | 2022-07-29 |
-| [The Garden](https://open.spotify.com/track/7HtF6IsvLL7dES6Gb5odxE) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [The Garden](https://open.spotify.com/album/0VlrwygIqoI06z2BTCYuTq) | 5:39 | 2020-09-04 |  |
+| [The Garden](https://open.spotify.com/track/7HtF6IsvLL7dES6Gb5odxE) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [The Garden](https://open.spotify.com/album/0VlrwygIqoI06z2BTCYuTq) | 5:39 | 2020-09-04 | 2023-11-27 |
 | [The War Is Over](https://open.spotify.com/track/3LX9yJxkUTQrzqOpnaF4BK) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [The War Is Over](https://open.spotify.com/album/6Br4yEtoV8RmArmLIAvEgw) | 4:57 | 2020-09-04 | 2022-07-13 |
 | [The Way \(New Horizon\)](https://open.spotify.com/track/0x9e3L5wMrST4Xi20XUJPw) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD) | [We Say Yes](https://open.spotify.com/album/0PST9ylFljP5vGSEU4f3hk) | 7:05 | 2020-09-04 | 2022-12-01 |
 | [The Way \(New Horizon\)](https://open.spotify.com/track/5KrewqDNRC9lNe3Aj9ameN) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD) | [We Say Yes](https://open.spotify.com/album/7FzR2gm8o75sFpdfuLT9Wg) | 7:05 | 2020-09-04 |  |

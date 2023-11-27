@@ -1,12 +1,12 @@
 {
   "description": "alternative meets electronic Cover: Layto",
-  "num_followers": 468745,
+  "num_followers": 468808,
   "original_name": "Alternative Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzEyMDRiZDdmZjU3NmExMGVmY2M1NDg0YTAxOTIwYWQ4NWE2MGJm",
+  "snapshot_id": "MCxhMmU5OWI2ZWViYjNkZTY1ZWVlNDMwMGViYzE3ZGRjZjUwMjBlNjRi",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1171,26 +1171,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Crown",
-        "url": "https://open.spotify.com/album/1IKHE6yFVUkJR9peiUHwFQ"
+        "name": "deadly ever after",
+        "url": "https://open.spotify.com/album/257JMntLr2vKOG3esYNkdK"
       },
       "artists": [
         {
-          "name": "WE ARE FURY",
-          "url": "https://open.spotify.com/artist/44Wi4QHWK4CzACCqCyxo3x"
-        },
-        {
-          "name": "Brassie",
-          "url": "https://open.spotify.com/artist/7mEgHnF1FvDGiUg2K1Pt2n"
-        },
-        {
-          "name": "Kyle Reynolds",
-          "url": "https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R"
+          "name": "Ethan Bortnick",
+          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
         }
       ],
-      "duration_ms": 171428,
-      "name": "Crown",
-      "url": "https://open.spotify.com/track/2WvJe9V3Ee7CL8Fn6DwF8i"
+      "duration_ms": 196880,
+      "name": "deadly ever after",
+      "url": "https://open.spotify.com/track/49RVuMbXGzYwu7Q8Jec5Yw"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1211,18 +1203,26 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "deadly ever after",
-        "url": "https://open.spotify.com/album/257JMntLr2vKOG3esYNkdK"
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/1IKHE6yFVUkJR9peiUHwFQ"
       },
       "artists": [
         {
-          "name": "Ethan Bortnick",
-          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
+          "name": "WE ARE FURY",
+          "url": "https://open.spotify.com/artist/44Wi4QHWK4CzACCqCyxo3x"
+        },
+        {
+          "name": "Brassie",
+          "url": "https://open.spotify.com/artist/7mEgHnF1FvDGiUg2K1Pt2n"
+        },
+        {
+          "name": "Kyle Reynolds",
+          "url": "https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R"
         }
       ],
-      "duration_ms": 196880,
-      "name": "deadly ever after",
-      "url": "https://open.spotify.com/track/49RVuMbXGzYwu7Q8Jec5Yw"
+      "duration_ms": 171428,
+      "name": "Crown",
+      "url": "https://open.spotify.com/track/2WvJe9V3Ee7CL8Fn6DwF8i"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Drinking with Cupid",
+        "url": "https://open.spotify.com/album/7nOgBpquyvxeBgbgowVUJD"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        }
+      ],
+      "duration_ms": 172939,
+      "name": "Drinking with Cupid",
+      "url": "https://open.spotify.com/track/7dooLmazlQIYM9Wo7FRQR7"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "Heavenly Side",
         "url": "https://open.spotify.com/album/5zboD55XbkrZ3JJkvXC2EE"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 240000,
       "name": "Heavenly Side",
       "url": "https://open.spotify.com/track/1xddmaN7Ivc2SQ940oBskZ"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Drinking with Cupid",
-        "url": "https://open.spotify.com/album/7nOgBpquyvxeBgbgowVUJD"
-      },
-      "artists": [
-        {
-          "name": "VOIL\u00c0",
-          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
-        }
-      ],
-      "duration_ms": 172939,
-      "name": "Drinking with Cupid",
-      "url": "https://open.spotify.com/track/7dooLmazlQIYM9Wo7FRQR7"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Can You Feel The Sun",
+        "url": "https://open.spotify.com/album/0P4sHlkN6qkLxWAcEKYqPx"
+      },
+      "artists": [
+        {
+          "name": "MISSIO",
+          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
+        }
+      ],
+      "duration_ms": 223671,
+      "name": "Wolves",
+      "url": "https://open.spotify.com/track/7gq2VoVnIcT2jd8JWAEjrj"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "Freefall (feat. Oliver Tree)",
         "url": "https://open.spotify.com/album/2IBBJbVcT3jBmbkf1HChaU"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 155498,
       "name": "Freefall (feat. Oliver Tree)",
       "url": "https://open.spotify.com/track/5VsZwt7AyePLXFrlHhMvoI"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Can You Feel The Sun",
-        "url": "https://open.spotify.com/album/0P4sHlkN6qkLxWAcEKYqPx"
-      },
-      "artists": [
-        {
-          "name": "MISSIO",
-          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
-        }
-      ],
-      "duration_ms": 223671,
-      "name": "Wolves",
-      "url": "https://open.spotify.com/track/7gq2VoVnIcT2jd8JWAEjrj"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "RUN THRU ME",
-        "url": "https://open.spotify.com/album/2kUz84vIo4FczGj1UZ2pZe"
-      },
-      "artists": [
-        {
-          "name": "MILKBLOOD",
-          "url": "https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME"
-        }
-      ],
-      "duration_ms": 177316,
-      "name": "RUN THRU ME",
-      "url": "https://open.spotify.com/track/4ysb8MTFAVIDloHNX6l4jt"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Bones",
         "url": "https://open.spotify.com/album/67WHRHvdMPplrsSc4KtMfB"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 169680,
       "name": "Bones",
       "url": "https://open.spotify.com/track/0DqJsme3z2r2kPGTti68gf"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "RUN THRU ME",
+        "url": "https://open.spotify.com/album/2kUz84vIo4FczGj1UZ2pZe"
+      },
+      "artists": [
+        {
+          "name": "MILKBLOOD",
+          "url": "https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME"
+        }
+      ],
+      "duration_ms": 177316,
+      "name": "RUN THRU ME",
+      "url": "https://open.spotify.com/track/4ysb8MTFAVIDloHNX6l4jt"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1795,18 +1795,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "New Friends",
-        "url": "https://open.spotify.com/album/3CqLMnA4ivtuBuGPV4h4Ky"
+        "name": "VILLAIN",
+        "url": "https://open.spotify.com/album/45DgFMUv8WhXWkWjtI03qN"
       },
       "artists": [
         {
-          "name": "ENVYYOU",
-          "url": "https://open.spotify.com/artist/3V8sGWr3KUanz1VJyaCngm"
+          "name": "MISSIO",
+          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
         }
       ],
-      "duration_ms": 176349,
-      "name": "New Friends",
-      "url": "https://open.spotify.com/track/6bHFFcOvpc1pKrT4YL1K83"
+      "duration_ms": 213494,
+      "name": "We Are Who We Are",
+      "url": "https://open.spotify.com/track/5DP2aoo37wHvurr9FeNM1W"
     }
   ],
   "unique_name": "Alternative Beats",

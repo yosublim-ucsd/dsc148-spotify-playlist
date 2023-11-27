@@ -1,12 +1,12 @@
 {
   "description": "love peace techno",
-  "num_followers": 189959,
+  "num_followers": 190349,
   "original_name": "rave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjA1Y2RhZTg5ZTIxMDdlZjkyN2U5MzUxYjU2NjcyYTgyZDNhOGIx",
+  "snapshot_id": "MCw0YzRiMjZkYjUzMTQ5OGY4OTQ5MTE2OGVhMjJjY2EwMjlhNmJlZTNj",
   "tracks": [
     {
       "added_at": "2023-11-24 11:00:00",
@@ -775,22 +775,18 @@
     {
       "added_at": "2023-11-24 11:00:00",
       "album": {
-        "name": "Pretty People (feat. INJI)",
-        "url": "https://open.spotify.com/album/4Rk7c9Vfq3if5ra3ibISDd"
+        "name": "Berlin",
+        "url": "https://open.spotify.com/album/66WOqWah15Fu8rRxWVAHNf"
       },
       "artists": [
         {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "INJI",
-          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
+          "name": "Nicolas Binder",
+          "url": "https://open.spotify.com/artist/4cisvT0RilDGHw8lzANpUA"
         }
       ],
-      "duration_ms": 149771,
-      "name": "Pretty People (feat. INJI)",
-      "url": "https://open.spotify.com/track/1EdmLWe4HDbrw5CM0bOnxS"
+      "duration_ms": 194850,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/0FTzEpdHkYu0D5MBJbjGSh"
     },
     {
       "added_at": "2023-11-24 11:00:00",
@@ -815,18 +811,22 @@
     {
       "added_at": "2023-11-24 11:00:00",
       "album": {
-        "name": "Berlin",
-        "url": "https://open.spotify.com/album/66WOqWah15Fu8rRxWVAHNf"
+        "name": "Pretty People (feat. INJI)",
+        "url": "https://open.spotify.com/album/4Rk7c9Vfq3if5ra3ibISDd"
       },
       "artists": [
         {
-          "name": "Nicolas Binder",
-          "url": "https://open.spotify.com/artist/4cisvT0RilDGHw8lzANpUA"
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "INJI",
+          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
         }
       ],
-      "duration_ms": 194850,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/0FTzEpdHkYu0D5MBJbjGSh"
+      "duration_ms": 149771,
+      "name": "Pretty People (feat. INJI)",
+      "url": "https://open.spotify.com/track/1EdmLWe4HDbrw5CM0bOnxS"
     },
     {
       "added_at": "2023-11-24 11:00:00",

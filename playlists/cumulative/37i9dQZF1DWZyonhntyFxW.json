@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "<a href=\"https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR?si=NCDLeoLkTPiSgYtBdEOq-Q\"> Afroto </a> : \u0639\u0634\u0627\u0646 \u062a\u062b\u0628\u062a\u0644\u064a \u0627\u0646\u0643 \u0644\u064a\u0628\u0631\u0648 \u062a\u064a\u062c\u064a \u062a\u0633\u0645\u0639 \u0645\u0644\u0648\u0643 \u0627\u0644\u0633\u064a\u0646. \u063a\u0644\u0627\u0641\n\n\n",
+  "description": "<a href=\"https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3?si=vZTYiE8JQ-qPyy0ERszIyg\"> Marwan Pablo </a> : \u0627\u0633\u0645\u0639\u0648\u0627 \u0627\u0644\u0645\u064a\u0644\u0648\u062f\u064a\u0632 \u0639\u0644\u0649 \u0645\u0644\u0648\u0643 \u0627\u0644\u0633\u064a\u0646. \u063a\u0644\u0627\u0641\n\n\n",
   "name": "\u0645\u0644\u0648\u0643 \u0627\u0644\u0633\u064a\u0646",
   "tracks": [
     {
@@ -1220,7 +1220,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-27",
       "duration_ms": 230208,
       "name": "EL HALAL",
       "url": "https://open.spotify.com/track/6EImClnQDWI51GJjSKva6P"
@@ -1246,6 +1246,24 @@
       "duration_ms": 187245,
       "name": "EL LOVE",
       "url": "https://open.spotify.com/track/5gF2k94idQZlm5Dbe2HjoI"
+    },
+    {
+      "album": {
+        "name": "\u0622\u062e\u0631 \u0642\u0637\u0639\u0629 \u0641\u0646\u064a\u0629",
+        "url": "https://open.spotify.com/album/5YxBzNI1LIAI86UHm1kTrS"
+      },
+      "artists": [
+        {
+          "name": "Marwan Pablo",
+          "url": "https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158586,
+      "name": "El Mabda2",
+      "url": "https://open.spotify.com/track/6m8vcn1JPflk8xBoFsaPDP"
     },
     {
       "album": {
@@ -2142,7 +2160,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-27",
       "duration_ms": 189826,
       "name": "LELLY YAH",
       "url": "https://open.spotify.com/track/1SSymcmcSI1oYQtwOA8mOJ"
@@ -2523,6 +2541,24 @@
     },
     {
       "album": {
+        "name": "\u0622\u062e\u0631 \u0642\u0637\u0639\u0629 \u0641\u0646\u064a\u0629",
+        "url": "https://open.spotify.com/album/5YxBzNI1LIAI86UHm1kTrS"
+      },
+      "artists": [
+        {
+          "name": "Marwan Pablo",
+          "url": "https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217839,
+      "name": "Masr7ya",
+      "url": "https://open.spotify.com/track/0NRCKDMBB0RB9vKWO9ePY1"
+    },
+    {
+      "album": {
         "name": "Matbosesh 3Al Sora Kteer",
         "url": "https://open.spotify.com/album/1jxRTZnozNblBwG3EZTpCc"
       },
@@ -2658,6 +2694,24 @@
       "duration_ms": 202105,
       "name": "Mel Awel",
       "url": "https://open.spotify.com/track/6lCWpCNAybFwgsamSSKJkp"
+    },
+    {
+      "album": {
+        "name": "\u0622\u062e\u0631 \u0642\u0637\u0639\u0629 \u0641\u0646\u064a\u0629",
+        "url": "https://open.spotify.com/album/5YxBzNI1LIAI86UHm1kTrS"
+      },
+      "artists": [
+        {
+          "name": "Marwan Pablo",
+          "url": "https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141015,
+      "name": "Melodies",
+      "url": "https://open.spotify.com/track/0izKRFFUPvOctUpMVo9XIN"
     },
     {
       "album": {
@@ -3140,7 +3194,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-27",
       "duration_ms": 213205,
       "name": "OGRA",
       "url": "https://open.spotify.com/track/3rUyiFJIBHLuDj62O0IDwF"

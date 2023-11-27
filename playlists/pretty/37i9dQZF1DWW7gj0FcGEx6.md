@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,803 likes - 207 songs - 10 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,869 likes - 207 songs - 10 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 17 | [Bodies Main Title](https://open.spotify.com/track/3tERZdN36IebQcY1Nutz6N) | [Jon Opstad](https://open.spotify.com/artist/64FMaf8JHBUhmBLcvNJXzp) | [Bodies \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/2f8zMjFjHos3kToO2DLsM2) | 1:08 |
 | 18 | [Soupe populaire](https://open.spotify.com/track/04KtwFcMWPbxUZ4eJaUkbb) | [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l) | [L'Abbé Pierre \- Une vie de combats \(Bande originale du film\)](https://open.spotify.com/album/00NSMSUTkezJ8nabuZ3nUN) | 2:26 |
 | 19 | [Les Souvenirs et les Émotions \- From "La Petite" Soundtrack](https://open.spotify.com/track/2duUkrkNExfMaKowd30udJ) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Les Souvenirs et les Émotions \(From "La Petite" Soundtrack\)](https://open.spotify.com/album/7kdQQwyP3miRSVgu3kz0A5) | 1:43 |
-| 20 | [Holding Hands \(From "The Crown: Season Six Soundtrack"\)](https://open.spotify.com/track/0vPpOw4JOAKB9QMivOAnQj) | [Martin Phipps](https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn) | [Holding Hands \(From "The Crown: Season Six Soundtrack"\)](https://open.spotify.com/album/1C9g1hrvjlKvwRSU9kUWxJ) | 3:32 |
+| 20 | [Holding Hands \(From "The Crown: Season Six Soundtrack"\)](https://open.spotify.com/track/0vPpOw4JOAKB9QMivOAnQj) | [Martin Phipps](https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn), [Kieran Scragg](https://open.spotify.com/artist/4cdCKZr7tI9gxaPvEpE1vK) | [Holding Hands \(From "The Crown: Season Six Soundtrack"\)](https://open.spotify.com/album/1C9g1hrvjlKvwRSU9kUWxJ) | 3:32 |
 | 21 | [New York, 1969](https://open.spotify.com/track/5a4Vzq0zwl72Pjox7kFg2J) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Indiana Jones and the Dial of Destiny \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2oaBMWEc8mY8TsCfOREHfV) | 4:17 |
 | 22 | [Selling Montage](https://open.spotify.com/track/7y8zvpcVtc3VQXE2V0fyR6) | [Michael Dean Parsons](https://open.spotify.com/artist/0PtgERFoiSK8egVLiNkure) | [Pain Hustlers \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/03WFtOTe7GVyKgzTLxUDny) | 1:57 |
 | 23 | [The Age of Giants](https://open.spotify.com/track/5cFaQ1UlmXa4UHYctK7hpT) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Blue Whales \- Return of the Giants \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Jgynk3NCpDbCWdjz1LMdq) | 4:00 |
@@ -216,4 +216,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 206 | [Friendship Theme](https://open.spotify.com/track/317Tb1dzMW3KTUjiTcsN4b) | [Marco Beltrami](https://open.spotify.com/artist/7yAPsqNhqqsTGsuOSZJg0i), [Brandon Roberts](https://open.spotify.com/artist/7EDDArVp3EXwuDx8HUQrTo) | [Chaos Walking \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2hqIiiiQXOUCkAx2i0JKje) | 1:58 |
 | 207 | [Brianna](https://open.spotify.com/track/6wFLtag0kJnXwva2Qj1khj) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Synchronic \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3zUpvlv6hfVwFC1zwtDT6M) | 1:38 |
 
-Snapshot ID: `MCxhYjcyNmI2Njk1OWZkMTNmZTVhNDZmOGZjNWE1MWNlOTVjMjQzMzUz`
+Snapshot ID: `MCxmOGZjYzk2NDBjODU4N2MzOTgyYmE5ZGY0MmI1YWExZTMwNWY4MDBk`

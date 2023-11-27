@@ -1,12 +1,12 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 193284,
+  "num_followers": 193570,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTFlYmY4NTBlOGI4N2U3NjY3ODUyNTg4NjEwZDNiZjFkODI4NGNm",
+  "snapshot_id": "MCxhMjI2YjBiOTBlZGQzMjE0OWNkMTdhYzY1ODhhM2I1NDk3YmY0M2Q0",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Superunknown (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA"
-      },
-      "artists": [
-        {
-          "name": "Soundgarden",
-          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
-        }
-      ],
-      "duration_ms": 283026,
-      "name": "Fell On Black Days",
-      "url": "https://open.spotify.com/track/1wlKw9NAWVWpx7OIAyg9EA"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Laid",
         "url": "https://open.spotify.com/album/5pALyxshOPc8LLKggzNvQe"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 156666,
       "name": "Laid",
       "url": "https://open.spotify.com/track/2CdS3DRqWR5LAhy4hM5X9W"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Superunknown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA"
+      },
+      "artists": [
+        {
+          "name": "Soundgarden",
+          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+        }
+      ],
+      "duration_ms": 283026,
+      "name": "Fell On Black Days",
+      "url": "https://open.spotify.com/track/1wlKw9NAWVWpx7OIAyg9EA"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "The Modern Lovers (Expanded Version)",
+        "url": "https://open.spotify.com/album/7ro1W6lc4tuTaRyA8rnVm1"
+      },
+      "artists": [
+        {
+          "name": "The Modern Lovers",
+          "url": "https://open.spotify.com/artist/2eRdPaLHWAL4d1WcNUO9Vz"
+        }
+      ],
+      "duration_ms": 295013,
+      "name": "Roadrunner (Alternative Version)",
+      "url": "https://open.spotify.com/track/0qRSrdDK4xj1doRViNPYwM"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "Monster (Remastered)",
         "url": "https://open.spotify.com/album/17mS71JVgCCYLVdVcG0aUT"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 314173,
       "name": "The Boy With The Arab Strap",
       "url": "https://open.spotify.com/track/2PV8oZJo3K3bXENO7FRRtp"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "The Modern Lovers (Expanded Version)",
-        "url": "https://open.spotify.com/album/7ro1W6lc4tuTaRyA8rnVm1"
-      },
-      "artists": [
-        {
-          "name": "The Modern Lovers",
-          "url": "https://open.spotify.com/artist/2eRdPaLHWAL4d1WcNUO9Vz"
-        }
-      ],
-      "duration_ms": 295013,
-      "name": "Roadrunner (Alternative Version)",
-      "url": "https://open.spotify.com/track/0qRSrdDK4xj1doRViNPYwM"
     }
   ],
   "unique_name": "Thrifted",

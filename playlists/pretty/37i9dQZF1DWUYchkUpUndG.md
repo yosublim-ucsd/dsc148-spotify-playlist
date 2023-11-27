@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5?si=G3JrVxFDTYK3iTIAyf720A>Sneziey</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,603 likes - 125 songs - 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,627 likes - 125 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 124 | [Wait for You](https://open.spotify.com/track/35s5pUBjdKhWrotJNqjv5R) | [Baron Jay](https://open.spotify.com/artist/3I92MLYQY4V30w9jXnKhbv), [Clinton Flames](https://open.spotify.com/artist/3LEYSk47eQzeiwihi4f1Ye) | [Wait for You](https://open.spotify.com/album/1iqreF9TqTK8jMlbvCClnq) | 2:51 |
 | 125 | [Amazing](https://open.spotify.com/track/1NeXj9w2kZWoHmgbvtsWj3) | [Prophetess Rose Kelvin](https://open.spotify.com/artist/0EEHdqFQVcnostaJD5XEUN) | [Amazing](https://open.spotify.com/album/7BOypLrVCZoAZN5JQmiI0l) | 4:39 |
 
-Snapshot ID: `MCw4ZDZlMDE0ZjAzOTBkNjBiMzVlZmIxYzhkZjgzNDdmYTc4OTkwMmU1`
+Snapshot ID: `MCxiZjU4Y2M3Y2JjMGVkNzcyNzA5ZjA0NWU0NGM1MTgwMDlmM2ZiZjJj`

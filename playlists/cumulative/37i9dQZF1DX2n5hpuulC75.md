@@ -137,7 +137,7 @@
 | [White Gemini](https://open.spotify.com/track/4PuTvnil6uy4m6DGSnxrHE) | [Beshken](https://open.spotify.com/artist/5sHn9ENA6XtnLmOrVQt2BB) | [White Gemini](https://open.spotify.com/album/7IXVOxHTpOMXaMQivGKfuE) | 3:38 | 2019-05-24 | 2022-07-29 |
 | [White Gemini](https://open.spotify.com/track/5qVW9YK5Hfm07IUiMHR3te) | [Beshken](https://open.spotify.com/artist/5sHn9ENA6XtnLmOrVQt2BB) | [Aisle of Palm](https://open.spotify.com/album/7GIqa5FgfcxOztfGL48KDr) | 3:38 | 2019-05-24 |  |
 | [With You](https://open.spotify.com/track/2lskCyax2W4xf0OIvu1sus) | [Oddysseys](https://open.spotify.com/artist/7b5YV6ZD7IcamrC28c6cUd) | [With You](https://open.spotify.com/album/6DNml4of4LLHUa5FTBnJXu) | 2:25 | 2019-05-24 |  |
-| [Words I Don't Remember](https://open.spotify.com/track/69tms8bn7pYZck6hJw6X1e) | [How To Dress Well](https://open.spotify.com/artist/4jLcgJjDGmW0HmvbSf6lEI) | ["What Is This Heart?" \(Deluxe Edition\)](https://open.spotify.com/album/54E5JvQWalx8xQ7TAeBGvf) | 6:18 | 2018-12-11 | 2022-11-13 |
+| [Words I Don't Remember](https://open.spotify.com/track/69tms8bn7pYZck6hJw6X1e) | [How To Dress Well](https://open.spotify.com/artist/4jLcgJjDGmW0HmvbSf6lEI) | ["What Is This Heart?" \(Deluxe Edition\)](https://open.spotify.com/album/54E5JvQWalx8xQ7TAeBGvf) | 6:18 | 2018-12-11 |  |
 | [Yellow Dust](https://open.spotify.com/track/01JqaZsSE7IaIdxtI1FSvM) | [Miink](https://open.spotify.com/artist/17Rhw8lEDjOqM3GSVqrzhg) | [Small Clan](https://open.spotify.com/album/0b8dYZrXDD65hMekrzie9J) | 3:52 | 2018-12-11 |  |
 | [Yellow Dust](https://open.spotify.com/track/2qyY0gUp1hpDjVQlDshWWX) | [Miink](https://open.spotify.com/artist/17Rhw8lEDjOqM3GSVqrzhg) | [Small Clan](https://open.spotify.com/album/4KxYum9GpJC5SweO143o6K) | 3:52 | 2018-12-11 | 2022-12-04 |
 | [Yellow Dust](https://open.spotify.com/track/7DxLN7gn6TNpgyaIYkQ6d1) | [Miink](https://open.spotify.com/artist/17Rhw8lEDjOqM3GSVqrzhg) | [Yellow Dust](https://open.spotify.com/album/0GddXWFgGfX620dMxsh7K5) | 3:53 | 2018-12-11 | 2022-07-29 |
@@ -147,6 +147,6 @@
 | [Young](https://open.spotify.com/track/3u4rIcRR7gSoJdkJIx9zpu) | [Vallis Alps](https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm) | [Vallis Alps](https://open.spotify.com/album/0s2fghAEEk3Uzz1IbGMDlq) | 5:24 | 2018-12-11 | 2022-10-22 |
 | [Your Own Truth](https://open.spotify.com/track/2wfqHxQtKQxHrsscsJRNrM) | [James Forest](https://open.spotify.com/artist/6TWuwqkarDY2IXyFaGAQd4) | [Your Own Truth](https://open.spotify.com/album/4vwKFcNLE0kUe8tsb7M4I7) | 4:53 | 2019-05-24 |  |
 | [Zender](https://open.spotify.com/track/51WLmjgPAVhLnrjfQZ6tzh) | [Vesce](https://open.spotify.com/artist/2LOAyFzBD2LyAQby6Z6DKn) | [Self Edit EP](https://open.spotify.com/album/0gfvYcS9zeSgdaGc0nSEoN) | 3:53 | 2018-12-11 | 2022-07-29 |
-| [Zender](https://open.spotify.com/track/4QcDn3z7Nx8Zo6Fod2Tdk5) | [Vesce](https://open.spotify.com/artist/2LOAyFzBD2LyAQby6Z6DKn) | [Self Edit](https://open.spotify.com/album/0ojHYXw3AszP9ReHSqrtVv) | 3:56 | 2018-12-11 |  |
+| [Zender](https://open.spotify.com/track/4QcDn3z7Nx8Zo6Fod2Tdk5) | [Vesce](https://open.spotify.com/artist/2LOAyFzBD2LyAQby6Z6DKn) | [Self Edit](https://open.spotify.com/album/0ojHYXw3AszP9ReHSqrtVv) | 3:56 | 2018-12-11 | 2023-11-27 |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

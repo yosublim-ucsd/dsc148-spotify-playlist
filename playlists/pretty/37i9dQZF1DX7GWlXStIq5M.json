@@ -1,12 +1,12 @@
 {
   "description": "Os hits j\u00e1 consagrados e os novos nomes da cena pop dividindo o mesmo palco!  / Foto: PRISCILLA, Bonde do Tigr\u00e3o",
-  "num_followers": 367247,
+  "num_followers": 367389,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZWQ5NzA5YTU0M2NmM2I4YWYyZjY0YjMwYmRlMDdhOWFkNzc0MjIw",
+  "snapshot_id": "MCxhOTIzNzIxODk0ZTQzMjU5ZTFlNTJiOGUxNDE1ZTI2YzUzNzg1MzI5",
   "tracks": [
     {
       "added_at": "2023-11-24 15:37:17",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-11-24 15:37:17",
       "album": {
-        "name": "Mais Um Voo",
-        "url": "https://open.spotify.com/album/27ZKtXmfYS7OXGb1aKoI7U"
-      },
-      "artists": [
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "Mais Um Voo",
-      "url": "https://open.spotify.com/track/39uMV1Ix79vlMNssVxACuU"
-    },
-    {
-      "added_at": "2023-11-24 15:37:17",
-      "album": {
         "name": "Pilantra",
         "url": "https://open.spotify.com/album/4hlz1rcVyPZhv5K2rezb3K"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 192708,
       "name": "Pilantra",
       "url": "https://open.spotify.com/track/6B5Nqt8DAciT2oqevzGbUc"
+    },
+    {
+      "added_at": "2023-11-24 15:37:17",
+      "album": {
+        "name": "Mais Um Voo",
+        "url": "https://open.spotify.com/album/27ZKtXmfYS7OXGb1aKoI7U"
+      },
+      "artists": [
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "Mais Um Voo",
+      "url": "https://open.spotify.com/track/39uMV1Ix79vlMNssVxACuU"
     },
     {
       "added_at": "2023-11-24 15:37:17",
@@ -487,18 +487,22 @@
     {
       "added_at": "2023-11-24 15:37:17",
       "album": {
-        "name": "SUPER",
-        "url": "https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD"
+        "name": "C\u00e9u Ros\u00e9",
+        "url": "https://open.spotify.com/album/4prSTxTaqEuv7EkAtdd5MR"
       },
       "artists": [
         {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        },
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
         }
       ],
-      "duration_ms": 175086,
-      "name": "Me Lambe",
-      "url": "https://open.spotify.com/track/48cRh79BIB3MTXuwJY8rOJ"
+      "duration_ms": 164237,
+      "name": "C\u00e9u Ros\u00e9",
+      "url": "https://open.spotify.com/track/2GbG2PFAtSHFT6ncTCWSmS"
     },
     {
       "added_at": "2023-11-24 15:37:17",
@@ -535,22 +539,18 @@
     {
       "added_at": "2023-11-24 15:37:17",
       "album": {
-        "name": "C\u00e9u Ros\u00e9",
-        "url": "https://open.spotify.com/album/4prSTxTaqEuv7EkAtdd5MR"
+        "name": "SUPER",
+        "url": "https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD"
       },
       "artists": [
         {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        },
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 164237,
-      "name": "C\u00e9u Ros\u00e9",
-      "url": "https://open.spotify.com/track/2GbG2PFAtSHFT6ncTCWSmS"
+      "duration_ms": 175086,
+      "name": "Me Lambe",
+      "url": "https://open.spotify.com/track/48cRh79BIB3MTXuwJY8rOJ"
     },
     {
       "added_at": "2023-11-24 15:37:17",
@@ -599,38 +599,6 @@
     {
       "added_at": "2023-11-24 15:37:17",
       "album": {
-        "name": "SUPER",
-        "url": "https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        }
-      ],
-      "duration_ms": 201612,
-      "name": "Alinhamento Milenar",
-      "url": "https://open.spotify.com/track/1AaBgDyjuG6ckj8PuRoG9m"
-    },
-    {
-      "added_at": "2023-11-24 15:37:17",
-      "album": {
-        "name": "Esc\u00e2ndalo \u00cdntimo",
-        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 140196,
-      "name": "Carnificina",
-      "url": "https://open.spotify.com/track/6V6fcreiDPSsxTlVKveaiI"
-    },
-    {
-      "added_at": "2023-11-24 15:37:17",
-      "album": {
         "name": "Quase N\u00e3o Namoro",
         "url": "https://open.spotify.com/album/2yg5pbW47YD4HVQ34cgfkC"
       },
@@ -647,6 +615,22 @@
       "duration_ms": 135456,
       "name": "Quase N\u00e3o Namoro",
       "url": "https://open.spotify.com/track/6eWx9pOK1JkIhUjeVmGYJr"
+    },
+    {
+      "added_at": "2023-11-24 15:37:17",
+      "album": {
+        "name": "Esc\u00e2ndalo \u00cdntimo",
+        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 140196,
+      "name": "Carnificina",
+      "url": "https://open.spotify.com/track/6V6fcreiDPSsxTlVKveaiI"
     },
     {
       "added_at": "2023-11-24 15:37:17",
@@ -687,38 +671,6 @@
     {
       "added_at": "2023-11-24 15:37:17",
       "album": {
-        "name": "Lua Cheia",
-        "url": "https://open.spotify.com/album/6aRPIPyZQKpSQi3W2p7o4Y"
-      },
-      "artists": [
-        {
-          "name": "Wanessa Camargo",
-          "url": "https://open.spotify.com/artist/4tKyqcDgQpGEIvJlbhl07P"
-        }
-      ],
-      "duration_ms": 181436,
-      "name": "Lua Cheia",
-      "url": "https://open.spotify.com/track/0MpBrNgNg9ihjLNHW7O6pU"
-    },
-    {
-      "added_at": "2023-11-24 15:37:17",
-      "album": {
-        "name": "Funk Generation: A Favela Love Story",
-        "url": "https://open.spotify.com/album/1O8dDXKfYHJDZTrCuxb6qL"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 133140,
-      "name": "Casi Casi",
-      "url": "https://open.spotify.com/track/7n15qubhDdwZjrySpHO1ma"
-    },
-    {
-      "added_at": "2023-11-24 15:37:17",
-      "album": {
         "name": "BANDIDONA",
         "url": "https://open.spotify.com/album/3le9u1jM09SXaQY0HyeEpK"
       },
@@ -747,8 +699,56 @@
     {
       "added_at": "2023-11-24 15:37:17",
       "album": {
-        "name": "F\u00e9 nas Maluca",
-        "url": "https://open.spotify.com/album/6hZtSSd2s0RRobFtcRepaA"
+        "name": "SUPER",
+        "url": "https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "duration_ms": 201612,
+      "name": "Alinhamento Milenar",
+      "url": "https://open.spotify.com/track/1AaBgDyjuG6ckj8PuRoG9m"
+    },
+    {
+      "added_at": "2023-11-24 15:37:17",
+      "album": {
+        "name": "Funk Generation: A Favela Love Story",
+        "url": "https://open.spotify.com/album/1O8dDXKfYHJDZTrCuxb6qL"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 133140,
+      "name": "Casi Casi",
+      "url": "https://open.spotify.com/track/7n15qubhDdwZjrySpHO1ma"
+    },
+    {
+      "added_at": "2023-11-24 15:37:17",
+      "album": {
+        "name": "Lua Cheia",
+        "url": "https://open.spotify.com/album/6aRPIPyZQKpSQi3W2p7o4Y"
+      },
+      "artists": [
+        {
+          "name": "Wanessa Camargo",
+          "url": "https://open.spotify.com/artist/4tKyqcDgQpGEIvJlbhl07P"
+        }
+      ],
+      "duration_ms": 181436,
+      "name": "Lua Cheia",
+      "url": "https://open.spotify.com/track/0MpBrNgNg9ihjLNHW7O6pU"
+    },
+    {
+      "added_at": "2023-11-24 15:37:17",
+      "album": {
+        "name": "AFRODHIT",
+        "url": "https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5"
       },
       "artists": [
         {
@@ -756,13 +756,13 @@
           "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
         },
         {
-          "name": "Mc Carol",
-          "url": "https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws"
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
         }
       ],
-      "duration_ms": 143221,
-      "name": "F\u00e9 nas Maluca",
-      "url": "https://open.spotify.com/track/31VGydKjJimZM0ESZ5Wzb1"
+      "duration_ms": 204235,
+      "name": "Fiu Fiu",
+      "url": "https://open.spotify.com/track/19fy7EiY7vCLVpQOMl4yeq"
     },
     {
       "added_at": "2023-11-24 15:37:17",
@@ -891,8 +891,8 @@
     {
       "added_at": "2023-11-24 15:37:17",
       "album": {
-        "name": "AFRODHIT",
-        "url": "https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5"
+        "name": "F\u00e9 nas Maluca",
+        "url": "https://open.spotify.com/album/6hZtSSd2s0RRobFtcRepaA"
       },
       "artists": [
         {
@@ -900,13 +900,13 @@
           "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
         },
         {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+          "name": "Mc Carol",
+          "url": "https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws"
         }
       ],
-      "duration_ms": 204235,
-      "name": "Fiu Fiu",
-      "url": "https://open.spotify.com/track/19fy7EiY7vCLVpQOMl4yeq"
+      "duration_ms": 143221,
+      "name": "F\u00e9 nas Maluca",
+      "url": "https://open.spotify.com/track/31VGydKjJimZM0ESZ5Wzb1"
     },
     {
       "added_at": "2023-11-24 15:37:17",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2023-11-24 15:37:17",
       "album": {
+        "name": "Tudo Escuro",
+        "url": "https://open.spotify.com/album/7qqbUPz8LvS1tMaSI3hvLt"
+      },
+      "artists": [
+        {
+          "name": "Let\u00edcia Hally",
+          "url": "https://open.spotify.com/artist/47q3Hm8x4YEh0ZNocF323p"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Tudo Escuro",
+      "url": "https://open.spotify.com/track/2SA8RBHAyXlimrXL3GG1YN"
+    },
+    {
+      "added_at": "2023-11-24 15:37:17",
+      "album": {
         "name": "Toalha",
         "url": "https://open.spotify.com/album/09jjP8f2JMoaE9r3h4GWjD"
       },
@@ -1559,18 +1575,18 @@
     {
       "added_at": "2023-11-24 15:37:17",
       "album": {
-        "name": "Tudo Escuro",
-        "url": "https://open.spotify.com/album/7qqbUPz8LvS1tMaSI3hvLt"
+        "name": "Pertinho",
+        "url": "https://open.spotify.com/album/1yQpToolYO6JC20r5PcJMG"
       },
       "artists": [
         {
-          "name": "Let\u00edcia Hally",
-          "url": "https://open.spotify.com/artist/47q3Hm8x4YEh0ZNocF323p"
+          "name": "Yago Vidal",
+          "url": "https://open.spotify.com/artist/2cpIam47BLYzkgRy4N8ECP"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Tudo Escuro",
-      "url": "https://open.spotify.com/track/2SA8RBHAyXlimrXL3GG1YN"
+      "duration_ms": 133000,
+      "name": "Pertinho",
+      "url": "https://open.spotify.com/track/63x8rkvh82KFrqUX89829m"
     },
     {
       "added_at": "2023-11-24 15:37:17",
@@ -1619,22 +1635,6 @@
       "duration_ms": 178064,
       "name": "Insegura",
       "url": "https://open.spotify.com/track/34XDlytLvelV6XaVPkWLyz"
-    },
-    {
-      "added_at": "2023-11-24 15:37:17",
-      "album": {
-        "name": "Pertinho",
-        "url": "https://open.spotify.com/album/1yQpToolYO6JC20r5PcJMG"
-      },
-      "artists": [
-        {
-          "name": "Yago Vidal",
-          "url": "https://open.spotify.com/artist/2cpIam47BLYzkgRy4N8ECP"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "Pertinho",
-      "url": "https://open.spotify.com/track/63x8rkvh82KFrqUX89829m"
     },
     {
       "added_at": "2023-11-24 15:37:17",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MbMfAHb8U0.md) - [plain]
 
 > The tracks that you love from the artists you love\. Cover: Erykah Badu
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,849 likes - 99 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,049 likes - 99 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MbMfAHb8U0.md) - [plain]
 | 74 | [Let Me Be The One](https://open.spotify.com/track/7pwPxaa4hL5OqtfuORRhvy) | [Mint Condition](https://open.spotify.com/artist/4MT97VeycuegSicrrphisJ), [Phife Dawg](https://open.spotify.com/artist/5D7j3YOhscvrld2WzjSIpN) | [The Collection \(1991\-1998\)](https://open.spotify.com/album/0kbMyxE7jDEniOHRp37AZk) | 4:11 |
 | 75 | [Still Believe in Love \- Remastered](https://open.spotify.com/track/4a0PDBAWdsoJZyHKXfEr1X) | [jacksoul](https://open.spotify.com/artist/3xEW8BqMGXWkxTZbQhtnLE) | [Greatest Hits](https://open.spotify.com/album/4VNVEhCQmoi0TD13SZ5D4D) | 3:35 |
 | 76 | [Ah Yeah](https://open.spotify.com/track/6wIBZCIbbZh6ACDkWC5TX7) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8), [Chrisette Michele](https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj) | [Black Radio](https://open.spotify.com/album/1yqUCdbw73DpnHBVDwNa3X) | 5:08 |
-| 77 | [Can't Get Enough](https://open.spotify.com/track/1CeYMQCJiPWTsdxC8nNLVP) | [Kenny Lattimore](https://open.spotify.com/artist/1UjTUqWfGkof4L5HO5NmzP) | [Love Jones The Music](https://open.spotify.com/album/4JAftHLhvqnVkFL3f4hv0Z) | 3:59 |
+| 77 | [Can't Get Enough](https://open.spotify.com/track/43d3WCkXuVnN4P0HSLS29Z) | [Kenny Lattimore](https://open.spotify.com/artist/1UjTUqWfGkof4L5HO5NmzP) | [Love Jones The Music](https://open.spotify.com/album/7dt0RR2Kbvu3ZuWloudfjI) | 4:00 |
 | 78 | [Romantic \(feat\. Soulive\)](https://open.spotify.com/track/5liaFrDdoINOvJ4B8WDPa1) | [Goapele](https://open.spotify.com/artist/5cgtn5YWC3Fr06wTps1dBq), [Soulive](https://open.spotify.com/artist/6mWEaOFdcN3s30GuFWruGO) | [Even Closer](https://open.spotify.com/album/7KgzSaFHNmywgJTxBcY3zw) | 5:38 |
 | 79 | [Excuse Me](https://open.spotify.com/track/72V3zdMD3x7CxNhtN7xYX5) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Calvin Richardson](https://open.spotify.com/artist/5lckATQU3N7Ralsw3VfnRb) | [Instant Vintage](https://open.spotify.com/album/2Dfk3iSj303wZD28aXq5ov) | 3:24 |
 | 80 | [For Da Love Of Da Game](https://open.spotify.com/track/7i62TlXOLxvkc0YFPqQDjt) | [Eric Roberson, Raheem DeVaughn & V.](https://open.spotify.com/artist/0qSoNaPPxn4HU6BZrQkTuH) | [The Appetizer](https://open.spotify.com/album/1liUbzbC1fnG5GCjH0qclW) | 5:30 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MbMfAHb8U0.md) - [plain]
 | 98 | [Love Jones](https://open.spotify.com/track/0eYwyhS1SsHswOZG23V0Qr) | [Chico DeBarge](https://open.spotify.com/artist/67ISVBZzcCTTKM17Ps00sx) | [Long Time No See](https://open.spotify.com/album/0AHbQKIEj4X5ghszLRhnLL) | 4:43 |
 | 99 | [No Us, No Them](https://open.spotify.com/track/1JP1HHD3E0ovkSkh4UmQGV) | [Bernhoft](https://open.spotify.com/artist/7hJnLLfzUy0oDOtNZF8wUm), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Islander](https://open.spotify.com/album/6HEzdx1DBhs4ACcWde55vG) | 5:41 |
 
-Snapshot ID: `MCxhYzQxMDAyY2ExNDNmNzI2ZTE5MTM4MDgzYjY5MjA4MDc2MzNkOTc3`
+Snapshot ID: `MCw1ZTAxNjE0Y2FlNmQwN2Q4YmExYzM1YmMxZTY1NzFkOGI4NGRlOTA4`

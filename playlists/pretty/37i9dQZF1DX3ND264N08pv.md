@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,677 likes - 99 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,776 likes - 99 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 41 | [Dynamite](https://open.spotify.com/track/7ecePzsLSoELyuQ3ZyKqMU) | [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc) | [Dynamite](https://open.spotify.com/album/5F7aiiYykkbEHH4RvKBfp2) | 3:22 |
 | 42 | [Ignition](https://open.spotify.com/track/7dKBsM3Tp2dXPybxvCes9P) | [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Ignition](https://open.spotify.com/album/7hgjqyhtZzO4wExR9dfM4U) | 3:57 |
 | 43 | [Go Insane](https://open.spotify.com/track/33jVtnlOdTUVN6Fc6MTSIS) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD) | [Go Insane](https://open.spotify.com/album/5StSF4OCsRGmOxa2Bm7c9d) | 3:18 |
-| 44 | [Dirty Thoughts](https://open.spotify.com/track/3IxNbTPp5F97s6zxD3Ty0M) | [Unproven](https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI) | [Dirty Thoughts](https://open.spotify.com/album/3INDi6HHqprOeYmhoiiU7U) | 2:38 |
-| 45 | [Not Afraid to Fall](https://open.spotify.com/track/6YLTwVpwO2OwuKPq5MC5oe) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [Not Afraid to Fall](https://open.spotify.com/album/45XBkkNEnLzgSQJFWMqo92) | 3:05 |
+| 44 | [Not Afraid to Fall](https://open.spotify.com/track/6YLTwVpwO2OwuKPq5MC5oe) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [Not Afraid to Fall](https://open.spotify.com/album/45XBkkNEnLzgSQJFWMqo92) | 3:05 |
+| 45 | [Dirty Thoughts](https://open.spotify.com/track/3IxNbTPp5F97s6zxD3Ty0M) | [Unproven](https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI) | [Dirty Thoughts](https://open.spotify.com/album/3INDi6HHqprOeYmhoiiU7U) | 2:38 |
 | 46 | [Take Me High](https://open.spotify.com/track/0ojP7HmCeflp0I0ZUmT8JI) | [Remzcore](https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp) | [Take Me High](https://open.spotify.com/album/6JlrucS3EDrrdxJCI9fv1V) | 2:51 |
 | 47 | [HYPER](https://open.spotify.com/track/4GbecipoI4oyDE148vjkde) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [BOMBSQUAD](https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl), [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl) | [HYPER](https://open.spotify.com/album/5nONZdOuEns5bTt2y6Mbcg) | 3:26 |
 | 48 | [LOSE STRESS](https://open.spotify.com/track/1awFS7E8LutYumdpdYGq7M) | [LunaKorpz](https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1) | [LOSE STRESS](https://open.spotify.com/album/2OKZCUdcVh8mCgPZEpQBhZ) | 2:48 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 62 | [Beat My Drum](https://open.spotify.com/track/17RJrhF02qbO7jN0jU5mdQ) | [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7) | [Beat My Drum](https://open.spotify.com/album/0Ca81J3tS5KzIXPvvUAysq) | 3:22 |
 | 63 | [Woo](https://open.spotify.com/track/0EpqkTQgogq6iHpeOwEoGh) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE) | [Woo](https://open.spotify.com/album/3Zf6HFquFGMyFJrVCvp2bB) | 3:37 |
 | 64 | [Here To Stay](https://open.spotify.com/track/6Zvj3BSyp3lwyw9uSqsGpr) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [Serouj Guidanian](https://open.spotify.com/artist/401yqK30JbtGhF3zV07qzU) | [The Ultimate Killing Machine](https://open.spotify.com/album/4Go2MGwW5SXqoJCzYgmW23) | 3:25 |
-| 65 | [Number One Thriller](https://open.spotify.com/track/675l6GVF65IS81eznAR2po) | [Audiofreq](https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl), [Skorned](https://open.spotify.com/artist/02uuZ9yoP6xwYXuLLZd5Br) | [Number One Thriller](https://open.spotify.com/album/0rguy92JmcRjE98uNQ9aIn) | 3:12 |
-| 66 | [Attack](https://open.spotify.com/track/5cfYYPJJku0DQI22bKJ2og) | [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Psycho Boys Club](https://open.spotify.com/artist/17NhTFMWDCB9nU8eDbRWiu) | [Attack](https://open.spotify.com/album/3bbvFPegYo9XTjaaWQXZ9i) | 3:14 |
+| 65 | [Attack](https://open.spotify.com/track/5cfYYPJJku0DQI22bKJ2og) | [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Psycho Boys Club](https://open.spotify.com/artist/17NhTFMWDCB9nU8eDbRWiu) | [Attack](https://open.spotify.com/album/3bbvFPegYo9XTjaaWQXZ9i) | 3:14 |
+| 66 | [Number One Thriller](https://open.spotify.com/track/675l6GVF65IS81eznAR2po) | [Audiofreq](https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl), [Skorned](https://open.spotify.com/artist/02uuZ9yoP6xwYXuLLZd5Br) | [Number One Thriller](https://open.spotify.com/album/0rguy92JmcRjE98uNQ9aIn) | 3:12 |
 | 67 | [Fvcking One](https://open.spotify.com/track/2sruUp3twkNTByH73uIpeY) | [Edwar](https://open.spotify.com/artist/19hHL1D21GLb6xREDCyuhC), [Sidekick](https://open.spotify.com/artist/2tYAj8dL6XAthBoFXwl6co) | [Fvcking One](https://open.spotify.com/album/26DXvklEuDelfT7fLjyRCj) | 3:33 |
 | 68 | [Jongens van de straat](https://open.spotify.com/track/5O9mjAGrtDPTgque6qZWn8) | [DRS](https://open.spotify.com/artist/3ipAwQsSahvSht3Bb8SpLs), [MBK](https://open.spotify.com/artist/1dFaJcw4dpsIW3rSoX9rJd), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [Jongens van de straat](https://open.spotify.com/album/1S7iTYpQr6eYFLaCLWVfbt) | 3:22 |
 | 69 | [HIT IT](https://open.spotify.com/track/4ucb4VSNPP6zctQqnnubpb) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I) | [HIT IT](https://open.spotify.com/album/41iCih8VDmQCezbRHH8U95) | 2:44 |
@@ -83,9 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 73 | [One Way](https://open.spotify.com/track/0OT4p81EBNnYoxWcPQM7wk) | [Bloodfire](https://open.spotify.com/artist/18AdMCxQQcKmL5NbIZYjV7) | [One Way](https://open.spotify.com/album/2bD0r8cGZ69E6uBqU9oDFM) | 3:20 |
 | 74 | [The Ultimate Sound](https://open.spotify.com/track/2Jum2ypFvxaNcLWHUyi17g) | [Neophyte](https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p) | [The Ultimate Sound](https://open.spotify.com/album/2yxYtxZZmQDIchjXz0gegW) | 2:41 |
 | 75 | [Bang Bang](https://open.spotify.com/track/2MQgYQVaVBexty64nnPh7t) | [D'ort](https://open.spotify.com/artist/7H96PqbTkVRtQTdBNtiljh), [EQUAL2](https://open.spotify.com/artist/3gghhafHb61InwF1vnntja) | [Bang Bang](https://open.spotify.com/album/4e7zOzTdkaTkdVjPZxYLjG) | 4:54 |
-| 76 | [Shadows in the Dark](https://open.spotify.com/track/0L4i68FCrTrwev3PxUUpQt) | [Re\-Fuzz](https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs) | [Shadows in the Dark](https://open.spotify.com/album/39LODywZvMhYTjECv7poxU) | 4:48 |
-| 77 | [BOW DOWN](https://open.spotify.com/track/2K4gRuinu1DlimC30iJLNb) | [DEEZL](https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L) | [BOW DOWN](https://open.spotify.com/album/10RoPitNvB3vJHJtUs2ZSv) | 2:59 |
-| 78 | [OMG](https://open.spotify.com/track/3tVjdIKhtgAVy3BNWH1WpZ) | [Remzcore](https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp) | [OMG](https://open.spotify.com/album/61R8EoLyMQQ31KbgPukUKc) | 2:58 |
+| 76 | [OMG](https://open.spotify.com/track/3tVjdIKhtgAVy3BNWH1WpZ) | [Remzcore](https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp) | [OMG](https://open.spotify.com/album/61R8EoLyMQQ31KbgPukUKc) | 2:58 |
+| 77 | [Shadows in the Dark](https://open.spotify.com/track/0L4i68FCrTrwev3PxUUpQt) | [Re\-Fuzz](https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs) | [Shadows in the Dark](https://open.spotify.com/album/39LODywZvMhYTjECv7poxU) | 4:48 |
+| 78 | [BOW DOWN](https://open.spotify.com/track/2K4gRuinu1DlimC30iJLNb) | [DEEZL](https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L) | [BOW DOWN](https://open.spotify.com/album/10RoPitNvB3vJHJtUs2ZSv) | 2:59 |
 | 79 | [Blow Up](https://open.spotify.com/track/3GfmmpnJql1SqFBmJNPYVd) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO) | [Blow Up](https://open.spotify.com/album/6m5sNwYESSevGMnqRJHImH) | 3:24 |
 | 80 | [Force Of Salvation \- Official Masters of Hardcore Austria 2023 Anthem](https://open.spotify.com/track/56tEduBCyWPZ3gVAWONJCu) | [GridKiller](https://open.spotify.com/artist/7njBiH1Uy0qNA8VvPPtEG7) | [Force Of Salvation \(Official Masters of Hardcore Austria 2023 Anthem\)](https://open.spotify.com/album/3frDN1XwkMYXIB504jjoKY) | 5:22 |
 | 81 | [Outta Here](https://open.spotify.com/track/5rNTq1vr12Iat2C34SuJ35) | [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w), [Sihk](https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6) | [Outta Here](https://open.spotify.com/album/17rOS7Yhhhe4tGSoXD9RTw) | 2:18 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 98 | [TH3 FL0W](https://open.spotify.com/track/67pe3dZk02n1cXjtPbXuHh) | [Mind Compressor](https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n) | [TH3 FL0W](https://open.spotify.com/album/11ykfjfk1g4ZJjsx7tEM9J) | 2:34 |
 | 99 | [Die For This](https://open.spotify.com/track/5RE1AIUAPa86jKiRENCpQG) | [Bulletproof](https://open.spotify.com/artist/3Eby2L5JXvh1LLZhjOdea6), [Alee](https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9) | [Die For This](https://open.spotify.com/album/1KQAvivjZXMwi4hBKWgpK1) | 4:00 |
 
-Snapshot ID: `MCw4OTk1YjlhMWY3Yzg0Y2IzZjE5ZjJmNmI1NTc3MmQwMzEwMDMwNjIy`
+Snapshot ID: `MCw2NWNmMDc5YmY4ZTZlYjMxOTQ0Y2VmNzJhZWY3ZDNhNDg0NjdhZjU5`

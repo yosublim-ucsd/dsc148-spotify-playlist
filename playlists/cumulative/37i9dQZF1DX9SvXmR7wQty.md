@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Hamza
 
-2,203 songs - 4 day 21 hr 39 min
+2,204 songs - 4 day 21 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -498,7 +498,7 @@
 | [Des nœuds dans les doigts](https://open.spotify.com/track/2lE5EAPTKZ6inx0gNq6gTg) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Des nœuds dans les doigts](https://open.spotify.com/album/29UB860uihaDIj9d0NsD23) | 4:17 | 2022-05-27 | 2022-06-11 |
 | [Des Étoiles](https://open.spotify.com/track/6kv2fyvEXjSXlHvZ1JrVan) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [Royauté](https://open.spotify.com/album/2G5o5u1tPRBbHG0zK3H3dn) | 2:49 | 2022-01-28 | 2022-02-12 |
 | [Desperado](https://open.spotify.com/track/2cWtN3c20WjE08k0cS4cJK) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [L'école de la vie](https://open.spotify.com/album/5xpWrRABn5rpscaaVETrzY) | 3:18 | 2022-11-11 | 2022-11-26 |
-| [Desperado](https://open.spotify.com/track/7vrKgMYior2b66Gy0ud8rl) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [L'école de la vie](https://open.spotify.com/album/25snFHoT0AM49Ap6PzVdnq) | 3:18 | 2023-11-10 |  |
+| [Desperado](https://open.spotify.com/track/7vrKgMYior2b66Gy0ud8rl) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [L'école de la vie](https://open.spotify.com/album/25snFHoT0AM49Ap6PzVdnq) | 3:18 | 2023-11-10 | 2023-11-27 |
 | [Desperado](https://open.spotify.com/track/0mv5yREt4vSfYnKpENsF0R) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Desperado](https://open.spotify.com/album/1r7zIgnFzNSLyXCrssQDWe) | 3:18 | 2023-02-03 | 2023-02-18 |
 | [Deux cœurs vagabonds](https://open.spotify.com/track/6wmSCqAYA4gO9jziPV2SRC) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Deux cœurs vagabonds](https://open.spotify.com/album/7ClSLWsd75Z35uuTmRNWJa) | 4:19 | 2022-01-28 | 2022-02-12 |
 | [Deux pieds dans la tombe](https://open.spotify.com/track/6rEuBcNDSMt9lLIQIDv6IR) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a), [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Deux pieds dans la tombe](https://open.spotify.com/album/2RcU4foSojnJ3O1cba7Pfh) | 3:21 | 2022-08-19 | 2022-09-03 |
@@ -834,6 +834,7 @@
 | [Il n'y a rien que je ne suis pas](https://open.spotify.com/track/4wsURCIHVHSVsPK8yRP46I) | [Arielle Soucy](https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG) | [Il n'y a rien que je ne suis pas](https://open.spotify.com/album/7yn7BiFIFfeTwf5V42Eu6S) | 4:53 | 2023-10-20 | 2023-10-30 |
 | [Il neige](https://open.spotify.com/track/35LIQh2kzLVenu6axeq01S) | [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h), [Marc Papillon](https://open.spotify.com/artist/1EHCypLoz39aHYBcCvJ9Fq) | [Il neige](https://open.spotify.com/album/5Hi5WlCk47BlQrU1qctnaX) | 4:17 | 2022-03-04 | 2022-03-18 |
 | [Il ou Elle](https://open.spotify.com/track/6YxwMA7VZj8952QyY13fEA) | [Bilal Hassani](https://open.spotify.com/artist/1eoyu9uAivE7Jwak40J1MW) | [Il ou Elle](https://open.spotify.com/album/2oBgOYrxGNKIzbhMv6Pcql) | 2:41 | 2022-06-03 | 2022-06-11 |
+| [Il y a](https://open.spotify.com/track/5H3s6pH2SQsp6a0n8k0BrW) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Il y a](https://open.spotify.com/album/55RuSf55f21hk6VLj55JYs) | 3:25 | 2023-11-24 |  |
 | [Il était une fois](https://open.spotify.com/track/3uLZL8cZl2Hr1lal1Cet3D) | [Die\-On](https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Il était une fois](https://open.spotify.com/album/2viKHkCMddUIbdI4EWbbTd) | 4:05 | 2022-08-26 | 2022-09-10 |
 | [Il était une pieuvre](https://open.spotify.com/track/2n2AqvhkiymMrSYEpZH211) | [Poupie](https://open.spotify.com/artist/71x0OO2toFjXrMRcufL9tv), [Philippe Katerine](https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e), [Arielle Dombasle](https://open.spotify.com/artist/7I2zgbIGfAd3w1CktlJUbI) | [Il était une pieuvre](https://open.spotify.com/album/6jiP10F26ycL2IopinE9aZ) | 2:54 | 2022-12-23 | 2023-01-21 |
 | [Illusions](https://open.spotify.com/track/7m4ANVR0ahJDo75GTm4AmI) | [Joé Napoléon](https://open.spotify.com/artist/510udNBCzJbWbwV3013dIf) | [Illusions](https://open.spotify.com/album/4IJeaKPemcXK21lCmJr1t7) | 3:40 | 2022-06-10 | 2022-06-18 |

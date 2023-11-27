@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:1K15GRZZATsCJyGJ4bYiEz">Luh Tyler</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,794,077 likes - 100 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,794,215 likes - 100 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [TLC](https://open.spotify.com/track/1nXEbGvVAWGRFwVRBu1YSY) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [TLC](https://open.spotify.com/album/74SmXYF8NJlxp1PqMEXf3p) | 2:29 |
 | 100 | [Ghetto & Ratchet \(with Jenn Carter\) \- Remix](https://open.spotify.com/track/1T4T1ht4F40NRwelsmQlW1) | [Connie Diiamond](https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM) | [Ghetto & Ratchet](https://open.spotify.com/album/7xwWcuyJ8VOVPFliDI3pGV) | 2:44 |
 
-Snapshot ID: `MCxjYWZjZWQ4OGJjOTJjMzdkMWUxYWYwMzc5ZGE3YWIxN2RmMmI4NWVl`
+Snapshot ID: `MCxiNDlmYThmYmVmNjgxODdlNGNlMDE3ZDAxNDBiZDc5YTFjMDJlMDBl`

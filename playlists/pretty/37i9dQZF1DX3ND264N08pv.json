@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 66677,
+  "num_followers": 66776,
   "original_name": "Hardcore Rage 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTk1YjlhMWY3Yzg0Y2IzZjE5ZjJmNmI1NTc3MmQwMzEwMDMwNjIy",
+  "snapshot_id": "MCw2NWNmMDc5YmY4ZTZlYjMxOTQ0Y2VmNzJhZWY3ZDNhNDg0NjdhZjU5",
   "tracks": [
     {
       "added_at": "2023-11-17 08:38:10",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-11-17 08:38:10",
       "album": {
-        "name": "Dirty Thoughts",
-        "url": "https://open.spotify.com/album/3INDi6HHqprOeYmhoiiU7U"
-      },
-      "artists": [
-        {
-          "name": "Unproven",
-          "url": "https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI"
-        }
-      ],
-      "duration_ms": 158421,
-      "name": "Dirty Thoughts",
-      "url": "https://open.spotify.com/track/3IxNbTPp5F97s6zxD3Ty0M"
-    },
-    {
-      "added_at": "2023-11-17 08:38:10",
-      "album": {
         "name": "Not Afraid to Fall",
         "url": "https://open.spotify.com/album/45XBkkNEnLzgSQJFWMqo92"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 185230,
       "name": "Not Afraid to Fall",
       "url": "https://open.spotify.com/track/6YLTwVpwO2OwuKPq5MC5oe"
+    },
+    {
+      "added_at": "2023-11-17 08:38:10",
+      "album": {
+        "name": "Dirty Thoughts",
+        "url": "https://open.spotify.com/album/3INDi6HHqprOeYmhoiiU7U"
+      },
+      "artists": [
+        {
+          "name": "Unproven",
+          "url": "https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI"
+        }
+      ],
+      "duration_ms": 158421,
+      "name": "Dirty Thoughts",
+      "url": "https://open.spotify.com/track/3IxNbTPp5F97s6zxD3Ty0M"
     },
     {
       "added_at": "2023-11-17 08:38:10",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2023-11-17 08:38:10",
       "album": {
-        "name": "Number One Thriller",
-        "url": "https://open.spotify.com/album/0rguy92JmcRjE98uNQ9aIn"
-      },
-      "artists": [
-        {
-          "name": "Audiofreq",
-          "url": "https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl"
-        },
-        {
-          "name": "Skorned",
-          "url": "https://open.spotify.com/artist/02uuZ9yoP6xwYXuLLZd5Br"
-        }
-      ],
-      "duration_ms": 192324,
-      "name": "Number One Thriller",
-      "url": "https://open.spotify.com/track/675l6GVF65IS81eznAR2po"
-    },
-    {
-      "added_at": "2023-11-17 08:38:10",
-      "album": {
         "name": "Attack",
         "url": "https://open.spotify.com/album/3bbvFPegYo9XTjaaWQXZ9i"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 194117,
       "name": "Attack",
       "url": "https://open.spotify.com/track/5cfYYPJJku0DQI22bKJ2og"
+    },
+    {
+      "added_at": "2023-11-17 08:38:10",
+      "album": {
+        "name": "Number One Thriller",
+        "url": "https://open.spotify.com/album/0rguy92JmcRjE98uNQ9aIn"
+      },
+      "artists": [
+        {
+          "name": "Audiofreq",
+          "url": "https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl"
+        },
+        {
+          "name": "Skorned",
+          "url": "https://open.spotify.com/artist/02uuZ9yoP6xwYXuLLZd5Br"
+        }
+      ],
+      "duration_ms": 192324,
+      "name": "Number One Thriller",
+      "url": "https://open.spotify.com/track/675l6GVF65IS81eznAR2po"
     },
     {
       "added_at": "2023-11-17 08:38:10",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2023-11-17 08:38:10",
       "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/61R8EoLyMQQ31KbgPukUKc"
+      },
+      "artists": [
+        {
+          "name": "Remzcore",
+          "url": "https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp"
+        }
+      ],
+      "duration_ms": 178975,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/3tVjdIKhtgAVy3BNWH1WpZ"
+    },
+    {
+      "added_at": "2023-11-17 08:38:10",
+      "album": {
         "name": "Shadows in the Dark",
         "url": "https://open.spotify.com/album/39LODywZvMhYTjECv7poxU"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 179240,
       "name": "BOW DOWN",
       "url": "https://open.spotify.com/track/2K4gRuinu1DlimC30iJLNb"
-    },
-    {
-      "added_at": "2023-11-17 08:38:10",
-      "album": {
-        "name": "OMG",
-        "url": "https://open.spotify.com/album/61R8EoLyMQQ31KbgPukUKc"
-      },
-      "artists": [
-        {
-          "name": "Remzcore",
-          "url": "https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp"
-        }
-      ],
-      "duration_ms": 178975,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/3tVjdIKhtgAVy3BNWH1WpZ"
     },
     {
       "added_at": "2023-11-17 08:38:10",

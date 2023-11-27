@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-778 songs - 1 day 23 hr 18 min
+779 songs - 1 day 23 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Fata Morgana](https://open.spotify.com/track/6ZPnUBqOW5cPG4gYBSbfhl) | [Ralphie B](https://open.spotify.com/artist/5KZ8bXnO1Q3nGWP2UqmQ3f), [Frank Waanders](https://open.spotify.com/artist/00eZQLSi5N5mpBuvojLa7P) | [Fata Morgana](https://open.spotify.com/album/6JJcpji6WEQKGEPdf473uv) | 4:06 | 2022-12-10 | 2023-06-10 |
 | [Fears In The Fire](https://open.spotify.com/track/19PH9jGNbIx64MbF7Uy7kT) | [Robin Aristo](https://open.spotify.com/artist/0bwRoL3Q12u1FuEsT3X0cs) | [Fears In The Fire](https://open.spotify.com/album/3llafdDDlOUL0fu3a50xjs) | 2:37 | 2022-09-23 | 2023-05-13 |
 | [Feel Alive](https://open.spotify.com/track/1PuV3bBaTdRTETZl0w55Ua) | [Christina Novelli](https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n), [Dave Neven](https://open.spotify.com/artist/3nmkZFOvLJkwj6r54ievPs) | [Feel Alive](https://open.spotify.com/album/61PlRXPL4DaxCwMJI8HbEQ) | 4:01 | 2022-08-12 |  |
+| [Feel It in My Soul](https://open.spotify.com/track/64XX2sg5YsAnOyTwhfTHlG) | [Basslovers United](https://open.spotify.com/artist/4KpgeSLtjj0txr6drzaedu), [Andy Jay Powell](https://open.spotify.com/artist/6LcWcssoNHGP2WHVA9Fk51) | [Feel It in My Soul](https://open.spotify.com/album/4JdyE6xgvTGZsAiHJ90D9e) | 3:16 | 2023-11-17 |  |
 | [Feel The Rain](https://open.spotify.com/track/6cXuTXqe24QmUB4afxgiUe) | [Jordan Tobias](https://open.spotify.com/artist/0hMFrL7Fn79LC30jv0h9l3) | [Feel The Rain](https://open.spotify.com/album/2hHez1jeKZ7Aa0EhbJoGhW) | 3:24 | 2022-05-13 | 2022-05-16 |
 | [Feels Like Home](https://open.spotify.com/track/2OfDYA3xkEQ2fILrBlknHD) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [AIDYL](https://open.spotify.com/artist/63YNSGgVHzU8j43ngzTw1f) | [Feels Like Home](https://open.spotify.com/album/2qNzaIxSP07ELzsFOPrspG) | 4:26 | 2022-09-02 | 2023-07-08 |
 | [Feels Like NRJ](https://open.spotify.com/track/5U7dzRwurlZW5zhKk51vdM) | [Orjan Nilsen](https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM) | [Feels Like NRJ](https://open.spotify.com/album/18RK40PDNG8OJ1oFP5bG6x) | 2:41 | 2023-04-07 |  |
@@ -435,7 +436,7 @@
 | [Manoeuvres](https://open.spotify.com/track/7KX5mgPR5iNo5XK7C5D5i0) | [Purple Haze](https://open.spotify.com/artist/35ClM9mD81Evb2EIuYq5en) | [Manoeuvres](https://open.spotify.com/album/20w3vd1ih8QihXZfCOTL3Y) | 3:56 | 2021-12-17 | 2023-02-25 |
 | [Manray](https://open.spotify.com/track/4NdEelTQyMQ4seMGHb7OWx) | [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL), [Dakota](https://open.spotify.com/artist/7mTnfFkluYaLb3UpA9aWgG) | [Manray](https://open.spotify.com/album/1se4IcPEkRxAXAAwc9q102) | 3:35 | 2022-03-25 | 2023-04-09 |
 | [Mantra](https://open.spotify.com/track/0JkKlMPyrl9hHEq8OwUMS5) | [Alex Sonata & TheRio](https://open.spotify.com/artist/0R3Imkf3vLjMsdx46OC2Ej) | [Mantra](https://open.spotify.com/album/2oW4o2exZxsnbteWcik97a) | 3:48 | 2023-07-14 |  |
-| [Meet Again](https://open.spotify.com/track/1TJsxoJte19MgSzGSsIM3h) | [Doppenberg](https://open.spotify.com/artist/4wQuZIXFDqWeO8VYJmbajF), [Harshil Kamdar](https://open.spotify.com/artist/7BTbq5jH8tND6FAN6qoey2) | [Meet Again](https://open.spotify.com/album/2gWB2YHPVUk01bRQZiKZGM) | 3:10 | 2023-11-17 |  |
+| [Meet Again](https://open.spotify.com/track/1TJsxoJte19MgSzGSsIM3h) | [Doppenberg](https://open.spotify.com/artist/4wQuZIXFDqWeO8VYJmbajF), [Harshil Kamdar](https://open.spotify.com/artist/7BTbq5jH8tND6FAN6qoey2) | [Meet Again](https://open.spotify.com/album/2gWB2YHPVUk01bRQZiKZGM) | 3:10 | 2023-11-17 | 2023-11-27 |
 | [Melodrama \- Abstract Vision Remix](https://open.spotify.com/track/0lT9do5cYc8GFtDto2elSl) | [Steve Dekay](https://open.spotify.com/artist/7lF2WmukgrCZa5pxW6q1IE), [Jan Miller](https://open.spotify.com/artist/2A4hJBFSnQNH4InBM1GXh5), [Abstract Vision](https://open.spotify.com/artist/38ll04WO5aX23GmDvdneOr) | [Melodrama \(Abstract Vision Remix\)](https://open.spotify.com/album/669yD7srfyKo5lBcGcAW2w) | 3:59 | 2021-12-17 | 2022-07-24 |
 | [Melody](https://open.spotify.com/track/2e33YjJeFxGDcyaAUKcEm7) | [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Melody](https://open.spotify.com/album/61JKglWCQiXLhvEOK3eAuj) | 4:02 | 2022-11-04 | 2022-12-17 |
 | [Memories](https://open.spotify.com/track/3prn2UmOzfZLXDOnvT22Ok) | [Christina Novelli](https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n) | [Heavy EP](https://open.spotify.com/album/4wkt9f3R1jFAOu92yU29ws) | 3:47 | 2023-07-14 | 2023-10-07 |

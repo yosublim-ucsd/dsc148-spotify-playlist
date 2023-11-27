@@ -4,7 +4,7 @@
 
 > What's new in rock this week\. Cover: EKKSTACY
 
-671 songs - 1 day 13 hr 13 min
+673 songs - 1 day 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Backbone](https://open.spotify.com/track/7cl08gllA42WPESPRGUlqQ) | [MONOWHALES](https://open.spotify.com/artist/6Ok8AIUj7YYGC981xWCbgQ) | [Backbone](https://open.spotify.com/album/6xX5k5pieb7GtDHdNv1lRv) | 3:13 | 2023-10-06 | 2023-11-18 |
 | [Bad Dreams](https://open.spotify.com/track/1LZWVffprff6rcWqPteIJf) | [The Penske File](https://open.spotify.com/artist/26ib3Vuhrpl8LXfb5GGYCh) | [Half Glow](https://open.spotify.com/album/13oTS8HGiFF1HmucmoMFpj) | 3:07 | 2023-07-21 | 2023-09-16 |
 | [bad note](https://open.spotify.com/track/39j6QzHqCa4G6lCwoJDQYE) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [bad note](https://open.spotify.com/album/2mp93U5wYNG9pNOuOX2nh9) | 2:46 | 2023-05-26 | 2023-07-08 |
-| [Bail Out](https://open.spotify.com/track/3sYrD6bikHs1Y3kvAoZQE9) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS) | [Bail Out](https://open.spotify.com/album/39ovsOammVEPwwE16yT8TP) | 4:08 | 2023-10-27 |  |
+| [Bail Out](https://open.spotify.com/track/0t1So0fjjCi2JVSdYSbijS) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS) | [Pages](https://open.spotify.com/album/4alJEpLwJu3ptq8h9rVs6Y) | 4:08 | 2023-11-24 |  |
+| [Bail Out](https://open.spotify.com/track/3sYrD6bikHs1Y3kvAoZQE9) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS) | [Bail Out](https://open.spotify.com/album/39ovsOammVEPwwE16yT8TP) | 4:08 | 2023-10-27 | 2023-11-27 |
 | [Battles](https://open.spotify.com/track/2isshkJwDJsYkn26GxKQLD) | [Ravenscode](https://open.spotify.com/artist/3NWaix6Tlb7dFlJybjAO7Z) | [Battles](https://open.spotify.com/album/0lXPgEhgsyW61CXTswVKmD) | 3:39 | 2023-02-10 | 2023-04-09 |
 | [Beautiful People](https://open.spotify.com/track/5RtsGhljyNOEL2pVEkiy3w) | [Mise En Scene](https://open.spotify.com/artist/4r7GGIhQom0s0FVrXcWtrK) | [Reality Bites](https://open.spotify.com/album/6PaWsbZFqY5dmoG25C0T4J) | 3:52 | 2023-06-23 | 2023-09-02 |
 | [Beginner's Mind](https://open.spotify.com/track/2rWl4zpMQIvZ1O4CNOlYAB) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Laundry Pile](https://open.spotify.com/album/1QlYhaYb8Tfd47iuoUKaaz) | 4:38 | 2023-09-22 | 2023-10-21 |
@@ -303,7 +304,8 @@
 | [It's a Joke](https://open.spotify.com/track/6QGvM4sG1Hm3nZbNoV42tq) | [Elita](https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv) | [It's a Joke](https://open.spotify.com/album/0wi8ZxKcnHoTqBOSypCxRE) | 2:30 | 2023-03-03 | 2023-03-25 |
 | [It's My Year](https://open.spotify.com/track/1gegPAUUeSR2waLQ3YuUT2) | [Miesha and the Spanks](https://open.spotify.com/artist/1pByG4lN7gH4mkcCThBj6j) | [It's My Year](https://open.spotify.com/album/4DQqqsHmPELRbUZKFHmORv) | 2:55 | 2023-02-10 | 2023-03-11 |
 | [January](https://open.spotify.com/track/3EAOQqsj22CuKtTvmPpKC1) | [Loviet](https://open.spotify.com/artist/2oULrQuWXhDGUEBtWQPiA9) | [January](https://open.spotify.com/album/4ADN9dF6lAY3saVz1hFPWu) | 4:36 | 2023-02-10 | 2023-02-25 |
-| [Juan](https://open.spotify.com/track/70xYU2CAKsIuWmh4ZuXpP9) | [Ghost Woman](https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy) | [Juan](https://open.spotify.com/album/1PM4REcmfjIKvZpbJuMgth) | 6:38 | 2023-11-10 |  |
+| [Juan](https://open.spotify.com/track/70xYU2CAKsIuWmh4ZuXpP9) | [Ghost Woman](https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy) | [Juan](https://open.spotify.com/album/1PM4REcmfjIKvZpbJuMgth) | 6:38 | 2023-11-10 | 2023-11-27 |
+| [Juan](https://open.spotify.com/track/76bIIGkdgueve4mz3Sox52) | [Ghost Woman](https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy) | [Hindsight is 50/50](https://open.spotify.com/album/1YRDxoprPeRTWFwDO9aZhI) | 6:38 | 2023-11-24 |  |
 | [Judy Gnarland](https://open.spotify.com/track/1Wy3EOJ8GrXC1XuYfdNJBk) | [Stevie Zita](https://open.spotify.com/artist/799k56wbyqhZaDazBF8bNY) | [Judy Gnarland](https://open.spotify.com/album/6KmgHZ5aSYu1gS807MYQ3K) | 2:52 | 2023-02-10 | 2023-03-18 |
 | [Just a Boy](https://open.spotify.com/track/0HL2BZqdCwVO19FaUGylu5) | [DYLYN](https://open.spotify.com/artist/3hOdLrtKdSs3AEuwcR7ses) | [The Sixty90’s](https://open.spotify.com/album/52OLN3MpGAVuwOA2nmxXW6) | 3:48 | 2023-02-10 | 2023-02-25 |
 | [Just The Once](https://open.spotify.com/track/1r6wNQnDUbhqXawf0s2Mlz) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Just The Once](https://open.spotify.com/album/1GdDtwpkl0nQPormpkSiD5) | 3:24 | 2023-07-07 | 2023-08-12 |

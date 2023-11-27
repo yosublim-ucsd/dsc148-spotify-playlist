@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Drax Project
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,253 likes - 88 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,283 likes - 88 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 87 | [Heaven](https://open.spotify.com/track/5qpL3VKrTeaCxfDwICBRXn) | [Ocean Sleeper](https://open.spotify.com/artist/04LbaB3D3XOMbfPnWmObAi) | [Heaven](https://open.spotify.com/album/57hsuGuUiT3XmEQi3VymM7) | 3:29 |
 | 88 | [Second Chances](https://open.spotify.com/track/3sI8AhKWC5rD000cZR1BZG) | [Complete](https://open.spotify.com/artist/7Fe4vD5WyjtFxlxSO0d7lP) | [Second Chances](https://open.spotify.com/album/3ktZAWNj6CLs5EwA9i0WMu) | 2:43 |
 
-Snapshot ID: `MCxlZWFkZjYxMGI2NDEwMDFiYWY0Zjg3NzM0YWM3NTY3ZjU4ZmZkNDdi`
+Snapshot ID: `MCw1MGEyMTc1MTgwNTY2YzU5MzIzZjhiMzE0NWI0ZDhkNTVjOTE0MTli`

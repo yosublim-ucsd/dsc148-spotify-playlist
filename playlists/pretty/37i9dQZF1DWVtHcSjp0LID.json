@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 64853,
+  "num_followers": 64910,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDM0ZGEyMjgwZGU3OTUwMGQ2NDYzMzU1MTY0YTg5ZDU3MDczNmQ2",
+  "snapshot_id": "MCwwMTFlOGY3OTg2ZjJiNjk1MTEyOTM3NzY2ZTQ3N2FmNDQwMjQ4ZDUy",
   "tracks": [
     {
       "added_at": "2023-06-09 18:05:35",
@@ -391,6 +391,22 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
+        "name": "Nina Kraviz",
+        "url": "https://open.spotify.com/album/4obvGroj4Sg4PbuLfdhFSo"
+      },
+      "artists": [
+        {
+          "name": "Nina Kraviz",
+          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
+        }
+      ],
+      "duration_ms": 224800,
+      "name": "Ghetto Kraviz",
+      "url": "https://open.spotify.com/track/1vYUnLz9DfpJCnGB77UFFJ"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
         "name": "What Have You Done To Me?",
         "url": "https://open.spotify.com/album/31UYvnKUP1cDazUDpAA19x"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 286186,
       "name": "What Have You Done To Me?",
       "url": "https://open.spotify.com/track/6Y1i876TjV3Gmf9eUIs8Fw"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
-        "name": "Nina Kraviz",
-        "url": "https://open.spotify.com/album/4obvGroj4Sg4PbuLfdhFSo"
-      },
-      "artists": [
-        {
-          "name": "Nina Kraviz",
-          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
-        }
-      ],
-      "duration_ms": 224800,
-      "name": "Ghetto Kraviz",
-      "url": "https://open.spotify.com/track/1vYUnLz9DfpJCnGB77UFFJ"
     },
     {
       "added_at": "2023-06-09 18:05:35",

@@ -1,12 +1,12 @@
 {
   "description": "Who doesn't love the 90s?",
-  "num_followers": 1111993,
+  "num_followers": 1112734,
   "original_name": "90s Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjliMThiY2NiNjQ4Y2NkNDM1NWQ1N2QzOTcwZTkxY2UwYTNkN2Y2",
+  "snapshot_id": "MCwxNTUwOTI4NDdlODI2YWI2MzVmOTM5ZDY2NTkwMjJmMjQwMzIxMmRm",
   "tracks": [
     {
       "added_at": "2023-07-14 10:06:53",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
-        "name": "It's My Life",
-        "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
-      },
-      "artists": [
-        {
-          "name": "Sash!",
-          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
-        }
-      ],
-      "duration_ms": 212133,
-      "name": "Ecuador - Original Radio Edit",
-      "url": "https://open.spotify.com/track/1arJHhz6TxMV50SNvSmGnV"
-    },
-    {
-      "added_at": "2023-07-14 10:06:53",
-      "album": {
         "name": "One Love",
         "url": "https://open.spotify.com/album/3hJI8ryjrsmUULkOXtV1IU"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 239933,
       "name": "It's My Life",
       "url": "https://open.spotify.com/track/4TOGkYS141L15SkVosAp7Z"
+    },
+    {
+      "added_at": "2023-07-14 10:06:53",
+      "album": {
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
+      },
+      "artists": [
+        {
+          "name": "Sash!",
+          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
+        }
+      ],
+      "duration_ms": 212133,
+      "name": "Ecuador - Original Radio Edit",
+      "url": "https://open.spotify.com/track/1arJHhz6TxMV50SNvSmGnV"
     },
     {
       "added_at": "2023-07-14 10:06:53",
@@ -743,18 +743,18 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
-        "name": "Sex & Violins",
-        "url": "https://open.spotify.com/album/3MLXp4rTGt1USufyODvXuz"
+        "name": "Rhythm Is a Dancer 2008",
+        "url": "https://open.spotify.com/album/3q1JrnU58iasGeb0etrpK7"
       },
       "artists": [
         {
-          "name": "Rednex",
-          "url": "https://open.spotify.com/artist/22Zqu1yyebVnbve8FxbJ2g"
+          "name": "SNAP!",
+          "url": "https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx"
         }
       ],
-      "duration_ms": 193826,
-      "name": "Cotton Eye Joe",
-      "url": "https://open.spotify.com/track/0Jg602cHeMCnPez9baacIe"
+      "duration_ms": 316138,
+      "name": "Rhythm Is a Dancer (12'' Version)",
+      "url": "https://open.spotify.com/track/55vAraLCIsYMnakMHUUgvB"
     },
     {
       "added_at": "2023-07-14 10:06:53",
@@ -775,18 +775,18 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
-        "name": "Rhythm Is a Dancer 2008",
-        "url": "https://open.spotify.com/album/3q1JrnU58iasGeb0etrpK7"
+        "name": "Sex & Violins",
+        "url": "https://open.spotify.com/album/3MLXp4rTGt1USufyODvXuz"
       },
       "artists": [
         {
-          "name": "SNAP!",
-          "url": "https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx"
+          "name": "Rednex",
+          "url": "https://open.spotify.com/artist/22Zqu1yyebVnbve8FxbJ2g"
         }
       ],
-      "duration_ms": 316138,
-      "name": "Rhythm Is a Dancer (12'' Version)",
-      "url": "https://open.spotify.com/track/55vAraLCIsYMnakMHUUgvB"
+      "duration_ms": 193826,
+      "name": "Cotton Eye Joe",
+      "url": "https://open.spotify.com/track/0Jg602cHeMCnPez9baacIe"
     },
     {
       "added_at": "2023-07-14 10:06:53",

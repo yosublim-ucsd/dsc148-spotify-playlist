@@ -594,10 +594,28 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-27",
       "duration_ms": 255800,
       "name": "Find a River",
       "url": "https://open.spotify.com/track/1rA9rH9nBHIwjuF5MnWbaW"
+    },
+    {
+      "album": {
+        "name": "Find a River",
+        "url": "https://open.spotify.com/album/6kuV3PucilLTjGKmQBjFJ6"
+      },
+      "artists": [
+        {
+          "name": "The Mitchell Twins",
+          "url": "https://open.spotify.com/artist/6hxv3JmXDPj5gdUFh7V89D"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255800,
+      "name": "Find a River",
+      "url": "https://open.spotify.com/track/7Fkz9JnwuKFOXTJ0VnG56c"
     },
     {
       "album": {

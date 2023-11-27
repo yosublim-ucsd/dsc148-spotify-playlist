@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 6370,
+  "num_followers": 6384,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDU0MWQ0YzkzNmMxZDRjNDRkY2NkNGJjMTkxNDRjMDc1YzlhMzFk",
+  "snapshot_id": "MCxmYTI1ZjA5NWQyNjE5YTY2Yjg1YjViZDFmNTMwOTQwMTIwOTkzZDli",
   "tracks": [
     {
       "added_at": "2023-11-09 23:00:00",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
-        "name": "Pink Shades",
-        "url": "https://open.spotify.com/album/7td13U2cAaFTV5TWMtgfwv"
-      },
-      "artists": [
-        {
-          "name": "Blackbird",
-          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
-        }
-      ],
-      "duration_ms": 210506,
-      "name": "Pink Shades",
-      "url": "https://open.spotify.com/track/6kDcrYQImUgkezQXuAQUqF"
-    },
-    {
-      "added_at": "2023-11-09 23:00:00",
-      "album": {
         "name": "Big Time",
         "url": "https://open.spotify.com/album/5UsuKQY3qOMAYyuwaxH4Lx"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 247666,
       "name": "Big Time",
       "url": "https://open.spotify.com/track/3RZ5VvBcCQgrRl8XaKZLa4"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
+        "name": "Pink Shades",
+        "url": "https://open.spotify.com/album/7td13U2cAaFTV5TWMtgfwv"
+      },
+      "artists": [
+        {
+          "name": "Blackbird",
+          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
+        }
+      ],
+      "duration_ms": 210506,
+      "name": "Pink Shades",
+      "url": "https://open.spotify.com/track/6kDcrYQImUgkezQXuAQUqF"
     },
     {
       "added_at": "2023-11-09 23:00:00",
@@ -443,6 +443,22 @@
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
+        "name": "King of a Land",
+        "url": "https://open.spotify.com/album/1oTVSpkoMbY4CiQC1NAVFG"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "duration_ms": 273400,
+      "name": "Pagan Run",
+      "url": "https://open.spotify.com/track/7LwPaJBg7ySXzY5fQO3WbR"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
         "name": "Before The Storm",
         "url": "https://open.spotify.com/album/1ketSreRN3Qq5OTzgqPOcP"
       },
@@ -495,22 +511,6 @@
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
-        "name": "King of a Land",
-        "url": "https://open.spotify.com/album/1oTVSpkoMbY4CiQC1NAVFG"
-      },
-      "artists": [
-        {
-          "name": "Yusuf / Cat Stevens",
-          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
-        }
-      ],
-      "duration_ms": 273400,
-      "name": "Pagan Run",
-      "url": "https://open.spotify.com/track/7LwPaJBg7ySXzY5fQO3WbR"
-    },
-    {
-      "added_at": "2023-11-09 23:00:00",
-      "album": {
         "name": "Know Your Demons",
         "url": "https://open.spotify.com/album/408i5hH2MLHqX6X6srXEL8"
       },
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
-        "name": "Babe I'm Gonna Leave You (Extended Version)",
-        "url": "https://open.spotify.com/album/5U5FRaYp8B23WI7BvIGcfL"
-      },
-      "artists": [
-        {
-          "name": "Beth Hart",
-          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
-        }
-      ],
-      "duration_ms": 294945,
-      "name": "Babe I'm Gonna Leave You - Extended Version",
-      "url": "https://open.spotify.com/track/66DmPZHPwXz5VO2Mse5FAj"
-    },
-    {
-      "added_at": "2023-11-09 23:00:00",
-      "album": {
         "name": "The Epic Tale of the Stranded Man",
         "url": "https://open.spotify.com/album/1BfrHxEQliuMZYzetI8TGH"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 212139,
       "name": "Lola with the Light Eyes",
       "url": "https://open.spotify.com/track/05eGBCOwS0vA4c2TBVRiJ0"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
+        "name": "Babe I'm Gonna Leave You (Extended Version)",
+        "url": "https://open.spotify.com/album/5U5FRaYp8B23WI7BvIGcfL"
+      },
+      "artists": [
+        {
+          "name": "Beth Hart",
+          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
+        }
+      ],
+      "duration_ms": 294945,
+      "name": "Babe I'm Gonna Leave You - Extended Version",
+      "url": "https://open.spotify.com/track/66DmPZHPwXz5VO2Mse5FAj"
     },
     {
       "added_at": "2023-11-09 23:00:00",
@@ -767,26 +767,6 @@
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
-        "name": "The Kids Are All Grown (Blackbird Version)",
-        "url": "https://open.spotify.com/album/3hdDyWKULmmDVjpgxAZVp1"
-      },
-      "artists": [
-        {
-          "name": "Brian Dunne",
-          "url": "https://open.spotify.com/artist/3OAxV7SBURDucfRHHQlJ2V"
-        },
-        {
-          "name": "Caitlin Rose",
-          "url": "https://open.spotify.com/artist/41LGTx1fpA69G2ZAJKZntM"
-        }
-      ],
-      "duration_ms": 275139,
-      "name": "The Kids Are All Grown - Blackbird Version",
-      "url": "https://open.spotify.com/track/04R0IH9gPAMwpyNWrRYPg4"
-    },
-    {
-      "added_at": "2023-11-09 23:00:00",
-      "album": {
         "name": "Take A Ride",
         "url": "https://open.spotify.com/album/05FmZGsA5g6HqHBPU3CW9Q"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 230431,
       "name": "For The Better Of Me",
       "url": "https://open.spotify.com/track/4p1auAjWQJyV3cLJ7pqmpZ"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
+        "name": "The Kids Are All Grown (Blackbird Version)",
+        "url": "https://open.spotify.com/album/3hdDyWKULmmDVjpgxAZVp1"
+      },
+      "artists": [
+        {
+          "name": "Brian Dunne",
+          "url": "https://open.spotify.com/artist/3OAxV7SBURDucfRHHQlJ2V"
+        },
+        {
+          "name": "Caitlin Rose",
+          "url": "https://open.spotify.com/artist/41LGTx1fpA69G2ZAJKZntM"
+        }
+      ],
+      "duration_ms": 275139,
+      "name": "The Kids Are All Grown - Blackbird Version",
+      "url": "https://open.spotify.com/track/04R0IH9gPAMwpyNWrRYPg4"
     },
     {
       "added_at": "2023-11-09 23:00:00",

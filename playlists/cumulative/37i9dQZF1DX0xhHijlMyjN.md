@@ -4,7 +4,7 @@
 
 > Lo que necesita cualquier verbena veraniega.
 
-189 songs - 11 hr 57 min
+190 songs - 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Don't You Worry Child \- Radio Edit](https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Don't You Worry Child](https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY) | 3:32 | 2022-08-11 |  |
 | [Dragostea din tei](https://open.spotify.com/track/52Zr0sinhWTCRrQhRRY4EP) | [O\-Zone](https://open.spotify.com/artist/5M5PjPSiKeXynM6Ohu350r) | [DiscO\-Zone](https://open.spotify.com/album/0LUnPpNFYk72u29RAW2aLJ) | 3:35 | 2023-06-09 |  |
 | [Déjala Que Baile \(with Alejandro Sanz & Arkano\)](https://open.spotify.com/track/2KK9N6iBAisA0booTu3bGd) | [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Arkano](https://open.spotify.com/artist/5ACyfaynUH9FpBaR8uZprQ) | [Ahora](https://open.spotify.com/album/2cx8aUPxZ0GvVJkJdNXeOM) | 3:39 | 2023-06-09 | 2023-06-21 |
-| [Echa Pa'lla \(Manos Pa'rriba\) \(feat\. Papayo\)](https://open.spotify.com/track/6DT6YBRXnxhIeSH0rn6khB) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Papayo](https://open.spotify.com/artist/5F2Bwl7Is7KVwTbNbMclIS) | [Global Warming \(Deluxe Version\)](https://open.spotify.com/album/2USiuZqEAyfOcKmcujg4hs) | 3:16 | 2023-06-09 |  |
+| [Echa Pa'lla \(Manos Pa'rriba\) \(feat\. Papayo\)](https://open.spotify.com/track/6DT6YBRXnxhIeSH0rn6khB) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Papayo](https://open.spotify.com/artist/5F2Bwl7Is7KVwTbNbMclIS) | [Global Warming \(Deluxe Version\)](https://open.spotify.com/album/2USiuZqEAyfOcKmcujg4hs) | 3:16 | 2023-06-09 | 2023-11-27 |
 | [El Legia](https://open.spotify.com/track/6oAQjQUNla2rJSYeQ8qWxe) | [Los Moles](https://open.spotify.com/artist/50pSmQcXiFTWQ4O5sUddnV) | [Cartas de Amor](https://open.spotify.com/album/3FXoSGC8aRYM05wG0FWmO4) | 5:03 | 2023-06-09 |  |
 | [El Perdón \(with Enrique Iglesias\)](https://open.spotify.com/track/7qCAVkHWZkF44OzOUKf8Cr) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Fénix](https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ) | 3:25 | 2022-08-11 |  |
 | [Ella Elle L A](https://open.spotify.com/track/2uWK6uBDfyg78xfiH1iiFP) | [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Free](https://open.spotify.com/album/4SPD09dxTSb1isoxVSNhAq) | 3:04 | 2023-06-09 |  |
@@ -173,6 +173,7 @@
 | [Te Pintaron Pajaritos](https://open.spotify.com/track/4jY5SnGbpH6FdGCqVbhOD4) | [Yandar & Yostin](https://open.spotify.com/artist/3ptY5WTxu77JpAQQnHyxEl), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Te Pintaron Pajaritos](https://open.spotify.com/album/3ssXQwFXNc3NBc8r2aMS9E) | 2:52 | 2022-08-11 |  |
 | [The Final Countdown](https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [The Final Countdown \(Expanded Edition\)](https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3) | 5:10 | 2023-06-09 |  |
 | [The Ketchup Song \(Aserejé\) \- Spanglish Version](https://open.spotify.com/track/6UEfyhyfhYQsyipxOd95Ie) | [Las Ketchup](https://open.spotify.com/artist/1e8GEl48ktvfDpruMKB6Oe) | [Hijas del Tomate](https://open.spotify.com/album/5Fs94v1xXPl8Q1mTMWMTLO) | 3:33 | 2023-06-09 |  |
+| [The Loco\-Motion](https://open.spotify.com/track/2hBR3npBmnfr1VWB3O64Jt) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie](https://open.spotify.com/album/7lZXsT33rkuXF3WBZc5rQv) | 3:13 | 2023-06-09 |  |
 | [The Loco\-Motion](https://open.spotify.com/track/2pX5qSgxQFwlrkjxph8fxb) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie](https://open.spotify.com/album/2xuoy4Qfrk9wlucZ8anDzE) | 3:13 | 2023-06-09 | 2023-11-18 |
 | [The Rhythm of the Night](https://open.spotify.com/track/5IPJsGFKtxKDPCkT8lhEjN) | [Corona](https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl) | [The Rhythm of the Night](https://open.spotify.com/album/5ooTXuDOxCNohug76VGayS) | 4:24 | 2023-06-09 |  |
 | [Tiburon](https://open.spotify.com/track/2GcjfckZexh9wRRjg9KtQG) | [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu) | [In Da House](https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe) | 5:03 | 2023-06-09 |  |

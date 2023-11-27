@@ -1,12 +1,12 @@
 {
   "description": "The latest, greatest soundtracks from the big and small screen.",
-  "num_followers": 274803,
+  "num_followers": 274869,
   "original_name": "Soundtracked",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjcyNmI2Njk1OWZkMTNmZTVhNDZmOGZjNWE1MWNlOTVjMjQzMzUz",
+  "snapshot_id": "MCxmOGZjYzk2NDBjODU4N2MzOTgyYmE5ZGY0MmI1YWExZTMwNWY4MDBk",
   "tracks": [
     {
       "added_at": "2023-11-24 04:00:00",
@@ -346,6 +346,10 @@
         {
           "name": "Martin Phipps",
           "url": "https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn"
+        },
+        {
+          "name": "Kieran Scragg",
+          "url": "https://open.spotify.com/artist/4cdCKZr7tI9gxaPvEpE1vK"
         }
       ],
       "duration_ms": 212040,

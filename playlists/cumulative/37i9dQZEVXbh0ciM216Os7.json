@@ -11244,7 +11244,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-27",
       "duration_ms": 353988,
       "name": "Move Back",
       "url": "https://open.spotify.com/track/5Kmp5d431tp4BBbqS6CfEi"
@@ -12952,6 +12952,28 @@
       "duration_ms": 149771,
       "name": "Pretty People (feat. INJI)",
       "url": "https://open.spotify.com/track/1EdmLWe4HDbrw5CM0bOnxS"
+    },
+    {
+      "album": {
+        "name": "Pretty Stoney",
+        "url": "https://open.spotify.com/album/4DpbeBjmxEJszqBJmK1GIw"
+      },
+      "artists": [
+        {
+          "name": "Sijel",
+          "url": "https://open.spotify.com/artist/2owDDwI3LSx8WXRGZ11Z1p"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171997,
+      "name": "Pretty Stoney",
+      "url": "https://open.spotify.com/track/1fqlgNEkHwRVYq2Cp3Aztz"
     },
     {
       "album": {
@@ -17752,7 +17774,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-26",
+      "date_removed": null,
       "duration_ms": 237534,
       "name": "Vultures",
       "url": "https://open.spotify.com/track/21vc2kQZMS00cAyNT82a1M"
@@ -17786,7 +17808,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-27",
       "duration_ms": 276986,
       "name": "Vultures",
       "url": "https://open.spotify.com/track/4fFHFp2cadSc397kr5wPbx"

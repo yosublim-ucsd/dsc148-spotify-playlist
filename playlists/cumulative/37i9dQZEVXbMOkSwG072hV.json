@@ -9069,6 +9069,28 @@
     },
     {
       "album": {
+        "name": "DAN\u00c7A PRA ME PROVOCAR",
+        "url": "https://open.spotify.com/album/4JtRus7fWmpFCHpkw4htzq"
+      },
+      "artists": [
+        {
+          "name": "DJ JO\u00c3O PEREIRA",
+          "url": "https://open.spotify.com/artist/1tPQcKxMrvf09Ry8zk68gt"
+        },
+        {
+          "name": "MC Koringa",
+          "url": "https://open.spotify.com/artist/1pk1stIyHnuK6lXZ8QiNKt"
+        }
+      ],
+      "date_added": "2023-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157216,
+      "name": "DAN\u00c7A PRA ME PROVOCAR",
+      "url": "https://open.spotify.com/track/2dhy51z7h0oyCvSCWXyRHb"
+    },
+    {
+      "album": {
         "name": "CHAMA MEU NOME",
         "url": "https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1"
       },
@@ -16978,7 +17000,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-27",
       "duration_ms": 73624,
       "name": "idyll",
       "url": "https://open.spotify.com/track/0GirVGtZ50YAHXdtcrVIgy"
@@ -18562,7 +18584,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-27",
       "duration_ms": 155454,
       "name": "La Muerte",
       "url": "https://open.spotify.com/track/69YqoxUzLcdsXBRpZcqlsn"
@@ -19728,6 +19750,36 @@
       "duration_ms": 157020,
       "name": "L\u00e1 Ele",
       "url": "https://open.spotify.com/track/08XvRS5EH8FfD6urhgaPD2"
+    },
+    {
+      "album": {
+        "name": "RICKNELSO",
+        "url": "https://open.spotify.com/album/2eKGskEpGoKMBahXHpM8ZR"
+      },
+      "artists": [
+        {
+          "name": "MC Rick",
+          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Mc Leozin",
+          "url": "https://open.spotify.com/artist/6mKwmTMzDrye9elc8JWiw3"
+        },
+        {
+          "name": "Dj Win",
+          "url": "https://open.spotify.com/artist/04NtfTeul9H9B41tPvF3MG"
+        }
+      ],
+      "date_added": "2023-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165230,
+      "name": "L\u00e1 no PPG",
+      "url": "https://open.spotify.com/track/6Oj0oJD4feRnzrAbcYqURl"
     },
     {
       "album": {
@@ -27458,7 +27510,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-27",
       "duration_ms": 294122,
       "name": "Passa L\u00e1 em Casa Jesus",
       "url": "https://open.spotify.com/track/7qKr6x5EXFDxI5Ei6Xfaqj"
@@ -38362,6 +38414,24 @@
       "duration_ms": 165473,
       "name": "Voc\u00ea Est\u00e1 Com Febre?",
       "url": "https://open.spotify.com/track/6hC66C3uYkWWqCXBmyLpLd"
+    },
+    {
+      "album": {
+        "name": "Voc\u00ea J\u00e1 Sabe Qual \u00e9 (Piseiro)",
+        "url": "https://open.spotify.com/album/0dcMK6RSMERFdM0ll8ldTA"
+      },
+      "artists": [
+        {
+          "name": "Aizalan",
+          "url": "https://open.spotify.com/artist/4Wx7dHYpC6ocma0mjto0Bf"
+        }
+      ],
+      "date_added": "2023-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129562,
+      "name": "Voc\u00ea J\u00e1 Sabe Qual \u00e9 - Piseiro",
+      "url": "https://open.spotify.com/track/0A1Q6GhFPqYftFc3m9X4nq"
     },
     {
       "album": {

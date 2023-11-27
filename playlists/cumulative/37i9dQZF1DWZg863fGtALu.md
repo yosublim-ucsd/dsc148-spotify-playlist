@@ -4,7 +4,7 @@
 
 > Summer memories from yesteryear!
 
-151 songs - 8 hr 53 min
+152 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,8 +120,9 @@
 | [Summer Of '69](https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 3:36 | 2021-05-16 |  |
 | [Summer Of '69](https://open.spotify.com/track/3CrGUbq2njEZXgYsntDxdr) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Guten Morgen](https://open.spotify.com/album/1DkJcNDbeL1fLzj9R2TMCS) | 3:37 | 2021-05-16 | 2022-11-13 |
 | [Summertime](https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Homebase](https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh) | 4:30 | 2021-05-16 |  |
-| [Sunchyme](https://open.spotify.com/track/5tQQCJaNdtafROf7M6hXax) | [Dario G](https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A) | [Dance Party](https://open.spotify.com/album/5uHL9eW2VsoCIdnxNJJkcK) | 3:55 | 2021-05-16 |  |
+| [Sunchyme](https://open.spotify.com/track/5tQQCJaNdtafROf7M6hXax) | [Dario G](https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A) | [Dance Party](https://open.spotify.com/album/5uHL9eW2VsoCIdnxNJJkcK) | 3:55 | 2021-05-16 | 2023-11-27 |
 | [Sunchyme](https://open.spotify.com/track/7okVXMtqISm1MlIn0wTRHR) | [Dario G](https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A) | [90s Party](https://open.spotify.com/album/4TnC3CrRmzlULobxl4M3SU) | 3:55 | 2021-05-16 | 2022-11-13 |
+| [Sunchyme \(Radio Edit\) \[Instrumental\] \- 2023 Remaster](https://open.spotify.com/track/1YnXX2CraK8O3G5V9KiWNY) | [Dario G](https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A) | [Sunmachine \(25th Anniversary Edition\)](https://open.spotify.com/album/0anIASKjSOCbsX901aIJPU) | 3:55 | 2021-05-16 |  |
 | [Sunchyme \- Radio Edit](https://open.spotify.com/track/4u55sKFBSfsyId54ttqiDD) | [Dario G](https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A) | [Sunchyme](https://open.spotify.com/album/7u2rcMeQfGbvLHcm0CTNy4) | 3:57 | 2021-05-16 | 2022-10-25 |
 | [Sunchyme \- Radio Edit; 2012 Remaster](https://open.spotify.com/track/5NxPTNAzmrzBl7DHFgrgar) | [Dario G](https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A), [Mark Tucker](https://open.spotify.com/artist/42ly1bhF8PPg2SbMYtlZhs) | [Return of the 90s](https://open.spotify.com/album/4lsQp3EEpwSUYNr6NHlKR5) | 3:57 | 2021-05-16 | 2022-07-29 |
 | [Sunshine \(feat\. Dan Harkna\) \- Radio Edit](https://open.spotify.com/track/3jbsz68DZXoqTlCz0n05xn) | [TIEKS](https://open.spotify.com/artist/5ubTLvtpORseymsgTVxk45), [Dan Harkna](https://open.spotify.com/artist/5xeGJm9dgg2x5luZLEYtMx) | [Sunshine \(feat\. Dan Harkna\) \[Radio Edit\]](https://open.spotify.com/album/7qAljACjJJN2jhgB4aA9sZ) | 3:00 | 2021-05-16 |  |

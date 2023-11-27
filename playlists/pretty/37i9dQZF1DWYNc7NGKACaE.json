@@ -1,12 +1,12 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 73622,
+  "num_followers": 73684,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWJmOWRiZWFkZmU3YzZjN2Q5ODAzN2Y4YjU1NjEyODY4MWY2NzRk",
+  "snapshot_id": "MCxjMzE1OWZhNWMwNjE2NzZmYWE5ZmNmZTQ1ZTM0MTc3MGEyYTVjZGYz",
   "tracks": [
     {
       "added_at": "2023-11-13 14:29:15",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2023-11-13 14:29:15",
       "album": {
-        "name": "Pe\u00e7a",
-        "url": "https://open.spotify.com/album/7E3g8qsgfOfCeLkipm0PSt"
-      },
-      "artists": [
-        {
-          "name": "soiff",
-          "url": "https://open.spotify.com/artist/1WDWki77tJepD82NpS4xIk"
-        },
-        {
-          "name": "uhENZX",
-          "url": "https://open.spotify.com/artist/52fAfxMuT0da9zgXHlixmz"
-        }
-      ],
-      "duration_ms": 135418,
-      "name": "Pe\u00e7a - Speed",
-      "url": "https://open.spotify.com/track/5IpBsqWPLu7PEeT2nwc8gV"
-    },
-    {
-      "added_at": "2023-11-13 14:29:15",
-      "album": {
         "name": "Gorilla Dream, Vol. I",
         "url": "https://open.spotify.com/album/2q9mARnuyo6TwdNmTwRkqk"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 134760,
       "name": "Contatos - Speed Plug",
       "url": "https://open.spotify.com/track/2uagJoFfpDCEnIwHftuduv"
+    },
+    {
+      "added_at": "2023-11-13 14:29:15",
+      "album": {
+        "name": "Pe\u00e7a",
+        "url": "https://open.spotify.com/album/7E3g8qsgfOfCeLkipm0PSt"
+      },
+      "artists": [
+        {
+          "name": "soiff",
+          "url": "https://open.spotify.com/artist/1WDWki77tJepD82NpS4xIk"
+        },
+        {
+          "name": "uhENZX",
+          "url": "https://open.spotify.com/artist/52fAfxMuT0da9zgXHlixmz"
+        }
+      ],
+      "duration_ms": 135418,
+      "name": "Pe\u00e7a - Speed",
+      "url": "https://open.spotify.com/track/5IpBsqWPLu7PEeT2nwc8gV"
     },
     {
       "added_at": "2023-11-13 14:29:15",

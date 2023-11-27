@@ -310,7 +310,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-27",
       "duration_ms": 265360,
       "name": "Agora Hills",
       "url": "https://open.spotify.com/track/5PyDJG7SQRgWXefgexqIge"
@@ -5354,7 +5354,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-26",
+      "date_removed": null,
       "duration_ms": 137773,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
@@ -5892,7 +5892,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-27",
       "duration_ms": 230480,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
@@ -12186,6 +12186,24 @@
       "duration_ms": 224032,
       "name": "\u7279\u502b\u65af\u5922\u904a\u4ed9\u5883",
       "url": "https://open.spotify.com/track/3PeCYcmMwmxshV64hPSHGS"
+    },
+    {
+      "album": {
+        "name": "\u7279\u5225\u7d04\u6703\u5100\u5f0f (ViuTV \u5287\u96c6 \"\u793e\u5167\u76f8\u89aa\" \u63d2\u66f2)",
+        "url": "https://open.spotify.com/album/5muVW86cxcEb9J2Bw5yBEF"
+      },
+      "artists": [
+        {
+          "name": "Anson Lo \u76e7\u701a\u9706",
+          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
+        }
+      ],
+      "date_added": "2023-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178920,
+      "name": "\u7279\u5225\u7d04\u6703\u5100\u5f0f (ViuTV \u5287\u96c6 \"\u793e\u5167\u76f8\u89aa\" \u63d2\u66f2)",
+      "url": "https://open.spotify.com/track/6T0wCHIh2rW5XC5IubguVS"
     },
     {
       "album": {

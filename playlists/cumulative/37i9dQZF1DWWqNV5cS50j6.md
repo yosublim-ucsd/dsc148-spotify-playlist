@@ -4,7 +4,7 @@
 
 > Not NOT pop\. Cover: beabadoobee, Mac Wetha, Aminé
 
-1,572 songs - 3 day 3 hr 50 min
+1,573 songs - 3 day 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1153,6 +1153,7 @@
 | [sad robots don't cry](https://open.spotify.com/track/6x2F4nkIWUUMk6srvRY18j) | [DESTROY BORING](https://open.spotify.com/artist/5BiDqBXwTV38xUhyYISGHQ), [Belis](https://open.spotify.com/artist/6j6e89Rb6ghGgLduAOpxkD) | [sad robots don't cry](https://open.spotify.com/album/4ljBWMt8up9mKlkEcsz2pc) | 2:27 | 2023-05-22 | 2023-05-31 |
 | [SAD!](https://open.spotify.com/track/21MPugjbKDYlbhskZ6LphE) | [nobody nobody](https://open.spotify.com/artist/2sBt2NOgf7NW9QJw7lOtA1), [plainfacedgirl](https://open.spotify.com/artist/56ndcMHyMOYHVclwDDHXcs) | [SAD!](https://open.spotify.com/album/6SoYF02YEA2JT2WUFqBTcz) | 2:37 | 2020-10-13\* | 2020-11-03 |
 | [sad4whattt \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/3oM8s8hnrh6xjKv1iycJaZ) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [sad4whattt \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/7y5qaNQg9AUbPAqRB4cinS) | 1:58 | 2022-08-16 | 2022-11-10 |
+| [Safe to Say](https://open.spotify.com/track/1iz1IBtJeP01oOFloArdzM) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV) | [Safe to Say](https://open.spotify.com/album/1UjxntS9qkIbKpb0rqvhFX) | 2:24 | 2023-11-10 |  |
 | [Said](https://open.spotify.com/track/2C3NqGue28mX7oBWKK4CdZ) | [070 Beheard](https://open.spotify.com/artist/2Xw4QVCesV84ikNiw6i8QV), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Said](https://open.spotify.com/album/3t1DhqdAvIXbgZFlIBH5vp) | 4:12 | 2021-03-14 | 2021-05-29 |
 | [Same \- Remix](https://open.spotify.com/track/0HEkc4mWSWjZ1TR6ihwrd5) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Same \(Remix\)](https://open.spotify.com/album/7pEHgShCnN13CEtp0rZOnX) | 2:24 | 2020-10-13\* | 2020-11-03 |
 | [Same Thing](https://open.spotify.com/track/1BpU6izP8aACEk8efy8KSp) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Same Thing](https://open.spotify.com/album/7k4bGDgPxmnxuvnMOAgzOa) | 3:13 | 2021-06-05 | 2022-03-01 |
@@ -1552,7 +1553,7 @@
 | [YEARS WASTED](https://open.spotify.com/track/4rX2ATH5XU1Bm8tKmnxhsG) | [míra](https://open.spotify.com/artist/0WB5rykKeHBde6sSIfg4jj) | [YEARS WASTED](https://open.spotify.com/album/2Vmq3WW4nYoa6mxE4LjVbX) | 2:24 | 2022-02-04 | 2022-03-11 |
 | [YELLOW SKIES](https://open.spotify.com/track/5FpAzK3jKjNIKSwdlClkol) | [Evenson](https://open.spotify.com/artist/7sWocbRfg9Tc5jNfxcSxEd) | [YELLOW SKIES](https://open.spotify.com/album/7kRd6rg9t85d9vKAKoFcEh) | 3:24 | 2022-03-29 | 2022-07-01 |
 | [You](https://open.spotify.com/track/5qcwzdhDQjHjmu12gOLjY0) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Pronounced McGee](https://open.spotify.com/album/25mNgv9kcDpET9UWcCxu16) | 5:10 | 2022-05-09 | 2022-11-10 |
-| [YOU COULDN'T LOVE IF YOU WANTED TO](https://open.spotify.com/track/2v5zmdCfuhl8kHe55yrtSC) | [Ryan Hall](https://open.spotify.com/artist/22bvUzi8MgkpSKBWGB2vTJ) | [POSTTEENANGST](https://open.spotify.com/album/10wsx8kwi44Ch78umaSChC) | 2:48 | 2023-11-07 |  |
+| [YOU COULDN'T LOVE IF YOU WANTED TO](https://open.spotify.com/track/2v5zmdCfuhl8kHe55yrtSC) | [Ryan Hall](https://open.spotify.com/artist/22bvUzi8MgkpSKBWGB2vTJ) | [POSTTEENANGST](https://open.spotify.com/album/10wsx8kwi44Ch78umaSChC) | 2:48 | 2023-11-07 | 2023-11-27 |
 | [YOU COULDN'T LOVE IF YOU WANTED TO](https://open.spotify.com/track/4KvtOkGgCkZoGAKQpef5nB) | [Ryan Hall](https://open.spotify.com/artist/22bvUzi8MgkpSKBWGB2vTJ) | [YOU COULDN'T LOVE IF YOU WANTED TO](https://open.spotify.com/album/490b8bmg7gqhokwXbssUCN) | 2:48 | 2023-04-21 | 2023-06-17 |
 | [You the One Fish in the Sea](https://open.spotify.com/track/2NKI38xfdu7OQV7CFXUNKv) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Couldn't Wait to Tell You...](https://open.spotify.com/album/3UvD4QNv5b0vW9G2ZHfjsu) | 2:32 | 2022-07-08 | 2022-10-14 |
 | [You the One Fish in the Sea](https://open.spotify.com/track/5TOnnVV8YxB4NnRvavrPHX) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Couldn't Wait to Tell You...](https://open.spotify.com/album/10nNQo6ebmVoyh6R39jRlf) | 2:32 | 2022-10-04 | 2022-11-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Kali Uchis & KAROL G, Sexyy Redd, Myke Towers, Björk & ROSALÍA, Tim McGraw, Zara Larsson and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,182,425 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,182,609 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [King](https://open.spotify.com/track/6OvMmEeumtCP6WgYqgA08T) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Antagonist](https://open.spotify.com/album/6u26YQ3XrrBmHUj3g0dzhJ) | 2:47 |
 | 100 | [Gz Up, Hoes Down](https://open.spotify.com/track/0cCLG47Bxcj7GpCXmkKP5r) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Doggystyle \(30th Anniversary Edition\)](https://open.spotify.com/album/2QioUoh1jheynkUHP4XsCN) | 2:21 |
 
-Snapshot ID: `MCxhMTIwNjMyZjZjNThmYTRkZDg3NzJjNmI1MTZlNTUzZmEwZDkwOGY5`
+Snapshot ID: `MCwwM2FmMjhkNTc4MDNjOTQ3NDBkN2NhMTIwNDYyMDA4MzEyZmRkOTk3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM?si=IPYu4Yd3QwubAmBFjSe6Iw">De Mthuda</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 614,652 likes - 60 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 615,291 likes - 60 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 59 | [uNonkosi \(feat\. Deeper Phil & Mfundo Da DJ\)](https://open.spotify.com/track/33PDDaCzc8AM8J5EKjO7v2) | [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Deeper Phil](https://open.spotify.com/artist/1kV0CNLLylygX6XfJjt75N), [Mfundo Da DJ](https://open.spotify.com/artist/5jUW0YjJ30a2x5vnh7oaRB) | [uNonkosi \(feat\. Deeper Phil & Mfundo Da DJ\)](https://open.spotify.com/album/2ltTuofYSzykMi4nLrM3gO) | 5:51 |
 | 60 | [Gojasi](https://open.spotify.com/track/0z2QglVOqge7D0Mo7Pqvow) | [Musical Jazz](https://open.spotify.com/artist/3khoe9PeLSPw1Q0db4TpWW), [Soul Revolver](https://open.spotify.com/artist/1Z4N6qo86BmXMr5SqkHP1r), [Kgocee](https://open.spotify.com/artist/4iy6CMH93Yek4eDd5KlxEy), [Tumelo\_za](https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD) | [Gojasi](https://open.spotify.com/album/1Ka5oUqNMuSUVbZmQmSUMf) | 7:09 |
 
-Snapshot ID: `MCwwY2E5YjBmMDU2OGNhOTQ4YzU3ODdkYTRkNjBjZDhlYjQzNDQ1NGMw`
+Snapshot ID: `MCxkMjdiN2JhMGNhYTU2OWUxNDY5MGMyMDc3ODY1ZmM1MmRmMDgwYTc1`

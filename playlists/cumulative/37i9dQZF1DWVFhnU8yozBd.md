@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:7wXTWO45lqpUejDkike0Gf">Sofia Kourtesis</a>'s favorite tracks\. Updated regularly\. Curated by Sofia Kourtesis\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-150 songs - 14 hr 2 min
+151 songs - 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Grind](https://open.spotify.com/track/13LVADAG1jdD42fe5wihFc) | [Les Sins](https://open.spotify.com/artist/4gSTRpmeyYppvIXuFKjfAL) | [Grind / Prelims](https://open.spotify.com/album/0hDAUxNVrjkDmfzuVCueMs) | 5:18 | 2023-01-09 |  |
 | [Hafi Deo](https://open.spotify.com/track/35MRd8ShKOIqbfklIgeaSb) | [Tabu Ley Rochereau](https://open.spotify.com/artist/7hYOOcRqfNzeE2CTpajd5a) | [Mangase / Hafi Deo](https://open.spotify.com/album/05NjfB8sXBGCxkU4Dmwumq) | 9:30 | 2023-01-09 |  |
 | [Hearts](https://open.spotify.com/track/1Vseb5yC0uN4jhpeWF2nhY) | [L.S.G.](https://open.spotify.com/artist/5bLpYSmewYdnv9djU3kwpA) | [Blueprint EP](https://open.spotify.com/album/4KtpSouY9I9zX5c0xx89pi) | 7:42 | 2023-08-11 |  |
-| [Heaven Is Where You Are \(Dave DK Remix\)](https://open.spotify.com/track/6pFcrZ44tF6NWT4YGG67br) | [Pantha Du Prince](https://open.spotify.com/artist/7Go2Fj2YWEQkYBqTVQArYi), [Dave DK](https://open.spotify.com/artist/0tkgaQKFblaI5WZaV8WPA1) | [Heaven Is Where You Are \(Dave DK Remix\)](https://open.spotify.com/album/7vamx5JEfaM67VsNIAd1EE) | 6:15 | 2023-08-11 |  |
+| [Heaven Is Where You Are \(Dave DK Remix\)](https://open.spotify.com/track/6pFcrZ44tF6NWT4YGG67br) | [Pantha Du Prince](https://open.spotify.com/artist/7Go2Fj2YWEQkYBqTVQArYi), [Dave DK](https://open.spotify.com/artist/0tkgaQKFblaI5WZaV8WPA1) | [Heaven Is Where You Are \(Dave DK Remix\)](https://open.spotify.com/album/7vamx5JEfaM67VsNIAd1EE) | 6:15 | 2023-08-11 | 2023-11-27 |
+| [Heaven Is Where You Are \(Dave DK Remix\)](https://open.spotify.com/track/0QEPupo0hvgEOOqb8e7R2H) | [Pantha Du Prince](https://open.spotify.com/artist/7Go2Fj2YWEQkYBqTVQArYi), [Dave DK](https://open.spotify.com/artist/0tkgaQKFblaI5WZaV8WPA1) | [Garden Gaia Remixes](https://open.spotify.com/album/7BfEieD8wRanTgqgRy3rGg) | 6:17 | 2023-08-11 |  |
 | [Heaven Is Where You Are \- Dave DK Remix](https://open.spotify.com/track/3FcpUNFDBMv27FYwkznStL) | [Pantha Du Prince](https://open.spotify.com/artist/7Go2Fj2YWEQkYBqTVQArYi), [Dave DK](https://open.spotify.com/artist/0tkgaQKFblaI5WZaV8WPA1) | [Heaven Is Where You Are \(Dave DK Remix\)](https://open.spotify.com/album/4liRJRCNN9ZCQd38QKgMvD) | 6:15 | 2023-08-11 | 2023-11-05 |
 | [Hessingen](https://open.spotify.com/track/2yCbHFZ2spf22BHacJKiED) | [Shakarchi & Stranéus](https://open.spotify.com/artist/6j7oCqripDrP3x226wAF5H) | [Steal Chickens From Men And the Future From God](https://open.spotify.com/album/51sbT6gvFD5BnGU8kGpBVw) | 6:27 | 2023-01-09 |  |
 | [Hold Me \- T4T Embrace Mix](https://open.spotify.com/track/1igRDinuruKXDDLHFqOYvL) | [Eris Drew](https://open.spotify.com/artist/4VKbZ8lm0Bm1AbtzAbBdpO) | [Devotion](https://open.spotify.com/album/2e7LQqvJdInqGHnjEIsAaJ) | 5:56 | 2023-01-09 |  |

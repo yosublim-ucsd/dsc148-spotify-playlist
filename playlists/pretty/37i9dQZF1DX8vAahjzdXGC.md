@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: James Arthur
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,473 likes - 95 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,529 likes - 95 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 50 | [Another Minute](https://open.spotify.com/track/4NrI7NKikhlOt9Hxa3sR0T) | [Kosling](https://open.spotify.com/artist/1dsilrkrvxXE6I02SWfDYD), [NONIK](https://open.spotify.com/artist/2Zw4OTbItVXfEj2HPi3I9D), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Another Minute](https://open.spotify.com/album/3hq9sZY8AAWaKeMDzFpEy0) | 3:13 |
 | 51 | [The Ambivert Song](https://open.spotify.com/track/7msEDj6SjvBhakZejLrfLe) | [Chris Andrian Yang](https://open.spotify.com/artist/74DSMvAfXpnN3c1KCfvFwQ) | [The Ambivert Song](https://open.spotify.com/album/6THr1Yg9JPhhQKURi6cc2R) | 2:58 |
 | 52 | [Djakarta](https://open.spotify.com/track/5v9QnR8OsHg9ubTuRwH8RT) | [Monkey Boots](https://open.spotify.com/artist/2em9Wx3OVERPedOAh3gUb7) | [Djakarta](https://open.spotify.com/album/3GxiTb8cS9xjvvOdBq7WMr) | 3:45 |
-| 53 | [SACRIFICE \(feat\. HRZN\)](https://open.spotify.com/track/1tfsNhd3HBGLbR5p3dkwQp) | [CVX](https://open.spotify.com/artist/3YDAdiXuKjmL0SsiCr1eyz), [HRZN](https://open.spotify.com/artist/1pybYbXuGaOQGvNIS5md7p) | [SACRIFICE \(feat\. HRZN\)](https://open.spotify.com/album/7lPnlIWq65DjPbkZxZCmUd) | 2:21 |
+| 53 | [SACRIFICE \(feat\. HRZN\)](https://open.spotify.com/track/1tfsNhd3HBGLbR5p3dkwQp) | [CVX](https://open.spotify.com/artist/3YDAdiXuKjmL0SsiCr1eyz), [HRZN](https://open.spotify.com/artist/5GgW9kZdiWNHkqlxAjvcP6) | [SACRIFICE \(feat\. HRZN\)](https://open.spotify.com/album/7lPnlIWq65DjPbkZxZCmUd) | 2:21 |
 | 54 | [How Much Do You Love Me](https://open.spotify.com/track/6LwpW2WMxPqICW1dBXsV7a) | [TERUNA](https://open.spotify.com/artist/0YTMep6ABS7gI4txhB1DFL) | [The Surrealist Party](https://open.spotify.com/album/5esuY8C9LUggVuV7XQ24Ky) | 3:46 |
 | 55 | [Passed Out](https://open.spotify.com/track/2tEUa3YuDBRXhUfK5Vn52P) | [cellosux](https://open.spotify.com/artist/2rkmXRyKp3HRmGOgP968Kj) | [Passed Out](https://open.spotify.com/album/1ajrFe76fzZazAs7MThd2X) | 1:53 |
 | 56 | [Senjana](https://open.spotify.com/track/7vlTWnjP2wqKtqxvDZgF3s) | [Tiket](https://open.spotify.com/artist/1vhz9FJUh57QhAiRsB6fAM) | [Senjana](https://open.spotify.com/album/2u5f4xVimslBinPhPWRQhK) | 3:28 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 94 | [higher love](https://open.spotify.com/track/1qeUqkv5ysr4aY5TRbYVv7) | [GARETH FERNANDEZ](https://open.spotify.com/artist/5OCCRySomkXZXoE1JQ5Hkb) | [higher love](https://open.spotify.com/album/3v8rZiLsW5UyLKyhHlhYCL) | 2:58 |
 | 95 | [Memory Lane](https://open.spotify.com/track/6Z9dmhwOZ3wlCfCrjkWMNk) | [CHUROSE](https://open.spotify.com/artist/4y9Jhm3jRfDCgGJ3kgyGDp) | [Memory Lane](https://open.spotify.com/album/0aLUKwVWBquLge7Ztf2LO4) | 3:18 |
 
-Snapshot ID: `MCw5NDkzOGVjZTI0NWNjYTU5ZTI1ZGZmODM4YTJjMTAzOGVhYjUyNTI3`
+Snapshot ID: `MCw4MWI4N2FiZDRjYjkzNmQyYzUwZDczODQ4YzViMmQxNzA1ODkyNTM0`

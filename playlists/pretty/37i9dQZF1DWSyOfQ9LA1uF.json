@@ -1,12 +1,12 @@
 {
   "description": "Bedroom bootlegs and electroclash gems. Cover: MGMT",
-  "num_followers": 68129,
+  "num_followers": 68178,
   "original_name": "Bloghouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjA1ZmJkNzA0MmY2MTMzYzNjYzQ1MWYxMDhjZDcxY2E5MjM2YjYz",
+  "snapshot_id": "MCw5MzA1ODc5NmM5MjA2N2MxODQ1MWM3MjI4MDQ0ZWFmNjIyOTFkNTVh",
   "tracks": [
     {
       "added_at": "2022-08-24 22:29:13",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
-        "name": "Nite Versions",
-        "url": "https://open.spotify.com/album/5d36tohU6hNW0AK5sdmbZI"
-      },
-      "artists": [
-        {
-          "name": "Soulwax",
-          "url": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
-        }
-      ],
-      "duration_ms": 323853,
-      "name": "Krack",
-      "url": "https://open.spotify.com/track/6QKfQbFqvUwzOHpwFwCaJ6"
-    },
-    {
-      "added_at": "2022-08-24 22:29:13",
-      "album": {
         "name": "Drugs in My Body",
         "url": "https://open.spotify.com/album/3htXmYLWbyAOzQvC9bNwFG"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 216600,
       "name": "Drugs in My Body",
       "url": "https://open.spotify.com/track/0AKK3dHXpRSt0dmhMEzaKm"
+    },
+    {
+      "added_at": "2022-08-24 22:29:13",
+      "album": {
+        "name": "Nite Versions",
+        "url": "https://open.spotify.com/album/5d36tohU6hNW0AK5sdmbZI"
+      },
+      "artists": [
+        {
+          "name": "Soulwax",
+          "url": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
+        }
+      ],
+      "duration_ms": 323853,
+      "name": "Krack",
+      "url": "https://open.spotify.com/track/6QKfQbFqvUwzOHpwFwCaJ6"
     },
     {
       "added_at": "2022-08-24 22:29:13",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
-        "name": "Al\u00e9sia",
-        "url": "https://open.spotify.com/album/3IMcoVivtk0v83rK4j72km"
-      },
-      "artists": [
-        {
-          "name": "Housse de Racket",
-          "url": "https://open.spotify.com/artist/3YklpiasaBYuNuVfKdJ9Mj"
-        }
-      ],
-      "duration_ms": 187013,
-      "name": "Roman",
-      "url": "https://open.spotify.com/track/1YVXSfWLzPtOaMyZhbDRN9"
-    },
-    {
-      "added_at": "2022-08-24 22:29:13",
-      "album": {
         "name": "Tonight (12' Inch)",
         "url": "https://open.spotify.com/album/1Nm5T8kyFqYTd2k49RHd1y"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 255293,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/6NF6fUchK9oEpxkT8AVDgz"
+    },
+    {
+      "added_at": "2022-08-24 22:29:13",
+      "album": {
+        "name": "Al\u00e9sia",
+        "url": "https://open.spotify.com/album/3IMcoVivtk0v83rK4j72km"
+      },
+      "artists": [
+        {
+          "name": "Housse de Racket",
+          "url": "https://open.spotify.com/artist/3YklpiasaBYuNuVfKdJ9Mj"
+        }
+      ],
+      "duration_ms": 187013,
+      "name": "Roman",
+      "url": "https://open.spotify.com/track/1YVXSfWLzPtOaMyZhbDRN9"
     },
     {
       "added_at": "2022-08-24 22:29:13",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
-        "name": "Do I Look Like a Slut?",
-        "url": "https://open.spotify.com/album/3POpYIOM1cRRCJbOAHyXbz"
+        "name": "A Bit Patchy (Remixes)",
+        "url": "https://open.spotify.com/album/0K671SykDDeXHZ2qOUb3rm"
       },
       "artists": [
         {
-          "name": "Avenue D",
-          "url": "https://open.spotify.com/artist/07vquvD3jE2VQShcu6V4fL"
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/602MOqXiySUsSi7y6jFpvI"
         }
       ],
-      "duration_ms": 295306,
-      "name": "Do I Look Like a Slut - Original Mix",
-      "url": "https://open.spotify.com/track/3HO7khnC1Ixt0gLNqdYUtt"
+      "duration_ms": 153400,
+      "name": "A Bit Patchy",
+      "url": "https://open.spotify.com/track/1wPKUjLrsxEjFvXIo0npn9"
     }
   ],
   "unique_name": "Bloghouse",

@@ -1,12 +1,12 @@
 {
   "description": "Music from \u201cBanG Dream! \u201c series! \u6b21\u4e16\u4ee3\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u300eBanG Dream!\uff08\u30d0\u30f3\u30c9\u30ea\uff01\uff09\u300f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002",
-  "num_followers": 63485,
+  "num_followers": 63524,
   "original_name": "BanG Dream! \u30d0\u30f3\u30c9\u30ea\uff01\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3\uff01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMmIxYmIwMzQ0YzcyNzUzZWVkZjE2NDkyZTM0M2EwMTYyYjMxZTQ2",
+  "snapshot_id": "MCxhMmMwMjE1ZWEyYmMzODNhOWMyZWZkNTdjN2E4ZDQyOWQyN2FiYzY4",
   "tracks": [
     {
       "added_at": "2023-11-21 17:07:33",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-11-21 17:07:33",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u3000\u82b1\u5712\u305f\u3048\u300c\u82b1\u5712\u96fb\u6c17\u30ae\u30bf\u30fc\uff01\uff01\uff01\u300d",
-        "url": "https://open.spotify.com/album/5P4j5hJFmb6nF18tisqj5g"
-      },
-      "artists": [
-        {
-          "name": "\u82b1\u5712\u305f\u3048(CV.\u5927\u585a\u7d17\u82f1)",
-          "url": "https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q"
-        }
-      ],
-      "duration_ms": 199055,
-      "name": "\u82b1\u5712\u96fb\u6c17\u30ae\u30bf\u30fc\uff01\uff01\uff01",
-      "url": "https://open.spotify.com/track/0GRDxtvxmz51U425YzSQnn"
-    },
-    {
-      "added_at": "2023-11-21 17:07:33",
-      "album": {
         "name": "See you! \u301c\u305d\u308c\u305e\u308c\u306e\u660e\u65e5\u3078\u301c",
         "url": "https://open.spotify.com/album/28jD62i4cZTV3y9hh6aj0l"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 311233,
       "name": "See you! \u301c\u305d\u308c\u305e\u308c\u306e\u660e\u65e5\u3078\u301c",
       "url": "https://open.spotify.com/track/5TZyQjaLF7C6mCHn7auFhr"
+    },
+    {
+      "added_at": "2023-11-21 17:07:33",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u3000\u82b1\u5712\u305f\u3048\u300c\u82b1\u5712\u96fb\u6c17\u30ae\u30bf\u30fc\uff01\uff01\uff01\u300d",
+        "url": "https://open.spotify.com/album/5P4j5hJFmb6nF18tisqj5g"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u5712\u305f\u3048(CV.\u5927\u585a\u7d17\u82f1)",
+          "url": "https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q"
+        }
+      ],
+      "duration_ms": 199055,
+      "name": "\u82b1\u5712\u96fb\u6c17\u30ae\u30bf\u30fc\uff01\uff01\uff01",
+      "url": "https://open.spotify.com/track/0GRDxtvxmz51U425YzSQnn"
     },
     {
       "added_at": "2023-11-21 17:07:33",

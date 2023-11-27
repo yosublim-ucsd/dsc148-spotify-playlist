@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > What's new in rock this week\. Cover: EKKSTACY
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,076 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,089 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 28 | [Clean](https://open.spotify.com/track/28OHFYWmXQf4rjVXAVDkmM) | [Gulfer](https://open.spotify.com/artist/0AJltdSFgxM1li4ad74mIJ) | [Clean](https://open.spotify.com/album/0RXJVNNoCXQ3YgL16NsRcL) | 2:55 |
 | 29 | [On Again, Off Again](https://open.spotify.com/track/6UGznmMgsa1VzmHQLVgxO3) | [Krooked Kings](https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE) | [On Again, Off Again](https://open.spotify.com/album/6tA2a3k1uMIsqWZZeUsKYe) | 3:46 |
 | 30 | [SEX ON THE BEACH](https://open.spotify.com/track/1a66ctSliEPB63zvjrI9f0) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [SEX ON THE BEACH](https://open.spotify.com/album/2fhKQXM5B3No5aWHB3vuPi) | 3:10 |
-| 31 | [Juan](https://open.spotify.com/track/70xYU2CAKsIuWmh4ZuXpP9) | [Ghost Woman](https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy) | [Juan](https://open.spotify.com/album/1PM4REcmfjIKvZpbJuMgth) | 6:38 |
+| 31 | [Juan](https://open.spotify.com/track/76bIIGkdgueve4mz3Sox52) | [Ghost Woman](https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy) | [Hindsight is 50/50](https://open.spotify.com/album/1YRDxoprPeRTWFwDO9aZhI) | 6:38 |
 | 32 | [Vendredi](https://open.spotify.com/track/4hdSkfUs1LUisa1owTWqe4) | [Rouge Pompier](https://open.spotify.com/artist/6juqd2DiJxLYeldyOvjzql) | [Vendredi](https://open.spotify.com/album/0SMlVogwTii9DqvIetc129) | 3:34 |
 | 33 | [Dazed & Confused](https://open.spotify.com/track/6zyNv3dTBNbOTYnnrAyBmT) | [Broadside](https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo) | [Hotel Bleu](https://open.spotify.com/album/3blidU7QbdagNPs3Wqw9cI) | 2:48 |
 | 34 | [What the Sun Saw](https://open.spotify.com/track/0FLmUpO1w2sypa14wwPf7v) | [Fucked Up](https://open.spotify.com/artist/05C3EDw4Rf0qMhrdjFKncL) | [Show Friends](https://open.spotify.com/album/4Giirh6zaV7k8g7INupvwH) | 4:11 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 55 | [Stray](https://open.spotify.com/track/3Cn7sqZOpHHgRAlC7ZHpxl) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Cold War Kids](https://open.spotify.com/album/5pBiNV0jWUlQtd40ir524c) | 3:01 |
 | 56 | [Stay At Home Boy](https://open.spotify.com/track/2BVNealfFV7WBmQksBRn9q) | [FLEECE](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [Stay At Home Boy](https://open.spotify.com/album/1LfuuCWYSKc907y3DyuaS6) | 3:40 |
 | 57 | [Running Out](https://open.spotify.com/track/2gez87ndmSccOQ6XQvqZMF) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [Running Out](https://open.spotify.com/album/4iH66iUnoB2pNmqVWg8pVj) | 3:32 |
-| 58 | [Bail Out](https://open.spotify.com/track/3sYrD6bikHs1Y3kvAoZQE9) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS) | [Bail Out](https://open.spotify.com/album/39ovsOammVEPwwE16yT8TP) | 4:08 |
+| 58 | [Bail Out](https://open.spotify.com/track/0t1So0fjjCi2JVSdYSbijS) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS) | [Pages](https://open.spotify.com/album/4alJEpLwJu3ptq8h9rVs6Y) | 4:08 |
 | 59 | [South](https://open.spotify.com/track/6EC1Hkr4hqHXIylbwnNEu1) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [South](https://open.spotify.com/album/1CfNY3GnYDN6P2yoLFOdGd) | 3:31 |
 | 60 | [Zig](https://open.spotify.com/track/58SM6Pb7Bi9WY7SO83bjQx) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Zig](https://open.spotify.com/album/3J353DwtMfUV3V6t9vRPCk) | 2:28 |
 | 61 | [PSYCHO KILLER \(featuring Victoria De Angelis\)](https://open.spotify.com/track/0wtV4bNxm87xBX7hdcRkRl) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [PSYCHO KILLER \(featuring Victoria De Angelis\)](https://open.spotify.com/album/3Thd54fS872SfhVe35JckI) | 4:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [Astral Plans](https://open.spotify.com/track/6RAxNp0JErI8nVJh4ojrsk) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Astral Plans](https://open.spotify.com/album/3ZMX2IUr5KO4BaIFWX3yCS) | 3:59 |
 | 100 | [Hope is a Dangerous Little Thing](https://open.spotify.com/track/089lW2lTDsHUDsNlzim7Qc) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Some Of It Was True](https://open.spotify.com/album/1haMGMoO3UjtVB1l3BHMFZ) | 3:12 |
 
-Snapshot ID: `MCxhNTVmODY1OTFiMDc3MjBlOTM1NDQwZTY3YjYyY2I2YWU3YWIyMzUw`
+Snapshot ID: `MCw5MjcxZWJmMTk1YTkyYjUzN2UzOTc2ZmI1OGQ4ZjdmZDIyYzhiZGZh`

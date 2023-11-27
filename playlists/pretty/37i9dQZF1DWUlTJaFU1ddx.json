@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Jordan.",
-  "num_followers": 23807,
+  "num_followers": 23814,
   "original_name": "Jordan Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzVjZmJkMTNlN2E1Yzg1MzJmYzEyNzliMmRlNzYxZGIwMzNkOTJl",
+  "snapshot_id": "MCwyNDliYmNkMDcxNDE4NmJmNDRkNmE5OGMyYTJmNTk0Yzk5ZTJhMDM3",
   "tracks": [
     {
       "added_at": "2023-10-02 12:15:54",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-10-02 12:15:54",
       "album": {
+        "name": "Laysa",
+        "url": "https://open.spotify.com/album/59al6unEUgOFKSknNugus9"
+      },
+      "artists": [
+        {
+          "name": "Luay Hijazeen",
+          "url": "https://open.spotify.com/artist/2a1uAKszGY1wTHnbT0Y9Y8"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "Laysa",
+      "url": "https://open.spotify.com/track/2miXa7bxd39RSSn1VvPs7o"
+    },
+    {
+      "added_at": "2023-10-02 12:15:54",
+      "album": {
         "name": "Tmaneet Ashofak",
         "url": "https://open.spotify.com/album/0FIEcX7gSEX1h8PqsQbWhu"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 298823,
       "name": "Tmaneet Ashofak",
       "url": "https://open.spotify.com/track/5dueytCp1DWHJizVwQ34va"
-    },
-    {
-      "added_at": "2023-10-02 12:15:54",
-      "album": {
-        "name": "Laysa",
-        "url": "https://open.spotify.com/album/59al6unEUgOFKSknNugus9"
-      },
-      "artists": [
-        {
-          "name": "Luay Hijazeen",
-          "url": "https://open.spotify.com/artist/2a1uAKszGY1wTHnbT0Y9Y8"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "Laysa",
-      "url": "https://open.spotify.com/track/2miXa7bxd39RSSn1VvPs7o"
     },
     {
       "added_at": "2023-10-02 12:15:54",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-10-02 12:15:54",
       "album": {
+        "name": "OK 3adi",
+        "url": "https://open.spotify.com/album/4KVKvjqBmoPlYMUsiW7O8v"
+      },
+      "artists": [
+        {
+          "name": "Jaafar",
+          "url": "https://open.spotify.com/artist/4Svx0xgoS8UA2ldqxmxG4L"
+        }
+      ],
+      "duration_ms": 166764,
+      "name": "OK 3adi",
+      "url": "https://open.spotify.com/track/7uvT6cxtmmpLYED0uOaypM"
+    },
+    {
+      "added_at": "2023-10-02 12:15:54",
+      "album": {
         "name": "Ya Saad",
         "url": "https://open.spotify.com/album/3lMNn9CmmoS7oWUGUbgZ5Q"
       },
@@ -811,22 +827,6 @@
     {
       "added_at": "2023-10-02 12:15:54",
       "album": {
-        "name": "Mabsoot Bhali",
-        "url": "https://open.spotify.com/album/3nm3ELWFVPTN7Iq6D7GWYj"
-      },
-      "artists": [
-        {
-          "name": "Luay Hijazeen",
-          "url": "https://open.spotify.com/artist/2a1uAKszGY1wTHnbT0Y9Y8"
-        }
-      ],
-      "duration_ms": 199200,
-      "name": "Mabsoot Bhali",
-      "url": "https://open.spotify.com/track/6B1Fq1RpAW1dBTaCZ9WxQ2"
-    },
-    {
-      "added_at": "2023-10-02 12:15:54",
-      "album": {
         "name": "\u0627\u0646\u062a\u064a \u0627\u0644\u0642\u062f\u0631",
         "url": "https://open.spotify.com/album/3jm2Mw7iAV31QfoRverhwL"
       },
@@ -843,34 +843,18 @@
     {
       "added_at": "2023-10-02 12:15:54",
       "album": {
-        "name": "Nomad",
-        "url": "https://open.spotify.com/album/0y5vb7o8uCKsA858HIG2dM"
+        "name": "Mabsoot Bhali",
+        "url": "https://open.spotify.com/album/3nm3ELWFVPTN7Iq6D7GWYj"
       },
       "artists": [
         {
-          "name": "Farah Siraj",
-          "url": "https://open.spotify.com/artist/0blZk3JXQG2roCiO6KCJWY"
+          "name": "Luay Hijazeen",
+          "url": "https://open.spotify.com/artist/2a1uAKszGY1wTHnbT0Y9Y8"
         }
       ],
-      "duration_ms": 208560,
-      "name": "Pedazos de mi vida",
-      "url": "https://open.spotify.com/track/5LXmGPStiy83Tnsq96G9V6"
-    },
-    {
-      "added_at": "2023-10-02 12:15:54",
-      "album": {
-        "name": "OK 3adi",
-        "url": "https://open.spotify.com/album/4KVKvjqBmoPlYMUsiW7O8v"
-      },
-      "artists": [
-        {
-          "name": "Jaafar",
-          "url": "https://open.spotify.com/artist/4Svx0xgoS8UA2ldqxmxG4L"
-        }
-      ],
-      "duration_ms": 166764,
-      "name": "OK 3adi",
-      "url": "https://open.spotify.com/track/7uvT6cxtmmpLYED0uOaypM"
+      "duration_ms": 199200,
+      "name": "Mabsoot Bhali",
+      "url": "https://open.spotify.com/track/6B1Fq1RpAW1dBTaCZ9WxQ2"
     },
     {
       "added_at": "2023-10-02 12:15:54",
@@ -919,6 +903,22 @@
       "duration_ms": 243298,
       "name": "Howeh El Hob",
       "url": "https://open.spotify.com/track/7o0v7fQ8SJKQjjA1kzSabX"
+    },
+    {
+      "added_at": "2023-10-02 12:15:54",
+      "album": {
+        "name": "Nomad",
+        "url": "https://open.spotify.com/album/0y5vb7o8uCKsA858HIG2dM"
+      },
+      "artists": [
+        {
+          "name": "Farah Siraj",
+          "url": "https://open.spotify.com/artist/0blZk3JXQG2roCiO6KCJWY"
+        }
+      ],
+      "duration_ms": 208560,
+      "name": "Pedazos de mi vida",
+      "url": "https://open.spotify.com/track/5LXmGPStiy83Tnsq96G9V6"
     },
     {
       "added_at": "2023-10-02 12:15:54",

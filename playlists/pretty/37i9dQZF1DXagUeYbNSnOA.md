@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Alan Troy\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,843 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,842 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,12 +30,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 20 | [No es lo que toca](https://open.spotify.com/track/67gsCMp4LRQAq9Bd3KYm2x) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [No es lo que toca](https://open.spotify.com/album/1swSU1LUZjh5tj9Qe9u7s5) | 2:32 |
 | 21 | [Cumbia Espectro \- DUSU Remix](https://open.spotify.com/track/1NRhtJ7VQy55WJC9R6J2sb) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN), [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv), [DUSU](https://open.spotify.com/artist/2C6vqUrtXufvoUk5iwJ2KX) | [Cumbia Espectro \(DUSU Remix\)](https://open.spotify.com/album/3VRV4d2vD0hgiMIhlA9GGw) | 5:06 |
 | 22 | [Jardín](https://open.spotify.com/track/394fdiSv97RDJy2lIxTL9v) | [Teo Bok](https://open.spotify.com/artist/54HTLyYHg8qHdZTPLtAo7r) | [Jardín](https://open.spotify.com/album/4zLn1jP6DyndmlMalVm8Rk) | 2:24 |
-| 23 | [Contestador](https://open.spotify.com/track/5Vm8mIKlvaNwdO3hu4AIir) | [Malbo](https://open.spotify.com/artist/0D3sglhi3aAhEHHF5E20fm), [AhoraDimeLu](https://open.spotify.com/artist/3s2IhfIEXwFDoWfUfyr5mq) | [Contestador](https://open.spotify.com/album/0BACSXG1wUu05i7Jo6FK4B) | 3:09 |
-| 24 | [¿Así Que Te Gusta Hacerte El Lou Reed?](https://open.spotify.com/track/3tv2PAwZArvekOqHojdsFo) | [Winona Riders](https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp) | [El Sonido Del Éxtasis](https://open.spotify.com/album/1W8z2q9AdSAC9nzLOITY0N) | 4:05 |
-| 25 | [Dama](https://open.spotify.com/track/0Tmi4OKz5CTFnWNjeR2j1G) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Dama](https://open.spotify.com/album/5YsBGBAtUA1GsQqaVXyyru) | 3:46 |
+| 23 | [¿Así Que Te Gusta Hacerte El Lou Reed?](https://open.spotify.com/track/3tv2PAwZArvekOqHojdsFo) | [Winona Riders](https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp) | [El Sonido Del Éxtasis](https://open.spotify.com/album/1W8z2q9AdSAC9nzLOITY0N) | 4:05 |
+| 24 | [Contestador](https://open.spotify.com/track/5Vm8mIKlvaNwdO3hu4AIir) | [Malbo](https://open.spotify.com/artist/0D3sglhi3aAhEHHF5E20fm), [AhoraDimeLu](https://open.spotify.com/artist/3s2IhfIEXwFDoWfUfyr5mq) | [Contestador](https://open.spotify.com/album/0BACSXG1wUu05i7Jo6FK4B) | 3:09 |
+| 25 | [ntendp](https://open.spotify.com/track/2PedtXa3HI4oGbfgJSi7W5) | [Iván Ivengo](https://open.spotify.com/artist/4oiI7JbuL1TKEO6skc1B5x), [Luis Mint](https://open.spotify.com/artist/1kGLVoWLKArhbWhADndMKu) | [ntendp](https://open.spotify.com/album/5IESmcewxuYZh3A4OMtXIv) | 2:28 |
 | 26 | [no es culpa mía](https://open.spotify.com/track/3carpytTJk59ujDuX0gs8I) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [no es culpa mía](https://open.spotify.com/album/5ZbHwgfry7ONiynI2424Uq) | 3:05 |
 | 27 | [Tattoo](https://open.spotify.com/track/3JOaWtqZIoilfjtcDe1Qzb) | [Sessi](https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX) | [Tattoo](https://open.spotify.com/album/0N8VLr0WiDxkexS9wLr6f0) | 2:18 |
-| 28 | [ntendp](https://open.spotify.com/track/2PedtXa3HI4oGbfgJSi7W5) | [Iván Ivengo](https://open.spotify.com/artist/4oiI7JbuL1TKEO6skc1B5x), [Luis Mint](https://open.spotify.com/artist/1kGLVoWLKArhbWhADndMKu) | [ntendp](https://open.spotify.com/album/5IESmcewxuYZh3A4OMtXIv) | 2:28 |
+| 28 | [Dama](https://open.spotify.com/track/0Tmi4OKz5CTFnWNjeR2j1G) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Dama](https://open.spotify.com/album/5YsBGBAtUA1GsQqaVXyyru) | 3:46 |
 | 29 | [Siempre Tendré Mi Voz](https://open.spotify.com/track/54wJFzt61TudRFI8y49xWu) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Siempre Tendré Mi Voz](https://open.spotify.com/album/2c8dGA6npi8KtLB8fJqFr4) | 2:45 |
 | 30 | [Riley](https://open.spotify.com/track/3tQpd0YrAwWK8YGP3aRj8D) | [I AM](https://open.spotify.com/artist/67g2E0HwTkrMj3nPvw46mR) | [Riley \(S\)](https://open.spotify.com/album/3qiAqPoSj9fpCiDLwgENe0) | 2:58 |
 | 31 | [Diamante y Lágrima](https://open.spotify.com/track/76SatmEoGFfKiA6qVuBg7s) | [Baby City Club](https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h) | [Diamante y Lágrima](https://open.spotify.com/album/5LUxPQ5YEkWH0rKz20FQLY) | 3:20 |

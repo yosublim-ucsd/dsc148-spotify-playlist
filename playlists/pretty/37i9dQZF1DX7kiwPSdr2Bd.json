@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as principais vozes de adoradoras do gospel brasileiro. Foto:  Bruna Olly, Julia Vit\u00f3ria",
-  "num_followers": 309523,
+  "num_followers": 309626,
   "original_name": "Mulheres do Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Nzg2ODc1ZjEwMDg1YmQwYzkzODlmMzYzMmI2M2YwMmEwMjMwMTcz",
+  "snapshot_id": "MCxiNGZlN2E2YjkwMzk1YjcwOGNlNTc1YzkwMjg3NTRjNDEzMzI1NzMz",
   "tracks": [
     {
       "added_at": "2023-11-24 07:20:02",
@@ -1031,22 +1031,18 @@
     {
       "added_at": "2023-11-24 07:20:02",
       "album": {
-        "name": "Oh Qu\u00e3o Lindo Esse Nome \u00c9 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1Qc5BQBQYbmBNUDX8tWNgt"
+        "name": "Orai Por Todas As Crian\u00e7as",
+        "url": "https://open.spotify.com/album/6lQNpiPsw8SbRGdU3odT2F"
       },
       "artists": [
         {
-          "name": "Sarah Oliveira",
-          "url": "https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq"
-        },
-        {
-          "name": "BRAVE",
-          "url": "https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h"
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 459720,
-      "name": "Oh Qu\u00e3o Lindo Esse Nome \u00c9 - Ao Vivo",
-      "url": "https://open.spotify.com/track/3FvKZvKIvjicD6K9CUpawq"
+      "duration_ms": 293440,
+      "name": "Orai Por Todas As Crian\u00e7as",
+      "url": "https://open.spotify.com/track/1rnfBA2xLScmsTYruJWLEI"
     },
     {
       "added_at": "2023-11-24 07:20:02",
@@ -1067,6 +1063,26 @@
     {
       "added_at": "2023-11-24 07:20:02",
       "album": {
+        "name": "Oh Qu\u00e3o Lindo Esse Nome \u00c9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1Qc5BQBQYbmBNUDX8tWNgt"
+      },
+      "artists": [
+        {
+          "name": "Sarah Oliveira",
+          "url": "https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq"
+        },
+        {
+          "name": "BRAVE",
+          "url": "https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h"
+        }
+      ],
+      "duration_ms": 459720,
+      "name": "Oh Qu\u00e3o Lindo Esse Nome \u00c9 - Ao Vivo",
+      "url": "https://open.spotify.com/track/3FvKZvKIvjicD6K9CUpawq"
+    },
+    {
+      "added_at": "2023-11-24 07:20:02",
+      "album": {
         "name": "Vem, Esp\u00edrito de Deus (Ao Vivo)",
         "url": "https://open.spotify.com/album/5xEoXWBbk44CK84qGvK7kV"
       },
@@ -1083,18 +1099,18 @@
     {
       "added_at": "2023-11-24 07:20:02",
       "album": {
-        "name": "Orai Por Todas As Crian\u00e7as",
-        "url": "https://open.spotify.com/album/6lQNpiPsw8SbRGdU3odT2F"
+        "name": "Tudo em Mim",
+        "url": "https://open.spotify.com/album/2Xzp0ZlJZXb3n7OWVFTvrj"
       },
       "artists": [
         {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+          "name": "Luma Elpidio",
+          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
         }
       ],
-      "duration_ms": 293440,
-      "name": "Orai Por Todas As Crian\u00e7as",
-      "url": "https://open.spotify.com/track/1rnfBA2xLScmsTYruJWLEI"
+      "duration_ms": 245333,
+      "name": "Tudo em Mim",
+      "url": "https://open.spotify.com/track/3OKmHJqGnGVCfA4BFoQXKw"
     },
     {
       "added_at": "2023-11-24 07:20:02",
@@ -1131,22 +1147,6 @@
       "duration_ms": 296988,
       "name": "Acalma",
       "url": "https://open.spotify.com/track/2DdQXkkf5y4kuNAhPTMO09"
-    },
-    {
-      "added_at": "2023-11-24 07:20:02",
-      "album": {
-        "name": "Tudo em Mim",
-        "url": "https://open.spotify.com/album/2Xzp0ZlJZXb3n7OWVFTvrj"
-      },
-      "artists": [
-        {
-          "name": "Luma Elpidio",
-          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
-        }
-      ],
-      "duration_ms": 245333,
-      "name": "Tudo em Mim",
-      "url": "https://open.spotify.com/track/3OKmHJqGnGVCfA4BFoQXKw"
     },
     {
       "added_at": "2023-11-24 07:20:02",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2023-11-24 07:20:02",
       "album": {
+        "name": "Can\u00e7\u00e3o da Noiva",
+        "url": "https://open.spotify.com/album/7w2oUyY7siX0c6iXUFcgWO"
+      },
+      "artists": [
+        {
+          "name": "Heloisa Rosa",
+          "url": "https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM"
+        }
+      ],
+      "duration_ms": 369317,
+      "name": "Can\u00e7\u00e3o da Noiva",
+      "url": "https://open.spotify.com/track/1F9oFJS5GAlHq1rthdZmVR"
+    },
+    {
+      "added_at": "2023-11-24 07:20:02",
+      "album": {
         "name": "Santo Pra Sempre (Ao Vivo)",
         "url": "https://open.spotify.com/album/3JqjzQ21A4XJrwMNc0bG1d"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 249426,
       "name": "A Nuvem (Ao Vivo)",
       "url": "https://open.spotify.com/track/1OLbdsQGY4jU8WiGvqXFWs"
-    },
-    {
-      "added_at": "2023-11-24 07:20:02",
-      "album": {
-        "name": "Can\u00e7\u00e3o da Noiva",
-        "url": "https://open.spotify.com/album/7w2oUyY7siX0c6iXUFcgWO"
-      },
-      "artists": [
-        {
-          "name": "Heloisa Rosa",
-          "url": "https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM"
-        }
-      ],
-      "duration_ms": 369317,
-      "name": "Can\u00e7\u00e3o da Noiva",
-      "url": "https://open.spotify.com/track/1F9oFJS5GAlHq1rthdZmVR"
     },
     {
       "added_at": "2023-11-24 07:20:02",

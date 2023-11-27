@@ -1,12 +1,12 @@
 {
   "description": "A celebration of Norway's dance scene!",
-  "num_followers": 132228,
+  "num_followers": 132246,
   "original_name": "Space Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTQ1MDI4NDM1Y2NkMWUxMTAyMmExODJhZjA3YzEyMTVmMmU4MzI5",
+  "snapshot_id": "MCwyNWIzZDliYjJjNzZhODlkYTgxMzE4NTY0MTZlMDBlNzk2OGFkZGFk",
   "tracks": [
     {
       "added_at": "2023-08-02 08:46:27",
@@ -519,18 +519,18 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
-        "name": "Tr\u00f8bbel",
-        "url": "https://open.spotify.com/album/1Es585IxIHauFNjCaRoRyU"
+        "name": "Staying In",
+        "url": "https://open.spotify.com/album/0SSgR5G630l1HxQkCMoWhP"
       },
       "artists": [
         {
-          "name": "Bj\u00f8rn Torske",
-          "url": "https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68"
+          "name": "Diskjokke",
+          "url": "https://open.spotify.com/artist/77jljjDLgcihmTS2WW7Uxo"
         }
       ],
-      "duration_ms": 282085,
-      "name": "Hard Trafikk",
-      "url": "https://open.spotify.com/track/5jJuwmQ8Jdfx08F9hAx5tg"
+      "duration_ms": 234213,
+      "name": "Staying In",
+      "url": "https://open.spotify.com/track/6gQIMENC4azncXDUOzD1YE"
     },
     {
       "added_at": "2023-08-02 08:46:27",
@@ -555,18 +555,18 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
-        "name": "Staying In",
-        "url": "https://open.spotify.com/album/0SSgR5G630l1HxQkCMoWhP"
+        "name": "Tr\u00f8bbel",
+        "url": "https://open.spotify.com/album/1Es585IxIHauFNjCaRoRyU"
       },
       "artists": [
         {
-          "name": "Diskjokke",
-          "url": "https://open.spotify.com/artist/77jljjDLgcihmTS2WW7Uxo"
+          "name": "Bj\u00f8rn Torske",
+          "url": "https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68"
         }
       ],
-      "duration_ms": 234213,
-      "name": "Staying In",
-      "url": "https://open.spotify.com/track/6gQIMENC4azncXDUOzD1YE"
+      "duration_ms": 282085,
+      "name": "Hard Trafikk",
+      "url": "https://open.spotify.com/track/5jJuwmQ8Jdfx08F9hAx5tg"
     },
     {
       "added_at": "2023-08-02 08:46:27",

@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ft. Y U QT",
-  "num_followers": 200185,
+  "num_followers": 200207,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmM2M4MzBhMzgyM2VmMTliZmEwODc3NDQ2ZDFiMGQ5NjkzZDE4YWRm",
+  "snapshot_id": "MCwxYzM0YmVjNTRkOTBlMTliNjFkZjE1MzhkOTAzYThlOTYyNzZiZDk5",
   "tracks": [
     {
       "added_at": "2023-10-28 15:51:49",
@@ -951,6 +951,22 @@
     {
       "added_at": "2023-10-28 15:51:49",
       "album": {
+        "name": "Chances",
+        "url": "https://open.spotify.com/album/5I2lhIqmWeAtsQD1kXtyC7"
+      },
+      "artists": [
+        {
+          "name": "Wittyboy",
+          "url": "https://open.spotify.com/artist/3SgLMH12f6V9dfSW2QPgAw"
+        }
+      ],
+      "duration_ms": 310909,
+      "name": "Chances",
+      "url": "https://open.spotify.com/track/59PTNOT9TYu7MFJ6pSrCNZ"
+    },
+    {
+      "added_at": "2023-10-28 15:51:49",
+      "album": {
         "name": "nice and close",
         "url": "https://open.spotify.com/album/0mfvIVWcbPPlusJhjIvaq1"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 196500,
       "name": "nice and close",
       "url": "https://open.spotify.com/track/1gXbEybfs68aNJsd9gX3Uc"
-    },
-    {
-      "added_at": "2023-10-28 15:51:49",
-      "album": {
-        "name": "Chances",
-        "url": "https://open.spotify.com/album/5I2lhIqmWeAtsQD1kXtyC7"
-      },
-      "artists": [
-        {
-          "name": "Wittyboy",
-          "url": "https://open.spotify.com/artist/3SgLMH12f6V9dfSW2QPgAw"
-        }
-      ],
-      "duration_ms": 310909,
-      "name": "Chances",
-      "url": "https://open.spotify.com/track/59PTNOT9TYu7MFJ6pSrCNZ"
     },
     {
       "added_at": "2023-10-28 15:51:49",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2023-10-28 15:51:49",
       "album": {
-        "name": "All My Love",
-        "url": "https://open.spotify.com/album/1aNYbx5BHK36hFD5bbXW98"
-      },
-      "artists": [
-        {
-          "name": "TS7",
-          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
-        },
-        {
-          "name": "Reigns",
-          "url": "https://open.spotify.com/artist/4tKUuPctyFQus63BKH4JtG"
-        }
-      ],
-      "duration_ms": 169385,
-      "name": "All My Love",
-      "url": "https://open.spotify.com/track/1v0pYeyqnuqVXfwvT4VodR"
-    },
-    {
-      "added_at": "2023-10-28 15:51:49",
-      "album": {
         "name": "Faith In Chaos",
         "url": "https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 221024,
       "name": "Lose My Mind",
       "url": "https://open.spotify.com/track/6KBLXJFOWh0vbBEfejbMW8"
+    },
+    {
+      "added_at": "2023-10-28 15:51:49",
+      "album": {
+        "name": "All My Love",
+        "url": "https://open.spotify.com/album/1aNYbx5BHK36hFD5bbXW98"
+      },
+      "artists": [
+        {
+          "name": "TS7",
+          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
+        },
+        {
+          "name": "Reigns",
+          "url": "https://open.spotify.com/artist/4tKUuPctyFQus63BKH4JtG"
+        }
+      ],
+      "duration_ms": 169385,
+      "name": "All My Love",
+      "url": "https://open.spotify.com/track/1v0pYeyqnuqVXfwvT4VodR"
     },
     {
       "added_at": "2023-10-28 15:51:49",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2023-10-28 15:51:49",
       "album": {
-        "name": "Troubled Waters (Zed Bias Remixes)",
-        "url": "https://open.spotify.com/album/2PY8eTuCUDIISFcZa6IIWA"
-      },
-      "artists": [
-        {
-          "name": "The Streets",
-          "url": "https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi"
-        },
-        {
-          "name": "Zed Bias",
-          "url": "https://open.spotify.com/artist/1XZzbCZRuj6eOdRxQcmiD7"
-        }
-      ],
-      "duration_ms": 231111,
-      "name": "Troubled Waters - Zed Bias UKG Mix; Radio Edit",
-      "url": "https://open.spotify.com/track/2q3vMfgqIXm08cmVTSyN5P"
-    },
-    {
-      "added_at": "2023-10-28 15:51:49",
-      "album": {
         "name": "Never",
         "url": "https://open.spotify.com/album/1xmjSW9vcDWID0kWHWcZGn"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 206500,
       "name": "Never",
       "url": "https://open.spotify.com/track/4HfPqI7QIU5YzjjxxSMmRo"
+    },
+    {
+      "added_at": "2023-10-28 15:51:49",
+      "album": {
+        "name": "Troubled Waters (Zed Bias Remixes)",
+        "url": "https://open.spotify.com/album/2PY8eTuCUDIISFcZa6IIWA"
+      },
+      "artists": [
+        {
+          "name": "The Streets",
+          "url": "https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi"
+        },
+        {
+          "name": "Zed Bias",
+          "url": "https://open.spotify.com/artist/1XZzbCZRuj6eOdRxQcmiD7"
+        }
+      ],
+      "duration_ms": 231111,
+      "name": "Troubled Waters - Zed Bias UKG Mix; Radio Edit",
+      "url": "https://open.spotify.com/track/2q3vMfgqIXm08cmVTSyN5P"
     },
     {
       "added_at": "2023-10-28 15:51:49",
@@ -1343,22 +1343,18 @@
     {
       "added_at": "2023-10-28 15:51:49",
       "album": {
-        "name": "Signal / Have You Over (feat. Ruth Royall)",
-        "url": "https://open.spotify.com/album/2wROMSuKGzDy8R8AuVHcuE"
+        "name": "Hold Me Close",
+        "url": "https://open.spotify.com/album/6kdTGKNxuMUgQ50WhIdVpg"
       },
       "artists": [
         {
-          "name": "Axel Boy",
-          "url": "https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ"
-        },
-        {
-          "name": "Ruth Royall",
-          "url": "https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu"
+          "name": "Jacko",
+          "url": "https://open.spotify.com/artist/4HBwYjwyfn1X6KO6PqY9ia"
         }
       ],
-      "duration_ms": 253181,
-      "name": "Signal (feat. Ruth Royall)",
-      "url": "https://open.spotify.com/track/0DH8DLh53K6WKk5eShesMx"
+      "duration_ms": 232888,
+      "name": "Hold Me Close",
+      "url": "https://open.spotify.com/track/5UM597AY45L1gpRsLdslRu"
     }
   ],
   "unique_name": "Bassline Bangers",

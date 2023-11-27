@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Sapta Sagaradaache Ello \- Side B
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,862 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,878 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 74 | [Cult Mama \(From "Skanda"\)](https://open.spotify.com/track/5YypG8lpyd7D2jGkFG8DTU) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Arun Kaundinya](https://open.spotify.com/artist/1ZKWEgONUTL99f0niqmUA4), [Parnika Manya](https://open.spotify.com/artist/2xuVTI9imgpzqOabZP4gPO), [Varadaraj Chikballapura](https://open.spotify.com/artist/5mIoP70HRX5S0iYGCUlmQW) | [Cult Mama \(From "Skanda"\)](https://open.spotify.com/album/3PGMup46G05fgFOjoexm8h) | 4:07 |
 | 75 | [Ayyo Daivave](https://open.spotify.com/track/10eUhrUAW7Egfoqe5HSPZO) | [Sunil Kashyap](https://open.spotify.com/artist/4ZTli8xiH8txCfWJtulNXQ), [R B Bharath](https://open.spotify.com/artist/43lwYNl4rr3EB3agrwPtGI) | [Supplier Shankara \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3JdKlbZvnf0055T3TP1Ns4) | 4:10 |
 
-Snapshot ID: `MCwxNWQzNGVmZTAzNTYzNjRkNTA0ZDEwNzM1Y2E5MGRhMWI5Y2NlNTBk`
+Snapshot ID: `MCw0ZGRkYWY4MmQ5MWNhMTg1ZjhlZjU2NThlNGQzZmM1MTQ2YzBiYmM1`

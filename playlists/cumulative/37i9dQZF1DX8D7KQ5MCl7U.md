@@ -4,7 +4,7 @@
 
 > All Coke Studio Pakistan tracks in one place.
 
-376 songs - 1 day 17 hr 22 min
+377 songs - 1 day 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,6 +314,7 @@
 | [Sadaa \(Coke Studio Season 9\)](https://open.spotify.com/track/0oUnOn5CpCXi08LPK4UpkW) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Sadaa \(Coke Studio Season 9\)](https://open.spotify.com/album/6fOcQ6APpoYvwKwrZ08Tob) | 7:02 | 2022-03-23 |  |
 | [Saiyaan](https://open.spotify.com/track/5UbT96KL7MEQLoVK3oC4fM) | [Shuja Haider](https://open.spotify.com/artist/5efKihafekkUH7UjW5XUPt), [Rachel Viccaji](https://open.spotify.com/artist/1ooiq9rwRxxLUcWoIXqDui) | [Saiyaan](https://open.spotify.com/album/7B0xgVbDNAaPDC010FJm92) | 5:31 | 2022-03-23 |  |
 | [Sajan Das Na](https://open.spotify.com/track/4TNzipbkHuhp5DtHcZ9osE) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV) | [Sajan Das Na](https://open.spotify.com/album/3yTNiZtxLJMpOKc5dZJf9w) | 3:56 | 2022-03-23 |  |
+| [Sakal Ban](https://open.spotify.com/track/7lIj8hmniizy1UGUAHimXV) | [Rizwan](https://open.spotify.com/artist/51CkNYOrEaNCFHaW5XHeQ5), [Muazzam](https://open.spotify.com/artist/2HRUxGGvyo4L9mJwMSQpd3) | [Coke Studio: Season 8](https://open.spotify.com/album/3peJK6wepWMSteaniFjkbz) | 6:46 | 2022-10-12 |  |
 | [Sakal Ban](https://open.spotify.com/track/4Fd7FkdzHIJv781MXnv0lY) | [Rizwan](https://open.spotify.com/artist/51CkNYOrEaNCFHaW5XHeQ5), [Muazzam Ali Khan](https://open.spotify.com/artist/2gpOH1RVAPuNbw2OdLGdOf) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 6:46 | 2022-03-23 | 2023-06-19 |
 | [Sammi Meri Waar](https://open.spotify.com/track/0GycA124nouz4BfyjvGX1m) | [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q), [Umair Jaswal](https://open.spotify.com/artist/4eGTCbD3UlgIF479AuXp5u) | [Coke Studio: Season 8](https://open.spotify.com/album/3peJK6wepWMSteaniFjkbz) | 6:32 | 2022-10-12 |  |
 | [Sammi Meri Waar](https://open.spotify.com/track/2d31GzVrdWILC8ilW2ftxS) | [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q), [Umair Jaswal](https://open.spotify.com/artist/4eGTCbD3UlgIF479AuXp5u) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 6:32 | 2022-03-23 | 2023-10-08 |
@@ -371,7 +372,7 @@
 | [Waasta e Pyar Da](https://open.spotify.com/track/5VaMM45TCyGSQieoPru3ZZ) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 2](https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu) | 7:01 | 2022-03-23 | 2022-07-23 |
 | [Wah Jo Kalaam](https://open.spotify.com/track/7B4rv8RrlWr5qTIQ5UCrQk) | [Asrar](https://open.spotify.com/artist/2pLpp8LjPF5qJAj8T3zzPn), [Vishnu](https://open.spotify.com/artist/3C6fEluNfcYDBAy6nBQpdS), [Shamu Bai](https://open.spotify.com/artist/6ImUiMuTiMjlhRKfMCXe8Q) | [Coke Studio Season 11 \(Sound of The Nation\)](https://open.spotify.com/album/0NKhQH2b1GwucaMqnzfZri) | 5:20 | 2022-03-23 | 2023-05-10 |
 | [Wah Wah Jhulara](https://open.spotify.com/track/5CazE1e4JYNIVtRe4O2Kgu) | [Chakwal Group](https://open.spotify.com/artist/7dEKxEToxvuy0HTTsihWs2), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions : Season 5](https://open.spotify.com/album/2Nvdh0qGvH4nufpFi0DmeK) | 5:03 | 2022-03-23 | 2022-07-24 |
-| [Washmallay](https://open.spotify.com/track/7MnG9O1elO5CgovlcPFDha) | [Komal Rizvi](https://open.spotify.com/artist/4JEiuyNSHo0KbVS6sTFpL2), [Akhtar Chanal Zahri](https://open.spotify.com/artist/3ksxqQoPGgPNJOgUgJbYGm), [Momin Durrani](https://open.spotify.com/artist/0kEMc7jg4WgXyI0WleNP2i) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 6:14 | 2022-03-23 |  |
+| [Washmallay](https://open.spotify.com/track/7MnG9O1elO5CgovlcPFDha) | [Komal Rizvi](https://open.spotify.com/artist/4JEiuyNSHo0KbVS6sTFpL2), [Akhtar Chanal Zahri](https://open.spotify.com/artist/3ksxqQoPGgPNJOgUgJbYGm), [Momin Durrani](https://open.spotify.com/artist/0kEMc7jg4WgXyI0WleNP2i) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 6:14 | 2022-03-23 | 2023-11-27 |
 | [Wohi Khuda](https://open.spotify.com/track/0c8eAkUFDMCgJB53lplqJv) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Wohi Khuda](https://open.spotify.com/album/4obnIXVOOxpSRY8mgzsDjp) | 6:49 | 2022-03-23 |  |
 | [Wohi Khuda Hai](https://open.spotify.com/track/6sZSpd85xJAaQ4OBuWXej2) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Wohi Khuda Hai](https://open.spotify.com/album/2NNcQIyPIyIWrZ8EwiYUOR) | 6:56 | 2022-03-23 | 2022-07-29 |
 | [Ya Qurban](https://open.spotify.com/track/6a90yS7H9LBnR7qFRXDvwB) | [Khumariyaan](https://open.spotify.com/artist/1fHYh13Os6tJSOL7hQ0dba) | [Coke Studio Season 11 \(Sound of The Nation\)](https://open.spotify.com/album/0NKhQH2b1GwucaMqnzfZri) | 4:54 | 2022-03-23 |  |

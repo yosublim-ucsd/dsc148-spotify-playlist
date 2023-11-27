@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: Petit
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,091 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,112 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 31 | [La Notte Vola \- RMX \(feat\. Lorella Cuccarini\)](https://open.spotify.com/track/6wzhvovM1fT42S71JLZpNv) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf), [Lorella Cuccarini](https://open.spotify.com/artist/6vwWMr71jvuVrDQu92Li7U) | [La Notte Vola \- RMX \(feat\. Lorella Cuccarini\)](https://open.spotify.com/album/3yaTIPOD3iR079s8cfB0wA) | 2:22 |
 | 32 | [Un po' di te](https://open.spotify.com/track/7l20UfYfWQDfElcp1rvkjd) | [Alex Wyse](https://open.spotify.com/artist/4ZRTfGCmMJ305FMDCiD1cZ) | [Un po' di te](https://open.spotify.com/album/1ayaxYovLmlTBMLMZjSA9M) | 2:07 |
 | 33 | [Domani ci passa](https://open.spotify.com/track/3elLXGwE5zaREuOzWdlRJ2) | [Ludwig](https://open.spotify.com/artist/5RXnKYBIxi8zcFNCz03T71) | [Domani ci passa](https://open.spotify.com/album/1CxqsMftYqwpHFyV0llE5q) | 2:25 |
-| 34 | [BELLA](https://open.spotify.com/track/3vdJE5XWVax2kVs6OTJzWM) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Dystopic](https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj) | [BELLA](https://open.spotify.com/album/66RYsaXoAIodtHYI7iKFZP) | 3:01 |
+| 34 | [Bella](https://open.spotify.com/track/3vdJE5XWVax2kVs6OTJzWM) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Dystopic](https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj) | [Bella](https://open.spotify.com/album/66RYsaXoAIodtHYI7iKFZP) | 3:01 |
 | 35 | [Anni 70](https://open.spotify.com/track/4gExrhPC8TKtMqbO6MrjAP) | [wax](https://open.spotify.com/artist/0UYKwcrTJkzFpp5ozPPlMS) | [Anni 70](https://open.spotify.com/album/3CH6Le8XzQhnzWMQBELzmE) | 2:27 |
 | 36 | [Tutto con te](https://open.spotify.com/track/7CPbIZIGKE8tPLUuLMVujK) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Tutto con te](https://open.spotify.com/album/1kcuGFGOcoGsWi2GUTdwFJ) | 2:38 |
 | 37 | [sofia </3](https://open.spotify.com/track/5GiNMKuih6zryMHANHrS4U) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [sofia </3](https://open.spotify.com/album/1o4hP3VBIoS2OwvIIrw2xz) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 49 | [La parte più bella di me \- RMX](https://open.spotify.com/track/3fqElKBSWrAvObrMqx5oP8) | [Anto Paga](https://open.spotify.com/artist/2EdLV4ftq7Ks8dR7roTHrq), [I Desideri](https://open.spotify.com/artist/4t7NH9MvLDY2RMiNLE50d8) | [La parte più bella di me \(RMX\)](https://open.spotify.com/album/2Knm3BBycBMixIas269Ik2) | 2:15 |
 | 50 | [Chi Sono Veramente](https://open.spotify.com/track/5Xxz4XYpz2aViGUfW50Y4O) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [CHI SONO VERAMENTE EP](https://open.spotify.com/album/5fEPgkaJVP12LRMZ5T6fhI) | 2:50 |
 
-Snapshot ID: `MCw5OTQwMDNjMzRmMDQ5MThiMGM3NTJlMzNhMmZkYWE1ZTQ4YzYzNjkz`
+Snapshot ID: `MCxhOGRmOTZmM2Q5YjRiMjc3ZWM1ZWNmZGU0NzIxYjQyMTU0MjFmOWMy`

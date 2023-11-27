@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXamBAn43YNB9.md) - [plain]
 
 > Craving that crisp country air? These low\-key Country songs will take you there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,232 likes - 85 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,325 likes - 85 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXamBAn43YNB9.md) - [plain]
 | 40 | [Penthouse](https://open.spotify.com/track/5rCt377EMkCJ0D0sldd5t8) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 3:03 |
 | 41 | [Dying Man](https://open.spotify.com/track/4kvjThnfQIsPOKjxx0aZDu) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 3:03 |
 | 42 | [Stories](https://open.spotify.com/track/6FuZXM8OWuH5or9x8DOLXx) | [Fanny Lumsden](https://open.spotify.com/artist/4WxHef1Si5yaAaCWUc6Ug2) | [Hey Dawn](https://open.spotify.com/album/4OZpg10qc1BvbIq6xvVF9w) | 3:09 |
-| 43 | [Find a River](https://open.spotify.com/track/1rA9rH9nBHIwjuF5MnWbaW) | [The Mitchell Twins](https://open.spotify.com/artist/6hxv3JmXDPj5gdUFh7V89D) | [Find a River](https://open.spotify.com/album/52kQ6HLEUNVqwlyhYWFwG5) | 4:15 |
+| 43 | [Find a River](https://open.spotify.com/track/7Fkz9JnwuKFOXTJ0VnG56c) | [The Mitchell Twins](https://open.spotify.com/artist/6hxv3JmXDPj5gdUFh7V89D) | [Find a River](https://open.spotify.com/album/6kuV3PucilLTjGKmQBjFJ6) | 4:15 |
 | 44 | [Shake the Frost \(Live\)](https://open.spotify.com/track/19MkwMrRjO7773zpuGss1o) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Live on Red Barn Radio I & II](https://open.spotify.com/album/7lf0m3iNU59X4r8udCQcB6) | 2:55 |
 | 45 | [Love Go By](https://open.spotify.com/track/2kIVaHR9iEO8Ai2m4fFiB6) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Come Get Your Wife](https://open.spotify.com/album/5vpynwbpUceBDNOkh9TMR5) | 3:42 |
 | 46 | [A Gift](https://open.spotify.com/track/6c12PXXRn68whIxd3AWf2y) | [Duncan Toombs](https://open.spotify.com/artist/5Jv0F98tukWFHhdP7ZNJq9) | [A Gift](https://open.spotify.com/album/29I8O9FVwQmJOodNrw4gNU) | 3:26 |

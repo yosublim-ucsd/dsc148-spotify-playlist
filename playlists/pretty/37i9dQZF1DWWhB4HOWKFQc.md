@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: King Promise
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,157,237 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,158,391 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 | 74 | [Tak Segampang Itu](https://open.spotify.com/track/26cvTWJq2E1QqN4jyH2OTU) | [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Tak Segampang Itu](https://open.spotify.com/album/6gO5mDyNTqiIqHItRil4OG) | 3:51 |
 | 75 | [Cerita Tiba Tiba](https://open.spotify.com/track/6iNfcXYuTkHWarYUaKGnZX) | [Rizwan Fadilah](https://open.spotify.com/artist/6usptTdSkyzOX8rWIE4Y12) | [Cerita Tiba Tiba](https://open.spotify.com/album/32knHChZrwD05dXjg3Ul1u) | 3:45 |
 
-Snapshot ID: `MCw3MWMyZjBlNjhkMmQ5ZWVlZDFhMmU2NGM5NDVlYzU2ZThiNWViNGEz`
+Snapshot ID: `MCwwZTUwYzE1OTBlYTNjYjEwOWMxN2EwZDY2MDRlNDdhMzZlODc2OGU1`

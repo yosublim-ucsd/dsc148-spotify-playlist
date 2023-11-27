@@ -1,33 +1,13 @@
 {
   "description": "The best Hip-Hop and R&amp;B hits of the 2000\u2019s. Includes Eminem, Dr. Dre, Jay-Z, Lil Wayne, Snoop, Mary J Blige, and more!",
-  "num_followers": 50460,
+  "num_followers": 50496,
   "original_name": "2000s Hip-Hop/R&B",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "NDkwLGUzNmJkYzJkMmVmMDdiMWJmZGYxYzQ3OTYwZjhkMGRjOWY5MmVkYjg=",
+  "snapshot_id": "NDkzLDhlMjRkZWEyNTg4ODc1YTE4NDQ4MWNhNmZjNjdlZDJkYmYzMWNmOWI=",
   "tracks": [
-    {
-      "added_at": "2023-10-17 16:44:05",
-      "album": {
-        "name": "Vol. 3... Life And Times Of S. Carter",
-        "url": "https://open.spotify.com/album/3rWJsuu7ukoZZhp7YYkjNZ"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "UGK",
-          "url": "https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw"
-        }
-      ],
-      "duration_ms": 283066,
-      "name": "Big Pimpin'",
-      "url": "https://open.spotify.com/track/7m97yKVzPpXV9Z4ezEziOD"
-    },
     {
       "added_at": "2023-10-17 16:44:05",
       "album": {
@@ -1293,7 +1273,27 @@
       "url": "https://open.spotify.com/track/4PmMVdIFpJTB9WQbmILf4p"
     },
     {
-      "added_at": "2023-11-19 07:43:04",
+      "added_at": "2023-10-17 16:44:05",
+      "album": {
+        "name": "Vol. 3... Life And Times Of S. Carter",
+        "url": "https://open.spotify.com/album/3rWJsuu7ukoZZhp7YYkjNZ"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "UGK",
+          "url": "https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw"
+        }
+      ],
+      "duration_ms": 283066,
+      "name": "Big Pimpin'",
+      "url": "https://open.spotify.com/track/7m97yKVzPpXV9Z4ezEziOD"
+    },
+    {
+      "added_at": "2023-11-26 08:37:08",
       "album": {
         "name": "Pain Is Love",
         "url": "https://open.spotify.com/album/2wMavIKnu6feFNOeQ1hVwf"

@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-253 songs - 21 hr 6 min
+254 songs - 21 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [All We Can't See](https://open.spotify.com/track/5CO4UIfBWDillkIS3a1oTb) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [All We Can't See / An Image](https://open.spotify.com/album/7yAAi4irn34TeF2i7xUZk6) | 1:56 | 2022-01-21 | 2022-07-26 |
 | [All We Can't See](https://open.spotify.com/track/7MQxjq3mF74zRFUVx3C4K5) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [All We Can't See / An Image](https://open.spotify.com/album/6LU399jo756EUFEHFQDhJF) | 1:56 | 2022-07-22 | 2023-10-06 |
 | [And A Twist](https://open.spotify.com/track/1OA0e38XJKFh8rcGhmHRLg) | [Lawrence English](https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI) | [Observation of Breath](https://open.spotify.com/album/2XGBwfEC7ovLUTttUVUpmZ) | 2:42 | 2022-01-21 |  |
+| [and moonlit shadows](https://open.spotify.com/track/6MlTTPe72TiBYWmJgl23Vw) | [Antarctic Wastelands](https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1), [Be Still the Earth](https://open.spotify.com/artist/7FedGrros77uFxBy4PT8k6), [Norvik](https://open.spotify.com/artist/1NjriDX47WYVvGjeVMQ8R6) | [and moonlit shadows](https://open.spotify.com/album/6fpxGFnmnCQc5BbyfJGcxr) | 2:58 | 2023-11-24 |  |
 | [Ardent](https://open.spotify.com/track/28XnWGHQ1c3fhxZGBbJVKb) | [Giuliano Poles](https://open.spotify.com/artist/3BvVMUz8byTqm9nFMezZk4) | [Ardent](https://open.spotify.com/album/3NuQL86Pn1mTYcej6XwOCI) | 2:12 | 2023-01-27 | 2023-03-10 |
 | [Arena](https://open.spotify.com/track/6BydEdGxofGj0FmP6BVG1E) | [Julian Gomez](https://open.spotify.com/artist/5aPdwHVVmfNKqm4CcTZIIq) | [62000 \| 62508](https://open.spotify.com/album/4MxHMfindjyks5Qq4t8tR1) | 4:24 | 2022-01-28 | 2022-07-29 |
 | [ascending](https://open.spotify.com/track/7fNXK4v2n9IlxrN90o7R9o) | [Oscuro](https://open.spotify.com/artist/2FYj4Dc7l6f8JyLB2I3eLl), [Riversilvers](https://open.spotify.com/artist/7EUXYUkFuXIC7KdhLnZbfa) | [ascending](https://open.spotify.com/album/1C2CwoRoJkLC2pVvvDLtBR) | 2:51 | 2023-10-23 |  |
@@ -249,7 +250,7 @@
 | [Vanished](https://open.spotify.com/track/2L5heX1aiNXS90ddDcEmx1) | [Sounds M](https://open.spotify.com/artist/2NaVCoohbahnm2WjNXW8Gn) | [Vanished](https://open.spotify.com/album/5Bx2FSekEMhJX6J6jrNOis) | 3:15 | 2022-02-25 | 2022-12-30 |
 | [Vi är överallt](https://open.spotify.com/track/1IMyiFwhS3ZIinvYEp2ivG) | [Orphan Ann](https://open.spotify.com/artist/633FjCdzULVbn0CjE820vK) | [The Practice Of Surrender](https://open.spotify.com/album/5UprmCqRU9acn6C6oITQhL) | 5:00 | 2022-01-21 |  |
 | [Vilja](https://open.spotify.com/track/32CngTyROmI3rQzQly467Z) | [Mats Erlandsson](https://open.spotify.com/artist/5HAu4Np5pmLMUoI194nAEs) | [Minnesmärke](https://open.spotify.com/album/2xqi6xom8eHt1GyEbidRm1) | 19:08 | 2022-01-21 | 2022-07-29 |
-| [Vow](https://open.spotify.com/track/59KxNMmQnuIMMoHsCu7vPX) | [TDSOM](https://open.spotify.com/artist/3DPfgW4qhyNleslbUz2Efn) | [Vow](https://open.spotify.com/album/3o9XrLC64TF8IjbyuSbmNy) | 3:56 | 2022-03-25 |  |
+| [Vow](https://open.spotify.com/track/59KxNMmQnuIMMoHsCu7vPX) | [TDSOM](https://open.spotify.com/artist/3DPfgW4qhyNleslbUz2Efn) | [Vow](https://open.spotify.com/album/3o9XrLC64TF8IjbyuSbmNy) | 3:56 | 2022-03-25 | 2023-11-27 |
 | [Wasa Stone Trio](https://open.spotify.com/track/3CJv88R1gtnn1xrC2NOW5G) | [CTM](https://open.spotify.com/artist/7yaj7l8QczhEsLttuFDaRz), [August Rosenbaum](https://open.spotify.com/artist/60jACvCiMkGWezYS8VZXQ4) | [Celeste](https://open.spotify.com/album/5KVMzzZ01MJxw5Sd9qvdCY) | 2:15 | 2022-01-21 | 2023-11-14 |
 | [Waves \- Oliver Doerell & Helga Raimondi Rework](https://open.spotify.com/track/5oXGS29Qa8Pv7ITfKLm9X4) | [Vetle Nærø](https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf) | [Waves \(Oliver Doerell & Helga Raimondi Rework\)](https://open.spotify.com/album/5t2W6cCG2GjfC1gRVZv1eB) | 5:14 | 2022-01-28 | 2023-11-25 |
 | [Where Lonely Embers Glow](https://open.spotify.com/track/2wnL9GReYcMbMA29ILdhdS) | [Dead Melodies](https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu) | [Memento](https://open.spotify.com/album/1ZbO6GlyoIo9nXdHe7dPZH) | 6:51 | 2022-04-01 |  |

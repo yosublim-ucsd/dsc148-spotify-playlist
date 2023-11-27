@@ -1,12 +1,12 @@
 {
   "description": "Heavy beats for midnight drifting in Tokyo.",
-  "num_followers": 15564,
+  "num_followers": 15596,
   "original_name": "Tokyo Drift: \u30c8\u30fc\u30ad\u30e7\u30fc\u30fb\u30c9\u30ea\u30d5\u30c8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZmVjYWJlZTQxNDJlZDI0ZDM3YjhiYzlhNzRkNzFhYjI1NDE3ODdh",
+  "snapshot_id": "MCwyNWU2OWI5ZTY4NmE2ZjQwODMxZGEzNzdkZGZiOWQ3ODAxMDIxYzA5",
   "tracks": [
     {
       "added_at": "2023-08-21 09:09:06",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-08-21 09:09:06",
       "album": {
-        "name": "ARIGATO",
-        "url": "https://open.spotify.com/album/4WQkEorxDBgURiS5LlZXV2"
-      },
-      "artists": [
-        {
-          "name": "Kazuo",
-          "url": "https://open.spotify.com/artist/6JN1a5p0aucHtYCLSl3vnY"
-        }
-      ],
-      "duration_ms": 156800,
-      "name": "ARIGATO",
-      "url": "https://open.spotify.com/track/6vCmFt6aTwiJxEqZ2GRohr"
-    },
-    {
-      "added_at": "2023-08-21 09:09:06",
-      "album": {
         "name": "ill world",
         "url": "https://open.spotify.com/album/5gWy5fhgCQNcHhi9RScEaU"
       },
@@ -1011,18 +995,42 @@
     {
       "added_at": "2023-08-21 09:09:06",
       "album": {
-        "name": "Living Legend",
-        "url": "https://open.spotify.com/album/246GofoTf0DkxzTwfQDkDF"
+        "name": "ARIGATO",
+        "url": "https://open.spotify.com/album/4WQkEorxDBgURiS5LlZXV2"
       },
       "artists": [
         {
-          "name": "KOHH",
-          "url": "https://open.spotify.com/artist/3MUcTGmdb4on8WHhIhPkzK"
+          "name": "Kazuo",
+          "url": "https://open.spotify.com/artist/6JN1a5p0aucHtYCLSl3vnY"
         }
       ],
-      "duration_ms": 138776,
-      "name": "Living Legend",
-      "url": "https://open.spotify.com/track/1oU70AufCbc9yKHeVCuvSL"
+      "duration_ms": 156800,
+      "name": "ARIGATO",
+      "url": "https://open.spotify.com/track/6vCmFt6aTwiJxEqZ2GRohr"
+    },
+    {
+      "added_at": "2023-08-21 09:09:06",
+      "album": {
+        "name": "Type 1 Diabetes",
+        "url": "https://open.spotify.com/album/4GpGXeroaWC7vZmvOPvFOA"
+      },
+      "artists": [
+        {
+          "name": "T-STONE",
+          "url": "https://open.spotify.com/artist/0xINjQE0NF8VH20g1CKg9D"
+        },
+        {
+          "name": "Fuji Taito",
+          "url": "https://open.spotify.com/artist/2OaVFBtZot8aFcdKYwE39f"
+        },
+        {
+          "name": "SIMON",
+          "url": "https://open.spotify.com/artist/6CcuEcSETRxpybrEt14OSx"
+        }
+      ],
+      "duration_ms": 197088,
+      "name": "For Real",
+      "url": "https://open.spotify.com/track/0GdDLqCeNprluWECiORtjq"
     }
   ],
   "unique_name": "Tokyo Drift: \u30c8\u30fc\u30ad\u30e7\u30fc\u30fb\u30c9\u30ea\u30d5\u30c8",

@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-834 songs - 1 day 8 hr 25 min
+836 songs - 1 day 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [Culture](https://open.spotify.com/track/1B7wvelX2nDAarrtxhX77P) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [Psalm Trees](https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S) | [Culture](https://open.spotify.com/album/5XnvcAwLq5Ex3dA63zB1SP) | 2:12 | 2022-07-08 | 2022-08-19 |
 | [Da Wes Sht](https://open.spotify.com/track/2WOugRtzn1QKmCarSqavnM) | [Gesmis](https://open.spotify.com/artist/09BQkr06MjFC0nQEd1nG4W) | [Da Wes Sht](https://open.spotify.com/album/2EBTIvmgYgyBaedPfL70ps) | 2:19 | 2022-04-15 | 2022-07-22 |
 | [Dandys Dream](https://open.spotify.com/track/3BzvqhEYrXURKShUqdKHId) | [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa), [Josh Tarzi](https://open.spotify.com/artist/1gutZI9LT5hRqrgKE20uEl) | [Moontape 02](https://open.spotify.com/album/199UPhNxxHoISxibHPidnY) | 1:51 | 2022-04-15 | 2022-06-25 |
-| [Dauner](https://open.spotify.com/track/55IGQwHH5bvNuQa24j1Q52) | [Snake Ritual](https://open.spotify.com/artist/30SIuvvR5UVKlMgTPiyndf) | [Dauner](https://open.spotify.com/album/6Sw481IbHxVz3HBQPcNxeM) | 2:51 | 2023-01-06 |  |
+| [Dauner](https://open.spotify.com/track/55IGQwHH5bvNuQa24j1Q52) | [Snake Ritual](https://open.spotify.com/artist/30SIuvvR5UVKlMgTPiyndf) | [Dauner](https://open.spotify.com/album/6Sw481IbHxVz3HBQPcNxeM) | 2:51 | 2023-01-06 | 2023-11-27 |
 | [daydream](https://open.spotify.com/track/1u1V8O1tVy9FVJHjj3PdmV) | [love\_eight](https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE) | [daydream](https://open.spotify.com/album/7BSoLkoXvPu5nKjVGfPVmO) | 2:10 | 2023-04-03 |  |
 | [Daydream Thing](https://open.spotify.com/track/3Li5s9nmyXaZFTPqyGIO2x) | [Bnjo](https://open.spotify.com/artist/2ypA9JtiknHFRxTq1X36ry) | [Daydream Thing](https://open.spotify.com/album/0sul8DdAXX7bHDC4pv3bXX) | 2:08 | 2023-09-08 |  |
 | [dear](https://open.spotify.com/track/4eMXHSc8jzmc9XdrHc14eO) | [Ree Vozz](https://open.spotify.com/artist/03Kr8XGKfldmQU7bODAzqu) | [chai latay](https://open.spotify.com/album/2LsusJuv6WiMu7VKOLg7Ki) | 2:51 | 2023-09-08 |  |
@@ -176,7 +176,7 @@
 | [Dreamz](https://open.spotify.com/track/2mooZdBPN5CMd9sLLqn7rl) | [August Sky](https://open.spotify.com/artist/6hm8yEY43m6Q5aq1O8oLwI) | [Dreamz](https://open.spotify.com/album/0nsR1tVzZZ1uFOKgXqswau) | 3:49 | 2022-04-15 |  |
 | [Driftwood](https://open.spotify.com/track/5Df3pDneVxrgAvEbgSX3Yv) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3) | [Driftwood](https://open.spotify.com/album/5pwPeU5EW7xkYcXYixuvjP) | 1:47 | 2022-04-15 | 2023-10-13 |
 | [Drip](https://open.spotify.com/track/3IjWchZ6NabiqZNzJ1yhCa) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [Drip](https://open.spotify.com/album/5ZL8AF9ifQ7roWRyq6npH3) | 2:21 | 2023-09-04 | 2023-10-13 |
-| [Drops](https://open.spotify.com/track/4bUsbn32Gk1CQHnykm6gm1) | [Prism Sorrow](https://open.spotify.com/artist/5Fh6NGwhB7tyhUR7XPuxhT) | [Drops](https://open.spotify.com/album/4FhgXX6FF1mv2M0ji7QgpF) | 2:33 | 2022-11-25 |  |
+| [Drops](https://open.spotify.com/track/4bUsbn32Gk1CQHnykm6gm1) | [Prism Sorrow](https://open.spotify.com/artist/5Fh6NGwhB7tyhUR7XPuxhT) | [Drops](https://open.spotify.com/album/4FhgXX6FF1mv2M0ji7QgpF) | 2:33 | 2022-11-25 | 2023-11-27 |
 | [Dusk's Delight](https://open.spotify.com/track/6GpE61U0CCL7k01WyF3DiN) | [Wezley Wiz](https://open.spotify.com/artist/6oGyihO2387JNURS8U5Olg) | [Dusk's Delight](https://open.spotify.com/album/3da8NaCjNEuTJiVOUlDR3O) | 2:00 | 2023-09-22 |  |
 | [El Clásico](https://open.spotify.com/track/2R8izDCEhhL9vQSkHZZZLG) | [Byz Playground](https://open.spotify.com/artist/0BMwJwRVDIJwATictkQzky) | [El Clásico](https://open.spotify.com/album/2rPikPoa8oTq9EWfPUgS6b) | 2:04 | 2022-10-14 | 2023-10-20 |
 | [Elastic](https://open.spotify.com/track/2L2aSrua8ZBRMogFhF6I1Q) | [4to28](https://open.spotify.com/artist/0yWkm3SjcPi6xzWv5qCKmM) | [Elastic](https://open.spotify.com/album/4lXR2fC1cbE3mD732vjbdM) | 2:01 | 2022-05-20 |  |
@@ -274,6 +274,7 @@
 | [Happy Vibes](https://open.spotify.com/track/756qohm4sXMyfHT6t0pPOK) | [Banker](https://open.spotify.com/artist/2VTXmYvdlvwrIQ0p2j2XfI) | [Happy Vibes](https://open.spotify.com/album/6emgwxBXdHUBvWy4y0XJwH) | 2:40 | 2022-11-11 |  |
 | [Harpiness](https://open.spotify.com/track/73EllKCl8YXhxV1dEXxF0U) | [LILCHI](https://open.spotify.com/artist/55rKNBzTkThc5PPCc1kbRn) | [Harpiness](https://open.spotify.com/album/6znqVk3rBkqkouCbLH8wLV) | 2:09 | 2023-09-08 |  |
 | [have we met before?](https://open.spotify.com/track/096FqtiSIjZqAAZH6U6mW7) | [merīkurisumasu!](https://open.spotify.com/artist/2xyYJCo9TXPAQZvPCR2L97) | [have we met before?](https://open.spotify.com/album/6MsQoiJdl6aC8QxybR4OF1) | 1:42 | 2022-06-24 |  |
+| [Hazel Eyes](https://open.spotify.com/track/18te6JAwwL6xrKnVgYgXvA) | [Loomington](https://open.spotify.com/artist/3ROJ8HN1XE4TIV86RgP4OA) | [Hazel Eyes](https://open.spotify.com/album/3Fses3uRSqH6ODu45oPCwH) | 2:22 | 2023-11-24 |  |
 | [Head Down](https://open.spotify.com/track/6bK9DxZ3UOo1x6fpUTmhLr) | [Melatone](https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Head Down](https://open.spotify.com/album/00BtezqtTN1x9b252Lvc5P) | 2:29 | 2022-04-22 | 2022-12-10 |
 | [Heat Sink](https://open.spotify.com/track/1LkKE6EKpkBXBqYnfaPHXE) | [Yeriho](https://open.spotify.com/artist/78i2cMCD9ZGsHitYgLbMhW), [Brunch Collect](https://open.spotify.com/artist/0kAzoeOzrlScAtTLUy613u) | [Odyssey](https://open.spotify.com/album/0tt8x0BZjFBKRbPP5Z5tNq) | 2:00 | 2022-07-22 | 2022-12-10 |
 | [Heaux](https://open.spotify.com/track/2XF3s6ycUXSJQCVMteiERI) | [Dr\. Travis](https://open.spotify.com/artist/49IK4aTJhEP93RfabiqaEZ) | [Kawhi](https://open.spotify.com/album/0ASHEDZAklWntGctYuGsRY) | 2:36 | 2022-04-15 | 2023-11-26 |
@@ -634,6 +635,7 @@
 | [Slipping Mats](https://open.spotify.com/track/72wDz8RDKFvffQJhHucHDy) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Slipping Mats](https://open.spotify.com/album/3wH3cUze42grMn3r4LTZHF) | 2:29 | 2022-07-29 |  |
 | [slow breath](https://open.spotify.com/track/3Zg7CJ3QSfkT5JYnQgBfJD) | [shamgang](https://open.spotify.com/artist/5BfSohdNvmTJkJeo9ksrVh) | [Moods 2020](https://open.spotify.com/album/645AC6dlytq5nFwF6kvpA4) | 2:08 | 2022-04-15 | 2022-05-14 |
 | [Slowdown](https://open.spotify.com/track/2IpmQO6mPAmx3StyIDpqKe) | [landq](https://open.spotify.com/artist/1RbHqyLEOuXC9fy1me1VFJ) | [Slowdown](https://open.spotify.com/album/4BIBrBkF0tGLUsid8qR738) | 2:09 | 2022-09-02 | 2023-10-20 |
+| [Slowmotion](https://open.spotify.com/track/62FD9nH97vjBJ7UJBlusRA) | [Zauvage](https://open.spotify.com/artist/68PKk1kwlU32sq0WuTTf0s) | [Slowmotion](https://open.spotify.com/album/09cHYQH8RY5ywsDND2EMp1) | 2:28 | 2023-11-24 |  |
 | [Smells Like Silverblue](https://open.spotify.com/track/6OmRE9XnZrMMfS9TuuQCPU) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra) | [Smells Like Silverblue](https://open.spotify.com/album/21oPNtdHyQvc3V0BQ5SG35) | 2:40 | 2022-04-15 | 2023-10-06 |
 | [Smoothie](https://open.spotify.com/track/3CgV5NE3nhut4zms1zPJ7R) | [Katja Larsson](https://open.spotify.com/artist/5SYzEUVzNdM09f3wnGfvfO) | [Memories Of Sunshine](https://open.spotify.com/album/3Xvk28MlcjlNdvkF3Y2psa) | 1:49 | 2022-04-15 | 2022-05-27 |
 | [Snake Eyes](https://open.spotify.com/track/01CT8zi6sHhJQl4EnAeQAq) | [Nick Wolf](https://open.spotify.com/artist/4j60yxoFJVWkQNs6uaoJms), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Snake Eyes](https://open.spotify.com/album/2TTqmgr7aAIwbWx6VwbN5s) | 0:49 | 2022-08-19 | 2023-07-20 |

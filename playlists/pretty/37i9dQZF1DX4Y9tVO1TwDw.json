@@ -1,12 +1,12 @@
 {
   "description": "A place for hyphenated Americans, creating our own identity & connecting to our roots. Cover: Estevie",
-  "num_followers": 6531,
+  "num_followers": 6537,
   "original_name": "Hyphenated",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NzdjOGJkODA3MmE2ZTg4NjQ4ZDI0MGE4M2M1MGRkY2MwZTM4NjUx",
+  "snapshot_id": "MCw1OGFjNGU4YTZkMjk3ZTRjMmYyMWUzYmQ3ZWVhNmZkZDIwZjA4ODNl",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Incompleto",
-        "url": "https://open.spotify.com/album/3WgZY6pINHPX4T5FCwO1Hf"
-      },
-      "artists": [
-        {
-          "name": "Omar Rodriguez",
-          "url": "https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD"
-        }
-      ],
-      "duration_ms": 146104,
-      "name": "Te Fuiste",
-      "url": "https://open.spotify.com/track/4mPabBTkgdM0vi6fq5RLIV"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Woke Up Dis Morning",
         "url": "https://open.spotify.com/album/3Er14Y7GQXzN9vINCBgVXD"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 177021,
       "name": "Woke Up Dis Morning",
       "url": "https://open.spotify.com/track/312ixrbrcnAF8Mn0XeDOlX"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Incompleto",
+        "url": "https://open.spotify.com/album/3WgZY6pINHPX4T5FCwO1Hf"
+      },
+      "artists": [
+        {
+          "name": "Omar Rodriguez",
+          "url": "https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD"
+        }
+      ],
+      "duration_ms": 146104,
+      "name": "Te Fuiste",
+      "url": "https://open.spotify.com/track/4mPabBTkgdM0vi6fq5RLIV"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -627,6 +627,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Menciones",
+        "url": "https://open.spotify.com/album/4ghTu7qG2BaVNrbHCmzxum"
+      },
+      "artists": [
+        {
+          "name": "Eddie Zuko",
+          "url": "https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "Menciones",
+      "url": "https://open.spotify.com/track/7ydgxBTlslEdoPxB0vElCd"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Solo Tu",
         "url": "https://open.spotify.com/album/4monLmhJWVVByxBhjPQQR7"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 166000,
       "name": "Solo Tu",
       "url": "https://open.spotify.com/track/4Ns54Yvhv4xfOMLAYRLkVE"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "S\u00c1LVAME",
-        "url": "https://open.spotify.com/album/23P9z5m6FNvfz5eXarJxvA"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        }
-      ],
-      "duration_ms": 185124,
-      "name": "S\u00c1LVAME",
-      "url": "https://open.spotify.com/track/66zpZXzpcnyeg4s6Ahhf99"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -679,18 +679,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Menciones",
-        "url": "https://open.spotify.com/album/4ghTu7qG2BaVNrbHCmzxum"
+        "name": "S\u00c1LVAME",
+        "url": "https://open.spotify.com/album/23P9z5m6FNvfz5eXarJxvA"
       },
       "artists": [
         {
-          "name": "Eddie Zuko",
-          "url": "https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub"
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
         }
       ],
-      "duration_ms": 166500,
-      "name": "Menciones",
-      "url": "https://open.spotify.com/track/7ydgxBTlslEdoPxB0vElCd"
+      "duration_ms": 185124,
+      "name": "S\u00c1LVAME",
+      "url": "https://open.spotify.com/track/66zpZXzpcnyeg4s6Ahhf99"
     },
     {
       "added_at": "2023-11-17 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 
 > Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago\. Cover: DJ Manny
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,826 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,840 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,15 +49,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 | 39 | [Erotic Heat](https://open.spotify.com/track/29mPXTERiHkY9uVH7BDwfD) | [Jlin](https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA) | [Dark Energy](https://open.spotify.com/album/5JNtn7QIhuZiptM2F7bJPX) | 4:23 |
 | 40 | [Slanted \(BSN Posse Remix\)](https://open.spotify.com/track/5gtyWp5rTQXIouCryZm7fG) | [Tim Parker](https://open.spotify.com/artist/3LBR9DFhfM9nUjdu1gi7lI), [BSN Posse](https://open.spotify.com/artist/1fnlGaoXeWH8RMPVKR2gBU) | [Slanted](https://open.spotify.com/album/2I41rw3sceGcUVoKyIOxwB) | 3:46 |
 | 41 | [Below Zero](https://open.spotify.com/track/2CuUS7ofCI8fmmVe2vyGqW) | [DJ Nate](https://open.spotify.com/artist/5tefnddMVyra0vGqyFVEjM) | [Da Trak Genious](https://open.spotify.com/album/5Ae4gsudmsRBqFiY6px4Xh) | 2:49 |
-| 42 | [Set It](https://open.spotify.com/track/1tWwqxkc3xrx8j3U2h6oSx) | [Dream Continuum](https://open.spotify.com/artist/4VRT7JNcqS3yMV0rBxxUlV) | [Reworkz E.P.](https://open.spotify.com/album/4qjrehdzYQen9By6HBuuGl) | 5:12 |
-| 43 | [Burnin Shoes](https://open.spotify.com/track/4ap5hCK1x2EjMd6QyJFZiK) | [BSN Posse](https://open.spotify.com/artist/1fnlGaoXeWH8RMPVKR2gBU), [Jon1st](https://open.spotify.com/artist/4rkqsUdw0a2YaadfuNM7zF) | [Rituals EP](https://open.spotify.com/album/7dA9oiC0iPu2yNXnOK8rn3) | 5:16 |
+| 42 | [Burnin Shoes](https://open.spotify.com/track/4ap5hCK1x2EjMd6QyJFZiK) | [BSN Posse](https://open.spotify.com/artist/1fnlGaoXeWH8RMPVKR2gBU), [Jon1st](https://open.spotify.com/artist/4rkqsUdw0a2YaadfuNM7zF) | [Rituals EP](https://open.spotify.com/album/7dA9oiC0iPu2yNXnOK8rn3) | 5:16 |
+| 43 | [Set It](https://open.spotify.com/track/1tWwqxkc3xrx8j3U2h6oSx) | [Dream Continuum](https://open.spotify.com/artist/4VRT7JNcqS3yMV0rBxxUlV) | [Reworkz E.P.](https://open.spotify.com/album/4qjrehdzYQen9By6HBuuGl) | 5:12 |
 | 44 | [fucK iT uP](https://open.spotify.com/track/5mZa0ucjIfMPpa2XFhdF16) | [Teklife](https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg), [DJ Manny](https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7) | [ON LIFE, Vol\. 2](https://open.spotify.com/album/6PUO9tb1HaXV7uzka0VtMu) | 2:42 |
 | 45 | [Turn Up](https://open.spotify.com/track/3mXjdyhImhKgUHTn4tbrNs) | [Nangdo](https://open.spotify.com/artist/3q8bo1K12TtwbvsPiwJWDi) | [High On Clouds](https://open.spotify.com/album/7wnVMRKzpTxLMCx6PZgpVA) | 3:14 |
 | 46 | [147](https://open.spotify.com/track/60I8YrrHXJnfPmo9U8yBnu) | [Slick Shoota](https://open.spotify.com/artist/2P1OqKNHmAOg9RfAufNNkR) | [VIP VAULTS](https://open.spotify.com/album/7dQjTAus3GtAzuFhAiEPHz) | 4:31 |
 | 47 | [Elevate](https://open.spotify.com/track/0qcYatTVf33ouptkYHtUqL) | [Druguse](https://open.spotify.com/artist/7cacQtmSGJSf7HtEslj0xW) | [Druguse](https://open.spotify.com/album/33JOcNGQQ1MT6fYzfxAhJh) | 3:28 |
 | 48 | [BS6](https://open.spotify.com/track/4G2ylGiKx1KonQKyPsxulR) | [Hyroglifics](https://open.spotify.com/artist/6hNELDwN2cBEdL74cpXKc0), [Sinistarr](https://open.spotify.com/artist/1AqybHsTw984feND8RwcCe) | [Bs6](https://open.spotify.com/album/5PhWDWDVBHZ4dtr2kg6xAu) | 3:45 |
-| 49 | [Hip Thruster](https://open.spotify.com/track/2lsLDBItN7XZ1e92K5mzBc) | [NameBrandSound](https://open.spotify.com/artist/65kgJ8N0DY3S5XcMAtOSmD) | [Nowadays Pressure](https://open.spotify.com/album/2iM9f33JfLhqJofIu2K1mD) | 3:48 |
-| 50 | [Divine](https://open.spotify.com/track/1qKl2EuAdN6hedO5tjSBB1) | [Jana Rush](https://open.spotify.com/artist/0wJyMhSanZRw2cEA6cx503) | [Pariah](https://open.spotify.com/album/6mNtkwN3cjhuvzEoH2lFM5) | 5:44 |
+| 49 | [Divine](https://open.spotify.com/track/1qKl2EuAdN6hedO5tjSBB1) | [Jana Rush](https://open.spotify.com/artist/0wJyMhSanZRw2cEA6cx503) | [Pariah](https://open.spotify.com/album/6mNtkwN3cjhuvzEoH2lFM5) | 5:44 |
+| 50 | [Hip Thruster](https://open.spotify.com/track/2lsLDBItN7XZ1e92K5mzBc) | [NameBrandSound](https://open.spotify.com/artist/65kgJ8N0DY3S5XcMAtOSmD) | [Nowadays Pressure](https://open.spotify.com/album/2iM9f33JfLhqJofIu2K1mD) | 3:48 |
 | 51 | [Wouldn't Get Far](https://open.spotify.com/track/564hH35FVVO1PdF1ZaTYhd) | [Young Smoke](https://open.spotify.com/artist/0ehqzJzgBzhTRcOd0BqgCs) | [Bangs & Works Vol\. 2 \(The Best of Chicago Footwork\)](https://open.spotify.com/album/1j7imfgVHx5wHwNlJHSOGj) | 3:00 |
 | 52 | [Stick Em'](https://open.spotify.com/track/1Pr37UKvEs9EWlO70gTPhF) | [Caidance](https://open.spotify.com/artist/3bWNdjdWiWNdv1xPOnFU1r) | [Guaranteed](https://open.spotify.com/album/1HMCwgdVCktmbzoKPxAzzX) | 3:40 |
 | 53 | [8 Bit Shit](https://open.spotify.com/track/47kYzDNmceCNSzWdw2InRC) | [Heavee](https://open.spotify.com/artist/3bTrwZAKTLYI9zozCH6zxw) | [Next Life](https://open.spotify.com/album/2fQc0PETxan4Q7P16aMsue) | 4:37 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 | 55 | [Juking For Live \(I.C.T.W\)](https://open.spotify.com/track/65CmlkO3DCwB0ZQvU9vaZY) | [DJ Slugo](https://open.spotify.com/artist/1cdLR0Fz14MLkWY78hNTYT) | [Juking For Live \(I.C.T.W\)](https://open.spotify.com/album/3k2t4ylBBWNH7ovwqceYHq) | 3:56 |
 | 56 | [Give It To Me](https://open.spotify.com/track/4viGDGWnZJxlmGoB238yZ5) | [DJ Manny](https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7) | [Trackaholic Vol\. 1](https://open.spotify.com/album/52UUqChGfOm9g0Bn0UCZ8F) | 3:49 |
 | 57 | [Miau](https://open.spotify.com/track/6kEIRclfzZfraQY9Cn3F01) | [Aylu](https://open.spotify.com/artist/1MDwlFKprZOcAzi83BF1VG) | [Transgenre](https://open.spotify.com/album/6VdPebiwMhQqLmCAG7f1tO) | 2:18 |
-| 58 | [HNADFUL OF SAND](https://open.spotify.com/track/4qpbXynEqm71wahVnnYYRP) | [x.nte](https://open.spotify.com/artist/3dwRwPEStsaBVjdZp9PllA), [Elevation](https://open.spotify.com/artist/61zHgRKaKFtSxh8kNGIICY), [Empress Lex](https://open.spotify.com/artist/7q7s8rwydoB8ZmcTut10Bm), [NO EYES](https://open.spotify.com/artist/17kvA3T2g0xqLYb67vuCEm) | [HNADFUL OF SAND](https://open.spotify.com/album/0VvFwyjGybjRMlzKvRn3HV) | 2:30 |
-| 59 | [Bring It Back](https://open.spotify.com/track/0NesKGMUOHjOoPI6KWNLKT) | [DJ Orange Julius](https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH) | [The Grove](https://open.spotify.com/album/0KRdcfl8C4iPEhmw0Qgwce) | 3:37 |
+| 58 | [Bring It Back](https://open.spotify.com/track/0NesKGMUOHjOoPI6KWNLKT) | [DJ Orange Julius](https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH) | [The Grove](https://open.spotify.com/album/0KRdcfl8C4iPEhmw0Qgwce) | 3:37 |
+| 59 | [HNADFUL OF SAND](https://open.spotify.com/track/4qpbXynEqm71wahVnnYYRP) | [x.nte](https://open.spotify.com/artist/3dwRwPEStsaBVjdZp9PllA), [Elevation](https://open.spotify.com/artist/61zHgRKaKFtSxh8kNGIICY), [Empress Lex](https://open.spotify.com/artist/7q7s8rwydoB8ZmcTut10Bm), [NO EYES](https://open.spotify.com/artist/17kvA3T2g0xqLYb67vuCEm) | [HNADFUL OF SAND](https://open.spotify.com/album/0VvFwyjGybjRMlzKvRn3HV) | 2:30 |
 | 60 | [Can't Fake My Feelings \(part 2\)](https://open.spotify.com/track/1FsngYSueNDXhfa7hs7W4G) | [Seimei](https://open.spotify.com/artist/7zZ9WviThpO5AVYmigIf3V) | [Street Bangers Factory 04](https://open.spotify.com/album/5tnvRpXyVXxWYjNjxIwe4d) | 4:38 |
 | 61 | [Trippin'](https://open.spotify.com/track/6QlBjoFtfys38zqSIcs2wR) | [DJ Taye](https://open.spotify.com/artist/4T1sY4aibm24hxfz9JnI7c) | [Still Trippin'](https://open.spotify.com/album/3OEp4ArdKsXQLxq34Mfvur) | 3:13 |
 | 62 | [Nycfw](https://open.spotify.com/track/3EQA4h2oX2HsqUXwmb9EMs) | [Dj Spaldin](https://open.spotify.com/artist/2TWLvBrhwsGGnd10vmtIBj) | [Heavy on DA Footwork](https://open.spotify.com/album/3cwJ07tqWWspBoeWQvWBYJ) | 4:06 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 | 79 | [Pop Drop](https://open.spotify.com/track/1IrZcCsY92EhaqCA2QVSsH) | [DJ Paypal](https://open.spotify.com/artist/4hH4fEXPg3qpTDlmdNOO01), [DJ Taye](https://open.spotify.com/artist/4T1sY4aibm24hxfz9JnI7c) | [Computers Smarter Than People](https://open.spotify.com/album/3Hj551CuSFPhth9J6ffqcG) | 2:37 |
 | 80 | [Do Right](https://open.spotify.com/track/7lMjqRbsChqroWRRkhw3ge) | [Slick Shoota](https://open.spotify.com/artist/2P1OqKNHmAOg9RfAufNNkR) | [Do Right](https://open.spotify.com/album/79oVcdOfST9iLRlqenoJdl) | 3:27 |
 
-Snapshot ID: `MCw0MzlkMzk3ZjE2NjZlNzhhMjA4MmNiMzM4NWUxNmRlNzdmNDE3N2M3`
+Snapshot ID: `MCw5YmJlMTg4YTlhZDAxNzYwNTk1OWIzNzQ1MzIwMWJlYjY1OTQ2MmNk`

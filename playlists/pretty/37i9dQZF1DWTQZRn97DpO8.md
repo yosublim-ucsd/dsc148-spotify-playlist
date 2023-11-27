@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > Quand R&B francophone rime avec douceur 🍯\. Photo : Yamê
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,153 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,245 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 | 49 | [ELLE](https://open.spotify.com/track/2tGFMERxBPeRJ0OzQ6BAZv) | [Kÿfy](https://open.spotify.com/artist/4tK6ffV3TyicR0N0WtulqB) | [ELLE](https://open.spotify.com/album/0BtEyJbzrnpWrNWuMeip8z) | 2:57 |
 | 50 | [Que la nuit](https://open.spotify.com/track/5z2n55eaoZSM7KipCmIHa4) | [Aöme](https://open.spotify.com/artist/2ylIlV0oukLVNOjsqv6HI8) | [Que la nuit](https://open.spotify.com/album/389WQhjRH4tDq72Eb7MG94) | 2:39 |
 
-Snapshot ID: `MCw4N2ViNTgyYWJmMTZkYTI4NzU5ODliNTk5N2MzNzc5ZmEzMDIxNmVj`
+Snapshot ID: `MCw5NzM2NzZjOTM1MTc5MWFlN2U0Mjc5NGVhMzUxMjczYmYxZmQ3MzUx`
