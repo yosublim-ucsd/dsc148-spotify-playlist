@@ -1,12 +1,12 @@
 {
   "description": "From the decade that brought us Britney, Spice Girls, Coolio and so many more!",
-  "num_followers": 105575,
+  "num_followers": 105786,
   "original_name": "90s Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTBlZjZkMGFjYjYzZWY4OWFiY2MwYTI4YzZlZjI5ZTUxMzRmOTEz",
+  "snapshot_id": "MCxmMjc2YmNmNGZiYTkxY2QxNjU1MGNlNDJmYzNkODY3MjY0ODVkNjE1",
   "tracks": [
     {
       "added_at": "2023-04-27 03:36:27",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-04-27 03:36:27",
       "album": {
-        "name": "Cracked Rear View",
-        "url": "https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K"
-      },
-      "artists": [
-        {
-          "name": "Hootie & The Blowfish",
-          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
-        }
-      ],
-      "duration_ms": 229586,
-      "name": "Only Wanna Be With You",
-      "url": "https://open.spotify.com/track/1OFKUn2VLafrHj7ybnap0Q"
-    },
-    {
-      "added_at": "2023-04-27 03:36:27",
-      "album": {
         "name": "Blazzin' Fire",
         "url": "https://open.spotify.com/album/0zLd8jpRt4m6FWCu81Fb9n"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 227067,
       "name": "Sweat (A La La La La Long)",
       "url": "https://open.spotify.com/track/1SssFw74DdHVjRa6ADggdD"
+    },
+    {
+      "added_at": "2023-04-27 03:36:27",
+      "album": {
+        "name": "Cracked Rear View",
+        "url": "https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K"
+      },
+      "artists": [
+        {
+          "name": "Hootie & The Blowfish",
+          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
+        }
+      ],
+      "duration_ms": 229586,
+      "name": "Only Wanna Be With You",
+      "url": "https://open.spotify.com/track/1OFKUn2VLafrHj7ybnap0Q"
     },
     {
       "added_at": "2023-04-27 03:36:27",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2023-04-27 03:36:27",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/7wlnHCWKkBXBWtYgpaCaz7"
-      },
-      "artists": [
-        {
-          "name": "C & C Music Factory",
-          "url": "https://open.spotify.com/artist/7krx6UBDKLwE0q3s3fesqF"
-        },
-        {
-          "name": "Freedom Williams",
-          "url": "https://open.spotify.com/artist/08MVPakTEdRJimQNV61NFR"
-        }
-      ],
-      "duration_ms": 244093,
-      "name": "Gonna Make You Sweat (Everybody Dance Now) (feat. Freedom Williams)",
-      "url": "https://open.spotify.com/track/7eheoW4hxrH51ww2QePVwF"
-    },
-    {
-      "added_at": "2023-04-27 03:36:27",
-      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 281066,
       "name": "One Sweet Day",
       "url": "https://open.spotify.com/track/7ySbfLwdCwl1EM0zNCJZ38"
+    },
+    {
+      "added_at": "2023-04-27 03:36:27",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/7wlnHCWKkBXBWtYgpaCaz7"
+      },
+      "artists": [
+        {
+          "name": "C & C Music Factory",
+          "url": "https://open.spotify.com/artist/7krx6UBDKLwE0q3s3fesqF"
+        },
+        {
+          "name": "Freedom Williams",
+          "url": "https://open.spotify.com/artist/08MVPakTEdRJimQNV61NFR"
+        }
+      ],
+      "duration_ms": 244093,
+      "name": "Gonna Make You Sweat (Everybody Dance Now) (feat. Freedom Williams)",
+      "url": "https://open.spotify.com/track/7eheoW4hxrH51ww2QePVwF"
     },
     {
       "added_at": "2023-04-27 03:36:27",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-04-27 03:36:27",
       "album": {
-        "name": "Spiceworld",
-        "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 204753,
-      "name": "Stop",
-      "url": "https://open.spotify.com/track/3FteycP8CaXS1MhjcXekVT"
-    },
-    {
-      "added_at": "2023-04-27 03:36:27",
-      "album": {
         "name": "My Love Is Your Love",
         "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
       },
@@ -1303,6 +1287,38 @@
     {
       "added_at": "2023-04-27 03:36:27",
       "album": {
+        "name": "Spiceworld",
+        "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 204753,
+      "name": "Stop",
+      "url": "https://open.spotify.com/track/3FteycP8CaXS1MhjcXekVT"
+    },
+    {
+      "added_at": "2023-04-27 03:36:27",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Strong Enough",
+      "url": "https://open.spotify.com/track/144JMbvbR5txNzoZ112wo4"
+    },
+    {
+      "added_at": "2023-04-27 03:36:27",
+      "album": {
         "name": "Keep the Faith",
         "url": "https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 275706,
       "name": "Love Like This",
       "url": "https://open.spotify.com/track/7MQywXGHEev7JmwwIzMcao"
-    },
-    {
-      "added_at": "2023-04-27 03:36:27",
-      "album": {
-        "name": "14:59",
-        "url": "https://open.spotify.com/album/43NNW7iDuAE8pIouzvwWWi"
-      },
-      "artists": [
-        {
-          "name": "Sugar Ray",
-          "url": "https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb"
-        }
-      ],
-      "duration_ms": 219866,
-      "name": "Every Morning",
-      "url": "https://open.spotify.com/track/2ouURa1AIXp3AvkS52Jry5"
     },
     {
       "added_at": "2023-04-27 03:36:27",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2023-04-27 03:36:27",
       "album": {
+        "name": "14:59",
+        "url": "https://open.spotify.com/album/43NNW7iDuAE8pIouzvwWWi"
+      },
+      "artists": [
+        {
+          "name": "Sugar Ray",
+          "url": "https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb"
+        }
+      ],
+      "duration_ms": 219866,
+      "name": "Every Morning",
+      "url": "https://open.spotify.com/track/2ouURa1AIXp3AvkS52Jry5"
+    },
+    {
+      "added_at": "2023-04-27 03:36:27",
+      "album": {
         "name": "My Promise",
         "url": "https://open.spotify.com/album/5CQHiljabLGvn72iQk0wsZ"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 272093,
       "name": "Where Do You Go",
       "url": "https://open.spotify.com/track/37tzoWY1ubBQKGXiWdO5Qv"
-    },
-    {
-      "added_at": "2023-04-27 03:36:27",
-      "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
-      },
-      "artists": [
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Strong Enough",
-      "url": "https://open.spotify.com/track/144JMbvbR5txNzoZ112wo4"
     },
     {
       "added_at": "2023-04-27 03:36:27",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-04-27 03:36:27",
       "album": {
-        "name": "Duophonic",
-        "url": "https://open.spotify.com/album/2qSjYxNL8dN8QCTTQyuNOA"
-      },
-      "artists": [
-        {
-          "name": "Charles & Eddie",
-          "url": "https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD"
-        }
-      ],
-      "duration_ms": 279600,
-      "name": "Would I Lie To You?",
-      "url": "https://open.spotify.com/track/3PkvYP6223QO3xlW2THd1x"
-    },
-    {
-      "added_at": "2023-04-27 03:36:27",
-      "album": {
         "name": "Spice",
         "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 235973,
       "name": "Say You'll Be There",
       "url": "https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy"
+    },
+    {
+      "added_at": "2023-04-27 03:36:27",
+      "album": {
+        "name": "Duophonic",
+        "url": "https://open.spotify.com/album/2qSjYxNL8dN8QCTTQyuNOA"
+      },
+      "artists": [
+        {
+          "name": "Charles & Eddie",
+          "url": "https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD"
+        }
+      ],
+      "duration_ms": 279600,
+      "name": "Would I Lie To You?",
+      "url": "https://open.spotify.com/track/3PkvYP6223QO3xlW2THd1x"
     },
     {
       "added_at": "2023-04-27 03:36:27",
@@ -1659,18 +1659,26 @@
     {
       "added_at": "2023-04-27 03:36:27",
       "album": {
-        "name": "Hits!",
-        "url": "https://open.spotify.com/album/3GKFt0Fc0iW0OoTt4qHoV2"
+        "name": "Affection",
+        "url": "https://open.spotify.com/album/2NGdpRuh0JgRLrdAK8AyNR"
       },
       "artists": [
         {
-          "name": "Right Said Fred",
-          "url": "https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL"
+          "name": "Lisa Stansfield",
+          "url": "https://open.spotify.com/artist/2jS7I1u7BpgWT9ssG62Zr1"
+        },
+        {
+          "name": "Ian Devaney",
+          "url": "https://open.spotify.com/artist/6Ufm4BHf4ZdolpvcvYgH2S"
+        },
+        {
+          "name": "Andy Morris",
+          "url": "https://open.spotify.com/artist/0A1FSG9WZ2dQ5JSkQYJHIp"
         }
       ],
-      "duration_ms": 171679,
-      "name": "I'm Too Sexy",
-      "url": "https://open.spotify.com/track/76gbXfMpFoZJGkPgxgzvFt"
+      "duration_ms": 265760,
+      "name": "All Around the World - Remastered",
+      "url": "https://open.spotify.com/track/1DapqOfkDAQCiKnvfwKo0g"
     }
   ],
   "unique_name": "90s Pop",

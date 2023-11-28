@@ -4,7 +4,7 @@
 
 > 'Tis the season! All new holiday releases\. Cover: Laufey
 
-513 songs - 1 day 2 hr 55 min
+514 songs - 1 day 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -449,6 +449,7 @@
 | [The Holidays Are Cancelled](https://open.spotify.com/track/79tX8D8ZdcvXiUdTDiWYT2) | [Mila Jam](https://open.spotify.com/artist/6m7wJXzvVyE0j6eef6pj1a) | [The Holidays Are Cancelled](https://open.spotify.com/album/78XHfK44MkF5bs4qq6u6Ah) | 3:44 | 2021-12-24 | 2022-07-29 |
 | [The Last Christmas \(We Ever Spend Apart\)](https://open.spotify.com/track/7IJuZ1XUVCpiOSWqEZySIk) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [The Last Christmas \(We Ever Spend Apart\)](https://open.spotify.com/album/6OHsKP52OjrBnA3vvKnN24) | 3:27 | 2021-12-24 | 2022-07-29 |
 | [The Magic of Christmas \- Tinsel Version](https://open.spotify.com/track/0FvhX8S6ppDtyXvyBIVJJF) | [LYRA](https://open.spotify.com/artist/0yZG22ntdDqVCFIulOTc8x) | [The Magic of Christmas \(Tinsel Version\)](https://open.spotify.com/album/7FJoLfJdwSzPwn90sxP7ET) | 3:37 | 2022-11-18 | 2023-10-04 |
+| [The Man With The Bag](https://open.spotify.com/track/0aOVq9nUd7V1ZQaBJOzksy) | [Julie Benko](https://open.spotify.com/artist/2VxiprvyXzmROUx8sObjkO) | [The Man With The Bag](https://open.spotify.com/album/10hvp4CsZXetsllRbQ0K6c) | 2:59 | 2023-11-27 |  |
 | [The Manger \(with Josh Turner\)](https://open.spotify.com/track/7aKm5vWuizayEDJJSp0OiW) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN), [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [The Manger](https://open.spotify.com/album/07eR5Q7zlJXjotNfqekAjH) | 3:49 | 2022-10-28 | 2023-10-04 |
 | [The One](https://open.spotify.com/track/4eTJECZAqZU9pfoB3JNwoF) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Every Christmas](https://open.spotify.com/album/417JYo0idxISlugwKE4fsb) | 3:53 | 2023-10-13 | 2023-10-28 |
 | [The Prayer](https://open.spotify.com/track/4UcdqtJDDSYToxtsBZzkFX) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Evergreen](https://open.spotify.com/album/7HgVH7ChzqayHdf1eAi9c1) | 4:21 | 2021-12-24 | 2022-09-28 |

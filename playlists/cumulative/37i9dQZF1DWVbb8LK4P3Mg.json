@@ -426,7 +426,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 226493,
       "name": "Christmas Again",
       "url": "https://open.spotify.com/track/5ILo7uxYAwyLoWazhHxGnD"
@@ -2172,6 +2172,24 @@
       "duration_ms": 211933,
       "name": "Mr. Snowman",
       "url": "https://open.spotify.com/track/1Bo4rmJ5bFUcq03tjJY98H"
+    },
+    {
+      "album": {
+        "name": "MUST HAVE",
+        "url": "https://open.spotify.com/album/0p1vF2SctjpmMLekoIBEcO"
+      },
+      "artists": [
+        {
+          "name": "ATBO",
+          "url": "https://open.spotify.com/artist/3bwO3gNZVmHwaBttv739g7"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196920,
+      "name": "Must Have Love",
+      "url": "https://open.spotify.com/track/3fixP4VxUKRRg7i8WeViuL"
     },
     {
       "album": {

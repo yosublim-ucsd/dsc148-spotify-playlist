@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Provinz, ENNIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,298 likes - 75 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,618 likes - 75 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Es regnet Hirn \(feat\. Paula Carolina\)](https://open.spotify.com/track/02Y7L1qY9Z771QO2w3ubgk) | [OK KID](https://open.spotify.com/artist/5syyAQTWJ2BaLtjOKE99MK), [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Es regnet Hirn \(feat\. Paula Carolina\)](https://open.spotify.com/album/0ip66XV3S8XeOHlqymdX0M) | 3:14 |
 | 75 | [primetime](https://open.spotify.com/track/2gsaXMADNny0n6eHFeBryZ) | [Alli Neumann](https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh) | [PRIMETIME](https://open.spotify.com/album/3RK4pNM1XeJ0ZxhKHdSuKr) | 2:51 |
 
-Snapshot ID: `MCxhOTA2Y2ZmMzQ4NWZhOWJkN2U4ODNmYTdhZjM0NWFiOWRmOTJlYzJh`
+Snapshot ID: `MCwxZDY5ZjNkMjcxZTFiYWQwMjhjN2IzYzY4NjU2OGM0MTViZGU0OWEw`

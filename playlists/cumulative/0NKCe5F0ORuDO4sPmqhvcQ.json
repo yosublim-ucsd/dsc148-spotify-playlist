@@ -2255,6 +2255,32 @@
     },
     {
       "album": {
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/4HQYlLQCrkwbLpxAaKhdC2"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "Jason Ross",
+          "url": "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
+        },
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200575,
+      "name": "Darkness",
+      "url": "https://open.spotify.com/track/0l71depQtJ6g2t1LikvlzG"
+    },
+    {
+      "album": {
         "name": "deep end",
         "url": "https://open.spotify.com/album/12xlRBmhi9gZpyY7UYr5Ie"
       },

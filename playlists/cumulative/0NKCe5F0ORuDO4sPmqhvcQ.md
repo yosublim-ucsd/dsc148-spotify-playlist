@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-556 songs - 1 day 7 hr 19 min
+557 songs - 1 day 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Dark Places](https://open.spotify.com/track/6I5RS743qBdKw5Uzkil6S6) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Kwesi](https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV) | [Dusk](https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG) | 3:55 | 2022-07-21 | 2022-07-23 |
 | [Dark Places \- Promnite Remix](https://open.spotify.com/track/3fG0CSPqKqBYmv9JUdHzvg) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Kwesi](https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV), [Promnite](https://open.spotify.com/artist/5nhrH1JLtBXqhhliwceEI5) | [Dark Places \(Promnite Remix\)](https://open.spotify.com/album/3mP38vYlIEwpsGJ1sR2Jam) | 5:55 | 2022-09-22 | 2023-07-20 |
 | [Dark Places \- Shadient Remix](https://open.spotify.com/track/2HFNl3R6uuV20q6BTCnELY) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Kwesi](https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV), [Shadient](https://open.spotify.com/artist/6ADRET3UXTOmGBjjO67fNd) | [Dark Places \(Shadient Remix\)](https://open.spotify.com/album/4TrORdXsvq6MLrKfI6e4e0) | 4:25 | 2022-11-03 | 2023-07-20 |
+| [Darkness](https://open.spotify.com/track/0l71depQtJ6g2t1LikvlzG) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Darkness](https://open.spotify.com/album/4HQYlLQCrkwbLpxAaKhdC2) | 3:20 | 2023-11-27 |  |
 | [deep end](https://open.spotify.com/track/7kJbfc0nj7M3jVbk3Gpuzh) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [deep end](https://open.spotify.com/album/12xlRBmhi9gZpyY7UYr5Ie) | 2:45 | 2023-11-11 |  |
 | [Deep End \(feat\. Lil Skies\)](https://open.spotify.com/track/0Ls2AaWYmU2LRzWAmFdlkc) | [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN), [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [Deep End \(feat\. Lil Skies\)](https://open.spotify.com/album/3E8eOi78N03MllCrjGGcVz) | 2:11 | 2022-07-15 | 2022-11-23 |
 | [Deepend](https://open.spotify.com/track/2mqaosDXabZq2tf7bhPnjK) | [Blookah](https://open.spotify.com/artist/3ekno9ZGX4ccxPQbAbMfeR), [ALIGN](https://open.spotify.com/artist/4Yn4eqGITgZVZnOuRQNE2I), [Lydell](https://open.spotify.com/artist/39NS4e6MwwxYioDlGMLdD2) | [Deepend](https://open.spotify.com/album/6lCXl4mrPMEsl89i74Uqmi) | 3:26 | 2023-01-20 |  |

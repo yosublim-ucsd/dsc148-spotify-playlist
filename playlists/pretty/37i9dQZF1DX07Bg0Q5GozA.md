@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Sirens of Lesbos
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,974 likes - 75 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,013 likes - 75 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/5789JwERVglbf574Olz2Bi) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:35 |
 | 75 | [Skipping Like A Stone \(feat\. Beck\) \- Gerd Janson Remix](https://open.spotify.com/track/3qDaCdP9xU4wMoLYJCipyo) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Skipping Like A Stone \(feat\. Beck\) \[Gerd Janson Remix\]](https://open.spotify.com/album/1sTGjuVWoBksS49T9pOp4b) | 3:05 |
 
-Snapshot ID: `MCxiNGYxYWM4ZGUyZjg0MWUwYTQwMDA0YTI0ZTgyYzk5MzgxM2FhMTJk`
+Snapshot ID: `MCxmODdjOWE3ZjUwNTk4YjI5NmZmYzI5OTZiNDQ0NThiNWI2Yjg4NjFi`

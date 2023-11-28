@@ -4,7 +4,7 @@
 
 > ¡Lo mejor de la Salsa Cubana! Celia Cruz en portada.
 
-213 songs - 17 hr 23 min
+214 songs - 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Mala Mujer](https://open.spotify.com/track/6WodQgc6eoPietr4k9lPHR) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Colección de Oro](https://open.spotify.com/album/54Z6v4k5SiehEjzX9bJzLh) | 3:52 | 2020-08-25 | 2022-11-13 |
 | [Mala Mujer](https://open.spotify.com/track/3dGFlXjz6eRgtJoVuPo1nx) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Coleccion de Oro](https://open.spotify.com/album/4hB9LGTtBc6H29pjkTagzo) | 3:52 | 2020-08-25 |  |
 | [Marcando La Distancia](https://open.spotify.com/track/0txizV883uXWqJEyxxJHrp) | [Manolito Simonet y su Trabuco](https://open.spotify.com/artist/0Wd6h9C5ZYMexAYGM7BKwR) | [Latino! Greatest Hits \- 56 Latin Top Hits \(Original Versions!\)](https://open.spotify.com/album/0VSYBKZgle28fILiupe1Bv) | 5:41 | 2020-08-25 | 2022-07-29 |
-| [Marcando la Distancia](https://open.spotify.com/track/70BDblSjPfj6Pe24avWzK2) | [Manolito y Su Trabuco](https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW) | [Marcando la Distancia \(La Nueva Generación de la musica Cubana\)](https://open.spotify.com/album/1atq4NCh5u5kzxbRVN5Uyo) | 5:42 | 2020-08-25 |  |
+| [Marcando la Distancia](https://open.spotify.com/track/70BDblSjPfj6Pe24avWzK2) | [Manolito y Su Trabuco](https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW) | [Marcando la Distancia \(La Nueva Generación de la musica Cubana\)](https://open.spotify.com/album/1atq4NCh5u5kzxbRVN5Uyo) | 5:42 | 2020-08-25 | 2023-11-28 |
 | [Me Dicen Cuba](https://open.spotify.com/track/2AMQZ5IupHljTDOH44Nx2s) | [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [Me Dicen Cuba / Rosa la Peligrosa](https://open.spotify.com/album/0OBXMlPSCxqZr4fQTcI5aN) | 4:58 | 2020-08-25 |  |
 | [Me Dicen Cuba](https://open.spotify.com/track/15l7UZDgI6PeFiaJkpYaAO) | [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [La Vuelta al Mundo](https://open.spotify.com/album/4YkbsY00dYjZj5wQmdfilG) | 5:42 | 2020-08-25 | 2023-04-16 |
 | [Me Quedo Contigo](https://open.spotify.com/track/1IbNTo4gpxfFt3lM0Is4sF) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS) | [Me Quedo Contigo](https://open.spotify.com/album/2R24fOX8OXzoY89stUCl7i) | 3:21 | 2020-08-25 |  |
@@ -144,6 +144,7 @@
 | [Nena](https://open.spotify.com/track/07TJxtp38iIauiPgh9pzIw) | [Grupo Danson](https://open.spotify.com/artist/3jDjCkIGthiTkbp7uWMe8R) | [Mi Música](https://open.spotify.com/album/6885J4w1iaRdZbs8Ol4Zzs) | 5:21 | 2020-08-25 | 2022-07-06 |
 | [No Me Acostumbro](https://open.spotify.com/track/4SjBGbtJz77ximBiOZcIn6) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:49 | 2020-08-25 |  |
 | [No Me Quiero Enamorar](https://open.spotify.com/track/0KP697XWzoz3griESGyk0c) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [Privilegio 2](https://open.spotify.com/album/1f4Sx32mc13J54vS8n1dIl) | 3:53 | 2020-08-25 | 2022-11-13 |
+| [No Me Quiero Enamorar](https://open.spotify.com/track/726bxM7rwE4bhJGPPaawQP) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [EN LETRAS DE OTROS](https://open.spotify.com/album/3nAC4AClBOoBxGzhSyyqil) | 3:53 | 2022-12-30 |  |
 | [Noche Loca](https://open.spotify.com/track/4rgmSfesIvoMPXWAf7ZzbU) | [La Pachanga](https://open.spotify.com/artist/1oexvVCdsajgZN2uxzvngC), [Gianni Dj](https://open.spotify.com/artist/0J1xUvZecyZkpfl87Tf9lF) | [50 Latin Summer Hits 2015](https://open.spotify.com/album/1X85D7gZvM91EBWIiN6rfg) | 4:35 | 2020-08-25 | 2022-07-16 |
 | [Pa Bravo Yo](https://open.spotify.com/track/13gvFt3Eji2xEuCb0PKkMZ) | [Justo Betancourt](https://open.spotify.com/artist/1Mq5Rgvn4D37tQdwuFL689) | [Pa Bravo Yo](https://open.spotify.com/album/7Hi3Xst5cdbaaAqpNm5vgC) | 3:44 | 2020-08-25 | 2022-07-23 |
 | [Pa' Bravo Yo](https://open.spotify.com/track/5kzoRHOhLIGVQGsxi8fWpy) | [Justo Betancourt](https://open.spotify.com/artist/1Mq5Rgvn4D37tQdwuFL689) | [Pa' Bravo Yo](https://open.spotify.com/album/0Ggehw0oAdAUNoipqO2Sqh) | 3:44 | 2020-08-25 |  |

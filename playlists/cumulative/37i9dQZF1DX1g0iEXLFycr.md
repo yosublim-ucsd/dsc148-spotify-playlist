@@ -4,7 +4,7 @@
 
 > Uplifting anthems to power you through 'til the weekend.
 
-475 songs - 1 day 4 hr 40 min
+476 songs - 1 day 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -405,8 +405,9 @@
 | [Summer Girl \- Bonus Track](https://open.spotify.com/track/1GZH9Sv6zCIse2GKihRHKy) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Summer Girl \(Bonus Track\)](https://open.spotify.com/album/2U2dYHLwLrHSQ3m2YQcNHj) | 3:25 | 2019-10-31 | 2020-02-17 |
 | [Summertime Sadness \(Lana Del Rey Vs\. Cedric Gervais\) \- Cedric Gervais Remix](https://open.spotify.com/track/7MYX0Vu0uMjVLCiy804sdX) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [Summertime Sadness \[Lana Del Rey vs\. Cedric Gervais\] \(Cedric Gervais Remix\)](https://open.spotify.com/album/2vFyRm6ZrYI7ravDNolYsr) | 3:34 | 2019-08-06 | 2019-08-09 |
 | [Sunchyme](https://open.spotify.com/track/2YOuBWIyHgyvHnLMpjzBf2) | [Dario G](https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A) | [Sunchyme](https://open.spotify.com/album/6TtZuP1WRvIScmqLlUwet2) | 3:55 | 2020-05-29 | 2022-07-29 |
-| [Sunchyme](https://open.spotify.com/track/5tQQCJaNdtafROf7M6hXax) | [Dario G](https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A) | [Dance Party](https://open.spotify.com/album/5uHL9eW2VsoCIdnxNJJkcK) | 3:55 | 2020-08-27 |  |
+| [Sunchyme](https://open.spotify.com/track/5tQQCJaNdtafROf7M6hXax) | [Dario G](https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A) | [Dance Party](https://open.spotify.com/album/5uHL9eW2VsoCIdnxNJJkcK) | 3:55 | 2020-08-27 | 2023-11-28 |
 | [Sunchyme](https://open.spotify.com/track/7okVXMtqISm1MlIn0wTRHR) | [Dario G](https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A) | [90s Party](https://open.spotify.com/album/4TnC3CrRmzlULobxl4M3SU) | 3:55 | 2020-08-27 | 2022-11-13 |
+| [Sunchyme \(Radio Edit\) \[Instrumental\] \- 2023 Remaster](https://open.spotify.com/track/1YnXX2CraK8O3G5V9KiWNY) | [Dario G](https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A) | [Sunmachine \(25th Anniversary Edition\)](https://open.spotify.com/album/0anIASKjSOCbsX901aIJPU) | 3:55 | 2020-08-27 |  |
 | [Sunchyme \- Radio Edit](https://open.spotify.com/track/4u55sKFBSfsyId54ttqiDD) | [Dario G](https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A) | [Sunchyme](https://open.spotify.com/album/7u2rcMeQfGbvLHcm0CTNy4) | 3:57 | 2020-08-27 | 2022-10-24 |
 | [Sunflower \- Spider\-Man: Into the Spider\-Verse](https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 2:38 | 2019-08-09 | 2019-10-27 |
 | [Sunflower \- Spider\-Man: Into the Spider\-Verse](https://open.spotify.com/track/1A6OTy97kk0mMdm78rHsm8) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Sunflower \(Spider\-Man: Into the Spider\-Verse\)](https://open.spotify.com/album/47LpgGVshd0tbFSbm9tTLb) | 2:38 | 2019-07-29\* | 2019-10-01 |

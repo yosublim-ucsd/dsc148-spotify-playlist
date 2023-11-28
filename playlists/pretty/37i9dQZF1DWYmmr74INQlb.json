@@ -1,12 +1,12 @@
 {
   "description": "The most essential R&B songs from the '00s. Cover: Amerie",
-  "num_followers": 4599514,
+  "num_followers": 4600270,
   "original_name": "I Love My '00s R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjkxYmVhNzM2M2MyZDJkN2IwZTQ4NGQ0NTFkOTZlOGI2MzUxNWVi",
+  "snapshot_id": "MCwwNGQyNzFlY2VlY2Q0Y2RhZGQyOTAyZDZhNDhlNTY1MjYyNGJkY2Rl",
   "tracks": [
     {
       "added_at": "2023-11-09 23:03:46",
@@ -197,6 +197,22 @@
       "url": "https://open.spotify.com/track/7Lf7oSEVdzZqTA0kEDSlS5"
     },
     {
+      "added_at": "2023-09-14 14:32:45",
+      "album": {
+        "name": "Because Of You",
+        "url": "https://open.spotify.com/album/52q9xNv8COtSU9phlbO5sg"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 266840,
+      "name": "Because Of You",
+      "url": "https://open.spotify.com/track/6CFPFnS9EcLs2I0nWqtWci"
+    },
+    {
       "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Songs In A Minor",
@@ -211,6 +227,22 @@
       "duration_ms": 210200,
       "name": "Fallin'",
       "url": "https://open.spotify.com/track/0KQx6HOpJueiSkztcS0r7D"
+    },
+    {
+      "added_at": "2023-09-14 14:32:45",
+      "album": {
+        "name": "Music Of The Sun",
+        "url": "https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 208106,
+      "name": "If It's Lovin' That You Want",
+      "url": "https://open.spotify.com/track/4x2rgtSFOI4hRvEvDj02KP"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -249,22 +281,6 @@
       "url": "https://open.spotify.com/track/7uKcScNXuO3MWw6LowBjW1"
     },
     {
-      "added_at": "2023-09-14 14:32:45",
-      "album": {
-        "name": "Because Of You",
-        "url": "https://open.spotify.com/album/52q9xNv8COtSU9phlbO5sg"
-      },
-      "artists": [
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 266840,
-      "name": "Because Of You",
-      "url": "https://open.spotify.com/track/6CFPFnS9EcLs2I0nWqtWci"
-    },
-    {
       "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Let Me Love You",
@@ -279,38 +295,6 @@
       "duration_ms": 256733,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/3ibKnFDaa3GhpPGlOUj7ff"
-    },
-    {
-      "added_at": "2023-09-14 14:32:45",
-      "album": {
-        "name": "Music Of The Sun",
-        "url": "https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 208106,
-      "name": "If It's Lovin' That You Want",
-      "url": "https://open.spotify.com/track/4x2rgtSFOI4hRvEvDj02KP"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
-        "name": "Cassie (U.S. Version)",
-        "url": "https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu"
-      },
-      "artists": [
-        {
-          "name": "Cassie",
-          "url": "https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH"
-        }
-      ],
-      "duration_ms": 220639,
-      "name": "Long Way 2 Go",
-      "url": "https://open.spotify.com/track/4v5kAh2wWyCSuKuhMJK8u6"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -331,6 +315,22 @@
       "duration_ms": 273133,
       "name": "You",
       "url": "https://open.spotify.com/track/5Y77SQxEr1eiofPeUTPHxM"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "Cassie (U.S. Version)",
+        "url": "https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu"
+      },
+      "artists": [
+        {
+          "name": "Cassie",
+          "url": "https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH"
+        }
+      ],
+      "duration_ms": 220639,
+      "name": "Long Way 2 Go",
+      "url": "https://open.spotify.com/track/4v5kAh2wWyCSuKuhMJK8u6"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -429,6 +429,22 @@
       "url": "https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU"
     },
     {
+      "added_at": "2022-08-22 09:03:37",
+      "album": {
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 231933,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/7z3N2W7Xz1t2G2sAO8wFVH"
+    },
+    {
       "added_at": "2022-08-21 11:22:08",
       "album": {
         "name": "Lovers Rock",
@@ -459,22 +475,6 @@
       "duration_ms": 238733,
       "name": "Didn't Cha Know",
       "url": "https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi"
-    },
-    {
-      "added_at": "2022-08-22 09:03:37",
-      "album": {
-        "name": "Confessions (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 231933,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/7z3N2W7Xz1t2G2sAO8wFVH"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -547,6 +547,22 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
+        "name": "8701",
+        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 247840,
+      "name": "U Got It Bad",
+      "url": "https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
         "name": "Invincible",
         "url": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 244826,
       "name": "Baby Boy (feat. Sean Paul)",
       "url": "https://open.spotify.com/track/4WY3HyGXsWqjFRCVD6gnTe"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
-        "name": "8701",
-        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 247840,
-      "name": "U Got It Bad",
-      "url": "https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "Trey Day",
-        "url": "https://open.spotify.com/album/6vnUL0NxqV1JrBvYW1M2wn"
-      },
-      "artists": [
-        {
-          "name": "Trey Songz",
-          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
-        }
-      ],
-      "duration_ms": 206413,
-      "name": "Can't Help but Wait",
-      "url": "https://open.spotify.com/track/5k3VjTwIsOjQ2woGz3Yx71"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
         "name": "Confessions (Expanded Edition)",
         "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 211200,
       "name": "Confessions Part II",
       "url": "https://open.spotify.com/track/7wBThXx7BGZHJJ3aN3OPvv"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "Trey Day",
+        "url": "https://open.spotify.com/album/6vnUL0NxqV1JrBvYW1M2wn"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "duration_ms": 206413,
+      "name": "Can't Help but Wait",
+      "url": "https://open.spotify.com/track/5k3VjTwIsOjQ2woGz3Yx71"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "Street Love",
-        "url": "https://open.spotify.com/album/6Lq7nLkIq7C0zVJp0OGSGO"
-      },
-      "artists": [
-        {
-          "name": "Lloyd",
-          "url": "https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9"
-        }
-      ],
-      "duration_ms": 209533,
-      "name": "Get It Shawty",
-      "url": "https://open.spotify.com/track/2a03afRiyAbNAleOByVju4"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
         "name": "Mahogany Soul",
         "url": "https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 270893,
       "name": "Wish I Didn't Miss You",
       "url": "https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "Street Love",
+        "url": "https://open.spotify.com/album/6Lq7nLkIq7C0zVJp0OGSGO"
+      },
+      "artists": [
+        {
+          "name": "Lloyd",
+          "url": "https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9"
+        }
+      ],
+      "duration_ms": 209533,
+      "name": "Get It Shawty",
+      "url": "https://open.spotify.com/track/2a03afRiyAbNAleOByVju4"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1289,6 +1289,22 @@
       "url": "https://open.spotify.com/track/4Cv5dkUBqepa0siwGREihD"
     },
     {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "Invincible",
+        "url": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 279160,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/0rT9f5BSZrZ6DvzfBEckG0"
+    },
+    {
       "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Ready (Deluxe)",
@@ -1307,22 +1323,6 @@
       "duration_ms": 207546,
       "name": "Say Aah (feat. Fabolous)",
       "url": "https://open.spotify.com/track/2fQ6sBFWaLv2Gxos4igHLy"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
-        "name": "Invincible",
-        "url": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 279160,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/0rT9f5BSZrZ6DvzfBEckG0"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -1397,6 +1397,22 @@
       "url": "https://open.spotify.com/track/3oXNIpoUMdk8qGkwCeXqGv"
     },
     {
+      "added_at": "2023-06-20 16:00:00",
+      "album": {
+        "name": "Dangerously In Love",
+        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 293133,
+      "name": "Dangerously In Love",
+      "url": "https://open.spotify.com/track/0KFuXEdOp5QfIfxHR6TJSm"
+    },
+    {
       "added_at": "2022-08-21 11:22:08",
       "album": {
         "name": "Love/Hate",
@@ -1415,22 +1431,6 @@
       "duration_ms": 262773,
       "name": "Shawty Is Da Shit",
       "url": "https://open.spotify.com/track/5RC9YDHON0nXKmcQrL6WV6"
-    },
-    {
-      "added_at": "2023-06-20 16:00:00",
-      "album": {
-        "name": "Dangerously In Love",
-        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 293133,
-      "name": "Dangerously In Love",
-      "url": "https://open.spotify.com/track/0KFuXEdOp5QfIfxHR6TJSm"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -1497,6 +1497,22 @@
       "url": "https://open.spotify.com/track/5dxHF4lrDimKqnI3GaZUmC"
     },
     {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "Aijuswanaseing",
+        "url": "https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c"
+      },
+      "artists": [
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "duration_ms": 251426,
+      "name": "Just Friends (Sunny)",
+      "url": "https://open.spotify.com/track/5jgEJXjECdlhzNgfITSTVm"
+    },
+    {
       "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "The Emancipation of Mimi",
@@ -1527,22 +1543,6 @@
       "duration_ms": 224146,
       "name": "Girl",
       "url": "https://open.spotify.com/track/3s2MyU2YCwNNwcSokt0jXD"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
-        "name": "Aijuswanaseing",
-        "url": "https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c"
-      },
-      "artists": [
-        {
-          "name": "Musiq Soulchild",
-          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
-        }
-      ],
-      "duration_ms": 251426,
-      "name": "Just Friends (Sunny)",
-      "url": "https://open.spotify.com/track/5jgEJXjECdlhzNgfITSTVm"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1579,38 +1579,6 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "Ghetto Love",
-        "url": "https://open.spotify.com/album/2Hvu2Yh4ghgcLvYLr3V5dM"
-      },
-      "artists": [
-        {
-          "name": "Jaheim",
-          "url": "https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3"
-        }
-      ],
-      "duration_ms": 263866,
-      "name": "Just in Case",
-      "url": "https://open.spotify.com/track/0YHBvFhfCJHyP5qfgtiX1o"
-    },
-    {
-      "added_at": "2023-01-21 18:20:05",
-      "album": {
-        "name": "Memoirs of an imperfect Angel",
-        "url": "https://open.spotify.com/album/3RPImDZ7Ihh5YR5iJh1gH1"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 238866,
-      "name": "It's A Wrap",
-      "url": "https://open.spotify.com/track/0SgbP5ZZOsUiHlE8EfeHma"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
         "name": "Open Letter",
         "url": "https://open.spotify.com/album/5nfFCN6B0AhReHctfLi1vL"
       },
@@ -1623,6 +1591,22 @@
       "duration_ms": 284666,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/0CmXXEwul09Kf8X68lPA5l"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "Ghetto Love",
+        "url": "https://open.spotify.com/album/2Hvu2Yh4ghgcLvYLr3V5dM"
+      },
+      "artists": [
+        {
+          "name": "Jaheim",
+          "url": "https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3"
+        }
+      ],
+      "duration_ms": 263866,
+      "name": "Just in Case",
+      "url": "https://open.spotify.com/track/0YHBvFhfCJHyP5qfgtiX1o"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1671,6 +1655,22 @@
       "duration_ms": 253106,
       "name": "Lovers Rock",
       "url": "https://open.spotify.com/track/77lKjGkhvWuimTzQxA4STK"
+    },
+    {
+      "added_at": "2023-01-21 18:20:05",
+      "album": {
+        "name": "Memoirs of an imperfect Angel",
+        "url": "https://open.spotify.com/album/3RPImDZ7Ihh5YR5iJh1gH1"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 238866,
+      "name": "It's A Wrap",
+      "url": "https://open.spotify.com/track/0SgbP5ZZOsUiHlE8EfeHma"
     },
     {
       "added_at": "2023-03-04 19:43:24",

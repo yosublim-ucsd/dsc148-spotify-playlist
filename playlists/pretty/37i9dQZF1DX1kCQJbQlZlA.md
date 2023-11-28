@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 
 > Những khúc nhạc quê hương ngợi ca vẻ đẹp Việt Nam.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,086 likes - 75 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,095 likes - 75 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 | 74 | [Mùa Xuân Quê Nhà](https://open.spotify.com/track/6qXSffGhxTwZu7liWKxmyi) | [Lưu Ánh Loan](https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V), [Công Bằng](https://open.spotify.com/artist/3Vqf1sIpRPEhBtEHojm4Bm) | [Tết Xưa](https://open.spotify.com/album/21gWQ1KpAyWWN07AqOCdF0) | 4:37 |
 | 75 | [Người Em Vỹ Dạ](https://open.spotify.com/track/24s2jhwZLfPAP1ZP8RFiqO) | [Quang Lê](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8) | [Chuyện Tình Hoa 10 Giờ](https://open.spotify.com/album/0huTCpWAp5Ibqhb80DwUVR) | 4:34 |
 
-Snapshot ID: `MCwzODM0MjgwY2Q5MDFlNzNjYjIyMjBhMTE4NDAyZTlkMDljODE0OGJm`
+Snapshot ID: `MCwyZTU2MmNjZDM3NDM5NTIxMTBhZTkyM2NhNTlmYmExYWMwYjU0ZWVk`

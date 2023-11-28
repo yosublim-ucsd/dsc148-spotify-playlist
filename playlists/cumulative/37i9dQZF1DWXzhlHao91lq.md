@@ -4,7 +4,7 @@
 
 > 以輕快又富原野氣息的民謠搭配午茶，讓耳際、齒頰一同留香，好心情開花結果。
 
-219 songs - 12 hr 30 min
+220 songs - 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [mountain](https://open.spotify.com/track/7ymXZxnw48FcoGm27NhMlu) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C) | [mountain](https://open.spotify.com/album/2PHjceB7h7ABJ4dWkkUkHS) | 1:42 | 2023-05-29 | 2023-06-06 |
 | [Mélancolie](https://open.spotify.com/track/7sybHzhjxg2vqSVBCY4u7t) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Mélancolie](https://open.spotify.com/album/6GBos4tSuQ5btdAosIyvxA) | 2:42 | 2022-10-10 | 2023-11-17 |
 | [Never Knew feat\. lewloh & Joie Tan](https://open.spotify.com/track/5rlWvz401LdGFhSBtsZbHj) | [I love you Orchestra Swing Style](https://open.spotify.com/artist/03Avx5uX73mr7MtZZzkzls), [lewloh](https://open.spotify.com/artist/31TM5zBknJ7ZInbxnR0rlX), [Joie Tan](https://open.spotify.com/artist/1kjkddXmDG9vdt7P8lwYUd) | [Never Knew feat\. lewloh & Joie Tan](https://open.spotify.com/album/6gnsa07ZlU8pscDpf8jJ0Y) | 2:30 | 2022-05-30 | 2022-07-29 |
-| [No Fun](https://open.spotify.com/track/6IGq3RtjQ7o25MvImbKzRQ) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi), [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [No Fun / Lucky for You](https://open.spotify.com/album/7DVkaDX0Y47rRsJqgvHjyh) | 3:31 | 2023-01-23 |  |
+| [No Fun](https://open.spotify.com/track/6IGq3RtjQ7o25MvImbKzRQ) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi), [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [No Fun / Lucky for You](https://open.spotify.com/album/7DVkaDX0Y47rRsJqgvHjyh) | 3:31 | 2023-01-23 | 2023-11-28 |
 | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY) | 3:48 | 2022-10-31 | 2022-11-13 |
 | [Ocean \(feat\. Meghan Trainor\)](https://open.spotify.com/track/1PwPlrkSztcrXcRFzO2DnH) | [LunchMoney Lewis](https://open.spotify.com/artist/2iUbk5KhZYZt4CRvWbwb7S), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Ocean \(feat\. Meghan Trainor\)](https://open.spotify.com/album/3kyLA7vyU0y5rpUP6Ksely) | 3:36 | 2023-01-16 | 2023-04-18 |
 | [Ocean \(feat\. Meghan Trainor\)](https://open.spotify.com/track/5rkAjs38ImEoJJBHW3T8pb) | [LunchMoney Lewis](https://open.spotify.com/artist/2iUbk5KhZYZt4CRvWbwb7S), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Ocean \(feat\. Meghan Trainor\)](https://open.spotify.com/album/0k7HiB1RSPBMTzwY93aGLv) | 3:36 | 2022-10-31 | 2022-12-03 |
@@ -191,6 +191,7 @@
 | [Think Before I Talk](https://open.spotify.com/track/0W23tLZdwTqLwcmZ3eUhLp) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Leave It Beautiful \(Complete\)](https://open.spotify.com/album/0inJNc0fFD60UAIdFbnedW) | 3:04 | 2022-08-08 | 2023-10-03 |
 | [Thinking About You](https://open.spotify.com/track/5gTCp2dIRTLgJ8ZZllw0bR) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Thinking About You](https://open.spotify.com/album/6Av9V14GQ4dIqQj9QLBhec) | 3:37 | 2023-02-13 | 2023-08-31 |
 | [Three Little Words](https://open.spotify.com/track/0DOSrxHF1kU8DrNcFc4TrT) | [Agatha Chelsea](https://open.spotify.com/artist/5ODv2f6HUg3lyBdyJ2zyLX) | [Three Little Words](https://open.spotify.com/album/4TWtpRxJAwyAiTDHSOZp2c) | 3:33 | 2022-05-30 | 2022-07-29 |
+| [Throw Your Arms Around Me](https://open.spotify.com/track/0CVwSCQOx3CMHjwDCmaElh) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Mushroom: 50 Years Of Making Noise \(Reimagined\)](https://open.spotify.com/album/4SRtPtUkg4izzJZ2Kr2LMJ) | 3:03 | 2023-11-27 |  |
 | [Tiger Striped Sky](https://open.spotify.com/track/4C2aiAVTTVyZbCQZst5Xu1) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Little Giant](https://open.spotify.com/album/3ZTS2uxdWAkBnIXzsCY8PZ) | 4:01 | 2022-07-25 |  |
 | [Time After Time](https://open.spotify.com/track/0QZxFnSMJkaMnyRVQSQDIY) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [Time After Time](https://open.spotify.com/album/6IszYnZbJty6IKj2qfH2Hg) | 3:34 | 2022-05-30 | 2022-07-29 |
 | [tiny little titties](https://open.spotify.com/track/09jmvYB5lVdvLeKxkjtCcW) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [serious person \(part 1\)](https://open.spotify.com/album/6gg1EATMm8D7SM4YxPnXZ4) | 3:04 | 2023-06-05 | 2023-06-20 |

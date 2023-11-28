@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
-  "num_followers": 11862,
+  "num_followers": 11905,
   "original_name": "Funny Marco's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzY4MWMwZWY2YTk1N2Y3ODUzODMxMzBjNDQyYzE1MTQ5OGU3ODBm",
+  "snapshot_id": "MCwwMmI1Nzk3MWQ1NjE1ZDg5MWZmMjE3OGU5MWJiZjYxYzA0Y2IzZTY4",
   "tracks": [
     {
       "added_at": "2022-10-01 20:31:11",
@@ -147,6 +147,22 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
+        "name": "No Love Lost",
+        "url": "https://open.spotify.com/album/0pwGvLOBpgIgFlrQVSRqh9"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "duration_ms": 106285,
+      "name": "No Love Lost",
+      "url": "https://open.spotify.com/track/7HbSng0v9scr10DcmAZxe9"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
         "name": "Beyond Bulletproof",
         "url": "https://open.spotify.com/album/3Ud5r7QHfMF1UhH8a5M1cH"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 192880,
       "name": "No More Parties - Remix",
       "url": "https://open.spotify.com/track/5A4WcRuy0FFEAC5pAK43oa"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
-        "name": "No Love Lost",
-        "url": "https://open.spotify.com/album/0pwGvLOBpgIgFlrQVSRqh9"
-      },
-      "artists": [
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        }
-      ],
-      "duration_ms": 106285,
-      "name": "No Love Lost",
-      "url": "https://open.spotify.com/track/7HbSng0v9scr10DcmAZxe9"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -315,26 +315,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "BIG PURR (Prrdd)",
-        "url": "https://open.spotify.com/album/4I7EKdVEB8S9LjRfNoOV0o"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
-        }
-      ],
-      "duration_ms": 116760,
-      "name": "BIG PURR (Prrdd) (feat. Pooh Shiesty)",
-      "url": "https://open.spotify.com/track/5byWPNSh2hi0ULmDxBgLyV"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "1-800-HIT-EAZY",
         "url": "https://open.spotify.com/album/49sZjOYtCwxpOhbwDXmaUi"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 200013,
       "name": "Period",
       "url": "https://open.spotify.com/track/6SNYJG1rOe01x83XtaXXNi"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "BIG PURR (Prrdd)",
+        "url": "https://open.spotify.com/album/4I7EKdVEB8S9LjRfNoOV0o"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        }
+      ],
+      "duration_ms": 116760,
+      "name": "BIG PURR (Prrdd) (feat. Pooh Shiesty)",
+      "url": "https://open.spotify.com/track/5byWPNSh2hi0ULmDxBgLyV"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -427,6 +427,22 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
+        "name": "Blessed, I Guess",
+        "url": "https://open.spotify.com/album/2g74qnJkJJcXB0XAZbBXAL"
+      },
+      "artists": [
+        {
+          "name": "Lil Poppa",
+          "url": "https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg"
+        }
+      ],
+      "duration_ms": 124767,
+      "name": "Boys To Men",
+      "url": "https://open.spotify.com/track/5EBrAbr17vTY143Fo1Cwop"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
         "name": "VORY",
         "url": "https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 183182,
       "name": "Ain't It Funny ft. Meek Mill",
       "url": "https://open.spotify.com/track/0ftCFsa6FKV37aB2CVtkzd"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
-        "name": "Blessed, I Guess",
-        "url": "https://open.spotify.com/album/2g74qnJkJJcXB0XAZbBXAL"
-      },
-      "artists": [
-        {
-          "name": "Lil Poppa",
-          "url": "https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg"
-        }
-      ],
-      "duration_ms": 124767,
-      "name": "Boys To Men",
-      "url": "https://open.spotify.com/track/5EBrAbr17vTY143Fo1Cwop"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -599,6 +599,26 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
+        "name": "Sayless",
+        "url": "https://open.spotify.com/album/09cQYh4fbHWyUwRBYbg4nJ"
+      },
+      "artists": [
+        {
+          "name": "Seddy Hendrinx",
+          "url": "https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 182258,
+      "name": "RPS & Codeine (feat. Gunna)",
+      "url": "https://open.spotify.com/track/4ZUnCQ1wwsxIt2r43Mb2YY"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
         "name": "Flawed (feat. Gunna)",
         "url": "https://open.spotify.com/album/79nszPHl1lNtFjEThFXYOI"
       },
@@ -703,26 +723,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "Sayless",
-        "url": "https://open.spotify.com/album/09cQYh4fbHWyUwRBYbg4nJ"
-      },
-      "artists": [
-        {
-          "name": "Seddy Hendrinx",
-          "url": "https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 182258,
-      "name": "RPS & Codeine (feat. Gunna)",
-      "url": "https://open.spotify.com/track/4ZUnCQ1wwsxIt2r43Mb2YY"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "VORY",
         "url": "https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA"
       },
@@ -795,6 +795,26 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
+        "name": "Sayless",
+        "url": "https://open.spotify.com/album/09cQYh4fbHWyUwRBYbg4nJ"
+      },
+      "artists": [
+        {
+          "name": "Seddy Hendrinx",
+          "url": "https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 155224,
+      "name": "45 (feat. A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/5DVo2XcdsgEbBsN4bdw5b7"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
         "name": "missunderstood\u2026still",
         "url": "https://open.spotify.com/album/4ko4EFBOkaaPHfQDRr8UAO"
       },
@@ -863,26 +883,6 @@
       "duration_ms": 163520,
       "name": "Bulgari Shades",
       "url": "https://open.spotify.com/track/5Yg6YjAygNGeBnow6xrCQ6"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
-        "name": "Sayless",
-        "url": "https://open.spotify.com/album/09cQYh4fbHWyUwRBYbg4nJ"
-      },
-      "artists": [
-        {
-          "name": "Seddy Hendrinx",
-          "url": "https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 155224,
-      "name": "45 (feat. A Boogie Wit da Hoodie)",
-      "url": "https://open.spotify.com/track/5DVo2XcdsgEbBsN4bdw5b7"
     },
     {
       "added_at": "2022-10-01 20:31:11",

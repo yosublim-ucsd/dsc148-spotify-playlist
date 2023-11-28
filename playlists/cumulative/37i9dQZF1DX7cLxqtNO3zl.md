@@ -8,9 +8,9 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/3ZVKI8jix6PjEFx2xFBFhz) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7IfUPFe5MSwcAp2Vw8ohF5) | 0:00 | 2023-01-24 |  |
+| [](https://open.spotify.com/track/3ZVKI8jix6PjEFx2xFBFhz) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7IfUPFe5MSwcAp2Vw8ohF5) | 0:00 | 2023-01-24 | 2023-11-28 |
 | [3 Sneen](https://open.spotify.com/track/6ZddaoTZy0vqf4vTmqUbJs) | [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [3 Sneen](https://open.spotify.com/album/6IOqUxSF8Il0r0aXFTt4rt) | 3:01 | 2023-01-24 | 2023-11-21 |
-| [Aameen 2.0](https://open.spotify.com/track/2qbNhg5R639B4SP2ROwTbU) | [Hashmat Sultana](https://open.spotify.com/artist/6ez5nZKCRO9HY08CWrHZok) | [Aameen 2.0](https://open.spotify.com/album/3XP44vQpUA7i5rw4fbuNZL) | 4:26 | 2023-01-24 | 2023-10-12 |
+| [Aameen 2.0](https://open.spotify.com/track/2qbNhg5R639B4SP2ROwTbU) | [Hashmat Sultana](https://open.spotify.com/artist/6ez5nZKCRO9HY08CWrHZok) | [Aameen 2.0](https://open.spotify.com/album/3XP44vQpUA7i5rw4fbuNZL) | 4:26 | 2023-01-24 |  |
 | [Angel](https://open.spotify.com/track/5s6w6LGupX78gmYBnD6PyX) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP) | [Angel](https://open.spotify.com/album/6ayXe6K6BCesXlSeYFFowA) | 2:55 | 2023-01-24 |  |
 | [Bikhtissar](https://open.spotify.com/track/2YG9XwTOEWUj0BhiU5XgpL) | [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [Bikhtissar](https://open.spotify.com/album/0xw0IgIfc7CVIRy6Ktlqyg) | 3:32 | 2023-01-24 |  |
 | [Bollywood](https://open.spotify.com/track/75bnrRBe7WXrlM8vxBQMOI) | [In\-s](https://open.spotify.com/artist/5JfeJl3VqY6UcwAKZVXKQM) | [Bollywood](https://open.spotify.com/album/4a4Ilmyy4LticNI8wjxdEh) | 3:09 | 2023-01-24 |  |

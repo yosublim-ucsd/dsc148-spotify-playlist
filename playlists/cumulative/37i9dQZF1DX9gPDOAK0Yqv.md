@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno.
 
-385 songs - 1 day 8 hr 42 min
+386 songs - 1 day 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Day 8](https://open.spotify.com/track/2ufB9kXjLfaVV52ohLj0vl) | [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh) | [Day 8](https://open.spotify.com/album/2lnpD8ULVISTgydVLUBzTN) | 6:04 | 2023-08-04 | 2023-09-22 |
 | [Deeper Grounds](https://open.spotify.com/track/2StAd9SqF7MMShJ5VCfs46) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Mahri](https://open.spotify.com/artist/5aB4vV5H1O1zAoI4XLW7IX) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 4:13 | 2022-11-23 | 2023-11-16 |
 | [Deja Vu](https://open.spotify.com/track/0jwWG0oSeKd5CefJa4jcbe) | [Monarke](https://open.spotify.com/artist/5uPPX33s71WjX25P1DfqVk) | [Deja Vu](https://open.spotify.com/album/5pmPKOWQ4evmNDfYjl9MiP) | 7:28 | 2022-11-23 | 2022-12-16 |
+| [Desert Sun](https://open.spotify.com/track/2hEZYp3vO0qpVjOGwW6Ctv) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Realm Of Consciousness Pt\. VI](https://open.spotify.com/album/69XacGhPgd7BbJCfnhUhob) | 5:17 | 2023-11-24 |  |
 | [Desire](https://open.spotify.com/track/4RK3K3tMjzyLbszKzqyAsi) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8) | [Desire](https://open.spotify.com/album/1lZ0i3cnudsI42aT08F6fq) | 3:19 | 2023-06-30 |  |
 | [Destiny](https://open.spotify.com/track/06ZvFjzwcaqJRZbMkfWuaf) | [Meyer](https://open.spotify.com/artist/58VEQXhuWnFPbxlWh79Sr2) | [Hive Mind](https://open.spotify.com/album/1Dm9ruv1lwZJC3tgJgoMVL) | 3:31 | 2022-12-28 | 2023-01-06 |
 | [Devon \- Oliver Huntemann Remix](https://open.spotify.com/track/0f7ifN4vXV4z2C52POeDQT) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [Oliver Huntemann](https://open.spotify.com/artist/0NBGssQpgDczTsVEp4pCbR) | [Devon \(Oliver Huntemann Remix\)](https://open.spotify.com/album/1lRw2Qay0MuZHxFxkZQeEU) | 6:38 | 2022-11-23 |  |
@@ -317,7 +318,7 @@
 | [Strangers \(with Mansionair\) \- Nora En Pure Remix](https://open.spotify.com/track/602wo0wA2pEjcZYX7X2uNh) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s), [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Strangers \(with Mansionair\) \[Nora En Pure Remix\]](https://open.spotify.com/album/16jQLp6Sln8tJmA033mnqp) | 3:10 | 2022-12-28 | 2023-01-06 |
 | [Stream State](https://open.spotify.com/track/2rL6RiorPm6fWSEFUNX8cF) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Fluid Meditations](https://open.spotify.com/album/3Tb3OLF2gtWesqXDqFvEEM) | 6:04 | 2023-02-04 |  |
 | [Stuck In Melodies](https://open.spotify.com/track/1wITnMoMLpXEeQOXOjvm37) | [Joris Delacroix](https://open.spotify.com/artist/3HRRzIZNQFus3xlUx2xKy1) | [Stuck In Melodies](https://open.spotify.com/album/0jwW2bXdLRcRadnRYIws3D) | 3:31 | 2023-08-04 | 2023-08-17 |
-| [Sweet Moment](https://open.spotify.com/track/5CoUL7T9706eA3BIG2KbNA) | [Alice DiMar](https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN) | [Sweet Moment](https://open.spotify.com/album/56BDudw4Ep7daFvo9tsd10) | 2:54 | 2023-03-03 |  |
+| [Sweet Moment](https://open.spotify.com/track/5CoUL7T9706eA3BIG2KbNA) | [Alice DiMar](https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN) | [Sweet Moment](https://open.spotify.com/album/56BDudw4Ep7daFvo9tsd10) | 2:54 | 2023-03-03 | 2023-11-28 |
 | [Sweet Surrender](https://open.spotify.com/track/6AYnqhQQeRdLErjV4X999K) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx) | [Sweet Surrender](https://open.spotify.com/album/3oeckQ2isCZKg9GD1dk98W) | 3:11 | 2023-02-04 | 2023-06-01 |
 | [Syren](https://open.spotify.com/track/3hGXZKj3lYKKRQtKE8XN55) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Genesys](https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y) | 3:17 | 2023-08-11 | 2023-11-25 |
 | [Syren](https://open.spotify.com/track/7nj50KCxnSOUGNOvLP0gEn) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Syren](https://open.spotify.com/album/5A7NPffONvtKvxAg91iuEP) | 3:17 | 2023-07-28 | 2023-08-14 |

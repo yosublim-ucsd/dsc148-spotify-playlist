@@ -1,41 +1,13 @@
 {
   "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. Fran Laoren",
-  "num_followers": 123555,
+  "num_followers": 123577,
   "original_name": "helium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjQxZGRlYTk3Zjk4MWFiMGI1MmQwOWFjNGU1OGRiNGI3MDUzODNm",
+  "snapshot_id": "MCxiMzU0ODFhMGVhNDAwOWQzNzQ5YjdhYzhkMmU1YTNmNTkyYWRlZTcw",
   "tracks": [
-    {
-      "added_at": "2023-11-16 22:59:00",
-      "album": {
-        "name": "Me rodean (feat. Orslok)",
-        "url": "https://open.spotify.com/album/0hKClB3h5t5wsfmX4hLPxh"
-      },
-      "artists": [
-        {
-          "name": "Fran Laoren",
-          "url": "https://open.spotify.com/artist/2g1W9bFVmdIyxvktrdDiO4"
-        },
-        {
-          "name": "BLNCO",
-          "url": "https://open.spotify.com/artist/0uyyPsii9AYIF6eu60pS4p"
-        },
-        {
-          "name": "alequi",
-          "url": "https://open.spotify.com/artist/4Rg6w1AZFPOeY8SurpUTPH"
-        },
-        {
-          "name": "Orslok",
-          "url": "https://open.spotify.com/artist/2TzPi0fPdqVesjZ3Y2wY43"
-        }
-      ],
-      "duration_ms": 226789,
-      "name": "Me rodean (feat. Orslok)",
-      "url": "https://open.spotify.com/track/08KAerPtahxPaEFN6ydLUC"
-    },
     {
       "added_at": "2023-11-16 22:59:00",
       "album": {
@@ -75,6 +47,34 @@
       "duration_ms": 199741,
       "name": "tierraplana",
       "url": "https://open.spotify.com/track/3EXRT7jILUvCiCumT4bP27"
+    },
+    {
+      "added_at": "2023-11-16 22:59:00",
+      "album": {
+        "name": "Me rodean (feat. Orslok)",
+        "url": "https://open.spotify.com/album/0hKClB3h5t5wsfmX4hLPxh"
+      },
+      "artists": [
+        {
+          "name": "Fran Laoren",
+          "url": "https://open.spotify.com/artist/2g1W9bFVmdIyxvktrdDiO4"
+        },
+        {
+          "name": "BLNCO",
+          "url": "https://open.spotify.com/artist/0uyyPsii9AYIF6eu60pS4p"
+        },
+        {
+          "name": "alequi",
+          "url": "https://open.spotify.com/artist/4Rg6w1AZFPOeY8SurpUTPH"
+        },
+        {
+          "name": "Orslok",
+          "url": "https://open.spotify.com/artist/2TzPi0fPdqVesjZ3Y2wY43"
+        }
+      ],
+      "duration_ms": 226789,
+      "name": "Me rodean (feat. Orslok)",
+      "url": "https://open.spotify.com/track/08KAerPtahxPaEFN6ydLUC"
     },
     {
       "added_at": "2023-11-16 22:59:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-11-16 22:59:00",
       "album": {
-        "name": "Peluchito",
-        "url": "https://open.spotify.com/album/69By2muu3jLYjyMGe9v0gd"
-      },
-      "artists": [
-        {
-          "name": "Samantha Hudson",
-          "url": "https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Peluchito",
-      "url": "https://open.spotify.com/track/41C5jdJGFtrL44emVlpFmp"
-    },
-    {
-      "added_at": "2023-11-16 22:59:00",
-      "album": {
         "name": "Pierdo el sentido (YUNG PRADO Un Kiss Remix)",
         "url": "https://open.spotify.com/album/5cbQNsrCT8WFZqwdMYdqKC"
       },
@@ -711,18 +695,18 @@
     {
       "added_at": "2023-11-16 22:59:00",
       "album": {
-        "name": "arroz",
-        "url": "https://open.spotify.com/album/0jjEpl7QHid5llB360u7rE"
+        "name": "Peluchito",
+        "url": "https://open.spotify.com/album/69By2muu3jLYjyMGe9v0gd"
       },
       "artists": [
         {
-          "name": "Cma",
-          "url": "https://open.spotify.com/artist/4D0v8wSG179N0eMjwXFlDN"
+          "name": "Samantha Hudson",
+          "url": "https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92"
         }
       ],
-      "duration_ms": 153195,
-      "name": "arroz",
-      "url": "https://open.spotify.com/track/1nrPicb4hDsUQayHExqFO7"
+      "duration_ms": 148000,
+      "name": "Peluchito",
+      "url": "https://open.spotify.com/track/41C5jdJGFtrL44emVlpFmp"
     },
     {
       "added_at": "2023-11-16 22:59:00",
@@ -743,6 +727,22 @@
       "duration_ms": 169750,
       "name": "debo dejar de fumar",
       "url": "https://open.spotify.com/track/23ALSFU0TSYIf4Hp2IZdpG"
+    },
+    {
+      "added_at": "2023-11-16 22:59:00",
+      "album": {
+        "name": "arroz",
+        "url": "https://open.spotify.com/album/0jjEpl7QHid5llB360u7rE"
+      },
+      "artists": [
+        {
+          "name": "Cma",
+          "url": "https://open.spotify.com/artist/4D0v8wSG179N0eMjwXFlDN"
+        }
+      ],
+      "duration_ms": 153195,
+      "name": "arroz",
+      "url": "https://open.spotify.com/track/1nrPicb4hDsUQayHExqFO7"
     },
     {
       "added_at": "2023-11-16 22:59:00",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-11-16 22:59:00",
       "album": {
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/34rNPzXxoTSYuvwxpTVVgI"
+      },
+      "artists": [
+        {
+          "name": "Japogang",
+          "url": "https://open.spotify.com/artist/506Thef5DTWpeFlL88CdNX"
+        }
+      ],
+      "duration_ms": 131076,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/1iYITh2uynZrMuOP1PKa7a"
+    },
+    {
+      "added_at": "2023-11-16 22:59:00",
+      "album": {
         "name": "Dejad Ke los Ni\u00f1os Se Acerquen a Nerve Agent",
         "url": "https://open.spotify.com/album/54qjLdL6oHRPDLyXr1ykg7"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 179161,
       "name": "Los Ricos Tambi\u00e9n Lloran",
       "url": "https://open.spotify.com/track/2ioswi7hULr5TIBvnMqV27"
-    },
-    {
-      "added_at": "2023-11-16 22:59:00",
-      "album": {
-        "name": "Fly",
-        "url": "https://open.spotify.com/album/34rNPzXxoTSYuvwxpTVVgI"
-      },
-      "artists": [
-        {
-          "name": "Japogang",
-          "url": "https://open.spotify.com/artist/506Thef5DTWpeFlL88CdNX"
-        }
-      ],
-      "duration_ms": 131076,
-      "name": "Fly",
-      "url": "https://open.spotify.com/track/1iYITh2uynZrMuOP1PKa7a"
     },
     {
       "added_at": "2023-11-16 22:59:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-11-16 22:59:00",
       "album": {
+        "name": "suave",
+        "url": "https://open.spotify.com/album/3AaFB3c8RAVfu0Y6vTXTvv"
+      },
+      "artists": [
+        {
+          "name": "Nina Emocional",
+          "url": "https://open.spotify.com/artist/6Dqvme3Uru6IJaryxBgknz"
+        }
+      ],
+      "duration_ms": 146526,
+      "name": "suave",
+      "url": "https://open.spotify.com/track/4cwcXuBuI2K9b3xtv3Reis"
+    },
+    {
+      "added_at": "2023-11-16 22:59:00",
+      "album": {
         "name": "Pens\u00e1ndote",
         "url": "https://open.spotify.com/album/6wygbshVymM5s9O72bQoXv"
       },
@@ -983,22 +999,6 @@
     {
       "added_at": "2023-11-16 22:59:00",
       "album": {
-        "name": "suave",
-        "url": "https://open.spotify.com/album/3AaFB3c8RAVfu0Y6vTXTvv"
-      },
-      "artists": [
-        {
-          "name": "Nina Emocional",
-          "url": "https://open.spotify.com/artist/6Dqvme3Uru6IJaryxBgknz"
-        }
-      ],
-      "duration_ms": 146526,
-      "name": "suave",
-      "url": "https://open.spotify.com/track/4cwcXuBuI2K9b3xtv3Reis"
-    },
-    {
-      "added_at": "2023-11-16 22:59:00",
-      "album": {
         "name": "ESPINAS",
         "url": "https://open.spotify.com/album/3lGBmbcL5HhyBZOLdVvnSO"
       },
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2023-11-16 22:59:00",
       "album": {
-        "name": "Palante",
-        "url": "https://open.spotify.com/album/0sBRsyQk7EbELxvb4nTcrr"
-      },
-      "artists": [
-        {
-          "name": "El Virtual",
-          "url": "https://open.spotify.com/artist/1M6Haz9vxliXQXeVO49CSY"
-        },
-        {
-          "name": "Valley Fresh On Sauce",
-          "url": "https://open.spotify.com/artist/1yij0rXHCHACWoIJVBjULZ"
-        }
-      ],
-      "duration_ms": 111552,
-      "name": "Palante",
-      "url": "https://open.spotify.com/track/2IsaQLwwY53fruOUKyhlw9"
-    },
-    {
-      "added_at": "2023-11-16 22:59:00",
-      "album": {
         "name": "LA ESKINA DEL ESTANKE",
         "url": "https://open.spotify.com/album/2VukIjOu9AXoe66SxCFJTF"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 190158,
       "name": "SONRISAS & L\u00c1GRIMAS",
       "url": "https://open.spotify.com/track/5iov0X5z1uz67GVrbQswaL"
+    },
+    {
+      "added_at": "2023-11-16 22:59:00",
+      "album": {
+        "name": "Palante",
+        "url": "https://open.spotify.com/album/0sBRsyQk7EbELxvb4nTcrr"
+      },
+      "artists": [
+        {
+          "name": "El Virtual",
+          "url": "https://open.spotify.com/artist/1M6Haz9vxliXQXeVO49CSY"
+        },
+        {
+          "name": "Valley Fresh On Sauce",
+          "url": "https://open.spotify.com/artist/1yij0rXHCHACWoIJVBjULZ"
+        }
+      ],
+      "duration_ms": 111552,
+      "name": "Palante",
+      "url": "https://open.spotify.com/track/2IsaQLwwY53fruOUKyhlw9"
     },
     {
       "added_at": "2023-11-16 22:59:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-11-16 22:59:00",
       "album": {
-        "name": "PURGATORIO",
-        "url": "https://open.spotify.com/album/6VIEndH3EFAVPvCUhlZWtl"
-      },
-      "artists": [
-        {
-          "name": "Espineli",
-          "url": "https://open.spotify.com/artist/74l577inT1nnMPPMajMv2f"
-        }
-      ],
-      "duration_ms": 118904,
-      "name": "MICPAPALOTL",
-      "url": "https://open.spotify.com/track/13PBhn5XdUPYty1ErFsru3"
-    },
-    {
-      "added_at": "2023-11-16 22:59:00",
-      "album": {
         "name": "EL TRUCO",
         "url": "https://open.spotify.com/album/1Xp2oUvdcyeb4KTIErNh37"
       },
@@ -1651,6 +1635,42 @@
       "duration_ms": 114081,
       "name": "Un Grito",
       "url": "https://open.spotify.com/track/6y4rsutCVbl9hJbWDwNYA5"
+    },
+    {
+      "added_at": "2023-11-16 22:59:00",
+      "album": {
+        "name": "demasiadas cosas",
+        "url": "https://open.spotify.com/album/1BSp9Jauc2msX3VDOamCF6"
+      },
+      "artists": [
+        {
+          "name": "Pink Kardashian",
+          "url": "https://open.spotify.com/artist/4RM70jhflK0FJ0ARkSjnqp"
+        },
+        {
+          "name": "Nightclub20xx",
+          "url": "https://open.spotify.com/artist/7HQiiGBKAu5NhAfq6ONZif"
+        }
+      ],
+      "duration_ms": 108000,
+      "name": "demasiadas cosas",
+      "url": "https://open.spotify.com/track/1RosTL2gSHjVBwZY5I8jTR"
+    },
+    {
+      "added_at": "2023-11-16 22:59:00",
+      "album": {
+        "name": "PURGATORIO",
+        "url": "https://open.spotify.com/album/6VIEndH3EFAVPvCUhlZWtl"
+      },
+      "artists": [
+        {
+          "name": "Espineli",
+          "url": "https://open.spotify.com/artist/74l577inT1nnMPPMajMv2f"
+        }
+      ],
+      "duration_ms": 118904,
+      "name": "MICPAPALOTL",
+      "url": "https://open.spotify.com/track/13PBhn5XdUPYty1ErFsru3"
     },
     {
       "added_at": "2023-11-16 22:59:00",
@@ -1715,26 +1735,6 @@
       "duration_ms": 112428,
       "name": "2035",
       "url": "https://open.spotify.com/track/3nbCRULrZIFo4prDNzOZ75"
-    },
-    {
-      "added_at": "2023-11-16 22:59:00",
-      "album": {
-        "name": "demasiadas cosas",
-        "url": "https://open.spotify.com/album/1BSp9Jauc2msX3VDOamCF6"
-      },
-      "artists": [
-        {
-          "name": "Pink Kardashian",
-          "url": "https://open.spotify.com/artist/4RM70jhflK0FJ0ARkSjnqp"
-        },
-        {
-          "name": "Nightclub20xx",
-          "url": "https://open.spotify.com/artist/7HQiiGBKAu5NhAfq6ONZif"
-        }
-      ],
-      "duration_ms": 108000,
-      "name": "demasiadas cosas",
-      "url": "https://open.spotify.com/track/1RosTL2gSHjVBwZY5I8jTR"
     },
     {
       "added_at": "2023-11-16 22:59:00",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2023-11-16 22:59:00",
       "album": {
-        "name": "tamagotchi",
-        "url": "https://open.spotify.com/album/5tBPoDajcUY3wf4pnBJfMV"
-      },
-      "artists": [
-        {
-          "name": "Lil Zhark",
-          "url": "https://open.spotify.com/artist/3FI7NS91eeSjBP3V0znDuB"
-        }
-      ],
-      "duration_ms": 105100,
-      "name": "tamagotchi",
-      "url": "https://open.spotify.com/track/72QyKS10NvfMYszzFMYWzj"
-    },
-    {
-      "added_at": "2023-11-16 22:59:00",
-      "album": {
         "name": "HYPER PUC",
         "url": "https://open.spotify.com/album/3VkmZxyLYOuSeBqhKYwJBP"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 130285,
       "name": "Un Techno",
       "url": "https://open.spotify.com/track/48zjy7vkY1ODmJZTTb463A"
+    },
+    {
+      "added_at": "2023-11-16 22:59:00",
+      "album": {
+        "name": "tamagotchi",
+        "url": "https://open.spotify.com/album/5tBPoDajcUY3wf4pnBJfMV"
+      },
+      "artists": [
+        {
+          "name": "Lil Zhark",
+          "url": "https://open.spotify.com/artist/3FI7NS91eeSjBP3V0znDuB"
+        }
+      ],
+      "duration_ms": 105100,
+      "name": "tamagotchi",
+      "url": "https://open.spotify.com/track/72QyKS10NvfMYszzFMYWzj"
     },
     {
       "added_at": "2023-11-16 22:59:00",

@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Sapta Sagaradaache Ello - Side B\n",
-  "num_followers": 55878,
+  "num_followers": 55896,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGRkYWY4MmQ5MWNhMTg1ZjhlZjU2NThlNGQzZmM1MTQ2YzBiYmM1",
+  "snapshot_id": "MCxiYWZjYmY1NDUzMGQyOGIzYjU1M2I3MDEwZThjMmI0NzE4YzZhZGIy",
   "tracks": [
     {
       "added_at": "2023-11-15 12:36:47",
@@ -133,6 +133,30 @@
       "url": "https://open.spotify.com/track/5656wgb6YXZTxJQzJDAiSH"
     },
     {
+      "added_at": "2023-11-27 07:28:34",
+      "album": {
+        "name": "ANIMAL (KANNADA)",
+        "url": "https://open.spotify.com/album/3Ug7bGXtFxichU3gkxioT4"
+      },
+      "artists": [
+        {
+          "name": "Raghav Chaitanya",
+          "url": "https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK"
+        },
+        {
+          "name": "Varadaraj Chikkaballapura",
+          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
+        },
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        }
+      ],
+      "duration_ms": 275439,
+      "name": "Oh Baale",
+      "url": "https://open.spotify.com/track/015vFQdlCArdhXOI2XMw3r"
+    },
+    {
       "added_at": "2023-11-24 12:23:12",
       "album": {
         "name": "Manada Mele Banna Eseda Maaye Nee (from \"Marichi\")",
@@ -195,6 +219,30 @@
       "duration_ms": 160655,
       "name": "Prathi Hejje (From \"Bembidada Naavika\")",
       "url": "https://open.spotify.com/track/4gllrD1umojIwbG7xwL3PT"
+    },
+    {
+      "added_at": "2023-11-27 07:28:34",
+      "album": {
+        "name": "ANIMAL (KANNADA)",
+        "url": "https://open.spotify.com/album/3Ug7bGXtFxichU3gkxioT4"
+      },
+      "artists": [
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Harshavardhan Rameshwar",
+          "url": "https://open.spotify.com/artist/5CTu6FKerxlvZrsLb6BYaU"
+        },
+        {
+          "name": "Varadaraj Chikkaballapura",
+          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
+        }
+      ],
+      "duration_ms": 321675,
+      "name": "Nanna Ravi Neene",
+      "url": "https://open.spotify.com/track/5ydy6eHHqXTZmG0ODdDMdw"
     },
     {
       "added_at": "2023-11-07 07:43:50",
@@ -1611,54 +1659,6 @@
       "duration_ms": 188339,
       "name": "Oga Oga (from \"Bad Manners\")",
       "url": "https://open.spotify.com/track/2AAD29MUJTPMbG6b0yrQNc"
-    },
-    {
-      "added_at": "2023-09-12 10:06:17",
-      "album": {
-        "name": "Elli Hodane Sakhi (From \"Jalapaatha\")",
-        "url": "https://open.spotify.com/album/3bzkNEzB6pie0YUZPbVhhA"
-      },
-      "artists": [
-        {
-          "name": "Sadwini Koppa",
-          "url": "https://open.spotify.com/artist/2U4OMgHh4QWreQsizx9Jdn"
-        },
-        {
-          "name": "Shreenidhi G Shastry",
-          "url": "https://open.spotify.com/artist/5mdpFPrdc0PK8dnTZLFUMv"
-        }
-      ],
-      "duration_ms": 179210,
-      "name": "Elli Hodane Sakhi - From \"Jalapaatha\"",
-      "url": "https://open.spotify.com/track/5cFEvdj5DlKm9EcebYi8SX"
-    },
-    {
-      "added_at": "2023-09-20 12:59:03",
-      "album": {
-        "name": "Cult Mama (From \"Skanda\")",
-        "url": "https://open.spotify.com/album/3PGMup46G05fgFOjoexm8h"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Arun Kaundinya",
-          "url": "https://open.spotify.com/artist/1ZKWEgONUTL99f0niqmUA4"
-        },
-        {
-          "name": "Parnika Manya",
-          "url": "https://open.spotify.com/artist/2xuVTI9imgpzqOabZP4gPO"
-        },
-        {
-          "name": "Varadaraj Chikballapura",
-          "url": "https://open.spotify.com/artist/5mIoP70HRX5S0iYGCUlmQW"
-        }
-      ],
-      "duration_ms": 247882,
-      "name": "Cult Mama (From \"Skanda\")",
-      "url": "https://open.spotify.com/track/5YypG8lpyd7D2jGkFG8DTU"
     },
     {
       "added_at": "2023-09-14 12:04:33",

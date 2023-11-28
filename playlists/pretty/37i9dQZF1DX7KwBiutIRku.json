@@ -1,12 +1,12 @@
 {
   "description": "Southern boogie, swinging blues rock and classic boogie rock. Cover: ZZ Top",
-  "num_followers": 77934,
+  "num_followers": 78007,
   "original_name": "Boogie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2VlMzhlNWYxZTg0YjFlMDVjZDAzNDViNTc4YzA2MjU4OWM1YTAw",
+  "snapshot_id": "MCwxNTBiODJmZjdiMDdjNjA2YmUyMTFiMjFlZGQ3ZmY1NzUzOTNlZmIz",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -139,22 +139,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Fandango! (Expanded 2006 Remaster)",
-        "url": "https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 137933,
-      "name": "Tush - 2006 Remaster",
-      "url": "https://open.spotify.com/track/6zGDIDjfDkPyNxrEERO3XG"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Aerosmith",
         "url": "https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE"
       },
@@ -183,6 +167,38 @@
       "duration_ms": 176453,
       "name": "Smokin' in the Boy's Room",
       "url": "https://open.spotify.com/track/1AIGp3gpj1NXJvh3engmUQ"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Fandango! (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 137933,
+      "name": "Tush - 2006 Remaster",
+      "url": "https://open.spotify.com/track/6zGDIDjfDkPyNxrEERO3XG"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "On the Border (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2iCHyD9XHtA3vJFJIuXzqu"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 218269,
+      "name": "James Dean - 2013 Remaster",
+      "url": "https://open.spotify.com/track/0HznRAeJLyGtyLZgecDiLI"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -219,22 +235,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "On the Border (2013 Remaster)",
-        "url": "https://open.spotify.com/album/2iCHyD9XHtA3vJFJIuXzqu"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 218269,
-      "name": "James Dean - 2013 Remaster",
-      "url": "https://open.spotify.com/track/0HznRAeJLyGtyLZgecDiLI"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Electric Warrior [Expanded & Remastered]",
         "url": "https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt"
       },
@@ -267,22 +267,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Heaven Tonight",
-        "url": "https://open.spotify.com/album/5w20U3G3GyWiPvvDeVzkhN"
-      },
-      "artists": [
-        {
-          "name": "Cheap Trick",
-          "url": "https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU"
-        }
-      ],
-      "duration_ms": 224800,
-      "name": "California Man",
-      "url": "https://open.spotify.com/track/5e4kUj91oLjKxxiT8akiQV"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Exile On Main Street (2010 Re-Mastered)",
         "url": "https://open.spotify.com/album/5U4dnRZsfW8NmwBBkELFPh"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 214466,
       "name": "Casino Boogie",
       "url": "https://open.spotify.com/track/3NDEunNz7GMb6SkkPYTvd2"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Heaven Tonight",
+        "url": "https://open.spotify.com/album/5w20U3G3GyWiPvvDeVzkhN"
+      },
+      "artists": [
+        {
+          "name": "Cheap Trick",
+          "url": "https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU"
+        }
+      ],
+      "duration_ms": 224800,
+      "name": "California Man",
+      "url": "https://open.spotify.com/track/5e4kUj91oLjKxxiT8akiQV"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -447,6 +447,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "The Blues Band - Ready (Remastered)",
+        "url": "https://open.spotify.com/album/79vGUrA1yoXpJ8FSyhbxKs"
+      },
+      "artists": [
+        {
+          "name": "The Blues Band",
+          "url": "https://open.spotify.com/artist/68GsFZshoiZmFCfcCv9ArW"
+        }
+      ],
+      "duration_ms": 197437,
+      "name": "Maggie's Farm - Remastered",
+      "url": "https://open.spotify.com/track/2TsY408zarh6FNtc7YsMGf"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "The Morning After",
         "url": "https://open.spotify.com/album/26PQ24bOMADaGXHApdAsR8"
       },
@@ -479,18 +495,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "The Blues Band - Ready (Remastered)",
-        "url": "https://open.spotify.com/album/79vGUrA1yoXpJ8FSyhbxKs"
+        "name": "Down the Dustpipe",
+        "url": "https://open.spotify.com/album/6uZDQxyMSEQ9kWFVjAaHl3"
       },
       "artists": [
         {
-          "name": "The Blues Band",
-          "url": "https://open.spotify.com/artist/68GsFZshoiZmFCfcCv9ArW"
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
         }
       ],
-      "duration_ms": 197437,
-      "name": "Maggie's Farm - Remastered",
-      "url": "https://open.spotify.com/track/2TsY408zarh6FNtc7YsMGf"
+      "duration_ms": 198426,
+      "name": "Spinning Wheel Blues",
+      "url": "https://open.spotify.com/track/2DmqtzZkGjbxQx38qZ22zw"
     },
     {
       "added_at": "2021-04-13 15:36:15",
@@ -507,22 +523,6 @@
       "duration_ms": 200226,
       "name": "Lower On Your List Of Priorities",
       "url": "https://open.spotify.com/track/0y9jJpx0LZyD7Jz3Yaawvz"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Down the Dustpipe",
-        "url": "https://open.spotify.com/album/6uZDQxyMSEQ9kWFVjAaHl3"
-      },
-      "artists": [
-        {
-          "name": "Status Quo",
-          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
-        }
-      ],
-      "duration_ms": 198426,
-      "name": "Spinning Wheel Blues",
-      "url": "https://open.spotify.com/track/2DmqtzZkGjbxQx38qZ22zw"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Top Priority (Remastered 2017)",
-        "url": "https://open.spotify.com/album/479bZ6qz6NIBHMex9X1Awy"
-      },
-      "artists": [
-        {
-          "name": "Rory Gallagher",
-          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
-        }
-      ],
-      "duration_ms": 290670,
-      "name": "Hell Cat",
-      "url": "https://open.spotify.com/track/4osrtrJTY1PRKHi44srR3c"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "The Hoople",
         "url": "https://open.spotify.com/album/2Jar3nPcvUZVEIT2DBJ8Am"
       },
@@ -587,22 +571,6 @@
       "duration_ms": 204093,
       "name": "The Golden Age of Rock 'n' Roll",
       "url": "https://open.spotify.com/track/2M9aZcP4xcDiEvEChmHTsx"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Gimme Some Neck",
-        "url": "https://open.spotify.com/album/6BAyV837xPY0ukq8vph9G9"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Wood",
-          "url": "https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Worry No More",
-      "url": "https://open.spotify.com/track/1hbPE73HMcCexM0bJUC7kq"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -621,6 +589,38 @@
       "url": "https://open.spotify.com/track/2PkOmx1S4XOwPU1Pgyaoig"
     },
     {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Top Priority (Remastered 2017)",
+        "url": "https://open.spotify.com/album/479bZ6qz6NIBHMex9X1Awy"
+      },
+      "artists": [
+        {
+          "name": "Rory Gallagher",
+          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
+        }
+      ],
+      "duration_ms": 290670,
+      "name": "Hell Cat",
+      "url": "https://open.spotify.com/track/4osrtrJTY1PRKHi44srR3c"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Gimme Some Neck",
+        "url": "https://open.spotify.com/album/6BAyV837xPY0ukq8vph9G9"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Wood",
+          "url": "https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Worry No More",
+      "url": "https://open.spotify.com/track/1hbPE73HMcCexM0bJUC7kq"
+    },
+    {
       "added_at": "2021-10-15 04:01:00",
       "album": {
         "name": "Leave This House",
@@ -635,6 +635,22 @@
       "duration_ms": 209098,
       "name": "Leave This House",
       "url": "https://open.spotify.com/track/3EXwHbECDsXgl0M9iZcfhP"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Gasoline Alley",
+        "url": "https://open.spotify.com/album/6FaMpsO2fif34ToEu1wLqf"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 386226,
+      "name": "It's All Over Now",
+      "url": "https://open.spotify.com/track/78H0GpZn9EXwEI6gr2FZUA"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -667,22 +683,6 @@
       "duration_ms": 206160,
       "name": "Silver Dollar",
       "url": "https://open.spotify.com/track/6FI74cRYyrYgDC51ZYtVt3"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Gasoline Alley",
-        "url": "https://open.spotify.com/album/6FaMpsO2fif34ToEu1wLqf"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 386226,
-      "name": "It's All Over Now",
-      "url": "https://open.spotify.com/track/78H0GpZn9EXwEI6gr2FZUA"
     },
     {
       "added_at": "2020-12-01 05:01:00",

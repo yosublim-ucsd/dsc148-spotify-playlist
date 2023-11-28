@@ -22393,6 +22393,24 @@
     },
     {
       "album": {
+        "name": "Blondshell",
+        "url": "https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216852,
+      "name": "Olympus",
+      "url": "https://open.spotify.com/track/2pqi703QQcp2zsuS3NgCii"
+    },
+    {
+      "album": {
         "name": "Olympus",
         "url": "https://open.spotify.com/album/7pTDGUWMPGL6Z62Prx4jZ4"
       },

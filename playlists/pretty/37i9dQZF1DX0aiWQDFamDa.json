@@ -1,12 +1,12 @@
 {
   "description": "Sad and gloomy instrumental Jazz.",
-  "num_followers": 45463,
+  "num_followers": 45497,
   "original_name": "Sad Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZWNlOGM5YmRmZjFhMmZiZTQ1Y2E4ZDI1Nzk4YjBlNTUzMTY4ZTNi",
+  "snapshot_id": "MCwxOTAwNDg1MjdhNDhlMTU3MWJiN2I3Y2FkZWM2NDljYWZlOGVjY2U3",
   "tracks": [
     {
       "added_at": "2023-11-17 00:01:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Brother Rabbit",
-        "url": "https://open.spotify.com/album/0mO4xPzkwqsq9N9nvBGM18"
-      },
-      "artists": [
-        {
-          "name": "Jacky Bonnet Group",
-          "url": "https://open.spotify.com/artist/6raCh9DUKDTErUk5QmRYzX"
-        }
-      ],
-      "duration_ms": 177520,
-      "name": "Brother Rabbit",
-      "url": "https://open.spotify.com/track/7GZMIDtN9DLqluOtFy1mUs"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Used To Be Duke",
         "url": "https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ"
       },
@@ -395,18 +379,18 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Gloomy Sunday",
-        "url": "https://open.spotify.com/album/0avEbKExc2HwZGKcx7Eatk"
+        "name": "Brother Rabbit",
+        "url": "https://open.spotify.com/album/0mO4xPzkwqsq9N9nvBGM18"
       },
       "artists": [
         {
-          "name": "Alec Taylor Trio",
-          "url": "https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J"
+          "name": "Jacky Bonnet Group",
+          "url": "https://open.spotify.com/artist/6raCh9DUKDTErUk5QmRYzX"
         }
       ],
-      "duration_ms": 193256,
-      "name": "Gloomy Sunday",
-      "url": "https://open.spotify.com/track/3EsTBtRYt524KQ5hSKVde3"
+      "duration_ms": 177520,
+      "name": "Brother Rabbit",
+      "url": "https://open.spotify.com/track/7GZMIDtN9DLqluOtFy1mUs"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -423,6 +407,22 @@
       "duration_ms": 211757,
       "name": "Nothing Like a Spring",
       "url": "https://open.spotify.com/track/3nSTb8hxLHbDdG8oEXYy5u"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Gloomy Sunday",
+        "url": "https://open.spotify.com/album/0avEbKExc2HwZGKcx7Eatk"
+      },
+      "artists": [
+        {
+          "name": "Alec Taylor Trio",
+          "url": "https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J"
+        }
+      ],
+      "duration_ms": 193256,
+      "name": "Gloomy Sunday",
+      "url": "https://open.spotify.com/track/3EsTBtRYt524KQ5hSKVde3"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -871,18 +871,26 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Madrigal",
-        "url": "https://open.spotify.com/album/3g7XP0N3nxkDmmKfvRYEo7"
+        "name": "Everything I Love",
+        "url": "https://open.spotify.com/album/6dXuEdo9u0rM102nuJcf4p"
       },
       "artists": [
         {
-          "name": "Dave Oakley trio",
-          "url": "https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc"
+          "name": "Copenhagen Jazzexperience",
+          "url": "https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo"
+        },
+        {
+          "name": "Jacob Christoffersen",
+          "url": "https://open.spotify.com/artist/3ljK3UprmcWotHs686486V"
+        },
+        {
+          "name": "Claus Waidtl\u00f8w",
+          "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
         }
       ],
-      "duration_ms": 195124,
-      "name": "Madrigal",
-      "url": "https://open.spotify.com/track/3u4BpjWcxvAJNcW4AgRPFj"
+      "duration_ms": 323184,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/2LHIAzCOGGrtcVS9PRcx3n"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -899,6 +907,22 @@
       "duration_ms": 492933,
       "name": "When October Goes",
       "url": "https://open.spotify.com/track/56vJJaNAgZFqYOZg3d0z27"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Madrigal",
+        "url": "https://open.spotify.com/album/3g7XP0N3nxkDmmKfvRYEo7"
+      },
+      "artists": [
+        {
+          "name": "Dave Oakley trio",
+          "url": "https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc"
+        }
+      ],
+      "duration_ms": 195124,
+      "name": "Madrigal",
+      "url": "https://open.spotify.com/track/3u4BpjWcxvAJNcW4AgRPFj"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -931,30 +955,6 @@
       "duration_ms": 204696,
       "name": "Daydreams",
       "url": "https://open.spotify.com/track/3DZ0VT9Cnl9P2kj5rEGske"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Everything I Love",
-        "url": "https://open.spotify.com/album/6dXuEdo9u0rM102nuJcf4p"
-      },
-      "artists": [
-        {
-          "name": "Copenhagen Jazzexperience",
-          "url": "https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo"
-        },
-        {
-          "name": "Jacob Christoffersen",
-          "url": "https://open.spotify.com/artist/3ljK3UprmcWotHs686486V"
-        },
-        {
-          "name": "Claus Waidtl\u00f8w",
-          "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
-        }
-      ],
-      "duration_ms": 323184,
-      "name": "Never Let Me Go",
-      "url": "https://open.spotify.com/track/2LHIAzCOGGrtcVS9PRcx3n"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "A Glimpse Of The Future",
-        "url": "https://open.spotify.com/album/5qXuFVg88DnAFDpYtl9A9S"
-      },
-      "artists": [
-        {
-          "name": "Nelly Vernon",
-          "url": "https://open.spotify.com/artist/2QTDEcFCA6jvoJwQsm3TpS"
-        }
-      ],
-      "duration_ms": 149015,
-      "name": "A Glimpse Of The Future",
-      "url": "https://open.spotify.com/track/6D3Imkm2BqdYhn1RoFVGmY"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Summer Love",
         "url": "https://open.spotify.com/album/51LEUb1ZFtzAhyS4nFkKbC"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 162887,
       "name": "Centre",
       "url": "https://open.spotify.com/track/4O44XcSyYrDUkNcKqi9aAl"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "A Glimpse Of The Future",
+        "url": "https://open.spotify.com/album/5qXuFVg88DnAFDpYtl9A9S"
+      },
+      "artists": [
+        {
+          "name": "Nelly Vernon",
+          "url": "https://open.spotify.com/artist/2QTDEcFCA6jvoJwQsm3TpS"
+        }
+      ],
+      "duration_ms": 149015,
+      "name": "A Glimpse Of The Future",
+      "url": "https://open.spotify.com/track/6D3Imkm2BqdYhn1RoFVGmY"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Remembrance",
-        "url": "https://open.spotify.com/album/6dT2PVzDSBtjKXu4EhdezZ"
-      },
-      "artists": [
-        {
-          "name": "Ben & Katsy",
-          "url": "https://open.spotify.com/artist/7zk65sKwJHv61CsjCr8PVw"
-        }
-      ],
-      "duration_ms": 244879,
-      "name": "Remembrance",
-      "url": "https://open.spotify.com/track/20idPJhwG1p86XbpNt5dAJ"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "The Melody At Night, With You",
         "url": "https://open.spotify.com/album/2onXlqUvme77BeIcMIOz3M"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 426000,
       "name": "I Got It Bad And That Ain't Good",
       "url": "https://open.spotify.com/track/6ZvxoSCkod7ABm7DFvFkX6"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Remembrance",
+        "url": "https://open.spotify.com/album/6dT2PVzDSBtjKXu4EhdezZ"
+      },
+      "artists": [
+        {
+          "name": "Ben & Katsy",
+          "url": "https://open.spotify.com/artist/7zk65sKwJHv61CsjCr8PVw"
+        }
+      ],
+      "duration_ms": 244879,
+      "name": "Remembrance",
+      "url": "https://open.spotify.com/track/20idPJhwG1p86XbpNt5dAJ"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Soul Dancer",
-        "url": "https://open.spotify.com/album/4xPexgYDxOJDqYkf4DtAKs"
-      },
-      "artists": [
-        {
-          "name": "The Groove Trio",
-          "url": "https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb"
-        }
-      ],
-      "duration_ms": 202802,
-      "name": "Morning Thoughts",
-      "url": "https://open.spotify.com/track/6RmrDk88DsK5ExQIT5EBee"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Changing Places",
         "url": "https://open.spotify.com/album/4572n5PFAccWTD3Aq3tw5g"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 354360,
       "name": "Deep As Love",
       "url": "https://open.spotify.com/track/2zLYr006x2323uleZZT1U2"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Soul Dancer",
+        "url": "https://open.spotify.com/album/4xPexgYDxOJDqYkf4DtAKs"
+      },
+      "artists": [
+        {
+          "name": "The Groove Trio",
+          "url": "https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb"
+        }
+      ],
+      "duration_ms": 202802,
+      "name": "Morning Thoughts",
+      "url": "https://open.spotify.com/track/6RmrDk88DsK5ExQIT5EBee"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1491,30 +1491,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Powell to the People",
-        "url": "https://open.spotify.com/album/0gkHK9HSngJ5N7d5LE1PKE"
-      },
-      "artists": [
-        {
-          "name": "Massimo Colombo",
-          "url": "https://open.spotify.com/artist/6rQ91q7SWnpMA337zOEupl"
-        },
-        {
-          "name": "Maurizio Quintavalle",
-          "url": "https://open.spotify.com/artist/5yZSi6QPm7HLTPuR4n5Y9Q"
-        },
-        {
-          "name": "Enzo Zirilli",
-          "url": "https://open.spotify.com/artist/2lZ6o7yrgffZNMIFlvkbk6"
-        }
-      ],
-      "duration_ms": 314763,
-      "name": "I'll Keep Loving You",
-      "url": "https://open.spotify.com/track/42q9VqB8ooQE5yn3mup3h8"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Some Love Songs",
         "url": "https://open.spotify.com/album/5APvTOjfc9oU7szpZjjLxB"
       },
@@ -1567,6 +1543,30 @@
       "duration_ms": 155741,
       "name": "The Shadow of Your Smile",
       "url": "https://open.spotify.com/track/1I7OMSoMhToGtA1QCTyTBw"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Powell to the People",
+        "url": "https://open.spotify.com/album/0gkHK9HSngJ5N7d5LE1PKE"
+      },
+      "artists": [
+        {
+          "name": "Massimo Colombo",
+          "url": "https://open.spotify.com/artist/6rQ91q7SWnpMA337zOEupl"
+        },
+        {
+          "name": "Maurizio Quintavalle",
+          "url": "https://open.spotify.com/artist/5yZSi6QPm7HLTPuR4n5Y9Q"
+        },
+        {
+          "name": "Enzo Zirilli",
+          "url": "https://open.spotify.com/artist/2lZ6o7yrgffZNMIFlvkbk6"
+        }
+      ],
+      "duration_ms": 314763,
+      "name": "I'll Keep Loving You",
+      "url": "https://open.spotify.com/track/42q9VqB8ooQE5yn3mup3h8"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "\u591c\u306e\u30d6\u30eb\u30fc\u30b9",
+        "url": "https://open.spotify.com/album/0bGfW2KduWtUnGwBRb5oYW"
+      },
+      "artists": [
+        {
+          "name": "New York Trio",
+          "url": "https://open.spotify.com/artist/6U7yxyvc7JseXp9WbFdQm7"
+        }
+      ],
+      "duration_ms": 356920,
+      "name": "Don't Explain",
+      "url": "https://open.spotify.com/track/2yHAermF5pXf4HQPcbkjy1"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Benign Strangers",
         "url": "https://open.spotify.com/album/7AhaDHqyVLlmSxc5iAG5Nx"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 365880,
       "name": "Dim",
       "url": "https://open.spotify.com/track/7M2CYOlGuAC73LnWPPbNGA"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "\u591c\u306e\u30d6\u30eb\u30fc\u30b9",
-        "url": "https://open.spotify.com/album/0bGfW2KduWtUnGwBRb5oYW"
-      },
-      "artists": [
-        {
-          "name": "New York Trio",
-          "url": "https://open.spotify.com/artist/6U7yxyvc7JseXp9WbFdQm7"
-        }
-      ],
-      "duration_ms": 356920,
-      "name": "Don't Explain",
-      "url": "https://open.spotify.com/track/2yHAermF5pXf4HQPcbkjy1"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1843,6 +1843,30 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "At the Movies",
+        "url": "https://open.spotify.com/album/32V6Uezb7Y7RAHtMfGPjLj"
+      },
+      "artists": [
+        {
+          "name": "Nikolaj Hess",
+          "url": "https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ"
+        },
+        {
+          "name": "Anders Christensen",
+          "url": "https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM"
+        },
+        {
+          "name": "Mikkel Hess",
+          "url": "https://open.spotify.com/artist/2dKB7nFUKZ2zs9kgyTA3Lq"
+        }
+      ],
+      "duration_ms": 240903,
+      "name": "End Music",
+      "url": "https://open.spotify.com/track/2nsq309rIRIhozD60JxPB6"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Entering the Woods",
         "url": "https://open.spotify.com/album/7HV0aIXTJHdYpJWLgyBynP"
       },
@@ -1875,30 +1899,6 @@
       "duration_ms": 370680,
       "name": "Rubicon",
       "url": "https://open.spotify.com/track/2ZkAAVVr0wuSN0pYdXBGmI"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "At the Movies",
-        "url": "https://open.spotify.com/album/32V6Uezb7Y7RAHtMfGPjLj"
-      },
-      "artists": [
-        {
-          "name": "Nikolaj Hess",
-          "url": "https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ"
-        },
-        {
-          "name": "Anders Christensen",
-          "url": "https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM"
-        },
-        {
-          "name": "Mikkel Hess",
-          "url": "https://open.spotify.com/artist/2dKB7nFUKZ2zs9kgyTA3Lq"
-        }
-      ],
-      "duration_ms": 240903,
-      "name": "End Music",
-      "url": "https://open.spotify.com/track/2nsq309rIRIhozD60JxPB6"
     },
     {
       "added_at": "2023-11-17 00:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 140779,
+  "num_followers": 140838,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTA5MjA4YTM3YTFiYWM0ZTZlMTdlNjY2NmJlZjE2ODY4N2I3ZTA1",
+  "snapshot_id": "MCw5YzMxZTk3ODJlMGViZTc4NzhhMGM2NmFlZWQ3NjhjM2Q3Y2Q1NTVl",
   "tracks": [
     {
       "added_at": "2023-11-10 05:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Hell Of A Way To Go (Acoustic)",
-        "url": "https://open.spotify.com/album/2o0kuOVzR4XdLQI0lQ0Vc9"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 173126,
-      "name": "Hell Of A Way To Go - Acoustic",
-      "url": "https://open.spotify.com/track/66BMHt4OrLmqpOwmLOgf4W"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Come Back To Bed (Acoustic)",
         "url": "https://open.spotify.com/album/1p2jMjlTEQs8jEPz1kbf1H"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 205375,
       "name": "Come Back To Bed (Acoustic)",
       "url": "https://open.spotify.com/track/2wHKUJvY7K86a9JUAvX4PC"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Hell Of A Way To Go (Acoustic)",
+        "url": "https://open.spotify.com/album/2o0kuOVzR4XdLQI0lQ0Vc9"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 173126,
+      "name": "Hell Of A Way To Go - Acoustic",
+      "url": "https://open.spotify.com/track/66BMHt4OrLmqpOwmLOgf4W"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1143,18 +1143,22 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Creek Will Rise (Acoustic)",
-        "url": "https://open.spotify.com/album/1rTDhlSTMh1DCQtOqU119z"
+        "name": "Honestly (Deluxe)",
+        "url": "https://open.spotify.com/album/2hwH6mFRvUnXEAF5rAMZgY"
       },
       "artists": [
         {
-          "name": "Conner Smith",
-          "url": "https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk"
+          "name": "Jillian Jacqueline",
+          "url": "https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7"
+        },
+        {
+          "name": "Charlie Worsham",
+          "url": "https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq"
         }
       ],
-      "duration_ms": 171320,
-      "name": "Creek Will Rise - Acoustic",
-      "url": "https://open.spotify.com/track/5ItavV1pcc92aYo56k0i6o"
+      "duration_ms": 212932,
+      "name": "The Ocean - Acoustic Live In Studio (feat. Charlie Worsham)",
+      "url": "https://open.spotify.com/track/5ACeiMLF9lMtYU3hadeKXR"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1175,22 +1179,18 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Honestly (Deluxe)",
-        "url": "https://open.spotify.com/album/2hwH6mFRvUnXEAF5rAMZgY"
+        "name": "Creek Will Rise (Acoustic)",
+        "url": "https://open.spotify.com/album/1rTDhlSTMh1DCQtOqU119z"
       },
       "artists": [
         {
-          "name": "Jillian Jacqueline",
-          "url": "https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7"
-        },
-        {
-          "name": "Charlie Worsham",
-          "url": "https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq"
+          "name": "Conner Smith",
+          "url": "https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk"
         }
       ],
-      "duration_ms": 212932,
-      "name": "The Ocean - Acoustic Live In Studio (feat. Charlie Worsham)",
-      "url": "https://open.spotify.com/track/5ACeiMLF9lMtYU3hadeKXR"
+      "duration_ms": 171320,
+      "name": "Creek Will Rise - Acoustic",
+      "url": "https://open.spotify.com/track/5ItavV1pcc92aYo56k0i6o"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "God Gave Me A Girl (Acoustic)",
-        "url": "https://open.spotify.com/album/3aZs3E4bwlZYr826YmenSI"
-      },
-      "artists": [
-        {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
-        }
-      ],
-      "duration_ms": 201020,
-      "name": "God Gave Me A Girl - Acoustic",
-      "url": "https://open.spotify.com/track/4xevwQd0gyWc2Z1BIY2uW2"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Forever and Always (Acoustic)",
         "url": "https://open.spotify.com/album/1KRzUD4fYV0PL3B2smJps3"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 190190,
       "name": "Forever and Always (Acoustic)",
       "url": "https://open.spotify.com/track/6S6DhJXFPuA6CcfqCbAH31"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "God Gave Me A Girl (Acoustic)",
+        "url": "https://open.spotify.com/album/3aZs3E4bwlZYr826YmenSI"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "duration_ms": 201020,
+      "name": "God Gave Me A Girl - Acoustic",
+      "url": "https://open.spotify.com/track/4xevwQd0gyWc2Z1BIY2uW2"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Narcissist (Piano Version)",
-        "url": "https://open.spotify.com/album/4EyKXSLJRmGc4BpHyKCvsR"
-      },
-      "artists": [
-        {
-          "name": "Avery Anna",
-          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
-        }
-      ],
-      "duration_ms": 153186,
-      "name": "Narcissist - Piano Version",
-      "url": "https://open.spotify.com/track/4Q88tEcTTNoWt7h3encEkp"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "I Hate Cowboys & All Dogs Go To Hell",
         "url": "https://open.spotify.com/album/7rW017JpJNMTKoGXFTvini"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 167000,
       "name": "For A Day",
       "url": "https://open.spotify.com/track/29LtoylY7DDpmY2hMdEVkx"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Narcissist (Piano Version)",
+        "url": "https://open.spotify.com/album/4EyKXSLJRmGc4BpHyKCvsR"
+      },
+      "artists": [
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+        }
+      ],
+      "duration_ms": 153186,
+      "name": "Narcissist - Piano Version",
+      "url": "https://open.spotify.com/track/4Q88tEcTTNoWt7h3encEkp"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Buy Dirt",
-        "url": "https://open.spotify.com/album/3T9Iw4QrkSpiJnqN0ZpNTd"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 170755,
-      "name": "Buy Dirt - Alternate Version",
-      "url": "https://open.spotify.com/track/6dYs20Vw8S9pzf8gR7BN0c"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Best Shot (Acoustic)",
         "url": "https://open.spotify.com/album/6RKktqrvsQlht15wzaeWR2"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 193293,
       "name": "Best Shot (Acoustic)",
       "url": "https://open.spotify.com/track/1i3koBIHigtGkhFSKEW3Gn"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Buy Dirt",
+        "url": "https://open.spotify.com/album/3T9Iw4QrkSpiJnqN0ZpNTd"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 170755,
+      "name": "Buy Dirt - Alternate Version",
+      "url": "https://open.spotify.com/track/6dYs20Vw8S9pzf8gR7BN0c"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Secret (Gravel Drive Sounds)",
-        "url": "https://open.spotify.com/album/2ZUh3hF6Q1jX3PEgWhqZqG"
+        "name": "Love Makes You Blind (Acoustic Version)",
+        "url": "https://open.spotify.com/album/75jOuaznH9JpfkrKLt6AmG"
       },
       "artists": [
         {
-          "name": "Tyler Braden",
-          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
+          "name": "Kaylee Rose",
+          "url": "https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH"
         }
       ],
-      "duration_ms": 225240,
-      "name": "Secret - Gravel Drive Sounds",
-      "url": "https://open.spotify.com/track/0LKQRiJgwtxYNNnlB4djQp"
+      "duration_ms": 160940,
+      "name": "Love Makes You Blind (Acoustic Version)",
+      "url": "https://open.spotify.com/track/3nigSojrGL9YcS9RIt8X8U"
     }
   ],
   "unique_name": "Nashville Stripped",

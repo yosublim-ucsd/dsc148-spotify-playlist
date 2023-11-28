@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de noviembre 2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,538,030 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,538,054 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 42 | [PE$O](https://open.spotify.com/track/33pkoToooZswUu9v1mSANV) | [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Slow Jamz](https://open.spotify.com/artist/5OxY89csMbfechtyR7EX4o) | [PE$O](https://open.spotify.com/album/0OkNyxyUFDhEfhWUUI3MGa) | 3:10 |
 | 43 | [Los mismos](https://open.spotify.com/track/6LnWzTjHrsrv57lVATmnZR) | [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [Los mismos](https://open.spotify.com/album/5FOyz0vBUeOoj49M9loFTg) | 2:54 |
 | 44 | [Trasplante de Corazón](https://open.spotify.com/track/3VqKXI13KCXegeHhcSX0DS) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Trasplante de Corazón](https://open.spotify.com/album/0Se6CCfIxUEK55p3v4vTC7) | 3:25 |
-| 45 | [Ya Me Han Fallado](https://open.spotify.com/track/0cXzcDn8QRWgugkQn2Fl3F) | [Milo Mae](https://open.spotify.com/artist/2iaaJzRhuEY8wPn8P6iNiP) | [Ya Me Han Fallado](https://open.spotify.com/album/68xJmSqQas7rRiTaUjOgiW) | 2:48 |
-| 46 | [AMIGA DEL ALCOHOL](https://open.spotify.com/track/4wL75NdSDkaK9KocyH5JHY) | [OMGisNEFF](https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g), [LI4M](https://open.spotify.com/artist/0ItFkNpFwk5M1GEWtZzhbs) | [AMIGA DEL ALCOHOL](https://open.spotify.com/album/3l5PnrhVfXZL9NiAxk0e36) | 3:13 |
+| 45 | [AMIGA DEL ALCOHOL](https://open.spotify.com/track/4wL75NdSDkaK9KocyH5JHY) | [OMGisNEFF](https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g), [LI4M](https://open.spotify.com/artist/0ItFkNpFwk5M1GEWtZzhbs) | [AMIGA DEL ALCOHOL](https://open.spotify.com/album/3l5PnrhVfXZL9NiAxk0e36) | 3:13 |
+| 46 | [Ya Me Han Fallado](https://open.spotify.com/track/0cXzcDn8QRWgugkQn2Fl3F) | [Milo Mae](https://open.spotify.com/artist/2iaaJzRhuEY8wPn8P6iNiP) | [Ya Me Han Fallado](https://open.spotify.com/album/68xJmSqQas7rRiTaUjOgiW) | 2:48 |
 | 47 | [Arte](https://open.spotify.com/track/2AocneguErlK5cs3OrmZXb) | [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6) | [Arte](https://open.spotify.com/album/5SsyubVb6ry1L845ARB5x2) | 3:49 |
 | 48 | [ALI](https://open.spotify.com/track/0CgKpM15mWm8az3ypb4Q1N) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [MILLAS](https://open.spotify.com/album/71ANhRl5U4jM8vBUTvQTsZ) | 1:35 |
 | 49 | [Me Gustas Tu](https://open.spotify.com/track/5NF8FAe3INIXOnTJuo3ngL) | [Jarina De Marco](https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL) | [Me Gustas Tu](https://open.spotify.com/album/1WWkPIDdO1PWxIl36eymzE) | 3:25 |
 | 50 | [Riley](https://open.spotify.com/track/3tQpd0YrAwWK8YGP3aRj8D) | [I AM](https://open.spotify.com/artist/67g2E0HwTkrMj3nPvw46mR) | [Riley \(S\)](https://open.spotify.com/album/3qiAqPoSj9fpCiDLwgENe0) | 2:58 |
 
-Snapshot ID: `MCwwM2U2NDhkM2UyZTA1NmZmMjIxZTYwYTA2YTYyYmZlYWI1Njc2N2Rj`
+Snapshot ID: `MCxiY2IyNmE4MzJjYmZmZTFmODE3ODc0OGM1NjllYTRmZGYyOTQ3MmM4`

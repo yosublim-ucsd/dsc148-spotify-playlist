@@ -1,12 +1,12 @@
 {
   "description": "Deja que el sentimiento de los boleros te enamore a la antigua.",
-  "num_followers": 70698,
+  "num_followers": 70744,
   "original_name": "B\u00e9same Mucho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOWY0Zjk5NWNjMjhhNjlkYWU5MGZlMTk0YmZjYWQ3NWM5OWFmMjcw",
+  "snapshot_id": "MCw1ZjU5MTM3NTA0YzQ3YzUwYTQ0ODQxMzE4ZWMwNWVmZThkMTVlNTE4",
   "tracks": [
     {
       "added_at": "2021-12-26 12:28:38",
@@ -111,22 +111,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "El Ruise\u00f1or de America",
-        "url": "https://open.spotify.com/album/33pvMxnkZFMGkg9fbomz0r"
-      },
-      "artists": [
-        {
-          "name": "Julio Jaramillo",
-          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
-        }
-      ],
-      "duration_ms": 158376,
-      "name": "Rondando Tu Esquina",
-      "url": "https://open.spotify.com/track/4vhU2Qz2DLYmOMCd5UqKph"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "A Mi Amor Con Mi Amor",
         "url": "https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu"
       },
@@ -155,6 +139,42 @@
       "duration_ms": 143373,
       "name": "Los Aretes De La Luna",
       "url": "https://open.spotify.com/track/5O1qLn6D0EJTba2s1ZSb2T"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "Canta En Espa\u00f1ol Con Los Panchos",
+        "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
+      },
+      "artists": [
+        {
+          "name": "Eydie Gorm\u00e9",
+          "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
+        },
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 137560,
+      "name": "Piel Canela",
+      "url": "https://open.spotify.com/track/5NYQS0JkqRRfhlliy0P3Dv"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "El Ruise\u00f1or de America",
+        "url": "https://open.spotify.com/album/33pvMxnkZFMGkg9fbomz0r"
+      },
+      "artists": [
+        {
+          "name": "Julio Jaramillo",
+          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
+        }
+      ],
+      "duration_ms": 158376,
+      "name": "Rondando Tu Esquina",
+      "url": "https://open.spotify.com/track/4vhU2Qz2DLYmOMCd5UqKph"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -191,22 +211,18 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Canta En Espa\u00f1ol Con Los Panchos",
-        "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
+        "name": "Boleros In Tr\u00edo",
+        "url": "https://open.spotify.com/album/6Q5WjwqD0rXwSlU5fuw0O7"
       },
       "artists": [
         {
-          "name": "Eydie Gorm\u00e9",
-          "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
-        },
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+          "name": "Los Tres Diamantes",
+          "url": "https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1"
         }
       ],
-      "duration_ms": 137560,
-      "name": "Piel Canela",
-      "url": "https://open.spotify.com/track/5NYQS0JkqRRfhlliy0P3Dv"
+      "duration_ms": 176946,
+      "name": "La Gloria Eres T\u00fa",
+      "url": "https://open.spotify.com/track/79BOX5jI2CAhA8d7GD7FGY"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -223,22 +239,6 @@
       "duration_ms": 175253,
       "name": "Tres Regalos",
       "url": "https://open.spotify.com/track/0Wui9qdWQt5zhH0ZYXmrVq"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
-        "name": "Boleros In Tr\u00edo",
-        "url": "https://open.spotify.com/album/6Q5WjwqD0rXwSlU5fuw0O7"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Diamantes",
-          "url": "https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1"
-        }
-      ],
-      "duration_ms": 176946,
-      "name": "La Gloria Eres T\u00fa",
-      "url": "https://open.spotify.com/track/79BOX5jI2CAhA8d7GD7FGY"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -323,22 +323,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Los Tres Caballeros",
-        "url": "https://open.spotify.com/album/0g3tdBXHTP9VgftkbXnVPI"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Caballeros",
-          "url": "https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F"
-        }
-      ],
-      "duration_ms": 197149,
-      "name": "La Barca",
-      "url": "https://open.spotify.com/track/1GHTx9EyR44pgtGLotj2nH"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "La Absoluta Colecci\u00f3n",
         "url": "https://open.spotify.com/album/4T8MOQQIuICQ3Q7VF0JFB7"
       },
@@ -371,22 +355,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Coleccion Original",
-        "url": "https://open.spotify.com/album/0OwOpYYCXo04N5VMQEaXuJ"
-      },
-      "artists": [
-        {
-          "name": "Los Dandys",
-          "url": "https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK"
-        }
-      ],
-      "duration_ms": 175693,
-      "name": "Cerca del Mar",
-      "url": "https://open.spotify.com/track/0GJ21yUwVykIrHfCzkcXDv"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "A Todos Mis Amigos",
         "url": "https://open.spotify.com/album/47SmOmDoPlaUD9BMoflw2A"
       },
@@ -403,6 +371,22 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
+        "name": "Coleccion Original",
+        "url": "https://open.spotify.com/album/0OwOpYYCXo04N5VMQEaXuJ"
+      },
+      "artists": [
+        {
+          "name": "Los Dandys",
+          "url": "https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK"
+        }
+      ],
+      "duration_ms": 175693,
+      "name": "Cerca del Mar",
+      "url": "https://open.spotify.com/track/0GJ21yUwVykIrHfCzkcXDv"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
         "name": "A Mi Amor Con Mi Amor",
         "url": "https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 118933,
       "name": "Contigo Aprend\u00ed",
       "url": "https://open.spotify.com/track/7IcqJ3eMGs7pJ1BOCgPSFu"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "Los Tres Caballeros",
+        "url": "https://open.spotify.com/album/0g3tdBXHTP9VgftkbXnVPI"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Caballeros",
+          "url": "https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F"
+        }
+      ],
+      "duration_ms": 197149,
+      "name": "La Barca",
+      "url": "https://open.spotify.com/track/1GHTx9EyR44pgtGLotj2nH"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -503,22 +503,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Serenata con Pedro Infante",
-        "url": "https://open.spotify.com/album/63prOSb92fN9FSO1LSfPO7"
-      },
-      "artists": [
-        {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
-        }
-      ],
-      "duration_ms": 198080,
-      "name": "No me platiques",
-      "url": "https://open.spotify.com/track/78nszOi3nyWJG0UmLrSeAB"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "El Sentimiento del Latino En Nueva York",
         "url": "https://open.spotify.com/album/1jqQfh0qYfAc98LRBk9Egv"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 340400,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/1lMoqzAjvLxIQJoYSeNVj1"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "Serenata con Pedro Infante",
+        "url": "https://open.spotify.com/album/63prOSb92fN9FSO1LSfPO7"
+      },
+      "artists": [
+        {
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+        }
+      ],
+      "duration_ms": 198080,
+      "name": "No me platiques",
+      "url": "https://open.spotify.com/track/78nszOi3nyWJG0UmLrSeAB"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -567,6 +567,22 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
+        "name": "Ibrahim Ferrer (Buena Vista Social Club Presents)",
+        "url": "https://open.spotify.com/album/2HZnjbQkf0Ev5lmuLLqrvI"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Ferrer",
+          "url": "https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D"
+        }
+      ],
+      "duration_ms": 294293,
+      "name": "Aquellos Ojos Verdes",
+      "url": "https://open.spotify.com/track/6T8G2zuDFwIV0z5TTx0apb"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
         "name": "Frente a Frente de Tr\u00edos",
         "url": "https://open.spotify.com/album/0TibhurVSsO5rf4tq4hEy9"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 180840,
       "name": "Cha Cha Linda",
       "url": "https://open.spotify.com/track/6HAcngnAkOIgpfU0jGsXri"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
-        "name": "Ibrahim Ferrer (Buena Vista Social Club Presents)",
-        "url": "https://open.spotify.com/album/2HZnjbQkf0Ev5lmuLLqrvI"
-      },
-      "artists": [
-        {
-          "name": "Ibrahim Ferrer",
-          "url": "https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D"
-        }
-      ],
-      "duration_ms": 294293,
-      "name": "Aquellos Ojos Verdes",
-      "url": "https://open.spotify.com/track/6T8G2zuDFwIV0z5TTx0apb"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -679,26 +679,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Latin Trumpets - Bolero",
-        "url": "https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K"
-      },
-      "artists": [
-        {
-          "name": "Leo Marini",
-          "url": "https://open.spotify.com/artist/3Y5vifXLGyyHfY99BH73Ld"
-        },
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        }
-      ],
-      "duration_ms": 168866,
-      "name": "Historia de un Amor",
-      "url": "https://open.spotify.com/track/5YkbsYoT60QOccHeKbDnUY"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "Aunque Me Cueste la Vida",
         "url": "https://open.spotify.com/album/4M7JZW7HpJAdYVZCObIAQ2"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 161346,
       "name": "Todo Me Gusta de Ti",
       "url": "https://open.spotify.com/track/6xy2QxEdp2gopEFHfPMXof"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "Latin Trumpets - Bolero",
+        "url": "https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K"
+      },
+      "artists": [
+        {
+          "name": "Leo Marini",
+          "url": "https://open.spotify.com/artist/3Y5vifXLGyyHfY99BH73Ld"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "duration_ms": 168866,
+      "name": "Historia de un Amor",
+      "url": "https://open.spotify.com/track/5YkbsYoT60QOccHeKbDnUY"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -819,6 +819,62 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
+        "name": "Latin Trumpets - Bolero",
+        "url": "https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K"
+      },
+      "artists": [
+        {
+          "name": "Leo Marini",
+          "url": "https://open.spotify.com/artist/3Y5vifXLGyyHfY99BH73Ld"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "duration_ms": 178173,
+      "name": "En la Palma de la Mano",
+      "url": "https://open.spotify.com/track/4fPCFJHsR8iWRv3Q6yDL4i"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "Aunque Me Cueste la Vida",
+        "url": "https://open.spotify.com/album/4M7JZW7HpJAdYVZCObIAQ2"
+      },
+      "artists": [
+        {
+          "name": "Alberto Beltran",
+          "url": "https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "duration_ms": 178493,
+      "name": "Aunque Me Cueste la Vida",
+      "url": "https://open.spotify.com/track/5arIOYPGGzfbmyWwsTgaye"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "El Bolerista De Am\u00e9rica",
+        "url": "https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT"
+      },
+      "artists": [
+        {
+          "name": "Felipe Pirela",
+          "url": "https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN"
+        }
+      ],
+      "duration_ms": 189506,
+      "name": "Entre Tu Amor Y Mi Amor",
+      "url": "https://open.spotify.com/track/6eFG41qcmCGHVXRGVkUfIU"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
         "name": "Noche criolla",
         "url": "https://open.spotify.com/album/3pDyJPkrKEtPBAJ3S4kavf"
       },
@@ -851,62 +907,6 @@
       "duration_ms": 231493,
       "name": "Veronica",
       "url": "https://open.spotify.com/track/4rEybMVb5H7glCSbezlEAL"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
-        "name": "Aunque Me Cueste la Vida",
-        "url": "https://open.spotify.com/album/4M7JZW7HpJAdYVZCObIAQ2"
-      },
-      "artists": [
-        {
-          "name": "Alberto Beltran",
-          "url": "https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R"
-        },
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        }
-      ],
-      "duration_ms": 178493,
-      "name": "Aunque Me Cueste la Vida",
-      "url": "https://open.spotify.com/track/5arIOYPGGzfbmyWwsTgaye"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
-        "name": "Latin Trumpets - Bolero",
-        "url": "https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K"
-      },
-      "artists": [
-        {
-          "name": "Leo Marini",
-          "url": "https://open.spotify.com/artist/3Y5vifXLGyyHfY99BH73Ld"
-        },
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        }
-      ],
-      "duration_ms": 178173,
-      "name": "En la Palma de la Mano",
-      "url": "https://open.spotify.com/track/4fPCFJHsR8iWRv3Q6yDL4i"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
-        "name": "El Bolerista De Am\u00e9rica",
-        "url": "https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT"
-      },
-      "artists": [
-        {
-          "name": "Felipe Pirela",
-          "url": "https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN"
-        }
-      ],
-      "duration_ms": 189506,
-      "name": "Entre Tu Amor Y Mi Amor",
-      "url": "https://open.spotify.com/track/6eFG41qcmCGHVXRGVkUfIU"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Tres Super Trios",
-        "url": "https://open.spotify.com/album/0YJaOjYj6ljHzadphJcpMY"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Reyes",
-          "url": "https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u"
-        }
-      ],
-      "duration_ms": 197773,
-      "name": "Odiame",
-      "url": "https://open.spotify.com/track/4p3A63uJHJXU4IRnmH2316"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "Las 2 Grandes Orquestas de Venezuela",
         "url": "https://open.spotify.com/album/3onbCnIGyRWV1BLNgtxiR0"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 247906,
       "name": "Flores Negras - Fichas Negras",
       "url": "https://open.spotify.com/track/3ci6RAlkx0Z6V2AGB3BC9A"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "Tres Super Trios",
+        "url": "https://open.spotify.com/album/0YJaOjYj6ljHzadphJcpMY"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Reyes",
+          "url": "https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u"
+        }
+      ],
+      "duration_ms": 197773,
+      "name": "Odiame",
+      "url": "https://open.spotify.com/track/4p3A63uJHJXU4IRnmH2316"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Antologia (Volumen 2)",
-        "url": "https://open.spotify.com/album/3CwmmU7lkxHxEOdynw1nLy"
-      },
-      "artists": [
-        {
-          "name": "Nelson Ned",
-          "url": "https://open.spotify.com/artist/1qBGWp46vgiATN7mfKJd3s"
-        }
-      ],
-      "duration_ms": 251600,
-      "name": "Mi Manera De Amar",
-      "url": "https://open.spotify.com/track/65JC1aD0zlq5RQ7Q8zQuss"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "El Estilo de Roberto Ledesma",
         "url": "https://open.spotify.com/album/2cW8xEyy96yugn4JzlSsBM"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 174000,
       "name": "Mira Que Eres Linda",
       "url": "https://open.spotify.com/track/3QMnlOZnTJtoJwyizN832A"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "Antologia (Volumen 2)",
+        "url": "https://open.spotify.com/album/3CwmmU7lkxHxEOdynw1nLy"
+      },
+      "artists": [
+        {
+          "name": "Nelson Ned",
+          "url": "https://open.spotify.com/artist/1qBGWp46vgiATN7mfKJd3s"
+        }
+      ],
+      "duration_ms": 251600,
+      "name": "Mi Manera De Amar",
+      "url": "https://open.spotify.com/track/65JC1aD0zlq5RQ7Q8zQuss"
     },
     {
       "added_at": "2021-12-26 12:28:38",

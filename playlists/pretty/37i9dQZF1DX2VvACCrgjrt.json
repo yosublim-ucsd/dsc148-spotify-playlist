@@ -1,12 +1,12 @@
 {
   "description": "Real nasty house. Cover: Don Diablo & Scrufizzer",
-  "num_followers": 437493,
+  "num_followers": 437531,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhY2IxOTI2NGJjNTMyNTY4ODQ1ZGQ1OGQxN2Q2NWYzZWYyY2JkYWRl",
+  "snapshot_id": "MCxmNGE1ZDZjMmFmMGYzY2FhM2I1NDU3ZTY1NDBhY2I3ZTM4ZDMyNmVi",
   "tracks": [
     {
       "added_at": "2023-11-10 05:00:00",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Make U SWEAT!",
+        "url": "https://open.spotify.com/album/0kHRNlcXwAsSJTlUYOtmg3"
+      },
+      "artists": [
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        }
+      ],
+      "duration_ms": 234285,
+      "name": "Make U SWEAT!",
+      "url": "https://open.spotify.com/track/5uh8m2Lna0Gfk8YGqYVb6d"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "FAME?",
         "url": "https://open.spotify.com/album/7afE7fQMNPIS4EYhyEi55z"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 129642,
       "name": "Bricks",
       "url": "https://open.spotify.com/track/7Fh5Q7Hg1H7CX1jVQY2Dgm"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Make U SWEAT!",
-        "url": "https://open.spotify.com/album/0kHRNlcXwAsSJTlUYOtmg3"
-      },
-      "artists": [
-        {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
-        }
-      ],
-      "duration_ms": 234285,
-      "name": "Make U SWEAT!",
-      "url": "https://open.spotify.com/track/5uh8m2Lna0Gfk8YGqYVb6d"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -819,6 +819,26 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Banga",
+        "url": "https://open.spotify.com/album/2S1qwlOsiKSKMvxpxuO5Hw"
+      },
+      "artists": [
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        },
+        {
+          "name": "FETISH",
+          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
+        }
+      ],
+      "duration_ms": 141897,
+      "name": "Banga",
+      "url": "https://open.spotify.com/track/3Asbj9ttQ9MmQHcwHFy7mn"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "TEQUILA",
         "url": "https://open.spotify.com/album/5g9iR0BMaHokdsxPERf5rB"
       },
@@ -851,26 +871,6 @@
       "duration_ms": 140000,
       "name": "Fearless",
       "url": "https://open.spotify.com/track/7pDUFFF3J4WEu1aZMW4M4b"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Banga",
-        "url": "https://open.spotify.com/album/2S1qwlOsiKSKMvxpxuO5Hw"
-      },
-      "artists": [
-        {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
-        },
-        {
-          "name": "FETISH",
-          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
-        }
-      ],
-      "duration_ms": 141897,
-      "name": "Banga",
-      "url": "https://open.spotify.com/track/3Asbj9ttQ9MmQHcwHFy7mn"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -951,46 +951,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Ten Outta Ten",
-        "url": "https://open.spotify.com/album/1fpzyikfWMFQZLwDQTD9Td"
+        "name": "BAD OMENS",
+        "url": "https://open.spotify.com/album/2TnRMOKYUDygY2LYqCAzi0"
       },
       "artists": [
         {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "Tyrone",
-          "url": "https://open.spotify.com/artist/6aapEQN8zrKOf2NOKf0MPI"
-        },
-        {
-          "name": "Kid Kyote",
-          "url": "https://open.spotify.com/artist/4eLOi1gjvvufSBOfQt5wRA"
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
         }
       ],
-      "duration_ms": 176160,
-      "name": "Ten Outta Ten",
-      "url": "https://open.spotify.com/track/1qXUDkT5NiiwkK4T0FLYPt"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Operators Vol. 1",
-        "url": "https://open.spotify.com/album/1Rjcfo697Eu593qzBkUn9G"
-      },
-      "artists": [
-        {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
-        },
-        {
-          "name": "House Call",
-          "url": "https://open.spotify.com/artist/6M9hDiIR4mcwjZzTgHrdWA"
-        }
-      ],
-      "duration_ms": 150761,
-      "name": "Let's Go",
-      "url": "https://open.spotify.com/track/7wSqfT8bbqVYviAe0xI9np"
+      "duration_ms": 147625,
+      "name": "BAD OMENS",
+      "url": "https://open.spotify.com/track/4EZvIph0m6dAAhUZqIGscv"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1015,18 +987,46 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "BAD OMENS",
-        "url": "https://open.spotify.com/album/2TnRMOKYUDygY2LYqCAzi0"
+        "name": "Operators Vol. 1",
+        "url": "https://open.spotify.com/album/1Rjcfo697Eu593qzBkUn9G"
       },
       "artists": [
         {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        },
+        {
+          "name": "House Call",
+          "url": "https://open.spotify.com/artist/6M9hDiIR4mcwjZzTgHrdWA"
         }
       ],
-      "duration_ms": 147625,
-      "name": "BAD OMENS",
-      "url": "https://open.spotify.com/track/4EZvIph0m6dAAhUZqIGscv"
+      "duration_ms": 150761,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/7wSqfT8bbqVYviAe0xI9np"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Ten Outta Ten",
+        "url": "https://open.spotify.com/album/1fpzyikfWMFQZLwDQTD9Td"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "Tyrone",
+          "url": "https://open.spotify.com/artist/6aapEQN8zrKOf2NOKf0MPI"
+        },
+        {
+          "name": "Kid Kyote",
+          "url": "https://open.spotify.com/artist/4eLOi1gjvvufSBOfQt5wRA"
+        }
+      ],
+      "duration_ms": 176160,
+      "name": "Ten Outta Ten",
+      "url": "https://open.spotify.com/track/1qXUDkT5NiiwkK4T0FLYPt"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1171,22 +1171,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "What We Know (feat. Conor Byrne) [Club Mix]",
-        "url": "https://open.spotify.com/album/3u97nu0HP0cc4UQ5qkjZC3"
+        "name": "On & On",
+        "url": "https://open.spotify.com/album/15mVxIt7C3Nd3XHtVpEdcf"
       },
       "artists": [
         {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        },
-        {
-          "name": "Conor Byrne",
-          "url": "https://open.spotify.com/artist/0hEeBhTVYUKs2B4PY2IdMB"
+          "name": "Saint Punk",
+          "url": "https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW"
         }
       ],
-      "duration_ms": 204950,
-      "name": "What We Know (feat. Conor Byrne) [Club Mix]",
-      "url": "https://open.spotify.com/track/4Hbpo5VZaqIZ57JUBqQxhb"
+      "duration_ms": 140196,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/5OBxgQAkvL5INmylerFSWv"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1211,18 +1207,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "On & On",
-        "url": "https://open.spotify.com/album/15mVxIt7C3Nd3XHtVpEdcf"
+        "name": "What We Know (feat. Conor Byrne) [Club Mix]",
+        "url": "https://open.spotify.com/album/3u97nu0HP0cc4UQ5qkjZC3"
       },
       "artists": [
         {
-          "name": "Saint Punk",
-          "url": "https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW"
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "Conor Byrne",
+          "url": "https://open.spotify.com/artist/0hEeBhTVYUKs2B4PY2IdMB"
         }
       ],
-      "duration_ms": 140196,
-      "name": "On & On",
-      "url": "https://open.spotify.com/track/5OBxgQAkvL5INmylerFSWv"
+      "duration_ms": 204950,
+      "name": "What We Know (feat. Conor Byrne) [Club Mix]",
+      "url": "https://open.spotify.com/track/4Hbpo5VZaqIZ57JUBqQxhb"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Certified",
-        "url": "https://open.spotify.com/album/0TyvVgpxn616G6DGoA25VK"
-      },
-      "artists": [
-        {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
-        }
-      ],
-      "duration_ms": 175492,
-      "name": "Certified",
-      "url": "https://open.spotify.com/track/6ZvL9vA6ZbSCNdpgdYjW12"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Move It (with Luciana)",
         "url": "https://open.spotify.com/album/7FpUw6piWqVDumd2HjnVT8"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 135238,
       "name": "Move It (with Luciana)",
       "url": "https://open.spotify.com/track/6tLoYXdgMy80QaS49kg9z9"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Certified",
+        "url": "https://open.spotify.com/album/0TyvVgpxn616G6DGoA25VK"
+      },
+      "artists": [
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        }
+      ],
+      "duration_ms": 175492,
+      "name": "Certified",
+      "url": "https://open.spotify.com/track/6ZvL9vA6ZbSCNdpgdYjW12"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Set The Tempo (feat. HQA)",
-        "url": "https://open.spotify.com/album/5zPcj2i8Xt2JFA5zuK3NiN"
-      },
-      "artists": [
-        {
-          "name": "PBH & JACK",
-          "url": "https://open.spotify.com/artist/5WzFz4sQSN1HgSZLmIgHBl"
-        },
-        {
-          "name": "HQA",
-          "url": "https://open.spotify.com/artist/3odmSlXHTSCIZsSmB6XnCw"
-        }
-      ],
-      "duration_ms": 183434,
-      "name": "Set The Tempo (feat. HQA)",
-      "url": "https://open.spotify.com/track/4Fw9pEVsvkpwyIHoVKJ6yI"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Ignite",
         "url": "https://open.spotify.com/album/6fZiqn8LoZ4N4ZBYiKKmOR"
       },
@@ -1399,6 +1379,26 @@
       "duration_ms": 196800,
       "name": "Ignite",
       "url": "https://open.spotify.com/track/1emuD0fT5F0ZnZLcoscLQO"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Set The Tempo (feat. HQA)",
+        "url": "https://open.spotify.com/album/5zPcj2i8Xt2JFA5zuK3NiN"
+      },
+      "artists": [
+        {
+          "name": "PBH & JACK",
+          "url": "https://open.spotify.com/artist/5WzFz4sQSN1HgSZLmIgHBl"
+        },
+        {
+          "name": "HQA",
+          "url": "https://open.spotify.com/artist/3odmSlXHTSCIZsSmB6XnCw"
+        }
+      ],
+      "duration_ms": 183434,
+      "name": "Set The Tempo (feat. HQA)",
+      "url": "https://open.spotify.com/track/4Fw9pEVsvkpwyIHoVKJ6yI"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Heritage",
+        "url": "https://open.spotify.com/album/4hO0xNT3cqylkfL5Raw3zG"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "duration_ms": 153847,
+      "name": "Hostile",
+      "url": "https://open.spotify.com/track/6LUzj32ZNLC5Ogju5UfSEi"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Goons",
         "url": "https://open.spotify.com/album/570lcnIjwcvVUCQAPNhOij"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 201904,
       "name": "Goons",
       "url": "https://open.spotify.com/track/4leBPYgRKj82Ce8ENp4Jxf"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Heritage",
-        "url": "https://open.spotify.com/album/4hO0xNT3cqylkfL5Raw3zG"
-      },
-      "artists": [
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        }
-      ],
-      "duration_ms": 153847,
-      "name": "Hostile",
-      "url": "https://open.spotify.com/track/6LUzj32ZNLC5Ogju5UfSEi"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1671,26 +1671,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "The Way We Touch",
-        "url": "https://open.spotify.com/album/13FtX9bJFhfsA8JAjUAjg1"
-      },
-      "artists": [
-        {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        },
-        {
-          "name": "Mahalo",
-          "url": "https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR"
-        }
-      ],
-      "duration_ms": 162580,
-      "name": "The Way We Touch",
-      "url": "https://open.spotify.com/track/3odB1ngbDmmLBdaaFu9d8D"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/4Hltgbaee9ENN0q6PeoPHx"
       },
@@ -1707,26 +1687,6 @@
       "duration_ms": 195268,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/7weI2jby4EDuZlWCVMB2xz"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Supah Fly",
-        "url": "https://open.spotify.com/album/4nSrZEL44ATq5YnzHkiPj0"
-      },
-      "artists": [
-        {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
-        },
-        {
-          "name": "Chi City",
-          "url": "https://open.spotify.com/artist/2ipMJ7CDYbsqysSF15uVpF"
-        }
-      ],
-      "duration_ms": 145777,
-      "name": "Party All Night",
-      "url": "https://open.spotify.com/track/6MCsbkXWaDDa408N1pUky7"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1751,6 +1711,26 @@
       "duration_ms": 291840,
       "name": "Calm Down",
       "url": "https://open.spotify.com/track/1a9Mq3Sr32PM93oWJ3vJU9"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "The Way We Touch",
+        "url": "https://open.spotify.com/album/13FtX9bJFhfsA8JAjUAjg1"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "Mahalo",
+          "url": "https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR"
+        }
+      ],
+      "duration_ms": 162580,
+      "name": "The Way We Touch",
+      "url": "https://open.spotify.com/track/3odB1ngbDmmLBdaaFu9d8D"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1803,6 +1783,26 @@
       "duration_ms": 215625,
       "name": "That's Right",
       "url": "https://open.spotify.com/track/3z8PEIdsoccN24sC7h9tB5"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Supah Fly",
+        "url": "https://open.spotify.com/album/4nSrZEL44ATq5YnzHkiPj0"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        },
+        {
+          "name": "Chi City",
+          "url": "https://open.spotify.com/artist/2ipMJ7CDYbsqysSF15uVpF"
+        }
+      ],
+      "duration_ms": 145777,
+      "name": "Party All Night",
+      "url": "https://open.spotify.com/track/6MCsbkXWaDDa408N1pUky7"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "RUSH",
-        "url": "https://open.spotify.com/album/7EINEJTzq3iW9Xny1Kd2h4"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        }
-      ],
-      "duration_ms": 163369,
-      "name": "RUSH",
-      "url": "https://open.spotify.com/track/4BIpVhPALiMEUpSdmIitol"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Around Me",
         "url": "https://open.spotify.com/album/7xN2V5CJqsTKeuEzS756SQ"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 210000,
       "name": "Around Me",
       "url": "https://open.spotify.com/track/1htEfLu0TYvsJRr2WsInkD"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "RUSH",
+        "url": "https://open.spotify.com/album/7EINEJTzq3iW9Xny1Kd2h4"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        }
+      ],
+      "duration_ms": 163369,
+      "name": "RUSH",
+      "url": "https://open.spotify.com/track/4BIpVhPALiMEUpSdmIitol"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1947,26 +1947,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Mini Motors",
-        "url": "https://open.spotify.com/album/1wZ4JnsQ0Lfert1OwBrc2H"
-      },
-      "artists": [
-        {
-          "name": "CHYL",
-          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
-        },
-        {
-          "name": "Fahjah",
-          "url": "https://open.spotify.com/artist/7LjoOGD9rMWkR8clGUu2Id"
-        }
-      ],
-      "duration_ms": 146857,
-      "name": "Smash!",
-      "url": "https://open.spotify.com/track/26kyr3Yr7lXCUCOWhMZumY"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "LIMIT",
         "url": "https://open.spotify.com/album/1gG2DU3odPahWbeJyA9jKU"
       },
@@ -1983,6 +1963,26 @@
       "duration_ms": 217142,
       "name": "LIMIT",
       "url": "https://open.spotify.com/track/76IbCTgkgm0t8PaX5x488g"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Mini Motors",
+        "url": "https://open.spotify.com/album/1wZ4JnsQ0Lfert1OwBrc2H"
+      },
+      "artists": [
+        {
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+        },
+        {
+          "name": "Fahjah",
+          "url": "https://open.spotify.com/artist/7LjoOGD9rMWkR8clGUu2Id"
+        }
+      ],
+      "duration_ms": 146857,
+      "name": "Smash!",
+      "url": "https://open.spotify.com/track/26kyr3Yr7lXCUCOWhMZumY"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -2131,74 +2131,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/3qSY86gdQhHFFXnsZUWNHl"
-      },
-      "artists": [
-        {
-          "name": "FETISH",
-          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
-        }
-      ],
-      "duration_ms": 138011,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/5qyNFGdbQxkYExSUeqVA9F"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Let It Drop",
-        "url": "https://open.spotify.com/album/7ioBTB82MiREoFryyTsx3V"
-      },
-      "artists": [
-        {
-          "name": "Sander van Doorn",
-          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
-        }
-      ],
-      "duration_ms": 193809,
-      "name": "Let It Drop",
-      "url": "https://open.spotify.com/track/0t9JXoDIf0sHBXNkw8Hw3o"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "BLEEP BLOOP",
-        "url": "https://open.spotify.com/album/2pYDaq6cycAXPtCShZk0zY"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Machine",
-          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
-        }
-      ],
-      "duration_ms": 152888,
-      "name": "BLEEP BLOOP",
-      "url": "https://open.spotify.com/track/3HVXJpaAL8ebZxd1oo8Bzc"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Spinnin'",
-        "url": "https://open.spotify.com/album/4QKGpE4b21hOsDGJ6yW8JS"
-      },
-      "artists": [
-        {
-          "name": "Holy Goof",
-          "url": "https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU"
-        },
-        {
-          "name": "Amy Grace",
-          "url": "https://open.spotify.com/artist/3LtXWr3HVgI37alYryJ4Io"
-        }
-      ],
-      "duration_ms": 256614,
-      "name": "Spinnin'",
-      "url": "https://open.spotify.com/track/3EuGZpuNdeAIK5Tosi2XTb"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "\u00a5\u20ac$",
         "url": "https://open.spotify.com/album/2o3gqsfh5Zzl8LA8qKLH6j"
       },
@@ -2223,6 +2155,74 @@
       "duration_ms": 255234,
       "name": "Six Figures",
       "url": "https://open.spotify.com/track/4I3G3oB4cfOiKN8q4fzXxQ"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/3qSY86gdQhHFFXnsZUWNHl"
+      },
+      "artists": [
+        {
+          "name": "FETISH",
+          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
+        }
+      ],
+      "duration_ms": 138011,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/5qyNFGdbQxkYExSUeqVA9F"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "BLEEP BLOOP",
+        "url": "https://open.spotify.com/album/2pYDaq6cycAXPtCShZk0zY"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Machine",
+          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
+        }
+      ],
+      "duration_ms": 152888,
+      "name": "BLEEP BLOOP",
+      "url": "https://open.spotify.com/track/3HVXJpaAL8ebZxd1oo8Bzc"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Let It Drop",
+        "url": "https://open.spotify.com/album/7ioBTB82MiREoFryyTsx3V"
+      },
+      "artists": [
+        {
+          "name": "Sander van Doorn",
+          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
+        }
+      ],
+      "duration_ms": 193809,
+      "name": "Let It Drop",
+      "url": "https://open.spotify.com/track/0t9JXoDIf0sHBXNkw8Hw3o"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Spinnin'",
+        "url": "https://open.spotify.com/album/4QKGpE4b21hOsDGJ6yW8JS"
+      },
+      "artists": [
+        {
+          "name": "Holy Goof",
+          "url": "https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU"
+        },
+        {
+          "name": "Amy Grace",
+          "url": "https://open.spotify.com/artist/3LtXWr3HVgI37alYryJ4Io"
+        }
+      ],
+      "duration_ms": 256614,
+      "name": "Spinnin'",
+      "url": "https://open.spotify.com/track/3EuGZpuNdeAIK5Tosi2XTb"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/0d4DHBW1784ap3EhId52ii"
-      },
-      "artists": [
-        {
-          "name": "BROHUG",
-          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/7MD0m1CkFZqFZnPBXIBxPe"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Bodymorph",
         "url": "https://open.spotify.com/album/50YeWlWfzOaFYPJjeQsqm3"
       },
@@ -2295,6 +2279,22 @@
       "duration_ms": 243333,
       "name": "Bodymorph",
       "url": "https://open.spotify.com/track/2ThE3B5ysWddfWZ4EXWjeR"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/0d4DHBW1784ap3EhId52ii"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/7MD0m1CkFZqFZnPBXIBxPe"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -2319,26 +2319,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "PBJ",
-        "url": "https://open.spotify.com/album/6INzRJV3JKaf0I42L1tPZU"
-      },
-      "artists": [
-        {
-          "name": "Henry Fong",
-          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
-        },
-        {
-          "name": "NITTI",
-          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
-        }
-      ],
-      "duration_ms": 168055,
-      "name": "PBJ",
-      "url": "https://open.spotify.com/track/0NmUL8gDbSDE3K7jBE4yFY"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Don Malaa",
         "url": "https://open.spotify.com/album/6241SeUdcPm2i4ZFIqqCUP"
       },
@@ -2355,6 +2335,26 @@
       "duration_ms": 240000,
       "name": "Discipline (with Tchami)",
       "url": "https://open.spotify.com/track/75V8CXNNjs25k0LiQXVD2H"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "PBJ",
+        "url": "https://open.spotify.com/album/6INzRJV3JKaf0I42L1tPZU"
+      },
+      "artists": [
+        {
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+        },
+        {
+          "name": "NITTI",
+          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
+        }
+      ],
+      "duration_ms": 168055,
+      "name": "PBJ",
+      "url": "https://open.spotify.com/track/0NmUL8gDbSDE3K7jBE4yFY"
     },
     {
       "added_at": "2023-11-03 04:00:00",

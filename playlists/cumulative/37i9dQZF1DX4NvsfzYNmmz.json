@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "Step Into Christmas",
+        "url": "https://open.spotify.com/album/3IOAHHCKjlxiwerwUplMMo"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246600,
+      "name": "Ho! Ho! Ho! (Who'd Be A Turkey At Christmas)",
+      "url": "https://open.spotify.com/track/3xabch3USCqA0JkvVc7Sb8"
+    },
+    {
+      "album": {
         "name": "Home for Christmas",
         "url": "https://open.spotify.com/album/2zctWsSDRj6fZgQnxr9ktX"
       },
@@ -394,7 +412,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 240533,
       "name": "Listen, The Snow Is Falling",
       "url": "https://open.spotify.com/track/0CNRErTWnDGVWnRUhPMaZf"

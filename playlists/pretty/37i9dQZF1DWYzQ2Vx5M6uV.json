@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Feid & Rema",
-  "num_followers": 115001,
+  "num_followers": 115007,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzN2NkOWI5ZjdmNWZmMTUwNWExZjMzZTRjNTFlNzg2ZTE5YWE4Yjdi",
+  "snapshot_id": "MCw2MjhmODFiN2Q5M2RhYTdmZjMzZjdlZTYwNmUxZWFlNDEzMTIzMDhh",
   "tracks": [
     {
       "added_at": "2023-11-24 07:57:26",
@@ -227,30 +227,6 @@
     {
       "added_at": "2023-11-24 07:57:26",
       "album": {
-        "name": "ENOC",
-        "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 214506,
-      "name": "Del Mar",
-      "url": "https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8"
-    },
-    {
-      "added_at": "2023-11-24 07:57:26",
-      "album": {
         "name": "Un Rodeoooo",
         "url": "https://open.spotify.com/album/0moZUivW5b3JvniIYYiaEi"
       },
@@ -351,6 +327,30 @@
     {
       "added_at": "2023-11-24 07:57:26",
       "album": {
+        "name": "ENOC",
+        "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 214506,
+      "name": "Del Mar",
+      "url": "https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8"
+    },
+    {
+      "added_at": "2023-11-24 07:57:26",
+      "album": {
         "name": "People (feat. Becky G) [Remixes]",
         "url": "https://open.spotify.com/album/49TVWS0iWtQ7ZAQFzqqpoB"
       },
@@ -367,26 +367,6 @@
       "duration_ms": 202760,
       "name": "People (feat. Becky G)",
       "url": "https://open.spotify.com/track/40OZkN8qle7lxaovVrn1QY"
-    },
-    {
-      "added_at": "2023-11-24 07:57:26",
-      "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 187269,
-      "name": "Rollercoaster (feat. J Balvin)",
-      "url": "https://open.spotify.com/track/6UbWYuDxDYmYYhsNYuYPPC"
     },
     {
       "added_at": "2023-11-24 07:57:26",
@@ -415,22 +395,38 @@
     {
       "added_at": "2023-11-24 07:57:26",
       "album": {
-        "name": "Tucu",
-        "url": "https://open.spotify.com/album/6Dm6d8bOCvfHm0VGaU9mpj"
+        "name": "Sin Gato (MIAU!)",
+        "url": "https://open.spotify.com/album/5Kav6970mLaRDQN1tSqWom"
       },
       "artists": [
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Amarion",
-          "url": "https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ"
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         }
       ],
-      "duration_ms": 186895,
-      "name": "Tucu",
-      "url": "https://open.spotify.com/track/1YIvYm5d9GnVXR0Q9SUER7"
+      "duration_ms": 148800,
+      "name": "Sin Gato (MIAU!)",
+      "url": "https://open.spotify.com/track/3vGYACdHXBG9COwobk3J5U"
+    },
+    {
+      "added_at": "2023-11-24 07:57:26",
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 187269,
+      "name": "Rollercoaster (feat. J Balvin)",
+      "url": "https://open.spotify.com/track/6UbWYuDxDYmYYhsNYuYPPC"
     },
     {
       "added_at": "2023-11-24 07:57:26",
@@ -455,22 +451,6 @@
     {
       "added_at": "2023-11-24 07:57:26",
       "album": {
-        "name": "Sin Gato (MIAU!)",
-        "url": "https://open.spotify.com/album/5Kav6970mLaRDQN1tSqWom"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "Sin Gato (MIAU!)",
-      "url": "https://open.spotify.com/track/3vGYACdHXBG9COwobk3J5U"
-    },
-    {
-      "added_at": "2023-11-24 07:57:26",
-      "album": {
         "name": "Getting Late",
         "url": "https://open.spotify.com/album/2N8jO8NkQ0pUyA0MFqRZM6"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 254557,
       "name": "Getting Late",
       "url": "https://open.spotify.com/track/79RAX0NTNBnzuLieO4zYcr"
+    },
+    {
+      "added_at": "2023-11-24 07:57:26",
+      "album": {
+        "name": "Tucu",
+        "url": "https://open.spotify.com/album/6Dm6d8bOCvfHm0VGaU9mpj"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Amarion",
+          "url": "https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ"
+        }
+      ],
+      "duration_ms": 186895,
+      "name": "Tucu",
+      "url": "https://open.spotify.com/track/1YIvYm5d9GnVXR0Q9SUER7"
     },
     {
       "added_at": "2023-11-24 07:57:26",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-11-24 07:57:26",
       "album": {
-        "name": "The Lion King: The Gift",
-        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 190108,
-      "name": "JA ARA E",
-      "url": "https://open.spotify.com/track/6pdip6qgVJOI5JxqgbAlu6"
-    },
-    {
-      "added_at": "2023-11-24 07:57:26",
-      "album": {
         "name": "ZaZa Vibes (Extended Version)",
         "url": "https://open.spotify.com/album/1QFQBlZ2zwGRcwhPwEOCpQ"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 164081,
       "name": "Sempe - Remix",
       "url": "https://open.spotify.com/track/27aOnrAdyXMNTDInNoXcYj"
+    },
+    {
+      "added_at": "2023-11-24 07:57:26",
+      "album": {
+        "name": "The Lion King: The Gift",
+        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 190108,
+      "name": "JA ARA E",
+      "url": "https://open.spotify.com/track/6pdip6qgVJOI5JxqgbAlu6"
     },
     {
       "added_at": "2023-11-24 07:57:26",
@@ -983,30 +983,6 @@
     {
       "added_at": "2023-11-24 07:57:26",
       "album": {
-        "name": "Midnight Boom (with ChocQuibTown & Afro B)",
-        "url": "https://open.spotify.com/album/522yErxxCtXTavUFmyNoDk"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        },
-        {
-          "name": "ChocQuibTown",
-          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
-        },
-        {
-          "name": "Afro B",
-          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
-        }
-      ],
-      "duration_ms": 220552,
-      "name": "Midnight Boom - with ChocQuibTown & Afro B",
-      "url": "https://open.spotify.com/track/46mjoNCQ3EifsDnd6dwqRD"
-    },
-    {
-      "added_at": "2023-11-24 07:57:26",
-      "album": {
         "name": "Hapo Tu",
         "url": "https://open.spotify.com/album/24PHVy5OkPyLKeR3Jjh6nc"
       },
@@ -1087,6 +1063,30 @@
     {
       "added_at": "2023-11-24 07:57:26",
       "album": {
+        "name": "Midnight Boom (with ChocQuibTown & Afro B)",
+        "url": "https://open.spotify.com/album/522yErxxCtXTavUFmyNoDk"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "ChocQuibTown",
+          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
+        },
+        {
+          "name": "Afro B",
+          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
+        }
+      ],
+      "duration_ms": 220552,
+      "name": "Midnight Boom - with ChocQuibTown & Afro B",
+      "url": "https://open.spotify.com/track/46mjoNCQ3EifsDnd6dwqRD"
+    },
+    {
+      "added_at": "2023-11-24 07:57:26",
+      "album": {
         "name": "Boom Bam (with Afro B & Mariah Angeliq",
         "url": "https://open.spotify.com/album/3SgiVymzgM0tF6U0Uua8hH"
       },
@@ -1143,22 +1143,6 @@
       "duration_ms": 186000,
       "name": "Sabi na Sabura",
       "url": "https://open.spotify.com/track/2Nq4ZaYNPniFCA1DOGJGLk"
-    },
-    {
-      "added_at": "2023-11-24 07:57:26",
-      "album": {
-        "name": "Claramente",
-        "url": "https://open.spotify.com/album/4tOaBzNRKy3Dl0Kz6itXoH"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        }
-      ],
-      "duration_ms": 182542,
-      "name": "Claramente",
-      "url": "https://open.spotify.com/track/3aDFCQQfwcL4aaYEjybAKh"
     },
     {
       "added_at": "2023-11-24 07:57:26",
@@ -1239,6 +1223,22 @@
       "duration_ms": 231520,
       "name": "Sanga Zoo (feat. Farruko)",
       "url": "https://open.spotify.com/track/6RcQeYGYy2N8CR6N1HJN5T"
+    },
+    {
+      "added_at": "2023-11-24 07:57:26",
+      "album": {
+        "name": "Claramente",
+        "url": "https://open.spotify.com/album/4tOaBzNRKy3Dl0Kz6itXoH"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        }
+      ],
+      "duration_ms": 182542,
+      "name": "Claramente",
+      "url": "https://open.spotify.com/track/3aDFCQQfwcL4aaYEjybAKh"
     },
     {
       "added_at": "2023-11-24 07:57:26",
@@ -1439,22 +1439,18 @@
     {
       "added_at": "2023-11-24 07:57:26",
       "album": {
-        "name": "Flavors 2",
-        "url": "https://open.spotify.com/album/5cUTeXN3B75U1f7cmnyZB2"
+        "name": "GUERRA",
+        "url": "https://open.spotify.com/album/7LMX8MddqoPLWjnm049mkt"
       },
       "artists": [
         {
-          "name": "LATENIGHTJIGGY",
-          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
-        },
-        {
-          "name": "Caleb Calloway",
-          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
+          "name": "Aissa",
+          "url": "https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374"
         }
       ],
-      "duration_ms": 194042,
-      "name": "Prende",
-      "url": "https://open.spotify.com/track/5GQfpkhixRA9U3LKINOjRH"
+      "duration_ms": 232000,
+      "name": "GUERRA",
+      "url": "https://open.spotify.com/track/66nfXAO6C4u5EFQ2DZR8MZ"
     }
   ],
   "unique_name": "Afro Ritmo",

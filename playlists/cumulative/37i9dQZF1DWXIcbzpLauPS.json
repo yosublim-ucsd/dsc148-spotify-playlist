@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Metalcore at its finest. Cover: Hollow Front",
+  "description": "Metalcore at its finest. Cover: I SEE STARS",
   "name": "The Core",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 163200,
       "name": "(\u2022REC)",
       "url": "https://open.spotify.com/track/4fvR2GgkKNA3fF6sJkEWrF"
+    },
+    {
+      "album": {
+        "name": "+ ylva +",
+        "url": "https://open.spotify.com/album/4LVxtKIFHnU89rhBv90s6D"
+      },
+      "artists": [
+        {
+          "name": "Vildhjarta",
+          "url": "https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281226,
+      "name": "+ ylva +",
+      "url": "https://open.spotify.com/track/2NBcS6KrorQ2kjSheJTarf"
     },
     {
       "album": {
@@ -406,7 +424,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 179275,
       "name": "A.N.X.I.E.T.Y.",
       "url": "https://open.spotify.com/track/2FlSBOa7In5PcpL5SXFwkW"
@@ -936,7 +954,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 198146,
       "name": "Anomaly",
       "url": "https://open.spotify.com/track/1nLWr0rKTLTZNEcgU5WEdD"
@@ -2249,6 +2267,24 @@
     },
     {
       "album": {
+        "name": "Broken Bloodlines",
+        "url": "https://open.spotify.com/album/0osYFo3GUQBBXDNA6i7XxM"
+      },
+      "artists": [
+        {
+          "name": "Defects",
+          "url": "https://open.spotify.com/artist/1GcIqiLEyWGgVdglxShjZ3"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276000,
+      "name": "Broken Bloodlines",
+      "url": "https://open.spotify.com/track/66HeAsE4CABgtGJxE8Fyg6"
+    },
+    {
+      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/0Rzu3mifln0xaAZ2pAUnm5"
       },
@@ -3107,6 +3143,24 @@
     },
     {
       "album": {
+        "name": "D4MAGE DONE",
+        "url": "https://open.spotify.com/album/0aLZoFfNBXhbJf7W75grCN"
+      },
+      "artists": [
+        {
+          "name": "I See Stars",
+          "url": "https://open.spotify.com/artist/3iCJOi5YKh247eutgCyLFe"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195133,
+      "name": "D4MAGE DONE",
+      "url": "https://open.spotify.com/track/7BnK1opiLlkxkBQ0TVKRYw"
+    },
+    {
+      "album": {
         "name": "Daggers",
         "url": "https://open.spotify.com/album/3RC2BMP1bYDgext5fX0w6w"
       },
@@ -3180,7 +3234,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 198206,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/3E0kmaCVPaxw4D55Nt2cen"
@@ -3820,7 +3874,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 245599,
       "name": "Desolation",
       "url": "https://open.spotify.com/track/3ZD0qLiUdLVn1eWDfDhaq2"
@@ -5145,6 +5199,28 @@
     },
     {
       "album": {
+        "name": "Feeding Demons",
+        "url": "https://open.spotify.com/album/7rQCaT8IrSeHya58WzpGkG"
+      },
+      "artists": [
+        {
+          "name": "Self Deception",
+          "url": "https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0"
+        },
+        {
+          "name": "Dead by April",
+          "url": "https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197093,
+      "name": "Feeding Demons",
+      "url": "https://open.spotify.com/track/0S7aPnRsDKpvuKOt91iNdq"
+    },
+    {
+      "album": {
         "name": "Feel Alive",
         "url": "https://open.spotify.com/album/12VlpHTisx4dXj00opt0kV"
       },
@@ -5525,6 +5601,24 @@
     },
     {
       "album": {
+        "name": "The Sin of Human Frailty",
+        "url": "https://open.spotify.com/album/6o6dgZpNASxsEcIbAGVJTq"
+      },
+      "artists": [
+        {
+          "name": "END",
+          "url": "https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163586,
+      "name": "Gaping Wounds of Earth",
+      "url": "https://open.spotify.com/track/6olzwjMrNrHgrkQPZFpe4Y"
+    },
+    {
+      "album": {
         "name": "Generation Genocide",
         "url": "https://open.spotify.com/album/3DgG62Z7goTUZ7jWVAsXNi"
       },
@@ -5710,7 +5804,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 168521,
       "name": "GOIN 2 HELL",
       "url": "https://open.spotify.com/track/47WoBYrrnC4zEUjBYroids"
@@ -5916,7 +6010,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 156024,
       "name": "guilt",
       "url": "https://open.spotify.com/track/3RYluxwP7PfEywwILPUv7a"
@@ -6108,6 +6202,24 @@
       "duration_ms": 210748,
       "name": "Heathens",
       "url": "https://open.spotify.com/track/42PD5CnANDCJkcLPPuH4Zd"
+    },
+    {
+      "album": {
+        "name": "Heaven Shall Burn",
+        "url": "https://open.spotify.com/album/7nJzHteWK38ha0G1J8i57V"
+      },
+      "artists": [
+        {
+          "name": "Imminence",
+          "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247473,
+      "name": "Heaven Shall Burn",
+      "url": "https://open.spotify.com/track/0C8mZZLRaf2X8MKCVkbMbC"
     },
     {
       "album": {
@@ -6393,6 +6505,24 @@
     },
     {
       "album": {
+        "name": "A Love To Kill For",
+        "url": "https://open.spotify.com/album/78lMWOIljykkcV0WucWMpj"
+      },
+      "artists": [
+        {
+          "name": "Chamber",
+          "url": "https://open.spotify.com/artist/0Iv7bsODzqbmMkC6pylYYN"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67667,
+      "name": "Hopeless Portrait",
+      "url": "https://open.spotify.com/track/2ebjBbRm5bNy6Ld8lcrHMo"
+    },
+    {
+      "album": {
         "name": "Hopeless Portrait",
         "url": "https://open.spotify.com/album/3Ino5A3iTUQDm32HfxF7Vw"
       },
@@ -6530,7 +6660,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-28",
+      "date_removed": null,
       "duration_ms": 237739,
       "name": "I Found The Dark Side of Heaven",
       "url": "https://open.spotify.com/track/2gOT76GIAA7tnrxgunCAZk"
@@ -6668,6 +6798,32 @@
       "duration_ms": 230400,
       "name": "Immolation of Night",
       "url": "https://open.spotify.com/track/3OOeWlT6cQYNbdJ4qcBipL"
+    },
+    {
+      "album": {
+        "name": "Impending Doom",
+        "url": "https://open.spotify.com/album/6qWJPjjNxJ6UZ7pen61yGJ"
+      },
+      "artists": [
+        {
+          "name": "Tenside",
+          "url": "https://open.spotify.com/artist/23d3dPHmTdEax2Ok6vTkke"
+        },
+        {
+          "name": "Darkest Hour",
+          "url": "https://open.spotify.com/artist/4dso1lISV1Atdo3O6qbhqq"
+        },
+        {
+          "name": "John Henry",
+          "url": "https://open.spotify.com/artist/6pJO5vWK0frFRhSmh9GLsq"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203926,
+      "name": "Impending Doom",
+      "url": "https://open.spotify.com/track/7dOQP4Y2djQCDuNXGct5vl"
     },
     {
       "album": {
@@ -7104,7 +7260,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 267744,
       "name": "Jaded",
       "url": "https://open.spotify.com/track/6syEBcinz3tRLPwM9Kdemo"
@@ -7304,6 +7460,24 @@
       "duration_ms": 214291,
       "name": "KILL",
       "url": "https://open.spotify.com/track/1Y6D0zTXwFytLR7XnNRjdT"
+    },
+    {
+      "album": {
+        "name": "Killshot",
+        "url": "https://open.spotify.com/album/6RLzKueY42p7BlSIRgOpVC"
+      },
+      "artists": [
+        {
+          "name": "Upon A Burning Body",
+          "url": "https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152547,
+      "name": "Killshot",
+      "url": "https://open.spotify.com/track/3F8Bjx90CZMEWADfHSImPN"
     },
     {
       "album": {
@@ -7654,6 +7828,24 @@
       "duration_ms": 243000,
       "name": "Lilac",
       "url": "https://open.spotify.com/track/6qevKIIxFnwZuhk93LZ1BX"
+    },
+    {
+      "album": {
+        "name": "Limitless",
+        "url": "https://open.spotify.com/album/4nCEePCITdLSbq32U5bEwO"
+      },
+      "artists": [
+        {
+          "name": "Any Given Day",
+          "url": "https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208235,
+      "name": "Limitless",
+      "url": "https://open.spotify.com/track/2ymlRQX0M06wDpzsCxXaxj"
     },
     {
       "album": {
@@ -8525,6 +8717,24 @@
     },
     {
       "album": {
+        "name": "Mystic Cord",
+        "url": "https://open.spotify.com/album/3jVi4YL9O4ZIoe7eFFJQKE"
+      },
+      "artists": [
+        {
+          "name": "Many Eyes",
+          "url": "https://open.spotify.com/artist/001Hfjmktqije9a7IvGuFb"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181400,
+      "name": "Mystic Cord",
+      "url": "https://open.spotify.com/track/2gO2rwntCs0InXql4AOQTV"
+    },
+    {
+      "album": {
         "name": "Nefarious",
         "url": "https://open.spotify.com/album/68g2t1UpqqHUPzYJzeGhZt"
       },
@@ -9331,6 +9541,24 @@
     },
     {
       "album": {
+        "name": "on the verge",
+        "url": "https://open.spotify.com/album/4jrVOK9sQX5PmGeASmN230"
+      },
+      "artists": [
+        {
+          "name": "thrown",
+          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "on the verge",
+      "url": "https://open.spotify.com/track/75dS4i4yFu4R4WBrneLXIC"
+    },
+    {
+      "album": {
         "name": "On Wings of Carnage",
         "url": "https://open.spotify.com/album/5niBQpquiMHRxrrjrNtgNB"
       },
@@ -9444,6 +9672,24 @@
       "duration_ms": 190470,
       "name": "Overlord",
       "url": "https://open.spotify.com/track/1Tg8yTnIA7lNC2aQPbuQHd"
+    },
+    {
+      "album": {
+        "name": "Shrine (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4lVuGbhw2ly53pLTpyCDow"
+      },
+      "artists": [
+        {
+          "name": "Bleed From Within",
+          "url": "https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219666,
+      "name": "Overthrone",
+      "url": "https://open.spotify.com/track/5zXwa7RclZDap8ooWXEIyb"
     },
     {
       "album": {
@@ -9708,6 +9954,24 @@
       "duration_ms": 315178,
       "name": "Pernicious",
       "url": "https://open.spotify.com/track/7uDhTPFdGnIXGUWIlCoQl8"
+    },
+    {
+      "album": {
+        "name": "Perpetual Terminal",
+        "url": "https://open.spotify.com/album/4SYGnQBzkOTHXvCaPL8CiB"
+      },
+      "artists": [
+        {
+          "name": "Darkest Hour",
+          "url": "https://open.spotify.com/artist/4dso1lISV1Atdo3O6qbhqq"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347373,
+      "name": "Perpetual Terminal",
+      "url": "https://open.spotify.com/track/4TDy9DvlFtLp3XE3jhMfj5"
     },
     {
       "album": {
@@ -10218,6 +10482,24 @@
       "duration_ms": 199500,
       "name": "Reaper",
       "url": "https://open.spotify.com/track/6I7ilpVQq4oETOdmHPL5LE"
+    },
+    {
+      "album": {
+        "name": "Denial // Rebirth",
+        "url": "https://open.spotify.com/album/3g3XJA0QdfwjiCBYhDPOTF"
+      },
+      "artists": [
+        {
+          "name": "Crystal Lake",
+          "url": "https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229933,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/0JjaBtJv5jHQG5pQlEAhPa"
     },
     {
       "album": {
@@ -11379,6 +11661,24 @@
     },
     {
       "album": {
+        "name": "Soul Chasm",
+        "url": "https://open.spotify.com/album/4zkhWlE1kPQbgd4qJPxOUA"
+      },
+      "artists": [
+        {
+          "name": "Heriot",
+          "url": "https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204112,
+      "name": "Soul Chasm",
+      "url": "https://open.spotify.com/track/66fCFGrX5XQD69VumC1sZA"
+    },
+    {
+      "album": {
         "name": "Spaceman (feat. FiNCH)",
         "url": "https://open.spotify.com/album/5bbrawfeXG2MHOYw0OSTyK"
       },
@@ -11841,6 +12141,24 @@
     },
     {
       "album": {
+        "name": "Swallowed By The Earth",
+        "url": "https://open.spotify.com/album/0IfHSdSp7ALCTtnp4R1BCB"
+      },
+      "artists": [
+        {
+          "name": "Being As An Ocean",
+          "url": "https://open.spotify.com/artist/7ML9AQvVVE3c5m0sx1PlmP"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206962,
+      "name": "Swallowed By The Earth",
+      "url": "https://open.spotify.com/track/4L6XoVXkIznbbnptvFyMk0"
+    },
+    {
+      "album": {
         "name": "Swan Song",
         "url": "https://open.spotify.com/album/6iyYpayZwijzhvTAQfYvue"
       },
@@ -12000,7 +12318,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 208880,
       "name": "Take Off",
       "url": "https://open.spotify.com/track/0TSz9TsaZXc6I6yKAa4xCD"
@@ -12036,7 +12354,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 196500,
       "name": "Talk to Me",
       "url": "https://open.spotify.com/track/4QOuEQBmCJJJhYTkrE5Zy2"
@@ -13159,6 +13477,24 @@
     },
     {
       "album": {
+        "name": "Two Alive Amongst The Dead",
+        "url": "https://open.spotify.com/album/4Kwjj9SUOtSG80euLteDsS"
+      },
+      "artists": [
+        {
+          "name": "Better Lovers",
+          "url": "https://open.spotify.com/artist/3mStoA23qANDeMqHi2oqze"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167426,
+      "name": "Two Alive Amongst The Dead",
+      "url": "https://open.spotify.com/track/4CjxnxOt8coAxh51QZEHkI"
+    },
+    {
+      "album": {
         "name": "Two Steps",
         "url": "https://open.spotify.com/album/7oGehKuFNAi8QjjbJokrc3"
       },
@@ -13780,7 +14116,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 206850,
       "name": "Wasted Space",
       "url": "https://open.spotify.com/track/2swqb0ij8Xpksi4A7tqE6i"

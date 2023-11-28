@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Billyrrom
 
-1,025 songs - 2 day 16 hr 3 min
+1,026 songs - 2 day 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,7 +307,7 @@
 | [Jurassic](https://open.spotify.com/track/7HcpoYSDvOks6YAE2A3JQn) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Jurassic](https://open.spotify.com/album/6dgCSpkDbi4Y4WJpC24nZ8) | 2:57 | 2023-07-18 | 2023-08-23 |
 | [Just A Game feat\. Benny Sings](https://open.spotify.com/track/3Hjrizdjm4Knd5KiVgKW1l) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Just A Game feat\. Benny Sings](https://open.spotify.com/album/1z4MVjlHPchvfc8BAZaXqr) | 4:19 | 2023-11-21 | 2023-11-23 |
 | [Just A Game feat\. Benny Sings](https://open.spotify.com/track/788y834RoRJUQAH2O8jq7u) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Just A Game feat\. Benny Sings](https://open.spotify.com/album/5vrhmmQ8OL0SnNtEpNb5G0) | 4:19 | 2023-11-21 |  |
-| [Just an Ordinary Sunday](https://open.spotify.com/track/6p6NytZ2eNa7ZWstx6Kvva) | [EMPTYSCENARIO](https://open.spotify.com/artist/6KbPaXqXnqgcSfdK1kN9lu) | [Just an Ordinary Sunday](https://open.spotify.com/album/02s2ewiUd2YgGpL5uH9WWq) | 3:02 | 2023-08-15 |  |
+| [Just an Ordinary Sunday](https://open.spotify.com/track/6p6NytZ2eNa7ZWstx6Kvva) | [EMPTYSCENARIO](https://open.spotify.com/artist/6KbPaXqXnqgcSfdK1kN9lu) | [Just an Ordinary Sunday](https://open.spotify.com/album/02s2ewiUd2YgGpL5uH9WWq) | 3:02 | 2023-08-15 | 2023-11-28 |
 | [Just Wanna Live It Up](https://open.spotify.com/track/5cqsYIfTp31RBjyJURiku7) | [Sugar House](https://open.spotify.com/artist/688OLNQQtC0VGgYhVXCYVP) | [Just Wanna Live It Up](https://open.spotify.com/album/0ZovDMTQVxsIrCBffLVH49) | 4:46 | 2023-04-04 | 2023-04-12 |
 | [Kaigara Bushi](https://open.spotify.com/track/1h3R8qQQg7XXxJXtXC2K1F) | [民謡クルセイダーズ](https://open.spotify.com/artist/6y2mWIw5wZardbauKap0LI) | [Tour of Japan](https://open.spotify.com/album/7wGkxUU2BAHk6vPEypdUJ2) | 5:25 | 2023-11-23 |  |
 | [Kaka feat\. punipunidenki](https://open.spotify.com/track/7ad6IlRnchYtUIBGC8BUdf) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb), [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK) | [Kaka feat\. punipunidenki](https://open.spotify.com/album/6V4s8g2PPSNOBuNT8g517t) | 4:05 | 2023-09-20 | 2023-10-18 |
@@ -463,6 +463,7 @@
 | [Rainbow Light Eyes](https://open.spotify.com/track/13VrYQ0GkLoqcHhLezrKOl) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [Rainbow Light Eyes](https://open.spotify.com/album/0AoYZYkXxDRo3iT7Wzwk9H) | 3:12 | 2023-06-27 | 2023-08-23 |
 | [RainRain](https://open.spotify.com/track/382csZGIXhIwBPTXiBqjSt) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [RainRain](https://open.spotify.com/album/22IRy53zNivNN48RwqF7N1) | 4:50 | 2023-06-13 | 2023-06-15 |
 | [RainRain](https://open.spotify.com/track/5X3cQ46Ekm50vcdjpokdEC) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [RainRain](https://open.spotify.com/album/0gAGsoAIdUK5i1iGQWhoud) | 4:50 | 2023-06-13 | 2023-06-21 |
+| [Rainy Day](https://open.spotify.com/track/22f48KIbKzgpOkAtVvyUQW) | [Offo tokyo](https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y) | [Rainy Day](https://open.spotify.com/album/2AFqDaqL6nvDsYRZwXpPWu) | 3:01 | 2023-11-24 |  |
 | [Ravel](https://open.spotify.com/track/4LGHishH8X6vGpF58Y8PCd) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [fab](https://open.spotify.com/album/7iCqvrw9Nrvh2199sUwzzT) | 3:39 | 2023-01-12 | 2023-01-25 |
 | [rays of the sun](https://open.spotify.com/track/3ZnARchlY8crHqgPvHzRE0) | [THE LOVE NINGEN](https://open.spotify.com/artist/5fJn0h6ZtPjwNZQcjCbdBI) | [rays of the sun](https://open.spotify.com/album/7qnrSMCS9AlRonIY0zmn8o) | 6:46 | 2023-10-26 | 2023-11-08 |
 | [Re: 日帰りで \- lovely summer mix](https://open.spotify.com/track/1uhvDgjUOGjw8LMV45zpJY) | [ゆっきゅん](https://open.spotify.com/artist/5Y9FO0DbxGApgPFNh4HBNA), [ラブリーサマーちゃん](https://open.spotify.com/artist/4RqW2gDA0WcAHD0Mc9yc6L) | [Re: 日帰りで \(lovely summer mix\)](https://open.spotify.com/album/6Zk2JBsPUUswrM2VRNPQfH) | 2:52 | 2023-08-15 | 2023-08-17 |

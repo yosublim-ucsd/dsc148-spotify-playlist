@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-858 songs - 2 day 7 hr 59 min
+859 songs - 2 day 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -585,7 +585,7 @@
 | [Puppy Eyes](https://open.spotify.com/track/520YkTPlI3EqAjgONKWYM5) | [Tommie Blayne](https://open.spotify.com/artist/204e8Dl05BFPHdRr5icPdx) | [Puppy Eyes](https://open.spotify.com/album/0Hccs1iqF1ON4O7otJqA6M) | 3:31 | 2023-06-01 |  |
 | [Pure Imagination](https://open.spotify.com/track/7iP9VLNBi1M52IFT8ZCyAa) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr), [Dena DeRose](https://open.spotify.com/artist/2Ror5pi9KTS40JRNzcWxj3), [Ignasi González](https://open.spotify.com/artist/60JCzYj9SSZ3DZdyONwr5P), [Jo Krause](https://open.spotify.com/artist/1TYodU4WCCM39ztPleTYuy) | [Street of Dreams](https://open.spotify.com/album/7qIDAwVcQxA6jIIvaQ9WcD) | 5:17 | 2021-12-03 | 2022-05-25 |
 | [Purple Shades](https://open.spotify.com/track/4cvRXIv9hBLFPWwGDpyfTm) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Julian "Cannonball" Adderley](https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8) | 3:32 | 2021-12-03 |  |
-| [Put on the Badge](https://open.spotify.com/track/2jYoYfXjP26mON92ffXYrH) | [Erik Moreau](https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG) | [Put on the Badge](https://open.spotify.com/album/7blUfTMgeMGVFLwPaKA5Uu) | 3:30 | 2023-03-16 |  |
+| [Put on the Badge](https://open.spotify.com/track/2jYoYfXjP26mON92ffXYrH) | [Erik Moreau](https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG) | [Put on the Badge](https://open.spotify.com/album/7blUfTMgeMGVFLwPaKA5Uu) | 3:30 | 2023-03-16 | 2023-11-28 |
 | [Put Out The Lights](https://open.spotify.com/track/5PQXmu4gJHZDY5ORO4xoc8) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Put Out The Lights](https://open.spotify.com/album/3WpJUKYRgLNpnG4nPtuFbN) | 2:54 | 2023-01-12 |  |
 | [Quiet Now](https://open.spotify.com/track/1huvv8Z1AAnhA9yQhPs4Ac) | [Douglas Ruby Trio](https://open.spotify.com/artist/1viVBXkZrTMnLT6hsFhiMM) | [Quiet Now](https://open.spotify.com/album/2KxhaFZRnS27o7vFcMbJXG) | 2:47 | 2023-05-25 |  |
 | [Quiet Sunset](https://open.spotify.com/track/2bjt3Gki4hIwX9EIrSuYQA) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Beautiful Sunrise](https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH) | 5:27 | 2023-02-09 |  |
@@ -835,6 +835,7 @@
 | [Winchester In Apple Blossom Time](https://open.spotify.com/track/6S6bbgUm80TdelwOPf0dsR) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [Maiden Voyage](https://open.spotify.com/album/21MJ5rAzKnQ4mSdrvbeuC4) | 3:18 | 2022-11-10 |  |
 | [Windless Waters](https://open.spotify.com/track/7FMsiew09v6ICDI5MU1Jc5) | [Lee Davis](https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp) | [Windless Waters](https://open.spotify.com/album/4VavAVgUen9lslDOZtqizc) | 3:30 | 2022-11-10 |  |
 | [Without A Song](https://open.spotify.com/track/1nsMASRDWwUwlBMmOuh80d) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [Without A Song](https://open.spotify.com/album/7KckOMQ11H9HTjolar2ch7) | 3:56 | 2022-11-10 | 2023-02-24 |
+| [Wonder](https://open.spotify.com/track/2N0uJQtWTrPUs8EtNZxfkC) | [Piper Williamson](https://open.spotify.com/artist/5ahbWWBc8VL95P5BG7Miai) | [Wonder](https://open.spotify.com/album/7GKxxoyMHw1iRgaO62o61o) | 3:46 | 2023-11-24 |  |
 | [Wooden String](https://open.spotify.com/track/7A0Tfue4lSnzJsudy5m7y9) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [Wooden String](https://open.spotify.com/album/0JNbiCpZInQlQcYnRzVGZS) | 3:24 | 2023-08-10 |  |
 | [Words Can't Describe](https://open.spotify.com/track/2ZVo4KkwzAWImTGirpOt6P) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Swingin' Easy](https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju) | 4:35 | 2021-12-03 |  |
 | [Worry and Gossip](https://open.spotify.com/track/32BL3Zghn1hSCgpgLSrUqc) | [Courtney Salas Group](https://open.spotify.com/artist/7hQlDvOgJjwCaF5Ecsvnj7) | [Worry and Gossip](https://open.spotify.com/album/1GA9JcA89pxedYvGc7FUqV) | 3:41 | 2023-10-13 |  |

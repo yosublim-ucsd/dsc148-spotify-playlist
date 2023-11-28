@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with NGHTMRE, Rezz & DeathbyRomy",
-  "num_followers": 976973,
+  "num_followers": 976990,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTQ4ODJjYTQ4NjliNTFlYWNkNzRiZjYyNTdiZGEzNmNkMGVkMmQx",
+  "snapshot_id": "MCxiOGRkNjZiZDA3MTVjMGEwMWQ5OTYyODJkYTcwNmNlN2U0ODM5OGM2",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -815,46 +815,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Where You Are (GRiZ Remix)",
-        "url": "https://open.spotify.com/album/6kULCT45GzgLQp2DbCA0oS"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Hayla",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        },
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Where You Are - GRiZ Remix",
-      "url": "https://open.spotify.com/track/47kEJq44ZBrRBD4gvdCu0v"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Red Bouquet EP",
-        "url": "https://open.spotify.com/album/2Jio5YUHsNgllBtXkDJF50"
-      },
-      "artists": [
-        {
-          "name": "12th Planet",
-          "url": "https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "Defeated",
-      "url": "https://open.spotify.com/track/0M1LWZK1kkiF2fbqt62pcf"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Quest For Fire",
         "url": "https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt"
       },
@@ -875,6 +835,46 @@
       "duration_ms": 126774,
       "name": "RATATA",
       "url": "https://open.spotify.com/track/4wteGC0HtLeZWjDcczc4Pw"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Red Bouquet EP",
+        "url": "https://open.spotify.com/album/2Jio5YUHsNgllBtXkDJF50"
+      },
+      "artists": [
+        {
+          "name": "12th Planet",
+          "url": "https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz"
+        }
+      ],
+      "duration_ms": 169600,
+      "name": "Defeated",
+      "url": "https://open.spotify.com/track/0M1LWZK1kkiF2fbqt62pcf"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Where You Are (GRiZ Remix)",
+        "url": "https://open.spotify.com/album/6kULCT45GzgLQp2DbCA0oS"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        },
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Where You Are - GRiZ Remix",
+      "url": "https://open.spotify.com/track/47kEJq44ZBrRBD4gvdCu0v"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -957,6 +957,22 @@
       "url": "https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp"
     },
     {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "GASOLINA & COCAINA",
+        "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        }
+      ],
+      "duration_ms": 192390,
+      "name": "GASOLINA & COCAINA",
+      "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
+    },
+    {
       "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Say The Word (feat. Clementine Douglas)",
@@ -975,22 +991,6 @@
       "duration_ms": 237133,
       "name": "Say The Word (feat. Clementine Douglas)",
       "url": "https://open.spotify.com/track/1jxGhPyCn9SZR9eqrTduja"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "GASOLINA & COCAINA",
-        "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        }
-      ],
-      "duration_ms": 192390,
-      "name": "GASOLINA & COCAINA",
-      "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1275,6 +1275,26 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "Bass To The Dome",
+        "url": "https://open.spotify.com/album/7wm9Wbf0GZ1wxTEyHQeMu0"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "duration_ms": 203224,
+      "name": "Bass To The Dome",
+      "url": "https://open.spotify.com/track/6nVyDjAhify9FGCF8TViJy"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "kidsgonemad!",
         "url": "https://open.spotify.com/album/2O3rWF27iqSzozxnVfPkXA"
       },
@@ -1307,46 +1327,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/1MyRd6S8tq6eG9nzsdStA6"
-      },
-      "artists": [
-        {
-          "name": "Seven Lions",
-          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
-        },
-        {
-          "name": "Kill The Noise",
-          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/6sXg6Tv9mq5Qv0TWVdfcUE"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Bass To The Dome",
-        "url": "https://open.spotify.com/album/7wm9Wbf0GZ1wxTEyHQeMu0"
-      },
-      "artists": [
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        },
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        }
-      ],
-      "duration_ms": 203224,
-      "name": "Bass To The Dome",
-      "url": "https://open.spotify.com/track/6nVyDjAhify9FGCF8TViJy"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "HEADSH\u00d6T",
         "url": "https://open.spotify.com/album/1c5e7aPE2A16KQDZVImEE2"
       },
@@ -1367,6 +1347,26 @@
       "duration_ms": 157036,
       "name": "HEADSH\u00d6T",
       "url": "https://open.spotify.com/track/1I53j1Vvwkla8P2JIecioT"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/1MyRd6S8tq6eG9nzsdStA6"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "Kill The Noise",
+          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/6sXg6Tv9mq5Qv0TWVdfcUE"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1449,22 +1449,6 @@
       "url": "https://open.spotify.com/track/27hGDu6VTcXy0sugTIsDvv"
     },
     {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "The Nature of Hope",
-        "url": "https://open.spotify.com/album/64ZcjP0jb06XnpDf3VxXwm"
-      },
-      "artists": [
-        {
-          "name": "William Black",
-          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
-        }
-      ],
-      "duration_ms": 210206,
-      "name": "Straight Into The Ground",
-      "url": "https://open.spotify.com/track/01HgVS08pxNO7CZGoeeBXa"
-    },
-    {
       "added_at": "2023-10-20 04:01:00",
       "album": {
         "name": "You Found Me",
@@ -1489,6 +1473,22 @@
       "url": "https://open.spotify.com/track/5caU54QlqCMPEKIbQ3nbhd"
     },
     {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "The Nature of Hope",
+        "url": "https://open.spotify.com/album/64ZcjP0jb06XnpDf3VxXwm"
+      },
+      "artists": [
+        {
+          "name": "William Black",
+          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
+        }
+      ],
+      "duration_ms": 210206,
+      "name": "Straight Into The Ground",
+      "url": "https://open.spotify.com/track/01HgVS08pxNO7CZGoeeBXa"
+    },
+    {
       "added_at": "2023-10-20 04:01:00",
       "album": {
         "name": "Muscaria / Everglade March (VIP)",
@@ -1503,26 +1503,6 @@
       "duration_ms": 169462,
       "name": "Muscaria",
       "url": "https://open.spotify.com/track/2oHt6KQZ5IXExcBEQhObjZ"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "RAVEN",
-        "url": "https://open.spotify.com/album/6tX2IEgpNeLwODIXR36mOS"
-      },
-      "artists": [
-        {
-          "name": "Grey",
-          "url": "https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl"
-        },
-        {
-          "name": "Virtual Riot",
-          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "RAVEN",
-      "url": "https://open.spotify.com/track/6tk1LRABEXt2zygYj3jmPt"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1543,6 +1523,26 @@
       "duration_ms": 208941,
       "name": "SHYPOP",
       "url": "https://open.spotify.com/track/7fBzVMo0aAD3GIqhq6zv3s"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "RAVEN",
+        "url": "https://open.spotify.com/album/6tX2IEgpNeLwODIXR36mOS"
+      },
+      "artists": [
+        {
+          "name": "Grey",
+          "url": "https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl"
+        },
+        {
+          "name": "Virtual Riot",
+          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "RAVEN",
+      "url": "https://open.spotify.com/track/6tk1LRABEXt2zygYj3jmPt"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1585,26 +1585,6 @@
       "url": "https://open.spotify.com/track/4K0pPcYPRIBDavThi6FD0r"
     },
     {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Scared",
-        "url": "https://open.spotify.com/album/6wtDx4QNiMVpSzpQgrX5N0"
-      },
-      "artists": [
-        {
-          "name": "PEEKABOO",
-          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
-        },
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        }
-      ],
-      "duration_ms": 243238,
-      "name": "Scared",
-      "url": "https://open.spotify.com/track/7DgRZtTKvoa6PlbOUbsU5N"
-    },
-    {
       "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Portals",
@@ -1627,6 +1607,26 @@
       "duration_ms": 182665,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/43girkLVD5WYKCBMOphHhd"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Scared",
+        "url": "https://open.spotify.com/album/6wtDx4QNiMVpSzpQgrX5N0"
+      },
+      "artists": [
+        {
+          "name": "PEEKABOO",
+          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
+        },
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        }
+      ],
+      "duration_ms": 243238,
+      "name": "Scared",
+      "url": "https://open.spotify.com/track/7DgRZtTKvoa6PlbOUbsU5N"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1687,18 +1687,26 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Summer Of Saigon",
-        "url": "https://open.spotify.com/album/770o01vMAudjvaj6TzBnMO"
+        "name": "Skull Machine",
+        "url": "https://open.spotify.com/album/4N45nvS8gGoJ9kRxnBnk6J"
       },
       "artists": [
         {
-          "name": "Elephant Heart",
-          "url": "https://open.spotify.com/artist/2nwPBvsuf070C7KYSWoXbD"
+          "name": "Black Tiger Sex Machine",
+          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
+        },
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        },
+        {
+          "name": "Wasiu",
+          "url": "https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2"
         }
       ],
-      "duration_ms": 233452,
-      "name": "Summer Of Saigon",
-      "url": "https://open.spotify.com/track/5BWpRTmIud6QuaKxZI4Ilr"
+      "duration_ms": 195310,
+      "name": "Skull Machine",
+      "url": "https://open.spotify.com/track/5ScWfZGzV29Pr9dk7gLl95"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1723,26 +1731,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Skull Machine",
-        "url": "https://open.spotify.com/album/4N45nvS8gGoJ9kRxnBnk6J"
+        "name": "Summer Of Saigon",
+        "url": "https://open.spotify.com/album/770o01vMAudjvaj6TzBnMO"
       },
       "artists": [
         {
-          "name": "Black Tiger Sex Machine",
-          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
-        },
-        {
-          "name": "Kai Wachi",
-          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
-        },
-        {
-          "name": "Wasiu",
-          "url": "https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2"
+          "name": "Elephant Heart",
+          "url": "https://open.spotify.com/artist/2nwPBvsuf070C7KYSWoXbD"
         }
       ],
-      "duration_ms": 195310,
-      "name": "Skull Machine",
-      "url": "https://open.spotify.com/track/5ScWfZGzV29Pr9dk7gLl95"
+      "duration_ms": 233452,
+      "name": "Summer Of Saigon",
+      "url": "https://open.spotify.com/track/5BWpRTmIud6QuaKxZI4Ilr"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -2063,22 +2063,18 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Next Shot",
-        "url": "https://open.spotify.com/album/7hdaK9tIbwej1JVwuCcxOM"
+        "name": "Grenade",
+        "url": "https://open.spotify.com/album/5ByIux1mE8VfB072JtjUWL"
       },
       "artists": [
         {
-          "name": "12th Planet",
-          "url": "https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz"
-        },
-        {
-          "name": "Vulgatron",
-          "url": "https://open.spotify.com/artist/3BojQr5ihZly0IUXsLPN3w"
+          "name": "QUIX",
+          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Next Shot",
-      "url": "https://open.spotify.com/track/450ieMdH9byHoYTXfx8ORV"
+      "duration_ms": 248147,
+      "name": "Grenade",
+      "url": "https://open.spotify.com/track/4tRDqT9CZtUGnjGAJNVqaQ"
     }
   ],
   "unique_name": "Bass Arcade",

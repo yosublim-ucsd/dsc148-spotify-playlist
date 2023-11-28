@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: Loukeman\. Artwork by Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,353 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,364 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [Love On The Rocks](https://open.spotify.com/track/3T3PEkQXBMCOLOQ9A9ntJi) | [AP](https://open.spotify.com/artist/71zi5yfTB8iaatcC2C02N9), [Gimbrère](https://open.spotify.com/artist/4HqkjcEv5aTHSFZRlHSEHs) | [Love on the Rocks](https://open.spotify.com/album/6QNM8RbgKE24NoQgzxDZcr) | 3:27 |
 | 100 | [Changes](https://open.spotify.com/track/3jhHrxY2eyV4zciR8WfzIc) | [Dugong Jr](https://open.spotify.com/artist/5CJyoIE9kMfWbFbdVk721i) | [Changes](https://open.spotify.com/album/0RS8mVII3i0aAhTWcsMpG2) | 3:59 |
 
-Snapshot ID: `MCwxY2IwY2I0ZmUyM2RiNDQ2ZTkyYTAwZmU1MDRmZWNjNTNjN2Q0MmU4`
+Snapshot ID: `MCwyMWZjMmJiZjIxMDlmOGY5NzY5MDRiYWQyNjg1Njk4ZjRjMmZhMzJl`

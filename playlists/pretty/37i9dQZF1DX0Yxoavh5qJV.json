@@ -1,12 +1,12 @@
 {
   "description": "The biggest Christmas songs of all time.",
-  "num_followers": 5409733,
+  "num_followers": 5416497,
   "original_name": "Christmas Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTg2OGEyNTkzNTc0MTAzMWFkNTM2MDUzODMwYjgwN2IxNjc4MmQy",
+  "snapshot_id": "MCxlZDhjNTJjOGZmZTYxZjJkYTE0ZmY0MmQ0YzE0Mzc3MzcxYjE2Y2Ix",
   "tracks": [
     {
       "added_at": "2023-11-26 03:51:47",
@@ -375,18 +375,26 @@
     {
       "added_at": "2023-11-26 03:51:47",
       "album": {
-        "name": "Merry Christmas Everyone",
-        "url": "https://open.spotify.com/album/2jCRKrNZVbG2lGMs0S9Opa"
+        "name": "Greatest Christmas Songs",
+        "url": "https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7"
       },
       "artists": [
         {
-          "name": "Shakin' Stevens",
-          "url": "https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib"
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        },
+        {
+          "name": "The Fontane Sisters",
+          "url": "https://open.spotify.com/artist/1Ml4OuStDoympbREURAM15"
+        },
+        {
+          "name": "Mitchell Ayres & His Orchestra",
+          "url": "https://open.spotify.com/artist/0HS96tPggl2nwiz3gNWWI5"
         }
       ],
-      "duration_ms": 220160,
-      "name": "Merry Christmas Everyone",
-      "url": "https://open.spotify.com/track/2TE4xW3ImvpltVU0cPcKUn"
+      "duration_ms": 155933,
+      "name": "It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra)",
+      "url": "https://open.spotify.com/track/2pXpURmn6zC5ZYDMms6fwa"
     },
     {
       "added_at": "2023-11-26 03:51:47",
@@ -423,42 +431,34 @@
     {
       "added_at": "2023-11-26 03:51:47",
       "album": {
-        "name": "Greatest Christmas Songs",
-        "url": "https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7"
+        "name": "Merry Christmas Everyone",
+        "url": "https://open.spotify.com/album/2jCRKrNZVbG2lGMs0S9Opa"
       },
       "artists": [
         {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
-        },
-        {
-          "name": "The Fontane Sisters",
-          "url": "https://open.spotify.com/artist/1Ml4OuStDoympbREURAM15"
-        },
-        {
-          "name": "Mitchell Ayres & His Orchestra",
-          "url": "https://open.spotify.com/artist/0HS96tPggl2nwiz3gNWWI5"
+          "name": "Shakin' Stevens",
+          "url": "https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib"
         }
       ],
-      "duration_ms": 155933,
-      "name": "It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra)",
-      "url": "https://open.spotify.com/track/2pXpURmn6zC5ZYDMms6fwa"
+      "duration_ms": 220160,
+      "name": "Merry Christmas Everyone",
+      "url": "https://open.spotify.com/track/2TE4xW3ImvpltVU0cPcKUn"
     },
     {
       "added_at": "2023-11-26 03:51:47",
       "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+        "name": "Elvis' Christmas Album",
+        "url": "https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N"
       },
       "artists": [
         {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
         }
       ],
-      "duration_ms": 153240,
-      "name": "Christmas (Baby Please Come Home)",
-      "url": "https://open.spotify.com/track/3PIDciSFdrQxSQSihim3hN"
+      "duration_ms": 129173,
+      "name": "Blue Christmas",
+      "url": "https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ"
     },
     {
       "added_at": "2023-11-26 03:51:47",
@@ -511,18 +511,18 @@
     {
       "added_at": "2023-11-26 03:51:47",
       "album": {
-        "name": "Elvis' Christmas Album",
-        "url": "https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N"
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
       },
       "artists": [
         {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         }
       ],
-      "duration_ms": 129173,
-      "name": "Blue Christmas",
-      "url": "https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ"
+      "duration_ms": 153240,
+      "name": "Christmas (Baby Please Come Home)",
+      "url": "https://open.spotify.com/track/3PIDciSFdrQxSQSihim3hN"
     },
     {
       "added_at": "2023-11-26 03:51:47",
@@ -575,18 +575,18 @@
     {
       "added_at": "2023-11-26 03:51:47",
       "album": {
-        "name": "Christmas Tree Farm",
-        "url": "https://open.spotify.com/album/5JnnrTE35MQagEnEkFthiF"
+        "name": "Like It's Christmas",
+        "url": "https://open.spotify.com/album/2SOQX9qSOQhxc0PsI5LNnu"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
         }
       ],
-      "duration_ms": 228026,
-      "name": "Christmas Tree Farm",
-      "url": "https://open.spotify.com/track/2mvabkN1i2gLnGAPUVdwek"
+      "duration_ms": 200880,
+      "name": "Like It's Christmas",
+      "url": "https://open.spotify.com/track/1OjmlSFuzYflWjSMTCyTJv"
     },
     {
       "added_at": "2023-11-26 03:51:47",
@@ -607,18 +607,18 @@
     {
       "added_at": "2023-11-26 03:51:47",
       "album": {
-        "name": "Like It's Christmas",
-        "url": "https://open.spotify.com/album/2SOQX9qSOQhxc0PsI5LNnu"
+        "name": "Christmas Tree Farm",
+        "url": "https://open.spotify.com/album/5JnnrTE35MQagEnEkFthiF"
       },
       "artists": [
         {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 200880,
-      "name": "Like It's Christmas",
-      "url": "https://open.spotify.com/track/1OjmlSFuzYflWjSMTCyTJv"
+      "duration_ms": 228026,
+      "name": "Christmas Tree Farm",
+      "url": "https://open.spotify.com/track/2mvabkN1i2gLnGAPUVdwek"
     },
     {
       "added_at": "2023-11-26 03:51:47",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-11-26 03:51:47",
       "album": {
-        "name": "The Beach Boys' Christmas Album",
-        "url": "https://open.spotify.com/album/67nqYhvjDyJXGD64937Lw3"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 118840,
-      "name": "Little Saint Nick - 1991 Remix",
-      "url": "https://open.spotify.com/track/5xlS0QkVrSH7ssEbBgBzbM"
-    },
-    {
-      "added_at": "2023-11-26 03:51:47",
-      "album": {
         "name": "Jingle Bell Rock",
         "url": "https://open.spotify.com/album/46RzcdoDpVi5UcRLML218R"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 126360,
       "name": "Jingle Bell Rock - Daryl's Version",
       "url": "https://open.spotify.com/track/6pVW5LRWgeLaHudxauOTJU"
+    },
+    {
+      "added_at": "2023-11-26 03:51:47",
+      "album": {
+        "name": "The Beach Boys' Christmas Album",
+        "url": "https://open.spotify.com/album/67nqYhvjDyJXGD64937Lw3"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 118840,
+      "name": "Little Saint Nick - 1991 Remix",
+      "url": "https://open.spotify.com/track/5xlS0QkVrSH7ssEbBgBzbM"
     },
     {
       "added_at": "2023-11-26 03:51:47",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-11-26 03:51:47",
       "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 266933,
-      "name": "O Holy Night",
-      "url": "https://open.spotify.com/track/3B7FO3kJ5kv3mX7yiaB7sT"
-    },
-    {
-      "added_at": "2023-11-26 03:51:47",
-      "album": {
         "name": "Bing Crosby - Christmas Classics",
         "url": "https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A"
       },
@@ -1147,18 +1131,18 @@
     {
       "added_at": "2023-11-26 03:51:47",
       "album": {
-        "name": "A Jolly Christmas From Frank Sinatra",
-        "url": "https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq"
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         }
       ],
-      "duration_ms": 136426,
-      "name": "Mistletoe And Holly - Remastered 1999",
-      "url": "https://open.spotify.com/track/7faDzZnZYqTyYThx2sbHVQ"
+      "duration_ms": 266933,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/3B7FO3kJ5kv3mX7yiaB7sT"
     },
     {
       "added_at": "2023-11-26 03:51:47",
@@ -1175,6 +1159,22 @@
       "duration_ms": 182520,
       "name": "Cozy Little Christmas",
       "url": "https://open.spotify.com/track/02FaKXXL7KUtRc7K0k54tL"
+    },
+    {
+      "added_at": "2023-11-26 03:51:47",
+      "album": {
+        "name": "A Jolly Christmas From Frank Sinatra",
+        "url": "https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 136426,
+      "name": "Mistletoe And Holly - Remastered 1999",
+      "url": "https://open.spotify.com/track/7faDzZnZYqTyYThx2sbHVQ"
     },
     {
       "added_at": "2023-11-26 03:51:47",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2023-11-26 03:51:47",
       "album": {
+        "name": "Learning to Crawl (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3"
+      },
+      "artists": [
+        {
+          "name": "Pretenders",
+          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+        }
+      ],
+      "duration_ms": 220426,
+      "name": "2000 Miles - 2007 Remaster",
+      "url": "https://open.spotify.com/track/5wTM2Bm8phDwHAuOsfBwhU"
+    },
+    {
+      "added_at": "2023-11-26 03:51:47",
+      "album": {
         "name": "Under The Mistletoe",
         "url": "https://open.spotify.com/album/2nndXLmS4C16yX7UJBWW2U"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 225687,
       "name": "Under The Mistletoe",
       "url": "https://open.spotify.com/track/2K4XbdyLxi9jhqVQeyUKRK"
-    },
-    {
-      "added_at": "2023-11-26 03:51:47",
-      "album": {
-        "name": "Learning to Crawl (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3"
-      },
-      "artists": [
-        {
-          "name": "Pretenders",
-          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
-        }
-      ],
-      "duration_ms": 220426,
-      "name": "2000 Miles - 2007 Remaster",
-      "url": "https://open.spotify.com/track/5wTM2Bm8phDwHAuOsfBwhU"
     },
     {
       "added_at": "2023-11-26 03:51:47",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2023-11-26 03:51:47",
       "album": {
+        "name": "Tougher Than Leather (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5opAMGIf8Hn7xIaTPdHFDv"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 178613,
+      "name": "Christmas In Hollis",
+      "url": "https://open.spotify.com/track/41onDks2UPbyjer5fMeUWf"
+    },
+    {
+      "added_at": "2023-11-26 03:51:47",
+      "album": {
         "name": "The Works (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/7oHaj9jkWHByziQsqGAb8V"
       },
@@ -1599,18 +1615,18 @@
     {
       "added_at": "2023-11-26 03:51:47",
       "album": {
-        "name": "Tougher Than Leather (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5opAMGIf8Hn7xIaTPdHFDv"
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/3r4C6wYkCYL65QjkU5oJ8y"
       },
       "artists": [
         {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
         }
       ],
-      "duration_ms": 178613,
-      "name": "Christmas In Hollis",
-      "url": "https://open.spotify.com/track/41onDks2UPbyjer5fMeUWf"
+      "duration_ms": 164613,
+      "name": "It's Beginning To Look A Lot Like Christmas",
+      "url": "https://open.spotify.com/track/1uh1iaMqBdx4XyrXhssKGD"
     },
     {
       "added_at": "2023-11-26 03:51:47",
@@ -1663,22 +1679,6 @@
       "duration_ms": 169293,
       "name": "Someday At Christmas",
       "url": "https://open.spotify.com/track/0GMbNoVqoycx9qd9ggIP8V"
-    },
-    {
-      "added_at": "2023-11-26 03:51:47",
-      "album": {
-        "name": "Christmas",
-        "url": "https://open.spotify.com/album/3r4C6wYkCYL65QjkU5oJ8y"
-      },
-      "artists": [
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        }
-      ],
-      "duration_ms": 164613,
-      "name": "It's Beginning To Look A Lot Like Christmas",
-      "url": "https://open.spotify.com/track/1uh1iaMqBdx4XyrXhssKGD"
     }
   ],
   "unique_name": "Christmas Hits",

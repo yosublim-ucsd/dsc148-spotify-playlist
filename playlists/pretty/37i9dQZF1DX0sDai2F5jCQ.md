@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 
 > Hip\-Hop's hottest from Australia, New Zealand and beyond\. Cover: Day1
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,971 likes - 64 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,071 likes - 64 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 | 24 | [Van Cleef Island](https://open.spotify.com/track/6XpOsw4d970xooR27nqHiJ) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Saint Michael](https://open.spotify.com/album/3hfXFibd09Z5FjzkVir5lw) | 2:31 |
 | 25 | [All My Life \(Burna Boy Remix\)](https://open.spotify.com/track/6vyM1yoPhhdezAcW8CmCJq) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All My Life \(Remixes\) \(feat\. Burna Boy\)](https://open.spotify.com/album/11OlFW8YpwZTlhAdc0NCV7) | 4:24 |
 | 26 | [WE SEE YOU](https://open.spotify.com/track/58UHOOryzm04eyyhpS8qSQ) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [WE SEE YOU](https://open.spotify.com/album/1cjqc70Mk83ImBsBPQ7Qix) | 2:22 |
-| 27 | [Loverboy](https://open.spotify.com/track/13qfi5nBlDX1bWF13EbVbX) | [AMARNI](https://open.spotify.com/artist/6HxQEau8zFYzY8fJ7pKEco), [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [Loverboy](https://open.spotify.com/album/1qnrZlibwgqcGEFhvAKav1) | 2:49 |
+| 27 | [](https://open.spotify.com/track/13qfi5nBlDX1bWF13EbVbX) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1qnrZlibwgqcGEFhvAKav1) | 0:00 |
 | 28 | [Rich Baby Daddy \(feat\. Sexyy Red & SZA\)](https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 5:19 |
 | 29 | [And We](https://open.spotify.com/track/2bKnka3kbhgqGb4pCHPmYl) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [And We](https://open.spotify.com/album/1LsthOymdj0WByKPShsB3W) | 2:41 |
 | 30 | [Scary \(feat\. Aitch\)](https://open.spotify.com/track/1FuNxUJozvzMV2AvxFDCMo) | [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Scary \(feat\. Aitch\)](https://open.spotify.com/album/35Fe3Uvw64VWPPYLdf9Ts9) | 2:24 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 | 63 | [UK Rap](https://open.spotify.com/track/2VjOTvl50tscmc0RDjPdr2) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog) | 3:18 |
 | 64 | [Proper](https://open.spotify.com/track/3Dz7D9Ve3VLFBpmsQXiUJv) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I), [NASA NOVA](https://open.spotify.com/artist/06QjJe1vLugKmPVdMKVCUR), [Masi Rooc](https://open.spotify.com/artist/7lVylfM4gOIszKc9dr1EOc) | [Sinning Winning Living](https://open.spotify.com/album/6cq7FuEXbkgunvfNfVBshk) | 3:22 |
 
-Snapshot ID: `MCxhMWJlODhkMzlhMTRkNWYxMzQxODllZDU4MjJmMWI0NDVhYmUxMTNh`
+Snapshot ID: `MCxhODQ5MzRlZDk5ZTE0MGFhYzljYzcxMzRiOWIxOWNkZTk2ZmEzMTYx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Hamza
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,238 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,251 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,27 +36,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 26 | [Il faudrait](https://open.spotify.com/track/62raj97K1yOi8mk54SLohm) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [Il faudrait](https://open.spotify.com/album/2ODYDrN5YG9HVVBiBlg796) | 3:42 |
 | 27 | [Commando](https://open.spotify.com/track/36aSwnrZXd0k334PSXT7w2) | [Shay](https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU) | [Commando](https://open.spotify.com/album/0UrZIIXENkXrBBvhwqyMJx) | 2:51 |
 | 28 | [Terminus](https://open.spotify.com/track/5RDeToFz2JnPSvJyhcoz4J) | [Sidiki Diabaté](https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Terminus](https://open.spotify.com/album/0E35WUjsmg1t3SSSZqstHT) | 2:38 |
-| 29 | [Préjudice](https://open.spotify.com/track/4QNPtD5yF7sTwoE92n2sSg) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Préjudice](https://open.spotify.com/album/5v5g6wVemrFkJFJDe4S77V) | 2:01 |
+| 29 | [MAGHRIBI](https://open.spotify.com/track/01GVrWU4CZgZyHFMShuQb1) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 4:14 |
 | 30 | [Warda](https://open.spotify.com/track/1LSz924w38ZryrV1nGnFIV) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [ATHENA](https://open.spotify.com/album/4krkLLyWeRYqr8JLIAx0KP) | 3:11 |
-| 31 | [Vautours](https://open.spotify.com/track/3Z6CZX1swZYFc4vInNQzIO) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Vautours](https://open.spotify.com/album/4W8PYeeUqDsani46ODRgLK) | 3:10 |
-| 32 | [MAGHRIBI](https://open.spotify.com/track/01GVrWU4CZgZyHFMShuQb1) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 4:14 |
+| 31 | [Préjudice](https://open.spotify.com/track/4QNPtD5yF7sTwoE92n2sSg) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Préjudice](https://open.spotify.com/album/5v5g6wVemrFkJFJDe4S77V) | 2:01 |
+| 32 | [Vautours](https://open.spotify.com/track/3Z6CZX1swZYFc4vInNQzIO) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Vautours](https://open.spotify.com/album/4W8PYeeUqDsani46ODRgLK) | 3:10 |
 | 33 | [Je suis fou](https://open.spotify.com/track/2u6z1c1TruNQeNVv0xw1HT) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF), [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [à 2 à 3](https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d) | 3:46 |
 | 34 | [I Got U \(feat\. Niska\)](https://open.spotify.com/track/1jSJOq8PEYMnSdonuMz4eK) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [I Got U \(feat\. Niska\)](https://open.spotify.com/album/0Iq4aDgUWAe4uz4zdpA6JR) | 3:22 |
 | 35 | [PROTOCOLE \- A COLORS SHOW](https://open.spotify.com/track/2wzrkGLKgMbkRYRw8bo0HX) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [PROTOCOLE \- A COLORS SHOW](https://open.spotify.com/album/67fxAS0referLXN4dJlKr3) | 2:57 |
 | 36 | [Encore plus](https://open.spotify.com/track/39lgf886U50NvJ8DRntHIL) | [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK) | [Encore plus](https://open.spotify.com/album/2p1iQufm1aLmR3oIo6ENOr) | 3:09 |
 | 37 | [C'est drôle](https://open.spotify.com/track/4czTL8KGYPjR0mWyQy7z6B) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [C'est drôle](https://open.spotify.com/album/6WfOHoMzaQSMDeUGbUBccF) | 2:57 |
 | 38 | [Comme ça](https://open.spotify.com/track/5FLLf89AfmWazFDM6ojiGk) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Comme ça](https://open.spotify.com/album/0wXuAfHyW6b04NTj1CjUYt) | 2:31 |
-| 39 | [Maintenant](https://open.spotify.com/track/2GOyEBwixrrrT6LdscVoxo) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Renaud](https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r) | [Maintenant](https://open.spotify.com/album/3QoOwSTdtIHltBdrel4lav) | 3:09 |
-| 40 | [XOXO](https://open.spotify.com/track/2S9p5lu7tZvYMob6q7mmBe) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [XOXO](https://open.spotify.com/album/1HXZARN2w0GDcZ4QHwNo9N) | 3:03 |
-| 41 | [Promets\-moi](https://open.spotify.com/track/4NZUIBH4Nrqepi8GyDerit) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Charlotte](https://open.spotify.com/album/0FupCLD5qVgIl3Omjjp6gu) | 3:08 |
-| 42 | [Il y a](https://open.spotify.com/track/5H3s6pH2SQsp6a0n8k0BrW) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Il y a](https://open.spotify.com/album/55RuSf55f21hk6VLj55JYs) | 3:25 |
-| 43 | [CRASH <3](https://open.spotify.com/track/3qxpjvGzwjP4b6EDYLaon6) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [CRASH CŒUR](https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK) | 2:49 |
-| 44 | [Sensations](https://open.spotify.com/track/1UfM6gnwpBhkzMw07kK6TP) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Plaisir Risque Dépendance](https://open.spotify.com/album/6Xadqm9viEhsKgp0zRp8Gc) | 2:42 |
-| 45 | [Joli coeur](https://open.spotify.com/track/00YhQePKpHGPqcnmYxIj0x) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Joli coeur](https://open.spotify.com/album/2r0jcbln2gKoim766i3rsd) | 3:14 |
+| 39 | [XOXO](https://open.spotify.com/track/2S9p5lu7tZvYMob6q7mmBe) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [XOXO](https://open.spotify.com/album/1HXZARN2w0GDcZ4QHwNo9N) | 3:03 |
+| 40 | [Maintenant](https://open.spotify.com/track/2GOyEBwixrrrT6LdscVoxo) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Renaud](https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r) | [Maintenant](https://open.spotify.com/album/3QoOwSTdtIHltBdrel4lav) | 3:09 |
+| 41 | [Il y a](https://open.spotify.com/track/5H3s6pH2SQsp6a0n8k0BrW) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Il y a](https://open.spotify.com/album/55RuSf55f21hk6VLj55JYs) | 3:25 |
+| 42 | [Joli coeur](https://open.spotify.com/track/00YhQePKpHGPqcnmYxIj0x) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Joli coeur](https://open.spotify.com/album/2r0jcbln2gKoim766i3rsd) | 3:14 |
+| 43 | [Sensations](https://open.spotify.com/track/1UfM6gnwpBhkzMw07kK6TP) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Plaisir Risque Dépendance](https://open.spotify.com/album/6Xadqm9viEhsKgp0zRp8Gc) | 2:42 |
+| 44 | [Promets\-moi](https://open.spotify.com/track/4NZUIBH4Nrqepi8GyDerit) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Charlotte](https://open.spotify.com/album/0FupCLD5qVgIl3Omjjp6gu) | 3:08 |
+| 45 | [CRASH <3](https://open.spotify.com/track/3qxpjvGzwjP4b6EDYLaon6) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [CRASH CŒUR](https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK) | 2:49 |
 | 46 | [Parler de nous](https://open.spotify.com/track/32YBIhzebjwpqwSYZbDiu9) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [Parler de nous](https://open.spotify.com/album/3lVI7Rh4ow2Yqs6RQL56Ds) | 3:13 |
 | 47 | [Tant de choses](https://open.spotify.com/track/7ac0WtAVR9UjpSyrDY9yLQ) | [DTF](https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM) | [Tant de choses](https://open.spotify.com/album/6EfLgtRJhhgLDPriPnpbgU) | 3:24 |
 | 48 | [Jane Birkin](https://open.spotify.com/track/4xsVpeTSTh64G82qf2HHaF) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Jane Birkin](https://open.spotify.com/album/2oN1NPHrJDWBFeUiG0phb2) | 3:16 |
 | 49 | [Beau \(feat\. Julien Doré\)](https://open.spotify.com/track/7xZrirKz1fymGxGVPtRRRk) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI), [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [Miroirs](https://open.spotify.com/album/5y08xFNtrldDoRVDAH30Uu) | 2:56 |
 | 50 | [Avec elle](https://open.spotify.com/track/2cjMxpKD3fAmM0iZPWHJri) | [GLK](https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez) | [Avec elle](https://open.spotify.com/album/3zVzY7IdtotQVKGCPOUiBg) | 2:46 |
 
-Snapshot ID: `MCxmMTNhZTc0MTAwNTJkOGUwOTc2ZmYwNDYyN2RkNzVmYWJhMDJhNzU0`
+Snapshot ID: `MCw1ZmUwZjI3YzBhZmIwMzFmNDgyMDhkNDYwMzQ4ZWYwNTE5MjY4Yjlh`

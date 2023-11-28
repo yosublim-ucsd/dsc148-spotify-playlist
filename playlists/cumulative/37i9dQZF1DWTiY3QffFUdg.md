@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-109 songs - 6 hr 30 min
+110 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,12 +92,13 @@
 | [Rock With Me](https://open.spotify.com/track/2BfFW4C5SIgbp33539WAah) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi) | [Rock With Me](https://open.spotify.com/album/7g7DbWfA0XSpsnFsyrvRlP) | 3:25 | 2023-08-11 | 2023-11-05 |
 | [Say You Will](https://open.spotify.com/track/63IsPNecHLiwqMMxzeVG12) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Say You Will](https://open.spotify.com/album/1gBgLMEQraFgv7KrMQqxYV) | 2:12 | 2023-09-01 | 2023-09-30 |
 | [Schwer](https://open.spotify.com/track/4hy6D6HomELGqmQOEYGrPt) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Schwer](https://open.spotify.com/album/7mI1XA20ReNz09JlfJzn10) | 3:34 | 2023-09-19 |  |
+| [Silence](https://open.spotify.com/track/5iXgpgzmDiafKqRk4Tl4d2) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K) | [Silence](https://open.spotify.com/album/0NWM2Hrpligv2VaMnVUX2Y) | 2:58 | 2023-11-17 |  |
 | [Simulator](https://open.spotify.com/track/4VosqOFgprZKZz3EeDOdMA) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Simulator](https://open.spotify.com/album/6gP0CsJDvNuJJfCjXamjFJ) | 3:40 | 2023-08-11 | 2023-09-11 |
 | [Spicey \- Original](https://open.spotify.com/track/4V8WSDvLpCtcmeXn5ZZLCd) | [GHSTGHSTGHST](https://open.spotify.com/artist/3SrkcdnKx2kzCHGFk9xE48) | [Spicey \(Original\)](https://open.spotify.com/album/25RnjGOl1DrXiXDlG6axld) | 2:31 | 2023-08-11 | 2023-08-21 |
 | [Sunglasses At Night](https://open.spotify.com/track/6eoY6XnhGFr3HInyECJdbx) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Sunglasses At Night](https://open.spotify.com/album/4hLi7mKyVQ3tL20otPQpk1) | 2:50 | 2023-11-17 |  |
 | [Sweat](https://open.spotify.com/track/2uoaR6QNRYMB0zu0cUcM65) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx) | [Sweat](https://open.spotify.com/album/0s6xr1TAPOzNXYNEmlHksU) | 2:12 | 2023-10-06 |  |
 | [Tattoo](https://open.spotify.com/track/0GVQIYb9oqnGfpOLwTSJYZ) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [KAJAK](https://open.spotify.com/artist/3srwAioEB5zIlrxWpWcPyt) | [Tattoo](https://open.spotify.com/album/3VCCl78VS8ZnDppo7pjIC8) | 3:12 | 2023-09-22 |  |
-| [Techno Sound](https://open.spotify.com/track/3gjOaU0kFaCGF4Bu09lk4C) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy) | [Techno Sound](https://open.spotify.com/album/6c6jnpfD9LorJLDJI0bSm5) | 3:09 | 2023-08-25 |  |
+| [Techno Sound](https://open.spotify.com/track/3gjOaU0kFaCGF4Bu09lk4C) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy) | [Techno Sound](https://open.spotify.com/album/6c6jnpfD9LorJLDJI0bSm5) | 3:09 | 2023-08-25 | 2023-11-28 |
 | [Tell Me Why](https://open.spotify.com/track/4BvBTmceA5V1pDuaC3RabS) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9), [Jack Holiday](https://open.spotify.com/artist/64yON9pK0j392YkionGKAF) | [Tell Me Why](https://open.spotify.com/album/224hEKX6NC4pzENbWL2vXj) | 2:15 | 2023-10-20 |  |
 | [The Age Of Love \(Charlotte de Witte & Enrico Sangiuliano Remix\)](https://open.spotify.com/track/6R84ZlQF7gGkPB6o3GLZXB) | [Age Of Love](https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn), [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [The Age Of Love \(Charlotte de Witte & Enrico Sangiuliano Remix\) \[Charlotte de Witte & Enrico Sangiuliano Remix \- Edit\]](https://open.spotify.com/album/7CXTNkULXDTd2oHt4S9dp7) | 8:09 | 2023-08-11 |  |
 | [The Blaze](https://open.spotify.com/track/0jHezfBKttmYivLmNvUzzt) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [The Theory EP](https://open.spotify.com/album/0kV5GMyTCu0SEV60COyDLr) | 4:30 | 2023-08-11 | 2023-09-06 |

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Franco Escamilla y McKlopedia en portada. ",
-  "num_followers": 11933,
+  "num_followers": 11938,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDBiNzhkYTJlZDk1N2ZmNWVmZTVkNmQ0ZGQ5OGZhYjk1YjVkNDkx",
+  "snapshot_id": "MCxhMzA4MDBlNzAyOGM4MzI4N2NjZGY4NGI3NmE4ZDUxNGNmOTBiYjdk",
   "tracks": [
     {
       "added_at": "2023-11-24 06:00:00",
@@ -339,6 +339,50 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
+        "name": "Alcatraz",
+        "url": "https://open.spotify.com/album/2NEQkPwH58q77gdlzODUWD"
+      },
+      "artists": [
+        {
+          "name": "AMBKOR",
+          "url": "https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Emanero",
+          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
+        }
+      ],
+      "duration_ms": 219374,
+      "name": "Alcatraz",
+      "url": "https://open.spotify.com/track/4SvYTCLX6aQWWrK3wTJ2QN"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "Miercoles 14 B",
+        "url": "https://open.spotify.com/album/5g6z6Bvu23BqNXXfs5BcJd"
+      },
+      "artists": [
+        {
+          "name": "Wolty",
+          "url": "https://open.spotify.com/artist/0tabWyvzBwZR4NVIotBm21"
+        },
+        {
+          "name": "Galaxy Supreme",
+          "url": "https://open.spotify.com/artist/4KUE7uGmx0inp86jN3YcqB"
+        }
+      ],
+      "duration_ms": 152202,
+      "name": "Miercoles 14 B",
+      "url": "https://open.spotify.com/track/3VIKS5lV34Jsx32qmtLTfB"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
         "name": "Malvada",
         "url": "https://open.spotify.com/album/6FUY0mliGmcUTZDyDgah6I"
       },
@@ -367,50 +411,6 @@
       "duration_ms": 321951,
       "name": "Malvada",
       "url": "https://open.spotify.com/track/3yE70C2cmJ9FcuIEL7u23e"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "Miercoles 14 B",
-        "url": "https://open.spotify.com/album/5g6z6Bvu23BqNXXfs5BcJd"
-      },
-      "artists": [
-        {
-          "name": "Wolty",
-          "url": "https://open.spotify.com/artist/0tabWyvzBwZR4NVIotBm21"
-        },
-        {
-          "name": "Galaxy Supreme",
-          "url": "https://open.spotify.com/artist/4KUE7uGmx0inp86jN3YcqB"
-        }
-      ],
-      "duration_ms": 152202,
-      "name": "Miercoles 14 B",
-      "url": "https://open.spotify.com/track/3VIKS5lV34Jsx32qmtLTfB"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "Alcatraz",
-        "url": "https://open.spotify.com/album/2NEQkPwH58q77gdlzODUWD"
-      },
-      "artists": [
-        {
-          "name": "AMBKOR",
-          "url": "https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Emanero",
-          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
-        }
-      ],
-      "duration_ms": 219374,
-      "name": "Alcatraz",
-      "url": "https://open.spotify.com/track/4SvYTCLX6aQWWrK3wTJ2QN"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -547,18 +547,22 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Dale Suave",
-        "url": "https://open.spotify.com/album/38FlfeLsbcYQmvjFwvNGLD"
+        "name": "Barrio (with Lefty Sm)",
+        "url": "https://open.spotify.com/album/1ymuLQZcpThyYLQHMd701v"
       },
       "artists": [
         {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
         }
       ],
-      "duration_ms": 180560,
-      "name": "Dale Suave",
-      "url": "https://open.spotify.com/track/0UOv3dYas1tswNPKBqQFur"
+      "duration_ms": 144414,
+      "name": "Barrio (with Lefty Sm)",
+      "url": "https://open.spotify.com/track/4oxKEbn3OLrNCW5JciZKvn"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -579,22 +583,18 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Barrio (with Lefty Sm)",
-        "url": "https://open.spotify.com/album/1ymuLQZcpThyYLQHMd701v"
+        "name": "Dale Suave",
+        "url": "https://open.spotify.com/album/38FlfeLsbcYQmvjFwvNGLD"
       },
       "artists": [
         {
-          "name": "That Mexican OT",
-          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
         }
       ],
-      "duration_ms": 144414,
-      "name": "Barrio (with Lefty Sm)",
-      "url": "https://open.spotify.com/track/4oxKEbn3OLrNCW5JciZKvn"
+      "duration_ms": 180560,
+      "name": "Dale Suave",
+      "url": "https://open.spotify.com/track/0UOv3dYas1tswNPKBqQFur"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
+        "name": "Pasta Pesto",
+        "url": "https://open.spotify.com/album/6PypAIwniXvOrXFlZts9c2"
+      },
+      "artists": [
+        {
+          "name": "Faruz Feet",
+          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+        }
+      ],
+      "duration_ms": 188100,
+      "name": "Pasta Pesto",
+      "url": "https://open.spotify.com/track/25T4fyLC8RRMvDfn2uMAux"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
         "name": "1000 KM",
         "url": "https://open.spotify.com/album/20q9WdJWeO6p1FJF0a5hmO"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 157241,
       "name": "1000 KM",
       "url": "https://open.spotify.com/track/5VlVGHwqLnT6JbYbayUdE3"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "Pasta Pesto",
-        "url": "https://open.spotify.com/album/6PypAIwniXvOrXFlZts9c2"
-      },
-      "artists": [
-        {
-          "name": "Faruz Feet",
-          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
-        }
-      ],
-      "duration_ms": 188100,
-      "name": "Pasta Pesto",
-      "url": "https://open.spotify.com/track/25T4fyLC8RRMvDfn2uMAux"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -863,30 +863,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "LACOSTA",
-        "url": "https://open.spotify.com/album/4WxcXC1fsy3SGx2BPpgmwc"
-      },
-      "artists": [
-        {
-          "name": "Hard GZ",
-          "url": "https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB"
-        },
-        {
-          "name": "Marcelus Airlinez",
-          "url": "https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q"
-        },
-        {
-          "name": "Bipo Montana",
-          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
-        }
-      ],
-      "duration_ms": 248546,
-      "name": "MALDITO",
-      "url": "https://open.spotify.com/track/6P8WRpldEaZbp1xiobRE8A"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "Van a Hablar de Mi",
         "url": "https://open.spotify.com/album/7hjlmGFCb7K1Pzvd9Fmu29"
       },
@@ -915,6 +891,30 @@
       "duration_ms": 169280,
       "name": "Primero Lo Primero",
       "url": "https://open.spotify.com/track/4XyqGyQSLmBjmWgI2q8wFn"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "LACOSTA",
+        "url": "https://open.spotify.com/album/4WxcXC1fsy3SGx2BPpgmwc"
+      },
+      "artists": [
+        {
+          "name": "Hard GZ",
+          "url": "https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB"
+        },
+        {
+          "name": "Marcelus Airlinez",
+          "url": "https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q"
+        },
+        {
+          "name": "Bipo Montana",
+          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
+        }
+      ],
+      "duration_ms": 248546,
+      "name": "MALDITO",
+      "url": "https://open.spotify.com/track/6P8WRpldEaZbp1xiobRE8A"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
+        "name": "Cuando Ya Est\u00e9 Muerto",
+        "url": "https://open.spotify.com/album/5wlBPVzU5PyNNhNqhR5L3v"
+      },
+      "artists": [
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        }
+      ],
+      "duration_ms": 208810,
+      "name": "Cuando Ya Est\u00e9 Muerto",
+      "url": "https://open.spotify.com/track/0uMRnml5GQX5NtYDh1YlDd"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
         "name": "Pr\u00f3ximo Diciembre",
         "url": "https://open.spotify.com/album/009pkQIFctOi2Js6ipx6T1"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 224000,
       "name": "Pr\u00f3ximo Diciembre",
       "url": "https://open.spotify.com/track/0UYS2UvtAXi0oygPGA0Wmq"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "Cuando Ya Est\u00e9 Muerto",
-        "url": "https://open.spotify.com/album/5wlBPVzU5PyNNhNqhR5L3v"
-      },
-      "artists": [
-        {
-          "name": "Penyair",
-          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
-        }
-      ],
-      "duration_ms": 208810,
-      "name": "Cuando Ya Est\u00e9 Muerto",
-      "url": "https://open.spotify.com/track/0uMRnml5GQX5NtYDh1YlDd"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Entrevisi\u00f3n",
-        "url": "https://open.spotify.com/album/0WNVbIaCaqotFrCxifouGO"
-      },
-      "artists": [
-        {
-          "name": "Tino El Ping\u00fcino",
-          "url": "https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF"
-        },
-        {
-          "name": "Badknees",
-          "url": "https://open.spotify.com/artist/0epVj8gzQh9kZOUAj0A7bM"
-        }
-      ],
-      "duration_ms": 274311,
-      "name": "Entrevisi\u00f3n",
-      "url": "https://open.spotify.com/track/43IwgGI2OQzvELeFa0j1JQ"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "El 17",
         "url": "https://open.spotify.com/album/4ROGPs1BsQad0yWdZ0dXSj"
       },
@@ -1115,26 +1095,6 @@
       "duration_ms": 165168,
       "name": "El Canton Norte",
       "url": "https://open.spotify.com/track/5I1i5jcNTDAyndNwyPo2wu"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "Tiempos Violentos",
-        "url": "https://open.spotify.com/album/09cwd9LdcildlBqbXlmt9N"
-      },
-      "artists": [
-        {
-          "name": "Solitario Mondragon",
-          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
-        },
-        {
-          "name": "Apache",
-          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
-        }
-      ],
-      "duration_ms": 228636,
-      "name": "Tiempos Violentos",
-      "url": "https://open.spotify.com/track/7efZc8DWKDmFzJdDVzlQcY"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1159,6 +1119,26 @@
       "duration_ms": 237439,
       "name": "Vida Callejera",
       "url": "https://open.spotify.com/track/2E3dGYCkGR30v8UjJANf04"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "Tiempos Violentos",
+        "url": "https://open.spotify.com/album/09cwd9LdcildlBqbXlmt9N"
+      },
+      "artists": [
+        {
+          "name": "Solitario Mondragon",
+          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
+        },
+        {
+          "name": "Apache",
+          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
+        }
+      ],
+      "duration_ms": 228636,
+      "name": "Tiempos Violentos",
+      "url": "https://open.spotify.com/track/7efZc8DWKDmFzJdDVzlQcY"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1199,6 +1179,26 @@
       "duration_ms": 172925,
       "name": "Escorpi\u00f3n",
       "url": "https://open.spotify.com/track/48djoywLHuEwUlOpZP1tMR"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "Entrevisi\u00f3n",
+        "url": "https://open.spotify.com/album/0WNVbIaCaqotFrCxifouGO"
+      },
+      "artists": [
+        {
+          "name": "Tino El Ping\u00fcino",
+          "url": "https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF"
+        },
+        {
+          "name": "Badknees",
+          "url": "https://open.spotify.com/artist/0epVj8gzQh9kZOUAj0A7bM"
+        }
+      ],
+      "duration_ms": 274311,
+      "name": "Entrevisi\u00f3n",
+      "url": "https://open.spotify.com/track/43IwgGI2OQzvELeFa0j1JQ"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1355,22 +1355,18 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Hu\u00e9spedes",
-        "url": "https://open.spotify.com/album/1w7kDlcGPcwLgX4BnrExmk"
+        "name": "antes que sea tarde",
+        "url": "https://open.spotify.com/album/23yhtkPNPwEjeoz6MyWBDZ"
       },
       "artists": [
         {
-          "name": "Granuja",
-          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
-        },
-        {
-          "name": "Jam Baxter",
-          "url": "https://open.spotify.com/artist/6ST2sHlQoWYjxkIVnuW2mr"
+          "name": "Dani Ribba",
+          "url": "https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN"
         }
       ],
-      "duration_ms": 276752,
-      "name": "Hu\u00e9spedes",
-      "url": "https://open.spotify.com/track/1mPF3G23BgqdNjHdXtyX9i"
+      "duration_ms": 168778,
+      "name": "antes que sea tarde",
+      "url": "https://open.spotify.com/track/1NhsPILt0sgxY0DHruZ9ao"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1395,18 +1391,22 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "antes que sea tarde",
-        "url": "https://open.spotify.com/album/23yhtkPNPwEjeoz6MyWBDZ"
+        "name": "Hu\u00e9spedes",
+        "url": "https://open.spotify.com/album/1w7kDlcGPcwLgX4BnrExmk"
       },
       "artists": [
         {
-          "name": "Dani Ribba",
-          "url": "https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN"
+          "name": "Granuja",
+          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
+        },
+        {
+          "name": "Jam Baxter",
+          "url": "https://open.spotify.com/artist/6ST2sHlQoWYjxkIVnuW2mr"
         }
       ],
-      "duration_ms": 168778,
-      "name": "antes que sea tarde",
-      "url": "https://open.spotify.com/track/1NhsPILt0sgxY0DHruZ9ao"
+      "duration_ms": 276752,
+      "name": "Hu\u00e9spedes",
+      "url": "https://open.spotify.com/track/1mPF3G23BgqdNjHdXtyX9i"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Ajena",
-        "url": "https://open.spotify.com/album/3NDt4OnBp1HAdFy0jOEC5t"
-      },
-      "artists": [
-        {
-          "name": "SANTU",
-          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Ajena",
-      "url": "https://open.spotify.com/track/5dpCjFHmVk4iuIDHGW7Cv7"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "De Oro",
         "url": "https://open.spotify.com/album/0UYD1YeqrWOe2aSx1vvgsk"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 167441,
       "name": "De Oro",
       "url": "https://open.spotify.com/track/39vbXhdllt7Npz6Ym9ekfB"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "Ajena",
+        "url": "https://open.spotify.com/album/3NDt4OnBp1HAdFy0jOEC5t"
+      },
+      "artists": [
+        {
+          "name": "SANTU",
+          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Ajena",
+      "url": "https://open.spotify.com/track/5dpCjFHmVk4iuIDHGW7Cv7"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1723,30 +1723,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "La Plata",
-        "url": "https://open.spotify.com/album/4Xu3pbXJU8bhrfMDEhN3lI"
-      },
-      "artists": [
-        {
-          "name": "Bipo Montana",
-          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
-        },
-        {
-          "name": "McKlopedia",
-          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 247500,
-      "name": "La Plata",
-      "url": "https://open.spotify.com/track/4J5tVP18No1PCLSmmFPYji"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "El Poder y la Traici\u00f3n",
         "url": "https://open.spotify.com/album/0gGM7uNxX6x3oIL4spNSwe"
       },
@@ -1799,6 +1775,30 @@
       "duration_ms": 184186,
       "name": "M\u00e1s de Ti",
       "url": "https://open.spotify.com/track/7fRwxP1bj8ktaWxxK3p4pb"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "La Plata",
+        "url": "https://open.spotify.com/album/4Xu3pbXJU8bhrfMDEhN3lI"
+      },
+      "artists": [
+        {
+          "name": "Bipo Montana",
+          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
+        },
+        {
+          "name": "McKlopedia",
+          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 247500,
+      "name": "La Plata",
+      "url": "https://open.spotify.com/track/4J5tVP18No1PCLSmmFPYji"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1899,6 +1899,22 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
+        "name": "Ni Familia Ni Amigos",
+        "url": "https://open.spotify.com/album/0W99Tp0kMrn1akzvvRiqag"
+      },
+      "artists": [
+        {
+          "name": "Afaz Natural",
+          "url": "https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA"
+        }
+      ],
+      "duration_ms": 187586,
+      "name": "Ni Familia Ni Amigos",
+      "url": "https://open.spotify.com/track/1tkkPOjiF8rZOZYq66htDf"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
         "name": "En La Calle",
         "url": "https://open.spotify.com/album/1sdlYzUj8vYzzVuheawjqe"
       },
@@ -1983,38 +1999,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Ni Familia Ni Amigos",
-        "url": "https://open.spotify.com/album/0W99Tp0kMrn1akzvvRiqag"
-      },
-      "artists": [
-        {
-          "name": "Afaz Natural",
-          "url": "https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA"
-        }
-      ],
-      "duration_ms": 187586,
-      "name": "Ni Familia Ni Amigos",
-      "url": "https://open.spotify.com/track/1tkkPOjiF8rZOZYq66htDf"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "REMEMBAH",
-        "url": "https://open.spotify.com/album/7FpOYLTCAPfsk9MQqCoHgR"
-      },
-      "artists": [
-        {
-          "name": "Apache",
-          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
-        }
-      ],
-      "duration_ms": 140571,
-      "name": "REMEMBAH",
-      "url": "https://open.spotify.com/track/2L1CLvJRne3YgAlD9KmWQy"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "Melanc\u00f3licos",
         "url": "https://open.spotify.com/album/4CkNFb3361xzBBnlCh6TY0"
       },
@@ -2039,6 +2023,22 @@
       "duration_ms": 240000,
       "name": "Melanc\u00f3licos",
       "url": "https://open.spotify.com/track/08oK0PA2snKyuURSJq8cnP"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "REMEMBAH",
+        "url": "https://open.spotify.com/album/7FpOYLTCAPfsk9MQqCoHgR"
+      },
+      "artists": [
+        {
+          "name": "Apache",
+          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
+        }
+      ],
+      "duration_ms": 140571,
+      "name": "REMEMBAH",
+      "url": "https://open.spotify.com/track/2L1CLvJRne3YgAlD9KmWQy"
     },
     {
       "added_at": "2023-11-24 06:00:00",

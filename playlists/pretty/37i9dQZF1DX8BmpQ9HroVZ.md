@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 
 > The hottest local and global tracks in Pakistan\. Cover \- AUR
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,259 likes - 65 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,364 likes - 65 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 | 60 | [Me & You](https://open.spotify.com/track/5PlvEOKEO40fwk1qHXGuH0) | [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [Therapy](https://open.spotify.com/album/5yRj8G5V3b8t5cIDS3VJZH) | 4:57 |
 | 61 | [Maan Meri Jaan](https://open.spotify.com/track/1418IuVKQPTYqt7QNJ9RXN) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Champagne Talk](https://open.spotify.com/album/15CyNDuGY5fsG0Hn9rjnpG) | 3:14 |
 | 62 | [Funk Song](https://open.spotify.com/track/53LVgD7RguP5syVZfA76G7) | [Kidjaywest](https://open.spotify.com/artist/2S34cREqbQ10LEU0hvvpCF), [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [Ikath](https://open.spotify.com/artist/1KIIFjHeTZ2xy5WKJ7L6fI) | [Funk Song](https://open.spotify.com/album/0ifu1eR55sv3ZZX0BvHsTp) | 2:52 |
-| 63 | [Lalkara](https://open.spotify.com/track/6swVP5qDAjqlzbF2R3A4bC) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [Ghost](https://open.spotify.com/album/4kWZIqo8LpvJxE7pDcOeQH) | 2:40 |
+| 63 | [Lalkara](https://open.spotify.com/track/2oenSXLDbWVaaL7QjSGYj5) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:40 |
 | 64 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 |
 | 65 | [Is It Over Now? \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:49 |
 
-Snapshot ID: `MCxmNDNkZTVkMDZhMmY0ZjcxMmQwZGE1Mzc4NDNjNGU2NWExYWE5MGRh`
+Snapshot ID: `MCw3YWYzNjI3MDUxNDNmMTIzYWI1MDRjODEzY2ZiOTA4NWJlYzljMTgz`

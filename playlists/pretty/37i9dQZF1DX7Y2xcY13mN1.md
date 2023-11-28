@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y2xcY13mN1.md) - [plain]
 
 > New and familiar folk in the Irish tradition\. Cover: Ye Vagabonds
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,067 likes - 52 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,117 likes - 52 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y2xcY13mN1.md) - [plain]
 | 51 | [The Town I Loved So Well](https://open.spotify.com/track/6HJ5tXU3bPGx0ONBeh9EYs) | [Phil Coulter](https://open.spotify.com/artist/3Hm9DJ7Xa8YgiCAa7MoSiP) | [Words & Music](https://open.spotify.com/album/5ZZJHQbMplpRvMgFF5HatY) | 6:25 |
 | 52 | [The Lass of Aughrim](https://open.spotify.com/track/2s1enAmUiPrslpVQcJpnLq) | [Lisa O'Neill](https://open.spotify.com/artist/3fZ2IQpHixtBtUtDo7MWpV) | [Heard A Long Gone Song](https://open.spotify.com/album/6hGCF6U1vanh8KJZgAq66m) | 2:11 |
 
-Snapshot ID: `MCxkZmJiOTZhNmVmZGYxZTM0MzY3ZWI5OTVlMmNiNDllYzc5MzcyNDJm`
+Snapshot ID: `MCxmMjc3MWRkZDZhNTg3MmQzMjcxNGY5ODM4N2JhMWQ0YzY3Y2M4YTI2`

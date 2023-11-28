@@ -4,7 +4,7 @@
 
 > Enjoy the wonderful holiday season with K\-Pop! Here's a collection of Korean Christmas tunes by K\-Pop artists\. \(Cover: aespa\)
 
-187 songs - 11 hr 0 min
+188 songs - 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Candy](https://open.spotify.com/track/27bIik73QCu8Xzt3xpG1bI) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Candy \- Winter Special Mini Album](https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K) | 3:37 | 2022-12-16 |  |
 | [Candy Cane](https://open.spotify.com/track/1SO3jE0lOysjtylF6y3FWt) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [This Christmas – Winter is Coming](https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx) | 3:24 | 2021-12-21 |  |
 | [Celebrate](https://open.spotify.com/track/1z3TKT67SglIzFmHM7xxyK) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Road : Celebration \- The 11th Album Vol.2](https://open.spotify.com/album/1B3ZMbdmeSFWI2WmXTD0Ny) | 3:33 | 2022-12-15 |  |
-| [Christmas Again](https://open.spotify.com/track/5ILo7uxYAwyLoWazhHxGnD) | [1set](https://open.spotify.com/artist/3yJkmzLpEtKsiR2g1cVNQl) | [Christmas Again](https://open.spotify.com/album/5svceOWCU5WtrzUWxS9xHu) | 3:46 | 2021-12-21 |  |
+| [Christmas Again](https://open.spotify.com/track/5ILo7uxYAwyLoWazhHxGnD) | [1set](https://open.spotify.com/artist/3yJkmzLpEtKsiR2g1cVNQl) | [Christmas Again](https://open.spotify.com/album/5svceOWCU5WtrzUWxS9xHu) | 3:46 | 2021-12-21 | 2023-11-28 |
 | [Christmas EveL](https://open.spotify.com/track/0hnsWcb5a4H3IpAbSXeLPg) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Christmas EveL](https://open.spotify.com/album/6bW2FgR93NYexY1fuHtUyi) | 2:58 | 2021-12-21 | 2022-07-29 |
 | [Christmas EveL](https://open.spotify.com/track/5npCUsfrlhdyjxyCa32maW) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Christmas EveL](https://open.spotify.com/album/1qVuQI0WRn2Mczbdxx54Ih) | 2:58 | 2021-12-21 |  |
 | [Christmas For You \(feat\. Bennyway, SaeYeon, SeongJin\)](https://open.spotify.com/track/2Cu1PfHyxkoc7RDkNRLVSu) | [Euirim](https://open.spotify.com/artist/6sy9bdHbyliFJi91YwwUCq), [Bennyway](https://open.spotify.com/artist/5B2J6qRlxHFJYDlIkq4xO6), [Saeyeon 새연](https://open.spotify.com/artist/3SkQP3WI8DfgV8vJWEOna4), [Sung Jin 성진](https://open.spotify.com/artist/3gUUGVGoiK23AuzkmCVFMu) | [Christmas For You](https://open.spotify.com/album/4lvKvWJ3cjA8mpluskguGb) | 4:28 | 2021-12-21 | 2022-12-21 |
@@ -113,6 +113,7 @@
 | [Movie Winter](https://open.spotify.com/track/0P00r0hbz9yKs4DtBCzqVu) | [Tarin](https://open.spotify.com/artist/4UEKXXZ65FBcAJPVerQjtO) | [Movie Winter](https://open.spotify.com/album/34q66uq3KaL6CTlqDmTvyc) | 2:45 | 2023-01-10 | 2023-10-10 |
 | [Mr\. Santa](https://open.spotify.com/track/5sKVq8eZao43FmumueYClP) | [LUNCH](https://open.spotify.com/artist/2UVzzx3MOPYV3l6xW2lzBv) | [Mr\. Santa](https://open.spotify.com/album/1ZJDN26GeLf0BznSW8VBe5) | 3:19 | 2021-12-21 |  |
 | [Mr\. Snowman](https://open.spotify.com/track/1Bo4rmJ5bFUcq03tjJY98H) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Sam Ock](https://open.spotify.com/artist/0823FxAYBXOeMTOWPeH9HH) | [Peppermint Tea](https://open.spotify.com/album/4KIcPdqYeP6PIvzGvJGcVZ) | 3:31 | 2022-11-16 |  |
+| [Must Have Love](https://open.spotify.com/track/3fixP4VxUKRRg7i8WeViuL) | [ATBO](https://open.spotify.com/artist/3bwO3gNZVmHwaBttv739g7) | [MUST HAVE](https://open.spotify.com/album/0p1vF2SctjpmMLekoIBEcO) | 3:16 | 2023-11-27 |  |
 | [My Christmas Day's For You \- 2021](https://open.spotify.com/track/3IToKKHkdw19GKoZRnc3MY) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao) | [December](https://open.spotify.com/album/6mUh75sWY6BAfmkfBkXDb4) | 3:40 | 2021-12-21 | 2023-09-08 |
 | [My Favorite Winter](https://open.spotify.com/track/4eTFVwwrGhIeS8NqwEBWZP) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [My Favorite Winter](https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp) | 3:49 | 2022-12-15 |  |
 | [MY GROWN UP CHRISTMAS LIST](https://open.spotify.com/track/2ONdR1GlPowCViNz74KE7h) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [HITMAN PROJECT \#1 : A TRIBUTE TO THE HITMAN,DAVID FOSTER](https://open.spotify.com/album/7eRKeHsGJe7gtSUwoaHTqQ) | 4:49 | 2021-12-21 |  |

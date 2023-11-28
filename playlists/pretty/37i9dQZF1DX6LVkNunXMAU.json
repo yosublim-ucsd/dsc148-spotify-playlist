@@ -1,12 +1,12 @@
 {
   "description": "Dulce y \u00e1cido: indie pop latino en estado natural. Foto: Paola Navarrete & Adanowsky.",
-  "num_followers": 55689,
+  "num_followers": 55706,
   "original_name": "mandarina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NTY0MWU2YWZkZWU2ODZjMmE2ZDNmNzQzN2Y0YmY0MjBmYWEzYWYx",
+  "snapshot_id": "MCw1ODM1M2E1N2VlNWI2MjQxZDU0NDY1ZDkzM2Y0ZjgxMmZlYjYyN2Qx",
   "tracks": [
     {
       "added_at": "2023-11-24 14:53:18",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-11-24 14:53:18",
       "album": {
-        "name": "Abril",
-        "url": "https://open.spotify.com/album/2uT7GrTnYKL293sssNax85"
-      },
-      "artists": [
-        {
-          "name": "Abril Olivera",
-          "url": "https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg"
-        }
-      ],
-      "duration_ms": 159741,
-      "name": "Por el Bien de los Dos",
-      "url": "https://open.spotify.com/track/5YVBaeIf9L56ybZdUYOcjy"
-    },
-    {
-      "added_at": "2023-11-24 14:53:18",
-      "album": {
         "name": "El Mundo Siempre Estuvo Dividido en Dos",
         "url": "https://open.spotify.com/album/4DwDKGqyR2hp8roLeNrhYh"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 125156,
       "name": "El Mundo Siempre Estuvo Dividido en Dos",
       "url": "https://open.spotify.com/track/2mdZOkJvBqGaPmuqLLMp88"
+    },
+    {
+      "added_at": "2023-11-24 14:53:18",
+      "album": {
+        "name": "Abril",
+        "url": "https://open.spotify.com/album/2uT7GrTnYKL293sssNax85"
+      },
+      "artists": [
+        {
+          "name": "Abril Olivera",
+          "url": "https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg"
+        }
+      ],
+      "duration_ms": 159741,
+      "name": "Por el Bien de los Dos",
+      "url": "https://open.spotify.com/track/5YVBaeIf9L56ybZdUYOcjy"
     },
     {
       "added_at": "2023-11-24 14:53:18",
@@ -351,26 +351,6 @@
     {
       "added_at": "2023-11-24 14:53:18",
       "album": {
-        "name": "Velocidad Crucero",
-        "url": "https://open.spotify.com/album/4Vk35EIEu45hRtoGEmq8e1"
-      },
-      "artists": [
-        {
-          "name": "Puebla",
-          "url": "https://open.spotify.com/artist/1PqKs6dNaJFy6qNgXEVCpm"
-        },
-        {
-          "name": "El pr\u00edncipe idiota",
-          "url": "https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u"
-        }
-      ],
-      "duration_ms": 232947,
-      "name": "Velocidad Crucero",
-      "url": "https://open.spotify.com/track/3r1cIjl8iCoLYNK2XBr9zU"
-    },
-    {
-      "added_at": "2023-11-24 14:53:18",
-      "album": {
         "name": "Para Siempre Joven",
         "url": "https://open.spotify.com/album/5umvuDuDhHfv6mrfwKtqm7"
       },
@@ -391,18 +371,22 @@
     {
       "added_at": "2023-11-24 14:53:18",
       "album": {
-        "name": "Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/5IPTv2WalvKpcLN2Znypzs"
+        "name": "Velocidad Crucero",
+        "url": "https://open.spotify.com/album/4Vk35EIEu45hRtoGEmq8e1"
       },
       "artists": [
         {
-          "name": "Luca Bocci",
-          "url": "https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF"
+          "name": "Puebla",
+          "url": "https://open.spotify.com/artist/1PqKs6dNaJFy6qNgXEVCpm"
+        },
+        {
+          "name": "El pr\u00edncipe idiota",
+          "url": "https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u"
         }
       ],
-      "duration_ms": 191583,
-      "name": "Hurac\u00e1n",
-      "url": "https://open.spotify.com/track/1bfVtL4K4hlzxw2enSM40V"
+      "duration_ms": 232947,
+      "name": "Velocidad Crucero",
+      "url": "https://open.spotify.com/track/3r1cIjl8iCoLYNK2XBr9zU"
     },
     {
       "added_at": "2023-11-24 14:53:18",
@@ -427,6 +411,22 @@
       "duration_ms": 208213,
       "name": "Me Gustas Tanto - Remix",
       "url": "https://open.spotify.com/track/6cJfur2fUVukLfgZdDJbAC"
+    },
+    {
+      "added_at": "2023-11-24 14:53:18",
+      "album": {
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/5IPTv2WalvKpcLN2Znypzs"
+      },
+      "artists": [
+        {
+          "name": "Luca Bocci",
+          "url": "https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF"
+        }
+      ],
+      "duration_ms": 191583,
+      "name": "Hurac\u00e1n",
+      "url": "https://open.spotify.com/track/1bfVtL4K4hlzxw2enSM40V"
     },
     {
       "added_at": "2023-11-24 14:53:18",
@@ -463,6 +463,26 @@
     {
       "added_at": "2023-11-24 14:53:18",
       "album": {
+        "name": "Lo que necesito",
+        "url": "https://open.spotify.com/album/4IsJ57gam4V2vSqrN5GlKT"
+      },
+      "artists": [
+        {
+          "name": "Seba Alfaro",
+          "url": "https://open.spotify.com/artist/4BsdSj5TfV0HQiUwdRBQbk"
+        },
+        {
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+        }
+      ],
+      "duration_ms": 200191,
+      "name": "Lo que necesito",
+      "url": "https://open.spotify.com/track/3uTIEwwY9uHgmKEbkaGDFd"
+    },
+    {
+      "added_at": "2023-11-24 14:53:18",
+      "album": {
         "name": "Brillando",
         "url": "https://open.spotify.com/album/3cpu7Bc6c6VQw6VBnHw6i6"
       },
@@ -483,22 +503,18 @@
     {
       "added_at": "2023-11-24 14:53:18",
       "album": {
-        "name": "Lo que necesito",
-        "url": "https://open.spotify.com/album/4IsJ57gam4V2vSqrN5GlKT"
+        "name": "Para\u00edso Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2fPlyQwOTDnwE0nnpxzWuZ"
       },
       "artists": [
         {
-          "name": "Seba Alfaro",
-          "url": "https://open.spotify.com/artist/4BsdSj5TfV0HQiUwdRBQbk"
-        },
-        {
-          "name": "Diego Lorenzini",
-          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+          "name": "Luca Bocci",
+          "url": "https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF"
         }
       ],
-      "duration_ms": 200191,
-      "name": "Lo que necesito",
-      "url": "https://open.spotify.com/track/3uTIEwwY9uHgmKEbkaGDFd"
+      "duration_ms": 206777,
+      "name": "M\u00fasica de Computadora",
+      "url": "https://open.spotify.com/track/3URE4Okm8FmExP0AcyqrMI"
     },
     {
       "added_at": "2023-11-24 14:53:18",
@@ -551,22 +567,6 @@
       "duration_ms": 163793,
       "name": "Cuentas Pendientes",
       "url": "https://open.spotify.com/track/3YxoIY40PgKDBjKHDHUQAe"
-    },
-    {
-      "added_at": "2023-11-24 14:53:18",
-      "album": {
-        "name": "Para\u00edso Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2fPlyQwOTDnwE0nnpxzWuZ"
-      },
-      "artists": [
-        {
-          "name": "Luca Bocci",
-          "url": "https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF"
-        }
-      ],
-      "duration_ms": 206777,
-      "name": "M\u00fasica de Computadora",
-      "url": "https://open.spotify.com/track/3URE4Okm8FmExP0AcyqrMI"
     },
     {
       "added_at": "2023-11-24 14:53:18",
@@ -643,6 +643,22 @@
     {
       "added_at": "2023-11-24 14:53:18",
       "album": {
+        "name": "Cuando Empec\u00e9 a Quererte",
+        "url": "https://open.spotify.com/album/25doXoyYkwPZvdyKUcI0Sw"
+      },
+      "artists": [
+        {
+          "name": "Gamuza",
+          "url": "https://open.spotify.com/artist/4bufWdghDtHvVeDn2C7V5D"
+        }
+      ],
+      "duration_ms": 185866,
+      "name": "Cuando Empec\u00e9 a Quererte",
+      "url": "https://open.spotify.com/track/7uZpmSxgoSoor0D6kx254a"
+    },
+    {
+      "added_at": "2023-11-24 14:53:18",
+      "album": {
         "name": "El Plan Mayor",
         "url": "https://open.spotify.com/album/3gwoxCZpCCpcWlmuoR0efY"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 172725,
       "name": "El Plan Mayor",
       "url": "https://open.spotify.com/track/7JlpH2WqjABcFULmtNIMeM"
-    },
-    {
-      "added_at": "2023-11-24 14:53:18",
-      "album": {
-        "name": "Cuando Empec\u00e9 a Quererte",
-        "url": "https://open.spotify.com/album/25doXoyYkwPZvdyKUcI0Sw"
-      },
-      "artists": [
-        {
-          "name": "Gamuza",
-          "url": "https://open.spotify.com/artist/4bufWdghDtHvVeDn2C7V5D"
-        }
-      ],
-      "duration_ms": 185866,
-      "name": "Cuando Empec\u00e9 a Quererte",
-      "url": "https://open.spotify.com/track/7uZpmSxgoSoor0D6kx254a"
     },
     {
       "added_at": "2023-11-24 14:53:18",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-11-24 14:53:18",
       "album": {
-        "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
-        "url": "https://open.spotify.com/album/2AonQQKJGi66GsGSaajA7L"
-      },
-      "artists": [
-        {
-          "name": "Marina Wil",
-          "url": "https://open.spotify.com/artist/6QxpTfXermR3g5udEQGTe4"
-        }
-      ],
-      "duration_ms": 214010,
-      "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
-      "url": "https://open.spotify.com/track/1oFbEDVpdRzwHzHUFzvYXB"
-    },
-    {
-      "added_at": "2023-11-24 14:53:18",
-      "album": {
         "name": "En Lo Que Llega La Primavera",
         "url": "https://open.spotify.com/album/5FOS6PLaHaTbgp4tWBNdig"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 251199,
       "name": "Como una Flecha",
       "url": "https://open.spotify.com/track/51HF59FrEDRz9NTVvcXhG6"
+    },
+    {
+      "added_at": "2023-11-24 14:53:18",
+      "album": {
+        "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
+        "url": "https://open.spotify.com/album/2AonQQKJGi66GsGSaajA7L"
+      },
+      "artists": [
+        {
+          "name": "Marina Wil",
+          "url": "https://open.spotify.com/artist/6QxpTfXermR3g5udEQGTe4"
+        }
+      ],
+      "duration_ms": 214010,
+      "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
+      "url": "https://open.spotify.com/track/1oFbEDVpdRzwHzHUFzvYXB"
     },
     {
       "added_at": "2023-11-24 14:53:18",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-11-24 14:53:18",
       "album": {
-        "name": "Ya Se Fue",
-        "url": "https://open.spotify.com/album/6SFW7nOwBJK61hJLnfU2PX"
-      },
-      "artists": [
-        {
-          "name": "Gonzalo Brancciari",
-          "url": "https://open.spotify.com/artist/2kvcov0e0ppYAVU5NywB2x"
-        }
-      ],
-      "duration_ms": 170904,
-      "name": "Ya Se Fue",
-      "url": "https://open.spotify.com/track/6JQ3tU4PwJr51FW9YRKq43"
-    },
-    {
-      "added_at": "2023-11-24 14:53:18",
-      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/56i29m64vzKcbDFnZbKd55"
       },
@@ -1047,6 +1031,22 @@
     {
       "added_at": "2023-11-24 14:53:18",
       "album": {
+        "name": "Ya Se Fue",
+        "url": "https://open.spotify.com/album/6SFW7nOwBJK61hJLnfU2PX"
+      },
+      "artists": [
+        {
+          "name": "Gonzalo Brancciari",
+          "url": "https://open.spotify.com/artist/2kvcov0e0ppYAVU5NywB2x"
+        }
+      ],
+      "duration_ms": 170904,
+      "name": "Ya Se Fue",
+      "url": "https://open.spotify.com/track/6JQ3tU4PwJr51FW9YRKq43"
+    },
+    {
+      "added_at": "2023-11-24 14:53:18",
+      "album": {
         "name": "Una Vez M\u00e1s",
         "url": "https://open.spotify.com/album/5GtNzOeObvCTuob1bxt7e0"
       },
@@ -1059,6 +1059,22 @@
       "duration_ms": 244689,
       "name": "Otra Vez",
       "url": "https://open.spotify.com/track/5g2zTEnrgZQa9MInAahB3h"
+    },
+    {
+      "added_at": "2023-11-24 14:53:18",
+      "album": {
+        "name": "Amiga",
+        "url": "https://open.spotify.com/album/0YaIQWmzrG5b0iWDwzvf5x"
+      },
+      "artists": [
+        {
+          "name": "Miau Tr\u00edo",
+          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
+        }
+      ],
+      "duration_ms": 157389,
+      "name": "Amiga",
+      "url": "https://open.spotify.com/track/1MyeYdKKegyVW2LHenX63b"
     },
     {
       "added_at": "2023-11-24 14:53:18",
@@ -1103,18 +1119,18 @@
     {
       "added_at": "2023-11-24 14:53:18",
       "album": {
-        "name": "Amiga",
-        "url": "https://open.spotify.com/album/0YaIQWmzrG5b0iWDwzvf5x"
+        "name": "Locomotora",
+        "url": "https://open.spotify.com/album/5EGcEvMUKQS4cnJFhlYvvf"
       },
       "artists": [
         {
-          "name": "Miau Tr\u00edo",
-          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
+          "name": "La Gente del Bien",
+          "url": "https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw"
         }
       ],
-      "duration_ms": 157389,
-      "name": "Amiga",
-      "url": "https://open.spotify.com/track/1MyeYdKKegyVW2LHenX63b"
+      "duration_ms": 185296,
+      "name": "Que Placer",
+      "url": "https://open.spotify.com/track/2SS9GnNMqb1ciYOSWLXNAL"
     },
     {
       "added_at": "2023-11-24 14:53:18",
@@ -1135,26 +1151,6 @@
     {
       "added_at": "2023-11-24 14:53:18",
       "album": {
-        "name": "Suerte para m\u00ed",
-        "url": "https://open.spotify.com/album/6CW5eGVqBR2o3EmF7Ti8iX"
-      },
-      "artists": [
-        {
-          "name": "Roki Fernandez",
-          "url": "https://open.spotify.com/artist/2MCfICN62faLf6aDJZhlx6"
-        },
-        {
-          "name": "Mailen Pankonin",
-          "url": "https://open.spotify.com/artist/3YB6vxmSJc6YpW3Otha1v5"
-        }
-      ],
-      "duration_ms": 183786,
-      "name": "Suerte para m\u00ed",
-      "url": "https://open.spotify.com/track/464idwypVzujFVCo6XdgeI"
-    },
-    {
-      "added_at": "2023-11-24 14:53:18",
-      "album": {
         "name": "NI\u00d1A",
         "url": "https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj"
       },
@@ -1171,18 +1167,22 @@
     {
       "added_at": "2023-11-24 14:53:18",
       "album": {
-        "name": "Locomotora",
-        "url": "https://open.spotify.com/album/5EGcEvMUKQS4cnJFhlYvvf"
+        "name": "Suerte para m\u00ed",
+        "url": "https://open.spotify.com/album/6CW5eGVqBR2o3EmF7Ti8iX"
       },
       "artists": [
         {
-          "name": "La Gente del Bien",
-          "url": "https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw"
+          "name": "Roki Fernandez",
+          "url": "https://open.spotify.com/artist/2MCfICN62faLf6aDJZhlx6"
+        },
+        {
+          "name": "Mailen Pankonin",
+          "url": "https://open.spotify.com/artist/3YB6vxmSJc6YpW3Otha1v5"
         }
       ],
-      "duration_ms": 185296,
-      "name": "Que Placer",
-      "url": "https://open.spotify.com/track/2SS9GnNMqb1ciYOSWLXNAL"
+      "duration_ms": 183786,
+      "name": "Suerte para m\u00ed",
+      "url": "https://open.spotify.com/track/464idwypVzujFVCo6XdgeI"
     },
     {
       "added_at": "2023-11-24 14:53:18",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2023-11-24 14:53:18",
       "album": {
+        "name": "Reminiscencia",
+        "url": "https://open.spotify.com/album/2YYYKlbq15SgyHOzyTqLvu"
+      },
+      "artists": [
+        {
+          "name": "Lu Ferreyra",
+          "url": "https://open.spotify.com/artist/723edx2BuJb3sprVI7DDyO"
+        }
+      ],
+      "duration_ms": 220537,
+      "name": "Reminiscencia",
+      "url": "https://open.spotify.com/track/0bk8u1GOiuSJyIhvmzvQ10"
+    },
+    {
+      "added_at": "2023-11-24 14:53:18",
+      "album": {
         "name": "Tur Blues",
         "url": "https://open.spotify.com/album/0FFTFsQQz0E8eldoOpSlxg"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 213112,
       "name": "Tur Blues",
       "url": "https://open.spotify.com/track/1uiNMtfqJh6pzOXUsSiWOu"
-    },
-    {
-      "added_at": "2023-11-24 14:53:18",
-      "album": {
-        "name": "Reminiscencia",
-        "url": "https://open.spotify.com/album/2YYYKlbq15SgyHOzyTqLvu"
-      },
-      "artists": [
-        {
-          "name": "Lu Ferreyra",
-          "url": "https://open.spotify.com/artist/723edx2BuJb3sprVI7DDyO"
-        }
-      ],
-      "duration_ms": 220537,
-      "name": "Reminiscencia",
-      "url": "https://open.spotify.com/track/0bk8u1GOiuSJyIhvmzvQ10"
     },
     {
       "added_at": "2023-11-24 14:53:18",
@@ -1291,6 +1291,22 @@
       "duration_ms": 243501,
       "name": "Bolero",
       "url": "https://open.spotify.com/track/3yz96oTI0rHUaXruFziWBS"
+    },
+    {
+      "added_at": "2023-11-24 14:53:18",
+      "album": {
+        "name": "Locos",
+        "url": "https://open.spotify.com/album/66TuRKaKJ99ryYQzPQPrnF"
+      },
+      "artists": [
+        {
+          "name": "Vosque",
+          "url": "https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6"
+        }
+      ],
+      "duration_ms": 213159,
+      "name": "Locos",
+      "url": "https://open.spotify.com/track/6jpSWY7bnhVxGD5dBNQW6v"
     },
     {
       "added_at": "2023-11-24 14:53:18",
@@ -1323,22 +1339,6 @@
       "duration_ms": 180177,
       "name": "agridulce",
       "url": "https://open.spotify.com/track/35U9ETMmcj32t9fymTtB8E"
-    },
-    {
-      "added_at": "2023-11-24 14:53:18",
-      "album": {
-        "name": "Locos",
-        "url": "https://open.spotify.com/album/66TuRKaKJ99ryYQzPQPrnF"
-      },
-      "artists": [
-        {
-          "name": "Vosque",
-          "url": "https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6"
-        }
-      ],
-      "duration_ms": 213159,
-      "name": "Locos",
-      "url": "https://open.spotify.com/track/6jpSWY7bnhVxGD5dBNQW6v"
     },
     {
       "added_at": "2023-11-24 14:53:18",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-11-24 14:53:18",
       "album": {
-        "name": "Instante Eterno de Felicidad",
-        "url": "https://open.spotify.com/album/5yhABD33uH530lInv5JqFB"
-      },
-      "artists": [
-        {
-          "name": "Alfonso El Pintor",
-          "url": "https://open.spotify.com/artist/1wGhNVSFMYSNhp0tsvzauZ"
-        }
-      ],
-      "duration_ms": 188210,
-      "name": "Instante Eterno de Felicidad",
-      "url": "https://open.spotify.com/track/1WgnAv2AxgRslHy6jKqkk1"
-    },
-    {
-      "added_at": "2023-11-24 14:53:18",
-      "album": {
         "name": "Perderse (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5AsFyNt74exZrhSxo1pAXn"
       },
@@ -1723,6 +1707,22 @@
     {
       "added_at": "2023-11-24 14:53:18",
       "album": {
+        "name": "Instante Eterno de Felicidad",
+        "url": "https://open.spotify.com/album/5yhABD33uH530lInv5JqFB"
+      },
+      "artists": [
+        {
+          "name": "Alfonso El Pintor",
+          "url": "https://open.spotify.com/artist/1wGhNVSFMYSNhp0tsvzauZ"
+        }
+      ],
+      "duration_ms": 188210,
+      "name": "Instante Eterno de Felicidad",
+      "url": "https://open.spotify.com/track/1WgnAv2AxgRslHy6jKqkk1"
+    },
+    {
+      "added_at": "2023-11-24 14:53:18",
+      "album": {
         "name": "LA ARA\u00d1A",
         "url": "https://open.spotify.com/album/3StTP7lHsMyNlt092aOsCl"
       },
@@ -1735,22 +1735,6 @@
       "duration_ms": 208962,
       "name": "LA ARA\u00d1A",
       "url": "https://open.spotify.com/track/2XsgW6lzGWGCmw9DoOkZ2S"
-    },
-    {
-      "added_at": "2023-11-24 14:53:18",
-      "album": {
-        "name": "La raz\u00f3n",
-        "url": "https://open.spotify.com/album/10rovyKmiXi763COyBP9oz"
-      },
-      "artists": [
-        {
-          "name": "Mica Sotera",
-          "url": "https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1"
-        }
-      ],
-      "duration_ms": 227838,
-      "name": "La raz\u00f3n",
-      "url": "https://open.spotify.com/track/0qmmbCIDtqIo5UANUF7UhX"
     },
     {
       "added_at": "2023-11-24 14:53:18",
@@ -1771,6 +1755,22 @@
       "duration_ms": 213164,
       "name": "Un Nuevo Ritmo",
       "url": "https://open.spotify.com/track/33D7MHDLCtY3lhDkaEtNe9"
+    },
+    {
+      "added_at": "2023-11-24 14:53:18",
+      "album": {
+        "name": "La raz\u00f3n",
+        "url": "https://open.spotify.com/album/10rovyKmiXi763COyBP9oz"
+      },
+      "artists": [
+        {
+          "name": "Mica Sotera",
+          "url": "https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1"
+        }
+      ],
+      "duration_ms": 227838,
+      "name": "La raz\u00f3n",
+      "url": "https://open.spotify.com/track/0qmmbCIDtqIo5UANUF7UhX"
     },
     {
       "added_at": "2023-11-24 14:53:18",

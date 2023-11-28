@@ -718,7 +718,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 161124,
       "name": "Giardino Di Corde",
       "url": "https://open.spotify.com/track/6yMAHBIAadsh7lM5ISrSzt"
@@ -1550,6 +1550,24 @@
       "duration_ms": 281904,
       "name": "Relaxing Dreams",
       "url": "https://open.spotify.com/track/1sVSK4sDadVzioPciymr00"
+    },
+    {
+      "album": {
+        "name": "Remain In Light (432 Hz Sound Bath)",
+        "url": "https://open.spotify.com/album/68fnzlJrQwjBXCBSHQhwiI"
+      },
+      "artists": [
+        {
+          "name": "Baba Hall",
+          "url": "https://open.spotify.com/artist/2mcRfqvRv9XFXnTmKMFRuV"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184545,
+      "name": "Remain In Light (432 Hz Sound Bath)",
+      "url": "https://open.spotify.com/track/0oN2nYpBnQTFcl5DQdDqZl"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > it was never just a phase
 
-176 songs - 9 hr 0 min
+177 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Children of The Dark](https://open.spotify.com/track/17bqduRY9LL8WWXtsSE1Kp) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [Children of The Dark](https://open.spotify.com/album/78MIA5qaj5wiJgE9pTA9py) | 2:32 | 2021-11-19 | 2022-07-25 |
 | [Chokecherry](https://open.spotify.com/track/6hoZSx85bdN44Y3BJrZHLY) | [PONY](https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv) | [Chokecherry](https://open.spotify.com/album/0dM5NOKQUtmt8p6Ai4aakW) | 2:45 | 2021-11-19 | 2022-07-28 |
 | [Choose Life](https://open.spotify.com/track/64bFcGOGHhAtNtYzneEDJV) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [The Breakfast Club \(Deluxe Edition\)](https://open.spotify.com/album/2TdlMuVGZfRMgPvB467tu2) | 2:09 | 2021-11-19 | 2023-10-25 |
+| [Choose Life \(feat\. Travis Barker\)](https://open.spotify.com/track/5jbjAmYTrF6ITa72YW8mFS) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [The Breakfast Club \(Deluxe Edition\)](https://open.spotify.com/album/2kKR8sRKNRqlN8axIsAvnB) | 2:09 | 2022-08-16 |  |
 | [Creep](https://open.spotify.com/track/5nC2VyPxefp5EXVViTcz7S) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [Creep](https://open.spotify.com/album/4C9Io2lIQJdBo9RH1XK8Gj) | 3:42 | 2021-11-19 | 2023-05-20 |
 | [Crumbled](https://open.spotify.com/track/3h4UYObZmzgrym6Gzw35iA) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Crumbled](https://open.spotify.com/album/0WuxkTSMVZa1nWI7YaR6XS) | 3:10 | 2023-05-19 |  |
 | [Crybaby \(On the Phone\)](https://open.spotify.com/track/17m7xzxMBWXLa6eyf3gsag) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Crybaby \(On the Phone\)](https://open.spotify.com/album/70R0bzjqP8a4yKUjg4ISdn) | 2:23 | 2021-11-19 | 2022-07-25 |
@@ -83,7 +84,7 @@
 | [Hate Me](https://open.spotify.com/track/1Lk13k8L1NPszPjKoNio3G) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [Hate Me](https://open.spotify.com/album/1XTGnMBP75w3lVdfWYIi4c) | 2:48 | 2021-11-19 | 2022-12-08 |
 | [Hate Me \(Sometimes\)](https://open.spotify.com/track/69Y6dB1U7AZ0FfDdzol6ir) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Pink Elephant](https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu) | 3:53 | 2021-11-19 |  |
 | [HeatDeath](https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [HeatDeath](https://open.spotify.com/album/0i5IzMJEOcCr8P6dUb9W2n) | 5:17 | 2021-11-19 | 2022-12-09 |
-| [Heaven Without You](https://open.spotify.com/track/4NardHbUoTLDH54bOBJ9T8) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Heaven Without You](https://open.spotify.com/album/21vS3D6XnWr0L0QZwiJFI6) | 2:55 | 2023-05-19 |  |
+| [Heaven Without You](https://open.spotify.com/track/4NardHbUoTLDH54bOBJ9T8) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Heaven Without You](https://open.spotify.com/album/21vS3D6XnWr0L0QZwiJFI6) | 2:55 | 2023-05-19 | 2023-11-28 |
 | [Heavy](https://open.spotify.com/track/0vl7pdzy0g0mHpgK9LDbVA) | [Blonder](https://open.spotify.com/artist/0AhjcWvgOYE0lPpuTMh1i9) | [Heavy](https://open.spotify.com/album/7uXrBLU63hlBn4LS13mMf8) | 3:05 | 2021-11-19 | 2022-07-18 |
 | [Her](https://open.spotify.com/track/4hcxkA5rIL9oNLcEMRBsmV) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Flux](https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC) | 2:08 | 2022-08-16 |  |
 | [Her](https://open.spotify.com/track/7AKWV3l6tVrhLj9nstvdHg) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Her](https://open.spotify.com/album/5M8n87fIB9ystGFr2q1teu) | 2:08 | 2021-11-19 | 2022-07-28 |

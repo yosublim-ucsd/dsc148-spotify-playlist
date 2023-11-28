@@ -4,7 +4,7 @@
 
 > You can dance or chill.
 
-173 songs - 8 hr 38 min
+174 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [Rebirth](https://open.spotify.com/track/4Xz2mxHREzWiEr0AyCJuU6) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Hero Baldwin](https://open.spotify.com/artist/3F5e8tUWnf1MKKwW89rSg6) | [In Another Lifetime](https://open.spotify.com/album/5YbDMcXp70ko2WzPFA7WEb) | 4:44 | 2022-09-15 |  |
 | [Rest Of My Life](https://open.spotify.com/track/03TeqvF26mItybhh9k3wPA) | [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [Eloi El](https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ) | [Rest Of My Life](https://open.spotify.com/album/46dZ3gViTkdI4tJFQYIkul) | 2:19 | 2023-05-18 | 2023-11-25 |
 | [Rewind](https://open.spotify.com/track/3UPFrg3idbxRnMHx7zhvlA) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM), [Jay Mason](https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob) | [Rewind](https://open.spotify.com/album/3252XIsm2QRB92Pe4UlPrp) | 2:41 | 2023-06-29 | 2023-08-26 |
-| [Rooftop](https://open.spotify.com/track/1eMWdrMNzPuGOwsAeKlXBW) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Rooftop](https://open.spotify.com/album/2dxviQ3pceDaEjeVasmMFL) | 3:19 | 2023-01-13 |  |
+| [Rooftop](https://open.spotify.com/track/1eMWdrMNzPuGOwsAeKlXBW) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Rooftop](https://open.spotify.com/album/2dxviQ3pceDaEjeVasmMFL) | 3:19 | 2023-01-13 | 2023-11-28 |
 | [Room](https://open.spotify.com/track/0nnOUYjKs5IWiMg414VFFT) | [Braaten](https://open.spotify.com/artist/0odPXKGYqtTpiWJFBhqyVB), [Mathew V](https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS) | [Room](https://open.spotify.com/album/2Rp0zDV32VxKHoTh1hPyzV) | 2:58 | 2022-09-15 | 2022-12-17 |
 | [Running Away](https://open.spotify.com/track/3WzOeH9J5yHXDMX3urdLCJ) | [Arley](https://open.spotify.com/artist/6dDcvbij1mC4yKl7Dm5dNt), [Descend](https://open.spotify.com/artist/1MArNKGDTIWAiJkpnqwCEK) | [Running Away](https://open.spotify.com/album/4WDCOq2xgH3LLzW3tjNudJ) | 3:27 | 2023-08-31 | 2023-09-08 |
 | [Say Goodbye](https://open.spotify.com/track/7bCQA4jNsMewYrumV75Jkk) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [ECHŌWALL](https://open.spotify.com/artist/0wNQ7AjdPL8uDAiSKVLXAS) | [Say Goodbye](https://open.spotify.com/album/5pS942I4W6bfRUcCnSRkho) | 2:36 | 2023-03-23 | 2023-07-31 |
@@ -150,6 +150,7 @@
 | [Someday \(Latroit Edition\)](https://open.spotify.com/track/6oF66hFngUSqA9lHimenPp) | [Lliam Taylor](https://open.spotify.com/artist/2n01f3fehDpSvUQB3oYFFe), [Latroit](https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK), [Brea](https://open.spotify.com/artist/5nVSKWXkINmkKxSSWfiPwM) | [Someday \(Latroit Edition\)](https://open.spotify.com/album/0imxdkIlwChhIIrJALipXW) | 3:21 | 2022-09-15 |  |
 | [Sorry](https://open.spotify.com/track/2MYIfxhvYk7VaEJ0cWiRmK) | [MAFQEES](https://open.spotify.com/artist/1Qp9yr4c6X7AWduUBkWhIp) | [Sorry](https://open.spotify.com/album/4TJ3Olg6n07Gv6yba69t9s) | 2:42 | 2022-09-15 | 2023-07-28 |
 | [Stay A Little Longer](https://open.spotify.com/track/2ccjGxAs64dv32oh45iE91) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [Stay A Little Longer](https://open.spotify.com/album/7f6rguPHcD1bVXFT7snazF) | 2:09 | 2023-06-01 |  |
+| [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 | 2023-11-27 |  |
 | [Summer Jams](https://open.spotify.com/track/3W3v72EKmAfAiuJm9BDi9b) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq), [Jay Mason](https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob) | [Summer Jams](https://open.spotify.com/album/3joHydRaKKBO8Z6HRq3asQ) | 2:17 | 2022-09-22 |  |
 | [Summer Stars](https://open.spotify.com/track/1mrRgtxikCZ9y8qdnhS3FD) | [Mauve](https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh) | [Summer Stars](https://open.spotify.com/album/4sbmy9qzug63y1u8kX9UG3) | 2:30 | 2022-09-15 |  |
 | [Sunday Monday](https://open.spotify.com/track/08D2l1z7iGDMbHbb227ydx) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Sunday Monday](https://open.spotify.com/album/1Mf0YgXEyGOxKIARtZKWvq) | 2:27 | 2022-12-22 |  |

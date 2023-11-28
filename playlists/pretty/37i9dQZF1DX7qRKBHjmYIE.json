@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Cami.",
-  "num_followers": 761517,
+  "num_followers": 761492,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODc5N2Q3MTdkZjkyZGMyZjQ2ZDRkZDA4NTVlOGI1MzMyYzQ3ZjE3",
+  "snapshot_id": "MCw2YzU0NjRiNWViMjg3MjQ5MjEyNjRiZjViY2VmNjEyZWVlY2UyOTEw",
   "tracks": [
     {
       "added_at": "2023-11-24 06:54:48",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-11-24 06:54:48",
       "album": {
-        "name": "de mi pa ti",
-        "url": "https://open.spotify.com/album/7gq4G8BuMxSeLAePv3r30l"
-      },
-      "artists": [
-        {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
-        }
-      ],
-      "duration_ms": 206351,
-      "name": "de mi pa ti",
-      "url": "https://open.spotify.com/track/5VUiGfYomtEI1dP8wDdQSW"
-    },
-    {
-      "added_at": "2023-11-24 06:54:48",
-      "album": {
         "name": "Madres",
         "url": "https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 204067,
       "name": "Habla Con Ella",
       "url": "https://open.spotify.com/track/6HMTox9UW3BxOUi8BlMVgk"
+    },
+    {
+      "added_at": "2023-11-24 06:54:48",
+      "album": {
+        "name": "de mi pa ti",
+        "url": "https://open.spotify.com/album/7gq4G8BuMxSeLAePv3r30l"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "duration_ms": 206351,
+      "name": "de mi pa ti",
+      "url": "https://open.spotify.com/track/5VUiGfYomtEI1dP8wDdQSW"
     },
     {
       "added_at": "2023-11-24 06:54:48",
@@ -495,6 +495,22 @@
     {
       "added_at": "2023-11-24 06:54:48",
       "album": {
+        "name": "Woke Up Dis Morning",
+        "url": "https://open.spotify.com/album/3Er14Y7GQXzN9vINCBgVXD"
+      },
+      "artists": [
+        {
+          "name": "Eddie Zuko",
+          "url": "https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub"
+        }
+      ],
+      "duration_ms": 177021,
+      "name": "Woke Up Dis Morning",
+      "url": "https://open.spotify.com/track/312ixrbrcnAF8Mn0XeDOlX"
+    },
+    {
+      "added_at": "2023-11-24 06:54:48",
+      "album": {
         "name": "Te Hice Mal (Remix)",
         "url": "https://open.spotify.com/album/3QJN1KLfND8BJpBRHDPCDk"
       },
@@ -515,22 +531,6 @@
     {
       "added_at": "2023-11-24 06:54:48",
       "album": {
-        "name": "Woke Up Dis Morning",
-        "url": "https://open.spotify.com/album/3Er14Y7GQXzN9vINCBgVXD"
-      },
-      "artists": [
-        {
-          "name": "Eddie Zuko",
-          "url": "https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub"
-        }
-      ],
-      "duration_ms": 177021,
-      "name": "Woke Up Dis Morning",
-      "url": "https://open.spotify.com/track/312ixrbrcnAF8Mn0XeDOlX"
-    },
-    {
-      "added_at": "2023-11-24 06:54:48",
-      "album": {
         "name": "SUPERNOVA",
         "url": "https://open.spotify.com/album/7KdsjQmMyF9B25UqADi117"
       },
@@ -547,6 +547,26 @@
       "duration_ms": 203999,
       "name": "WCID?",
       "url": "https://open.spotify.com/track/4mwQi413D8omgjFXRnaA4u"
+    },
+    {
+      "added_at": "2023-11-24 06:54:48",
+      "album": {
+        "name": "Chispeo ft. Ovy On The Drums - Spotify Singles",
+        "url": "https://open.spotify.com/album/19bgWVSbdr6hodfxeJd4wU"
+      },
+      "artists": [
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 130602,
+      "name": "Chispeo ft. Ovy On The Drums - Spotify Singles",
+      "url": "https://open.spotify.com/track/2xfDE32mrcMyk9MpBVfY0F"
     },
     {
       "added_at": "2023-11-24 06:54:48",
@@ -603,26 +623,6 @@
     {
       "added_at": "2023-11-24 06:54:48",
       "album": {
-        "name": "Chispeo ft. Ovy On The Drums - Spotify Singles",
-        "url": "https://open.spotify.com/album/19bgWVSbdr6hodfxeJd4wU"
-      },
-      "artists": [
-        {
-          "name": "Loyal Lobos",
-          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 130602,
-      "name": "Chispeo ft. Ovy On The Drums - Spotify Singles",
-      "url": "https://open.spotify.com/track/2xfDE32mrcMyk9MpBVfY0F"
-    },
-    {
-      "added_at": "2023-11-24 06:54:48",
-      "album": {
         "name": "Mam\u00e1 Flor",
         "url": "https://open.spotify.com/album/2Kh4wcnhEPSbbrExSSpOOz"
       },
@@ -655,18 +655,18 @@
     {
       "added_at": "2023-11-24 06:54:48",
       "album": {
-        "name": "Walk On Everything",
-        "url": "https://open.spotify.com/album/0b7CilPsEiOZHiGwdyV3bK"
+        "name": "Nervios de Acero",
+        "url": "https://open.spotify.com/album/0Q1CgNC7kxF5R1Ln5LfTO2"
       },
       "artists": [
         {
-          "name": "A.CHAL",
-          "url": "https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4"
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
         }
       ],
-      "duration_ms": 177341,
-      "name": "Walk On Everything",
-      "url": "https://open.spotify.com/track/4eUxbmrkFkUBZBntLYIwHq"
+      "duration_ms": 187368,
+      "name": "Nervios de Acero",
+      "url": "https://open.spotify.com/track/5AtOFc69R8iYQlShJoXB3n"
     },
     {
       "added_at": "2023-11-24 06:54:48",
@@ -699,6 +699,38 @@
       "duration_ms": 160522,
       "name": "Gringuita",
       "url": "https://open.spotify.com/track/70tGXVBJJggvYRgnDabwlb"
+    },
+    {
+      "added_at": "2023-11-24 06:54:48",
+      "album": {
+        "name": "Gualero REFF12.31",
+        "url": "https://open.spotify.com/album/17FImqLfr4kV6VhWh5fXdH"
+      },
+      "artists": [
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        }
+      ],
+      "duration_ms": 201626,
+      "name": "Gualero REFF12.31",
+      "url": "https://open.spotify.com/track/2gKLtFP8HSTPfPshO0GsuM"
+    },
+    {
+      "added_at": "2023-11-24 06:54:48",
+      "album": {
+        "name": "Walk On Everything",
+        "url": "https://open.spotify.com/album/0b7CilPsEiOZHiGwdyV3bK"
+      },
+      "artists": [
+        {
+          "name": "A.CHAL",
+          "url": "https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4"
+        }
+      ],
+      "duration_ms": 177341,
+      "name": "Walk On Everything",
+      "url": "https://open.spotify.com/track/4eUxbmrkFkUBZBntLYIwHq"
     },
     {
       "added_at": "2023-11-24 06:54:48",
@@ -739,22 +771,6 @@
     {
       "added_at": "2023-11-24 06:54:48",
       "album": {
-        "name": "Gualero REFF12.31",
-        "url": "https://open.spotify.com/album/17FImqLfr4kV6VhWh5fXdH"
-      },
-      "artists": [
-        {
-          "name": "RaiNao",
-          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
-        }
-      ],
-      "duration_ms": 201626,
-      "name": "Gualero REFF12.31",
-      "url": "https://open.spotify.com/track/2gKLtFP8HSTPfPshO0GsuM"
-    },
-    {
-      "added_at": "2023-11-24 06:54:48",
-      "album": {
         "name": "aqu\u00ed andamos",
         "url": "https://open.spotify.com/album/5J6UFbDlKsIaiuDcU6v6Ux"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 160824,
       "name": "V\u00e1monos",
       "url": "https://open.spotify.com/track/008S9w7s1NF1O3GmtUR6PX"
-    },
-    {
-      "added_at": "2023-11-24 06:54:48",
-      "album": {
-        "name": "Nervios de Acero",
-        "url": "https://open.spotify.com/album/0Q1CgNC7kxF5R1Ln5LfTO2"
-      },
-      "artists": [
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        }
-      ],
-      "duration_ms": 187368,
-      "name": "Nervios de Acero",
-      "url": "https://open.spotify.com/track/5AtOFc69R8iYQlShJoXB3n"
     },
     {
       "added_at": "2023-11-24 06:54:48",

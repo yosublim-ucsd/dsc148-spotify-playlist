@@ -4,7 +4,7 @@
 
 > Hardcore and uptempo to get you pumped
 
-212 songs - 12 hr 1 min
+213 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Shadows in the Dark](https://open.spotify.com/track/0L4i68FCrTrwev3PxUUpQt) | [Re\-Fuzz](https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs) | [Shadows in the Dark](https://open.spotify.com/album/39LODywZvMhYTjECv7poxU) | 4:48 | 2022-12-22 |  |
 | [Sick And Tired](https://open.spotify.com/track/1K13dIVI2xSsqZQlPuKvq2) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [Sick And Tired](https://open.spotify.com/album/16kkNx668sjZceOu4LeK6d) | 3:12 | 2022-12-08 | 2023-01-27 |
 | [Side Fx's](https://open.spotify.com/track/7fwYN5u0dYRNqshCjhJWDF) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg), [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E), [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa) | [Artificial Intoxication](https://open.spotify.com/album/1UzOa746jQMejJtvImrB5O) | 3:06 | 2022-12-08 | 2023-06-30 |
+| [SIUU!](https://open.spotify.com/track/2OWCrAs7CVXECZax6Qhuuc) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv) | [Dopameme](https://open.spotify.com/album/7mrKtXt92sGdK4IIkBJNO0) | 3:37 | 2023-11-27 |  |
 | [Sky Ablaze](https://open.spotify.com/track/6DntIbU0UMmkSoEK4jGIjV) | [Hysta](https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O) | [Sky Ablaze](https://open.spotify.com/album/0t1j9srFXkWtOGUYI6o6A5) | 2:55 | 2022-12-08 | 2023-10-26 |
 | [Slaves To The Darkness](https://open.spotify.com/track/3aPsBE6I6l8eWZB3LN0AdG) | [Audiofreq](https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl), [E\-Life](https://open.spotify.com/artist/4EnzLaY6syM2lVhfMRolW2), [Lin was here](https://open.spotify.com/artist/6a2eeGEALfPlsr7bZQo9wf) | [Slaves To The Darkness](https://open.spotify.com/album/15ikzZsJ2RLrmhC6Co9mB3) | 3:18 | 2023-11-17 |  |
 | [Slugs 4 Snitches](https://open.spotify.com/track/6MHMcWZdrG6ZqqNdfLh2RM) | [Hellsystem](https://open.spotify.com/artist/53EHsN2X6QI9xsmunKAW85), [Predator](https://open.spotify.com/artist/39nubWTSdyGoDYpl3Wc5Zj) | [Slugs 4 Snitches](https://open.spotify.com/album/4g2EKX6UswnPDGqYVK1pBs) | 2:50 | 2023-10-25 |  |

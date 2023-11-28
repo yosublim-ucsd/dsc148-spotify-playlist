@@ -4,7 +4,7 @@
 
 > ❤️ o 💔
 
-177 songs - 10 hr 18 min
+178 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [C14TORCE II](https://open.spotify.com/track/2e2ZtZbe6rQoOnUizqowNT) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [C14TORCE II](https://open.spotify.com/album/7xKDKUJqp6Q2hxpH3ny9Jk) | 3:16 | 2021-12-03 |  |
 | [C14TORCE III](https://open.spotify.com/track/5feYWe3hr9hZ7jEXfa2UcS) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [C14TORCE III](https://open.spotify.com/album/588LtwOHlhE4L4VulRdO7e) | 2:23 | 2021-12-03 |  |
 | [C14TORCE IV](https://open.spotify.com/track/2rSjMzTh9CPqaFMQMZJy0s) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [C14TORCE IV](https://open.spotify.com/album/4VYevg4fdLHmRiEvDtRIEY) | 2:53 | 2021-12-03 |  |
-| [Calle 2 \- Remix](https://open.spotify.com/track/45qpVdZAbONKliwh1ZD8nK) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Coscu](https://open.spotify.com/artist/1zRCMyk3hHYkMScpzvIVQm) | [Calle 2 \(Remix\)](https://open.spotify.com/album/1o0MhCJitsOdbXSifxCH07) | 3:42 | 2021-12-03 |  |
+| [Calle 2 \- Remix](https://open.spotify.com/track/45qpVdZAbONKliwh1ZD8nK) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Coscu](https://open.spotify.com/artist/1zRCMyk3hHYkMScpzvIVQm) | [Calle 2 \(Remix\)](https://open.spotify.com/album/1o0MhCJitsOdbXSifxCH07) | 3:42 | 2021-12-03 | 2023-11-28 |
 | [Cama Vacia](https://open.spotify.com/track/06myN3Gm0cS4b2egG9diEr) | [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Cama Vacia](https://open.spotify.com/album/6kjJgUCFPKSf7Tr27whxpe) | 2:52 | 2021-12-03 | 2022-07-21 |
 | [Canela](https://open.spotify.com/track/1yTJg3lyUPmwbnve82twH5) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Canela](https://open.spotify.com/album/6AgxVg5UPdPs5b0GCUEQ38) | 3:24 | 2021-12-03 |  |
 | [CAPRICHOSO](https://open.spotify.com/track/1sJCxmtHVDHjgwXwdHYFWn) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [CAPRICHOSO](https://open.spotify.com/album/6oKn81qm7WFAXnvkFB8Pah) | 2:47 | 2022-02-08 |  |
@@ -122,6 +122,7 @@
 | [No Me Llores](https://open.spotify.com/track/4DNzemGNnckcJSr8DVk8Uj) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Leby](https://open.spotify.com/artist/1Pk9sKrTxQ1lLfCg9b0PlF) | [No Me Llores](https://open.spotify.com/album/1icQUm91R0BRAMckJHyLwQ) | 3:11 | 2021-12-03 | 2022-07-29 |
 | [No Puedo Fingir](https://open.spotify.com/track/61I0O29lEDZA6kOY7bWh2t) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [No Puedo Fingir](https://open.spotify.com/album/79G1pr97ZqPkgoIc88RaUS) | 2:44 | 2021-12-03 | 2023-10-12 |
 | [No Te Hagas](https://open.spotify.com/track/5hKjEpYrJIJs6uPl7zw6Y6) | [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [No Te Hagas](https://open.spotify.com/album/5z6CpoA90Y3xIZC45maoYu) | 3:53 | 2021-12-03 |  |
+| [Nunca Me Amo](https://open.spotify.com/track/60PBNJm2fk3TnhZU3Ltida) | [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN) | [Chosen Few: New Generation](https://open.spotify.com/album/3OrduFrOK2uqkUdlzdeUnj) | 3:19 | 2023-11-24 |  |
 | [Nunca Me Amo](https://open.spotify.com/track/6jCF6MQ050engg73RJnN87) | [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN) | [Nunca Me Amo](https://open.spotify.com/album/1sCGtFPVUO2xyNO5FrwXvU) | 3:19 | 2022-12-09 | 2023-11-26 |
 | [Nunca Me Amo](https://open.spotify.com/track/1uihSnDxZidO3IMM2hmUBW) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN), [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF) | [Nunca Me Amo](https://open.spotify.com/album/68D3lrpkYBgh6RwxNqZ0l4) | 3:19 | 2021-12-03 | 2022-12-22 |
 | [ODIO](https://open.spotify.com/track/7alOsNr36sJ8CyOEP4aILq) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 4:30 | 2021-12-03 |  |

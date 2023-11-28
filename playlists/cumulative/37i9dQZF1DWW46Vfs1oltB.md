@@ -2,9 +2,9 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The fresh & hottest K\-Hip hop tracks\. \(Cover: punchnello\)
+> The fresh & hottest K\-Hip hop tracks\. \(Cover: kitsyoji\(키츠요지\)\)
 
-1,033 songs - 2 day 8 hr 39 min
+1,034 songs - 2 day 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,6 +277,7 @@
 | [Error \(Feat\. Loopy\)](https://open.spotify.com/track/7IRknQOMvsycACYS1fVGex) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg) | [ISLAND](https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO) | 3:27 | 2021-12-18 | 2022-09-23 |
 | [ETA \(with iiso\)](https://open.spotify.com/track/3DRZRLXhMkJSgwN61FUvdV) | [ROH YUNHA](https://open.spotify.com/artist/3dLZdTWMaokxt4y9sDzEWq), [Chillin Homie](https://open.spotify.com/artist/5f48MQLr5eOXHcR4lFE1BM), [DAMINI](https://open.spotify.com/artist/1yNIinWsNuQUyXJsqnmaLh), [iiso](https://open.spotify.com/artist/0oveUySQ3sjC5GVG7IIQ4e) | [ETA](https://open.spotify.com/album/5Ed3Z9SI1jkkX0OivYIkIA) | 3:08 | 2023-04-22 | 2023-11-04 |
 | [Everything](https://open.spotify.com/track/7uy9pd7vLYQHYWFczj0urj) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Everything](https://open.spotify.com/album/2zpEkut1D2xF0daaWj8lYt) | 3:07 | 2022-11-08 | 2023-03-28 |
+| [Evidence \(Feat\. JUSTHIS\)](https://open.spotify.com/track/5xxnJvd8x4oMmGLirM2OFt) | [kitsyojii](https://open.spotify.com/artist/3X9mQSyCBKAV74OUSf7zLt), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [\#freekitsyojii](https://open.spotify.com/album/2EhSBUIg9y2dG3dk0YX0G5) | 3:40 | 2023-11-27 |  |
 | [EXN’S ANSWER](https://open.spotify.com/track/461WjZx4PvGCo7nuCtt1Bx) | [EXN](https://open.spotify.com/artist/5s57OpnkDtehlRDTZcLGFE) | [EXN’S ANSWER](https://open.spotify.com/album/6XvtA8g7YfYlHKWyqT9wsd) | 2:46 | 2022-04-18 | 2022-07-03 |
 | [EXPEND4BLES \(feat\. ODEE\)](https://open.spotify.com/track/027ulOUEwK1sxTnilpqJaY) | [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB), [ODEE](https://open.spotify.com/artist/6cZC6RjRzOVsizwM7UhbXt) | [EXPEND4BLES](https://open.spotify.com/album/7nGC4x0le07huRkbVwMYq8) | 2:37 | 2023-10-14 |  |
 | [EXS](https://open.spotify.com/track/6nu5TMQFH9CKVQV7l4t1DD) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM) | [926](https://open.spotify.com/album/46UAhlKGdxGrdPaa65MsQK) | 2:34 | 2022-07-07 | 2022-10-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65QClPuOQgF.md) - [plain]
 
 > Find your study focus with high pitched azure noise \- perfect for masking disruptive noises.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,748 likes - 85 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,803 likes - 85 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65QClPuOQgF.md) - [plain]
 | 84 | [Gentle Blue Noise](https://open.spotify.com/track/3RttIRWuHEiKeOXbRwnSAK) | [Shoreline Sounds](https://open.spotify.com/artist/1AHEZC4lubUe98hmgYLxqw) | [Blue Noise Shores](https://open.spotify.com/album/1YKaDBawNnAiFP3ugCd7DX) | 3:36 |
 | 85 | [Blue Noise Architecture](https://open.spotify.com/track/7u3GWc7xnXci5PV5PLyihN) | [The Frequency Shifters](https://open.spotify.com/artist/7MbxdnkfBJ2STy1K8VzbzJ) | [Blue Noise Architecture](https://open.spotify.com/album/2g0bySzL5EHwQwFZmyIvY4) | 3:16 |
 
-Snapshot ID: `MCwxNzEwNjRmNmE4MDJjMjU3MTAwODE2ZDBiZjVlZmMxMGYyOGIwOGM3`
+Snapshot ID: `MCxhMmJmNTU1YzBiYzFkMWIxMTcxNTM0ZGY3MjIyYzVkOGRlZDNlMDA4`

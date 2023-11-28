@@ -1,12 +1,12 @@
 {
   "description": "Let the music flow through you...",
-  "num_followers": 44645,
+  "num_followers": 44694,
   "original_name": "Soulful",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNGU2NmZlNWFhMWRkNGFkN2NlNzRhZWI1MjAxMDFmNTNiNTRlMDg5",
+  "snapshot_id": "MCxhYTQxMmFkMGMwNDdiYThiYmVjNDM3NDFmN2VlNzRiOTNkMTdkYTg1",
   "tracks": [
     {
       "added_at": "2023-11-23 13:30:01",
@@ -519,26 +519,6 @@
     {
       "added_at": "2023-11-23 13:30:01",
       "album": {
-        "name": "ALICIA",
-        "url": "https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 234866,
-      "name": "So Done (feat. Khalid)",
-      "url": "https://open.spotify.com/track/0DC6yJLAPwIEeZh6EZpn1f"
-    },
-    {
-      "added_at": "2023-11-23 13:30:01",
-      "album": {
         "name": "Summer Moon (feat. Kevin Kaarl)",
         "url": "https://open.spotify.com/album/3kdPIjFwMkIBCIsUqt3SrV"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 177673,
       "name": "Summer Moon (feat. Kevin Kaarl)",
       "url": "https://open.spotify.com/track/2dNGIZvZF71AR72OHpo3CE"
+    },
+    {
+      "added_at": "2023-11-23 13:30:01",
+      "album": {
+        "name": "ALICIA",
+        "url": "https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 234866,
+      "name": "So Done (feat. Khalid)",
+      "url": "https://open.spotify.com/track/0DC6yJLAPwIEeZh6EZpn1f"
     },
     {
       "added_at": "2023-11-23 13:30:01",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-11-23 13:30:01",
       "album": {
-        "name": "TMF",
-        "url": "https://open.spotify.com/album/0zGLgwn8xSDwNrzc67tEkt"
-      },
-      "artists": [
-        {
-          "name": "Saint Harison",
-          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
-        }
-      ],
-      "duration_ms": 211283,
-      "name": "TMF",
-      "url": "https://open.spotify.com/track/67OrF48gkNByr9HpRtSOSD"
-    },
-    {
-      "added_at": "2023-11-23 13:30:01",
-      "album": {
         "name": "Express",
         "url": "https://open.spotify.com/album/33Iy4OnV5ZEqTKQG2Xbplo"
       },
@@ -755,26 +739,18 @@
     {
       "added_at": "2023-11-23 13:30:01",
       "album": {
-        "name": "My Phone Can Die",
-        "url": "https://open.spotify.com/album/6KvYRCl4xHiFbTDb3ql8Aa"
+        "name": "TMF",
+        "url": "https://open.spotify.com/album/0zGLgwn8xSDwNrzc67tEkt"
       },
       "artists": [
         {
-          "name": "Rory",
-          "url": "https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9"
-        },
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        },
-        {
-          "name": "James Fauntleroy",
-          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
         }
       ],
-      "duration_ms": 179508,
-      "name": "My Phone Can Die",
-      "url": "https://open.spotify.com/track/4RYsLFK1VLPtrwipmcAWoo"
+      "duration_ms": 211283,
+      "name": "TMF",
+      "url": "https://open.spotify.com/track/67OrF48gkNByr9HpRtSOSD"
     },
     {
       "added_at": "2023-11-23 13:30:01",
@@ -795,6 +771,30 @@
       "duration_ms": 223887,
       "name": "What\u2019s going on?",
       "url": "https://open.spotify.com/track/2dUVkU69fTjQvuCDIu4eT5"
+    },
+    {
+      "added_at": "2023-11-23 13:30:01",
+      "album": {
+        "name": "My Phone Can Die",
+        "url": "https://open.spotify.com/album/6KvYRCl4xHiFbTDb3ql8Aa"
+      },
+      "artists": [
+        {
+          "name": "Rory",
+          "url": "https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9"
+        },
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        },
+        {
+          "name": "James Fauntleroy",
+          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
+        }
+      ],
+      "duration_ms": 179508,
+      "name": "My Phone Can Die",
+      "url": "https://open.spotify.com/track/4RYsLFK1VLPtrwipmcAWoo"
     },
     {
       "added_at": "2023-11-23 13:30:01",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-11-23 13:30:01",
       "album": {
-        "name": "Spider",
-        "url": "https://open.spotify.com/album/3AKp3KdtVVT0rwkfejvkj7"
-      },
-      "artists": [
-        {
-          "name": "Dallas Tamaira",
-          "url": "https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt"
-        }
-      ],
-      "duration_ms": 174614,
-      "name": "Spider",
-      "url": "https://open.spotify.com/track/2mmffn8SKL7XMeccLOXSgY"
-    },
-    {
-      "added_at": "2023-11-23 13:30:01",
-      "album": {
         "name": "Soul,PRESENT",
         "url": "https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6"
       },
@@ -975,6 +959,22 @@
     {
       "added_at": "2023-11-23 13:30:01",
       "album": {
+        "name": "Spider",
+        "url": "https://open.spotify.com/album/3AKp3KdtVVT0rwkfejvkj7"
+      },
+      "artists": [
+        {
+          "name": "Dallas Tamaira",
+          "url": "https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt"
+        }
+      ],
+      "duration_ms": 174614,
+      "name": "Spider",
+      "url": "https://open.spotify.com/track/2mmffn8SKL7XMeccLOXSgY"
+    },
+    {
+      "added_at": "2023-11-23 13:30:01",
+      "album": {
         "name": "Everything's Fine",
         "url": "https://open.spotify.com/album/2OOTl13Kx9KxMF1ESG2u58"
       },
@@ -987,22 +987,6 @@
       "duration_ms": 208250,
       "name": "Reelin'",
       "url": "https://open.spotify.com/track/0pZrbb5wNwxRA3mqsl1SWN"
-    },
-    {
-      "added_at": "2023-11-23 13:30:01",
-      "album": {
-        "name": "Chronicles of a Diamond",
-        "url": "https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH"
-      },
-      "artists": [
-        {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
-        }
-      ],
-      "duration_ms": 305160,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/4HhqdvbBk2YeGayKnBZxF6"
     },
     {
       "added_at": "2023-11-23 13:30:01",
@@ -1023,6 +1007,22 @@
       "duration_ms": 213404,
       "name": "No One But You",
       "url": "https://open.spotify.com/track/7LSypGB8lN2LbdizzUzzgL"
+    },
+    {
+      "added_at": "2023-11-23 13:30:01",
+      "album": {
+        "name": "Chronicles of a Diamond",
+        "url": "https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "duration_ms": 305160,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/4HhqdvbBk2YeGayKnBZxF6"
     },
     {
       "added_at": "2023-11-23 13:30:01",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-11-23 13:30:01",
       "album": {
-        "name": "The Winding Way",
-        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 233298,
-      "name": "Oceans Of Emotions",
-      "url": "https://open.spotify.com/track/3bIdWXtBtDqES9h21vls42"
-    },
-    {
-      "added_at": "2023-11-23 13:30:01",
-      "album": {
         "name": "Good Thing (Deluxe)",
         "url": "https://open.spotify.com/album/15UQ2i9tFgP1VL24O3aBvM"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 137546,
       "name": "The Room",
       "url": "https://open.spotify.com/track/7euupBRn1BnMdWecnyBWU6"
+    },
+    {
+      "added_at": "2023-11-23 13:30:01",
+      "album": {
+        "name": "The Winding Way",
+        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 233298,
+      "name": "Oceans Of Emotions",
+      "url": "https://open.spotify.com/track/3bIdWXtBtDqES9h21vls42"
     },
     {
       "added_at": "2023-11-23 13:30:01",

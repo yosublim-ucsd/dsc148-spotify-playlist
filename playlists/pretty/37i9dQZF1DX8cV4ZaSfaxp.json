@@ -1,12 +1,12 @@
 {
   "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: KWON EUNBI(\uad8c\uc740\ube44)) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 48615,
+  "num_followers": 48657,
   "original_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTFjMTNlYTU4MjVhNWUxNDYxNmJkMGUzZGY1M2RiZWY1OGNhMWJj",
+  "snapshot_id": "MCwxNWYzMDM3MzFlZDg1MDhjNDAwYWI2YzM5MjNhYjk2MDk5NTZmZjQ3",
   "tracks": [
     {
       "added_at": "2023-11-02 08:20:42",
@@ -383,6 +383,22 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
+        "name": "SOUL LADY",
+        "url": "https://open.spotify.com/album/5rsgGy09HIAwtIy5oF5MhF"
+      },
+      "artists": [
+        {
+          "name": "YUKIKA",
+          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+        }
+      ],
+      "duration_ms": 146373,
+      "name": "NEON 1989",
+      "url": "https://open.spotify.com/track/1Uc1gpLGKiW2OyM7SF9WLW"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
         "name": "CATNIP",
         "url": "https://open.spotify.com/album/66DrcdGAs9lGvTbsf5Tgdh"
       },
@@ -451,22 +467,6 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "SOUL LADY",
-        "url": "https://open.spotify.com/album/5rsgGy09HIAwtIy5oF5MhF"
-      },
-      "artists": [
-        {
-          "name": "YUKIKA",
-          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
-        }
-      ],
-      "duration_ms": 146373,
-      "name": "NEON 1989",
-      "url": "https://open.spotify.com/track/1Uc1gpLGKiW2OyM7SF9WLW"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
         "name": "Lonely Night",
         "url": "https://open.spotify.com/album/7J61Jk6KpPRirh3rVPhuBg"
       },
@@ -479,22 +479,6 @@
       "duration_ms": 194373,
       "name": "Lonely Night",
       "url": "https://open.spotify.com/track/2zfXhLXmq96fp8eq1N4vm1"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
-        "name": "REBOOT",
-        "url": "https://open.spotify.com/album/3in3RzViPTp3fZo51rmJoB"
-      },
-      "artists": [
-        {
-          "name": "Wonder Girls",
-          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "I Feel You",
-      "url": "https://open.spotify.com/track/4VDY2adUsc1up1nitWztVg"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -515,18 +499,34 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/7vZ0v0ZUX9KSCdZgCrtovy"
+        "name": "REBOOT",
+        "url": "https://open.spotify.com/album/3in3RzViPTp3fZo51rmJoB"
       },
       "artists": [
         {
-          "name": "EXID",
-          "url": "https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O"
+          "name": "Wonder Girls",
+          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
         }
       ],
-      "duration_ms": 198414,
-      "name": "Night Rather Than Day",
-      "url": "https://open.spotify.com/track/3ekdsWPG0ZtVrvEUPe2Djv"
+      "duration_ms": 205373,
+      "name": "I Feel You",
+      "url": "https://open.spotify.com/track/4VDY2adUsc1up1nitWztVg"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
+        "name": "\u90fd\u5e02\u5973\u5b50",
+        "url": "https://open.spotify.com/album/3ntOyPFFZxF6iIjXL3E8by"
+      },
+      "artists": [
+        {
+          "name": "Yubin",
+          "url": "https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE"
+        }
+      ],
+      "duration_ms": 197604,
+      "name": "\u90fd\u5e02\u5973\u5b50",
+      "url": "https://open.spotify.com/track/5KBeit6bMhlgfYwZuDTxoH"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -547,18 +547,18 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "\u90fd\u5e02\u5973\u5b50",
-        "url": "https://open.spotify.com/album/3ntOyPFFZxF6iIjXL3E8by"
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/7vZ0v0ZUX9KSCdZgCrtovy"
       },
       "artists": [
         {
-          "name": "Yubin",
-          "url": "https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE"
+          "name": "EXID",
+          "url": "https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O"
         }
       ],
-      "duration_ms": 197604,
-      "name": "\u90fd\u5e02\u5973\u5b50",
-      "url": "https://open.spotify.com/track/5KBeit6bMhlgfYwZuDTxoH"
+      "duration_ms": 198414,
+      "name": "Night Rather Than Day",
+      "url": "https://open.spotify.com/track/3ekdsWPG0ZtVrvEUPe2Djv"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "timeabout,",
-        "url": "https://open.spotify.com/album/1cBAfX0otvkoIOI6HtOrAc"
-      },
-      "artists": [
-        {
-          "name": "YUKIKA",
-          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
-        }
-      ],
-      "duration_ms": 207125,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/0AAEFC3RGirgzRFhi44Y79"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
         "name": "Naturalness",
         "url": "https://open.spotify.com/album/1KIV6HQCntQVl792TVfVCA"
       },
@@ -667,18 +651,18 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "\u2018The ReVe Festival\u2019 Day 2",
-        "url": "https://open.spotify.com/album/3DXz6ItR9DzIw9S0h3Cxfc"
+        "name": "timeabout,",
+        "url": "https://open.spotify.com/album/1cBAfX0otvkoIOI6HtOrAc"
       },
       "artists": [
         {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+          "name": "YUKIKA",
+          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
         }
       ],
-      "duration_ms": 236746,
-      "name": "Ladies Night",
-      "url": "https://open.spotify.com/track/73pkNaWK4N5QfkjabwW40s"
+      "duration_ms": 207125,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/0AAEFC3RGirgzRFhi44Y79"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -699,6 +683,22 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
+        "name": "\u2018The ReVe Festival\u2019 Day 2",
+        "url": "https://open.spotify.com/album/3DXz6ItR9DzIw9S0h3Cxfc"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 236746,
+      "name": "Ladies Night",
+      "url": "https://open.spotify.com/track/73pkNaWK4N5QfkjabwW40s"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
         "name": "nokdu ep vol.1",
         "url": "https://open.spotify.com/album/1MinGctMxIwURKTr30BaKZ"
       },
@@ -711,6 +711,22 @@
       "duration_ms": 232298,
       "name": "\uc624\ub298\uac19\uc740 \ubc24 A Night Like This",
       "url": "https://open.spotify.com/track/4bHe5QKYH1sE5pQcBchQWB"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
+        "name": "Pink Tape - The 2nd Album",
+        "url": "https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z"
+      },
+      "artists": [
+        {
+          "name": "f(x)",
+          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
+        }
+      ],
+      "duration_ms": 200863,
+      "name": "\uc2dc\uadf8\ub110 (Signal)",
+      "url": "https://open.spotify.com/track/1Ed91xIltQC8hSOAOCA7Se"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -731,38 +747,6 @@
       "duration_ms": 212750,
       "name": "With The Star",
       "url": "https://open.spotify.com/track/5v7RICydLLBV5AKoCRmfrG"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
-        "name": "SOUL LADY",
-        "url": "https://open.spotify.com/album/5rsgGy09HIAwtIy5oF5MhF"
-      },
-      "artists": [
-        {
-          "name": "YUKIKA",
-          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
-        }
-      ],
-      "duration_ms": 215693,
-      "name": "SOUL LADY",
-      "url": "https://open.spotify.com/track/6at6MpTibyLqAYnBee95Ev"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
-        "name": "Pink Tape - The 2nd Album",
-        "url": "https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z"
-      },
-      "artists": [
-        {
-          "name": "f(x)",
-          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
-        }
-      ],
-      "duration_ms": 200863,
-      "name": "\uc2dc\uadf8\ub110 (Signal)",
-      "url": "https://open.spotify.com/track/1Ed91xIltQC8hSOAOCA7Se"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -827,6 +811,22 @@
       "duration_ms": 188573,
       "name": "Why",
       "url": "https://open.spotify.com/track/1oEMCcw6M6aSVVDURlBFeu"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
+        "name": "SOUL LADY",
+        "url": "https://open.spotify.com/album/5rsgGy09HIAwtIy5oF5MhF"
+      },
+      "artists": [
+        {
+          "name": "YUKIKA",
+          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+        }
+      ],
+      "duration_ms": 215693,
+      "name": "SOUL LADY",
+      "url": "https://open.spotify.com/track/6at6MpTibyLqAYnBee95Ev"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "The Book of Us : Gluon - Nothing can tear us apart",
-        "url": "https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq"
-      },
-      "artists": [
-        {
-          "name": "DAY6 (Even of Day)",
-          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
-        }
-      ],
-      "duration_ms": 235227,
-      "name": "Landed",
-      "url": "https://open.spotify.com/track/6qLjAAxNEoJvZJiAREQubY"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
         "name": "Aquarium",
         "url": "https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 208236,
       "name": "\ubcf4\ub77c\ube5b \ud5a5\uae30",
       "url": "https://open.spotify.com/track/0yGkMcsEVqhvL9P8dizVap"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
+        "name": "The Book of Us : Gluon - Nothing can tear us apart",
+        "url": "https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq"
+      },
+      "artists": [
+        {
+          "name": "DAY6 (Even of Day)",
+          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
+        }
+      ],
+      "duration_ms": 235227,
+      "name": "Landed",
+      "url": "https://open.spotify.com/track/6qLjAAxNEoJvZJiAREQubY"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "Aquarium",
-        "url": "https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v"
-      },
-      "artists": [
-        {
-          "name": "Bronze",
-          "url": "https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7"
-        },
-        {
-          "name": "YUKIKA",
-          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
-        }
-      ],
-      "duration_ms": 270270,
-      "name": "Orange Road (with YUKIKA)",
-      "url": "https://open.spotify.com/track/0HITwsLMbMXKmiOyz41OjP"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
         "name": "WJ STAY?",
         "url": "https://open.spotify.com/album/0ty0TBeM5B8HU6hzOdjz4f"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 234000,
       "name": "It's Beautiful",
       "url": "https://open.spotify.com/track/1ylAph6SIdV5Q5SQUWf8dX"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
+        "name": "Aquarium",
+        "url": "https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v"
+      },
+      "artists": [
+        {
+          "name": "Bronze",
+          "url": "https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7"
+        },
+        {
+          "name": "YUKIKA",
+          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+        }
+      ],
+      "duration_ms": 270270,
+      "name": "Orange Road (with YUKIKA)",
+      "url": "https://open.spotify.com/track/0HITwsLMbMXKmiOyz41OjP"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -1263,22 +1263,18 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "Aquarium",
-        "url": "https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v"
+        "name": "I Just Wanna Dance - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/5Zf2IZLgKbo9RcktqIQxpU"
       },
       "artists": [
         {
-          "name": "Bronze",
-          "url": "https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7"
-        },
-        {
-          "name": "MEENOI",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+          "name": "TIFFANY",
+          "url": "https://open.spotify.com/artist/1t2HKR34gLWuQyyzLHcSm4"
         }
       ],
-      "duration_ms": 223351,
-      "name": "Haru (with meenoi)",
-      "url": "https://open.spotify.com/track/7BQfXOQiDBvDr1tamfYwwT"
+      "duration_ms": 214490,
+      "name": "TALK",
+      "url": "https://open.spotify.com/track/6O3XduvZiAgLpjeDnZ5sJ4"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -1299,22 +1295,6 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "I Just Wanna Dance - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/5Zf2IZLgKbo9RcktqIQxpU"
-      },
-      "artists": [
-        {
-          "name": "TIFFANY",
-          "url": "https://open.spotify.com/artist/1t2HKR34gLWuQyyzLHcSm4"
-        }
-      ],
-      "duration_ms": 214490,
-      "name": "TALK",
-      "url": "https://open.spotify.com/track/6O3XduvZiAgLpjeDnZ5sJ4"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
         "name": "Love visible",
         "url": "https://open.spotify.com/album/3dmMH1i3mcYmt4BJTIr3Dg"
       },
@@ -1331,18 +1311,22 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "Myspace",
-        "url": "https://open.spotify.com/album/2MV3aQb0BMMLqaydFaTci7"
+        "name": "Aquarium",
+        "url": "https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v"
       },
       "artists": [
         {
-          "name": "Minsu",
-          "url": "https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta"
+          "name": "Bronze",
+          "url": "https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7"
+        },
+        {
+          "name": "MEENOI",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
         }
       ],
-      "duration_ms": 216106,
-      "name": "Myspace",
-      "url": "https://open.spotify.com/track/0wKWQHIaja5IuDovI1euWh"
+      "duration_ms": 223351,
+      "name": "Haru (with meenoi)",
+      "url": "https://open.spotify.com/track/7BQfXOQiDBvDr1tamfYwwT"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -1359,6 +1343,22 @@
       "duration_ms": 221875,
       "name": "Dive",
       "url": "https://open.spotify.com/track/1DC1Hhv3t5jnYrDNQbZu7u"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
+        "name": "Myspace",
+        "url": "https://open.spotify.com/album/2MV3aQb0BMMLqaydFaTci7"
+      },
+      "artists": [
+        {
+          "name": "Minsu",
+          "url": "https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta"
+        }
+      ],
+      "duration_ms": 216106,
+      "name": "Myspace",
+      "url": "https://open.spotify.com/track/0wKWQHIaja5IuDovI1euWh"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "RE_vive",
-        "url": "https://open.spotify.com/album/5ZR4gMvmyzSX7AApmIR88h"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyed Girls",
-          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
-        }
-      ],
-      "duration_ms": 232906,
-      "name": "Wonder Woman",
-      "url": "https://open.spotify.com/track/6xvJJyGmKG0oOFcdJ5wF16"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
         "name": "SEOUL CITY POP [A-Side]",
         "url": "https://open.spotify.com/album/0OXA4wAxuNJO071dZigy23"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 202218,
       "name": "SEOUL CITY POP",
       "url": "https://open.spotify.com/track/0Y1aP0BtnHJjM0ugmxCoDL"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
+        "name": "RE_vive",
+        "url": "https://open.spotify.com/album/5ZR4gMvmyzSX7AApmIR88h"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyed Girls",
+          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
+        }
+      ],
+      "duration_ms": 232906,
+      "name": "Wonder Woman",
+      "url": "https://open.spotify.com/track/6xvJJyGmKG0oOFcdJ5wF16"
     }
   ],
   "unique_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",

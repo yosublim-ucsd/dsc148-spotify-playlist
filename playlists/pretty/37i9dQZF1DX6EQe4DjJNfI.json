@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Hanifah, Doug O.",
-  "num_followers": 165371,
+  "num_followers": 165394,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzMzM2Y1NWZjNjc3NTY1OTIwZWJjNDAyNWMwNTRhY2RjNTYxOTZl",
+  "snapshot_id": "MCxhOTg2NGI5YjQ1MTExMzlmNGM2MWMzZTk3MGNjN2U5ZTY2OTk3Yzc0",
   "tracks": [
     {
       "added_at": "2023-11-24 17:03:06",
@@ -83,22 +83,6 @@
     {
       "added_at": "2023-11-24 17:03:06",
       "album": {
-        "name": "Sintomas de Prazer - Live",
-        "url": "https://open.spotify.com/album/08eESUu8Nzhm255cuw74X4"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 151103,
-      "name": "Sintomas de Prazer - Live",
-      "url": "https://open.spotify.com/track/32RZ9zfGC4gvkkIm307Fpb"
-    },
-    {
-      "added_at": "2023-11-24 17:03:06",
-      "album": {
         "name": "N\u00e3o Tenho Tempo",
         "url": "https://open.spotify.com/album/0DU5qPWKr1bR86WsRjiiPP"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 125624,
       "name": "N\u00e3o Tenho Tempo",
       "url": "https://open.spotify.com/track/42Lqgo4o80uHEKKtaGOkj1"
+    },
+    {
+      "added_at": "2023-11-24 17:03:06",
+      "album": {
+        "name": "Sintomas de Prazer - Live",
+        "url": "https://open.spotify.com/album/08eESUu8Nzhm255cuw74X4"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 151103,
+      "name": "Sintomas de Prazer - Live",
+      "url": "https://open.spotify.com/track/32RZ9zfGC4gvkkIm307Fpb"
     },
     {
       "added_at": "2023-11-24 17:03:06",
@@ -303,26 +303,6 @@
     {
       "added_at": "2023-11-24 17:03:06",
       "album": {
-        "name": "Fora do Normal",
-        "url": "https://open.spotify.com/album/6fwX4GAEynh8TUJvLInkhT"
-      },
-      "artists": [
-        {
-          "name": "DeLua",
-          "url": "https://open.spotify.com/artist/2b3FIonB346s5kYHaPxqKq"
-        },
-        {
-          "name": "Tory",
-          "url": "https://open.spotify.com/artist/0Cscqd4XordWPh05d8PkRy"
-        }
-      ],
-      "duration_ms": 173233,
-      "name": "Fora do Normal",
-      "url": "https://open.spotify.com/track/08r830LTmYYj6GoF5tstkB"
-    },
-    {
-      "added_at": "2023-11-24 17:03:06",
-      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/0Ze1e8yP0nQBmJpgr1DPrT"
       },
@@ -339,30 +319,6 @@
       "duration_ms": 218048,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/1900JESfRMYU1a35cFlqEm"
-    },
-    {
-      "added_at": "2023-11-24 17:03:06",
-      "album": {
-        "name": "Play, Som e Sexo",
-        "url": "https://open.spotify.com/album/5OmfAGtJ4AmzjaaDU1ObQL"
-      },
-      "artists": [
-        {
-          "name": "Mc Livinho",
-          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
-        },
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        },
-        {
-          "name": "Caio Passos",
-          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Baby Quando Voc\u00ea Desce",
-      "url": "https://open.spotify.com/track/21VJSpzpv7swj87x8bYSQd"
     },
     {
       "added_at": "2023-11-24 17:03:06",
@@ -399,6 +355,50 @@
       "duration_ms": 182857,
       "name": "Dejavu",
       "url": "https://open.spotify.com/track/7aJFkrNNaPnC3QGAUsTahp"
+    },
+    {
+      "added_at": "2023-11-24 17:03:06",
+      "album": {
+        "name": "Play, Som e Sexo",
+        "url": "https://open.spotify.com/album/5OmfAGtJ4AmzjaaDU1ObQL"
+      },
+      "artists": [
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Baby Quando Voc\u00ea Desce",
+      "url": "https://open.spotify.com/track/21VJSpzpv7swj87x8bYSQd"
+    },
+    {
+      "added_at": "2023-11-24 17:03:06",
+      "album": {
+        "name": "Fora do Normal",
+        "url": "https://open.spotify.com/album/6fwX4GAEynh8TUJvLInkhT"
+      },
+      "artists": [
+        {
+          "name": "DeLua",
+          "url": "https://open.spotify.com/artist/2b3FIonB346s5kYHaPxqKq"
+        },
+        {
+          "name": "Tory",
+          "url": "https://open.spotify.com/artist/0Cscqd4XordWPh05d8PkRy"
+        }
+      ],
+      "duration_ms": 173233,
+      "name": "Fora do Normal",
+      "url": "https://open.spotify.com/track/08r830LTmYYj6GoF5tstkB"
     },
     {
       "added_at": "2023-11-24 17:03:06",
@@ -671,6 +671,26 @@
     {
       "added_at": "2023-11-24 17:03:06",
       "album": {
+        "name": "perco o ar",
+        "url": "https://open.spotify.com/album/2o8vquo00AThGJCJ4vbw4Z"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Drew",
+          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
+        }
+      ],
+      "duration_ms": 204604,
+      "name": "perco o ar",
+      "url": "https://open.spotify.com/track/6IA3LnCSsC9bNotg77Pypa"
+    },
+    {
+      "added_at": "2023-11-24 17:03:06",
+      "album": {
         "name": "Teu Sinal",
         "url": "https://open.spotify.com/album/4qOMdPxlwo1d1asnXjTnlW"
       },
@@ -695,6 +715,26 @@
     {
       "added_at": "2023-11-24 17:03:06",
       "album": {
+        "name": "Eterno Esquema",
+        "url": "https://open.spotify.com/album/3VSXJcf6akK061vzZTISkB"
+      },
+      "artists": [
+        {
+          "name": "Alta Hits",
+          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
+        },
+        {
+          "name": "Nath Audizio",
+          "url": "https://open.spotify.com/artist/3Dmm7O6YrB38y8JbvA3zwK"
+        }
+      ],
+      "duration_ms": 133564,
+      "name": "Eterno Esquema",
+      "url": "https://open.spotify.com/track/50ZKf2oN3IxLTopIoogSGz"
+    },
+    {
+      "added_at": "2023-11-24 17:03:06",
+      "album": {
         "name": "Liga\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/4voB6EnfiNGT4BKJ2Hg1IG"
       },
@@ -715,46 +755,6 @@
       "duration_ms": 209389,
       "name": "Liga\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0EsziAlF3lAdqTxzwxP2kA"
-    },
-    {
-      "added_at": "2023-11-24 17:03:06",
-      "album": {
-        "name": "perco o ar",
-        "url": "https://open.spotify.com/album/2o8vquo00AThGJCJ4vbw4Z"
-      },
-      "artists": [
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "Drew",
-          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
-        }
-      ],
-      "duration_ms": 204604,
-      "name": "perco o ar",
-      "url": "https://open.spotify.com/track/6IA3LnCSsC9bNotg77Pypa"
-    },
-    {
-      "added_at": "2023-11-24 17:03:06",
-      "album": {
-        "name": "Eterno Esquema",
-        "url": "https://open.spotify.com/album/3VSXJcf6akK061vzZTISkB"
-      },
-      "artists": [
-        {
-          "name": "Alta Hits",
-          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
-        },
-        {
-          "name": "Nath Audizio",
-          "url": "https://open.spotify.com/artist/3Dmm7O6YrB38y8JbvA3zwK"
-        }
-      ],
-      "duration_ms": 133564,
-      "name": "Eterno Esquema",
-      "url": "https://open.spotify.com/track/50ZKf2oN3IxLTopIoogSGz"
     },
     {
       "added_at": "2023-11-24 17:03:06",
@@ -795,30 +795,6 @@
     {
       "added_at": "2023-11-24 17:03:06",
       "album": {
-        "name": "GUAPA",
-        "url": "https://open.spotify.com/album/3VLLaHdj4pobnOxrWFcsdO"
-      },
-      "artists": [
-        {
-          "name": "Matheus Queiroz",
-          "url": "https://open.spotify.com/artist/42M14UjNCtQbaa0L3t2lN7"
-        },
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        },
-        {
-          "name": "Douglas Moda",
-          "url": "https://open.spotify.com/artist/18q7YToGWoBgzYaveHz6HK"
-        }
-      ],
-      "duration_ms": 139270,
-      "name": "GUAPA",
-      "url": "https://open.spotify.com/track/5eERv0kAdLr608xgqawoHm"
-    },
-    {
-      "added_at": "2023-11-24 17:03:06",
-      "album": {
         "name": "Troco",
         "url": "https://open.spotify.com/album/5Vl5m3qaYvCf6Q1Q0xRI7V"
       },
@@ -855,6 +831,50 @@
     {
       "added_at": "2023-11-24 17:03:06",
       "album": {
+        "name": "GUAPA",
+        "url": "https://open.spotify.com/album/3VLLaHdj4pobnOxrWFcsdO"
+      },
+      "artists": [
+        {
+          "name": "Matheus Queiroz",
+          "url": "https://open.spotify.com/artist/42M14UjNCtQbaa0L3t2lN7"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        },
+        {
+          "name": "Douglas Moda",
+          "url": "https://open.spotify.com/artist/18q7YToGWoBgzYaveHz6HK"
+        }
+      ],
+      "duration_ms": 139270,
+      "name": "GUAPA",
+      "url": "https://open.spotify.com/track/5eERv0kAdLr608xgqawoHm"
+    },
+    {
+      "added_at": "2023-11-24 17:03:06",
+      "album": {
+        "name": "N\u00e3o Vou Negar",
+        "url": "https://open.spotify.com/album/3YdAoZKOwdbd29jKSwuknb"
+      },
+      "artists": [
+        {
+          "name": "Ana Olic",
+          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
+        },
+        {
+          "name": "papi",
+          "url": "https://open.spotify.com/artist/7IRAaMPxRHYKEjzDxUBguu"
+        }
+      ],
+      "duration_ms": 163937,
+      "name": "N\u00e3o Vou Negar",
+      "url": "https://open.spotify.com/track/5nI2kzArRG6tU2SlNTE0ja"
+    },
+    {
+      "added_at": "2023-11-24 17:03:06",
+      "album": {
         "name": "\u00c9ramos",
         "url": "https://open.spotify.com/album/3zfJsn2QgHYbRJa6wZTG9i"
       },
@@ -883,26 +903,6 @@
       "duration_ms": 210000,
       "name": "Casual",
       "url": "https://open.spotify.com/track/6FFsKesuw6oJKJ0WACbpPn"
-    },
-    {
-      "added_at": "2023-11-24 17:03:06",
-      "album": {
-        "name": "N\u00e3o Vou Negar",
-        "url": "https://open.spotify.com/album/3YdAoZKOwdbd29jKSwuknb"
-      },
-      "artists": [
-        {
-          "name": "Ana Olic",
-          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
-        },
-        {
-          "name": "papi",
-          "url": "https://open.spotify.com/artist/7IRAaMPxRHYKEjzDxUBguu"
-        }
-      ],
-      "duration_ms": 163937,
-      "name": "N\u00e3o Vou Negar",
-      "url": "https://open.spotify.com/track/5nI2kzArRG6tU2SlNTE0ja"
     },
     {
       "added_at": "2023-11-24 17:03:06",
@@ -963,6 +963,22 @@
       "duration_ms": 115306,
       "name": "A Nossa Brisa",
       "url": "https://open.spotify.com/track/4Gj5XLeuNou9qVrPhPbvUy"
+    },
+    {
+      "added_at": "2023-11-24 17:03:06",
+      "album": {
+        "name": "Tempo pra Perder",
+        "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
+      },
+      "artists": [
+        {
+          "name": "Ana Olic",
+          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
+        }
+      ],
+      "duration_ms": 194974,
+      "name": "Tempo pra Perder",
+      "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
     },
     {
       "added_at": "2023-11-24 17:03:06",
@@ -1035,22 +1051,6 @@
     {
       "added_at": "2023-11-24 17:03:06",
       "album": {
-        "name": "Tempo pra Perder",
-        "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
-      },
-      "artists": [
-        {
-          "name": "Ana Olic",
-          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
-        }
-      ],
-      "duration_ms": 194974,
-      "name": "Tempo pra Perder",
-      "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
-    },
-    {
-      "added_at": "2023-11-24 17:03:06",
-      "album": {
         "name": "Conex\u00e3o",
         "url": "https://open.spotify.com/album/2rN91P7qGJ70V5cFO3Hl43"
       },
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-11-24 17:03:06",
       "album": {
-        "name": "Uma Chance Pra Ficar Tudo bem",
-        "url": "https://open.spotify.com/album/3E7fL2Muf5c8OvC8A54Mp3"
-      },
-      "artists": [
-        {
-          "name": "Crod",
-          "url": "https://open.spotify.com/artist/1VI8uzUXTMpjdIvM6Rsh0j"
-        }
-      ],
-      "duration_ms": 154290,
-      "name": "Uma Chance",
-      "url": "https://open.spotify.com/track/2QPZQP2MDGC5ePtfSI9ihO"
-    },
-    {
-      "added_at": "2023-11-24 17:03:06",
-      "album": {
         "name": "Sozinho",
         "url": "https://open.spotify.com/album/31NtdfxBPy3XzI0CpxuY7d"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 151475,
       "name": "Sozinho",
       "url": "https://open.spotify.com/track/7m75tNUYyt3Bz21tIDdq3j"
+    },
+    {
+      "added_at": "2023-11-24 17:03:06",
+      "album": {
+        "name": "Uma Chance Pra Ficar Tudo bem",
+        "url": "https://open.spotify.com/album/3E7fL2Muf5c8OvC8A54Mp3"
+      },
+      "artists": [
+        {
+          "name": "Crod",
+          "url": "https://open.spotify.com/artist/1VI8uzUXTMpjdIvM6Rsh0j"
+        }
+      ],
+      "duration_ms": 154290,
+      "name": "Uma Chance",
+      "url": "https://open.spotify.com/track/2QPZQP2MDGC5ePtfSI9ihO"
     },
     {
       "added_at": "2023-11-24 17:03:06",
@@ -1183,6 +1183,30 @@
     {
       "added_at": "2023-11-24 17:03:06",
       "album": {
+        "name": "O Que Eu Soul (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5DCyIxkkD7LSErRyBS26oC"
+      },
+      "artists": [
+        {
+          "name": "Camila Zasoul",
+          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
+        },
+        {
+          "name": "YOYOTRACKS",
+          "url": "https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA"
+        },
+        {
+          "name": "UGOTZ",
+          "url": "https://open.spotify.com/artist/3EfVngLKGjQiyjUP1sL625"
+        }
+      ],
+      "duration_ms": 199625,
+      "name": "O Que Eu Soul - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5nde5dfB24TXkLSrIHor51"
+    },
+    {
+      "added_at": "2023-11-24 17:03:06",
+      "album": {
         "name": "Novela",
         "url": "https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh"
       },
@@ -1219,30 +1243,6 @@
       "duration_ms": 136000,
       "name": "Bal\u00e9",
       "url": "https://open.spotify.com/track/7AD5Hbzsh4zsHCBDeMAqJh"
-    },
-    {
-      "added_at": "2023-11-24 17:03:06",
-      "album": {
-        "name": "O Que Eu Soul (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5DCyIxkkD7LSErRyBS26oC"
-      },
-      "artists": [
-        {
-          "name": "Camila Zasoul",
-          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
-        },
-        {
-          "name": "YOYOTRACKS",
-          "url": "https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA"
-        },
-        {
-          "name": "UGOTZ",
-          "url": "https://open.spotify.com/artist/3EfVngLKGjQiyjUP1sL625"
-        }
-      ],
-      "duration_ms": 199625,
-      "name": "O Que Eu Soul - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5nde5dfB24TXkLSrIHor51"
     },
     {
       "added_at": "2023-11-24 17:03:06",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-11-24 17:03:06",
       "album": {
-        "name": "DE REPENTE",
-        "url": "https://open.spotify.com/album/5zBNR0bMPSZZsaQHxtgBXh"
-      },
-      "artists": [
-        {
-          "name": "Tupi",
-          "url": "https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf"
-        }
-      ],
-      "duration_ms": 145714,
-      "name": "DE REPENTE",
-      "url": "https://open.spotify.com/track/2cupDkLxPFyG7jWgzEDQ9Y"
-    },
-    {
-      "added_at": "2023-11-24 17:03:06",
-      "album": {
         "name": "Caixa Postal",
         "url": "https://open.spotify.com/album/1U5wE2R3c7dsOq8YIaOdJR"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 183529,
       "name": "Caixa Postal",
       "url": "https://open.spotify.com/track/59VUO5wlGbV01g6fKBkms9"
+    },
+    {
+      "added_at": "2023-11-24 17:03:06",
+      "album": {
+        "name": "DE REPENTE",
+        "url": "https://open.spotify.com/album/5zBNR0bMPSZZsaQHxtgBXh"
+      },
+      "artists": [
+        {
+          "name": "Tupi",
+          "url": "https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf"
+        }
+      ],
+      "duration_ms": 145714,
+      "name": "DE REPENTE",
+      "url": "https://open.spotify.com/track/2cupDkLxPFyG7jWgzEDQ9Y"
     },
     {
       "added_at": "2023-11-24 17:03:06",

@@ -1,12 +1,12 @@
 {
   "description": "Diese Songs zaubern dir ein Grinsen ins Gesicht.",
-  "num_followers": 580035,
+  "num_followers": 580122,
   "original_name": "Feelgood Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjQwNjNhMDM1MTA5NjY5M2MzMjE1MGFmNGNkYWJmNmNkNTNlMGE3",
+  "snapshot_id": "MCw4OWQ5MTgxZGJlNWExMTdkYmIxN2E1NDU1Yzk4Y2IwMDkxMDVkMWYy",
   "tracks": [
     {
       "added_at": "2023-10-19 09:54:20",
@@ -127,22 +127,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Loving In Stereo",
-        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 182040,
-      "name": "All Of The Time",
-      "url": "https://open.spotify.com/track/2ezQq2qWhGO6J6q5JwC50d"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Could It Get Better Than This",
         "url": "https://open.spotify.com/album/3epIoUnC4FeVi8g59Hxd9F"
       },
@@ -159,22 +143,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Synchronize",
-        "url": "https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 164576,
-      "name": "Synchronize",
-      "url": "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Heartworks",
         "url": "https://open.spotify.com/album/0WBpc7PSDbgRZIHZ4mAY0q"
       },
@@ -187,6 +155,38 @@
       "duration_ms": 159754,
       "name": "Heartworks",
       "url": "https://open.spotify.com/track/2y0zJlae50VyzO7NCrQe06"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Loving In Stereo",
+        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 182040,
+      "name": "All Of The Time",
+      "url": "https://open.spotify.com/track/2ezQq2qWhGO6J6q5JwC50d"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Synchronize",
+        "url": "https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 164576,
+      "name": "Synchronize",
+      "url": "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -287,26 +287,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Unknown Song",
-        "url": "https://open.spotify.com/album/62rE0W1Vy1v48FTO9hxPzx"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        },
-        {
-          "name": "Paulina Eisenberg",
-          "url": "https://open.spotify.com/artist/1obwjMHQ4kZ2bXoBhLIaBT"
-        }
-      ],
-      "duration_ms": 250521,
-      "name": "Unknown Song",
-      "url": "https://open.spotify.com/track/2zR85boqjMOKPygjdDbGbC"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Happiness in Liquid Form",
         "url": "https://open.spotify.com/album/4ljntV811kHlKHhtIctvcG"
       },
@@ -339,22 +319,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Bedroom Exile",
-        "url": "https://open.spotify.com/album/10g160lZ4fimlOQKcKg0uY"
-      },
-      "artists": [
-        {
-          "name": "Giant Rooks",
-          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
-        }
-      ],
-      "duration_ms": 198970,
-      "name": "Bedroom Exile",
-      "url": "https://open.spotify.com/track/2VudXzMgyFNDLydViVrQ7e"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "We Will Always Love You",
         "url": "https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1"
       },
@@ -379,6 +343,26 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
+        "name": "Unknown Song",
+        "url": "https://open.spotify.com/album/62rE0W1Vy1v48FTO9hxPzx"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        },
+        {
+          "name": "Paulina Eisenberg",
+          "url": "https://open.spotify.com/artist/1obwjMHQ4kZ2bXoBhLIaBT"
+        }
+      ],
+      "duration_ms": 250521,
+      "name": "Unknown Song",
+      "url": "https://open.spotify.com/track/2zR85boqjMOKPygjdDbGbC"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
         "name": "in my mind",
         "url": "https://open.spotify.com/album/0BLXUt3TsQv6e4A3Mp6PZk"
       },
@@ -391,22 +375,6 @@
       "duration_ms": 181800,
       "name": "in my mind",
       "url": "https://open.spotify.com/track/6HEJavNON4wd0cy1Hp6KV2"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
-        "name": "Colorado",
-        "url": "https://open.spotify.com/album/0zOIu4cDkUdJPq1c5uQusO"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 174347,
-      "name": "Colorado",
-      "url": "https://open.spotify.com/track/0eZmBWVC1HYayrP2fqQ7nu"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -463,6 +431,22 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
+        "name": "Bedroom Exile",
+        "url": "https://open.spotify.com/album/10g160lZ4fimlOQKcKg0uY"
+      },
+      "artists": [
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "duration_ms": 198970,
+      "name": "Bedroom Exile",
+      "url": "https://open.spotify.com/track/2VudXzMgyFNDLydViVrQ7e"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
         "name": "My Big Day",
         "url": "https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO"
       },
@@ -483,6 +467,22 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
+        "name": "Colorado",
+        "url": "https://open.spotify.com/album/0zOIu4cDkUdJPq1c5uQusO"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 174347,
+      "name": "Colorado",
+      "url": "https://open.spotify.com/track/0eZmBWVC1HYayrP2fqQ7nu"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
         "name": "Day/Night",
         "url": "https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd"
       },
@@ -495,6 +495,22 @@
       "duration_ms": 219335,
       "name": "Free - Single Version",
       "url": "https://open.spotify.com/track/26ka7pzhIonUoQFYjB6PbG"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Mine Forever",
+        "url": "https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 288283,
+      "name": "Mine Forever",
+      "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -515,22 +531,6 @@
       "duration_ms": 246706,
       "name": "Tonight (feat. Ezra Koenig)",
       "url": "https://open.spotify.com/track/4JvFNFTjEtZyEzh8w0YzHF"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
-        "name": "Mine Forever",
-        "url": "https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 288283,
-      "name": "Mine Forever",
-      "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Mellow Moon",
-        "url": "https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr"
-      },
-      "artists": [
-        {
-          "name": "Alfie Templeman",
-          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
-        }
-      ],
-      "duration_ms": 197811,
-      "name": "3D Feelings",
-      "url": "https://open.spotify.com/track/4iz5NGjt9CccLwTvp3sNT1"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Something Like This",
         "url": "https://open.spotify.com/album/23pFZpDRnqG187lnu9rY1K"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 198019,
       "name": "Something Like This",
       "url": "https://open.spotify.com/track/6BVV26Ih6kXP1j8JBsxXyd"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Mellow Moon",
+        "url": "https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr"
+      },
+      "artists": [
+        {
+          "name": "Alfie Templeman",
+          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
+        }
+      ],
+      "duration_ms": 197811,
+      "name": "3D Feelings",
+      "url": "https://open.spotify.com/track/4iz5NGjt9CccLwTvp3sNT1"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Mister Burns",
-        "url": "https://open.spotify.com/album/64XYX9rT7ouZe7vVsRV6hi"
-      },
-      "artists": [
-        {
-          "name": "KYTES",
-          "url": "https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Mister Burns",
-      "url": "https://open.spotify.com/track/3KOk4G26hi8f8kOJF3iZTa"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Why You Lacking Energy?",
         "url": "https://open.spotify.com/album/5Oky6qpyguBJj42ajNfxEu"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 182480,
       "name": "Right There",
       "url": "https://open.spotify.com/track/3Y9CkOkl5eotKgClQMZvdw"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Mister Burns",
+        "url": "https://open.spotify.com/album/64XYX9rT7ouZe7vVsRV6hi"
+      },
+      "artists": [
+        {
+          "name": "KYTES",
+          "url": "https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Mister Burns",
+      "url": "https://open.spotify.com/track/3KOk4G26hi8f8kOJF3iZTa"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Heavy Objects",
-        "url": "https://open.spotify.com/album/41SYoR26RSoK1Dd6WA57bm"
-      },
-      "artists": [
-        {
-          "name": "Dottie Andersson",
-          "url": "https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM"
-        }
-      ],
-      "duration_ms": 123200,
-      "name": "Heavy Objects",
-      "url": "https://open.spotify.com/track/1c0d5wHErcFhwakR16NoDr"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Dancing in the City (Radio Edit)",
         "url": "https://open.spotify.com/album/4y2vjGF1u3hhPdyLHiL70o"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 201994,
       "name": "Dancing in the City (Radio Edit)",
       "url": "https://open.spotify.com/track/12pXH0mid48V0vN0ykfBG5"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Heavy Objects",
+        "url": "https://open.spotify.com/album/41SYoR26RSoK1Dd6WA57bm"
+      },
+      "artists": [
+        {
+          "name": "Dottie Andersson",
+          "url": "https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM"
+        }
+      ],
+      "duration_ms": 123200,
+      "name": "Heavy Objects",
+      "url": "https://open.spotify.com/track/1c0d5wHErcFhwakR16NoDr"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Bleach",
-        "url": "https://open.spotify.com/album/4LqbOcnsIgwtuzrcxHMq2L"
-      },
-      "artists": [
-        {
-          "name": "Luke Noa",
-          "url": "https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe"
-        }
-      ],
-      "duration_ms": 209960,
-      "name": "Bleach",
-      "url": "https://open.spotify.com/track/0Xct3eGoj7gMnxTdnimiJN"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Mirage Morning",
         "url": "https://open.spotify.com/album/6uqxzoRQg50XPMg9Xp3qrJ"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 162755,
       "name": "Tides",
       "url": "https://open.spotify.com/track/3Du3efHO9I7VFZHiJ9nPPM"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Bleach",
+        "url": "https://open.spotify.com/album/4LqbOcnsIgwtuzrcxHMq2L"
+      },
+      "artists": [
+        {
+          "name": "Luke Noa",
+          "url": "https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe"
+        }
+      ],
+      "duration_ms": 209960,
+      "name": "Bleach",
+      "url": "https://open.spotify.com/track/0Xct3eGoj7gMnxTdnimiJN"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1331,6 +1331,22 @@
       "duration_ms": 238936,
       "name": "Kalif Onya",
       "url": "https://open.spotify.com/track/0mesXBMiwhSsFjUJNe9k1T"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Hotel Surrender",
+        "url": "https://open.spotify.com/album/1EvJl2nSEPBGnu0XqKAqbq"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "duration_ms": 222936,
+      "name": "Get High",
+      "url": "https://open.spotify.com/track/3q8bVATKAOwjc8C0jY3DRd"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1431,22 +1447,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Hotel Surrender",
-        "url": "https://open.spotify.com/album/1EvJl2nSEPBGnu0XqKAqbq"
-      },
-      "artists": [
-        {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
-        }
-      ],
-      "duration_ms": 222936,
-      "name": "Get High",
-      "url": "https://open.spotify.com/track/3q8bVATKAOwjc8C0jY3DRd"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Saltburn",
         "url": "https://open.spotify.com/album/5siL9F6fBRgdI2UhHfr2aj"
       },
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Like You",
-        "url": "https://open.spotify.com/album/0Txd0TwGHw0P5yRz55u2u6"
-      },
-      "artists": [
-        {
-          "name": "Razz",
-          "url": "https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu"
-        }
-      ],
-      "duration_ms": 173239,
-      "name": "Like You",
-      "url": "https://open.spotify.com/track/2xEtiBJ85GNhC3h3JNV4ET"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Little Lucille",
         "url": "https://open.spotify.com/album/0zPpywiwsbG0vyJAxchY6A"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 198510,
       "name": "Little Lucille",
       "url": "https://open.spotify.com/track/4EZMIxbJgUQnz6ZhW9924G"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Like You",
+        "url": "https://open.spotify.com/album/0Txd0TwGHw0P5yRz55u2u6"
+      },
+      "artists": [
+        {
+          "name": "Razz",
+          "url": "https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu"
+        }
+      ],
+      "duration_ms": 173239,
+      "name": "Like You",
+      "url": "https://open.spotify.com/track/2xEtiBJ85GNhC3h3JNV4ET"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "How 2 Dance",
-        "url": "https://open.spotify.com/album/6wMFBGcgf2wz0WpBnOizLp"
-      },
-      "artists": [
-        {
-          "name": "Kaiser Chiefs",
-          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
-        }
-      ],
-      "duration_ms": 163987,
-      "name": "How 2 Dance",
-      "url": "https://open.spotify.com/track/5zRxPWBznEa5HAc3TQbQMb"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "To Feel Something At All",
         "url": "https://open.spotify.com/album/46vIcaJA2Si8q22eFQkGEH"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 169533,
       "name": "Out of Time",
       "url": "https://open.spotify.com/track/2WPhVFDTP6OyrfT2Hwg75K"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "How 2 Dance",
+        "url": "https://open.spotify.com/album/6wMFBGcgf2wz0WpBnOizLp"
+      },
+      "artists": [
+        {
+          "name": "Kaiser Chiefs",
+          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
+        }
+      ],
+      "duration_ms": 163987,
+      "name": "How 2 Dance",
+      "url": "https://open.spotify.com/track/5zRxPWBznEa5HAc3TQbQMb"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Smiling Face",
-        "url": "https://open.spotify.com/album/75E23gvtdp9zPvRpKXWcIA"
-      },
-      "artists": [
-        {
-          "name": "Cinemagraph",
-          "url": "https://open.spotify.com/artist/7zMxkD6FhVkm8hBRy7jyJP"
-        }
-      ],
-      "duration_ms": 215610,
-      "name": "Smiling Face",
-      "url": "https://open.spotify.com/track/083YqmGxSLpgr8Hr6HeFNx"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Mojito",
         "url": "https://open.spotify.com/album/2DBmd6085jcbfKpihaRpax"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 184706,
       "name": "Mojito",
       "url": "https://open.spotify.com/track/4RHnFylLAjQXPHIuZZE1bx"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Smiling Face",
+        "url": "https://open.spotify.com/album/75E23gvtdp9zPvRpKXWcIA"
+      },
+      "artists": [
+        {
+          "name": "Cinemagraph",
+          "url": "https://open.spotify.com/artist/7zMxkD6FhVkm8hBRy7jyJP"
+        }
+      ],
+      "duration_ms": 215610,
+      "name": "Smiling Face",
+      "url": "https://open.spotify.com/track/083YqmGxSLpgr8Hr6HeFNx"
     }
   ],
   "unique_name": "Feelgood Indie",

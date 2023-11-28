@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: Billyrrom",
-  "num_followers": 54352,
+  "num_followers": 54371,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjU2MmVjNDc5ZTllZjIwMzY5OGEzYjYxNjUxMTM2ZGYwMGVmYTg5",
+  "snapshot_id": "MCw3ZjNhZDVlMGRhMjA3NDRkYjg0MjgzZDk5N2IwZWUxNDdjY2YwZGQx",
   "tracks": [
     {
       "added_at": "2023-11-24 06:29:07",
@@ -355,6 +355,22 @@
     {
       "added_at": "2023-11-24 06:29:07",
       "album": {
+        "name": "\u6c38\u9060\u306e\u30d6\u30eb\u30fc",
+        "url": "https://open.spotify.com/album/467z72afv2XBxXxaXrVOfo"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "duration_ms": 228573,
+      "name": "\u6c38\u9060\u306e\u30d6\u30eb\u30fc",
+      "url": "https://open.spotify.com/track/1MsgOy65pxeU7BZkDvqItH"
+    },
+    {
+      "added_at": "2023-11-24 06:29:07",
+      "album": {
         "name": "My Plan",
         "url": "https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 253057,
       "name": "meringue doll",
       "url": "https://open.spotify.com/track/1iPAcVXxspQM3aP8f3JtBQ"
-    },
-    {
-      "added_at": "2023-11-24 06:29:07",
-      "album": {
-        "name": "\u6c38\u9060\u306e\u30d6\u30eb\u30fc",
-        "url": "https://open.spotify.com/album/467z72afv2XBxXxaXrVOfo"
-      },
-      "artists": [
-        {
-          "name": "Hitsujibungaku",
-          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
-        }
-      ],
-      "duration_ms": 228573,
-      "name": "\u6c38\u9060\u306e\u30d6\u30eb\u30fc",
-      "url": "https://open.spotify.com/track/1MsgOy65pxeU7BZkDvqItH"
     },
     {
       "added_at": "2023-11-24 06:29:07",
@@ -455,18 +455,18 @@
     {
       "added_at": "2023-11-24 06:29:07",
       "album": {
-        "name": "\uff18",
-        "url": "https://open.spotify.com/album/18BdJtCTwpeeyRsVEhaT1m"
+        "name": "Strangers In The Night",
+        "url": "https://open.spotify.com/album/55CO6FPOjzSeWBHdVz1wTv"
       },
       "artists": [
         {
-          "name": "ROTH BART BARON",
-          "url": "https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2"
+          "name": "Michael Kaneko",
+          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
         }
       ],
-      "duration_ms": 216674,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/24Ai9oaKiidTGV4Keotqml"
+      "duration_ms": 235931,
+      "name": "Strangers In The Night",
+      "url": "https://open.spotify.com/track/3GoiPlWtQO9m1iqxKorcrr"
     },
     {
       "added_at": "2023-11-24 06:29:07",
@@ -487,18 +487,18 @@
     {
       "added_at": "2023-11-24 06:29:07",
       "album": {
-        "name": "Strangers In The Night",
-        "url": "https://open.spotify.com/album/55CO6FPOjzSeWBHdVz1wTv"
+        "name": "Regrets",
+        "url": "https://open.spotify.com/album/0NHlP5m9h1M40a652X1se5"
       },
       "artists": [
         {
-          "name": "Michael Kaneko",
-          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
         }
       ],
-      "duration_ms": 235931,
-      "name": "Strangers In The Night",
-      "url": "https://open.spotify.com/track/3GoiPlWtQO9m1iqxKorcrr"
+      "duration_ms": 265961,
+      "name": "Regrets",
+      "url": "https://open.spotify.com/track/0Yy5CsuOOZoRdRI98JOMpS"
     },
     {
       "added_at": "2023-11-24 06:29:07",
@@ -519,18 +519,22 @@
     {
       "added_at": "2023-11-24 06:29:07",
       "album": {
-        "name": "Regrets",
-        "url": "https://open.spotify.com/album/0NHlP5m9h1M40a652X1se5"
+        "name": "FLOOR IS MINE",
+        "url": "https://open.spotify.com/album/1rPPxH7QfAbPZytfQlt9A9"
       },
       "artists": [
         {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+        },
+        {
+          "name": "BIM",
+          "url": "https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG"
         }
       ],
-      "duration_ms": 265961,
-      "name": "Regrets",
-      "url": "https://open.spotify.com/track/0Yy5CsuOOZoRdRI98JOMpS"
+      "duration_ms": 195809,
+      "name": "FLOOR IS MINE",
+      "url": "https://open.spotify.com/track/1tbQ2lRPx8EvVhdaVbGSr3"
     },
     {
       "added_at": "2023-11-24 06:29:07",
@@ -567,18 +571,18 @@
     {
       "added_at": "2023-11-24 06:29:07",
       "album": {
-        "name": "Blood in blue",
-        "url": "https://open.spotify.com/album/0twJvdID2xF7NZvAb3K1Gx"
+        "name": "\uff18",
+        "url": "https://open.spotify.com/album/18BdJtCTwpeeyRsVEhaT1m"
       },
       "artists": [
         {
-          "name": "Age Factory",
-          "url": "https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo"
+          "name": "ROTH BART BARON",
+          "url": "https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2"
         }
       ],
-      "duration_ms": 165368,
-      "name": "Blood in blue",
-      "url": "https://open.spotify.com/track/4qfi7sCX4w5dZiIltgkPHB"
+      "duration_ms": 216674,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/24Ai9oaKiidTGV4Keotqml"
     },
     {
       "added_at": "2023-11-24 06:29:07",
@@ -599,22 +603,18 @@
     {
       "added_at": "2023-11-24 06:29:07",
       "album": {
-        "name": "FLOOR IS MINE",
-        "url": "https://open.spotify.com/album/1rPPxH7QfAbPZytfQlt9A9"
+        "name": "Blood in blue",
+        "url": "https://open.spotify.com/album/0twJvdID2xF7NZvAb3K1Gx"
       },
       "artists": [
         {
-          "name": "Skaai",
-          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
-        },
-        {
-          "name": "BIM",
-          "url": "https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG"
+          "name": "Age Factory",
+          "url": "https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo"
         }
       ],
-      "duration_ms": 195809,
-      "name": "FLOOR IS MINE",
-      "url": "https://open.spotify.com/track/1tbQ2lRPx8EvVhdaVbGSr3"
+      "duration_ms": 165368,
+      "name": "Blood in blue",
+      "url": "https://open.spotify.com/track/4qfi7sCX4w5dZiIltgkPHB"
     },
     {
       "added_at": "2023-11-24 06:29:07",
@@ -671,38 +671,6 @@
     {
       "added_at": "2023-11-24 06:29:07",
       "album": {
-        "name": "\u5e7d\u970a",
-        "url": "https://open.spotify.com/album/1KW6vC2adbnG1XOvj20Lld"
-      },
-      "artists": [
-        {
-          "name": "odol",
-          "url": "https://open.spotify.com/artist/1JWciWrGdCTOWeycrjFWpS"
-        }
-      ],
-      "duration_ms": 235562,
-      "name": "\u5e7d\u970a",
-      "url": "https://open.spotify.com/track/4dKjOYrXQxuJ2C3VaoWZwJ"
-    },
-    {
-      "added_at": "2023-11-24 06:29:07",
-      "album": {
-        "name": "Fukukarani",
-        "url": "https://open.spotify.com/album/23D2dt4gqy4PRY2NndpGvY"
-      },
-      "artists": [
-        {
-          "name": "\u307e\u3093\u3077\u304f",
-          "url": "https://open.spotify.com/artist/20Wm3Gk1SOfk0QQRRGECNV"
-        }
-      ],
-      "duration_ms": 274288,
-      "name": "Fukukarani",
-      "url": "https://open.spotify.com/track/1EQ6MbZNhH11dFytFUxltF"
-    },
-    {
-      "added_at": "2023-11-24 06:29:07",
-      "album": {
         "name": "that place is burning",
         "url": "https://open.spotify.com/album/4f6Ex2xbmAJLAxkp8d39ea"
       },
@@ -723,18 +691,18 @@
     {
       "added_at": "2023-11-24 06:29:07",
       "album": {
-        "name": "Time Break",
-        "url": "https://open.spotify.com/album/3naEwDesp1Ii8QspMFxkDz"
+        "name": "Fukukarani",
+        "url": "https://open.spotify.com/album/23D2dt4gqy4PRY2NndpGvY"
       },
       "artists": [
         {
-          "name": "\u30ab\u30d6\u30c8\u30e0\u30b7",
-          "url": "https://open.spotify.com/artist/3ceBUhYjqv2J3TbIBXdZSa"
+          "name": "\u307e\u3093\u3077\u304f",
+          "url": "https://open.spotify.com/artist/20Wm3Gk1SOfk0QQRRGECNV"
         }
       ],
-      "duration_ms": 145318,
-      "name": "Time Break",
-      "url": "https://open.spotify.com/track/4IdtlYmiaNTcxXTiQCsIrS"
+      "duration_ms": 274288,
+      "name": "Fukukarani",
+      "url": "https://open.spotify.com/track/1EQ6MbZNhH11dFytFUxltF"
     },
     {
       "added_at": "2023-11-24 06:29:07",
@@ -759,6 +727,38 @@
       "duration_ms": 166206,
       "name": "Two Kites",
       "url": "https://open.spotify.com/track/7r3nlllhf2XYp1Qkh8Tu80"
+    },
+    {
+      "added_at": "2023-11-24 06:29:07",
+      "album": {
+        "name": "Time Break",
+        "url": "https://open.spotify.com/album/3naEwDesp1Ii8QspMFxkDz"
+      },
+      "artists": [
+        {
+          "name": "\u30ab\u30d6\u30c8\u30e0\u30b7",
+          "url": "https://open.spotify.com/artist/3ceBUhYjqv2J3TbIBXdZSa"
+        }
+      ],
+      "duration_ms": 145318,
+      "name": "Time Break",
+      "url": "https://open.spotify.com/track/4IdtlYmiaNTcxXTiQCsIrS"
+    },
+    {
+      "added_at": "2023-11-24 06:29:07",
+      "album": {
+        "name": "\u5e7d\u970a",
+        "url": "https://open.spotify.com/album/1KW6vC2adbnG1XOvj20Lld"
+      },
+      "artists": [
+        {
+          "name": "odol",
+          "url": "https://open.spotify.com/artist/1JWciWrGdCTOWeycrjFWpS"
+        }
+      ],
+      "duration_ms": 235562,
+      "name": "\u5e7d\u970a",
+      "url": "https://open.spotify.com/track/4dKjOYrXQxuJ2C3VaoWZwJ"
     },
     {
       "added_at": "2023-11-24 06:29:07",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-11-24 06:29:07",
       "album": {
-        "name": "You & I",
-        "url": "https://open.spotify.com/album/45N5Sz0eCAuU90MYKF61Xl"
-      },
-      "artists": [
-        {
-          "name": "Emerald",
-          "url": "https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs"
-        }
-      ],
-      "duration_ms": 270113,
-      "name": "You & I",
-      "url": "https://open.spotify.com/track/72ssNVSfuvYH39CLVDGh3F"
-    },
-    {
-      "added_at": "2023-11-24 06:29:07",
-      "album": {
         "name": "\u3042\u308a\u304c\u3068\u3046",
         "url": "https://open.spotify.com/album/3yvG3IQ4OQwzw9rxoYzceV"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 309348,
       "name": "\u98a8\u3092\u5439\u304b\u305b\u3066",
       "url": "https://open.spotify.com/track/6kS5JgGmvobfA6QT9B5hyg"
+    },
+    {
+      "added_at": "2023-11-24 06:29:07",
+      "album": {
+        "name": "You & I",
+        "url": "https://open.spotify.com/album/45N5Sz0eCAuU90MYKF61Xl"
+      },
+      "artists": [
+        {
+          "name": "Emerald",
+          "url": "https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs"
+        }
+      ],
+      "duration_ms": 270113,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/72ssNVSfuvYH39CLVDGh3F"
     },
     {
       "added_at": "2023-11-24 06:29:07",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2023-11-24 06:29:07",
       "album": {
-        "name": "OLD ROOKIE EP.1",
-        "url": "https://open.spotify.com/album/0cc0kTXheZsfEllaCljvKI"
+        "name": "tx3k",
+        "url": "https://open.spotify.com/album/0ZvwbbtzkhWNYwGuoccJ16"
       },
       "artists": [
         {
-          "name": "Dengaryu",
-          "url": "https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru"
+          "name": "Texas 3000",
+          "url": "https://open.spotify.com/artist/0vXeC8scvNvE6vIzpGTXeV"
         }
       ],
-      "duration_ms": 149425,
-      "name": "Old Rookie",
-      "url": "https://open.spotify.com/track/6wo2dSc2HAsF0KUqti4UQn"
+      "duration_ms": 194520,
+      "name": "Connector Fuck Man",
+      "url": "https://open.spotify.com/track/4iqKxmIaivhpczzqgWwvwh"
     },
     {
       "added_at": "2023-11-24 06:29:07",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2023-11-24 06:29:07",
       "album": {
+        "name": "OLD ROOKIE EP.1",
+        "url": "https://open.spotify.com/album/0cc0kTXheZsfEllaCljvKI"
+      },
+      "artists": [
+        {
+          "name": "Dengaryu",
+          "url": "https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru"
+        }
+      ],
+      "duration_ms": 149425,
+      "name": "Old Rookie",
+      "url": "https://open.spotify.com/track/6wo2dSc2HAsF0KUqti4UQn"
+    },
+    {
+      "added_at": "2023-11-24 06:29:07",
+      "album": {
         "name": "CHELSEA",
         "url": "https://open.spotify.com/album/2lJVa505accbQtDWLPIKa7"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 211728,
       "name": "CHELSEA",
       "url": "https://open.spotify.com/track/1DTFAX3tGh7Ir8WeHKA36i"
-    },
-    {
-      "added_at": "2023-11-24 06:29:07",
-      "album": {
-        "name": "tx3k",
-        "url": "https://open.spotify.com/album/0ZvwbbtzkhWNYwGuoccJ16"
-      },
-      "artists": [
-        {
-          "name": "Texas 3000",
-          "url": "https://open.spotify.com/artist/0vXeC8scvNvE6vIzpGTXeV"
-        }
-      ],
-      "duration_ms": 194520,
-      "name": "Connector Fuck Man",
-      "url": "https://open.spotify.com/track/4iqKxmIaivhpczzqgWwvwh"
     },
     {
       "added_at": "2023-11-24 06:29:07",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-11-24 06:29:07",
       "album": {
-        "name": "\u967d\u6c17\u306a\u4f11\u65e5",
-        "url": "https://open.spotify.com/album/6j9nxtP0BmchrWc9JkBT2G"
-      },
-      "artists": [
-        {
-          "name": "\u30b0\u30bd\u30af\u30e0\u30ba",
-          "url": "https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk"
-        }
-      ],
-      "duration_ms": 268500,
-      "name": "\u5922\u306b\u306a\u3089\u306a\u3044\u3088\u3046\u306b",
-      "url": "https://open.spotify.com/track/3akniqbPdq5nhh19QtxAq2"
-    },
-    {
-      "added_at": "2023-11-24 06:29:07",
-      "album": {
         "name": "Take Me Back (Remix Sessions feat. Michael Kaneko)",
         "url": "https://open.spotify.com/album/1ZxezzfIZkikQHqUt0tRsY"
       },
@@ -1215,22 +1199,34 @@
     {
       "added_at": "2023-11-24 06:29:07",
       "album": {
-        "name": "\u5728\u30e9\u30a4\u30d5",
-        "url": "https://open.spotify.com/album/2bbfZQbPszzs9CIww7UNn3"
+        "name": "\u967d\u6c17\u306a\u4f11\u65e5",
+        "url": "https://open.spotify.com/album/6j9nxtP0BmchrWc9JkBT2G"
       },
       "artists": [
         {
-          "name": "Zainichi Funk",
-          "url": "https://open.spotify.com/artist/37hqgMV84m06updLlBFhIa"
-        },
-        {
-          "name": "Tavito Nanao",
-          "url": "https://open.spotify.com/artist/6OK5I4qMrrS3taSgczMS1a"
+          "name": "\u30b0\u30bd\u30af\u30e0\u30ba",
+          "url": "https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk"
         }
       ],
-      "duration_ms": 307723,
-      "name": "\u5e73\u548c",
-      "url": "https://open.spotify.com/track/1xFILrBQBn67qprImezB0I"
+      "duration_ms": 268500,
+      "name": "\u5922\u306b\u306a\u3089\u306a\u3044\u3088\u3046\u306b",
+      "url": "https://open.spotify.com/track/3akniqbPdq5nhh19QtxAq2"
+    },
+    {
+      "added_at": "2023-11-24 06:29:07",
+      "album": {
+        "name": "NEW BORN GHOST",
+        "url": "https://open.spotify.com/album/7I0gE5xwblR3qtvT3Z4uxc"
+      },
+      "artists": [
+        {
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+        }
+      ],
+      "duration_ms": 141793,
+      "name": "\u30d0\u30fc\u30b9\u30c7\u30a4",
+      "url": "https://open.spotify.com/track/5DiTlBAb9KTVbggIvZSDuE"
     },
     {
       "added_at": "2023-11-24 06:29:07",
@@ -1255,22 +1251,6 @@
     {
       "added_at": "2023-11-24 06:29:07",
       "album": {
-        "name": "NEW BORN GHOST",
-        "url": "https://open.spotify.com/album/7I0gE5xwblR3qtvT3Z4uxc"
-      },
-      "artists": [
-        {
-          "name": "Tele",
-          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
-        }
-      ],
-      "duration_ms": 141793,
-      "name": "\u30d0\u30fc\u30b9\u30c7\u30a4",
-      "url": "https://open.spotify.com/track/5DiTlBAb9KTVbggIvZSDuE"
-    },
-    {
-      "added_at": "2023-11-24 06:29:07",
-      "album": {
         "name": "Synergy",
         "url": "https://open.spotify.com/album/4XxZJsBbE0O0hUhNUvvKHt"
       },
@@ -1283,6 +1263,26 @@
       "duration_ms": 197000,
       "name": "Synergy",
       "url": "https://open.spotify.com/track/0qpw1DaobgqEb1w89zU37U"
+    },
+    {
+      "added_at": "2023-11-24 06:29:07",
+      "album": {
+        "name": "\u5728\u30e9\u30a4\u30d5",
+        "url": "https://open.spotify.com/album/2bbfZQbPszzs9CIww7UNn3"
+      },
+      "artists": [
+        {
+          "name": "Zainichi Funk",
+          "url": "https://open.spotify.com/artist/37hqgMV84m06updLlBFhIa"
+        },
+        {
+          "name": "Tavito Nanao",
+          "url": "https://open.spotify.com/artist/6OK5I4qMrrS3taSgczMS1a"
+        }
+      ],
+      "duration_ms": 307723,
+      "name": "\u5e73\u548c",
+      "url": "https://open.spotify.com/track/1xFILrBQBn67qprImezB0I"
     },
     {
       "added_at": "2023-11-24 06:29:07",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-11-24 06:29:07",
       "album": {
-        "name": "Anshin",
-        "url": "https://open.spotify.com/album/2YRdnx56DRkQl1qR8SdDI6"
-      },
-      "artists": [
-        {
-          "name": "YONA YONA WEEKENDERS",
-          "url": "https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR"
-        }
-      ],
-      "duration_ms": 204581,
-      "name": "Anshin",
-      "url": "https://open.spotify.com/track/3t6pKG8DLUbtlaLSSNr4z6"
-    },
-    {
-      "added_at": "2023-11-24 06:29:07",
-      "album": {
         "name": "That\u2019s New Now! (feat. New Now! crew)",
         "url": "https://open.spotify.com/album/0qKQlIGuhJjBdPrlk5yugk"
       },
@@ -1483,6 +1467,38 @@
       "duration_ms": 315000,
       "name": "That\u2019s New Now!",
       "url": "https://open.spotify.com/track/6MuPWibcnpP37FzKmRZXsr"
+    },
+    {
+      "added_at": "2023-11-24 06:29:07",
+      "album": {
+        "name": "Anshin",
+        "url": "https://open.spotify.com/album/2YRdnx56DRkQl1qR8SdDI6"
+      },
+      "artists": [
+        {
+          "name": "YONA YONA WEEKENDERS",
+          "url": "https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR"
+        }
+      ],
+      "duration_ms": 204581,
+      "name": "Anshin",
+      "url": "https://open.spotify.com/track/3t6pKG8DLUbtlaLSSNr4z6"
+    },
+    {
+      "added_at": "2023-11-24 06:29:07",
+      "album": {
+        "name": "Aglio e olio",
+        "url": "https://open.spotify.com/album/3jZbozt8tNcg27gMEjPpCT"
+      },
+      "artists": [
+        {
+          "name": "Tohji",
+          "url": "https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF"
+        }
+      ],
+      "duration_ms": 165018,
+      "name": "Aglio e olio",
+      "url": "https://open.spotify.com/track/09aFUqQgJPn0Awn47JGKND"
     },
     {
       "added_at": "2023-11-24 06:29:07",
@@ -1507,18 +1523,18 @@
     {
       "added_at": "2023-11-24 06:29:07",
       "album": {
-        "name": "Aglio e olio",
-        "url": "https://open.spotify.com/album/3jZbozt8tNcg27gMEjPpCT"
+        "name": "\u9060\u3044\u671d",
+        "url": "https://open.spotify.com/album/22lwuTLvc0LQWA01kat0Fs"
       },
       "artists": [
         {
-          "name": "Tohji",
-          "url": "https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF"
+          "name": "Yuga",
+          "url": "https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT"
         }
       ],
-      "duration_ms": 165018,
-      "name": "Aglio e olio",
-      "url": "https://open.spotify.com/track/09aFUqQgJPn0Awn47JGKND"
+      "duration_ms": 183168,
+      "name": "\u9060\u3044\u671d",
+      "url": "https://open.spotify.com/track/5KSWrw6dKkVaN4ImVrko9Z"
     },
     {
       "added_at": "2023-11-24 06:29:07",
@@ -1555,18 +1571,18 @@
     {
       "added_at": "2023-11-24 06:29:07",
       "album": {
-        "name": "\u9060\u3044\u671d",
-        "url": "https://open.spotify.com/album/22lwuTLvc0LQWA01kat0Fs"
+        "name": "Rainy Day",
+        "url": "https://open.spotify.com/album/2AFqDaqL6nvDsYRZwXpPWu"
       },
       "artists": [
         {
-          "name": "Yuga",
-          "url": "https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT"
+          "name": "Offo tokyo",
+          "url": "https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y"
         }
       ],
-      "duration_ms": 183168,
-      "name": "\u9060\u3044\u671d",
-      "url": "https://open.spotify.com/track/5KSWrw6dKkVaN4ImVrko9Z"
+      "duration_ms": 181666,
+      "name": "Rainy Day",
+      "url": "https://open.spotify.com/track/22f48KIbKzgpOkAtVvyUQW"
     },
     {
       "added_at": "2023-11-24 06:29:07",
@@ -1603,22 +1619,6 @@
     {
       "added_at": "2023-11-24 06:29:07",
       "album": {
-        "name": "Lucy",
-        "url": "https://open.spotify.com/album/2xnazTOASgHULfFAeYhC5Y"
-      },
-      "artists": [
-        {
-          "name": "HOME",
-          "url": "https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB"
-        }
-      ],
-      "duration_ms": 187157,
-      "name": "Lucy",
-      "url": "https://open.spotify.com/track/1ioc0bvKPoAjGAyZ5lRxvu"
-    },
-    {
-      "added_at": "2023-11-24 06:29:07",
-      "album": {
         "name": "peanut butters II",
         "url": "https://open.spotify.com/album/32Y4rnV7l6GCXUy005ox3p"
       },
@@ -1631,6 +1631,22 @@
       "duration_ms": 167522,
       "name": "Peanut butter 2023 GIGA MAX",
       "url": "https://open.spotify.com/track/0r2abRSwPrVaYtiX5SeAt8"
+    },
+    {
+      "added_at": "2023-11-24 06:29:07",
+      "album": {
+        "name": "Lucy",
+        "url": "https://open.spotify.com/album/2xnazTOASgHULfFAeYhC5Y"
+      },
+      "artists": [
+        {
+          "name": "HOME",
+          "url": "https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB"
+        }
+      ],
+      "duration_ms": 187157,
+      "name": "Lucy",
+      "url": "https://open.spotify.com/track/1ioc0bvKPoAjGAyZ5lRxvu"
     },
     {
       "added_at": "2023-11-24 06:29:07",
@@ -1663,22 +1679,6 @@
       "duration_ms": 273566,
       "name": "18\u306e\u606f\u5439",
       "url": "https://open.spotify.com/track/7jCXSLeKRdlndNLBoGIOZR"
-    },
-    {
-      "added_at": "2023-11-24 06:29:07",
-      "album": {
-        "name": "Just an Ordinary Sunday",
-        "url": "https://open.spotify.com/album/02s2ewiUd2YgGpL5uH9WWq"
-      },
-      "artists": [
-        {
-          "name": "EMPTYSCENARIO",
-          "url": "https://open.spotify.com/artist/6KbPaXqXnqgcSfdK1kN9lu"
-        }
-      ],
-      "duration_ms": 182872,
-      "name": "Just an Ordinary Sunday",
-      "url": "https://open.spotify.com/track/6p6NytZ2eNa7ZWstx6Kvva"
     }
   ],
   "unique_name": "Edge!",

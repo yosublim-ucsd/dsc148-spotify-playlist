@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent & rising talents are here\. \(Cover: Kim Marie\(김마리\)\)\(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,573 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,609 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 64 | [가위, 바위, 보! Rock, Scissors, Paper!](https://open.spotify.com/track/1cDIe8UxfzgKRE30JpnlcS) | [KACHISAN](https://open.spotify.com/artist/20pVcZq4VeWqe3CxlWx2nH) | [가위, 바위, 보! Rock, Scissors, Paper!](https://open.spotify.com/album/7mHmUOPnTN9grCWRBwU3Ew) | 3:27 |
 | 65 | [STOCK MARKET](https://open.spotify.com/track/5NcUz96wOWY6t3JcKk2JA2) | [PLEA](https://open.spotify.com/artist/7qdpT6Iy3NqHMhVIg3RDwt) | [STOCK MARKET](https://open.spotify.com/album/0NdONwJFkENHILvhARQC2U) | 3:14 |
 | 66 | [B4N \(Bye For Now\)](https://open.spotify.com/track/0YzCPrOCZrVtStloUYxC9B) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [TEENS](https://open.spotify.com/album/2fIBmFkOU6Tt1Xs6JHuTGU) | 3:33 |
-| 67 | [Ending Fairy](https://open.spotify.com/track/1nRCu7boIyywCgf79G9K53) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Ending Fairy](https://open.spotify.com/album/1VbHtxH9tgEakebXV4oBBb) | 3:19 |
+| 67 | [Ending Fairy](https://open.spotify.com/track/48fmYt05y4WwvQB8nn3WZK) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Smile! You're On Camera](https://open.spotify.com/album/5XbzCJBgVE0CUWnoXrFKSm) | 3:19 |
 | 68 | [Weather and You](https://open.spotify.com/track/1kzHS920yQ7Zwjnvyyq8cj) | [ARO](https://open.spotify.com/artist/6ECu2vO8wvgX5pDjYqHEuC) | [Weather and You](https://open.spotify.com/album/42hIvo8cPbWto1FJqUCSEK) | 2:51 |
 | 69 | [베티 Betty](https://open.spotify.com/track/1H7tWi2lS7M76soZ72fqYj) | [Bosudongcooler](https://open.spotify.com/artist/7zhojNyxff5HeS5mIgUVmU) | [베티 Betty](https://open.spotify.com/album/1IAYSmwOMytufTH6ExMwit) | 3:30 |
 | 70 | [Your Night \(feat\. purpdeep\)](https://open.spotify.com/track/1DA58xl9L4Gqe5BxUcEOF5) | [Achii](https://open.spotify.com/artist/7bDJyIDOTKM4YCFy1O86NU), [purpdeep](https://open.spotify.com/artist/73Ee4BrzgOrMeLI96HtguC) | [24](https://open.spotify.com/album/5q7jzIxDBx8fNAmVxY25nj) | 2:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 99 | [Not Sleep](https://open.spotify.com/track/2Kr4FPeUyD4nzaRt2UL4RD) | [moim](https://open.spotify.com/artist/1sr5uaXiCwEqIh26gTWBtP) | [BREAKTIME](https://open.spotify.com/album/4q2F1D3FdhWkVDKLhLBbiA) | 3:22 |
 | 100 | [Hiding In The Rain](https://open.spotify.com/track/1tQV5KDBx5B1lml1VEQJM7) | [Ujoo](https://open.spotify.com/artist/0MFHGyrlDnqNciBzA6OWNI) | [Hiding In The Rain](https://open.spotify.com/album/761CjITxn4JK9fqisInmgx) | 3:55 |
 
-Snapshot ID: `MCxiZTA5ZDFkYjFmYTliZTlkYTQ0NzYyZTEyMTdmMWM1ODhmODYxZDcw`
+Snapshot ID: `MCxmMGE0YTFkZTkyODcwNzExMTBiODY2MGU5MTRkZjQ0NWViYWI5ZjVj`

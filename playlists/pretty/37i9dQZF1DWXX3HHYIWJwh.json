@@ -1,12 +1,12 @@
 {
   "description": "\u30db\u30fc\u30e0\u30d1\u30fc\u30c6\u30a3\u30fc\u3092\u697d\u3057\u3080\u305f\u3081\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002\u5973\u5b50\u4f1a\u3001\u30ac\u30fc\u30eb\u30ba\u30ca\u30a4\u30c8\u306e\u304a\u4f9b\u306b\u3002\n\n",
-  "num_followers": 101846,
+  "num_followers": 101849,
   "original_name": "\u30ac\u30fc\u30eb\u30ba\u30fb\u30ca\u30a4\u30c8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTkyM2JhOWYwY2NjOTMyYzMyNDNiZTYzNzhiYWQ3NzRhNjU1YTE0",
+  "snapshot_id": "MCwwNDNlZDRhYzhjZDg5MGU3ODFlYTZhOTE2ZWI2YWRmZDk2OGFlYmJh",
   "tracks": [
     {
       "added_at": "2023-11-23 15:00:00",
@@ -839,38 +839,6 @@
     {
       "added_at": "2023-11-23 15:00:00",
       "album": {
-        "name": "Ditto",
-        "url": "https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 185506,
-      "name": "Ditto",
-      "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
-    },
-    {
-      "added_at": "2023-11-23 15:00:00",
-      "album": {
-        "name": "SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN'",
-        "url": "https://open.spotify.com/album/1rE0Gy69MFUh4GuXafWd0f"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 205133,
-      "name": "God of Music",
-      "url": "https://open.spotify.com/track/4MTNimMDRyFZv37Thcktwa"
-    },
-    {
-      "added_at": "2023-11-23 15:00:00",
-      "album": {
         "name": "UNFORGIVEN",
         "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
       },
@@ -891,6 +859,22 @@
     {
       "added_at": "2023-11-23 15:00:00",
       "album": {
+        "name": "SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN'",
+        "url": "https://open.spotify.com/album/1rE0Gy69MFUh4GuXafWd0f"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 205133,
+      "name": "God of Music",
+      "url": "https://open.spotify.com/track/4MTNimMDRyFZv37Thcktwa"
+    },
+    {
+      "added_at": "2023-11-23 15:00:00",
+      "album": {
         "name": "Back for More (with Anitta)",
         "url": "https://open.spotify.com/album/5zhfCotijpaEJfQNVAC8mV"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 131037,
       "name": "Back for More (with Anitta)",
       "url": "https://open.spotify.com/track/6uTPA1xlcsk6dbchB2dhzl"
+    },
+    {
+      "added_at": "2023-11-23 15:00:00",
+      "album": {
+        "name": "Ditto",
+        "url": "https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 185506,
+      "name": "Ditto",
+      "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
     }
   ],
   "unique_name": "\u30ac\u30fc\u30eb\u30ba\u30fb\u30ca\u30a4\u30c8",

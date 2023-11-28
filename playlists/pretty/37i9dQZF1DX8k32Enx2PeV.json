@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 8577,
+  "num_followers": 8585,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTViMTVjOGRhZDk3NGE2ZWMwOWFiZTUwOGFmZDkzMDZhYzI3ODE3",
+  "snapshot_id": "MCwwMmQxMDY1MzdiMGI5MzFkODlhYWRkOTBhYzM5NzBlOGQ4ZmNlYTBl",
   "tracks": [
     {
       "added_at": "2023-09-22 05:25:00",
@@ -183,6 +183,22 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
+        "name": "Capul\u00ed",
+        "url": "https://open.spotify.com/album/2oAG4DUG1vIVMOgtWsoqxA"
+      },
+      "artists": [
+        {
+          "name": "Luz Pinos",
+          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
+        }
+      ],
+      "duration_ms": 202770,
+      "name": "Capul\u00ed",
+      "url": "https://open.spotify.com/track/5yoQCiZjwoAKqBzqKlDdh5"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
         "name": "Feriado",
         "url": "https://open.spotify.com/album/4QiIMsHtpCmGdPYYlhiMet"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 218000,
       "name": "Qui\u00e9n Lo Dir\u00eda?",
       "url": "https://open.spotify.com/track/1ck0WwtC0CEBf4FG4wok2H"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
-        "name": "Capul\u00ed",
-        "url": "https://open.spotify.com/album/2oAG4DUG1vIVMOgtWsoqxA"
-      },
-      "artists": [
-        {
-          "name": "Luz Pinos",
-          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
-        }
-      ],
-      "duration_ms": 202770,
-      "name": "Capul\u00ed",
-      "url": "https://open.spotify.com/track/5yoQCiZjwoAKqBzqKlDdh5"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -291,26 +291,6 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "NINA",
-        "url": "https://open.spotify.com/album/4K6tYEEDctTzhjXwCXLCXv"
-      },
-      "artists": [
-        {
-          "name": "Motherflowers",
-          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
-        },
-        {
-          "name": "Lil Supa",
-          "url": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
-        }
-      ],
-      "duration_ms": 299000,
-      "name": "NINA",
-      "url": "https://open.spotify.com/track/75D6ddFBgFvobY7niIcGSv"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
         "name": "Corolla 94",
         "url": "https://open.spotify.com/album/0ntx5OUeKXWlmEiXHh7jXN"
       },
@@ -323,26 +303,6 @@
       "duration_ms": 201176,
       "name": "Corolla 94",
       "url": "https://open.spotify.com/track/2n9rhvlYHPaMEFOmw5Y1QX"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
-        "name": "Besos Ricos",
-        "url": "https://open.spotify.com/album/53ykeMtGt4deG7mnkMEgeU"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "Goyo",
-          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
-        }
-      ],
-      "duration_ms": 187715,
-      "name": "Besos Ricos",
-      "url": "https://open.spotify.com/track/1AeVenKA9w42gepptaabsD"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -407,6 +367,46 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
+        "name": "NINA",
+        "url": "https://open.spotify.com/album/4K6tYEEDctTzhjXwCXLCXv"
+      },
+      "artists": [
+        {
+          "name": "Motherflowers",
+          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
+        },
+        {
+          "name": "Lil Supa",
+          "url": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
+        }
+      ],
+      "duration_ms": 299000,
+      "name": "NINA",
+      "url": "https://open.spotify.com/track/75D6ddFBgFvobY7niIcGSv"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
+        "name": "Besos Ricos",
+        "url": "https://open.spotify.com/album/53ykeMtGt4deG7mnkMEgeU"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+        }
+      ],
+      "duration_ms": 187715,
+      "name": "Besos Ricos",
+      "url": "https://open.spotify.com/track/1AeVenKA9w42gepptaabsD"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
         "name": "All Night Long",
         "url": "https://open.spotify.com/album/2PuKW3LCrVlfbIY1u4RoMe"
       },
@@ -423,30 +423,6 @@
       "duration_ms": 260156,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/4hgda2zsC0CPHtxT55FJho"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
-        "name": "Porrito y a Dormir",
-        "url": "https://open.spotify.com/album/2tNuQBtqlz5HKMikowZ6dG"
-      },
-      "artists": [
-        {
-          "name": "Motherflowers",
-          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
-        },
-        {
-          "name": "Xico",
-          "url": "https://open.spotify.com/artist/0WIiW8BkOZHyMTGOAwCCi9"
-        },
-        {
-          "name": "GOE",
-          "url": "https://open.spotify.com/artist/4SrGQeETnkwVwPiLg81ywM"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Porrito y a Dormir",
-      "url": "https://open.spotify.com/track/1WzX44DmzXQytMNksHn3Ez"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -559,6 +535,30 @@
       "duration_ms": 320682,
       "name": "Agujas en el pecho",
       "url": "https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
+        "name": "Porrito y a Dormir",
+        "url": "https://open.spotify.com/album/2tNuQBtqlz5HKMikowZ6dG"
+      },
+      "artists": [
+        {
+          "name": "Motherflowers",
+          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
+        },
+        {
+          "name": "Xico",
+          "url": "https://open.spotify.com/artist/0WIiW8BkOZHyMTGOAwCCi9"
+        },
+        {
+          "name": "GOE",
+          "url": "https://open.spotify.com/artist/4SrGQeETnkwVwPiLg81ywM"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Porrito y a Dormir",
+      "url": "https://open.spotify.com/track/1WzX44DmzXQytMNksHn3Ez"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "ni una foto",
-        "url": "https://open.spotify.com/album/6xKGfOhCxShui9ia3zCxwJ"
-      },
-      "artists": [
-        {
-          "name": "GAMBOA",
-          "url": "https://open.spotify.com/artist/6vNjkmZB4B8C9isC2GgjD9"
-        }
-      ],
-      "duration_ms": 192385,
-      "name": "ni una foto",
-      "url": "https://open.spotify.com/track/5Fc6a806jgiEU3ka1Rqpyq"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
         "name": "Camino al Mar",
         "url": "https://open.spotify.com/album/1glNAkJudlAf1dNQUsr18G"
       },
@@ -1039,18 +1023,18 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "En el Caribe Tambi\u00e9n Pasa Esto",
-        "url": "https://open.spotify.com/album/5nasMHFwjeW93OHvHwDWCp"
+        "name": "ni una foto",
+        "url": "https://open.spotify.com/album/6xKGfOhCxShui9ia3zCxwJ"
       },
       "artists": [
         {
-          "name": "Buendia",
-          "url": "https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH"
+          "name": "GAMBOA",
+          "url": "https://open.spotify.com/artist/6vNjkmZB4B8C9isC2GgjD9"
         }
       ],
-      "duration_ms": 233613,
-      "name": "Goz\u00e1 Goz\u00e1",
-      "url": "https://open.spotify.com/track/1Mi4KFAuHfJKRORYYNEQ9B"
+      "duration_ms": 192385,
+      "name": "ni una foto",
+      "url": "https://open.spotify.com/track/5Fc6a806jgiEU3ka1Rqpyq"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -1067,6 +1051,22 @@
       "duration_ms": 202888,
       "name": "Azul",
       "url": "https://open.spotify.com/track/7sIE5XUDPjx7W0kygSwQUU"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
+        "name": "En el Caribe Tambi\u00e9n Pasa Esto",
+        "url": "https://open.spotify.com/album/5nasMHFwjeW93OHvHwDWCp"
+      },
+      "artists": [
+        {
+          "name": "Buendia",
+          "url": "https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH"
+        }
+      ],
+      "duration_ms": 233613,
+      "name": "Goz\u00e1 Goz\u00e1",
+      "url": "https://open.spotify.com/track/1Mi4KFAuHfJKRORYYNEQ9B"
     },
     {
       "added_at": "2023-09-22 05:25:00",

@@ -1,12 +1,12 @@
 {
   "description": "\u3044\u308d\u3044\u308d\u3042\u308b\u304b\u3082\u77e5\u308c\u306a\u3044\u3051\u308c\u3069\u3001\u3061\u3087\u3063\u3068\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\u30c1\u30eb\u306a\u697d\u66f2\u3067\u3086\u3063\u305f\u308a\u307e\u3063\u305f\u308a\u306a\u3072\u3068\u6642\u3092\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 21451,
+  "num_followers": 21528,
   "original_name": "\u307e\u3069\u308d\u307f\u306e\u4e2d\u3067",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTdiMWIyNDliOTIwMGMxYTFjNDhmOTEwMzU2ZDk2NjZkYWZhNTdm",
+  "snapshot_id": "MCxjNWM3NmQ2ZmQ5ZDczNWZkOTlkNDJhOTRjMjhlMTE3YmMwY2QyZmE4",
   "tracks": [
     {
       "added_at": "2023-11-23 15:00:00",
@@ -619,18 +619,18 @@
     {
       "added_at": "2023-11-23 15:00:00",
       "album": {
-        "name": "Yoidoreshirazu",
-        "url": "https://open.spotify.com/album/32sf8CyAb7MtRbVTDJrWQA"
+        "name": "replica",
+        "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
       },
       "artists": [
         {
-          "name": "Kanaria",
-          "url": "https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF"
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
         }
       ],
-      "duration_ms": 134869,
-      "name": "Yoidoreshirazu",
-      "url": "https://open.spotify.com/track/26zbAdTJC4vqqpGwSzvh8Q"
+      "duration_ms": 276223,
+      "name": "\u305d\u3093\u306abitter\u306a\u8a71",
+      "url": "https://open.spotify.com/track/4DmmljTCS4ViQRSLCiMnOt"
     },
     {
       "added_at": "2023-11-23 15:00:00",
@@ -651,18 +651,18 @@
     {
       "added_at": "2023-11-23 15:00:00",
       "album": {
-        "name": "replica",
-        "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
+        "name": "Yoidoreshirazu",
+        "url": "https://open.spotify.com/album/32sf8CyAb7MtRbVTDJrWQA"
       },
       "artists": [
         {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+          "name": "Kanaria",
+          "url": "https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF"
         }
       ],
-      "duration_ms": 276223,
-      "name": "\u305d\u3093\u306abitter\u306a\u8a71",
-      "url": "https://open.spotify.com/track/4DmmljTCS4ViQRSLCiMnOt"
+      "duration_ms": 134869,
+      "name": "Yoidoreshirazu",
+      "url": "https://open.spotify.com/track/26zbAdTJC4vqqpGwSzvh8Q"
     },
     {
       "added_at": "2023-11-23 15:00:00",

@@ -895,6 +895,28 @@
     },
     {
       "album": {
+        "name": "El 7ob Sa3b",
+        "url": "https://open.spotify.com/album/2G28Q9Sn9WWgPFuCd5fWU8"
+      },
+      "artists": [
+        {
+          "name": "Masri",
+          "url": "https://open.spotify.com/artist/39HzY56JWtwfoUXlSOwrRA"
+        },
+        {
+          "name": "Chirin",
+          "url": "https://open.spotify.com/artist/78eKt1TmrCJOQywv5VUpEv"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142800,
+      "name": "El 7ob Sa3b",
+      "url": "https://open.spotify.com/track/4MN8tKKz1Sld1OhJPemc5G"
+    },
+    {
+      "album": {
         "name": "Pop Hits Now",
         "url": "https://open.spotify.com/album/1YDU8JDHG7xdWimuRRdAaf"
       },

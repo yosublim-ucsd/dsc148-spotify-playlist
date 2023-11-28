@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Ana Mena",
-  "num_followers": 990619,
+  "num_followers": 990687,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjFhZjgwY2VkYmU5NTQ3YzllOGEzMDM4MTNkYWI1NmI4YWMzNmMy",
+  "snapshot_id": "MCwxM2VlZWQyNmQwODU2ZjVlNjljODg1OTNiZTQ4YWRhNWY5NzQzZjRi",
   "tracks": [
     {
       "added_at": "2023-11-21 17:09:53",
@@ -399,6 +399,30 @@
     {
       "added_at": "2023-11-21 17:09:53",
       "album": {
+        "name": "L\u00e1grimas | CROSSOVER #4",
+        "url": "https://open.spotify.com/album/30aaqAqle120bcBU5IDkgr"
+      },
+      "artists": [
+        {
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        }
+      ],
+      "duration_ms": 167419,
+      "name": "L\u00e1grimas | CROSSOVER #4",
+      "url": "https://open.spotify.com/track/1lSayCmr2lS6ndxELoabIG"
+    },
+    {
+      "added_at": "2023-11-21 17:09:53",
+      "album": {
         "name": "DE PLASTILINA",
         "url": "https://open.spotify.com/album/0PoBB1ZYvloZYblyrAIWYa"
       },
@@ -455,30 +479,6 @@
     {
       "added_at": "2023-11-21 17:09:53",
       "album": {
-        "name": "L\u00e1grimas | CROSSOVER #4",
-        "url": "https://open.spotify.com/album/30aaqAqle120bcBU5IDkgr"
-      },
-      "artists": [
-        {
-          "name": "Big One",
-          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
-        }
-      ],
-      "duration_ms": 167419,
-      "name": "L\u00e1grimas | CROSSOVER #4",
-      "url": "https://open.spotify.com/track/1lSayCmr2lS6ndxELoabIG"
-    },
-    {
-      "added_at": "2023-11-21 17:09:53",
-      "album": {
         "name": "\u00c1NGEL",
         "url": "https://open.spotify.com/album/3g5VwrXN4bKoU9UKux5k5N"
       },
@@ -491,6 +491,22 @@
       "duration_ms": 187240,
       "name": "Ella",
       "url": "https://open.spotify.com/track/1DPtfQYOFB9IAEk1o4qBmS"
+    },
+    {
+      "added_at": "2023-11-21 17:09:53",
+      "album": {
+        "name": "Poquito a Poquito",
+        "url": "https://open.spotify.com/album/1v7khGGbZK12Y7CMofMFxI"
+      },
+      "artists": [
+        {
+          "name": "Marta Santos",
+          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Poquito a Poquito",
+      "url": "https://open.spotify.com/track/1Uf6XdCFBmIrbs1Rbx8t9v"
     },
     {
       "added_at": "2023-11-21 17:09:53",
@@ -531,22 +547,6 @@
       "duration_ms": 200294,
       "name": "SUPERH\u00c9ROES",
       "url": "https://open.spotify.com/track/3qMpbW78QlPZM2bEdtD1YD"
-    },
-    {
-      "added_at": "2023-11-21 17:09:53",
-      "album": {
-        "name": "Poquito a Poquito",
-        "url": "https://open.spotify.com/album/1v7khGGbZK12Y7CMofMFxI"
-      },
-      "artists": [
-        {
-          "name": "Marta Santos",
-          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Poquito a Poquito",
-      "url": "https://open.spotify.com/track/1Uf6XdCFBmIrbs1Rbx8t9v"
     },
     {
       "added_at": "2023-11-21 17:09:53",
@@ -739,18 +739,18 @@
     {
       "added_at": "2023-11-21 17:09:53",
       "album": {
-        "name": "Derecho a No Declarar",
-        "url": "https://open.spotify.com/album/6NapsEjZhrlNNN1txZrR2B"
+        "name": "Palabra Prohibida",
+        "url": "https://open.spotify.com/album/0SL3CXA1AkeE9i8mlaCCRZ"
       },
       "artists": [
         {
-          "name": "Pole.",
-          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
         }
       ],
-      "duration_ms": 146763,
-      "name": "Derecho a No Declarar",
-      "url": "https://open.spotify.com/track/6eKPg2gdhHlWUUFLucFgey"
+      "duration_ms": 176881,
+      "name": "Palabra Prohibida",
+      "url": "https://open.spotify.com/track/4sRulaggpSTT3mLCZsaJ5v"
     },
     {
       "added_at": "2023-11-21 17:09:53",
@@ -807,18 +807,18 @@
     {
       "added_at": "2023-11-21 17:09:53",
       "album": {
-        "name": "Palabra Prohibida",
-        "url": "https://open.spotify.com/album/0SL3CXA1AkeE9i8mlaCCRZ"
+        "name": "Derecho a No Declarar",
+        "url": "https://open.spotify.com/album/6NapsEjZhrlNNN1txZrR2B"
       },
       "artists": [
         {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+          "name": "Pole.",
+          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
         }
       ],
-      "duration_ms": 176881,
-      "name": "Palabra Prohibida",
-      "url": "https://open.spotify.com/track/4sRulaggpSTT3mLCZsaJ5v"
+      "duration_ms": 146763,
+      "name": "Derecho a No Declarar",
+      "url": "https://open.spotify.com/track/6eKPg2gdhHlWUUFLucFgey"
     },
     {
       "added_at": "2023-11-21 17:09:53",
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-11-21 17:09:53",
       "album": {
+        "name": "PALANTE",
+        "url": "https://open.spotify.com/album/1XiLA8WVP7MMDvDCHJ9uKj"
+      },
+      "artists": [
+        {
+          "name": "Funzo & Baby Loud",
+          "url": "https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC"
+        }
+      ],
+      "duration_ms": 146264,
+      "name": "PALANTE",
+      "url": "https://open.spotify.com/track/28cN5fxRkyri38B7vYA6rp"
+    },
+    {
+      "added_at": "2023-11-21 17:09:53",
+      "album": {
         "name": "Copita Champagne",
         "url": "https://open.spotify.com/album/6u333hTQgleC2pzoNvBKcU"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 163000,
       "name": "Copita Champagne",
       "url": "https://open.spotify.com/track/3xvnCTCFA6Ntd5gKLfKnmW"
-    },
-    {
-      "added_at": "2023-11-21 17:09:53",
-      "album": {
-        "name": "PALANTE",
-        "url": "https://open.spotify.com/album/1XiLA8WVP7MMDvDCHJ9uKj"
-      },
-      "artists": [
-        {
-          "name": "Funzo & Baby Loud",
-          "url": "https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC"
-        }
-      ],
-      "duration_ms": 146264,
-      "name": "PALANTE",
-      "url": "https://open.spotify.com/track/28cN5fxRkyri38B7vYA6rp"
     },
     {
       "added_at": "2023-11-21 17:09:53",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-11-21 17:09:53",
       "album": {
-        "name": "TE TRAJE FLORES",
-        "url": "https://open.spotify.com/album/4dzuTa3xJlpktfUcbp5i83"
-      },
-      "artists": [
-        {
-          "name": "Enol",
-          "url": "https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O"
-        }
-      ],
-      "duration_ms": 184792,
-      "name": "TE TRAJE FLORES",
-      "url": "https://open.spotify.com/track/4SRojgjWd8Vqc40sicAEC8"
-    },
-    {
-      "added_at": "2023-11-21 17:09:53",
-      "album": {
         "name": "Lugar Para\u00edso",
         "url": "https://open.spotify.com/album/3Af46goeGBVqhNN8a1C5f5"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 201206,
       "name": "MI BANDERA",
       "url": "https://open.spotify.com/track/60ZaHUyLn4CMUNSFUo1cdr"
+    },
+    {
+      "added_at": "2023-11-21 17:09:53",
+      "album": {
+        "name": "TE TRAJE FLORES",
+        "url": "https://open.spotify.com/album/4dzuTa3xJlpktfUcbp5i83"
+      },
+      "artists": [
+        {
+          "name": "Enol",
+          "url": "https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O"
+        }
+      ],
+      "duration_ms": 184792,
+      "name": "TE TRAJE FLORES",
+      "url": "https://open.spotify.com/track/4SRojgjWd8Vqc40sicAEC8"
     },
     {
       "added_at": "2023-11-21 17:09:53",

@@ -4,7 +4,7 @@
 
 > Throw your lighters in the air and wave them like you don't care\. Cover: Guns N' Roses
 
-295 songs - 1 day 1 hr 3 min
+296 songs - 1 day 1 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,9 +235,10 @@
 | [Strange World \- 1998 Remastered Version](https://open.spotify.com/track/1ClFoYvBLCQHOuvkNQpQfb) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Iron Maiden \(1998 Remastered Edition\)](https://open.spotify.com/album/5J5fnu7PEwhgzdkiBBtblw) | 5:32 | 2022-04-15 | 2022-07-28 |
 | [Tallulah](https://open.spotify.com/track/33F4l7xj1cEeiqyUCfHlvw) | [Sonata Arctica](https://open.spotify.com/artist/5YeoQ1L71cXDMpSpqxOjfH) | [Silence](https://open.spotify.com/album/5NNkNyiCzJe1l8uqTyVKr7) | 5:20 | 2023-02-06 | 2023-11-24 |
 | [Tallulah](https://open.spotify.com/track/3G80CgLA7ziD8i40s6uKQN) | [Sonata Arctica](https://open.spotify.com/artist/5YeoQ1L71cXDMpSpqxOjfH) | [Silence](https://open.spotify.com/album/491aVcQHmKwGjVego5VI15) | 5:20 | 2022-04-15 | 2023-01-04 |
+| [Tears of the Dragon \(2001 Remaster\)](https://open.spotify.com/track/3EiQGaaHMHFk5ykD1a7vYt) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [Balls to Picasso \(2001 Remaster\)](https://open.spotify.com/album/2AKNnewiklMkna3HbigH5X) | 6:24 | 2023-02-06 |  |
 | [Tears of the Dragon \- 2001 Remastered Version](https://open.spotify.com/track/1fvlJQrm3yoN2TpKH5FgiR) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [Balls To Picasso \(2001 Remastered Version\)](https://open.spotify.com/album/6Jbj3GyCsicdHpMDlMchN8) | 6:24 | 2022-04-15 | 2023-11-18 |
 | [The Ballad](https://open.spotify.com/track/5dZqQns5MwVcbvNqkgocWI) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Practice What You Preach](https://open.spotify.com/album/7lNeBg16EP03ifo5Wutq52) | 6:08 | 2022-04-15 | 2022-07-26 |
-| [The Ballad Of Jayne](https://open.spotify.com/track/0gTEvnqaTPmrDvzbKZtQuw) | [L.A\. Guns](https://open.spotify.com/artist/22TEmHXBBLjTec2LOAuMdS) | [Cocked And Loaded](https://open.spotify.com/album/6z9hERB98aCzCYx180xaMW) | 4:34 | 2022-04-15 |  |
+| [The Ballad Of Jayne](https://open.spotify.com/track/0gTEvnqaTPmrDvzbKZtQuw) | [L.A\. Guns](https://open.spotify.com/artist/22TEmHXBBLjTec2LOAuMdS) | [Cocked And Loaded](https://open.spotify.com/album/6z9hERB98aCzCYx180xaMW) | 4:34 | 2022-04-15 | 2023-11-28 |
 | [The Ballad Of Mary 2010](https://open.spotify.com/track/1vN8c6WwvYnLQzDBiySvor) | [Grave Digger](https://open.spotify.com/artist/6mfghV4I1CD17FOhDKq7cJ) | [The Ballad Of Mary](https://open.spotify.com/album/0QH1EzI2foX4ql9iH2afYb) | 5:01 | 2022-04-15 | 2022-07-27 |
 | [The Bard's Song \- In the Forest \- Remastered 2007](https://open.spotify.com/track/3LnePh1mlduj28bGZRFUQS) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Somewhere Far Beyond \(Remastered 2007\)](https://open.spotify.com/album/3hZrkR9D98fHIaazzOtmNT) | 3:09 | 2022-04-15 | 2022-07-09 |
 | [The Bard's Song \- In the Forest \- Remastered 2007](https://open.spotify.com/track/7xPGvZaG9W7UOrCgEwbONe) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Somewhere Far Beyond \(Remastered 2007\)](https://open.spotify.com/album/4oruHZSLyTDKPNY2VQIlCS) | 3:09 | 2022-04-15 |  |

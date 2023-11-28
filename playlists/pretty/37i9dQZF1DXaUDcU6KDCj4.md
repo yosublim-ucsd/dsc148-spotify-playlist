@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Ocie Elliott
 
-[Spotify](https://open.spotify.com/user/spotify) - 796,356 likes - 154 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 796,416 likes - 154 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 153 | [Body](https://open.spotify.com/track/57FnTgzDMx3ZH4qudrJpLy) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Wisecrack](https://open.spotify.com/album/1LFVWxdvryjSp6s5EkxojT) | 5:18 |
 | 154 | [The Well](https://open.spotify.com/track/0wDL2SlmwZtb1WmvHd53xw) | [Briscoe](https://open.spotify.com/artist/28NTlcAifzUgF4SIZgxncj) | [The Well](https://open.spotify.com/album/42lCwdDbMMIXotsoHQnhh3) | 3:37 |
 
-Snapshot ID: `MCwzZGJhNmUyOWZkYmI2YjdjNGY0YjVjZjJhZWY2ZDQwZTdjMWFlOGNm`
+Snapshot ID: `MCwwZDM2YzFlNzhjMDhkYzc1YzRjNGMxMGMyM2YxYjYxMjU0NjQ2YmE5`

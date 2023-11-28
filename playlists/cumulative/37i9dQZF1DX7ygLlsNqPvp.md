@@ -4,7 +4,7 @@
 
 > The most intense local drill music firing up the continent\. Cover:  <a href="https://open.spotify.com/artist/05wqlCGQReohsxStVBR052?si=7P7nx9OfTmOxHU1QC3j4IQ"> Pappy Kojo</a>
 
-128 songs - 6 hr 31 min
+129 songs - 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Devil Agent \(2 Fighting\)](https://open.spotify.com/track/6nFL2WU0fb8VEu9NVfGtw6) | [MAXINO](https://open.spotify.com/artist/6LTAaKONuHKKWR8ljjIbCA), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF) | [Devil Agent \(2 Fighting\)](https://open.spotify.com/album/5bYg6iGA8bULUtNUlovZUK) | 3:12 | 2023-05-11 | 2023-06-10 |
 | [Distance Relationship](https://open.spotify.com/track/3Z3SiQSFuLfK1HmJ2N8eqS) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Reggie](https://open.spotify.com/artist/65ZsNUD4VR9tanQXJeMxt1), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Distance Relationship](https://open.spotify.com/album/3HVhY4icGBNGqWxhSJbBro) | 3:29 | 2022-06-09 | 2023-02-25 |
 | [Distance Relationship](https://open.spotify.com/track/7GUtv7iZxcGtCfeEtinfKm) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Distance Relationship](https://open.spotify.com/album/4pKumGgMv2SoaOi1X9WNbg) | 3:29 | 2023-01-13 |  |
+| [Donkomi \- Remix](https://open.spotify.com/track/5c802IbmurF2U8AMLGxgYt) | [Uncle Rich](https://open.spotify.com/artist/7B1cOpsjjQEadmCo3psX4l), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Tulenkey](https://open.spotify.com/artist/2jVltxUvvzAX2lZKN95HBT) | [Last Days Are Dangerous](https://open.spotify.com/album/6euaF0PPbfuSgNNa7znaOm) | 3:44 | 2023-11-24 |  |
 | [Ekorso](https://open.spotify.com/track/04qEuAt4TR3p2KQlJecNsu) | [Kofi Jamar](https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK), [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd), [Ypee](https://open.spotify.com/artist/73vIVPEHNYnSjvxwN5AX6P) | [Ekorso](https://open.spotify.com/album/52WRXL8Z5JeODCqBU39Ork) | 3:44 | 2022-06-09 |  |
 | [Feelingx](https://open.spotify.com/track/5xYLT71o8zWLyyiwIraq9v) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T) | [2 TIMES A GUY](https://open.spotify.com/album/5rpbWF8MqB3At9rdJN9ZUs) | 2:02 | 2022-06-09 | 2023-10-27 |
 | [Fikyiri Fikyiri](https://open.spotify.com/track/4nUvkgJxD0UZin5tDUvjlG) | [Richmiller](https://open.spotify.com/artist/5d1wHzwYfeFjOvUZLSQDDA), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Fikyiri Fikyiri](https://open.spotify.com/album/3fOC2lNZ0h3mApUD3ZwUiK) | 2:40 | 2023-08-10 | 2023-09-10 |

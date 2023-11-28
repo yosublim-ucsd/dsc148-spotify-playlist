@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: Bellakath",
-  "num_followers": 912185,
+  "num_followers": 912131,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGUxZDZjNGQ0OTAyYTlmMWRhYmY5ZmEzZDhjOTdmYjkzY2Q3OGQz",
+  "snapshot_id": "MCw2OWZlMDUwMWRjNGZiMWRmOTZhNDVmM2M1MzliY2M0YmRhNzRjMjU4",
   "tracks": [
     {
       "added_at": "2023-11-08 04:01:00",
@@ -279,22 +279,6 @@
     {
       "added_at": "2023-11-08 04:01:00",
       "album": {
-        "name": "Back To Black",
-        "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 256946,
-      "name": "You Know I'm No Good",
-      "url": "https://open.spotify.com/track/4zQuwW24dweWcaX0fEJkP2"
-    },
-    {
-      "added_at": "2023-11-08 04:01:00",
-      "album": {
         "name": "Dalie (feat. Baby S.O.N)",
         "url": "https://open.spotify.com/album/0J4K8H2exzOLpz1RcfZbID"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 280424,
       "name": "Dalie (feat. Baby S.O.N)",
       "url": "https://open.spotify.com/track/4URabg9AGHasjFEVdTbWcC"
+    },
+    {
+      "added_at": "2023-11-08 04:01:00",
+      "album": {
+        "name": "Back To Black",
+        "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 256946,
+      "name": "You Know I'm No Good",
+      "url": "https://open.spotify.com/track/4zQuwW24dweWcaX0fEJkP2"
     },
     {
       "added_at": "2023-11-08 04:01:00",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-11-08 04:01:00",
       "album": {
-        "name": "Joli coeur",
-        "url": "https://open.spotify.com/album/2r0jcbln2gKoim766i3rsd"
-      },
-      "artists": [
-        {
-          "name": "Ronisia",
-          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
-        }
-      ],
-      "duration_ms": 194466,
-      "name": "Joli coeur",
-      "url": "https://open.spotify.com/track/00YhQePKpHGPqcnmYxIj0x"
-    },
-    {
-      "added_at": "2023-11-08 04:01:00",
-      "album": {
         "name": "Me Sabe Mal",
         "url": "https://open.spotify.com/album/11BHSuw2pCt1zj8U9oTFHy"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 196225,
       "name": "Me Sabe Mal",
       "url": "https://open.spotify.com/track/53w7xjn8fwwU8Pc6rgMm5v"
+    },
+    {
+      "added_at": "2023-11-08 04:01:00",
+      "album": {
+        "name": "Joli coeur",
+        "url": "https://open.spotify.com/album/2r0jcbln2gKoim766i3rsd"
+      },
+      "artists": [
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        }
+      ],
+      "duration_ms": 194466,
+      "name": "Joli coeur",
+      "url": "https://open.spotify.com/track/00YhQePKpHGPqcnmYxIj0x"
     },
     {
       "added_at": "2023-11-08 04:01:00",
@@ -449,6 +449,22 @@
       "url": "https://open.spotify.com/track/6wyeHLKjp7guulm1nqBs8X"
     },
     {
+      "added_at": "2023-11-16 09:44:48",
+      "album": {
+        "name": "przestrze\u0144",
+        "url": "https://open.spotify.com/album/6vd5tpfLPPJ3Bo2VyStDqA"
+      },
+      "artists": [
+        {
+          "name": "Kathia",
+          "url": "https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4"
+        }
+      ],
+      "duration_ms": 239243,
+      "name": "kamfora",
+      "url": "https://open.spotify.com/track/3tKMcyxM5JJTXOmim2zH3e"
+    },
+    {
       "added_at": "2023-11-08 04:01:00",
       "album": {
         "name": "Bahaane",
@@ -477,22 +493,6 @@
       "url": "https://open.spotify.com/track/7eQBzDRjBJ2bCkRKxNPbXm"
     },
     {
-      "added_at": "2023-11-16 09:44:48",
-      "album": {
-        "name": "przestrze\u0144",
-        "url": "https://open.spotify.com/album/6vd5tpfLPPJ3Bo2VyStDqA"
-      },
-      "artists": [
-        {
-          "name": "Kathia",
-          "url": "https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4"
-        }
-      ],
-      "duration_ms": 239243,
-      "name": "kamfora",
-      "url": "https://open.spotify.com/track/3tKMcyxM5JJTXOmim2zH3e"
-    },
-    {
       "added_at": "2023-11-08 04:01:00",
       "album": {
         "name": "BITE BACK",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-11-08 04:01:00",
       "album": {
-        "name": "Gelatai",
-        "url": "https://open.spotify.com/album/7ro4CirH2GXfXnAZVHZ6f1"
-      },
-      "artists": [
-        {
-          "name": "svegliaginevra",
-          "url": "https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS"
-        }
-      ],
-      "duration_ms": 176360,
-      "name": "Gelatai",
-      "url": "https://open.spotify.com/track/3Wx807nizmqn4rU0esPC33"
-    },
-    {
-      "added_at": "2023-11-08 04:01:00",
-      "album": {
         "name": "Sophie",
         "url": "https://open.spotify.com/album/47cphz8bSNm8xnXlgWrT7I"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 194430,
       "name": "Sophie",
       "url": "https://open.spotify.com/track/4ySch7clKEIT3h3GXDNBWR"
+    },
+    {
+      "added_at": "2023-11-08 04:01:00",
+      "album": {
+        "name": "Gelatai",
+        "url": "https://open.spotify.com/album/7ro4CirH2GXfXnAZVHZ6f1"
+      },
+      "artists": [
+        {
+          "name": "svegliaginevra",
+          "url": "https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS"
+        }
+      ],
+      "duration_ms": 176360,
+      "name": "Gelatai",
+      "url": "https://open.spotify.com/track/3Wx807nizmqn4rU0esPC33"
     },
     {
       "added_at": "2023-11-08 04:01:00",
@@ -1077,22 +1077,6 @@
       "url": "https://open.spotify.com/track/0MkBDogipPa3FvHzlXsxqO"
     },
     {
-      "added_at": "2023-11-14 08:05:40",
-      "album": {
-        "name": "Wild At Heart",
-        "url": "https://open.spotify.com/album/2Z74FlDExdsnJm1IG7Y2Ia"
-      },
-      "artists": [
-        {
-          "name": "No\u00e9mie Wolfs",
-          "url": "https://open.spotify.com/artist/5sJWIuRMqeiMooXNf6pavo"
-        }
-      ],
-      "duration_ms": 249291,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/093KjE0RKo2wfnWqYZvWJo"
-    },
-    {
       "added_at": "2023-11-08 04:01:00",
       "album": {
         "name": "a la mitad",
@@ -1107,6 +1091,22 @@
       "duration_ms": 185142,
       "name": "a la mitad",
       "url": "https://open.spotify.com/track/1gW9X06llszndm9jXmb3tL"
+    },
+    {
+      "added_at": "2023-11-14 08:05:40",
+      "album": {
+        "name": "Wild At Heart",
+        "url": "https://open.spotify.com/album/2Z74FlDExdsnJm1IG7Y2Ia"
+      },
+      "artists": [
+        {
+          "name": "No\u00e9mie Wolfs",
+          "url": "https://open.spotify.com/artist/5sJWIuRMqeiMooXNf6pavo"
+        }
+      ],
+      "duration_ms": 249291,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/093KjE0RKo2wfnWqYZvWJo"
     },
     {
       "added_at": "2023-11-08 04:01:00",

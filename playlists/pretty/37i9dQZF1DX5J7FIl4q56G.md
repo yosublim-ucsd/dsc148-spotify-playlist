@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: Dead by April
 
-[Spotify](https://open.spotify.com/user/spotify) - 711,494 likes - 40 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 711,605 likes - 40 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 39 | [Stench Of Demise](https://open.spotify.com/track/44tQD4lQZQmyyBxu3LDwC2) | [Omega Diatribe](https://open.spotify.com/artist/3PhlBs25cslOOkkFtQXXvT) | [Stench Of Demise](https://open.spotify.com/album/0kKwMGkzOXN6K8B4DD6WmA) | 4:04 |
 | 40 | [Hinter der Sonne](https://open.spotify.com/track/1f4A7xzv7PtcR7oWBe6E9H) | [Zorn](https://open.spotify.com/artist/0aFMxvVviIbGXHGmq0EbXk) | [Discography 1994\-1997](https://open.spotify.com/album/5YC5w9Tn0JvxCheaA0l3Yp) | 3:11 |
 
-Snapshot ID: `MCxiY2M2NDhmMWRiYTI2OWJhYjRjY2NjODU5NDMwNTM5ZjljZGQyZWY0`
+Snapshot ID: `MCw1ZGYzZjZmY2Q0ZTRkZTYyZmViMDg4MjNkNDhjNTFkZjFmYjk4YmJl`

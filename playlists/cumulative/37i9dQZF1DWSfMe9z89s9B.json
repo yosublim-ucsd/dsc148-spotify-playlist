@@ -12204,7 +12204,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 208706,
       "name": "ODEE",
       "url": "https://open.spotify.com/track/1DJLf5CTIbjI8gPqfZZ6Wj"
@@ -16162,6 +16162,28 @@
       "duration_ms": 116736,
       "name": "Strawberry Perfume",
       "url": "https://open.spotify.com/track/4IbE8jxsczCxfGYJCE2T1x"
+    },
+    {
+      "album": {
+        "name": "Strawberry Perfume",
+        "url": "https://open.spotify.com/album/73fdLbhr35YUOF7IW8R6ZN"
+      },
+      "artists": [
+        {
+          "name": "Chenayder",
+          "url": "https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y"
+        },
+        {
+          "name": "Essosa",
+          "url": "https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162724,
+      "name": "Strawberry Perfume (feat. Essosa)",
+      "url": "https://open.spotify.com/track/4Z6oFfVBqD2UT54NY6A4PT"
     },
     {
       "album": {

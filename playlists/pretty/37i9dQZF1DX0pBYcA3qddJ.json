@@ -1,12 +1,12 @@
 {
   "description": "\u591c\u306b\u306a\u308b\u4e00\u6b69\u624b\u524d\u306e\u6642\u523b\u306b\u4e00\u77ac\u3067\u3082\u30ea\u30e9\u30c3\u30af\u30b9\u3067\u304d\u308b\u3088\u3046\u306a\u3001\u97f3\u97ff\u7cfb\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u3068\u30af\u30e9\u30b7\u30c3\u30af\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u3002",
-  "num_followers": 51367,
+  "num_followers": 51418,
   "original_name": "\u9759\u5bc2\u3068\u9ec4\u660f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTY2ZTIyMjRiYjA3OTJjMDU1ZDM4YzYzNGYwZWJmNWMyZTllNDE5",
+  "snapshot_id": "MCxhMWZhM2YxYmU2ZjdhZDEyMWI0ODFmOGUzMzg1YTU2Y2ZiZWI5NWZk",
   "tracks": [
     {
       "added_at": "2023-11-23 21:43:51",
@@ -231,22 +231,18 @@
     {
       "added_at": "2023-11-23 21:43:51",
       "album": {
-        "name": "Did you know that there's a tunnel under Ocean Blvd",
-        "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
+        "name": "For Lovers",
+        "url": "https://open.spotify.com/album/0gwS2D9sukMLXNvleEnYr2"
       },
       "artists": [
         {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        },
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+          "name": "Lamp",
+          "url": "https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX"
         }
       ],
-      "duration_ms": 314520,
-      "name": "Candy Necklace (feat. Jon Batiste)",
-      "url": "https://open.spotify.com/track/3MlEryrxCKZkcfX18ZLX96"
+      "duration_ms": 75053,
+      "name": "For Lovers",
+      "url": "https://open.spotify.com/track/6BGNjTZ8zp9MlsIydBa7A9"
     },
     {
       "added_at": "2023-11-23 21:43:51",
@@ -303,18 +299,22 @@
     {
       "added_at": "2023-11-23 21:43:51",
       "album": {
-        "name": "For Lovers",
-        "url": "https://open.spotify.com/album/0gwS2D9sukMLXNvleEnYr2"
+        "name": "Did you know that there's a tunnel under Ocean Blvd",
+        "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
       },
       "artists": [
         {
-          "name": "Lamp",
-          "url": "https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX"
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        },
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
         }
       ],
-      "duration_ms": 75053,
-      "name": "For Lovers",
-      "url": "https://open.spotify.com/track/6BGNjTZ8zp9MlsIydBa7A9"
+      "duration_ms": 314520,
+      "name": "Candy Necklace (feat. Jon Batiste)",
+      "url": "https://open.spotify.com/track/3MlEryrxCKZkcfX18ZLX96"
     },
     {
       "added_at": "2023-11-23 21:43:51",
@@ -707,18 +707,22 @@
     {
       "added_at": "2023-11-23 21:43:51",
       "album": {
-        "name": "Best Day of My Life",
-        "url": "https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw"
+        "name": "Gershwin: Piano Works",
+        "url": "https://open.spotify.com/album/4MkPnDnWYJvpJZDo2HhlKU"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Frank Braley",
+          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
         }
       ],
-      "duration_ms": 219020,
-      "name": "Just Another Thing We Don't Talk About",
-      "url": "https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf"
+      "duration_ms": 145200,
+      "name": "Song Book: The Man I Love. Slow and in singing style",
+      "url": "https://open.spotify.com/track/4BlM6AO7TOtqxcY9qMHIuc"
     },
     {
       "added_at": "2023-11-23 21:43:51",
@@ -739,22 +743,18 @@
     {
       "added_at": "2023-11-23 21:43:51",
       "album": {
-        "name": "Gershwin: Piano Works",
-        "url": "https://open.spotify.com/album/4MkPnDnWYJvpJZDo2HhlKU"
+        "name": "Best Day of My Life",
+        "url": "https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw"
       },
       "artists": [
         {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Frank Braley",
-          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
         }
       ],
-      "duration_ms": 145200,
-      "name": "Song Book: The Man I Love. Slow and in singing style",
-      "url": "https://open.spotify.com/track/4BlM6AO7TOtqxcY9qMHIuc"
+      "duration_ms": 219020,
+      "name": "Just Another Thing We Don't Talk About",
+      "url": "https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf"
     },
     {
       "added_at": "2023-11-23 21:43:51",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2023-11-23 21:43:51",
       "album": {
-        "name": "Actual Life 2 Piano EP (February 2 - October 15 2021)",
-        "url": "https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3"
+        "name": "Lanterns",
+        "url": "https://open.spotify.com/album/74fknK9KmdcRzazEqMAGp3"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "Rosie Darling",
+          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
         }
       ],
-      "duration_ms": 309000,
-      "name": "Faisal (London Bridge Station)",
-      "url": "https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi"
+      "duration_ms": 184773,
+      "name": "The Longest Goodbye",
+      "url": "https://open.spotify.com/track/0W0USnsioLvTw6DcmoZyea"
     },
     {
       "added_at": "2023-11-23 21:43:51",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2023-11-23 21:43:51",
       "album": {
-        "name": "Lanterns",
-        "url": "https://open.spotify.com/album/74fknK9KmdcRzazEqMAGp3"
+        "name": "Actual Life 2 Piano EP (February 2 - October 15 2021)",
+        "url": "https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3"
       },
       "artists": [
         {
-          "name": "Rosie Darling",
-          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
         }
       ],
-      "duration_ms": 184773,
-      "name": "The Longest Goodbye",
-      "url": "https://open.spotify.com/track/0W0USnsioLvTw6DcmoZyea"
+      "duration_ms": 309000,
+      "name": "Faisal (London Bridge Station)",
+      "url": "https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi"
     },
     {
       "added_at": "2023-11-23 21:43:51",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2023-11-23 21:43:51",
       "album": {
-        "name": "Fix You",
-        "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
+        "name": "ITEIAD Sessions",
+        "url": "https://open.spotify.com/album/49FYWXZPpRXP2wewK6PRhu"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
         }
       ],
-      "duration_ms": 141160,
-      "name": "Fix You",
-      "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
+      "duration_ms": 179091,
+      "name": "Super Trouper",
+      "url": "https://open.spotify.com/track/6NDRkX3h4iiyKcJOngaVZ8"
     },
     {
       "added_at": "2023-11-23 21:43:51",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2023-11-23 21:43:51",
       "album": {
-        "name": "ITEIAD Sessions",
-        "url": "https://open.spotify.com/album/49FYWXZPpRXP2wewK6PRhu"
+        "name": "Fix You",
+        "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
       },
       "artists": [
         {
-          "name": "The Japanese House",
-          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 179091,
-      "name": "Super Trouper",
-      "url": "https://open.spotify.com/track/6NDRkX3h4iiyKcJOngaVZ8"
+      "duration_ms": 141160,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
     },
     {
       "added_at": "2023-11-23 21:43:51",
@@ -1675,22 +1675,26 @@
     {
       "added_at": "2023-11-23 21:43:51",
       "album": {
-        "name": "Wind Down",
-        "url": "https://open.spotify.com/album/0SNkVpjU9S4zVxBoytcfON"
+        "name": "Remember Fall in Montreal (Reimagined by Lottie Gabriel)",
+        "url": "https://open.spotify.com/album/4oS7qwATvMusSo5Og860E5"
       },
       "artists": [
         {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          "name": "Andrew Panes",
+          "url": "https://open.spotify.com/artist/6GNBpeYmCO3UmEAktjn9JC"
         },
         {
-          "name": "Endel",
-          "url": "https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4"
+          "name": "Roo Panes",
+          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
+        },
+        {
+          "name": "Lottie Gabriel",
+          "url": "https://open.spotify.com/artist/7j9Ir3hwYuAagYeqQkZLu8"
         }
       ],
-      "duration_ms": 224000,
-      "name": "1st Soundscape",
-      "url": "https://open.spotify.com/track/2YMY061QrP62VEA6thqCqm"
+      "duration_ms": 233520,
+      "name": "Remember Fall in Montreal - Reimagined by Lottie Gabriel",
+      "url": "https://open.spotify.com/track/7IzKSu3bhB0G5dDwmrOAnR"
     },
     {
       "added_at": "2023-11-23 21:43:51",
@@ -1735,26 +1739,22 @@
     {
       "added_at": "2023-11-23 21:43:51",
       "album": {
-        "name": "Remember Fall in Montreal (Reimagined by Lottie Gabriel)",
-        "url": "https://open.spotify.com/album/4oS7qwATvMusSo5Og860E5"
+        "name": "Wind Down",
+        "url": "https://open.spotify.com/album/0SNkVpjU9S4zVxBoytcfON"
       },
       "artists": [
         {
-          "name": "Andrew Panes",
-          "url": "https://open.spotify.com/artist/6GNBpeYmCO3UmEAktjn9JC"
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
         },
         {
-          "name": "Roo Panes",
-          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
-        },
-        {
-          "name": "Lottie Gabriel",
-          "url": "https://open.spotify.com/artist/7j9Ir3hwYuAagYeqQkZLu8"
+          "name": "Endel",
+          "url": "https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4"
         }
       ],
-      "duration_ms": 233520,
-      "name": "Remember Fall in Montreal - Reimagined by Lottie Gabriel",
-      "url": "https://open.spotify.com/track/7IzKSu3bhB0G5dDwmrOAnR"
+      "duration_ms": 224000,
+      "name": "1st Soundscape",
+      "url": "https://open.spotify.com/track/2YMY061QrP62VEA6thqCqm"
     },
     {
       "added_at": "2023-11-23 21:43:51",

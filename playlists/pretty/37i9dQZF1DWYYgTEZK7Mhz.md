@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 
 > Un'estate al mare, stile balenare..\. 🏝️ Hit dell'estate italiana anni 60, 70 e 80!
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,761 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,796 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 | 21 | [Marina](https://open.spotify.com/track/4hFhb8YNgPc94Fq0NANpIB) | [Rocco Granata](https://open.spotify.com/artist/2VhQDTCxA5WBYclo7t7UcI) | [Rocco: Zijn Story In 21 Liedjes](https://open.spotify.com/album/0rD6ZFWRpMdZqAnvcIv66g) | 2:44 |
 | 22 | [Donna Felicita'](https://open.spotify.com/track/2H3oycexcMvOuNUebcdKAF) | [I Nuovi Angeli](https://open.spotify.com/artist/3hkMQ0khOVnDt0VhoQNyMX) | [Donna Felicita'](https://open.spotify.com/album/3Dpo8mHt0NgsXPbADMNzE5) | 2:07 |
 | 23 | [Se Puoi Uscire Una Domenica Sola Con Me](https://open.spotify.com/track/0IX18Ln5xLonOn4DKXlcMt) | [Gianni Morandi](https://open.spotify.com/artist/15FrhfFYJIx7Ijltkpjbsr) | [Ritratto Di Gianni](https://open.spotify.com/album/47klfSZp0cH7rvCj9S0qmo) | 2:16 |
-| 24 | [Lisa dagli occhi blu](https://open.spotify.com/track/72dcYqzC2rNikkqgK0e06Y) | [Mario Tessuto](https://open.spotify.com/artist/1xaJH9NMuR3721EGoHgTFi) | [Il Meglio](https://open.spotify.com/album/6i07oLcpCIodSkJgPBZdUU) | 3:17 |
-| 25 | [Nell'aria](https://open.spotify.com/track/6m00Mv5ElkFndzwrv0D8a0) | [Marcella Bella](https://open.spotify.com/artist/6IvnpywSnAcBLBjlyme9oW) | [Nell'aria](https://open.spotify.com/album/1hj4hDj1BbuCEbSmwH3QqA) | 4:02 |
+| 24 | [Nell'aria](https://open.spotify.com/track/6m00Mv5ElkFndzwrv0D8a0) | [Marcella Bella](https://open.spotify.com/artist/6IvnpywSnAcBLBjlyme9oW) | [Nell'aria](https://open.spotify.com/album/1hj4hDj1BbuCEbSmwH3QqA) | 4:02 |
+| 25 | [Lisa dagli occhi blu](https://open.spotify.com/track/72dcYqzC2rNikkqgK0e06Y) | [Mario Tessuto](https://open.spotify.com/artist/1xaJH9NMuR3721EGoHgTFi) | [Il Meglio](https://open.spotify.com/album/6i07oLcpCIodSkJgPBZdUU) | 3:17 |
 | 26 | [Il Mondo](https://open.spotify.com/track/31PdyIg9pQAyKRDy8yAAF9) | [Jimmy Fontana](https://open.spotify.com/artist/6YvCTF77M8f4Nq3IqoWvtz) | [40 Grandi Successi](https://open.spotify.com/album/6NNxG8OkhT9HiKOfPB3ioV) | 2:45 |
 | 27 | [Bandiera gialla](https://open.spotify.com/track/6CYmFiGnVzzZmi8RgI7fpX) | [Gianni Pettenati](https://open.spotify.com/artist/0nc6KCFosBCzuavMT94Ofo) | [I Grandi Successi: Gianni Pettenati](https://open.spotify.com/album/2UtnH2Mcweg0S38n9JvMfW) | 2:28 |
 | 28 | [Poco Sole](https://open.spotify.com/track/5BYIQOc3AOgmkcRXcMowfz) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv) | [Caldo](https://open.spotify.com/album/3uafgFVSJQdrG4qmzaOMbk) | 2:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 | 49 | [Sei diventata nera](https://open.spotify.com/track/2nQzlb5i7JKIj1xMrf9yVu) | [Los Marcellos Ferial](https://open.spotify.com/artist/0qND4ojDsVHfdXhABRJkTN) | [Profumo di sole...](https://open.spotify.com/album/3hZVHN9BomKxHogbobO2hR) | 2:12 |
 | 50 | [Il mare nel cassetto](https://open.spotify.com/track/1FWuLRNYe3hP55SJ5X7LeK) | [Milva](https://open.spotify.com/artist/2yTY8E1aIo4qaM9m5teX8N) | [Le più belle canzoni di Milva](https://open.spotify.com/album/02bbP27Gmj806q1chWuZP1) | 3:00 |
 
-Snapshot ID: `MCw4NmJlYmI0YmU4NDc1YWVhM2JjMGVjYTI1YTE4OGQwZjJjZGRiOTli`
+Snapshot ID: `MCw1YmIxZDI1ZmYwMGQyODQ0M2JmYTQ1ZmI4MDViMTY4YTRlMmQ5ZWJi`

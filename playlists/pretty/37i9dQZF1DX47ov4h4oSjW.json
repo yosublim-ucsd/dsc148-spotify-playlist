@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjZmYTE3YWI3MzEzZTU3MzhmOWE0YjgwYzI2MzM5NGU2NGQzODgz",
+  "snapshot_id": "MCw0ZWJkNTE4ODg2OTNjYTgyYjcxMjQzMzdhZDU4NGNlYTQzYmFlNDU4",
   "tracks": [
     {
       "added_at": "2023-03-12 10:18:38",
@@ -163,6 +163,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "The Blue Notebooks (15 Years)",
+        "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "duration_ms": 100013,
+      "name": "Written on the Sky",
+      "url": "https://open.spotify.com/track/2ffwBvpsQhgXyU7zBUOhwP"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Hungarian Dances / Waltzes, Op. 39",
         "url": "https://open.spotify.com/album/30JPDQFmVwnBN78AVvzXhD"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 147507,
       "name": "A Place To Hide",
       "url": "https://open.spotify.com/track/0eMa3P0kQJjYqguUgKFt4y"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "The Blue Notebooks (15 Years)",
-        "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
-      },
-      "artists": [
-        {
-          "name": "Max Richter",
-          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
-        }
-      ],
-      "duration_ms": 100013,
-      "name": "Written on the Sky",
-      "url": "https://open.spotify.com/track/2ffwBvpsQhgXyU7zBUOhwP"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Before We Met",
-        "url": "https://open.spotify.com/album/6dD11SUFl17tNcD0qxpZAJ"
-      },
-      "artists": [
-        {
-          "name": "Minik Jakobsen",
-          "url": "https://open.spotify.com/artist/6UJfJw5p9sg08LBKb9Ckfe"
-        }
-      ],
-      "duration_ms": 113285,
-      "name": "Before We Met",
-      "url": "https://open.spotify.com/track/1gB9Hvz050IuA28oxXtydl"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Ambrosia (Official Soundtrack)",
         "url": "https://open.spotify.com/album/0I5YQc4ZWo2sraMUEHgjcU"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 96500,
       "name": "For Stormboy",
       "url": "https://open.spotify.com/track/1gLbbnyTOnx6LrCQ87c0gp"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Before We Met",
+        "url": "https://open.spotify.com/album/6dD11SUFl17tNcD0qxpZAJ"
+      },
+      "artists": [
+        {
+          "name": "Minik Jakobsen",
+          "url": "https://open.spotify.com/artist/6UJfJw5p9sg08LBKb9Ckfe"
+        }
+      ],
+      "duration_ms": 113285,
+      "name": "Before We Met",
+      "url": "https://open.spotify.com/track/1gB9Hvz050IuA28oxXtydl"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Ready Set Love",
-        "url": "https://open.spotify.com/album/739UKKT2LRs2Rj3Jidup25"
-      },
-      "artists": [
-        {
-          "name": "Piotr Miteska",
-          "url": "https://open.spotify.com/artist/76vFPXp4WOuiv8ppkBcd4c"
-        }
-      ],
-      "duration_ms": 89918,
-      "name": "Ready Set Love",
-      "url": "https://open.spotify.com/track/09lvJaGmgV91BqZVKAcaG2"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Dolce",
         "url": "https://open.spotify.com/album/7GKZUq1a6RjmM2SHRqotMv"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 143011,
       "name": "Dolce",
       "url": "https://open.spotify.com/track/44e6QZtPPxu2OXO1AkEYMf"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Ready Set Love",
+        "url": "https://open.spotify.com/album/739UKKT2LRs2Rj3Jidup25"
+      },
+      "artists": [
+        {
+          "name": "Piotr Miteska",
+          "url": "https://open.spotify.com/artist/76vFPXp4WOuiv8ppkBcd4c"
+        }
+      ],
+      "duration_ms": 89918,
+      "name": "Ready Set Love",
+      "url": "https://open.spotify.com/track/09lvJaGmgV91BqZVKAcaG2"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Compromise",
-        "url": "https://open.spotify.com/album/7r0yb6MxfuZ463XY9Qrvvo"
-      },
-      "artists": [
-        {
-          "name": "Chris Snelling",
-          "url": "https://open.spotify.com/artist/25ZHGX152rBqWlYA9C2iVp"
-        }
-      ],
-      "duration_ms": 151784,
-      "name": "Compromise",
-      "url": "https://open.spotify.com/track/7kymECxyr5OUG87vGN1vB2"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "For the Love of Love",
         "url": "https://open.spotify.com/album/5ZND5oHPinIv1XkKQb4lsX"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 143251,
       "name": "For the Love of Love",
       "url": "https://open.spotify.com/track/7KWhxUrK9ofPTn3ItWceR5"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Compromise",
+        "url": "https://open.spotify.com/album/7r0yb6MxfuZ463XY9Qrvvo"
+      },
+      "artists": [
+        {
+          "name": "Chris Snelling",
+          "url": "https://open.spotify.com/artist/25ZHGX152rBqWlYA9C2iVp"
+        }
+      ],
+      "duration_ms": 151784,
+      "name": "Compromise",
+      "url": "https://open.spotify.com/track/7kymECxyr5OUG87vGN1vB2"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Feels like home",
-        "url": "https://open.spotify.com/album/5dzG0zwWuSsExLMB8DAnXz"
-      },
-      "artists": [
-        {
-          "name": "Temperance Lloyd",
-          "url": "https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq"
-        }
-      ],
-      "duration_ms": 153902,
-      "name": "Feels like home",
-      "url": "https://open.spotify.com/track/4KM5cQbSeD8xIqohdLkfgP"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Seasons Changing",
         "url": "https://open.spotify.com/album/1LzFyb9q0hGiaSp6AlcaQu"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 119080,
       "name": "The Great Plains Hymn",
       "url": "https://open.spotify.com/track/0hdtz1o1UYIvQJmAdqGHL1"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Feels like home",
+        "url": "https://open.spotify.com/album/5dzG0zwWuSsExLMB8DAnXz"
+      },
+      "artists": [
+        {
+          "name": "Temperance Lloyd",
+          "url": "https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq"
+        }
+      ],
+      "duration_ms": 153902,
+      "name": "Feels like home",
+      "url": "https://open.spotify.com/track/4KM5cQbSeD8xIqohdLkfgP"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Amorzinho (Piano Version)",
-        "url": "https://open.spotify.com/album/455AYqMGwATvf8WG5JXfyJ"
-      },
-      "artists": [
-        {
-          "name": "Tip Ferreira",
-          "url": "https://open.spotify.com/artist/3TSlZVPsG99cbGNs8AJAYw"
-        }
-      ],
-      "duration_ms": 216023,
-      "name": "Amorzinho - Piano Version",
-      "url": "https://open.spotify.com/track/0QDTA0d6RMhVZbgTaVHHsp"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "The Ember",
         "url": "https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE"
       },
@@ -1387,18 +1371,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Kardelen",
-        "url": "https://open.spotify.com/album/1JDuMQKNZHgURjACFtv0d8"
+        "name": "Amorzinho (Piano Version)",
+        "url": "https://open.spotify.com/album/455AYqMGwATvf8WG5JXfyJ"
       },
       "artists": [
         {
-          "name": "Josh Kramer",
-          "url": "https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG"
+          "name": "Tip Ferreira",
+          "url": "https://open.spotify.com/artist/3TSlZVPsG99cbGNs8AJAYw"
         }
       ],
-      "duration_ms": 167848,
-      "name": "Kardelen",
-      "url": "https://open.spotify.com/track/3d7Tl14KLOVLGvTnzROcKh"
+      "duration_ms": 216023,
+      "name": "Amorzinho - Piano Version",
+      "url": "https://open.spotify.com/track/0QDTA0d6RMhVZbgTaVHHsp"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1419,6 +1403,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Kardelen",
+        "url": "https://open.spotify.com/album/1JDuMQKNZHgURjACFtv0d8"
+      },
+      "artists": [
+        {
+          "name": "Josh Kramer",
+          "url": "https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG"
+        }
+      ],
+      "duration_ms": 167848,
+      "name": "Kardelen",
+      "url": "https://open.spotify.com/track/3d7Tl14KLOVLGvTnzROcKh"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Airbourne",
         "url": "https://open.spotify.com/album/2NR9OmMNtdfA45E0nsnN4M"
       },
@@ -1431,22 +1431,6 @@
       "duration_ms": 238588,
       "name": "Airbourne",
       "url": "https://open.spotify.com/track/3AZJgN2201Etx46AlOsCYu"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "In Love",
-        "url": "https://open.spotify.com/album/2KlIpwlJnD92CbIQp3CiIm"
-      },
-      "artists": [
-        {
-          "name": "Alec Windt",
-          "url": "https://open.spotify.com/artist/3zz0C9ZwusoYHsr5K8b0HW"
-        }
-      ],
-      "duration_ms": 135261,
-      "name": "Sunlight",
-      "url": "https://open.spotify.com/track/3PFaIXHfT7cLCo1mRGbhZU"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1483,6 +1467,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "In Love",
+        "url": "https://open.spotify.com/album/2KlIpwlJnD92CbIQp3CiIm"
+      },
+      "artists": [
+        {
+          "name": "Alec Windt",
+          "url": "https://open.spotify.com/artist/3zz0C9ZwusoYHsr5K8b0HW"
+        }
+      ],
+      "duration_ms": 135261,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/3PFaIXHfT7cLCo1mRGbhZU"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Isonzo",
         "url": "https://open.spotify.com/album/40JFpO3b72BemcMBf53Ikq"
       },
@@ -1511,22 +1511,6 @@
       "duration_ms": 175025,
       "name": "Apology",
       "url": "https://open.spotify.com/track/4WuRXkwTMiOy0OuGPqOpD7"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Hearts of Us",
-        "url": "https://open.spotify.com/album/4PgiOdtd12ASXZcnG24F1e"
-      },
-      "artists": [
-        {
-          "name": "Niels Wang",
-          "url": "https://open.spotify.com/artist/5CEH6P4vzHUyHI4WGrWaKT"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Hearts of Us",
-      "url": "https://open.spotify.com/track/2aVPRmQnQ95n2lPG1QjXr2"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1563,18 +1547,34 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Branches \u00e9toil\u00e9es",
-        "url": "https://open.spotify.com/album/1EpKF5KgUMncRXA0hC4MJj"
+        "name": "Hearts of Us",
+        "url": "https://open.spotify.com/album/4PgiOdtd12ASXZcnG24F1e"
       },
       "artists": [
         {
-          "name": "Leonard Czernay",
-          "url": "https://open.spotify.com/artist/4432QSnb7mXXq9Mo2hPLRM"
+          "name": "Niels Wang",
+          "url": "https://open.spotify.com/artist/5CEH6P4vzHUyHI4WGrWaKT"
         }
       ],
-      "duration_ms": 166795,
-      "name": "Branches \u00e9toil\u00e9es",
-      "url": "https://open.spotify.com/track/4FoP6Z1UO96TSRdjD4aAQq"
+      "duration_ms": 136000,
+      "name": "Hearts of Us",
+      "url": "https://open.spotify.com/track/2aVPRmQnQ95n2lPG1QjXr2"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Svanninge Bakker",
+        "url": "https://open.spotify.com/album/4fuBNKsqvOsvVZRe0rd0XX"
+      },
+      "artists": [
+        {
+          "name": "Alida S\u00f8rby",
+          "url": "https://open.spotify.com/artist/47AYObaLEm9QiTcfz3u7M9"
+        }
+      ],
+      "duration_ms": 117624,
+      "name": "Svanninge Bakker",
+      "url": "https://open.spotify.com/track/0rC5Pg1C2ig0OxyaM3Gro3"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Svanninge Bakker",
-        "url": "https://open.spotify.com/album/4fuBNKsqvOsvVZRe0rd0XX"
+        "name": "Branches \u00e9toil\u00e9es",
+        "url": "https://open.spotify.com/album/1EpKF5KgUMncRXA0hC4MJj"
       },
       "artists": [
         {
-          "name": "Alida S\u00f8rby",
-          "url": "https://open.spotify.com/artist/47AYObaLEm9QiTcfz3u7M9"
+          "name": "Leonard Czernay",
+          "url": "https://open.spotify.com/artist/4432QSnb7mXXq9Mo2hPLRM"
         }
       ],
-      "duration_ms": 117624,
-      "name": "Svanninge Bakker",
-      "url": "https://open.spotify.com/track/0rC5Pg1C2ig0OxyaM3Gro3"
+      "duration_ms": 166795,
+      "name": "Branches \u00e9toil\u00e9es",
+      "url": "https://open.spotify.com/track/4FoP6Z1UO96TSRdjD4aAQq"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Selected Works",
-        "url": "https://open.spotify.com/album/7jGTiiAlQ3YJtdXYswXm0m"
+        "name": "In a Bar in Buenos Aires",
+        "url": "https://open.spotify.com/album/7rZrLAyFPTSBVLUNkeyOvQ"
       },
       "artists": [
         {
-          "name": "Bruno Bavota",
-          "url": "https://open.spotify.com/artist/22kkuXdiuYd7ISzXU5o7eH"
+          "name": "Franz Gordon",
+          "url": "https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g"
         }
       ],
-      "duration_ms": 177000,
-      "name": "La Luce Nel Cuore",
-      "url": "https://open.spotify.com/track/2PfIOBRbPjXIkJI2cCDxz3"
+      "duration_ms": 166900,
+      "name": "In a Bar in Buenos Aires",
+      "url": "https://open.spotify.com/track/5C4t6U8yLBmG5xbUhJ205E"
     }
   ],
   "unique_name": "Piano Study",

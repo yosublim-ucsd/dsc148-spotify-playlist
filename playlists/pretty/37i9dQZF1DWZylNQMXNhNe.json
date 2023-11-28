@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits e novidades de artistas LGBTQIA+ est\u00e3o aqui. Foto: Lia Clark",
-  "num_followers": 226337,
+  "num_followers": 226372,
   "original_name": "AUGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjAwYWFjYWFmNWNkYTgzZmY5OWFkY2Y4YmE3ZWVhOTA4MGQ1MGZl",
+  "snapshot_id": "MCxhZWQzYzU5NGUxNTcyYzg3ZjYyODZjODI4ODI3NmNmOTk2MWJmMTA3",
   "tracks": [
     {
       "added_at": "2023-11-03 06:24:12",
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-11-03 06:24:12",
       "album": {
-        "name": "A QUEDA",
-        "url": "https://open.spotify.com/album/1nrGJRwyxKMNnGB8Rz1QJR"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "A QUEDA",
-      "url": "https://open.spotify.com/track/2s9BO8c0co0PmgBiUoTT17"
-    },
-    {
-      "added_at": "2023-11-03 06:24:12",
-      "album": {
         "name": "Nasci Pra Vencer / Sou M\u00e1",
         "url": "https://open.spotify.com/album/7ad7erETGKaJg6q5i4bIXb"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 210461,
       "name": "Sou M\u00e1",
       "url": "https://open.spotify.com/track/34H4IXC9nFhmxYQlFm5PzJ"
+    },
+    {
+      "added_at": "2023-11-03 06:24:12",
+      "album": {
+        "name": "A QUEDA",
+        "url": "https://open.spotify.com/album/1nrGJRwyxKMNnGB8Rz1QJR"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "A QUEDA",
+      "url": "https://open.spotify.com/track/2s9BO8c0co0PmgBiUoTT17"
     },
     {
       "added_at": "2023-11-03 06:24:12",
@@ -315,82 +315,26 @@
     {
       "added_at": "2023-11-03 06:24:12",
       "album": {
-        "name": "Aladim",
-        "url": "https://open.spotify.com/album/52Ixv92K027g2pRKJVeoCj"
+        "name": "MODO TURBO",
+        "url": "https://open.spotify.com/album/07PF9SyKuu6hstifHc0nEt"
       },
       "artists": [
         {
-          "name": "Jotta A",
-          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         },
         {
-          "name": "HITMAKER",
-          "url": "https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg"
-        }
-      ],
-      "duration_ms": 145588,
-      "name": "Aladim",
-      "url": "https://open.spotify.com/track/1s1DSGM5SUKUvokcTSXQpB"
-    },
-    {
-      "added_at": "2023-11-03 06:24:12",
-      "album": {
-        "name": "s\u00f3 sei me apaixonar",
-        "url": "https://open.spotify.com/album/1dVHwfsxBLGjENRogLrIo7"
-      },
-      "artists": [
-        {
-          "name": "Bruno Gadiol",
-          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         },
         {
-          "name": "TINN",
-          "url": "https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 147559,
-      "name": "s\u00f3 sei me apaixonar",
-      "url": "https://open.spotify.com/track/2t9aq7casApouXjzTlQUf1"
-    },
-    {
-      "added_at": "2023-11-03 06:24:12",
-      "album": {
-        "name": "Bumbum Check",
-        "url": "https://open.spotify.com/album/6MDj1MOMSs5N34VtAyxzjy"
-      },
-      "artists": [
-        {
-          "name": "Ruxell",
-          "url": "https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg"
-        },
-        {
-          "name": "Thiago Pantale\u00e3o",
-          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
-        },
-        {
-          "name": "VILLA",
-          "url": "https://open.spotify.com/artist/0YBvFbBw6zspOBX3t0PNGD"
-        }
-      ],
-      "duration_ms": 141187,
-      "name": "Bumbum Check",
-      "url": "https://open.spotify.com/track/07q51cMw9IyDfZ7Jk08S6z"
-    },
-    {
-      "added_at": "2023-11-03 06:24:12",
-      "album": {
-        "name": "Gente Crazy",
-        "url": "https://open.spotify.com/album/1BA3CXKhTegfp6WIAIbxGC"
-      },
-      "artists": [
-        {
-          "name": "Grag Queen",
-          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
-        }
-      ],
-      "duration_ms": 151472,
-      "name": "Milkshake",
-      "url": "https://open.spotify.com/track/1S04Xi3itu6MyqEzI0kAE0"
+      "duration_ms": 150259,
+      "name": "MODO TURBO",
+      "url": "https://open.spotify.com/track/0YqTL3nSL36OFdHwHoqCag"
     },
     {
       "added_at": "2023-11-03 06:24:12",
@@ -419,46 +363,66 @@
     {
       "added_at": "2023-11-03 06:24:12",
       "album": {
-        "name": "MODO TURBO",
-        "url": "https://open.spotify.com/album/07PF9SyKuu6hstifHc0nEt"
+        "name": "Aladim",
+        "url": "https://open.spotify.com/album/52Ixv92K027g2pRKJVeoCj"
       },
       "artists": [
         {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
         },
         {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "HITMAKER",
+          "url": "https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg"
         }
       ],
-      "duration_ms": 150259,
-      "name": "MODO TURBO",
-      "url": "https://open.spotify.com/track/0YqTL3nSL36OFdHwHoqCag"
+      "duration_ms": 145588,
+      "name": "Aladim",
+      "url": "https://open.spotify.com/track/1s1DSGM5SUKUvokcTSXQpB"
     },
     {
       "added_at": "2023-11-03 06:24:12",
       "album": {
-        "name": "Parab\u00e9ns",
-        "url": "https://open.spotify.com/album/0rDDD6fyQCUDiwlehEJsnd"
+        "name": "Bumbum Check",
+        "url": "https://open.spotify.com/album/6MDj1MOMSs5N34VtAyxzjy"
       },
       "artists": [
         {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+          "name": "Ruxell",
+          "url": "https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg"
         },
         {
-          "name": "Psirico",
-          "url": "https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv"
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+        },
+        {
+          "name": "VILLA",
+          "url": "https://open.spotify.com/artist/0YBvFbBw6zspOBX3t0PNGD"
         }
       ],
-      "duration_ms": 136844,
-      "name": "Parab\u00e9ns",
-      "url": "https://open.spotify.com/track/6X0XdIcgwfVa9orJnDMQB0"
+      "duration_ms": 141187,
+      "name": "Bumbum Check",
+      "url": "https://open.spotify.com/track/07q51cMw9IyDfZ7Jk08S6z"
+    },
+    {
+      "added_at": "2023-11-03 06:24:12",
+      "album": {
+        "name": "s\u00f3 sei me apaixonar",
+        "url": "https://open.spotify.com/album/1dVHwfsxBLGjENRogLrIo7"
+      },
+      "artists": [
+        {
+          "name": "Bruno Gadiol",
+          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
+        },
+        {
+          "name": "TINN",
+          "url": "https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq"
+        }
+      ],
+      "duration_ms": 147559,
+      "name": "s\u00f3 sei me apaixonar",
+      "url": "https://open.spotify.com/track/2t9aq7casApouXjzTlQUf1"
     },
     {
       "added_at": "2023-11-03 06:24:12",
@@ -487,22 +451,22 @@
     {
       "added_at": "2023-11-03 06:24:12",
       "album": {
-        "name": "Eu Viciei",
-        "url": "https://open.spotify.com/album/4GoAldSUHoIefEbIkY0aXF"
+        "name": "Parab\u00e9ns",
+        "url": "https://open.spotify.com/album/0rDDD6fyQCUDiwlehEJsnd"
       },
       "artists": [
         {
-          "name": "Lia Clark",
-          "url": "https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY"
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         },
         {
-          "name": "POCAH",
-          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+          "name": "Psirico",
+          "url": "https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv"
         }
       ],
-      "duration_ms": 134400,
-      "name": "Eu Viciei",
-      "url": "https://open.spotify.com/track/6eu0ufYZ5k4HkZqnceFsoc"
+      "duration_ms": 136844,
+      "name": "Parab\u00e9ns",
+      "url": "https://open.spotify.com/track/6X0XdIcgwfVa9orJnDMQB0"
     },
     {
       "added_at": "2023-11-03 06:24:12",
@@ -523,58 +487,34 @@
     {
       "added_at": "2023-11-03 06:24:12",
       "album": {
-        "name": "f:)da-se",
-        "url": "https://open.spotify.com/album/3vMYpDQKiuAxtHzj6R5QSY"
+        "name": "LEIL\u00c3O",
+        "url": "https://open.spotify.com/album/6yTozUPMJplNbIMrm1mlBL"
       },
       "artists": [
-        {
-          "name": "Bruno Gadiol",
-          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
-        },
-        {
-          "name": "Grag Queen",
-          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
-        }
-      ],
-      "duration_ms": 163569,
-      "name": "f:)da-se",
-      "url": "https://open.spotify.com/track/2UBAm99YG2MubgLymHqXOl"
-    },
-    {
-      "added_at": "2023-11-03 06:24:12",
-      "album": {
-        "name": "Que Passa",
-        "url": "https://open.spotify.com/album/00VwF5TMBx29hiyHUFIuNR"
-      },
-      "artists": [
-        {
-          "name": "Grag Queen",
-          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
-        }
-      ],
-      "duration_ms": 193861,
-      "name": "Que Passa",
-      "url": "https://open.spotify.com/track/77zAczEvVm3PYlltG4BbtN"
-    },
-    {
-      "added_at": "2023-11-03 06:24:12",
-      "album": {
-        "name": "Noitada",
-        "url": "https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
         {
           "name": "Gloria Groove",
           "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
         }
       ],
-      "duration_ms": 166013,
-      "name": "AMEIANOITE",
-      "url": "https://open.spotify.com/track/0zQhdzUijGmorUhopvtoue"
+      "duration_ms": 187619,
+      "name": "LEIL\u00c3O",
+      "url": "https://open.spotify.com/track/2eFsVynOiCxtI4kvX0XClm"
+    },
+    {
+      "added_at": "2023-11-03 06:24:12",
+      "album": {
+        "name": "Gente Crazy",
+        "url": "https://open.spotify.com/album/1BA3CXKhTegfp6WIAIbxGC"
+      },
+      "artists": [
+        {
+          "name": "Grag Queen",
+          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
+        }
+      ],
+      "duration_ms": 151472,
+      "name": "Milkshake",
+      "url": "https://open.spotify.com/track/1S04Xi3itu6MyqEzI0kAE0"
     },
     {
       "added_at": "2023-11-03 06:24:12",
@@ -595,62 +535,6 @@
       "duration_ms": 176400,
       "name": "VIP *-*",
       "url": "https://open.spotify.com/track/2upubCYkDvATo6ZZwHqrp9"
-    },
-    {
-      "added_at": "2023-11-03 06:24:12",
-      "album": {
-        "name": "LEIL\u00c3O",
-        "url": "https://open.spotify.com/album/6yTozUPMJplNbIMrm1mlBL"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 187619,
-      "name": "LEIL\u00c3O",
-      "url": "https://open.spotify.com/track/2eFsVynOiCxtI4kvX0XClm"
-    },
-    {
-      "added_at": "2023-11-03 06:24:12",
-      "album": {
-        "name": "Calcinha",
-        "url": "https://open.spotify.com/album/4FrEs97Q36QQ1JSr5uGRLW"
-      },
-      "artists": [
-        {
-          "name": "Kika Boom",
-          "url": "https://open.spotify.com/artist/4sdbO8acIeyWG9BqFNVU1P"
-        },
-        {
-          "name": "Kaya Conky",
-          "url": "https://open.spotify.com/artist/2TGtBMeVz0MkIATkn2gHhe"
-        }
-      ],
-      "duration_ms": 178041,
-      "name": "Calcinha",
-      "url": "https://open.spotify.com/track/022FOWLBvvshrVNm6cma9l"
-    },
-    {
-      "added_at": "2023-11-03 06:24:12",
-      "album": {
-        "name": "Traviarcado",
-        "url": "https://open.spotify.com/album/29JRrndgwUbbGDjyEwre8y"
-      },
-      "artists": [
-        {
-          "name": "Bixarte",
-          "url": "https://open.spotify.com/artist/3Fpst9Ng2gdZjD0xfIla3o"
-        },
-        {
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        }
-      ],
-      "duration_ms": 142722,
-      "name": "Pitbull Sem Coleira",
-      "url": "https://open.spotify.com/track/01BOygx1zefZHjpmgkgqIA"
     },
     {
       "added_at": "2023-11-03 06:24:12",
@@ -679,6 +563,138 @@
     {
       "added_at": "2023-11-03 06:24:12",
       "album": {
+        "name": "f:)da-se",
+        "url": "https://open.spotify.com/album/3vMYpDQKiuAxtHzj6R5QSY"
+      },
+      "artists": [
+        {
+          "name": "Bruno Gadiol",
+          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
+        },
+        {
+          "name": "Grag Queen",
+          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
+        }
+      ],
+      "duration_ms": 163569,
+      "name": "f:)da-se",
+      "url": "https://open.spotify.com/track/2UBAm99YG2MubgLymHqXOl"
+    },
+    {
+      "added_at": "2023-11-03 06:24:12",
+      "album": {
+        "name": "Eu Viciei",
+        "url": "https://open.spotify.com/album/4GoAldSUHoIefEbIkY0aXF"
+      },
+      "artists": [
+        {
+          "name": "Lia Clark",
+          "url": "https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY"
+        },
+        {
+          "name": "POCAH",
+          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "Eu Viciei",
+      "url": "https://open.spotify.com/track/6eu0ufYZ5k4HkZqnceFsoc"
+    },
+    {
+      "added_at": "2023-11-03 06:24:12",
+      "album": {
+        "name": "Noitada",
+        "url": "https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 166013,
+      "name": "AMEIANOITE",
+      "url": "https://open.spotify.com/track/0zQhdzUijGmorUhopvtoue"
+    },
+    {
+      "added_at": "2023-11-03 06:24:12",
+      "album": {
+        "name": "Calcinha",
+        "url": "https://open.spotify.com/album/4FrEs97Q36QQ1JSr5uGRLW"
+      },
+      "artists": [
+        {
+          "name": "Kika Boom",
+          "url": "https://open.spotify.com/artist/4sdbO8acIeyWG9BqFNVU1P"
+        },
+        {
+          "name": "Kaya Conky",
+          "url": "https://open.spotify.com/artist/2TGtBMeVz0MkIATkn2gHhe"
+        }
+      ],
+      "duration_ms": 178041,
+      "name": "Calcinha",
+      "url": "https://open.spotify.com/track/022FOWLBvvshrVNm6cma9l"
+    },
+    {
+      "added_at": "2023-11-03 06:24:12",
+      "album": {
+        "name": "Que Passa",
+        "url": "https://open.spotify.com/album/00VwF5TMBx29hiyHUFIuNR"
+      },
+      "artists": [
+        {
+          "name": "Grag Queen",
+          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
+        }
+      ],
+      "duration_ms": 193861,
+      "name": "Que Passa",
+      "url": "https://open.spotify.com/track/77zAczEvVm3PYlltG4BbtN"
+    },
+    {
+      "added_at": "2023-11-03 06:24:12",
+      "album": {
+        "name": "Traviarcado",
+        "url": "https://open.spotify.com/album/29JRrndgwUbbGDjyEwre8y"
+      },
+      "artists": [
+        {
+          "name": "Bixarte",
+          "url": "https://open.spotify.com/artist/3Fpst9Ng2gdZjD0xfIla3o"
+        },
+        {
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "duration_ms": 142722,
+      "name": "Pitbull Sem Coleira",
+      "url": "https://open.spotify.com/track/01BOygx1zefZHjpmgkgqIA"
+    },
+    {
+      "added_at": "2023-11-03 06:24:12",
+      "album": {
+        "name": "BONEKINHA",
+        "url": "https://open.spotify.com/album/21YCUy1thmnxAbcIOsJy8y"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 168887,
+      "name": "BONEKINHA",
+      "url": "https://open.spotify.com/track/79Djb1E319BwnYZ8cEA1mQ"
+    },
+    {
+      "added_at": "2023-11-03 06:24:12",
+      "album": {
         "name": "Dif\u00edcil De Esquecer",
         "url": "https://open.spotify.com/album/4y85puLIpZ71bXlW5O7uKA"
       },
@@ -703,34 +719,22 @@
     {
       "added_at": "2023-11-03 06:24:12",
       "album": {
-        "name": "BONEKINHA",
-        "url": "https://open.spotify.com/album/21YCUy1thmnxAbcIOsJy8y"
+        "name": "CAF\u00c9 DA MANH\u00c3 ;P",
+        "url": "https://open.spotify.com/album/5GLvWI68rAJXKVmGfdV2Eu"
       },
       "artists": [
         {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 168887,
-      "name": "BONEKINHA",
-      "url": "https://open.spotify.com/track/79Djb1E319BwnYZ8cEA1mQ"
-    },
-    {
-      "added_at": "2023-11-03 06:24:12",
-      "album": {
-        "name": "MAU",
-        "url": "https://open.spotify.com/album/2piVGhoJU97oTfBEDeuVa9"
-      },
-      "artists": [
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
         {
-          "name": "Jaloo",
-          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 175102,
-      "name": "MAU",
-      "url": "https://open.spotify.com/track/4yle1g6x5ZvZAGFTPcIM42"
+      "duration_ms": 181173,
+      "name": "CAF\u00c9 DA MANH\u00c3 ;P",
+      "url": "https://open.spotify.com/track/38elgIhd4uAawIUAA0fG99"
     },
     {
       "added_at": "2023-11-03 06:24:12",
@@ -751,22 +755,18 @@
     {
       "added_at": "2023-11-03 06:24:12",
       "album": {
-        "name": "CAF\u00c9 DA MANH\u00c3 ;P",
-        "url": "https://open.spotify.com/album/5GLvWI68rAJXKVmGfdV2Eu"
+        "name": "MAU",
+        "url": "https://open.spotify.com/album/2piVGhoJU97oTfBEDeuVa9"
       },
       "artists": [
         {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+          "name": "Jaloo",
+          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
         }
       ],
-      "duration_ms": 181173,
-      "name": "CAF\u00c9 DA MANH\u00c3 ;P",
-      "url": "https://open.spotify.com/track/38elgIhd4uAawIUAA0fG99"
+      "duration_ms": 175102,
+      "name": "MAU",
+      "url": "https://open.spotify.com/track/4yle1g6x5ZvZAGFTPcIM42"
     },
     {
       "added_at": "2023-11-03 06:24:12",

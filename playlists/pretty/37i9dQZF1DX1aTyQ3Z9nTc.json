@@ -1,12 +1,12 @@
 {
   "description": "That bouncy, groovy, dancey sound.",
-  "num_followers": 130759,
+  "num_followers": 130772,
   "original_name": "Choice Edit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjRiOWFhZGU1Y2M1NTU0MTM2Y2E3MTdlMTU2ZWQ1ZjIzZjcwY2Vj",
+  "snapshot_id": "MCxlZjk3ODY2M2YzZmIwNmZiOTRhMjgxOTVkMmRjM2FkM2JmNWI0NDI1",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -453,6 +453,26 @@
       "url": "https://open.spotify.com/track/13ks10TjWmDaVL4iO8R5dV"
     },
     {
+      "added_at": "2023-04-28 04:00:51",
+      "album": {
+        "name": "Tighten It Up (Barney Bones - DRAMA Edit)",
+        "url": "https://open.spotify.com/album/5H9wy1T7MHeY3JWnPN8Ply"
+      },
+      "artists": [
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        },
+        {
+          "name": "Barney Bones",
+          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
+        }
+      ],
+      "duration_ms": 172884,
+      "name": "Tighten It Up - Barney Bones - DRAMA Edit",
+      "url": "https://open.spotify.com/track/5suNUnahl3rSictF1dBPei"
+    },
+    {
       "added_at": "2023-04-07 21:25:17",
       "album": {
         "name": "4EVA (feat. Pharrell Williams)",
@@ -479,26 +499,6 @@
       "duration_ms": 190373,
       "name": "4EVA (feat. Pharrell Williams)",
       "url": "https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v"
-    },
-    {
-      "added_at": "2023-04-28 04:00:51",
-      "album": {
-        "name": "Tighten It Up (Barney Bones - DRAMA Edit)",
-        "url": "https://open.spotify.com/album/5H9wy1T7MHeY3JWnPN8Ply"
-      },
-      "artists": [
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        },
-        {
-          "name": "Barney Bones",
-          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
-        }
-      ],
-      "duration_ms": 172884,
-      "name": "Tighten It Up - Barney Bones - DRAMA Edit",
-      "url": "https://open.spotify.com/track/5suNUnahl3rSictF1dBPei"
     },
     {
       "added_at": "2022-07-30 02:24:25",
@@ -613,6 +613,26 @@
       "url": "https://open.spotify.com/track/2M9AnJN0YIrkWtKXaUj56Q"
     },
     {
+      "added_at": "2023-10-20 05:37:48",
+      "album": {
+        "name": "Dollar $hort",
+        "url": "https://open.spotify.com/album/5AlNt9tbo2tP4KcHP1xIcG"
+      },
+      "artists": [
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        },
+        {
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        }
+      ],
+      "duration_ms": 195415,
+      "name": "Dollar $hort",
+      "url": "https://open.spotify.com/track/6UYLv08EVHZsmMP4SrgZVw"
+    },
+    {
       "added_at": "2022-05-02 22:05:00",
       "album": {
         "name": "Iced Tea",
@@ -669,58 +689,6 @@
       "url": "https://open.spotify.com/track/7mJuTUAyp8EWh15UEoP8a8"
     },
     {
-      "added_at": "2023-10-20 05:37:48",
-      "album": {
-        "name": "Dollar $hort",
-        "url": "https://open.spotify.com/album/5AlNt9tbo2tP4KcHP1xIcG"
-      },
-      "artists": [
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        },
-        {
-          "name": "Flight Facilities",
-          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
-        }
-      ],
-      "duration_ms": 195415,
-      "name": "Dollar $hort",
-      "url": "https://open.spotify.com/track/6UYLv08EVHZsmMP4SrgZVw"
-    },
-    {
-      "added_at": "2023-10-06 05:19:16",
-      "album": {
-        "name": "BB/ANG3L",
-        "url": "https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 186094,
-      "name": "Tightrope",
-      "url": "https://open.spotify.com/track/2ovaClouYyCligGAi5CzGX"
-    },
-    {
-      "added_at": "2023-10-06 05:19:16",
-      "album": {
-        "name": "Jersey",
-        "url": "https://open.spotify.com/album/38S4qMNg1di0obDNZaq8Ma"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Jersey",
-      "url": "https://open.spotify.com/track/0bzAIaIHmILyOOiP0nQGMj"
-    },
-    {
       "added_at": "2022-05-02 22:05:00",
       "album": {
         "name": "Recap (with VanJess & Channel Tres)",
@@ -743,6 +711,22 @@
       "duration_ms": 177725,
       "name": "Recap (with VanJess & Channel Tres)",
       "url": "https://open.spotify.com/track/2m3RjRXib3un5AEh08k8Fe"
+    },
+    {
+      "added_at": "2023-10-06 05:19:16",
+      "album": {
+        "name": "Jersey",
+        "url": "https://open.spotify.com/album/38S4qMNg1di0obDNZaq8Ma"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Jersey",
+      "url": "https://open.spotify.com/track/0bzAIaIHmILyOOiP0nQGMj"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -775,6 +759,22 @@
       "duration_ms": 157213,
       "name": "WOW!",
       "url": "https://open.spotify.com/track/0F95C4z2gQJ8NigLuO4z4u"
+    },
+    {
+      "added_at": "2023-10-06 05:19:16",
+      "album": {
+        "name": "BB/ANG3L",
+        "url": "https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 186094,
+      "name": "Tightrope",
+      "url": "https://open.spotify.com/track/2ovaClouYyCligGAi5CzGX"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -877,26 +877,6 @@
       "url": "https://open.spotify.com/track/7v3v3pXC6RaeLEhsIcAFrs"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Breathless (with Alina Baraz)",
-        "url": "https://open.spotify.com/album/2uESefirannUYEJxBVc9rQ"
-      },
-      "artists": [
-        {
-          "name": "Austin Millz",
-          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
-        },
-        {
-          "name": "Alina Baraz",
-          "url": "https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Breathless (with Alina Baraz)",
-      "url": "https://open.spotify.com/track/1BaNZOpKVM6OtBuMfpeGYX"
-    },
-    {
       "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Chrome Bull",
@@ -989,6 +969,26 @@
       "url": "https://open.spotify.com/track/5EKjnrnyrw688C3yoMfbwK"
     },
     {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Breathless (with Alina Baraz)",
+        "url": "https://open.spotify.com/album/2uESefirannUYEJxBVc9rQ"
+      },
+      "artists": [
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        },
+        {
+          "name": "Alina Baraz",
+          "url": "https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Breathless (with Alina Baraz)",
+      "url": "https://open.spotify.com/track/1BaNZOpKVM6OtBuMfpeGYX"
+    },
+    {
       "added_at": "2023-08-04 15:55:51",
       "album": {
         "name": "SOBER",
@@ -1055,6 +1055,26 @@
       "duration_ms": 219181,
       "name": "Room (with Adekunle Gold & 2 Chainz)",
       "url": "https://open.spotify.com/track/1A4N6HrQfZQhwlhYW9bGiF"
+    },
+    {
+      "added_at": "2023-10-20 05:37:48",
+      "album": {
+        "name": "Contact (Karen Nyame KG Remix)",
+        "url": "https://open.spotify.com/album/3zMv67VTQVoh9lmEax4giy"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        },
+        {
+          "name": "Karen Nyame KG",
+          "url": "https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz"
+        }
+      ],
+      "duration_ms": 269500,
+      "name": "Contact - Karen Nyame KG Remix",
+      "url": "https://open.spotify.com/track/6iJnmbCDoNWdnDeEFudk1f"
     },
     {
       "added_at": "2023-06-16 06:53:32",
@@ -1185,26 +1205,6 @@
       "url": "https://open.spotify.com/track/1NzjKlRWYEfH3UORKH0zyD"
     },
     {
-      "added_at": "2023-10-20 05:37:48",
-      "album": {
-        "name": "Contact (Karen Nyame KG Remix)",
-        "url": "https://open.spotify.com/album/3zMv67VTQVoh9lmEax4giy"
-      },
-      "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        },
-        {
-          "name": "Karen Nyame KG",
-          "url": "https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz"
-        }
-      ],
-      "duration_ms": 269500,
-      "name": "Contact - Karen Nyame KG Remix",
-      "url": "https://open.spotify.com/track/6iJnmbCDoNWdnDeEFudk1f"
-    },
-    {
       "added_at": "2022-07-29 04:11:59",
       "album": {
         "name": "Boy Alone",
@@ -1257,6 +1257,26 @@
       "url": "https://open.spotify.com/track/1g0k1bFcLKyIrdsdUkF3eW"
     },
     {
+      "added_at": "2022-07-30 02:24:25",
+      "album": {
+        "name": "Interstellar.",
+        "url": "https://open.spotify.com/album/09q6uMoetRAZ4ESnPaEM1F"
+      },
+      "artists": [
+        {
+          "name": "chromonicci",
+          "url": "https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "duration_ms": 235339,
+      "name": "Interstellar.",
+      "url": "https://open.spotify.com/track/4k9BF0WyAx8l8GaB9oJzyV"
+    },
+    {
       "added_at": "2023-04-07 21:25:17",
       "album": {
         "name": "Freeway (with Estelle)",
@@ -1297,26 +1317,6 @@
       "url": "https://open.spotify.com/track/7udNt8rbaYcuYKaAtkA8qn"
     },
     {
-      "added_at": "2022-07-30 02:24:25",
-      "album": {
-        "name": "Interstellar.",
-        "url": "https://open.spotify.com/album/09q6uMoetRAZ4ESnPaEM1F"
-      },
-      "artists": [
-        {
-          "name": "chromonicci",
-          "url": "https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE"
-        },
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        }
-      ],
-      "duration_ms": 235339,
-      "name": "Interstellar.",
-      "url": "https://open.spotify.com/track/4k9BF0WyAx8l8GaB9oJzyV"
-    },
-    {
       "added_at": "2022-08-05 04:16:42",
       "album": {
         "name": "Ce Soir",
@@ -1337,20 +1337,20 @@
       "url": "https://open.spotify.com/track/207wpnoruEx0FoLj2Z8cQj"
     },
     {
-      "added_at": "2023-10-06 05:19:16",
+      "added_at": "2022-07-30 02:24:25",
       "album": {
-        "name": "ON THE LOW",
-        "url": "https://open.spotify.com/album/0Jdg9AhorPRvu4W5lHyz7A"
+        "name": "HYPNOS",
+        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
       },
       "artists": [
         {
-          "name": "Shay Lia",
-          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
         }
       ],
-      "duration_ms": 157251,
-      "name": "ON THE LOW",
-      "url": "https://open.spotify.com/track/1EAYfaIcNMICqXBkpaEdJ5"
+      "duration_ms": 207906,
+      "name": "M.I.A.",
+      "url": "https://open.spotify.com/track/4uVDdOZMZZunYYKHVvm6WZ"
     },
     {
       "added_at": "2023-08-04 15:55:51",
@@ -1369,20 +1369,20 @@
       "url": "https://open.spotify.com/track/5xihG1vCTRe0kh1Pdacscb"
     },
     {
-      "added_at": "2022-07-30 02:24:25",
+      "added_at": "2023-10-06 05:19:16",
       "album": {
-        "name": "HYPNOS",
-        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
+        "name": "ON THE LOW",
+        "url": "https://open.spotify.com/album/0Jdg9AhorPRvu4W5lHyz7A"
       },
       "artists": [
         {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+          "name": "Shay Lia",
+          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
         }
       ],
-      "duration_ms": 207906,
-      "name": "M.I.A.",
-      "url": "https://open.spotify.com/track/4uVDdOZMZZunYYKHVvm6WZ"
+      "duration_ms": 157251,
+      "name": "ON THE LOW",
+      "url": "https://open.spotify.com/track/1EAYfaIcNMICqXBkpaEdJ5"
     },
     {
       "added_at": "2022-09-23 04:08:19",
@@ -1697,26 +1697,6 @@
       "url": "https://open.spotify.com/track/7ebsbZwgXRvssvuleJ3Ucl"
     },
     {
-      "added_at": "2023-10-06 05:19:16",
-      "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/1607XCpNlwbHG2ZY9OwtDl"
-      },
-      "artists": [
-        {
-          "name": "Raquel",
-          "url": "https://open.spotify.com/artist/2WKGwl7U3upSvwbJrBJSla"
-        },
-        {
-          "name": "Kofi",
-          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
-        }
-      ],
-      "duration_ms": 179006,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/1oCwqRH1deWph40WFy7zCB"
-    },
-    {
       "added_at": "2022-08-26 04:23:37",
       "album": {
         "name": "Treat U Good",
@@ -1743,6 +1723,46 @@
       "duration_ms": 217791,
       "name": "Treat U Good",
       "url": "https://open.spotify.com/track/7tqs4OKzl896INyq5af4Qu"
+    },
+    {
+      "added_at": "2023-10-06 05:19:16",
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/1607XCpNlwbHG2ZY9OwtDl"
+      },
+      "artists": [
+        {
+          "name": "Raquel",
+          "url": "https://open.spotify.com/artist/2WKGwl7U3upSvwbJrBJSla"
+        },
+        {
+          "name": "Kofi",
+          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
+        }
+      ],
+      "duration_ms": 179006,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/1oCwqRH1deWph40WFy7zCB"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "All Along (Kaytranada Remix)",
+        "url": "https://open.spotify.com/album/3UtKaTe3ZGpNo0cVdffTCi"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 284606,
+      "name": "All Along (Kaytranada Remix)",
+      "url": "https://open.spotify.com/track/35WIVWDcONu3B64ZcYbPX6"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1821,26 +1841,6 @@
       "url": "https://open.spotify.com/track/25O3Fn9xElhKKK5amnrrje"
     },
     {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "All Along (Kaytranada Remix)",
-        "url": "https://open.spotify.com/album/3UtKaTe3ZGpNo0cVdffTCi"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        }
-      ],
-      "duration_ms": 284606,
-      "name": "All Along (Kaytranada Remix)",
-      "url": "https://open.spotify.com/track/35WIVWDcONu3B64ZcYbPX6"
-    },
-    {
       "added_at": "2022-05-02 22:05:00",
       "album": {
         "name": "Sis. He Wasn't the One",
@@ -1873,22 +1873,6 @@
       "url": "https://open.spotify.com/track/1I0TJSqkMgFHaS9foB6OJ1"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "So Badly",
-        "url": "https://open.spotify.com/album/3v3waqFybLYp6P4iKAmzg9"
-      },
-      "artists": [
-        {
-          "name": "Liv East",
-          "url": "https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7"
-        }
-      ],
-      "duration_ms": 230002,
-      "name": "So Badly",
-      "url": "https://open.spotify.com/track/1kQf4Q7IdIAJYK80DAj6eR"
-    },
-    {
       "added_at": "2023-08-04 15:55:51",
       "album": {
         "name": "Blackbird Returns",
@@ -1911,6 +1895,22 @@
       "duration_ms": 300522,
       "name": "Silver & Gold - Yarni & Liv East Remix",
       "url": "https://open.spotify.com/track/5HfAWcuSOLWGihI0bfpls0"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "So Badly",
+        "url": "https://open.spotify.com/album/3v3waqFybLYp6P4iKAmzg9"
+      },
+      "artists": [
+        {
+          "name": "Liv East",
+          "url": "https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7"
+        }
+      ],
+      "duration_ms": 230002,
+      "name": "So Badly",
+      "url": "https://open.spotify.com/track/1kQf4Q7IdIAJYK80DAj6eR"
     }
   ],
   "unique_name": "Choice Edit",

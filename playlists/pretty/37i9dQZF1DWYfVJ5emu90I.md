@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 
 > Heavy beats for midnight drifting in Tokyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,596 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,612 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,12 +18,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 8 | [ALI BABA](https://open.spotify.com/track/0C11QSo2lLNTIKC5W824VY) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [United Queens](https://open.spotify.com/album/016yxPrHB2gjtuvx6SqGyr) | 2:37 |
 | 9 | [FFNM](https://open.spotify.com/track/3EPKoSpFOUULrkUEQRcrMF) | [Bank.Somsaart](https://open.spotify.com/artist/5sBMNCNuKL52Z5gS066PJT) | [Who ride wit us](https://open.spotify.com/album/1uJQ4jsQqIJb7EaWwhtvA8) | 2:44 |
 | 10 | [X RIOT](https://open.spotify.com/track/5yPK6NNA4nC2ELMrBvnXQC) | [XLARGE](https://open.spotify.com/artist/6J2XZJTbKOXfS2UJKjy3Hv), [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [X RIOT](https://open.spotify.com/album/4qB6NgvgbFxqwxYW56s1xk) | 3:08 |
-| 11 | [MIYAKO](https://open.spotify.com/track/7DukEziTpxGS6gpNZtraut) | [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE), [Michel D.I.O.R](https://open.spotify.com/artist/3X8BQ2HNQgum4qVNISV14p) | [MIYAKO](https://open.spotify.com/album/4RZzvx5ZVkFeXMPh06foLn) | 2:28 |
+| 11 | [Swervin](https://open.spotify.com/track/1qveERsaCbg1nvPfvnPsyt) | [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [Swervin](https://open.spotify.com/album/3lnRrmdoFss71XpNS5j6d9) | 2:51 |
 | 12 | [UNSHAKABLE \- DRIFT](https://open.spotify.com/track/7xWTPOJKvYPpS1w0mqRFQ2) | [D\-SETO](https://open.spotify.com/artist/5elaXaxdLd2cN5x2H7N8YG), [FULLMATIC](https://open.spotify.com/artist/2QQLXRKZTRHWgbzfCz5ZSU) | [UNSHAKABLE \(DRIFT\)](https://open.spotify.com/album/3DMtemZpCuCt4VQmGeNJvC) | 2:31 |
 | 13 | [NIKE DRIP \- REMIX](https://open.spotify.com/track/7g9zIRbdPvfiPrDOlL3RFP) | [Taiyoh](https://open.spotify.com/artist/6hT6jq5757GgRKLuPi2g4h), [Gottz](https://open.spotify.com/artist/4Rd7uX3gR54NvnI8Xmkes4) | [NIKE DRIP \(REMIX\)](https://open.spotify.com/album/2PDJLYDBWmDqtyQMJaO7mF) | 2:30 |
 | 14 | [Get Back](https://open.spotify.com/track/0lxWZTQh1QLGH0mKHfMcip) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [Get Back](https://open.spotify.com/album/5n3LWRLAo23gemhWfTB4Mc) | 3:27 |
 | 15 | [FreeBoiii](https://open.spotify.com/track/4fc1GduRB1LoVpCxcPsBfK) | [Young zetton](https://open.spotify.com/artist/5goD1jyNCWx6AnsSwsvzhS), [Pedro the GodSon](https://open.spotify.com/artist/0BQTXgCijj1OlovJI9x0Jg) | [Zee PACK vol.1.5](https://open.spotify.com/album/7F3KclbfnIcYI0e7b4Slpd) | 2:55 |
-| 16 | [Swervin](https://open.spotify.com/track/1qveERsaCbg1nvPfvnPsyt) | [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [Swervin](https://open.spotify.com/album/3lnRrmdoFss71XpNS5j6d9) | 2:51 |
+| 16 | [MIYAKO](https://open.spotify.com/track/7DukEziTpxGS6gpNZtraut) | [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE), [Michel D.I.O.R](https://open.spotify.com/artist/3X8BQ2HNQgum4qVNISV14p) | [MIYAKO](https://open.spotify.com/album/4RZzvx5ZVkFeXMPh06foLn) | 2:28 |
 | 17 | [Ippai G2](https://open.spotify.com/track/7quDM98kweHmcHrqzdCkIj) | [Link Hood](https://open.spotify.com/artist/7wjf64sDcVNsgTXKKyaxio), [999dobby](https://open.spotify.com/artist/1JUeTjci5VPfOW2myLu8Tc) | [Ippai G2](https://open.spotify.com/album/2rJl8FBwTHAkQ8p0aqIPuo) | 3:12 |
 | 18 | [OKE](https://open.spotify.com/track/6y2q7bLJT6pHcrFzhKEE1Y) | [Maddy Soma](https://open.spotify.com/artist/1wFTlSSnvzNxs7FpbTyEuO) | [Cultural Reset](https://open.spotify.com/album/79AFzidiqcGb2KEmrajhos) | 2:26 |
 | 19 | [Psycho](https://open.spotify.com/track/1MrMCAwN8FKvSKHaDAAoTY) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [OVER KILL](https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3) | [Psycho](https://open.spotify.com/album/3xey9oaCCAC2AEL1mcemo3) | 2:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 49 | [ARIGATO](https://open.spotify.com/track/6vCmFt6aTwiJxEqZ2GRohr) | [Kazuo](https://open.spotify.com/artist/6JN1a5p0aucHtYCLSl3vnY) | [ARIGATO](https://open.spotify.com/album/4WQkEorxDBgURiS5LlZXV2) | 2:36 |
 | 50 | [For Real](https://open.spotify.com/track/0GdDLqCeNprluWECiORtjq) | [T\-STONE](https://open.spotify.com/artist/0xINjQE0NF8VH20g1CKg9D), [Fuji Taito](https://open.spotify.com/artist/2OaVFBtZot8aFcdKYwE39f), [SIMON](https://open.spotify.com/artist/6CcuEcSETRxpybrEt14OSx) | [Type 1 Diabetes](https://open.spotify.com/album/4GpGXeroaWC7vZmvOPvFOA) | 3:17 |
 
-Snapshot ID: `MCwyNWU2OWI5ZTY4NmE2ZjQwODMxZGEzNzdkZGZiOWQ3ODAxMDIxYzA5`
+Snapshot ID: `MCw3ZmVjYWJlZTQxNDJlZDI0ZDM3YjhiYzlhNzRkNzFhYjI1NDE3ODdh`

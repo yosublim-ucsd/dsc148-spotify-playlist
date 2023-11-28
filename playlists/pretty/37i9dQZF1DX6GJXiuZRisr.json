@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1535386,
+  "num_followers": 1535575,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTc2MjA1MmEzNjFlYThiMGRiZmYyNTQ5N2EwMmViZDcyNGVlOTYx",
+  "snapshot_id": "MCwzNzI4YThjMTk3NzdlNjc4YzI5YWNkYTI2OWYxMDY4Y2ZkZjRkMGU4",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -615,6 +615,26 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Genesys",
+        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 245280,
+      "name": "Welcome To The Opera (with Grimes)",
+      "url": "https://open.spotify.com/track/7hV8vZMezoQdSdvsi70Ioa"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Ray Of Solar (Mau P Remix)",
         "url": "https://open.spotify.com/album/70g6yAvShyriEefcuLiXxh"
       },
@@ -663,26 +683,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Genesys",
-        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 245280,
-      "name": "Welcome To The Opera (with Grimes)",
-      "url": "https://open.spotify.com/track/7hV8vZMezoQdSdvsi70Ioa"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Morning Comes",
         "url": "https://open.spotify.com/album/3SdVXBWFxCHxxwsbm8Bs7h"
       },
@@ -723,42 +723,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Over Again",
-        "url": "https://open.spotify.com/album/3yvIAGFouolgRJTItuv3br"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Solardo",
-          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
-        }
-      ],
-      "duration_ms": 159458,
-      "name": "Over Again",
-      "url": "https://open.spotify.com/track/00U3nGjoxrqX04GvjiypUz"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/4dRC0egvzhZSS1eJpVEBH7"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 159047,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/5hbJxniiD9BWis6Nsf7HA8"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Apnea",
         "url": "https://open.spotify.com/album/2P7XyZlFlhCHtXCUp7al5C"
       },
@@ -775,6 +739,26 @@
       "duration_ms": 332146,
       "name": "Beyond Control",
       "url": "https://open.spotify.com/track/5pK2Elt8xOENwe8xAGfASw"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Over Again",
+        "url": "https://open.spotify.com/album/3yvIAGFouolgRJTItuv3br"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        }
+      ],
+      "duration_ms": 159458,
+      "name": "Over Again",
+      "url": "https://open.spotify.com/track/00U3nGjoxrqX04GvjiypUz"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -799,6 +783,38 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Electric Feeling",
+        "url": "https://open.spotify.com/album/4Nu0kuBzS4A8AGQFXRBPN9"
+      },
+      "artists": [
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        }
+      ],
+      "duration_ms": 186239,
+      "name": "Electric Feeling",
+      "url": "https://open.spotify.com/track/6iaFDadGS6EqeyQb0c3QGZ"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/4dRC0egvzhZSS1eJpVEBH7"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 159047,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/5hbJxniiD9BWis6Nsf7HA8"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Consciousness (Eric Prydz Remix)",
         "url": "https://open.spotify.com/album/6U3SBZ80drKvioMtkwEaiu"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 244130,
       "name": "Consciousness - Eric Prydz Remix",
       "url": "https://open.spotify.com/track/1i5XRu1L0x7gIg9UGKqizL"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Electric Feeling",
-        "url": "https://open.spotify.com/album/4Nu0kuBzS4A8AGQFXRBPN9"
-      },
-      "artists": [
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        }
-      ],
-      "duration_ms": 186239,
-      "name": "Electric Feeling",
-      "url": "https://open.spotify.com/track/6iaFDadGS6EqeyQb0c3QGZ"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1147,6 +1147,26 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Slipstream (feat. Julia Church)",
+        "url": "https://open.spotify.com/album/0HpYLxmywUQw8Yg8bCfq5o"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "duration_ms": 252073,
+      "name": "Slipstream (feat. Julia Church)",
+      "url": "https://open.spotify.com/track/64krw31lp3jUOuZHvGtgkB"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "All That Matters (Artbat Remix)",
         "url": "https://open.spotify.com/album/5BRqAXbsa6oxnnLQIiDHai"
       },
@@ -1191,26 +1211,6 @@
       "duration_ms": 188799,
       "name": "Fire With Fire",
       "url": "https://open.spotify.com/track/7fpkRq8mT8uwspimOK6zH5"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Slipstream (feat. Julia Church)",
-        "url": "https://open.spotify.com/album/0HpYLxmywUQw8Yg8bCfq5o"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
-        }
-      ],
-      "duration_ms": 252073,
-      "name": "Slipstream (feat. Julia Church)",
-      "url": "https://open.spotify.com/track/64krw31lp3jUOuZHvGtgkB"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "About Us (feat. EMME)",
-        "url": "https://open.spotify.com/album/5lK1i9qlTSll67PyLqcxrs"
-      },
-      "artists": [
-        {
-          "name": "Le Youth",
-          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
-        },
-        {
-          "name": "EMME",
-          "url": "https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs"
-        }
-      ],
-      "duration_ms": 286520,
-      "name": "About Us (feat. EMME)",
-      "url": "https://open.spotify.com/track/6NitJf2pJZ4ssPTWZ1ZuVv"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Hypnotised / I Can Feel",
         "url": "https://open.spotify.com/album/5QDehFZtgj2xIdHJYd0rE8"
       },
@@ -1375,6 +1355,26 @@
       "duration_ms": 340114,
       "name": "Hypnotised",
       "url": "https://open.spotify.com/track/3o5P6TF0Gop8MiuuuTtttl"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "About Us (feat. EMME)",
+        "url": "https://open.spotify.com/album/5lK1i9qlTSll67PyLqcxrs"
+      },
+      "artists": [
+        {
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+        },
+        {
+          "name": "EMME",
+          "url": "https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs"
+        }
+      ],
+      "duration_ms": 286520,
+      "name": "About Us (feat. EMME)",
+      "url": "https://open.spotify.com/track/6NitJf2pJZ4ssPTWZ1ZuVv"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Holding On",
-        "url": "https://open.spotify.com/album/2kTunMwym8g0oFkljWvXZ0"
-      },
-      "artists": [
-        {
-          "name": "Braxton",
-          "url": "https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4"
-        },
-        {
-          "name": "Lauren L'aimant",
-          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Holding On",
-      "url": "https://open.spotify.com/track/4yqRW7Ovd47DcgfuWXzEGR"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/36G5TgLmtE6At9eSZwij78"
       },
@@ -1463,6 +1443,26 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Holding On",
+        "url": "https://open.spotify.com/album/2kTunMwym8g0oFkljWvXZ0"
+      },
+      "artists": [
+        {
+          "name": "Braxton",
+          "url": "https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4"
+        },
+        {
+          "name": "Lauren L'aimant",
+          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/4yqRW7Ovd47DcgfuWXzEGR"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Growth",
         "url": "https://open.spotify.com/album/4Hzs5eQgd83luaFDwTeSvv"
       },
@@ -1479,22 +1479,6 @@
       "duration_ms": 214578,
       "name": "Just The Kinda Feeling",
       "url": "https://open.spotify.com/track/1EkArBpT5yzmpQmQohGoqV"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "All That I Lost",
-        "url": "https://open.spotify.com/album/7KWLGxKqivBsVpvB1PZyQo"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        }
-      ],
-      "duration_ms": 259838,
-      "name": "All That I Lost",
-      "url": "https://open.spotify.com/track/4iiQHKy1dIbYyRscZuaWTo"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1535,6 +1519,22 @@
       "duration_ms": 207360,
       "name": "Twisted Reality - Edit",
       "url": "https://open.spotify.com/track/22If8nq6QHdvcT2meERlcl"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "All That I Lost",
+        "url": "https://open.spotify.com/album/7KWLGxKqivBsVpvB1PZyQo"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "duration_ms": 259838,
+      "name": "All That I Lost",
+      "url": "https://open.spotify.com/track/4iiQHKy1dIbYyRscZuaWTo"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/0ll3Yf2B4alvZGWeydE3fT"
-      },
-      "artists": [
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        }
-      ],
-      "duration_ms": 147580,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/32E8uwM57X19l3uBOEuTB2"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Age of Love (ARTBAT Rave Mix)",
         "url": "https://open.spotify.com/album/52vmOsY6n8BvRJqkD9Y5LK"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 445440,
       "name": "Age of Love - ARTBAT Rave Mix",
       "url": "https://open.spotify.com/track/7LHqxlhat0OIf3gCOGnOGr"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/0ll3Yf2B4alvZGWeydE3fT"
+      },
+      "artists": [
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 147580,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/32E8uwM57X19l3uBOEuTB2"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2043,26 +2043,26 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Desire (with Sam Smith) [Cedric Gervais Remixes]",
-        "url": "https://open.spotify.com/album/7zxqQLnexgfdIdtfDWDGIx"
+        "name": "Origin",
+        "url": "https://open.spotify.com/album/5Z6mUYSbLGMoRyLq8JAuj1"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
         },
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "Shall Ocin",
+          "url": "https://open.spotify.com/artist/6OP6u8D2Icl5qmrCbyTY7M"
         },
         {
-          "name": "Cedric Gervais",
-          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+          "name": "braev",
+          "url": "https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS"
         }
       ],
-      "duration_ms": 259351,
-      "name": "Desire (with Sam Smith) - Cedric Gervais Festival Mix",
-      "url": "https://open.spotify.com/track/4E03xcSx0FZOfzEeTdcmRc"
+      "duration_ms": 460780,
+      "name": "Origin",
+      "url": "https://open.spotify.com/track/5MmDAFQa8SP9bA5J3f5vYc"
     }
   ],
   "unique_name": "Night Rider",

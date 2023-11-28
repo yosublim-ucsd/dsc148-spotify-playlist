@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 
 > Best acoustic melodies from Bollywood
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,134 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,221 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Samjhawan \(Unplugged by Alia Bhatt\) \[From "Humpty Sharma Ki Dulhania"\]](https://open.spotify.com/track/3TrdGeV5bEpHezExHlsguD) | [Jawad Ahmad](https://open.spotify.com/artist/2gXOOKY8mmJG6iwHrTq9gp), [Shaarib Toshi](https://open.spotify.com/artist/0FJz7XR37hH69traaHLijA), [Alia Bhatt](https://open.spotify.com/artist/1KccfGBzQmZIU6kehTWwIo) | [Samjhawan \(Unplugged by Alia Bhatt\) \[From "Humpty Sharma Ki Dulhania"\]](https://open.spotify.com/album/21bDtSHJ5mVCeNBpIRsToX) | 3:35 |
 | 2 | [Baatein Kuch Ankahee Si \- Unplugged](https://open.spotify.com/track/4yWEl7boNZlIUQ32enHCsi) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Suhail Kaul](https://open.spotify.com/artist/42jgHGbOryNOmlSgJPGljN) | [Life In A Metro \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6leYdBPs1XzfUgpc8xgeSi) | 4:18 |
-| 3 | [Tu Jaane Na \- Unplugged Version](https://open.spotify.com/track/2dEfpsiyIttecwUxkGH2yD) | [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Ajab Prem Ki Ghazab Kahani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/13t8iDyl1vkhPcO3Zl29a9) | 5:43 |
+| 3 | [](https://open.spotify.com/track/2N9fRKRit7MEYO4snHENdh) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1t8PvLnsrrGBkBX85kRlG0) | 0:00 |
 | 4 | [Iktara](https://open.spotify.com/track/3jtKSUiVDowKNBqVQbWaig) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Wake Up Sid \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1fzE65RP7Gyhi8hdOv8eRQ) | 4:13 |
 | 5 | [Shayad \(Film Version\) \- From "Love Aaj Kal"](https://open.spotify.com/track/72s1xrc7E27aATdCMbFMC6) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h) | [Shayad \(Film Version\) \[From "Love Aaj Kal"\]](https://open.spotify.com/album/3IbTgvx8roeABgl7i4d2TV) | 4:05 |
 | 6 | [Kabira](https://open.spotify.com/track/4bD9z9qa4qg9BhryvYWB7c) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW), [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Yeh Jawaani Hai Deewani](https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1) | 3:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 | 49 | [Buniyaad 2.0](https://open.spotify.com/track/45vZrnB268uU9nYHIpk2Wf) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Maja Ma \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6UyrHiVW3kVm5YgDNlF8q9) | 4:11 |
 | 50 | [Tere Vaaste \(From "Zara Hatke Zara Bachke"\) \- Unplugged](https://open.spotify.com/track/3UPesdwW261UnhOg03Coy7) | [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Tere Vaaste \(From "Zara Hatke Zara Bachke"\) \[Unplugged\]](https://open.spotify.com/album/3p6PTmeOHxfxNaqSFpMAVJ) | 0:55 |
 
-Snapshot ID: `MCwyNDQ5YmI1NmU1MTNlYjBjOGU2MjdiZmE1MmY0NzBhMDhhMWE0ODY2`
+Snapshot ID: `MCw3N2M1N2NmZTc5YjNiOGE1MzdjZWY4ODNhYjdjNTYzMDM0Y2Q2MzQz`

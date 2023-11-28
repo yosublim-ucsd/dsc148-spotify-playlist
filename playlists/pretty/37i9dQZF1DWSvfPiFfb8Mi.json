@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 545205,
+  "num_followers": 545271,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODNmMzIwOWI1MjYyMDU4NmQ2NGYxMjk4M2E3OTc4YmU2MzZiM2M1",
+  "snapshot_id": "MCwzNDc3NDY5ZTM1ODdkYmVlZmYzMDUyY2UzM2U3MjZjZWFlMTdkOGVm",
   "tracks": [
     {
       "added_at": "2023-11-24 05:00:00",
@@ -199,38 +199,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Mid Air",
-        "url": "https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE"
-      },
-      "artists": [
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        }
-      ],
-      "duration_ms": 181240,
-      "name": "She's On My Mind",
-      "url": "https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Cult Classics",
-        "url": "https://open.spotify.com/album/3mnKHGcVhqsdZP1IeyLbS6"
-      },
-      "artists": [
-        {
-          "name": "Joy Anonymous",
-          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
-        }
-      ],
-      "duration_ms": 237979,
-      "name": "JOY (Up The Street)",
-      "url": "https://open.spotify.com/track/1d9NF9D6HgLWvGQyPrYE98"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Something On My Mind",
         "url": "https://open.spotify.com/album/6lZn8FBB0UFVyGBhvv5FQ8"
       },
@@ -251,6 +219,38 @@
       "duration_ms": 216774,
       "name": "Something On My Mind",
       "url": "https://open.spotify.com/track/7uEvezzgCoYmqRDloOXUSR"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Cult Classics",
+        "url": "https://open.spotify.com/album/3mnKHGcVhqsdZP1IeyLbS6"
+      },
+      "artists": [
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        }
+      ],
+      "duration_ms": 237979,
+      "name": "JOY (Up The Street)",
+      "url": "https://open.spotify.com/track/1d9NF9D6HgLWvGQyPrYE98"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Mid Air",
+        "url": "https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "duration_ms": 181240,
+      "name": "She's On My Mind",
+      "url": "https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -667,26 +667,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Tension (The Remixes)",
-        "url": "https://open.spotify.com/album/6OCoaXc7qY2Y39b8FMTEb9"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        },
-        {
-          "name": "Chromeo",
-          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
-        }
-      ],
-      "duration_ms": 246533,
-      "name": "Tension (Chromeo Remix)",
-      "url": "https://open.spotify.com/track/1FvLE1PSYgWy9t98gHyoz8"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Money",
         "url": "https://open.spotify.com/album/0WPnWF4ZnJFn6Li3DXcObK"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 214108,
       "name": "Money",
       "url": "https://open.spotify.com/track/3oGcjB8hAH7LVlqHX6fpWn"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Tension (The Remixes)",
+        "url": "https://open.spotify.com/album/6OCoaXc7qY2Y39b8FMTEb9"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        }
+      ],
+      "duration_ms": 246533,
+      "name": "Tension (Chromeo Remix)",
+      "url": "https://open.spotify.com/track/1FvLE1PSYgWy9t98gHyoz8"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Move Me",
-        "url": "https://open.spotify.com/album/2DPuySW5r1sHgWXD7s4UfE"
-      },
-      "artists": [
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 231733,
-      "name": "Move Me",
-      "url": "https://open.spotify.com/track/43tuFT8GAG5mPSktLVcqOY"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Bruises",
         "url": "https://open.spotify.com/album/1xYk6pycBgnLYw4ZXwgldj"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 154687,
       "name": "retro electrique fever",
       "url": "https://open.spotify.com/track/0DRZRfXOWgj2VNJNRRqNnR"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Move Me",
+        "url": "https://open.spotify.com/album/2DPuySW5r1sHgWXD7s4UfE"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 231733,
+      "name": "Move Me",
+      "url": "https://open.spotify.com/track/43tuFT8GAG5mPSktLVcqOY"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "All The Things We Say / Move Me",
-        "url": "https://open.spotify.com/album/2ciY9tUIVAM1rEsr9wjXq4"
-      },
-      "artists": [
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 231105,
-      "name": "All The Things We Say",
-      "url": "https://open.spotify.com/track/1KH8bxeGwgw1IxtzQUx6m5"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Hope For Sale",
         "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 230854,
       "name": "Alive",
       "url": "https://open.spotify.com/track/4FwONW4SVwATjB6NzixQLA"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "All The Things We Say / Move Me",
+        "url": "https://open.spotify.com/album/2ciY9tUIVAM1rEsr9wjXq4"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 231105,
+      "name": "All The Things We Say",
+      "url": "https://open.spotify.com/track/1KH8bxeGwgw1IxtzQUx6m5"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1419,6 +1419,26 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "King Of My Castle (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/0JqppbYzqLzTiB7oNqTKBM"
+      },
+      "artists": [
+        {
+          "name": "Wamdue Project",
+          "url": "https://open.spotify.com/artist/2U33UlGhnPqg3B5xJTn3zm"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 199191,
+      "name": "King of My Castle (Purple Disco Machine Remix) (Edit)",
+      "url": "https://open.spotify.com/track/5oQwwbj26sFjxlL1oT4TJU"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Fool For Love",
         "url": "https://open.spotify.com/album/0EbrQzvIR6vEOgMRaM3FLy"
       },
@@ -1439,26 +1459,6 @@
       "duration_ms": 239220,
       "name": "Fool For Love - Chris Lake Edit",
       "url": "https://open.spotify.com/track/0oNyJ1uKqzEJuse2I1eaSu"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "King Of My Castle (Purple Disco Machine Remix)",
-        "url": "https://open.spotify.com/album/0JqppbYzqLzTiB7oNqTKBM"
-      },
-      "artists": [
-        {
-          "name": "Wamdue Project",
-          "url": "https://open.spotify.com/artist/2U33UlGhnPqg3B5xJTn3zm"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 199191,
-      "name": "King of My Castle (Purple Disco Machine Remix) (Edit)",
-      "url": "https://open.spotify.com/track/5oQwwbj26sFjxlL1oT4TJU"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "A Mixtape by Anish Kumar",
+        "url": "https://open.spotify.com/album/2FKcfRXY5LYv0pALiLRh3g"
+      },
+      "artists": [
+        {
+          "name": "Anish Kumar",
+          "url": "https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8"
+        }
+      ],
+      "duration_ms": 194645,
+      "name": "Little Miss Dynamite",
+      "url": "https://open.spotify.com/track/0UgyZoaRyRZ8NSiAF8RIiz"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Studio 54",
         "url": "https://open.spotify.com/album/5eqNUuxFHel3GEUPeaaFbv"
       },
@@ -1547,38 +1563,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "A Mixtape by Anish Kumar",
-        "url": "https://open.spotify.com/album/2FKcfRXY5LYv0pALiLRh3g"
-      },
-      "artists": [
-        {
-          "name": "Anish Kumar",
-          "url": "https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8"
-        }
-      ],
-      "duration_ms": 194645,
-      "name": "Little Miss Dynamite",
-      "url": "https://open.spotify.com/track/0UgyZoaRyRZ8NSiAF8RIiz"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Emotion EP",
-        "url": "https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 184918,
-      "name": "Emotion",
-      "url": "https://open.spotify.com/track/2CiOFdudXTfZfsd1lZqrhR"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "To the Stars and Back",
         "url": "https://open.spotify.com/album/5aYIRYfTHseCyXvhGGQHF9"
       },
@@ -1599,18 +1583,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Post Tenebras Lux",
-        "url": "https://open.spotify.com/album/62WXhzZbrLVaUrkg5eVqX1"
+        "name": "Emotion EP",
+        "url": "https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA"
       },
       "artists": [
         {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
         }
       ],
-      "duration_ms": 232389,
-      "name": "Post Tenebras Lux",
-      "url": "https://open.spotify.com/track/2kiKyF907YzNOQAwYynCpa"
+      "duration_ms": 184918,
+      "name": "Emotion",
+      "url": "https://open.spotify.com/track/2CiOFdudXTfZfsd1lZqrhR"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1635,6 +1619,22 @@
       "duration_ms": 381639,
       "name": "In This Life - Cassara Remix",
       "url": "https://open.spotify.com/track/2rqlnBqDPUqTOVOhlVh9ew"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Post Tenebras Lux",
+        "url": "https://open.spotify.com/album/62WXhzZbrLVaUrkg5eVqX1"
+      },
+      "artists": [
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "duration_ms": 232389,
+      "name": "Post Tenebras Lux",
+      "url": "https://open.spotify.com/track/2kiKyF907YzNOQAwYynCpa"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1783,6 +1783,26 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "I Discover",
+        "url": "https://open.spotify.com/album/5IxqMn18v2DltVwchiRPpO"
+      },
+      "artists": [
+        {
+          "name": "Felix Da Housecat",
+          "url": "https://open.spotify.com/artist/4rC8J4M4aOqsQSCP4yoyJI"
+        },
+        {
+          "name": "Chris Trucher",
+          "url": "https://open.spotify.com/artist/5qtuQoZI8KbbCx3hD0MQ5D"
+        }
+      ],
+      "duration_ms": 155750,
+      "name": "I Discover",
+      "url": "https://open.spotify.com/track/74oBQ9l3m1Q32dAtQ4zrlb"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Waiting 4 You",
         "url": "https://open.spotify.com/album/6azOujmzDmxwelXemqImSU"
       },
@@ -1811,26 +1831,6 @@
       "duration_ms": 199217,
       "name": "How It Feels",
       "url": "https://open.spotify.com/track/4KZPt9W4RTAIGiEUbiFJTV"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "I Discover",
-        "url": "https://open.spotify.com/album/5IxqMn18v2DltVwchiRPpO"
-      },
-      "artists": [
-        {
-          "name": "Felix Da Housecat",
-          "url": "https://open.spotify.com/artist/4rC8J4M4aOqsQSCP4yoyJI"
-        },
-        {
-          "name": "Chris Trucher",
-          "url": "https://open.spotify.com/artist/5qtuQoZI8KbbCx3hD0MQ5D"
-        }
-      ],
-      "duration_ms": 155750,
-      "name": "I Discover",
-      "url": "https://open.spotify.com/track/74oBQ9l3m1Q32dAtQ4zrlb"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1871,30 +1871,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Forward",
-        "url": "https://open.spotify.com/album/1pDgEvP1r2JI9HZl39clKx"
-      },
-      "artists": [
-        {
-          "name": "p-rallel",
-          "url": "https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD"
-        },
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        },
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        }
-      ],
-      "duration_ms": 197277,
-      "name": "Can't Get Enough (feat. Rachel Chinouriri & Venna)",
-      "url": "https://open.spotify.com/track/7s47cTLl4j1JKawu308yId"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Last Dance",
         "url": "https://open.spotify.com/album/1pGl9quH4KSsfSjPKz9TT9"
       },
@@ -1919,18 +1895,46 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Cabo Player",
-        "url": "https://open.spotify.com/album/0WbQtYINepP73xen4NIEzO"
+        "name": "Forward",
+        "url": "https://open.spotify.com/album/1pDgEvP1r2JI9HZl39clKx"
       },
       "artists": [
         {
-          "name": "Pastel",
-          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
+          "name": "p-rallel",
+          "url": "https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD"
+        },
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        },
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
         }
       ],
-      "duration_ms": 139624,
-      "name": "Cabo Player",
-      "url": "https://open.spotify.com/track/4jUtQcmpSOjxiUWwVejqM6"
+      "duration_ms": 197277,
+      "name": "Can't Get Enough (feat. Rachel Chinouriri & Venna)",
+      "url": "https://open.spotify.com/track/7s47cTLl4j1JKawu308yId"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Take It Back (feat. Davie)",
+        "url": "https://open.spotify.com/album/5NN6jIlYaOhjirtYiGuPNr"
+      },
+      "artists": [
+        {
+          "name": "Mousse T.",
+          "url": "https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6"
+        },
+        {
+          "name": "Davie",
+          "url": "https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06"
+        }
+      ],
+      "duration_ms": 216020,
+      "name": "Take It Back (feat. Davie)",
+      "url": "https://open.spotify.com/track/60ILwSbZxEZ6qgYZMPAq4D"
     }
   ],
   "unique_name": "Poolside Disco",

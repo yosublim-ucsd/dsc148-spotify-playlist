@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#speciaal \#deleven \#monster \#airfryer
 
-286 songs - 14 hr 18 min
+287 songs - 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Lavender Haze \- Acoustic Version](https://open.spotify.com/track/0O2yLXhJtcp69Ll233Q6xS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lavender Haze \(Acoustic Version\)](https://open.spotify.com/album/54F0VYmKpYQok1ydOZhsYC) | 2:54 | 2023-04-05 | 2023-04-19 |
 | [Layla](https://open.spotify.com/track/18tV3JqwwB5Acsa8vP12lp) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Layla](https://open.spotify.com/album/1ba0iVHm6wU4hfVfb8fKhl) | 2:43 | 2023-04-11 | 2023-09-01 |
 | [Leidseplein](https://open.spotify.com/track/0Hi3vw8XJ14gs9zE721zmN) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo) | [Leidseplein](https://open.spotify.com/album/3qrxL8lc4PrftAnuTvxpgC) | 2:41 | 2023-03-24 | 2023-07-11 |
+| [life gets hard](https://open.spotify.com/track/3acsNhkPp9gHSsamIsw0xO) | [iilliaa](https://open.spotify.com/artist/3XDX6PbRtAzovlF2DnoT5F) | [life gets hard](https://open.spotify.com/album/5u6aeRDXBKNwJxKSUcykEj) | 2:05 | 2023-11-27 |  |
 | [Little Things x Gypsy Woman \- L BEATS MASHUP](https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things x Gypsy Woman \(L BEATS MASHUP\)](https://open.spotify.com/album/052c03LAr2euUtLKgvOKae) | 2:11 | 2023-07-15 |  |
 | [Loco Loco \(feat\. Sluwe Ollie\)](https://open.spotify.com/track/78dZXRH9JBXITQsS9Mlnsl) | [Alessio](https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj), [Sluwe Ollie](https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx) | [Loco Loco \(feat\. Sluwe Ollie\)](https://open.spotify.com/album/3v4lZJxJps8UEnZ8UVEIAy) | 2:45 | 2023-10-04 |  |
 | [Look At Us Now \(Honeycomb\)](https://open.spotify.com/track/6xSr2HhAmY096v9vfJrRqv) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [Look At Us Now \(Honeycomb\)](https://open.spotify.com/album/3vNpYNX7g5Mdljl65tKM30) | 5:32 | 2023-03-27 | 2023-05-02 |

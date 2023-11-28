@@ -1,12 +1,12 @@
 {
   "description": "Sons da floresta para inspirar seus dia ou noite.",
-  "num_followers": 9904,
+  "num_followers": 9940,
   "original_name": "Sons da Floresta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDE2ZDk5MGVhODMyNjRjMWMyOWRkNjMzNWNhMDA4ZjVkYWFjYWM5",
+  "snapshot_id": "MCw1YTFiOTgzZDc0ZjU5YTZmNjEyZjY5ZWZiOTRjMjVjYjUwODZmZmIx",
   "tracks": [
     {
       "added_at": "2023-06-19 12:57:37",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-06-19 12:57:37",
       "album": {
-        "name": "Nature Heritage",
-        "url": "https://open.spotify.com/album/3i29jHWl0L3sa276ySSsos"
-      },
-      "artists": [
-        {
-          "name": "INDAYA",
-          "url": "https://open.spotify.com/artist/3UzYsKmyzyiSLGVC7RXlvw"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Forest Therapy",
-      "url": "https://open.spotify.com/track/1o5wI9xAk3n5SVXBbdAEf3"
-    },
-    {
-      "added_at": "2023-06-19 12:57:37",
-      "album": {
         "name": "Rain Sounds",
         "url": "https://open.spotify.com/album/71OA2dK48YdLK22Q2ZKrkL"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 232275,
       "name": "Warm Forest Rain",
       "url": "https://open.spotify.com/track/4pN5YIDWSJ4G3Kpl1oEHDZ"
+    },
+    {
+      "added_at": "2023-06-19 12:57:37",
+      "album": {
+        "name": "Nature Heritage",
+        "url": "https://open.spotify.com/album/3i29jHWl0L3sa276ySSsos"
+      },
+      "artists": [
+        {
+          "name": "INDAYA",
+          "url": "https://open.spotify.com/artist/3UzYsKmyzyiSLGVC7RXlvw"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Forest Therapy",
+      "url": "https://open.spotify.com/track/1o5wI9xAk3n5SVXBbdAEf3"
     },
     {
       "added_at": "2023-06-19 12:57:37",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-06-19 12:57:37",
       "album": {
-        "name": "Nature Living",
-        "url": "https://open.spotify.com/album/7v6f0Qzdn4U2kLXX43D0fW"
-      },
-      "artists": [
-        {
-          "name": "Peter Graham",
-          "url": "https://open.spotify.com/artist/0z6S9Vu5DzgaYlPfa4t9lv"
-        }
-      ],
-      "duration_ms": 143553,
-      "name": "Rain In The Rainforest",
-      "url": "https://open.spotify.com/track/7709cD193A9ASewVfJ849M"
-    },
-    {
-      "added_at": "2023-06-19 12:57:37",
-      "album": {
         "name": "Peaceful Rain and Rivers",
         "url": "https://open.spotify.com/album/3CTMmgxrc6wu8sMjqYx1Oh"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 187277,
       "name": "Peaceful Rain Ambience",
       "url": "https://open.spotify.com/track/6RTdL85sBmsW9pxBQgCzs6"
+    },
+    {
+      "added_at": "2023-06-19 12:57:37",
+      "album": {
+        "name": "Nature Living",
+        "url": "https://open.spotify.com/album/7v6f0Qzdn4U2kLXX43D0fW"
+      },
+      "artists": [
+        {
+          "name": "Peter Graham",
+          "url": "https://open.spotify.com/artist/0z6S9Vu5DzgaYlPfa4t9lv"
+        }
+      ],
+      "duration_ms": 143553,
+      "name": "Rain In The Rainforest",
+      "url": "https://open.spotify.com/track/7709cD193A9ASewVfJ849M"
     },
     {
       "added_at": "2023-06-19 12:57:37",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-06-19 12:57:37",
       "album": {
-        "name": "Fresh Forest",
-        "url": "https://open.spotify.com/album/2HvyUszsRZo8u0f1pca5fm"
-      },
-      "artists": [
-        {
-          "name": "Eskil Hermes",
-          "url": "https://open.spotify.com/artist/4RgayOFOiMm8j5DeeBpXby"
-        }
-      ],
-      "duration_ms": 125573,
-      "name": "Tropical Rainbirds",
-      "url": "https://open.spotify.com/track/18TcUAVl6zWF81ns2ObwdJ"
-    },
-    {
-      "added_at": "2023-06-19 12:57:37",
-      "album": {
         "name": "Forest By Night",
         "url": "https://open.spotify.com/album/2GLxsxoWpW8MOw9O9AAsf9"
       },
@@ -459,18 +443,18 @@
     {
       "added_at": "2023-06-19 12:57:37",
       "album": {
-        "name": "Thunder In Madeira",
-        "url": "https://open.spotify.com/album/3nQCfcDXLZn3S2y8SFX52f"
+        "name": "Fresh Forest",
+        "url": "https://open.spotify.com/album/2HvyUszsRZo8u0f1pca5fm"
       },
       "artists": [
         {
-          "name": "Traveling Sounds",
-          "url": "https://open.spotify.com/artist/1kQGKwpqL4zj2KOYxzjSgn"
+          "name": "Eskil Hermes",
+          "url": "https://open.spotify.com/artist/4RgayOFOiMm8j5DeeBpXby"
         }
       ],
-      "duration_ms": 187750,
-      "name": "Rainy Forest",
-      "url": "https://open.spotify.com/track/5DYpluaA9XthyaTyR1TwwN"
+      "duration_ms": 125573,
+      "name": "Tropical Rainbirds",
+      "url": "https://open.spotify.com/track/18TcUAVl6zWF81ns2ObwdJ"
     },
     {
       "added_at": "2023-06-19 12:57:37",
@@ -487,6 +471,22 @@
       "duration_ms": 232000,
       "name": "Birds And Breeze",
       "url": "https://open.spotify.com/track/5vRvzOHbx40CCMkmSC28fY"
+    },
+    {
+      "added_at": "2023-06-19 12:57:37",
+      "album": {
+        "name": "Thunder In Madeira",
+        "url": "https://open.spotify.com/album/3nQCfcDXLZn3S2y8SFX52f"
+      },
+      "artists": [
+        {
+          "name": "Traveling Sounds",
+          "url": "https://open.spotify.com/artist/1kQGKwpqL4zj2KOYxzjSgn"
+        }
+      ],
+      "duration_ms": 187750,
+      "name": "Rainy Forest",
+      "url": "https://open.spotify.com/track/5DYpluaA9XthyaTyR1TwwN"
     },
     {
       "added_at": "2023-06-19 12:57:37",
@@ -779,34 +779,34 @@
     {
       "added_at": "2023-06-19 12:57:37",
       "album": {
-        "name": "Forest Sounds",
-        "url": "https://open.spotify.com/album/4IGucO2BmKvLu7ynVb6r20"
+        "name": "Nature",
+        "url": "https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ"
       },
       "artists": [
         {
-          "name": "Mother Earth Sounds",
-          "url": "https://open.spotify.com/artist/682dFb5qW5sDv3urY7IEqp"
+          "name": "Fictional Athmosphere",
+          "url": "https://open.spotify.com/artist/0gQq1HrP727iogwRWtHJ5H"
         }
       ],
-      "duration_ms": 258788,
-      "name": "Summer Night",
-      "url": "https://open.spotify.com/track/45c7cAvP0LccTTRP0eLeeC"
+      "duration_ms": 193922,
+      "name": "Rain & The Rainforest",
+      "url": "https://open.spotify.com/track/0i2QIV9Lku6x5zQkN7DZpn"
     },
     {
       "added_at": "2023-06-19 12:57:37",
       "album": {
-        "name": "Relaxing Nature Sounds",
-        "url": "https://open.spotify.com/album/41gv4AWktiPAx0JL5nVqwY"
+        "name": "Nature Vol.1",
+        "url": "https://open.spotify.com/album/0MgM1Kx0bJmPPKTR6Yrikr"
       },
       "artists": [
         {
-          "name": "Lluvia del Bosque",
-          "url": "https://open.spotify.com/artist/0qxiHjDHTVwI9Q1pcU5jxQ"
+          "name": "Tellus Recordings",
+          "url": "https://open.spotify.com/artist/3EwfrJRom0WYp9unSsooUg"
         }
       ],
-      "duration_ms": 250977,
-      "name": "Sweet Forest Sound",
-      "url": "https://open.spotify.com/track/1uSdLhZVfPEKvYORqHJdgv"
+      "duration_ms": 214417,
+      "name": "Tropical Forest at Noon",
+      "url": "https://open.spotify.com/track/2N1ysOGiuiCwOAoDwqjWtu"
     }
   ],
   "unique_name": "Sons da Floresta",

@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 27278,
+  "num_followers": 27331,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOWQ5MWJhZmQ3ZDkxNWY1MzNjOTFjMzllOTMyNGY1MzIxOTY3ZWU4",
+  "snapshot_id": "MCxiZWYyMDQ1MmIyNzNkMTZjYjExYzQwNzI3YzI2YjIxMDJmNDNjMWRl",
   "tracks": [
     {
       "added_at": "2022-03-18 05:00:00",
@@ -111,34 +111,6 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "40... y Contando (En Vivo Desde Puerto Rico)",
-        "url": "https://open.spotify.com/album/1oftR2h20tzZjMEiesBPJp"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        },
-        {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
-        },
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        },
-        {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
-        }
-      ],
-      "duration_ms": 468653,
-      "name": "Vivir Sin Ella (feat. Tito Nieves, Luis Enrique & Eddie Santiago) - En Vivo desde Puerto Rico",
-      "url": "https://open.spotify.com/track/6AahARlIuyeOb4cyK3AjHe"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
         "name": "Sergio George Presents Salsa Giants (Live)",
         "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
       },
@@ -151,26 +123,6 @@
       "duration_ms": 307826,
       "name": "Fabricando Fantas\u00edas - Live Version",
       "url": "https://open.spotify.com/track/6hDvVWalpu5r2EF3jft6ul"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "20 A\u00f1os (La Historia) [En Vivo]",
-        "url": "https://open.spotify.com/album/7BEr7vxhhJ3YTkIPnz4HLx"
-      },
-      "artists": [
-        {
-          "name": "Porfi Baloa",
-          "url": "https://open.spotify.com/artist/2SYIF2tMAgLcjtTTeCfjg3"
-        },
-        {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
-        }
-      ],
-      "duration_ms": 272214,
-      "name": "Clase Social - En Vivo",
-      "url": "https://open.spotify.com/track/44PxgFKSfEkaeDfT716Y7y"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -191,18 +143,22 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Un Legado Musical - Lo Nuevo y Lo Mejor",
-        "url": "https://open.spotify.com/album/0VVjPqvFy9Nw816QCFNSbe"
+        "name": "20 A\u00f1os (La Historia) [En Vivo]",
+        "url": "https://open.spotify.com/album/7BEr7vxhhJ3YTkIPnz4HLx"
       },
       "artists": [
         {
-          "name": "Tito Gomez",
-          "url": "https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2"
+          "name": "Porfi Baloa",
+          "url": "https://open.spotify.com/artist/2SYIF2tMAgLcjtTTeCfjg3"
+        },
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
         }
       ],
-      "duration_ms": 322200,
-      "name": "Nuestro Sue\u00f1o",
-      "url": "https://open.spotify.com/track/7aXsYQkDCl9aWaTmwR5rrd"
+      "duration_ms": 272214,
+      "name": "Clase Social - En Vivo",
+      "url": "https://open.spotify.com/track/44PxgFKSfEkaeDfT716Y7y"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -243,6 +199,66 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
+        "name": "40... y Contando (En Vivo Desde Puerto Rico)",
+        "url": "https://open.spotify.com/album/1oftR2h20tzZjMEiesBPJp"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        },
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        },
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        },
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "duration_ms": 468653,
+      "name": "Vivir Sin Ella (feat. Tito Nieves, Luis Enrique & Eddie Santiago) - En Vivo desde Puerto Rico",
+      "url": "https://open.spotify.com/track/6AahARlIuyeOb4cyK3AjHe"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Un Legado Musical - Lo Nuevo y Lo Mejor",
+        "url": "https://open.spotify.com/album/0VVjPqvFy9Nw816QCFNSbe"
+      },
+      "artists": [
+        {
+          "name": "Tito Gomez",
+          "url": "https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2"
+        }
+      ],
+      "duration_ms": 322200,
+      "name": "Nuestro Sue\u00f1o",
+      "url": "https://open.spotify.com/track/7aXsYQkDCl9aWaTmwR5rrd"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "En Concierto",
+        "url": "https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b"
+      },
+      "artists": [
+        {
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+        }
+      ],
+      "duration_ms": 449640,
+      "name": "Aparentemente - En Vivo",
+      "url": "https://open.spotify.com/track/07gAN8AX9sxHolRg9MtFqW"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
         "name": "Lo Mejor de Alberto Barros, Vol. 2",
         "url": "https://open.spotify.com/album/6VdyZL32AcIh6cpeZNJOuQ"
       },
@@ -264,22 +280,6 @@
       },
       "artists": [
         {
-          "name": "Orquesta De La Luz",
-          "url": "https://open.spotify.com/artist/4UHqyF418ynCEjB7fdRhLm"
-        }
-      ],
-      "duration_ms": 352853,
-      "name": "Salsa Caliente del Jap\u00f3n - Live Version",
-      "url": "https://open.spotify.com/track/5p7HPyHbMdOV7ytBzS9J2r"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Sergio George Presents Salsa Giants (Live)",
-        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
-      },
-      "artists": [
-        {
           "name": "Tito Nieves",
           "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
         }
@@ -291,18 +291,18 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "En Vivo Desde El Carnegie Hall",
-        "url": "https://open.spotify.com/album/3ASsv46z8jp15gwRTOjy22"
+        "name": "Sergio George Presents Salsa Giants (Live)",
+        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
       },
       "artists": [
         {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+          "name": "Orquesta De La Luz",
+          "url": "https://open.spotify.com/artist/4UHqyF418ynCEjB7fdRhLm"
         }
       ],
-      "duration_ms": 446333,
-      "name": "Amor M\u00edo No Te Vayas - En Vivo Desde El Carnegie Hall Version",
-      "url": "https://open.spotify.com/track/4d6AEuczMXLXDIbUYevHSp"
+      "duration_ms": 352853,
+      "name": "Salsa Caliente del Jap\u00f3n - Live Version",
+      "url": "https://open.spotify.com/track/5p7HPyHbMdOV7ytBzS9J2r"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
         }
       ],
-      "duration_ms": 449640,
-      "name": "Aparentemente - En Vivo",
-      "url": "https://open.spotify.com/track/07gAN8AX9sxHolRg9MtFqW"
+      "duration_ms": 420040,
+      "name": "Lo Mio Es Amor - En Vivo",
+      "url": "https://open.spotify.com/track/4jaWSPnRJLBpE8G2Ug8nUJ"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -355,6 +355,22 @@
       "duration_ms": 712920,
       "name": "Bemba Color\u00e1 - Live",
       "url": "https://open.spotify.com/track/1qROMoGOaag7LrXhukbDRZ"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "En Vivo Desde El Carnegie Hall",
+        "url": "https://open.spotify.com/album/3ASsv46z8jp15gwRTOjy22"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 446333,
+      "name": "Amor M\u00edo No Te Vayas - En Vivo Desde El Carnegie Hall Version",
+      "url": "https://open.spotify.com/track/4d6AEuczMXLXDIbUYevHSp"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -407,22 +423,6 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "En Concierto",
-        "url": "https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b"
-      },
-      "artists": [
-        {
-          "name": "Tony Vega",
-          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
-        }
-      ],
-      "duration_ms": 420040,
-      "name": "Lo Mio Es Amor - En Vivo",
-      "url": "https://open.spotify.com/track/4jaWSPnRJLBpE8G2Ug8nUJ"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ"
       },
@@ -439,22 +439,18 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "40... y Contando (En Vivo Desde Puerto Rico)",
-        "url": "https://open.spotify.com/album/1oftR2h20tzZjMEiesBPJp"
+        "name": "En Concierto",
+        "url": "https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b"
       },
       "artists": [
         {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        },
-        {
-          "name": "Vico C",
-          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
         }
       ],
-      "duration_ms": 500946,
-      "name": "Perd\u00f3name / Lo Grande Que Es Perdonar - Medley (feat. Vico C) - En Vivo desde Puerto Rico",
-      "url": "https://open.spotify.com/track/4fM5OkcMCkIsJTTQC0OgTo"
+      "duration_ms": 296253,
+      "name": "Ella Es - En Vivo",
+      "url": "https://open.spotify.com/track/718X6sjlHdmOzdTfJv4tUc"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -471,6 +467,26 @@
       "duration_ms": 364626,
       "name": "No Podr\u00e1s Escapar de M\u00ed - En Vivo",
       "url": "https://open.spotify.com/track/7HJL1P3DPHYYtR0wI7X2BK"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Live At The Cheetah, Vol. 1",
+        "url": "https://open.spotify.com/album/1XfrZU7zjQT9obvRbk1x0e"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "Cheo Feliciano",
+          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
+        }
+      ],
+      "duration_ms": 435640,
+      "name": "Anacaona - Live",
+      "url": "https://open.spotify.com/track/0aiInkmMYSIizbx4YIxHHP"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -507,22 +523,22 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Live At The Cheetah, Vol. 1",
-        "url": "https://open.spotify.com/album/1XfrZU7zjQT9obvRbk1x0e"
+        "name": "40... y Contando (En Vivo Desde Puerto Rico)",
+        "url": "https://open.spotify.com/album/1oftR2h20tzZjMEiesBPJp"
       },
       "artists": [
         {
-          "name": "Fania All Stars",
-          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
         },
         {
-          "name": "Cheo Feliciano",
-          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
+          "name": "Vico C",
+          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
         }
       ],
-      "duration_ms": 435640,
-      "name": "Anacaona - Live",
-      "url": "https://open.spotify.com/track/0aiInkmMYSIizbx4YIxHHP"
+      "duration_ms": 500946,
+      "name": "Perd\u00f3name / Lo Grande Que Es Perdonar - Medley (feat. Vico C) - En Vivo desde Puerto Rico",
+      "url": "https://open.spotify.com/track/4fM5OkcMCkIsJTTQC0OgTo"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -559,70 +575,18 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Lo Mejor De Celia Cruz & Oscar D\u00b4Le\u00f3n En Concierto",
-        "url": "https://open.spotify.com/album/7bLj1JszeG6xZ2iLmc9vpX"
+        "name": "Lo Nuevo Y Lo Mejor (En Vivo)",
+        "url": "https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy"
       },
       "artists": [
         {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
-        },
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
         }
       ],
-      "duration_ms": 273053,
-      "name": "Llorar\u00e1s - Live",
-      "url": "https://open.spotify.com/track/4WlDisUidB4F0KxxoIjODp"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "En Concierto",
-        "url": "https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b"
-      },
-      "artists": [
-        {
-          "name": "Tony Vega",
-          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
-        }
-      ],
-      "duration_ms": 296253,
-      "name": "Ella Es - En Vivo",
-      "url": "https://open.spotify.com/track/718X6sjlHdmOzdTfJv4tUc"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 483480,
-      "name": "Peri\u00f3dico De Ayer - Live",
-      "url": "https://open.spotify.com/track/7BkcskeOLGTge1UAVLV5Ni"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "40... y Contando (En Vivo Desde Puerto Rico)",
-        "url": "https://open.spotify.com/album/1oftR2h20tzZjMEiesBPJp"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 196480,
-      "name": "Conciencia - En Vivo desde Puerto Rico",
-      "url": "https://open.spotify.com/track/2kTplkLCuMb9wWkyQmo17s"
+      "duration_ms": 424066,
+      "name": "Quiero Morir en Tu Piel - En Vivo",
+      "url": "https://open.spotify.com/track/0qAjOf02CtFmBJM168q9BV"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -643,18 +607,38 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Lo Nuevo Y Lo Mejor (En Vivo)",
-        "url": "https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy"
+        "name": "Lo Mejor De Celia Cruz & Oscar D\u00b4Le\u00f3n En Concierto",
+        "url": "https://open.spotify.com/album/7bLj1JszeG6xZ2iLmc9vpX"
       },
       "artists": [
         {
-          "name": "Willie Gonzalez",
-          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        },
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
         }
       ],
-      "duration_ms": 424066,
-      "name": "Quiero Morir en Tu Piel - En Vivo",
-      "url": "https://open.spotify.com/track/0qAjOf02CtFmBJM168q9BV"
+      "duration_ms": 273053,
+      "name": "Llorar\u00e1s - Live",
+      "url": "https://open.spotify.com/track/4WlDisUidB4F0KxxoIjODp"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 483480,
+      "name": "Peri\u00f3dico De Ayer - Live",
+      "url": "https://open.spotify.com/track/7BkcskeOLGTge1UAVLV5Ni"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -683,6 +667,38 @@
       "duration_ms": 320000,
       "name": "Sabor Sabor - Live",
       "url": "https://open.spotify.com/track/5VTPcuOVHyIPxh0T6SxoBJ"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Lo Nuevo Y Lo Mejor (En Vivo)",
+        "url": "https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy"
+      },
+      "artists": [
+        {
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+        }
+      ],
+      "duration_ms": 392933,
+      "name": "Hazme Olvidarla - En Vivo",
+      "url": "https://open.spotify.com/track/5SgtDlep0eOfVwcdyf5Heh"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "40... y Contando (En Vivo Desde Puerto Rico)",
+        "url": "https://open.spotify.com/album/1oftR2h20tzZjMEiesBPJp"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 196480,
+      "name": "Conciencia - En Vivo desde Puerto Rico",
+      "url": "https://open.spotify.com/track/2kTplkLCuMb9wWkyQmo17s"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -735,22 +751,6 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 177720,
-      "name": "El Cantante - Live",
-      "url": "https://open.spotify.com/track/1xKIjS9jwPmMBCa40RvoS1"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
         "name": "Sergio George Presents Salsa Giants (Live)",
         "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
       },
@@ -763,6 +763,22 @@
       "duration_ms": 352480,
       "name": "Medias Negras - Live Version",
       "url": "https://open.spotify.com/track/51QsdN4xBmkLhtqNi0J40l"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Lo Nuevo Y Lo Mejor (En Vivo)",
+        "url": "https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy"
+      },
+      "artists": [
+        {
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+        }
+      ],
+      "duration_ms": 474894,
+      "name": "No Es Casualidad - En Vivo",
+      "url": "https://open.spotify.com/track/0enkJVDmJcro5LDyC82p5X"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -783,6 +799,22 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 177720,
+      "name": "El Cantante - Live",
+      "url": "https://open.spotify.com/track/1xKIjS9jwPmMBCa40RvoS1"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
         "name": "Todos Vuelven Live, Vol. 2",
         "url": "https://open.spotify.com/album/5vuelvutC4GRdYdO4Ka3Bq"
       },
@@ -799,22 +831,6 @@
       "duration_ms": 489853,
       "name": "Pedro Navaja - Live",
       "url": "https://open.spotify.com/track/7lStMGLa4YPstX9AedQSl2"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Lo Nuevo Y Lo Mejor (En Vivo)",
-        "url": "https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy"
-      },
-      "artists": [
-        {
-          "name": "Willie Gonzalez",
-          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
-        }
-      ],
-      "duration_ms": 392933,
-      "name": "Hazme Olvidarla - En Vivo",
-      "url": "https://open.spotify.com/track/5SgtDlep0eOfVwcdyf5Heh"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -855,34 +871,18 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Live At Madison Square Garden",
-        "url": "https://open.spotify.com/album/73lQS6xaOyVGEoVCmcDWcQ"
+        "name": "Va por Ti, Frankie (Concierto Homenaje a Frankie Ruiz)",
+        "url": "https://open.spotify.com/album/3NpPEaMbkXan11KO2FB43Q"
       },
       "artists": [
         {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+          "name": "Jos\u00e9 Alberto \"El Canario\"",
+          "url": "https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz"
         }
       ],
-      "duration_ms": 275960,
-      "name": "Tengo Ganas - Live at MSG Version",
-      "url": "https://open.spotify.com/track/2oPozWeqp6qGl3mWK2I62C"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "A Night Of Salsa",
-        "url": "https://open.spotify.com/album/4AufrsOjkE4COw6Innem8h"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 401466,
-      "name": "La Vida Es Un Carnaval - En Vivo Desde Hartford, Connecticut/1999",
-      "url": "https://open.spotify.com/track/5BEXV2dGkQA2BPIYtGgntT"
+      "duration_ms": 500520,
+      "name": "Desnudate Mujer",
+      "url": "https://open.spotify.com/track/2aiTdsCbRlcDmSPzToIRIA"
     }
   ],
   "unique_name": "Vivo de Salsa",

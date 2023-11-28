@@ -1,12 +1,12 @@
 {
   "description": "Silky sounds for the sheets.",
-  "num_followers": 2068076,
+  "num_followers": 2067990,
   "original_name": "Silk Sheets",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYWM0OTI2MDEzYTIyMzNkYmY1ZmE5ZjRmNzQxZTA3MjE3ZTQ1ODE4",
+  "snapshot_id": "MCxkZjc4MWY2NWMxNzMwMjhiNDUxOGJlM2Q5MmVjMWM5MTIwNWEzM2Vj",
   "tracks": [
     {
       "added_at": "2023-02-02 23:24:59",
@@ -121,6 +121,22 @@
       "url": "https://open.spotify.com/track/2pg2TiYo9Rb8KeB5JjP7jS"
     },
     {
+      "added_at": "2022-08-17 16:54:21",
+      "album": {
+        "name": "Indigo (Extended)",
+        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 184613,
+      "name": "Under The Influence",
+      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
+    },
+    {
       "added_at": "2022-10-03 07:01:26",
       "album": {
         "name": "4275 (Bonus Version)",
@@ -169,20 +185,20 @@
       "url": "https://open.spotify.com/track/4frLb7nWtsz2ymBE6k2GRP"
     },
     {
-      "added_at": "2022-08-17 16:54:21",
+      "added_at": "2022-10-03 07:01:26",
       "album": {
-        "name": "Indigo (Extended)",
-        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
+        "name": "Fuck The World",
+        "url": "https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
         }
       ],
-      "duration_ms": 184613,
-      "name": "Under The Influence",
-      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
+      "duration_ms": 180303,
+      "name": "Rehab (Winter In Paris)",
+      "url": "https://open.spotify.com/track/0zWbYGQq5O1KQd0iqzgjP6"
     },
     {
       "added_at": "2022-03-25 04:00:00",
@@ -231,22 +247,6 @@
       "duration_ms": 127807,
       "name": "All To Me",
       "url": "https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k"
-    },
-    {
-      "added_at": "2022-10-03 07:01:26",
-      "album": {
-        "name": "Fuck The World",
-        "url": "https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 180303,
-      "name": "Rehab (Winter In Paris)",
-      "url": "https://open.spotify.com/track/0zWbYGQq5O1KQd0iqzgjP6"
     },
     {
       "added_at": "2022-10-03 07:01:26",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-10-03 07:01:26",
       "album": {
-        "name": "PARTYPACK",
-        "url": "https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 174306,
-      "name": "PERSIAN RUGS",
-      "url": "https://open.spotify.com/track/2SWbnWSe1onmbllRAU46uo"
-    },
-    {
-      "added_at": "2022-10-03 07:01:26",
-      "album": {
         "name": "Garden Kisses",
         "url": "https://open.spotify.com/album/0vlxPQi5fE04iM7FX4Jb49"
       },
@@ -407,6 +391,38 @@
       "duration_ms": 195405,
       "name": "Garden Kisses",
       "url": "https://open.spotify.com/track/62d6YXEYxmMWAuLpw1EysL"
+    },
+    {
+      "added_at": "2022-10-03 07:01:26",
+      "album": {
+        "name": "Ctrl (Deluxe)",
+        "url": "https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 242823,
+      "name": "2AM",
+      "url": "https://open.spotify.com/track/3vZGtceCbJVh5aDT4XhE0p"
+    },
+    {
+      "added_at": "2022-10-03 07:01:26",
+      "album": {
+        "name": "PARTYPACK",
+        "url": "https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 174306,
+      "name": "PERSIAN RUGS",
+      "url": "https://open.spotify.com/track/2SWbnWSe1onmbllRAU46uo"
     },
     {
       "added_at": "2022-12-02 10:44:11",
@@ -427,22 +443,6 @@
       "duration_ms": 187906,
       "name": "2 Sugar (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw"
-    },
-    {
-      "added_at": "2022-10-03 07:01:26",
-      "album": {
-        "name": "Ctrl (Deluxe)",
-        "url": "https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 242823,
-      "name": "2AM",
-      "url": "https://open.spotify.com/track/3vZGtceCbJVh5aDT4XhE0p"
     },
     {
       "added_at": "2023-02-12 15:52:33",
@@ -493,6 +493,22 @@
       "url": "https://open.spotify.com/track/1trZGMI2CGyVT44STkpCoN"
     },
     {
+      "added_at": "2022-10-03 07:01:26",
+      "album": {
+        "name": "H.E.R.",
+        "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 200133,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/3tZs3nVjySLbL320lP4mvs"
+    },
+    {
       "added_at": "2023-02-10 08:06:49",
       "album": {
         "name": "CUFF IT",
@@ -539,22 +555,6 @@
     {
       "added_at": "2022-10-03 07:01:26",
       "album": {
-        "name": "H.E.R.",
-        "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 200133,
-      "name": "Focus",
-      "url": "https://open.spotify.com/track/3tZs3nVjySLbL320lP4mvs"
-    },
-    {
-      "added_at": "2022-10-03 07:01:26",
-      "album": {
         "name": "Last Day Of Summer",
         "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
       },
@@ -567,6 +567,22 @@
       "duration_ms": 203240,
       "name": "CPR",
       "url": "https://open.spotify.com/track/5Tp4UJvnsF4Zd05k0zXUte"
+    },
+    {
+      "added_at": "2023-02-12 15:52:33",
+      "album": {
+        "name": "Release Some Tension",
+        "url": "https://open.spotify.com/album/2bHrxJQDBQdvow7vktRVUj"
+      },
+      "artists": [
+        {
+          "name": "SWV",
+          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
+        }
+      ],
+      "duration_ms": 264506,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/4G1qRhOk1YY0kewtMaCrMC"
     },
     {
       "added_at": "2022-10-03 07:01:26",
@@ -587,22 +603,6 @@
       "duration_ms": 222600,
       "name": "On The Way (feat. Mila J)",
       "url": "https://open.spotify.com/track/423NhOTzoqgeaIJbrUzSoo"
-    },
-    {
-      "added_at": "2023-02-12 15:52:33",
-      "album": {
-        "name": "Release Some Tension",
-        "url": "https://open.spotify.com/album/2bHrxJQDBQdvow7vktRVUj"
-      },
-      "artists": [
-        {
-          "name": "SWV",
-          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
-        }
-      ],
-      "duration_ms": 264506,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/4G1qRhOk1YY0kewtMaCrMC"
     },
     {
       "added_at": "2023-02-03 17:30:27",
@@ -655,6 +655,26 @@
     {
       "added_at": "2023-02-12 15:52:33",
       "album": {
+        "name": "Ooh Nah Nah (feat. Masego)",
+        "url": "https://open.spotify.com/album/4RmDIqdJ2mgmOuEvtnu8fl"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Ooh Nah Nah (feat. Masego)",
+      "url": "https://open.spotify.com/track/6NblUCwJXYkQlQ6LhcmSlQ"
+    },
+    {
+      "added_at": "2023-02-12 15:52:33",
+      "album": {
         "name": "Comfortable",
         "url": "https://open.spotify.com/album/04w2ildzatiXBlYq4AwIOm"
       },
@@ -683,26 +703,6 @@
       "duration_ms": 262480,
       "name": "living room flow - Bonus",
       "url": "https://open.spotify.com/track/4Li8dc3ucCesQJMKErU5zM"
-    },
-    {
-      "added_at": "2023-02-12 15:52:33",
-      "album": {
-        "name": "Ooh Nah Nah (feat. Masego)",
-        "url": "https://open.spotify.com/album/4RmDIqdJ2mgmOuEvtnu8fl"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        },
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Ooh Nah Nah (feat. Masego)",
-      "url": "https://open.spotify.com/track/6NblUCwJXYkQlQ6LhcmSlQ"
     },
     {
       "added_at": "2022-10-03 07:01:26",
@@ -881,42 +881,6 @@
       "url": "https://open.spotify.com/track/0QUbiLQySWPq5Lh3f7A9bN"
     },
     {
-      "added_at": "2022-10-03 07:01:26",
-      "album": {
-        "name": "Over It",
-        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 233493,
-      "name": "Nobody Else",
-      "url": "https://open.spotify.com/track/6eipQrmTw1N3nUfgLlEa2R"
-    },
-    {
-      "added_at": "2022-10-03 07:01:26",
-      "album": {
-        "name": "Back of My Mind",
-        "url": "https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        },
-        {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
-        }
-      ],
-      "duration_ms": 157293,
-      "name": "Paradise (feat. Yung Bleu)",
-      "url": "https://open.spotify.com/track/2xc1rXfo3Yn20n7wIzmjeu"
-    },
-    {
       "added_at": "2023-10-20 05:22:09",
       "album": {
         "name": "Phases III - EP",
@@ -931,6 +895,22 @@
       "duration_ms": 160581,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/2ZqOCKuFkKhAZDRYI90EHb"
+    },
+    {
+      "added_at": "2022-10-03 07:01:26",
+      "album": {
+        "name": "Over It",
+        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 233493,
+      "name": "Nobody Else",
+      "url": "https://open.spotify.com/track/6eipQrmTw1N3nUfgLlEa2R"
     },
     {
       "added_at": "2022-10-03 07:01:26",
@@ -963,6 +943,26 @@
       "duration_ms": 90836,
       "name": "IT'S YOURS",
       "url": "https://open.spotify.com/track/10wts7gW6XFI4k1BrDKsAc"
+    },
+    {
+      "added_at": "2022-10-03 07:01:26",
+      "album": {
+        "name": "Back of My Mind",
+        "url": "https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        }
+      ],
+      "duration_ms": 157293,
+      "name": "Paradise (feat. Yung Bleu)",
+      "url": "https://open.spotify.com/track/2xc1rXfo3Yn20n7wIzmjeu"
     },
     {
       "added_at": "2023-02-12 15:52:33",
@@ -1125,26 +1125,6 @@
       "url": "https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI"
     },
     {
-      "added_at": "2022-12-02 10:44:11",
-      "album": {
-        "name": "SATIN",
-        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        },
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
-        }
-      ],
-      "duration_ms": 101232,
-      "name": "AMBR\u00c9'S INTERLUDE",
-      "url": "https://open.spotify.com/track/3WwvdFw13kO3JF26XCKsGz"
-    },
-    {
       "added_at": "2022-10-03 07:01:26",
       "album": {
         "name": "Chasing Summer",
@@ -1163,6 +1143,26 @@
       "duration_ms": 241746,
       "name": "That's Why I Love You",
       "url": "https://open.spotify.com/track/1826XXl1rbdbhFk5xdnXNA"
+    },
+    {
+      "added_at": "2022-12-02 10:44:11",
+      "album": {
+        "name": "SATIN",
+        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        },
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        }
+      ],
+      "duration_ms": 101232,
+      "name": "AMBR\u00c9'S INTERLUDE",
+      "url": "https://open.spotify.com/track/3WwvdFw13kO3JF26XCKsGz"
     },
     {
       "added_at": "2023-06-16 06:11:44",

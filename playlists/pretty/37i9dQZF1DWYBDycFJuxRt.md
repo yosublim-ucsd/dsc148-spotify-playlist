@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Furui Riho \*👉 <a href="https://spice.eplus.jp/articles/324014?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,766 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,790 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 79 | [Sekaino Owarini](https://open.spotify.com/track/6ZoXL8YgyqPJkVWmD4AUoB) | [Sou Yamasaki](https://open.spotify.com/artist/0ZVL58XQLY5kUCSKRIVhOs) | [Sekaino Owarini](https://open.spotify.com/album/68lKm8eBspdlrvLURlu3Ki) | 4:04 |
 | 80 | [漂流教室](https://open.spotify.com/track/3de6nOtyZc1KGPL4yITXiV) | [宮本沙也佳](https://open.spotify.com/artist/7fpqf4zJPZiobNSMbCmTo7) | [ギター弾き語り10番勝負](https://open.spotify.com/album/5RHHOfQlPEBUgB1EVrMm5g) | 2:32 |
 
-Snapshot ID: `MCwzNzI4NDQwZmE4ZGQ5MzViNThiMGY5ZGQ1ZDY3Zjk4ODUzMGExMDM1`
+Snapshot ID: `MCw1MDgzODVjZjVmNjcyNjY5YjQ1MjhkMDAwNzY5NDVhZjhlMzk1NjE1`

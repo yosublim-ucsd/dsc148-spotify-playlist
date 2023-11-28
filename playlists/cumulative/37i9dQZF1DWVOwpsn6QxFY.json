@@ -3014,7 +3014,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 188619,
       "name": "Night Moves",
       "url": "https://open.spotify.com/track/6HOqWQFDKYvZp28ujtEuVu"
@@ -4152,6 +4152,24 @@
       "duration_ms": 228253,
       "name": "Spiders",
       "url": "https://open.spotify.com/track/416r5CNwByClIGHhs2U5PO"
+    },
+    {
+      "album": {
+        "name": "WETLANDS",
+        "url": "https://open.spotify.com/album/56l7sgYUPRc7kPX1DseBCv"
+      },
+      "artists": [
+        {
+          "name": "Christian Cohle",
+          "url": "https://open.spotify.com/artist/17FYVu6ik77NQMZdl6zdsQ"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314185,
+      "name": "Spinning Heart",
+      "url": "https://open.spotify.com/track/17nnRPp1cTVQ8XUacodl5c"
     },
     {
       "album": {

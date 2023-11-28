@@ -1,12 +1,12 @@
 {
   "description": "Dreaming of a white Christmas \u2728\u2744\ufe0f",
-  "num_followers": 139511,
+  "num_followers": 139807,
   "original_name": "White Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzQzNjc1MjkyMGYxYTM4OTNjMWQ3OTUzMjQwMTAzZDkwZThiMmNh",
+  "snapshot_id": "MCwyMDUzZTg2NDc4NTI5MWFhOWIxNzA3NzZlZTIxMmEyNzM1MTI1NzA5",
   "tracks": [
     {
       "added_at": "2023-11-26 05:00:00",
@@ -463,6 +463,22 @@
     {
       "added_at": "2023-11-26 05:00:00",
       "album": {
+        "name": "The Christmas Song (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 68760,
+      "name": "Deck The Halls",
+      "url": "https://open.spotify.com/track/0rHToGels2lt8Y0mCYoF90"
+    },
+    {
+      "added_at": "2023-11-26 05:00:00",
+      "album": {
         "name": "Feliz Navidad",
         "url": "https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 182066,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
-    },
-    {
-      "added_at": "2023-11-26 05:00:00",
-      "album": {
-        "name": "Do They Know It\u2019s Christmas?",
-        "url": "https://open.spotify.com/album/2WlRAsKdyYOwg2tdBjxVwq"
-      },
-      "artists": [
-        {
-          "name": "Band Aid",
-          "url": "https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ"
-        }
-      ],
-      "duration_ms": 222533,
-      "name": "Do They Know It's Christmas? - 1984 Version",
-      "url": "https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj"
     },
     {
       "added_at": "2023-11-26 05:00:00",
@@ -511,18 +511,18 @@
     {
       "added_at": "2023-11-26 05:00:00",
       "album": {
-        "name": "The Christmas Song (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
+        "name": "Do They Know It\u2019s Christmas?",
+        "url": "https://open.spotify.com/album/2WlRAsKdyYOwg2tdBjxVwq"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "Band Aid",
+          "url": "https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ"
         }
       ],
-      "duration_ms": 68760,
-      "name": "Deck The Halls",
-      "url": "https://open.spotify.com/track/0rHToGels2lt8Y0mCYoF90"
+      "duration_ms": 222533,
+      "name": "Do They Know It's Christmas? - 1984 Version",
+      "url": "https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj"
     },
     {
       "added_at": "2023-11-26 05:00:00",
@@ -695,18 +695,18 @@
     {
       "added_at": "2023-11-26 05:00:00",
       "album": {
-        "name": "A Jolly Christmas From Frank Sinatra",
-        "url": "https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq"
+        "name": "Everyday Is Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 206600,
-      "name": "Have Yourself A Merry Little Christmas - Remastered 1999",
-      "url": "https://open.spotify.com/track/2FPfeYlrbSBR8PwCU0zaqq"
+      "duration_ms": 206539,
+      "name": "Santa's Coming for Us",
+      "url": "https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv"
     },
     {
       "added_at": "2023-11-26 05:00:00",
@@ -727,18 +727,18 @@
     {
       "added_at": "2023-11-26 05:00:00",
       "album": {
-        "name": "Everyday Is Christmas (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
+        "name": "A Jolly Christmas From Frank Sinatra",
+        "url": "https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq"
       },
       "artists": [
         {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 206539,
-      "name": "Santa's Coming for Us",
-      "url": "https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv"
+      "duration_ms": 206600,
+      "name": "Have Yourself A Merry Little Christmas - Remastered 1999",
+      "url": "https://open.spotify.com/track/2FPfeYlrbSBR8PwCU0zaqq"
     },
     {
       "added_at": "2023-11-26 05:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-11-26 05:00:00",
       "album": {
-        "name": "Christmas",
-        "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 119786,
-      "name": "Holly Jolly Christmas",
-      "url": "https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE"
-    },
-    {
-      "added_at": "2023-11-26 05:00:00",
-      "album": {
         "name": "Christmas Without You",
         "url": "https://open.spotify.com/album/4vxk8Q78WLINHtJpDSuvq7"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 169245,
       "name": "Christmas Without You",
       "url": "https://open.spotify.com/track/1QLZKzC2pjP4ySf4ALrNhm"
+    },
+    {
+      "added_at": "2023-11-26 05:00:00",
+      "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 119786,
+      "name": "Holly Jolly Christmas",
+      "url": "https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE"
     },
     {
       "added_at": "2023-11-26 05:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-11-26 05:00:00",
       "album": {
-        "name": "Christmas & Chill",
-        "url": "https://open.spotify.com/album/6yi7FjzeCHGVJJAdWRYAmk"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 158720,
-      "name": "Winter Things",
-      "url": "https://open.spotify.com/track/1jhljxXlHw8K9rezXKrnow"
-    },
-    {
-      "added_at": "2023-11-26 05:00:00",
-      "album": {
         "name": "That's Christmas To Me (Deluxe Edition)",
         "url": "https://open.spotify.com/album/082VlX7cBth0o8xqDGclNn"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 203373,
       "name": "Mary, Did You Know?",
       "url": "https://open.spotify.com/track/4z8sz6E4YyFuEkv5o7IJni"
+    },
+    {
+      "added_at": "2023-11-26 05:00:00",
+      "album": {
+        "name": "Christmas & Chill",
+        "url": "https://open.spotify.com/album/6yi7FjzeCHGVJJAdWRYAmk"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 158720,
+      "name": "Winter Things",
+      "url": "https://open.spotify.com/track/1jhljxXlHw8K9rezXKrnow"
     },
     {
       "added_at": "2023-11-26 05:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-11-26 05:00:00",
       "album": {
-        "name": "Abbey Road (Remastered)",
-        "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 91760,
-      "name": "Golden Slumbers - Remastered 2009",
-      "url": "https://open.spotify.com/track/01SfTM5nfCou5gQL70r6gs"
-    },
-    {
-      "added_at": "2023-11-26 05:00:00",
-      "album": {
         "name": "Take Me Home For Christmas",
         "url": "https://open.spotify.com/album/5nzOzmqaWGkrlfWfk9Jrfh"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 203880,
       "name": "Take Me Home For Christmas",
       "url": "https://open.spotify.com/track/72HP2M4jjw4t0AIGdEVGEF"
+    },
+    {
+      "added_at": "2023-11-26 05:00:00",
+      "album": {
+        "name": "Abbey Road (Remastered)",
+        "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 91760,
+      "name": "Golden Slumbers - Remastered 2009",
+      "url": "https://open.spotify.com/track/01SfTM5nfCou5gQL70r6gs"
     },
     {
       "added_at": "2023-11-26 05:00:00",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2023-11-26 05:00:00",
       "album": {
-        "name": "XMAS 01",
-        "url": "https://open.spotify.com/album/3StuIrKZYryr4ZICoWRqqc"
+        "name": "How Can It Be Christmas",
+        "url": "https://open.spotify.com/album/1NWaOsKAEnp5rdg4jmmK5f"
       },
       "artists": [
         {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+          "name": "Johnny Orlando",
+          "url": "https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW"
         }
       ],
-      "duration_ms": 141972,
-      "name": "Messed Up On Christmas",
-      "url": "https://open.spotify.com/track/1hVFvOisGooNd8z9B2AMIp"
+      "duration_ms": 195000,
+      "name": "How Can It Be Christmas",
+      "url": "https://open.spotify.com/track/7xVQOFm6ql6S1mJCsxH7TB"
     },
     {
       "added_at": "2023-11-26 05:00:00",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2023-11-26 05:00:00",
       "album": {
-        "name": "How Can It Be Christmas",
-        "url": "https://open.spotify.com/album/1NWaOsKAEnp5rdg4jmmK5f"
+        "name": "XMAS 01",
+        "url": "https://open.spotify.com/album/3StuIrKZYryr4ZICoWRqqc"
       },
       "artists": [
         {
-          "name": "Johnny Orlando",
-          "url": "https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW"
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
         }
       ],
-      "duration_ms": 195000,
-      "name": "How Can It Be Christmas",
-      "url": "https://open.spotify.com/track/7xVQOFm6ql6S1mJCsxH7TB"
+      "duration_ms": 141972,
+      "name": "Messed Up On Christmas",
+      "url": "https://open.spotify.com/track/1hVFvOisGooNd8z9B2AMIp"
     },
     {
       "added_at": "2023-11-26 05:00:00",

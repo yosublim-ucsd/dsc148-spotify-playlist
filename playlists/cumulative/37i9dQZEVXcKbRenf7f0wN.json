@@ -441,6 +441,24 @@
     },
     {
       "album": {
+        "name": "Tecno-furia",
+        "url": "https://open.spotify.com/album/0pb7JSsGBHAzhg2DPf0q6V"
+      },
+      "artists": [
+        {
+          "name": "Cuchillazo",
+          "url": "https://open.spotify.com/artist/2PUyeJkrdcOntByKHmnKtv"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261973,
+      "name": "Agua",
+      "url": "https://open.spotify.com/track/4mSBv5hHujdwxfhCMtHJ0h"
+    },
+    {
+      "album": {
         "name": "The Contino Sessions",
         "url": "https://open.spotify.com/album/4qUKzyXuy3GSzQD5RTJLdq"
       },
@@ -488,7 +506,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 268333,
       "name": "Al otro lado del silencio",
       "url": "https://open.spotify.com/track/6nZGegauhy3raLriPhGI6i"
@@ -1134,6 +1152,24 @@
       "duration_ms": 207080,
       "name": "Aura",
       "url": "https://open.spotify.com/track/05c7oil7SQSJxsIt2UoYJa"
+    },
+    {
+      "album": {
+        "name": "Ausencia (Remastered)",
+        "url": "https://open.spotify.com/album/6FL6wO3NZoMaemUhREcPAf"
+      },
+      "artists": [
+        {
+          "name": "Nadie",
+          "url": "https://open.spotify.com/artist/5HLe3OeSpXQsXhC5RDuKF1"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318000,
+      "name": "Ausencia",
+      "url": "https://open.spotify.com/track/4iLjYx9Zcijv6QmRJYhegx"
     },
     {
       "album": {
@@ -2694,7 +2730,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 187477,
       "name": "Chica bonita",
       "url": "https://open.spotify.com/track/2IHPalrENLAZI8YAZ8DP5q"
@@ -2766,7 +2802,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-14",
+      "date_removed": null,
       "duration_ms": 137666,
       "name": "China HP",
       "url": "https://open.spotify.com/track/3NPv9z9XYJvm7BZINR5M8d"
@@ -4286,7 +4322,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 311893,
       "name": "El amor despu\u00e9s del amor",
       "url": "https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ"
@@ -4322,7 +4358,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 306626,
       "name": "El Anillo del Capit\u00e1n Beto",
       "url": "https://open.spotify.com/track/23jMDvKil4frbTA35BVzBY"
@@ -4455,6 +4491,24 @@
     },
     {
       "album": {
+        "name": "El Llamado de la Hembra",
+        "url": "https://open.spotify.com/album/3SBJ4lkddKaLQ3tL57llOa"
+      },
+      "artists": [
+        {
+          "name": "Transmetal",
+          "url": "https://open.spotify.com/artist/5r1YlvQfX1TfuSRWzEEPlT"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275435,
+      "name": "El Infierno de Dante",
+      "url": "https://open.spotify.com/track/0vjTp23Jg2cAZSq9x5GlxK"
+    },
+    {
+      "album": {
         "name": "M\u00fasica Chilena",
         "url": "https://open.spotify.com/album/4amd4eCAJb5Zqdc0S4t0j1"
       },
@@ -4524,7 +4578,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 308323,
       "name": "El sonido de los helic\u00f3pteros",
       "url": "https://open.spotify.com/track/0MkwaxQXpUMfjtJbcZHubr"
@@ -4632,7 +4686,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 209666,
       "name": "Emilio Dice",
       "url": "https://open.spotify.com/track/1xiVtmMSdiQcNFh9ftZ7YU"
@@ -4938,7 +4992,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 146480,
       "name": "Faith",
       "url": "https://open.spotify.com/track/5MYsvAONqcsIVOwu2HTQ3p"
@@ -6256,7 +6310,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-07",
+      "date_removed": null,
       "duration_ms": 292813,
       "name": "Hijo de la Luna",
       "url": "https://open.spotify.com/track/6XqCO6Qh5fSZppnSr9hQeV"
@@ -6796,7 +6850,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 220186,
       "name": "Incendialo Todo",
       "url": "https://open.spotify.com/track/6YffvtkgF804fwlSLzqxxS"
@@ -7826,7 +7880,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 198680,
       "name": "La Chinita y Yo",
       "url": "https://open.spotify.com/track/4WYBgQYaYEY2LcYYLXX8pM"
@@ -7934,7 +7988,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-07",
+      "date_removed": null,
       "duration_ms": 324808,
       "name": "La Leyenda del Hada y el Mago - Vivo",
       "url": "https://open.spotify.com/track/46nYeZImWSsOebaCUrfEW1"
@@ -8150,7 +8204,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-14",
+      "date_removed": null,
       "duration_ms": 348000,
       "name": "Las Meninas",
       "url": "https://open.spotify.com/track/4tlcX4PcsqmRKfZq7cGPhM"
@@ -8835,6 +8889,24 @@
     },
     {
       "album": {
+        "name": "Terraja",
+        "url": "https://open.spotify.com/album/6lN38PkdmzvHad0xGdSXtN"
+      },
+      "artists": [
+        {
+          "name": "Peyote Asesino",
+          "url": "https://open.spotify.com/artist/2cYeADErfbwZ0xIP19KeWD"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259066,
+      "name": "Mal De La Cabeza",
+      "url": "https://open.spotify.com/track/7MZWoY8ZFqopFFVqbnv8Mc"
+    },
+    {
+      "album": {
         "name": "Saga Mama",
         "url": "https://open.spotify.com/album/7rWjUHoF1VDRseBSYNLWjE"
       },
@@ -8846,7 +8918,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 175080,
       "name": "Maldito",
       "url": "https://open.spotify.com/track/4AuYIbNIESLMG3h5gTLXho"
@@ -9584,7 +9656,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-07",
+      "date_removed": null,
       "duration_ms": 262613,
       "name": "Mr. P-Mosh",
       "url": "https://open.spotify.com/track/12Q3hN5YwbjZ0jkcHmuABo"
@@ -11398,7 +11470,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 131800,
       "name": "Poison's Gone",
       "url": "https://open.spotify.com/track/4jK6bBO2JbkvvgT7FPj8c5"
@@ -12256,7 +12328,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 214000,
       "name": "Rutina",
       "url": "https://open.spotify.com/track/7L3VPUjzc5RF61Da0bG5Mr"
@@ -13686,7 +13758,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 175296,
       "name": "Steady Blows to the Head",
       "url": "https://open.spotify.com/track/6h6kul54yrQXeXyK9Fffz8"
@@ -13708,6 +13780,24 @@
       "duration_ms": 241413,
       "name": "Steine Sind Steine - Bonus Track",
       "url": "https://open.spotify.com/track/7k05ry9PQo70X449PouEE0"
+    },
+    {
+      "album": {
+        "name": "The Smiths",
+        "url": "https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201746,
+      "name": "Still Ill - 2011 Remaster",
+      "url": "https://open.spotify.com/track/0uLI1jac8ZJSSRG4QJDo3J"
     },
     {
       "album": {
@@ -13902,7 +13992,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 273066,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/6yCjhDzcVIfxvTjBKhhn7P"
@@ -15498,7 +15588,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 213480,
       "name": "Una Extra\u00f1a Sensaci\u00f3n de Soledad",
       "url": "https://open.spotify.com/track/6mtlnE4RJ6jpJ4K6HoUEE5"
@@ -15826,7 +15916,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 169799,
       "name": "Vinito tinto",
       "url": "https://open.spotify.com/track/0vW0DzIntmHv8CZoK1i5cx"
@@ -16006,7 +16096,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 298400,
       "name": "Warmikuna Yupay-Chasqapuni Kasunchik",
       "url": "https://open.spotify.com/track/3BBuihi9T5iGaV0Tt0ht8V"
@@ -16568,7 +16658,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 241106,
       "name": "Ya No Se Que Hacer Conmigo",
       "url": "https://open.spotify.com/track/3vUWWpeAUDowjEgTcpsbSE"
@@ -16590,6 +16680,24 @@
       "duration_ms": 267253,
       "name": "Yer Blues - Remastered 2018",
       "url": "https://open.spotify.com/track/6UrgPc2f78pgDrdodMJA42"
+    },
+    {
+      "album": {
+        "name": "Un Poco de Respeto",
+        "url": "https://open.spotify.com/album/5eFLOdxDPBA8jsZwFlv7pM"
+      },
+      "artists": [
+        {
+          "name": "OConnor",
+          "url": "https://open.spotify.com/artist/2fkbcrv0tNgxkzT0wvivRN"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195932,
+      "name": "Yo Can\u00edbal",
+      "url": "https://open.spotify.com/track/2AtCLtWvBG47sampT4i3G7"
     },
     {
       "album": {
@@ -16820,7 +16928,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 313733,
       "name": "\u00bfQu\u00e9 Ves?",
       "url": "https://open.spotify.com/track/0aad6vDkOmu9d1aFNvOwYC"

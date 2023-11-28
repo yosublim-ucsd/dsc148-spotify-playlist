@@ -1,12 +1,12 @@
 {
   "description": "alternative meets electronic Cover: Layto",
-  "num_followers": 468808,
+  "num_followers": 468928,
   "original_name": "Alternative Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMmU5OWI2ZWViYjNkZTY1ZWVlNDMwMGViYzE3ZGRjZjUwMjBlNjRi",
+  "snapshot_id": "MCwwNzEyMDRiZDdmZjU3NmExMGVmY2M1NDg0YTAxOTIwYWQ4NWE2MGJm",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -519,26 +519,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "PATCHWERK",
-        "url": "https://open.spotify.com/album/51qRLrJfPzxq6y8gEg8q7H"
-      },
-      "artists": [
-        {
-          "name": "Sub Urban",
-          "url": "https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG"
-        },
-        {
-          "name": "Two Feet",
-          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
-        }
-      ],
-      "duration_ms": 141591,
-      "name": "PATCHWERK",
-      "url": "https://open.spotify.com/track/3oknxh5JkdkyOV7UAE1zOh"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Body",
         "url": "https://open.spotify.com/album/5tsg5PG0T1EqXg2Fetgd9J"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 174739,
       "name": "GAY 4 ME (feat. Lauren Sanderson)",
       "url": "https://open.spotify.com/track/1ZpcR68PKaoz8DpQDRqFEE"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "PATCHWERK",
+        "url": "https://open.spotify.com/album/51qRLrJfPzxq6y8gEg8q7H"
+      },
+      "artists": [
+        {
+          "name": "Sub Urban",
+          "url": "https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG"
+        },
+        {
+          "name": "Two Feet",
+          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
+        }
+      ],
+      "duration_ms": 141591,
+      "name": "PATCHWERK",
+      "url": "https://open.spotify.com/track/3oknxh5JkdkyOV7UAE1zOh"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "One Night",
+        "url": "https://open.spotify.com/album/4HtlSIrrw2tvdaBEjYwLFt"
+      },
+      "artists": [
+        {
+          "name": "Jeris Johnson",
+          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
+        }
+      ],
+      "duration_ms": 163492,
+      "name": "One Night",
+      "url": "https://open.spotify.com/track/1XvUJqINdj0IiYyvodOBsR"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "WICKED",
         "url": "https://open.spotify.com/album/3F6tIMetVWEymoC9GskqmA"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 210027,
       "name": "WICKED",
       "url": "https://open.spotify.com/track/5b7gKOgD33l2iGFgoiVF1I"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "One Night",
-        "url": "https://open.spotify.com/album/4HtlSIrrw2tvdaBEjYwLFt"
-      },
-      "artists": [
-        {
-          "name": "Jeris Johnson",
-          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
-        }
-      ],
-      "duration_ms": 163492,
-      "name": "One Night",
-      "url": "https://open.spotify.com/track/1XvUJqINdj0IiYyvodOBsR"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1107,6 +1107,22 @@
       "duration_ms": 212946,
       "name": "Pain Killer",
       "url": "https://open.spotify.com/track/5LNPEJ6scc19YXfivgWPAC"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Shape & Form",
+        "url": "https://open.spotify.com/album/7q1CcQco23wrR3dpVd87kL"
+      },
+      "artists": [
+        {
+          "name": "Two Feet",
+          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
+        }
+      ],
+      "duration_ms": 176459,
+      "name": "Caviar",
+      "url": "https://open.spotify.com/track/6eQARsls2o0rLd6ee12Z5c"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1187,22 +1203,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Shape & Form",
-        "url": "https://open.spotify.com/album/7q1CcQco23wrR3dpVd87kL"
-      },
-      "artists": [
-        {
-          "name": "Two Feet",
-          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
-        }
-      ],
-      "duration_ms": 176459,
-      "name": "Caviar",
-      "url": "https://open.spotify.com/track/6eQARsls2o0rLd6ee12Z5c"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Crown",
         "url": "https://open.spotify.com/album/1IKHE6yFVUkJR9peiUHwFQ"
       },
@@ -1243,26 +1243,6 @@
       "duration_ms": 171285,
       "name": "lost cause// (with grandson)",
       "url": "https://open.spotify.com/track/1zXoU7XohkF9xLMu5LHZ2G"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "LOST IT",
-        "url": "https://open.spotify.com/album/7u0IFKBBrJ7FKtChiX8MH0"
-      },
-      "artists": [
-        {
-          "name": "Layto",
-          "url": "https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag"
-        },
-        {
-          "name": "P!X!E",
-          "url": "https://open.spotify.com/artist/4tThMJlJVcKRl4cJoB4aLq"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "LOST IT",
-      "url": "https://open.spotify.com/track/7Hr1qBcKx35cmkmEsG9CGj"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1335,6 +1315,26 @@
       "duration_ms": 206687,
       "name": "Easy",
       "url": "https://open.spotify.com/track/4jxrwfVK43RE2bzsP2S1ZM"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "LOST IT",
+        "url": "https://open.spotify.com/album/7u0IFKBBrJ7FKtChiX8MH0"
+      },
+      "artists": [
+        {
+          "name": "Layto",
+          "url": "https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag"
+        },
+        {
+          "name": "P!X!E",
+          "url": "https://open.spotify.com/artist/4tThMJlJVcKRl4cJoB4aLq"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "LOST IT",
+      "url": "https://open.spotify.com/track/7Hr1qBcKx35cmkmEsG9CGj"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "DEATH STRANDING: Timefall (Original Music from the World of Death Stranding)",
-        "url": "https://open.spotify.com/album/67hVRXYD2WmD4fgPOWNex3"
-      },
-      "artists": [
-        {
-          "name": "MISSIO",
-          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
-        },
-        {
-          "name": "Death Stranding: Timefall",
-          "url": "https://open.spotify.com/artist/4rojTfP5nRkmYpdSbWQgV4"
-        }
-      ],
-      "duration_ms": 189920,
-      "name": "Sing To Me",
-      "url": "https://open.spotify.com/track/17KGTOb8fkxlyTnB5eFnsh"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "flowers",
         "url": "https://open.spotify.com/album/6dMHxPB6mErfnAiAXpj4CN"
       },
@@ -1475,6 +1455,42 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "DEATH STRANDING: Timefall (Original Music from the World of Death Stranding)",
+        "url": "https://open.spotify.com/album/67hVRXYD2WmD4fgPOWNex3"
+      },
+      "artists": [
+        {
+          "name": "MISSIO",
+          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
+        },
+        {
+          "name": "Death Stranding: Timefall",
+          "url": "https://open.spotify.com/artist/4rojTfP5nRkmYpdSbWQgV4"
+        }
+      ],
+      "duration_ms": 189920,
+      "name": "Sing To Me",
+      "url": "https://open.spotify.com/track/17KGTOb8fkxlyTnB5eFnsh"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "BELIEVE",
+        "url": "https://open.spotify.com/album/0BvaFK2hTZ13TeTFkPEdHK"
+      },
+      "artists": [
+        {
+          "name": "NEFFEX",
+          "url": "https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "BELIEVE",
+      "url": "https://open.spotify.com/track/2VpyqzXj9ZGTSy2JVkVD2z"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "Anomaly",
         "url": "https://open.spotify.com/album/7J8SSnGauta2Uy7HKhEDMA"
       },
@@ -1499,38 +1515,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "BELIEVE",
-        "url": "https://open.spotify.com/album/0BvaFK2hTZ13TeTFkPEdHK"
-      },
-      "artists": [
-        {
-          "name": "NEFFEX",
-          "url": "https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "BELIEVE",
-      "url": "https://open.spotify.com/track/2VpyqzXj9ZGTSy2JVkVD2z"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "MERIDIAN",
-        "url": "https://open.spotify.com/album/4uH776h4uovgy3YYG1vbKC"
-      },
-      "artists": [
-        {
-          "name": "morgxn",
-          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
-        }
-      ],
-      "duration_ms": 192773,
-      "name": "PUMP THE BREAK",
-      "url": "https://open.spotify.com/track/7baoqD2YuFgFTqdBwf72PC"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Palm Reader",
         "url": "https://open.spotify.com/album/1QQRNBDVBOA4uomdDG2MxZ"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 180667,
       "name": "Palm Reader",
       "url": "https://open.spotify.com/track/729lI4P82NDXNQljBDmkmU"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "MERIDIAN",
+        "url": "https://open.spotify.com/album/4uH776h4uovgy3YYG1vbKC"
+      },
+      "artists": [
+        {
+          "name": "morgxn",
+          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
+        }
+      ],
+      "duration_ms": 192773,
+      "name": "PUMP THE BREAK",
+      "url": "https://open.spotify.com/track/7baoqD2YuFgFTqdBwf72PC"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1779,6 +1779,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Failed at Math(s)",
+        "url": "https://open.spotify.com/album/0xCCtljPkA65lyDP3CXFgr"
+      },
+      "artists": [
+        {
+          "name": "Panchiko",
+          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
+        }
+      ],
+      "duration_ms": 222105,
+      "name": "Portraits",
+      "url": "https://open.spotify.com/track/6PypMXsV8zmifuFPMnWE4W"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "peachy",
         "url": "https://open.spotify.com/album/1X19TViAdx7ohbra4fNlXT"
       },
@@ -1791,22 +1807,6 @@
       "duration_ms": 203200,
       "name": "peachy",
       "url": "https://open.spotify.com/track/3sAqyVG6b5dyqIYujvUsxS"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "VILLAIN",
-        "url": "https://open.spotify.com/album/45DgFMUv8WhXWkWjtI03qN"
-      },
-      "artists": [
-        {
-          "name": "MISSIO",
-          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
-        }
-      ],
-      "duration_ms": 213494,
-      "name": "We Are Who We Are",
-      "url": "https://open.spotify.com/track/5DP2aoo37wHvurr9FeNM1W"
     }
   ],
   "unique_name": "Alternative Beats",

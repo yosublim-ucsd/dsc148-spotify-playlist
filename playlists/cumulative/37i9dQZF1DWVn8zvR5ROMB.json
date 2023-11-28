@@ -34521,6 +34521,24 @@
     },
     {
       "album": {
+        "name": "Have A Nice Day",
+        "url": "https://open.spotify.com/album/2xXY6j7QVSz6rpqEU9q1Ha"
+      },
+      "artists": [
+        {
+          "name": "Treaty Oak Revival",
+          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275607,
+      "name": "Have A Nice Day",
+      "url": "https://open.spotify.com/track/0thBkMCMf54NiTBWmCp8ZQ"
+    },
+    {
+      "album": {
         "name": "Have To Be My Hometown",
         "url": "https://open.spotify.com/album/08yDeszzlVIYUuLNnQkqit"
       },

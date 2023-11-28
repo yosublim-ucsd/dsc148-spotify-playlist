@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 
 > Relive your favourite K\-Drama moments with these classic soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 720,820 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 721,132 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,11 +16,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 | 6 | [Everytime](https://open.spotify.com/track/1D6lK8qADoErTTLkY4YBfM) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Descendants Of The Sun Pt.2 \(Original Television Soundtrack\)](https://open.spotify.com/album/5TVsuCwCLLBk9qpElbX7nE) | 3:09 |
 | 7 | [Beautiful](https://open.spotify.com/track/6mzF8HvHdVrzJNd8M1uFCS) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Guardian \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/7iUiSK1dCxUTOFq6BWrreS) | 3:47 |
 | 8 | [Love Me Like That](https://open.spotify.com/track/1lhm29o3syw122xynSKaAK) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Nevertheless, \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/4MLxdCgljBck6ddj3BKFTi) | 3:31 |
-| 9 | [I Will Go To You Like the First Snow](https://open.spotify.com/track/2BPXILn0MqOe5WroVXlvN1) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Guardian \(Original Television Soundtrack\), Pt\. 9](https://open.spotify.com/album/42jhVkCdzN4cuIvc0QyXbS) | 3:49 |
-| 10 | [Sweet Night](https://open.spotify.com/track/3Wno87vVBVbSVS2vUUFuKC) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 12](https://open.spotify.com/album/3Y0g1Cgg3DPMvNoaOgfeT7) | 3:34 |
+| 9 | [Sweet Night](https://open.spotify.com/track/3Wno87vVBVbSVS2vUUFuKC) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 12](https://open.spotify.com/album/3Y0g1Cgg3DPMvNoaOgfeT7) | 3:34 |
+| 10 | [I Will Go To You Like the First Snow](https://open.spotify.com/track/2BPXILn0MqOe5WroVXlvN1) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Guardian \(Original Television Soundtrack\), Pt\. 9](https://open.spotify.com/album/42jhVkCdzN4cuIvc0QyXbS) | 3:49 |
 | 11 | [시작](https://open.spotify.com/track/5TeDIQrpwWtLWaFfzLH0hh) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/7KDMHe0BgyhOmk4Oz6g293) | 3:22 |
-| 12 | [그대라는 시](https://open.spotify.com/track/56Cmy1rCQ35V2Q7groYiHl) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Hotel del Luna \(Original Television Soundtrack\) Pt.3](https://open.spotify.com/album/6nddI94g7zC5bbyNzRBO0Y) | 3:29 |
-| 13 | [For You](https://open.spotify.com/track/7rLvsAO1yb7ElxPhkz60qh) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl), [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6) | [Moonlovers \- Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/6Ws1NetwWwXXK50IrNvs7R) | 3:16 |
+| 12 | [For You](https://open.spotify.com/track/7rLvsAO1yb7ElxPhkz60qh) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl), [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6) | [Moonlovers \- Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/6Ws1NetwWwXXK50IrNvs7R) | 3:16 |
+| 13 | [그대라는 시](https://open.spotify.com/track/56Cmy1rCQ35V2Q7groYiHl) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Hotel del Luna \(Original Television Soundtrack\) Pt.3](https://open.spotify.com/album/6nddI94g7zC5bbyNzRBO0Y) | 3:29 |
 | 14 | [It's You](https://open.spotify.com/track/61OtYav1fiUCr73JwZD2Sb) | [HENRY](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt) | [While You Were Sleeping, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/3YjVFUQz5w1bXIi3QfqVmx) | 3:51 |
 | 15 | [You Are My Everything](https://open.spotify.com/track/4s80CRYk3rRPZE56NvmFi7) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Descendants Of The Sun Pt.4 \(Original Television Soundtrack\)](https://open.spotify.com/album/2xhG5yxzYITJA30jKf2MkQ) | 4:00 |
 | 16 | [ALWAYS](https://open.spotify.com/track/4LsMjCB4qt4RnWcJBiHrA6) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Descendants Of The Sun Pt.1 \(Original Television Soundtrack\)](https://open.spotify.com/album/1jLD6zV1si5YCQ7y1oI2hu) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 | 49 | [With My Tears](https://open.spotify.com/track/4Rkp8OAEGdNqysT6LRpz8t) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/03wxGctAtxkCb8LC28H8Em) | 4:13 |
 | 50 | [Summer Rain](https://open.spotify.com/track/0lsE1vjZQazyEnexXpD4B1) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/5G8GZvgWdarjynQ0hLGehC) | 3:21 |
 
-Snapshot ID: `MCwyODI3ZmEyYjI0Yjg2NGM5OTczMTMxMzk1MDdlMTUzNDZjMjliYzBk`
+Snapshot ID: `MCw3NjFkODM5YmJiZGMxMWRiOGJjNDI3ZTNjNzAzNWM5NjQ1YzdkMmFl`

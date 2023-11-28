@@ -1,12 +1,12 @@
 {
   "description": "Tough crowd.",
-  "num_followers": 100412,
+  "num_followers": 100987,
   "original_name": "Laid Back Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODVlMTM3MTc4NzExMWYyOWY5YTRkYmUzNmVmNTg2ODU4MDBkMTNj",
+  "snapshot_id": "MCw0MzZjMDEwZWY5ZTRjZDdlNWYxMzI0NzBjM2I1ZWRmOTA0MzdjODgy",
   "tracks": [
     {
       "added_at": "2023-10-19 22:00:00",
@@ -207,6 +207,22 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
+        "name": "I Hate U",
+        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "I Hate U",
+      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
         "name": "Ventura",
         "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 219332,
       "name": "Make It Better (feat. Smokey Robinson)",
       "url": "https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "I Hate U",
-        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "I Hate U",
-      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Surprise",
-        "url": "https://open.spotify.com/album/2C3rUs6GnKWT0c101eBiQb"
-      },
-      "artists": [
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        }
-      ],
-      "duration_ms": 155298,
-      "name": "Surprise",
-      "url": "https://open.spotify.com/track/3xcapG4WdzvsER4g70MjKc"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
         "name": "Chasing Summer",
         "url": "https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 174946,
       "name": "You Can't Save Me",
       "url": "https://open.spotify.com/track/1OykBmq3vmMSEOQShNIBLv"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "Surprise",
+        "url": "https://open.spotify.com/album/2C3rUs6GnKWT0c101eBiQb"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "duration_ms": 155298,
+      "name": "Surprise",
+      "url": "https://open.spotify.com/track/3xcapG4WdzvsER4g70MjKc"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -519,6 +519,22 @@
       "duration_ms": 213933,
       "name": "My Affection (with PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/2aSM4sbNN7cSmpYOG0sf46"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 312360,
+      "name": "Heart Don't Stand a Chance",
+      "url": "https://open.spotify.com/track/25GlFJq5QNAXyVgJvCZ4Mf"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -571,22 +587,6 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK"
-      },
-      "artists": [
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 312360,
-      "name": "Heart Don't Stand a Chance",
-      "url": "https://open.spotify.com/track/25GlFJq5QNAXyVgJvCZ4Mf"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
         "name": "Ur Best Friend",
         "url": "https://open.spotify.com/album/5vQaqB1ZfaOW6BSEGuQ8HC"
       },
@@ -619,6 +619,26 @@
       "duration_ms": 225103,
       "name": "Do To Me",
       "url": "https://open.spotify.com/track/0CmQgwV3Bmzh9nZb9TNVEI"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "Ventura",
+        "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Andr\u00e9 3000",
+          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
+        }
+      ],
+      "duration_ms": 266812,
+      "name": "Come Home (feat. Andr\u00e9 3000)",
+      "url": "https://open.spotify.com/track/6RpunyUP44SDweJPDScLSF"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -687,26 +707,6 @@
       "duration_ms": 262213,
       "name": "None Of Your Concern",
       "url": "https://open.spotify.com/track/1nal3Tf1OCV53KigMZXsZ7"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Ventura",
-        "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
-      },
-      "artists": [
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Andr\u00e9 3000",
-          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
-        }
-      ],
-      "duration_ms": 266812,
-      "name": "Come Home (feat. Andr\u00e9 3000)",
-      "url": "https://open.spotify.com/track/6RpunyUP44SDweJPDScLSF"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "killer",
-        "url": "https://open.spotify.com/album/4BYCmmwbSU2bxcQEEI6RBU"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        }
-      ],
-      "duration_ms": 176876,
-      "name": "killer",
-      "url": "https://open.spotify.com/track/4QUzLCXrpHO4c6dGyZlpO2"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
         "name": "Angles (feat. JME)",
         "url": "https://open.spotify.com/album/5FlTltS0elrbjIOCR4eRNn"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 204592,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/2VilPVzji1pAdkmujzRenI"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "killer",
+        "url": "https://open.spotify.com/album/4BYCmmwbSU2bxcQEEI6RBU"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "duration_ms": 176876,
+      "name": "killer",
+      "url": "https://open.spotify.com/track/4QUzLCXrpHO4c6dGyZlpO2"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Let The Morning Come",
-        "url": "https://open.spotify.com/album/64BdSNPkLVXReRgCVNe29H"
-      },
-      "artists": [
-        {
-          "name": "sir Was",
-          "url": "https://open.spotify.com/artist/2pRRvc1D9seqK4txoe8laT"
-        }
-      ],
-      "duration_ms": 300506,
-      "name": "I Don't Think We Should Wait",
-      "url": "https://open.spotify.com/track/4V9DevlYomf95xOhfYqBlI"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
         "name": "Queen Tings (Santi Remix)",
         "url": "https://open.spotify.com/album/3ywbciCdfP9GZ1inddiz6a"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 211920,
       "name": "Queen Tings - Santi Remix",
       "url": "https://open.spotify.com/track/4EOVChDG9c5HX5jrNdBDd6"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "Let The Morning Come",
+        "url": "https://open.spotify.com/album/64BdSNPkLVXReRgCVNe29H"
+      },
+      "artists": [
+        {
+          "name": "sir Was",
+          "url": "https://open.spotify.com/artist/2pRRvc1D9seqK4txoe8laT"
+        }
+      ],
+      "duration_ms": 300506,
+      "name": "I Don't Think We Should Wait",
+      "url": "https://open.spotify.com/track/4V9DevlYomf95xOhfYqBlI"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
+        "name": "Tamale",
+        "url": "https://open.spotify.com/album/03qMGEbUXMypieuFY8xOsn"
+      },
+      "artists": [
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "duration_ms": 227880,
+      "name": "Tamale",
+      "url": "https://open.spotify.com/track/6CEiPLGmX7V2GQwMYjB6DL"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
         "name": "Avenue",
         "url": "https://open.spotify.com/album/6thqi6BIar6QB8Stf8nZlM"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 216560,
       "name": "So Bad (feat. HAIM)",
       "url": "https://open.spotify.com/track/2qre5YuCk0fuKw0Z60E28W"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Tamale",
-        "url": "https://open.spotify.com/album/03qMGEbUXMypieuFY8xOsn"
-      },
-      "artists": [
-        {
-          "name": "Daniela Andrade",
-          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
-        }
-      ],
-      "duration_ms": 227880,
-      "name": "Tamale",
-      "url": "https://open.spotify.com/track/6CEiPLGmX7V2GQwMYjB6DL"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "who knew (from Grown-ish)",
-        "url": "https://open.spotify.com/album/1iGnMcJ5NNC1NZprmZt9y0"
+        "name": "How Is Your Soul?",
+        "url": "https://open.spotify.com/album/1BFivKs3J5ghsnCx3yNo1X"
       },
       "artists": [
         {
-          "name": "Chloe x Halle",
-          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
+          "name": "HILLARI",
+          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
         }
       ],
-      "duration_ms": 202960,
-      "name": "who knew - from Grown-ish",
-      "url": "https://open.spotify.com/track/0uIitPtzjqgkmFyY0wkPfl"
+      "duration_ms": 166848,
+      "name": "Hopeful",
+      "url": "https://open.spotify.com/track/7FdweFFs7ZqJe4dHoKicuR"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "How Is Your Soul?",
-        "url": "https://open.spotify.com/album/1BFivKs3J5ghsnCx3yNo1X"
+        "name": "who knew (from Grown-ish)",
+        "url": "https://open.spotify.com/album/1iGnMcJ5NNC1NZprmZt9y0"
       },
       "artists": [
         {
-          "name": "HILLARI",
-          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
+          "name": "Chloe x Halle",
+          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
         }
       ],
-      "duration_ms": 166848,
-      "name": "Hopeful",
-      "url": "https://open.spotify.com/track/7FdweFFs7ZqJe4dHoKicuR"
+      "duration_ms": 202960,
+      "name": "who knew - from Grown-ish",
+      "url": "https://open.spotify.com/track/0uIitPtzjqgkmFyY0wkPfl"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
+        "name": "Sweet Insomnia",
+        "url": "https://open.spotify.com/album/36BnoniDx1oKdMWm7ProqG"
+      },
+      "artists": [
+        {
+          "name": "Gallant",
+          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
+        }
+      ],
+      "duration_ms": 216837,
+      "name": "Sleep On It",
+      "url": "https://open.spotify.com/track/09upHR7ZIeltejXCof4B8u"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
         "name": "And Then Life Was Beautiful",
         "url": "https://open.spotify.com/album/0mlSanObCAti0PvharqR1u"
       },
@@ -1703,30 +1719,6 @@
       "duration_ms": 159267,
       "name": "Higher",
       "url": "https://open.spotify.com/track/19zyupEw3vTNL3waafGwW6"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Worst Way",
-        "url": "https://open.spotify.com/album/5UFZy1cSlNoyFTvJFaWnQz"
-      },
-      "artists": [
-        {
-          "name": "Ayelle",
-          "url": "https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF"
-        },
-        {
-          "name": "themes",
-          "url": "https://open.spotify.com/artist/7DLvUg0aKwnnUVY8m233DI"
-        },
-        {
-          "name": "Naji",
-          "url": "https://open.spotify.com/artist/31QM5dBtewZL65p9hCnXKK"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Worst Way",
-      "url": "https://open.spotify.com/track/4dFd9I7wVuNJuFaU1De0Hn"
     }
   ],
   "unique_name": "Laid Back Beats",

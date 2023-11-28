@@ -1,12 +1,12 @@
 {
   "description": "New styles, deep sounds. Cover: Lucius",
-  "num_followers": 413955,
+  "num_followers": 413991,
   "original_name": "Modern Eclectic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjQ5MmFlYThlODU5NzBiZjQyZGNmMDdiMGI4YjI4Y2E5NTg2NDE1",
+  "snapshot_id": "MCxiZGQwN2FhMDcwODQyY2YxMjAzMGU5NGI3NjEwMGI4ZTIzNDlmNzEx",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Tomb",
-        "url": "https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj"
-      },
-      "artists": [
-        {
-          "name": "Angelo De Augustine",
-          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
-        }
-      ],
-      "duration_ms": 205657,
-      "name": "You Needed Love, I Needed You",
-      "url": "https://open.spotify.com/track/0MIqB2F979ng3e9fLKEAt6"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "U.F.O.F.",
         "url": "https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 188413,
       "name": "UFOF",
       "url": "https://open.spotify.com/track/3Hbwbuk3ChdUf7M6Cn7uQB"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Tomb",
+        "url": "https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj"
+      },
+      "artists": [
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+        }
+      ],
+      "duration_ms": 205657,
+      "name": "You Needed Love, I Needed You",
+      "url": "https://open.spotify.com/track/0MIqB2F979ng3e9fLKEAt6"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -555,18 +555,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
+        "name": "Sapling / Signs Of Life",
+        "url": "https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH"
       },
       "artists": [
         {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
         }
       ],
-      "duration_ms": 195106,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
+      "duration_ms": 257853,
+      "name": "Sapling",
+      "url": "https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -587,18 +587,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Sapling / Signs Of Life",
-        "url": "https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH"
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
       },
       "artists": [
         {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
         }
       ],
-      "duration_ms": 257853,
-      "name": "Sapling",
-      "url": "https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s"
+      "duration_ms": 195106,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 266706,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Fatal Line",
         "url": "https://open.spotify.com/album/02389joKGpQeSgbeMocOI2"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 181933,
       "name": "Fatal Line",
       "url": "https://open.spotify.com/track/60TzCPjii0JKAQtQTENYpn"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 266706,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/1epwNzmWdqkBQQZpTa8KJD"
-      },
-      "artists": [
-        {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
-        }
-      ],
-      "duration_ms": 246720,
-      "name": "Nadja",
-      "url": "https://open.spotify.com/track/2AojQfi1k8pgwyg1Ii0Ly8"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Home Video",
         "url": "https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 254735,
       "name": "First Time",
       "url": "https://open.spotify.com/track/5OLVjtDBzeHtqGTn5Pwo1B"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/1epwNzmWdqkBQQZpTa8KJD"
+      },
+      "artists": [
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+        }
+      ],
+      "duration_ms": 246720,
+      "name": "Nadja",
+      "url": "https://open.spotify.com/track/2AojQfi1k8pgwyg1Ii0Ly8"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "More Than a Love Song",
-        "url": "https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX"
-      },
-      "artists": [
-        {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
-        }
-      ],
-      "duration_ms": 287000,
-      "name": "More Than a Love Song",
-      "url": "https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Digital Meadow",
         "url": "https://open.spotify.com/album/1Hs5SAioUMz5JA1qw8zrmZ"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 136320,
       "name": "Multiply",
       "url": "https://open.spotify.com/track/7epHw01JrUjS1kKdxdENTE"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "More Than a Love Song",
+        "url": "https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "duration_ms": 287000,
+      "name": "More Than a Love Song",
+      "url": "https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "The Pool",
+        "url": "https://open.spotify.com/album/7FEdabAF4tVaiXTCmykn2t"
+      },
+      "artists": [
+        {
+          "name": "River Whyless",
+          "url": "https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH"
+        }
+      ],
+      "duration_ms": 242562,
+      "name": "The Pool",
+      "url": "https://open.spotify.com/track/3I8Y491lACYzJTM8fmIWdI"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Joy'All",
         "url": "https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1"
       },
@@ -1127,22 +1143,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "The Pool",
-        "url": "https://open.spotify.com/album/7FEdabAF4tVaiXTCmykn2t"
-      },
-      "artists": [
-        {
-          "name": "River Whyless",
-          "url": "https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH"
-        }
-      ],
-      "duration_ms": 242562,
-      "name": "The Pool",
-      "url": "https://open.spotify.com/track/3I8Y491lACYzJTM8fmIWdI"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Mermaid Salt",
         "url": "https://open.spotify.com/album/4cHIQEuXoRCoeIZZ8mmjdD"
       },
@@ -1155,22 +1155,6 @@
       "duration_ms": 335859,
       "name": "Microdose",
       "url": "https://open.spotify.com/track/1EdPgv2qJv1wu1zHsFfR1v"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "I'm Not Sorry, I Was Just Being Me",
-        "url": "https://open.spotify.com/album/329jZGec5ndGWyYUAX1xJC"
-      },
-      "artists": [
-        {
-          "name": "King Hannah",
-          "url": "https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6"
-        }
-      ],
-      "duration_ms": 209603,
-      "name": "All Being Fine",
-      "url": "https://open.spotify.com/track/1AObGJHBNGq23MkG3ZDjbJ"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1203,6 +1187,22 @@
       "duration_ms": 185228,
       "name": "Right on Time",
       "url": "https://open.spotify.com/track/5uyw6qVn71nKSBVyBl3Ytv"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "I'm Not Sorry, I Was Just Being Me",
+        "url": "https://open.spotify.com/album/329jZGec5ndGWyYUAX1xJC"
+      },
+      "artists": [
+        {
+          "name": "King Hannah",
+          "url": "https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6"
+        }
+      ],
+      "duration_ms": 209603,
+      "name": "All Being Fine",
+      "url": "https://open.spotify.com/track/1AObGJHBNGq23MkG3ZDjbJ"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Half Moon Light (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4BZtOxZRZVRVf5ufHPlXy3"
-      },
-      "artists": [
-        {
-          "name": "The Lone Bellow",
-          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
-        }
-      ],
-      "duration_ms": 231880,
-      "name": "Dried Up River",
-      "url": "https://open.spotify.com/track/7bNvUAHtAVDee8w6SS6r0S"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Snowplow",
         "url": "https://open.spotify.com/album/2pvt0zp6tTBZdF1HZ50LsQ"
       },
@@ -1495,18 +1479,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Optimism",
-        "url": "https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd"
+        "name": "Half Moon Light (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4BZtOxZRZVRVf5ufHPlXy3"
       },
       "artists": [
         {
-          "name": "Jana Horn",
-          "url": "https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1"
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
         }
       ],
-      "duration_ms": 119372,
-      "name": "Optimism",
-      "url": "https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF"
+      "duration_ms": 231880,
+      "name": "Dried Up River",
+      "url": "https://open.spotify.com/track/7bNvUAHtAVDee8w6SS6r0S"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1523,6 +1507,22 @@
       "duration_ms": 224106,
       "name": "Can\u2019t Do Much",
       "url": "https://open.spotify.com/track/0sEJmxTlb2SZNxdjzBATPK"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Optimism",
+        "url": "https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd"
+      },
+      "artists": [
+        {
+          "name": "Jana Horn",
+          "url": "https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1"
+        }
+      ],
+      "duration_ms": 119372,
+      "name": "Optimism",
+      "url": "https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Mother\u2019s Milk",
-        "url": "https://open.spotify.com/album/3lf8jM9HzVHrL9RI0JNWsz"
-      },
-      "artists": [
-        {
-          "name": "Clean Cut Kid",
-          "url": "https://open.spotify.com/artist/0vnJ2wR879kbb5MuzblVOb"
-        }
-      ],
-      "duration_ms": 229666,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/5HheAgHugjc04e0YOt4OIE"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "To Love",
         "url": "https://open.spotify.com/album/2FK4yXQGrYTLS1DjKavwoe"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 216189,
       "name": "Every Day's A Lesson In Humility",
       "url": "https://open.spotify.com/track/0rUHnNylp4QiqLOx3hL2EY"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Mother\u2019s Milk",
+        "url": "https://open.spotify.com/album/3lf8jM9HzVHrL9RI0JNWsz"
+      },
+      "artists": [
+        {
+          "name": "Clean Cut Kid",
+          "url": "https://open.spotify.com/artist/0vnJ2wR879kbb5MuzblVOb"
+        }
+      ],
+      "duration_ms": 229666,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/5HheAgHugjc04e0YOt4OIE"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "In The Blossom of Their Shade",
-        "url": "https://open.spotify.com/album/34QLCed0oGYCeSJLSNQmuf"
-      },
-      "artists": [
-        {
-          "name": "Pokey LaFarge",
-          "url": "https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT"
-        }
-      ],
-      "duration_ms": 214747,
-      "name": "Get It \u2018Fore It\u2019s Gone",
-      "url": "https://open.spotify.com/track/6bFQTxFd9QCL8te5fbjt8i"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Things Take Time, Take Time",
         "url": "https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv"
       },
@@ -1699,34 +1683,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Southern Star",
-        "url": "https://open.spotify.com/album/5SoDgEyUeO6DcS88kOuR0d"
+        "name": "In The Blossom of Their Shade",
+        "url": "https://open.spotify.com/album/34QLCed0oGYCeSJLSNQmuf"
       },
       "artists": [
         {
-          "name": "Brent Cobb",
-          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+          "name": "Pokey LaFarge",
+          "url": "https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT"
         }
       ],
-      "duration_ms": 186269,
-      "name": "Southern Star",
-      "url": "https://open.spotify.com/track/4O6pTiXCFeuLE8fBz3LWGf"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Stand For Myself",
-        "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
-      },
-      "artists": [
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Dancing Away In Tears",
-      "url": "https://open.spotify.com/track/5PPrN7zj104wLUtAofZvwb"
+      "duration_ms": 214747,
+      "name": "Get It \u2018Fore It\u2019s Gone",
+      "url": "https://open.spotify.com/track/6bFQTxFd9QCL8te5fbjt8i"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1747,18 +1715,34 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "PAINLESS",
-        "url": "https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7"
+        "name": "Stand For Myself",
+        "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
       },
       "artists": [
         {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
         }
       ],
-      "duration_ms": 282373,
-      "name": "midnight sun",
-      "url": "https://open.spotify.com/track/7M3YPejLG9WxQS9i4ZHVXh"
+      "duration_ms": 228000,
+      "name": "Dancing Away In Tears",
+      "url": "https://open.spotify.com/track/5PPrN7zj104wLUtAofZvwb"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Southern Star",
+        "url": "https://open.spotify.com/album/5SoDgEyUeO6DcS88kOuR0d"
+      },
+      "artists": [
+        {
+          "name": "Brent Cobb",
+          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+        }
+      ],
+      "duration_ms": 186269,
+      "name": "Southern Star",
+      "url": "https://open.spotify.com/track/4O6pTiXCFeuLE8fBz3LWGf"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1775,6 +1759,22 @@
       "duration_ms": 222586,
       "name": "Blindsided",
       "url": "https://open.spotify.com/track/0lPCROErEeqqqzwRMMXJHR"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "PAINLESS",
+        "url": "https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "duration_ms": 282373,
+      "name": "midnight sun",
+      "url": "https://open.spotify.com/track/7M3YPejLG9WxQS9i4ZHVXh"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2131,22 +2131,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Turn Off The News (Build A Garden)",
-        "url": "https://open.spotify.com/album/4pq1gNWh38JQfazZqxjH5m"
-      },
-      "artists": [
-        {
-          "name": "Lukas Nelson and Promise of the Real",
-          "url": "https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY"
-        }
-      ],
-      "duration_ms": 181349,
-      "name": "Turn Off The News (Build A Garden) - Acoustic",
-      "url": "https://open.spotify.com/track/2MveWLaASfY6eQb0IpSxzq"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Practice Magic and Seek Professional Help When Necessary",
         "url": "https://open.spotify.com/album/2f5KpUAT9lDedlKG3PQLQz"
       },
@@ -2159,6 +2143,22 @@
       "duration_ms": 161972,
       "name": "Song to Make You Fall in Love With Me",
       "url": "https://open.spotify.com/track/6uamXLhBaOLWaDkaftKTzr"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Turn Off The News (Build A Garden)",
+        "url": "https://open.spotify.com/album/4pq1gNWh38JQfazZqxjH5m"
+      },
+      "artists": [
+        {
+          "name": "Lukas Nelson and Promise of the Real",
+          "url": "https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY"
+        }
+      ],
+      "duration_ms": 181349,
+      "name": "Turn Off The News (Build A Garden) - Acoustic",
+      "url": "https://open.spotify.com/track/2MveWLaASfY6eQb0IpSxzq"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2179,22 +2179,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Traffic Fiction",
-        "url": "https://open.spotify.com/album/0MkenTu5G8qe0SgyE619fA"
-      },
-      "artists": [
-        {
-          "name": "Tr\u00e9 Burt",
-          "url": "https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc"
-        }
-      ],
-      "duration_ms": 236933,
-      "name": "2 FOR THA SHOW",
-      "url": "https://open.spotify.com/track/6OJzYB7wzVhxI2YIjVrfr6"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "all of my lessons",
         "url": "https://open.spotify.com/album/4unK854kzraNk7AGOP9aTO"
       },
@@ -2207,6 +2191,22 @@
       "duration_ms": 176795,
       "name": "all of my lessons",
       "url": "https://open.spotify.com/track/5pngx2j5NVygoo72yqNaEF"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Traffic Fiction",
+        "url": "https://open.spotify.com/album/0MkenTu5G8qe0SgyE619fA"
+      },
+      "artists": [
+        {
+          "name": "Tr\u00e9 Burt",
+          "url": "https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc"
+        }
+      ],
+      "duration_ms": 236933,
+      "name": "2 FOR THA SHOW",
+      "url": "https://open.spotify.com/track/6OJzYB7wzVhxI2YIjVrfr6"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2383,22 +2383,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Quitters",
-        "url": "https://open.spotify.com/album/4m0J4ljxRrsHJfXSmjiYUG"
-      },
-      "artists": [
-        {
-          "name": "Christian Lee Hutson",
-          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
-        }
-      ],
-      "duration_ms": 208911,
-      "name": "Rubberneckers",
-      "url": "https://open.spotify.com/track/5bFCQlmeLTKT25oga5ltiA"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Watchhouse",
         "url": "https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK"
       },
@@ -2415,18 +2399,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Desert Woman",
-        "url": "https://open.spotify.com/album/2xAcvuIfPBODVL1I7FbbBc"
+        "name": "Quitters",
+        "url": "https://open.spotify.com/album/4m0J4ljxRrsHJfXSmjiYUG"
       },
       "artists": [
         {
-          "name": "Paul Cauthen",
-          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+          "name": "Christian Lee Hutson",
+          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
         }
       ],
-      "duration_ms": 256402,
-      "name": "Desert Woman",
-      "url": "https://open.spotify.com/track/60YaAz53fBB3CXHPxhlUVu"
+      "duration_ms": 208911,
+      "name": "Rubberneckers",
+      "url": "https://open.spotify.com/track/5bFCQlmeLTKT25oga5ltiA"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2447,18 +2431,34 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Requiem",
-        "url": "https://open.spotify.com/album/4Xr1qkaJY6ICHp7nh1rzec"
+        "name": "Desert Woman",
+        "url": "https://open.spotify.com/album/2xAcvuIfPBODVL1I7FbbBc"
       },
       "artists": [
         {
-          "name": "Ben Abraham",
-          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
         }
       ],
-      "duration_ms": 218740,
-      "name": "Requiem",
-      "url": "https://open.spotify.com/track/5w4axvkZhiRqoE0PP6teSo"
+      "duration_ms": 256402,
+      "name": "Desert Woman",
+      "url": "https://open.spotify.com/track/60YaAz53fBB3CXHPxhlUVu"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Shepherd in a Sheepskin Vest",
+        "url": "https://open.spotify.com/album/59hAqiqCmbfLBDtMzGCNpp"
+      },
+      "artists": [
+        {
+          "name": "Bill Callahan",
+          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
+        }
+      ],
+      "duration_ms": 222453,
+      "name": "What Comes After Certainty",
+      "url": "https://open.spotify.com/track/3sSfpC7N0UC5GeaqwquTMq"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2475,6 +2475,22 @@
       "duration_ms": 182012,
       "name": "That's Life Honey",
       "url": "https://open.spotify.com/track/4ruhASOVIoqNGNXSjLwVQZ"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Requiem",
+        "url": "https://open.spotify.com/album/4Xr1qkaJY6ICHp7nh1rzec"
+      },
+      "artists": [
+        {
+          "name": "Ben Abraham",
+          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
+        }
+      ],
+      "duration_ms": 218740,
+      "name": "Requiem",
+      "url": "https://open.spotify.com/track/5w4axvkZhiRqoE0PP6teSo"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2507,22 +2523,6 @@
       "duration_ms": 205875,
       "name": "Under the Concrete",
       "url": "https://open.spotify.com/track/0P3tGih9Q0WCRZObKwCujT"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Shepherd in a Sheepskin Vest",
-        "url": "https://open.spotify.com/album/59hAqiqCmbfLBDtMzGCNpp"
-      },
-      "artists": [
-        {
-          "name": "Bill Callahan",
-          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
-        }
-      ],
-      "duration_ms": 222453,
-      "name": "What Comes After Certainty",
-      "url": "https://open.spotify.com/track/3sSfpC7N0UC5GeaqwquTMq"
     }
   ],
   "unique_name": "Modern Eclectic",

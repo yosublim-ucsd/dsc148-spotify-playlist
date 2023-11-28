@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Nubiyan Twist
 
-[Spotify](https://open.spotify.com/user/spotify) - 910,109 likes - 100 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 910,225 likes - 100 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 49 | [Sal Al Malecón](https://open.spotify.com/track/4r4pcD6Q0TK5MSfhJ6W16Z) | [Roberto Fonseca](https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu) | [Sal Al Malecón](https://open.spotify.com/album/1ybjgopLYNB9XbJBKRF8JS) | 3:06 |
 | 50 | [For Roy](https://open.spotify.com/track/10d2cJq5gUpMfJ7sO1VtIK) | [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd) | [For Roy](https://open.spotify.com/album/0FAN1nY9LMj2mShCOorekg) | 3:43 |
 | 51 | [Light Years](https://open.spotify.com/track/0cLYQtBl5nWFVoTuqapSiB) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Sample The Sky](https://open.spotify.com/album/0p0lwsjdhGotcvunazwuRB) | 4:07 |
-| 52 | [Simple \#2](https://open.spotify.com/track/6E9jT8mDX12gvcBLK76hKh) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP), [Geri Allen](https://open.spotify.com/artist/0jqAOYfo9ipclW7ATXPhHg) | [Simple \#2](https://open.spotify.com/album/0n1T5OqYYhkHxlDJposTdI) | 7:52 |
+| 52 | [Simple \#2](https://open.spotify.com/track/7FEFlvPxocLxR86GOlEhlj) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP), [Geri Allen](https://open.spotify.com/artist/0jqAOYfo9ipclW7ATXPhHg) | [A Lovesome Thing](https://open.spotify.com/album/47b74rWLSpPJjFfmw3gLUh) | 7:52 |
 | 53 | [no one else has your magik!](https://open.spotify.com/track/0XPQ1MkUGm4pGQj3kx4exC) | [muva of Earth](https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3) | [align with Nature's Intelligence](https://open.spotify.com/album/7KscLI0PccEmUo5GUm3DhO) | 5:46 |
 | 54 | [The Wall](https://open.spotify.com/track/5fNrFBVejCZ9xuefjKgLd1) | [House of Waters](https://open.spotify.com/artist/4a8MGNthjVGNBU6AdBQT7x), [Priya Darshini](https://open.spotify.com/artist/0HBnj5wwxLtAYL6H66jKJV) | [On Becoming](https://open.spotify.com/album/1LyPkWKNtTSxunTX2a5CuY) | 10:37 |
 | 55 | [Sticology](https://open.spotify.com/track/4bo5HMKLmnyq03pXcN4DFH) | [Dan Wilson](https://open.spotify.com/artist/1HJipEfSoTMkMV0pFggoJZ) | [Things Eternal](https://open.spotify.com/album/3NJBPOhXOgzmVGuJx9HE5O) | 6:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [It's Ok, B U](https://open.spotify.com/track/471EXpx1r3ht0t2yhkTewm) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [It's Ok, B U](https://open.spotify.com/album/6NSTroWyAp3htlhO61s3Ep) | 4:22 |
 | 100 | [JERICHO](https://open.spotify.com/track/6ggQiv5Hr3CHTqI7sFfnxV) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB) | [JERICHO](https://open.spotify.com/album/2GSNn4nuV4BzdgIJoZZgYT) | 2:39 |
 
-Snapshot ID: `MCw0NjgwZGJlYjU4NWJlMDYyOGVlMjI4ZGI2YWM0NTllY2I4ZmRjMzY4`
+Snapshot ID: `MCxjZWNmOTJlNmY1NDBhOTg1OTBlOTU0OTI3NjkyYzI1NzkzYjRhOWI5`

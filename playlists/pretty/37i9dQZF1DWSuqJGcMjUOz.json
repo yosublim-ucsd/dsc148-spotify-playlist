@@ -1,12 +1,12 @@
 {
   "description": "La liste de lecture officielle de l\u2019\u00e9dition 2023 des Francos de Montr\u00e9al!",
-  "num_followers": 3895,
+  "num_followers": 3896,
   "original_name": "Francos de Montr\u00e9al 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDg1NGE3ZGJiNTBhM2UyM2FjNTc4ZmFjODhjYjI0MjA1YjlmODVk",
+  "snapshot_id": "MCxlYTdlMWQxMDJkMmFhNGVkNjQxOWZkMjdiODk5NDkxZjFlMTY3ODI4",
   "tracks": [
     {
       "added_at": "2023-05-25 23:46:15",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "Un trou dans les nuages",
+        "url": "https://open.spotify.com/album/1wLEC5NI6C2Cq4Ap4TpDKN"
+      },
+      "artists": [
+        {
+          "name": "Michel Rivard",
+          "url": "https://open.spotify.com/artist/6CVur2iw4ExLNmsSGiATZN"
+        }
+      ],
+      "duration_ms": 319840,
+      "name": "Je voudrais voir la mer",
+      "url": "https://open.spotify.com/track/49PbjFOCzUYDUbjUJxin8V"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Foufoune",
         "url": "https://open.spotify.com/album/6TbzA1mI1xWwcQwkprcE8I"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 184288,
       "name": "Mauvais r\u00f4le",
       "url": "https://open.spotify.com/track/6fRqPDU2L4PpwTBvByWRe9"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "Un trou dans les nuages",
-        "url": "https://open.spotify.com/album/1wLEC5NI6C2Cq4Ap4TpDKN"
-      },
-      "artists": [
-        {
-          "name": "Michel Rivard",
-          "url": "https://open.spotify.com/artist/6CVur2iw4ExLNmsSGiATZN"
-        }
-      ],
-      "duration_ms": 319840,
-      "name": "Je voudrais voir la mer",
-      "url": "https://open.spotify.com/track/49PbjFOCzUYDUbjUJxin8V"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "M\u00e9tastases",
-        "url": "https://open.spotify.com/album/4BOFYJhsk6nESFlDH35jBO"
-      },
-      "artists": [
-        {
-          "name": "Keith Kouna",
-          "url": "https://open.spotify.com/artist/5jVzu02JTqYPuzeNH7voWK"
-        }
-      ],
-      "duration_ms": 312653,
-      "name": "A\u00e9roplane",
-      "url": "https://open.spotify.com/track/3oB2fUCPgYkLezFGxSkuXk"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Exposition individuelle",
         "url": "https://open.spotify.com/album/07uNRE8HbeyOCSokU6Ve4X"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 277195,
       "name": "Ensemble",
       "url": "https://open.spotify.com/track/6vM411RagdEKjnK4kb1f88"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "M\u00e9tastases",
+        "url": "https://open.spotify.com/album/4BOFYJhsk6nESFlDH35jBO"
+      },
+      "artists": [
+        {
+          "name": "Keith Kouna",
+          "url": "https://open.spotify.com/artist/5jVzu02JTqYPuzeNH7voWK"
+        }
+      ],
+      "duration_ms": 312653,
+      "name": "A\u00e9roplane",
+      "url": "https://open.spotify.com/track/3oB2fUCPgYkLezFGxSkuXk"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1815,6 +1815,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "Hauterive",
+        "url": "https://open.spotify.com/album/2T3H2zGJ0OAdpDDful41Bn"
+      },
+      "artists": [
+        {
+          "name": "Hauterive",
+          "url": "https://open.spotify.com/artist/1FjP1PNg8eZOJ5uuRe6UWj"
+        }
+      ],
+      "duration_ms": 269173,
+      "name": "Le temps d'avance",
+      "url": "https://open.spotify.com/track/7sYhY4B6gKSH5XERKxS6UF"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "normal",
         "url": "https://open.spotify.com/album/6oCINsAkkdM3RguhaI8IOI"
       },
@@ -1831,22 +1847,6 @@
       "duration_ms": 257880,
       "name": "creusercreuser",
       "url": "https://open.spotify.com/track/6Z9RMVyBJkWnF6GlemwMIk"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "Hauterive",
-        "url": "https://open.spotify.com/album/2T3H2zGJ0OAdpDDful41Bn"
-      },
-      "artists": [
-        {
-          "name": "Hauterive",
-          "url": "https://open.spotify.com/artist/1FjP1PNg8eZOJ5uuRe6UWj"
-        }
-      ],
-      "duration_ms": 269173,
-      "name": "Le temps d'avance",
-      "url": "https://open.spotify.com/track/7sYhY4B6gKSH5XERKxS6UF"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1883,6 +1883,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "La clairi\u00e8re",
+        "url": "https://open.spotify.com/album/6Q5X9RmkPOay3CQQMYTplq"
+      },
+      "artists": [
+        {
+          "name": "Vanille",
+          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
+        }
+      ],
+      "duration_ms": 190500,
+      "name": "Mon petit chemin",
+      "url": "https://open.spotify.com/track/3CSyQthkPOLOLXVmdYvHpL"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Les chevaux du plaisir (Boulay chante Bashung)",
         "url": "https://open.spotify.com/album/0mQ42DeEtBHZ33FhVzJ5sV"
       },
@@ -1915,18 +1931,18 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "La clairi\u00e8re",
-        "url": "https://open.spotify.com/album/6Q5X9RmkPOay3CQQMYTplq"
+        "name": "Moteur super sport",
+        "url": "https://open.spotify.com/album/61Ducr5serAJxHZqNONiPt"
       },
       "artists": [
         {
-          "name": "Vanille",
-          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
+          "name": "Tom Chicoine",
+          "url": "https://open.spotify.com/artist/2AFmNRNeW4gaF0E0fro7QG"
         }
       ],
-      "duration_ms": 190500,
-      "name": "Mon petit chemin",
-      "url": "https://open.spotify.com/track/3CSyQthkPOLOLXVmdYvHpL"
+      "duration_ms": 191420,
+      "name": "Moteur super sport",
+      "url": "https://open.spotify.com/track/0S1RVvLHeDxRU4tcVbyWJX"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1943,22 +1959,6 @@
       "duration_ms": 186581,
       "name": "Bruits blancs",
       "url": "https://open.spotify.com/track/6WmOMC9ejoUfB8EG12O9Jq"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "Moteur super sport",
-        "url": "https://open.spotify.com/album/61Ducr5serAJxHZqNONiPt"
-      },
-      "artists": [
-        {
-          "name": "Tom Chicoine",
-          "url": "https://open.spotify.com/artist/2AFmNRNeW4gaF0E0fro7QG"
-        }
-      ],
-      "duration_ms": 191420,
-      "name": "Moteur super sport",
-      "url": "https://open.spotify.com/track/0S1RVvLHeDxRU4tcVbyWJX"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -2079,22 +2079,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Chou",
-        "url": "https://open.spotify.com/album/7H8J8kjgxD3VwA9EZEgIL1"
-      },
-      "artists": [
-        {
-          "name": "Chou",
-          "url": "https://open.spotify.com/artist/1Cqb7NVdvCVvToNwW8Tgb2"
-        }
-      ],
-      "duration_ms": 123541,
-      "name": "Chou",
-      "url": "https://open.spotify.com/track/7cXmpcXi9DW0ZgFxd1xbiB"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Lance-Flamme Lance-Glace",
         "url": "https://open.spotify.com/album/4fdaBFDsJ1y7vJFgVMKvCR"
       },
@@ -2107,6 +2091,22 @@
       "duration_ms": 181286,
       "name": "Lance-Flamme Lance-Glace",
       "url": "https://open.spotify.com/track/04mBqAXAqVpBSjMRlD2qrv"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Chou",
+        "url": "https://open.spotify.com/album/7H8J8kjgxD3VwA9EZEgIL1"
+      },
+      "artists": [
+        {
+          "name": "Chou",
+          "url": "https://open.spotify.com/artist/1Cqb7NVdvCVvToNwW8Tgb2"
+        }
+      ],
+      "duration_ms": 123541,
+      "name": "Chou",
+      "url": "https://open.spotify.com/track/7cXmpcXi9DW0ZgFxd1xbiB"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -2143,22 +2143,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "la fin n\u2019arrive jamais",
-        "url": "https://open.spotify.com/album/08D8xAFw9rWrS0vF6poy5d"
-      },
-      "artists": [
-        {
-          "name": "adieu narcisse",
-          "url": "https://open.spotify.com/artist/1GY5zIB9GwQQcjruxXLfCN"
-        }
-      ],
-      "duration_ms": 255597,
-      "name": "P\u00e9n\u00e9lope",
-      "url": "https://open.spotify.com/track/7G5vlQHmTPRsF9oDJu4fxf"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Elle \u00e9tait une fois",
         "url": "https://open.spotify.com/album/3mHCRXJZDxAyAcRd2wPwNQ"
       },
@@ -2191,6 +2175,22 @@
       "duration_ms": 167851,
       "name": "Alien 2, le retour",
       "url": "https://open.spotify.com/track/36EOocCydeuIBIAsQjjSRR"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "la fin n\u2019arrive jamais",
+        "url": "https://open.spotify.com/album/08D8xAFw9rWrS0vF6poy5d"
+      },
+      "artists": [
+        {
+          "name": "adieu narcisse",
+          "url": "https://open.spotify.com/artist/1GY5zIB9GwQQcjruxXLfCN"
+        }
+      ],
+      "duration_ms": 255597,
+      "name": "P\u00e9n\u00e9lope",
+      "url": "https://open.spotify.com/track/7G5vlQHmTPRsF9oDJu4fxf"
     },
     {
       "added_at": "2023-05-25 23:46:15",

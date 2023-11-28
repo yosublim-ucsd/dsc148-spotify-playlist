@@ -1,12 +1,12 @@
 {
   "description": "El poder real del Hip Hop latinoamericano y espa\u00f1ol. La Banda Bast\u00f6n en portada. ",
-  "num_followers": 170348,
+  "num_followers": 170397,
   "original_name": "Cl\u00e1sicos del Hip Hop Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyY2EwNTQ4Y2JmNTQ5MjNiOWY4YTg3MDMyYmM4ZTM0Y2Y0MTMzZjg0",
+  "snapshot_id": "MCwwZWJmZTdhOGEzNjY1NzIyZDBiMzZiNGMwYmU4OWMwZDNhYzc4NTUy",
   "tracks": [
     {
       "added_at": "2023-08-08 02:05:58",
@@ -131,6 +131,22 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
+        "name": "Muerte",
+        "url": "https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "duration_ms": 361978,
+      "name": "Es \u00c9pico",
+      "url": "https://open.spotify.com/track/2kd0T6zgABT8P0s2h9QU5O"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
         "name": "Te Ire A Buscar",
         "url": "https://open.spotify.com/album/48nhACiR3pxi57lxXIxx1P"
       },
@@ -187,6 +203,22 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
+        "name": "Cartel De Santa",
+        "url": "https://open.spotify.com/album/54AKlknAxFRfXDXtwiAhRa"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 223093,
+      "name": "Todas Mueren por M\u00ed",
+      "url": "https://open.spotify.com/track/57DZJLuPk9a5ULzdER3ZFy"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
         "name": "The Fast And The Furious: Tokyo Drift (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4SJhZBuuLYlwUJGxWf8Pj0"
       },
@@ -207,24 +239,8 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Cartel De Santa",
-        "url": "https://open.spotify.com/album/54AKlknAxFRfXDXtwiAhRa"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 223093,
-      "name": "Todas Mueren por M\u00ed",
-      "url": "https://open.spotify.com/track/57DZJLuPk9a5ULzdER3ZFy"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
-        "name": "Muerte",
-        "url": "https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12"
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/29N9nfcvov8KfyF2X8Mj6P"
       },
       "artists": [
         {
@@ -232,53 +248,9 @@
           "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
         }
       ],
-      "duration_ms": 361978,
-      "name": "Es \u00c9pico",
-      "url": "https://open.spotify.com/track/2kd0T6zgABT8P0s2h9QU5O"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
-        "name": "As\u00ed Soy",
-        "url": "https://open.spotify.com/album/7HoGZ5WQZ8PNQVVOEmwIAY"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 236068,
-      "name": "As\u00ed Soy",
-      "url": "https://open.spotify.com/track/5Wvw29RKTFSK0IuCd2qs4m"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
-        "name": "Loca Remix",
-        "url": "https://open.spotify.com/album/5EuK2rW0iPINmt21KPbIUQ"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 346460,
-      "name": "Loca - Remix",
-      "url": "https://open.spotify.com/track/2ECIwi1a7mfokdDkkJ08Ne"
+      "duration_ms": 244062,
+      "name": "Pensando en Ti",
+      "url": "https://open.spotify.com/track/2auNjgM4xIOANxtZT4Xe9z"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -319,18 +291,46 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Vida",
-        "url": "https://open.spotify.com/album/29N9nfcvov8KfyF2X8Mj6P"
+        "name": "Loca Remix",
+        "url": "https://open.spotify.com/album/5EuK2rW0iPINmt21KPbIUQ"
       },
       "artists": [
         {
-          "name": "Canserbero",
-          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
         }
       ],
-      "duration_ms": 244062,
-      "name": "Pensando en Ti",
-      "url": "https://open.spotify.com/track/2auNjgM4xIOANxtZT4Xe9z"
+      "duration_ms": 346460,
+      "name": "Loca - Remix",
+      "url": "https://open.spotify.com/track/2ECIwi1a7mfokdDkkJ08Ne"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "As\u00ed Soy",
+        "url": "https://open.spotify.com/album/7HoGZ5WQZ8PNQVVOEmwIAY"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 236068,
+      "name": "As\u00ed Soy",
+      "url": "https://open.spotify.com/track/5Wvw29RKTFSK0IuCd2qs4m"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -351,34 +351,18 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Ojos Tumbados",
-        "url": "https://open.spotify.com/album/5bVfYgtEBKQDayvcxkyYq9"
+        "name": "Muerte",
+        "url": "https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12"
       },
       "artists": [
         {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Tiro Loko",
-          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
         }
       ],
-      "duration_ms": 262720,
-      "name": "Ojos Tumbados",
-      "url": "https://open.spotify.com/track/7uYFOLEhhmojSLTyVZ8r4O"
+      "duration_ms": 318328,
+      "name": "Jerem\u00edas 17-5",
+      "url": "https://open.spotify.com/track/1nSPlJY53DG3avK6UfpDpZ"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -423,22 +407,6 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Muerte",
-        "url": "https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12"
-      },
-      "artists": [
-        {
-          "name": "Canserbero",
-          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
-        }
-      ],
-      "duration_ms": 318328,
-      "name": "Jerem\u00edas 17-5",
-      "url": "https://open.spotify.com/track/1nSPlJY53DG3avK6UfpDpZ"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/2rmhl1gQux3WGPJA77FgRN"
       },
@@ -451,6 +419,38 @@
       "duration_ms": 182831,
       "name": "Rain",
       "url": "https://open.spotify.com/track/1EljzqiV1RDtXj1QUbx3db"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "Ojos Tumbados",
+        "url": "https://open.spotify.com/album/5bVfYgtEBKQDayvcxkyYq9"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Tiro Loko",
+          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
+        }
+      ],
+      "duration_ms": 262720,
+      "name": "Ojos Tumbados",
+      "url": "https://open.spotify.com/track/7uYFOLEhhmojSLTyVZ8r4O"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -519,6 +519,22 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
+        "name": "Muerte",
+        "url": "https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "duration_ms": 284813,
+      "name": "Mundo de Piedra",
+      "url": "https://open.spotify.com/track/4fhF0iJffyUJReKSecg78m"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
         "name": "Hurac\u00e1n",
         "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 215266,
       "name": "Comprendes, Mendes?",
       "url": "https://open.spotify.com/track/2YRDxUyqAXbukcjClvuYsd"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
-        "name": "Muerte",
-        "url": "https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12"
-      },
-      "artists": [
-        {
-          "name": "Canserbero",
-          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
-        }
-      ],
-      "duration_ms": 284813,
-      "name": "Mundo de Piedra",
-      "url": "https://open.spotify.com/track/4fhF0iJffyUJReKSecg78m"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
+        "name": "S\u00faper Sangre Joven",
+        "url": "https://open.spotify.com/album/1SbMoaKFJWo8u1tb2dAgHt"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 164457,
+      "name": "Goteo",
+      "url": "https://open.spotify.com/track/57kdZIOAaolxAjB67d2yU3"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
         "name": "Sincopa",
         "url": "https://open.spotify.com/album/6XpSHxvcHf2VbRpDnMN091"
       },
@@ -775,18 +791,22 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "S\u00faper Sangre Joven",
-        "url": "https://open.spotify.com/album/1SbMoaKFJWo8u1tb2dAgHt"
+        "name": "El Chivo",
+        "url": "https://open.spotify.com/album/0IbbPJkA83Unb76NTio1YP"
       },
       "artists": [
         {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+          "name": "Berner",
+          "url": "https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI"
+        },
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
         }
       ],
-      "duration_ms": 164457,
-      "name": "Goteo",
-      "url": "https://open.spotify.com/track/57kdZIOAaolxAjB67d2yU3"
+      "duration_ms": 275400,
+      "name": "El Chivo (feat. T3r Elemento)",
+      "url": "https://open.spotify.com/track/1t0P9nBKpnrh5MntGd3qw6"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -807,22 +827,22 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "El Chivo",
-        "url": "https://open.spotify.com/album/0IbbPJkA83Unb76NTio1YP"
+        "name": "Ella Es una G",
+        "url": "https://open.spotify.com/album/0LZvdr6kQETllHmCgnmzIh"
       },
       "artists": [
         {
-          "name": "Berner",
-          "url": "https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI"
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
         },
         {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
         }
       ],
-      "duration_ms": 275400,
-      "name": "El Chivo (feat. T3r Elemento)",
-      "url": "https://open.spotify.com/track/1t0P9nBKpnrh5MntGd3qw6"
+      "duration_ms": 216916,
+      "name": "Ella Es una G",
+      "url": "https://open.spotify.com/track/0auXrMuY60r1lfRozhloTk"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -863,26 +883,6 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Ella Es una G",
-        "url": "https://open.spotify.com/album/0LZvdr6kQETllHmCgnmzIh"
-      },
-      "artists": [
-        {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 216916,
-      "name": "Ella Es una G",
-      "url": "https://open.spotify.com/track/0auXrMuY60r1lfRozhloTk"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
         "name": "As\u00ed Soy Yo",
         "url": "https://open.spotify.com/album/7I1mThh5NCgS2BqrAWcMdi"
       },
@@ -895,22 +895,6 @@
       "duration_ms": 209386,
       "name": "M\u00e1s Flow M\u00e1s Cash",
       "url": "https://open.spotify.com/track/47zBGuVCeAzjFEPnRQQBew"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
-        "name": "Edici\u00f3n Especial",
-        "url": "https://open.spotify.com/album/5DUcnGGmAANjBJuXVG0KxQ"
-      },
-      "artists": [
-        {
-          "name": "Movimiento Original",
-          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
-        }
-      ],
-      "duration_ms": 218697,
-      "name": "Grandes Pasos",
-      "url": "https://open.spotify.com/track/1kTDUMGq732oIs3XJK1bre"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -931,6 +915,22 @@
       "duration_ms": 244771,
       "name": "Sin Culpa (feat.DrefQuila)",
       "url": "https://open.spotify.com/track/03PZ9C7f90TLbDk3dYjBd2"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "Edici\u00f3n Especial",
+        "url": "https://open.spotify.com/album/5DUcnGGmAANjBJuXVG0KxQ"
+      },
+      "artists": [
+        {
+          "name": "Movimiento Original",
+          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
+        }
+      ],
+      "duration_ms": 218697,
+      "name": "Grandes Pasos",
+      "url": "https://open.spotify.com/track/1kTDUMGq732oIs3XJK1bre"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Verte Cerquita",
-        "url": "https://open.spotify.com/album/77Q12SIPTgFOPBZ2qRR1Kv"
-      },
-      "artists": [
-        {
-          "name": "Movimiento Original",
-          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 232721,
-      "name": "Verte Cerquita",
-      "url": "https://open.spotify.com/track/6eTCWWKBtnJI9Ui9OlLEyO"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
         "name": "Servicios Ambulatorioz",
         "url": "https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 168032,
       "name": "Arre",
       "url": "https://open.spotify.com/track/6lQ7ubRjFRpxkRtlFnMJRl"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "Verte Cerquita",
+        "url": "https://open.spotify.com/album/77Q12SIPTgFOPBZ2qRR1Kv"
+      },
+      "artists": [
+        {
+          "name": "Movimiento Original",
+          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 232721,
+      "name": "Verte Cerquita",
+      "url": "https://open.spotify.com/track/6eTCWWKBtnJI9Ui9OlLEyO"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Teorema",
-        "url": "https://open.spotify.com/album/4BrZpyJrJ3cPWgqIr6FLIU"
-      },
-      "artists": [
-        {
-          "name": "Movimiento Original",
-          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
-        }
-      ],
-      "duration_ms": 204125,
-      "name": "Natural",
-      "url": "https://open.spotify.com/track/3tsBwY0wRBkiy8EBOY3O7z"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
         "name": "Nunca Imagin\u00e9",
         "url": "https://open.spotify.com/album/352sRI2EeX9EyIiVUgPqRf"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 168000,
       "name": "Nunca Imagin\u00e9",
       "url": "https://open.spotify.com/track/3SERRzMQ0DL3aImY2smoe9"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "Teorema",
+        "url": "https://open.spotify.com/album/4BrZpyJrJ3cPWgqIr6FLIU"
+      },
+      "artists": [
+        {
+          "name": "Movimiento Original",
+          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
+        }
+      ],
+      "duration_ms": 204125,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/3tsBwY0wRBkiy8EBOY3O7z"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
+        "name": "Merry Go Round",
+        "url": "https://open.spotify.com/album/7urGVhRGLgozoouBLDKhom"
+      },
+      "artists": [
+        {
+          "name": "Delinquent Habits",
+          "url": "https://open.spotify.com/artist/0Ph64AJnzKQwXj4y7bWi2U"
+        }
+      ],
+      "duration_ms": 254640,
+      "name": "Return Of The Tres",
+      "url": "https://open.spotify.com/track/5qVF2rEf75oPrZHhmZmDKk"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
         "name": "Poesia Difusa",
         "url": "https://open.spotify.com/album/1zrVeZHRsPsRWdnQSuUIYG"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 309606,
       "name": "Amor Libre",
       "url": "https://open.spotify.com/track/1PT0H11VO2JSWjsCPR0CBd"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
-        "name": "Merry Go Round",
-        "url": "https://open.spotify.com/album/7urGVhRGLgozoouBLDKhom"
-      },
-      "artists": [
-        {
-          "name": "Delinquent Habits",
-          "url": "https://open.spotify.com/artist/0Ph64AJnzKQwXj4y7bWi2U"
-        }
-      ],
-      "duration_ms": 254640,
-      "name": "Return Of The Tres",
-      "url": "https://open.spotify.com/track/5qVF2rEf75oPrZHhmZmDKk"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Faruz Fit, Vol. 1",
-        "url": "https://open.spotify.com/album/4Uo5YhvoKTSbSGjv8iv9DL"
-      },
-      "artists": [
-        {
-          "name": "Faruz Feet",
-          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
-        }
-      ],
-      "duration_ms": 204214,
-      "name": "Natural",
-      "url": "https://open.spotify.com/track/4awFUpxIo94l8m7DpQwD8e"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
         "name": "Atrevido",
         "url": "https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 228097,
       "name": "G.P.S. - con Aleman",
       "url": "https://open.spotify.com/track/03e3pnRddWmYOVQlzs3Qnb"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "Faruz Fit, Vol. 1",
+        "url": "https://open.spotify.com/album/4Uo5YhvoKTSbSGjv8iv9DL"
+      },
+      "artists": [
+        {
+          "name": "Faruz Feet",
+          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+        }
+      ],
+      "duration_ms": 204214,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/4awFUpxIo94l8m7DpQwD8e"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Serio",
-        "url": "https://open.spotify.com/album/1rSmB2J6FBTsH9NOCV24xW"
-      },
-      "artists": [
-        {
-          "name": "Lil Supa",
-          "url": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "\u5149 Luz",
-      "url": "https://open.spotify.com/track/5aF2hoUHaU9GainPXIZDMV"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
         "name": "24/Siempre Vol.1",
         "url": "https://open.spotify.com/album/6pXhkTQvS9ZYWSJfETLnKr"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 152298,
       "name": "Homer el Mero Mero",
       "url": "https://open.spotify.com/track/1V6KZnJeDj25lYJdqDoydT"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "Serio",
+        "url": "https://open.spotify.com/album/1rSmB2J6FBTsH9NOCV24xW"
+      },
+      "artists": [
+        {
+          "name": "Lil Supa",
+          "url": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "\u5149 Luz",
+      "url": "https://open.spotify.com/track/5aF2hoUHaU9GainPXIZDMV"
     }
   ],
   "unique_name": "Cl\u00e1sicos del Hip Hop Latino",

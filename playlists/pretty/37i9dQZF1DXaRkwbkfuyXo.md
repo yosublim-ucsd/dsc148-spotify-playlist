@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRkwbkfuyXo.md) - [plain]
 
 > Seguimos arremangados, pariente\. El Komander en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,780 likes - 90 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,094 likes - 90 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRkwbkfuyXo.md) - [plain]
 | 89 | [Casquillos De Mi Cuerno](https://open.spotify.com/track/7bciiqMnJmrfL7jayg9DJa) | [Adan Romero](https://open.spotify.com/artist/1gkGKzeXQYnVPI76yDlOqz) | [Corridos Prohibidos](https://open.spotify.com/album/1X4znZJ1tE300zU5dd060r) | 3:07 |
 | 90 | [Al Estilo Mafia](https://open.spotify.com/track/4YeZzfKYGy8f25pxC7IzlP) | [Saul El Jaguar Alarcón](https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro), [Banda Clave Nueva](https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R) | [Mi Estilo De Vida](https://open.spotify.com/album/4XTRnTF9TtsioXH69brAYW) | 2:27 |
 
-Snapshot ID: `MCwzZWQ1MzQ0NjAwZTUyOWQyMTZlMmM3MDU3OGRiMWE0NTVmZGE2M2Vh`
+Snapshot ID: `MCwzYWQ5OTJhYTA0ZTVhNGNhMzBhNjg2Y2VhNzRmM2U1MDU5Zjg1OWJk`

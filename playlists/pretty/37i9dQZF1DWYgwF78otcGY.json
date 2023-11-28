@@ -1,12 +1,12 @@
 {
   "description": "P\u00e5 med fj\u00e4derboan och de gyllene skorna. Nu ska vi dansa i neon!",
-  "num_followers": 26910,
+  "num_followers": 26913,
   "original_name": "Schlagerfest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjU0MzA3ZWZiOTFkODI5OWI4MTc3YTE1ZjY2MDA3YmI5ODhjNWMy",
+  "snapshot_id": "MCxhNGQzNjBiYjFiM2E5ZGQzMDlhZTMzMjU5YjlmM2I0ODc0OTMzYjIw",
   "tracks": [
     {
       "added_at": "2023-02-26 01:59:39",
@@ -59,22 +59,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Euphoria (The Alternative Mixes)",
-        "url": "https://open.spotify.com/album/6gWEIUmtUGPbLMbEcTCDxu"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 181786,
-      "name": "Euphoria - Single Version",
-      "url": "https://open.spotify.com/track/2I0NkzwRH4Onzzg5UbmcpE"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "\u00c4r",
         "url": "https://open.spotify.com/album/1nfObC0Ykmpy6vYLwlsg4Z"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 188293,
       "name": "Stad i ljus",
       "url": "https://open.spotify.com/track/7bVwUOySQGO2afJ0LArAMi"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "Euphoria (The Alternative Mixes)",
+        "url": "https://open.spotify.com/album/6gWEIUmtUGPbLMbEcTCDxu"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 181786,
+      "name": "Euphoria - Single Version",
+      "url": "https://open.spotify.com/track/2I0NkzwRH4Onzzg5UbmcpE"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -331,6 +331,22 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
+        "name": "En Samling 1981 - 2001",
+        "url": "https://open.spotify.com/album/0TcAev3EcjkrvhP3BoHlj9"
+      },
+      "artists": [
+        {
+          "name": "Tommy Nilsson",
+          "url": "https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq"
+        }
+      ],
+      "duration_ms": 198706,
+      "name": "En dag",
+      "url": "https://open.spotify.com/track/4y81ov9ojdBPu5eLhDKxS9"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
         "name": "En helt vanlig Svensson",
         "url": "https://open.spotify.com/album/5yFU2tACu1Fp4dwSLY6NAO"
       },
@@ -347,18 +363,18 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "En Samling 1981 - 2001",
-        "url": "https://open.spotify.com/album/0TcAev3EcjkrvhP3BoHlj9"
+        "name": "Dolly Styles b\u00e4sta",
+        "url": "https://open.spotify.com/album/4UeSWAPwCYG0PUYXfTRMfE"
       },
       "artists": [
         {
-          "name": "Tommy Nilsson",
-          "url": "https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq"
+          "name": "Dolly Style",
+          "url": "https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs"
         }
       ],
-      "duration_ms": 198706,
-      "name": "En dag",
-      "url": "https://open.spotify.com/track/4y81ov9ojdBPu5eLhDKxS9"
+      "duration_ms": 171340,
+      "name": "Habibi",
+      "url": "https://open.spotify.com/track/0PcnMWhIgWga5G7pck1Fhb"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -391,22 +407,6 @@
       "duration_ms": 174720,
       "name": "V\u00e4xeln hall\u00e5",
       "url": "https://open.spotify.com/track/61hgZt5HEewtSjxibp01Vy"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
-        "name": "Dolly Styles b\u00e4sta",
-        "url": "https://open.spotify.com/album/4UeSWAPwCYG0PUYXfTRMfE"
-      },
-      "artists": [
-        {
-          "name": "Dolly Style",
-          "url": "https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs"
-        }
-      ],
-      "duration_ms": 171340,
-      "name": "Habibi",
-      "url": "https://open.spotify.com/track/0PcnMWhIgWga5G7pck1Fhb"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/0pvbtMDkjdbU3XDKU6Zm6P"
+      },
+      "artists": [
+        {
+          "name": "Tone Sekelius",
+          "url": "https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl"
+        }
+      ],
+      "duration_ms": 182443,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/0tmMGxsxRd78NJGrMesWtx"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
         "name": "X My Heart",
         "url": "https://open.spotify.com/album/4GXyJ4D53Gx0I3lHzhDUxd"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 174733,
       "name": "Let Your Spirit Fly",
       "url": "https://open.spotify.com/track/1k8Licv2jaRTbRtAbJZ3In"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/0pvbtMDkjdbU3XDKU6Zm6P"
-      },
-      "artists": [
-        {
-          "name": "Tone Sekelius",
-          "url": "https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl"
-        }
-      ],
-      "duration_ms": 182443,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/0tmMGxsxRd78NJGrMesWtx"
     },
     {
       "added_at": "2023-02-26 01:59:39",

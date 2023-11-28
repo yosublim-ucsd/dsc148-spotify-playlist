@@ -4,7 +4,7 @@
 
 > Fresh Latin Indie\. Cover: Gus
 
-503 songs - 1 day 3 hr 56 min
+504 songs - 1 day 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [Mexico](https://open.spotify.com/track/4ix1Sthfg7xwrDwM0Zj53k) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Mexico](https://open.spotify.com/album/7CgEURpwKsDNDDQ5NuFZgp) | 3:40 | 2023-09-01 |  |
 | [Mi Droga Favorita](https://open.spotify.com/track/5uAMj3PkbSoYhJbEfc0CSX) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Mi Droga Favorita](https://open.spotify.com/album/5gVIZXNXoXM9Z9AHDtnSqL) | 2:55 | 2023-06-09 |  |
 | [Mi Fiesta](https://open.spotify.com/track/1h1ryRXPpMLgXeYdq9qylK) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [El Big Blue](https://open.spotify.com/album/1K6DMhbzgcx1T8e4HPnOX4) | 3:12 | 2022-11-24 | 2023-04-29 |
+| [Mi Historia Entre Tus Dedos](https://open.spotify.com/track/7ns39yx54DOHmmqWetPV6v) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Mi Historia Entre Tus Dedos](https://open.spotify.com/album/7r6vkoLXv4y7aCJOns15NG) | 4:10 | 2023-11-24 |  |
 | [Mi Querido, Mi Viejo, Mi Amigo](https://open.spotify.com/track/6rmOA5QbXGCXGoR9dYwR4p) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Mi Querido, Mi Viejo, Mi Amigo](https://open.spotify.com/album/7vlyywsguQ8jChINFZRf7d) | 3:18 | 2023-06-09 | 2023-08-05 |
 | [Mi Tesoro](https://open.spotify.com/track/1V6Tp4pBAHByhlZrMTOYxd) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF) | [Mi Tesoro](https://open.spotify.com/album/1507DkjEBQqhE2xXHrOTOT) | 3:26 | 2022-12-16 | 2023-01-14 |
 | [Mi vida en llamas \(feat\. Buscabulla\)](https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Mi vida en llamas \(feat\. Buscabulla\)](https://open.spotify.com/album/7q70ajI1NZeBm8FIpLACy5) | 4:48 | 2023-04-28 |  |
@@ -283,7 +284,7 @@
 | [Moment of Joy](https://open.spotify.com/track/3GLGwjylUfM2quQzK07EY5) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Invisible People](https://open.spotify.com/album/2sS14o33EFyvcUPu2dfPOT) | 3:37 | 2021-11-18 | 2022-11-20 |
 | [MONA LISA](https://open.spotify.com/track/3rTk3EuxDOduzi54ji5sqj) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [BAD PREMONITION](https://open.spotify.com/album/2OvBs0EwzxPxaoTrZwtg0x) | 3:41 | 2023-03-17 | 2023-03-26 |
 | [MONA LISA](https://open.spotify.com/track/64u544VQPMuJUGklB7dbtK) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [BAD PREMONITION](https://open.spotify.com/album/3pittQTMimOMMBzkx9gWl5) | 3:41 | 2023-03-31 | 2023-04-29 |
-| [Monumento](https://open.spotify.com/track/1Lb0j0vG9oNCvZYqhXLa4s) | [Jarina De Marco](https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL), [Calacote](https://open.spotify.com/artist/52PhGA4a6erATMkWfLuFvO) | [Monumento](https://open.spotify.com/album/0KCzvW9btMbZpM2JVPZj4s) | 2:42 | 2023-11-17 |  |
+| [Monumento](https://open.spotify.com/track/1Lb0j0vG9oNCvZYqhXLa4s) | [Jarina De Marco](https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL), [Calacote](https://open.spotify.com/artist/52PhGA4a6erATMkWfLuFvO) | [Monumento](https://open.spotify.com/album/0KCzvW9btMbZpM2JVPZj4s) | 2:42 | 2023-11-17 | 2023-11-28 |
 | [Movezz en silencio](https://open.spotify.com/track/1Hrucz5n0cjYuPApCk8VkL) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [Me Muevo Con Dios](https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT) | 3:00 | 2023-09-22 |  |
 | [Movimiento](https://open.spotify.com/track/2pBkGJf561cHhTLHaImDns) | [Astronomía Interior](https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY) | [Astronomía Interior](https://open.spotify.com/album/0ozZh31IwYGhCVUOTvZaiu) | 3:23 | 2023-01-30 | 2023-08-05 |
 | [Ms\. Moon](https://open.spotify.com/track/3HFDfyuMD3UU51G0AIfeTa) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [444/Ms\. Moon](https://open.spotify.com/album/4XQ2sccEi11cw5EZZMA97Z) | 2:33 | 2022-11-24 | 2023-06-24 |

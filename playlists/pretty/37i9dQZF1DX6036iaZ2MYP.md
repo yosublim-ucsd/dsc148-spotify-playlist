@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Midas the Jagaban
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,628 likes - 49 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,686 likes - 49 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 48 | [Badman Love](https://open.spotify.com/track/1fDTVpr032sozi3eJl3PKt) | [Jayboogz](https://open.spotify.com/artist/5tTHX8CPiN6VMR8YEWecSS) | [Badman Love](https://open.spotify.com/album/4IWeBBTpKqsnjdoccWmpbL) | 2:55 |
 | 49 | [Câlin](https://open.spotify.com/track/055A214tvDRBmiCcSWiQ2c) | [Teevii](https://open.spotify.com/artist/0BsnEMjLXXT5SZW6CksSTp) | [Câlin](https://open.spotify.com/album/1PYfLY7mmLIEpD0u9UowAS) | 2:05 |
 
-Snapshot ID: `MCw3ZmUyYTZkN2U2ZmM3ZDYwYTA5ODg3YjYyOWYwZmM4NTE3YTNlOGNj`
+Snapshot ID: `MCwzMmZiNjcxZWE3YzkyZjY1YWNkYzZlOGVhZTk3ZTFjNGIyZWY0Y2Jl`

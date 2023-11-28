@@ -355,6 +355,24 @@
     },
     {
       "album": {
+        "name": "Bad Woman",
+        "url": "https://open.spotify.com/album/2AjNw7myEdHO8f2ZOm9A9W"
+      },
+      "artists": [
+        {
+          "name": "Paloma Faith",
+          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164963,
+      "name": "Bad Woman",
+      "url": "https://open.spotify.com/track/0NmWLEvSOhiV4HsMbADwOj"
+    },
+    {
+      "album": {
         "name": "Ben & Jerry",
         "url": "https://open.spotify.com/album/1Hn5Rbk7431cLlGNQw32Cj"
       },
@@ -1182,7 +1200,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-27",
+      "date_removed": null,
       "duration_ms": 268653,
       "name": "Damage Gets Done (feat. Brandi Carlile)",
       "url": "https://open.spotify.com/track/2OLaeJRrRjFgLfTsccnzlM"
@@ -1688,7 +1706,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 179166,
       "name": "Fake As Hell (with Avril Lavigne)",
       "url": "https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl"
@@ -2266,7 +2284,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 197205,
       "name": "Happier",
       "url": "https://open.spotify.com/track/04KJXYKCosHf3jtySjxwff"
@@ -3714,7 +3732,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 176666,
       "name": "mary",
       "url": "https://open.spotify.com/track/4wWyfQEUdd2G82lbRgedtD"
@@ -4150,6 +4168,24 @@
       "duration_ms": 144391,
       "name": "only wanna dance",
       "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
+    },
+    {
+      "album": {
+        "name": "orbit",
+        "url": "https://open.spotify.com/album/5xLRIrNswkxjD0U0z47Rw2"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189994,
+      "name": "orbit",
+      "url": "https://open.spotify.com/track/1xMtUb8b1DxW89FJfxOwPN"
     },
     {
       "album": {

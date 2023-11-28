@@ -1,12 +1,12 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Mon Laferte",
-  "num_followers": 1836912,
+  "num_followers": 1836973,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MGFiMzdjNGQ0MDg4NGVhM2YwMDhkNTAwYTYzNGU0ZTc3OGMxM2Zh",
+  "snapshot_id": "MCxmOTA0NmVjNjI0MGZjYTA2Y2NlYzUzYWE4MDI3Yjk2YzUwNGU0N2Uz",
   "tracks": [
     {
       "added_at": "2023-11-24 06:56:40",
@@ -91,6 +91,22 @@
     {
       "added_at": "2023-11-24 06:56:40",
       "album": {
+        "name": "Corazon de Acero",
+        "url": "https://open.spotify.com/album/7zmiGWH2pYNvtBzCI1WKh5"
+      },
+      "artists": [
+        {
+          "name": "Yiyo Sarante",
+          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
+        }
+      ],
+      "duration_ms": 225953,
+      "name": "Corazon de Acero",
+      "url": "https://open.spotify.com/track/21nc3O8OncUv1jjSrC1ML2"
+    },
+    {
+      "added_at": "2023-11-24 06:56:40",
+      "album": {
         "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 306453,
       "name": "Yo Tambi\u00e9n (feat. Marc Anthony)",
       "url": "https://open.spotify.com/track/5A9AILetvfQg3LHyX5X0pV"
-    },
-    {
-      "added_at": "2023-11-24 06:56:40",
-      "album": {
-        "name": "Corazon de Acero",
-        "url": "https://open.spotify.com/album/7zmiGWH2pYNvtBzCI1WKh5"
-      },
-      "artists": [
-        {
-          "name": "Yiyo Sarante",
-          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
-        }
-      ],
-      "duration_ms": 225953,
-      "name": "Corazon de Acero",
-      "url": "https://open.spotify.com/track/21nc3O8OncUv1jjSrC1ML2"
     },
     {
       "added_at": "2023-11-24 06:56:40",
@@ -199,18 +199,18 @@
     {
       "added_at": "2023-11-24 06:56:40",
       "album": {
-        "name": "Sigo Siendo Yo",
-        "url": "https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
       },
       "artists": [
         {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
         }
       ],
-      "duration_ms": 302946,
-      "name": "Qu\u00e9 Precio Tiene el Cielo - Salsa Version",
-      "url": "https://open.spotify.com/track/2MnKininlD8bY9ggRNSJ37"
+      "duration_ms": 307200,
+      "name": "Peque\u00f1as Cosas",
+      "url": "https://open.spotify.com/track/36T4XY4vbxmw40XMJPe3zw"
     },
     {
       "added_at": "2023-11-24 06:56:40",
@@ -231,6 +231,22 @@
     {
       "added_at": "2023-11-24 06:56:40",
       "album": {
+        "name": "Sigo Siendo Yo",
+        "url": "https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 302946,
+      "name": "Qu\u00e9 Precio Tiene el Cielo - Salsa Version",
+      "url": "https://open.spotify.com/track/2MnKininlD8bY9ggRNSJ37"
+    },
+    {
+      "added_at": "2023-11-24 06:56:40",
+      "album": {
         "name": "La F\u00f3rmula",
         "url": "https://open.spotify.com/album/5BMotNmzFRoGABaWM6YFI2"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 267016,
       "name": "La F\u00f3rmula",
       "url": "https://open.spotify.com/track/5Fh9fyHRnSwKLo4asG6fEX"
-    },
-    {
-      "added_at": "2023-11-24 06:56:40",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
-      },
-      "artists": [
-        {
-          "name": "Willie Gonzalez",
-          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
-        }
-      ],
-      "duration_ms": 307200,
-      "name": "Peque\u00f1as Cosas",
-      "url": "https://open.spotify.com/track/36T4XY4vbxmw40XMJPe3zw"
     },
     {
       "added_at": "2023-11-24 06:56:40",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-11-24 06:56:40",
       "album": {
-        "name": "Exitos de Victor Manuelle",
-        "url": "https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 303133,
-      "name": "He Tratado",
-      "url": "https://open.spotify.com/track/236qXqcmitHCZ3SHoGZN8g"
-    },
-    {
-      "added_at": "2023-11-24 06:56:40",
-      "album": {
         "name": "F.A.M.E.",
         "url": "https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx"
       },
@@ -491,6 +475,22 @@
     {
       "added_at": "2023-11-24 06:56:40",
       "album": {
+        "name": "Exitos de Victor Manuelle",
+        "url": "https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 303133,
+      "name": "He Tratado",
+      "url": "https://open.spotify.com/track/236qXqcmitHCZ3SHoGZN8g"
+    },
+    {
+      "added_at": "2023-11-24 06:56:40",
+      "album": {
         "name": "32 Ca\u00f1onazos",
         "url": "https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn"
       },
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-11-24 06:56:40",
       "album": {
-        "name": "Busco Un Pueblo (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3ELi1pACZsdvMj0t3sbvlL"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 259853,
-      "name": "Si T\u00fa Me Besas",
-      "url": "https://open.spotify.com/track/5981zpjMYeKGoEQ6K9794L"
-    },
-    {
-      "added_at": "2023-11-24 06:56:40",
-      "album": {
         "name": "De Costa a Costa",
         "url": "https://open.spotify.com/album/2nOvkgvFGscNv3cqa2GNaN"
       },
@@ -587,22 +571,6 @@
       "duration_ms": 262079,
       "name": "Entre La Espada y La Pared",
       "url": "https://open.spotify.com/track/2UpoA15YFW9ItA8BjXUOJg"
-    },
-    {
-      "added_at": "2023-11-24 06:56:40",
-      "album": {
-        "name": "3.0",
-        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 279360,
-      "name": "Cambio de Piel",
-      "url": "https://open.spotify.com/track/3AjxOdecZ2eKDL0aOtcYsJ"
     },
     {
       "added_at": "2023-11-24 06:56:40",
@@ -655,6 +623,22 @@
     {
       "added_at": "2023-11-24 06:56:40",
       "album": {
+        "name": "Busco Un Pueblo (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ELi1pACZsdvMj0t3sbvlL"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 259853,
+      "name": "Si T\u00fa Me Besas",
+      "url": "https://open.spotify.com/track/5981zpjMYeKGoEQ6K9794L"
+    },
+    {
+      "added_at": "2023-11-24 06:56:40",
+      "album": {
         "name": "Pa' Bravo Yo",
         "url": "https://open.spotify.com/album/0Ggehw0oAdAUNoipqO2Sqh"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 212914,
       "name": "SI ES AMOR",
       "url": "https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S"
+    },
+    {
+      "added_at": "2023-11-24 06:56:40",
+      "album": {
+        "name": "3.0",
+        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 279360,
+      "name": "Cambio de Piel",
+      "url": "https://open.spotify.com/track/3AjxOdecZ2eKDL0aOtcYsJ"
     },
     {
       "added_at": "2023-11-24 06:56:40",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-11-24 06:56:40",
       "album": {
-        "name": "A Mi Estilo...",
-        "url": "https://open.spotify.com/album/7yoleaRnHUoOxpROQ7xDAf"
-      },
-      "artists": [
-        {
-          "name": "Tito Rojas",
-          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
-        }
-      ],
-      "duration_ms": 349600,
-      "name": "Se\u00f1ora De Madrugada",
-      "url": "https://open.spotify.com/track/67hHhKVp67fqRwE0OehlnX"
-    },
-    {
-      "added_at": "2023-11-24 06:56:40",
-      "album": {
         "name": "Si Te Vas",
         "url": "https://open.spotify.com/album/44AcFfCyMrkibifTabWkyH"
       },
@@ -911,6 +895,22 @@
     {
       "added_at": "2023-11-24 06:56:40",
       "album": {
+        "name": "A Mi Estilo...",
+        "url": "https://open.spotify.com/album/7yoleaRnHUoOxpROQ7xDAf"
+      },
+      "artists": [
+        {
+          "name": "Tito Rojas",
+          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
+        }
+      ],
+      "duration_ms": 349600,
+      "name": "Se\u00f1ora De Madrugada",
+      "url": "https://open.spotify.com/track/67hHhKVp67fqRwE0OehlnX"
+    },
+    {
+      "added_at": "2023-11-24 06:56:40",
+      "album": {
         "name": "Suma y Resta",
         "url": "https://open.spotify.com/album/2TLHgTwpVZbKZXt4WmcCKK"
       },
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-11-24 06:56:40",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 169207,
-      "name": "El Que Ama Sufre",
-      "url": "https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm"
-    },
-    {
-      "added_at": "2023-11-24 06:56:40",
-      "album": {
         "name": "La-33",
         "url": "https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt"
       },
@@ -963,22 +947,6 @@
     {
       "added_at": "2023-11-24 06:56:40",
       "album": {
-        "name": "Cartas Sobre La Mesa",
-        "url": "https://open.spotify.com/album/2vHiGSGYRjcoJMarvktzhi"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 191081,
-      "name": "Cartas Sobre La Mesa",
-      "url": "https://open.spotify.com/track/0uXqpDkoW72tss8cbja7Ew"
-    },
-    {
-      "added_at": "2023-11-24 06:56:40",
-      "album": {
         "name": "Adi\u00f3s Amor",
         "url": "https://open.spotify.com/album/2xusGJapa7Sd0s05R4vF5R"
       },
@@ -991,6 +959,38 @@
       "duration_ms": 267891,
       "name": "Adi\u00f3s Amor",
       "url": "https://open.spotify.com/track/2IKJ403d0JPRMbjYhSgdIm"
+    },
+    {
+      "added_at": "2023-11-24 06:56:40",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 169207,
+      "name": "El Que Ama Sufre",
+      "url": "https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm"
+    },
+    {
+      "added_at": "2023-11-24 06:56:40",
+      "album": {
+        "name": "Cartas Sobre La Mesa",
+        "url": "https://open.spotify.com/album/2vHiGSGYRjcoJMarvktzhi"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 191081,
+      "name": "Cartas Sobre La Mesa",
+      "url": "https://open.spotify.com/track/0uXqpDkoW72tss8cbja7Ew"
     },
     {
       "added_at": "2023-11-24 06:56:40",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2023-11-24 06:56:40",
       "album": {
+        "name": "Esa Soy Yo",
+        "url": "https://open.spotify.com/album/0RLzeH2Sc7cbzCoUq5V4Lk"
+      },
+      "artists": [
+        {
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+        }
+      ],
+      "duration_ms": 229945,
+      "name": "Con Mi Amiga",
+      "url": "https://open.spotify.com/track/0FbZzSZ48zfYrXFhJMJZ6Y"
+    },
+    {
+      "added_at": "2023-11-24 06:56:40",
+      "album": {
         "name": "Metamorfosis",
         "url": "https://open.spotify.com/album/6ddv3GdJS72fE56p3Y2IL6"
       },
@@ -1067,6 +1083,22 @@
       "duration_ms": 191260,
       "name": "The Reason - Latin Version",
       "url": "https://open.spotify.com/track/1ON345iq5mxx518u3U4pyn"
+    },
+    {
+      "added_at": "2023-11-24 06:56:40",
+      "album": {
+        "name": "Exploring Latin Heritage, Vol.3",
+        "url": "https://open.spotify.com/album/6mwGbnCkv1CfNJ5Y3e8Or6"
+      },
+      "artists": [
+        {
+          "name": "Grupo Saboreo",
+          "url": "https://open.spotify.com/artist/1jBovgyZEnLlMQIXRUN1G9"
+        }
+      ],
+      "duration_ms": 335626,
+      "name": "La Vamo a Tumbar",
+      "url": "https://open.spotify.com/track/2PshFuRSc4uiKik36z3xDy"
     },
     {
       "added_at": "2023-11-24 06:56:40",
@@ -1103,38 +1135,6 @@
       "duration_ms": 327563,
       "name": "La Mejor de Todas",
       "url": "https://open.spotify.com/track/55BVGdzYkXx51xxMKsScgr"
-    },
-    {
-      "added_at": "2023-11-24 06:56:40",
-      "album": {
-        "name": "Esa Soy Yo",
-        "url": "https://open.spotify.com/album/0RLzeH2Sc7cbzCoUq5V4Lk"
-      },
-      "artists": [
-        {
-          "name": "Daniela Darcourt",
-          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
-        }
-      ],
-      "duration_ms": 229945,
-      "name": "Con Mi Amiga",
-      "url": "https://open.spotify.com/track/0FbZzSZ48zfYrXFhJMJZ6Y"
-    },
-    {
-      "added_at": "2023-11-24 06:56:40",
-      "album": {
-        "name": "Exploring Latin Heritage, Vol.3",
-        "url": "https://open.spotify.com/album/6mwGbnCkv1CfNJ5Y3e8Or6"
-      },
-      "artists": [
-        {
-          "name": "Grupo Saboreo",
-          "url": "https://open.spotify.com/artist/1jBovgyZEnLlMQIXRUN1G9"
-        }
-      ],
-      "duration_ms": 335626,
-      "name": "La Vamo a Tumbar",
-      "url": "https://open.spotify.com/track/2PshFuRSc4uiKik36z3xDy"
     },
     {
       "added_at": "2023-11-24 06:56:40",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-11-24 06:56:40",
       "album": {
-        "name": "Baila Salsa",
-        "url": "https://open.spotify.com/album/7H6mPRCBIMuKn7FirF8Alk"
-      },
-      "artists": [
-        {
-          "name": "Mauro Castillo",
-          "url": "https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I"
-        }
-      ],
-      "duration_ms": 249160,
-      "name": "Viene Y Se Va",
-      "url": "https://open.spotify.com/track/4aVRKf9Dp3e6VQEcAx7euZ"
-    },
-    {
-      "added_at": "2023-11-24 06:56:40",
-      "album": {
         "name": "Enam\u00f3rate Bailando",
         "url": "https://open.spotify.com/album/2uZqdPaPuXHLngIvPGprkV"
       },
@@ -1235,22 +1219,6 @@
       "duration_ms": 267332,
       "name": "Enam\u00f3rate Bailando",
       "url": "https://open.spotify.com/track/02zyl88XvRAQdwbzLQui8y"
-    },
-    {
-      "added_at": "2023-11-24 06:56:40",
-      "album": {
-        "name": "MP 10th Anniversary",
-        "url": "https://open.spotify.com/album/4PLj1LIHYKLMeVfWW0ukJX"
-      },
-      "artists": [
-        {
-          "name": "Tito Rojas",
-          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
-        }
-      ],
-      "duration_ms": 321733,
-      "name": "Siempre Sere",
-      "url": "https://open.spotify.com/track/0ViQHcFsGyynn92NTscTIN"
     },
     {
       "added_at": "2023-11-24 06:56:40",
@@ -1275,6 +1243,38 @@
       "duration_ms": 240293,
       "name": "Ella Lo Que Quiere Es Salsa (feat. Voltio & Jowell y Randy)",
       "url": "https://open.spotify.com/track/6l9iRzgakAc5U82eVbt8ow"
+    },
+    {
+      "added_at": "2023-11-24 06:56:40",
+      "album": {
+        "name": "Baila Salsa",
+        "url": "https://open.spotify.com/album/7H6mPRCBIMuKn7FirF8Alk"
+      },
+      "artists": [
+        {
+          "name": "Mauro Castillo",
+          "url": "https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I"
+        }
+      ],
+      "duration_ms": 249160,
+      "name": "Viene Y Se Va",
+      "url": "https://open.spotify.com/track/4aVRKf9Dp3e6VQEcAx7euZ"
+    },
+    {
+      "added_at": "2023-11-24 06:56:40",
+      "album": {
+        "name": "MP 10th Anniversary",
+        "url": "https://open.spotify.com/album/4PLj1LIHYKLMeVfWW0ukJX"
+      },
+      "artists": [
+        {
+          "name": "Tito Rojas",
+          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
+        }
+      ],
+      "duration_ms": 321733,
+      "name": "Siempre Sere",
+      "url": "https://open.spotify.com/track/0ViQHcFsGyynn92NTscTIN"
     },
     {
       "added_at": "2023-11-24 06:56:40",

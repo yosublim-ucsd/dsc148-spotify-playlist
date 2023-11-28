@@ -1,12 +1,12 @@
 {
   "description": "Hip-Hop's hottest from Australia, New Zealand and beyond. Cover: Day1",
-  "num_followers": 436971,
+  "num_followers": 437071,
   "original_name": "A1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWJlODhkMzlhMTRkNWYxMzQxODllZDU4MjJmMWI0NDVhYmUxMTNh",
+  "snapshot_id": "MCxhODQ5MzRlZDk5ZTE0MGFhYzljYzcxMzRiOWIxOWNkZTk2ZmEzMTYx",
   "tracks": [
     {
       "added_at": "2023-11-23 13:00:18",
@@ -507,21 +507,17 @@
     {
       "added_at": "2023-11-23 13:00:18",
       "album": {
-        "name": "Loverboy",
+        "name": "",
         "url": "https://open.spotify.com/album/1qnrZlibwgqcGEFhvAKav1"
       },
       "artists": [
         {
-          "name": "AMARNI",
-          "url": "https://open.spotify.com/artist/6HxQEau8zFYzY8fJ7pKEco"
-        },
-        {
-          "name": "Baka Not Nice",
-          "url": "https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU"
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
         }
       ],
-      "duration_ms": 169756,
-      "name": "Loverboy",
+      "duration_ms": 0,
+      "name": "",
       "url": "https://open.spotify.com/track/13qfi5nBlDX1bWF13EbVbX"
     },
     {

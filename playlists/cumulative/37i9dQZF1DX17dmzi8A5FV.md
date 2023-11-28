@@ -4,7 +4,7 @@
 
 > All the biggest hits from the biggest boybands!  Cover: \*NSYNC
 
-162 songs - 10 hr 39 min
+163 songs - 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Candy Girl](https://open.spotify.com/track/72OrfuJ9RxfLCoqAMeKHCZ) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb) | [Candy Girl](https://open.spotify.com/album/62OvMX7ymbmxO6TKiXDE4v) | 3:55 | 2022-12-23 |  |
 | [Caught in the Middle](https://open.spotify.com/track/4UE8T2GKceEaNhn5ORTkyo) | [A1](https://open.spotify.com/artist/5lPsVvHVDr6R5mDxRUXdOs) | [Make It Good](https://open.spotify.com/album/7aMMpyDflUCZzDFp6LNul0) | 3:26 | 2022-12-23 |  |
 | [Cherry Bomb](https://open.spotify.com/track/3o8QzWsiiqTUVgBZfHgF58) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 CHERRY BOMB– The 3rd Mini Album](https://open.spotify.com/album/7H5FkCA6cTDBX3wtvIbN8s) | 3:56 | 2022-12-23 |  |
-| [Chloe \(You're the One I Want\)](https://open.spotify.com/track/036GQb6SETOJJG8BxJTNxc) | [Emblem3](https://open.spotify.com/artist/1md9aYaJ6Qt1FHypXICB5V) | [Nothing To Lose \(Deluxe Version\)](https://open.spotify.com/album/4rA1y7l62I627A69JFG1Vk) | 3:42 | 2022-12-23 |  |
+| [Chloe \(You're the One I Want\)](https://open.spotify.com/track/036GQb6SETOJJG8BxJTNxc) | [Emblem3](https://open.spotify.com/artist/1md9aYaJ6Qt1FHypXICB5V) | [Nothing To Lose \(Deluxe Version\)](https://open.spotify.com/album/4rA1y7l62I627A69JFG1Vk) | 3:42 | 2022-12-23 | 2023-11-28 |
 | [Classic](https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg) | [MKTO](https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v) | [MKTO](https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE) | 2:55 | 2022-12-23 |  |
 | [Cool](https://open.spotify.com/track/7yfi8B8opXjnRh4VZnOkz9) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 2:47 | 2022-12-23 |  |
 | [Crazy](https://open.spotify.com/track/3PJivN5BZ2ckFa22igIu4a) | [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [X](https://open.spotify.com/album/196buw5EPzqQoCTIxhgTQ0) | 4:20 | 2022-03-09 |  |
@@ -159,6 +159,7 @@
 | [Truly Madly Deeply](https://open.spotify.com/track/013AWvizllIUEC2FOBzOnh) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Savage Garden](https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4) | 4:37 | 2022-03-09 |  |
 | [Water Runs Dry](https://open.spotify.com/track/7yhmvQh1JOzbNiNFQo4Tfc) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [II](https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3) | 3:21 | 2022-03-09 | 2022-12-20 |
 | [Waves](https://open.spotify.com/track/3VAKlkSSrbEasm9WDDD9Jd) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd) | [Another Life](https://open.spotify.com/album/6TNSl6N3tdvWQ6hBm81Dz7) | 3:14 | 2023-05-14 | 2023-09-04 |
+| [Waves](https://open.spotify.com/track/4U0N9zBsEYqGCqiK0yfHa3) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd) | [Another Life](https://open.spotify.com/album/41AXbfQZyrp4Jkf0s5FyjX) | 3:14 | 2023-09-29 |  |
 | [We've Got It Goin' On \- Radio Edit](https://open.spotify.com/track/7qD9lD0dabABT6y3Vw3uVX) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/1oWxRkI4V9d3hH3PqWpx9H) | 3:39 | 2021-04-29 | 2022-03-10 |
 | [What Makes You Beautiful](https://open.spotify.com/track/4cluDES4hQEUhmXj6TXkSo) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Up All Night](https://open.spotify.com/album/6cunQQ7YZisYOoiFu2ywIq) | 3:19 | 2022-12-23 |  |
 | [Where Do You Go](https://open.spotify.com/track/1lkfcyCLP0KPykSLIgh1VT) | [No Mercy](https://open.spotify.com/artist/2tUGlReCZRMoRgl0IS79i3) | [Greatest Hits](https://open.spotify.com/album/3tabuqpmg0z2LZiO24V1Vl) | 4:31 | 2021-04-29 | 2022-11-13 |

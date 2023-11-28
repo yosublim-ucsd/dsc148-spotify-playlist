@@ -4,7 +4,7 @@
 
 > Altijd fris in Fresh Hits\. Cover: Jack Harlow
 
-378 songs - 18 hr 9 min
+379 songs - 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,11 +299,12 @@
 | [She Knows \- with Akon](https://open.spotify.com/track/3zkb0907pOJqU7m3Qh5hB7) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [She Knows \(with Akon\)](https://open.spotify.com/album/0pj4zHdT9FsFOkpA9Qic4F) | 2:15 | 2023-07-27 | 2023-09-14 |
 | [Shining Light](https://open.spotify.com/track/3PqAQRlPl0yOnqqcB6Y5Cw) | [Aime Simone](https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM) | [Say Yes, Say No](https://open.spotify.com/album/1gqXX51DCiNoe0Xt9RHUIT) | 3:37 | 2023-02-23 | 2023-03-31 |
 | [Si No Estás](https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Si No Estás](https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW) | 3:04 | 2023-10-05 | 2023-11-10 |
+| [Silence](https://open.spotify.com/track/0Md7RdBvEkiA49Y2MNX8Hq) | [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt), [Chavanté](https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN) | [Silence \(feat\. Chavanté\)](https://open.spotify.com/album/32NOf3K2okwcVkBzjjwqqp) | 2:58 | 2023-11-27 |  |
 | [Simone](https://open.spotify.com/track/233KjtSp13hed57BJgRjul) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Simone](https://open.spotify.com/album/49lqmVVusVjCA4qO3AhL3Y) | 2:30 | 2023-06-30 | 2023-08-04 |
 | [Single Soon](https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Single Soon](https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO) | 2:51 | 2023-08-24 | 2023-09-08 |
 | [Sittin' On Top Of The World](https://open.spotify.com/track/4L4m2mgZDF8KIkJPdWWIAf) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sittin' On Top Of The World](https://open.spotify.com/album/3QZxr89jANriqgMK02R9Bn) | 2:39 | 2023-06-01 | 2023-07-21 |
 | [SKEU SKEU](https://open.spotify.com/track/2tfcnJtKsz0jMrACO943Cz) | [Jogga](https://open.spotify.com/artist/6kByPyGr60aeCsb8TGOWav), [wilsko](https://open.spotify.com/artist/1d38UPGn8PJ9XekumcIBha), [7ia](https://open.spotify.com/artist/7736wQOIPocKi5hEg7l3hG) | [SKEU SKEU](https://open.spotify.com/album/51cae7KfubO0hMKlI5RYXK) | 3:01 | 2023-10-12 | 2023-10-15 |
-| [SKEU SKEU \(feat\. wilsko & 7ia\)](https://open.spotify.com/track/0sZEwII5Qe3r7izOgdOvLT) | [Jogga](https://open.spotify.com/artist/6kByPyGr60aeCsb8TGOWav), [wilsko](https://open.spotify.com/artist/1d38UPGn8PJ9XekumcIBha), [7ia](https://open.spotify.com/artist/7736wQOIPocKi5hEg7l3hG) | [SKEU SKEU \(feat\. wilsko & 7ia\)](https://open.spotify.com/album/5RA05MgWTevAIscvEmiiww) | 3:01 | 2023-10-12 |  |
+| [SKEU SKEU \(feat\. wilsko & 7ia\)](https://open.spotify.com/track/0sZEwII5Qe3r7izOgdOvLT) | [Jogga](https://open.spotify.com/artist/6kByPyGr60aeCsb8TGOWav), [wilsko](https://open.spotify.com/artist/1d38UPGn8PJ9XekumcIBha), [7ia](https://open.spotify.com/artist/7736wQOIPocKi5hEg7l3hG) | [SKEU SKEU \(feat\. wilsko & 7ia\)](https://open.spotify.com/album/5RA05MgWTevAIscvEmiiww) | 3:01 | 2023-10-12 | 2023-11-28 |
 | [Skyboy](https://open.spotify.com/track/2HFigR6saLng0ZUEr9ISCE) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Skyboy](https://open.spotify.com/album/1aBJUsmDLkDgfeZ2nCqHlm) | 3:31 | 2023-03-23 | 2023-04-15 |
 | [Sliden](https://open.spotify.com/track/2444a4pBCXlAX5dSxXR0t9) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Sliden EP](https://open.spotify.com/album/4DtdhtDmxanQokbOQmpytY) | 2:11 | 2023-06-01 | 2023-07-01 |
 | [Slime You Out \(feat\. SZA\)](https://open.spotify.com/track/3RaCGXCiiMufRPoexXxGkV) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Slime You Out](https://open.spotify.com/album/4DjJtllSDzVDBf7PYtsHaT) | 5:10 | 2023-09-15 | 2023-10-11 |

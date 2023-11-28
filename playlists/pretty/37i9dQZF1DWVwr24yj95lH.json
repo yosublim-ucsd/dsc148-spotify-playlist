@@ -1,12 +1,12 @@
 {
   "description": "The best Grunge heirs' songs. Cover: Puddle of Mudd",
-  "num_followers": 623256,
+  "num_followers": 623306,
   "original_name": "Post-Grunge Society",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzIwNGY3MzQ1NGZhNDJkNTgxNGRmZDA0N2I3YzU4ZmJlYTkwMjA3",
+  "snapshot_id": "MCwwZmE4YzQ2NmU0NWEzNzJhMjg2MmRmODIyMjk2Y2I5YTU2ZDI3N2Vl",
   "tracks": [
     {
       "added_at": "2023-05-26 14:18:30",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-05-26 14:18:30",
       "album": {
+        "name": "Marcy Playground",
+        "url": "https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB"
+      },
+      "artists": [
+        {
+          "name": "Marcy Playground",
+          "url": "https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r"
+        }
+      ],
+      "duration_ms": 173493,
+      "name": "Sex & Candy",
+      "url": "https://open.spotify.com/track/5mkGfmJGFZpwK9nA5amOhv"
+    },
+    {
+      "added_at": "2023-05-26 14:18:30",
+      "album": {
         "name": "Three Days Grace (Expanded Edition)",
         "url": "https://open.spotify.com/album/38pfSOHvxHqDWwDnjZ25U5"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 207213,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc"
-    },
-    {
-      "added_at": "2023-05-26 14:18:30",
-      "album": {
-        "name": "Marcy Playground",
-        "url": "https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB"
-      },
-      "artists": [
-        {
-          "name": "Marcy Playground",
-          "url": "https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r"
-        }
-      ],
-      "duration_ms": 173493,
-      "name": "Sex & Candy",
-      "url": "https://open.spotify.com/track/5mkGfmJGFZpwK9nA5amOhv"
     },
     {
       "added_at": "2023-05-26 14:18:30",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-05-26 14:18:30",
       "album": {
+        "name": "Disclaimer",
+        "url": "https://open.spotify.com/album/5u0UdiircjbveLg8cs39iw"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        }
+      ],
+      "duration_ms": 243640,
+      "name": "Fine Again",
+      "url": "https://open.spotify.com/track/4eTIe5eqds88bA9ua6p5p6"
+    },
+    {
+      "added_at": "2023-05-26 14:18:30",
+      "album": {
         "name": "Hero (feat. Josey Scott)",
         "url": "https://open.spotify.com/album/4JLTenJ9u07tFnk3On1ypa"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 261519,
       "name": "If You Could Only See",
       "url": "https://open.spotify.com/track/4KoNBTm9a55KgLMtEaf3n6"
-    },
-    {
-      "added_at": "2023-05-26 14:18:30",
-      "album": {
-        "name": "Disclaimer",
-        "url": "https://open.spotify.com/album/5u0UdiircjbveLg8cs39iw"
-      },
-      "artists": [
-        {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
-        }
-      ],
-      "duration_ms": 243640,
-      "name": "Fine Again",
-      "url": "https://open.spotify.com/track/4eTIe5eqds88bA9ua6p5p6"
     },
     {
       "added_at": "2023-05-26 14:18:30",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-05-26 14:18:30",
       "album": {
-        "name": "Come Clean",
-        "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
-      },
-      "artists": [
-        {
-          "name": "Puddle Of Mudd",
-          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
-        }
-      ],
-      "duration_ms": 230066,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/575Sz3R4xOhueUstPObylF"
-    },
-    {
-      "added_at": "2023-05-26 14:18:30",
-      "album": {
         "name": "Dosage",
         "url": "https://open.spotify.com/album/5YcqcN9ZyZIS2vYYT4WC66"
       },
@@ -847,22 +831,6 @@
     {
       "added_at": "2023-05-26 14:18:30",
       "album": {
-        "name": "Short Bus",
-        "url": "https://open.spotify.com/album/0UWwEb7weI9WdpxPzD9aqV"
-      },
-      "artists": [
-        {
-          "name": "Filter",
-          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
-        }
-      ],
-      "duration_ms": 314440,
-      "name": "Hey Man, Nice Shot - Remastered Version",
-      "url": "https://open.spotify.com/track/1IyHPt3b6BrhdMwNyk0VM0"
-    },
-    {
-      "added_at": "2023-05-26 14:18:30",
-      "album": {
         "name": "The Boy Who Died Wolf",
         "url": "https://open.spotify.com/album/3TC40H9dIJArFzy0rWnWCg"
       },
@@ -875,6 +843,22 @@
       "duration_ms": 258773,
       "name": "My Name Is Human",
       "url": "https://open.spotify.com/track/1euszbbvkUzQzIhZUWFmXG"
+    },
+    {
+      "added_at": "2023-05-26 14:18:30",
+      "album": {
+        "name": "Come Clean",
+        "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
+      },
+      "artists": [
+        {
+          "name": "Puddle Of Mudd",
+          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
+        }
+      ],
+      "duration_ms": 230066,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/575Sz3R4xOhueUstPObylF"
     },
     {
       "added_at": "2023-05-26 14:18:30",
@@ -907,6 +891,22 @@
       "duration_ms": 267284,
       "name": "Poor Aileen",
       "url": "https://open.spotify.com/track/7fezQws2k5Fy98X4UScIbH"
+    },
+    {
+      "added_at": "2023-05-26 14:18:30",
+      "album": {
+        "name": "Short Bus",
+        "url": "https://open.spotify.com/album/0UWwEb7weI9WdpxPzD9aqV"
+      },
+      "artists": [
+        {
+          "name": "Filter",
+          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
+        }
+      ],
+      "duration_ms": 314440,
+      "name": "Hey Man, Nice Shot - Remastered Version",
+      "url": "https://open.spotify.com/track/1IyHPt3b6BrhdMwNyk0VM0"
     },
     {
       "added_at": "2023-05-26 14:18:30",

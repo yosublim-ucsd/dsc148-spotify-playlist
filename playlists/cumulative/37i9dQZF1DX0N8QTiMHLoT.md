@@ -4,7 +4,7 @@
 
 > Because bass\. Cover: Victor Wooten
 
-99 songs - 7 hr 13 min
+100 songs - 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Cosmic Joke](https://open.spotify.com/track/0BYFyT7cyrW02iepYptA2L) | [Tal Wilkenfeld](https://open.spotify.com/artist/3XzPQsdtlMMHxKERG8a1Bu) | [Transformation](https://open.spotify.com/album/07f02dGYUGK8zYZx9m1qcS) | 6:25 | 2021-05-06 |  |
 | [Cosmic Underground](https://open.spotify.com/track/35vrAaOvThXxvHwpbwrmng) | [Adam Nitti](https://open.spotify.com/artist/5yecObE3qSrDT0Tz6JBQxR) | [Not of This World](https://open.spotify.com/album/4C87JqBspjnIVCAFqq5JoY) | 6:37 | 2021-05-06 |  |
 | [Countdown](https://open.spotify.com/track/3nbHF2EX8IQwNGMlp9EviS) | [Victor Bailey](https://open.spotify.com/artist/1aTPRuTpqvuPpAps3FhBhe) | [Slippin' N' Trippin'](https://open.spotify.com/album/5GRTkxq12ZgkGQU52izAXj) | 2:26 | 2021-05-06 |  |
+| [Crash](https://open.spotify.com/track/24T8f0y0XSN1gXCWYpxHUW) | [Charles Berthoud](https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91) | [Crash](https://open.spotify.com/album/4lO0CN9vVYW1FTkV0kGXNO) | 2:31 | 2023-11-27 |  |
 | [Deep Sensations](https://open.spotify.com/track/7owzLt8mC3gMFMMlZiqGJH) | [Gianfranco Continenza](https://open.spotify.com/artist/2ekdnyZTBKHsLsBFKCY4BI), [Michael Manring](https://open.spotify.com/artist/3azoOASbeeRYOHv3ekSMRR), [Oreste Sbarra](https://open.spotify.com/artist/1D9RyWd1UajqtwqWuFa8y0) | [Vertical Horizons](https://open.spotify.com/album/5J8JLv0084FkTFrZmECKHE) | 5:01 | 2021-05-06 |  |
 | [Detroit](https://open.spotify.com/track/6hp0D02uXVXvmaDSLhFjAa) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [Renaissance](https://open.spotify.com/album/219wS6ARwdrMOCFWLpo79s) | 5:44 | 2021-05-06 |  |
 | [Don't Look Back Again](https://open.spotify.com/track/66MsmmOc0dIhqYuhVobax7) | [Charles Berthoud](https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91) | [Epiphany](https://open.spotify.com/album/5uGgz6J40Kwm77V8Lyl827) | 3:12 | 2021-05-06 |  |
@@ -76,7 +77,7 @@
 | [Purple Interlude](https://open.spotify.com/track/4ew37vOupTtCRE7oag9QoW) | [Ida Nielsen](https://open.spotify.com/artist/0LNUSuufEzNpI4nPIVThW3) | [Time 2 Stop Worrying \(Bout the Weird Stuff\)](https://open.spotify.com/album/4DrZmRj1deGY9MpW2dBjVJ) | 1:36 | 2021-05-06 |  |
 | [Right After 4](https://open.spotify.com/track/0Xcd7ELzTQjVaNAOG23Jco) | [Alain Caron](https://open.spotify.com/artist/1jonOyRkfkvgd1MUyZtPgj) | [Multiple Faces](https://open.spotify.com/album/1H6WkzaF10oay25cWVtkkB) | 6:53 | 2021-05-06 |  |
 | [Rock the Bass](https://open.spotify.com/track/2gDqPagIHCUHApppubq7P3) | [Ida Nielsen](https://open.spotify.com/artist/0LNUSuufEzNpI4nPIVThW3), [Kuku Agami](https://open.spotify.com/artist/6y1N3SfaS19brFIIwaq1KJ) | [Time 2 Stop Worrying \(Bout the Weird Stuff\)](https://open.spotify.com/album/4DrZmRj1deGY9MpW2dBjVJ) | 3:07 | 2021-05-06 |  |
-| [Sands Of Time](https://open.spotify.com/track/4i3jOeue9K8kh73ZXW7All) | [Charles Berthoud](https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91) | [Sands Of Time](https://open.spotify.com/album/0mLsY0d1yTovXfhEAWqwAi) | 2:07 | 2023-02-24 |  |
+| [Sands Of Time](https://open.spotify.com/track/4i3jOeue9K8kh73ZXW7All) | [Charles Berthoud](https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91) | [Sands Of Time](https://open.spotify.com/album/0mLsY0d1yTovXfhEAWqwAi) | 2:07 | 2023-02-24 | 2023-11-28 |
 | [Sex in a Pan](https://open.spotify.com/track/5HIpvnJea0u6rsdrfWCv3w) | [Béla Fleck and the Flecktones](https://open.spotify.com/artist/5Zmur9D9gpr6tXyDrpnbOe) | [UFO Tofu](https://open.spotify.com/album/5ORewDyq7lUTyzoDali0SO) | 3:34 | 2021-05-06 |  |
 | [Shadow \(feat\. Chick Corea\)](https://open.spotify.com/track/39x0LosnX3CnytF1fELFB9) | [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ), [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Reverence](https://open.spotify.com/album/3ayk72lcIIR7YSNqmRPK5N) | 5:45 | 2021-05-06 |  |
 | [Soldier of the Groove](https://open.spotify.com/track/71I9xt9tXZ5BM5S1j9WZ2b) | [Byron Miller](https://open.spotify.com/artist/7xIWaSpdL5oIEZw5QCZ84Y) | [The Gift Psychobass2](https://open.spotify.com/album/6uCTfpl8HRgQHkhQlcDOjf) | 4:00 | 2021-05-06 |  |

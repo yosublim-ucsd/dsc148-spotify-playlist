@@ -1,12 +1,12 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 132375,
+  "num_followers": 132497,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMGI4NDI1MDIzNjZmOWZmNmQyNjI4NjJlNGM1ZGVhMzZiM2RlYjQ3",
+  "snapshot_id": "MCxjODI1OGJiYTM2OTA1NDg5NDQ1YmEwYTBmZjc5ZjU4NGYyZWIwZGVh",
   "tracks": [
     {
       "added_at": "2023-11-24 05:00:00",
@@ -315,6 +315,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "The Best of the Black President",
+        "url": "https://open.spotify.com/album/7I42wZ3TW926k1DXrotD1M"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        }
+      ],
+      "duration_ms": 591693,
+      "name": "Water No Get Enemy",
+      "url": "https://open.spotify.com/track/2oWex6rYoQ7Bl2D9zG8d3F"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Doin It!!!!",
         "url": "https://open.spotify.com/album/4SN55bwEnC0T1qmBTWZeyW"
       },
@@ -331,18 +347,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "The Best of the Black President",
-        "url": "https://open.spotify.com/album/7I42wZ3TW926k1DXrotD1M"
+        "name": "Horizon Unlimited",
+        "url": "https://open.spotify.com/album/60EBuN8o4sCc8zqS4sO8bC"
       },
       "artists": [
         {
-          "name": "Fela Kuti",
-          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+          "name": "The Lijadu Sisters",
+          "url": "https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ"
         }
       ],
-      "duration_ms": 591693,
-      "name": "Water No Get Enemy",
-      "url": "https://open.spotify.com/track/2oWex6rYoQ7Bl2D9zG8d3F"
+      "duration_ms": 318785,
+      "name": "Come On Home",
+      "url": "https://open.spotify.com/track/2NIIJ5WfrK4ANNPHcOhSeb"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -379,22 +395,6 @@
       "duration_ms": 311893,
       "name": "Lush",
       "url": "https://open.spotify.com/track/4KjNEsQ4jkqXwCmsn71a9p"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Horizon Unlimited",
-        "url": "https://open.spotify.com/album/60EBuN8o4sCc8zqS4sO8bC"
-      },
-      "artists": [
-        {
-          "name": "The Lijadu Sisters",
-          "url": "https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ"
-        }
-      ],
-      "duration_ms": 318785,
-      "name": "Come On Home",
-      "url": "https://open.spotify.com/track/2NIIJ5WfrK4ANNPHcOhSeb"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Model Man",
-        "url": "https://open.spotify.com/album/5K6zprAN97GLwBpDxiRgK4"
-      },
-      "artists": [
-        {
-          "name": "Model Man",
-          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
-        }
-      ],
-      "duration_ms": 245653,
-      "name": "Clarity",
-      "url": "https://open.spotify.com/track/6ynQ0rykKOYSB75YxI0FrT"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Nterini - A COLORS SHOW",
         "url": "https://open.spotify.com/album/6JErS4p9PuTYxCmeWu6Eaq"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 231923,
       "name": "Nterini - A COLORS SHOW",
       "url": "https://open.spotify.com/track/3G7Mvni5YaF5UgJWGp5nQe"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Model Man",
+        "url": "https://open.spotify.com/album/5K6zprAN97GLwBpDxiRgK4"
+      },
+      "artists": [
+        {
+          "name": "Model Man",
+          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
+        }
+      ],
+      "duration_ms": 245653,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/6ynQ0rykKOYSB75YxI0FrT"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Trust In The Lifeforce Of The Deep Mystery",
-        "url": "https://open.spotify.com/album/2mvz0NPBCPTbSEgRViuDLK"
-      },
-      "artists": [
-        {
-          "name": "The Comet Is Coming",
-          "url": "https://open.spotify.com/artist/0Z5FMozvx15nUSUA6a9kkU"
-        }
-      ],
-      "duration_ms": 235200,
-      "name": "Summon The Fire",
-      "url": "https://open.spotify.com/track/5c44MldQ2CvroamP73V1lp"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "DREAM SOUP",
         "url": "https://open.spotify.com/album/4rDFEnOjCq5M7JGCd2KIPP"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 206370,
       "name": "Human Shape",
       "url": "https://open.spotify.com/track/6bUchdGcZj2k1iLjTHm6kR"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Trust In The Lifeforce Of The Deep Mystery",
+        "url": "https://open.spotify.com/album/2mvz0NPBCPTbSEgRViuDLK"
+      },
+      "artists": [
+        {
+          "name": "The Comet Is Coming",
+          "url": "https://open.spotify.com/artist/0Z5FMozvx15nUSUA6a9kkU"
+        }
+      ],
+      "duration_ms": 235200,
+      "name": "Summon The Fire",
+      "url": "https://open.spotify.com/track/5c44MldQ2CvroamP73V1lp"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Long in the Tooth",
+        "url": "https://open.spotify.com/album/0G6lfCljZy9MEIrlFMhlEf"
+      },
+      "artists": [
+        {
+          "name": "The Budos Band",
+          "url": "https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz"
+        }
+      ],
+      "duration_ms": 196746,
+      "name": "Gun Metal Grey",
+      "url": "https://open.spotify.com/track/2oVLSlo13KxpJMgEA0Jpm5"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Yesterday Is Heavy",
         "url": "https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR"
       },
@@ -815,18 +831,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Long in the Tooth",
-        "url": "https://open.spotify.com/album/0G6lfCljZy9MEIrlFMhlEf"
+        "name": "The Very Best Of Nina Simone 1967-1972 - Sugar In My Bowl",
+        "url": "https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj"
       },
       "artists": [
         {
-          "name": "The Budos Band",
-          "url": "https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz"
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 196746,
-      "name": "Gun Metal Grey",
-      "url": "https://open.spotify.com/track/2oVLSlo13KxpJMgEA0Jpm5"
+      "duration_ms": 214893,
+      "name": "Do What You Gotta Do",
+      "url": "https://open.spotify.com/track/1WP7Snm91AFyvhWb3s8UB8"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -847,18 +863,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "The Very Best Of Nina Simone 1967-1972 - Sugar In My Bowl",
-        "url": "https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj"
+        "name": "Wisdom Through Music",
+        "url": "https://open.spotify.com/album/2qR5kf6jPhN84zcrAHrlme"
       },
       "artists": [
         {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+          "name": "Pharoah Sanders",
+          "url": "https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud"
         }
       ],
-      "duration_ms": 214893,
-      "name": "Do What You Gotta Do",
-      "url": "https://open.spotify.com/track/1WP7Snm91AFyvhWb3s8UB8"
+      "duration_ms": 318626,
+      "name": "Love Is Everywhere",
+      "url": "https://open.spotify.com/track/4IIxBK0L8uj7viwxhmuSc4"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -875,22 +891,6 @@
       "duration_ms": 273546,
       "name": "Constant Surprises",
       "url": "https://open.spotify.com/track/1hLMDoAaoCTGi9MTYIU22W"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Wisdom Through Music",
-        "url": "https://open.spotify.com/album/2qR5kf6jPhN84zcrAHrlme"
-      },
-      "artists": [
-        {
-          "name": "Pharoah Sanders",
-          "url": "https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud"
-        }
-      ],
-      "duration_ms": 318626,
-      "name": "Love Is Everywhere",
-      "url": "https://open.spotify.com/track/4IIxBK0L8uj7viwxhmuSc4"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Jazz, Vol. 1",
+        "url": "https://open.spotify.com/album/4xGe2QuoGL5Wc5O3Uk9SiA"
+      },
+      "artists": [
+        {
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+        }
+      ],
+      "duration_ms": 397477,
+      "name": "Jazz, Vol. 1",
+      "url": "https://open.spotify.com/track/5QqLqt8iHJIJOvXXxcLXvw"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Mordechai Remixes",
         "url": "https://open.spotify.com/album/2WKWg3fF8dwCXt4qPDHdYG"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 195604,
       "name": "Dearest Alfred (MyJoy)",
       "url": "https://open.spotify.com/track/09QrWF1BFYe8Inkh9Al5ye"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Jazz, Vol. 1",
-        "url": "https://open.spotify.com/album/4xGe2QuoGL5Wc5O3Uk9SiA"
-      },
-      "artists": [
-        {
-          "name": "Seb Wildblood",
-          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
-        }
-      ],
-      "duration_ms": 397477,
-      "name": "Jazz, Vol. 1",
-      "url": "https://open.spotify.com/track/5QqLqt8iHJIJOvXXxcLXvw"
     },
     {
       "added_at": "2023-11-24 05:00:00",

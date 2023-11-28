@@ -1,12 +1,12 @@
 {
   "description": "So smooth, so classic. Cover: George Benson",
-  "num_followers": 126581,
+  "num_followers": 126669,
   "original_name": "Smooth Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYmNkMjlhY2ZiZWE4N2UzMWRiNWY2ZDkwOGZmNmMyMDJjYzQ3NDMx",
+  "snapshot_id": "MCw5MDc5OGExNGQzODAwYjkwMDE4ZDM5ODgwZmNlYmRiNjlhMzc5ZDBm",
   "tracks": [
     {
       "added_at": "2020-08-19 00:00:21",
@@ -171,22 +171,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "After The Storm",
-        "url": "https://open.spotify.com/album/5vhTq5K0zLlKHovFu7MpWj"
-      },
-      "artists": [
-        {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
-        }
-      ],
-      "duration_ms": 285466,
-      "name": "That's The Way Love Goes",
-      "url": "https://open.spotify.com/track/6UkHSbQcqBwWZr98OSELoL"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Caravan Of Dreams",
         "url": "https://open.spotify.com/album/55QEhe7Ecp7yZLgaVobo4X"
       },
@@ -219,6 +203,22 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
+        "name": "After The Storm",
+        "url": "https://open.spotify.com/album/5vhTq5K0zLlKHovFu7MpWj"
+      },
+      "artists": [
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 285466,
+      "name": "That's The Way Love Goes",
+      "url": "https://open.spotify.com/track/6UkHSbQcqBwWZr98OSELoL"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
         "name": "Dream Come True",
         "url": "https://open.spotify.com/album/5aY7j8FtsBcTnD7G1vSGHt"
       },
@@ -231,22 +231,6 @@
       "duration_ms": 286733,
       "name": "Doc",
       "url": "https://open.spotify.com/track/7MJBBBCfhjj716IaUq4HVG"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
-        "name": "A Gift For Tomorrow",
-        "url": "https://open.spotify.com/album/69AsVSIaoenj2pN7syJqHo"
-      },
-      "artists": [
-        {
-          "name": "Joe McBride",
-          "url": "https://open.spotify.com/artist/0fqABdgGiy0H0NLUb5GNWs"
-        }
-      ],
-      "duration_ms": 307360,
-      "name": "Walking In Rhythm",
-      "url": "https://open.spotify.com/track/4gdFN6gHpjay9QRCtuGnAq"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -279,6 +263,22 @@
       "duration_ms": 256173,
       "name": "I Can\u2019t Let Go - Remastered",
       "url": "https://open.spotify.com/track/6mFrqPaHyaY4AcsYxHuD5G"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "A Gift For Tomorrow",
+        "url": "https://open.spotify.com/album/69AsVSIaoenj2pN7syJqHo"
+      },
+      "artists": [
+        {
+          "name": "Joe McBride",
+          "url": "https://open.spotify.com/artist/0fqABdgGiy0H0NLUb5GNWs"
+        }
+      ],
+      "duration_ms": 307360,
+      "name": "Walking In Rhythm",
+      "url": "https://open.spotify.com/track/4gdFN6gHpjay9QRCtuGnAq"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -347,22 +347,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Day By Day",
-        "url": "https://open.spotify.com/album/64WYFNY33qxTidADO4omGA"
-      },
-      "artists": [
-        {
-          "name": "Najee",
-          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
-        }
-      ],
-      "duration_ms": 304000,
-      "name": "Day By Day",
-      "url": "https://open.spotify.com/track/6wunt9r2WbTh0pacCFkSrK"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Love Is The Answer (Expanded)",
         "url": "https://open.spotify.com/album/5tfEMJRMXkGeDAkg8tE6h8"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 260706,
       "name": "Nightfall",
       "url": "https://open.spotify.com/track/7fKo8Bl3VEm87tc70jx05r"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Day By Day",
+        "url": "https://open.spotify.com/album/64WYFNY33qxTidADO4omGA"
+      },
+      "artists": [
+        {
+          "name": "Najee",
+          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/6wunt9r2WbTh0pacCFkSrK"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -715,22 +715,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Playing It Cool",
-        "url": "https://open.spotify.com/album/6TnPdiqgfQYYXdwneTbLNQ"
-      },
-      "artists": [
-        {
-          "name": "Joyce Cooling",
-          "url": "https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec"
-        }
-      ],
-      "duration_ms": 265253,
-      "name": "South Of Market",
-      "url": "https://open.spotify.com/track/1LQV8yTi8XZQt35bnGGfki"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "First View",
         "url": "https://open.spotify.com/album/3LoIE2A91sVmLYx5O2YSO8"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 326933,
       "name": "West End",
       "url": "https://open.spotify.com/track/5KVlCe3igMGYLOY8PlIFCg"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Playing It Cool",
+        "url": "https://open.spotify.com/album/6TnPdiqgfQYYXdwneTbLNQ"
+      },
+      "artists": [
+        {
+          "name": "Joyce Cooling",
+          "url": "https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec"
+        }
+      ],
+      "duration_ms": 265253,
+      "name": "South Of Market",
+      "url": "https://open.spotify.com/track/1LQV8yTi8XZQt35bnGGfki"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -779,6 +779,22 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/67ax9aeNFfwZhHH4gKrnaJ"
+      },
+      "artists": [
+        {
+          "name": "John Klemmer",
+          "url": "https://open.spotify.com/artist/6HkwRgGXuqTufwpEh2dwGK"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Glass Dolphins",
+      "url": "https://open.spotify.com/track/3hRFAmAIu1dsNU0yJ5nBAe"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/3qOAwlkElkDqpZQjkSsVov"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 256933,
       "name": "Just Hold Me",
       "url": "https://open.spotify.com/track/4fSHesUea71Bw48PlMROLi"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/67ax9aeNFfwZhHH4gKrnaJ"
-      },
-      "artists": [
-        {
-          "name": "John Klemmer",
-          "url": "https://open.spotify.com/artist/6HkwRgGXuqTufwpEh2dwGK"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Glass Dolphins",
-      "url": "https://open.spotify.com/track/3hRFAmAIu1dsNU0yJ5nBAe"
     },
     {
       "added_at": "2020-08-19 00:00:21",

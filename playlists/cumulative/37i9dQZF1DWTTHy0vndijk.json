@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. Cover: YUJU(\uc720\uc8fc) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
+  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. Cover: CSR(\uccab\uc0ac\ub791) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
   "name": "Satang Mix (\uc0ac\ud0d5 \ubbf9\uc2a4)",
   "tracks": [
     {
@@ -682,7 +682,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-30",
+      "date_removed": null,
       "duration_ms": 219933,
       "name": "BOP BOP!",
       "url": "https://open.spotify.com/track/3FNuG1PjKcOu7tAqZKB4kZ"
@@ -916,7 +916,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-07",
+      "date_removed": null,
       "duration_ms": 193153,
       "name": "Catallena",
       "url": "https://open.spotify.com/track/5fWKr5p15BTazjflJ6HX5j"
@@ -2241,6 +2241,24 @@
     },
     {
       "album": {
+        "name": "HBD To You (Midnight Version)",
+        "url": "https://open.spotify.com/album/2KVQerdDHuZCgwdZO7KlSr"
+      },
+      "artists": [
+        {
+          "name": "CSR",
+          "url": "https://open.spotify.com/artist/06MX3Ecb8PHyNFmq8irTWC"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169720,
+      "name": "HBD To You (Midnight Version)",
+      "url": "https://open.spotify.com/track/1B2CS1Ipm1XqGZE2y5tL93"
+    },
+    {
+      "album": {
         "name": "Merry & Happy",
         "url": "https://open.spotify.com/album/7z35ak4YnECGLJADDJ4obf"
       },
@@ -3044,7 +3062,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 130308,
       "name": "LIME (I'm So)",
       "url": "https://open.spotify.com/track/4uLvMzr4BxERpvkeEAgxhS"
@@ -3838,7 +3856,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 184440,
       "name": "No Way (feat. I\u2019MIN)",
       "url": "https://open.spotify.com/track/1wZVmivEx6PL8u0l2Ucl3j"
@@ -6076,7 +6094,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 196773,
       "name": "VROOM VROOM",
       "url": "https://open.spotify.com/track/4lOlKcHOovGeQtCGWnEzKy"

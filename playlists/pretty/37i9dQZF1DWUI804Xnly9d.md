@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,301 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,311 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 74 | [Laut Aa Na Yaar](https://open.spotify.com/track/6k8e52Z0tZulQRDi6koqNj) | [OMVEE](https://open.spotify.com/artist/1RiPd3VdkxY8ypQ8QcJUTe) | [Laut Aa Na Yaar](https://open.spotify.com/album/7laVy6jsedBGBRHYEcpr9o) | 3:15 |
 | 75 | [Manmaani](https://open.spotify.com/track/71F3RWCBhiCixxN3fMmxqc) | [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s) | [Manmaani](https://open.spotify.com/album/3pd5cpY9hUSI7ZCE3STwwT) | 3:54 |
 
-Snapshot ID: `MCw1NTM2ZGZmYzhjNjQzNmQ0ODk0OWI1ZDM2YjM2NDNjZTJhYjAxZjUz`
+Snapshot ID: `MCw3NmJjZTAwNDhjYThjYWUzM2E4ZWFiNjNjMDcwNGQwZTFkNDhjZTk0`

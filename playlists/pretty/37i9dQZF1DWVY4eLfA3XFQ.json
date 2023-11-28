@@ -1,12 +1,12 @@
 {
   "description": "Tech house technicians, featuring Max Styler",
-  "num_followers": 598338,
+  "num_followers": 598372,
   "original_name": "Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzcyOTQ3ZjczMWU1NTNhZWVjMzk1ZGQ0YmVlNTI3ODZkMTJiNTlj",
+  "snapshot_id": "MCw1MDY3ZWRkOTRlMWNiMjA2YTA0MmI4MjhlY2E3NjNmNDk3NTA1ODI0",
   "tracks": [
     {
       "added_at": "2023-11-10 05:00:00",
@@ -795,22 +795,18 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Number 1",
-        "url": "https://open.spotify.com/album/0vkYGGLv8iwyQWdccl46j3"
+        "name": "Roots EP, Pt. 1",
+        "url": "https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2"
       },
       "artists": [
         {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
         }
       ],
-      "duration_ms": 145200,
-      "name": "Number 1",
-      "url": "https://open.spotify.com/track/5HadIAY3Oray8VKuv3shgQ"
+      "duration_ms": 216000,
+      "name": "Hijos De La Noche",
+      "url": "https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -831,22 +827,6 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Roots EP, Pt. 1",
-        "url": "https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Hijos De La Noche",
-      "url": "https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
         "name": "Fine Night",
         "url": "https://open.spotify.com/album/43Hg8uG1b3ZpSeP4y8Novn"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 161723,
       "name": "Fine Night",
       "url": "https://open.spotify.com/track/5BoA4ehsprvSzDBuFOPgdA"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Number 1",
+        "url": "https://open.spotify.com/album/0vkYGGLv8iwyQWdccl46j3"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        }
+      ],
+      "duration_ms": 145200,
+      "name": "Number 1",
+      "url": "https://open.spotify.com/track/5HadIAY3Oray8VKuv3shgQ"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
+        "name": "Amnesia",
+        "url": "https://open.spotify.com/album/2KEhj38WVxRIEEGADbOoNl"
+      },
+      "artists": [
+        {
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+        }
+      ],
+      "duration_ms": 204250,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/0uPv6eHiyLixtoyI5mVJ1f"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
         "name": "Lady (Hear Me Tonight)",
         "url": "https://open.spotify.com/album/6pmioyGNR4NW5yMx5AU0JB"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 153281,
       "name": "The Edge",
       "url": "https://open.spotify.com/track/33hGrBcDLopVhjbCxRlHPC"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Amnesia",
-        "url": "https://open.spotify.com/album/2KEhj38WVxRIEEGADbOoNl"
-      },
-      "artists": [
-        {
-          "name": "Chapter & Verse",
-          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
-        }
-      ],
-      "duration_ms": 204250,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/0uPv6eHiyLixtoyI5mVJ1f"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Freak",
-        "url": "https://open.spotify.com/album/1LStsedQUVmTDXp9xGVMyp"
-      },
-      "artists": [
-        {
-          "name": "San Pacho",
-          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
-        },
-        {
-          "name": "No Thanks",
-          "url": "https://open.spotify.com/artist/1RyEwwco6XV0jQnxLgCU34"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Freak",
-      "url": "https://open.spotify.com/track/6LDoJdEJW4NTOTOLTH71IL"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
         "name": "Me Me Me EP",
         "url": "https://open.spotify.com/album/4AWEbvZ2qwNLBbAYCdwc8Y"
       },
@@ -1391,22 +1371,22 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "DRENCH",
-        "url": "https://open.spotify.com/album/2i8ecQjFpCCw6b6e8fHT2H"
+        "name": "Freak",
+        "url": "https://open.spotify.com/album/1LStsedQUVmTDXp9xGVMyp"
       },
       "artists": [
         {
-          "name": "AYYBO",
-          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
+          "name": "San Pacho",
+          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
         },
         {
-          "name": "Preme",
-          "url": "https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2"
+          "name": "No Thanks",
+          "url": "https://open.spotify.com/artist/1RyEwwco6XV0jQnxLgCU34"
         }
       ],
-      "duration_ms": 197893,
-      "name": "DRENCH",
-      "url": "https://open.spotify.com/track/6hEpkJRBkYwTpUe8D4uKgW"
+      "duration_ms": 187500,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/6LDoJdEJW4NTOTOLTH71IL"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1423,6 +1403,26 @@
       "duration_ms": 190429,
       "name": "Dominator (2K23)",
       "url": "https://open.spotify.com/track/7IuGLuWImOmbG0PSXzJseW"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "DRENCH",
+        "url": "https://open.spotify.com/album/2i8ecQjFpCCw6b6e8fHT2H"
+      },
+      "artists": [
+        {
+          "name": "AYYBO",
+          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
+        },
+        {
+          "name": "Preme",
+          "url": "https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2"
+        }
+      ],
+      "duration_ms": 197893,
+      "name": "DRENCH",
+      "url": "https://open.spotify.com/track/6hEpkJRBkYwTpUe8D4uKgW"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1489,26 +1489,6 @@
       "url": "https://open.spotify.com/track/6XUplgv5tgkebAEieWUPYB"
     },
     {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "In Your Mind",
-        "url": "https://open.spotify.com/album/1lnxNRd7kCfp1AGkVehKCU"
-      },
-      "artists": [
-        {
-          "name": "San Pacho",
-          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
-        },
-        {
-          "name": "Notelle",
-          "url": "https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U"
-        }
-      ],
-      "duration_ms": 154687,
-      "name": "In Your Mind",
-      "url": "https://open.spotify.com/track/1fljgBD0HxUOOtLDQ9WSaM"
-    },
-    {
       "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "Motown Philly",
@@ -1563,6 +1543,26 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
+        "name": "In Your Mind",
+        "url": "https://open.spotify.com/album/1lnxNRd7kCfp1AGkVehKCU"
+      },
+      "artists": [
+        {
+          "name": "San Pacho",
+          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
+        },
+        {
+          "name": "Notelle",
+          "url": "https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U"
+        }
+      ],
+      "duration_ms": 154687,
+      "name": "In Your Mind",
+      "url": "https://open.spotify.com/track/1fljgBD0HxUOOtLDQ9WSaM"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
         "name": "Ooh LALA",
         "url": "https://open.spotify.com/album/6YNwQIGlbGbHdgGH0aucVs"
       },
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Satisfy",
-        "url": "https://open.spotify.com/album/08ByOMP1nHJEIpZCskgWGn"
-      },
-      "artists": [
-        {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "Satisfy",
-      "url": "https://open.spotify.com/track/5lU7QrjCMU9JStXRUhVB2p"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
         "name": "LOVE DESIRE",
         "url": "https://open.spotify.com/album/3o0mUc0qIqFIQE5q7qQZk3"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 171428,
       "name": "LOVE DESIRE",
       "url": "https://open.spotify.com/track/4N3yU64ssk2LKTB98nQvoA"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Satisfy",
+        "url": "https://open.spotify.com/album/08ByOMP1nHJEIpZCskgWGn"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "Satisfy",
+      "url": "https://open.spotify.com/track/5lU7QrjCMU9JStXRUhVB2p"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1897,6 +1897,22 @@
       "url": "https://open.spotify.com/track/0mFiHmY5NWTc53lRtwRufc"
     },
     {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Milkshake",
+        "url": "https://open.spotify.com/album/6sG0Y81AQVbRgDN3fGyfVL"
+      },
+      "artists": [
+        {
+          "name": "SMACK",
+          "url": "https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug"
+        }
+      ],
+      "duration_ms": 124824,
+      "name": "Milkshake",
+      "url": "https://open.spotify.com/track/1KJzlX849qCMfYWKOI7STr"
+    },
+    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "Energy (feat. Techno Tupac)",
@@ -1943,22 +1959,6 @@
       "duration_ms": 269160,
       "name": "Bongos",
       "url": "https://open.spotify.com/track/02iUOsajHXDI4ncxVT6u27"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Milkshake",
-        "url": "https://open.spotify.com/album/6sG0Y81AQVbRgDN3fGyfVL"
-      },
-      "artists": [
-        {
-          "name": "SMACK",
-          "url": "https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug"
-        }
-      ],
-      "duration_ms": 124824,
-      "name": "Milkshake",
-      "url": "https://open.spotify.com/track/1KJzlX849qCMfYWKOI7STr"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2145,6 +2145,22 @@
       "url": "https://open.spotify.com/track/4D2PtwM3U40QFFBA62I49P"
     },
     {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Are You Feeling This? / Stay Focused",
+        "url": "https://open.spotify.com/album/0UXIfC3eMOrEJrDqz7fkpK"
+      },
+      "artists": [
+        {
+          "name": "Shiba San",
+          "url": "https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc"
+        }
+      ],
+      "duration_ms": 166380,
+      "name": "Are You Feeling This?",
+      "url": "https://open.spotify.com/track/4dd5zWyjZqBbXaQ0TMeBCb"
+    },
+    {
       "added_at": "2023-11-03 04:00:00",
       "album": {
         "name": "Pa Lante",
@@ -2193,22 +2209,6 @@
       "url": "https://open.spotify.com/track/2Y7str4JalVvAAFcKALeyl"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Are You Feeling This? / Stay Focused",
-        "url": "https://open.spotify.com/album/0UXIfC3eMOrEJrDqz7fkpK"
-      },
-      "artists": [
-        {
-          "name": "Shiba San",
-          "url": "https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc"
-        }
-      ],
-      "duration_ms": 166380,
-      "name": "Are You Feeling This?",
-      "url": "https://open.spotify.com/track/4dd5zWyjZqBbXaQ0TMeBCb"
-    },
-    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "Easy Tiger",
@@ -2223,22 +2223,6 @@
       "duration_ms": 206456,
       "name": "Easy Tiger",
       "url": "https://open.spotify.com/track/46xwxdKi1qZGuod4rTyzCA"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Yeah",
-        "url": "https://open.spotify.com/album/7h18BePxAaCgbyXVOBPLz8"
-      },
-      "artists": [
-        {
-          "name": "Bruno Furlan",
-          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
-        }
-      ],
-      "duration_ms": 213447,
-      "name": "Yeah",
-      "url": "https://open.spotify.com/track/6OSl6T4krWpPK7qrSStoS1"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2259,6 +2243,22 @@
       "duration_ms": 171023,
       "name": "Get Hype",
       "url": "https://open.spotify.com/track/2UGV2JS4bfUy8ETLpZZoA8"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Yeah",
+        "url": "https://open.spotify.com/album/7h18BePxAaCgbyXVOBPLz8"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        }
+      ],
+      "duration_ms": 213447,
+      "name": "Yeah",
+      "url": "https://open.spotify.com/track/6OSl6T4krWpPK7qrSStoS1"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2347,26 +2347,6 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "The Master",
-        "url": "https://open.spotify.com/album/7xanzHN2SjpJWkUIsR14Ku"
-      },
-      "artists": [
-        {
-          "name": "Leandro Da Silva",
-          "url": "https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx"
-        },
-        {
-          "name": "AtcG",
-          "url": "https://open.spotify.com/artist/3ejR3scp9kP7ywaI0VHXYj"
-        }
-      ],
-      "duration_ms": 156923,
-      "name": "The Master",
-      "url": "https://open.spotify.com/track/7lFrPi52k2FgW2C5DbmTvk"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
         "name": "Club Rompas",
         "url": "https://open.spotify.com/album/57c4YyyWoOYOWGFqKqHJgF"
       },
@@ -2383,6 +2363,26 @@
       "duration_ms": 176000,
       "name": "Blisters on My Feet",
       "url": "https://open.spotify.com/track/3j8TbHVc4Kg4mWApoXnUL4"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "The Master",
+        "url": "https://open.spotify.com/album/7xanzHN2SjpJWkUIsR14Ku"
+      },
+      "artists": [
+        {
+          "name": "Leandro Da Silva",
+          "url": "https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx"
+        },
+        {
+          "name": "AtcG",
+          "url": "https://open.spotify.com/artist/3ejR3scp9kP7ywaI0VHXYj"
+        }
+      ],
+      "duration_ms": 156923,
+      "name": "The Master",
+      "url": "https://open.spotify.com/track/7lFrPi52k2FgW2C5DbmTvk"
     },
     {
       "added_at": "2023-10-27 04:01:00",

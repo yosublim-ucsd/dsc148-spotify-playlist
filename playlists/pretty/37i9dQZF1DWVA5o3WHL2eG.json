@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjcyNWE5MzI0YTkzMDRhYmQxNGYyN2U2NGJjZDIzNDA3ODUwNzQz",
+  "snapshot_id": "MCw2OWM0MDM5MjkyNWJlMGMzMWFjOWI0OWJkZGI3ZjViMmE5YWIwMGFj",
   "tracks": [
     {
       "added_at": "2023-11-07 23:00:00",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-11-07 23:00:00",
       "album": {
-        "name": "Hauptgewinn",
-        "url": "https://open.spotify.com/album/3QpMThEvkqJHHVvfqluIqi"
-      },
-      "artists": [
-        {
-          "name": "Sandra Hesch",
-          "url": "https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh"
-        }
-      ],
-      "duration_ms": 122900,
-      "name": "Welt Ohne Dich",
-      "url": "https://open.spotify.com/track/0syXVKe7WAHa8VmA3ftDTM"
-    },
-    {
-      "added_at": "2023-11-07 23:00:00",
-      "album": {
         "name": "Wie lang",
         "url": "https://open.spotify.com/album/3QLqXwmTBLdIEYPhMzxmvo"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 149815,
       "name": "Wie lang",
       "url": "https://open.spotify.com/track/5jMbm8FdjIu3dmBEm19IJv"
+    },
+    {
+      "added_at": "2023-11-07 23:00:00",
+      "album": {
+        "name": "Hauptgewinn",
+        "url": "https://open.spotify.com/album/3QpMThEvkqJHHVvfqluIqi"
+      },
+      "artists": [
+        {
+          "name": "Sandra Hesch",
+          "url": "https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh"
+        }
+      ],
+      "duration_ms": 122900,
+      "name": "Welt Ohne Dich",
+      "url": "https://open.spotify.com/track/0syXVKe7WAHa8VmA3ftDTM"
     },
     {
       "added_at": "2023-11-07 23:00:00",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-11-07 23:00:00",
       "album": {
-        "name": "Wer bin ich?",
-        "url": "https://open.spotify.com/album/1V2qUVwP9VNLD5jClrpdwf"
-      },
-      "artists": [
-        {
-          "name": "KARA",
-          "url": "https://open.spotify.com/artist/39IqPtl3QzWMrjGLzoqQ24"
-        }
-      ],
-      "duration_ms": 126492,
-      "name": "Wer bin ich?",
-      "url": "https://open.spotify.com/track/0Df77mLtYwmY1vJJL4ezHw"
-    },
-    {
-      "added_at": "2023-11-07 23:00:00",
-      "album": {
         "name": "KussKuss",
         "url": "https://open.spotify.com/album/7rnp2UrpKDLdmXOJZg4SlO"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 123022,
       "name": "shy <3",
       "url": "https://open.spotify.com/track/0iPZvOfenTXjxYUOn1WXTn"
+    },
+    {
+      "added_at": "2023-11-07 23:00:00",
+      "album": {
+        "name": "Wer bin ich?",
+        "url": "https://open.spotify.com/album/1V2qUVwP9VNLD5jClrpdwf"
+      },
+      "artists": [
+        {
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/39IqPtl3QzWMrjGLzoqQ24"
+        }
+      ],
+      "duration_ms": 126492,
+      "name": "Wer bin ich?",
+      "url": "https://open.spotify.com/track/0Df77mLtYwmY1vJJL4ezHw"
     },
     {
       "added_at": "2023-11-07 23:00:00",
@@ -427,6 +427,30 @@
     {
       "added_at": "2023-11-07 23:00:00",
       "album": {
+        "name": "SNACKS",
+        "url": "https://open.spotify.com/album/7c17jsWUkwcqaYXpb7ayXV"
+      },
+      "artists": [
+        {
+          "name": "Antje Schomaker",
+          "url": "https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n"
+        },
+        {
+          "name": "Juli",
+          "url": "https://open.spotify.com/artist/7g13nmmxq4XN0hd64Jzkol"
+        },
+        {
+          "name": "Eva Briegel",
+          "url": "https://open.spotify.com/artist/46Ks1huLimSVHpgTUruVoj"
+        }
+      ],
+      "duration_ms": 195066,
+      "name": "Irgendwohin",
+      "url": "https://open.spotify.com/track/5WBkovIPgnge8evVpddLrh"
+    },
+    {
+      "added_at": "2023-11-07 23:00:00",
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/6fGsPLmLX8BucYV14XsA4t"
       },
@@ -455,30 +479,6 @@
       "duration_ms": 208419,
       "name": "Cut The Corners",
       "url": "https://open.spotify.com/track/68NFJKq7usQ7hFVpsA2rMv"
-    },
-    {
-      "added_at": "2023-11-07 23:00:00",
-      "album": {
-        "name": "SNACKS",
-        "url": "https://open.spotify.com/album/7c17jsWUkwcqaYXpb7ayXV"
-      },
-      "artists": [
-        {
-          "name": "Antje Schomaker",
-          "url": "https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n"
-        },
-        {
-          "name": "Juli",
-          "url": "https://open.spotify.com/artist/7g13nmmxq4XN0hd64Jzkol"
-        },
-        {
-          "name": "Eva Briegel",
-          "url": "https://open.spotify.com/artist/46Ks1huLimSVHpgTUruVoj"
-        }
-      ],
-      "duration_ms": 195066,
-      "name": "Irgendwohin",
-      "url": "https://open.spotify.com/track/5WBkovIPgnge8evVpddLrh"
     },
     {
       "added_at": "2023-11-07 23:00:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-11-07 23:00:00",
       "album": {
-        "name": "leeres statement",
-        "url": "https://open.spotify.com/album/3dnxjFKogjboO5gVIfwjKJ"
-      },
-      "artists": [
-        {
-          "name": "jolle",
-          "url": "https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ"
-        }
-      ],
-      "duration_ms": 138045,
-      "name": "leeres statement",
-      "url": "https://open.spotify.com/track/201EqfIXArRB3xBuS8ZfHH"
-    },
-    {
-      "added_at": "2023-11-07 23:00:00",
-      "album": {
         "name": "I C U",
         "url": "https://open.spotify.com/album/0xsFbTqIAva4xM9b5foBNe"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 175555,
       "name": "I C U",
       "url": "https://open.spotify.com/track/5ElKn41pCBDbAPZOAvfHPK"
+    },
+    {
+      "added_at": "2023-11-07 23:00:00",
+      "album": {
+        "name": "leeres statement",
+        "url": "https://open.spotify.com/album/3dnxjFKogjboO5gVIfwjKJ"
+      },
+      "artists": [
+        {
+          "name": "jolle",
+          "url": "https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ"
+        }
+      ],
+      "duration_ms": 138045,
+      "name": "leeres statement",
+      "url": "https://open.spotify.com/track/201EqfIXArRB3xBuS8ZfHH"
     },
     {
       "added_at": "2023-11-07 23:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-11-07 23:00:00",
       "album": {
-        "name": "All I Want",
-        "url": "https://open.spotify.com/album/4I5yaci3ZR4kaoizp9zcSe"
-      },
-      "artists": [
-        {
-          "name": "Willow Parlo",
-          "url": "https://open.spotify.com/artist/3n8bFcrOBNM63cpNDPnhHa"
-        }
-      ],
-      "duration_ms": 185103,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/52wTUyq17WCnp2lfu9Yfdz"
-    },
-    {
-      "added_at": "2023-11-07 23:00:00",
-      "album": {
         "name": "CALL ME CAT",
         "url": "https://open.spotify.com/album/2cczXaYgDo01zomNJp3HMB"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 198561,
       "name": "turn the light off",
       "url": "https://open.spotify.com/track/1CjY1vT5faoyJlxg1mGaV2"
+    },
+    {
+      "added_at": "2023-11-07 23:00:00",
+      "album": {
+        "name": "All I Want",
+        "url": "https://open.spotify.com/album/4I5yaci3ZR4kaoizp9zcSe"
+      },
+      "artists": [
+        {
+          "name": "Willow Parlo",
+          "url": "https://open.spotify.com/artist/3n8bFcrOBNM63cpNDPnhHa"
+        }
+      ],
+      "duration_ms": 185103,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/52wTUyq17WCnp2lfu9Yfdz"
     },
     {
       "added_at": "2023-11-07 23:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-11-07 23:00:00",
       "album": {
-        "name": "Josef",
-        "url": "https://open.spotify.com/album/6UwCgEgFtwkbW2pXzYoMFp"
-      },
-      "artists": [
-        {
-          "name": "MIBLU",
-          "url": "https://open.spotify.com/artist/3HoYVojQrcPcPHFiO26sJh"
-        }
-      ],
-      "duration_ms": 175266,
-      "name": "Josef",
-      "url": "https://open.spotify.com/track/3KczH9bH2A3gsMNNiTQB9G"
-    },
-    {
-      "added_at": "2023-11-07 23:00:00",
-      "album": {
         "name": "Do It Anyway",
         "url": "https://open.spotify.com/album/5xjrLChsR9sFgODn5NbFPT"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 150000,
       "name": "Do It Anyway",
       "url": "https://open.spotify.com/track/46WfoHmp8CsgECJ14JkRzW"
+    },
+    {
+      "added_at": "2023-11-07 23:00:00",
+      "album": {
+        "name": "Josef",
+        "url": "https://open.spotify.com/album/6UwCgEgFtwkbW2pXzYoMFp"
+      },
+      "artists": [
+        {
+          "name": "MIBLU",
+          "url": "https://open.spotify.com/artist/3HoYVojQrcPcPHFiO26sJh"
+        }
+      ],
+      "duration_ms": 175266,
+      "name": "Josef",
+      "url": "https://open.spotify.com/track/3KczH9bH2A3gsMNNiTQB9G"
     },
     {
       "added_at": "2023-11-07 23:00:00",

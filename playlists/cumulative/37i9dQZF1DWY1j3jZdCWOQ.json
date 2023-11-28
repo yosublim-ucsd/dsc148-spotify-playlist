@@ -653,6 +653,28 @@
     },
     {
       "album": {
+        "name": "Scott Pilgrim Vs. The World (Original Motion Picture Soundtrack Expanded Edition)",
+        "url": "https://open.spotify.com/album/6WRVuyOS840mRGrGe3510y"
+      },
+      "artists": [
+        {
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+        },
+        {
+          "name": "Brie Larson",
+          "url": "https://open.spotify.com/artist/7g77hiv179GYIwhfCgETGy"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294065,
+      "name": "Black Sheep - Brie Larson Vocal Version / Bonus Track",
+      "url": "https://open.spotify.com/track/2j90unMoDKo5xqR00xV6Oo"
+    },
+    {
+      "album": {
         "name": "Love Sux",
         "url": "https://open.spotify.com/album/5yLayeW2yw7QpH06QVIpiv"
       },
@@ -2446,7 +2468,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 215644,
       "name": "Leave Me Alone",
       "url": "https://open.spotify.com/track/1cIi1x8ANjMO97wH5OfYO1"
@@ -3091,6 +3113,24 @@
     },
     {
       "album": {
+        "name": "Blondshell",
+        "url": "https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216852,
+      "name": "Olympus",
+      "url": "https://open.spotify.com/track/2pqi703QQcp2zsuS3NgCii"
+    },
+    {
+      "album": {
         "name": "Once More For The Ocean",
         "url": "https://open.spotify.com/album/3Xh2BQHJApHvpfyeHVkyMP"
       },
@@ -3654,7 +3694,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 176707,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu"

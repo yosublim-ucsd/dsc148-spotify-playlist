@@ -4,7 +4,7 @@
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-246 songs - 14 hr 44 min
+247 songs - 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,7 +240,7 @@
 | [You Are So Beautiful](https://open.spotify.com/track/55H1e6ITKdYJAh23znaxXF) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [BROWN EYED SOUL 4th Regular Album ‘SOUL COOKE’](https://open.spotify.com/album/283nFxxtOCBUaiAC4OitCo) | 5:18 | 2022-05-11 | 2022-07-18 |
 | [You make me feel](https://open.spotify.com/track/0oYdeqSOzOCqKw0uqtVySS) | [Kim Greem](https://open.spotify.com/artist/1mJ8v3a8vsNWdP0FpUqeda) | [You make me feel](https://open.spotify.com/album/1ejEGlvoZhhDEinK9NE5KK) | 3:36 | 2022-05-11 | 2022-07-09 |
 | [You Might \(Feat\. SHIRT\)](https://open.spotify.com/track/340yvMO5adu3bo1x5Zrw14) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR), [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi) | [You Might \(Feat\. SHIRT\)](https://open.spotify.com/album/0ZkiSgqFmO169VYOFi02kD) | 3:07 | 2023-10-16 |  |
-| [You Move Me \(feat\. SUNG SI KYUNG\)](https://open.spotify.com/track/23QC5sdQRB4Oqp6iviqIFc) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 3:40 | 2022-07-08 |  |
+| [You Move Me \(feat\. SUNG SI KYUNG\)](https://open.spotify.com/track/23QC5sdQRB4Oqp6iviqIFc) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 3:40 | 2022-07-08 | 2023-11-28 |
 | [You Move Me \(feat\. SUNG SI KYUNG\)](https://open.spotify.com/track/2alRAEyM5GvxE8G94Lav4R) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [PSY 9th](https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4) | 3:40 | 2022-06-09 | 2022-07-28 |
 | [YOU YOU YOU](https://open.spotify.com/track/3sK8BhpcaBNqjiYU8rT8YL) | [Floody](https://open.spotify.com/artist/1btrLpznqZabTXLcxUHDUF) | [Now On, Showtime! \(Original Television Soundtrack\) \- 'YOU YOU YOU'](https://open.spotify.com/album/0qIJnaW3ADumGC4HSwzxlX) | 3:45 | 2022-06-09 | 2022-07-25 |
 | [You'll be fine](https://open.spotify.com/track/6nRvFUhyQtBxw4gPCF3OzR) | [Brick](https://open.spotify.com/artist/0WY9YPM5zCQZhIzR7wtwP0) | [You'll be fine](https://open.spotify.com/album/60m28acTUmMG2FRi4oxYu8) | 2:56 | 2022-07-08 | 2022-07-29 |
@@ -254,5 +254,6 @@
 | [우리의 장면](https://open.spotify.com/track/4CvjZCd1zcV8JwiyjgL0Xt) | [마리슈](https://open.spotify.com/artist/3K4yL5c5UlQW5Tx2PDRvVi) | [우리의 장면](https://open.spotify.com/album/6jwiUoE3Ud6oQRb7Mpxazr) | 3:10 | 2022-06-20 | 2022-06-26 |
 | [이렇게 지금](https://open.spotify.com/track/0S3pZ3ihAbPiB0qr1lodFX) | [RUNY](https://open.spotify.com/artist/3Gqep11q40qGtYbAWy20t8) | [황금가면 \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/4GyBq0xnIoHvbRWK2Zlq3L) | 3:57 | 2022-08-01 | 2022-09-26 |
 | [이름](https://open.spotify.com/track/2XMmJ6JAPkRualhBjpziCr) | [Lim Jae Bum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [그 사람, 그 사랑](https://open.spotify.com/album/3s0zdlcbovF0Yp2JJ3x1VA) | 3:04 | 2022-05-11 | 2022-07-29 |
+| [지금 이대로 Stay with me](https://open.spotify.com/track/54413VtpbmW1Xbhj0HoqWt) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [하루 한방울 One drop a day \(Original Soundtrack\), Pt\. 1](https://open.spotify.com/album/7ErAyd64YTQ0kLI2JsLFl3) | 3:10 | 2023-11-03 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

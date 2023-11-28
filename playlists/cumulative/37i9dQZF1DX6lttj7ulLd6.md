@@ -4,7 +4,7 @@
 
 > Instrumental Smooth Jazz for relaxing.
 
-171 songs - 13 hr 0 min
+172 songs - 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Kicks](https://open.spotify.com/track/2DRXRN3kBgwGYZtLc5yFcM) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Honestly](https://open.spotify.com/album/790ImJoB1GlVByP5owbzpO) | 4:05 | 2022-05-06 | 2022-10-05 |
 | [Kimi Trick](https://open.spotify.com/track/1ouzK9gIxLEADwHlL97nPv) | [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7), [Jonathan Fritzen](https://open.spotify.com/artist/0z0HE95gGMzsYOFD1EpnBD) | [Can't Stop Now](https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF) | 4:05 | 2022-08-16 |  |
 | [La Dolce Vita](https://open.spotify.com/track/1l9IRtd8omIqlGxYYzmyLv) | [Warren Hill](https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS) | [La Dolce Vita](https://open.spotify.com/album/6R13k9llyr3fWRDwKzmjDo) | 5:25 | 2022-05-06 | 2022-08-11 |
+| [last of the leather jackets](https://open.spotify.com/track/5h7gFuZYOB6vlUkhraNDJ2) | [Bloomsbury Boys](https://open.spotify.com/artist/7cwVlsMga7sXR644hJbA3c) | [last of the leather jackets](https://open.spotify.com/album/5miUYG6kDcPOTCwGJqvRHJ) | 4:45 | 2023-11-21 |  |
 | [Le Marais](https://open.spotify.com/track/61VdFwwPfRbgvPiVe1gQjJ) | [Rollin Hand](https://open.spotify.com/artist/7oKCQiTL5z1a63V76WyDtw) | [Le Marais](https://open.spotify.com/album/22sl7yPsMf22tDnbRwijjT) | 3:27 | 2023-04-03 | 2023-06-21 |
 | [Le Tour d'Amour](https://open.spotify.com/track/0tHzz8mldvPxA2lmw8dfnn) | [Boulevard Pacific](https://open.spotify.com/artist/6JbSthWVq60iYLhfcOuQnE), [Thomas Darelid](https://open.spotify.com/artist/3VgrYw0LQjgMkYa5kuYeaQ), [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED), [Jenny Kristoffersson](https://open.spotify.com/artist/3sKtRVB4wK89xAGqbgcmWy), [Per Lindvall](https://open.spotify.com/artist/2DeT2uR8f8SINDvVEEGSFc) | [Le Tour d'Amour](https://open.spotify.com/album/0bT3CNQPw1ZjiTbC4cWlo8) | 3:20 | 2023-09-20 |  |
 | [Let's Get It Started](https://open.spotify.com/track/27ALXHt5hgiu3iAUyStMcx) | [Jeffery Smith](https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2) | [Smooth Creations the Album, Pt\. 1](https://open.spotify.com/album/5NRxQH0cNTSE9JsssWVYDI) | 6:16 | 2022-09-08 |  |
@@ -167,7 +168,7 @@
 | [West Coast Coolin'](https://open.spotify.com/track/07pe7c2ytCutxLyykBo1AX) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [West Coast Coolin'](https://open.spotify.com/album/5dAlHUk0CgmwKZygPY8ZJx) | 4:30 | 2022-05-06 |  |
 | [What Cha Gonna Do?](https://open.spotify.com/track/2RMl0c68DWw6zamWB6R1Ce) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [Above The Clouds](https://open.spotify.com/album/6HIHESKwsvniDkbZ6AzuAv) | 4:00 | 2022-05-06 | 2022-10-05 |
 | [When You Love Somebody](https://open.spotify.com/track/18kK4W1IU9j5cyu3ZtpQKr) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Smooth Jazz n Chill 2](https://open.spotify.com/album/4uKTQFjPwEC454ED2p0KDY) | 4:24 | 2022-11-08 | 2022-11-13 |
-| [When You Love Somebody](https://open.spotify.com/track/3sUlkxJZ3KtHFFuNo8Yhdt) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Influences](https://open.spotify.com/album/1hbsoh6rcNrxngTQwAi1gR) | 4:24 | 2022-06-28 |  |
+| [When You Love Somebody](https://open.spotify.com/track/3sUlkxJZ3KtHFFuNo8Yhdt) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Influences](https://open.spotify.com/album/1hbsoh6rcNrxngTQwAi1gR) | 4:24 | 2022-06-28 | 2023-11-28 |
 | [When You Love Somebody](https://open.spotify.com/track/7AeS3Lkmps2klORaU65IMq) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Influences](https://open.spotify.com/album/7pJZjU3feX0JRmJsyNMUKk) | 4:24 | 2022-05-06 | 2022-07-29 |
 | [Where the Night Begins](https://open.spotify.com/track/1XWvnO1jAnW8izUOczEdZu) | [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [Stay Awhile](https://open.spotify.com/album/0BnQMPzjGWbmoAOPFs5Nsn) | 4:37 | 2022-05-06 |  |
 | [Where's The Love Gone?](https://open.spotify.com/track/6BkBYpNKJV3r43mryfkmDR) | [Jackiem Joyner](https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg) | [Lil' Man Soul](https://open.spotify.com/album/3GPPcFHouTopuZons7w27s) | 4:19 | 2022-05-06 | 2022-10-05 |

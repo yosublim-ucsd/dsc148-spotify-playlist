@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Jubin Nautiyal
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,140 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,189 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Aisi Teri Yaadein](https://open.spotify.com/track/0zQT8LBspIhHQ1RUFzTe5D) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Rocky Khanna](https://open.spotify.com/artist/706HpBx83UlG2Shf6zTnSC) | [Aisi Teri Yaadein](https://open.spotify.com/album/7r6qLiVCn35vuJafG6JlNB) | 4:55 |
 | 2 | [In Raahon Mein \(From "The Archies"\)](https://open.spotify.com/track/25qNCxhu9VzFgcCPawszwh) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Javed Akhtar](https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014) | [In Raahon Mein \(From "The Archies"\)](https://open.spotify.com/album/1QH9L2KybZAacyZODZyZ3n) | 3:03 |
-| 3 | [Ek Mulaqaat](https://open.spotify.com/track/6oEfERRKaPlIHpK8rFODjo) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Ek Mulaqaat](https://open.spotify.com/album/6NNvNQZoXHkqHYuD4xERjD) | 5:28 |
+| 3 | [Ek Mulaqaat](https://open.spotify.com/track/6oEfERRKaPlIHpK8rFODjo) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Ek Mulaqaat](https://open.spotify.com/album/6NNvNQZoXHkqHYuD4xERjD) | 5:28 |
 | 4 | [Saanson Mein Tum Ho](https://open.spotify.com/track/0DdkxgExv3HU7l0jx0AtvQ) | [Nachiket Lele](https://open.spotify.com/artist/7ae0oTgtIc8mWAHAD3wmu7), [Himesh Reshammiya](https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU) | [Saanson Mein Tum Ho](https://open.spotify.com/album/0dPIgTbkEabntXROb26RN4) | 4:43 |
 | 5 | [Mohabbat Karne Wale](https://open.spotify.com/track/6q2kG1nmxpfmmvnx5J8cJb) | [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [Swapnil Tare](https://open.spotify.com/artist/16023OFrIxSmKOMpIVJ6Ax), [Hafeez Hoshiyarpuri](https://open.spotify.com/artist/7Ck29k6n63SKcKvyLcWDRr) | [Mohabbat Karne Wale](https://open.spotify.com/album/7hCywRNiiG9vy0f1qyEW7p) | 3:59 |
 | 6 | [Sunday](https://open.spotify.com/track/1GMFeGQBppaepcx6NsR7qB) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw), [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Sunday](https://open.spotify.com/album/34YGRvUlSxeevZHXZ7fl9m) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Kya Karenge](https://open.spotify.com/track/5uU4M939yF9SjiRxEyLL2E) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK) | [Kya Karenge](https://open.spotify.com/album/16Jn9TKOvst1QG4PpRYgKc) | 3:45 |
 | 50 | [High Hukku \(feat\. Nikhita Gandhi\)](https://open.spotify.com/track/792LZt93GE9wsVZJCAUdQJ) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [NEW LIFE](https://open.spotify.com/album/7zvmmYySo3FPuwEiKv7xSF) | 3:02 |
 
-Snapshot ID: `MCxjNGYzZjA5MzQ3N2M5MmI2OGFiZDY4Mzc2MWZlYzk3MWMzNmQwNmUz`
+Snapshot ID: `MCw3ZDYyNGU2YWFjNjQ5OWUzMWExNDgwMzgzYzQ3M2EzYjFlODBkZTIy`

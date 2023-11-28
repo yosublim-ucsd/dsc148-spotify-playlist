@@ -4,7 +4,7 @@
 
 > New music from Eyedress and more...
 
-1,908 songs - 4 day 18 hr 49 min
+1,909 songs - 4 day 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1208,6 +1208,7 @@
 | [Okay](https://open.spotify.com/track/3a1FmKNt5614MLAh7KeWTb) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Okay](https://open.spotify.com/album/4zuOje7GYsDwFL3ZkAxJ4W) | 2:03 | 2021-10-04 | 2022-04-06 |
 | [Old Bone](https://open.spotify.com/track/5byJBGDhkVXs81MS3b3Ncq) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Old Bone / Trust No Man](https://open.spotify.com/album/6pTUF8e5RU8pU2GLRoQl5Q) | 3:07 | 2019-05-26\* | 2019-06-21 |
 | [Old Graffiti](https://open.spotify.com/track/4JjZlkqdMcsJuypBEfkQnr) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ribbons](https://open.spotify.com/album/7Lp3RABC548nsBoBmj7pEl) | 3:28 | 2019-05-26\* | 2019-08-16 |
+| [Olympus](https://open.spotify.com/track/2pqi703QQcp2zsuS3NgCii) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8) | 3:36 | 2023-11-28 |  |
 | [Olympus](https://open.spotify.com/track/4yTFuPeN2UHzboAyUhgqIk) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Olympus](https://open.spotify.com/album/7pTDGUWMPGL6Z62Prx4jZ4) | 3:44 | 2022-06-17 | 2022-07-22 |
 | [On Fye](https://open.spotify.com/track/2kjZSE6DNlNIBr05cD2Pxo) | [The Simps](https://open.spotify.com/artist/1jsT4oqnLcCax2grWbuhL6), [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [On Fye](https://open.spotify.com/album/38myRdXCKVOzacQ6vHjT8P) | 2:07 | 2022-01-21 | 2022-03-31 |
 | [On the Floor \- Edit](https://open.spotify.com/track/5vpiEyZAIpmyISHlfitNeD) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [On the Floor](https://open.spotify.com/album/6v7SLSs6GQ9sKuaRi81pb6) | 3:45 | 2020-03-27 | 2021-04-15 |

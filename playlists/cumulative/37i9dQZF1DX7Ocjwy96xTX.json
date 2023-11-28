@@ -3547,6 +3547,24 @@
     },
     {
       "album": {
+        "name": "D\u00f6d Mark 4Evigt",
+        "url": "https://open.spotify.com/album/70XKEcF9OgL0YE3icy72ft"
+      },
+      "artists": [
+        {
+          "name": "D\u00f6d Mark",
+          "url": "https://open.spotify.com/artist/36ufPZjygPOubok9wycfl9"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143546,
+      "name": "Sanningsspegel",
+      "url": "https://open.spotify.com/track/7ka22HCGENiIbGqdJCrvB5"
+    },
+    {
+      "album": {
         "name": "California Nebula",
         "url": "https://open.spotify.com/album/4GrpuTC5tCnxVmgfu9ZISQ"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: James Arthur
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,529 likes - 95 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,588 likes - 95 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 94 | [higher love](https://open.spotify.com/track/1qeUqkv5ysr4aY5TRbYVv7) | [GARETH FERNANDEZ](https://open.spotify.com/artist/5OCCRySomkXZXoE1JQ5Hkb) | [higher love](https://open.spotify.com/album/3v8rZiLsW5UyLKyhHlhYCL) | 2:58 |
 | 95 | [Memory Lane](https://open.spotify.com/track/6Z9dmhwOZ3wlCfCrjkWMNk) | [CHUROSE](https://open.spotify.com/artist/4y9Jhm3jRfDCgGJ3kgyGDp) | [Memory Lane](https://open.spotify.com/album/0aLUKwVWBquLge7Ztf2LO4) | 3:18 |
 
-Snapshot ID: `MCw4MWI4N2FiZDRjYjkzNmQyYzUwZDczODQ4YzViMmQxNzA1ODkyNTM0`
+Snapshot ID: `MCw5NDkzOGVjZTI0NWNjYTU5ZTI1ZGZmODM4YTJjMTAzOGVhYjUyNTI3`

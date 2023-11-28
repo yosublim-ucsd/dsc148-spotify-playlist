@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Luma Elpidio",
-  "num_followers": 82859,
+  "num_followers": 82943,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MmQ3MjkyMTI5NTIzMmIzNjg4MjljNGU5YzRjNDhmODliNGI4OGI5",
+  "snapshot_id": "MCxhMDEyNDRmMjVjMDMwZjZhZmU5ZWI1M2JjNDg0ZWU5NDQwMTA0YWU2",
   "tracks": [
     {
       "added_at": "2023-11-24 14:25:40",
@@ -195,6 +195,50 @@
     {
       "added_at": "2023-11-24 14:25:40",
       "album": {
+        "name": "Achei um Bom Amigo",
+        "url": "https://open.spotify.com/album/7mbMDc3z8S7zaTlZMJ9bDE"
+      },
+      "artists": [
+        {
+          "name": "Os Meireles",
+          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
+        },
+        {
+          "name": "Marcela Tais",
+          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
+        },
+        {
+          "name": "Novo Tempo",
+          "url": "https://open.spotify.com/artist/4hSwClI41RKuFb46itnL5e"
+        },
+        {
+          "name": "Samuel Antunes",
+          "url": "https://open.spotify.com/artist/7krk5pJJFAugqmfVGt3U5Q"
+        }
+      ],
+      "duration_ms": 208927,
+      "name": "Achei um Bom Amigo",
+      "url": "https://open.spotify.com/track/0vr7Aa6arlPy6LuraqouKJ"
+    },
+    {
+      "added_at": "2023-11-24 14:25:40",
+      "album": {
+        "name": "Gra\u00e7a Sobre Gra\u00e7a",
+        "url": "https://open.spotify.com/album/25glZgp7YQyCE9Oz2Honsi"
+      },
+      "artists": [
+        {
+          "name": "Brenda Danese",
+          "url": "https://open.spotify.com/artist/1z5wjo6tdolaXhYZsT9T5r"
+        }
+      ],
+      "duration_ms": 191530,
+      "name": "Gra\u00e7a Sobre Gra\u00e7a",
+      "url": "https://open.spotify.com/track/0nvXiTPiPPVZqP6UMbmdSs"
+    },
+    {
+      "added_at": "2023-11-24 14:25:40",
+      "album": {
         "name": "Sua Paz",
         "url": "https://open.spotify.com/album/1EtfVJ2AQkFGwIrRquN00y"
       },
@@ -227,50 +271,6 @@
       "duration_ms": 239946,
       "name": "Dono dos Meus Dias",
       "url": "https://open.spotify.com/track/4DqMjreua66sH84GbccttX"
-    },
-    {
-      "added_at": "2023-11-24 14:25:40",
-      "album": {
-        "name": "Gra\u00e7a Sobre Gra\u00e7a",
-        "url": "https://open.spotify.com/album/25glZgp7YQyCE9Oz2Honsi"
-      },
-      "artists": [
-        {
-          "name": "Brenda Danese",
-          "url": "https://open.spotify.com/artist/1z5wjo6tdolaXhYZsT9T5r"
-        }
-      ],
-      "duration_ms": 191530,
-      "name": "Gra\u00e7a Sobre Gra\u00e7a",
-      "url": "https://open.spotify.com/track/0nvXiTPiPPVZqP6UMbmdSs"
-    },
-    {
-      "added_at": "2023-11-24 14:25:40",
-      "album": {
-        "name": "Achei um Bom Amigo",
-        "url": "https://open.spotify.com/album/7mbMDc3z8S7zaTlZMJ9bDE"
-      },
-      "artists": [
-        {
-          "name": "Os Meireles",
-          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
-        },
-        {
-          "name": "Marcela Tais",
-          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
-        },
-        {
-          "name": "Novo Tempo",
-          "url": "https://open.spotify.com/artist/4hSwClI41RKuFb46itnL5e"
-        },
-        {
-          "name": "Samuel Antunes",
-          "url": "https://open.spotify.com/artist/7krk5pJJFAugqmfVGt3U5Q"
-        }
-      ],
-      "duration_ms": 208927,
-      "name": "Achei um Bom Amigo",
-      "url": "https://open.spotify.com/track/0vr7Aa6arlPy6LuraqouKJ"
     },
     {
       "added_at": "2023-11-24 14:25:40",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-11-24 14:25:40",
       "album": {
-        "name": "Tranquilo",
-        "url": "https://open.spotify.com/album/6a6l1rcXkDIgEeXynqIrxy"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 240697,
-      "name": "Tranquilo",
-      "url": "https://open.spotify.com/track/6RknNslwpjiHMgO4nKBgsQ"
-    },
-    {
-      "added_at": "2023-11-24 14:25:40",
-      "album": {
         "name": "Entre Milh\u00f5es",
         "url": "https://open.spotify.com/album/24zbpVWJfdko6LTVjDHJhJ"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 279191,
       "name": "Tremenda Gra\u00e7a (This Is Amazing Grace)",
       "url": "https://open.spotify.com/track/0bqH6fLvFmBM9X6pjwCY4S"
+    },
+    {
+      "added_at": "2023-11-24 14:25:40",
+      "album": {
+        "name": "Tranquilo",
+        "url": "https://open.spotify.com/album/6a6l1rcXkDIgEeXynqIrxy"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 240697,
+      "name": "Tranquilo",
+      "url": "https://open.spotify.com/track/6RknNslwpjiHMgO4nKBgsQ"
     },
     {
       "added_at": "2023-11-24 14:25:40",
@@ -855,18 +855,22 @@
     {
       "added_at": "2023-11-24 14:25:40",
       "album": {
-        "name": "Em Teus Bra\u00e7os / Oh Qu\u00e3o Lindo Esse Nome \u00c9",
-        "url": "https://open.spotify.com/album/5TXGb6VRKMC5pnLDOsTcoI"
+        "name": "Apenas Can\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7JfcTaZohCXrarbXMox1Cg"
       },
       "artists": [
         {
-          "name": "Hellen Caroline",
-          "url": "https://open.spotify.com/artist/6sf7SuzRBzEQDFbmY2WarY"
+          "name": "Patricia Romania",
+          "url": "https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K"
+        },
+        {
+          "name": "Delino Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
         }
       ],
-      "duration_ms": 272021,
-      "name": "Em Teus Bra\u00e7os / Oh Qu\u00e3o Lindo Esse Nome \u00c9",
-      "url": "https://open.spotify.com/track/4dSSiThOk4gCNJseSdZXym"
+      "duration_ms": 266020,
+      "name": "Apenas Can\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/43ZMXD6nz8fDresDGJWcFV"
     },
     {
       "added_at": "2023-11-24 14:25:40",
@@ -895,22 +899,18 @@
     {
       "added_at": "2023-11-24 14:25:40",
       "album": {
-        "name": "Apenas Can\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/7JfcTaZohCXrarbXMox1Cg"
+        "name": "Em Teus Bra\u00e7os / Oh Qu\u00e3o Lindo Esse Nome \u00c9",
+        "url": "https://open.spotify.com/album/5TXGb6VRKMC5pnLDOsTcoI"
       },
       "artists": [
         {
-          "name": "Patricia Romania",
-          "url": "https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K"
-        },
-        {
-          "name": "Delino Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
+          "name": "Hellen Caroline",
+          "url": "https://open.spotify.com/artist/6sf7SuzRBzEQDFbmY2WarY"
         }
       ],
-      "duration_ms": 266020,
-      "name": "Apenas Can\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/43ZMXD6nz8fDresDGJWcFV"
+      "duration_ms": 272021,
+      "name": "Em Teus Bra\u00e7os / Oh Qu\u00e3o Lindo Esse Nome \u00c9",
+      "url": "https://open.spotify.com/track/4dSSiThOk4gCNJseSdZXym"
     },
     {
       "added_at": "2023-11-24 14:25:40",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2023-11-24 14:25:40",
       "album": {
-        "name": "Levanto um Aleluia",
-        "url": "https://open.spotify.com/album/5ICoXgfFN4Xr7viHJg0A4U"
-      },
-      "artists": [
-        {
-          "name": "Anna Fernandes",
-          "url": "https://open.spotify.com/artist/3XM89NsDdkXwh8y9Sfsy6H"
-        },
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 233261,
-      "name": "Levanto um Aleluia",
-      "url": "https://open.spotify.com/track/7D9DSnpESw53koPAgzk3kS"
-    },
-    {
-      "added_at": "2023-11-24 14:25:40",
-      "album": {
         "name": "N\u00e3o \u00c9 S\u00f3 um Rol\u00ea",
         "url": "https://open.spotify.com/album/1G1qBHy1it4CLI9uFjoIPc"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 249444,
       "name": "N\u00e3o \u00c9 S\u00f3 um Rol\u00ea",
       "url": "https://open.spotify.com/track/60kFRHVNT35Eh2tMBxtaqo"
+    },
+    {
+      "added_at": "2023-11-24 14:25:40",
+      "album": {
+        "name": "Levanto um Aleluia",
+        "url": "https://open.spotify.com/album/5ICoXgfFN4Xr7viHJg0A4U"
+      },
+      "artists": [
+        {
+          "name": "Anna Fernandes",
+          "url": "https://open.spotify.com/artist/3XM89NsDdkXwh8y9Sfsy6H"
+        },
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 233261,
+      "name": "Levanto um Aleluia",
+      "url": "https://open.spotify.com/track/7D9DSnpESw53koPAgzk3kS"
     },
     {
       "added_at": "2023-11-24 14:25:40",
@@ -1123,30 +1123,6 @@
     {
       "added_at": "2023-11-24 14:25:40",
       "album": {
-        "name": "Tudo Novo (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3gWsO95tq0c0qTAyogPlHk"
-      },
-      "artists": [
-        {
-          "name": "DJ Roger Vale",
-          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
-        },
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        },
-        {
-          "name": "Thaiane Seghetto",
-          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
-        }
-      ],
-      "duration_ms": 179998,
-      "name": "Tudo Novo - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/77uSoHkw1ot5r6JdfvtTmi"
-    },
-    {
-      "added_at": "2023-11-24 14:25:40",
-      "album": {
         "name": "Ponto de Paz",
         "url": "https://open.spotify.com/album/4Yy8ikznHTg6WRHKuD8SzP"
       },
@@ -1159,6 +1135,22 @@
       "duration_ms": 180864,
       "name": "Ponto de Paz",
       "url": "https://open.spotify.com/track/3e91JWy8Ry9Q0fdWwEDQlb"
+    },
+    {
+      "added_at": "2023-11-24 14:25:40",
+      "album": {
+        "name": "Teus Rios",
+        "url": "https://open.spotify.com/album/4JgWgUGhqRNes5E5aFpdQL"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF"
+        }
+      ],
+      "duration_ms": 194034,
+      "name": "Teus Rios",
+      "url": "https://open.spotify.com/track/34EF4hF2gVbSWiTbTXTaPv"
     },
     {
       "added_at": "2023-11-24 14:25:40",
@@ -1183,22 +1175,6 @@
     {
       "added_at": "2023-11-24 14:25:40",
       "album": {
-        "name": "Teus Rios",
-        "url": "https://open.spotify.com/album/4JgWgUGhqRNes5E5aFpdQL"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF"
-        }
-      ],
-      "duration_ms": 194034,
-      "name": "Teus Rios",
-      "url": "https://open.spotify.com/track/34EF4hF2gVbSWiTbTXTaPv"
-    },
-    {
-      "added_at": "2023-11-24 14:25:40",
-      "album": {
         "name": "Ousado Amor",
         "url": "https://open.spotify.com/album/5Y8vcMT4eDmaPOibOkbTAn"
       },
@@ -1215,6 +1191,30 @@
       "duration_ms": 213000,
       "name": "Ousado Amor",
       "url": "https://open.spotify.com/track/2QcxcpLjXeddtf3AQkpP7S"
+    },
+    {
+      "added_at": "2023-11-24 14:25:40",
+      "album": {
+        "name": "Tudo Novo (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3gWsO95tq0c0qTAyogPlHk"
+      },
+      "artists": [
+        {
+          "name": "DJ Roger Vale",
+          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
+        },
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        },
+        {
+          "name": "Thaiane Seghetto",
+          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
+        }
+      ],
+      "duration_ms": 179998,
+      "name": "Tudo Novo - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/77uSoHkw1ot5r6JdfvtTmi"
     },
     {
       "added_at": "2023-11-24 14:25:40",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2023-11-24 14:25:40",
       "album": {
+        "name": "Rota",
+        "url": "https://open.spotify.com/album/4YeDhdeWBJCA9CyQytxhoH"
+      },
+      "artists": [
+        {
+          "name": "Isabella Lopes",
+          "url": "https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds"
+        }
+      ],
+      "duration_ms": 196032,
+      "name": "Rota",
+      "url": "https://open.spotify.com/track/2ce659MS4j8MCjpebtgcL4"
+    },
+    {
+      "added_at": "2023-11-24 14:25:40",
+      "album": {
         "name": "Pense Bem",
         "url": "https://open.spotify.com/album/2HLEZqD8E8VxUTJJAQWtOJ"
       },
@@ -1279,18 +1295,18 @@
     {
       "added_at": "2023-11-24 14:25:40",
       "album": {
-        "name": "Rota",
-        "url": "https://open.spotify.com/album/4YeDhdeWBJCA9CyQytxhoH"
+        "name": "Pai Nosso",
+        "url": "https://open.spotify.com/album/2CunA6PC2Oxb5fRjaX4Kcl"
       },
       "artists": [
         {
-          "name": "Isabella Lopes",
-          "url": "https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds"
+          "name": "Welcson",
+          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
         }
       ],
-      "duration_ms": 196032,
-      "name": "Rota",
-      "url": "https://open.spotify.com/track/2ce659MS4j8MCjpebtgcL4"
+      "duration_ms": 261200,
+      "name": "Pai Nosso - Our Father",
+      "url": "https://open.spotify.com/track/5UcxW6kkmh1wkhkxFRzqOp"
     },
     {
       "added_at": "2023-11-24 14:25:40",
@@ -1331,22 +1347,6 @@
       "duration_ms": 197120,
       "name": "Todo Meu Viver (Ac\u00fastico) - Ao Vivo",
       "url": "https://open.spotify.com/track/7yjp2QATsMpOhxj7lY4ywv"
-    },
-    {
-      "added_at": "2023-11-24 14:25:40",
-      "album": {
-        "name": "Pai Nosso",
-        "url": "https://open.spotify.com/album/2CunA6PC2Oxb5fRjaX4Kcl"
-      },
-      "artists": [
-        {
-          "name": "Welcson",
-          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
-        }
-      ],
-      "duration_ms": 261200,
-      "name": "Pai Nosso - Our Father",
-      "url": "https://open.spotify.com/track/5UcxW6kkmh1wkhkxFRzqOp"
     },
     {
       "added_at": "2023-11-24 14:25:40",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-11-24 14:25:40",
       "album": {
-        "name": "Voltar",
-        "url": "https://open.spotify.com/album/7IhZtnkevW11CFBDn0MtMw"
-      },
-      "artists": [
-        {
-          "name": "Eric Cortes",
-          "url": "https://open.spotify.com/artist/7Mvuu6yhnhyYtZATxe5C8F"
-        }
-      ],
-      "duration_ms": 256874,
-      "name": "Voltar",
-      "url": "https://open.spotify.com/track/7nGWHqmxy7YbXSW2bQ3gwM"
-    },
-    {
-      "added_at": "2023-11-24 14:25:40",
-      "album": {
         "name": "Casulo",
         "url": "https://open.spotify.com/album/4qMEh38ilE4hFKebd2Akva"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 219903,
       "name": "Casulo",
       "url": "https://open.spotify.com/track/74YwOpRL2QlSo4Z1c2XpZs"
+    },
+    {
+      "added_at": "2023-11-24 14:25:40",
+      "album": {
+        "name": "Voltar",
+        "url": "https://open.spotify.com/album/7IhZtnkevW11CFBDn0MtMw"
+      },
+      "artists": [
+        {
+          "name": "Eric Cortes",
+          "url": "https://open.spotify.com/artist/7Mvuu6yhnhyYtZATxe5C8F"
+        }
+      ],
+      "duration_ms": 256874,
+      "name": "Voltar",
+      "url": "https://open.spotify.com/track/7nGWHqmxy7YbXSW2bQ3gwM"
     },
     {
       "added_at": "2023-11-24 14:25:40",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-11-24 14:25:40",
       "album": {
-        "name": "Te Vejo",
-        "url": "https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 210125,
-      "name": "Te Vejo",
-      "url": "https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1"
-    },
-    {
-      "added_at": "2023-11-24 14:25:40",
-      "album": {
         "name": "Testemunho",
         "url": "https://open.spotify.com/album/1hzZ5ugTa68A1Q96rolfAQ"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 139000,
       "name": "Testemunho",
       "url": "https://open.spotify.com/track/6HcUgggcWIqOEQASujbMy0"
+    },
+    {
+      "added_at": "2023-11-24 14:25:40",
+      "album": {
+        "name": "Te Vejo",
+        "url": "https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        }
+      ],
+      "duration_ms": 210125,
+      "name": "Te Vejo",
+      "url": "https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1"
     },
     {
       "added_at": "2023-11-24 14:25:40",

@@ -1,12 +1,12 @@
 {
   "description": "A salute to all of the women opening up the pit. Cover: NOVELISTS",
-  "num_followers": 650843,
+  "num_followers": 650878,
   "original_name": "Heavy Queens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZmUwZmQwYzFmYjRjOWY0ZGNlN2Y5NGMxOGViMjI1ODQ2NWM4M2E0",
+  "snapshot_id": "MCxjM2Q5N2EyODhmYzRjNjZiMTMyNjZmMDAyNTA3NDkzMmYwZDQ0MWZk",
   "tracks": [
     {
       "added_at": "2023-09-15 12:26:41",
@@ -127,18 +127,18 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "I Disagree",
-        "url": "https://open.spotify.com/album/4uTce2w80loIu3oLnW0irN"
+        "name": "The Void",
+        "url": "https://open.spotify.com/album/7iAsbehqUN1IsCNG4NlAwu"
       },
       "artists": [
         {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 193499,
-      "name": "I Disagree",
-      "url": "https://open.spotify.com/track/5M1OSRePFJzlQCTJRKVGQQ"
+      "duration_ms": 220765,
+      "name": "The Void",
+      "url": "https://open.spotify.com/track/2exVVVKvdymCwOFdvmA2bq"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -175,38 +175,6 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "Bimbocore",
-        "url": "https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0"
-      },
-      "artists": [
-        {
-          "name": "Scene Queen",
-          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
-        }
-      ],
-      "duration_ms": 118863,
-      "name": "Pink Rover",
-      "url": "https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
-        "name": "The Void",
-        "url": "https://open.spotify.com/album/7iAsbehqUN1IsCNG4NlAwu"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 220765,
-      "name": "The Void",
-      "url": "https://open.spotify.com/track/2exVVVKvdymCwOFdvmA2bq"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/28IlwCwIt69Xh627BwUC8F"
       },
@@ -223,22 +191,6 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "Fear of Dying",
-        "url": "https://open.spotify.com/album/56Dlp0JgocLaF8r6HYZe0Z"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 163062,
-      "name": "Fear of Dying",
-      "url": "https://open.spotify.com/track/30NCaDbTGyUJKTMrQwgXQG"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
         "name": "Back From the Dead",
         "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
       },
@@ -251,6 +203,38 @@
       "duration_ms": 207445,
       "name": "The Steeple",
       "url": "https://open.spotify.com/track/09XBDPqHnevLn54rpRMjkZ"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
+        "name": "I Disagree",
+        "url": "https://open.spotify.com/album/4uTce2w80loIu3oLnW0irN"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 193499,
+      "name": "I Disagree",
+      "url": "https://open.spotify.com/track/5M1OSRePFJzlQCTJRKVGQQ"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
+        "name": "Bimbocore",
+        "url": "https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0"
+      },
+      "artists": [
+        {
+          "name": "Scene Queen",
+          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
+        }
+      ],
+      "duration_ms": 118863,
+      "name": "Pink Rover",
+      "url": "https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -307,22 +291,6 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/28IlwCwIt69Xh627BwUC8F"
-      },
-      "artists": [
-        {
-          "name": "In This Moment",
-          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
-        }
-      ],
-      "duration_ms": 249050,
-      "name": "As Above, So Below",
-      "url": "https://open.spotify.com/track/4pj2L6WbBAlevdxx6jgm32"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
         "name": "Seize the Power",
         "url": "https://open.spotify.com/album/2QgPGKzoN51qcEzGlHYk7j"
       },
@@ -359,6 +327,22 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/28IlwCwIt69Xh627BwUC8F"
+      },
+      "artists": [
+        {
+          "name": "In This Moment",
+          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
+        }
+      ],
+      "duration_ms": 249050,
+      "name": "As Above, So Below",
+      "url": "https://open.spotify.com/track/4pj2L6WbBAlevdxx6jgm32"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
         "name": "Petrichor",
         "url": "https://open.spotify.com/album/5MMpn220uT7mgXdfzrKtnS"
       },
@@ -375,18 +359,18 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "Monochrome",
-        "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
+        "name": "Fear of Dying",
+        "url": "https://open.spotify.com/album/56Dlp0JgocLaF8r6HYZe0Z"
       },
       "artists": [
         {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
         }
       ],
-      "duration_ms": 237354,
-      "name": "Monochrome",
-      "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
+      "duration_ms": 163062,
+      "name": "Fear of Dying",
+      "url": "https://open.spotify.com/track/30NCaDbTGyUJKTMrQwgXQG"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -403,6 +387,22 @@
       "duration_ms": 210304,
       "name": "Back From The Dead",
       "url": "https://open.spotify.com/track/2kxp6iR7nCNGYTx0eNYp2C"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
+        "name": "Monochrome",
+        "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "duration_ms": 237354,
+      "name": "Monochrome",
+      "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -487,6 +487,22 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
+        "name": "Rotoscope",
+        "url": "https://open.spotify.com/album/01vIMDzbZrTEhtScu8jrGW"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 215362,
+      "name": "Rotoscope",
+      "url": "https://open.spotify.com/track/5LJmf4fMXEvO1PdlCBKwRz"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
         "name": "Rest In Peace",
         "url": "https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE"
       },
@@ -523,38 +539,6 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "THE OTHER ONE",
-        "url": "https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        }
-      ],
-      "duration_ms": 244258,
-      "name": "Light and Darkness",
-      "url": "https://open.spotify.com/track/12dYN0rS95O37qxZh3pOLV"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
-        "name": "Rotoscope",
-        "url": "https://open.spotify.com/album/01vIMDzbZrTEhtScu8jrGW"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 215362,
-      "name": "Rotoscope",
-      "url": "https://open.spotify.com/track/5LJmf4fMXEvO1PdlCBKwRz"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
         "name": "Wireless",
         "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 256466,
       "name": "The Purge",
       "url": "https://open.spotify.com/track/1xSQOcSAFcsEl7R9AiRHAL"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
+        "name": "THE OTHER ONE",
+        "url": "https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "duration_ms": 244258,
+      "name": "Light and Darkness",
+      "url": "https://open.spotify.com/track/12dYN0rS95O37qxZh3pOLV"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -635,6 +635,26 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
+        "name": "Eternal Blue",
+        "url": "https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        },
+        {
+          "name": "Sam Carter",
+          "url": "https://open.spotify.com/artist/21QEpK62qn34QVshh4qpTK"
+        }
+      ],
+      "duration_ms": 198067,
+      "name": "Yellowjacket (feat. Sam Carter)",
+      "url": "https://open.spotify.com/track/3zQy3N1K8Mk5QknfFuVGNc"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
         "name": "weapon",
         "url": "https://open.spotify.com/album/3MBuWCEWssM1Yc7JmvuYB7"
       },
@@ -683,6 +703,38 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
+        "name": "Abyss",
+        "url": "https://open.spotify.com/album/35Tw2Ofk21iMTXTSW3i8sD"
+      },
+      "artists": [
+        {
+          "name": "Unleash The Archers",
+          "url": "https://open.spotify.com/artist/6irKXFXk2sPNmHtKqmrfuU"
+        }
+      ],
+      "duration_ms": 404093,
+      "name": "Abyss",
+      "url": "https://open.spotify.com/track/2H6DMvpLd9tmW7kjjZO3Oy"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
+        "name": "Eternal Blue",
+        "url": "https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 226186,
+      "name": "Hurt You",
+      "url": "https://open.spotify.com/track/6Pd8HUW71iIjalkxJbo8FP"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
         "name": "Bang Ya Head",
         "url": "https://open.spotify.com/album/4O8mwmSl0t6AX3fObXRqB5"
       },
@@ -699,42 +751,6 @@
       "duration_ms": 216280,
       "name": "Bang Ya Head (feat. Fred Durst)",
       "url": "https://open.spotify.com/track/6cGoPSnvtuT3NnHH4DaDU0"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
-        "name": "Eternal Blue",
-        "url": "https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        },
-        {
-          "name": "Sam Carter",
-          "url": "https://open.spotify.com/artist/21QEpK62qn34QVshh4qpTK"
-        }
-      ],
-      "duration_ms": 198067,
-      "name": "Yellowjacket (feat. Sam Carter)",
-      "url": "https://open.spotify.com/track/3zQy3N1K8Mk5QknfFuVGNc"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
-        "name": "Abyss",
-        "url": "https://open.spotify.com/album/35Tw2Ofk21iMTXTSW3i8sD"
-      },
-      "artists": [
-        {
-          "name": "Unleash The Archers",
-          "url": "https://open.spotify.com/artist/6irKXFXk2sPNmHtKqmrfuU"
-        }
-      ],
-      "duration_ms": 404093,
-      "name": "Abyss",
-      "url": "https://open.spotify.com/track/2H6DMvpLd9tmW7kjjZO3Oy"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -807,22 +823,6 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "Eternal Blue",
-        "url": "https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 226186,
-      "name": "Hurt You",
-      "url": "https://open.spotify.com/track/6Pd8HUW71iIjalkxJbo8FP"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
         "name": "Forsaken (The Aftermath)",
         "url": "https://open.spotify.com/album/19sM9PTWBKHos2jARNfe06"
       },
@@ -859,18 +859,18 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "Do It So Good",
-        "url": "https://open.spotify.com/album/7s7bmCIHQjNtt83diSRZjm"
+        "name": "Eternal Blue",
+        "url": "https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL"
       },
       "artists": [
         {
-          "name": "WARGASM (UK)",
-          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 202466,
-      "name": "Do It So Good",
-      "url": "https://open.spotify.com/track/7AdLQWyE8e2AKUBooSGCBt"
+      "duration_ms": 219280,
+      "name": "Secret Garden",
+      "url": "https://open.spotify.com/track/0OzpSEZ5rwwAu1JC2zRAvb"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -887,6 +887,22 @@
       "duration_ms": 127383,
       "name": "Opening Night",
       "url": "https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
+        "name": "Do It So Good",
+        "url": "https://open.spotify.com/album/7s7bmCIHQjNtt83diSRZjm"
+      },
+      "artists": [
+        {
+          "name": "WARGASM (UK)",
+          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
+        }
+      ],
+      "duration_ms": 202466,
+      "name": "Do It So Good",
+      "url": "https://open.spotify.com/track/7AdLQWyE8e2AKUBooSGCBt"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -955,22 +971,6 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "Eternal Blue",
-        "url": "https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 219280,
-      "name": "Secret Garden",
-      "url": "https://open.spotify.com/track/0OzpSEZ5rwwAu1JC2zRAvb"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
         "name": "Sad Girl Mixtape",
         "url": "https://open.spotify.com/album/23yFRTbLS2jvXfFedgFDFM"
       },
@@ -999,22 +999,6 @@
       "duration_ms": 189773,
       "name": "My Demon",
       "url": "https://open.spotify.com/track/53Lw9RbJ8JoU4HddmFF9HR"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
-        "name": "The Reckoning",
-        "url": "https://open.spotify.com/album/6sjhRKMnjF180XD3qli9c5"
-      },
-      "artists": [
-        {
-          "name": "Icon For Hire",
-          "url": "https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7"
-        }
-      ],
-      "duration_ms": 228626,
-      "name": "Shadow",
-      "url": "https://open.spotify.com/track/1iFIRC1D9NnxjTwF240jZy"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -1103,6 +1087,22 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
+        "name": "The Reckoning",
+        "url": "https://open.spotify.com/album/6sjhRKMnjF180XD3qli9c5"
+      },
+      "artists": [
+        {
+          "name": "Icon For Hire",
+          "url": "https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7"
+        }
+      ],
+      "duration_ms": 228626,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/1iFIRC1D9NnxjTwF240jZy"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
         "name": "The Bitter Truth",
         "url": "https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY"
       },
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "f.e.a.r.",
-        "url": "https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 136156,
-      "name": "molotov [OK]",
-      "url": "https://open.spotify.com/track/12aDRsxiroqLKfZSqphsUO"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
         "name": "FYB",
         "url": "https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 106331,
       "name": "FYB",
       "url": "https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
+        "name": "f.e.a.r.",
+        "url": "https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 136156,
+      "name": "molotov [OK]",
+      "url": "https://open.spotify.com/track/12aDRsxiroqLKfZSqphsUO"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "CREEP HEAT",
-        "url": "https://open.spotify.com/album/5mjmBGPfXVVuXbsadrozU5"
-      },
-      "artists": [
-        {
-          "name": "VUKOVI",
-          "url": "https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt"
-        }
-      ],
-      "duration_ms": 205962,
-      "name": "CREEP HEAT",
-      "url": "https://open.spotify.com/track/0fRktuIYjAFoYZ3HIORgkQ"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
         "name": "Brat",
         "url": "https://open.spotify.com/album/06LFLzsI6HOJU1E0Lbcgv3"
       },
@@ -1247,18 +1231,18 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "Apocalypse & Chill",
-        "url": "https://open.spotify.com/album/2dmr4yZUumYcbxOFT7rtGG"
+        "name": "CREEP HEAT",
+        "url": "https://open.spotify.com/album/5mjmBGPfXVVuXbsadrozU5"
       },
       "artists": [
         {
-          "name": "Delain",
-          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
+          "name": "VUKOVI",
+          "url": "https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt"
         }
       ],
-      "duration_ms": 256040,
-      "name": "Burning Bridges",
-      "url": "https://open.spotify.com/track/0Z1I9iJRUkQPWGmrrkom3H"
+      "duration_ms": 205962,
+      "name": "CREEP HEAT",
+      "url": "https://open.spotify.com/track/0fRktuIYjAFoYZ3HIORgkQ"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -1275,6 +1259,22 @@
       "duration_ms": 181853,
       "name": "Cover You",
       "url": "https://open.spotify.com/track/2WEMin1qNkcJUtYiviSIka"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
+        "name": "Apocalypse & Chill",
+        "url": "https://open.spotify.com/album/2dmr4yZUumYcbxOFT7rtGG"
+      },
+      "artists": [
+        {
+          "name": "Delain",
+          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
+        }
+      ],
+      "duration_ms": 256040,
+      "name": "Burning Bridges",
+      "url": "https://open.spotify.com/track/0Z1I9iJRUkQPWGmrrkom3H"
     },
     {
       "added_at": "2023-09-15 12:26:41",

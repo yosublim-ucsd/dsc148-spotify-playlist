@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Kali Uchis & KAROL G, Björk & ROSALÍA, Apashe, Elisapie and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,838 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,848 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Whiskey Kinda Guy](https://open.spotify.com/track/7phhYy7gxMjHvz29IjdxYW) | [Jay Kutcher](https://open.spotify.com/artist/2XpYj9WxwqofycQ8j80siz) | [Jay Kutcher](https://open.spotify.com/album/0w652ar87elaKEnE37X1OJ) | 3:18 |
 | 100 | [Gz Up, Hoes Down](https://open.spotify.com/track/0cCLG47Bxcj7GpCXmkKP5r) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Doggystyle \(30th Anniversary Edition\)](https://open.spotify.com/album/2QioUoh1jheynkUHP4XsCN) | 2:21 |
 
-Snapshot ID: `MCxlZTBlMDJkMmIyMzIyMmMyYzNhNTY5YmIyMDkwMDAyOTk3YjhlZDQ0`
+Snapshot ID: `MCw4ZWQ3YzgzNjU0NmZmODk1YjZjMGVlNDYxNzRmNWI2ZTcwMzNiMjg2`

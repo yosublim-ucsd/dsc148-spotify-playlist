@@ -1,12 +1,12 @@
 {
   "description": "A selection of the greatest indie love songs of all time. ",
-  "num_followers": 603781,
+  "num_followers": 603900,
   "original_name": "Indie Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzJhMjFiNmY3YTE3YmU5MTI1ZWFjZTU1NDZlZjZjZTZmMmRmMjYz",
+  "snapshot_id": "MCxkMWI4OGJhMjhhMTVjNzk5NThlZGMwNTMxMDcwY2QyMmZlMjJmZDli",
   "tracks": [
     {
       "added_at": "2023-07-21 10:32:21",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-07-21 10:32:21",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
-      },
-      "artists": [
-        {
-          "name": "B\u00d8RNS",
-          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
-        }
-      ],
-      "duration_ms": 218106,
-      "name": "Electric Love",
-      "url": "https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ"
-    },
-    {
-      "added_at": "2023-07-21 10:32:21",
-      "album": {
         "name": "Strange Trails",
         "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
+    },
+    {
+      "added_at": "2023-07-21 10:32:21",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
+      },
+      "artists": [
+        {
+          "name": "B\u00d8RNS",
+          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
+        }
+      ],
+      "duration_ms": 218106,
+      "name": "Electric Love",
+      "url": "https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ"
     },
     {
       "added_at": "2023-07-21 10:32:21",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-07-21 10:32:21",
       "album": {
+        "name": "Up From Below - 10th Anniversary Edition",
+        "url": "https://open.spotify.com/album/2nqKKUI6G3YGYNyjqBxjmd"
+      },
+      "artists": [
+        {
+          "name": "Edward Sharpe & The Magnetic Zeros",
+          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
+        }
+      ],
+      "duration_ms": 306373,
+      "name": "Home (2019 Remaster)",
+      "url": "https://open.spotify.com/track/5uGXVcOINWmyUzpz0lKq7m"
+    },
+    {
+      "added_at": "2023-07-21 10:32:21",
+      "album": {
         "name": "Doolittle",
         "url": "https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO"
       },
@@ -559,18 +575,18 @@
     {
       "added_at": "2023-07-21 10:32:21",
       "album": {
-        "name": "Up From Below - 10th Anniversary Edition",
-        "url": "https://open.spotify.com/album/2nqKKUI6G3YGYNyjqBxjmd"
+        "name": "Every Kingdom",
+        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
       },
       "artists": [
         {
-          "name": "Edward Sharpe & The Magnetic Zeros",
-          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
         }
       ],
-      "duration_ms": 306373,
-      "name": "Home (2019 Remaster)",
-      "url": "https://open.spotify.com/track/5uGXVcOINWmyUzpz0lKq7m"
+      "duration_ms": 249173,
+      "name": "Only Love",
+      "url": "https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W"
     },
     {
       "added_at": "2023-07-21 10:32:21",
@@ -587,22 +603,6 @@
       "duration_ms": 296146,
       "name": "This Must Be the Place (Naive Melody) - 2005 Remaster",
       "url": "https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or"
-    },
-    {
-      "added_at": "2023-07-21 10:32:21",
-      "album": {
-        "name": "Every Kingdom",
-        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 249173,
-      "name": "Only Love",
-      "url": "https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W"
     },
     {
       "added_at": "2023-07-21 10:32:21",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-07-21 10:32:21",
       "album": {
-        "name": "Let You Down",
-        "url": "https://open.spotify.com/album/5lFDNl6WwhLIIl15kyWGxw"
-      },
-      "artists": [
-        {
-          "name": "Dawid Podsiad\u0142o",
-          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
-        }
-      ],
-      "duration_ms": 227046,
-      "name": "Let You Down",
-      "url": "https://open.spotify.com/track/1qpGMJi0ippCaMUOs7cz2q"
-    },
-    {
-      "added_at": "2023-07-21 10:32:21",
-      "album": {
         "name": "if i could make it go quiet",
         "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 201945,
       "name": "I'll Call You Mine",
       "url": "https://open.spotify.com/track/6rYgEHuyhO064Lgj48qlIe"
+    },
+    {
+      "added_at": "2023-07-21 10:32:21",
+      "album": {
+        "name": "Let You Down",
+        "url": "https://open.spotify.com/album/5lFDNl6WwhLIIl15kyWGxw"
+      },
+      "artists": [
+        {
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        }
+      ],
+      "duration_ms": 227046,
+      "name": "Let You Down",
+      "url": "https://open.spotify.com/track/1qpGMJi0ippCaMUOs7cz2q"
     },
     {
       "added_at": "2023-07-21 10:32:21",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-07-21 10:32:21",
       "album": {
-        "name": "Be OK",
-        "url": "https://open.spotify.com/album/26OZ2w8TlwMUmA0GMpQL1U"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Michaelson",
-          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
-        }
-      ],
-      "duration_ms": 148400,
-      "name": "You And I",
-      "url": "https://open.spotify.com/track/7aohwSiTDju51QmC54AUba"
-    },
-    {
-      "added_at": "2023-07-21 10:32:21",
-      "album": {
         "name": "Coexist",
         "url": "https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 171653,
       "name": "Angels",
       "url": "https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El"
+    },
+    {
+      "added_at": "2023-07-21 10:32:21",
+      "album": {
+        "name": "Be OK",
+        "url": "https://open.spotify.com/album/26OZ2w8TlwMUmA0GMpQL1U"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Michaelson",
+          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
+        }
+      ],
+      "duration_ms": 148400,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/7aohwSiTDju51QmC54AUba"
     },
     {
       "added_at": "2023-07-21 10:32:21",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-07-21 10:32:21",
       "album": {
-        "name": "The Moldy Peaches",
-        "url": "https://open.spotify.com/album/4FD8WC9s2yohxwVTp9f236"
-      },
-      "artists": [
-        {
-          "name": "The Moldy Peaches",
-          "url": "https://open.spotify.com/artist/7GGv4mV9JTJK9e7nIzUliU"
-        }
-      ],
-      "duration_ms": 180093,
-      "name": "Anyone Else But You",
-      "url": "https://open.spotify.com/track/2pKi1lRvXNASy7ybeQIDTy"
-    },
-    {
-      "added_at": "2023-07-21 10:32:21",
-      "album": {
         "name": "The Boatman's Call (2011 - Remaster)",
         "url": "https://open.spotify.com/album/0DpHNtdQBy3e2Iy6TKLWIv"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 256120,
       "name": "Into My Arms",
       "url": "https://open.spotify.com/track/39CFOvYse9fcMhIwyS73Fl"
+    },
+    {
+      "added_at": "2023-07-21 10:32:21",
+      "album": {
+        "name": "The Moldy Peaches",
+        "url": "https://open.spotify.com/album/4FD8WC9s2yohxwVTp9f236"
+      },
+      "artists": [
+        {
+          "name": "The Moldy Peaches",
+          "url": "https://open.spotify.com/artist/7GGv4mV9JTJK9e7nIzUliU"
+        }
+      ],
+      "duration_ms": 180093,
+      "name": "Anyone Else But You",
+      "url": "https://open.spotify.com/track/2pKi1lRvXNASy7ybeQIDTy"
     },
     {
       "added_at": "2023-07-21 10:32:21",

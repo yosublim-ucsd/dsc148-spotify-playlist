@@ -1,12 +1,12 @@
 {
   "description": "New York salsa...it's home.",
-  "num_followers": 28723,
+  "num_followers": 28772,
   "original_name": "New York Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDU5MzNlMTdhZGQ3ZDhlNDdkYTJjOGJlMDBmY2JmZjQ3NGUzYmY3",
+  "snapshot_id": "MCw1MDkzMTdjYWRjMzBjMDk5NGQzOGFlNTgwNTY3ZjZiODE3ZjQyZDE4",
   "tracks": [
     {
       "added_at": "2023-10-19 19:33:34",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
-        "name": "La Historia... Los \u00c9xitos",
-        "url": "https://open.spotify.com/album/5hVmKtEt52RcmAk6LYB2vJ"
-      },
-      "artists": [
-        {
-          "name": "Adolescent's Orquesta",
-          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
-        }
-      ],
-      "duration_ms": 273763,
-      "name": "Virgen",
-      "url": "https://open.spotify.com/track/1HWbpfmzt1YplLceHgirCv"
-    },
-    {
-      "added_at": "2023-10-19 19:33:34",
-      "album": {
         "name": "Contraste",
         "url": "https://open.spotify.com/album/00LOUiA5823qxkOcHiio0W"
       },
@@ -135,22 +119,6 @@
       "duration_ms": 266786,
       "name": "Conteo Regresivo - Salsa Version",
       "url": "https://open.spotify.com/track/37nXsqE1XW0cxOQvIMsmFc"
-    },
-    {
-      "added_at": "2023-10-19 19:33:34",
-      "album": {
-        "name": "3.0",
-        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 280453,
-      "name": "Flor P\u00e1lida",
-      "url": "https://open.spotify.com/track/47TyfLrGhYHHyyQWk64d0M"
     },
     {
       "added_at": "2023-10-19 19:33:34",
@@ -171,22 +139,6 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
-        "name": "20th Anniversary",
-        "url": "https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 354973,
-      "name": "Gotas De Lluvia",
-      "url": "https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx"
-    },
-    {
-      "added_at": "2023-10-19 19:33:34",
-      "album": {
         "name": "Oro Salsero",
         "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
       },
@@ -203,8 +155,8 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
-        "name": "Reclamando Nuestro Espacio",
-        "url": "https://open.spotify.com/album/22oTpQbBrBfkrqMsumH3OX"
+        "name": "La Historia... Los \u00c9xitos",
+        "url": "https://open.spotify.com/album/5hVmKtEt52RcmAk6LYB2vJ"
       },
       "artists": [
         {
@@ -212,15 +164,31 @@
           "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
         }
       ],
-      "duration_ms": 248555,
-      "name": "Anhelo",
-      "url": "https://open.spotify.com/track/68runhwF0SdEN1DFSadXWk"
+      "duration_ms": 273763,
+      "name": "Virgen",
+      "url": "https://open.spotify.com/track/1HWbpfmzt1YplLceHgirCv"
     },
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
-        "name": "Valio La Pena",
-        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
+        "name": "20th Anniversary",
+        "url": "https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 354973,
+      "name": "Gotas De Lluvia",
+      "url": "https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx"
+    },
+    {
+      "added_at": "2023-10-19 19:33:34",
+      "album": {
+        "name": "3.0",
+        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
       },
       "artists": [
         {
@@ -228,45 +196,9 @@
           "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 300160,
-      "name": "Tu Amor Me Hace Bien - Salsa Version",
-      "url": "https://open.spotify.com/track/3yEtuhGR8jOtusa29jWrhG"
-    },
-    {
-      "added_at": "2023-10-19 19:33:34",
-      "album": {
-        "name": "De Verdad (15 Super Exitos)",
-        "url": "https://open.spotify.com/album/7x4yJrZW7V1XdazGp7owXr"
-      },
-      "artists": [
-        {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
-        }
-      ],
-      "duration_ms": 297053,
-      "name": "Lluvia",
-      "url": "https://open.spotify.com/track/3SzJ4qlIjYkSO7bh0oKTXA"
-    },
-    {
-      "added_at": "2023-10-19 19:33:34",
-      "album": {
-        "name": "Siembra",
-        "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        }
-      ],
-      "duration_ms": 445080,
-      "name": "Pedro Navaja",
-      "url": "https://open.spotify.com/track/7aKs8kWKKau0SDgaeyZMAX"
+      "duration_ms": 280453,
+      "name": "Flor P\u00e1lida",
+      "url": "https://open.spotify.com/track/47TyfLrGhYHHyyQWk64d0M"
     },
     {
       "added_at": "2023-10-19 19:33:34",
@@ -303,6 +235,26 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
+        "name": "Siembra",
+        "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        }
+      ],
+      "duration_ms": 445080,
+      "name": "Pedro Navaja",
+      "url": "https://open.spotify.com/track/7aKs8kWKKau0SDgaeyZMAX"
+    },
+    {
+      "added_at": "2023-10-19 19:33:34",
+      "album": {
         "name": "Comedia",
         "url": "https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6"
       },
@@ -331,6 +283,38 @@
       "duration_ms": 301441,
       "name": "T\u00fa Con El",
       "url": "https://open.spotify.com/track/6sRQjwLPdzADXhgZeKy6PQ"
+    },
+    {
+      "added_at": "2023-10-19 19:33:34",
+      "album": {
+        "name": "Reclamando Nuestro Espacio",
+        "url": "https://open.spotify.com/album/22oTpQbBrBfkrqMsumH3OX"
+      },
+      "artists": [
+        {
+          "name": "Adolescent's Orquesta",
+          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
+        }
+      ],
+      "duration_ms": 248555,
+      "name": "Anhelo",
+      "url": "https://open.spotify.com/track/68runhwF0SdEN1DFSadXWk"
+    },
+    {
+      "added_at": "2023-10-19 19:33:34",
+      "album": {
+        "name": "De Verdad (15 Super Exitos)",
+        "url": "https://open.spotify.com/album/7x4yJrZW7V1XdazGp7owXr"
+      },
+      "artists": [
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "duration_ms": 297053,
+      "name": "Lluvia",
+      "url": "https://open.spotify.com/track/3SzJ4qlIjYkSO7bh0oKTXA"
     },
     {
       "added_at": "2023-10-19 19:33:34",
@@ -367,8 +351,8 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
-        "name": "Contra La Corriente",
-        "url": "https://open.spotify.com/album/6LIqj7VIJB3K54NBycFxSe"
+        "name": "Valio La Pena",
+        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
       },
       "artists": [
         {
@@ -376,9 +360,9 @@
           "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 388360,
-      "name": "Y Hubo Alguien",
-      "url": "https://open.spotify.com/track/4lmOvO7Nc0Ppdz2hk8jpHj"
+      "duration_ms": 300160,
+      "name": "Tu Amor Me Hace Bien - Salsa Version",
+      "url": "https://open.spotify.com/track/3yEtuhGR8jOtusa29jWrhG"
     },
     {
       "added_at": "2023-10-19 19:33:34",
@@ -439,22 +423,6 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
-        "name": "20th Anniversary",
-        "url": "https://open.spotify.com/album/3cN4DzawdHmneVAVQDtvjs"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 333226,
-      "name": "Conciencia",
-      "url": "https://open.spotify.com/track/5bccusEjEtnC5cDfWXQ8rf"
-    },
-    {
-      "added_at": "2023-10-19 19:33:34",
-      "album": {
         "name": "Un Sue\u00f1o Y Nada M\u00e1s",
         "url": "https://open.spotify.com/album/0Be08NMtq8dwdVqLCHJoZ0"
       },
@@ -467,6 +435,38 @@
       "duration_ms": 278613,
       "name": "Un Sue\u00f1o Y Nada Mas",
       "url": "https://open.spotify.com/track/2bVisOYbfWI29XxWEdTKSX"
+    },
+    {
+      "added_at": "2023-10-19 19:33:34",
+      "album": {
+        "name": "Contra La Corriente",
+        "url": "https://open.spotify.com/album/6LIqj7VIJB3K54NBycFxSe"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 388360,
+      "name": "Y Hubo Alguien",
+      "url": "https://open.spotify.com/track/4lmOvO7Nc0Ppdz2hk8jpHj"
+    },
+    {
+      "added_at": "2023-10-19 19:33:34",
+      "album": {
+        "name": "20th Anniversary",
+        "url": "https://open.spotify.com/album/3cN4DzawdHmneVAVQDtvjs"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 333226,
+      "name": "Conciencia",
+      "url": "https://open.spotify.com/track/5bccusEjEtnC5cDfWXQ8rf"
     },
     {
       "added_at": "2023-10-19 19:33:34",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
+        "name": "Atrevido Y Diferente",
+        "url": "https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG"
+      },
+      "artists": [
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "duration_ms": 299960,
+      "name": "Tu Me Quemas",
+      "url": "https://open.spotify.com/track/2EgTgfFKOvCpV3ACbJlDrl"
+    },
+    {
+      "added_at": "2023-10-19 19:33:34",
+      "album": {
         "name": "Legal Alien - Top Secrets",
         "url": "https://open.spotify.com/album/3lrV32bX7EIcNKn4OHXrkQ"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 414380,
       "name": "El Gran Varon",
       "url": "https://open.spotify.com/track/3TyMFBLPobtMaH8oeY0sMP"
-    },
-    {
-      "added_at": "2023-10-19 19:33:34",
-      "album": {
-        "name": "La Voz",
-        "url": "https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 262680,
-      "name": "El Todopoderoso",
-      "url": "https://open.spotify.com/track/0Mg0kjsLUfzgBMtbxRnIGL"
     },
     {
       "added_at": "2023-10-19 19:33:34",
@@ -631,18 +631,18 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
-        "name": "Atrevido Y Diferente",
-        "url": "https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG"
+        "name": "La Voz",
+        "url": "https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV"
       },
       "artists": [
         {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 299960,
-      "name": "Tu Me Quemas",
-      "url": "https://open.spotify.com/track/2EgTgfFKOvCpV3ACbJlDrl"
+      "duration_ms": 262680,
+      "name": "El Todopoderoso",
+      "url": "https://open.spotify.com/track/0Mg0kjsLUfzgBMtbxRnIGL"
     },
     {
       "added_at": "2023-10-19 19:33:34",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
-        "name": "Legend",
-        "url": "https://open.spotify.com/album/0MOhkz73OBpXs7TY9rFXeC"
-      },
-      "artists": [
-        {
-          "name": "Jehu El Rey",
-          "url": "https://open.spotify.com/artist/3bpLd5BxgDFSo6CqglwzZk"
-        }
-      ],
-      "duration_ms": 245429,
-      "name": "Tu Sin Mi",
-      "url": "https://open.spotify.com/track/3My5e0LeWBuE8zJwLtqEs8"
-    },
-    {
-      "added_at": "2023-10-19 19:33:34",
-      "album": {
         "name": "Siempre Una Aventura",
         "url": "https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF"
       },
@@ -719,18 +703,18 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
-        "name": "25th Anniversary",
-        "url": "https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn"
+        "name": "Legend",
+        "url": "https://open.spotify.com/album/0MOhkz73OBpXs7TY9rFXeC"
       },
       "artists": [
         {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+          "name": "Jehu El Rey",
+          "url": "https://open.spotify.com/artist/3bpLd5BxgDFSo6CqglwzZk"
         }
       ],
-      "duration_ms": 274773,
-      "name": "Esos Ojitos Negros",
-      "url": "https://open.spotify.com/track/0rjZnZyqRc95UlV4lQNhxn"
+      "duration_ms": 245429,
+      "name": "Tu Sin Mi",
+      "url": "https://open.spotify.com/track/3My5e0LeWBuE8zJwLtqEs8"
     },
     {
       "added_at": "2023-10-19 19:33:34",
@@ -779,6 +763,22 @@
       "duration_ms": 303106,
       "name": "Me Fallaste",
       "url": "https://open.spotify.com/track/34VHJUNDzhylu6uZIu4L6z"
+    },
+    {
+      "added_at": "2023-10-19 19:33:34",
+      "album": {
+        "name": "25th Anniversary",
+        "url": "https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 274773,
+      "name": "Esos Ojitos Negros",
+      "url": "https://open.spotify.com/track/0rjZnZyqRc95UlV4lQNhxn"
     },
     {
       "added_at": "2023-10-19 19:33:34",
@@ -943,6 +943,22 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
+        "name": "Hoy y Ayer",
+        "url": "https://open.spotify.com/album/1Gg0LMPxbrR8SCXtAMveyG"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "duration_ms": 168986,
+      "name": "Mambo Gozon",
+      "url": "https://open.spotify.com/track/0hk1gSyn3wKgdxqF6qaKUZ"
+    },
+    {
+      "added_at": "2023-10-19 19:33:34",
+      "album": {
         "name": "Serie Millennium",
         "url": "https://open.spotify.com/album/7FCjuXUkL6AgssIVl57z7C"
       },
@@ -975,38 +991,6 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
-        "name": "Hoy y Ayer",
-        "url": "https://open.spotify.com/album/1Gg0LMPxbrR8SCXtAMveyG"
-      },
-      "artists": [
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        }
-      ],
-      "duration_ms": 168986,
-      "name": "Mambo Gozon",
-      "url": "https://open.spotify.com/track/0hk1gSyn3wKgdxqF6qaKUZ"
-    },
-    {
-      "added_at": "2023-10-19 19:33:34",
-      "album": {
-        "name": "Descargando",
-        "url": "https://open.spotify.com/album/4EuoJF1Bd372NCI5C2fH4z"
-      },
-      "artists": [
-        {
-          "name": "El Timba",
-          "url": "https://open.spotify.com/artist/0O0OynmaAvfmXAsBwNHBwi"
-        }
-      ],
-      "duration_ms": 294013,
-      "name": "Hermano",
-      "url": "https://open.spotify.com/track/0odZdAJaLd4NEyYXb3t1Wc"
-    },
-    {
-      "added_at": "2023-10-19 19:33:34",
-      "album": {
         "name": "La Industria Salsera",
         "url": "https://open.spotify.com/album/7yR0GaIJhP25tHzD0lQVzq"
       },
@@ -1019,22 +1003,6 @@
       "duration_ms": 228500,
       "name": "Lupita",
       "url": "https://open.spotify.com/track/65ozlDhNyDL0JsZvPCwMjP"
-    },
-    {
-      "added_at": "2023-10-19 19:33:34",
-      "album": {
-        "name": "35th Anniversary- 35 Years Around the World",
-        "url": "https://open.spotify.com/album/3JE1c20sJcRS0h4j7LChmn"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 301600,
-      "name": "Carbonerito",
-      "url": "https://open.spotify.com/track/2UNd4AvmnEYaXIsZTOTJHQ"
     },
     {
       "added_at": "2023-10-19 19:33:34",
@@ -1059,6 +1027,22 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
+        "name": "Descargando",
+        "url": "https://open.spotify.com/album/4EuoJF1Bd372NCI5C2fH4z"
+      },
+      "artists": [
+        {
+          "name": "El Timba",
+          "url": "https://open.spotify.com/artist/0O0OynmaAvfmXAsBwNHBwi"
+        }
+      ],
+      "duration_ms": 294013,
+      "name": "Hermano",
+      "url": "https://open.spotify.com/track/0odZdAJaLd4NEyYXb3t1Wc"
+    },
+    {
+      "added_at": "2023-10-19 19:33:34",
+      "album": {
         "name": "El Gigante del Teclado",
         "url": "https://open.spotify.com/album/6PjtSTcRAyMZ1k9xhvXEFp"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 272066,
       "name": "La Hija De Lola",
       "url": "https://open.spotify.com/track/5xS8g8E2mPuIjCbxQj2Yx4"
+    },
+    {
+      "added_at": "2023-10-19 19:33:34",
+      "album": {
+        "name": "35th Anniversary- 35 Years Around the World",
+        "url": "https://open.spotify.com/album/3JE1c20sJcRS0h4j7LChmn"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 301600,
+      "name": "Carbonerito",
+      "url": "https://open.spotify.com/track/2UNd4AvmnEYaXIsZTOTJHQ"
     },
     {
       "added_at": "2023-10-19 19:33:34",
@@ -1107,6 +1107,26 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
+        "name": "Guaguamambo",
+        "url": "https://open.spotify.com/album/0LVF4qB04lxxLeUlXhqZS9"
+      },
+      "artists": [
+        {
+          "name": "El Timba",
+          "url": "https://open.spotify.com/artist/0O0OynmaAvfmXAsBwNHBwi"
+        },
+        {
+          "name": "Fabio Gianni",
+          "url": "https://open.spotify.com/artist/0l8NVW6mW9GPWR43ueCYPu"
+        }
+      ],
+      "duration_ms": 278091,
+      "name": "Esta Pegao",
+      "url": "https://open.spotify.com/track/0SQJvvvcSjlUgQjfk1i204"
+    },
+    {
+      "added_at": "2023-10-19 19:33:34",
+      "album": {
         "name": "Mi Tumbao Social",
         "url": "https://open.spotify.com/album/3UL8WmEzBRWnGLgBA0tDkj"
       },
@@ -1135,26 +1155,6 @@
       "duration_ms": 174106,
       "name": "Vacil\u00f3 Con Tumbao",
       "url": "https://open.spotify.com/track/6YC0cl9aX5RENgJEJd39sr"
-    },
-    {
-      "added_at": "2023-10-19 19:33:34",
-      "album": {
-        "name": "Guaguamambo",
-        "url": "https://open.spotify.com/album/0LVF4qB04lxxLeUlXhqZS9"
-      },
-      "artists": [
-        {
-          "name": "El Timba",
-          "url": "https://open.spotify.com/artist/0O0OynmaAvfmXAsBwNHBwi"
-        },
-        {
-          "name": "Fabio Gianni",
-          "url": "https://open.spotify.com/artist/0l8NVW6mW9GPWR43ueCYPu"
-        }
-      ],
-      "duration_ms": 278091,
-      "name": "Esta Pegao",
-      "url": "https://open.spotify.com/track/0SQJvvvcSjlUgQjfk1i204"
     },
     {
       "added_at": "2023-10-19 19:33:34",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
-        "name": "Sorpresa La Flauta",
-        "url": "https://open.spotify.com/album/54Isd9McgLu4F3BuV06MZJ"
-      },
-      "artists": [
-        {
-          "name": "Andy Harlow",
-          "url": "https://open.spotify.com/artist/0OLtqzqTcmE2LTN8t5CacG"
-        }
-      ],
-      "duration_ms": 196640,
-      "name": "La Loter\u00eda",
-      "url": "https://open.spotify.com/track/1i8gsWMG0WxYoPMw498quW"
-    },
-    {
-      "added_at": "2023-10-19 19:33:34",
-      "album": {
         "name": "25 A\u00f1os, 25 \u00c9xitos, 25 Artistas",
         "url": "https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 271072,
       "name": "Carro de Fuego",
       "url": "https://open.spotify.com/track/3SXRNFtlBYZKgJeBstl8b3"
+    },
+    {
+      "added_at": "2023-10-19 19:33:34",
+      "album": {
+        "name": "Sorpresa La Flauta",
+        "url": "https://open.spotify.com/album/54Isd9McgLu4F3BuV06MZJ"
+      },
+      "artists": [
+        {
+          "name": "Andy Harlow",
+          "url": "https://open.spotify.com/artist/0OLtqzqTcmE2LTN8t5CacG"
+        }
+      ],
+      "duration_ms": 196640,
+      "name": "La Loter\u00eda",
+      "url": "https://open.spotify.com/track/1i8gsWMG0WxYoPMw498quW"
     },
     {
       "added_at": "2023-10-19 19:33:34",
@@ -1283,6 +1283,58 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
+        "name": "Lo Que Pas\u00f3... La Historia Del Pr\u00edncipe De La Salsa",
+        "url": "https://open.spotify.com/album/3fH9W32gXxYgka8q6SAtOW"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "duration_ms": 279333,
+      "name": "Lo Que Pas\u00f3 Entre T\u00fa y Yo Pas\u00f3",
+      "url": "https://open.spotify.com/track/54YMfDYvcG24NQU1Jxcu8V"
+    },
+    {
+      "added_at": "2023-10-19 19:33:34",
+      "album": {
+        "name": "25 A\u00f1os, 25 \u00c9xitos, 25 Artistas",
+        "url": "https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        },
+        {
+          "name": "Gustavo Rodriguez",
+          "url": "https://open.spotify.com/artist/5Gsv3vQ8J8tpLcx4vw2Hv2"
+        }
+      ],
+      "duration_ms": 293067,
+      "name": "Mujer de Carne y Hueso",
+      "url": "https://open.spotify.com/track/4lrtVnIYs1JX00H9FwzJh1"
+    },
+    {
+      "added_at": "2023-10-19 19:33:34",
+      "album": {
+        "name": "Colecci\u00f3n De Oro: La Cr\u00edtica Y Sus Cantantes, Vol. 1",
+        "url": "https://open.spotify.com/album/66AzgPZCCRROGy1N1DO9ix"
+      },
+      "artists": [
+        {
+          "name": "La Critica",
+          "url": "https://open.spotify.com/artist/5poEGfCmeFo8HcoNaOLIo0"
+        }
+      ],
+      "duration_ms": 215272,
+      "name": "Cu\u00eddate Bi\u00e9n",
+      "url": "https://open.spotify.com/track/6T5ITpAYsPK1CfNPhtBKZm"
+    },
+    {
+      "added_at": "2023-10-19 19:33:34",
+      "album": {
         "name": "Esenciales Vol\u00famen I",
         "url": "https://open.spotify.com/album/7yibFAEIfUXMMumIixZJsp"
       },
@@ -1315,38 +1367,6 @@
       "duration_ms": 418880,
       "name": "Puerto Rico",
       "url": "https://open.spotify.com/track/1Y53t2ucYs8CUMsUkwBZTA"
-    },
-    {
-      "added_at": "2023-10-19 19:33:34",
-      "album": {
-        "name": "Lo Que Pas\u00f3... La Historia Del Pr\u00edncipe De La Salsa",
-        "url": "https://open.spotify.com/album/3fH9W32gXxYgka8q6SAtOW"
-      },
-      "artists": [
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        }
-      ],
-      "duration_ms": 279333,
-      "name": "Lo Que Pas\u00f3 Entre T\u00fa y Yo Pas\u00f3",
-      "url": "https://open.spotify.com/track/54YMfDYvcG24NQU1Jxcu8V"
-    },
-    {
-      "added_at": "2023-10-19 19:33:34",
-      "album": {
-        "name": "Colecci\u00f3n De Oro: La Cr\u00edtica Y Sus Cantantes, Vol. 1",
-        "url": "https://open.spotify.com/album/66AzgPZCCRROGy1N1DO9ix"
-      },
-      "artists": [
-        {
-          "name": "La Critica",
-          "url": "https://open.spotify.com/artist/5poEGfCmeFo8HcoNaOLIo0"
-        }
-      ],
-      "duration_ms": 215272,
-      "name": "Cu\u00eddate Bi\u00e9n",
-      "url": "https://open.spotify.com/track/6T5ITpAYsPK1CfNPhtBKZm"
     },
     {
       "added_at": "2023-10-19 19:33:34",
@@ -1407,74 +1427,6 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
-        "name": "25 A\u00f1os, 25 \u00c9xitos, 25 Artistas",
-        "url": "https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB"
-      },
-      "artists": [
-        {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
-        },
-        {
-          "name": "Gustavo Rodriguez",
-          "url": "https://open.spotify.com/artist/5Gsv3vQ8J8tpLcx4vw2Hv2"
-        }
-      ],
-      "duration_ms": 293067,
-      "name": "Mujer de Carne y Hueso",
-      "url": "https://open.spotify.com/track/4lrtVnIYs1JX00H9FwzJh1"
-    },
-    {
-      "added_at": "2023-10-19 19:33:34",
-      "album": {
-        "name": "Con Bajo Y Todo",
-        "url": "https://open.spotify.com/album/6ftic7itzGAW7BDdvi2PMx"
-      },
-      "artists": [
-        {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
-        }
-      ],
-      "duration_ms": 215214,
-      "name": "Para Chango",
-      "url": "https://open.spotify.com/track/7nabjegyfwRCiFX11anzb1"
-    },
-    {
-      "added_at": "2023-10-19 19:33:34",
-      "album": {
-        "name": "La Cr\u00edtica: Salseros De Coraz\u00f3n, Vol. 3",
-        "url": "https://open.spotify.com/album/0icCOLmmUE8cpKPbLGrAel"
-      },
-      "artists": [
-        {
-          "name": "La Critica",
-          "url": "https://open.spotify.com/artist/5poEGfCmeFo8HcoNaOLIo0"
-        }
-      ],
-      "duration_ms": 243781,
-      "name": "Rumba Rumbero",
-      "url": "https://open.spotify.com/track/4gsXvTDs4yC7LrnJpNsWLA"
-    },
-    {
-      "added_at": "2023-10-19 19:33:34",
-      "album": {
-        "name": "Here comes... Tito Puente!",
-        "url": "https://open.spotify.com/album/4MOl4SznY1dtfg7MZYfROw"
-      },
-      "artists": [
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        }
-      ],
-      "duration_ms": 167133,
-      "name": "Mambo Goz\u00f3n",
-      "url": "https://open.spotify.com/track/2P12SmID74922J8JwQd90j"
-    },
-    {
-      "added_at": "2023-10-19 19:33:34",
-      "album": {
         "name": "La Din\u00e1mica!",
         "url": "https://open.spotify.com/album/0f3n5513x4jjxDMe8IvAaT"
       },
@@ -1495,6 +1447,22 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
+        "name": "Here comes... Tito Puente!",
+        "url": "https://open.spotify.com/album/4MOl4SznY1dtfg7MZYfROw"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "duration_ms": 167133,
+      "name": "Mambo Goz\u00f3n",
+      "url": "https://open.spotify.com/track/2P12SmID74922J8JwQd90j"
+    },
+    {
+      "added_at": "2023-10-19 19:33:34",
+      "album": {
         "name": "Cuando Parar\u00e1 La Lluvia",
         "url": "https://open.spotify.com/album/0sHhkFC7qkLjTufP56kGlA"
       },
@@ -1511,6 +1479,22 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
+        "name": "La Cr\u00edtica: Salseros De Coraz\u00f3n, Vol. 3",
+        "url": "https://open.spotify.com/album/0icCOLmmUE8cpKPbLGrAel"
+      },
+      "artists": [
+        {
+          "name": "La Critica",
+          "url": "https://open.spotify.com/artist/5poEGfCmeFo8HcoNaOLIo0"
+        }
+      ],
+      "duration_ms": 243781,
+      "name": "Rumba Rumbero",
+      "url": "https://open.spotify.com/track/4gsXvTDs4yC7LrnJpNsWLA"
+    },
+    {
+      "added_at": "2023-10-19 19:33:34",
+      "album": {
         "name": "Salsa Sensual, Vol. 1",
         "url": "https://open.spotify.com/album/20rmPQW0XSuaqPWu6Lqfkv"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 292853,
       "name": "Qui\u00e9reme Tal Como Soy",
       "url": "https://open.spotify.com/track/6w9ghQgpSD8gOa29mcnvd9"
+    },
+    {
+      "added_at": "2023-10-19 19:33:34",
+      "album": {
+        "name": "Con Bajo Y Todo",
+        "url": "https://open.spotify.com/album/6ftic7itzGAW7BDdvi2PMx"
+      },
+      "artists": [
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        }
+      ],
+      "duration_ms": 215214,
+      "name": "Para Chango",
+      "url": "https://open.spotify.com/track/7nabjegyfwRCiFX11anzb1"
     },
     {
       "added_at": "2023-10-19 19:33:34",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
-        "name": "Colecci\u00f3n De Oro: La Cr\u00edtica Y Sus Cantantes, Vol. 1",
-        "url": "https://open.spotify.com/album/66AzgPZCCRROGy1N1DO9ix"
-      },
-      "artists": [
-        {
-          "name": "La Critica",
-          "url": "https://open.spotify.com/artist/5poEGfCmeFo8HcoNaOLIo0"
-        }
-      ],
-      "duration_ms": 235125,
-      "name": "Ya Se Pein\u00f3 Mar\u00eda",
-      "url": "https://open.spotify.com/track/5weRMk5hP0utlRS6nYK1dM"
-    },
-    {
-      "added_at": "2023-10-19 19:33:34",
-      "album": {
         "name": "A Dos Tiempos de un Tiempo",
         "url": "https://open.spotify.com/album/0d8wAwygZBtYPE8R21JSy9"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 179880,
       "name": "Ran Kan Kan",
       "url": "https://open.spotify.com/track/69ulmthmmwP9CaSqVQldoE"
+    },
+    {
+      "added_at": "2023-10-19 19:33:34",
+      "album": {
+        "name": "Colecci\u00f3n De Oro: La Cr\u00edtica Y Sus Cantantes, Vol. 1",
+        "url": "https://open.spotify.com/album/66AzgPZCCRROGy1N1DO9ix"
+      },
+      "artists": [
+        {
+          "name": "La Critica",
+          "url": "https://open.spotify.com/artist/5poEGfCmeFo8HcoNaOLIo0"
+        }
+      ],
+      "duration_ms": 235125,
+      "name": "Ya Se Pein\u00f3 Mar\u00eda",
+      "url": "https://open.spotify.com/track/5weRMk5hP0utlRS6nYK1dM"
     },
     {
       "added_at": "2023-10-19 19:33:34",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/2tG9CZgoAY04Rr1iR5OstZ"
-      },
-      "artists": [
-        {
-          "name": "Tony Vega",
-          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
-        }
-      ],
-      "duration_ms": 299093,
-      "name": "Yo Me Quedo",
-      "url": "https://open.spotify.com/track/6bwLgRFk9bZa59Uof5fXBf"
-    },
-    {
-      "added_at": "2023-10-19 19:33:34",
-      "album": {
         "name": "From Hollywood",
         "url": "https://open.spotify.com/album/7EXzKJRYWTAnZdmxCKtxtf"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 172226,
       "name": "Cuando Sale El Sol",
       "url": "https://open.spotify.com/track/0uf3jiwe0HBtiQL8zUbVmO"
+    },
+    {
+      "added_at": "2023-10-19 19:33:34",
+      "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/2tG9CZgoAY04Rr1iR5OstZ"
+      },
+      "artists": [
+        {
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+        }
+      ],
+      "duration_ms": 299093,
+      "name": "Yo Me Quedo",
+      "url": "https://open.spotify.com/track/6bwLgRFk9bZa59Uof5fXBf"
     },
     {
       "added_at": "2023-10-19 19:33:34",
@@ -1791,6 +1791,22 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
+        "name": "West Side Beat",
+        "url": "https://open.spotify.com/album/1f1d2MmipD04zEtytUAhT2"
+      },
+      "artists": [
+        {
+          "name": "Tito Rodriguez",
+          "url": "https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS"
+        }
+      ],
+      "duration_ms": 167640,
+      "name": "Matrimonio Feliz",
+      "url": "https://open.spotify.com/track/2dk2tOQ35mWaIkdv6HYE2X"
+    },
+    {
+      "added_at": "2023-10-19 19:33:34",
+      "album": {
         "name": "Sabor a Salsa",
         "url": "https://open.spotify.com/album/4168LZnMKT5rgITtNBbo5z"
       },
@@ -1803,22 +1819,6 @@
       "duration_ms": 376013,
       "name": "La rebelion",
       "url": "https://open.spotify.com/track/00Ro1lnV3V6i87aY4t8Q43"
-    },
-    {
-      "added_at": "2023-10-19 19:33:34",
-      "album": {
-        "name": "Instant Party",
-        "url": "https://open.spotify.com/album/5EsC8QT3FQu6nhwcVoX9Kr"
-      },
-      "artists": [
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        }
-      ],
-      "duration_ms": 346520,
-      "name": "Fiesta A La King",
-      "url": "https://open.spotify.com/track/5AamAvieYb8hFN5cmI6aPg"
     },
     {
       "added_at": "2023-10-19 19:33:34",
@@ -1855,18 +1855,18 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
-        "name": "West Side Beat",
-        "url": "https://open.spotify.com/album/1f1d2MmipD04zEtytUAhT2"
+        "name": "Instant Party",
+        "url": "https://open.spotify.com/album/5EsC8QT3FQu6nhwcVoX9Kr"
       },
       "artists": [
         {
-          "name": "Tito Rodriguez",
-          "url": "https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS"
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
         }
       ],
-      "duration_ms": 167640,
-      "name": "Matrimonio Feliz",
-      "url": "https://open.spotify.com/track/2dk2tOQ35mWaIkdv6HYE2X"
+      "duration_ms": 346520,
+      "name": "Fiesta A La King",
+      "url": "https://open.spotify.com/track/5AamAvieYb8hFN5cmI6aPg"
     },
     {
       "added_at": "2023-10-19 19:33:34",

@@ -1,12 +1,12 @@
 {
   "description": "Concentrate con el aire de la cordillera de los Andes.",
-  "num_followers": 126884,
+  "num_followers": 126922,
   "original_name": "Entre los Andes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZDlmMjVmZDAxZjcxMzFiODk4ZjJlZjcxZTNlYzdmZWUyODQzZjg1",
+  "snapshot_id": "MCw2OTE4ZTJkNWVlMzNjMGMyOTNiNGZhZDljNzQ3Y2ZiNGEzYWYxMzA5",
   "tracks": [
     {
       "added_at": "2023-09-29 18:58:26",
@@ -119,22 +119,18 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Miss Colombia",
-        "url": "https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y"
+        "name": "Prender el Alma",
+        "url": "https://open.spotify.com/album/4i3DT5kt2AlODhnyv0mDKN"
       },
       "artists": [
         {
-          "name": "Lido Pimienta",
-          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
-        },
-        {
-          "name": "Li Saumet",
-          "url": "https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw"
+          "name": "Nicola Cruz",
+          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
         }
       ],
-      "duration_ms": 298809,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i"
+      "duration_ms": 315493,
+      "name": "La Cosecha",
+      "url": "https://open.spotify.com/track/1Mp07ugvnIUW3CtR9vN3SO"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -155,18 +151,38 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Amansara",
-        "url": "https://open.spotify.com/album/7KJruqiZwhVmnfW3CfvIPu"
+        "name": "Miss Colombia",
+        "url": "https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y"
       },
       "artists": [
         {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+          "name": "Lido Pimienta",
+          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
+        },
+        {
+          "name": "Li Saumet",
+          "url": "https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw"
         }
       ],
-      "duration_ms": 233012,
-      "name": "Sueno en Paraguay",
-      "url": "https://open.spotify.com/track/5VOMJBi8KMutN8DUB1ZYro"
+      "duration_ms": 298809,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "Orcas",
+        "url": "https://open.spotify.com/album/474lLBbfJm8Y3zjSIXWgA3"
+      },
+      "artists": [
+        {
+          "name": "Lulacruza",
+          "url": "https://open.spotify.com/artist/4Tdm58O53huKPT2480fzjE"
+        }
+      ],
+      "duration_ms": 335292,
+      "name": "Uno Resuena",
+      "url": "https://open.spotify.com/track/752FIpJwEwS2w1fhyvsRs6"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -191,34 +207,18 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Prender el Alma",
-        "url": "https://open.spotify.com/album/4i3DT5kt2AlODhnyv0mDKN"
+        "name": "Amansara",
+        "url": "https://open.spotify.com/album/7KJruqiZwhVmnfW3CfvIPu"
       },
       "artists": [
         {
-          "name": "Nicola Cruz",
-          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
         }
       ],
-      "duration_ms": 315493,
-      "name": "La Cosecha",
-      "url": "https://open.spotify.com/track/1Mp07ugvnIUW3CtR9vN3SO"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
-        "name": "Orcas",
-        "url": "https://open.spotify.com/album/474lLBbfJm8Y3zjSIXWgA3"
-      },
-      "artists": [
-        {
-          "name": "Lulacruza",
-          "url": "https://open.spotify.com/artist/4Tdm58O53huKPT2480fzjE"
-        }
-      ],
-      "duration_ms": 335292,
-      "name": "Uno Resuena",
-      "url": "https://open.spotify.com/track/752FIpJwEwS2w1fhyvsRs6"
+      "duration_ms": 233012,
+      "name": "Sueno en Paraguay",
+      "url": "https://open.spotify.com/track/5VOMJBi8KMutN8DUB1ZYro"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -863,18 +863,18 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Mezcla",
-        "url": "https://open.spotify.com/album/4Eq9kFfrgL1LL3mslSKwKa"
+        "name": "La Casa No Existe",
+        "url": "https://open.spotify.com/album/0SxTeOE2w7uINeSt7I8wmT"
       },
       "artists": [
         {
-          "name": "M.A.K.U SoundSystem",
-          "url": "https://open.spotify.com/artist/1XvVZZxpcgZw7MUG5BIUJh"
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
         }
       ],
-      "duration_ms": 351173,
-      "name": "De Barrio",
-      "url": "https://open.spotify.com/track/0AcZqqvX2aLynoxkIYpCL0"
+      "duration_ms": 204814,
+      "name": "Ag\u00fcita del Equilibrio",
+      "url": "https://open.spotify.com/track/5xKk5ZGsk6HPspcaCgr8kr"
     }
   ],
   "unique_name": "Entre los Andes",

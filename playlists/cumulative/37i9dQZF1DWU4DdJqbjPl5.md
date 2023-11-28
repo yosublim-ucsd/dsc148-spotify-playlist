@@ -4,7 +4,7 @@
 
 > The smoothest Afro R&B out right now\. Cover:  <a href="https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci?si=oZCnVB26R3mz2bBQOiIhrw"> Zowie Kengocha</a>
 
-311 songs - 16 hr 37 min
+312 songs - 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [Heartbeat](https://open.spotify.com/track/0vdnJkU6Je0JkQs74RqhMi) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Heartbeat](https://open.spotify.com/album/4zoauodf0HkYb5RTQXB0OD) | 3:04 | 2022-02-24 | 2022-07-15 |
 | [Heartburn \(Sooibrand\)](https://open.spotify.com/track/1rne9Xm5ZvMPpPFAL4uloN) | [Sio](https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh) | [Torn Tapestries](https://open.spotify.com/album/5SsFVmvUK3BIib8Grc6ay1) | 2:42 | 2022-08-18 | 2022-09-02 |
 | [Here With Me](https://open.spotify.com/track/3zTObKcN6vfo9teWsKCU34) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Higo](https://open.spotify.com/artist/7M7t0X1mjNwSOAf3HiPEQ0) | [Catch A Vibe](https://open.spotify.com/album/7HekReWSW2dvMYdaTENcGs) | 3:17 | 2022-04-21 | 2023-06-17 |
-| [Hero](https://open.spotify.com/track/31iNSE9TF3ehPE7cX8OSek) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY) | [Journey to Idan](https://open.spotify.com/album/2U6DR87NV7jBoc2d5cHRxt) | 3:47 | 2023-10-13 |  |
+| [Hero](https://open.spotify.com/track/31iNSE9TF3ehPE7cX8OSek) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY) | [Journey to Idan](https://open.spotify.com/album/2U6DR87NV7jBoc2d5cHRxt) | 3:47 | 2023-10-13 | 2023-11-28 |
 | [Hivyo](https://open.spotify.com/track/7I0gVer3b94T9aoRSRqGEw) | [Ethan Muziki](https://open.spotify.com/artist/0pwc18AOKnFRwTqHu50jbn) | [Hivyo](https://open.spotify.com/album/0DDhl9xlbotJWZ7yihik6B) | 3:18 | 2023-03-24 | 2023-03-31 |
 | [Home](https://open.spotify.com/track/7l0EYGVhGZcuLyphccTcp0) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Home](https://open.spotify.com/album/7qZiuy7KLt5j5BXrs76wo3) | 2:17 | 2022-10-28 | 2022-12-10 |
 | [Honest](https://open.spotify.com/track/2vnNYl3UDY9Grubs0VAK5m) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [TSB](https://open.spotify.com/artist/5TcyvDMRRaMjCBoXIUWofZ) | [TOP BOY](https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq) | 3:02 | 2023-02-16 |  |
@@ -228,6 +228,7 @@
 | [Pen & Paper](https://open.spotify.com/track/08MoSv9F2ZzT3B1GJR3OD6) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ) | [Pen & Paper](https://open.spotify.com/album/185DPVsnR1b6ooK4VDqJPl) | 3:07 | 2022-07-07 | 2023-03-31 |
 | [Phakade Lami](https://open.spotify.com/track/6wQvbzsxSLKqYrPc26jd9S) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [Sha Sha](https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Phakade Lami](https://open.spotify.com/album/44PV16rEIAsEdo4MxT62b9) | 4:21 | 2021-12-16 | 2023-04-28 |
 | [PICASSO \(feat\. Logos Olori\)](https://open.spotify.com/track/1f5WN3V8AVYyUahqjWogGj) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Logos olori](https://open.spotify.com/artist/4UNUAstUhS75JruJEPeD0Z) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:35 | 2023-03-30 |  |
+| [Pidgin & English](https://open.spotify.com/track/4jcrO2T6XJ1B7hXsAEJ3ve) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sincerely, Benson](https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a) | 3:38 | 2023-11-27 |  |
 | [Pieces \(with Tay Iwar\)](https://open.spotify.com/track/2StZJmVDSZEij15FbB3WTz) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [When It Blooms](https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq) | 3:24 | 2023-05-25 |  |
 | [Pour Me a Drink](https://open.spotify.com/track/1ebcm76NK3TarOZBvBRz3P) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [The Brother's Keeper](https://open.spotify.com/album/0g7K5tuXiGzf5K6umuzCRX) | 2:48 | 2022-08-25 | 2023-10-20 |
 | [Problème](https://open.spotify.com/track/1IKD320Lvoj3TgAUnCVE28) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Ronisia \(Version Deluxe\)](https://open.spotify.com/album/6n3BM7djoly8rX6AG9dnFW) | 2:33 | 2022-12-09 | 2023-03-04 |

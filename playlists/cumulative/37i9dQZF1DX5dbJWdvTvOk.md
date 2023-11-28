@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-619 songs - 1 day 2 hr 13 min
+621 songs - 1 day 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,6 +305,7 @@
 | [Lake Constance](https://open.spotify.com/track/4IAIUOpxTzrrspahVpk88S) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Lake Constance](https://open.spotify.com/album/0Ux3osuVEO4LGxDxM2ddh9) | 1:34 | 2023-04-21 | 2023-06-03 |
 | [Lake District](https://open.spotify.com/track/2xrNBiMKQ8Waq8Yfk3SILh) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [Lake District](https://open.spotify.com/album/2D3X3S42HBWPbhWL9nE7YE) | 2:49 | 2022-07-15 | 2022-10-29 |
 | [Lake Victoria](https://open.spotify.com/track/7CMWRzySrY0N4lUTpJ3PzP) | [Lee Howard\-Taylor](https://open.spotify.com/artist/3fewyiCJIgYVzSHCnDjlgM) | [Lake Victoria](https://open.spotify.com/album/5lbFPaIgO2T8jmVz5qwTMS) | 2:17 | 2023-10-27 |  |
+| [Lamento](https://open.spotify.com/track/5Mtm03KO4lvM4qmVEeRYaY) | [Valencia Torres](https://open.spotify.com/artist/1FIDJ9PL61hAFkpZPodejt) | [Lamento](https://open.spotify.com/album/6G8qzns0DWKeqOcbpGwl9s) | 2:10 | 2023-11-24 |  |
 | [Lange Reise](https://open.spotify.com/track/47s7kyfVRgsnwgkK2sGQzM) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Wunder der Welt](https://open.spotify.com/album/0KpjPdNUuZ0k3CwzSde3Gg) | 2:36 | 2023-04-21 |  |
 | [Larghetto](https://open.spotify.com/track/3NvvbRZxy4yis6QTaHyVMx) | [Jan Wanninger](https://open.spotify.com/artist/2lVbTuG8gjTFAX8WH5zyDs) | [Larghetto](https://open.spotify.com/album/03t88DnqTMUehsrndDhDf1) | 3:05 | 2023-04-21 |  |
 | [Lascia Fare A Me](https://open.spotify.com/track/6w9aMtE5ZxHnOrfzSkDuTs) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Lascia Fare A Me](https://open.spotify.com/album/293fwp3wtlduTDJxkRVUOv) | 3:05 | 2023-10-27 |  |
@@ -458,7 +459,7 @@
 | [Saffron Hills](https://open.spotify.com/track/65334YdgENom7CuEpChTCJ) | [Airha](https://open.spotify.com/artist/4W5YiwSV3FFONREMRYXWMu) | [Saffron Hills](https://open.spotify.com/album/6j9zshvn2NhNjUKGRP1NgM) | 2:25 | 2022-07-15 | 2022-11-18 |
 | [Sail For Toumain](https://open.spotify.com/track/1WFdNNCiWcNFnL45R08pou) | [Carol Maddox](https://open.spotify.com/artist/1tfErPhfPUi2JprfJZRsfb) | [Sail For Toumain](https://open.spotify.com/album/4qEH9vdWvau9XxXhlBi3q1) | 2:26 | 2023-04-21 |  |
 | [Saint Valentine](https://open.spotify.com/track/1rIOkUQTk0LH9UM6tdRlFR) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Saint Valentine](https://open.spotify.com/album/1MbqX2EtuO7SnLnrKzEnkv) | 1:52 | 2022-07-15 | 2023-04-22 |
-| [Salamanca](https://open.spotify.com/track/53AY7g9X2UhBbDZDCFnc3f) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Salamanca](https://open.spotify.com/album/5RmmprgbPa4o0WlIoJFw5g) | 2:34 | 2023-04-21 |  |
+| [Salamanca](https://open.spotify.com/track/53AY7g9X2UhBbDZDCFnc3f) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Salamanca](https://open.spotify.com/album/5RmmprgbPa4o0WlIoJFw5g) | 2:34 | 2023-04-21 | 2023-11-28 |
 | [Salt of the earth](https://open.spotify.com/track/4CqfpazHWTsvO1AiSrtfwl) | [Meg Stiles](https://open.spotify.com/artist/6azAZkeJXuyfeAMVQ3YwU8) | [Salt of the Earth](https://open.spotify.com/album/2ilAYRZfti1IwkWeoTVNC1) | 3:02 | 2022-07-15 | 2023-04-22 |
 | [Salut Sandro](https://open.spotify.com/track/2amfLm3CsTQT3OBlqpXh0M) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Salut Sandro](https://open.spotify.com/album/4LxIkpbfjtgmw3Sle1ffAg) | 2:49 | 2023-04-21 |  |
 | [San Gervasi](https://open.spotify.com/track/6nH1eo4LuuJisJ4m8Blw2h) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [San Gervasi](https://open.spotify.com/album/27DWEE5aDyLTksMdhueuM8) | 2:30 | 2022-07-15 | 2023-04-22 |
@@ -538,7 +539,7 @@
 | [Te Echo De Menos](https://open.spotify.com/track/1u2C4fLwsMerlZCqumCl6z) | [Gabriel Vilente](https://open.spotify.com/artist/5sXiB1kUrPOBBWf3SqrCYO) | [Te Echo De Menos](https://open.spotify.com/album/7FS6hAIyRA7VJ7ELMKH6gb) | 3:04 | 2022-10-28 | 2023-04-22 |
 | [Te quiero hasta la muerte](https://open.spotify.com/track/38GYfritueLqRIxoK1AVzX) | [Jesus Quintana](https://open.spotify.com/artist/2ABU0wZVTQR6hLNZp8GyHB) | [Te quiero hasta la muerte](https://open.spotify.com/album/582zz5eEBI6wgTIkU3Z5Tw) | 1:54 | 2022-10-28 | 2023-04-22 |
 | [Teatime](https://open.spotify.com/track/09fhTYGSgNoATa9MnNAHes) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Teatime](https://open.spotify.com/album/2Rshes42tKuMv3wJ5aUD15) | 2:48 | 2023-06-02 |  |
-| [Telodice](https://open.spotify.com/track/2p0Hp7dQvwfEu8nsP3fCMT) | [Oma Holt](https://open.spotify.com/artist/39DIKdqf5qn0trLhTPBNPY) | [Telodice](https://open.spotify.com/album/4DnzOYq45aBZ2X8LsN2run) | 2:10 | 2023-04-21 |  |
+| [Telodice](https://open.spotify.com/track/2p0Hp7dQvwfEu8nsP3fCMT) | [Oma Holt](https://open.spotify.com/artist/39DIKdqf5qn0trLhTPBNPY) | [Telodice](https://open.spotify.com/album/4DnzOYq45aBZ2X8LsN2run) | 2:10 | 2023-04-21 | 2023-11-28 |
 | [Ten Eyck](https://open.spotify.com/track/2SVWtMKFeHoHbAidcGnD0L) | [Leonardo Agusti](https://open.spotify.com/artist/7pxsTVW2UD2bzGfq8WzaMj) | [Ten Eyck](https://open.spotify.com/album/1xfdS5017HheV0A5Iz2t1J) | 2:20 | 2023-09-07 |  |
 | [The Air Portal](https://open.spotify.com/track/0SAvctlgQPtPS6t3sgelQv) | [Atacustico](https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk) | [The Air Portal](https://open.spotify.com/album/0QhXjZGYdD92PpGsPBwTGl) | 2:37 | 2022-10-07 | 2023-04-22 |
 | [The Airport](https://open.spotify.com/track/6clNGc6Zu3OZFdgWLOIxZG) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [The Airport](https://open.spotify.com/album/6LW69sYxSScS6gt5Kkqw9c) | 2:30 | 2023-03-10 | 2023-04-22 |
@@ -551,6 +552,7 @@
 | [The Longing](https://open.spotify.com/track/29C5rzt8Y8YiyXFUByk41c) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [The Longing](https://open.spotify.com/album/1THZEd8ksJ873IqMsCtTb2) | 2:56 | 2023-04-21 |  |
 | [The Poconos](https://open.spotify.com/track/0ds1reOHuK7CCsu3nIzZXj) | [Sara Rice\-Clark](https://open.spotify.com/artist/1ChFJ60swiMaSUuw1mmHwd) | [The Poconos](https://open.spotify.com/album/3A40QGZkO7BxsX5pwDr017) | 2:51 | 2022-07-15 | 2023-04-22 |
 | [The River Song \(Dream Nr\. 1\)](https://open.spotify.com/track/63s37RyQINHVSf3FGdLsxK) | [Liad Abraham](https://open.spotify.com/artist/2Y8i0N5eDGrqRbk3MJGBni) | [The River Song \(Dream Nr\. 1\)](https://open.spotify.com/album/1HzQRuz4CFkAqF0K2UtH9y) | 3:28 | 2023-04-21 | 2023-05-13 |
+| [The small things in life](https://open.spotify.com/track/77RRa9i2ITwLznWo4Q9HPv) | [Steve D](https://open.spotify.com/artist/7JaeTu8xN4ZYcKyGrK6DBW) | [The small things in life](https://open.spotify.com/album/6XJEnO611nb1gGDE2kpUPa) | 2:15 | 2023-11-24 |  |
 | [The Stillness Within](https://open.spotify.com/track/2zSvZfdq6ZJpxmH2RbpoQ8) | [Vadim Cervenka](https://open.spotify.com/artist/13mof4l15J56TzfoMsY99Y) | [The Stillness Within](https://open.spotify.com/album/7pfveCDNbixSABr4bVIfJZ) | 2:59 | 2023-06-08 |  |
 | [The Sun Terrace](https://open.spotify.com/track/03DifiRgvdRwUsGhcuCtAG) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [The Sun Terrace](https://open.spotify.com/album/0nxokw3k5JfIzilT83AeN3) | 2:21 | 2023-04-21 |  |
 | [Thing Of Beauty](https://open.spotify.com/track/4ATFCqpqkV8IwC7SXuPZSZ) | [Timothy Reiger](https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3) | [Thing Of Beauty](https://open.spotify.com/album/6xq6nBH8XUmiBRhDEBSi7y) | 2:32 | 2022-07-15 | 2022-09-23 |

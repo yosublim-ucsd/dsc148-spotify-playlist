@@ -1,12 +1,12 @@
 {
   "description": "2018 highlights from the home of indie music.",
-  "num_followers": 79373,
+  "num_followers": 79392,
   "original_name": "Best of Indie 2018",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjdkOWUyZTRhNDI4NGQ5YTk4Mzk1MDFmMjAyNGNjNjFhODRiNjYz",
+  "snapshot_id": "MCwxZWE3YTJiNTE3NmU1ZTJiNjMxNWI2NDZjYWYxYmY4MmY0MjUwNmQ3",
   "tracks": [
     {
       "added_at": "2022-03-08 15:07:06",
@@ -139,38 +139,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "4EVER",
-        "url": "https://open.spotify.com/album/7E5bHNtTN25JAw8vJALDz9"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 159595,
-      "name": "4EVER",
-      "url": "https://open.spotify.com/track/5mIOsPuQdXchVY0jB5NO9Q"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 214720,
-      "name": "Saturday Sun",
-      "url": "https://open.spotify.com/track/2RiBogNRfulkNf7fVbPOrJ"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "i wanna be your girlfriend",
         "url": "https://open.spotify.com/album/14cEutEbb3i2vDp3ZopdJf"
       },
@@ -187,6 +155,22 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
+        "name": "4EVER",
+        "url": "https://open.spotify.com/album/7E5bHNtTN25JAw8vJALDz9"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 159595,
+      "name": "4EVER",
+      "url": "https://open.spotify.com/track/5mIOsPuQdXchVY0jB5NO9Q"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
         "name": "Be the Cowboy",
         "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 193429,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/2P5yIMu2DNeMXTyOANKS6k"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 214720,
+      "name": "Saturday Sun",
+      "url": "https://open.spotify.com/track/2RiBogNRfulkNf7fVbPOrJ"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -251,6 +251,22 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
+        "name": "Be the Cowboy",
+        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 137141,
+      "name": "Me and My Husband",
+      "url": "https://open.spotify.com/track/3pANfZVFdtuVnJsE6xa5Ox"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
         "name": "For Ever",
         "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
       },
@@ -263,6 +279,22 @@
       "duration_ms": 234369,
       "name": "Casio",
       "url": "https://open.spotify.com/track/44ZKnfWEkp7wPs035j4Tua"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "girls",
+        "url": "https://open.spotify.com/album/0UvjTChu7cW8uJ6Cwp8173"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "girls",
+      "url": "https://open.spotify.com/track/04OSnqlwlBJMvidYccraVz"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -299,6 +331,22 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
+        "name": "Historian",
+        "url": "https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 391829,
+      "name": "Night Shift",
+      "url": "https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
         "name": "diary 001",
         "url": "https://open.spotify.com/album/3NEDQmYF1roygFssVEwkwv"
       },
@@ -319,22 +367,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "girls",
-        "url": "https://open.spotify.com/album/0UvjTChu7cW8uJ6Cwp8173"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "girls",
-      "url": "https://open.spotify.com/track/04OSnqlwlBJMvidYccraVz"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "1950",
         "url": "https://open.spotify.com/album/5p0UaZsYWMn4L1dSpc6AhN"
       },
@@ -347,38 +379,6 @@
       "duration_ms": 225133,
       "name": "1950",
       "url": "https://open.spotify.com/track/0CZ8lquoTX2Dkg7Ak2inwA"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
-        "name": "Be the Cowboy",
-        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 137141,
-      "name": "Me and My Husband",
-      "url": "https://open.spotify.com/track/3pANfZVFdtuVnJsE6xa5Ox"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
-        "name": "Historian",
-        "url": "https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 391829,
-      "name": "Night Shift",
-      "url": "https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "For Ever",
-        "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 191529,
-      "name": "Happy Man",
-      "url": "https://open.spotify.com/track/1oSDiyNMslJoTCfUZBHNP2"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "summer depression",
         "url": "https://open.spotify.com/album/1zkm5i2BQpuDLJrIJy12VR"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 151693,
       "name": "summer depression",
       "url": "https://open.spotify.com/track/3SEZEyvEALlomED5xFeqOs"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "For Ever",
+        "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 191529,
+      "name": "Happy Man",
+      "url": "https://open.spotify.com/track/1oSDiyNMslJoTCfUZBHNP2"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -495,6 +495,22 @@
       "duration_ms": 261881,
       "name": "It Runs Through Me",
       "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/66MRfhZmuTuyGCO1dJZTRB"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 266666,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/4WfV1CNg91SBp8oG0VY0VB"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -563,22 +579,6 @@
       "duration_ms": 177479,
       "name": "Needs",
       "url": "https://open.spotify.com/track/0WKmVAD4VWk5EdTyCFILi4"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/66MRfhZmuTuyGCO1dJZTRB"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 266666,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/4WfV1CNg91SBp8oG0VY0VB"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "SOLACE",
-        "url": "https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 349293,
-      "name": "Underwater",
-      "url": "https://open.spotify.com/track/5ZvHcR4OSwvEV5IhigbTOT"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "Negro Swan",
         "url": "https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 242341,
       "name": "Charcoal Baby",
       "url": "https://open.spotify.com/track/3bBmpVl9rQKJsFFGLFilIS"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "SOLACE",
+        "url": "https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 349293,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/5ZvHcR4OSwvEV5IhigbTOT"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "A Brief Inquiry Into Online Relationships",
-        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 207851,
-      "name": "TOOTIMETOOTIMETOOTIME",
-      "url": "https://open.spotify.com/track/33DzKnwuBE6lfOiADwzd5E"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "Say, Can You Hear",
         "url": "https://open.spotify.com/album/6rQixYcPsSviu4PfdprZgK"
       },
@@ -799,22 +783,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Tranquility Base Hotel & Casino",
-        "url": "https://open.spotify.com/album/7v6FNgLDS8KmaWA1amUtqe"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 312346,
-      "name": "Four Out Of Five",
-      "url": "https://open.spotify.com/track/5Z5nbOXhsSbySVC7WUc6y9"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "Lemon Boy",
         "url": "https://open.spotify.com/album/5rvA7Pth9X8PFp5jHqFl3V"
       },
@@ -827,6 +795,38 @@
       "duration_ms": 233785,
       "name": "Fool",
       "url": "https://open.spotify.com/track/7asyVbwQE7IbA3x2be7bdI"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "A Brief Inquiry Into Online Relationships",
+        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 207851,
+      "name": "TOOTIMETOOTIMETOOTIME",
+      "url": "https://open.spotify.com/track/33DzKnwuBE6lfOiADwzd5E"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "Tranquility Base Hotel & Casino",
+        "url": "https://open.spotify.com/album/7v6FNgLDS8KmaWA1amUtqe"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 312346,
+      "name": "Four Out Of Five",
+      "url": "https://open.spotify.com/track/5Z5nbOXhsSbySVC7WUc6y9"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "A Brief Inquiry Into Online Relationships",
-        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 225955,
-      "name": "Sincerity Is Scary",
-      "url": "https://open.spotify.com/track/6HguG9HRb1Ke1bhihfE4m8"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "Chiquito",
         "url": "https://open.spotify.com/album/4gjhrTin1WwrEHd8GslZ7O"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 207692,
       "name": "Dontmakemefallinlove",
       "url": "https://open.spotify.com/track/4Ooq4tmYpe3nZP1BnCtsWM"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "A Brief Inquiry Into Online Relationships",
+        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 225955,
+      "name": "Sincerity Is Scary",
+      "url": "https://open.spotify.com/track/6HguG9HRb1Ke1bhihfE4m8"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Damaged Vol. 2",
-        "url": "https://open.spotify.com/album/1gZ3Wi966cliRIktXiaWij"
-      },
-      "artists": [
-        {
-          "name": "b\u00fclow",
-          "url": "https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4"
-        }
-      ],
-      "duration_ms": 159453,
-      "name": "You & Jennifer",
-      "url": "https://open.spotify.com/track/0g21KZ1XJuhwexWPLpuEt1"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "Sunset Season",
         "url": "https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 236746,
       "name": "Greek God",
       "url": "https://open.spotify.com/track/7KJXiuMXQu723ODChoxENp"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "Damaged Vol. 2",
+        "url": "https://open.spotify.com/album/1gZ3Wi966cliRIktXiaWij"
+      },
+      "artists": [
+        {
+          "name": "b\u00fclow",
+          "url": "https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4"
+        }
+      ],
+      "duration_ms": 159453,
+      "name": "You & Jennifer",
+      "url": "https://open.spotify.com/track/0g21KZ1XJuhwexWPLpuEt1"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Soy Pablo",
-        "url": "https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw"
-      },
-      "artists": [
-        {
-          "name": "boy pablo",
-          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
-        }
-      ],
-      "duration_ms": 186681,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/7mjOxXnZYbGtgjyX0hqaLs"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "Lush",
         "url": "https://open.spotify.com/album/2ZlrWJ4Ev4DhG6mRo5h1AP"
       },
@@ -1407,38 +1391,6 @@
       "duration_ms": 295333,
       "name": "Pristine",
       "url": "https://open.spotify.com/track/5JX6gZ5mOASumPrU1JbfbV"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
-        "name": "Quarter Past Midnight",
-        "url": "https://open.spotify.com/album/70p5NvBOkvaxU1UeIxhE1Z"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 201799,
-      "name": "Quarter Past Midnight",
-      "url": "https://open.spotify.com/track/1etiUDkISHELzQGMY79ryt"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
-        "name": "Pussy Is God",
-        "url": "https://open.spotify.com/album/4UzCY6ikiEN4rgY26I4jg0"
-      },
-      "artists": [
-        {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
-        }
-      ],
-      "duration_ms": 205533,
-      "name": "Pussy Is God",
-      "url": "https://open.spotify.com/track/6VCeywT4JeawuZOUkQ1okx"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1459,18 +1411,18 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Cool Like You (Deluxe)",
-        "url": "https://open.spotify.com/album/0yO5Mwu2oDdGbeRFpAaBGa"
+        "name": "Quarter Past Midnight",
+        "url": "https://open.spotify.com/album/70p5NvBOkvaxU1UeIxhE1Z"
       },
       "artists": [
         {
-          "name": "Blossoms",
-          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 222488,
-      "name": "There's A Reason Why (I Never Returned Your Calls)",
-      "url": "https://open.spotify.com/track/5pVbLYTdihSKd8Kylfhwa7"
+      "duration_ms": 201799,
+      "name": "Quarter Past Midnight",
+      "url": "https://open.spotify.com/track/1etiUDkISHELzQGMY79ryt"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1487,6 +1439,54 @@
       "duration_ms": 194400,
       "name": "Bambi",
       "url": "https://open.spotify.com/track/5dmPNuHmRRJuHmJTDa7NuJ"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "Pussy Is God",
+        "url": "https://open.spotify.com/album/4UzCY6ikiEN4rgY26I4jg0"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        }
+      ],
+      "duration_ms": 205533,
+      "name": "Pussy Is God",
+      "url": "https://open.spotify.com/track/6VCeywT4JeawuZOUkQ1okx"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "Cool Like You (Deluxe)",
+        "url": "https://open.spotify.com/album/0yO5Mwu2oDdGbeRFpAaBGa"
+      },
+      "artists": [
+        {
+          "name": "Blossoms",
+          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
+        }
+      ],
+      "duration_ms": 222488,
+      "name": "There's A Reason Why (I Never Returned Your Calls)",
+      "url": "https://open.spotify.com/track/5pVbLYTdihSKd8Kylfhwa7"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "Soy Pablo",
+        "url": "https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw"
+      },
+      "artists": [
+        {
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+        }
+      ],
+      "duration_ms": 186681,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/7mjOxXnZYbGtgjyX0hqaLs"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Solarize",
-        "url": "https://open.spotify.com/album/0i38zdK4NoZLJmKPkzf1WB"
+        "name": "Love Is Dead",
+        "url": "https://open.spotify.com/album/4ePbJdHu99l50AwUnG1baG"
       },
       "artists": [
         {
-          "name": "Capital Cities",
-          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
         }
       ],
-      "duration_ms": 184760,
-      "name": "Vowels",
-      "url": "https://open.spotify.com/track/2mvEB4KV6L54cfMe9bkzsw"
+      "duration_ms": 188251,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/2Kc1WhZsBbR2ZLbSyv83hO"
     }
   ],
   "unique_name": "Best of Indie 2018",

@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! Cover: BANG YEDAM
+> Future K\-Pop hits! Cover: DINO
 
-935 songs - 2 day 3 hr 33 min
+938 songs - 2 day 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Ballroom Extravaganza](https://open.spotify.com/track/4vJfBno2d0mTjMcYn5lEln) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In To Order](https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ) | 3:09 | 2022-07-29 | 2022-10-15 |
 | [Bambi](https://open.spotify.com/track/60VaORSJ5x1D4ZPSc0g2En) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Bambi \- The 3rd Mini Album](https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p) | 3:33 | 2021-03-31 | 2021-07-01 |
 | [BASEMENT BOY](https://open.spotify.com/track/6y8Q8DMl5HLi16tTyh4aDt) | [DEMIAN](https://open.spotify.com/artist/6DNTezBmjBm68oYPCENCcA) | [BASEMENT BOY](https://open.spotify.com/album/2YrodBLR3JJF6EUh88yZVf) | 3:08 | 2022-05-24 | 2022-07-14 |
+| [BATTER UP](https://open.spotify.com/track/3VBj0lzjmhTzVFPEDOjNCG) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BABYMONSTER Debut Digital Single \[BATTER UP\]](https://open.spotify.com/album/2CSQuvvt3XHLDX36O3nRv7) | 3:08 | 2023-11-28 |  |
 | [Beach Again](https://open.spotify.com/track/4L1MHK27ifT30Ndicpr7js) | [SSAK3](https://open.spotify.com/artist/2el9LgZHLeQnXHABBkgb7M) | [Beach Again](https://open.spotify.com/album/427BTLanPKvIrBTq80FVHW) | 3:53 | 2020-10-13\* | 2020-11-05 |
 | [BEAM BEAM](https://open.spotify.com/track/1VjIS4qoyD6JS2rNZQgE00) | [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [Windy](https://open.spotify.com/album/1lv92CIVZbB2BsHmIx7qJf) | 2:47 | 2021-07-06 | 2021-08-25 |
 | [Beautiful Beautiful](https://open.spotify.com/track/1JZiSKaF6RRgwxv4IijBUm) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [ONF:MY NAME](https://open.spotify.com/album/3GfY1xWWL7Lnh0Wn1WGwc3) | 3:10 | 2021-03-10 | 2021-06-09 |
@@ -274,6 +275,7 @@
 | [Eye On You](https://open.spotify.com/track/7hg0IEar5zT2pdIt21THE7) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [Obsession](https://open.spotify.com/album/7KgsAlBnzkH1vyYluTUtUd) | 3:06 | 2022-02-17 | 2022-05-06 |
 | [f](https://open.spotify.com/track/02Nkt660XIvXwZQf9bkwh6) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [ROBERT](https://open.spotify.com/album/4VTHhmhVaB2gpViAdHbKHg) | 2:08 | 2023-10-11 | 2023-11-04 |
 | [Fadeaway](https://open.spotify.com/track/3ckM6eeEiOc0iON56lKfDv) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [Fadeaway \(From "GARBAGE TIME"\)](https://open.spotify.com/album/7phg7mzEHuthKyl6e4UvA7) | 2:52 | 2023-11-15 |  |
+| [Fall In Love Again](https://open.spotify.com/track/7e2t41hCiR0sV4Lgv555v3) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [Fall In Love Again](https://open.spotify.com/album/7e1u6dK7lvs0JiCLuz83Wj) | 3:28 | 2023-11-28 |  |
 | [Fallen](https://open.spotify.com/track/0jo45PactLXFCw311Xa4gi) | [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1) | [Fallen](https://open.spotify.com/album/2L6Wq8SWyqp11SYcH46Rsp) | 3:38 | 2022-12-13 | 2023-02-07 |
 | [Fame](https://open.spotify.com/track/3y0uHBnK2O4N9lt6KpRv6i) | [Ciipher](https://open.spotify.com/artist/18VvNIaKQgZXhSBnu7p5z7) | [THE CODE](https://open.spotify.com/album/7wr8UMXYQw5191b48WfR4Y) | 3:43 | 2022-05-12 | 2022-07-09 |
 | [Farewell Everyday](https://open.spotify.com/track/5JYW7DeFnvBr4oEqoeZBbu) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [Farewell Everyday](https://open.spotify.com/album/0PSjsWGW3lLQFojSxzlpdY) | 3:50 | 2023-04-20 | 2023-07-08 |
@@ -674,7 +676,7 @@
 | [Rising](https://open.spotify.com/track/6QCPweR3aP6nj7P43WpiZs) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [ASSEMBLE](https://open.spotify.com/album/6ArYgWdHk7mcG4knENgPN5) | 2:39 | 2023-03-02 | 2023-06-09 |
 | [Road](https://open.spotify.com/track/1zvYrvy4ucwfPlBr2RLUif) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Omnibus Pt\. 1: Kaleidoscope](https://open.spotify.com/album/7htimrPXHpXUEehmi902CA) | 4:00 | 2022-07-29 | 2022-09-09 |
 | [Rock With You \- Spotify Singles](https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO), [WOOGIE](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) | [Spotify Singles](https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5) | 3:48 | 2023-04-06 | 2023-05-26 |
-| [Rockstar](https://open.spotify.com/track/7z8EC940EnKqsHQGz5NwEe) | [Jay Chang](https://open.spotify.com/artist/7H2xroGGrPmbmHtwBOZyLT) | [Late Night](https://open.spotify.com/album/1vj8CCni8X7U1im2eg62r3) | 3:12 | 2023-10-20 |  |
+| [Rockstar](https://open.spotify.com/track/7z8EC940EnKqsHQGz5NwEe) | [Jay Chang](https://open.spotify.com/artist/7H2xroGGrPmbmHtwBOZyLT) | [Late Night](https://open.spotify.com/album/1vj8CCni8X7U1im2eg62r3) | 3:12 | 2023-10-20 | 2023-11-28 |
 | [Roller Coaster](https://open.spotify.com/track/6Y8iUOQbIwQaYzEYs0r9ZV) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [Where is my Garden!](https://open.spotify.com/album/5A0G6El208bcSxPfNw0CrR) | 3:03 | 2022-05-13 | 2022-07-26 |
 | [Roller Coaster](https://open.spotify.com/track/1fP8o0lIaSIE5jEeblT8df) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Roller Coaster](https://open.spotify.com/album/1brnEznuO5sOFwX5cgblYw) | 2:59 | 2023-07-03 | 2023-09-12 |
 | [Rollercoaster](https://open.spotify.com/track/7uwNVnaOswnVGJ5v8e2bQk) | [woo!ah!](https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa) | [Pit\-a\-Pat](https://open.spotify.com/album/4ivrWy4dTl3eOAEOfFXnM0) | 3:14 | 2022-11-18 | 2023-02-18 |
@@ -712,7 +714,7 @@
 | [See you again](https://open.spotify.com/track/5Ekrh9NPmLMPJaAewqkauN) | [Han Seungwoo](https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl) | [Fade](https://open.spotify.com/album/2g8uiZCLtbI2FYgW1OfoiA) | 3:33 | 2021-07-01 | 2021-08-11 |
 | [See You In Every Party](https://open.spotify.com/track/2KgVbhxyywlDZp1juQ8gzj) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [POP A LOT](https://open.spotify.com/album/1QbzttUvCTfS4Auh28FsVf) | 3:01 | 2023-08-25 | 2023-09-12 |
 | [Self\-Portrait \(feat\. KIM JAE HWAN\)](https://open.spotify.com/track/1UChGtr3KzNRIxkOqPhDWw) | [PARK WOO JIN](https://open.spotify.com/artist/0kS1oLtVdBidgH2aKloRKR), [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Self\-Portrait \(feat\. KIM JAE HWAN\)](https://open.spotify.com/album/70wZqV2TqpWbhVisqt27Ex) | 4:44 | 2023-02-17 | 2023-03-21 |
-| [Sensitive](https://open.spotify.com/track/6A1dCPrUYhg56ukp4zlEUw) | [Loossemble](https://open.spotify.com/artist/1kbVoxpFh1eDOXumLmVdKY) | [Loossemble](https://open.spotify.com/album/51TyZNm7E9EF1gSJGLGsxh) | 3:05 | 2023-09-27 |  |
+| [Sensitive](https://open.spotify.com/track/6A1dCPrUYhg56ukp4zlEUw) | [Loossemble](https://open.spotify.com/artist/1kbVoxpFh1eDOXumLmVdKY) | [Loossemble](https://open.spotify.com/album/51TyZNm7E9EF1gSJGLGsxh) | 3:05 | 2023-09-27 | 2023-11-28 |
 | [Seoul](https://open.spotify.com/track/4b9LMCUaw55QajVRfrfPyS) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Seoul](https://open.spotify.com/album/6tLZvqqoWszgPagzzNNQQF) | 3:24 | 2022-04-20 | 2022-07-14 |
 | [SEOUL \(Such a Beautiful City\)](https://open.spotify.com/track/0SRAuCAtprYCuoks38G5GU) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [H1\-KEY 2nd Mini Album \[Seoul Dreaming\]](https://open.spotify.com/album/1J2t0ySjwCZNGelpARbw3d) | 3:09 | 2023-09-01 | 2023-09-28 |
 | [Seoul City \- Spotify Singles](https://open.spotify.com/track/2ZXUclexEqoF3MsLK33xsx) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg), [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [sAewoo](https://open.spotify.com/artist/5JzGdNWFlf4S7upAVbiX35) | [Spotify Singles](https://open.spotify.com/album/7IDwq3HwkSlakUOBKmTrqK) | 3:34 | 2023-02-24 | 2023-04-21 |
@@ -869,9 +871,10 @@
 | [VIVID](https://open.spotify.com/track/24OueqbY3eTiKT5dHhL5WQ) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [VIVID](https://open.spotify.com/album/0YnjMov6t4vfn9MXA5A6KS) | 3:25 | 2022-06-02 | 2022-07-26 |
 | [Voiceless](https://open.spotify.com/track/4LK6Kbz62qTjzhA9MbXuRB) | [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [Pilmography](https://open.spotify.com/album/6ycojlJlzjC6T9IlWYI0PK) | 3:47 | 2022-02-07 | 2022-03-25 |
 | [VOYAGER](https://open.spotify.com/track/5X8djrOyJCnCnwD19QXQIK) | [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS) | [VOYAGER](https://open.spotify.com/album/3zKRClhiSLNBrhqgCd52jE) | 3:11 | 2022-03-21 | 2022-05-19 |
-| [VROOM VROOM](https://open.spotify.com/track/4lOlKcHOovGeQtCGWnEzKy) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [ColoRise](https://open.spotify.com/album/1VJ62OC6tQN9n5ss3uEQyr) | 3:16 | 2023-11-03 |  |
+| [VROOM VROOM](https://open.spotify.com/track/4lOlKcHOovGeQtCGWnEzKy) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [ColoRise](https://open.spotify.com/album/1VJ62OC6tQN9n5ss3uEQyr) | 3:16 | 2023-11-03 | 2023-11-28 |
 | [Vuja De](https://open.spotify.com/track/42UNd3AFYei50ztCyAKhWl) | [U\-KNOW](https://open.spotify.com/artist/4lqxrwkJ16gYkKNumLA3SL) | [Reality Show \- The 3rd Mini Album](https://open.spotify.com/album/1sNNtYLrWGMmPIGElMW42b) | 3:06 | 2023-08-07 | 2023-09-02 |
 | [WA DA DA](https://open.spotify.com/track/4gdiCHNbwugojBqr5Jt3pq) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [FIRST IMPACT](https://open.spotify.com/album/7pHyAucSgWoDNlFHfhQfVN) | 3:03 | 2022-01-10 | 2022-03-22 |
+| [Wait](https://open.spotify.com/track/1KkC3Nzxv3OZorm5m1843p) | [DINO](https://open.spotify.com/artist/5YaeXxzvqGNBCguELlKo6G) | [Wait](https://open.spotify.com/album/3D7f39m0ONz8okCm5o9Bxg) | 2:38 | 2023-11-28 |  |
 | [WAITING](https://open.spotify.com/track/4TMVuENexY9u0083CqMphE) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [ONLY LOVERS LEFT](https://open.spotify.com/album/1u9nYBB0Qw5jyjkexe9Xk6) | 3:07 | 2021-10-13 | 2021-12-14 |
 | [Wake Up](https://open.spotify.com/track/6l6EPz5kfTHW6gCpRQXEQo) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [SOULBYSEL Compilation 05](https://open.spotify.com/album/2tjn8gtG8HgEZx9YoqkJr9) | 3:05 | 2023-05-23 | 2023-07-26 |
 | [Walk With Me](https://open.spotify.com/track/71awe49SI4ZCz4JYChmSV0) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [Walk With Me](https://open.spotify.com/album/3E4D5ojNyym9TEc9uTlwAd) | 4:06 | 2021-12-15 | 2022-01-17 |

@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax with a collection of eclectic and unexpected reimaginings. Cover:  Joy Oladokun",
-  "num_followers": 445134,
+  "num_followers": 445178,
   "original_name": "Chill Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYWIzN2NmNGM3OWYyMzI3YTU1MmRhN2I3MTY1NDAzODliMTFlNWZj",
+  "snapshot_id": "MCwyMWIxNGQ3ZjAwNmZlNGE0MGZkODQ1YjM4MDlkNDIxNTgxMGU2Mjc4",
   "tracks": [
     {
       "added_at": "2022-03-22 14:40:29",
@@ -911,26 +911,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Eternal Flame",
-        "url": "https://open.spotify.com/album/7tb7dGLxrTJDQvF0kGdf3e"
-      },
-      "artists": [
-        {
-          "name": "Saint Sister",
-          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
-        },
-        {
-          "name": "Mahogany",
-          "url": "https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah"
-        }
-      ],
-      "duration_ms": 162546,
-      "name": "Eternal Flame",
-      "url": "https://open.spotify.com/track/4v2L78a6CUNGucM9hRyDiP"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Passionfruit",
         "url": "https://open.spotify.com/album/5PHrxqS8w1HqoGut9zrW5A"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 212306,
       "name": "Passionfruit",
       "url": "https://open.spotify.com/track/0q9VKvpCJhGEMKRJAdaV9w"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Eternal Flame",
+        "url": "https://open.spotify.com/album/7tb7dGLxrTJDQvF0kGdf3e"
+      },
+      "artists": [
+        {
+          "name": "Saint Sister",
+          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
+        },
+        {
+          "name": "Mahogany",
+          "url": "https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah"
+        }
+      ],
+      "duration_ms": 162546,
+      "name": "Eternal Flame",
+      "url": "https://open.spotify.com/track/4v2L78a6CUNGucM9hRyDiP"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Sound Of A Woman",
-        "url": "https://open.spotify.com/album/2esSZWmdzMPyQsszbsX0rr"
-      },
-      "artists": [
-        {
-          "name": "Kiesza",
-          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
-        }
-      ],
-      "duration_ms": 188346,
-      "name": "What Is Love",
-      "url": "https://open.spotify.com/track/2jrmSLNOdNPZvMyYaZt9bm"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "I Know (feat. Fiona Apple) [RISE Recording]",
         "url": "https://open.spotify.com/album/476o5Va5ObJpc2u0Jwn19z"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 299613,
       "name": "I Know (feat. Fiona Apple) - RISE Recording",
       "url": "https://open.spotify.com/track/3SO5iPrvbgXz2XUwjOExDs"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Sound Of A Woman",
+        "url": "https://open.spotify.com/album/2esSZWmdzMPyQsszbsX0rr"
+      },
+      "artists": [
+        {
+          "name": "Kiesza",
+          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
+        }
+      ],
+      "duration_ms": 188346,
+      "name": "What Is Love",
+      "url": "https://open.spotify.com/track/2jrmSLNOdNPZvMyYaZt9bm"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "1979",
-        "url": "https://open.spotify.com/album/40rI4qa8uU2W7u1z4JKVZg"
-      },
-      "artists": [
-        {
-          "name": "Freedom Fry",
-          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
-        }
-      ],
-      "duration_ms": 290518,
-      "name": "1979",
-      "url": "https://open.spotify.com/track/2KSezpA4CZxv1RkQvA1jXE"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Transfiguration of Vincent",
         "url": "https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 300186,
       "name": "Let\u2019s Dance",
       "url": "https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "1979",
+        "url": "https://open.spotify.com/album/40rI4qa8uU2W7u1z4JKVZg"
+      },
+      "artists": [
+        {
+          "name": "Freedom Fry",
+          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
+        }
+      ],
+      "duration_ms": 290518,
+      "name": "1979",
+      "url": "https://open.spotify.com/track/2KSezpA4CZxv1RkQvA1jXE"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Friday I'm in Love",
-        "url": "https://open.spotify.com/album/3SslCuIYB5WJZnBKYrMmEA"
-      },
-      "artists": [
-        {
-          "name": "Oselie",
-          "url": "https://open.spotify.com/artist/2WFpP5JesWt9H0zqKesrCJ"
-        }
-      ],
-      "duration_ms": 173475,
-      "name": "Friday I'm in Love",
-      "url": "https://open.spotify.com/track/0Mmwl88NJOfr7hSqNWXuwX"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Nothing's Gonna Hurt You Baby (From \"Promising Young Woman\" Soundtrack)",
         "url": "https://open.spotify.com/album/60H1ATlKVSVErAcZtr9rkY"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 197864,
       "name": "Nothing's Gonna Hurt You Baby - From \"Promising Young Woman\" Soundtrack",
       "url": "https://open.spotify.com/track/0DNJCBqcgQaBndHYHbx57y"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Friday I'm in Love",
+        "url": "https://open.spotify.com/album/3SslCuIYB5WJZnBKYrMmEA"
+      },
+      "artists": [
+        {
+          "name": "Oselie",
+          "url": "https://open.spotify.com/artist/2WFpP5JesWt9H0zqKesrCJ"
+        }
+      ],
+      "duration_ms": 173475,
+      "name": "Friday I'm in Love",
+      "url": "https://open.spotify.com/track/0Mmwl88NJOfr7hSqNWXuwX"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Ocean Eyes",
-        "url": "https://open.spotify.com/album/5voqYP3p9vT3oRgJiliv8q"
+        "name": "Candid",
+        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
       },
       "artists": [
         {
-          "name": "The Darcys",
-          "url": "https://open.spotify.com/artist/1kmnMzV27S3bXALqYnoGwH"
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
         }
       ],
-      "duration_ms": 200191,
-      "name": "Ocean Eyes",
-      "url": "https://open.spotify.com/track/6asiEFpicAsykncnpjbxKZ"
+      "duration_ms": 300684,
+      "name": "Hammond Song",
+      "url": "https://open.spotify.com/track/4CQ7wd8WopTHgKGr3vVPiJ"
     }
   ],
   "unique_name": "Chill Covers",

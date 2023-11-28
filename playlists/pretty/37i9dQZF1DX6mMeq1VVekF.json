@@ -1,12 +1,12 @@
 {
   "description": "No tags, no labels - just free form. Cover: BXKS",
-  "num_followers": 157242,
+  "num_followers": 157313,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjg2ZmNmNDI0ZjAyZDk4MTgwOTNjYjRmNmI4YmQ5NDVlMWMzMDBk",
+  "snapshot_id": "MCw0ZDg1NzAxMzQzYTM2ODcxMTJmZmUwOTM2M2JjZGQxYzg5ZTYxOWJj",
   "tracks": [
     {
       "added_at": "2023-11-24 12:22:37",
@@ -195,6 +195,26 @@
     {
       "added_at": "2023-11-24 12:22:37",
       "album": {
+        "name": "#skeptacore pt.3",
+        "url": "https://open.spotify.com/album/603607Iup3eeTPgUM9Qoof"
+      },
+      "artists": [
+        {
+          "name": "Ryder",
+          "url": "https://open.spotify.com/artist/2Lr6UcfZWL1Ur5spOaduOb"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "duration_ms": 159111,
+      "name": "#skeptacore pt.3",
+      "url": "https://open.spotify.com/track/1HAW56e0zz05phUnzuHF9E"
+    },
+    {
+      "added_at": "2023-11-24 12:22:37",
+      "album": {
         "name": "Gravity (feat. Tyler, The Creator)",
         "url": "https://open.spotify.com/album/6ymw9w3tGhxVGBskQAhsvm"
       },
@@ -235,22 +255,18 @@
     {
       "added_at": "2023-11-24 12:22:37",
       "album": {
-        "name": "#skeptacore pt.3",
-        "url": "https://open.spotify.com/album/603607Iup3eeTPgUM9Qoof"
+        "name": "Local Mvp",
+        "url": "https://open.spotify.com/album/02gUzFCFgKdsj8p1KcnASN"
       },
       "artists": [
         {
-          "name": "Ryder",
-          "url": "https://open.spotify.com/artist/2Lr6UcfZWL1Ur5spOaduOb"
-        },
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+          "name": "Saint\u00e9",
+          "url": "https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6"
         }
       ],
-      "duration_ms": 159111,
-      "name": "#skeptacore pt.3",
-      "url": "https://open.spotify.com/track/1HAW56e0zz05phUnzuHF9E"
+      "duration_ms": 158000,
+      "name": "Stylin'",
+      "url": "https://open.spotify.com/track/0SLE0Ym3WhxfHSDR7Qd5pf"
     },
     {
       "added_at": "2023-11-24 12:22:37",
@@ -267,22 +283,6 @@
       "duration_ms": 159560,
       "name": "Booty Drop",
       "url": "https://open.spotify.com/track/1iOdhNBdePXR632DhYZVO2"
-    },
-    {
-      "added_at": "2023-11-24 12:22:37",
-      "album": {
-        "name": "Local Mvp",
-        "url": "https://open.spotify.com/album/02gUzFCFgKdsj8p1KcnASN"
-      },
-      "artists": [
-        {
-          "name": "Saint\u00e9",
-          "url": "https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Stylin'",
-      "url": "https://open.spotify.com/track/0SLE0Ym3WhxfHSDR7Qd5pf"
     },
     {
       "added_at": "2023-11-24 12:22:37",
@@ -415,22 +415,18 @@
     {
       "added_at": "2023-11-24 12:22:37",
       "album": {
-        "name": "Sometimes I Might Be Introvert",
-        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
+        "name": "A N N I V E R S A R Y (Deluxe)",
+        "url": "https://open.spotify.com/album/272GPDEjWzJtyZfHDWFXBy"
       },
       "artists": [
         {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        },
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
         }
       ],
-      "duration_ms": 185600,
-      "name": "Point and Kill",
-      "url": "https://open.spotify.com/track/52y4KhkcAbYcogFg2u7UVP"
+      "duration_ms": 188293,
+      "name": "7:00",
+      "url": "https://open.spotify.com/track/7LJZyNjN5U0LdYSBQ9hlLz"
     },
     {
       "added_at": "2023-11-24 12:22:37",
@@ -447,22 +443,6 @@
       "duration_ms": 140659,
       "name": "Need Me",
       "url": "https://open.spotify.com/track/7a636g0dl8a487foiAcoCM"
-    },
-    {
-      "added_at": "2023-11-24 12:22:37",
-      "album": {
-        "name": "A N N I V E R S A R Y (Deluxe)",
-        "url": "https://open.spotify.com/album/272GPDEjWzJtyZfHDWFXBy"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 188293,
-      "name": "7:00",
-      "url": "https://open.spotify.com/track/7LJZyNjN5U0LdYSBQ9hlLz"
     },
     {
       "added_at": "2023-11-24 12:22:37",
@@ -503,6 +483,42 @@
     {
       "added_at": "2023-11-24 12:22:37",
       "album": {
+        "name": "F.U.C.K.",
+        "url": "https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "F.U.C.K.",
+      "url": "https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4"
+    },
+    {
+      "added_at": "2023-11-24 12:22:37",
+      "album": {
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Point and Kill",
+      "url": "https://open.spotify.com/track/52y4KhkcAbYcogFg2u7UVP"
+    },
+    {
+      "added_at": "2023-11-24 12:22:37",
+      "album": {
         "name": "Los Pollos Hermanos",
         "url": "https://open.spotify.com/album/766Mv8IX7ddrwGr9jiSKjM"
       },
@@ -519,18 +535,22 @@
     {
       "added_at": "2023-11-24 12:22:37",
       "album": {
-        "name": "F.U.C.K.",
-        "url": "https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC"
+        "name": "BLOCKBUSTA",
+        "url": "https://open.spotify.com/album/4XN6Kx1iUxtuhuAfh0zqZN"
       },
       "artists": [
         {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 205373,
-      "name": "F.U.C.K.",
-      "url": "https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4"
+      "duration_ms": 125468,
+      "name": "ROBOSHOTTA (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/7DiylLh1Kdcd1q1dWRcJNq"
     },
     {
       "added_at": "2023-11-24 12:22:37",
@@ -563,26 +583,6 @@
       "duration_ms": 152112,
       "name": "Hate It Or Luv It",
       "url": "https://open.spotify.com/track/5CpnjR6DE6X3PFvmKqrw1l"
-    },
-    {
-      "added_at": "2023-11-24 12:22:37",
-      "album": {
-        "name": "BLOCKBUSTA",
-        "url": "https://open.spotify.com/album/4XN6Kx1iUxtuhuAfh0zqZN"
-      },
-      "artists": [
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 125468,
-      "name": "ROBOSHOTTA (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/7DiylLh1Kdcd1q1dWRcJNq"
     },
     {
       "added_at": "2023-11-24 12:22:37",
@@ -679,26 +679,6 @@
     {
       "added_at": "2023-11-24 12:22:37",
       "album": {
-        "name": "Right Hand",
-        "url": "https://open.spotify.com/album/0DFUakFW6jzPiP9qH70lvq"
-      },
-      "artists": [
-        {
-          "name": "Unknown T",
-          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
-        },
-        {
-          "name": "Knucks",
-          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
-        }
-      ],
-      "duration_ms": 165067,
-      "name": "Right Hand",
-      "url": "https://open.spotify.com/track/5XdXywHigZe8sw23TttgDm"
-    },
-    {
-      "added_at": "2023-11-24 12:22:37",
-      "album": {
         "name": "What's Poppin",
         "url": "https://open.spotify.com/album/33FTfk4rgSjlYSeIQozbtw"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 195426,
       "name": "What's Poppin",
       "url": "https://open.spotify.com/track/38BBkkW2v88ozDGf2FySNj"
+    },
+    {
+      "added_at": "2023-11-24 12:22:37",
+      "album": {
+        "name": "Right Hand",
+        "url": "https://open.spotify.com/album/0DFUakFW6jzPiP9qH70lvq"
+      },
+      "artists": [
+        {
+          "name": "Unknown T",
+          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+        },
+        {
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+        }
+      ],
+      "duration_ms": 165067,
+      "name": "Right Hand",
+      "url": "https://open.spotify.com/track/5XdXywHigZe8sw23TttgDm"
     },
     {
       "added_at": "2023-11-24 12:22:37",
@@ -763,6 +763,30 @@
       "duration_ms": 133400,
       "name": "NO BONNIE N CLYDE",
       "url": "https://open.spotify.com/track/31EJY5zvDJhQdfXc7g4V7T"
+    },
+    {
+      "added_at": "2023-11-24 12:22:37",
+      "album": {
+        "name": "48 Hours",
+        "url": "https://open.spotify.com/album/7B8hgK92g5E2WnKkKjEzRp"
+      },
+      "artists": [
+        {
+          "name": "Ryder",
+          "url": "https://open.spotify.com/artist/2Lr6UcfZWL1Ur5spOaduOb"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Dr\u00e9 Six",
+          "url": "https://open.spotify.com/artist/5eLN24mJrfPvsHv7tqJpA4"
+        }
+      ],
+      "duration_ms": 147954,
+      "name": "All Alone",
+      "url": "https://open.spotify.com/track/7h4WdSxVKr8uciqXs3zAXw"
     },
     {
       "added_at": "2023-11-24 12:22:37",
@@ -839,30 +863,6 @@
       "duration_ms": 143692,
       "name": "WELCOME 2 MY STRIP (Feat. ODUMODUBLVCK)",
       "url": "https://open.spotify.com/track/58QstEOypB4xIe3ta8Qhya"
-    },
-    {
-      "added_at": "2023-11-24 12:22:37",
-      "album": {
-        "name": "48 Hours",
-        "url": "https://open.spotify.com/album/7B8hgK92g5E2WnKkKjEzRp"
-      },
-      "artists": [
-        {
-          "name": "Ryder",
-          "url": "https://open.spotify.com/artist/2Lr6UcfZWL1Ur5spOaduOb"
-        },
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        },
-        {
-          "name": "Dr\u00e9 Six",
-          "url": "https://open.spotify.com/artist/5eLN24mJrfPvsHv7tqJpA4"
-        }
-      ],
-      "duration_ms": 147954,
-      "name": "All Alone",
-      "url": "https://open.spotify.com/track/7h4WdSxVKr8uciqXs3zAXw"
     },
     {
       "added_at": "2023-11-24 12:22:37",

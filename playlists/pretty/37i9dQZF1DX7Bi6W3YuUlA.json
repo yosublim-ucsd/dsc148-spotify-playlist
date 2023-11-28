@@ -1,12 +1,12 @@
 {
   "description": "Songs of positivity from some of today's leading inspiring artists. Cover:  Tobe Nwigwe",
-  "num_followers": 33196,
+  "num_followers": 33257,
   "original_name": "Blessings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NmQ5NmU4ZTI4MTJkMmZiZTYwMmI2M2UxZmRkYTU1MzliOTE3MTA0",
+  "snapshot_id": "MCw3YTQyODZiYWI1YzI0MDZhN2ZjOGQyOTA3MDBkZmJmZWQ0YTlhMGY1",
   "tracks": [
     {
       "added_at": "2023-02-18 05:58:41",
@@ -195,22 +195,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "burn for u",
-        "url": "https://open.spotify.com/album/0l6g4tJ50aQJhO680P8hQz"
-      },
-      "artists": [
-        {
-          "name": "gio.",
-          "url": "https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn"
-        }
-      ],
-      "duration_ms": 125566,
-      "name": "burn for u",
-      "url": "https://open.spotify.com/track/0EEnBExqpGxsDL3d4UM2QN"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "Seasons",
         "url": "https://open.spotify.com/album/2YCdel85rHps3LqsMfu1M0"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 199000,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/7CIPjKEX2XowX9N9s8egiD"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "burn for u",
+        "url": "https://open.spotify.com/album/0l6g4tJ50aQJhO680P8hQz"
+      },
+      "artists": [
+        {
+          "name": "gio.",
+          "url": "https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn"
+        }
+      ],
+      "duration_ms": 125566,
+      "name": "burn for u",
+      "url": "https://open.spotify.com/track/0EEnBExqpGxsDL3d4UM2QN"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -303,18 +303,26 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "The Stonebrook Project",
-        "url": "https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU"
+        "name": "GOD DID",
+        "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
       },
       "artists": [
         {
-          "name": "Zauntee",
-          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         }
       ],
-      "duration_ms": 260708,
-      "name": "Jesus Called My Name",
-      "url": "https://open.spotify.com/track/1SDMJYKkUd99L1xqo4DMOZ"
+      "duration_ms": 223532,
+      "name": "USE THIS GOSPEL (feat. Kanye West & Eminem) - REMIX",
+      "url": "https://open.spotify.com/track/2u5jKAjyvyEDmsWTtfQzNf"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -343,26 +351,18 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "GOD DID",
-        "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
+        "name": "The Stonebrook Project",
+        "url": "https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU"
       },
       "artists": [
         {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          "name": "Zauntee",
+          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
         }
       ],
-      "duration_ms": 223532,
-      "name": "USE THIS GOSPEL (feat. Kanye West & Eminem) - REMIX",
-      "url": "https://open.spotify.com/track/2u5jKAjyvyEDmsWTtfQzNf"
+      "duration_ms": 260708,
+      "name": "Jesus Called My Name",
+      "url": "https://open.spotify.com/track/1SDMJYKkUd99L1xqo4DMOZ"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -379,26 +379,6 @@
       "duration_ms": 201204,
       "name": "Great Is He",
       "url": "https://open.spotify.com/track/7baxiYAhAx9MHum5NhtOML"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/32hA1fDTD9gVo70i02JIQa"
-      },
-      "artists": [
-        {
-          "name": "Hulvey",
-          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
-        },
-        {
-          "name": "Torey D'Shaun",
-          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
-        }
-      ],
-      "duration_ms": 164224,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/0u1DrbKJTZjFatqh9qs47C"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -451,6 +431,26 @@
       "duration_ms": 260048,
       "name": "Graves",
       "url": "https://open.spotify.com/track/1CEYsFOS0hAoVxuqtRmaLz"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/32hA1fDTD9gVo70i02JIQa"
+      },
+      "artists": [
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        },
+        {
+          "name": "Torey D'Shaun",
+          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
+        }
+      ],
+      "duration_ms": 164224,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/0u1DrbKJTZjFatqh9qs47C"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -619,6 +619,26 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
+        "name": "FYE FYE",
+        "url": "https://open.spotify.com/album/6fyajWzEooH12hA3oJIOZU"
+      },
+      "artists": [
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        },
+        {
+          "name": "Fat Nwigwe",
+          "url": "https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y"
+        }
+      ],
+      "duration_ms": 232615,
+      "name": "FYE FYE",
+      "url": "https://open.spotify.com/track/08L5NUKHYS0RO32tz34G4A"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
         "name": "I Need Peace",
         "url": "https://open.spotify.com/album/11EUwsiZq5KFq5uTf94neJ"
       },
@@ -659,26 +679,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "FYE FYE",
-        "url": "https://open.spotify.com/album/6fyajWzEooH12hA3oJIOZU"
-      },
-      "artists": [
-        {
-          "name": "Tobe Nwigwe",
-          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
-        },
-        {
-          "name": "Fat Nwigwe",
-          "url": "https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y"
-        }
-      ],
-      "duration_ms": 232615,
-      "name": "FYE FYE",
-      "url": "https://open.spotify.com/track/08L5NUKHYS0RO32tz34G4A"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "Child of God",
         "url": "https://open.spotify.com/album/2vDhDijaeq5rZciPo0aQ7w"
       },
@@ -711,18 +711,22 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "God Good",
-        "url": "https://open.spotify.com/album/01LrolnVf2rnfI5tXfn3HG"
+        "name": "Hit My Line",
+        "url": "https://open.spotify.com/album/0CK7KNfyrFlRvTygSeiJA5"
       },
       "artists": [
         {
-          "name": "Caleb Gordon",
-          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
+          "name": "Red Tips",
+          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
+        },
+        {
+          "name": "808 BEEZY",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
         }
       ],
-      "duration_ms": 153737,
-      "name": "God Good",
-      "url": "https://open.spotify.com/track/2STMTOFNic9TvIcYrhKC8y"
+      "duration_ms": 147492,
+      "name": "Hit My Line",
+      "url": "https://open.spotify.com/track/6OfQAAc5Bempqs62jzatMv"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -743,26 +747,6 @@
       "duration_ms": 194999,
       "name": "We Win (Space Jam: A New Legacy) (and Kirk Franklin)",
       "url": "https://open.spotify.com/track/4Y9BJZccHjVdHUkee0pBRa"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
-        "name": "Hit My Line",
-        "url": "https://open.spotify.com/album/0CK7KNfyrFlRvTygSeiJA5"
-      },
-      "artists": [
-        {
-          "name": "Red Tips",
-          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
-        },
-        {
-          "name": "808 BEEZY",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
-        }
-      ],
-      "duration_ms": 147492,
-      "name": "Hit My Line",
-      "url": "https://open.spotify.com/track/6OfQAAc5Bempqs62jzatMv"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -835,6 +819,38 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
+        "name": "God Good",
+        "url": "https://open.spotify.com/album/01LrolnVf2rnfI5tXfn3HG"
+      },
+      "artists": [
+        {
+          "name": "Caleb Gordon",
+          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
+        }
+      ],
+      "duration_ms": 153737,
+      "name": "God Good",
+      "url": "https://open.spotify.com/track/2STMTOFNic9TvIcYrhKC8y"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "tylerhateslife",
+        "url": "https://open.spotify.com/album/1YbrOpsiRbFnXNkvOsqbpC"
+      },
+      "artists": [
+        {
+          "name": "tylerhateslife",
+          "url": "https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm"
+        }
+      ],
+      "duration_ms": 203478,
+      "name": "in my head.",
+      "url": "https://open.spotify.com/track/6g8LnpjRpvbiGaQsVpt47j"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
         "name": "Respect My Team",
         "url": "https://open.spotify.com/album/1d7o2fV8QVIxvIDYGlRLxe"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 227741,
       "name": "Respect My Team",
       "url": "https://open.spotify.com/track/1oEPa4o4yRCKNPVD0PVUkW"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
-        "name": "tylerhateslife",
-        "url": "https://open.spotify.com/album/1YbrOpsiRbFnXNkvOsqbpC"
-      },
-      "artists": [
-        {
-          "name": "tylerhateslife",
-          "url": "https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm"
-        }
-      ],
-      "duration_ms": 203478,
-      "name": "in my head.",
-      "url": "https://open.spotify.com/track/6g8LnpjRpvbiGaQsVpt47j"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1335,22 +1335,18 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Pray",
-        "url": "https://open.spotify.com/album/6yhfureGMC38z0FDckHp2V"
+        "name": "Tricky",
+        "url": "https://open.spotify.com/album/2L7aO5sMbn0jSFj2ZQpdnB"
       },
       "artists": [
         {
-          "name": "Sam Rivera",
-          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
-        },
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+          "name": "Red Tips",
+          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
         }
       ],
-      "duration_ms": 176938,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/21SWInttXP3DP6bqxmoZI9"
+      "duration_ms": 132635,
+      "name": "Tricky",
+      "url": "https://open.spotify.com/track/1X6R3SpHPB4ySRMF5kzdtw"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1379,18 +1375,22 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Tricky",
-        "url": "https://open.spotify.com/album/2L7aO5sMbn0jSFj2ZQpdnB"
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/6yhfureGMC38z0FDckHp2V"
       },
       "artists": [
         {
-          "name": "Red Tips",
-          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
+          "name": "Sam Rivera",
+          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
+        },
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
         }
       ],
-      "duration_ms": 132635,
-      "name": "Tricky",
-      "url": "https://open.spotify.com/track/1X6R3SpHPB4ySRMF5kzdtw"
+      "duration_ms": 176938,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/21SWInttXP3DP6bqxmoZI9"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Ficky Ficky",
-        "url": "https://open.spotify.com/album/7udGdBV98HP5C7vvtKDnKF"
-      },
-      "artists": [
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
-        }
-      ],
-      "duration_ms": 104147,
-      "name": "Ficky Ficky",
-      "url": "https://open.spotify.com/track/0GDBvTELLm5ujaYzAqZebd"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "When It Hurts: A Story By Isaiah Hill",
         "url": "https://open.spotify.com/album/5WIYU4Amr1Exj6b79Z1pxe"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 122392,
       "name": "I Meant It",
       "url": "https://open.spotify.com/track/4e5wpbjFHi4Wu9zTYvuH96"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "Ficky Ficky",
+        "url": "https://open.spotify.com/album/7udGdBV98HP5C7vvtKDnKF"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "duration_ms": 104147,
+      "name": "Ficky Ficky",
+      "url": "https://open.spotify.com/track/0GDBvTELLm5ujaYzAqZebd"
     },
     {
       "added_at": "2023-02-18 05:58:41",

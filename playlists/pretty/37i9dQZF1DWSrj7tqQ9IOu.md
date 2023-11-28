@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover : Adèle Castillon
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,511 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,518 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [Suddenly](https://open.spotify.com/track/72SCXk45WjDEHZSFjedoxx) | [Aure](https://open.spotify.com/artist/7KJ2PJCOvE40LTdQ7qEcM6) | [Suddenly](https://open.spotify.com/album/6jdkk8PtJCXpKnaMVeYhZ6) | 2:46 |
 | 50 | [Qu'est\-ce que j'y peux](https://open.spotify.com/track/7ovsYgRg8uaBuhIeONj1Jm) | [Pépite](https://open.spotify.com/artist/0oA0cg7ajEwV0EXKCAlQ63) | [Qu'est\-ce que j'y peux](https://open.spotify.com/album/2lXxEzMqi73YHiFywsxz3k) | 3:08 |
 
-Snapshot ID: `MCxiYzFmZWEzNDgwYTUyMzA4YjMyNjViNTA3NjBiN2UxOTFhNDM1ZDFm`
+Snapshot ID: `MCw5ZTA1YThhNDZlMTdlODVlNjFiMTJjZDRlYzI5NmRiZWFmZjhlYzM0`

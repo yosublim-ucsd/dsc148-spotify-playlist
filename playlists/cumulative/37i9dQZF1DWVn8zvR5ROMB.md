@@ -4,7 +4,7 @@
 
 > All of the newest country music releases in one playlist! Featuring Tim McGraw, Callista Clark, Meg McRee and more.
 
-5,275 songs - 12 day 1 hr 0 min
+5,276 songs - 12 day 1 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1872,6 +1872,7 @@
 | [Hating Everything She Tries On](https://open.spotify.com/track/5KrsNsqaygJcwLSZm8fBcy) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [Dallas/Fort Worth](https://open.spotify.com/album/6JDmMjsVmSWoWJ3yCG2Fq7) | 2:45 | 2022-09-16 | 2022-09-24 |
 | [Hating On Love](https://open.spotify.com/track/2hdTsbDzCiI9mMUXvBgDdB) | [Dustin Bird](https://open.spotify.com/artist/2SLrAqe5sHj0UuRYla8LOf) | [Hating On Love](https://open.spotify.com/album/5FSukIm1LBeKjbNjOneb5k) | 2:46 | 2022-08-19 | 2022-08-27 |
 | [Have A Good Time](https://open.spotify.com/track/7Mjp2UDsPGeWqCLFnKPP2v) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Have A Good Time](https://open.spotify.com/album/7AjXiy71zgyqiAw8iqtf9S) | 3:31 | 2023-08-04 | 2023-08-12 |
+| [Have A Nice Day](https://open.spotify.com/track/0thBkMCMf54NiTBWmCp8ZQ) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Have A Nice Day](https://open.spotify.com/album/2xXY6j7QVSz6rpqEU9q1Ha) | 4:35 | 2023-11-27 |  |
 | [Have To Be My Hometown](https://open.spotify.com/track/2plzl8tG38EVk1J0I70Dzh) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Have To Be My Hometown](https://open.spotify.com/album/08yDeszzlVIYUuLNnQkqit) | 2:33 | 2022-03-11 | 2022-03-26 |
 | [Have We Forgotten](https://open.spotify.com/track/5kJWyyYDsmZGvPq5kTqwJG) | [Darryl Worley](https://open.spotify.com/artist/4zIBkSJcqRp4ADuFI94WvO) | [Have We Forgotten](https://open.spotify.com/album/06G018rLOJH3CHgWu1m3ew) | 4:05 | 2023-06-30 | 2023-07-08 |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/1tKcX8hU4OeH8D5SwFB1Uk) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN), [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/5NR85nnHSR3UtFL0LwBQfz) | 3:21 | 2022-12-20 | 2022-12-27 |

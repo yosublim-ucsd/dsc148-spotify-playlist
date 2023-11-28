@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define but easy to love\. Cover: Lime Cordiale
 
-[Spotify](https://open.spotify.com/user/spotify) - 567,097 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 567,126 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 79 | [I Like It](https://open.spotify.com/track/3ouCBumDkGHdhIAHavtvya) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [I Like It](https://open.spotify.com/album/2dOegifzkyE9ZrdwW33tq4) | 3:01 |
 | 80 | [All White](https://open.spotify.com/track/60cnpF1CzUx286QwoPFwqv) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [All White](https://open.spotify.com/album/21jO577CzbYLBWg66ubYMH) | 3:42 |
 
-Snapshot ID: `MCw4YmNjMGMxNDhiOGM3MGQ4MjlmYzczOThjZWJiYjQyOTUyYzA0YmI0`
+Snapshot ID: `MCw4M2QxMjc5OGNkNWUzOGFhNjg1MDg0NTdmMDg2MTc4ZjJkOGZkYmJh`

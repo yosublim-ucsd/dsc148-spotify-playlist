@@ -1,12 +1,12 @@
 {
   "description": "wo hen lei (i'm very tired) ",
-  "num_followers": 53173,
+  "num_followers": 53221,
   "original_name": "tired lei",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzYxZmZjNzJiZGY5YjBjYjdmYjdjZDVlYTkwZThlNDhlMTIwNmQ5",
+  "snapshot_id": "MCxhZDkzZDVjN2QwYThmODMwZjBmNjhhODcwNDc5ZWU1MTBhNjlkNTRj",
   "tracks": [
     {
       "added_at": "2023-11-09 06:59:49",
@@ -139,6 +139,22 @@
     {
       "added_at": "2023-11-09 06:59:49",
       "album": {
+        "name": "Nicole",
+        "url": "https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 219040,
+      "name": "High School in Jakarta",
+      "url": "https://open.spotify.com/track/1zxfRSZcaonV1VXcY0PgY5"
+    },
+    {
+      "added_at": "2023-11-09 06:59:49",
+      "album": {
         "name": "my type",
         "url": "https://open.spotify.com/album/3qhn2VpMdGW7khh0FGXA9F"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 246225,
       "name": "Malampagi",
       "url": "https://open.spotify.com/track/6QV8eV3QVFp5upaTYjm7Xy"
-    },
-    {
-      "added_at": "2023-11-09 06:59:49",
-      "album": {
-        "name": "Nicole",
-        "url": "https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 219040,
-      "name": "High School in Jakarta",
-      "url": "https://open.spotify.com/track/1zxfRSZcaonV1VXcY0PgY5"
     },
     {
       "added_at": "2023-11-09 06:59:49",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-11-09 06:59:49",
       "album": {
-        "name": "confidence in me",
-        "url": "https://open.spotify.com/album/0UZuzKM4ofQQoQOJdZbjdv"
-      },
-      "artists": [
-        {
-          "name": "Rangga Jones",
-          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
-        }
-      ],
-      "duration_ms": 162151,
-      "name": "confidence in me",
-      "url": "https://open.spotify.com/track/5c1tswRpjj7Fyv9xb5a8RJ"
-    },
-    {
-      "added_at": "2023-11-09 06:59:49",
-      "album": {
         "name": "dear me,",
         "url": "https://open.spotify.com/album/1wsaqmb8RGkDS3bP5uOfcl"
       },
@@ -419,50 +403,18 @@
     {
       "added_at": "2023-11-09 06:59:49",
       "album": {
-        "name": "relationshit",
-        "url": "https://open.spotify.com/album/2VeUxfOnzVKks0UEX681m2"
+        "name": "confidence in me",
+        "url": "https://open.spotify.com/album/0UZuzKM4ofQQoQOJdZbjdv"
       },
       "artists": [
         {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
         }
       ],
-      "duration_ms": 178560,
-      "name": "do me right",
-      "url": "https://open.spotify.com/track/2GcypFJcULDmhmbqFdm9qi"
-    },
-    {
-      "added_at": "2023-11-09 06:59:49",
-      "album": {
-        "name": "Shortcut To Heaven",
-        "url": "https://open.spotify.com/album/1LzCyAXs0MWStAaFkFc4QJ"
-      },
-      "artists": [
-        {
-          "name": "lullaboy",
-          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
-        }
-      ],
-      "duration_ms": 184343,
-      "name": "Shortcut To Heaven",
-      "url": "https://open.spotify.com/track/0zL5fdl4CvAAYUG3dJVMqS"
-    },
-    {
-      "added_at": "2023-11-09 06:59:49",
-      "album": {
-        "name": "Dancing with my phone",
-        "url": "https://open.spotify.com/album/3IHG7xkPLLgsm1hSeMlxLH"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        }
-      ],
-      "duration_ms": 203532,
-      "name": "Dancing with my phone",
-      "url": "https://open.spotify.com/track/4Zh9zZmEBoDLTKQRjXwict"
+      "duration_ms": 162151,
+      "name": "confidence in me",
+      "url": "https://open.spotify.com/track/5c1tswRpjj7Fyv9xb5a8RJ"
     },
     {
       "added_at": "2023-11-09 06:59:49",
@@ -487,18 +439,18 @@
     {
       "added_at": "2023-11-09 06:59:49",
       "album": {
-        "name": "Summertime",
-        "url": "https://open.spotify.com/album/4a9Hd9lzmShHaquuyy2uKM"
+        "name": "Shortcut To Heaven",
+        "url": "https://open.spotify.com/album/1LzCyAXs0MWStAaFkFc4QJ"
       },
       "artists": [
         {
-          "name": "babychair",
-          "url": "https://open.spotify.com/artist/5wDdxgQC5djHDOI6AuTnuY"
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
         }
       ],
-      "duration_ms": 205552,
-      "name": "Oh It's You",
-      "url": "https://open.spotify.com/track/56vmm78xsrxvFMaJstBPKj"
+      "duration_ms": 184343,
+      "name": "Shortcut To Heaven",
+      "url": "https://open.spotify.com/track/0zL5fdl4CvAAYUG3dJVMqS"
     },
     {
       "added_at": "2023-11-09 06:59:49",
@@ -515,6 +467,54 @@
       "duration_ms": 151041,
       "name": "I Wouldn't Know Any Better Than You",
       "url": "https://open.spotify.com/track/3K8tRD2Prik7FXbD8lZ6DC"
+    },
+    {
+      "added_at": "2023-11-09 06:59:49",
+      "album": {
+        "name": "Dancing with my phone",
+        "url": "https://open.spotify.com/album/3IHG7xkPLLgsm1hSeMlxLH"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 203532,
+      "name": "Dancing with my phone",
+      "url": "https://open.spotify.com/track/4Zh9zZmEBoDLTKQRjXwict"
+    },
+    {
+      "added_at": "2023-11-09 06:59:49",
+      "album": {
+        "name": "relationshit",
+        "url": "https://open.spotify.com/album/2VeUxfOnzVKks0UEX681m2"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "do me right",
+      "url": "https://open.spotify.com/track/2GcypFJcULDmhmbqFdm9qi"
+    },
+    {
+      "added_at": "2023-11-09 06:59:49",
+      "album": {
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/4a9Hd9lzmShHaquuyy2uKM"
+      },
+      "artists": [
+        {
+          "name": "babychair",
+          "url": "https://open.spotify.com/artist/5wDdxgQC5djHDOI6AuTnuY"
+        }
+      ],
+      "duration_ms": 205552,
+      "name": "Oh It's You",
+      "url": "https://open.spotify.com/track/56vmm78xsrxvFMaJstBPKj"
     },
     {
       "added_at": "2023-11-09 06:59:49",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-11-09 06:59:49",
       "album": {
-        "name": "juice",
-        "url": "https://open.spotify.com/album/6DY3UVNU1qvSjY4HIiLkP2"
-      },
-      "artists": [
-        {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "juice",
-      "url": "https://open.spotify.com/track/0W1jDXkALMfPqheeSEEk5x"
-    },
-    {
-      "added_at": "2023-11-09 06:59:49",
-      "album": {
         "name": "van gogh",
         "url": "https://open.spotify.com/album/0Bnp7EKyjTpMfezafM4wHi"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 173540,
       "name": "van gogh",
       "url": "https://open.spotify.com/track/4bLCfhmTsNuZo3oQXviIA7"
+    },
+    {
+      "added_at": "2023-11-09 06:59:49",
+      "album": {
+        "name": "juice",
+        "url": "https://open.spotify.com/album/6DY3UVNU1qvSjY4HIiLkP2"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "juice",
+      "url": "https://open.spotify.com/track/0W1jDXkALMfPqheeSEEk5x"
     },
     {
       "added_at": "2023-11-09 06:59:49",
@@ -619,38 +619,6 @@
     {
       "added_at": "2023-11-09 06:59:49",
       "album": {
-        "name": "without me (sera)",
-        "url": "https://open.spotify.com/album/6tuz5NorXINANet6zv1qM1"
-      },
-      "artists": [
-        {
-          "name": "Nadhif Basalamah",
-          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
-        }
-      ],
-      "duration_ms": 219965,
-      "name": "without me (sera)",
-      "url": "https://open.spotify.com/track/3Fo63qSrhe1mJNdn9m33LW"
-    },
-    {
-      "added_at": "2023-11-09 06:59:49",
-      "album": {
-        "name": "Other Half",
-        "url": "https://open.spotify.com/album/72D3xzjyFXqw0006YxcEOv"
-      },
-      "artists": [
-        {
-          "name": "Rangga Jones",
-          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
-        }
-      ],
-      "duration_ms": 215647,
-      "name": "Other Half",
-      "url": "https://open.spotify.com/track/2gCh5vjwMIRldOwvXby3Qy"
-    },
-    {
-      "added_at": "2023-11-09 06:59:49",
-      "album": {
         "name": "Gentle Bones",
         "url": "https://open.spotify.com/album/1y2ye5sTKykfcAwRNPAmHC"
       },
@@ -671,6 +639,22 @@
     {
       "added_at": "2023-11-09 06:59:49",
       "album": {
+        "name": "without me (sera)",
+        "url": "https://open.spotify.com/album/6tuz5NorXINANet6zv1qM1"
+      },
+      "artists": [
+        {
+          "name": "Nadhif Basalamah",
+          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
+        }
+      ],
+      "duration_ms": 219965,
+      "name": "without me (sera)",
+      "url": "https://open.spotify.com/track/3Fo63qSrhe1mJNdn9m33LW"
+    },
+    {
+      "added_at": "2023-11-09 06:59:49",
+      "album": {
         "name": "Sakit",
         "url": "https://open.spotify.com/album/5uP44qzAYjTUveb8iNJccy"
       },
@@ -687,6 +671,42 @@
       "duration_ms": 221700,
       "name": "Sakit",
       "url": "https://open.spotify.com/track/2rAJy2WSlQOINaWi0kydkr"
+    },
+    {
+      "added_at": "2023-11-09 06:59:49",
+      "album": {
+        "name": "No One",
+        "url": "https://open.spotify.com/album/2h2DQrNPw1aDsuy8xO1GZY"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        },
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 157333,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/0qbZA3IPjeb8lBZ4SZtEHd"
+    },
+    {
+      "added_at": "2023-11-09 06:59:49",
+      "album": {
+        "name": "Other Half",
+        "url": "https://open.spotify.com/album/72D3xzjyFXqw0006YxcEOv"
+      },
+      "artists": [
+        {
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+        }
+      ],
+      "duration_ms": 215647,
+      "name": "Other Half",
+      "url": "https://open.spotify.com/track/2gCh5vjwMIRldOwvXby3Qy"
     },
     {
       "added_at": "2023-11-09 06:59:49",
@@ -719,26 +739,6 @@
       "duration_ms": 292760,
       "name": "Kotak Hati",
       "url": "https://open.spotify.com/track/0hS54SC4TZFc3N7cSuTz48"
-    },
-    {
-      "added_at": "2023-11-09 06:59:49",
-      "album": {
-        "name": "No One",
-        "url": "https://open.spotify.com/album/2h2DQrNPw1aDsuy8xO1GZY"
-      },
-      "artists": [
-        {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
-        },
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        }
-      ],
-      "duration_ms": 157333,
-      "name": "No One",
-      "url": "https://open.spotify.com/track/0qbZA3IPjeb8lBZ4SZtEHd"
     },
     {
       "added_at": "2023-11-09 06:59:49",
@@ -879,26 +879,6 @@
     {
       "added_at": "2023-11-09 06:59:49",
       "album": {
-        "name": "tired",
-        "url": "https://open.spotify.com/album/6NIR1zEyjL76C1aiyOWPLA"
-      },
-      "artists": [
-        {
-          "name": "yuji",
-          "url": "https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW"
-        },
-        {
-          "name": "asheu",
-          "url": "https://open.spotify.com/artist/3ft1JIPPDsSpFr6y6Xvqu3"
-        }
-      ],
-      "duration_ms": 144793,
-      "name": "tired",
-      "url": "https://open.spotify.com/track/55fNfPGUBeRWSvSStXU2b9"
-    },
-    {
-      "added_at": "2023-11-09 06:59:49",
-      "album": {
         "name": "Glory",
         "url": "https://open.spotify.com/album/51VWvFuTcJuqfvms0SLXQr"
       },
@@ -915,22 +895,6 @@
     {
       "added_at": "2023-11-09 06:59:49",
       "album": {
-        "name": "GEMINI",
-        "url": "https://open.spotify.com/album/52oE4nDKCn2ib916I5RzZW"
-      },
-      "artists": [
-        {
-          "name": "Ethan Low",
-          "url": "https://open.spotify.com/artist/09O5HSw8RO3aAnWNCADaKS"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "UNREQUITED",
-      "url": "https://open.spotify.com/track/2fTu2cGWAlpNmGDir37308"
-    },
-    {
-      "added_at": "2023-11-09 06:59:49",
-      "album": {
         "name": "Like All My Friends",
         "url": "https://open.spotify.com/album/41cZLPaKv1sqOsLdbeGGoq"
       },
@@ -943,6 +907,22 @@
       "duration_ms": 187918,
       "name": "Like All My Friends",
       "url": "https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo"
+    },
+    {
+      "added_at": "2023-11-09 06:59:49",
+      "album": {
+        "name": "GEMINI",
+        "url": "https://open.spotify.com/album/52oE4nDKCn2ib916I5RzZW"
+      },
+      "artists": [
+        {
+          "name": "Ethan Low",
+          "url": "https://open.spotify.com/artist/09O5HSw8RO3aAnWNCADaKS"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "UNREQUITED",
+      "url": "https://open.spotify.com/track/2fTu2cGWAlpNmGDir37308"
     },
     {
       "added_at": "2023-11-09 06:59:49",
@@ -979,6 +959,26 @@
       "duration_ms": 203990,
       "name": "Bedroom (feat. Anne-Marie)",
       "url": "https://open.spotify.com/track/2TkAUHBaCReXruGnMVPGNL"
+    },
+    {
+      "added_at": "2023-11-09 06:59:49",
+      "album": {
+        "name": "tired",
+        "url": "https://open.spotify.com/album/6NIR1zEyjL76C1aiyOWPLA"
+      },
+      "artists": [
+        {
+          "name": "yuji",
+          "url": "https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW"
+        },
+        {
+          "name": "asheu",
+          "url": "https://open.spotify.com/artist/3ft1JIPPDsSpFr6y6Xvqu3"
+        }
+      ],
+      "duration_ms": 144793,
+      "name": "tired",
+      "url": "https://open.spotify.com/track/55fNfPGUBeRWSvSStXU2b9"
     },
     {
       "added_at": "2023-11-09 06:59:49",

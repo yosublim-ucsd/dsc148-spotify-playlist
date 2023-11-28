@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-2,074 songs - 4 day 14 hr 21 min
+2,075 songs - 4 day 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -877,7 +877,7 @@
 | [Irish Pub Song](https://open.spotify.com/track/6zX3HwSuoQThrabeoHJvCs) | [The High Kings](https://open.spotify.com/artist/6wXjctGBzxkT0ghwfQ8FC0) | [Irish Pub Song](https://open.spotify.com/album/5QTxZhvepeEKUMVdKlT0M8) | 3:00 | 2023-03-19 | 2023-03-22 |
 | [IRL](https://open.spotify.com/track/0Mh7nzWn5BHJSenmaUSEt6) | [Bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [MJONSZU](https://open.spotify.com/artist/4h0vqFFUqp5yFQ7K3dyJD8) | [IRL](https://open.spotify.com/album/4Aimo27fuTWEN871U2TQ5H) | 2:31 | 2023-03-07 | 2023-03-11 |
 | [Is It Over Now? \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:49 | 2023-11-15 | 2023-11-22 |
-| [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 | 2023-10-17 |  |
+| [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 | 2023-10-17 | 2023-11-28 |
 | [IT GIRL \- Sped up Version](https://open.spotify.com/track/1uwMSX0OAZO5jzX2GqTjYV) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL \(Sped up Version\)](https://open.spotify.com/album/4OXIscygWnydT362qnaKGK) | 2:35 | 2023-10-24 | 2023-11-08 |
 | [It'll Be Okay](https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [It'll Be Okay](https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r) | 3:42 | 2021-12-28 | 2022-01-05 |
 | [It's a Beautiful Day \(Reprise\)](https://open.spotify.com/track/2lujnKdLiRVjcueFs648AW) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Rushawn](https://open.spotify.com/artist/7rL0vdXxFkfSWJ46p57yfB) | [It's a Beautiful Day \(Reprise\)](https://open.spotify.com/album/5qfhVKlZEaGiHFCZ86oKts) | 2:42 | 2023-01-10 | 2023-02-11 |
@@ -1039,6 +1039,7 @@
 | [Let's Go 4](https://open.spotify.com/track/2InS5VWKJQbsFBKOsf1cJB) | [Dj GBR](https://open.spotify.com/artist/0IhzJFf4QBEz0ifqLwScKV), [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Mc Luki](https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv), [TrapLaudo](https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [MC GH do 7](https://open.spotify.com/artist/5XUMgbLR3zyRPesnTQY31C) | [Let's Go 4](https://open.spotify.com/album/5bL1JfGehas80YH7qoCyBL) | 10:41 | 2023-10-03 | 2023-10-18 |
 | [Leylim Yar](https://open.spotify.com/track/26uWcQnnhCXzkjM7OqVFlj) | [Canbay & Wolker](https://open.spotify.com/artist/1hgaXjbAcED2p80Lj8dzXT) | [Leylim Yar](https://open.spotify.com/album/4fHmkc1XqsWmUQrT8Wd0qs) | 2:43 | 2022-04-05 | 2022-04-27 |
 | [Leão](https://open.spotify.com/track/2K9kZpwD2CzTa6iiSYYOoO) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais, Vol\. 2](https://open.spotify.com/album/44GonyeOgM1vGc9uHpoimf) | 2:46 | 2023-01-03 | 2023-02-06 |
+| [life gets hard](https://open.spotify.com/track/3acsNhkPp9gHSsamIsw0xO) | [iilliaa](https://open.spotify.com/artist/3XDX6PbRtAzovlF2DnoT5F) | [life gets hard](https://open.spotify.com/album/5u6aeRDXBKNwJxKSUcykEj) | 2:05 | 2023-11-27 |  |
 | [Lift Me Up](https://open.spotify.com/track/6sCvvleqKbeyOkQDieBYgp) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 3:16 | 2022-11-22 | 2022-11-29 |
 | [Ligaya](https://open.spotify.com/track/3sJKnpDvliJ9OH4cORjatB) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Ligaya](https://open.spotify.com/album/0k85IwWv2bdmLKU9ZVgIEe) | 4:08 | 2021-12-27 | 2022-01-04 |
 | [Light Switch](https://open.spotify.com/track/3AVXwaOGCEL8cmBecfcsFJ) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Light Switch \(Instrumental\)](https://open.spotify.com/album/4RRj9PqBj79OFDB2ydM7qs) | 3:05 | 2022-02-15 | 2022-02-22 |

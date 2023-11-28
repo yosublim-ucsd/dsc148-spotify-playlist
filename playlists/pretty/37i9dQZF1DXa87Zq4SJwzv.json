@@ -1,12 +1,12 @@
 {
   "description": "\ud83c\udf08 AMOR ES AMOR \ud83c\udf08",
-  "num_followers": 48262,
+  "num_followers": 48338,
   "original_name": "Amor Libre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOWFkOTU4MzA4NzJmNmU5NjE2NTc3YTJjOGMxMGQ5MmU5MDI5NjJh",
+  "snapshot_id": "MCw4NDJhNmQ3OTllZTMzYzQxNmQyZTE4NjM3NGEzYTlhYjliMmU2ZWE2",
   "tracks": [
     {
       "added_at": "2023-09-01 15:14:04",
@@ -235,26 +235,6 @@
     {
       "added_at": "2023-09-01 15:14:04",
       "album": {
-        "name": "El Mismo Aire (con Pablo Albor\u00e1n)",
-        "url": "https://open.spotify.com/album/3E3coJkwv6rbqUTiw1qLZ6"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 188213,
-      "name": "El Mismo Aire - con Pablo Albor\u00e1n",
-      "url": "https://open.spotify.com/track/5EbtodsuLbxrFDH6j5avVS"
-    },
-    {
-      "added_at": "2023-09-01 15:14:04",
-      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -295,6 +275,26 @@
     {
       "added_at": "2023-09-01 15:14:04",
       "album": {
+        "name": "El Mismo Aire (con Pablo Albor\u00e1n)",
+        "url": "https://open.spotify.com/album/3E3coJkwv6rbqUTiw1qLZ6"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 188213,
+      "name": "El Mismo Aire - con Pablo Albor\u00e1n",
+      "url": "https://open.spotify.com/track/5EbtodsuLbxrFDH6j5avVS"
+    },
+    {
+      "added_at": "2023-09-01 15:14:04",
+      "album": {
         "name": "Nuez",
         "url": "https://open.spotify.com/album/05UGoDqdTiORAjyrt5wtlT"
       },
@@ -327,22 +327,6 @@
       "duration_ms": 275373,
       "name": "Duele El Amor",
       "url": "https://open.spotify.com/track/0oXLSuno5adlHcPzlzs8l6"
-    },
-    {
-      "added_at": "2023-09-01 15:14:04",
-      "album": {
-        "name": "Soy Yo",
-        "url": "https://open.spotify.com/album/4HqL9DDTbrqBUFb6Pswcki"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Para Siempre",
-      "url": "https://open.spotify.com/track/3w6HBymB6v99gmhz4aiX1g"
     },
     {
       "added_at": "2023-09-01 15:14:04",
@@ -395,6 +379,22 @@
     {
       "added_at": "2023-09-01 15:14:04",
       "album": {
+        "name": "Soy Yo",
+        "url": "https://open.spotify.com/album/4HqL9DDTbrqBUFb6Pswcki"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/3w6HBymB6v99gmhz4aiX1g"
+    },
+    {
+      "added_at": "2023-09-01 15:14:04",
+      "album": {
         "name": "Eres Diamante",
         "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
       },
@@ -423,6 +423,30 @@
       "duration_ms": 281520,
       "name": "Az\u00facar Amargo",
       "url": "https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj"
+    },
+    {
+      "added_at": "2023-09-01 15:14:04",
+      "album": {
+        "name": "Ricky Martin MTV Unplugged",
+        "url": "https://open.spotify.com/album/7qhZvYXFgsaSzuukZw9WCM"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "Lamari",
+          "url": "https://open.spotify.com/artist/1Rv4Ogfu7pg6QMo09XWtWK"
+        },
+        {
+          "name": "Tommy Torres",
+          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
+        }
+      ],
+      "duration_ms": 247866,
+      "name": "Tu Recuerdo (feat. La Mari De Chambao & Tommy Torres) - MTV Unplugged Version",
+      "url": "https://open.spotify.com/track/61hJK3EfAd1LDk7x5OrCTc"
     },
     {
       "added_at": "2023-09-01 15:14:04",
@@ -475,30 +499,6 @@
     {
       "added_at": "2023-09-01 15:14:04",
       "album": {
-        "name": "Ricky Martin MTV Unplugged",
-        "url": "https://open.spotify.com/album/7qhZvYXFgsaSzuukZw9WCM"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        },
-        {
-          "name": "Lamari",
-          "url": "https://open.spotify.com/artist/1Rv4Ogfu7pg6QMo09XWtWK"
-        },
-        {
-          "name": "Tommy Torres",
-          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
-        }
-      ],
-      "duration_ms": 247866,
-      "name": "Tu Recuerdo (feat. La Mari De Chambao & Tommy Torres) - MTV Unplugged Version",
-      "url": "https://open.spotify.com/track/61hJK3EfAd1LDk7x5OrCTc"
-    },
-    {
-      "added_at": "2023-09-01 15:14:04",
-      "album": {
         "name": "El Sexto Sentido (Re+Loaded)",
         "url": "https://open.spotify.com/album/3kHeN0vyKHdjNO5YOnCt2r"
       },
@@ -531,6 +531,22 @@
       "duration_ms": 224786,
       "name": "Ni Una Sola Palabra",
       "url": "https://open.spotify.com/track/4oCqda0opcaXQPjoAhhcfg"
+    },
+    {
+      "added_at": "2023-09-01 15:14:04",
+      "album": {
+        "name": "A Medio Vivir",
+        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
+      "url": "https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ"
     },
     {
       "added_at": "2023-09-01 15:14:04",
@@ -611,22 +627,6 @@
       "duration_ms": 206053,
       "name": "Yo Te Dir\u00e9",
       "url": "https://open.spotify.com/track/45dWn7gzWdxNO15dPzWRSV"
-    },
-    {
-      "added_at": "2023-09-01 15:14:04",
-      "album": {
-        "name": "A Medio Vivir",
-        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
-      "url": "https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ"
     },
     {
       "added_at": "2023-09-01 15:14:04",
@@ -743,6 +743,26 @@
     {
       "added_at": "2023-09-01 15:14:04",
       "album": {
+        "name": "Ca\u00f3tica Belleza",
+        "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 237880,
+      "name": "Ca\u00f3tica Belleza",
+      "url": "https://open.spotify.com/track/2mb51571ds4q4XcOP23rF1"
+    },
+    {
+      "added_at": "2023-09-01 15:14:04",
+      "album": {
         "name": "Laura Pausini: 25 Aniversario (Spanish Version)",
         "url": "https://open.spotify.com/album/0EXcVDePo397i4Um4vGxGs"
       },
@@ -771,26 +791,6 @@
       "duration_ms": 125706,
       "name": "Fr\u00edo",
       "url": "https://open.spotify.com/track/3DImzJpL5NWczgmWBlIo3X"
-    },
-    {
-      "added_at": "2023-09-01 15:14:04",
-      "album": {
-        "name": "Ca\u00f3tica Belleza",
-        "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 237880,
-      "name": "Ca\u00f3tica Belleza",
-      "url": "https://open.spotify.com/track/2mb51571ds4q4XcOP23rF1"
     },
     {
       "added_at": "2023-09-01 15:14:04",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-09-01 15:14:04",
       "album": {
-        "name": "Otra Era",
-        "url": "https://open.spotify.com/album/1Ag7xE38iyJ4NzzbRSpvah"
-      },
-      "artists": [
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 244979,
-      "name": "Otra Era",
-      "url": "https://open.spotify.com/track/0D8qIsQZvrXmClkyp19Lsl"
-    },
-    {
-      "added_at": "2023-09-01 15:14:04",
-      "album": {
         "name": "Monoambiente en Capital",
         "url": "https://open.spotify.com/album/1HjSFjgizVFIZ9c1aG9VC7"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 181087,
       "name": "Monoambiente en Capital",
       "url": "https://open.spotify.com/track/1prdmkn7pO2S0FJChx0fN4"
+    },
+    {
+      "added_at": "2023-09-01 15:14:04",
+      "album": {
+        "name": "Otra Era",
+        "url": "https://open.spotify.com/album/1Ag7xE38iyJ4NzzbRSpvah"
+      },
+      "artists": [
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "duration_ms": 244979,
+      "name": "Otra Era",
+      "url": "https://open.spotify.com/track/0D8qIsQZvrXmClkyp19Lsl"
     },
     {
       "added_at": "2023-09-01 15:14:04",
@@ -919,6 +919,26 @@
     {
       "added_at": "2023-09-01 15:14:04",
       "album": {
+        "name": "Bailemos en la Sala",
+        "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
+      },
+      "artists": [
+        {
+          "name": "Adrian Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 211400,
+      "name": "Una Noche M\u00e1s",
+      "url": "https://open.spotify.com/track/42yqhdvpet3rMgwnfbibh8"
+    },
+    {
+      "added_at": "2023-09-01 15:14:04",
+      "album": {
         "name": "me gusta que me gustes",
         "url": "https://open.spotify.com/album/6acoBVsjADxdd7qpUwfMcv"
       },
@@ -963,42 +983,6 @@
       "duration_ms": 235909,
       "name": "AYER",
       "url": "https://open.spotify.com/track/35Wj0cnOM2lm3tOlv75xOR"
-    },
-    {
-      "added_at": "2023-09-01 15:14:04",
-      "album": {
-        "name": "SMS",
-        "url": "https://open.spotify.com/album/2D2JNUc0IzRwyiDR8X2sHh"
-      },
-      "artists": [
-        {
-          "name": "Salvapantallas",
-          "url": "https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK"
-        }
-      ],
-      "duration_ms": 170447,
-      "name": "El Mirador",
-      "url": "https://open.spotify.com/track/0PIUMPLmzEAKBp3AHU5wzK"
-    },
-    {
-      "added_at": "2023-09-01 15:14:04",
-      "album": {
-        "name": "Bailemos en la Sala",
-        "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
-      },
-      "artists": [
-        {
-          "name": "Adrian Bello",
-          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 211400,
-      "name": "Una Noche M\u00e1s",
-      "url": "https://open.spotify.com/track/42yqhdvpet3rMgwnfbibh8"
     },
     {
       "added_at": "2023-09-01 15:14:04",
@@ -1051,6 +1035,22 @@
       "duration_ms": 212293,
       "name": "Qui\u00e9n Como T\u00fa",
       "url": "https://open.spotify.com/track/0G8Z54XEe5ArAcefdEwRNs"
+    },
+    {
+      "added_at": "2023-09-01 15:14:04",
+      "album": {
+        "name": "SMS",
+        "url": "https://open.spotify.com/album/2D2JNUc0IzRwyiDR8X2sHh"
+      },
+      "artists": [
+        {
+          "name": "Salvapantallas",
+          "url": "https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK"
+        }
+      ],
+      "duration_ms": 170447,
+      "name": "El Mirador",
+      "url": "https://open.spotify.com/track/0PIUMPLmzEAKBp3AHU5wzK"
     },
     {
       "added_at": "2023-09-01 15:14:04",

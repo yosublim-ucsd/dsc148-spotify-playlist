@@ -1,12 +1,12 @@
 {
   "description": "Soft and cozy acoustic covers of famous songs.",
-  "num_followers": 1133471,
+  "num_followers": 1133482,
   "original_name": "Chill Acoustic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZWZmMDg0Mzk3YWYwYTQ4N2UwYjllNGU0ODMxOGEyNmYwZTJmOTk4",
+  "snapshot_id": "MCw1MDA3MWQwZGY3YTU1YzI5ZGYwZmE4YzUxMGVlZmU5MTA2NjMzNWQ5",
   "tracks": [
     {
       "added_at": "2023-11-24 00:01:00",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Overpass Graffiti",
-        "url": "https://open.spotify.com/album/3df7YWbL6GcTWdqht33UVC"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 226603,
-      "name": "Overpass Graffiti",
-      "url": "https://open.spotify.com/track/3tob5ofeuvFKKSbOTldenC"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Sex is on fire",
         "url": "https://open.spotify.com/album/1NRuLsxSpZ3gMJMyKgN93e"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 163833,
       "name": "Sex is on fire",
       "url": "https://open.spotify.com/track/32zqCfMfVFcitjp8BMEWv1"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Overpass Graffiti",
+        "url": "https://open.spotify.com/album/3df7YWbL6GcTWdqht33UVC"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 226603,
+      "name": "Overpass Graffiti",
+      "url": "https://open.spotify.com/track/3tob5ofeuvFKKSbOTldenC"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -255,38 +255,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "she's all i wanna be",
-        "url": "https://open.spotify.com/album/4yCSGabeo8VEeETk6fg6ul"
-      },
-      "artists": [
-        {
-          "name": "who's heather",
-          "url": "https://open.spotify.com/artist/7LCGqAuRA0aJc7pQYfJSq8"
-        }
-      ],
-      "duration_ms": 197357,
-      "name": "she's all i wanna be",
-      "url": "https://open.spotify.com/track/6Dbz3vfI07Ox7QDZTSkNuJ"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
-        "name": "Heat Waves",
-        "url": "https://open.spotify.com/album/4icxeGhI7CsymABWI8RQCb"
-      },
-      "artists": [
-        {
-          "name": "Bailey Jehl",
-          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
-        }
-      ],
-      "duration_ms": 141286,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/4efRaNW2VgDf3pjbm8y4tr"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Latch",
         "url": "https://open.spotify.com/album/1QsdrtvYuAKSDuSyW1VikU"
       },
@@ -303,18 +271,18 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "As It Was",
-        "url": "https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V"
+        "name": "she's all i wanna be",
+        "url": "https://open.spotify.com/album/4yCSGabeo8VEeETk6fg6ul"
       },
       "artists": [
         {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+          "name": "who's heather",
+          "url": "https://open.spotify.com/artist/7LCGqAuRA0aJc7pQYfJSq8"
         }
       ],
-      "duration_ms": 176542,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp"
+      "duration_ms": 197357,
+      "name": "she's all i wanna be",
+      "url": "https://open.spotify.com/track/6Dbz3vfI07Ox7QDZTSkNuJ"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -335,6 +303,38 @@
       "duration_ms": 155188,
       "name": "Lonely (with benny blanco) - Acoustic",
       "url": "https://open.spotify.com/track/4fKiuIavbsoTRZ6R7xuAyT"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Heat Waves",
+        "url": "https://open.spotify.com/album/4icxeGhI7CsymABWI8RQCb"
+      },
+      "artists": [
+        {
+          "name": "Bailey Jehl",
+          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
+        }
+      ],
+      "duration_ms": 141286,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/4efRaNW2VgDf3pjbm8y4tr"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 176542,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "WHAT THE HELL ARE WE DYING FOR?",
-        "url": "https://open.spotify.com/album/7pbeE2xmYADDOEjd3H62xA"
-      },
-      "artists": [
-        {
-          "name": "Macy Ellen",
-          "url": "https://open.spotify.com/artist/3KwkTBHTZViURYGQrl266L"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "WHAT THE HELL ARE WE DYING FOR?",
-      "url": "https://open.spotify.com/track/1fsOH02E5iqS6xZZY7UOpd"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Back to Black",
         "url": "https://open.spotify.com/album/0DdRnqnWtdfkdvHHSEbBj9"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 183674,
       "name": "Back to Black",
       "url": "https://open.spotify.com/track/0rXY3tl4TSgF2iBKCeX9qi"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "WHAT THE HELL ARE WE DYING FOR?",
+        "url": "https://open.spotify.com/album/7pbeE2xmYADDOEjd3H62xA"
+      },
+      "artists": [
+        {
+          "name": "Macy Ellen",
+          "url": "https://open.spotify.com/artist/3KwkTBHTZViURYGQrl266L"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "WHAT THE HELL ARE WE DYING FOR?",
+      "url": "https://open.spotify.com/track/1fsOH02E5iqS6xZZY7UOpd"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Love Or Something Like It",
-        "url": "https://open.spotify.com/album/2NiB630yD0PdHvjcDLJwQz"
-      },
-      "artists": [
-        {
-          "name": "Jenny Thorn",
-          "url": "https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9"
-        }
-      ],
-      "duration_ms": 172741,
-      "name": "Love Or Something Like It",
-      "url": "https://open.spotify.com/track/5eyR23bfxuwk2zykBxf2Xp"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "I Was Never There",
         "url": "https://open.spotify.com/album/6bGak7iAgHBHdtz1wXuzyz"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 179383,
       "name": "I Was Never There",
       "url": "https://open.spotify.com/track/2boE2b7Lrin4bf410UKhSe"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Love Or Something Like It",
+        "url": "https://open.spotify.com/album/2NiB630yD0PdHvjcDLJwQz"
+      },
+      "artists": [
+        {
+          "name": "Jenny Thorn",
+          "url": "https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9"
+        }
+      ],
+      "duration_ms": 172741,
+      "name": "Love Or Something Like It",
+      "url": "https://open.spotify.com/track/5eyR23bfxuwk2zykBxf2Xp"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "The Scientist",
-        "url": "https://open.spotify.com/album/4kDxuNIvOMJrQSDthpruse"
-      },
-      "artists": [
-        {
-          "name": "SKAAR",
-          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
-        }
-      ],
-      "duration_ms": 275732,
-      "name": "The Scientist",
-      "url": "https://open.spotify.com/track/4HYRVbQHz6xOtpoh9RB3pt"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "what if",
         "url": "https://open.spotify.com/album/1W5ECbG8ihdhKRkRpVEWNq"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 201666,
       "name": "what if",
       "url": "https://open.spotify.com/track/0osUQtTOZphz3EEHOtTKJl"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "The Scientist",
+        "url": "https://open.spotify.com/album/4kDxuNIvOMJrQSDthpruse"
+      },
+      "artists": [
+        {
+          "name": "SKAAR",
+          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
+        }
+      ],
+      "duration_ms": 275732,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/4HYRVbQHz6xOtpoh9RB3pt"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "In The Meantime",
-        "url": "https://open.spotify.com/album/1th9BtaPuSyzyXHcXvqIZk"
-      },
-      "artists": [
-        {
-          "name": "Nora Levario",
-          "url": "https://open.spotify.com/artist/43F7L6jcGu1F0TpEmS27mw"
-        }
-      ],
-      "duration_ms": 178966,
-      "name": "In The Meantime",
-      "url": "https://open.spotify.com/track/36bfoyLUV3h3UXZ7thFMhb"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "I'm On Fire",
         "url": "https://open.spotify.com/album/5pNvKAPlizwG6HPssbLkDo"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 174857,
       "name": "I'm On Fire",
       "url": "https://open.spotify.com/track/0eCghBykmPeS3LMMnJpVcr"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "In The Meantime",
+        "url": "https://open.spotify.com/album/1th9BtaPuSyzyXHcXvqIZk"
+      },
+      "artists": [
+        {
+          "name": "Nora Levario",
+          "url": "https://open.spotify.com/artist/43F7L6jcGu1F0TpEmS27mw"
+        }
+      ],
+      "duration_ms": 178966,
+      "name": "In The Meantime",
+      "url": "https://open.spotify.com/track/36bfoyLUV3h3UXZ7thFMhb"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Kiss An Angel Good Mornin'",
-        "url": "https://open.spotify.com/album/4UubPvWcnV1C4zxFQgC895"
-      },
-      "artists": [
-        {
-          "name": "Xochi Krausse",
-          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
-        }
-      ],
-      "duration_ms": 164785,
-      "name": "Kiss An Angel Good Mornin'",
-      "url": "https://open.spotify.com/track/3RAqqEjitdBdItCphiZAdQ"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Let Me Get Close To You",
         "url": "https://open.spotify.com/album/4CT8wnGqcV82n4fNaAwiPC"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 211058,
       "name": "Let Me Get Close To You",
       "url": "https://open.spotify.com/track/5ujmTMn6J5vrt9ppLlxtaQ"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Kiss An Angel Good Mornin'",
+        "url": "https://open.spotify.com/album/4UubPvWcnV1C4zxFQgC895"
+      },
+      "artists": [
+        {
+          "name": "Xochi Krausse",
+          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
+        }
+      ],
+      "duration_ms": 164785,
+      "name": "Kiss An Angel Good Mornin'",
+      "url": "https://open.spotify.com/track/3RAqqEjitdBdItCphiZAdQ"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Crazy Love",
-        "url": "https://open.spotify.com/album/3ssxRD3YsdiESDBhp42uiy"
-      },
-      "artists": [
-        {
-          "name": "Xochi Krausse",
-          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
-        }
-      ],
-      "duration_ms": 192461,
-      "name": "Crazy Love",
-      "url": "https://open.spotify.com/track/5zIJSNhDKaBsSlgbkcBS8Q"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Kissing Other People (Acoustic)",
         "url": "https://open.spotify.com/album/1OkuJQhcqBAbxBD7Hbhi0T"
       },
@@ -995,18 +979,18 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Arcade",
-        "url": "https://open.spotify.com/album/0c5J1SUFA3rPbIZhK1kj62"
+        "name": "Crazy Love",
+        "url": "https://open.spotify.com/album/3ssxRD3YsdiESDBhp42uiy"
       },
       "artists": [
         {
-          "name": "Bailey Jehl",
-          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
+          "name": "Xochi Krausse",
+          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
         }
       ],
-      "duration_ms": 148015,
-      "name": "Arcade",
-      "url": "https://open.spotify.com/track/1h80wgwF7yRWVL8hhcECwy"
+      "duration_ms": 192461,
+      "name": "Crazy Love",
+      "url": "https://open.spotify.com/track/5zIJSNhDKaBsSlgbkcBS8Q"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1027,22 +1011,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Cold Heart",
-        "url": "https://open.spotify.com/album/4NMkTYIoBBwwgNTTMooXKl"
-      },
-      "artists": [
-        {
-          "name": "Clementine Duo",
-          "url": "https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2"
-        }
-      ],
-      "duration_ms": 188742,
-      "name": "Cold Heart",
-      "url": "https://open.spotify.com/track/6iWWtmXJckNTOA57xqiGNo"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Fake Plastic Trees",
         "url": "https://open.spotify.com/album/6HeM8ZTANrAREphp6jQ5Ym"
       },
@@ -1055,6 +1023,38 @@
       "duration_ms": 260000,
       "name": "Fake Plastic Trees",
       "url": "https://open.spotify.com/track/2wVoRTUczkumuqcgNlRnLa"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Arcade",
+        "url": "https://open.spotify.com/album/0c5J1SUFA3rPbIZhK1kj62"
+      },
+      "artists": [
+        {
+          "name": "Bailey Jehl",
+          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
+        }
+      ],
+      "duration_ms": 148015,
+      "name": "Arcade",
+      "url": "https://open.spotify.com/track/1h80wgwF7yRWVL8hhcECwy"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Cold Heart",
+        "url": "https://open.spotify.com/album/4NMkTYIoBBwwgNTTMooXKl"
+      },
+      "artists": [
+        {
+          "name": "Clementine Duo",
+          "url": "https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2"
+        }
+      ],
+      "duration_ms": 188742,
+      "name": "Cold Heart",
+      "url": "https://open.spotify.com/track/6iWWtmXJckNTOA57xqiGNo"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/4ESX1cbhfchPo9HXYwethh"
-      },
-      "artists": [
-        {
-          "name": "Fox & Hart",
-          "url": "https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH"
-        }
-      ],
-      "duration_ms": 214260,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/1AOKBOPdN4pnULaZsp362f"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Jealous (Acoustic)",
         "url": "https://open.spotify.com/album/2ZF0az5U4LXBf9whGXDLVg"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 211639,
       "name": "Jealous (Acoustic)",
       "url": "https://open.spotify.com/track/24De0ebxOCeIgrkuPknUUX"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/4ESX1cbhfchPo9HXYwethh"
+      },
+      "artists": [
+        {
+          "name": "Fox & Hart",
+          "url": "https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH"
+        }
+      ],
+      "duration_ms": 214260,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/1AOKBOPdN4pnULaZsp362f"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "How to save a life - Acoustic version",
-        "url": "https://open.spotify.com/album/2EKwCG3Kl1zrhIPhLpC353"
-      },
-      "artists": [
-        {
-          "name": "VDVM",
-          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
-        }
-      ],
-      "duration_ms": 207824,
-      "name": "How to save a life - Acoustic version",
-      "url": "https://open.spotify.com/track/7HGtkOGnbN42cQpktxHq1i"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "WITHOUT ME",
         "url": "https://open.spotify.com/album/2aVLd13zIVKYBysTP5JTir"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 180998,
       "name": "WITHOUT ME",
       "url": "https://open.spotify.com/track/5K17WcyVoqa4lugxn5RcxP"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "How to save a life - Acoustic version",
+        "url": "https://open.spotify.com/album/2EKwCG3Kl1zrhIPhLpC353"
+      },
+      "artists": [
+        {
+          "name": "VDVM",
+          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
+        }
+      ],
+      "duration_ms": 207824,
+      "name": "How to save a life - Acoustic version",
+      "url": "https://open.spotify.com/track/7HGtkOGnbN42cQpktxHq1i"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/7r7rQgJcP9VU2uDV4uQfJo"
+      },
+      "artists": [
+        {
+          "name": "NTMY",
+          "url": "https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR"
+        }
+      ],
+      "duration_ms": 179745,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/7aq8uaeA9Uo1yu7HkiEGcG"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
         "name": "Pillowtalk",
         "url": "https://open.spotify.com/album/5Q4v3WlXy542KhJUVIs9oz"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 225316,
       "name": "All That I Need",
       "url": "https://open.spotify.com/track/2htuDl6TWC2cxia8ZTdBSU"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/7r7rQgJcP9VU2uDV4uQfJo"
-      },
-      "artists": [
-        {
-          "name": "NTMY",
-          "url": "https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR"
-        }
-      ],
-      "duration_ms": 179745,
-      "name": "Boyfriend",
-      "url": "https://open.spotify.com/track/7aq8uaeA9Uo1yu7HkiEGcG"
     },
     {
       "added_at": "2023-11-24 00:01:00",

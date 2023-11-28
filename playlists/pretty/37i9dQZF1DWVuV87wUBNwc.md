@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuV87wUBNwc.md) - [plain]
 
 > Dua Lipa au sommet de la première playlist de France.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,203,377 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,203,767 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuV87wUBNwc.md) - [plain]
 | 49 | [Parapluie](https://open.spotify.com/track/4CkbzYcdIRJhrA9tzwFj0B) | [Jeck](https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf) | [Parapluie](https://open.spotify.com/album/1iA5D7sBXDGAITkSWPIqDF) | 2:56 |
 | 50 | [TOO MUCH](https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [TOO MUCH](https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR) | 3:23 |
 
-Snapshot ID: `MCw1MTEzNTZjODNhYmRjMWZmY2Q3YTQyM2I1NTFmZGNiODliY2EyZTcw`
+Snapshot ID: `MCw5NzBkODhkNTNlMjNmMmZmYzY2NTM3NTU5YjIyMDdlZjIwNzcxNTVj`

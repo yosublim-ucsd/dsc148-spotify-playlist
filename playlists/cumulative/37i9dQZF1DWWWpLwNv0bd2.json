@@ -2227,6 +2227,32 @@
     },
     {
       "album": {
+        "name": "ANIMAL (TAMIL)",
+        "url": "https://open.spotify.com/album/3yrlWcsNHitJZxlMBZLbOB"
+      },
+      "artists": [
+        {
+          "name": "Raghav Chaitanya",
+          "url": "https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK"
+        },
+        {
+          "name": "Mohan Rajan",
+          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
+        },
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275526,
+      "name": "Nee Vaadi",
+      "url": "https://open.spotify.com/track/3ynz8Qsc8Cu1Dlm5jay7Eg"
+    },
+    {
+      "album": {
         "name": "Neethanadi (From \"Enna Solla Pogirai\")",
         "url": "https://open.spotify.com/album/0WtJQoUW14v8LbJNb4yIJg"
       },

@@ -1,12 +1,12 @@
 {
   "description": "pop punk, emo, post-hardcore, alt, & more. Cover: Four Year Strong",
-  "num_followers": 456238,
+  "num_followers": 456256,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYWFjODFlOTBjNzIyMzkzMWJjZTViM2FmNjBkM2JlNDViNjZkM2M0",
+  "snapshot_id": "MCw0MDNlNDExZjM1MmVhMDRiNzBjYjEzOTJlYzM4ODZmYjViZDRlMjEw",
   "tracks": [
     {
       "added_at": "2023-11-10 05:00:00",
@@ -615,18 +615,26 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Friends With Your EX",
-        "url": "https://open.spotify.com/album/6Lv24dBmFka5bThmdwMCOn"
+        "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
+        "url": "https://open.spotify.com/album/2tgx0FJj6dtx3GzTm1Jbbd"
       },
       "artists": [
         {
-          "name": "Landon Barker",
-          "url": "https://open.spotify.com/artist/7tWnepocfeqynsYC75hWoF"
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        },
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        },
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
         }
       ],
-      "duration_ms": 118933,
-      "name": "Friends With Your EX",
-      "url": "https://open.spotify.com/track/5dLhmqJRJiV0RyRwv7VUdv"
+      "duration_ms": 207280,
+      "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
+      "url": "https://open.spotify.com/track/0IPKskRI33eRXjUhNUr9b5"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -663,26 +671,18 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
-        "url": "https://open.spotify.com/album/2tgx0FJj6dtx3GzTm1Jbbd"
+        "name": "Friends With Your EX",
+        "url": "https://open.spotify.com/album/6Lv24dBmFka5bThmdwMCOn"
       },
       "artists": [
         {
-          "name": "The Maine",
-          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
-        },
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        },
-        {
-          "name": "Charlotte Sands",
-          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+          "name": "Landon Barker",
+          "url": "https://open.spotify.com/artist/7tWnepocfeqynsYC75hWoF"
         }
       ],
-      "duration_ms": 207280,
-      "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
-      "url": "https://open.spotify.com/track/0IPKskRI33eRXjUhNUr9b5"
+      "duration_ms": 118933,
+      "name": "Friends With Your EX",
+      "url": "https://open.spotify.com/track/5dLhmqJRJiV0RyRwv7VUdv"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Wishing You Hell",
-        "url": "https://open.spotify.com/album/1JbhrcxEaF8NnGdxjTTnsa"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        }
-      ],
-      "duration_ms": 194892,
-      "name": "Wishing You Hell",
-      "url": "https://open.spotify.com/track/5wqujlOPZBrYe1YFMpReEd"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "in loving memory",
         "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 191559,
       "name": "toxic energy (with Bert McCracken of The Used)",
       "url": "https://open.spotify.com/track/01tEAvdPLPREA9JT9Wpb26"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Wishing You Hell",
+        "url": "https://open.spotify.com/album/1JbhrcxEaF8NnGdxjTTnsa"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 194892,
+      "name": "Wishing You Hell",
+      "url": "https://open.spotify.com/track/5wqujlOPZBrYe1YFMpReEd"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "I'm So Good At Being Alone?",
+        "url": "https://open.spotify.com/album/3USnuRvSzhPtYAYoz0xgvN"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "duration_ms": 158028,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/7pqr7LOy8p7UKOuZhQBrf6"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "Kings of the New Age",
         "url": "https://open.spotify.com/album/2BZ8KjxTb0pNNKFwQmG1j9"
       },
@@ -1483,22 +1499,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "I'm So Good At Being Alone?",
-        "url": "https://open.spotify.com/album/3USnuRvSzhPtYAYoz0xgvN"
-      },
-      "artists": [
-        {
-          "name": "Knox",
-          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
-        }
-      ],
-      "duration_ms": 158028,
-      "name": "Love Letter",
-      "url": "https://open.spotify.com/track/7pqr7LOy8p7UKOuZhQBrf6"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Re-Entry (feat. Mark Hoppus)",
         "url": "https://open.spotify.com/album/1HVOuAKPRBI8oBT76slmdv"
       },
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "The Storm",
-        "url": "https://open.spotify.com/album/3JDUl3oKejH3cGOLBFlJgf"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 173614,
-      "name": "The Storm",
-      "url": "https://open.spotify.com/track/7dK3KXph8IKzuMo89sh6Kg"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Circling the Drain",
         "url": "https://open.spotify.com/album/4qX60Bh8duOt4rWkZ3oK2g"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 229192,
       "name": "Circling the Drain",
       "url": "https://open.spotify.com/track/5HNNu02Psy9WwWNuNlLlie"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "The Storm",
+        "url": "https://open.spotify.com/album/3JDUl3oKejH3cGOLBFlJgf"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 173614,
+      "name": "The Storm",
+      "url": "https://open.spotify.com/track/7dK3KXph8IKzuMo89sh6Kg"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "I Hope Hell Isn't Real",
+        "url": "https://open.spotify.com/album/3DMrlbRSB4rYDwsL1yNw8H"
+      },
+      "artists": [
+        {
+          "name": "Roe Kapara",
+          "url": "https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw"
+        }
+      ],
+      "duration_ms": 134271,
+      "name": "This Time Last Week",
+      "url": "https://open.spotify.com/track/3HPw07nh0KYvJFdkbrMnkW"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "AUTUMNAL",
         "url": "https://open.spotify.com/album/0I1nxkEyVyGhBwE1ZI6SXe"
       },
@@ -1679,18 +1695,18 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "I Hope Hell Isn't Real",
-        "url": "https://open.spotify.com/album/3DMrlbRSB4rYDwsL1yNw8H"
+        "name": "More Like A Crash",
+        "url": "https://open.spotify.com/album/6s7dcsTRvTLnz06RJCdJ8a"
       },
       "artists": [
         {
-          "name": "Roe Kapara",
-          "url": "https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw"
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
         }
       ],
-      "duration_ms": 134271,
-      "name": "This Time Last Week",
-      "url": "https://open.spotify.com/track/3HPw07nh0KYvJFdkbrMnkW"
+      "duration_ms": 167880,
+      "name": "More Like A Crash",
+      "url": "https://open.spotify.com/track/7aw0W5ESpmUoRUWrNtSC2y"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1747,22 +1763,6 @@
       "duration_ms": 183350,
       "name": "Plastic Heart",
       "url": "https://open.spotify.com/track/4hfA3mKxMHm7cOdFHMcfen"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "More Like A Crash",
-        "url": "https://open.spotify.com/album/6s7dcsTRvTLnz06RJCdJ8a"
-      },
-      "artists": [
-        {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
-        }
-      ],
-      "duration_ms": 167880,
-      "name": "More Like A Crash",
-      "url": "https://open.spotify.com/track/7aw0W5ESpmUoRUWrNtSC2y"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Crawl II",
-        "url": "https://open.spotify.com/album/3CTvjgbFrgEiv8dSm05M6k"
-      },
-      "artists": [
-        {
-          "name": "Slow Joy",
-          "url": "https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "Crawl II",
-      "url": "https://open.spotify.com/track/30mJq8ujEDX7Y3pUus8PUb"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "YEAH!",
         "url": "https://open.spotify.com/album/46ot2yrvPoFe2I8i6AsRXc"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 182911,
       "name": "YEAH!",
       "url": "https://open.spotify.com/track/2bgJCXFcRZkedHVpjOZO52"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Crawl II",
+        "url": "https://open.spotify.com/album/3CTvjgbFrgEiv8dSm05M6k"
+      },
+      "artists": [
+        {
+          "name": "Slow Joy",
+          "url": "https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Crawl II",
+      "url": "https://open.spotify.com/track/30mJq8ujEDX7Y3pUus8PUb"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Tell Me You're Sorry",
-        "url": "https://open.spotify.com/album/1uJm8Z3D7UDvcxYppBm08N"
-      },
-      "artists": [
-        {
-          "name": "Real Friends",
-          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
-        }
-      ],
-      "duration_ms": 168705,
-      "name": "Tell Me You're Sorry",
-      "url": "https://open.spotify.com/track/5NKcjYtLkYbh5nn1yMIG7H"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Cigarettes",
         "url": "https://open.spotify.com/album/6wpL9zVLAjk8G8mlR6mq4H"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 156673,
       "name": "Cigarettes",
       "url": "https://open.spotify.com/track/3tl9B6c07WZujRH2FP5hKA"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Tell Me You're Sorry",
+        "url": "https://open.spotify.com/album/1uJm8Z3D7UDvcxYppBm08N"
+      },
+      "artists": [
+        {
+          "name": "Real Friends",
+          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
+        }
+      ],
+      "duration_ms": 168705,
+      "name": "Tell Me You're Sorry",
+      "url": "https://open.spotify.com/track/5NKcjYtLkYbh5nn1yMIG7H"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -2035,6 +2035,22 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "This Won't Go Over Well",
+        "url": "https://open.spotify.com/album/4Nxlb1mo54gPu2bXibj259"
+      },
+      "artists": [
+        {
+          "name": "The Haunt",
+          "url": "https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p"
+        }
+      ],
+      "duration_ms": 204197,
+      "name": "This Won't Go Over Well",
+      "url": "https://open.spotify.com/track/4WNJmm4Xv8d0ELJgowypjT"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "Heart To Heart",
         "url": "https://open.spotify.com/album/1RKGfcA6p650pXnS8iirDU"
       },
@@ -2055,22 +2071,6 @@
       "duration_ms": 218400,
       "name": "Heart To Heart",
       "url": "https://open.spotify.com/track/5yuVgliuMEcgFcEwNCTfiz"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "This Won't Go Over Well",
-        "url": "https://open.spotify.com/album/4Nxlb1mo54gPu2bXibj259"
-      },
-      "artists": [
-        {
-          "name": "The Haunt",
-          "url": "https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p"
-        }
-      ],
-      "duration_ms": 204197,
-      "name": "This Won't Go Over Well",
-      "url": "https://open.spotify.com/track/4WNJmm4Xv8d0ELJgowypjT"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -2123,22 +2123,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Pretty Boy",
-        "url": "https://open.spotify.com/album/4FGat65ksk32oqquDxtFSQ"
-      },
-      "artists": [
-        {
-          "name": "Games We Play",
-          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
-        }
-      ],
-      "duration_ms": 175113,
-      "name": "Pretty Boy",
-      "url": "https://open.spotify.com/track/0YsIuTjyAx31Eaun9LP7Ye"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "how could you do this to me? feat. Kellin Quinn from Sleeping With Sirens",
         "url": "https://open.spotify.com/album/5d9zUPulqyPiHYS48HbkX0"
       },
@@ -2155,6 +2139,22 @@
       "duration_ms": 160000,
       "name": "how could you do this to me? feat. Kellin Quinn from Sleeping With Sirens",
       "url": "https://open.spotify.com/track/6jhBI8HZ1qxetz13hjL1PE"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Pretty Boy",
+        "url": "https://open.spotify.com/album/4FGat65ksk32oqquDxtFSQ"
+      },
+      "artists": [
+        {
+          "name": "Games We Play",
+          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
+        }
+      ],
+      "duration_ms": 175113,
+      "name": "Pretty Boy",
+      "url": "https://open.spotify.com/track/0YsIuTjyAx31Eaun9LP7Ye"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -2207,22 +2207,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "GENRELESS",
-        "url": "https://open.spotify.com/album/7kTqaUsZea6CxLpvgzRA3E"
-      },
-      "artists": [
-        {
-          "name": "LESANE",
-          "url": "https://open.spotify.com/artist/57N1gBU2XPgJH1f8UPBW7L"
-        }
-      ],
-      "duration_ms": 101650,
-      "name": "COLD BEER",
-      "url": "https://open.spotify.com/track/5pYO1LrXa4dbO2SxSliUhs"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "MY BRAIN AFTER THERAPY",
         "url": "https://open.spotify.com/album/7seqztJ0fn7NCs4YD7cCag"
       },
@@ -2243,6 +2227,22 @@
       "duration_ms": 141352,
       "name": "AFTER THERAPY (feat. Hot Mulligan)",
       "url": "https://open.spotify.com/track/6SuaNvXzk4kADnudvmd5EN"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "GENRELESS",
+        "url": "https://open.spotify.com/album/7kTqaUsZea6CxLpvgzRA3E"
+      },
+      "artists": [
+        {
+          "name": "LESANE",
+          "url": "https://open.spotify.com/artist/57N1gBU2XPgJH1f8UPBW7L"
+        }
+      ],
+      "duration_ms": 101650,
+      "name": "COLD BEER",
+      "url": "https://open.spotify.com/track/5pYO1LrXa4dbO2SxSliUhs"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -2279,22 +2279,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Six Feet",
-        "url": "https://open.spotify.com/album/1xFWyudHW6mEh3WYHPRRSI"
-      },
-      "artists": [
-        {
-          "name": "Real Friends",
-          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
-        }
-      ],
-      "duration_ms": 181580,
-      "name": "Six Feet",
-      "url": "https://open.spotify.com/track/2aU60JTvtQOPQ7CPkpJrnz"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Thanks but No Thanks",
         "url": "https://open.spotify.com/album/67uepYH5WaYipVDJnkWXyT"
       },
@@ -2307,6 +2291,22 @@
       "duration_ms": 186440,
       "name": "i heard they found you face down inside your living room",
       "url": "https://open.spotify.com/track/10lsv64UUfs9OSZyRG4aeB"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Six Feet",
+        "url": "https://open.spotify.com/album/1xFWyudHW6mEh3WYHPRRSI"
+      },
+      "artists": [
+        {
+          "name": "Real Friends",
+          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
+        }
+      ],
+      "duration_ms": 181580,
+      "name": "Six Feet",
+      "url": "https://open.spotify.com/track/2aU60JTvtQOPQ7CPkpJrnz"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -2359,6 +2359,22 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "More Like A Crash",
+        "url": "https://open.spotify.com/album/6s7dcsTRvTLnz06RJCdJ8a"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "duration_ms": 193814,
+      "name": "Got Me All Wrong",
+      "url": "https://open.spotify.com/track/7cuViZlN2fB8gKPFqYD7I0"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "CYAN1DE (feat. Pete Wentz)",
         "url": "https://open.spotify.com/album/10fQxebU1iCQ64dLuNcjMR"
       },
@@ -2399,22 +2415,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "More Like A Crash",
-        "url": "https://open.spotify.com/album/6s7dcsTRvTLnz06RJCdJ8a"
-      },
-      "artists": [
-        {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
-        }
-      ],
-      "duration_ms": 193814,
-      "name": "Got Me All Wrong",
-      "url": "https://open.spotify.com/track/7cuViZlN2fB8gKPFqYD7I0"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Teenagers",
         "url": "https://open.spotify.com/album/5TfVRbdmzVVrg9adogpSIo"
       },
@@ -2447,6 +2447,22 @@
       "duration_ms": 185294,
       "name": "Carousel",
       "url": "https://open.spotify.com/track/0kNU85u2uCl9k9zAJLfo9T"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Got It Bad",
+        "url": "https://open.spotify.com/album/6WZd03wQTPEW9drn8GLkDz"
+      },
+      "artists": [
+        {
+          "name": "Daisy Grenade",
+          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
+        }
+      ],
+      "duration_ms": 178804,
+      "name": "Got It Bad",
+      "url": "https://open.spotify.com/track/5xpFAhYwM5ITYFEW5y5BER"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -2515,22 +2531,6 @@
       "duration_ms": 217417,
       "name": "Do You Like Me Now (feat. Kellin Quinn of Sleeping With Sirens)",
       "url": "https://open.spotify.com/track/7Fjr0lI9QUhW31LKMVOba9"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Got It Bad",
-        "url": "https://open.spotify.com/album/6WZd03wQTPEW9drn8GLkDz"
-      },
-      "artists": [
-        {
-          "name": "Daisy Grenade",
-          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
-        }
-      ],
-      "duration_ms": 178804,
-      "name": "Got It Bad",
-      "url": "https://open.spotify.com/track/5xpFAhYwM5ITYFEW5y5BER"
     },
     {
       "added_at": "2023-11-10 05:00:00",

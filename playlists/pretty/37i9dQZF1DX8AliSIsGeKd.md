@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Township Rebellion
 
-[Spotify](https://open.spotify.com/user/spotify) - 621,849 likes - 91 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 622,020 likes - 91 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 90 | [EST](https://open.spotify.com/track/1ojCQ0v59O77rKZbwN8aQh) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [EST](https://open.spotify.com/album/0uTa7zuhN42yVclpAkJL9i) | 5:36 |
 | 91 | [It's All Yours](https://open.spotify.com/track/0sD8btPVrOl5RcEZFoc4A4) | [Dapayk & Padberg](https://open.spotify.com/artist/0CSUa2tToUsyQZYhQPPhyl) | [It's All Yours](https://open.spotify.com/album/72T5KCki9iRKjn24G5EtGN) | 3:06 |
 
-Snapshot ID: `MCxkZWQ5YWM0Y2I3NjlhNDBjZjMxYjI1NmUyODJiOGE1MGM3YmI0ZjQ1`
+Snapshot ID: `MCwwNTAwYTljMGRhY2NkMzQyMWY0NmFiOTFmYjljNzU2NWI0MDVmYjQ1`

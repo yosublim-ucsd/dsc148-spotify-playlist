@@ -4,7 +4,7 @@
 
 > The best indie dance tracks of the moment\. Cover: Mindchatter
 
-1,037 songs - 2 day 18 hr 54 min
+1,038 songs - 2 day 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -887,6 +887,7 @@
 | [Take You Higher](https://open.spotify.com/track/5Gj093wqSqVk6AEaAh28la) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Take You Higher](https://open.spotify.com/album/5W8X4NeQ4uVb2HFfqauzzB) | 3:48 | 2021-05-28 | 2022-07-28 |
 | [Taking Over The Sun](https://open.spotify.com/track/0Ac5WPWNBr4p3xcllMMIbN) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Taking Over The Sun](https://open.spotify.com/album/73WU3UtIqgnGKhTR8Cj90l) | 3:49 | 2022-06-03 | 2023-01-06 |
 | [Talk It Over](https://open.spotify.com/track/0XafrYWJ9cIiJW5klEDHAa) | [Yorina](https://open.spotify.com/artist/3zrsuumoPW6KbZmBX2X7qC), [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01) | [Talk It Over](https://open.spotify.com/album/2GzF4J8KOdoZIjYJa2JH4X) | 4:17 | 2023-06-30 | 2023-08-26 |
+| [Talk Tonight](https://open.spotify.com/track/1ELp8T7arWLvK5q34Akt0r) | [Jersey](https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ) | [The World I'm Searching For](https://open.spotify.com/album/740kshLk68k7I9KSXFi8Hg) | 4:32 | 2023-11-27 |  |
 | [Tantrum \(Pace Yourself\)](https://open.spotify.com/track/2kdrWIKIhCulhFBAzd4Sed) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Tantrum \(Pace Yourself\)](https://open.spotify.com/album/61SNblTHomXBXufr1FM9Qt) | 2:03 | 2022-12-16 | 2023-01-06 |
 | [Tape](https://open.spotify.com/track/1pb2THB2CjcDmg8Fw2uS5Y) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Blush EP](https://open.spotify.com/album/3VOe1zgRaflxH5R0RuqUTu) | 3:56 | 2022-04-08 | 2022-07-16 |
 | [Tartaruga](https://open.spotify.com/track/0CFwsncuCbp6qkW8C0dtSZ) | [carbeau](https://open.spotify.com/artist/5MOkquoZnhyJEcXBpVHR2j) | [Madrugada](https://open.spotify.com/album/2enL7M75Dt4yGg6qodIhfm) | 3:40 | 2023-06-09 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Björk & Rosalía
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,216 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,240 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 79 | [The Last One](https://open.spotify.com/track/6VKGPwLUO7nki5cDXT3gvQ) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch \(Deluxe\)](https://open.spotify.com/album/0YniOccoeVuymVK8Lpb7VR) | 3:59 |
 | 80 | [Happy Cars](https://open.spotify.com/track/00yseVGAUk5VMh9OD4BSRv) | [Peace](https://open.spotify.com/artist/2O9XW1nnGRMkMV1wpK8IiS) | [Happy Cars](https://open.spotify.com/album/0GMlRNkhMhknJZ8oVLpEXw) | 3:17 |
 
-Snapshot ID: `MCwwOWQ5Nzg4ZGIyZDA1NjU5MzQ3MjI3YzIyYWIwYmI5ZDcwMWNlN2I1`
+Snapshot ID: `MCw5YWRlOGQ5ODFkZmNlYTRiNzI0NTNjYzA2OTZlZWQ0YTYxN2IyZDQ5`

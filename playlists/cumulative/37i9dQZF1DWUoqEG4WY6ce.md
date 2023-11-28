@@ -4,7 +4,7 @@
 
 > Hop in.
 
-331 songs - 21 hr 14 min
+332 songs - 21 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [All The Time](https://open.spotify.com/track/0qI1W6chJgvrSAzAkX9JBa) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Bahamas Is Afie](https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK) | 3:54 | 2022-07-03 |  |
 | [All The Time](https://open.spotify.com/track/40WXqoyOLAAugGmJWZU1FY) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Bahamas is Afie](https://open.spotify.com/album/5UXWs03dk4KTJioTAqQKWv) | 3:54 | 2021-01-15 | 2022-07-29 |
 | [All Yours](https://open.spotify.com/track/1LAzF3sa7k3QrOKtpCVgLJ) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [All Yours](https://open.spotify.com/album/3P2vcYCOMzyQThpAnmCTi2) | 3:42 | 2021-01-15 | 2022-04-30 |
-| [Amadeus](https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S) | [Family and Friends](https://open.spotify.com/artist/2AmW5LU0vqfHoN2qvghRFe) | [XOXO](https://open.spotify.com/album/1SX20zgyjlyqjHSzOTmqxf) | 3:27 | 2021-10-10 |  |
+| [Amadeus](https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S) | [Family and Friends](https://open.spotify.com/artist/2AmW5LU0vqfHoN2qvghRFe) | [XOXO](https://open.spotify.com/album/1SX20zgyjlyqjHSzOTmqxf) | 3:27 | 2021-10-10 | 2023-11-28 |
 | [Amalfi](https://open.spotify.com/track/6eEqRaK4SQWJ4vJjc4295m) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ) | [A Billion Little Lights](https://open.spotify.com/album/5Hj9DO1au6m5BcdosyjODG) | 4:16 | 2021-06-28 | 2022-07-29 |
 | [Animal](https://open.spotify.com/track/6vSq5q5DCs1IvwKIq53hj2) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Miike Snow](https://open.spotify.com/album/3EqIz9KGQakhATc71OGQQi) | 4:23 | 2022-07-03 |  |
 | [Another Story](https://open.spotify.com/track/1JxNWpK9xTWKRPoYTIX4Qk) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Let's Be Still](https://open.spotify.com/album/1SUZhiJWtX4NKS0KChC0vf) | 4:34 | 2020-10-29\* | 2022-05-19 |
@@ -249,6 +249,7 @@
 | [Sheep](https://open.spotify.com/track/2fEcMBdl3BUmPclvQKSBfV) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Mt\. Joy](https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01) | 3:43 | 2021-01-15 |  |
 | [Sister Of Pearl](https://open.spotify.com/track/0lYRAsWNDdUhGMftqH0RVG) | [Baio](https://open.spotify.com/artist/50lhyY7UVI9NyVHl79rVgk) | [The Names](https://open.spotify.com/album/3sGS3ZC4Nb5OAO4vgGF3zF) | 4:13 | 2021-10-10 | 2021-10-16 |
 | [So Says I](https://open.spotify.com/track/1ZOHZ37YIHnVn8dEpNIEhp) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Chutes Too Narrow](https://open.spotify.com/album/3oTaAwwFP9OhWto75g0nJc) | 2:48 | 2020-10-29\* | 2022-04-28 |
+| [Sofa King](https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:16 | 2023-09-29 |  |
 | [Someday](https://open.spotify.com/track/7hm4HTk9encxT0LYC0J6oI) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:03 | 2022-05-04 |  |
 | [Someone To Spend Time With](https://open.spotify.com/track/0qQ9VcVPkWDTnff6HIhISU) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Someone To Spend Time With](https://open.spotify.com/album/7MNOeNJ9RJgDJ2EPEbsIRv) | 2:53 | 2020-10-29\* | 2021-10-16 |
 | [Something Here](https://open.spotify.com/track/2GmyXvtaXmKLFrnMZOPpm9) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [The Days We Had](https://open.spotify.com/album/3sCy5TccyaA81TwhdLW66l) | 4:05 | 2021-01-15 | 2022-07-29 |

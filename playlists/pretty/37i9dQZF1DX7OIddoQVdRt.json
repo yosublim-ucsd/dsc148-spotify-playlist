@@ -1,12 +1,12 @@
 {
   "description": "Experience the powerful messages and sounds of the current hits and classic Gospel songs.  Guest curated by: <a href=\"spotify:artist:4akybxRTGHJZ1DXjLhJ1qu\">Kirk Franklin</a>",
-  "num_followers": 630029,
+  "num_followers": 630099,
   "original_name": "Spread the Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOGE1ZDhjZDhhOGFhM2FmOWMwM2FjNDFiNGI2MGFkMTNhMzY0Y2Y3",
+  "snapshot_id": "MCxkNjU0OTI0YTU1YjUzMmE3OTc2YWJlMTM3ZmVlNTE0YmRlZDYyNmFi",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -447,6 +447,26 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Any Attack",
+        "url": "https://open.spotify.com/album/4ExHApgVElRUkAatEQYFgg"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        }
+      ],
+      "duration_ms": 113051,
+      "name": "Any Attack",
+      "url": "https://open.spotify.com/track/0RPgPDZ7hoAJRyaS7uTF3y"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "We Gon\u2019 Be Alright",
         "url": "https://open.spotify.com/album/7mlzDISRd3IcS4MFf0Cuxb"
       },
@@ -479,26 +499,6 @@
       "duration_ms": 302102,
       "name": "Able",
       "url": "https://open.spotify.com/track/736A53Kw337Z5zrJhH24jP"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Any Attack",
-        "url": "https://open.spotify.com/album/4ExHApgVElRUkAatEQYFgg"
-      },
-      "artists": [
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        },
-        {
-          "name": "1K Phew",
-          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
-        }
-      ],
-      "duration_ms": 113051,
-      "name": "Any Attack",
-      "url": "https://open.spotify.com/track/0RPgPDZ7hoAJRyaS7uTF3y"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "When I Pray",
-        "url": "https://open.spotify.com/album/1bxHNtHkMIs2P3vGy1QVcl"
-      },
-      "artists": [
-        {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
-        }
-      ],
-      "duration_ms": 221915,
-      "name": "When I Pray",
-      "url": "https://open.spotify.com/track/6cwhJE7pYWON7vv9kwVvEt"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "More Than Anything (Radio Edit)",
         "url": "https://open.spotify.com/album/1fdSuqqPJUPRgJqiQpvUtc"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 260120,
       "name": "More Than Anything (Radio Edit)",
       "url": "https://open.spotify.com/track/0mVB0IVgOK7P1G77ZHTMc5"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "When I Pray",
+        "url": "https://open.spotify.com/album/1bxHNtHkMIs2P3vGy1QVcl"
+      },
+      "artists": [
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        }
+      ],
+      "duration_ms": 221915,
+      "name": "When I Pray",
+      "url": "https://open.spotify.com/track/6cwhJE7pYWON7vv9kwVvEt"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "I See Miracles",
+        "url": "https://open.spotify.com/album/09PFJeifkOxQbhkhV8igtM"
+      },
+      "artists": [
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        }
+      ],
+      "duration_ms": 260431,
+      "name": "I See Miracles",
+      "url": "https://open.spotify.com/track/4c11HmomjkYU2wf9maxf17"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "I Still Have You",
         "url": "https://open.spotify.com/album/2de2aejtRsBb5cbnZB5Orc"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 283040,
       "name": "You Don't Know - Bonus Track",
       "url": "https://open.spotify.com/track/4EU4M5kgRPhnCBtWS6SJgt"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "I See Miracles",
-        "url": "https://open.spotify.com/album/09PFJeifkOxQbhkhV8igtM"
-      },
-      "artists": [
-        {
-          "name": "Jekalyn Carr",
-          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
-        }
-      ],
-      "duration_ms": 260431,
-      "name": "I See Miracles",
-      "url": "https://open.spotify.com/track/4c11HmomjkYU2wf9maxf17"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -927,18 +927,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Forever Yours",
-        "url": "https://open.spotify.com/album/3Cgcc6Op5ciiCTubUMjI88"
+        "name": "Work It Out (Live)",
+        "url": "https://open.spotify.com/album/5fcf47GvauNXh7yGACSXpQ"
       },
       "artists": [
         {
-          "name": "Smokie Norful",
-          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 244133,
-      "name": "I Need A Word",
-      "url": "https://open.spotify.com/track/4RLL0qL4Tvoq4l5e8hV2FS"
+      "duration_ms": 320955,
+      "name": "Work It Out - Live",
+      "url": "https://open.spotify.com/track/1SDaYLQD1C9twbdZYsNcbX"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -955,22 +955,6 @@
       "duration_ms": 323877,
       "name": "I Need You (Live)",
       "url": "https://open.spotify.com/track/5nNZ8eGlitET1yeFHvizpI"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Work It Out (Live)",
-        "url": "https://open.spotify.com/album/5fcf47GvauNXh7yGACSXpQ"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 320955,
-      "name": "Work It Out - Live",
-      "url": "https://open.spotify.com/track/1SDaYLQD1C9twbdZYsNcbX"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1019,6 +1003,38 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Forever Yours",
+        "url": "https://open.spotify.com/album/3Cgcc6Op5ciiCTubUMjI88"
+      },
+      "artists": [
+        {
+          "name": "Smokie Norful",
+          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
+        }
+      ],
+      "duration_ms": 244133,
+      "name": "I Need A Word",
+      "url": "https://open.spotify.com/track/4RLL0qL4Tvoq4l5e8hV2FS"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Positive",
+        "url": "https://open.spotify.com/album/0fDXqBt38kAOHMwRpdfmQC"
+      },
+      "artists": [
+        {
+          "name": "Erica Campbell",
+          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
+        }
+      ],
+      "duration_ms": 211203,
+      "name": "Positive",
+      "url": "https://open.spotify.com/track/67LfMxyAh3vAwCR2yZPFhg"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Gospel According To PJ",
         "url": "https://open.spotify.com/album/03sl2epNRPGXu64WL36RsO"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 232345,
       "name": "Gotta Have You (feat. Kirk Franklin, Jermaine Dolly & Lena Byrd Miles)",
       "url": "https://open.spotify.com/track/7sua3EElbSneVDxEVDzgX4"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Positive",
-        "url": "https://open.spotify.com/album/0fDXqBt38kAOHMwRpdfmQC"
-      },
-      "artists": [
-        {
-          "name": "Erica Campbell",
-          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
-        }
-      ],
-      "duration_ms": 211203,
-      "name": "Positive",
-      "url": "https://open.spotify.com/track/67LfMxyAh3vAwCR2yZPFhg"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1107,6 +1107,22 @@
       "duration_ms": 345625,
       "name": "You",
       "url": "https://open.spotify.com/track/23w95m3xuLxEyqaIMFYDrY"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Dear Future Me",
+        "url": "https://open.spotify.com/album/3di3Ns3BssEWFGZ8QeLZSt"
+      },
+      "artists": [
+        {
+          "name": "James Fortune",
+          "url": "https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH"
+        }
+      ],
+      "duration_ms": 276423,
+      "name": "I Forgive Me",
+      "url": "https://open.spotify.com/track/3nY9M5V1T62fOwRJieUkJd"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1167,22 +1183,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Dear Future Me",
-        "url": "https://open.spotify.com/album/3di3Ns3BssEWFGZ8QeLZSt"
-      },
-      "artists": [
-        {
-          "name": "James Fortune",
-          "url": "https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH"
-        }
-      ],
-      "duration_ms": 276423,
-      "name": "I Forgive Me",
-      "url": "https://open.spotify.com/track/3nY9M5V1T62fOwRJieUkJd"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "I Am (Radio Edit)",
         "url": "https://open.spotify.com/album/5xnXnNzG7FUUrIZdiTxYot"
       },
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "I Got Out",
-        "url": "https://open.spotify.com/album/07nqs2VsHDslrmhlMsCjke"
-      },
-      "artists": [
-        {
-          "name": "Bryan Popin",
-          "url": "https://open.spotify.com/artist/6jfghB5jl6RMXoiXqldVhz"
-        }
-      ],
-      "duration_ms": 297653,
-      "name": "I Got Out",
-      "url": "https://open.spotify.com/track/29mZrqJI0XyyUvVMo2edpk"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "I'm Good",
         "url": "https://open.spotify.com/album/4L1qVMFTElNgKI8TdRyn77"
       },
@@ -1247,18 +1231,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Mr. McClure",
-        "url": "https://open.spotify.com/album/0q9anux1BAeqdaulGxibU7"
+        "name": "I Got Out",
+        "url": "https://open.spotify.com/album/07nqs2VsHDslrmhlMsCjke"
       },
       "artists": [
         {
-          "name": "Pastor Mike Jr.",
-          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+          "name": "Bryan Popin",
+          "url": "https://open.spotify.com/artist/6jfghB5jl6RMXoiXqldVhz"
         }
       ],
-      "duration_ms": 197254,
-      "name": "Mr. McClure",
-      "url": "https://open.spotify.com/track/32FopMR4tx27RZMkXmkyvV"
+      "duration_ms": 297653,
+      "name": "I Got Out",
+      "url": "https://open.spotify.com/track/29mZrqJI0XyyUvVMo2edpk"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Royalty: Live At The Ryman",
-        "url": "https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw"
+        "name": "Mr. McClure",
+        "url": "https://open.spotify.com/album/0q9anux1BAeqdaulGxibU7"
       },
       "artists": [
         {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
         }
       ],
-      "duration_ms": 481167,
-      "name": "You\u2019re Gonna Get The Glory - Live",
-      "url": "https://open.spotify.com/track/54DSYJ4UJS9Me8sdpuZlAT"
+      "duration_ms": 197254,
+      "name": "Mr. McClure",
+      "url": "https://open.spotify.com/track/32FopMR4tx27RZMkXmkyvV"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1307,6 +1291,22 @@
       "duration_ms": 153853,
       "name": "Winning",
       "url": "https://open.spotify.com/track/2uqJYeTxahjp300qzVHBSP"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Royalty: Live At The Ryman",
+        "url": "https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 481167,
+      "name": "You\u2019re Gonna Get The Glory - Live",
+      "url": "https://open.spotify.com/track/54DSYJ4UJS9Me8sdpuZlAT"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "The Moment (Live)",
-        "url": "https://open.spotify.com/album/3eUR0CKGUe8P2JyY06eqhO"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 441386,
-      "name": "The Moment - Live",
-      "url": "https://open.spotify.com/track/4ZpWNJauplyo3AnV8LlJdw"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Impossible",
         "url": "https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai"
       },
@@ -1419,22 +1403,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Zacardi Cortez",
-        "url": "https://open.spotify.com/album/6lqXXtJpXKLAJO9M287IGo"
-      },
-      "artists": [
-        {
-          "name": "Zacardi Cortez",
-          "url": "https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp"
-        }
-      ],
-      "duration_ms": 259906,
-      "name": "One More Time",
-      "url": "https://open.spotify.com/track/5nMWOR0iuCl0OJnHAtnj2T"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Better Days (Live)",
         "url": "https://open.spotify.com/album/57XaIqrhGfRe5MYGLxa27k"
       },
@@ -1459,18 +1427,34 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Open Door (See You Later)",
-        "url": "https://open.spotify.com/album/79GeSVwspNCUizEmG84J4M"
+        "name": "Zacardi Cortez",
+        "url": "https://open.spotify.com/album/6lqXXtJpXKLAJO9M287IGo"
       },
       "artists": [
         {
-          "name": "Christon Gray",
-          "url": "https://open.spotify.com/artist/0gOMnWbGP52F3paKcp5Ts2"
+          "name": "Zacardi Cortez",
+          "url": "https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp"
         }
       ],
-      "duration_ms": 255786,
-      "name": "Open Door (See You Later)",
-      "url": "https://open.spotify.com/track/6OtxcWnKrgxoFjcwV8WBBy"
+      "duration_ms": 259906,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/5nMWOR0iuCl0OJnHAtnj2T"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "The Moment (Live)",
+        "url": "https://open.spotify.com/album/3eUR0CKGUe8P2JyY06eqhO"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 441386,
+      "name": "The Moment - Live",
+      "url": "https://open.spotify.com/track/4ZpWNJauplyo3AnV8LlJdw"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1487,6 +1471,22 @@
       "duration_ms": 273356,
       "name": "No Reason To Fear (Radio Edit)",
       "url": "https://open.spotify.com/track/2IMipb7dosMwZbeGbom49K"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Open Door (See You Later)",
+        "url": "https://open.spotify.com/album/79GeSVwspNCUizEmG84J4M"
+      },
+      "artists": [
+        {
+          "name": "Christon Gray",
+          "url": "https://open.spotify.com/artist/0gOMnWbGP52F3paKcp5Ts2"
+        }
+      ],
+      "duration_ms": 255786,
+      "name": "Open Door (See You Later)",
+      "url": "https://open.spotify.com/track/6OtxcWnKrgxoFjcwV8WBBy"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1543,6 +1543,30 @@
       "duration_ms": 250107,
       "name": "Never Gonna Break My Faith (feat. The Boys Choir of Harlem)",
       "url": "https://open.spotify.com/track/24l5ku1oI5KdZpF0dLDjAd"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Not Holding Back",
+        "url": "https://open.spotify.com/album/4xYwMKxTffmhIZwJKLsMlR"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Melissa Bethea",
+          "url": "https://open.spotify.com/artist/5ZNL1Clv5oR6hDVEVGSSrg"
+        }
+      ],
+      "duration_ms": 747716,
+      "name": "Not Holding Back",
+      "url": "https://open.spotify.com/track/3648FGKvPaB9jJ6SszwiXD"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1651,26 +1675,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Good & Loved (feat. DOE) [Stellars 2020]",
-        "url": "https://open.spotify.com/album/7B5wHZpsUCI2Y7uQ3fWQVz"
-      },
-      "artists": [
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        },
-        {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
-        }
-      ],
-      "duration_ms": 232232,
-      "name": "Good & Loved (feat. DOE) - Stellars 2020",
-      "url": "https://open.spotify.com/track/2wxUXlPQSloOq0SGetICXD"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Something Has To Break (feat. Karen Clark Sheard)",
         "url": "https://open.spotify.com/album/6uRvS7BE7GbZh9xNMMVCqn"
       },
@@ -1691,26 +1695,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Not Holding Back",
-        "url": "https://open.spotify.com/album/4xYwMKxTffmhIZwJKLsMlR"
+        "name": "Good & Loved (feat. DOE) [Stellars 2020]",
+        "url": "https://open.spotify.com/album/7B5wHZpsUCI2Y7uQ3fWQVz"
       },
       "artists": [
         {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
         },
         {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        },
-        {
-          "name": "Melissa Bethea",
-          "url": "https://open.spotify.com/artist/5ZNL1Clv5oR6hDVEVGSSrg"
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
         }
       ],
-      "duration_ms": 747716,
-      "name": "Not Holding Back",
-      "url": "https://open.spotify.com/track/3648FGKvPaB9jJ6SszwiXD"
+      "duration_ms": 232232,
+      "name": "Good & Loved (feat. DOE) - Stellars 2020",
+      "url": "https://open.spotify.com/track/2wxUXlPQSloOq0SGetICXD"
     },
     {
       "added_at": "2023-10-06 04:00:00",

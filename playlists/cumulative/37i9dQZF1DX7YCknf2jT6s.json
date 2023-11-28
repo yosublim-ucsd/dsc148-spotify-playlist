@@ -19226,10 +19226,32 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 472142,
       "name": "Simple #2",
       "url": "https://open.spotify.com/track/6E9jT8mDX12gvcBLK76hKh"
+    },
+    {
+      "album": {
+        "name": "A Lovesome Thing",
+        "url": "https://open.spotify.com/album/47b74rWLSpPJjFfmw3gLUh"
+      },
+      "artists": [
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        },
+        {
+          "name": "Geri Allen",
+          "url": "https://open.spotify.com/artist/0jqAOYfo9ipclW7ATXPhHg"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 472142,
+      "name": "Simple #2",
+      "url": "https://open.spotify.com/track/7FEFlvPxocLxR86GOlEhlj"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Only the tastiest Christmas jams\. Cover: Paul Simon
 
-50 songs - 2 hr 52 min
+51 songs - 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Go Tell It On The Mountain](https://open.spotify.com/track/2KcdIIkNsOWAP7XhLqfJqK) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [20th Century Masters \- The Best of Smokey Robinson & The Miracles: The Christmas Collection](https://open.spotify.com/album/3R4NS486mXBcQ9CrLUmDhQ) | 3:47 | 2022-11-28 |  |
 | [Hard Candy Christmas](https://open.spotify.com/track/0uTVChzibEWKrXojPaJ9y1) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Once Upon A Christmas](https://open.spotify.com/album/5JWR4pqfxra6JEeUqNMPO7) | 3:37 | 2022-11-28 |  |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/4qKNfMKr3ZIyTgtdT7QJz9) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [A Christmas Album](https://open.spotify.com/album/49tPV1MI5wKbuXPdJs8axH) | 3:08 | 2022-11-28 |  |
+| [Ho! Ho! Ho! \(Who'd Be A Turkey At Christmas\)](https://open.spotify.com/track/3xabch3USCqA0JkvVc7Sb8) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Step Into Christmas](https://open.spotify.com/album/3IOAHHCKjlxiwerwUplMMo) | 4:06 | 2022-11-28 |  |
 | [Home for Christmas](https://open.spotify.com/track/1A61cJRd7Z78OPAKBq0OJy) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Home for Christmas](https://open.spotify.com/album/2zctWsSDRj6fZgQnxr9ktX) | 5:09 | 2022-11-28 |  |
 | [I Want To Come Home For Christmas \- Long Version](https://open.spotify.com/track/7m260tPgfY0GCbUBnJrz3S) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [You're The Man \(Expanded Edition\)](https://open.spotify.com/album/3pEHtJqDihr3HjZCLMJ0Vp) | 4:46 | 2022-11-28 |  |
 | [I've Got My Love To Keep Me Warm](https://open.spotify.com/track/6JJWQxzbGTeI9rka4f5sJJ) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Thanks For The Memory..\. The Great American Songbook Vol\. IV](https://open.spotify.com/album/6lRgrE7kp3GkkuZSnYdYAt) | 3:09 | 2022-11-28 |  |
@@ -29,7 +30,7 @@
 | [It Won't Seem Like Christmas \(Without You\)](https://open.spotify.com/track/4rsxx3c7BYGwdp3iOqcxbf) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis Sings the Wonderful World of Christmas](https://open.spotify.com/album/67WNQsweOZ94qxgAUDGXAk) | 2:44 | 2022-11-28 |  |
 | [Joy To The World](https://open.spotify.com/track/2IqU8ku7GvY7HE0s3sYA34) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Songs For Christmas](https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis) | 4:20 | 2022-11-28 |  |
 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/5BUJ3RhKqT2lFsrEkKzm8t) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago Christmas: What's It Gonna Be, Santa?](https://open.spotify.com/album/2IVVlq6ue3yaJTEeaQEnD5) | 3:28 | 2022-11-28 |  |
-| [Listen, The Snow Is Falling](https://open.spotify.com/track/0CNRErTWnDGVWnRUhPMaZf) | [Harry Nilsson](https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX) | [Losst And Founnd](https://open.spotify.com/album/6B446h8aVE0zi9NcIHu1CG) | 4:00 | 2022-11-28 |  |
+| [Listen, The Snow Is Falling](https://open.spotify.com/track/0CNRErTWnDGVWnRUhPMaZf) | [Harry Nilsson](https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX) | [Losst And Founnd](https://open.spotify.com/album/6B446h8aVE0zi9NcIHu1CG) | 4:00 | 2022-11-28 | 2023-11-28 |
 | [Little Christmas Tree](https://open.spotify.com/track/2xBJS5zxvaTjoDoFT9oNOb) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Christmas with The Jackson 5](https://open.spotify.com/album/0BRTKpudDZbBrZzqPHfijR) | 3:36 | 2022-11-28 |  |
 | [Little Drummer Boy \- Remastered 2011](https://open.spotify.com/track/6bwR82xePLfIHQqATJdJNp) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Ultimate Hits: Rock And Roll Never Forgets \(Remastered\)](https://open.spotify.com/album/5HLuIHrmhJ64gTWAFgNj9Z) | 3:32 | 2022-11-28 |  |
 | [Love for Christmas](https://open.spotify.com/track/27AcmqEZtxnUlleo5PJYTC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Love Makes the World](https://open.spotify.com/album/1F2U0WSicgaB8PwxBk3Tzo) | 2:59 | 2022-11-28 |  |

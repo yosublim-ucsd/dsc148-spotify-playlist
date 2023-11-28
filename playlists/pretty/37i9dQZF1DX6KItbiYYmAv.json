@@ -1,12 +1,12 @@
 {
   "description": "Hol dir dein Lieblingscaf\u00e9 nach Hause.",
-  "num_followers": 731737,
+  "num_followers": 731804,
   "original_name": "Kaffeehausmusik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmN2M4YzliOTM3OGMwNWY0ZDhkN2QwM2U1ZTdjYzFhOGYzNTdkNWRi",
+  "snapshot_id": "MCxmN2E5Yzc3ODllMTlhZGU3YjVlNGQxZjIwMWI3MDZlZjRlM2UxY2Y0",
   "tracks": [
     {
       "added_at": "2023-11-10 11:26:04",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-11-10 11:26:04",
       "album": {
-        "name": "Fleetwood Mac",
-        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 199493,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ"
-    },
-    {
-      "added_at": "2023-11-10 11:26:04",
-      "album": {
         "name": "Cleopatra",
         "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 217466,
       "name": "Big Black Car",
       "url": "https://open.spotify.com/track/3Kj2EWpIBnvETsYq4cq0IH"
+    },
+    {
+      "added_at": "2023-11-10 11:26:04",
+      "album": {
+        "name": "Fleetwood Mac",
+        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 199493,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ"
     },
     {
       "added_at": "2023-11-10 11:26:04",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-11-10 11:26:04",
       "album": {
-        "name": "Fleetwood Mac",
-        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 252773,
-      "name": "Rhiannon",
-      "url": "https://open.spotify.com/track/05oETzWbd4SI33qK2gbJfR"
-    },
-    {
-      "added_at": "2023-11-10 11:26:04",
-      "album": {
         "name": "Coming Home (Deluxe)",
         "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 305000,
       "name": "Scott Street",
       "url": "https://open.spotify.com/track/6Uwi2Qk3H7fM4b4W4ExrAp"
+    },
+    {
+      "added_at": "2023-11-10 11:26:04",
+      "album": {
+        "name": "Fleetwood Mac",
+        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 252773,
+      "name": "Rhiannon",
+      "url": "https://open.spotify.com/track/05oETzWbd4SI33qK2gbJfR"
     },
     {
       "added_at": "2023-11-10 11:26:04",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-11-10 11:26:04",
       "album": {
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/5NovnTHEYZjadICACf4yPo"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 170216,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/5JEM7lT9uSyhUsKFXwGfSm"
+    },
+    {
+      "added_at": "2023-11-10 11:26:04",
+      "album": {
         "name": "Pony",
         "url": "https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 225893,
       "name": "Sink",
       "url": "https://open.spotify.com/track/3lTxG17fsMrjrNkTNJ9NaZ"
-    },
-    {
-      "added_at": "2023-11-10 11:26:04",
-      "album": {
-        "name": "Time After Time",
-        "url": "https://open.spotify.com/album/5NovnTHEYZjadICACf4yPo"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 170216,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/5JEM7lT9uSyhUsKFXwGfSm"
     },
     {
       "added_at": "2023-11-10 11:26:04",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-11-10 11:26:04",
       "album": {
-        "name": "Every Kingdom",
-        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 384080,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/4qyfir5Yr7nfo05g6cyFMT"
-    },
-    {
-      "added_at": "2023-11-10 11:26:04",
-      "album": {
         "name": "Music From The Motion Picture Once",
         "url": "https://open.spotify.com/album/4BUG3kfPOB6DWVKKDY2icE"
       },
@@ -1123,6 +1107,38 @@
       "duration_ms": 244133,
       "name": "Falling Slowly",
       "url": "https://open.spotify.com/track/6EIVLz5xM1xE29r0OmIkWt"
+    },
+    {
+      "added_at": "2023-11-10 11:26:04",
+      "album": {
+        "name": "Every Kingdom",
+        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 384080,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/4qyfir5Yr7nfo05g6cyFMT"
+    },
+    {
+      "added_at": "2023-11-10 11:26:04",
+      "album": {
+        "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
+        "url": "https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 248964,
+      "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
+      "url": "https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz"
     },
     {
       "added_at": "2023-11-10 11:26:04",
@@ -1175,22 +1191,6 @@
     {
       "added_at": "2023-11-10 11:26:04",
       "album": {
-        "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
-        "url": "https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 248964,
-      "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
-      "url": "https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz"
-    },
-    {
-      "added_at": "2023-11-10 11:26:04",
-      "album": {
         "name": "The Show: The Encore",
         "url": "https://open.spotify.com/album/4bNl4naMwsYI9OeG3WPZ5E"
       },
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-11-10 11:26:04",
       "album": {
+        "name": "Seven Swans",
+        "url": "https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 168040,
+      "name": "To Be Alone With You",
+      "url": "https://open.spotify.com/track/12homE4JpBey5cckgoepR7"
+    },
+    {
+      "added_at": "2023-11-10 11:26:04",
+      "album": {
         "name": "Sleeping Operator",
         "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
       },
@@ -1235,6 +1251,22 @@
       "duration_ms": 230518,
       "name": "Even the Darkness Has Arms",
       "url": "https://open.spotify.com/track/6W49z468BT75GsO2tCcBtq"
+    },
+    {
+      "added_at": "2023-11-10 11:26:04",
+      "album": {
+        "name": "I Am Easy to Find",
+        "url": "https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 213373,
+      "name": "Light Years",
+      "url": "https://open.spotify.com/track/2GNj9KRwpxBWgEiPQc3jEj"
     },
     {
       "added_at": "2023-11-10 11:26:04",
@@ -1255,22 +1287,6 @@
     {
       "added_at": "2023-11-10 11:26:04",
       "album": {
-        "name": "Seven Swans",
-        "url": "https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 168040,
-      "name": "To Be Alone With You",
-      "url": "https://open.spotify.com/track/12homE4JpBey5cckgoepR7"
-    },
-    {
-      "added_at": "2023-11-10 11:26:04",
-      "album": {
         "name": "When You Love Someone (Acoustic)",
         "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 210106,
       "name": "When You Love Someone - Acoustic",
       "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
-    },
-    {
-      "added_at": "2023-11-10 11:26:04",
-      "album": {
-        "name": "I Am Easy to Find",
-        "url": "https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 213373,
-      "name": "Light Years",
-      "url": "https://open.spotify.com/track/2GNj9KRwpxBWgEiPQc3jEj"
     },
     {
       "added_at": "2023-11-10 11:26:04",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2023-11-10 11:26:04",
       "album": {
+        "name": "Carrie & Lowell",
+        "url": "https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 284130,
+      "name": "The Only Thing",
+      "url": "https://open.spotify.com/track/17UVxL0MYEmKzXppfUL5in"
+    },
+    {
+      "added_at": "2023-11-10 11:26:04",
+      "album": {
         "name": "Lines",
         "url": "https://open.spotify.com/album/183PxCMvOPAdItWDCi1UJJ"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 172202,
       "name": "Acoustic",
       "url": "https://open.spotify.com/track/1kJygfS4eoVziBBI93MSYp"
-    },
-    {
-      "added_at": "2023-11-10 11:26:04",
-      "album": {
-        "name": "Carrie & Lowell",
-        "url": "https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 284130,
-      "name": "The Only Thing",
-      "url": "https://open.spotify.com/track/17UVxL0MYEmKzXppfUL5in"
     },
     {
       "added_at": "2023-11-10 11:26:04",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-11-10 11:26:04",
       "album": {
-        "name": "XO",
-        "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 280106,
-      "name": "Waltz #2 (XO)",
-      "url": "https://open.spotify.com/track/5AMrnF761nziCWUfjBgRUI"
-    },
-    {
-      "added_at": "2023-11-10 11:26:04",
-      "album": {
         "name": "If I Was (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 192053,
       "name": "I'm on Fire",
       "url": "https://open.spotify.com/track/14WxdK01IyDl3bumvqufxH"
+    },
+    {
+      "added_at": "2023-11-10 11:26:04",
+      "album": {
+        "name": "XO",
+        "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 280106,
+      "name": "Waltz #2 (XO)",
+      "url": "https://open.spotify.com/track/5AMrnF761nziCWUfjBgRUI"
     },
     {
       "added_at": "2023-11-10 11:26:04",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-11-10 11:26:04",
       "album": {
-        "name": "Figure 8",
-        "url": "https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 129333,
-      "name": "Somebody That I Used To Know",
-      "url": "https://open.spotify.com/track/4xfAVJL8R7mVYbDk8a9xOY"
-    },
-    {
-      "added_at": "2023-11-10 11:26:04",
-      "album": {
         "name": "First Mind",
         "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 267573,
       "name": "Cucurucu",
       "url": "https://open.spotify.com/track/3G3PP7pAkAaZ6QzM0duBry"
+    },
+    {
+      "added_at": "2023-11-10 11:26:04",
+      "album": {
+        "name": "Figure 8",
+        "url": "https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 129333,
+      "name": "Somebody That I Used To Know",
+      "url": "https://open.spotify.com/track/4xfAVJL8R7mVYbDk8a9xOY"
     },
     {
       "added_at": "2023-11-10 11:26:04",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2023-11-10 11:26:04",
       "album": {
-        "name": "Linger",
-        "url": "https://open.spotify.com/album/44rvrZI6NG38wyyoXQMsVx"
-      },
-      "artists": [
-        {
-          "name": "Freedom Fry",
-          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
-        }
-      ],
-      "duration_ms": 201136,
-      "name": "Linger",
-      "url": "https://open.spotify.com/track/3rcVJVqhuuKbVppaLXrxD5"
-    },
-    {
-      "added_at": "2023-11-10 11:26:04",
-      "album": {
         "name": "The Recordings of the Middle East",
         "url": "https://open.spotify.com/album/144r7yfO4RiEqyMcPmTXeJ"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 326920,
       "name": "Blood",
       "url": "https://open.spotify.com/track/13yuX1iqobZtQtq5lr8UoC"
+    },
+    {
+      "added_at": "2023-11-10 11:26:04",
+      "album": {
+        "name": "Linger",
+        "url": "https://open.spotify.com/album/44rvrZI6NG38wyyoXQMsVx"
+      },
+      "artists": [
+        {
+          "name": "Freedom Fry",
+          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
+        }
+      ],
+      "duration_ms": 201136,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/3rcVJVqhuuKbVppaLXrxD5"
     },
     {
       "added_at": "2023-11-10 11:26:04",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2023-11-10 11:26:04",
       "album": {
-        "name": "Drunk On A Flight",
-        "url": "https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq"
-      },
-      "artists": [
-        {
-          "name": "Eloise",
-          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Drunk On A Flight",
-      "url": "https://open.spotify.com/track/61gNWcpFdezb20Oc4uMrr6"
-    },
-    {
-      "added_at": "2023-11-10 11:26:04",
-      "album": {
         "name": "On the Train Ride Home",
         "url": "https://open.spotify.com/album/4amdDYo23aSOrv7hSZrCMT"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 227200,
       "name": "On the Train Ride Home",
       "url": "https://open.spotify.com/track/4sTjyRMuBumcHsVWe9tfKL"
+    },
+    {
+      "added_at": "2023-11-10 11:26:04",
+      "album": {
+        "name": "Drunk On A Flight",
+        "url": "https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq"
+      },
+      "artists": [
+        {
+          "name": "Eloise",
+          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Drunk On A Flight",
+      "url": "https://open.spotify.com/track/61gNWcpFdezb20Oc4uMrr6"
     },
     {
       "added_at": "2023-11-10 11:26:04",
@@ -1939,18 +1939,34 @@
     {
       "added_at": "2023-11-10 11:26:04",
       "album": {
-        "name": "You and Me for Now",
-        "url": "https://open.spotify.com/album/5KPl7k36JzLxe4bisDG8S4"
+        "name": "You Don't Mess Around With Jim",
+        "url": "https://open.spotify.com/album/0dZaHQ0OJlIyVrEuvnXmS9"
       },
       "artists": [
         {
-          "name": "Austin Basham",
-          "url": "https://open.spotify.com/artist/3Dd1WVQvZUgyi9XEqOIPhA"
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
         }
       ],
-      "duration_ms": 256680,
-      "name": "All Is Well",
-      "url": "https://open.spotify.com/track/3KAQ4xe2sR6IiltZw8HSA5"
+      "duration_ms": 229706,
+      "name": "Operator (That's Not the Way It Feels)",
+      "url": "https://open.spotify.com/track/4mQtXW0vrHC3oTkA1mQsb0"
+    },
+    {
+      "added_at": "2023-11-10 11:26:04",
+      "album": {
+        "name": "Magnolia (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/6jbjx0LGKl11H6UtrgS2nV"
+      },
+      "artists": [
+        {
+          "name": "Aimee Mann",
+          "url": "https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk"
+        }
+      ],
+      "duration_ms": 274493,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/0EqtsCvcDjEz6svFsaV5HN"
     },
     {
       "added_at": "2023-11-10 11:26:04",
@@ -1971,18 +1987,18 @@
     {
       "added_at": "2023-11-10 11:26:04",
       "album": {
-        "name": "Magnolia (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/6jbjx0LGKl11H6UtrgS2nV"
+        "name": "You and Me for Now",
+        "url": "https://open.spotify.com/album/5KPl7k36JzLxe4bisDG8S4"
       },
       "artists": [
         {
-          "name": "Aimee Mann",
-          "url": "https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk"
+          "name": "Austin Basham",
+          "url": "https://open.spotify.com/artist/3Dd1WVQvZUgyi9XEqOIPhA"
         }
       ],
-      "duration_ms": 274493,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/0EqtsCvcDjEz6svFsaV5HN"
+      "duration_ms": 256680,
+      "name": "All Is Well",
+      "url": "https://open.spotify.com/track/3KAQ4xe2sR6IiltZw8HSA5"
     },
     {
       "added_at": "2023-11-10 11:26:04",
@@ -2047,22 +2063,6 @@
       "duration_ms": 173813,
       "name": "Catch the Wind",
       "url": "https://open.spotify.com/track/505Pd7CPHoewIE3Io2EpWd"
-    },
-    {
-      "added_at": "2023-11-10 11:26:04",
-      "album": {
-        "name": "You Don't Mess Around With Jim",
-        "url": "https://open.spotify.com/album/0dZaHQ0OJlIyVrEuvnXmS9"
-      },
-      "artists": [
-        {
-          "name": "Jim Croce",
-          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
-        }
-      ],
-      "duration_ms": 229706,
-      "name": "Operator (That's Not the Way It Feels)",
-      "url": "https://open.spotify.com/track/4mQtXW0vrHC3oTkA1mQsb0"
     },
     {
       "added_at": "2023-11-10 11:26:04",
@@ -2163,18 +2163,18 @@
     {
       "added_at": "2023-11-10 11:26:04",
       "album": {
-        "name": "It Aint me (Acoustic)",
-        "url": "https://open.spotify.com/album/0yXs7bd41x7RHD8cbLDpbV"
+        "name": "Brutally",
+        "url": "https://open.spotify.com/album/1EffBpw7DW3vrOBCox9l0R"
       },
       "artists": [
         {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
         }
       ],
-      "duration_ms": 192545,
-      "name": "It Aint me - Acoustic",
-      "url": "https://open.spotify.com/track/18ZK9RiSZdZVTkzVFw0yin"
+      "duration_ms": 208105,
+      "name": "Brutally",
+      "url": "https://open.spotify.com/track/4z6qtN4iZ7MPVZYCtiSgsM"
     },
     {
       "added_at": "2023-11-10 11:26:04",
@@ -2195,18 +2195,18 @@
     {
       "added_at": "2023-11-10 11:26:04",
       "album": {
-        "name": "Brutally",
-        "url": "https://open.spotify.com/album/1EffBpw7DW3vrOBCox9l0R"
+        "name": "It Aint me (Acoustic)",
+        "url": "https://open.spotify.com/album/0yXs7bd41x7RHD8cbLDpbV"
       },
       "artists": [
         {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
         }
       ],
-      "duration_ms": 208105,
-      "name": "Brutally",
-      "url": "https://open.spotify.com/track/4z6qtN4iZ7MPVZYCtiSgsM"
+      "duration_ms": 192545,
+      "name": "It Aint me - Acoustic",
+      "url": "https://open.spotify.com/track/18ZK9RiSZdZVTkzVFw0yin"
     },
     {
       "added_at": "2023-11-10 11:26:04",
@@ -2259,22 +2259,6 @@
     {
       "added_at": "2023-11-10 11:26:04",
       "album": {
-        "name": "Holding On, Holding Out",
-        "url": "https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR"
-      },
-      "artists": [
-        {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
-        }
-      ],
-      "duration_ms": 199653,
-      "name": "Back to Autumn",
-      "url": "https://open.spotify.com/track/3TdZbELsPLWYZAArGSfwyQ"
-    },
-    {
-      "added_at": "2023-11-10 11:26:04",
-      "album": {
         "name": "If Only",
         "url": "https://open.spotify.com/album/1PxeMLy9b6zmzefxPOXACH"
       },
@@ -2287,6 +2271,22 @@
       "duration_ms": 204857,
       "name": "If Only",
       "url": "https://open.spotify.com/track/7yJnPO4ZU4kGx82TbaQvlU"
+    },
+    {
+      "added_at": "2023-11-10 11:26:04",
+      "album": {
+        "name": "Holding On, Holding Out",
+        "url": "https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 199653,
+      "name": "Back to Autumn",
+      "url": "https://open.spotify.com/track/3TdZbELsPLWYZAArGSfwyQ"
     },
     {
       "added_at": "2023-11-10 11:26:04",

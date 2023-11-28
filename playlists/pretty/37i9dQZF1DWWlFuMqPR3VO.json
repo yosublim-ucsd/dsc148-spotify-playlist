@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTc2MjQzNTJhZDNkY2RjZWM2YzI2NzNmNGE1NDNlZjdlYWI5MDNj",
+  "snapshot_id": "MCwwNTdjYTMwYTU5ZWM2MjNiODZlOWJkODZmYzE1Y2JmMjAyY2YwZjNj",
   "tracks": [
     {
       "added_at": "2022-04-22 04:01:00",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "Heart and Soul",
-        "url": "https://open.spotify.com/album/3zmz4edYCiggKrx4bMRTxb"
-      },
-      "artists": [
-        {
-          "name": "Johnny Adams",
-          "url": "https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk"
-        }
-      ],
-      "duration_ms": 197309,
-      "name": "Georgia Morning Dew",
-      "url": "https://open.spotify.com/track/7njTQhjl2SIBLutKCw4r1l"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
         "name": "Alligator",
         "url": "https://open.spotify.com/album/7bWzWGdmK5QepRg00IoKDV"
       },
@@ -283,6 +267,54 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
+        "name": "Heart and Soul",
+        "url": "https://open.spotify.com/album/3zmz4edYCiggKrx4bMRTxb"
+      },
+      "artists": [
+        {
+          "name": "Johnny Adams",
+          "url": "https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk"
+        }
+      ],
+      "duration_ms": 197309,
+      "name": "Georgia Morning Dew",
+      "url": "https://open.spotify.com/track/7njTQhjl2SIBLutKCw4r1l"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
+        "name": "New Orleans Blues",
+        "url": "https://open.spotify.com/album/1lv103HKWAdbOeSGQ69eli"
+      },
+      "artists": [
+        {
+          "name": "Earl King",
+          "url": "https://open.spotify.com/artist/76ox7koAGPytUmTZGU6zWn"
+        }
+      ],
+      "duration_ms": 163293,
+      "name": "Mother's Love",
+      "url": "https://open.spotify.com/track/5rUM5gwYkbmSERNgvJ6rQA"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
+        "name": "New Orleans Piano (Mono)",
+        "url": "https://open.spotify.com/album/4vQc378UGRZAaJemArhMpv"
+      },
+      "artists": [
+        {
+          "name": "Professor Longhair",
+          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
+        }
+      ],
+      "duration_ms": 158902,
+      "name": "Tipitina - Mono",
+      "url": "https://open.spotify.com/track/0Jz7pqRw3fumuTvQgAobH4"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
         "name": "New Orleans Street Singer",
         "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
       },
@@ -311,22 +343,6 @@
       "duration_ms": 149800,
       "name": "Shake Your Hips - Single Version",
       "url": "https://open.spotify.com/track/5H28g1Be16hLJaz3RrWCpQ"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
-        "name": "New Orleans Blues",
-        "url": "https://open.spotify.com/album/1lv103HKWAdbOeSGQ69eli"
-      },
-      "artists": [
-        {
-          "name": "Earl King",
-          "url": "https://open.spotify.com/artist/76ox7koAGPytUmTZGU6zWn"
-        }
-      ],
-      "duration_ms": 163293,
-      "name": "Mother's Love",
-      "url": "https://open.spotify.com/track/5rUM5gwYkbmSERNgvJ6rQA"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -363,22 +379,6 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "New Orleans Piano (Mono)",
-        "url": "https://open.spotify.com/album/4vQc378UGRZAaJemArhMpv"
-      },
-      "artists": [
-        {
-          "name": "Professor Longhair",
-          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
-        }
-      ],
-      "duration_ms": 158902,
-      "name": "Tipitina - Mono",
-      "url": "https://open.spotify.com/track/0Jz7pqRw3fumuTvQgAobH4"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
         "name": "I Hear You Knockin'!",
         "url": "https://open.spotify.com/album/5Ch6Uc0OTpBUI9LvPrQDsk"
       },
@@ -391,38 +391,6 @@
       "duration_ms": 165760,
       "name": "I'm A Lover Not A Fighter",
       "url": "https://open.spotify.com/track/1vSRhDHRI1jVa6BQURJtRO"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
-        "name": "Heart and Soul",
-        "url": "https://open.spotify.com/album/3zmz4edYCiggKrx4bMRTxb"
-      },
-      "artists": [
-        {
-          "name": "Johnny Adams",
-          "url": "https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk"
-        }
-      ],
-      "duration_ms": 235431,
-      "name": "Reconsider Me",
-      "url": "https://open.spotify.com/track/6VB5qvDSykpoc8vON065d8"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
-        "name": "Classified (Remixed & Expanded Edition)",
-        "url": "https://open.spotify.com/album/6VgQnvMaa5x8GEWaqUXSvo"
-      },
-      "artists": [
-        {
-          "name": "James Booker",
-          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
-        }
-      ],
-      "duration_ms": 154400,
-      "name": "One For The Highway",
-      "url": "https://open.spotify.com/track/02wzvJWTzNPLrqqIamRkgb"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -443,18 +411,34 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "The Imperial Recordings",
-        "url": "https://open.spotify.com/album/3KUmrsZw8O08srFBL49qA3"
+        "name": "Louis Armstrong Plays W. C. Handy",
+        "url": "https://open.spotify.com/album/6yvbyi8LOzXI59WkW6QzG2"
       },
       "artists": [
         {
-          "name": "Snooks Eaglin",
-          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 159373,
-      "name": "By the Water",
-      "url": "https://open.spotify.com/track/51fWp2sgOhaWmnBGcaTKXk"
+      "duration_ms": 255933,
+      "name": "Yellow Dog Blues",
+      "url": "https://open.spotify.com/track/2kqpPGtxRatQsFrQWM4gLb"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
+        "name": "Heart and Soul",
+        "url": "https://open.spotify.com/album/3zmz4edYCiggKrx4bMRTxb"
+      },
+      "artists": [
+        {
+          "name": "Johnny Adams",
+          "url": "https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk"
+        }
+      ],
+      "duration_ms": 235431,
+      "name": "Reconsider Me",
+      "url": "https://open.spotify.com/track/6VB5qvDSykpoc8vON065d8"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -479,34 +463,18 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "Louis Armstrong Plays W. C. Handy",
-        "url": "https://open.spotify.com/album/6yvbyi8LOzXI59WkW6QzG2"
+        "name": "The Imperial Recordings",
+        "url": "https://open.spotify.com/album/3KUmrsZw8O08srFBL49qA3"
       },
       "artists": [
         {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+          "name": "Snooks Eaglin",
+          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
         }
       ],
-      "duration_ms": 255933,
-      "name": "Yellow Dog Blues",
-      "url": "https://open.spotify.com/track/2kqpPGtxRatQsFrQWM4gLb"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
-        "name": "Let's Talk It Over",
-        "url": "https://open.spotify.com/album/2rwVXn5G7TueG7w3wyQXZ8"
-      },
-      "artists": [
-        {
-          "name": "Lonnie Brooks",
-          "url": "https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog"
-        }
-      ],
-      "duration_ms": 356773,
-      "name": "Greasy Man",
-      "url": "https://open.spotify.com/track/2Izextri7Ho1xu0mvVZcpI"
+      "duration_ms": 159373,
+      "name": "By the Water",
+      "url": "https://open.spotify.com/track/51fWp2sgOhaWmnBGcaTKXk"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -527,6 +495,38 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
+        "name": "Classified (Remixed & Expanded Edition)",
+        "url": "https://open.spotify.com/album/6VgQnvMaa5x8GEWaqUXSvo"
+      },
+      "artists": [
+        {
+          "name": "James Booker",
+          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
+        }
+      ],
+      "duration_ms": 154400,
+      "name": "One For The Highway",
+      "url": "https://open.spotify.com/track/02wzvJWTzNPLrqqIamRkgb"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
+        "name": "Let's Talk It Over",
+        "url": "https://open.spotify.com/album/2rwVXn5G7TueG7w3wyQXZ8"
+      },
+      "artists": [
+        {
+          "name": "Lonnie Brooks",
+          "url": "https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog"
+        }
+      ],
+      "duration_ms": 356773,
+      "name": "Greasy Man",
+      "url": "https://open.spotify.com/track/2Izextri7Ho1xu0mvVZcpI"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
         "name": "Zodico Blues & Boogie",
         "url": "https://open.spotify.com/album/7FEkXD5ytxX2VSVES51rGC"
       },
@@ -543,6 +543,22 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
+        "name": "New Orleans Street Singer",
+        "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
+      },
+      "artists": [
+        {
+          "name": "Snooks Eaglin",
+          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
+        }
+      ],
+      "duration_ms": 227960,
+      "name": "Brown Skin Woman",
+      "url": "https://open.spotify.com/track/4t348UYDuSGPqVkmU1Dt9P"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
         "name": "Been Gone Too Long",
         "url": "https://open.spotify.com/album/57lHz8bXu1A72WHOLbl4DO"
       },
@@ -555,6 +571,22 @@
       "duration_ms": 255946,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/7GB39p4IhgmHf8z0GZtACB"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
+        "name": "Walking On Fire",
+        "url": "https://open.spotify.com/album/3YsGA6EPreplix3nyYEWCI"
+      },
+      "artists": [
+        {
+          "name": "Kenny Neal",
+          "url": "https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ"
+        }
+      ],
+      "duration_ms": 214706,
+      "name": "Blues Stew",
+      "url": "https://open.spotify.com/track/0M2HxpH3HARjQbpt1pH6K6"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -607,22 +639,6 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "New Orleans Street Singer",
-        "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
-      },
-      "artists": [
-        {
-          "name": "Snooks Eaglin",
-          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
-        }
-      ],
-      "duration_ms": 227960,
-      "name": "Brown Skin Woman",
-      "url": "https://open.spotify.com/track/4t348UYDuSGPqVkmU1Dt9P"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
         "name": "Our New Orleans (Expanded Edition)",
         "url": "https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 220000,
       "name": "Gather by the River",
       "url": "https://open.spotify.com/track/5bxFlzZ2fdlt740q1YikpQ"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
-        "name": "Walking On Fire",
-        "url": "https://open.spotify.com/album/3YsGA6EPreplix3nyYEWCI"
-      },
-      "artists": [
-        {
-          "name": "Kenny Neal",
-          "url": "https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ"
-        }
-      ],
-      "duration_ms": 214706,
-      "name": "Blues Stew",
-      "url": "https://open.spotify.com/track/0M2HxpH3HARjQbpt1pH6K6"
     }
   ],
   "unique_name": "Louisiana Blues",

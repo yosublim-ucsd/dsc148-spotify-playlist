@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Dadju x Tayc
 
-[Spotify](https://open.spotify.com/user/spotify) - 854,134 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 854,526 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [Lipeka](https://open.spotify.com/track/5Q92Lz6MiwfmIIly1vs9ar) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Lipeka](https://open.spotify.com/album/4ic6LQoZ1bBuU3WMoXBWfp) | 3:09 |
 | 50 | [La Loupe](https://open.spotify.com/track/6LvIvRZh3SeWGKyzM8gYJO) | [Were\-vana](https://open.spotify.com/artist/1f1DjtYgH6yBzBSiGteBJl) | [La Loupe](https://open.spotify.com/album/4PLxr6mFMC4Uth8aJemKCF) | 2:35 |
 
-Snapshot ID: `MCxhMTE2NTI1YzRiNWVjMTY0ZDE4NTAxOTMxMWRlYTgyMTYwYzI3YWZj`
+Snapshot ID: `MCw1ZjQ0YTQ4YmQ0MzczNGE2NmU3Nzg5YmZkY2YwMmJjN2U0MDVjNGM1`

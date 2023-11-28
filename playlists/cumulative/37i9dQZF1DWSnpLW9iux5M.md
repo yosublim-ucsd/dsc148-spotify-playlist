@@ -4,7 +4,7 @@
 
 > Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists.
 
-122 songs - 8 hr 24 min
+123 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,9 +27,10 @@
 | [Deck The Halls](https://open.spotify.com/track/5UqCQJC8SM1DJXoGyIXfKk) | [Liz Vice](https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx) | [A Soulful Holiday](https://open.spotify.com/album/79IL2APoL7tNBZqrT9dZpT) | 4:08 | 2021-12-24 |  |
 | [Do You Believe \(feat\. Yolanda Adams\)](https://open.spotify.com/track/4Arl2nYTR4A0vTs4im5mYb) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Christmas With PJ Morton](https://open.spotify.com/album/6CCI8iFCudEj8BrLUs3Mj6) | 4:08 | 2021-12-24 |  |
 | [Do You Hear What I Hear? \(feat\. Kelly Rowland\)](https://open.spotify.com/track/08GJVn2LyrveaRZvhSOV5Q) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [8 Days Of Christmas](https://open.spotify.com/album/0MnAbxbwU1Rjg8hbGzKjYZ) | 3:47 | 2021-12-24 |  |
-| [Dreams Come True](https://open.spotify.com/track/4qFMAM1cLrZ4eda48cBQbp) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9) | [A Deitrick Haddon Christmas](https://open.spotify.com/album/7HYSm5yiDvvIX8oT9eAVwW) | 3:18 | 2022-11-26 |  |
+| [Dreams Come True](https://open.spotify.com/track/4qFMAM1cLrZ4eda48cBQbp) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9) | [A Deitrick Haddon Christmas](https://open.spotify.com/album/7HYSm5yiDvvIX8oT9eAVwW) | 3:18 | 2022-11-26 | 2023-11-28 |
 | [Emmanuel is Here](https://open.spotify.com/track/0DDNfG9ZxThYp79QSsp36H) | [Patrick Dopson](https://open.spotify.com/artist/2Aw6herTftgxyGaUxkHTNX) | [Emmanuel is Here](https://open.spotify.com/album/7MLDmQxZUyRAtVQ8cSLbmf) | 5:31 | 2021-12-24 |  |
 | [Fall in Love at Christmas](https://open.spotify.com/track/1MCvAAKHSdGhe4ZPq0YMrF) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Fall in Love at Christmas](https://open.spotify.com/album/5NyqnHa0a9s3zdnmnECumI) | 5:08 | 2021-12-24 |  |
+| [Fall In Love With Christmas Again](https://open.spotify.com/track/5u6czSg2XmbwWwWID9BxvZ) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Kennedy + Jay](https://open.spotify.com/artist/3ce0yzTNJx60nvTvHEYcay) | [Fall In Love With Christmas Again](https://open.spotify.com/album/2OqpILhCwceV8ymEpHCbPB) | 3:39 | 2023-11-27 |  |
 | [Follow That Star](https://open.spotify.com/track/6GlITLVkUAH2XsVNuUWeLj) | [Renwick Duesbury](https://open.spotify.com/artist/7GyRgZVKAKXs8RZKz4Omn4) | [Follow That Star](https://open.spotify.com/album/4H2iB9EQCZD4Zl031kB8ML) | 2:37 | 2021-12-24 |  |
 | [For Unto Us \(A Child Is Born\)](https://open.spotify.com/track/6vCh1sz0DsccWhs5nJHk3q) | [Bebe & Cece Winans](https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs) | [First Christmas](https://open.spotify.com/album/34TpQar6QnutagRwdtiNpl) | 4:30 | 2021-12-24 |  |
 | [Give Me A Star](https://open.spotify.com/track/2vbCMcecSWwccm1ojWKOaZ) | [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx) | [A Motown Gospel Christmas](https://open.spotify.com/album/5XL7zTVKGrkLNsoux4FSrr) | 4:35 | 2021-12-24 |  |

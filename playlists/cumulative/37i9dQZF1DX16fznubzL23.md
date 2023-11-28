@@ -4,7 +4,7 @@
 
 > For the pain, tears and heartbreak.
 
-146 songs - 7 hr 58 min
+147 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [I Want You Back](https://open.spotify.com/track/05vvj3SjXQd3eseXNgOAU7) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Original](https://open.spotify.com/album/4yFA6Gmc7juhuJzPCTgeIS) | 2:11 | 2023-01-20 | 2023-03-31 |
 | [I Wish It Was Me](https://open.spotify.com/track/3ghmdRTijueJLRzswc779P) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Some Nights I Dream of Doors](https://open.spotify.com/album/4b5bbOFp8eUd5QxQJ6jFs3) | 3:23 | 2022-05-12 | 2023-04-21 |
 | [I'm Done](https://open.spotify.com/track/7qp9S0FfyfCuFHV8MD9pQ6) | [Liya](https://open.spotify.com/artist/2mq44nCfRU63sGf70HAPi0) | [I'm Done + Powerful](https://open.spotify.com/album/20yFqfgE1cJCC7QTCEXtp3) | 2:24 | 2023-07-20 |  |
-| [I'm Sorry](https://open.spotify.com/track/3wFPcby1G24MrJdfY18rqi) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Festival of the Sun](https://open.spotify.com/album/4KBAvXtsBubhWTTdKy9lfD) | 3:17 | 2022-08-26 |  |
+| [I'm Sorry](https://open.spotify.com/track/3wFPcby1G24MrJdfY18rqi) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Festival of the Sun](https://open.spotify.com/album/4KBAvXtsBubhWTTdKy9lfD) | 3:17 | 2022-08-26 | 2023-11-28 |
 | [Ife Ife](https://open.spotify.com/track/3716u4GLH9a7HqmwCWLrC9) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Ife Ife](https://open.spotify.com/album/7iIw1JOb6ciXxIw603PpvJ) | 2:18 | 2022-12-01 | 2023-01-20 |
 | [In A Loop](https://open.spotify.com/track/1fwPHJhjIKSqOnbXVSEoF2) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [In A Loop](https://open.spotify.com/album/4RNLtG8d1fQp2yUTiVBS9a) | 3:13 | 2022-04-07 | 2022-12-25 |
 | [In A Loop](https://open.spotify.com/track/4n1SykKn2Da29B4riTa41U) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [Gbagada Express](https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn) | 3:13 | 2022-04-07 |  |
@@ -115,6 +115,7 @@
 | [Pain](https://open.spotify.com/track/7yrTTV7W5i5hIg6u0rcqQ7) | [Phizbarz](https://open.spotify.com/artist/07PoOuz1igSIxz9IlHMTX9), [Xunny](https://open.spotify.com/artist/5SugQdE2w1p7xzWHSIdyKM) | [Pain](https://open.spotify.com/album/2GoX7GpO1fkNiMdJUhO2lJ) | 2:43 | 2023-05-26 | 2023-06-03 |
 | [Peace Of Mind](https://open.spotify.com/track/71cLwuw0yKKcKlHDiccxNn) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Village](https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9) | 4:14 | 2022-02-11 | 2023-10-27 |
 | [Perfect Girl \(feat\. MisterKay\)](https://open.spotify.com/track/02N7PICytyxQIB83WNtxC8) | [RnB Princess](https://open.spotify.com/artist/0QKFXBU0ZhrSCJIAsOIjgg), [MisterKay](https://open.spotify.com/artist/1rd2uaxe75DEeIz8AnlyLN) | [Perfect Girl \(feat\. MisterKay\)](https://open.spotify.com/album/10SAFauFQQneSjEe47W0hw) | 2:33 | 2022-10-28 | 2022-12-02 |
+| [Pidgin & English](https://open.spotify.com/track/4jcrO2T6XJ1B7hXsAEJ3ve) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sincerely, Benson](https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a) | 3:38 | 2023-11-27 |  |
 | [Pour Me a Drink](https://open.spotify.com/track/1ebcm76NK3TarOZBvBRz3P) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [The Brother's Keeper](https://open.spotify.com/album/0g7K5tuXiGzf5K6umuzCRX) | 2:48 | 2022-08-26 |  |
 | [Pour Me Water](https://open.spotify.com/track/1DrfpnLvbwndPScRLwbUE0) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Barnabas](https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU) | 2:26 | 2022-02-11 |  |
 | [Pour Me Water](https://open.spotify.com/track/1XIPyyGqBSU20i4gSagsLV) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:48 | 2022-02-11 |  |

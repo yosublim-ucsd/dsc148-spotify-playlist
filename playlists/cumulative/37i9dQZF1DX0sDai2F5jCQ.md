@@ -4,10 +4,11 @@
 
 > Hip\-Hop's hottest from Australia, New Zealand and beyond\. Cover: Day1
 
-124 songs - 6 hr 7 min
+124 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/13qfi5nBlDX1bWF13EbVbX) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1qnrZlibwgqcGEFhvAKav1) | 0:00 | 2023-11-16 |  |
 | [1738 \(feat\. Coi Leray\)](https://open.spotify.com/track/4dwUU7nwU1zKapVA4ebO7H) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [1738 \(feat\. Coi Leray\)](https://open.spotify.com/album/5FHpY4unp7zyZiffidiaUm) | 3:50 | 2023-11-03 |  |
 | [17X's](https://open.spotify.com/track/4pRT6SZF29tZaO79CULoVT) | [SkuX](https://open.spotify.com/artist/4HkdbjrOHNEnAj0wVccCgv) | [17X's](https://open.spotify.com/album/0LJHGRVZ0tzoMmhFaZsAYA) | 1:53 | 2023-11-02 | 2023-11-21 |
 | [2 Grown \(feat\. The Kid LAROI\)](https://open.spotify.com/track/5ybZcAwqUF7i9gwABLeXzs) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [222](https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL) | 3:52 | 2023-09-22 | 2023-09-29 |
@@ -75,7 +76,6 @@
 | [Lemme See](https://open.spotify.com/track/53QRPT9Z42ALxGL1YGT9x1) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [When I Was Dead](https://open.spotify.com/album/65SsQtOf5Cd25fanX62XRR) | 2:45 | 2023-11-16 |  |
 | [Let It Spray](https://open.spotify.com/track/61VB5Z61QQmcERlHfgI4ze) | [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np), [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2), [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [Let It Spray](https://open.spotify.com/album/6olqZhsmwWGWx27MEogmk8) | 2:30 | 2023-09-22 | 2023-11-17 |
 | [LLTK](https://open.spotify.com/track/6XNrW7oM3S7VsokV65VcVp) | [No Money Enterprise](https://open.spotify.com/artist/3cI6oSkDCirRNVAgBsGJyB) | [LLTK](https://open.spotify.com/album/1D1ouEX6eIt8I3iF4RpqfV) | 2:52 | 2023-10-05 | 2023-11-03 |
-| [Loverboy](https://open.spotify.com/track/13qfi5nBlDX1bWF13EbVbX) | [AMARNI](https://open.spotify.com/artist/6HxQEau8zFYzY8fJ7pKEco), [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [Loverboy](https://open.spotify.com/album/1qnrZlibwgqcGEFhvAKav1) | 2:49 | 2023-11-16 |  |
 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 | 2023-11-09 |  |
 | [Mamas Car](https://open.spotify.com/track/51JtGJtPkfPz4qLHFIwC4j) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi) | [Mamas Car](https://open.spotify.com/album/5jSswkACL8ldBkgeuWKG4o) | 2:16 | 2023-10-19 |  |
 | [Mask On \[Feat\. Joey BadA$$\]](https://open.spotify.com/track/3ICvetSViYp5NedhfHCq6i) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [As Above, So Below](https://open.spotify.com/album/3QBYDADSp9ca7yNWL4hGzu) | 2:52 | 2023-10-12 | 2023-11-03 |

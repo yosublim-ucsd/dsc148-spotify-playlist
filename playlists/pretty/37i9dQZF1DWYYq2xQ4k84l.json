@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2004. Cover: Juanes",
-  "num_followers": 33171,
+  "num_followers": 33183,
   "original_name": "Latin Hits 2004",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDQ5MDRkM2NkZGJhYzBhNzYzZDFkMTlhZDQwNzJlMjZlZTk0NTg2",
+  "snapshot_id": "MCxlZWI0YjM3ODQ2NTI3MWZiNzczNjc3MTY3Yjk1OTg4ZDhlMDM0Zjg3",
   "tracks": [
     {
       "added_at": "2021-12-22 23:41:59",
@@ -211,6 +211,38 @@
     {
       "added_at": "2021-12-22 23:41:59",
       "album": {
+        "name": "Reyli En La Luna",
+        "url": "https://open.spotify.com/album/3BLkomoXh6O4Sp2m9z4tiY"
+      },
+      "artists": [
+        {
+          "name": "Reyli Barba",
+          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
+        }
+      ],
+      "duration_ms": 213573,
+      "name": "Desde Que Llegaste",
+      "url": "https://open.spotify.com/track/4iuQ88fgaqBRkzb1JWKUbZ"
+    },
+    {
+      "added_at": "2021-12-22 23:41:59",
+      "album": {
+        "name": "Mi Sangre",
+        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "La Camisa Negra",
+      "url": "https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL"
+    },
+    {
+      "added_at": "2021-12-22 23:41:59",
+      "album": {
         "name": "Stop",
         "url": "https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX"
       },
@@ -263,22 +295,6 @@
     {
       "added_at": "2021-12-22 23:41:59",
       "album": {
-        "name": "Reyli En La Luna",
-        "url": "https://open.spotify.com/album/3BLkomoXh6O4Sp2m9z4tiY"
-      },
-      "artists": [
-        {
-          "name": "Reyli Barba",
-          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
-        }
-      ],
-      "duration_ms": 213573,
-      "name": "Desde Que Llegaste",
-      "url": "https://open.spotify.com/track/4iuQ88fgaqBRkzb1JWKUbZ"
-    },
-    {
-      "added_at": "2021-12-22 23:41:59",
-      "album": {
         "name": "Valio La Pena",
         "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 289466,
       "name": "Vali\u00f3 la Pena - Salsa Version",
       "url": "https://open.spotify.com/track/2AMDKSt4HJWZbuLupJuNrj"
-    },
-    {
-      "added_at": "2021-12-22 23:41:59",
-      "album": {
-        "name": "Mi Sangre",
-        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "La Camisa Negra",
-      "url": "https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL"
     },
     {
       "added_at": "2021-12-22 23:41:59",
@@ -359,6 +359,22 @@
       "duration_ms": 256555,
       "name": "Pasos Al Costado",
       "url": "https://open.spotify.com/track/7upAH0ezzsThyvr33YKn4u"
+    },
+    {
+      "added_at": "2021-12-22 23:41:59",
+      "album": {
+        "name": "Mi Sangre",
+        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 217560,
+      "name": "Volverte A Ver",
+      "url": "https://open.spotify.com/track/2ZqFfDwNjKvPu3USx3onhO"
     },
     {
       "added_at": "2021-12-22 23:41:59",
@@ -443,18 +459,18 @@
     {
       "added_at": "2021-12-22 23:41:59",
       "album": {
-        "name": "Mi Sangre",
-        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
+        "name": "GUAU!",
+        "url": "https://open.spotify.com/album/1b0s5a9iIWIH5nEpzWSjHG"
       },
       "artists": [
         {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+          "name": "\u00c1rbol",
+          "url": "https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT"
         }
       ],
-      "duration_ms": 217560,
-      "name": "Volverte A Ver",
-      "url": "https://open.spotify.com/track/2ZqFfDwNjKvPu3USx3onhO"
+      "duration_ms": 237800,
+      "name": "El Fantasma",
+      "url": "https://open.spotify.com/track/0N361WhEqVunVl5ZBkfd70"
     },
     {
       "added_at": "2021-12-22 23:41:59",
@@ -475,22 +491,6 @@
     {
       "added_at": "2021-12-22 23:41:59",
       "album": {
-        "name": "GUAU!",
-        "url": "https://open.spotify.com/album/1b0s5a9iIWIH5nEpzWSjHG"
-      },
-      "artists": [
-        {
-          "name": "\u00c1rbol",
-          "url": "https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT"
-        }
-      ],
-      "duration_ms": 237800,
-      "name": "El Fantasma",
-      "url": "https://open.spotify.com/track/0N361WhEqVunVl5ZBkfd70"
-    },
-    {
-      "added_at": "2021-12-22 23:41:59",
-      "album": {
         "name": "El Enemy de Los Guas\u00edbiri",
         "url": "https://open.spotify.com/album/69rKlAM3KXEHw6vPtM6e9L"
       },
@@ -507,6 +507,22 @@
       "duration_ms": 204382,
       "name": "Al Natural (feat. Yandel)",
       "url": "https://open.spotify.com/track/49vwUeeauJgEQxDViXA01C"
+    },
+    {
+      "added_at": "2021-12-22 23:41:59",
+      "album": {
+        "name": "Mi Sangre",
+        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "Para Tu Amor",
+      "url": "https://open.spotify.com/track/2quTytCTP9kKLvpveyO1mt"
     },
     {
       "added_at": "2021-12-22 23:41:59",
@@ -539,22 +555,6 @@
       "duration_ms": 262000,
       "name": "Zafar",
       "url": "https://open.spotify.com/track/1wIUWGdTdhVk5gIPd0ULxX"
-    },
-    {
-      "added_at": "2021-12-22 23:41:59",
-      "album": {
-        "name": "Mi Sangre",
-        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "Para Tu Amor",
-      "url": "https://open.spotify.com/track/2quTytCTP9kKLvpveyO1mt"
     },
     {
       "added_at": "2021-12-22 23:41:59",
@@ -643,22 +643,6 @@
     {
       "added_at": "2021-12-22 23:41:59",
       "album": {
-        "name": "A Contraluz",
-        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
-      },
-      "artists": [
-        {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        }
-      ],
-      "duration_ms": 281533,
-      "name": "Va A Escampar",
-      "url": "https://open.spotify.com/track/4MPwBYidOWnwpKlqQYJEzX"
-    },
-    {
-      "added_at": "2021-12-22 23:41:59",
-      "album": {
         "name": "El N\u00famero Imperfecto",
         "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
       },
@@ -707,18 +691,18 @@
     {
       "added_at": "2021-12-22 23:41:59",
       "album": {
-        "name": "Vuelo",
-        "url": "https://open.spotify.com/album/08KOgBq2xXcfunaEs3Nf2P"
+        "name": "A Contraluz",
+        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
       },
       "artists": [
         {
-          "name": "Kudai",
-          "url": "https://open.spotify.com/artist/0Wnd6L0qEnk8jiCIHrWXaC"
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Ya Nada Queda",
-      "url": "https://open.spotify.com/track/3zN6kV9JWuQYVqXPtNvZku"
+      "duration_ms": 281533,
+      "name": "Va A Escampar",
+      "url": "https://open.spotify.com/track/4MPwBYidOWnwpKlqQYJEzX"
     },
     {
       "added_at": "2021-12-22 23:41:59",
@@ -755,18 +739,18 @@
     {
       "added_at": "2021-12-22 23:41:59",
       "album": {
-        "name": "A Contraluz",
-        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
+        "name": "Vuelo",
+        "url": "https://open.spotify.com/album/08KOgBq2xXcfunaEs3Nf2P"
       },
       "artists": [
         {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+          "name": "Kudai",
+          "url": "https://open.spotify.com/artist/0Wnd6L0qEnk8jiCIHrWXaC"
         }
       ],
-      "duration_ms": 232093,
-      "name": "Llenos De Magia",
-      "url": "https://open.spotify.com/track/2q0k5EsonFQ2dgzpfUJRpu"
+      "duration_ms": 224000,
+      "name": "Ya Nada Queda",
+      "url": "https://open.spotify.com/track/3zN6kV9JWuQYVqXPtNvZku"
     },
     {
       "added_at": "2021-12-22 23:41:59",
@@ -787,6 +771,22 @@
     {
       "added_at": "2021-12-22 23:41:59",
       "album": {
+        "name": "Mexico en la Piel (edicion diamante)",
+        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 175226,
+      "name": "Cielo Rojo",
+      "url": "https://open.spotify.com/track/6z2gdbLv44WxTfpsnvoPLI"
+    },
+    {
+      "added_at": "2021-12-22 23:41:59",
+      "album": {
         "name": "Los Bacatranes",
         "url": "https://open.spotify.com/album/6L3AvTd86IFDOEcPCLUmf7"
       },
@@ -803,22 +803,6 @@
       "duration_ms": 208106,
       "name": "Gata Fiera (feat. Joan)",
       "url": "https://open.spotify.com/track/3UnbRNCJlDzSKz5Yq0dIOs"
-    },
-    {
-      "added_at": "2021-12-22 23:41:59",
-      "album": {
-        "name": "Mexico en la Piel (edicion diamante)",
-        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 175226,
-      "name": "Cielo Rojo",
-      "url": "https://open.spotify.com/track/6z2gdbLv44WxTfpsnvoPLI"
     },
     {
       "added_at": "2021-12-22 23:41:59",
@@ -851,6 +835,26 @@
       "duration_ms": 318760,
       "name": "Volando Entre Tus Brazos - Salsa Version",
       "url": "https://open.spotify.com/track/5oMecwx9BcU6wacLtnBjpo"
+    },
+    {
+      "added_at": "2021-12-22 23:41:59",
+      "album": {
+        "name": "1989-2009",
+        "url": "https://open.spotify.com/album/19I8hvP9qeZOudvIPd7Gv5"
+      },
+      "artists": [
+        {
+          "name": "Aleks Syntek",
+          "url": "https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi"
+        },
+        {
+          "name": "Ana Torroja",
+          "url": "https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124"
+        }
+      ],
+      "duration_ms": 275077,
+      "name": "Duele El Amor!",
+      "url": "https://open.spotify.com/track/2SfWO6xWCJd7q5oiUcphyi"
     }
   ],
   "unique_name": "Latin Hits 2004",

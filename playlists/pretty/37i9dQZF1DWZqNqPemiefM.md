@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,273 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,308 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 5 | [ohayashi](https://open.spotify.com/track/7dadALlIbGUdpYYv7HlEFD) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Windswept Adan](https://open.spotify.com/album/0LxeUCxtPfUtnHTKbW52MB) | 3:44 |
 | 6 | [Clouds](https://open.spotify.com/track/0S9lwd7JF9878QQ6tuuIQg) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Music for Nine Post Cards](https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE) | 5:54 |
 | 7 | [lust](https://open.spotify.com/track/6l2XwFCDccPyfvrAvZ97hC) | [Rei Harakami](https://open.spotify.com/artist/1orPVlRmIYWQ2KkJcMjjnB) | [\[lust\]](https://open.spotify.com/album/5iTBKfzPNHpzZHHWyvXa05) | 5:00 |
-| 8 | [Utai IV: Reawakening](https://open.spotify.com/track/2aOT7WhCfzhQmoTCH3R3Fq) | [Kenji Kawai](https://open.spotify.com/artist/0lzVrkjlIZJH18hk2Gcjkp) | [Ghost in the Shell \(Music Inspired by the Motion Picture\)](https://open.spotify.com/album/7mA7Z5oy212NMRL8lqFzhO) | 2:37 |
+| 8 | [Sacred Play Secret Place](https://open.spotify.com/track/5IJ1XPg1t3IAfhxfLRSuA9) | [matryoshka](https://open.spotify.com/artist/4NRS2lkQBjAEWBihpcKUGK) | [Laideronnette](https://open.spotify.com/album/79ayoalAp1qHjyD1UlvNWs) | 5:17 |
 | 9 | [春雨](https://open.spotify.com/track/1WG1G5nXEzbh2SerQD2lzm) | [soma hayato](https://open.spotify.com/artist/7Ggi7oQcGOPoOZe1tMbxnJ) | [TENbient 3](https://open.spotify.com/album/4nGkqazGpoczvV8FKlgq1p) | 3:02 |
-| 10 | [Sacred Play Secret Place](https://open.spotify.com/track/5IJ1XPg1t3IAfhxfLRSuA9) | [matryoshka](https://open.spotify.com/artist/4NRS2lkQBjAEWBihpcKUGK) | [Laideronnette](https://open.spotify.com/album/79ayoalAp1qHjyD1UlvNWs) | 5:17 |
+| 10 | [Azukiiro No Kaori](https://open.spotify.com/track/5J94BE34S8gqfmhTFQzHmM) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 2:39 |
 | 11 | [木霊\(echo\)](https://open.spotify.com/track/5JN5pYDosceMaIOCFg901Y) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [木霊\(echo\)](https://open.spotify.com/album/5B68msF53E4Bkmei9YBwxr) | 2:03 |
-| 12 | [Azukiiro No Kaori](https://open.spotify.com/track/5J94BE34S8gqfmhTFQzHmM) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 2:39 |
+| 12 | [Utai IV: Reawakening](https://open.spotify.com/track/2aOT7WhCfzhQmoTCH3R3Fq) | [Kenji Kawai](https://open.spotify.com/artist/0lzVrkjlIZJH18hk2Gcjkp) | [Ghost in the Shell \(Music Inspired by the Motion Picture\)](https://open.spotify.com/album/7mA7Z5oy212NMRL8lqFzhO) | 2:37 |
 | 13 | [Ziggy \(Aphex Twin Mix \#1\)](https://open.spotify.com/track/6swGS4LZBAtaJdRndiBqzL) | [Nav Katze](https://open.spotify.com/artist/1iwziQKg4hUeVorWxibG9V) | [Never mind the distortion](https://open.spotify.com/album/4sWgYalzicCobacdleRh2t) | 6:02 |
 | 14 | [Nami](https://open.spotify.com/track/45m8T6QIgYoCZnUNxYeyml) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A) | 3:56 |
 | 15 | [A graca economica de Deus](https://open.spotify.com/track/1CFsbOndaV2w76Ikg1xGun) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4), [Janis Crunch](https://open.spotify.com/artist/57E9fnySsCbg4lFkU8msYJ) | [12 & 1 SONG \(Remastered 2022\)](https://open.spotify.com/album/2DJ7kqNTU47JKFoflue4H7) | 3:58 |
@@ -29,13 +29,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 19 | [GREEN](https://open.spotify.com/track/6RPQdkI8t1eaG2abymrYVK) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 5:14 |
 | 20 | [Tobiume](https://open.spotify.com/track/4IQWc6rhJwpFrRKBLx27X6) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 4:38 |
 | 21 | [Misunderstood](https://open.spotify.com/track/0oxrapKkwUQf865tPTOByL) | [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc) | [Junebug Rhapsody](https://open.spotify.com/album/4kyh3E4DolanD3BMxcxG04) | 5:44 |
-| 22 | [Lasting Memories](https://open.spotify.com/track/7zUsClREgMYQ5GqcnmioIF) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Lasting Memories](https://open.spotify.com/album/20k1KmdxOiXyQHhw7QyXby) | 3:34 |
+| 22 | [Arne](https://open.spotify.com/track/4ZqQqesPkASH1sqsnm6wmo) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [Grace](https://open.spotify.com/album/37vlYDRVRGH8sf5qZG3J6z) | 3:37 |
 | 23 | [家屋風雪月日の鼓動テラスで乾杯](https://open.spotify.com/track/49gf801a7Zyank37ARDWkn) | [MOOTY](https://open.spotify.com/artist/0ZEqcDapsv0OZbjt36sjrU) | [アンビエントジャンクション](https://open.spotify.com/album/0eRLfyOfKjloqSdQ9ACT3z) | 7:33 |
-| 24 | [Arne](https://open.spotify.com/track/4ZqQqesPkASH1sqsnm6wmo) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [Grace](https://open.spotify.com/album/37vlYDRVRGH8sf5qZG3J6z) | 3:37 |
+| 24 | [Sakura](https://open.spotify.com/track/0VbuRai18mA0GtiCiKdqph) | [Takahiro Kido](https://open.spotify.com/artist/7vaTIZVteGSJf1cQ9VzRRI) | [in my Time](https://open.spotify.com/album/6UWrxLbfbJRIgyrbgghiMi) | 1:26 |
 | 25 | [Dear \- Haruhisa Tanaka Remix](https://open.spotify.com/track/2ywToZCo1xMtpjNiajUN15) | [I.P.U](https://open.spotify.com/artist/3I1SIa0FykFwmby0dic6kD), [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Dear \(Haruhisa Tanaka Remix\)](https://open.spotify.com/album/31gQHe5f40ebWcPxgUyUG3) | 2:10 |
-| 26 | [Cinnamon \- Rework](https://open.spotify.com/track/1hdqoVkC8nr2IZjsLUX1ic) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Kazahana](https://open.spotify.com/album/1U2IQ5PDO4lBlB7OS8fWyH) | 2:58 |
+| 26 | [Lasting Memories](https://open.spotify.com/track/7zUsClREgMYQ5GqcnmioIF) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Lasting Memories](https://open.spotify.com/album/20k1KmdxOiXyQHhw7QyXby) | 3:34 |
 | 27 | [Bath＆Frog \(風呂と蛙\)](https://open.spotify.com/track/4UaiMmr3Rqlylaiv2gSFSb) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [Undercurrent](https://open.spotify.com/album/4MKH2kAjS3SgTPm4HICzWJ) | 3:07 |
-| 28 | [Sakura](https://open.spotify.com/track/0VbuRai18mA0GtiCiKdqph) | [Takahiro Kido](https://open.spotify.com/artist/7vaTIZVteGSJf1cQ9VzRRI) | [in my Time](https://open.spotify.com/album/6UWrxLbfbJRIgyrbgghiMi) | 1:26 |
+| 28 | [Cinnamon \- Rework](https://open.spotify.com/track/1hdqoVkC8nr2IZjsLUX1ic) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Kazahana](https://open.spotify.com/album/1U2IQ5PDO4lBlB7OS8fWyH) | 2:58 |
 | 29 | [jellyfish](https://open.spotify.com/track/4rzhdIO9I6nhGWHwKDtRiZ) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [jellyfish](https://open.spotify.com/album/3VXWeLX3SNXLdAi2DEURpY) | 2:44 |
 | 30 | [Blink](https://open.spotify.com/track/7d26IhLPUlL4oncFgsms22) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Music for Nine Post Cards](https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE) | 4:42 |
 | 31 | [Birds Behind the Piano](https://open.spotify.com/track/6AlQgRhDyo1LlwBWNxQpzN) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Birds Behind the Piano](https://open.spotify.com/album/6qVSLxvS3kikidRcU3bF9P) | 3:13 |
@@ -43,13 +43,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 33 | [Ike](https://open.spotify.com/track/6tmWAG5SEJMqVDQmGDGvLp) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A) | 3:28 |
 | 34 | [Seiko 2](https://open.spotify.com/track/56zWPqzYm4YE8vLMgMmScW) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Music For Commercials](https://open.spotify.com/album/6EGDUidDFrjFoxg6uSQdbH) | 1:08 |
 | 35 | [Still Space](https://open.spotify.com/track/7e7HTzbFsmLR0mg9QkwMPr) | [Satoshi Ashikawa](https://open.spotify.com/artist/0O0TybCQ8Mib6g5AwnfXz5) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 3:59 |
-| 36 | [Images Of Broken Light](https://open.spotify.com/track/3VGOjz1kIkGcGohvArNO2u) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Saunter](https://open.spotify.com/album/7ynXCf2JnfnpyQe6QGeEn2) | 8:29 |
-| 37 | [Last Days](https://open.spotify.com/track/2wKV2ewqNf2ZjW4Nn2X5i7) | [Yasushi Yoshida](https://open.spotify.com/artist/2u5s5wxfNszaIZwWknh3eB) | [Heavenly Me Last Days](https://open.spotify.com/album/2ygBTmJ4Mvq2hXL3Ssjojm) | 9:59 |
-| 38 | [Ake](https://open.spotify.com/track/6zM0lTTy7Ws0BmZ8JIja47) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Ake](https://open.spotify.com/album/23LxyHwGGCHfwBcSVZyiuk) | 2:07 |
-| 39 | [Chōchin](https://open.spotify.com/track/7dQe00xxpzTBeG8AYRr5TW) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A) | 4:24 |
-| 40 | [Leaving](https://open.spotify.com/track/2VsCSKol8i9vHyc9S1kI7y) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Leaving](https://open.spotify.com/album/1DyDhZGMs0ta4AFDPgJGTT) | 3:43 |
-| 41 | [FEET](https://open.spotify.com/track/2XBXn7yluQZ6bFReesUjrt) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 6:13 |
-| 42 | [Going To The Sea](https://open.spotify.com/track/2e9PA5stDJoLkcLWN3KVCI) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [万引き家族「オリジナル・サウンドトラック」](https://open.spotify.com/album/5aWso14zYECQPkvEU5ENkQ) | 1:37 |
+| 36 | [FEET](https://open.spotify.com/track/2XBXn7yluQZ6bFReesUjrt) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 6:13 |
+| 37 | [Images Of Broken Light](https://open.spotify.com/track/3VGOjz1kIkGcGohvArNO2u) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Saunter](https://open.spotify.com/album/7ynXCf2JnfnpyQe6QGeEn2) | 8:29 |
+| 38 | [Last Days](https://open.spotify.com/track/2wKV2ewqNf2ZjW4Nn2X5i7) | [Yasushi Yoshida](https://open.spotify.com/artist/2u5s5wxfNszaIZwWknh3eB) | [Heavenly Me Last Days](https://open.spotify.com/album/2ygBTmJ4Mvq2hXL3Ssjojm) | 9:59 |
+| 39 | [Leaving](https://open.spotify.com/track/2VsCSKol8i9vHyc9S1kI7y) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Leaving](https://open.spotify.com/album/1DyDhZGMs0ta4AFDPgJGTT) | 3:43 |
+| 40 | [Going To The Sea](https://open.spotify.com/track/2e9PA5stDJoLkcLWN3KVCI) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [万引き家族「オリジナル・サウンドトラック」](https://open.spotify.com/album/5aWso14zYECQPkvEU5ENkQ) | 1:37 |
+| 41 | [Ake](https://open.spotify.com/track/6zM0lTTy7Ws0BmZ8JIja47) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Ake](https://open.spotify.com/album/23LxyHwGGCHfwBcSVZyiuk) | 2:07 |
+| 42 | [Chōchin](https://open.spotify.com/track/7dQe00xxpzTBeG8AYRr5TW) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A) | 4:24 |
 | 43 | [Energy Flow \(Ki No Nagare\)](https://open.spotify.com/track/4Yif8pWIvQlvTBgFsQJRDA) | [Shiho Yabuki](https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX) | [The Body Is a Message of the Universe \- からだは宇宙のメッセージ](https://open.spotify.com/album/06FCEZqQKs8xTpNl7laVNC) | 3:47 |
 | 44 | [Stars](https://open.spotify.com/track/0k7UbZFOcNSebBda0H52rT) | [Yosi Horikawa](https://open.spotify.com/artist/1JSPpoXFLcEG2WhYlvmHPJ) | [Vapor](https://open.spotify.com/album/1IpHSURAZpaIlAkLX8vqGt) | 6:19 |
 | 45 | [Light Dance](https://open.spotify.com/track/1dNUfu1M6X6qdb5PTRq1tF) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [How My Heart Sings](https://open.spotify.com/album/4d8ZRppxf7DKl8spE3qbbg) | 4:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 49 | [Sleepy Eye](https://open.spotify.com/track/0oRADajeX8yslHA6lpASTf) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Grinning Cat](https://open.spotify.com/album/2FbuxPAPLIssaTRB0WCWAH) | 2:44 |
 | 50 | [Floating](https://open.spotify.com/track/5Zala3EsVj5ZLpQdvlIX2M) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Floating](https://open.spotify.com/album/6b2Sqwcq4FXgRXLVsbIPdr) | 2:16 |
 
-Snapshot ID: `MCxhNWEwYWQ4ZTI4ODE1OWU0N2IxOGQwN2NlNDk3NDFmYzc4NDg0ZDVk`
+Snapshot ID: `MCxkZTgxNjRkYmIzY2UzMTVmMTgwMmI2ZTExZGM0YjVkZDU0ODgyMmQ2`

@@ -1,12 +1,12 @@
 {
   "description": "The hottest local and global tracks in Pakistan. Cover - AUR",
-  "num_followers": 95259,
+  "num_followers": 95364,
   "original_name": "Hot Hits Pakistan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDNkZTVkMDZhMmY0ZjcxMmQwZGE1Mzc4NDNjNGU2NWExYWE5MGRh",
+  "snapshot_id": "MCw3YWYzNjI3MDUxNDNmMTIzYWI1MDRjODEzY2ZiOTA4NWJlYzljMTgz",
   "tracks": [
     {
       "added_at": "2023-11-15 08:16:35",
@@ -1264,12 +1264,16 @@
       "added_at": "2023-11-15 08:16:35",
       "album": {
         "name": "Ghost",
-        "url": "https://open.spotify.com/album/4kWZIqo8LpvJxE7pDcOeQH"
+        "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
       },
       "artists": [
         {
           "name": "Diljit Dosanjh",
           "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Intense",
+          "url": "https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN"
         },
         {
           "name": "Sultaan",
@@ -1278,7 +1282,7 @@
       ],
       "duration_ms": 160500,
       "name": "Lalkara",
-      "url": "https://open.spotify.com/track/6swVP5qDAjqlzbF2R3A4bC"
+      "url": "https://open.spotify.com/track/2oenSXLDbWVaaL7QjSGYj5"
     },
     {
       "added_at": "2023-11-15 08:16:35",

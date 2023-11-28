@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-313 songs - 18 hr 37 min
+315 songs - 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,9 +66,9 @@
 | [U \(三立華劇「我的青春沒在怕」片頭曲\)](https://open.spotify.com/track/5P3r3I4MdjYPYhhP7roD7n) | [劉以豪](https://open.spotify.com/artist/5S4LgCDo6Im3fADQDXyWyP) | [U \(三立華劇「我的青春沒在怕」片頭曲\)](https://open.spotify.com/album/4wnswsR5wYk2QjxGE7WrvE) | 3:08 | 2022-06-06 | 2022-07-28 |
 | [Valentine's Day](https://open.spotify.com/track/0ZSHpad1O6qybnxaEj0lyL) | [A\-do](https://open.spotify.com/artist/24C7uNrWX2Iidb6X63vTGz) | [第9次初戀](https://open.spotify.com/album/77pNXNu9FeYHfBIJOSSFhZ) | 4:03 | 2022-07-25 | 2022-07-27 |
 | [Will You Be My Love \~ 問問 \- WBL系列影集第一季<永遠的第一名>片頭曲](https://open.spotify.com/track/0X0yv9i8T1YdeGbOI0PnwN) | [Kelly Cheng](https://open.spotify.com/artist/1z3k20gEtPm6SKPGPvokDg) | [Will You Be My Love \~ 問問 \(WBL系列影集第一季<永遠的第一名>片頭曲\)](https://open.spotify.com/album/6zFcUqZETFY38EQOhZgeHL) | 3:23 | 2022-06-06 | 2022-07-27 |
-| [With U \(《男生男生配 Boys Like Boys》節目主題曲\)](https://open.spotify.com/track/4PMTllvedph40YFXskSmqV) | [Ray 黃霆睿](https://open.spotify.com/artist/2qRV9YtZuf2FuKWj23cPL4) | [With U](https://open.spotify.com/album/3kNZ0vA64unelkAEcpSiPs) | 2:36 | 2023-10-30 |  |
+| [With U \(《男生男生配 Boys Like Boys》節目主題曲\)](https://open.spotify.com/track/4PMTllvedph40YFXskSmqV) | [Ray 黃霆睿](https://open.spotify.com/artist/2qRV9YtZuf2FuKWj23cPL4) | [With U](https://open.spotify.com/album/3kNZ0vA64unelkAEcpSiPs) | 2:36 | 2023-10-30 | 2023-11-28 |
 | [Xiao Guai Guai](https://open.spotify.com/track/2uPnipbrzbRK6FBjpZmUNP) | [Evan Yo](https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV) | [0 cm to YO](https://open.spotify.com/album/7z2oSPZDtelkc6cT4ymViw) | 3:45 | 2022-06-06 | 2022-07-17 |
-| [You Are My Only One \(電視劇“我和兩個他”主題曲\)](https://open.spotify.com/track/71O9WhK2KDKAeD6ZigPIuB) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL), [Xiao Yu](https://open.spotify.com/artist/7In8YZ3XHuwSNUTEyIO0HA) | [You Are My Only One \(電視劇“我和兩個他”主題曲\)](https://open.spotify.com/album/4tNABtO1IjRcguQA28sP8b) | 4:33 | 2022-06-13 |  |
+| [You Are My Only One \(電視劇“我和兩個他”主題曲\)](https://open.spotify.com/track/71O9WhK2KDKAeD6ZigPIuB) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL), [Xiao Yu](https://open.spotify.com/artist/7In8YZ3XHuwSNUTEyIO0HA) | [You Are My Only One \(電視劇“我和兩個他”主題曲\)](https://open.spotify.com/album/4tNABtO1IjRcguQA28sP8b) | 4:33 | 2022-06-13 | 2023-11-28 |
 | [You're My Love](https://open.spotify.com/track/4oOlDUTm41YVy23XzRssrS) | [李佳翰](https://open.spotify.com/artist/0Smp4iNiSczpOof3x08L1T) | [You're My Love](https://open.spotify.com/album/4vmKVMmlL0aEAaGBWJ12Uo) | 3:17 | 2023-09-18 |  |
 | [⼀直在⼀起好嗎](https://open.spotify.com/track/70cB4HoaERBIDIzIZcIOg5) | [歐得洋](https://open.spotify.com/artist/4bq18ACyIRmH97uzCqrAEx) | [⼀直在⼀起好嗎](https://open.spotify.com/album/4KnTEJL7azTJwzgS5XCGVd) | 2:59 | 2022-09-05 | 2022-09-20 |
 | [一天 \(電視劇《想見你》插曲\)](https://open.spotify.com/track/4yJIECgIOgowfgAkPyvo2c) | [YELLOW黃宣](https://open.spotify.com/artist/6iUs0Aijnu60VAAf8Aj2YM) | [一天 \(電視劇《想見你》插曲\)](https://open.spotify.com/album/0gvJLsBulK413oR9BJTOUM) | 4:08 | 2022-06-06 |  |
@@ -270,6 +270,7 @@
 | [第一默契 \(电视剧 《你微笑时很美》 片尾曲\)](https://open.spotify.com/track/4Y7gVsky7KNr4P8Bjbtlcy) | [Kai Xu](https://open.spotify.com/artist/5aL82Rnbtx5DQp5cAcCUdI), [Xiao Cheng](https://open.spotify.com/artist/1o4C8yeeDMUpc2Hq4jRTwT) | [电视剧《你微笑时很美》影视原声带](https://open.spotify.com/album/3chqJvgxqZfXOhISPnJCNs) | 3:28 | 2022-09-26 |  |
 | [第一默契 Soulmate](https://open.spotify.com/track/3GFdYLcROugyYHy9rcXulD) | [Xu Kai](https://open.spotify.com/artist/00m70qHTo1jHHxLgAXbkXA), [程瀟 \(Cheng Xiao\)](https://open.spotify.com/artist/6eY9LT0jokuZ4iwGoAW9nt) | [你微笑時很美 Falling Into Your Smile OST](https://open.spotify.com/album/7GcUs9FQMCUatmstpSeDZZ) | 3:28 | 2022-06-13 | 2022-09-30 |
 | [等你下課](https://open.spotify.com/track/76WthWB0v0KXUHZoAclMVV) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Gary Yang](https://open.spotify.com/artist/4iFznCrxI2nlVer46cgvWG) | [等你下課](https://open.spotify.com/album/6cGDAwmjAE5i2a9fIY6Cu8) | 4:30 | 2022-06-27 |  |
+| [等著你，夢著你 \- 影集《美食無間》插曲](https://open.spotify.com/track/333r96VxBYJVGrn4XWJauE) | [ANGIE安吉](https://open.spotify.com/artist/4FtbSiZ7Ev2pCRnowp1WIU) | [等著你，夢著你 \(影集《美食無間》插曲\)](https://open.spotify.com/album/2OS0vHafdJcPPGSruzlV7Y) | 3:37 | 2023-11-27 |  |
 | [簡單愛](https://open.spotify.com/track/5Jtg0qcTKMHq3HjPVGRFAi) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [范特西](https://open.spotify.com/album/0xWySBAzp6b37EARWzycQJ) | 4:30 | 2022-07-25 |  |
 | [約會對白](https://open.spotify.com/track/26GGCkThk2p9cr870dTaW7) | [Niko Sun](https://open.spotify.com/artist/0PjwjckyZwud4p7iAIcspa), [朱婧佳](https://open.spotify.com/artist/6QCOFEZJrqExqz9HsIG5zF) | [辭舊](https://open.spotify.com/album/29uplO4qSyKwJGFM38PVPg) | 3:37 | 2022-06-27 | 2022-07-01 |
 | [給你宇宙\(泰版《放羊的星星》推廣曲\)](https://open.spotify.com/track/0Qxm6hUFBFEmRBMYef09Rs) | [孟梓](https://open.spotify.com/artist/5nZUFKAqvjcWqQDNQ8chVU) | [泰版《放羊的星星》原聲帶](https://open.spotify.com/album/19ljgcrHrFILHKxw7GZX0O) | 3:50 | 2023-04-24 | 2023-05-02 |
@@ -320,6 +321,7 @@
 | [靠近一點點](https://open.spotify.com/track/01cO3ZfjGwlY7nMDDr5tDZ) | [Lara Liang](https://open.spotify.com/artist/4VgfrD5wuAoN428fBZNSyW) | [惡作劇之吻](https://open.spotify.com/album/13JpgLyP8ZDyAtsRllAaGe) | 3:33 | 2022-07-25 |  |
 | [靠近一點點](https://open.spotify.com/track/2ZehpdL252VK2Wk2uUqt9m) | [Lara Liang](https://open.spotify.com/artist/4VgfrD5wuAoN428fBZNSyW) | [惡作劇之吻 電視原聲帶](https://open.spotify.com/album/0FiMDZOsRsYtKJjF8hZZo2) | 3:33 | 2022-06-06 | 2022-07-25 |
 | [餘生都是你](https://open.spotify.com/track/3RigT3Zbtvad7iGClLi2eh) | [Z.TAO](https://open.spotify.com/artist/7brWAbUcLVhV9o1w1dLcsx) | [餘生都是你](https://open.spotify.com/album/29oAqIrnduw3NMtbRfSzSB) | 3:00 | 2022-09-05 | 2023-07-04 |
+| [魔法](https://open.spotify.com/track/1C5DoIcsnOZ9SLxIWREedM) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus) | [魔法](https://open.spotify.com/album/4hKnbjet7BKrgKIinnwx4z) | 3:16 | 2023-11-27 |  |
 | [黏黏 \(feat\. 許瑋甯\)](https://open.spotify.com/track/5AnzBfbZ7G88EQqIO5uxFL) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi), [許瑋甯](https://open.spotify.com/artist/0bzVqWAANIcEyvwoR78szB) | [如果雨之後](https://open.spotify.com/album/63lCCebNDe20nxyCvFWk8g) | 4:05 | 2022-06-13 |  |
 
 \*This playlist was first scraped on 2022-06-09. Prior content cannot be recovered.

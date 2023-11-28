@@ -8443,6 +8443,24 @@
     },
     {
       "album": {
+        "name": "The Man With The Bag",
+        "url": "https://open.spotify.com/album/10hvp4CsZXetsllRbQ0K6c"
+      },
+      "artists": [
+        {
+          "name": "Julie Benko",
+          "url": "https://open.spotify.com/artist/2VxiprvyXzmROUx8sObjkO"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179813,
+      "name": "The Man With The Bag",
+      "url": "https://open.spotify.com/track/0aOVq9nUd7V1ZQaBJOzksy"
+    },
+    {
+      "album": {
         "name": "The Manger",
         "url": "https://open.spotify.com/album/07eR5Q7zlJXjotNfqekAjH"
       },

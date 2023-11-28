@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: hemlocke springs ",
-  "num_followers": 1697172,
+  "num_followers": 1697136,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzllNTE5NGMzNDYyMjY1NjdjODI4MjhkMTNiNzI1NGRiY2JlYzBl",
+  "snapshot_id": "MCxiNWVlYzA1MWI2ZDcxNjgxMGUwNDM3YTg3NGRjODMxYTlkMDA2NTAw",
   "tracks": [
     {
       "added_at": "2023-03-24 04:00:00",
@@ -361,6 +361,22 @@
       "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
     },
     {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 160493,
+      "name": "Sunny day",
+      "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
+    },
+    {
       "added_at": "2023-11-06 22:17:47",
       "album": {
         "name": "know that you're not alone",
@@ -375,22 +391,6 @@
       "duration_ms": 176431,
       "name": "know that you're not alone",
       "url": "https://open.spotify.com/track/2FdrRql2ltOBghZNvwcNrn"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Good Riddance (Deluxe)",
-        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 233499,
-      "name": "Best",
-      "url": "https://open.spotify.com/track/5HO2RD12vZ5NcIdAULo43M"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -411,18 +411,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Beatopia",
-        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
+        "name": "Good Riddance (Deluxe)",
+        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
       },
       "artists": [
         {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 160493,
-      "name": "Sunny day",
-      "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
+      "duration_ms": 233499,
+      "name": "Best",
+      "url": "https://open.spotify.com/track/5HO2RD12vZ5NcIdAULo43M"
     },
     {
       "added_at": "2023-04-21 04:19:11",
@@ -845,6 +845,22 @@
       "url": "https://open.spotify.com/track/786ApDDgJHMbvYaJCA4psT"
     },
     {
+      "added_at": "2023-07-07 18:51:45",
+      "album": {
+        "name": "a beautiful blur",
+        "url": "https://open.spotify.com/album/198gsVHJBnvsKSdLbucwVI"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 238346,
+      "name": "Alonica",
+      "url": "https://open.spotify.com/track/02CUxAiWvvEq6pLItneLQ6"
+    },
+    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "The Fool",
@@ -875,22 +891,6 @@
       "duration_ms": 199880,
       "name": "easy breezy",
       "url": "https://open.spotify.com/track/1eXzN85vuVH3VpDJlsrH8j"
-    },
-    {
-      "added_at": "2023-07-07 18:51:45",
-      "album": {
-        "name": "a beautiful blur",
-        "url": "https://open.spotify.com/album/198gsVHJBnvsKSdLbucwVI"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 238346,
-      "name": "Alonica",
-      "url": "https://open.spotify.com/track/02CUxAiWvvEq6pLItneLQ6"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -925,22 +925,6 @@
       "url": "https://open.spotify.com/track/7LODrLEO3DzBUyxxCuA6Eo"
     },
     {
-      "added_at": "2023-10-11 00:27:27",
-      "album": {
-        "name": "Let Me Go",
-        "url": "https://open.spotify.com/album/3y71vzK8w8vkyJejrz9UfF"
-      },
-      "artists": [
-        {
-          "name": "Carl :Cries",
-          "url": "https://open.spotify.com/artist/6B1HBD8SBFMKAimyjUFesP"
-        }
-      ],
-      "duration_ms": 184750,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/1NqIMpmNukrvX1aAgxujvO"
-    },
-    {
       "added_at": "2023-05-19 04:00:00",
       "album": {
         "name": "Sunshine Baby",
@@ -971,6 +955,22 @@
       "duration_ms": 236100,
       "name": "The Earth is a Very Small Dot",
       "url": "https://open.spotify.com/track/0WNKKSvQmWcdoI7MvYtcqh"
+    },
+    {
+      "added_at": "2023-10-11 00:27:27",
+      "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/3y71vzK8w8vkyJejrz9UfF"
+      },
+      "artists": [
+        {
+          "name": "Carl :Cries",
+          "url": "https://open.spotify.com/artist/6B1HBD8SBFMKAimyjUFesP"
+        }
+      ],
+      "duration_ms": 184750,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/1NqIMpmNukrvX1aAgxujvO"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1041,6 +1041,22 @@
       "url": "https://open.spotify.com/track/1HHxnVIKnlNnCPnUxsnsXs"
     },
     {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Her Favorite Flowers",
+        "url": "https://open.spotify.com/album/3ZtwVDikRanGqN17IGpWgh"
+      },
+      "artists": [
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
+        }
+      ],
+      "duration_ms": 193242,
+      "name": "hold me, never let go",
+      "url": "https://open.spotify.com/track/6JfcUgZqHbb20KTfHayS9j"
+    },
+    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Perspective",
@@ -1055,6 +1071,22 @@
       "duration_ms": 163050,
       "name": "Perspective",
       "url": "https://open.spotify.com/track/1WcVAZYGMKdd2cqeDpuDGI"
+    },
+    {
+      "added_at": "2023-08-25 04:56:29",
+      "album": {
+        "name": "I Love My Girl, She's My Boy",
+        "url": "https://open.spotify.com/album/6CS7IxjsKQAamJTVWvQWOF"
+      },
+      "artists": [
+        {
+          "name": "BETWEEN FRIENDS",
+          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
+        }
+      ],
+      "duration_ms": 173800,
+      "name": "Self destruct",
+      "url": "https://open.spotify.com/track/2ROJw0Y9Ypl79RYsYuqT3w"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1077,22 +1109,6 @@
       "url": "https://open.spotify.com/track/6YDydLu0kWJXAuU6WYcbH2"
     },
     {
-      "added_at": "2023-08-25 04:56:29",
-      "album": {
-        "name": "I Love My Girl, She's My Boy",
-        "url": "https://open.spotify.com/album/6CS7IxjsKQAamJTVWvQWOF"
-      },
-      "artists": [
-        {
-          "name": "BETWEEN FRIENDS",
-          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
-        }
-      ],
-      "duration_ms": 173800,
-      "name": "Self destruct",
-      "url": "https://open.spotify.com/track/2ROJw0Y9Ypl79RYsYuqT3w"
-    },
-    {
       "added_at": "2023-04-14 04:00:00",
       "album": {
         "name": "Friends",
@@ -1107,22 +1123,6 @@
       "duration_ms": 186643,
       "name": "Friends",
       "url": "https://open.spotify.com/track/0BwDF0PRX9skmZ0BUWmLOF"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Her Favorite Flowers",
-        "url": "https://open.spotify.com/album/3ZtwVDikRanGqN17IGpWgh"
-      },
-      "artists": [
-        {
-          "name": "Rocco",
-          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
-        }
-      ],
-      "duration_ms": 193242,
-      "name": "hold me, never let go",
-      "url": "https://open.spotify.com/track/6JfcUgZqHbb20KTfHayS9j"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1273,22 +1273,6 @@
       "url": "https://open.spotify.com/track/181PmaC6c39r59gfhDGKdh"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Stones",
-        "url": "https://open.spotify.com/album/06spE9ETkbGlW4P82T5A5t"
-      },
-      "artists": [
-        {
-          "name": "Sophia Alexa",
-          "url": "https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ"
-        }
-      ],
-      "duration_ms": 192490,
-      "name": "Stones",
-      "url": "https://open.spotify.com/track/2Y9s7N2xW1mPhnasYm5Cuq"
-    },
-    {
       "added_at": "2023-06-30 04:21:00",
       "album": {
         "name": "19",
@@ -1303,6 +1287,22 @@
       "duration_ms": 136800,
       "name": "19",
       "url": "https://open.spotify.com/track/7g9V2gcj9evDyeD5qKiM2k"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Stones",
+        "url": "https://open.spotify.com/album/06spE9ETkbGlW4P82T5A5t"
+      },
+      "artists": [
+        {
+          "name": "Sophia Alexa",
+          "url": "https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ"
+        }
+      ],
+      "duration_ms": 192490,
+      "name": "Stones",
+      "url": "https://open.spotify.com/track/2Y9s7N2xW1mPhnasYm5Cuq"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1377,22 +1377,6 @@
       "url": "https://open.spotify.com/track/1In2l2VqjtZIW9loAA341S"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Me & Me",
-        "url": "https://open.spotify.com/album/6zmMU4QN9I1a05rqCLuQpi"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 147596,
-      "name": "Me & Me",
-      "url": "https://open.spotify.com/track/3VJqv26NK9cCRXsjDKJOGY"
-    },
-    {
       "added_at": "2023-03-31 04:00:00",
       "album": {
         "name": "Seasons",
@@ -1423,6 +1407,22 @@
       "duration_ms": 199042,
       "name": "Til U Hate Me",
       "url": "https://open.spotify.com/track/3wrgRknQKf58IIEbV4flhx"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Me & Me",
+        "url": "https://open.spotify.com/album/6zmMU4QN9I1a05rqCLuQpi"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 147596,
+      "name": "Me & Me",
+      "url": "https://open.spotify.com/track/3VJqv26NK9cCRXsjDKJOGY"
     },
     {
       "added_at": "2023-08-25 04:56:29",
@@ -1621,22 +1621,6 @@
       "url": "https://open.spotify.com/track/66FQlENQhffJNXm8Ae4KIg"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Pollen",
-        "url": "https://open.spotify.com/album/4Fk0oNk3vdmFjuTlpmKIQU"
-      },
-      "artists": [
-        {
-          "name": "Tennis",
-          "url": "https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM"
-        }
-      ],
-      "duration_ms": 254133,
-      "name": "Let's Make a Mistake Tonight",
-      "url": "https://open.spotify.com/track/00wi8vEbJgzq62wfz1UMkX"
-    },
-    {
       "added_at": "2023-04-21 04:19:11",
       "album": {
         "name": "Rocket Ship",
@@ -1653,20 +1637,36 @@
       "url": "https://open.spotify.com/track/7ul0qSFpZHXS8XncqBNIwS"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Everything Is Boring",
-        "url": "https://open.spotify.com/album/3IVFpVQvospcyELiYdMlvX"
+        "name": "Pollen",
+        "url": "https://open.spotify.com/album/4Fk0oNk3vdmFjuTlpmKIQU"
       },
       "artists": [
         {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+          "name": "Tennis",
+          "url": "https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM"
         }
       ],
-      "duration_ms": 176005,
-      "name": "Everything Is Boring",
-      "url": "https://open.spotify.com/track/0dCdc1vL6N9rbyQ89waSCx"
+      "duration_ms": 254133,
+      "name": "Let's Make a Mistake Tonight",
+      "url": "https://open.spotify.com/track/00wi8vEbJgzq62wfz1UMkX"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Drop Cherries",
+        "url": "https://open.spotify.com/album/7asv9hl6KprOE0AR0kubiL"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 206427,
+      "name": "I Can't Get My Head Around You",
+      "url": "https://open.spotify.com/track/66Ew9TmVnxjg8HTjsFoSts"
     }
   ],
   "unique_name": "Indie Pop",

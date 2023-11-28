@@ -1,12 +1,12 @@
 {
   "description": "Que comience la fiesta.",
-  "num_followers": 38437,
+  "num_followers": 38497,
   "original_name": "Bailando Merengue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODA2ZDUwOTg0ZmQ0ZmY0N2EwYjcwOWZiNTQ3NDliODJjYzliZGNi",
+  "snapshot_id": "MCwyY2YwOTEzZDE1MzkwYWVkMDczOTM1MGNjOGExMzFlMzdmOTRhYzY3",
   "tracks": [
     {
       "added_at": "2023-09-22 04:59:00",
@@ -127,22 +127,6 @@
     {
       "added_at": "2023-09-22 04:59:00",
       "album": {
-        "name": "In Da House",
-        "url": "https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe"
-      },
-      "artists": [
-        {
-          "name": "Proyecto Uno",
-          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
-        }
-      ],
-      "duration_ms": 303106,
-      "name": "Tiburon",
-      "url": "https://open.spotify.com/track/2GcjfckZexh9wRRjg9KtQG"
-    },
-    {
-      "added_at": "2023-09-22 04:59:00",
-      "album": {
         "name": "El Poder de New York",
         "url": "https://open.spotify.com/album/4pqxqBDUI1WnJXItH0SFji"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 279893,
       "name": "Abusadora",
       "url": "https://open.spotify.com/track/0Pr05tDGNCf4f8Fe8ubSJ4"
+    },
+    {
+      "added_at": "2023-09-22 04:59:00",
+      "album": {
+        "name": "Mientras M\u00e1s Lo Pienso\u2026.T\u00fa",
+        "url": "https://open.spotify.com/album/4kdnwluJCETwHMdCvl0daq"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra y 440",
+          "url": "https://open.spotify.com/artist/2H5zNiHrjmfPWN0ezEkWXP"
+        }
+      ],
+      "duration_ms": 257265,
+      "name": "Me Enamoro de Ella",
+      "url": "https://open.spotify.com/track/5hQufMNvbNYBn4F0CiYq0E"
     },
     {
       "added_at": "2023-09-22 04:59:00",
@@ -179,18 +179,34 @@
     {
       "added_at": "2023-09-22 04:59:00",
       "album": {
-        "name": "Mientras M\u00e1s Lo Pienso\u2026.T\u00fa",
-        "url": "https://open.spotify.com/album/4kdnwluJCETwHMdCvl0daq"
+        "name": "Suavemente",
+        "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
       },
       "artists": [
         {
-          "name": "Juan Luis Guerra y 440",
-          "url": "https://open.spotify.com/artist/2H5zNiHrjmfPWN0ezEkWXP"
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
         }
       ],
-      "duration_ms": 257265,
-      "name": "Me Enamoro de Ella",
-      "url": "https://open.spotify.com/track/5hQufMNvbNYBn4F0CiYq0E"
+      "duration_ms": 274160,
+      "name": "Tu Sonrisa",
+      "url": "https://open.spotify.com/track/3IS5IWZuDJJdqBJ9XVqpbh"
+    },
+    {
+      "added_at": "2023-09-22 04:59:00",
+      "album": {
+        "name": "In Da House",
+        "url": "https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe"
+      },
+      "artists": [
+        {
+          "name": "Proyecto Uno",
+          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
+        }
+      ],
+      "duration_ms": 303106,
+      "name": "Tiburon",
+      "url": "https://open.spotify.com/track/2GcjfckZexh9wRRjg9KtQG"
     },
     {
       "added_at": "2023-09-22 04:59:00",
@@ -223,22 +239,6 @@
       "duration_ms": 286466,
       "name": "La Ventanita",
       "url": "https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl"
-    },
-    {
-      "added_at": "2023-09-22 04:59:00",
-      "album": {
-        "name": "Suavemente",
-        "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
-      },
-      "artists": [
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        }
-      ],
-      "duration_ms": 274160,
-      "name": "Tu Sonrisa",
-      "url": "https://open.spotify.com/track/3IS5IWZuDJJdqBJ9XVqpbh"
     },
     {
       "added_at": "2023-09-22 04:59:00",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-09-22 04:59:00",
       "album": {
-        "name": "Internacional",
-        "url": "https://open.spotify.com/album/5jr3mCoNe2N4vTRrUlwxT3"
-      },
-      "artists": [
-        {
-          "name": "Oro Solido",
-          "url": "https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4"
-        }
-      ],
-      "duration_ms": 267733,
-      "name": "La Tanga",
-      "url": "https://open.spotify.com/track/0c27iEtApUClcQ44aZ4BIP"
-    },
-    {
-      "added_at": "2023-09-22 04:59:00",
-      "album": {
         "name": "Pintame",
         "url": "https://open.spotify.com/album/1JyYGBfd7EIVXtKyaOcyLB"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 259066,
       "name": "P\u00edntame",
       "url": "https://open.spotify.com/track/7gNI9f8NTCU6hLV0pLkTT7"
+    },
+    {
+      "added_at": "2023-09-22 04:59:00",
+      "album": {
+        "name": "Internacional",
+        "url": "https://open.spotify.com/album/5jr3mCoNe2N4vTRrUlwxT3"
+      },
+      "artists": [
+        {
+          "name": "Oro Solido",
+          "url": "https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4"
+        }
+      ],
+      "duration_ms": 267733,
+      "name": "La Tanga",
+      "url": "https://open.spotify.com/track/0c27iEtApUClcQ44aZ4BIP"
     },
     {
       "added_at": "2023-09-22 04:59:00",
@@ -371,6 +371,54 @@
     {
       "added_at": "2023-09-22 04:59:00",
       "album": {
+        "name": "Los Reyes Del Ritmo",
+        "url": "https://open.spotify.com/album/16fBXAobpXR3CMdoln0h3o"
+      },
+      "artists": [
+        {
+          "name": "La Makina",
+          "url": "https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX"
+        }
+      ],
+      "duration_ms": 232133,
+      "name": "Nadie Se Muere",
+      "url": "https://open.spotify.com/track/2BnphYbwrZvdrGnc1A9kUe"
+    },
+    {
+      "added_at": "2023-09-22 04:59:00",
+      "album": {
+        "name": "Suavemente",
+        "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        }
+      ],
+      "duration_ms": 208800,
+      "name": "Nuestra Cancion",
+      "url": "https://open.spotify.com/track/2yB721Szta49XabGt5FQ0u"
+    },
+    {
+      "added_at": "2023-09-22 04:59:00",
+      "album": {
+        "name": "Ojal\u00e1 Que Llueva Caf\u00e9",
+        "url": "https://open.spotify.com/album/1wLyFmyTJ8jUb4J6TwC9uc"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 253333,
+      "name": "Ojal\u00e1 Que Llueva Caf\u00e9",
+      "url": "https://open.spotify.com/track/2HQqhVP8NOaoIhPTQ8I5bm"
+    },
+    {
+      "added_at": "2023-09-22 04:59:00",
+      "album": {
         "name": "El Hombre Merengue",
         "url": "https://open.spotify.com/album/2pQywjfiQQQQnjRGrxjHwd"
       },
@@ -387,18 +435,18 @@
     {
       "added_at": "2023-09-22 04:59:00",
       "album": {
-        "name": "Los Reyes Del Ritmo",
-        "url": "https://open.spotify.com/album/16fBXAobpXR3CMdoln0h3o"
+        "name": "Rebotando",
+        "url": "https://open.spotify.com/album/5aAR4JhNb2bA0r6uPHlhYz"
       },
       "artists": [
         {
-          "name": "La Makina",
-          "url": "https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX"
+          "name": "Ilegales",
+          "url": "https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z"
         }
       ],
-      "duration_ms": 232133,
-      "name": "Nadie Se Muere",
-      "url": "https://open.spotify.com/track/2BnphYbwrZvdrGnc1A9kUe"
+      "duration_ms": 263493,
+      "name": "El Taqui Taqui - Original Mix",
+      "url": "https://open.spotify.com/track/20jvgYvnqySWnNCsHQZnXk"
     },
     {
       "added_at": "2023-09-22 04:59:00",
@@ -435,54 +483,6 @@
     {
       "added_at": "2023-09-22 04:59:00",
       "album": {
-        "name": "Ojal\u00e1 Que Llueva Caf\u00e9",
-        "url": "https://open.spotify.com/album/1wLyFmyTJ8jUb4J6TwC9uc"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 253333,
-      "name": "Ojal\u00e1 Que Llueva Caf\u00e9",
-      "url": "https://open.spotify.com/track/2HQqhVP8NOaoIhPTQ8I5bm"
-    },
-    {
-      "added_at": "2023-09-22 04:59:00",
-      "album": {
-        "name": "Rebotando",
-        "url": "https://open.spotify.com/album/5aAR4JhNb2bA0r6uPHlhYz"
-      },
-      "artists": [
-        {
-          "name": "Ilegales",
-          "url": "https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z"
-        }
-      ],
-      "duration_ms": 263493,
-      "name": "El Taqui Taqui - Original Mix",
-      "url": "https://open.spotify.com/track/20jvgYvnqySWnNCsHQZnXk"
-    },
-    {
-      "added_at": "2023-09-22 04:59:00",
-      "album": {
-        "name": "Suavemente",
-        "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
-      },
-      "artists": [
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        }
-      ],
-      "duration_ms": 208800,
-      "name": "Nuestra Cancion",
-      "url": "https://open.spotify.com/track/2yB721Szta49XabGt5FQ0u"
-    },
-    {
-      "added_at": "2023-09-22 04:59:00",
-      "album": {
         "name": "Nueva Vida",
         "url": "https://open.spotify.com/album/2l9A7QT8GhT6VxF1y8OsMn"
       },
@@ -495,38 +495,6 @@
       "duration_ms": 260000,
       "name": "La Loba",
       "url": "https://open.spotify.com/track/0T0UiFcWu7Up3jjtcZwQ5p"
-    },
-    {
-      "added_at": "2023-09-22 04:59:00",
-      "album": {
-        "name": "Vida",
-        "url": "https://open.spotify.com/album/0WPfdodeO7qCvBXGKpU2B9"
-      },
-      "artists": [
-        {
-          "name": "Kinito Mendez",
-          "url": "https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT"
-        }
-      ],
-      "duration_ms": 293306,
-      "name": "El Baile del Sua Sua",
-      "url": "https://open.spotify.com/track/6VCAUpeKXJrvcpV93RIGne"
-    },
-    {
-      "added_at": "2023-09-22 04:59:00",
-      "album": {
-        "name": "Los A\u00f1os Dorados",
-        "url": "https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 266762,
-      "name": "El Jardinero",
-      "url": "https://open.spotify.com/track/5O4a5RCYTJ452nsCuiPwtD"
     },
     {
       "added_at": "2023-09-22 04:59:00",
@@ -547,6 +515,22 @@
     {
       "added_at": "2023-09-22 04:59:00",
       "album": {
+        "name": "Los A\u00f1os Dorados",
+        "url": "https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 266762,
+      "name": "El Jardinero",
+      "url": "https://open.spotify.com/track/5O4a5RCYTJ452nsCuiPwtD"
+    },
+    {
+      "added_at": "2023-09-22 04:59:00",
+      "album": {
         "name": "La Orquesta Que Impone El Ritmo",
         "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
       },
@@ -559,6 +543,54 @@
       "duration_ms": 248480,
       "name": "Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/6l0xwRuI7LrQ7xfBx4YLwi"
+    },
+    {
+      "added_at": "2023-09-22 04:59:00",
+      "album": {
+        "name": "Mientras M\u00e1s Lo Pienso\u2026.T\u00fa",
+        "url": "https://open.spotify.com/album/4kdnwluJCETwHMdCvl0daq"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra y 440",
+          "url": "https://open.spotify.com/artist/2H5zNiHrjmfPWN0ezEkWXP"
+        }
+      ],
+      "duration_ms": 233720,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/1fdvF8aq4sagcs8eabTjDR"
+    },
+    {
+      "added_at": "2023-09-22 04:59:00",
+      "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/0WPfdodeO7qCvBXGKpU2B9"
+      },
+      "artists": [
+        {
+          "name": "Kinito Mendez",
+          "url": "https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT"
+        }
+      ],
+      "duration_ms": 293306,
+      "name": "El Baile del Sua Sua",
+      "url": "https://open.spotify.com/track/6VCAUpeKXJrvcpV93RIGne"
+    },
+    {
+      "added_at": "2023-09-22 04:59:00",
+      "album": {
+        "name": "Ilegales",
+        "url": "https://open.spotify.com/album/3zYFvSvwwb52XuXf25rtCg"
+      },
+      "artists": [
+        {
+          "name": "Ilegales",
+          "url": "https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z"
+        }
+      ],
+      "duration_ms": 264160,
+      "name": "La Morena",
+      "url": "https://open.spotify.com/track/3sVfjl9XFBk8gjGrph7EWo"
     },
     {
       "added_at": "2023-09-22 04:59:00",
@@ -583,38 +615,6 @@
     {
       "added_at": "2023-09-22 04:59:00",
       "album": {
-        "name": "Ilegales",
-        "url": "https://open.spotify.com/album/3zYFvSvwwb52XuXf25rtCg"
-      },
-      "artists": [
-        {
-          "name": "Ilegales",
-          "url": "https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z"
-        }
-      ],
-      "duration_ms": 264160,
-      "name": "La Morena",
-      "url": "https://open.spotify.com/track/3sVfjl9XFBk8gjGrph7EWo"
-    },
-    {
-      "added_at": "2023-09-22 04:59:00",
-      "album": {
-        "name": "Mientras M\u00e1s Lo Pienso\u2026.T\u00fa",
-        "url": "https://open.spotify.com/album/4kdnwluJCETwHMdCvl0daq"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra y 440",
-          "url": "https://open.spotify.com/artist/2H5zNiHrjmfPWN0ezEkWXP"
-        }
-      ],
-      "duration_ms": 233720,
-      "name": "T\u00fa",
-      "url": "https://open.spotify.com/track/1fdvF8aq4sagcs8eabTjDR"
-    },
-    {
-      "added_at": "2023-09-22 04:59:00",
-      "album": {
         "name": "Chayanne",
         "url": "https://open.spotify.com/album/20LKBgzwk7zrSSn0N8ukFV"
       },
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-09-22 04:59:00",
       "album": {
-        "name": "Coleccion Cristiana",
-        "url": "https://open.spotify.com/album/4u3f2d7j7SUlPh5dGaJf1v"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 195653,
-      "name": "Las Avispas",
-      "url": "https://open.spotify.com/track/1oInQX1RuH1TcHuDv8Gvw3"
-    },
-    {
-      "added_at": "2023-09-22 04:59:00",
-      "album": {
         "name": "Sandy & Papo MC",
         "url": "https://open.spotify.com/album/6W81jH29u4tqW0Yrvdhe88"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 290226,
       "name": "La Hora De Bailar",
       "url": "https://open.spotify.com/track/2bsW096eoys2fLL8YZAkLn"
+    },
+    {
+      "added_at": "2023-09-22 04:59:00",
+      "album": {
+        "name": "Coleccion Cristiana",
+        "url": "https://open.spotify.com/album/4u3f2d7j7SUlPh5dGaJf1v"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 195653,
+      "name": "Las Avispas",
+      "url": "https://open.spotify.com/track/1oInQX1RuH1TcHuDv8Gvw3"
     },
     {
       "added_at": "2023-09-22 04:59:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-09-22 04:59:00",
       "album": {
-        "name": "Mujer De Fuego",
-        "url": "https://open.spotify.com/album/4VV3JWcUvnRNE0OhuRkugJ"
-      },
-      "artists": [
-        {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
-        }
-      ],
-      "duration_ms": 267533,
-      "name": "Muchacho malo",
-      "url": "https://open.spotify.com/track/58MAh1fboa0lvwaX2JS0B1"
-    },
-    {
-      "added_at": "2023-09-22 04:59:00",
-      "album": {
         "name": "La Orquesta Que Impone El Ritmo",
         "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 247059,
       "name": "Ag\u00fcita 'e Coco",
       "url": "https://open.spotify.com/track/5KIIx001g9DeBGUH5eCc83"
+    },
+    {
+      "added_at": "2023-09-22 04:59:00",
+      "album": {
+        "name": "Mujer De Fuego",
+        "url": "https://open.spotify.com/album/4VV3JWcUvnRNE0OhuRkugJ"
+      },
+      "artists": [
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        }
+      ],
+      "duration_ms": 267533,
+      "name": "Muchacho malo",
+      "url": "https://open.spotify.com/track/58MAh1fboa0lvwaX2JS0B1"
     },
     {
       "added_at": "2023-09-22 04:59:00",

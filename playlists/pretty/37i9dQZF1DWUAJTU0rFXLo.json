@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas que fazem de qualquer hora, a mais perfeita para um baile! Foto: Carlos Daf\u00e9",
-  "num_followers": 27688,
+  "num_followers": 27709,
   "original_name": "Baile Black",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODNlYTU4NjExZTcwZjZiY2U5YmY2MTRhYjBiNDlkZWYxYWQ5Nzgw",
+  "snapshot_id": "MCxmYWE0MDdlODBlMWMwZDdiODM0ZGUxMzlhNTdlMjA0YzUxMWVkMjgx",
   "tracks": [
     {
       "added_at": "2023-09-14 19:24:02",
@@ -179,6 +179,22 @@
     {
       "added_at": "2023-09-14 19:24:02",
       "album": {
+        "name": "I Never Loved a Man the Way I Love You",
+        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "Respect",
+      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
+    },
+    {
+      "added_at": "2023-09-14 19:24:02",
+      "album": {
         "name": "Inseparable",
         "url": "https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 230466,
       "name": "Never Too Much",
       "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
-    },
-    {
-      "added_at": "2023-09-14 19:24:02",
-      "album": {
-        "name": "I Never Loved a Man the Way I Love You",
-        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "Respect",
-      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
     },
     {
       "added_at": "2023-09-14 19:24:02",
@@ -355,18 +355,18 @@
     {
       "added_at": "2023-09-14 19:24:02",
       "album": {
-        "name": "Let's Stay Together",
-        "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
+        "name": "Every Great Motown Hit Of Marvin Gaye",
+        "url": "https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL"
       },
       "artists": [
         {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
         }
       ],
-      "duration_ms": 383502,
-      "name": "How Can You Mend a Broken Heart",
-      "url": "https://open.spotify.com/track/6lUXneXZ9jc3HSMHgd8oqh"
+      "duration_ms": 255133,
+      "name": "Got To Give It Up - Pt. 1",
+      "url": "https://open.spotify.com/track/7ohR0qPH6f2Vuj2pUNanJG"
     },
     {
       "added_at": "2023-09-14 19:24:02",
@@ -383,6 +383,22 @@
       "duration_ms": 266133,
       "name": "Superstition",
       "url": "https://open.spotify.com/track/4N0TP4Rmj6QQezWV88ARNJ"
+    },
+    {
+      "added_at": "2023-09-14 19:24:02",
+      "album": {
+        "name": "Let's Stay Together",
+        "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 383502,
+      "name": "How Can You Mend a Broken Heart",
+      "url": "https://open.spotify.com/track/6lUXneXZ9jc3HSMHgd8oqh"
     },
     {
       "added_at": "2023-09-14 19:24:02",
@@ -435,18 +451,18 @@
     {
       "added_at": "2023-09-14 19:24:02",
       "album": {
-        "name": "Every Great Motown Hit Of Marvin Gaye",
-        "url": "https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL"
+        "name": "Silk Degrees (2023 Remaster)",
+        "url": "https://open.spotify.com/album/1iIyo1JkpnNz83Mf4I9AiI"
       },
       "artists": [
         {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+          "name": "Boz Scaggs",
+          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
         }
       ],
-      "duration_ms": 255133,
-      "name": "Got To Give It Up - Pt. 1",
-      "url": "https://open.spotify.com/track/7ohR0qPH6f2Vuj2pUNanJG"
+      "duration_ms": 317788,
+      "name": "Lowdown (2023 Remaster)",
+      "url": "https://open.spotify.com/track/5QhikAUv91oMAaFnfKz22u"
     },
     {
       "added_at": "2023-09-14 19:24:02",
@@ -463,22 +479,6 @@
       "duration_ms": 222600,
       "name": "Higher Ground",
       "url": "https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu"
-    },
-    {
-      "added_at": "2023-09-14 19:24:02",
-      "album": {
-        "name": "Silk Degrees (2023 Remaster)",
-        "url": "https://open.spotify.com/album/1iIyo1JkpnNz83Mf4I9AiI"
-      },
-      "artists": [
-        {
-          "name": "Boz Scaggs",
-          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
-        }
-      ],
-      "duration_ms": 317788,
-      "name": "Lowdown (2023 Remaster)",
-      "url": "https://open.spotify.com/track/5QhikAUv91oMAaFnfKz22u"
     },
     {
       "added_at": "2023-09-14 19:24:02",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-09-14 19:24:02",
       "album": {
-        "name": "Curtis (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3tgJmEz0R0ZsRSrpwafp4R"
-      },
-      "artists": [
-        {
-          "name": "Curtis Mayfield",
-          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
-        }
-      ],
-      "duration_ms": 535333,
-      "name": "Move on Up - Extended Version",
-      "url": "https://open.spotify.com/track/01gDLZsi0j5fWC28FLPNO8"
-    },
-    {
-      "added_at": "2023-09-14 19:24:02",
-      "album": {
         "name": "My Cherie Amour",
         "url": "https://open.spotify.com/album/51DUbu4v2tjYXxgy4I8vrG"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 173306,
       "name": "My Cherie Amour",
       "url": "https://open.spotify.com/track/5ZoDwIP1ntHwciLjydJ8X2"
+    },
+    {
+      "added_at": "2023-09-14 19:24:02",
+      "album": {
+        "name": "Curtis (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3tgJmEz0R0ZsRSrpwafp4R"
+      },
+      "artists": [
+        {
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+        }
+      ],
+      "duration_ms": 535333,
+      "name": "Move on Up - Extended Version",
+      "url": "https://open.spotify.com/track/01gDLZsi0j5fWC28FLPNO8"
     },
     {
       "added_at": "2023-09-14 19:24:02",
@@ -687,6 +687,22 @@
       "duration_ms": 179226,
       "name": "I Want You Back",
       "url": "https://open.spotify.com/track/3tSi6iFO9yLGIYIqMEgjC9"
+    },
+    {
+      "added_at": "2023-09-14 19:24:02",
+      "album": {
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 394266,
+      "name": "Isn't She Lovely",
+      "url": "https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH"
     },
     {
       "added_at": "2023-09-14 19:24:02",
@@ -775,22 +791,6 @@
     {
       "added_at": "2023-09-14 19:24:02",
       "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 394266,
-      "name": "Isn't She Lovely",
-      "url": "https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH"
-    },
-    {
-      "added_at": "2023-09-14 19:24:02",
-      "album": {
         "name": "Back To Back",
         "url": "https://open.spotify.com/album/4d4Z42kZJMcrmYlZ7I19rn"
       },
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-09-14 19:24:02",
       "album": {
-        "name": "All the Greatest Hits",
-        "url": "https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ"
-      },
-      "artists": [
-        {
-          "name": "Zapp",
-          "url": "https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi"
-        }
-      ],
-      "duration_ms": 163666,
-      "name": "Be Alright",
-      "url": "https://open.spotify.com/track/29NVSIdQtqIRzZAgBG1v31"
-    },
-    {
-      "added_at": "2023-09-14 19:24:02",
-      "album": {
         "name": "A Bit Of Soul",
         "url": "https://open.spotify.com/album/2RmmiMocgFh0MxSeUy6D0S"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 153600,
       "name": "One Step Ahead",
       "url": "https://open.spotify.com/track/0dSRoWYf0GOzX9L44g53sZ"
+    },
+    {
+      "added_at": "2023-09-14 19:24:02",
+      "album": {
+        "name": "All the Greatest Hits",
+        "url": "https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ"
+      },
+      "artists": [
+        {
+          "name": "Zapp",
+          "url": "https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi"
+        }
+      ],
+      "duration_ms": 163666,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/29NVSIdQtqIRzZAgBG1v31"
     },
     {
       "added_at": "2023-09-14 19:24:02",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-09-14 19:24:02",
       "album": {
-        "name": "Open Our Eyes",
-        "url": "https://open.spotify.com/album/5wELXR9l9i0ffOylTmpHV0"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 290186,
-      "name": "Devotion",
-      "url": "https://open.spotify.com/track/2RH61BqMEeRjfND7MQBWHU"
-    },
-    {
-      "added_at": "2023-09-14 19:24:02",
-      "album": {
         "name": "Tim Maia 1970",
         "url": "https://open.spotify.com/album/7HjYI9iWYOsEEvBhyCva66"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 131625,
       "name": "Coron\u00e9 Antonio Bento",
       "url": "https://open.spotify.com/track/5GzX9ZgX16D1F2her7bEsv"
+    },
+    {
+      "added_at": "2023-09-14 19:24:02",
+      "album": {
+        "name": "Open Our Eyes",
+        "url": "https://open.spotify.com/album/5wELXR9l9i0ffOylTmpHV0"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 290186,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/2RH61BqMEeRjfND7MQBWHU"
     },
     {
       "added_at": "2023-09-14 19:24:02",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-09-14 19:24:02",
       "album": {
+        "name": "Na Rua, Na Chuva, Na Fazenda",
+        "url": "https://open.spotify.com/album/5RyGjTmlcwDBaVbFeZrTld"
+      },
+      "artists": [
+        {
+          "name": "Hyldon",
+          "url": "https://open.spotify.com/artist/0ejC7uoHm9rW22mjbLpDgY"
+        }
+      ],
+      "duration_ms": 212146,
+      "name": "Na Rua, Na Chuva, Na Fazenda (Casinha De Sap\u00ea)",
+      "url": "https://open.spotify.com/track/1A4Hcus0L5Wt3us3atsVTk"
+    },
+    {
+      "added_at": "2023-09-14 19:24:02",
+      "album": {
         "name": "A Night to Remember",
         "url": "https://open.spotify.com/album/3OYXhFsRdeQZHuFbL7amMc"
       },
@@ -999,18 +1015,18 @@
     {
       "added_at": "2023-09-14 19:24:02",
       "album": {
-        "name": "Na Rua, Na Chuva, Na Fazenda",
-        "url": "https://open.spotify.com/album/5RyGjTmlcwDBaVbFeZrTld"
+        "name": "Brasilian Fiesta",
+        "url": "https://open.spotify.com/album/2YVjdkQrpF8tCDA69jql8t"
       },
       "artists": [
         {
-          "name": "Hyldon",
-          "url": "https://open.spotify.com/artist/0ejC7uoHm9rW22mjbLpDgY"
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
         }
       ],
-      "duration_ms": 212146,
-      "name": "Na Rua, Na Chuva, Na Fazenda (Casinha De Sap\u00ea)",
-      "url": "https://open.spotify.com/track/1A4Hcus0L5Wt3us3atsVTk"
+      "duration_ms": 222600,
+      "name": "Sossego",
+      "url": "https://open.spotify.com/track/08XDypkeVbvjZkVBEkORmT"
     },
     {
       "added_at": "2023-09-14 19:24:02",
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2023-09-14 19:24:02",
       "album": {
-        "name": "Brasilian Fiesta",
-        "url": "https://open.spotify.com/album/2YVjdkQrpF8tCDA69jql8t"
-      },
-      "artists": [
-        {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "duration_ms": 222600,
-      "name": "Sossego",
-      "url": "https://open.spotify.com/track/08XDypkeVbvjZkVBEkORmT"
-    },
-    {
-      "added_at": "2023-09-14 19:24:02",
-      "album": {
         "name": "McCartney II (Special Edition)",
         "url": "https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV"
       },
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2023-09-14 19:24:02",
       "album": {
-        "name": "Gafieira Universal",
-        "url": "https://open.spotify.com/album/38pRkmDsvQHMvkqIgvJyo3"
+        "name": "World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia",
+        "url": "https://open.spotify.com/album/0q41u8oMFT9Ewr2tqGnmL8"
       },
       "artists": [
         {
-          "name": "Banda Black Rio",
-          "url": "https://open.spotify.com/artist/47UDFBXxSM6d5zbKvflXhv"
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
         }
       ],
-      "duration_ms": 217733,
-      "name": "Vidigal",
-      "url": "https://open.spotify.com/track/4y2Va0sLjrmSb0iAovAkmP"
+      "duration_ms": 208573,
+      "name": "Que Beleza",
+      "url": "https://open.spotify.com/track/0IY5lHDP46LTWfEwu66TZd"
     },
     {
       "added_at": "2023-09-14 19:24:02",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-09-14 19:24:02",
       "album": {
-        "name": "World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia",
-        "url": "https://open.spotify.com/album/0q41u8oMFT9Ewr2tqGnmL8"
-      },
-      "artists": [
-        {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "duration_ms": 208573,
-      "name": "Que Beleza",
-      "url": "https://open.spotify.com/track/0IY5lHDP46LTWfEwu66TZd"
-    },
-    {
-      "added_at": "2023-09-14 19:24:02",
-      "album": {
         "name": "The Dude",
         "url": "https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 166906,
       "name": "Olha Eu Aqui Oh! Oh! Oh!...",
       "url": "https://open.spotify.com/track/2KQF7yoMJw9C5KnoKPd1Kr"
+    },
+    {
+      "added_at": "2023-09-14 19:24:02",
+      "album": {
+        "name": "Gafieira Universal",
+        "url": "https://open.spotify.com/album/38pRkmDsvQHMvkqIgvJyo3"
+      },
+      "artists": [
+        {
+          "name": "Banda Black Rio",
+          "url": "https://open.spotify.com/artist/47UDFBXxSM6d5zbKvflXhv"
+        }
+      ],
+      "duration_ms": 217733,
+      "name": "Vidigal",
+      "url": "https://open.spotify.com/track/4y2Va0sLjrmSb0iAovAkmP"
     },
     {
       "added_at": "2023-09-14 19:24:02",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-09-14 19:24:02",
       "album": {
-        "name": "Deus, A Natureza E A M\u00fasica",
-        "url": "https://open.spotify.com/album/0bDXy2W26ogvTl4tWPwWqm"
-      },
-      "artists": [
-        {
-          "name": "Hyldon",
-          "url": "https://open.spotify.com/artist/0ejC7uoHm9rW22mjbLpDgY"
-        }
-      ],
-      "duration_ms": 240200,
-      "name": "Homem P\u00e1ssaro",
-      "url": "https://open.spotify.com/track/1Uqv00LUu1Tcc88ODusHbH"
-    },
-    {
-      "added_at": "2023-09-14 19:24:02",
-      "album": {
         "name": "B.R.3",
         "url": "https://open.spotify.com/album/2emB3ekuPrMS6pxhIPv9ij"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 182333,
       "name": "BR-3",
       "url": "https://open.spotify.com/track/46K2Fg0qmy9wOzozHWSV2Q"
+    },
+    {
+      "added_at": "2023-09-14 19:24:02",
+      "album": {
+        "name": "Deus, A Natureza E A M\u00fasica",
+        "url": "https://open.spotify.com/album/0bDXy2W26ogvTl4tWPwWqm"
+      },
+      "artists": [
+        {
+          "name": "Hyldon",
+          "url": "https://open.spotify.com/artist/0ejC7uoHm9rW22mjbLpDgY"
+        }
+      ],
+      "duration_ms": 240200,
+      "name": "Homem P\u00e1ssaro",
+      "url": "https://open.spotify.com/track/1Uqv00LUu1Tcc88ODusHbH"
     },
     {
       "added_at": "2023-09-14 19:24:02",

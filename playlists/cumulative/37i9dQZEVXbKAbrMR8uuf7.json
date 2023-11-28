@@ -1966,7 +1966,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 240773,
       "name": "BABY NUEVA",
       "url": "https://open.spotify.com/track/3NhstUmrlhaN1M6hP8zMbb"
@@ -9762,7 +9762,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 152960,
       "name": "Kemba Walker",
       "url": "https://open.spotify.com/track/4jhHaLksdP8DJZzxYAjOSz"
@@ -12569,6 +12569,28 @@
     },
     {
       "album": {
+        "name": "Mala De Verdad (Tik Tak)",
+        "url": "https://open.spotify.com/album/7K70x95rpKdWPWaVDxdRZF"
+      },
+      "artists": [
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        },
+        {
+          "name": "GeezLy",
+          "url": "https://open.spotify.com/artist/2pm5MR0BU1dzvOd7ernZQc"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157005,
+      "name": "Mala De Verdad (Tik Tak)",
+      "url": "https://open.spotify.com/track/4Q8gwcvgyDo1dbxxETrsYE"
+    },
+    {
+      "album": {
         "name": "3MEN2 KBRN",
         "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
       },
@@ -14460,7 +14482,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 379058,
       "name": "NADIE SABE",
       "url": "https://open.spotify.com/track/23d8v6tU6lR77pFKsApMtF"
@@ -14698,6 +14720,24 @@
       "duration_ms": 278000,
       "name": "Nirvana",
       "url": "https://open.spotify.com/track/17uRUPppKaZku4J3t2gRkT"
+    },
+    {
+      "album": {
+        "name": "Niveles",
+        "url": "https://open.spotify.com/album/1a8gGGwIfEDc6hDA8tzjVA"
+      },
+      "artists": [
+        {
+          "name": "GeezLy",
+          "url": "https://open.spotify.com/artist/2pm5MR0BU1dzvOd7ernZQc"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171572,
+      "name": "Niveles",
+      "url": "https://open.spotify.com/track/3ir7hVJYwIb3MQr7IwbXaX"
     },
     {
       "album": {
@@ -14960,7 +15000,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-24",
+      "date_removed": null,
       "duration_ms": 185411,
       "name": "NO PARE - REMIX",
       "url": "https://open.spotify.com/track/64eezAxFI6wjCPcshao8Pe"

@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 35292,
+  "num_followers": 35403,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhM2U1M2M0ZTk3NWMyNTVmM2Q0MTk4NmYxZTUxYjYzYzIzZDI4MWRj",
+  "snapshot_id": "MCwwNGFkMjIxYWE5ZjA5M2JkMmI4YTkzZjAyY2U2NzE1MTFlMWE0N2Iy",
   "tracks": [
     {
       "added_at": "2023-11-23 23:00:00",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-11-23 23:00:00",
       "album": {
-        "name": "Revolver, Vol. 3 (Compiled)",
-        "url": "https://open.spotify.com/album/2pbdhETHPvZOF5OlJhcQd6"
-      },
-      "artists": [
-        {
-          "name": "STI T's Soul",
-          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
-        }
-      ],
-      "duration_ms": 419010,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/7LCVp1LIS1aYHlfvMUdJuD"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
         "name": "Skies Showers EP",
         "url": "https://open.spotify.com/album/2Y36PkF781y7Tiu7ROuQR0"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 530086,
       "name": "Stay For The Night",
       "url": "https://open.spotify.com/track/4KrvgIX9t5QL7ulBfE9Gqt"
+    },
+    {
+      "added_at": "2023-11-23 23:00:00",
+      "album": {
+        "name": "Revolver, Vol. 3 (Compiled)",
+        "url": "https://open.spotify.com/album/2pbdhETHPvZOF5OlJhcQd6"
+      },
+      "artists": [
+        {
+          "name": "STI T's Soul",
+          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
+        }
+      ],
+      "duration_ms": 419010,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/7LCVp1LIS1aYHlfvMUdJuD"
     },
     {
       "added_at": "2023-11-23 23:00:00",
@@ -443,6 +443,30 @@
       "duration_ms": 395709,
       "name": "Love I Know",
       "url": "https://open.spotify.com/track/0SqmE1h7wjpq8BN6YvMk6P"
+    },
+    {
+      "added_at": "2023-11-23 23:00:00",
+      "album": {
+        "name": "Ingoma",
+        "url": "https://open.spotify.com/album/7FkJnT8Ve5hYmzVya06wF0"
+      },
+      "artists": [
+        {
+          "name": "DJ Couza",
+          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
+        },
+        {
+          "name": "Mr.Cantata",
+          "url": "https://open.spotify.com/artist/3r1o9eEvpXFvToBB6Y5GR0"
+        },
+        {
+          "name": "Bikie",
+          "url": "https://open.spotify.com/artist/4LwtgBxKUoIWPWOCdOA9yu"
+        }
+      ],
+      "duration_ms": 430538,
+      "name": "Ingoma - Original Mix",
+      "url": "https://open.spotify.com/track/7oyMweIaDux964WgeejCf7"
     },
     {
       "added_at": "2023-11-23 23:00:00",
@@ -543,30 +567,6 @@
       "duration_ms": 466467,
       "name": "Don't 4get To Call Me",
       "url": "https://open.spotify.com/track/289Qw6pCjcz8FnaPNGLuvP"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
-        "name": "Ingoma",
-        "url": "https://open.spotify.com/album/7FkJnT8Ve5hYmzVya06wF0"
-      },
-      "artists": [
-        {
-          "name": "DJ Couza",
-          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
-        },
-        {
-          "name": "Mr.Cantata",
-          "url": "https://open.spotify.com/artist/3r1o9eEvpXFvToBB6Y5GR0"
-        },
-        {
-          "name": "Bikie",
-          "url": "https://open.spotify.com/artist/4LwtgBxKUoIWPWOCdOA9yu"
-        }
-      ],
-      "duration_ms": 430538,
-      "name": "Ingoma - Original Mix",
-      "url": "https://open.spotify.com/track/7oyMweIaDux964WgeejCf7"
     },
     {
       "added_at": "2023-11-23 23:00:00",
@@ -703,6 +703,30 @@
     {
       "added_at": "2023-11-23 23:00:00",
       "album": {
+        "name": "Dark Snow",
+        "url": "https://open.spotify.com/album/5AfN5Q8rmWE5XZ8fUxJUlV"
+      },
+      "artists": [
+        {
+          "name": "The Rudeman",
+          "url": "https://open.spotify.com/artist/4Dqd0M9FVObaErF14Tgj2z"
+        },
+        {
+          "name": "Keegs Bantom",
+          "url": "https://open.spotify.com/artist/1XgMCVnnBJvz7djvk86Ry6"
+        },
+        {
+          "name": "Bones",
+          "url": "https://open.spotify.com/artist/40Vr9VUq5tVrKOOsd68ojn"
+        }
+      ],
+      "duration_ms": 367124,
+      "name": "Dark Snow - Bones Remix",
+      "url": "https://open.spotify.com/track/7ss7beYi753Sxs0fvvtC7T"
+    },
+    {
+      "added_at": "2023-11-23 23:00:00",
+      "album": {
         "name": "Old but New Last Episode",
         "url": "https://open.spotify.com/album/6Y1u7IbxK8uufy9akyjbv4"
       },
@@ -767,22 +791,6 @@
     {
       "added_at": "2023-11-23 23:00:00",
       "album": {
-        "name": "Electronic Deep House King",
-        "url": "https://open.spotify.com/album/00eLGRfYqp78QhwWp7i5Bx"
-      },
-      "artists": [
-        {
-          "name": "Seventhi DJ",
-          "url": "https://open.spotify.com/artist/0Ft03Su4IUoiKjyVOI2JR7"
-        }
-      ],
-      "duration_ms": 336352,
-      "name": "Electronic Deep House King",
-      "url": "https://open.spotify.com/track/0GguOx9XILJ3MXuKwE435W"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
         "name": "Artform",
         "url": "https://open.spotify.com/album/0rLy843gi8BhO75dqJvIq5"
       },
@@ -795,6 +803,22 @@
       "duration_ms": 459731,
       "name": "Flute Activation - Original Mix",
       "url": "https://open.spotify.com/track/1NZPhhTvwYalEzospkigPU"
+    },
+    {
+      "added_at": "2023-11-23 23:00:00",
+      "album": {
+        "name": "Electronic Deep House King",
+        "url": "https://open.spotify.com/album/00eLGRfYqp78QhwWp7i5Bx"
+      },
+      "artists": [
+        {
+          "name": "Seventhi DJ",
+          "url": "https://open.spotify.com/artist/0Ft03Su4IUoiKjyVOI2JR7"
+        }
+      ],
+      "duration_ms": 336352,
+      "name": "Electronic Deep House King",
+      "url": "https://open.spotify.com/track/0GguOx9XILJ3MXuKwE435W"
     },
     {
       "added_at": "2023-11-23 23:00:00",
@@ -891,22 +915,6 @@
     {
       "added_at": "2023-11-23 23:00:00",
       "album": {
-        "name": "Synonymous",
-        "url": "https://open.spotify.com/album/1bIDXVdqamnZD89I6UgN55"
-      },
-      "artists": [
-        {
-          "name": "STI T's Soul",
-          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
-        }
-      ],
-      "duration_ms": 412813,
-      "name": "Synonymous",
-      "url": "https://open.spotify.com/track/3rYWLCEfiqj76hlGOXKiWu"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
         "name": "Those Times",
         "url": "https://open.spotify.com/album/5YblhSjbYeSAkY1JoWmkVY"
       },
@@ -923,6 +931,22 @@
     {
       "added_at": "2023-11-23 23:00:00",
       "album": {
+        "name": "Synonymous",
+        "url": "https://open.spotify.com/album/1bIDXVdqamnZD89I6UgN55"
+      },
+      "artists": [
+        {
+          "name": "STI T's Soul",
+          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
+        }
+      ],
+      "duration_ms": 412813,
+      "name": "Synonymous",
+      "url": "https://open.spotify.com/track/3rYWLCEfiqj76hlGOXKiWu"
+    },
+    {
+      "added_at": "2023-11-23 23:00:00",
+      "album": {
         "name": "Dusty Streets",
         "url": "https://open.spotify.com/album/0FzV8GEZEzQKoR3OA6Osf6"
       },
@@ -935,22 +959,6 @@
       "duration_ms": 386525,
       "name": "Dusty Streets",
       "url": "https://open.spotify.com/track/0vrMIwW4ldO73eRMJAR10q"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
-        "name": "Gambiando Caras",
-        "url": "https://open.spotify.com/album/34Z2Yz8YHzjvFZGqxr5RzG"
-      },
-      "artists": [
-        {
-          "name": "Sir Vee The Great",
-          "url": "https://open.spotify.com/artist/54Dv7ivRbifKAIo3fKLlyI"
-        }
-      ],
-      "duration_ms": 435179,
-      "name": "Gambiando Caras",
-      "url": "https://open.spotify.com/track/4YNgFSOwvgYuiaDv15kiGL"
     }
   ],
   "unique_name": "Deep House Session",

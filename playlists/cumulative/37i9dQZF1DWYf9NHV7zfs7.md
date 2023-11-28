@@ -4,7 +4,7 @@
 
 > y nada más que pop ✨✨✨<br/>📷 Miranda!
 
-166 songs - 9 hr 9 min
+167 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,9 +60,10 @@
 | [Fuera del mercado](https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:39 | 2023-07-14 | 2023-10-24 |
 | [Ganas](https://open.spotify.com/track/54JWFISolUGIbtNeANGp2B) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Mi Primer Día Triste](https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo) | 4:14 | 2023-10-23 |  |
 | [Get Lucky \(feat\. Pharrell Williams and Nile Rodgers\)](https://open.spotify.com/track/69kOkLUCkxIZYexIgSG8rq) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 6:09 | 2023-07-14 | 2023-10-24 |
+| [GUIAME](https://open.spotify.com/track/0b37vDgD47kRYes63nKX5v) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [GUIAME](https://open.spotify.com/album/057ObaWRT9nY13cHAEggco) | 3:18 | 2023-11-24 |  |
 | [GUY.exe](https://open.spotify.com/track/3JTjLyrnevl9ASw3ayGO2P) | [Superfruit](https://open.spotify.com/artist/50VoYemccTaftNfFqWtlXd) | [Future Friends](https://open.spotify.com/album/0Nq4Sve58GRDINSpbFMyz6) | 3:42 | 2023-07-14 | 2023-10-24 |
 | [Hablo Con Vos \(feat\. Nahuel Barbero\)](https://open.spotify.com/track/54HUyDF7rL85evFE2PLYKu) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB), [Nahuel Barbero](https://open.spotify.com/artist/2QQM8K8Eqkysh2Dn5Myv6I) | [Otro Lado](https://open.spotify.com/album/2PFUqGpxYAEZZqHjjXQZdN) | 3:51 | 2023-10-23 |  |
-| [Hace frío ya](https://open.spotify.com/track/7l2pUd2jBCYxSBLwqzOrfk) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [Hormonal](https://open.spotify.com/album/56DSf4tGPPYKHl1LExWwKl) | 2:33 | 2023-10-23 |  |
+| [Hace frío ya](https://open.spotify.com/track/7l2pUd2jBCYxSBLwqzOrfk) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [Hormonal](https://open.spotify.com/album/56DSf4tGPPYKHl1LExWwKl) | 2:33 | 2023-10-23 | 2023-11-28 |
 | [Huracán](https://open.spotify.com/track/4goMiemP1T7MguxhnRwj9z) | [Robleis](https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht) | [Desde el Huracán](https://open.spotify.com/album/6qqF989mpKkNu6XkG73bg2) | 2:24 | 2023-11-10 |  |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2023-07-14 | 2023-10-24 |
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh) | 3:32 | 2023-07-14 | 2023-10-24 |

@@ -1,12 +1,12 @@
 {
   "description": "House music lives here. United under one roof, featuring Diplo & HUGEL.",
-  "num_followers": 1908161,
+  "num_followers": 1908315,
   "original_name": "Housewerk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTYzZjY1ZGY3YTYxZjc2MDk2YzE1NmM4ZmUwNDM5YzUxYjA5Yzg1",
+  "snapshot_id": "MCwwOGZkZjc4NTZmNTNjNGZlMjNlN2UwMmIzNGFjYWRhMGI0YTk1ZDZi",
   "tracks": [
     {
       "added_at": "2023-11-24 05:00:00",
@@ -655,18 +655,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Rainfall (Praise You)",
-        "url": "https://open.spotify.com/album/4VanY5i4E59Mhz52qznJ95"
+        "name": "B.O.T.A. (Baddest Of Them All)",
+        "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
       },
       "artists": [
         {
-          "name": "Tom Santa",
-          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        },
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
         }
       ],
-      "duration_ms": 166569,
-      "name": "Rainfall (Praise You)",
-      "url": "https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl"
+      "duration_ms": 226626,
+      "name": "B.O.T.A. (Baddest Of Them All) - Edit",
+      "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -691,22 +695,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "B.O.T.A. (Baddest Of Them All)",
-        "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
+        "name": "Rainfall (Praise You)",
+        "url": "https://open.spotify.com/album/4VanY5i4E59Mhz52qznJ95"
       },
       "artists": [
         {
-          "name": "Eliza Rose",
-          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
-        },
-        {
-          "name": "Interplanetary Criminal",
-          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+          "name": "Tom Santa",
+          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
         }
       ],
-      "duration_ms": 226626,
-      "name": "B.O.T.A. (Baddest Of Them All) - Edit",
-      "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
+      "duration_ms": 166569,
+      "name": "Rainfall (Praise You)",
+      "url": "https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -763,26 +763,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Marianela (Que Pasa)",
-        "url": "https://open.spotify.com/album/5As1VmPUMn4HIgYSbFD6l0"
+        "name": "TAKE IT OFF",
+        "url": "https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW"
       },
       "artists": [
         {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
         },
         {
-          "name": "Merk & Kremont",
-          "url": "https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7"
-        },
-        {
-          "name": "Lirico En La Casa",
-          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
+          "name": "Aatig",
+          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
         }
       ],
-      "duration_ms": 145766,
-      "name": "Marianela (Que Pasa)",
-      "url": "https://open.spotify.com/track/5bZjb7xKqLqa58QiUBcVvl"
+      "duration_ms": 194604,
+      "name": "TAKE IT OFF",
+      "url": "https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -847,22 +843,26 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "TAKE IT OFF",
-        "url": "https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW"
+        "name": "Marianela (Que Pasa)",
+        "url": "https://open.spotify.com/album/5As1VmPUMn4HIgYSbFD6l0"
       },
       "artists": [
         {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
         },
         {
-          "name": "Aatig",
-          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
+          "name": "Merk & Kremont",
+          "url": "https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7"
+        },
+        {
+          "name": "Lirico En La Casa",
+          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
         }
       ],
-      "duration_ms": 194604,
-      "name": "TAKE IT OFF",
-      "url": "https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB"
+      "duration_ms": 145766,
+      "name": "Marianela (Que Pasa)",
+      "url": "https://open.spotify.com/track/5bZjb7xKqLqa58QiUBcVvl"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Candy",
-        "url": "https://open.spotify.com/album/6re4JcyBsSuYZNm6V3Jl1m"
-      },
-      "artists": [
-        {
-          "name": "Torren Foot",
-          "url": "https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4"
-        }
-      ],
-      "duration_ms": 195241,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/2aiy3gAjU8yynkrbpEVQm9"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "The Big Easy",
         "url": "https://open.spotify.com/album/3zfEQld2beOeYmEU9uQONf"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 185519,
       "name": "The Big Easy",
       "url": "https://open.spotify.com/track/3Q4DJp31Dat8RoPN3KwpJy"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Candy",
+        "url": "https://open.spotify.com/album/6re4JcyBsSuYZNm6V3Jl1m"
+      },
+      "artists": [
+        {
+          "name": "Torren Foot",
+          "url": "https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4"
+        }
+      ],
+      "duration_ms": 195241,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/2aiy3gAjU8yynkrbpEVQm9"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Call My Name",
-        "url": "https://open.spotify.com/album/1JU6xZQeMx05tLZAkm5uCv"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        }
-      ],
-      "duration_ms": 198508,
-      "name": "Call My Name",
-      "url": "https://open.spotify.com/track/0vQ2LIvx5U6QN7BnUHWwsJ"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Take U",
         "url": "https://open.spotify.com/album/1BsEalQCwpuAbqQloCDY9u"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 162727,
       "name": "Take U",
       "url": "https://open.spotify.com/track/1YwWHm6Ad1fizVPaQ8nrco"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/1JU6xZQeMx05tLZAkm5uCv"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        }
+      ],
+      "duration_ms": 198508,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/0vQ2LIvx5U6QN7BnUHWwsJ"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Bongoloco",
+        "url": "https://open.spotify.com/album/14L2mKGJukRn3jtAB04ZxV"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "Bongoloco",
+      "url": "https://open.spotify.com/track/3k45oaugo4fin6M1KrtO8f"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Downstream",
         "url": "https://open.spotify.com/album/0brBvk7cCEKV8merp6uy8Z"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 175179,
       "name": "Downstream",
       "url": "https://open.spotify.com/track/0XfRQzFsLzWuVeJh3iX5Tw"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Bongoloco",
-        "url": "https://open.spotify.com/album/14L2mKGJukRn3jtAB04ZxV"
-      },
-      "artists": [
-        {
-          "name": "Bruno Furlan",
-          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "Bongoloco",
-      "url": "https://open.spotify.com/track/3k45oaugo4fin6M1KrtO8f"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1751,6 +1751,50 @@
       "duration_ms": 178125,
       "name": "Tudo Bem, Tudo Bom - Radio Edit",
       "url": "https://open.spotify.com/track/6qcPNJ9UGyBNxEc6r9Aiki"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Better Recognize",
+        "url": "https://open.spotify.com/album/3E3fHTWpI3VSYUZpVO1Eag"
+      },
+      "artists": [
+        {
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+        },
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        }
+      ],
+      "duration_ms": 211586,
+      "name": "Better Recognize",
+      "url": "https://open.spotify.com/track/1ME5pFc81YOLOrcV1Z4Ovb"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Ti Sento",
+        "url": "https://open.spotify.com/album/7Cm248Tj1NigR5Jujq0IJq"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "Matia Bazar",
+          "url": "https://open.spotify.com/artist/449mAbddAC2PAgNM3TLyc5"
+        },
+        {
+          "name": "Antonella Ruggiero",
+          "url": "https://open.spotify.com/artist/7xELwlmfwkTUMKJNSxN5To"
+        }
+      ],
+      "duration_ms": 180261,
+      "name": "Ti Sento",
+      "url": "https://open.spotify.com/track/5PcmvoBshN5YfFmU4uSXwd"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1795,50 +1839,6 @@
       "duration_ms": 184160,
       "name": "Whisper (feat. Raphi)",
       "url": "https://open.spotify.com/track/6v5ovNPrLpOkFyM7gWorZW"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Ti Sento",
-        "url": "https://open.spotify.com/album/7Cm248Tj1NigR5Jujq0IJq"
-      },
-      "artists": [
-        {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
-        },
-        {
-          "name": "Matia Bazar",
-          "url": "https://open.spotify.com/artist/449mAbddAC2PAgNM3TLyc5"
-        },
-        {
-          "name": "Antonella Ruggiero",
-          "url": "https://open.spotify.com/artist/7xELwlmfwkTUMKJNSxN5To"
-        }
-      ],
-      "duration_ms": 180261,
-      "name": "Ti Sento",
-      "url": "https://open.spotify.com/track/5PcmvoBshN5YfFmU4uSXwd"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Better Recognize",
-        "url": "https://open.spotify.com/album/3E3fHTWpI3VSYUZpVO1Eag"
-      },
-      "artists": [
-        {
-          "name": "ZHU",
-          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
-        },
-        {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
-        }
-      ],
-      "duration_ms": 211586,
-      "name": "Better Recognize",
-      "url": "https://open.spotify.com/track/1ME5pFc81YOLOrcV1Z4Ovb"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1895,26 +1895,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Misbehave",
-        "url": "https://open.spotify.com/album/3HOuGQzSeUbHKB94Chyxj1"
-      },
-      "artists": [
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        },
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        }
-      ],
-      "duration_ms": 174220,
-      "name": "Misbehave",
-      "url": "https://open.spotify.com/track/5ycGcr8ZiWiutDmLps8UQG"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "In My Head (feat. Shayan)",
         "url": "https://open.spotify.com/album/0mV5yjkvo3rjFGMhduzsIh"
       },
@@ -1935,6 +1915,26 @@
       "duration_ms": 170750,
       "name": "In My Head (feat. Shayan)",
       "url": "https://open.spotify.com/track/41ftjwBKEn5vjMslWMA195"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Misbehave",
+        "url": "https://open.spotify.com/album/3HOuGQzSeUbHKB94Chyxj1"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        },
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        }
+      ],
+      "duration_ms": 174220,
+      "name": "Misbehave",
+      "url": "https://open.spotify.com/track/5ycGcr8ZiWiutDmLps8UQG"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1975,6 +1975,26 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Bless Me (with Discrete)",
+        "url": "https://open.spotify.com/album/5TPcHw0h3ZfXmmtfFYy1gq"
+      },
+      "artists": [
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        },
+        {
+          "name": "Discrete",
+          "url": "https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov"
+        }
+      ],
+      "duration_ms": 190384,
+      "name": "Bless Me (with Discrete)",
+      "url": "https://open.spotify.com/track/4fntxnmBljT1Ve03u0njYg"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Stop Time",
         "url": "https://open.spotify.com/album/2R0m33i4wSKTVCJAysYNT4"
       },
@@ -1995,26 +2015,6 @@
       "duration_ms": 193075,
       "name": "Stop Time",
       "url": "https://open.spotify.com/track/4ulSZ1XjQ9mKnybMF987AZ"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Bless Me (with Discrete)",
-        "url": "https://open.spotify.com/album/5TPcHw0h3ZfXmmtfFYy1gq"
-      },
-      "artists": [
-        {
-          "name": "Dombresky",
-          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
-        },
-        {
-          "name": "Discrete",
-          "url": "https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov"
-        }
-      ],
-      "duration_ms": 190384,
-      "name": "Bless Me (with Discrete)",
-      "url": "https://open.spotify.com/track/4fntxnmBljT1Ve03u0njYg"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -2235,6 +2235,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "The Sea",
+        "url": "https://open.spotify.com/album/1JrPLf0whTgjEwJxIMwPLo"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "duration_ms": 190720,
+      "name": "The Sea",
+      "url": "https://open.spotify.com/track/0DsQ0M6qf1aJvZmktDwxy8"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "I Don't Wanna Work",
         "url": "https://open.spotify.com/album/0T0cj4HTUWr5RJ2cpZ11eQ"
       },
@@ -2251,22 +2267,6 @@
       "duration_ms": 155544,
       "name": "I Don't Wanna Work",
       "url": "https://open.spotify.com/track/5pfvr2T90tLuAFyJC2VSxv"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "The Sea",
-        "url": "https://open.spotify.com/album/1JrPLf0whTgjEwJxIMwPLo"
-      },
-      "artists": [
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        }
-      ],
-      "duration_ms": 190720,
-      "name": "The Sea",
-      "url": "https://open.spotify.com/track/0DsQ0M6qf1aJvZmktDwxy8"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -2327,26 +2327,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Salvation",
-        "url": "https://open.spotify.com/album/34yu5063EpoaKKir1m0q9e"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "NEZ",
-          "url": "https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW"
-        }
-      ],
-      "duration_ms": 191013,
-      "name": "Pose",
-      "url": "https://open.spotify.com/track/5LBemsCrsGqsXSGYA8i2z6"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "NaNa Djon",
         "url": "https://open.spotify.com/album/7KdQWUPPttUm3qza9X44AA"
       },
@@ -2367,6 +2347,26 @@
       "duration_ms": 161520,
       "name": "NaNa Djon",
       "url": "https://open.spotify.com/track/3skLTalxT8tnSHC9qzKU9E"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Salvation",
+        "url": "https://open.spotify.com/album/34yu5063EpoaKKir1m0q9e"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "NEZ",
+          "url": "https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW"
+        }
+      ],
+      "duration_ms": 191013,
+      "name": "Pose",
+      "url": "https://open.spotify.com/track/5LBemsCrsGqsXSGYA8i2z6"
     },
     {
       "added_at": "2023-11-24 05:00:00",

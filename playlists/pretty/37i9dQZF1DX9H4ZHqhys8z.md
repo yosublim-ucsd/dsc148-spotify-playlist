@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Άκου τις γυναίκες της Ελλάδας στη διαπασών\. Εξώφυλλο: Christina Salti
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,412 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,429 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 49 | [MAYBE](https://open.spotify.com/track/61dPvkzTjSRn85YbS8uyZ2) | [MEGAN](https://open.spotify.com/artist/0EfzL1srRPrCHLGmvJX30x) | [MAYBE](https://open.spotify.com/album/6KmNgFkf7kZUhUQ9iYQ99M) | 3:05 |
 | 50 | [Louloudaki](https://open.spotify.com/track/7kwJ6XW3XVEkJQ3bMqlN4X) | [Katerina Papoutsaki](https://open.spotify.com/artist/4Mla1mIYdNJkAKTbsltORQ) | [Louloudaki](https://open.spotify.com/album/1pLNCho2WX4KYNzUpb8U0q) | 3:35 |
 
-Snapshot ID: `MCw2ZTdkMzQzMWNkM2Y5NDc5MDI5ZmNhNTBmYmM2MjJmODBhZGIxMDBm`
+Snapshot ID: `MCwwNzU3NDVlZmMwNDFhOWU4MDQyNjcwZTMwMzFmYjYzOTQ5YTIxZmRj`

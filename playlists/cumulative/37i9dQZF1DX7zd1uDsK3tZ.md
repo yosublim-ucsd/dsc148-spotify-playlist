@@ -4,7 +4,7 @@
 
 > Classic tunes served over easy for the perfect brunch soundtrack.
 
-143 songs - 8 hr 47 min
+144 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [As](https://open.spotify.com/track/13toFl1UwJPsRxDiD9jgtn) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 7:08 | 2022-03-07 | 2023-11-08 |
 | [At Seventeen](https://open.spotify.com/track/3bRcSxW2FnSSwrzoYT1knV) | [Janis Ian](https://open.spotify.com/artist/5c9uFWpZY2MTlk7Rft0tgp) | [Between The Lines](https://open.spotify.com/album/0bRlXo4f7P0gF30G3RACTN) | 4:40 | 2022-03-07 | 2022-07-29 |
 | [At Seventeen \- Remastered](https://open.spotify.com/track/7wJpqjqk8QbHpCakY1ZacY) | [Janis Ian](https://open.spotify.com/artist/5c9uFWpZY2MTlk7Rft0tgp) | [Between the Lines \(Remastered\)](https://open.spotify.com/album/6RjDm4cjV3MFndKrpLUxpO) | 4:43 | 2022-07-26 | 2022-12-29 |
-| [Back Stabbers](https://open.spotify.com/track/0KpMY3D2G8253VTZbDBUmA) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 3:06 | 2022-03-07 |  |
+| [Back Stabbers](https://open.spotify.com/track/0KpMY3D2G8253VTZbDBUmA) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 3:06 | 2022-03-07 | 2023-11-28 |
 | [Banana Pancakes](https://open.spotify.com/track/451GvHwY99NKV4zdKPRWmv) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:11 | 2022-12-28 |  |
 | [Beyond](https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:00 | 2022-07-26 |  |
 | [Beyond](https://open.spotify.com/track/5esPpmrM2AsyDVgOKzWQwU) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Beyond](https://open.spotify.com/album/0Nu4xhj7NxdUiL0eMy9yoQ) | 4:00 | 2022-03-07 | 2022-07-29 |
@@ -144,6 +144,7 @@
 | [What You Won't Do for Love](https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx) | [Bobby Caldwell](https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6) | [What You Won't Do for Love](https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2) | 4:46 | 2022-07-26 |  |
 | [What You Won't Do for Love](https://open.spotify.com/track/7dL8FCLzEaWC2A3qWQuz1q) | [Bobby Caldwell](https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6) | [What You Won't Do for Love](https://open.spotify.com/album/6F5At9Oj2P7LwE8lCLJG2B) | 4:46 | 2022-03-07 | 2022-07-29 |
 | [Wish I Didn't Miss You](https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:30 | 2023-04-07 |  |
+| [Wondering Why](https://open.spotify.com/track/1OG7o5af3ILKrFkp7pvvb0) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/66A4l8IEyuXxvDtaWp4NAI) | 3:52 | 2023-11-27 |  |
 | [Working My Way Back to You](https://open.spotify.com/track/7cLkQkC9Z7hnN767rfRl5G) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [The Very Best of the Spinners](https://open.spotify.com/album/05jU4HqC6CTnRuP1e4yYnS) | 4:02 | 2022-03-07 | 2022-07-29 |
 | [Working My Way Back to You / Forgive Me, Girl](https://open.spotify.com/track/1wouF9mtyiwZDYiq5YElaq) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [Smooth And Sweet](https://open.spotify.com/album/2KurzyFucko12doXylecYi) | 4:05 | 2022-07-26 | 2022-12-29 |
 | [Wouldn't It Be Nice](https://open.spotify.com/track/6VojZJpMyuKClbwyilWlQj) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Greatest Hits](https://open.spotify.com/album/2ninxvLuYGCb6H92qTaSFZ) | 2:33 | 2022-12-28 | 2023-04-09 |

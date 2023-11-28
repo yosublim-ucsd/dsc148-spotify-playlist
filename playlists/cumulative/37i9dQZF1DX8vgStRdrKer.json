@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Jesus Music",
+        "url": "https://open.spotify.com/album/5KC7lsKPZZs9d85B7kEGba"
+      },
+      "artists": [
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188013,
+      "name": "Any More",
+      "url": "https://open.spotify.com/track/4ldre3NG3HbOSroRRm5lTP"
+    },
+    {
+      "album": {
         "name": "B'Ola (Honour)",
         "url": "https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM"
       },
@@ -624,7 +642,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 173290,
       "name": "My Matter",
       "url": "https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf"

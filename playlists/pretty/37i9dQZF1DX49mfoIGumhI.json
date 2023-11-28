@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.",
-  "num_followers": 180535,
+  "num_followers": 180659,
   "original_name": "Salsa: Los '80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDJmZGViZGM5OTU1NGExODVlYzJlZmU4MDUzMjcxMWEzYzA4Zjdj",
+  "snapshot_id": "MCxkMDUwMDg2OTU0OWRlOGYyZTE0YmJiNTI2OTA1OWFmNDAxMzAzMDY1",
   "tracks": [
     {
       "added_at": "2022-12-30 20:18:36",
@@ -251,6 +251,22 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
+      },
+      "artists": [
+        {
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+        }
+      ],
+      "duration_ms": 331306,
+      "name": "No Podras Escapar De Mi",
+      "url": "https://open.spotify.com/track/0lacKf3kZXbQ1F17QvurMs"
+    },
+    {
+      "added_at": "2022-12-30 20:18:36",
+      "album": {
         "name": "De Verdad",
         "url": "https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7"
       },
@@ -299,18 +315,18 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
+        "name": "Al Duro",
+        "url": "https://open.spotify.com/album/7kB5Db63xnbxos7xL5kW5U"
       },
       "artists": [
         {
-          "name": "Willie Gonzalez",
-          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+          "name": "Hector Rey",
+          "url": "https://open.spotify.com/artist/3IfYZNt3tOmvN7HA3iNbGv"
         }
       ],
-      "duration_ms": 331306,
-      "name": "No Podras Escapar De Mi",
-      "url": "https://open.spotify.com/track/0lacKf3kZXbQ1F17QvurMs"
+      "duration_ms": 277906,
+      "name": "Te Propongo",
+      "url": "https://open.spotify.com/track/2WLNCSzgMtdXyHcdPNK8UQ"
     },
     {
       "added_at": "2022-12-30 20:18:36",
@@ -331,38 +347,6 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
-        "name": "De Verdad",
-        "url": "https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7"
-      },
-      "artists": [
-        {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
-        }
-      ],
-      "duration_ms": 283200,
-      "name": "Mia",
-      "url": "https://open.spotify.com/track/3x4oECarDKCZxecqOYis52"
-    },
-    {
-      "added_at": "2022-12-30 20:18:36",
-      "album": {
-        "name": "Al Duro",
-        "url": "https://open.spotify.com/album/7kB5Db63xnbxos7xL5kW5U"
-      },
-      "artists": [
-        {
-          "name": "Hector Rey",
-          "url": "https://open.spotify.com/artist/3IfYZNt3tOmvN7HA3iNbGv"
-        }
-      ],
-      "duration_ms": 277906,
-      "name": "Te Propongo",
-      "url": "https://open.spotify.com/track/2WLNCSzgMtdXyHcdPNK8UQ"
-    },
-    {
-      "added_at": "2022-12-30 20:18:36",
-      "album": {
         "name": "Grandes \u00c9xitos Grupo Caneo, Vol. 1",
         "url": "https://open.spotify.com/album/4rtetkd2vcIDjOIn8CsJBM"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 261472,
       "name": "Punta a Punta",
       "url": "https://open.spotify.com/track/1mQbPN7dPldCLlDVvWbMKO"
+    },
+    {
+      "added_at": "2022-12-30 20:18:36",
+      "album": {
+        "name": "El Original Y Unico",
+        "url": "https://open.spotify.com/album/3NQKRb5mnuZfLZ7VxiKWgU"
+      },
+      "artists": [
+        {
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+        }
+      ],
+      "duration_ms": 376733,
+      "name": "Quiero Morir En Tu Piel",
+      "url": "https://open.spotify.com/track/0nBFB85JVZyd4I9xc4Wldz"
     },
     {
       "added_at": "2022-12-30 20:18:36",
@@ -411,8 +411,8 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
-        "name": "Atrevido Y Diferente",
-        "url": "https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG"
+        "name": "De Verdad",
+        "url": "https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7"
       },
       "artists": [
         {
@@ -420,41 +420,9 @@
           "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
         }
       ],
-      "duration_ms": 299960,
-      "name": "Tu Me Quemas",
-      "url": "https://open.spotify.com/track/2EgTgfFKOvCpV3ACbJlDrl"
-    },
-    {
-      "added_at": "2022-12-30 20:18:36",
-      "album": {
-        "name": "Rodven Clasico: Tommy Olivencia Y Su Orquesta \"30 Aniversario\"",
-        "url": "https://open.spotify.com/album/0NTOGSGZBeho4Kwo5nvPzd"
-      },
-      "artists": [
-        {
-          "name": "Tommy Olivencia",
-          "url": "https://open.spotify.com/artist/38fLjRT1W1x3RR6SWWxL0x"
-        }
-      ],
-      "duration_ms": 290453,
-      "name": "Lobo Domesticado",
-      "url": "https://open.spotify.com/track/07RVxiFKeWvBF8aKuPMaXk"
-    },
-    {
-      "added_at": "2022-12-30 20:18:36",
-      "album": {
-        "name": "El Original Y Unico",
-        "url": "https://open.spotify.com/album/3NQKRb5mnuZfLZ7VxiKWgU"
-      },
-      "artists": [
-        {
-          "name": "Willie Gonzalez",
-          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
-        }
-      ],
-      "duration_ms": 376733,
-      "name": "Quiero Morir En Tu Piel",
-      "url": "https://open.spotify.com/track/0nBFB85JVZyd4I9xc4Wldz"
+      "duration_ms": 283200,
+      "name": "Mia",
+      "url": "https://open.spotify.com/track/3x4oECarDKCZxecqOYis52"
     },
     {
       "added_at": "2022-12-30 20:18:36",
@@ -491,6 +459,22 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
+        "name": "Rodven Clasico: Tommy Olivencia Y Su Orquesta \"30 Aniversario\"",
+        "url": "https://open.spotify.com/album/0NTOGSGZBeho4Kwo5nvPzd"
+      },
+      "artists": [
+        {
+          "name": "Tommy Olivencia",
+          "url": "https://open.spotify.com/artist/38fLjRT1W1x3RR6SWWxL0x"
+        }
+      ],
+      "duration_ms": 290453,
+      "name": "Lobo Domesticado",
+      "url": "https://open.spotify.com/track/07RVxiFKeWvBF8aKuPMaXk"
+    },
+    {
+      "added_at": "2022-12-30 20:18:36",
+      "album": {
         "name": "Coleccion de Oro",
         "url": "https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 266893,
       "name": "T\u00fa No Le Amas Le Temes",
       "url": "https://open.spotify.com/track/1PD4tVf0GAIe3KX03ijHsN"
+    },
+    {
+      "added_at": "2022-12-30 20:18:36",
+      "album": {
+        "name": "Atrevido Y Diferente",
+        "url": "https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG"
+      },
+      "artists": [
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "duration_ms": 299960,
+      "name": "Tu Me Quemas",
+      "url": "https://open.spotify.com/track/2EgTgfFKOvCpV3ACbJlDrl"
     },
     {
       "added_at": "2022-12-30 20:18:36",
@@ -555,18 +555,18 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
-        "name": "Mejor Que Ayer",
-        "url": "https://open.spotify.com/album/2zf6kWIBrE5NOGLmy9vjCr"
+        "name": "La Universidad de La Salsa",
+        "url": "https://open.spotify.com/album/4DsJh2ZUJMbAIZ3tdpI6Zf"
       },
       "artists": [
         {
-          "name": "David Pabon",
-          "url": "https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE"
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
         }
       ],
-      "duration_ms": 317586,
-      "name": "Caradura",
-      "url": "https://open.spotify.com/track/1AAx4NAWkHhvYBwXXwcpkJ"
+      "duration_ms": 301373,
+      "name": "Y No Hago Mas Na'",
+      "url": "https://open.spotify.com/track/4fHYtAHpAmsFDq7kTLzgh5"
     },
     {
       "added_at": "2022-12-30 20:18:36",
@@ -587,18 +587,18 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
-        "name": "La Universidad de La Salsa",
-        "url": "https://open.spotify.com/album/4DsJh2ZUJMbAIZ3tdpI6Zf"
+        "name": "Mejor Que Ayer",
+        "url": "https://open.spotify.com/album/2zf6kWIBrE5NOGLmy9vjCr"
       },
       "artists": [
         {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+          "name": "David Pabon",
+          "url": "https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE"
         }
       ],
-      "duration_ms": 301373,
-      "name": "Y No Hago Mas Na'",
-      "url": "https://open.spotify.com/track/4fHYtAHpAmsFDq7kTLzgh5"
+      "duration_ms": 317586,
+      "name": "Caradura",
+      "url": "https://open.spotify.com/track/1AAx4NAWkHhvYBwXXwcpkJ"
     },
     {
       "added_at": "2022-12-30 20:18:36",
@@ -667,6 +667,22 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
+        "name": "Nuestra Musica",
+        "url": "https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 268106,
+      "name": "No Hay Cama Pa' Tanta Gente",
+      "url": "https://open.spotify.com/track/6InAsgddPjAcuF7mSHDT8K"
+    },
+    {
+      "added_at": "2022-12-30 20:18:36",
+      "album": {
         "name": "Bambol\u00e9o",
         "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
       },
@@ -723,22 +739,6 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
-        "name": "Nuestra Musica",
-        "url": "https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 268106,
-      "name": "No Hay Cama Pa' Tanta Gente",
-      "url": "https://open.spotify.com/track/6InAsgddPjAcuF7mSHDT8K"
-    },
-    {
-      "added_at": "2022-12-30 20:18:36",
-      "album": {
         "name": "Viva Rosario",
         "url": "https://open.spotify.com/album/68Gx7E0QgelZ6Uvpo9PWzB"
       },
@@ -751,6 +751,38 @@
       "duration_ms": 301010,
       "name": "Anuncio Clasificado / D\u00e1melo",
       "url": "https://open.spotify.com/track/3kqapvD6gg0TlUeqinOX9u"
+    },
+    {
+      "added_at": "2022-12-30 20:18:36",
+      "album": {
+        "name": "20th Anniversary",
+        "url": "https://open.spotify.com/album/3pYgBhT551TztQNYbXqB26"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 252400,
+      "name": "El Men\u00fa",
+      "url": "https://open.spotify.com/track/734AX6t02v4SNG1bkhNxT9"
+    },
+    {
+      "added_at": "2022-12-30 20:18:36",
+      "album": {
+        "name": "Coleccion de Oro",
+        "url": "https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "duration_ms": 281773,
+      "name": "As\u00ed Es la Vida",
+      "url": "https://open.spotify.com/track/7sxCk2tplxW6yEVlguvgET"
     },
     {
       "added_at": "2022-12-30 20:18:36",
@@ -803,18 +835,18 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
-        "name": "20th Anniversary",
-        "url": "https://open.spotify.com/album/3pYgBhT551TztQNYbXqB26"
+        "name": "Grandes Exitos de Salsa",
+        "url": "https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E"
       },
       "artists": [
         {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+          "name": "Los Titanes",
+          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
         }
       ],
-      "duration_ms": 252400,
-      "name": "El Men\u00fa",
-      "url": "https://open.spotify.com/track/734AX6t02v4SNG1bkhNxT9"
+      "duration_ms": 291106,
+      "name": "Por Retenerte",
+      "url": "https://open.spotify.com/track/3Zlp3GGVJwQxpNmUy7TBxS"
     },
     {
       "added_at": "2022-12-30 20:18:36",
@@ -848,25 +880,9 @@
           "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
         }
       ],
-      "duration_ms": 281773,
-      "name": "As\u00ed Es la Vida",
-      "url": "https://open.spotify.com/track/7sxCk2tplxW6yEVlguvgET"
-    },
-    {
-      "added_at": "2022-12-30 20:18:36",
-      "album": {
-        "name": "Grandes Exitos de Salsa",
-        "url": "https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E"
-      },
-      "artists": [
-        {
-          "name": "Los Titanes",
-          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
-        }
-      ],
-      "duration_ms": 291106,
-      "name": "Por Retenerte",
-      "url": "https://open.spotify.com/track/3Zlp3GGVJwQxpNmUy7TBxS"
+      "duration_ms": 284000,
+      "name": "Mi Mundo",
+      "url": "https://open.spotify.com/track/20U0CM5bMwutODF8KQRj5Y"
     },
     {
       "added_at": "2022-12-30 20:18:36",
@@ -951,26 +967,6 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
-        "name": "Bambol\u00e9o",
-        "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
-      },
-      "artists": [
-        {
-          "name": "Fania All Stars",
-          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
-        },
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 327466,
-      "name": "Bambol\u00e9o",
-      "url": "https://open.spotify.com/track/4Gu8MRCmbJbX2sGueXipVg"
-    },
-    {
-      "added_at": "2022-12-30 20:18:36",
-      "album": {
         "name": "Salsa Legends",
         "url": "https://open.spotify.com/album/2QuOloo4ttkd4SxYzgu5nT"
       },
@@ -991,18 +987,18 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
-        "name": "Coleccion de Oro",
-        "url": "https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5"
+        "name": "Back To Work",
+        "url": "https://open.spotify.com/album/2TrREv0DQ56tRg0CAqWvdg"
       },
       "artists": [
         {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+          "name": "Sonora Ponce\u00f1a",
+          "url": "https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa"
         }
       ],
-      "duration_ms": 284000,
-      "name": "Mi Mundo",
-      "url": "https://open.spotify.com/track/20U0CM5bMwutODF8KQRj5Y"
+      "duration_ms": 398536,
+      "name": "Te Vas De Mi",
+      "url": "https://open.spotify.com/track/4kp9lpxCVbe5R9mxl5sFGB"
     },
     {
       "added_at": "2022-12-30 20:18:36",
@@ -1023,18 +1019,38 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
-        "name": "Back To Work",
-        "url": "https://open.spotify.com/album/2TrREv0DQ56tRg0CAqWvdg"
+        "name": "Dueno del Soneo",
+        "url": "https://open.spotify.com/album/2oiwyNGudQGaFxgMvKlFVq"
       },
       "artists": [
         {
-          "name": "Sonora Ponce\u00f1a",
-          "url": "https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa"
+          "name": "Cano Estremera",
+          "url": "https://open.spotify.com/artist/77k3aRCnbGEVb44ZS8qsVZ"
         }
       ],
-      "duration_ms": 398536,
-      "name": "Te Vas De Mi",
-      "url": "https://open.spotify.com/track/4kp9lpxCVbe5R9mxl5sFGB"
+      "duration_ms": 338840,
+      "name": "A Mi",
+      "url": "https://open.spotify.com/track/3y3A0PQZqg6RiWMHRgqvFU"
+    },
+    {
+      "added_at": "2022-12-30 20:18:36",
+      "album": {
+        "name": "Bambol\u00e9o",
+        "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 327466,
+      "name": "Bambol\u00e9o",
+      "url": "https://open.spotify.com/track/4Gu8MRCmbJbX2sGueXipVg"
     },
     {
       "added_at": "2022-12-30 20:18:36",
@@ -1083,22 +1099,6 @@
       "duration_ms": 336160,
       "name": "Aventura",
       "url": "https://open.spotify.com/track/7fjMKxJiTrE4IZ8f2ZMftS"
-    },
-    {
-      "added_at": "2022-12-30 20:18:36",
-      "album": {
-        "name": "Dueno del Soneo",
-        "url": "https://open.spotify.com/album/2oiwyNGudQGaFxgMvKlFVq"
-      },
-      "artists": [
-        {
-          "name": "Cano Estremera",
-          "url": "https://open.spotify.com/artist/77k3aRCnbGEVb44ZS8qsVZ"
-        }
-      ],
-      "duration_ms": 338840,
-      "name": "A Mi",
-      "url": "https://open.spotify.com/track/3y3A0PQZqg6RiWMHRgqvFU"
     },
     {
       "added_at": "2022-12-30 20:18:36",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
-        "name": "Sobredosis de Amor y Salsa",
-        "url": "https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb"
-      },
-      "artists": [
-        {
-          "name": "Los Titanes",
-          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
-        },
-        {
-          "name": "\u00d3scar Quesada",
-          "url": "https://open.spotify.com/artist/54U4dKVzcGNdXoi0wncIE9"
-        }
-      ],
-      "duration_ms": 262613,
-      "name": "Mi Amante Ni\u00f1a, Mi Compa\u00f1era",
-      "url": "https://open.spotify.com/track/1N3ONvkxXejayq8djiahWd"
-    },
-    {
-      "added_at": "2022-12-30 20:18:36",
-      "album": {
         "name": "2 Generaciones de Salsa",
         "url": "https://open.spotify.com/album/7GHCAfsYzVhEDDJIwdGV7F"
       },
@@ -1203,6 +1183,26 @@
       "duration_ms": 310831,
       "name": "El Baile del Suavecito",
       "url": "https://open.spotify.com/track/6LIFpEqZJ9V9p8RmGgcKOv"
+    },
+    {
+      "added_at": "2022-12-30 20:18:36",
+      "album": {
+        "name": "Sobredosis de Amor y Salsa",
+        "url": "https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb"
+      },
+      "artists": [
+        {
+          "name": "Los Titanes",
+          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
+        },
+        {
+          "name": "\u00d3scar Quesada",
+          "url": "https://open.spotify.com/artist/54U4dKVzcGNdXoi0wncIE9"
+        }
+      ],
+      "duration_ms": 262613,
+      "name": "Mi Amante Ni\u00f1a, Mi Compa\u00f1era",
+      "url": "https://open.spotify.com/track/1N3ONvkxXejayq8djiahWd"
     },
     {
       "added_at": "2022-12-30 20:18:36",

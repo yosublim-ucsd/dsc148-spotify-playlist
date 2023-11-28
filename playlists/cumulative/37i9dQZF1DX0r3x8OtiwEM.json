@@ -651,6 +651,24 @@
     },
     {
       "album": {
+        "name": "Ashes in Paradise",
+        "url": "https://open.spotify.com/album/0GTW43ocEzYd18jSbdNU8z"
+      },
+      "artists": [
+        {
+          "name": "Lauren Mia",
+          "url": "https://open.spotify.com/artist/5HWKpmCYAFYybu5WKtxnnq"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390243,
+      "name": "Ashes in Paradise",
+      "url": "https://open.spotify.com/track/2aa3mL5s2oZ5Z8irf9lDoI"
+    },
+    {
+      "album": {
         "name": "Asiri",
         "url": "https://open.spotify.com/album/77PSTw3UsjsWTcxfgnDw72"
       },
@@ -1140,7 +1158,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 263575,
       "name": "Bloom In The Cold",
       "url": "https://open.spotify.com/track/3VH1pgtGlayAWg2s19IDed"
@@ -3163,6 +3181,28 @@
     },
     {
       "album": {
+        "name": "Elevation",
+        "url": "https://open.spotify.com/album/5DHK349qDEGtNXfpmQ32hN"
+      },
+      "artists": [
+        {
+          "name": "Oliver Koletzki",
+          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
+        },
+        {
+          "name": "Hidden Empire",
+          "url": "https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401511,
+      "name": "Elevation",
+      "url": "https://open.spotify.com/track/118BQT160hFuM2JsBsa92g"
+    },
+    {
+      "album": {
         "name": "Emerge As New",
         "url": "https://open.spotify.com/album/7KUSyPorZaNXUhNjda6BFM"
       },
@@ -3970,7 +4010,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 225120,
       "name": "Get Lucky",
       "url": "https://open.spotify.com/track/4lSCnW0nsmts8DKJLNiia9"
@@ -4808,7 +4848,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 437647,
       "name": "Home - Mind Against Remix",
       "url": "https://open.spotify.com/track/0pyjqTGLsrg1r6m5YR4tuq"
@@ -6436,7 +6476,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 311507,
       "name": "Mind Games",
       "url": "https://open.spotify.com/track/5xCKy767Ol19tTbD5wszUf"
@@ -6552,6 +6592,36 @@
       "duration_ms": 276689,
       "name": "MORE LOVE",
       "url": "https://open.spotify.com/track/64rYiYzQNM4uRx6m03Uv9J"
+    },
+    {
+      "album": {
+        "name": "More Love (Rampa &ME Remix)",
+        "url": "https://open.spotify.com/album/4ml88dBgRFbbucUERI1BYC"
+      },
+      "artists": [
+        {
+          "name": "Moderat",
+          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        },
+        {
+          "name": "Rampa",
+          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+        },
+        {
+          "name": "&ME",
+          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371897,
+      "name": "More Love - Rampa &ME Remix",
+      "url": "https://open.spotify.com/track/70ofkwt6aIb4bPQ51OQMQO"
     },
     {
       "album": {
@@ -6880,6 +6950,24 @@
       "duration_ms": 242000,
       "name": "Never Ending",
       "url": "https://open.spotify.com/track/1SGbmqB3dxlrp4YkKzZUto"
+    },
+    {
+      "album": {
+        "name": "Never Enough",
+        "url": "https://open.spotify.com/album/66YANI4iTibEQOQ1zHjbbO"
+      },
+      "artists": [
+        {
+          "name": "Tonic Walter",
+          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212500,
+      "name": "Never Enough",
+      "url": "https://open.spotify.com/track/63oLL7nhjCx3hqNQWfwYVM"
     },
     {
       "album": {
@@ -8569,6 +8657,24 @@
     },
     {
       "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/7KaXmqRS3KHFZtYLDSuCnL"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415748,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/6mzicuQ4PqOguqmixiQXV4"
+    },
+    {
+      "album": {
         "name": "Remember (Remix)",
         "url": "https://open.spotify.com/album/7JwLW0aT0c1nq9uPpWFDvV"
       },
@@ -8660,7 +8766,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 447863,
       "name": "Reset",
       "url": "https://open.spotify.com/track/4YJ5mIkrwtMyZknV2uqx3z"
@@ -9162,7 +9268,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 429055,
       "name": "Shapes in the Spray",
       "url": "https://open.spotify.com/track/6h3ZomURqLW7JkM2S66FFL"
@@ -11692,6 +11798,24 @@
       "duration_ms": 199024,
       "name": "Veil - Edit",
       "url": "https://open.spotify.com/track/3KGh0aBKXeOM3QBnPmRXcF"
+    },
+    {
+      "album": {
+        "name": "Verbier",
+        "url": "https://open.spotify.com/album/4jy3uq2tlKOOVFz1tumlu3"
+      },
+      "artists": [
+        {
+          "name": "Worakls",
+          "url": "https://open.spotify.com/artist/5RPzPJCg4ER1LzQkorZ31p"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206054,
+      "name": "Verbier",
+      "url": "https://open.spotify.com/track/4N00LsQe2f9SmJEq393HKf"
     },
     {
       "album": {

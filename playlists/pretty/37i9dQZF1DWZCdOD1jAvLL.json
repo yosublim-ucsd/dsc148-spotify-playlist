@@ -1,12 +1,12 @@
 {
   "description": "Ride the bassline. Cover: Apashe",
-  "num_followers": 228454,
+  "num_followers": 228523,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTE3ZGQyMDY1MGQzYTRkNjAxYzVmMWMyYjMwOGJlMWU5NmUwZjJk",
+  "snapshot_id": "MCw3MGI0NjI1NWMxNjMzMGMyYTdkZTI1MmQ0Y2IxNTEyZjIzY2M3YTQw",
   "tracks": [
     {
       "added_at": "2023-11-24 05:00:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Sunshine (My Girl)",
-        "url": "https://open.spotify.com/album/7AE0HaidGUaRBSmIZmJ8As"
-      },
-      "artists": [
-        {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
-        }
-      ],
-      "duration_ms": 131250,
-      "name": "Sunshine (My Girl)",
-      "url": "https://open.spotify.com/track/2bI6KAUqXeIXGAEEvup8ri"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Dress Code",
         "url": "https://open.spotify.com/album/4LvkMrD1HDDOzWHRS7GKE1"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 178908,
       "name": "Chill Like That",
       "url": "https://open.spotify.com/track/2UwgoIMAYT0pDOxUFTjEVJ"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Sunshine (My Girl)",
+        "url": "https://open.spotify.com/album/7AE0HaidGUaRBSmIZmJ8As"
+      },
+      "artists": [
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        }
+      ],
+      "duration_ms": 131250,
+      "name": "Sunshine (My Girl)",
+      "url": "https://open.spotify.com/track/2bI6KAUqXeIXGAEEvup8ri"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Gimme That Bounce",
+        "url": "https://open.spotify.com/album/1aCIYDZTw34CIRq8Vr1VQv"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 217410,
+      "name": "Gimme That Bounce",
+      "url": "https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Badders",
         "url": "https://open.spotify.com/album/0K5ljicneNOkdgx2rNxYBv"
       },
@@ -743,6 +759,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Diamonds On My Mind",
+        "url": "https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 168529,
+      "name": "Diamonds On My Mind",
+      "url": "https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "DRIVE",
         "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
       },
@@ -759,38 +791,6 @@
       "duration_ms": 183652,
       "name": "Chills (LA Hills)",
       "url": "https://open.spotify.com/track/2N5cFPLy0TIasTWkfT1hri"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Gimme That Bounce",
-        "url": "https://open.spotify.com/album/1aCIYDZTw34CIRq8Vr1VQv"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 217410,
-      "name": "Gimme That Bounce",
-      "url": "https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Diamonds On My Mind",
-        "url": "https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 168529,
-      "name": "Diamonds On My Mind",
-      "url": "https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1171,6 +1171,30 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "One Chance",
+        "url": "https://open.spotify.com/album/4whZCf4KZinQmHApTpVCn9"
+      },
+      "artists": [
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        },
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "Marlhy",
+          "url": "https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA"
+        }
+      ],
+      "duration_ms": 220952,
+      "name": "One Chance",
+      "url": "https://open.spotify.com/track/1rFjOggo1LDoT6wqX41baU"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "I Found You",
         "url": "https://open.spotify.com/album/3oBbwosopJw2EGK26fTzEW"
       },
@@ -1207,30 +1231,6 @@
       "duration_ms": 238400,
       "name": "Ecstasy Of Soul",
       "url": "https://open.spotify.com/track/1E0CZWim9mfwrCkXvieES8"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "One Chance",
-        "url": "https://open.spotify.com/album/4whZCf4KZinQmHApTpVCn9"
-      },
-      "artists": [
-        {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
-        },
-        {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
-        {
-          "name": "Marlhy",
-          "url": "https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA"
-        }
-      ],
-      "duration_ms": 220952,
-      "name": "One Chance",
-      "url": "https://open.spotify.com/track/1rFjOggo1LDoT6wqX41baU"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1435,30 +1435,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Stop Time",
-        "url": "https://open.spotify.com/album/2R0m33i4wSKTVCJAysYNT4"
-      },
-      "artists": [
-        {
-          "name": "Walker & Royce",
-          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
-        },
-        {
-          "name": "Glass Petals",
-          "url": "https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0"
-        },
-        {
-          "name": "Elohim",
-          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
-        }
-      ],
-      "duration_ms": 193075,
-      "name": "Stop Time",
-      "url": "https://open.spotify.com/track/4ulSZ1XjQ9mKnybMF987AZ"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "buttons!",
         "url": "https://open.spotify.com/album/4LBaHD1RYaiZh4YGiLDyGo"
       },
@@ -1499,6 +1475,50 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Shut Shit Down",
+        "url": "https://open.spotify.com/album/74HGGYuCtUANyifLwRIZhQ"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        },
+        {
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+        }
+      ],
+      "duration_ms": 162373,
+      "name": "Shut Shit Down",
+      "url": "https://open.spotify.com/track/7rIfWHDoTPLNtTtkorbs3h"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Stop Time",
+        "url": "https://open.spotify.com/album/2R0m33i4wSKTVCJAysYNT4"
+      },
+      "artists": [
+        {
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+        },
+        {
+          "name": "Glass Petals",
+          "url": "https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0"
+        },
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        }
+      ],
+      "duration_ms": 193075,
+      "name": "Stop Time",
+      "url": "https://open.spotify.com/track/4ulSZ1XjQ9mKnybMF987AZ"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Do My Thing",
         "url": "https://open.spotify.com/album/5FChlf6muHa5yTSW5J7tuu"
       },
@@ -1535,26 +1555,6 @@
       "duration_ms": 176000,
       "name": "Gyrate (ft. Wreckno)",
       "url": "https://open.spotify.com/track/1t0cVl9nW6zkUeow0RCLqA"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Shut Shit Down",
-        "url": "https://open.spotify.com/album/74HGGYuCtUANyifLwRIZhQ"
-      },
-      "artists": [
-        {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
-        },
-        {
-          "name": "Armani White",
-          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
-        }
-      ],
-      "duration_ms": 162373,
-      "name": "Shut Shit Down",
-      "url": "https://open.spotify.com/track/7rIfWHDoTPLNtTtkorbs3h"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1619,6 +1619,26 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Feels Like You",
+        "url": "https://open.spotify.com/album/1EE0HJG6YJbTz2UPCVxdJI"
+      },
+      "artists": [
+        {
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        },
+        {
+          "name": "Codeko",
+          "url": "https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp"
+        }
+      ],
+      "duration_ms": 202758,
+      "name": "Feels Like You",
+      "url": "https://open.spotify.com/track/0F1VAVqj021UkGntiDz4nx"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Where You Are (Gorgon City Remix)",
         "url": "https://open.spotify.com/album/3fvyKp2tDksvqviYpujiOg"
       },
@@ -1643,26 +1663,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Feels Like You",
-        "url": "https://open.spotify.com/album/1EE0HJG6YJbTz2UPCVxdJI"
-      },
-      "artists": [
-        {
-          "name": "Adventure Club",
-          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
-        },
-        {
-          "name": "Codeko",
-          "url": "https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp"
-        }
-      ],
-      "duration_ms": 202758,
-      "name": "Feels Like You",
-      "url": "https://open.spotify.com/track/0F1VAVqj021UkGntiDz4nx"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "FAME?",
         "url": "https://open.spotify.com/album/7afE7fQMNPIS4EYhyEi55z"
       },
@@ -1679,26 +1679,6 @@
       "duration_ms": 142562,
       "name": "FAME?",
       "url": "https://open.spotify.com/track/5zn6eUXHpt3JjEB7XAXyaf"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Signal",
-        "url": "https://open.spotify.com/album/6cEiwSWxau10hGkDHsYbhj"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
-        }
-      ],
-      "duration_ms": 194823,
-      "name": "Signal",
-      "url": "https://open.spotify.com/track/1RcKEwbDLoLLkwCng0DzZq"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1735,6 +1715,26 @@
       "duration_ms": 141897,
       "name": "Banga",
       "url": "https://open.spotify.com/track/3Asbj9ttQ9MmQHcwHFy7mn"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Signal",
+        "url": "https://open.spotify.com/album/6cEiwSWxau10hGkDHsYbhj"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 194823,
+      "name": "Signal",
+      "url": "https://open.spotify.com/track/1RcKEwbDLoLLkwCng0DzZq"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -2095,6 +2095,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Hypnotic",
+        "url": "https://open.spotify.com/album/0AK8WQVhKdyuRxQZpsFNUz"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Hypnotic",
+      "url": "https://open.spotify.com/track/1TCJjzvQn6zaIzckTZiabG"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Move Your Body (feat. Moxie Knox)",
         "url": "https://open.spotify.com/album/6yWax0Ay0UMS5CXJquubSu"
       },
@@ -2143,42 +2159,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Hypnotic",
-        "url": "https://open.spotify.com/album/0AK8WQVhKdyuRxQZpsFNUz"
-      },
-      "artists": [
-        {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Hypnotic",
-      "url": "https://open.spotify.com/track/1TCJjzvQn6zaIzckTZiabG"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Sword In Stone",
-        "url": "https://open.spotify.com/album/62m1HkDMOhYnZyZv7IiOfq"
-      },
-      "artists": [
-        {
-          "name": "Black Tiger Sex Machine",
-          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
-        },
-        {
-          "name": "YMIR",
-          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
-        }
-      ],
-      "duration_ms": 216827,
-      "name": "Sword In Stone",
-      "url": "https://open.spotify.com/track/7vq6EwYSOUHoUwzLoR0OdV"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Ascending Into The Clouds (feat. Elisabeth Troy) [Edit]",
         "url": "https://open.spotify.com/album/6RkAmdnqMxodcx6t6dKg5K"
       },
@@ -2199,6 +2179,26 @@
       "duration_ms": 208217,
       "name": "Ascending Into The Clouds (feat. Elisabeth Troy) - Edit",
       "url": "https://open.spotify.com/track/5dlwxxHd9RNBPP3PwlLZgB"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Sword In Stone",
+        "url": "https://open.spotify.com/album/62m1HkDMOhYnZyZv7IiOfq"
+      },
+      "artists": [
+        {
+          "name": "Black Tiger Sex Machine",
+          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
+        },
+        {
+          "name": "YMIR",
+          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
+        }
+      ],
+      "duration_ms": 216827,
+      "name": "Sword In Stone",
+      "url": "https://open.spotify.com/track/7vq6EwYSOUHoUwzLoR0OdV"
     },
     {
       "added_at": "2023-11-24 05:00:00",

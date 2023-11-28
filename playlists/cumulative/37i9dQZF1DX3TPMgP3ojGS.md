@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,775 songs - 3 day 7 hr 29 min
+1,777 songs - 3 day 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,11 +138,12 @@
 | [As The Crow Flies](https://open.spotify.com/track/3Tny1IsUZeQyXJEwrzSYSp) | [Jonas Holmes](https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl) | [Ripples on a Pond](https://open.spotify.com/album/2VNrWdvo3fG7HcQPOk5ZmX) | 1:36 | 2021-03-16 | 2022-04-21 |
 | [As We Fall In Love Again](https://open.spotify.com/track/2lwkWns2UHsmppqcpjIl5R) | [Joy Meyer\-Williams](https://open.spotify.com/artist/0uGHltM64FZJWH1uOr8YWU) | [As We Fall In Love Again](https://open.spotify.com/album/37lCe2jTM8UEYXcS1tESar) | 2:50 | 2021-03-25 | 2022-07-22 |
 | [Ascent](https://open.spotify.com/track/3Ygq0ec3IlNfBUCGW566Cx) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Ascent](https://open.spotify.com/album/3BqwGeDppomPKBHDO3Vkmj) | 2:12 | 2021-12-13 | 2022-07-28 |
-| [Ash of memory](https://open.spotify.com/track/6rb8PeoAVfIyAJ0EqQCgU2) | [Thomas Preber](https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79) | [Ash of memory](https://open.spotify.com/album/4WEz8LHe96zM7RwV4IKxVq) | 1:55 | 2023-08-08 |  |
+| [Ash of memory](https://open.spotify.com/track/6rb8PeoAVfIyAJ0EqQCgU2) | [Thomas Preber](https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79) | [Ash of memory](https://open.spotify.com/album/4WEz8LHe96zM7RwV4IKxVq) | 1:55 | 2023-08-08 | 2023-11-28 |
 | [Ashokan](https://open.spotify.com/track/3wa8YzkpiHEhmcpiuiqUem) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft) | [Ashokan](https://open.spotify.com/album/04BQhBmWuSAD0P7Ko1TopF) | 1:57 | 2021-05-17 | 2021-05-18 |
 | [Ask me why\(母の思い\)](https://open.spotify.com/track/1ej3rD4t8Fb2n6tZskXFIu) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [君たちはどう生きるか　サウンドトラック](https://open.spotify.com/album/4OGf5cOhoHWaXEu0XnsF1t) | 1:48 | 2023-08-15 | 2023-08-30 |
 | [Askja](https://open.spotify.com/track/5NPOzGF9KwzjgfA3q6zbCf) | [Dreyma](https://open.spotify.com/artist/6fhkHJ6kJGHDuypn800e77) | [Askja](https://open.spotify.com/album/6gPqxuEKhpHUNWta7qv4qS) | 4:14 | 2021-03-21 | 2022-04-12 |
 | [Asleep In My Arms](https://open.spotify.com/track/5dXsrIUsMriHUwxblFS7HZ) | [Aaron Lansing](https://open.spotify.com/artist/2AiqANCe9znkfFsN5qIOyV) | [Asleep In My Arms](https://open.spotify.com/album/2BdYZNl2zZS2Ho6qIxxpUO) | 2:07 | 2021-03-19 | 2021-05-21 |
+| [Aspres](https://open.spotify.com/track/5rfMHAaZCA8ym79TN2GdbV) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Aspres](https://open.spotify.com/album/3LTPCqc1OFV2T7GzkOvDao) | 3:19 | 2023-11-21 |  |
 | [Asteroid](https://open.spotify.com/track/5Enc5JAvGziRBT7YQqdgXO) | [Saddest Girl In The World](https://open.spotify.com/artist/08g585oJkNJi7zMacm8LA6) | [Tomorrow EP](https://open.spotify.com/album/2XLQK7qXj1syMDkuPpmLId) | 2:57 | 2021-03-21 | 2022-04-17 |
 | [Astray](https://open.spotify.com/track/3cuvXQjn74rLPC0jSVysUK) | [Simon Vouet](https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b) | [Astray](https://open.spotify.com/album/1IJanCxmCe6rhSBUyDS1L2) | 2:00 | 2023-10-26 |  |
 | [Asylum](https://open.spotify.com/track/5TvVsOFZDkMhb9Kb9GXY9M) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Asylum](https://open.spotify.com/album/3ILqmVB2qJCCt5jzgWm1un) | 3:22 | 2022-03-24 | 2022-06-30 |
@@ -513,7 +514,7 @@
 | [Field of Joy](https://open.spotify.com/track/5Dupg1ztlsHXxhmBDVqww2) | [Jonathan Beaujean](https://open.spotify.com/artist/02L0LCjnSfGqoP3dBRNxei) | [Field of Joy](https://open.spotify.com/album/0iRcFoOpH69QSXovmNfa5N) | 3:16 | 2022-12-22 | 2023-02-25 |
 | [Fields](https://open.spotify.com/track/2mALzHMGNFFjCIip1M0SyY) | [Kylian Rebour](https://open.spotify.com/artist/2po95mGJ6RRvZFtta9LUyX) | [Fields](https://open.spotify.com/album/1K2SNUso7fWzSAzqRoAwQD) | 2:03 | 2021-05-20 | 2022-04-14 |
 | [Fields](https://open.spotify.com/track/60YiyS0YJeSOI3DYcKSVdn) | [Will Kaufman](https://open.spotify.com/artist/1qw4AAqrPMSwFoEc1RBRLU) | [Fields](https://open.spotify.com/album/6OF6dKWs58XhWlD34KmzS8) | 3:44 | 2021-04-29 | 2022-04-25 |
-| [fields of forever \- sleep rework](https://open.spotify.com/track/1g3qZv1GGqwMBrXzogTpTx) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [fields of forever \(sleep rework\)](https://open.spotify.com/album/2qYKIfapv7QBqNvZzzAOHS) | 3:41 | 2023-04-15 |  |
+| [fields of forever \- sleep rework](https://open.spotify.com/track/1g3qZv1GGqwMBrXzogTpTx) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [fields of forever \(sleep rework\)](https://open.spotify.com/album/2qYKIfapv7QBqNvZzzAOHS) | 3:41 | 2023-04-15 | 2023-11-28 |
 | [Fields of Gold](https://open.spotify.com/track/0x7k2hGRMup7V0Fh8nqlFg) | [Gordon Matthew Thomas Sumner](https://open.spotify.com/artist/4d4MQI2dt3yVSJixoVNfgK), [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Fields of Gold](https://open.spotify.com/album/1MSTcPEOnMjUJ2FX7gB2z4) | 3:44 | 2021-12-21 | 2022-07-28 |
 | [Fields Of Love](https://open.spotify.com/track/38GNL3kBcQafMTKT5tom7c) | [Reinhard Krause](https://open.spotify.com/artist/51sDI12AiFuof8oXlSrdnM) | [Fields Of Love](https://open.spotify.com/album/1a1T9YpoJoiwP9iESKlJSN) | 2:17 | 2023-10-10 |  |
 | [Fields of Rye](https://open.spotify.com/track/2bwnUq3oGta2YSeTPnFCOw) | [Pamela Goldings](https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA) | [Fields of Rye](https://open.spotify.com/album/16n1NtIrjhjjhzYyUVvwjz) | 2:37 | 2021-04-24 | 2022-04-17 |
@@ -899,6 +900,7 @@
 | [Love Is About Daily Leaps](https://open.spotify.com/track/1Ja4NlTHvkVc45El8wpDHC) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Love Is \_\_ \(Music From The Original TV Series\)](https://open.spotify.com/album/3CGjYf6qmtumZFTnLXv7iE) | 4:00 | 2021-05-25 | 2022-07-22 |
 | [Love Theme](https://open.spotify.com/track/0lSZUzGi4EBc1Q0HqynTqO) | [Lucie Jean](https://open.spotify.com/artist/5jEOVhrMJqGw6notBTGuKn) | [Love Theme](https://open.spotify.com/album/5trgrL7pUh0OyxMRsxztyk) | 2:59 | 2022-02-15 | 2022-10-01 |
 | [Love to Give](https://open.spotify.com/track/197gAis0L7q9xIFreP0cGA) | [Evelyn Haidu](https://open.spotify.com/artist/0KLuY1vs0XOszyBK0zwAq0) | [The Window](https://open.spotify.com/album/2qZEwFZ6xmtvVAOPaKEMpQ) | 3:17 | 2021-03-18 | 2022-04-07 |
+| [Luce](https://open.spotify.com/track/3eGygw8GYEYWknt1JeZAQ1) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Luce](https://open.spotify.com/album/00EHlFdUT07StJKAk4al8H) | 2:10 | 2023-11-21 |  |
 | [Lucida](https://open.spotify.com/track/316nnoeN99STxwMJWNnH0a) | [Odin Sørlie](https://open.spotify.com/artist/5El7zD8iCQu87fDwPBlPbN) | [Lucida](https://open.spotify.com/album/5ddAstd0V5H42ABq8olDSE) | 2:07 | 2021-05-14 | 2021-12-20 |
 | [Lucienda](https://open.spotify.com/track/53TDpUUYxE0KGPVhdkNpOn) | [Patrick Buote](https://open.spotify.com/artist/7ICIWajOxziHTqP1yzsz74) | [Lucienda](https://open.spotify.com/album/65syZRHtM5IwwyjwDbhh0z) | 2:51 | 2022-07-14 | 2022-07-29 |
 | [Lullaby](https://open.spotify.com/track/2x9QbyrXlsIzZkC6vujcha) | [Elvin Adams](https://open.spotify.com/artist/272IydxAD2nQmIsCTMpCJZ) | [Lullaby](https://open.spotify.com/album/2sdvqdVN8jmAHgfcMUayJA) | 2:28 | 2021-03-17 | 2022-07-21 |

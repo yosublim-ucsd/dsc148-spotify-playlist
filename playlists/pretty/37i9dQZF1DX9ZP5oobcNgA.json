@@ -1,12 +1,12 @@
 {
   "description": "Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.",
-  "num_followers": 117241,
+  "num_followers": 117290,
   "original_name": "This Is Handel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiN2UxNjA4YzExYmFhNjQ5NzBmNzJlMDY3ZmVhNjkyZWI0NDYyNDEz",
+  "snapshot_id": "MCw5ZWEyNzAwM2RmNjc0ZGY2NDIxM2E1MjBjYmZlNTNmZmNhZjI2OTA5",
   "tracks": [
     {
       "added_at": "2022-06-28 08:56:25",
@@ -275,30 +275,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Nuove Invenzioni",
-        "url": "https://open.spotify.com/album/6mPNYpx47nLYi6pekAqhoK"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Rolf Lislevand",
-          "url": "https://open.spotify.com/artist/6JM9ijNSKNjSXzxVrFjmuh"
-        },
-        {
-          "name": "Concerto Stella Matutina",
-          "url": "https://open.spotify.com/artist/5MtjwE0QvUGLeepPhEu7gU"
-        }
-      ],
-      "duration_ms": 353720,
-      "name": "Eternal Source of Light Divine, HWV 74 (Arrangement)",
-      "url": "https://open.spotify.com/track/2GTQ3iVNLw90PLPVUdPE4t"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Handel: Water & Fireworks Music",
         "url": "https://open.spotify.com/album/1r6mINeeXdCrL32kDdzPsB"
       },
@@ -319,6 +295,30 @@
       "duration_ms": 60480,
       "name": "Handel: Water Music, Suite No. 3 in G Major, HWV 350: V. Menuet II",
       "url": "https://open.spotify.com/track/44M4vpSmB7t901dAGz0rDA"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Nuove Invenzioni",
+        "url": "https://open.spotify.com/album/6mPNYpx47nLYi6pekAqhoK"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Rolf Lislevand",
+          "url": "https://open.spotify.com/artist/6JM9ijNSKNjSXzxVrFjmuh"
+        },
+        {
+          "name": "Concerto Stella Matutina",
+          "url": "https://open.spotify.com/artist/5MtjwE0QvUGLeepPhEu7gU"
+        }
+      ],
+      "duration_ms": 353720,
+      "name": "Eternal Source of Light Divine, HWV 74 (Arrangement)",
+      "url": "https://open.spotify.com/track/2GTQ3iVNLw90PLPVUdPE4t"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -383,6 +383,30 @@
       "duration_ms": 121493,
       "name": "Handel: Water Music, Suite No. 2 in D Major, HWV 349: III. Gigue",
       "url": "https://open.spotify.com/track/38gibGVp2n7D0GQKoUTPRj"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Handel: Messiah",
+        "url": "https://open.spotify.com/album/7kZLrZGiSDrErwiNh0rCDb"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Apollo's Fire",
+          "url": "https://open.spotify.com/artist/4yCuIgkycBRN7pSeP4OSbi"
+        },
+        {
+          "name": "Jeannette Sorrell",
+          "url": "https://open.spotify.com/artist/0bkA8dvOFQ9VzxKS9Pwkfm"
+        }
+      ],
+      "duration_ms": 232680,
+      "name": "Messiah, HWV 56, Pt. 1: For unto us a child is born - Part I",
+      "url": "https://open.spotify.com/track/3462hQTzF5oHhoJfJJ5ULK"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -455,30 +479,6 @@
       "duration_ms": 363386,
       "name": "Rinaldo, HWV 7b: Act II Scene 4: Aria: Lascia ch\u2019io pianga (Almirena)",
       "url": "https://open.spotify.com/track/74gUbrOJ7oRGrCVZTpuiFm"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
-        "name": "Handel: Messiah",
-        "url": "https://open.spotify.com/album/7kZLrZGiSDrErwiNh0rCDb"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Apollo's Fire",
-          "url": "https://open.spotify.com/artist/4yCuIgkycBRN7pSeP4OSbi"
-        },
-        {
-          "name": "Jeannette Sorrell",
-          "url": "https://open.spotify.com/artist/0bkA8dvOFQ9VzxKS9Pwkfm"
-        }
-      ],
-      "duration_ms": 232680,
-      "name": "Messiah, HWV 56, Pt. 1: For unto us a child is born - Part I",
-      "url": "https://open.spotify.com/track/3462hQTzF5oHhoJfJJ5ULK"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -575,26 +575,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Handel: Trio Sonatas for Two Violins and Basso Continuo",
-        "url": "https://open.spotify.com/album/59YvN2nfiOBRZgqcYpTfHT"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "The Brook Street Band",
-          "url": "https://open.spotify.com/artist/6mJSP9ISM0Ag4eIRCUO3Ow"
-        }
-      ],
-      "duration_ms": 173060,
-      "name": "Trio Sonata in F Major, HWV 392: IV. Allegro assai",
-      "url": "https://open.spotify.com/track/5JECMr6LxcxhW9U0YjDglW"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Handel: Ode for St. Cecilia's Day",
         "url": "https://open.spotify.com/album/45aTL6VJMdUD5uWfzLy96c"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 213360,
       "name": "Ode for St. Cecilia's Day, HWV 76: Overture",
       "url": "https://open.spotify.com/track/0kmdowp839iUBkJLB8w0eM"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Handel: Trio Sonatas for Two Violins and Basso Continuo",
+        "url": "https://open.spotify.com/album/59YvN2nfiOBRZgqcYpTfHT"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "The Brook Street Band",
+          "url": "https://open.spotify.com/artist/6mJSP9ISM0Ag4eIRCUO3Ow"
+        }
+      ],
+      "duration_ms": 173060,
+      "name": "Trio Sonata in F Major, HWV 392: IV. Allegro assai",
+      "url": "https://open.spotify.com/track/5JECMr6LxcxhW9U0YjDglW"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -967,30 +967,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "John Eliot Gardiner Conducts Handel",
-        "url": "https://open.spotify.com/album/5c1KNy2PXJttM46NhAq3hN"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "English Baroque Soloists",
-          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
-        },
-        {
-          "name": "John Eliot Gardiner",
-          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
-        }
-      ],
-      "duration_ms": 131479,
-      "name": "Handel: Concerto grosso in F Major, Op. 3 No. 4, HWV 315: II. Andante",
-      "url": "https://open.spotify.com/track/6cWPW3Z6t4ECwzYVybTA6T"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Handel: Deborah",
         "url": "https://open.spotify.com/album/156Bet7mEgg569uxjJkffl"
       },
@@ -1035,6 +1011,30 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
+        "name": "Handel: Water Music/Sonatas etc.",
+        "url": "https://open.spotify.com/album/6w9Qr87wGmjXMrNDWbKQuG"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Yehudi Menuhin",
+          "url": "https://open.spotify.com/artist/32i0ni9RO8Q7T7T7ZqkGU2"
+        },
+        {
+          "name": "Bath Festival Orchestra",
+          "url": "https://open.spotify.com/artist/4bBd0RemSH7hG24W6kFWry"
+        }
+      ],
+      "duration_ms": 84693,
+      "name": "Handel: Water Music Suite No. 3, HWV 350: I. Lento (Ed. Boyling)",
+      "url": "https://open.spotify.com/track/0sHaJUGowZZkbjtC4FoPCl"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
         "name": "Handel: Concerti Grossi, Op. 6 Nos. 1-12",
         "url": "https://open.spotify.com/album/5JJJExciT83RSox2KrwQKg"
       },
@@ -1059,8 +1059,8 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Handel: Water Music/Sonatas etc.",
-        "url": "https://open.spotify.com/album/6w9Qr87wGmjXMrNDWbKQuG"
+        "name": "John Eliot Gardiner Conducts Handel",
+        "url": "https://open.spotify.com/album/5c1KNy2PXJttM46NhAq3hN"
       },
       "artists": [
         {
@@ -1068,17 +1068,17 @@
           "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
         },
         {
-          "name": "Yehudi Menuhin",
-          "url": "https://open.spotify.com/artist/32i0ni9RO8Q7T7T7ZqkGU2"
+          "name": "English Baroque Soloists",
+          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
         },
         {
-          "name": "Bath Festival Orchestra",
-          "url": "https://open.spotify.com/artist/4bBd0RemSH7hG24W6kFWry"
+          "name": "John Eliot Gardiner",
+          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
         }
       ],
-      "duration_ms": 84693,
-      "name": "Handel: Water Music Suite No. 3, HWV 350: I. Lento (Ed. Boyling)",
-      "url": "https://open.spotify.com/track/0sHaJUGowZZkbjtC4FoPCl"
+      "duration_ms": 131479,
+      "name": "Handel: Concerto grosso in F Major, Op. 3 No. 4, HWV 315: II. Andante",
+      "url": "https://open.spotify.com/track/6cWPW3Z6t4ECwzYVybTA6T"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1219,30 +1219,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Handel: Water Music; Royal Fireworks Music - Expanded Edition",
-        "url": "https://open.spotify.com/album/637JBFzsaEwlw8tD7SYjoH"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Pierre Boulez",
-          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
-        },
-        {
-          "name": "New York Philharmonic",
-          "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
-        }
-      ],
-      "duration_ms": 142133,
-      "name": "Water Music: Suite No. 2 in D Major, HWV 349, I. Allegro",
-      "url": "https://open.spotify.com/track/1aK44lWlnmXhfWNbOzhZn5"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Handel: Athalia",
         "url": "https://open.spotify.com/album/6tiExi2Ol2HpGMPTtBvAcU"
       },
@@ -1291,6 +1267,30 @@
       "duration_ms": 309360,
       "name": "Athalia, HWV 52: Part 1 - No. 1 Sinfonia: Allegro - Grave - Allegro",
       "url": "https://open.spotify.com/track/04OWdUznQBH1jS7WLPQvJL"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Handel: Water Music; Royal Fireworks Music - Expanded Edition",
+        "url": "https://open.spotify.com/album/637JBFzsaEwlw8tD7SYjoH"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Pierre Boulez",
+          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+        },
+        {
+          "name": "New York Philharmonic",
+          "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
+        }
+      ],
+      "duration_ms": 142133,
+      "name": "Water Music: Suite No. 2 in D Major, HWV 349, I. Allegro",
+      "url": "https://open.spotify.com/track/1aK44lWlnmXhfWNbOzhZn5"
     },
     {
       "added_at": "2022-06-28 08:56:25",

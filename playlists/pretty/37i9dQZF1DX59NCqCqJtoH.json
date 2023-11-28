@@ -1,12 +1,12 @@
 {
   "description": "We hear you.",
-  "num_followers": 1172837,
+  "num_followers": 1172972,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjMxOGI4YmZiNTBhOTQyZTFiNTQ3ODA3MjBiZmYzMzU1YzNmNTdh",
+  "snapshot_id": "MCxkOGUzNGExNGFhNmI1MDYyMjU4ZTRkOWI2OThiZTU4YzhiYmIwZDNj",
   "tracks": [
     {
       "added_at": "2023-11-09 23:50:22",
@@ -449,20 +449,20 @@
       "url": "https://open.spotify.com/track/0cVCSfdI0gl2jJopZPKCaO"
     },
     {
-      "added_at": "2023-09-29 20:20:52",
+      "added_at": "2023-11-20 20:27:12",
       "album": {
-        "name": "Learning",
-        "url": "https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG"
+        "name": "would've been you",
+        "url": "https://open.spotify.com/album/1a43UOca3qYS1ZcS0b9wSk"
       },
       "artists": [
         {
-          "name": "Debbii Dawson",
-          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
         }
       ],
-      "duration_ms": 136250,
-      "name": "Eulogy For Nobody",
-      "url": "https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0"
+      "duration_ms": 183586,
+      "name": "would've been you",
+      "url": "https://open.spotify.com/track/2U7svZUGvR4tfKdyxv9mXu"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -479,6 +479,22 @@
       "duration_ms": 154000,
       "name": "Please Never Fall in Love Again",
       "url": "https://open.spotify.com/track/42H6GeQfrBkT3vTUTdpB1M"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Learning",
+        "url": "https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG"
+      },
+      "artists": [
+        {
+          "name": "Debbii Dawson",
+          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
+        }
+      ],
+      "duration_ms": 136250,
+      "name": "Eulogy For Nobody",
+      "url": "https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -511,22 +527,6 @@
       "duration_ms": 160506,
       "name": "minor",
       "url": "https://open.spotify.com/track/1G9YZPtxUGfl1yVw7kq4yc"
-    },
-    {
-      "added_at": "2023-11-20 20:27:12",
-      "album": {
-        "name": "would've been you",
-        "url": "https://open.spotify.com/album/1a43UOca3qYS1ZcS0b9wSk"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 183586,
-      "name": "would've been you",
-      "url": "https://open.spotify.com/track/2U7svZUGvR4tfKdyxv9mXu"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Blood Harmony",
-        "url": "https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq"
-      },
-      "artists": [
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        }
-      ],
-      "duration_ms": 261471,
-      "name": "Die Alone",
-      "url": "https://open.spotify.com/track/6q2MA87tphYrGm5Jr7xHMl"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "Hurting",
         "url": "https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 200000,
       "name": "I'm Always Here",
       "url": "https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Blood Harmony",
+        "url": "https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "duration_ms": 261471,
+      "name": "Die Alone",
+      "url": "https://open.spotify.com/track/6q2MA87tphYrGm5Jr7xHMl"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "curse,",
-        "url": "https://open.spotify.com/album/7M6YYETrlwqiUxHBqaz5eO"
-      },
-      "artists": [
-        {
-          "name": "normal the kid",
-          "url": "https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V"
-        }
-      ],
-      "duration_ms": 238734,
-      "name": "curse,",
-      "url": "https://open.spotify.com/track/4sOhW5vsO7eCC0OaxQi7DJ"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "Edits",
         "url": "https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 197513,
       "name": "Sorry for Me",
       "url": "https://open.spotify.com/track/44olvKgVfAJMgRtxjup3xN"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "curse,",
+        "url": "https://open.spotify.com/album/7M6YYETrlwqiUxHBqaz5eO"
+      },
+      "artists": [
+        {
+          "name": "normal the kid",
+          "url": "https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V"
+        }
+      ],
+      "duration_ms": 238734,
+      "name": "curse,",
+      "url": "https://open.spotify.com/track/4sOhW5vsO7eCC0OaxQi7DJ"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1001,22 +1001,6 @@
       "url": "https://open.spotify.com/track/4hjbxjZpJ8H6qRCzDOGI0M"
     },
     {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "Kenny",
-        "url": "https://open.spotify.com/album/33xwiZOclaWIDKouzuc32w"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 194133,
-      "name": "Kenny",
-      "url": "https://open.spotify.com/track/6FmnMoph4yx7zjhuBcrHDv"
-    },
-    {
       "added_at": "2023-11-20 20:27:12",
       "album": {
         "name": "The Long Breath / The Willows",
@@ -1031,6 +1015,22 @@
       "duration_ms": 288597,
       "name": "The Long Breath",
       "url": "https://open.spotify.com/track/2jQWDgZhvkTREAXi7R0Vnf"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Kenny",
+        "url": "https://open.spotify.com/album/33xwiZOclaWIDKouzuc32w"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 194133,
+      "name": "Kenny",
+      "url": "https://open.spotify.com/track/6FmnMoph4yx7zjhuBcrHDv"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1261,26 +1261,6 @@
       "url": "https://open.spotify.com/track/6Uxex5NWDRtA8hQKDpRn8H"
     },
     {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "Things I Wanted To Tell You",
-        "url": "https://open.spotify.com/album/1VqpvCyJdviWmwcm54I6c0"
-      },
-      "artists": [
-        {
-          "name": "Kina",
-          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
-        },
-        {
-          "name": "Au/Ra",
-          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
-        }
-      ],
-      "duration_ms": 139354,
-      "name": "Feel Again (Feat. Au/Ra)",
-      "url": "https://open.spotify.com/track/1fgC2MHbJnPgvDfdTpC62c"
-    },
-    {
       "added_at": "2023-10-16 20:29:38",
       "album": {
         "name": "trust exercises",
@@ -1331,6 +1311,26 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
+        "name": "Things I Wanted To Tell You",
+        "url": "https://open.spotify.com/album/1VqpvCyJdviWmwcm54I6c0"
+      },
+      "artists": [
+        {
+          "name": "Kina",
+          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
+        },
+        {
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+        }
+      ],
+      "duration_ms": 139354,
+      "name": "Feel Again (Feat. Au/Ra)",
+      "url": "https://open.spotify.com/track/1fgC2MHbJnPgvDfdTpC62c"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
         "name": "When the City Sleeps",
         "url": "https://open.spotify.com/album/7LlmJ1aH2FGj9nEh0xPIF2"
       },
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "hortel\u00e3",
-        "url": "https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU"
-      },
-      "artists": [
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        }
-      ],
-      "duration_ms": 289058,
-      "name": "just wanna forget you",
-      "url": "https://open.spotify.com/track/67sznBMSDKrj1zeFFNCQHo"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "handgun",
         "url": "https://open.spotify.com/album/2ybvSMYSgIh1fKcFGD2XTL"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 173446,
       "name": "handgun",
       "url": "https://open.spotify.com/track/5ScV9dmyjpNeQp7UwIKwTM"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "hortel\u00e3",
+        "url": "https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 289058,
+      "name": "just wanna forget you",
+      "url": "https://open.spotify.com/track/67sznBMSDKrj1zeFFNCQHo"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1477,22 +1477,6 @@
       "url": "https://open.spotify.com/track/4Kjo34blxmLG5HNUKEvHRM"
     },
     {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "Sleepyhead",
-        "url": "https://open.spotify.com/album/6l8EXrFMXWeHaEutYhwl98"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 238881,
-      "name": "Pyjama Pants",
-      "url": "https://open.spotify.com/track/7aU0FxwwsAwmQ8uGFYLIlu"
-    },
-    {
       "added_at": "2023-10-16 20:29:38",
       "album": {
         "name": "Hitchhiker",
@@ -1507,6 +1491,22 @@
       "duration_ms": 260446,
       "name": "Planet Express",
       "url": "https://open.spotify.com/track/7HY0lAbWyJr6JqvKgRQDEL"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Sleepyhead",
+        "url": "https://open.spotify.com/album/6l8EXrFMXWeHaEutYhwl98"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 238881,
+      "name": "Pyjama Pants",
+      "url": "https://open.spotify.com/track/7aU0FxwwsAwmQ8uGFYLIlu"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "why didn't you call???",
-        "url": "https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK"
-      },
-      "artists": [
-        {
-          "name": "Saint Harison",
-          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
-        }
-      ],
-      "duration_ms": 196734,
-      "name": "why didn't you call???",
-      "url": "https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "VERY ALONE",
         "url": "https://open.spotify.com/album/3MFv8OuVq7MKHRMoAKwFjK"
       },
@@ -1623,18 +1607,18 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "If I Showed You",
-        "url": "https://open.spotify.com/album/4qEq6hmy1zANkNRAEuRRku"
+        "name": "why didn't you call???",
+        "url": "https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK"
       },
       "artists": [
         {
-          "name": "Henry Verus",
-          "url": "https://open.spotify.com/artist/6H79VfD8FjtzQHYdVwZ3I4"
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
         }
       ],
-      "duration_ms": 195467,
-      "name": "If I Showed You",
-      "url": "https://open.spotify.com/track/3orIMfSneqeHamYzH5xSjz"
+      "duration_ms": 196734,
+      "name": "why didn't you call???",
+      "url": "https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1651,6 +1635,22 @@
       "duration_ms": 111710,
       "name": "Baby",
       "url": "https://open.spotify.com/track/38jJdP6hG3x63SKrJZutMW"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "If I Showed You",
+        "url": "https://open.spotify.com/album/4qEq6hmy1zANkNRAEuRRku"
+      },
+      "artists": [
+        {
+          "name": "Henry Verus",
+          "url": "https://open.spotify.com/artist/6H79VfD8FjtzQHYdVwZ3I4"
+        }
+      ],
+      "duration_ms": 195467,
+      "name": "If I Showed You",
+      "url": "https://open.spotify.com/track/3orIMfSneqeHamYzH5xSjz"
     },
     {
       "added_at": "2023-09-29 20:20:52",

@@ -1,12 +1,12 @@
 {
   "description": "A mover el cucu con estas cadenciosas versiones cumbiatizadas.",
-  "num_followers": 106819,
+  "num_followers": 106833,
   "original_name": "Cumbia Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyM2JiNTkwYmIyNjM0YWFlZGFlMTc4MGRmN2U5MTY0ZmE2OGY0N2Vk",
+  "snapshot_id": "MCxhMmE0MWI5ZmU1ZmZkODAyNGQ3MTRkMTk1NTkzYjQxZDlmMmViZDc0",
   "tracks": [
     {
       "added_at": "2023-01-25 00:22:47",
@@ -145,24 +145,20 @@
       "url": "https://open.spotify.com/track/5Y0hkLkzdrTuPGWYLvm6oO"
     },
     {
-      "added_at": "2023-01-25 00:22:47",
+      "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Huguito Flores: Sin Miedo Session #31",
-        "url": "https://open.spotify.com/album/6EE5LTAYDLHsG40zEGyDNz"
+        "name": "Hotel California",
+        "url": "https://open.spotify.com/album/0eQVqlUtzzWsvHCVdDKY0V"
       },
       "artists": [
         {
-          "name": "Sin Miedo",
-          "url": "https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY"
-        },
-        {
-          "name": "Huguito Flores el Super",
-          "url": "https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR"
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
         }
       ],
-      "duration_ms": 124133,
-      "name": "Te Hubieras Ido Antes",
-      "url": "https://open.spotify.com/track/4HeQYAeIq5lyHcR5JIh6I7"
+      "duration_ms": 169613,
+      "name": "Hotel California",
+      "url": "https://open.spotify.com/track/0MbkiHMyocbiG3GsWgY8n0"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -183,6 +179,26 @@
       "duration_ms": 239760,
       "name": "No Te Creas Tan Importante - En Vivo",
       "url": "https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk"
+    },
+    {
+      "added_at": "2023-01-25 00:22:47",
+      "album": {
+        "name": "Huguito Flores: Sin Miedo Session #31",
+        "url": "https://open.spotify.com/album/6EE5LTAYDLHsG40zEGyDNz"
+      },
+      "artists": [
+        {
+          "name": "Sin Miedo",
+          "url": "https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY"
+        },
+        {
+          "name": "Huguito Flores el Super",
+          "url": "https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR"
+        }
+      ],
+      "duration_ms": 124133,
+      "name": "Te Hubieras Ido Antes",
+      "url": "https://open.spotify.com/track/4HeQYAeIq5lyHcR5JIh6I7"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -227,22 +243,6 @@
       "duration_ms": 227200,
       "name": "Sabes A Chocolate",
       "url": "https://open.spotify.com/track/1JxRbEr1CKM16m4ovHg2hz"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "Hotel California",
-        "url": "https://open.spotify.com/album/0eQVqlUtzzWsvHCVdDKY0V"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 169613,
-      "name": "Hotel California",
-      "url": "https://open.spotify.com/track/0MbkiHMyocbiG3GsWgY8n0"
     },
     {
       "added_at": "2023-01-25 00:22:47",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Cumbia villera - La Champions Liga",
-        "url": "https://open.spotify.com/album/6pAKn3tYHVyPVjZzKwVruh"
-      },
-      "artists": [
-        {
-          "name": "La Champions Liga",
-          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
-        }
-      ],
-      "duration_ms": 230266,
-      "name": "Tu sin mi",
-      "url": "https://open.spotify.com/track/0rbBqsCqIfFhRtiFoNhtcL"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "El Color de Tus Ojos",
         "url": "https://open.spotify.com/album/4nL0XYZSkhZZaFQvNvxbMO"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 156821,
       "name": "El Color de Tus Ojos",
       "url": "https://open.spotify.com/track/7nmV1InGzooNuPx6iSPwHz"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Cumbia villera - La Champions Liga",
+        "url": "https://open.spotify.com/album/6pAKn3tYHVyPVjZzKwVruh"
+      },
+      "artists": [
+        {
+          "name": "La Champions Liga",
+          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
+        }
+      ],
+      "duration_ms": 230266,
+      "name": "Tu sin mi",
+      "url": "https://open.spotify.com/track/0rbBqsCqIfFhRtiFoNhtcL"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -579,26 +579,6 @@
       "duration_ms": 199061,
       "name": "Lo Siento",
       "url": "https://open.spotify.com/track/3Aa0e22YhtYdeZEch2RyET"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "Traicionero",
-        "url": "https://open.spotify.com/album/1HspaBXnlgh97QO7eIBqpD"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        },
-        {
-          "name": "Media Naranja",
-          "url": "https://open.spotify.com/artist/1CPCudqABxMYzF2PFEfQme"
-        }
-      ],
-      "duration_ms": 204216,
-      "name": "Traicionero",
-      "url": "https://open.spotify.com/track/7dAO2xy0K5tUqax8LthAml"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -663,6 +643,26 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
+        "name": "Traicionero",
+        "url": "https://open.spotify.com/album/1HspaBXnlgh97QO7eIBqpD"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        },
+        {
+          "name": "Media Naranja",
+          "url": "https://open.spotify.com/artist/1CPCudqABxMYzF2PFEfQme"
+        }
+      ],
+      "duration_ms": 204216,
+      "name": "Traicionero",
+      "url": "https://open.spotify.com/track/7dAO2xy0K5tUqax8LthAml"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
         "name": "Un Poco Locos (Edici\u00f3n De Lujo)",
         "url": "https://open.spotify.com/album/7e5WnX4OclEABi7QJfLj7v"
       },
@@ -675,22 +675,6 @@
       "duration_ms": 209973,
       "name": "Yo Te Pido Amor",
       "url": "https://open.spotify.com/track/4dbQHs5xcUXdA2ZOF2Cf8M"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
-        "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 197276,
-      "name": "Ji Ji Ji",
-      "url": "https://open.spotify.com/track/4RLSqaHzhfD8XWxL7wyLJR"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -835,6 +819,22 @@
       "duration_ms": 158493,
       "name": "Ya Me Enter\u00e9",
       "url": "https://open.spotify.com/track/4SAdpJMNj4JQanV3hD7JTn"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
+        "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 197276,
+      "name": "Ji Ji Ji",
+      "url": "https://open.spotify.com/track/4RLSqaHzhfD8XWxL7wyLJR"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -988,9 +988,9 @@
           "url": "https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn"
         }
       ],
-      "duration_ms": 127128,
-      "name": "Me Reh\u00faso",
-      "url": "https://open.spotify.com/track/4qgIw4wn24ZDVHSUs4a8J8"
+      "duration_ms": 140439,
+      "name": "Una Lady Como T\u00fa",
+      "url": "https://open.spotify.com/track/4cnac0Hd5P4nDPCB18yFUw"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Corazon, Perro Fiel, Echame La Culpa,",
-        "url": "https://open.spotify.com/album/4bYen2zBxOJ3T9HGjSufl9"
-      },
-      "artists": [
-        {
-          "name": "Version Cumbia La Plata",
-          "url": "https://open.spotify.com/artist/1JGvWuYKac6s8oWmfj3LIv"
-        }
-      ],
-      "duration_ms": 193736,
-      "name": "Corazon, Perro Fiel, Echame La Culpa,",
-      "url": "https://open.spotify.com/track/7lgCrSPDqMKehCUyAkyHuy"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "Smells Like Cumbia",
         "url": "https://open.spotify.com/album/1AqakrqNVRPbuBN7A4ggm9"
       },
@@ -1127,18 +1111,18 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Lemonchamp",
-        "url": "https://open.spotify.com/album/4ZefritY8dZnuOMWbIgt1T"
+        "name": "Corazon, Perro Fiel, Echame La Culpa,",
+        "url": "https://open.spotify.com/album/4bYen2zBxOJ3T9HGjSufl9"
       },
       "artists": [
         {
-          "name": "LemonChamp",
-          "url": "https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn"
+          "name": "Version Cumbia La Plata",
+          "url": "https://open.spotify.com/artist/1JGvWuYKac6s8oWmfj3LIv"
         }
       ],
-      "duration_ms": 140439,
-      "name": "Una Lady Como T\u00fa",
-      "url": "https://open.spotify.com/track/4cnac0Hd5P4nDPCB18yFUw"
+      "duration_ms": 193736,
+      "name": "Corazon, Perro Fiel, Echame La Culpa,",
+      "url": "https://open.spotify.com/track/7lgCrSPDqMKehCUyAkyHuy"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -1155,6 +1139,22 @@
       "duration_ms": 174640,
       "name": "No Pares Hasta Tener lo Suficiente (Don't Stop 'til You Get Enough)",
       "url": "https://open.spotify.com/track/57xHD2Q6xWgwr60WzB72Uw"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Lemonchamp",
+        "url": "https://open.spotify.com/album/4ZefritY8dZnuOMWbIgt1T"
+      },
+      "artists": [
+        {
+          "name": "LemonChamp",
+          "url": "https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn"
+        }
+      ],
+      "duration_ms": 127128,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/4qgIw4wn24ZDVHSUs4a8J8"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Lemonchamp",
-        "url": "https://open.spotify.com/album/4Ie3Z2Ss3MPXX0OVjAnT9y"
-      },
-      "artists": [
-        {
-          "name": "LemonChamp",
-          "url": "https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn"
-        }
-      ],
-      "duration_ms": 156211,
-      "name": "Reggaeton Lento",
-      "url": "https://open.spotify.com/track/5pT4ZI8pghpB294iQOds0E"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "Felices Los 4 (Version Cumbia)",
         "url": "https://open.spotify.com/album/735ID4Ax2DldOpClH686PW"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 215200,
       "name": "\u00bfPor Qu\u00e9 Te Vas?",
       "url": "https://open.spotify.com/track/5MyvrPjiTEq8KgJWFfzT9y"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Lemonchamp",
+        "url": "https://open.spotify.com/album/4Ie3Z2Ss3MPXX0OVjAnT9y"
+      },
+      "artists": [
+        {
+          "name": "LemonChamp",
+          "url": "https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn"
+        }
+      ],
+      "duration_ms": 156211,
+      "name": "Reggaeton Lento",
+      "url": "https://open.spotify.com/track/5pT4ZI8pghpB294iQOds0E"
     },
     {
       "added_at": "2022-05-06 18:26:25",

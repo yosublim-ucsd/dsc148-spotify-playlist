@@ -4,7 +4,7 @@
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Thesar
 
-162 songs - 11 hr 38 min
+165 songs - 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Di Pusat Jakarta](https://open.spotify.com/track/1nXD12slBGEda2af9gl84v) | [Michael Aldi](https://open.spotify.com/artist/2Ib1uh2Zl7LI4JjFqP81v4) | [Di Pusat Jakarta](https://open.spotify.com/album/59bPqJysP1SflaDMCOOFhK) | 3:19 | 2022-09-02 |  |
 | [Dibatas Waktu](https://open.spotify.com/track/6i25UJEZmwdBjNq1Wq8rdQ) | [Morad](https://open.spotify.com/artist/5vxULw4cTsiMYOvH0jrbfj), [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF), [Sandhy Sondoro](https://open.spotify.com/artist/4sZCNSc9bpEa6bjM8Z3NOu), [SNYW Big Band](https://open.spotify.com/artist/75JsmfNx2HLyDEqI558O8S) | [Detik Waktu \#2 : Perjalanan Karya Cipta Candra Darusman](https://open.spotify.com/album/4HnAERSlErB6VxHNkUZrhB) | 5:09 | 2022-09-02 | 2023-08-25 |
 | [Dipeluk Rasa](https://open.spotify.com/track/2qfKATrggobqUEzUsJT6Fk) | [Olive Latuputty](https://open.spotify.com/artist/2HOZOl4TWiPhYN6M0MYA4l) | [Dipeluk Rasa](https://open.spotify.com/album/5QiqjdwcfEatDZv0hjb4m0) | 3:50 | 2023-03-03 |  |
+| [Do the Math](https://open.spotify.com/track/7dOa6cIePhrDAuYV4CjJo2) | [Indra Lesmana](https://open.spotify.com/artist/4DnkJItO6woQAeq1eEv6c7) | [Do the Math](https://open.spotify.com/album/52hde9jGIIa7xrXauiw6FX) | 4:49 | 2023-11-28 |  |
 | [Don't Start Now](https://open.spotify.com/track/5QU6DL9fRllFfXlS0n5Tb1) | [Nenei](https://open.spotify.com/artist/7675AXKo73FqKM9RDrGbf7), [Stella Starlight Trio](https://open.spotify.com/artist/6MVeEwYSJUvwwYfUVPeZ6Y) | [Don't Start Now](https://open.spotify.com/album/447GoOsDCUjZFN8Tvotgtf) | 3:20 | 2022-09-02 | 2022-11-25 |
 | [Don't Stop](https://open.spotify.com/track/3oQq33GGhk7odIXW1j6Oe6) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H), [Nicky Manuputty](https://open.spotify.com/artist/1O9pkJRFRbdwy1yKCOyh9k) | [Don't Stop](https://open.spotify.com/album/4cl4iGS3sCdPg2UrrT75Ho) | 3:22 | 2023-06-29 |  |
 | [Don't You Worry](https://open.spotify.com/track/17A8vZ3CSa2iApLAtLEDJN) | [Reggie Pryor](https://open.spotify.com/artist/6Qyyfa0rATJXEpCQcfDosZ), [Jeremy Monteiro](https://open.spotify.com/artist/6k5z740XzUQCbtToofslkV) | [Don't You Worry](https://open.spotify.com/album/1aWfATwUsPr6m9QWpvHtc0) | 2:57 | 2022-09-02 |  |
@@ -77,7 +78,9 @@
 | [Healing Wounds](https://open.spotify.com/track/7GviZb5p791rcED8MaGnWI) | [tjdika](https://open.spotify.com/artist/3c4CUqxqmYrhu6lw5DsrE7), [Adhika "Coki" Himawan](https://open.spotify.com/artist/33KNou9zac9O5y2J1wuJXa) | [Healing Wounds](https://open.spotify.com/album/3ksrMamlDbwNTEyj82r6Re) | 3:28 | 2022-09-02 | 2023-08-25 |
 | [Hidup](https://open.spotify.com/track/61pIoGz4vXugNa5Cc9Fh47) | [January Christy](https://open.spotify.com/artist/6r6dOSjeTf5AjwywbRqSIX) | [Unreleased Tracks from 1985](https://open.spotify.com/album/26rn9d3WodFSvOVSsd8N8S) | 2:52 | 2022-09-02 | 2023-03-04 |
 | [House of Blues](https://open.spotify.com/track/1jtwwarLqjm7wZk5FaGUYX) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H), [Pieter anroputra](https://open.spotify.com/artist/5iKnmuPSMDkd6Ubm3XYEf4), [Niel Larumunde](https://open.spotify.com/artist/2amko2icNCRZtpNVx67D2O) | [House of Blues](https://open.spotify.com/album/6Ljmeh56kmboZWKacGtR5S) | 3:33 | 2023-06-29 |  |
+| [How Much Do You Love Me](https://open.spotify.com/track/6LwpW2WMxPqICW1dBXsV7a) | [TERUNA](https://open.spotify.com/artist/0YTMep6ABS7gI4txhB1DFL) | [The Surrealist Party](https://open.spotify.com/album/5esuY8C9LUggVuV7XQ24Ky) | 3:46 | 2023-11-28 |  |
 | [I Am The Bass](https://open.spotify.com/track/3Oj6SHWTkRpJOOE8AIkjZG) | [Bondan Prakoso](https://open.spotify.com/artist/7b4mucf6X53D3pEaY1jWl6), [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz) | [I Am The Bass](https://open.spotify.com/album/0qMcpjxXi0tQP9SmjZtOED) | 3:30 | 2022-09-02 | 2023-08-18 |
+| [I Can’t Make You Love Me](https://open.spotify.com/track/0ZhF5IXGeWPAyYe6dGP3LF) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Continuance](https://open.spotify.com/album/0PFFqNI88PG7QKGYWvjwXQ) | 5:03 | 2023-11-28 |  |
 | [I Wish You Love](https://open.spotify.com/track/7DbOM57AYYHUSZhWzMfnrB) | [Dua Empat](https://open.spotify.com/artist/5dPAU1hj01l7evl47KdU9L), [Hansen Arief](https://open.spotify.com/artist/7446uGOrQeWwCLpw4L6DHA), [Joshua Alexander](https://open.spotify.com/artist/7cKHUspMzlUC7k1UTndbYr), [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [I Wish You Love](https://open.spotify.com/album/7cyumjFwa8anLNX5w0gUn9) | 4:39 | 2023-06-08 |  |
 | [I'm Not the Only One](https://open.spotify.com/track/4AKbie1DHQL98d3kRi5P00) | [Nenei](https://open.spotify.com/artist/7675AXKo73FqKM9RDrGbf7) | [I'm Not the Only One](https://open.spotify.com/album/14nkRY04tLRasVaYcmFzRN) | 3:46 | 2022-09-02 | 2023-03-04 |
 | [In the Night](https://open.spotify.com/track/1rdH5fBweoMY9TxYjlGh3c) | [Saxx in the City](https://open.spotify.com/artist/3dTx0MCeatvtqmdV7vYecG), [Teza Sumendra](https://open.spotify.com/artist/2fS9sWFJcWN8wVhYbCfdC7) | [In the Night](https://open.spotify.com/album/3PBzXw12O4fygvwg6Ly68b) | 4:05 | 2023-03-03 | 2023-08-18 |

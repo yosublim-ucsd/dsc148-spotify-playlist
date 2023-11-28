@@ -4,13 +4,14 @@
 
 > Best acoustic melodies from Bollywood
 
-123 songs - 7 hr 30 min
+124 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/0lxj1JdpzWwD4uCpje4oy0) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4vEt431lDcAR04hi9ueDGG) | 0:00 | 2023-01-16 | 2023-04-06 |
 | [](https://open.spotify.com/track/0u7ygSdNFcFvHfyGAv4tni) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2VgJOiwvoioEIGAoKdQhHc) | 0:00 | 2022-04-11 | 2023-04-06 |
 | [](https://open.spotify.com/track/1NgRBQQD8ZHy6lv79KyeZO) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6FfNmnl6x2AURdIRKJj925) | 0:00 | 2022-04-11 | 2023-04-06 |
+| [](https://open.spotify.com/track/2N9fRKRit7MEYO4snHENdh) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1t8PvLnsrrGBkBX85kRlG0) | 0:00 | 2023-11-19 |  |
 | [](https://open.spotify.com/track/3MTWlilqiK53C76seZdL72) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/13qVm7FwkSKg3R3r4Ubupv) | 0:00 | 2023-01-24 | 2023-04-06 |
 | [](https://open.spotify.com/track/3wlzoSWlgVVPDPoEy3c4vk) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/5EZXhncph5lrmQPVmeNxDz) | 0:00 | 2022-04-11 | 2023-04-06 |
 | [](https://open.spotify.com/track/5VPE8OfK0vJOSYtJfydBQa) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4M6bP4cGGmfQHuyT59HdKv) | 0:00 | 2022-04-11 | 2023-04-06 |
@@ -117,7 +118,7 @@
 | [Tere Vaaste \- Unplugged](https://open.spotify.com/track/0mCStjzY19ZfiG62IEATmk) | [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx) | [Tere Vaaste \- Unplugged](https://open.spotify.com/album/4Zf72Ba35B929XFWqvFrWP) | 0:55 | 2023-07-06 | 2023-07-08 |
 | [Tose Naina Lage \(Unplugged\)](https://open.spotify.com/track/3ceyAysjbknWYu2C3Bgkin) | [Aanchal Shrivastava](https://open.spotify.com/artist/5jQ7dwP6Bg20NgOKozwTI4) | [Tose Naina Lage \(Unplugged\) \- Single](https://open.spotify.com/album/26mT72BDl53qzqXSR9bRUD) | 2:09 | 2022-12-14 | 2023-01-26 |
 | [Tu Hi Hai](https://open.spotify.com/track/5b9x5sRIzAgXQw0dhGORO1) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Dear Zindagi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/29njH6pDF6JE65D2VJbAxW) | 3:19 | 2023-10-12 |  |
-| [Tu Jaane Na \- Unplugged Version](https://open.spotify.com/track/2dEfpsiyIttecwUxkGH2yD) | [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Ajab Prem Ki Ghazab Kahani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/13t8iDyl1vkhPcO3Zl29a9) | 5:43 | 2023-04-05 |  |
+| [Tu Jaane Na \- Unplugged Version](https://open.spotify.com/track/2dEfpsiyIttecwUxkGH2yD) | [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Ajab Prem Ki Ghazab Kahani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/13t8iDyl1vkhPcO3Zl29a9) | 5:43 | 2023-04-05 | 2023-11-28 |
 | [Tu Toh Gaya Re \(From "Bob Biswas"\)](https://open.spotify.com/track/1V9MzOZA1PRhK0VCFMf8II) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Bianca Gomes](https://open.spotify.com/artist/1vM5cIvyQYTdXXXHl5IV6T) | [Tu Toh Gaya Re \(From "Bob Biswas"\)](https://open.spotify.com/album/3NlyYQJD6uH1SAGG2f8kpn) | 2:28 | 2022-04-11 | 2023-01-05 |
 | [Tujhko Jo Paaya](https://open.spotify.com/track/62kyw2ux2p0CZ7pKWtM6QO) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS) | [Crook \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/298NO23hfv1nhAE0gQ5vLN) | 3:04 | 2022-04-11 |  |
 | [Tujhse Naraz Nahin Zindagi Unplugged LoFi](https://open.spotify.com/track/0z0fbGkzbfeJQTvrCrelOl) | [Raahi](https://open.spotify.com/artist/7ohyp9mPElIYE1N1atYCr2) | [Tujhse Naraz Nahin Zindagi Unplugged Lofi \- Single](https://open.spotify.com/album/53gbAlbYkzqUKPQwwGV7Q8) | 2:27 | 2023-01-04 | 2023-01-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > A blend of new songs and artists in the soul space\. Cover: vAn
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,354 likes - 84 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,372 likes - 84 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 51 | [Way That We Feel](https://open.spotify.com/track/7AfeSdXYaEOttGjbssdDwp) | [TOI](https://open.spotify.com/artist/6AdX4TgEt0fYWoRqvHi81A), [Zoe Moon](https://open.spotify.com/artist/0yYwRsFWiHLy6ZIKRLcVob) | [Way That We Feel](https://open.spotify.com/album/2EkKiKIRODZp9xfoY29hFG) | 3:10 |
 | 52 | [Mood Right](https://open.spotify.com/track/5Q8G6sLpG6PBFjJIXOPW9l) | [Noa Lauryn](https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9), [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [Mood Right](https://open.spotify.com/album/5B4oxR73Yss8t4dcgOezUI) | 2:49 |
 | 53 | [THEO SAYS](https://open.spotify.com/track/6sra6tnpksG17oKLPwj8S6) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6), [D'LEAU](https://open.spotify.com/artist/33ZK4nYxwuvdVW7vmepMYk) | [BY THE WAY](https://open.spotify.com/album/66QY3NzmyFrugwv8fBwAVe) | 4:19 |
-| 54 | [Love Island](https://open.spotify.com/track/0FlBpw3OpaZur0hceVBj46) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Love Island](https://open.spotify.com/album/3Nu7ZdvKfsohdpjvf3swO4) | 2:23 |
+| 54 | [Love Island](https://open.spotify.com/track/3IDs0pS01xXpNJD1kpi8JS) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Fantasy](https://open.spotify.com/album/6vse3DrFzUQ9HRv3xYlNVd) | 2:23 |
 | 55 | [Just Expectationz](https://open.spotify.com/track/10GbMfN6Bt4V9k1blNBjzz) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [Just Expectationz](https://open.spotify.com/album/4fuHL63s4VtjWQLy5QqlTa) | 3:48 |
 | 56 | [Beh Beh](https://open.spotify.com/track/5863KoQ2dlUnkEJI6LgQie) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [MALIA](https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6) | [Beh Beh](https://open.spotify.com/album/0yFsmWTrmsHFXC3B0hXg5Z) | 3:18 |
 | 57 | [Got Me In My Feelings](https://open.spotify.com/track/3J62l6kQIcKCVgZ7Srntlq) | [Aron](https://open.spotify.com/artist/3ik0tThzh3jWDLIYezRXMr), [Jay Strong](https://open.spotify.com/artist/3HFmzNiYGElros3wWNO7bO), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [The Seed](https://open.spotify.com/album/4PFKs4k84A1sMcUPKEQ5kE) | 3:54 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 83 | [3AM](https://open.spotify.com/track/6TAnJ7ubFuZ7nYgzYst2Wp) | [Julia Marcks](https://open.spotify.com/artist/35HvO2FkpLWHDbbCXpgohf) | [3AM](https://open.spotify.com/album/7sH5hP8sAND4vzvvdhXp58) | 3:24 |
 | 84 | [Dead Inside Shuffle](https://open.spotify.com/track/4imq60KskF2cm4WpYbwk9V) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Dead Inside Shuffle](https://open.spotify.com/album/6EWu0oVvV2cGBbF1KUUlk6) | 3:20 |
 
-Snapshot ID: `MCxkMmUwNGU5ZGM5MmVlOTYzYjUyNTE1NDI5MDdkZWUxY2Q4YTg2MmU4`
+Snapshot ID: `MCxhNTBhM2E2YzkxZmNjYmUzNmZkMzUwMWZlMzYwMDVlMDAyYTBlZjEw`

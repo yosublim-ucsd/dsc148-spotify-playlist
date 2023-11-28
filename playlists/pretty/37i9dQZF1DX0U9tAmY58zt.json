@@ -1,12 +1,12 @@
 {
   "description": "Todos los artistas del Corona Capital en una sola playlist!",
-  "num_followers": 151170,
+  "num_followers": 151201,
   "original_name": "Corona Capital Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzJkZjQ0NjExM2M0ZTc0NjE2YzA1NmQ3NTJjODM4MGI5MTFjMmM0",
+  "snapshot_id": "MCxlOGFkOTc0ODNkNjk1NThmMGEyZGExZjUzZDA2ZDFlYWVhZmVkZDY4",
   "tracks": [
     {
       "added_at": "2023-11-16 01:16:27",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-11-16 01:16:27",
       "album": {
-        "name": "HOPE",
-        "url": "https://open.spotify.com/album/6zaisPwfcIAfdUGPj3mmGY"
-      },
-      "artists": [
-        {
-          "name": "NF",
-          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
-        }
-      ],
-      "duration_ms": 242691,
-      "name": "HAPPY",
-      "url": "https://open.spotify.com/track/3ZEno9fORwMA1HPecdLi0R"
-    },
-    {
-      "added_at": "2023-11-16 01:16:27",
-      "album": {
         "name": "Making Mirrors",
         "url": "https://open.spotify.com/album/1HjSyGjmLNjRAKgT9t1cna"
       },
@@ -427,18 +411,18 @@
     {
       "added_at": "2023-11-16 01:16:27",
       "album": {
-        "name": "Serotonin Dreams",
-        "url": "https://open.spotify.com/album/1I79ZTFJ5FVLwMYRWvhk73"
+        "name": "HOPE",
+        "url": "https://open.spotify.com/album/6zaisPwfcIAfdUGPj3mmGY"
       },
       "artists": [
         {
-          "name": "BoyWithUke",
-          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
         }
       ],
-      "duration_ms": 168066,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/3M214U0mwSm041GsQR3nrO"
+      "duration_ms": 242691,
+      "name": "HAPPY",
+      "url": "https://open.spotify.com/track/3ZEno9fORwMA1HPecdLi0R"
     },
     {
       "added_at": "2023-11-16 01:16:27",
@@ -459,6 +443,22 @@
     {
       "added_at": "2023-11-16 01:16:27",
       "album": {
+        "name": "Serotonin Dreams",
+        "url": "https://open.spotify.com/album/1I79ZTFJ5FVLwMYRWvhk73"
+      },
+      "artists": [
+        {
+          "name": "BoyWithUke",
+          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
+        }
+      ],
+      "duration_ms": 168066,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/3M214U0mwSm041GsQR3nrO"
+    },
+    {
+      "added_at": "2023-11-16 01:16:27",
+      "album": {
         "name": "O My Heart",
         "url": "https://open.spotify.com/album/0X7S0TEZ5NJsSxmyTnfYi2"
       },
@@ -471,6 +471,38 @@
       "duration_ms": 181680,
       "name": "Hayloft",
       "url": "https://open.spotify.com/track/2kS6td1yvmpNgZTt1q5pQq"
+    },
+    {
+      "added_at": "2023-11-16 01:16:27",
+      "album": {
+        "name": "The Show",
+        "url": "https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 186043,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/5FQ77Cl1ndljtwwImdtjMy"
+    },
+    {
+      "added_at": "2023-11-16 01:16:27",
+      "album": {
+        "name": "The Lumineers",
+        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 163133,
+      "name": "Ho Hey",
+      "url": "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7"
     },
     {
       "added_at": "2023-11-16 01:16:27",
@@ -511,50 +543,18 @@
     {
       "added_at": "2023-11-16 01:16:27",
       "album": {
-        "name": "Tourist History",
-        "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
+        "name": "Touch Up",
+        "url": "https://open.spotify.com/album/40DMb38Z4n5ylfz4n29qt0"
       },
       "artists": [
         {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+          "name": "Mother Mother",
+          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
         }
       ],
-      "duration_ms": 191706,
-      "name": "What You Know",
-      "url": "https://open.spotify.com/track/3GBApU0NuzH4hKZq4NOSdA"
-    },
-    {
-      "added_at": "2023-11-16 01:16:27",
-      "album": {
-        "name": "The Lumineers",
-        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 163133,
-      "name": "Ho Hey",
-      "url": "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7"
-    },
-    {
-      "added_at": "2023-11-16 01:16:27",
-      "album": {
-        "name": "The Show",
-        "url": "https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 186043,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/5FQ77Cl1ndljtwwImdtjMy"
+      "duration_ms": 168320,
+      "name": "Verbatim",
+      "url": "https://open.spotify.com/track/266Vb7ItE3o1q8HdJ9QOvn"
     },
     {
       "added_at": "2023-11-16 01:16:27",
@@ -575,50 +575,18 @@
     {
       "added_at": "2023-11-16 01:16:27",
       "album": {
-        "name": "Touch Up",
-        "url": "https://open.spotify.com/album/40DMb38Z4n5ylfz4n29qt0"
+        "name": "Tourist History",
+        "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
       },
       "artists": [
         {
-          "name": "Mother Mother",
-          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
         }
       ],
-      "duration_ms": 168320,
-      "name": "Verbatim",
-      "url": "https://open.spotify.com/track/266Vb7ItE3o1q8HdJ9QOvn"
-    },
-    {
-      "added_at": "2023-11-16 01:16:27",
-      "album": {
-        "name": "Love U Like That",
-        "url": "https://open.spotify.com/album/4L1fTiCm419aQYUbfRJ3mA"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 211733,
-      "name": "Love U Like That",
-      "url": "https://open.spotify.com/track/3rmqiQbzPDx7A8p88IRFKg"
-    },
-    {
-      "added_at": "2023-11-16 01:16:27",
-      "album": {
-        "name": "The Lumineers",
-        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 109735,
-      "name": "Flowers in Your Hair",
-      "url": "https://open.spotify.com/track/3Hvg5tRKsQlX25wYwgMF9p"
+      "duration_ms": 191706,
+      "name": "What You Know",
+      "url": "https://open.spotify.com/track/3GBApU0NuzH4hKZq4NOSdA"
     },
     {
       "added_at": "2023-11-16 01:16:27",
@@ -675,6 +643,54 @@
     {
       "added_at": "2023-11-16 01:16:27",
       "album": {
+        "name": "Inside (Deluxe)",
+        "url": "https://open.spotify.com/album/03EqExvZuxLK86huLxGIa2"
+      },
+      "artists": [
+        {
+          "name": "Mother Mother",
+          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
+        }
+      ],
+      "duration_ms": 215040,
+      "name": "Hayloft II",
+      "url": "https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI"
+    },
+    {
+      "added_at": "2023-11-16 01:16:27",
+      "album": {
+        "name": "The Lumineers",
+        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 109735,
+      "name": "Flowers in Your Hair",
+      "url": "https://open.spotify.com/track/3Hvg5tRKsQlX25wYwgMF9p"
+    },
+    {
+      "added_at": "2023-11-16 01:16:27",
+      "album": {
+        "name": "Love U Like That",
+        "url": "https://open.spotify.com/album/4L1fTiCm419aQYUbfRJ3mA"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 211733,
+      "name": "Love U Like That",
+      "url": "https://open.spotify.com/track/3rmqiQbzPDx7A8p88IRFKg"
+    },
+    {
+      "added_at": "2023-11-16 01:16:27",
+      "album": {
         "name": "Serotonin Dreams",
         "url": "https://open.spotify.com/album/1I79ZTFJ5FVLwMYRWvhk73"
       },
@@ -695,18 +711,18 @@
     {
       "added_at": "2023-11-16 01:16:27",
       "album": {
-        "name": "Inside (Deluxe)",
-        "url": "https://open.spotify.com/album/03EqExvZuxLK86huLxGIa2"
+        "name": "More Than Just a Dream",
+        "url": "https://open.spotify.com/album/6yhvsasMsZ1ZMuTk8qIHx0"
       },
       "artists": [
         {
-          "name": "Mother Mother",
-          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
+          "name": "Fitz and The Tantrums",
+          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
         }
       ],
-      "duration_ms": 215040,
-      "name": "Hayloft II",
-      "url": "https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI"
+      "duration_ms": 209386,
+      "name": "Out of My League",
+      "url": "https://open.spotify.com/track/2Z5wXgysowvzl0nKGNGU0t"
     },
     {
       "added_at": "2023-11-16 01:16:27",
@@ -723,22 +739,6 @@
       "duration_ms": 57495,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/1w327AHTCoChRIkJUprAnV"
-    },
-    {
-      "added_at": "2023-11-16 01:16:27",
-      "album": {
-        "name": "More Than Just a Dream",
-        "url": "https://open.spotify.com/album/6yhvsasMsZ1ZMuTk8qIHx0"
-      },
-      "artists": [
-        {
-          "name": "Fitz and The Tantrums",
-          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
-        }
-      ],
-      "duration_ms": 209386,
-      "name": "Out of My League",
-      "url": "https://open.spotify.com/track/2Z5wXgysowvzl0nKGNGU0t"
     },
     {
       "added_at": "2023-11-16 01:16:27",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2023-11-16 01:16:27",
       "album": {
-        "name": "The Hardest Part (feat. Leon Bridges)",
-        "url": "https://open.spotify.com/album/74vEZ35YylZD5SAxjLDsZz"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 176048,
-      "name": "The Hardest Part (feat. Leon Bridges)",
-      "url": "https://open.spotify.com/track/1fXALB3kb14ngMRGNdV5wD"
-    },
-    {
-      "added_at": "2023-11-16 01:16:27",
-      "album": {
         "name": "The Buccaneers: Season 1 (Apple TV+ Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/0oYAtqsEaHuICtq1vwe8QZ"
       },
@@ -1071,18 +1051,22 @@
     {
       "added_at": "2023-11-16 01:16:27",
       "album": {
-        "name": "Jagged Little Pill (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
+        "name": "The Hardest Part (feat. Leon Bridges)",
+        "url": "https://open.spotify.com/album/74vEZ35YylZD5SAxjLDsZz"
       },
       "artists": [
         {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 249493,
-      "name": "You Oughta Know - 2015 Remaster",
-      "url": "https://open.spotify.com/track/3jS7bB0oXVOwGFZn3aE5NV"
+      "duration_ms": 176048,
+      "name": "The Hardest Part (feat. Leon Bridges)",
+      "url": "https://open.spotify.com/track/1fXALB3kb14ngMRGNdV5wD"
     },
     {
       "added_at": "2023-11-16 01:16:27",
@@ -1123,6 +1107,22 @@
     {
       "added_at": "2023-11-16 01:16:27",
       "album": {
+        "name": "Jagged Little Pill (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 249493,
+      "name": "You Oughta Know - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3jS7bB0oXVOwGFZn3aE5NV"
+    },
+    {
+      "added_at": "2023-11-16 01:16:27",
+      "album": {
         "name": "West Ryder Pauper Lunatic Asylum",
         "url": "https://open.spotify.com/album/2DHGeuRTttjurZDb0pSjx6"
       },
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-11-16 01:16:27",
       "album": {
-        "name": "Stuck",
-        "url": "https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq"
-      },
-      "artists": [
-        {
-          "name": "Thirty Seconds To Mars",
-          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
-        }
-      ],
-      "duration_ms": 182746,
-      "name": "Stuck",
-      "url": "https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S"
-    },
-    {
-      "added_at": "2023-11-16 01:16:27",
-      "album": {
         "name": "dirty dancer",
         "url": "https://open.spotify.com/album/6aO0vMIga31GSawF5f0pMZ"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 169720,
       "name": "dirty dancer",
       "url": "https://open.spotify.com/track/1ciQU7ZQGHq129m3njp9en"
+    },
+    {
+      "added_at": "2023-11-16 01:16:27",
+      "album": {
+        "name": "Stuck",
+        "url": "https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "duration_ms": 182746,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S"
     },
     {
       "added_at": "2023-11-16 01:16:27",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2023-11-16 01:16:27",
       "album": {
+        "name": "Johanna",
+        "url": "https://open.spotify.com/album/7pF4a07flFvnyFUzZqn3Pv"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 155565,
+      "name": "Johanna",
+      "url": "https://open.spotify.com/track/6gH2V6XzhDXfTqml6c2w4Z"
+    },
+    {
+      "added_at": "2023-11-16 01:16:27",
+      "album": {
         "name": "Funeral",
         "url": "https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 267293,
       "name": "Head over Feet - 2015 Remaster",
       "url": "https://open.spotify.com/track/735rjks7kQgWCjTQlIHMuH"
-    },
-    {
-      "added_at": "2023-11-16 01:16:27",
-      "album": {
-        "name": "Johanna",
-        "url": "https://open.spotify.com/album/7pF4a07flFvnyFUzZqn3Pv"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 155565,
-      "name": "Johanna",
-      "url": "https://open.spotify.com/track/6gH2V6XzhDXfTqml6c2w4Z"
     },
     {
       "added_at": "2023-11-16 01:16:27",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2023-11-16 01:16:27",
       "album": {
-        "name": "The Big Come Up",
-        "url": "https://open.spotify.com/album/4GcL493CWgWz5SVoxd7UIh"
+        "name": "Writing of Blues and Yellows (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT"
       },
       "artists": [
         {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
         }
       ],
-      "duration_ms": 128893,
-      "name": "Heavy Soul",
-      "url": "https://open.spotify.com/track/5GZq8P4Iy2smHngL07Pcuo"
+      "duration_ms": 187266,
+      "name": "La Lune",
+      "url": "https://open.spotify.com/track/0DwaOWI1kC2s98qLj0LTDd"
     },
     {
       "added_at": "2023-11-16 01:16:27",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2023-11-16 01:16:27",
       "album": {
-        "name": "Writing of Blues and Yellows (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT"
+        "name": "The Big Come Up",
+        "url": "https://open.spotify.com/album/4GcL493CWgWz5SVoxd7UIh"
       },
       "artists": [
         {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 187266,
-      "name": "La Lune",
-      "url": "https://open.spotify.com/track/0DwaOWI1kC2s98qLj0LTDd"
+      "duration_ms": 128893,
+      "name": "Heavy Soul",
+      "url": "https://open.spotify.com/track/5GZq8P4Iy2smHngL07Pcuo"
     },
     {
       "added_at": "2023-11-16 01:16:27",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-11-16 01:16:27",
       "album": {
-        "name": "DEVOTION",
-        "url": "https://open.spotify.com/album/4yWVT9lEftVwrGYP4wj6lw"
-      },
-      "artists": [
-        {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        }
-      ],
-      "duration_ms": 231978,
-      "name": "DEVOTION",
-      "url": "https://open.spotify.com/track/3b589i3VEOsWJRNdOdWDsK"
-    },
-    {
-      "added_at": "2023-11-16 01:16:27",
-      "album": {
         "name": "Seasons",
         "url": "https://open.spotify.com/album/4oEzeXL8AFv8FcX7vGhw1U"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 166148,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/5AVwPRQ5X1pNqYrHd1cjli"
+    },
+    {
+      "added_at": "2023-11-16 01:16:27",
+      "album": {
+        "name": "DEVOTION",
+        "url": "https://open.spotify.com/album/4yWVT9lEftVwrGYP4wj6lw"
+      },
+      "artists": [
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        }
+      ],
+      "duration_ms": 231978,
+      "name": "DEVOTION",
+      "url": "https://open.spotify.com/track/3b589i3VEOsWJRNdOdWDsK"
     },
     {
       "added_at": "2023-11-16 01:16:27",

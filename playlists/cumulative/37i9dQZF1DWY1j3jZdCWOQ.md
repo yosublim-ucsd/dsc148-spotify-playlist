@@ -4,7 +4,7 @@
 
 > Spain without the S
 
-261 songs - 13 hr 35 min
+263 songs - 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Bite Me](https://open.spotify.com/track/4bNa2MHnPB7zckROAHh8mR) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Bite Me](https://open.spotify.com/album/6DgueXg1ArV74AlVJArLSv) | 2:39 | 2021-12-08 | 2022-07-04 |
 | [Bite Me](https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:39 | 2022-11-18 |  |
 | [Black Cat](https://open.spotify.com/track/6NP5mne71yGCzjQWr6jQ7S) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [A Lesson In Romantics](https://open.spotify.com/album/0UtenXp3qVbWedKEaNRAp9) | 3:23 | 2022-01-21 | 2022-04-20 |
+| [Black Sheep \- Brie Larson Vocal Version / Bonus Track](https://open.spotify.com/track/2j90unMoDKo5xqR00xV6Oo) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl), [Brie Larson](https://open.spotify.com/artist/7g77hiv179GYIwhfCgETGy) | [Scott Pilgrim Vs\. The World \(Original Motion Picture Soundtrack Expanded Edition\)](https://open.spotify.com/album/6WRVuyOS840mRGrGe3510y) | 4:54 | 2023-11-27 |  |
 | [Bois Lie](https://open.spotify.com/track/14td7C4K7BX8jsSYtgtQqy) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Love Sux](https://open.spotify.com/album/5yLayeW2yw7QpH06QVIpiv) | 2:43 | 2022-05-12 | 2022-06-04 |
 | [break me!](https://open.spotify.com/track/7cOT2pQoIi9tMl7oLZIMVD) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [break me!](https://open.spotify.com/album/5A4upHeC9RdDdEtInfyvyK) | 2:33 | 2022-07-14 | 2022-07-30 |
 | [Break Stuff](https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Significant Other](https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP) | 2:46 | 2023-03-23 |  |
@@ -139,7 +140,7 @@
 | [Kiss Me Girl](https://open.spotify.com/track/3KtKf4Nj004sozEJhq1N6q) | [Hands Off Gretel](https://open.spotify.com/artist/48GgebpHGBikfDXg0o592i) | [I Want The World](https://open.spotify.com/album/0vVfz83xY2wlyfVCb1ShVh) | 3:47 | 2022-04-01 | 2022-04-18 |
 | [Kiwi](https://open.spotify.com/track/33SNO8AaciGbNaQFkxvPrW) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 2:56 | 2023-09-08 |  |
 | [La La](https://open.spotify.com/track/3MpR460YBQfy8WJLQZghuD) | [The Cab](https://open.spotify.com/artist/2C2sVVXanbOpymYBMpsi89) | [Symphony Soldier](https://open.spotify.com/album/27kmprYNLOGnR8roobHW5D) | 3:24 | 2022-03-03 | 2022-04-21 |
-| [Leave Me Alone](https://open.spotify.com/track/1cIi1x8ANjMO97wH5OfYO1) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [RAZZMATAZZ](https://open.spotify.com/album/7q8hYYZgsIQCXibLzwiPll) | 3:35 | 2021-12-08 |  |
+| [Leave Me Alone](https://open.spotify.com/track/1cIi1x8ANjMO97wH5OfYO1) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [RAZZMATAZZ](https://open.spotify.com/album/7q8hYYZgsIQCXibLzwiPll) | 3:35 | 2021-12-08 | 2023-11-28 |
 | [leave me for dead](https://open.spotify.com/track/3ItJaK3oSkvCE4QiLkaxbi) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [leave me for dead](https://open.spotify.com/album/7cTW6R0SHT2K64F07CY4vO) | 2:56 | 2023-09-08 | 2023-11-21 |
 | [Let's Kill Tonight](https://open.spotify.com/track/14uvyd51Ha7FihKHlOtUig) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Vices & Virtues](https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL) | 3:33 | 2022-01-21 | 2022-04-10 |
 | [LIFE'S A BIT](https://open.spotify.com/track/17r3SCcSZ9EVohyGJbnMCq) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [LIFE'S A BIT](https://open.spotify.com/album/1f3vBv7UFvchpTfSfEWX6w) | 2:30 | 2021-12-08 | 2022-07-29 |
@@ -175,6 +176,7 @@
 | [Ocean Avenue](https://open.spotify.com/track/23oxJmDc1V9uLUSmN2LIvx) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Ocean Avenue](https://open.spotify.com/album/24IBCzEJlHBI0ioxlSuSPA) | 3:18 | 2021-12-08 |  |
 | [Oh!](https://open.spotify.com/track/4e72LGraX8sW5iztJvS5fo) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Oh!](https://open.spotify.com/album/13YVOGugpbcH7MZCwDEWnE) | 2:35 | 2021-12-08 | 2022-04-21 |
 | [Ohio Is For Lovers](https://open.spotify.com/track/23DHUWJ7iEieNPMPKvjzBV) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Silence In Black And White \(Re\-Issue\)](https://open.spotify.com/album/6ypfxw9fHuwow6dkcA4y1z) | 4:04 | 2022-01-21 |  |
+| [Olympus](https://open.spotify.com/track/2pqi703QQcp2zsuS3NgCii) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8) | 3:36 | 2023-11-27 |  |
 | [Once More For The Ocean](https://open.spotify.com/track/4Cvscvb1bbHSsY8lwmSwIQ) | [Slothrust](https://open.spotify.com/artist/6Nwhmo3adbTqPMCsgBgkf4) | [Once More For The Ocean](https://open.spotify.com/album/3Xh2BQHJApHvpfyeHVkyMP) | 3:37 | 2022-01-21 | 2022-04-21 |
 | [Oxygen](https://open.spotify.com/track/3A0mdJS6ra4RJ9Eidtz2br) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Emotional Creature](https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8) | 3:10 | 2022-07-29 | 2022-09-03 |
 | [parents](https://open.spotify.com/track/5v4OkFH0TJ6W1hCFxyn0px) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [weird!](https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP) | 2:51 | 2021-12-08 |  |
@@ -205,7 +207,7 @@
 | [Shhhh! Golf is On](https://open.spotify.com/track/5r7vuSx8Z7j4dK9I4Q6wch) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [Why Would I Watch](https://open.spotify.com/album/0wLCmFQIAxudWGxUcxO1oQ) | 2:44 | 2023-10-06 |  |
 | [SHIT SHOW](https://open.spotify.com/track/34QzYSCBP1VK5jdlXG0GFZ) | [Xowie Jones](https://open.spotify.com/artist/0ZlBHRn2ZsHc1FESUa43ij) | [SHIT SHOW](https://open.spotify.com/album/5zaOQQ8aSHtJ76ED1P0ZP9) | 2:08 | 2022-06-03 | 2022-07-15 |
 | [Sick of The Silence](https://open.spotify.com/track/1Ka3YT2EA2UTYXOJfXPynj) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Inside \(Deluxe\)](https://open.spotify.com/album/03EqExvZuxLK86huLxGIa2) | 3:08 | 2022-02-04 | 2022-02-18 |
-| [Sinner](https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Sinner](https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt) | 2:56 | 2023-11-10 |  |
+| [Sinner](https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Sinner](https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt) | 2:56 | 2023-11-10 | 2023-11-28 |
 | [Sk8er Boi](https://open.spotify.com/track/00Mb3DuaIH1kjrwOku9CGU) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 3:24 | 2022-09-20 |  |
 | [Smells Like Teen Spirit](https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 5:01 | 2023-02-11 |  |
 | [So What](https://open.spotify.com/track/0JiY190vktuhSGN6aqJdrt) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Funhouse \(Expanded Edition\)](https://open.spotify.com/album/1LOJfNDxQhbpssKx7oM7at) | 3:35 | 2022-11-18 | 2023-01-14 |

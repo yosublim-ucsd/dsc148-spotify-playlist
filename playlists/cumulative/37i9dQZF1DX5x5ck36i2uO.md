@@ -4,7 +4,7 @@
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요.
 
-167 songs - 9 hr 35 min
+168 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,8 +169,9 @@
 | [yessir \(feat\. unofficialboyy\)](https://open.spotify.com/track/7zVfVjF4oazPhsDQSo8PEs) | [gamma](https://open.spotify.com/artist/0wwLWUeZfiDyXncBoBYkQ3), [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o) | [ARIA II : Vendetta](https://open.spotify.com/album/0mNJrHxXLpCvBmPfvWSLTf) | 2:04 | 2022-06-03 | 2022-06-17 |
 | [You \(Prod\. DJ Wegun\)](https://open.spotify.com/track/2oRLNoPkQg8EGEbcUuhIM2) | [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO) | [P.O.E.M\. Ⅲ](https://open.spotify.com/album/0MD5NHw7hr1J1uwkp9S16C) | 3:12 | 2022-05-11 | 2022-07-11 |
 | [You and Me](https://open.spotify.com/track/2sSMk1fkcz6rTKaQn711yz) | [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB), [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [1Q87](https://open.spotify.com/album/4sSV6SA4ubFpNm62W8KYRr) | 3:10 | 2022-05-11 | 2022-07-29 |
-| [You and Me \(feat\. Gummy\)](https://open.spotify.com/track/0LvTksPA6IPRyI8m3blITL) | [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB), [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [1Q87](https://open.spotify.com/album/5PWkEmaDQmIEqoqSg1VhsJ) | 3:10 | 2023-07-07 |  |
+| [You and Me \(feat\. Gummy\)](https://open.spotify.com/track/0LvTksPA6IPRyI8m3blITL) | [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB), [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [1Q87](https://open.spotify.com/album/5PWkEmaDQmIEqoqSg1VhsJ) | 3:10 | 2023-07-07 | 2023-11-28 |
 | [너와 나](https://open.spotify.com/track/2olvuxBSILBXb2L2brRJzR) | [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB), [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [1Q87](https://open.spotify.com/album/6PopAFrTktanfRYFQK256w) | 3:10 | 2022-07-22 | 2022-11-13 |
+| [넋 NUGS \(feat\. THAMA\)](https://open.spotify.com/track/4vsI1y8QYSBaVHfcUBXt2p) | [Joon's Second Life](https://open.spotify.com/artist/5etf1dUZgMqYB1tQBEdgvb), [Yonghoon Jeong](https://open.spotify.com/artist/2QIJvvyb9gFXRqVKlv882e), [Soul delivery](https://open.spotify.com/artist/4OTMKWZ890jj8quiWRwfxA), [HAEUN](https://open.spotify.com/artist/7BYHne6KtWNlbJnjZwLLRW), [SHINDRUM](https://open.spotify.com/artist/0Zvh7pzTiN04XiiDAOzHjB), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [FOODCOURT](https://open.spotify.com/album/1GsIHj2gZzXfOGzDqZLR8K) | 4:25 | 2023-11-08 |  |
 | [변하지 않아](https://open.spotify.com/track/1FsgCGr5ftxKkvlQFAaInV) | [Rohann](https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [NEVERLAND](https://open.spotify.com/album/2pk89iEVjniYqNAZNxWDx5) | 4:03 | 2022-07-22 | 2023-05-02 |
 | [변하지 않아 \(Feat\. HAON, CHANGMO\)](https://open.spotify.com/track/02gmOrzbDgLmxo2gNlux6x) | [Rohann](https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1), [김하온\(HAON\)](https://open.spotify.com/artist/4LglziYr7z4b0eBuPqpOtu), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [NEVERLAND](https://open.spotify.com/album/6A5LxMYSz3SmP2FffRc2wB) | 4:03 | 2023-05-02 |  |
 | [알아 I Know](https://open.spotify.com/track/0STz6MbfIfyuHPqvMq8rcO) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [SUMIN](https://open.spotify.com/artist/1LgOgkuv81qxcGBg9rJhjf) | [신인류 \(Shininryu\)](https://open.spotify.com/album/25DwzsTZrbsUWFK2FYf0Mp) | 3:30 | 2022-06-03 | 2022-07-25 |

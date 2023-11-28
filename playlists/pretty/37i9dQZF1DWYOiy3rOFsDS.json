@@ -1,12 +1,12 @@
 {
   "description": "Romance antig\u00fcito en voz de tus artistas pop con Kali Uchis en portada.",
-  "num_followers": 534352,
+  "num_followers": 534412,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzIxMWRjOTJmM2I0ZWY1MDQzZDZhNDFjYmVjMzg5OWNmYWM2M2Jk",
+  "snapshot_id": "MCw3NjBjMmRiY2YxMjhhOTUxMzllMjY5MTUxZGU5ZDk4OGRhYzBiYTM1",
   "tracks": [
     {
       "added_at": "2023-10-21 00:43:02",
@@ -399,18 +399,18 @@
     {
       "added_at": "2023-10-21 00:43:02",
       "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
+        "name": "Lo Hice, Te Dej\u00e9",
+        "url": "https://open.spotify.com/album/6iH2QdPCGdGbq1qEXgI8KN"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
         }
       ],
-      "duration_ms": 211440,
-      "name": "No Me Platiques M\u00e1s",
-      "url": "https://open.spotify.com/track/1kS5xIvvytkr5Ut1JkQ9SM"
+      "duration_ms": 186730,
+      "name": "Lo Hice, Te Dej\u00e9",
+      "url": "https://open.spotify.com/track/5HT7sdhkOCFVegIoMOL7yj"
     },
     {
       "added_at": "2023-10-21 00:43:02",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-10-21 00:43:02",
       "album": {
-        "name": "Lo Hice, Te Dej\u00e9",
-        "url": "https://open.spotify.com/album/6iH2QdPCGdGbq1qEXgI8KN"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 186730,
-      "name": "Lo Hice, Te Dej\u00e9",
-      "url": "https://open.spotify.com/track/5HT7sdhkOCFVegIoMOL7yj"
-    },
-    {
-      "added_at": "2023-10-21 00:43:02",
-      "album": {
         "name": "Cosas De Enamorados",
         "url": "https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 199280,
       "name": "No Me Vuelvo a Enamorar",
       "url": "https://open.spotify.com/track/2su8ABoDsXbAXMIqLUgjnK"
+    },
+    {
+      "added_at": "2023-10-21 00:43:02",
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 211440,
+      "name": "No Me Platiques M\u00e1s",
+      "url": "https://open.spotify.com/track/1kS5xIvvytkr5Ut1JkQ9SM"
     },
     {
       "added_at": "2023-10-21 00:43:02",
@@ -495,22 +495,6 @@
       "duration_ms": 268306,
       "name": "Funeral",
       "url": "https://open.spotify.com/track/2ZNYFHhkBoS4KHr5eXnQth"
-    },
-    {
-      "added_at": "2023-10-21 00:43:02",
-      "album": {
-        "name": "Segundo Romance",
-        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 191693,
-      "name": "Somos Novios",
-      "url": "https://open.spotify.com/track/4dr2h9rnEW6OBxm8LvRBW2"
     },
     {
       "added_at": "2023-10-21 00:43:02",
@@ -583,6 +567,22 @@
       "duration_ms": 182200,
       "name": "Fruto Robado (with Cristian Castro)",
       "url": "https://open.spotify.com/track/3UtyEX1laEeTjcq6m6H0zd"
+    },
+    {
+      "added_at": "2023-10-21 00:43:02",
+      "album": {
+        "name": "Segundo Romance",
+        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 191693,
+      "name": "Somos Novios",
+      "url": "https://open.spotify.com/track/4dr2h9rnEW6OBxm8LvRBW2"
     },
     {
       "added_at": "2023-10-21 00:43:02",
@@ -679,18 +679,22 @@
     {
       "added_at": "2023-10-21 00:43:02",
       "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo"
+        "name": "Qu\u00e9date",
+        "url": "https://open.spotify.com/album/2DoBcaHj1t8enwJ8sygr3g"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Debi Nova",
+          "url": "https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 162093,
-      "name": "Y - En vivo",
-      "url": "https://open.spotify.com/track/6QbEENozheS46xQY56acH9"
+      "duration_ms": 175733,
+      "name": "Qu\u00e9date",
+      "url": "https://open.spotify.com/track/0is5MOZLNpo5iAY3M0B9ml"
     },
     {
       "added_at": "2023-10-21 00:43:02",
@@ -711,26 +715,6 @@
       "duration_ms": 242450,
       "name": "Hoy No",
       "url": "https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs"
-    },
-    {
-      "added_at": "2023-10-21 00:43:02",
-      "album": {
-        "name": "Qu\u00e9date",
-        "url": "https://open.spotify.com/album/2DoBcaHj1t8enwJ8sygr3g"
-      },
-      "artists": [
-        {
-          "name": "Debi Nova",
-          "url": "https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 175733,
-      "name": "Qu\u00e9date",
-      "url": "https://open.spotify.com/track/0is5MOZLNpo5iAY3M0B9ml"
     },
     {
       "added_at": "2023-10-21 00:43:02",
@@ -767,6 +751,22 @@
     {
       "added_at": "2023-10-21 00:43:02",
       "album": {
+        "name": "Vivo",
+        "url": "https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 162093,
+      "name": "Y - En vivo",
+      "url": "https://open.spotify.com/track/6QbEENozheS46xQY56acH9"
+    },
+    {
+      "added_at": "2023-10-21 00:43:02",
+      "album": {
         "name": "Cada Vez Te Extra\u00f1o Menos",
         "url": "https://open.spotify.com/album/4rS5g1pEmfxWV0Eg1kH0Is"
       },
@@ -799,6 +799,22 @@
       "duration_ms": 207817,
       "name": "Adoro",
       "url": "https://open.spotify.com/track/57HVjcV6s7ppmZJXhNHchy"
+    },
+    {
+      "added_at": "2023-10-21 00:43:02",
+      "album": {
+        "name": "Somos Algo",
+        "url": "https://open.spotify.com/album/2AsN8qBSqdGAlvUT3NBS4k"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 234128,
+      "name": "Somos Algo",
+      "url": "https://open.spotify.com/track/5iSpfk6cDOSYePagAoG639"
     },
     {
       "added_at": "2023-10-21 00:43:02",
@@ -875,22 +891,6 @@
       "duration_ms": 212949,
       "name": "Veinte A\u00f1os",
       "url": "https://open.spotify.com/track/7idoiWKligF3jmM8FMf6c6"
-    },
-    {
-      "added_at": "2023-10-21 00:43:02",
-      "album": {
-        "name": "Somos Algo",
-        "url": "https://open.spotify.com/album/2AsN8qBSqdGAlvUT3NBS4k"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 234128,
-      "name": "Somos Algo",
-      "url": "https://open.spotify.com/track/5iSpfk6cDOSYePagAoG639"
     },
     {
       "added_at": "2023-10-21 00:43:02",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2023-10-21 00:43:02",
       "album": {
-        "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
-        "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Farolito (with Gilberto Gil)",
-      "url": "https://open.spotify.com/track/30CNJpVV1qtEisIeunne7j"
-    },
-    {
-      "added_at": "2023-10-21 00:43:02",
-      "album": {
         "name": "Luna",
         "url": "https://open.spotify.com/album/6ZHdi4JlCmpElsIvtWCXrm"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 173288,
       "name": "Luna",
       "url": "https://open.spotify.com/track/1gMzbFyFW5ZDSVxGYbvY4T"
+    },
+    {
+      "added_at": "2023-10-21 00:43:02",
+      "album": {
+        "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
+        "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Farolito (with Gilberto Gil)",
+      "url": "https://open.spotify.com/track/30CNJpVV1qtEisIeunne7j"
     },
     {
       "added_at": "2023-10-21 00:43:02",
@@ -1167,26 +1167,18 @@
     {
       "added_at": "2023-10-21 00:43:02",
       "album": {
-        "name": "Me Vuelves Loca",
-        "url": "https://open.spotify.com/album/2AuC5wOjsNXG7rWyFheYZi"
+        "name": "Nuestro Primer Disco / Nuestro Amor",
+        "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
       },
       "artists": [
         {
-          "name": "Armando Manzanero",
-          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
-        },
-        {
-          "name": "Gaby Moreno",
-          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
-        },
-        {
-          "name": "Paquito D'Rivera",
-          "url": "https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8"
+          "name": "Los Tri-O",
+          "url": "https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC"
         }
       ],
-      "duration_ms": 268146,
-      "name": "Me Vuelves Loca",
-      "url": "https://open.spotify.com/track/4b2VrKk6vR7304vrY3v0f0"
+      "duration_ms": 209040,
+      "name": "Para Que Pides Perdon (Bonus Track)",
+      "url": "https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM"
     },
     {
       "added_at": "2023-10-21 00:43:02",
@@ -1223,22 +1215,6 @@
     {
       "added_at": "2023-10-21 00:43:02",
       "album": {
-        "name": "Nuestro Primer Disco / Nuestro Amor",
-        "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
-      },
-      "artists": [
-        {
-          "name": "Los Tri-O",
-          "url": "https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC"
-        }
-      ],
-      "duration_ms": 209040,
-      "name": "Para Que Pides Perdon (Bonus Track)",
-      "url": "https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM"
-    },
-    {
-      "added_at": "2023-10-21 00:43:02",
-      "album": {
         "name": "Cristian Castro en Primera Fila - D\u00eda 2",
         "url": "https://open.spotify.com/album/7uxJVchLqSBte3L6aYsDFi"
       },
@@ -1255,18 +1231,26 @@
     {
       "added_at": "2023-10-21 00:43:02",
       "album": {
-        "name": "Tengo",
-        "url": "https://open.spotify.com/album/2cqrUCizJahsIfhzgE1uH8"
+        "name": "Me Vuelves Loca",
+        "url": "https://open.spotify.com/album/2AuC5wOjsNXG7rWyFheYZi"
       },
       "artists": [
         {
-          "name": "Tania Matus",
-          "url": "https://open.spotify.com/artist/3AtQAFdXoag2fwVScetgTF"
+          "name": "Armando Manzanero",
+          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
+        },
+        {
+          "name": "Gaby Moreno",
+          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
+        },
+        {
+          "name": "Paquito D'Rivera",
+          "url": "https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8"
         }
       ],
-      "duration_ms": 248208,
-      "name": "Tengo",
-      "url": "https://open.spotify.com/track/0yOUq6w4cN037OcxdZDQQP"
+      "duration_ms": 268146,
+      "name": "Me Vuelves Loca",
+      "url": "https://open.spotify.com/track/4b2VrKk6vR7304vrY3v0f0"
     },
     {
       "added_at": "2023-10-21 00:43:02",
@@ -1287,6 +1271,22 @@
       "duration_ms": 188626,
       "name": "Perfume de Gardenia (with Alejandro Fern\u00e1ndez)",
       "url": "https://open.spotify.com/track/7CqoWdCRMBSUGgQg55A6C2"
+    },
+    {
+      "added_at": "2023-10-21 00:43:02",
+      "album": {
+        "name": "Tengo",
+        "url": "https://open.spotify.com/album/2cqrUCizJahsIfhzgE1uH8"
+      },
+      "artists": [
+        {
+          "name": "Tania Matus",
+          "url": "https://open.spotify.com/artist/3AtQAFdXoag2fwVScetgTF"
+        }
+      ],
+      "duration_ms": 248208,
+      "name": "Tengo",
+      "url": "https://open.spotify.com/track/0yOUq6w4cN037OcxdZDQQP"
     },
     {
       "added_at": "2023-10-21 00:43:02",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-10-21 00:43:02",
       "album": {
-        "name": "Or\u00edgenes: El Bolero Vol.3",
-        "url": "https://open.spotify.com/album/3cpEWPCmAkKQunvQmeYP1t"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Quijano",
-          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
-        }
-      ],
-      "duration_ms": 210848,
-      "name": "Te matan los celos",
-      "url": "https://open.spotify.com/track/5SR85Imahcv9tZGFjz3MCX"
-    },
-    {
-      "added_at": "2023-10-21 00:43:02",
-      "album": {
         "name": "Solo Boleros",
         "url": "https://open.spotify.com/album/4Pfgh3WJiJH1FUtwiI3oxD"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 178925,
       "name": "Cuando Vuelva a Tu Lado",
       "url": "https://open.spotify.com/track/1TtvU2uSTwTaqloJwGItk7"
+    },
+    {
+      "added_at": "2023-10-21 00:43:02",
+      "album": {
+        "name": "Or\u00edgenes: El Bolero Vol.3",
+        "url": "https://open.spotify.com/album/3cpEWPCmAkKQunvQmeYP1t"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Quijano",
+          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
+        }
+      ],
+      "duration_ms": 210848,
+      "name": "Te matan los celos",
+      "url": "https://open.spotify.com/track/5SR85Imahcv9tZGFjz3MCX"
     },
     {
       "added_at": "2023-10-21 00:43:02",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2023-10-21 00:43:02",
       "album": {
+        "name": "Frenesi (2016 Remaster)",
+        "url": "https://open.spotify.com/album/1D9QdIT6bueT23rSwp0C63"
+      },
+      "artists": [
+        {
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        }
+      ],
+      "duration_ms": 213213,
+      "name": "Frenes\u00ed - 2016 Remaster",
+      "url": "https://open.spotify.com/track/7HGyyoWiUdLYddj985Aj1C"
+    },
+    {
+      "added_at": "2023-10-21 00:43:02",
+      "album": {
         "name": "Tu Amor No Vale un Bolero",
         "url": "https://open.spotify.com/album/66x0bo3TSXpCZLKMF4NjzQ"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 206710,
       "name": "Tu Amor No Vale un Bolero",
       "url": "https://open.spotify.com/track/0hKJCsS3XUVEECfslnauKv"
-    },
-    {
-      "added_at": "2023-10-21 00:43:02",
-      "album": {
-        "name": "Frenesi (2016 Remaster)",
-        "url": "https://open.spotify.com/album/1D9QdIT6bueT23rSwp0C63"
-      },
-      "artists": [
-        {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
-        }
-      ],
-      "duration_ms": 213213,
-      "name": "Frenes\u00ed - 2016 Remaster",
-      "url": "https://open.spotify.com/track/7HGyyoWiUdLYddj985Aj1C"
     },
     {
       "added_at": "2023-10-21 00:43:02",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2023-10-21 00:43:02",
       "album": {
+        "name": "Extra\u00f1\u00e1ndote en Cuarentena",
+        "url": "https://open.spotify.com/album/1UfEr0bXeemQhpBacsZRfO"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9sar Avila",
+          "url": "https://open.spotify.com/artist/3rngVMXFqeLP0WFB1ss6J1"
+        }
+      ],
+      "duration_ms": 131500,
+      "name": "Solamente una Vez",
+      "url": "https://open.spotify.com/track/4uqmcATBKbBKN5Tec5I4T1"
+    },
+    {
+      "added_at": "2023-10-21 00:43:02",
+      "album": {
         "name": "Te Tocaba A Ti Llorar",
         "url": "https://open.spotify.com/album/1QdQqLnwuQsKnfZ5blD3Al"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 193426,
       "name": "Te Tocaba A Ti Llorar",
       "url": "https://open.spotify.com/track/69wyLBhOeKlS4VcilXZhzN"
-    },
-    {
-      "added_at": "2023-10-21 00:43:02",
-      "album": {
-        "name": "Extra\u00f1\u00e1ndote en Cuarentena",
-        "url": "https://open.spotify.com/album/1UfEr0bXeemQhpBacsZRfO"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9sar Avila",
-          "url": "https://open.spotify.com/artist/3rngVMXFqeLP0WFB1ss6J1"
-        }
-      ],
-      "duration_ms": 131500,
-      "name": "Solamente una Vez",
-      "url": "https://open.spotify.com/track/4uqmcATBKbBKN5Tec5I4T1"
     },
     {
       "added_at": "2023-10-21 00:43:02",

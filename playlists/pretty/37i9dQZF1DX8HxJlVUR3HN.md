@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 
 > Les meilleures nouveautés de la scène rock française\. Photo : Best Case Scenario
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,741 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,758 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 | 49 | [Guess Who's Back](https://open.spotify.com/track/4yXy1gffkPlOFDwmjqMVOi) | [The Big Idea](https://open.spotify.com/artist/3pXrb8c666Unh7CI7coovt) | [Guess Who's Back](https://open.spotify.com/album/67kQJAVLDFZqF2auxwolVv) | 3:19 |
 | 50 | [Constant Rebirth](https://open.spotify.com/track/7aIOmApDKfraYs1YKlS2YJ) | [FENCES \\\\\\\\](https://open.spotify.com/artist/52mzp7EISAFBNXsDnHHFwv) | [Constant Rebirth](https://open.spotify.com/album/177ZDDCagLXjwZyglACK5Y) | 3:54 |
 
-Snapshot ID: `MCwzZjU3ZDQ1YzE2ZTcxNjYyN2M0YTE1MGQ1YTEzMjBkZTMxOTMyN2Ey`
+Snapshot ID: `MCw5ZjlkOGYxMDk2YzhlZjdiMDkwMTE5MTE3NTA2ZmM2YmQ0NDQwZThj`

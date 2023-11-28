@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrKm37olqYM.md) - [plain]
 
 > The raw, bass\-trembling energy of Baltimore Club\. A selection of classic and new tracks\. Cover: Don3ydon
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,155 likes - 70 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,168 likes - 70 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrKm37olqYM.md) - [plain]
 | 69 | [Baltimore City](https://open.spotify.com/track/2GXNQhq760y65pC0OGAAFq) | [DJ Class](https://open.spotify.com/artist/7hbhhKxV5iT4C9kQMEW507), [Rod Lee](https://open.spotify.com/artist/6h8bL2vqsdM7kLYjsHuU7w) | [Vol\. 4: The Pressure](https://open.spotify.com/album/2WsSlehfEGLliibE7nRCJF) | 3:06 |
 | 70 | [Jerome](https://open.spotify.com/track/0Y8GBM1KJ9H91q4KviQBFD) | [KW Griff](https://open.spotify.com/artist/0c93ipDYZUvYQEKgAs1Vfu), [Rod Lee](https://open.spotify.com/artist/6h8bL2vqsdM7kLYjsHuU7w) | [Vol\. 2: Operation Not Done Yet](https://open.spotify.com/album/3RUyfLRSlRGfI6CRv3DV3r) | 2:26 |
 
-Snapshot ID: `MCw3ODEzODAwNmI2ZWFkMTdiMzc5ODVmOTg2NjBiNmQzZDk4YzlmMTk5`
+Snapshot ID: `MCwzOTU0MWYxMjY3ZWUzMmFmNTkyZGFhODk4NmNmNmM2NzNlODMzZGE4`

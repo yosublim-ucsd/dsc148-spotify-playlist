@@ -2532,7 +2532,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 227217,
       "name": "Hero",
       "url": "https://open.spotify.com/track/31iNSE9TF3ehPE7cX8OSek"
@@ -4486,6 +4486,24 @@
       "duration_ms": 155368,
       "name": "PICASSO (feat. Logos Olori)",
       "url": "https://open.spotify.com/track/1f5WN3V8AVYyUahqjWogGj"
+    },
+    {
+      "album": {
+        "name": "Sincerely, Benson",
+        "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
+      },
+      "artists": [
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218657,
+      "name": "Pidgin & English",
+      "url": "https://open.spotify.com/track/4jcrO2T6XJ1B7hXsAEJ3ve"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 170157,
+  "num_followers": 170234,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2I4NTA0ODc1MDBjMWQ5MTg2NWE2MjZlYmU2N2NiNWQ3NGY5YzM0",
+  "snapshot_id": "MCwyOWYwNTI2M2VmN2Q2ODcyZjBhZWMzOWIyNDZkNDU0YjZiOGI1NTZm",
   "tracks": [
     {
       "added_at": "2023-11-10 01:13:32",
@@ -485,22 +485,6 @@
       "url": "https://open.spotify.com/track/0oUBTMblmGqB5fBibdslTw"
     },
     {
-      "added_at": "2023-08-10 05:47:21",
-      "album": {
-        "name": "setar rock",
-        "url": "https://open.spotify.com/album/0sLE1MoYzMM6JgwuJR6Nzb"
-      },
-      "artists": [
-        {
-          "name": "Maral",
-          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
-        }
-      ],
-      "duration_ms": 240250,
-      "name": "setar rock",
-      "url": "https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb"
-    },
-    {
       "added_at": "2022-08-02 14:49:54",
       "album": {
         "name": "\u00a1Ay!",
@@ -517,20 +501,20 @@
       "url": "https://open.spotify.com/track/28rXyBF4c6ziSoiY6QDcZO"
     },
     {
-      "added_at": "2022-01-14 00:51:04",
+      "added_at": "2023-08-10 05:47:21",
       "album": {
-        "name": "Warm Chris",
-        "url": "https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v"
+        "name": "setar rock",
+        "url": "https://open.spotify.com/album/0sLE1MoYzMM6JgwuJR6Nzb"
       },
       "artists": [
         {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+          "name": "Maral",
+          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
         }
       ],
-      "duration_ms": 217066,
-      "name": "Lawn",
-      "url": "https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c"
+      "duration_ms": 240250,
+      "name": "setar rock",
+      "url": "https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -547,6 +531,22 @@
       "duration_ms": 225934,
       "name": "Silver Ladders",
       "url": "https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE"
+    },
+    {
+      "added_at": "2022-01-14 00:51:04",
+      "album": {
+        "name": "Warm Chris",
+        "url": "https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 217066,
+      "name": "Lawn",
+      "url": "https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c"
     },
     {
       "added_at": "2021-10-15 03:46:13",
@@ -761,6 +761,22 @@
       "url": "https://open.spotify.com/track/7s9RUTS8u8JSfwpLxmbPIK"
     },
     {
+      "added_at": "2023-03-23 20:08:51",
+      "album": {
+        "name": "Ready To Ball",
+        "url": "https://open.spotify.com/album/0oKYfLeymlC92TAHzSDzRp"
+      },
+      "artists": [
+        {
+          "name": "Kassa Overall",
+          "url": "https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf"
+        }
+      ],
+      "duration_ms": 207484,
+      "name": "Ready To Ball",
+      "url": "https://open.spotify.com/track/7AN04wyG4AnzJN3cR20CQT"
+    },
+    {
       "added_at": "2022-10-05 14:12:30",
       "album": {
         "name": "All Through The Day",
@@ -793,22 +809,6 @@
       "url": "https://open.spotify.com/track/2AkzUxAscto4cIeJSl2aBt"
     },
     {
-      "added_at": "2023-03-23 20:08:51",
-      "album": {
-        "name": "Ready To Ball",
-        "url": "https://open.spotify.com/album/0oKYfLeymlC92TAHzSDzRp"
-      },
-      "artists": [
-        {
-          "name": "Kassa Overall",
-          "url": "https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf"
-        }
-      ],
-      "duration_ms": 207484,
-      "name": "Ready To Ball",
-      "url": "https://open.spotify.com/track/7AN04wyG4AnzJN3cR20CQT"
-    },
-    {
       "added_at": "2023-08-08 03:45:10",
       "album": {
         "name": "Highlight",
@@ -825,22 +825,6 @@
       "url": "https://open.spotify.com/track/2GF0rZItoo3ptwCjiwShBa"
     },
     {
-      "added_at": "2023-08-24 03:26:17",
-      "album": {
-        "name": "RPG",
-        "url": "https://open.spotify.com/album/38eDGa0vn6Vta7fRYRlF15"
-      },
-      "artists": [
-        {
-          "name": "Me Lost Me",
-          "url": "https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO"
-        }
-      ],
-      "duration_ms": 227120,
-      "name": "Heat!",
-      "url": "https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Second Spring OST",
@@ -855,6 +839,22 @@
       "duration_ms": 151022,
       "name": "Highway Brain Planet (Credits)",
       "url": "https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR"
+    },
+    {
+      "added_at": "2023-08-24 03:26:17",
+      "album": {
+        "name": "RPG",
+        "url": "https://open.spotify.com/album/38eDGa0vn6Vta7fRYRlF15"
+      },
+      "artists": [
+        {
+          "name": "Me Lost Me",
+          "url": "https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO"
+        }
+      ],
+      "duration_ms": 227120,
+      "name": "Heat!",
+      "url": "https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG"
     },
     {
       "added_at": "2023-01-20 04:21:17",
@@ -945,22 +945,6 @@
       "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
     },
     {
-      "added_at": "2023-05-22 18:30:22",
-      "album": {
-        "name": "Vandali / Stranidei",
-        "url": "https://open.spotify.com/album/7mxKYjIXX1kGlV5RRDGvpI"
-      },
-      "artists": [
-        {
-          "name": "Bud Spencer Blues Explosion",
-          "url": "https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S"
-        }
-      ],
-      "duration_ms": 245520,
-      "name": "Stranidei",
-      "url": "https://open.spotify.com/track/233ArIuVyP9GNBlfNavB4W"
-    },
-    {
       "added_at": "2022-08-31 05:00:32",
       "album": {
         "name": "\u00a1Ay!",
@@ -975,6 +959,22 @@
       "duration_ms": 164598,
       "name": "Dicen",
       "url": "https://open.spotify.com/track/23hHf7aRBMesANVdtp2stv"
+    },
+    {
+      "added_at": "2023-05-22 18:30:22",
+      "album": {
+        "name": "Vandali / Stranidei",
+        "url": "https://open.spotify.com/album/7mxKYjIXX1kGlV5RRDGvpI"
+      },
+      "artists": [
+        {
+          "name": "Bud Spencer Blues Explosion",
+          "url": "https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S"
+        }
+      ],
+      "duration_ms": 245520,
+      "name": "Stranidei",
+      "url": "https://open.spotify.com/track/233ArIuVyP9GNBlfNavB4W"
     },
     {
       "added_at": "2022-11-08 17:40:24",
@@ -1109,26 +1109,6 @@
       "url": "https://open.spotify.com/track/4oxYyTVMHCt9PJkr92Wu4V"
     },
     {
-      "added_at": "2022-08-13 00:53:45",
-      "album": {
-        "name": "Go On",
-        "url": "https://open.spotify.com/album/61rka3NVcP0Gid06ZvfYXS"
-      },
-      "artists": [
-        {
-          "name": "Panda Bear",
-          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
-        },
-        {
-          "name": "Sonic Boom",
-          "url": "https://open.spotify.com/artist/4lBmxg4Z1e9NTDD05a2mhI"
-        }
-      ],
-      "duration_ms": 286640,
-      "name": "Go On",
-      "url": "https://open.spotify.com/track/7jPVJ7z0Yj7Dwb9TVMogLu"
-    },
-    {
       "added_at": "2023-01-20 04:21:17",
       "album": {
         "name": "MERCY",
@@ -1147,6 +1127,26 @@
       "duration_ms": 420080,
       "name": "MERCY",
       "url": "https://open.spotify.com/track/1S5KEj2FV5TJAoHJaXHmC0"
+    },
+    {
+      "added_at": "2022-08-13 00:53:45",
+      "album": {
+        "name": "Go On",
+        "url": "https://open.spotify.com/album/61rka3NVcP0Gid06ZvfYXS"
+      },
+      "artists": [
+        {
+          "name": "Panda Bear",
+          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
+        },
+        {
+          "name": "Sonic Boom",
+          "url": "https://open.spotify.com/artist/4lBmxg4Z1e9NTDD05a2mhI"
+        }
+      ],
+      "duration_ms": 286640,
+      "name": "Go On",
+      "url": "https://open.spotify.com/track/7jPVJ7z0Yj7Dwb9TVMogLu"
     },
     {
       "added_at": "2022-11-17 22:51:20",
@@ -1233,22 +1233,6 @@
       "url": "https://open.spotify.com/track/5TZf5KFfpJ5Vjb39z3QRR5"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Jacqueline",
-        "url": "https://open.spotify.com/album/3ykZ3V0mxK2yq5udGPeBDU"
-      },
-      "artists": [
-        {
-          "name": "Jackie Lynn",
-          "url": "https://open.spotify.com/artist/18txRfxTDTI9CZj7XgKLOV"
-        }
-      ],
-      "duration_ms": 324022,
-      "name": "Dream St.",
-      "url": "https://open.spotify.com/track/49SiBBu5SZn0lqSFAhgJ5t"
-    },
-    {
       "added_at": "2022-02-09 04:04:07",
       "album": {
         "name": "Sans oublier",
@@ -1263,6 +1247,22 @@
       "duration_ms": 228809,
       "name": "Tintagel",
       "url": "https://open.spotify.com/track/6y7lKUb0w54m0Fx49kzo1p"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Jacqueline",
+        "url": "https://open.spotify.com/album/3ykZ3V0mxK2yq5udGPeBDU"
+      },
+      "artists": [
+        {
+          "name": "Jackie Lynn",
+          "url": "https://open.spotify.com/artist/18txRfxTDTI9CZj7XgKLOV"
+        }
+      ],
+      "duration_ms": 324022,
+      "name": "Dream St.",
+      "url": "https://open.spotify.com/track/49SiBBu5SZn0lqSFAhgJ5t"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1349,6 +1349,22 @@
       "url": "https://open.spotify.com/track/2W0eN3BqaBz4WeInKnQmCR"
     },
     {
+      "added_at": "2022-03-30 04:28:53",
+      "album": {
+        "name": "Sans oublier",
+        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
+      },
+      "artists": [
+        {
+          "name": "Lysandre",
+          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
+        }
+      ],
+      "duration_ms": 170737,
+      "name": "La Roseraie",
+      "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
+    },
+    {
       "added_at": "2023-06-02 00:41:12",
       "album": {
         "name": "Music For Film: Women Against The Bomb",
@@ -1417,22 +1433,6 @@
       "url": "https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe"
     },
     {
-      "added_at": "2022-03-30 04:28:53",
-      "album": {
-        "name": "Sans oublier",
-        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
-      },
-      "artists": [
-        {
-          "name": "Lysandre",
-          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
-        }
-      ],
-      "duration_ms": 170737,
-      "name": "La Roseraie",
-      "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Peculiar Machine (Georgia Anne Muldrow Remix)",
@@ -1493,22 +1493,6 @@
       "url": "https://open.spotify.com/track/6OpTAE9fOLxYzQMMSWyo0s"
     },
     {
-      "added_at": "2021-10-15 03:46:13",
-      "album": {
-        "name": "Vines",
-        "url": "https://open.spotify.com/album/4vkPu8SShGB8BBvQvaEMX8"
-      },
-      "artists": [
-        {
-          "name": "Damiana",
-          "url": "https://open.spotify.com/artist/1xmYJRmMNBC7ucGQ1TTOIx"
-        }
-      ],
-      "duration_ms": 406163,
-      "name": "Sunken Lupine",
-      "url": "https://open.spotify.com/track/72SzjydU6s6oVsj2Ml1YV3"
-    },
-    {
       "added_at": "2023-05-12 04:28:08",
       "album": {
         "name": "The Lava Is Calm",
@@ -1527,6 +1511,22 @@
       "duration_ms": 186678,
       "name": "The Lava Is Calm",
       "url": "https://open.spotify.com/track/3g1uQN86mg2yLHnJCuN2fR"
+    },
+    {
+      "added_at": "2021-10-15 03:46:13",
+      "album": {
+        "name": "Vines",
+        "url": "https://open.spotify.com/album/4vkPu8SShGB8BBvQvaEMX8"
+      },
+      "artists": [
+        {
+          "name": "Damiana",
+          "url": "https://open.spotify.com/artist/1xmYJRmMNBC7ucGQ1TTOIx"
+        }
+      ],
+      "duration_ms": 406163,
+      "name": "Sunken Lupine",
+      "url": "https://open.spotify.com/track/72SzjydU6s6oVsj2Ml1YV3"
     },
     {
       "added_at": "2022-04-20 13:58:09",

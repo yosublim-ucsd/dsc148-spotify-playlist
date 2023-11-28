@@ -431,6 +431,24 @@
     },
     {
       "album": {
+        "name": "Aenaa",
+        "url": "https://open.spotify.com/album/6hJtXIHhmY5jiQEfL9m1Sh"
+      },
+      "artists": [
+        {
+          "name": "Die Arkitekt",
+          "url": "https://open.spotify.com/artist/22sLqzalP9nWSfVtVxtJ5k"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "Aenaa",
+      "url": "https://open.spotify.com/track/0prIS5YgoC27IVoXmd4hLm"
+    },
+    {
+      "album": {
         "name": "AER (All Engines Running)",
         "url": "https://open.spotify.com/album/6jnZlCCDvmECMUMegcb9Em"
       },
@@ -702,6 +720,24 @@
       "duration_ms": 365163,
       "name": "Anytime",
       "url": "https://open.spotify.com/track/71kWlO1RX3LoRTrIJgbDwA"
+    },
+    {
+      "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/1LqYkBtUxZKXZ2MNmIjqTe"
+      },
+      "artists": [
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349000,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/4jDTMcSXDCBbwUoU2BnzzP"
     },
     {
       "album": {
@@ -2415,6 +2451,24 @@
     },
     {
       "album": {
+        "name": "Desert Queen",
+        "url": "https://open.spotify.com/album/0yG7rxCosQLHe9LH6fgxoH"
+      },
+      "artists": [
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236691,
+      "name": "Desert Queen",
+      "url": "https://open.spotify.com/track/3XEGdwonYRQM5sX0I0CsoR"
+    },
+    {
+      "album": {
         "name": "Destroy",
         "url": "https://open.spotify.com/album/6T04oFX3CszogWsO1vV5lR"
       },
@@ -2564,6 +2618,24 @@
       "duration_ms": 290008,
       "name": "Dirty Lagoon",
       "url": "https://open.spotify.com/track/4JvutGrckEHMwqvezbMRwB"
+    },
+    {
+      "album": {
+        "name": "Disconnect",
+        "url": "https://open.spotify.com/album/66faGqyvcdo34RE3CeJByv"
+      },
+      "artists": [
+        {
+          "name": "Marie Vaunt",
+          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262394,
+      "name": "Disconnect",
+      "url": "https://open.spotify.com/track/4yzaeprujqqP0lUFrdYHel"
     },
     {
       "album": {
@@ -3111,6 +3183,28 @@
     },
     {
       "album": {
+        "name": "Enter the Rave",
+        "url": "https://open.spotify.com/album/155BMWajgjJvAgVstDQRI9"
+      },
+      "artists": [
+        {
+          "name": "UMEK",
+          "url": "https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt"
+        },
+        {
+          "name": "Sam WOLFE",
+          "url": "https://open.spotify.com/artist/1Hu2YwTv9wmxC8sppVVUA4"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234740,
+      "name": "Enter the Rave - Radio Edit",
+      "url": "https://open.spotify.com/track/5EPIvRy46zZ92NiF7NE7Ls"
+    },
+    {
+      "album": {
         "name": "Eris",
         "url": "https://open.spotify.com/album/2W1HHKWKOOmAO1RoeCS49A"
       },
@@ -3386,7 +3480,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 413230,
       "name": "Falling Apart",
       "url": "https://open.spotify.com/track/4mw5W12hU508IjqY0ZiXCw"
@@ -5958,7 +6052,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 331354,
       "name": "MAVI",
       "url": "https://open.spotify.com/track/5WIskb28ahYuXWm7CwGQ59"
@@ -6604,7 +6698,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 365373,
       "name": "Never Be The Same - Kaspar Remix",
       "url": "https://open.spotify.com/track/0qJBk7XNvoIxgknQTgcppH"
@@ -8506,7 +8600,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 373309,
       "name": "Sequence X - Simina Grigoriu Remix",
       "url": "https://open.spotify.com/track/5miLmeyVhMJRnZUFixhUoL"
@@ -9146,7 +9240,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 230142,
       "name": "Techno Acid 303",
       "url": "https://open.spotify.com/track/3I6rEbfsXuLUPeYehl0q1g"
@@ -10056,7 +10150,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 254545,
       "name": "Time",
       "url": "https://open.spotify.com/track/6WuhWyOHhhXGSHOtNrJ3Is"
@@ -10984,6 +11078,24 @@
       "duration_ms": 206625,
       "name": "We Control",
       "url": "https://open.spotify.com/track/7K3OyIuvYF1qcwr4xqILeu"
+    },
+    {
+      "album": {
+        "name": "We Won't Go Home",
+        "url": "https://open.spotify.com/album/3lMW8ZVbl5grQA4IskOt9f"
+      },
+      "artists": [
+        {
+          "name": "Kaspar",
+          "url": "https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356571,
+      "name": "We Won't Go Home",
+      "url": "https://open.spotify.com/track/4VpjnOtZK7n2Hxc1vlAyOz"
     },
     {
       "album": {

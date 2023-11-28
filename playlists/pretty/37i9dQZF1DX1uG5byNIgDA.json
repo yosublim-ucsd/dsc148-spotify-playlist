@@ -1,12 +1,12 @@
 {
   "description": "Everyday should be a happy day when you listen to this fun K-Pop playlist.",
-  "num_followers": 222149,
+  "num_followers": 222155,
   "original_name": "Morning K-Pop!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDA2NzM5NTdjZDU5ZTBjMzRjYTJiZDgyMWZiN2YxNzU0NDQzZWRl",
+  "snapshot_id": "MCw0YmM5Yzc2N2M2MjhhZDNiYmQ2ODE4NzU4MTY4MjA4YjMyYjNkNzMw",
   "tracks": [
     {
       "added_at": "2023-08-24 02:20:42",
@@ -203,26 +203,6 @@
     {
       "added_at": "2023-08-24 02:20:42",
       "album": {
-        "name": "MAP OF THE SOUL : PERSONA",
-        "url": "https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        },
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 229773,
-      "name": "Boy With Luv (feat. Halsey)",
-      "url": "https://open.spotify.com/track/4a9tbd947vo9K8Vti9JwcI"
-    },
-    {
-      "added_at": "2023-08-24 02:20:42",
-      "album": {
         "name": "Red Diary Page.1",
         "url": "https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 180360,
       "name": "Rock with you",
       "url": "https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy"
+    },
+    {
+      "added_at": "2023-08-24 02:20:42",
+      "album": {
+        "name": "MAP OF THE SOUL : PERSONA",
+        "url": "https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 229773,
+      "name": "Boy With Luv (feat. Halsey)",
+      "url": "https://open.spotify.com/track/4a9tbd947vo9K8Vti9JwcI"
     },
     {
       "added_at": "2023-08-24 02:20:42",
@@ -287,18 +287,18 @@
     {
       "added_at": "2023-08-24 02:20:42",
       "album": {
-        "name": "Feel Special",
-        "url": "https://open.spotify.com/album/3NQBPabmRm3LzVcmtkTLfo"
+        "name": "I've IVE",
+        "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
       },
       "artists": [
         {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
         }
       ],
-      "duration_ms": 206866,
-      "name": "Feel Special",
-      "url": "https://open.spotify.com/track/3Hz3tTQwOdM6XkA0ALB2G9"
+      "duration_ms": 195440,
+      "name": "Kitsch",
+      "url": "https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat"
     },
     {
       "added_at": "2023-08-24 02:20:42",
@@ -335,18 +335,18 @@
     {
       "added_at": "2023-08-24 02:20:42",
       "album": {
-        "name": "I've IVE",
-        "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
+        "name": "Feel Special",
+        "url": "https://open.spotify.com/album/3NQBPabmRm3LzVcmtkTLfo"
       },
       "artists": [
         {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
         }
       ],
-      "duration_ms": 195440,
-      "name": "Kitsch",
-      "url": "https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat"
+      "duration_ms": 206866,
+      "name": "Feel Special",
+      "url": "https://open.spotify.com/track/3Hz3tTQwOdM6XkA0ALB2G9"
     },
     {
       "added_at": "2023-08-24 02:20:42",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-08-24 02:20:42",
       "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/1OWmGjBN7jiZK6OCgyxGTV"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 237576,
+      "name": "She's In The Rain",
+      "url": "https://open.spotify.com/track/5Xp6Bx4Fy8LGoTX8xzBi00"
+    },
+    {
+      "added_at": "2023-08-24 02:20:42",
+      "album": {
         "name": "MAP OF THE SOUL : PERSONA",
         "url": "https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 237680,
       "name": "YES or YES",
       "url": "https://open.spotify.com/track/26OVhEqFDQH0Ij77QtmGP9"
-    },
-    {
-      "added_at": "2023-08-24 02:20:42",
-      "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/1OWmGjBN7jiZK6OCgyxGTV"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 237576,
-      "name": "She's In The Rain",
-      "url": "https://open.spotify.com/track/5Xp6Bx4Fy8LGoTX8xzBi00"
     },
     {
       "added_at": "2023-08-24 02:20:42",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-08-24 02:20:42",
       "album": {
-        "name": "Love Yourself \u7d50 'Answer'",
-        "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 251279,
-      "name": "Answer : Love Myself",
-      "url": "https://open.spotify.com/track/2X3UgVLSA4wYriGIQyYmMA"
-    },
-    {
-      "added_at": "2023-08-24 02:20:42",
-      "album": {
         "name": "FIRST IMPACT",
         "url": "https://open.spotify.com/album/7pHyAucSgWoDNlFHfhQfVN"
       },
@@ -543,6 +527,22 @@
     {
       "added_at": "2023-08-24 02:20:42",
       "album": {
+        "name": "WHO!",
+        "url": "https://open.spotify.com/album/0wesgG3gMPRK5awyZFEPU2"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "duration_ms": 167986,
+      "name": "One and Only",
+      "url": "https://open.spotify.com/track/7twsZBhfSJFeaDp2rFHP1d"
+    },
+    {
+      "added_at": "2023-08-24 02:20:42",
+      "album": {
         "name": "I trust",
         "url": "https://open.spotify.com/album/57sl8AvqVqm4Fadre0z8FQ"
       },
@@ -555,6 +555,22 @@
       "duration_ms": 210973,
       "name": "LION",
       "url": "https://open.spotify.com/track/40OyiVO9NtBg9R2Gpwxs3u"
+    },
+    {
+      "added_at": "2023-08-24 02:20:42",
+      "album": {
+        "name": "The Dream Chapter: STAR",
+        "url": "https://open.spotify.com/album/5GiLAzb049s1SsDiUPhHVz"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 230706,
+      "name": "CROWN",
+      "url": "https://open.spotify.com/track/0EmYZZ8OqeALedVhijSjsg"
     },
     {
       "added_at": "2023-08-24 02:20:42",
@@ -575,34 +591,18 @@
     {
       "added_at": "2023-08-24 02:20:42",
       "album": {
-        "name": "WHO!",
-        "url": "https://open.spotify.com/album/0wesgG3gMPRK5awyZFEPU2"
+        "name": "Love Yourself \u7d50 'Answer'",
+        "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
       },
       "artists": [
         {
-          "name": "BOYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 167986,
-      "name": "One and Only",
-      "url": "https://open.spotify.com/track/7twsZBhfSJFeaDp2rFHP1d"
-    },
-    {
-      "added_at": "2023-08-24 02:20:42",
-      "album": {
-        "name": "The Dream Chapter: STAR",
-        "url": "https://open.spotify.com/album/5GiLAzb049s1SsDiUPhHVz"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 230706,
-      "name": "CROWN",
-      "url": "https://open.spotify.com/track/0EmYZZ8OqeALedVhijSjsg"
+      "duration_ms": 251279,
+      "name": "Answer : Love Myself",
+      "url": "https://open.spotify.com/track/2X3UgVLSA4wYriGIQyYmMA"
     },
     {
       "added_at": "2023-08-24 02:20:42",

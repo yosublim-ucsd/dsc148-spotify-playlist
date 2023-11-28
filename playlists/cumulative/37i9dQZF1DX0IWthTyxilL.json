@@ -502,7 +502,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-26",
+      "date_removed": null,
       "duration_ms": 193922,
       "name": "Rain & The Rainforest",
       "url": "https://open.spotify.com/track/0i2QIV9Lku6x5zQkN7DZpn"
@@ -718,7 +718,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 258788,
       "name": "Summer Night",
       "url": "https://open.spotify.com/track/45c7cAvP0LccTTRP0eLeeC"
@@ -772,7 +772,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 250977,
       "name": "Sweet Forest Sound",
       "url": "https://open.spotify.com/track/1uSdLhZVfPEKvYORqHJdgv"
@@ -812,6 +812,24 @@
       "duration_ms": 159010,
       "name": "Tropical Forest - Rain and Birds",
       "url": "https://open.spotify.com/track/5MtCZdGKspLCFrnh0Gp2oB"
+    },
+    {
+      "album": {
+        "name": "Nature Vol.1",
+        "url": "https://open.spotify.com/album/0MgM1Kx0bJmPPKTR6Yrikr"
+      },
+      "artists": [
+        {
+          "name": "Tellus Recordings",
+          "url": "https://open.spotify.com/artist/3EwfrJRom0WYp9unSsooUg"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214417,
+      "name": "Tropical Forest at Noon",
+      "url": "https://open.spotify.com/track/2N1ysOGiuiCwOAoDwqjWtu"
     },
     {
       "album": {

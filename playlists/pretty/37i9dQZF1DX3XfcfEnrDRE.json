@@ -1,12 +1,12 @@
 {
   "description": "The ever-evolving sound of Alt! Cover: Gable Price and Friends",
-  "num_followers": 236226,
+  "num_followers": 236261,
   "original_name": "Ultimate Christian Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGExMGMzYWMxMTkxZDllZjM5M2M1Mzc2NjFlNDU3YjcyZmRiNjA4",
+  "snapshot_id": "MCwxMjk2MThiODJmMGNhMmYzMjBlNDg2MTM3ZjkyMTQyMzVmNjYxMzEw",
   "tracks": [
     {
       "added_at": "2022-12-16 05:02:00",
@@ -491,26 +491,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Pilot",
-        "url": "https://open.spotify.com/album/7ujAh0O6Cr9BTIW7aH0cJY"
+        "name": "Friend",
+        "url": "https://open.spotify.com/album/4W9nKZkAvSjt15eHL8ek4k"
       },
       "artists": [
         {
-          "name": "IMRSQD",
-          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
-        },
-        {
-          "name": "Moflo Music",
-          "url": "https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a"
-        },
-        {
-          "name": "Sammie Lee",
-          "url": "https://open.spotify.com/artist/4xdSrVRzcVvxW4CJVCuRJ2"
+          "name": "John Jin Han",
+          "url": "https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl"
         }
       ],
-      "duration_ms": 100240,
-      "name": "Pilot",
-      "url": "https://open.spotify.com/track/2ePV8y7NK53tnk6AJEntBV"
+      "duration_ms": 226295,
+      "name": "Friend",
+      "url": "https://open.spotify.com/track/6bXXwtGF4YCO2e9QJtstQG"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -535,18 +527,26 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Friend",
-        "url": "https://open.spotify.com/album/4W9nKZkAvSjt15eHL8ek4k"
+        "name": "Pilot",
+        "url": "https://open.spotify.com/album/7ujAh0O6Cr9BTIW7aH0cJY"
       },
       "artists": [
         {
-          "name": "John Jin Han",
-          "url": "https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl"
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
+        },
+        {
+          "name": "Moflo Music",
+          "url": "https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a"
+        },
+        {
+          "name": "Sammie Lee",
+          "url": "https://open.spotify.com/artist/4xdSrVRzcVvxW4CJVCuRJ2"
         }
       ],
-      "duration_ms": 226295,
-      "name": "Friend",
-      "url": "https://open.spotify.com/track/6bXXwtGF4YCO2e9QJtstQG"
+      "duration_ms": 100240,
+      "name": "Pilot",
+      "url": "https://open.spotify.com/track/2ePV8y7NK53tnk6AJEntBV"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Keep Hopin'",
-        "url": "https://open.spotify.com/album/7G5ZyTvGNdOmTjwtPMf9Dn"
-      },
-      "artists": [
-        {
-          "name": "The Scally Brothers",
-          "url": "https://open.spotify.com/artist/1zxZJBr1JIL8X4zDvpkFos"
-        }
-      ],
-      "duration_ms": 167076,
-      "name": "Keep Hopin'",
-      "url": "https://open.spotify.com/track/0mGZn0WtZipxhZIGH7j6m4"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Need You",
         "url": "https://open.spotify.com/album/4sE3LUKKl1Gy8BBS1AOVsD"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 209230,
       "name": "Need You",
       "url": "https://open.spotify.com/track/7mNhPcVlfiwviMs1vFJqvq"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Keep Hopin'",
+        "url": "https://open.spotify.com/album/7G5ZyTvGNdOmTjwtPMf9Dn"
+      },
+      "artists": [
+        {
+          "name": "The Scally Brothers",
+          "url": "https://open.spotify.com/artist/1zxZJBr1JIL8X4zDvpkFos"
+        }
+      ],
+      "duration_ms": 167076,
+      "name": "Keep Hopin'",
+      "url": "https://open.spotify.com/track/0mGZn0WtZipxhZIGH7j6m4"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "No Greater Love",
-        "url": "https://open.spotify.com/album/3IQc2Zlovy1REbisqTn1Wg"
-      },
-      "artists": [
-        {
-          "name": "The Color",
-          "url": "https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d"
-        }
-      ],
-      "duration_ms": 199306,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/7jkVWTVib0Acmmj0guHs6Z"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "WILD THINGS",
         "url": "https://open.spotify.com/album/5XaKKyhMqIAie5hIND1f6i"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 183000,
       "name": "WILD THINGS",
       "url": "https://open.spotify.com/track/1l6q0BU9csN5AEvVBdyc2l"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "No Greater Love",
+        "url": "https://open.spotify.com/album/3IQc2Zlovy1REbisqTn1Wg"
+      },
+      "artists": [
+        {
+          "name": "The Color",
+          "url": "https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d"
+        }
+      ],
+      "duration_ms": 199306,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/7jkVWTVib0Acmmj0guHs6Z"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Broken Places",
-        "url": "https://open.spotify.com/album/0DX0eOgQHUgQqBFVSyKCQF"
-      },
-      "artists": [
-        {
-          "name": "Jars Of Clay",
-          "url": "https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF"
-        }
-      ],
-      "duration_ms": 255693,
-      "name": "Broken Places",
-      "url": "https://open.spotify.com/track/5qCoYTRtXwsCIiMaE9D8L6"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Every Morning",
         "url": "https://open.spotify.com/album/6re1dUsurh2IKlkZhL6tiy"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 223636,
       "name": "Every Morning",
       "url": "https://open.spotify.com/track/17P6kojDstdaw65xDCOARU"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Broken Places",
+        "url": "https://open.spotify.com/album/0DX0eOgQHUgQqBFVSyKCQF"
+      },
+      "artists": [
+        {
+          "name": "Jars Of Clay",
+          "url": "https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF"
+        }
+      ],
+      "duration_ms": 255693,
+      "name": "Broken Places",
+      "url": "https://open.spotify.com/track/5qCoYTRtXwsCIiMaE9D8L6"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "River",
-        "url": "https://open.spotify.com/album/1wo9f0FTXsciSHZCKD808u"
-      },
-      "artists": [
-        {
-          "name": "Dara Maclean",
-          "url": "https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm"
-        }
-      ],
-      "duration_ms": 252520,
-      "name": "Love Over Religion",
-      "url": "https://open.spotify.com/track/7uZEBTWHzuG68sXaADrwW5"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Mercy Shores",
         "url": "https://open.spotify.com/album/2hFkHnWuHRlxvtzMsOe5H7"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 206746,
       "name": "Mercy Shores",
       "url": "https://open.spotify.com/track/2DfrxAll5ft3nKQNa6OKEo"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "River",
+        "url": "https://open.spotify.com/album/1wo9f0FTXsciSHZCKD808u"
+      },
+      "artists": [
+        {
+          "name": "Dara Maclean",
+          "url": "https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm"
+        }
+      ],
+      "duration_ms": 252520,
+      "name": "Love Over Religion",
+      "url": "https://open.spotify.com/track/7uZEBTWHzuG68sXaADrwW5"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Natural Killer",
+        "url": "https://open.spotify.com/album/3oZfCFEY6PqY59fsUyitbV"
+      },
+      "artists": [
+        {
+          "name": "Truslow",
+          "url": "https://open.spotify.com/artist/0zBShgJCo19qQZtM0CZxJv"
+        }
+      ],
+      "duration_ms": 224181,
+      "name": "Killer",
+      "url": "https://open.spotify.com/track/05F7rkqDQPBZboapB7MCA5"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Breathe Again",
         "url": "https://open.spotify.com/album/3ztacUh2slm1151Ago3Mjz"
       },
@@ -1419,38 +1435,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Natural Killer",
-        "url": "https://open.spotify.com/album/3oZfCFEY6PqY59fsUyitbV"
-      },
-      "artists": [
-        {
-          "name": "Truslow",
-          "url": "https://open.spotify.com/artist/0zBShgJCo19qQZtM0CZxJv"
-        }
-      ],
-      "duration_ms": 224181,
-      "name": "Killer",
-      "url": "https://open.spotify.com/track/05F7rkqDQPBZboapB7MCA5"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "Angels vs Demons",
-        "url": "https://open.spotify.com/album/3sYjKGdSYoghebq89K5XlL"
-      },
-      "artists": [
-        {
-          "name": "Nathan Wagner",
-          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Angels vs Demons - Piano Version",
-      "url": "https://open.spotify.com/track/71Ax2oi6fIzusCsdwyGZhE"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/4aMuBVHF6EJuaD1SQMhHub"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 141177,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/1eI2tJUhgaC1b0cYmvzUaa"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Angels vs Demons",
+        "url": "https://open.spotify.com/album/3sYjKGdSYoghebq89K5XlL"
+      },
+      "artists": [
+        {
+          "name": "Nathan Wagner",
+          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Angels vs Demons - Piano Version",
+      "url": "https://open.spotify.com/track/71Ax2oi6fIzusCsdwyGZhE"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Between The Joy And The Sorrow - Part 2",
-        "url": "https://open.spotify.com/album/6wUCazGhDr64fdK4cYogNZ"
-      },
-      "artists": [
-        {
-          "name": "Ian Yates",
-          "url": "https://open.spotify.com/artist/1f4Ai5lRAeK0wameps1zqU"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Between The Joy And The Sorrow",
-      "url": "https://open.spotify.com/track/5jxbNNre9WDXom2hyJeE2e"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Nothing is Wasted (Live)",
         "url": "https://open.spotify.com/album/5gIP0NeugQ1VkKQ6lDk87l"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 348714,
       "name": "Nothing is Wasted - Live",
       "url": "https://open.spotify.com/track/5WNl2SPKaMGaasoArkhmKv"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Between The Joy And The Sorrow - Part 2",
+        "url": "https://open.spotify.com/album/6wUCazGhDr64fdK4cYogNZ"
+      },
+      "artists": [
+        {
+          "name": "Ian Yates",
+          "url": "https://open.spotify.com/artist/1f4Ai5lRAeK0wameps1zqU"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Between The Joy And The Sorrow",
+      "url": "https://open.spotify.com/track/5jxbNNre9WDXom2hyJeE2e"
     },
     {
       "added_at": "2022-12-16 05:02:00",

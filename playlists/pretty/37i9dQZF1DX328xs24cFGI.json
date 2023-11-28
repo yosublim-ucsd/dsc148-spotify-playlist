@@ -1,12 +1,12 @@
 {
   "description": "\u604b\u3057\u3066\u308b\u3042\u306a\u305f\u306b\u5bc4\u308a\u6dfb\u3046\u3001\u7d20\u6575\u306a\u30e9\u30d6\u30bd\u30f3\u30b0\u3092\u96c6\u3081\u307e\u3057\u305f\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 150934,
+  "num_followers": 151020,
   "original_name": "\u604b\u3059\u308b\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTY3OTZhNmY4YjMyMzFjYjdmMzgzMzdhMjAwNjMwNjVjYWIxMzcz",
+  "snapshot_id": "MCwxZDM4ZThhYTQ2Y2M1YTk3OTQwOTFjMDhhODllYTY5YjhhMzU4OWFm",
   "tracks": [
     {
       "added_at": "2023-11-23 15:00:00",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-11-23 15:00:00",
       "album": {
+        "name": "\u30a4\u30f3\u30c7\u30a3\u30b4\u5730\u5e73\u7dda",
+        "url": "https://open.spotify.com/album/0GB573iZ4z6gre3eUJc56N"
+      },
+      "artists": [
+        {
+          "name": "SPITZ",
+          "url": "https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0"
+        }
+      ],
+      "duration_ms": 259933,
+      "name": "\u30c1\u30a7\u30ea\u30fc",
+      "url": "https://open.spotify.com/track/1ihCiJaXRl4f6Sy4LJov5z"
+    },
+    {
+      "added_at": "2023-11-23 15:00:00",
+      "album": {
         "name": "\u30b9\u30fc\u30d1\u30fc\u30b9\u30bf\u30fc",
         "url": "https://open.spotify.com/album/4x70QIHYGdMgV9rRgByZbI"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 286053,
       "name": "\u82b1\u675f",
       "url": "https://open.spotify.com/track/3QIAwtEEDOrv0g5NKCGrXZ"
-    },
-    {
-      "added_at": "2023-11-23 15:00:00",
-      "album": {
-        "name": "\u9752\u6625\u306e\u30a8\u30ad\u30b5\u30a4\u30c8\u30e1\u30f3\u30c8",
-        "url": "https://open.spotify.com/album/0ct8ESCAYEpDGYJOndCfft"
-      },
-      "artists": [
-        {
-          "name": "Aimyon",
-          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
-        }
-      ],
-      "duration_ms": 246306,
-      "name": "\u541b\u306f\u30ed\u30c3\u30af\u3092\u8074\u304b\u306a\u3044",
-      "url": "https://open.spotify.com/track/59eluCMn0XbOWqeWQ91FTM"
     },
     {
       "added_at": "2023-11-23 15:00:00",
@@ -479,18 +479,18 @@
     {
       "added_at": "2023-11-23 15:00:00",
       "album": {
-        "name": "\u30a4\u30f3\u30c7\u30a3\u30b4\u5730\u5e73\u7dda",
-        "url": "https://open.spotify.com/album/0GB573iZ4z6gre3eUJc56N"
+        "name": "\u9752\u6625\u306e\u30a8\u30ad\u30b5\u30a4\u30c8\u30e1\u30f3\u30c8",
+        "url": "https://open.spotify.com/album/0ct8ESCAYEpDGYJOndCfft"
       },
       "artists": [
         {
-          "name": "SPITZ",
-          "url": "https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0"
+          "name": "Aimyon",
+          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
         }
       ],
-      "duration_ms": 259933,
-      "name": "\u30c1\u30a7\u30ea\u30fc",
-      "url": "https://open.spotify.com/track/1ihCiJaXRl4f6Sy4LJov5z"
+      "duration_ms": 246306,
+      "name": "\u541b\u306f\u30ed\u30c3\u30af\u3092\u8074\u304b\u306a\u3044",
+      "url": "https://open.spotify.com/track/59eluCMn0XbOWqeWQ91FTM"
     },
     {
       "added_at": "2023-11-23 15:00:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-11-23 15:00:00",
       "album": {
-        "name": "MAGIC",
-        "url": "https://open.spotify.com/album/4dERKKPWhbvX7zxFTzNzNn"
-      },
-      "artists": [
-        {
-          "name": "back number",
-          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
-        }
-      ],
-      "duration_ms": 254440,
-      "name": "\u30aa\u30fc\u30eb\u30c9\u30d5\u30a1\u30c3\u30b7\u30e7\u30f3",
-      "url": "https://open.spotify.com/track/0Xn30nT5EKFPsWvpiJ2Iav"
-    },
-    {
-      "added_at": "2023-11-23 15:00:00",
-      "album": {
         "name": "YANKEE",
         "url": "https://open.spotify.com/album/64SAjax288grKsmuLDfA6G"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 288013,
       "name": "\u30a2\u30a4\u30cd\u30af\u30e9\u30a4\u30cd",
       "url": "https://open.spotify.com/track/45YBVp6zMwQZRbUDcPzmMB"
+    },
+    {
+      "added_at": "2023-11-23 15:00:00",
+      "album": {
+        "name": "Your Name.",
+        "url": "https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "duration_ms": 131666,
+      "name": "Dream lantern",
+      "url": "https://open.spotify.com/track/5mEqD00bdFcsiVd0MfvEeF"
     },
     {
       "added_at": "2023-11-23 15:00:00",
@@ -575,18 +575,18 @@
     {
       "added_at": "2023-11-23 15:00:00",
       "album": {
-        "name": "Your Name.",
-        "url": "https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP"
+        "name": "MAGIC",
+        "url": "https://open.spotify.com/album/4dERKKPWhbvX7zxFTzNzNn"
       },
       "artists": [
         {
-          "name": "RADWIMPS",
-          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+          "name": "back number",
+          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
         }
       ],
-      "duration_ms": 131666,
-      "name": "Dream lantern",
-      "url": "https://open.spotify.com/track/5mEqD00bdFcsiVd0MfvEeF"
+      "duration_ms": 254440,
+      "name": "\u30aa\u30fc\u30eb\u30c9\u30d5\u30a1\u30c3\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/0Xn30nT5EKFPsWvpiJ2Iav"
     },
     {
       "added_at": "2023-11-23 15:00:00",
@@ -679,18 +679,18 @@
     {
       "added_at": "2023-11-23 15:00:00",
       "album": {
-        "name": "blues",
-        "url": "https://open.spotify.com/album/2puS4XHci0XEcLNNY4xgjv"
+        "name": "I believe in you",
+        "url": "https://open.spotify.com/album/57MaahzIW7aiwZMCiveDsL"
       },
       "artists": [
         {
-          "name": "back number",
-          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
+          "name": "\u5ddd\u5d0e\u9df9\u4e5f",
+          "url": "https://open.spotify.com/artist/3BjFX1nExMNHvSaoLd1I1k"
         }
       ],
-      "duration_ms": 253306,
-      "name": "\u604b",
-      "url": "https://open.spotify.com/track/7f9DsQEsIoeTwKxV6shsom"
+      "duration_ms": 208896,
+      "name": "\u9b54\u6cd5\u306e\u7d68\u6bef",
+      "url": "https://open.spotify.com/track/3PK5ERLCyMuQ5Cb89GbZVL"
     },
     {
       "added_at": "2023-11-23 15:00:00",
@@ -711,18 +711,18 @@
     {
       "added_at": "2023-11-23 15:00:00",
       "album": {
-        "name": "I believe in you",
-        "url": "https://open.spotify.com/album/57MaahzIW7aiwZMCiveDsL"
+        "name": "hope",
+        "url": "https://open.spotify.com/album/5kArccOTc9R98l8GF1D0bF"
       },
       "artists": [
         {
-          "name": "\u5ddd\u5d0e\u9df9\u4e5f",
-          "url": "https://open.spotify.com/artist/3BjFX1nExMNHvSaoLd1I1k"
+          "name": "Macaroni Empitsu",
+          "url": "https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ"
         }
       ],
-      "duration_ms": 208896,
-      "name": "\u9b54\u6cd5\u306e\u7d68\u6bef",
-      "url": "https://open.spotify.com/track/3PK5ERLCyMuQ5Cb89GbZVL"
+      "duration_ms": 244869,
+      "name": "\u30d6\u30eb\u30fc\u30d9\u30ea\u30fc\u30fb\u30ca\u30a4\u30c4",
+      "url": "https://open.spotify.com/track/2UdvMWk0Z83lMJPbawy2Sm"
     },
     {
       "added_at": "2023-11-23 15:00:00",
@@ -743,18 +743,18 @@
     {
       "added_at": "2023-11-23 15:00:00",
       "album": {
-        "name": "hope",
-        "url": "https://open.spotify.com/album/5kArccOTc9R98l8GF1D0bF"
+        "name": "blues",
+        "url": "https://open.spotify.com/album/2puS4XHci0XEcLNNY4xgjv"
       },
       "artists": [
         {
-          "name": "Macaroni Empitsu",
-          "url": "https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ"
+          "name": "back number",
+          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
         }
       ],
-      "duration_ms": 244869,
-      "name": "\u30d6\u30eb\u30fc\u30d9\u30ea\u30fc\u30fb\u30ca\u30a4\u30c4",
-      "url": "https://open.spotify.com/track/2UdvMWk0Z83lMJPbawy2Sm"
+      "duration_ms": 253306,
+      "name": "\u604b",
+      "url": "https://open.spotify.com/track/7f9DsQEsIoeTwKxV6shsom"
     },
     {
       "added_at": "2023-11-23 15:00:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-11-23 15:00:00",
       "album": {
-        "name": "\u306a\u3093\u3067\u3082\u306a\u3044\u3088\u3001",
-        "url": "https://open.spotify.com/album/3N9QmFGY4WUAJCf7gyvC2S"
-      },
-      "artists": [
-        {
-          "name": "Macaroni Empitsu",
-          "url": "https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ"
-        }
-      ],
-      "duration_ms": 218751,
-      "name": "\u306a\u3093\u3067\u3082\u306a\u3044\u3088\u3001",
-      "url": "https://open.spotify.com/track/2PFzK3kMDDYKhGnugvNYf1"
-    },
-    {
-      "added_at": "2023-11-23 15:00:00",
-      "album": {
         "name": "\u9752\u3068\u590f",
         "url": "https://open.spotify.com/album/3U7I6bqhI8IsRvPLLaVN6v"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 294666,
       "name": "\u305d\u308c\u3092\u611b\u3068\u547c\u3076\u306a\u3089",
       "url": "https://open.spotify.com/track/3ibqi5ANZtNI7QXOgUnFsL"
+    },
+    {
+      "added_at": "2023-11-23 15:00:00",
+      "album": {
+        "name": "\u306a\u3093\u3067\u3082\u306a\u3044\u3088\u3001",
+        "url": "https://open.spotify.com/album/3N9QmFGY4WUAJCf7gyvC2S"
+      },
+      "artists": [
+        {
+          "name": "Macaroni Empitsu",
+          "url": "https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ"
+        }
+      ],
+      "duration_ms": 218751,
+      "name": "\u306a\u3093\u3067\u3082\u306a\u3044\u3088\u3001",
+      "url": "https://open.spotify.com/track/2PFzK3kMDDYKhGnugvNYf1"
     }
   ],
   "unique_name": "\u604b\u3059\u308b\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Sevek
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,223,516 likes - 70 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,223,557 likes - 70 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 69 | [When I See It \(feat\. The Vic\)](https://open.spotify.com/track/0ZNO8GpuqnGWSJAzqo3Dso) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [The Vic](https://open.spotify.com/artist/5Yme0D6xmxktmVYHLNULgR) | [When I See It \(feat\. The Vic\)](https://open.spotify.com/album/0fzfB2d2fwXPjqhoKhbME1) | 3:15 |
 | 70 | [Asking](https://open.spotify.com/track/4bz8Z7squfs2Yji2DwoujR) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Asking](https://open.spotify.com/album/1UrVUYOo7y1pAo7EJYQOmZ) | 3:11 |
 
-Snapshot ID: `MCwxMjI1NzA4M2VjZjMwYjgzYzRjOTY3ODM1ZGVlMDQyZjVjOGU0ODMw`
+Snapshot ID: `MCw2MjdmMGQzNjkyYWJiMWJlYzcxY2FhM2ZiY2NhODNmYWE5NTQ1Y2U1`

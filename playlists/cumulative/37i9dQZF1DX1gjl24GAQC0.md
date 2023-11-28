@@ -2,9 +2,9 @@
 
 ### [Hallyu Boy Bands](https://open.spotify.com/playlist/37i9dQZF1DX1gjl24GAQC0)
 
-> Is it your favorite oppa or dongsaeng? \(Cover: VIXX \(빅스\)\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
+> Is it your favorite oppa or dongsaeng? \(Cover: ATBO\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
 
-514 songs - 1 day 4 hr 45 min
+516 songs - 1 day 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [FAKE LOVE](https://open.spotify.com/track/3aW0ds4A4tSQDIp75FqWTo) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 轉 'Tear'](https://open.spotify.com/album/2jJfnAZE6IG3oYnUv2eCj4) | 4:02 | 2022-02-15 | 2022-05-15 |
 | [FAKE LOVE](https://open.spotify.com/track/6m1TWFMeon7ai9XLOzdbiR) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 轉 'Tear'](https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O) | 4:02 | 2022-07-27 |  |
 | [FAKER](https://open.spotify.com/track/4yIP456UEjLIDBdRvBTTcw) | [루커스](https://open.spotify.com/artist/5nYClr2BjPKj9lENjV5Hbx) | [FAKER](https://open.spotify.com/album/5NXALmMcE00WExg8Bqr1U6) | 3:37 | 2022-03-31 | 2022-04-16 |
+| [Fall In Love Again](https://open.spotify.com/track/7e2t41hCiR0sV4Lgv555v3) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [Fall In Love Again](https://open.spotify.com/album/7e1u6dK7lvs0JiCLuz83Wj) | 3:28 | 2023-11-28 |  |
 | [FAM \(Korean Ver.\)](https://open.spotify.com/track/11BLMmPoTgKEi4XBDxdpYN) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ\-REPLAY](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) | 3:33 | 2022-12-21 | 2023-04-20 |
 | [FANTASIA](https://open.spotify.com/track/59lh6XYTsfhoXXTNU8TUrz) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [FANTASIA X](https://open.spotify.com/album/44BCatQBdneFkyzOVrR0M4) | 3:06 | 2022-03-30 | 2022-07-13 |
 | [Favorite \(Vampire\)](https://open.spotify.com/track/2R8MZR1RCP4cIJITHDPRbY) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Favorite \- The 3rd Album Repackage](https://open.spotify.com/album/5LbnQtyHBfJUCigA08llHX) | 3:35 | 2021-12-08 | 2023-02-14 |
@@ -207,7 +208,7 @@
 | [Gravity](https://open.spotify.com/track/4HgkahWUngIceLYNV1djsr) | [TREI](https://open.spotify.com/artist/2olRUnJBxMWrHpShDSwYoe) | [BORN](https://open.spotify.com/album/4yFUqAksHb5fEogC57WDxP) | 3:12 | 2022-03-31 | 2022-04-10 |
 | [Groovy](https://open.spotify.com/track/7I2ue60s8PvCbc1Oovt5ph) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [MASTER : PIECE](https://open.spotify.com/album/6vlYZzNPs1SCafyLKbmUrC) | 3:22 | 2023-03-06 | 2023-04-01 |
 | [Guerrilla](https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.1 : MOVEMENT](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) | 3:27 | 2022-08-03 | 2023-10-14 |
-| [HALAZIA](https://open.spotify.com/track/5cTnKClHyczcUhFT8MKBZe) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [SPIN OFF : FROM THE WITNESS](https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm) | 3:17 | 2023-01-03 |  |
+| [HALAZIA](https://open.spotify.com/track/5cTnKClHyczcUhFT8MKBZe) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [SPIN OFF : FROM THE WITNESS](https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm) | 3:17 | 2023-01-03 | 2023-11-28 |
 | [Happy Death Day](https://open.spotify.com/track/3a4VCqofc7Wf7cqfZYu2Ad) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Happy Death Day](https://open.spotify.com/album/3kA1SlUEM2Qt52prtDTuWr) | 3:40 | 2021-12-08 | 2023-01-14 |
 | [HARD](https://open.spotify.com/track/2VV1RIhTgeJ4PEMYz6TqDB) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [HARD \- The 8th Album](https://open.spotify.com/album/3JZJEeWr3LShx36FYbMc5E) | 2:56 | 2023-07-19 | 2023-10-10 |
 | [Hard Carry](https://open.spotify.com/track/2HZRtkGlLqXnwNcjNsgp9b) | [TOO](https://open.spotify.com/artist/3a0xHIHQPhhzgSOJzgB2Rz) | [Road to Kingdom \(Your Song\), Pt\. 1](https://open.spotify.com/album/69u5RBm7sL60Y1BK3dtUDH) | 3:47 | 2022-03-22 | 2022-04-19 |
@@ -247,7 +248,7 @@
 | [It's fine](https://open.spotify.com/track/6zl8VOP7l8kFd2nLfmJ2Kg) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [It's fine](https://open.spotify.com/album/2DIn3u50PH4rezsVxjH6IT) | 3:13 | 2022-03-31 | 2022-04-14 |
 | [It's Raining](https://open.spotify.com/track/0dpp5l5Mf17gFI8AtahK3h) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [Road to Kingdom \(Your Song\), Pt\. 1](https://open.spotify.com/album/69u5RBm7sL60Y1BK3dtUDH) | 3:33 | 2022-03-22 | 2022-04-10 |
 | [JAWS](https://open.spotify.com/track/5BVe5BDEa3JGJnA9IHuBYg) | [BAE173](https://open.spotify.com/artist/60315n11JElel8KhdHg8jM) | [INTERSECTION : BLAZE](https://open.spotify.com/album/7raO8lCDp9amtMVxrE29HM) | 3:28 | 2022-03-30 | 2022-04-13 |
-| [JIKJIN](https://open.spotify.com/track/2bnJ8IxZnVc2YmUaX0sZap) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) | 3:04 | 2022-02-15 |  |
+| [JIKJIN](https://open.spotify.com/track/2bnJ8IxZnVc2YmUaX0sZap) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) | 3:04 | 2022-02-15 | 2023-11-28 |
 | [Jopping](https://open.spotify.com/track/5WrEilrRI5cIW0DxMvQYPZ) | [SuperM](https://open.spotify.com/artist/5BHFSMEjfLVx1JwRWjAOsE) | [SuperM \- The 1st Mini Album](https://open.spotify.com/album/1C1qYeSC9RdgbrKXpZCTSJ) | 4:11 | 2022-03-31 | 2022-04-16 |
 | [Journey](https://open.spotify.com/track/6dxgKYAH0TvoSb16xD30rD) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [OO\-LI](https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4) | 3:18 | 2023-04-26 | 2023-05-17 |
 | [JUMP](https://open.spotify.com/track/4vTXBC7QOjEbi8DcJvCNE2) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [HARMONY : ALL IN](https://open.spotify.com/album/67nhgkEfNwdqQt7QFYHw0B) | 2:43 | 2023-06-09 | 2023-09-13 |
@@ -331,6 +332,7 @@
 | [MOVE](https://open.spotify.com/track/5QzjOeD7eXFZpVVyVC7ls2) | [TNX](https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ) | [WAY UP](https://open.spotify.com/album/1TgcRUSvCC0QyuMsaiF3M4) | 3:32 | 2022-05-17 | 2022-07-04 |
 | [Movie Star](https://open.spotify.com/track/65pVi11JqwSZqUuYAqLP36) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [HELLO Chapter 1: Hello, Stranger](https://open.spotify.com/album/73Jw9dKwFV1kF62JFUls3V) | 3:30 | 2022-03-22 | 2022-04-21 |
 | [Movin'](https://open.spotify.com/track/4URh4EuzBNOAqTllcpjHXe) | [MCND](https://open.spotify.com/artist/59dDRtMe8DILtibke8FWLK) | [THE EARTH : SECRET MISSION Chapter.1](https://open.spotify.com/album/1N3vXThYiEWjbR8xiYiF8H) | 3:23 | 2021-12-08 | 2022-07-14 |
+| [Must Have Love](https://open.spotify.com/track/3fixP4VxUKRRg7i8WeViuL) | [ATBO](https://open.spotify.com/artist/3bwO3gNZVmHwaBttv739g7) | [MUST HAVE](https://open.spotify.com/album/0p1vF2SctjpmMLekoIBEcO) | 3:16 | 2023-11-28 |  |
 | [My Angel](https://open.spotify.com/track/6v0FawBnbXg9BD8RxGtF3e) | [B Of You \(B.O.Y\)](https://open.spotify.com/artist/1f0vFa4YRojVrvXUwegT5c) | [Phase One : YOU](https://open.spotify.com/album/7nJEXljckI6G3DDLdwgKKA) | 3:42 | 2022-03-22 | 2022-03-28 |
 | [My Pace](https://open.spotify.com/track/4giQE1WslvC0WH412UVLYB) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [I am WHO](https://open.spotify.com/album/27ZoNL04hp5yKavzixqMUK) | 3:09 | 2021-12-08 | 2022-06-23 |
 | [MY TREASURE](https://open.spotify.com/track/4Dq2FjRkOTHcssggMdYK8J) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE FIRST STEP : TREASURE EFFECT](https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL) | 3:15 | 2021-12-08 | 2022-06-30 |

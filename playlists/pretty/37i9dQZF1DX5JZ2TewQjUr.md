@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Just Bee
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,604 likes - 120 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,606 likes - 120 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 119 | [Lucky Girl Syndrome](https://open.spotify.com/track/3cjzj5M52Jl0u6JHNTU7z8) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [Lucky Girl Syndrome](https://open.spotify.com/album/4LA9YSzUkfXimeP4Tq7xmC) | 2:36 |
 | 120 | [Sorry呢度係香港](https://open.spotify.com/track/1RVoiNHphu8IfIJK8T1b2Q) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw) | [Sorry呢度係香港](https://open.spotify.com/album/5FajEbPVB8XfS5TfpSy5Ui) | 3:26 |
 
-Snapshot ID: `MCxhZjMzMzdmNDRlODkyMWMwZWY4OTI2MDhmOWIzNDJmZWU4ZDFmMDgw`
+Snapshot ID: `MCw4MDY0ZmY5ODE5ZDFmMWM5MjM0MjQzMzdlODRkYzA4ODEyZTBjNzZk`

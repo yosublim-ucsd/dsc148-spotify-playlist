@@ -4,7 +4,7 @@
 
 > Big rooms and big sounds\. Cover: Hardwell & Afrojack
 
-375 songs - 20 hr 2 min
+376 songs - 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [After Midnight](https://open.spotify.com/track/6Xs3cEaNJQIkUKvOmPaDs4) | [Michael Parker](https://open.spotify.com/artist/4Pt8SOQa9s8qftzbBPPC76) | [After Midnight](https://open.spotify.com/album/4DTZ8cBptl7NzqHrH7wVfU) | 2:20 | 2023-11-16 |  |
 | [AIR](https://open.spotify.com/track/7LCsrG7NKsd1gb7dVT2qxk) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [AIR](https://open.spotify.com/album/3tYIMhkgftIuiTtdKpnySC) | 2:25 | 2022-04-14 | 2022-07-12 |
 | [Alive Again](https://open.spotify.com/track/2P7Vn6uJ9hRKTJVYMmjppN) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [Alive Again](https://open.spotify.com/album/3jsZSRV7pLrjFCD8FObfok) | 3:32 | 2022-04-14 | 2022-11-28 |
-| [Alone](https://open.spotify.com/track/7vSx1uzjLF2elseUEFDDgu) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [Alone](https://open.spotify.com/album/3z7h4c33zeC577R9EWwksj) | 4:11 | 2023-05-16 |  |
+| [Alone](https://open.spotify.com/track/7vSx1uzjLF2elseUEFDDgu) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [Alone](https://open.spotify.com/album/3z7h4c33zeC577R9EWwksj) | 4:11 | 2023-05-16 | 2023-11-28 |
 | [Andromeda](https://open.spotify.com/track/7i3uPLPnfPvssc3gvzIKdQ) | [R3SPAWN](https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB), [Sammy Boyle](https://open.spotify.com/artist/5D59iWwWhVFmQqqVdfKkU6) | [Andromeda](https://open.spotify.com/album/6upKHQtrjGQpI6c8LN33G6) | 3:06 | 2022-04-21 | 2022-07-12 |
 | [Andromeda](https://open.spotify.com/track/4cXtPGaAVwKygE3vVdYfbT) | [Sandro Silva](https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58) | [Andromeda](https://open.spotify.com/album/0qUyM1v4xv2u5jW6lL9tmc) | 2:52 | 2023-11-16 |  |
 | [Annihilate](https://open.spotify.com/track/5eAhXdQwzlFwHkZhiJ1KHg) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Annihilate](https://open.spotify.com/album/3ehQrArEPmGNSPiHKO2bsk) | 2:45 | 2022-09-22 | 2023-09-15 |
@@ -335,6 +335,7 @@
 | [The Age of Love 2022](https://open.spotify.com/track/6KvYwiJbPUzmBw7Wif2aMX) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Age Of Love](https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy) | [The Age of Love 2022](https://open.spotify.com/album/2SFKqoZuBpOzhu4zcG9ATE) | 3:09 | 2022-10-14 |  |
 | [The Age Of Rave](https://open.spotify.com/track/0MJrPeuSXdHBPfsoaaFEIG) | [Olly James](https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC) | [The Age Of Rave](https://open.spotify.com/album/5Xb58SF94wdSAJd5iaA5KP) | 3:04 | 2022-05-26 | 2023-04-14 |
 | [The Ashes](https://open.spotify.com/track/77TqubLV7jUg5fxvOCbjtM) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [The Ashes](https://open.spotify.com/album/1zdhuNHo4sdVF90RMtqVDG) | 4:11 | 2022-04-14 | 2022-05-29 |
+| [The Beach \- AFROJACK Edit](https://open.spotify.com/track/73DHxu38MmCnyelusfdugf) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [The Beach \(AFROJACK Edit\)](https://open.spotify.com/album/5j4CqqNOwZN4Yw3AhB9Mgq) | 2:46 | 2023-11-27 |  |
 | [The Captain](https://open.spotify.com/track/4NGwhkwJzROYFJKNFmFHus) | [HIJCKD](https://open.spotify.com/artist/4oFuOElyTlMdZMXMQBSdVq) | [The Captain](https://open.spotify.com/album/0hc4lRGEKpOzSdd2KXZ47j) | 3:12 | 2022-12-27 | 2023-01-03 |
 | [The Chant](https://open.spotify.com/track/16NC74ajzZCjs4RbA1Zxwn) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Accepted Concept](https://open.spotify.com/album/5026e5pinYOgls5mjv1duU) | 2:51 | 2023-10-05 |  |
 | [The Chase](https://open.spotify.com/track/00JoqMc5KZFLpdrtymo6f0) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [The Chase](https://open.spotify.com/album/2oR0zKDQpFKxWJjyHqrDpq) | 3:14 | 2022-07-28 | 2022-09-02 |

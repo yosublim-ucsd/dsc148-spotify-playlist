@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 277006,
+  "num_followers": 277005,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTRjZDEzZGMyMWRiMTg3YTkzNWUzZWI1NzI3NWFmNzdkNGMyYWE0",
+  "snapshot_id": "MCwyODI5NmI2MDRkYmQwZTk4ZDJmN2NiODcyYzgzZWYwNzVjMjMzYzkz",
   "tracks": [
     {
       "added_at": "2023-10-06 04:01:00",
@@ -475,26 +475,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Symphony (feat. Zara Larsson) [Acoustic]",
-        "url": "https://open.spotify.com/album/2ixRAW2pBgisVTmYKiJca0"
-      },
-      "artists": [
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 216413,
-      "name": "Symphony (feat. Zara Larsson) - Acoustic Version",
-      "url": "https://open.spotify.com/track/06R0AVKrZM91OJf1ubm80d"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Sun Comes Up (Acoustic)",
         "url": "https://open.spotify.com/album/0nV7xy2faNV4ckOpZTJhhs"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 174413,
       "name": "Daisy",
       "url": "https://open.spotify.com/track/4ccQmBycgXDYtIA7Z1i32V"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Symphony (feat. Zara Larsson) [Acoustic]",
+        "url": "https://open.spotify.com/album/2ixRAW2pBgisVTmYKiJca0"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 216413,
+      "name": "Symphony (feat. Zara Larsson) - Acoustic Version",
+      "url": "https://open.spotify.com/track/06R0AVKrZM91OJf1ubm80d"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Acoustic",
-        "url": "https://open.spotify.com/album/2w9QEpndpkUoQ2dglFHmY3"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        }
-      ],
-      "duration_ms": 304983,
-      "name": "Satellite / Stealing Time",
-      "url": "https://open.spotify.com/track/1zZEeO528oaVVBixuEgX7K"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Brand New Machine",
         "url": "https://open.spotify.com/album/5gWfcBhMIrPxudHnnMXSdX"
       },
@@ -815,6 +799,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Acoustic",
+        "url": "https://open.spotify.com/album/2w9QEpndpkUoQ2dglFHmY3"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "duration_ms": 304983,
+      "name": "Satellite / Stealing Time",
+      "url": "https://open.spotify.com/track/1zZEeO528oaVVBixuEgX7K"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "You for Me (Acoustic)",
         "url": "https://open.spotify.com/album/3TpZw4gbS2sRuFKNg8DyOt"
       },
@@ -835,26 +835,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Embrace",
-        "url": "https://open.spotify.com/album/7G53des9iRPuUydeFXXNGy"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Gavin DeGraw",
-          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
-        }
-      ],
-      "duration_ms": 293946,
-      "name": "Looking For Your Name",
-      "url": "https://open.spotify.com/track/1pfOZQDapYAnR5qbHZhsXm"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Head & Heart (feat. MNEK) [Acoustic]",
         "url": "https://open.spotify.com/album/71LvRT11O1syL5E8BRBwmj"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 218526,
       "name": "Head & Heart (feat. MNEK) - Acoustic",
       "url": "https://open.spotify.com/track/06N4bQF7MXzLbbifGMIJZW"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/7G53des9iRPuUydeFXXNGy"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Gavin DeGraw",
+          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
+        }
+      ],
+      "duration_ms": 293946,
+      "name": "Looking For Your Name",
+      "url": "https://open.spotify.com/track/1pfOZQDapYAnR5qbHZhsXm"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -931,6 +931,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Regardless (Acoustic)",
+        "url": "https://open.spotify.com/album/5xwu9Q6V0oPzTVQtQ06hiz"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 224053,
+      "name": "Regardless - Acoustic",
+      "url": "https://open.spotify.com/track/055xQfsGKFSnFkeFGupmZ8"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Acoustic",
         "url": "https://open.spotify.com/album/2w9QEpndpkUoQ2dglFHmY3"
       },
@@ -947,18 +963,18 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Regardless (Acoustic)",
-        "url": "https://open.spotify.com/album/5xwu9Q6V0oPzTVQtQ06hiz"
+        "name": "Smoke Filled Room (Acoustic Session)",
+        "url": "https://open.spotify.com/album/3VB0x2kFdt2T2ytvT3071d"
       },
       "artists": [
         {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+          "name": "Mako",
+          "url": "https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA"
         }
       ],
-      "duration_ms": 224053,
-      "name": "Regardless - Acoustic",
-      "url": "https://open.spotify.com/track/055xQfsGKFSnFkeFGupmZ8"
+      "duration_ms": 189660,
+      "name": "Smoke Filled Room - Acoustic Session",
+      "url": "https://open.spotify.com/track/0ncp94ULTBgS0U3GZD80AC"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -987,22 +1003,6 @@
       "duration_ms": 188527,
       "name": "Deep Down (Acoustic Version) (feat. Never Dull)",
       "url": "https://open.spotify.com/track/4Sea2XMlbP2Yt8E5CMwvbb"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Smoke Filled Room (Acoustic Session)",
-        "url": "https://open.spotify.com/album/3VB0x2kFdt2T2ytvT3071d"
-      },
-      "artists": [
-        {
-          "name": "Mako",
-          "url": "https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA"
-        }
-      ],
-      "duration_ms": 189660,
-      "name": "Smoke Filled Room - Acoustic Session",
-      "url": "https://open.spotify.com/track/0ncp94ULTBgS0U3GZD80AC"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1043,22 +1043,6 @@
       "duration_ms": 191327,
       "name": "By Your Side (feat. Tom Grennan) - Acoustic",
       "url": "https://open.spotify.com/track/1QMSIsTV6lcLCQ9MBHTLhT"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "We Are All We Need",
-        "url": "https://open.spotify.com/album/6coJxgM3dkzZbbuPBVVcOW"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        }
-      ],
-      "duration_ms": 117506,
-      "name": "Quieter Is Louder",
-      "url": "https://open.spotify.com/track/5kayymwaZyTtdGilvwJQw5"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1151,6 +1135,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "We Are All We Need",
+        "url": "https://open.spotify.com/album/6coJxgM3dkzZbbuPBVVcOW"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "duration_ms": 117506,
+      "name": "Quieter Is Louder",
+      "url": "https://open.spotify.com/track/5kayymwaZyTtdGilvwJQw5"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Crazy What Love Can Do (Acoustic)",
         "url": "https://open.spotify.com/album/3iRtMz9n1e2yd2TBiuT83x"
       },
@@ -1175,22 +1175,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Acoustic",
-        "url": "https://open.spotify.com/album/2w9QEpndpkUoQ2dglFHmY3"
+        "name": "Kids in Love (Remixes)",
+        "url": "https://open.spotify.com/album/7LbyVLGeEWZYOUKCecv3gI"
       },
       "artists": [
         {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Richard Bedford",
-          "url": "https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB"
+          "name": "John Newman",
+          "url": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
         }
       ],
-      "duration_ms": 260839,
-      "name": "Thing Called Love",
-      "url": "https://open.spotify.com/track/04dOtnqQD8Sn8RJ8DJZFZb"
+      "duration_ms": 239453,
+      "name": "Never Let You Go (feat. John Newman) - Acoustic Version",
+      "url": "https://open.spotify.com/track/0hsEwB7RvpWOJYZnAF4j4E"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1211,26 +1211,6 @@
       "duration_ms": 161724,
       "name": "Walking With Shadows - Acoustic Version",
       "url": "https://open.spotify.com/track/0fUsv9EmTEJNm3ydxOAIHL"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Kids in Love (Remixes)",
-        "url": "https://open.spotify.com/album/7LbyVLGeEWZYOUKCecv3gI"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "John Newman",
-          "url": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
-        }
-      ],
-      "duration_ms": 239453,
-      "name": "Never Let You Go (feat. John Newman) - Acoustic Version",
-      "url": "https://open.spotify.com/track/0hsEwB7RvpWOJYZnAF4j4E"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1315,6 +1295,26 @@
       "duration_ms": 169466,
       "name": "Recognise - Acoustic Version",
       "url": "https://open.spotify.com/track/1xgAlkJVfaLJmN3Fv5yM6H"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Acoustic",
+        "url": "https://open.spotify.com/album/2w9QEpndpkUoQ2dglFHmY3"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "Richard Bedford",
+          "url": "https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB"
+        }
+      ],
+      "duration_ms": 260839,
+      "name": "Thing Called Love",
+      "url": "https://open.spotify.com/track/04dOtnqQD8Sn8RJ8DJZFZb"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Old Friend / Capricorn (Live Acoustic)",
+        "url": "https://open.spotify.com/album/7tylMldS4qydgtd5PTJQsN"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 172756,
+      "name": "Old Friend - Live Acoustic",
+      "url": "https://open.spotify.com/track/1b9eTPaaSnacG9EAblx8r5"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Real Life (Acoustic)",
         "url": "https://open.spotify.com/album/31IHRCGs5lvEvDkaDjr3eZ"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 222275,
       "name": "Real Life - Acoustic",
       "url": "https://open.spotify.com/track/4Ujd4ROrsrujyD4GQZi4oh"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Old Friend / Capricorn (Live Acoustic)",
-        "url": "https://open.spotify.com/album/7tylMldS4qydgtd5PTJQsN"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 172756,
-      "name": "Old Friend - Live Acoustic",
-      "url": "https://open.spotify.com/track/1b9eTPaaSnacG9EAblx8r5"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Are You With Me (Remixes)",
-        "url": "https://open.spotify.com/album/5Lg5cLkEmlq2IN0K0u5KeC"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        }
-      ],
-      "duration_ms": 176518,
-      "name": "Are You with Me - Harold Van Lennep Piano Edit",
-      "url": "https://open.spotify.com/track/0kcVKQd51mgJdEe3Fgqmas"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Here Tonight (Acoustic Version)",
         "url": "https://open.spotify.com/album/3riI0LyX9QUpboMEgjGgju"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 167619,
       "name": "Here Tonight - Acoustic Version",
       "url": "https://open.spotify.com/track/6EJAP09tSNsp7kBhtC8Fcg"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Are You With Me (Remixes)",
+        "url": "https://open.spotify.com/album/5Lg5cLkEmlq2IN0K0u5KeC"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "duration_ms": 176518,
+      "name": "Are You with Me - Harold Van Lennep Piano Edit",
+      "url": "https://open.spotify.com/track/0kcVKQd51mgJdEe3Fgqmas"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Florida",
+        "url": "https://open.spotify.com/album/5W6DaTWwEqOQMdLjTHxf50"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "duration_ms": 96866,
+      "name": "Florida",
+      "url": "https://open.spotify.com/track/6caZJt9HJb4Oi8eUwofGBy"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Lionheart (feat. Tom Grennan) [Strings Version]",
         "url": "https://open.spotify.com/album/50NvGvefucu16aAdjr7MMS"
       },
@@ -1635,22 +1651,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Florida",
-        "url": "https://open.spotify.com/album/5W6DaTWwEqOQMdLjTHxf50"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        }
-      ],
-      "duration_ms": 96866,
-      "name": "Florida",
-      "url": "https://open.spotify.com/track/6caZJt9HJb4Oi8eUwofGBy"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Used To Have It All (Acoustic Version)",
         "url": "https://open.spotify.com/album/62tzkQeijTanN4Uuz4UgfJ"
       },
@@ -1667,26 +1667,6 @@
       "duration_ms": 181934,
       "name": "Used To Have It All - Acoustic",
       "url": "https://open.spotify.com/track/7ITWyuMyhjlR9PRQhQtA1l"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Shelter",
-        "url": "https://open.spotify.com/album/22fYYTeKGVhw2tRTUOr2lN"
-      },
-      "artists": [
-        {
-          "name": "Dash Berlin",
-          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
-        },
-        {
-          "name": "Roxanne Emery",
-          "url": "https://open.spotify.com/artist/70bIIPbBQeaFzRrIfahMEM"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "Shelter",
-      "url": "https://open.spotify.com/track/5kyvAU6QooIxhMEtUOcIO3"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1747,22 +1727,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Hear Me Say (Acoustic)",
-        "url": "https://open.spotify.com/album/3mZ3lgRGgKJ1osqqH39vH0"
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/22fYYTeKGVhw2tRTUOr2lN"
       },
       "artists": [
         {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+          "name": "Dash Berlin",
+          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
         },
         {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+          "name": "Roxanne Emery",
+          "url": "https://open.spotify.com/artist/70bIIPbBQeaFzRrIfahMEM"
         }
       ],
-      "duration_ms": 149525,
-      "name": "Hear Me Say - Acoustic",
-      "url": "https://open.spotify.com/track/2lUB3DmQbrQrYeGWc3PfcY"
+      "duration_ms": 169846,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/5kyvAU6QooIxhMEtUOcIO3"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1783,6 +1763,26 @@
       "duration_ms": 217043,
       "name": "Another Chance - Don Diablo Chill Mix",
       "url": "https://open.spotify.com/track/5bLnab0c8Y9gVLDnLKdsfF"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Hear Me Say (Acoustic)",
+        "url": "https://open.spotify.com/album/3mZ3lgRGgKJ1osqqH39vH0"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "duration_ms": 149525,
+      "name": "Hear Me Say - Acoustic",
+      "url": "https://open.spotify.com/track/2lUB3DmQbrQrYeGWc3PfcY"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1915,26 +1915,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Starting Fires",
-        "url": "https://open.spotify.com/album/33e8xGrwbkjnpR4w43dIsM"
-      },
-      "artists": [
-        {
-          "name": "Dash Berlin",
-          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
-        },
-        {
-          "name": "Emma Hewitt",
-          "url": "https://open.spotify.com/artist/1t65YxEAtU3iii6bCzSGF8"
-        }
-      ],
-      "duration_ms": 229701,
-      "name": "Waiting - Strings & Vocals Mix",
-      "url": "https://open.spotify.com/track/6ctvgLJJZQkdzch0L1dj7X"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Moon Faces (Acoustic Journey)",
         "url": "https://open.spotify.com/album/2PKQRTPkOdcgdyBFnu2fK0"
       },
@@ -1951,6 +1931,26 @@
       "duration_ms": 209000,
       "name": "Lost - Acoustic",
       "url": "https://open.spotify.com/track/0FMV06iWpotUirc42n1Oj4"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Starting Fires",
+        "url": "https://open.spotify.com/album/33e8xGrwbkjnpR4w43dIsM"
+      },
+      "artists": [
+        {
+          "name": "Dash Berlin",
+          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
+        },
+        {
+          "name": "Emma Hewitt",
+          "url": "https://open.spotify.com/artist/1t65YxEAtU3iii6bCzSGF8"
+        }
+      ],
+      "duration_ms": 229701,
+      "name": "Waiting - Strings & Vocals Mix",
+      "url": "https://open.spotify.com/track/6ctvgLJJZQkdzch0L1dj7X"
     },
     {
       "added_at": "2023-10-06 04:01:00",

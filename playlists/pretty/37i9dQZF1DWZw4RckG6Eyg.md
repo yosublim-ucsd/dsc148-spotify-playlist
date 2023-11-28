@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 
 > 75 ways to cope with your Indie fomo\. Pixey on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,872 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,870 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 27 | [Blackphemy](https://open.spotify.com/track/5rYBgw7CHL5G4S6UJKOZ5H) | [Yb.](https://open.spotify.com/artist/3grUv9qZhOiskIVa9fff8i) | [Blackphemy](https://open.spotify.com/album/4PDdJvVN3LysSlGBoJKzCW) | 3:24 |
 | 28 | [Song I Believe In](https://open.spotify.com/track/1KXWD5G4e4mBHl4kqrQgx0) | [Vian Izak](https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq), [Davide Rossi](https://open.spotify.com/artist/3n5USfahZSYCaiIYW58Mmy) | [Song I Believe In](https://open.spotify.com/album/3Pxyz1unwIXl0kh2M2Dehv) | 3:15 |
 | 29 | [Drive](https://open.spotify.com/track/2TPrI8d64MVFTOiyjqBVFu) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Drive](https://open.spotify.com/album/4kFbR4ZpknTMGS1h404I5c) | 2:57 |
-| 30 | [Sex in Afrikaans](https://open.spotify.com/track/4Wk2Ri6qRKrY6nq75HXw4z) | [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Sex in Afrikaans](https://open.spotify.com/album/7EtLrld4Bb8hjS6htzyB8e) | 3:06 |
-| 31 | [Air Guitar](https://open.spotify.com/track/1ZL73Fic49PdXUSvL69wh8) | [Sobs](https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i) | [Air Guitar](https://open.spotify.com/album/0KZcDNYKaKv4mq93fIUDau) | 3:03 |
+| 30 | [Air Guitar](https://open.spotify.com/track/1ZL73Fic49PdXUSvL69wh8) | [Sobs](https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i) | [Air Guitar](https://open.spotify.com/album/0KZcDNYKaKv4mq93fIUDau) | 3:03 |
+| 31 | [Sex in Afrikaans](https://open.spotify.com/track/4Wk2Ri6qRKrY6nq75HXw4z) | [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Sex in Afrikaans](https://open.spotify.com/album/7EtLrld4Bb8hjS6htzyB8e) | 3:06 |
 | 32 | [voltarpramim](https://open.spotify.com/track/2yCPz8xE5n5hyaunPjZ5T8) | [JÜRA](https://open.spotify.com/artist/7tfbeKMXzuNuL25n1plxH9) | [voltarpramim](https://open.spotify.com/album/27NsbOnymNnUYQXA49dCkb) | 3:12 |
 | 33 | [Distant Calls](https://open.spotify.com/track/2QU1bg22cuTuNXUpQl389b) | [Ed Mount](https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92), [Flore Benguigui](https://open.spotify.com/artist/4taAxKHZ4ODt4MwWVPDmbw) | [Close to Your Heart](https://open.spotify.com/album/2BbAWGyJvddLWwzpzhA6lp) | 2:44 |
 | 34 | [Pata Pata Saguquka](https://open.spotify.com/track/4aYRNnclXE50YTEQ8PvBNn) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6) | [Pata Pata Saguquka](https://open.spotify.com/album/4C6AluXJv87ieS26W0prnB) | 5:25 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 45 | [HUNTER SCHAFER](https://open.spotify.com/track/2rmKfU3dFpq9sM7VWn8hBu) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [HUNTER SCHAFER](https://open.spotify.com/album/6XcDYfrVonxMFBGQS00Bpl) | 3:13 |
 | 46 | [Ever Since We Met](https://open.spotify.com/track/3nPFzf6sWVuTHU5fccyD71) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Sharks](https://open.spotify.com/album/4MxJJYvCOlCWuijbd9pp6B) | 3:31 |
 | 47 | [Golden Air](https://open.spotify.com/track/6yqjhpToIqTYlkO7dFfA9f) | [Sun's Signature](https://open.spotify.com/artist/112n8pqLHAybFBHk2nB9yp) | [Sun's Signature \(Extended\)](https://open.spotify.com/album/308zHvDzU8ok2hzZ4szOEZ) | 5:42 |
-| 48 | [Porn Magazines](https://open.spotify.com/track/4f3tMrw56Kl9HUrrqhgHza) | [Prim](https://open.spotify.com/artist/4eiK39Rrg0g8Dml029aGHy) | [Porn Magazines](https://open.spotify.com/album/32F9nzCzR2vhhm5XMW4yiM) | 2:56 |
-| 49 | [Another Sketch](https://open.spotify.com/track/5GrRMVHfh3fnPERa4MCJDl) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [Yesterday Is Heavy](https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR) | 3:50 |
+| 48 | [Another Sketch](https://open.spotify.com/track/5GrRMVHfh3fnPERa4MCJDl) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [Yesterday Is Heavy](https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR) | 3:50 |
+| 49 | [Porn Magazines](https://open.spotify.com/track/4f3tMrw56Kl9HUrrqhgHza) | [Prim](https://open.spotify.com/artist/4eiK39Rrg0g8Dml029aGHy) | [Porn Magazines](https://open.spotify.com/album/32F9nzCzR2vhhm5XMW4yiM) | 2:56 |
 | 50 | [Allure](https://open.spotify.com/track/1dQIKkKKDDXNf83GuUmVpp) | [Hotel Fiction](https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R) | [Enjoy Your Stay](https://open.spotify.com/album/7risOzpak6f9nkd7ByXMmk) | 3:10 |
 | 51 | [Do You Well \(feat\. Perfume Genius\)](https://open.spotify.com/track/1jMFGctmGpa5qLqQZfpXNB) | [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Bastard Jargon](https://open.spotify.com/album/6JGb1JtCcQ0hco81PKvYqf) | 3:33 |
 | 52 | [Preacher](https://open.spotify.com/track/4QFFhLBBvMyb6USdMYV6eN) | [Abdullah Siddiqui](https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R) | [Heterotopia](https://open.spotify.com/album/1npykN4Zpbo7FQR61o1oAr) | 3:17 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 74 | [Tajiharu Samba](https://open.spotify.com/track/4btSl2loLADohlFJAEaHIS) | [Haruko Tajima](https://open.spotify.com/artist/2wKUmawKpq9H4jhcnugog2), [BAILEFUNK KAKEKO](https://open.spotify.com/artist/16AcJe0AnxrvpdJOy8IPXu) | [5000 trillion per hour](https://open.spotify.com/album/4mlm9EFYJlXKysgOBbmWqI) | 3:13 |
 | 75 | [KiSeKi](https://open.spotify.com/track/2wrcTquPKyQoMmGeVX1vhZ) | [Sho Takahashi](https://open.spotify.com/artist/642xssKVEVaV5IJXySEUsh) | [KiSeKi](https://open.spotify.com/album/4riJBNvT3yhoUO1Y7LTlcB) | 5:15 |
 
-Snapshot ID: `MCw1Y2FmOWM0ZWNmNjZkZjI2M2FjMjIzYzUzMWI1NWRiNTE3NzM3N2Fl`
+Snapshot ID: `MCwwYTY4NWU3YzRjNWVmYjMxODM4ZWRkNmJhZjNlODRjNmM1N2Q5YjMy`

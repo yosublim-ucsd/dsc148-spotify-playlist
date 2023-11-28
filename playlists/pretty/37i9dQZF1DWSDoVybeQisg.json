@@ -1,12 +1,12 @@
 {
   "description": "Expand your mind with these psychedelic rock treasures. Cover: The Doors",
-  "num_followers": 1131661,
+  "num_followers": 1131806,
   "original_name": "Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NmYwMTc4OTA2ZTdkYWU2N2ZjZGIyMmY5ZTA5M2M2OWE0MDU3MDFm",
+  "snapshot_id": "MCxlMmU1YjI0NDRiMjUxZDE1NjM0ZGU4NGM3MWFiMmU2ZmI2NGY0YTgy",
   "tracks": [
     {
       "added_at": "2023-01-18 16:20:47",
@@ -107,6 +107,22 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
+        "name": "Strange Days",
+        "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 130173,
+      "name": "People Are Strange",
+      "url": "https://open.spotify.com/track/1Jmqubf9kGkWeYQXQKImL5"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
         "name": "Cheap Thrills",
         "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
       },
@@ -127,18 +143,18 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Strange Days",
-        "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
+        "name": "Magical Mystery Tour (Remastered)",
+        "url": "https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj"
       },
       "artists": [
         {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 130173,
-      "name": "People Are Strange",
-      "url": "https://open.spotify.com/track/1Jmqubf9kGkWeYQXQKImL5"
+      "duration_ms": 247320,
+      "name": "Strawberry Fields Forever - Remastered 2009",
+      "url": "https://open.spotify.com/track/3Am0IbOxmvlSXro7N5iSfZ"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -155,22 +171,6 @@
       "duration_ms": 250400,
       "name": "Sunshine Of Your Love",
       "url": "https://open.spotify.com/track/2K2M0TcglCRLLpFOzKeFZA"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
-        "name": "Magical Mystery Tour (Remastered)",
-        "url": "https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 247320,
-      "name": "Strawberry Fields Forever - Remastered 2009",
-      "url": "https://open.spotify.com/track/3Am0IbOxmvlSXro7N5iSfZ"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "The First Edition",
-        "url": "https://open.spotify.com/album/6LZ7MMxdYNUA56kBnqQ6h6"
-      },
-      "artists": [
-        {
-          "name": "The First Edition",
-          "url": "https://open.spotify.com/artist/5XDSGEZV9xG35PRLJ0O3hx"
-        }
-      ],
-      "duration_ms": 201213,
-      "name": "Just Dropped In (To See What Condition My Condition Was In)",
-      "url": "https://open.spotify.com/track/4Wrc3Jz4POj0ibPj5iuq0r"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "Surrealistic Pillow",
         "url": "https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a"
       },
@@ -267,6 +251,38 @@
       "duration_ms": 174840,
       "name": "Somebody to Love",
       "url": "https://open.spotify.com/track/4uGIJG1jYFonGc4LGp5uQL"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
+        "url": "https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 208466,
+      "name": "Lucy In The Sky With Diamonds - Remastered 2009",
+      "url": "https://open.spotify.com/track/25yQPHgC35WNnnOUqFhgVR"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "The First Edition",
+        "url": "https://open.spotify.com/album/6LZ7MMxdYNUA56kBnqQ6h6"
+      },
+      "artists": [
+        {
+          "name": "The First Edition",
+          "url": "https://open.spotify.com/artist/5XDSGEZV9xG35PRLJ0O3hx"
+        }
+      ],
+      "duration_ms": 201213,
+      "name": "Just Dropped In (To See What Condition My Condition Was In)",
+      "url": "https://open.spotify.com/track/4Wrc3Jz4POj0ibPj5iuq0r"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -291,22 +307,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Sunshine Superman",
-        "url": "https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G"
-      },
-      "artists": [
-        {
-          "name": "Donovan",
-          "url": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Sunshine Superman",
-      "url": "https://open.spotify.com/track/4RGxUjaCmVtD30pIhtEi7w"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "Waiting for the Sun",
         "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
       },
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
-        "url": "https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 208466,
-      "name": "Lucy In The Sky With Diamonds - Remastered 2009",
-      "url": "https://open.spotify.com/track/25yQPHgC35WNnnOUqFhgVR"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "Insight Out",
         "url": "https://open.spotify.com/album/1VsmbYW4XCdWje8ii0Yuta"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 187693,
       "name": "Never My Love - Remastered Version",
       "url": "https://open.spotify.com/track/32ssNweOtmacNBEC2kHzA8"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Sunshine Superman",
+        "url": "https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G"
+      },
+      "artists": [
+        {
+          "name": "Donovan",
+          "url": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Sunshine Superman",
+      "url": "https://open.spotify.com/track/4RGxUjaCmVtD30pIhtEi7w"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Experience Hendrix: The Best Of Jimi Hendrix",
-        "url": "https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 312426,
-      "name": "Voodoo Child (Slight Return)",
-      "url": "https://open.spotify.com/track/6d3I7THB2bONUkxOo1DvmZ"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "Roger the Engineer",
         "url": "https://open.spotify.com/album/3s6wTRMDispMa4gCd26FPc"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 315040,
       "name": "Comin' Back to Me",
       "url": "https://open.spotify.com/track/0TBntp6t4oS6UXjxikO5n7"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Experience Hendrix: The Best Of Jimi Hendrix",
+        "url": "https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 312426,
+      "name": "Voodoo Child (Slight Return)",
+      "url": "https://open.spotify.com/track/6d3I7THB2bONUkxOo1DvmZ"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
+        "name": "Their Satanic Majesties Request (50th Anniversary Special Edition / Remastered)",
+        "url": "https://open.spotify.com/album/2SE7fs002NlNc3cw3SQLRC"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 170840,
+      "name": "Citadel - Remastered 2017 / Stereo",
+      "url": "https://open.spotify.com/track/4GOpMcPnnF9mtHNYgUPep6"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
         "name": "Electric Music For The Mind And Body",
         "url": "https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 145960,
       "name": "Shapes of Things - 2015 Remaster",
       "url": "https://open.spotify.com/track/4OjqrdD3QILzxkGwNoMk0c"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
-        "name": "Their Satanic Majesties Request (50th Anniversary Special Edition / Remastered)",
-        "url": "https://open.spotify.com/album/2SE7fs002NlNc3cw3SQLRC"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 170840,
-      "name": "Citadel - Remastered 2017 / Stereo",
-      "url": "https://open.spotify.com/track/4GOpMcPnnF9mtHNYgUPep6"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Gris Gris",
-        "url": "https://open.spotify.com/album/1yBoaVrgcup2hX2DCYUajs"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 466266,
-      "name": "I Walk on Guilded Splinters",
-      "url": "https://open.spotify.com/track/0OSNN0ABo1HMgfGeMQ3pCr"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "The Best of the Lemon Pipers",
         "url": "https://open.spotify.com/album/7xqsq9EdxlurNTjMSZTCDg"
       },
@@ -1055,6 +1039,22 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
+        "name": "Gris Gris",
+        "url": "https://open.spotify.com/album/1yBoaVrgcup2hX2DCYUajs"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "duration_ms": 466266,
+      "name": "I Walk on Guilded Splinters",
+      "url": "https://open.spotify.com/track/0OSNN0ABo1HMgfGeMQ3pCr"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
         "name": "Tangerine Dream",
         "url": "https://open.spotify.com/album/5fJeHZxuTPxAGyJGQpGt5Z"
       },
@@ -1067,6 +1067,22 @@
       "duration_ms": 480800,
       "name": "The Sky Children",
       "url": "https://open.spotify.com/track/2vRdgBjvjF6LHaWVssDeGN"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Incense And Peppermints",
+        "url": "https://open.spotify.com/album/4NbLTe8YqLFwys4SmkEofd"
+      },
+      "artists": [
+        {
+          "name": "Strawberry Alarm Clock",
+          "url": "https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI"
+        }
+      ],
+      "duration_ms": 184453,
+      "name": "Rainy Day Mushroom Pillow",
+      "url": "https://open.spotify.com/track/35VcWn3lZ4ne9mhN8uMrFm"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -1143,22 +1159,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Incense And Peppermints",
-        "url": "https://open.spotify.com/album/4NbLTe8YqLFwys4SmkEofd"
-      },
-      "artists": [
-        {
-          "name": "Strawberry Alarm Clock",
-          "url": "https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI"
-        }
-      ],
-      "duration_ms": 184453,
-      "name": "Rainy Day Mushroom Pillow",
-      "url": "https://open.spotify.com/track/35VcWn3lZ4ne9mhN8uMrFm"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "Back To The Story",
         "url": "https://open.spotify.com/album/5678hRmz2whvG6ttxmlGYW"
       },
@@ -1171,6 +1171,22 @@
       "duration_ms": 108626,
       "name": "Morning Sunshine",
       "url": "https://open.spotify.com/track/6Nny1WrFpBvhgbqHhI4j0W"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Wake Up...It's Tomorrow",
+        "url": "https://open.spotify.com/album/4DWojULyo8xC7cRB5QjKMm"
+      },
+      "artists": [
+        {
+          "name": "Strawberry Alarm Clock",
+          "url": "https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI"
+        }
+      ],
+      "duration_ms": 182906,
+      "name": "Sit With The Guru",
+      "url": "https://open.spotify.com/track/0PKrvcdX7PUgubTWn0LDQ7"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -1219,22 +1235,6 @@
       "duration_ms": 186560,
       "name": "Thing in E",
       "url": "https://open.spotify.com/track/6yUIyHqIrx854Jief095VE"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
-        "name": "Ogdens' Nut Gone Flake - 50th Anniversary Edition (2018 Remaster)",
-        "url": "https://open.spotify.com/album/2pM93DS0vpM3wt6ooVx5LS"
-      },
-      "artists": [
-        {
-          "name": "Small Faces",
-          "url": "https://open.spotify.com/artist/1YqGsKpdixxSVgpfaL2AEQ"
-        }
-      ],
-      "duration_ms": 185695,
-      "name": "Lazy Sunday (Stereo Version) (2018 Remaster)",
-      "url": "https://open.spotify.com/track/6w78eLPBj0fTq6jp3wUIRy"
     }
   ],
   "unique_name": "Psychedelic Rock",

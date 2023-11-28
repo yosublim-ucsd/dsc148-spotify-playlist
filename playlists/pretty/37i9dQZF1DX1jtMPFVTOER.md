@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: Butcher Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,167 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,193 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 99 | [Cusp](https://open.spotify.com/track/3lInJDgHSNOdetZy02Qi2J) | [Osquello](https://open.spotify.com/artist/6ScAPpYnDsH3Cu3TKmhUJr), [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Romero](https://open.spotify.com/album/1iHV3TGZJTXnH5UyRYMwwz) | 4:31 |
 | 100 | [you said...](https://open.spotify.com/track/2T8gjOM7DTgu7YtwLC0ddf) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [you said...](https://open.spotify.com/album/77L359klVW9v2ODUWvNPF5) | 2:14 |
 
-Snapshot ID: `MCwyZDFlN2NkNGZlOWM5NmUxZjJjOTBhMjA0MDc2ODI2MTc2ZmJiZTgz`
+Snapshot ID: `MCw3NDA1NWU3NjQxYzNiMjk2MzRiYjI2YTQ5MTMyM2E4ZTVjZDdmZDMx`

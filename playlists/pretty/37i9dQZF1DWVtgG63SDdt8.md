@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:11Y54BxlxC3UIAUkU2eadQ">Rend Collective</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,590 likes - 100 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,687 likes - 100 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Patience](https://open.spotify.com/track/5n7gJIvA93Xn0ie8sRTQVv) | [AP](https://open.spotify.com/artist/5De3gFBkxhHFFckb1gHFnJ) | [Patience](https://open.spotify.com/album/1Kqd2TKTJHj64J3dC0mYqY) | 2:03 |
 | 100 | [Attention](https://open.spotify.com/track/6eW4bViVkUEJtFiLykrOrE) | [Benji Kasule](https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh) | [ATTENTION](https://open.spotify.com/album/6IWyzrY0BPHRyBryHiibgG) | 3:23 |
 
-Snapshot ID: `MCwzOTRkZmMzMDJjOWViYmQ3YTllMjE5Y2Q1MThmY2U0MTUzOGUxMzc3`
+Snapshot ID: `MCwzOWU0YzU0ZmY2ZmQwZDE3N2IzYjU0OTQ4N2EwYTE1OGFkMmE1Mzhm`

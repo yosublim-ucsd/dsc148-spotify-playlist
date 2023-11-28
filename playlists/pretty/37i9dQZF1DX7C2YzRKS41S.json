@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de folk, MPB e indie para acordar com o p\u00e9 na estrada.",
-  "num_followers": 104934,
+  "num_followers": 105012,
   "original_name": "Amanhecer na Estrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmVhN2JhNDg2NGJiYWQwMjI2YzhmZDVmYTczYmQ1MTI2M2RmNTFm",
+  "snapshot_id": "MCxlYmQwZjE3YTcwZThmYWQwNTZiYTU1ZDZjMjc4MDFkNGM4OTMwNDk2",
   "tracks": [
     {
       "added_at": "2023-11-24 08:43:11",
@@ -179,22 +179,6 @@
     {
       "added_at": "2023-11-24 08:43:11",
       "album": {
-        "name": "XO",
-        "url": "https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 213626,
-      "name": "XO",
-      "url": "https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v"
-    },
-    {
-      "added_at": "2023-11-24 08:43:11",
-      "album": {
         "name": "Fine Line",
         "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 259186,
       "name": "Cherry",
       "url": "https://open.spotify.com/track/2IOFZdYYkFxEHVz1w34PoL"
+    },
+    {
+      "added_at": "2023-11-24 08:43:11",
+      "album": {
+        "name": "XO",
+        "url": "https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 213626,
+      "name": "XO",
+      "url": "https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v"
     },
     {
       "added_at": "2023-11-24 08:43:11",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-11-24 08:43:11",
       "album": {
-        "name": "Autumn Variations",
-        "url": "https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 197976,
-      "name": "American Town",
-      "url": "https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h"
-    },
-    {
-      "added_at": "2023-11-24 08:43:11",
-      "album": {
         "name": "Blindside",
         "url": "https://open.spotify.com/album/1RvvpYObiXki55iPrP8EVQ"
       },
@@ -459,6 +443,22 @@
     {
       "added_at": "2023-11-24 08:43:11",
       "album": {
+        "name": "Autumn Variations",
+        "url": "https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 197976,
+      "name": "American Town",
+      "url": "https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h"
+    },
+    {
+      "added_at": "2023-11-24 08:43:11",
+      "album": {
         "name": "Rose Pink Cadillac",
         "url": "https://open.spotify.com/album/2VaOn32haUapQOYnerK32W"
       },
@@ -471,26 +471,6 @@
       "duration_ms": 261911,
       "name": "Rose Pink Cadillac",
       "url": "https://open.spotify.com/track/5J59tqY0Ad4r27tJJajzyB"
-    },
-    {
-      "added_at": "2023-11-24 08:43:11",
-      "album": {
-        "name": "Partilhar",
-        "url": "https://open.spotify.com/album/1pbjhsgtyc5hOVNaaz6tpN"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        },
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 262552,
-      "name": "Partilhar",
-      "url": "https://open.spotify.com/track/1PQRwFvNM7xV65bIkHmDtx"
     },
     {
       "added_at": "2023-11-24 08:43:11",
@@ -567,6 +547,26 @@
     {
       "added_at": "2023-11-24 08:43:11",
       "album": {
+        "name": "Partilhar",
+        "url": "https://open.spotify.com/album/1pbjhsgtyc5hOVNaaz6tpN"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        },
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 262552,
+      "name": "Partilhar",
+      "url": "https://open.spotify.com/track/1PQRwFvNM7xV65bIkHmDtx"
+    },
+    {
+      "added_at": "2023-11-24 08:43:11",
+      "album": {
         "name": "Simply Paradise",
         "url": "https://open.spotify.com/album/4NKglcnKOsi2uFYJOSGkUM"
       },
@@ -599,6 +599,22 @@
       "duration_ms": 180319,
       "name": "Trem-Bala",
       "url": "https://open.spotify.com/track/05QeyKGAn4TZrv41tMiD1A"
+    },
+    {
+      "added_at": "2023-11-24 08:43:11",
+      "album": {
+        "name": "Homecoming",
+        "url": "https://open.spotify.com/album/3WHRzQYzTFmIVnYiqGWBra"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 172059,
+      "name": "Homecoming",
+      "url": "https://open.spotify.com/track/6Q1VMEsgtuOXZxdduuj4lG"
     },
     {
       "added_at": "2023-11-24 08:43:11",
@@ -695,22 +711,6 @@
       "duration_ms": 237973,
       "name": "No Woman",
       "url": "https://open.spotify.com/track/5KPXcfXaGOaWUqOHLDXFRP"
-    },
-    {
-      "added_at": "2023-11-24 08:43:11",
-      "album": {
-        "name": "Homecoming",
-        "url": "https://open.spotify.com/album/3WHRzQYzTFmIVnYiqGWBra"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 172059,
-      "name": "Homecoming",
-      "url": "https://open.spotify.com/track/6Q1VMEsgtuOXZxdduuj4lG"
     },
     {
       "added_at": "2023-11-24 08:43:11",
@@ -851,6 +851,22 @@
     {
       "added_at": "2023-11-24 08:43:11",
       "album": {
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 202506,
+      "name": "Never Ending",
+      "url": "https://open.spotify.com/track/7Jd5LgnSRQElW6FsTWVPzE"
+    },
+    {
+      "added_at": "2023-11-24 08:43:11",
+      "album": {
         "name": "People Don't Change",
         "url": "https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 209813,
       "name": "The Worst Of You",
       "url": "https://open.spotify.com/track/06rX4GEEjsVTSbRBWycs2U"
-    },
-    {
-      "added_at": "2023-11-24 08:43:11",
-      "album": {
-        "name": "ANTI (Deluxe)",
-        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 202506,
-      "name": "Never Ending",
-      "url": "https://open.spotify.com/track/7Jd5LgnSRQElW6FsTWVPzE"
     },
     {
       "added_at": "2023-11-24 08:43:11",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-11-24 08:43:11",
       "album": {
-        "name": "Along The Way",
-        "url": "https://open.spotify.com/album/1xfdHLXMtp4hAhRLoMdiRJ"
-      },
-      "artists": [
-        {
-          "name": "Colbie Caillat",
-          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
-        }
-      ],
-      "duration_ms": 195176,
-      "name": "Meant For Me",
-      "url": "https://open.spotify.com/track/7Gt9tznlLCCe2gZoRzuLhD"
-    },
-    {
-      "added_at": "2023-11-24 08:43:11",
-      "album": {
         "name": "How Long Do You Think It's Gonna Last?",
         "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
       },
@@ -951,6 +935,38 @@
       "duration_ms": 330066,
       "name": "Birch",
       "url": "https://open.spotify.com/track/7wo2UNeQBowm28hfAJsEMz"
+    },
+    {
+      "added_at": "2023-11-24 08:43:11",
+      "album": {
+        "name": "Along The Way",
+        "url": "https://open.spotify.com/album/1xfdHLXMtp4hAhRLoMdiRJ"
+      },
+      "artists": [
+        {
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+        }
+      ],
+      "duration_ms": 195176,
+      "name": "Meant For Me",
+      "url": "https://open.spotify.com/track/7Gt9tznlLCCe2gZoRzuLhD"
+    },
+    {
+      "added_at": "2023-11-24 08:43:11",
+      "album": {
+        "name": "Salvavidas de hielo",
+        "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 184963,
+      "name": "Telefon\u00eda",
+      "url": "https://open.spotify.com/track/7zSBOSD4w5LGv1bIblkVFp"
     },
     {
       "added_at": "2023-11-24 08:43:11",
@@ -975,38 +991,18 @@
     {
       "added_at": "2023-11-24 08:43:11",
       "album": {
-        "name": "Salvavidas de hielo",
-        "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
+        "name": "Notes On A Conditional Form",
+        "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
       },
       "artists": [
         {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 184963,
-      "name": "Telefon\u00eda",
-      "url": "https://open.spotify.com/track/7zSBOSD4w5LGv1bIblkVFp"
-    },
-    {
-      "added_at": "2023-11-24 08:43:11",
-      "album": {
-        "name": "N\u00e3o Te Largo, N\u00e3o Te Troco (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        },
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        }
-      ],
-      "duration_ms": 230772,
-      "name": "N\u00e3o Te Largo, N\u00e3o Te Troco - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ"
+      "duration_ms": 264006,
+      "name": "Jesus Christ 2005 God Bless America",
+      "url": "https://open.spotify.com/track/6zjBevD0Y6eCbOXaqQ79Xj"
     },
     {
       "added_at": "2023-11-24 08:43:11",

@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-836 songs - 1 day 8 hr 30 min
+838 songs - 1 day 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,8 @@
 | [Dot](https://open.spotify.com/track/6PAYfELVPtKLgBCRtiyEDe) | [Harry Hawaii](https://open.spotify.com/artist/7fQVHvcP2LSpPU3pNU7wKA), [Future of Lofi](https://open.spotify.com/artist/6dcs4v9l9DXN0l2GKZXxD4) | [Dot](https://open.spotify.com/album/4VPJdglfetgKYKFQhcOCDS) | 2:23 | 2022-04-15 | 2022-05-14 |
 | [down again](https://open.spotify.com/track/1bzVwOf1Q8LEhp5Uh25he3) | [keeplove.](https://open.spotify.com/artist/5hWNRJj4LKuJ9tUGwfYwtX) | [down again](https://open.spotify.com/album/2b87OxK5vbVM8HapvOxH5v) | 2:09 | 2022-07-29 | 2022-08-12 |
 | [Down Under](https://open.spotify.com/track/2tElFTry4qcyqdbtPIkdsq) | [Sadglow](https://open.spotify.com/artist/03yrAJkdVcb5kNlS90YDvu) | [Down Under](https://open.spotify.com/album/493OMj8GoxTGLyMC1IYJVj) | 2:21 | 2022-05-20 |  |
+| [downright](https://open.spotify.com/track/3MuG1hLdgsuwUpq6CWQ1wM) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [downright](https://open.spotify.com/album/3y8tJE7EYUUR5JJzOiudtv) | 2:24 | 2023-11-24 |  |
+| [Downtime](https://open.spotify.com/track/19duLYydAX6UiqlFKW54Qu) | [DBTFUL](https://open.spotify.com/artist/1GdjEjgv3RpYjjIBvwGv21) | [Downtime](https://open.spotify.com/album/5pWGzIP2RcutSjYAtsITyM) | 2:16 | 2023-11-24 |  |
 | [Dream Sailling](https://open.spotify.com/track/1CLQSFom2hv8us4rXiJxGm) | [Billy Nova](https://open.spotify.com/artist/04umGdIV4JxSdiFyoEiaFj) | [Blame the Winds](https://open.spotify.com/album/3A26hgmcTnVx5BcsfYS7rl) | 2:49 | 2022-04-15 | 2022-07-29 |
 | [dreamality](https://open.spotify.com/track/7kFaQ5hj8WtCHB4fSNnmF8) | [Nine x Nine](https://open.spotify.com/artist/5kAm2IyAJ8qwIv9VK6l98E) | [dreamality](https://open.spotify.com/album/6mpxv0APWBfaOn2PMUedfB) | 2:23 | 2022-12-16 |  |
 | [dreamfield](https://open.spotify.com/track/29pPn3HgQQyKMuQrk2s0cq) | [uncles](https://open.spotify.com/artist/1CKD1SbQGvHtuNmlIWC31B) | [apollo](https://open.spotify.com/album/77iZVGlibX0x7e6VH7wJCJ) | 2:00 | 2022-05-20 | 2022-09-17 |
@@ -407,7 +409,7 @@
 | [Melbourne Sunrise](https://open.spotify.com/track/5yoxmIJMQoYnUdB536vFtS) | [Dream Phobia](https://open.spotify.com/artist/5PYBO1ouuWJGeyAJyimodq) | [Wonderful Times](https://open.spotify.com/album/6QxZonwGmPwndaqt0khNDB) | 1:19 | 2022-04-15 | 2022-07-08 |
 | [Melt](https://open.spotify.com/track/63q1dd02dA3rd9edigSUoZ) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [Melt](https://open.spotify.com/album/3DIVjgLOSD8HeuNaIIEJzS) | 2:06 | 2023-10-06 |  |
 | [Melt](https://open.spotify.com/track/6p1N8bVALlHeDZDepblht2) | [Loose Principles](https://open.spotify.com/artist/6sVzSwvK7Wq0a0xjHk8tGk) | [Melt](https://open.spotify.com/album/36z7ppKin2XyN9FYtwTsnZ) | 2:36 | 2022-12-16 |  |
-| [MELT YOURSELF DOWN](https://open.spotify.com/track/7gZsCJTQQfqBMraiyvazHn) | [Laflov](https://open.spotify.com/artist/6EFjl8owc4s7CFfcBcS9AH) | [Float\-illa](https://open.spotify.com/album/5Itimgj6YYmcrjyPf5I0GJ) | 2:13 | 2022-12-09 |  |
+| [MELT YOURSELF DOWN](https://open.spotify.com/track/7gZsCJTQQfqBMraiyvazHn) | [Laflov](https://open.spotify.com/artist/6EFjl8owc4s7CFfcBcS9AH) | [Float\-illa](https://open.spotify.com/album/5Itimgj6YYmcrjyPf5I0GJ) | 2:13 | 2022-12-09 | 2023-11-28 |
 | [Meltdown](https://open.spotify.com/track/4gLJWrqUpHLaiDH7K276l9) | [Arlos](https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5) | [Meltdown](https://open.spotify.com/album/3fedlhIrSKvzsgd8MV7sEg) | 3:24 | 2023-10-13 |  |
 | [Memories](https://open.spotify.com/track/22GM0cTeCmReAppLUQRN6N) | [Yles](https://open.spotify.com/artist/6xuhrq8QZxXqXRz5XKxwaG), [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X) | [Memories](https://open.spotify.com/album/2Y9R59Hk5KdAPFtsOIik2G) | 1:42 | 2022-10-14 | 2023-09-22 |
 | [Meters](https://open.spotify.com/track/1NmkOuZKRyJ93N8CPN4cyM) | [Henry Lowe](https://open.spotify.com/artist/1Op6kjtkZu2Yqx5UprLQVt) | [Cloudy & Meters](https://open.spotify.com/album/5NOZBMRvo8C9gj80D9Y8x1) | 2:31 | 2022-04-15 | 2022-05-20 |
@@ -492,7 +494,7 @@
 | [One Hundred Masters](https://open.spotify.com/track/7cYTfi0NeI7zTNbOguui8H) | [Loaderror](https://open.spotify.com/artist/3zrZn5h0Mmx9aKdzhBX1lB) | [Broken Umbrella](https://open.spotify.com/album/4OUQJxukzSxjwlceCJVG1S) | 1:50 | 2022-04-15 | 2022-06-10 |
 | [One Minute](https://open.spotify.com/track/1cav5cQVWoCppNXXbg7b5m) | [Ed Mate](https://open.spotify.com/artist/6DJfY1YYdNAMLbd1Aj9ITV) | [One Minute](https://open.spotify.com/album/1dQGXOReBiGGZAwag5ZPyW) | 1:10 | 2022-10-28 | 2023-10-06 |
 | [One more for the road](https://open.spotify.com/track/3Sp8yHw4Ss2gLNlvv5FJGz) | [Attic Dizzt](https://open.spotify.com/artist/2c2Y1CsnRekoz34yDfyaQI) | [One more for the road](https://open.spotify.com/album/55wpECO2frgXtb6JsDtrCO) | 2:29 | 2023-10-20 |  |
-| [only you](https://open.spotify.com/track/0FvxLuWx3pVjeAhqMyrKLl) | [Jorick](https://open.spotify.com/artist/0GE8ydB4Bg776B35TRKm52) | [only you](https://open.spotify.com/album/1MmSnwIwlZY9UWIiUBnobG) | 2:26 | 2022-09-30 |  |
+| [only you](https://open.spotify.com/track/0FvxLuWx3pVjeAhqMyrKLl) | [Jorick](https://open.spotify.com/artist/0GE8ydB4Bg776B35TRKm52) | [only you](https://open.spotify.com/album/1MmSnwIwlZY9UWIiUBnobG) | 2:26 | 2022-09-30 | 2023-11-28 |
 | [Opus 2](https://open.spotify.com/track/7JV0q80mvbiEUDGUFxE3J5) | [WillSum](https://open.spotify.com/artist/65yQkihuUYn5wSktWTgSVG) | [Opus 2](https://open.spotify.com/album/716LHTsujovH8m2J576NaV) | 2:00 | 2022-04-15 |  |
 | [Orange and More Orange](https://open.spotify.com/track/7zLvnQVUahgEm9TmV7dtjn) | [Apollo Brown](https://open.spotify.com/artist/151BUVKmiB9rHDjIkgbeVE) | [This Must Be the Place](https://open.spotify.com/album/6MqKvZpyncm6ycEpmFm1M2) | 3:12 | 2022-07-08 | 2023-09-22 |
 | [Out Of Order](https://open.spotify.com/track/5UgCKTRv3o4HrS5gOLUN4b) | [Tzeri](https://open.spotify.com/artist/52hl0yuSTaDyn0cJxxCMaK) | [Out Of Order](https://open.spotify.com/album/6IeQxgTkyOgmyo26GKWCNl) | 2:21 | 2022-04-15 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do trap. Foto: Kyan",
-  "num_followers": 135522,
+  "num_followers": 135565,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzE5MTZiNThlMTI0YzA3OWVjNzY0MjUyOTQ0NGYyNzc3MDVhYTYy",
+  "snapshot_id": "MCxlYmQ5ODJiYWU3NzVhYWIwMWYyNGZiYTk3N2E3MTM4ODljMGQxYTg0",
   "tracks": [
     {
       "added_at": "2023-11-24 14:38:11",
@@ -235,6 +235,30 @@
     {
       "added_at": "2023-11-24 14:38:11",
       "album": {
+        "name": "De Lala - Spotify Singles",
+        "url": "https://open.spotify.com/album/3KFcPPHqFd0BhuLCl95zGX"
+      },
+      "artists": [
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "Dj Binho",
+          "url": "https://open.spotify.com/artist/6eYB3lZtpogyofhli0g8Qk"
+        },
+        {
+          "name": "Dj Geh",
+          "url": "https://open.spotify.com/artist/389VEoqiE28sfBdN7dcYkh"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "De Lala - Spotify Singles",
+      "url": "https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed"
+    },
+    {
+      "added_at": "2023-11-24 14:38:11",
+      "album": {
         "name": "Sem Compaix\u00e3o",
         "url": "https://open.spotify.com/album/0iyqDsb8sbXxhhvMdn4YB2"
       },
@@ -251,6 +275,30 @@
       "duration_ms": 202451,
       "name": "Sem Compaix\u00e3o",
       "url": "https://open.spotify.com/track/7KDDrAqNSOdEUeNvAOEExR"
+    },
+    {
+      "added_at": "2023-11-24 14:38:11",
+      "album": {
+        "name": "Maturidade",
+        "url": "https://open.spotify.com/album/2QWzXzDW94VU4E9KBSJehg"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        },
+        {
+          "name": "AMUSIK",
+          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
+        }
+      ],
+      "duration_ms": 142026,
+      "name": "Maturidade",
+      "url": "https://open.spotify.com/track/5RHOhXxMVhpEaBcG6hIydA"
     },
     {
       "added_at": "2023-11-24 14:38:11",
@@ -291,30 +339,6 @@
     {
       "added_at": "2023-11-24 14:38:11",
       "album": {
-        "name": "Maturidade",
-        "url": "https://open.spotify.com/album/2QWzXzDW94VU4E9KBSJehg"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        },
-        {
-          "name": "AMUSIK",
-          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
-        }
-      ],
-      "duration_ms": 142026,
-      "name": "Maturidade",
-      "url": "https://open.spotify.com/track/5RHOhXxMVhpEaBcG6hIydA"
-    },
-    {
-      "added_at": "2023-11-24 14:38:11",
-      "album": {
         "name": "Perdas & Ganhos",
         "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
       },
@@ -343,54 +367,6 @@
       "duration_ms": 162506,
       "name": "Celine",
       "url": "https://open.spotify.com/track/1aDGzQHWNCMy3pF1Stqjk7"
-    },
-    {
-      "added_at": "2023-11-24 14:38:11",
-      "album": {
-        "name": "De Lala - Spotify Singles",
-        "url": "https://open.spotify.com/album/3KFcPPHqFd0BhuLCl95zGX"
-      },
-      "artists": [
-        {
-          "name": "Mc Kadu",
-          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
-        },
-        {
-          "name": "Dj Binho",
-          "url": "https://open.spotify.com/artist/6eYB3lZtpogyofhli0g8Qk"
-        },
-        {
-          "name": "Dj Geh",
-          "url": "https://open.spotify.com/artist/389VEoqiE28sfBdN7dcYkh"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "De Lala - Spotify Singles",
-      "url": "https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed"
-    },
-    {
-      "added_at": "2023-11-24 14:38:11",
-      "album": {
-        "name": "Alma",
-        "url": "https://open.spotify.com/album/5IiJASPjEyjHrZK2YSldu9"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Ariel Donato",
-          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
-        },
-        {
-          "name": "C\u00fapula",
-          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Alma",
-      "url": "https://open.spotify.com/track/7oEFDPKhXAYAfSzqGZIr3Z"
     },
     {
       "added_at": "2023-11-24 14:38:11",
@@ -427,6 +403,50 @@
     {
       "added_at": "2023-11-24 14:38:11",
       "album": {
+        "name": "Alma",
+        "url": "https://open.spotify.com/album/5IiJASPjEyjHrZK2YSldu9"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Ariel Donato",
+          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
+        },
+        {
+          "name": "C\u00fapula",
+          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Alma",
+      "url": "https://open.spotify.com/track/7oEFDPKhXAYAfSzqGZIr3Z"
+    },
+    {
+      "added_at": "2023-11-24 14:38:11",
+      "album": {
+        "name": "Inocente \"Demotape\"",
+        "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        }
+      ],
+      "duration_ms": 184277,
+      "name": "cora\u00e7\u00e3o gelado",
+      "url": "https://open.spotify.com/track/6Wfa0YRwWjEOZrir00XQQ2"
+    },
+    {
+      "added_at": "2023-11-24 14:38:11",
+      "album": {
         "name": "Contradi\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
       },
@@ -451,54 +471,6 @@
       "duration_ms": 136464,
       "name": "Superficial",
       "url": "https://open.spotify.com/track/6EOLDQz2rjwpZ2M5rApgH4"
-    },
-    {
-      "added_at": "2023-11-24 14:38:11",
-      "album": {
-        "name": "INEF\u00c1VEL",
-        "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
-      },
-      "artists": [
-        {
-          "name": "Long beatz",
-          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
-        },
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Leviano",
-          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
-        }
-      ],
-      "duration_ms": 245987,
-      "name": "INEF\u00c1VEL (feat. Leviano)",
-      "url": "https://open.spotify.com/track/6a6UEfhgIKfzrZu1hqRYup"
-    },
-    {
-      "added_at": "2023-11-24 14:38:11",
-      "album": {
-        "name": "Inocente \"Demotape\"",
-        "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        }
-      ],
-      "duration_ms": 184277,
-      "name": "cora\u00e7\u00e3o gelado",
-      "url": "https://open.spotify.com/track/6Wfa0YRwWjEOZrir00XQQ2"
     },
     {
       "added_at": "2023-11-24 14:38:11",
@@ -535,6 +507,34 @@
       "duration_ms": 164571,
       "name": "Amor Eu T\u00f4 no Est\u00fadio",
       "url": "https://open.spotify.com/track/6WgbUmH1yKA2YJ5NY2upOA"
+    },
+    {
+      "added_at": "2023-11-24 14:38:11",
+      "album": {
+        "name": "INEF\u00c1VEL",
+        "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
+      },
+      "artists": [
+        {
+          "name": "Long beatz",
+          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        }
+      ],
+      "duration_ms": 245987,
+      "name": "INEF\u00c1VEL (feat. Leviano)",
+      "url": "https://open.spotify.com/track/6a6UEfhgIKfzrZu1hqRYup"
     },
     {
       "added_at": "2023-11-24 14:38:11",
@@ -747,30 +747,6 @@
     {
       "added_at": "2023-11-24 14:38:11",
       "album": {
-        "name": "Ascens\u00e3o do Cisne Negro",
-        "url": "https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ"
-      },
-      "artists": [
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 206869,
-      "name": "Show Lotado",
-      "url": "https://open.spotify.com/track/3nFSNBEHUosZ2JvcRQB6fT"
-    },
-    {
-      "added_at": "2023-11-24 14:38:11",
-      "album": {
         "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
         "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
       },
@@ -815,54 +791,6 @@
     {
       "added_at": "2023-11-24 14:38:11",
       "album": {
-        "name": "SHH",
-        "url": "https://open.spotify.com/album/6NhKR6U35pR28qAVdXTQi3"
-      },
-      "artists": [
-        {
-          "name": "Rudies Flacko",
-          "url": "https://open.spotify.com/artist/6gTcIWPsmchtg4klMwWp2o"
-        },
-        {
-          "name": "mavyrmldy",
-          "url": "https://open.spotify.com/artist/2IRkwjCv3xnnHkEre05AZB"
-        }
-      ],
-      "duration_ms": 107055,
-      "name": "CALA-BOCA VADIA",
-      "url": "https://open.spotify.com/track/1dzzdWpDKbZzZWVfNM8Zk5"
-    },
-    {
-      "added_at": "2023-11-24 14:38:11",
-      "album": {
-        "name": "Broncud\u00e3o (feat. Lotta)",
-        "url": "https://open.spotify.com/album/03M2TXranFleMIW6zTQF7d"
-      },
-      "artists": [
-        {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
-        },
-        {
-          "name": "4Genesis",
-          "url": "https://open.spotify.com/artist/67D2Ml4TLOBf7nolQgDev8"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Lotta",
-          "url": "https://open.spotify.com/artist/4fpd51wyl42OhrUPK7R5aJ"
-        }
-      ],
-      "duration_ms": 225974,
-      "name": "Broncud\u00e3o (feat. Lotta)",
-      "url": "https://open.spotify.com/track/3vMLoG513lbA3ATxIJi0z9"
-    },
-    {
-      "added_at": "2023-11-24 14:38:11",
-      "album": {
         "name": "N\u00e3o Tenho Tempo",
         "url": "https://open.spotify.com/album/0DU5qPWKr1bR86WsRjiiPP"
       },
@@ -891,6 +819,50 @@
     {
       "added_at": "2023-11-24 14:38:11",
       "album": {
+        "name": "Ascens\u00e3o do Cisne Negro",
+        "url": "https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ"
+      },
+      "artists": [
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 206869,
+      "name": "Show Lotado",
+      "url": "https://open.spotify.com/track/3nFSNBEHUosZ2JvcRQB6fT"
+    },
+    {
+      "added_at": "2023-11-24 14:38:11",
+      "album": {
+        "name": "SHH",
+        "url": "https://open.spotify.com/album/6NhKR6U35pR28qAVdXTQi3"
+      },
+      "artists": [
+        {
+          "name": "Rudies Flacko",
+          "url": "https://open.spotify.com/artist/6gTcIWPsmchtg4klMwWp2o"
+        },
+        {
+          "name": "mavyrmldy",
+          "url": "https://open.spotify.com/artist/2IRkwjCv3xnnHkEre05AZB"
+        }
+      ],
+      "duration_ms": 107055,
+      "name": "CALA-BOCA VADIA",
+      "url": "https://open.spotify.com/track/1dzzdWpDKbZzZWVfNM8Zk5"
+    },
+    {
+      "added_at": "2023-11-24 14:38:11",
+      "album": {
         "name": "\u00c9 Quem?",
         "url": "https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL"
       },
@@ -915,6 +887,34 @@
       "duration_ms": 140308,
       "name": "Aumentando os Lucros",
       "url": "https://open.spotify.com/track/6flGT8gHgiS6anHceskTmP"
+    },
+    {
+      "added_at": "2023-11-24 14:38:11",
+      "album": {
+        "name": "Broncud\u00e3o (feat. Lotta)",
+        "url": "https://open.spotify.com/album/03M2TXranFleMIW6zTQF7d"
+      },
+      "artists": [
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "4Genesis",
+          "url": "https://open.spotify.com/artist/67D2Ml4TLOBf7nolQgDev8"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Lotta",
+          "url": "https://open.spotify.com/artist/4fpd51wyl42OhrUPK7R5aJ"
+        }
+      ],
+      "duration_ms": 225974,
+      "name": "Broncud\u00e3o (feat. Lotta)",
+      "url": "https://open.spotify.com/track/3vMLoG513lbA3ATxIJi0z9"
     },
     {
       "added_at": "2023-11-24 14:38:11",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2023-11-24 14:38:11",
       "album": {
-        "name": "SHH",
-        "url": "https://open.spotify.com/album/6NhKR6U35pR28qAVdXTQi3"
-      },
-      "artists": [
-        {
-          "name": "Rudies Flacko",
-          "url": "https://open.spotify.com/artist/6gTcIWPsmchtg4klMwWp2o"
-        },
-        {
-          "name": "mavyrmldy",
-          "url": "https://open.spotify.com/artist/2IRkwjCv3xnnHkEre05AZB"
-        }
-      ],
-      "duration_ms": 144657,
-      "name": "LEGO",
-      "url": "https://open.spotify.com/track/0irSVZzJLj4hYIDj9kyxTq"
-    },
-    {
-      "added_at": "2023-11-24 14:38:11",
-      "album": {
         "name": "Criminal Love",
         "url": "https://open.spotify.com/album/2n3IYM5kthpXqiRHUX3UI3"
       },
@@ -1087,6 +1067,26 @@
       "duration_ms": 182068,
       "name": "Santa F\u00e9",
       "url": "https://open.spotify.com/track/4v0raTKKlRlDb4590foEiR"
+    },
+    {
+      "added_at": "2023-11-24 14:38:11",
+      "album": {
+        "name": "SHH",
+        "url": "https://open.spotify.com/album/6NhKR6U35pR28qAVdXTQi3"
+      },
+      "artists": [
+        {
+          "name": "Rudies Flacko",
+          "url": "https://open.spotify.com/artist/6gTcIWPsmchtg4klMwWp2o"
+        },
+        {
+          "name": "mavyrmldy",
+          "url": "https://open.spotify.com/artist/2IRkwjCv3xnnHkEre05AZB"
+        }
+      ],
+      "duration_ms": 144657,
+      "name": "LEGO",
+      "url": "https://open.spotify.com/track/0irSVZzJLj4hYIDj9kyxTq"
     },
     {
       "added_at": "2023-11-24 14:38:11",

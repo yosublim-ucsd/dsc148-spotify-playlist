@@ -1,12 +1,12 @@
 {
   "description": "Groovy sounds from around the world.",
-  "num_followers": 681677,
+  "num_followers": 681828,
   "original_name": "Global Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzEwOGQzNTg1MjMyYWIwMTEzNGQ0MGM0MzM0ZDBmMDVkZDk4ODc5",
+  "snapshot_id": "MCwxYzhjMTM4MGEzYzk5OGU5MTExMjFmNDFlNTkyM2MzN2JkMTZkMzFl",
   "tracks": [
     {
       "added_at": "2023-11-17 00:01:00",
@@ -267,18 +267,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Mordechai",
-        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
+        "name": "Marechi\u00e0",
+        "url": "https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W"
       },
       "artists": [
         {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        },
+        {
+          "name": "C\u00e9lia Kameni",
+          "url": "https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt"
         }
       ],
-      "duration_ms": 342189,
-      "name": "Time (You and I)",
-      "url": "https://open.spotify.com/track/0S3BtG3i5tkQmehJhIhHF3"
+      "duration_ms": 264929,
+      "name": "Marechi\u00e0",
+      "url": "https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -299,22 +303,18 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Marechi\u00e0",
-        "url": "https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W"
+        "name": "Mordechai",
+        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
       },
       "artists": [
         {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        },
-        {
-          "name": "C\u00e9lia Kameni",
-          "url": "https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt"
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 264929,
-      "name": "Marechi\u00e0",
-      "url": "https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y"
+      "duration_ms": 342189,
+      "name": "Time (You and I)",
+      "url": "https://open.spotify.com/track/0S3BtG3i5tkQmehJhIhHF3"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -403,22 +403,18 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "McCartney III Imagined",
-        "url": "https://open.spotify.com/album/0tgO7MMVIhpUMV3YZQ1GYT"
+        "name": "Nuova Napoli",
+        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
       },
       "artists": [
         {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        },
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
         }
       ],
-      "duration_ms": 348859,
-      "name": "Pretty Boys (feat. Khruangbin)",
-      "url": "https://open.spotify.com/track/3grdgfHCm4mWVJliAitsE6"
+      "duration_ms": 261926,
+      "name": "Ddoje Facce",
+      "url": "https://open.spotify.com/track/2eugKq2QsQ3TRJ4JgbdpzC"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -439,18 +435,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Nuova Napoli",
-        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
+        "name": "McCartney III Imagined",
+        "url": "https://open.spotify.com/album/0tgO7MMVIhpUMV3YZQ1GYT"
       },
       "artists": [
         {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        },
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 261926,
-      "name": "Ddoje Facce",
-      "url": "https://open.spotify.com/track/2eugKq2QsQ3TRJ4JgbdpzC"
+      "duration_ms": 348859,
+      "name": "Pretty Boys (feat. Khruangbin)",
+      "url": "https://open.spotify.com/track/3grdgfHCm4mWVJliAitsE6"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -579,18 +579,18 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
-        "url": "https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm"
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/2QBoYsuINGsfFvp4BGk0SK"
       },
       "artists": [
         {
-          "name": "Steve Monite",
-          "url": "https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY"
+          "name": "Glass Beams",
+          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
         }
       ],
-      "duration_ms": 381040,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/4fNffnbgnJwXenSpnfWme4"
+      "duration_ms": 290448,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/2oSurc3FKyPDaoVpdbb1N9"
     },
     {
       "added_at": "2023-11-23 04:03:19",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
+        "url": "https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm"
+      },
+      "artists": [
+        {
+          "name": "Steve Monite",
+          "url": "https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY"
+        }
+      ],
+      "duration_ms": 381040,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/4fNffnbgnJwXenSpnfWme4"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Fine Anyway (Habibi Funk 016)",
         "url": "https://open.spotify.com/album/2SUgDf5a0P3u98kdkEBF3R"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 196000,
       "name": "Had to Come Back Wet",
       "url": "https://open.spotify.com/track/3y9doIj0Gl7ywGgUaFNe0G"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/2QBoYsuINGsfFvp4BGk0SK"
-      },
-      "artists": [
-        {
-          "name": "Glass Beams",
-          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
-        }
-      ],
-      "duration_ms": 290448,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/2oSurc3FKyPDaoVpdbb1N9"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -739,22 +739,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Celestial Strut",
-        "url": "https://open.spotify.com/album/5UAtIWTEaVwzoZ4NZDtElM"
+        "name": "Pat Thomas & Kwashibu Area Band",
+        "url": "https://open.spotify.com/album/2HMkfg3XgwUka7EnAvGbPC"
       },
       "artists": [
         {
-          "name": "Bosq",
-          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
+          "name": "Pat Thomas",
+          "url": "https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy"
         },
         {
-          "name": "Kuyen",
-          "url": "https://open.spotify.com/artist/19Dh373FE7YK7FWvVxOk3b"
+          "name": "Kwashibu Area Band",
+          "url": "https://open.spotify.com/artist/53PQcfQVWV5FU1Mh7Of1yP"
         }
       ],
-      "duration_ms": 349257,
-      "name": "Found Your Love",
-      "url": "https://open.spotify.com/track/2ohinF8keJDshzetGAK0GX"
+      "duration_ms": 252889,
+      "name": "Gyae Su",
+      "url": "https://open.spotify.com/track/3U9NVmsEdrTutU49F1ykvf"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -791,22 +791,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Pat Thomas & Kwashibu Area Band",
-        "url": "https://open.spotify.com/album/2HMkfg3XgwUka7EnAvGbPC"
+        "name": "Celestial Strut",
+        "url": "https://open.spotify.com/album/5UAtIWTEaVwzoZ4NZDtElM"
       },
       "artists": [
         {
-          "name": "Pat Thomas",
-          "url": "https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy"
+          "name": "Bosq",
+          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
         },
         {
-          "name": "Kwashibu Area Band",
-          "url": "https://open.spotify.com/artist/53PQcfQVWV5FU1Mh7Of1yP"
+          "name": "Kuyen",
+          "url": "https://open.spotify.com/artist/19Dh373FE7YK7FWvVxOk3b"
         }
       ],
-      "duration_ms": 252889,
-      "name": "Gyae Su",
-      "url": "https://open.spotify.com/track/3U9NVmsEdrTutU49F1ykvf"
+      "duration_ms": 349257,
+      "name": "Found Your Love",
+      "url": "https://open.spotify.com/track/2ohinF8keJDshzetGAK0GX"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Carry Me Home",
-        "url": "https://open.spotify.com/album/18xdK3SoHfN0nHVAQfKvnQ"
-      },
-      "artists": [
-        {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
-        }
-      ],
-      "duration_ms": 327560,
-      "name": "Carry Me Home",
-      "url": "https://open.spotify.com/track/2mgIoFgItGxpYAQw5j1ShQ"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Badala Zamana (Habibi Funk 015)",
         "url": "https://open.spotify.com/album/04Ok581SPH7eTevAKZUeQB"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 190124,
       "name": "Badala Zamana (Habibi Funk 015)",
       "url": "https://open.spotify.com/track/0x267yS2OeozYaFzCyqnx6"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Carry Me Home",
+        "url": "https://open.spotify.com/album/18xdK3SoHfN0nHVAQfKvnQ"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        }
+      ],
+      "duration_ms": 327560,
+      "name": "Carry Me Home",
+      "url": "https://open.spotify.com/track/2mgIoFgItGxpYAQw5j1ShQ"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1107,6 +1107,26 @@
       "duration_ms": 213749,
       "name": "Unathi",
       "url": "https://open.spotify.com/track/1dxYM3qSzXe2O2RJ3rK3KI"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Wahala Wahala",
+        "url": "https://open.spotify.com/album/1tFmkdeVZL0epm6ma8GWwx"
+      },
+      "artists": [
+        {
+          "name": "K.O.G",
+          "url": "https://open.spotify.com/artist/6n5BdjorrfFAe3OVqHHfUi"
+        },
+        {
+          "name": "The Zongo Brigade",
+          "url": "https://open.spotify.com/artist/0smAHgNDEZESnCeJmPkWAd"
+        }
+      ],
+      "duration_ms": 361715,
+      "name": "Suro Nipa",
+      "url": "https://open.spotify.com/track/74hBqD4AZElwmfRxR9dOPZ"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1135,26 +1155,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Wahala Wahala",
-        "url": "https://open.spotify.com/album/1tFmkdeVZL0epm6ma8GWwx"
-      },
-      "artists": [
-        {
-          "name": "K.O.G",
-          "url": "https://open.spotify.com/artist/6n5BdjorrfFAe3OVqHHfUi"
-        },
-        {
-          "name": "The Zongo Brigade",
-          "url": "https://open.spotify.com/artist/0smAHgNDEZESnCeJmPkWAd"
-        }
-      ],
-      "duration_ms": 361715,
-      "name": "Suro Nipa",
-      "url": "https://open.spotify.com/track/74hBqD4AZElwmfRxR9dOPZ"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "La Matanza",
         "url": "https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6"
       },
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Haditouni (Habibi Funk 015)",
-        "url": "https://open.spotify.com/album/6RUXZAg8m4ye6BYiZbTVD2"
-      },
-      "artists": [
-        {
-          "name": "Douaa",
-          "url": "https://open.spotify.com/artist/4iAexb7ScY5FYSUsViF4io"
-        }
-      ],
-      "duration_ms": 205874,
-      "name": "Haditouni (Habibi Funk 015)",
-      "url": "https://open.spotify.com/track/5NS5Cu30CbNTBVKhh1feTX"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "A Journey to You",
         "url": "https://open.spotify.com/album/4fVoxEQikGnJyffKRjazsm"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 274285,
       "name": "AO Longo Do Rio",
       "url": "https://open.spotify.com/track/0jhKhgnjOWDtOTKxyPi1ZC"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Haditouni (Habibi Funk 015)",
+        "url": "https://open.spotify.com/album/6RUXZAg8m4ye6BYiZbTVD2"
+      },
+      "artists": [
+        {
+          "name": "Douaa",
+          "url": "https://open.spotify.com/artist/4iAexb7ScY5FYSUsViF4io"
+        }
+      ],
+      "duration_ms": 205874,
+      "name": "Haditouni (Habibi Funk 015)",
+      "url": "https://open.spotify.com/track/5NS5Cu30CbNTBVKhh1feTX"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "The Year of the Rabbit",
-        "url": "https://open.spotify.com/album/4RrqryHIWFhPXkjjEqsjTt"
-      },
-      "artists": [
-        {
-          "name": "Yin Yin",
-          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
-        }
-      ],
-      "duration_ms": 236551,
-      "name": "The Year of the Rabbit",
-      "url": "https://open.spotify.com/track/2zL9g5L3BVOgnErH3I3vvs"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Gnawa EP",
         "url": "https://open.spotify.com/album/4DsoqIEQ5FB4gCaCqbgzvG"
       },
@@ -1323,22 +1307,18 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Yeti Season (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4QnaG6xFICrieldsUBCuNK"
+        "name": "The Year of the Rabbit",
+        "url": "https://open.spotify.com/album/4RrqryHIWFhPXkjjEqsjTt"
       },
       "artists": [
         {
-          "name": "El Michels Affair",
-          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
-        },
-        {
-          "name": "Piya Malik",
-          "url": "https://open.spotify.com/artist/3WjeCzWHSOzMZI2vWXgFZU"
+          "name": "Yin Yin",
+          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
         }
       ],
-      "duration_ms": 192404,
-      "name": "Murkit Gem",
-      "url": "https://open.spotify.com/track/5GMhgIyKbUlcw05h394yvl"
+      "duration_ms": 236551,
+      "name": "The Year of the Rabbit",
+      "url": "https://open.spotify.com/track/2zL9g5L3BVOgnErH3I3vvs"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1355,6 +1335,26 @@
       "duration_ms": 152600,
       "name": "Comencemos (Let's Start)",
       "url": "https://open.spotify.com/track/44kT6XsCkSGb9wNQ5qGXvg"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Yeti Season (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4QnaG6xFICrieldsUBCuNK"
+      },
+      "artists": [
+        {
+          "name": "El Michels Affair",
+          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
+        },
+        {
+          "name": "Piya Malik",
+          "url": "https://open.spotify.com/artist/3WjeCzWHSOzMZI2vWXgFZU"
+        }
+      ],
+      "duration_ms": 192404,
+      "name": "Murkit Gem",
+      "url": "https://open.spotify.com/track/5GMhgIyKbUlcw05h394yvl"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "Modern Music (Habibi Funk 006)",
+        "url": "https://open.spotify.com/album/00WG8zvoWVZa9N5WHdVKvd"
+      },
+      "artists": [
+        {
+          "name": "Al Massrieen",
+          "url": "https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Sah",
+      "url": "https://open.spotify.com/track/2Cy0ioc23ZFoQS4eeKNxmS"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Dreaming In Four Dimensions",
         "url": "https://open.spotify.com/album/5YU3RcCFC9zjsK4cmvxNIj"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 202638,
       "name": "Ascensi\u00f3n",
       "url": "https://open.spotify.com/track/35o92ikbXQApq9xBjLgbnV"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Modern Music (Habibi Funk 006)",
-        "url": "https://open.spotify.com/album/00WG8zvoWVZa9N5WHdVKvd"
-      },
-      "artists": [
-        {
-          "name": "Al Massrieen",
-          "url": "https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Sah",
-      "url": "https://open.spotify.com/track/2Cy0ioc23ZFoQS4eeKNxmS"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Le Fruit Disco",
-        "url": "https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc"
-      },
-      "artists": [
-        {
-          "name": "Stuzzi",
-          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
-        }
-      ],
-      "duration_ms": 215080,
-      "name": "maracuya massage",
-      "url": "https://open.spotify.com/track/6puPeC2EToXfnPOcVGhNTh"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Padremontes",
         "url": "https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn"
       },
@@ -1595,22 +1579,18 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Porque Yo",
-        "url": "https://open.spotify.com/album/5AaUcL3YvlknHmRu6oeNXI"
+        "name": "Le Fruit Disco",
+        "url": "https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc"
       },
       "artists": [
         {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+          "name": "Stuzzi",
+          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
         }
       ],
-      "duration_ms": 181914,
-      "name": "Porque Yo",
-      "url": "https://open.spotify.com/track/2eqLgrPkcSTgCvxEtsymiz"
+      "duration_ms": 215080,
+      "name": "maracuya massage",
+      "url": "https://open.spotify.com/track/6puPeC2EToXfnPOcVGhNTh"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1635,18 +1615,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "RAS II",
-        "url": "https://open.spotify.com/album/2c8tyrZcoohrBGmOAU8mjw"
+        "name": "Porque Yo",
+        "url": "https://open.spotify.com/album/5AaUcL3YvlknHmRu6oeNXI"
       },
       "artists": [
         {
-          "name": "RAS",
-          "url": "https://open.spotify.com/artist/5quzk8QzHrBaPWz4JH15cj"
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
         }
       ],
-      "duration_ms": 348292,
-      "name": "Boogie",
-      "url": "https://open.spotify.com/track/1qRJWYZlXrycHQs3KkfCgu"
+      "duration_ms": 181914,
+      "name": "Porque Yo",
+      "url": "https://open.spotify.com/track/2eqLgrPkcSTgCvxEtsymiz"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1667,6 +1651,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "RAS II",
+        "url": "https://open.spotify.com/album/2c8tyrZcoohrBGmOAU8mjw"
+      },
+      "artists": [
+        {
+          "name": "RAS",
+          "url": "https://open.spotify.com/artist/5quzk8QzHrBaPWz4JH15cj"
+        }
+      ],
+      "duration_ms": 348292,
+      "name": "Boogie",
+      "url": "https://open.spotify.com/track/1qRJWYZlXrycHQs3KkfCgu"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Late Night Tales: Khruangbin",
         "url": "https://open.spotify.com/album/6G9fIqCsV0qEiBsdwLOACy"
       },
@@ -1679,46 +1679,6 @@
       "duration_ms": 390121,
       "name": "I Like It (Don't Stop)",
       "url": "https://open.spotify.com/track/5f3Pu9oUnc4URLrViyqxj9"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Pueblo",
-        "url": "https://open.spotify.com/album/5s0xBuS6BCFEyJwLrLRJWZ"
-      },
-      "artists": [
-        {
-          "name": "HUG\u00d8",
-          "url": "https://open.spotify.com/artist/17DJNYAUPmyxap4CY4hCDK"
-        },
-        {
-          "name": "DAO",
-          "url": "https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9"
-        }
-      ],
-      "duration_ms": 103220,
-      "name": "Pueblo",
-      "url": "https://open.spotify.com/track/6pR0LSU0EAwvfEa9ocQ1aV"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Mal\u00eca",
-        "url": "https://open.spotify.com/album/3tm3bhYRjEQ4pig97SQNvu"
-      },
-      "artists": [
-        {
-          "name": "Pellegrino",
-          "url": "https://open.spotify.com/artist/7vCQ7NQVgCumcAWj8aaVow"
-        },
-        {
-          "name": "Zodyaco",
-          "url": "https://open.spotify.com/artist/33PuaySauEdkTeCaa3bOB1"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Mal\u00eca",
-      "url": "https://open.spotify.com/track/12fGfkMQLgZr4CooVyGBtK"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1743,18 +1703,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Tayyara Warak (Habibi Funk 023)",
-        "url": "https://open.spotify.com/album/5uaI0HkgM2ovJ7QO0STi0t"
+        "name": "Pueblo",
+        "url": "https://open.spotify.com/album/5s0xBuS6BCFEyJwLrLRJWZ"
       },
       "artists": [
         {
-          "name": "Charif Megarbane",
-          "url": "https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4"
+          "name": "HUG\u00d8",
+          "url": "https://open.spotify.com/artist/17DJNYAUPmyxap4CY4hCDK"
+        },
+        {
+          "name": "DAO",
+          "url": "https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9"
         }
       ],
-      "duration_ms": 168097,
-      "name": "Tayyara Warak",
-      "url": "https://open.spotify.com/track/4WjB2aDvfjAYsukbbxYVUd"
+      "duration_ms": 103220,
+      "name": "Pueblo",
+      "url": "https://open.spotify.com/track/6pR0LSU0EAwvfEa9ocQ1aV"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1771,6 +1735,42 @@
       "duration_ms": 230250,
       "name": "Maledetta Quella Notte",
       "url": "https://open.spotify.com/track/2Wz8vQMgkpnUallH0caj1r"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Mal\u00eca",
+        "url": "https://open.spotify.com/album/3tm3bhYRjEQ4pig97SQNvu"
+      },
+      "artists": [
+        {
+          "name": "Pellegrino",
+          "url": "https://open.spotify.com/artist/7vCQ7NQVgCumcAWj8aaVow"
+        },
+        {
+          "name": "Zodyaco",
+          "url": "https://open.spotify.com/artist/33PuaySauEdkTeCaa3bOB1"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Mal\u00eca",
+      "url": "https://open.spotify.com/track/12fGfkMQLgZr4CooVyGBtK"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Tayyara Warak (Habibi Funk 023)",
+        "url": "https://open.spotify.com/album/5uaI0HkgM2ovJ7QO0STi0t"
+      },
+      "artists": [
+        {
+          "name": "Charif Megarbane",
+          "url": "https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4"
+        }
+      ],
+      "duration_ms": 168097,
+      "name": "Tayyara Warak",
+      "url": "https://open.spotify.com/track/4WjB2aDvfjAYsukbbxYVUd"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1795,22 +1795,18 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Calentita",
-        "url": "https://open.spotify.com/album/4NycotM0tlCFNtXd6JCzce"
+        "name": "World Like Mine (Bor Min Bor Mee)",
+        "url": "https://open.spotify.com/album/5X5dEDFlztV79SVATHPryf"
       },
       "artists": [
         {
-          "name": "The Limi\u00f1anas",
-          "url": "https://open.spotify.com/artist/2joJCoCL4EmiVqic3vZn7n"
-        },
-        {
-          "name": "Nuria",
-          "url": "https://open.spotify.com/artist/21sVXoR17xphV2u6PNTpo2"
+          "name": "Alec Orachi",
+          "url": "https://open.spotify.com/artist/7gUg2Mhy06dtJ8sFqtHKCK"
         }
       ],
-      "duration_ms": 200991,
-      "name": "Calentita",
-      "url": "https://open.spotify.com/track/0MYCrsAFlIGtVcfxlCEzah"
+      "duration_ms": 216362,
+      "name": "World Like Mine (Bor Min Bor Mee)",
+      "url": "https://open.spotify.com/track/0DCKZft93OXE6ptW28QtE4"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1827,6 +1823,26 @@
       "duration_ms": 151948,
       "name": "Space",
       "url": "https://open.spotify.com/track/6pnryYnhE5zBugXN1QxPBg"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Calentita",
+        "url": "https://open.spotify.com/album/4NycotM0tlCFNtXd6JCzce"
+      },
+      "artists": [
+        {
+          "name": "The Limi\u00f1anas",
+          "url": "https://open.spotify.com/artist/2joJCoCL4EmiVqic3vZn7n"
+        },
+        {
+          "name": "Nuria",
+          "url": "https://open.spotify.com/artist/21sVXoR17xphV2u6PNTpo2"
+        }
+      ],
+      "duration_ms": 200991,
+      "name": "Calentita",
+      "url": "https://open.spotify.com/track/0MYCrsAFlIGtVcfxlCEzah"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1863,22 +1879,6 @@
       "duration_ms": 169319,
       "name": "Money Music",
       "url": "https://open.spotify.com/track/5aJaL72YTZmsfEK1xWexyw"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "World Like Mine (Bor Min Bor Mee)",
-        "url": "https://open.spotify.com/album/5X5dEDFlztV79SVATHPryf"
-      },
-      "artists": [
-        {
-          "name": "Alec Orachi",
-          "url": "https://open.spotify.com/artist/7gUg2Mhy06dtJ8sFqtHKCK"
-        }
-      ],
-      "duration_ms": 216362,
-      "name": "World Like Mine (Bor Min Bor Mee)",
-      "url": "https://open.spotify.com/track/0DCKZft93OXE6ptW28QtE4"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1967,6 +1967,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "Sim\u00e9 Love",
+        "url": "https://open.spotify.com/album/4SPzMNobGVtQ7PWxJcIg2I"
+      },
+      "artists": [
+        {
+          "name": "Dowdelin",
+          "url": "https://open.spotify.com/artist/1ogaqCgdEnTy7M5jO0tMue"
+        }
+      ],
+      "duration_ms": 210261,
+      "name": "Sim\u00e9 Love",
+      "url": "https://open.spotify.com/track/5c4HBB6vA5UqhWk4Of7NBO"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Variables",
         "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
       },
@@ -2027,22 +2043,6 @@
       "duration_ms": 171333,
       "name": "Souk el Ahad",
       "url": "https://open.spotify.com/track/4ykaaBQsxP1pnL57LU5syd"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Sim\u00e9 Love",
-        "url": "https://open.spotify.com/album/4SPzMNobGVtQ7PWxJcIg2I"
-      },
-      "artists": [
-        {
-          "name": "Dowdelin",
-          "url": "https://open.spotify.com/artist/1ogaqCgdEnTy7M5jO0tMue"
-        }
-      ],
-      "duration_ms": 210261,
-      "name": "Sim\u00e9 Love",
-      "url": "https://open.spotify.com/track/5c4HBB6vA5UqhWk4Of7NBO"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -2147,18 +2147,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Mentallogenic",
-        "url": "https://open.spotify.com/album/6yIJxxHYflUXbspDdrrJym"
+        "name": "Topical Dancer",
+        "url": "https://open.spotify.com/album/4ivk3u8J7qg7YoWUZlnGNz"
       },
       "artists": [
         {
-          "name": "Alex Figueira",
-          "url": "https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT"
+          "name": "Charlotte Adig\u00e9ry",
+          "url": "https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy"
+        },
+        {
+          "name": "Bolis Pupul",
+          "url": "https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl"
         }
       ],
-      "duration_ms": 259933,
-      "name": "Silky",
-      "url": "https://open.spotify.com/track/7oelcLcMEvuvcr8AOqNFdm"
+      "duration_ms": 351280,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/024X0CCgxFHrgGKY1WTFcA"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -2183,6 +2187,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "Mentallogenic",
+        "url": "https://open.spotify.com/album/6yIJxxHYflUXbspDdrrJym"
+      },
+      "artists": [
+        {
+          "name": "Alex Figueira",
+          "url": "https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT"
+        }
+      ],
+      "duration_ms": 259933,
+      "name": "Silky",
+      "url": "https://open.spotify.com/track/7oelcLcMEvuvcr8AOqNFdm"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "The Exciting Sounds of Menahan Street Band",
         "url": "https://open.spotify.com/album/41aeU2fQpLCNn3n1AVqCIF"
       },
@@ -2199,22 +2219,26 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Topical Dancer",
-        "url": "https://open.spotify.com/album/4ivk3u8J7qg7YoWUZlnGNz"
+        "name": "Black Times",
+        "url": "https://open.spotify.com/album/3drgm5Lvz5tS3d0paKXY8w"
       },
       "artists": [
         {
-          "name": "Charlotte Adig\u00e9ry",
-          "url": "https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy"
+          "name": "Seun Kuti",
+          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
         },
         {
-          "name": "Bolis Pupul",
-          "url": "https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl"
+          "name": "Egypt 80",
+          "url": "https://open.spotify.com/artist/3tiod2aXxdgMl6E7W4visJ"
+        },
+        {
+          "name": "Carlos Santana",
+          "url": "https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ"
         }
       ],
-      "duration_ms": 351280,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/024X0CCgxFHrgGKY1WTFcA"
+      "duration_ms": 295469,
+      "name": "Black Times - Radio Edit",
+      "url": "https://open.spotify.com/track/2mbWm1eg1c1h2RuXm2kme9"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -2267,30 +2291,6 @@
       "duration_ms": 348662,
       "name": "Dubby Sunday",
       "url": "https://open.spotify.com/track/2zdLcpv8D5mdyrF5QXEnbc"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Black Times",
-        "url": "https://open.spotify.com/album/3drgm5Lvz5tS3d0paKXY8w"
-      },
-      "artists": [
-        {
-          "name": "Seun Kuti",
-          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
-        },
-        {
-          "name": "Egypt 80",
-          "url": "https://open.spotify.com/artist/3tiod2aXxdgMl6E7W4visJ"
-        },
-        {
-          "name": "Carlos Santana",
-          "url": "https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ"
-        }
-      ],
-      "duration_ms": 295469,
-      "name": "Black Times - Radio Edit",
-      "url": "https://open.spotify.com/track/2mbWm1eg1c1h2RuXm2kme9"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -2387,6 +2387,26 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "Dekmantel 10 Years 10.2",
+        "url": "https://open.spotify.com/album/1mkdFuyDtgISvmK1jHfquF"
+      },
+      "artists": [
+        {
+          "name": "Tony Allen",
+          "url": "https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi"
+        },
+        {
+          "name": "Motor City Drum Ensemble",
+          "url": "https://open.spotify.com/artist/4TlzX7s6kuZDtiBpsopcBf"
+        }
+      ],
+      "duration_ms": 443989,
+      "name": "Asiko (In a Silent Mix) - Motor City Drum Ensemble Remix",
+      "url": "https://open.spotify.com/track/6VJxaWAaMSKZsZNtZxpVan"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Feelings",
         "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
       },
@@ -2419,26 +2439,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Dekmantel 10 Years 10.2",
-        "url": "https://open.spotify.com/album/1mkdFuyDtgISvmK1jHfquF"
-      },
-      "artists": [
-        {
-          "name": "Tony Allen",
-          "url": "https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi"
-        },
-        {
-          "name": "Motor City Drum Ensemble",
-          "url": "https://open.spotify.com/artist/4TlzX7s6kuZDtiBpsopcBf"
-        }
-      ],
-      "duration_ms": 443989,
-      "name": "Asiko (In a Silent Mix) - Motor City Drum Ensemble Remix",
-      "url": "https://open.spotify.com/track/6VJxaWAaMSKZsZNtZxpVan"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Bumay\u00e9 (Voilaaa Disco Remix)",
         "url": "https://open.spotify.com/album/1nSPLTMbhYYw4nR1NefcfB"
       },
@@ -2455,22 +2455,6 @@
       "duration_ms": 267316,
       "name": "Bumay\u00e9 - Voilaaa Disco Remix",
       "url": "https://open.spotify.com/track/1iU6nqqgtahrZZdcPm2OOL"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "D\u00e9j\u00e0 vu",
-        "url": "https://open.spotify.com/album/4mMT077W7zWQvtBJQNABkm"
-      },
-      "artists": [
-        {
-          "name": "Popa",
-          "url": "https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB"
-        }
-      ],
-      "duration_ms": 185045,
-      "name": "D\u00e9j\u00e0 vu",
-      "url": "https://open.spotify.com/track/65AkOkjVMHm8gwdg0j2khw"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -2507,6 +2491,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "D\u00e9j\u00e0 vu",
+        "url": "https://open.spotify.com/album/4mMT077W7zWQvtBJQNABkm"
+      },
+      "artists": [
+        {
+          "name": "Popa",
+          "url": "https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB"
+        }
+      ],
+      "duration_ms": 185045,
+      "name": "D\u00e9j\u00e0 vu",
+      "url": "https://open.spotify.com/track/65AkOkjVMHm8gwdg0j2khw"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Yardley Suite",
         "url": "https://open.spotify.com/album/6GYzn93otdQDLDrlHx3mSX"
       },
@@ -2519,22 +2519,6 @@
       "duration_ms": 235803,
       "name": "Yardley Suite",
       "url": "https://open.spotify.com/track/3FLsuVjJ5Ioqb1hgst8N1b"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Malaka",
-        "url": "https://open.spotify.com/album/3APaflMX3wNb1BCJZ0UUOS"
-      },
-      "artists": [
-        {
-          "name": "Ali",
-          "url": "https://open.spotify.com/artist/6NNWuImyEhZANj6R2JnDwZ"
-        }
-      ],
-      "duration_ms": 179497,
-      "name": "Shoreline Transit",
-      "url": "https://open.spotify.com/track/3qo9MuJSAYzXSyxPmNN4HB"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -2555,18 +2539,34 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Never Understand (Habibi Funk 024)",
-        "url": "https://open.spotify.com/album/5IINb7SuoBdORtAqr8uafK"
+        "name": "Malaka",
+        "url": "https://open.spotify.com/album/3APaflMX3wNb1BCJZ0UUOS"
       },
       "artists": [
         {
-          "name": "Ibrahim Hesnawi",
-          "url": "https://open.spotify.com/artist/6tPa6NxEdaNHWKupImT46F"
+          "name": "Ali",
+          "url": "https://open.spotify.com/artist/6NNWuImyEhZANj6R2JnDwZ"
         }
       ],
-      "duration_ms": 234281,
-      "name": "Never Understand - Habibi Funk 024",
-      "url": "https://open.spotify.com/track/4GiYIQr4qEMxJDT9OPaYji"
+      "duration_ms": 179497,
+      "name": "Shoreline Transit",
+      "url": "https://open.spotify.com/track/3qo9MuJSAYzXSyxPmNN4HB"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Bayti Fi Rasi",
+        "url": "https://open.spotify.com/album/7MV14EK7eAdEZdDVB5xHk6"
+      },
+      "artists": [
+        {
+          "name": "A-WA",
+          "url": "https://open.spotify.com/artist/1EK3SHXyGFZsuj4vrOLhAX"
+        }
+      ],
+      "duration_ms": 251319,
+      "name": "Hana Mash Hu Al Yaman",
+      "url": "https://open.spotify.com/track/4tnksYPh1C7j4qEoJipDFO"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -2591,18 +2591,18 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Bayti Fi Rasi",
-        "url": "https://open.spotify.com/album/7MV14EK7eAdEZdDVB5xHk6"
+        "name": "Never Understand (Habibi Funk 024)",
+        "url": "https://open.spotify.com/album/5IINb7SuoBdORtAqr8uafK"
       },
       "artists": [
         {
-          "name": "A-WA",
-          "url": "https://open.spotify.com/artist/1EK3SHXyGFZsuj4vrOLhAX"
+          "name": "Ibrahim Hesnawi",
+          "url": "https://open.spotify.com/artist/6tPa6NxEdaNHWKupImT46F"
         }
       ],
-      "duration_ms": 251319,
-      "name": "Hana Mash Hu Al Yaman",
-      "url": "https://open.spotify.com/track/4tnksYPh1C7j4qEoJipDFO"
+      "duration_ms": 234281,
+      "name": "Never Understand - Habibi Funk 024",
+      "url": "https://open.spotify.com/track/4GiYIQr4qEMxJDT9OPaYji"
     },
     {
       "added_at": "2023-11-17 00:01:00",

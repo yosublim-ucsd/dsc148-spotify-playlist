@@ -1,12 +1,12 @@
 {
   "description": "Funk-inspired beats by latinos.",
-  "num_followers": 19638,
+  "num_followers": 19664,
   "original_name": "feels like latin funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDBlM2RkODFiYjc5NmNiNjk3ZmRkZGY5NmVhMzU1ZDBiMjFhZjRi",
+  "snapshot_id": "MCxjOTI2YTg4YTdiZGEyMzJjMTI1OTM3ZWNjNmZiYTZlZTVlOTAyYzlk",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -159,22 +159,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Besos en la Espalda",
-        "url": "https://open.spotify.com/album/7KDc628gSoRVXdJxDNGNG3"
-      },
-      "artists": [
-        {
-          "name": "Indios",
-          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
-        }
-      ],
-      "duration_ms": 166573,
-      "name": "Perdiendo la Cabeza",
-      "url": "https://open.spotify.com/track/3KuWAnuZHNMsp7VIJyPyyr"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Hush (Still Woozy Remix)",
         "url": "https://open.spotify.com/album/3LcrYJ7ASoQo7SuBy7qGoI"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 182346,
       "name": "Hush - Still Woozy Remix",
       "url": "https://open.spotify.com/track/4dGuRldChjvboZktprNJFM"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Besos en la Espalda",
+        "url": "https://open.spotify.com/album/7KDc628gSoRVXdJxDNGNG3"
+      },
+      "artists": [
+        {
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+        }
+      ],
+      "duration_ms": 166573,
+      "name": "Perdiendo la Cabeza",
+      "url": "https://open.spotify.com/track/3KuWAnuZHNMsp7VIJyPyyr"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -247,26 +247,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Trippy Caribbean",
-        "url": "https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        }
-      ],
-      "duration_ms": 260299,
-      "name": "Funky Fiesta",
-      "url": "https://open.spotify.com/track/2CtzQv3Kr59CoYrQZggwHR"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Love Para\u00edso",
         "url": "https://open.spotify.com/album/3bgsX1oDXZ6qxGWgOWZNVt"
       },
@@ -299,54 +279,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Funk Your Bones (Side B)",
-        "url": "https://open.spotify.com/album/440X9FP6a7TTrQDZVR3vyT"
-      },
-      "artists": [
-        {
-          "name": "Midnight Generation",
-          "url": "https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq"
-        }
-      ],
-      "duration_ms": 196874,
-      "name": "Young Girl",
-      "url": "https://open.spotify.com/track/6MWaf0c7rvbvVH5V2zmHJn"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Chango",
-        "url": "https://open.spotify.com/album/65ZOMODDFgGWpANqUL9umN"
-      },
-      "artists": [
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        }
-      ],
-      "duration_ms": 185994,
-      "name": "Despacio",
-      "url": "https://open.spotify.com/track/4M8EITXCAirNIaYcwmf1LI"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Arepa 3000",
-        "url": "https://open.spotify.com/album/4VRNs3TfQWZjRXiv378FNN"
-      },
-      "artists": [
-        {
-          "name": "Los Amigos Invisibles",
-          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
-        }
-      ],
-      "duration_ms": 239613,
-      "name": "Qu\u00e9 Rico",
-      "url": "https://open.spotify.com/track/75NBuHx7ad04FAXKsoEbrg"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Mira Lo Que Me Hiciste Hacer",
         "url": "https://open.spotify.com/album/56iVzGyiTDQU2wenZeIhXI"
       },
@@ -370,11 +302,63 @@
         {
           "name": "Rawayana",
           "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
         }
       ],
-      "duration_ms": 275785,
-      "name": "A\u00f1ejo",
-      "url": "https://open.spotify.com/track/6EgQxoBO6WYniNglNbMEHr"
+      "duration_ms": 260299,
+      "name": "Funky Fiesta",
+      "url": "https://open.spotify.com/track/2CtzQv3Kr59CoYrQZggwHR"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Chango",
+        "url": "https://open.spotify.com/album/65ZOMODDFgGWpANqUL9umN"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        }
+      ],
+      "duration_ms": 185994,
+      "name": "Despacio",
+      "url": "https://open.spotify.com/track/4M8EITXCAirNIaYcwmf1LI"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Funk Your Bones (Side B)",
+        "url": "https://open.spotify.com/album/440X9FP6a7TTrQDZVR3vyT"
+      },
+      "artists": [
+        {
+          "name": "Midnight Generation",
+          "url": "https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq"
+        }
+      ],
+      "duration_ms": 196874,
+      "name": "Young Girl",
+      "url": "https://open.spotify.com/track/6MWaf0c7rvbvVH5V2zmHJn"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Arepa 3000",
+        "url": "https://open.spotify.com/album/4VRNs3TfQWZjRXiv378FNN"
+      },
+      "artists": [
+        {
+          "name": "Los Amigos Invisibles",
+          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
+        }
+      ],
+      "duration_ms": 239613,
+      "name": "Qu\u00e9 Rico",
+      "url": "https://open.spotify.com/track/75NBuHx7ad04FAXKsoEbrg"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -391,6 +375,38 @@
       "duration_ms": 249250,
       "name": "Parar el Tiempo",
       "url": "https://open.spotify.com/track/49fa5bKsBZA5A360ZD2n1c"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Bajo las Luces",
+        "url": "https://open.spotify.com/album/1dNEgzCpvrqeF64dp9iESC"
+      },
+      "artists": [
+        {
+          "name": "Rubytates",
+          "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
+        }
+      ],
+      "duration_ms": 212195,
+      "name": "Bajo las Luces",
+      "url": "https://open.spotify.com/track/53cRE3WlbO3mH0f9npC1FP"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "M\u00fasica para verse bien",
+        "url": "https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ"
+      },
+      "artists": [
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        }
+      ],
+      "duration_ms": 318058,
+      "name": "Esta canci\u00f3n",
+      "url": "https://open.spotify.com/track/4sKS8hXdU95mCgPUsdgi7f"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -415,34 +431,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "M\u00fasica para verse bien",
-        "url": "https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ"
+        "name": "Trippy Caribbean",
+        "url": "https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG"
       },
       "artists": [
         {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
         }
       ],
-      "duration_ms": 318058,
-      "name": "Esta canci\u00f3n",
-      "url": "https://open.spotify.com/track/4sKS8hXdU95mCgPUsdgi7f"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Bajo las Luces",
-        "url": "https://open.spotify.com/album/1dNEgzCpvrqeF64dp9iESC"
-      },
-      "artists": [
-        {
-          "name": "Rubytates",
-          "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
-        }
-      ],
-      "duration_ms": 212195,
-      "name": "Bajo las Luces",
-      "url": "https://open.spotify.com/track/53cRE3WlbO3mH0f9npC1FP"
+      "duration_ms": 275785,
+      "name": "A\u00f1ejo",
+      "url": "https://open.spotify.com/track/6EgQxoBO6WYniNglNbMEHr"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -475,22 +475,6 @@
       "duration_ms": 229080,
       "name": "At\u00f3mico",
       "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Morena",
-        "url": "https://open.spotify.com/album/2pNKnE4bn2sLJuG2agLg7B"
-      },
-      "artists": [
-        {
-          "name": "Noah Pino Palo",
-          "url": "https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21"
-        }
-      ],
-      "duration_ms": 271162,
-      "name": "Morena",
-      "url": "https://open.spotify.com/track/1UGwamQOTjQ0nnCYdX92Rn"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -595,18 +579,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "NQP (No Quiero Parar)",
-        "url": "https://open.spotify.com/album/6JL4UdmqdPZXFh5RlEHVgW"
+        "name": "Morena",
+        "url": "https://open.spotify.com/album/2pNKnE4bn2sLJuG2agLg7B"
       },
       "artists": [
         {
-          "name": "Danco",
-          "url": "https://open.spotify.com/artist/1XrvBYbWw1e7xyoBC0bp5X"
+          "name": "Noah Pino Palo",
+          "url": "https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21"
         }
       ],
-      "duration_ms": 182324,
-      "name": "NQP (No Quiero Parar)",
-      "url": "https://open.spotify.com/track/73WvgO2o37roOx4QPjmYM2"
+      "duration_ms": 271162,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/1UGwamQOTjQ0nnCYdX92Rn"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -623,6 +607,22 @@
       "duration_ms": 326040,
       "name": "Tr\u00e1game Tierra",
       "url": "https://open.spotify.com/track/25w814wNZ7B0XoVBV5miTs"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "NQP (No Quiero Parar)",
+        "url": "https://open.spotify.com/album/6JL4UdmqdPZXFh5RlEHVgW"
+      },
+      "artists": [
+        {
+          "name": "Danco",
+          "url": "https://open.spotify.com/artist/1XrvBYbWw1e7xyoBC0bp5X"
+        }
+      ],
+      "duration_ms": 182324,
+      "name": "NQP (No Quiero Parar)",
+      "url": "https://open.spotify.com/track/73WvgO2o37roOx4QPjmYM2"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Vida Cotidiana",
-        "url": "https://open.spotify.com/album/1fHpKy8dfAplGSfcOsqtOm"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 232813,
-      "name": "M\u00e1s",
-      "url": "https://open.spotify.com/track/2I05emlmUJ46qbp7ngibmu"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Ritmo Natural",
         "url": "https://open.spotify.com/album/7c4DjcusI5Vv9AjQM2OhXu"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 202080,
       "name": "Ritmo Natural",
       "url": "https://open.spotify.com/track/13h03rdDvweAVeunMnw8si"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Vida Cotidiana",
+        "url": "https://open.spotify.com/album/1fHpKy8dfAplGSfcOsqtOm"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 232813,
+      "name": "M\u00e1s",
+      "url": "https://open.spotify.com/track/2I05emlmUJ46qbp7ngibmu"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Si Fui Yo",
+        "url": "https://open.spotify.com/album/3ystJXvxwN8aVGO3gSzzzs"
+      },
+      "artists": [
+        {
+          "name": "Dstance",
+          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
+        }
+      ],
+      "duration_ms": 146840,
+      "name": "Si Fui Yo",
+      "url": "https://open.spotify.com/track/3xVDIiVKzx815eNVkPKT1J"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "JUAN PABLO VEGA",
         "url": "https://open.spotify.com/album/3EKzsn6lugXcs8C7qj7jpR"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 178064,
       "name": "Terciopelo",
       "url": "https://open.spotify.com/track/3BfkRtP5fDcHa9ebwIaGMY"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Zoo Lion",
-        "url": "https://open.spotify.com/album/0GUY5NcH7vjSYeeyfnMdXF"
-      },
-      "artists": [
-        {
-          "name": "Moncho Berry",
-          "url": "https://open.spotify.com/artist/7r3ulcCderiJsAhR2ljXpC"
-        }
-      ],
-      "duration_ms": 266447,
-      "name": "Zoo Lion",
-      "url": "https://open.spotify.com/track/0Yt3DQ6IvtZrEqPHjDKTPO"
     }
   ],
   "unique_name": "feels like latin funk",

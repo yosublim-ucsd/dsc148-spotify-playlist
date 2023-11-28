@@ -1,13 +1,29 @@
 {
   "description": "he was a boy, i was a horse. could that make it any more difficult. ",
-  "num_followers": 424964,
+  "num_followers": 425032,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNTM3NjAyMjRjNmUxNmZiMWVjZTJjYzI4YzBhMDZiYmYxOTdmNWNj",
+  "snapshot_id": "MCxkYTJhYjdiMjI2Y2U2MjY5NDg5NGRmN2E2NTY1M2E5Y2MxMWEzZjE3",
   "tracks": [
+    {
+      "added_at": "2023-11-27 14:46:08",
+      "album": {
+        "name": "Night Killaz Vol. 1",
+        "url": "https://open.spotify.com/album/0BYXEDtEXZ1fMYXCOb9Pnw"
+      },
+      "artists": [
+        {
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        }
+      ],
+      "duration_ms": 134237,
+      "name": "Just A Hint",
+      "url": "https://open.spotify.com/track/7hE0JjXftoo3euDhjwgNIQ"
+    },
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {

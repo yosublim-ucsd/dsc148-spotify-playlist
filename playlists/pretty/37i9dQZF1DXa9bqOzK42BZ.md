@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI?si=cywZtkjkSPiy19VZJBVSvA">Joel Lwaga</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,299 likes - 80 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,349 likes - 80 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 79 | [Nikumbushe Yehova](https://open.spotify.com/track/2YTmZTaHazQYsOfC7UqWtO) | [Kurasini SDA Choir](https://open.spotify.com/artist/6iEYr3D5bI9cIgJWSYN0tM) | [Mtanitafuta Pande Zote](https://open.spotify.com/album/70wLfW5cfXi1h1JfIITRUp) | 2:45 |
 | 80 | [Action](https://open.spotify.com/track/3Kw2ogHWEVOln1I0COwKpx) | [BeeJay](https://open.spotify.com/artist/0Cwe5u9RvI668c5MXkzqyQ) | [Action](https://open.spotify.com/album/3di0qx12IxzIgc0uFuRSbI) | 5:30 |
 
-Snapshot ID: `MCxmODEyYjAwMWI3YWY3OTYzM2ZkYmYzNjhiMWY1ZTIzMDExYWQ0NDRh`
+Snapshot ID: `MCxmMmNjN2Y3NmZmZDU2MGQ3YzJiMzQ1YTQ3ZWNmYTFkNzYxYzZiYmEx`

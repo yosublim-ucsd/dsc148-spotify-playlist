@@ -1,12 +1,12 @@
 {
   "description": "A lo cubano \ud83d\udd25 Con El Chacal en portada.",
-  "num_followers": 4635,
+  "num_followers": 4665,
   "original_name": "Cubat\u00f3n Miami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTVhYzU0YWM5OTBhMGRjZjBiMmRkZGYwNmZmNDEwMmJlODZhZTEz",
+  "snapshot_id": "MCwzYmQyNDE2N2UwM2ZlNjlmZDE5NTUzYWFjYzg4MzNjYmFhYTMxNTZm",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -179,6 +179,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Feliz",
+        "url": "https://open.spotify.com/album/7jfQRBzVv3xO6phlTk6VrB"
+      },
+      "artists": [
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        }
+      ],
+      "duration_ms": 202268,
+      "name": "Feliz",
+      "url": "https://open.spotify.com/track/0s91c0rPN7ATKJPaYsLN2C"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Que Rico",
         "url": "https://open.spotify.com/album/3sgFWlzZOuvL7JSIWweoKx"
       },
@@ -219,30 +235,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "El Men2 Remix",
-        "url": "https://open.spotify.com/album/2xli8e3TDgvnF2zUIWt2Vg"
-      },
-      "artists": [
-        {
-          "name": "EL YORDY DK",
-          "url": "https://open.spotify.com/artist/4Sjaa8KPxSPX7VqcixAGn8"
-        },
-        {
-          "name": "La Tankeria",
-          "url": "https://open.spotify.com/artist/46zSeracS4TMCzr21OKLiu"
-        },
-        {
-          "name": "Michel Boutic",
-          "url": "https://open.spotify.com/artist/1uac76BPb8mnvmQv6AtBZ9"
-        }
-      ],
-      "duration_ms": 218666,
-      "name": "El Men2 Remix",
-      "url": "https://open.spotify.com/track/2gZgg2MnrUYtmlUYuaqWlY"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Pornosotros",
         "url": "https://open.spotify.com/album/0VIN822VobCM6QGwNlCRhx"
       },
@@ -267,18 +259,26 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Feliz",
-        "url": "https://open.spotify.com/album/7jfQRBzVv3xO6phlTk6VrB"
+        "name": "El Men2 Remix",
+        "url": "https://open.spotify.com/album/2xli8e3TDgvnF2zUIWt2Vg"
       },
       "artists": [
         {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+          "name": "EL YORDY DK",
+          "url": "https://open.spotify.com/artist/4Sjaa8KPxSPX7VqcixAGn8"
+        },
+        {
+          "name": "La Tankeria",
+          "url": "https://open.spotify.com/artist/46zSeracS4TMCzr21OKLiu"
+        },
+        {
+          "name": "Michel Boutic",
+          "url": "https://open.spotify.com/artist/1uac76BPb8mnvmQv6AtBZ9"
         }
       ],
-      "duration_ms": 202268,
-      "name": "Feliz",
-      "url": "https://open.spotify.com/track/0s91c0rPN7ATKJPaYsLN2C"
+      "duration_ms": 218666,
+      "name": "El Men2 Remix",
+      "url": "https://open.spotify.com/track/2gZgg2MnrUYtmlUYuaqWlY"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -299,6 +299,22 @@
       "duration_ms": 203273,
       "name": "Bendecido",
       "url": "https://open.spotify.com/track/0ZKCQENt4shhG0rLwot8xB"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "OTRA COSA",
+        "url": "https://open.spotify.com/album/00AVS4xDGxD61LgiIkDaN7"
+      },
+      "artists": [
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        }
+      ],
+      "duration_ms": 215640,
+      "name": "Si No Vuelves",
+      "url": "https://open.spotify.com/track/3MIhs0pA6pSkFFdXWVVz03"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -383,46 +399,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "OTRA COSA",
-        "url": "https://open.spotify.com/album/00AVS4xDGxD61LgiIkDaN7"
-      },
-      "artists": [
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        }
-      ],
-      "duration_ms": 215640,
-      "name": "Si No Vuelves",
-      "url": "https://open.spotify.com/track/3MIhs0pA6pSkFFdXWVVz03"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "La Diferencia",
-        "url": "https://open.spotify.com/album/1D0tKGeYGWAANfa1oCmBbS"
-      },
-      "artists": [
-        {
-          "name": "Wampi",
-          "url": "https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf"
-        },
-        {
-          "name": "Orlenis 22k",
-          "url": "https://open.spotify.com/artist/6ydjOvHh5NpnvDoNUUpj9s"
-        },
-        {
-          "name": "Ernesto Losa",
-          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
-        }
-      ],
-      "duration_ms": 174757,
-      "name": "La Diferencia",
-      "url": "https://open.spotify.com/track/5dSz3tq9yM9EY8FkT7Kdfp"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "NO ES LO QUE PARECE",
         "url": "https://open.spotify.com/album/1pMv2WnLf6GSiSL3pVki7O"
       },
@@ -471,22 +447,26 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Despu\u00e9s que Bailamos",
-        "url": "https://open.spotify.com/album/3zaUSGvWCskrMhSYPwZTEU"
+        "name": "La Diferencia",
+        "url": "https://open.spotify.com/album/1D0tKGeYGWAANfa1oCmBbS"
       },
       "artists": [
         {
-          "name": "Descemer Bueno",
-          "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
+          "name": "Wampi",
+          "url": "https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf"
         },
         {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+          "name": "Orlenis 22k",
+          "url": "https://open.spotify.com/artist/6ydjOvHh5NpnvDoNUUpj9s"
+        },
+        {
+          "name": "Ernesto Losa",
+          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
         }
       ],
-      "duration_ms": 225126,
-      "name": "Despu\u00e9s que Bailamos",
-      "url": "https://open.spotify.com/track/63cK3MeUeFDBoEe2IRdJbZ"
+      "duration_ms": 174757,
+      "name": "La Diferencia",
+      "url": "https://open.spotify.com/track/5dSz3tq9yM9EY8FkT7Kdfp"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -515,26 +495,42 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Funimate",
-        "url": "https://open.spotify.com/album/2dgkWbSbEGmiOERvceGOu9"
+        "name": "Muchacha",
+        "url": "https://open.spotify.com/album/1ToC2cIeaKdchZVfx6P3Mj"
       },
       "artists": [
         {
-          "name": "Charly & Johayron",
-          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
         },
         {
-          "name": "Pokercito",
-          "url": "https://open.spotify.com/artist/0HEBlBt0wpPln5krAyG0B4"
-        },
-        {
-          "name": "Ernesto Losa",
-          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
         }
       ],
-      "duration_ms": 195918,
-      "name": "Funimate - Prod. by Ernesto Losa",
-      "url": "https://open.spotify.com/track/3yGujUHHB1n3ZZw0VuERiL"
+      "duration_ms": 200689,
+      "name": "Muchacha",
+      "url": "https://open.spotify.com/track/2vI4SxtYqAQD5h1nSrqfKM"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Despu\u00e9s que Bailamos",
+        "url": "https://open.spotify.com/album/3zaUSGvWCskrMhSYPwZTEU"
+      },
+      "artists": [
+        {
+          "name": "Descemer Bueno",
+          "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
+        },
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        }
+      ],
+      "duration_ms": 225126,
+      "name": "Despu\u00e9s que Bailamos",
+      "url": "https://open.spotify.com/track/63cK3MeUeFDBoEe2IRdJbZ"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -583,22 +579,26 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Muchacha",
-        "url": "https://open.spotify.com/album/1ToC2cIeaKdchZVfx6P3Mj"
+        "name": "Funimate",
+        "url": "https://open.spotify.com/album/2dgkWbSbEGmiOERvceGOu9"
       },
       "artists": [
         {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+          "name": "Charly & Johayron",
+          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
         },
         {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+          "name": "Pokercito",
+          "url": "https://open.spotify.com/artist/0HEBlBt0wpPln5krAyG0B4"
+        },
+        {
+          "name": "Ernesto Losa",
+          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
         }
       ],
-      "duration_ms": 200689,
-      "name": "Muchacha",
-      "url": "https://open.spotify.com/track/2vI4SxtYqAQD5h1nSrqfKM"
+      "duration_ms": 195918,
+      "name": "Funimate - Prod. by Ernesto Losa",
+      "url": "https://open.spotify.com/track/3yGujUHHB1n3ZZw0VuERiL"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1015,22 +1015,26 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Dale Pa' Miami",
-        "url": "https://open.spotify.com/album/3pivUJGUg3vK0yqWFqsKer"
+        "name": "El Campe\u00f3n",
+        "url": "https://open.spotify.com/album/2wVjbn3TSUBnPOfvsiEbwV"
       },
       "artists": [
         {
-          "name": "El Chacal",
-          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
+          "name": "El Kimiko y Yordy",
+          "url": "https://open.spotify.com/artist/0DjHJO4Ez3nSVfhv8x95cn"
         },
         {
-          "name": "Jacob Forever",
-          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
+          "name": "Michel Boutic",
+          "url": "https://open.spotify.com/artist/1uac76BPb8mnvmQv6AtBZ9"
+        },
+        {
+          "name": "EL YORDY DK",
+          "url": "https://open.spotify.com/artist/4Sjaa8KPxSPX7VqcixAGn8"
         }
       ],
-      "duration_ms": 194274,
-      "name": "Dale Pa' Miami",
-      "url": "https://open.spotify.com/track/6Z3g1JRk0PL2UWGtWW1PxI"
+      "duration_ms": 168000,
+      "name": "El Campe\u00f3n",
+      "url": "https://open.spotify.com/track/4vUcoqQTwNQkkzb73UYh3L"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1063,22 +1067,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "El Gavilan",
-        "url": "https://open.spotify.com/album/0PIJm7nEq8hfMKp88XtR2E"
+        "name": "Dale Pa' Miami",
+        "url": "https://open.spotify.com/album/3pivUJGUg3vK0yqWFqsKer"
       },
       "artists": [
         {
-          "name": "El Taiger",
-          "url": "https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf"
+          "name": "El Chacal",
+          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
         },
         {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+          "name": "Jacob Forever",
+          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
         }
       ],
-      "duration_ms": 207013,
-      "name": "El Gavilan",
-      "url": "https://open.spotify.com/track/7fQb0rLMdcqIpuedld1yVp"
+      "duration_ms": 194274,
+      "name": "Dale Pa' Miami",
+      "url": "https://open.spotify.com/track/6Z3g1JRk0PL2UWGtWW1PxI"
     }
   ],
   "unique_name": "Cubat\u00f3n Miami",

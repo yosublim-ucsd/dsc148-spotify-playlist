@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 31415,
+  "num_followers": 31452,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTU4MzM5OTYzNGQ3MzE2NjcxZDViMTEzM2I2Mjg1NjEyMmNlN2Ji",
+  "snapshot_id": "MCw0MDA3NzYwZTQ4YzVmMjNmMWYzM2ZjNDA5NDU0MjdjZGU3OGVlNmYz",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Reach - The Ultimate Remixes",
-        "url": "https://open.spotify.com/album/2IXb90cY3iKreoOI2AukhR"
-      },
-      "artists": [
-        {
-          "name": "Lil' Mo' Yin Yang",
-          "url": "https://open.spotify.com/artist/631eaalga2JEGnouXxVkYT"
-        }
-      ],
-      "duration_ms": 472453,
-      "name": "Reach (Little \"More\" Mix)",
-      "url": "https://open.spotify.com/track/3sQ0bRfV85wfCWDNO9pOvi"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Zulu",
         "url": "https://open.spotify.com/album/4iVlfhatg1p0IlyUb2bMwo"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 474560,
       "name": "Zulu (Change Mix)",
       "url": "https://open.spotify.com/track/3K0HgKUzvMjggsHMWbq8EY"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Reach - The Ultimate Remixes",
+        "url": "https://open.spotify.com/album/2IXb90cY3iKreoOI2AukhR"
+      },
+      "artists": [
+        {
+          "name": "Lil' Mo' Yin Yang",
+          "url": "https://open.spotify.com/artist/631eaalga2JEGnouXxVkYT"
+        }
+      ],
+      "duration_ms": 472453,
+      "name": "Reach (Little \"More\" Mix)",
+      "url": "https://open.spotify.com/track/3sQ0bRfV85wfCWDNO9pOvi"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: Get Up (Mixed by Armand Van Helden)",
-        "url": "https://open.spotify.com/album/6sW08qvj1KH5UdDiuWSQ8L"
-      },
-      "artists": [
-        {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
-        }
-      ],
-      "duration_ms": 595093,
-      "name": "Witch Doktor (The Dark Ages Mix)",
-      "url": "https://open.spotify.com/track/5HOWxh7rS6kCumiu3xMIeN"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Strictly Hardrive",
         "url": "https://open.spotify.com/album/58gDcsComtrCGQGzSuD031"
       },
@@ -431,18 +415,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "I Get Lifted",
-        "url": "https://open.spotify.com/album/637NV5ZJkiEW3lQcFC3MB4"
+        "name": "The Lost Tapes: Get Up (Mixed by Armand Van Helden)",
+        "url": "https://open.spotify.com/album/6sW08qvj1KH5UdDiuWSQ8L"
       },
       "artists": [
         {
-          "name": "Barbara Tucker",
-          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
         }
       ],
-      "duration_ms": 433373,
-      "name": "I Get Lifted (The Underground Network Mix)",
-      "url": "https://open.spotify.com/track/07nT2GYH0JJbPwtWmrmJFf"
+      "duration_ms": 595093,
+      "name": "Witch Doktor (The Dark Ages Mix)",
+      "url": "https://open.spotify.com/track/5HOWxh7rS6kCumiu3xMIeN"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -479,6 +463,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "I Get Lifted",
+        "url": "https://open.spotify.com/album/637NV5ZJkiEW3lQcFC3MB4"
+      },
+      "artists": [
+        {
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+        }
+      ],
+      "duration_ms": 433373,
+      "name": "I Get Lifted (The Underground Network Mix)",
+      "url": "https://open.spotify.com/track/07nT2GYH0JJbPwtWmrmJFf"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Love Thang",
         "url": "https://open.spotify.com/album/7m858aBA434dkhlpOjEZEV"
       },
@@ -491,26 +491,6 @@
       "duration_ms": 325350,
       "name": "Love Thang (Cat Walk Mix)",
       "url": "https://open.spotify.com/track/7iJGDnFraHptEne6lfN6qv"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Witch Doktor (Eddie Thoneick Remix)",
-        "url": "https://open.spotify.com/album/4twj4eYghihhYHeVhM0TkM"
-      },
-      "artists": [
-        {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
-        },
-        {
-          "name": "Eddie Thoneick",
-          "url": "https://open.spotify.com/artist/5bZtLLqlPwps3vdb8ElAkt"
-        }
-      ],
-      "duration_ms": 442739,
-      "name": "Witch Doktor (Eddie Thoneick Remix)",
-      "url": "https://open.spotify.com/track/7xHUqMQfeiPUpQOlCxTYkY"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -547,6 +527,26 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Witch Doktor (Eddie Thoneick Remix)",
+        "url": "https://open.spotify.com/album/4twj4eYghihhYHeVhM0TkM"
+      },
+      "artists": [
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        {
+          "name": "Eddie Thoneick",
+          "url": "https://open.spotify.com/artist/5bZtLLqlPwps3vdb8ElAkt"
+        }
+      ],
+      "duration_ms": 442739,
+      "name": "Witch Doktor (Eddie Thoneick Remix)",
+      "url": "https://open.spotify.com/track/7xHUqMQfeiPUpQOlCxTYkY"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Break Night",
         "url": "https://open.spotify.com/album/4k0Sm7yG4yKx7wD0jAX1Ve"
       },
@@ -579,38 +579,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Curious",
-        "url": "https://open.spotify.com/album/1VLqSHhPv6mCfYdGvBFfHF"
-      },
-      "artists": [
-        {
-          "name": "Sun, Sun, Sun",
-          "url": "https://open.spotify.com/artist/2Yziwi8plWF5jFU8u477tj"
-        }
-      ],
-      "duration_ms": 441120,
-      "name": "Curious (Vocal Mix)",
-      "url": "https://open.spotify.com/track/7Mfn2DaQvcnvjfRb18c4g1"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "The Tribal - EP (Remixes)",
-        "url": "https://open.spotify.com/album/0zJyxO4jsvtADO6fyt4wdo"
-      },
-      "artists": [
-        {
-          "name": "River Ocean",
-          "url": "https://open.spotify.com/artist/07cAb715kzeqA6rVa0hh58"
-        }
-      ],
-      "duration_ms": 243920,
-      "name": "Love & Happiness (Yemaya Y Och\u00f9n) - Radio Edit",
-      "url": "https://open.spotify.com/track/5J51JZixTx08GKXwufn5Cw"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Blues for You",
         "url": "https://open.spotify.com/album/2HrwuxTYrSqZ1CZcyr1ODA"
       },
@@ -623,6 +591,22 @@
       "duration_ms": 377093,
       "name": "Blues for You (Vocal Mix #1)",
       "url": "https://open.spotify.com/track/6o96U40oTGxjZXGt8dcQis"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Curious",
+        "url": "https://open.spotify.com/album/1VLqSHhPv6mCfYdGvBFfHF"
+      },
+      "artists": [
+        {
+          "name": "Sun, Sun, Sun",
+          "url": "https://open.spotify.com/artist/2Yziwi8plWF5jFU8u477tj"
+        }
+      ],
+      "duration_ms": 441120,
+      "name": "Curious (Vocal Mix)",
+      "url": "https://open.spotify.com/track/7Mfn2DaQvcnvjfRb18c4g1"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -643,6 +627,22 @@
       "duration_ms": 523906,
       "name": "Generate Power (feat. Paula Brion) (Wild Pitch Mix)",
       "url": "https://open.spotify.com/track/1FJZ5ut6DOWiDwyUV7jWL6"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Tribal - EP (Remixes)",
+        "url": "https://open.spotify.com/album/0zJyxO4jsvtADO6fyt4wdo"
+      },
+      "artists": [
+        {
+          "name": "River Ocean",
+          "url": "https://open.spotify.com/artist/07cAb715kzeqA6rVa0hh58"
+        }
+      ],
+      "duration_ms": 243920,
+      "name": "Love & Happiness (Yemaya Y Och\u00f9n) - Radio Edit",
+      "url": "https://open.spotify.com/track/5J51JZixTx08GKXwufn5Cw"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/3BLGNLZATTflFNr861JgiQ"
-      },
-      "artists": [
-        {
-          "name": "James Roach",
-          "url": "https://open.spotify.com/artist/6rop3rDr8Dtl7uNwsONcyP"
-        }
-      ],
-      "duration_ms": 369461,
-      "name": "Special (Club Mix)",
-      "url": "https://open.spotify.com/track/7oOS89jZA2PS7YyvCf2A6m"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Rise from Your Grave",
         "url": "https://open.spotify.com/album/6AEiF5xNaPSp1PzYbHZwAe"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 396586,
       "name": "Rise from Your Grave (Wild pitch mix)",
       "url": "https://open.spotify.com/track/5TzX50pYcHt96ZlZzFAa67"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/3BLGNLZATTflFNr861JgiQ"
+      },
+      "artists": [
+        {
+          "name": "James Roach",
+          "url": "https://open.spotify.com/artist/6rop3rDr8Dtl7uNwsONcyP"
+        }
+      ],
+      "duration_ms": 369461,
+      "name": "Special (Club Mix)",
+      "url": "https://open.spotify.com/track/7oOS89jZA2PS7YyvCf2A6m"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -811,6 +811,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "The Swing Doctor",
+        "url": "https://open.spotify.com/album/00V3nccGV3eXjxWRPkmqmD"
+      },
+      "artists": [
+        {
+          "name": "The Untouchables",
+          "url": "https://open.spotify.com/artist/56T2velmlNdZj0izQHv0HF"
+        }
+      ],
+      "duration_ms": 343720,
+      "name": "Dance to the Rhythm",
+      "url": "https://open.spotify.com/track/27JQqhKAZ2LnQv2hZtumUb"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "The Warning (Remixes)",
         "url": "https://open.spotify.com/album/6MgegMKyBL5NjEkD9ITHVz"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 427132,
       "name": "Hey! (The Rhythm Hype Mix)",
       "url": "https://open.spotify.com/track/4sQ9FNrJOY0R8wwOnX8fUF"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "The Swing Doctor",
-        "url": "https://open.spotify.com/album/00V3nccGV3eXjxWRPkmqmD"
-      },
-      "artists": [
-        {
-          "name": "The Untouchables",
-          "url": "https://open.spotify.com/artist/56T2velmlNdZj0izQHv0HF"
-        }
-      ],
-      "duration_ms": 343720,
-      "name": "Dance to the Rhythm",
-      "url": "https://open.spotify.com/track/27JQqhKAZ2LnQv2hZtumUb"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Get Up",
-        "url": "https://open.spotify.com/album/4ZwpOTuIbV15jhyWfJMb7D"
-      },
-      "artists": [
-        {
-          "name": "Krimp",
-          "url": "https://open.spotify.com/artist/74yPSAR6dtOKgE7ZJhCvXz"
-        }
-      ],
-      "duration_ms": 410967,
-      "name": "Get Up",
-      "url": "https://open.spotify.com/track/2m69e2a2MVhTOpx1dVZDkz"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "The Beat That Makes U Move",
         "url": "https://open.spotify.com/album/5GyM1JW6iNfthvDAAuQZnX"
       },
@@ -1011,6 +995,38 @@
       "duration_ms": 458306,
       "name": "The Beat That Makes U Move (The Rhythm Hype Mix)",
       "url": "https://open.spotify.com/track/2un4L4HUr8Q17tHtehjM81"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Get Up",
+        "url": "https://open.spotify.com/album/4ZwpOTuIbV15jhyWfJMb7D"
+      },
+      "artists": [
+        {
+          "name": "Krimp",
+          "url": "https://open.spotify.com/artist/74yPSAR6dtOKgE7ZJhCvXz"
+        }
+      ],
+      "duration_ms": 410967,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/2m69e2a2MVhTOpx1dVZDkz"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
+        "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
+      },
+      "artists": [
+        {
+          "name": "Barbara Douglas",
+          "url": "https://open.spotify.com/artist/6lCEiSHsqoAZ61AiHbTw6w"
+        }
+      ],
+      "duration_ms": 260065,
+      "name": "Shine (Sundown Dub)",
+      "url": "https://open.spotify.com/track/20PGCMaMNwACzTtZGdiCBm"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1043,22 +1059,6 @@
       "duration_ms": 777623,
       "name": "Stay Together (Armand's ''Crazy'' Trauma Mix)",
       "url": "https://open.spotify.com/track/3WRopB0zlN46JeckfHUF3G"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
-        "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
-      },
-      "artists": [
-        {
-          "name": "Barbara Douglas",
-          "url": "https://open.spotify.com/artist/6lCEiSHsqoAZ61AiHbTw6w"
-        }
-      ],
-      "duration_ms": 260065,
-      "name": "Shine (Sundown Dub)",
-      "url": "https://open.spotify.com/track/20PGCMaMNwACzTtZGdiCBm"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
-        "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
-      },
-      "artists": [
-        {
-          "name": "Club Ultimate",
-          "url": "https://open.spotify.com/artist/6SU9ME8HxPeC8BWYGUPNiK"
-        }
-      ],
-      "duration_ms": 364347,
-      "name": "Carnival '95 (Pride Vocal Mix)",
-      "url": "https://open.spotify.com/track/5ZEFcwgWOta5rCobcLTUKO"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Alright (feat. Earl Bennett)",
         "url": "https://open.spotify.com/album/6Vvh6fiEizIRiigggApDXR"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 605294,
       "name": "Alright (feat. Earl Bennett) (BOP Journey Remix)",
       "url": "https://open.spotify.com/track/6W93D6tMKu7lyE4jjgxhcv"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
+        "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
+      },
+      "artists": [
+        {
+          "name": "Club Ultimate",
+          "url": "https://open.spotify.com/artist/6SU9ME8HxPeC8BWYGUPNiK"
+        }
+      ],
+      "duration_ms": 364347,
+      "name": "Carnival '95 (Pride Vocal Mix)",
+      "url": "https://open.spotify.com/track/5ZEFcwgWOta5rCobcLTUKO"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
-        "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
-      },
-      "artists": [
-        {
-          "name": "Mon\u00e9",
-          "url": "https://open.spotify.com/artist/4KXZDoqdMxd9S8nw7T6THK"
-        }
-      ],
-      "duration_ms": 334220,
-      "name": "We Can Make It (The \u2018I Believe' Dub)",
-      "url": "https://open.spotify.com/track/5Os1U3nFLRBZ7eB4QTTMmZ"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Everybody Dance",
         "url": "https://open.spotify.com/album/6cLUkcaFe8voggxAoWXEDS"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 479440,
       "name": "Everybody Dance (M.A.S. Club Vocal)",
       "url": "https://open.spotify.com/track/2kAjEH6vpzYTrp5vRnJkBE"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
+        "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
+      },
+      "artists": [
+        {
+          "name": "Mon\u00e9",
+          "url": "https://open.spotify.com/artist/4KXZDoqdMxd9S8nw7T6THK"
+        }
+      ],
+      "duration_ms": 334220,
+      "name": "We Can Make It (The \u2018I Believe' Dub)",
+      "url": "https://open.spotify.com/track/5Os1U3nFLRBZ7eB4QTTMmZ"
     },
     {
       "added_at": "2022-03-03 13:59:16",

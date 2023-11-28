@@ -1180,7 +1180,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 188235,
       "name": "Misege",
       "url": "https://open.spotify.com/track/6gi8P6lydT1Q4QuByWpbaf"
@@ -1238,6 +1238,24 @@
       "duration_ms": 169090,
       "name": "Muyaayu",
       "url": "https://open.spotify.com/track/68gQO1BECQ352XA7MQ1faT"
+    },
+    {
+      "album": {
+        "name": "My Bed",
+        "url": "https://open.spotify.com/album/7MoasxIIh6VkzbVYTuv8dO"
+      },
+      "artists": [
+        {
+          "name": "John Frog",
+          "url": "https://open.spotify.com/artist/08th4TGHS3uaStTDqOoyrE"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167428,
+      "name": "My Bed",
+      "url": "https://open.spotify.com/track/7lD0Y8t0dYmsjKcYlW08gc"
     },
     {
       "album": {
@@ -1474,7 +1492,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-27",
+      "date_removed": null,
       "duration_ms": 210364,
       "name": "Sikyegomba",
       "url": "https://open.spotify.com/track/1IufVzWMopUl7jajUAiJ6y"
@@ -1770,7 +1788,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 193959,
       "name": "Welcome",
       "url": "https://open.spotify.com/track/64i9EECIIkiccTlc0SJVDO"

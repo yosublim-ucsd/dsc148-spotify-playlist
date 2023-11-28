@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del mundo tropical. Cover: Moa Rivera",
-  "num_followers": 255832,
+  "num_followers": 255847,
   "original_name": "el nuevo tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOGI1MGI1ZTQ0MzJiYjE2Y2EyMTBhYTAzNzMzMTFlOTA2NzA0MmQx",
+  "snapshot_id": "MCxmNTQ2YmQ4MjdlNTk0NjYxYjJmOTY1M2I1NzY5OTEyYWVlYzA0YmQ1",
   "tracks": [
     {
       "added_at": "2023-11-24 06:56:26",
@@ -439,6 +439,22 @@
     {
       "added_at": "2023-11-24 06:56:26",
       "album": {
+        "name": "Don Juan",
+        "url": "https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 185734,
+      "name": "Procura",
+      "url": "https://open.spotify.com/track/2RXrX4BuyEPmmRCNzIJsYQ"
+    },
+    {
+      "added_at": "2023-11-24 06:56:26",
+      "album": {
         "name": "Si T\u00fa Me Quieres",
         "url": "https://open.spotify.com/album/74rEKU2G8oF2VRMjd14IcY"
       },
@@ -475,6 +491,22 @@
     {
       "added_at": "2023-11-24 06:56:26",
       "album": {
+        "name": "Una Vida Buena",
+        "url": "https://open.spotify.com/album/5Ol57xPflnNabnALfZehpW"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "Una Vida Buena",
+      "url": "https://open.spotify.com/track/6eMKYBh6GKb8QTjVmbpJJC"
+    },
+    {
+      "added_at": "2023-11-24 06:56:26",
+      "album": {
         "name": "CRIMINAL",
         "url": "https://open.spotify.com/album/3YdTZioBhiGLgxd7lFiHnB"
       },
@@ -495,22 +527,6 @@
     {
       "added_at": "2023-11-24 06:56:26",
       "album": {
-        "name": "Una Vida Buena",
-        "url": "https://open.spotify.com/album/5Ol57xPflnNabnALfZehpW"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "Una Vida Buena",
-      "url": "https://open.spotify.com/track/6eMKYBh6GKb8QTjVmbpJJC"
-    },
-    {
-      "added_at": "2023-11-24 06:56:26",
-      "album": {
         "name": "Mi Pecadito",
         "url": "https://open.spotify.com/album/2YsZcOI0c1Eyo0JlDAGwXD"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 197076,
       "name": "Mi Pecadito",
       "url": "https://open.spotify.com/track/5yrbKnKL9mKC61StX948w1"
-    },
-    {
-      "added_at": "2023-11-24 06:56:26",
-      "album": {
-        "name": "Don Juan",
-        "url": "https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 185734,
-      "name": "Procura",
-      "url": "https://open.spotify.com/track/2RXrX4BuyEPmmRCNzIJsYQ"
     },
     {
       "added_at": "2023-11-24 06:56:26",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-11-24 06:56:26",
       "album": {
-        "name": "Para Mi",
-        "url": "https://open.spotify.com/album/4EN6HX2xApPwC7nA7FjI7k"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 267953,
-      "name": "Para Mi",
-      "url": "https://open.spotify.com/track/3mUPsqEeq0GoIv1wSuivqf"
-    },
-    {
-      "added_at": "2023-11-24 06:56:26",
-      "album": {
         "name": "LA FALTA QUE ME HACES (Bachata Version)",
         "url": "https://open.spotify.com/album/0bBc5FTXAPIWwKWzX0oy6x"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 171391,
       "name": "LA FALTA QUE ME HACES - Bachata Version",
       "url": "https://open.spotify.com/track/2L7Fd4XIh0uxgqYoFt1pT3"
+    },
+    {
+      "added_at": "2023-11-24 06:56:26",
+      "album": {
+        "name": "Para Mi",
+        "url": "https://open.spotify.com/album/4EN6HX2xApPwC7nA7FjI7k"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 267953,
+      "name": "Para Mi",
+      "url": "https://open.spotify.com/track/3mUPsqEeq0GoIv1wSuivqf"
     },
     {
       "added_at": "2023-11-24 06:56:26",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-11-24 06:56:26",
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 214080,
+      "name": "Amor Sincero",
+      "url": "https://open.spotify.com/track/2ay6PrLaK03kYDh7EZIi7y"
+    },
+    {
+      "added_at": "2023-11-24 06:56:26",
+      "album": {
         "name": "AVENTURA",
         "url": "https://open.spotify.com/album/3j7rNxfmagpw3RlQjBJ1Pf"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 193059,
       "name": "AVENTURA",
       "url": "https://open.spotify.com/track/02vuof1sWGshy5yJG3HylY"
-    },
-    {
-      "added_at": "2023-11-24 06:56:26",
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 214080,
-      "name": "Amor Sincero",
-      "url": "https://open.spotify.com/track/2ay6PrLaK03kYDh7EZIi7y"
     },
     {
       "added_at": "2023-11-24 06:56:26",

@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 6384,
+  "num_followers": 6393,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTI1ZjA5NWQyNjE5YTY2Yjg1YjViZDFmNTMwOTQwMTIwOTkzZDli",
+  "snapshot_id": "MCxiMDU0MWQ0YzkzNmMxZDRjNDRkY2NkNGJjMTkxNDRjMDc1YzlhMzFk",
   "tracks": [
     {
       "added_at": "2023-11-09 23:00:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
-        "name": "The Green Stone",
-        "url": "https://open.spotify.com/album/37IJFAwNwGt5EV8aTw0E22"
-      },
-      "artists": [
-        {
-          "name": "Daniel Norgren",
-          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
-        }
-      ],
-      "duration_ms": 204840,
-      "name": "I Waited for You",
-      "url": "https://open.spotify.com/track/2wXD5gtf36FXnrbwnq9aYf"
-    },
-    {
-      "added_at": "2023-11-09 23:00:00",
-      "album": {
         "name": "Too Close",
         "url": "https://open.spotify.com/album/3262qPeujrLgKfe56wYFCO"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 273400,
       "name": "Pagan Run",
       "url": "https://open.spotify.com/track/7LwPaJBg7ySXzY5fQO3WbR"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
+        "name": "The Green Stone",
+        "url": "https://open.spotify.com/album/37IJFAwNwGt5EV8aTw0E22"
+      },
+      "artists": [
+        {
+          "name": "Daniel Norgren",
+          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
+        }
+      ],
+      "duration_ms": 204840,
+      "name": "I Waited for You",
+      "url": "https://open.spotify.com/track/2wXD5gtf36FXnrbwnq9aYf"
     },
     {
       "added_at": "2023-11-09 23:00:00",
@@ -607,26 +607,6 @@
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
-        "name": "Bluefinger",
-        "url": "https://open.spotify.com/album/7kyAYsfjmUrGMqPzWf84M1"
-      },
-      "artists": [
-        {
-          "name": "Bertolf",
-          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
-        },
-        {
-          "name": "Tim Knol",
-          "url": "https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K"
-        }
-      ],
-      "duration_ms": 202906,
-      "name": "Even The Bad Ends Badly",
-      "url": "https://open.spotify.com/track/1yoAJ7RJOf0j02C8Wi3H37"
-    },
-    {
-      "added_at": "2023-11-09 23:00:00",
-      "album": {
         "name": "Times",
         "url": "https://open.spotify.com/album/6RiH1JegZGAMd8lx4Jsw3l"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 244060,
       "name": "Times",
       "url": "https://open.spotify.com/track/2SihsYSOGwYDHMfd0riW4Y"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
+        "name": "Bluefinger",
+        "url": "https://open.spotify.com/album/7kyAYsfjmUrGMqPzWf84M1"
+      },
+      "artists": [
+        {
+          "name": "Bertolf",
+          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
+        },
+        {
+          "name": "Tim Knol",
+          "url": "https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K"
+        }
+      ],
+      "duration_ms": 202906,
+      "name": "Even The Bad Ends Badly",
+      "url": "https://open.spotify.com/track/1yoAJ7RJOf0j02C8Wi3H37"
     },
     {
       "added_at": "2023-11-09 23:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
-        "name": "Safe in the Suburbs",
-        "url": "https://open.spotify.com/album/3OdmbPibKSXzidDbgvRsPi"
-      },
-      "artists": [
-        {
-          "name": "Femke",
-          "url": "https://open.spotify.com/artist/5XEOJI2noMNu9v6f30cQ4w"
-        }
-      ],
-      "duration_ms": 178163,
-      "name": "Dead End Street",
-      "url": "https://open.spotify.com/track/2uu9JRbYg9IyjTvQoxG8zG"
-    },
-    {
-      "added_at": "2023-11-09 23:00:00",
-      "album": {
         "name": "Big Thing",
         "url": "https://open.spotify.com/album/747C2yuj2zve80VRWKgLJU"
       },
@@ -715,6 +699,22 @@
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
+        "name": "Safe in the Suburbs",
+        "url": "https://open.spotify.com/album/3OdmbPibKSXzidDbgvRsPi"
+      },
+      "artists": [
+        {
+          "name": "Femke",
+          "url": "https://open.spotify.com/artist/5XEOJI2noMNu9v6f30cQ4w"
+        }
+      ],
+      "duration_ms": 178163,
+      "name": "Dead End Street",
+      "url": "https://open.spotify.com/track/2uu9JRbYg9IyjTvQoxG8zG"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
         "name": "A Heightened Sense of Everything",
         "url": "https://open.spotify.com/album/5Ln1l27n8H7F1aVaYBEWng"
       },
@@ -727,6 +727,22 @@
       "duration_ms": 208440,
       "name": "Heat of the Moment",
       "url": "https://open.spotify.com/track/60wwe08CizhZJYDoFC8O1i"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
+        "name": "Take A Ride",
+        "url": "https://open.spotify.com/album/05FmZGsA5g6HqHBPU3CW9Q"
+      },
+      "artists": [
+        {
+          "name": "Sam Saxton",
+          "url": "https://open.spotify.com/artist/3Xbb6InMR77LO6hrWU1I04"
+        }
+      ],
+      "duration_ms": 213168,
+      "name": "Take A Ride",
+      "url": "https://open.spotify.com/track/5lv9ngCtTMuXD6FtEzTGzN"
     },
     {
       "added_at": "2023-11-09 23:00:00",
@@ -767,22 +783,6 @@
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
-        "name": "Take A Ride",
-        "url": "https://open.spotify.com/album/05FmZGsA5g6HqHBPU3CW9Q"
-      },
-      "artists": [
-        {
-          "name": "Sam Saxton",
-          "url": "https://open.spotify.com/artist/3Xbb6InMR77LO6hrWU1I04"
-        }
-      ],
-      "duration_ms": 213168,
-      "name": "Take A Ride",
-      "url": "https://open.spotify.com/track/5lv9ngCtTMuXD6FtEzTGzN"
-    },
-    {
-      "added_at": "2023-11-09 23:00:00",
-      "album": {
         "name": "For The Better Of Me",
         "url": "https://open.spotify.com/album/7kl4zINXzUgsaYpPNj61Jg"
       },
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
-        "name": "Love to See You Cry",
-        "url": "https://open.spotify.com/album/1mkAPib2Kb832r0UBu3OmD"
-      },
-      "artists": [
-        {
-          "name": "Robbert Duijf",
-          "url": "https://open.spotify.com/artist/479RX3LATApuM30lH2cemD"
-        }
-      ],
-      "duration_ms": 262286,
-      "name": "Love to See You Cry",
-      "url": "https://open.spotify.com/track/1OyaisllB9RSnmKa6tcPzY"
-    },
-    {
-      "added_at": "2023-11-09 23:00:00",
-      "album": {
         "name": "Too Much Of A Woman",
         "url": "https://open.spotify.com/album/2bT1OG1ABW8NzsFfoyhu0d"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 193503,
       "name": "Too Much Of A Woman",
       "url": "https://open.spotify.com/track/1kZno76kl0lVWni9SlncvW"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
+        "name": "Love to See You Cry",
+        "url": "https://open.spotify.com/album/1mkAPib2Kb832r0UBu3OmD"
+      },
+      "artists": [
+        {
+          "name": "Robbert Duijf",
+          "url": "https://open.spotify.com/artist/479RX3LATApuM30lH2cemD"
+        }
+      ],
+      "duration_ms": 262286,
+      "name": "Love to See You Cry",
+      "url": "https://open.spotify.com/track/1OyaisllB9RSnmKa6tcPzY"
     }
   ],
   "unique_name": "Route Americana",

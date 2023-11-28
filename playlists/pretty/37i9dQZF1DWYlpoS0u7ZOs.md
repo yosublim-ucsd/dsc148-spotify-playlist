@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 
 > The new wave of rock from the UK & Ireland\. Cover: Humane The Moon
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,129 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,138 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 79 | [Way, No Way](https://open.spotify.com/track/6cYLLMcgoRzSKPLHRtbk6e) | [Public Body](https://open.spotify.com/artist/0afEu0n4WzBeNOdyjfBU6X) | [Way, No Way](https://open.spotify.com/album/272UlvmzxL0Z6If8reDTrs) | 2:39 |
 | 80 | [fasterthanyourthoughts](https://open.spotify.com/track/3snoKKCrXliBRAPmKlJQiK) | [North Atlas](https://open.spotify.com/artist/3Ro0E3uacXuCx3iJoa8jua) | [fasterthanyourthoughts](https://open.spotify.com/album/1IASmWiXkPu2lfxNFqCiVv) | 3:10 |
 
-Snapshot ID: `MCxmNjNiOGExODNkNzRhMjJjZjk4MTUxYzBhNWFjZjQ0YTMxODM0N2Rj`
+Snapshot ID: `MCxmM2JjNzlmYTRmNWI3OGQ5ZmRkYjU4ZDIyOTE2ZGM3ZWViYWIyMDI4`

@@ -1,12 +1,12 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise.",
-  "num_followers": 68046,
+  "num_followers": 68132,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWQ3NTUxYTBjZjQyMTlhNDY2NGU2NDEwMjEwOTQ2NTdkZmMwMzAz",
+  "snapshot_id": "MCxlMGM4NWE1ZmFmZmVhODIzZmVmNWQ2NmFlY2RmMGU2NzI3YzhlOGRi",
   "tracks": [
     {
       "added_at": "2023-08-24 12:53:30",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-08-24 12:53:30",
       "album": {
-        "name": "Fran\u00e7oise Hardy (Tous les gar\u00e7ons et les filles)",
-        "url": "https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7oise Hardy",
-          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
-        }
-      ],
-      "duration_ms": 187746,
-      "name": "Tous les gar\u00e7ons et les filles - Slow",
-      "url": "https://open.spotify.com/track/0Yg1hSAUgd2AAneReFOVzS"
-    },
-    {
-      "added_at": "2023-08-24 12:53:30",
-      "album": {
         "name": "Samedi soir sur la terre (Remastered)",
         "url": "https://open.spotify.com/album/4KXrFpUXZO6e5RdZ70HaK8"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 278253,
       "name": "Je t'aimais, je t'aime, je t'aimerai - Remastered",
       "url": "https://open.spotify.com/track/1sTWIzAlg8HapeWz2fXvfJ"
+    },
+    {
+      "added_at": "2023-08-24 12:53:30",
+      "album": {
+        "name": "Fran\u00e7oise Hardy (Tous les gar\u00e7ons et les filles)",
+        "url": "https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7oise Hardy",
+          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
+        }
+      ],
+      "duration_ms": 187746,
+      "name": "Tous les gar\u00e7ons et les filles - Slow",
+      "url": "https://open.spotify.com/track/0Yg1hSAUgd2AAneReFOVzS"
     },
     {
       "added_at": "2023-08-24 12:53:30",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-08-24 12:53:30",
       "album": {
+        "name": "Ca ne tient pas debout (Remasteris\u00e9 en 2002)",
+        "url": "https://open.spotify.com/album/2X3NWw5yXoj2yJJIGvFhKM"
+      },
+      "artists": [
+        {
+          "name": "Michel Berger",
+          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
+        }
+      ],
+      "duration_ms": 396493,
+      "name": "Le paradis blanc - Remasteris\u00e9 en 2002",
+      "url": "https://open.spotify.com/track/6N6uTt8e1vLLgIZK5FgSYh"
+    },
+    {
+      "added_at": "2023-08-24 12:53:30",
+      "album": {
         "name": "Ch\u00e2telet les Halles",
         "url": "https://open.spotify.com/album/2l9EwdloXjCA7eece8OBpB"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 137160,
       "name": "Mon amie la rose",
       "url": "https://open.spotify.com/track/1rMX4XuW4KzgYlAyEaDmpO"
-    },
-    {
-      "added_at": "2023-08-24 12:53:30",
-      "album": {
-        "name": "Sentiments",
-        "url": "https://open.spotify.com/album/34zzJhaEHMgBndvceUHjoL"
-      },
-      "artists": [
-        {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
-        }
-      ],
-      "duration_ms": 199426,
-      "name": "Le bateau coule",
-      "url": "https://open.spotify.com/track/5LjlW19V9AQ4pg0ck0uvcO"
     },
     {
       "added_at": "2023-08-24 12:53:30",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-08-24 12:53:30",
       "album": {
-        "name": "Ca ne tient pas debout (Remasteris\u00e9 en 2002)",
-        "url": "https://open.spotify.com/album/2X3NWw5yXoj2yJJIGvFhKM"
-      },
-      "artists": [
-        {
-          "name": "Michel Berger",
-          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
-        }
-      ],
-      "duration_ms": 396493,
-      "name": "Le paradis blanc - Remasteris\u00e9 en 2002",
-      "url": "https://open.spotify.com/track/6N6uTt8e1vLLgIZK5FgSYh"
-    },
-    {
-      "added_at": "2023-08-24 12:53:30",
-      "album": {
         "name": "Un autre monde (Remastered)",
         "url": "https://open.spotify.com/album/0guFdTn3J3NhrS0TYYOUX2"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 258189,
       "name": "La vie ne m'apprend rien",
       "url": "https://open.spotify.com/track/6qdFHfgUPmngzK7oTeflgs"
+    },
+    {
+      "added_at": "2023-08-24 12:53:30",
+      "album": {
+        "name": "Sentiments",
+        "url": "https://open.spotify.com/album/34zzJhaEHMgBndvceUHjoL"
+      },
+      "artists": [
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        }
+      ],
+      "duration_ms": 199426,
+      "name": "Le bateau coule",
+      "url": "https://open.spotify.com/track/5LjlW19V9AQ4pg0ck0uvcO"
     },
     {
       "added_at": "2023-08-24 12:53:30",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-08-24 12:53:30",
       "album": {
-        "name": "Un air de rien",
-        "url": "https://open.spotify.com/album/54Vo3EOEPuq4ERdzyIU4cE"
-      },
-      "artists": [
-        {
-          "name": "Trois Caf\u00e9s Gourmands",
-          "url": "https://open.spotify.com/artist/4wngxtsP87ozrQh05D90dO"
-        }
-      ],
-      "duration_ms": 192544,
-      "name": "\u00c0 nos souvenirs - Pop Remix Radio Edit",
-      "url": "https://open.spotify.com/track/0K61sOINxMC8p8yFC2qU30"
-    },
-    {
-      "added_at": "2023-08-24 12:53:30",
-      "album": {
         "name": "Marc Lavoine",
         "url": "https://open.spotify.com/album/3rAiEREUQbY2YQUPpUJWcI"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 238746,
       "name": "Je ne veux qu'elle",
       "url": "https://open.spotify.com/track/0AwSGcHfNy5rRBIZTG4lfe"
+    },
+    {
+      "added_at": "2023-08-24 12:53:30",
+      "album": {
+        "name": "Un air de rien",
+        "url": "https://open.spotify.com/album/54Vo3EOEPuq4ERdzyIU4cE"
+      },
+      "artists": [
+        {
+          "name": "Trois Caf\u00e9s Gourmands",
+          "url": "https://open.spotify.com/artist/4wngxtsP87ozrQh05D90dO"
+        }
+      ],
+      "duration_ms": 192544,
+      "name": "\u00c0 nos souvenirs - Pop Remix Radio Edit",
+      "url": "https://open.spotify.com/track/0K61sOINxMC8p8yFC2qU30"
     },
     {
       "added_at": "2023-08-24 12:53:30",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-08-24 12:53:30",
       "album": {
-        "name": "Le coeur grenadine",
-        "url": "https://open.spotify.com/album/1Rk16GLTOxgDyfJkUDWFot"
-      },
-      "artists": [
-        {
-          "name": "Laurent Voulzy",
-          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
-        }
-      ],
-      "duration_ms": 347520,
-      "name": "Le coeur grenadine",
-      "url": "https://open.spotify.com/track/2OWUD3BSV3yyuYYSpDBhwb"
-    },
-    {
-      "added_at": "2023-08-24 12:53:30",
-      "album": {
         "name": "Je ne chante pas pour passer le temps",
         "url": "https://open.spotify.com/album/7N1p95delnJ0Rqn7vndbjD"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 186026,
       "name": "Manque d'Amour",
       "url": "https://open.spotify.com/track/3AtdizIe78tjWmbyZbgIoV"
+    },
+    {
+      "added_at": "2023-08-24 12:53:30",
+      "album": {
+        "name": "Le coeur grenadine",
+        "url": "https://open.spotify.com/album/1Rk16GLTOxgDyfJkUDWFot"
+      },
+      "artists": [
+        {
+          "name": "Laurent Voulzy",
+          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
+        }
+      ],
+      "duration_ms": 347520,
+      "name": "Le coeur grenadine",
+      "url": "https://open.spotify.com/track/2OWUD3BSV3yyuYYSpDBhwb"
     },
     {
       "added_at": "2023-08-24 12:53:30",

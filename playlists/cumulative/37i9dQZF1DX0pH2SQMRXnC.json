@@ -147,6 +147,32 @@
     },
     {
       "album": {
+        "name": "Adrenaline Overload",
+        "url": "https://open.spotify.com/album/4Mfm6EyEDSRwVy2gFd5jr2"
+      },
+      "artists": [
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        },
+        {
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+        },
+        {
+          "name": "Adjuzt",
+          "url": "https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197471,
+      "name": "Adrenaline Overload",
+      "url": "https://open.spotify.com/track/1iD09eMQvJIxlT3ZaomPpx"
+    },
+    {
+      "album": {
         "name": "Adrenaline Rush",
         "url": "https://open.spotify.com/album/5DTRttW1jq1bIzc298rvg4"
       },
@@ -240,7 +266,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 185600,
       "name": "All Night (feat. Ally Brooke) - Zero Days Remix",
       "url": "https://open.spotify.com/track/2afCjVAtVunsZMXlC4O6Ck"
@@ -3470,7 +3496,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 206900,
       "name": "Everybody Dance Now",
       "url": "https://open.spotify.com/track/2KhdaSCtP7AXW4x9WypfxU"
@@ -4916,7 +4942,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-26",
+      "date_removed": null,
       "duration_ms": 265489,
       "name": "Going Under",
       "url": "https://open.spotify.com/track/0RoQmGvoaqrE8pkfB5bQtq"
@@ -7546,7 +7572,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-22",
+      "date_removed": null,
       "duration_ms": 207230,
       "name": "Marble - Marc Blou Remix",
       "url": "https://open.spotify.com/track/68D3lp57w0TBdJd8Z64Exi"
@@ -9312,7 +9338,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 196645,
       "name": "Popcorn",
       "url": "https://open.spotify.com/track/2WEAjQeoTRm7T3leqV2YfQ"

@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-111 songs - 4 hr 59 min
+112 songs - 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Evening meditation](https://open.spotify.com/track/3hk0ICZCX8X0xGvel6hkyj) | [Carl Faber](https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN) | [Evening meditation](https://open.spotify.com/album/4lcEdJhSpYvbF5srsqyz9u) | 2:09 | 2023-07-21 |  |
 | [Forest Dreams \(432 Hz\)](https://open.spotify.com/track/1eLXhJf2bLfeghNsz7FpxV) | [Orvalis](https://open.spotify.com/artist/0PEVq7ryAUqJhVdgfiBSXz) | [Forest Dreams \(432 Hz\)](https://open.spotify.com/album/7B50BUzP7oYe4I4guHZonZ) | 2:54 | 2023-10-26 |  |
 | [Forgotten letters](https://open.spotify.com/track/1ZCeUv9xi2ZPuRbLBXfNaR) | [My Dream Escape](https://open.spotify.com/artist/4X3g5HpVJZUww98e0Qf39d) | [Back to life](https://open.spotify.com/album/79BCV4DaRDOXHyLlljIvVS) | 2:21 | 2023-03-03 |  |
-| [Giardino Di Corde](https://open.spotify.com/track/6yMAHBIAadsh7lM5ISrSzt) | [Moshi Moshi Desu](https://open.spotify.com/artist/1zbyUVPuDN3PDtJA0WlWFI) | [Giardino Di Corde](https://open.spotify.com/album/68jzD6LRy7YFOXvrlnGpDR) | 2:41 | 2023-10-26 |  |
+| [Giardino Di Corde](https://open.spotify.com/track/6yMAHBIAadsh7lM5ISrSzt) | [Moshi Moshi Desu](https://open.spotify.com/artist/1zbyUVPuDN3PDtJA0WlWFI) | [Giardino Di Corde](https://open.spotify.com/album/68jzD6LRy7YFOXvrlnGpDR) | 2:41 | 2023-10-26 | 2023-11-28 |
 | [Godric](https://open.spotify.com/track/4UzCqaekJitDWMpejVwnZa) | [Hondos Rostros](https://open.spotify.com/artist/1GkARSHIynvDFV4eyUZvhC) | [Godric](https://open.spotify.com/album/48nN109FvJCU8OqD7U18wm) | 3:01 | 2023-03-03 |  |
 | [Grave](https://open.spotify.com/track/4GiPnXSuZCJbnxrZBvRW41) | [Rudhek Caren](https://open.spotify.com/artist/1MGdzDdzcoWcMmC7MvjqME) | [Grave](https://open.spotify.com/album/7qj6wjs7Fm5WQjxIE9nN9W) | 2:54 | 2023-03-03 |  |
 | [Heart of Hearts](https://open.spotify.com/track/2h7YEqosJcXhHFLVV1JmNI) | [Eliza Kloppers](https://open.spotify.com/artist/7FtlLUFJoqOM8Q4ZIYlNcF) | [Heart of Hearts](https://open.spotify.com/album/5WIM8iKTO78MHDDYFF6D0A) | 2:08 | 2023-03-03 |  |
@@ -94,6 +94,7 @@
 | [Rays of Sunshine](https://open.spotify.com/track/44mxjw5BP9Oj9pJBOZmLUV) | [Logan Collier](https://open.spotify.com/artist/5vTfIKgJyV3oLVyxd7CiZ1) | [At Dawn](https://open.spotify.com/album/7DgsDQ6bxgZQxRQf9jigzg) | 2:32 | 2023-03-03 |  |
 | [Raðljóst](https://open.spotify.com/track/5J617lX3koBmpHLZjgRmmB) | [Kolbrun Stiger](https://open.spotify.com/artist/3SCgJVq21LTIQ922B7hCHT) | [Raðljóst](https://open.spotify.com/album/2tjRIDpABNLXdgdCUoN8xa) | 2:15 | 2023-03-03 |  |
 | [Relaxing Dreams](https://open.spotify.com/track/1sVSK4sDadVzioPciymr00) | [Mamá Valiente](https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV) | [Relaxing Dreams](https://open.spotify.com/album/5vVwGskg1XG5oRrgbAYFZ4) | 4:41 | 2023-03-03 |  |
+| [Remain In Light \(432 Hz Sound Bath\)](https://open.spotify.com/track/0oN2nYpBnQTFcl5DQdDqZl) | [Baba Hall](https://open.spotify.com/artist/2mcRfqvRv9XFXnTmKMFRuV) | [Remain In Light \(432 Hz Sound Bath\)](https://open.spotify.com/album/68fnzlJrQwjBXCBSHQhwiI) | 3:04 | 2023-11-18 |  |
 | [Remember me](https://open.spotify.com/track/3uVdeCAoIivelt5GnO9ALh) | [Heather Riley](https://open.spotify.com/artist/3HhS9TOcCQKFAGLpe2uByV) | [Stillness](https://open.spotify.com/album/0tHMoVyt7PcxXeJHdC3GHU) | 3:19 | 2023-03-03 | 2023-07-22 |
 | [Returning Home](https://open.spotify.com/track/1ClUmEEJYoDemcIPQQIODw) | [A Long Story](https://open.spotify.com/artist/1RFdkmm7AtmHeZTrdoJOFI) | [Returning Home](https://open.spotify.com/album/7xgg2hiwbvf5ZTXLfbxP1L) | 2:28 | 2023-03-03 |  |
 | [Rhizome](https://open.spotify.com/track/351e6h8azojdBQ9IVoCZSj) | [Cierna Sobre Ti](https://open.spotify.com/artist/3B4uijr2TavmmonBtJgcW9) | [Rhizome](https://open.spotify.com/album/0NzS4TXtxjpOZOtGLLYyNt) | 2:08 | 2023-03-03 |  |

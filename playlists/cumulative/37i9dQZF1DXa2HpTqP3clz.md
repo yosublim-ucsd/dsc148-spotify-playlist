@@ -4,7 +4,7 @@
 
 > Today's Bluegrass and old time favorites\. Cover: Willie Nelson
 
-492 songs - 1 day 5 hr 35 min
+493 songs - 1 day 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,7 +222,7 @@
 | [In the Sweet by and By](https://open.spotify.com/track/6gJkNZt514JO7YR6dxS4JE) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Larry Cordle](https://open.spotify.com/artist/2FTZtjNxkvPnXU0XoMYedM), [Carl Jackson](https://open.spotify.com/artist/2Z983rZwtk7awKHxQprGLE), [Jerry Salley](https://open.spotify.com/artist/0vkoBzaQQvNfgn8wejIwtH), [Bradley Walker](https://open.spotify.com/artist/3WDUptC9KS6ZFNwkZipSlQ) | [In the Sweet by and By](https://open.spotify.com/album/7JZHTqJuqfFQDBqV0GqTE5) | 3:55 | 2021-12-17 | 2023-05-16 |
 | [Into the Fire](https://open.spotify.com/track/0RjqoAsp5jmUVliLaCWuvt) | [Yonder Mountain String Band](https://open.spotify.com/artist/1ReHC2jB2DGoPbMYhzuFuO) | [Into the Fire](https://open.spotify.com/album/11VbCENTERIqVpyGyBzZDT) | 2:38 | 2022-01-14 | 2022-07-29 |
 | [It's Ok to Be Ok](https://open.spotify.com/track/5SRzstZJ8egKOWygrbzg6Z) | [Billy Droze](https://open.spotify.com/artist/0cEVa3IBa2Bp5wwE98JFR1) | [It's Ok to Be Ok](https://open.spotify.com/album/6bONS6DYfnDWFh6pUsjU5i) | 2:50 | 2023-08-18 | 2023-09-02 |
-| [It's Worth a Shot](https://open.spotify.com/track/4UTGvhVv2iApOaZach2nq4) | [Chris Davis](https://open.spotify.com/artist/50lzSjoZNrGLCsvhlrLGBf) | [It's Worth a Shot](https://open.spotify.com/album/3rnbJV4dBapXj600Vh43u5) | 2:25 | 2023-09-15 |  |
+| [It's Worth a Shot](https://open.spotify.com/track/4UTGvhVv2iApOaZach2nq4) | [Chris Davis](https://open.spotify.com/artist/50lzSjoZNrGLCsvhlrLGBf) | [It's Worth a Shot](https://open.spotify.com/album/3rnbJV4dBapXj600Vh43u5) | 2:25 | 2023-09-15 | 2023-11-28 |
 | [I’ll Trade You Money for Wine](https://open.spotify.com/track/6hsinmvODBmxLaIeY6t69u) | [Laura Orshaw](https://open.spotify.com/artist/0AGDlPc4c5TUpNltDn99es) | [Solitary Diamond](https://open.spotify.com/album/6D8vEKCtmObKJZaCF86uBu) | 4:11 | 2022-07-15 | 2022-07-18 |
 | [I’ve Been A Long Time Leavin' \(But I’ll Be A Long Time Gone\)](https://open.spotify.com/track/1xITcjwUzUJL4zoZmBB0PZ) | [Noam Pikelny](https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C) | [Universal Favorite](https://open.spotify.com/album/72BjHzwfZXDbxm1HuiXcAo) | 2:49 | 2021-12-17 | 2022-07-17 |
 | [Jenny Put the Kettle On](https://open.spotify.com/track/1r65QhZcekR3BWfwkjIf6I) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Long Time To Be Gone](https://open.spotify.com/album/57Vu4douVKyoHc5Asa2LHM) | 2:00 | 2022-09-30 |  |
@@ -465,6 +465,7 @@
 | [What the Years Do](https://open.spotify.com/track/460M2nfu0pI3JpGfT3CWdB) | [Balsam Range](https://open.spotify.com/artist/18iUQdDfdsusFp9Qtt2NPU) | [What the Years Do](https://open.spotify.com/album/3XU0wy0OBrqc3ewwtV1K5T) | 3:20 | 2023-03-24 | 2023-05-27 |
 | [What's It Gonna Take](https://open.spotify.com/track/0cUNw4XQ0KnITQnB6OibPp) | [Anya Hinkle](https://open.spotify.com/artist/6g2FWv22yEWMqEiaEv5CNc), [Graham Sharp](https://open.spotify.com/artist/2VgjLUdJQfjmjy4qFSeftQ) | [What's It Gonna Take](https://open.spotify.com/album/2KB4XKjxrDHZVR44CNkeJQ) | 4:21 | 2021-12-17 | 2022-07-27 |
 | [Wheels Up \(feat\. Sierra Hull & Molly Tuttle\)](https://open.spotify.com/track/38yl3Y2LbWFmphbaVwvKEy) | [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Wheels Up \(feat\. Sierra Hull & Molly Tuttle\)](https://open.spotify.com/album/0GtT7uD8ebTxZ26ExOksy9) | 4:15 | 2021-12-17 | 2023-04-17 |
+| [Wheels Up \(feat\. Sierra Hull & Molly Tuttle\)](https://open.spotify.com/track/6Ws3pJjE9MeiR8WYEC4hPw) | [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [My Bluegrass Heart](https://open.spotify.com/album/1vO0hRLuOKXKHrMbDBlJjc) | 4:15 | 2023-11-24 |  |
 | [When Doves Cry \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/4LLTqpc4ywNrx89seBQi3w) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Spotify Singles](https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk) | 4:40 | 2021-12-17 | 2022-03-09 |
 | [When I Called Your Name](https://open.spotify.com/track/2TcQNrWgi2rAxsTHwQ6OuM) | [Twisted Pine](https://open.spotify.com/artist/1hS8I57cnaheZpt7Tdn6ps) | [Twisted Pine](https://open.spotify.com/album/3pzEwIDAmxn4ggEI9OOtv9) | 4:12 | 2021-12-17 | 2022-07-28 |
 | [When I Called Your Name](https://open.spotify.com/track/5TqVxkKAbdoc4iyShy5tTq) | [Twisted Pine](https://open.spotify.com/artist/1hS8I57cnaheZpt7Tdn6ps) | [Twisted Pine](https://open.spotify.com/album/0Wqmu0yvCdbcd9Vgsq3G3i) | 4:12 | 2023-06-02 |  |

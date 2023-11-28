@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > Emerging Indie artists on the rise, updated every Wednesday\. Cover: Dhrriti Saharan, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,073 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,094 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 99 | [Kya Yahi Pyaar Hai](https://open.spotify.com/track/2HBweUKvBcz29XyTeg4SSU) | [Siddharth Shankar](https://open.spotify.com/artist/6roxP5M84xcpoaph2UdJpu) | [Kya Yahi Pyaar Hai](https://open.spotify.com/album/3KYGaPdcmOHB5bNNABh9AW) | 3:13 |
 | 100 | [Sandesa](https://open.spotify.com/track/6By28l3OmPVa2tFFgQD0zt) | [Avanti Patel](https://open.spotify.com/artist/4LPRI62WeBuYjw3MA4GTqf) | [Sandesa](https://open.spotify.com/album/4ReEpnPrFF5NyZQGlpGgJa) | 3:43 |
 
-Snapshot ID: `MCxiMmFhZDQ1M2U5MTExNzM5MWVlNDJiMDQ4YjJiMjMwYzgwMDE3Yjg3`
+Snapshot ID: `MCxlOThhYzFiMzMzOWVjMWM2NWMxNzY2MjQwMjkwZmM0YmE3YmViMTI3`

@@ -1,13 +1,29 @@
 {
   "description": "The freshest tech house &amp; techno music, updated every friday \ud83d\udd25\ud83d\udd0a | tech house - house - techno - rave - party - bangers - tiktok techno - dance | Submit via Instagram: @subshiftmusic",
-  "num_followers": 6882,
+  "num_followers": 6894,
   "original_name": "Tech House Shifters",
   "owner": {
     "name": "SUBSHIFT",
     "url": "https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv"
   },
-  "snapshot_id": "Nzk5MiwyMWQzZmFjODFhNDdlNjhmMDU0YWE5NDFkYTdlZmM1MTE4YjQ4MjVi",
+  "snapshot_id": "ODAwOCxhOGNhNTE2MGFlZDU2ZDM2NTBkOTliNzE1MzVmMDdjZWJlZDE0YTc1",
   "tracks": [
+    {
+      "added_at": "2023-11-27 20:07:39",
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/4Uu6sM4mJHwy1pua81o6hT"
+      },
+      "artists": [
+        {
+          "name": "VOLAC",
+          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
+        }
+      ],
+      "duration_ms": 185538,
+      "name": "High",
+      "url": "https://open.spotify.com/track/3JvDVTzvFtboA4gxCDmURc"
+    },
     {
       "added_at": "2023-11-17 10:05:27",
       "album": {
@@ -93,6 +109,22 @@
       "url": "https://open.spotify.com/track/4xTFiSi0CmH8hrkMeMGca4"
     },
     {
+      "added_at": "2023-11-27 20:07:25",
+      "album": {
+        "name": "Share My Love",
+        "url": "https://open.spotify.com/album/7F2T19MHij604pwdnvA9qc"
+      },
+      "artists": [
+        {
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+        }
+      ],
+      "duration_ms": 219375,
+      "name": "Share My Love",
+      "url": "https://open.spotify.com/track/5ty8HYH9f1xQuWoPuijYXf"
+    },
+    {
       "added_at": "2023-11-17 10:08:32",
       "album": {
         "name": "Wrop",
@@ -141,6 +173,22 @@
       "url": "https://open.spotify.com/track/2byx7sBtIIUnzEdqcCfPB2"
     },
     {
+      "added_at": "2023-11-27 20:12:34",
+      "album": {
+        "name": "Do It Like Me",
+        "url": "https://open.spotify.com/album/2nrliuY92znfzFnihbY20f"
+      },
+      "artists": [
+        {
+          "name": "Logan Camin",
+          "url": "https://open.spotify.com/artist/1ZYrw1flEe0vZfDwE94G7o"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "Do It Like Me",
+      "url": "https://open.spotify.com/track/3xgNqQJ6GCMb6kRZyLvnyz"
+    },
+    {
       "added_at": "2023-11-17 10:05:42",
       "album": {
         "name": "Stompin'",
@@ -175,6 +223,22 @@
       "duration_ms": 211586,
       "name": "Better Recognize",
       "url": "https://open.spotify.com/track/1ME5pFc81YOLOrcV1Z4Ovb"
+    },
+    {
+      "added_at": "2023-11-27 20:12:28",
+      "album": {
+        "name": "Give It To Me",
+        "url": "https://open.spotify.com/album/5ol8zJUZtmGGdEkLBxobeN"
+      },
+      "artists": [
+        {
+          "name": "Luigi Sestan",
+          "url": "https://open.spotify.com/artist/2sbn0bsxZWFmn0oLGyvQmq"
+        }
+      ],
+      "duration_ms": 184776,
+      "name": "Give It To Me",
+      "url": "https://open.spotify.com/track/7F9MOGnOYLnc1oVKtTwUDZ"
     },
     {
       "added_at": "2023-11-17 23:32:20",
@@ -225,38 +289,6 @@
       "url": "https://open.spotify.com/track/5rsxpe0Jqg804aRryqw7Hs"
     },
     {
-      "added_at": "2023-11-17 10:05:58",
-      "album": {
-        "name": "If These Walls Could Talk EP",
-        "url": "https://open.spotify.com/album/4abW8Bpxhe1F4n7Aw9eQMc"
-      },
-      "artists": [
-        {
-          "name": "Bryan Softwell",
-          "url": "https://open.spotify.com/artist/3BoPm6NYFfRsuJplyNuUzf"
-        }
-      ],
-      "duration_ms": 367250,
-      "name": "If These Walls Could Talk",
-      "url": "https://open.spotify.com/track/7JlAyP7iel14JmHM01iNHb"
-    },
-    {
-      "added_at": "2023-11-17 10:06:01",
-      "album": {
-        "name": "System EP",
-        "url": "https://open.spotify.com/album/10sdLjtJkKLiFE7Ohmm3Oh"
-      },
-      "artists": [
-        {
-          "name": "SQWAD",
-          "url": "https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI"
-        }
-      ],
-      "duration_ms": 320000,
-      "name": "System",
-      "url": "https://open.spotify.com/track/1Xio5cQPFkGh1RZOBlOPVO"
-    },
-    {
       "added_at": "2023-10-27 08:47:50",
       "album": {
         "name": "Freak Out",
@@ -277,66 +309,6 @@
       "url": "https://open.spotify.com/track/42w1i3guWLaz1VeEJUsbL0"
     },
     {
-      "added_at": "2023-11-17 10:05:37",
-      "album": {
-        "name": "Balkan EP",
-        "url": "https://open.spotify.com/album/5JsA1GvTSj2I0KobGuNN34"
-      },
-      "artists": [
-        {
-          "name": "CASHEW",
-          "url": "https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw"
-        }
-      ],
-      "duration_ms": 142500,
-      "name": "Balkan",
-      "url": "https://open.spotify.com/track/1i0ZQ72AAnVIL0FbZGAvRX"
-    },
-    {
-      "added_at": "2023-11-17 10:06:09",
-      "album": {
-        "name": "Marabunta",
-        "url": "https://open.spotify.com/album/5rYvsI7is4N4aNBb10K8ut"
-      },
-      "artists": [
-        {
-          "name": "Jargen",
-          "url": "https://open.spotify.com/artist/7eNmYIb1F1EUjKBc4UIJBl"
-        },
-        {
-          "name": "Sliipow",
-          "url": "https://open.spotify.com/artist/5nx5ccWrSWtJIpxjcCplLx"
-        },
-        {
-          "name": "Roman",
-          "url": "https://open.spotify.com/artist/4JtSkt6BHUs5KCXI8dzuLg"
-        }
-      ],
-      "duration_ms": 375063,
-      "name": "Marabunta",
-      "url": "https://open.spotify.com/track/7Gj66OhPqcQYMTt1ZFqS2N"
-    },
-    {
-      "added_at": "2023-11-17 10:06:18",
-      "album": {
-        "name": "Reality",
-        "url": "https://open.spotify.com/album/4kWFFzMvmeHXxPuy1wkZur"
-      },
-      "artists": [
-        {
-          "name": "Hollaphonic",
-          "url": "https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi"
-        },
-        {
-          "name": "LOOZBONE",
-          "url": "https://open.spotify.com/artist/41mgVbCJxhUtr9o9EpRchx"
-        }
-      ],
-      "duration_ms": 190476,
-      "name": "Reality",
-      "url": "https://open.spotify.com/track/1h9fBicKm7MMRyKvZyfWx7"
-    },
-    {
       "added_at": "2023-11-17 10:06:20",
       "album": {
         "name": "Let's Get It Started",
@@ -351,42 +323,6 @@
       "duration_ms": 338000,
       "name": "Let's Get It Started",
       "url": "https://open.spotify.com/track/6FBdnBnsJlwbDwQIW4oC1G"
-    },
-    {
-      "added_at": "2023-11-17 10:06:28",
-      "album": {
-        "name": "So Many Things",
-        "url": "https://open.spotify.com/album/4Q94mDdckL71bS0wBrGyMX"
-      },
-      "artists": [
-        {
-          "name": "Jewel Kid",
-          "url": "https://open.spotify.com/artist/7eoJbho2ohpRTHDjZjkMTB"
-        }
-      ],
-      "duration_ms": 180062,
-      "name": "So Many Things",
-      "url": "https://open.spotify.com/track/7GFmcdwDWWyCHWlJCpITbt"
-    },
-    {
-      "added_at": "2023-11-17 10:06:32",
-      "album": {
-        "name": "Rave W U",
-        "url": "https://open.spotify.com/album/4d4kanxcEjZMbpr83g9UDs"
-      },
-      "artists": [
-        {
-          "name": "Boss Doms",
-          "url": "https://open.spotify.com/artist/57aMHpsX2SXTbLatmeEd6j"
-        },
-        {
-          "name": "Siwell",
-          "url": "https://open.spotify.com/artist/3ktDOdSifPv7lXzeyXX1J1"
-        }
-      ],
-      "duration_ms": 146173,
-      "name": "Rave W U",
-      "url": "https://open.spotify.com/track/6vKgZyVTXpHSHcHVIgvq9Y"
     },
     {
       "added_at": "2023-03-10 08:29:37",
@@ -449,6 +385,22 @@
       "url": "https://open.spotify.com/track/6jb6JbRfw2USnHQ0cWVHg8"
     },
     {
+      "added_at": "2023-11-27 20:12:30",
+      "album": {
+        "name": "Heart",
+        "url": "https://open.spotify.com/album/7qwlGvvA5lbP0OKm4JrGi4"
+      },
+      "artists": [
+        {
+          "name": "GRIT.",
+          "url": "https://open.spotify.com/artist/5M41KGHlIjUq3TjEjiESWU"
+        }
+      ],
+      "duration_ms": 399375,
+      "name": "Heart",
+      "url": "https://open.spotify.com/track/3wGShU8vholQrEuDgpzM20"
+    },
+    {
       "added_at": "2023-11-17 10:06:41",
       "album": {
         "name": "All U Freaks",
@@ -493,48 +445,20 @@
       "url": "https://open.spotify.com/track/4X4N9Oqw4BMOzZubKscOF1"
     },
     {
-      "added_at": "2023-11-17 10:06:56",
+      "added_at": "2023-11-27 20:12:36",
       "album": {
-        "name": "Body Moving",
-        "url": "https://open.spotify.com/album/5EcypjAXyzxlrF5AKCNg9K"
+        "name": "STPH ADE Sampler 2023",
+        "url": "https://open.spotify.com/album/1ZspmtdtYhUI39CJg1bnM0"
       },
       "artists": [
         {
-          "name": "Eliza Rose",
-          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
-        },
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+          "name": "AUSMAX",
+          "url": "https://open.spotify.com/artist/3AflwtZig4N638X8CoAztJ"
         }
       ],
-      "duration_ms": 154215,
-      "name": "Body Moving",
-      "url": "https://open.spotify.com/track/5SFCEkybGYmmzKqewtDEaN"
-    },
-    {
-      "added_at": "2023-11-17 10:07:10",
-      "album": {
-        "name": "Come Come",
-        "url": "https://open.spotify.com/album/2A4mUTOsIWWxsde9WDcj0v"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Tube & Berger",
-          "url": "https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h"
-        },
-        {
-          "name": "Kyle Pearce",
-          "url": "https://open.spotify.com/artist/1e5T955wZa6GSsBXgm4hlR"
-        }
-      ],
-      "duration_ms": 184596,
-      "name": "Come Come",
-      "url": "https://open.spotify.com/track/2vGpCrWU9nAvs2CFhw5TsA"
+      "duration_ms": 182778,
+      "name": "My Mind",
+      "url": "https://open.spotify.com/track/2ZEU7Lc3Y8NuVbl8Jh58uQ"
     },
     {
       "added_at": "2023-04-07 08:57:21",
@@ -551,22 +475,6 @@
       "duration_ms": 215284,
       "name": "Breakout",
       "url": "https://open.spotify.com/track/2cevf1aWBm8JcRiVCLv4OM"
-    },
-    {
-      "added_at": "2023-11-17 10:07:19",
-      "album": {
-        "name": "Haze EP",
-        "url": "https://open.spotify.com/album/4s208ZjKKt2tbSVD5EzKuF"
-      },
-      "artists": [
-        {
-          "name": "Alex Wann",
-          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
-        }
-      ],
-      "duration_ms": 183934,
-      "name": "Haze",
-      "url": "https://open.spotify.com/track/1OJnrgbXv3YxEwgw9cDawF"
     },
     {
       "added_at": "2023-11-17 10:07:26",
@@ -605,64 +513,20 @@
       "url": "https://open.spotify.com/track/0Hfss4Bbjukqm44GRxsJvF"
     },
     {
-      "added_at": "2023-11-17 10:07:44",
+      "added_at": "2023-11-27 20:07:34",
       "album": {
-        "name": "Vamo",
-        "url": "https://open.spotify.com/album/5fpcn6vdsxTyh1m3XmGDHA"
+        "name": "Midnight In Manilla",
+        "url": "https://open.spotify.com/album/1QBxHmwLji2KF27E3UQjKe"
       },
       "artists": [
         {
-          "name": "Route 94",
-          "url": "https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6"
-        },
-        {
-          "name": "Secondcity",
-          "url": "https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq"
+          "name": "Dillon Nathaniel",
+          "url": "https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Vamo",
-      "url": "https://open.spotify.com/track/1TyO82OeIOUO6845tQH3Yu"
-    },
-    {
-      "added_at": "2023-11-17 10:07:48",
-      "album": {
-        "name": "Old Skool",
-        "url": "https://open.spotify.com/album/5eiH0pVNBEiwZwYeb0fEW8"
-      },
-      "artists": [
-        {
-          "name": "MISS DRE",
-          "url": "https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P"
-        },
-        {
-          "name": "Sammy Porter",
-          "url": "https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Old Skool",
-      "url": "https://open.spotify.com/track/5dyJBdgctRWcJa91o6UjTj"
-    },
-    {
-      "added_at": "2023-11-17 10:08:13",
-      "album": {
-        "name": "The Space",
-        "url": "https://open.spotify.com/album/7esmpq4CUhJI3gjHmycWHl"
-      },
-      "artists": [
-        {
-          "name": "Go Freek",
-          "url": "https://open.spotify.com/artist/2aRd7rRSUjtZ6WPG5GsBO6"
-        },
-        {
-          "name": "Lazarusman",
-          "url": "https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "The Space",
-      "url": "https://open.spotify.com/track/2BLFJHSfc0ofSdz9l7foDP"
+      "duration_ms": 154960,
+      "name": "Midnight In Manilla",
+      "url": "https://open.spotify.com/track/2IQvNuU2SY25ddSWtYGfff"
     },
     {
       "added_at": "2023-01-13 00:01:38",
@@ -681,36 +545,20 @@
       "url": "https://open.spotify.com/track/47SEt8Ftu5Vm69yRoFUDXr"
     },
     {
-      "added_at": "2023-11-21 15:49:41",
+      "added_at": "2023-11-27 20:07:29",
       "album": {
-        "name": "Keep On Dancing",
-        "url": "https://open.spotify.com/album/7eJmtEYNcJjDZjfKvN1g62"
+        "name": "Little Perk",
+        "url": "https://open.spotify.com/album/4hYel5A8uGNtLLYsHC7Fj8"
       },
       "artists": [
         {
-          "name": "KOCHAM",
-          "url": "https://open.spotify.com/artist/07gJZgbJwBIKN2DmCn7Dqu"
+          "name": "Dale Howard",
+          "url": "https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ"
         }
       ],
-      "duration_ms": 185298,
-      "name": "Keep On Dancing",
-      "url": "https://open.spotify.com/track/3iQo5xKxX0KUy594uytQ0e"
-    },
-    {
-      "added_at": "2023-11-22 22:33:35",
-      "album": {
-        "name": "No Signal",
-        "url": "https://open.spotify.com/album/7iPw8nupkZme0HDagHXwar"
-      },
-      "artists": [
-        {
-          "name": "Ghetto Birds",
-          "url": "https://open.spotify.com/artist/1Obs7jiOM1afyArwQkOC1U"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "No Signal",
-      "url": "https://open.spotify.com/track/6W9Q0aD4aiKYZBuHt7BTyK"
+      "duration_ms": 181289,
+      "name": "Little Perk",
+      "url": "https://open.spotify.com/track/6Z0pACbh4jmSOL4d47FRHi"
     }
   ],
   "unique_name": "Tech House Shifters",

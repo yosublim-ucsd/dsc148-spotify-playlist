@@ -1,12 +1,12 @@
 {
   "description": "The wave of Latinos representing Hip-Hop in the U.S. Cover: King Lil G & Young Drummer Boy",
-  "num_followers": 29279,
+  "num_followers": 29334,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjdjOTU2YmRlNGZiZWI4ZWRhZjI1Y2FmOGY1Njk1YjE1MGNkY2Jh",
+  "snapshot_id": "MCwxYWVjYmFiOGFkYmQzOWZjYmEyMjg2ZjNiODYyNWJkZmZiMWU1ZWJm",
   "tracks": [
     {
       "added_at": "2023-11-23 01:13:56",
@@ -135,26 +135,6 @@
     {
       "added_at": "2023-11-23 01:13:56",
       "album": {
-        "name": "HF47",
-        "url": "https://open.spotify.com/album/0yL32sfKEyaJpQqvethBlJ"
-      },
-      "artists": [
-        {
-          "name": "Young Drummer Boy",
-          "url": "https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng"
-        },
-        {
-          "name": "King Lil G",
-          "url": "https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb"
-        }
-      ],
-      "duration_ms": 128190,
-      "name": "Global",
-      "url": "https://open.spotify.com/track/7ruLdMpCX4hRHMh9oHOItp"
-    },
-    {
-      "added_at": "2023-11-23 01:13:56",
-      "album": {
         "name": "more than friends",
         "url": "https://open.spotify.com/album/6p6oSg0hCA5sA9UK8DFSzf"
       },
@@ -171,6 +151,50 @@
       "duration_ms": 176172,
       "name": "more than friends",
       "url": "https://open.spotify.com/track/3Dt44kA5p1NDlLWQcuiJr8"
+    },
+    {
+      "added_at": "2023-11-23 01:13:56",
+      "album": {
+        "name": "Lonestar Luchador",
+        "url": "https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Big Yavo",
+          "url": "https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF"
+        }
+      ],
+      "duration_ms": 185736,
+      "name": "Hit List (with BigXthaPlug & Big Yavo)",
+      "url": "https://open.spotify.com/track/6tiYQ631gOeBb2jCtaIs0R"
+    },
+    {
+      "added_at": "2023-11-23 01:13:56",
+      "album": {
+        "name": "HF47",
+        "url": "https://open.spotify.com/album/0yL32sfKEyaJpQqvethBlJ"
+      },
+      "artists": [
+        {
+          "name": "Young Drummer Boy",
+          "url": "https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng"
+        },
+        {
+          "name": "King Lil G",
+          "url": "https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb"
+        }
+      ],
+      "duration_ms": 128190,
+      "name": "Global",
+      "url": "https://open.spotify.com/track/7ruLdMpCX4hRHMh9oHOItp"
     },
     {
       "added_at": "2023-11-23 01:13:56",
@@ -230,19 +254,11 @@
         {
           "name": "That Mexican OT",
           "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
-        },
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Big Yavo",
-          "url": "https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF"
         }
       ],
-      "duration_ms": 185736,
-      "name": "Hit List (with BigXthaPlug & Big Yavo)",
-      "url": "https://open.spotify.com/track/6tiYQ631gOeBb2jCtaIs0R"
+      "duration_ms": 142205,
+      "name": "Cowboy Killer",
+      "url": "https://open.spotify.com/track/5SGWCqheDXPlYnv9aQs795"
     },
     {
       "added_at": "2023-11-23 01:13:56",
@@ -303,22 +319,6 @@
     {
       "added_at": "2023-11-23 01:13:56",
       "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/6vOJIzYk8BdX2c7BRgAMqY"
-      },
-      "artists": [
-        {
-          "name": "Chito Rana$",
-          "url": "https://open.spotify.com/artist/7GZ4lesJqy9GNDhGORezoz"
-        }
-      ],
-      "duration_ms": 187898,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/4zvLzZLqsrWV1ehOnZSN3i"
-    },
-    {
-      "added_at": "2023-11-23 01:13:56",
-      "album": {
         "name": "Apologies",
         "url": "https://open.spotify.com/album/3AhD9hkjE5CNI5fwA8iqOP"
       },
@@ -355,6 +355,42 @@
     {
       "added_at": "2023-11-23 01:13:56",
       "album": {
+        "name": "Chingon (with Peso Peso)",
+        "url": "https://open.spotify.com/album/3FalVFmeeAijs0YIuD39px"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "Peso Peso",
+          "url": "https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj"
+        }
+      ],
+      "duration_ms": 125930,
+      "name": "Chingon (with Peso Peso)",
+      "url": "https://open.spotify.com/track/5QCVFEOXmI9mCqiAZvokpW"
+    },
+    {
+      "added_at": "2023-11-23 01:13:56",
+      "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/6vOJIzYk8BdX2c7BRgAMqY"
+      },
+      "artists": [
+        {
+          "name": "Chito Rana$",
+          "url": "https://open.spotify.com/artist/7GZ4lesJqy9GNDhGORezoz"
+        }
+      ],
+      "duration_ms": 187898,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/4zvLzZLqsrWV1ehOnZSN3i"
+    },
+    {
+      "added_at": "2023-11-23 01:13:56",
+      "album": {
         "name": "Gangsta Grillz: Mvrda Gvng",
         "url": "https://open.spotify.com/album/47SL6DJhs2qlFnP1CyCeos"
       },
@@ -371,22 +407,6 @@
       "duration_ms": 176033,
       "name": "Glock N Switches (with DJ Drama)",
       "url": "https://open.spotify.com/track/3054AeRkauPqoSjtxGHE3z"
-    },
-    {
-      "added_at": "2023-11-23 01:13:56",
-      "album": {
-        "name": "Lonestar Luchador",
-        "url": "https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK"
-      },
-      "artists": [
-        {
-          "name": "That Mexican OT",
-          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
-        }
-      ],
-      "duration_ms": 142205,
-      "name": "Cowboy Killer",
-      "url": "https://open.spotify.com/track/5SGWCqheDXPlYnv9aQs795"
     },
     {
       "added_at": "2023-11-23 01:13:56",
@@ -475,26 +495,6 @@
       "duration_ms": 152079,
       "name": "Go Fast",
       "url": "https://open.spotify.com/track/7470xmX5xRYZavxgzRTdGB"
-    },
-    {
-      "added_at": "2023-11-23 01:13:56",
-      "album": {
-        "name": "Chingon (with Peso Peso)",
-        "url": "https://open.spotify.com/album/3FalVFmeeAijs0YIuD39px"
-      },
-      "artists": [
-        {
-          "name": "That Mexican OT",
-          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
-        },
-        {
-          "name": "Peso Peso",
-          "url": "https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj"
-        }
-      ],
-      "duration_ms": 125930,
-      "name": "Chingon (with Peso Peso)",
-      "url": "https://open.spotify.com/track/5QCVFEOXmI9mCqiAZvokpW"
     },
     {
       "added_at": "2023-11-23 01:13:56",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-11-23 01:13:56",
       "album": {
+        "name": "Stop Cry'n",
+        "url": "https://open.spotify.com/album/6BxbrYbOSW2YbccOMCuX5q"
+      },
+      "artists": [
+        {
+          "name": "Young Drummer Boy",
+          "url": "https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng"
+        }
+      ],
+      "duration_ms": 140841,
+      "name": "Stop Cry'n",
+      "url": "https://open.spotify.com/track/0yf28sQY66U44MITXsz6Fm"
+    },
+    {
+      "added_at": "2023-11-23 01:13:56",
+      "album": {
         "name": "Back Into It",
         "url": "https://open.spotify.com/album/5Pg1l7PCtNxoL6HQWy6OSX"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 198058,
       "name": "Back Into It",
       "url": "https://open.spotify.com/track/1Oj3Co069DI1DLxbVLU0au"
-    },
-    {
-      "added_at": "2023-11-23 01:13:56",
-      "album": {
-        "name": "Stop Cry'n",
-        "url": "https://open.spotify.com/album/6BxbrYbOSW2YbccOMCuX5q"
-      },
-      "artists": [
-        {
-          "name": "Young Drummer Boy",
-          "url": "https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng"
-        }
-      ],
-      "duration_ms": 140841,
-      "name": "Stop Cry'n",
-      "url": "https://open.spotify.com/track/0yf28sQY66U44MITXsz6Fm"
     },
     {
       "added_at": "2023-11-23 01:13:56",
@@ -667,26 +667,6 @@
     {
       "added_at": "2023-11-23 01:13:56",
       "album": {
-        "name": "Antidote",
-        "url": "https://open.spotify.com/album/0McJojbjClX3WgUrmcxOUe"
-      },
-      "artists": [
-        {
-          "name": "Izzy93",
-          "url": "https://open.spotify.com/artist/2AfyzCxD2WTuEbV0XoZajq"
-        },
-        {
-          "name": "Lil M3D",
-          "url": "https://open.spotify.com/artist/41BOfVP6FBA8WQJhSVAWeS"
-        }
-      ],
-      "duration_ms": 160208,
-      "name": "Antidote",
-      "url": "https://open.spotify.com/track/1qPkCtml7Mvu9d95MaKv5k"
-    },
-    {
-      "added_at": "2023-11-23 01:13:56",
-      "album": {
         "name": "HorHey",
         "url": "https://open.spotify.com/album/0jAR7h9XobZFsum1WpFcJW"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 137142,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/2As5tC03TNPCufeYzEK57H"
+    },
+    {
+      "added_at": "2023-11-23 01:13:56",
+      "album": {
+        "name": "Antidote",
+        "url": "https://open.spotify.com/album/0McJojbjClX3WgUrmcxOUe"
+      },
+      "artists": [
+        {
+          "name": "Izzy93",
+          "url": "https://open.spotify.com/artist/2AfyzCxD2WTuEbV0XoZajq"
+        },
+        {
+          "name": "Lil M3D",
+          "url": "https://open.spotify.com/artist/41BOfVP6FBA8WQJhSVAWeS"
+        }
+      ],
+      "duration_ms": 160208,
+      "name": "Antidote",
+      "url": "https://open.spotify.com/track/1qPkCtml7Mvu9d95MaKv5k"
     },
     {
       "added_at": "2023-11-23 01:13:56",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-11-23 01:13:56",
       "album": {
-        "name": "Vivid Dreams",
-        "url": "https://open.spotify.com/album/3iQ7hzgHsPdk6u6aIGpJtK"
-      },
-      "artists": [
-        {
-          "name": "Young Drummer Boy",
-          "url": "https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng"
-        }
-      ],
-      "duration_ms": 176506,
-      "name": "Vivid Dreams",
-      "url": "https://open.spotify.com/track/4vCPmZ6DG3g5ain2NnleN4"
-    },
-    {
-      "added_at": "2023-11-23 01:13:56",
-      "album": {
         "name": "She gon choose",
         "url": "https://open.spotify.com/album/54oZoaoaXspC5YzHqtH6Jk"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 146400,
       "name": "She gon choose",
       "url": "https://open.spotify.com/track/3PPAAIrkrrmBPuXf54xsqd"
+    },
+    {
+      "added_at": "2023-11-23 01:13:56",
+      "album": {
+        "name": "Vivid Dreams",
+        "url": "https://open.spotify.com/album/3iQ7hzgHsPdk6u6aIGpJtK"
+      },
+      "artists": [
+        {
+          "name": "Young Drummer Boy",
+          "url": "https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng"
+        }
+      ],
+      "duration_ms": 176506,
+      "name": "Vivid Dreams",
+      "url": "https://open.spotify.com/track/4vCPmZ6DG3g5ain2NnleN4"
     },
     {
       "added_at": "2023-11-23 01:13:56",
@@ -847,30 +847,6 @@
     {
       "added_at": "2023-11-23 01:13:56",
       "album": {
-        "name": "Hometown (Remix)",
-        "url": "https://open.spotify.com/album/6hhnhx8RqgkpvGtRlRoU1j"
-      },
-      "artists": [
-        {
-          "name": "Conejo",
-          "url": "https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j"
-        },
-        {
-          "name": "Coyote",
-          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
-        },
-        {
-          "name": "TEDIOUS",
-          "url": "https://open.spotify.com/artist/1SVFYOra8X1PkHxidibFAV"
-        }
-      ],
-      "duration_ms": 156966,
-      "name": "Hometown - Remix",
-      "url": "https://open.spotify.com/track/7sqjINADShaCnrTjYvTpHj"
-    },
-    {
-      "added_at": "2023-11-23 01:13:56",
-      "album": {
         "name": "Rich Remedy",
         "url": "https://open.spotify.com/album/7uLICnkfGRS9rAKzUI1ROv"
       },
@@ -931,6 +907,30 @@
       "duration_ms": 154600,
       "name": "Bienvenidos",
       "url": "https://open.spotify.com/track/01KeHXxbmd5GuFOkgzDBSL"
+    },
+    {
+      "added_at": "2023-11-23 01:13:56",
+      "album": {
+        "name": "Hometown (Remix)",
+        "url": "https://open.spotify.com/album/6hhnhx8RqgkpvGtRlRoU1j"
+      },
+      "artists": [
+        {
+          "name": "Conejo",
+          "url": "https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j"
+        },
+        {
+          "name": "Coyote",
+          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
+        },
+        {
+          "name": "TEDIOUS",
+          "url": "https://open.spotify.com/artist/1SVFYOra8X1PkHxidibFAV"
+        }
+      ],
+      "duration_ms": 156966,
+      "name": "Hometown - Remix",
+      "url": "https://open.spotify.com/track/7sqjINADShaCnrTjYvTpHj"
     },
     {
       "added_at": "2023-11-23 01:13:56",

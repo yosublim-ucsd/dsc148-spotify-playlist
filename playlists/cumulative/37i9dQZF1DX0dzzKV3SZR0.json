@@ -89,6 +89,28 @@
     },
     {
       "album": {
+        "name": "Love Sick",
+        "url": "https://open.spotify.com/album/26z5llzd194mcCZHADWd6k"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160426,
+      "name": "4 Me (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/7H08E8B32OZ1vJE7AtCwaG"
+    },
+    {
+      "album": {
         "name": "Scarlet",
         "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
       },
@@ -188,7 +210,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 298306,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/7FrJV8tydWEv1Mxu2mIQrm"
@@ -603,6 +625,28 @@
     },
     {
       "album": {
+        "name": "Late Registration",
+        "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Jamie Foxx",
+          "url": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207626,
+      "name": "Gold Digger",
+      "url": "https://open.spotify.com/track/1PS1QMdUqOal0ai3Gt7sDQ"
+    },
+    {
+      "album": {
         "name": "Come Home With Me",
         "url": "https://open.spotify.com/album/59AeQUlVYT08dOenfLmTWS"
       },
@@ -652,6 +696,28 @@
       "duration_ms": 220486,
       "name": "High Fashion (feat. Mustard)",
       "url": "https://open.spotify.com/track/07KXEDMj78x68D884wgVEm"
+    },
+    {
+      "album": {
+        "name": "Ready (Deluxe)",
+        "url": "https://open.spotify.com/album/44jrX3SThj7pFjOzUTLm85"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247933,
+      "name": "I Invented Sex (feat. Drake)",
+      "url": "https://open.spotify.com/track/1Ug1mV9h5qVSs4rvvnQWux"
     },
     {
       "album": {
@@ -708,6 +774,32 @@
       "duration_ms": 285586,
       "name": "I Need a Girl (Pt. 2) [feat. Loon, Ginuwine, Mario Winans]",
       "url": "https://open.spotify.com/track/6Wt5QBzHp9vdSLAFlvdnDQ"
+    },
+    {
+      "album": {
+        "name": "The Essential R. Kelly",
+        "url": "https://open.spotify.com/album/5ruZPk2RxBoRzzwYswpXXs"
+      },
+      "artists": [
+        {
+          "name": "R. Kelly",
+          "url": "https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ"
+        },
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330600,
+      "name": "I'm a Flirt Remix (feat. T.I. & T-Pain)",
+      "url": "https://open.spotify.com/track/6w1DBbA8akxHPiBQ6nAyJq"
     },
     {
       "album": {
@@ -916,7 +1008,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 215405,
       "name": "Love Cycle (with Summer Walker)",
       "url": "https://open.spotify.com/track/3JP7KdSVvcX3mTfitBp2Ec"
@@ -1030,7 +1122,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 346840,
       "name": "My Boo - Hitman's Club Mix",
       "url": "https://open.spotify.com/track/4c0rkFPszqQTyC753tsCMU"
@@ -1204,7 +1296,7 @@
       ],
       "date_added": "2023-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 262826,
       "name": "Put It On Me",
       "url": "https://open.spotify.com/track/0OvwzS8FX73Bw7ykMRmffU"
@@ -1456,7 +1548,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 219692,
       "name": "Teenage Fever",
       "url": "https://open.spotify.com/track/6n3HGiq4v35D6eFOSwqYuo"
@@ -1526,6 +1618,28 @@
       "duration_ms": 261693,
       "name": "The Light",
       "url": "https://open.spotify.com/track/5NiUrZVKyLpsyj62Roq5FW"
+    },
+    {
+      "album": {
+        "name": "Speakerboxxx/The Love Below",
+        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        {
+          "name": "Sleepy Brown",
+          "url": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "The Way You Move (feat. Sleepy Brown)",
+      "url": "https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD"
     },
     {
       "album": {

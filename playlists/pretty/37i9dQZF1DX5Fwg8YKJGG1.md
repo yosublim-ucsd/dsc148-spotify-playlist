@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Fwg8YKJGG1.md) - [plain]
 
 > Christmas favourites played on music box and glockenspiel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,096 likes - 68 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,146 likes - 68 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Fwg8YKJGG1.md) - [plain]
 | 67 | [Frosty The Snowman](https://open.spotify.com/track/2bLAuycDOuVSGj9YaIrf1Q) | [Yuletide Delight](https://open.spotify.com/artist/1nNVa4ARNnIqK1xb4vHGmI) | [Frosty The Snowman](https://open.spotify.com/album/00TwcqkwlGwBu7idKVn9aU) | 1:41 |
 | 68 | [Christmas Time Is Here](https://open.spotify.com/track/75xFqTnnt6CHlA7uepdaq7) | [Anne Smiles](https://open.spotify.com/artist/5xaqXD0Vd23LiE0p2JuOAk) | [Christmas For Babies](https://open.spotify.com/album/72qYhU9LQKZ706uq6n32bO) | 1:19 |
 
-Snapshot ID: `MCwxNWM3N2IyNWE5NzE3NDgxNzg5NzVmMWVhNDgzYjRhNTZmMmI0NDA4`
+Snapshot ID: `MCxiYWFlNzI1MGQ4YmQwNGU2ZDZiZjVjZmZlYTJkZjE1YmNjYTczZDEz`

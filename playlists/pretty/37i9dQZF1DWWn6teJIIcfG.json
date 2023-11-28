@@ -1,12 +1,12 @@
 {
   "description": "Get your creative juices flowing with these instrumental masterpieces.",
-  "num_followers": 183596,
+  "num_followers": 183680,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTk3YTQyYmNlYTNlODU4ZmE5M2ZjMzBkMDlkNjE5ZDQwY2JkZjUy",
+  "snapshot_id": "MCw3OWRhNjNmMzc2OGNkNTRjYzJmOThkNjFhNDdmMmVjMjIwNmE5NTVi",
   "tracks": [
     {
       "added_at": "2023-02-09 09:05:31",
@@ -231,6 +231,26 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
+        "name": "Liszt: Scherzo and March / 3 Liebestraume / Berceuse",
+        "url": "https://open.spotify.com/album/73P1eYyYBmKuBiVEhlCmfM"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Liebestraume, S541/R211 : No. 3: Nocturne in A-Flat Major",
+      "url": "https://open.spotify.com/track/6GzMz3s0K1YKwRVI36CgRx"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
         "name": "Baroque Conversations",
         "url": "https://open.spotify.com/album/1GeySkyBOkMq1yWbRZW1CV"
       },
@@ -315,26 +335,6 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
-        "name": "Liszt: Scherzo and March / 3 Liebestraume / Berceuse",
-        "url": "https://open.spotify.com/album/73P1eYyYBmKuBiVEhlCmfM"
-      },
-      "artists": [
-        {
-          "name": "Franz Liszt",
-          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
-        },
-        {
-          "name": "Jen\u0151 Jand\u00f3",
-          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Liebestraume, S541/R211 : No. 3: Nocturne in A-Flat Major",
-      "url": "https://open.spotify.com/track/6GzMz3s0K1YKwRVI36CgRx"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
         "name": "Mussorgsky: Pictures at an Exhibition - Expanded Edition",
         "url": "https://open.spotify.com/album/5kxCGK9XhXVD9AX9wje6om"
       },
@@ -379,50 +379,6 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
-        "name": "Works for Solo Piano",
-        "url": "https://open.spotify.com/album/1NnzVZCo7LnKi2wAbgF9rK"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Jonathan Biss",
-          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
-        }
-      ],
-      "duration_ms": 122986,
-      "name": "Schumann: Davidsb\u00fcndlert\u00e4nze, Op. 6, Heft II: No. 14, Zart und singend",
-      "url": "https://open.spotify.com/track/3rzwGepRS2pjTwvhBvMmiz"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
-        "name": "Flute and Harp",
-        "url": "https://open.spotify.com/album/33MNfDsswl60MN5B526hI2"
-      },
-      "artists": [
-        {
-          "name": "Nora Mercz",
-          "url": "https://open.spotify.com/artist/4VmX4klHDDn0mIyG7pQ8tb"
-        },
-        {
-          "name": "Nikolai Rimsky-Korsakov",
-          "url": "https://open.spotify.com/artist/2kXJ68O899XvWOBdpzlXgs"
-        },
-        {
-          "name": "Janos Balint",
-          "url": "https://open.spotify.com/artist/7BLZsD2sdXgqkg7K3Natw6"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Sadko: Hindu Song (arr. N. Mercz): Hindu Song from the Opera 'Sadko'",
-      "url": "https://open.spotify.com/track/5WpGVggkaT3phJEwrVG3EC"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
         "name": "Liszt - My Piano Hero",
         "url": "https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu"
       },
@@ -439,6 +395,26 @@
       "duration_ms": 259573,
       "name": "Consolation No. 3 in D-Flat Major, S. 172",
       "url": "https://open.spotify.com/track/0Jp7n6FKqGVxtXPMVYtMQr"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
+        "name": "Works for Solo Piano",
+        "url": "https://open.spotify.com/album/1NnzVZCo7LnKi2wAbgF9rK"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Jonathan Biss",
+          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
+        }
+      ],
+      "duration_ms": 122986,
+      "name": "Schumann: Davidsb\u00fcndlert\u00e4nze, Op. 6, Heft II: No. 14, Zart und singend",
+      "url": "https://open.spotify.com/track/3rzwGepRS2pjTwvhBvMmiz"
     },
     {
       "added_at": "2023-02-09 09:05:31",
@@ -467,6 +443,30 @@
       "duration_ms": 85933,
       "name": "King Arthur, Z. 628, \"The British Worthy\": Air",
       "url": "https://open.spotify.com/track/3snc9m6T0b0TuxtSEsmP4U"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
+        "name": "Flute and Harp",
+        "url": "https://open.spotify.com/album/33MNfDsswl60MN5B526hI2"
+      },
+      "artists": [
+        {
+          "name": "Nora Mercz",
+          "url": "https://open.spotify.com/artist/4VmX4klHDDn0mIyG7pQ8tb"
+        },
+        {
+          "name": "Nikolai Rimsky-Korsakov",
+          "url": "https://open.spotify.com/artist/2kXJ68O899XvWOBdpzlXgs"
+        },
+        {
+          "name": "Janos Balint",
+          "url": "https://open.spotify.com/artist/7BLZsD2sdXgqkg7K3Natw6"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Sadko: Hindu Song (arr. N. Mercz): Hindu Song from the Opera 'Sadko'",
+      "url": "https://open.spotify.com/track/5WpGVggkaT3phJEwrVG3EC"
     },
     {
       "added_at": "2023-02-09 09:05:31",
@@ -627,34 +627,6 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
-        "name": "Into Silence: P\u00e4rt | Vasks | G\u00f3recki | Pel\u0113cis",
-        "url": "https://open.spotify.com/album/7I6GRzGwHByDn59Y9cneeo"
-      },
-      "artists": [
-        {
-          "name": "Georgs Pel\u0113cis",
-          "url": "https://open.spotify.com/artist/7GcG1I8YsDcVfqVd26G0Jy"
-        },
-        {
-          "name": "Johannes Fritzsch",
-          "url": "https://open.spotify.com/artist/32IBOb8yG3Yh9BuY8IMcqG"
-        },
-        {
-          "name": "Tamara Anna Cislowska",
-          "url": "https://open.spotify.com/artist/6qq0PaNoOuhPsYtUtsxRQs"
-        },
-        {
-          "name": "Tasmanian Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/3WEe5Cpg29CUvsWWv4vRTT"
-        }
-      ],
-      "duration_ms": 377560,
-      "name": "Concertino bianco: 1. Con intenerimento",
-      "url": "https://open.spotify.com/track/4RCllHzuJX9PaV7kNHxmu0"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
         "name": "Johann Sebastian Bach, Michel Richard Delalande, Henry Purcell, Antonio Vivaldi, Wolfgang Amadeus Mozart: L'Europe Musicale des XVII et XVII",
         "url": "https://open.spotify.com/album/0wzY6cMuHfuyJ0VRxxtAug"
       },
@@ -679,6 +651,34 @@
       "duration_ms": 85000,
       "name": "Suite d'Abdelazer: or, the moor's revenge: Rondeau",
       "url": "https://open.spotify.com/track/1ZIFF4VPWGYA9OG3uYcFgI"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
+        "name": "Into Silence: P\u00e4rt | Vasks | G\u00f3recki | Pel\u0113cis",
+        "url": "https://open.spotify.com/album/7I6GRzGwHByDn59Y9cneeo"
+      },
+      "artists": [
+        {
+          "name": "Georgs Pel\u0113cis",
+          "url": "https://open.spotify.com/artist/7GcG1I8YsDcVfqVd26G0Jy"
+        },
+        {
+          "name": "Johannes Fritzsch",
+          "url": "https://open.spotify.com/artist/32IBOb8yG3Yh9BuY8IMcqG"
+        },
+        {
+          "name": "Tamara Anna Cislowska",
+          "url": "https://open.spotify.com/artist/6qq0PaNoOuhPsYtUtsxRQs"
+        },
+        {
+          "name": "Tasmanian Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/3WEe5Cpg29CUvsWWv4vRTT"
+        }
+      ],
+      "duration_ms": 377560,
+      "name": "Concertino bianco: 1. Con intenerimento",
+      "url": "https://open.spotify.com/track/4RCllHzuJX9PaV7kNHxmu0"
     },
     {
       "added_at": "2023-02-09 09:05:31",
@@ -1215,6 +1215,30 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
+        "name": "C.P.E. Bach: Keyboard Concertos, Wq. 26, 44 & 20",
+        "url": "https://open.spotify.com/album/4PWG4HAlwOceVdbjiX3r08"
+      },
+      "artists": [
+        {
+          "name": "Carl Philipp Emanuel Bach",
+          "url": "https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb"
+        },
+        {
+          "name": "Michael Rische",
+          "url": "https://open.spotify.com/artist/2m1oXzullfjrEtsT2z8Wia"
+        },
+        {
+          "name": "Kammersymphonie Leipzig",
+          "url": "https://open.spotify.com/artist/5HOyATQgfbBibfKpZfsCFa"
+        }
+      ],
+      "duration_ms": 198333,
+      "name": "Keyboard Concerto in G Major, Wq. 44: II. Andantino",
+      "url": "https://open.spotify.com/track/7xI0wxBQhYMSWDhkuvbRgM"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
         "name": "Bruch, Brahms & Schubert: Chamber Works",
         "url": "https://open.spotify.com/album/7opugbzWAHbl5FKUZGjzgz"
       },
@@ -1239,30 +1263,6 @@
       "duration_ms": 159010,
       "name": "8 Pieces, Op. 83 (Arr. for Violin, Viola & Piano): No. 2, Allegro con moto",
       "url": "https://open.spotify.com/track/1xWTaBLkw6T758GCLXNubf"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
-        "name": "C.P.E. Bach: Keyboard Concertos, Wq. 26, 44 & 20",
-        "url": "https://open.spotify.com/album/4PWG4HAlwOceVdbjiX3r08"
-      },
-      "artists": [
-        {
-          "name": "Carl Philipp Emanuel Bach",
-          "url": "https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb"
-        },
-        {
-          "name": "Michael Rische",
-          "url": "https://open.spotify.com/artist/2m1oXzullfjrEtsT2z8Wia"
-        },
-        {
-          "name": "Kammersymphonie Leipzig",
-          "url": "https://open.spotify.com/artist/5HOyATQgfbBibfKpZfsCFa"
-        }
-      ],
-      "duration_ms": 198333,
-      "name": "Keyboard Concerto in G Major, Wq. 44: II. Andantino",
-      "url": "https://open.spotify.com/track/7xI0wxBQhYMSWDhkuvbRgM"
     },
     {
       "added_at": "2023-02-09 09:05:31",

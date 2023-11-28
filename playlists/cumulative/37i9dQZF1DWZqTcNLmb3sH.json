@@ -4308,7 +4308,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 247882,
       "name": "Cult Mama (From \"Skanda\")",
       "url": "https://open.spotify.com/track/5YypG8lpyd7D2jGkFG8DTU"
@@ -5942,7 +5942,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 179210,
       "name": "Elli Hodane Sakhi - From \"Jalapaatha\"",
       "url": "https://open.spotify.com/track/5cFEvdj5DlKm9EcebYi8SX"
@@ -14543,6 +14543,32 @@
     },
     {
       "album": {
+        "name": "ANIMAL (KANNADA)",
+        "url": "https://open.spotify.com/album/3Ug7bGXtFxichU3gkxioT4"
+      },
+      "artists": [
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Harshavardhan Rameshwar",
+          "url": "https://open.spotify.com/artist/5CTu6FKerxlvZrsLb6BYaU"
+        },
+        {
+          "name": "Varadaraj Chikkaballapura",
+          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321675,
+      "name": "Nanna Ravi Neene",
+      "url": "https://open.spotify.com/track/5ydy6eHHqXTZmG0ODdDMdw"
+    },
+    {
+      "album": {
         "name": "Nanna Ravi Neene (From \"ANIMAL\")",
         "url": "https://open.spotify.com/album/2AG9iEIflTbPo9wq4YkFKR"
       },
@@ -16586,6 +16612,32 @@
       "duration_ms": 167540,
       "name": "Oh Ammalaali Ammalaali (From \"Dasara\")",
       "url": "https://open.spotify.com/track/5PD9FrQ1lkGTBvx0jFcVUT"
+    },
+    {
+      "album": {
+        "name": "ANIMAL (KANNADA)",
+        "url": "https://open.spotify.com/album/3Ug7bGXtFxichU3gkxioT4"
+      },
+      "artists": [
+        {
+          "name": "Raghav Chaitanya",
+          "url": "https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK"
+        },
+        {
+          "name": "Varadaraj Chikkaballapura",
+          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
+        },
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275439,
+      "name": "Oh Baale",
+      "url": "https://open.spotify.com/track/015vFQdlCArdhXOI2XMw3r"
     },
     {
       "album": {

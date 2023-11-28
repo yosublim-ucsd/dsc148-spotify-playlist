@@ -4,7 +4,7 @@
 
 > Chill tunes to soundtrack your gaming session.
 
-216 songs - 13 hr 18 min
+217 songs - 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [spirit lead me where my trust is without borders](https://open.spotify.com/track/4oWyUeTIwhPvnVBF3FKwuM) | [Raspo](https://open.spotify.com/artist/1UkHuDUhU5Ik4cNH6F4XUq) | [spirit lead me where my trust is without borders](https://open.spotify.com/album/4IQ1hX5LSdOG4rnjozzZ7v) | 2:08 | 2022-08-31 | 2022-09-03 |
 | [star drive](https://open.spotify.com/track/1D1RwQ2Lt5F4gSsTApjoij) | [Arthur Wu](https://open.spotify.com/artist/3FvtuXFdOgdAl7Gsi91GFV) | [star drive](https://open.spotify.com/album/7p2Q3tN2DHenlhsWW2uZ87) | 2:01 | 2022-09-02 | 2023-09-09 |
 | [Star Shopping \- Slowed + Reverb](https://open.spotify.com/track/1s7TkhVLDMl9e9kQz0KFOU) | [Megami](https://open.spotify.com/artist/2nirHAhWySBkvccqqmZeRP) | [Star Shopping](https://open.spotify.com/album/72x0OE3u601R32vRdXBdDs) | 1:21 | 2023-09-08 |  |
-| [Stargazing](https://open.spotify.com/track/1R83WQM8LXRqT2hu8qK59I) | [kyu](https://open.spotify.com/artist/4vLg4WFBnzNgIpLWyxQJMW) | [Dreamscapes](https://open.spotify.com/album/6KceKyMe95omjB1FNWRhJR) | 2:13 | 2023-09-08 |  |
+| [Stargazing](https://open.spotify.com/track/1R83WQM8LXRqT2hu8qK59I) | [kyu](https://open.spotify.com/artist/4vLg4WFBnzNgIpLWyxQJMW) | [Dreamscapes](https://open.spotify.com/album/6KceKyMe95omjB1FNWRhJR) | 2:13 | 2023-09-08 | 2023-11-28 |
 | [Stargazing](https://open.spotify.com/track/6IM9Er6nQT3ZTp8LBUzB8d) | [kyu](https://open.spotify.com/artist/4vLg4WFBnzNgIpLWyxQJMW) | [Dreamscapes](https://open.spotify.com/album/0ObvSOol6nFuU2VCEBZ8QL) | 2:13 | 2022-08-31 | 2023-09-09 |
 | [Starry Night](https://open.spotify.com/track/2CHU4jx0WDXqgid08iZOB6) | [Jordan Critz](https://open.spotify.com/artist/37eAVTi0h4cxTkScarLPFC) | [Novella](https://open.spotify.com/album/6N1QTJSMGI3hXRpfqNJdTP) | 4:58 | 2023-09-08 |  |
 | [Start Shootin'](https://open.spotify.com/track/4IUgpL0CgSiloUOHzgd6Qe) | [Little People](https://open.spotify.com/artist/3cbU0WxlZJTFLTfXEUB433) | [Mickey Mouse Operation](https://open.spotify.com/album/2ULdmAtiIIn5xok5YCVGpk) | 3:36 | 2019-12-16 | 2023-09-09 |
@@ -202,6 +202,7 @@
 | [The Red Truth](https://open.spotify.com/track/1YifzovUWtHqLAKlme4Iav) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Caesura](https://open.spotify.com/album/5fPb6Ef7P5uPSmVIyNRvhj) | 4:38 | 2019-12-16 | 2022-09-01 |
 | [The Whispering Caves](https://open.spotify.com/track/1J1m1KU9TUVPu9U9WT70BK) | [Those Who Ride With Giants](https://open.spotify.com/artist/0pKhuVfVRd073xGqEdJlUP) | [Those Who Ride With Giants \[Deluxe\]](https://open.spotify.com/album/4LVKCunmDjz4vpesIrlI6H) | 5:58 | 2019-12-16 | 2022-07-29 |
 | [The Whispering Caves](https://open.spotify.com/track/1B4WPZiuAPgE1fCluJQsS6) | [Those Who Ride With Giants](https://open.spotify.com/artist/0pKhuVfVRd073xGqEdJlUP) | [Those Who Ride With Giants \(Deluxe\)](https://open.spotify.com/album/029nbN6OhmnaF0s6BgOU8u) | 5:59 | 2019-12-16 | 2022-09-01 |
+| [There Is Hope](https://open.spotify.com/track/2V8KZNr3T4ZwvYgTa0qvNf) | [Kochetkovv](https://open.spotify.com/artist/7BPQzcw927WoBtakErDh6d) | [There Is Hope](https://open.spotify.com/album/5rf69U8NuO3plvtgmdwvQj) | 1:55 | 2023-09-08 |  |
 | [Theta](https://open.spotify.com/track/1GeeXTY3fjN7EeNTWibtuH) | [NiElsir](https://open.spotify.com/artist/7A7IFcjPcVU9swlaIT1wbk) | [Theta](https://open.spotify.com/album/04s7SQbx21d5jzKWxWreOg) | 3:00 | 2022-08-31 | 2023-09-09 |
 | [Third](https://open.spotify.com/track/3BmtVxAg1jr2sw4WaPHdoz) | [Hiatus](https://open.spotify.com/artist/421vyBBkhgRAOz4cYPvrZJ) | [Third EP](https://open.spotify.com/album/7uZjhHZv5OKWRj2ar3Y84u) | 4:46 | 2019-12-16 | 2022-09-01 |
 | [Transcend](https://open.spotify.com/track/3xNobvzrk3lpQpEz8WJUhM) | [Photon](https://open.spotify.com/artist/33dfAU7lq0ET88plgLPQLB) | [Transcend](https://open.spotify.com/album/1CWFqnAWFBQDVJXM21abb8) | 4:49 | 2022-09-02 | 2023-09-09 |

@@ -4,7 +4,7 @@
 
 > Fresh new Korean independent & rising talents are here\. \(Cover: Kim Marie\(김마리\)\)\(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
 
-1,218 songs - 2 day 20 hr 54 min
+1,219 songs - 2 day 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,7 +302,8 @@
 | [Empty Spot](https://open.spotify.com/track/3iFZyOkHyT7pMNJ6y4u1Z8) | [PARK MIN HYE](https://open.spotify.com/artist/7jLmvmR5MEXHgBbPpfwAIJ) | [Yeolguk Scandal \(Original Soundtrack\), Part\. 1](https://open.spotify.com/album/5YoeNDokyfGSGFwvjTbEPj) | 4:10 | 2023-01-30 | 2023-02-09 |
 | [En'dorphin](https://open.spotify.com/track/6JHOV4M8QrVvXdvR1oD5nD) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [ilipp](https://open.spotify.com/artist/4HTEynyeQ87mdnbBqOiYNA) | [En'dorphin](https://open.spotify.com/album/4V2dqsCsbT3Ikfn3uEjj7k) | 2:38 | 2022-04-20 | 2022-06-10 |
 | [End](https://open.spotify.com/track/61QY6K5CAZdXzaxvgZaEu1) | [cacophony](https://open.spotify.com/artist/5SZqfS7AE4YlbeoWm8hQZ9) | [End](https://open.spotify.com/album/5brV7BRPEXMO5u2bBcdcbh) | 3:29 | 2023-11-14 |  |
-| [Ending Fairy](https://open.spotify.com/track/1nRCu7boIyywCgf79G9K53) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Ending Fairy](https://open.spotify.com/album/1VbHtxH9tgEakebXV4oBBb) | 3:19 | 2023-11-14 |  |
+| [Ending Fairy](https://open.spotify.com/track/1nRCu7boIyywCgf79G9K53) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Ending Fairy](https://open.spotify.com/album/1VbHtxH9tgEakebXV4oBBb) | 3:19 | 2023-11-14 | 2023-11-28 |
+| [Ending Fairy](https://open.spotify.com/track/48fmYt05y4WwvQB8nn3WZK) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Smile! You're On Camera](https://open.spotify.com/album/5XbzCJBgVE0CUWnoXrFKSm) | 3:19 | 2023-11-14 |  |
 | [Ending Fairy](https://open.spotify.com/track/66uWx5UFjIR7VmnqQ2YX0x) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Ending Fairy](https://open.spotify.com/album/2LOL3OgncHJQCLYubXQrAB) | 3:19 | 2023-07-31 | 2023-11-16 |
 | [Endless](https://open.spotify.com/track/0ezXTASjQ1CZlqOKeH75r9) | [JIN](https://open.spotify.com/artist/4qXqEpcMnp74cCHrVW9rRJ) | [Endless](https://open.spotify.com/album/7cFVNdjx9pLLD2s6FfQCc5) | 3:15 | 2023-01-30 | 2023-02-09 |
 | [Engine](https://open.spotify.com/track/5qy91blMPg3avxZEgqwwyt) | [LUMINOUS](https://open.spotify.com/artist/4vPDmRjCfNXoeKxCBms9DX) | [LUMINOUS in WONDERLAND](https://open.spotify.com/album/2ZQEYhMgRlaA1gQVrQaDtt) | 3:08 | 2022-08-18 | 2022-10-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 
 > Tra storytelling e barre affilate, il meglio del rap game italiano\. Cover: Guè
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,748 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,810 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 | 59 | [Veleno 8 \(feat\. Gemitaiz\)](https://open.spotify.com/track/06OBAy97uVyHCZvonvgfE2) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [MM Vol\. 4](https://open.spotify.com/album/6u7PVqrCBPex6FSw8eb5ce) | 3:02 |
 | 60 | [Top \(feat\. MadMan\)](https://open.spotify.com/track/2aH4Ec7vu87IeXFrtjtR17) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [Eclissi](https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S) | 3:11 |
 
-Snapshot ID: `MCw4MWFlMDVkNzM5Y2YxMTI5MjQ0ZGI2YzFmYzM5ODQ2NWMxMjA0N2Jm`
+Snapshot ID: `MCxlZDNlMWZjNjIyZDBkZTJhYmVhMzRlNWFmZmMyZjAyNmEyODZhNjZl`

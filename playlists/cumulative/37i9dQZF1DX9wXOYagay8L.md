@@ -4,7 +4,7 @@
 
 > Proudly South African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1?si=ZcnGNbUxQlyrFIYIhVZLCw">Lwah Ndlunkulu</a>
 
-509 songs - 1 day 12 hr 35 min
+510 songs - 1 day 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Khaya Lami](https://open.spotify.com/track/0KG5PG0nz6MmKLbDWtmpdk) | [Inkabi Zezwe](https://open.spotify.com/artist/3L21ifeFAXwNN2ui6NyG0k), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A) | [Ukhamba](https://open.spotify.com/album/4VshKshG4GNIVueV0qoeiP) | 4:15 | 2023-05-11 | 2023-10-13 |
 | [KHIYELA](https://open.spotify.com/track/4KbWRrP9tMfAIfnH4bP3lv) | [King Monada](https://open.spotify.com/artist/5SDXPZSEfwqvGPwqiQezOP) | [KHIYELA](https://open.spotify.com/album/5axFMubhodFswPZKgOWvkM) | 5:06 | 2022-04-14 | 2022-07-29 |
 | [Khumbul'ekhaya](https://open.spotify.com/track/6uFosejJRPqulopMK1trT7) | [Mthandazo Gatya](https://open.spotify.com/artist/3jxs3XKuz7KUmjBMN5Yees) | [Journey To Infinity](https://open.spotify.com/album/2kRJW6Hq4iZdXenCfXDJ2F) | 4:44 | 2022-09-15 | 2022-09-30 |
+| [Khuphuka](https://open.spotify.com/track/2woH45Z4imZSyCaqkSC0UX) | [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1) | [Imizwa](https://open.spotify.com/album/0wHGXy5mpIDDal77mwCqBP) | 3:43 | 2023-11-27 |  |
 | [Kilimanjaro](https://open.spotify.com/track/05gIBRBUXH9bCGGheDVZro) | [Lorraine Klaasen](https://open.spotify.com/artist/19FewxNz8UZtyQTYxVqDCC), [Mongezi Ntaka](https://open.spotify.com/artist/0nvtCXgZCvP1utelhFqsfg) | [Kilimanjaro](https://open.spotify.com/album/2dMeRd91lqZa4c8ctyFlKT) | 3:32 | 2022-10-13 | 2022-10-21 |
 | [KOKHALABANTU](https://open.spotify.com/track/1LdodHeIoK2eBxlCW1UZ2M) | [LEE](https://open.spotify.com/artist/561wUDCkODWNZ7aw0EIZPY), [Mbuzeni](https://open.spotify.com/artist/7wayRI97YKruzv8kyy3zok) | [KOKHALABANTU](https://open.spotify.com/album/0BkIyVu8iKLAJM8qplc0Cn) | 4:29 | 2022-03-24 | 2022-07-01 |
 | [Konakele](https://open.spotify.com/track/3qKG9yS1kM7BbvKtJghsE9) | [Xhanti Nokwali](https://open.spotify.com/artist/7deeTVfFQNS9ShFtnNgQ8M) | [Umthombo](https://open.spotify.com/album/5Qg2kXcTYZWUVFAC7UYMMV) | 6:29 | 2022-10-20 | 2022-11-26 |
@@ -514,7 +515,7 @@
 | [Zibonakalise \- Radio Edit](https://open.spotify.com/track/2gT7Xwkd5S5xkbLfGAvMuA) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Tubatsi Mpho Moloi](https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65) | [Zibonakalise \(Radio Edit\)](https://open.spotify.com/album/5BeJuk03PJJtVgFuM2Yday) | 3:04 | 2023-01-19 | 2023-01-28 |
 | [Zinyanya Zami](https://open.spotify.com/track/0B0UNUK5N6bqtMYQBGd6oD) | [Omit ST](https://open.spotify.com/artist/7MxpcTTd4OWKT6cLrsYknl), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9), [Sfarzo Rtee](https://open.spotify.com/artist/2kzWkuJM5Na5hINP7akcJj), [Stacy](https://open.spotify.com/artist/6nuWJJNVyTzEiwG8gWFtuX) | [Zinyanya Zami](https://open.spotify.com/album/4rfdkFgKUyyqbavnQrxcMM) | 7:34 | 2023-07-14 | 2023-08-18 |
 | [ZOJIKI IZINTO](https://open.spotify.com/track/2up5Dd9llCPQT87KNaJ975) | [Naledi Aphiwe](https://open.spotify.com/artist/6zInR2bva7iaRKxeB5AjqN), [Fezeka Dlamini](https://open.spotify.com/artist/3w6Mt5dBdn8iPH2PgdnbP7) | [ZOJIKI IZINTO](https://open.spotify.com/album/5s9e6m4cbXxrrtTry3EAyo) | 4:18 | 2023-07-21 |  |
-| [Zulu Magic](https://open.spotify.com/track/1hkuIXTc724CTSTd2rUm8b) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Zulu Magic](https://open.spotify.com/album/5mCkz2mIyo6bWQnHnK76eB) | 4:49 | 2023-11-23 |  |
+| [Zulu Magic](https://open.spotify.com/track/1hkuIXTc724CTSTd2rUm8b) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Zulu Magic](https://open.spotify.com/album/5mCkz2mIyo6bWQnHnK76eB) | 4:49 | 2023-11-23 | 2023-11-28 |
 | [Zwafhela Zwofhela](https://open.spotify.com/track/6xAOVKfp6ffBwWRUtpKSlL) | [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A) | [Zwafhela Zwofhela](https://open.spotify.com/album/5odoFEselKhI5OXfKPouaZ) | 4:51 | 2022-11-14 | 2023-03-03 |
 | [Zwivhuya](https://open.spotify.com/track/3YTPfXzK9TQOEODJD05cCj) | [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs), [Jon Delinger](https://open.spotify.com/artist/6N08SlULviNvUJhmDgevsF) | [African Queen](https://open.spotify.com/album/72qVzkEjhc6ZlSh5QxEo4s) | 4:35 | 2022-02-03 | 2022-10-29 |
 

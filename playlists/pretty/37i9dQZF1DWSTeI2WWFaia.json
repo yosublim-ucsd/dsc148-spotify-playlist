@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Westside Gunn",
-  "num_followers": 1617852,
+  "num_followers": 1617850,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODgyYTk0NGRmOTM2OWU0NTNhOWE2ZTBhY2YzMjQyOWYxNzgyYjMy",
+  "snapshot_id": "MCxmN2Q3OWZmYzIzODY3NGY4YWI4MmM0Njk0YjhkOTY3OTI2OWM4MDA2",
   "tracks": [
     {
       "added_at": "2023-11-24 04:00:00",
@@ -335,6 +335,22 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
+        "name": "Balut",
+        "url": "https://open.spotify.com/album/3lCIdX7XZlrO6SbxAne7QG"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 207507,
+      "name": "Balut",
+      "url": "https://open.spotify.com/track/3PvChJcbDMKFCQppIRYQo9"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
         "name": "Max Julien",
         "url": "https://open.spotify.com/album/0pXT8h1meziQU01MyMA89Z"
       },
@@ -347,26 +363,6 @@
       "duration_ms": 170800,
       "name": "Max Julien",
       "url": "https://open.spotify.com/track/6qYCswyML9pHuvYDBdZJYd"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
-        "name": "RIP Human Art",
-        "url": "https://open.spotify.com/album/1RDjmGZKjYCMTCTzUBSIVf"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "Spillage Village",
-          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
-        }
-      ],
-      "duration_ms": 274558,
-      "name": "Flavors of Karma",
-      "url": "https://open.spotify.com/track/56Nv3kZNdUPL6BsC1I0jd7"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -391,42 +387,6 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
-        "name": "Balut",
-        "url": "https://open.spotify.com/album/3lCIdX7XZlrO6SbxAne7QG"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 207507,
-      "name": "Balut",
-      "url": "https://open.spotify.com/track/3PvChJcbDMKFCQppIRYQo9"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
-        "name": "Flying High, Part 2",
-        "url": "https://open.spotify.com/album/21cT6jnDfeUTCN1J2bzllz"
-      },
-      "artists": [
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Action Bronson",
-          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
-        }
-      ],
-      "duration_ms": 177360,
-      "name": "Vertigo (feat. Action Bronson)",
-      "url": "https://open.spotify.com/track/7BbppQIMIrxOkJIfdM4syU"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
         "name": "Welcome 2 Collegrove",
         "url": "https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy"
       },
@@ -447,6 +407,26 @@
       "duration_ms": 220586,
       "name": "P.P.A. (feat. Fabolous)",
       "url": "https://open.spotify.com/track/7pmkOYSaUvaA39nWnHcqmj"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
+        "name": "RIP Human Art",
+        "url": "https://open.spotify.com/album/1RDjmGZKjYCMTCTzUBSIVf"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Spillage Village",
+          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
+        }
+      ],
+      "duration_ms": 274558,
+      "name": "Flavors of Karma",
+      "url": "https://open.spotify.com/track/56Nv3kZNdUPL6BsC1I0jd7"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -491,6 +471,26 @@
       "duration_ms": 230720,
       "name": "The Caliphate (feat. Vince Staples)",
       "url": "https://open.spotify.com/track/5zdaRJpmbs5lUHCOKn3K6e"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
+        "name": "Flying High, Part 2",
+        "url": "https://open.spotify.com/album/21cT6jnDfeUTCN1J2bzllz"
+      },
+      "artists": [
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+        }
+      ],
+      "duration_ms": 177360,
+      "name": "Vertigo (feat. Action Bronson)",
+      "url": "https://open.spotify.com/track/7BbppQIMIrxOkJIfdM4syU"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
-        "name": "Magic 3",
-        "url": "https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 197519,
-      "name": "I Love This Feeling",
-      "url": "https://open.spotify.com/track/3UDor25dsBp55meFUeOpx2"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
         "name": "Sundial",
         "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 227240,
       "name": "No Yeast (feat. Boldy James & Westside Gunn) - Remix",
       "url": "https://open.spotify.com/track/3g94P2bRVtVe1GqJnYOoV1"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
+        "name": "Magic 3",
+        "url": "https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 197519,
+      "name": "I Love This Feeling",
+      "url": "https://open.spotify.com/track/3UDor25dsBp55meFUeOpx2"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -667,30 +667,6 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
-        "name": "Bobby Boucher",
-        "url": "https://open.spotify.com/album/7HOrAl8yqZsqW8UUVeVYZY"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "Spillage Village",
-          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
-        },
-        {
-          "name": "Benji.",
-          "url": "https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2"
-        }
-      ],
-      "duration_ms": 195200,
-      "name": "Bobby Boucher",
-      "url": "https://open.spotify.com/track/2b1oIoYHq5vj5q1hrQ5WQy"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
         "name": "Sundial",
         "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
       },
@@ -711,6 +687,30 @@
       "duration_ms": 224586,
       "name": "balloons (feat. Jay Electronica & Eryn Allen Kane)",
       "url": "https://open.spotify.com/track/31To8W4ERzjzq1Jx5XWSMb"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
+        "name": "Bobby Boucher",
+        "url": "https://open.spotify.com/album/7HOrAl8yqZsqW8UUVeVYZY"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Spillage Village",
+          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
+        },
+        {
+          "name": "Benji.",
+          "url": "https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2"
+        }
+      ],
+      "duration_ms": 195200,
+      "name": "Bobby Boucher",
+      "url": "https://open.spotify.com/track/2b1oIoYHq5vj5q1hrQ5WQy"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -815,6 +815,38 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
+        "name": "Sundial",
+        "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
+      },
+      "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        }
+      ],
+      "duration_ms": 193973,
+      "name": "beauty supply",
+      "url": "https://open.spotify.com/track/4oevXziJVFARkGMty2HdFF"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
+        "name": "MICHAEL (Deluxe)",
+        "url": "https://open.spotify.com/album/5dhb5ZpYSm2gH8OCxAKTn1"
+      },
+      "artists": [
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        }
+      ],
+      "duration_ms": 177814,
+      "name": "YES!",
+      "url": "https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
         "name": "Soul Assassins 3: Death Valley",
         "url": "https://open.spotify.com/album/2mdiBHkwcyU6EBnhLtStoD"
       },
@@ -863,22 +895,6 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
-        "name": "Sundial",
-        "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
-      },
-      "artists": [
-        {
-          "name": "Noname",
-          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
-        }
-      ],
-      "duration_ms": 193973,
-      "name": "beauty supply",
-      "url": "https://open.spotify.com/track/4oevXziJVFARkGMty2HdFF"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
         "name": "The Elephant Man's Bones",
         "url": "https://open.spotify.com/album/3Kkrsa5dgEgl2fYyO51EEf"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 174545,
       "name": "Montagna",
       "url": "https://open.spotify.com/track/5mk53q4ragqU6CMaTH6JQ3"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
-        "name": "MICHAEL (Deluxe)",
-        "url": "https://open.spotify.com/album/5dhb5ZpYSm2gH8OCxAKTn1"
-      },
-      "artists": [
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        }
-      ],
-      "duration_ms": 177814,
-      "name": "YES!",
-      "url": "https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM"
     },
     {
       "added_at": "2023-11-24 04:00:00",

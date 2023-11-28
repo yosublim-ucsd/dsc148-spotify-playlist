@@ -4,7 +4,7 @@
 
 > Homegrown Ugandan hits in one playlist\. Cover: Joshua Baraka
 
-183 songs - 9 hr 27 min
+184 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Akahama](https://open.spotify.com/track/01Cr1AZ70tfTE6LJnh3ndc) | [ALLAN TONIKS](https://open.spotify.com/artist/5uLEt18awSsO8Ne5gkxM9s) | [Awo](https://open.spotify.com/album/02qumZkSj4oR8vJ41Vgf2X) | 4:20 | 2022-07-08 | 2023-03-13 |
 | [All Of You](https://open.spotify.com/track/0QQm7eqOsPVVepd1rHtJRE) | [Aethan Music](https://open.spotify.com/artist/609EazKArL58XXHcXgvPoU), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Denesi](https://open.spotify.com/artist/2j5qvgoDULdbdLaFfb1Ap6), [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds) | [The Opening Act](https://open.spotify.com/album/4J6STymks5es1DRudc1qT5) | 3:04 | 2022-12-02 | 2022-12-13 |
 | [Aye](https://open.spotify.com/track/0EznsEmD2Ob0W0tw5NewRu) | [Recho Rey](https://open.spotify.com/artist/4YRkc69hJMlLOzmrk5Wb14) | [Aye](https://open.spotify.com/album/6CXDElxxiujEhPQbwcBXR9) | 2:44 | 2022-08-05 | 2023-10-21 |
+| [Baby Don't Go](https://open.spotify.com/track/7ereF3RNh0A92CqVD1Hrd0) | [Bright\-D](https://open.spotify.com/artist/7zPWBifsb7AHKrY2tPXniK), [Livforit](https://open.spotify.com/artist/68uhrd8OUr4OFZmmvvt6Vd), [MUVUNYI](https://open.spotify.com/artist/5L1TL5jBqCs3O2eS1IEB5x) | [Baby Don't Go](https://open.spotify.com/album/24GSq07wjmZqUSR6U1t1tA) | 3:04 | 2023-11-24 |  |
 | [Baibe](https://open.spotify.com/track/7hPUGxExv6E8o7qK4XeZnQ) | [Henry Tigan](https://open.spotify.com/artist/4upZy8u9qZc5uUZ5w8Z3Eo) | [Baibe](https://open.spotify.com/album/3pxfc2qdtKQ4FBjcvLTsMe) | 4:14 | 2022-09-30 | 2023-05-21 |
 | [Bailando](https://open.spotify.com/track/5Kl68dPoUw00u2RvXLYFnn) | [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES) | [Bailando](https://open.spotify.com/album/7t4A3s2p3zolibFnDwx1xY) | 3:04 | 2023-06-30 |  |
 | [Bailando refix](https://open.spotify.com/track/27mM80dzHBPzfCmsIbVDeb) | [DJ Shiru](https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho), [Sama Sojah](https://open.spotify.com/artist/6Cu8b2RnzlfjEWxuKrg9Bk) | [Bailando refix](https://open.spotify.com/album/667qgTdLh8R0dmOTAtp6Qx) | 3:01 | 2023-04-21 | 2023-07-01 |
@@ -65,7 +66,7 @@
 | [Feel Like](https://open.spotify.com/track/7CTDjJSzz6qyR0SIjRsAlZ) | [Fm Kid](https://open.spotify.com/artist/3lQP8Rliiz1HAHNyZCdMM6) | [Feel Like](https://open.spotify.com/album/2bUvNyLhtfvFmAeaSuJAOb) | 3:06 | 2022-09-30 | 2022-10-07 |
 | [Fertilizer](https://open.spotify.com/track/10JDfsIelDol1IxN2PCEnG) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Fertilizer](https://open.spotify.com/album/6Pz7K5KdsXCbk5CybkwIlp) | 2:55 | 2023-06-30 |  |
 | [Follow](https://open.spotify.com/track/399mVb63j9nI8lb1A4TQRB) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [Follow](https://open.spotify.com/album/3kbvJRFu6ajBhVeDFLcqTd) | 3:30 | 2022-07-29 | 2023-04-07 |
-| [Freedom](https://open.spotify.com/track/6v0S8ZVm5axCSsuoqcuB3J) | [Jesse10s](https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH) | [Freedom](https://open.spotify.com/album/3MJB9ehVEovi0DhK19B4tS) | 2:54 | 2022-11-25 |  |
+| [Freedom](https://open.spotify.com/track/6v0S8ZVm5axCSsuoqcuB3J) | [Jesse10s](https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH) | [Freedom](https://open.spotify.com/album/3MJB9ehVEovi0DhK19B4tS) | 2:54 | 2022-11-25 | 2023-11-28 |
 | [Gemazima](https://open.spotify.com/track/6ctNl82yEypzLqeeMzrTkL) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Teslah](https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u) | [Gemazima](https://open.spotify.com/album/02QbNNia59RV4jwu00khDg) | 3:01 | 2023-01-12 | 2023-02-11 |
 | [Geza Bugeza](https://open.spotify.com/track/0KCeBr5ylT1GJzt9bu4SkW) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Geza Bugeza](https://open.spotify.com/album/6rpL5Yl2Gu8H0xqPSu445P) | 2:20 | 2023-01-12 | 2023-06-12 |
 | [Geza Bugeza](https://open.spotify.com/track/5fZzENyrqSsaxlUdMEjYpH) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Chronicles Of A Woman](https://open.spotify.com/album/3aZbRfKKvhnPtuYgaEdxSD) | 2:20 | 2023-01-12 | 2023-01-21 |

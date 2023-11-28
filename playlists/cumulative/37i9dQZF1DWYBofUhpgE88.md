@@ -2,7 +2,7 @@
 
 ### [Rap Motivazionale](https://open.spotify.com/playlist/37i9dQZF1DWYBofUhpgE88)
 
-> Rap per non smettere mai di crederci 💪
+> L'Italia ha vinto la coppa Davis! 🎾 🇮🇹 Volandri, Sinner, Musetti, Sonego, Bolelli! Rap per non smettere mai di crederci 💪
 
 188 songs - 10 hr 26 min
 

@@ -1,12 +1,12 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 68190,
+  "num_followers": 68253,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjJkMjZiYTAyYTlkODI3MjM5MmY1OGMwYzQ3OGJmZWZiZTI0ZWVk",
+  "snapshot_id": "MCwyOGUzZDkyNmQ3ZGU4OTExNjA4NzEzYzEzZGMwYThiOWY5ZTlhMDA1",
   "tracks": [
     {
       "added_at": "2022-08-05 05:00:00",
@@ -211,26 +211,6 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
-        "name": "El Ritmo Fa",
-        "url": "https://open.spotify.com/album/2So5WDAfp76BBlbwbxGo6Z"
-      },
-      "artists": [
-        {
-          "name": "DJ kLazH",
-          "url": "https://open.spotify.com/artist/3qutyGbJxvKzLqCYLaFHBo"
-        },
-        {
-          "name": "Dj Kury",
-          "url": "https://open.spotify.com/artist/6I4OhwKxUoUZBsddTl2MbS"
-        }
-      ],
-      "duration_ms": 323076,
-      "name": "El Ritmo Fa",
-      "url": "https://open.spotify.com/track/4v65yiH3yoIKr57APt4oBQ"
-    },
-    {
-      "added_at": "2022-08-05 05:00:00",
-      "album": {
         "name": "Globall",
         "url": "https://open.spotify.com/album/4xQUm6jf8BTdvfDE72nu3o"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 181040,
       "name": "La Noche Es Tuya (feat. Gerardo Orti\u0301z & Ame\u0301rica Sierra)",
       "url": "https://open.spotify.com/track/73tHpsVzELtbluqT2D2YPD"
+    },
+    {
+      "added_at": "2022-08-05 05:00:00",
+      "album": {
+        "name": "Dame",
+        "url": "https://open.spotify.com/album/0GaNnazTQVyVWnFvcXktgJ"
+      },
+      "artists": [
+        {
+          "name": "Freebot",
+          "url": "https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd"
+        },
+        {
+          "name": "Aneth",
+          "url": "https://open.spotify.com/artist/666a8c5dpuBV9GM1Yv14p7"
+        }
+      ],
+      "duration_ms": 156401,
+      "name": "Dame",
+      "url": "https://open.spotify.com/track/05Wv728G7m1xkaOZKMPs0N"
     },
     {
       "added_at": "2023-01-20 06:00:00",
@@ -279,22 +279,22 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
-        "name": "Dame",
-        "url": "https://open.spotify.com/album/0GaNnazTQVyVWnFvcXktgJ"
+        "name": "El Ritmo Fa",
+        "url": "https://open.spotify.com/album/2So5WDAfp76BBlbwbxGo6Z"
       },
       "artists": [
         {
-          "name": "Freebot",
-          "url": "https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd"
+          "name": "DJ kLazH",
+          "url": "https://open.spotify.com/artist/3qutyGbJxvKzLqCYLaFHBo"
         },
         {
-          "name": "Aneth",
-          "url": "https://open.spotify.com/artist/666a8c5dpuBV9GM1Yv14p7"
+          "name": "Dj Kury",
+          "url": "https://open.spotify.com/artist/6I4OhwKxUoUZBsddTl2MbS"
         }
       ],
-      "duration_ms": 156401,
-      "name": "Dame",
-      "url": "https://open.spotify.com/track/05Wv728G7m1xkaOZKMPs0N"
+      "duration_ms": 323076,
+      "name": "El Ritmo Fa",
+      "url": "https://open.spotify.com/track/4v65yiH3yoIKr57APt4oBQ"
     },
     {
       "added_at": "2023-06-09 02:11:02",
@@ -315,22 +315,6 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
-        "name": "Los Reyes del Tribal",
-        "url": "https://open.spotify.com/album/7aZA6VrLLeLQUNge1y0BuF"
-      },
-      "artists": [
-        {
-          "name": "El Pel\u00f3n del Mikrophone",
-          "url": "https://open.spotify.com/artist/7fD78qBivZ5nhloRHma0Pw"
-        }
-      ],
-      "duration_ms": 194493,
-      "name": "Celosa",
-      "url": "https://open.spotify.com/track/1zZakVmfBR7AkepHwBCWZ7"
-    },
-    {
-      "added_at": "2022-08-05 05:00:00",
-      "album": {
         "name": "Aleteo VIP Golden Edition",
         "url": "https://open.spotify.com/album/3UocGQ73CV9X9dJ8mbI7pb"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 266710,
       "name": "La Trompeta Del Diablo",
       "url": "https://open.spotify.com/track/60cUW8whWzeVIONqISksOO"
+    },
+    {
+      "added_at": "2022-08-05 05:00:00",
+      "album": {
+        "name": "Los Reyes del Tribal",
+        "url": "https://open.spotify.com/album/7aZA6VrLLeLQUNge1y0BuF"
+      },
+      "artists": [
+        {
+          "name": "El Pel\u00f3n del Mikrophone",
+          "url": "https://open.spotify.com/artist/7fD78qBivZ5nhloRHma0Pw"
+        }
+      ],
+      "duration_ms": 194493,
+      "name": "Celosa",
+      "url": "https://open.spotify.com/track/1zZakVmfBR7AkepHwBCWZ7"
     },
     {
       "added_at": "2022-08-05 05:00:00",
@@ -479,6 +479,38 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
+        "name": "Aqui Llego Tu Tiburon Huapango (Tribal MIX)",
+        "url": "https://open.spotify.com/album/5lWHBNxc6TJE5SXS3Y1N4C"
+      },
+      "artists": [
+        {
+          "name": "Dj Moys",
+          "url": "https://open.spotify.com/artist/0Fj0ovIqmQntVci9RoTxHa"
+        }
+      ],
+      "duration_ms": 90292,
+      "name": "Aqui Llego Tu Tiburon Huapango (Tribal MIX)",
+      "url": "https://open.spotify.com/track/0766dWnKeukIIjBIOzlt1U"
+    },
+    {
+      "added_at": "2022-08-05 05:00:00",
+      "album": {
+        "name": "Much\u00edsimo Tribal",
+        "url": "https://open.spotify.com/album/5QN3rjn0ivCi8PtLv63vlp"
+      },
+      "artists": [
+        {
+          "name": "Tribal Guarachero",
+          "url": "https://open.spotify.com/artist/5joTsOB4J8FAS2srUZrwCt"
+        }
+      ],
+      "duration_ms": 220212,
+      "name": "La Culebritica",
+      "url": "https://open.spotify.com/track/589A2uQDPameLScx9xkUDn"
+    },
+    {
+      "added_at": "2022-08-05 05:00:00",
+      "album": {
         "name": "Globall",
         "url": "https://open.spotify.com/album/4xQUm6jf8BTdvfDE72nu3o"
       },
@@ -495,22 +527,6 @@
       "duration_ms": 260186,
       "name": "Quiero Bailar (All Through the Night) [feat. Becky G]",
       "url": "https://open.spotify.com/track/2P3KclKBmd2oHYuTcXAcD4"
-    },
-    {
-      "added_at": "2022-08-05 05:00:00",
-      "album": {
-        "name": "Aqui Llego Tu Tiburon Huapango (Tribal MIX)",
-        "url": "https://open.spotify.com/album/5lWHBNxc6TJE5SXS3Y1N4C"
-      },
-      "artists": [
-        {
-          "name": "Dj Moys",
-          "url": "https://open.spotify.com/artist/0Fj0ovIqmQntVci9RoTxHa"
-        }
-      ],
-      "duration_ms": 90292,
-      "name": "Aqui Llego Tu Tiburon Huapango (Tribal MIX)",
-      "url": "https://open.spotify.com/track/0766dWnKeukIIjBIOzlt1U"
     },
     {
       "added_at": "2022-08-05 05:00:00",
@@ -551,22 +567,6 @@
       "duration_ms": 177920,
       "name": "Zumba Tribal",
       "url": "https://open.spotify.com/track/1tO56JLSWKeg2ZSXoa4Out"
-    },
-    {
-      "added_at": "2022-08-05 05:00:00",
-      "album": {
-        "name": "Much\u00edsimo Tribal",
-        "url": "https://open.spotify.com/album/5QN3rjn0ivCi8PtLv63vlp"
-      },
-      "artists": [
-        {
-          "name": "Tribal Guarachero",
-          "url": "https://open.spotify.com/artist/5joTsOB4J8FAS2srUZrwCt"
-        }
-      ],
-      "duration_ms": 220212,
-      "name": "La Culebritica",
-      "url": "https://open.spotify.com/track/589A2uQDPameLScx9xkUDn"
     },
     {
       "added_at": "2022-08-05 05:00:00",
@@ -647,26 +647,18 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
-        "name": "Imag\u00ednate",
-        "url": "https://open.spotify.com/album/1DPWhGySSW1Jgf2AbaQOrx"
+        "name": "Pasito Chacalon",
+        "url": "https://open.spotify.com/album/53R6GRQ1RYE0H4dn1xwdBW"
       },
       "artists": [
         {
           "name": "Cachirula",
           "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
-        },
-        {
-          "name": "CID MX",
-          "url": "https://open.spotify.com/artist/7l5dXp0vXYWwkOiLVJ06qx"
-        },
-        {
-          "name": "TBX",
-          "url": "https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp"
         }
       ],
-      "duration_ms": 157142,
-      "name": "Imag\u00ednate",
-      "url": "https://open.spotify.com/track/6dc7BsgtDwxlq4z7WyGE6Z"
+      "duration_ms": 192000,
+      "name": "Pasito Chacalon",
+      "url": "https://open.spotify.com/track/66OXBVfGaka7L38l50OMOW"
     },
     {
       "added_at": "2022-08-05 05:00:00",
@@ -743,6 +735,22 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
+        "name": "Pompi Cadera",
+        "url": "https://open.spotify.com/album/4Ny0w4fmGU7XvctBjU6bxD"
+      },
+      "artists": [
+        {
+          "name": "Erick Rincon",
+          "url": "https://open.spotify.com/artist/2EU3cjIkOdu1nDo4dJZ7Ba"
+        }
+      ],
+      "duration_ms": 140720,
+      "name": "Pompi Cadera",
+      "url": "https://open.spotify.com/track/0yYfcUbO9c4VvtnUYfxdOf"
+    },
+    {
+      "added_at": "2022-08-05 05:00:00",
+      "album": {
         "name": "NEAS DON'T CRY",
         "url": "https://open.spotify.com/album/6Tn0Eu7eLlWk1jfZzxhJQD"
       },
@@ -775,22 +783,6 @@
       "duration_ms": 142514,
       "name": "El Tabano",
       "url": "https://open.spotify.com/track/0juafdkGgYibG1jyCU5ADb"
-    },
-    {
-      "added_at": "2022-08-05 05:00:00",
-      "album": {
-        "name": "Pompi Cadera",
-        "url": "https://open.spotify.com/album/4Ny0w4fmGU7XvctBjU6bxD"
-      },
-      "artists": [
-        {
-          "name": "Erick Rincon",
-          "url": "https://open.spotify.com/artist/2EU3cjIkOdu1nDo4dJZ7Ba"
-        }
-      ],
-      "duration_ms": 140720,
-      "name": "Pompi Cadera",
-      "url": "https://open.spotify.com/track/0yYfcUbO9c4VvtnUYfxdOf"
     },
     {
       "added_at": "2022-08-05 05:00:00",
@@ -847,18 +839,42 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
-        "name": "Pasito Chacalon",
-        "url": "https://open.spotify.com/album/53R6GRQ1RYE0H4dn1xwdBW"
+        "name": "Imag\u00ednate",
+        "url": "https://open.spotify.com/album/1DPWhGySSW1Jgf2AbaQOrx"
       },
       "artists": [
         {
           "name": "Cachirula",
           "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        },
+        {
+          "name": "CID MX",
+          "url": "https://open.spotify.com/artist/7l5dXp0vXYWwkOiLVJ06qx"
+        },
+        {
+          "name": "TBX",
+          "url": "https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Pasito Chacalon",
-      "url": "https://open.spotify.com/track/66OXBVfGaka7L38l50OMOW"
+      "duration_ms": 157142,
+      "name": "Imag\u00ednate",
+      "url": "https://open.spotify.com/track/6dc7BsgtDwxlq4z7WyGE6Z"
+    },
+    {
+      "added_at": "2022-08-05 05:00:00",
+      "album": {
+        "name": "Generaci\u00f3n Tribal",
+        "url": "https://open.spotify.com/album/1IqiZ7iimf2SSnjqoSHHZh"
+      },
+      "artists": [
+        {
+          "name": "Erick Rincon",
+          "url": "https://open.spotify.com/artist/2EU3cjIkOdu1nDo4dJZ7Ba"
+        }
+      ],
+      "duration_ms": 148786,
+      "name": "Tierra Azteca (Azteks In Berl\u00edn)",
+      "url": "https://open.spotify.com/track/4hb66oTKdC2KrJaRgthbCo"
     },
     {
       "added_at": "2022-08-05 05:00:00",
@@ -959,22 +975,6 @@
       "duration_ms": 192613,
       "name": "Mueve Tu Caderita",
       "url": "https://open.spotify.com/track/7E6SsIPD1wn0SZsm4CxJhr"
-    },
-    {
-      "added_at": "2022-08-05 05:00:00",
-      "album": {
-        "name": "Generaci\u00f3n Tribal",
-        "url": "https://open.spotify.com/album/1IqiZ7iimf2SSnjqoSHHZh"
-      },
-      "artists": [
-        {
-          "name": "Erick Rincon",
-          "url": "https://open.spotify.com/artist/2EU3cjIkOdu1nDo4dJZ7Ba"
-        }
-      ],
-      "duration_ms": 148786,
-      "name": "Tierra Azteca (Azteks In Berl\u00edn)",
-      "url": "https://open.spotify.com/track/4hb66oTKdC2KrJaRgthbCo"
     }
   ],
   "unique_name": "Fiesta Tribal",

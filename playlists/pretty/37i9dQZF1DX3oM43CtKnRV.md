@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oM43CtKnRV.md) - [plain]
 
 > These songs rocked the 00s\. Cover: Linkin Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,902,913 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,904,007 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oM43CtKnRV.md) - [plain]
 | 99 | [Sorry You're Not a Winner](https://open.spotify.com/track/6PwxotrB99xgatKVzibmkz) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Take to the Skies](https://open.spotify.com/album/5cO7wtkaJCY3SiV6g0MKHE) | 4:14 |
 | 100 | [The Everlasting Gaze](https://open.spotify.com/track/4EhbLHYOXzEoPmOfaVoIIW) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Machina / The Machines Of God](https://open.spotify.com/album/4hrZp6mKgz0HG7UpRbNYQx) | 4:00 |
 
-Snapshot ID: `MCw1YmU0NmYwNWEzMjFhMTg0M2M0Yjk3NzdlZmM2ZDkyZjhmZGFjY2Qz`
+Snapshot ID: `MCxlMjgxYzZhOGZmM2M4NDA5OTBhZjZlNDY2ZTc3ZDU0YzBkZDRlOTc5`

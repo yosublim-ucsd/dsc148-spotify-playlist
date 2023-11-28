@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Jacob Collier + Stormzy + Shawn Mendes \(pictured\), Take That, Björk + ROSALÍA and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 843,597 likes - 132 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 843,605 likes - 132 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 131 | [Hard to Love](https://open.spotify.com/track/6QV6miSjUtqppivpjwDZgI) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Hard To Love](https://open.spotify.com/album/0jXxDV0TkGE6f5MezsGFrU) | 2:47 |
 | 132 | [Lover & Friend](https://open.spotify.com/track/10m5CT42VKtDifUiAczDdk) | [Kadeem Tyrell](https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh) | [Lover & Friend](https://open.spotify.com/album/4Ccmc7eguhAphHJeOsfefZ) | 2:57 |
 
-Snapshot ID: `MCxiZDE5YTc1ODYxZTBjMjJiOGJlYTk3YWRmZTA3YWFiMmI0MzhiYWEw`
+Snapshot ID: `MCxlNGM5ZjMzNDlmYTUwNzFhNDMzNjQyNmFmYTc4NDQ5Y2ZlZDk0M2Ez`

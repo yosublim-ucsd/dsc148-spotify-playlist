@@ -4,7 +4,7 @@
 
 > Inizia la giornata con la tua dose di caffè e carica musicale!
 
-187 songs - 9 hr 53 min
+188 songs - 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Can't Stay Away](https://open.spotify.com/track/4hMGh59flGlHd4kAnYGH1N) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Can't Stay Away](https://open.spotify.com/album/15fhQZGplsZY8jotdyudaz) | 3:00 | 2022-05-06 | 2022-07-29 |
 | [cardigan](https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:59 | 2022-07-14 |  |
 | [Che t'o dico a fa'](https://open.spotify.com/track/20qlAd6sHAYjc7TrrM5VeY) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Che t'o dico a fa'](https://open.spotify.com/album/7kILSxiEN9pJrFyr7Bs8OE) | 3:07 | 2023-10-12 | 2023-11-18 |
+| [Che t’o dico a fa’](https://open.spotify.com/track/7sBmJhD1J7qt33jgxH7Jf9) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Che t’o dico a fa’](https://open.spotify.com/album/06ngD2b3wsMNEKynEGt24o) | 3:07 | 2023-11-06 |  |
 | [Ciao Ciao](https://open.spotify.com/track/0jLeyuu6mtsD384054xLah) | [La rappresentante di lista](https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU) | [Ciao Ciao](https://open.spotify.com/album/0pK7UNY1nXMQeeJKiAZMMj) | 3:04 | 2022-05-06 | 2022-05-20 |
 | [COCKTAIL D'AMORE](https://open.spotify.com/track/1HuXy8Ra2kevcqhx1xt5GQ) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [COCKTAIL D'AMORE](https://open.spotify.com/album/3XULLl9CRg88JlxIvBSrKY) | 3:24 | 2023-11-06 |  |
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 | 2022-05-06 |  |
@@ -123,7 +124,7 @@
 | [Musica leggerissima](https://open.spotify.com/track/5vYXOk1umkpp7JhXZm6rDI) | [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf), [Dimartino](https://open.spotify.com/artist/1k3zqz5SgrYCE0wpcfJX3g) | [I Mortali²](https://open.spotify.com/album/3jGpIpMIVzZ4gY9NWE6qMU) | 4:00 | 2022-05-06 | 2022-07-29 |
 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 | 2022-05-06 |  |
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2022-05-06 |  |
-| [Never Going Home](https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Never Going Home](https://open.spotify.com/album/3M2ev0LMKExe0Y9HaNrkfA) | 2:49 | 2022-05-06 |  |
+| [Never Going Home](https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Never Going Home](https://open.spotify.com/album/3M2ev0LMKExe0Y9HaNrkfA) | 2:49 | 2022-05-06 | 2023-11-28 |
 | [No Words](https://open.spotify.com/track/7uvM5HZ2coIxRTzKApj1AH) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Numb](https://open.spotify.com/album/128DS3EuOia6uX7uY22Zq7) | 3:50 | 2022-05-06 | 2022-05-10 |
 | [Nobody's Love](https://open.spotify.com/track/2ST72jD2KVe7f3fbcGyX1b) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:31 | 2022-07-14 | 2022-09-01 |
 | [Oh My God](https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:45 | 2022-05-06 |  |

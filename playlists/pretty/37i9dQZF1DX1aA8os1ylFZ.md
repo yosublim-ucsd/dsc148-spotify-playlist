@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > get into your feels with some r&b magic
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,317 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,362 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 22 | [Feelings \(feat\. J Hus\)](https://open.spotify.com/track/13eNzMdXHUinoWsxcRXTCW) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 3:57 |
 | 23 | [That's You](https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [That's You](https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV) | 4:11 |
 | 24 | [This Is](https://open.spotify.com/track/2zuDMKJ2rSgCMtJknUJBZ9) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve \(Deluxe Edition\)](https://open.spotify.com/album/5PSR9tquibfWRiWVSkn6qD) | 3:26 |
-| 25 | [JEANS \(with Miguel\)](https://open.spotify.com/track/4joC6YCuIUDdBBAY2rCBGi) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [JEANS](https://open.spotify.com/album/1iFSjxYvls81f60fJx8G5K) | 3:15 |
-| 26 | [ICU](https://open.spotify.com/track/3tpI98Yae25hSvhh6mitA9) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn’t Tell You \(Deluxe\)](https://open.spotify.com/album/0P7argSEQG9otkeG3welvZ) | 4:01 |
+| 25 | [ICU](https://open.spotify.com/track/3tpI98Yae25hSvhh6mitA9) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn’t Tell You \(Deluxe\)](https://open.spotify.com/album/0P7argSEQG9otkeG3welvZ) | 4:01 |
+| 26 | [JEANS \(with Miguel\)](https://open.spotify.com/track/4joC6YCuIUDdBBAY2rCBGi) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [JEANS](https://open.spotify.com/album/1iFSjxYvls81f60fJx8G5K) | 3:15 |
 | 27 | [Moment Of Your Life](https://open.spotify.com/track/6ffrYPrHM70FScnrtHIcPh) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Moment Of Your Life](https://open.spotify.com/album/2M8xH28B7GMVUFMA7Ofcis) | 3:15 |
 | 28 | [Be My Summer](https://open.spotify.com/track/18QC5FsQ9FThInUrC6BScS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Be My Summer](https://open.spotify.com/album/1WStqZEbgRsqUNazxV7u9C) | 3:06 |
 | 29 | [Doin Yo Stuff](https://open.spotify.com/track/1VEPKq5jNdUyemcq29h5ki) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [Sixtape 3](https://open.spotify.com/album/40eNoJ2ryZfFNb5iyhKoiX) | 2:36 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 76 | [hoe bedoel je?](https://open.spotify.com/track/7juYCJy0yvKaV8uvZJV4p9) | [Danny Dubb](https://open.spotify.com/artist/1ZzmoEKSOVNm75SY7T1zBe) | [hoe bedoel je?](https://open.spotify.com/album/4CN04dChYLqFWOaSDhtOG3) | 2:17 |
 | 77 | [Temporary Love](https://open.spotify.com/track/502fO9MaTL1FXQxilajwW8) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Temporary Love](https://open.spotify.com/album/7Ik6vXPyiM9jflElmt78cQ) | 2:36 |
 | 78 | [Private](https://open.spotify.com/track/42aNId1lKXtXYhs3tw9qlE) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI), [Badí](https://open.spotify.com/artist/7MDPfcrNPw7maI50adktWa) | [Private](https://open.spotify.com/album/6obunuhuVYQh7LBZgXoIOR) | 2:38 |
-| 79 | [2 Am](https://open.spotify.com/track/3pg7RawLH4HlNJ75BwprlL) | [LORNZO](https://open.spotify.com/artist/165m3O9waRPKckujKZnFlz) | [2 Am](https://open.spotify.com/album/6gTZhOGjg9D5Ks5HunS9wu) | 2:40 |
-| 80 | [Peace](https://open.spotify.com/track/2jVophLAvSRFwiC0bhk8K4) | [QUiNNA](https://open.spotify.com/artist/22rDvoC9Ih125ORFkRXU1p), [Asiah](https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX), [Sevendays](https://open.spotify.com/artist/7Bjrqi8xQL35Lp9KCRI3sY) | [Peace](https://open.spotify.com/album/4XyrBfLYVSRYIAIeAEJWF1) | 2:49 |
+| 79 | [Peace](https://open.spotify.com/track/2jVophLAvSRFwiC0bhk8K4) | [QUiNNA](https://open.spotify.com/artist/22rDvoC9Ih125ORFkRXU1p), [Asiah](https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX), [Sevendays](https://open.spotify.com/artist/7Bjrqi8xQL35Lp9KCRI3sY) | [Peace](https://open.spotify.com/album/4XyrBfLYVSRYIAIeAEJWF1) | 2:49 |
+| 80 | [2 Am](https://open.spotify.com/track/3pg7RawLH4HlNJ75BwprlL) | [LORNZO](https://open.spotify.com/artist/165m3O9waRPKckujKZnFlz) | [2 Am](https://open.spotify.com/album/6gTZhOGjg9D5Ks5HunS9wu) | 2:40 |
 | 81 | [All I Need](https://open.spotify.com/track/5V5MLWpaH416tfZl5e5z84) | [Miss Lafamilia](https://open.spotify.com/artist/5RUIxQGzPzXUD19Rb3W4e9) | [All I Need](https://open.spotify.com/album/1CjPP5G4HZ9AuiJrMLHm6A) | 2:53 |
 | 82 | [Candy Store](https://open.spotify.com/track/52k3JDkTOm35bER4EwRtTD) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Candy Store](https://open.spotify.com/album/3nzA2nfVpSVNIVbJPXzFQR) | 2:49 |
 | 83 | [Emotionally Unavailable](https://open.spotify.com/track/4ysqeIgg9nExbHT9jyXMZu) | [Alice Aera](https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7), [Khalil](https://open.spotify.com/artist/0Ve0bm5U01MnOpONJMoEC4) | [Emotionally Unavailable](https://open.spotify.com/album/6GTubdptJMyDY8WBuWH7ws) | 2:22 |
@@ -96,10 +96,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 86 | [Headlights](https://open.spotify.com/track/1eiPx1hsXwBUnrSqmaygUx) | [Miller Blue](https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA) | [Headlights](https://open.spotify.com/album/2OqSKDW0ZotjVuZPrg15N8) | 2:53 |
 | 87 | [Home](https://open.spotify.com/track/2V1uSXkEy77WNk9ZL6IuxJ) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [Genesis](https://open.spotify.com/album/4Pc3nWPVnnOQcMKRE53qYT) | 3:03 |
 | 88 | [Mood](https://open.spotify.com/track/1YoaC97vl8UBcXM9J0V3ro) | [Natalie La Rose](https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i) | [Mood](https://open.spotify.com/album/1bxGp98YJlaWr6nLaBIvHp) | 3:06 |
-| 89 | [Love On Film](https://open.spotify.com/track/1ovEFCHgdJUUPdEtevTSO0) | [J.A.D.E](https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH) | [Love On Film](https://open.spotify.com/album/7M5WPHQnvSZ53pnlzUkAGW) | 2:03 |
-| 90 | [1+1](https://open.spotify.com/track/2TtiDn0UNM0x5O6wvcd7Kt) | [Cyra Gwynth](https://open.spotify.com/artist/73xasVLAvFrnbuhBdAucpp) | [1+1](https://open.spotify.com/album/6PGhknbHltteEYewVcwXx4) | 2:52 |
-| 91 | [Darkness](https://open.spotify.com/track/4xNygvV9HtIisQlGQgATvN) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [Darkness](https://open.spotify.com/album/12WLtY1AOfYXPmVoYdulxZ) | 3:01 |
-| 92 | [Say That](https://open.spotify.com/track/3I2OTaL3DTKB6MK24nKYJy) | [Astèr Fekre](https://open.spotify.com/artist/4owtjBwXE8zpOk4ihtCXpK) | [Say That](https://open.spotify.com/album/1PQe82S6RF7feFvSBAn3yh) | 3:47 |
+| 89 | [1+1](https://open.spotify.com/track/2TtiDn0UNM0x5O6wvcd7Kt) | [Cyra Gwynth](https://open.spotify.com/artist/73xasVLAvFrnbuhBdAucpp) | [1+1](https://open.spotify.com/album/6PGhknbHltteEYewVcwXx4) | 2:52 |
+| 90 | [Darkness](https://open.spotify.com/track/4xNygvV9HtIisQlGQgATvN) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [Darkness](https://open.spotify.com/album/12WLtY1AOfYXPmVoYdulxZ) | 3:01 |
+| 91 | [Say That](https://open.spotify.com/track/3I2OTaL3DTKB6MK24nKYJy) | [Astèr Fekre](https://open.spotify.com/artist/4owtjBwXE8zpOk4ihtCXpK) | [Say That](https://open.spotify.com/album/1PQe82S6RF7feFvSBAn3yh) | 3:47 |
+| 92 | [Love On Film](https://open.spotify.com/track/1ovEFCHgdJUUPdEtevTSO0) | [J.A.D.E](https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH) | [Love On Film](https://open.spotify.com/album/7M5WPHQnvSZ53pnlzUkAGW) | 2:03 |
 | 93 | [City Girl](https://open.spotify.com/track/1uuCG9rNTnjI7hljkFlGFO) | [Quessswho](https://open.spotify.com/artist/4Q23rm8jYyd2ft6Cm1MhwJ) | [City Girl](https://open.spotify.com/album/6p0O1QjQAqtFvY3s1tLYLn) | 2:01 |
 | 94 | [Do They Know](https://open.spotify.com/track/2duXRr3V3koJ0w6WsEDOAU) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g) | [Do They Know](https://open.spotify.com/album/3qhMA6qBm8VcurTYcY94AM) | 2:02 |
 | 95 | [Whatever I Guess?](https://open.spotify.com/track/0oiTps85hBha6oKXqSU9Kz) | [Ashia Vu](https://open.spotify.com/artist/7hZljhtRZAvfjAskOUmKU4) | [Whatever I Guess?](https://open.spotify.com/album/4fkxCVh692oxovALJrl1iu) | 3:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 99 | [Balcony](https://open.spotify.com/track/2IS5TQnd26IKxRg7cewEdO) | [Anuka](https://open.spotify.com/artist/4tp1pUIwgLWIIIIOo1yPYp) | [Balcony](https://open.spotify.com/album/695ukF8LGhGU4pagxtsxFc) | 2:40 |
 | 100 | [Don’t Mind](https://open.spotify.com/track/4yq7RXjF9M5nmkYPiVo0oV) | [Shadi](https://open.spotify.com/artist/6KRiktIvEommt5qfwLOxBz) | [Freak Pack](https://open.spotify.com/album/2VaXsrVlaa1JTCmskan7Yk) | 2:59 |
 
-Snapshot ID: `MCw3NjFiZDZhYThhMjdhNjY2ZWFmYTVkOTQwNTdmNTVhNmY4MTIzZWQw`
+Snapshot ID: `MCwxNDZhZjYwOWM3Zjc5Y2U5YWI2YWE1MmVhMGNkZmZlMmJjOTYyZmUz`

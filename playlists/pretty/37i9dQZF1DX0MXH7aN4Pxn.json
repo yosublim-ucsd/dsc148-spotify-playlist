@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 685916,
+  "num_followers": 685912,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODZiMzRjMGY0YTNlZWQyYzNjYWViMmJhZTVhMmQ2MDg0YzQ5M2U2",
+  "snapshot_id": "MCw0MGQ3ODFhNmQ3MDYxNDU2YzQ4MDdjYTY0NzNjOGNkNjk2NmU5NDEx",
   "tracks": [
     {
       "added_at": "2023-11-10 00:01:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Groove Thang",
-        "url": "https://open.spotify.com/album/1PPPSHY19tixIaMCbDJihZ"
-      },
-      "artists": [
-        {
-          "name": "Ewan McVicar",
-          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
-        }
-      ],
-      "duration_ms": 220360,
-      "name": "Groove Thang",
-      "url": "https://open.spotify.com/track/6pyjUNNPUAHqRkvD0ZEDFz"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
         "name": "About Damn Time (Purple Disco Machine Remix)",
         "url": "https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 218476,
       "name": "About Damn Time - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
+        "name": "Groove Thang",
+        "url": "https://open.spotify.com/album/1PPPSHY19tixIaMCbDJihZ"
+      },
+      "artists": [
+        {
+          "name": "Ewan McVicar",
+          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
+        }
+      ],
+      "duration_ms": 220360,
+      "name": "Groove Thang",
+      "url": "https://open.spotify.com/track/6pyjUNNPUAHqRkvD0ZEDFz"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Tell Me Something Good",
-        "url": "https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4"
-      },
-      "artists": [
-        {
-          "name": "Ewan McVicar",
-          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
-        }
-      ],
-      "duration_ms": 249678,
-      "name": "Tell Me Something Good",
-      "url": "https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
         "name": "Human (feat. Echoes)",
         "url": "https://open.spotify.com/album/0LsQJbzouY38Os8GXxn5dO"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 219047,
       "name": "Human (feat. Echoes)",
       "url": "https://open.spotify.com/track/4G4patpYxsF6ovHZOX9wgR"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
+        "name": "Tell Me Something Good",
+        "url": "https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4"
+      },
+      "artists": [
+        {
+          "name": "Ewan McVicar",
+          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
+        }
+      ],
+      "duration_ms": 249678,
+      "name": "Tell Me Something Good",
+      "url": "https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -883,6 +883,26 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
+        "name": "Belters Only",
+        "url": "https://open.spotify.com/album/7fSPGNZ9RY2yS9btOkO9Hu"
+      },
+      "artists": [
+        {
+          "name": "Belters Only",
+          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
+        },
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 186541,
+      "name": "Don't Stop Just Yet",
+      "url": "https://open.spotify.com/track/1pz4k8r1OPeNBeAGmi9gL9"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
         "name": "No Fun",
         "url": "https://open.spotify.com/album/5MOMnX1NgMpjRD0iAHcttM"
       },
@@ -915,26 +935,6 @@
       "duration_ms": 116554,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6t192M9A83w0sfFCCuW2ds"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
-        "name": "Belters Only",
-        "url": "https://open.spotify.com/album/7fSPGNZ9RY2yS9btOkO9Hu"
-      },
-      "artists": [
-        {
-          "name": "Belters Only",
-          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
-        },
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 186541,
-      "name": "Don't Stop Just Yet",
-      "url": "https://open.spotify.com/track/1pz4k8r1OPeNBeAGmi9gL9"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1167,6 +1167,26 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
+        "name": "Motown Philly",
+        "url": "https://open.spotify.com/album/2Rb5KdeDt7P1WASorfVR46"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        },
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+        }
+      ],
+      "duration_ms": 158140,
+      "name": "Motown Philly",
+      "url": "https://open.spotify.com/track/07Jkr2QHuoVGBLVhZNpRFl"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
         "name": "Mad At Me",
         "url": "https://open.spotify.com/album/02oVf19wXURdIAfzgUW3xr"
       },
@@ -1195,26 +1215,6 @@
       "duration_ms": 284026,
       "name": "When A Fire Starts To Burn",
       "url": "https://open.spotify.com/track/7qVLZuvzNjyiy3TVtEBwBE"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
-        "name": "Motown Philly",
-        "url": "https://open.spotify.com/album/2Rb5KdeDt7P1WASorfVR46"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        },
-        {
-          "name": "Boyz II Men",
-          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
-        }
-      ],
-      "duration_ms": 158140,
-      "name": "Motown Philly",
-      "url": "https://open.spotify.com/track/07Jkr2QHuoVGBLVhZNpRFl"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Wanna Be",
-        "url": "https://open.spotify.com/album/3xUpADnjRH0Wsuky9k0ktp"
-      },
-      "artists": [
-        {
-          "name": "Silky",
-          "url": "https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Wanna Be",
-      "url": "https://open.spotify.com/track/7LaY0WEnbY6rTqzSfoU5jj"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
         "name": "We Can Come Together",
         "url": "https://open.spotify.com/album/2fQHFbvrb4zGAVXTR7DN4q"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 216984,
       "name": "We Can Come Together",
       "url": "https://open.spotify.com/track/0YG1fyqSZpuIfNlkOeN3eD"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
+        "name": "Wanna Be",
+        "url": "https://open.spotify.com/album/3xUpADnjRH0Wsuky9k0ktp"
+      },
+      "artists": [
+        {
+          "name": "Silky",
+          "url": "https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Wanna Be",
+      "url": "https://open.spotify.com/track/7LaY0WEnbY6rTqzSfoU5jj"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1559,30 +1559,6 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Ascending Into The Clouds (feat. Elisabeth Troy) [Edit]",
-        "url": "https://open.spotify.com/album/6RkAmdnqMxodcx6t6dKg5K"
-      },
-      "artists": [
-        {
-          "name": "Tiga",
-          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
-        },
-        {
-          "name": "Hudson Mohawke",
-          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
-        },
-        {
-          "name": "Elisabeth Troy",
-          "url": "https://open.spotify.com/artist/2PWJP6HKlECQurewX1uGuT"
-        }
-      ],
-      "duration_ms": 208217,
-      "name": "Ascending Into The Clouds (feat. Elisabeth Troy) - Edit",
-      "url": "https://open.spotify.com/track/5dlwxxHd9RNBPP3PwlLZgB"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
         "name": "Hooked",
         "url": "https://open.spotify.com/album/2xS5Vj4er6u3W6aCBnq2iN"
       },
@@ -1615,6 +1591,30 @@
       "duration_ms": 174649,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/14agcnE3UapOnnxYufVMZZ"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
+        "name": "Ascending Into The Clouds (feat. Elisabeth Troy) [Edit]",
+        "url": "https://open.spotify.com/album/6RkAmdnqMxodcx6t6dKg5K"
+      },
+      "artists": [
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "Hudson Mohawke",
+          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
+        },
+        {
+          "name": "Elisabeth Troy",
+          "url": "https://open.spotify.com/artist/2PWJP6HKlECQurewX1uGuT"
+        }
+      ],
+      "duration_ms": 208217,
+      "name": "Ascending Into The Clouds (feat. Elisabeth Troy) - Edit",
+      "url": "https://open.spotify.com/track/5dlwxxHd9RNBPP3PwlLZgB"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "What You Do To Me",
-        "url": "https://open.spotify.com/album/54HlnxJS63kUPHH144QsDk"
-      },
-      "artists": [
-        {
-          "name": "SUB-X",
-          "url": "https://open.spotify.com/artist/1j8HYCn8bRMA3kYN66pVCG"
-        }
-      ],
-      "duration_ms": 171178,
-      "name": "What You Do To Me",
-      "url": "https://open.spotify.com/track/6fwosYHgw98fyKpNTV96vk"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
         "name": "Mini Skirt",
         "url": "https://open.spotify.com/album/77EIwM8PC7uBqEqDH6MFW3"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 151875,
       "name": "Mini Skirt",
       "url": "https://open.spotify.com/track/4L5aysnpEXU7YtRU8HQ3GI"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
+        "name": "What You Do To Me",
+        "url": "https://open.spotify.com/album/54HlnxJS63kUPHH144QsDk"
+      },
+      "artists": [
+        {
+          "name": "SUB-X",
+          "url": "https://open.spotify.com/artist/1j8HYCn8bRMA3kYN66pVCG"
+        }
+      ],
+      "duration_ms": 171178,
+      "name": "What You Do To Me",
+      "url": "https://open.spotify.com/track/6fwosYHgw98fyKpNTV96vk"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1731,6 +1731,26 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
+        "name": "On & On",
+        "url": "https://open.spotify.com/album/31M60KTaTBuBHOXx16Csv0"
+      },
+      "artists": [
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        },
+        {
+          "name": "S1mba",
+          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
+        }
+      ],
+      "duration_ms": 163957,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/6KsEcrcGjailfCMFLriTvd"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
         "name": "You & I (Emily Nash Remix)",
         "url": "https://open.spotify.com/album/6fRRqRFnCivghMKQG6yHZz"
       },
@@ -1751,26 +1771,6 @@
       "duration_ms": 172258,
       "name": "You & I - Emily Nash Remix",
       "url": "https://open.spotify.com/track/6Mxaum98mQ7PySB9jvunYL"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
-        "name": "On & On",
-        "url": "https://open.spotify.com/album/31M60KTaTBuBHOXx16Csv0"
-      },
-      "artists": [
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        },
-        {
-          "name": "S1mba",
-          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
-        }
-      ],
-      "duration_ms": 163957,
-      "name": "On & On",
-      "url": "https://open.spotify.com/track/6KsEcrcGjailfCMFLriTvd"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1871,6 +1871,22 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
+        "name": "When Friday Comes",
+        "url": "https://open.spotify.com/album/4Lv8mRC2cxayjHbmOQSZmL"
+      },
+      "artists": [
+        {
+          "name": "KOLIDESCOPES",
+          "url": "https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby"
+        }
+      ],
+      "duration_ms": 181944,
+      "name": "When Friday Comes",
+      "url": "https://open.spotify.com/track/3yDbJlEJuWjTMPUrM9z9TH"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
         "name": "Little Things",
         "url": "https://open.spotify.com/album/2bJ75kaDgkRHnPAfLDaz6n"
       },
@@ -1891,18 +1907,18 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "When Friday Comes",
-        "url": "https://open.spotify.com/album/4Lv8mRC2cxayjHbmOQSZmL"
+        "name": "Do That EP",
+        "url": "https://open.spotify.com/album/0JYLFoVSCplUAgU55biKTa"
       },
       "artists": [
         {
-          "name": "KOLIDESCOPES",
-          "url": "https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby"
+          "name": "lau.ra",
+          "url": "https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn"
         }
       ],
-      "duration_ms": 181944,
-      "name": "When Friday Comes",
-      "url": "https://open.spotify.com/track/3yDbJlEJuWjTMPUrM9z9TH"
+      "duration_ms": 163245,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/6m4nNzJAiWFePTf5IlwReN"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1923,22 +1939,6 @@
       "duration_ms": 116053,
       "name": "African Lady (Antenna)",
       "url": "https://open.spotify.com/track/182Av0m3TEXH9KcEy8G1Yt"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
-        "name": "Do That EP",
-        "url": "https://open.spotify.com/album/0JYLFoVSCplUAgU55biKTa"
-      },
-      "artists": [
-        {
-          "name": "lau.ra",
-          "url": "https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn"
-        }
-      ],
-      "duration_ms": 163245,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/6m4nNzJAiWFePTf5IlwReN"
     }
   ],
   "unique_name": "PARTY MODE",

@@ -1,12 +1,12 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 67006,
+  "num_followers": 67016,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMWEyYTlkYjNkMzcwMDM2ZDZkNzlkZTkzNzQ1NzA1OTE3ZDE0NWZl",
+  "snapshot_id": "MCw1YzUwMDE1M2ZhZWJkNTZjNWQ2YzUzYjdmMDRiMDk3MjZlYmY4YmI2",
   "tracks": [
     {
       "added_at": "2022-04-18 02:03:22",
@@ -175,22 +175,6 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "5 Seconds Of Summer",
-        "url": "https://open.spotify.com/album/2LkWHNNHgD6BRNeZI2SL1L"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 202496,
-      "name": "She Looks So Perfect",
-      "url": "https://open.spotify.com/track/1gugDOSMREb34Xo0c1PlxM"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
         "name": "Nation of Two",
         "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 214720,
       "name": "Saturday Sun",
       "url": "https://open.spotify.com/track/2RiBogNRfulkNf7fVbPOrJ"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "5 Seconds Of Summer",
+        "url": "https://open.spotify.com/album/2LkWHNNHgD6BRNeZI2SL1L"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 202496,
+      "name": "She Looks So Perfect",
+      "url": "https://open.spotify.com/track/1gugDOSMREb34Xo0c1PlxM"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -255,6 +255,22 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
+        "name": "Please Don't Go",
+        "url": "https://open.spotify.com/album/2SF8Wbc61u8hlQkZYGVCnx"
+      },
+      "artists": [
+        {
+          "name": "Joel Adams",
+          "url": "https://open.spotify.com/artist/36jaGQtMj5UWD0eO1fCVdD"
+        }
+      ],
+      "duration_ms": 210580,
+      "name": "Please Don't Go",
+      "url": "https://open.spotify.com/track/3cNjgVBKTJ1SvKhunrCdVy"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
         "name": "Business As Usual",
         "url": "https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84"
       },
@@ -271,18 +287,18 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Please Don't Go",
-        "url": "https://open.spotify.com/album/2SF8Wbc61u8hlQkZYGVCnx"
+        "name": "This Is Acting (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
       },
       "artists": [
         {
-          "name": "Joel Adams",
-          "url": "https://open.spotify.com/artist/36jaGQtMj5UWD0eO1fCVdD"
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 210580,
-      "name": "Please Don't Go",
-      "url": "https://open.spotify.com/track/3cNjgVBKTJ1SvKhunrCdVy"
+      "duration_ms": 211666,
+      "name": "Cheap Thrills",
+      "url": "https://open.spotify.com/track/3S4px9f4lceWdKf0gWciFu"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -375,22 +391,6 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "This Is Acting (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Cheap Thrills",
-      "url": "https://open.spotify.com/track/3S4px9f4lceWdKf0gWciFu"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
         "name": "Bombs Away",
         "url": "https://open.spotify.com/album/2Yi29VOccHCwktsZNqtxbt"
       },
@@ -419,22 +419,6 @@
       "duration_ms": 196786,
       "name": "La Da Dee",
       "url": "https://open.spotify.com/track/0ccwMrlZONy5yXrirq7lTe"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
-        "name": "Dream Your Life Away (Special Edition)",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 249382,
-      "name": "Fire and the Flood",
-      "url": "https://open.spotify.com/track/6liNJDyWJjyHAgDnAX95bw"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -471,6 +455,22 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
+        "name": "1000 Forms Of Fear (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 257200,
+      "name": "Elastic Heart",
+      "url": "https://open.spotify.com/track/5S9lfZu1YF8xKkgSsqL2Bd"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
         "name": "Walking Under Stars",
         "url": "https://open.spotify.com/album/7Lp5k5j4kHtTT8zOpJkfUN"
       },
@@ -483,6 +483,22 @@
       "duration_ms": 217720,
       "name": "Cosby Sweater",
       "url": "https://open.spotify.com/track/6myDPrp86x4Lhyp5aqU0EV"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 249382,
+      "name": "Fire and the Flood",
+      "url": "https://open.spotify.com/track/6liNJDyWJjyHAgDnAX95bw"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -519,38 +535,6 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Classic Hits",
-        "url": "https://open.spotify.com/album/03T5bXMySvcTGqm8RpIJsV"
-      },
-      "artists": [
-        {
-          "name": "John Paul Young",
-          "url": "https://open.spotify.com/artist/2wMcQIxzH2LYHJZNxo9FcN"
-        }
-      ],
-      "duration_ms": 208866,
-      "name": "Love Is in the Air",
-      "url": "https://open.spotify.com/track/4v2K1ZcRXUc87CLtEXI3Pf"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
-        "name": "1000 Forms Of Fear (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 257200,
-      "name": "Elastic Heart",
-      "url": "https://open.spotify.com/track/5S9lfZu1YF8xKkgSsqL2Bd"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
         "name": "Blue Neighbourhood (Deluxe)",
         "url": "https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 185194,
       "name": "YOUTH",
       "url": "https://open.spotify.com/track/1cOyWWUr3oXJIxY0AjJEx9"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "Classic Hits",
+        "url": "https://open.spotify.com/album/03T5bXMySvcTGqm8RpIJsV"
+      },
+      "artists": [
+        {
+          "name": "John Paul Young",
+          "url": "https://open.spotify.com/artist/2wMcQIxzH2LYHJZNxo9FcN"
+        }
+      ],
+      "duration_ms": 208866,
+      "name": "Love Is in the Air",
+      "url": "https://open.spotify.com/track/4v2K1ZcRXUc87CLtEXI3Pf"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -599,42 +599,6 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Physical (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6iEs6clt0QoAW4y0dzd3JH"
-      },
-      "artists": [
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        }
-      ],
-      "duration_ms": 225992,
-      "name": "Physical - Remastered 2021",
-      "url": "https://open.spotify.com/track/4gitetlGHZ9LfuJhwUhEhF"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
-        "name": "Call On Me (Remixes)",
-        "url": "https://open.spotify.com/album/5G7go9EeotMk9RfLETBDgJ"
-      },
-      "artists": [
-        {
-          "name": "Starley",
-          "url": "https://open.spotify.com/artist/02A3cEvlLLCbIMVDrK2GHV"
-        },
-        {
-          "name": "Ryan Riback",
-          "url": "https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt"
-        }
-      ],
-      "duration_ms": 222040,
-      "name": "Call on Me - Ryan Riback Remix",
-      "url": "https://open.spotify.com/track/2L6orAlH8tBhiFTumIfMyF"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
         "name": "Drinking From The Sun, Walking Under Stars Restrung",
         "url": "https://open.spotify.com/album/4ijUWjOHZ5VnUADcOsL1vS"
       },
@@ -659,6 +623,22 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
+        "name": "Physical (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6iEs6clt0QoAW4y0dzd3JH"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "duration_ms": 225992,
+      "name": "Physical - Remastered 2021",
+      "url": "https://open.spotify.com/track/4gitetlGHZ9LfuJhwUhEhF"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
         "name": "Tea & Sympathy",
         "url": "https://open.spotify.com/album/2OICen81GDKy8Mds7OdX4I"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 151133,
       "name": "Wish You Well",
       "url": "https://open.spotify.com/track/48xq0DnfAKtsFjK1L7GZx9"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "Call On Me (Remixes)",
+        "url": "https://open.spotify.com/album/5G7go9EeotMk9RfLETBDgJ"
+      },
+      "artists": [
+        {
+          "name": "Starley",
+          "url": "https://open.spotify.com/artist/02A3cEvlLLCbIMVDrK2GHV"
+        },
+        {
+          "name": "Ryan Riback",
+          "url": "https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt"
+        }
+      ],
+      "duration_ms": 222040,
+      "name": "Call on Me - Ryan Riback Remix",
+      "url": "https://open.spotify.com/track/2L6orAlH8tBhiFTumIfMyF"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -847,18 +847,18 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Affirmation",
-        "url": "https://open.spotify.com/album/3w69KK7uEA8OsKuW3OeQcC"
+        "name": "Love Monster",
+        "url": "https://open.spotify.com/album/7M7CdUhAKyLmCFLY8z4b0P"
       },
       "artists": [
         {
-          "name": "Savage Garden",
-          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
+          "name": "Amy Shark",
+          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
         }
       ],
-      "duration_ms": 295800,
-      "name": "Affirmation",
-      "url": "https://open.spotify.com/track/6lWY4ji9T0tpFU2xbnRC1p"
+      "duration_ms": 170413,
+      "name": "I Said Hi",
+      "url": "https://open.spotify.com/track/4gvPqK7RifS2F45o9Obo5B"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Love Monster",
-        "url": "https://open.spotify.com/album/7M7CdUhAKyLmCFLY8z4b0P"
-      },
-      "artists": [
-        {
-          "name": "Amy Shark",
-          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
-        }
-      ],
-      "duration_ms": 170413,
-      "name": "I Said Hi",
-      "url": "https://open.spotify.com/track/4gvPqK7RifS2F45o9Obo5B"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
         "name": "Two Shoes",
         "url": "https://open.spotify.com/album/0avvtRnA6yIEIFMbqHgSVd"
       },
@@ -907,6 +891,42 @@
       "duration_ms": 313053,
       "name": "Two Shoes",
       "url": "https://open.spotify.com/track/57LP4yVIIBkRLWbq0ETF4K"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "Affirmation",
+        "url": "https://open.spotify.com/album/3w69KK7uEA8OsKuW3OeQcC"
+      },
+      "artists": [
+        {
+          "name": "Savage Garden",
+          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
+        }
+      ],
+      "duration_ms": 295800,
+      "name": "Affirmation",
+      "url": "https://open.spotify.com/track/6lWY4ji9T0tpFU2xbnRC1p"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "Changa",
+        "url": "https://open.spotify.com/album/7DrBomoczF4cn1kjyioHJe"
+      },
+      "artists": [
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        },
+        {
+          "name": "Kira Divine",
+          "url": "https://open.spotify.com/artist/4AFUtRGh4gJb1mWNTtN0Ha"
+        }
+      ],
+      "duration_ms": 198020,
+      "name": "Chameleon",
+      "url": "https://open.spotify.com/track/1upULGQhXYE55yHDMPh1QG"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -959,42 +979,6 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Better in Blak",
-        "url": "https://open.spotify.com/album/0QuumkXPKBWR7wOKUfqQ34"
-      },
-      "artists": [
-        {
-          "name": "Thelma Plum",
-          "url": "https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC"
-        }
-      ],
-      "duration_ms": 192466,
-      "name": "Better in Blak",
-      "url": "https://open.spotify.com/track/1c5iUY7Zg1SxtROg1yr5ad"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
-        "name": "Changa",
-        "url": "https://open.spotify.com/album/7DrBomoczF4cn1kjyioHJe"
-      },
-      "artists": [
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        },
-        {
-          "name": "Kira Divine",
-          "url": "https://open.spotify.com/artist/4AFUtRGh4gJb1mWNTtN0Ha"
-        }
-      ],
-      "duration_ms": 198020,
-      "name": "Chameleon",
-      "url": "https://open.spotify.com/track/1upULGQhXYE55yHDMPh1QG"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
         "name": "Affirmation",
         "url": "https://open.spotify.com/album/3w69KK7uEA8OsKuW3OeQcC"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 281466,
       "name": "Crash and Burn",
       "url": "https://open.spotify.com/track/60g4sp8i3gXSb1EkphMl1g"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "Better in Blak",
+        "url": "https://open.spotify.com/album/0QuumkXPKBWR7wOKUfqQ34"
+      },
+      "artists": [
+        {
+          "name": "Thelma Plum",
+          "url": "https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC"
+        }
+      ],
+      "duration_ms": 192466,
+      "name": "Better in Blak",
+      "url": "https://open.spotify.com/track/1c5iUY7Zg1SxtROg1yr5ad"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Slideshows",
-        "url": "https://open.spotify.com/album/72ofNtyCnr54WRoZa6K289"
+        "name": "Perennial",
+        "url": "https://open.spotify.com/album/735RlBqveqycIrQgyld7JK"
       },
       "artists": [
         {
-          "name": "Thirsty Merc",
-          "url": "https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no"
+          "name": "Vera Blue",
+          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
         }
       ],
-      "duration_ms": 229120,
-      "name": "20 Good Reasons",
-      "url": "https://open.spotify.com/track/7uCQb1MoL0kC4nw6WsGk38"
+      "duration_ms": 208146,
+      "name": "Regular Touch",
+      "url": "https://open.spotify.com/track/2qiYw6eNM2rwv2vgtzH5o5"
     }
   ],
   "unique_name": "Aussie Pop Classics",

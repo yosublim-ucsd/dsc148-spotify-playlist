@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。Cover: シンガーズハイ
 
-330 songs - 20 hr 15 min
+332 songs - 20 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Pain Pain Pain](https://open.spotify.com/track/2ycQ68NmaWeLzlQHNUBtuI) | [teto](https://open.spotify.com/artist/5dzOZikdYydnlbmBNOS24S) | [手](https://open.spotify.com/album/16PQwAqrBvaLMuvdYShGc3) | 2:51 | 2023-07-27 | 2023-08-09 |
 | [panzamasuto](https://open.spotify.com/track/1zVMbhWohOGBTxK5SPd83c) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [Singer's High](https://open.spotify.com/album/7IMFRkZNqf5y7cEZvE7cky) | 2:52 | 2023-11-21 |  |
 | [Peanut butter 2023 GIGA MAX](https://open.spotify.com/track/0r2abRSwPrVaYtiX5SeAt8) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [peanut butters II](https://open.spotify.com/album/32Y4rnV7l6GCXUy005ox3p) | 2:47 | 2023-11-14 | 2023-11-22 |
-| [Peppermint Gum](https://open.spotify.com/track/0ALSxIhd5E0qfXBum5AQCa) | [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [Peppermint Gum](https://open.spotify.com/album/4tGCW6bLt5nbGQSFVECn1I) | 3:50 | 2023-11-07 |  |
+| [Peppermint Gum](https://open.spotify.com/track/0ALSxIhd5E0qfXBum5AQCa) | [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [Peppermint Gum](https://open.spotify.com/album/4tGCW6bLt5nbGQSFVECn1I) | 3:50 | 2023-11-07 | 2023-11-28 |
 | [Play](https://open.spotify.com/track/5Ec4YyeFG6IIYOf93DbzZ3) | [Enfants](https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn) | [Q.](https://open.spotify.com/album/68UCYi46B4pP5WUo6Yxeuf) | 3:35 | 2023-07-27 | 2023-08-02 |
 | [prettyfine :\)](https://open.spotify.com/track/7cb1WC3LUv1zwxaHls5Ed0) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [Mindwash](https://open.spotify.com/album/1oTfStADdknHMWouQkQ6Kt) | 3:30 | 2023-07-27 | 2023-08-04 |
 | [PRIDE](https://open.spotify.com/track/6YSiCQPEEEimysown5ad19) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [PRIDE](https://open.spotify.com/album/2NJhxr7Tt12VB7urrMuZmt) | 4:06 | 2023-07-27 | 2023-11-22 |
@@ -166,6 +166,7 @@
 | [しわくちゃな雲を抱いて](https://open.spotify.com/track/7DGg065lDV4sAOSGvZhcEO) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [TRIANGLE](https://open.spotify.com/album/0qPfscvdw2qb2w68HydRUD) | 3:56 | 2023-08-15 |  |
 | [すき。](https://open.spotify.com/track/3AxjdcjAKcidO2oUApgVsd) | [YUTORI\-SEDAI](https://open.spotify.com/artist/74ZODUscO84OjAiQwj4V9G) | [すき。](https://open.spotify.com/album/1D3eDRDjd8nnhyS5LLGiUK) | 3:08 | 2023-07-27 |  |
 | [たださよなら、命燃え尽きるまで](https://open.spotify.com/track/26u3T0YLgfwwwxSd4yOp62) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [たださよなら、命燃え尽きるまで](https://open.spotify.com/album/0mXMjdZUCYvNdvrRPCcloj) | 3:50 | 2023-10-24 | 2023-10-26 |
+| [だから僕は音楽を辞めた](https://open.spotify.com/track/5j7ixaLeGTGSv4DzKs0pCM) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [だから僕は音楽を辞めた](https://open.spotify.com/album/4b9nOSXSf1LROzgfYFxdxI) | 4:02 | 2023-11-27 |  |
 | [ともしび](https://open.spotify.com/track/1gvYywLpjLo15PWI4KL27Q) | [GLASGOW](https://open.spotify.com/artist/3FUuWzheFLPGP7tm5lpjxM) | [ともしび](https://open.spotify.com/album/2AHczdH2m8e42fPrUXAzoa) | 2:56 | 2023-09-12 | 2023-09-14 |
 | [なりゆきまかせ](https://open.spotify.com/track/4EBX1GEfmjnKKMovVc0F7a) | [OKOJO](https://open.spotify.com/artist/1RTVAEXT1GPXtN6MQjiaXU) | [なりゆきまかせ](https://open.spotify.com/album/68P6rfsYPJA7e8x7SdtrEw) | 3:01 | 2023-08-08 | 2023-08-10 |
 | [なんてったっけタイトル](https://open.spotify.com/track/20rrZeWHRaGY8iGx4WDJgU) | [少年キッズボウイ](https://open.spotify.com/artist/4KYktd3fg1vqZbi5R7Eoa5) | [なんてったっけタイトル](https://open.spotify.com/album/3I2d15qzktWcG6itZBZPuE) | 2:45 | 2023-07-27 | 2023-08-18 |
@@ -272,7 +273,7 @@
 | [幻陽](https://open.spotify.com/track/7DSNoKeR28MdcU1kSGwjz1) | [Aruyue](https://open.spotify.com/artist/4oHHGbHMXuJ97fRPzuESJW) | [幻陽](https://open.spotify.com/album/4iTDgRLajqImZ6lnImUaD3) | 3:57 | 2023-08-08 | 2023-08-10 |
 | [忘れた](https://open.spotify.com/track/6jANWu5jUoaXMbDPhqKpvh) | [the dadadadys](https://open.spotify.com/artist/0WhmTXYYR573yJqqTtU2RL) | [忘れた](https://open.spotify.com/album/5qqZJdza9hi83rxhKlixE5) | 6:02 | 2023-10-24 | 2023-11-01 |
 | [怪獣の花唄 \- replica \-](https://open.spotify.com/track/26H7pT0IHTko0AA3A35S73) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:42 | 2023-11-14 |  |
-| [恋のジャーナル](https://open.spotify.com/track/7ue4j1Jq6f1xdgH5LXIxW6) | [THE 2](https://open.spotify.com/artist/668YZEv91Ux6vBKFwc3NLk) | [恋のジャーナル](https://open.spotify.com/album/1oRp7okGGR1nfSNBirPdwX) | 3:40 | 2023-07-27 |  |
+| [恋のジャーナル](https://open.spotify.com/track/7ue4j1Jq6f1xdgH5LXIxW6) | [THE 2](https://open.spotify.com/artist/668YZEv91Ux6vBKFwc3NLk) | [恋のジャーナル](https://open.spotify.com/album/1oRp7okGGR1nfSNBirPdwX) | 3:40 | 2023-07-27 | 2023-11-28 |
 | [恋は傷つけ愛](https://open.spotify.com/track/6Tg4ZpVy5ktTAxOkWRuT7q) | [Bye\-Bye\-Handの方程式](https://open.spotify.com/artist/6IIf2Pbh4lI8Jz7MvknzIf), [蓮](https://open.spotify.com/artist/5moZ9eus9L5mQamT5SFtfe) | [恋は傷つけ愛](https://open.spotify.com/album/6bKCsNHyz3N9lKNxNxbjF9) | 4:27 | 2023-10-17 | 2023-10-19 |
 | [恋セヨ乙女](https://open.spotify.com/track/0YV0aJFQ3ZZpzQsfaraaC8) | [東京初期衝動](https://open.spotify.com/artist/0yIugVENIPSMYiZTYi2CUM) | [恋セヨ乙女](https://open.spotify.com/album/47o2RFUP2cpmg5Nl1dBRFc) | 3:29 | 2023-07-27 | 2023-08-25 |
 | [恋人へ](https://open.spotify.com/track/71nySBAUJoX7bWpr9Mnmsm) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [帝国喫茶Ⅱ 季節と君のレコード](https://open.spotify.com/album/623DxSxbvSH2Ybf1ydYyzF) | 3:29 | 2023-10-12 | 2023-10-20 |
@@ -325,6 +326,7 @@
 | [花火散って、君がちょっと遠くなる](https://open.spotify.com/track/48PlhJn0xEPITYbpR5QG8q) | [FOMARE](https://open.spotify.com/artist/615ixHXsfFwzxgw3sOPICH) | [花火散って、君がちょっと遠くなる](https://open.spotify.com/album/5iDOicWocj5H84iu0MJ8Zk) | 3:36 | 2023-07-27 | 2023-10-25 |
 | [花瓶](https://open.spotify.com/track/4cJRvfyxLWzJKlQtuBwafi) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [NEW BORN GHOST](https://open.spotify.com/album/7I0gE5xwblR3qtvT3Z4uxc) | 3:27 | 2023-07-27 | 2023-11-05 |
 | [言わせない](https://open.spotify.com/track/2pqjnwREQKF3RYgP3gsGAY) | [黒子首](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3) | [dig saw](https://open.spotify.com/album/5TaLQKn5KHpyL0b9V44kWl) | 3:17 | 2023-10-24 | 2023-11-01 |
+| [負け犬にアンコールはいらない](https://open.spotify.com/track/1fooGB6yJLKiOk8jW3thn6) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:54 | 2023-11-27 |  |
 | [貴方の恋人になりたい](https://open.spotify.com/track/5O7dUqcxMUVPFL9YAE9e7q) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [するどいささくれ](https://open.spotify.com/album/7cLT6wmWAnltQhrBDo6jUt) | 3:54 | 2023-07-27 |  |
 | [貴方依存症](https://open.spotify.com/track/1i9rg9GEjQCrVC5PzaDOHD) | [ガラクタ](https://open.spotify.com/artist/7lcx8q6UJSp5VnlV0FRJOA) | [貴方依存症](https://open.spotify.com/album/0ONjD4LBW7N5V1XC6KcjT4) | 2:36 | 2023-10-10 | 2023-11-16 |
 | [足りないくらいがちょうどいい](https://open.spotify.com/track/1KzqFsguec79BMBJ5eG4M6) | [YUTORI\-SEDAI](https://open.spotify.com/artist/74ZODUscO84OjAiQwj4V9G) | [足りないくらいがちょうどいい](https://open.spotify.com/album/3o9xBUEP8K9RCApLjEmr5b) | 2:35 | 2023-11-05 |  |

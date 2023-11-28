@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > Håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,742 likes - 85 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,793 likes - 85 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 68 | [Skenet Bedrar](https://open.spotify.com/track/2c9HQ1EKrrRCgruiXuDay3) | [Ivory](https://open.spotify.com/artist/3jmh6dena7pZQpjUnlKcrD) | [Skenet Bedrar](https://open.spotify.com/album/2YbiKxEd2s829ca1W6i5mA) | 3:17 |
 | 69 | [Mina Ögon /Ta Matia Moy](https://open.spotify.com/track/6ZEcwUfqgQ22Ole6Vs2WyB) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU), [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG), [Jo Lids](https://open.spotify.com/artist/57PaF8eOKR71jL7xlMSUhe) | [Mina Ögon /Ta Matia Moy](https://open.spotify.com/album/4pHDbLGWSwbcVCxhFtLoih) | 3:00 |
 | 70 | [La Bamba](https://open.spotify.com/track/0Z2liSGPY4yZtA7wOAWo9A) | [Mack Beats](https://open.spotify.com/artist/3GulSpXnCkqwVDg45tyly4), [STOR](https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw), [Immanuel](https://open.spotify.com/artist/2yrh7Lu0JyS9B8jaUUoA43) | [La Bamba](https://open.spotify.com/album/2Uz8oSr5m8Fm3JeUu7UtOx) | 2:40 |
-| 71 | [Baccarat Rouge \(feat\. 23\)](https://open.spotify.com/track/30PWXIb5KN1BY6s9qNwU4D) | [Robin Kadir](https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2), [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Deja Vu](https://open.spotify.com/album/1wpsPacRm2SljIFYtkZYtF) | 2:00 |
+| 71 | [Baccarat Rouge](https://open.spotify.com/track/30PWXIb5KN1BY6s9qNwU4D) | [Robin Kadir](https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2), [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Deja Vu](https://open.spotify.com/album/1wpsPacRm2SljIFYtkZYtF) | 2:00 |
 | 72 | [LIGAN VET](https://open.spotify.com/track/7CS66yGkYJCBobsMjaTCgl) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR), [ARB](https://open.spotify.com/artist/3sWngyYPJ6ULlScChuyzUS) | [LIGAN VET](https://open.spotify.com/album/2K5xxRVTnIqe4ev2mCSm1g) | 2:57 |
 | 73 | [Gränder](https://open.spotify.com/track/0dpAnQk4kNvpp2eOe5PVwA) | [ABDIFATAH](https://open.spotify.com/artist/02X8uyJgzIxRtcXl4D0Mt0), [Yocee](https://open.spotify.com/artist/77TzeR7C0uNqn1uBPiqty6), [TUSEN](https://open.spotify.com/artist/5Xa0kycdTNgDwB6IbMry3R) | [NOMAD 2](https://open.spotify.com/album/4k9rmmrOjtlhenMxrq0Jjv) | 2:01 |
 | 74 | [Clxtbas](https://open.spotify.com/track/5oQwv1JDjFFiYK7lzrRIJh) | [2X Delli](https://open.spotify.com/artist/0Dr1bxkMOD1Xt9By5iijP1), [Rikard "Skizz" Bizzi](https://open.spotify.com/artist/3AcDJEZvKgdQU4qK9JvczW), [Bella BonBon](https://open.spotify.com/artist/4bKoxfd6Yr04PoGMyBbpsV) | [Fungadellic](https://open.spotify.com/album/7t2ZBhGR4QLpB2wGPs1U5i) | 3:27 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 84 | [STILO](https://open.spotify.com/track/60KPeB0eJuksnuvfnXkA3B) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [STILO](https://open.spotify.com/album/6tsnSrVthXlEmRxmwGdc7q) | 2:21 |
 | 85 | [MA TINSÄNI](https://open.spotify.com/track/7b9DNLoGVzpxv1yRugBPWg) | [Jazlin](https://open.spotify.com/artist/2PXGoeN12YqSbK0fCpSPPl) | [MA TINSÄNI](https://open.spotify.com/album/59qPPpQLTU8kCP1cqDQbcI) | 2:12 |
 
-Snapshot ID: `MCw4NmIxMjgwNTdmZTg4M2JmNzJlMmIxYmY5YzQwZTExNzJkNDFmYjE5`
+Snapshot ID: `MCwxZDlhY2ZkYjIzNGY2OTc0YjcxZmZmY2EyNGE3MWQ4NjYxYzA2ZWJi`

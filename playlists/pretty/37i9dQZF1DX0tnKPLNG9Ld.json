@@ -1,12 +1,12 @@
 {
   "description": "Blue skies, nothing but blue skies. Sun in your eyes and uplifting jazz in your ears on a sunny day.",
-  "num_followers": 76801,
+  "num_followers": 76833,
   "original_name": "Sunny Day Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjAzMWQ0NDM4YThmODg4OWE1OThjN2Q0NTY3MmI5NDY2MTViMGZk",
+  "snapshot_id": "MCwwY2I3N2M3NGU0ZWI4MGViZmRjNjZjMDdjNTZlNGY3MzM5YzQ1NjM0",
   "tracks": [
     {
       "added_at": "2023-11-16 14:48:17",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-11-16 14:48:17",
       "album": {
-        "name": "Days Of Wine And Roses, Moon River And Other Academy Award Winners",
-        "url": "https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 135506,
-      "name": "Days Of Wine And Roses",
-      "url": "https://open.spotify.com/track/5XrLzC6tClHbANUOmPYg2E"
-    },
-    {
-      "added_at": "2023-11-16 14:48:17",
-      "album": {
         "name": "Don't Go To Strangers (Rudy Van Gelder Remaster)",
         "url": "https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt"
       },
@@ -139,22 +123,6 @@
     {
       "added_at": "2023-11-16 14:48:17",
       "album": {
-        "name": "Latin Ala Lee",
-        "url": "https://open.spotify.com/album/5A7sAUKBDHvRyA5AxkeKAK"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 151973,
-      "name": "Till There Was You - Remastered",
-      "url": "https://open.spotify.com/track/0CczH75yFBo53bVqLRvYn4"
-    },
-    {
-      "added_at": "2023-11-16 14:48:17",
-      "album": {
         "name": "Twentysomething",
         "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
       },
@@ -171,6 +139,22 @@
     {
       "added_at": "2023-11-16 14:48:17",
       "album": {
+        "name": "Latin Ala Lee",
+        "url": "https://open.spotify.com/album/5A7sAUKBDHvRyA5AxkeKAK"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 151973,
+      "name": "Till There Was You - Remastered",
+      "url": "https://open.spotify.com/track/0CczH75yFBo53bVqLRvYn4"
+    },
+    {
+      "added_at": "2023-11-16 14:48:17",
+      "album": {
         "name": "Billie Holiday With Ray Ellis And His Orchestra",
         "url": "https://open.spotify.com/album/780YbUDX22mHli9KRZZwKu"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 152346,
       "name": "All Of You",
       "url": "https://open.spotify.com/track/3XOJhbofb4qTZdt0RLLrUq"
+    },
+    {
+      "added_at": "2023-11-16 14:48:17",
+      "album": {
+        "name": "Days Of Wine And Roses, Moon River And Other Academy Award Winners",
+        "url": "https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 135506,
+      "name": "Days Of Wine And Roses",
+      "url": "https://open.spotify.com/track/5XrLzC6tClHbANUOmPYg2E"
     },
     {
       "added_at": "2023-11-16 14:48:17",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-11-16 14:48:17",
       "album": {
-        "name": "Anita",
-        "url": "https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 160853,
-      "name": "Beautiful Love",
-      "url": "https://open.spotify.com/track/3lXgCSYCH9wCTHHLnpBzig"
-    },
-    {
-      "added_at": "2023-11-16 14:48:17",
-      "album": {
         "name": "Ella Swings Gently With Nelson",
         "url": "https://open.spotify.com/album/1aJEGozkrvANT0vJ7AmeWG"
       },
@@ -419,6 +403,22 @@
     {
       "added_at": "2023-11-16 14:48:17",
       "album": {
+        "name": "Anita",
+        "url": "https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 160853,
+      "name": "Beautiful Love",
+      "url": "https://open.spotify.com/track/3lXgCSYCH9wCTHHLnpBzig"
+    },
+    {
+      "added_at": "2023-11-16 14:48:17",
+      "album": {
         "name": "The Essential Rosemary Clooney",
         "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
       },
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-11-16 14:48:17",
       "album": {
-        "name": "Witchcraft",
-        "url": "https://open.spotify.com/album/627o8XOKXILmclV1xIOXPH"
-      },
-      "artists": [
-        {
-          "name": "Chris Connor",
-          "url": "https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ"
-        }
-      ],
-      "duration_ms": 156546,
-      "name": "(How Little It Matters) How Little We Know",
-      "url": "https://open.spotify.com/track/48SsJI70wRwQkndkebmLAd"
-    },
-    {
-      "added_at": "2023-11-16 14:48:17",
-      "album": {
         "name": "It Might as Well Be Spring",
         "url": "https://open.spotify.com/album/6btoHKMKGlSpK8xvHviMbG"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 292706,
       "name": "It Might as Well Be Spring",
       "url": "https://open.spotify.com/track/56IPhyZ2ByxWPksbqKpNxF"
+    },
+    {
+      "added_at": "2023-11-16 14:48:17",
+      "album": {
+        "name": "Witchcraft",
+        "url": "https://open.spotify.com/album/627o8XOKXILmclV1xIOXPH"
+      },
+      "artists": [
+        {
+          "name": "Chris Connor",
+          "url": "https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ"
+        }
+      ],
+      "duration_ms": 156546,
+      "name": "(How Little It Matters) How Little We Know",
+      "url": "https://open.spotify.com/track/48SsJI70wRwQkndkebmLAd"
     },
     {
       "added_at": "2023-11-16 14:48:17",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-11-16 14:48:17",
       "album": {
-        "name": "Anita",
-        "url": "https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 145160,
-      "name": "You're The Top",
-      "url": "https://open.spotify.com/track/1RLrKHljWXVJ8cWQKd0zHn"
-    },
-    {
-      "added_at": "2023-11-16 14:48:17",
-      "album": {
         "name": "May I Come In?",
         "url": "https://open.spotify.com/album/0fdUAA238IRVBctEX8f3JA"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 124266,
       "name": "Something Happens To Me",
       "url": "https://open.spotify.com/track/1kKf0BRGJhPTndA4hkGOAj"
+    },
+    {
+      "added_at": "2023-11-16 14:48:17",
+      "album": {
+        "name": "Anita",
+        "url": "https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 145160,
+      "name": "You're The Top",
+      "url": "https://open.spotify.com/track/1RLrKHljWXVJ8cWQKd0zHn"
     },
     {
       "added_at": "2023-11-16 14:48:17",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-11-16 14:48:17",
       "album": {
-        "name": "Things Are Swingin'",
-        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 134200,
-      "name": "It's A Wonderful World",
-      "url": "https://open.spotify.com/track/6t4mncxgMmg2HhXdI4N8lY"
-    },
-    {
-      "added_at": "2023-11-16 14:48:17",
-      "album": {
         "name": "Quartet / Quintet / Sextet",
         "url": "https://open.spotify.com/album/2Aflwf98ECEhjpowdENj7d"
       },
@@ -703,6 +687,22 @@
     {
       "added_at": "2023-11-16 14:48:17",
       "album": {
+        "name": "Things Are Swingin'",
+        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 134200,
+      "name": "It's A Wonderful World",
+      "url": "https://open.spotify.com/track/6t4mncxgMmg2HhXdI4N8lY"
+    },
+    {
+      "added_at": "2023-11-16 14:48:17",
+      "album": {
         "name": "The Divine One",
         "url": "https://open.spotify.com/album/4OGrGH7qxDmjTlzP5w11Nx"
       },
@@ -715,38 +715,6 @@
       "duration_ms": 140173,
       "name": "You Stepped out of a Dream - 2007 Remaster",
       "url": "https://open.spotify.com/track/3SptSk4a7ob8Qf4FfxQz4I"
-    },
-    {
-      "added_at": "2023-11-16 14:48:17",
-      "album": {
-        "name": "The Cat Walk",
-        "url": "https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 453800,
-      "name": "Hello Bright Sunflower - Rudy Van Gelder Edition/2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/2Q6fLryY9lv34jazpe4bnE"
-    },
-    {
-      "added_at": "2023-11-16 14:48:17",
-      "album": {
-        "name": "Something Wonderful",
-        "url": "https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav"
-      },
-      "artists": [
-        {
-          "name": "Nancy Wilson",
-          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
-        }
-      ],
-      "duration_ms": 139906,
-      "name": "This Time The Dream's On Me - Remastered",
-      "url": "https://open.spotify.com/track/0lpb1PV5pCTLhpRJILti7E"
     },
     {
       "added_at": "2023-11-16 14:48:17",
@@ -771,6 +739,22 @@
     {
       "added_at": "2023-11-16 14:48:17",
       "album": {
+        "name": "The Cat Walk",
+        "url": "https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 453800,
+      "name": "Hello Bright Sunflower - Rudy Van Gelder Edition/2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/2Q6fLryY9lv34jazpe4bnE"
+    },
+    {
+      "added_at": "2023-11-16 14:48:17",
+      "album": {
         "name": "After Midnight: The Complete Session",
         "url": "https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81"
       },
@@ -787,18 +771,18 @@
     {
       "added_at": "2023-11-16 14:48:17",
       "album": {
-        "name": "Motions & Emotions",
-        "url": "https://open.spotify.com/album/67NDcaTQFovmzUscG92ELV"
+        "name": "Something Wonderful",
+        "url": "https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav"
       },
       "artists": [
         {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
         }
       ],
-      "duration_ms": 174641,
-      "name": "Wandering - Remastered",
-      "url": "https://open.spotify.com/track/2bKQdj9DjUQT9q8OvTgCM2"
+      "duration_ms": 139906,
+      "name": "This Time The Dream's On Me - Remastered",
+      "url": "https://open.spotify.com/track/0lpb1PV5pCTLhpRJILti7E"
     },
     {
       "added_at": "2023-11-16 14:48:17",
@@ -815,6 +799,22 @@
       "duration_ms": 381373,
       "name": "I Get A Kick Out Of You",
       "url": "https://open.spotify.com/track/2nik1V49EZiLQd2XkTpR2T"
+    },
+    {
+      "added_at": "2023-11-16 14:48:17",
+      "album": {
+        "name": "Motions & Emotions",
+        "url": "https://open.spotify.com/album/67NDcaTQFovmzUscG92ELV"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 174641,
+      "name": "Wandering - Remastered",
+      "url": "https://open.spotify.com/track/2bKQdj9DjUQT9q8OvTgCM2"
     },
     {
       "added_at": "2023-11-16 14:48:17",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-11-16 14:48:17",
       "album": {
-        "name": "Autumn In New York",
-        "url": "https://open.spotify.com/album/6hM8Vc45AcGKa6XR5yqv14"
-      },
-      "artists": [
-        {
-          "name": "Jo Stafford",
-          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
-        }
-      ],
-      "duration_ms": 144840,
-      "name": "The Best Things In Life Are Free",
-      "url": "https://open.spotify.com/track/2QPxNZFYWCEtvLRQ8cEVli"
-    },
-    {
-      "added_at": "2023-11-16 14:48:17",
-      "album": {
         "name": "The Complete Decca Recordings",
         "url": "https://open.spotify.com/album/22oDCpyHsYIYxMGcmieLDY"
       },
@@ -987,26 +971,18 @@
     {
       "added_at": "2023-11-16 14:48:17",
       "album": {
-        "name": "The Girl From Ipanema - The Bossa Nova Years",
-        "url": "https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ"
+        "name": "Autumn In New York",
+        "url": "https://open.spotify.com/album/6hM8Vc45AcGKa6XR5yqv14"
       },
       "artists": [
         {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        },
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+          "name": "Jo Stafford",
+          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
         }
       ],
-      "duration_ms": 164826,
-      "name": "Doralice",
-      "url": "https://open.spotify.com/track/2cDO2CnwjyXgKhgh6QcAaN"
+      "duration_ms": 144840,
+      "name": "The Best Things In Life Are Free",
+      "url": "https://open.spotify.com/track/2QPxNZFYWCEtvLRQ8cEVli"
     },
     {
       "added_at": "2023-11-16 14:48:17",
@@ -1087,6 +1063,30 @@
       "duration_ms": 142573,
       "name": "Woman's Got Soul",
       "url": "https://open.spotify.com/track/6EHJcbjjFtukS3aIwnynqM"
+    },
+    {
+      "added_at": "2023-11-16 14:48:17",
+      "album": {
+        "name": "The Girl From Ipanema - The Bossa Nova Years",
+        "url": "https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 164826,
+      "name": "Doralice",
+      "url": "https://open.spotify.com/track/2cDO2CnwjyXgKhgh6QcAaN"
     },
     {
       "added_at": "2023-11-16 14:48:17",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2023-11-16 14:48:17",
       "album": {
-        "name": "Bing Sings Whilst Bregman Swings",
-        "url": "https://open.spotify.com/album/73o2GaqcTroIzxh7bggyrY"
-      },
-      "artists": [
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        },
-        {
-          "name": "Buddy Bregman",
-          "url": "https://open.spotify.com/artist/6t6zRn7Wo4ctJPVLNJlhOs"
-        }
-      ],
-      "duration_ms": 169373,
-      "name": "Deed I Do",
-      "url": "https://open.spotify.com/track/0RqNcBJILvtCJH82auUnKs"
-    },
-    {
-      "added_at": "2023-11-16 14:48:17",
-      "album": {
         "name": "Mel Torm\u00e9 with The Marty Paich Dek-Tette (2012 - Remaster)",
         "url": "https://open.spotify.com/album/1DMGnIxnjzHaYVJ2KhrPZM"
       },
@@ -1459,6 +1439,26 @@
       "duration_ms": 185466,
       "name": "Lulu's Back in Town (2012 - Remaster)",
       "url": "https://open.spotify.com/track/5A433jPWMHyngbyBkyXDF6"
+    },
+    {
+      "added_at": "2023-11-16 14:48:17",
+      "album": {
+        "name": "Bing Sings Whilst Bregman Swings",
+        "url": "https://open.spotify.com/album/73o2GaqcTroIzxh7bggyrY"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "Buddy Bregman",
+          "url": "https://open.spotify.com/artist/6t6zRn7Wo4ctJPVLNJlhOs"
+        }
+      ],
+      "duration_ms": 169373,
+      "name": "Deed I Do",
+      "url": "https://open.spotify.com/track/0RqNcBJILvtCJH82auUnKs"
     },
     {
       "added_at": "2023-11-16 14:48:17",

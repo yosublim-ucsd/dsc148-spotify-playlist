@@ -4,7 +4,7 @@
 
 > The ultimate seasonal \(indie\) playlist.
 
-223 songs - 12 hr 14 min
+224 songs - 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/6Sm0Og9VDRjDWPQnERgPtd) | [Slow Club](https://open.spotify.com/artist/75Kh0eqgzo9f43Dan1JzSV) | [A Christmas Gift For You From Moshi Moshi](https://open.spotify.com/album/1U4GkkVM8gk4WzBLxdNfR6) | 2:49 | 2021-11-12 | 2022-07-18 |
 | [Christmas \(Baby Please Come Home\) \- Recorded at Electric Lady Studios in NYC](https://open.spotify.com/track/4l6HpFFpPcJ3M5N1PuG7We) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Spotify Singles \- Holiday](https://open.spotify.com/album/4NeHkZmteGriA9lEoa9Brp) | 3:23 | 2022-12-23 |  |
 | [Christmas Caller](https://open.spotify.com/track/4kFnYLxdx0OI5L4mEWvygm) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Christmas Caller](https://open.spotify.com/album/69wSgjR0ZbyTxINqpsPbtv) | 2:15 | 2021-12-03 |  |
-| [christmas day](https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [christmas day](https://open.spotify.com/album/4PrwbE53q78EQlVEiYoo9K) | 2:41 | 2022-12-23 |  |
+| [christmas day](https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [christmas day](https://open.spotify.com/album/4PrwbE53q78EQlVEiYoo9K) | 2:41 | 2022-12-23 | 2023-11-28 |
 | [Christmas Eve \(Soul Purpose\)](https://open.spotify.com/track/6aX7uTfG9blCOFjNkbPn7F) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Christmas Eve \(Soul Purpose\) / It’s Going To Be A Cold Winter](https://open.spotify.com/album/59LBLGqfxMTSXuLmMmGsIT) | 3:45 | 2021-11-12 | 2022-12-29 |
 | [Christmas Everyday](https://open.spotify.com/track/68gRTBTVwlnnwoqOsKPDCR) | [The Frights](https://open.spotify.com/artist/2HSEdXKVq1WWtBbsIeNjRX) | [Christmas Everyday \- Single](https://open.spotify.com/album/0XX9kEAXQZRSxxlAwSADvU) | 2:09 | 2021-11-12 | 2022-07-29 |
 | [Christmas In April](https://open.spotify.com/track/0Af4dYxE130GzSUNMvkQty) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [HARK!](https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad) | 3:31 | 2021-11-12 | 2023-01-21 |
@@ -218,6 +218,7 @@
 | [Winter Song](https://open.spotify.com/track/6bVIzKJOhSTD2Pw1cbLhBr) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Winter Song](https://open.spotify.com/album/7obocQT5bd9ObWl2GiMrBT) | 4:14 | 2021-11-12 |  |
 | [Winter Song](https://open.spotify.com/track/5nbzSunBRFGCI4Pb6PoCat) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu) | 2:43 | 2022-12-23 |  |
 | [Winter Wonderland](https://open.spotify.com/track/3TqG0HDrk8zP3y7Mh3GyHe) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Christmas Time](https://open.spotify.com/album/5eP1FZIB34PXwas58LAPCl) | 3:10 | 2021-11-12 | 2022-07-28 |
+| [Winter Wonderland \- Spotify Singles Holiday](https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Spotify Singles Holiday](https://open.spotify.com/album/1Ph9nV8cNv7Gq7yHOlmbgh) | 2:12 | 2023-11-27 |  |
 | [Wintering](https://open.spotify.com/track/4FxeY2UZeP3kpdBPbpGggN) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 2:45 | 2022-11-11 |  |
 | [Wish](https://open.spotify.com/track/4MmKdIsEWE8aXtIyQfuKhP) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Wish](https://open.spotify.com/album/0aB5CHO6yf2fJxXziIIOa1) | 3:07 | 2022-12-23 | 2023-11-24 |
 | [Wonderful Christmastime](https://open.spotify.com/track/0Tt1xLhzap2izxxttXZdk1) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Christmas Rules](https://open.spotify.com/album/7a9xlXxD82eQGXaExYrChG) | 2:26 | 2021-11-12 | 2022-07-29 |

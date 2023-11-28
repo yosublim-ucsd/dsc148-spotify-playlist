@@ -1,28 +1,52 @@
 {
   "description": "the songs behind all your crushes.",
-  "num_followers": 204939,
+  "num_followers": 205553,
   "original_name": "Boo Thang <3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTVkZThmNzYyZTc4MDMzYjU3ZGJkNWRlNDNlNjg2M2RjZmU4MWQ5",
+  "snapshot_id": "MCwzMDdmNGU3NjQxMWQ5MmY2MDEzMTE0NTAwN2IwNzI1MTU0MGMyMjU4",
   "tracks": [
     {
       "added_at": "2023-10-13 00:13:37",
       "album": {
-        "name": "All I Want Is You",
-        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
       },
       "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ],
+      "duration_ms": 224426,
+      "name": "21 Questions",
+      "url": "https://open.spotify.com/track/41bIQPBE1lFN0mmw6Lmssz"
+    },
+    {
+      "added_at": "2023-10-13 00:13:37",
+      "album": {
+        "name": "Born Sinner (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
         {
           "name": "Miguel",
           "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
         }
       ],
-      "duration_ms": 195373,
-      "name": "Sure Thing",
-      "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
+      "duration_ms": 241160,
+      "name": "Power Trip (feat. Miguel)",
+      "url": "https://open.spotify.com/track/2uwnP6tZVVmTovzX5ELooy"
     },
     {
       "added_at": "2023-10-13 00:13:37",
@@ -45,6 +69,26 @@
       "url": "https://open.spotify.com/track/5Y77SQxEr1eiofPeUTPHxM"
     },
     {
+      "added_at": "2023-11-27 02:38:56",
+      "album": {
+        "name": "Late Registration",
+        "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Jamie Foxx",
+          "url": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
+        }
+      ],
+      "duration_ms": 207626,
+      "name": "Gold Digger",
+      "url": "https://open.spotify.com/track/1PS1QMdUqOal0ai3Gt7sDQ"
+    },
+    {
       "added_at": "2023-10-13 00:13:37",
       "album": {
         "name": "Confessions (Expanded Edition)",
@@ -63,26 +107,6 @@
       "duration_ms": 223440,
       "name": "My Boo",
       "url": "https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo"
-    },
-    {
-      "added_at": "2023-10-13 00:13:37",
-      "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        },
-        {
-          "name": "Nate Dogg",
-          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
-        }
-      ],
-      "duration_ms": 224426,
-      "name": "21 Questions",
-      "url": "https://open.spotify.com/track/41bIQPBE1lFN0mmw6Lmssz"
     },
     {
       "added_at": "2023-10-13 00:13:37",
@@ -123,6 +147,42 @@
     {
       "added_at": "2023-10-13 00:13:37",
       "album": {
+        "name": "So Far Gone",
+        "url": "https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 257690,
+      "name": "Best I Ever Had",
+      "url": "https://open.spotify.com/track/3QLjDkgLh9AOEHlhQtDuhs"
+    },
+    {
+      "added_at": "2023-11-27 02:38:56",
+      "album": {
+        "name": "Ready (Deluxe)",
+        "url": "https://open.spotify.com/album/44jrX3SThj7pFjOzUTLm85"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 247933,
+      "name": "I Invented Sex (feat. Drake)",
+      "url": "https://open.spotify.com/track/1Ug1mV9h5qVSs4rvvnQWux"
+    },
+    {
+      "added_at": "2023-10-13 00:13:37",
+      "album": {
         "name": "Tha Carter III",
         "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
       },
@@ -147,18 +207,18 @@
     {
       "added_at": "2023-10-13 00:13:37",
       "album": {
-        "name": "So Far Gone",
-        "url": "https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh"
+        "name": "All I Want Is You",
+        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
         }
       ],
-      "duration_ms": 257690,
-      "name": "Best I Ever Had",
-      "url": "https://open.spotify.com/track/3QLjDkgLh9AOEHlhQtDuhs"
+      "duration_ms": 195373,
+      "name": "Sure Thing",
+      "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
     },
     {
       "added_at": "2023-10-13 00:13:37",
@@ -185,20 +245,24 @@
       "url": "https://open.spotify.com/track/3A4cpTBPaIQdtPFb5JxtaX"
     },
     {
-      "added_at": "2023-10-13 00:13:37",
+      "added_at": "2023-11-27 02:38:56",
       "album": {
-        "name": "It's Only Me",
-        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+        "name": "Love Sick",
+        "url": "https://open.spotify.com/album/26z5llzd194mcCZHADWd6k"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 177789,
-      "name": "California Breeze",
-      "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
+      "duration_ms": 160426,
+      "name": "4 Me (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/7H08E8B32OZ1vJE7AtCwaG"
     },
     {
       "added_at": "2023-10-13 00:13:37",
@@ -305,6 +369,26 @@
       "url": "https://open.spotify.com/track/4o4wEDRqotccDTXiQ7TORu"
     },
     {
+      "added_at": "2023-11-27 02:38:56",
+      "album": {
+        "name": "Speakerboxxx/The Love Below",
+        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        {
+          "name": "Sleepy Brown",
+          "url": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "The Way You Move (feat. Sleepy Brown)",
+      "url": "https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD"
+    },
+    {
       "added_at": "2023-10-13 00:13:37",
       "album": {
         "name": "UTOPIA",
@@ -365,24 +449,28 @@
       "url": "https://open.spotify.com/track/2q4rjDy9WhaN3o9MvDbO21"
     },
     {
-      "added_at": "2023-10-13 00:13:37",
+      "added_at": "2023-11-27 02:38:56",
       "album": {
-        "name": "Born Sinner (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623"
+        "name": "The Essential R. Kelly",
+        "url": "https://open.spotify.com/album/5ruZPk2RxBoRzzwYswpXXs"
       },
       "artists": [
         {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "R. Kelly",
+          "url": "https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ"
         },
         {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
         }
       ],
-      "duration_ms": 241160,
-      "name": "Power Trip (feat. Miguel)",
-      "url": "https://open.spotify.com/track/2uwnP6tZVVmTovzX5ELooy"
+      "duration_ms": 330600,
+      "name": "I'm a Flirt Remix (feat. T.I. & T-Pain)",
+      "url": "https://open.spotify.com/track/6w1DBbA8akxHPiBQ6nAyJq"
     },
     {
       "added_at": "2023-10-13 00:13:37",
@@ -423,6 +511,22 @@
       "duration_ms": 256733,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/3ibKnFDaa3GhpPGlOUj7ff"
+    },
+    {
+      "added_at": "2023-10-13 00:13:37",
+      "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 177789,
+      "name": "California Breeze",
+      "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
     },
     {
       "added_at": "2023-10-13 00:13:37",
@@ -495,42 +599,6 @@
     {
       "added_at": "2023-10-13 00:13:37",
       "album": {
-        "name": "Southside",
-        "url": "https://open.spotify.com/album/317R21F7calEn6gpLnHEkb"
-      },
-      "artists": [
-        {
-          "name": "Lloyd",
-          "url": "https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9"
-        },
-        {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
-        }
-      ],
-      "duration_ms": 277840,
-      "name": "Southside",
-      "url": "https://open.spotify.com/track/7lurcq2Yw96B1K0KOJAHxg"
-    },
-    {
-      "added_at": "2023-10-13 00:13:37",
-      "album": {
-        "name": "My Boo (Hitman's Club Mix)",
-        "url": "https://open.spotify.com/album/5EvpbZ6QczJlnMX3kbxKYi"
-      },
-      "artists": [
-        {
-          "name": "Ghost Town DJs",
-          "url": "https://open.spotify.com/artist/4JbmXqez7WvTggoxn3UpVT"
-        }
-      ],
-      "duration_ms": 346840,
-      "name": "My Boo - Hitman's Club Mix",
-      "url": "https://open.spotify.com/track/4c0rkFPszqQTyC753tsCMU"
-    },
-    {
-      "added_at": "2023-10-13 00:13:37",
-      "album": {
         "name": "Street Dreams (Bonus Track)",
         "url": "https://open.spotify.com/album/46tIBaFs0Ov0HJsCDrq1Kl"
       },
@@ -547,26 +615,6 @@
       "duration_ms": 295773,
       "name": "Into You (feat. Tamia)",
       "url": "https://open.spotify.com/track/0yHConG49418wPs8UfAt44"
-    },
-    {
-      "added_at": "2023-10-13 00:13:37",
-      "album": {
-        "name": "Rule 3:36",
-        "url": "https://open.spotify.com/album/2PIXzzS8WEzv8Ws92qspEH"
-      },
-      "artists": [
-        {
-          "name": "Ja Rule",
-          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
-        },
-        {
-          "name": "Vita",
-          "url": "https://open.spotify.com/artist/3ot6fEzKvRrCnWy5BWlnxU"
-        }
-      ],
-      "duration_ms": 262826,
-      "name": "Put It On Me",
-      "url": "https://open.spotify.com/track/0OvwzS8FX73Bw7ykMRmffU"
     },
     {
       "added_at": "2023-10-13 00:13:37",
@@ -651,30 +699,6 @@
       "duration_ms": 240920,
       "name": "Say Something (Featuring Drake)",
       "url": "https://open.spotify.com/track/7qje9qxLncMESiPeI27SAn"
-    },
-    {
-      "added_at": "2023-10-13 00:13:37",
-      "album": {
-        "name": "Paid Tha Cost To Be Da Bo$$",
-        "url": "https://open.spotify.com/album/7F9hfZKh6WLOKME4LwCPZI"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        },
-        {
-          "name": "Charlie Wilson",
-          "url": "https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w"
-        }
-      ],
-      "duration_ms": 298306,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/7FrJV8tydWEv1Mxu2mIQrm"
     },
     {
       "added_at": "2023-10-13 00:13:37",
@@ -871,26 +895,6 @@
     {
       "added_at": "2023-10-13 00:13:37",
       "album": {
-        "name": "Poetic Pain",
-        "url": "https://open.spotify.com/album/353P9S1WpRssEgUvXW4kvo"
-      },
-      "artists": [
-        {
-          "name": "Toosii",
-          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 215405,
-      "name": "Love Cycle (with Summer Walker)",
-      "url": "https://open.spotify.com/track/3JP7KdSVvcX3mTfitBp2Ec"
-    },
-    {
-      "added_at": "2023-10-13 00:13:37",
-      "album": {
         "name": "Capital Punishment",
         "url": "https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y"
       },
@@ -911,22 +915,6 @@
     {
       "added_at": "2023-10-13 00:13:37",
       "album": {
-        "name": "More Life",
-        "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 219692,
-      "name": "Teenage Fever",
-      "url": "https://open.spotify.com/track/6n3HGiq4v35D6eFOSwqYuo"
-    },
-    {
-      "added_at": "2023-10-13 00:13:37",
-      "album": {
         "name": "Shoot For The Stars Aim For The Moon",
         "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
       },
@@ -939,6 +927,26 @@
       "duration_ms": 160000,
       "name": "What You Know Bout Love",
       "url": "https://open.spotify.com/track/1tkg4EHVoqnhR6iFEXb60y"
+    },
+    {
+      "added_at": "2023-10-13 00:13:37",
+      "album": {
+        "name": "Southside",
+        "url": "https://open.spotify.com/album/317R21F7calEn6gpLnHEkb"
+      },
+      "artists": [
+        {
+          "name": "Lloyd",
+          "url": "https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9"
+        },
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "duration_ms": 277840,
+      "name": "Southside",
+      "url": "https://open.spotify.com/track/7lurcq2Yw96B1K0KOJAHxg"
     },
     {
       "added_at": "2023-10-13 00:13:37",

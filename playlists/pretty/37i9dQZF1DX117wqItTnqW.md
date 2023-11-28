@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX117wqItTnqW.md) - [plain]
 
 > Le meilleur de la playlist Afro Hits en 2022\. Photo : Rema \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,993 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,035 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX117wqItTnqW.md) - [plain]
 | 49 | [WANGANA \(feat\. Ya Levis\)](https://open.spotify.com/track/3ztGIJavguZMEPD13Jtaek) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4), [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [RELATIONS \(SAISON 1\)](https://open.spotify.com/album/2TvDZc5n4vm4HcCn6kNKTz) | 3:26 |
 | 50 | [Touch It \- Remix](https://open.spotify.com/track/3DvzYWNYYrixsXTXV2t8pA) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Touch It \(Remix\)](https://open.spotify.com/album/05SVPz2eBi0EPhYJMNjbRu) | 3:01 |
 
-Snapshot ID: `MCxjZGRlMzQ4NmZjNjU5OGI2MWRlNGZkZmI0YTdkNGVkZTg4YTBmOTAy`
+Snapshot ID: `MCwwYmNjZDJlYWQzZTE0NDY2OWNlNjlhZTNhN2NlOTAzZTg0NjRlNGQ3`

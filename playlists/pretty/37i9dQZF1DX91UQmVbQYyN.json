@@ -1,12 +1,12 @@
 {
   "description": "Some of the most mesmerizing voices and masterful musicians of indie. Cover: Lana Del Rey",
-  "num_followers": 580339,
+  "num_followers": 580489,
   "original_name": "EQUAL Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MWJlYTNmMTU4OWE3YWNiMjFkZmMzZDBjYjUzZWI0NDhiNWJjODgz",
+  "snapshot_id": "MCw0MTRlMTg0N2VkYzZjNzNkOTg0ZmQ3MmQzYjJlNTI4ZmFmMDEzZWUx",
   "tracks": [
     {
       "added_at": "2023-03-08 16:17:46",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-03-08 16:17:46",
       "album": {
-        "name": "Pure Heroine",
-        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 258969,
-      "name": "Ribs",
-      "url": "https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g"
-    },
-    {
-      "added_at": "2023-03-08 16:17:46",
-      "album": {
         "name": "Selamat Ulang Tahun",
         "url": "https://open.spotify.com/album/75KyCmWatZRvlMcMRed9BG"
       },
@@ -271,6 +255,22 @@
     {
       "added_at": "2023-03-08 16:17:46",
       "album": {
+        "name": "Pure Heroine",
+        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 258969,
+      "name": "Ribs",
+      "url": "https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g"
+    },
+    {
+      "added_at": "2023-03-08 16:17:46",
+      "album": {
         "name": "Immunity",
         "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
       },
@@ -283,22 +283,6 @@
       "duration_ms": 260519,
       "name": "Bags",
       "url": "https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc"
-    },
-    {
-      "added_at": "2023-03-08 16:17:46",
-      "album": {
-        "name": "Be the Cowboy",
-        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 193429,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/2P5yIMu2DNeMXTyOANKS6k"
     },
     {
       "added_at": "2023-03-28 17:49:27",
@@ -343,6 +327,22 @@
       "duration_ms": 234933,
       "name": "Not Strong Enough",
       "url": "https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv"
+    },
+    {
+      "added_at": "2023-03-08 16:17:46",
+      "album": {
+        "name": "Be the Cowboy",
+        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 193429,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/2P5yIMu2DNeMXTyOANKS6k"
     },
     {
       "added_at": "2023-03-08 16:17:46",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-03-08 16:17:46",
       "album": {
-        "name": "Be the Cowboy",
-        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 156145,
-      "name": "A Pearl",
-      "url": "https://open.spotify.com/track/7fd3aMiuwHWKsTdZafjOfZ"
-    },
-    {
-      "added_at": "2023-03-08 16:17:46",
-      "album": {
         "name": "Did you know that there's a tunnel under Ocean Blvd",
         "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
       },
@@ -491,18 +475,18 @@
     {
       "added_at": "2023-03-08 16:17:46",
       "album": {
-        "name": "1950",
-        "url": "https://open.spotify.com/album/5p0UaZsYWMn4L1dSpc6AhN"
+        "name": "Be the Cowboy",
+        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
       },
       "artists": [
         {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 225133,
-      "name": "1950",
-      "url": "https://open.spotify.com/track/0CZ8lquoTX2Dkg7Ak2inwA"
+      "duration_ms": 156145,
+      "name": "A Pearl",
+      "url": "https://open.spotify.com/track/7fd3aMiuwHWKsTdZafjOfZ"
     },
     {
       "added_at": "2023-03-08 16:17:46",
@@ -519,6 +503,22 @@
       "duration_ms": 391829,
       "name": "Night Shift",
       "url": "https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN"
+    },
+    {
+      "added_at": "2023-03-08 16:17:46",
+      "album": {
+        "name": "1950",
+        "url": "https://open.spotify.com/album/5p0UaZsYWMn4L1dSpc6AhN"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        }
+      ],
+      "duration_ms": 225133,
+      "name": "1950",
+      "url": "https://open.spotify.com/track/0CZ8lquoTX2Dkg7Ak2inwA"
     },
     {
       "added_at": "2023-03-08 16:17:46",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-03-08 16:17:46",
       "album": {
-        "name": "Punisher",
-        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 241640,
-      "name": "Savior Complex",
-      "url": "https://open.spotify.com/track/5BN59BDczcpxstFKILIH0q"
-    },
-    {
-      "added_at": "2023-03-08 16:17:46",
-      "album": {
         "name": "Visions",
         "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
       },
@@ -587,18 +571,18 @@
     {
       "added_at": "2023-03-08 16:17:46",
       "album": {
-        "name": "Preacher\u2019s Daughter",
-        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
+        "name": "Punisher",
+        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
       },
       "artists": [
         {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 258418,
-      "name": "American Teenager",
-      "url": "https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg"
+      "duration_ms": 241640,
+      "name": "Savior Complex",
+      "url": "https://open.spotify.com/track/5BN59BDczcpxstFKILIH0q"
     },
     {
       "added_at": "2023-03-08 16:17:46",
@@ -615,6 +599,22 @@
       "duration_ms": 212183,
       "name": "Your Best American Girl",
       "url": "https://open.spotify.com/track/7g5qe8VITjr13RIe8uM2p6"
+    },
+    {
+      "added_at": "2023-03-08 16:17:46",
+      "album": {
+        "name": "Preacher\u2019s Daughter",
+        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 258418,
+      "name": "American Teenager",
+      "url": "https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg"
     },
     {
       "added_at": "2023-03-08 16:17:46",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-03-08 16:17:46",
       "album": {
-        "name": "Visions",
-        "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
-      },
-      "artists": [
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 251266,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/3LGsgpx4TfxhXbr07OFKqs"
-    },
-    {
-      "added_at": "2023-03-08 16:17:46",
-      "album": {
         "name": "Norman Fucking Rockwell!",
         "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 300360,
       "name": "The greatest",
       "url": "https://open.spotify.com/track/6ERZ30cRjVWGtVLhczX9aL"
+    },
+    {
+      "added_at": "2023-03-08 16:17:46",
+      "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 251266,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/3LGsgpx4TfxhXbr07OFKqs"
     },
     {
       "added_at": "2023-03-08 16:17:46",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-03-08 16:17:46",
       "album": {
+        "name": "Dummy",
+        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
+      },
+      "artists": [
+        {
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+        }
+      ],
+      "duration_ms": 303973,
+      "name": "Roads",
+      "url": "https://open.spotify.com/track/2sW8fmnISifQTRgnRrQTYW"
+    },
+    {
+      "added_at": "2023-03-08 16:17:46",
+      "album": {
         "name": "boygenius",
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 206465,
       "name": "Me & My Dog",
       "url": "https://open.spotify.com/track/74uoN2UfgdUAzwVeFaRUE2"
-    },
-    {
-      "added_at": "2023-03-08 16:17:46",
-      "album": {
-        "name": "Dummy",
-        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
-      },
-      "artists": [
-        {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
-        }
-      ],
-      "duration_ms": 303973,
-      "name": "Roads",
-      "url": "https://open.spotify.com/track/2sW8fmnISifQTRgnRrQTYW"
     },
     {
       "added_at": "2023-03-08 16:17:46",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-03-08 16:17:46",
       "album": {
-        "name": "Billie Toppy",
-        "url": "https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 195289,
-      "name": "Billie Toppy",
-      "url": "https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT"
-    },
-    {
-      "added_at": "2023-03-08 16:17:46",
-      "album": {
         "name": "The Covers Record",
         "url": "https://open.spotify.com/album/4dZBOO1PjjmtPA974xHMND"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 139466,
       "name": "Sea of Love",
       "url": "https://open.spotify.com/track/33kKcOJoyNduHwXhEnga8X"
+    },
+    {
+      "added_at": "2023-03-08 16:17:46",
+      "album": {
+        "name": "Billie Toppy",
+        "url": "https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 195289,
+      "name": "Billie Toppy",
+      "url": "https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT"
     },
     {
       "added_at": "2023-03-08 16:17:46",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-03-08 16:17:46",
       "album": {
-        "name": "Look at it in the Light",
-        "url": "https://open.spotify.com/album/3MKaD7aYasZcnBvv8g2XKO"
-      },
-      "artists": [
-        {
-          "name": "Kate Bollinger",
-          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
-        }
-      ],
-      "duration_ms": 141743,
-      "name": "Yards / Gardens",
-      "url": "https://open.spotify.com/track/3PphHkiVdhRaO1EWH6ZWqZ"
-    },
-    {
-      "added_at": "2023-03-08 16:17:46",
-      "album": {
         "name": "Pleasantville -Music From The Motion Picture",
         "url": "https://open.spotify.com/album/3QofKE2yZcsjKOUw6fyyn3"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 307333,
       "name": "Across the Universe",
       "url": "https://open.spotify.com/track/6ZQgooEk8PvsLxedYaT6Oa"
+    },
+    {
+      "added_at": "2023-03-08 16:17:46",
+      "album": {
+        "name": "Look at it in the Light",
+        "url": "https://open.spotify.com/album/3MKaD7aYasZcnBvv8g2XKO"
+      },
+      "artists": [
+        {
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+        }
+      ],
+      "duration_ms": 141743,
+      "name": "Yards / Gardens",
+      "url": "https://open.spotify.com/track/3PphHkiVdhRaO1EWH6ZWqZ"
     },
     {
       "added_at": "2023-03-08 16:17:46",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2023-03-08 16:17:46",
       "album": {
+        "name": "All I Ever Asked",
+        "url": "https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 215384,
+      "name": "All I Ever Asked",
+      "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
+    },
+    {
+      "added_at": "2023-03-08 16:17:46",
+      "album": {
         "name": "Desire, I Want To Turn Into You",
         "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 252760,
       "name": "That's Where I Am",
       "url": "https://open.spotify.com/track/49EXOlUTFBGdI098L6SXDh"
-    },
-    {
-      "added_at": "2023-03-08 16:17:46",
-      "album": {
-        "name": "All I Ever Asked",
-        "url": "https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 215384,
-      "name": "All I Ever Asked",
-      "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
     },
     {
       "added_at": "2023-03-08 16:17:46",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-03-08 16:17:46",
       "album": {
-        "name": "Goddess (Deluxe)",
-        "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
-      },
-      "artists": [
-        {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
-        }
-      ],
-      "duration_ms": 249739,
-      "name": "Beggin For Thread",
-      "url": "https://open.spotify.com/track/4PvD06Pmbm2rHG2JjSlElF"
-    },
-    {
-      "added_at": "2023-03-08 16:17:46",
-      "album": {
         "name": "Crushing",
         "url": "https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 182306,
       "name": "Pressure To Party",
       "url": "https://open.spotify.com/track/480rD34KfGbMaT0L6zjeIu"
+    },
+    {
+      "added_at": "2023-03-08 16:17:46",
+      "album": {
+        "name": "Goddess (Deluxe)",
+        "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
+      },
+      "artists": [
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "duration_ms": 249739,
+      "name": "Beggin For Thread",
+      "url": "https://open.spotify.com/track/4PvD06Pmbm2rHG2JjSlElF"
     },
     {
       "added_at": "2023-03-08 16:17:46",

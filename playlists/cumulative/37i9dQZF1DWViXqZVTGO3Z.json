@@ -810,7 +810,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 280518,
       "name": "Brightest And Best",
       "url": "https://open.spotify.com/track/1tgOfOkljeQRpvZ1fP1X6f"
@@ -2205,6 +2205,24 @@
     },
     {
       "album": {
+        "name": "A Christmas We'll Remember",
+        "url": "https://open.spotify.com/album/31aFyRNbhfzszhXSVBcd45"
+      },
+      "artists": [
+        {
+          "name": "Mat and Savanna Shaw",
+          "url": "https://open.spotify.com/artist/4F8dV25EPLvvKVABCaSr8b"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202365,
+      "name": "Hallelujah, Jesus Christ Was Born",
+      "url": "https://open.spotify.com/track/4MMnoxIZB5CgStUUWfErvt"
+    },
+    {
+      "album": {
         "name": "Hark the Herald Angels Sing",
         "url": "https://open.spotify.com/album/0OZ14HzN2hDsCcUnRMiym6"
       },
@@ -2336,7 +2354,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 243160,
       "name": "Have Yourself a Merry Little Christmas",
       "url": "https://open.spotify.com/track/0QqnU2evpS37pFD4tkWk1D"
@@ -3899,6 +3917,24 @@
     },
     {
       "album": {
+        "name": "Little Drummer Boy",
+        "url": "https://open.spotify.com/album/7eJDZVgQGNFqGFIgL7hBJj"
+      },
+      "artists": [
+        {
+          "name": "Josh Wright",
+          "url": "https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165436,
+      "name": "Little Drummer Boy",
+      "url": "https://open.spotify.com/track/7EeV1otijbcvoHqnvIwBn2"
+    },
+    {
+      "album": {
         "name": "The Last Christmas On Earth... Again!",
         "url": "https://open.spotify.com/album/0nMovNBGG59zb0XmniBhAF"
       },
@@ -4386,7 +4422,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 225906,
       "name": "O Come, All Ye Faithful",
       "url": "https://open.spotify.com/track/2ZzqVVAhzRb2uHaNGrWH5s"
@@ -6670,6 +6706,24 @@
       "duration_ms": 199572,
       "name": "Your Majesty",
       "url": "https://open.spotify.com/track/5OBE1D4jtm1TJUZmViqOQQ"
+    },
+    {
+      "album": {
+        "name": "When The Days Grow Colder - EP",
+        "url": "https://open.spotify.com/album/1xWAolG85AtSVzu9Tv7skZ"
+      },
+      "artists": [
+        {
+          "name": "CCV Music",
+          "url": "https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285456,
+      "name": "Yuletide (When The Days Grow Colder)",
+      "url": "https://open.spotify.com/track/6TJ9HZSx1aDIXc0JgMfciJ"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWViXqZVTGO3Z"

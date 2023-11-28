@@ -4,7 +4,7 @@
 
 > From Annakili to Viduthalai \- all the essential tracks of Isaignani!
 
-504 songs - 1 day 15 hr 46 min
+505 songs - 1 day 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Darling Darling](https://open.spotify.com/track/157sWdNRXQNKyw67L8hLOo) | [P\. Susheela](https://open.spotify.com/artist/0aFGod7DM6b3O5l1AmvFwK) | [Priya](https://open.spotify.com/album/0IfvZtfxQO2RRunOOoFFIb) | 4:46 | 2021-11-01 | 2022-07-29 |
 | [Das Das Chinnappadas](https://open.spotify.com/track/2oyRV3TW5OUKRITpDVtHZL) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7) | [Kadalora Kavithaigal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/21DPupSEHSEZEUafESDxpd) | 2:56 | 2021-11-01 | 2022-07-28 |
 | [Deepangal Pesum](https://open.spotify.com/track/4GieeqxAyuXrzLM8ugxyBF) | [Sandhya](https://open.spotify.com/artist/5pBJLl0z3HoPLzPI95P6PN), [S.P\. Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja) | [Devadai](https://open.spotify.com/album/0BSb0V9tdDtEMjVFHDSTKn) | 5:01 | 2021-11-01 |  |
+| [Deiveega Raagam](https://open.spotify.com/track/0woPJxmQn1aMgyjG8cOMkb) | [Jency](https://open.spotify.com/artist/3M6HYnxCfbI1Szo8zxnh1K) | [Hits Of Ilaiyaraaja Vol\. 2](https://open.spotify.com/album/44NqvpeItZJlCwwoL9z6nI) | 4:21 | 2021-11-01 |  |
 | [Deiveega Raagam](https://open.spotify.com/track/3lKKUkU5Bej86ykDp3cub8) | [Jency](https://open.spotify.com/artist/3M6HYnxCfbI1Szo8zxnh1K) | [Ullasapparavaigal](https://open.spotify.com/album/6UrRIvYYYz1HqtFxp2uUTF) | 4:21 | 2021-11-01 | 2022-07-12 |
 | [Deiveega Raagam](https://open.spotify.com/track/0QSRoHZgcogNsUQb8d6eLf) | [Jency](https://open.spotify.com/artist/3M6HYnxCfbI1Szo8zxnh1K) | [Guru \- Ullaasapparavaigal \- Sikappu Rojakkal](https://open.spotify.com/album/6ylKcUjylHsyR6TDCZmw6i) | 4:21 | 2021-11-01 | 2023-11-27 |
 | [Devathai Ilam](https://open.spotify.com/track/7lqtdkvuCL7ug2W5t5Mvv0) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8) | [Aayiram Nilave Vaa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5nVwHD2PMplTbPy7ISJEcT) | 4:15 | 2021-11-01 | 2022-07-25 |
@@ -223,7 +224,7 @@
 | [Malaiyaala Karaiyoram](https://open.spotify.com/track/19HmNVFRAc5Ze7Emshr9N4) | [Mano](https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um) | [Rajathi Raja \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6CUMZcymEySiKKbNxEG6nO) | 4:46 | 2021-11-01 | 2022-08-12 |
 | [Malaiyoram Veesum Kaathu](https://open.spotify.com/track/5D4Xdsc7wXUxm8GBJN8XM5) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8) | [Paadu Nilave \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/02XkaE4qv3Oql49DJjnxS5) | 4:35 | 2022-04-02 | 2023-05-09 |
 | [Malare Thendral Paadum \- Female](https://open.spotify.com/track/2C3XYzOlt1Fw40KsWCyK5Q) | [Arunmozhi](https://open.spotify.com/artist/3mCRya0mLtW9bljPonCX5f), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Veetla Visheshanga](https://open.spotify.com/album/2nTitERandpncDH6lwzzNM) | 5:07 | 2021-11-01 | 2022-07-28 |
-| [Malligai Mottu](https://open.spotify.com/track/1NsfymKYTr0g5VFgyzGjqZ) | [Arunmozhi](https://open.spotify.com/artist/3mCRya0mLtW9bljPonCX5f), [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d) | [Sakthivel \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3NJ0S5vBfJxkGvYRBhGvaZ) | 5:04 | 2021-11-01 |  |
+| [Malligai Mottu](https://open.spotify.com/track/1NsfymKYTr0g5VFgyzGjqZ) | [Arunmozhi](https://open.spotify.com/artist/3mCRya0mLtW9bljPonCX5f), [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d) | [Sakthivel \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3NJ0S5vBfJxkGvYRBhGvaZ) | 5:04 | 2021-11-01 | 2023-11-28 |
 | [Manakkum Malligai](https://open.spotify.com/track/3qwv9WR6s8sbqR4W1ENrF5) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Rickshaw Mama](https://open.spotify.com/album/6jZjT5hXr9l52693G4etGJ) | 5:04 | 2021-11-01 | 2022-07-19 |
 | [Mandram Vandha](https://open.spotify.com/track/5pfBPbl9pdW7kWf5u8uBuE) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8) | [Mouna Ragam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7yULuWexB3nIArYAXd9bxv) | 4:47 | 2021-11-01 |  |
 | [Manjolai Kilithaano](https://open.spotify.com/track/5xXzaLQA1sNYTOm3so20Eu) | [P\. Jayachandran](https://open.spotify.com/artist/2HujlDCi1ggnUSdfgipUxE) | [Kizhakke Pogum Rail](https://open.spotify.com/album/7nPd9jqAz6RNQOjYcUIFLC) | 4:40 | 2021-11-01 | 2022-07-29 |

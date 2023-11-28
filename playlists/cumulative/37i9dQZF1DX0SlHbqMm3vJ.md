@@ -4,7 +4,7 @@
 
 > A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: BOJ & Ajebutter
 
-473 songs - 23 hr 47 min
+474 songs - 23 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,7 +219,7 @@
 | [i’m a mess](https://open.spotify.com/track/1muOmaGrLHPU86XiE8pLgJ) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/47FGKv6DgcDj9YwvoQuTMN) | 2:33 | 2022-07-14 | 2022-07-29 |
 | [Jaga Jaga \(with Babyboy AV\)](https://open.spotify.com/track/3qH7uGwlgr7tmoL4ksRhPi) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Jaga Jaga \(with Babyboy AV\)](https://open.spotify.com/album/0Fk776T5l13Djn3clViXxp) | 3:46 | 2023-09-29 |  |
 | [Jahera](https://open.spotify.com/track/3a0RyTh7kp57YxE4BtjpFV) | [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [Jahera](https://open.spotify.com/album/0tYZ0bfXtTBzDFjMr2qqAk) | 3:07 | 2022-02-10 | 2022-02-17 |
-| [Jam One Kele](https://open.spotify.com/track/76QO1kpcj4a2loIWPT3oCn) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Millymay\_pod](https://open.spotify.com/artist/5tL2K1ihStDSZ0TyEIzENy), [Gimba](https://open.spotify.com/artist/6ce9dKPssK7XOIyar9S4vK), [Fxrtune](https://open.spotify.com/artist/5FWZoWPhJAzysoaslzFaZF) | [Jam One Kele](https://open.spotify.com/album/1cWUxbpDvU1n9WHga7X1m2) | 2:29 | 2023-05-26 |  |
+| [Jam One Kele](https://open.spotify.com/track/76QO1kpcj4a2loIWPT3oCn) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Millymay\_pod](https://open.spotify.com/artist/5tL2K1ihStDSZ0TyEIzENy), [Gimba](https://open.spotify.com/artist/6ce9dKPssK7XOIyar9S4vK), [Fxrtune](https://open.spotify.com/artist/5FWZoWPhJAzysoaslzFaZF) | [Jam One Kele](https://open.spotify.com/album/1cWUxbpDvU1n9WHga7X1m2) | 2:29 | 2023-05-26 | 2023-11-28 |
 | [Jara](https://open.spotify.com/track/0WSxRM0rcUH9vqfsPcoDvx) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Emotions](https://open.spotify.com/album/3bGwvmmPjjxaiOjIG0YBqr) | 2:40 | 2023-09-14 |  |
 | [Jejely](https://open.spotify.com/track/5x7NKpGAobN005jS36GnH1) | [Korede Bello](https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Jejely](https://open.spotify.com/album/3iMfiM40oxLibQGnttPGMO) | 3:01 | 2023-04-14 | 2023-11-10 |
 | [Jonzing Boy](https://open.spotify.com/track/0JoCuk9LuUwjLavIGxtKs9) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Jonzing Boy](https://open.spotify.com/album/7nn3qjLeYE65qfRUjreXqP) | 3:05 | 2023-05-11 | 2023-09-29 |
@@ -339,6 +339,7 @@
 | [Pheelz Like Summer](https://open.spotify.com/track/3zX0dMVPyLnut4t7WOPJ5Q) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Pheelz Good EP](https://open.spotify.com/album/1hQyAbUn202fiz5UPVqNnx) | 2:50 | 2023-02-09 | 2023-09-15 |
 | [PIANO](https://open.spotify.com/track/3idcqABwcfdvgBEdbG0ebq) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [P.Priime](https://open.spotify.com/artist/5wqjeyQhV9mvu43Bv4wiLy) | [KATIGORI/PIANO](https://open.spotify.com/album/0ns15ZLBSXJXFHTbcRTjM3) | 2:47 | 2023-11-17 |  |
 | [PICASSO \(feat\. Logos Olori\)](https://open.spotify.com/track/1f5WN3V8AVYyUahqjWogGj) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Logos olori](https://open.spotify.com/artist/4UNUAstUhS75JruJEPeD0Z) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:35 | 2023-03-30 | 2023-09-29 |
+| [Pidgin & English](https://open.spotify.com/track/4jcrO2T6XJ1B7hXsAEJ3ve) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sincerely, Benson](https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a) | 3:38 | 2023-11-27 |  |
 | [Pour Me a Drink](https://open.spotify.com/track/1ebcm76NK3TarOZBvBRz3P) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [The Brother's Keeper](https://open.spotify.com/album/0g7K5tuXiGzf5K6umuzCRX) | 2:48 | 2022-08-25 | 2023-04-13 |
 | [PRESS](https://open.spotify.com/track/4oOHLldeSQn3WVwcyrN4zm) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [My WorlD With U](https://open.spotify.com/album/17B9cVbQfEIoi8k6sZnzDm) | 3:43 | 2022-03-11 | 2022-03-25 |
 | [PrEttY Like](https://open.spotify.com/track/2lgeehwv2ThyBEQ8kHKFCn) | [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq) | [PrEttY Like](https://open.spotify.com/album/0eYfLrBMobCVn4ZCaGV1GA) | 2:46 | 2023-04-27 |  |

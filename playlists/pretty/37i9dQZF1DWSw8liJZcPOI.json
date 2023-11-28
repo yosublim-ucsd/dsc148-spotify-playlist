@@ -1,12 +1,12 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
-  "num_followers": 53291,
+  "num_followers": 53429,
   "original_name": "Not Quite Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDEyOTkzY2U1ZTdkYjk3ZTM2MTgwYjQ0OTBlYWMxZmE2YjgwMjA2",
+  "snapshot_id": "MCxlZWQwM2IzMDY5ZTVjMzg3ZGI0ODU3ZjhmYTAxMjgzOGYwYzI3ZDg0",
   "tracks": [
     {
       "added_at": "2023-11-24 04:00:00",
@@ -175,6 +175,26 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
+        "name": "Woven Song \u2014 piano reworks",
+        "url": "https://open.spotify.com/album/27yZ8bTAOMlvnfU4vaIxvK"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 227674,
+      "name": "Woven Song \u2014 piano reworks",
+      "url": "https://open.spotify.com/track/1wb6pRSvhekFyXO5j3fXol"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
         "name": "Solitudes",
         "url": "https://open.spotify.com/album/4p7hOvFyTVUe5h59jZmeYq"
       },
@@ -259,22 +279,22 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
-        "name": "Woven Song \u2014 piano reworks",
-        "url": "https://open.spotify.com/album/27yZ8bTAOMlvnfU4vaIxvK"
+        "name": "A Lifetime Rolls By (annasara Rework)",
+        "url": "https://open.spotify.com/album/06d6otha9XjgY2QWtB05Xo"
       },
       "artists": [
         {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+          "name": "BPMoore",
+          "url": "https://open.spotify.com/artist/7IZYQVOMyQi55ytXjYoXrP"
         },
         {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+          "name": "annasara",
+          "url": "https://open.spotify.com/artist/77UdbRpv75Hby0KyMASqJJ"
         }
       ],
-      "duration_ms": 227674,
-      "name": "Woven Song \u2014 piano reworks",
-      "url": "https://open.spotify.com/track/1wb6pRSvhekFyXO5j3fXol"
+      "duration_ms": 176120,
+      "name": "A Lifetime Rolls By - annasara Rework",
+      "url": "https://open.spotify.com/track/0r3ROaj4TrysELcI4LHODu"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -299,26 +319,6 @@
       "duration_ms": 123251,
       "name": "Delicately",
       "url": "https://open.spotify.com/track/4hL2tCFmEkRBfaVsZ8G7lC"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
-        "name": "A Lifetime Rolls By (annasara Rework)",
-        "url": "https://open.spotify.com/album/06d6otha9XjgY2QWtB05Xo"
-      },
-      "artists": [
-        {
-          "name": "BPMoore",
-          "url": "https://open.spotify.com/artist/7IZYQVOMyQi55ytXjYoXrP"
-        },
-        {
-          "name": "annasara",
-          "url": "https://open.spotify.com/artist/77UdbRpv75Hby0KyMASqJJ"
-        }
-      ],
-      "duration_ms": 176120,
-      "name": "A Lifetime Rolls By - annasara Rework",
-      "url": "https://open.spotify.com/track/0r3ROaj4TrysELcI4LHODu"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -455,26 +455,6 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
-        "name": "Over The Pines (from the Motion Picture \"Land\")",
-        "url": "https://open.spotify.com/album/2tCF0m1P1g25NcPfv0Sfjj"
-      },
-      "artists": [
-        {
-          "name": "Ben Sollee",
-          "url": "https://open.spotify.com/artist/3Zzs4IqjV4b0yEFWqRv1si"
-        },
-        {
-          "name": "Time For Three",
-          "url": "https://open.spotify.com/artist/5GK2hLwkSIVQSaQMTAmLbk"
-        }
-      ],
-      "duration_ms": 191386,
-      "name": "Over The Pines",
-      "url": "https://open.spotify.com/track/2gAIy3MuCMOZUejECGPBUa"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
         "name": "The Turning Year",
         "url": "https://open.spotify.com/album/7qIBorzIVw58P2LWsSVqLX"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 160089,
       "name": "The Turning Year",
       "url": "https://open.spotify.com/track/53sR7EKIy3Yc2a3xPXMz9h"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
+        "name": "Over The Pines (from the Motion Picture \"Land\")",
+        "url": "https://open.spotify.com/album/2tCF0m1P1g25NcPfv0Sfjj"
+      },
+      "artists": [
+        {
+          "name": "Ben Sollee",
+          "url": "https://open.spotify.com/artist/3Zzs4IqjV4b0yEFWqRv1si"
+        },
+        {
+          "name": "Time For Three",
+          "url": "https://open.spotify.com/artist/5GK2hLwkSIVQSaQMTAmLbk"
+        }
+      ],
+      "duration_ms": 191386,
+      "name": "Over The Pines",
+      "url": "https://open.spotify.com/track/2gAIy3MuCMOZUejECGPBUa"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
+        "name": "Wandering II",
+        "url": "https://open.spotify.com/album/1R1FEi0CAGPN0cnSDQ6O6R"
+      },
+      "artists": [
+        {
+          "name": "Eyd\u00eds Evensen",
+          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
+        }
+      ],
+      "duration_ms": 159747,
+      "name": "Wandering II",
+      "url": "https://open.spotify.com/track/57YoIlL4U1khGfYI5JEBEk"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
         "name": "Sigur R\u00f3s: Flj\u00f3tav\u00edk",
         "url": "https://open.spotify.com/album/5lTDQh05XStGCWjbEuKW45"
       },
@@ -635,22 +651,6 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
-        "name": "Wandering II",
-        "url": "https://open.spotify.com/album/1R1FEi0CAGPN0cnSDQ6O6R"
-      },
-      "artists": [
-        {
-          "name": "Eyd\u00eds Evensen",
-          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
-        }
-      ],
-      "duration_ms": 159747,
-      "name": "Wandering II",
-      "url": "https://open.spotify.com/track/57YoIlL4U1khGfYI5JEBEk"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
         "name": "Flow State Vestida 4",
         "url": "https://open.spotify.com/album/3sxWKv1CTRANpNi1nHDZwE"
       },
@@ -663,6 +663,26 @@
       "duration_ms": 229000,
       "name": "Flow State Vestida 4",
       "url": "https://open.spotify.com/track/5hJrBqOLUnMXNjDlAX67aP"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
+        "name": "Under the Stars",
+        "url": "https://open.spotify.com/album/3aZRTplanzJ0a3TW9asCfI"
+      },
+      "artists": [
+        {
+          "name": "Javi Lobe",
+          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
+        },
+        {
+          "name": "Francois Mathian",
+          "url": "https://open.spotify.com/artist/4193s4Szb8oYEv2pZ8lgSX"
+        }
+      ],
+      "duration_ms": 151402,
+      "name": "Under the Stars",
+      "url": "https://open.spotify.com/track/42QdAFbblfxSMMlzMFbVbx"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -715,26 +735,6 @@
       "duration_ms": 198323,
       "name": "Somnia",
       "url": "https://open.spotify.com/track/3Q1jt1WHNwsszyEAJmyaRL"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
-        "name": "Under the Stars",
-        "url": "https://open.spotify.com/album/3aZRTplanzJ0a3TW9asCfI"
-      },
-      "artists": [
-        {
-          "name": "Javi Lobe",
-          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
-        },
-        {
-          "name": "Francois Mathian",
-          "url": "https://open.spotify.com/artist/4193s4Szb8oYEv2pZ8lgSX"
-        }
-      ],
-      "duration_ms": 151402,
-      "name": "Under the Stars",
-      "url": "https://open.spotify.com/track/42QdAFbblfxSMMlzMFbVbx"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -1251,6 +1251,30 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
+        "name": "BLOMMA",
+        "url": "https://open.spotify.com/album/3ZkfxERiMWA5EBPqZSLgEc"
+      },
+      "artists": [
+        {
+          "name": "Jacob Pavek",
+          "url": "https://open.spotify.com/artist/6vUYqsioPPdlQflRp2z1iG"
+        },
+        {
+          "name": "Philip Daniel",
+          "url": "https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5"
+        },
+        {
+          "name": "BLOMMA",
+          "url": "https://open.spotify.com/artist/4S79lGp6gXOuwl4N5Vsp3x"
+        }
+      ],
+      "duration_ms": 265872,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/7fIyzIV9JXEBTaBUWFtvtO"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
         "name": "Riverscape",
         "url": "https://open.spotify.com/album/5TS8osFEMF2oHUwKWnS0Qw"
       },
@@ -1287,30 +1311,6 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
-        "name": "BLOMMA",
-        "url": "https://open.spotify.com/album/3ZkfxERiMWA5EBPqZSLgEc"
-      },
-      "artists": [
-        {
-          "name": "Jacob Pavek",
-          "url": "https://open.spotify.com/artist/6vUYqsioPPdlQflRp2z1iG"
-        },
-        {
-          "name": "Philip Daniel",
-          "url": "https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5"
-        },
-        {
-          "name": "BLOMMA",
-          "url": "https://open.spotify.com/artist/4S79lGp6gXOuwl4N5Vsp3x"
-        }
-      ],
-      "duration_ms": 265872,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/7fIyzIV9JXEBTaBUWFtvtO"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
         "name": "All I Need",
         "url": "https://open.spotify.com/album/6JLS96rMyyFzQTlpNuRV51"
       },
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
-        "name": "Okno",
-        "url": "https://open.spotify.com/album/1LheFuzh54DF8zmFiKD1iX"
-      },
-      "artists": [
-        {
-          "name": "Julia Gjertsen",
-          "url": "https://open.spotify.com/artist/6dEpJk27D9ijwgvz33icCC"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Okno",
-      "url": "https://open.spotify.com/track/1fne5Gw3Uv96aNy50Fer6s"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
         "name": "Tripping with Nils Frahm",
         "url": "https://open.spotify.com/album/1NbOBXUF862DsBNF5byxzh"
       },
@@ -1375,18 +1359,18 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
-        "name": "A Winged Victory for the Sullen",
-        "url": "https://open.spotify.com/album/6vygseD1InhHomosteUnPU"
+        "name": "Okno",
+        "url": "https://open.spotify.com/album/1LheFuzh54DF8zmFiKD1iX"
       },
       "artists": [
         {
-          "name": "A Winged Victory for the Sullen",
-          "url": "https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1"
+          "name": "Julia Gjertsen",
+          "url": "https://open.spotify.com/artist/6dEpJk27D9ijwgvz33icCC"
         }
       ],
-      "duration_ms": 266840,
-      "name": "Steep Hills of Vicodin Tears",
-      "url": "https://open.spotify.com/track/3ytUgxZj1EYHb8zlk5VKk6"
+      "duration_ms": 187000,
+      "name": "Okno",
+      "url": "https://open.spotify.com/track/1fne5Gw3Uv96aNy50Fer6s"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -1407,6 +1391,22 @@
       "duration_ms": 221796,
       "name": "The Myth",
       "url": "https://open.spotify.com/track/3PFlF0czIchods0CEDOAr5"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
+        "name": "A Winged Victory for the Sullen",
+        "url": "https://open.spotify.com/album/6vygseD1InhHomosteUnPU"
+      },
+      "artists": [
+        {
+          "name": "A Winged Victory for the Sullen",
+          "url": "https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1"
+        }
+      ],
+      "duration_ms": 266840,
+      "name": "Steep Hills of Vicodin Tears",
+      "url": "https://open.spotify.com/track/3ytUgxZj1EYHb8zlk5VKk6"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -1695,38 +1695,6 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
-        "name": "Nomadland (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3gd5jLNJnFB2eKn2qQHHZq"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 246257,
-      "name": "Epilogue",
-      "url": "https://open.spotify.com/track/5LqyJJiZ3X74giX7n0QxjF"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
-        "name": "Black Dog",
-        "url": "https://open.spotify.com/album/61soUfxZ8U8PpWVjmRr3Oz"
-      },
-      "artists": [
-        {
-          "name": "Autonomy",
-          "url": "https://open.spotify.com/artist/3te2CxCHnKfBm3SmApvB98"
-        }
-      ],
-      "duration_ms": 127995,
-      "name": "Black Dog",
-      "url": "https://open.spotify.com/track/4YBjc5fCZrFzpYYfzKI2Vv"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
         "name": "As I Was (Slow Meadow Rework)",
         "url": "https://open.spotify.com/album/6OhNDRA0Apui78ns2L6yzi"
       },
@@ -1747,6 +1715,22 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
+        "name": "Nomadland (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3gd5jLNJnFB2eKn2qQHHZq"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 246257,
+      "name": "Epilogue",
+      "url": "https://open.spotify.com/track/5LqyJJiZ3X74giX7n0QxjF"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/49jgXZPDfEu07LoN4hCS5O"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 201181,
       "name": "For You",
       "url": "https://open.spotify.com/track/3j7siGdElMQwOX1VPCWoW7"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
+        "name": "Black Dog",
+        "url": "https://open.spotify.com/album/61soUfxZ8U8PpWVjmRr3Oz"
+      },
+      "artists": [
+        {
+          "name": "Autonomy",
+          "url": "https://open.spotify.com/artist/3te2CxCHnKfBm3SmApvB98"
+        }
+      ],
+      "duration_ms": 127995,
+      "name": "Black Dog",
+      "url": "https://open.spotify.com/track/4YBjc5fCZrFzpYYfzKI2Vv"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -1795,18 +1795,18 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
-        "name": "Tranquillant",
-        "url": "https://open.spotify.com/album/6B9gEaeD0u9eaBZL1lznqs"
+        "name": "Woven Song",
+        "url": "https://open.spotify.com/album/0Ah7kVnuWgdH3vQy0DNtuA"
       },
       "artists": [
         {
-          "name": "Eyd\u00eds Evensen",
-          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
         }
       ],
-      "duration_ms": 173373,
-      "name": "Tranquillant",
-      "url": "https://open.spotify.com/track/7lvEhtMzOBgfVBu4oF7cse"
+      "duration_ms": 190283,
+      "name": "Woven Song",
+      "url": "https://open.spotify.com/track/0Fs13LJdctI630wOhPcIO8"
     }
   ],
   "unique_name": "Not Quite Classical",

@@ -1,12 +1,12 @@
 {
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
-  "num_followers": 162943,
+  "num_followers": 163023,
   "original_name": "Blues on the Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2FhNGM2ZDE0YmE5MjViYmUzYjFjNjJjNDBmNWUwZWZhMzkwZDkw",
+  "snapshot_id": "MCw3MzhmNDNhZGY2MjA3MmQ0MThmNzE5NGM4ODM5YjZlYjBlYjQzNDg5",
   "tracks": [
     {
       "added_at": "2023-10-05 13:18:26",
@@ -239,6 +239,26 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
+        "name": "Riding With The King",
+        "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 280453,
+      "name": "Ten Long Years",
+      "url": "https://open.spotify.com/track/2bykT1h4Tb2Scaw0QcqYBA"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
         "name": "Sings Raining In My Heart",
         "url": "https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg"
       },
@@ -283,26 +303,6 @@
       "duration_ms": 176186,
       "name": "All Your Love",
       "url": "https://open.spotify.com/track/73GEVn1tqk9bn0KbtWsiqj"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
-        "name": "Riding With The King",
-        "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 280453,
-      "name": "Ten Long Years",
-      "url": "https://open.spotify.com/track/2bykT1h4Tb2Scaw0QcqYBA"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Bluesmen Don't Use Umbrellas",
-        "url": "https://open.spotify.com/album/4f8EqC1IzbcSosXgbkSbTm"
-      },
-      "artists": [
-        {
-          "name": "Michigan Curve",
-          "url": "https://open.spotify.com/artist/6gMUWmZUceCtcaztahkqba"
-        }
-      ],
-      "duration_ms": 419600,
-      "name": "J.C's. Blues",
-      "url": "https://open.spotify.com/track/7j1KFZmBIKtv8lsmTptiM1"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Sweet Giant of the Blues",
         "url": "https://open.spotify.com/album/4VOsqjPQLgQ8x5uZELEWQw"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 366826,
       "name": "Bird in a Cage",
       "url": "https://open.spotify.com/track/2Xx66yeqdxjPViOEkKFkB4"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Bluesmen Don't Use Umbrellas",
+        "url": "https://open.spotify.com/album/4f8EqC1IzbcSosXgbkSbTm"
+      },
+      "artists": [
+        {
+          "name": "Michigan Curve",
+          "url": "https://open.spotify.com/artist/6gMUWmZUceCtcaztahkqba"
+        }
+      ],
+      "duration_ms": 419600,
+      "name": "J.C's. Blues",
+      "url": "https://open.spotify.com/track/7j1KFZmBIKtv8lsmTptiM1"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Outta' Season",
-        "url": "https://open.spotify.com/album/3oKjmBZzVdDLTQWI7vf5Jg"
-      },
-      "artists": [
-        {
-          "name": "Ike & Tina Turner",
-          "url": "https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k"
-        }
-      ],
-      "duration_ms": 202627,
-      "name": "Five Long Years",
-      "url": "https://open.spotify.com/track/5joO3RcUHeTMjasJrjVa9a"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Mississippi Son",
         "url": "https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 186493,
       "name": "Drifting From Town To Town",
       "url": "https://open.spotify.com/track/0DjSBXNU6jGMxsnrGdxw0i"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Outta' Season",
+        "url": "https://open.spotify.com/album/3oKjmBZzVdDLTQWI7vf5Jg"
+      },
+      "artists": [
+        {
+          "name": "Ike & Tina Turner",
+          "url": "https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k"
+        }
+      ],
+      "duration_ms": 202627,
+      "name": "Five Long Years",
+      "url": "https://open.spotify.com/track/5joO3RcUHeTMjasJrjVa9a"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "The Legendary Christine Perfect Album",
-        "url": "https://open.spotify.com/album/5EZHyzIkskrqQwH8OrMlgp"
-      },
-      "artists": [
-        {
-          "name": "Christine McVie",
-          "url": "https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2"
-        }
-      ],
-      "duration_ms": 191355,
-      "name": "I'm on My Way",
-      "url": "https://open.spotify.com/track/4O8Pc1phUqqhlFygKxPSBp"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Try It...You Might Like It: GA-20 Does Hound Dog Taylor",
         "url": "https://open.spotify.com/album/4d9H4axCobgD9iuMsP3XCj"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 275853,
       "name": "Sitting At Home Alone",
       "url": "https://open.spotify.com/track/3y5yJbyAJcCSWJmUF7Fi8d"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "The Legendary Christine Perfect Album",
+        "url": "https://open.spotify.com/album/5EZHyzIkskrqQwH8OrMlgp"
+      },
+      "artists": [
+        {
+          "name": "Christine McVie",
+          "url": "https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2"
+        }
+      ],
+      "duration_ms": 191355,
+      "name": "I'm on My Way",
+      "url": "https://open.spotify.com/track/4O8Pc1phUqqhlFygKxPSBp"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Jake's Blues",
-        "url": "https://open.spotify.com/album/01M40NXXc0i5mu2Ybm7T7I"
-      },
-      "artists": [
-        {
-          "name": "Johnnie Red Latham",
-          "url": "https://open.spotify.com/artist/5kmoCRQWzALw8CyRfCfz0U"
-        }
-      ],
-      "duration_ms": 236026,
-      "name": "Jake's Blues",
-      "url": "https://open.spotify.com/track/2X2Jk7H5EG8VY91a7Jh0OI"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Horrifying Deatheating Bloodspider",
         "url": "https://open.spotify.com/album/2AofxKR1xww94PPlpswmNs"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 168253,
       "name": "Lovedog",
       "url": "https://open.spotify.com/track/3Qh6bO9w0zGKXLWej6Mu2O"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Jake's Blues",
+        "url": "https://open.spotify.com/album/01M40NXXc0i5mu2Ybm7T7I"
+      },
+      "artists": [
+        {
+          "name": "Johnnie Red Latham",
+          "url": "https://open.spotify.com/artist/5kmoCRQWzALw8CyRfCfz0U"
+        }
+      ],
+      "duration_ms": 236026,
+      "name": "Jake's Blues",
+      "url": "https://open.spotify.com/track/2X2Jk7H5EG8VY91a7Jh0OI"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
-        "name": "Songbird",
-        "url": "https://open.spotify.com/album/1bHvOpk7jC42aYFqjdPwJv"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 331600,
-      "name": "Rainy Day Blues",
-      "url": "https://open.spotify.com/track/4cT1FBosydctEQmi4vnjrB"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
         "name": "Midnight in Mississippi '22",
         "url": "https://open.spotify.com/album/78vmcDjMM4wIn6CppzngNt"
       },
@@ -1627,6 +1611,22 @@
     {
       "added_at": "2023-10-05 13:18:26",
       "album": {
+        "name": "Songbird",
+        "url": "https://open.spotify.com/album/1bHvOpk7jC42aYFqjdPwJv"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 331600,
+      "name": "Rainy Day Blues",
+      "url": "https://open.spotify.com/track/4cT1FBosydctEQmi4vnjrB"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
         "name": "Best Of The Vanguard Years",
         "url": "https://open.spotify.com/album/50S1EIpm4XRJhZQEAzcMh3"
       },
@@ -1639,22 +1639,6 @@
       "duration_ms": 210040,
       "name": "Help Me",
       "url": "https://open.spotify.com/track/2MBcCczDECsZFVaDxFVwgT"
-    },
-    {
-      "added_at": "2023-10-05 13:18:26",
-      "album": {
-        "name": "Hoodoo Lady (1933-1937)",
-        "url": "https://open.spotify.com/album/5t4lNoeKMZ2wT2FV5aIgcn"
-      },
-      "artists": [
-        {
-          "name": "Memphis Minnie",
-          "url": "https://open.spotify.com/artist/2WGyRLosdDgGJTLijIPpNC"
-        }
-      ],
-      "duration_ms": 157640,
-      "name": "Keep On Eatin'",
-      "url": "https://open.spotify.com/track/6CAYAC2lehhq20LE95nrVg"
     },
     {
       "added_at": "2023-10-05 13:18:26",
@@ -1675,6 +1659,22 @@
       "duration_ms": 121872,
       "name": "Armadillo Shuffle",
       "url": "https://open.spotify.com/track/3cFsDWxEXUxtgUvOONu9qw"
+    },
+    {
+      "added_at": "2023-10-05 13:18:26",
+      "album": {
+        "name": "Hoodoo Lady (1933-1937)",
+        "url": "https://open.spotify.com/album/5t4lNoeKMZ2wT2FV5aIgcn"
+      },
+      "artists": [
+        {
+          "name": "Memphis Minnie",
+          "url": "https://open.spotify.com/artist/2WGyRLosdDgGJTLijIPpNC"
+        }
+      ],
+      "duration_ms": 157640,
+      "name": "Keep On Eatin'",
+      "url": "https://open.spotify.com/track/6CAYAC2lehhq20LE95nrVg"
     },
     {
       "added_at": "2023-10-05 13:18:26",

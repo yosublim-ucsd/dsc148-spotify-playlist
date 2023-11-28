@@ -1,12 +1,12 @@
 {
   "description": "The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection.  Sit back and let it provide the praise for glorious day!",
-  "num_followers": 76972,
+  "num_followers": 76965,
   "original_name": "Easter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDlmOTYzYWFjZDAzOTIyMzFiZDMwYjdjN2YwMjFhMzRjODM0NTg1",
+  "snapshot_id": "MCw2MDA1ZmQ4NmI1NWI4NDc5MmQwM2Y3Yjk4MjYzNWRmZDUxZWNkMTZj",
   "tracks": [
     {
       "added_at": "2023-04-09 08:59:03",
@@ -279,50 +279,6 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "We Will Not Be Shaken (Live)",
-        "url": "https://open.spotify.com/album/2e3CuXNmlLd5d8OoI2naop"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Jonathan David Helser",
-          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
-        },
-        {
-          "name": "Melissa Helser",
-          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
-        }
-      ],
-      "duration_ms": 373691,
-      "name": "No Longer Slaves (Spontaneous) - Live",
-      "url": "https://open.spotify.com/track/584GnCDcDhRV6R8iZ7gzxC"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
-        "name": "Wonder",
-        "url": "https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
-        }
-      ],
-      "duration_ms": 411000,
-      "name": "So Will I (100 Billion X)",
-      "url": "https://open.spotify.com/track/1ed3wNCecRIp6SugyR0w2J"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
         "name": "The Ascension",
         "url": "https://open.spotify.com/album/2VAnZv1lS7kfPHiwPO3JyE"
       },
@@ -351,6 +307,50 @@
       "duration_ms": 305426,
       "name": "How Great Is Our God",
       "url": "https://open.spotify.com/track/0jOSpB2zK2O0SNxj8ZT5lp"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        }
+      ],
+      "duration_ms": 411000,
+      "name": "So Will I (100 Billion X)",
+      "url": "https://open.spotify.com/track/1ed3wNCecRIp6SugyR0w2J"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "We Will Not Be Shaken (Live)",
+        "url": "https://open.spotify.com/album/2e3CuXNmlLd5d8OoI2naop"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jonathan David Helser",
+          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
+        },
+        {
+          "name": "Melissa Helser",
+          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
+        }
+      ],
+      "duration_ms": 373691,
+      "name": "No Longer Slaves (Spontaneous) - Live",
+      "url": "https://open.spotify.com/track/584GnCDcDhRV6R8iZ7gzxC"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -399,6 +399,22 @@
       "duration_ms": 203774,
       "name": "Grave",
       "url": "https://open.spotify.com/track/5maAhFnbY2RPPYcaCPB1Tb"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "And If Our God Is For Us...",
+        "url": "https://open.spotify.com/album/2xwFfH8fO1MRmWZbNKZVqt"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 285160,
+      "name": "Our God",
+      "url": "https://open.spotify.com/track/40lKptao1hxVqA7fd1OOGp"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -471,22 +487,6 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "And If Our God Is For Us...",
-        "url": "https://open.spotify.com/album/2xwFfH8fO1MRmWZbNKZVqt"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 285160,
-      "name": "Our God",
-      "url": "https://open.spotify.com/track/40lKptao1hxVqA7fd1OOGp"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
         "name": "If We're Honest (Deluxe Version)",
         "url": "https://open.spotify.com/album/5ZEGGjJdlQdDNhLKYucTJw"
       },
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "Great Are You Lord EP",
-        "url": "https://open.spotify.com/album/6tjfwXYxnJoPABI2V2PPbf"
-      },
-      "artists": [
-        {
-          "name": "one sonic society",
-          "url": "https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW"
-        }
-      ],
-      "duration_ms": 232379,
-      "name": "Great Are You Lord",
-      "url": "https://open.spotify.com/track/2YgtXx9OVBOzja9Fckb4FY"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
         "name": "How Can It Be",
         "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 235226,
       "name": "Come Alive (Dry Bones)",
       "url": "https://open.spotify.com/track/0cc2WXV2i8Jl3LhPKlZho1"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "Great Are You Lord EP",
+        "url": "https://open.spotify.com/album/6tjfwXYxnJoPABI2V2PPbf"
+      },
+      "artists": [
+        {
+          "name": "one sonic society",
+          "url": "https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW"
+        }
+      ],
+      "duration_ms": 232379,
+      "name": "Great Are You Lord",
+      "url": "https://open.spotify.com/track/2YgtXx9OVBOzja9Fckb4FY"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -691,46 +691,6 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "Restart",
-        "url": "https://open.spotify.com/album/2DzN9KpN5XlDcSKaqa1bZl"
-      },
-      "artists": [
-        {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
-        }
-      ],
-      "duration_ms": 261693,
-      "name": "We Believe",
-      "url": "https://open.spotify.com/track/1dtzjTkNecIRAL4X3u4CtL"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
-        "name": "The Blessing (Live)",
-        "url": "https://open.spotify.com/album/4XEf57ewixATrMNdUecNdE"
-      },
-      "artists": [
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        },
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        },
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 514664,
-      "name": "The Blessing - Live",
-      "url": "https://open.spotify.com/track/2elEVvWjPZltkotzcCwKvM"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
         "name": "Here As In Heaven",
         "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
       },
@@ -743,6 +703,22 @@
       "duration_ms": 467053,
       "name": "Resurrecting (Live)",
       "url": "https://open.spotify.com/track/1GtmiINnAu5K2VEqyh1Xdc"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "Restart",
+        "url": "https://open.spotify.com/album/2DzN9KpN5XlDcSKaqa1bZl"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "duration_ms": 261693,
+      "name": "We Believe",
+      "url": "https://open.spotify.com/track/1dtzjTkNecIRAL4X3u4CtL"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -811,34 +787,26 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "Overcomer",
-        "url": "https://open.spotify.com/album/3KKjqSX6UNMUdFgMtYaNj4"
-      },
-      "artists": [
-        {
-          "name": "Mandisa",
-          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
-        }
-      ],
-      "duration_ms": 223626,
-      "name": "Overcomer",
-      "url": "https://open.spotify.com/track/5legkLUDyq0qOg4TR7wUAs"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
-        "name": "Kari Jobe",
-        "url": "https://open.spotify.com/album/43qobCIpLpsxshjc7PbAXb"
+        "name": "The Blessing (Live)",
+        "url": "https://open.spotify.com/album/4XEf57ewixATrMNdUecNdE"
       },
       "artists": [
         {
           "name": "Kari Jobe",
           "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        },
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         }
       ],
-      "duration_ms": 361386,
-      "name": "Revelation Song",
-      "url": "https://open.spotify.com/track/3pZVH0mPC6fxtmjOT0i9t5"
+      "duration_ms": 514664,
+      "name": "The Blessing - Live",
+      "url": "https://open.spotify.com/track/2elEVvWjPZltkotzcCwKvM"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -859,6 +827,22 @@
       "duration_ms": 330360,
       "name": "Hosanna",
       "url": "https://open.spotify.com/track/5VlojXyAGM1q9ke2ybxrVT"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "Overcomer",
+        "url": "https://open.spotify.com/album/3KKjqSX6UNMUdFgMtYaNj4"
+      },
+      "artists": [
+        {
+          "name": "Mandisa",
+          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
+        }
+      ],
+      "duration_ms": 223626,
+      "name": "Overcomer",
+      "url": "https://open.spotify.com/track/5legkLUDyq0qOg4TR7wUAs"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -951,6 +935,22 @@
       "duration_ms": 498426,
       "name": "Break Every Chain - Live",
       "url": "https://open.spotify.com/track/2cut7Izp9DLQ26dP8HQ1fE"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "Kari Jobe",
+        "url": "https://open.spotify.com/album/43qobCIpLpsxshjc7PbAXb"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "duration_ms": 361386,
+      "name": "Revelation Song",
+      "url": "https://open.spotify.com/track/3pZVH0mPC6fxtmjOT0i9t5"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -1123,6 +1123,26 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
+        "name": "We Will Not Be Shaken (Live)",
+        "url": "https://open.spotify.com/album/2e3CuXNmlLd5d8OoI2naop"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Paul McClure",
+          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
+        }
+      ],
+      "duration_ms": 415079,
+      "name": "Jesus We Love You - Live",
+      "url": "https://open.spotify.com/track/1saXUvvFlAQaefZUFVmhCn"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
         "name": "People (Live)",
         "url": "https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD"
       },
@@ -1175,26 +1195,6 @@
       "duration_ms": 216400,
       "name": "King Of The World",
       "url": "https://open.spotify.com/track/2sHDB7pY43GVTsl0X3ob1B"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
-        "name": "We Will Not Be Shaken (Live)",
-        "url": "https://open.spotify.com/album/2e3CuXNmlLd5d8OoI2naop"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Paul McClure",
-          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
-        }
-      ],
-      "duration_ms": 415079,
-      "name": "Jesus We Love You - Live",
-      "url": "https://open.spotify.com/track/1saXUvvFlAQaefZUFVmhCn"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "Becoming Who We Are",
-        "url": "https://open.spotify.com/album/6BPm1T672Bd3SR0PnyLRif"
-      },
-      "artists": [
-        {
-          "name": "Kings Kaleidoscope",
-          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
-        }
-      ],
-      "duration_ms": 218973,
-      "name": "Grace Alone",
-      "url": "https://open.spotify.com/track/5ufigJk0mtxqgWUsQ0PzwS"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
         "name": "All My Hope",
         "url": "https://open.spotify.com/album/2Sa4xXwFFbQM02rxdK9vQe"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 232760,
       "name": "All My Hope",
       "url": "https://open.spotify.com/track/6FPLwwpWitg3Tvuy8FGHKT"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "Becoming Who We Are",
+        "url": "https://open.spotify.com/album/6BPm1T672Bd3SR0PnyLRif"
+      },
+      "artists": [
+        {
+          "name": "Kings Kaleidoscope",
+          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
+        }
+      ],
+      "duration_ms": 218973,
+      "name": "Grace Alone",
+      "url": "https://open.spotify.com/track/5ufigJk0mtxqgWUsQ0PzwS"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "Tomorrow We Live",
-        "url": "https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 291715,
-      "name": "Crowns & Thorns (Oceans)",
-      "url": "https://open.spotify.com/track/4odWmR05uVl3Adkas6Ap9e"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
         "name": "Beautiful Things",
         "url": "https://open.spotify.com/album/2fezbaVpWGGtsIvs8vHZLA"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 310293,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/06wxyCQFJOT0bjvSPMQj7x"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "Tomorrow We Live",
+        "url": "https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 291715,
+      "name": "Crowns & Thorns (Oceans)",
+      "url": "https://open.spotify.com/track/4odWmR05uVl3Adkas6Ap9e"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/2mGewKlkzqeAld4N3T1lfx"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Riddle",
+          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
+        }
+      ],
+      "duration_ms": 497560,
+      "name": "All Hail King Jesus",
+      "url": "https://open.spotify.com/track/0FRdprdBRrdo0jMxhK0hTy"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
         "name": "Come Alive",
         "url": "https://open.spotify.com/album/2gMrHKIYTOToJEKDzDTg5t"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 570629,
       "name": "Yahweh (feat. Matthew Stevenson & Chandler Moore)",
       "url": "https://open.spotify.com/track/5iz2oJe4z1MMv7tbx5cBhF"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
-        "name": "More",
-        "url": "https://open.spotify.com/album/2mGewKlkzqeAld4N3T1lfx"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Riddle",
-          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
-        }
-      ],
-      "duration_ms": 497560,
-      "name": "All Hail King Jesus",
-      "url": "https://open.spotify.com/track/0FRdprdBRrdo0jMxhK0hTy"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "Greater Things",
-        "url": "https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz"
-      },
-      "artists": [
-        {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        }
-      ],
-      "duration_ms": 307026,
-      "name": "Christ Is Risen",
-      "url": "https://open.spotify.com/track/1GQsaKKI0ZJJPI5Zsop20u"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
         "name": "Worthy Of Your Name (Live)",
         "url": "https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 328973,
       "name": "Holy Ground - Live",
       "url": "https://open.spotify.com/track/2Z0A7W013G7P0byg4GNtse"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "Greater Things",
+        "url": "https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "duration_ms": 307026,
+      "name": "Christ Is Risen",
+      "url": "https://open.spotify.com/track/1GQsaKKI0ZJJPI5Zsop20u"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -2079,26 +2079,6 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "Passion: Everything Glorious",
-        "url": "https://open.spotify.com/album/1plOtC0txpyPtkeb6tlixF"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 327400,
-      "name": "Jesus Paid It All",
-      "url": "https://open.spotify.com/track/73EIpn5AcedCWPOmxWMxH9"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
         "name": "Purpose By Design",
         "url": "https://open.spotify.com/album/2mI4JRPhTGEZXw3g6dBCtA"
       },
@@ -2115,6 +2095,26 @@
       "duration_ms": 327386,
       "name": "You Are The Living Word (Live)",
       "url": "https://open.spotify.com/track/5X2jIyGY95YNF3kmeOg1V1"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "Passion: Everything Glorious",
+        "url": "https://open.spotify.com/album/1plOtC0txpyPtkeb6tlixF"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 327400,
+      "name": "Jesus Paid It All",
+      "url": "https://open.spotify.com/track/73EIpn5AcedCWPOmxWMxH9"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "The Outsiders",
-        "url": "https://open.spotify.com/album/3BB1Pe1PfijkrftFVmBEBs"
-      },
-      "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        }
-      ],
-      "duration_ms": 190560,
-      "name": "Lay 'Em Down",
-      "url": "https://open.spotify.com/track/5384anjbn1d5biZEgrDUA7"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
         "name": "Cutting Edge 1 & 2",
         "url": "https://open.spotify.com/album/6w2F4U8DetNtAucmynDj5v"
       },
@@ -2211,6 +2195,22 @@
       "duration_ms": 256127,
       "name": "Glory & Grace",
       "url": "https://open.spotify.com/track/1irfge2G36vfmvs97KV6T0"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "The Outsiders",
+        "url": "https://open.spotify.com/album/3BB1Pe1PfijkrftFVmBEBs"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "duration_ms": 190560,
+      "name": "Lay 'Em Down",
+      "url": "https://open.spotify.com/track/5384anjbn1d5biZEgrDUA7"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "Call on Your Name",
-        "url": "https://open.spotify.com/album/1eW4OSXW82QK5ckhxZriYQ"
-      },
-      "artists": [
-        {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
-        }
-      ],
-      "duration_ms": 309173,
-      "name": "Call on Your Name",
-      "url": "https://open.spotify.com/track/11uopkJGlq3ur9GZIeI7qE"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
         "name": "Yes I Will",
         "url": "https://open.spotify.com/album/0OOv0GLx4DQc5tPTkRo6sz"
       },
@@ -2295,6 +2279,22 @@
       "duration_ms": 234731,
       "name": "Yes I Will",
       "url": "https://open.spotify.com/track/5vMzNmHm2ec2zrqiYhkQzZ"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "Call on Your Name",
+        "url": "https://open.spotify.com/album/1eW4OSXW82QK5ckhxZriYQ"
+      },
+      "artists": [
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        }
+      ],
+      "duration_ms": 309173,
+      "name": "Call on Your Name",
+      "url": "https://open.spotify.com/track/11uopkJGlq3ur9GZIeI7qE"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -2483,6 +2483,26 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
+        "name": "Here (Live)",
+        "url": "https://open.spotify.com/album/2XysmxL6KnVvYr8oWRxFp1"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Hope Darst",
+          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
+        }
+      ],
+      "duration_ms": 468208,
+      "name": "Come Alive (Resurrection Power) - Live",
+      "url": "https://open.spotify.com/track/75iZxAhIjxwBed9QbkAuxy"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
         "name": "The Heat",
         "url": "https://open.spotify.com/album/5OEL6rFpj2Ay6CbABAr3AU"
       },
@@ -2511,26 +2531,6 @@
       "duration_ms": 294813,
       "name": "Christ Is Risen",
       "url": "https://open.spotify.com/track/27q0d0DgZrcnUNr2K0kMPC"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
-        "name": "Here (Live)",
-        "url": "https://open.spotify.com/album/2XysmxL6KnVvYr8oWRxFp1"
-      },
-      "artists": [
-        {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "Hope Darst",
-          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
-        }
-      ],
-      "duration_ms": 468208,
-      "name": "Come Alive (Resurrection Power) - Live",
-      "url": "https://open.spotify.com/track/75iZxAhIjxwBed9QbkAuxy"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -2575,6 +2575,22 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
+        "name": "It's Time",
+        "url": "https://open.spotify.com/album/2gpp8a4mU5gsAZbCMY1KjN"
+      },
+      "artists": [
+        {
+          "name": "Brian Doerksen",
+          "url": "https://open.spotify.com/artist/0pWpQhmg5KRsyo2Y6QRtc7"
+        }
+      ],
+      "duration_ms": 292546,
+      "name": "Refiner's Fire",
+      "url": "https://open.spotify.com/track/5hwWiu59QUAMJOjLZqi1FF"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
         "name": "Love Has A Name (Studio Version)",
         "url": "https://open.spotify.com/album/0b527EhU07LSel3Dwc9oMQ"
       },
@@ -2591,22 +2607,6 @@
       "duration_ms": 263878,
       "name": "Love Has A Name - Studio Version",
       "url": "https://open.spotify.com/track/2R73ci2mlkyLfpOwP87bSV"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
-        "name": "It's Time",
-        "url": "https://open.spotify.com/album/2gpp8a4mU5gsAZbCMY1KjN"
-      },
-      "artists": [
-        {
-          "name": "Brian Doerksen",
-          "url": "https://open.spotify.com/artist/0pWpQhmg5KRsyo2Y6QRtc7"
-        }
-      ],
-      "duration_ms": 292546,
-      "name": "Refiner's Fire",
-      "url": "https://open.spotify.com/track/5hwWiu59QUAMJOjLZqi1FF"
     },
     {
       "added_at": "2023-04-09 08:59:03",

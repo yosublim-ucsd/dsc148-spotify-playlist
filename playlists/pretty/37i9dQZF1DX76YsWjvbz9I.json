@@ -1,12 +1,12 @@
 {
   "description": "The unforgettable romantic Jazz songs.",
-  "num_followers": 264003,
+  "num_followers": 264162,
   "original_name": "Jazz for Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDY2MjY5OGE2MWJjMGExMjk4ZTdlOWRlY2EwODQ0ODVlYjZlMDJl",
+  "snapshot_id": "MCwxODZhYjNjMTU3YmM2MmM2OTUxZDM3YjgzYTA0YWRjNzYxMmM5ZmQ5",
   "tracks": [
     {
       "added_at": "2023-11-22 14:35:11",
@@ -227,22 +227,6 @@
     {
       "added_at": "2023-11-22 14:35:11",
       "album": {
-        "name": "The Complete Commodore Recordings",
-        "url": "https://open.spotify.com/album/7zSWkh1YCGAo4zO7nje22z"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 194573,
-      "name": "As Time Goes By",
-      "url": "https://open.spotify.com/track/3lO4Z6BSp773vcovgYurHg"
-    },
-    {
-      "added_at": "2023-11-22 14:35:11",
-      "album": {
         "name": "Sinatra And Swingin' Brass",
         "url": "https://open.spotify.com/album/7B45fvRtEecfSqKqUYXh6X"
       },
@@ -259,18 +243,34 @@
     {
       "added_at": "2023-11-22 14:35:11",
       "album": {
-        "name": "Sarah Vaughan's Golden Hits",
-        "url": "https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU"
+        "name": "The Complete Commodore Recordings",
+        "url": "https://open.spotify.com/album/7zSWkh1YCGAo4zO7nje22z"
       },
       "artists": [
         {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 179373,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/7gHFBNy0Qn86xGKJ9OdFTw"
+      "duration_ms": 194573,
+      "name": "As Time Goes By",
+      "url": "https://open.spotify.com/track/3lO4Z6BSp773vcovgYurHg"
+    },
+    {
+      "added_at": "2023-11-22 14:35:11",
+      "album": {
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 184466,
+      "name": "(I Love You) For Sentimental Reasons",
+      "url": "https://open.spotify.com/track/5QnCtH7euld6R68UwcWrte"
     },
     {
       "added_at": "2023-11-22 14:35:11",
@@ -291,18 +291,18 @@
     {
       "added_at": "2023-11-22 14:35:11",
       "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+        "name": "Sarah Vaughan's Golden Hits",
+        "url": "https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
         }
       ],
-      "duration_ms": 184466,
-      "name": "(I Love You) For Sentimental Reasons",
-      "url": "https://open.spotify.com/track/5QnCtH7euld6R68UwcWrte"
+      "duration_ms": 179373,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/7gHFBNy0Qn86xGKJ9OdFTw"
     },
     {
       "added_at": "2023-11-22 14:35:11",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-11-22 14:35:11",
       "album": {
-        "name": "Love Swings",
-        "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 133213,
-      "name": "It Had to Be You",
-      "url": "https://open.spotify.com/track/3qTYzMkbzxqRtA2hlSz4Ba"
-    },
-    {
-      "added_at": "2023-11-22 14:35:11",
-      "album": {
         "name": "Billie Holiday With Ray Ellis And His Orchestra",
         "url": "https://open.spotify.com/album/780YbUDX22mHli9KRZZwKu"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 152346,
       "name": "All Of You",
       "url": "https://open.spotify.com/track/3XOJhbofb4qTZdt0RLLrUq"
+    },
+    {
+      "added_at": "2023-11-22 14:35:11",
+      "album": {
+        "name": "Love Swings",
+        "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 133213,
+      "name": "It Had to Be You",
+      "url": "https://open.spotify.com/track/3qTYzMkbzxqRtA2hlSz4Ba"
     },
     {
       "added_at": "2023-11-22 14:35:11",
@@ -423,26 +423,6 @@
       "duration_ms": 191960,
       "name": "This Is Always",
       "url": "https://open.spotify.com/track/6Kr25pa3pTd4no3yA0EcW1"
-    },
-    {
-      "added_at": "2023-11-22 14:35:11",
-      "album": {
-        "name": "Ella Fitzgerald Sings The Jerome Kern Song Book",
-        "url": "https://open.spotify.com/album/5h4aTZVRSMxo9JzQojpUSx"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Nelson Riddle",
-          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
-        }
-      ],
-      "duration_ms": 195666,
-      "name": "All The Things You Are",
-      "url": "https://open.spotify.com/track/5gPetRvxQKyOjjwZX1dzbt"
     },
     {
       "added_at": "2023-11-22 14:35:11",
@@ -495,6 +475,26 @@
     {
       "added_at": "2023-11-22 14:35:11",
       "album": {
+        "name": "Ella Fitzgerald Sings The Jerome Kern Song Book",
+        "url": "https://open.spotify.com/album/5h4aTZVRSMxo9JzQojpUSx"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Nelson Riddle",
+          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
+        }
+      ],
+      "duration_ms": 195666,
+      "name": "All The Things You Are",
+      "url": "https://open.spotify.com/track/5gPetRvxQKyOjjwZX1dzbt"
+    },
+    {
+      "added_at": "2023-11-22 14:35:11",
+      "album": {
         "name": "John Coltrane And Johnny Hartman",
         "url": "https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU"
       },
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-11-22 14:35:11",
       "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg"
-      },
-      "artists": [
-        {
-          "name": "Lizz Wright",
-          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
-        }
-      ],
-      "duration_ms": 232280,
-      "name": "Stars Fell On Alabama",
-      "url": "https://open.spotify.com/track/3q634ZiAdA9bcg135bdJxo"
-    },
-    {
-      "added_at": "2023-11-22 14:35:11",
-      "album": {
         "name": "All Or Nothing At All",
         "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 226680,
       "name": "Love Is Here To Stay",
       "url": "https://open.spotify.com/track/4x4gE6oHHuZ2y7yUsGuOO1"
+    },
+    {
+      "added_at": "2023-11-22 14:35:11",
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg"
+      },
+      "artists": [
+        {
+          "name": "Lizz Wright",
+          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
+        }
+      ],
+      "duration_ms": 232280,
+      "name": "Stars Fell On Alabama",
+      "url": "https://open.spotify.com/track/3q634ZiAdA9bcg135bdJxo"
     },
     {
       "added_at": "2023-11-22 14:35:11",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-11-22 14:35:11",
       "album": {
+        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
+        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 142520,
+      "name": "You Do Something To Me",
+      "url": "https://open.spotify.com/track/7lZagRCKskAjzZ40Kdx4bB"
+    },
+    {
+      "added_at": "2023-11-22 14:35:11",
+      "album": {
         "name": "Nancy Wilson/Cannonball Adderley",
         "url": "https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ"
       },
@@ -599,18 +615,18 @@
     {
       "added_at": "2023-11-22 14:35:11",
       "album": {
-        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
-        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
+        "name": "Some Nice Things I've Missed",
+        "url": "https://open.spotify.com/album/4ZSUkTw8BgdedIYtmteKsV"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 142520,
-      "name": "You Do Something To Me",
-      "url": "https://open.spotify.com/track/7lZagRCKskAjzZ40Kdx4bB"
+      "duration_ms": 241733,
+      "name": "What Are You Doing The Rest Of Your Life?",
+      "url": "https://open.spotify.com/track/0q4svepUwk6ZDLZEQlhKQn"
     },
     {
       "added_at": "2023-11-22 14:35:11",
@@ -631,18 +647,18 @@
     {
       "added_at": "2023-11-22 14:35:11",
       "album": {
-        "name": "Some Nice Things I've Missed",
-        "url": "https://open.spotify.com/album/4ZSUkTw8BgdedIYtmteKsV"
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 241733,
-      "name": "What Are You Doing The Rest Of Your Life?",
-      "url": "https://open.spotify.com/track/0q4svepUwk6ZDLZEQlhKQn"
+      "duration_ms": 173920,
+      "name": "I Only Have Eyes For You",
+      "url": "https://open.spotify.com/track/6Y8QG1S14e2o0Tx0rppi0V"
     },
     {
       "added_at": "2023-11-22 14:35:11",
@@ -663,18 +679,18 @@
     {
       "added_at": "2023-11-22 14:35:11",
       "album": {
-        "name": "What A Diff'rence A Day Makes! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe"
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
       },
       "artists": [
         {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 161173,
-      "name": "It's Magic",
-      "url": "https://open.spotify.com/track/3Dwj9k9GC0Tm8nDvE9U5Pg"
+      "duration_ms": 194040,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/4YPYFUATiul0877A1HhSlW"
     },
     {
       "added_at": "2023-11-22 14:35:11",
@@ -695,38 +711,6 @@
     {
       "added_at": "2023-11-22 14:35:11",
       "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 173920,
-      "name": "I Only Have Eyes For You",
-      "url": "https://open.spotify.com/track/6Y8QG1S14e2o0Tx0rppi0V"
-    },
-    {
-      "added_at": "2023-11-22 14:35:11",
-      "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 194040,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/4YPYFUATiul0877A1HhSlW"
-    },
-    {
-      "added_at": "2023-11-22 14:35:11",
-      "album": {
         "name": "Sings Sweet Songs For Swingers",
         "url": "https://open.spotify.com/album/6SESAIqP8sQTVp0ZRVcdOq"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 184720,
       "name": "Let's Fall In Love",
       "url": "https://open.spotify.com/track/2RnJD2mTBxqvHcqmXk1n9c"
+    },
+    {
+      "added_at": "2023-11-22 14:35:11",
+      "album": {
+        "name": "What A Diff'rence A Day Makes! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 161173,
+      "name": "It's Magic",
+      "url": "https://open.spotify.com/track/3Dwj9k9GC0Tm8nDvE9U5Pg"
     },
     {
       "added_at": "2023-11-22 14:35:11",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-11-22 14:35:11",
       "album": {
+        "name": "Dream with Dean",
+        "url": "https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 182653,
+      "name": "Fools Rush In",
+      "url": "https://open.spotify.com/track/0j3ideT0tRuIyRhOOUQjYa"
+    },
+    {
+      "added_at": "2023-11-22 14:35:11",
+      "album": {
         "name": "The Silver Lining - The Songs of Jerome Kern",
         "url": "https://open.spotify.com/album/6HT89sSe135gyyxJhaLs2m"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 174280,
       "name": "The Way You Look Tonight",
       "url": "https://open.spotify.com/track/3mADbrwcu80uRhrgrAaPTz"
-    },
-    {
-      "added_at": "2023-11-22 14:35:11",
-      "album": {
-        "name": "Dream with Dean",
-        "url": "https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 182653,
-      "name": "Fools Rush In",
-      "url": "https://open.spotify.com/track/0j3ideT0tRuIyRhOOUQjYa"
     },
     {
       "added_at": "2023-11-22 14:35:11",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-11-22 14:35:11",
       "album": {
-        "name": "The Touch Of Your Lips",
-        "url": "https://open.spotify.com/album/6c2YK2NhQfnN1eyVqxF5bm"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 499533,
-      "name": "The touch of your lips",
-      "url": "https://open.spotify.com/track/4QwzVlAJSkcLeCNQ6Ug30P"
-    },
-    {
-      "added_at": "2023-11-22 14:35:11",
-      "album": {
         "name": "Ella Fitzgerald Sings The Rodgers And Hart Song Book",
         "url": "https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9"
       },
@@ -903,6 +887,38 @@
       "duration_ms": 224226,
       "name": "My Romance",
       "url": "https://open.spotify.com/track/4y8icjzu6fZP503Mg31Tpn"
+    },
+    {
+      "added_at": "2023-11-22 14:35:11",
+      "album": {
+        "name": "Sleep Warm",
+        "url": "https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 166066,
+      "name": "All I Do Is Dream Of You - Remastered",
+      "url": "https://open.spotify.com/track/4e6JJ0mppGJmSG9TOTYVoM"
+    },
+    {
+      "added_at": "2023-11-22 14:35:11",
+      "album": {
+        "name": "The Touch Of Your Lips",
+        "url": "https://open.spotify.com/album/6c2YK2NhQfnN1eyVqxF5bm"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 499533,
+      "name": "The touch of your lips",
+      "url": "https://open.spotify.com/track/4QwzVlAJSkcLeCNQ6Ug30P"
     },
     {
       "added_at": "2023-11-22 14:35:11",
@@ -955,22 +971,6 @@
     {
       "added_at": "2023-11-22 14:35:11",
       "album": {
-        "name": "Sleep Warm",
-        "url": "https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 166066,
-      "name": "All I Do Is Dream Of You - Remastered",
-      "url": "https://open.spotify.com/track/4e6JJ0mppGJmSG9TOTYVoM"
-    },
-    {
-      "added_at": "2023-11-22 14:35:11",
-      "album": {
         "name": "Carmen McRae For Lovers",
         "url": "https://open.spotify.com/album/7clmDaiCZ59KoFu05W6CAU"
       },
@@ -983,6 +983,22 @@
       "duration_ms": 229226,
       "name": "When I Fall In Love",
       "url": "https://open.spotify.com/track/3qo1rizHmEmLPZbCwYSiKX"
+    },
+    {
+      "added_at": "2023-11-22 14:35:11",
+      "album": {
+        "name": "Amore",
+        "url": "https://open.spotify.com/album/4u2mdmf6P2cTE5M2rhbovR"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 195626,
+      "name": "Dream A Little Dream Of Me - 1998 Remaster",
+      "url": "https://open.spotify.com/track/50zTR9gR9NGol94nv0rZXf"
     },
     {
       "added_at": "2023-11-22 14:35:11",
@@ -1019,34 +1035,18 @@
     {
       "added_at": "2023-11-22 14:35:11",
       "album": {
-        "name": "Sinatra's Sinatra",
-        "url": "https://open.spotify.com/album/3HBuwtSVm028hyFuwuTiJ5"
+        "name": "Dinah Sings, Previn Plays",
+        "url": "https://open.spotify.com/album/0WfnKepXKonBazvtxWVdLe"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Dinah Shore",
+          "url": "https://open.spotify.com/artist/73xrrv4ZrlpLi1q0Q34wiK"
         }
       ],
-      "duration_ms": 209066,
-      "name": "All The Way",
-      "url": "https://open.spotify.com/track/4YZL8oBgTZrLYeAFHWuDJP"
-    },
-    {
-      "added_at": "2023-11-22 14:35:11",
-      "album": {
-        "name": "Amore",
-        "url": "https://open.spotify.com/album/4u2mdmf6P2cTE5M2rhbovR"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 195626,
-      "name": "Dream A Little Dream Of Me - 1998 Remaster",
-      "url": "https://open.spotify.com/track/50zTR9gR9NGol94nv0rZXf"
+      "duration_ms": 219466,
+      "name": "My Melancholy Baby",
+      "url": "https://open.spotify.com/track/5I6Z43PxKiAJv5qnJ7UYOb"
     },
     {
       "added_at": "2023-11-22 14:35:11",
@@ -1067,34 +1067,18 @@
     {
       "added_at": "2023-11-22 14:35:11",
       "album": {
-        "name": "Dinah Sings, Previn Plays",
-        "url": "https://open.spotify.com/album/0WfnKepXKonBazvtxWVdLe"
+        "name": "Sinatra's Sinatra",
+        "url": "https://open.spotify.com/album/3HBuwtSVm028hyFuwuTiJ5"
       },
       "artists": [
         {
-          "name": "Dinah Shore",
-          "url": "https://open.spotify.com/artist/73xrrv4ZrlpLi1q0Q34wiK"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 219466,
-      "name": "My Melancholy Baby",
-      "url": "https://open.spotify.com/track/5I6Z43PxKiAJv5qnJ7UYOb"
-    },
-    {
-      "added_at": "2023-11-22 14:35:11",
-      "album": {
-        "name": "Carmen McRae Sings Lover Man And Other Billie Holiday Classics",
-        "url": "https://open.spotify.com/album/5GJ5gYx2VulbjhOuPwlH0A"
-      },
-      "artists": [
-        {
-          "name": "Carmen McRae",
-          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
-        }
-      ],
-      "duration_ms": 165400,
-      "name": "Them There Eyes",
-      "url": "https://open.spotify.com/track/069NmdhmDYDPQm363GsVWw"
+      "duration_ms": 209066,
+      "name": "All The Way",
+      "url": "https://open.spotify.com/track/4YZL8oBgTZrLYeAFHWuDJP"
     },
     {
       "added_at": "2023-11-22 14:35:11",
@@ -1147,6 +1131,22 @@
     {
       "added_at": "2023-11-22 14:35:11",
       "album": {
+        "name": "Carmen McRae Sings Lover Man And Other Billie Holiday Classics",
+        "url": "https://open.spotify.com/album/5GJ5gYx2VulbjhOuPwlH0A"
+      },
+      "artists": [
+        {
+          "name": "Carmen McRae",
+          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
+        }
+      ],
+      "duration_ms": 165400,
+      "name": "Them There Eyes",
+      "url": "https://open.spotify.com/track/069NmdhmDYDPQm363GsVWw"
+    },
+    {
+      "added_at": "2023-11-22 14:35:11",
+      "album": {
         "name": "Unforgettable Songs",
         "url": "https://open.spotify.com/album/2fQ1l3sqcSzYfB0i6V6v6d"
       },
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2023-11-22 14:35:11",
       "album": {
-        "name": "Anita Sings The Most",
-        "url": "https://open.spotify.com/album/3kInD4ls57TJY4ATGDIqAS"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        },
-        {
-          "name": "Oscar Peterson Quartet",
-          "url": "https://open.spotify.com/artist/4NQPiiaJak2p93c2hl5rNQ"
-        }
-      ],
-      "duration_ms": 220640,
-      "name": "We'll Be Together Again",
-      "url": "https://open.spotify.com/track/3dn8g7gDYKEZxtcRQlEV67"
-    },
-    {
-      "added_at": "2023-11-22 14:35:11",
-      "album": {
         "name": "Sarah Vaughan",
         "url": "https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG"
       },
@@ -1219,6 +1199,22 @@
     {
       "added_at": "2023-11-22 14:35:11",
       "album": {
+        "name": "You Are Free",
+        "url": "https://open.spotify.com/album/6AFnZ1lljnYwntxC8YHSy7"
+      },
+      "artists": [
+        {
+          "name": "Joe Williams",
+          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
+        }
+      ],
+      "duration_ms": 125946,
+      "name": "Have You Met Miss Jones",
+      "url": "https://open.spotify.com/track/597IFswsQ0TaWnNn2S9wYh"
+    },
+    {
+      "added_at": "2023-11-22 14:35:11",
+      "album": {
         "name": "Meet Me Around Midnight",
         "url": "https://open.spotify.com/album/62haqQCNJuhlujx5lqsYaO"
       },
@@ -1235,18 +1231,22 @@
     {
       "added_at": "2023-11-22 14:35:11",
       "album": {
-        "name": "You Are Free",
-        "url": "https://open.spotify.com/album/6AFnZ1lljnYwntxC8YHSy7"
+        "name": "Anita Sings The Most",
+        "url": "https://open.spotify.com/album/3kInD4ls57TJY4ATGDIqAS"
       },
       "artists": [
         {
-          "name": "Joe Williams",
-          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        },
+        {
+          "name": "Oscar Peterson Quartet",
+          "url": "https://open.spotify.com/artist/4NQPiiaJak2p93c2hl5rNQ"
         }
       ],
-      "duration_ms": 125946,
-      "name": "Have You Met Miss Jones",
-      "url": "https://open.spotify.com/track/597IFswsQ0TaWnNn2S9wYh"
+      "duration_ms": 220640,
+      "name": "We'll Be Together Again",
+      "url": "https://open.spotify.com/track/3dn8g7gDYKEZxtcRQlEV67"
     },
     {
       "added_at": "2023-11-22 14:35:11",
@@ -1279,22 +1279,6 @@
       "duration_ms": 162000,
       "name": "You're Getting To Be A Habit With Me",
       "url": "https://open.spotify.com/track/3JrECZZVBiWeL9GJMMfzdj"
-    },
-    {
-      "added_at": "2023-11-22 14:35:11",
-      "album": {
-        "name": "Waiter, Make Mine The Blues",
-        "url": "https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 219506,
-      "name": "Angel Eyes",
-      "url": "https://open.spotify.com/track/3JByavtrnBqKpNzl18SGNI"
     },
     {
       "added_at": "2023-11-22 14:35:11",
@@ -1335,18 +1319,34 @@
     {
       "added_at": "2023-11-22 14:35:11",
       "album": {
-        "name": "Time To Swing",
-        "url": "https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko"
+        "name": "Waiter, Make Mine The Blues",
+        "url": "https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7"
       },
       "artists": [
         {
-          "name": "Dakota Staton",
-          "url": "https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx"
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
         }
       ],
-      "duration_ms": 132840,
-      "name": "The Song Is You",
-      "url": "https://open.spotify.com/track/1rS6vXiY6b6KDKWA18IIlc"
+      "duration_ms": 219506,
+      "name": "Angel Eyes",
+      "url": "https://open.spotify.com/track/3JByavtrnBqKpNzl18SGNI"
+    },
+    {
+      "added_at": "2023-11-22 14:35:11",
+      "album": {
+        "name": "So Warm",
+        "url": "https://open.spotify.com/album/6gnhgowSVTcOXuP9v3Jcr0"
+      },
+      "artists": [
+        {
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+        }
+      ],
+      "duration_ms": 162240,
+      "name": "If You Were Mine",
+      "url": "https://open.spotify.com/track/1sMb1VoCi31FQiC435Rocn"
     },
     {
       "added_at": "2023-11-22 14:35:11",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2023-11-22 14:35:11",
       "album": {
-        "name": "So Warm",
-        "url": "https://open.spotify.com/album/6gnhgowSVTcOXuP9v3Jcr0"
+        "name": "Time To Swing",
+        "url": "https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko"
       },
       "artists": [
         {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+          "name": "Dakota Staton",
+          "url": "https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx"
         }
       ],
-      "duration_ms": 162240,
-      "name": "If You Were Mine",
-      "url": "https://open.spotify.com/track/1sMb1VoCi31FQiC435Rocn"
+      "duration_ms": 132840,
+      "name": "The Song Is You",
+      "url": "https://open.spotify.com/track/1rS6vXiY6b6KDKWA18IIlc"
     },
     {
       "added_at": "2023-11-22 14:35:11",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-11-22 14:35:11",
       "album": {
-        "name": "Swedish Sensation",
-        "url": "https://open.spotify.com/album/6UAzZrcoC6kwtTbIJiaTrh"
-      },
-      "artists": [
-        {
-          "name": "Monica Zetterlund",
-          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
-        }
-      ],
-      "duration_ms": 337706,
-      "name": "Easy Living",
-      "url": "https://open.spotify.com/track/7GfGULTcjWV5Np3xFNZ9hW"
-    },
-    {
-      "added_at": "2023-11-22 14:35:11",
-      "album": {
         "name": "A Day At The Movies",
         "url": "https://open.spotify.com/album/2d9J1hq0I8fkd1vKUYCgwi"
       },
@@ -1591,22 +1575,6 @@
     {
       "added_at": "2023-11-22 14:35:11",
       "album": {
-        "name": "I Feel a Song Coming On: Lost Radio Recordings",
-        "url": "https://open.spotify.com/album/3v7vfFLfUtGVeCj81t6Ko1"
-      },
-      "artists": [
-        {
-          "name": "Rosemary Clooney",
-          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
-        }
-      ],
-      "duration_ms": 167723,
-      "name": "Tenderly",
-      "url": "https://open.spotify.com/track/3oHIxYy7aIp9MWbJEMb3Nm"
-    },
-    {
-      "added_at": "2023-11-22 14:35:11",
-      "album": {
         "name": "On the Sunny Side of the Street",
         "url": "https://open.spotify.com/album/3W8oUfusucA1Ri5N5tV6Eq"
       },
@@ -1619,26 +1587,6 @@
       "duration_ms": 142866,
       "name": "Come Rain or Come Shine",
       "url": "https://open.spotify.com/track/15MObStooR3cTaXIf1fQCX"
-    },
-    {
-      "added_at": "2023-11-22 14:35:11",
-      "album": {
-        "name": "Sarah - Dedicated to You",
-        "url": "https://open.spotify.com/album/6J959QPUPIq5apPFovaoiJ"
-      },
-      "artists": [
-        {
-          "name": "Carmen McRae",
-          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
-        },
-        {
-          "name": "Shirley Horn",
-          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
-        }
-      ],
-      "duration_ms": 362693,
-      "name": "Dedicated to You - Remastered 2003",
-      "url": "https://open.spotify.com/track/2Ako7iEOscH89vNTr14djH"
     },
     {
       "added_at": "2023-11-22 14:35:11",
@@ -1659,6 +1607,58 @@
       "duration_ms": 199560,
       "name": "Then I'll Be Tired Of You",
       "url": "https://open.spotify.com/track/5OTjnQB7ZtlT6LtSSgfIqN"
+    },
+    {
+      "added_at": "2023-11-22 14:35:11",
+      "album": {
+        "name": "I Feel a Song Coming On: Lost Radio Recordings",
+        "url": "https://open.spotify.com/album/3v7vfFLfUtGVeCj81t6Ko1"
+      },
+      "artists": [
+        {
+          "name": "Rosemary Clooney",
+          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
+        }
+      ],
+      "duration_ms": 167723,
+      "name": "Tenderly",
+      "url": "https://open.spotify.com/track/3oHIxYy7aIp9MWbJEMb3Nm"
+    },
+    {
+      "added_at": "2023-11-22 14:35:11",
+      "album": {
+        "name": "Swedish Sensation",
+        "url": "https://open.spotify.com/album/6UAzZrcoC6kwtTbIJiaTrh"
+      },
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
+        }
+      ],
+      "duration_ms": 337706,
+      "name": "Easy Living",
+      "url": "https://open.spotify.com/track/7GfGULTcjWV5Np3xFNZ9hW"
+    },
+    {
+      "added_at": "2023-11-22 14:35:11",
+      "album": {
+        "name": "Sarah - Dedicated to You",
+        "url": "https://open.spotify.com/album/6J959QPUPIq5apPFovaoiJ"
+      },
+      "artists": [
+        {
+          "name": "Carmen McRae",
+          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
+        },
+        {
+          "name": "Shirley Horn",
+          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
+        }
+      ],
+      "duration_ms": 362693,
+      "name": "Dedicated to You - Remastered 2003",
+      "url": "https://open.spotify.com/track/2Ako7iEOscH89vNTr14djH"
     },
     {
       "added_at": "2023-11-22 14:35:11",

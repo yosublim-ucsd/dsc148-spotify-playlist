@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-1,558 songs - 3 day 10 hr 52 min
+1,559 songs - 3 day 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [BXL ZOO](https://open.spotify.com/track/7BO3y8lmogACezwHqZ1HTB) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [QALF](https://open.spotify.com/album/62f3yVpi23o1YepGRLsSQI) | 3:21 | 2021-05-03 | 2021-05-06 |
 | [By Your Side \(feat\. Tom Grennan\)](https://open.spotify.com/track/0vR2rIVORmgeKiGIgNT0fV) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [By Your Side \(feat\. Tom Grennan\)](https://open.spotify.com/album/6Z6QdCXb3IBonAUSwLP4iB) | 3:09 | 2021-06-14 | 2021-06-16 |
 | [Bébéboa](https://open.spotify.com/track/37elS4BnxlVk2Ow5ig3LO9) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [Civilisation](https://open.spotify.com/album/2o2GBOfy2GG9oKYZgfZkur) | 3:02 | 2021-11-21 | 2021-12-05 |
+| [Bécane \- A COLORS SHOW](https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [Bécane \- A COLORS SHOW](https://open.spotify.com/album/7oBuvko8hsXKXHEUHvDXnB) | 3:02 | 2023-11-27 |  |
 | [Bénéfice](https://open.spotify.com/track/6V5p28BkOfLRblaSQIDLHz) | [Fresh La Douille](https://open.spotify.com/artist/1ssrFpfMmM0vRx85eO2XKL), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Voltaire](https://open.spotify.com/album/3RpTSDBWkDbgl6bJEG6s1b) | 2:54 | 2023-01-24 | 2023-01-26 |
 | [Bétoile](https://open.spotify.com/track/4gY7xgejZaSBIZu6oFomJb) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [No crari](https://open.spotify.com/album/4kC4sAGhPKek3ZKxrc1TW5) | 3:30 | 2021-09-12 | 2021-09-13 |
 | [C'est carré le S](https://open.spotify.com/track/0XGBe8T2n2XTdesQgjQQIY) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [En temps réel](https://open.spotify.com/album/3g7Rxp3iwCH5AImabkOweY) | 3:21 | 2023-06-10 | 2023-10-17 |
@@ -326,7 +327,7 @@
 | [Coller](https://open.spotify.com/track/2l2lch9RMo4EWHXmadEkQP) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [ALPHA](https://open.spotify.com/album/6mHX3onyNT2xYveguxhrDm) | 2:20 | 2023-03-04 | 2023-03-06 |
 | [Combien de temps](https://open.spotify.com/track/4CTclzZBLuCBa9uPcuYnlB) | [Kekra](https://open.spotify.com/artist/20pbz4TbpkBUr5JwYfGgPS) | [Stratos](https://open.spotify.com/album/5YyOGFt8KINACLGIzXRfdL) | 3:11 | 2023-01-28 | 2023-01-30 |
 | [Comme au bon vieux temps](https://open.spotify.com/track/22pVMtbZDVh6AKYqnyfQlE) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Extraterrestre](https://open.spotify.com/album/4DqWj7iB2Xa2DQYiWcT7ks) | 4:22 | 2022-06-04 | 2022-06-07 |
-| [Comment on fait](https://open.spotify.com/track/3Gz8jdMPGPj5oSc0zAddxM) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Zazie](https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD) | [à 2 à 3](https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d) | 3:00 | 2023-11-26 |  |
+| [Comment on fait](https://open.spotify.com/track/3Gz8jdMPGPj5oSc0zAddxM) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Zazie](https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD) | [à 2 à 3](https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d) | 3:00 | 2023-11-26 | 2023-11-28 |
 | [Corazon](https://open.spotify.com/track/4Uz9uTnqgM0xjZpY9wb8ym) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [DNK](https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN) | 2:45 | 2023-01-28 | 2023-01-30 |
 | [Corrida](https://open.spotify.com/track/0h5loK7awcpjgerjVSKHCg) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [JVLIVS II](https://open.spotify.com/album/7eKvzMoLTENJaukj2pHrw7) | 2:50 | 2021-03-27\* | 2021-04-05 |
 | [Cosmos](https://open.spotify.com/track/3UHp1ZNVPKAIZ3Dvjd7bvN) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [No crari](https://open.spotify.com/album/4kC4sAGhPKek3ZKxrc1TW5) | 1:48 | 2021-09-12 | 2021-09-13 |

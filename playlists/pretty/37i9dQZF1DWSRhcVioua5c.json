@@ -1,12 +1,12 @@
 {
   "description": "Una selecci\u00f3n de baladas para suspirar de amor.",
-  "num_followers": 68987,
+  "num_followers": 69014,
   "original_name": "Folklore Rom\u00e1ntico ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTM4MTQ0OTU2NTc2YTczYmJmYjEwOGU1Mjc2ZTYyMWUyMzE2Yzhm",
+  "snapshot_id": "MCw1NTA3ZTJhNTM5NGFkZTU2ODkxYjlkODE4NGEyMDEzMzRkN2ZkMzkw",
   "tracks": [
     {
       "added_at": "2023-11-10 13:34:27",
@@ -127,22 +127,6 @@
     {
       "added_at": "2023-11-10 13:34:27",
       "album": {
-        "name": "La Voz Del Viento",
-        "url": "https://open.spotify.com/album/0fbAh4EhR85ddKTzO7vS8a"
-      },
-      "artists": [
-        {
-          "name": "Los Huayra",
-          "url": "https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl"
-        }
-      ],
-      "duration_ms": 157080,
-      "name": "Adios Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/6c9C5tlbSJLC2HY2ItbBcH"
-    },
-    {
-      "added_at": "2023-11-10 13:34:27",
-      "album": {
         "name": "Zambas Rom\u00e1nticas: Mujer, Ni\u00f1a y Amiga / Gustito a Mistol / Gallitos del Aire / Jazm\u00edn de Luna",
         "url": "https://open.spotify.com/album/475rRqqrmSGkwYYJFcOUaz"
       },
@@ -175,6 +159,38 @@
     {
       "added_at": "2023-11-10 13:34:27",
       "album": {
+        "name": "Amor Salvaje",
+        "url": "https://open.spotify.com/album/6GtBjRg2ZceYWVd7KJjSG7"
+      },
+      "artists": [
+        {
+          "name": "Chaque\u00f1o Palavecino",
+          "url": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
+        }
+      ],
+      "duration_ms": 195266,
+      "name": "Amor Salvaje",
+      "url": "https://open.spotify.com/track/3uXcL2mkNMUB8aK26xA0jE"
+    },
+    {
+      "added_at": "2023-11-10 13:34:27",
+      "album": {
+        "name": "La Voz Del Viento",
+        "url": "https://open.spotify.com/album/0fbAh4EhR85ddKTzO7vS8a"
+      },
+      "artists": [
+        {
+          "name": "Los Huayra",
+          "url": "https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl"
+        }
+      ],
+      "duration_ms": 157080,
+      "name": "Adios Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/6c9C5tlbSJLC2HY2ItbBcH"
+    },
+    {
+      "added_at": "2023-11-10 13:34:27",
+      "album": {
         "name": "Ahyre",
         "url": "https://open.spotify.com/album/2jJyXMCAAQmgk1WlsFFwAN"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 212400,
       "name": "Ens\u00e9\u00f1ame A Vivir Sin Ti",
       "url": "https://open.spotify.com/track/59f765mlM08j2POCl3zPvd"
-    },
-    {
-      "added_at": "2023-11-10 13:34:27",
-      "album": {
-        "name": "Amor Salvaje",
-        "url": "https://open.spotify.com/album/6GtBjRg2ZceYWVd7KJjSG7"
-      },
-      "artists": [
-        {
-          "name": "Chaque\u00f1o Palavecino",
-          "url": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
-        }
-      ],
-      "duration_ms": 195266,
-      "name": "Amor Salvaje",
-      "url": "https://open.spotify.com/track/3uXcL2mkNMUB8aK26xA0jE"
     },
     {
       "added_at": "2023-11-10 13:34:27",
@@ -271,38 +271,6 @@
     {
       "added_at": "2023-11-10 13:34:27",
       "album": {
-        "name": "Uno Mismo",
-        "url": "https://open.spotify.com/album/6rlHWYEZC5HSV4abSUIzL5"
-      },
-      "artists": [
-        {
-          "name": "Jorge Rojas",
-          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
-        }
-      ],
-      "duration_ms": 272613,
-      "name": "El Secreto de Tu Vida",
-      "url": "https://open.spotify.com/track/5X0kbQBjuNmFttGWB7FDW0"
-    },
-    {
-      "added_at": "2023-11-10 13:34:27",
-      "album": {
-        "name": "Mi Loco Amor",
-        "url": "https://open.spotify.com/album/6oNvO33sdfOdnE2o2RLP62"
-      },
-      "artists": [
-        {
-          "name": "Sele Vera y Pampas de Bariloche",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
-        }
-      ],
-      "duration_ms": 213705,
-      "name": "Mi Loco Amor",
-      "url": "https://open.spotify.com/track/2IkjSf9VxQAA7uSipkNsOJ"
-    },
-    {
-      "added_at": "2023-11-10 13:34:27",
-      "album": {
         "name": "Due\u00f1a de Mi Alma",
         "url": "https://open.spotify.com/album/2STMKBpE4k24Q7y1Dk7pfa"
       },
@@ -339,22 +307,34 @@
     {
       "added_at": "2023-11-10 13:34:27",
       "album": {
-        "name": "Carnaval, Pasi\u00f3n del Norte",
-        "url": "https://open.spotify.com/album/0WaV0ZGsHi6ImqIe8OTDvC"
+        "name": "Uno Mismo",
+        "url": "https://open.spotify.com/album/6rlHWYEZC5HSV4abSUIzL5"
       },
       "artists": [
         {
-          "name": "Los Nocheros",
-          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
-        },
-        {
-          "name": "Los Tekis",
-          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
+          "name": "Jorge Rojas",
+          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
         }
       ],
-      "duration_ms": 297360,
-      "name": "Vuela una Lagrima",
-      "url": "https://open.spotify.com/track/2qhnJ56sGfxNQuuG3QulPP"
+      "duration_ms": 272613,
+      "name": "El Secreto de Tu Vida",
+      "url": "https://open.spotify.com/track/5X0kbQBjuNmFttGWB7FDW0"
+    },
+    {
+      "added_at": "2023-11-10 13:34:27",
+      "album": {
+        "name": "Mi Loco Amor",
+        "url": "https://open.spotify.com/album/6oNvO33sdfOdnE2o2RLP62"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera y Pampas de Bariloche",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "duration_ms": 213705,
+      "name": "Mi Loco Amor",
+      "url": "https://open.spotify.com/track/2IkjSf9VxQAA7uSipkNsOJ"
     },
     {
       "added_at": "2023-11-10 13:34:27",
@@ -375,18 +355,18 @@
     {
       "added_at": "2023-11-10 13:34:27",
       "album": {
-        "name": "Te Vas",
-        "url": "https://open.spotify.com/album/4SOIv6vtvF8rLywEiQzYmg"
+        "name": "Poncho",
+        "url": "https://open.spotify.com/album/2LqkMvdnxBpqdOwGXPMdP3"
       },
       "artists": [
         {
-          "name": "Sele Vera y Pampas de Bariloche",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+          "name": "Canto 4",
+          "url": "https://open.spotify.com/artist/2pm42ahOwMBST1vbdGqRAq"
         }
       ],
-      "duration_ms": 130576,
-      "name": "Te Vas",
-      "url": "https://open.spotify.com/track/2idbEBZxsGaKM4QxzShgd2"
+      "duration_ms": 195059,
+      "name": "La So\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/5irK16GrbSb7eSKzvrbJiZ"
     },
     {
       "added_at": "2023-11-10 13:34:27",
@@ -423,18 +403,58 @@
     {
       "added_at": "2023-11-10 13:34:27",
       "album": {
-        "name": "Poncho",
-        "url": "https://open.spotify.com/album/2LqkMvdnxBpqdOwGXPMdP3"
+        "name": "Carnaval, Pasi\u00f3n del Norte",
+        "url": "https://open.spotify.com/album/0WaV0ZGsHi6ImqIe8OTDvC"
       },
       "artists": [
         {
-          "name": "Canto 4",
-          "url": "https://open.spotify.com/artist/2pm42ahOwMBST1vbdGqRAq"
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+        },
+        {
+          "name": "Los Tekis",
+          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
         }
       ],
-      "duration_ms": 195059,
-      "name": "La So\u00f1\u00e9",
-      "url": "https://open.spotify.com/track/5irK16GrbSb7eSKzvrbJiZ"
+      "duration_ms": 297360,
+      "name": "Vuela una Lagrima",
+      "url": "https://open.spotify.com/track/2qhnJ56sGfxNQuuG3QulPP"
+    },
+    {
+      "added_at": "2023-11-10 13:34:27",
+      "album": {
+        "name": "Te Vas",
+        "url": "https://open.spotify.com/album/4SOIv6vtvF8rLywEiQzYmg"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera y Pampas de Bariloche",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "duration_ms": 130576,
+      "name": "Te Vas",
+      "url": "https://open.spotify.com/track/2idbEBZxsGaKM4QxzShgd2"
+    },
+    {
+      "added_at": "2023-11-10 13:34:27",
+      "album": {
+        "name": "C\u00f3mplices",
+        "url": "https://open.spotify.com/album/55QxtsOzQKo2F0g0puf4jM"
+      },
+      "artists": [
+        {
+          "name": "AHYRE",
+          "url": "https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP"
+        },
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        }
+      ],
+      "duration_ms": 320085,
+      "name": "C\u00f3mplices",
+      "url": "https://open.spotify.com/track/6IjYr3ioZO2yDLFsVWPd6A"
     },
     {
       "added_at": "2023-11-10 13:34:27",
@@ -483,26 +503,6 @@
       "duration_ms": 242666,
       "name": "Cuando Llegue El Alba",
       "url": "https://open.spotify.com/track/3BTDGRUiGAf4aki71sVObH"
-    },
-    {
-      "added_at": "2023-11-10 13:34:27",
-      "album": {
-        "name": "C\u00f3mplices",
-        "url": "https://open.spotify.com/album/55QxtsOzQKo2F0g0puf4jM"
-      },
-      "artists": [
-        {
-          "name": "AHYRE",
-          "url": "https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP"
-        },
-        {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-        }
-      ],
-      "duration_ms": 320085,
-      "name": "C\u00f3mplices",
-      "url": "https://open.spotify.com/track/6IjYr3ioZO2yDLFsVWPd6A"
     },
     {
       "added_at": "2023-11-10 13:34:27",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-11-10 13:34:27",
       "album": {
-        "name": "No Te Rindas",
-        "url": "https://open.spotify.com/album/6ogjTJpmQxnxaoOvyvajP6"
-      },
-      "artists": [
-        {
-          "name": "Destino San Javier",
-          "url": "https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW"
-        }
-      ],
-      "duration_ms": 219050,
-      "name": "No Te Rindas",
-      "url": "https://open.spotify.com/track/2duWyNfkGp0ve1VXPMjiwf"
-    },
-    {
-      "added_at": "2023-11-10 13:34:27",
-      "album": {
         "name": "La Paloma",
         "url": "https://open.spotify.com/album/6DgVAve7m06lb2ubFqp3J3"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 224759,
       "name": "La Paloma",
       "url": "https://open.spotify.com/track/1xbueGvTrxbpYNtOSFKdTJ"
+    },
+    {
+      "added_at": "2023-11-10 13:34:27",
+      "album": {
+        "name": "No Te Rindas",
+        "url": "https://open.spotify.com/album/6ogjTJpmQxnxaoOvyvajP6"
+      },
+      "artists": [
+        {
+          "name": "Destino San Javier",
+          "url": "https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW"
+        }
+      ],
+      "duration_ms": 219050,
+      "name": "No Te Rindas",
+      "url": "https://open.spotify.com/track/2duWyNfkGp0ve1VXPMjiwf"
     },
     {
       "added_at": "2023-11-10 13:34:27",
@@ -860,22 +860,6 @@
       "added_at": "2023-11-10 13:34:27",
       "album": {
         "name": "Eterno Amor",
-        "url": "https://open.spotify.com/album/1Yxth9gcry4oASkewP9b6y"
-      },
-      "artists": [
-        {
-          "name": "Los del Portezuelo",
-          "url": "https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc"
-        }
-      ],
-      "duration_ms": 190608,
-      "name": "Eterno Amor",
-      "url": "https://open.spotify.com/track/7r16iJ5dJcdqFQJeh08GPs"
-    },
-    {
-      "added_at": "2023-11-10 13:34:27",
-      "album": {
-        "name": "Eterno Amor",
         "url": "https://open.spotify.com/album/5fw1AGfL8lCgbxBFD8aYrg"
       },
       "artists": [
@@ -887,22 +871,6 @@
       "duration_ms": 248430,
       "name": "Eterno Amor",
       "url": "https://open.spotify.com/track/1rlGQVfvXSSJteVJm2C6Ts"
-    },
-    {
-      "added_at": "2023-11-10 13:34:27",
-      "album": {
-        "name": "Tal Como Siento",
-        "url": "https://open.spotify.com/album/4RD7YJolJUp5VbNYGtawfn"
-      },
-      "artists": [
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-        }
-      ],
-      "duration_ms": 240491,
-      "name": "Tal Como Siento",
-      "url": "https://open.spotify.com/track/1ubO0IhgfyLLsiLilCYryr"
     },
     {
       "added_at": "2023-11-10 13:34:27",
@@ -939,18 +907,50 @@
     {
       "added_at": "2023-11-10 13:34:27",
       "album": {
-        "name": "Ven Por Mi",
-        "url": "https://open.spotify.com/album/5iJ01M2dW7JSiUteLvn2D8"
+        "name": "Eterno Amor",
+        "url": "https://open.spotify.com/album/1Yxth9gcry4oASkewP9b6y"
       },
       "artists": [
         {
-          "name": "Los Nocheros",
-          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+          "name": "Los del Portezuelo",
+          "url": "https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc"
         }
       ],
-      "duration_ms": 301800,
-      "name": "Mucho M\u00e1s Que Piel",
-      "url": "https://open.spotify.com/track/4NpOVJ3MRm2bn2SIBJU4aw"
+      "duration_ms": 190608,
+      "name": "Eterno Amor",
+      "url": "https://open.spotify.com/track/7r16iJ5dJcdqFQJeh08GPs"
+    },
+    {
+      "added_at": "2023-11-10 13:34:27",
+      "album": {
+        "name": "Tal Como Siento",
+        "url": "https://open.spotify.com/album/4RD7YJolJUp5VbNYGtawfn"
+      },
+      "artists": [
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "duration_ms": 240491,
+      "name": "Tal Como Siento",
+      "url": "https://open.spotify.com/track/1ubO0IhgfyLLsiLilCYryr"
+    },
+    {
+      "added_at": "2023-11-10 13:34:27",
+      "album": {
+        "name": "Tanto Amor",
+        "url": "https://open.spotify.com/album/1tazdXlkpmlZAEOZTnMvH5"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera y Pampas de Bariloche",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "duration_ms": 226629,
+      "name": "Tanto Amor",
+      "url": "https://open.spotify.com/track/0UYDmAoE8TMg4on6RTlk4S"
     },
     {
       "added_at": "2023-11-10 13:34:27",
@@ -971,6 +971,22 @@
     {
       "added_at": "2023-11-10 13:34:27",
       "album": {
+        "name": "Ven Por Mi",
+        "url": "https://open.spotify.com/album/5iJ01M2dW7JSiUteLvn2D8"
+      },
+      "artists": [
+        {
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+        }
+      ],
+      "duration_ms": 301800,
+      "name": "Mucho M\u00e1s Que Piel",
+      "url": "https://open.spotify.com/track/4NpOVJ3MRm2bn2SIBJU4aw"
+    },
+    {
+      "added_at": "2023-11-10 13:34:27",
+      "album": {
         "name": "Andando",
         "url": "https://open.spotify.com/album/4Ni4fgItgWOCP2mCyPce10"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 184346,
       "name": "Para Los Ojos M\u00e1s Bellos",
       "url": "https://open.spotify.com/track/669cJlmstiDWCFDyef4pil"
-    },
-    {
-      "added_at": "2023-11-10 13:34:27",
-      "album": {
-        "name": "Tanto Amor",
-        "url": "https://open.spotify.com/album/1tazdXlkpmlZAEOZTnMvH5"
-      },
-      "artists": [
-        {
-          "name": "Sele Vera y Pampas de Bariloche",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
-        }
-      ],
-      "duration_ms": 226629,
-      "name": "Tanto Amor",
-      "url": "https://open.spotify.com/track/0UYDmAoE8TMg4on6RTlk4S"
     },
     {
       "added_at": "2023-11-10 13:34:27",
@@ -1031,22 +1031,6 @@
       "duration_ms": 169500,
       "name": "Ojos de Cielo",
       "url": "https://open.spotify.com/track/0Y0Odb0Fhy6NU2Fj0mRgBn"
-    },
-    {
-      "added_at": "2023-11-10 13:34:27",
-      "album": {
-        "name": "No me quiero ir",
-        "url": "https://open.spotify.com/album/27IWbwdFn9XVoVdFpbtutD"
-      },
-      "artists": [
-        {
-          "name": "Jorge Rojas",
-          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
-        }
-      ],
-      "duration_ms": 250201,
-      "name": "No me quiero ir",
-      "url": "https://open.spotify.com/track/3f1PnODNw1ZNxtywrhtgJr"
     },
     {
       "added_at": "2023-11-10 13:34:27",
@@ -1127,6 +1111,22 @@
       "duration_ms": 213859,
       "name": "Nada",
       "url": "https://open.spotify.com/track/3MZj5HNiSCfcBE4fMRiSpX"
+    },
+    {
+      "added_at": "2023-11-10 13:34:27",
+      "album": {
+        "name": "No me quiero ir",
+        "url": "https://open.spotify.com/album/27IWbwdFn9XVoVdFpbtutD"
+      },
+      "artists": [
+        {
+          "name": "Jorge Rojas",
+          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
+        }
+      ],
+      "duration_ms": 250201,
+      "name": "No me quiero ir",
+      "url": "https://open.spotify.com/track/3f1PnODNw1ZNxtywrhtgJr"
     },
     {
       "added_at": "2023-11-10 13:34:27",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-11-10 13:34:27",
       "album": {
-        "name": "Repechando la Senda",
-        "url": "https://open.spotify.com/album/4dqOO5Y53y5l2Xqgh51buW"
-      },
-      "artists": [
-        {
-          "name": "Los Puesteros",
-          "url": "https://open.spotify.com/artist/0wTashas0gzU0N4bKe7xxY"
-        }
-      ],
-      "duration_ms": 233561,
-      "name": "Nunca Olvides",
-      "url": "https://open.spotify.com/track/7uh4weyCU6SNgcNT4yyphY"
-    },
-    {
-      "added_at": "2023-11-10 13:34:27",
-      "album": {
         "name": "Cerca del Sol",
         "url": "https://open.spotify.com/album/08hGxQlLEPXYR3YUzrfvs5"
       },
@@ -1275,22 +1259,6 @@
     {
       "added_at": "2023-11-10 13:34:27",
       "album": {
-        "name": "Serenata Oto\u00f1al / Serenata para una Flor / Cuando Llora Mi Guitarra / Adoraci\u00f3n / Mantelito Blanco / Nuestro Juramento / Que Nunca Falte Esta Zamba / El Que Toca Nunca Baila",
-        "url": "https://open.spotify.com/album/4mgOIuHak6A0OQsh6uu5R0"
-      },
-      "artists": [
-        {
-          "name": "Canto Del Alma",
-          "url": "https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa"
-        }
-      ],
-      "duration_ms": 758954,
-      "name": "Serenata Oto\u00f1al / Serenata para una Flor / Cuando Llora Mi Guitarra / Adoraci\u00f3n / Mantelito Blanco / Nuestro Juramento / Que Nunca Falte Esta Zamba / El Que Toca Nunca Baila",
-      "url": "https://open.spotify.com/track/2d63TiTyLpNhj6KkdZSDWd"
-    },
-    {
-      "added_at": "2023-11-10 13:34:27",
-      "album": {
         "name": "Entrega de Amor",
         "url": "https://open.spotify.com/album/2LbaW1WZijr0QOrBIQtVSq"
       },
@@ -1307,6 +1275,38 @@
       "duration_ms": 185852,
       "name": "Entrega de Amor",
       "url": "https://open.spotify.com/track/3kogL0GmyIz6TjX9ZQ3uqf"
+    },
+    {
+      "added_at": "2023-11-10 13:34:27",
+      "album": {
+        "name": "Serenata Oto\u00f1al / Serenata para una Flor / Cuando Llora Mi Guitarra / Adoraci\u00f3n / Mantelito Blanco / Nuestro Juramento / Que Nunca Falte Esta Zamba / El Que Toca Nunca Baila",
+        "url": "https://open.spotify.com/album/4mgOIuHak6A0OQsh6uu5R0"
+      },
+      "artists": [
+        {
+          "name": "Canto Del Alma",
+          "url": "https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa"
+        }
+      ],
+      "duration_ms": 758954,
+      "name": "Serenata Oto\u00f1al / Serenata para una Flor / Cuando Llora Mi Guitarra / Adoraci\u00f3n / Mantelito Blanco / Nuestro Juramento / Que Nunca Falte Esta Zamba / El Que Toca Nunca Baila",
+      "url": "https://open.spotify.com/track/2d63TiTyLpNhj6KkdZSDWd"
+    },
+    {
+      "added_at": "2023-11-10 13:34:27",
+      "album": {
+        "name": "Repechando la Senda",
+        "url": "https://open.spotify.com/album/4dqOO5Y53y5l2Xqgh51buW"
+      },
+      "artists": [
+        {
+          "name": "Los Puesteros",
+          "url": "https://open.spotify.com/artist/0wTashas0gzU0N4bKe7xxY"
+        }
+      ],
+      "duration_ms": 233561,
+      "name": "Nunca Olvides",
+      "url": "https://open.spotify.com/track/7uh4weyCU6SNgcNT4yyphY"
     },
     {
       "added_at": "2023-11-10 13:34:27",
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2023-11-10 13:34:27",
       "album": {
-        "name": "Tonada De Tus Labios",
-        "url": "https://open.spotify.com/album/7CUPx0jk0kMV7CaS8uae5n"
-      },
-      "artists": [
-        {
-          "name": "Karamelo Santo",
-          "url": "https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1"
-        },
-        {
-          "name": "Goy Karamelo",
-          "url": "https://open.spotify.com/artist/6ivDKC9j7KCZ6vYb9syvcC"
-        }
-      ],
-      "duration_ms": 177937,
-      "name": "Tonada De Tus Labios",
-      "url": "https://open.spotify.com/track/5iynZIlZkHVoWrxXgdhd4N"
-    },
-    {
-      "added_at": "2023-11-10 13:34:27",
-      "album": {
         "name": "Ansiado Encuentro",
         "url": "https://open.spotify.com/album/3Z3dyIUxHZfTlBarrWrHLR"
       },
@@ -1487,6 +1467,26 @@
       "duration_ms": 210818,
       "name": "Bien o Mal",
       "url": "https://open.spotify.com/track/0NmboziyhMxu5cJs0lQzgF"
+    },
+    {
+      "added_at": "2023-11-10 13:34:27",
+      "album": {
+        "name": "Tonada De Tus Labios",
+        "url": "https://open.spotify.com/album/7CUPx0jk0kMV7CaS8uae5n"
+      },
+      "artists": [
+        {
+          "name": "Karamelo Santo",
+          "url": "https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1"
+        },
+        {
+          "name": "Goy Karamelo",
+          "url": "https://open.spotify.com/artist/6ivDKC9j7KCZ6vYb9syvcC"
+        }
+      ],
+      "duration_ms": 177937,
+      "name": "Tonada De Tus Labios",
+      "url": "https://open.spotify.com/track/5iynZIlZkHVoWrxXgdhd4N"
     },
     {
       "added_at": "2023-11-10 13:34:27",

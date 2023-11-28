@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "The hottest songs you need to listen to right now. Cover: Tate McRae",
+  "description": "The hottest songs you need to listen to right now. Cover: aespa",
   "name": "It's a Hit!",
   "tracks": [
     {
@@ -1127,6 +1127,24 @@
     },
     {
       "album": {
+        "name": "DIE 4 YOU",
+        "url": "https://open.spotify.com/album/0FMkdX3YNx7Ez7pv3XRGzr"
+      },
+      "artists": [
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194045,
+      "name": "DIE 4 YOU",
+      "url": "https://open.spotify.com/track/7yZD4AVfQtAZD4cG8eRnPk"
+    },
+    {
+      "album": {
         "name": "SMITHEREENS",
         "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
       },
@@ -1846,7 +1864,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 198448,
       "name": "Got Me Started",
       "url": "https://open.spotify.com/track/31MNHKE86sEXzIglbGQ6mu"
@@ -2255,6 +2273,24 @@
     },
     {
       "album": {
+        "name": "I (Feat. DAWN)",
+        "url": "https://open.spotify.com/album/4yCLOlSNlSuwvzGVkYsLwU"
+      },
+      "artists": [
+        {
+          "name": "Park Bom",
+          "url": "https://open.spotify.com/artist/3uHb6dRazmcaT15bMexUtt"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233573,
+      "name": "I (Feat. DAWN)",
+      "url": "https://open.spotify.com/track/6md6ZAdNYB356gXFFW7GXV"
+    },
+    {
+      "album": {
         "name": "I've IVE",
         "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
       },
@@ -2440,7 +2476,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 176479,
       "name": "In The City",
       "url": "https://open.spotify.com/track/3xY5aYJcdvZX9xQxNd02ku"
@@ -2510,6 +2546,24 @@
       "duration_ms": 171056,
       "name": "Jacuzzi",
       "url": "https://open.spotify.com/track/3WS8Wul8jTZg9jvmN8556Q"
+    },
+    {
+      "album": {
+        "name": "Jingle Bell Rock",
+        "url": "https://open.spotify.com/album/7dSaBwUid0hjWdJ5QzIKyu"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130613,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/0ijCESscFXtRc0dtDgu1Uv"
     },
     {
       "album": {
@@ -3571,6 +3625,24 @@
     },
     {
       "album": {
+        "name": "ONLY ONE",
+        "url": "https://open.spotify.com/album/1gh4MsmIImvxnpiDELpt6S"
+      },
+      "artists": [
+        {
+          "name": "BANG YEDAM",
+          "url": "https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190640,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/00Ba2PRFeih7voe93Bf5mk"
+    },
+    {
+      "album": {
         "name": "The Things I Left Unsaid",
         "url": "https://open.spotify.com/album/0x68nTDfyciGgU7UXNmm44"
       },
@@ -4022,7 +4094,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 233775,
       "name": "Screen Time (Feat. Hoshi of SEVENTEEN)",
       "url": "https://open.spotify.com/track/4yorFTfi9Tay8tG0NNK7vB"
@@ -4446,7 +4518,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 172964,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
@@ -4837,6 +4909,24 @@
     },
     {
       "album": {
+        "name": "Mushroom: 50 Years Of Making Noise (Reimagined)",
+        "url": "https://open.spotify.com/album/4SRtPtUkg4izzJZ2Kr2LMJ"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183677,
+      "name": "Throw Your Arms Around Me",
+      "url": "https://open.spotify.com/track/0CVwSCQOx3CMHjwDCmaElh"
+    },
+    {
+      "album": {
         "name": "Tip Toe",
         "url": "https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF"
       },
@@ -5142,7 +5232,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 162191,
       "name": "WHAT JUST HAPPENED",
       "url": "https://open.spotify.com/track/2djNsYsA71cIs4A8YaF59J"
@@ -5275,6 +5365,36 @@
     },
     {
       "album": {
+        "name": "Witness Me (feat. Shawn Mendes, Stormzy & Kirk Franklin)",
+        "url": "https://open.spotify.com/album/0FNmNqZYPEXQbLajHmR9En"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        },
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225893,
+      "name": "Witness Me (feat. Shawn Mendes, Stormzy & Kirk Franklin)",
+      "url": "https://open.spotify.com/track/4lIA2yIyg1nPmJ1rBwNFUG"
+    },
+    {
+      "album": {
         "name": "WORTHLESS",
         "url": "https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH"
       },
@@ -5402,7 +5522,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 194869,
       "name": "You Could Start A Cult (with Lizzy McAlpine)",
       "url": "https://open.spotify.com/track/45PRcjOnvjz6VMl7tI3O3c"

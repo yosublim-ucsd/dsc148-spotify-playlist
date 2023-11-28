@@ -4,7 +4,7 @@
 
 > Country Music that ROCKS! Cover: The Steel Woods
 
-319 songs - 18 hr 18 min
+320 songs - 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Burning Down](https://open.spotify.com/track/515UGTaaZQyCgthVxhWTbU) | [Striking Matches](https://open.spotify.com/artist/4v2DyasTOGK3Pv90w75yar) | [Morning](https://open.spotify.com/album/2crKE8V3gDJVhribqhsPh9) | 3:09 | 2021-11-01 | 2022-07-23 |
 | [By Now](https://open.spotify.com/track/5O3YFgx7m0geCKzzo7PjA0) | [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [By Now](https://open.spotify.com/album/3JwPrJgE6Ev6zJdsIYXCD4) | 3:20 | 2023-02-03 | 2023-09-09 |
 | [C\-V\-1\-9](https://open.spotify.com/track/0VBKTzLzBPf2KJJofXPGVH) | [Rob Mayes](https://open.spotify.com/artist/3P5tlX0dc1Y3oNWwgsojmt) | [C\-V\-1\-9](https://open.spotify.com/album/3nl4B6o5111oiJ2AqZus7z) | 3:17 | 2021-11-01 | 2022-02-05 |
-| [Call It Country](https://open.spotify.com/track/1H5I9ObhTNdSvcIJnM5CoT) | [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ) | [Call It Country](https://open.spotify.com/album/2eqtyCMsctct0i1SWDHN2h) | 2:31 | 2021-11-01 |  |
+| [Call It Country](https://open.spotify.com/track/1H5I9ObhTNdSvcIJnM5CoT) | [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ) | [Call It Country](https://open.spotify.com/album/2eqtyCMsctct0i1SWDHN2h) | 2:31 | 2021-11-01 | 2023-11-28 |
 | [Cars On Blocks](https://open.spotify.com/track/4byGXugy6UdulXHzqKMBMG) | [Tim Montana](https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC) | [Long Shots](https://open.spotify.com/album/2wIIIZwinQQ2ieKTL3iqjs) | 3:09 | 2021-11-01 | 2022-05-07 |
 | [Catch Me If You Can](https://open.spotify.com/track/2q0kWUvBaXkakZfH7KPViY) | [Canaan Smith](https://open.spotify.com/artist/0q2lY1ZzFckzciuoMtUvck), [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [High Country Sound](https://open.spotify.com/album/6IVHko8albueLyBNcjuT0v) | 2:49 | 2021-11-01 | 2022-10-13 |
 | [Catch Me If You Can](https://open.spotify.com/track/4yxdTF0DcdXfD9XA3F8gvX) | [Canaan Smith](https://open.spotify.com/artist/0q2lY1ZzFckzciuoMtUvck), [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [High Country Sound](https://open.spotify.com/album/0XsPCNDdepOg4OP3Z1X6Za) | 2:49 | 2022-10-14 | 2023-05-03 |
@@ -157,6 +157,7 @@
 | [I Thought Wrong](https://open.spotify.com/track/5Yzw0PsR0v3sNk4ZwfMHGH) | [Dylan Wolfe](https://open.spotify.com/artist/6NM2BhEMkVbLgCB6RlM6SX) | [I Thought Wrong](https://open.spotify.com/album/04EgGtKlnzafoBbWwiEmkn) | 3:14 | 2023-09-29 |  |
 | [I'm Feelin' Good \(Steve Miller Band\)](https://open.spotify.com/track/04UK6oVCYUNtp1p11KKVKt) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [I'm Feelin' Good \(Steve Miller Band\)](https://open.spotify.com/album/2hFL3oVudahoDiyLC7qju0) | 2:40 | 2023-01-27 | 2023-06-03 |
 | [I'm Not For Everyone](https://open.spotify.com/track/4OFh1cyIE0Ycd0LbNl9WgX) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [I'm Not For Everyone](https://open.spotify.com/album/3VJT2Km0a8tkdelBOR6ucr) | 2:52 | 2021-11-01 | 2023-06-05 |
+| [In Between](https://open.spotify.com/track/3vA24UtKMDGaK5KkzsulYD) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Have A Nice Day](https://open.spotify.com/album/2xXY6j7QVSz6rpqEU9q1Ha) | 3:40 | 2023-11-27 |  |
 | [In Love With My Problems \(feat\. Jon Pardi\)](https://open.spotify.com/track/4JzBPOh3OALX4vneDcPzOL) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Stack of Records](https://open.spotify.com/album/7AzZB0UHZtWu7Ya8yQN3iW) | 3:03 | 2021-11-01 |  |
 | [In Me I Trust](https://open.spotify.com/track/5sdjnLfLl7Xe8UZZ0d0G5f) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv) | [Nashville Nights](https://open.spotify.com/album/2ZtxYUnhLlOiDRFwScCtC3) | 3:15 | 2021-11-01 | 2022-05-07 |
 | [It's Alright](https://open.spotify.com/track/2mi9QDPaqsQwqLSGWCBuLa) | [The Georgia Thunderbolts](https://open.spotify.com/artist/0sukMbleG21A52WNk4O81d) | [It's Alright](https://open.spotify.com/album/5Uk1gMahaWHFuSYrq38JZQ) | 3:56 | 2021-11-01 | 2022-07-09 |

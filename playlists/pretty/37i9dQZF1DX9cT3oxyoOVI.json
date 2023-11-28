@@ -1,12 +1,12 @@
 {
   "description": "romanticizing indie music",
-  "num_followers": 127888,
+  "num_followers": 127847,
   "original_name": "The summer I turned indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzUyYTU5MDQ0YzM4YTVjNDQ4YTE3ZGQ1ODExOTNjMDFkOTVkNDRh",
+  "snapshot_id": "MCxkYzA1MTQxZWEzOGVjNWIwMWI3Y2UyZDQzMWFlZjA1YzA2MmExMGUw",
   "tracks": [
     {
       "added_at": "2023-01-30 15:22:38",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-01-30 15:22:38",
       "album": {
-        "name": "My Own Person",
-        "url": "https://open.spotify.com/album/3vSGcFG4BIsHI4xXO5w2PA"
-      },
-      "artists": [
-        {
-          "name": "Ezra Williams",
-          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
-        }
-      ],
-      "duration_ms": 264873,
-      "name": "My Own Person",
-      "url": "https://open.spotify.com/track/7nMlhFSw9VphHNEgUec9uy"
-    },
-    {
-      "added_at": "2023-01-30 15:22:38",
-      "album": {
         "name": "Making Steak",
         "url": "https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 208264,
       "name": "Go Higher",
       "url": "https://open.spotify.com/track/4aivV3u4U30a9fXLrWJEpj"
+    },
+    {
+      "added_at": "2023-01-30 15:22:38",
+      "album": {
+        "name": "My Own Person",
+        "url": "https://open.spotify.com/album/3vSGcFG4BIsHI4xXO5w2PA"
+      },
+      "artists": [
+        {
+          "name": "Ezra Williams",
+          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
+        }
+      ],
+      "duration_ms": 264873,
+      "name": "My Own Person",
+      "url": "https://open.spotify.com/track/7nMlhFSw9VphHNEgUec9uy"
     },
     {
       "added_at": "2023-01-30 15:22:38",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-01-30 15:22:38",
       "album": {
-        "name": ":):",
-        "url": "https://open.spotify.com/album/3RNrxnGExcrakVAWA3R3Sj"
-      },
-      "artists": [
-        {
-          "name": "Mr GISCARD",
-          "url": "https://open.spotify.com/artist/4IEu5JcADp9QoG7qji7tZj"
-        }
-      ],
-      "duration_ms": 169760,
-      "name": "JVP",
-      "url": "https://open.spotify.com/track/3zPI4Q0waxD3S2Y2tjcMZ8"
-    },
-    {
-      "added_at": "2023-01-30 15:22:38",
-      "album": {
         "name": "All My Friends Are Fallin' In Love",
         "url": "https://open.spotify.com/album/75G2tuAvS5Uugrb0TLNTT3"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 197173,
       "name": "All My Friends Are Fallin' In Love",
       "url": "https://open.spotify.com/track/0tIWk4w1AfinVnGxiaSz5d"
+    },
+    {
+      "added_at": "2023-01-30 15:22:38",
+      "album": {
+        "name": ":):",
+        "url": "https://open.spotify.com/album/3RNrxnGExcrakVAWA3R3Sj"
+      },
+      "artists": [
+        {
+          "name": "Mr GISCARD",
+          "url": "https://open.spotify.com/artist/4IEu5JcADp9QoG7qji7tZj"
+        }
+      ],
+      "duration_ms": 169760,
+      "name": "JVP",
+      "url": "https://open.spotify.com/track/3zPI4Q0waxD3S2Y2tjcMZ8"
     },
     {
       "added_at": "2023-01-30 15:22:38",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-01-30 15:22:38",
       "album": {
-        "name": "I started a garden",
-        "url": "https://open.spotify.com/album/11suIFqciw4aNWEBRtJjPj"
-      },
-      "artists": [
-        {
-          "name": "Her Skin",
-          "url": "https://open.spotify.com/artist/6zdyc0Juu2p2uVVISAhOJe"
-        }
-      ],
-      "duration_ms": 137333,
-      "name": "confident",
-      "url": "https://open.spotify.com/track/0l5RnR0hCX0PnOlYuR6x3q"
-    },
-    {
-      "added_at": "2023-01-30 15:22:38",
-      "album": {
         "name": "The Night is Clear",
         "url": "https://open.spotify.com/album/4AzsujfeRZCjymYlgxOpjm"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 270265,
       "name": "Je Suis la Pomme Rouge",
       "url": "https://open.spotify.com/track/5LVaQHjgN0jiKDYaoMQqFG"
+    },
+    {
+      "added_at": "2023-01-30 15:22:38",
+      "album": {
+        "name": "I started a garden",
+        "url": "https://open.spotify.com/album/11suIFqciw4aNWEBRtJjPj"
+      },
+      "artists": [
+        {
+          "name": "Her Skin",
+          "url": "https://open.spotify.com/artist/6zdyc0Juu2p2uVVISAhOJe"
+        }
+      ],
+      "duration_ms": 137333,
+      "name": "confident",
+      "url": "https://open.spotify.com/track/0l5RnR0hCX0PnOlYuR6x3q"
     },
     {
       "added_at": "2023-01-30 15:22:38",

@@ -1826,7 +1826,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-03",
+      "date_removed": null,
       "duration_ms": 1116933,
       "name": "Alice's Restaurant Massacree",
       "url": "https://open.spotify.com/track/4OjKHySJHstsImlUW3qfml"
@@ -16896,7 +16896,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 227195,
       "name": "I Remember Everything (feat. Kacey Musgraves)",
       "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
@@ -30676,7 +30676,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-28",
       "duration_ms": 114125,
       "name": "R\u00e1pido Soy",
       "url": "https://open.spotify.com/track/492zkdiUa0CECUDyiG3d35"
@@ -42500,6 +42500,24 @@
       "duration_ms": 174840,
       "name": "ZOOM",
       "url": "https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9"
+    },
+    {
+      "album": {
+        "name": "\u0414\u0436\u0430\u0433\u0430-\u0434\u0436\u0430\u0433\u0430",
+        "url": "https://open.spotify.com/album/5bqf6dvtEfpmc9IqM2wSLz"
+      },
+      "artists": [
+        {
+          "name": "Katya Lel",
+          "url": "https://open.spotify.com/artist/3NguMMTDTItRbe2E2PZrJ2"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223190,
+      "name": "\u041c\u043e\u0439 \u043c\u0430\u0440\u043c\u0435\u043b\u0430\u0434\u043d\u044b\u0439 (\u042f \u043d\u0435 \u043f\u0440\u0430\u0432\u0430)",
+      "url": "https://open.spotify.com/track/1Hg0KhBCuME4PgsTYMBK9y"
     },
     {
       "album": {

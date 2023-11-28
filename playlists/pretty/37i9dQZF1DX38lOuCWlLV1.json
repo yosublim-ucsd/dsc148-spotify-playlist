@@ -1,12 +1,12 @@
 {
   "description": "When you know, you know. Eclectic love songs with delicate lyrics that say it best.",
-  "num_followers": 242072,
+  "num_followers": 242180,
   "original_name": "Love Letter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODhjOTdhMWViNWNjZGVjNmQ5OWVhMjMzY2IxYzMyZjQ1ZmZmZjMx",
+  "snapshot_id": "MCxlY2NiZjQ3YmJhZTU5MmVhNzljNTI3YTBkYTliN2Y4OWFlMGYyYzZi",
   "tracks": [
     {
       "added_at": "2023-09-18 21:46:05",
@@ -211,6 +211,22 @@
     {
       "added_at": "2023-09-18 21:46:05",
       "album": {
+        "name": "Cigarettes After Sex",
+        "url": "https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 320030,
+      "name": "K.",
+      "url": "https://open.spotify.com/track/1FWsomP9StpCcXNWmJk8Cl"
+    },
+    {
+      "added_at": "2023-09-18 21:46:05",
+      "album": {
         "name": "Good Looking",
         "url": "https://open.spotify.com/album/78rO0EfpVs1RPfpxzF6kUz"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 190845,
       "name": "My Kind of Woman",
       "url": "https://open.spotify.com/track/6jgkEbmQ2F2onEqsEhiliL"
-    },
-    {
-      "added_at": "2023-09-18 21:46:05",
-      "album": {
-        "name": "Cigarettes After Sex",
-        "url": "https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 320030,
-      "name": "K.",
-      "url": "https://open.spotify.com/track/1FWsomP9StpCcXNWmJk8Cl"
     },
     {
       "added_at": "2023-09-18 21:46:05",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-09-18 21:46:05",
       "album": {
-        "name": "Norman Fucking Rockwell!",
-        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 229325,
-      "name": "Love song",
-      "url": "https://open.spotify.com/track/5tyMJlMqaggzvuX7TtlrTe"
-    },
-    {
-      "added_at": "2023-09-18 21:46:05",
-      "album": {
         "name": "Moon River",
         "url": "https://open.spotify.com/album/0iqqnLXoocsMeCYlTw3Q2q"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 188323,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/41cpvQ2GyGb2BRdIRSsTqK"
+    },
+    {
+      "added_at": "2023-09-18 21:46:05",
+      "album": {
+        "name": "Norman Fucking Rockwell!",
+        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 229325,
+      "name": "Love song",
+      "url": "https://open.spotify.com/track/5tyMJlMqaggzvuX7TtlrTe"
     },
     {
       "added_at": "2023-09-18 21:46:05",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-09-18 21:46:05",
       "album": {
-        "name": "Did you know that there's a tunnel under Ocean Blvd",
-        "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 215295,
-      "name": "Sweet",
-      "url": "https://open.spotify.com/track/6x8g6DxglrzCSwKhv2Q1ee"
-    },
-    {
-      "added_at": "2023-09-18 21:46:05",
-      "album": {
         "name": "Do You Like Me?",
         "url": "https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 227663,
       "name": "Do You Like Me?",
       "url": "https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J"
+    },
+    {
+      "added_at": "2023-09-18 21:46:05",
+      "album": {
+        "name": "Did you know that there's a tunnel under Ocean Blvd",
+        "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 215295,
+      "name": "Sweet",
+      "url": "https://open.spotify.com/track/6x8g6DxglrzCSwKhv2Q1ee"
     },
     {
       "added_at": "2023-09-18 21:46:05",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-09-18 21:46:05",
       "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 401413,
-      "name": "Re: Stacks",
-      "url": "https://open.spotify.com/track/20AC70RUlVz6A6dCcQ5tRS"
-    },
-    {
-      "added_at": "2023-09-18 21:46:05",
-      "album": {
         "name": "The Covers Record",
         "url": "https://open.spotify.com/album/4dZBOO1PjjmtPA974xHMND"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 248964,
       "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
       "url": "https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz"
+    },
+    {
+      "added_at": "2023-09-18 21:46:05",
+      "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 401413,
+      "name": "Re: Stacks",
+      "url": "https://open.spotify.com/track/20AC70RUlVz6A6dCcQ5tRS"
     },
     {
       "added_at": "2023-09-18 21:46:05",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-09-18 21:46:05",
       "album": {
-        "name": "If You Leave",
-        "url": "https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM"
-      },
-      "artists": [
-        {
-          "name": "Daughter",
-          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
-        }
-      ],
-      "duration_ms": 253013,
-      "name": "Youth",
-      "url": "https://open.spotify.com/track/0UPMxtinlgA1dkne9PAKTW"
-    },
-    {
-      "added_at": "2023-09-18 21:46:05",
-      "album": {
         "name": "Seven Swans",
         "url": "https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA"
       },
@@ -1067,22 +1051,6 @@
     {
       "added_at": "2023-09-18 21:46:05",
       "album": {
-        "name": "The Moldy Peaches",
-        "url": "https://open.spotify.com/album/4FD8WC9s2yohxwVTp9f236"
-      },
-      "artists": [
-        {
-          "name": "The Moldy Peaches",
-          "url": "https://open.spotify.com/artist/7GGv4mV9JTJK9e7nIzUliU"
-        }
-      ],
-      "duration_ms": 180093,
-      "name": "Anyone Else But You",
-      "url": "https://open.spotify.com/track/2pKi1lRvXNASy7ybeQIDTy"
-    },
-    {
-      "added_at": "2023-09-18 21:46:05",
-      "album": {
         "name": "The Nat King Cole Story",
         "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
       },
@@ -1095,6 +1063,38 @@
       "duration_ms": 173266,
       "name": "Smile",
       "url": "https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A"
+    },
+    {
+      "added_at": "2023-09-18 21:46:05",
+      "album": {
+        "name": "If You Leave",
+        "url": "https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM"
+      },
+      "artists": [
+        {
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+        }
+      ],
+      "duration_ms": 253013,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/0UPMxtinlgA1dkne9PAKTW"
+    },
+    {
+      "added_at": "2023-09-18 21:46:05",
+      "album": {
+        "name": "The Moldy Peaches",
+        "url": "https://open.spotify.com/album/4FD8WC9s2yohxwVTp9f236"
+      },
+      "artists": [
+        {
+          "name": "The Moldy Peaches",
+          "url": "https://open.spotify.com/artist/7GGv4mV9JTJK9e7nIzUliU"
+        }
+      ],
+      "duration_ms": 180093,
+      "name": "Anyone Else But You",
+      "url": "https://open.spotify.com/track/2pKi1lRvXNASy7ybeQIDTy"
     },
     {
       "added_at": "2023-09-18 21:46:05",

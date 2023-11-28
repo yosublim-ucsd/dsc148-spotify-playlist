@@ -1,12 +1,12 @@
 {
   "description": "A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.",
-  "num_followers": 173821,
+  "num_followers": 174241,
   "original_name": "R&B Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MGEyZTliYmYzNzBjNGEwZjA1YWI2ZDc4ZTUxOTAxNGY4OGJhOTI5",
+  "snapshot_id": "MCxkNTBmMDA2N2IxZjE2Njk4MWEyMjdjODk4YjMzMzgxYTlkN2QwMGRm",
   "tracks": [
     {
       "added_at": "2023-11-10 05:00:00",
@@ -161,22 +161,6 @@
       "url": "https://open.spotify.com/track/00HMEiBMDkbNCHLJL6zqVk"
     },
     {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 266933,
-      "name": "O Holy Night",
-      "url": "https://open.spotify.com/track/3B7FO3kJ5kv3mX7yiaB7sT"
-    },
-    {
       "added_at": "2023-11-03 05:45:27",
       "album": {
         "name": "The First Noel",
@@ -211,6 +195,22 @@
       "duration_ms": 251133,
       "name": "Let It Snow",
       "url": "https://open.spotify.com/track/5jFiyUs5R6kHuKbAs0ZU2s"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 266933,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/3B7FO3kJ5kv3mX7yiaB7sT"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -409,6 +409,22 @@
       "url": "https://open.spotify.com/track/4lcOoKiLjBddCcg9FkeIJL"
     },
     {
+      "added_at": "2022-11-25 20:23:30",
+      "album": {
+        "name": "This Christmas - Songs From The Motion Picture",
+        "url": "https://open.spotify.com/album/75p6D49hWX6bmG8PJFb02h"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 373533,
+      "name": "Try A Little Tenderness",
+      "url": "https://open.spotify.com/track/34sxylPJvXX86OD4mtvGcl"
+    },
+    {
       "added_at": "2021-12-15 17:30:29",
       "album": {
         "name": "This Christmas",
@@ -429,20 +445,20 @@
       "url": "https://open.spotify.com/track/1s8KCi8neCwrRSyhREKmcA"
     },
     {
-      "added_at": "2022-11-25 20:23:30",
+      "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "This Christmas - Songs From The Motion Picture",
-        "url": "https://open.spotify.com/album/75p6D49hWX6bmG8PJFb02h"
+        "name": "Love You More At Christmas Time",
+        "url": "https://open.spotify.com/album/5W8s1TYePfVqbIQcWQHAye"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Kelly Rowland",
+          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
         }
       ],
-      "duration_ms": 373533,
-      "name": "Try A Little Tenderness",
-      "url": "https://open.spotify.com/track/34sxylPJvXX86OD4mtvGcl"
+      "duration_ms": 205008,
+      "name": "Love You More At Christmas Time",
+      "url": "https://open.spotify.com/track/76jef0QPcSa0tY1Vu8ekhv"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -459,22 +475,6 @@
       "duration_ms": 181720,
       "name": "Somebody's Waiting",
       "url": "https://open.spotify.com/track/7MeJ8GQz5nUxjrai6tEf3J"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "Love You More At Christmas Time",
-        "url": "https://open.spotify.com/album/5W8s1TYePfVqbIQcWQHAye"
-      },
-      "artists": [
-        {
-          "name": "Kelly Rowland",
-          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
-        }
-      ],
-      "duration_ms": 205008,
-      "name": "Love You More At Christmas Time",
-      "url": "https://open.spotify.com/track/76jef0QPcSa0tY1Vu8ekhv"
     },
     {
       "added_at": "2022-11-25 20:23:30",
@@ -525,6 +525,38 @@
       "url": "https://open.spotify.com/track/3Adcm6OYZUASt6MRoWfJEf"
     },
     {
+      "added_at": "2022-11-25 20:23:30",
+      "album": {
+        "name": "The Christmas Song (Merry Christmas To You)",
+        "url": "https://open.spotify.com/album/03uGzEi1cxuW4UcTmN9hgf"
+      },
+      "artists": [
+        {
+          "name": "Janice",
+          "url": "https://open.spotify.com/artist/1uKR3ihZmv8a93heLPYKQ8"
+        }
+      ],
+      "duration_ms": 174453,
+      "name": "The Christmas Song (Merry Christmas To You)",
+      "url": "https://open.spotify.com/track/2bfGUiuZ00Ver5I4BR1iNi"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Christmas With Brandy",
+        "url": "https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk"
+      },
+      "artists": [
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "duration_ms": 212755,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/3KJLdBI3jRmVrS71p23RJC"
+    },
+    {
       "added_at": "2021-12-15 17:30:29",
       "album": {
         "name": "Christmas With PJ Morton",
@@ -543,22 +575,6 @@
       "duration_ms": 262649,
       "name": "All I Want For Christmas Is You (feat. Stokley)",
       "url": "https://open.spotify.com/track/3xpTPCwZ2G90qS3J5v2Xc4"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Christmas With Brandy",
-        "url": "https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk"
-      },
-      "artists": [
-        {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
-        }
-      ],
-      "duration_ms": 212755,
-      "name": "Have Yourself a Merry Little Christmas",
-      "url": "https://open.spotify.com/track/3KJLdBI3jRmVrS71p23RJC"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -611,22 +627,6 @@
       "duration_ms": 211200,
       "name": "Christmas Kisses",
       "url": "https://open.spotify.com/track/6kkS5mv7VCMBFjMYRP6iJu"
-    },
-    {
-      "added_at": "2022-11-25 20:23:30",
-      "album": {
-        "name": "The Christmas Song (Merry Christmas To You)",
-        "url": "https://open.spotify.com/album/03uGzEi1cxuW4UcTmN9hgf"
-      },
-      "artists": [
-        {
-          "name": "Janice",
-          "url": "https://open.spotify.com/artist/1uKR3ihZmv8a93heLPYKQ8"
-        }
-      ],
-      "duration_ms": 174453,
-      "name": "The Christmas Song (Merry Christmas To You)",
-      "url": "https://open.spotify.com/track/2bfGUiuZ00Ver5I4BR1iNi"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -683,6 +683,42 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
+        "name": "Spotify Singles - Holiday",
+        "url": "https://open.spotify.com/album/1KXfyj4DeQVABeUTKxnBfG"
+      },
+      "artists": [
+        {
+          "name": "Preservation Hall Jazz Band",
+          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
+        },
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "duration_ms": 218146,
+      "name": "Winter Wonderland - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/28cTgrTZZChH8qO2fvm6my"
+    },
+    {
+      "added_at": "2022-11-25 20:23:30",
+      "album": {
+        "name": "Another Kind Of Christmas",
+        "url": "https://open.spotify.com/album/7Je8migIu4vEi6JT2XbbYe"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 202007,
+      "name": "Just Ain't Christmas",
+      "url": "https://open.spotify.com/track/44P22s5S0ss1ln73uLQBa2"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
         "name": "Christmas with PJ Morton (Deluxe Edition)",
         "url": "https://open.spotify.com/album/32VazC4iXirlSWkid3rJTo"
       },
@@ -703,22 +739,18 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "Spotify Singles - Holiday",
-        "url": "https://open.spotify.com/album/1KXfyj4DeQVABeUTKxnBfG"
+        "name": "Winter Loversland",
+        "url": "https://open.spotify.com/album/0RC79iOln9WK1Rcd9z7IXm"
       },
       "artists": [
         {
-          "name": "Preservation Hall Jazz Band",
-          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
-        },
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+          "name": "Tamar Braxton",
+          "url": "https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS"
         }
       ],
-      "duration_ms": 218146,
-      "name": "Winter Wonderland - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/28cTgrTZZChH8qO2fvm6my"
+      "duration_ms": 117520,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/0TTEm8HHxndsd6Jqtn1DDk"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -741,38 +773,6 @@
       "url": "https://open.spotify.com/track/3MR4LAkDi5tY9mYl6QqzUZ"
     },
     {
-      "added_at": "2022-11-25 20:23:30",
-      "album": {
-        "name": "Another Kind Of Christmas",
-        "url": "https://open.spotify.com/album/7Je8migIu4vEi6JT2XbbYe"
-      },
-      "artists": [
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 202007,
-      "name": "Just Ain't Christmas",
-      "url": "https://open.spotify.com/track/44P22s5S0ss1ln73uLQBa2"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "Winter Loversland",
-        "url": "https://open.spotify.com/album/0RC79iOln9WK1Rcd9z7IXm"
-      },
-      "artists": [
-        {
-          "name": "Tamar Braxton",
-          "url": "https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS"
-        }
-      ],
-      "duration_ms": 117520,
-      "name": "Sleigh Ride",
-      "url": "https://open.spotify.com/track/0TTEm8HHxndsd6Jqtn1DDk"
-    },
-    {
       "added_at": "2021-12-15 17:30:29",
       "album": {
         "name": "First Christmas",
@@ -787,6 +787,22 @@
       "duration_ms": 263866,
       "name": "Jingle Bells",
       "url": "https://open.spotify.com/track/3ELnSVxVNuwK2PSqjseSLu"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "Christmas With Babyface",
+        "url": "https://open.spotify.com/album/7pFCwYQFqLkxovAZvYpbKK"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 193400,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/4PtLsREXfoclvux4y7CFZC"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -807,22 +823,6 @@
       "duration_ms": 140140,
       "name": "Santa Baby (with Summer Walker)",
       "url": "https://open.spotify.com/track/20u1JM0k85WDXSYfmy92Km"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "Christmas With Babyface",
-        "url": "https://open.spotify.com/album/7pFCwYQFqLkxovAZvYpbKK"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 193400,
-      "name": "Winter Wonderland",
-      "url": "https://open.spotify.com/track/4PtLsREXfoclvux4y7CFZC"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -889,6 +889,22 @@
       "url": "https://open.spotify.com/track/6BH5Ls5uYLQCBwXResfDbw"
     },
     {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "Snowflakes",
+        "url": "https://open.spotify.com/album/5iUvnkcBLlxrrdPsx4zwmu"
+      },
+      "artists": [
+        {
+          "name": "Toni Braxton",
+          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
+        }
+      ],
+      "duration_ms": 251040,
+      "name": "Christmas Time Is Here",
+      "url": "https://open.spotify.com/track/2v3o68jkmZhT9KxEHTCXAJ"
+    },
+    {
       "added_at": "2023-11-18 05:00:00",
       "album": {
         "name": "You Bring The Love",
@@ -915,22 +931,6 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "Snowflakes",
-        "url": "https://open.spotify.com/album/5iUvnkcBLlxrrdPsx4zwmu"
-      },
-      "artists": [
-        {
-          "name": "Toni Braxton",
-          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
-        }
-      ],
-      "duration_ms": 251040,
-      "name": "Christmas Time Is Here",
-      "url": "https://open.spotify.com/track/2v3o68jkmZhT9KxEHTCXAJ"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
         "name": "It's Christmas",
         "url": "https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj"
       },
@@ -943,22 +943,6 @@
       "duration_ms": 234560,
       "name": "Give Love On Christmas Day",
       "url": "https://open.spotify.com/track/1ep7czKo3gvwkZ2cyuqwFc"
-    },
-    {
-      "added_at": "2023-11-18 05:00:00",
-      "album": {
-        "name": "The Greatest Gift",
-        "url": "https://open.spotify.com/album/4bWvqIdV6KOfrWVjr1AwY0"
-      },
-      "artists": [
-        {
-          "name": "October London",
-          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
-        }
-      ],
-      "duration_ms": 145925,
-      "name": "The Greatest Gift",
-      "url": "https://open.spotify.com/track/6Z5pH8apjl8doBlYvLXv3u"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -985,20 +969,20 @@
       "url": "https://open.spotify.com/track/5ycUatWaShR7L5aXhW4uf2"
     },
     {
-      "added_at": "2023-11-03 05:45:27",
+      "added_at": "2023-11-18 05:00:00",
       "album": {
-        "name": "Christmastime is here",
-        "url": "https://open.spotify.com/album/4Xve9HLlLyUGtfRV9zqfeO"
+        "name": "The Greatest Gift",
+        "url": "https://open.spotify.com/album/4bWvqIdV6KOfrWVjr1AwY0"
       },
       "artists": [
         {
-          "name": "Phony Ppl",
-          "url": "https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6"
+          "name": "October London",
+          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
         }
       ],
-      "duration_ms": 317847,
-      "name": "Christmastime is here",
-      "url": "https://open.spotify.com/track/5GuPM4rqeQ8NXXcbD3Qcyw"
+      "duration_ms": 145925,
+      "name": "The Greatest Gift",
+      "url": "https://open.spotify.com/track/6Z5pH8apjl8doBlYvLXv3u"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1039,6 +1023,22 @@
       "duration_ms": 267666,
       "name": "Angels We Have Heard On High",
       "url": "https://open.spotify.com/track/16WDbS7dNvKGCMoS8tlZLx"
+    },
+    {
+      "added_at": "2023-11-03 05:45:27",
+      "album": {
+        "name": "Christmastime is here",
+        "url": "https://open.spotify.com/album/4Xve9HLlLyUGtfRV9zqfeO"
+      },
+      "artists": [
+        {
+          "name": "Phony Ppl",
+          "url": "https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6"
+        }
+      ],
+      "duration_ms": 317847,
+      "name": "Christmastime is here",
+      "url": "https://open.spotify.com/track/5GuPM4rqeQ8NXXcbD3Qcyw"
     },
     {
       "added_at": "2022-11-25 20:23:30",
@@ -1097,22 +1097,6 @@
       "url": "https://open.spotify.com/track/0xRAkJaeQ9K705z2M8gPdb"
     },
     {
-      "added_at": "2022-11-25 20:23:30",
-      "album": {
-        "name": "Christmas With Babyface",
-        "url": "https://open.spotify.com/album/7pFCwYQFqLkxovAZvYpbKK"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 276960,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/29OF0PZ5MBWkiN9Oc87eKJ"
-    },
-    {
       "added_at": "2021-12-15 17:30:29",
       "album": {
         "name": "The First Noel (feat. Cory Henry)",
@@ -1133,20 +1117,20 @@
       "url": "https://open.spotify.com/track/3tqjlg9Ut8l3WWRe1J0cNQ"
     },
     {
-      "added_at": "2021-12-15 17:30:29",
+      "added_at": "2022-11-25 20:23:30",
       "album": {
-        "name": "Best Of/20th Century - Christmas",
-        "url": "https://open.spotify.com/album/3emp7PCTnvQmvhUkM5AjAy"
+        "name": "Christmas With Babyface",
+        "url": "https://open.spotify.com/album/7pFCwYQFqLkxovAZvYpbKK"
       },
       "artists": [
         {
-          "name": "New Edition",
-          "url": "https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb"
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
         }
       ],
-      "duration_ms": 249760,
-      "name": "Give Love On Christmas Day",
-      "url": "https://open.spotify.com/track/485CbXZXurl2Saj3zqrbpE"
+      "duration_ms": 276960,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/29OF0PZ5MBWkiN9Oc87eKJ"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1163,6 +1147,22 @@
       "duration_ms": 232840,
       "name": "What Child Is This?",
       "url": "https://open.spotify.com/track/4GbMsN2WTx28nGEXjPmLf2"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "Best Of/20th Century - Christmas",
+        "url": "https://open.spotify.com/album/3emp7PCTnvQmvhUkM5AjAy"
+      },
+      "artists": [
+        {
+          "name": "New Edition",
+          "url": "https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb"
+        }
+      ],
+      "duration_ms": 249760,
+      "name": "Give Love On Christmas Day",
+      "url": "https://open.spotify.com/track/485CbXZXurl2Saj3zqrbpE"
     },
     {
       "added_at": "2022-11-25 20:23:30",
@@ -1233,58 +1233,6 @@
       "url": "https://open.spotify.com/track/721Z5ii3hik988t1ixcDJc"
     },
     {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "Christmas After Midnight",
-        "url": "https://open.spotify.com/album/6o4pzR1SeFzgVtUcAyTDJ2"
-      },
-      "artists": [
-        {
-          "name": "Fantasia",
-          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
-        }
-      ],
-      "duration_ms": 263920,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/0szwRYpWJcn58dzB8ZPSxp"
-    },
-    {
-      "added_at": "2022-12-12 18:18:20",
-      "album": {
-        "name": "Home For The Holidays Vol. 2",
-        "url": "https://open.spotify.com/album/5EtnUbybYghEoq8tvMm382"
-      },
-      "artists": [
-        {
-          "name": "Love Renaissance (LVRN)",
-          "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 237393,
-      "name": "Might As Well Have Coal (with Baby Tate)",
-      "url": "https://open.spotify.com/track/3HD11WPsqMPGsIIHVRC28u"
-    },
-    {
-      "added_at": "2022-11-25 20:23:30",
-      "album": {
-        "name": "Your Favorite Christmas Songs",
-        "url": "https://open.spotify.com/album/2J4yoqNkSjA6zI4PYtdAy2"
-      },
-      "artists": [
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        }
-      ],
-      "duration_ms": 160083,
-      "name": "Deck the Halls",
-      "url": "https://open.spotify.com/track/7C1BWH7olUUDG2IeSY2KUP"
-    },
-    {
       "added_at": "2022-12-16 05:50:43",
       "album": {
         "name": "Here (For Christmas)",
@@ -1305,6 +1253,38 @@
       "url": "https://open.spotify.com/track/21jVByCWeQAlt3xB5XtNfl"
     },
     {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "Christmas After Midnight",
+        "url": "https://open.spotify.com/album/6o4pzR1SeFzgVtUcAyTDJ2"
+      },
+      "artists": [
+        {
+          "name": "Fantasia",
+          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
+        }
+      ],
+      "duration_ms": 263920,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0szwRYpWJcn58dzB8ZPSxp"
+    },
+    {
+      "added_at": "2022-11-25 20:23:30",
+      "album": {
+        "name": "Your Favorite Christmas Songs",
+        "url": "https://open.spotify.com/album/2J4yoqNkSjA6zI4PYtdAy2"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "duration_ms": 160083,
+      "name": "Deck the Halls",
+      "url": "https://open.spotify.com/track/7C1BWH7olUUDG2IeSY2KUP"
+    },
+    {
       "added_at": "2022-11-25 20:23:30",
       "album": {
         "name": "Def The Halls",
@@ -1319,6 +1299,26 @@
       "duration_ms": 176461,
       "name": "Silver Bells",
       "url": "https://open.spotify.com/track/4llYiT4hqVZAshVmEAmc1W"
+    },
+    {
+      "added_at": "2022-11-25 20:23:30",
+      "album": {
+        "name": "Def The Halls",
+        "url": "https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc"
+      },
+      "artists": [
+        {
+          "name": "AUGUST 08",
+          "url": "https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi"
+        },
+        {
+          "name": "Kendra Jae",
+          "url": "https://open.spotify.com/artist/1KcnqRVBBJ2FUZMQUn3k5P"
+        }
+      ],
+      "duration_ms": 171056,
+      "name": "Under the Mistletoe (with Kendra Jae)",
+      "url": "https://open.spotify.com/track/6sMaVcsbSyWZWK0wFBzRRH"
     }
   ],
   "unique_name": "R&B Christmas",
