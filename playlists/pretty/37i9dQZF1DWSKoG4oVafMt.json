@@ -1,12 +1,12 @@
 {
   "description": "The very best of Punjabi romance featuring Jordan Sandhu",
-  "num_followers": 156778,
+  "num_followers": 156906,
   "original_name": "Punjabi Pyar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZWJjMzUwNGFkNzkzNjMwMjVjMTc1ZTU4NzcxMzMzNWFhNGYxMGJi",
+  "snapshot_id": "MCw2NmY1ZWI3YTFiZGZhOTE5MzU1NzY2N2U0Njg3MjUzMTZiMDAyOTFl",
   "tracks": [
     {
       "added_at": "2023-11-25 08:15:41",
@@ -371,6 +371,30 @@
       "duration_ms": 154000,
       "name": "Das Mereya Dilbara",
       "url": "https://open.spotify.com/track/5Fq4Quuh64GxxeZVAtVeP4"
+    },
+    {
+      "added_at": "2023-11-28 09:40:37",
+      "album": {
+        "name": "Still Here",
+        "url": "https://open.spotify.com/album/55nYYOQPH0AUrbfsV0Nhgl"
+      },
+      "artists": [
+        {
+          "name": "Garry Sandhu",
+          "url": "https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75"
+        },
+        {
+          "name": "Mani Longia",
+          "url": "https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura"
+        },
+        {
+          "name": "Josh Sidhu",
+          "url": "https://open.spotify.com/artist/6ce1Ysig2iILmcVc0lmTKW"
+        }
+      ],
+      "duration_ms": 152941,
+      "name": "Morniye",
+      "url": "https://open.spotify.com/track/2JXWYP2pzGT097OydwlHh9"
     },
     {
       "added_at": "2023-11-25 08:15:41",
@@ -939,26 +963,6 @@
     {
       "added_at": "2023-11-25 08:15:41",
       "album": {
-        "name": "Pasoori",
-        "url": "https://open.spotify.com/album/7wgrW5XyZdtk0K8PkW5A7h"
-      },
-      "artists": [
-        {
-          "name": "Shae Gill",
-          "url": "https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP"
-        },
-        {
-          "name": "Ali Sethi",
-          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
-        }
-      ],
-      "duration_ms": 224146,
-      "name": "Pasoori",
-      "url": "https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB"
-    },
-    {
-      "added_at": "2023-11-25 08:15:41",
-      "album": {
         "name": "Ittar",
         "url": "https://open.spotify.com/album/1SXRKGIPXXWHlFH5FIh8iS"
       },
@@ -1355,26 +1359,6 @@
       "duration_ms": 177135,
       "name": "Move On",
       "url": "https://open.spotify.com/track/3gZtIhtPkPK5tDJ5iCpgvp"
-    },
-    {
-      "added_at": "2023-11-25 08:15:41",
-      "album": {
-        "name": "Pariyan De Desh (From \"Masand\" Soundtrack)",
-        "url": "https://open.spotify.com/album/2VJaivHf2ktb01A62hQJdb"
-      },
-      "artists": [
-        {
-          "name": "Gurnam Bhullar",
-          "url": "https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX"
-        },
-        {
-          "name": "MixSingh",
-          "url": "https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U"
-        }
-      ],
-      "duration_ms": 185235,
-      "name": "Pariyan De Desh (From \"Masand\" Soundtrack)",
-      "url": "https://open.spotify.com/track/49smvL3XQwdOdTIjTYDoHd"
     },
     {
       "added_at": "2023-11-25 08:15:41",

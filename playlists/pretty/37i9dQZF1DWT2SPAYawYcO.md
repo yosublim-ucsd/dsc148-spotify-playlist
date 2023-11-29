@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Drax Project
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,303 likes - 88 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,319 likes - 88 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 5 | [Labios Mordidos \(with KAROL G\)](https://open.spotify.com/track/1HLaJowFbNM3MPyqnk5vjW) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Labios Mordidos \(with KAROL G\)](https://open.spotify.com/album/0HtbxbNfX3gME4K0SIR0lT) | 3:15 |
 | 6 | [Too Much \(Is Too Much\)](https://open.spotify.com/track/5DyMz5TeDuJH2azTQh8HrX) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Too Much \(Is Too Much\)](https://open.spotify.com/album/2TD2bXrFSWlL1Vz9ITwz5b) | 3:21 |
 | 7 | [Stay High](https://open.spotify.com/track/7LXimIqTYO76Utly8VFABu) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Stay High](https://open.spotify.com/album/3E3JRB0gGzHuc56GB3hUPJ) | 3:08 |
-| 8 | [The Way \(Faraway Downs Theme\) \- From "Faraway Downs"](https://open.spotify.com/track/7ffAS0WDXtx7GQ2rjTvcoI) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE), [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [The Way \(Faraway Downs Theme\) \[From "Faraway Downs"\]](https://open.spotify.com/album/755yHPrtRKmlnSF8wKazgc) | 2:27 |
+| 8 | [The Way \(Faraway Downs Theme\) \- From "Faraway Downs"](https://open.spotify.com/track/7ffAS0WDXtx7GQ2rjTvcoI) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [The Way \(Faraway Downs Theme\) \[From "Faraway Downs"\]](https://open.spotify.com/album/755yHPrtRKmlnSF8wKazgc) | 2:27 |
 | 9 | [Oral](https://open.spotify.com/track/6VCNxAwxA83j2jE3QZpYPr) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Oral](https://open.spotify.com/album/0Jldmuyjx6v7nMefI7y00r) | 3:42 |
 | 10 | [Throw Your Arms Around Me](https://open.spotify.com/track/0CVwSCQOx3CMHjwDCmaElh) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Mushroom: 50 Years Of Making Noise \(Reimagined\)](https://open.spotify.com/album/4SRtPtUkg4izzJZ2Kr2LMJ) | 3:03 |
 | 11 | [Miracles](https://open.spotify.com/track/0132woHTsOzDxlfVs3PuqO) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [Miracles](https://open.spotify.com/album/4TlsN3iiRcwKrxG8TiQ015) | 3:03 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 87 | [Heaven](https://open.spotify.com/track/5qpL3VKrTeaCxfDwICBRXn) | [Ocean Sleeper](https://open.spotify.com/artist/04LbaB3D3XOMbfPnWmObAi) | [Heaven](https://open.spotify.com/album/57hsuGuUiT3XmEQi3VymM7) | 3:29 |
 | 88 | [Second Chances](https://open.spotify.com/track/3sI8AhKWC5rD000cZR1BZG) | [Complete](https://open.spotify.com/artist/7Fe4vD5WyjtFxlxSO0d7lP) | [Second Chances](https://open.spotify.com/album/3ktZAWNj6CLs5EwA9i0WMu) | 2:43 |
 
-Snapshot ID: `MCxlZWFkZjYxMGI2NDEwMDFiYWY0Zjg3NzM0YWM3NTY3ZjU4ZmZkNDdi`
+Snapshot ID: `MCw1MGEyMTc1MTgwNTY2YzU5MzIzZjhiMzE0NWI0ZDhkNTVjOTE0MTli`

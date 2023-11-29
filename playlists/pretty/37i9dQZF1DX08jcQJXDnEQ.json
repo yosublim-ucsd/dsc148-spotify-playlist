@@ -1,12 +1,12 @@
 {
   "description": "The best metal songs of the 90s. Cover: Metallica",
-  "num_followers": 937994,
+  "num_followers": 938458,
   "original_name": "90s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NGE2ZTZlNDRjODM2ODBmOTJiNDUwZDk3NzZhMGYyYzcyNzdkNTk1",
+  "snapshot_id": "MCw1ZGQ4MDlmZGY1Zjc3MTBiNjhjYjcyODYyNGM3ZGQzM2UwYjUxNDlk",
   "tracks": [
     {
       "added_at": "2023-03-01 15:25:34",
@@ -907,18 +907,18 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
-        "name": "Painkiller",
-        "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
+        "name": "Three Dollar Bill, Y'all $",
+        "url": "https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t"
       },
       "artists": [
         {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
         }
       ],
-      "duration_ms": 344360,
-      "name": "Night Crawler",
-      "url": "https://open.spotify.com/track/0MU1TyyAbuoXLGiQBgW9CI"
+      "duration_ms": 308093,
+      "name": "Counterfeit",
+      "url": "https://open.spotify.com/track/2nMN06ZdkOyGrhSDt9CKah"
     },
     {
       "added_at": "2023-03-01 15:25:34",
@@ -939,18 +939,18 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
-        "name": "Three Dollar Bill, Y'all $",
-        "url": "https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t"
+        "name": "Painkiller",
+        "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
       },
       "artists": [
         {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 308093,
-      "name": "Counterfeit",
-      "url": "https://open.spotify.com/track/2nMN06ZdkOyGrhSDt9CKah"
+      "duration_ms": 344360,
+      "name": "Night Crawler",
+      "url": "https://open.spotify.com/track/0MU1TyyAbuoXLGiQBgW9CI"
     },
     {
       "added_at": "2023-03-01 15:25:34",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
-        "name": "Nola",
-        "url": "https://open.spotify.com/album/04BvRPJwuDeuJ3DhbAw9Wg"
-      },
-      "artists": [
-        {
-          "name": "DOWN",
-          "url": "https://open.spotify.com/artist/1m0B9ak05G0jqDY4ACLhQu"
-        }
-      ],
-      "duration_ms": 282506,
-      "name": "Stone the Crow",
-      "url": "https://open.spotify.com/track/7DuRbuweGD2cpGN74cpPAF"
-    },
-    {
-      "added_at": "2023-03-01 15:25:34",
-      "album": {
         "name": "Powertrip",
         "url": "https://open.spotify.com/album/51RrYaRLHpw1pbtpL6BE4L"
       },
@@ -1247,18 +1231,34 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
-        "name": "Angel Dust",
-        "url": "https://open.spotify.com/album/59GwovfBk0Kp2HJw1G7E5Q"
+        "name": "Nola",
+        "url": "https://open.spotify.com/album/04BvRPJwuDeuJ3DhbAw9Wg"
       },
       "artists": [
         {
-          "name": "Faith No More",
-          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
+          "name": "DOWN",
+          "url": "https://open.spotify.com/artist/1m0B9ak05G0jqDY4ACLhQu"
         }
       ],
-      "duration_ms": 259866,
-      "name": "Midlife Crisis",
-      "url": "https://open.spotify.com/track/62HyVeSK4fpxjKj6dsI5MP"
+      "duration_ms": 282506,
+      "name": "Stone the Crow",
+      "url": "https://open.spotify.com/track/7DuRbuweGD2cpGN74cpPAF"
+    },
+    {
+      "added_at": "2023-03-01 15:25:34",
+      "album": {
+        "name": "Balls to Picasso (2001 Remaster)",
+        "url": "https://open.spotify.com/album/2AKNnewiklMkna3HbigH5X"
+      },
+      "artists": [
+        {
+          "name": "Bruce Dickinson",
+          "url": "https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9"
+        }
+      ],
+      "duration_ms": 384013,
+      "name": "Tears of the Dragon (2001 Remaster)",
+      "url": "https://open.spotify.com/track/3EiQGaaHMHFk5ykD1a7vYt"
     },
     {
       "added_at": "2023-03-01 15:25:34",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
-        "name": "Balls to Picasso (2001 Remaster)",
-        "url": "https://open.spotify.com/album/2AKNnewiklMkna3HbigH5X"
+        "name": "Angel Dust",
+        "url": "https://open.spotify.com/album/59GwovfBk0Kp2HJw1G7E5Q"
       },
       "artists": [
         {
-          "name": "Bruce Dickinson",
-          "url": "https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9"
+          "name": "Faith No More",
+          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
         }
       ],
-      "duration_ms": 384013,
-      "name": "Tears of the Dragon (2001 Remaster)",
-      "url": "https://open.spotify.com/track/3EiQGaaHMHFk5ykD1a7vYt"
+      "duration_ms": 259866,
+      "name": "Midlife Crisis",
+      "url": "https://open.spotify.com/track/62HyVeSK4fpxjKj6dsI5MP"
     },
     {
       "added_at": "2023-03-01 15:25:34",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
-        "name": "Album of the Year",
-        "url": "https://open.spotify.com/album/15eiCGvldXlDbIz9ZQLmw6"
-      },
-      "artists": [
-        {
-          "name": "Faith No More",
-          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
-        }
-      ],
-      "duration_ms": 217333,
-      "name": "Ashes to Ashes",
-      "url": "https://open.spotify.com/track/0FxRbTtlo8AutEbifokqGf"
-    },
-    {
-      "added_at": "2023-03-01 15:25:34",
-      "album": {
         "name": "Burn My Eyes",
         "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 245600,
       "name": "Old",
       "url": "https://open.spotify.com/track/5oi4f6KLBORQhQoYNhaPmQ"
+    },
+    {
+      "added_at": "2023-03-01 15:25:34",
+      "album": {
+        "name": "Album of the Year",
+        "url": "https://open.spotify.com/album/15eiCGvldXlDbIz9ZQLmw6"
+      },
+      "artists": [
+        {
+          "name": "Faith No More",
+          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
+        }
+      ],
+      "duration_ms": 217333,
+      "name": "Ashes to Ashes",
+      "url": "https://open.spotify.com/track/0FxRbTtlo8AutEbifokqGf"
     },
     {
       "added_at": "2023-03-01 15:25:34",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
-        "name": "King for a Day, Fool for a Lifetime (2016 Remaster; Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6KHnSZsn0E2OzcVChd8UUW"
+        "name": "The More Things Change...",
+        "url": "https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL"
       },
       "artists": [
         {
-          "name": "Faith No More",
-          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 208706,
-      "name": "The Gentle Art of Making Enemies - 2016 Remaster",
-      "url": "https://open.spotify.com/track/66uYWEw9gJxkPw6STqNcKl"
+      "duration_ms": 254666,
+      "name": "Ten Ton Hammer",
+      "url": "https://open.spotify.com/track/0bxUaSy4x46Ogeio8khuBd"
     },
     {
       "added_at": "2023-03-01 15:25:34",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
-        "name": "The More Things Change...",
-        "url": "https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL"
+        "name": "King for a Day, Fool for a Lifetime (2016 Remaster; Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6KHnSZsn0E2OzcVChd8UUW"
       },
       "artists": [
         {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+          "name": "Faith No More",
+          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
         }
       ],
-      "duration_ms": 254666,
-      "name": "Ten Ton Hammer",
-      "url": "https://open.spotify.com/track/0bxUaSy4x46Ogeio8khuBd"
+      "duration_ms": 208706,
+      "name": "The Gentle Art of Making Enemies - 2016 Remaster",
+      "url": "https://open.spotify.com/track/66uYWEw9gJxkPw6STqNcKl"
     },
     {
       "added_at": "2023-03-01 15:25:34",

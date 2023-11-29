@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-621 songs - 1 day 2 hr 17 min
+622 songs - 1 day 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Along The River Bed](https://open.spotify.com/track/1BM24Gn75oMaeHhhepw5s5) | [Africa Levine](https://open.spotify.com/artist/5PAXHtHmQBQWOpMN2ukyow) | [Along The River Bed](https://open.spotify.com/album/5SgOo5N1ol9tZM97orurK0) | 3:26 | 2023-04-21 | 2023-05-13 |
 | [Alpen Rose](https://open.spotify.com/track/4pSxsViyGEsfiKcj5BbpvY) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Alpen Rose](https://open.spotify.com/album/0d5G3HUH7LhGhaegh6k2YW) | 2:44 | 2022-12-16 | 2023-04-22 |
 | [Always With You](https://open.spotify.com/track/5ItGFvCvkLI4wm2dXycCCs) | [Maitre](https://open.spotify.com/artist/4lz66um9dJ0YB7ugJHeoZe) | [Always With You](https://open.spotify.com/album/5T3Ix0PNlLeAhemjXwjBH9) | 2:27 | 2023-08-10 |  |
-| [Am ende](https://open.spotify.com/track/60N406bCjmSX6Mwj0lR7dC) | [Daniela Petrová](https://open.spotify.com/artist/0k5b5g9KNikMYLSZWikx4Y) | [Am ende](https://open.spotify.com/album/2a7ziC6igJV8XCrw9s2yeb) | 2:32 | 2023-04-21 |  |
+| [Am ende](https://open.spotify.com/track/60N406bCjmSX6Mwj0lR7dC) | [Daniela Petrová](https://open.spotify.com/artist/0k5b5g9KNikMYLSZWikx4Y) | [Am ende](https://open.spotify.com/album/2a7ziC6igJV8XCrw9s2yeb) | 2:32 | 2023-04-21 | 2023-11-29 |
 | [am Marienplatz](https://open.spotify.com/track/6aChaZyAJMXGE1dv3Hl1Py) | [Alexander Wurzler](https://open.spotify.com/artist/25W6u2VnVVME6ZEMSn9Kfa) | [Morgenstund](https://open.spotify.com/album/2ni9DbZXvKnvHyr5UbYAo5) | 2:49 | 2022-07-15 | 2023-04-22 |
 | [AM Sunset](https://open.spotify.com/track/06ZwqZmTvUVclp1a7a1Wka) | [Ralph Couvert](https://open.spotify.com/artist/2rM55HuW8Su40glESzyjoa) | [AM Sunset](https://open.spotify.com/album/33beEdj4t72q8BLg2eZBOT) | 3:10 | 2023-09-07 |  |
 | [Amai Hi](https://open.spotify.com/track/39kKNitwwvn7Y0oH0NGN82) | [Kenji Takahashi](https://open.spotify.com/artist/7smqi5Xb8sKqalw1MNMa7D) | [Amai Hi](https://open.spotify.com/album/62Y6MiU9MICnsbetYyKizY) | 2:02 | 2023-04-21 | 2023-10-02 |
@@ -555,6 +555,7 @@
 | [The small things in life](https://open.spotify.com/track/77RRa9i2ITwLznWo4Q9HPv) | [Steve D](https://open.spotify.com/artist/7JaeTu8xN4ZYcKyGrK6DBW) | [The small things in life](https://open.spotify.com/album/6XJEnO611nb1gGDE2kpUPa) | 2:15 | 2023-11-24 |  |
 | [The Stillness Within](https://open.spotify.com/track/2zSvZfdq6ZJpxmH2RbpoQ8) | [Vadim Cervenka](https://open.spotify.com/artist/13mof4l15J56TzfoMsY99Y) | [The Stillness Within](https://open.spotify.com/album/7pfveCDNbixSABr4bVIfJZ) | 2:59 | 2023-06-08 |  |
 | [The Sun Terrace](https://open.spotify.com/track/03DifiRgvdRwUsGhcuCtAG) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [The Sun Terrace](https://open.spotify.com/album/0nxokw3k5JfIzilT83AeN3) | 2:21 | 2023-04-21 |  |
+| [The Time Traveler](https://open.spotify.com/track/0d1TNdaJWOePFAiSIiZJZ3) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [The Time Traveler](https://open.spotify.com/album/60UxszwncrUHrHxI7GJ5vM) | 2:54 | 2023-11-24 |  |
 | [Thing Of Beauty](https://open.spotify.com/track/4ATFCqpqkV8IwC7SXuPZSZ) | [Timothy Reiger](https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3) | [Thing Of Beauty](https://open.spotify.com/album/6xq6nBH8XUmiBRhDEBSi7y) | 2:32 | 2022-07-15 | 2022-09-23 |
 | [Think Of Me](https://open.spotify.com/track/68UbEFh8VhJqTUfDeIOvtx) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [Think Of Me](https://open.spotify.com/album/1wqOvsGdOGypGsgiMnb0HO) | 2:41 | 2023-06-02 |  |
 | [This Time Tomorrow](https://open.spotify.com/track/4Eivcpu9MoHaEvYLJ9fV4k) | [Evergreen Dream](https://open.spotify.com/artist/0imX3QCdp1ozlEiyXBtiFy) | [This Time Tomorrow](https://open.spotify.com/album/3efIhVkzBPxJnYHVy2me9S) | 2:09 | 2023-04-21 | 2023-05-13 |

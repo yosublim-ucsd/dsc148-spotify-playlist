@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden en taze keşifler\. Kapak: Serenad Bayraktar Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,926 likes - 65 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,937 likes - 65 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 64 | [Yaz Rüyası](https://open.spotify.com/track/0PcQjbImYK5JUB8GyvwhbP) | [Idil](https://open.spotify.com/artist/0zNz4hmI6mCNUdj4BngitI) | [Yaz Rüyası](https://open.spotify.com/album/3rAbYrYonze2uwdQgolfHD) | 3:04 |
 | 65 | [Hiçliğin Ortasında](https://open.spotify.com/track/6YymsWNxufSgwBmsXKWZbU) | [radyologos](https://open.spotify.com/artist/2mA7vZSBZ1MZcOKtMkEJRS) | [Hiçliğin Ortasında](https://open.spotify.com/album/0mo6icblQAYmaJ5RmJNZSl) | 3:30 |
 
-Snapshot ID: `MCwzYzkyNjlhNWM4M2JjODNiMzU4MmE5ZDNhOWM3MWYzYjNlNDUyNGEx`
+Snapshot ID: `MCxkMTc5OGIxOTc0YjE4YTU1OWIzMjg0NWI4ZTllMzY3YjkyMmE4Mjcz`

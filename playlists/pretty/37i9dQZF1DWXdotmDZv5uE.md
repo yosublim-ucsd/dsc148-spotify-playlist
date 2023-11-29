@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 
 > ¡Lleva el folclore de México a donde sea!
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,631 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,636 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,13 +62,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 52 | [La Malagueña](https://open.spotify.com/track/3pXLPRQOIoIovJKNO2Ksf4) | [Aida Cuevas](https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr) | [Huapangos](https://open.spotify.com/album/5Z6tcNwry8ZIu1uDOdmRYZ) | 3:47 |
 | 53 | [La Iguana](https://open.spotify.com/track/1w1Ymv3ICnMEXWgmHMZafH) | [Chuchumbé](https://open.spotify.com/artist/6ASRzKH8Qng1IKTkNvYDEB) | [¡caramba Niño!](https://open.spotify.com/album/37UxRdiQJKRefqLLcLqJWC) | 3:56 |
 | 54 | [Reza en Voz Alta](https://open.spotify.com/track/3iXA6VYCudT4ZaKw7xBHKT) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y) | [Reza en Voz Alta](https://open.spotify.com/album/3modoSnNXdsJx7c6rUqfg4) | 4:00 |
-| 55 | [El tilingo](https://open.spotify.com/track/24qvEa0HyeHRQar9p8cHr3) | [Trio Azteca](https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY) | [The Best of Mexico](https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM) | 3:05 |
-| 56 | [El Trompo \(Son Jarocho\) \[Veracruz\]](https://open.spotify.com/track/5Ms36eSpJQfc1VWnaZdjo7) | [Los Folkloristas](https://open.spotify.com/artist/2iALv7pTGUwcobl2VPoJPU) | [México](https://open.spotify.com/album/3DFM3OHbXbQabB1IDHFPkZ) | 3:33 |
+| 55 | [El Trompo \(Son Jarocho\) \[Veracruz\]](https://open.spotify.com/track/5Ms36eSpJQfc1VWnaZdjo7) | [Los Folkloristas](https://open.spotify.com/artist/2iALv7pTGUwcobl2VPoJPU) | [México](https://open.spotify.com/album/3DFM3OHbXbQabB1IDHFPkZ) | 3:33 |
+| 56 | [El tilingo](https://open.spotify.com/track/24qvEa0HyeHRQar9p8cHr3) | [Trio Azteca](https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY) | [The Best of Mexico](https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM) | 3:05 |
 | 57 | [Alejandra](https://open.spotify.com/track/1wZGZOgoKofwwHC633FDPI) | [NMR Digital](https://open.spotify.com/artist/442IRNWLgO6H9bvlsI3arN) | [México a Través de Su Música, Vol\. 2](https://open.spotify.com/album/3n1tF3hpO0VckyHjALFjKf) | 3:30 |
 | 58 | [Las perlitas](https://open.spotify.com/track/48bS8GnQrZuDSPP8CdMxis) | [Mariachi Azteca](https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW) | [Mariachi from Mexico](https://open.spotify.com/album/37XAmBpj05Ohmoql3AFiMM) | 2:56 |
-| 59 | [La Gallina](https://open.spotify.com/track/1fyuoGft4mq0XPi2cGFYRB) | [Chuchumbé](https://open.spotify.com/artist/6ASRzKH8Qng1IKTkNvYDEB) | [¡caramba Niño!](https://open.spotify.com/album/37UxRdiQJKRefqLLcLqJWC) | 6:37 |
+| 59 | [La Borrachita](https://open.spotify.com/track/26jrFuCeLU19arOmvLoiRa) | [Tata Nacho](https://open.spotify.com/artist/0dv1UQK0dV7q3vwa9jr97w), [Antonio Bribiesca](https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz) | [La Gran Colección del 60 Aniversario CBS \- Antonio Bribiesca](https://open.spotify.com/album/2rDD8JqC6Id1hmr0JI4hDA) | 3:07 |
 | 60 | [Agradecer](https://open.spotify.com/track/3xFVSTW8SdnST60rBsObdt) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y) | [Agradecer](https://open.spotify.com/album/5qVQLwmsMmBEKfQsPd3LXM) | 3:25 |
-| 61 | [La Borrachita](https://open.spotify.com/track/26jrFuCeLU19arOmvLoiRa) | [Tata Nacho](https://open.spotify.com/artist/0dv1UQK0dV7q3vwa9jr97w), [Antonio Bribiesca](https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz) | [La Gran Colección del 60 Aniversario CBS \- Antonio Bribiesca](https://open.spotify.com/album/2rDD8JqC6Id1hmr0JI4hDA) | 3:07 |
+| 61 | [La Gallina](https://open.spotify.com/track/1fyuoGft4mq0XPi2cGFYRB) | [Chuchumbé](https://open.spotify.com/artist/6ASRzKH8Qng1IKTkNvYDEB) | [¡caramba Niño!](https://open.spotify.com/album/37UxRdiQJKRefqLLcLqJWC) | 6:37 |
 | 62 | [La Guanabana](https://open.spotify.com/track/6rQ5F4fejMdINw6erjQLpg) | [Son De Madera](https://open.spotify.com/artist/5IjDhtfKUReD5VeIeynKme) | [Son De Madera](https://open.spotify.com/album/7eyjUckkV8ZrnhCDmPWGnn) | 6:00 |
 | 63 | [Ra Bacheeza](https://open.spotify.com/track/4Sd88qilKkAOg2T7H1kOZd) | [Binni Gula'za](https://open.spotify.com/artist/3I4riJnB4ocVXloGzky7lq) | [La Tortuga, Sones Istmeños](https://open.spotify.com/album/5eooFYB6EVUOdo2vD42bxE) | 3:08 |
 | 64 | [El colas](https://open.spotify.com/track/2RbzXNmT3oryvvlMbgt8Ji) | [Trio Azteca](https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY) | [The Best of Mexico](https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM) | 2:28 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 85 | [Los Once Pueblos \(Eraxamani\)](https://open.spotify.com/track/3HWQJhwYGZ8CWZefWSDxII) | [Gran Banda De Ichán Michoacán](https://open.spotify.com/artist/1m1AhZMj1tTgQGuLwAdKh1) | [Antología de la Música P'urhepecha Vol\. VIII](https://open.spotify.com/album/3CVW7CGhHs7Wg3lyG97sSL) | 3:14 |
 | 86 | [Cruzando en el Barco](https://open.spotify.com/track/3tqIxbFFT4yY1z5pNlhH25) | [Conjunto Jardin](https://open.spotify.com/artist/0Kh15Of3lmMoXKsR8s5tA0) | [Nuevo Son Jarocho](https://open.spotify.com/album/5N6LeE3fGxhD6D0MEgZkNr) | 3:25 |
 | 87 | [El Son Guerrerense](https://open.spotify.com/track/1mmQmz9iCZZ94g0ugaAInP) | [Conjunto de Juan Reynoso](https://open.spotify.com/artist/2SWABlfQlQFjqf8m17TkOo) | [Antología del Son de México, Tierra Caliente](https://open.spotify.com/album/4lDZKQykqglMme0vYHoglY) | 3:25 |
-| 88 | [Qué Bonita Es Mi Tierra](https://open.spotify.com/track/5TUXmubvzIuV9Sv0jCndkw) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Serie 20 Exitos](https://open.spotify.com/album/7n6xNmDEgfcTkO1Jz9G3Py) | 2:57 |
-| 89 | [La Petenera](https://open.spotify.com/track/4WeazL7v9t7yHAUF7TgGnG) | [Trío Cantores de la Huasteca](https://open.spotify.com/artist/2NJotnwq4BqtWJlP73PvGk) | [Antología del Son de México, Huasteca](https://open.spotify.com/album/3Bp5LJYCdRc7ZjeE202cf8) | 3:29 |
+| 88 | [La Petenera](https://open.spotify.com/track/4WeazL7v9t7yHAUF7TgGnG) | [Trío Cantores de la Huasteca](https://open.spotify.com/artist/2NJotnwq4BqtWJlP73PvGk) | [Antología del Son de México, Huasteca](https://open.spotify.com/album/3Bp5LJYCdRc7ZjeE202cf8) | 3:29 |
+| 89 | [Qué Bonita Es Mi Tierra](https://open.spotify.com/track/5TUXmubvzIuV9Sv0jCndkw) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Serie 20 Exitos](https://open.spotify.com/album/7n6xNmDEgfcTkO1Jz9G3Py) | 2:57 |
 | 90 | [Por tu Mirada](https://open.spotify.com/track/3JDhqwYuGsUVvtQ5kPGFHE) | [La Manta](https://open.spotify.com/artist/00kxPLHaY87NnnIHll1YEI) | [Árbol de la Esperanza](https://open.spotify.com/album/6rofuBnB1AKtkGI7OnGhr9) | 6:30 |
 | 91 | [Como Una Flor](https://open.spotify.com/track/5Dz6FlX9kz3bdDuiXifM9h) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Luis Alberto Ballesteros](https://open.spotify.com/artist/3pHNSjBYvtXDZX4LL4BUb5), [Domingo Suarez](https://open.spotify.com/artist/6keBbpvKC7Wrdq6x7ufCvx), [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Mariachi Vol\. 1](https://open.spotify.com/album/2YkbFuALq3qadFUQ6W4OTA) | 2:12 |
 | 92 | [Huapango 2010](https://open.spotify.com/track/2t6Egk8teqWy5U4OkB1Hap) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Luis Alberto Ballesteros](https://open.spotify.com/artist/3pHNSjBYvtXDZX4LL4BUb5), [Domingo Suarez](https://open.spotify.com/artist/6keBbpvKC7Wrdq6x7ufCvx) | [Mariachi Vol\. 1](https://open.spotify.com/album/2YkbFuALq3qadFUQ6W4OTA) | 1:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 99 | [La Virgen de la Macarena](https://open.spotify.com/track/0NgGwoMrsVIYEfU1P2G9qL) | [Mariachi Azteca](https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW) | [Mariachi from Mexico](https://open.spotify.com/album/37XAmBpj05Ohmoql3AFiMM) | 3:51 |
 | 100 | [La Bamba](https://open.spotify.com/track/1oDbPrTemDs4joED2sUEJP) | [Trio Azteca](https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY) | [The Best of Mexico](https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM) | 2:47 |
 
-Snapshot ID: `MCwwNjI2MDhmNDFmOTFlYmI2OTZkZjU5OGUyYTczMmJhZjIxMWVmZjRh`
+Snapshot ID: `MCxlOWZmZTY0OWU3YjBjYzFhOTYxZDIxNTY2MDE3Mzk0Y2IxZjZmMzNl`

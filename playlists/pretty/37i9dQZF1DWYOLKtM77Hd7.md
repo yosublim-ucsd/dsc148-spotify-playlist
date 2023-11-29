@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOLKtM77Hd7.md) - [plain]
 
 > 'Tis the season to enjoy these classic Christmas songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,049 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,668 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOLKtM77Hd7.md) - [plain]
 | 49 | [Blue Christmas](https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Christmas Album](https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N) | 2:09 |
 | 50 | [Didn't I Get This Last Year?](https://open.spotify.com/track/0kPLIXhrliRxKHjCb6kxdP) | [Bob Rivers & Twisted Radio](https://open.spotify.com/artist/7LSj8VCfJkkw9FQkEnQZLc) | [Bob Rivers & Twisted Radio \- Twisted Christmas Boxed Set](https://open.spotify.com/album/1CqsDLEDJtZxKrKzAFNbz0) | 3:22 |
 
-Snapshot ID: `MCxjNDc3MzJmMDMyZTU1MDE4Y2Q1MjEyYTFmZDdjZTBiZTdhYzljYzYz`
+Snapshot ID: `MCxjMDkwYjFlOGJhNDg2NjRjNGZmNzMzMTViMDk3OGQzNTY1MjI2ZjJj`

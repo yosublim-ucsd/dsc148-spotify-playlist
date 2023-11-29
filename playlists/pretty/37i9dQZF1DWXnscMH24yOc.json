@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax with a collection of eclectic and unexpected reimaginings. Cover:  Joy Oladokun",
-  "num_followers": 445178,
+  "num_followers": 445218,
   "original_name": "Chill Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMWIxNGQ3ZjAwNmZlNGE0MGZkODQ1YjM4MDlkNDIxNTgxMGU2Mjc4",
+  "snapshot_id": "MCwzYWIzN2NmNGM3OWYyMzI3YTU1MmRhN2I3MTY1NDAzODliMTFlNWZj",
   "tracks": [
     {
       "added_at": "2022-03-22 14:40:29",
@@ -275,22 +275,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Deaf Heat EP",
-        "url": "https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC"
-      },
-      "artists": [
-        {
-          "name": "Marika Hackman",
-          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
-        }
-      ],
-      "duration_ms": 166762,
-      "name": "I Follow Rivers",
-      "url": "https://open.spotify.com/track/3Cs4g3w33H9YEptmg34DQc"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Blood",
         "url": "https://open.spotify.com/album/6NLWgp3R9U9v8KMueE6i9C"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 414466,
       "name": "I'm Not In Love",
       "url": "https://open.spotify.com/track/7InHgiDyJ0GtvnIVslWNPK"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Deaf Heat EP",
+        "url": "https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC"
+      },
+      "artists": [
+        {
+          "name": "Marika Hackman",
+          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+        }
+      ],
+      "duration_ms": 166762,
+      "name": "I Follow Rivers",
+      "url": "https://open.spotify.com/track/3Cs4g3w33H9YEptmg34DQc"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5biFYkYP5v0k9OavG4CCoK"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 235579,
-      "name": "What I Am - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6EjU3Hev5VZZmpPjoyNZVX"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Whatever You Like [Digital 45]",
         "url": "https://open.spotify.com/album/16AnLWE6Js4hmXqumUFJjv"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 228907,
       "name": "Whatever You Like - Single Version",
       "url": "https://open.spotify.com/track/5qX2ZJoLEyFCTAdaCqUo7s"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5biFYkYP5v0k9OavG4CCoK"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 235579,
+      "name": "What I Am - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6EjU3Hev5VZZmpPjoyNZVX"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "rose ave.",
-        "url": "https://open.spotify.com/album/5roeGujs5AMWZHsxu0z1lZ"
-      },
-      "artists": [
-        {
-          "name": "You+Me",
-          "url": "https://open.spotify.com/artist/0WO1Yn4pcC30HOKLD68JKm"
-        }
-      ],
-      "duration_ms": 249440,
-      "name": "No Ordinary Love",
-      "url": "https://open.spotify.com/track/3Vp1ShzJnzjtMbGucz0c16"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Robyn Sherwell",
         "url": "https://open.spotify.com/album/1yYNauQukGjifaFLMsPdDO"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 170399,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/7KqIH50NWpcqdZ2768gxiy"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "rose ave.",
+        "url": "https://open.spotify.com/album/5roeGujs5AMWZHsxu0z1lZ"
+      },
+      "artists": [
+        {
+          "name": "You+Me",
+          "url": "https://open.spotify.com/artist/0WO1Yn4pcC30HOKLD68JKm"
+        }
+      ],
+      "duration_ms": 249440,
+      "name": "No Ordinary Love",
+      "url": "https://open.spotify.com/track/3Vp1ShzJnzjtMbGucz0c16"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "All Too Well",
-        "url": "https://open.spotify.com/album/6efKXWSoIcByFOuxyu7Sh3"
-      },
-      "artists": [
-        {
-          "name": "Jake Scott",
-          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
-        }
-      ],
-      "duration_ms": 315475,
-      "name": "All Too Well",
-      "url": "https://open.spotify.com/track/3iTb61NCoUhOvbChmdhcRM"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "I Know (feat. Fiona Apple) [RISE Recording]",
         "url": "https://open.spotify.com/album/476o5Va5ObJpc2u0Jwn19z"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 299613,
       "name": "I Know (feat. Fiona Apple) - RISE Recording",
       "url": "https://open.spotify.com/track/3SO5iPrvbgXz2XUwjOExDs"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "All Too Well",
+        "url": "https://open.spotify.com/album/6efKXWSoIcByFOuxyu7Sh3"
+      },
+      "artists": [
+        {
+          "name": "Jake Scott",
+          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
+        }
+      ],
+      "duration_ms": 315475,
+      "name": "All Too Well",
+      "url": "https://open.spotify.com/track/3iTb61NCoUhOvbChmdhcRM"
     },
     {
       "added_at": "2022-03-22 14:40:29",

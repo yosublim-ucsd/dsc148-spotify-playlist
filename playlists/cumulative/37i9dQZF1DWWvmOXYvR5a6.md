@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DWWvmOXYvR5a6)
 
-> Trendy x Chill K\-Hip Hop\.  \(Cover: HAON\(김하온\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
+> Trendy x Chill K\-Hip Hop\.  \(Cover: BE'O\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-656 songs - 1 day 11 hr 41 min
+657 songs - 1 day 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [BEBE](https://open.spotify.com/track/6mrdTsiYQs9KzemKKu2Rx5) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [BIPOLAR](https://open.spotify.com/album/7jfWOLdcSrB7Q4TgRFDwXZ) | 3:05 | 2022-06-18 | 2022-06-26 |
 | [Because](https://open.spotify.com/track/08xMOoUaMWWlNStVUdBTBC) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Because](https://open.spotify.com/album/5uwBi26yP09mvt51AAQtY9) | 3:16 | 2022-04-01 | 2022-09-05 |
 | [Because I Was Young](https://open.spotify.com/track/5pGCRUSMcQ5OrezFaDxKHq) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Because I Was Young](https://open.spotify.com/album/0l7iV8S15L6uJyAJwjKn3u) | 3:16 | 2022-04-21 | 2022-07-28 |
-| [Beer \(Prod.Way Ched\)](https://open.spotify.com/track/3w9HSuLDejveVS9G8Qj8i0) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [Keem Hyo\-Eun](https://open.spotify.com/artist/59KuGY6nfY3w39O0qYVA7p), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [Dingo X Ambition Musik](https://open.spotify.com/album/3naaXqEfJnwlSqyFshTwlF) | 4:00 | 2022-07-24 |  |
+| [Beer \(Prod.Way Ched\)](https://open.spotify.com/track/3w9HSuLDejveVS9G8Qj8i0) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [Keem Hyo\-Eun](https://open.spotify.com/artist/59KuGY6nfY3w39O0qYVA7p), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [Dingo X Ambition Musik](https://open.spotify.com/album/3naaXqEfJnwlSqyFshTwlF) | 4:00 | 2022-07-24 | 2023-11-29 |
 | [being friends suck](https://open.spotify.com/track/3ZheaNstMAwG3uTbAoaZCG) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB), [GirlFrenD](https://open.spotify.com/artist/3HFox5DosAsJrKOwfwTf2A) | [Look! What Happened To Love?!](https://open.spotify.com/album/2ovR3PGbVdHUMikX20rb8L) | 3:09 | 2022-04-21 | 2022-07-13 |
 | [BENTLEY 1.5](https://open.spotify.com/track/6SlV6daW2N2f15CdsZGzBB) | [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR) | [BENTLEY 1.5](https://open.spotify.com/album/0Rl5epGTAzSWPA1eQqwfh5) | 3:13 | 2022-05-11 | 2022-06-11 |
 | [Better \(Feat\. Kid Milli\)](https://open.spotify.com/track/7AbeCCLtnoKOUib6OWnYi8) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [Dry Flower](https://open.spotify.com/album/68Dq3HMqFPoTX1gNqSDDII) | 2:51 | 2022-04-21 | 2022-07-27 |
@@ -660,6 +660,7 @@
 | [달탈출 \(prod\. Eric Godlow\)](https://open.spotify.com/track/5tHZeai2kCe9wIiMhnUjfn) | [윤해찬](https://open.spotify.com/artist/4egBOzXgXYoswwOvmxrmJ1) | [Escape From The Moon](https://open.spotify.com/album/4ZYJasF7PL3F3ZRUVnKxao) | 4:10 | 2022-06-27 | 2022-06-30 |
 | [담아](https://open.spotify.com/track/5OH5VvM5qIZDiJC1JVWLfe) | [M1NU](https://open.spotify.com/artist/2JDfkwLPoHoH1EKw6Og6uH), [Wiz World](https://open.spotify.com/artist/64uYVs5XasE9xxAItdyPCn), [래원](https://open.spotify.com/artist/5wrj3tbmQ8cvjcA80MtZP9), [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr) | [M1NUWORLD](https://open.spotify.com/album/6TxDYynoC6vnuC3vKlBb9h) | 3:31 | 2023-01-25 | 2023-02-16 |
 | [무너져 \(Art\. VEAN\)](https://open.spotify.com/track/6VVIJyheSpW8hM4CTr9xXR) | [Anonymous Artists](https://open.spotify.com/artist/6U6zWkFtgM3UU5c1hBlGCD) | [ARTIST\. VEAN](https://open.spotify.com/album/58ke1EMXzfH9T6NgmSsXOd) | 2:52 | 2022-05-11 | 2022-05-21 |
+| [미쳐버리겠다 \(MAD\)](https://open.spotify.com/track/7n1yuwnzs5jTEitJ7eecS8) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [미쳐버리겠다 \(MAD\)](https://open.spotify.com/album/1CdiLd2ENEFje7ux0G23KT) | 3:17 | 2023-11-28 |  |
 | [빙그레](https://open.spotify.com/track/1gtabUo4ov467fUjf2514i) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [D\-Hack](https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR) | [빙그레](https://open.spotify.com/album/6B9m5Qnxof67GWuBYBROxU) | 3:04 | 2022-08-17 | 2022-09-01 |
 | [오염](https://open.spotify.com/track/0GtvTl4sjuDRJF59MjywwO) | [Hwaji](https://open.spotify.com/artist/1Azg0okIA7BY6CMwRBLmud) | [오염,추](https://open.spotify.com/album/2A8D0clrVMyW9KsYRTiZWQ) | 2:45 | 2022-09-06 | 2023-04-17 |
 | [이 고요가 너무 좋아](https://open.spotify.com/track/2KvpeVhE15918QtnCc3QCJ) | [BOYHOOD](https://open.spotify.com/artist/2r8smtQqQ7z4M9guHnawaM) | [수면마취](https://open.spotify.com/album/4aXsVV3ulNKMj6H3TZThgS) | 3:06 | 2022-04-01 | 2022-07-14 |

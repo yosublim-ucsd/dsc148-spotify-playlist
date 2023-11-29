@@ -4546,10 +4546,28 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 212222,
       "name": "Paalu Yaame",
       "url": "https://open.spotify.com/track/3wBCm0eVGdMpaxSIzg43yJ"
+    },
+    {
+      "album": {
+        "name": "Paalu Yaame",
+        "url": "https://open.spotify.com/album/2h6vdH4wFNKYdJWKw1f91N"
+      },
+      "artists": [
+        {
+          "name": "Iman Fernando",
+          "url": "https://open.spotify.com/artist/42ATja5N0WYsh9RNSParhI"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212222,
+      "name": "Paalu Yaame",
+      "url": "https://open.spotify.com/track/42e6q2wCvs3awgT5bHPlZz"
     },
     {
       "album": {

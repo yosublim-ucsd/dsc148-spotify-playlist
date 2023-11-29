@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3A421vEQpsl.md) - [plain]
 
 > Hits, repackaged by Bollywood\. Cover \- Badrinath Ki Dulhania
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,883 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,940 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3A421vEQpsl.md) - [plain]
 | 49 | [Patola](https://open.spotify.com/track/7JYzuz3FBHtlRk4xnvWDAg) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL) | [Blackmail](https://open.spotify.com/album/6eIAx4tyve7NJGmiaFM7Sm) | 3:04 |
 | 50 | [Hasina Pagal Deewani \(From "Indoo Ki Jawani"\)](https://open.spotify.com/track/5DXdMe87gdsoN4MSqWRcnt) | [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Hasina Pagal Deewani \(From "Indoo Ki Jawani"\)](https://open.spotify.com/album/2SsdnisdqpAXBvdkiMc5wp) | 3:08 |
 
-Snapshot ID: `MCxlZWNlMGQzOGI4NDFiZmVhODRjZGEyMzAxYTI3MTA4ZjY1OGJjYjBk`
+Snapshot ID: `MCw0NjIxNDE5YmIwMGE3MWYyOTlkNWFkYzcxZTg3YmRkZTA0MWU5MmU3`

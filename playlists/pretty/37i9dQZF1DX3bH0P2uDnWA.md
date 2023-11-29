@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 
 > Bringing the roaring 20s into the 2020s
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,341 likes - 145 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,359 likes - 145 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,7 +118,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 108 | [The Cat Is High](https://open.spotify.com/track/2hPkSkAHAGxdp3O4HvRoOz) | [Minimatic](https://open.spotify.com/artist/7taR4NVoGObH3v6708KBgV) | [The Cat Is High](https://open.spotify.com/album/7IRE6AehmCMTOBsEYKJJIq) | 4:00 |
 | 109 | [Trouble](https://open.spotify.com/track/0aUP7s7O3m8xFnQ1Ju0xbZ) | [Annella](https://open.spotify.com/artist/7cx7uVoPbCRy6KvTh5pJaf) | [Trouble](https://open.spotify.com/album/065YosCANMb3iddT5Dv53h) | 3:15 |
 | 110 | [Loco](https://open.spotify.com/track/6C2oVz4VVcK8LJTWKhEfFn) | [Mr\. Jazzek](https://open.spotify.com/artist/48ibaXmdU89j4rWWf6cdGh) | [Loco](https://open.spotify.com/album/7B5WriVLhr9U53qfxVUcX6) | 2:58 |
-| 111 | [Cookie Monster \- Radio Edit](https://open.spotify.com/track/4zU15t9fJ5J0ERwbS7tGA7) | [Atom Smith](https://open.spotify.com/artist/6ExlnA1FV2yvFCVlurHsc2), [Lamuzgueule](https://open.spotify.com/artist/41kO57U2yrvAWlng1p5g6g) | [Cookie Monster \(Atom Smith Remix\)](https://open.spotify.com/album/2A4LLbcPe9eVG7bmBDfuM4) | 3:27 |
+| 111 | [Cookie Monster \- Radio Edit](https://open.spotify.com/track/4zU15t9fJ5J0ERwbS7tGA7) | [Atom Smith](https://open.spotify.com/artist/6ExlnA1FV2yvFCVlurHsc2), [LMZG](https://open.spotify.com/artist/41kO57U2yrvAWlng1p5g6g) | [Cookie Monster \(Atom Smith Remix\)](https://open.spotify.com/album/2A4LLbcPe9eVG7bmBDfuM4) | 3:27 |
 | 112 | [A Timeless Tale](https://open.spotify.com/track/6un59YUiVc6N1Sos22rE4f) | [Riff Kitten](https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a) | [Gone Rogue](https://open.spotify.com/album/4vHMwdn3omUHLhCTDjOuOQ) | 3:06 |
 | 113 | [Something Serious](https://open.spotify.com/track/6MZ4epg1RvpQCsMq0f5R1t) | [Deladap](https://open.spotify.com/artist/1KIo4b95g1KHA2AQz7fwa2), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Reinwald Kranner](https://open.spotify.com/artist/5QcpYyN9rZK1f6X7Z1JBid), [Melinda Stoika](https://open.spotify.com/artist/68TSKE26i8EDiY2UkCiRhE) | [Something Serious](https://open.spotify.com/album/1IqEauUVodVfkZDadKJ4mg) | 3:10 |
 | 114 | [Ponder \- Betty Booom Remix](https://open.spotify.com/track/0tFzgPOxtXFNScRZ6ePrg8) | [Marina & The Kats](https://open.spotify.com/artist/0XS8JS8Q3wHpxMQQ49Tiyg), [Betty Booom](https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg) | [Ponder \(Betty Booom Remix\)](https://open.spotify.com/album/3glSK3ZZ9cn74XCkJpSzME) | 3:21 |
@@ -145,7 +145,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 135 | [Andrew's Break](https://open.spotify.com/track/7zGeoy0A1F7NU0wgI4mqoY) | [AlgoRythmik](https://open.spotify.com/artist/2KyHX7CvFoSdXMmuazwuAe) | [Show Breaks](https://open.spotify.com/album/1NXXCKZkUy2yG4i2kkTY42) | 3:38 |
 | 136 | [Take It Easy \- Original](https://open.spotify.com/track/5StNWVFBLz4XBXtmf6Rxrs) | [Carola Jasmins](https://open.spotify.com/artist/3rbi2ewJrPClkNNr0K1Pgo) | [Electro Carousel Club Night\. Selected by Dr Cat](https://open.spotify.com/album/3cgtKzqc2HN4PkTXotrnCj) | 3:20 |
 | 137 | [Marcianito \- Cristina Renzetti Vocal Version](https://open.spotify.com/track/1qUOQnK6aeMa6KO0fB1OjY) | [Dj Farrapo](https://open.spotify.com/artist/3Zd0T1sAyozwHb3u3MYtiP), [Cristina Renzetti](https://open.spotify.com/artist/6pMus8C5qs4o0TcsvouPI6) | [The Nu Swing Experience](https://open.spotify.com/album/3s5XUm68qdvzlW4wTDSSaw) | 2:44 |
-| 138 | [Posture \- Wolfgang Lohr Remix](https://open.spotify.com/track/1Zn9nf1HoFM7KvXhBq9SNv) | [Lamuzgueule](https://open.spotify.com/artist/41kO57U2yrvAWlng1p5g6g), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [Posture \(Wolfgang Lohr Remix\)](https://open.spotify.com/album/33cm8hJKxHtcFELOZB2eJy) | 3:56 |
+| 138 | [Posture \- Wolfgang Lohr Remix](https://open.spotify.com/track/1Zn9nf1HoFM7KvXhBq9SNv) | [LMZG](https://open.spotify.com/artist/41kO57U2yrvAWlng1p5g6g), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [Posture \(Wolfgang Lohr Remix\)](https://open.spotify.com/album/33cm8hJKxHtcFELOZB2eJy) | 3:56 |
 | 139 | [Taking You with Me](https://open.spotify.com/track/7Hr6qjeI4F1f52j09STzyG) | [Little Violet](https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE) | [Taking You with Me](https://open.spotify.com/album/4AUmtmKPvKPUjTe93Gy0oj) | 3:19 |
 | 140 | [Let Yourself Go](https://open.spotify.com/track/7unnkEMBqth617Q8DyhsFd) | [Swing Republic](https://open.spotify.com/artist/0iOe7zpme8Z6oTs4ffvJjX), [The Boswell Sisters](https://open.spotify.com/artist/2mflSlnegn3rBmzsh08OcN) | [Long Legs](https://open.spotify.com/album/24LwsnJl1E5hxRxUWTcTRn) | 3:42 |
 | 141 | [Love Music \(Intended Immigration Electro Swing Remix\)](https://open.spotify.com/track/662kImMrejn6sAfNvVMk3U) | [Annella](https://open.spotify.com/artist/7cx7uVoPbCRy6KvTh5pJaf), [Intended Immigration](https://open.spotify.com/artist/23iCcwVwjt6qnqCP6GgmYg) | [Love Music \(Intended Immigration Electro Swing Remix\)](https://open.spotify.com/album/2GztloBIUhp28xvTf3hlXY) | 2:50 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 144 | [Topsy at the Top](https://open.spotify.com/track/4nJ2EMvjNqxBDrT0s6AK47) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Topsy at the Top](https://open.spotify.com/album/1n9Z8PcktdiG2ccx7CRnCm) | 4:20 |
 | 145 | [Light](https://open.spotify.com/track/6XMLzR52m0SAZfM8WxzQ0w) | [Szigeti Juli](https://open.spotify.com/artist/3u8tUhDhqNoF6jRPEFnKNF) | [Light](https://open.spotify.com/album/1QDrLXAZrhuye2dHxB2fzn) | 3:08 |
 
-Snapshot ID: `MCw5MmRlNmM1OTFmNzMyZTQzZjgyNDNkMjdhMjE2ZDAzNWQxMjhjZDAz`
+Snapshot ID: `MCxlOTNlODE1ZWYyZGViNjhkOWRiNmMwNzk5ZGIzODJiZDI5ZTZiNzE3`

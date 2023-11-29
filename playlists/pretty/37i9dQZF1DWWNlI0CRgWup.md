@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 
 > Découvrez les nouveautés des artistes RADAR France\. Photo : TIF
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,509 likes - 42 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,544 likes - 42 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 3 | [XS](https://open.spotify.com/track/08Jrszz3ir62gPhy9wfU4i) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [XS](https://open.spotify.com/album/52JamK8WdjuILo8uhev83g) | 2:36 |
 | 4 | [Shelter \- Edit](https://open.spotify.com/track/7sqcEITroQ4tnrFQtmCDFd) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [Shelter](https://open.spotify.com/album/50xN7YSNYBK1qwRb0pfldN) | 4:26 |
 | 5 | [A l'américaine](https://open.spotify.com/track/0UHU3DLdPDcShv4m8o1mdc) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [A l'américaine](https://open.spotify.com/album/2S9ME2sqrjF1tOJlqt1BkL) | 3:24 |
-| 6 | [MÉDICALE](https://open.spotify.com/track/2cTyysES2ribL9idJXy3fI) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6) | [SUN7](https://open.spotify.com/album/77mTEOKxs8H61K4wZiJWFk) | 2:26 |
+| 6 | [MÉDICALE](https://open.spotify.com/track/0deOyyvJxyvTTJudDyIFqp) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6) | [SUN7](https://open.spotify.com/album/07IfuWJbMzAw6cTie8Wyu0) | 2:26 |
 | 7 | [Tell Me Who](https://open.spotify.com/track/3uCh2PMx17GZKf9kWaFMkY) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD), [Niko](https://open.spotify.com/artist/7DidhnHZXjvLywJgaNbl9Q) | [Tell Me Who](https://open.spotify.com/album/3xSW1meBZp2Fiq4xZwQB5T) | 2:43 |
 | 8 | [Crush](https://open.spotify.com/track/5xAZbiKC3j8IVU3XQUybZ4) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [Crush](https://open.spotify.com/album/6UqCMBGylvsiza6n6F5e6U) | 3:12 |
 | 9 | [Dans la moyenne](https://open.spotify.com/track/5sZcLGRDMSyQK1nR7ykDQN) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Dans la moyenne](https://open.spotify.com/album/4oyzQzOXkQ4F7OISRrjoWn) | 2:38 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 41 | [Docteur](https://open.spotify.com/track/0WoXJsM5EKwhYURKx3p1p2) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm) | [La fin de la nuit](https://open.spotify.com/album/61B9Jgp1u9U46CUNIFOJfb) | 2:57 |
 | 42 | [Alcool Alcool](https://open.spotify.com/track/6wriPlx1qGGI7yOrtSGNvY) | [Gargäntua](https://open.spotify.com/artist/1ScFJG5ccOnTPPUin8cPFu) | [Immoral & Illégal](https://open.spotify.com/album/0KKgZIUwkhKV82olpr3QIU) | 3:53 |
 
-Snapshot ID: `MCxhNWM3MjFjYWNhMGM0MTc1Zjg5MTIxMWNhMDM5ZWE0MmVhNDE4NjVl`
+Snapshot ID: `MCxiZmU1NjhhYTRhZGZjMzUzYzY3YjAzNTcyNzQzZDMyZDQ5NTU1MTQ4`

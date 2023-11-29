@@ -1,12 +1,12 @@
 {
   "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: <a href=\"spotify:artist:61SFRZAmfyJhcffwR2Ijuq\">Jason Crabb</a>",
-  "num_followers": 323746,
+  "num_followers": 323867,
   "original_name": "Top Christian Contemporary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0M2VjYWRmMmVmZGRkOGY2NDM4NDg1NDI5M2Q0ZmQyMGM2YjQzNzZl",
+  "snapshot_id": "MCxmZTZkODZlYmE5OTk1NGM1NjY2MjFiY2JiZDU1YTVjMWEzZGFlYjk0",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -651,34 +651,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "We Will Stand",
-        "url": "https://open.spotify.com/album/1SCsUUJCwXyE08j5J4w5dY"
-      },
-      "artists": [
-        {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
-        },
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "Jekalyn Carr",
-          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
-        },
-        {
-          "name": "CAIN",
-          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
-        }
-      ],
-      "duration_ms": 252306,
-      "name": "We Will Stand",
-      "url": "https://open.spotify.com/track/0Hdpqso5qi1PyShUxluscB"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "The Great Awakening",
         "url": "https://open.spotify.com/album/1tAM3RpCYj5vTAIcze5US7"
       },
@@ -711,6 +683,34 @@
       "duration_ms": 262540,
       "name": "You've Already Won - Radio Version",
       "url": "https://open.spotify.com/track/0AFFHQofm2gRvFEHmnT7o1"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "We Will Stand",
+        "url": "https://open.spotify.com/album/1SCsUUJCwXyE08j5J4w5dY"
+      },
+      "artists": [
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        },
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        },
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        }
+      ],
+      "duration_ms": 252306,
+      "name": "We Will Stand",
+      "url": "https://open.spotify.com/track/0Hdpqso5qi1PyShUxluscB"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -763,26 +763,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "My Tribute (To God Be The Glory)",
-        "url": "https://open.spotify.com/album/1qaeNHwNFPFbOviqzzhEVt"
-      },
-      "artists": [
-        {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
-        },
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 341986,
-      "name": "My Tribute (To God Be The Glory)",
-      "url": "https://open.spotify.com/track/6SlbC6p7ZZD73bhjARDV86"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Holy Forever",
         "url": "https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 348141,
       "name": "Friend In Jesus - Live",
       "url": "https://open.spotify.com/track/5mg7ppgQFoJAjq0fzfKRLX"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "My Tribute (To God Be The Glory)",
+        "url": "https://open.spotify.com/album/1qaeNHwNFPFbOviqzzhEVt"
+      },
+      "artists": [
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        },
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 341986,
+      "name": "My Tribute (To God Be The Glory)",
+      "url": "https://open.spotify.com/track/6SlbC6p7ZZD73bhjARDV86"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/0N7E7ssTnuxjKorNihxEXe"
-      },
-      "artists": [
-        {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
-        }
-      ],
-      "duration_ms": 194600,
-      "name": "I Need You",
-      "url": "https://open.spotify.com/track/06kXQ990nrIG8lXcyGQ4gd"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Then Christ Came",
         "url": "https://open.spotify.com/album/5lcngetkRmDaJCRCufVzYF"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 223586,
       "name": "Then Christ Came",
       "url": "https://open.spotify.com/track/3NRIwbb9GycU284G6MCZkM"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/0N7E7ssTnuxjKorNihxEXe"
+      },
+      "artists": [
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        }
+      ],
+      "duration_ms": 194600,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/06kXQ990nrIG8lXcyGQ4gd"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1055,6 +1055,26 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "That's The Thing About Praise (Extended Play)",
+        "url": "https://open.spotify.com/album/0FZwqhAXgnKySevFdR3ljd"
+      },
+      "artists": [
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        },
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 236172,
+      "name": "That's The Thing About Praise - Radio Version",
+      "url": "https://open.spotify.com/track/1cDxFFKvI33Xg6jbPmzBBz"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Seasons",
         "url": "https://open.spotify.com/album/0N7E7ssTnuxjKorNihxEXe"
       },
@@ -1083,26 +1103,6 @@
       "duration_ms": 200200,
       "name": "Make You Feel My Love",
       "url": "https://open.spotify.com/track/2wjshi3DGGjZx3gdsKusDJ"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "That's The Thing About Praise (Extended Play)",
-        "url": "https://open.spotify.com/album/0FZwqhAXgnKySevFdR3ljd"
-      },
-      "artists": [
-        {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
-        },
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 236172,
-      "name": "That's The Thing About Praise - Radio Version",
-      "url": "https://open.spotify.com/track/1cDxFFKvI33Xg6jbPmzBBz"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Eden (Isn't It Just Like You?)",
+        "url": "https://open.spotify.com/album/4D3hRNhHp7NmvrVDIKStIN"
+      },
+      "artists": [
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        }
+      ],
+      "duration_ms": 275466,
+      "name": "Eden (Isn't It Just Like You?)",
+      "url": "https://open.spotify.com/track/5OVCLYafTB1w8ChIF21Uxm"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Still Standing",
         "url": "https://open.spotify.com/album/4dm87zKKSWl09tAY3v6dcn"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 209390,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/4BN0k321aIFLpaxxtwO23x"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Eden (Isn't It Just Like You?)",
-        "url": "https://open.spotify.com/album/4D3hRNhHp7NmvrVDIKStIN"
-      },
-      "artists": [
-        {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
-        }
-      ],
-      "duration_ms": 275466,
-      "name": "Eden (Isn't It Just Like You?)",
-      "url": "https://open.spotify.com/track/5OVCLYafTB1w8ChIF21Uxm"
     },
     {
       "added_at": "2023-11-17 05:00:00",

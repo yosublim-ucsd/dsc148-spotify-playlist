@@ -1,12 +1,12 @@
 {
   "description": "For body and mind, blues straight from the soul.",
-  "num_followers": 66330,
+  "num_followers": 66385,
   "original_name": "Healin' Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzM4YzQxNTI5ZjUxOTg5MmMxZmI4M2M2YTE1YzAzNmU1MDJlOWUw",
+  "snapshot_id": "MCw5MDNlZWJmMmEyNjVkYmYxMDJmYzI3NDliZDAwYWJlZTRkMWNiZjkw",
   "tracks": [
     {
       "added_at": "2023-10-05 13:06:44",
@@ -27,7 +27,7 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "Bluesbreakers",
+        "name": "Blues Breakers",
         "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
       },
       "artists": [
@@ -455,6 +455,22 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
+        "name": "Blues To The Bone",
+        "url": "https://open.spotify.com/album/1FbyARbzpYjJBoHm9UgDyQ"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 215333,
+      "name": "Dust My Broom",
+      "url": "https://open.spotify.com/track/7ab9T50hNO7ULa2pvtcjjZ"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
         "name": "Get Back To The Land",
         "url": "https://open.spotify.com/album/7oj7EsiZB17a22MqGmWO0W"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 266350,
       "name": "Get Back To The Land",
       "url": "https://open.spotify.com/track/1oBCIuFxyHqutsnQhSuqlk"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
-        "name": "Blues To The Bone",
-        "url": "https://open.spotify.com/album/1FbyARbzpYjJBoHm9UgDyQ"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 215333,
-      "name": "Dust My Broom",
-      "url": "https://open.spotify.com/track/7ab9T50hNO7ULa2pvtcjjZ"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "The Natch'l Blues",
-        "url": "https://open.spotify.com/album/6ySAyGtXqiqF3Vya9bIir2"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 208733,
-      "name": "She Caught the Katy and Left Me a Mule to Ride",
-      "url": "https://open.spotify.com/track/2B8TnS5nJijlzuORGs3RKy"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
         "name": "An Introduction To Otis Rush",
         "url": "https://open.spotify.com/album/1PD0bGAiG3boXRd7MGHtjO"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 219559,
       "name": "I Can't Quit You Baby",
       "url": "https://open.spotify.com/track/1TVtYIucWI5fqdQwwlZFR3"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
+        "name": "The Natch'l Blues",
+        "url": "https://open.spotify.com/album/6ySAyGtXqiqF3Vya9bIir2"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 208733,
+      "name": "She Caught the Katy and Left Me a Mule to Ride",
+      "url": "https://open.spotify.com/track/2B8TnS5nJijlzuORGs3RKy"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "Driving Wheel",
-        "url": "https://open.spotify.com/album/5RqYLf8ScgXBcrNRWoyQrP"
-      },
-      "artists": [
-        {
-          "name": "Little Junior Parker",
-          "url": "https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM"
-        }
-      ],
-      "duration_ms": 157266,
-      "name": "Drivin' Wheel - Single Version",
-      "url": "https://open.spotify.com/track/4r08u8N2RSeorASn62yHr6"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
         "name": "Georgia Blue",
         "url": "https://open.spotify.com/album/2JGpezeVAwq7Jw2ua3EniV"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 271199,
       "name": "It's a Man's, Man\u2019s, Man\u2019s World",
       "url": "https://open.spotify.com/track/5CfGXaEPnhwqAlhX2PJmy4"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
+        "name": "Driving Wheel",
+        "url": "https://open.spotify.com/album/5RqYLf8ScgXBcrNRWoyQrP"
+      },
+      "artists": [
+        {
+          "name": "Little Junior Parker",
+          "url": "https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM"
+        }
+      ],
+      "duration_ms": 157266,
+      "name": "Drivin' Wheel - Single Version",
+      "url": "https://open.spotify.com/track/4r08u8N2RSeorASn62yHr6"
     },
     {
       "added_at": "2023-10-05 13:06:44",

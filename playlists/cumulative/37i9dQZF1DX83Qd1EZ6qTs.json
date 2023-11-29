@@ -195,6 +195,32 @@
     },
     {
       "album": {
+        "name": "Inde: Hommage \u00e0 Latif Ahmed Khan (India: A Tribute to Latif Ahmed Khan)",
+        "url": "https://open.spotify.com/album/0X7ABjctDytLyGlQIzjk3a"
+      },
+      "artists": [
+        {
+          "name": "Latif Ahmed Khan",
+          "url": "https://open.spotify.com/artist/7o1px4JaKkGBGeGttSJ5cf"
+        },
+        {
+          "name": "Asif Ali Khan",
+          "url": "https://open.spotify.com/artist/01WJRYrqBkkxXFPAreJVD8"
+        },
+        {
+          "name": "Ma Deva Prashanti",
+          "url": "https://open.spotify.com/artist/7dgILeG3wG2476e4mrGDIf"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302866,
+      "name": "Drut Tint\u00e2l",
+      "url": "https://open.spotify.com/track/4AFjp9pi72ekK73f4XzTVG"
+    },
+    {
+      "album": {
         "name": "Tabla Yoga Healing",
         "url": "https://open.spotify.com/album/1X0MXAy0e7W7lIvv4CJeBB"
       },
@@ -794,7 +820,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 104093,
       "name": "Tabla Solo 2",
       "url": "https://open.spotify.com/track/4NCqNjUa199fKTXNE7NNYf"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Artistas independientes emergentes, cada miércoles\. Foto: Casapalma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,466 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,473 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [Ojalá \- No me llevaste](https://open.spotify.com/track/1zTlY90aDjij7bDjdRJg9W) | [Modelo](https://open.spotify.com/artist/3xcGSLQmwbzsQMHqjmJlht) | [Ojalá \(No me llevaste\)](https://open.spotify.com/album/6oLOzKSIgXGysId0A5f7Y4) | 3:08 |
 | 50 | [Podría Decirte](https://open.spotify.com/track/1dS8UBgLr5rqsRFSA623j7) | [MADBEL](https://open.spotify.com/artist/5HsY1lIUqA7N54Gpk3iea4) | [TARARA](https://open.spotify.com/album/71XqHo585iKrW2Db1Tt0O5) | 2:49 |
 
-Snapshot ID: `MCwyYzkxYjRhZWMxYThlNzEwYzA5NmRkMjhmYjczZGYyNTUzNWJhNzg4`
+Snapshot ID: `MCxlYjc4ZDJkNTNjM2IzODljNjJkYTRiNDViYmU5MTgxZjdkNDI3NWIz`

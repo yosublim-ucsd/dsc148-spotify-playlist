@@ -4,7 +4,7 @@
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドと共に、爽やかな1日を迎えませんか？
 
-332 songs - 19 hr 53 min
+333 songs - 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Foxglove Through The Clearcut \- Acoustic](https://open.spotify.com/track/4EfROdTKT8NTmJg8gxgXQi) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Foxglove Through The Clearcut \(Acoustic\)](https://open.spotify.com/album/1TUrfRrI0YybA6OKkZo6lB) | 5:05 | 2023-02-23 | 2023-04-14 |
 | [Fragile](https://open.spotify.com/track/608wYP5XWenLz8cOSYjX7X) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 4:01 | 2023-06-13 |  |
 | [Free Fallin' \- Live at the Nokia Theatre, Los Angeles, CA \- December 2007](https://open.spotify.com/track/4LloVtxNZpeh7q7xdi1DQc) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Where the Light Is: John Mayer Live In Los Angeles](https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb) | 4:23 | 2022-10-20 |  |
-| [From Gold](https://open.spotify.com/track/3ePd4K8tcdfr7KmbuOTrKK) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Woodgate, NY](https://open.spotify.com/album/4HCiNoFBb2vFvySaSW2JBs) | 3:34 | 2023-04-13 |  |
+| [From Gold](https://open.spotify.com/track/3ePd4K8tcdfr7KmbuOTrKK) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Woodgate, NY](https://open.spotify.com/album/4HCiNoFBb2vFvySaSW2JBs) | 3:34 | 2023-04-13 | 2023-11-29 |
 | [From My Side](https://open.spotify.com/track/0MtwU2O5WxNXzE9UeFNqXg) | [Somewhere](https://open.spotify.com/artist/1nDq6lPB8DMpBpnxLFqXO2) | [From My Side](https://open.spotify.com/album/5qqmp9a4tJjR6vNphVdTYA) | 4:01 | 2023-02-28 | 2023-03-22 |
 | [Ghost](https://open.spotify.com/track/1Vmju1rSpfjg2Zg6WflRrB) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Ghost](https://open.spotify.com/album/0Ouza74Vj3Cl51NIJhUIbc) | 3:33 | 2023-10-05 |  |
 | [Ghost](https://open.spotify.com/track/61YfUTSPKWTrhqAw66utw1) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Ghost](https://open.spotify.com/album/7hSCtKJ7bQmr4w8YlJFACH) | 3:33 | 2023-10-05 | 2023-10-07 |
@@ -335,6 +335,7 @@
 | [微熱 \(秋\)](https://open.spotify.com/track/4blBGh56WnJOb2VVubD4yF) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0) | [微熱 \(秋\) / Honesty \(Session 1\)](https://open.spotify.com/album/45vKG9pi5lln4SsNdHTqSQ) | 4:58 | 2022-11-15 | 2022-11-17 |
 | [愛言葉 \- From THE FIRST TAKE](https://open.spotify.com/track/1rX1n7VAfXBy4dKFuGSGkM) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [愛言葉 \- From THE FIRST TAKE](https://open.spotify.com/album/5YJQqM7A7pfeDjxZ7DB6hi) | 5:05 | 2023-02-14 | 2023-02-16 |
 | [春を待たず君を離れ](https://open.spotify.com/track/5yx5BVGyOZSpEkHSS7Nh8S) | [グレープ](https://open.spotify.com/artist/1dFHgb3Goqf159LHj4ukx6) | [グレープセンセーション](https://open.spotify.com/album/1KS6WPslrwkL1hUSkoR87W) | 3:46 | 2023-02-14 | 2023-02-16 |
+| [柔らかい影](https://open.spotify.com/track/4JseUox8CQxSsjdvfsrez9) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA) | [THE MAGICAL TOUCH](https://open.spotify.com/album/6NbFZ5FRVocK8Re3pSJu4t) | 3:17 | 2023-11-28 |  |
 | [生きていくだけで \(feat\. Ruri\)](https://open.spotify.com/track/35RU9s9Oytg6N8k0xxtKtG) | [FUKUSHIGE MARI](https://open.spotify.com/artist/74ldwS36YOZpiNSBf2XYBs), [Ruri](https://open.spotify.com/artist/0y2buXFUJCd2dnhkVCkRDg) | [月の満ち欠け オリジナルサウンドトラック](https://open.spotify.com/album/6YbRXC2Yrs1UkEtAGJ7Ne7) | 4:03 | 2022-12-01 | 2022-12-14 |
 | [私を呼んだ 夏の空のような \- feat\. 兼松衆, 須原杏, 関口将史](https://open.spotify.com/track/5dQ8lzqlmJedzovrH8WsLq) | [高木大丈夫](https://open.spotify.com/artist/4tkM95cPiJfdqAfWfvxU60), [兼松 衆](https://open.spotify.com/artist/2ibirI68QUhfYuXM0oq8J1), [須原杏](https://open.spotify.com/artist/0ekqoA1GGFwC9lalszdIJR), [関口将史](https://open.spotify.com/artist/5Q5qAs7kOYA3gloFl5gAzs) | [私を呼んだ 夏の空のような \(feat\. 兼松衆, 須原杏, 関口将史\)](https://open.spotify.com/album/7k9LWhjXNPB6g2Q1cRU2Im) | 4:39 | 2023-08-01 | 2023-11-08 |
 | [野性の風](https://open.spotify.com/track/3L0iroPfpyrbPSudJkXopI) | [Priscilla Ahn](https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy) | [A BETTER PLACE](https://open.spotify.com/album/1UzL6xMEgHprpBk9X7KbUj) | 4:34 | 2023-05-23 | 2023-11-08 |

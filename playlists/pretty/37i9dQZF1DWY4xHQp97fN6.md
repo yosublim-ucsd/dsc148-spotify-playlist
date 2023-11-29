@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4xHQp97fN6.md) - [plain]
 
 > Mood: Turnt
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,714,869 likes - 99 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,715,534 likes - 99 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4xHQp97fN6.md) - [plain]
 | 24 | [Hit List \(with BigXthaPlug & Big Yavo\)](https://open.spotify.com/track/6tiYQ631gOeBb2jCtaIs0R) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Big Yavo](https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF) | [Lonestar Luchador](https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK) | 3:05 |
 | 25 | [High\-End \(feat\. Philthy Rich, Gucci Mane & BG\)](https://open.spotify.com/track/1yTv2RYIcq8vkyGYfaZZuZ) | [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [Philthy Rich](https://open.spotify.com/artist/3n6RTmT1sgWeNNCfPyJMw3), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [BG](https://open.spotify.com/artist/331Xmbd0r2nu2TxnA4aQQR) | [Rule of Thumb: Rule 1](https://open.spotify.com/album/2wozTc5rLDVTI8wl0nh5fk) | 4:48 |
 | 26 | [Crazy Thick](https://open.spotify.com/track/0e64iI4dSl3NyF2Wo1WYDH) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Welcome 2 Collegrove](https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy) | 2:56 |
-| 27 | [02 Lakers](https://open.spotify.com/track/0LXrihCLToJ1l9HlIufKSA) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr) | [02 Lakers](https://open.spotify.com/album/1WMj2AxZuuDQdHo3qFDMe9) | 2:43 |
+| 27 | ['02 Lakers](https://open.spotify.com/track/0LXrihCLToJ1l9HlIufKSA) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr) | ['02 Lakers](https://open.spotify.com/album/1WMj2AxZuuDQdHo3qFDMe9) | 2:43 |
 | 28 | [Walk](https://open.spotify.com/track/725UfuWEXWg0C7PCqP8HIz) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Walk](https://open.spotify.com/album/7oaVAnz4knG0hU6oRJGcC9) | 2:04 |
 | 29 | [In Luv With The Money](https://open.spotify.com/track/3dw4v5lOsKRqIX3c1bouJW) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Too Good To Be True](https://open.spotify.com/album/1jhGoiKDR41Qa2mzlveJFX) | 3:09 |
 | 30 | [Ouuhh!!](https://open.spotify.com/track/6R5pp1Yant3DhEuHtJJGZl) | [Kayla Nicole](https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT), [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Famous Uno](https://open.spotify.com/artist/4Y9LZIhP41oVQFjoyJ3Gga) | [Ouuhh!!](https://open.spotify.com/album/5R7RaffbuuCgJ8rB9qC0P8) | 3:17 |
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4xHQp97fN6.md) - [plain]
 | 58 | [Smack Sh\*t](https://open.spotify.com/track/02G0mbFgtqS3h1Ek29tBWW) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Smack Sh\*t](https://open.spotify.com/album/3Wa0UdCqXUAWNNuEr9ulHk) | 2:59 |
 | 59 | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK) | 2:52 |
 | 60 | [Colostomy \(feat\. WizDaWizard\)](https://open.spotify.com/track/3ndarzf6PGBwEsxs0wuYgm) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [WizDaWizard](https://open.spotify.com/artist/4p8ivLWn8hpHM5uLhYiMix) | [When I Was Dead](https://open.spotify.com/album/65SsQtOf5Cd25fanX62XRR) | 2:22 |
-| 61 | [BREATHE.](https://open.spotify.com/track/3xKXBuxYNVTFPyNpYPHbOI) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BREATHE.](https://open.spotify.com/album/7aaruiZiAzYf7gLW86WhKT) | 2:26 |
+| 61 | [BREATHE\. freestyle](https://open.spotify.com/track/3xKXBuxYNVTFPyNpYPHbOI) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BREATHE\. freestyle](https://open.spotify.com/album/7aaruiZiAzYf7gLW86WhKT) | 2:26 |
 | 62 | [Hellcats SRTs 2 \(with Lil Durk\)](https://open.spotify.com/track/1gxAYSMc1jbibsnpT3Rflc) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hellcats SRTs 2 \(with Lil Durk\)](https://open.spotify.com/album/4ygqsOtoimrPwwH33iaAq0) | 2:45 |
 | 63 | [The One](https://open.spotify.com/track/3V0A5gVJFGy4Hmo3MJ59uD) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [I Showed U So](https://open.spotify.com/album/4GVyz2cTtsOtCX5Jk1zeaU) | 2:14 |
 | 64 | [Booty Drop](https://open.spotify.com/track/1iOdhNBdePXR632DhYZVO2) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Booty Drop](https://open.spotify.com/album/096NZMg4ARLx7TQamIDE30) | 2:39 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4xHQp97fN6.md) - [plain]
 | 98 | [Dah Dah DahDah](https://open.spotify.com/track/2TSfStvlAMLw89u3tali79) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Who is Nardo Wick?? \(Deluxe\)](https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi) | 2:31 |
 | 99 | [Vette Motors](https://open.spotify.com/track/0HrWshW3SuFJ6nKS9ba9Mh) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [The Last Slimeto](https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw) | 2:53 |
 
-Snapshot ID: `MCwwZGI5YmNjOTJhZjVlOGRlYzk3NDMxNWFjMGZhODMyZDFmYWE2NTgx`
+Snapshot ID: `MCw1MjQ2ZDkyMTE4NmMxZDgxZDJiMDIyYmNmZTY3ZTg3ODQ4NmQ3MGIx`

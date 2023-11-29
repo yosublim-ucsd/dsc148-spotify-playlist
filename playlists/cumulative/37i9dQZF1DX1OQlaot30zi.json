@@ -1498,7 +1498,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 122941,
       "name": "4REAL",
       "url": "https://open.spotify.com/track/4zRXoByTVZEiFtBgPI2Xii"
@@ -4392,7 +4392,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 101904,
       "name": "ARIAH",
       "url": "https://open.spotify.com/track/1pYrbPCQr7QNEXA2jCRWwV"
@@ -12889,20 +12889,24 @@
     },
     {
       "album": {
-        "name": "Conta su di me",
+        "name": "Conta su di me (feat. Wherestheplug)",
         "url": "https://open.spotify.com/album/6IZGxiJ8xX249DaqBdr2Ms"
       },
       "artists": [
         {
           "name": "8blevrai",
           "url": "https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D"
+        },
+        {
+          "name": "wherestheplug",
+          "url": "https://open.spotify.com/artist/1GnHdsagr2KE4NG74AUI0K"
         }
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 180000,
-      "name": "Conta su di me",
+      "name": "Conta su di me (feat. Wherestheplug)",
       "url": "https://open.spotify.com/track/2HOYdXG8uznZzprcPkeZpV"
     },
     {
@@ -18704,7 +18708,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 96000,
       "name": "Figlio di Dio",
       "url": "https://open.spotify.com/track/4kkrqJvIou6WOpmQREZ0Qx"
@@ -26070,7 +26074,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 151386,
       "name": "KRIRM",
       "url": "https://open.spotify.com/track/0PupYO4b4ZA8tdihwNCUo9"
@@ -33156,7 +33160,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 243000,
       "name": "Modo",
       "url": "https://open.spotify.com/track/2o0p3cv07zS46ieNAwfKlW"
@@ -38892,6 +38896,32 @@
       "duration_ms": 176774,
       "name": "Parln e me 2",
       "url": "https://open.spotify.com/track/5V6m9meq0QYl5Ri6UdA6u5"
+    },
+    {
+      "album": {
+        "name": "La Divina Commedia",
+        "url": "https://open.spotify.com/album/6V2ux3cV4NA4PWx2g1gm0u"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        },
+        {
+          "name": "SHUNE",
+          "url": "https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251320,
+      "name": "Parole Vuote (La Solitudine)",
+      "url": "https://open.spotify.com/track/4QBfVk60RIBQg1uyox78Kh"
     },
     {
       "album": {
@@ -53558,7 +53588,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 133333,
       "name": "Tupperware 2000",
       "url": "https://open.spotify.com/track/2QiLOpmWMbcck3yMlbxWyP"

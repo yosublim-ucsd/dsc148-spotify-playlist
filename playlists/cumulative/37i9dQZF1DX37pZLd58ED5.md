@@ -4,7 +4,7 @@
 
 > Solo beat e rime avvolgenti\. Cover: Geolier
 
-128 songs - 6 hr 59 min
+129 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Novità \(feat\. Rkomi, Ernia & Tedua\)](https://open.spotify.com/track/0hkY6Je3FYVPCCLZNtPKhH) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Mattoni](https://open.spotify.com/album/1l1cFQQfIbsDDbPavkCosf) | 3:04 | 2022-04-28 |  |
 | [Nuovi Jeans](https://open.spotify.com/track/0N1pKkjhVwKZWFLF47R1tv) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [Real](https://open.spotify.com/album/46DpgdlcIIF9poWbkKmQFc) | 3:29 | 2022-04-28 |  |
 | [PAROLA \- feat\. Lazza, Emis Killa](https://open.spotify.com/track/2tQ7vPjN88wkQl5hSNSbVF) | [Giaime](https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [MULA](https://open.spotify.com/album/3eDMLC0gVgI6K1O9oMc686) | 3:23 | 2022-04-28 |  |
+| [Parole Vuote \(La Solitudine\)](https://open.spotify.com/track/4QBfVk60RIBQg1uyox78Kh) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [La Divina Commedia](https://open.spotify.com/album/6V2ux3cV4NA4PWx2g1gm0u) | 4:11 | 2023-11-28 |  |
 | [PELLE D'OCA \(feat\. Medy\)](https://open.spotify.com/track/2VxS5ZTxvHbYdfiZJeYNbD) | [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ), [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn) | [DON DADA](https://open.spotify.com/album/2Z4OPYzsc9osAGBgHtsPnd) | 2:56 | 2023-03-23 | 2023-04-05 |
 | [Polvere \(feat\. Capo Plaza\)](https://open.spotify.com/track/0ZzXPo0gS5h718w7WErG44) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Chris Nolan](https://open.spotify.com/artist/1xsYReh7zhty26wD4tprKh), [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Vita Vera Mixtape](https://open.spotify.com/album/3TjYHhJBeXCyoG0mmsTZd9) | 4:12 | 2022-04-28 |  |
 | [Prometto \(feat\. Rkomi & Luchè\)](https://open.spotify.com/track/35DgCphwTxRkI2jUec0mWA) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Mattoni](https://open.spotify.com/album/1l1cFQQfIbsDDbPavkCosf) | 3:14 | 2022-04-28 |  |

@@ -4,14 +4,14 @@
 
 > Best acoustic melodies from Bollywood
 
-124 songs - 7 hr 30 min
+125 songs - 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/0lxj1JdpzWwD4uCpje4oy0) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4vEt431lDcAR04hi9ueDGG) | 0:00 | 2023-01-16 | 2023-04-06 |
 | [](https://open.spotify.com/track/0u7ygSdNFcFvHfyGAv4tni) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2VgJOiwvoioEIGAoKdQhHc) | 0:00 | 2022-04-11 | 2023-04-06 |
 | [](https://open.spotify.com/track/1NgRBQQD8ZHy6lv79KyeZO) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6FfNmnl6x2AURdIRKJj925) | 0:00 | 2022-04-11 | 2023-04-06 |
-| [](https://open.spotify.com/track/2N9fRKRit7MEYO4snHENdh) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1t8PvLnsrrGBkBX85kRlG0) | 0:00 | 2023-11-19 |  |
+| [](https://open.spotify.com/track/2N9fRKRit7MEYO4snHENdh) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1t8PvLnsrrGBkBX85kRlG0) | 0:00 | 2023-11-19 | 2023-11-29 |
 | [](https://open.spotify.com/track/3MTWlilqiK53C76seZdL72) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/13qVm7FwkSKg3R3r4Ubupv) | 0:00 | 2023-01-24 | 2023-04-06 |
 | [](https://open.spotify.com/track/3wlzoSWlgVVPDPoEy3c4vk) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/5EZXhncph5lrmQPVmeNxDz) | 0:00 | 2022-04-11 | 2023-04-06 |
 | [](https://open.spotify.com/track/5VPE8OfK0vJOSYtJfydBQa) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4M6bP4cGGmfQHuyT59HdKv) | 0:00 | 2022-04-11 | 2023-04-06 |
@@ -112,6 +112,7 @@
 | [Sham](https://open.spotify.com/track/5Q58RkKyUafm15Syxg79DW) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC), [Neuman Pinto](https://open.spotify.com/artist/6LyiUcIr0wG0mC8E01kyI6) | [Aisha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4h2SfJt00zfnnoQSCuOmkc) | 4:44 | 2022-04-11 |  |
 | [Shayad \(Film Version\) \- From "Love Aaj Kal"](https://open.spotify.com/track/72s1xrc7E27aATdCMbFMC6) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h) | [Shayad \(Film Version\) \[From "Love Aaj Kal"\]](https://open.spotify.com/album/3IbTgvx8roeABgl7i4d2TV) | 4:05 | 2023-08-03 |  |
 | [Shayad \- Reprise](https://open.spotify.com/track/2L2YNB3YIletW4fUtwphDv) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h) | [Love Aaj Kal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6IXfWhC7omotM4lt0ROmEr) | 4:05 | 2023-05-09 |  |
+| [Sunoh \- Reprise](https://open.spotify.com/track/3iRKf1eAQk6I7ncGH98UN7) | [Shillong Chamber Choir](https://open.spotify.com/artist/7gkmvNNfD8KJXAwePUNpDU), [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6), [Javed Akhtar](https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014), [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4), [The Islanders](https://open.spotify.com/artist/13S9FAokOhD3RZeAz6ti4i) | [The Archies \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qHdnDIIyffdF46dwQ4V8i) | 3:07 | 2023-11-28 |  |
 | [Taarefon Se](https://open.spotify.com/track/2uwZSBvQer73esf6tV1wQG) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Dear Zindagi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/29njH6pDF6JE65D2VJbAxW) | 4:38 | 2022-04-11 | 2023-10-13 |
 | [Tere Bin](https://open.spotify.com/track/3F5PXirySr1SjFZWOcSUbS) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Wazir](https://open.spotify.com/album/58UGZt8xJwDCcxZlRCGNws) | 4:04 | 2023-04-05 |  |
 | [Tere Vaaste \(From "Zara Hatke Zara Bachke"\) \- Unplugged](https://open.spotify.com/track/3UPesdwW261UnhOg03Coy7) | [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Tere Vaaste \(From "Zara Hatke Zara Bachke"\) \[Unplugged\]](https://open.spotify.com/album/3p6PTmeOHxfxNaqSFpMAVJ) | 0:55 | 2023-07-06 |  |

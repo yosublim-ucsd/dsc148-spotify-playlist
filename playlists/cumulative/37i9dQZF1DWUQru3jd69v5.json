@@ -3025,6 +3025,24 @@
     },
     {
       "album": {
+        "name": "1998",
+        "url": "https://open.spotify.com/album/32PGcnp7IuxfO715MOt1Fm"
+      },
+      "artists": [
+        {
+          "name": "Il Ghost",
+          "url": "https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156910,
+      "name": "CASA MIA",
+      "url": "https://open.spotify.com/track/06zwqeWycOOEQQhSxp9lQW"
+    },
+    {
+      "album": {
         "name": "CASH",
         "url": "https://open.spotify.com/album/5B02d8FwA8OtjshYLK9QRj"
       },
@@ -3831,20 +3849,24 @@
     },
     {
       "album": {
-        "name": "Conta su di me",
+        "name": "Conta su di me (feat. Wherestheplug)",
         "url": "https://open.spotify.com/album/6IZGxiJ8xX249DaqBdr2Ms"
       },
       "artists": [
         {
           "name": "8blevrai",
           "url": "https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D"
+        },
+        {
+          "name": "wherestheplug",
+          "url": "https://open.spotify.com/artist/1GnHdsagr2KE4NG74AUI0K"
         }
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 180000,
-      "name": "Conta su di me",
+      "name": "Conta su di me (feat. Wherestheplug)",
       "url": "https://open.spotify.com/track/2HOYdXG8uznZzprcPkeZpV"
     },
     {
@@ -9820,7 +9842,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 157241,
       "name": "Masri (feat. ZiYou)",
       "url": "https://open.spotify.com/track/1hfd9La1uFtxQAY9OzDVBL"

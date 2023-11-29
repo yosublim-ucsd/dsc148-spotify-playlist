@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Pepe Aguilar y Aleks Syntek en portada.",
-  "num_followers": 78657,
+  "num_followers": 78741,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODliZmRjZTZjMzA0ZDEyYTRmZDE3ZDZjYzk0MzlmYTgxOTljYmYy",
+  "snapshot_id": "MCwwMTQyZGRiOGNhZDI4Y2ZkOTYxMmIwMzU4NjRlYjJmNDUyNGY0MTNl",
   "tracks": [
     {
       "added_at": "2023-11-17 06:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-10-27 00:00:00",
       "album": {
-        "name": "Bien Por Ti",
-        "url": "https://open.spotify.com/album/7E0TeYo5ebKzkUzxP1NhX5"
-      },
-      "artists": [
-        {
-          "name": "Sofia Castro",
-          "url": "https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw"
-        }
-      ],
-      "duration_ms": 154653,
-      "name": "Bien Por Ti",
-      "url": "https://open.spotify.com/track/7LWhpOibaXbJNSgQaTPmgG"
-    },
-    {
-      "added_at": "2023-10-27 00:00:00",
-      "album": {
         "name": "Para No Verte M\u00e1s",
         "url": "https://open.spotify.com/album/1Eb2dpFYN6id1FcmTxqJtG"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 197036,
       "name": "Para No Verte M\u00e1s",
       "url": "https://open.spotify.com/track/2HH06rHCyra4vLcdZkdN4d"
+    },
+    {
+      "added_at": "2023-10-27 00:00:00",
+      "album": {
+        "name": "Bien Por Ti",
+        "url": "https://open.spotify.com/album/7E0TeYo5ebKzkUzxP1NhX5"
+      },
+      "artists": [
+        {
+          "name": "Sofia Castro",
+          "url": "https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw"
+        }
+      ],
+      "duration_ms": 154653,
+      "name": "Bien Por Ti",
+      "url": "https://open.spotify.com/track/7LWhpOibaXbJNSgQaTPmgG"
     },
     {
       "added_at": "2023-10-27 00:00:00",

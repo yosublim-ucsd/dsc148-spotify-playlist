@@ -4,7 +4,7 @@
 
 > To all the 7abieb out there\. Cover: Elissa.
 
-126 songs - 7 hr 51 min
+127 songs - 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Aleb Albi](https://open.spotify.com/track/6bAxVlbpLFTSJLN43ZJlnG) | [Karim Nour](https://open.spotify.com/artist/5HArEmaE0ebTGJnUpurfIo) | [Aleb Albi](https://open.spotify.com/album/7HfokPRIquEjkWqEKuq6jp) | 3:39 | 2022-05-04 | 2022-07-29 |
 | [Aleky Eyoun](https://open.spotify.com/track/5kQCI3faUHASM28R91ksUY) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Aleky Eyoun](https://open.spotify.com/album/78SzkM05ePjjFN1PNBurUh) | 3:29 | 2022-10-23 |  |
 | [Alo Aleky](https://open.spotify.com/track/0St4yTM6hCeEmguD3Orcrt) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Alo Aleky](https://open.spotify.com/album/28bpAuTZGKxqTuy38Ndfj9) | 2:58 | 2023-09-25 | 2023-11-25 |
-| [Alo Aleky](https://open.spotify.com/track/0zzrAsIPYKENTWOwZqYjYp) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Alo Aleky](https://open.spotify.com/album/0PpvOrpEHnxaxmzdrrpm26) | 2:58 | 2023-05-01 |  |
+| [Alo Aleky](https://open.spotify.com/track/0qC4KxOmWoSaMqwj9rHp49) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Alo Aleky](https://open.spotify.com/album/5vK51kHNYyuHEz3Ikftc7I) | 2:58 | 2023-09-25 |  |
+| [Alo Aleky](https://open.spotify.com/track/0zzrAsIPYKENTWOwZqYjYp) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Alo Aleky](https://open.spotify.com/album/0PpvOrpEHnxaxmzdrrpm26) | 2:58 | 2023-05-01 | 2023-11-29 |
 | [Ana Ma Eli Bel Hob](https://open.spotify.com/track/4InbkXONCQEquF9nzmliqY) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz) | [Ana Ma Eli Bel Hob](https://open.spotify.com/album/6xJlefnJuMfbJ22uIKvvvT) | 3:47 | 2023-03-16 |  |
 | [Ana Ma Eli Bel Hob](https://open.spotify.com/track/5XktHAcLW0fBktTrRn8c1E) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz) | [Ana Ma Eli Bel Hob](https://open.spotify.com/album/2Ih5PWFSiO6fDcpN4wORB9) | 3:47 | 2022-05-04 | 2023-04-01 |
 | [Ana Maik](https://open.spotify.com/track/2QRylGpN3j7IoeKJIjzEUL) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Kezbi Wara Kezbi](https://open.spotify.com/album/5IDD7PswwV5qS3u17fIIEG) | 3:15 | 2023-08-21 | 2023-08-25 |

@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 50s! Cover:  P\u00e9rez Prado",
-  "num_followers": 27430,
+  "num_followers": 27443,
   "original_name": "50s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjY4MzY1NDE5YmRkZWE5Y2JmZGRkMDE1ODYwNjkyMjlkNjU0MjA3",
+  "snapshot_id": "MCxiZDc5NGNlMGI4NjQxOTBhNDMwZjI3MGRkYmI3MTVkZTI2MTg5MGQx",
   "tracks": [
     {
       "added_at": "2023-02-17 20:56:35",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
-        "name": "Cita Con Luis Arcaraz",
-        "url": "https://open.spotify.com/album/2yhhV6GIC9dLiSJ0olcUdE"
-      },
-      "artists": [
-        {
-          "name": "Luis Arcaraz Y Su Orquesta",
-          "url": "https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg"
-        }
-      ],
-      "duration_ms": 197373,
-      "name": "Viajera",
-      "url": "https://open.spotify.com/track/3Nsn3y2IpzcuDIKZDgS3oS"
-    },
-    {
-      "added_at": "2023-02-17 20:56:35",
-      "album": {
         "name": "Dance Mania Vol.1",
         "url": "https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 155693,
       "name": "El Cayuco",
       "url": "https://open.spotify.com/track/3j05qtcQlRIVF0a2DOoO68"
+    },
+    {
+      "added_at": "2023-02-17 20:56:35",
+      "album": {
+        "name": "Cita Con Luis Arcaraz",
+        "url": "https://open.spotify.com/album/2yhhV6GIC9dLiSJ0olcUdE"
+      },
+      "artists": [
+        {
+          "name": "Luis Arcaraz Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg"
+        }
+      ],
+      "duration_ms": 197373,
+      "name": "Viajera",
+      "url": "https://open.spotify.com/track/3Nsn3y2IpzcuDIKZDgS3oS"
     },
     {
       "added_at": "2023-02-17 20:56:35",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
+        "name": "Los 5 Latinos (Singles Collection)",
+        "url": "https://open.spotify.com/album/1973kRaYyDe5rJeRAvQHQ6"
+      },
+      "artists": [
+        {
+          "name": "Los 5 Latinos",
+          "url": "https://open.spotify.com/artist/7aZR9nyaShysVN1JyGoPsA"
+        }
+      ],
+      "duration_ms": 116400,
+      "name": "Como Antes",
+      "url": "https://open.spotify.com/track/3ND2X5ewlEMOnuzvsvi71w"
+    },
+    {
+      "added_at": "2023-02-17 20:56:35",
+      "album": {
         "name": "His 28 Greatest Hits",
         "url": "https://open.spotify.com/album/0le6lAknFh1BF6GZ3GSTon"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 181506,
       "name": "El Boogie de la Guitarra",
       "url": "https://open.spotify.com/track/7H0I6Bei1kYYjGk8JTqSwT"
-    },
-    {
-      "added_at": "2023-02-17 20:56:35",
-      "album": {
-        "name": "Los 5 Latinos (Singles Collection)",
-        "url": "https://open.spotify.com/album/1973kRaYyDe5rJeRAvQHQ6"
-      },
-      "artists": [
-        {
-          "name": "Los 5 Latinos",
-          "url": "https://open.spotify.com/artist/7aZR9nyaShysVN1JyGoPsA"
-        }
-      ],
-      "duration_ms": 116400,
-      "name": "Como Antes",
-      "url": "https://open.spotify.com/track/3ND2X5ewlEMOnuzvsvi71w"
     },
     {
       "added_at": "2023-02-17 20:56:35",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
-        "name": "Cuban Carnival",
-        "url": "https://open.spotify.com/album/0xIAUeelYazwvkKeY4NEYS"
-      },
-      "artists": [
-        {
-          "name": "Tito Puente & His Orchestra",
-          "url": "https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1"
-        }
-      ],
-      "duration_ms": 167506,
-      "name": "Cha-Cha De Pollos (Cha-Cha for Chicks)",
-      "url": "https://open.spotify.com/track/69M6PgRULo02mZYzsN7fq5"
-    },
-    {
-      "added_at": "2023-02-17 20:56:35",
-      "album": {
         "name": "Lola Beltr\u00e1n en Concierto: 15 Aniversario, En Vivo en el Palacio de Bellas Artes 1976 y en el Teatro Olympia de Paris",
         "url": "https://open.spotify.com/album/094POuqSlcB4gYOwnw4N9K"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 191426,
       "name": "Tu Castigo",
       "url": "https://open.spotify.com/track/1TBn1IZC0Aj9weRj0HsKFQ"
+    },
+    {
+      "added_at": "2023-02-17 20:56:35",
+      "album": {
+        "name": "Cuban Carnival",
+        "url": "https://open.spotify.com/album/0xIAUeelYazwvkKeY4NEYS"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente & His Orchestra",
+          "url": "https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1"
+        }
+      ],
+      "duration_ms": 167506,
+      "name": "Cha-Cha De Pollos (Cha-Cha for Chicks)",
+      "url": "https://open.spotify.com/track/69M6PgRULo02mZYzsN7fq5"
     },
     {
       "added_at": "2023-02-17 20:56:35",

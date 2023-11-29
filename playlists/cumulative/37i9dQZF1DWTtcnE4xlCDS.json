@@ -4151,6 +4151,36 @@
     },
     {
       "album": {
+        "name": "Zankoku Reml",
+        "url": "https://open.spotify.com/album/4b8jjFamUO57vBLQpnsjQm"
+      },
+      "artists": [
+        {
+          "name": "\u771f\u65b0\u5bbfGR\u5b66\u5712",
+          "url": "https://open.spotify.com/artist/05W3IYfntUTen1kfrsHY0N"
+        },
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "Shogo Nomura [BNSI]",
+          "url": "https://open.spotify.com/artist/27qFVObzkSkdHWoxUydH7C"
+        },
+        {
+          "name": "\u308a\u3080\u308b (CV: \u3092\u3068\u306f)",
+          "url": "https://open.spotify.com/artist/5trPMTBMzwq4ZCACvjAl77"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221253,
+      "name": "Zankoku Reml",
+      "url": "https://open.spotify.com/track/5G9ply5S2J6Iynlj6NPZRK"
+    },
+    {
+      "album": {
         "name": "\u3044\u305f\u3060\u304d\u30d0\u30d9\u30eb (Aiobahn Remix)",
         "url": "https://open.spotify.com/album/6tFad3cyOcWJNfouUeWx6E"
       },

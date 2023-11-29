@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvFcCTKoddA.md) - [plain]
 
 > Découvrez les créateurs de demain.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,477 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 5,478 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `MCwyMDJmZmVjOTE1NjY3NDFkYWRiM2U3MzA0MDJmMDI1MzNkYTA2Nzc3`
+Snapshot ID: `MCwxMjZmMzNkMTBiZDEzZmRiZDgxZDQ0ZWU2M2FhNmI4N2NhNjMzZDZl`

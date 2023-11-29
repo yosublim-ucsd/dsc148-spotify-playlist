@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 
 > Le meilleur du rap français version cloud\. Photo : joysad
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,708 likes - 40 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,730 likes - 40 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 | 9 | [mayday](https://open.spotify.com/track/6Ax8LuViU7B5YrJBX8V8oe) | [LVZ](https://open.spotify.com/artist/7B8kPWR00p96IXVH6u4zrf) | [SOUS L'AVERSE](https://open.spotify.com/album/2kQVXn6S6Dk7KOs5UCbjGZ) | 2:19 |
 | 10 | [Si tu savais](https://open.spotify.com/track/3TWnM57OZnvqz6aVWu5l5e) | [mademoiselle lou](https://open.spotify.com/artist/4CJClbpfpLi7UET4Nq1r3N) | [Si tu savais](https://open.spotify.com/album/2WSYOicKVLU5SDaZ5VnB8K) | 2:25 |
 | 11 | [THÉRAPIE](https://open.spotify.com/track/410PptAEZCpF56YJBxgDIQ) | [GR OMEGA](https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ) | [ICARE](https://open.spotify.com/album/0fOl6xbizjCOl1Hl2eCgMM) | 3:05 |
-| 12 | [AVANT TOI](https://open.spotify.com/track/60ouY0tuiKBPMCP0iZStJS) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6) | [SUN7](https://open.spotify.com/album/77mTEOKxs8H61K4wZiJWFk) | 2:51 |
+| 12 | [AVANT TOI](https://open.spotify.com/track/5x4cFSRsvdCdizLzK8FZXs) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6) | [SUN7](https://open.spotify.com/album/07IfuWJbMzAw6cTie8Wyu0) | 2:51 |
 | 13 | [J'connais](https://open.spotify.com/track/0qXimz42wMirNPwbOuXPuN) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [ALPHA](https://open.spotify.com/album/6mHX3onyNT2xYveguxhrDm) | 2:27 |
 | 14 | [Saudade](https://open.spotify.com/track/1euiSBqrrv34yTtHIJwTT7) | [Django](https://open.spotify.com/artist/5gU8eqolA1bziWv6e3Wjp3) | [Saudade](https://open.spotify.com/album/0K5d2mb8sn9RszeoWxJ0N6) | 2:35 |
 | 15 | [nebula](https://open.spotify.com/track/4dWQt09nlBLh34No9tNA5o) | [Ashh](https://open.spotify.com/artist/4YUcg2ee9TxMNdjhAxzZBF) | [nebula](https://open.spotify.com/album/4FNFa5X1j7FhS3IRchDgqm) | 3:30 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 | 39 | [MAL](https://open.spotify.com/track/1kaCrC3OD8nZF1MLKik7Td) | [Chat noir](https://open.spotify.com/artist/7ikmRMoCZRg3DNAzG0tAN8) | [MAL](https://open.spotify.com/album/37z6z2yjoIDEDBezztDN3G) | 3:54 |
 | 40 | [Vide](https://open.spotify.com/track/20jeEnFijJd4tRAtcww0tl) | [Sicario](https://open.spotify.com/artist/0ajjnGmVt2aVGD70lDbVl6) | [Vide](https://open.spotify.com/album/5j0mtAW5OGpVv7vO7MfEOF) | 3:18 |
 
-Snapshot ID: `MCw2YWRiM2EwOGEwOTFlODdlZjkwN2ExNDhjZWRiNmMzZGE5YzcyNDAz`
+Snapshot ID: `MCwxM2FiYjJjYzUyZTYyNzdmMzI3NTA1MjRjNjM1MDM3OTgxZmZiN2Yx`

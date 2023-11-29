@@ -1,12 +1,12 @@
 {
   "description": "Pas mal \"tes tounes de karaok\u00e9 pr\u00e9f\u00e9r\u00e9es\".",
-  "num_followers": 27947,
+  "num_followers": 27961,
   "original_name": "Fromage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NGFmZTY3MGRmNjdiZmU0NWM2ODc0YTVlNDU4YmQwNjkzMWUyNTdk",
+  "snapshot_id": "MCxlODYwYTAzY2MwNjJkMTNhOTcyZjU4N2FhMDA0YmYwY2NjNWY5MGY5",
   "tracks": [
     {
       "added_at": "2020-04-07 15:18:18",
@@ -383,22 +383,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Lapointe 1994-2006 N'importe qui",
-        "url": "https://open.spotify.com/album/4EOQXoXxZI0XYTB1in1Ivk"
-      },
-      "artists": [
-        {
-          "name": "\u00c9ric Lapointe",
-          "url": "https://open.spotify.com/artist/3fzExoQtGmGs8w7ba2nTJc"
-        }
-      ],
-      "duration_ms": 246333,
-      "name": "La bartendresse",
-      "url": "https://open.spotify.com/track/6gIGvgL9rcRhldbaVFTaaW"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Aime-moi",
         "url": "https://open.spotify.com/album/3x5aI6oO3eoUSVzi9XsjMT"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 250973,
       "name": "Aime moi",
       "url": "https://open.spotify.com/track/2EUITdSOgkQvddobT5veE6"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Lapointe 1994-2006 N'importe qui",
+        "url": "https://open.spotify.com/album/4EOQXoXxZI0XYTB1in1Ivk"
+      },
+      "artists": [
+        {
+          "name": "\u00c9ric Lapointe",
+          "url": "https://open.spotify.com/artist/3fzExoQtGmGs8w7ba2nTJc"
+        }
+      ],
+      "duration_ms": 246333,
+      "name": "La bartendresse",
+      "url": "https://open.spotify.com/track/6gIGvgL9rcRhldbaVFTaaW"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -1152,9 +1152,9 @@
           "url": "https://open.spotify.com/artist/7mj0ykOd4nU43TFvJobbyq"
         }
       ],
-      "duration_ms": 206893,
-      "name": "Lavez, lavez",
-      "url": "https://open.spotify.com/track/3AgSdVZqt0IC6p8MvkV88z"
+      "duration_ms": 227000,
+      "name": "Je ne sais plus comment je m'appelle",
+      "url": "https://open.spotify.com/track/1HxaNnYOPR4J8Vl1GyujGP"
     },
     {
       "added_at": "2020-04-07 15:18:18",

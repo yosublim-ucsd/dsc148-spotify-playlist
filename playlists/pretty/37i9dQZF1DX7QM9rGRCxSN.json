@@ -1,12 +1,12 @@
 {
   "description": "Belleza y distorsi\u00f3n imaginada por bandas iberoamericanas. Estrella del Sol en portada.",
-  "num_followers": 28312,
+  "num_followers": 28320,
   "original_name": "Shoegaze & Dreampop en espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZGQ2MWI2MzYzYzFhMmJkNGZjNDVmMDNkZDJjNmEzNDAyZjVkMzg1",
+  "snapshot_id": "MCw1ZTY3MDdjMTljNWMwNzM2YjgyN2Q0OTIzNmRlNWQyNjgxOGNiNTFh",
   "tracks": [
     {
       "added_at": "2023-09-03 23:24:36",
@@ -411,18 +411,18 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Sentimiento Mundial",
-        "url": "https://open.spotify.com/album/5l42UGler5fwv207TkXYtI"
+        "name": "Fuera de Lugar",
+        "url": "https://open.spotify.com/album/1m5YP0jEENVLbhbNJuZCWO"
       },
       "artists": [
         {
-          "name": "Mint Field",
-          "url": "https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz"
+          "name": "Myun\u00e9",
+          "url": "https://open.spotify.com/artist/3LnFaKCLO8uhqBf2VITWGT"
         }
       ],
-      "duration_ms": 178146,
-      "name": "Delicadeza",
-      "url": "https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g"
+      "duration_ms": 283000,
+      "name": "Boni Nait\u00f3",
+      "url": "https://open.spotify.com/track/3GVI5TbNvYLj70ws5ZPFcW"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -443,6 +443,22 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
+        "name": "Sentimiento Mundial",
+        "url": "https://open.spotify.com/album/5l42UGler5fwv207TkXYtI"
+      },
+      "artists": [
+        {
+          "name": "Mint Field",
+          "url": "https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz"
+        }
+      ],
+      "duration_ms": 178146,
+      "name": "Delicadeza",
+      "url": "https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
         "name": "Sintetica",
         "url": "https://open.spotify.com/album/6D2b3pORKyOOwZwJ4InjXe"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 273493,
       "name": "Mil Espejos",
       "url": "https://open.spotify.com/track/5W7CsTIjb4LNKujDtqutGc"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
-        "name": "Fuera de Lugar",
-        "url": "https://open.spotify.com/album/1m5YP0jEENVLbhbNJuZCWO"
-      },
-      "artists": [
-        {
-          "name": "Myun\u00e9",
-          "url": "https://open.spotify.com/artist/3LnFaKCLO8uhqBf2VITWGT"
-        }
-      ],
-      "duration_ms": 283000,
-      "name": "Boni Nait\u00f3",
-      "url": "https://open.spotify.com/track/3GVI5TbNvYLj70ws5ZPFcW"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -815,22 +815,18 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Morning Sun",
-        "url": "https://open.spotify.com/album/5ASteoHCRzSBltEuaP1kmh"
+        "name": "Estrella Fugaz",
+        "url": "https://open.spotify.com/album/1zlpHqJLyYmfqzSOytAT5D"
       },
       "artists": [
         {
-          "name": "Karen y Los Remedios",
-          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
-        },
-        {
-          "name": "Z.A.M.P.A",
-          "url": "https://open.spotify.com/artist/2Om6U6DwLuSX7WTVC9Nce2"
+          "name": "Se\u00f1or Kino",
+          "url": "https://open.spotify.com/artist/2W0kFBz6nHARNF7A5KlWYG"
         }
       ],
-      "duration_ms": 267019,
-      "name": "Morning Sun",
-      "url": "https://open.spotify.com/track/5ObGH4iynfz5WQ8KJAYpbZ"
+      "duration_ms": 262955,
+      "name": "Estrella Fugaz",
+      "url": "https://open.spotify.com/track/3ksdl0YWfOTHAReDo9lkYa"
     }
   ],
   "unique_name": "Shoegaze & Dreampop en espa\u00f1ol",

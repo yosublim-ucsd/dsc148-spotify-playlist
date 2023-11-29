@@ -4,7 +4,7 @@
 
 > Introducing the Fresh Finds Class of 2021\. Editors' picks of the top Fresh Finds this year\. Cover: Pom Pom Squad, Araya, TOLEDO\. Artwork: Isu Kim
 
-184 songs - 9 hr 35 min
+186 songs - 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Crush](https://open.spotify.com/track/2O1bAhJCHW0E3uuoWzRrGi) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Inbred](https://open.spotify.com/album/1Q4UcRCYPn6u0pNHioOYjs) | 3:24 | 2021-12-01 | 2022-10-14 |
 | [Crush](https://open.spotify.com/track/78sdhV2qA9aFFzwhPdEQh5) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Inbred](https://open.spotify.com/album/0gAyvJCgGfm5AqcRvAV3Ob) | 3:24 | 2021-12-01 | 2023-10-13 |
 | [Crying](https://open.spotify.com/track/5ZVlnixH0HeB6igKEkoO9f) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Death of a Cheerleader](https://open.spotify.com/album/0iSh2sXytE5jbpPiKts3z4) | 3:09 | 2021-12-01 |  |
-| [D's](https://open.spotify.com/track/4CwI0ZjiMaW3F7B70iE43Y) | [FUGAZZIFLO](https://open.spotify.com/artist/2Y6KxvXlcHMQ2E3K9SOjYa), [JAHMED](https://open.spotify.com/artist/0VvNvCZj4gZJZVsnIm99GJ) | [D's](https://open.spotify.com/album/5usCGqChw84MfT09Un7kT1) | 2:42 | 2021-12-01 |  |
+| [D's](https://open.spotify.com/track/34CiNFFZwAAkXmwxjOA78A) | [FUGAZZIFLO](https://open.spotify.com/artist/2Y6KxvXlcHMQ2E3K9SOjYa), [JAHMED](https://open.spotify.com/artist/0VvNvCZj4gZJZVsnIm99GJ) | [D's](https://open.spotify.com/album/49Wa3dDT09LqCJH2HsCMJE) | 2:42 | 2021-12-01 |  |
+| [D's](https://open.spotify.com/track/4CwI0ZjiMaW3F7B70iE43Y) | [FUGAZZIFLO](https://open.spotify.com/artist/2Y6KxvXlcHMQ2E3K9SOjYa), [JAHMED](https://open.spotify.com/artist/0VvNvCZj4gZJZVsnIm99GJ) | [D's](https://open.spotify.com/album/5usCGqChw84MfT09Un7kT1) | 2:42 | 2021-12-01 | 2023-11-29 |
 | [David](https://open.spotify.com/track/0VHS1bzjUYPQUUdsveukVU) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [David](https://open.spotify.com/album/2IE0DyI3VpGaW9JsgdLL4f) | 3:05 | 2021-12-01 |  |
 | [Deep Blue](https://open.spotify.com/track/1c6xkwwhc0T5JdU2oiTFkH) | [Donkey Kid](https://open.spotify.com/artist/2FJBOBjXqWC5s3kDfs9nY4) | [Deep Blue](https://open.spotify.com/album/7f9VlhNeNi5zc0URre6H6I) | 2:58 | 2021-12-01 |  |
 | [Desert Star](https://open.spotify.com/track/4uiF1V2eIPSMgR2V4smhCC) | [Ruby Red](https://open.spotify.com/artist/2f0NSj1t2L6JowHINXCFb6) | [Desert Star](https://open.spotify.com/album/68dJWfmQ7tPR3hXiWGIqCt) | 3:44 | 2021-12-01 |  |
@@ -142,8 +143,9 @@
 | [Reverie](https://open.spotify.com/track/3SliuInyApsQsaDwCDbbvY) | [Beautify Junkyards](https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl) | [Cosmorama](https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq) | 4:18 | 2021-12-01 |  |
 | [Right](https://open.spotify.com/track/19Ws0pVsWp8VTwvvL9SBtR) | [Bri Feel](https://open.spotify.com/artist/2bFe43J9gVry0s8sNN8Jet) | [Right](https://open.spotify.com/album/6VLiJ8APTZg8Em7CImHVdY) | 4:16 | 2021-12-01 | 2023-02-15 |
 | [Right](https://open.spotify.com/track/4Z8uv43ji1zuzKxDzOR1DS) | [Bri Feel](https://open.spotify.com/artist/2bFe43J9gVry0s8sNN8Jet) | [Right](https://open.spotify.com/album/0qJFv1XxVA41TaqVy29ZmE) | 4:16 | 2021-12-01 |  |
-| [Right Where You Like](https://open.spotify.com/track/1ubWQBaUVvBw764iEL4DJ8) | [Andrea Chahayed](https://open.spotify.com/artist/2V6GNbrXanLBlMLCx5nXZN) | [Right Where You Like](https://open.spotify.com/album/6Cf5UqRWaCMu9WJwMDtq2W) | 2:52 | 2021-12-01 |  |
+| [Right Where You Like](https://open.spotify.com/track/1ubWQBaUVvBw764iEL4DJ8) | [Andrea Chahayed](https://open.spotify.com/artist/2V6GNbrXanLBlMLCx5nXZN) | [Right Where You Like](https://open.spotify.com/album/6Cf5UqRWaCMu9WJwMDtq2W) | 2:52 | 2021-12-01 | 2023-11-29 |
 | [Right Where You Like](https://open.spotify.com/track/4ZxwGZzFXsXBhmpddnnrql) | [Andrea Chahayed](https://open.spotify.com/artist/2V6GNbrXanLBlMLCx5nXZN) | [Right Where You Like](https://open.spotify.com/album/16JcuVXVJSpyRYr55MSp0d) | 2:52 | 2021-12-01 | 2022-12-10 |
+| [Right Where You Like](https://open.spotify.com/track/6VyanxTR6dbEUFbGTxDFYI) | [Andrea Chahayed](https://open.spotify.com/artist/2V6GNbrXanLBlMLCx5nXZN) | [Right Where You Like](https://open.spotify.com/album/3XhEQFYmd9NRzzhHYfaM8T) | 2:52 | 2021-12-01 |  |
 | [Right Where You Like](https://open.spotify.com/track/7IoZZURqAsM3luroL55gG8) | [Andrea Chahayed](https://open.spotify.com/artist/2V6GNbrXanLBlMLCx5nXZN) | [Right Where You Like](https://open.spotify.com/album/0Qg0coUk5hJTJRHnultu4u) | 2:52 | 2021-12-01 | 2023-03-10 |
 | [Saltos de Realidade](https://open.spotify.com/track/2AXZSybVqhbRbRuI7aGO19) | [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu) | [Bebé](https://open.spotify.com/album/6JAI4RgT7MCp8tEoKTwmKB) | 3:12 | 2021-12-01 |  |
 | [Second hand embarrassment](https://open.spotify.com/track/1PEPcLm2QEo0HCRIhQjPq1) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [fishmonger](https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g) | 2:17 | 2021-12-01 |  |

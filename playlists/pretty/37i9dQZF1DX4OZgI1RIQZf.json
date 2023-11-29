@@ -1,12 +1,12 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 79086,
+  "num_followers": 79126,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzU1ZDMwNTY1ZmRiODgxODFlNzk4ZmQ4YTQ4ZDdmNmNkZjFmODgz",
+  "snapshot_id": "MCxiZDY5NjY0MGRmMTcxNTdlZmEyNGIwY2U0ODdmMGU4MzExNjI1Yzkz",
   "tracks": [
     {
       "added_at": "2023-10-27 07:45:00",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 191800,
-      "name": "Howlin' for You",
-      "url": "https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "The Smiths",
         "url": "https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 223253,
       "name": "Pretty Girls Make Graves - 2011 Remaster",
       "url": "https://open.spotify.com/track/3wUMcPzXcmaeW8QxTdyXQO"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 191800,
+      "name": "Howlin' for You",
+      "url": "https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Brain Drain",
-        "url": "https://open.spotify.com/album/5UpjwoQrnySbzFDUbtS74d"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "Pet Sematary",
-      "url": "https://open.spotify.com/track/2PN0JeaGtkHrlcmwZFWzBM"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "To Lose My Life... (Bonus remix version)",
         "url": "https://open.spotify.com/album/4A8HMvPUKHOxvTlsrPeNKh"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 191040,
       "name": "To Lose My Life",
       "url": "https://open.spotify.com/track/2W4R6zrp1lLWtMXCJLA98H"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "Brain Drain",
+        "url": "https://open.spotify.com/album/5UpjwoQrnySbzFDUbtS74d"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "Pet Sematary",
+      "url": "https://open.spotify.com/track/2PN0JeaGtkHrlcmwZFWzBM"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Get Behind Me Satan",
-        "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 138893,
-      "name": "Little Ghost",
-      "url": "https://open.spotify.com/track/1S7QP5JYv6IuHGoQsOXzwR"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "Dead Man's Bones",
         "url": "https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 270986,
       "name": "My Body's a Zombie For You",
       "url": "https://open.spotify.com/track/14Vua5sMxKiPDcRS5pmoYW"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "Get Behind Me Satan",
+        "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 138893,
+      "name": "Little Ghost",
+      "url": "https://open.spotify.com/track/1S7QP5JYv6IuHGoQsOXzwR"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Noise Floor (Rarities: 1998-2005)",
-        "url": "https://open.spotify.com/album/4ks71ffhGPem4EPQEyGj1D"
-      },
-      "artists": [
-        {
-          "name": "Bright Eyes",
-          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
-        }
-      ],
-      "duration_ms": 183240,
-      "name": "Devil Town",
-      "url": "https://open.spotify.com/track/4eJ6pWefeAQjpMKTY6bwXV"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "Dead Man's Bones",
         "url": "https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 180186,
       "name": "Dead Man's Bones",
       "url": "https://open.spotify.com/track/6vLgqz7K77h0kRraU31R5x"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "Noise Floor (Rarities: 1998-2005)",
+        "url": "https://open.spotify.com/album/4ks71ffhGPem4EPQEyGj1D"
+      },
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+        }
+      ],
+      "duration_ms": 183240,
+      "name": "Devil Town",
+      "url": "https://open.spotify.com/track/4eJ6pWefeAQjpMKTY6bwXV"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "A Quick One (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6f4mqM3RNAfO1t6XeeUa8P"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 149533,
-      "name": "Boris The Spider - Mono Version",
-      "url": "https://open.spotify.com/track/1S0F285e5h5BNI2gJAmPqe"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "Screen Violence",
         "url": "https://open.spotify.com/album/0Q6KFth9qxni5rsmqtcTKO"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 269640,
       "name": "Final Girl",
       "url": "https://open.spotify.com/track/0VlPGhSbjizh04pgE36FUb"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "A Quick One (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6f4mqM3RNAfO1t6XeeUa8P"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 149533,
+      "name": "Boris The Spider - Mono Version",
+      "url": "https://open.spotify.com/track/1S0F285e5h5BNI2gJAmPqe"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
+        "name": "By Default",
+        "url": "https://open.spotify.com/album/7uIZLgnTNZEJ1d0iO0qvEo"
+      },
+      "artists": [
+        {
+          "name": "Band Of Skulls",
+          "url": "https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG"
+        }
+      ],
+      "duration_ms": 168936,
+      "name": "Black Magic",
+      "url": "https://open.spotify.com/track/6qWbdBTcF2u7zvSXLxKRZx"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
         "name": "Bad Moon Rising",
         "url": "https://open.spotify.com/album/5qZwFWvjfQF6uqrtMaCbO6"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 184893,
       "name": "Highly Suspicious",
       "url": "https://open.spotify.com/track/5TF4OlQZ2vD7qWinHDfO1j"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
-        "name": "By Default",
-        "url": "https://open.spotify.com/album/7uIZLgnTNZEJ1d0iO0qvEo"
-      },
-      "artists": [
-        {
-          "name": "Band Of Skulls",
-          "url": "https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG"
-        }
-      ],
-      "duration_ms": 168936,
-      "name": "Black Magic",
-      "url": "https://open.spotify.com/track/6qWbdBTcF2u7zvSXLxKRZx"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Veronica Falls",
-        "url": "https://open.spotify.com/album/14vFC84BzjOc8Ud9ga0vFi"
-      },
-      "artists": [
-        {
-          "name": "Veronica Falls",
-          "url": "https://open.spotify.com/artist/0mgbAj6btHW215UxhLq1AV"
-        }
-      ],
-      "duration_ms": 239066,
-      "name": "Found Love in a Graveyard",
-      "url": "https://open.spotify.com/track/6o1oknbpGILs6eG8q3j8vV"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "Rest Now, Weary Head! You Will Get Well Soon",
         "url": "https://open.spotify.com/album/48ypMHut6U8zn4AQlJdtcF"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 239866,
       "name": "Witches! Witches! Rest Now in the Fire",
       "url": "https://open.spotify.com/track/7a6SaJ71Kwn1caXPAY3OsB"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "Veronica Falls",
+        "url": "https://open.spotify.com/album/14vFC84BzjOc8Ud9ga0vFi"
+      },
+      "artists": [
+        {
+          "name": "Veronica Falls",
+          "url": "https://open.spotify.com/artist/0mgbAj6btHW215UxhLq1AV"
+        }
+      ],
+      "duration_ms": 239066,
+      "name": "Found Love in a Graveyard",
+      "url": "https://open.spotify.com/track/6o1oknbpGILs6eG8q3j8vV"
     },
     {
       "added_at": "2023-10-27 07:45:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-10-27 07:45:00",
       "album": {
-        "name": "Dark and Stormy",
-        "url": "https://open.spotify.com/album/7beMB0mRNOgPfrCyNlhXmk"
-      },
-      "artists": [
-        {
-          "name": "Hot Chip",
-          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
-        }
-      ],
-      "duration_ms": 295840,
-      "name": "Dark and Stormy",
-      "url": "https://open.spotify.com/track/5o45wuK2lhBcwR3fSnakXL"
-    },
-    {
-      "added_at": "2023-10-27 07:45:00",
-      "album": {
         "name": "Whip It On",
         "url": "https://open.spotify.com/album/1beQ4oVlpOV8hr8WIoUouF"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 150293,
       "name": "Attack of the Ghost Riders",
       "url": "https://open.spotify.com/track/39us5jxLPBBrBMqCx8crY7"
+    },
+    {
+      "added_at": "2023-10-27 07:45:00",
+      "album": {
+        "name": "Dark and Stormy",
+        "url": "https://open.spotify.com/album/7beMB0mRNOgPfrCyNlhXmk"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        }
+      ],
+      "duration_ms": 295840,
+      "name": "Dark and Stormy",
+      "url": "https://open.spotify.com/track/5o45wuK2lhBcwR3fSnakXL"
     },
     {
       "added_at": "2023-10-27 07:45:00",

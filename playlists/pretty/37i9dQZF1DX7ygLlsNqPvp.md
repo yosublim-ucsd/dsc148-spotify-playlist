@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 
 > The most intense local drill music firing up the continent\. Cover:  <a href="https://open.spotify.com/artist/05wqlCGQReohsxStVBR052?si=7P7nx9OfTmOxHU1QC3j4IQ"> Pappy Kojo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,879 likes - 53 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,897 likes - 53 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 | 6 | [Benzo](https://open.spotify.com/track/3hPcNThRzQXeAKEAENbigw) | [Dj Adwoa](https://open.spotify.com/artist/3JfFJpaSpXYHQKivBzJhZ1), [Malcolm Nuna](https://open.spotify.com/artist/5MMirduKxjz3OQSLiQfBcT) | [Benzo](https://open.spotify.com/album/0Aci22BAMAs616RwXIVSk1) | 2:47 |
 | 7 | [Yaa Baby](https://open.spotify.com/track/4qSEMCwQCvv2BTsMQN6Wyv) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Yaa Baby](https://open.spotify.com/album/2HW2hdH3U2Be05Ispz7Fyb) | 3:27 |
 | 8 | [Konongo Zongo](https://open.spotify.com/track/3F6xtKBO2YixpP8lFJTiGo) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [The Villain I Never Was](https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg) | 2:41 |
-| 9 | [Tell 'Em To Shut Up \(feat\. Reggie & Skyface Sdw\)](https://open.spotify.com/track/0yVzC9Bvpi9BhgpP5Nb9dK) | [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052), [Reggie](https://open.spotify.com/artist/65ZsNUD4VR9tanQXJeMxt1), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG) | [Ka Na Wu](https://open.spotify.com/album/4WjFmcus19qITkG4kvNWj4) | 2:48 |
+| 9 | [Tell 'Em To Shut Up](https://open.spotify.com/track/1M65D5LXMUNiMXka5Hf2oB) | [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052), [Reggie](https://open.spotify.com/artist/65ZsNUD4VR9tanQXJeMxt1), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG) | [Ka Na Wu](https://open.spotify.com/album/4KCA3hHpLmH1Rm2uCGVURz) | 2:48 |
 | 10 | [Donkomi \- Remix](https://open.spotify.com/track/5c802IbmurF2U8AMLGxgYt) | [Uncle Rich](https://open.spotify.com/artist/7B1cOpsjjQEadmCo3psX4l), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Tulenkey](https://open.spotify.com/artist/2jVltxUvvzAX2lZKN95HBT) | [Last Days Are Dangerous](https://open.spotify.com/album/6euaF0PPbfuSgNNa7znaOm) | 3:44 |
 | 11 | [No Luck](https://open.spotify.com/track/2RVzvB89Lst4inD4pUcnKJ) | [Kwvdwo Pvnch](https://open.spotify.com/artist/0u9prTI7XmKYiRSR0KcjH9), [Emman](https://open.spotify.com/artist/7nQHvaBA7AKisVxkLQS34d) | [No Luck](https://open.spotify.com/album/38JcKfrL4JsWbUIDoafZCN) | 2:20 |
 | 12 | [Asakaa](https://open.spotify.com/track/3XxJT2dwsorTsI1rBZ0fy0) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO), [Hordzi](https://open.spotify.com/artist/4kxmAzzMfSOiZZlb9517Ot) | [Eye Red](https://open.spotify.com/album/43AXknA94hSHEdLYRJYmNc) | 2:46 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 | 52 | [Anadwo](https://open.spotify.com/track/28kK6tGNpEVpBYiyu6dot1) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Anadwo](https://open.spotify.com/album/5NTCRsZ3s9YSUPi9QiGRuh) | 2:50 |
 | 53 | [Stand Firm](https://open.spotify.com/track/0YcxvwO8PUGQgxUER2C2bM) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG) | [Stand Firm](https://open.spotify.com/album/3sr8Z6gGLvnzOKXnejZs3r) | 2:12 |
 
-Snapshot ID: `MCxiZTUyNzMxMDc5NzIxMTdmMGZmOWE3NGFjZDk2MTgzMDk2YWYxZWEx`
+Snapshot ID: `MCw4MzM1NTAwMzg2YjRmNGQ4OWFlMjFhM2MwOWQxMWExMzMzMDhmYTg0`

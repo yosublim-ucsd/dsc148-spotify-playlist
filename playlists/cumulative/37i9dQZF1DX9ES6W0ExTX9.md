@@ -4,7 +4,7 @@
 
 > Can you survive? Listen to the music from and inspired by FNAF.
 
-44 songs - 2 hr 47 min
+45 songs - 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Connection](https://open.spotify.com/track/53LZqMzQEnjBkFXPqOq0cD) | [Elastica](https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx) | [Elastica](https://open.spotify.com/album/00MAXeszCotk3g9q8KYJlZ) | 2:20 | 2023-10-20 |  |
 | [Drawn to the Bitter](https://open.spotify.com/track/5wlDUKNC9S6qFWy2qrfT6V) | [DHeusta](https://open.spotify.com/artist/1dYLcY8kRTQ2l2Gsvq96MY) | [Drawn to the Bitter](https://open.spotify.com/album/6oI6pmtNs3Sn9lp77hbS0P) | 4:00 | 2023-10-20 |  |
 | [Five More Nights](https://open.spotify.com/track/4VbRzSzpXWmozGSpLeDxj7) | [JT Music](https://open.spotify.com/artist/5qvrAlKjc0Sqrqz6v2wBGk) | [Want It All](https://open.spotify.com/album/2nQUBrQXLuah57Toe5MGgP) | 4:09 | 2023-10-20 |  |
-| [Five Nights at Freddy's](https://open.spotify.com/track/5ZbwPEUqw1hK6rp0ppD8lR) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [Five Nights at Freddy's](https://open.spotify.com/album/2nXOk2xDys9smftpAAufpQ) | 2:45 | 2023-10-20 |  |
+| [Five Nights at Freddy's](https://open.spotify.com/track/2ItNKt19iqefEe590Z9GeE) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [Five Nights at Freddy's](https://open.spotify.com/album/1dq5N7M7pxFso51oa79BTI) | 2:45 | 2023-10-20 |  |
+| [Five Nights at Freddy's](https://open.spotify.com/track/5ZbwPEUqw1hK6rp0ppD8lR) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [Five Nights at Freddy's](https://open.spotify.com/album/2nXOk2xDys9smftpAAufpQ) | 2:45 | 2023-10-20 | 2023-11-29 |
 | [Follow Me](https://open.spotify.com/track/5tvvVkt2MhUHfBXEwO1eH3) | [Tryhardninja](https://open.spotify.com/artist/0B7Y5KDNScTBzeN7DY74YG) | [Five Nights at Freddy's Songs](https://open.spotify.com/album/0A1G2GuC0F45Jb7tYn5w4e) | 3:24 | 2023-10-20 |  |
 | [For You](https://open.spotify.com/track/4xUnBhJLPGgwDFBiHnSaRE) | [NightCove\_thefox](https://open.spotify.com/artist/6yYJBwT8q1KYXucYLroowZ) | [For You](https://open.spotify.com/album/3yg9je9GS0BKhtP6Uc4eSy) | 3:00 | 2023-10-20 |  |
 | [Game over \(Y.G.I.O.\) \- Remastered](https://open.spotify.com/track/5SUC51QOfxjmolQRdI3bps) | [MiatriSs](https://open.spotify.com/artist/7s5A0SlNGTXP4EPKIthpaS) | [Fnaf, Vol​\. ​1 \(Remastered\)](https://open.spotify.com/album/06TvYnn9CnVUqomWikhjpa) | 4:22 | 2023-10-20 |  |

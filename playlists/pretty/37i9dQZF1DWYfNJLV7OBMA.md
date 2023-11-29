@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 
 > Trending Sinhalese pop hits\. Cover \- DILU Beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,483 likes - 95 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,528 likes - 95 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 2 | [Hinahenne mung \(Nil Nayaniye\)](https://open.spotify.com/track/1zCGWOEgZR3gNcTQ9aRvw3) | [Ranidu](https://open.spotify.com/artist/29A2v7wxGk7GK0EmRKgrOW) | [Hinahenne Mung](https://open.spotify.com/album/0boxtVsTzHrAIqzx368Eyy) | 3:58 |
 | 3 | [Mulawe](https://open.spotify.com/track/5uD17gOSGsnFgaqe9xFwX7) | [Mihiran](https://open.spotify.com/artist/5geuqF6BLOASj8FVq2Tbes) | [Mulawe](https://open.spotify.com/album/4MMgRRBqvX28YQt00pENmc) | 3:55 |
 | 4 | [Dekopul Kandulin Thema](https://open.spotify.com/track/5q95k2ht4oE5rJSUTGyKU3) | [La Signore](https://open.spotify.com/artist/3wRgCqDCo0rwgjvCEPoDMP) | [Gold](https://open.spotify.com/album/2jQHW7TwPc83Ux3LeM1w25) | 2:53 |
-| 5 | [Paalu Yaame](https://open.spotify.com/track/3wBCm0eVGdMpaxSIzg43yJ) | [Iman Fernando](https://open.spotify.com/artist/42ATja5N0WYsh9RNSParhI) | [Paalu Yaame](https://open.spotify.com/album/6AZvLGlTyTauElxYwANnj7) | 3:32 |
+| 5 | [Paalu Yaame](https://open.spotify.com/track/42e6q2wCvs3awgT5bHPlZz) | [Iman Fernando](https://open.spotify.com/artist/42ATja5N0WYsh9RNSParhI) | [Paalu Yaame](https://open.spotify.com/album/2h6vdH4wFNKYdJWKw1f91N) | 3:32 |
 | 6 | [Kailashini](https://open.spotify.com/track/4nwcEh4AXxcCHsREJybyic) | [Eranga Abeygunasekara](https://open.spotify.com/artist/2uVK6f58StKQjs7ZPlkZnM) | [Kailashini](https://open.spotify.com/album/2NmNUhh84QmvY0WCy6pbRP) | 4:07 |
 | 7 | [Kaari Na Sanda](https://open.spotify.com/track/4qAIsr12Op1MTkHX0FJe37) | [Methun SK](https://open.spotify.com/artist/321A10RJQEZo2P1nLnS84x), [Wayanaka Perera](https://open.spotify.com/artist/6u7ZJYEiPjmuDq0xU351UX) | [Kaari Na Sanda](https://open.spotify.com/album/6rydb4HGEQg65cwZQslYTQ) | 3:01 |
 | 8 | [DIAS](https://open.spotify.com/track/627U5dQ8rInhEXLm5UWXIY) | [FREEZE](https://open.spotify.com/artist/2T6JxFkkrJsZY4TCHmm7Hb) | [DIAS](https://open.spotify.com/album/1SmwEglEo2GiwE7MAnkOlP) | 3:16 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 94 | [Hith Ochcham](https://open.spotify.com/track/792WeaFnWJIIEed9JnnWLW) | [Lashan Herath](https://open.spotify.com/artist/2GKt5532rbjOVlrGyvVHcC) | [Hith Ochcham](https://open.spotify.com/album/46s4zoRLxIbIa3UfjOKwRH) | 3:30 |
 | 95 | [Paluwe Sathuta](https://open.spotify.com/track/16f1xUbj37jdrqkqLCEEkB) | [Senanga Dissanayake](https://open.spotify.com/artist/5r68YwgGItdBtZdTWQFQsJ), [Methun SK](https://open.spotify.com/artist/321A10RJQEZo2P1nLnS84x) | [Paluwe Sathuta](https://open.spotify.com/album/37jxBySqQ3CwWfFCsbH9wi) | 4:38 |
 
-Snapshot ID: `MCwyMWM3MDMzNGI4MmU5ZmIzZmQwMWY1MTYyMTQ3ZjFhNjY5YzFmZmFi`
+Snapshot ID: `MCxhMzBjZTExMWQxYjk0NmQ4NzJmNTkwZjVkMTMxZjNjYThhMzRlMTIw`

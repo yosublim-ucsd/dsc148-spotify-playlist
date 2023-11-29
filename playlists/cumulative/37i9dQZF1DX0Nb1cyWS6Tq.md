@@ -4,7 +4,7 @@
 
 > Come closer and see..\. into the dark\. The Cure on cover.
 
-277 songs - 20 hr 59 min
+278 songs - 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Ekpyrosis](https://open.spotify.com/track/5x8eW8WVdSGGNS8hRcLxmB) | [Lathe of Heaven](https://open.spotify.com/artist/6sU6B7cuctosL0gOhgeBdr) | [Bound By Naked Skies](https://open.spotify.com/album/5lY7DOXHvN5uCBUffyuRY1) | 2:52 | 2023-10-13 |  |
 | [Evermore](https://open.spotify.com/track/6DHIEgsV6r6GQ0djl6mL6k) | [hackedepicciotto](https://open.spotify.com/artist/1cPVrDY88XGHjD55pKOQ3s) | [Evermore](https://open.spotify.com/album/7KYGSaSbEZww6PMU8DCVgQ) | 2:55 | 2021-10-15 | 2022-04-20 |
 | [Experience](https://open.spotify.com/track/6cOqgPD2Og0qGg0FfMzuUS) | [Minny Pops](https://open.spotify.com/artist/64hGo0XLWbLrhPwAbW1VAR) | [Sparks in a Dark Room](https://open.spotify.com/album/6t9tz0hjv4zrxP5kBsEweG) | 3:32 | 2021-10-15 | 2022-04-20 |
-| [Face Meets Glass](https://open.spotify.com/track/7a7G6UxSuYRF7kIaCPAYRT) | [ACTORS](https://open.spotify.com/artist/2Gs4t6zBT69DSluLvaEBWK) | [It Will Come to You](https://open.spotify.com/album/0yIIcvuqXZWqhMizP6w5jJ) | 3:36 | 2021-10-15 |  |
+| [Face Meets Glass](https://open.spotify.com/track/7a7G6UxSuYRF7kIaCPAYRT) | [ACTORS](https://open.spotify.com/artist/2Gs4t6zBT69DSluLvaEBWK) | [It Will Come to You](https://open.spotify.com/album/0yIIcvuqXZWqhMizP6w5jJ) | 3:36 | 2021-10-15 | 2023-11-29 |
 | [Faith](https://open.spotify.com/track/01Vrp6Y0VGOQALAshPxeGY) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Faith](https://open.spotify.com/album/1Vmdh3ybBnkJN6uBgD0xlo) | 6:42 | 2021-10-15 | 2022-07-28 |
 | [Falling](https://open.spotify.com/track/31CYUJj5f9lbQ0Qqm9PzK5) | [Julee Cruise](https://open.spotify.com/artist/4Pt1HZtuJwrQB8l0ES5iTX) | [Floating Into The Night](https://open.spotify.com/album/3N6VPyK0YsRTccqoRQjkVx) | 5:21 | 2021-10-15 |  |
 | [Fantasmas](https://open.spotify.com/track/07LRjvNrvSE311BWlwRptq) | [Twin Tribes](https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl) | [Ceremony](https://open.spotify.com/album/1PXN2w8N4kg4rd8i2ri711) | 3:10 | 2023-01-06 |  |
@@ -97,6 +97,7 @@
 | [Frontier \(Remastered\)](https://open.spotify.com/track/5JJbbLAQurvpGW55lRt39v) | [Dead Can Dance](https://open.spotify.com/artist/6sq7prp0tj9Abn89khmfja) | [Dead Can Dance \(Remastered\)](https://open.spotify.com/album/0S4BTkNeo3XTqRjLF5MNFm) | 3:13 | 2021-10-15 | 2022-07-15 |
 | [Gaze](https://open.spotify.com/track/2cdGYqbL77EBhNuRCGDTzN) | [Play Dead](https://open.spotify.com/artist/1eNErxU1Dh5YPvxjgMuiSA) | [The First Flower](https://open.spotify.com/album/42rrIGV4us6I2ygie6KKou) | 4:30 | 2021-10-15 | 2022-05-15 |
 | [Get Out of Control](https://open.spotify.com/track/0NPOqBpFkDVPIHmuumCZhr) | [Daniel Ash](https://open.spotify.com/artist/0L4nRBwqdugqIWCpAzjB9g) | [Foolish Thing Desire](https://open.spotify.com/album/2tBhuACBUzVOCbsFwAcGu1) | 4:27 | 2021-10-15 | 2022-07-29 |
+| [Ghost Rider \(2019 \- Remaster\)](https://open.spotify.com/track/0sTMWWSms4Mt6vy33rdqgv) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [Suicide \(2019 \- Remaster\)](https://open.spotify.com/album/46kw5FsFdJhNRL8wfHM9Bp) | 2:33 | 2021-10-15 |  |
 | [Ghost Rider \- 1998 Remastered Version](https://open.spotify.com/track/2XFqddsS1Hd7u3gUM0qd3c) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [Suicide \(1998 Remastered Version\)](https://open.spotify.com/album/7lHdDQ8qsbcNWkEYtcIiHF) | 2:34 | 2021-10-15 | 2022-05-27 |
 | [Ghost Rider \- 2019 \- Remaster](https://open.spotify.com/track/0SlVvyU9LWTzsnPc8lcoUs) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [Suicide \(2019 \- Remaster\)](https://open.spotify.com/album/0wKU4153oTf5Ne3Wbbcykd) | 2:33 | 2021-10-15 | 2023-11-04 |
 | [Go! \(Club Mix\)](https://open.spotify.com/track/6jUtVy8AXICRmH85U3QjQU) | [Tones On Tail](https://open.spotify.com/artist/5aBEGOeWQCJfptic9xyaAb) | [Everything!](https://open.spotify.com/album/2HLe3MOLEKEhuGIbrGSN3i) | 4:28 | 2021-10-15 | 2022-04-20 |

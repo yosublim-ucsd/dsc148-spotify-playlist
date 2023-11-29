@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnsOmlEBKuk.md) - [plain]
 
 > Ruido blanco para ayudar a los bebés a dormir.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,933 likes - 194 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,065 likes - 194 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Loud Noise Sound](https://open.spotify.com/track/3WEhUtfxXaoRrpSIZ1XzQY) | [Misa Bee](https://open.spotify.com/artist/5JSgVFubDnbqYDUWPzl4tj) | [Noise Waterfalls](https://open.spotify.com/album/7By7Jo2T4WuFDwzW7MRc02) | 2:25 |
 | 2 | [Gentle White Noise \- Seamless](https://open.spotify.com/track/2COPUH8f4mlt1vzZG83zqU) | [Natura Ferox](https://open.spotify.com/artist/4pxwvJBcr1c7RBwb1sZ2pH) | [Gentle White Noise](https://open.spotify.com/album/6oxEgz8aIaZ62WeUlApe0c) | 2:53 |
 | 3 | [Ruido Profundo](https://open.spotify.com/track/0dZ1XVpB6DEVwCpk0kRNG4) | [Ardeon](https://open.spotify.com/artist/7IG0fEAR9mz2PBckWjAfS8) | [Ruido Blanco](https://open.spotify.com/album/7IrWdh3MEKgHrzgoQnHPCx) | 2:53 |
-| 4 | [Close Your Eyes And Listen](https://open.spotify.com/track/006nnWonryJaAktux75zAs) | [Naturelle](https://open.spotify.com/artist/2ZqIdeQMZpsr1jAruu22fI) | [Restful White Noise](https://open.spotify.com/album/78gezcFabVfTrlIigNbB6p) | 2:03 |
+| 4 | [Close Your Eyes and Listen](https://open.spotify.com/track/006nnWonryJaAktux75zAs) | [Naturelle](https://open.spotify.com/artist/2ZqIdeQMZpsr1jAruu22fI) | [Restful White Noise](https://open.spotify.com/album/78gezcFabVfTrlIigNbB6p) | 2:03 |
 | 5 | [White Tonality](https://open.spotify.com/track/3BAUrjO1MvnrTPtEGje79S) | [Blazerod](https://open.spotify.com/artist/50z9YbdAXVbmTQjMOZOHDS) | [White Tonality](https://open.spotify.com/album/69U1JNZagRXGoegXk8DaYN) | 2:57 |
 | 6 | [Zone In](https://open.spotify.com/track/4Hib9DZdiZoRBaUn6SBcUA) | [Selective Sounds TTA](https://open.spotify.com/artist/4fvzIW1n8V7G1t95O5Q2lB) | [Calm Down Hertz](https://open.spotify.com/album/7v4rKByJHGo7BLJ9OCWSCP) | 2:25 |
 | 7 | [Streams Of White Noise](https://open.spotify.com/track/431o4ppINAaETCjpsGkGDv) | [Noise Factory](https://open.spotify.com/artist/686XlpvIgKX6Vvlpi4DXbe) | [The Rhythm Of Noise](https://open.spotify.com/album/5A2FT4FE0UZU06spwKPqox) | 2:11 |
@@ -203,4 +203,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnsOmlEBKuk.md) - [plain]
 | 193 | [Soulwaves](https://open.spotify.com/track/29udRWpKTQUjkPZZkliBVl) | [Sky Travis](https://open.spotify.com/artist/5IkHDfUNRiqyATjgbDHuGy) | [Soulwaves](https://open.spotify.com/album/1THmxeqFdDM57e9QrDY23i) | 2:53 |
 | 194 | [Sleep Cabin Noise](https://open.spotify.com/track/0I10SiGzRCQokFy9DUJAxf) | [Water Science](https://open.spotify.com/artist/2Zhk6Eu0cTqw9zKlbMl3yv) | [Sleep Cabin Noise](https://open.spotify.com/album/0kSj3zyXSBqTMvNdpSzTbp) | 2:18 |
 
-Snapshot ID: `MCwxNzg0ZjI5ZmQ3ZjgzNzcwYTdmZGNlNmU0ZmIyOTE3M2Y1YjE1YjM0`
+Snapshot ID: `MCw4ZjE3OTZmNmFjMzUwNzlmZmFlYzRjNzE2M2MxYjBhYzIwZTBhMmEw`

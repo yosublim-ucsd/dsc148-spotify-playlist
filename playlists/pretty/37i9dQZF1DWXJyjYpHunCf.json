@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Darren Kiely",
-  "num_followers": 879479,
+  "num_followers": 879687,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZmQxZmQyZGFiMWMzNWUxYzM2YTM2MGFkYWZiZWI2NGQzOThlYTM3",
+  "snapshot_id": "MCwxZGE5NzM3NjRlZGYxMDkyMjRjMDQyMTE3MDhmY2FjNDhjZTVlMzNj",
   "tracks": [
     {
       "added_at": "2023-11-10 05:00:00",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Songs to Break Up To",
-        "url": "https://open.spotify.com/album/5OVxLrOoXXD2HSKkQNqhQW"
-      },
-      "artists": [
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        }
-      ],
-      "duration_ms": 199391,
-      "name": "Thinking 'Bout Love",
-      "url": "https://open.spotify.com/track/42UaitnwvuKqNcD5Oa2HlD"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "How Long Do You Think It's Gonna Last?",
         "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 254466,
       "name": "Renegade",
       "url": "https://open.spotify.com/track/73W5aXorr5vxrySFcoZqIN"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Songs to Break Up To",
+        "url": "https://open.spotify.com/album/5OVxLrOoXXD2HSKkQNqhQW"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "duration_ms": 199391,
+      "name": "Thinking 'Bout Love",
+      "url": "https://open.spotify.com/track/42UaitnwvuKqNcD5Oa2HlD"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Palomar Parade",
-        "url": "https://open.spotify.com/album/10BcjSFPmPwUtHyqHfKkQh"
-      },
-      "artists": [
-        {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
-        }
-      ],
-      "duration_ms": 215516,
-      "name": "What I Do",
-      "url": "https://open.spotify.com/track/27V9QAXyt9u9itQpS7A7lO"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "drywall",
         "url": "https://open.spotify.com/album/2cbcM8spLBGvSIxsiOwIkz"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 222739,
       "name": "drywall",
       "url": "https://open.spotify.com/track/49XjLtTAwwhC8tupC8E8wp"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Palomar Parade",
+        "url": "https://open.spotify.com/album/10BcjSFPmPwUtHyqHfKkQh"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+        }
+      ],
+      "duration_ms": 215516,
+      "name": "What I Do",
+      "url": "https://open.spotify.com/track/27V9QAXyt9u9itQpS7A7lO"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1449,6 +1449,22 @@
       "url": "https://open.spotify.com/track/5suIDwVxRuLiSI1RBrFbjP"
     },
     {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "fifth avenue",
+        "url": "https://open.spotify.com/album/5pOGpCTL403o4QYXoZQ9zh"
+      },
+      "artists": [
+        {
+          "name": "asiris",
+          "url": "https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2"
+        }
+      ],
+      "duration_ms": 173376,
+      "name": "fifth avenue",
+      "url": "https://open.spotify.com/track/1IE79nIDouMaDGHEapWTUj"
+    },
+    {
       "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "I've Got a Song",
@@ -1483,22 +1499,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/3OzhhZiW3NhqiYXI6WveaT"
-      },
-      "artists": [
-        {
-          "name": "Lily Meola",
-          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
-        }
-      ],
-      "duration_ms": 176321,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/0ZTtIdhIhHcbVyYmbwKhWq"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Austin Plaine",
         "url": "https://open.spotify.com/album/78yPA5hNyDnuTF42jJyblN"
       },
@@ -1511,6 +1511,22 @@
       "duration_ms": 196240,
       "name": "Never Come Back Again",
       "url": "https://open.spotify.com/track/4yRlTvPVfEyhXfp6GZurq9"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/3OzhhZiW3NhqiYXI6WveaT"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "duration_ms": 176321,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/0ZTtIdhIhHcbVyYmbwKhWq"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1529,22 +1545,6 @@
       "url": "https://open.spotify.com/track/38wSbAmV7zNBhYqfzv1m9x"
     },
     {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "fifth avenue",
-        "url": "https://open.spotify.com/album/5pOGpCTL403o4QYXoZQ9zh"
-      },
-      "artists": [
-        {
-          "name": "asiris",
-          "url": "https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2"
-        }
-      ],
-      "duration_ms": 173376,
-      "name": "fifth avenue",
-      "url": "https://open.spotify.com/track/1IE79nIDouMaDGHEapWTUj"
-    },
-    {
       "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Pollution",
@@ -1561,20 +1561,20 @@
       "url": "https://open.spotify.com/track/0Ul3RMdHEyJHN6VQ7MfuML"
     },
     {
-      "added_at": "2023-10-27 04:00:00",
+      "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Heart Medicine",
-        "url": "https://open.spotify.com/album/6vTgHn3r0keWWSSHbGeybq"
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/2q2sRqH8kcKVf1bFsqvx7w"
       },
       "artists": [
         {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+          "name": "Darren Kiely",
+          "url": "https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9"
         }
       ],
-      "duration_ms": 164882,
-      "name": "Heart Medicine",
-      "url": "https://open.spotify.com/track/0Ymr7bBhvXLu8xrpCN2GUs"
+      "duration_ms": 179731,
+      "name": "Blood Red",
+      "url": "https://open.spotify.com/track/3tJ3FGEU3wKpE8cNDiu060"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1593,20 +1593,20 @@
       "url": "https://open.spotify.com/track/4v2PPkhAhaROQi2MpXW3WU"
     },
     {
-      "added_at": "2023-11-10 05:00:00",
+      "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/2q2sRqH8kcKVf1bFsqvx7w"
+        "name": "Heart Medicine",
+        "url": "https://open.spotify.com/album/6vTgHn3r0keWWSSHbGeybq"
       },
       "artists": [
         {
-          "name": "Darren Kiely",
-          "url": "https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9"
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
         }
       ],
-      "duration_ms": 179731,
-      "name": "Blood Red",
-      "url": "https://open.spotify.com/track/3tJ3FGEU3wKpE8cNDiu060"
+      "duration_ms": 164882,
+      "name": "Heart Medicine",
+      "url": "https://open.spotify.com/track/0Ymr7bBhvXLu8xrpCN2GUs"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Better Together",
-        "url": "https://open.spotify.com/album/6iPltWDB2BeiopAigyQG3g"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Loops",
-          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
-        }
-      ],
-      "duration_ms": 178271,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/3xPrdaCplbZRvgJiOBmGs4"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Heart In The Water",
         "url": "https://open.spotify.com/album/5Uie78uNFG2u2VTVBA8ckG"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 203178,
       "name": "Heart In The Water",
       "url": "https://open.spotify.com/track/7dDCYIuw6YUvcO1nzl8hP5"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Better Together",
+        "url": "https://open.spotify.com/album/6iPltWDB2BeiopAigyQG3g"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Loops",
+          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
+        }
+      ],
+      "duration_ms": 178271,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/3xPrdaCplbZRvgJiOBmGs4"
     },
     {
       "added_at": "2023-10-27 04:00:00",

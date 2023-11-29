@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Jordan Sandhu
 
-795 songs - 1 day 19 hr 15 min
+796 songs - 1 day 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -464,6 +464,7 @@
 | [Moonglade](https://open.spotify.com/track/4Tiy5veKfyUfSjpHMNqPV3) | [Nirmaan](https://open.spotify.com/artist/3yCmFr0jQ0hRoaEjpp7Clh) | [Moonglade](https://open.spotify.com/album/728QDtU7zh9qh1hJkDIL9k) | 3:06 | 2022-11-17 | 2023-02-02 |
 | [Moonlight](https://open.spotify.com/track/5FTcLPsQFX2NZaBQHbTz06) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [Moonlight](https://open.spotify.com/album/2SuM7r0dc3cpegQeGyJcWZ) | 3:18 | 2021-12-02 | 2022-12-16 |
 | [Morni](https://open.spotify.com/track/4QdDTR7XcgHfYhpKmkgYL4) | [Pavvy Virk](https://open.spotify.com/artist/1AQZgGdnLJOu37cxZzIkxX) | [Morni](https://open.spotify.com/album/1DTXPbMDvoXGKjRtSkom6j) | 3:20 | 2022-08-31 | 2022-09-03 |
+| [Morniye](https://open.spotify.com/track/2JXWYP2pzGT097OydwlHh9) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura), [Josh Sidhu](https://open.spotify.com/artist/6ce1Ysig2iILmcVc0lmTKW) | [Still Here](https://open.spotify.com/album/55nYYOQPH0AUrbfsV0Nhgl) | 2:32 | 2023-11-28 |  |
 | [Move On](https://open.spotify.com/track/2fb1j5P2TqUbvpa1u2gfc7) | [Joban Sandhu](https://open.spotify.com/artist/5IMKL9U2FzIB9fFn2kILAf) | [Move On](https://open.spotify.com/album/5UBI3j3IpxKulky5cSUo5k) | 2:13 | 2022-04-25 | 2022-05-11 |
 | [Move On](https://open.spotify.com/track/3gZtIhtPkPK5tDJ5iCpgvp) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Archives](https://open.spotify.com/album/2L0jISPU1EHSXOiwkrCOks) | 2:57 | 2023-06-29 |  |
 | [Move On](https://open.spotify.com/track/7s8wMKOZLOxwO7gzovABYN) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Inder](https://open.spotify.com/artist/4BTiv9wnMrhxZNxaTb3rwT) | [Archives](https://open.spotify.com/album/6KmQIkfNTKlHizxBbXCxBq) | 2:57 | 2022-12-09 | 2023-07-01 |
@@ -521,11 +522,11 @@
 | [Pani Pani](https://open.spotify.com/track/7pObgnslNRx7fr2ubRebby) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT) | [Pani Pani](https://open.spotify.com/album/2bPP7WPsp6pYT8kVlROm3y) | 4:39 | 2022-05-04 | 2022-05-20 |
 | [Panjab Warga](https://open.spotify.com/track/7ocsOa1Ah6sJOp6g7N7V9e) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Panjab Warga](https://open.spotify.com/album/1yYPZhzq5GDYmnhPXHj8cf) | 2:44 | 2022-09-02 | 2023-02-04 |
 | [Paris Di Jugni](https://open.spotify.com/track/51zNwGiLyMh7qodYWSChcL) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV), [Partners in Rhyme](https://open.spotify.com/artist/29EuGFxmto4dmwNkrthLK7) | [Paris Di Jugni](https://open.spotify.com/album/4cAccIAk9YtKNvKz1eJY7L) | 4:57 | 2023-06-26 | 2023-09-02 |
-| [Pariyan De Desh \(From "Masand" Soundtrack\)](https://open.spotify.com/track/49smvL3XQwdOdTIjTYDoHd) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Pariyan De Desh \(From "Masand" Soundtrack\)](https://open.spotify.com/album/2VJaivHf2ktb01A62hQJdb) | 3:05 | 2022-11-11 |  |
+| [Pariyan De Desh \(From "Masand" Soundtrack\)](https://open.spotify.com/track/49smvL3XQwdOdTIjTYDoHd) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Pariyan De Desh \(From "Masand" Soundtrack\)](https://open.spotify.com/album/2VJaivHf2ktb01A62hQJdb) | 3:05 | 2022-11-11 | 2023-11-29 |
 | [Pariyan Toh Sohni \(From "Ni Main Sass Kuttni"\)](https://open.spotify.com/track/2jjB2GkX4k4CamDeHmC25E) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Pariyan Toh Sohni \(From "Ni Main Sass Kuttni"\)](https://open.spotify.com/album/4K48x0dgwU2zLDC8d4x4sy) | 2:55 | 2022-04-15 | 2023-02-04 |
 | [Parshawan](https://open.spotify.com/track/6IaHIJYxIG8xbosaRr25AC) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [Parshawan](https://open.spotify.com/album/6w6MwWpj1oR3lKpQPc8caY) | 2:48 | 2021-12-02 | 2022-12-16 |
 | [Pasand Bangi](https://open.spotify.com/track/0PQkxMXbAWaqRZfdLxeamN) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Pasand Bangi](https://open.spotify.com/album/2PJPQ8mRBTPVOreuUDTJ2X) | 3:45 | 2021-12-02 | 2022-12-16 |
-| [Pasoori](https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB) | [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Pasoori](https://open.spotify.com/album/7wgrW5XyZdtk0K8PkW5A7h) | 3:44 | 2023-05-05 |  |
+| [Pasoori](https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB) | [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Pasoori](https://open.spotify.com/album/7wgrW5XyZdtk0K8PkW5A7h) | 3:44 | 2023-05-05 | 2023-11-29 |
 | [Password](https://open.spotify.com/track/1rM0PeiGbNxzCZ1ilf71d8) | [Kulbir Jhinjer](https://open.spotify.com/artist/5xeLNyuZaJBjLpyjopm22n) | [Password](https://open.spotify.com/album/0lxZ4cOQs3JYsii2lyKacl) | 3:57 | 2022-03-22 | 2022-04-06 |
 | [Pata Ni Haan Diye \(From "Television"\)](https://open.spotify.com/track/2jdZazdnpGdk64W2BXVKYo) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV) | [Pata Ni Haan Diye \(From "Television"\)](https://open.spotify.com/album/39S5tGdSOUDIh21ELB7QZE) | 3:08 | 2022-06-16 | 2022-07-06 |
 | [Peacock](https://open.spotify.com/track/2XOe28s6xDk79Wjjbn6l94) | [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [Peacock](https://open.spotify.com/album/0C6RgcPPKO6LWs4xQUY7xu) | 3:18 | 2022-09-09 | 2023-02-04 |

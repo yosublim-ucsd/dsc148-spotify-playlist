@@ -4,7 +4,7 @@
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5?si=G3JrVxFDTYK3iTIAyf720A>Sneziey</a>
 
-1,323 songs - 4 day 5 hr 42 min
+1,325 songs - 4 day 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Asiwaju](https://open.spotify.com/track/1tbTHTUi3sXr39HQLDfuaR) | [DJ D'mo](https://open.spotify.com/artist/1vTeSzVCEXpzFQMj7R6npQ), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Asiwaju](https://open.spotify.com/album/4vkBSzI4bAEfU5wF3PA97B) | 2:34 | 2023-06-02 | 2023-06-16 |
 | [Aterere \- Live](https://open.spotify.com/track/7y0lMUo9aHZwcE2bcnxlVE) | [121SELAH](https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq), [Aidee Ime](https://open.spotify.com/artist/6FMIzXBfCEJWmPk62NKbRH), [Lulu Ayeni](https://open.spotify.com/artist/4wJrUVEndPeYQJDa4XBRQm) | [Aterere \(Live\)](https://open.spotify.com/album/3QPBDhYO2fRegRdf6pVTBe) | 8:23 | 2023-06-30 | 2023-07-14 |
 | [Atmosphere Of You](https://open.spotify.com/track/7eR68heLEodTFSRV3NWQxI) | [Sabrina K.](https://open.spotify.com/artist/2GySt29ejIaENZf5sNgJQK) | [Atmosphere Of You](https://open.spotify.com/album/6ij1QUCcFIJPnKlarCPis0) | 3:32 | 2023-06-16 | 2023-06-30 |
+| [ATOFARATI](https://open.spotify.com/track/5Rnhvcd9ZUiKJLyaesOsj1) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r) | [ATOFARATI](https://open.spotify.com/album/6Uqs3c8IjxXKX5Hk7uW5kE) | 2:20 | 2023-11-28 |  |
 | [Attention](https://open.spotify.com/track/6eW4bViVkUEJtFiLykrOrE) | [Benji Kasule](https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh) | [ATTENTION](https://open.spotify.com/album/6IWyzrY0BPHRyBryHiibgG) | 3:23 | 2023-11-03 | 2023-11-17 |
 | [Awake \(Live Ministeration\)](https://open.spotify.com/track/3l4UhaJSJ0KdHRlFTqI6WT) | [dare strings](https://open.spotify.com/artist/3P0INvguUKAHb0Yyi1L66h) | [Awake \(Live Ministeration\)](https://open.spotify.com/album/44iYfaVE4cDjfgaTR84mog) | 4:35 | 2023-08-18 | 2023-09-01 |
 | [Awamaridi \(The Concealer\)](https://open.spotify.com/track/2Snz7q1mGvTgnjo4HuNjin) | [EmmexBoi](https://open.spotify.com/artist/2t4sYUXHtruGnC7jhLCPDz) | [Awamaridi \(The Concealer\)](https://open.spotify.com/album/2zUSYTyLaA1La4dAFkZsPp) | 1:27 | 2023-09-08 | 2023-09-22 |
@@ -1003,6 +1004,7 @@
 | [Rejoice](https://open.spotify.com/track/1luxtXgjEgBP7McqM842WS) | [Frankodaflame](https://open.spotify.com/artist/0YEEOVbWwZ2xnkzphDR0Fy) | [Rejoice](https://open.spotify.com/album/63C1WsLa9DWwtZx2xCTT1X) | 3:52 | 2023-07-21 | 2023-08-04 |
 | [Rejoice in the Lord](https://open.spotify.com/track/7xF2y2V24Jd3cGySRbsPUP) | [Chidiomimi Nwankpa](https://open.spotify.com/artist/7bUNelzlib3D2bMaIMMgmW) | [Rejoice in the Lord](https://open.spotify.com/album/0k7Si0aOClgJI14l9ti9mU) | 2:54 | 2023-07-14 | 2023-07-21 |
 | [Remember](https://open.spotify.com/track/2tIVw77LbfhCbOQIjyj40G) | [OGmusic](https://open.spotify.com/artist/7bkAd1Exm8lAv2ZoiIhxZl) | [Remember](https://open.spotify.com/album/7LNuhcev26EgBaTI1jWkh2) | 2:28 | 2023-11-03 | 2023-11-17 |
+| [Reminiscing](https://open.spotify.com/track/0ZidbacZoSVEraGBabJr14) | [Jimohsoundz](https://open.spotify.com/artist/0Jt3O4jM9QL5Atkl3WRhCJ), [Susss](https://open.spotify.com/artist/7N2kuRISbJNGXCJhXUizaq) | [Reminiscing](https://open.spotify.com/album/6AJTQUo5OgC3ZhlZTVedBs) | 2:19 | 2023-11-28 |  |
 | [Renegade](https://open.spotify.com/track/39Zw2ldwoNSvrCrSyKwXzj) | [Israel the creator](https://open.spotify.com/artist/5SATwYWqLzEg84BWHdQjmX), [Jason Jhms](https://open.spotify.com/artist/2CdYJFoCCnW8gJUQuGfOni), [Feranmi](https://open.spotify.com/artist/3cRm4UIC8Wf7bkon0PElIF) | [Renegade](https://open.spotify.com/album/0HggvmLp2sky0SJgosPdiL) | 2:58 | 2023-08-25 | 2023-09-08 |
 | [REPETE](https://open.spotify.com/track/4PlQ9E1PWdtdpHvQkuCyJG) | [Faywiz](https://open.spotify.com/artist/2x3JtEic6hwtMwpBCN17tA) | [REPETE](https://open.spotify.com/album/3gWbk53iK2RkucmGlOp1o6) | 3:10 | 2023-11-10 | 2023-11-17 |
 | [Rescued](https://open.spotify.com/track/0JbnRJjLOuM5fCO1lK6Gc5) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Ryan Hylton](https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm) | [Rescued](https://open.spotify.com/album/6HRJBgzN5liP0zXwpSiVx7) | 2:45 | 2023-10-27 | 2023-11-10 |

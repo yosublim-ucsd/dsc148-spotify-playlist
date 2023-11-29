@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 56815,
+  "num_followers": 56860,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDkzNmYyN2Y4MTVhMGJkYjc2NjMxNTViOTdmZWJjMGQ0ZDc1MjA4",
+  "snapshot_id": "MCxiMjc2MTFkODZmODIwZjAyY2VmM2M3OGRlNzJhZGRhMWY3NjVjNjdl",
   "tracks": [
     {
       "added_at": "2023-09-18 17:33:17",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-09-18 17:33:17",
       "album": {
-        "name": "Keep On Jumpin'",
-        "url": "https://open.spotify.com/album/5gQh0forPeR556hKjhEdXW"
-      },
-      "artists": [
-        {
-          "name": "Musique",
-          "url": "https://open.spotify.com/artist/5JO0fCMUiEJtUQjyOXyaCl"
-        }
-      ],
-      "duration_ms": 339946,
-      "name": "Keep On Jumpin'",
-      "url": "https://open.spotify.com/track/6J9rBgsm9USju9PkLf2exF"
-    },
-    {
-      "added_at": "2023-09-18 17:33:17",
-      "album": {
         "name": "Come to Me",
         "url": "https://open.spotify.com/album/36xBZHKGsbSbWNZkSy6TH1"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 590986,
       "name": "Come to Me",
       "url": "https://open.spotify.com/track/5wmVHVCMNO6TfCBcXU0cCk"
+    },
+    {
+      "added_at": "2023-09-18 17:33:17",
+      "album": {
+        "name": "Keep On Jumpin'",
+        "url": "https://open.spotify.com/album/5gQh0forPeR556hKjhEdXW"
+      },
+      "artists": [
+        {
+          "name": "Musique",
+          "url": "https://open.spotify.com/artist/5JO0fCMUiEJtUQjyOXyaCl"
+        }
+      ],
+      "duration_ms": 339946,
+      "name": "Keep On Jumpin'",
+      "url": "https://open.spotify.com/track/6J9rBgsm9USju9PkLf2exF"
     },
     {
       "added_at": "2023-09-18 17:33:17",
@@ -1067,6 +1067,26 @@
     {
       "added_at": "2023-09-18 17:33:17",
       "album": {
+        "name": "Lectric Lady",
+        "url": "https://open.spotify.com/album/4tNDvBMJt5PU0QPjySVa7A"
+      },
+      "artists": [
+        {
+          "name": "Carol Williams",
+          "url": "https://open.spotify.com/artist/5QqgCq8kssGoXgqxBlGgJM"
+        },
+        {
+          "name": "Tom Moulton",
+          "url": "https://open.spotify.com/artist/6xDW6TfPeBAiq1gmqMJnM6"
+        }
+      ],
+      "duration_ms": 473240,
+      "name": "Love Is You (A Tom Moulton Mix)",
+      "url": "https://open.spotify.com/track/62ibP0siVUFoOJJVPOR0Xc"
+    },
+    {
+      "added_at": "2023-09-18 17:33:17",
+      "album": {
         "name": "Kid Creole - Ze August Darnell Sessions (Remastered 2018)",
         "url": "https://open.spotify.com/album/06HUHbkpeBZfsVhLpZxUfJ"
       },
@@ -1095,26 +1115,6 @@
       "duration_ms": 258253,
       "name": "Begin the Beguine",
       "url": "https://open.spotify.com/track/2hLAqf6uB6QusEUHfDf5oi"
-    },
-    {
-      "added_at": "2023-09-18 17:33:17",
-      "album": {
-        "name": "Lectric Lady",
-        "url": "https://open.spotify.com/album/4tNDvBMJt5PU0QPjySVa7A"
-      },
-      "artists": [
-        {
-          "name": "Carol Williams",
-          "url": "https://open.spotify.com/artist/5QqgCq8kssGoXgqxBlGgJM"
-        },
-        {
-          "name": "Tom Moulton",
-          "url": "https://open.spotify.com/artist/6xDW6TfPeBAiq1gmqMJnM6"
-        }
-      ],
-      "duration_ms": 473240,
-      "name": "Love Is You (A Tom Moulton Mix)",
-      "url": "https://open.spotify.com/track/62ibP0siVUFoOJJVPOR0Xc"
     },
     {
       "added_at": "2023-09-18 17:33:17",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2023-09-18 17:33:17",
       "album": {
+        "name": "Delusions (Bonus Version)",
+        "url": "https://open.spotify.com/album/0TEdP49Slshj2dxALw1ONj"
+      },
+      "artists": [
+        {
+          "name": "First Choice",
+          "url": "https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4"
+        }
+      ],
+      "duration_ms": 457746,
+      "name": "Doctor Love (Tom Moulton 12\" Mix)",
+      "url": "https://open.spotify.com/track/1xifiLRb2Uo6kBzZruN6rw"
+    },
+    {
+      "added_at": "2023-09-18 17:33:17",
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/4YAxIAMUnzqt0Oq5FRe2W5"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 266560,
       "name": "Soul Makossa",
       "url": "https://open.spotify.com/track/0ofK8UNWOtCFbbizCe8hta"
-    },
-    {
-      "added_at": "2023-09-18 17:33:17",
-      "album": {
-        "name": "Delusions (Bonus Version)",
-        "url": "https://open.spotify.com/album/0TEdP49Slshj2dxALw1ONj"
-      },
-      "artists": [
-        {
-          "name": "First Choice",
-          "url": "https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4"
-        }
-      ],
-      "duration_ms": 457746,
-      "name": "Doctor Love (Tom Moulton 12\" Mix)",
-      "url": "https://open.spotify.com/track/1xifiLRb2Uo6kBzZruN6rw"
     }
   ],
   "unique_name": "Disco Decadence",

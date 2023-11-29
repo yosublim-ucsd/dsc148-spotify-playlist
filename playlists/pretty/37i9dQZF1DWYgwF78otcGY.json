@@ -1,12 +1,12 @@
 {
   "description": "P\u00e5 med fj\u00e4derboan och de gyllene skorna. Nu ska vi dansa i neon!",
-  "num_followers": 26913,
+  "num_followers": 26912,
   "original_name": "Schlagerfest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNGQzNjBiYjFiM2E5ZGQzMDlhZTMzMjU5YjlmM2I0ODc0OTMzYjIw",
+  "snapshot_id": "MCw2NjU0MzA3ZWZiOTFkODI5OWI4MTc3YTE1ZjY2MDA3YmI5ODhjNWMy",
   "tracks": [
     {
       "added_at": "2023-02-26 01:59:39",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/7g8VSftiiJllTZkOZUoSFe"
-      },
-      "artists": [
-        {
-          "name": "Janne Lucas",
-          "url": "https://open.spotify.com/artist/0Z8KU7sIq35JPkymHAuBwx"
-        }
-      ],
-      "duration_ms": 174720,
-      "name": "V\u00e4xeln hall\u00e5",
-      "url": "https://open.spotify.com/track/61hgZt5HEewtSjxibp01Vy"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "Alltid p\u00e5 v\u00e4g",
         "url": "https://open.spotify.com/album/3CDoUVCjpSa2N08MBL8Ovy"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 182773,
       "name": "H\u00e5ll om mig",
       "url": "https://open.spotify.com/track/6LjXwyNIh30VWsnvT8JHhz"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/7g8VSftiiJllTZkOZUoSFe"
+      },
+      "artists": [
+        {
+          "name": "Janne Lucas",
+          "url": "https://open.spotify.com/artist/0Z8KU7sIq35JPkymHAuBwx"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "V\u00e4xeln hall\u00e5",
+      "url": "https://open.spotify.com/track/61hgZt5HEewtSjxibp01Vy"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -683,22 +683,18 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Lasse Holm",
-        "url": "https://open.spotify.com/album/6YqYUREfAQkDJmn2BfaCrQ"
+        "name": "La Dolce Vita",
+        "url": "https://open.spotify.com/album/7rELI4gV9vdWKbSDF7Jsmi"
       },
       "artists": [
         {
-          "name": "Lasse Holm",
-          "url": "https://open.spotify.com/artist/4fYwnbPagtCH2o6prMmgoI"
-        },
-        {
-          "name": "Monica Th\u00f6rnell",
-          "url": "https://open.spotify.com/artist/2jC1JNttGelaaJn6QLyJYA"
+          "name": "After Dark",
+          "url": "https://open.spotify.com/artist/6IsSP3qzKVJziwtHkmKuRl"
         }
       ],
-      "duration_ms": 169783,
-      "name": "E' de' det h\u00e4r du kallar k\u00e4rlek",
-      "url": "https://open.spotify.com/track/5MBBQ7P9AozcQ8lF7So1B3"
+      "duration_ms": 180800,
+      "name": "La Dolce Vita",
+      "url": "https://open.spotify.com/track/1b5yFVBwIbjKI2TULxtDoC"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -719,18 +715,22 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "La Dolce Vita",
-        "url": "https://open.spotify.com/album/7rELI4gV9vdWKbSDF7Jsmi"
+        "name": "Lasse Holm",
+        "url": "https://open.spotify.com/album/6YqYUREfAQkDJmn2BfaCrQ"
       },
       "artists": [
         {
-          "name": "After Dark",
-          "url": "https://open.spotify.com/artist/6IsSP3qzKVJziwtHkmKuRl"
+          "name": "Lasse Holm",
+          "url": "https://open.spotify.com/artist/4fYwnbPagtCH2o6prMmgoI"
+        },
+        {
+          "name": "Monica Th\u00f6rnell",
+          "url": "https://open.spotify.com/artist/2jC1JNttGelaaJn6QLyJYA"
         }
       ],
-      "duration_ms": 180800,
-      "name": "La Dolce Vita",
-      "url": "https://open.spotify.com/track/1b5yFVBwIbjKI2TULxtDoC"
+      "duration_ms": 169783,
+      "name": "E' de' det h\u00e4r du kallar k\u00e4rlek",
+      "url": "https://open.spotify.com/track/5MBBQ7P9AozcQ8lF7So1B3"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -839,18 +839,18 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Busy Doin' Nothin'",
-        "url": "https://open.spotify.com/album/4jfxzJriDt7pZMpzUtRhMo"
+        "name": "Dance You Off",
+        "url": "https://open.spotify.com/album/0TDIGmEpqWpZiTCRW6133p"
       },
       "artists": [
         {
-          "name": "Ace Wilder",
-          "url": "https://open.spotify.com/artist/7F4HcalxCMC4DctguvnoFY"
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
         }
       ],
-      "duration_ms": 173346,
-      "name": "Busy Doin' Nothin'",
-      "url": "https://open.spotify.com/track/1zSXQIah3KQsjvo5sRNRq7"
+      "duration_ms": 182134,
+      "name": "Dance You Off",
+      "url": "https://open.spotify.com/track/0s3P5PImfDZYWIseR3b39D"
     }
   ],
   "unique_name": "Schlagerfest",

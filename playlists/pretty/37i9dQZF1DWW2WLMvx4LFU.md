@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2WLMvx4LFU.md) - [plain]
 
 > La nostalgia ochentera traída a la actualidad.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,392 likes - 60 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,405 likes - 60 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2WLMvx4LFU.md) - [plain]
 | 59 | [The Hard Way](https://open.spotify.com/track/7j57nadsCph2KI9eYuaum8) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [The Hard Way](https://open.spotify.com/album/71SGKuKTbtqYsf0hcjugff) | 3:03 |
 | 60 | [FIXXIÓN](https://open.spotify.com/track/7Hkfm6Yg7IH2VBmTGIjizg) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Hyperreal](https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId) | 3:07 |
 
-Snapshot ID: `MCxkMDMxM2I3YTM3ZDEyMjY4NmM2MTZjNjFiZWEzNjkyNGIyMWRmN2Ux`
+Snapshot ID: `MCwyM2I5Nzc0YmVhYTE4ZGQ5YjZjMjQ1NGRlNjU0MmNhZDYwNjFiYWFh`

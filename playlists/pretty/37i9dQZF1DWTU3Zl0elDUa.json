@@ -1,12 +1,12 @@
 {
   "description": "Essential club anthems from the golden era of house music. Cover: Kenny Dope and Little Louie Vega",
-  "num_followers": 322288,
+  "num_followers": 322476,
   "original_name": "90s House Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDBmNWZlOWVjZTQzODg5NWUyMDZkNjMyYmRlMDQ1ZjViZWJmZWFh",
+  "snapshot_id": "MCxlZjk0NmNiYmNjYzc3NDBlMjFkMGRkYmIwMjI4M2NlMmQyOTBmZDlk",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -63,26 +63,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Amplified Heart",
-        "url": "https://open.spotify.com/album/0WQmpiDN4YZhPRVR3JRjRR"
-      },
-      "artists": [
-        {
-          "name": "Everything But The Girl",
-          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
-        },
-        {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
-        }
-      ],
-      "duration_ms": 249533,
-      "name": "Missing - Todd Terry Club Mix",
-      "url": "https://open.spotify.com/track/5HvLxMeai31mM560lrIITQ"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "King Of My Castle (Mixes)",
         "url": "https://open.spotify.com/album/6ypceV6YBvX5iqzqYH2fow"
       },
@@ -99,6 +79,26 @@
       "duration_ms": 209026,
       "name": "King of My Castle (Roy Malone's King Radio Edit)",
       "url": "https://open.spotify.com/track/5ov3LhsdEifKENMIlLCuJo"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Amplified Heart",
+        "url": "https://open.spotify.com/album/0WQmpiDN4YZhPRVR3JRjRR"
+      },
+      "artists": [
+        {
+          "name": "Everything But The Girl",
+          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+        },
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        }
+      ],
+      "duration_ms": 249533,
+      "name": "Missing - Todd Terry Club Mix",
+      "url": "https://open.spotify.com/track/5HvLxMeai31mM560lrIITQ"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Can You Feel It",
-        "url": "https://open.spotify.com/album/7q5nYnbxfVVTsmyW5ZB8KX"
-      },
-      "artists": [
-        {
-          "name": "Larry Heard",
-          "url": "https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz"
-        }
-      ],
-      "duration_ms": 340813,
-      "name": "Can You Feel It - Instrumental",
-      "url": "https://open.spotify.com/track/4b5QHhUld8ba26ZJEHawFW"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "The Lost Tapes: Tony Humphries Strictly Rhythm Mix",
         "url": "https://open.spotify.com/album/5OnKjcZw9bdTwtehVtdBcp"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 382373,
       "name": "Follow Me (Club Mix)",
       "url": "https://open.spotify.com/track/3CIg59v1inc5vss6GIvDTn"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Can You Feel It",
+        "url": "https://open.spotify.com/album/7q5nYnbxfVVTsmyW5ZB8KX"
+      },
+      "artists": [
+        {
+          "name": "Larry Heard",
+          "url": "https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz"
+        }
+      ],
+      "duration_ms": 340813,
+      "name": "Can You Feel It - Instrumental",
+      "url": "https://open.spotify.com/track/4b5QHhUld8ba26ZJEHawFW"
     },
     {
       "added_at": "2023-08-18 04:00:00",

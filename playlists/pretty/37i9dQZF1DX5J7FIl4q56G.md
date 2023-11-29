@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: Dead by April
 
-[Spotify](https://open.spotify.com/user/spotify) - 711,605 likes - 40 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 711,694 likes - 40 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 31 | [Insane in the Brain](https://open.spotify.com/track/6Hgif1fiQ7H8V9U5FbUjlX) | [Clench Your Fist](https://open.spotify.com/artist/66HPhWDNuhGlU8oXXGU4yQ) | [Insane in the Brain](https://open.spotify.com/album/2AeTuAIvix36JwujGnBvyS) | 2:14 |
 | 32 | [PUSH IT BACK](https://open.spotify.com/track/49zL7jHeFmMkxP59y7SXIx) | [Xen0christ](https://open.spotify.com/artist/7ALiQOdEryp85dpRwrznHn) | [PUSH IT BACK](https://open.spotify.com/album/06Qz0AhNEIouaOYwEpzs8L) | 2:20 |
 | 33 | [Buying Time](https://open.spotify.com/track/44fLYaB2EpzcsHoY5asmO4) | [Aphasia](https://open.spotify.com/artist/62Jg3YvvzQsmfxMjCJX4B5) | [Buying Time](https://open.spotify.com/album/52N0724FUfF5C7Di15Pbsz) | 3:22 |
-| 34 | [Try Harder](https://open.spotify.com/track/7z4nnsUDk44Zm4RUu4GMRv) | [Noturnall](https://open.spotify.com/artist/7xRCuSBEiVCIJWCSIYQ7Ni) | [Cosmic Redemption](https://open.spotify.com/album/2wyc3ogW0vcvDPqrob4U7k) | 4:51 |
+| 34 | [Try Harder](https://open.spotify.com/track/1cF7FapYO7JXauDpUNNkJ1) | [Noturnall](https://open.spotify.com/artist/7xRCuSBEiVCIJWCSIYQ7Ni) | [Cosmic Redemption](https://open.spotify.com/album/1IjtCTvSSbIxy8AXIuS3y1) | 4:51 |
 | 35 | [Jackals](https://open.spotify.com/track/4612PWEVn40UivH5g285sA) | [Crimson Moonlight](https://open.spotify.com/artist/3BK5u7xOPJU8ERq8w27hnk) | [Abaddon](https://open.spotify.com/album/0Gho87N0nqxqU5aUwUoWhF) | 4:58 |
 | 36 | [Siren's Call](https://open.spotify.com/track/5YeM7BidpvjPVonaEMU5u3) | [Alterium](https://open.spotify.com/artist/5oh1CpxnZIlp8WvW9769nV) | [Siren's Call](https://open.spotify.com/album/0lFC4BMLYmRF7vIbhqb7B0) | 4:09 |
 | 37 | [Clawed](https://open.spotify.com/track/7uVeg4TjAc0UuAfy2SHBca) | [The Breathing Process](https://open.spotify.com/artist/6ngRmXLPP5slPvGsnQumJh) | [Todes Krone](https://open.spotify.com/album/2pEq78raD5aGJGPQzdyPhh) | 5:03 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 39 | [Stench Of Demise](https://open.spotify.com/track/44tQD4lQZQmyyBxu3LDwC2) | [Omega Diatribe](https://open.spotify.com/artist/3PhlBs25cslOOkkFtQXXvT) | [Stench Of Demise](https://open.spotify.com/album/0kKwMGkzOXN6K8B4DD6WmA) | 4:04 |
 | 40 | [Hinter der Sonne](https://open.spotify.com/track/1f4A7xzv7PtcR7oWBe6E9H) | [Zorn](https://open.spotify.com/artist/0aFMxvVviIbGXHGmq0EbXk) | [Discography 1994\-1997](https://open.spotify.com/album/5YC5w9Tn0JvxCheaA0l3Yp) | 3:11 |
 
-Snapshot ID: `MCw1ZGYzZjZmY2Q0ZTRkZTYyZmViMDg4MjNkNDhjNTFkZjFmYjk4YmJl`
+Snapshot ID: `MCxiY2M2NDhmMWRiYTI2OWJhYjRjY2NjODU5NDMwNTM5ZjljZGQyZWY0`

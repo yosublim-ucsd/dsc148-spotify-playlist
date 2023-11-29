@@ -1,12 +1,12 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 86763,
+  "num_followers": 86794,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTJhNGIxMzRiMmM5OWE5NGExYTNlZjc3MTEwNzdkZWM0ZGVmOTky",
+  "snapshot_id": "MCxlOTU3MTAzY2E1NDI4MTNjNzExZTEyYjg2Y2E5NTA3YTA3MzNjNjBm",
   "tracks": [
     {
       "added_at": "2023-10-26 20:41:14",
@@ -707,6 +707,22 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
+        "name": "When We Used to Play",
+        "url": "https://open.spotify.com/album/1tdeIyzQBV8wym67Wpegbo"
+      },
+      "artists": [
+        {
+          "name": "Blake Baxter",
+          "url": "https://open.spotify.com/artist/3ZKUeqiV2UX5sKhOipqw1h"
+        }
+      ],
+      "duration_ms": 500807,
+      "name": "When We Used To Play - Extended Mix",
+      "url": "https://open.spotify.com/track/2t3xaBvKKhMotBH5kNt3nu"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
         "name": "Psyche/BFC - DELUXE DIGITAL VERSION",
         "url": "https://open.spotify.com/album/1Bb0ser2obQ8dLRfNAiO7U"
       },
@@ -743,34 +759,18 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "When We Used to Play",
-        "url": "https://open.spotify.com/album/1tdeIyzQBV8wym67Wpegbo"
+        "name": "Maintain The Golden Ratio",
+        "url": "https://open.spotify.com/album/5dV2HXWXjGWqR4oOTXJw4Z"
       },
       "artists": [
         {
-          "name": "Blake Baxter",
-          "url": "https://open.spotify.com/artist/3ZKUeqiV2UX5sKhOipqw1h"
+          "name": "Cybotron",
+          "url": "https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm"
         }
       ],
-      "duration_ms": 500807,
-      "name": "When We Used To Play - Extended Mix",
-      "url": "https://open.spotify.com/track/2t3xaBvKKhMotBH5kNt3nu"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
-        "name": "Never Grow Old (Re-Plant) / Phobia (Re-Plant)",
-        "url": "https://open.spotify.com/album/7nIB2qmP6H7svgk8bIaQC2"
-      },
-      "artists": [
-        {
-          "name": "Floorplan",
-          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
-        }
-      ],
-      "duration_ms": 439929,
-      "name": "Never Grow Old - Re-Plant",
-      "url": "https://open.spotify.com/track/4ylwhtHT57G5VbpVMyUIBR"
+      "duration_ms": 282702,
+      "name": "The Golden Ratio (Version)",
+      "url": "https://open.spotify.com/track/2bQ2B1Zvk8ecLp1VAcI0bt"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -799,18 +799,18 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Maintain The Golden Ratio",
-        "url": "https://open.spotify.com/album/5dV2HXWXjGWqR4oOTXJw4Z"
+        "name": "Never Grow Old (Re-Plant) / Phobia (Re-Plant)",
+        "url": "https://open.spotify.com/album/7nIB2qmP6H7svgk8bIaQC2"
       },
       "artists": [
         {
-          "name": "Cybotron",
-          "url": "https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm"
+          "name": "Floorplan",
+          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
         }
       ],
-      "duration_ms": 282702,
-      "name": "The Golden Ratio (Version)",
-      "url": "https://open.spotify.com/track/2bQ2B1Zvk8ecLp1VAcI0bt"
+      "duration_ms": 439929,
+      "name": "Never Grow Old - Re-Plant",
+      "url": "https://open.spotify.com/track/4ylwhtHT57G5VbpVMyUIBR"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -851,22 +851,22 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "We All Move Together",
-        "url": "https://open.spotify.com/album/6H0EcJF033CuU5TsJqzoid"
+        "name": "Detroit Love Vol. 2 (DJ Mix)",
+        "url": "https://open.spotify.com/album/4MxXFLaIRakukm7CiS60FQ"
       },
       "artists": [
         {
-          "name": "Inner City",
-          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+          "name": "DJ Minx",
+          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
         },
         {
-          "name": "Idris Elba",
-          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+          "name": "Carl Craig",
+          "url": "https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU"
         }
       ],
-      "duration_ms": 352599,
-      "name": "We All Move Together - Album Mix",
-      "url": "https://open.spotify.com/track/5bdh7s1mGPfiBh2Thxlxsu"
+      "duration_ms": 339336,
+      "name": "Do It All Night (C2 Edit) - Mixed",
+      "url": "https://open.spotify.com/track/2FZ2tYMA7fyh8yeRigzU5s"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -887,22 +887,18 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Detroit Love Vol. 2 (DJ Mix)",
-        "url": "https://open.spotify.com/album/4MxXFLaIRakukm7CiS60FQ"
+        "name": "On A Journey",
+        "url": "https://open.spotify.com/album/1qg6gKQtN4rOrHQp1qv412"
       },
       "artists": [
         {
-          "name": "DJ Minx",
-          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
-        },
-        {
-          "name": "Carl Craig",
-          "url": "https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU"
+          "name": "K-Hand",
+          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
         }
       ],
-      "duration_ms": 339336,
-      "name": "Do It All Night (C2 Edit) - Mixed",
-      "url": "https://open.spotify.com/track/2FZ2tYMA7fyh8yeRigzU5s"
+      "duration_ms": 271464,
+      "name": "On A Journey",
+      "url": "https://open.spotify.com/track/1DzZRyXgpD3IlRqsC7fqzD"
     }
   ],
   "unique_name": "Detroit Techno",

@@ -1,12 +1,12 @@
 {
   "description": "Breathe in deep with arms wide open in worship. This is going to be epic!",
-  "num_followers": 281479,
+  "num_followers": 281674,
   "original_name": "epicPRAISE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMGJjZGU3MWM3NzkwYTY4YmNhZGRiM2JjY2FkNTY0OGYxNjFjZWMz",
+  "snapshot_id": "MCwyOTAzMDE0ZTFlZDMzZTgwMDNlYTFhMTgwZTkyYmFiMTNlYjZkN2Uy",
   "tracks": [
     {
       "added_at": "2020-06-26 04:02:00",
@@ -411,8 +411,8 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Empires",
-        "url": "https://open.spotify.com/album/4twr7zT1cX9NP5mk11FKDD"
+        "name": "People (Live)",
+        "url": "https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD"
       },
       "artists": [
         {
@@ -422,11 +422,15 @@
         {
           "name": "TAYA",
           "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        },
+        {
+          "name": "Aodh\u00e1n King",
+          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
         }
       ],
-      "duration_ms": 262120,
-      "name": "Touch The Sky",
-      "url": "https://open.spotify.com/track/58yhHre6kOePZPD15hZWgP"
+      "duration_ms": 449253,
+      "name": "Whole Heart (Hold Me Now) - Live",
+      "url": "https://open.spotify.com/track/3XkNkpfHFB0hoS13DdzJup"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -503,8 +507,8 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "People (Live)",
-        "url": "https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD"
+        "name": "Empires",
+        "url": "https://open.spotify.com/album/4twr7zT1cX9NP5mk11FKDD"
       },
       "artists": [
         {
@@ -514,15 +518,11 @@
         {
           "name": "TAYA",
           "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        },
-        {
-          "name": "Aodh\u00e1n King",
-          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
         }
       ],
-      "duration_ms": 449253,
-      "name": "Whole Heart (Hold Me Now) - Live",
-      "url": "https://open.spotify.com/track/3XkNkpfHFB0hoS13DdzJup"
+      "duration_ms": 262120,
+      "name": "Touch The Sky",
+      "url": "https://open.spotify.com/track/58yhHre6kOePZPD15hZWgP"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -703,18 +703,18 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Death Of Death",
-        "url": "https://open.spotify.com/album/1KFDY2EV313IlVsAiQJQ1C"
+        "name": "My Hope Secure",
+        "url": "https://open.spotify.com/album/5MT9pzBW54hm6sfTUSLnt6"
       },
       "artists": [
         {
-          "name": "Life.Church Worship",
-          "url": "https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS"
+          "name": "Erik Nieder",
+          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
         }
       ],
-      "duration_ms": 217000,
-      "name": "Where The Spirit Of The Lord Is",
-      "url": "https://open.spotify.com/track/7aEJ4hXCfjeWO2zq4tyCT9"
+      "duration_ms": 256734,
+      "name": "My Hope Secure",
+      "url": "https://open.spotify.com/track/4C5FUrMegjnMuBdvtPDn2k"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
+        "name": "Death Of Death",
+        "url": "https://open.spotify.com/album/1KFDY2EV313IlVsAiQJQ1C"
+      },
+      "artists": [
+        {
+          "name": "Life.Church Worship",
+          "url": "https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Where The Spirit Of The Lord Is",
+      "url": "https://open.spotify.com/track/7aEJ4hXCfjeWO2zq4tyCT9"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
         "name": "Housefires + Friends (Live)",
         "url": "https://open.spotify.com/album/0fz0bRd6luFI3J8jqiM5Ma"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 477513,
       "name": "Lift You High - Live",
       "url": "https://open.spotify.com/track/39ssH6XDc7GGq6FDnENkjf"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "My Hope Secure",
-        "url": "https://open.spotify.com/album/5MT9pzBW54hm6sfTUSLnt6"
-      },
-      "artists": [
-        {
-          "name": "Erik Nieder",
-          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
-        }
-      ],
-      "duration_ms": 256734,
-      "name": "My Hope Secure",
-      "url": "https://open.spotify.com/track/4C5FUrMegjnMuBdvtPDn2k"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
+        "name": "Calm the Storm (Live)",
+        "url": "https://open.spotify.com/album/3jVReSnHC0ZO6JZZRIic1p"
+      },
+      "artists": [
+        {
+          "name": "Union Creative",
+          "url": "https://open.spotify.com/artist/5yU2qZj0bSVbYPXREUulnX"
+        }
+      ],
+      "duration_ms": 311406,
+      "name": "Calm the Storm (Live)",
+      "url": "https://open.spotify.com/track/0YoGf0jNg8nTUuWNKb8Ta9"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
         "name": "Awake",
         "url": "https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 272426,
       "name": "Come Alive",
       "url": "https://open.spotify.com/track/78pKjOa4gToyRxn3cVc7Sa"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "Calm the Storm (Live)",
-        "url": "https://open.spotify.com/album/3jVReSnHC0ZO6JZZRIic1p"
-      },
-      "artists": [
-        {
-          "name": "Union Creative",
-          "url": "https://open.spotify.com/artist/5yU2qZj0bSVbYPXREUulnX"
-        }
-      ],
-      "duration_ms": 311406,
-      "name": "Calm the Storm (Live)",
-      "url": "https://open.spotify.com/track/0YoGf0jNg8nTUuWNKb8Ta9"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1419,22 +1419,22 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Breakthrough (Live)",
-        "url": "https://open.spotify.com/album/4ROjH1uLP9Qe7FNunpCTZi"
+        "name": "The Songs We Sing",
+        "url": "https://open.spotify.com/album/5KWSVv7EOYsOmuKmsLg5pD"
       },
       "artists": [
         {
-          "name": "Chris McClarney",
-          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
+          "name": "Mid-Cities Worship",
+          "url": "https://open.spotify.com/artist/3XerAM6cB9YmacAmbafgZP"
         },
         {
-          "name": "Hollyn",
-          "url": "https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav"
+          "name": "Brooklynn Ward",
+          "url": "https://open.spotify.com/artist/3A04Fs4pJ2QpQtR8DjRQTv"
         }
       ],
-      "duration_ms": 285560,
-      "name": "I'm Listening - Live",
-      "url": "https://open.spotify.com/track/4H8aHbObTT2BD16ZUZjD5Y"
+      "duration_ms": 288000,
+      "name": "Unshakable",
+      "url": "https://open.spotify.com/track/05YyiE4iKGzNNwLDlA8v96"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1459,22 +1459,22 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "The Songs We Sing",
-        "url": "https://open.spotify.com/album/5KWSVv7EOYsOmuKmsLg5pD"
+        "name": "Breakthrough (Live)",
+        "url": "https://open.spotify.com/album/4ROjH1uLP9Qe7FNunpCTZi"
       },
       "artists": [
         {
-          "name": "Mid-Cities Worship",
-          "url": "https://open.spotify.com/artist/3XerAM6cB9YmacAmbafgZP"
+          "name": "Chris McClarney",
+          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
         },
         {
-          "name": "Brooklynn Ward",
-          "url": "https://open.spotify.com/artist/3A04Fs4pJ2QpQtR8DjRQTv"
+          "name": "Hollyn",
+          "url": "https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav"
         }
       ],
-      "duration_ms": 288000,
-      "name": "Unshakable",
-      "url": "https://open.spotify.com/track/05YyiE4iKGzNNwLDlA8v96"
+      "duration_ms": 285560,
+      "name": "I'm Listening - Live",
+      "url": "https://open.spotify.com/track/4H8aHbObTT2BD16ZUZjD5Y"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Speak",
-        "url": "https://open.spotify.com/album/5joR8lkcklTpO3o8dPVsoI"
-      },
-      "artists": [
-        {
-          "name": "Bethany Music",
-          "url": "https://open.spotify.com/artist/6zJA80S2jrsIqiqukh36WP"
-        }
-      ],
-      "duration_ms": 260466,
-      "name": "Speak",
-      "url": "https://open.spotify.com/track/4KUzH3n3EJYz5ltMHuDKUV"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Valley (Live)",
         "url": "https://open.spotify.com/album/2RfOUTIdbZpA8YH2qlPi6n"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 291473,
       "name": "Valley - Live",
       "url": "https://open.spotify.com/track/04IRbKCLC8ktH1nhYdmEXe"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "Speak",
+        "url": "https://open.spotify.com/album/5joR8lkcklTpO3o8dPVsoI"
+      },
+      "artists": [
+        {
+          "name": "Bethany Music",
+          "url": "https://open.spotify.com/artist/6zJA80S2jrsIqiqukh36WP"
+        }
+      ],
+      "duration_ms": 260466,
+      "name": "Speak",
+      "url": "https://open.spotify.com/track/4KUzH3n3EJYz5ltMHuDKUV"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1723,18 +1723,18 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Clarity",
-        "url": "https://open.spotify.com/album/1uHRZPQXLPsO5cKSHsPYup"
+        "name": "This Is Our Story",
+        "url": "https://open.spotify.com/album/2Tj6FuYJTT5PmlgIyKCBPo"
       },
       "artists": [
         {
-          "name": "For All Seasons",
-          "url": "https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf"
+          "name": "VOUS Worship",
+          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
         }
       ],
-      "duration_ms": 232404,
-      "name": "No Other",
-      "url": "https://open.spotify.com/track/4vQ01aO9VFizTmOa8HOBjf"
+      "duration_ms": 341849,
+      "name": "This Is Our Story",
+      "url": "https://open.spotify.com/track/3qAgzc1GCfBHSAr9UxpNXT"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1755,18 +1755,18 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "This Is Our Story",
-        "url": "https://open.spotify.com/album/2Tj6FuYJTT5PmlgIyKCBPo"
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/1uHRZPQXLPsO5cKSHsPYup"
       },
       "artists": [
         {
-          "name": "VOUS Worship",
-          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
+          "name": "For All Seasons",
+          "url": "https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf"
         }
       ],
-      "duration_ms": 341849,
-      "name": "This Is Our Story",
-      "url": "https://open.spotify.com/track/3qAgzc1GCfBHSAr9UxpNXT"
+      "duration_ms": 232404,
+      "name": "No Other",
+      "url": "https://open.spotify.com/track/4vQ01aO9VFizTmOa8HOBjf"
     },
     {
       "added_at": "2020-06-26 04:02:00",

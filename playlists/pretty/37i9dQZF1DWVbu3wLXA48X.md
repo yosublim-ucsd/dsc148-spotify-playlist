@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: mxmtoon
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,071 likes - 93 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,091 likes - 93 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 92 | [Turn The World On](https://open.spotify.com/track/2pkVFnJrUixqjhjf3In0G0) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [My Big Day](https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO) | 3:30 |
 | 93 | [So Many Plans](https://open.spotify.com/track/14pNmP49UDCDJDobtV2FMc) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [So Many Plans](https://open.spotify.com/album/5V1HBwPIJhA9BniGd3Yj1R) | 3:47 |
 
-Snapshot ID: `MCw3OWYyZWNiM2Y2OGU1OGYwNTE3NzZhMzBlZjkwYTVhNTQxN2ZhMTE0`
+Snapshot ID: `MCw4MjljODYxYWQzNTJkYmEzNTc4NjNmMDkyZmQ4OTRhM2JmOGI3MmQz`

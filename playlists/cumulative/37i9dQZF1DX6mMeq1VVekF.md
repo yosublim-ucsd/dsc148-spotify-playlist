@@ -4,7 +4,7 @@
 
 > No tags, no labels \- just free form\. Cover: BXKS
 
-319 songs - 16 hr 45 min
+320 songs - 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Blue Denim Jeans](https://open.spotify.com/track/327epjHIypEPo3c0kjIli9) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [Blue Denim Jeans](https://open.spotify.com/album/6YdS3GKcT9hE8cxjWzRrqn) | 3:12 | 2022-06-24 | 2022-07-29 |
 | [Bobbing For Apples](https://open.spotify.com/track/6j3ngNFljCbXwpNm7735BC) | [Che Lingo](https://open.spotify.com/artist/0xNKgWtSixAqcwJLM2c8ez) | [The Worst Generation](https://open.spotify.com/album/3eRX6QYuVXL9jux0bCDdFi) | 2:26 | 2023-05-15 | 2023-05-19 |
 | [Body on fire](https://open.spotify.com/track/3VgCXhYG94j4EXJWhgm1mQ) | [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Honey Doom](https://open.spotify.com/album/3TvKmSxLeUCvQpNRgnVgN3) | 2:51 | 2022-10-23 | 2023-05-16 |
+| [Bon Appétit](https://open.spotify.com/track/0K56woQKVkZSgqxom9aNqO) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Bon Appétit](https://open.spotify.com/album/5Tax49IzkZVlDraQdobhEk) | 3:17 | 2023-11-24 |  |
 | [Booty Drop](https://open.spotify.com/track/1iOdhNBdePXR632DhYZVO2) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Booty Drop](https://open.spotify.com/album/096NZMg4ARLx7TQamIDE30) | 2:39 | 2023-08-18 |  |
 | [BOOTZBOTTEGA](https://open.spotify.com/track/7b2UOJJwTq1giJqmUr05by) | [Len](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s) | [BOOTZBOTTEGA](https://open.spotify.com/album/5oxWSh0jZff0S9rpkYF0VU) | 2:06 | 2023-05-15 | 2023-06-17 |
 | [Born \(Remix\) \[feat\. Cashh & King Promise\]](https://open.spotify.com/track/6ztz7MysNjHec8CHmigWDp) | [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Cashh](https://open.spotify.com/artist/1CTdJErNqnCWNwtxJmleua), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Born \(Remix\) \[feat\. Cashh & King Promise\]](https://open.spotify.com/album/5c2opaEOTa8gn5Ufinm3H1) | 2:47 | 2022-07-17 | 2022-08-23 |
@@ -101,7 +102,7 @@
 | [Entrepreneur](https://open.spotify.com/track/2wiJQhmWcClrB2LKnyvBNE) | [Rimzee](https://open.spotify.com/artist/65QlWmtWjcK3CPBung0ATT) | [Entrepreneur](https://open.spotify.com/album/7wIGIAvJf8SQhZ3z4BfuPM) | 2:26 | 2022-07-17 | 2022-09-03 |
 | [Exception](https://open.spotify.com/track/3BSih9QYqAXu5GL6V9AUPt) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Exception](https://open.spotify.com/album/0s8OBEdwGEHGkXLV4VQr0l) | 4:06 | 2022-06-24 | 2022-07-27 |
 | [Extrovert](https://open.spotify.com/track/6yfmbb66n84EZH1bFOH739) | [Monjola](https://open.spotify.com/artist/1hwy1qY69O1tCOAm7MYeq6) | [Extrovert](https://open.spotify.com/album/3Rbg1yJHg5yf87IkeT7iic) | 3:06 | 2022-06-24 | 2023-05-16 |
-| [Eye for an Eye](https://open.spotify.com/track/1KjxNspmKdAncNRGNggUGk) | [Benny Banks](https://open.spotify.com/artist/6VkIVwkujaxm1wSNdhjUrg) | [Eye for an Eye](https://open.spotify.com/album/06ttneqqTXDO9pGsRGzRO7) | 4:10 | 2022-07-17 |  |
+| [Eye for an Eye](https://open.spotify.com/track/1KjxNspmKdAncNRGNggUGk) | [Benny Banks](https://open.spotify.com/artist/6VkIVwkujaxm1wSNdhjUrg) | [Eye for an Eye](https://open.spotify.com/album/06ttneqqTXDO9pGsRGzRO7) | 4:10 | 2022-07-17 | 2023-11-29 |
 | [F\*ck U Thought](https://open.spotify.com/track/7nGY6TG3NF8MNdUOT2wJA4) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [F\*ck U Thought](https://open.spotify.com/album/61Bs2ccx3QlNk6wH1tMwtI) | 3:18 | 2023-08-18 |  |
 | [F.U.C.K.](https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [F.U.C.K.](https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC) | 3:25 | 2022-07-17 |  |
 | [fake smiles](https://open.spotify.com/track/4rdhaITfxf71ke7kKfrQuC) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [homeless n\*gga pop music](https://open.spotify.com/album/5j9zothL0paSMkfcdjCdHA) | 2:37 | 2023-05-15 | 2023-06-17 |

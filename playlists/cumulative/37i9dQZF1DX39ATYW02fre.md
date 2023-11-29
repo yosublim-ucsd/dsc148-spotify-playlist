@@ -4,7 +4,7 @@
 
 > Beautiful electronic music for melancholy moments.
 
-207 songs - 15 hr 39 min
+208 songs - 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Love Theme](https://open.spotify.com/track/5a0kuu2yUKAxgz4ie4EVp2) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Love Theme](https://open.spotify.com/album/2YXmGNLo8MgBrOmQKhp0bu) | 4:29 | 2020-06-05\* | 2022-07-21 |
 | [Lover, You Should've Come Over \(Exclusive Cover Version\)](https://open.spotify.com/track/4Pzim4c56ntyReaKmjcIIL) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Lover, You Should've Come Over](https://open.spotify.com/album/5VellzrJuIcQsc2JjB0hrv) | 3:00 | 2021-03-16 | 2022-07-29 |
 | [Lydia \(please make it better\)](https://open.spotify.com/track/04yl0gqAhDRZe3MLAncaiD) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 3:07 | 2021-04-20 | 2023-11-24 |
+| [Made To Stray](https://open.spotify.com/track/0BVdNCqYq6offkjRGKVRDB) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Cold Spring Fault Less Youth](https://open.spotify.com/album/4jaLRarRRCScr5v6Y6vUQu) | 4:46 | 2022-11-25 |  |
 | [Made To Stray](https://open.spotify.com/track/7M0GDtHcuJrTMWtnSs48I3) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Cold Spring Fault Less Youth](https://open.spotify.com/album/6ETAoJJ5NhxsGyD53cHApT) | 4:46 | 2021-03-16 | 2022-11-13 |
 | [Magpie](https://open.spotify.com/track/7JupIPNh2O9kapSLZADTbd) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/3q5CZdmVxP6hE0mlBcYEU1) | 3:55 | 2020-06-05 | 2022-07-18 |
 | [Maia](https://open.spotify.com/track/2ly2df2rqqeSvzC5C2j8wt) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh) | [Maia](https://open.spotify.com/album/1Dixdn4V9W9XfKZivGKaP5) | 5:12 | 2020-06-05\* | 2022-07-29 |
@@ -155,7 +156,7 @@
 | [Rev8617](https://open.spotify.com/track/0i3lQKL6ODCnegkzNGqCPB) | [Skee Mask](https://open.spotify.com/artist/2qwi0hBvI2GrbkurOnw3hZ) | [Compro](https://open.spotify.com/album/3yXIkSJWpudtgF0TZuB16U) | 3:44 | 2021-01-31 | 2022-06-29 |
 | [Road](https://open.spotify.com/track/6kckNpuM5oXZrObLExRg6d) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Brightest Lights](https://open.spotify.com/album/6EdbqQvOCialJuOjEEUlsL) | 3:58 | 2020-06-05\* |  |
 | [Roaming](https://open.spotify.com/track/3D2tSvWhXqkkJlh03CFFTF) | [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [On Hold](https://open.spotify.com/album/7yi8rEGaPXuYvxbb3pS3Em) | 4:50 | 2021-03-18 | 2022-07-26 |
-| [Roll Back \- Single Mix](https://open.spotify.com/track/7ko64FZgc63TnZuYhusU21) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [Roll Back](https://open.spotify.com/album/5b6TuPfFvUpIllFHZgCUy2) | 3:04 | 2020-06-05\* |  |
+| [Roll Back \- Single Mix](https://open.spotify.com/track/7ko64FZgc63TnZuYhusU21) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [Roll Back](https://open.spotify.com/album/5b6TuPfFvUpIllFHZgCUy2) | 3:04 | 2020-06-05\* | 2023-11-29 |
 | [Rune](https://open.spotify.com/track/3nVhib9CWt4pMW9LCnI0B6) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A) | [Rune](https://open.spotify.com/album/0R3Cm743EjdA17A57wqysW) | 3:29 | 2020-06-11 | 2021-10-16 |
 | [Ry \- Edit](https://open.spotify.com/track/3Tc6x9waprUmAwaOjEIWEa) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Ry](https://open.spotify.com/album/4vFo3InuBDrRVEuBxBVMb5) | 3:40 | 2020-06-05\* | 2021-10-13 |
 | [S teboi](https://open.spotify.com/track/2kAOCGCbaBF6bXMkTcBFKk) | [zalagasper](https://open.spotify.com/artist/0YvFvwtv758gmIrkPoAnRO) | [4](https://open.spotify.com/album/0srDYj2Gl5QpfT5MQX9AmG) | 3:24 | 2020-06-12 | 2021-01-15 |

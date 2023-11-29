@@ -1,12 +1,12 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Whatever The Weather",
-  "num_followers": 32148,
+  "num_followers": 32163,
   "original_name": "EQUAL Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzdkNTA3ZGJmZWFmYzZjYmEyNjNmMDQ5NWE3ZTQ4MTIxYjY5YzQ2",
+  "snapshot_id": "MCw1MTM3NDRkMDk0Y2E0ZDhiNTEwOGJmOTViM2RjMDM4MTcwMzAxNmEy",
   "tracks": [
     {
       "added_at": "2023-09-08 14:04:07",
@@ -371,18 +371,18 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "See-Through",
-        "url": "https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF"
+        "name": "Whatever The Weather",
+        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
       },
       "artists": [
         {
-          "name": "Patricia Wolf",
-          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
         }
       ],
-      "duration_ms": 368000,
-      "name": "Woodland Encounter",
-      "url": "https://open.spotify.com/track/2bH1jLEt4LFtgkNSuWYvyR"
+      "duration_ms": 447000,
+      "name": "25\u00b0C",
+      "url": "https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -403,6 +403,22 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
+        "name": "See-Through",
+        "url": "https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF"
+      },
+      "artists": [
+        {
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
+        }
+      ],
+      "duration_ms": 368000,
+      "name": "Woodland Encounter",
+      "url": "https://open.spotify.com/track/2bH1jLEt4LFtgkNSuWYvyR"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
         "name": "Our Hands Against the Dusk",
         "url": "https://open.spotify.com/album/6mtOF3M7pLQTQZlPtAFwn9"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 208912,
       "name": "The Trembling of Glass",
       "url": "https://open.spotify.com/track/3xcZhz8x7ZV2PrREmSav89"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
-        "name": "Whatever The Weather",
-        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
-      },
-      "artists": [
-        {
-          "name": "Whatever The Weather",
-          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
-        }
-      ],
-      "duration_ms": 447000,
-      "name": "25\u00b0C",
-      "url": "https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Under the Lilac Sky",
-        "url": "https://open.spotify.com/album/6LPHMEFOuoscZzQQG2UJEj"
-      },
-      "artists": [
-        {
-          "name": "Arushi Jain",
-          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "My People Have Deep Roots",
-      "url": "https://open.spotify.com/track/0Xkmp9DkqHvz5EnA7VZPD0"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Raw Silk Uncut Wood",
         "url": "https://open.spotify.com/album/2dsRjDCYTJeqoQXuc8ZRjY"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 600386,
       "name": "Raw Silk Uncut Wood",
       "url": "https://open.spotify.com/track/5wVB3rkTxCGLV9xBj0GGAl"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Under the Lilac Sky",
+        "url": "https://open.spotify.com/album/6LPHMEFOuoscZzQQG2UJEj"
+      },
+      "artists": [
+        {
+          "name": "Arushi Jain",
+          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "My People Have Deep Roots",
+      "url": "https://open.spotify.com/track/0Xkmp9DkqHvz5EnA7VZPD0"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Micro Macro",
-        "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
-      },
-      "artists": [
-        {
-          "name": "Clariloops",
-          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "New Dawn",
-      "url": "https://open.spotify.com/track/3LzIY1aukFa2CAV2wBN7Bz"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Comme Un Seul Narcisse",
         "url": "https://open.spotify.com/album/7lOB1lg0Iu810pZhvJCmk4"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 261565,
       "name": "ME",
       "url": "https://open.spotify.com/track/2d7FoK7amJiLOk6S0IT8AS"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Micro Macro",
+        "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
+      },
+      "artists": [
+        {
+          "name": "Clariloops",
+          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "New Dawn",
+      "url": "https://open.spotify.com/track/3LzIY1aukFa2CAV2wBN7Bz"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -671,22 +671,18 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Far Within Reach",
-        "url": "https://open.spotify.com/album/3kdqtmyBQjtJSGR5n8dB7g"
+        "name": "Melting Hazard",
+        "url": "https://open.spotify.com/album/0isBv8KbRJh6NWDkNOneo9"
       },
       "artists": [
         {
-          "name": "Ekin Fil",
-          "url": "https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda"
-        },
-        {
-          "name": "Ella Zwietnig",
-          "url": "https://open.spotify.com/artist/60cHgnfXVYiogMeM1K0zfa"
+          "name": "Salamanda",
+          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
         }
       ],
-      "duration_ms": 312000,
-      "name": "The Reckoning",
-      "url": "https://open.spotify.com/track/4eq5135ivFfvHFtRHvjgHN"
+      "duration_ms": 306676,
+      "name": "Melting Hazard",
+      "url": "https://open.spotify.com/track/3GYAfSrDV0z6hurUomcELr"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -707,18 +703,22 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Melting Hazard",
-        "url": "https://open.spotify.com/album/0isBv8KbRJh6NWDkNOneo9"
+        "name": "Far Within Reach",
+        "url": "https://open.spotify.com/album/3kdqtmyBQjtJSGR5n8dB7g"
       },
       "artists": [
         {
-          "name": "Salamanda",
-          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+          "name": "Ekin Fil",
+          "url": "https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda"
+        },
+        {
+          "name": "Ella Zwietnig",
+          "url": "https://open.spotify.com/artist/60cHgnfXVYiogMeM1K0zfa"
         }
       ],
-      "duration_ms": 306676,
-      "name": "Melting Hazard",
-      "url": "https://open.spotify.com/track/3GYAfSrDV0z6hurUomcELr"
+      "duration_ms": 312000,
+      "name": "The Reckoning",
+      "url": "https://open.spotify.com/track/4eq5135ivFfvHFtRHvjgHN"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Kali",
-        "url": "https://open.spotify.com/album/5ZZqEAvWi7uagiA3QEnRKt"
-      },
-      "artists": [
-        {
-          "name": "Salamanda",
-          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
-        }
-      ],
-      "duration_ms": 400000,
-      "name": "Kali",
-      "url": "https://open.spotify.com/track/5LZxYZ4oQ0LA6VvgaxW36k"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Memories of Log",
         "url": "https://open.spotify.com/album/7zYfVGpVHFMBlFQfKNPy0b"
       },
@@ -963,6 +947,22 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
+        "name": "Kali",
+        "url": "https://open.spotify.com/album/5ZZqEAvWi7uagiA3QEnRKt"
+      },
+      "artists": [
+        {
+          "name": "Salamanda",
+          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+        }
+      ],
+      "duration_ms": 400000,
+      "name": "Kali",
+      "url": "https://open.spotify.com/track/5LZxYZ4oQ0LA6VvgaxW36k"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
         "name": "Welfare / Practice",
         "url": "https://open.spotify.com/album/1O05SuJmpU1j9PtraWRaXc"
       },
@@ -975,6 +975,22 @@
       "duration_ms": 231731,
       "name": "How to build an automaton",
       "url": "https://open.spotify.com/track/1yOj6SKeaEpGYwVbhMN9a7"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "CHU / \u8655",
+        "url": "https://open.spotify.com/album/1yhSwBtIuk49GmK6pBydQC"
+      },
+      "artists": [
+        {
+          "name": "LI YILEI",
+          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
+        }
+      ],
+      "duration_ms": 143815,
+      "name": "CHU / \u8655",
+      "url": "https://open.spotify.com/track/5D4LseymlE9t3nEZCMtEYN"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1007,22 +1023,6 @@
       "duration_ms": 144500,
       "name": "Absolution",
       "url": "https://open.spotify.com/track/6G9ANgLjnSOKvEPogFGfQp"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
-        "name": "CHU / \u8655",
-        "url": "https://open.spotify.com/album/1yhSwBtIuk49GmK6pBydQC"
-      },
-      "artists": [
-        {
-          "name": "LI YILEI",
-          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
-        }
-      ],
-      "duration_ms": 143815,
-      "name": "CHU / \u8655",
-      "url": "https://open.spotify.com/track/5D4LseymlE9t3nEZCMtEYN"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
+        "name": "Marina`s Song",
+        "url": "https://open.spotify.com/album/2NGbCubwWrphNgJYEy2e2g"
+      },
+      "artists": [
+        {
+          "name": "EIRLYS",
+          "url": "https://open.spotify.com/artist/5Lqrkxi2AoI6HJQGoiVR5l"
+        }
+      ],
+      "duration_ms": 303828,
+      "name": "Marina`s Song",
+      "url": "https://open.spotify.com/track/6gCrvZ8QV0ftNuWES7SXUP"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
         "name": "Becoming Ferromagnetic",
         "url": "https://open.spotify.com/album/54VwG9mPpNyqR3MHrXaYEJ"
       },
@@ -1107,30 +1123,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "You Make It Look so Easy (Reverbed by Malibu)",
-        "url": "https://open.spotify.com/album/5qBsJT3UuTQ3me60RNgDPl"
-      },
-      "artists": [
-        {
-          "name": "Himera",
-          "url": "https://open.spotify.com/artist/1Vi0Dq6hC56i3a6eVA9Y6g"
-        },
-        {
-          "name": "Petal Supply",
-          "url": "https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj"
-        },
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
-        }
-      ],
-      "duration_ms": 239232,
-      "name": "You Make It Look so Easy - Reverbed by Malibu",
-      "url": "https://open.spotify.com/track/5hKekn6sLhu07TbCNNqn9a"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Cradle (Patience Rework)",
         "url": "https://open.spotify.com/album/2SOtUwtSq0hOOT2X7FtziA"
       },
@@ -1151,18 +1143,26 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Marina`s Song",
-        "url": "https://open.spotify.com/album/2NGbCubwWrphNgJYEy2e2g"
+        "name": "You Make It Look so Easy (Reverbed by Malibu)",
+        "url": "https://open.spotify.com/album/5qBsJT3UuTQ3me60RNgDPl"
       },
       "artists": [
         {
-          "name": "EIRLYS",
-          "url": "https://open.spotify.com/artist/5Lqrkxi2AoI6HJQGoiVR5l"
+          "name": "Himera",
+          "url": "https://open.spotify.com/artist/1Vi0Dq6hC56i3a6eVA9Y6g"
+        },
+        {
+          "name": "Petal Supply",
+          "url": "https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj"
+        },
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
         }
       ],
-      "duration_ms": 303828,
-      "name": "Marina`s Song",
-      "url": "https://open.spotify.com/track/6gCrvZ8QV0ftNuWES7SXUP"
+      "duration_ms": 239232,
+      "name": "You Make It Look so Easy - Reverbed by Malibu",
+      "url": "https://open.spotify.com/track/5hKekn6sLhu07TbCNNqn9a"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Healing Is A Miracle - Extended Versions",
-        "url": "https://open.spotify.com/album/0u6QdELDIZpZ9QTVhIKN9d"
-      },
-      "artists": [
-        {
-          "name": "Julianna Barwick",
-          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
-        }
-      ],
-      "duration_ms": 640034,
-      "name": "Inspirit - Extended Version",
-      "url": "https://open.spotify.com/track/6lboNI9Zzftv0XV5ycodA7"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Possessed (Original Score)",
         "url": "https://open.spotify.com/album/3qFUz77lFTarOn9nSzSkAY"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 387268,
       "name": "Hyphae",
       "url": "https://open.spotify.com/track/2NOCvQQPWRz19g6cK4rR7g"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Healing Is A Miracle - Extended Versions",
+        "url": "https://open.spotify.com/album/0u6QdELDIZpZ9QTVhIKN9d"
+      },
+      "artists": [
+        {
+          "name": "Julianna Barwick",
+          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
+        }
+      ],
+      "duration_ms": 640034,
+      "name": "Inspirit - Extended Version",
+      "url": "https://open.spotify.com/track/6lboNI9Zzftv0XV5ycodA7"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Arrow",
-        "url": "https://open.spotify.com/album/23XR5sJhFLxezpchTPf54S"
-      },
-      "artists": [
-        {
-          "name": "Noveller",
-          "url": "https://open.spotify.com/artist/3MqYHtX48uiYNf0gPaNBW2"
-        }
-      ],
-      "duration_ms": 227748,
-      "name": "Effektology",
-      "url": "https://open.spotify.com/track/2R7ow3ycyaJZe13AvKdLQc"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "One Life : four remixes",
         "url": "https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 296681,
       "name": "Lost At Sea - Kelly Moran remix",
       "url": "https://open.spotify.com/track/0My0fhq5AZ4AyndjDAL1YY"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Arrow",
+        "url": "https://open.spotify.com/album/23XR5sJhFLxezpchTPf54S"
+      },
+      "artists": [
+        {
+          "name": "Noveller",
+          "url": "https://open.spotify.com/artist/3MqYHtX48uiYNf0gPaNBW2"
+        }
+      ],
+      "duration_ms": 227748,
+      "name": "Effektology",
+      "url": "https://open.spotify.com/track/2R7ow3ycyaJZe13AvKdLQc"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Laurus",
-        "url": "https://open.spotify.com/album/002PfB3V3MwL05lAvCTC6l"
-      },
-      "artists": [
-        {
-          "name": "Sarah Davachi",
-          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
-        }
-      ],
-      "duration_ms": 245296,
-      "name": "Laurus I",
-      "url": "https://open.spotify.com/track/2Ghsr0ema2mSWWAFitSttM"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "The Harmonic Series Volume 2",
         "url": "https://open.spotify.com/album/6mgiYqLg5G1ByURg6yDpP2"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 835000,
       "name": "Firmamento",
       "url": "https://open.spotify.com/track/0KHQIxbitvGI5Hm8AKEtZa"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Laurus",
+        "url": "https://open.spotify.com/album/002PfB3V3MwL05lAvCTC6l"
+      },
+      "artists": [
+        {
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+        }
+      ],
+      "duration_ms": 245296,
+      "name": "Laurus I",
+      "url": "https://open.spotify.com/track/2Ghsr0ema2mSWWAFitSttM"
     },
     {
       "added_at": "2023-09-08 14:04:07",

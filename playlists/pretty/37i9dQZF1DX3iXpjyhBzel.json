@@ -1,12 +1,12 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Isaias Saad",
-  "num_followers": 1014067,
+  "num_followers": 1014413,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjZiZTZhZGYwYWE0ZDIyYTVmZDQ5MWZlOTViMGRmZmM1NTYzZTEy",
+  "snapshot_id": "MCxmZmM2YWUxY2Q2OTIxMDYwOWY2M2NmZDcwOWU2ZDVjM2U2Y2NiMWMy",
   "tracks": [
     {
       "added_at": "2023-11-24 07:00:22",
@@ -819,26 +819,6 @@
     {
       "added_at": "2023-11-24 07:00:22",
       "album": {
-        "name": "Era Deus",
-        "url": "https://open.spotify.com/album/5qUCNqOs1lbiZmiizjYBwp"
-      },
-      "artists": [
-        {
-          "name": "Leandro Borges",
-          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
-        },
-        {
-          "name": "Sarah Beatriz",
-          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
-        }
-      ],
-      "duration_ms": 285049,
-      "name": "Era Deus",
-      "url": "https://open.spotify.com/track/7FCZXSFH10ZcwgaGKXaDYj"
-    },
-    {
-      "added_at": "2023-11-24 07:00:22",
-      "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 658333,
       "name": "Casinha Favorita",
       "url": "https://open.spotify.com/track/0M3B9SP1tUSu3uuwjz07PH"
+    },
+    {
+      "added_at": "2023-11-24 07:00:22",
+      "album": {
+        "name": "Era Deus",
+        "url": "https://open.spotify.com/album/5qUCNqOs1lbiZmiizjYBwp"
+      },
+      "artists": [
+        {
+          "name": "Leandro Borges",
+          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
+        },
+        {
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+        }
+      ],
+      "duration_ms": 285049,
+      "name": "Era Deus",
+      "url": "https://open.spotify.com/track/7FCZXSFH10ZcwgaGKXaDYj"
     },
     {
       "added_at": "2023-11-24 07:00:22",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-11-24 07:00:22",
       "album": {
-        "name": "O Nome de Jesus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0xCGgTV1P3o4LOcUONAOeI"
-      },
-      "artists": [
-        {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
-        }
-      ],
-      "duration_ms": 528693,
-      "name": "O Nome de Jesus - Ao Vivo",
-      "url": "https://open.spotify.com/track/4toU5AhDVaCNfyQkXV4BuX"
-    },
-    {
-      "added_at": "2023-11-24 07:00:22",
-      "album": {
         "name": "Quero Voltar Pra Casa (Ao Vivo)",
         "url": "https://open.spotify.com/album/6FIiRvqyMBVUwM5M0H5Bh4"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 365080,
       "name": "Quero Voltar Pra Casa - Ao Vivo",
       "url": "https://open.spotify.com/track/1Tox82hir9fKOLRl70XeD3"
+    },
+    {
+      "added_at": "2023-11-24 07:00:22",
+      "album": {
+        "name": "O Nome de Jesus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0xCGgTV1P3o4LOcUONAOeI"
+      },
+      "artists": [
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        }
+      ],
+      "duration_ms": 528693,
+      "name": "O Nome de Jesus - Ao Vivo",
+      "url": "https://open.spotify.com/track/4toU5AhDVaCNfyQkXV4BuX"
     },
     {
       "added_at": "2023-11-24 07:00:22",
@@ -1059,6 +1059,30 @@
     {
       "added_at": "2023-11-24 07:00:22",
       "album": {
+        "name": "Nada Al\u00e9m do Sangue (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4x1x5UjNbzoKb3yfDTevRv"
+      },
+      "artists": [
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        },
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        },
+        {
+          "name": "Paula Santos",
+          "url": "https://open.spotify.com/artist/35DMyN0d5YWOdfJLyLZcSi"
+        }
+      ],
+      "duration_ms": 497320,
+      "name": "Nada Al\u00e9m do Sangue - Ao Vivo",
+      "url": "https://open.spotify.com/track/1wAAKfuuvSZQaXhHtPAzko"
+    },
+    {
+      "added_at": "2023-11-24 07:00:22",
+      "album": {
         "name": "Foi Deus",
         "url": "https://open.spotify.com/album/1qmmBWIGwBNJR0iWzvy5qo"
       },
@@ -1087,30 +1111,6 @@
       "duration_ms": 312219,
       "name": "Santo Pra Sempre - Ao Vivo",
       "url": "https://open.spotify.com/track/69sdOLKjgnwdA2smmct2a9"
-    },
-    {
-      "added_at": "2023-11-24 07:00:22",
-      "album": {
-        "name": "Nada Al\u00e9m do Sangue (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4x1x5UjNbzoKb3yfDTevRv"
-      },
-      "artists": [
-        {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
-        },
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        },
-        {
-          "name": "Paula Santos",
-          "url": "https://open.spotify.com/artist/35DMyN0d5YWOdfJLyLZcSi"
-        }
-      ],
-      "duration_ms": 497320,
-      "name": "Nada Al\u00e9m do Sangue - Ao Vivo",
-      "url": "https://open.spotify.com/track/1wAAKfuuvSZQaXhHtPAzko"
     },
     {
       "added_at": "2023-11-24 07:00:22",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-11-24 07:00:22",
       "album": {
-        "name": "Gabriel Guedes (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4BrsoV9CkEuZsHN0LssDZs"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        }
-      ],
-      "duration_ms": 204700,
-      "name": "Todos Os Meus Dias - Ao Vivo",
-      "url": "https://open.spotify.com/track/6x5Q9YWT21xuqYU4odl6XA"
-    },
-    {
-      "added_at": "2023-11-24 07:00:22",
-      "album": {
         "name": "Eu Vou Construir",
         "url": "https://open.spotify.com/album/4KeInSoEi4lcW498jnvbdH"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 349333,
       "name": "Nem Um Segundo",
       "url": "https://open.spotify.com/track/7epXtZHT9aSqU4WRpbNrBA"
+    },
+    {
+      "added_at": "2023-11-24 07:00:22",
+      "album": {
+        "name": "Gabriel Guedes (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4BrsoV9CkEuZsHN0LssDZs"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "duration_ms": 204700,
+      "name": "Todos Os Meus Dias - Ao Vivo",
+      "url": "https://open.spotify.com/track/6x5Q9YWT21xuqYU4odl6XA"
     },
     {
       "added_at": "2023-11-24 07:00:22",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2023-11-24 07:00:22",
       "album": {
-        "name": "Filho (Ao Vivo)",
-        "url": "https://open.spotify.com/album/33Unmm1Eo3g5QEVIZQXVUn"
+        "name": "Maravilhado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6GUZILTmS0r3OpUavt7qam"
       },
       "artists": [
         {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         }
       ],
-      "duration_ms": 245136,
-      "name": "Filho - Ao Vivo",
-      "url": "https://open.spotify.com/track/6eX2KGfKHNniRaOmhBCL2p"
+      "duration_ms": 454587,
+      "name": "Maravilhado - Ao Vivo",
+      "url": "https://open.spotify.com/track/7nE1e60VdkncBBxQkqGxRY"
     },
     {
       "added_at": "2023-11-24 07:00:22",
@@ -1423,18 +1423,22 @@
     {
       "added_at": "2023-11-24 07:00:22",
       "album": {
-        "name": "Maravilhado (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6GUZILTmS0r3OpUavt7qam"
+        "name": "Com Muito Louvor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4UjtxiZX4FA79cyDpad6rH"
       },
       "artists": [
         {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
         }
       ],
-      "duration_ms": 454587,
-      "name": "Maravilhado - Ao Vivo",
-      "url": "https://open.spotify.com/track/7nE1e60VdkncBBxQkqGxRY"
+      "duration_ms": 386420,
+      "name": "Com Muito Louvor (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6GCNJ1sqdNvtIzOwJj9Gun"
     },
     {
       "added_at": "2023-11-24 07:00:22",
@@ -1459,22 +1463,38 @@
     {
       "added_at": "2023-11-24 07:00:22",
       "album": {
-        "name": "Com Muito Louvor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4UjtxiZX4FA79cyDpad6rH"
+        "name": "Filho (Ao Vivo)",
+        "url": "https://open.spotify.com/album/33Unmm1Eo3g5QEVIZQXVUn"
       },
       "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        },
         {
           "name": "Gabriel Guedes de Almeida",
           "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
         }
       ],
-      "duration_ms": 386420,
-      "name": "Com Muito Louvor (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6GCNJ1sqdNvtIzOwJj9Gun"
+      "duration_ms": 245136,
+      "name": "Filho - Ao Vivo",
+      "url": "https://open.spotify.com/track/6eX2KGfKHNniRaOmhBCL2p"
+    },
+    {
+      "added_at": "2023-11-24 07:00:22",
+      "album": {
+        "name": "Pra Sempre YHWH",
+        "url": "https://open.spotify.com/album/7FrnuDNVM4ME4NzotXKxlO"
+      },
+      "artists": [
+        {
+          "name": "Julliany Souza",
+          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        }
+      ],
+      "duration_ms": 453667,
+      "name": "Pra Sempre YHWH",
+      "url": "https://open.spotify.com/track/3WT5NnA09K10tgY7O17RF4"
     },
     {
       "added_at": "2023-11-24 07:00:22",
@@ -1515,26 +1535,6 @@
     {
       "added_at": "2023-11-24 07:00:22",
       "album": {
-        "name": "Pra Sempre YHWH",
-        "url": "https://open.spotify.com/album/7FrnuDNVM4ME4NzotXKxlO"
-      },
-      "artists": [
-        {
-          "name": "Julliany Souza",
-          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
-        },
-        {
-          "name": "Tiffany Hudson",
-          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
-        }
-      ],
-      "duration_ms": 453667,
-      "name": "Pra Sempre YHWH",
-      "url": "https://open.spotify.com/track/3WT5NnA09K10tgY7O17RF4"
-    },
-    {
-      "added_at": "2023-11-24 07:00:22",
-      "album": {
         "name": "O Lamento de Israel",
         "url": "https://open.spotify.com/album/613HHVVY7kYqtfAwIRyITd"
       },
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2023-11-24 07:00:22",
       "album": {
+        "name": "Outra Vez",
+        "url": "https://open.spotify.com/album/7ACwaHel0Oo9kV0fDcG2H8"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 304400,
+      "name": "Outra Vez",
+      "url": "https://open.spotify.com/track/4tjvxMkJlHPPJ2hRDU2jYg"
+    },
+    {
+      "added_at": "2023-11-24 07:00:22",
+      "album": {
         "name": "Eu Tenho Pai",
         "url": "https://open.spotify.com/album/2qXVPwFzQIoCpTwWD5hPJw"
       },
@@ -1571,38 +1587,6 @@
       "duration_ms": 400906,
       "name": "Eu Tenho Pai",
       "url": "https://open.spotify.com/track/6tyGZ5AYYRSaUop9z3PbBP"
-    },
-    {
-      "added_at": "2023-11-24 07:00:22",
-      "album": {
-        "name": "Tua Presen\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0eoHfKmCRrv79OQLJ7OthV"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 320186,
-      "name": "Tua Presen\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/4xT7AI0TuUJXCBmFWknLqf"
-    },
-    {
-      "added_at": "2023-11-24 07:00:22",
-      "album": {
-        "name": "De Ti Preciso (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6hwTDPKPjPBcgKfOkCZ2F0"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        }
-      ],
-      "duration_ms": 313292,
-      "name": "De Ti Preciso - Ao Vivo",
-      "url": "https://open.spotify.com/track/3AbOa504l9MHWKjeUkiITQ"
     },
     {
       "added_at": "2023-11-24 07:00:22",
@@ -1639,6 +1623,22 @@
       "duration_ms": 304426,
       "name": "Eis-me Aqui - Ao Vivo",
       "url": "https://open.spotify.com/track/30HIrYrqVauHKnGQKEavBS"
+    },
+    {
+      "added_at": "2023-11-24 07:00:22",
+      "album": {
+        "name": "De Ti Preciso (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6hwTDPKPjPBcgKfOkCZ2F0"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "duration_ms": 313292,
+      "name": "De Ti Preciso - Ao Vivo",
+      "url": "https://open.spotify.com/track/3AbOa504l9MHWKjeUkiITQ"
     },
     {
       "added_at": "2023-11-24 07:00:22",
@@ -1795,8 +1795,8 @@
     {
       "added_at": "2023-11-24 07:00:22",
       "album": {
-        "name": "Outra Vez",
-        "url": "https://open.spotify.com/album/7ACwaHel0Oo9kV0fDcG2H8"
+        "name": "Tua Presen\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0eoHfKmCRrv79OQLJ7OthV"
       },
       "artists": [
         {
@@ -1804,9 +1804,9 @@
           "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
         }
       ],
-      "duration_ms": 304400,
-      "name": "Outra Vez",
-      "url": "https://open.spotify.com/track/4tjvxMkJlHPPJ2hRDU2jYg"
+      "duration_ms": 320186,
+      "name": "Tua Presen\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/4xT7AI0TuUJXCBmFWknLqf"
     },
     {
       "added_at": "2023-11-24 07:00:22",

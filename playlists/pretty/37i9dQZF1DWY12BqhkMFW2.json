@@ -1,12 +1,12 @@
 {
   "description": "Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.",
-  "num_followers": 355236,
+  "num_followers": 355333,
   "original_name": "Soul Revived",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDEwNjA3MzJiYjI3ZjhlZmVlMDYzNTczNmZjYzlmMjFlMDg3YjZi",
+  "snapshot_id": "MCxiYjBlNWQyODIyNjdjZjUyYmNiYzExNWE1M2Q4MzYzZDlhYTA1M2M2",
   "tracks": [
     {
       "added_at": "2023-03-31 04:11:02",
@@ -607,18 +607,22 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
-        "name": "Song For You",
-        "url": "https://open.spotify.com/album/04Qos9tg4OsBifMkV1SQY1"
+        "name": "The Best Man Holiday: Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1oV4pg51THaPN4eJveWxHt"
       },
       "artists": [
         {
-          "name": "Avery Wilson",
-          "url": "https://open.spotify.com/artist/2c6geVFkxNT2BKQyHUvnT3"
+          "name": "Marsha Ambrosius",
+          "url": "https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM"
+        },
+        {
+          "name": "Anthony Hamilton",
+          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
         }
       ],
-      "duration_ms": 329464,
-      "name": "Song For You",
-      "url": "https://open.spotify.com/track/3v5YKvxegZyG6TJwK1loMA"
+      "duration_ms": 331133,
+      "name": "As",
+      "url": "https://open.spotify.com/track/750vuAyjSZGt53r570s8ML"
     }
   ],
   "unique_name": "Soul Revived",

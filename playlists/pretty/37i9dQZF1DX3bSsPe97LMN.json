@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Arriola en portada.",
-  "num_followers": 58589,
+  "num_followers": 58598,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTAwNDEyZjgyNzllNzZiN2NjNDFkZGE4NWIwMGMzODgwNzNhYjU1",
+  "snapshot_id": "MCxmZGFjNTI5ZGUyNGY2NjRkYmMzNjRjNDdiYjM3ZWIyYTAyYjcxZjI4",
   "tracks": [
     {
       "added_at": "2023-11-10 15:27:32",
@@ -143,6 +143,22 @@
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
+        "name": "Tepito Buffa",
+        "url": "https://open.spotify.com/album/2DYcln2e3YMNVDpu9OPNlj"
+      },
+      "artists": [
+        {
+          "name": "Proceder Elegante",
+          "url": "https://open.spotify.com/artist/31I3LvGAhnvpBqv5YRkxbO"
+        }
+      ],
+      "duration_ms": 172822,
+      "name": "Tepito Buffa",
+      "url": "https://open.spotify.com/track/4YMUY0CX1Atj0w4gxyEbVg"
+    },
+    {
+      "added_at": "2023-11-10 15:27:32",
+      "album": {
         "name": "Mil Amores",
         "url": "https://open.spotify.com/album/1yNYaCIrzyFjCoCeeMDCwK"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 201866,
       "name": "Fumando Mota",
       "url": "https://open.spotify.com/track/3oMSVFuPnWFifOrMoGiZGj"
-    },
-    {
-      "added_at": "2023-11-10 15:27:32",
-      "album": {
-        "name": "Tepito Buffa",
-        "url": "https://open.spotify.com/album/2DYcln2e3YMNVDpu9OPNlj"
-      },
-      "artists": [
-        {
-          "name": "Proceder Elegante",
-          "url": "https://open.spotify.com/artist/31I3LvGAhnvpBqv5YRkxbO"
-        }
-      ],
-      "duration_ms": 172822,
-      "name": "Tepito Buffa",
-      "url": "https://open.spotify.com/track/4YMUY0CX1Atj0w4gxyEbVg"
     },
     {
       "added_at": "2023-11-10 15:27:32",
@@ -319,26 +319,6 @@
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
-        "name": "MM",
-        "url": "https://open.spotify.com/album/3vHvCoOUhQRogW4IlqV3jp"
-      },
-      "artists": [
-        {
-          "name": "Ysrael Barajas",
-          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
-        },
-        {
-          "name": "miguel cornejo",
-          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
-        }
-      ],
-      "duration_ms": 168800,
-      "name": "MM",
-      "url": "https://open.spotify.com/track/1IxTNg2s3WvWUiW271iDFv"
-    },
-    {
-      "added_at": "2023-11-10 15:27:32",
-      "album": {
         "name": "Lujos Flamantes",
         "url": "https://open.spotify.com/album/4sFXSzYvHlAz3OpUc5kRv6"
       },
@@ -351,6 +331,22 @@
       "duration_ms": 148653,
       "name": "Lujos Flamantes",
       "url": "https://open.spotify.com/track/7INI7hvoGSZB5W3YDEJXg5"
+    },
+    {
+      "added_at": "2023-11-10 15:27:32",
+      "album": {
+        "name": "Llegar A La Luna",
+        "url": "https://open.spotify.com/album/68OaTF0C5uLmD2FtXbxAPK"
+      },
+      "artists": [
+        {
+          "name": "Jassiel Gutierrez",
+          "url": "https://open.spotify.com/artist/0R9UUAXkhio5Vdj76xDKzv"
+        }
+      ],
+      "duration_ms": 214973,
+      "name": "Llegar A La Luna",
+      "url": "https://open.spotify.com/track/56Ya7Vj9jcXY2rghRfVB1R"
     },
     {
       "added_at": "2023-11-10 15:27:32",
@@ -371,6 +367,26 @@
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
+        "name": "MM",
+        "url": "https://open.spotify.com/album/3vHvCoOUhQRogW4IlqV3jp"
+      },
+      "artists": [
+        {
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+        },
+        {
+          "name": "miguel cornejo",
+          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
+        }
+      ],
+      "duration_ms": 168800,
+      "name": "MM",
+      "url": "https://open.spotify.com/track/1IxTNg2s3WvWUiW271iDFv"
+    },
+    {
+      "added_at": "2023-11-10 15:27:32",
+      "album": {
         "name": "Mil Pedazos",
         "url": "https://open.spotify.com/album/0dchtdW6KeKfbHGwMMxppF"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 181525,
       "name": "Mil Pedazos",
       "url": "https://open.spotify.com/track/2Mi5BLsctdUzadFCTbhSQC"
-    },
-    {
-      "added_at": "2023-11-10 15:27:32",
-      "album": {
-        "name": "Llegar A La Luna",
-        "url": "https://open.spotify.com/album/68OaTF0C5uLmD2FtXbxAPK"
-      },
-      "artists": [
-        {
-          "name": "Jassiel Gutierrez",
-          "url": "https://open.spotify.com/artist/0R9UUAXkhio5Vdj76xDKzv"
-        }
-      ],
-      "duration_ms": 214973,
-      "name": "Llegar A La Luna",
-      "url": "https://open.spotify.com/track/56Ya7Vj9jcXY2rghRfVB1R"
     },
     {
       "added_at": "2023-11-10 15:27:32",
@@ -455,6 +455,22 @@
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
+        "name": "Ll\u00f3rame M\u00e1s Fuerte",
+        "url": "https://open.spotify.com/album/58521yc5XgyIwX0KjWL0z0"
+      },
+      "artists": [
+        {
+          "name": "Janely Rosa",
+          "url": "https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF"
+        }
+      ],
+      "duration_ms": 227142,
+      "name": "Ll\u00f3rame M\u00e1s Fuerte",
+      "url": "https://open.spotify.com/track/4MTLY1AiRFlQe0cV6Fl7SN"
+    },
+    {
+      "added_at": "2023-11-10 15:27:32",
+      "album": {
         "name": "East LA",
         "url": "https://open.spotify.com/album/6JlC1SjixfN5Vhz3LbrQWt"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 182696,
       "name": "Normal",
       "url": "https://open.spotify.com/track/7zW4YRpp2nzhdbaPNG3WcL"
-    },
-    {
-      "added_at": "2023-11-10 15:27:32",
-      "album": {
-        "name": "Ll\u00f3rame M\u00e1s Fuerte",
-        "url": "https://open.spotify.com/album/58521yc5XgyIwX0KjWL0z0"
-      },
-      "artists": [
-        {
-          "name": "Janely Rosa",
-          "url": "https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF"
-        }
-      ],
-      "duration_ms": 227142,
-      "name": "Ll\u00f3rame M\u00e1s Fuerte",
-      "url": "https://open.spotify.com/track/4MTLY1AiRFlQe0cV6Fl7SN"
     },
     {
       "added_at": "2023-11-10 15:27:32",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
-        "name": "CHIKEN LIRA EN LA BOCINA",
-        "url": "https://open.spotify.com/album/6SPdlZwVqDsC3OBiEiOy2M"
-      },
-      "artists": [
-        {
-          "name": "Chiken Lira",
-          "url": "https://open.spotify.com/artist/3OXtjz5aMVWAQ4DDQuoICn"
-        }
-      ],
-      "duration_ms": 153360,
-      "name": "CHIKEN LIRA EN LA BOCINA",
-      "url": "https://open.spotify.com/track/46F5DxzosXwMWEduhEczQ9"
-    },
-    {
-      "added_at": "2023-11-10 15:27:32",
-      "album": {
         "name": "No He Parado",
         "url": "https://open.spotify.com/album/0fTbXfGHSfS0Aq8JCqysdZ"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 143172,
       "name": "No He Parado",
       "url": "https://open.spotify.com/track/5JiK07lh0kf80tyy1d9j9S"
+    },
+    {
+      "added_at": "2023-11-10 15:27:32",
+      "album": {
+        "name": "CHIKEN LIRA EN LA BOCINA",
+        "url": "https://open.spotify.com/album/6SPdlZwVqDsC3OBiEiOy2M"
+      },
+      "artists": [
+        {
+          "name": "Chiken Lira",
+          "url": "https://open.spotify.com/artist/3OXtjz5aMVWAQ4DDQuoICn"
+        }
+      ],
+      "duration_ms": 153360,
+      "name": "CHIKEN LIRA EN LA BOCINA",
+      "url": "https://open.spotify.com/track/46F5DxzosXwMWEduhEczQ9"
     },
     {
       "added_at": "2023-11-10 15:27:32",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
-        "name": "Una Vida",
-        "url": "https://open.spotify.com/album/6U3MLuqsCCTExV3FDDAbpI"
-      },
-      "artists": [
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        }
-      ],
-      "duration_ms": 177893,
-      "name": "Una Vida",
-      "url": "https://open.spotify.com/track/760FIaj8goTswBMMzezp2n"
-    },
-    {
-      "added_at": "2023-11-10 15:27:32",
-      "album": {
         "name": "De Este Lado",
         "url": "https://open.spotify.com/album/4WrwlsCSBx3MMNKgByhHBG"
       },
@@ -667,18 +651,18 @@
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
-        "name": "Lo Obvio",
-        "url": "https://open.spotify.com/album/69WQe5IHTQR4Jxo6sCmqRi"
+        "name": "Una Vida",
+        "url": "https://open.spotify.com/album/6U3MLuqsCCTExV3FDDAbpI"
       },
       "artists": [
         {
-          "name": "Reflejo Nuevo",
-          "url": "https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8"
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
         }
       ],
-      "duration_ms": 140453,
-      "name": "Lo Obvio",
-      "url": "https://open.spotify.com/track/4gLsJ73b2gHw5Zc9YZgZjz"
+      "duration_ms": 177893,
+      "name": "Una Vida",
+      "url": "https://open.spotify.com/track/760FIaj8goTswBMMzezp2n"
     },
     {
       "added_at": "2023-11-10 15:27:32",
@@ -699,6 +683,22 @@
       "duration_ms": 205000,
       "name": "Morrito - Remix",
       "url": "https://open.spotify.com/track/2NrpQHe6eeh65X4dzKiPHB"
+    },
+    {
+      "added_at": "2023-11-10 15:27:32",
+      "album": {
+        "name": "Lo Obvio",
+        "url": "https://open.spotify.com/album/69WQe5IHTQR4Jxo6sCmqRi"
+      },
+      "artists": [
+        {
+          "name": "Reflejo Nuevo",
+          "url": "https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8"
+        }
+      ],
+      "duration_ms": 140453,
+      "name": "Lo Obvio",
+      "url": "https://open.spotify.com/track/4gLsJ73b2gHw5Zc9YZgZjz"
     },
     {
       "added_at": "2023-11-10 15:27:32",
@@ -923,26 +923,6 @@
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
-        "name": "TRANQUILE\u00d3N",
-        "url": "https://open.spotify.com/album/5xCtNSL4NqQNgw3r7O2KKZ"
-      },
-      "artists": [
-        {
-          "name": "Chiken Lira",
-          "url": "https://open.spotify.com/artist/3OXtjz5aMVWAQ4DDQuoICn"
-        },
-        {
-          "name": "Los Master Plus",
-          "url": "https://open.spotify.com/artist/5mrBEGdNTaiavWCmaNet6z"
-        }
-      ],
-      "duration_ms": 219160,
-      "name": "TRANQUILE\u00d3N",
-      "url": "https://open.spotify.com/track/17tisFioZUL9GaClgNYV3S"
-    },
-    {
-      "added_at": "2023-11-10 15:27:32",
-      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/0g4HdaQjNybjGfYPevA1Vz"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 175454,
       "name": "Solo",
       "url": "https://open.spotify.com/track/4ffEwH5xuTvAjqDRkdCYdp"
+    },
+    {
+      "added_at": "2023-11-10 15:27:32",
+      "album": {
+        "name": "TRANQUILE\u00d3N",
+        "url": "https://open.spotify.com/album/5xCtNSL4NqQNgw3r7O2KKZ"
+      },
+      "artists": [
+        {
+          "name": "Chiken Lira",
+          "url": "https://open.spotify.com/artist/3OXtjz5aMVWAQ4DDQuoICn"
+        },
+        {
+          "name": "Los Master Plus",
+          "url": "https://open.spotify.com/artist/5mrBEGdNTaiavWCmaNet6z"
+        }
+      ],
+      "duration_ms": 219160,
+      "name": "TRANQUILE\u00d3N",
+      "url": "https://open.spotify.com/track/17tisFioZUL9GaClgNYV3S"
     },
     {
       "added_at": "2023-11-10 15:27:32",
@@ -1083,6 +1083,26 @@
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
+        "name": "M\u00fasica Y Vino",
+        "url": "https://open.spotify.com/album/55rYBHLzuVROq5YYR37kAa"
+      },
+      "artists": [
+        {
+          "name": "Juanchito",
+          "url": "https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v"
+        },
+        {
+          "name": "Alta Elegancia",
+          "url": "https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2"
+        }
+      ],
+      "duration_ms": 169800,
+      "name": "M\u00fasica Y Vino",
+      "url": "https://open.spotify.com/track/68d2glVYVHwkhmT5Hkb7Fb"
+    },
+    {
+      "added_at": "2023-11-10 15:27:32",
+      "album": {
         "name": "Mucha Mujer",
         "url": "https://open.spotify.com/album/0wcdDm599TVgIDv6TOpsgz"
       },
@@ -1115,26 +1135,6 @@
       "duration_ms": 184767,
       "name": "Las Palomitas",
       "url": "https://open.spotify.com/track/0Go9m9tz5BiV6EmjiNoctc"
-    },
-    {
-      "added_at": "2023-11-10 15:27:32",
-      "album": {
-        "name": "M\u00fasica Y Vino",
-        "url": "https://open.spotify.com/album/55rYBHLzuVROq5YYR37kAa"
-      },
-      "artists": [
-        {
-          "name": "Juanchito",
-          "url": "https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v"
-        },
-        {
-          "name": "Alta Elegancia",
-          "url": "https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2"
-        }
-      ],
-      "duration_ms": 169800,
-      "name": "M\u00fasica Y Vino",
-      "url": "https://open.spotify.com/track/68d2glVYVHwkhmT5Hkb7Fb"
     },
     {
       "added_at": "2023-11-10 15:27:32",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
-        "name": "No Me Rebajo",
-        "url": "https://open.spotify.com/album/5A7ZuC4mInd4SS88MUe3DU"
-      },
-      "artists": [
-        {
-          "name": "La Morra De La Vihuela",
-          "url": "https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi"
-        }
-      ],
-      "duration_ms": 203250,
-      "name": "No Me Rebajo",
-      "url": "https://open.spotify.com/track/67FAoDXB5Q1bxHLuFe7rIi"
-    },
-    {
-      "added_at": "2023-11-10 15:27:32",
-      "album": {
         "name": "Tengo Ganas",
         "url": "https://open.spotify.com/album/3j8lPWgsLaxqylpLU0qsAF"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 168711,
       "name": "Tengo Ganas",
       "url": "https://open.spotify.com/track/1E5eyzEex0ZjD4x8Z3ZSdD"
+    },
+    {
+      "added_at": "2023-11-10 15:27:32",
+      "album": {
+        "name": "No Me Rebajo",
+        "url": "https://open.spotify.com/album/5A7ZuC4mInd4SS88MUe3DU"
+      },
+      "artists": [
+        {
+          "name": "La Morra De La Vihuela",
+          "url": "https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi"
+        }
+      ],
+      "duration_ms": 203250,
+      "name": "No Me Rebajo",
+      "url": "https://open.spotify.com/track/67FAoDXB5Q1bxHLuFe7rIi"
     },
     {
       "added_at": "2023-11-10 15:27:32",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
-        "name": "x el 215",
-        "url": "https://open.spotify.com/album/0JYxLMZ6fgDayKM04oTGlB"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1o Armado",
-          "url": "https://open.spotify.com/artist/1iXmwjgoA59F6JIkc8RAJJ"
-        }
-      ],
-      "duration_ms": 191271,
-      "name": "x el 215",
-      "url": "https://open.spotify.com/track/3KpxZy5MCs8lJlgIAqdtRc"
-    },
-    {
-      "added_at": "2023-11-10 15:27:32",
-      "album": {
         "name": "Dir\u00e9",
         "url": "https://open.spotify.com/album/4QY1LkigIlmlEato54hQxe"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 197293,
       "name": "Dir\u00e9",
       "url": "https://open.spotify.com/track/69ITm1oTZq5xmdPou7oj2r"
+    },
+    {
+      "added_at": "2023-11-10 15:27:32",
+      "album": {
+        "name": "x el 215",
+        "url": "https://open.spotify.com/album/0JYxLMZ6fgDayKM04oTGlB"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1o Armado",
+          "url": "https://open.spotify.com/artist/1iXmwjgoA59F6JIkc8RAJJ"
+        }
+      ],
+      "duration_ms": 191271,
+      "name": "x el 215",
+      "url": "https://open.spotify.com/track/3KpxZy5MCs8lJlgIAqdtRc"
     },
     {
       "added_at": "2023-11-10 15:27:32",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
-        "name": "Qu\u00e9 Ganas de Volver",
-        "url": "https://open.spotify.com/album/0HNCuLUkataflaUI5NtVIy"
-      },
-      "artists": [
-        {
-          "name": "Omar Robles",
-          "url": "https://open.spotify.com/artist/3UQ81bCwqbKmqtsZXPxSLL"
-        }
-      ],
-      "duration_ms": 220571,
-      "name": "Qu\u00e9 Ganas de Volver",
-      "url": "https://open.spotify.com/track/2xfgaz02xDkL2Yyumjhejz"
-    },
-    {
-      "added_at": "2023-11-10 15:27:32",
-      "album": {
         "name": "Cada Loco A Su Papel",
         "url": "https://open.spotify.com/album/0wL5GsQvcPv3UrbPoG8Ktf"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 153374,
       "name": "Cada Loco A Su Papel",
       "url": "https://open.spotify.com/track/1PkJfH6o8nMPImI8PQUxLA"
+    },
+    {
+      "added_at": "2023-11-10 15:27:32",
+      "album": {
+        "name": "Qu\u00e9 Ganas de Volver",
+        "url": "https://open.spotify.com/album/0HNCuLUkataflaUI5NtVIy"
+      },
+      "artists": [
+        {
+          "name": "Omar Robles",
+          "url": "https://open.spotify.com/artist/3UQ81bCwqbKmqtsZXPxSLL"
+        }
+      ],
+      "duration_ms": 220571,
+      "name": "Qu\u00e9 Ganas de Volver",
+      "url": "https://open.spotify.com/track/2xfgaz02xDkL2Yyumjhejz"
     },
     {
       "added_at": "2023-11-10 15:27:32",

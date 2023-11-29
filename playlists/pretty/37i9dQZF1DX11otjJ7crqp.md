@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Zara Larsson
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,968 likes - 101 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,999 likes - 101 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,6 +108,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 98 | [Bittersweet](https://open.spotify.com/track/2MZfkqDwZdK3nD0YJtJ9Fp) | [Andi](https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V) | [Bittersweet](https://open.spotify.com/album/5P3vj5MI6yS0FzFo9QomFb) | 2:58 |
 | 99 | [Mirror, Mirror](https://open.spotify.com/track/1HYIkeqybKZM2QrkOBQcML) | [Abigail Barlow](https://open.spotify.com/artist/5rw6jWzcS6bQimR39VPBXu) | [Mirror, Mirror](https://open.spotify.com/album/1sifnBb5fKCS0o4fD9LCDg) | 1:54 |
 | 100 | [Stop Looking at Me Like That](https://open.spotify.com/track/5bwKZfXDiLIx5v3guwEIrU) | [Abigail Osborn](https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO) | [Stop Looking at Me Like That](https://open.spotify.com/album/22ok0HtUav7MN1otSm48Jw) | 2:15 |
-| 101 | [ghost](https://open.spotify.com/track/7kWQzBQbF7xcEIZfhtEzQI) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [ghost](https://open.spotify.com/album/4yTF5wykVgWLVY1zaS677Y) | 2:09 |
+| 101 | [ghost](https://open.spotify.com/track/0GcLkedOfpccI5VpIHhWUx) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [ghost](https://open.spotify.com/album/4YTP4MQzeigSP2l9asDz0r) | 2:09 |
 
-Snapshot ID: `MCw2ODYwOTZjN2Y5YmRjMzc1OGJkZjU2ZmYzOGE2MmM4MzYxMzY1YjBl`
+Snapshot ID: `MCwwMjM0ZWJiYmY0YjJjNGFiNWI4NmM1NjAwMjYzOTIzMzk4YzI4MmVl`

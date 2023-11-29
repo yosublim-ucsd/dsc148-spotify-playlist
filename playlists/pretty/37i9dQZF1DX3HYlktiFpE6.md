@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 
 > Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more\. Just sing it! Cover: Pentatonix
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,348 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,350 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Life is a Highway \- Home Free's Version](https://open.spotify.com/track/7nfcplt8hszPHYv0ECiPdg) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [Life is a Highway \(Home Free's Version\)](https://open.spotify.com/album/62a9OZQr3Kczzt0tY1c1Dh) | 3:18 |
+| 1 | [Life is a Highway \- Home Free's Version](https://open.spotify.com/track/7jSnvJoGBmUxoCkvaRfxGr) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [As Seen On TV](https://open.spotify.com/album/482bj82Je6J3tdvu758sOX) | 3:18 |
 | 2 | [I Rise](https://open.spotify.com/track/22qKulMO8VijTJGXOig5vN) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [I Rise](https://open.spotify.com/album/2N3GoTPzZ81DIIujoxCYYP) | 3:20 |
 | 3 | [Man in the Mirror](https://open.spotify.com/track/5UuG19x0mUEFDWdF1LFAMy) | [The Swingles](https://open.spotify.com/artist/5QvPTVBx6OlrUuPwC8W3uU), [Vadé](https://open.spotify.com/artist/4WRmZFsekldnGI9cum10PD) | [Man in the Mirror](https://open.spotify.com/album/5uQnVKzQubfaNoCEaALcf5) | 5:03 |
 | 4 | [Livin' on a Prayer](https://open.spotify.com/track/4EVVMoQctdBaexwDDztSZT) | [Hyannis Sound](https://open.spotify.com/artist/4lEFWJCOBV28nMF30Kqr9p) | [Livin' on a Prayer](https://open.spotify.com/album/5CugPAjyMBKYgr6shXf0vn) | 4:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 | 99 | [Misty Mountains](https://open.spotify.com/track/2Wx6axM4v1d7sjfVFMYtTQ) | [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ) | [Peter Hollens](https://open.spotify.com/album/33UKIAvj9JIi9S1EMimWku) | 4:19 |
 | 100 | [Text Me Merry Christmas \(feat\. Kristen Bell\)](https://open.spotify.com/track/68bjO39GD3JEEL3qAu0bGC) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM), [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI) | [Under the Influence: Holiday Edition](https://open.spotify.com/album/0fPXSeM8nko9aSxO6nM1zX) | 2:40 |
 
-Snapshot ID: `MCxkOTU0YWUzYWUyOTNjZjAyMzIyMzAzMDgzODUzMTQzMjRmNGVmYjc3`
+Snapshot ID: `MCwzYWMxMWRlY2JmM2ZmZmE1NmJkNDY5Nzc3NzcyMjEwNmI5NjU5NTU3`

@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2049486,
+  "num_followers": 2049510,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTQyNTYsZTk5OWU0NzkyMzRkZDU0M2ZkMWMxYmViNjk0YzNiZWQyODUyMzA0NQ==",
+  "snapshot_id": "MTQyNjMsNjBlYjFiZWJmM2M2ZDk0NjMzYTJiMzU1MmNmMDA4MjMyMGQzMzE4ZQ==",
   "tracks": [
     {
       "added_at": "2023-09-06 04:03:55",
@@ -313,6 +313,26 @@
       "url": "https://open.spotify.com/track/0tFWKeOPbfDfR4l1x4eh3O"
     },
     {
+      "added_at": "2023-11-29 01:11:09",
+      "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/5NGF1TNUtmTgydrsYTREGu"
+      },
+      "artists": [
+        {
+          "name": "Yonexx",
+          "url": "https://open.spotify.com/artist/1qSxzYgUuAxLbHuzCXXvmm"
+        },
+        {
+          "name": "CR\u00c8ME",
+          "url": "https://open.spotify.com/artist/7GSnGLal6xBBecChmC4W9H"
+        }
+      ],
+      "duration_ms": 149798,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/3WNJYcfFVvlTCTi7bGltnV"
+    },
+    {
       "added_at": "2023-09-06 04:03:55",
       "album": {
         "name": "Queen Of The Clouds",
@@ -331,46 +351,6 @@
       "duration_ms": 258933,
       "name": "Habits (Stay High) - Hippie Sabotage Remix",
       "url": "https://open.spotify.com/track/62N2JSA0jHmSH7Va9t7hIf"
-    },
-    {
-      "added_at": "2023-09-13 17:17:13",
-      "album": {
-        "name": "LOST WITH U",
-        "url": "https://open.spotify.com/album/0aBNGuelsRj7vj2IPHpPln"
-      },
-      "artists": [
-        {
-          "name": "Pirapus",
-          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
-        },
-        {
-          "name": "Brody Leigh",
-          "url": "https://open.spotify.com/artist/1zGoUA3v41GWPM64amPniZ"
-        }
-      ],
-      "duration_ms": 188372,
-      "name": "LOST WITH U",
-      "url": "https://open.spotify.com/track/760tQeMBJJozLOd5mMJSbC"
-    },
-    {
-      "added_at": "2023-11-10 05:35:02",
-      "album": {
-        "name": "When You Fall",
-        "url": "https://open.spotify.com/album/656kk0ZtKVQtyMq5blvRMO"
-      },
-      "artists": [
-        {
-          "name": "Afinity",
-          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
-        },
-        {
-          "name": "SayWeCanFly",
-          "url": "https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6"
-        }
-      ],
-      "duration_ms": 207428,
-      "name": "When You Fall",
-      "url": "https://open.spotify.com/track/0F5c2JHlX0dQsuIIZj3MGd"
     },
     {
       "added_at": "2023-11-17 16:25:24",
@@ -651,6 +631,26 @@
       "duration_ms": 233379,
       "name": "Xenogenesis",
       "url": "https://open.spotify.com/track/5iRVNYbhfWNO2VzBykX7GS"
+    },
+    {
+      "added_at": "2023-11-10 05:35:02",
+      "album": {
+        "name": "When You Fall",
+        "url": "https://open.spotify.com/album/656kk0ZtKVQtyMq5blvRMO"
+      },
+      "artists": [
+        {
+          "name": "Afinity",
+          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
+        },
+        {
+          "name": "SayWeCanFly",
+          "url": "https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6"
+        }
+      ],
+      "duration_ms": 207428,
+      "name": "When You Fall",
+      "url": "https://open.spotify.com/track/0F5c2JHlX0dQsuIIZj3MGd"
     },
     {
       "added_at": "2023-09-06 04:03:55",
@@ -981,6 +981,22 @@
       "url": "https://open.spotify.com/track/3aauaXWRgwCMoykMbI0Jq1"
     },
     {
+      "added_at": "2023-11-29 01:10:56",
+      "album": {
+        "name": "Show Me",
+        "url": "https://open.spotify.com/album/3nJo6xciOneTirb3NF98d5"
+      },
+      "artists": [
+        {
+          "name": "NEOTEK",
+          "url": "https://open.spotify.com/artist/44btqMHopGiWCGHMtFw3mv"
+        }
+      ],
+      "duration_ms": 145333,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/18fkKMZ9OA0NBBRSOOVWNj"
+    },
+    {
       "added_at": "2023-09-06 04:03:55",
       "album": {
         "name": "All I See, You See Me",
@@ -1171,6 +1187,26 @@
       "duration_ms": 273802,
       "name": "Alone",
       "url": "https://open.spotify.com/track/3MEYFivt6bilQ9q9mFWZ4g"
+    },
+    {
+      "added_at": "2023-09-13 17:17:13",
+      "album": {
+        "name": "LOST WITH U",
+        "url": "https://open.spotify.com/album/0aBNGuelsRj7vj2IPHpPln"
+      },
+      "artists": [
+        {
+          "name": "Pirapus",
+          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
+        },
+        {
+          "name": "Brody Leigh",
+          "url": "https://open.spotify.com/artist/1zGoUA3v41GWPM64amPniZ"
+        }
+      ],
+      "duration_ms": 188372,
+      "name": "LOST WITH U",
+      "url": "https://open.spotify.com/track/760tQeMBJJozLOd5mMJSbC"
     },
     {
       "added_at": "2023-10-12 15:39:11",
@@ -2784,7 +2820,7 @@
           "url": "https://open.spotify.com/artist/4lGxmCxpRK0pHo7EuakiFH"
         }
       ],
-      "duration_ms": 127598,
+      "duration_ms": 127941,
       "name": "stay the night pluggnb",
       "url": "https://open.spotify.com/track/0MpbU5LCgRgyeqQei3B6zp"
     },

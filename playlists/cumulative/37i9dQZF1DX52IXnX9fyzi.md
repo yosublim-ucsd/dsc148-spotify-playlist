@@ -4,7 +4,7 @@
 
 > Piano music to accompany and inspire your writing.
 
-404 songs - 17 hr 23 min
+406 songs - 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,8 +62,9 @@
 | [Book Of Vespers \- Second Psalm](https://open.spotify.com/track/00PMrRJ5KFM730sipeOuoz) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Book Of Vespers \- First Meditation](https://open.spotify.com/album/5VaNEQPcYQ87Kj1fYW1uTn) | 1:48 | 2023-09-18 | 2023-10-25 |
 | [Book Of Vespers \- Second Psalm](https://open.spotify.com/track/04tMznUFQWplHXAJeAmTpG) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Book Of Vespers \- Levitation](https://open.spotify.com/album/1q7eyowO4zO8zwpiDDhBWj) | 1:48 | 2023-10-24 | 2023-11-06 |
 | [Book Of Vespers \- Second Psalm](https://open.spotify.com/track/1CBWjgZy7onlRVByYknOLo) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Book Of Vespers \- Second Psalm](https://open.spotify.com/album/5StjzAp4cqRyGZyit1Qc3T) | 1:48 | 2023-08-22 | 2023-09-06 |
-| [Book Of Vespers \- Second Psalm](https://open.spotify.com/track/2FOCfMhidWT7tvtfrcxyC6) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Book Of Vespers \- Second Meditation](https://open.spotify.com/album/2MJ5q37BhtEgWjTaqTWVBb) | 1:48 | 2023-11-07 |  |
+| [Book Of Vespers \- Second Psalm](https://open.spotify.com/track/2FOCfMhidWT7tvtfrcxyC6) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Book Of Vespers \- Second Meditation](https://open.spotify.com/album/2MJ5q37BhtEgWjTaqTWVBb) | 1:48 | 2023-11-07 | 2023-11-29 |
 | [Book Of Vespers \- Second Psalm](https://open.spotify.com/track/3Yx90hFIsFIphKsTXuvAdA) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Book Of Vespers \- We Are Forgiven](https://open.spotify.com/album/07vCUCKfTyRHA4yhdvSFdU) | 1:48 | 2023-10-24 | 2023-11-17 |
+| [Book Of Vespers \- Second Psalm](https://open.spotify.com/track/4TfmUcDnkEVw8DhEx98x8p) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Book Of Vespers \- Third Psalm](https://open.spotify.com/album/7kwVqoDo8TdA9o060qthLa) | 1:48 | 2023-11-21 |  |
 | [Book Of Vespers \- Second Psalm](https://open.spotify.com/track/7kgZUuD4aj8M0WfDxIxms7) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Book Of Vespers \- Mysterious Ways](https://open.spotify.com/album/1BfKFbABeUVtwlEVtXi3yU) | 1:48 | 2023-09-05 | 2023-10-04 |
 | [Breathe](https://open.spotify.com/track/3gtL7UMzcc54SjrOT0ZZE4) | [Nil Ciuró](https://open.spotify.com/artist/2mKlC27x5dL4PIOwzwPGWh) | [Breathe / Debris](https://open.spotify.com/album/2wb8IcAFeV3ndOH36qTsRH) | 2:30 | 2022-04-14 | 2022-05-14 |
 | [Bringing Us Closer](https://open.spotify.com/track/407EfKCYlIForjXcRROQlv) | [North Connolly](https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t) | [Bringing Us Closer](https://open.spotify.com/album/4H1jcyemjRrTrONqXXKy4b) | 1:59 | 2023-08-01 |  |
@@ -385,9 +386,10 @@
 | [Vento leggero](https://open.spotify.com/track/6ksVNrLijeVZjx4zmWKzQQ) | [Aglisia](https://open.spotify.com/artist/1wkWfJO2iWD4TL4tCag8Sh) | [Vento leggero](https://open.spotify.com/album/36CdDJmXetrsM84GKsQGwB) | 3:00 | 2022-04-14 | 2022-12-24 |
 | [Vesper](https://open.spotify.com/track/0Xo93N3lMP488UozSVcWqw) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Beyond The Gloom](https://open.spotify.com/album/59FiFCeY0eKjQpTMvLgb7E) | 2:12 | 2023-09-05 | 2023-10-26 |
 | [Vesper](https://open.spotify.com/track/3XzxDSOqktjzO5G87ncBf7) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [When The Little Man Speaks](https://open.spotify.com/album/2R4egikVsWjpn0GhfqeeS7) | 2:12 | 2023-08-22 | 2023-09-13 |
-| [Vesper](https://open.spotify.com/track/3eC3m3kEenLAxXF18oFG4G) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Minutes To Midnight](https://open.spotify.com/album/57yynEiExWrdlhWQgYrZi7) | 2:12 | 2023-10-24 |  |
+| [Vesper](https://open.spotify.com/track/3eC3m3kEenLAxXF18oFG4G) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Minutes To Midnight](https://open.spotify.com/album/57yynEiExWrdlhWQgYrZi7) | 2:12 | 2023-10-24 | 2023-11-29 |
 | [Vesper](https://open.spotify.com/track/533dgu3YC7KwKDHgBPvpxm) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Sand Drawings](https://open.spotify.com/album/4sc1y23oEqoAwoXFqVltvr) | 2:12 | 2023-10-24 | 2023-11-06 |
 | [Vesper](https://open.spotify.com/track/5aHJ4dAzn8fBudSSFqoATm) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Afternoon Ending](https://open.spotify.com/album/4FUs9Lg2ZQFrnBHxxcnRAq) | 2:12 | 2023-08-22 | 2023-08-28 |
+| [Vesper](https://open.spotify.com/track/6sQaJc5eWnczHKIHiDfesG) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [One More Story](https://open.spotify.com/album/19B1Y0X1FXBTAcaDfrfYwk) | 2:12 | 2023-11-21 |  |
 | [Vesper](https://open.spotify.com/track/7zYqURwLi01h7Mmel4fefz) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Vesper](https://open.spotify.com/album/7edDr2rApL4jzZ7gusqSjX) | 2:12 | 2023-08-01 | 2023-08-23 |
 | [Viento En Calma](https://open.spotify.com/track/6uBL5gwVhfPMHic7YcD6TX) | [Levi Neroli](https://open.spotify.com/artist/2HTyHL2oeARjQT0ilYm93F) | [Viento En Calma](https://open.spotify.com/album/6S1AdQWqcStwMkxklMTQ7V) | 2:16 | 2023-06-20 |  |
 | [Vigilance](https://open.spotify.com/track/5ezssE7jFdCzJOJAedPhEN) | [Domenik Kalinsky](https://open.spotify.com/artist/4JYktW5hRyzdlGNRZDXjkQ) | [Vigilance](https://open.spotify.com/album/7eyB39siSce7Rld9UZqL0O) | 2:06 | 2022-04-14 | 2022-05-27 |

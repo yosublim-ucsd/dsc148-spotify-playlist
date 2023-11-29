@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,655 songs - 3 day 1 hr 33 min
+1,660 songs - 3 day 1 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [Brief Moments](https://open.spotify.com/track/2RMhNaRMKIoOlANHwfcaP1) | [Linn Hope](https://open.spotify.com/artist/5VBvp5RbAHFL0UlVaKqK9D) | [Brief Moments](https://open.spotify.com/album/10hj4ZZucFC7qZFFTcEHuZ) | 2:15 | 2021-10-20 | 2022-04-29 |
 | [Brig O' Balgownie](https://open.spotify.com/track/3wmraTkkrCmY1TFEPIzpFy) | [Kyran Martin](https://open.spotify.com/artist/64MFoNwcBdeE8R9hqpo6cH) | [Brig O' Balgownie](https://open.spotify.com/album/7A1bFqQu93fsbjriLraEOR) | 2:04 | 2020-03-11 | 2021-04-14 |
 | [Broparken](https://open.spotify.com/track/40BHeLV8ZIxT9rjVLdrfT5) | [Ruben Fjellner](https://open.spotify.com/artist/44oQBciAO9OkwefVrQUFLG) | [Broparken](https://open.spotify.com/album/4rKuRtcWLOVWRxima5BTB1) | 3:00 | 2021-10-01 | 2022-09-13 |
+| [Brume Matinale](https://open.spotify.com/track/0jFnlaavbGTER2XNnUztEF) | [Valter Soll](https://open.spotify.com/artist/1gD9cydWC0yCBMG8Bn6tau) | [Brume Matinale](https://open.spotify.com/album/3sMktb2iVDvqtL4UXVcJDA) | 2:46 | 2023-11-28 |  |
 | [Bubbles](https://open.spotify.com/track/0D634fov9hm0Yt2wTyAZ4M) | [Holly Jones](https://open.spotify.com/artist/6Ub8jxQatQvncgReWsJ5XC) | [Bubbles](https://open.spotify.com/album/2YzqIXyH4Z65yKHvMPVoCf) | 1:54 | 2022-07-28 | 2023-09-23 |
 | [Bud \(Rose\)](https://open.spotify.com/track/1gfzgfcrmkn2yTWuVGhCgh) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Bare](https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z) | 3:20 | 2019-05-26\* | 2020-03-17 |
 | [Buffet De Joie](https://open.spotify.com/track/5UJtLkVsd0vcJuFdUNcpks) | [Alicia Première](https://open.spotify.com/artist/3uADykN9RMDJGAc6mIN4mX) | [Buffet De Joie](https://open.spotify.com/album/7IZua1FG2Ajgi3Chytc9Ru) | 2:54 | 2020-06-24 | 2021-09-01 |
@@ -282,6 +283,7 @@
 | [Colorado Nights](https://open.spotify.com/track/6CTYTP3Kb3TKDLurnsPcOP) | [Lander Jacobson](https://open.spotify.com/artist/3loblVZXbtYpTvNtkp4V1s) | [Colorado Nights](https://open.spotify.com/album/3CqYjTyGVynO1zpNagTctc) | 2:50 | 2021-09-01 | 2022-05-21 |
 | [Colori autunnali](https://open.spotify.com/track/4m1nRLXsFQE7dNQGDxCvlX) | [Giacinta Toscano](https://open.spotify.com/artist/1RySkA0U8k1vui9rxEkbAL) | [Colori autunnali](https://open.spotify.com/album/20DhZgb2kEo49HdXwGjhEo) | 2:52 | 2021-04-22 | 2022-07-16 |
 | [Colors](https://open.spotify.com/track/2ETTYulGaRAmYgP5rTWxQQ) | [Vontmer](https://open.spotify.com/artist/14ztiaafrJJeTVbwdzekgI) | [Colors](https://open.spotify.com/album/3KVxuRrgmPx5L4GQvFrRQl) | 1:43 | 2019-10-04 | 2020-01-14 |
+| [Come close](https://open.spotify.com/track/3ANR14gcrMm6asGMNVhivt) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Come close](https://open.spotify.com/album/27r1Al7Uf7dtsd4zNCqXb6) | 2:50 | 2023-11-28 |  |
 | [Comforting](https://open.spotify.com/track/7FN1P3fDyiylftF9Sx3me5) | [Albert Riqueti](https://open.spotify.com/artist/3j3HkQcgUlmGeVox1C1Oij) | [Comforting](https://open.spotify.com/album/6MrthS6pbQxWT8K6C5G731) | 2:11 | 2020-05-06 | 2020-09-22 |
 | [Compass](https://open.spotify.com/track/7uN2L2nq8gfUBOUfHtSkQX) | [Niwa Nova](https://open.spotify.com/artist/0R0y4nv4vZlqcgbNYVhwIo) | [Compass](https://open.spotify.com/album/0fzkfmZfihS41wJFGLjmrv) | 2:20 | 2022-03-31 |  |
 | [Comptine d'un autre été, l'après\-midi](https://open.spotify.com/track/2AkcjsKlRbIBYGAgpQVFii) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [Amelie from Montmartre](https://open.spotify.com/album/6hzdQgjn3wTJhOUI4cVKu2) | 2:20 | 2019-05-26\* | 2019-08-13 |
@@ -525,6 +527,7 @@
 | [Grace](https://open.spotify.com/track/6YYCvr1XFHQa1qZ57hZ2rf) | [Saeko Seki](https://open.spotify.com/artist/2g4F9tXkfjvy3BH3CTYBfe) | [Grace](https://open.spotify.com/album/0BkILgTv20YzrIH2Q888RI) | 2:34 | 2020-06-24 | 2020-09-22 |
 | [Grace](https://open.spotify.com/track/1iet8jwrRWc5lkw8yKXtZN) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [Grace](https://open.spotify.com/album/0SuYQRLuR1YRJGxtlNyEcB) | 2:11 | 2019-05-26\* | 2019-11-05 |
 | [Gran Separado](https://open.spotify.com/track/6E0A1z9LAekBr97GRRlQ4p) | [Leonid Gautier](https://open.spotify.com/artist/1PG2CsJ35TSdcLarWqxGdu) | [Gran Separado](https://open.spotify.com/album/5MAFv5FqwSv5iNtmsInAbc) | 3:41 | 2020-04-28 | 2021-09-09 |
+| [Grand Canyon](https://open.spotify.com/track/2BbH50TRv9Qel8dnaE06wm) | [Ivan Vladusic](https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN) | [Grand Canyon](https://open.spotify.com/album/75KtznFXBGPKDaqIN9hBXZ) | 2:50 | 2023-11-28 |  |
 | [Gratitude](https://open.spotify.com/track/0ya8neyALMaTUpiyvoXCCU) | [Melanie Adler](https://open.spotify.com/artist/551CfpY5WmasLWB8Ir0EKx) | [Gratitude](https://open.spotify.com/album/3JnJkskmPw3s0ZxkfDGsoR) | 2:11 | 2019-08-23 | 2020-08-04 |
 | [Green Meadow](https://open.spotify.com/track/3utSs25tLqIPeLegK7MRiT) | [Dawn Geller](https://open.spotify.com/artist/0HSRJAuF3aNdrbivhOb9SC) | [Green Meadow](https://open.spotify.com/album/77BGGPqjJJEI6g9wF8gy0o) | 2:51 | 2020-08-04 | 2021-03-17 |
 | [Grey Skies Move Slowly](https://open.spotify.com/track/1co2ylVRZ7R4VrFyIzoPZG) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Grey Skies Move Slowly](https://open.spotify.com/album/4rFBA8Q8Y9DqxEHOWQ0Ojk) | 2:04 | 2021-02-03 | 2022-05-13 |
@@ -691,7 +694,7 @@
 | [Kozjak](https://open.spotify.com/track/1014xkh5XUlKdMMLbHUW2b) | [Davorka Poljak](https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg) | [Kozjak](https://open.spotify.com/album/5zDOPNNgTbZbk5jDEQHpjG) | 2:28 | 2019-06-13 | 2020-05-26 |
 | [Kveld](https://open.spotify.com/track/4qoa4ULtvmDz6JjGdiPqj0) | [Frode Gjermundsen](https://open.spotify.com/artist/2jlnldHu77IxBD89N5cepZ) | [Kveld](https://open.spotify.com/album/0n6oSeXcZOyfdmdnnfm0xl) | 2:00 | 2021-08-05 | 2022-07-07 |
 | [Kövess engem](https://open.spotify.com/track/3OvlHDjYRdlbuPaS0Krbml) | [Csizmazia Etel](https://open.spotify.com/artist/0fzi88EmWAkkGiMVuIIi1S) | [Kövess engem](https://open.spotify.com/album/48Dq1LikCVhATFQCUa0yxl) | 2:11 | 2020-04-21 | 2020-10-13 |
-| [La Ballerine](https://open.spotify.com/track/4oQi1BbH2g3V3s7lluq8vy) | [Lucién](https://open.spotify.com/artist/76OnsMFi0V8EsscskTGEch) | [La Ballerine](https://open.spotify.com/album/2xmXYtmCj2ipIXy6CPUaGv) | 2:33 | 2022-08-08 |  |
+| [La Ballerine](https://open.spotify.com/track/4oQi1BbH2g3V3s7lluq8vy) | [Lucién](https://open.spotify.com/artist/76OnsMFi0V8EsscskTGEch) | [La Ballerine](https://open.spotify.com/album/2xmXYtmCj2ipIXy6CPUaGv) | 2:33 | 2022-08-08 | 2023-11-29 |
 | [La consolation](https://open.spotify.com/track/1rmTdklw8wgOStLgI4B25Q) | [Gaétan Buisson](https://open.spotify.com/artist/6DGaGOFxqqKATh3iRZ1MKs) | [La consolation](https://open.spotify.com/album/7JdF9ISUD6AReDwZhvJ4K0) | 2:45 | 2021-11-11 | 2022-09-24 |
 | [La durée.](https://open.spotify.com/track/3b9xviE7S4jJKNxwu0rRJP) | [Wouter Dewit](https://open.spotify.com/artist/7v8qUCJnoNhmXdmkIxuJSg) | [La durée.](https://open.spotify.com/album/5Xmyfp8PhZYNMvvxv7HvpE) | 6:43 | 2019-05-26\* | 2019-08-23 |
 | [La gatta frettolosa fece i gattini ciechi](https://open.spotify.com/track/2DbJvzfZ5tb6Iz12uZrywG) | [Domenico Cattaneo](https://open.spotify.com/artist/0WYfSlkG5eMqZXQ0ePTLg5) | [La gatta frettolosa fece i gattini ciechi](https://open.spotify.com/album/6vrXwzmTmZ7aH9rRjt5bd8) | 1:47 | 2020-06-16 | 2021-06-24 |
@@ -870,7 +873,7 @@
 | [Misérable](https://open.spotify.com/track/1KVKQkKQ6pk8Hai7aKj5nx) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Misérable](https://open.spotify.com/album/3opiWhoPDVS44H2iYcrC08) | 2:00 | 2021-06-10 | 2022-09-13 |
 | [Modena](https://open.spotify.com/track/3iEbunxqmwNPKpuleXc3GD) | [Francesco Tulman](https://open.spotify.com/artist/4EdOyuppNt5Sa85jGs4dC4) | [Forgiveness](https://open.spotify.com/album/1Znd2KJt1kbfwFqBjur2bU) | 2:19 | 2020-08-04 | 2021-11-11 |
 | [Moment of Silence](https://open.spotify.com/track/5bAeFY9aWmcu0PKqDfUNgc) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [Moment of Silence](https://open.spotify.com/album/1dNQqeC8YWcWicqTOd7ngE) | 3:33 | 2020-09-15 | 2022-04-15 |
-| [momente](https://open.spotify.com/track/3e9Gta423esoiEi5AoIApd) | [Massimo Pavoni](https://open.spotify.com/artist/7f7ACBPPCHUj6Bi1x0gLqr) | [momente](https://open.spotify.com/album/0gy348UnTXyvNQ0pMxGcq7) | 2:06 | 2022-01-04 |  |
+| [momente](https://open.spotify.com/track/3e9Gta423esoiEi5AoIApd) | [Massimo Pavoni](https://open.spotify.com/artist/7f7ACBPPCHUj6Bi1x0gLqr) | [momente](https://open.spotify.com/album/0gy348UnTXyvNQ0pMxGcq7) | 2:06 | 2022-01-04 | 2023-11-29 |
 | [Momentum](https://open.spotify.com/track/3dTGRSCi9Zw7fT5lA2mDnV) | [Jordane Tumarinson](https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw) | [Momentum](https://open.spotify.com/album/2unepZAwGZ41hI7ZRHxH8f) | 2:27 | 2021-12-21 | 2022-09-24 |
 | [Mon Ami](https://open.spotify.com/track/5uq2R1bTmJaqRrY8uwstVS) | [Ricard Paul](https://open.spotify.com/artist/6N2AxUq3v1faD2lVriyeJu) | [Mon Ami](https://open.spotify.com/album/6O7GyDT1FY6Yi1mZ7wd3vs) | 2:26 | 2022-02-02 | 2022-07-29 |
 | [mondaufgang](https://open.spotify.com/track/6iqbDeuRi4WJ3fYJc9WWGg) | [Albert Puck](https://open.spotify.com/artist/5hjnkdeCMBf3w7lMyHSDQd) | [silhouette](https://open.spotify.com/album/1aVDfgfybCKvosSxwokRlh) | 2:49 | 2020-11-03 | 2021-06-03 |
@@ -909,6 +912,7 @@
 | [My Absence](https://open.spotify.com/track/60aQ47g6775vmbN3yMntql) | [Giselle Guarezi](https://open.spotify.com/artist/3I7r2Vx9QBUabnGWYnKMQy) | [My Absence](https://open.spotify.com/album/0Xg1s0kUyiP6ae7M8ywtMV) | 1:58 | 2022-02-02 | 2023-07-04 |
 | [My Everything](https://open.spotify.com/track/3oymu4B8YqysHtkQV3oRZ7) | [Xanthe Nephus](https://open.spotify.com/artist/1Ilv5utNuysFsOCbLRq8eD) | [My Everything](https://open.spotify.com/album/4O0DWCYkKuBZRatFDWKz6i) | 2:36 | 2022-11-09 | 2023-09-23 |
 | [My Mind Made Up](https://open.spotify.com/track/28EEsmFKYr0HTeCxyEeeqO) | [Sarah Seing](https://open.spotify.com/artist/4Sw3vhjwiEgEuExPxm3vpl) | [My Mind Made Up](https://open.spotify.com/album/5gj3aLJleU4wkfTN2bttEO) | 3:35 | 2021-07-01 | 2022-05-13 |
+| [My Story](https://open.spotify.com/track/58S5x2FRM1xU8Ufe2g0a2G) | [Portia Price](https://open.spotify.com/artist/7IwKtpUI6EW84PJLgzmlP7) | [My Story](https://open.spotify.com/album/2EVVXolgUr3Is1UB86BITH) | 2:18 | 2023-11-28 |  |
 | [Mystic Lily](https://open.spotify.com/track/5PaxL9G0j505GkNvmb4r4x) | [Selin Soral](https://open.spotify.com/artist/1ELn9uEbCIJXLAtFmiQ2wY) | [Mystic Lily](https://open.spotify.com/album/3ze19Ewre23Cgja29gbwwM) | 2:15 | 2021-06-03 | 2022-05-21 |
 | [Mystique](https://open.spotify.com/track/47u0q4Z7iALJXli6pkcnvA) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [Mystique](https://open.spotify.com/album/3XDrOM2hdwuRYvqlmTQFvL) | 2:30 | 2022-02-23 | 2022-10-25 |
 | [Má sestra](https://open.spotify.com/track/49VzYsJHrITQOn28WBMztb) | [Jani Lechleiter](https://open.spotify.com/artist/13j5NE2SAeKFALiLQpipfU) | [Má sestra](https://open.spotify.com/album/6xQeCTSjdXFTQN6P65UcRe) | 2:05 | 2022-10-13 |  |
@@ -1638,6 +1642,7 @@
 | [with me, with you](https://open.spotify.com/track/1S9aFKkJi0MILii1icKFeu) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [heart pieces](https://open.spotify.com/album/0Tzbu2y034RCgFtLhQI2GY) | 3:19 | 2021-05-12 | 2022-05-05 |
 | [With you](https://open.spotify.com/track/3saXbQ6vzfvSYTUcpBBm2t) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [With you](https://open.spotify.com/album/4DmiOhynq2H08YRRz2KEIf) | 2:17 | 2021-08-05 | 2022-09-24 |
 | [Without](https://open.spotify.com/track/1S991FKBFt4MHoietICl2c) | [Amity Fall](https://open.spotify.com/artist/6cGxRgjUNOdLJ1dJby1GmS) | [Without](https://open.spotify.com/album/6wATKW07vEYGsqiYmdN9Vy) | 2:30 | 2020-01-22 | 2020-09-30 |
+| [Without End](https://open.spotify.com/track/5w3O0ONMHCM9YmTS96fplL) | [Aksel Krystad](https://open.spotify.com/artist/6HWqfAvhFGVzX04XxDZBVw) | [Without End](https://open.spotify.com/album/7ICabDvPYVzaAOL0Nt7JxD) | 2:12 | 2023-11-28 |  |
 | [Wolf and Her](https://open.spotify.com/track/7GI26ZckFos2DWeF4ZKY5V) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [A Story of Her](https://open.spotify.com/album/5iImpdFW2BoTfcUm1GArmx) | 2:07 | 2019-12-04 | 2019-12-17 |
 | [Wolfpack](https://open.spotify.com/track/2uaSFwufXiS5OuuN4sqFGv) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [Dear Sleep](https://open.spotify.com/album/7d5Ch69Ih3bHmDkMEo1Cic) | 3:31 | 2019-06-13 | 2020-04-21 |
 | [Wonder](https://open.spotify.com/track/0LRjR9cx8rJDYTRIHq7rxp) | [Arelius](https://open.spotify.com/artist/5EPSFsZ4hH2NhjBNsVwQfH) | [Lucid Dreamin' II](https://open.spotify.com/album/7jufASRTIagXI2lw0SYz6W) | 2:42 | 2019-10-04 | 2019-12-17 |

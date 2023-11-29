@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "THE GREATEST UNKNOWN",
+        "url": "https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151760,
+      "name": "):\u963f\u4fee\u7f85:(",
+      "url": "https://open.spotify.com/track/0jSHwhowInP7AgP9BkWudl"
+    },
+    {
+      "album": {
         "name": "01",
         "url": "https://open.spotify.com/album/7DkIDS9gWtm6PQs9P7TnBz"
       },
@@ -16,7 +34,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 186706,
       "name": "01",
       "url": "https://open.spotify.com/track/7r6pHYnNYqxSZr8e40VF8T"
@@ -226,7 +244,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 217786,
       "name": "Beautiful Days",
       "url": "https://open.spotify.com/track/7iSGf8qaB5WI5RFBAi9LNP"
@@ -564,6 +582,24 @@
       "duration_ms": 230666,
       "name": "Comedy",
       "url": "https://open.spotify.com/track/5SuOikwiRyPMVoIQDJUgSV"
+    },
+    {
+      "album": {
+        "name": "Continue",
+        "url": "https://open.spotify.com/album/1eMlU0dSndWo2uS6j3MPpB"
+      },
+      "artists": [
+        {
+          "name": "4s4ki",
+          "url": "https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205017,
+      "name": "Continue",
+      "url": "https://open.spotify.com/track/5OkBQPz8j5yndKOKkTzKJT"
     },
     {
       "album": {
@@ -1255,6 +1291,24 @@
     },
     {
       "album": {
+        "name": "Super Champon",
+        "url": "https://open.spotify.com/album/23oUTiqIPyiA42tXNsIzis"
+      },
+      "artists": [
+        {
+          "name": "Otoboke Beaver",
+          "url": "https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92400,
+      "name": "I checked your cellphone",
+      "url": "https://open.spotify.com/track/5qzkYYg7WmIj9yJVIglD7n"
+    },
+    {
+      "album": {
         "name": "I just wanna dance with you- period",
         "url": "https://open.spotify.com/album/4u7Y1abTcYxn5Ob0Nl4Xzk"
       },
@@ -1720,6 +1774,24 @@
       "duration_ms": 187669,
       "name": "MAGICAL DREAM",
       "url": "https://open.spotify.com/track/6YCOnfmSd5G13hFBwcWO4P"
+    },
+    {
+      "album": {
+        "name": "Magnetized",
+        "url": "https://open.spotify.com/album/2voD9UoVMxvAZwrK71UlWX"
+      },
+      "artists": [
+        {
+          "name": "mekakushe",
+          "url": "https://open.spotify.com/artist/0CWyD7hgBLQ7dIUGEDkAWz"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179874,
+      "name": "Magnetized",
+      "url": "https://open.spotify.com/track/3dBn4h8S8UhY9npfamBOSD"
     },
     {
       "album": {
@@ -2550,7 +2622,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 214943,
       "name": "Raise",
       "url": "https://open.spotify.com/track/5VOPZfKO6Q03IAiVckyAvU"
@@ -2640,7 +2712,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 135333,
       "name": "S'il vous plait",
       "url": "https://open.spotify.com/track/6NeSiZokIiQwJaqAID41Vy"
@@ -2998,7 +3070,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 208571,
       "name": "take it easy",
       "url": "https://open.spotify.com/track/5zcZFIA0wp45rmn0XVyyVO"
@@ -3818,6 +3890,32 @@
       "duration_ms": 197722,
       "name": "\u30b9\u30de\u30a4\u30eb\u3042\u3052\u306a\u3044",
       "url": "https://open.spotify.com/track/4LKpngNUdNSWMSewkMkKzL"
+    },
+    {
+      "album": {
+        "name": "\u30c0\u30d6\u30eb\u30fb\u30d7\u30c3\u30b7\u30e5\u30fb\u30aa\u30d5\u3002",
+        "url": "https://open.spotify.com/album/5TrVfUhS0GLtkJ8uapOmGF"
+      },
+      "artists": [
+        {
+          "name": "MAISONdes",
+          "url": "https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM"
+        },
+        {
+          "name": "\u6c34\u69fd",
+          "url": "https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq"
+        },
+        {
+          "name": "A4\u3002",
+          "url": "https://open.spotify.com/artist/18pJlMkSYAxCTkpSzGrLR9"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174500,
+      "name": "\u30c0\u30d6\u30eb\u30fb\u30d7\u30c3\u30b7\u30e5\u30fb\u30aa\u30d5\u3002",
+      "url": "https://open.spotify.com/track/5TiirG23LRTNq0hRuML8iq"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: bungareyza, Dimansyah Laitupa
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,663 likes - 95 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,662 likes - 95 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 94 | [Percaya](https://open.spotify.com/track/0BWpfPvl4jqaTohIZXxVRv) | [YUNOYA](https://open.spotify.com/artist/37IiNPMn4mV08ThuK5V8XG) | [Percaya](https://open.spotify.com/album/26lEJRAEKIEsmIotZCMSau) | 3:00 |
 | 95 | [SHANGHAI](https://open.spotify.com/track/61ofgQLjB8v1PavDMDDtPv) | [Heaven Affair](https://open.spotify.com/artist/2Or6tFioqVmu3O4sEGHlaW) | [SHANGHAI](https://open.spotify.com/album/79CbzZWF6uCUvWYyQjYA7K) | 4:49 |
 
-Snapshot ID: `MCw4YWVkZTZiM2Q0N2YxMzlhYTkxYWQ3Y2M4MmY0YWM3ZmM4OGY3Y2U2`
+Snapshot ID: `MCwzOTIwNDBhOGNlZTI3MjNjNzMxZTEzMDRmOWNlMjZkOWY0MzZkY2Vk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the internet\. Cover: Lay Bankz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,393,724 likes - 100 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,393,677 likes - 100 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 19 | [Somethin Bout U](https://open.spotify.com/track/3aEQjuGpL2ZyYtnOKEgP6w) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Somethin Bout U](https://open.spotify.com/album/0P3gIwj163thjGGYQW7ZDp) | 2:52 |
 | 20 | [Love My Tone](https://open.spotify.com/track/7oB3Sh2bsCdQiD3Jq8oLsF) | [Fourfive](https://open.spotify.com/artist/2Iwoy31N647ZAX06wPbcGg) | [Love My Tone](https://open.spotify.com/album/5KNmoz5F8pXDwR3uQuo44T) | 1:42 |
 | 21 | [Gunz in SOHO](https://open.spotify.com/track/3mNw70F0wDJXItFYEoQ56L) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [5TH AMNDMNT](https://open.spotify.com/album/5IJAhCl93xn2Ybqk8OGm6n) | 2:22 |
-| 22 | [BREATHE.](https://open.spotify.com/track/3xKXBuxYNVTFPyNpYPHbOI) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BREATHE.](https://open.spotify.com/album/7aaruiZiAzYf7gLW86WhKT) | 2:26 |
+| 22 | [BREATHE\. freestyle](https://open.spotify.com/track/3xKXBuxYNVTFPyNpYPHbOI) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BREATHE\. freestyle](https://open.spotify.com/album/7aaruiZiAzYf7gLW86WhKT) | 2:26 |
 | 23 | [OLD TUNES](https://open.spotify.com/track/0Gym2BGsLU15iFSVhMQ3sD) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [CARE PACKAGE](https://open.spotify.com/album/5SWXYl4C8gX1c561DzntR5) | 1:58 |
 | 24 | [STICKS ON READY](https://open.spotify.com/track/5ucX2TbTFb0Mw9LWgyOnly) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [Ghetto Fabulous](https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT) | 2:06 |
 | 25 | [Surround Sound System](https://open.spotify.com/track/0mshAw1jik7I5KEi9wYGWL) | [Jace!](https://open.spotify.com/artist/2SPxiIMMkdVY00DphiIjxR) | [Surround Sound System](https://open.spotify.com/album/6fZEcVdIblxW8zm7Ga3aWx) | 1:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 99 | [OH WHY](https://open.spotify.com/track/0UrynT1ZUyYiF5I9dT52tQ) | [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9) | [OH WHY](https://open.spotify.com/album/6oqGTuudtb3yXzTcvasY0h) | 2:37 |
 | 100 | [WA\\VE](https://open.spotify.com/track/1K7Tnhm54msvxefjFMWa6f) | [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [F1LTHY](https://open.spotify.com/artist/6NmvwMFvNRQmWdW5N1nxsC) | [1of1](https://open.spotify.com/album/1uDRSDtUULUbusMjtRrwKi) | 2:35 |
 
-Snapshot ID: `MCw0Y2I4YzYwYTg0NWJhZDZmMTA4MmQ3MTA0MjM5NGU3YzFhMTQyYTQ2`
+Snapshot ID: `MCw4MWU5ZGRhYTQ2MmRhNTgxMjNjMzZlNGVkZGMzOWQ0NjNjNTJlNTJl`

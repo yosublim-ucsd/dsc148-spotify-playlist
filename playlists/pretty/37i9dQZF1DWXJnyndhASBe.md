@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Paluch
 
-[Spotify](https://open.spotify.com/user/spotify) - 491,791 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 491,853 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [LICEUM \(SALA 27\)](https://open.spotify.com/track/6MRatjwwFoJt07cK1bt6FW) | [27.Fuckdemons](https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw) | [LICEUM \(SALA 27\)](https://open.spotify.com/album/4SIhFEYOOqe0eDvetreSU9) | 3:42 |
 | 50 | [BIBA](https://open.spotify.com/track/0t77FnN3xAxcYjW9v3dZeD) | [Żabson](https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft), [Kronkel Dom](https://open.spotify.com/artist/1dkyORGHN0TOmjzu5qCO45), [Kizo](https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy), [Sir Mich](https://open.spotify.com/artist/77QIEno3j2L5WkrHkh2OnP) | [Macrodosing](https://open.spotify.com/album/01nWaHBDli91cOvKShpivr) | 1:58 |
 
-Snapshot ID: `MCxlZTZiNDQ3ZGJkZjBhMjcwNGE2MDY0YjBmNDQyZTE3NTJlZmM2Zjgw`
+Snapshot ID: `MCw1Yjk2OWNjNGMxN2YyMmM0OTJhYTdlMzA4MmJhYzJjNjgwYTA3M2M1`

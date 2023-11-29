@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume! Cover: UCHE YARA",
-  "num_followers": 29911,
+  "num_followers": 29915,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWM0MDM5MjkyNWJlMGMzMWFjOWI0OWJkZGI3ZjViMmE5YWIwMGFj",
+  "snapshot_id": "MCxkYjcyNWE5MzI0YTkzMDRhYmQxNGYyN2U2NGJjZDIzNDA3ODUwNzQz",
   "tracks": [
     {
       "added_at": "2023-11-07 23:00:00",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-11-07 23:00:00",
       "album": {
-        "name": "Farewell",
-        "url": "https://open.spotify.com/album/40eOtSpXZRNJDZ2MR7oN3K"
-      },
-      "artists": [
-        {
-          "name": "Anna-Sophie",
-          "url": "https://open.spotify.com/artist/7DGNtmrTAcgrgSj4wfYVCw"
-        }
-      ],
-      "duration_ms": 123109,
-      "name": "Boyfriend",
-      "url": "https://open.spotify.com/track/5H42YUEriD3ToSUpJ9wklA"
-    },
-    {
-      "added_at": "2023-11-07 23:00:00",
-      "album": {
         "name": "Wie lang",
         "url": "https://open.spotify.com/album/3QLqXwmTBLdIEYPhMzxmvo"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 149815,
       "name": "Wie lang",
       "url": "https://open.spotify.com/track/5jMbm8FdjIu3dmBEm19IJv"
+    },
+    {
+      "added_at": "2023-11-07 23:00:00",
+      "album": {
+        "name": "Farewell",
+        "url": "https://open.spotify.com/album/40eOtSpXZRNJDZ2MR7oN3K"
+      },
+      "artists": [
+        {
+          "name": "Anna-Sophie",
+          "url": "https://open.spotify.com/artist/7DGNtmrTAcgrgSj4wfYVCw"
+        }
+      ],
+      "duration_ms": 123109,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/5H42YUEriD3ToSUpJ9wklA"
     },
     {
       "added_at": "2023-11-07 23:00:00",
@@ -315,6 +315,22 @@
     {
       "added_at": "2023-11-07 23:00:00",
       "album": {
+        "name": "SILVERLAKE 03",
+        "url": "https://open.spotify.com/album/3EHHWKU0W1jIsFcmpaXqas"
+      },
+      "artists": [
+        {
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        }
+      ],
+      "duration_ms": 311622,
+      "name": "YOUR NAME",
+      "url": "https://open.spotify.com/track/7uHnPv1DBxADOMBemb1Xdn"
+    },
+    {
+      "added_at": "2023-11-07 23:00:00",
+      "album": {
         "name": "WITCH",
         "url": "https://open.spotify.com/album/12kAESgAld7orprsv64J0k"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 181257,
       "name": "Mitten in den Massen",
       "url": "https://open.spotify.com/track/6Tk7aLBZLbIAfXhjtWdYPi"
-    },
-    {
-      "added_at": "2023-11-07 23:00:00",
-      "album": {
-        "name": "SILVERLAKE 03",
-        "url": "https://open.spotify.com/album/3EHHWKU0W1jIsFcmpaXqas"
-      },
-      "artists": [
-        {
-          "name": "JOPLYN",
-          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
-        }
-      ],
-      "duration_ms": 311622,
-      "name": "YOUR NAME",
-      "url": "https://open.spotify.com/track/7uHnPv1DBxADOMBemb1Xdn"
     },
     {
       "added_at": "2023-11-07 23:00:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-11-07 23:00:00",
       "album": {
-        "name": "No Spell for Moving Water",
-        "url": "https://open.spotify.com/album/1GnhsJ96TxmK11CgBiEKZn"
-      },
-      "artists": [
-        {
-          "name": "Velvet Two Stripes",
-          "url": "https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Boots Walkin' All over You",
-      "url": "https://open.spotify.com/track/26FT7b8OmWRAQvxV2KSvIM"
-    },
-    {
-      "added_at": "2023-11-07 23:00:00",
-      "album": {
         "name": "SNACKS",
         "url": "https://open.spotify.com/album/7c17jsWUkwcqaYXpb7ayXV"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 195066,
       "name": "Irgendwohin",
       "url": "https://open.spotify.com/track/5WBkovIPgnge8evVpddLrh"
+    },
+    {
+      "added_at": "2023-11-07 23:00:00",
+      "album": {
+        "name": "No Spell for Moving Water",
+        "url": "https://open.spotify.com/album/1GnhsJ96TxmK11CgBiEKZn"
+      },
+      "artists": [
+        {
+          "name": "Velvet Two Stripes",
+          "url": "https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Boots Walkin' All over You",
+      "url": "https://open.spotify.com/track/26FT7b8OmWRAQvxV2KSvIM"
     },
     {
       "added_at": "2023-11-07 23:00:00",

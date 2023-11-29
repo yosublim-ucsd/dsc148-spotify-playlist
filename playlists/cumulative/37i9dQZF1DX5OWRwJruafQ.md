@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Prem Dhillon
 
-263 songs - 12 hr 36 min
+264 songs - 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Highway To Hell](https://open.spotify.com/track/5f7N1TQ2N1Hf9Q4OUXLphX) | [Ekam Sudhar](https://open.spotify.com/artist/30QXHMkDM1bkVffpzvrZEy), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Highway To Hell](https://open.spotify.com/album/0NEzC57EkJUAeXmVZC2mjD) | 3:12 | 2023-03-29 | 2023-04-21 |
 | [Hold On](https://open.spotify.com/track/1rtqV8vLqY6bvFw1Mna6rs) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Awara](https://open.spotify.com/album/5yfA6iH6eQ4JkhT0z9mmmF) | 3:02 | 2023-03-29 | 2023-07-15 |
 | [Hood Famous](https://open.spotify.com/track/5iVYMQKl3OZi0ULxeKAkho) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [Relentless](https://open.spotify.com/album/5RUFZa2yj47Co6rMWEJzwQ) | 2:56 | 2023-03-29 |  |
+| [Hustla](https://open.spotify.com/track/2ucjApErbM9GZ6aJl2HGWF) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [Still Here](https://open.spotify.com/album/55nYYOQPH0AUrbfsV0Nhgl) | 2:53 | 2023-11-28 |  |
 | [Hustle](https://open.spotify.com/track/6o2hiOdWaq6hySMxPiQ04q) | [Tyson Sidhu](https://open.spotify.com/artist/5wGjQPYmBAnDmtNeOMoavY) | [Hustle](https://open.spotify.com/album/3xfxVyBuJ0Uf6sTxOpEFkZ) | 2:37 | 2023-03-29 | 2023-04-21 |
 | [Hustle Evuryday](https://open.spotify.com/track/3esqivaz1tFBLv2QeuEfiQ) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Back To Skool](https://open.spotify.com/album/2nV3fDaXXox4sEs3NFllkG) | 2:46 | 2023-05-12 | 2023-07-28 |
 | [If I Die](https://open.spotify.com/track/6Hz3tNl55T31nuoX5NKybR) | [Guri Lahoria](https://open.spotify.com/artist/4oMjKSuAAFB6E9a5Icudw3), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [If I Die](https://open.spotify.com/album/78piK5s0g1fcELSLFzvDbI) | 3:06 | 2023-03-29 |  |
@@ -249,7 +250,7 @@
 | [Tu Te Sharaab](https://open.spotify.com/track/1DdAnzhSw7HT4xMNDrGMcV) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Jordan Sandhu Hits](https://open.spotify.com/album/1o3aNTlOP5JyryDI2D5aMq) | 3:15 | 2023-05-26 |  |
 | [Unexpected](https://open.spotify.com/track/1sbwUh5TnxyIug3zfbGwhJ) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Billa Balero](https://open.spotify.com/artist/43wdO0MiAJylEiH6aoUh7f), [J.Hind](https://open.spotify.com/artist/3hWwqQE8pDtGEOOf0VJx4t) | [Unexpected](https://open.spotify.com/album/0KN5XdHYFCLoBqUu7DS4w2) | 2:59 | 2023-06-30 | 2023-11-16 |
 | [Vaardaat](https://open.spotify.com/track/2AxJy6T57H1eJnxZ2sb9Ir) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Mandeep Maavi](https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1) | [Dusk N Dawn](https://open.spotify.com/album/2GB5XPYMcM9ezM5g47mtKo) | 2:27 | 2023-05-22 |  |
-| [Vail](https://open.spotify.com/track/3wxvgNYnMJylOwZaX4JeiX) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Guri Singh](https://open.spotify.com/artist/5iE9QAIBbfKv22XiqGEhRM), [Rich](https://open.spotify.com/artist/02E5S0ecOieToq7uAZCL6H) | [I Don\`t Care](https://open.spotify.com/album/1rvrDK4HownPhGZ4S5VXtu) | 2:24 | 2023-06-08 |  |
+| [Vail](https://open.spotify.com/track/3wxvgNYnMJylOwZaX4JeiX) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Guri Singh](https://open.spotify.com/artist/5iE9QAIBbfKv22XiqGEhRM), [Rich](https://open.spotify.com/artist/02E5S0ecOieToq7uAZCL6H) | [I Don\`t Care](https://open.spotify.com/album/1rvrDK4HownPhGZ4S5VXtu) | 2:24 | 2023-06-08 | 2023-11-29 |
 | [Vibe](https://open.spotify.com/track/2jg12Hm0uoAdSDj6TpjII2) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Diamond](https://open.spotify.com/artist/2FsgnpXcftQH9HppbO1DeC), [Sruishty Maan](https://open.spotify.com/artist/4eyp9UE4jjQVgBFai1AQqz) | [Vibe](https://open.spotify.com/album/39TgDdcNT7Bp5VAekbTFut) | 2:44 | 2023-07-04 |  |
 | [Violence](https://open.spotify.com/track/5eUZPftNEXKMin9Evi5aJq) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV) | [Violence](https://open.spotify.com/album/5Yo740RpqOBrqJwuaeByNY) | 2:26 | 2023-03-29 |  |
 | [W](https://open.spotify.com/track/2c4J01PS0n3oGz0uTHBnK8) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [TVGUCCI](https://open.spotify.com/artist/0WXyxXKOWXDEYN3aFxerXw), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [W](https://open.spotify.com/album/0lOS792KEOjaIjlAMW4dNP) | 3:09 | 2023-03-29 | 2023-04-21 |

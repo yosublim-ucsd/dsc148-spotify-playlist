@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: Northern19
 
-661 songs - 1 day 11 hr 30 min
+663 songs - 1 day 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [BIG FUCKIN' NOISE](https://open.spotify.com/track/40iH0JrI2n4UTKkzWgIWYq) | [Burl](https://open.spotify.com/artist/2ZgiouPek6RJYWMttaR7gw) | [JUST PUNK,GO!!](https://open.spotify.com/album/3MwwFxDX15mBkUCjkPaV0Z) | 2:41 | 2022-05-24 | 2022-07-24 |
 | [BLESS](https://open.spotify.com/track/7gi73b1NfTb3K23qzXTkGY) | [ENTH](https://open.spotify.com/artist/6PmcG3GSDpsgO9yqAyaXBz) | [NETH](https://open.spotify.com/album/3bX09wKzqYqEGEKSEaoS2J) | 2:35 | 2022-05-17 | 2022-07-27 |
 | [Blooming the Tank\-top](https://open.spotify.com/track/2vBvV18PwrlUhTm9jaxhh6) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [Tank\-top Flower for Friends](https://open.spotify.com/album/2Ll3DZYOR4UKeswV5TADhu) | 2:12 | 2023-02-28 | 2023-11-16 |
-| [Blooming the Tank\-top](https://open.spotify.com/track/7BYmkuVFNzR0RvSStnZ9W0) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [BEST of the Tank\-top](https://open.spotify.com/album/0Ng4VLkEM5p6YLXmqJi5Gf) | 2:14 | 2023-11-14 |  |
+| [Blooming the Tank\-top](https://open.spotify.com/track/7BYmkuVFNzR0RvSStnZ9W0) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [BEST of the Tank\-top](https://open.spotify.com/album/0Ng4VLkEM5p6YLXmqJi5Gf) | 2:14 | 2023-11-14 | 2023-11-29 |
 | [Blue Dream](https://open.spotify.com/track/5UbyuwQjeGGlRlHlG8Vd26) | [See You Smile](https://open.spotify.com/artist/4ll5mBYeHlhg0R2fjwspPv), [KD from UNMASK aLIVE](https://open.spotify.com/artist/0dV28DyMHgaCIwEkD78FEF) | [On Your Mark](https://open.spotify.com/album/4y9G3NBzH1krs7nvDOJ2jF) | 2:17 | 2023-01-17 | 2023-03-14 |
 | [Blue Ink](https://open.spotify.com/track/1LuCnD3kMp1KVT9AffvzDK) | [Good Grief](https://open.spotify.com/artist/0CiZp5RMtcwR2JGTvmTXa8) | [Sweet](https://open.spotify.com/album/3Ku32ojOASDbazhWQs2vr5) | 3:02 | 2022-06-07 | 2022-06-26 |
 | [Bond girl Sugushinu](https://open.spotify.com/track/3OEn6CmjNDxskFlVNjyIU6) | [バックドロップシンデレラ](https://open.spotify.com/artist/4v0uOC5uuIzkyGqYEdwTLI) | [3rd e.p](https://open.spotify.com/album/2tnBhc5J7XZjqf7cAB7Gqf) | 2:38 | 2022-10-18 | 2022-11-09 |
@@ -169,6 +169,7 @@
 | [Heroine](https://open.spotify.com/track/4gApHF6PIQByk71asnPt2L) | [FOMARE](https://open.spotify.com/artist/615ixHXsfFwzxgw3sOPICH) | [Heroine](https://open.spotify.com/album/6OcS9PBcKQtBpiubt9w2zf) | 3:07 | 2023-06-08 | 2023-10-04 |
 | [HEY DUDE](https://open.spotify.com/track/5R8lXeqwyncJRScMuVJpml) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [HEY DUDE](https://open.spotify.com/album/0PPU4QuBERLv3aJlcJFu9y) | 4:01 | 2022-05-12 | 2022-07-29 |
 | [Hey! Stay by my side!](https://open.spotify.com/track/5IDfSmahBmnRrbbEZiOjNF) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [Hey! Stay by my side!](https://open.spotify.com/album/64DJ8QPZHszlBdA0R9SeZz) | 2:27 | 2022-08-12 | 2022-12-20 |
+| [Hey! Sunny!](https://open.spotify.com/track/0ka2Fx1ZmC4ZJBiP2cmVEH) | [SpecialThanks](https://open.spotify.com/artist/1ZzoJJ9wVpdlxB8Hp96ENk) | [Hey! Sunny!](https://open.spotify.com/album/6LJXIjyO6HfvItezuEPQQZ) | 3:01 | 2023-11-28 |  |
 | [HOLYCALLING](https://open.spotify.com/track/0SlRTp6ykBPHjkB0HlZFiC) | [I LOVE CMF](https://open.spotify.com/artist/66tH1YT5eQsD7dcHWF4Jge) | [COMMO dos DRAGONS](https://open.spotify.com/album/4lVVrvpQtieYHulHWcCvaY) | 2:31 | 2022-05-12 | 2022-07-26 |
 | [Homies](https://open.spotify.com/track/5ET2DvVkvKHIdCIVuIcGlm) | [PRAY FOR ME](https://open.spotify.com/artist/1kSsu9AQF5hSdLgkWFbmtF) | [Home is…](https://open.spotify.com/album/7esl263ge8LFdNp7giZhNY) | 2:43 | 2022-06-07 | 2022-07-29 |
 | [HOTARU NO HIKARI](https://open.spotify.com/track/7u0uQ6LPgE5weRPJx8XzzF) | [Snail Ramp](https://open.spotify.com/artist/1FXeQKrufIqfjNAPPV4bfx), [AIR](https://open.spotify.com/artist/1tY72Ioe4SGlALcoIDlCa1) | [GRAVITY](https://open.spotify.com/album/7AotoltMCQTbLyVq73371i) | 3:40 | 2022-05-12 |  |
@@ -290,7 +291,7 @@
 | [Ode to Joy](https://open.spotify.com/track/1PP762X3mGJl5OnW4TwK6Q) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [25 \-A Tribute To Dragon Ash\-\(Another Edition\)](https://open.spotify.com/album/4dyz7fp74JIqn8UzSkbeDd) | 3:48 | 2023-02-21 | 2023-02-23 |
 | [Ode to Joy](https://open.spotify.com/track/5OVuQtzwNxAL3V5Y4daijB) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [25 \-A Tribute To Dragon Ash\-\(Another Edition\)](https://open.spotify.com/album/6EjpgYYtbyZbtLzXQmfBm9) | 3:48 | 2023-02-21 | 2023-03-08 |
 | [OFF THE WALL](https://open.spotify.com/track/1UFagrhLahtfM5bpC2a938) | [Five State Drive](https://open.spotify.com/artist/6A61RC9gPIbhN5bdXMl8ku) | [We'll be the Next](https://open.spotify.com/album/6jf1XEwvf9Nwyk3cf9bGKn) | 2:04 | 2022-05-17 | 2022-07-20 |
-| [OH! LOVE! 幻!](https://open.spotify.com/track/5asbnOYmKPgHfV9fCmuyoN) | [SpecialThanks](https://open.spotify.com/artist/1ZzoJJ9wVpdlxB8Hp96ENk) | [OH! LOVE! 幻!](https://open.spotify.com/album/70MlunmJxH9H09zr2VlxrU) | 1:33 | 2023-10-31 |  |
+| [OH! LOVE! 幻!](https://open.spotify.com/track/5asbnOYmKPgHfV9fCmuyoN) | [SpecialThanks](https://open.spotify.com/artist/1ZzoJJ9wVpdlxB8Hp96ENk) | [OH! LOVE! 幻!](https://open.spotify.com/album/70MlunmJxH9H09zr2VlxrU) | 1:33 | 2023-10-31 | 2023-11-29 |
 | [Ohichyo](https://open.spotify.com/track/4PCTknCvdlBSZuOw9gpH6F) | [KEMURI](https://open.spotify.com/artist/3tRqvT7FoScxartUAj68Wp) | [77 Days](https://open.spotify.com/album/2MGPBJ3elGWwjgKRBXy1ib) | 2:23 | 2022-05-19 | 2023-11-25 |
 | [oiの中の蛙](https://open.spotify.com/track/0mjoRduEfRPNAfDtsuSjC0) | [GaGaGa SP](https://open.spotify.com/artist/1i2ol7SBMNLazfzSZKRGwM) | [THEガガガSP](https://open.spotify.com/album/2fftHCw5wj2J0qp7gr41nM) | 2:42 | 2022-05-12 | 2022-07-27 |
 | [Omotesando](https://open.spotify.com/track/2VIqACtFptv3Y1Z7rT5zpp) | [ANORAK!](https://open.spotify.com/artist/1htg5lwXpkH7DwmKnIW9JI) | [ANORAK!](https://open.spotify.com/album/3nLvQzElvXxOBAqemV0rqo) | 2:04 | 2022-11-17 | 2022-12-21 |
@@ -652,6 +653,7 @@
 | [眩光](https://open.spotify.com/track/0Imzg052WsTbxUNDMnZhmp) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [あの日、あの場所/眩光](https://open.spotify.com/album/1VSTDVmonKezz5ZiBtc66c) | 3:34 | 2022-05-12 |  |
 | [神社](https://open.spotify.com/track/4Z4tIMYd11bo5x16w2WjXf) | [かずき山盛り](https://open.spotify.com/artist/3wzWXrDWCw5xTrINkYkhTH) | [神社](https://open.spotify.com/album/1F35k5gQ4OjwJWDKqScdIQ) | 3:22 | 2022-12-27 | 2022-12-29 |
 | [空に唄えば](https://open.spotify.com/track/0CATStPGs7sxXxM7CJLdPa) | [175R](https://open.spotify.com/artist/40y1P1mpPSpiRxL5LDv6aI) | [175R BEST 「ANNIVERSARY 1998\-2018」](https://open.spotify.com/album/6pmrSKNlVCLwIbG8Mi7E4A) | 4:18 | 2022-06-02 |  |
+| [竜の落とし子](https://open.spotify.com/track/7rB1MjXVEbOSjNOtuZmZok) | [May Forth](https://open.spotify.com/artist/6MYn2A1crz0GWAqp2Ctyxj) | [竜の落とし子](https://open.spotify.com/album/350EStRELQnftigWJ8GXRF) | 3:28 | 2023-11-28 |  |
 | [笑っていようぜ](https://open.spotify.com/track/1QgHgUb7Fy1P8YNJTF2TpL) | [THE FOREVER YOUNG](https://open.spotify.com/artist/6frp4bEF93k77mFn6AbwQd) | [ビューティフルユース](https://open.spotify.com/album/421Ct2V48lwkcLbTySapDj) | 1:49 | 2022-05-12 | 2023-02-22 |
 | [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 | 2022-11-08 |  |
 | [素晴らしき世界](https://open.spotify.com/track/4C1JnGn5Gj2IAXxD8G3U06) | [THE FOREVER YOUNG](https://open.spotify.com/artist/6frp4bEF93k77mFn6AbwQd) | [生きる](https://open.spotify.com/album/73mCJ3q1VsTxQx1QzgZltK) | 4:33 | 2022-05-19 | 2022-07-09 |

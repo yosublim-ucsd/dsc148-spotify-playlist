@@ -4,7 +4,7 @@
 
 > Pagode e Sertanejo pura sofrência para te acompanhar na faxina!
 
-175 songs - 9 hr 33 min
+176 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Carreira Solo \- Ao Vivo](https://open.spotify.com/track/1MmS7UIy3J1BTxfGCRvVqN) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [O Embaixador in Cariri \(Ao Vivo\)](https://open.spotify.com/album/17jzAujoXwIF60ojew1yHU) | 3:35 | 2022-01-27 | 2022-06-25 |
 | [Casal Maluco \- Ao Vivo](https://open.spotify.com/track/2qE4ddo0bSDiY7zMf9tkfh) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z), [Jeniffer Nascimento](https://open.spotify.com/artist/1WbhpmwZS2JSayTSkczN2N) | [Mensageiro do Amor, Pt\. 1 \(Ao Vivo\)](https://open.spotify.com/album/7jVb3Lcaakq6q2P8OwqlZx) | 3:38 | 2022-01-27 | 2022-07-29 |
 | [Caso Indefinido \- Ao Vivo](https://open.spotify.com/track/54TwNxgRorpA9lsStXcv0k) | [Cristiano Araújo](https://open.spotify.com/artist/4HF14RSTZQcEafvfPCFEpI) | [In The Cities \- Ao Vivo Em Cuiabá](https://open.spotify.com/album/5nGde95l1DJcFZCB3NOduX) | 5:13 | 2022-01-27 |  |
-| [Cem Mil \- Ao Vivo](https://open.spotify.com/track/5pCyG634N2cC2aPgO5Oepf) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [O Embaixador \(Ao Vivo\)](https://open.spotify.com/album/37nwqMqf3kqIsssO30l8MG) | 3:23 | 2022-06-10 |  |
+| [Cem Mil \- Ao Vivo](https://open.spotify.com/track/5pCyG634N2cC2aPgO5Oepf) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [O Embaixador \(Ao Vivo\)](https://open.spotify.com/album/37nwqMqf3kqIsssO30l8MG) | 3:23 | 2022-06-10 | 2023-11-29 |
 | [Cheirosa \- Ao Vivo](https://open.spotify.com/track/2PWjKmjyTZeDpmOUa3a5da) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Cheirosa \(Ao Vivo\)](https://open.spotify.com/album/2s8vRW3xvh5BP4CWKyh14X) | 3:01 | 2022-01-27 |  |
 | [Chuva](https://open.spotify.com/track/29QzIklnzkIJMM52nwPzE3) | [João Bosco & Vinicius](https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0) | [João Bosco e Vinícius](https://open.spotify.com/album/3g3ZJZlY60RIVHTcUpjsAi) | 2:55 | 2022-01-27 | 2022-07-29 |
 | [Com ou Sem Mim \- Ao Vivo](https://open.spotify.com/track/2BU6XXSG8SqiptRuj6EiLA) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Com ou Sem Mim \(Ao Vivo\)](https://open.spotify.com/album/17SPskG8HKXZ9kAYzMYz7r) | 3:21 | 2022-01-27 |  |
@@ -97,6 +97,7 @@
 | [Liberdade Provisória \- Ao Vivo](https://open.spotify.com/track/1vG3YuKRYqPwTmNmYgqkpg) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Liberdade Provisória \(Ao Vivo\)](https://open.spotify.com/album/6rQDlITDyOO6dihMXtM68L) | 3:07 | 2022-01-27 | 2022-07-29 |
 | [Liberdade Provisória \- Live \- Ibirapuera / 2019](https://open.spotify.com/track/7Cf2Hsy3cPlA4e115tElXv) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Ao Vivo No Ibirapuera](https://open.spotify.com/album/5ExfGmxdqydd3vgdLdRR8f) | 3:06 | 2022-06-10 |  |
 | [Liga Lá em Casa \- Ao Vivo](https://open.spotify.com/track/21C6n6ueBm5voamgdLQZ6V) | [Leonardo](https://open.spotify.com/artist/2YWOP324cKGfkTo2PydgJR) | [Leonardo 30 Anos \(Ao Vivo\)](https://open.spotify.com/album/6RBBq7ymzDUHdPfokiHcKz) | 3:50 | 2022-01-27 | 2022-06-22 |
+| [Linda Voz \(Olá\)](https://open.spotify.com/track/7MXeSAgdXXsi3BAnuOLcxb) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z), [Lucas Morato](https://open.spotify.com/artist/4ab6n3r4PdQroLqLsnV2JZ) | [Sensações](https://open.spotify.com/album/5Vh7WgMgkfdv89oPwPWf6p) | 4:29 | 2023-11-17 |  |
 | [Louca de Saudade \- Ao Vivo](https://open.spotify.com/track/2InJDvDcA4RXEeA9njdibl) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Como\. Sempre Feito\. Nunca \(ao Vivo\)](https://open.spotify.com/album/4TcZpyEt3wrOtMdK0gknMz) | 3:15 | 2022-01-27 |  |
 | [Madri \- Ao Vivo](https://open.spotify.com/track/4IPopPf6xn1mx57yuNgjkN) | [Fernando & Sorocaba](https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/4Am9uQ1h1iWP2VdnLg0KVi) | 4:00 | 2022-01-27 | 2023-02-11 |
 | [Mal Acostumado](https://open.spotify.com/track/4o2PBBped448WOwkMAFRHy) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Tô Achando Que É Amor, Ep\. 4](https://open.spotify.com/album/09N2lAZ7IAtNumMMj5EZHg) | 3:18 | 2022-01-27 | 2022-07-29 |

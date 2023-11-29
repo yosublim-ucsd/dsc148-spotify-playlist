@@ -4,7 +4,7 @@
 
 > Jesus Music but make it pon pon\.  Get your fill of Afrobeats and Bible right here!  Cover: <a href="spotify:artist:4rwolwLHj97rPwbhyNSeU9">Marizu</a>
 
-194 songs - 10 hr 8 min
+195 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [I Know](https://open.spotify.com/track/7i2iaClUDWgPcqhGCrDCO0) | [Moses Onofeghara](https://open.spotify.com/artist/5kGx50WZX5gqEa706mmOqT), [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [I Know](https://open.spotify.com/album/24dKzAeT4p0xNoF1RZb9c6) | 3:39 | 2023-05-19 |  |
 | [I Need You](https://open.spotify.com/track/3hH73HFk0SrSCTLxsTw9gD) | [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y), [GAV](https://open.spotify.com/artist/4EK1vzhkIaze8TCtYg0Tge) | [I Need You](https://open.spotify.com/album/1eiKWT8uMg2QC1F8N34jdC) | 2:35 | 2022-12-16 | 2023-10-25 |
 | [I No Send](https://open.spotify.com/track/5y7hfbiSVXeVBE7ivQfbBq) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [I No Send](https://open.spotify.com/album/7AlTQ1pp6DfDYTgZeOMDuS) | 3:53 | 2023-05-19 | 2023-11-02 |
+| [I No Send](https://open.spotify.com/track/7DObo84GS9cTcf25Z5XMd0) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [I No Send](https://open.spotify.com/album/2u4uQpsUizbdl7KQTmnjGS) | 3:53 | 2023-11-27 |  |
 | [I Will Sing \(Refreshed\)](https://open.spotify.com/track/76sNlwv6Jt2mTJDAzRfhxj) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [I Will Sing \(Refreshed\)](https://open.spotify.com/album/5MtpR8Yf1nlAwjGgu8gqKD) | 5:50 | 2022-07-30 |  |
 | [Idols](https://open.spotify.com/track/7gPYRjhBoy72zlXzvVTEjP) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [Idols](https://open.spotify.com/album/2BsgQxCEn4Vg5lPgbdXqS6) | 2:41 | 2022-09-18 | 2023-05-17 |
 | [Ife Wami](https://open.spotify.com/track/1UECz0x5gEGn8ZqNVWwdFV) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [121SELAH](https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq) | [Ife Wami](https://open.spotify.com/album/0swfSBWaESRDOO8SXGQtjz) | 2:17 | 2022-07-30 | 2023-08-26 |
@@ -101,7 +102,7 @@
 | [Lotta Things](https://open.spotify.com/track/190mAgySPlWSbOZd5kLlyq) | [Paul the Messenger](https://open.spotify.com/artist/2UbUpUm5AVacCH9eYrIkPD) | [Lotta Things](https://open.spotify.com/album/6psz7fSrqECBaL6feOB8b5) | 2:36 | 2022-07-30 | 2023-05-20 |
 | [Made Whole](https://open.spotify.com/track/5k04oXnUohIKuaVSlDy0kV) | [Gil Joe](https://open.spotify.com/artist/7wEZIbeR4EyyHKhMEvBo5h) | [Made Whole](https://open.spotify.com/album/7B7LqjPV3iVz3Qa1oEN5lM) | 3:32 | 2022-07-30 | 2023-08-08 |
 | [Make Sense](https://open.spotify.com/track/3PrQ70kcR8zjGOBNjPeykZ) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y), [Edem Evangelist](https://open.spotify.com/artist/0PMnq7uQBuRGsQuhMmikYH) | [Make Sense](https://open.spotify.com/album/50hYQz2kMs1xREwVSDwbiy) | 3:24 | 2023-10-24 |  |
-| [Marvelous God](https://open.spotify.com/track/6VJ3yM31EykkdgBl6eAq1g) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Mike Aremu](https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX) | [Marvelous God](https://open.spotify.com/album/6w5uP78BBEzyvG4ymgm6Ut) | 3:53 | 2022-12-16 |  |
+| [Marvelous God](https://open.spotify.com/track/6VJ3yM31EykkdgBl6eAq1g) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Mike Aremu](https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX) | [Marvelous God](https://open.spotify.com/album/6w5uP78BBEzyvG4ymgm6Ut) | 3:53 | 2022-12-16 | 2023-11-29 |
 | [Masterpiece](https://open.spotify.com/track/53g5J8D6m8UREgQg0pUXKv) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Masterpiece](https://open.spotify.com/album/5IMs5K3abzKDtYofk0jmoQ) | 3:07 | 2023-11-17 |  |
 | [Matthew 6:33](https://open.spotify.com/track/5mARaySmtSd60C7UHgQvuk) | [ALIA LARA](https://open.spotify.com/artist/7LZtbcOzfx11Fhapw8iiOO) | [Matthew 6:33](https://open.spotify.com/album/7ChiyCA6LkJQiQY4IsovDb) | 3:02 | 2023-10-24 |  |
 | [Mercy \(Sho Mo\)](https://open.spotify.com/track/1DFe5m3909enzcdrHNrSXY) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Mercy \(Sho Mo\)](https://open.spotify.com/album/4a77kkjF2d7ESt8kWcAdEx) | 2:45 | 2022-12-16 |  |

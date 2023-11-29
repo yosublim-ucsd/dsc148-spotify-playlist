@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBsLjwzmDJn.md) - [plain]
 
 ### [Tokyo Revengers \-東京リベンジャーズ\-](https://open.spotify.com/playlist/37i9dQZF1DWXBsLjwzmDJn)
 
-> Enjoy music from "TOKYO REVENGERS"! /アニメ&実写版の音楽で辿る「東京リベンジャーズ」の世界。©︎和久井健・講談社／アニメ「東京リベンジャーズ」製作委員会
+> Enjoy music from "TOKYO REVENGERS"! /アニメ&実写版の音楽で辿る「東京リベンジャーズ」の世界。Ⓒ和久井健・講談社／アニメ「東京リベンジャーズ」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,949 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,981 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBsLjwzmDJn.md) - [plain]
 | 49 | [Distortion](https://open.spotify.com/track/0v2RmpX3OaLIYdJuIE1jQK) | [Yutaka Yamada](https://open.spotify.com/artist/0G8iubd5gKv5vdPnmHRaxT) | [映画『東京リベンジャーズ2 血のハロウィン編 \-運命\-』オリジナル・サウンドトラック](https://open.spotify.com/album/0bMYI8dYaunbl8UoQfaX4p) | 4:54 |
 | 50 | [Mess](https://open.spotify.com/track/2moPwFk4nCfbKy25aqax8c) | [Yutaka Yamada](https://open.spotify.com/artist/0G8iubd5gKv5vdPnmHRaxT) | [映画『東京リベンジャーズ2 血のハロウィン編 \-運命\-』オリジナル・サウンドトラック](https://open.spotify.com/album/0bMYI8dYaunbl8UoQfaX4p) | 5:19 |
 
-Snapshot ID: `MCw2MzRlNDQyODExZTcyYWY2NzdmOTA4MmQ4ZjdiYzlmZmEyODRjNDkw`
+Snapshot ID: `MCxjNzM3N2M4NDk1MGU4M2JhODllNzRkMGExOGVjZGYzZjRjOWRiZDlj`

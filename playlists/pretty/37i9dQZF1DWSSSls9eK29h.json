@@ -1,12 +1,12 @@
 {
   "description": "So smooth, so classic. Cover: George Benson",
-  "num_followers": 126669,
+  "num_followers": 126743,
   "original_name": "Smooth Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDc5OGExNGQzODAwYjkwMDE4ZDM5ODgwZmNlYmRiNjlhMzc5ZDBm",
+  "snapshot_id": "MCxkYmNkMjlhY2ZiZWE4N2UzMWRiNWY2ZDkwOGZmNmMyMDJjYzQ3NDMx",
   "tracks": [
     {
       "added_at": "2020-08-19 00:00:21",
@@ -235,22 +235,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Najee's Theme",
-        "url": "https://open.spotify.com/album/2T1cuFZTdRwShl0ksdXT6a"
-      },
-      "artists": [
-        {
-          "name": "Najee",
-          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
-        }
-      ],
-      "duration_ms": 349933,
-      "name": "Betcha Don't Know",
-      "url": "https://open.spotify.com/track/5gtNsD1eqLgfVKC9diMwgq"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Color Rit (Remastered)",
         "url": "https://open.spotify.com/album/2POg8hhJjfzlSm95YmYTfQ"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 256173,
       "name": "I Can\u2019t Let Go - Remastered",
       "url": "https://open.spotify.com/track/6mFrqPaHyaY4AcsYxHuD5G"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Najee's Theme",
+        "url": "https://open.spotify.com/album/2T1cuFZTdRwShl0ksdXT6a"
+      },
+      "artists": [
+        {
+          "name": "Najee",
+          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
+        }
+      ],
+      "duration_ms": 349933,
+      "name": "Betcha Don't Know",
+      "url": "https://open.spotify.com/track/5gtNsD1eqLgfVKC9diMwgq"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -331,6 +331,22 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
+        "name": "Day By Day",
+        "url": "https://open.spotify.com/album/64WYFNY33qxTidADO4omGA"
+      },
+      "artists": [
+        {
+          "name": "Najee",
+          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/6wunt9r2WbTh0pacCFkSrK"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
         "name": "Just Between Us",
         "url": "https://open.spotify.com/album/6bwAkYAEZ8eA9rskEYtPoN"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 260706,
       "name": "Nightfall",
       "url": "https://open.spotify.com/track/7fKo8Bl3VEm87tc70jx05r"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
-        "name": "Day By Day",
-        "url": "https://open.spotify.com/album/64WYFNY33qxTidADO4omGA"
-      },
-      "artists": [
-        {
-          "name": "Najee",
-          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
-        }
-      ],
-      "duration_ms": 304000,
-      "name": "Day By Day",
-      "url": "https://open.spotify.com/track/6wunt9r2WbTh0pacCFkSrK"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -507,22 +507,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Trust",
-        "url": "https://open.spotify.com/album/0tg8rdfKdeKxucD3R6al9Q"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 220773,
-      "name": "Creepin'",
-      "url": "https://open.spotify.com/track/6B4h6RRIQWRgXALcOjYLPo"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Blue Touch",
         "url": "https://open.spotify.com/album/6oRxJn0ULf3TFGfqiFargV"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 230533,
       "name": "Fly Away (Thinking Of You)",
       "url": "https://open.spotify.com/track/2Cvg3IXEWWMTYTvd8HqpaG"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/0tg8rdfKdeKxucD3R6al9Q"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 220773,
+      "name": "Creepin'",
+      "url": "https://open.spotify.com/track/6B4h6RRIQWRgXALcOjYLPo"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -635,22 +635,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "I Came To Play",
-        "url": "https://open.spotify.com/album/3281OsYyVze2o5TBGczWBO"
-      },
-      "artists": [
-        {
-          "name": "Paul Jackson, Jr.",
-          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
-        }
-      ],
-      "duration_ms": 317800,
-      "name": "Let's Wait Awhile",
-      "url": "https://open.spotify.com/track/0CDdIP9vgk3iSDH0bPGww5"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Backbone",
         "url": "https://open.spotify.com/album/0bRUGoovysFMw0rxBE9mCo"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 289866,
       "name": "Just Between Us",
       "url": "https://open.spotify.com/track/2r2A4NxWuFD9x0RxB2zthQ"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "I Came To Play",
+        "url": "https://open.spotify.com/album/3281OsYyVze2o5TBGczWBO"
+      },
+      "artists": [
+        {
+          "name": "Paul Jackson, Jr.",
+          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
+        }
+      ],
+      "duration_ms": 317800,
+      "name": "Let's Wait Awhile",
+      "url": "https://open.spotify.com/track/0CDdIP9vgk3iSDH0bPGww5"
     },
     {
       "added_at": "2020-08-19 00:00:21",

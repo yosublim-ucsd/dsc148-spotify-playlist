@@ -1,12 +1,12 @@
 {
   "description": "sad beats. deep vibes. ",
-  "num_followers": 62915,
+  "num_followers": 63113,
   "original_name": "melancholia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYWYyMDJlYmMxYmI4NjQ4ZGU0NjE5MjJiNmRlNmE0MTE1YzUzOTMw",
+  "snapshot_id": "MCxjZTE5MTA3Y2E3OGM5NzI5MTNkYWMyNDE3NGViNGI1NGM4YzljMjEw",
   "tracks": [
     {
       "added_at": "2023-11-10 11:01:46",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-11-10 11:01:46",
       "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/0REyCTre7WLmJnVmBDMqgN"
+      },
+      "artists": [
+        {
+          "name": "NOTSOBAD",
+          "url": "https://open.spotify.com/artist/2aLLYZ0sdqweMEPFUyYIXJ"
+        }
+      ],
+      "duration_ms": 201023,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/2N1teUVGfP3vWKKGq0ZxvH"
+    },
+    {
+      "added_at": "2023-11-10 11:01:46",
+      "album": {
         "name": "U&ME",
         "url": "https://open.spotify.com/album/1ENNuqHU0L7gI0Cc8HaqOq"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 195483,
       "name": "U&ME",
       "url": "https://open.spotify.com/track/7Lqb5crtS7JaNynQ0mszWh"
-    },
-    {
-      "added_at": "2023-11-10 11:01:46",
-      "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/0REyCTre7WLmJnVmBDMqgN"
-      },
-      "artists": [
-        {
-          "name": "NOTSOBAD",
-          "url": "https://open.spotify.com/artist/2aLLYZ0sdqweMEPFUyYIXJ"
-        }
-      ],
-      "duration_ms": 201023,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/2N1teUVGfP3vWKKGq0ZxvH"
     },
     {
       "added_at": "2023-11-10 11:01:46",
@@ -808,7 +808,7 @@
           "url": "https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT"
         },
         {
-          "name": "Jewels",
+          "name": "JEWELS",
           "url": "https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB"
         },
         {

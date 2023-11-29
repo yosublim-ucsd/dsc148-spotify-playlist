@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Luke D; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,514 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,520 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [ĐÓ LÀ ANH](https://open.spotify.com/track/7KDEEHu1rPftQdSYOp8j32) | [FSRio](https://open.spotify.com/artist/066RIM4xKxX0yCCBtg3NYY) | [ĐÓ LÀ ANH](https://open.spotify.com/album/71Da0YysHpQWc4eTgSIKpg) | 2:19 |
 | 100 | [Tan Ra](https://open.spotify.com/track/4XnoMuBj41O64lftF4HgQ1) | [prettyXIX](https://open.spotify.com/artist/28XrDF0G35BpyybcGaQTzU), [Benly](https://open.spotify.com/artist/6KEi4a6Yw4sAHsdYZ3ZmKG) | [Tan Ra](https://open.spotify.com/album/0wmFsfPAqYMO7yiro4vgFQ) | 2:52 |
 
-Snapshot ID: `MCw4ZDFlZmZmOWY0Y2QyZDc3YmM4YmNlOTBiYzU3YTMwYmI3MWZmYjAy`
+Snapshot ID: `MCwxNjQ4MTNjYjVkNWVkNzI2MzVlZTA2MDg4OWFlMWI2YjJiMGU4MTFm`

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto es punta!",
-  "num_followers": 21746,
+  "num_followers": 21753,
   "original_name": "Punta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzZmNTU3MDE3ODM2YTYxNGE0YzM3NGNiMmQ0NWFhNmM2MmIyNDYz",
+  "snapshot_id": "MCxhZjE5NzVjMDljMDM4ZjE5ODA4YjQwMjVhOGZjNDc1YjFkYWYwNDFh",
   "tracks": [
     {
       "added_at": "2020-05-26 15:53:13",
@@ -203,18 +203,18 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Punta Vibe",
-        "url": "https://open.spotify.com/album/3IJe0vVXjgILY9PMAhrN5f"
+        "name": "Batalla de las Puntas, Vol. 4",
+        "url": "https://open.spotify.com/album/59GQeMYfmBuPHyI4ZAnnhW"
       },
       "artists": [
         {
-          "name": "Supa G",
-          "url": "https://open.spotify.com/artist/4lJKjqL2fCL4yfNyKhm1sB"
+          "name": "Los Silver Star",
+          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
         }
       ],
-      "duration_ms": 193751,
-      "name": "Carolina",
-      "url": "https://open.spotify.com/track/3EpsFoq6ZFEQREYblovfHZ"
+      "duration_ms": 444533,
+      "name": "Puntas Garifunas Criollas 2",
+      "url": "https://open.spotify.com/track/1S9siygLB7ocT52s3Xvlp3"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -235,18 +235,18 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Batalla de las Puntas, Vol. 4",
-        "url": "https://open.spotify.com/album/59GQeMYfmBuPHyI4ZAnnhW"
+        "name": "Punta Vibe",
+        "url": "https://open.spotify.com/album/3IJe0vVXjgILY9PMAhrN5f"
       },
       "artists": [
         {
-          "name": "Los Silver Star",
-          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
+          "name": "Supa G",
+          "url": "https://open.spotify.com/artist/4lJKjqL2fCL4yfNyKhm1sB"
         }
       ],
-      "duration_ms": 444533,
-      "name": "Puntas Garifunas Criollas 2",
-      "url": "https://open.spotify.com/track/1S9siygLB7ocT52s3Xvlp3"
+      "duration_ms": 193751,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/3EpsFoq6ZFEQREYblovfHZ"
     },
     {
       "added_at": "2020-05-26 15:53:13",

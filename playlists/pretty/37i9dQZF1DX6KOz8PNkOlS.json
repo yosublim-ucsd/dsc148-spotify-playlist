@@ -1,12 +1,12 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 420509,
+  "num_followers": 420740,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjM0ZDBjNGNiNGExMDZiOTFiMDlmZGViZmFmNmFjMjY3MTlkYzZh",
+  "snapshot_id": "MCxjZTdlYWE0Mjk5NzFiZmM3YjhhMDJkNWFiYTQ1MWVlNzQ1YjY0Y2E3",
   "tracks": [
     {
       "added_at": "2023-04-19 21:20:11",
@@ -765,22 +765,6 @@
       "url": "https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab"
     },
     {
-      "added_at": "2023-04-05 03:20:02",
-      "album": {
-        "name": "For Granted",
-        "url": "https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 161946,
-      "name": "For Granted",
-      "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
-    },
-    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "interested",
@@ -795,6 +779,22 @@
       "duration_ms": 193140,
       "name": "interested",
       "url": "https://open.spotify.com/track/55SbTToiQ8JTe524EeIn8b"
+    },
+    {
+      "added_at": "2023-04-05 03:20:02",
+      "album": {
+        "name": "For Granted",
+        "url": "https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 161946,
+      "name": "For Granted",
+      "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -897,22 +897,6 @@
       "url": "https://open.spotify.com/track/6f9BnONLZr0rpB5thUzzlW"
     },
     {
-      "added_at": "2022-10-05 01:25:40",
-      "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/4dyua6pD9i0Ht460lB6JOG"
-      },
-      "artists": [
-        {
-          "name": "Elaine",
-          "url": "https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx"
-        }
-      ],
-      "duration_ms": 182710,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/06TDTjD7efqsLwhXKv0bci"
-    },
-    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Any Shape You Take",
@@ -927,6 +911,22 @@
       "duration_ms": 256664,
       "name": "Hold U",
       "url": "https://open.spotify.com/track/3LXWz3LTASiVb63HWc7Wa7"
+    },
+    {
+      "added_at": "2022-10-05 01:25:40",
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/4dyua6pD9i0Ht460lB6JOG"
+      },
+      "artists": [
+        {
+          "name": "Elaine",
+          "url": "https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx"
+        }
+      ],
+      "duration_ms": 182710,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/06TDTjD7efqsLwhXKv0bci"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1073,20 +1073,20 @@
       "url": "https://open.spotify.com/track/26kFP6TwarrLpmXO86PH5k"
     },
     {
-      "added_at": "2022-09-09 13:33:50",
+      "added_at": "2023-02-21 02:56:05",
       "album": {
-        "name": "Look To Him",
-        "url": "https://open.spotify.com/album/6fN3UIZmBIbLJeXymGyXS1"
+        "name": "Phosphorescent",
+        "url": "https://open.spotify.com/album/0GgLzw8RdggLtLjpP4iSIE"
       },
       "artists": [
         {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
         }
       ],
-      "duration_ms": 251533,
-      "name": "Look To Him",
-      "url": "https://open.spotify.com/track/3FD9RZf2KvposxCLtu0joU"
+      "duration_ms": 240449,
+      "name": "Skylight",
+      "url": "https://open.spotify.com/track/0kwBCyPQMZVdqpqhcv50JA"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1109,36 +1109,20 @@
       "url": "https://open.spotify.com/track/4jMmXKJjle1GD241r9s1oj"
     },
     {
-      "added_at": "2023-02-21 02:56:05",
+      "added_at": "2022-09-09 13:33:50",
       "album": {
-        "name": "Phosphorescent",
-        "url": "https://open.spotify.com/album/0GgLzw8RdggLtLjpP4iSIE"
+        "name": "Look To Him",
+        "url": "https://open.spotify.com/album/6fN3UIZmBIbLJeXymGyXS1"
       },
       "artists": [
         {
-          "name": "Gabrielle Aplin",
-          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
         }
       ],
-      "duration_ms": 240449,
-      "name": "Skylight",
-      "url": "https://open.spotify.com/track/0kwBCyPQMZVdqpqhcv50JA"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Aliso",
-        "url": "https://open.spotify.com/album/2uwvIfaBxfFyyk8RvKQj4c"
-      },
-      "artists": [
-        {
-          "name": "Malena Zavala",
-          "url": "https://open.spotify.com/artist/6SVGcUwNBOZMwiZqpCwykX"
-        }
-      ],
-      "duration_ms": 224253,
-      "name": "If It Goes",
-      "url": "https://open.spotify.com/track/1u0qpHAwzNshb1XU2EUclz"
+      "duration_ms": 251533,
+      "name": "Look To Him",
+      "url": "https://open.spotify.com/track/3FD9RZf2KvposxCLtu0joU"
     },
     {
       "added_at": "2022-02-18 20:31:00",
@@ -1155,6 +1139,22 @@
       "duration_ms": 207680,
       "name": "Live Inside",
       "url": "https://open.spotify.com/track/4OdIxs1Y7DXHxnqQxkP3tT"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Aliso",
+        "url": "https://open.spotify.com/album/2uwvIfaBxfFyyk8RvKQj4c"
+      },
+      "artists": [
+        {
+          "name": "Malena Zavala",
+          "url": "https://open.spotify.com/artist/6SVGcUwNBOZMwiZqpCwykX"
+        }
+      ],
+      "duration_ms": 224253,
+      "name": "If It Goes",
+      "url": "https://open.spotify.com/track/1u0qpHAwzNshb1XU2EUclz"
     },
     {
       "added_at": "2021-10-28 19:01:32",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "1995",
-        "url": "https://open.spotify.com/album/4Quvgrx92Y7qwsnLj2ht7l"
-      },
-      "artists": [
-        {
-          "name": "Kruder & Dorfmeister",
-          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
-        }
-      ],
-      "duration_ms": 281730,
-      "name": "Love Hope Change",
-      "url": "https://open.spotify.com/track/4xHul0lZ8qC7nNDgBjsJSM"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
         "name": "Tru Love",
         "url": "https://open.spotify.com/album/1mIwtmu3DzvkF0reJ90Pe8"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 198084,
       "name": "Tru Love",
       "url": "https://open.spotify.com/track/3HkIHa7ajjxgCB2Ag25els"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "1995",
+        "url": "https://open.spotify.com/album/4Quvgrx92Y7qwsnLj2ht7l"
+      },
+      "artists": [
+        {
+          "name": "Kruder & Dorfmeister",
+          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
+        }
+      ],
+      "duration_ms": 281730,
+      "name": "Love Hope Change",
+      "url": "https://open.spotify.com/track/4xHul0lZ8qC7nNDgBjsJSM"
     },
     {
       "added_at": "2022-04-08 19:23:51",

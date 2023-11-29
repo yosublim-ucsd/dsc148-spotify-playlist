@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 
 > Where R&B meets Hip\-Hop, Pop and everything in between !  Cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,786,916 likes - 160 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,786,935 likes - 160 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 | 66 | [Summer](https://open.spotify.com/track/7HAPnbrRswVgXYSGNzO1hF) | [Kenya Vaun](https://open.spotify.com/artist/34lwpzvwbRDx9hnbQkwbJk) | [Summer](https://open.spotify.com/album/2TcTJLPbXqWvH8vPB19UL0) | 2:49 |
 | 67 | [Homicide \(with Jessie Reyez\)](https://open.spotify.com/track/2vVUevSgxbWBub5zW7rQPO) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Homicide](https://open.spotify.com/album/5MEbCYZLR7HGbZP45NrhrW) | 3:01 |
 | 68 | [Ride \(feat\. Young Thug\)](https://open.spotify.com/track/2H5bVnyhhffT7pKFvY04TB) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [To Be Eaten Alive](https://open.spotify.com/album/4rZuZBtErG2Bc34ThHpJHk) | 3:00 |
-| 69 | [She'll Be Ok](https://open.spotify.com/track/0jTkg3fBydDh9jLEFMzigq) | [4Fargo](https://open.spotify.com/artist/33FcjtLCwlwxV9ImxJX2iK) | [She'll Be Ok](https://open.spotify.com/album/0e6YzmXeaJawQCn44jlqyV) | 2:10 |
+| 69 | [She'll Be OK](https://open.spotify.com/track/1Aqw1EAisB2KYrE8m4pQqN) | [4Fargo](https://open.spotify.com/artist/33FcjtLCwlwxV9ImxJX2iK) | [She'll Be OK](https://open.spotify.com/album/04XpFnF73mrCeMAyjqFTYg) | 2:10 |
 | 70 | [Low Waist](https://open.spotify.com/track/5rb99A8aR2scVXSLIbLAft) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Low Waist](https://open.spotify.com/album/48xKnLRBNSajT7mcP4zdTb) | 3:01 |
 | 71 | [Summers Around The Corner](https://open.spotify.com/track/6AY1IWGyVFkdkq8AA5F2zT) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Summers Around The Corner](https://open.spotify.com/album/3E4ICiqiWEXTncH5RxR1tB) | 3:48 |
 | 72 | [Rainy Days](https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 2:59 |
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 | 159 | [Low](https://open.spotify.com/track/2GAhgAjOhEmItWLfgisyOn) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:01 |
 | 160 | [Lay Low](https://open.spotify.com/track/1QrRuByqSfCxYS0JdZMlIf) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Lay Low](https://open.spotify.com/album/1khrykFtUgs38Ba0QA0Lq4) | 2:19 |
 
-Snapshot ID: `MCw2NDc3YjBkMjNkNmZhMmZlNzFhYTllYWU4MGI2NmY0OWU3YmVkMjkw`
+Snapshot ID: `MCxmMzcxZDRiNmVmZGNiYjEyYjI3ZGQwODJlZDg4NzYwMTEzNTY3NDEx`

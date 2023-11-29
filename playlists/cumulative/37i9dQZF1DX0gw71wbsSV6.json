@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "1126",
+        "url": "https://open.spotify.com/album/272nlNNsk0VMHq88ZFQJDg"
+      },
+      "artists": [
+        {
+          "name": "WANG GUNG BAND",
+          "url": "https://open.spotify.com/artist/7yHwDGb1SxYEJGjqnjTNtP"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291022,
+      "name": "1126",
+      "url": "https://open.spotify.com/track/4UjRdab3VIoem7l4725Yki"
+    },
+    {
+      "album": {
         "name": "19\u2103",
         "url": "https://open.spotify.com/album/5e6Dnt4gBECf2Sk2fb7QfS"
       },
@@ -297,6 +315,24 @@
     },
     {
       "album": {
+        "name": "Asleep Among Endives",
+        "url": "https://open.spotify.com/album/6pKCyXWoV7zhgDczCO0H6S"
+      },
+      "artists": [
+        {
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306271,
+      "name": "Asleep Among Endives",
+      "url": "https://open.spotify.com/track/0RD3NWnHlyBCRwgNZy8QAn"
+    },
+    {
+      "album": {
         "name": "Dusk to Dawn",
         "url": "https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be"
       },
@@ -392,7 +428,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 246693,
       "name": "Bewitched",
       "url": "https://open.spotify.com/track/0pfpeTGQOWlGp6YUUbBD42"
@@ -934,7 +970,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 195905,
       "name": "Coming Back (feat. SZA)",
       "url": "https://open.spotify.com/track/2pSsHnjAgEPjHmet7ChlHQ"
@@ -1044,6 +1080,24 @@
       "duration_ms": 158560,
       "name": "Dance With You Tonight",
       "url": "https://open.spotify.com/track/1WUAyibDAavzj94N8JwVpW"
+    },
+    {
+      "album": {
+        "name": "Mutual Mutation",
+        "url": "https://open.spotify.com/album/6Ooa3F2AlDmIdmMkOlewAr"
+      },
+      "artists": [
+        {
+          "name": "Ogawa & Tokoro",
+          "url": "https://open.spotify.com/artist/3RCGDZMRQdOn06awgfwNTA"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 469736,
+      "name": "Dancing In The River",
+      "url": "https://open.spotify.com/track/77lbsUYxFbDhSKg4qtanax"
     },
     {
       "album": {
@@ -2097,6 +2151,24 @@
     },
     {
       "album": {
+        "name": "THE GREATEST UNKNOWN",
+        "url": "https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218493,
+      "name": "IKAROS",
+      "url": "https://open.spotify.com/track/4ct5cffZGIcSJ6P8iEToG2"
+    },
+    {
+      "album": {
         "name": "PLEASURES",
         "url": "https://open.spotify.com/album/6LcForsXAnNRxsU458b1XM"
       },
@@ -3032,7 +3104,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-24",
+      "date_removed": null,
       "duration_ms": 229713,
       "name": "Paint My Bedroom Black",
       "url": "https://open.spotify.com/track/7cK2XNWfStvxYg6NOfFLoe"
@@ -3126,7 +3198,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 184791,
       "name": "People",
       "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
@@ -3396,7 +3468,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 244500,
       "name": "Sekaino Owarini",
       "url": "https://open.spotify.com/track/6ZoXL8YgyqPJkVWmD4AUoB"
@@ -3562,7 +3634,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 242317,
       "name": "Some Things I'll Never Know",
       "url": "https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz"

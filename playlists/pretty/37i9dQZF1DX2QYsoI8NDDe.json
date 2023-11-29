@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Janely Rosa",
-  "num_followers": 500420,
+  "num_followers": 500469,
   "original_name": "Las Chacalosas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOGU4YTAxZGE3MjRmOGVjNmQ1NTU4OGJkMDRjMGQ0NzUxZjE4YjA4",
+  "snapshot_id": "MCxjZDIxY2RlZTA0ZTVkNzM5MDdmNTRiNjVhZjI3MWJmOGVmNWRlYmYy",
   "tracks": [
     {
       "added_at": "2023-11-24 05:00:00",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/0DP0OKhjTQBnqko7fsP1BN"
+      },
+      "artists": [
+        {
+          "name": "Sofi Saar",
+          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
+        }
+      ],
+      "duration_ms": 162037,
+      "name": "Terapia",
+      "url": "https://open.spotify.com/track/6eXDTV3H1nhC6YgNnaE67g"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Se Acabo (En Vivo)",
         "url": "https://open.spotify.com/album/2zFaRfokK5hhre6SV3EQEq"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 158000,
       "name": "Se Acabo - En Vivo",
       "url": "https://open.spotify.com/track/34Z1nXTwSX6AF6soXdRHmb"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Terapia",
-        "url": "https://open.spotify.com/album/0DP0OKhjTQBnqko7fsP1BN"
-      },
-      "artists": [
-        {
-          "name": "Sofi Saar",
-          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
-        }
-      ],
-      "duration_ms": 162037,
-      "name": "Terapia",
-      "url": "https://open.spotify.com/track/6eXDTV3H1nhC6YgNnaE67g"
     },
     {
       "added_at": "2023-11-24 05:00:00",

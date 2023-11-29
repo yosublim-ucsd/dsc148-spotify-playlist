@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 
 > The classic Jazz guitarists and their finest pieces\. Cover: Grant Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,859 likes - 100 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,921 likes - 100 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 36 | [Unity Village](https://open.spotify.com/track/7o56T3Ib6ZjVT6qFTCQFqP) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [Bright Size Life](https://open.spotify.com/album/1wyaHGxXkIGaLGSQTTgKzw) | 3:42 |
 | 37 | [Hüttengriffe](https://open.spotify.com/track/15pJPbo0r00e82puUIUS1i) | [Wolfgang Muthspiel](https://open.spotify.com/artist/7a7Vs88vzOcmHh4GOpUEJJ), [Scott Colley](https://open.spotify.com/artist/7AxNB7slEfo3WsWmZf4TSs), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu) | [Angular Blues](https://open.spotify.com/album/4wxLJpGmJetMtZHslJz3DR) | 5:15 |
 | 38 | [Sookie Sookie \- Live At The Cliche' Lounge, Newark, New Jersey, 1970 / Remastered 2000](https://open.spotify.com/track/6i9Uhx8fUHQu9aHXCjiu7B) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k), [Ray Blair](https://open.spotify.com/artist/2D3XOzloX98FKjvCa9inP1) | [Alive! \(Live At The Cliche' Lounge, Newark, New Jersey, 1970 / Remastered 2000\)](https://open.spotify.com/album/4NL6PN6GkMqI7Ztz4iGPU6) | 10:58 |
-| 39 | [Canto De Ossanha](https://open.spotify.com/track/0FCx8spWfkTjpEU7sEQr7M) | [Jonathan Kreisberg](https://open.spotify.com/artist/7MWuLeRKJ1WCx4GQRzT3Hy) | [One](https://open.spotify.com/album/3oZkynRnCLOPFi2elO0JXD) | 5:11 |
-| 40 | [As It Is](https://open.spotify.com/track/54wk2MJkrGecJuv5ES6O5H) | [Pat Metheny Group](https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt) | [Speaking of Now](https://open.spotify.com/album/2XlIL7wXd4j2vAUvFI3cO8) | 7:40 |
+| 39 | [As It Is](https://open.spotify.com/track/54wk2MJkrGecJuv5ES6O5H) | [Pat Metheny Group](https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt) | [Speaking of Now](https://open.spotify.com/album/2XlIL7wXd4j2vAUvFI3cO8) | 7:40 |
+| 40 | [Canto De Ossanha](https://open.spotify.com/track/0FCx8spWfkTjpEU7sEQr7M) | [Jonathan Kreisberg](https://open.spotify.com/artist/7MWuLeRKJ1WCx4GQRzT3Hy) | [One](https://open.spotify.com/album/3oZkynRnCLOPFi2elO0JXD) | 5:11 |
 | 41 | [All Across The City](https://open.spotify.com/track/4IHEsg1VgH9dZE4QswwhaE) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr) | [Intermodulation](https://open.spotify.com/album/2fdNshVv7KpFZJOy6qKpJS) | 4:50 |
 | 42 | [Father Time](https://open.spotify.com/track/4GuzBvxkGq1MHaeYVWO7dL) | [Ralph Towner](https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535), [Wolfgang Muthspiel](https://open.spotify.com/artist/7a7Vs88vzOcmHh4GOpUEJJ), [Slava Grigoryan](https://open.spotify.com/artist/77wkuxKkegWzlyPxnX2dtG) | [Travel Guide](https://open.spotify.com/album/5ygzx8GmxucUl8RhAU2Nua) | 4:37 |
 | 43 | [Django](https://open.spotify.com/track/1LgoYJ5IYe74pDyayo3QHH) | [Joe Pass](https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ) | [For Django](https://open.spotify.com/album/52hlifh2FGBhx4BQVl2OJD) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 99 | [For Toddlers Only](https://open.spotify.com/track/0ZjG7vhjZrpPItoMOZmXH6) | [Russell Malone](https://open.spotify.com/artist/4U5eHAv5qBumRcWEl84ZCb) | [Sweet Georgia Peach](https://open.spotify.com/album/5uip0ZOqDmZb6GqFfLpqOw) | 5:18 |
 | 100 | [Tenderly](https://open.spotify.com/track/7kxl3YY1zqfybhYMylZGRz) | [Barney Kessel](https://open.spotify.com/artist/6pVkGhtBvjj1P52yn0tNLG) | [Easy Like](https://open.spotify.com/album/4FEQUVniR5kClrtPy9uVJD) | 3:15 |
 
-Snapshot ID: `MCwxYzMxNjYwOTQxZTM2ZGM4MTVkYjcyZGE2OGQ0YTliNTg4NTc2Y2Vm`
+Snapshot ID: `MCxiYzY3NDZjZDM0MjRmMGE0ZmRmNzI0YWFmNDJlMzVjZDcyNjIxODgz`

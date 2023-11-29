@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "3 Stars",
+        "url": "https://open.spotify.com/album/6FNO4AGIDjRu7gMLNpm3x1"
+      },
+      "artists": [
+        {
+          "name": "Jair Archive",
+          "url": "https://open.spotify.com/artist/0ZrZh19MF2a8US5n8mfXKY"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158222,
+      "name": "3 Stars",
+      "url": "https://open.spotify.com/track/3z2TthJcrKYXF9EwVgGTmo"
+    },
+    {
+      "album": {
         "name": "Snotty World (Deluxe)",
         "url": "https://open.spotify.com/album/5Fy36L5DnmGWWmAQsq4Ido"
       },
@@ -172,7 +190,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 114967,
       "name": "9am in Calabasas",
       "url": "https://open.spotify.com/track/6EdVTOk5e4RApmwHNBJew9"
@@ -480,7 +498,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 208938,
       "name": "BABY I'M HOME (w/ Kanii & 9lives)",
       "url": "https://open.spotify.com/track/34lGv6KdMFWZtsvvVcnp8S"
@@ -682,7 +700,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-09",
+      "date_removed": null,
       "duration_ms": 197183,
       "name": "Blood (Alucard Rap)",
       "url": "https://open.spotify.com/track/2deb24yUrqgOVwGJjaIaYp"
@@ -1170,7 +1188,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-30",
+      "date_removed": null,
       "duration_ms": 118093,
       "name": "Cyberfreak",
       "url": "https://open.spotify.com/track/5xjBjhBgqR9lJguneF01jQ"
@@ -1746,7 +1764,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-30",
+      "date_removed": null,
       "duration_ms": 160666,
       "name": "Go!",
       "url": "https://open.spotify.com/track/4Fd2jLQspwZVv7hF3bXHFg"
@@ -1910,7 +1928,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 135160,
       "name": "Hands up!",
       "url": "https://open.spotify.com/track/6nH7G7zImTcBpqRMIPeHLK"
@@ -2170,7 +2188,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 126600,
       "name": "I LOVE YOU HOE (w/ 9lives)",
       "url": "https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU"
@@ -2312,7 +2330,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 61175,
       "name": "I'm Only a Fool for You",
       "url": "https://open.spotify.com/track/5yfnAsPrvrjiLOhWFycNP4"
@@ -2330,7 +2348,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-30",
+      "date_removed": null,
       "duration_ms": 116323,
       "name": "I'm Toxic",
       "url": "https://open.spotify.com/track/6aLzDW8TlgccoWycY99mfU"
@@ -2652,7 +2670,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 250973,
       "name": "Kyouran Hey Kids!!",
       "url": "https://open.spotify.com/track/38kcwx5znepLWCIBID0Bwm"
@@ -2732,7 +2750,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-30",
+      "date_removed": null,
       "duration_ms": 134500,
       "name": "Led",
       "url": "https://open.spotify.com/track/2tewsqBBUALqKedOrnU1AT"
@@ -2786,7 +2804,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 225546,
       "name": "Let Me Hear",
       "url": "https://open.spotify.com/track/5sqkarfxe7UejHTlCtHCLS"
@@ -2876,7 +2894,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 203294,
       "name": "life imitates life",
       "url": "https://open.spotify.com/track/5E9qBEUja2yAjUPhQO8Gx7"
@@ -3000,6 +3018,28 @@
       "duration_ms": 242086,
       "name": "Lost It All",
       "url": "https://open.spotify.com/track/2ByeohqpWsZdXQlZ1mOTtA"
+    },
+    {
+      "album": {
+        "name": "lucky7!",
+        "url": "https://open.spotify.com/album/2xoLgTp6uqufmawhjRFcWJ"
+      },
+      "artists": [
+        {
+          "name": "Sadfriendd",
+          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
+        },
+        {
+          "name": "Pozle",
+          "url": "https://open.spotify.com/artist/5ZP65l78WPZimUs9LVvMW0"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88079,
+      "name": "lucky7!",
+      "url": "https://open.spotify.com/track/4tkbMkT6vDOq0GzuSQyF6d"
     },
     {
       "album": {
@@ -3218,7 +3258,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 130914,
       "name": "MK Plus Ultra",
       "url": "https://open.spotify.com/track/4jfsYlMJM9hZNbIWVczbJq"
@@ -3803,6 +3843,24 @@
     },
     {
       "album": {
+        "name": "PUNK TACTICS",
+        "url": "https://open.spotify.com/album/5L1RkN1nh5m18ZuXCktUbc"
+      },
+      "artists": [
+        {
+          "name": "Joey Valence & Brae",
+          "url": "https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143609,
+      "name": "PUNK TACTICS",
+      "url": "https://open.spotify.com/track/2jQ1P0aGT4WkNyJCeoQnb9"
+    },
+    {
+      "album": {
         "name": "Redemption Arc",
         "url": "https://open.spotify.com/album/70uDVTxPIHE5rH2O1utOmc"
       },
@@ -3840,6 +3898,24 @@
       "duration_ms": 148699,
       "name": "R4C3",
       "url": "https://open.spotify.com/track/3OTh0YjtPMqPmZ1ZOqMN6j"
+    },
+    {
+      "album": {
+        "name": "RAHHHH",
+        "url": "https://open.spotify.com/album/0kBzlWRuGqJCKTLU453Hoa"
+      },
+      "artists": [
+        {
+          "name": "alt!",
+          "url": "https://open.spotify.com/artist/2JUbvars1Q5hnkRa8IglAa"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60945,
+      "name": "RAHHHH",
+      "url": "https://open.spotify.com/track/5NLnV0krXXSIOqL1PyAd1Q"
     },
     {
       "album": {
@@ -3996,7 +4072,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-30",
+      "date_removed": null,
       "duration_ms": 114666,
       "name": "S1KE",
       "url": "https://open.spotify.com/track/353nsW8dzFIYX3hZfn2fUL"
@@ -4756,7 +4832,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 194423,
       "name": "The Perfect Girl - Instrumental",
       "url": "https://open.spotify.com/track/1iiOnQBpssMKWXJJiqBsbN"
@@ -4774,7 +4850,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 220799,
       "name": "The Rumbling",
       "url": "https://open.spotify.com/track/6k0X05danQOXSBTVek5DU1"
@@ -5158,7 +5234,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 107044,
       "name": "vendetta!",
       "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
@@ -5372,6 +5448,24 @@
       "duration_ms": 99807,
       "name": "WTH",
       "url": "https://open.spotify.com/track/6J9UUQSQ9Vm9fh6vZgLlzu"
+    },
+    {
+      "album": {
+        "name": "XO EViL LiF3 (.DEMON.)",
+        "url": "https://open.spotify.com/album/51XqwJgWBT9PnevYJqrmAz"
+      },
+      "artists": [
+        {
+          "name": "steve breaux",
+          "url": "https://open.spotify.com/artist/10RaWqDdK3ZxvKObBVkm1g"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123591,
+      "name": "XO EViL LiF3 (.DEMON.)",
+      "url": "https://open.spotify.com/track/275Fj1aAcHS9uFZMFo8clT"
     },
     {
       "album": {
@@ -5614,7 +5708,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 206000,
       "name": "\u602a\u7269",
       "url": "https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Xz5lDbaehp.md) - [plain]
 
 > Introducing the Fresh Finds Class of 2021\. Editors' picks of the top Fresh Finds this year\. Cover: Pom Pom Squad, Araya, TOLEDO\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,947 likes - 126 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,946 likes - 126 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Xz5lDbaehp.md) - [plain]
 | 39 | [You Want Everyone to Love You](https://open.spotify.com/track/21yPwIPwerL4pxf19LvEGn) | [Bestfriend](https://open.spotify.com/artist/31U6NSHBgz425cHygspVPZ) | [places i've lived](https://open.spotify.com/album/2jLTZMIeCMcWzwOtGLnMMY) | 4:08 |
 | 40 | [summer on the inside](https://open.spotify.com/track/0IRDLaO3ng5eyl4Po8hZXj) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Max Kaluza](https://open.spotify.com/artist/6lNLgymfWudNsbC0Vio7Qi) | [summer on the inside](https://open.spotify.com/album/1bkPNy0jxEKPG7nSTn5Saa) | 3:25 |
 | 41 | [Goodmood](https://open.spotify.com/track/4arIMs14aBJkAfWe2alHUQ) | [Nabes](https://open.spotify.com/artist/107Qkrj4miJTEjTZx8Ie3c) | [Goodmood](https://open.spotify.com/album/6c38wrxmxgszEF0oHhMYxr) | 2:41 |
-| 42 | [Right Where You Like](https://open.spotify.com/track/1ubWQBaUVvBw764iEL4DJ8) | [Andrea Chahayed](https://open.spotify.com/artist/2V6GNbrXanLBlMLCx5nXZN) | [Right Where You Like](https://open.spotify.com/album/6Cf5UqRWaCMu9WJwMDtq2W) | 2:52 |
+| 42 | [Right Where You Like](https://open.spotify.com/track/6VyanxTR6dbEUFbGTxDFYI) | [Andrea Chahayed](https://open.spotify.com/artist/2V6GNbrXanLBlMLCx5nXZN) | [Right Where You Like](https://open.spotify.com/album/3XhEQFYmd9NRzzhHYfaM8T) | 2:52 |
 | 43 | [EXCEPTIONAL](https://open.spotify.com/track/02oVra8RWdAYaKbdinrfRC) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v), [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [EXCEPTIONAL](https://open.spotify.com/album/2bCu6FoQW3rXWUqdAsfof2) | 2:17 |
 | 44 | [Gët Busy](https://open.spotify.com/track/0SHO7NVnp3U5NFc9YWkPCR) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/3ZKEPJwhLcpUfYPMIsC4PF) | 2:37 |
 | 45 | [Parallel Parking](https://open.spotify.com/track/4njf8PZi95E9ISlQVXXPyl) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [Parallel Parking](https://open.spotify.com/album/1a1fIXE8ZFG5LPswnSC3ih) | 1:58 |
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Xz5lDbaehp.md) - [plain]
 | 100 | [Still Miss U](https://open.spotify.com/track/3C3rtf7n8TNyUarr5fnRMW) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme), [Kitty](https://open.spotify.com/artist/6YMeCrTjUKwsXh9yhQJjEV) | [Still Miss U](https://open.spotify.com/album/6Twb7nEWGMHnKHB4RKIHNu) | 3:47 |
 | 101 | [Right](https://open.spotify.com/track/4Z8uv43ji1zuzKxDzOR1DS) | [Bri Feel](https://open.spotify.com/artist/2bFe43J9gVry0s8sNN8Jet) | [Right](https://open.spotify.com/album/0qJFv1XxVA41TaqVy29ZmE) | 4:16 |
 | 102 | [Cross My Heart I Hope U Die](https://open.spotify.com/track/3TSRH5IgWTHc8QZSAmo4bz) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cross My Heart I Hope U Die](https://open.spotify.com/album/5AQdr3EeYdMHLTTXNEwfWO) | 2:48 |
-| 103 | [D's](https://open.spotify.com/track/4CwI0ZjiMaW3F7B70iE43Y) | [FUGAZZIFLO](https://open.spotify.com/artist/2Y6KxvXlcHMQ2E3K9SOjYa), [JAHMED](https://open.spotify.com/artist/0VvNvCZj4gZJZVsnIm99GJ) | [D's](https://open.spotify.com/album/5usCGqChw84MfT09Un7kT1) | 2:42 |
+| 103 | [D's](https://open.spotify.com/track/34CiNFFZwAAkXmwxjOA78A) | [FUGAZZIFLO](https://open.spotify.com/artist/2Y6KxvXlcHMQ2E3K9SOjYa), [JAHMED](https://open.spotify.com/artist/0VvNvCZj4gZJZVsnIm99GJ) | [D's](https://open.spotify.com/album/49Wa3dDT09LqCJH2HsCMJE) | 2:42 |
 | 104 | [Intoxicated Truth](https://open.spotify.com/track/52iaQGkgAtc4bwr1iAiVaq) | [Masati](https://open.spotify.com/artist/6Ca21SJ709vzZufDLMQakl) | [Intoxicated Truth](https://open.spotify.com/album/2XKDY407hdliXUT6i3Bcxm) | 2:56 |
 | 105 | [Late to the Party](https://open.spotify.com/track/7hdMPlOGOngKH3mj4pVLcG) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Late to the Party](https://open.spotify.com/album/1g9Kxqn7NNZyHB2dGtlbmR) | 2:57 |
 | 106 | [Out The Way](https://open.spotify.com/track/1F90ozGQw5nVHCT5o8yXK3) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku) | [Out The Way](https://open.spotify.com/album/3ZqHjjh7jnUEGPf4b5xbwO) | 2:35 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Xz5lDbaehp.md) - [plain]
 | 125 | [Coral Jazz](https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Coral Jazz](https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi) | 3:03 |
 | 126 | [If It Weren't For You](https://open.spotify.com/track/6gdHaep5FFl6hhz6JGYEjb) | [FINMAR](https://open.spotify.com/artist/07EtCDnMb2POsxltRSxWge) | [If It Weren't For You](https://open.spotify.com/album/2ydfeIUCt4BnkVb9hUu39t) | 3:16 |
 
-Snapshot ID: `MCxhOTIwNDQzMWY5OGQxMmViM2I4ZWUyNzNmYzNhMDUyMjRiM2E2MTA2`
+Snapshot ID: `MCw2OWQ3YTQxYzc1MzczM2VhZjZkZmQwMmMxNzg5OGQwYWQ0OTk3MGRm`

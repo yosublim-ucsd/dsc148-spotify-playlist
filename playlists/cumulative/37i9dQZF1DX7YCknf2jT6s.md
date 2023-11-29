@@ -4,7 +4,7 @@
 
 > New jazz for open minds\. Cover: Nubiyan Twist
 
-1,171 songs - 3 day 22 hr 53 min
+1,172 songs - 3 day 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,7 +279,8 @@
 | [Double Southpaw](https://open.spotify.com/track/1DZrcuq1jMOUZX1I13AYAp) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [The Layers](https://open.spotify.com/album/5RREZIzieMs94FkBwiNJjv) | 3:02 | 2023-03-17 | 2023-09-16 |
 | [DOXOLOGY \(Hope\)](https://open.spotify.com/track/1sesgJFnwH4nZ2Hn2Whr8C) | [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [DOXOLOGY \(Hope\)](https://open.spotify.com/album/0eNNs9uL23bthBOiHE2M0J) | 3:59 | 2022-03-25 | 2022-04-16 |
 | [Dr\. Disclosure](https://open.spotify.com/track/3UekZOLmo7XP1zofrdAltA) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3) | [Twelve Chapters](https://open.spotify.com/album/2CEkaTZxGY6wrwURFq9bpf) | 3:43 | 2022-09-02 | 2022-10-01 |
-| [Dragonfly](https://open.spotify.com/track/4ilcgmelP0B7j6OXVj6XyL) | [Dana and Alden](https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr) | [Quiet Music For Young People](https://open.spotify.com/album/7EnjFsVN3FXf3L1tknhyKm) | 5:57 | 2023-10-06 |  |
+| [Dragonfly](https://open.spotify.com/track/3uyAmrmQS6GDm0XllcMGMK) | [Dana and Alden](https://open.spotify.com/artist/4odX9weZjAyv9EV05akfLX) | [Quiet Music for Young People](https://open.spotify.com/album/02aBmDkQat7UtqqF9lGZzE) | 5:57 | 2023-10-06 |  |
+| [Dragonfly](https://open.spotify.com/track/4ilcgmelP0B7j6OXVj6XyL) | [Dana and Alden](https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr) | [Quiet Music For Young People](https://open.spotify.com/album/7EnjFsVN3FXf3L1tknhyKm) | 5:57 | 2023-10-06 | 2023-11-29 |
 | [Dream Another](https://open.spotify.com/track/5AZuKKo4LcoQKOGCrA8eGU) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Dream Another](https://open.spotify.com/album/5czweYvAqPHWkszNhocKtk) | 3:12 | 2022-07-22 | 2022-07-29 |
 | [Dream Another](https://open.spotify.com/track/6O5WxhFGEdNVRJw7vnwhiy) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Dream Another](https://open.spotify.com/album/6QXvKWIg9KSRqLjm7yqqUE) | 3:12 | 2022-07-22 | 2022-09-10 |
 | [Dreamer](https://open.spotify.com/track/4qKrjXMsLzS5tcqfTcZA0Y) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Dreamer](https://open.spotify.com/album/2EeWvxWDkaro5W8SjMHAV7) | 4:37 | 2023-07-14 | 2023-08-12 |

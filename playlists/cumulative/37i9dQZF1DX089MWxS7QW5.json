@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: Paul Blanco(\ud3f4\ube14\ub791\ucf54))",
+  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: Moon Sujin(\ubb38\uc218\uc9c4))",
   "name": "K-R&B Now",
   "tracks": [
     {
@@ -1435,6 +1435,28 @@
     },
     {
       "album": {
+        "name": "Don't Say",
+        "url": "https://open.spotify.com/album/5fmxVDAV3uX0RmdRZljMox"
+      },
+      "artists": [
+        {
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
+        },
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151240,
+      "name": "Don't Say (feat. Kid Milli)",
+      "url": "https://open.spotify.com/track/7r5aWRSv5sUg9uhehASb04"
+    },
+    {
+      "album": {
         "name": "NIGHT DRIVER",
         "url": "https://open.spotify.com/album/6ucIPiCHNNiz5w4okN3Bjp"
       },
@@ -2056,7 +2078,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 238454,
       "name": "Hangang Gongwon",
       "url": "https://open.spotify.com/track/58DPUgbOVwsLfAOs2oQBk9"
@@ -2172,7 +2194,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 177346,
       "name": "HEY",
       "url": "https://open.spotify.com/track/0DRqPbwXeljwRUK1VF6lta"
@@ -2280,7 +2302,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 222706,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/2HfAb3qB9w3t9x5e7ZjX5T"
@@ -2796,7 +2818,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 179989,
       "name": "Let me know (Feat. YEOHO)",
       "url": "https://open.spotify.com/track/2canhObXy3qADDzIDMqtf5"
@@ -3728,7 +3750,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 179560,
       "name": "Rainy Days",
       "url": "https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4"
@@ -4172,7 +4194,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 161840,
       "name": "Sunrise Surf",
       "url": "https://open.spotify.com/track/00BhvVsOJkBMJVyojR7Cd9"
@@ -4230,7 +4252,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 185750,
       "name": "Swoosh (feat. DUT2)",
       "url": "https://open.spotify.com/track/6AVagUXzjPGjXGaqHilS9Q"
@@ -4487,6 +4509,24 @@
     },
     {
       "album": {
+        "name": "To. X - The 5th Mini Album",
+        "url": "https://open.spotify.com/album/0VciVDVU6NoqtQ0WAIlTmD"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170386,
+      "name": "To. X",
+      "url": "https://open.spotify.com/track/2gyCwrOcC6JBoaJ8JGJ7T8"
+    },
+    {
+      "album": {
         "name": "Ocean like me (Original Web Drama Soundtrack, Pt. 3)",
         "url": "https://open.spotify.com/album/0xLr70Id543bJ27W9hOmSM"
       },
@@ -4632,7 +4672,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 173240,
       "name": "Up Late",
       "url": "https://open.spotify.com/track/1UGQ0UbDJ69eTfUvrqMwNz"
@@ -5008,7 +5048,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 194320,
       "name": "Wishing On You",
       "url": "https://open.spotify.com/track/6ulJY8ia7SDCPO4Lnge1Pu"
@@ -5244,6 +5284,28 @@
       "duration_ms": 190246,
       "name": "Your Love (Feat. Lee Chanhyuk)",
       "url": "https://open.spotify.com/track/5oEqqlCFYDivgrCabSoaiW"
+    },
+    {
+      "album": {
+        "name": "Don't Say",
+        "url": "https://open.spotify.com/album/5fmxVDAV3uX0RmdRZljMox"
+      },
+      "artists": [
+        {
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169120,
+      "name": "Your Love (feat. Sik-K)",
+      "url": "https://open.spotify.com/track/0N0ZfoWuX7INy4wuxgK3aa"
     },
     {
       "album": {

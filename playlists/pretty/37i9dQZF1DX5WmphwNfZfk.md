@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: PACKS
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,434 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,433 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 49 | [Yoko](https://open.spotify.com/track/45gHc1QYBky7k38HSlaIft) | [Kyle Wildfern](https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR) | [Yoko](https://open.spotify.com/album/7MX7xfLckdaiMg1POPrs42) | 2:05 |
 | 50 | [Kiss Me on the Floor](https://open.spotify.com/track/5wIBA1lYaBIrycozAWCqyI) | [Laraw](https://open.spotify.com/artist/7vxKZcJkulVyFjO6Bb1Pq1) | [Kiss Me on the Floor](https://open.spotify.com/album/4X7CbXtYH209XThPd3sdSr) | 2:54 |
 
-Snapshot ID: `MCwwMDMyZTRlZTg1YTBhMTJkM2NiMmUwYTdmODRiZDliYjczMGEzNWY0`
+Snapshot ID: `MCwxOGRkZDE1ZDZmZGM5YTc5MzBkZmM3NjRlYTFmMGRlMzhhODQ3NGRi`

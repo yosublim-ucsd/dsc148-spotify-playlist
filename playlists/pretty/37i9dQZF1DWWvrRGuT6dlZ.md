@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: Regina Song, Adriel\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,912 likes - 140 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,921 likes - 140 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 139 | [Baby Blue](https://open.spotify.com/track/5FZsJeAOphubEbGEzHATlq) | [Soong](https://open.spotify.com/artist/1hKtrBDlkEWMZuu6clRxKc) | [Baby Blue](https://open.spotify.com/album/7rFLaq2TZuwO3piSQXhHtr) | 3:16 |
 | 140 | [You Got This](https://open.spotify.com/track/5nawgAeuUEqfyMumoflBEL) | [Tyen Rasif](https://open.spotify.com/artist/35S21JGNjKGy0ueRX9MSSZ), [Munah Bagharib](https://open.spotify.com/artist/3oBQ7ewna5bYNetZBKUZQj) | [You Got This](https://open.spotify.com/album/2zGwurbXSagLIRNuR3b8Jj) | 2:57 |
 
-Snapshot ID: `MCxlNzcxOWE0ZDc0MTY2ZDMwOTBkYmVmOGE2OTRmNjIwZjI5ZGU2MTEx`
+Snapshot ID: `MCxmMTJiYTEwZjljNDNlNGJmZDNhMzNhMmRjODlmNGUzYWZmYTAzZDcy`

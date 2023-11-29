@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B14ULPIeoA.md) - [plain]
 
 > Con mucha dulzura y sabor para un momento de relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,446 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,472 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B14ULPIeoA.md) - [plain]
 | 91 | [Simplemente Gracias](https://open.spotify.com/track/7ebRw8NKRtmfmeOMpLeOYn) | [Vivin LP](https://open.spotify.com/artist/5JJP8xQtbMdnnJE2E7zogW) | [Simplemente Gracias](https://open.spotify.com/album/19mlWCpjnmnAXYrsYnS7iV) | 2:51 |
 | 92 | [Solo Vine A Despedirme](https://open.spotify.com/track/6JKesuqLu8ZTtRgxNTzbdu) | [Javier Barrera](https://open.spotify.com/artist/0rPKDNLYtijSxZYDwdOpN8) | [Solo Vine A Despedirme](https://open.spotify.com/album/3Nk0RzuCU6NnEfWnDVDTtm) | 3:21 |
 | 93 | [De que manera te olvido](https://open.spotify.com/track/0wLGt0djSkPZRbd14eQTbx) | [Trio Azteca](https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY) | [Trio Azteca: Folk Songs and Ballads](https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq) | 2:56 |
-| 94 | [Agarra Tu Camino](https://open.spotify.com/track/2IYRUFK8T0tbJCueZoBj9u) | [Maribel Sur](https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf) | [Agarra Tu Camino](https://open.spotify.com/album/0q9c2AGlYqLPYBnLC7iCmw) | 3:52 |
-| 95 | [Pa' Olvidarme De Ella](https://open.spotify.com/track/42jz4vxI3S9nZuYOEwCbAF) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [Pa' Olvidarme De Ella](https://open.spotify.com/album/4o5FlDxD26wrLQ5C0kLCk5) | 3:06 |
+| 94 | [Pa' Olvidarme De Ella](https://open.spotify.com/track/42jz4vxI3S9nZuYOEwCbAF) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [Pa' Olvidarme De Ella](https://open.spotify.com/album/4o5FlDxD26wrLQ5C0kLCk5) | 3:06 |
+| 95 | [Agarra Tu Camino](https://open.spotify.com/track/2IYRUFK8T0tbJCueZoBj9u) | [Maribel Sur](https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf) | [Agarra Tu Camino](https://open.spotify.com/album/0q9c2AGlYqLPYBnLC7iCmw) | 3:52 |
 | 96 | [Detrás De Los Cerros](https://open.spotify.com/track/5o7kBjb3R4RGsLxpa39T3A) | [Regina Costa](https://open.spotify.com/artist/5HTYfcxPnPgnplg9GvUIEr) | [Detrás De Los Cerros](https://open.spotify.com/album/1CKIzQI1dh2y1Cy6u0Uj67) | 4:31 |
 | 97 | [Te Vas A Arrepentir](https://open.spotify.com/track/0x2d1LNSJVjACcCqgq9uJt) | [Silvertre Pinedo](https://open.spotify.com/artist/6EjYYwIoRhEvogWhhnGGhw) | [Te Vas A Arrepentir](https://open.spotify.com/album/1cH6OKiahoeuaB7ND18dM4) | 3:51 |
 | 98 | [Un Millon De Rosas](https://open.spotify.com/track/50NES9jC00ahT1JEhHgIjS) | [Francis Nola](https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah) | [Un Millon De Rosas](https://open.spotify.com/album/0FIqFme3N87WDIyChM5Nev) | 2:59 |
 | 99 | [Dueles](https://open.spotify.com/track/6ekN22D0Amt0tqd2DAeKq4) | [Marta Jobim](https://open.spotify.com/artist/1mdSEV97zy0wyiCU8jfqwj) | [Dueles](https://open.spotify.com/album/72jZEsiUr3shNX6fxrhq8b) | 5:23 |
 | 100 | [Changes](https://open.spotify.com/track/167gl31uOXmVYazZz5TDhx) | [Mariachi Arco Iris](https://open.spotify.com/artist/5TxkKchbD0Joui6g9sUwna) | [Changes](https://open.spotify.com/album/5bl2leCLhSGFwpjEndig0D) | 3:22 |
 
-Snapshot ID: `MCxjODBlM2E0MmY1YmEwMDAyZTVlYjgyNTUxMGVmMzg3YmQwMTlkOTUw`
+Snapshot ID: `MCw0YjIxOTFiNGE3ZDQwZGU3YWFlZmI2YmRhN2FkNzYxYTlhYzYyNTU2`

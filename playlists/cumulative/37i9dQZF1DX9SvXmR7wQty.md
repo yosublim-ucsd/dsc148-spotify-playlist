@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Hamza
 
-2,204 songs - 4 day 21 hr 42 min
+2,205 songs - 4 day 21 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [Avant Elle](https://open.spotify.com/track/5ECN3yzsBiExzh5VLabINw) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Avant Elle](https://open.spotify.com/album/37HLuNvMsD3ibgohJHropW) | 3:20 | 2023-05-05 | 2023-06-18 |
 | [Avant l'été](https://open.spotify.com/track/2tSQmf09N55t8ia3yMdo3Z) | [Georgio](https://open.spotify.com/artist/6Xc0KDqzw5u6EQLgdfeoKO) | [Années Sauvages](https://open.spotify.com/album/6O9VlKASBVMGQqR7n6ELtW) | 1:59 | 2023-05-19 | 2023-07-08 |
 | [Avant que le ciel ne tombe](https://open.spotify.com/track/3MUhg6FHlv4IqDFJRFrcfn) | [Meghan Oak](https://open.spotify.com/artist/0zcVg1Jym2sknaMn46kO2k), [DVinyle](https://open.spotify.com/artist/5ozjuk4ZNYQ5OMv4SmnkyA) | [Avant que le ciel ne tombe](https://open.spotify.com/album/7e0Mmke0NiDGbDgBjTQtzF) | 2:21 | 2023-03-17 | 2023-04-15 |
-| [Avec elle](https://open.spotify.com/track/2cjMxpKD3fAmM0iZPWHJri) | [GLK](https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez) | [Avec elle](https://open.spotify.com/album/3zVzY7IdtotQVKGCPOUiBg) | 2:46 | 2023-10-20 |  |
+| [Avec elle](https://open.spotify.com/track/2cjMxpKD3fAmM0iZPWHJri) | [GLK](https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez) | [Avec elle](https://open.spotify.com/album/3zVzY7IdtotQVKGCPOUiBg) | 2:46 | 2023-10-20 | 2023-11-29 |
 | [Avec Jeanne](https://open.spotify.com/track/0SDhPGnG7RVMIOGQI2SMS7) | [Vincent Delerm](https://open.spotify.com/artist/3Uo7E7lR9Li0qXzxU8VmnF) | [Avec Jeanne](https://open.spotify.com/album/3Y7wpCxQ3IqWxuvF7mFWoA) | 3:16 | 2022-04-22 | 2022-05-07 |
 | [Avec mes géants](https://open.spotify.com/track/6UNrdERCSsBxnEtMsOdiVX) | [Bruno Pelletier](https://open.spotify.com/artist/7quDJwv2BxxaCkzeuLXzT2) | [Car le temps est venu](https://open.spotify.com/album/5DWTH79oXavRenJFEwYwwZ) | 2:40 | 2022-09-16 | 2022-10-01 |
 | [Avec toi \- Version acoustique](https://open.spotify.com/track/1gvFLmCy0lS7oOCg1Lglbi) | [Nicola Ciccone](https://open.spotify.com/artist/7zEWmefU2120VHZaQhN6qM) | [Gratitude \(Acoustique, version acoustique\)](https://open.spotify.com/album/7MFYgEBwcUUrb9cHaXjF1Q) | 2:58 | 2022-03-18 | 2022-03-26 |
@@ -1296,6 +1296,7 @@
 | [Mama](https://open.spotify.com/track/63lZCrUiCmSU2ofO0AcCKs) | [Kosla](https://open.spotify.com/artist/0WEnusOFYWy1WdoyeSPC72), [808 Delavega](https://open.spotify.com/artist/3dPuXCO7uQLHphYgFzUXCJ) | [Mama](https://open.spotify.com/album/1RJS9HVhlZucCIXiBmC6Xo) | 3:32 | 2023-02-24 | 2023-03-11 |
 | [Maman](https://open.spotify.com/track/5FwtloM8eGWtqPtglVcqfX) | [pataugeoire](https://open.spotify.com/artist/2Y5bshWQcWGxvTQPQ0qcrA), [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Maman](https://open.spotify.com/album/21Yoob2SRAwz7aDHDWf7qr) | 3:31 | 2023-11-24 |  |
 | [maman](https://open.spotify.com/track/5Nr5MNAlmvFw2z7LQV1C6F) | [White Migz](https://open.spotify.com/artist/2HLKLDXuuQlYM5YxZ21rN8), [Whitie](https://open.spotify.com/artist/0i91b2mJ9VCTPDvBEmOTID) | [vie rapide](https://open.spotify.com/album/3B4fTEOw0x0ku2woLbPop2) | 2:30 | 2023-02-10 | 2023-02-25 |
+| [Maman savait](https://open.spotify.com/track/2rWe6Sf38aKWjmP6hTIy9U) | [Benab](https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY) | [Maman savait](https://open.spotify.com/album/5lDkKa1xngzmFwJou4LLFH) | 2:58 | 2023-11-24 |  |
 | [Mambo](https://open.spotify.com/track/6jENkrUkcJ96UHsCrYrAdt) | [Soraï](https://open.spotify.com/artist/38SOUOhlDoh1y9dHlGDbTL) | [Mambo](https://open.spotify.com/album/56azZerCoXBxVvvZ3lofnf) | 2:38 | 2022-04-29 | 2022-05-07 |
 | [Mandarine](https://open.spotify.com/track/5ZIpjXSsmSigTX6UY0lkCb) | [Carla Chanelle](https://open.spotify.com/artist/6fcQmWO5XTN7ScLmwHYUil) | [Sur nos joues](https://open.spotify.com/album/60WvnemKPicPjBiyCTMjjM) | 2:53 | 2022-03-25 | 2022-04-09 |
 | [Manhattan](https://open.spotify.com/track/5e3g0TcgR49Kw7TG6E2z1g) | [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf) | [Manhattan](https://open.spotify.com/album/1isnBBe4E6mC70DBwaxIhZ) | 4:03 | 2022-01-07 | 2022-01-22 |

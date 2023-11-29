@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 
 > Tejano's new wave! La nueva ola de música tejana\. Cover: Gary Hobbs
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,611 likes - 80 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,614 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 | 16 | [Ay Amor](https://open.spotify.com/track/0lY5lJa3XSkivRhSEkc0nQ) | [Gabriella](https://open.spotify.com/artist/1n6ZR4WIvyvuioc07O5UiM) | [Ay Amor](https://open.spotify.com/album/7MkYFmRwumTmK74vY990jB) | 3:48 |
 | 17 | [Jam Session El Besito Y Voy Navegando](https://open.spotify.com/track/38hja6SCCM5GnL6krYdhSh) | [Carlos y Los Cachorros](https://open.spotify.com/artist/6j2ViCjLAVLUTBxDHFECka) | [Jam Session El Besito Y Voy Navegando](https://open.spotify.com/album/7LYOL5acndia5Ar7tINUfI) | 5:02 |
 | 18 | [Que Bonito Fuera](https://open.spotify.com/track/3Y5ToqDRUVDCCdg5fmf4pY) | [The Homeboyz](https://open.spotify.com/artist/1l61cJnRmPBJTtyx8i6qDv) | [Oddz](https://open.spotify.com/album/2tkBSXvOoKzeXRfKRAjPwC) | 4:01 |
-| 19 | [Raspar Zapato](https://open.spotify.com/track/2YXRDo7vScKAjz6fYNnXbh) | [Tejano Highway 281](https://open.spotify.com/artist/004UYHPUOnYC9p2vu9XcIV) | [Raspar Zapato](https://open.spotify.com/album/13UQwlje5pY3bt2o1Y6xL6) | 2:44 |
-| 20 | [Rogando Por Tu Amor](https://open.spotify.com/track/3konQZ2dxzZ9N83J0fC5qo) | [EL GALLO DEZ](https://open.spotify.com/artist/6HouSoogSl8M3OvLrdxij5) | [Rogando Por Tu Amor](https://open.spotify.com/album/0hJfMeu3ayGQtUbMZ8KZiM) | 3:23 |
+| 19 | [Rogando Por Tu Amor](https://open.spotify.com/track/3konQZ2dxzZ9N83J0fC5qo) | [EL GALLO DEZ](https://open.spotify.com/artist/6HouSoogSl8M3OvLrdxij5) | [Rogando Por Tu Amor](https://open.spotify.com/album/0hJfMeu3ayGQtUbMZ8KZiM) | 3:23 |
+| 20 | [Raspar Zapato](https://open.spotify.com/track/2YXRDo7vScKAjz6fYNnXbh) | [Tejano Highway 281](https://open.spotify.com/artist/004UYHPUOnYC9p2vu9XcIV) | [Raspar Zapato](https://open.spotify.com/album/13UQwlje5pY3bt2o1Y6xL6) | 2:44 |
 | 21 | [Otra Vez Soltera](https://open.spotify.com/track/5KVoEPfr37AST35AsDcY7t) | [Las Fenix](https://open.spotify.com/artist/2ZNrWgSrqOlD6uF54Hx4ZY) | [Otra Vez Soltera](https://open.spotify.com/album/6YuNLasBSbj27kGKevK0dT) | 2:33 |
 | 22 | [Dame Un Besito](https://open.spotify.com/track/1eujaqtBOGkVnY3oVkcTnG) | [La Fiebre](https://open.spotify.com/artist/2dJ841WWMQuBwrFtQmsOE9) | [Dame Un Besito](https://open.spotify.com/album/1UsFXTfhEuJPhwz0VEFgaT) | 3:06 |
 | 23 | [Anhelos](https://open.spotify.com/track/4IloVueaAHDjIRuvxFOE9w) | [La Dezz](https://open.spotify.com/artist/7DayckUSebiooSMdF8C2a1), [Ram Herrera](https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE) | [Anhelos](https://open.spotify.com/album/6bQNxIp5ebYjjlnlZr69xd) | 4:17 |
@@ -69,19 +69,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 | 59 | [Tiempo Sin Mi](https://open.spotify.com/track/4gzfAQNMy1EKirLO0IYT9M) | [Cynthia Bustamante](https://open.spotify.com/artist/4C0ijQRQrde6ooUiUzvs4g) | [Renacer](https://open.spotify.com/album/6rs8fUKzkJMW9xkEUCK5iX) | 3:12 |
 | 60 | [Los Peces En El Rio](https://open.spotify.com/track/2hXxwyJm64VCEURkHq0le5) | [Veronique Medrano](https://open.spotify.com/artist/4fN7gCSTewGjaMJnuk8K2h) | [Los Peces En El Rio](https://open.spotify.com/album/1exTpPwJ4ZUqf6l37TKlMX) | 3:01 |
 | 61 | [¿Como Puede Ser Así?](https://open.spotify.com/track/3dl1BnbuZitazqKqjCjp5d) | [Destiny Navaira](https://open.spotify.com/artist/3od00zk4OBhNuBGEIsqZ6e) | [¿Cómo Puede Ser Así?](https://open.spotify.com/album/0ZNklUBNTfrn5OeFPWYJci) | 3:07 |
-| 62 | [Que Dolor](https://open.spotify.com/track/3XlYYqMbpFXKmHfmYR2oPR) | [George Salazar](https://open.spotify.com/artist/3M5SDIlfm3AZkshJqEkJEY) | [Que Dolor](https://open.spotify.com/album/3T5RCMyFCQyE3BC91EgYIO) | 3:22 |
-| 63 | [Soy Ella](https://open.spotify.com/track/5buceuRTk8ODJu1t3B4r8H) | [Joanna Rae](https://open.spotify.com/artist/3qYF2FA6cKdt8jFsOlzljR) | [Soy Ella](https://open.spotify.com/album/0C6cJPsfO7pVrAA6TP7reN) | 2:59 |
+| 62 | [Soy Ella](https://open.spotify.com/track/5buceuRTk8ODJu1t3B4r8H) | [Joanna Rae](https://open.spotify.com/artist/3qYF2FA6cKdt8jFsOlzljR) | [Soy Ella](https://open.spotify.com/album/0C6cJPsfO7pVrAA6TP7reN) | 2:59 |
+| 63 | [Que Dolor](https://open.spotify.com/track/3XlYYqMbpFXKmHfmYR2oPR) | [George Salazar](https://open.spotify.com/artist/3M5SDIlfm3AZkshJqEkJEY) | [Que Dolor](https://open.spotify.com/album/3T5RCMyFCQyE3BC91EgYIO) | 3:22 |
 | 64 | [Contigo Corazon](https://open.spotify.com/track/4WGMtadfZnohsK7WDJpryN) | [Jr Aldaco and the Midwest Allstars](https://open.spotify.com/artist/7rAM8fU5taC56FR29Itqdy) | [Contigo Corazon](https://open.spotify.com/album/7ymlEj6NfzuNw2CYa2ZrJj) | 3:15 |
-| 65 | [No Me Busques](https://open.spotify.com/track/5Su2iRj6HmnO1vXh2xWEQ6) | [Liz Garcia](https://open.spotify.com/artist/2JcqJQOf7QQbFgFAzf8mDX) | [No Me Busques](https://open.spotify.com/album/66y7EqCzVP6G5AKcOZd1Gk) | 3:48 |
+| 65 | [Si Esto No Es Amor](https://open.spotify.com/track/2XPIUhrtYTB6mFdQSpZUOI) | [Liz Garcia](https://open.spotify.com/artist/2JcqJQOf7QQbFgFAzf8mDX) | [Si Esto No Es Amor](https://open.spotify.com/album/0KKjJ7j7oWVv79T2IvY0hP) | 3:38 |
 | 66 | [Quiero Que Vuelvas](https://open.spotify.com/track/0YHNjkLz1359wkKOzxLSel) | [Magali Delarosa](https://open.spotify.com/artist/7FadHQQ1vm93uZ6bAg2asc) | [Quiero Que Vuelvas](https://open.spotify.com/album/65zynurlXpGeJ7YLXMNXsI) | 3:41 |
 | 67 | [La Tequilera](https://open.spotify.com/track/1EKTizBZMHG2SG3jbmiAUd) | [Andrea Michelle](https://open.spotify.com/artist/4b5rbIYGkQ8Am0R8yEuTkA) | [La Tequilera](https://open.spotify.com/album/53cZ3SkhH68ANd45Ot24Ua) | 3:24 |
 | 68 | [Quebrando Cadenas](https://open.spotify.com/track/6EftRXMyuDZaM4vtgJ6dQn) | [Lupe Saenz Jr](https://open.spotify.com/artist/4RWevluXFUV07zMC2nCBiI), [Margarita Fender](https://open.spotify.com/artist/0QPwRlpG3rvMfqIwRNuoJb) | [Quebrando Cadenas](https://open.spotify.com/album/7qDDCuy8R1ak1va6myxUkm) | 4:00 |
 | 69 | [Simplemente Por Quererte a Ti](https://open.spotify.com/track/5q9iOkz3KTsVXNlzayRBAo) | [Madison Pulido](https://open.spotify.com/artist/3uqd6Xta3sWDMEZha0dzwz) | [Simplemente Por Quererte a Ti](https://open.spotify.com/album/0NCdwCBWeZH56camK5IkkZ) | 3:18 |
-| 70 | [Dime Por Qué](https://open.spotify.com/track/65aD4EiPVKUyEXLotKIMQs) | [Crystal Torres](https://open.spotify.com/artist/2uWXFCclgN0fNce3lhg64u) | [Dime Por Qué](https://open.spotify.com/album/5DggVFW7Fcz3b3gsRkKUW8) | 3:11 |
-| 71 | [Toda Una Vida](https://open.spotify.com/track/5UmuGyqgMzhFJxML3ILvKV) | [Andie Bustamante](https://open.spotify.com/artist/47UmYJPZ4xYXNvnzIddqlK) | [Toda Una Vida](https://open.spotify.com/album/0hf4M1OfFfsgOhCRU6KcNf) | 3:00 |
+| 70 | [Toda Una Vida](https://open.spotify.com/track/5UmuGyqgMzhFJxML3ILvKV) | [Andie Bustamante](https://open.spotify.com/artist/47UmYJPZ4xYXNvnzIddqlK) | [Toda Una Vida](https://open.spotify.com/album/0hf4M1OfFfsgOhCRU6KcNf) | 3:00 |
+| 71 | [Dime Por Qué](https://open.spotify.com/track/65aD4EiPVKUyEXLotKIMQs) | [Crystal Torres](https://open.spotify.com/artist/2uWXFCclgN0fNce3lhg64u) | [Dime Por Qué](https://open.spotify.com/album/5DggVFW7Fcz3b3gsRkKUW8) | 3:11 |
 | 72 | [La Buena Vida](https://open.spotify.com/track/6pQIozvtUk94Ov0TQO1dNz) | [Rose Elva & the Crew](https://open.spotify.com/artist/3DZ3z0HmuuNFD5JiIukSKn) | [La Buena Vida](https://open.spotify.com/album/52gAwlY9atQCXP0q57ECAk) | 3:42 |
 | 73 | [Como Te Voy a Olvidar](https://open.spotify.com/track/3s4ig5wIjAyVkPmIR6wsND) | [Genyva](https://open.spotify.com/artist/1glGEhKiGfk7tzbJVWnyke) | [Como Te Voy a Olvidar](https://open.spotify.com/album/4HA6mvbNs4KHJAF5j0WYxl) | 3:08 |
-| 74 | [Si Esto No Es Amor](https://open.spotify.com/track/2XPIUhrtYTB6mFdQSpZUOI) | [Liz Garcia](https://open.spotify.com/artist/2JcqJQOf7QQbFgFAzf8mDX) | [Si Esto No Es Amor](https://open.spotify.com/album/0KKjJ7j7oWVv79T2IvY0hP) | 3:38 |
+| 74 | [No Me Busques](https://open.spotify.com/track/5Su2iRj6HmnO1vXh2xWEQ6) | [Liz Garcia](https://open.spotify.com/artist/2JcqJQOf7QQbFgFAzf8mDX) | [No Me Busques](https://open.spotify.com/album/66y7EqCzVP6G5AKcOZd1Gk) | 3:48 |
 | 75 | [NADIE](https://open.spotify.com/track/1wML61KAX8TTp70dVqqa9V) | [Esmeralda G](https://open.spotify.com/artist/6icgyIXLRejVRb3MiJpyrJ) | [NADIE](https://open.spotify.com/album/3YqlDwjNBkHNRko6zm7jeA) | 2:41 |
 | 76 | [Te Quiero Mas](https://open.spotify.com/track/3U6nRkzp8vX1OJgD3Nqrh5) | [Rita Capuchina](https://open.spotify.com/artist/6DJJ34LoaX8bf7tkOjCW3k) | [Te Quiero Mas](https://open.spotify.com/album/0W08397Xa5q57fL4gOX4iK) | 3:08 |
 | 77 | [Acércate](https://open.spotify.com/track/5tGsIfgtxm864ScDT6loZi) | [Erika Renée](https://open.spotify.com/artist/42MtvRYX0wZ5B00nbK2Jpw), [Alizé Niño](https://open.spotify.com/artist/1MWIy3obn0cy1w2HPcCcNd) | [Acércate](https://open.spotify.com/album/55H74KaK5knXlO72MFajfT) | 3:22 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 | 79 | [Ilusiones](https://open.spotify.com/track/2ppb8UJGd46K2s3amo3Tdf) | [Inspirazion](https://open.spotify.com/artist/0VsDIktkT2MwCO9U48QBvZ) | [Ilusiones](https://open.spotify.com/album/3RuGEPSv2fjAkSAZ3zi06i) | 3:17 |
 | 80 | [Los Laureles](https://open.spotify.com/track/4X934GVbVTB738dLh2fsDG) | [Grupo Rumores](https://open.spotify.com/artist/7yTayx79xvmK2D61aPGprO) | [La Faldita](https://open.spotify.com/album/3PloZ7lDWnocn5J8b8qIYd) | 3:12 |
 
-Snapshot ID: `MCw5NTcxYzQzYzk1Yzk2NjVhYTQ3M2ZmOWJjZWZiNWI0Y2JkZWYwYmI5`
+Snapshot ID: `MCw0YWQyMWZkYzMxZGNkMDVlMDYzMDBjMTc0NWEwODliYWUyNTdlMWFi`

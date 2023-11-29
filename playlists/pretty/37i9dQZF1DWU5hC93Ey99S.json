@@ -1,13 +1,29 @@
 {
   "description": "all the stutter, all the feels.",
-  "num_followers": 34814,
+  "num_followers": 34946,
   "original_name": "Emotional Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYWFkODRiOTg2NzFlMGNiNWNjZTBkOTcxZDNkYmEwNmRmNDVkMmVk",
+  "snapshot_id": "MCwwMjYxM2Q2NGY2ZDllYjg5MWUwZmM2YjFiMmU4YzkyZDMyYTFhZjdh",
   "tracks": [
+    {
+      "added_at": "2023-11-28 08:35:03",
+      "album": {
+        "name": "life gets hard",
+        "url": "https://open.spotify.com/album/5u6aeRDXBKNwJxKSUcykEj"
+      },
+      "artists": [
+        {
+          "name": "iilliaa",
+          "url": "https://open.spotify.com/artist/3XDX6PbRtAzovlF2DnoT5F"
+        }
+      ],
+      "duration_ms": 125994,
+      "name": "life gets hard",
+      "url": "https://open.spotify.com/track/3acsNhkPp9gHSsamIsw0xO"
+    },
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {

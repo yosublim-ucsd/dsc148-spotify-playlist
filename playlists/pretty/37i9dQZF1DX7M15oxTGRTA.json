@@ -1,12 +1,12 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 88703,
+  "num_followers": 88777,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYWM4Y2M0YmNmYjJhZTQyYjU3ZWVkOTg3OGU4OWVjZGM2NjM2ZTVi",
+  "snapshot_id": "MCxiM2JlMWRjMzg3YjM5MjJkN2NhNzZiNTY4MGZlN2VkOTFlOThhNzJj",
   "tracks": [
     {
       "added_at": "2023-09-14 19:15:58",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "Shadow Dancing",
-        "url": "https://open.spotify.com/album/3Ru1PEQBFI88kBIWcPGGS8"
-      },
-      "artists": [
-        {
-          "name": "Andy Gibb",
-          "url": "https://open.spotify.com/artist/4YPqbAiLzBg5DIfsgQZ8QK"
-        }
-      ],
-      "duration_ms": 250200,
-      "name": "(Our Love) Don't Throw It All Away",
-      "url": "https://open.spotify.com/track/1RsxUuB1Q5OdseLpHMBkEN"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
         "name": "Breakin' Away",
         "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 226066,
       "name": "We're in This Love Together",
       "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
+        "name": "Shadow Dancing",
+        "url": "https://open.spotify.com/album/3Ru1PEQBFI88kBIWcPGGS8"
+      },
+      "artists": [
+        {
+          "name": "Andy Gibb",
+          "url": "https://open.spotify.com/artist/4YPqbAiLzBg5DIfsgQZ8QK"
+        }
+      ],
+      "duration_ms": 250200,
+      "name": "(Our Love) Don't Throw It All Away",
+      "url": "https://open.spotify.com/track/1RsxUuB1Q5OdseLpHMBkEN"
     },
     {
       "added_at": "2023-09-14 19:15:58",

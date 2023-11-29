@@ -10996,7 +10996,7 @@
     {
       "album": {
         "name": "FLOATING",
-        "url": "https://open.spotify.com/album/4wFUSdJtWsiX8gZ1lvve9T"
+        "url": "https://open.spotify.com/album/0m5b28D5sIHDBeTuI27JQH"
       },
       "artists": [
         {
@@ -11011,6 +11011,28 @@
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 185386,
+      "name": "FLOATING",
+      "url": "https://open.spotify.com/track/6OHvc0GYHV60gShKKYw350"
+    },
+    {
+      "album": {
+        "name": "FLOATING",
+        "url": "https://open.spotify.com/album/4wFUSdJtWsiX8gZ1lvve9T"
+      },
+      "artists": [
+        {
+          "name": "Htet",
+          "url": "https://open.spotify.com/artist/3LQ5d2MM3bji1JwvalqjDD"
+        },
+        {
+          "name": "Ren Carter",
+          "url": "https://open.spotify.com/artist/5SUcV9zgkgubuNxk4MIppv"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-29",
       "duration_ms": 185386,
       "name": "FLOATING",
       "url": "https://open.spotify.com/track/71XL1ZEVyW1rRTbGUS1VZI"

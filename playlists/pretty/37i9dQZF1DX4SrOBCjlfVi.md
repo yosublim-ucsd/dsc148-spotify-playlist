@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Gucci Mane, Sexyy Red, and more\. Cover: Busta Rhymes
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,969 likes - 49 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,043 likes - 49 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 25 | [3D](https://open.spotify.com/track/7t7eBzrvv1YL547LI44Bvb) | [Big Bratt](https://open.spotify.com/artist/4H7s71IsQDWe4DFArSBzD4), [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [3D](https://open.spotify.com/album/24R8yEtVrZoThYWEyH7r5Y) | 2:31 |
 | 26 | [Power](https://open.spotify.com/track/27NZPKJRrUgtVAoqg06WkY) | [Mark Battles](https://open.spotify.com/artist/24SwsBq76FnNeXW9Do4wPI), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S) | [Power](https://open.spotify.com/album/0LR35Mz9TSsI87kuvSCSH4) | 2:18 |
 | 27 | [Surround Sound System](https://open.spotify.com/track/0mshAw1jik7I5KEi9wYGWL) | [Jace!](https://open.spotify.com/artist/2SPxiIMMkdVY00DphiIjxR) | [Surround Sound System](https://open.spotify.com/album/6fZEcVdIblxW8zm7Ga3aWx) | 1:24 |
-| 28 | [Gotta Choose](https://open.spotify.com/track/7GPMJcc9gyb5pAzlmgPrbE) | [Sdot Go](https://open.spotify.com/artist/73sV26yCMzpIeYxesG3jdV) | [Gotta Choose](https://open.spotify.com/album/7JALtNevh46kAzpIzhMLoW) | 2:02 |
+| 28 | [Gotta Choose](https://open.spotify.com/track/7GPMJcc9gyb5pAzlmgPrbE) | [Sdot Go](https://open.spotify.com/artist/73sV26yCMzpIeYxesG3jdV), [SweepersENT](https://open.spotify.com/artist/3gQoRf2OOQucNCzox0TI9l) | [Gotta Choose](https://open.spotify.com/album/7JALtNevh46kAzpIzhMLoW) | 2:02 |
 | 29 | [Lowkey Pt\. 2](https://open.spotify.com/track/4zv3m52ktyOrzPGPoa9CNT) | [Seddy Hendrinx](https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4) | [Lowkey Pt\. 2](https://open.spotify.com/album/69NZLe2QZUXpbFsq9FIPxm) | 3:50 |
 | 30 | [Import Export](https://open.spotify.com/track/3eg4SbUZinCsEaG5BqMIRC) | [Kirk Knight](https://open.spotify.com/artist/1nSpOxq3pcgomrfpXudQuq) | [Import Export](https://open.spotify.com/album/7bDoRkgS1MwS21rZojZSJt) | 2:27 |
 | 31 | [What Happened 2 Me?](https://open.spotify.com/track/5GSvt7mMyRlV4O9M8chg1T) | [Is0kenny](https://open.spotify.com/artist/1gDoTzsseyqOOrvKCCY2sb) | [What Happened 2 Me?](https://open.spotify.com/album/7yZKo3Y1n3RxQklCfzWx8x) | 1:39 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 36 | [Petty](https://open.spotify.com/track/4a5KwvStfugKQAOdBlO8N4) | [Yakiyn](https://open.spotify.com/artist/41lqavlwvb2IVsBpmCkh4E) | [Petty](https://open.spotify.com/album/2Ig137kNntKJZS3T6SsrAl) | 2:36 |
 | 37 | [Transparency \(feat\. USHER\)](https://open.spotify.com/track/4f5rBgdoka8ffiFAX9GNuO) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Welcome 2 Collegrove](https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy) | 3:15 |
 | 38 | [I'm The Type](https://open.spotify.com/track/24zmKlJp1LlIRpagSbMaRY) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [chief wuk](https://open.spotify.com/artist/2Hm8pRagdhRNFBbCiGaJEI), [Only The Family](https://open.spotify.com/artist/3IaKn0ExWTMPqa0mscUYw3) | [Nightmares In the Trenches](https://open.spotify.com/album/3ZuNOvosbywUYTfgZc09tU) | 2:36 |
-| 39 | [02 Lakers](https://open.spotify.com/track/0LXrihCLToJ1l9HlIufKSA) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr) | [02 Lakers](https://open.spotify.com/album/1WMj2AxZuuDQdHo3qFDMe9) | 2:43 |
+| 39 | ['02 Lakers](https://open.spotify.com/track/0LXrihCLToJ1l9HlIufKSA) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr) | ['02 Lakers](https://open.spotify.com/album/1WMj2AxZuuDQdHo3qFDMe9) | 2:43 |
 | 40 | [Bent \(Remix\) \(with Kyle Richh, Jenn Carter, TaTa & Sexyy Red\)](https://open.spotify.com/track/3dbk5pvQlJagP6VJP9vHzq) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [41 World: Not The Album](https://open.spotify.com/album/1xfZEllNKEGORjebzxus4t) | 3:37 |
 | 41 | [Big Diamonds \(feat\. 21 Savage\)](https://open.spotify.com/track/5FDc4ljIWyW8wClzt54dhs) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Welcome 2 Collegrove](https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy) | 3:19 |
 | 42 | [Evil Ways \(feat\. J\. Cole\)](https://open.spotify.com/track/2ut4BOQSqxLpcX5MtPjzYa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [For All The Dogs Scary Hours Edition](https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO) | 3:47 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 48 | [Going Crazy](https://open.spotify.com/track/6Shif3zQ84HcpovpwOuaR8) | [Big Moochie Grape](https://open.spotify.com/artist/3tYObOPkxDpra3sjNdCeKa) | [Going Crazy](https://open.spotify.com/album/3xuMDBizmfgxu8RQ4CEqBc) | 2:36 |
 | 49 | [Oprah & Gayle \(feat\. Benny The Butcher\)](https://open.spotify.com/track/0CFqRIdR0LbMGGHSjTaQYt) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Welcome 2 Collegrove](https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy) | 5:13 |
 
-Snapshot ID: `MCw4MTU5NmFmMTQ5YTEzYTA3ZDliNDQ0NGIwMmY4OTI3NzE4ZjlkOTgx`
+Snapshot ID: `MCw3YzM1MzZlNmQzZDM2ZmFmNDZlMTQ3NTRjNjlhOTI3ODcyOWMxNjZk`

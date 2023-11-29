@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap\. Cover: Boombox Cartel & FrostTop
 
-[Spotify](https://open.spotify.com/user/spotify) - 893,401 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 893,449 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 47 | [The One \- NGHTMRE Remix](https://open.spotify.com/track/0z6BBM8lek2dzvnuIOX1Wx) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF) | [The One \(The Remixes\)](https://open.spotify.com/album/1pZ4Bycse2Ck26SkSZHNGS) | 2:40 |
 | 48 | [Stars Tonight](https://open.spotify.com/track/0ZKOjWGqV7vHl9WKOtDb5V) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [We Are Deadbeats \(Vol\. 4\)](https://open.spotify.com/album/0M5oUKrfgJtfZUKdFsC4VZ) | 2:53 |
 | 49 | [Reaper \(feat\. JID\)](https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Reaper \(feat\. JID\)](https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg) | 2:44 |
-| 50 | [Slow Burn](https://open.spotify.com/track/1AfA0K7BLxceH7PjzcZdZc) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Elayna Boynton](https://open.spotify.com/artist/5wr3WZArcItaxXddR07nJv) | [The Return of House Music](https://open.spotify.com/album/4lsszip8gEvULzZTTThGnS) | 4:04 |
-| 51 | [dontstopme!](https://open.spotify.com/track/60tToQgGBi2ZxHLMqkcy5h) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [kidsgonemad!](https://open.spotify.com/album/2O3rWF27iqSzozxnVfPkXA) | 3:41 |
+| 50 | [dontstopme!](https://open.spotify.com/track/60tToQgGBi2ZxHLMqkcy5h) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [kidsgonemad!](https://open.spotify.com/album/2O3rWF27iqSzozxnVfPkXA) | 3:41 |
+| 51 | [Slow Burn](https://open.spotify.com/track/1AfA0K7BLxceH7PjzcZdZc) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Elayna Boynton](https://open.spotify.com/artist/5wr3WZArcItaxXddR07nJv) | [The Return of House Music](https://open.spotify.com/album/4lsszip8gEvULzZTTThGnS) | 4:04 |
 | 52 | [Kaleidoscope \(Feat\. Crystalline\)](https://open.spotify.com/track/10dLRZ7GCIXEuUuONkNcxI) | [Champagne Drip](https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f), [Crystalline](https://open.spotify.com/artist/4NRLMX0IRHkm2qI1WFLxHZ) | [Starman](https://open.spotify.com/album/1ICtb6Z2tf7ZgVZy9VTp8Z) | 3:31 |
 | 53 | [Forget It \(feat\. Oliver Tree\)](https://open.spotify.com/track/2xo44UuPdAFzaVMSX95suy) | [Getter](https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Radical Dude!](https://open.spotify.com/album/4MvN5DwEU0CPHL92VKSgkz) | 3:32 |
 | 54 | [Fresh Outta Japan](https://open.spotify.com/track/0eGiT6tI2kdeAuYEUpA57a) | [Yasko](https://open.spotify.com/artist/3rwCnThUOxkAUtru94z9NS) | [Fresh Outta Japan](https://open.spotify.com/album/5rMlc1LrPHNxXH9VzlMw1i) | 1:56 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 94 | [Love Hotel](https://open.spotify.com/track/3D5T9c0O7IE2uM0pU4Q5SN) | [barnacle boi](https://open.spotify.com/artist/6psDObCnL4BfpwqYzE0Dzu) | [Love Hotel](https://open.spotify.com/album/70Bek9HrCmMAku4HmZd0Sl) | 3:23 |
 | 95 | [Red Ish](https://open.spotify.com/track/6O8U8Biv6ztOLUcQPBEW1P) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv) | [Moving Points](https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE) | 2:01 |
 | 96 | [LOUD](https://open.spotify.com/track/4gWvFjp9fFZ77mOW5FUaDh) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Runnit](https://open.spotify.com/artist/0kojSSqjZ9LAAHpNwYObKb) | [LOUD](https://open.spotify.com/album/20YsYld8q3KoVj8uT7kHGK) | 2:45 |
-| 97 | [Trust](https://open.spotify.com/track/3kJ4a4eMZ6pg51DW7lhZyO) | [Eprom](https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi) | [Trust](https://open.spotify.com/album/3EhdaJvRBADR4RKhY7jpsg) | 2:53 |
-| 98 | [Twitter](https://open.spotify.com/track/45NRSkN11nKunCO8gwswug) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Syaqish](https://open.spotify.com/artist/0rjNEyvqvYCFdCG2a3Y2yq) | [Twitter](https://open.spotify.com/album/1Wx5ndC4uft7G0V3DwY9Cu) | 2:45 |
+| 97 | [Twitter](https://open.spotify.com/track/45NRSkN11nKunCO8gwswug) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Syaqish](https://open.spotify.com/artist/0rjNEyvqvYCFdCG2a3Y2yq) | [Twitter](https://open.spotify.com/album/1Wx5ndC4uft7G0V3DwY9Cu) | 2:45 |
+| 98 | [Trust](https://open.spotify.com/track/3kJ4a4eMZ6pg51DW7lhZyO) | [Eprom](https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi) | [Trust](https://open.spotify.com/album/3EhdaJvRBADR4RKhY7jpsg) | 2:53 |
 | 99 | [In Motion \(feat\. Reo Cragun\)](https://open.spotify.com/track/53d5dxYPtRLPmqPe9VpZ67) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy), [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u) | [In Motion](https://open.spotify.com/album/71lqyPEsdWsJhqYhylY1vy) | 3:01 |
 | 100 | [Rumor](https://open.spotify.com/track/2QC2PTvF3yONXlvih301aR) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [WYN](https://open.spotify.com/artist/1mFo3mR5ZWTQbNg1RgWj2D) | [Rumor](https://open.spotify.com/album/2vEarBohKW4xTClQB24GHh) | 4:38 |
 
-Snapshot ID: `MCxiOTdlZTA0ODQzMDI1ZTVjMWZmMTZhYWFhN2VlNWExZjY4NmNlMmVh`
+Snapshot ID: `MCw0NTk3YjQ5Y2U5YmFiNmQxZWU3MzJiNGRmN2NjMjBkYzhhYWVlMjRi`

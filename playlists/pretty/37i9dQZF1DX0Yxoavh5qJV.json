@@ -1,12 +1,12 @@
 {
   "description": "The biggest Christmas songs of all time.",
-  "num_followers": 5416497,
+  "num_followers": 5425116,
   "original_name": "Christmas Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDhjNTJjOGZmZTYxZjJkYTE0ZmY0MmQ0YzE0Mzc3MzcxYjE2Y2Ix",
+  "snapshot_id": "MCw4MTg2OGEyNTkzNTc0MTAzMWFkNTM2MDUzODMwYjgwN2IxNjc4MmQy",
   "tracks": [
     {
       "added_at": "2023-11-26 03:51:47",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-11-26 03:51:47",
       "album": {
-        "name": "Christmas Kisses",
-        "url": "https://open.spotify.com/album/5MfeQZrrNfMqcaq03U9qOr"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 203653,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/5xDrO9DEDJGUQGfyoHvgDJ"
-    },
-    {
-      "added_at": "2023-11-26 03:51:47",
-      "album": {
         "name": "Jingle Bell Rock",
         "url": "https://open.spotify.com/album/46RzcdoDpVi5UcRLML218R"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 118840,
       "name": "Little Saint Nick - 1991 Remix",
       "url": "https://open.spotify.com/track/5xlS0QkVrSH7ssEbBgBzbM"
+    },
+    {
+      "added_at": "2023-11-26 03:51:47",
+      "album": {
+        "name": "Christmas Kisses",
+        "url": "https://open.spotify.com/album/5MfeQZrrNfMqcaq03U9qOr"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 203653,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/5xDrO9DEDJGUQGfyoHvgDJ"
     },
     {
       "added_at": "2023-11-26 03:51:47",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2023-11-26 03:51:47",
       "album": {
-        "name": "'Tis The Season",
-        "url": "https://open.spotify.com/album/15q3oOSeIVFQeAtwKWiWcn"
-      },
-      "artists": [
-        {
-          "name": "Jordan Smith",
-          "url": "https://open.spotify.com/artist/6TV0LZ3BaEun0OQEh96elP"
-        }
-      ],
-      "duration_ms": 211453,
-      "name": "Grown-Up Christmas List",
-      "url": "https://open.spotify.com/track/1h9QQ7e222OSr93MRiMqGZ"
-    },
-    {
-      "added_at": "2023-11-26 03:51:47",
-      "album": {
         "name": "Jingle Bells",
         "url": "https://open.spotify.com/album/5NlA5cPHtHxIMOO9tqH7ar"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 169293,
       "name": "Someday At Christmas",
       "url": "https://open.spotify.com/track/0GMbNoVqoycx9qd9ggIP8V"
+    },
+    {
+      "added_at": "2023-11-26 03:51:47",
+      "album": {
+        "name": "'Tis The Season",
+        "url": "https://open.spotify.com/album/15q3oOSeIVFQeAtwKWiWcn"
+      },
+      "artists": [
+        {
+          "name": "Jordan Smith",
+          "url": "https://open.spotify.com/artist/6TV0LZ3BaEun0OQEh96elP"
+        }
+      ],
+      "duration_ms": 211453,
+      "name": "Grown-Up Christmas List",
+      "url": "https://open.spotify.com/track/1h9QQ7e222OSr93MRiMqGZ"
     }
   ],
   "unique_name": "Christmas Hits",

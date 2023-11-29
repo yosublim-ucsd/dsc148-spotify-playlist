@@ -4,7 +4,7 @@
 
 > This week's best new metal & hard rock tracks\. Cover: Dead by April
 
-5,151 songs - 14 day 13 hr 13 min
+5,152 songs - 14 day 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4683,7 +4683,8 @@
 | [Trust](https://open.spotify.com/track/0412bBdU9HRB4N9AtKJkau) | [Arrival Of Autumn](https://open.spotify.com/artist/6OLm78czd7Y80yrzwAb7FK) | [Kingdom Undone](https://open.spotify.com/album/1BgbF6IhAFeGYFoi9FFSHX) | 2:59 | 2023-05-26 | 2023-06-03 |
 | [Truth In Fire](https://open.spotify.com/track/1r4tqAlRva24jNsPBoIhIp) | [Baritus](https://open.spotify.com/artist/4m7vFtJZtkeFQfJVbiQBRe), [Kourt Henson](https://open.spotify.com/artist/5ks9IdXVMUyjaEHTTSNpJ3) | [Truth In Fire](https://open.spotify.com/album/6bbFVzj3MRyKm07ZraEVre) | 4:10 | 2023-01-06 | 2023-01-14 |
 | [Try](https://open.spotify.com/track/232vqvh7dvcYQ075BPr73N) | [April Art](https://open.spotify.com/artist/5SIU6vqESwt2muetzRSX7f) | [Try](https://open.spotify.com/album/4YExN2sehqeOO6keG04mzf) | 3:09 | 2022-09-23 | 2022-10-01 |
-| [Try Harder](https://open.spotify.com/track/7z4nnsUDk44Zm4RUu4GMRv) | [Noturnall](https://open.spotify.com/artist/7xRCuSBEiVCIJWCSIYQ7Ni) | [Cosmic Redemption](https://open.spotify.com/album/2wyc3ogW0vcvDPqrob4U7k) | 4:51 | 2023-11-24 |  |
+| [Try Harder](https://open.spotify.com/track/1cF7FapYO7JXauDpUNNkJ1) | [Noturnall](https://open.spotify.com/artist/7xRCuSBEiVCIJWCSIYQ7Ni) | [Cosmic Redemption](https://open.spotify.com/album/1IjtCTvSSbIxy8AXIuS3y1) | 4:51 | 2023-11-24 |  |
+| [Try Harder](https://open.spotify.com/track/7z4nnsUDk44Zm4RUu4GMRv) | [Noturnall](https://open.spotify.com/artist/7xRCuSBEiVCIJWCSIYQ7Ni) | [Cosmic Redemption](https://open.spotify.com/album/2wyc3ogW0vcvDPqrob4U7k) | 4:51 | 2023-11-24 | 2023-11-29 |
 | [Tumors](https://open.spotify.com/track/0teUHAusyEOEI9EPepLaPn) | [Go Ahead And Die](https://open.spotify.com/artist/3VvvNtwzaS0dyqr13Pa113) | [Tumors](https://open.spotify.com/album/2HlWZXMhA1QXty0WhcDPRn) | 4:04 | 2023-08-25 | 2023-09-02 |
 | [Tunnel Vision](https://open.spotify.com/track/0RxvS6KLWG0SYqQJnhHIpM) | [Jesus Piece](https://open.spotify.com/artist/5ZPr0RHsR3DrAhtsYMsfHR) | [Tunnel Vision](https://open.spotify.com/album/1GZ2py8wHv4xPTfTFmlfmz) | 3:22 | 2023-02-17 | 2023-02-25 |
 | [Tunnels to God](https://open.spotify.com/track/5tv8tnLaYLqEAqyCfb7tjN) | [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz), [Primitive Man](https://open.spotify.com/artist/3XmsLcTDR20TF8CGBThNEx) | [Tunnels to God](https://open.spotify.com/album/7uAidSfsq30KuUAu2UeQO6) | 11:28 | 2023-02-17 | 2023-02-25 |

@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Cami.",
-  "num_followers": 761492,
+  "num_followers": 761478,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzU0NjRiNWViMjg3MjQ5MjEyNjRiZjViY2VmNjEyZWVlY2UyOTEw",
+  "snapshot_id": "MCxlODc5N2Q3MTdkZjkyZGMyZjQ2ZDRkZDA4NTVlOGI1MzMyYzQ3ZjE3",
   "tracks": [
     {
       "added_at": "2023-11-24 06:54:48",
@@ -91,26 +91,6 @@
     {
       "added_at": "2023-11-24 06:54:48",
       "album": {
-        "name": "SUSTANCIAS EN MI CORAZON",
-        "url": "https://open.spotify.com/album/0a1zYmCcd5TcBtcNhQS7nK"
-      },
-      "artists": [
-        {
-          "name": "STRANGEHUMAN",
-          "url": "https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 196875,
-      "name": "SUSTANCIAS EN MI CORAZON",
-      "url": "https://open.spotify.com/track/1zY3UlKOpFLZJNOYjBI6Ak"
-    },
-    {
-      "added_at": "2023-11-24 06:54:48",
-      "album": {
         "name": "DATA",
         "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
       },
@@ -131,6 +111,26 @@
       "duration_ms": 175192,
       "name": "ma\u00f1ana",
       "url": "https://open.spotify.com/track/6eSlDHA3XYLha1e0z8I9DO"
+    },
+    {
+      "added_at": "2023-11-24 06:54:48",
+      "album": {
+        "name": "SUSTANCIAS EN MI CORAZON",
+        "url": "https://open.spotify.com/album/0a1zYmCcd5TcBtcNhQS7nK"
+      },
+      "artists": [
+        {
+          "name": "STRANGEHUMAN",
+          "url": "https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 196875,
+      "name": "SUSTANCIAS EN MI CORAZON",
+      "url": "https://open.spotify.com/track/1zY3UlKOpFLZJNOYjBI6Ak"
     },
     {
       "added_at": "2023-11-24 06:54:48",
@@ -299,6 +299,22 @@
     {
       "added_at": "2023-11-24 06:54:48",
       "album": {
+        "name": "Palabra Prohibida",
+        "url": "https://open.spotify.com/album/0SL3CXA1AkeE9i8mlaCCRZ"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "duration_ms": 176881,
+      "name": "Palabra Prohibida",
+      "url": "https://open.spotify.com/track/4sRulaggpSTT3mLCZsaJ5v"
+    },
+    {
+      "added_at": "2023-11-24 06:54:48",
+      "album": {
         "name": "Coastin' (with Alem\u00e1n)",
         "url": "https://open.spotify.com/album/1Vxwqwvz1yO72jFTQ7O5aH"
       },
@@ -319,22 +335,6 @@
     {
       "added_at": "2023-11-24 06:54:48",
       "album": {
-        "name": "Palabra Prohibida",
-        "url": "https://open.spotify.com/album/0SL3CXA1AkeE9i8mlaCCRZ"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        }
-      ],
-      "duration_ms": 176881,
-      "name": "Palabra Prohibida",
-      "url": "https://open.spotify.com/track/4sRulaggpSTT3mLCZsaJ5v"
-    },
-    {
-      "added_at": "2023-11-24 06:54:48",
-      "album": {
         "name": "\u00bfQui\u00e9n trae las cornetas?",
         "url": "https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3"
       },
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-11-24 06:54:48",
       "album": {
-        "name": "Madres",
-        "url": "https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 204067,
-      "name": "Habla Con Ella",
-      "url": "https://open.spotify.com/track/6HMTox9UW3BxOUi8BlMVgk"
-    },
-    {
-      "added_at": "2023-11-24 06:54:48",
-      "album": {
         "name": "de mi pa ti",
         "url": "https://open.spotify.com/album/7gq4G8BuMxSeLAePv3r30l"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 206351,
       "name": "de mi pa ti",
       "url": "https://open.spotify.com/track/5VUiGfYomtEI1dP8wDdQSW"
+    },
+    {
+      "added_at": "2023-11-24 06:54:48",
+      "album": {
+        "name": "Madres",
+        "url": "https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 204067,
+      "name": "Habla Con Ella",
+      "url": "https://open.spotify.com/track/6HMTox9UW3BxOUi8BlMVgk"
     },
     {
       "added_at": "2023-11-24 06:54:48",
@@ -531,26 +531,6 @@
     {
       "added_at": "2023-11-24 06:54:48",
       "album": {
-        "name": "SUPERNOVA",
-        "url": "https://open.spotify.com/album/7KdsjQmMyF9B25UqADi117"
-      },
-      "artists": [
-        {
-          "name": "Ralphie Choo",
-          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
-        },
-        {
-          "name": "mori",
-          "url": "https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX"
-        }
-      ],
-      "duration_ms": 203999,
-      "name": "WCID?",
-      "url": "https://open.spotify.com/track/4mwQi413D8omgjFXRnaA4u"
-    },
-    {
-      "added_at": "2023-11-24 06:54:48",
-      "album": {
         "name": "Chispeo ft. Ovy On The Drums - Spotify Singles",
         "url": "https://open.spotify.com/album/19bgWVSbdr6hodfxeJd4wU"
       },
@@ -571,34 +551,22 @@
     {
       "added_at": "2023-11-24 06:54:48",
       "album": {
-        "name": "Numb The Pain",
-        "url": "https://open.spotify.com/album/2K5CPa1TIUwi9EE8KYwdCv"
+        "name": "SUPERNOVA",
+        "url": "https://open.spotify.com/album/7KdsjQmMyF9B25UqADi117"
       },
       "artists": [
         {
-          "name": "A.CHAL",
-          "url": "https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4"
-        }
-      ],
-      "duration_ms": 206116,
-      "name": "Numb The Pain",
-      "url": "https://open.spotify.com/track/79Chy1FyRUT1GXvPS22OPe"
-    },
-    {
-      "added_at": "2023-11-24 06:54:48",
-      "album": {
-        "name": "oggy",
-        "url": "https://open.spotify.com/album/72w1hO2b0fLm1yJnBwahAN"
-      },
-      "artists": [
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+        },
         {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+          "name": "mori",
+          "url": "https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX"
         }
       ],
-      "duration_ms": 128618,
-      "name": "oggy",
-      "url": "https://open.spotify.com/track/0v9ujRJ4jHLOdENX8n4Jft"
+      "duration_ms": 203999,
+      "name": "WCID?",
+      "url": "https://open.spotify.com/track/4mwQi413D8omgjFXRnaA4u"
     },
     {
       "added_at": "2023-11-24 06:54:48",
@@ -623,6 +591,38 @@
     {
       "added_at": "2023-11-24 06:54:48",
       "album": {
+        "name": "oggy",
+        "url": "https://open.spotify.com/album/72w1hO2b0fLm1yJnBwahAN"
+      },
+      "artists": [
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        }
+      ],
+      "duration_ms": 128618,
+      "name": "oggy",
+      "url": "https://open.spotify.com/track/0v9ujRJ4jHLOdENX8n4Jft"
+    },
+    {
+      "added_at": "2023-11-24 06:54:48",
+      "album": {
+        "name": "Numb The Pain",
+        "url": "https://open.spotify.com/album/2K5CPa1TIUwi9EE8KYwdCv"
+      },
+      "artists": [
+        {
+          "name": "A.CHAL",
+          "url": "https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4"
+        }
+      ],
+      "duration_ms": 206116,
+      "name": "Numb The Pain",
+      "url": "https://open.spotify.com/track/79Chy1FyRUT1GXvPS22OPe"
+    },
+    {
+      "added_at": "2023-11-24 06:54:48",
+      "album": {
         "name": "Mam\u00e1 Flor",
         "url": "https://open.spotify.com/album/2Kh4wcnhEPSbbrExSSpOOz"
       },
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-11-24 06:54:48",
       "album": {
-        "name": "Venus & Blue",
-        "url": "https://open.spotify.com/album/2XaK73raIk4BKq0cNXVlw1"
-      },
-      "artists": [
-        {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
-        }
-      ],
-      "duration_ms": 190679,
-      "name": "Llorar",
-      "url": "https://open.spotify.com/track/4iDwj7K2LsUW2HFf5UdzYI"
-    },
-    {
-      "added_at": "2023-11-24 06:54:48",
-      "album": {
         "name": "Nervios de Acero",
         "url": "https://open.spotify.com/album/0Q1CgNC7kxF5R1Ln5LfTO2"
       },
@@ -667,6 +651,38 @@
       "duration_ms": 187368,
       "name": "Nervios de Acero",
       "url": "https://open.spotify.com/track/5AtOFc69R8iYQlShJoXB3n"
+    },
+    {
+      "added_at": "2023-11-24 06:54:48",
+      "album": {
+        "name": "Gualero REFF12.31",
+        "url": "https://open.spotify.com/album/17FImqLfr4kV6VhWh5fXdH"
+      },
+      "artists": [
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        }
+      ],
+      "duration_ms": 201626,
+      "name": "Gualero REFF12.31",
+      "url": "https://open.spotify.com/track/2gKLtFP8HSTPfPshO0GsuM"
+    },
+    {
+      "added_at": "2023-11-24 06:54:48",
+      "album": {
+        "name": "Venus & Blue",
+        "url": "https://open.spotify.com/album/2XaK73raIk4BKq0cNXVlw1"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "duration_ms": 190679,
+      "name": "Llorar",
+      "url": "https://open.spotify.com/track/4iDwj7K2LsUW2HFf5UdzYI"
     },
     {
       "added_at": "2023-11-24 06:54:48",
@@ -703,38 +719,6 @@
     {
       "added_at": "2023-11-24 06:54:48",
       "album": {
-        "name": "Gualero REFF12.31",
-        "url": "https://open.spotify.com/album/17FImqLfr4kV6VhWh5fXdH"
-      },
-      "artists": [
-        {
-          "name": "RaiNao",
-          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
-        }
-      ],
-      "duration_ms": 201626,
-      "name": "Gualero REFF12.31",
-      "url": "https://open.spotify.com/track/2gKLtFP8HSTPfPshO0GsuM"
-    },
-    {
-      "added_at": "2023-11-24 06:54:48",
-      "album": {
-        "name": "Walk On Everything",
-        "url": "https://open.spotify.com/album/0b7CilPsEiOZHiGwdyV3bK"
-      },
-      "artists": [
-        {
-          "name": "A.CHAL",
-          "url": "https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4"
-        }
-      ],
-      "duration_ms": 177341,
-      "name": "Walk On Everything",
-      "url": "https://open.spotify.com/track/4eUxbmrkFkUBZBntLYIwHq"
-    },
-    {
-      "added_at": "2023-11-24 06:54:48",
-      "album": {
         "name": "Bolero Apocal\u00edptico (Deluxe Version)",
         "url": "https://open.spotify.com/album/6TLARwYU6FpUDAA3nxtKM0"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 158643,
       "name": "Mi\u00e9nteme",
       "url": "https://open.spotify.com/track/2Ach6TMHHih48PYNszSQzP"
+    },
+    {
+      "added_at": "2023-11-24 06:54:48",
+      "album": {
+        "name": "Walk On Everything",
+        "url": "https://open.spotify.com/album/0b7CilPsEiOZHiGwdyV3bK"
+      },
+      "artists": [
+        {
+          "name": "A.CHAL",
+          "url": "https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4"
+        }
+      ],
+      "duration_ms": 177341,
+      "name": "Walk On Everything",
+      "url": "https://open.spotify.com/track/4eUxbmrkFkUBZBntLYIwHq"
     },
     {
       "added_at": "2023-11-24 06:54:48",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-11-24 06:54:48",
       "album": {
+        "name": "luchador ep",
+        "url": "https://open.spotify.com/album/3oaIJcAqtbu6NMzcpFgLk0"
+      },
+      "artists": [
+        {
+          "name": "adan diaz",
+          "url": "https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP"
+        }
+      ],
+      "duration_ms": 142153,
+      "name": "luchador",
+      "url": "https://open.spotify.com/track/32NwtN9F0vSxTOZQpMIuJZ"
+    },
+    {
+      "added_at": "2023-11-24 06:54:48",
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/3ofWk0ZjZQNmhsjlVud2y9"
       },
@@ -863,34 +879,18 @@
     {
       "added_at": "2023-11-24 06:54:48",
       "album": {
-        "name": "luchador ep",
-        "url": "https://open.spotify.com/album/3oaIJcAqtbu6NMzcpFgLk0"
+        "name": "GRANDE",
+        "url": "https://open.spotify.com/album/6cV5ziMH2KfyIxxooKNA4L"
       },
       "artists": [
         {
-          "name": "adan diaz",
-          "url": "https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP"
+          "name": "Maria Blaya",
+          "url": "https://open.spotify.com/artist/0Ln3BisQiL0t2w7bsmju75"
         }
       ],
-      "duration_ms": 142153,
-      "name": "luchador",
-      "url": "https://open.spotify.com/track/32NwtN9F0vSxTOZQpMIuJZ"
-    },
-    {
-      "added_at": "2023-11-24 06:54:48",
-      "album": {
-        "name": "Silvia",
-        "url": "https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 202359,
-      "name": "Barbed Wire",
-      "url": "https://open.spotify.com/track/0Q5D0qPpJ30jLY9l5GK5Dm"
+      "duration_ms": 148790,
+      "name": "DEMONIO",
+      "url": "https://open.spotify.com/track/6FQ4GVuaq7hTsFcSh7mqMZ"
     }
   ],
   "unique_name": "Mixto",

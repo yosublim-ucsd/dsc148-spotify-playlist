@@ -2778,7 +2778,7 @@
     {
       "album": {
         "name": "Ka Na Wu",
-        "url": "https://open.spotify.com/album/4WjFmcus19qITkG4kvNWj4"
+        "url": "https://open.spotify.com/album/4KCA3hHpLmH1Rm2uCGVURz"
       },
       "artists": [
         {
@@ -2797,6 +2797,32 @@
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 168960,
+      "name": "Tell 'Em To Shut Up",
+      "url": "https://open.spotify.com/track/1M65D5LXMUNiMXka5Hf2oB"
+    },
+    {
+      "album": {
+        "name": "Ka Na Wu",
+        "url": "https://open.spotify.com/album/4WjFmcus19qITkG4kvNWj4"
+      },
+      "artists": [
+        {
+          "name": "Pappy Kojo",
+          "url": "https://open.spotify.com/artist/05wqlCGQReohsxStVBR052"
+        },
+        {
+          "name": "Reggie",
+          "url": "https://open.spotify.com/artist/65ZsNUD4VR9tanQXJeMxt1"
+        },
+        {
+          "name": "Skyface SDW",
+          "url": "https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-29",
       "duration_ms": 168960,
       "name": "Tell 'Em To Shut Up (feat. Reggie & Skyface Sdw)",
       "url": "https://open.spotify.com/track/0yVzC9Bvpi9BhgpP5Nb9dK"

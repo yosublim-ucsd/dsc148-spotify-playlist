@@ -4,7 +4,7 @@
 
 > Only the best in South African and international RnB\. Cover: <a href="https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop?si=MOpECg8OT7\-Y1aQy5VUsJA">Langa Mavuso</a>
 
-102 songs - 5 hr 23 min
+103 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [project \- A COLORS SHOW](https://open.spotify.com/track/0ZgroOYQAUzfcQYS6wibf9) | [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [project \- A COLORS SHOW](https://open.spotify.com/album/5tHWyhdLYInrDivcSPWpnC) | 3:28 | 2023-11-23 |  |
 | [PURPLE SLUSHIES](https://open.spotify.com/track/3igf2ZaBhLdgVi7hQLXI5Z) | [Fentse.](https://open.spotify.com/artist/4ze7a3Hlh8YVc31qs0EHHc) | [Therapy Is Cancelled](https://open.spotify.com/album/4nUOULl5gl3Dr0velwTNFs) | 4:01 | 2023-10-12 | 2023-10-20 |
 | [Range 95’](https://open.spotify.com/track/5f1hCTY2bQk6rVbr9N0AzG) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [I Came Home Late](https://open.spotify.com/album/2Py2P92ndsLK4oQnbhhRud) | 2:59 | 2023-10-12 |  |
-| [She'll Be Ok](https://open.spotify.com/track/0jTkg3fBydDh9jLEFMzigq) | [4Fargo](https://open.spotify.com/artist/33FcjtLCwlwxV9ImxJX2iK) | [She'll Be Ok](https://open.spotify.com/album/0e6YzmXeaJawQCn44jlqyV) | 2:10 | 2023-10-12 |  |
+| [She'll Be OK](https://open.spotify.com/track/1Aqw1EAisB2KYrE8m4pQqN) | [4Fargo](https://open.spotify.com/artist/33FcjtLCwlwxV9ImxJX2iK) | [She'll Be OK](https://open.spotify.com/album/04XpFnF73mrCeMAyjqFTYg) | 2:10 | 2023-11-23 |  |
+| [She'll Be Ok](https://open.spotify.com/track/0jTkg3fBydDh9jLEFMzigq) | [4Fargo](https://open.spotify.com/artist/33FcjtLCwlwxV9ImxJX2iK) | [She'll Be Ok](https://open.spotify.com/album/0e6YzmXeaJawQCn44jlqyV) | 2:10 | 2023-10-12 | 2023-11-29 |
 | [Show Me Love](https://open.spotify.com/track/39KMqRO39T7yjijC8Hbkkg) | [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri), [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88) | [Show Me Love](https://open.spotify.com/album/0GnipIQCgYKtWD6BP0xYie) | 3:13 | 2023-11-03 |  |
 | [Shows N Hoes](https://open.spotify.com/track/0sTAmXCitR7fOKkVUOZAzD) | [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [Shows N Hoes](https://open.spotify.com/album/1YsHvmgHdbPy1td3LVNzAX) | 4:14 | 2023-10-12 | 2023-10-27 |
 | [Smoke \(feat\. Lucky Daye\)](https://open.spotify.com/track/1Zej3ztnuVElDfYGYBBhJP) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 3:07 | 2023-10-12 |  |

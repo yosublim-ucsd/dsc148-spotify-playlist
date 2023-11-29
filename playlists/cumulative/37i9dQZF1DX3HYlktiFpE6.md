@@ -4,7 +4,7 @@
 
 > Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more\. Just sing it! Cover: Pentatonix
 
-162 songs - 8 hr 43 min
+163 songs - 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [Let It Go](https://open.spotify.com/track/3WgDY81htmhTtSh7VWIl60) | [The Clef Hangers](https://open.spotify.com/artist/5wUTXZIMX0mn6MzFA13qfO) | [Fixate](https://open.spotify.com/album/2wDs6jkrCEPBJLnLLFWt7J) | 4:23 | 2021-12-24 | 2022-07-29 |
 | [Let It Go](https://open.spotify.com/track/3bodx5kX7N9H6ReZCq3jfW) | [The Clef Hangers](https://open.spotify.com/artist/5wUTXZIMX0mn6MzFA13qfO) | [Fixate](https://open.spotify.com/album/0oEzIkczK5Il84fdaxVpfK) | 4:23 | 2021-12-24 |  |
 | [Let It Go \- Single Version](https://open.spotify.com/track/477Yon8OMSZpcKC7b8Ae5y) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [Let It Go](https://open.spotify.com/album/6bkOVixmGpSggcyGDLnYbW) | 3:40 | 2021-12-24 |  |
-| [Life is a Highway \- Home Free's Version](https://open.spotify.com/track/7nfcplt8hszPHYv0ECiPdg) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [Life is a Highway \(Home Free's Version\)](https://open.spotify.com/album/62a9OZQr3Kczzt0tY1c1Dh) | 3:18 | 2023-10-20 |  |
+| [Life is a Highway \- Home Free's Version](https://open.spotify.com/track/7jSnvJoGBmUxoCkvaRfxGr) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [As Seen On TV](https://open.spotify.com/album/482bj82Je6J3tdvu758sOX) | 3:18 | 2023-10-20 |  |
+| [Life is a Highway \- Home Free's Version](https://open.spotify.com/track/7nfcplt8hszPHYv0ECiPdg) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [Life is a Highway \(Home Free's Version\)](https://open.spotify.com/album/62a9OZQr3Kczzt0tY1c1Dh) | 3:18 | 2023-10-20 | 2023-11-29 |
 | [Light On](https://open.spotify.com/track/2dDef6SYUfApGRxhREFfxd) | [The Virginia Gentlemen](https://open.spotify.com/artist/0steWfkS4hwaErh84SlHMW) | [Pasta Nights](https://open.spotify.com/album/0qLX5MqJJGCO7QecwlD1xv) | 3:57 | 2023-05-03 |  |
 | [Livin' on a Prayer](https://open.spotify.com/track/4EVVMoQctdBaexwDDztSZT) | [Hyannis Sound](https://open.spotify.com/artist/4lEFWJCOBV28nMF30Kqr9p) | [Livin' on a Prayer](https://open.spotify.com/album/5CugPAjyMBKYgr6shXf0vn) | 4:15 | 2023-07-28 |  |
 | [Love The Way You Lie](https://open.spotify.com/track/6bOFuQmZdmvre9pwOsuTzd) | [Urban Method](https://open.spotify.com/artist/4ZPJfyYZ239ucep2OC8qzs) | [The Sing\-Off: Season 3: Episode 1 \- Signature Songs](https://open.spotify.com/album/6QOq1vvaRJxVzDFS1GBN3S) | 2:38 | 2021-12-24 |  |

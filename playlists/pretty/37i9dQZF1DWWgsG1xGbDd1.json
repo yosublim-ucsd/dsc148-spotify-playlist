@@ -1,12 +1,12 @@
 {
   "description": "You feel the sun on your face. ",
-  "num_followers": 124907,
+  "num_followers": 124966,
   "original_name": "Vintage Vibes: Sunny Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTQ1MzQwMWNlZDBiZjQ0ODBjMWU0ZWM1ODEyMzhlNzJiNGYwYTQ0",
+  "snapshot_id": "MCwyYWU5ZWNjYjViZTAyMDEwNjU3MTdkYTYzNWRiMWE1MWI0MTMxYmM3",
   "tracks": [
     {
       "added_at": "2021-04-23 09:55:04",
@@ -219,6 +219,22 @@
     {
       "added_at": "2021-04-23 09:55:04",
       "album": {
+        "name": "Fat Back Ska, Vol. 2",
+        "url": "https://open.spotify.com/album/5QGdLISCEC2ttoanO2VKFw"
+      },
+      "artists": [
+        {
+          "name": "The Soul Brothers",
+          "url": "https://open.spotify.com/artist/3isQPVgtrl9CewKkyRPjBq"
+        }
+      ],
+      "duration_ms": 250360,
+      "name": "Freedom Sounds",
+      "url": "https://open.spotify.com/track/7DEq4R8yj8rsuRMI6e1OHw"
+    },
+    {
+      "added_at": "2021-04-23 09:55:04",
+      "album": {
         "name": "Natural High: The Bongo Man Collection",
         "url": "https://open.spotify.com/album/0LgCSVBOq8Ztb2iganefyS"
       },
@@ -251,22 +267,6 @@
     {
       "added_at": "2021-04-23 09:55:04",
       "album": {
-        "name": "Dancing the Ska",
-        "url": "https://open.spotify.com/album/6uoQ5sCHsjfbWIHYkojaPm"
-      },
-      "artists": [
-        {
-          "name": "Rita Marley",
-          "url": "https://open.spotify.com/artist/13Kn0OI9oXhBDXClb1hGy3"
-        }
-      ],
-      "duration_ms": 121470,
-      "name": "Call to Me (aka Come to Me)",
-      "url": "https://open.spotify.com/track/5yMXY2QCnkeggMgLSOaqR0"
-    },
-    {
-      "added_at": "2021-04-23 09:55:04",
-      "album": {
         "name": "Exodus",
         "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
       },
@@ -283,18 +283,18 @@
     {
       "added_at": "2021-04-23 09:55:04",
       "album": {
-        "name": "Fat Back Ska, Vol. 2",
-        "url": "https://open.spotify.com/album/5QGdLISCEC2ttoanO2VKFw"
+        "name": "Dancing the Ska",
+        "url": "https://open.spotify.com/album/6uoQ5sCHsjfbWIHYkojaPm"
       },
       "artists": [
         {
-          "name": "The Soul Brothers",
-          "url": "https://open.spotify.com/artist/3isQPVgtrl9CewKkyRPjBq"
+          "name": "Rita Marley",
+          "url": "https://open.spotify.com/artist/13Kn0OI9oXhBDXClb1hGy3"
         }
       ],
-      "duration_ms": 250360,
-      "name": "Freedom Sounds",
-      "url": "https://open.spotify.com/track/7DEq4R8yj8rsuRMI6e1OHw"
+      "duration_ms": 121470,
+      "name": "Call to Me (aka Come to Me)",
+      "url": "https://open.spotify.com/track/5yMXY2QCnkeggMgLSOaqR0"
     },
     {
       "added_at": "2021-04-23 09:55:04",

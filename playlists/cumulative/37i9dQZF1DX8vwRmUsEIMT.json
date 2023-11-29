@@ -9806,10 +9806,28 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 147716,
       "name": "Firebreak - Edit",
       "url": "https://open.spotify.com/track/3gjz9ut5aKi3quFgb4c2EU"
+    },
+    {
+      "album": {
+        "name": "Firebreak",
+        "url": "https://open.spotify.com/album/3OBXMr3YKWecqcRO1Ay6Vv"
+      },
+      "artists": [
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147716,
+      "name": "Firebreak - Edit",
+      "url": "https://open.spotify.com/track/5eD7gQPf53vmuQ0Ka6KUdb"
     },
     {
       "album": {

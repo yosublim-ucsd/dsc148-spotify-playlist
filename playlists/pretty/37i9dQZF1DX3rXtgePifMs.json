@@ -1,12 +1,12 @@
 {
   "description": "The official EA SPORTS FC 24 Soundtrack.",
-  "num_followers": 69580,
+  "num_followers": 69765,
   "original_name": "EA SPORTS FC 24 Official Soundtrack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDI2MGUyNGNiYTI3ZTZkZmUyYjQ1MzY1ODZjMjM1MGIxNjhiM2E4",
+  "snapshot_id": "MCw4Y2Q4YjM4ZTFkNmQ2MTYyMzlmNTEzZmNlZmUwNTg3NTFmMmFlNDUz",
   "tracks": [
     {
       "added_at": "2023-11-20 15:00:00",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/2cwwBz019F7hQwggBShXCv"
+      },
+      "artists": [
+        {
+          "name": "2hollis",
+          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
+        }
+      ],
+      "duration_ms": 121089,
+      "name": "poster boy",
+      "url": "https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "098RADIO vol.1 Hosted by Awich",
         "url": "https://open.spotify.com/album/6jQI4R1D8sk5YXQnSju44y"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 289846,
       "name": "RASEN in OKINAWA",
       "url": "https://open.spotify.com/track/6JDDIx1vSs5GvMZXsy2aR2"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/2cwwBz019F7hQwggBShXCv"
-      },
-      "artists": [
-        {
-          "name": "2hollis",
-          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
-        }
-      ],
-      "duration_ms": 121089,
-      "name": "poster boy",
-      "url": "https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Who Let Him In",
-        "url": "https://open.spotify.com/album/0TmS0p8Dvqk8ZnJ3ZqmQus"
-      },
-      "artists": [
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Who Let Him In",
-      "url": "https://open.spotify.com/track/3zKdTxoDlo5CT5HlqgUxJ3"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "Dreaming Of You",
         "url": "https://open.spotify.com/album/3qYlIJsZmQyM9K9CfSv9Ri"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 204137,
       "name": "Dreaming Of You",
       "url": "https://open.spotify.com/track/7iSNRfFHvHeYL3fq4Njqd9"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Who Let Him In",
+        "url": "https://open.spotify.com/album/0TmS0p8Dvqk8ZnJ3ZqmQus"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Who Let Him In",
+      "url": "https://open.spotify.com/track/3zKdTxoDlo5CT5HlqgUxJ3"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Move On",
-        "url": "https://open.spotify.com/album/3n3gvdhR2fkx9qXXPrIAi3"
-      },
-      "artists": [
-        {
-          "name": "FIDLAR",
-          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
-        }
-      ],
-      "duration_ms": 161800,
-      "name": "Move On",
-      "url": "https://open.spotify.com/track/1uD1DhAEZ2XzU8psOERt54"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "Panna Cotta",
         "url": "https://open.spotify.com/album/76bR8wlB1DS5iaKqFy3fWH"
       },
@@ -983,6 +967,42 @@
       "duration_ms": 177467,
       "name": "Complicated (feat. Young Franco)",
       "url": "https://open.spotify.com/track/2TdAhpmGqB1DhzI0Auo9lq"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Move On",
+        "url": "https://open.spotify.com/album/3n3gvdhR2fkx9qXXPrIAi3"
+      },
+      "artists": [
+        {
+          "name": "FIDLAR",
+          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
+        }
+      ],
+      "duration_ms": 161800,
+      "name": "Move On",
+      "url": "https://open.spotify.com/track/1uD1DhAEZ2XzU8psOERt54"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "no sleep in LA",
+        "url": "https://open.spotify.com/album/0mc08RF9UX2beSMEYxmNEe"
+      },
+      "artists": [
+        {
+          "name": "blackwave.",
+          "url": "https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD"
+        },
+        {
+          "name": "Lute",
+          "url": "https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK"
+        }
+      ],
+      "duration_ms": 212282,
+      "name": "cracked screen",
+      "url": "https://open.spotify.com/track/5tw5H51GeMaSBcD0CHKsBq"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1031,26 +1051,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "no sleep in LA",
-        "url": "https://open.spotify.com/album/0mc08RF9UX2beSMEYxmNEe"
-      },
-      "artists": [
-        {
-          "name": "blackwave.",
-          "url": "https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD"
-        },
-        {
-          "name": "Lute",
-          "url": "https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK"
-        }
-      ],
-      "duration_ms": 212282,
-      "name": "cracked screen",
-      "url": "https://open.spotify.com/track/5tw5H51GeMaSBcD0CHKsBq"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "TOMMY",
         "url": "https://open.spotify.com/album/0h7foJXJTQ5nADAZ6Bi9x1"
       },
@@ -1063,22 +1063,6 @@
       "duration_ms": 212521,
       "name": "TOMMY",
       "url": "https://open.spotify.com/track/2z0vNWVD3E6FCXZZkt58Po"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
-      },
-      "artists": [
-        {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
-        }
-      ],
-      "duration_ms": 243354,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/4ZyCS7eIVZBB4BIkF9UGfW"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1099,6 +1083,22 @@
       "duration_ms": 186222,
       "name": "Assumptions - Jengi Remix",
       "url": "https://open.spotify.com/track/3NaLD1DZ4U2VMf4WXci3Rt"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "duration_ms": 243354,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/4ZyCS7eIVZBB4BIkF9UGfW"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "denver luna (acappella)",
+        "url": "https://open.spotify.com/album/5jayItxgtL0rwZzJKwcr2G"
+      },
+      "artists": [
+        {
+          "name": "Underworld",
+          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
+        }
+      ],
+      "duration_ms": 147320,
+      "name": "denver luna (acappella)",
+      "url": "https://open.spotify.com/track/4hGgIWJLCzQpEyWvdbsf8q"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "Why You Waiting?",
         "url": "https://open.spotify.com/album/3czLQ2sjzql5WJQg7degVt"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 155071,
       "name": "Why You Waiting?",
       "url": "https://open.spotify.com/track/4NS6mjfccw3m9fPYLCKa53"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "denver luna (acappella)",
-        "url": "https://open.spotify.com/album/5jayItxgtL0rwZzJKwcr2G"
-      },
-      "artists": [
-        {
-          "name": "Underworld",
-          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
-        }
-      ],
-      "duration_ms": 147320,
-      "name": "denver luna (acappella)",
-      "url": "https://open.spotify.com/track/4hGgIWJLCzQpEyWvdbsf8q"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "FLATLINE",
-        "url": "https://open.spotify.com/album/68qY8pAl8uRX4XxzTJ64cf"
-      },
-      "artists": [
-        {
-          "name": "Frost Children",
-          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
-        }
-      ],
-      "duration_ms": 225883,
-      "name": "FLATLINE",
-      "url": "https://open.spotify.com/track/0i2RbagsiSkoYlyVyY06mj"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "Paragon Songs",
         "url": "https://open.spotify.com/album/0ugiYjbKYVSvM8AIwnR3DA"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 247613,
       "name": "Gan Ainm",
       "url": "https://open.spotify.com/track/1Wo9ZA41M0iru3vcjPJ53O"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "FLATLINE",
+        "url": "https://open.spotify.com/album/68qY8pAl8uRX4XxzTJ64cf"
+      },
+      "artists": [
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        }
+      ],
+      "duration_ms": 225883,
+      "name": "FLATLINE",
+      "url": "https://open.spotify.com/track/0i2RbagsiSkoYlyVyY06mj"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "The Gates Will Open",
-        "url": "https://open.spotify.com/album/1B8aBnkCqVbDcpk8kIfqzv"
-      },
-      "artists": [
-        {
-          "name": "Karma Kid",
-          "url": "https://open.spotify.com/artist/2X2cDFal9ci8yS5FDHYZv2"
-        }
-      ],
-      "duration_ms": 346775,
-      "name": "The Gates Will Open",
-      "url": "https://open.spotify.com/track/3mYH1lXw1QUPllZantOaw4"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "Streets, Love & Other Stuff",
         "url": "https://open.spotify.com/album/0IRmR8wXEPXWsqy84EbKIh"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 201733,
       "name": "Lowkey",
       "url": "https://open.spotify.com/track/4FC7fcZ5RexxLbWNrOq6aq"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "The Gates Will Open",
+        "url": "https://open.spotify.com/album/1B8aBnkCqVbDcpk8kIfqzv"
+      },
+      "artists": [
+        {
+          "name": "Karma Kid",
+          "url": "https://open.spotify.com/artist/2X2cDFal9ci8yS5FDHYZv2"
+        }
+      ],
+      "duration_ms": 346775,
+      "name": "The Gates Will Open",
+      "url": "https://open.spotify.com/track/3mYH1lXw1QUPllZantOaw4"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "We Are The Ones (FC24 Version)",
+        "url": "https://open.spotify.com/album/0PgSzrzBZiMHbOGQVFKUuO"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        }
+      ],
+      "duration_ms": 135950,
+      "name": "We Are The Ones - FC24 Version",
+      "url": "https://open.spotify.com/track/0e9puAKZblpFaZyEZ0ZcJ6"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "DICHOTOMY",
         "url": "https://open.spotify.com/album/2spJG3BUUV6ec0CvvNSUZg"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 223278,
       "name": "Paradox",
       "url": "https://open.spotify.com/track/7ylEdgnznF9rAjDEsmpsRp"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "We Are The Ones (FC24 Version)",
-        "url": "https://open.spotify.com/album/0PgSzrzBZiMHbOGQVFKUuO"
-      },
-      "artists": [
-        {
-          "name": "King",
-          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
-        }
-      ],
-      "duration_ms": 135950,
-      "name": "We Are The Ones - FC24 Version",
-      "url": "https://open.spotify.com/track/0e9puAKZblpFaZyEZ0ZcJ6"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1467,6 +1467,26 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "Sigo Tus Pasos",
+        "url": "https://open.spotify.com/album/2bPAdT9z9WiYvw65vVq2Ub"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "Barzo",
+          "url": "https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO"
+        }
+      ],
+      "duration_ms": 242983,
+      "name": "Sigo Tus Pasos",
+      "url": "https://open.spotify.com/track/12WuJATJtln4wMEQ1EEMOO"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "Oh Ah (with Paul Beaubrun & Cimafunk)",
         "url": "https://open.spotify.com/album/4KPCyFjgJvvCdAPHDWTHJb"
       },
@@ -1487,26 +1507,6 @@
       "duration_ms": 111044,
       "name": "Oh Ah (with Paul Beaubrun & Cimafunk)",
       "url": "https://open.spotify.com/track/1IWxBDOExMnTPR9lJ0lGTS"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "Sigo Tus Pasos",
-        "url": "https://open.spotify.com/album/2bPAdT9z9WiYvw65vVq2Ub"
-      },
-      "artists": [
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "Barzo",
-          "url": "https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO"
-        }
-      ],
-      "duration_ms": 242983,
-      "name": "Sigo Tus Pasos",
-      "url": "https://open.spotify.com/track/12WuJATJtln4wMEQ1EEMOO"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Who Else Would It Be",
-        "url": "https://open.spotify.com/album/25i87dAxFScrO1VjyyOLlm"
-      },
-      "artists": [
-        {
-          "name": "KayCyy",
-          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
-        }
-      ],
-      "duration_ms": 91913,
-      "name": "Who Else Would It Be",
-      "url": "https://open.spotify.com/track/3WbusxungaQoyYLe33Yepv"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "WRECKED",
         "url": "https://open.spotify.com/album/2e36y4LFJxSObcZOvWrMBF"
       },
@@ -1703,18 +1687,18 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "THAT GIRL",
-        "url": "https://open.spotify.com/album/0dCFboe6x4Nz3e7LkGWIgE"
+        "name": "Who Else Would It Be",
+        "url": "https://open.spotify.com/album/25i87dAxFScrO1VjyyOLlm"
       },
       "artists": [
         {
-          "name": "Bree Runway",
-          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
+          "name": "KayCyy",
+          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
         }
       ],
-      "duration_ms": 125800,
-      "name": "THAT GIRL",
-      "url": "https://open.spotify.com/track/3WSlZ5C7P9rN98QG7AYcB5"
+      "duration_ms": 91913,
+      "name": "Who Else Would It Be",
+      "url": "https://open.spotify.com/track/3WbusxungaQoyYLe33Yepv"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1735,6 +1719,22 @@
       "duration_ms": 124878,
       "name": "Tings My Way",
       "url": "https://open.spotify.com/track/3xdiLJ5x946mdlj3vwbPPu"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "THAT GIRL",
+        "url": "https://open.spotify.com/album/0dCFboe6x4Nz3e7LkGWIgE"
+      },
+      "artists": [
+        {
+          "name": "Bree Runway",
+          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
+        }
+      ],
+      "duration_ms": 125800,
+      "name": "THAT GIRL",
+      "url": "https://open.spotify.com/track/3WSlZ5C7P9rN98QG7AYcB5"
     },
     {
       "added_at": "2023-11-20 15:00:00",

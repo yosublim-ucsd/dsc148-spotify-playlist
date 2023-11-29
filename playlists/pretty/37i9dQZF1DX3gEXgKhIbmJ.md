@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 
 > pra entrar e ficar na onda
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,314 likes - 49 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,336 likes - 49 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 | 3 | [SONHOS](https://open.spotify.com/track/4uvuvrx8lcrmpO01qqkeiK) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [ALMA IMORTAL](https://open.spotify.com/album/2wTVtjLOFxTnHmkCmgTpdp) | 2:12 |
 | 4 | [12Mola](https://open.spotify.com/track/5mbZedhn1uQqgtSmT9EWTt) | [Dirtyirie](https://open.spotify.com/artist/3FBRqIsckjpr7PmRHfGgiF), [OGxool](https://open.spotify.com/artist/34b25yyQRKAJvddYxyTBLL), [crystalgrapefamily](https://open.spotify.com/artist/5YhSFzamPAA6vu5Gz66ywZ) | [12Mola](https://open.spotify.com/album/0cREHZhIYWPFHg6yQlMcMP) | 1:53 |
 | 5 | [Fogo Na Inveja](https://open.spotify.com/track/6sZGRS7umreVJsKV11Pis6) | [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0) | [Medo É Só Ilusão](https://open.spotify.com/album/2jQXDCqfn6UCdCN8VRA6eu) | 1:38 |
-| 6 | [Frango é Frango! Travesti é Travesti!](https://open.spotify.com/track/6I1rsNRIdyuqVq4JirGDyp) | [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Frango é Frango! Travesti é Travesti!](https://open.spotify.com/album/0iM2ePdVPIqqhZRB4wxkDO) | 3:09 |
+| 6 | [Frango é Frango! Travesti é Travesti!](https://open.spotify.com/track/6I1rsNRIdyuqVq4JirGDyp) | [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Frango é Frango! Travesti é Travesti!](https://open.spotify.com/album/0iM2ePdVPIqqhZRB4wxkDO) | 3:03 |
 | 7 | [Romance de Novela](https://open.spotify.com/track/3Ddco5MUY23qxHZE2s3siS) | [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Toda Noite](https://open.spotify.com/album/1ybO5RFlM3hhjgssvNfKNe) | 2:08 |
 | 8 | [Novos Donos](https://open.spotify.com/track/1OqrG7SdIAO8wvSuXt1Ga8) | [Jovem LP](https://open.spotify.com/artist/0wh1XUHmLqE9mcc4z3iu2l), [alvin.nobeat](https://open.spotify.com/artist/5Q4fXSfDlqpdQrPS3tBNFk), [CNZ Produções](https://open.spotify.com/artist/4WXJH3FQXNatRayE0MY29m) | [Novos Donos](https://open.spotify.com/album/4izfBclmEbVMXITDZm7Khd) | 2:04 |
 | 9 | [Crack The Code](https://open.spotify.com/track/1iuv7Z4ELFsAnIdbfyDGlp) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [HER MIND](https://open.spotify.com/album/13OCcXxtLWCMO9EPxLemj1) | 1:17 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 | 48 | [Toda Noite](https://open.spotify.com/track/6uRJMdOZA4ahj4Fw9WmRBR) | [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Toda Noite](https://open.spotify.com/album/5ohIWsURDHdVaFYv6S2qE1) | 2:37 |
 | 49 | [Nunca Sozinho](https://open.spotify.com/track/5QZEKx4SQOxABjMvcJjrGj) | [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka) | [Nunca Sozinho](https://open.spotify.com/album/0aUlKZZU5PNjviB2BbVRW5) | 2:17 |
 
-Snapshot ID: `MCwxMzVkOTZhMTc3MThhN2NiZTJlNzU0NzMzODkyMDU3NTI0NmQwMTM1`
+Snapshot ID: `MCwzYjdmZTYyMjNkYTY2ZWJiOGE3ZDFhNDg1NDY2MDJiZGRkZjA5MDJk`

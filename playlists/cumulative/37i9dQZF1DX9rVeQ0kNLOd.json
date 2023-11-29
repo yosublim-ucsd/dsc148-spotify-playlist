@@ -263,6 +263,24 @@
     },
     {
       "album": {
+        "name": "ICON",
+        "url": "https://open.spotify.com/album/2T9uqa1ZOZiHu2FGrbOWgR"
+      },
+      "artists": [
+        {
+          "name": "Kaneee",
+          "url": "https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187204,
+      "name": "Bed Room",
+      "url": "https://open.spotify.com/track/1ZLB7XGT8I56pR9ibUlEQR"
+    },
+    {
+      "album": {
         "name": "Beyond the mirage",
         "url": "https://open.spotify.com/album/72Ij6AYsePnNuOBAwmBauM"
       },
@@ -1024,7 +1042,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 199974,
       "name": "Houtou",
       "url": "https://open.spotify.com/track/1aGKR9mglGREsLWeV3qn4Z"
@@ -4111,6 +4129,24 @@
     },
     {
       "album": {
+        "name": "THE MAGICAL TOUCH",
+        "url": "https://open.spotify.com/album/6NbFZ5FRVocK8Re3pSJu4t"
+      },
+      "artists": [
+        {
+          "name": "\u677e\u6728\u7f8e\u5b9a",
+          "url": "https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197910,
+      "name": "\u67d4\u3089\u304b\u3044\u5f71",
+      "url": "https://open.spotify.com/track/4JseUox8CQxSsjdvfsrez9"
+    },
+    {
+      "album": {
         "name": "\u697d\u5712",
         "url": "https://open.spotify.com/album/31GF5nxOwXvXdeoHcGiUyP"
       },
@@ -4526,7 +4562,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 284000,
       "name": "\u969b\u4f1a\u3068\u9375",
       "url": "https://open.spotify.com/track/5pu0PDRacBQgR90K5JPu1S"

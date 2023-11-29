@@ -4,7 +4,7 @@
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-343 songs - 22 hr 59 min
+344 songs - 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Dog Has Its Day](https://open.spotify.com/track/0XDMbuw3mMWjRkvL9Pb2uV) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 3:10 | 2023-01-17 |  |
 | [Dominic](https://open.spotify.com/track/3Q8u4XHuLjt2yjuM4ufoVd) | [Ramona Lisa](https://open.spotify.com/artist/4rznUCgRWVTHQX9tUyQ4BV) | [Arcadia](https://open.spotify.com/album/4OeA68LyLKcKR4g4DYkc5t) | 3:57 | 2023-01-17 |  |
 | [Don't Delete The Kisses](https://open.spotify.com/track/3K94Fd5ZQkPCW8wV6oyk22) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Visions Of A Life](https://open.spotify.com/album/7BJmbXNSX1tUPmVjvrlqvz) | 4:35 | 2023-01-17 |  |
-| [Dot](https://open.spotify.com/track/69p1aR2n7h7lOL0uPDwnHA) | [A Beacon School](https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX) | [Dot](https://open.spotify.com/album/5sJ8PzY1bbaILoGztXsaJX) | 5:22 | 2023-01-17 |  |
+| [Dot](https://open.spotify.com/track/69p1aR2n7h7lOL0uPDwnHA) | [A Beacon School](https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX) | [Dot](https://open.spotify.com/album/5sJ8PzY1bbaILoGztXsaJX) | 5:22 | 2023-01-17 | 2023-11-29 |
 | [Downtown](https://open.spotify.com/track/4o9umFsPZmwRT5lve7QAps) | [Majical Cloudz](https://open.spotify.com/artist/4BEYBN6NCPrFk3sOLMTby3) | [Are You Alone?](https://open.spotify.com/album/732AeYhmKrOSU0G3pPnlkB) | 4:09 | 2023-01-17 |  |
 | [Dream for Dreaming](https://open.spotify.com/track/6EYovLuhOyBLJWWIW3XUwo) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Dream for Dreaming](https://open.spotify.com/album/3KgYLdX59AWiaUcLWC2IXs) | 3:39 | 2023-01-17 |  |
 | [Dream St.](https://open.spotify.com/track/49SiBBu5SZn0lqSFAhgJ5t) | [Jackie Lynn](https://open.spotify.com/artist/18txRfxTDTI9CZj7XgKLOV) | [Jacqueline](https://open.spotify.com/album/3ykZ3V0mxK2yq5udGPeBDU) | 5:24 | 2023-01-17 | 2023-10-30 |
@@ -194,6 +194,7 @@
 | [Melody Experiment](https://open.spotify.com/track/5k1c6yaWO1uTSY6wNTVUa6) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/7GfokyxLDkBsgR9gUmEbRq) | 5:10 | 2023-06-30 |  |
 | [Michigan](https://open.spotify.com/track/0u0DSp1eSzb4i3ErTCaTEG) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Singles](https://open.spotify.com/album/6EXy3sgDAoWuR5zyPm150T) | 3:35 | 2023-01-17 |  |
 | [midnight sun](https://open.spotify.com/track/7M3YPejLG9WxQS9i4ZHVXh) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [PAINLESS](https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7) | 4:42 | 2023-01-17 |  |
+| [Mirrors](https://open.spotify.com/track/1RpCE7H04fXZD4OvQribcO) | [Just Mustard](https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi) | [Heart Under](https://open.spotify.com/album/6zVROv27567N68Hu6EVbxb) | 4:17 | 2023-01-17 |  |
 | [Misery Is a Butterfly](https://open.spotify.com/track/05EdW6Mba6PNtnutYAnvAA) | [Ex:Re](https://open.spotify.com/artist/3FIsBWNLmqLvTQnhJLAWUJ) | [Misery Is a Butterfly](https://open.spotify.com/album/1DJALnYQFDZa22GSo5dBTt) | 5:08 | 2023-01-17 |  |
 | [Moonlight](https://open.spotify.com/track/3RGdTJbr4eWMS0upJntQAn) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [As Long As You Are](https://open.spotify.com/album/0Xb7fY98lbfsGdo9OdbC9W) | 3:38 | 2023-01-17 |  |
 | [Moonshine Freeze](https://open.spotify.com/track/5jzHvA7xPl24wKuICkpEWL) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Moonshine Freeze](https://open.spotify.com/album/5RYg5ZR0qfRebkseuqlGJj) | 3:41 | 2023-01-17 |  |

@@ -4,7 +4,7 @@
 
 > A fresh lofi spin on your favourite tunes and old songs you love.
 
-211 songs - 8 hr 30 min
+211 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [Pieces Of U](https://open.spotify.com/track/464gT9Omrj2KAnQvchtVoS) | [J\. Lorenzo](https://open.spotify.com/artist/1znEpSLL4247fcHcMICTgN) | [Pieces Of U](https://open.spotify.com/album/2SJC9QOnplYH3L416wPkf8) | 2:01 | 2023-06-09 | 2023-09-08 |
 | [Pink + White](https://open.spotify.com/track/5Sg2yJFvLWaUoBoxSNUSlE) | [LAV8](https://open.spotify.com/artist/0n0N8rkm96ulhvOxNu6zK5) | [Covers Collection \(Vol\. 4\)](https://open.spotify.com/album/2VJHjsmXACarvKY0qhP404) | 3:19 | 2022-09-16 |  |
 | [Pink Venom \(lofi edit\)](https://open.spotify.com/track/16ihKUs4sLMPRShfWUJRFN) | [The Remix Station](https://open.spotify.com/artist/4JAIvx8vd1sMssmNTcwnPX), [로피 뮤직](https://open.spotify.com/artist/61vcj63GgHNdPDliis1tB6) | [Pink Venom \(lofi edit\)](https://open.spotify.com/album/4lua14MzXUzXQUJ9fuAkdT) | 1:45 | 2022-10-28 |  |
-| [Plastic Love](https://open.spotify.com/track/3ljEzcpsXThqfImeqk9THy) | [Archipelia](https://open.spotify.com/artist/1wOpgYj0lsgHUCXDTAGzmH) | [Plastic Love](https://open.spotify.com/album/01nHXrfC8vYJijKsSlLnCP) | 3:34 | 2023-11-24 |  |
+| [Plastic Love](https://open.spotify.com/track/3ljEzcpsXThqfImeqk9THy) | [Archipelia](https://open.spotify.com/artist/1wOpgYj0lsgHUCXDTAGzmH) | [Plastic Love](https://open.spotify.com/album/01nHXrfC8vYJijKsSlLnCP) | 2:28 | 2023-11-24 |  |
 | [pony](https://open.spotify.com/track/26e0Jbyt61AzuFz7UCh1vm) | [haki donzo](https://open.spotify.com/artist/7JCLpMzChs65N5MKKyup2b) | [pony](https://open.spotify.com/album/5Ge4f7HHDPK0k78KqLVWvl) | 1:59 | 2022-12-16 |  |
 | [positions](https://open.spotify.com/track/5TQQq4JhYl6eMR4PCCTMhi) | [Tetouan](https://open.spotify.com/artist/5zqfe0xfWmU830hI8jThsi) | [positions](https://open.spotify.com/album/1Qg24CVSHe2HujGzBdyaCz) | 1:52 | 2022-12-16 |  |
 | [pumped up kicks \~ lofi](https://open.spotify.com/track/6H9VCtLR6txnQwtB1wAUCa) | [Closed on Sunday](https://open.spotify.com/artist/1LwjR2mIm78OJRTYdkMLl3), [King I Divine](https://open.spotify.com/artist/6t848BuoFnUtHgh1U5KWHx) | [pumped up kicks \~ lofi](https://open.spotify.com/album/7HFlEGEJ8qFFXaHYNx3FJj) | 1:28 | 2022-09-02 | 2023-10-19 |

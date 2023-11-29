@@ -1,12 +1,12 @@
 {
   "description": "Una fusi\u00f3n moderna de m\u00fasica Cristiana que alimenta el alma.",
-  "num_followers": 395825,
+  "num_followers": 395993,
   "original_name": "Creo En Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWM0YjQ0MTZkMTAwOTg3OGVhY2VmMjgwOTQzOWUyMGQyMzEyYjM2",
+  "snapshot_id": "MCxiNTFjYjhlZDYzOTM2MDY3ZTQ3MzhlMTg4ZjMyOGY2YjM0MDNiZjRj",
   "tracks": [
     {
       "added_at": "2021-05-21 19:19:27",
@@ -299,22 +299,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Generacion Radical",
-        "url": "https://open.spotify.com/album/37hs4ExtExEwQeuVsfdxfT"
-      },
-      "artists": [
-        {
-          "name": "Barak",
-          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
-        }
-      ],
-      "duration_ms": 406184,
-      "name": "La Tierra Canta",
-      "url": "https://open.spotify.com/track/4n1uuTzvlQF4rshRbaNXXK"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "Vida Encontr\u00e9",
         "url": "https://open.spotify.com/album/167RFf01QNrM1lpIDxYQ6e"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 215925,
       "name": "Vida Encontr\u00e9",
       "url": "https://open.spotify.com/track/2WDjQMjOyMmgMPc3mNBJoz"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "Generacion Radical",
+        "url": "https://open.spotify.com/album/37hs4ExtExEwQeuVsfdxfT"
+      },
+      "artists": [
+        {
+          "name": "Barak",
+          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
+        }
+      ],
+      "duration_ms": 406184,
+      "name": "La Tierra Canta",
+      "url": "https://open.spotify.com/track/4n1uuTzvlQF4rshRbaNXXK"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -419,6 +419,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "Me sostendr\u00e1",
+        "url": "https://open.spotify.com/album/5Tzxd9msntOlKgLeXMlwbS"
+      },
+      "artists": [
+        {
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+        }
+      ],
+      "duration_ms": 325198,
+      "name": "Me sostendr\u00e1",
+      "url": "https://open.spotify.com/track/7zxuPZFuueFBEj8HkqQSSY"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "Incontenible Es Tu Amor",
         "url": "https://open.spotify.com/album/3US7xplIUPp647q67nCMS0"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 333217,
       "name": "El Gran Yo Soy",
       "url": "https://open.spotify.com/track/7sS0PbgE6pUsaCXuaDpKIM"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "Me sostendr\u00e1",
-        "url": "https://open.spotify.com/album/5Tzxd9msntOlKgLeXMlwbS"
-      },
-      "artists": [
-        {
-          "name": "Majo y Dan",
-          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
-        }
-      ],
-      "duration_ms": 325198,
-      "name": "Me sostendr\u00e1",
-      "url": "https://open.spotify.com/track/7zxuPZFuueFBEj8HkqQSSY"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -879,6 +879,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "Alumbras Mi Vida",
+        "url": "https://open.spotify.com/album/2ioiX3BKpvY8wj5uIGQbBH"
+      },
+      "artists": [
+        {
+          "name": "Rojo",
+          "url": "https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "T\u00fa Eres Mi Gozo",
+      "url": "https://open.spotify.com/track/2SVhGun9Yxilg54n0r6MVb"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "Unidos Somos M\u00e1s Fuertes",
         "url": "https://open.spotify.com/album/5CaiOljtlmZvIOcKyyFIZ8"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 189035,
       "name": "No Hay Distancia",
       "url": "https://open.spotify.com/track/3RsC2nWzi0XSOJcZTFdKss"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "Alumbras Mi Vida",
-        "url": "https://open.spotify.com/album/2ioiX3BKpvY8wj5uIGQbBH"
-      },
-      "artists": [
-        {
-          "name": "Rojo",
-          "url": "https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "T\u00fa Eres Mi Gozo",
-      "url": "https://open.spotify.com/track/2SVhGun9Yxilg54n0r6MVb"
     },
     {
       "added_at": "2021-05-21 19:19:27",

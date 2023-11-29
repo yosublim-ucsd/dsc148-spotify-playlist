@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 
 > Pick up the pace to energetic remixes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 495,736 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 495,826 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 | 49 | [Bad Romance \- Skrillex Remix](https://open.spotify.com/track/3ipLg66ktOi3Ag0p26ZBbp) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Bad Romance Remixes](https://open.spotify.com/album/4d8Ltw4bT71vjo052hlzhY) | 4:23 |
 | 50 | [Lullaby \- Calvo Remix](https://open.spotify.com/track/3mqvUmsGVshZSf5INiebzO) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa), [CALVO](https://open.spotify.com/artist/3E61SnNA9oqKP7hI0K3vZv) | [Lullaby \(Remixes\)](https://open.spotify.com/album/0NxQ3gYxmhnjg0NFwO45KT) | 3:08 |
 
-Snapshot ID: `MCxlZWI5NDViZjAzMWIxNDk2OWNmZGRmM2MxZDM0N2M2ZGNiZWFiZDg0`
+Snapshot ID: `MCxiZWE5MTEwMDMwZTU2ODM3ZjgzNDJkZjRiMmJmM2Q0NDNjYjgyZjE5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ2zzgvJZul.md) - [plain]
 
 > Éxitos del momento y lo último de artistas nuevos y consagrados\. En portada: Los Bunkers
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,152 likes - 80 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,158 likes - 80 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ2zzgvJZul.md) - [plain]
 | 79 | [Diosito](https://open.spotify.com/track/17BSIxhmwh5He7UzguwJPs) | [Sgt\. Papers](https://open.spotify.com/artist/76aFiLtqQ3kqvPxLe3D8ri) | [Diosito](https://open.spotify.com/album/4ell8Y3YqPm4xtFKBAzSwV) | 2:42 |
 | 80 | [Airplane](https://open.spotify.com/track/6BVcHhEzkuVDU97bbNlJDF) | [TAPPAN](https://open.spotify.com/artist/23DnlRuTAuHrgdtWH8PU4x) | [Airplane](https://open.spotify.com/album/7CgZMHYBN6cuHilMgnaFur) | 7:24 |
 
-Snapshot ID: `MCw2OGI3Y2ZjNjQxOWFhNzM0ZWRmZTZhZjlkMjNhYTc1ZWZlYjI5OWI2`
+Snapshot ID: `MCw0NzBkMjc5YzNjOGQ0ZjVmOTNmYjI3ZGJhYjRmNTZmNGRkMDZiZmFj`

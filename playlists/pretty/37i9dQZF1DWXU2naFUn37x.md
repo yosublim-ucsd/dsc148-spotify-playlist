@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Solo il meglio dello street rap italiano\. Cover: Digital Astro, Tony Boy, Artie 5ive
 
-[Spotify](https://open.spotify.com/user/spotify) - 875,882 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 876,102 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [IMBORGHESI](https://open.spotify.com/track/08sKSGw1ADTFGbPfg8EtTY) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33), [MINUR](https://open.spotify.com/artist/7rylbiZO3rabYvIKu4Kcg0) | [IMBORGHESI](https://open.spotify.com/album/2MNYQ9zHQbjck8OtyaxKs5) | 2:44 |
 | 50 | [POLO \(feat\. Geolier\)](https://open.spotify.com/track/1BTMLhdA6ewk2uXuzMsQWQ) | [Neves17](https://open.spotify.com/artist/2S3cfp7M76ak6vFBIGEfhe), [Rox is Here](https://open.spotify.com/artist/13HqsTAccw3xoINURqecVX), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IERI, OGGI E DOMANI](https://open.spotify.com/album/5Vqyjj1Ijl1cqOUDqbZLC5) | 2:30 |
 
-Snapshot ID: `MCxiZTcyZTBjYzEyOThhNTVjNzJhNWM3OTMxOTFjYmFlODI4MTAwNjEy`
+Snapshot ID: `MCwzMDk0YTM4NzMzODI2MDllZDFmYmEyZmViZmVlZDk1NzY4YTg5YTFi`

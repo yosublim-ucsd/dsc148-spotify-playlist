@@ -1,12 +1,12 @@
 {
   "description": "The best new Experimental by independent artists and labels, with Marta Del Grandi on cover. Updates every Wednesday.",
-  "num_followers": 124157,
+  "num_followers": 124287,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDgzMTRlM2E3ZDhkNzBmZGQyNzU4ZjIyYTc0OGFiM2RlODQzZGYx",
+  "snapshot_id": "MCwxMjMwMjFmZjE5NTVmNzE1OWNhZTg2MDYxZGFhYjA1ODE4YTM0ODA4",
   "tracks": [
     {
       "added_at": "2023-10-25 14:01:56",
@@ -293,20 +293,20 @@
       "url": "https://open.spotify.com/track/7vwIzkbkgex07UkXbTr5L2"
     },
     {
-      "added_at": "2023-08-30 04:00:00",
+      "added_at": "2023-10-18 18:20:20",
       "album": {
-        "name": "Familiar Flavours",
-        "url": "https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU"
+        "name": "A Host for All Kinds of Life",
+        "url": "https://open.spotify.com/album/08pPPgrNVzEa12ksYN3Drl"
       },
       "artists": [
         {
-          "name": "700 Feel",
-          "url": "https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV"
+          "name": "Green-House",
+          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
         }
       ],
-      "duration_ms": 260202,
-      "name": "Familiar Flavours",
-      "url": "https://open.spotify.com/track/5DahiVparbFG67nqloWPSL"
+      "duration_ms": 239656,
+      "name": "A Host for All Kinds of Life",
+      "url": "https://open.spotify.com/track/557lM1DeqevRyI3PQm1rI2"
     },
     {
       "added_at": "2023-11-15 16:30:18",
@@ -477,20 +477,20 @@
       "url": "https://open.spotify.com/track/12S65ewG2HEKUvG3zsjL5C"
     },
     {
-      "added_at": "2023-10-18 18:20:20",
+      "added_at": "2023-08-30 04:00:00",
       "album": {
-        "name": "A Host for All Kinds of Life",
-        "url": "https://open.spotify.com/album/08pPPgrNVzEa12ksYN3Drl"
+        "name": "Familiar Flavours",
+        "url": "https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU"
       },
       "artists": [
         {
-          "name": "Green-House",
-          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
+          "name": "700 Feel",
+          "url": "https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV"
         }
       ],
-      "duration_ms": 239656,
-      "name": "A Host for All Kinds of Life",
-      "url": "https://open.spotify.com/track/557lM1DeqevRyI3PQm1rI2"
+      "duration_ms": 260202,
+      "name": "Familiar Flavours",
+      "url": "https://open.spotify.com/track/5DahiVparbFG67nqloWPSL"
     },
     {
       "added_at": "2023-11-08 01:45:00",
@@ -613,6 +613,22 @@
       "url": "https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG"
     },
     {
+      "added_at": "2023-09-13 15:55:38",
+      "album": {
+        "name": "Step Outside This Area",
+        "url": "https://open.spotify.com/album/1r5MgVZWwQBnCMqABXtAyh"
+      },
+      "artists": [
+        {
+          "name": "Myles O'Reilly",
+          "url": "https://open.spotify.com/artist/7BHdwnkL0tV0SpfhTVRTjU"
+        }
+      ],
+      "duration_ms": 600000,
+      "name": "Fractus",
+      "url": "https://open.spotify.com/track/0ovXw0MenWBT4fn8LBWqCG"
+    },
+    {
       "added_at": "2023-10-11 18:36:09",
       "album": {
         "name": "V",
@@ -691,22 +707,6 @@
       "duration_ms": 149433,
       "name": "MY BLACK CAT",
       "url": "https://open.spotify.com/track/2B5M0GZMNC8Yy33P2N4mxq"
-    },
-    {
-      "added_at": "2023-09-13 15:55:38",
-      "album": {
-        "name": "Step Outside This Area",
-        "url": "https://open.spotify.com/album/1r5MgVZWwQBnCMqABXtAyh"
-      },
-      "artists": [
-        {
-          "name": "Myles O'Reilly",
-          "url": "https://open.spotify.com/artist/7BHdwnkL0tV0SpfhTVRTjU"
-        }
-      ],
-      "duration_ms": 600000,
-      "name": "Fractus",
-      "url": "https://open.spotify.com/track/0ovXw0MenWBT4fn8LBWqCG"
     },
     {
       "added_at": "2023-08-01 21:02:30",
@@ -857,22 +857,6 @@
       "url": "https://open.spotify.com/track/2WEb5xogCboXRtXnU3W2a8"
     },
     {
-      "added_at": "2023-10-11 18:36:09",
-      "album": {
-        "name": "I",
-        "url": "https://open.spotify.com/album/2xjnI3kZzDTIjUe1Zcwb2G"
-      },
-      "artists": [
-        {
-          "name": "Of The Muses",
-          "url": "https://open.spotify.com/artist/0bYSzLLgzeNiGoEsAYg2Ch"
-        }
-      ],
-      "duration_ms": 548361,
-      "name": "I",
-      "url": "https://open.spotify.com/track/00UC3Q9hxjfgvBzkUpxe3o"
-    },
-    {
       "added_at": "2023-08-30 04:00:00",
       "album": {
         "name": "Hint",
@@ -887,6 +871,22 @@
       "duration_ms": 303500,
       "name": "Hint",
       "url": "https://open.spotify.com/track/5RTICRvRhMHjURWKZvYO9y"
+    },
+    {
+      "added_at": "2023-11-08 01:45:00",
+      "album": {
+        "name": "Vibra\u00e7\u00f5es de Prata",
+        "url": "https://open.spotify.com/album/2JIG0FQTzPK42gw78K2Cuj"
+      },
+      "artists": [
+        {
+          "name": "Xexa",
+          "url": "https://open.spotify.com/artist/5YOOZDm22sEdpPpf8QX9J8"
+        }
+      ],
+      "duration_ms": 128750,
+      "name": "Assim",
+      "url": "https://open.spotify.com/track/2qJ0alAK9ja55NUAafSykX"
     },
     {
       "added_at": "2023-08-23 14:01:12",
@@ -905,6 +905,22 @@
       "url": "https://open.spotify.com/track/52e028KD9UrxvpunBicff3"
     },
     {
+      "added_at": "2023-10-11 18:36:09",
+      "album": {
+        "name": "I",
+        "url": "https://open.spotify.com/album/2xjnI3kZzDTIjUe1Zcwb2G"
+      },
+      "artists": [
+        {
+          "name": "Of The Muses",
+          "url": "https://open.spotify.com/artist/0bYSzLLgzeNiGoEsAYg2Ch"
+        }
+      ],
+      "duration_ms": 548361,
+      "name": "I",
+      "url": "https://open.spotify.com/track/00UC3Q9hxjfgvBzkUpxe3o"
+    },
+    {
       "added_at": "2023-08-30 04:00:00",
       "album": {
         "name": "Slowing Everything Down",
@@ -919,22 +935,6 @@
       "duration_ms": 373163,
       "name": "Slowing Everything Down",
       "url": "https://open.spotify.com/track/2UwsVfyJpAKF0VFpfFc9JZ"
-    },
-    {
-      "added_at": "2023-11-08 01:45:00",
-      "album": {
-        "name": "Vibra\u00e7\u00f5es de Prata",
-        "url": "https://open.spotify.com/album/2JIG0FQTzPK42gw78K2Cuj"
-      },
-      "artists": [
-        {
-          "name": "Xexa",
-          "url": "https://open.spotify.com/artist/5YOOZDm22sEdpPpf8QX9J8"
-        }
-      ],
-      "duration_ms": 128750,
-      "name": "Assim",
-      "url": "https://open.spotify.com/track/2qJ0alAK9ja55NUAafSykX"
     },
     {
       "added_at": "2023-09-13 15:55:38",
@@ -1021,22 +1021,6 @@
       "url": "https://open.spotify.com/track/1NGSf4OOcZaorLoH0DVcMp"
     },
     {
-      "added_at": "2023-10-25 14:01:56",
-      "album": {
-        "name": "Compa\u00f1era de la pena",
-        "url": "https://open.spotify.com/album/4NYLzcP1P3NPJQTO7GbG5r"
-      },
-      "artists": [
-        {
-          "name": "REHHLL",
-          "url": "https://open.spotify.com/artist/724iTm2hBMu6dcBIcrazRx"
-        }
-      ],
-      "duration_ms": 207021,
-      "name": "Compa\u00f1era de la pena",
-      "url": "https://open.spotify.com/track/17NVLM8kvDwED2uqCx6FCk"
-    },
-    {
       "added_at": "2023-07-18 19:13:40",
       "album": {
         "name": "RPG",
@@ -1051,6 +1035,22 @@
       "duration_ms": 205000,
       "name": "Real World",
       "url": "https://open.spotify.com/track/6OQoynBENCLciCInK8T3YH"
+    },
+    {
+      "added_at": "2023-10-25 14:01:56",
+      "album": {
+        "name": "Compa\u00f1era de la pena",
+        "url": "https://open.spotify.com/album/4NYLzcP1P3NPJQTO7GbG5r"
+      },
+      "artists": [
+        {
+          "name": "REHHLL",
+          "url": "https://open.spotify.com/artist/724iTm2hBMu6dcBIcrazRx"
+        }
+      ],
+      "duration_ms": 207021,
+      "name": "Compa\u00f1era de la pena",
+      "url": "https://open.spotify.com/track/17NVLM8kvDwED2uqCx6FCk"
     },
     {
       "added_at": "2023-10-25 14:01:56",
@@ -1337,22 +1337,6 @@
       "url": "https://open.spotify.com/track/65i8qMn7gtqUu1cfKhCL6j"
     },
     {
-      "added_at": "2023-10-04 14:25:37",
-      "album": {
-        "name": "Boundless",
-        "url": "https://open.spotify.com/album/1cUYR2EBSW0DVZ6IIqFBNy"
-      },
-      "artists": [
-        {
-          "name": "David's Lyre",
-          "url": "https://open.spotify.com/artist/7r391x0B3O3T9GNLdlhaJw"
-        }
-      ],
-      "duration_ms": 155903,
-      "name": "Boundless",
-      "url": "https://open.spotify.com/track/2X3U6oC0OOfZ2rGMhf8AxQ"
-    },
-    {
       "added_at": "2023-10-25 14:01:56",
       "album": {
         "name": "depois do sonho, s\u00f3 a saudade de quem nunca fomos",
@@ -1367,6 +1351,22 @@
       "duration_ms": 667000,
       "name": "depois do sonho, s\u00f3 a saudade de quem nunca fomos",
       "url": "https://open.spotify.com/track/3u5W72Xf3KTreCDcQDSxhu"
+    },
+    {
+      "added_at": "2023-10-04 14:25:37",
+      "album": {
+        "name": "Boundless",
+        "url": "https://open.spotify.com/album/1cUYR2EBSW0DVZ6IIqFBNy"
+      },
+      "artists": [
+        {
+          "name": "David's Lyre",
+          "url": "https://open.spotify.com/artist/7r391x0B3O3T9GNLdlhaJw"
+        }
+      ],
+      "duration_ms": 155903,
+      "name": "Boundless",
+      "url": "https://open.spotify.com/track/2X3U6oC0OOfZ2rGMhf8AxQ"
     },
     {
       "added_at": "2023-10-04 14:25:37",
@@ -1417,22 +1417,6 @@
       "url": "https://open.spotify.com/track/5UkLcM1yFjeFBLUhwuKbkV"
     },
     {
-      "added_at": "2023-10-25 14:01:56",
-      "album": {
-        "name": "DESOLATION",
-        "url": "https://open.spotify.com/album/2xAK7yGGfnLgyG771lfhWJ"
-      },
-      "artists": [
-        {
-          "name": "REBEL YELL",
-          "url": "https://open.spotify.com/artist/08BlEXQUX2YD1cGlk9RBNw"
-        }
-      ],
-      "duration_ms": 212465,
-      "name": "The Hell We Chose",
-      "url": "https://open.spotify.com/track/4wwDdd8G1kkBlMZ5FjbgYe"
-    },
-    {
       "added_at": "2023-10-04 14:25:37",
       "album": {
         "name": "An Imaginary Autumn",
@@ -1447,6 +1431,22 @@
       "duration_ms": 259026,
       "name": "Misplaced Dream",
       "url": "https://open.spotify.com/track/5TXE8o5Te1UKMvRFtRyFis"
+    },
+    {
+      "added_at": "2023-10-25 14:01:56",
+      "album": {
+        "name": "DESOLATION",
+        "url": "https://open.spotify.com/album/2xAK7yGGfnLgyG771lfhWJ"
+      },
+      "artists": [
+        {
+          "name": "REBEL YELL",
+          "url": "https://open.spotify.com/artist/08BlEXQUX2YD1cGlk9RBNw"
+        }
+      ],
+      "duration_ms": 212465,
+      "name": "The Hell We Chose",
+      "url": "https://open.spotify.com/track/4wwDdd8G1kkBlMZ5FjbgYe"
     },
     {
       "added_at": "2023-08-30 04:00:00",
@@ -1513,22 +1513,6 @@
       "url": "https://open.spotify.com/track/7vCCMfYUSapBh426uTrChQ"
     },
     {
-      "added_at": "2023-10-25 14:01:56",
-      "album": {
-        "name": "FUTURA 2000",
-        "url": "https://open.spotify.com/album/1S6SYtisVAy2Nx4R4aLAPp"
-      },
-      "artists": [
-        {
-          "name": "San Leo",
-          "url": "https://open.spotify.com/artist/1g7G97GbkEAtBcEiMFVJdy"
-        }
-      ],
-      "duration_ms": 704253,
-      "name": "FUTURA 2000",
-      "url": "https://open.spotify.com/track/7taqxrAe5xltbEdeamlD0m"
-    },
-    {
       "added_at": "2023-08-30 04:00:00",
       "album": {
         "name": "J\u00e1 n\u00e3o consigo mais, mas vou continuar",
@@ -1545,22 +1529,6 @@
       "url": "https://open.spotify.com/track/7KYswH2kUpHwYo81gatUsJ"
     },
     {
-      "added_at": "2023-09-13 15:55:38",
-      "album": {
-        "name": "small circle",
-        "url": "https://open.spotify.com/album/21UMEdY1bi4yqimxA8VzSh"
-      },
-      "artists": [
-        {
-          "name": "Jason Calhoun",
-          "url": "https://open.spotify.com/artist/70RGuffxPE3qcjlvfeAaUy"
-        }
-      ],
-      "duration_ms": 515000,
-      "name": "small circle",
-      "url": "https://open.spotify.com/track/6IEZQrtG6Wm2hHweerVfKC"
-    },
-    {
       "added_at": "2023-10-18 18:20:20",
       "album": {
         "name": "The Sorcerer & The Demon",
@@ -1575,6 +1543,38 @@
       "duration_ms": 117418,
       "name": "A Fresh Soul",
       "url": "https://open.spotify.com/track/0eLwrkWrMU0OzJwJiEf4On"
+    },
+    {
+      "added_at": "2023-10-25 14:01:56",
+      "album": {
+        "name": "FUTURA 2000",
+        "url": "https://open.spotify.com/album/1S6SYtisVAy2Nx4R4aLAPp"
+      },
+      "artists": [
+        {
+          "name": "San Leo",
+          "url": "https://open.spotify.com/artist/1g7G97GbkEAtBcEiMFVJdy"
+        }
+      ],
+      "duration_ms": 704253,
+      "name": "FUTURA 2000",
+      "url": "https://open.spotify.com/track/7taqxrAe5xltbEdeamlD0m"
+    },
+    {
+      "added_at": "2023-09-13 15:55:38",
+      "album": {
+        "name": "small circle",
+        "url": "https://open.spotify.com/album/21UMEdY1bi4yqimxA8VzSh"
+      },
+      "artists": [
+        {
+          "name": "Jason Calhoun",
+          "url": "https://open.spotify.com/artist/70RGuffxPE3qcjlvfeAaUy"
+        }
+      ],
+      "duration_ms": 515000,
+      "name": "small circle",
+      "url": "https://open.spotify.com/track/6IEZQrtG6Wm2hHweerVfKC"
     },
     {
       "added_at": "2023-10-18 18:20:20",

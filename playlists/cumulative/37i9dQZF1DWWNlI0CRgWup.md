@@ -4,7 +4,7 @@
 
 > Découvrez les nouveautés des artistes RADAR France\. Photo : TIF
 
-130 songs - 6 hr 49 min
+131 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,8 @@
 | [Monsters](https://open.spotify.com/track/7GCm7A124YRmDNOy1WKVc7) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Monsters](https://open.spotify.com/album/6g0oLxGFKAl7VvuQaIIgg9) | 3:11 | 2022-06-10 |  |
 | [Monstres](https://open.spotify.com/track/3YKiwttaOxs8As0Ttp8yzs) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Monstres](https://open.spotify.com/album/1YwDFgQZtPg2lmFY1bfvEq) | 3:48 | 2022-11-24 | 2023-04-12 |
 | [Muse](https://open.spotify.com/track/2GbXqAm1ltbCEsqxiX58wj) | [QuinzeQuinze](https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u) | [Muse](https://open.spotify.com/album/7qhBt3pifRbw80VktPuqWY) | 3:46 | 2022-01-14 | 2022-11-25 |
-| [MÉDICALE](https://open.spotify.com/track/2cTyysES2ribL9idJXy3fI) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6) | [SUN7](https://open.spotify.com/album/77mTEOKxs8H61K4wZiJWFk) | 2:26 | 2023-07-11 |  |
+| [MÉDICALE](https://open.spotify.com/track/0deOyyvJxyvTTJudDyIFqp) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6) | [SUN7](https://open.spotify.com/album/07IfuWJbMzAw6cTie8Wyu0) | 2:26 | 2023-11-17 |  |
+| [MÉDICALE](https://open.spotify.com/track/2cTyysES2ribL9idJXy3fI) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6) | [SUN7](https://open.spotify.com/album/77mTEOKxs8H61K4wZiJWFk) | 2:26 | 2023-07-11 | 2023-11-29 |
 | [Mélodie \(Tatami\)](https://open.spotify.com/track/78cYGQUXUNS5LZuNRzeqk7) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Ronisia](https://open.spotify.com/album/5T2XIptVJAJM0KIs6aWxWo) | 2:20 | 2022-02-07 | 2023-10-14 |
 | [Nature morte](https://open.spotify.com/track/5NEE9NJOdRrKPMhXFB0XFM) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO) | [Nature morte](https://open.spotify.com/album/1cHS4x8PaBByKNW0FPcrIy) | 2:11 | 2023-03-10 |  |
 | [Nouveau départ](https://open.spotify.com/track/0z2patdc6alfUwUi5dko35) | [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Madame](https://open.spotify.com/album/55Ya1piow9PzoMfpGfswLd) | 3:36 | 2023-09-08 |  |

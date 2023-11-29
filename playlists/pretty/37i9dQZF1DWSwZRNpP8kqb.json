@@ -1,12 +1,12 @@
 {
   "description": "Cantoras y compositoras de nuestra tierra, con Soledad en portada.",
-  "num_followers": 21763,
+  "num_followers": 21781,
   "original_name": "Mujeres del Folklore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTU0NjAwMzk5ZWFmZjIxYTg5ZGZhOWNlYzViZWU2N2IyMzJmODA3",
+  "snapshot_id": "MCxlMzE5N2Y4ODYyODczMDFkMTg2ZjQxOTljZDNjYmRhZDc0NjlhYmZh",
   "tracks": [
     {
       "added_at": "2023-11-10 14:33:41",
@@ -279,18 +279,18 @@
     {
       "added_at": "2023-11-10 14:33:41",
       "album": {
-        "name": "La Patria Digna",
-        "url": "https://open.spotify.com/album/7ql7ekqJjXUoW4RYItZZiy"
+        "name": "Trinchera, Vol. 1",
+        "url": "https://open.spotify.com/album/2iid4MS5HmrfRpJwHAt31G"
       },
       "artists": [
         {
-          "name": "Tamara Castro",
-          "url": "https://open.spotify.com/artist/6qZ4SF1cQH0Uhf5GMnAY2T"
+          "name": "Duratierra",
+          "url": "https://open.spotify.com/artist/7efsaKgGf6hl8oOgLpJDO3"
         }
       ],
-      "duration_ms": 154920,
-      "name": "Endechas",
-      "url": "https://open.spotify.com/track/4JXMKuZaDOpsp8d5OpOZgA"
+      "duration_ms": 198945,
+      "name": "Trinchera",
+      "url": "https://open.spotify.com/track/6SwzfwoDWstfVc0Gy2BAaa"
     },
     {
       "added_at": "2023-11-10 14:33:41",
@@ -311,18 +311,18 @@
     {
       "added_at": "2023-11-10 14:33:41",
       "album": {
-        "name": "Trinchera, Vol. 1",
-        "url": "https://open.spotify.com/album/2iid4MS5HmrfRpJwHAt31G"
+        "name": "La Patria Digna",
+        "url": "https://open.spotify.com/album/7ql7ekqJjXUoW4RYItZZiy"
       },
       "artists": [
         {
-          "name": "Duratierra",
-          "url": "https://open.spotify.com/artist/7efsaKgGf6hl8oOgLpJDO3"
+          "name": "Tamara Castro",
+          "url": "https://open.spotify.com/artist/6qZ4SF1cQH0Uhf5GMnAY2T"
         }
       ],
-      "duration_ms": 198945,
-      "name": "Trinchera",
-      "url": "https://open.spotify.com/track/6SwzfwoDWstfVc0Gy2BAaa"
+      "duration_ms": 154920,
+      "name": "Endechas",
+      "url": "https://open.spotify.com/track/4JXMKuZaDOpsp8d5OpOZgA"
     },
     {
       "added_at": "2023-11-10 14:33:41",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-11-10 14:33:41",
       "album": {
-        "name": "Lorena Canta al Cuchi",
-        "url": "https://open.spotify.com/album/0h61QvK5npqN6hf9XG1rX0"
-      },
-      "artists": [
-        {
-          "name": "Lorena Astudillo",
-          "url": "https://open.spotify.com/artist/0r10toqQZwzicT4CjvWM0Y"
-        }
-      ],
-      "duration_ms": 260623,
-      "name": "Lavanderas de Rio Chico",
-      "url": "https://open.spotify.com/track/6PqlcAD1TCO4peWsXif4UF"
-    },
-    {
-      "added_at": "2023-11-10 14:33:41",
-      "album": {
         "name": "Entre Algarroba y Durazno",
         "url": "https://open.spotify.com/album/6qDLBo0CkWfr4e8xNIipBC"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 250329,
       "name": "Entre Algarroba y Durazno",
       "url": "https://open.spotify.com/track/1AfCPo4rfYVvLmLcwDeuXM"
+    },
+    {
+      "added_at": "2023-11-10 14:33:41",
+      "album": {
+        "name": "Lorena Canta al Cuchi",
+        "url": "https://open.spotify.com/album/0h61QvK5npqN6hf9XG1rX0"
+      },
+      "artists": [
+        {
+          "name": "Lorena Astudillo",
+          "url": "https://open.spotify.com/artist/0r10toqQZwzicT4CjvWM0Y"
+        }
+      ],
+      "duration_ms": 260623,
+      "name": "Lavanderas de Rio Chico",
+      "url": "https://open.spotify.com/track/6PqlcAD1TCO4peWsXif4UF"
     },
     {
       "added_at": "2023-11-10 14:33:41",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-11-10 14:33:41",
       "album": {
-        "name": "El Cuchi de Camara",
-        "url": "https://open.spotify.com/album/6qP16r1SaOUcpg8NlBTkAB"
-      },
-      "artists": [
-        {
-          "name": "Lorena Astudillo",
-          "url": "https://open.spotify.com/artist/0r10toqQZwzicT4CjvWM0Y"
-        }
-      ],
-      "duration_ms": 320400,
-      "name": "Zamba del Laurel",
-      "url": "https://open.spotify.com/track/2YywgUYPha9xvoCJo7b45d"
-    },
-    {
-      "added_at": "2023-11-10 14:33:41",
-      "album": {
         "name": "Como Un P\u00e1jaro Libre (Slidepack)",
         "url": "https://open.spotify.com/album/6bNK5UGojos4PxMqCxkKdH"
       },
@@ -955,6 +939,22 @@
     {
       "added_at": "2023-11-10 14:33:41",
       "album": {
+        "name": "El Cuchi de Camara",
+        "url": "https://open.spotify.com/album/6qP16r1SaOUcpg8NlBTkAB"
+      },
+      "artists": [
+        {
+          "name": "Lorena Astudillo",
+          "url": "https://open.spotify.com/artist/0r10toqQZwzicT4CjvWM0Y"
+        }
+      ],
+      "duration_ms": 320400,
+      "name": "Zamba del Laurel",
+      "url": "https://open.spotify.com/track/2YywgUYPha9xvoCJo7b45d"
+    },
+    {
+      "added_at": "2023-11-10 14:33:41",
+      "album": {
         "name": "Mi Camino",
         "url": "https://open.spotify.com/album/06cmuF0VwBJlWLqWGBE7LD"
       },
@@ -967,6 +967,22 @@
       "duration_ms": 176615,
       "name": "Carnavaleando de Sol a Sol",
       "url": "https://open.spotify.com/track/5kUFLZUia9HJtmA4EOllic"
+    },
+    {
+      "added_at": "2023-11-10 14:33:41",
+      "album": {
+        "name": "Vuelve a Sonar",
+        "url": "https://open.spotify.com/album/6SYkiuBxUQbfprH4tnCNpL"
+      },
+      "artists": [
+        {
+          "name": "Flor Paz",
+          "url": "https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26"
+        }
+      ],
+      "duration_ms": 164394,
+      "name": "Vuelve a Sonar",
+      "url": "https://open.spotify.com/track/1SCkDngAVBaPlFpINOlpld"
     },
     {
       "added_at": "2023-11-10 14:33:41",
@@ -987,22 +1003,6 @@
       "duration_ms": 286627,
       "name": "El Seclante\u00f1o",
       "url": "https://open.spotify.com/track/3mvqXHClXJg09S59sD5MTZ"
-    },
-    {
-      "added_at": "2023-11-10 14:33:41",
-      "album": {
-        "name": "Vuelve a Sonar",
-        "url": "https://open.spotify.com/album/6SYkiuBxUQbfprH4tnCNpL"
-      },
-      "artists": [
-        {
-          "name": "Flor Paz",
-          "url": "https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26"
-        }
-      ],
-      "duration_ms": 164394,
-      "name": "Vuelve a Sonar",
-      "url": "https://open.spotify.com/track/1SCkDngAVBaPlFpINOlpld"
     },
     {
       "added_at": "2023-11-10 14:33:41",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2023-11-10 14:33:41",
       "album": {
-        "name": "Ambas - Maria Paula Godoy",
-        "url": "https://open.spotify.com/album/4kBNZfW1cHQlak5sJgoUUH"
-      },
-      "artists": [
-        {
-          "name": "Maria Paula Godoy",
-          "url": "https://open.spotify.com/artist/5RriG2maXzBfuXJkuHlcpi"
-        },
-        {
-          "name": "Nahuel Pennisi",
-          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
-        }
-      ],
-      "duration_ms": 110291,
-      "name": "El T\u00edmido (feat. Nahuel Pennisi)",
-      "url": "https://open.spotify.com/track/7LyLV7IpFkXcbRFMjgve4h"
-    },
-    {
-      "added_at": "2023-11-10 14:33:41",
-      "album": {
         "name": "Tierra, Tan S\u00f3lo",
         "url": "https://open.spotify.com/album/5EC7RY4Iq0V4YXPBgpwrar"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 232000,
       "name": "Tierra, Tan S\u00f3lo",
       "url": "https://open.spotify.com/track/0Op6begS3VyrGzuhay4PYo"
+    },
+    {
+      "added_at": "2023-11-10 14:33:41",
+      "album": {
+        "name": "Ambas - Maria Paula Godoy",
+        "url": "https://open.spotify.com/album/4kBNZfW1cHQlak5sJgoUUH"
+      },
+      "artists": [
+        {
+          "name": "Maria Paula Godoy",
+          "url": "https://open.spotify.com/artist/5RriG2maXzBfuXJkuHlcpi"
+        },
+        {
+          "name": "Nahuel Pennisi",
+          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
+        }
+      ],
+      "duration_ms": 110291,
+      "name": "El T\u00edmido (feat. Nahuel Pennisi)",
+      "url": "https://open.spotify.com/track/7LyLV7IpFkXcbRFMjgve4h"
     },
     {
       "added_at": "2023-11-10 14:33:41",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-11-10 14:33:41",
       "album": {
-        "name": "La Charo",
-        "url": "https://open.spotify.com/album/2f2aoYUcR17shrpyTe6fj8"
-      },
-      "artists": [
-        {
-          "name": "La Charo",
-          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
-        }
-      ],
-      "duration_ms": 207733,
-      "name": "La Marejada",
-      "url": "https://open.spotify.com/track/4OGGt6aw0DeNR1UQW1APN9"
-    },
-    {
-      "added_at": "2023-11-10 14:33:41",
-      "album": {
         "name": "Humanas Voces",
         "url": "https://open.spotify.com/album/57Ag2rbnSe4GWfLwoBELac"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 189906,
       "name": "La Estrella Azul",
       "url": "https://open.spotify.com/track/3dV4z78Q0qNo4f2zjBIN5y"
+    },
+    {
+      "added_at": "2023-11-10 14:33:41",
+      "album": {
+        "name": "La Charo",
+        "url": "https://open.spotify.com/album/2f2aoYUcR17shrpyTe6fj8"
+      },
+      "artists": [
+        {
+          "name": "La Charo",
+          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
+        }
+      ],
+      "duration_ms": 207733,
+      "name": "La Marejada",
+      "url": "https://open.spotify.com/track/4OGGt6aw0DeNR1UQW1APN9"
     },
     {
       "added_at": "2023-11-10 14:33:41",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-11-10 14:33:41",
       "album": {
-        "name": "Las Simples Cosas",
-        "url": "https://open.spotify.com/album/3kHitnmEYn8oMrKD8IZl6a"
-      },
-      "artists": [
-        {
-          "name": "Yanet Mayoral",
-          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Asuntos Pendientes",
-      "url": "https://open.spotify.com/track/6PTupRbVwBr1wX8sD0YCFt"
-    },
-    {
-      "added_at": "2023-11-10 14:33:41",
-      "album": {
         "name": "Cuando Vuelva a encontrarte",
         "url": "https://open.spotify.com/album/5oOdnHLgljOSkE5vjSKVRp"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 175945,
       "name": "D\u00e9cimas",
       "url": "https://open.spotify.com/track/0AyDFVksN7gBHYiLk2FWwO"
+    },
+    {
+      "added_at": "2023-11-10 14:33:41",
+      "album": {
+        "name": "Las Simples Cosas",
+        "url": "https://open.spotify.com/album/3kHitnmEYn8oMrKD8IZl6a"
+      },
+      "artists": [
+        {
+          "name": "Yanet Mayoral",
+          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Asuntos Pendientes",
+      "url": "https://open.spotify.com/track/6PTupRbVwBr1wX8sD0YCFt"
     },
     {
       "added_at": "2023-11-10 14:33:41",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2023-11-10 14:33:41",
       "album": {
+        "name": "Luz Del Aire",
+        "url": "https://open.spotify.com/album/05gqff5GwrLBXnk2WErcdj"
+      },
+      "artists": [
+        {
+          "name": "Melania Perez",
+          "url": "https://open.spotify.com/artist/4kBzSQOAfn2TbUvsc8auN6"
+        }
+      ],
+      "duration_ms": 198504,
+      "name": "La Canastita",
+      "url": "https://open.spotify.com/track/43AzIdY7QJbDuxMx11Fozi"
+    },
+    {
+      "added_at": "2023-11-10 14:33:41",
+      "album": {
         "name": "Caminante",
         "url": "https://open.spotify.com/album/1SsiLXLCEC4J4EZvapU1K0"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 107710,
       "name": "La Arruguita",
       "url": "https://open.spotify.com/track/27ZRd4JyUtaRAx6RgKNZET"
-    },
-    {
-      "added_at": "2023-11-10 14:33:41",
-      "album": {
-        "name": "Luz Del Aire",
-        "url": "https://open.spotify.com/album/05gqff5GwrLBXnk2WErcdj"
-      },
-      "artists": [
-        {
-          "name": "Melania Perez",
-          "url": "https://open.spotify.com/artist/4kBzSQOAfn2TbUvsc8auN6"
-        }
-      ],
-      "duration_ms": 198504,
-      "name": "La Canastita",
-      "url": "https://open.spotify.com/track/43AzIdY7QJbDuxMx11Fozi"
     },
     {
       "added_at": "2023-11-10 14:33:41",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2023-11-10 14:33:41",
       "album": {
-        "name": "Canto de Nadie",
-        "url": "https://open.spotify.com/album/22IpmEhX4X2AyPw86iNIzE"
+        "name": "La Diablera",
+        "url": "https://open.spotify.com/album/42r79ADDoRR1RIh27z9rdS"
       },
       "artists": [
         {
-          "name": "Suma Paz",
-          "url": "https://open.spotify.com/artist/6EINkNkWN74E8LNbTt3pVe"
+          "name": "Hilda Herrera",
+          "url": "https://open.spotify.com/artist/0qzpjA8ZRuHJnJJN6OsePI"
         }
       ],
-      "duration_ms": 190093,
-      "name": "Guitarra, D\u00edmelo T\u00fa",
-      "url": "https://open.spotify.com/track/4IhafbJrYWVrSfWt5qiaL9"
+      "duration_ms": 131306,
+      "name": "Chacarera del Santiague\u00f1o",
+      "url": "https://open.spotify.com/track/1N8GNBG9WzqMWLTGBSO6xn"
     },
     {
       "added_at": "2023-11-10 14:33:41",

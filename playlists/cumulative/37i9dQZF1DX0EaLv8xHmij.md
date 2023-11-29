@@ -4,7 +4,7 @@
 
 > O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow embaçado\. Foto: Fúria
 
-241 songs - 11 hr 16 min
+242 songs - 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Bang](https://open.spotify.com/track/6thtgVyxa9RehbjC31ZE2V) | [Pete Mcee](https://open.spotify.com/artist/7hYxiVrQD6owMinIaG9QuB) | [Bang](https://open.spotify.com/album/4CgWUiKmqEivm5WzaCDdUQ) | 2:22 | 2023-04-14 | 2023-05-27 |
 | [Bebeto & Romário](https://open.spotify.com/track/3BsDJHBfY8nh2zHOkTuKse) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele) | [Ainda É o Rap dos Novos Bandidos](https://open.spotify.com/album/1lO0DvPgCpUjgRj4Nh7cFy) | 2:25 | 2022-12-02 | 2023-10-28 |
 | [Berimbau](https://open.spotify.com/track/2q8v8W0lLF75Q3GJ5IUltt) | [VH](https://open.spotify.com/artist/4vJjgImO8b2MB0m3e0eVRJ), [Dropallien](https://open.spotify.com/artist/59uO2uoCSPFwU4pZYhhqyD) | [Berimbau](https://open.spotify.com/album/3lZwzkxTzuaIpRCI2jccZc) | 2:04 | 2022-09-23 | 2022-10-15 |
+| [Boca](https://open.spotify.com/track/0om5OHq5YXfbqyWjNRtytV) | [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ) | [Vetin](https://open.spotify.com/album/2GUMdFLAWolI1qxf7dcTbs) | 2:53 | 2023-11-28 |  |
 | [Bonde da Oakley](https://open.spotify.com/track/5ed4MVmX152hyN9W5QY50D) | [Jovem MK](https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR) | [Da Viela Pro Mundo](https://open.spotify.com/album/5VqImQimN6ayrkJGGdbmQ5) | 2:59 | 2023-04-21 |  |
 | [Bonde da Rock](https://open.spotify.com/track/6sC0OMXUGXDtzcm0SkJYv5) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm) | [Bonde da Rock](https://open.spotify.com/album/4lyBsKWg4M8zHI0Ormmpo7) | 2:17 | 2022-12-23 | 2023-07-08 |
 | [Bonde da Rock \- Remix](https://open.spotify.com/track/2mJlNVUnUYkIZBzewrgTuY) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Ascensão do Cisne Negro](https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ) | 3:12 | 2023-09-30 | 2023-10-10 |

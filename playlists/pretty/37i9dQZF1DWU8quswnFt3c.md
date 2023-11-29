@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women from all over the world, at full volume\. Cover: Bellakath
 
-[Spotify](https://open.spotify.com/user/spotify) - 912,131 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 912,096 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 11 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 |
 | 12 | [Piloto](https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [Piloto](https://open.spotify.com/album/0Yzslwaxztdnw9nQX0oDdU) | 3:17 |
 | 13 | [The Sweet Escape](https://open.spotify.com/track/66ZcOcouenzZEnzTJvoFmH) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [The Sweet Escape](https://open.spotify.com/album/7xnZ539lh8x6de9jzlpCJp) | 4:06 |
-| 14 | [Gum](https://open.spotify.com/track/6QJEWaTiiBSYPHr6FrZ8vu) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [Gum](https://open.spotify.com/album/3y6bGlIVIIOQbOgQDRSw1T) | 2:42 |
-| 15 | [Che t’o dico a fa’](https://open.spotify.com/track/7sBmJhD1J7qt33jgxH7Jf9) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Che t’o dico a fa’](https://open.spotify.com/album/06ngD2b3wsMNEKynEGt24o) | 3:07 |
+| 14 | [Che t’o dico a fa’](https://open.spotify.com/track/7sBmJhD1J7qt33jgxH7Jf9) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Che t’o dico a fa’](https://open.spotify.com/album/06ngD2b3wsMNEKynEGt24o) | 3:07 |
+| 15 | [Gum](https://open.spotify.com/track/6QJEWaTiiBSYPHr6FrZ8vu) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [Gum](https://open.spotify.com/album/3y6bGlIVIIOQbOgQDRSw1T) | 2:42 |
 | 16 | [Dalie \(feat\. Baby S.O.N\)](https://open.spotify.com/track/4URabg9AGHasjFEVdTbWcC) | [Kamo Mphela](https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Khalil Harrison](https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp), [Baby S.O.N](https://open.spotify.com/artist/2Uh2YSht6hyKGPmIHn2Kt6) | [Dalie \(feat\. Baby S.O.N\)](https://open.spotify.com/album/0J4K8H2exzOLpz1RcfZbID) | 4:40 |
 | 17 | [You Know I'm No Good](https://open.spotify.com/track/4zQuwW24dweWcaX0fEJkP2) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 4:16 |
 | 18 | [Berpayung Tuhan](https://open.spotify.com/track/5n7JlSbYBsUSncCwm5OAOh) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Untuk Dunia, Cinta, dan Kotornya](https://open.spotify.com/album/5hpq1LSLCuC7cifjXAM5bf) | 4:57 |
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 64 | [idundomuchtalkingnow](https://open.spotify.com/track/669OXkisqk5sChjgpcwaTI) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8), [Jonwl](https://open.spotify.com/artist/1acr3vZX3WVbX6dXdwjyhz) | [idundomuchtalkingnow](https://open.spotify.com/album/30aPnV4ctObMcAxSlO2uPx) | 3:45 |
 | 65 | [Pogo En Casa](https://open.spotify.com/track/0GB2uORdNinfqBLLLwxFkg) | [Pipiolas](https://open.spotify.com/artist/0qFTwtYUtLs9jYEXUfmEpI) | [Crying Mañana \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6R4YX3yjKA0U6jM72DI2IR) | 3:05 |
 | 66 | [Not Cool](https://open.spotify.com/track/7HOjhcnpyNJC3u2kLHqntx) | [Ivy Falls](https://open.spotify.com/artist/3I6L2mDZUNbW1BZ5YNwqAv) | [Not Cool](https://open.spotify.com/album/1jU5q6EbnfHpuQ00VyAyIi) | 3:46 |
-| 67 | [FLEX](https://open.spotify.com/track/1jLWGpo6KWHDknCPz4Zltm) | [THE F LIBRA](https://open.spotify.com/artist/1MCtRg162ainyKGsX31QHm) | [FLEX](https://open.spotify.com/album/23AMMGNATg5gvSMjD1NqkN) | 2:44 |
-| 68 | [Molly](https://open.spotify.com/track/4gfaPD5mHYGe792vAb1a2Z) | [Flowyn](https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375) | [Molly](https://open.spotify.com/album/2GxFT2qN34pDypV0r4veRK) | 2:56 |
+| 67 | [Molly](https://open.spotify.com/track/4gfaPD5mHYGe792vAb1a2Z) | [Flowyn](https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375) | [Molly](https://open.spotify.com/album/2GxFT2qN34pDypV0r4veRK) | 2:56 |
+| 68 | [FLEX](https://open.spotify.com/track/1jLWGpo6KWHDknCPz4Zltm) | [THE F LIBRA](https://open.spotify.com/artist/1MCtRg162ainyKGsX31QHm) | [FLEX](https://open.spotify.com/album/23AMMGNATg5gvSMjD1NqkN) | 2:44 |
 | 69 | [Hey Boys, Girls](https://open.spotify.com/track/7wVR5OtaiM5oYpQX0G7sJq) | [Najwa](https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS) | [Hey Boys, Girls\. Colección definitiva](https://open.spotify.com/album/2cmgwRyTy4WBvQN5uzHxHX) | 5:30 |
 | 70 | [Miracle feat\. Nimra Gilani](https://open.spotify.com/track/6bagTvFhOL39jrKdpyOJir) | [Natasha Humera Ejaz](https://open.spotify.com/artist/2NTRcxzXvgDtcSJJ2zraxp), [Nimra Gilani](https://open.spotify.com/artist/16YcBCxja71bOiP9BWktfD), [Rishabh Rajan](https://open.spotify.com/artist/3zpfHIe2T4vYtnB7MU7Q8z) | [Ordinary Miracle \| ہیرے موتی](https://open.spotify.com/album/17XSJDt998wsV2mrVN7LPr) | 2:34 |
 | 71 | [Lo Quiero Todo](https://open.spotify.com/track/26KzmgbbKAVY5czxFxfPjj) | [Las Odio](https://open.spotify.com/artist/7fpWlfolzAkqmxhUeAoyab) | [Autoficción](https://open.spotify.com/album/5fzU5PHdDqacGcKvCh8tlZ) | 2:26 |
 | 72 | [x si te sirve](https://open.spotify.com/track/1Yb75cVuG5nejZNvtj6KZC) | [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML), [Kingstein](https://open.spotify.com/artist/46wyRUFQEBgfX2ncYxPBjG) | [x si te sirve](https://open.spotify.com/album/6r9pw2yyjEv5w4pkV4P8f3) | 1:41 |
 | 73 | [No Regrets](https://open.spotify.com/track/7dElhxIjCgfNrcRwLIBQIt) | [Hareem Rashid](https://open.spotify.com/artist/4tp7OYDn1UdgWEnr3AJiFi) | [No Regrets](https://open.spotify.com/album/1CycuQFkjXqZJrwJQjEoMb) | 3:12 |
-| 74 | [Cruel World](https://open.spotify.com/track/2Y2hR1O1cJYvsWkUJRD8Xy) | [GUMPOONG](https://open.spotify.com/artist/5QTueSjTbOjuiLiGz7APuE) | [Cruel World](https://open.spotify.com/album/31i8l1jymUX8KLVq66XkXO) | 3:47 |
-| 75 | [ICONS](https://open.spotify.com/track/3ix4gw2l6cCyS82epZ4iCL) | [Sophia Amato](https://open.spotify.com/artist/3cVQTQoXntc489KhMdcCDS) | [ICONS](https://open.spotify.com/album/3ZDL01HaLAtasNBZEe1bPA) | 3:09 |
+| 74 | [ICONS](https://open.spotify.com/track/3ix4gw2l6cCyS82epZ4iCL) | [Sophia Amato](https://open.spotify.com/artist/3cVQTQoXntc489KhMdcCDS) | [ICONS](https://open.spotify.com/album/3ZDL01HaLAtasNBZEe1bPA) | 3:09 |
+| 75 | [Cruel World](https://open.spotify.com/track/2Y2hR1O1cJYvsWkUJRD8Xy) | [GUMPOONG](https://open.spotify.com/artist/5QTueSjTbOjuiLiGz7APuE) | [Cruel World](https://open.spotify.com/album/31i8l1jymUX8KLVq66XkXO) | 3:47 |
 
-Snapshot ID: `MCw2OWZlMDUwMWRjNGZiMWRmOTZhNDVmM2M1MzliY2M0YmRhNzRjMjU4`
+Snapshot ID: `MCw0OGUxZDZjNGQ0OTAyYTlmMWRhYmY5ZmEzZDhjOTdmYjkzY2Q3OGQz`

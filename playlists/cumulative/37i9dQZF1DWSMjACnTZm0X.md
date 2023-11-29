@@ -2,7 +2,7 @@
 
 ### [Amapiano to the World](https://open.spotify.com/playlist/37i9dQZF1DWSMjACnTZm0X)
 
-> Join the global ampiano movement with tracks and artists pushing amapiano on the global stage\. Cover: <a href="https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh?si=LE\_AWnYITxmEyJm2j\-RCpQ">Davido</a>
+> Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: <a href="https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh?si=LE\_AWnYITxmEyJm2j\-RCpQ">Davido</a>
 
 172 songs - 12 hr 14 min
 

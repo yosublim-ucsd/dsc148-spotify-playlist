@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Lola Brooke
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,449 likes - 100 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,473 likes - 100 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 21 | [Go To Hell](https://open.spotify.com/track/2Yd5D02hVICrlpMvd4JOqc) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Go To Hell](https://open.spotify.com/album/0lVsaUVTURhkRAOEv6hwhI) | 3:39 |
 | 22 | [Luv 4 My Block](https://open.spotify.com/track/7M1kT1qfYZjE8L2Bik8eUO) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9), [Defiant Presents](https://open.spotify.com/artist/6kOvJAZH29zNIKqPLOEC65) | [Luv 4 My Block](https://open.spotify.com/album/6HV4YhvKzdeFJaHKaIB594) | 1:21 |
 | 23 | [Outside](https://open.spotify.com/track/5HUxZN7PuTML2SkJnBuP5a) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [King Zoo](https://open.spotify.com/album/1fboUYBvu86pCmFNrLb615) | 1:58 |
-| 24 | [BREATHE.](https://open.spotify.com/track/3xKXBuxYNVTFPyNpYPHbOI) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BREATHE.](https://open.spotify.com/album/7aaruiZiAzYf7gLW86WhKT) | 2:26 |
+| 24 | [BREATHE\. freestyle](https://open.spotify.com/track/3xKXBuxYNVTFPyNpYPHbOI) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BREATHE\. freestyle](https://open.spotify.com/album/7aaruiZiAzYf7gLW86WhKT) | 2:26 |
 | 25 | [Blood Moon \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/1OaAlsbTJugFODycEgIDUj) | [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Blood Moon \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/4VubFdZQLlos3I0LbB3qgt) | 2:49 |
 | 26 | [NFL](https://open.spotify.com/track/1X1dy95bo2OirAmMkBIwkS) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [NFL](https://open.spotify.com/album/6rsIciAfxrSApDOpNXZSll) | 3:05 |
 | 27 | [YEAH YEAH!](https://open.spotify.com/track/1spPgvtcDwxARDc8i6TYjT) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [YEAH YEAH!](https://open.spotify.com/album/2bvmhK8LbNwtpnxmAow0vW) | 1:53 |
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 63 | [Do Something \(with Jeremih\)](https://open.spotify.com/track/3WaojRhCnye5o9CPS618wn) | [Lady London](https://open.spotify.com/artist/44qqbgojo0P8r68CuRbSN4), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Do Something](https://open.spotify.com/album/613CPQtjun3ifTRlCB3g21) | 2:45 |
 | 64 | [For You \(feat\. TaTa\)](https://open.spotify.com/track/3rFNqqOjPeAcTn1P2i0FiV) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [For You \(feat\. TaTa\)](https://open.spotify.com/album/3xqrmsG6yWQ05ITnRvqBv6) | 1:59 |
 | 65 | [How We Get It](https://open.spotify.com/track/7fUWdT1JMsoN0ZHOD9eXpi) | [AZ](https://open.spotify.com/artist/7HqrSDuI9lHuH1CDismTFg), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6) | [How We Get It](https://open.spotify.com/album/1ClpBOmXZMVGBeN0pcPdoB) | 3:20 |
-| 66 | [Gotta Choose](https://open.spotify.com/track/7GPMJcc9gyb5pAzlmgPrbE) | [Sdot Go](https://open.spotify.com/artist/73sV26yCMzpIeYxesG3jdV) | [Gotta Choose](https://open.spotify.com/album/7JALtNevh46kAzpIzhMLoW) | 2:02 |
+| 66 | [Gotta Choose](https://open.spotify.com/track/7GPMJcc9gyb5pAzlmgPrbE) | [Sdot Go](https://open.spotify.com/artist/73sV26yCMzpIeYxesG3jdV), [SweepersENT](https://open.spotify.com/artist/3gQoRf2OOQucNCzox0TI9l) | [Gotta Choose](https://open.spotify.com/album/7JALtNevh46kAzpIzhMLoW) | 2:02 |
 | 67 | [On You](https://open.spotify.com/track/7bk2AkYdSKrtnzq7OTgdB6) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [On You](https://open.spotify.com/album/0yrgidyI4lTZGvA6JA9tww) | 1:59 |
 | 68 | [Fever](https://open.spotify.com/track/2Ikg6hRQOa6e29sq5xWhM8) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Magic 3](https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz) | 2:47 |
 | 69 | [Ghetto & Ratchet \(with Jenn Carter\) \- Remix](https://open.spotify.com/track/1T4T1ht4F40NRwelsmQlW1) | [Connie Diiamond](https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM) | [Ghetto & Ratchet](https://open.spotify.com/album/7xwWcuyJ8VOVPFliDI3pGV) | 2:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 99 | [Ghetto & Ratchet](https://open.spotify.com/track/6ncy0vKrwLOqKI50vwjC64) | [Connie Diiamond](https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK) | [Ghetto & Ratchet](https://open.spotify.com/album/7ECwZpB5z3OPS0HNAtNhDC) | 2:06 |
 | 100 | [Who You Touch Pt\. 2 \(feat\. Trippie Redd\)](https://open.spotify.com/track/3rdzGfp94hIX5nksvAjFoD) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9), [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1), [Defiant Presents](https://open.spotify.com/artist/6kOvJAZH29zNIKqPLOEC65), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Defiant Presents: Jiggy In Jersey](https://open.spotify.com/album/7lEj90UqCHkiZzLnOOQV2v) | 2:18 |
 
-Snapshot ID: `MCw1ZGM5YThiYjgxODIzMzljYjM5NzU2NjMyODYxMzliZjgxNmY4MDI2`
+Snapshot ID: `MCxhYjMxNzQ2YWM1NjJkYmM0OTM1NTgzMDU0YjI2MDcwYTU5MWRmMzUx`

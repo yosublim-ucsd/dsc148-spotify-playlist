@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 259676,
+  "num_followers": 259702,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDQ1YjVlZmMwNDAwNzlmOTYxNDU3YWE0M2YwNmVkZmIyZTZkZDM1",
+  "snapshot_id": "MCxjM2FiMTc4MmIyZTc2NjQ4MTRjNzg1ZmNiMzE2MzFhN2NlNWE1ZWY2",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -747,6 +747,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Island -EP",
+        "url": "https://open.spotify.com/album/6iIWUNhbE9TbbLqDyMfh6W"
+      },
+      "artists": [
+        {
+          "name": "Nuit Oce\u0101n",
+          "url": "https://open.spotify.com/artist/4qhCtPKoctC2e4ADsXifH4"
+        }
+      ],
+      "duration_ms": 185758,
+      "name": "Together Alone",
+      "url": "https://open.spotify.com/track/2WgDeHNKHm2pjk9ee9eHzB"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "After the Tone with Lossapardo",
         "url": "https://open.spotify.com/album/4O6xAkwEEunTtOIv05VpOm"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 153700,
       "name": "After the Tone with Lossapardo",
       "url": "https://open.spotify.com/track/6fKX7zoYa5nfpHnnmcKg6t"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Island -EP",
-        "url": "https://open.spotify.com/album/6iIWUNhbE9TbbLqDyMfh6W"
-      },
-      "artists": [
-        {
-          "name": "Nuit Oce\u0101n",
-          "url": "https://open.spotify.com/artist/4qhCtPKoctC2e4ADsXifH4"
-        }
-      ],
-      "duration_ms": 185758,
-      "name": "Together Alone",
-      "url": "https://open.spotify.com/track/2WgDeHNKHm2pjk9ee9eHzB"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -817,22 +817,6 @@
       "url": "https://open.spotify.com/track/5qVW9YK5Hfm07IUiMHR3te"
     },
     {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Small Clan",
-        "url": "https://open.spotify.com/album/0b8dYZrXDD65hMekrzie9J"
-      },
-      "artists": [
-        {
-          "name": "Miink",
-          "url": "https://open.spotify.com/artist/17Rhw8lEDjOqM3GSVqrzhg"
-        }
-      ],
-      "duration_ms": 232312,
-      "name": "Yellow Dust",
-      "url": "https://open.spotify.com/track/01JqaZsSE7IaIdxtI1FSvM"
-    },
-    {
       "added_at": "2019-05-24 08:01:00",
       "album": {
         "name": "Your Own Truth",
@@ -851,18 +835,18 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Canyon",
-        "url": "https://open.spotify.com/album/3wuICxTDIz3Mvg9qZ24WJT"
+        "name": "Small Clan",
+        "url": "https://open.spotify.com/album/0b8dYZrXDD65hMekrzie9J"
       },
       "artists": [
         {
-          "name": "Glded",
-          "url": "https://open.spotify.com/artist/6LQHbUxsIOTU2vkzbUaXCH"
+          "name": "Miink",
+          "url": "https://open.spotify.com/artist/17Rhw8lEDjOqM3GSVqrzhg"
         }
       ],
-      "duration_ms": 189445,
-      "name": "Canyon",
-      "url": "https://open.spotify.com/track/6aVohiCJIKSl1KRprTMOHX"
+      "duration_ms": 232312,
+      "name": "Yellow Dust",
+      "url": "https://open.spotify.com/track/01JqaZsSE7IaIdxtI1FSvM"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -879,6 +863,22 @@
       "duration_ms": 218000,
       "name": "Brother",
       "url": "https://open.spotify.com/track/6gtZgL7jUHYUQa3JvFJT90"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Canyon",
+        "url": "https://open.spotify.com/album/3wuICxTDIz3Mvg9qZ24WJT"
+      },
+      "artists": [
+        {
+          "name": "Glded",
+          "url": "https://open.spotify.com/artist/6LQHbUxsIOTU2vkzbUaXCH"
+        }
+      ],
+      "duration_ms": 189445,
+      "name": "Canyon",
+      "url": "https://open.spotify.com/track/6aVohiCJIKSl1KRprTMOHX"
     },
     {
       "added_at": "2018-12-11 21:12:31",

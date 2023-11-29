@@ -4,7 +4,7 @@
 
 > Soft and cozy acoustic covers of famous songs.
 
-435 songs - 23 hr 35 min
+436 songs - 23 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,7 +242,7 @@
 | [Kiss An Angel Good Mornin'](https://open.spotify.com/track/3RAqqEjitdBdItCphiZAdQ) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Kiss An Angel Good Mornin'](https://open.spotify.com/album/4UubPvWcnV1C4zxFQgC895) | 2:44 | 2023-10-27 |  |
 | [Kissing Other People \- Acoustic](https://open.spotify.com/track/0Otf6MBWU5vOqlwCl1ZIZY) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Kissing Other People \(Acoustic\)](https://open.spotify.com/album/1OkuJQhcqBAbxBD7Hbhi0T) | 3:12 | 2021-03-11 |  |
 | [La La Land \- Acoustic](https://open.spotify.com/track/1sMi8ywnrNKysixM34zH9W) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [La La Land EP](https://open.spotify.com/album/2UfIYmCJf5pvhiaYH8X0fK) | 2:17 | 2021-03-11 | 2022-09-01 |
-| [Last Night](https://open.spotify.com/track/1dHa5Z7tEurFuZUaySS749) | [IOLITE](https://open.spotify.com/artist/0q7Qi8uhdkTZL369raJ4NF) | [Last Night](https://open.spotify.com/album/4rVEM2O5IsozLPU2u86TR3) | 3:07 | 2023-05-12 |  |
+| [Last Night](https://open.spotify.com/track/1dHa5Z7tEurFuZUaySS749) | [IOLITE](https://open.spotify.com/artist/0q7Qi8uhdkTZL369raJ4NF) | [Last Night](https://open.spotify.com/album/4rVEM2O5IsozLPU2u86TR3) | 3:07 | 2023-05-12 | 2023-11-29 |
 | [Lasting Lover \- Acoustic](https://open.spotify.com/track/0TGU6ELkO9MRv7aHL3QVrl) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Lasting Lover \(Acoustic\)](https://open.spotify.com/album/5PYU16itHJWh7q7AoI5xv4) | 3:52 | 2021-03-11 | 2022-11-26 |
 | [Latch](https://open.spotify.com/track/17h05SukjWjPCNWAENwW8U) | [Mel & Macy](https://open.spotify.com/artist/332dMuxyefYaTqoo3k7oVk) | [Latch](https://open.spotify.com/album/1QsdrtvYuAKSDuSyW1VikU) | 3:17 | 2023-06-22 |  |
 | [Lavender Haze](https://open.spotify.com/track/0MqOE4bDEgNBsQi9y8kcZ1) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Lavender Haze](https://open.spotify.com/album/2UnNi9S9CxDFLxrbyiGoHI) | 3:43 | 2023-01-04 | 2023-10-28 |
@@ -410,6 +410,7 @@
 | [Wait & See](https://open.spotify.com/track/5x0tGUVj3sAwpGISvqlqCe) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Wait & See](https://open.spotify.com/album/092lxslMDdtfsPBfQ80vWH) | 2:54 | 2023-02-17 | 2023-10-28 |
 | [Wasn't Expecting That](https://open.spotify.com/track/1IWv7yYMFplrKaZDUldFJn) | [Jamie Lawson](https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND) | [Jamie Lawson](https://open.spotify.com/album/7qrYgKHSH8bIE5gSqXD5pR) | 3:21 | 2022-10-14 | 2023-10-28 |
 | [Wasn't Expecting That](https://open.spotify.com/track/1OmAaRqTdBDH4Efcrgbthz) | [Jamie Lawson](https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND) | [Soft 10's](https://open.spotify.com/album/5nLe1daKdWUczOnLQVFAEb) | 3:21 | 2022-10-26 | 2022-11-13 |
+| [Waterfalls](https://open.spotify.com/track/3lKlGhiNTsv3moOzbMXBUf) | [Tobey Rosen](https://open.spotify.com/artist/7xW6v5mmwGhWtoZ0x2AhLN) | [Waterfalls](https://open.spotify.com/album/2xoeY7T8uj7C0ITIPNBoPz) | 2:50 | 2023-11-24 |  |
 | [Watermelon Sugar \- Acoustic](https://open.spotify.com/track/1TZBg0IBHvqfSAlHvVd8eH) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Watermelon Sugar \(Acoustic\)](https://open.spotify.com/album/4vljiSAPCLIfX03BwIgRhk) | 3:03 | 2022-08-31 | 2023-10-28 |
 | [We Do \- Acoustic](https://open.spotify.com/track/22wRDjYhgg2oQILsLcXi8w) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Noah Neiman](https://open.spotify.com/artist/2ojEZEmcQVC3vLNpcoo9rJ), [Miranda Glory](https://open.spotify.com/artist/3LU5ho1MrktZxpRBGYPISK) | [The Wave EP \(Acoustic, Pt\. 2\)](https://open.spotify.com/album/1jN9d28anuaMCN1zwv1NPw) | 2:29 | 2022-08-31 | 2022-10-14 |
 | [We Do \- Acoustic](https://open.spotify.com/track/4If0j5i6fSA992aS9lOMPK) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Noah Neiman](https://open.spotify.com/artist/2ojEZEmcQVC3vLNpcoo9rJ), [Miranda Glory](https://open.spotify.com/artist/3LU5ho1MrktZxpRBGYPISK) | [We Do \(Acoustic\)](https://open.spotify.com/album/0ACxMWRXttIid0KyoEJ61t) | 2:29 | 2021-03-11 | 2022-07-14 |

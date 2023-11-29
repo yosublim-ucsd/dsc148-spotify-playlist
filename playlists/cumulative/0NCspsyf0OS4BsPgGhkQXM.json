@@ -10901,6 +10901,28 @@
     },
     {
       "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/5NGF1TNUtmTgydrsYTREGu"
+      },
+      "artists": [
+        {
+          "name": "Yonexx",
+          "url": "https://open.spotify.com/artist/1qSxzYgUuAxLbHuzCXXvmm"
+        },
+        {
+          "name": "CR\u00c8ME",
+          "url": "https://open.spotify.com/artist/7GSnGLal6xBBecChmC4W9H"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149798,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/3WNJYcfFVvlTCTi7bGltnV"
+    },
+    {
+      "album": {
         "name": "Medusa (The FifthGuys Remix)",
         "url": "https://open.spotify.com/album/6h8S4uBXthTVotNwX30HM3"
       },
@@ -15935,6 +15957,24 @@
     },
     {
       "album": {
+        "name": "Show Me",
+        "url": "https://open.spotify.com/album/3nJo6xciOneTirb3NF98d5"
+      },
+      "artists": [
+        {
+          "name": "NEOTEK",
+          "url": "https://open.spotify.com/artist/44btqMHopGiWCGHMtFw3mv"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145333,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/18fkKMZ9OA0NBBRSOOVWNj"
+    },
+    {
+      "album": {
         "name": "Show You",
         "url": "https://open.spotify.com/album/6CcCWAyJOwPSBfFrQw4odm"
       },
@@ -16663,7 +16703,7 @@
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 127598,
+      "duration_ms": 127941,
       "name": "stay the night pluggnb",
       "url": "https://open.spotify.com/track/0MpbU5LCgRgyeqQei3B6zp"
     },

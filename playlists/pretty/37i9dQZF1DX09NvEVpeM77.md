@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09NvEVpeM77.md) - [plain]
 
 > Classic rock favorites\. Cover: Bruce Springsteen
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,724 likes - 125 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,896 likes - 125 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09NvEVpeM77.md) - [plain]
 | 82 | [My Shit's Fucked Up](https://open.spotify.com/track/35UT9ZB7UROy8W8JvMmzMD) | [Warren Zevon](https://open.spotify.com/artist/3mY9Ii0cL5SQxpOTAm8SHx) | [Life'll Kill Ya](https://open.spotify.com/album/1DrxOGQtygz3wEH802wdo4) | 2:45 |
 | 83 | [Strutter](https://open.spotify.com/track/0UCg6lnG2MXpuEpf8Pk1MV) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Kiss](https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD) | 3:10 |
 | 84 | [Truckin' \- 2013 Remaster](https://open.spotify.com/track/1I6l01BaBgBCVkfQCpIlR6) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [American Beauty \(2013 Remaster\)](https://open.spotify.com/album/2UDDZVesmQwA4aYfa55diS) | 5:06 |
-| 85 | [Jet \- Remastered 2010](https://open.spotify.com/track/0fl1fDzh0kk3ikaoofO4Dg) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Band On The Run \(Archive Collection\)](https://open.spotify.com/album/6tjhlC2cAY4VtP92VKyqnD) | 4:09 |
+| 85 | [Jet \- Remastered 2010](https://open.spotify.com/track/0fl1fDzh0kk3ikaoofO4Dg) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Band On The Run \(Archive Collection\)](https://open.spotify.com/album/6tjhlC2cAY4VtP92VKyqnD) | 4:09 |
 | 86 | [Thunder Road](https://open.spotify.com/track/56lhDZNQ5J47aog6mGKeGk) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 4:48 |
 | 87 | [Jailbreak](https://open.spotify.com/track/4qbiCq2xkNPyojuZFeNeqx) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Jailbreak \(Deluxe Edition\)](https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2) | 4:00 |
 | 88 | [Mother and Child Reunion](https://open.spotify.com/track/5vZ1BKMSLgrxxPYGMR904n) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Paul Simon](https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep) | 3:07 |
@@ -114,7 +114,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09NvEVpeM77.md) - [plain]
 | 104 | [My Old School](https://open.spotify.com/track/3FpKXPOG2FqB3QzmfafG1H) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Countdown To Ecstasy](https://open.spotify.com/album/1oOpgDzHt6wl7kHbFFPzEc) | 5:39 |
 | 105 | [Miami 2017 \(Seen the Lights Go Out On Broadway\)](https://open.spotify.com/track/4zVPevC2rE84lySHxX61Yr) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Turnstiles](https://open.spotify.com/album/7GiLfxL1su3MSqz7pmKMZi) | 5:15 |
 | 106 | [Angel from Montgomery](https://open.spotify.com/track/2qWKpYIleSvBT6aUMXoia5) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [John Prine](https://open.spotify.com/album/5t4FHrIAHI8nolSAOBRgPp) | 3:44 |
-| 107 | [Nineteen Hundred And Eighty Five \- Remastered 2010](https://open.spotify.com/track/6g8055gyz49kK7VBDAFOf6) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Band On The Run \(Archive Collection\)](https://open.spotify.com/album/6tjhlC2cAY4VtP92VKyqnD) | 5:32 |
+| 107 | [Nineteen Hundred And Eighty Five \- Remastered 2010](https://open.spotify.com/track/6g8055gyz49kK7VBDAFOf6) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Band On The Run \(Archive Collection\)](https://open.spotify.com/album/6tjhlC2cAY4VtP92VKyqnD) | 5:32 |
 | 108 | [Jet Airliner](https://open.spotify.com/track/4PMx9RSiKlgry322H27rrZ) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Book Of Dreams](https://open.spotify.com/album/36G9sqbDXXbE7Mv9GTDMXd) | 4:25 |
 | 109 | [Flame Trees \- 2011 Remastered](https://open.spotify.com/track/5qBmTXgCdtvCqKc9yrLoWg) | [Cold Chisel](https://open.spotify.com/artist/1VcbchGlIfo3Gylxc3F076) | [Twentieth Century](https://open.spotify.com/album/43kr4D7peDZ128pt5im3cr) | 4:24 |
 | 110 | [Power And The Passion \- Remastered Version](https://open.spotify.com/track/75SH7qKifZ0Mzl4UFmps31) | [Midnight Oil](https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk) | [10,9,8,7,6,5,4,3,2,1](https://open.spotify.com/album/1iWFOvjt1FQfkMJrZxtwiF) | 5:39 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09NvEVpeM77.md) - [plain]
 | 124 | [The Rising](https://open.spotify.com/track/2czBvzOv3TvnyoW7Ozo7fP) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Rising](https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d) | 4:47 |
 | 125 | [Face It Alone](https://open.spotify.com/track/1b0sraww5e2cubW3K90kwf) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle \(Collector's Edition\)](https://open.spotify.com/album/3CY1m3w0rn3MEiYrDEpiAv) | 4:07 |
 
-Snapshot ID: `MCxhNTBlZTI0M2I0Yzk2ZjRmZDVjOGY5YTlhMGQwMTVlNWY0YTA0YjRm`
+Snapshot ID: `MCw4YjkxOWFiMjVhYWYxYzNlYTIzNDUzN2I0MzgyNmRmN2FiMjhjNDlj`

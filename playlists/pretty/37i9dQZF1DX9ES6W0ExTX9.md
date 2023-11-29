@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ES6W0ExTX9.md) - [plain]
 
 > Can you survive? Listen to the music from and inspired by FNAF.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,933 likes - 43 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,022 likes - 43 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Five Nights at Freddy's](https://open.spotify.com/track/5ZbwPEUqw1hK6rp0ppD8lR) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [Five Nights at Freddy's](https://open.spotify.com/album/2nXOk2xDys9smftpAAufpQ) | 2:45 |
+| 1 | [Five Nights at Freddy's](https://open.spotify.com/track/2ItNKt19iqefEe590Z9GeE) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [Five Nights at Freddy's](https://open.spotify.com/album/1dq5N7M7pxFso51oa79BTI) | 2:45 |
 | 2 | [Talking In Your Sleep](https://open.spotify.com/track/7fRvtXvJMpGfTLdF0M09a1) | [The Romantics](https://open.spotify.com/artist/3daM7asS0gCFvyLemNx2EE) | [In Heat](https://open.spotify.com/album/0LMfbsue7HETT4P8Mqxbvg) | 3:55 |
 | 3 | [Connection](https://open.spotify.com/track/53LZqMzQEnjBkFXPqOq0cD) | [Elastica](https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx) | [Elastica](https://open.spotify.com/album/00MAXeszCotk3g9q8KYJlZ) | 2:20 |
 | 4 | [Real Wild Child \(Wild One\)](https://open.spotify.com/track/6ZAwEE4kTdtvyE66iRhFxR) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Blah\-Blah\-Blah](https://open.spotify.com/album/4j1zp01LTkV9kNWAuKU45c) | 3:38 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ES6W0ExTX9.md) - [plain]
 | 42 | [Never Coming Home](https://open.spotify.com/track/3eda5oVs9sQmajrLdHkzYz) | [Not a Robot](https://open.spotify.com/artist/29MVYfZicV6Hxa8SgzWuWB), [Christina Rotondo](https://open.spotify.com/artist/0JLPvCgJch8H8gdiez8HSY) | [Never Coming Home](https://open.spotify.com/album/4sKwsv7vJHcw5bMkfQ8IOd) | 3:17 |
 | 43 | [In Your Eyes Now](https://open.spotify.com/track/4QN92N8khw9VBK1G9iqA9r) | [NightCove\_thefox](https://open.spotify.com/artist/6yYJBwT8q1KYXucYLroowZ) | [In Your Eyes Now](https://open.spotify.com/album/5tXn2I6iQJjntrMIZKBGTa) | 3:28 |
 
-Snapshot ID: `MCxiYjQ3MGFhMzk2MTQ3Yjk1ZDE0Mzc2ZGNjZDc5MDRkNmNiOGFmMTVk`
+Snapshot ID: `MCwyMDQ0YmYwYWRjNmYwYmVkN2I4OTA4MzBhZjU3MjAyNzhhNTc1ZWY1`

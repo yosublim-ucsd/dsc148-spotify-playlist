@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > The hottest songs from LGBTQIA+ artists\. Cover: LIE NING
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,096,548 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,096,495 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [Infinit](https://open.spotify.com/track/0OfFRnxYnkeebUWDGqorD5) | [Roxen](https://open.spotify.com/artist/6KCxe5mJlHDJlKEXbNFLsP) | [Infinit](https://open.spotify.com/album/2UCIBmgKHSTQY9qQpvxgDv) | 3:25 |
 | 50 | [MANIC](https://open.spotify.com/track/68M0lk2tYUaQf1TVsEYSXS) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [MANIC](https://open.spotify.com/album/7aZzOXdbZOl9A8FL3z1c20) | 2:18 |
 
-Snapshot ID: `MCw5ZDFjMGJhMDQwNjMxNDU1YzdhZWNmMzJiNTdhZWIyMGIxYTkwNmNj`
+Snapshot ID: `MCxmNWNkYmJkMjNiMzI1NjY1NDk1MWMxYTk4MGYyMTRiZmJhZjNhMzBj`

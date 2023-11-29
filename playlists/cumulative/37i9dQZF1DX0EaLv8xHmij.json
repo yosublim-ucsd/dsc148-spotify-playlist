@@ -897,6 +897,24 @@
     },
     {
       "album": {
+        "name": "Vetin",
+        "url": "https://open.spotify.com/album/2GUMdFLAWolI1qxf7dcTbs"
+      },
+      "artists": [
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173340,
+      "name": "Boca",
+      "url": "https://open.spotify.com/track/0om5OHq5YXfbqyWjNRtytV"
+    },
+    {
+      "album": {
         "name": "Da Viela Pro Mundo",
         "url": "https://open.spotify.com/album/5VqImQimN6ayrkJGGdbmQ5"
       },

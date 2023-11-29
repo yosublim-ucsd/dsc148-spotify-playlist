@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0psQULQgJwx.md) - [plain]
 
 > Lounge sounds for SPA
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,622 likes - 108 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,714 likes - 108 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0psQULQgJwx.md) - [plain]
 | 107 | [Stories Untold](https://open.spotify.com/track/1qxQe1i88c7raj11FQn5rM) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Stories Untold](https://open.spotify.com/album/3wsnwDdtD8Vx3Dmw53qe9f) | 3:32 |
 | 108 | [Neela](https://open.spotify.com/track/6DgWjbrZFA4uTWJgTH3Q3p) | [Monorie](https://open.spotify.com/artist/1JZno0x00fpuTL7Kw6uUMD) | [Neela](https://open.spotify.com/album/0rgB5Ap7skxzetcGFpaPZC) | 4:02 |
 
-Snapshot ID: `MCxjODlmZjU5NTljNzg0ZmQxYzQzZmQ0M2QyNTFkMDhjMmU2OTg2OTQ5`
+Snapshot ID: `MCxiNzA3NTRmNjcwYmE1YWI5M2M5Yjg4NDIxM2UyZWQ3ODkyMzk0ODUx`

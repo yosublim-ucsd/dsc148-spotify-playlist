@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 240362,
+  "num_followers": 240424,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDZhZjYwOWM3Zjc5Y2U5YWI2YWE1MmVhMGNkZmZlMmJjOTYyZmUz",
+  "snapshot_id": "MCw3NjFiZDZhYThhMjdhNjY2ZWFmYTVkOTQwNTdmNTVhNmY4MTIzZWQw",
   "tracks": [
     {
       "added_at": "2023-11-16 23:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-11-16 23:00:00",
       "album": {
-        "name": "Tasty",
-        "url": "https://open.spotify.com/album/44aLFnq6Fjpb3JBPKsEpaK"
-      },
-      "artists": [
-        {
-          "name": "DaniLeigh",
-          "url": "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
-        }
-      ],
-      "duration_ms": 150799,
-      "name": "Tasty",
-      "url": "https://open.spotify.com/track/6lSwB0f2MN7uhJT7q4dRvS"
-    },
-    {
-      "added_at": "2023-11-16 23:00:00",
-      "album": {
         "name": "Little Blue Moon",
         "url": "https://open.spotify.com/album/4BRgkGx8jvMncKLgugeVYp"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 168146,
       "name": "Little Blue Moon",
       "url": "https://open.spotify.com/track/0Lmx2qlN2FbeGWgqTBzQ2k"
+    },
+    {
+      "added_at": "2023-11-16 23:00:00",
+      "album": {
+        "name": "Tasty",
+        "url": "https://open.spotify.com/album/44aLFnq6Fjpb3JBPKsEpaK"
+      },
+      "artists": [
+        {
+          "name": "DaniLeigh",
+          "url": "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
+        }
+      ],
+      "duration_ms": 150799,
+      "name": "Tasty",
+      "url": "https://open.spotify.com/track/6lSwB0f2MN7uhJT7q4dRvS"
     },
     {
       "added_at": "2023-11-16 23:00:00",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2023-11-16 23:00:00",
       "album": {
+        "name": "Unfiltered",
+        "url": "https://open.spotify.com/album/55Z9X5i9tJmBhiSqr5MuAT"
+      },
+      "artists": [
+        {
+          "name": "[ K S R ]",
+          "url": "https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk"
+        }
+      ],
+      "duration_ms": 109270,
+      "name": "Solutions",
+      "url": "https://open.spotify.com/track/4dzUnPycaoQTzRxm4tqF3O"
+    },
+    {
+      "added_at": "2023-11-16 23:00:00",
+      "album": {
         "name": "On Mine",
         "url": "https://open.spotify.com/album/4C21azUS5PkhZUcVe82ik5"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 143986,
       "name": "On Mine",
       "url": "https://open.spotify.com/track/3wbV0PBJKj24jEcVuSHZoX"
-    },
-    {
-      "added_at": "2023-11-16 23:00:00",
-      "album": {
-        "name": "Unfiltered",
-        "url": "https://open.spotify.com/album/55Z9X5i9tJmBhiSqr5MuAT"
-      },
-      "artists": [
-        {
-          "name": "[ K S R ]",
-          "url": "https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk"
-        }
-      ],
-      "duration_ms": 109270,
-      "name": "Solutions",
-      "url": "https://open.spotify.com/track/4dzUnPycaoQTzRxm4tqF3O"
     },
     {
       "added_at": "2023-11-16 23:00:00",

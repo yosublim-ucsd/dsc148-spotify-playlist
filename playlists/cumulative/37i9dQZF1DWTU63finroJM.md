@@ -4,7 +4,7 @@
 
 > Meet the future\. New artists on the horizon.
 
-1,161 songs - 2 day 16 hr 21 min
+1,162 songs - 2 day 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -811,7 +811,8 @@
 | [Se Te Cayó](https://open.spotify.com/track/2eyaovnTryBlxQZrQ2TDMx) | [ADRI](https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E) | [Se Te Cayó](https://open.spotify.com/album/6P8eo6PshOT2xbv2ISKOGz) | 2:52 | 2022-03-24 | 2022-08-02 |
 | [Seaside](https://open.spotify.com/track/7qNXY0nLhMoaNINklgqeWf) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO) | [Bae Doven No\. 1](https://open.spotify.com/album/6BMIKnnkgFymPqYSW9GxHH) | 2:50 | 2022-03-24 | 2022-04-20 |
 | [sennik \(vol.2\)](https://open.spotify.com/track/39zA36ymdG2wApLdb4uSqT) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [sennik \(vol.2\)](https://open.spotify.com/album/2yCozxpnHoE06DqOrR5kFh) | 2:28 | 2022-11-18 | 2023-05-31 |
-| [SENSATION](https://open.spotify.com/track/4u10hXkMIHWXQc7eSJM6ZN) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6) | [SUN7](https://open.spotify.com/album/77mTEOKxs8H61K4wZiJWFk) | 2:27 | 2023-08-18 |  |
+| [SENSATION](https://open.spotify.com/track/0pIWSS7xmChrYzfNFEfdzn) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6) | [SUN7](https://open.spotify.com/album/07IfuWJbMzAw6cTie8Wyu0) | 2:27 | 2023-08-18 |  |
+| [SENSATION](https://open.spotify.com/track/4u10hXkMIHWXQc7eSJM6ZN) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6) | [SUN7](https://open.spotify.com/album/77mTEOKxs8H61K4wZiJWFk) | 2:27 | 2023-08-18 | 2023-11-29 |
 | [Sepasang Mata Bola](https://open.spotify.com/track/4jRX03skpItE7YzxVjaPZX) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Sepasang Mata Bola](https://open.spotify.com/album/7AKPjfIbnFsKHV6rdKb2El) | 3:44 | 2022-04-29 | 2022-06-01 |
 | [Sepertiga](https://open.spotify.com/track/5G5ZeAfOfDpNu3ky3NsVy0) | [FML](https://open.spotify.com/artist/0fUa0Fw2rm0HCRtKYmBJ1N) | [Sepertiga](https://open.spotify.com/album/0GeXNw5XA7QnMZlsWsWNaB) | 3:00 | 2022-02-03 | 2022-08-02 |
 | [Seribu Kali Cinta](https://open.spotify.com/track/3SrbdfVE2DGOUaHG3kd7rZ) | [Christie](https://open.spotify.com/artist/0ua3HlZNc0psrEhsqAynnr) | [Seribu Kali Cinta](https://open.spotify.com/album/2D3Hb8Wge3s71MyapmTiNz) | 4:30 | 2022-02-10 | 2022-04-06 |

@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/druski/?hl=en\">Druski</a>",
-  "num_followers": 36329,
+  "num_followers": 36441,
   "original_name": "Druski's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzU5Mjk2MjJmMjYyNjQ2YWE1MGU4OTcyYTM5ZDM5ODVlMmE0YmIz",
+  "snapshot_id": "MCwyNjRiNDdhNGIwYzAwMTc0NTk4ZTA4MDY4NDNlYzY0YjRhNjdjZTY3",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Charlie, Last Name Wilson",
-        "url": "https://open.spotify.com/album/28HcjLBR5KSz5QrnRz7kSP"
-      },
-      "artists": [
-        {
-          "name": "Charlie Wilson",
-          "url": "https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w"
-        }
-      ],
-      "duration_ms": 215866,
-      "name": "Charlie, Last Name Wilson",
-      "url": "https://open.spotify.com/track/6UZqMYYQQThvV55IQPvscO"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Gucci Mane Presents: So Icy Summer",
         "url": "https://open.spotify.com/album/7hEgFnAICf8FqaERqmehOT"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 177110,
       "name": "7.62 God",
       "url": "https://open.spotify.com/track/7w77k7yCaDOMe25fYxnzit"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Charlie, Last Name Wilson",
+        "url": "https://open.spotify.com/album/28HcjLBR5KSz5QrnRz7kSP"
+      },
+      "artists": [
+        {
+          "name": "Charlie Wilson",
+          "url": "https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w"
+        }
+      ],
+      "duration_ms": 215866,
+      "name": "Charlie, Last Name Wilson",
+      "url": "https://open.spotify.com/track/6UZqMYYQQThvV55IQPvscO"
     },
     {
       "added_at": "2022-10-01 16:00:00",

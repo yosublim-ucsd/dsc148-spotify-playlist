@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > DEN ENDA PROMENADEN SOM JAG TAR DEN ÄR TILL BAREN!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,651 likes - 99 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,678 likes - 99 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 98 | [Ikväll Igen](https://open.spotify.com/track/4o5Ob60pz8QHcFKcr4MWyf) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Ikväll Igen](https://open.spotify.com/album/1ivEkyr50tSXBwwZ8z7E32) | 2:17 |
 | 99 | [NÄTTERNA PÅ SMÖGEN](https://open.spotify.com/track/20y6dLrUf6pcyhQ0C0baRx) | [Studavigå](https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6), [Maximus](https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C), [RIK1](https://open.spotify.com/artist/0YnSx8xXces528yeQtNRuz) | [NÄTTERNA PÅ SMÖGEN](https://open.spotify.com/album/0S97r72koBAgUPWmole90S) | 2:34 |
 
-Snapshot ID: `MCxmNmJlYzNiOGU1OTI4MWQ4MGU3OGY2NTg4NmNmYjgyNjhhMTNkMDg2`
+Snapshot ID: `MCw2MWIwZDFjNTc1NjM4NTFiZWM2MjE0OWFiMjQ0YTBmZTgyOTMwNDJi`

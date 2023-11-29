@@ -1,12 +1,12 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 13482,
+  "num_followers": 13514,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOWE2MzgxYjE3YTNmMTNlYzI2ZGE5ZDg1MDkxYjVhNzkyOGJlNTlk",
+  "snapshot_id": "MCwwYWY0NDk0MzY5YWM5YThhODg1YTkxN2Y4N2Y5NTRkMjk0NGNkMjJk",
   "tracks": [
     {
       "added_at": "2023-11-24 17:29:31",
@@ -121,32 +121,12 @@
         },
         {
           "name": "Rob",
-          "url": "https://open.spotify.com/artist/08MbVpIfR68DibfHcDYaUe"
+          "url": "https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw"
         }
       ],
       "duration_ms": 142000,
       "name": "Afropaty",
       "url": "https://open.spotify.com/track/3MtyP815SMmI3bMeLnxDWB"
-    },
-    {
-      "added_at": "2023-11-24 17:29:31",
-      "album": {
-        "name": "Do Mesmo Lado",
-        "url": "https://open.spotify.com/album/7wN4k8G4LfIsYxNnShicSu"
-      },
-      "artists": [
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        },
-        {
-          "name": "Tropkillaz",
-          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
-        }
-      ],
-      "duration_ms": 158109,
-      "name": "Do Mesmo Lado",
-      "url": "https://open.spotify.com/track/58pRRdXapyxE1OUzZWXa4u"
     },
     {
       "added_at": "2023-11-24 17:29:31",
@@ -167,6 +147,26 @@
       "duration_ms": 216000,
       "name": "Proveito",
       "url": "https://open.spotify.com/track/5N3znAB19oFAkGNrcBTPeD"
+    },
+    {
+      "added_at": "2023-11-24 17:29:31",
+      "album": {
+        "name": "Do Mesmo Lado",
+        "url": "https://open.spotify.com/album/7wN4k8G4LfIsYxNnShicSu"
+      },
+      "artists": [
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        },
+        {
+          "name": "Tropkillaz",
+          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
+        }
+      ],
+      "duration_ms": 158109,
+      "name": "Do Mesmo Lado",
+      "url": "https://open.spotify.com/track/58pRRdXapyxE1OUzZWXa4u"
     },
     {
       "added_at": "2023-11-24 17:29:31",
@@ -559,6 +559,26 @@
     {
       "added_at": "2023-11-24 17:29:31",
       "album": {
+        "name": "Verdade ou Ilus\u00e3o",
+        "url": "https://open.spotify.com/album/23pMQXiRHWuovyRxKGJpCA"
+      },
+      "artists": [
+        {
+          "name": "Abayomi",
+          "url": "https://open.spotify.com/artist/2uDMCuJTV24DEJJh4p5dc0"
+        },
+        {
+          "name": "Mr. Dan",
+          "url": "https://open.spotify.com/artist/0tEbPIVxu2YOmZXOWAkJ52"
+        }
+      ],
+      "duration_ms": 204019,
+      "name": "Verdade ou Ilus\u00e3o",
+      "url": "https://open.spotify.com/track/2kX3tbCZwWHnS2zRS8FLcO"
+    },
+    {
+      "added_at": "2023-11-24 17:29:31",
+      "album": {
         "name": "Encruzilhada",
         "url": "https://open.spotify.com/album/2Mfu5KHRKxv7NwkyKbFnwk"
       },
@@ -623,22 +643,18 @@
     {
       "added_at": "2023-11-24 17:29:31",
       "album": {
-        "name": "Verdade ou Ilus\u00e3o",
-        "url": "https://open.spotify.com/album/23pMQXiRHWuovyRxKGJpCA"
+        "name": "Patipapa",
+        "url": "https://open.spotify.com/album/7vy2f8OwWWBA4DKZkox2u5"
       },
       "artists": [
         {
-          "name": "Abayomi",
-          "url": "https://open.spotify.com/artist/2uDMCuJTV24DEJJh4p5dc0"
-        },
-        {
-          "name": "Mr. Dan",
-          "url": "https://open.spotify.com/artist/0tEbPIVxu2YOmZXOWAkJ52"
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
         }
       ],
-      "duration_ms": 204019,
-      "name": "Verdade ou Ilus\u00e3o",
-      "url": "https://open.spotify.com/track/2kX3tbCZwWHnS2zRS8FLcO"
+      "duration_ms": 140000,
+      "name": "Patipapa",
+      "url": "https://open.spotify.com/track/0ERFK8AQaBl0R0ql8I2KpT"
     },
     {
       "added_at": "2023-11-24 17:29:31",
@@ -655,26 +671,6 @@
       "duration_ms": 238500,
       "name": "Ressaca",
       "url": "https://open.spotify.com/track/6G5jevhPxuWf3bWiWosEzQ"
-    },
-    {
-      "added_at": "2023-11-24 17:29:31",
-      "album": {
-        "name": "Me Deixa",
-        "url": "https://open.spotify.com/album/1cDvl8vFwh5TTweTSZYmxk"
-      },
-      "artists": [
-        {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
-        },
-        {
-          "name": "JnrBeats",
-          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
-        }
-      ],
-      "duration_ms": 149351,
-      "name": "Me Deixa",
-      "url": "https://open.spotify.com/track/1u6iYgTh8yBx2riLQWEHwI"
     },
     {
       "added_at": "2023-11-24 17:29:31",
@@ -699,6 +695,26 @@
       "duration_ms": 114117,
       "name": "Te Vejo Mais Tarde",
       "url": "https://open.spotify.com/track/7aieXQo3PThxEBqmro5RPw"
+    },
+    {
+      "added_at": "2023-11-24 17:29:31",
+      "album": {
+        "name": "Me Deixa",
+        "url": "https://open.spotify.com/album/1cDvl8vFwh5TTweTSZYmxk"
+      },
+      "artists": [
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        },
+        {
+          "name": "JnrBeats",
+          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
+        }
+      ],
+      "duration_ms": 149351,
+      "name": "Me Deixa",
+      "url": "https://open.spotify.com/track/1u6iYgTh8yBx2riLQWEHwI"
     },
     {
       "added_at": "2023-11-24 17:29:31",
@@ -767,18 +783,22 @@
     {
       "added_at": "2023-11-24 17:29:31",
       "album": {
-        "name": "Patipapa",
-        "url": "https://open.spotify.com/album/7vy2f8OwWWBA4DKZkox2u5"
+        "name": "Desacelera",
+        "url": "https://open.spotify.com/album/60lpVugPjTAKSHvTAjKfwo"
       },
       "artists": [
         {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+        },
+        {
+          "name": "Emik\u00e1",
+          "url": "https://open.spotify.com/artist/4en1RCnkxLeusJGKXW9JDB"
         }
       ],
-      "duration_ms": 140000,
-      "name": "Patipapa",
-      "url": "https://open.spotify.com/track/0ERFK8AQaBl0R0ql8I2KpT"
+      "duration_ms": 164007,
+      "name": "Desacelera",
+      "url": "https://open.spotify.com/track/6AKle6rT20sIcA55YYH8oY"
     },
     {
       "added_at": "2023-11-24 17:29:31",
@@ -799,26 +819,6 @@
       "duration_ms": 144522,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/11jWFITfECvDfLi3ukJWYt"
-    },
-    {
-      "added_at": "2023-11-24 17:29:31",
-      "album": {
-        "name": "Desacelera",
-        "url": "https://open.spotify.com/album/60lpVugPjTAKSHvTAjKfwo"
-      },
-      "artists": [
-        {
-          "name": "Pejota",
-          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
-        },
-        {
-          "name": "Emik\u00e1",
-          "url": "https://open.spotify.com/artist/4en1RCnkxLeusJGKXW9JDB"
-        }
-      ],
-      "duration_ms": 164007,
-      "name": "Desacelera",
-      "url": "https://open.spotify.com/track/6AKle6rT20sIcA55YYH8oY"
     },
     {
       "added_at": "2023-11-24 17:29:31",
@@ -899,6 +899,26 @@
     {
       "added_at": "2023-11-24 17:29:31",
       "album": {
+        "name": "Em Mim",
+        "url": "https://open.spotify.com/album/24yXgj5YYaX70GSzazTuPq"
+      },
+      "artists": [
+        {
+          "name": "Liu Beatz",
+          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
+        },
+        {
+          "name": "Guetta FInelly",
+          "url": "https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX"
+        }
+      ],
+      "duration_ms": 126143,
+      "name": "Em Mim",
+      "url": "https://open.spotify.com/track/0waABf8cZaYuSyRMCvQlFm"
+    },
+    {
+      "added_at": "2023-11-24 17:29:31",
+      "album": {
         "name": "Perigo",
         "url": "https://open.spotify.com/album/1oFEEJiCKaUPk8h4yqVwvT"
       },
@@ -927,26 +947,6 @@
       "duration_ms": 160000,
       "name": "Perigo",
       "url": "https://open.spotify.com/track/5hFhHT6WwgT6u7uiX3zlFQ"
-    },
-    {
-      "added_at": "2023-11-24 17:29:31",
-      "album": {
-        "name": "Em Mim",
-        "url": "https://open.spotify.com/album/24yXgj5YYaX70GSzazTuPq"
-      },
-      "artists": [
-        {
-          "name": "Liu Beatz",
-          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
-        },
-        {
-          "name": "Guetta FInelly",
-          "url": "https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX"
-        }
-      ],
-      "duration_ms": 126143,
-      "name": "Em Mim",
-      "url": "https://open.spotify.com/track/0waABf8cZaYuSyRMCvQlFm"
     },
     {
       "added_at": "2023-11-24 17:29:31",

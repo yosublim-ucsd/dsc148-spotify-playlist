@@ -4,7 +4,7 @@
 
 > Timeless melodies from your favourite artists, both old and new.
 
-230 songs - 13 hr 14 min
+232 songs - 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,8 +217,10 @@
 | [Thank You](https://open.spotify.com/track/1i9bL3Pm3Hzc3ILU3pfosw) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Thank You](https://open.spotify.com/album/013NKUxXOA4AAnWic9kYtE) | 3:45 | 2021-12-17 | 2023-04-15 |
 | [The Good](https://open.spotify.com/track/51lXsATkqtU3ScAuIvi94k) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [The Good](https://open.spotify.com/album/2UjjNucdVZNQtFOT5S54Hn) | 3:29 | 2021-12-17 | 2022-04-06 |
 | [The Kind of Love We Make](https://open.spotify.com/track/28n8z9IQKyjMPxmvYMBqZa) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Kind of Love We Make](https://open.spotify.com/album/77B78XJKo4LcsrRg34GNTu) | 3:44 | 2023-02-28 | 2023-05-10 |
+| [The Promise](https://open.spotify.com/track/2cbfCJFIX0RlIPNkLydHmj) | [Girls Aloud](https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy) | [Ten \(Deluxe Edition\)](https://open.spotify.com/album/7nPNZ0M4qgVUTjlcCPzfSw) | 3:44 | 2023-11-28 |  |
 | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/track/0Muqa8sNqVvjEQo4yfBKXw) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/album/4TOyAu2CWO1kPitP0AxAZV) | 4:32 | 2021-12-17 | 2022-10-13 |
 | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r) | 4:32 | 2022-10-11 |  |
+| [This Life](https://open.spotify.com/track/2g9XI84OUBH0uEVUv7esBA) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [This Life](https://open.spotify.com/album/4uWcWrnFw0c0cl6Z8Q0lPN) | 3:47 | 2023-11-28 |  |
 | [Tiny Dancer](https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Madman Across The Water](https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr) | 6:17 | 2022-04-05 | 2022-09-24 |
 | [Tiny Dancer \- Remastered](https://open.spotify.com/track/5fP7YHDNkIwh3F7zPPgEdB) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Diamonds \(Deluxe\)](https://open.spotify.com/album/3kUqS4YNcnNNlYoUMAeqNB) | 6:15 | 2021-12-17 | 2022-07-29 |
 | [Tonight Tonight](https://open.spotify.com/track/1lk1AQ4NL2F5INzLcCWa1u) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not Your Muse \(Deluxe\)](https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep) | 3:39 | 2021-12-17 |  |
@@ -230,8 +232,8 @@
 | [Waffle House](https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Waffle House](https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99) | 2:25 | 2023-04-14 |  |
 | [We're Good](https://open.spotify.com/track/1diS6nkxMQc3wwC4G1j0bh) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia \(The Moonlight Edition\)](https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX) | 2:45 | 2021-12-17 |  |
 | [Weekends](https://open.spotify.com/track/5x748P8u1DkAIbquBuYOjm) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Weekends](https://open.spotify.com/album/2HoOxD1R1cjXwJJzerB0Jc) | 3:20 | 2023-02-28 |  |
-| [When Someone Loves You](https://open.spotify.com/track/6Z0OTy3hVXDPxskcc262JH) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [When Someone Loves You](https://open.spotify.com/album/24WbV4OTp6wQ0BLA9BD8DP) | 4:15 | 2022-09-23 |  |
-| [When You Were Mine](https://open.spotify.com/track/05NwKm5My3fS780CUUDJFy) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [When You Were Mine](https://open.spotify.com/album/7nI3v7qE8bJ3MP8K0vRDlk) | 3:23 | 2021-12-17 |  |
+| [When Someone Loves You](https://open.spotify.com/track/6Z0OTy3hVXDPxskcc262JH) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [When Someone Loves You](https://open.spotify.com/album/24WbV4OTp6wQ0BLA9BD8DP) | 4:15 | 2022-09-23 | 2023-11-29 |
+| [When You Were Mine](https://open.spotify.com/track/05NwKm5My3fS780CUUDJFy) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [When You Were Mine](https://open.spotify.com/album/7nI3v7qE8bJ3MP8K0vRDlk) | 3:23 | 2021-12-17 | 2023-11-29 |
 | [Who's Gonna Love Me Now?](https://open.spotify.com/track/5DRv0BntPzRxCrIGtHvNOy) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Who's Gonna Love Me Now?](https://open.spotify.com/album/1qH5ZttG6QRV7BnCj2SgUW) | 4:05 | 2021-12-17 | 2022-01-19 |
 | [Who's Hurting Who \(feat\. Nile Rodgers\)](https://open.spotify.com/track/6a828NzyudrfpvTnsedI7Y) | [Jack Savoretti](https://open.spotify.com/artist/7nC05zmJukRGYObQeRgg3x), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Who's Hurting Who \(feat\. Nile Rodgers\)](https://open.spotify.com/album/2wQXfx6cOlXrzUz3PYU987) | 3:12 | 2021-12-17 | 2022-12-03 |
 | [Whole](https://open.spotify.com/track/2JZixjPnrQ67VOPQRDKSmH) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Whole](https://open.spotify.com/album/5rITGmazx7CpQZ8N3nTgaW) | 2:54 | 2021-12-17 | 2022-10-22 |

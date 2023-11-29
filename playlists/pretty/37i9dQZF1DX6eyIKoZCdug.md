@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eyIKoZCdug.md) - [plain]
 
 > From Joburg and Lagos..\. to Chicago\. Get lost in the electro and bass vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,527 likes - 50 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,574 likes - 50 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eyIKoZCdug.md) - [plain]
 | 49 | [Amplified Zone](https://open.spotify.com/track/4nfY8k8nVypCCVSVMnui86) | [SGVO](https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s) | [Amplified Zone](https://open.spotify.com/album/3rvIj2PfEKBmJEmfMikco8) | 7:48 |
 | 50 | [Crazy Vibez](https://open.spotify.com/track/2nwXM9eHzj8eQBsuK9osbL) | [Luxury SA](https://open.spotify.com/artist/1KuiSB2g4gYQoyjmUy4cea) | [Crazy Vibez](https://open.spotify.com/album/5x20kr3HFbo8n8OT4LULjI) | 5:59 |
 
-Snapshot ID: `MCxlMWRlNjg2YzgyZjI4OWUzNDM5YzM4MDU4YjNjMDExMDAwYjYzNjg3`
+Snapshot ID: `MCw1Mzk4MjdhMzNiOWU1YTkxMWJkYzFlMWZmY2FkNDIxZjUwMjMyMTFi`

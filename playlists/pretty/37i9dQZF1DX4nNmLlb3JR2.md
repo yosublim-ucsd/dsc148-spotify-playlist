@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 
 > A fresh lofi spin on your favourite tunes and old songs you love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,550 likes - 158 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,688 likes - 158 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 | 8 | [Put Your Records On](https://open.spotify.com/track/0ayze54kfOomri3f3E8AWz) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [Put Your Records On](https://open.spotify.com/album/14DQcnhpNWXmOg7dw7Okfw) | 3:56 |
 | 9 | [Save Your Tears](https://open.spotify.com/track/2yoNY32JruGk2kCx04GZo3) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Save Your Tears](https://open.spotify.com/album/6tPYTNx6QpdWg8ytSlDEe0) | 5:20 |
 | 10 | [fly me to the moon](https://open.spotify.com/track/0ZRXuSHt856z22kJtfqVjK) | [helistofax](https://open.spotify.com/artist/1OFeufWeaCNizpr4djN3qW) | [fly me to the moon](https://open.spotify.com/album/428Omo1qGn6r2FzfpVGDwC) | 1:48 |
-| 11 | [Plastic Love](https://open.spotify.com/track/3ljEzcpsXThqfImeqk9THy) | [Archipelia](https://open.spotify.com/artist/1wOpgYj0lsgHUCXDTAGzmH) | [Plastic Love](https://open.spotify.com/album/01nHXrfC8vYJijKsSlLnCP) | 3:34 |
+| 11 | [Plastic Love](https://open.spotify.com/track/3ljEzcpsXThqfImeqk9THy) | [Archipelia](https://open.spotify.com/artist/1wOpgYj0lsgHUCXDTAGzmH) | [Plastic Love](https://open.spotify.com/album/01nHXrfC8vYJijKsSlLnCP) | 2:28 |
 | 12 | [Running Up That Hill](https://open.spotify.com/track/2eITMwB0fhcCw9fs5gjLrO) | [Cal Credence](https://open.spotify.com/artist/0T64wysQFvIl2GXHa1XRY7) | [Running Up That Hill](https://open.spotify.com/album/2URVfdDGrqYbepIWjHHjIh) | 2:09 |
 | 13 | [losing my religion](https://open.spotify.com/track/1yUZYcTXb00c7P4pRWjmnY) | [Niebieski](https://open.spotify.com/artist/5UAuF0nlkpdqktgrW7SqaG) | [losing my religion](https://open.spotify.com/album/2VdrgAeG3CBDNOW0ojebq9) | 2:45 |
 | 14 | [Nothing Else Matters](https://open.spotify.com/track/43iChjuuKFSZw3LMLnrs2i) | [Oliver Kruz](https://open.spotify.com/artist/4dJvVbTz4n1WbqCH6XKDCm) | [Nothing Else Matters](https://open.spotify.com/album/5AUFhByOltEqxUA41CcZ9l) | 3:30 |
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 | 157 | [Sunny](https://open.spotify.com/track/1LG2brYleAjyAbOgYDAjG8) | [AMV](https://open.spotify.com/artist/7lkaZYDiy9cgckUDibxHsn) | [Sunny](https://open.spotify.com/album/1a8VE2Tf2qQoEXldyBBDJz) | 2:29 |
 | 158 | [Jimmy Cooks \- Lofi Cover](https://open.spotify.com/track/0QtpzHpNX7piC7zuMFEHEK) | [Covers Unplugged](https://open.spotify.com/artist/7nh5TZodhwFh0CkAIFDDxl), [Wild Issues](https://open.spotify.com/artist/1m3Su2QS1BPQuE4SdHjb2S) | [Lo\-Fi Rap Caviar, Vol\. 4](https://open.spotify.com/album/6d59AcN0nULql52ea9ViNJ) | 1:09 |
 
-Snapshot ID: `MCw3M2QzOTJjMDM1ZmZjYjlkNmJhZjRjZjIxOTljNjUxYzg3NWFkMzcy`
+Snapshot ID: `MCw3MmE4YjU1MTlmOTAwMmRiNmI2ZjY2ZTQyOTZiMTQzMzk1ZjIyYWFh`

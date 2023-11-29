@@ -4,7 +4,7 @@
 
 > 100 Suomi 💯 Kannessa TIPPA ja Kube.
 
-186 songs - 9 hr 1 min
+187 songs - 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [CEO](https://open.spotify.com/track/3n2bJ5mrCykRM3SFpkli6C) | [ALE](https://open.spotify.com/artist/1izgcy57Czf3DH50GcSdwW) | [CEO](https://open.spotify.com/album/3ELv9ibqvgohdIUHJyXddx) | 2:47 | 2023-10-02 | 2023-10-20 |
 | [Clean](https://open.spotify.com/track/1BgeEIf7mUD4CcOmSMJRrK) | [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4) | [Clean](https://open.spotify.com/album/3e100jRy19dNFWOzHRC59d) | 2:32 | 2023-09-21 | 2023-10-20 |
 | [CODEINE](https://open.spotify.com/track/0FAA25M2hH6Bc2ITh6nU5A) | [Ax & Huligan](https://open.spotify.com/artist/3jwBl4QHMabizUrnfyKaaq) | [CODEINE](https://open.spotify.com/album/4JwABEH57AD09VHGEXFubo) | 2:52 | 2023-11-02 |  |
+| [Comeback](https://open.spotify.com/track/1ySufTD0HSLj14eD1rKg66) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Comeback](https://open.spotify.com/album/4r6xUZFUwvsvPXPRBz18VX) | 4:10 | 2023-11-28 |  |
 | [Deja Vu](https://open.spotify.com/track/52XyOJi13FXLYPDWUT50Yi) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Deja Vu](https://open.spotify.com/album/4HNBqbiCT3DkMzSQMCcooa) | 2:19 | 2023-11-16 |  |
 | [Demoneista ystävii](https://open.spotify.com/track/3rK7sL207zzuVPq5iX0qpM) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Demoneista ystävii](https://open.spotify.com/album/2KfNKCtRsib5lzN9QbJsiS) | 3:01 | 2023-11-02 |  |
 | [Demoni](https://open.spotify.com/track/67GFIdsOwFSwGx59b5vEu5) | [MunkkiTuk](https://open.spotify.com/artist/3564og7LWSGSFTFEe3doGR) | [Demoni](https://open.spotify.com/album/2kOyjw2vLBeKpkKIoNsiPw) | 2:09 | 2023-11-09 | 2023-11-17 |
@@ -124,7 +125,7 @@
 | [Nostalgia](https://open.spotify.com/track/3YujyLPiBYIxiicSYTTzbQ) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Joe W](https://open.spotify.com/album/3gGBBaAYxxDA1snSBLkoQX) | 2:43 | 2023-09-21 | 2023-10-27 |
 | [nuori eläke](https://open.spotify.com/track/6xzWmSegvd4ntL8MS5XKpO) | [jambo](https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0), [Victor Nordis](https://open.spotify.com/artist/1DAgitxRlJMroOghdSraJp) | [nuori eläke](https://open.spotify.com/album/1qeWeZgehT9IZJQgUV7r5H) | 2:56 | 2023-09-21 | 2023-10-20 |
 | [Oikee mies](https://open.spotify.com/track/1D7EPvrBZpKfa8ff0nOVtn) | [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O), [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Oikee mies](https://open.spotify.com/album/4KZoMrIueuR2gyZrejUlN1) | 3:05 | 2023-09-21 | 2023-11-24 |
-| [Oikotiet](https://open.spotify.com/track/1HFqG5KbdKJADAgFGa7cNK) | [Tuomas Kauhanen](https://open.spotify.com/artist/61ZSrIBRin3VT35hbvS5UE) | [Oikotiet](https://open.spotify.com/album/0IEJ4c8rIL16GtDMCMwLj0) | 2:24 | 2023-11-09 |  |
+| [Oikotiet](https://open.spotify.com/track/1HFqG5KbdKJADAgFGa7cNK) | [Tuomas Kauhanen](https://open.spotify.com/artist/61ZSrIBRin3VT35hbvS5UE) | [Oikotiet](https://open.spotify.com/album/0IEJ4c8rIL16GtDMCMwLj0) | 2:24 | 2023-11-09 | 2023-11-29 |
 | [Oisko tää täs](https://open.spotify.com/track/0uHbsPVRr12ERCABBWVbe0) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Oisko tää täs / Popinpelko](https://open.spotify.com/album/67o8azfNdjm3DER0vezrN3) | 3:04 | 2023-09-21 | 2023-10-20 |
 | [Oispa Gasellit](https://open.spotify.com/track/6KWqTgvnmd5LHVJ0Zq1aWE) | [Teflon Brothers](https://open.spotify.com/artist/3zh3U2eQ64EhBFbJuxgf1M) | [Oispa Gasellit](https://open.spotify.com/album/6hUNkCPx56b46p8Pta73Ia) | 3:51 | 2023-11-02 | 2023-11-24 |
 | [oma tarina](https://open.spotify.com/track/6XSkjVF9rabSI4AEBDuKga) | [KähinäPate](https://open.spotify.com/artist/6rA8aAvLetQJNi8Dp8L01c) | [oma tarina](https://open.spotify.com/album/5I6ljn2PB9RjXKpPFGzmB6) | 3:32 | 2023-11-09 | 2023-11-17 |

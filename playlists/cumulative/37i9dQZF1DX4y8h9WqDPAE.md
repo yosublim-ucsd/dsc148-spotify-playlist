@@ -4,7 +4,7 @@
 
 > Where R&B meets Hip\-Hop, Pop and everything in between !  Cover: Tyla
 
-591 songs - 1 day 7 hr 21 min
+592 songs - 1 day 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -443,7 +443,8 @@
 | [Serious](https://open.spotify.com/track/7LJjWJjj28xq1W5AvGxw2d) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Serious](https://open.spotify.com/album/0GdpDC5d1P56gP0aFTfd5C) | 1:53 | 2023-10-02 |  |
 | [Serious](https://open.spotify.com/track/0XNIOrz384Vp5fbpsfERxW) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT) | [Serious](https://open.spotify.com/album/5N9bOh6HESnuqWX2DsXxaZ) | 2:53 | 2023-04-14 | 2023-10-07 |
 | [Sex In The Porsche \(and PARTYNEXTDOOR\)](https://open.spotify.com/track/33RTe6MAxEno83JSdpObQr) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Sex In The Porsche \(and PARTYNEXTDOOR\)](https://open.spotify.com/album/0uHHoKJvLxf4gGRhyTUpjy) | 3:33 | 2022-12-16 | 2023-02-25 |
-| [She'll Be Ok](https://open.spotify.com/track/0jTkg3fBydDh9jLEFMzigq) | [4Fargo](https://open.spotify.com/artist/33FcjtLCwlwxV9ImxJX2iK) | [She'll Be Ok](https://open.spotify.com/album/0e6YzmXeaJawQCn44jlqyV) | 2:10 | 2023-10-06 |  |
+| [She'll Be OK](https://open.spotify.com/track/1Aqw1EAisB2KYrE8m4pQqN) | [4Fargo](https://open.spotify.com/artist/33FcjtLCwlwxV9ImxJX2iK) | [She'll Be OK](https://open.spotify.com/album/04XpFnF73mrCeMAyjqFTYg) | 2:10 | 2023-10-06 |  |
+| [She'll Be Ok](https://open.spotify.com/track/0jTkg3fBydDh9jLEFMzigq) | [4Fargo](https://open.spotify.com/artist/33FcjtLCwlwxV9ImxJX2iK) | [She'll Be Ok](https://open.spotify.com/album/0e6YzmXeaJawQCn44jlqyV) | 2:10 | 2023-10-06 | 2023-11-29 |
 | [shelter](https://open.spotify.com/track/6ZX1PCq8GsEkjoDPiw800u) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [tori](https://open.spotify.com/album/2PQVnh3WyBRkVRzcl2nWBd) | 2:51 | 2023-07-28 |  |
 | [Shine](https://open.spotify.com/track/06TDTjD7efqsLwhXKv0bci) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Shine](https://open.spotify.com/album/4dyua6pD9i0Ht460lB6JOG) | 3:02 | 2022-03-18 | 2022-05-20 |
 | [Shine \[Feat\. D Smoke + Tiffany Gouché\]](https://open.spotify.com/track/2mHenqaNpcU7q3JP4V4Oee) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo), [Tiffany Gouché](https://open.spotify.com/artist/2IEnjZsVDEPKUTxNinyqba) | [Shine \[Feat\. D Smoke + Tiffany Gouché\]](https://open.spotify.com/album/7tOJroeUUAj21SaBgC1DZe) | 6:27 | 2022-03-11 | 2022-04-16 |

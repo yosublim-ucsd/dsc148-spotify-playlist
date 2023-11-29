@@ -4,7 +4,7 @@
 
 > Let the songs speak\. Cover: VEDO
 
-579 songs - 1 day 6 hr 13 min
+580 songs - 1 day 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [2 O'Clock](https://open.spotify.com/track/0atUrqW5RpvfSlHCYBl4Qz) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve \(Deluxe Edition\)](https://open.spotify.com/album/5PSR9tquibfWRiWVSkn6qD) | 3:50 | 2023-02-03 | 2023-02-18 |
 | [2 You](https://open.spotify.com/track/0OEKGHJFPl3qI3BMsyqhzc) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [2 You](https://open.spotify.com/album/59QHpipNvxJcD0fSHUnHmo) | 3:04 | 2021-12-15 | 2022-07-28 |
 | [21](https://open.spotify.com/track/11inTV2Wu4nScwljCX5Bxp) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/3567SHwiiXqs6dexprDRSU) | 2:25 | 2023-08-18 | 2023-09-25 |
+| [21](https://open.spotify.com/track/2Nc7cDLjqgAFXNyFvJXOkS) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/4C4GoTj4U4QL9awtXxbFYv) | 2:25 | 2023-08-18 |  |
 | [21](https://open.spotify.com/track/6pZggWHbaEqA3d3WVVT35u) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/3XOj6M8MfJPr6BGpOuI9ho) | 2:25 | 2023-08-18 | 2023-11-05 |
 | [212](https://open.spotify.com/track/3onifXN13iI8OG6PblmC3m) | [Journey Montana](https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv) | [212](https://open.spotify.com/album/1m33fAX1CPDc9hydoXaVDV) | 2:26 | 2023-05-05 |  |
 | [212](https://open.spotify.com/track/5dPXwjX9VgldfSkl5IFnYy) | [Journey Montana](https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv) | [212](https://open.spotify.com/album/3zgMK2eV0XgSjoxfCk6vnk) | 2:26 | 2023-05-05 | 2023-10-25 |
@@ -523,7 +524,7 @@
 | [Time & Space](https://open.spotify.com/track/6MOovkZjVPHVFIjBHDQFyb) | [Yo Trane](https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH) | [Time & Space](https://open.spotify.com/album/1AtZbc5gR0HBEYinJONZA0) | 3:19 | 2021-12-15 | 2022-06-23 |
 | [Timeless](https://open.spotify.com/track/4xs4pD7Piz2HyQgdMcobKd) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Timeless](https://open.spotify.com/album/5DvGT5f0XU0wCCtUboAW47) | 3:14 | 2023-07-14 |  |
 | [Tired](https://open.spotify.com/track/7GJQYvyEw709xFtZuqysVA) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Working On My Karma](https://open.spotify.com/album/11LYtfhFQqoEsnTRgWtBSM) | 4:17 | 2022-10-28 | 2022-11-19 |
-| [Too Good](https://open.spotify.com/track/7eydOAMggQGybRvP25jjHf) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Too Good](https://open.spotify.com/album/50FBHB1so5hMC0unv6LR2l) | 2:48 | 2023-06-16 |  |
+| [Too Good](https://open.spotify.com/track/7eydOAMggQGybRvP25jjHf) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Too Good](https://open.spotify.com/album/50FBHB1so5hMC0unv6LR2l) | 2:48 | 2023-06-16 | 2023-11-29 |
 | [Toxic](https://open.spotify.com/track/5nexAvWNhwg51EavnDgViy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:48 | 2021-12-15 | 2023-02-18 |
 | [TOXIC](https://open.spotify.com/track/2KbtgZpqmeAbjBDuW5HtDM) | [Liyah Katana](https://open.spotify.com/artist/4NoMOvHrwo6D39dNV6ntzu) | [Toxic](https://open.spotify.com/album/2ZibN1oYDxhohvvdKuhb93) | 2:33 | 2023-06-23 | 2023-10-22 |
 | [Toxic](https://open.spotify.com/track/1ztwxwoGCnAxNPoDMBPn4u) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Toxic](https://open.spotify.com/album/62KnAoQ8IZmHJuXELKalqu) | 2:15 | 2023-02-03 | 2023-04-15 |

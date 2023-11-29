@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > Gazing at pedals, soaring celestially high\. Cover: Hotline TNT
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,261 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,461 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 99 | [do you remember...](https://open.spotify.com/track/701DOYFNMoGM1AaFXHVR95) | [Ka$tro](https://open.spotify.com/artist/22AaKQKPmQXX1xFhc825rJ) | [do you remember...](https://open.spotify.com/album/2iSj6baQQWIv880vQBucQl) | 3:28 |
 | 100 | [Bloom](https://open.spotify.com/track/2OhITAOj3KE9nOFTuZgnNe) | [Glare](https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl) | [Bloom](https://open.spotify.com/album/76LGx54WGptsGBHL497A3k) | 2:19 |
 
-Snapshot ID: `MCw0NjE2MmVjOWVmMTUxZmYxNzE2Yzc2ODQ4N2UxYzliNGQyOTI3MmJh`
+Snapshot ID: `MCwwMjEwYzdmNTRlODNkYzg2ZTQyODk5OGEyMGNhZjk0MDkwNWQ2ZGIy`

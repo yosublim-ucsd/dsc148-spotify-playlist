@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題の曲を週末にまとめてチェック。Cover: Jack Harlow
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,759 likes - 55 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,775 likes - 55 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 54 | [Yozora](https://open.spotify.com/track/33R9K1FOX38TIA3hSgWF4l) | [Sugar Goose](https://open.spotify.com/artist/78XX7wBh49Kk7YXPc0HKj4) | [Yozora](https://open.spotify.com/album/2nCX6mYqdaV3CydVYn407Y) | 2:56 |
 | 55 | [Aihakatsu](https://open.spotify.com/track/7GciDCQ4fSx8K2b8OsRTF8) | [KAN](https://open.spotify.com/artist/0wVJakYe8YCkSjdmiHaVHY) | [la RINASCENTE](https://open.spotify.com/album/5lF6oP8XkIndSxM4ZsBWV3) | 5:32 |
 
-Snapshot ID: `MCxlYWQ4Zjg2NTI5YTRmZDIxZjc3ZDExNDY3ODEwMjZlYzNkYjg5MmUx`
+Snapshot ID: `MCxhYmMwMzU2N2ZjNWQxYTNiNjNkMjljMGY1ZmFmMmY1Y2YxNGVhZjI0`

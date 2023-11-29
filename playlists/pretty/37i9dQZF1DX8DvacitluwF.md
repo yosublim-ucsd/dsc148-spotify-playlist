@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > Only the best in South African and international RnB\. Cover: <a href="https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop?si=MOpECg8OT7\-Y1aQy5VUsJA">Langa Mavuso</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,890 likes - 76 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,920 likes - 76 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 | 45 | [DRINK CHAMPS](https://open.spotify.com/track/6krwmAVXbzAcGWVYhLCf8j) | [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW) | [DRINK CHAMPS](https://open.spotify.com/album/1rsnNjPDTYFUtjtE95m2Ph) | 2:20 |
 | 46 | [Frontline](https://open.spotify.com/track/5UWNkFcMRrwjoLioVmr1Y7) | [Reba Red](https://open.spotify.com/artist/1zvBiIeuzPhBHYm0USZrAk) | [Awake](https://open.spotify.com/album/7rwoXMg0mjwc4nXNfsMRyK) | 2:32 |
 | 47 | [Back 2 U](https://open.spotify.com/track/45GqiF1tr66MeXBeJztwdX) | [Adrienne Foo](https://open.spotify.com/artist/5lsaKDXCs0VHVJ5UxMFqSA), [Phiwo](https://open.spotify.com/artist/1aMVkMfK9Wo0rd7TfBymHY) | [Back 2 U](https://open.spotify.com/album/2pvijmArToNkuu9VWUASxo) | 5:10 |
-| 48 | [She'll Be Ok](https://open.spotify.com/track/0jTkg3fBydDh9jLEFMzigq) | [4Fargo](https://open.spotify.com/artist/33FcjtLCwlwxV9ImxJX2iK) | [She'll Be Ok](https://open.spotify.com/album/0e6YzmXeaJawQCn44jlqyV) | 2:10 |
+| 48 | [She'll Be OK](https://open.spotify.com/track/1Aqw1EAisB2KYrE8m4pQqN) | [4Fargo](https://open.spotify.com/artist/33FcjtLCwlwxV9ImxJX2iK) | [She'll Be OK](https://open.spotify.com/album/04XpFnF73mrCeMAyjqFTYg) | 2:10 |
 | 49 | [Forever \(feat\. Musa Keys\)](https://open.spotify.com/track/0xGP8GCqyoshKyKXXR4irB) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Mx Blouse](https://open.spotify.com/artist/4ajpZ48mZRH2U5u4TbzfAE), [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [Forever \(feat\. Musa Keys\)](https://open.spotify.com/album/78LeMCforL5axRdd6EizOw) | 3:38 |
 | 50 | [On my way!](https://open.spotify.com/track/5gafkd7SV0YJZ3xriEJEqv) | [Bey T](https://open.spotify.com/artist/5fGp7NJKHwbRlvQvDudkxk) | [PINK PM](https://open.spotify.com/album/7Mwbp0ArZhIjOpRdzrGyb8) | 2:34 |
 | 51 | [MICELLAR WATER](https://open.spotify.com/track/1bGO5aoFzejQLjjAs2A02D) | [Roho](https://open.spotify.com/artist/2los7qqYBBSB6dlJ8PQ9hd), [Tyson Sybateli](https://open.spotify.com/artist/7Ea3plMenK7eJQjjTXTfDC) | [VESPER](https://open.spotify.com/album/2oxqAqodD8LNvRdowCYDLN) | 3:09 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 | 75 | [Flowers](https://open.spotify.com/track/2KFbxmVIFmT586l1i0DgdT) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88), [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri) | [Flowers](https://open.spotify.com/album/2c0CnSrHNgM7nk4mI7i1Iv) | 2:57 |
 | 76 | [Friends](https://open.spotify.com/track/2nhyCoUnpb9hea8f95iK4K) | [J\-Smash](https://open.spotify.com/artist/3pHXjHFlwhNmDsJ764VFsD), [Amanda Black](https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [Friends](https://open.spotify.com/album/6LGd6l4RhmR8hh99nPdLbK) | 3:18 |
 
-Snapshot ID: `MCxjNDRlNzYzMDc1YjZmMTFhMzU1NjIyNGFjNWI5MTlmY2FlNDRlNzFh`
+Snapshot ID: `MCxiMDc4YjQzM2Q2N2M1NTM5Nzg1MDllM2Y2MmJmYWNmYTBhNzU3Mjk3`

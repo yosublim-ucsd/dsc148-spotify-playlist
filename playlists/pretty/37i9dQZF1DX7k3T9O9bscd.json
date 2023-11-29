@@ -1,12 +1,12 @@
 {
   "description": "Psyched-out bands from the four corners of the world. Melody's Echo Chamber on cover.",
-  "num_followers": 394980,
+  "num_followers": 395106,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjhiOGQ5OGEyNWMyNjlhNTJjYjZkZGZhMDU0NTM0MTE2Nzc5NDll",
+  "snapshot_id": "MCxlYjlmZTY1ODZhOGIxY2U0Yzc2ZTU2OGZhNjVlZjRkM2I0YmI4N2Ez",
   "tracks": [
     {
       "added_at": "2023-11-24 01:15:27",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
+        "name": "Naxatras",
+        "url": "https://open.spotify.com/album/4T297zbG0nk3U7ODkvYAuv"
+      },
+      "artists": [
+        {
+          "name": "Naxatras",
+          "url": "https://open.spotify.com/artist/6HN1s0JzLowapZ7nhOAJ71"
+        }
+      ],
+      "duration_ms": 440014,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/038gKq7MYQFa20Q7MdHySX"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
         "name": "World Music",
         "url": "https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 288826,
       "name": "Three King Fishers",
       "url": "https://open.spotify.com/track/6w3bIc0BxTPGNHqyH4KNiY"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
-        "name": "Naxatras",
-        "url": "https://open.spotify.com/album/4T297zbG0nk3U7ODkvYAuv"
-      },
-      "artists": [
-        {
-          "name": "Naxatras",
-          "url": "https://open.spotify.com/artist/6HN1s0JzLowapZ7nhOAJ71"
-        }
-      ],
-      "duration_ms": 440014,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/038gKq7MYQFa20Q7MdHySX"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Fase Luna",
-        "url": "https://open.spotify.com/album/52YIfAfezvA9xFDbR1zkrd"
-      },
-      "artists": [
-        {
-          "name": "LA Priest",
-          "url": "https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX"
-        }
-      ],
-      "duration_ms": 285308,
-      "name": "It's You",
-      "url": "https://open.spotify.com/track/3IdIW9NqNyz9ulLMHd8IBM"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
         "name": "Aufheben",
         "url": "https://open.spotify.com/album/5fIBgSbkrbeICQnBuygxgn"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 278826,
       "name": "Panic In Babylon",
       "url": "https://open.spotify.com/track/0tyoeMypzUIzgvMB3R7pmL"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "Fase Luna",
+        "url": "https://open.spotify.com/album/52YIfAfezvA9xFDbR1zkrd"
+      },
+      "artists": [
+        {
+          "name": "LA Priest",
+          "url": "https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX"
+        }
+      ],
+      "duration_ms": 285308,
+      "name": "It's You",
+      "url": "https://open.spotify.com/track/3IdIW9NqNyz9ulLMHd8IBM"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Paraphernalia",
-        "url": "https://open.spotify.com/album/5lAMuAXEsJekTC4MbBRax1"
-      },
-      "artists": [
-        {
-          "name": "Temples",
-          "url": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
-        }
-      ],
-      "duration_ms": 263453,
-      "name": "Paraphernalia",
-      "url": "https://open.spotify.com/track/19hgVvXQ8RyP5RtCkoUk5C"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
         "name": "Back to Land",
         "url": "https://open.spotify.com/album/5ucGsqmWnXrx69gHS3ldOV"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 317960,
       "name": "Back to Land",
       "url": "https://open.spotify.com/track/7HGjI1DJeVu2UbVbbGNs25"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "Paraphernalia",
+        "url": "https://open.spotify.com/album/5lAMuAXEsJekTC4MbBRax1"
+      },
+      "artists": [
+        {
+          "name": "Temples",
+          "url": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
+        }
+      ],
+      "duration_ms": 263453,
+      "name": "Paraphernalia",
+      "url": "https://open.spotify.com/track/19hgVvXQ8RyP5RtCkoUk5C"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "World Music",
-        "url": "https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb"
-      },
-      "artists": [
-        {
-          "name": "Goat",
-          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
-        }
-      ],
-      "duration_ms": 176120,
-      "name": "Diarabi",
-      "url": "https://open.spotify.com/track/53yknEeyyDEHCqyu8pRGrR"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/3sH28pORiCQMqQNWuXweUv"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 434989,
       "name": "Trees",
       "url": "https://open.spotify.com/track/6RTPhBy716vfQKcfCOVi3I"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "World Music",
+        "url": "https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb"
+      },
+      "artists": [
+        {
+          "name": "Goat",
+          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
+        }
+      ],
+      "duration_ms": 176120,
+      "name": "Diarabi",
+      "url": "https://open.spotify.com/track/53yknEeyyDEHCqyu8pRGrR"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "V.",
-        "url": "https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk"
-      },
-      "artists": [
-        {
-          "name": "Wooden Shjips",
-          "url": "https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0"
-        }
-      ],
-      "duration_ms": 383100,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/7ww3ZrwEJbZjWhmAac71Mk"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
         "name": "Spin",
         "url": "https://open.spotify.com/album/6GejDhVjHKAmQnPkyW6csf"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 273000,
       "name": "Todo Bien",
       "url": "https://open.spotify.com/track/4GZknZiW5V6uCJYBdutfkD"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "V.",
+        "url": "https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk"
+      },
+      "artists": [
+        {
+          "name": "Wooden Shjips",
+          "url": "https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0"
+        }
+      ],
+      "duration_ms": 383100,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/7ww3ZrwEJbZjWhmAac71Mk"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Sacred Drugs",
-        "url": "https://open.spotify.com/album/1z3VxBmeYehR4iKUkQ0IST"
-      },
-      "artists": [
-        {
-          "name": "Al Lover",
-          "url": "https://open.spotify.com/artist/2rVYWIbqIKx8d6hN4owg4A"
-        }
-      ],
-      "duration_ms": 186858,
-      "name": "A Shaman's Hand is Infinite",
-      "url": "https://open.spotify.com/track/1tYXvwP2nPrU6bbV9QUU7i"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
         "name": "Los Estimados",
         "url": "https://open.spotify.com/album/3B98l6muwFWFXI9BkcR34N"
       },
@@ -1327,6 +1311,22 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
+        "name": "Sacred Drugs",
+        "url": "https://open.spotify.com/album/1z3VxBmeYehR4iKUkQ0IST"
+      },
+      "artists": [
+        {
+          "name": "Al Lover",
+          "url": "https://open.spotify.com/artist/2rVYWIbqIKx8d6hN4owg4A"
+        }
+      ],
+      "duration_ms": 186858,
+      "name": "A Shaman's Hand is Infinite",
+      "url": "https://open.spotify.com/track/1tYXvwP2nPrU6bbV9QUU7i"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
         "name": "Hyper Super Mega",
         "url": "https://open.spotify.com/album/4OIFW53ufeQgpo8PCDc8pT"
       },
@@ -1339,6 +1339,22 @@
       "duration_ms": 240468,
       "name": "Forever End",
       "url": "https://open.spotify.com/track/5aGBLQ3Xrbo7Ok0XDRM3bj"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "Ghost Power",
+        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
+      },
+      "artists": [
+        {
+          "name": "Ghost Power",
+          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
+        }
+      ],
+      "duration_ms": 221701,
+      "name": "Asteroid Witch",
+      "url": "https://open.spotify.com/track/2UYmc7jYu8TkUCGe5qsKsn"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -1387,22 +1403,6 @@
       "duration_ms": 220287,
       "name": "Marihuana",
       "url": "https://open.spotify.com/track/5dcFoEhpwbh4eNMzLjfOn5"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
-        "name": "Ghost Power",
-        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
-      },
-      "artists": [
-        {
-          "name": "Ghost Power",
-          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
-        }
-      ],
-      "duration_ms": 221701,
-      "name": "Asteroid Witch",
-      "url": "https://open.spotify.com/track/2UYmc7jYu8TkUCGe5qsKsn"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -1471,38 +1471,6 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Fudge Sandwich",
-        "url": "https://open.spotify.com/album/3DSA6rDV2HqxmPnjngocEw"
-      },
-      "artists": [
-        {
-          "name": "Ty Segall",
-          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
-        }
-      ],
-      "duration_ms": 240320,
-      "name": "Hit It and Quit It",
-      "url": "https://open.spotify.com/track/0JnYzMYChOTG10sLBwNcl5"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
-        "name": "humanus",
-        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
-      },
-      "artists": [
-        {
-          "name": "uh",
-          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
-        }
-      ],
-      "duration_ms": 425036,
-      "name": "attention",
-      "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
         "name": "Ghost Tapes #10",
         "url": "https://open.spotify.com/album/19Jy4bfbeWkmKAy7qA97oR"
       },
@@ -1515,6 +1483,22 @@
       "duration_ms": 364048,
       "name": "Burial",
       "url": "https://open.spotify.com/track/39OK2v0ZYohVbvqg4X4uDE"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "Fudge Sandwich",
+        "url": "https://open.spotify.com/album/3DSA6rDV2HqxmPnjngocEw"
+      },
+      "artists": [
+        {
+          "name": "Ty Segall",
+          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
+        }
+      ],
+      "duration_ms": 240320,
+      "name": "Hit It and Quit It",
+      "url": "https://open.spotify.com/track/0JnYzMYChOTG10sLBwNcl5"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -1535,18 +1519,18 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Tripiando Al Infinito En Mi Rec\u00e1mara",
-        "url": "https://open.spotify.com/album/2Z1qKK31ssXm6CsTBc9yic"
+        "name": "humanus",
+        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
       },
       "artists": [
         {
-          "name": "Tropa Magica",
-          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
+          "name": "uh",
+          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
         }
       ],
-      "duration_ms": 250214,
-      "name": "Meme City",
-      "url": "https://open.spotify.com/track/6KFtYRLRNKZZf5cQWGvtO0"
+      "duration_ms": 425036,
+      "name": "attention",
+      "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -1563,6 +1547,22 @@
       "duration_ms": 266737,
       "name": "Risky Behaviour",
       "url": "https://open.spotify.com/track/1ncZ5SwFLhrMzf9x6SsVKm"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "Tripiando Al Infinito En Mi Rec\u00e1mara",
+        "url": "https://open.spotify.com/album/2Z1qKK31ssXm6CsTBc9yic"
+      },
+      "artists": [
+        {
+          "name": "Tropa Magica",
+          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
+        }
+      ],
+      "duration_ms": 250214,
+      "name": "Meme City",
+      "url": "https://open.spotify.com/track/6KFtYRLRNKZZf5cQWGvtO0"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Coyote",
-        "url": "https://open.spotify.com/album/4RUEEx7aI836PxNySeoCEf"
-      },
-      "artists": [
-        {
-          "name": "El Goodo",
-          "url": "https://open.spotify.com/artist/5i7dni5qwxlcEs65HSvUm7"
-        }
-      ],
-      "duration_ms": 237493,
-      "name": "Feel so Fine",
-      "url": "https://open.spotify.com/track/6G25oGNPGDdkS3A74JnauO"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/69rQ1bld0ENV22159ssTEs"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 235583,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/4Mg8hV7BLoqDzvUii8x9Iw"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "Coyote",
+        "url": "https://open.spotify.com/album/4RUEEx7aI836PxNySeoCEf"
+      },
+      "artists": [
+        {
+          "name": "El Goodo",
+          "url": "https://open.spotify.com/artist/5i7dni5qwxlcEs65HSvUm7"
+        }
+      ],
+      "duration_ms": 237493,
+      "name": "Feel so Fine",
+      "url": "https://open.spotify.com/track/6G25oGNPGDdkS3A74JnauO"
     }
   ],
   "unique_name": "Neo-Psychedelic Rock",

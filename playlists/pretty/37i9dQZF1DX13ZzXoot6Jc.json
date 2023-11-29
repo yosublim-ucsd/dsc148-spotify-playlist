@@ -1,12 +1,12 @@
 {
   "description": "Country hits that will have you singing every word. Cover: HARDY",
-  "num_followers": 456519,
+  "num_followers": 456553,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWExMGE0ZTBjMWIwYTYxMWU2ZjJmZDg1N2RhMTAyOTM0ODIyM2Q2",
+  "snapshot_id": "MCw4Y2RlMTFhYWU3NTdhMTJkMDE0MzVlMWE3MDBhOTcyMDVkYTMyOWY3",
   "tracks": [
     {
       "added_at": "2023-11-24 05:00:00",
@@ -915,6 +915,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Highway Desperado",
+        "url": "https://open.spotify.com/album/2SCppOPkT7XTKBJV2XIQUw"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 190400,
+      "name": "Whiskey Drink",
+      "url": "https://open.spotify.com/track/4ZIOtzgjSwq7oSkhWqapwa"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "No Bad Days (featuring Jimmie Allen)",
         "url": "https://open.spotify.com/album/2s8PwYZk8iDjHhhZXCrnzr"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 145499,
       "name": "No Bad Days (featuring Jimmie Allen)",
       "url": "https://open.spotify.com/track/2ZX3qn7oFWV8vZbBTsz48W"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Highway Desperado",
-        "url": "https://open.spotify.com/album/2SCppOPkT7XTKBJV2XIQUw"
-      },
-      "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        }
-      ],
-      "duration_ms": 190400,
-      "name": "Whiskey Drink",
-      "url": "https://open.spotify.com/track/4ZIOtzgjSwq7oSkhWqapwa"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Maury County Line",
+        "url": "https://open.spotify.com/album/3CJFXeleQ6qvVpYz57KcKy"
+      },
+      "artists": [
+        {
+          "name": "Shane Profitt",
+          "url": "https://open.spotify.com/artist/4EZVvQwjbt64lridujx2Da"
+        }
+      ],
+      "duration_ms": 188736,
+      "name": "How It Oughta Be",
+      "url": "https://open.spotify.com/track/5bA63p1XSVdatb4plUB9fN"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "The Way I Wanna Go",
         "url": "https://open.spotify.com/album/60ev0o8cT8GbqMIYtfIssT"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 210106,
       "name": "Where the Country Girls At (feat. Luke Bryan & Pitbull)",
       "url": "https://open.spotify.com/track/0JyWUiuuPeiTfdQiAyikVo"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Maury County Line",
-        "url": "https://open.spotify.com/album/3CJFXeleQ6qvVpYz57KcKy"
-      },
-      "artists": [
-        {
-          "name": "Shane Profitt",
-          "url": "https://open.spotify.com/artist/4EZVvQwjbt64lridujx2Da"
-        }
-      ],
-      "duration_ms": 188736,
-      "name": "How It Oughta Be",
-      "url": "https://open.spotify.com/track/5bA63p1XSVdatb4plUB9fN"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Beautiful Thing",
+        "url": "https://open.spotify.com/album/70cGCG1fpSqwNbO1XRp4OQ"
+      },
+      "artists": [
+        {
+          "name": "Kidd G",
+          "url": "https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM"
+        }
+      ],
+      "duration_ms": 167333,
+      "name": "Daylight Savings",
+      "url": "https://open.spotify.com/track/5sNgfXPdcRqpF27qjaxZFV"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Do This Life",
         "url": "https://open.spotify.com/album/2AGbKNoFBqHgrfKjUOksc2"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 182706,
       "name": "Do This Life",
       "url": "https://open.spotify.com/track/20b1ZVJECgqoqGKYZtlYzv"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Beautiful Thing",
-        "url": "https://open.spotify.com/album/70cGCG1fpSqwNbO1XRp4OQ"
-      },
-      "artists": [
-        {
-          "name": "Kidd G",
-          "url": "https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM"
-        }
-      ],
-      "duration_ms": 167333,
-      "name": "Daylight Savings",
-      "url": "https://open.spotify.com/track/5sNgfXPdcRqpF27qjaxZFV"
     },
     {
       "added_at": "2023-11-24 05:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Sons da floresta para inspirar seus dia ou noite.",
-  "num_followers": 9940,
+  "num_followers": 9975,
   "original_name": "Sons da Floresta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTFiOTgzZDc0ZjU5YTZmNjEyZjY5ZWZiOTRjMjVjYjUwODZmZmIx",
+  "snapshot_id": "MCxjZDE2ZDk5MGVhODMyNjRjMWMyOWRkNjMzNWNhMDA4ZjVkYWFjYWM5",
   "tracks": [
     {
       "added_at": "2023-06-19 12:57:37",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-06-19 12:57:37",
       "album": {
-        "name": "Healing Rainforest",
-        "url": "https://open.spotify.com/album/4v9Ukg1kCqzVIO8LodrRfB"
-      },
-      "artists": [
-        {
-          "name": "Manaus",
-          "url": "https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Walking In The Rainforest",
-      "url": "https://open.spotify.com/track/0L9ZjKkKfq2Tnm8t8RZ8h7"
-    },
-    {
-      "added_at": "2023-06-19 12:57:37",
-      "album": {
         "name": "Nature Sounds",
         "url": "https://open.spotify.com/album/7BeL9OdzLuHh0Mk62zA1CX"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 243919,
       "name": "Summmer Forest",
       "url": "https://open.spotify.com/track/2zWCsaxlGbohARJlNQ5aSM"
+    },
+    {
+      "added_at": "2023-06-19 12:57:37",
+      "album": {
+        "name": "Healing Rainforest",
+        "url": "https://open.spotify.com/album/4v9Ukg1kCqzVIO8LodrRfB"
+      },
+      "artists": [
+        {
+          "name": "Manaus",
+          "url": "https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Walking In The Rainforest",
+      "url": "https://open.spotify.com/track/0L9ZjKkKfq2Tnm8t8RZ8h7"
     },
     {
       "added_at": "2023-06-19 12:57:37",
@@ -379,6 +379,22 @@
     {
       "added_at": "2023-06-19 12:57:37",
       "album": {
+        "name": "Nature Sounds",
+        "url": "https://open.spotify.com/album/7BeL9OdzLuHh0Mk62zA1CX"
+      },
+      "artists": [
+        {
+          "name": "Nature Recordings",
+          "url": "https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Birds And Breeze",
+      "url": "https://open.spotify.com/track/5vRvzOHbx40CCMkmSC28fY"
+    },
+    {
+      "added_at": "2023-06-19 12:57:37",
+      "album": {
         "name": "Sounds of Mount Desert Island",
         "url": "https://open.spotify.com/album/2pwkOeetQXNKjKrXIDu2JB"
       },
@@ -427,22 +443,6 @@
     {
       "added_at": "2023-06-19 12:57:37",
       "album": {
-        "name": "Relaxing Nature Sounds",
-        "url": "https://open.spotify.com/album/41gv4AWktiPAx0JL5nVqwY"
-      },
-      "artists": [
-        {
-          "name": "Lluvia del Bosque",
-          "url": "https://open.spotify.com/artist/0qxiHjDHTVwI9Q1pcU5jxQ"
-        }
-      ],
-      "duration_ms": 235692,
-      "name": "Rainforest",
-      "url": "https://open.spotify.com/track/1nsiddORSPYmnx7wYdlFHa"
-    },
-    {
-      "added_at": "2023-06-19 12:57:37",
-      "album": {
         "name": "Fresh Forest",
         "url": "https://open.spotify.com/album/2HvyUszsRZo8u0f1pca5fm"
       },
@@ -459,18 +459,18 @@
     {
       "added_at": "2023-06-19 12:57:37",
       "album": {
-        "name": "Nature Sounds",
-        "url": "https://open.spotify.com/album/7BeL9OdzLuHh0Mk62zA1CX"
+        "name": "Relaxing Nature Sounds",
+        "url": "https://open.spotify.com/album/41gv4AWktiPAx0JL5nVqwY"
       },
       "artists": [
         {
-          "name": "Nature Recordings",
-          "url": "https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H"
+          "name": "Lluvia del Bosque",
+          "url": "https://open.spotify.com/artist/0qxiHjDHTVwI9Q1pcU5jxQ"
         }
       ],
-      "duration_ms": 232000,
-      "name": "Birds And Breeze",
-      "url": "https://open.spotify.com/track/5vRvzOHbx40CCMkmSC28fY"
+      "duration_ms": 235692,
+      "name": "Rainforest",
+      "url": "https://open.spotify.com/track/1nsiddORSPYmnx7wYdlFHa"
     },
     {
       "added_at": "2023-06-19 12:57:37",
@@ -487,6 +487,22 @@
       "duration_ms": 187750,
       "name": "Rainy Forest",
       "url": "https://open.spotify.com/track/5DYpluaA9XthyaTyR1TwwN"
+    },
+    {
+      "added_at": "2023-06-19 12:57:37",
+      "album": {
+        "name": "Forest Sounds",
+        "url": "https://open.spotify.com/album/4IGucO2BmKvLu7ynVb6r20"
+      },
+      "artists": [
+        {
+          "name": "Mother Earth Sounds",
+          "url": "https://open.spotify.com/artist/682dFb5qW5sDv3urY7IEqp"
+        }
+      ],
+      "duration_ms": 263236,
+      "name": "Far Away Forest",
+      "url": "https://open.spotify.com/track/22r1o9aEsXPTD47TEPOpYK"
     },
     {
       "added_at": "2023-06-19 12:57:37",
@@ -519,22 +535,6 @@
       "duration_ms": 273819,
       "name": "Pouring River & Forest Sounds",
       "url": "https://open.spotify.com/track/7pecvxazasdLJwT4IQbmUa"
-    },
-    {
-      "added_at": "2023-06-19 12:57:37",
-      "album": {
-        "name": "Forest Sounds",
-        "url": "https://open.spotify.com/album/4IGucO2BmKvLu7ynVb6r20"
-      },
-      "artists": [
-        {
-          "name": "Mother Earth Sounds",
-          "url": "https://open.spotify.com/artist/682dFb5qW5sDv3urY7IEqp"
-        }
-      ],
-      "duration_ms": 263236,
-      "name": "Far Away Forest",
-      "url": "https://open.spotify.com/track/22r1o9aEsXPTD47TEPOpYK"
     },
     {
       "added_at": "2023-06-19 12:57:37",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-06-19 12:57:37",
       "album": {
+        "name": "Nature Sounds",
+        "url": "https://open.spotify.com/album/7BeL9OdzLuHh0Mk62zA1CX"
+      },
+      "artists": [
+        {
+          "name": "Nature Recordings",
+          "url": "https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H"
+        }
+      ],
+      "duration_ms": 226119,
+      "name": "Calm Forest",
+      "url": "https://open.spotify.com/track/4UazPUFk7kiZGPlEXx976Z"
+    },
+    {
+      "added_at": "2023-06-19 12:57:37",
+      "album": {
         "name": "Forest By Night",
         "url": "https://open.spotify.com/album/2GLxsxoWpW8MOw9O9AAsf9"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 251622,
       "name": "Night Forest",
       "url": "https://open.spotify.com/track/7sgzy45LJeI5Dxx6em5Z1s"
-    },
-    {
-      "added_at": "2023-06-19 12:57:37",
-      "album": {
-        "name": "Nature Sounds",
-        "url": "https://open.spotify.com/album/7BeL9OdzLuHh0Mk62zA1CX"
-      },
-      "artists": [
-        {
-          "name": "Nature Recordings",
-          "url": "https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H"
-        }
-      ],
-      "duration_ms": 226119,
-      "name": "Calm Forest",
-      "url": "https://open.spotify.com/track/4UazPUFk7kiZGPlEXx976Z"
     },
     {
       "added_at": "2023-06-19 12:57:37",

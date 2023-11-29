@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:1UL813H5aj3e8ekE5RqWqc">Tale Of Us</a>'s favorite tracks\. Updated regularly\. Curated by Tale Of Us\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-168 songs - 15 hr 17 min
+169 songs - 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Automation](https://open.spotify.com/track/1dje8b1ADEueMZXgYKwJHn) | [Toto Chiavetta](https://open.spotify.com/artist/0DBwNrdGSluzJl24pHRiOk) | [Rational Utopia](https://open.spotify.com/album/0FFLuWqNeJc2HxROaNDH99) | 6:57 | 2022-10-05 |  |
 | [Basic](https://open.spotify.com/track/2sYvuF2sWVOEPc8iWtHIVQ) | [8Kays](https://open.spotify.com/artist/6VJ8RuUWKIgm5p5uEvZCfQ), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [Realm Of Consciousness Pt\. VI](https://open.spotify.com/album/69XacGhPgd7BbJCfnhUhob) | 4:09 | 2023-11-27 |  |
 | [Beholden](https://open.spotify.com/track/3HEDtJmlflJdMDUZx0LNtt) | [James Harcourt](https://open.spotify.com/artist/0vClj7nDFd3J6mRKNmdZ0O) | [Bloodflame EP](https://open.spotify.com/album/2sX5EyFBtC1m0t2aSQlVZQ) | 7:30 | 2022-10-05 | 2023-08-01 |
-| [Believe](https://open.spotify.com/track/1Q67GzAimjd3OLMJJOTy9H) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [Believe](https://open.spotify.com/album/501szlgNOu6d1wltnKyHKw) | 3:33 | 2022-10-05 |  |
+| [Believe](https://open.spotify.com/track/1Q67GzAimjd3OLMJJOTy9H) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [Believe](https://open.spotify.com/album/501szlgNOu6d1wltnKyHKw) | 3:33 | 2022-10-05 | 2023-11-29 |
+| [Believe](https://open.spotify.com/track/7tXSceUXIkr1OvNPCQKdT5) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [MEMO](https://open.spotify.com/album/6azdO29kApAjBqsnEW98cN) | 3:33 | 2023-11-27 |  |
 | [Beyond Us \- Hatshepsut Version](https://open.spotify.com/track/43eF4GLcpQkzJElhw7kGUj) | [Eynka](https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [Beyond Us \(Hatshepsut Version\)](https://open.spotify.com/album/72jzGPaUtzX4wwbigsKmz9) | 3:54 | 2023-03-23 |  |
 | [Black Dress \- Anyma Remix](https://open.spotify.com/track/72R88Czym52F41DZWxL2fY) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Black Dress \(Anyma Remix\)](https://open.spotify.com/album/5U7oU0J5fzAry7Cf8AiyIj) | 4:37 | 2023-11-06 |  |
 | [Blinded \- Colyn Remix](https://open.spotify.com/track/2B0Mt9mDdiL7F267kY7PCS) | [Coloray](https://open.spotify.com/artist/6a3p6ZKDkTzrVbloxkD73E), [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh) | [Blinded \(Colyn Remix\)](https://open.spotify.com/album/2ohmjRcbnmP2cmCAyXTb72) | 5:43 | 2022-10-05 | 2023-08-15 |

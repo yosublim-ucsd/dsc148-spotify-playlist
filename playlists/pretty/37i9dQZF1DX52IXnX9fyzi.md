@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 
 > Piano music to accompany and inspire your writing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,492 likes - 274 songs - 11 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,638 likes - 274 songs - 11 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,10 +75,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 | 65 | [CHANGES](https://open.spotify.com/track/6JdbCoaNkc1Ur5PGK2JsqQ) | [Rangel Silaev](https://open.spotify.com/artist/5CeLTVTT72ZGWHK3q5Bmze) | [CHANGES](https://open.spotify.com/album/1unrTgi2EVB68rZXjXHaHE) | 2:00 |
 | 66 | [Sorgløs](https://open.spotify.com/track/5ehX9txsKfW0npyLGMHkcn) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Sorgløs](https://open.spotify.com/album/1rZTPCZzEuYn9uzChNGdTw) | 2:07 |
 | 67 | [Give and Take](https://open.spotify.com/track/1ZuWu44vG2cTSX2BaTMORM) | [Otto Mitch](https://open.spotify.com/artist/1z83SKsSScydhd9ImLkUCP) | [Give and Take](https://open.spotify.com/album/3jYUbXJT616rFP3Nm3oO68) | 2:14 |
-| 68 | [Vesper](https://open.spotify.com/track/3eC3m3kEenLAxXF18oFG4G) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Minutes To Midnight](https://open.spotify.com/album/57yynEiExWrdlhWQgYrZi7) | 2:12 |
+| 68 | [Vesper](https://open.spotify.com/track/6sQaJc5eWnczHKIHiDfesG) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [One More Story](https://open.spotify.com/album/19B1Y0X1FXBTAcaDfrfYwk) | 2:12 |
 | 69 | [Smile in the wind](https://open.spotify.com/track/1qb6AsW7Y4kXTQpExCW2xm) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Smile in the wind](https://open.spotify.com/album/0uQE309NUZTFs9jfLV4KSp) | 2:05 |
 | 70 | [Lo Siento](https://open.spotify.com/track/6HTwYHpvYigjhhvBUsEKcd) | [Algot Brooke](https://open.spotify.com/artist/5jusPffeiBz4RWAvgZK3dC) | [Lo Siento](https://open.spotify.com/album/4dTNDpTsYII6p7fkO8zWqc) | 2:14 |
-| 71 | [Book Of Vespers \- Second Psalm](https://open.spotify.com/track/2FOCfMhidWT7tvtfrcxyC6) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Book Of Vespers \- Second Meditation](https://open.spotify.com/album/2MJ5q37BhtEgWjTaqTWVBb) | 1:48 |
+| 71 | [Book Of Vespers \- Second Psalm](https://open.spotify.com/track/4TfmUcDnkEVw8DhEx98x8p) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Book Of Vespers \- Third Psalm](https://open.spotify.com/album/7kwVqoDo8TdA9o060qthLa) | 1:48 |
 | 72 | [Return of the wolves](https://open.spotify.com/track/2OIzFIGMPL2UCjtDyEjzhK) | [Rowan Guthrie](https://open.spotify.com/artist/5UZOjfjGjEFQ5v3HGf02YG), [Housman](https://open.spotify.com/artist/6ZtaiZjSFgNoixlvp3zQ56) | [Return of the wolves](https://open.spotify.com/album/5zldCchYUyq0M1gbxkRuhQ) | 2:46 |
 | 73 | [A Dead Sea's Ripples](https://open.spotify.com/track/2cRAkZZruWU1FfeEi2dCez) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [A Dead Sea's Ripples](https://open.spotify.com/album/1RkYa0eVp8mBZCCLAQpbtx) | 3:00 |
 | 74 | [Secret Language \(Solo Piano Version\)](https://open.spotify.com/track/1PZaY3NrqUG03f3QworoZL) | [Sonny Santos](https://open.spotify.com/artist/61rw2tGmDJZcFrMO638UXS), [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0), [The Shivers](https://open.spotify.com/artist/1zok0QXebHywV3KLl6DIFw) | [Secret Language \(Solo Piano Version\)](https://open.spotify.com/album/1FDrPTALSqfWClwFePUBkJ) | 2:37 |
@@ -283,4 +283,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 | 273 | [Sea Change](https://open.spotify.com/track/3pJnfyKoVePwVmljB6Wun1) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Sea Change](https://open.spotify.com/album/1jqlahQiSw1r4Leg6IQp3S) | 2:51 |
 | 274 | [Your Heart Will Mend](https://open.spotify.com/track/60bojdGBpwUfilmhILcPsK) | [Donald Kutcher](https://open.spotify.com/artist/5UvqlmBYi8RQyIyNZPiHTh) | [Your Heart Will Mend](https://open.spotify.com/album/35YyAwBX2Ft3ZJArG1Y2DG) | 2:26 |
 
-Snapshot ID: `MCxjM2I4ZTA4OTU2YzM4NzkxNjc2NWQxZjI2ZjNkOTRiMzUwM2NlYTQ3`
+Snapshot ID: `MCxmMDA0ZDlkZTNjMjBhODQyZjk4NzRlYWMyMjk0NWNjYWM3MmM5MWRk`

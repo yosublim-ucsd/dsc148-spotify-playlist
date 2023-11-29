@@ -4,7 +4,7 @@
 
 > Afro sounds crossing borders\.  Cover: H.E.R\. & Asake
 
-415 songs - 22 hr 30 min
+416 songs - 22 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [\[The Jackie\] \(with J\. Cole & Lil Tjay\)](https://open.spotify.com/track/2cny5OSTr2976U3o018GoV) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [\[BUMP\] Pick Me Up](https://open.spotify.com/album/6zRk8SdWozgrlByoZJkCjM) | 3:24 | 2022-07-25 |  |
 | [A Body, A Coffin](https://open.spotify.com/track/2YYYrSLbcf5eNB5VQJxfM9) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Marvel](https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa) | [Black Panther: Wakanda Forever Prologue](https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM) | 2:49 | 2022-07-25 | 2023-01-27 |
 | [A Million](https://open.spotify.com/track/50Auw53j8FiSIB4frKT12I) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [A Million](https://open.spotify.com/album/1K7d4nsh7rQiu4eSqYlsAf) | 2:34 | 2021-09-10 | 2022-07-29 |
+| [Abena](https://open.spotify.com/track/6DxtuK3Jy8Fll23EHrO1wo) | [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt) | [Abena](https://open.spotify.com/album/59cqRU9fubHfO78cWM7HyB) | 2:15 | 2023-11-28 |  |
 | [African Girl Bad](https://open.spotify.com/track/2iKM6R7hySTdy1QKh2WApo) | [Zoro](https://open.spotify.com/artist/6C5VcMDwD9dQqIOM8VePTM), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [African Girl Bad](https://open.spotify.com/album/5IWveJxAJWYsgNEP9b42fD) | 3:20 | 2021-09-10 | 2022-07-27 |
 | [After OT Bop](https://open.spotify.com/track/1lx47FNvLxy4adohBhod5N) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [After OT Bop](https://open.spotify.com/album/1rl3iIA0JkW1A4VzlHrphf) | 3:41 | 2021-09-10 | 2022-05-17 |
 | [Alien](https://open.spotify.com/track/1e0WFJG0AQjThwpvrlXtFY) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Alien](https://open.spotify.com/album/55Mv3VKNjpmBQLz6BE53W6) | 2:42 | 2022-03-25 | 2022-04-20 |
@@ -204,7 +205,7 @@
 | [Lazarus \(feat\. Boj\)](https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [We're All Alone In This Together](https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG) | 3:24 | 2021-09-10 |  |
 | [Legalize](https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Legalize](https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV) | 2:26 | 2022-06-10 | 2023-07-09 |
 | [Lento](https://open.spotify.com/track/2XghxCSGfhpGR2B3ahQXVr) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Lento](https://open.spotify.com/album/3P5vWf0KJyYObvNKB7jP00) | 3:08 | 2021-09-10 | 2023-05-15 |
-| [Lenu \- Remix](https://open.spotify.com/track/51trdVTGB18HFEsb8dEzq1) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Lenu \(Remix\)](https://open.spotify.com/album/0XPpgvyG25SbLEcKvAMinb) | 3:33 | 2021-09-10 |  |
+| [Lenu \- Remix](https://open.spotify.com/track/51trdVTGB18HFEsb8dEzq1) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Lenu \(Remix\)](https://open.spotify.com/album/0XPpgvyG25SbLEcKvAMinb) | 3:33 | 2021-09-10 | 2023-11-29 |
 | [Lions, Bengals & Bears \(Freestyle\)](https://open.spotify.com/track/0RATk7ftYWuONle5Ghit9a) | [Dj Money](https://open.spotify.com/artist/5Gqwy9rFNhFIlgk3rCUiN7), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Lions, Bengals & Bears \(Freestyle\)](https://open.spotify.com/album/4UiWtwUvt435eQUg3gTBfE) | 3:43 | 2022-03-25 | 2022-05-12 |
 | [Lo Lo](https://open.spotify.com/track/20hZEnFjyvUIk4YkONRGMZ) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Get Layd](https://open.spotify.com/album/2GsFfeO4XlGuOJMMJRhefL) | 2:51 | 2021-09-10 |  |
 | [Location \(feat\. Burna Boy\)](https://open.spotify.com/track/3z4CGd63tpUn9a6oQSG0CI) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [PSYCHODRAMA](https://open.spotify.com/album/4GrFuXwRmEBJec22p58fsD) | 4:01 | 2021-09-10 |  |

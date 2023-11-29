@@ -1256,7 +1256,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 143712,
       "name": "Double Life",
       "url": "https://open.spotify.com/track/2ElpiEF3br7tvd5TYWYKHg"
@@ -3240,6 +3240,24 @@
       "duration_ms": 184000,
       "name": "New Religion",
       "url": "https://open.spotify.com/track/2J4QIV77CWoIWN6IY2u6pC"
+    },
+    {
+      "album": {
+        "name": "Night People",
+        "url": "https://open.spotify.com/album/1snS7GPKcsbRHihG1ug2VN"
+      },
+      "artists": [
+        {
+          "name": "You Me At Six",
+          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183720,
+      "name": "Night People",
+      "url": "https://open.spotify.com/track/0deuG8hdDyPJCsT3qovhF0"
     },
     {
       "album": {

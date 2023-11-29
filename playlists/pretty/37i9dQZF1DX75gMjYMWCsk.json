@@ -1,12 +1,12 @@
 {
   "description": "Explore the unforgettable melodies of the greatest LGBTQIA+ composers. Cover: Nico Muhly",
-  "num_followers": 35741,
+  "num_followers": 35749,
   "original_name": "Classically Queer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODIwN2ZjNDU3NTE2NDNkNzgxZjFkNzM3ZDllZjA2YWI4ZGIzOGU1",
+  "snapshot_id": "MCxhZTc5MmZkMzAzNzY4Mzk5NjhkNmRkYjA1NTMwZjkxYmZmMjhjYTIz",
   "tracks": [
     {
       "added_at": "2023-06-16 10:22:49",
@@ -316,12 +316,12 @@
           "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
         },
         {
-          "name": "Berliner Philharmoniker",
-          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
-        },
-        {
           "name": "Sir Simon Rattle",
           "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
         }
       ],
       "duration_ms": 189085,

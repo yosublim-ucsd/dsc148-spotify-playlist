@@ -1,12 +1,12 @@
 {
   "description": "Bollywood crooner's essential songs.",
-  "num_followers": 914164,
+  "num_followers": 914732,
   "original_name": "This Is Arijit Singh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NzMxZWM0Mjg4MTNhYmM5ODkyYWU5ZWQyYmQyYzUxMmUzNTExMmJj",
+  "snapshot_id": "MCw0MmVlZTAzZWQzODRmM2JmZjgxMGEwYjNkYTYwNjc3MDE0YTJkZGI4",
   "tracks": [
     {
       "added_at": "2023-11-24 07:45:41",
@@ -100,12 +100,12 @@
           "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
         },
         {
-          "name": "Swanand Kirkire",
-          "url": "https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz"
-        },
-        {
           "name": "IP Singh",
           "url": "https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG"
+        },
+        {
+          "name": "Swanand Kirkire",
+          "url": "https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz"
         }
       ],
       "duration_ms": 222997,

@@ -1,12 +1,12 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 44057,
+  "num_followers": 44081,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDI0NzgyNGNkNDZkY2RkZWUxMjNkOGI4ZTRhNTA4NDhkZGU5NTdk",
+  "snapshot_id": "MCwxMmRlMWMxOWMxMWRkNmY5YmY4ZmQ3ZjA2MzdlNTFkMThhMWIzNjc1",
   "tracks": [
     {
       "added_at": "2023-09-15 11:42:58",
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/14c9svUXIslxxftYL6GqZe"
         }
       ],
-      "duration_ms": 158826,
-      "name": "C.Q. Boogie",
-      "url": "https://open.spotify.com/track/38Bctr2TPHF6kOvTmSIiZd"
+      "duration_ms": 203466,
+      "name": "Two-Fisted Mama",
+      "url": "https://open.spotify.com/track/7cUsW9mL1lf2a7rACOS5dA"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -111,6 +111,22 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
+        "name": "The Essential Little Richard",
+        "url": "https://open.spotify.com/album/7tmbNQrDZHuLYKXFiEWlwf"
+      },
+      "artists": [
+        {
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+        }
+      ],
+      "duration_ms": 138933,
+      "name": "I Got It - Remastered",
+      "url": "https://open.spotify.com/track/10AUTRYAZyhFkC0TpkZlsC"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
         "name": "Deuces Wild",
         "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
       },
@@ -131,22 +147,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "The Essential Little Richard",
-        "url": "https://open.spotify.com/album/7tmbNQrDZHuLYKXFiEWlwf"
-      },
-      "artists": [
-        {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
-        }
-      ],
-      "duration_ms": 138933,
-      "name": "I Got It - Remastered",
-      "url": "https://open.spotify.com/track/10AUTRYAZyhFkC0TpkZlsC"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "Two-Fisted Mama!",
         "url": "https://open.spotify.com/album/5cxMmYGtXmBefadP7GdBQt"
       },
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/14c9svUXIslxxftYL6GqZe"
         }
       ],
-      "duration_ms": 203466,
-      "name": "Two-Fisted Mama",
-      "url": "https://open.spotify.com/track/7cUsW9mL1lf2a7rACOS5dA"
+      "duration_ms": 158826,
+      "name": "C.Q. Boogie",
+      "url": "https://open.spotify.com/track/38Bctr2TPHF6kOvTmSIiZd"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Jimmy Liggins And His Drops Of Joy",
-        "url": "https://open.spotify.com/album/4HQ1P6MhPIZ37LSAv9IDts"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Liggins and His Drops Of Joy",
-          "url": "https://open.spotify.com/artist/4xQBPJJJ7cnIch3BhKTm6S"
-        }
-      ],
-      "duration_ms": 156733,
-      "name": "Cadillac Boogie",
-      "url": "https://open.spotify.com/track/0N143ZIbhVs7xVAOHVk8E9"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "Lost in Boogie",
         "url": "https://open.spotify.com/album/4Uvu9q2bZB69DNWeMNfJNK"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 212453,
       "name": "E-Flat Flyer",
       "url": "https://open.spotify.com/track/6SoGI3M6TKrVsPvdNaNJxG"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Jimmy Liggins And His Drops Of Joy",
+        "url": "https://open.spotify.com/album/4HQ1P6MhPIZ37LSAv9IDts"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Liggins and His Drops Of Joy",
+          "url": "https://open.spotify.com/artist/4xQBPJJJ7cnIch3BhKTm6S"
+        }
+      ],
+      "duration_ms": 156733,
+      "name": "Cadillac Boogie",
+      "url": "https://open.spotify.com/track/0N143ZIbhVs7xVAOHVk8E9"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Blues On The Prowl",
-        "url": "https://open.spotify.com/album/3fQi3rgKy3U3udVg0ojE2N"
-      },
-      "artists": [
-        {
-          "name": "Booker T. Laury",
-          "url": "https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH"
-        }
-      ],
-      "duration_ms": 217720,
-      "name": "Booker's Boogie",
-      "url": "https://open.spotify.com/track/2ckb6mS0TcnCxaQ2ywh1CV"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "Piano",
         "url": "https://open.spotify.com/album/0VafiJdDMi3vB2H40Xrwvv"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 181093,
       "name": "Blue Lamp",
       "url": "https://open.spotify.com/track/3GPEPvxXoFf5GYZzlulpvz"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Blues On The Prowl",
+        "url": "https://open.spotify.com/album/3fQi3rgKy3U3udVg0ojE2N"
+      },
+      "artists": [
+        {
+          "name": "Booker T. Laury",
+          "url": "https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH"
+        }
+      ],
+      "duration_ms": 217720,
+      "name": "Booker's Boogie",
+      "url": "https://open.spotify.com/track/2ckb6mS0TcnCxaQ2ywh1CV"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -703,30 +703,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Capitol Collectors Series",
-        "url": "https://open.spotify.com/album/3DQtOkvFUpgfHJLYJJe19V"
-      },
-      "artists": [
-        {
-          "name": "Ella Mae Morse",
-          "url": "https://open.spotify.com/artist/0qGFARKf4pfodYjZbj5N4v"
-        },
-        {
-          "name": "Freddie Slack And His Orchestra",
-          "url": "https://open.spotify.com/artist/4sDUl3F44oqvU3YQm8HmBw"
-        },
-        {
-          "name": "Don Raye",
-          "url": "https://open.spotify.com/artist/5UpwoPrXTj5b0kLlg8Sn5X"
-        }
-      ],
-      "duration_ms": 173293,
-      "name": "The House of Blue Lights",
-      "url": "https://open.spotify.com/track/1ZMoEiIgMdAm8Hj6aS8SyA"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "Boogie Woogie Kid",
         "url": "https://open.spotify.com/album/75eBMldAcmKfU9eG1xGt3D"
       },
@@ -755,6 +731,30 @@
       "duration_ms": 146066,
       "name": "Dollar Bill Boogie",
       "url": "https://open.spotify.com/track/2cPqoxtyPKsoOXPTZpH0OA"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Capitol Collectors Series",
+        "url": "https://open.spotify.com/album/3DQtOkvFUpgfHJLYJJe19V"
+      },
+      "artists": [
+        {
+          "name": "Ella Mae Morse",
+          "url": "https://open.spotify.com/artist/0qGFARKf4pfodYjZbj5N4v"
+        },
+        {
+          "name": "Freddie Slack And His Orchestra",
+          "url": "https://open.spotify.com/artist/4sDUl3F44oqvU3YQm8HmBw"
+        },
+        {
+          "name": "Don Raye",
+          "url": "https://open.spotify.com/artist/5UpwoPrXTj5b0kLlg8Sn5X"
+        }
+      ],
+      "duration_ms": 173293,
+      "name": "The House of Blue Lights",
+      "url": "https://open.spotify.com/track/1ZMoEiIgMdAm8Hj6aS8SyA"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Boogie Woogie Gals",
-        "url": "https://open.spotify.com/album/0MIfIVZV7t0zPMaSiiJnQJ"
-      },
-      "artists": [
-        {
-          "name": "Anisteen Allen",
-          "url": "https://open.spotify.com/artist/5H7GMEfLmgBJlLlEltL1wF"
-        }
-      ],
-      "duration_ms": 160306,
-      "name": "Bongo Boogie",
-      "url": "https://open.spotify.com/track/0z54FzJQpU4t2qV1zGYrCj"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "Sun Records Originals: You Are My Sunshine",
         "url": "https://open.spotify.com/album/0P5c0KZez2nVq9G3kbw83m"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 143000,
       "name": "Born To Lose",
       "url": "https://open.spotify.com/track/7bgCLSHEbtndUh7YHPS4fI"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Boogie Woogie Gals",
+        "url": "https://open.spotify.com/album/0MIfIVZV7t0zPMaSiiJnQJ"
+      },
+      "artists": [
+        {
+          "name": "Anisteen Allen",
+          "url": "https://open.spotify.com/artist/5H7GMEfLmgBJlLlEltL1wF"
+        }
+      ],
+      "duration_ms": 160306,
+      "name": "Bongo Boogie",
+      "url": "https://open.spotify.com/track/0z54FzJQpU4t2qV1zGYrCj"
     },
     {
       "added_at": "2023-09-15 11:42:58",

@@ -4581,6 +4581,24 @@
     },
     {
       "album": {
+        "name": "Cataverdis",
+        "url": "https://open.spotify.com/album/7tGqajhsfJf24VmrE96j9s"
+      },
+      "artists": [
+        {
+          "name": "Ren Lockhart",
+          "url": "https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149629,
+      "name": "Cataverdis",
+      "url": "https://open.spotify.com/track/6Qqto6duuFLcAUvTEsacwS"
+    },
+    {
+      "album": {
         "name": "As the sun slowly sets",
         "url": "https://open.spotify.com/album/6HIZdVicp4nHBJ49nJfbnF"
       },
@@ -8078,7 +8096,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 133487,
       "name": "Entangled - Ole-Bj\u00f8rn Talstad Rework",
       "url": "https://open.spotify.com/track/3ZvBA6TQA4CTOZNOyxou90"
@@ -18238,7 +18256,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 125055,
       "name": "M\u00e1 sestra",
       "url": "https://open.spotify.com/track/49VzYsJHrITQOn28WBMztb"
@@ -20360,6 +20378,24 @@
       "duration_ms": 133874,
       "name": "Peace",
       "url": "https://open.spotify.com/track/1wVGlAEohNLnz29Iojl2BI"
+    },
+    {
+      "album": {
+        "name": "Peace flow",
+        "url": "https://open.spotify.com/album/26L1oUjqDrhosLQuYdHAcm"
+      },
+      "artists": [
+        {
+          "name": "Jon Albreit",
+          "url": "https://open.spotify.com/artist/7HUDHULnPyXARDfZzsx5xc"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137692,
+      "name": "Peace flow",
+      "url": "https://open.spotify.com/track/3IwddX0zjnQ7am17WdP66M"
     },
     {
       "album": {

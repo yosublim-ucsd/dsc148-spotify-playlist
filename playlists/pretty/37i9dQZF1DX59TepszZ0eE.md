@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5?si=jFt0P\-mPQlCUwBwBAk1rRQ">Sneziey</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,033 likes - 90 songs - 9 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,199 likes - 90 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 61 | [Phendula Imithandazo](https://open.spotify.com/track/3mRQCsQk2RKfW36ZJbG82z) | [Mjakes The Producer](https://open.spotify.com/artist/1xPLC6Bv9F6olLAxpN6XLZ), [Nhlonipho](https://open.spotify.com/artist/4fmvHSoDtKFGNsQL3imnRN) | [Phendula Imithandazo](https://open.spotify.com/album/0rbl6EdViK0hKcMKoPyvMs) | 4:24 |
 | 62 | [Umi Nami Engumthokozisi](https://open.spotify.com/track/0qUckWrZmSXvzn0m0kbyMI) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Umi Nami Engumthokozisi](https://open.spotify.com/album/4iFzLQ51cRqqldRBg6zefy) | 4:45 |
 | 63 | [Wafika](https://open.spotify.com/track/4d2ImkfJWALwIAi373Dt7N) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Wafika](https://open.spotify.com/album/0rPX5bZ9moPrhGT9Rwuomo) | 8:33 |
-| 64 | [Nothing Without You \- Live At The Barnyard Theatre / 2016](https://open.spotify.com/track/33ovGnOeJfoSXRyL3dZhgf) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Love & Grace \(Live At The Barnyard Theatre / Deluxe Version\)](https://open.spotify.com/album/3ett5uGGvISE7Sl75Z98Hv) | 7:50 |
+| 64 | [Nothing Without You \- Live](https://open.spotify.com/track/33ovGnOeJfoSXRyL3dZhgf) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Love & Grace \(Live At The Barnyard Theatre / Deluxe Version\)](https://open.spotify.com/album/3ett5uGGvISE7Sl75Z98Hv) | 7:50 |
 | 65 | [Ekugcineni \- Live](https://open.spotify.com/track/73TDScJYYrLlUBjuve3fQc) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Thinah Zungu](https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg) | [Spirit of Praise, Vol\. 7 \(Live\)](https://open.spotify.com/album/50TvIUjsR7nVUcvuK9CyrE) | 5:31 |
 | 66 | [Jehovah Is Your Name \- Live](https://open.spotify.com/track/1HTKLiju70vqy48PSoouCN) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Spirit and Life](https://open.spotify.com/album/6p0LBheyF3ZI3W03CSuUsY) | 7:38 |
 | 67 | [Ingumlilo \(Lento\) \- Live](https://open.spotify.com/track/4oWA2rEDhWrSOeS61szIIM) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Ingumlilo \(Lento\) \[Live\]](https://open.spotify.com/album/1cmIfoIgaAuWyocxTn2i88) | 5:14 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 89 | [Ngiphe Baba Izindlebe](https://open.spotify.com/track/7BEN78AfaIw5d7BXPanX9s) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Ngiphe Baba Izindlebe](https://open.spotify.com/album/6GstVqXZsRARDQqwYgftj2) | 7:24 |
 | 90 | [Hold On \(Live\)](https://open.spotify.com/track/3g6sGNlPxe6dPn1jMUQkVO) | [Sibusiso Nzima](https://open.spotify.com/artist/6AtfG1qMpauT1Z4JXcaJ8b), [Bobo Jay Nzima](https://open.spotify.com/artist/02A9pWLktquvrirqhv0jt1) | [Hold On \(Live\)](https://open.spotify.com/album/0vZ05bOnla5UbYCdWAkgmS) | 6:45 |
 
-Snapshot ID: `MCwxZDQ2ODY3YWJmZGNkYTM0ODRkNTg5NjkwYjE4MGVkODQ2NjNkYTU1`
+Snapshot ID: `MCxjMzE5MGUxNGQxNmM2YTgyODk1MTYwMDgwM2I1N2E4MDgxYjgyMjQz`

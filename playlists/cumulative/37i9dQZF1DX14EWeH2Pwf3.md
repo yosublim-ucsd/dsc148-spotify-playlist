@@ -4,7 +4,7 @@
 
 > La playlist urban più grande d'Italia 🔥 Cover: Sfera Ebbasta
 
-391 songs - 19 hr 15 min
+392 songs - 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [Paranoia](https://open.spotify.com/track/4ZPmb48JaAysD1OdQEt5LL) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J) | [Paranoia](https://open.spotify.com/album/2zj6RUMudqC6Y6le04Axcs) | 3:02 | 2022-05-09 | 2022-06-10 |
 | [Pararara](https://open.spotify.com/track/5Vio7g8p9zDEdJY03cDF2G) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Pararara](https://open.spotify.com/album/3wy6SeCkIKp1AipBNAJx8q) | 2:43 | 2023-01-26 | 2023-04-09 |
 | [PARE \(feat\. Madame\)](https://open.spotify.com/track/1WQxLQxEDMDwuaAmRXDHIw) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [Sensazione ultra](https://open.spotify.com/album/7x0QV22Ci2ZOm9HweqBLhn) | 2:45 | 2022-05-19 | 2022-07-15 |
+| [Parole Vuote \(La Solitudine\)](https://open.spotify.com/track/4QBfVk60RIBQg1uyox78Kh) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [La Divina Commedia](https://open.spotify.com/album/6V2ux3cV4NA4PWx2g1gm0u) | 4:11 | 2023-11-28 |  |
 | [Password](https://open.spotify.com/track/1WXNkrOGGFpG7tjMVHLzxr) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/3SPUCNVfVDn3skohfmd2x8) | 2:45 | 2022-05-09 | 2022-07-29 |
 | [Password](https://open.spotify.com/track/4mKhK3oDQoFvZc3LsqDKfm) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/3cWKB68DH7QRVdoWEjdu8F) | 2:45 | 2022-07-28 | 2022-08-05 |
 | [Password](https://open.spotify.com/track/7wuCjupWPv5nQkH8KRFnil) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/3ieJc57VdQ7aVLAKEazFMc) | 2:45 | 2022-08-04 | 2022-10-28 |
@@ -361,7 +362,7 @@
 | [STURDY](https://open.spotify.com/track/5KYHtcY0dtXkSxZwtVMjgp) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [STURDY](https://open.spotify.com/album/368Ku2KAei8qwbELqc1Rzl) | 3:57 | 2022-05-09 | 2022-06-03 |
 | [Stylist \(feat\. Guè\)](https://open.spotify.com/track/7IGBoOaXAd5IbNZLv5rZFT) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Stylist \(feat\. Guè\)](https://open.spotify.com/album/51AjDPkrqMcW3WnXUiWJX5) | 2:19 | 2023-06-01 | 2023-11-03 |
 | [Syrup](https://open.spotify.com/track/1CVw4Qr8LTapyiovASUpff) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Syrup](https://open.spotify.com/album/5S1n1Vxz7yyKPhwGzy2d37) | 3:08 | 2023-09-15 |  |
-| [TAF TAF](https://open.spotify.com/track/6eJIQo4C9LR9sACJI5fP7O) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [TAF TAF](https://open.spotify.com/album/7zC0Ei12gFL8TnHgEgmu6u) | 3:03 | 2023-07-20 |  |
+| [TAF TAF](https://open.spotify.com/track/6eJIQo4C9LR9sACJI5fP7O) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [TAF TAF](https://open.spotify.com/album/7zC0Ei12gFL8TnHgEgmu6u) | 3:03 | 2023-07-20 | 2023-11-29 |
 | [Take 4](https://open.spotify.com/track/627uLUtgdlY5xVEtjJgKy6) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Take 4](https://open.spotify.com/album/1A01OIU8IqWnFPThOxg7Cr) | 2:50 | 2022-11-09 | 2023-03-25 |
 | [TAXI SULLA LUNA](https://open.spotify.com/track/0JONs2ETXIHvYVxNris8Bf) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX), [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx) | [TAXI SULLA LUNA](https://open.spotify.com/album/1Q2gs2NTXULiFqwCiv5JdG) | 2:23 | 2023-06-08 | 2023-10-27 |
 | [Tchikita](https://open.spotify.com/track/3ztWRav85xIq8FUmBDr3cu) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [Tchikita](https://open.spotify.com/album/4bCnf6PzUd47Wrhfz3OrUE) | 2:36 | 2022-10-07 | 2023-01-27 |

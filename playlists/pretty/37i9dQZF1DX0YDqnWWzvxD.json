@@ -1,12 +1,12 @@
 {
   "description": "Relax, heal and restore your energy",
-  "num_followers": 87816,
+  "num_followers": 88014,
   "original_name": "Savasana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjI4MDViYWJkNmY3YjZlNjExZDY4YWQxMjk1YzQ3ODFlNmMxZGY5",
+  "snapshot_id": "MCxmMmUwMmI2ODdhY2E0ODk0OGNlMjliMjNkNGJjMDZjZTAxMDkyNGY2",
   "tracks": [
     {
       "added_at": "2021-06-15 08:38:14",
@@ -259,22 +259,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Jupiter Grains",
-        "url": "https://open.spotify.com/album/5Jo6hMYywVJZQKBpCrrrHt"
-      },
-      "artists": [
-        {
-          "name": "Jupiter Grains",
-          "url": "https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85"
-        }
-      ],
-      "duration_ms": 165253,
-      "name": "Meditation: Soft Mindfulness",
-      "url": "https://open.spotify.com/track/56zX2qETrgZUS3SqOnN6m6"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Echoes of Silence",
         "url": "https://open.spotify.com/album/4i5kqpHHr4fjDNzusQeDuH"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 262400,
       "name": "Voice of Eternity",
       "url": "https://open.spotify.com/track/75PdHrz9uyj9hIYT9xadZ3"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Jupiter Grains",
+        "url": "https://open.spotify.com/album/5Jo6hMYywVJZQKBpCrrrHt"
+      },
+      "artists": [
+        {
+          "name": "Jupiter Grains",
+          "url": "https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85"
+        }
+      ],
+      "duration_ms": 165253,
+      "name": "Meditation: Soft Mindfulness",
+      "url": "https://open.spotify.com/track/56zX2qETrgZUS3SqOnN6m6"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -751,6 +751,22 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
+        "name": "At Ease",
+        "url": "https://open.spotify.com/album/3Ia4CWcgi1AxnD9s4pRyEN"
+      },
+      "artists": [
+        {
+          "name": "Steve Gorn",
+          "url": "https://open.spotify.com/artist/1CuE092UR0MnsGFKEHZNgC"
+        }
+      ],
+      "duration_ms": 332333,
+      "name": "At Ease",
+      "url": "https://open.spotify.com/track/3Y60FrikUPyqB0LQkxxsbf"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
         "name": "Sleeping Traveller",
         "url": "https://open.spotify.com/album/4b6wVl1CwuxytrRZ9gOLlT"
       },
@@ -783,38 +799,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Yoga Harmony",
-        "url": "https://open.spotify.com/album/5kT8kbTfvjIkRNM129gjai"
-      },
-      "artists": [
-        {
-          "name": "Terry Oldfield",
-          "url": "https://open.spotify.com/artist/0DhTHSo00qVa3OQRWLzA8j"
-        }
-      ],
-      "duration_ms": 499696,
-      "name": "Earth and Sky",
-      "url": "https://open.spotify.com/track/0J6sAnH5FE4wHFr3W7qrmQ"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "At Ease",
-        "url": "https://open.spotify.com/album/3Ia4CWcgi1AxnD9s4pRyEN"
-      },
-      "artists": [
-        {
-          "name": "Steve Gorn",
-          "url": "https://open.spotify.com/artist/1CuE092UR0MnsGFKEHZNgC"
-        }
-      ],
-      "duration_ms": 332333,
-      "name": "At Ease",
-      "url": "https://open.spotify.com/track/3Y60FrikUPyqB0LQkxxsbf"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Morning Dew",
         "url": "https://open.spotify.com/album/3Z9zu4MUl1nu4qDyAQiLBd"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 143333,
       "name": "The Longest Rest",
       "url": "https://open.spotify.com/track/5JZ6J7RmUY8c6gWWCV1r7g"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Yoga Harmony",
+        "url": "https://open.spotify.com/album/5kT8kbTfvjIkRNM129gjai"
+      },
+      "artists": [
+        {
+          "name": "Terry Oldfield",
+          "url": "https://open.spotify.com/artist/0DhTHSo00qVa3OQRWLzA8j"
+        }
+      ],
+      "duration_ms": 499696,
+      "name": "Earth and Sky",
+      "url": "https://open.spotify.com/track/0J6sAnH5FE4wHFr3W7qrmQ"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1101,26 +1101,6 @@
       "url": "https://open.spotify.com/track/0bxRyv43YauX4FxpQMNGwB"
     },
     {
-      "added_at": "2023-05-10 11:43:32",
-      "album": {
-        "name": "In A River",
-        "url": "https://open.spotify.com/album/0tlVbRpHRsfiIKwLUHnt8a"
-      },
-      "artists": [
-        {
-          "name": "Winston Church",
-          "url": "https://open.spotify.com/artist/24pJOJuI2ICg2109beeDdi"
-        },
-        {
-          "name": "David Peter Vestin",
-          "url": "https://open.spotify.com/artist/0088INLrI8Cc537xq1N3p3"
-        }
-      ],
-      "duration_ms": 121373,
-      "name": "In A River",
-      "url": "https://open.spotify.com/track/0vrnDo7jKOp6TjTyDNKcWp"
-    },
-    {
       "added_at": "2021-06-15 08:38:14",
       "album": {
         "name": "Vira",
@@ -1139,6 +1119,26 @@
       "duration_ms": 328542,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/3jGwXtaYOUv4bnRHep8Dp4"
+    },
+    {
+      "added_at": "2023-05-10 11:43:32",
+      "album": {
+        "name": "In A River",
+        "url": "https://open.spotify.com/album/0tlVbRpHRsfiIKwLUHnt8a"
+      },
+      "artists": [
+        {
+          "name": "Winston Church",
+          "url": "https://open.spotify.com/artist/24pJOJuI2ICg2109beeDdi"
+        },
+        {
+          "name": "David Peter Vestin",
+          "url": "https://open.spotify.com/artist/0088INLrI8Cc537xq1N3p3"
+        }
+      ],
+      "duration_ms": 121373,
+      "name": "In A River",
+      "url": "https://open.spotify.com/track/0vrnDo7jKOp6TjTyDNKcWp"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Sleep",
-        "url": "https://open.spotify.com/album/4lqKYa3IPsOnUF2f8U3Q1n"
-      },
-      "artists": [
-        {
-          "name": "Pola Ris",
-          "url": "https://open.spotify.com/artist/16VXoSl3epjUhXIASoa0qO"
-        }
-      ],
-      "duration_ms": 229078,
-      "name": "Imgur",
-      "url": "https://open.spotify.com/track/5Jxym542I1NBxCm6N2i2uo"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Tranquility: Just Relax - 50 Deep Meditation Tracks and Healing Sounds to Relax, Music for Spa, Study, Sleep and Well Being",
         "url": "https://open.spotify.com/album/6clHEi3juRJmRqriKRSYsc"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 234653,
       "name": "Baby Deep Sleep",
       "url": "https://open.spotify.com/track/3TMqMZ95fg68pNselDiFT4"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Sleep",
+        "url": "https://open.spotify.com/album/4lqKYa3IPsOnUF2f8U3Q1n"
+      },
+      "artists": [
+        {
+          "name": "Pola Ris",
+          "url": "https://open.spotify.com/artist/16VXoSl3epjUhXIASoa0qO"
+        }
+      ],
+      "duration_ms": 229078,
+      "name": "Imgur",
+      "url": "https://open.spotify.com/track/5Jxym542I1NBxCm6N2i2uo"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Mindfulness and Relaxation",
-        "url": "https://open.spotify.com/album/2N2hHr7r3EYQ6UGxJtIHwU"
-      },
-      "artists": [
-        {
-          "name": "Savasana",
-          "url": "https://open.spotify.com/artist/071HcfBGJsWCrggabfaC5D"
-        }
-      ],
-      "duration_ms": 129432,
-      "name": "Deep Meditation",
-      "url": "https://open.spotify.com/track/0vMGRC7yBCCt6MRgN79Wa0"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Zen Music for Massage: Tranquility & Total Relax, Ambient Nature Sounds, Gentle Touch, Relaxing Music",
         "url": "https://open.spotify.com/album/6cIqo6O7PyK0u2ojZG9FsA"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 413999,
       "name": "Calm Meditation",
       "url": "https://open.spotify.com/track/5VA0QFtk8DwwJ8isLZmv4I"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Mindfulness and Relaxation",
+        "url": "https://open.spotify.com/album/2N2hHr7r3EYQ6UGxJtIHwU"
+      },
+      "artists": [
+        {
+          "name": "Savasana",
+          "url": "https://open.spotify.com/artist/071HcfBGJsWCrggabfaC5D"
+        }
+      ],
+      "duration_ms": 129432,
+      "name": "Deep Meditation",
+      "url": "https://open.spotify.com/track/0vMGRC7yBCCt6MRgN79Wa0"
     },
     {
       "added_at": "2021-06-15 08:38:14",

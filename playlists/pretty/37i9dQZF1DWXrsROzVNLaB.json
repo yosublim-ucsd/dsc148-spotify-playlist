@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDNlNjBlOGVmMTZiOTFjMjYzYjhmZTEwYTBiZjBiZWIxNDQ5ZmQ3",
+  "snapshot_id": "MCw1YTI5NWM2N2YyZDI3MGUwZmEzMmJhMDFkMjk2Yjg5M2M5Y2Y3ZGZi",
   "tracks": [
     {
       "added_at": "2023-04-02 08:21:16",
@@ -1291,22 +1291,18 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
-        "name": "Ashes (feat. Chris McClarney)",
-        "url": "https://open.spotify.com/album/1SFDjdhnnT087ZPbKL33st"
+        "name": "Celebration at the Empty Grave",
+        "url": "https://open.spotify.com/album/3lAyWpRS4zkP4tBOWOTL4d"
       },
       "artists": [
         {
-          "name": "Dara Maclean",
-          "url": "https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm"
-        },
-        {
-          "name": "Chris McClarney",
-          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
+          "name": "Down East Boys",
+          "url": "https://open.spotify.com/artist/0Zg0qh2ZQsBDm68196Ofln"
         }
       ],
-      "duration_ms": 279903,
-      "name": "Ashes (feat. Chris McClarney)",
-      "url": "https://open.spotify.com/track/01F2MJzSFzD0Wqhg2bpmvG"
+      "duration_ms": 220000,
+      "name": "Celebration at the Empty Grave",
+      "url": "https://open.spotify.com/track/55QERSLUTHM82JBsoTO78m"
     }
   ],
   "unique_name": "Holy Week: Easter",

@@ -4,7 +4,7 @@
 
 > Los éxitos del Dembow\. Portada: Jey One
 
-318 songs - 16 hr 6 min
+319 songs - 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Alta Gama](https://open.spotify.com/track/2nQkw2gz6HyqG4UDtZpDil) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [DEMBOW PEGAO VERANO 2021](https://open.spotify.com/album/1vcQOxtYH1vQHaozkDPVLf) | 2:41 | 2023-02-09 | 2023-02-25 |
 | [Alta Gama](https://open.spotify.com/track/2hfeAtMrCUt0F9zlsRT9JJ) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [Alta Gama](https://open.spotify.com/album/1Vtj5n7MDhnUTSwCN1MJ14) | 2:42 | 2021-11-19 | 2023-08-04 |
 | [ALÓ ALÓ](https://open.spotify.com/track/6ReFi3vfEoFCg5HnRlmOZR) | [BK](https://open.spotify.com/artist/43tXe0vO00OOt1EDDbF4Ux), [Italian Somali](https://open.spotify.com/artist/38VNGRG9Wz2FOBKAyA6HFv) | [ALÓ ALÓ](https://open.spotify.com/album/15dVINVh9730rBXttt5smv) | 2:56 | 2022-03-18 | 2022-07-16 |
-| [AQUI TA SMOKE](https://open.spotify.com/track/3SK0dEKhmkhx6EHjZRHm1r) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [EL REY DEL DEMBOW](https://open.spotify.com/album/6JPOiUKS6Ei5Aq43PBQ1El) | 2:54 | 2023-11-23 |  |
+| [AQUI TA SMOKE](https://open.spotify.com/track/3SK0dEKhmkhx6EHjZRHm1r) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [EL REY DEL DEMBOW](https://open.spotify.com/album/6JPOiUKS6Ei5Aq43PBQ1El) | 2:54 | 2023-11-23 | 2023-11-29 |
 | [Arete](https://open.spotify.com/track/2p5LVvY7ja8NQKJoSaqJL4) | [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE), [Kaly Ocho](https://open.spotify.com/artist/4Y2ohblGXsra540HyqjKFD) | [Reencarnaciòn](https://open.spotify.com/album/7sPE3bH9YnLraUfpREGcvr) | 2:16 | 2023-02-09 | 2023-06-23 |
 | [Ay Si Ñiño \(Remix\)](https://open.spotify.com/track/33QRkn2HK18QZA7jZRKWou) | [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk), [Mafeo 13](https://open.spotify.com/artist/6qgOVc7H8dqguJGtvpzeiP), [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [Ay Si Ñiño \(Remix\)](https://open.spotify.com/album/48IOGtllrXRIdfZdYEfPq3) | 2:22 | 2023-05-26 | 2023-08-04 |
 | [Bagre](https://open.spotify.com/track/12wW9cNLX11umS3lh10xsE) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9), [Imperio Record](https://open.spotify.com/artist/6MJD2elWfMQ0RvEncmitC3) | [Bagre](https://open.spotify.com/album/6xONvAcQS1GBqrMH3O85lU) | 2:40 | 2022-07-22 | 2023-05-27 |
@@ -50,6 +50,7 @@
 | [Chu Chu Pamela](https://open.spotify.com/track/14pr9SjxdNW8ZGU9GdZGLh) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Chu Chu Pamela](https://open.spotify.com/album/5nk75NdvD4wH7ARj1R9u2A) | 2:57 | 2022-06-23 | 2023-04-11 |
 | [Chukiteo](https://open.spotify.com/track/5tOKGmMGBeH5E1zz2r7N7z) | [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Llegó el Domi](https://open.spotify.com/album/5mVW0Qi7Q66gleL2rgVgaC) | 2:41 | 2022-05-19 | 2023-05-27 |
 | [Chupable](https://open.spotify.com/track/5e9Otk4mv4O0DOoKjjZcG1) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chikybombom La Pantera](https://open.spotify.com/artist/4nKbC3BWCO0m0CdQ42OZB5), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Chupable](https://open.spotify.com/album/2CYVPdemfQfUrEK3rMBkbb) | 2:57 | 2021-11-19 | 2023-03-11 |
+| [Cintureo \- Remix](https://open.spotify.com/track/1cQTT0WyAvD4LL0m42J8M4) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [Yoan Retro](https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi) | [Cintureo \(Remix\)](https://open.spotify.com/album/4vXmy6wJi0L1Yc9ybulXqk) | 2:44 | 2023-11-28 |  |
 | [Claro Que Sí](https://open.spotify.com/track/3f1XDZ7EwQv62eDGHygmdf) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E) | [Claro Que Sí](https://open.spotify.com/album/2cfGH1DMwK3gU4UwCxEwkT) | 2:40 | 2022-03-18 | 2023-06-28 |
 | [Con Chapa](https://open.spotify.com/track/5baVENoXFaLXbrTTT0czSN) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [Con Chapa](https://open.spotify.com/album/51IcpKcFOg9hlGbeYWJznO) | 3:32 | 2022-03-18 | 2023-03-11 |
 | [Conmigo No](https://open.spotify.com/track/4qk3rXT02ce6MCLDG3yvjx) | [Shelow Shaq](https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU), [Topo La Maskara](https://open.spotify.com/artist/3kgQWNZNpp8d8JQZhuKbPP) | [Conmigo No](https://open.spotify.com/album/2WyFcmJTLoVxLExU4W3PfT) | 2:55 | 2023-02-09 | 2023-05-27 |

@@ -1,12 +1,12 @@
 {
   "description": "Funk-inspired beats by latinos.",
-  "num_followers": 19664,
+  "num_followers": 19701,
   "original_name": "feels like latin funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTI2YTg4YTdiZGEyMzJjMTI1OTM3ZWNjNmZiYTZlZTVlOTAyYzlk",
+  "snapshot_id": "MCwyNDBlM2RkODFiYjc5NmNiNjk3ZmRkZGY5NmVhMzU1ZDBiMjFhZjRi",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "M\u00fasica para verse bien",
-        "url": "https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ"
-      },
-      "artists": [
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        }
-      ],
-      "duration_ms": 318058,
-      "name": "Esta canci\u00f3n",
-      "url": "https://open.spotify.com/track/4sKS8hXdU95mCgPUsdgi7f"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "muero x ti",
         "url": "https://open.spotify.com/album/0PEkrVYDzkhAU5xk0gOqu4"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 237564,
       "name": "muero x ti",
       "url": "https://open.spotify.com/track/0VDvDixlnaJFUYYEhE6tDp"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "M\u00fasica para verse bien",
+        "url": "https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ"
+      },
+      "artists": [
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        }
+      ],
+      "duration_ms": 318058,
+      "name": "Esta canci\u00f3n",
+      "url": "https://open.spotify.com/track/4sKS8hXdU95mCgPUsdgi7f"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -547,6 +547,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Morena",
+        "url": "https://open.spotify.com/album/2pNKnE4bn2sLJuG2agLg7B"
+      },
+      "artists": [
+        {
+          "name": "Noah Pino Palo",
+          "url": "https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21"
+        }
+      ],
+      "duration_ms": 271162,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/1UGwamQOTjQ0nnCYdX92Rn"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Dorama",
         "url": "https://open.spotify.com/album/1JL6GXkYqQC3tvreFoZXlm"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 218666,
       "name": "Ultra-Funk",
       "url": "https://open.spotify.com/track/4ahWVoHIxMfoLksp36A1mf"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Morena",
-        "url": "https://open.spotify.com/album/2pNKnE4bn2sLJuG2agLg7B"
-      },
-      "artists": [
-        {
-          "name": "Noah Pino Palo",
-          "url": "https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21"
-        }
-      ],
-      "duration_ms": 271162,
-      "name": "Morena",
-      "url": "https://open.spotify.com/track/1UGwamQOTjQ0nnCYdX92Rn"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "CAMALOVE",
-        "url": "https://open.spotify.com/album/7jJijowxod92mie0y9XAj7"
-      },
-      "artists": [
-        {
-          "name": "Cocofunka",
-          "url": "https://open.spotify.com/artist/2fZnIGcmeZuhplsTcCBmvD"
-        }
-      ],
-      "duration_ms": 254492,
-      "name": "Asturi\u00f3n",
-      "url": "https://open.spotify.com/track/7MCnLeI6m34DUyX1PfYpBJ"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "M\u00fasica Moderna",
         "url": "https://open.spotify.com/album/1zE6fgn3iqkOwJGS18B0sm"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 237262,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/3ODOLzIiOCWiyRE1Wy9KLG"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "CAMALOVE",
+        "url": "https://open.spotify.com/album/7jJijowxod92mie0y9XAj7"
+      },
+      "artists": [
+        {
+          "name": "Cocofunka",
+          "url": "https://open.spotify.com/artist/2fZnIGcmeZuhplsTcCBmvD"
+        }
+      ],
+      "duration_ms": 254492,
+      "name": "Asturi\u00f3n",
+      "url": "https://open.spotify.com/track/7MCnLeI6m34DUyX1PfYpBJ"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Debut",
-        "url": "https://open.spotify.com/album/5pSvRHQJbnH4keSrZ3PuZe"
-      },
-      "artists": [
-        {
-          "name": "Dstance",
-          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
-        }
-      ],
-      "duration_ms": 149657,
-      "name": "Debut",
-      "url": "https://open.spotify.com/track/34xR0p88Tn0osfkWtLC6zi"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Youth Attraction",
         "url": "https://open.spotify.com/album/1qEYAW03qOUzZi6QaVVcuC"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 333500,
       "name": "Midnight Caller",
       "url": "https://open.spotify.com/track/26LjeIJNpcnnCAy0Y9jHP4"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Debut",
+        "url": "https://open.spotify.com/album/5pSvRHQJbnH4keSrZ3PuZe"
+      },
+      "artists": [
+        {
+          "name": "Dstance",
+          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
+        }
+      ],
+      "duration_ms": 149657,
+      "name": "Debut",
+      "url": "https://open.spotify.com/track/34xR0p88Tn0osfkWtLC6zi"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -987,42 +987,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Si Fui Yo",
-        "url": "https://open.spotify.com/album/3ystJXvxwN8aVGO3gSzzzs"
-      },
-      "artists": [
-        {
-          "name": "Dstance",
-          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
-        }
-      ],
-      "duration_ms": 146840,
-      "name": "Si Fui Yo",
-      "url": "https://open.spotify.com/track/3xVDIiVKzx815eNVkPKT1J"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "JUAN PABLO VEGA",
-        "url": "https://open.spotify.com/album/3EKzsn6lugXcs8C7qj7jpR"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 227658,
-      "name": "Eso Que Me Das",
-      "url": "https://open.spotify.com/track/3xOZWx6fJc65Z4R2Hrq06N"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "La Pel\u00edcula",
         "url": "https://open.spotify.com/album/7JwKwYrxUD3UewbJ9nVFma"
       },
@@ -1055,6 +1019,26 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "JUAN PABLO VEGA",
+        "url": "https://open.spotify.com/album/3EKzsn6lugXcs8C7qj7jpR"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 227658,
+      "name": "Eso Que Me Das",
+      "url": "https://open.spotify.com/track/3xOZWx6fJc65Z4R2Hrq06N"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Terciopelo",
         "url": "https://open.spotify.com/album/5ts7xYpW6igFn8lD1RYI9t"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 178064,
       "name": "Terciopelo",
       "url": "https://open.spotify.com/track/3BfkRtP5fDcHa9ebwIaGMY"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Zoo Lion",
+        "url": "https://open.spotify.com/album/0GUY5NcH7vjSYeeyfnMdXF"
+      },
+      "artists": [
+        {
+          "name": "Moncho Berry",
+          "url": "https://open.spotify.com/artist/7r3ulcCderiJsAhR2ljXpC"
+        }
+      ],
+      "duration_ms": 266447,
+      "name": "Zoo Lion",
+      "url": "https://open.spotify.com/track/0Yt3DQ6IvtZrEqPHjDKTPO"
     }
   ],
   "unique_name": "feels like latin funk",

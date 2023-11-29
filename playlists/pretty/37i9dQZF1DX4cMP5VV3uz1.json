@@ -1,12 +1,12 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 144261,
+  "num_followers": 144314,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjU0N2FkMzc5NGFjNGQxNjIzYjI4ZjExYzYzMWY2M2ZlMmQ3OTVi",
+  "snapshot_id": "MCxmNjNkMTI2NGM4MTYwOGU5NTVlNzU1NmViZWY1ZjY2ZDc3ZTdkYmMz",
   "tracks": [
     {
       "added_at": "2023-11-17 00:01:00",
@@ -615,26 +615,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Ready To Fly (Sub Focus & Dimension)",
-        "url": "https://open.spotify.com/album/0Gt9NV2s7pSvP7g2F1nXGc"
-      },
-      "artists": [
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        },
-        {
-          "name": "Dimension",
-          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
-        }
-      ],
-      "duration_ms": 204500,
-      "name": "Ready To Fly - Sub Focus & Dimension",
-      "url": "https://open.spotify.com/track/0a2cA9H6KuOsoHLCnjl6YL"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Stan Smith",
         "url": "https://open.spotify.com/album/2s7f4Qihh5MV7D6lKLPBjB"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 235000,
       "name": "Stan Smith",
       "url": "https://open.spotify.com/track/0nCgsAki7e7I243CUblGxU"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Ready To Fly (Sub Focus & Dimension)",
+        "url": "https://open.spotify.com/album/0Gt9NV2s7pSvP7g2F1nXGc"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
+        }
+      ],
+      "duration_ms": 204500,
+      "name": "Ready To Fly - Sub Focus & Dimension",
+      "url": "https://open.spotify.com/track/0a2cA9H6KuOsoHLCnjl6YL"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -767,6 +767,26 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "Stars On The Roof (feat. MoMo)",
+        "url": "https://open.spotify.com/album/6o2oXNriDnljYllyCIaL99"
+      },
+      "artists": [
+        {
+          "name": "Alcemist",
+          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
+        },
+        {
+          "name": "MoMo",
+          "url": "https://open.spotify.com/artist/1UjH8hHfaPKRnTg8FO0uaJ"
+        }
+      ],
+      "duration_ms": 242769,
+      "name": "Stars On The Roof (feat. MoMo)",
+      "url": "https://open.spotify.com/track/354Cv7huFJnlEdVAHvhH3Q"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Move Your Body (Hedex Remix)",
         "url": "https://open.spotify.com/album/09nJrAnPgQU8dLEBj1o1lo"
       },
@@ -819,22 +839,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Stars On The Roof (feat. MoMo)",
-        "url": "https://open.spotify.com/album/6o2oXNriDnljYllyCIaL99"
+        "name": "Not Over Yet (feat. Tom Grennan)",
+        "url": "https://open.spotify.com/album/2JwhadQOv6ZEnpuWkZNNFh"
       },
       "artists": [
         {
-          "name": "Alcemist",
-          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
+          "name": "KSI",
+          "url": "https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z"
         },
         {
-          "name": "MoMo",
-          "url": "https://open.spotify.com/artist/1UjH8hHfaPKRnTg8FO0uaJ"
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
         }
       ],
-      "duration_ms": 242769,
-      "name": "Stars On The Roof (feat. MoMo)",
-      "url": "https://open.spotify.com/track/354Cv7huFJnlEdVAHvhH3Q"
+      "duration_ms": 155691,
+      "name": "Not Over Yet (feat. Tom Grennan)",
+      "url": "https://open.spotify.com/track/3t2Hx5FPih5lKaxJFd6bRE"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -859,26 +879,6 @@
       "duration_ms": 199472,
       "name": "Diamond Therapy",
       "url": "https://open.spotify.com/track/5lSfq3EFWwD9yylL0zaqqj"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Not Over Yet (feat. Tom Grennan)",
-        "url": "https://open.spotify.com/album/2JwhadQOv6ZEnpuWkZNNFh"
-      },
-      "artists": [
-        {
-          "name": "KSI",
-          "url": "https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z"
-        },
-        {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
-        }
-      ],
-      "duration_ms": 155691,
-      "name": "Not Over Yet (feat. Tom Grennan)",
-      "url": "https://open.spotify.com/track/3t2Hx5FPih5lKaxJFd6bRE"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Party All the Time (feat. Kay)",
-        "url": "https://open.spotify.com/album/026MiiWON7Aei7MKzxCKGC"
-      },
-      "artists": [
-        {
-          "name": "Darkzy",
-          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
-        },
-        {
-          "name": "Kay",
-          "url": "https://open.spotify.com/artist/4pqUHuQppkm95uNa2VDpMT"
-        }
-      ],
-      "duration_ms": 266929,
-      "name": "Party All the Time (feat. Kay)",
-      "url": "https://open.spotify.com/track/7xN6f50e0ZdiDehWaVFeZ2"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Infinity (feat. ILIRA, iiola & Tom Cane)",
         "url": "https://open.spotify.com/album/4X2i68rMNDVwGMTeXW5bek"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 213793,
       "name": "Infinity (feat. ILIRA, iiola & Tom Cane)",
       "url": "https://open.spotify.com/track/0CkmD2L3xMeZTXOwlOCsVm"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Party All the Time (feat. Kay)",
+        "url": "https://open.spotify.com/album/026MiiWON7Aei7MKzxCKGC"
+      },
+      "artists": [
+        {
+          "name": "Darkzy",
+          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
+        },
+        {
+          "name": "Kay",
+          "url": "https://open.spotify.com/artist/4pqUHuQppkm95uNa2VDpMT"
+        }
+      ],
+      "duration_ms": 266929,
+      "name": "Party All the Time (feat. Kay)",
+      "url": "https://open.spotify.com/track/7xN6f50e0ZdiDehWaVFeZ2"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1323,22 +1323,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Bittersweet Goodbye (Lens Remix)",
-        "url": "https://open.spotify.com/album/6tp5KT9JEffGYt5iXzqOnY"
+        "name": "Shut It Down",
+        "url": "https://open.spotify.com/album/540Df5chb7iGHb1GSCYD8B"
       },
       "artists": [
         {
-          "name": "Issey Cross",
-          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
+          "name": "Mollie Collins",
+          "url": "https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu"
         },
         {
-          "name": "Lens",
-          "url": "https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz"
+          "name": "Elipsa",
+          "url": "https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske"
         }
       ],
-      "duration_ms": 201120,
-      "name": "Bittersweet Goodbye - Lens Remix",
-      "url": "https://open.spotify.com/track/3wkuynG4GwBd8LLNDeKTE5"
+      "duration_ms": 178604,
+      "name": "Shut It Down",
+      "url": "https://open.spotify.com/track/1KsTta93YQGtGid1W1x6ki"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1359,22 +1359,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Shut It Down",
-        "url": "https://open.spotify.com/album/540Df5chb7iGHb1GSCYD8B"
+        "name": "Bittersweet Goodbye (Lens Remix)",
+        "url": "https://open.spotify.com/album/6tp5KT9JEffGYt5iXzqOnY"
       },
       "artists": [
         {
-          "name": "Mollie Collins",
-          "url": "https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu"
+          "name": "Issey Cross",
+          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
         },
         {
-          "name": "Elipsa",
-          "url": "https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske"
+          "name": "Lens",
+          "url": "https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz"
         }
       ],
-      "duration_ms": 178604,
-      "name": "Shut It Down",
-      "url": "https://open.spotify.com/track/1KsTta93YQGtGid1W1x6ki"
+      "duration_ms": 201120,
+      "name": "Bittersweet Goodbye - Lens Remix",
+      "url": "https://open.spotify.com/track/3wkuynG4GwBd8LLNDeKTE5"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Downers (Rework)",
-        "url": "https://open.spotify.com/album/6wLqsCijGoDRJ1RZYSPqCk"
-      },
-      "artists": [
-        {
-          "name": "goddard.",
-          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
-        },
-        {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
-        }
-      ],
-      "duration_ms": 181689,
-      "name": "Downers - Rework",
-      "url": "https://open.spotify.com/track/3ZHw4fR70ep2fjqa14RcBi"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Drops Remixes",
         "url": "https://open.spotify.com/album/6WkDq5hrKzwxDY4fdgjFEq"
       },
@@ -1475,6 +1455,26 @@
       "duration_ms": 262628,
       "name": "Drops - Kanine Remix",
       "url": "https://open.spotify.com/track/3okcBYUuR2VRbygL9kYb5k"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Downers (Rework)",
+        "url": "https://open.spotify.com/album/6wLqsCijGoDRJ1RZYSPqCk"
+      },
+      "artists": [
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        },
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        }
+      ],
+      "duration_ms": 181689,
+      "name": "Downers - Rework",
+      "url": "https://open.spotify.com/track/3ZHw4fR70ep2fjqa14RcBi"
     },
     {
       "added_at": "2023-11-17 00:01:00",

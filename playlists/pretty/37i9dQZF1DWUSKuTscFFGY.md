@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSKuTscFFGY.md) - [plain]
 
 > Découvrez les meilleures nouveautés pop\. Photo : Zara Larsson
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,262 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,280 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSKuTscFFGY.md) - [plain]
 | 59 | [Swinging at the Stars](https://open.spotify.com/track/0plgpP6pbcptrfbCEHKKcA) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Just Because](https://open.spotify.com/album/2ArWkmluhZLOmbwCfyKurF) | 3:43 |
 | 60 | [not a king](https://open.spotify.com/track/4FVzimiTl5SZXWMVgJ4nEe) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [Gathered By The Lantern](https://open.spotify.com/album/5zkd8WmnZPaQUdFe360xfM) | 2:29 |
 
-Snapshot ID: `MCw0NDQ0ZmU0N2E0NzQxNzAxMWU0ZmIyOGE3NmQ1OTNlYjNlOTg3YWNl`
+Snapshot ID: `MCw2ODBkNDY1NjQ0ZmZkMzVhNDJiYzhhNzljZGY5N2MxZWU1YmFkNWRm`

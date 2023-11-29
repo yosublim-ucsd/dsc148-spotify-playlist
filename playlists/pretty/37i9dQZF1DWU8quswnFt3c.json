@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: Bellakath",
-  "num_followers": 912131,
+  "num_followers": 912096,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWZlMDUwMWRjNGZiMWRmOTZhNDVmM2M1MzliY2M0YmRhNzRjMjU4",
+  "snapshot_id": "MCw0OGUxZDZjNGQ0OTAyYTlmMWRhYmY5ZmEzZDhjOTdmYjkzY2Q3OGQz",
   "tracks": [
     {
       "added_at": "2023-11-08 04:01:00",
@@ -245,22 +245,6 @@
       "url": "https://open.spotify.com/track/66ZcOcouenzZEnzTJvoFmH"
     },
     {
-      "added_at": "2023-11-14 14:18:27",
-      "album": {
-        "name": "Gum",
-        "url": "https://open.spotify.com/album/3y6bGlIVIIOQbOgQDRSw1T"
-      },
-      "artists": [
-        {
-          "name": "Jessi",
-          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
-        }
-      ],
-      "duration_ms": 162693,
-      "name": "Gum",
-      "url": "https://open.spotify.com/track/6QJEWaTiiBSYPHr6FrZ8vu"
-    },
-    {
       "added_at": "2023-11-08 04:01:00",
       "album": {
         "name": "Che t\u2019o dico a fa\u2019",
@@ -275,6 +259,22 @@
       "duration_ms": 187742,
       "name": "Che t\u2019o dico a fa\u2019",
       "url": "https://open.spotify.com/track/7sBmJhD1J7qt33jgxH7Jf9"
+    },
+    {
+      "added_at": "2023-11-14 14:18:27",
+      "album": {
+        "name": "Gum",
+        "url": "https://open.spotify.com/album/3y6bGlIVIIOQbOgQDRSw1T"
+      },
+      "artists": [
+        {
+          "name": "Jessi",
+          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
+        }
+      ],
+      "duration_ms": 162693,
+      "name": "Gum",
+      "url": "https://open.spotify.com/track/6QJEWaTiiBSYPHr6FrZ8vu"
     },
     {
       "added_at": "2023-11-08 04:01:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-11-08 04:01:00",
       "album": {
-        "name": "FLEX",
-        "url": "https://open.spotify.com/album/23AMMGNATg5gvSMjD1NqkN"
-      },
-      "artists": [
-        {
-          "name": "THE F LIBRA",
-          "url": "https://open.spotify.com/artist/1MCtRg162ainyKGsX31QHm"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "FLEX",
-      "url": "https://open.spotify.com/track/1jLWGpo6KWHDknCPz4Zltm"
-    },
-    {
-      "added_at": "2023-11-08 04:01:00",
-      "album": {
         "name": "Molly",
         "url": "https://open.spotify.com/album/2GxFT2qN34pDypV0r4veRK"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 176249,
       "name": "Molly",
       "url": "https://open.spotify.com/track/4gfaPD5mHYGe792vAb1a2Z"
+    },
+    {
+      "added_at": "2023-11-08 04:01:00",
+      "album": {
+        "name": "FLEX",
+        "url": "https://open.spotify.com/album/23AMMGNATg5gvSMjD1NqkN"
+      },
+      "artists": [
+        {
+          "name": "THE F LIBRA",
+          "url": "https://open.spotify.com/artist/1MCtRg162ainyKGsX31QHm"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "FLEX",
+      "url": "https://open.spotify.com/track/1jLWGpo6KWHDknCPz4Zltm"
     },
     {
       "added_at": "2023-11-08 04:01:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-11-08 04:01:00",
       "album": {
-        "name": "Cruel World",
-        "url": "https://open.spotify.com/album/31i8l1jymUX8KLVq66XkXO"
-      },
-      "artists": [
-        {
-          "name": "GUMPOONG",
-          "url": "https://open.spotify.com/artist/5QTueSjTbOjuiLiGz7APuE"
-        }
-      ],
-      "duration_ms": 227171,
-      "name": "Cruel World",
-      "url": "https://open.spotify.com/track/2Y2hR1O1cJYvsWkUJRD8Xy"
-    },
-    {
-      "added_at": "2023-11-08 04:01:00",
-      "album": {
         "name": "ICONS",
         "url": "https://open.spotify.com/album/3ZDL01HaLAtasNBZEe1bPA"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 189264,
       "name": "ICONS",
       "url": "https://open.spotify.com/track/3ix4gw2l6cCyS82epZ4iCL"
+    },
+    {
+      "added_at": "2023-11-08 04:01:00",
+      "album": {
+        "name": "Cruel World",
+        "url": "https://open.spotify.com/album/31i8l1jymUX8KLVq66XkXO"
+      },
+      "artists": [
+        {
+          "name": "GUMPOONG",
+          "url": "https://open.spotify.com/artist/5QTueSjTbOjuiLiGz7APuE"
+        }
+      ],
+      "duration_ms": 227171,
+      "name": "Cruel World",
+      "url": "https://open.spotify.com/track/2Y2hR1O1cJYvsWkUJRD8Xy"
     }
   ],
   "unique_name": "EQUAL Global",

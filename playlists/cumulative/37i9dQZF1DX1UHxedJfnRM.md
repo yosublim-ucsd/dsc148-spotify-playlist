@@ -4,11 +4,12 @@
 
 > Los temas más sabrosos del momento suenan aquí\. Foto: Gian Marco, Daniela Darcourt
 
-146 songs - 10 hr 47 min
+147 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Cuánto Me Quedé](https://open.spotify.com/track/7Bg5Z8VwnRxVVvq5C4qcRN) | [Amy Gutiérrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [A Cuánto Me Quedé](https://open.spotify.com/album/5jiT2Juwh9DbK5xjvlj6uX) | 4:29 | 2022-07-15 |  |
+| [A Cuánto Me Quedé](https://open.spotify.com/track/0d47bqzCi4sD7BHNVTH2Z1) | [Amy Gutiérrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [A Cuánto Me Quedé](https://open.spotify.com/album/64ms9YWnmcPkJUmZN86PAE) | 4:29 | 2023-11-24 |  |
+| [A Cuánto Me Quedé](https://open.spotify.com/track/7Bg5Z8VwnRxVVvq5C4qcRN) | [Amy Gutiérrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [A Cuánto Me Quedé](https://open.spotify.com/album/5jiT2Juwh9DbK5xjvlj6uX) | 4:29 | 2022-07-15 | 2023-11-29 |
 | [Ahora \- \(Nueva Versión\)](https://open.spotify.com/track/7zi38N4DOCN6Rge2x2tzZM) | [Jayo Y Los Que Son](https://open.spotify.com/artist/4PBNiPbHphKFQElFxwDSLW), [N'Samble](https://open.spotify.com/artist/7Ksq8BTaGcbM7OgVQi3y8f) | [Ahora \(Nueva Versión\)](https://open.spotify.com/album/2d17SB6GGlRGML8e2iRnmF) | 4:36 | 2023-02-03 |  |
 | [Algo Que Se Quede](https://open.spotify.com/track/1JXcB149QtbcIpDUA6YZOB) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [40](https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk) | 3:40 | 2022-05-13 |  |
 | [Amaneciendo Con Zaperoko](https://open.spotify.com/track/2RLpgwLVfI5duKhbE2H04d) | [ZAPEROKO La Resistencia Salsera del Callao](https://open.spotify.com/artist/2Wict4UYAJ0d0Lj6yasKif) | [Amaneciendo Con Zaperoko](https://open.spotify.com/album/0PH2f6w39bBN4dPH0TkB3E) | 5:08 | 2022-05-13 |  |

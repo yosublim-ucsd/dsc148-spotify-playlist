@@ -1,12 +1,12 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 458557,
+  "num_followers": 458553,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDFmZDBhMjNlNWY5Mzg2ZDk1ZGYzZGVhOTUxOGMyZjkyNzhiZGNl",
+  "snapshot_id": "MCw0YWQyZTk5ZTBlOGY2MmNiNTU3NWM0OWY2N2M0MmYxNGU4OWZiNmVj",
   "tracks": [
     {
       "added_at": "2023-10-10 02:44:22",
@@ -305,6 +305,22 @@
       "url": "https://open.spotify.com/track/3YFLHrRwTAcryw4TZXvvYS"
     },
     {
+      "added_at": "2023-07-18 19:12:42",
+      "album": {
+        "name": "Pleiades",
+        "url": "https://open.spotify.com/album/3020KpkLo9yLDjngEMEMIi"
+      },
+      "artists": [
+        {
+          "name": "AINO",
+          "url": "https://open.spotify.com/artist/7vU8gqDFkKNP0hYtLERGiu"
+        }
+      ],
+      "duration_ms": 508603,
+      "name": "Alcyone",
+      "url": "https://open.spotify.com/track/4krxkDBSFWRhvogjeVgN6Q"
+    },
+    {
       "added_at": "2022-02-25 03:39:39",
       "album": {
         "name": "Exotic Contents / Pulse at the Centre of Being",
@@ -335,22 +351,6 @@
       "duration_ms": 206657,
       "name": "Warm Fuzzies: The Glory",
       "url": "https://open.spotify.com/track/7f765rA8dhcnqpu8N9yHyd"
-    },
-    {
-      "added_at": "2023-07-18 19:12:42",
-      "album": {
-        "name": "Pleiades",
-        "url": "https://open.spotify.com/album/3020KpkLo9yLDjngEMEMIi"
-      },
-      "artists": [
-        {
-          "name": "AINO",
-          "url": "https://open.spotify.com/artist/7vU8gqDFkKNP0hYtLERGiu"
-        }
-      ],
-      "duration_ms": 508603,
-      "name": "Alcyone",
-      "url": "https://open.spotify.com/track/4krxkDBSFWRhvogjeVgN6Q"
     },
     {
       "added_at": "2021-10-15 03:56:52",
@@ -533,26 +533,6 @@
       "url": "https://open.spotify.com/track/6EI5sPngX6pBttwOHya9j4"
     },
     {
-      "added_at": "2022-07-08 04:48:31",
-      "album": {
-        "name": "Closer (Daniel Avery Edit)",
-        "url": "https://open.spotify.com/album/7ibaWfGIltYCxmRD9Qjz1G"
-      },
-      "artists": [
-        {
-          "name": "Rolo Tomassi",
-          "url": "https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI"
-        },
-        {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        }
-      ],
-      "duration_ms": 246696,
-      "name": "Closer - Daniel Avery Edit",
-      "url": "https://open.spotify.com/track/57Vf7VMA5QSahRghyzywIa"
-    },
-    {
       "added_at": "2022-02-25 05:12:51",
       "album": {
         "name": "April Dub",
@@ -571,6 +551,26 @@
       "duration_ms": 260006,
       "name": "April Dub (Koyas Mix)",
       "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
+    },
+    {
+      "added_at": "2022-07-08 04:48:31",
+      "album": {
+        "name": "Closer (Daniel Avery Edit)",
+        "url": "https://open.spotify.com/album/7ibaWfGIltYCxmRD9Qjz1G"
+      },
+      "artists": [
+        {
+          "name": "Rolo Tomassi",
+          "url": "https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI"
+        },
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "duration_ms": 246696,
+      "name": "Closer - Daniel Avery Edit",
+      "url": "https://open.spotify.com/track/57Vf7VMA5QSahRghyzywIa"
     },
     {
       "added_at": "2023-03-28 06:18:56",
@@ -621,22 +621,6 @@
       "url": "https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa"
     },
     {
-      "added_at": "2022-04-29 18:24:26",
-      "album": {
-        "name": "Cruda",
-        "url": "https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH"
-      },
-      "artists": [
-        {
-          "name": "Siete Catorce",
-          "url": "https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr"
-        }
-      ],
-      "duration_ms": 329596,
-      "name": "Cheve",
-      "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
-    },
-    {
       "added_at": "2023-03-03 04:19:45",
       "album": {
         "name": "VIOLENT GLARE",
@@ -651,6 +635,22 @@
       "duration_ms": 250200,
       "name": "SPIN FOREVER",
       "url": "https://open.spotify.com/track/1MmksCcZL31uJu8J4swpsC"
+    },
+    {
+      "added_at": "2022-04-29 18:24:26",
+      "album": {
+        "name": "Cruda",
+        "url": "https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH"
+      },
+      "artists": [
+        {
+          "name": "Siete Catorce",
+          "url": "https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr"
+        }
+      ],
+      "duration_ms": 329596,
+      "name": "Cheve",
+      "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
     },
     {
       "added_at": "2023-11-15 16:34:12",
@@ -789,22 +789,6 @@
       "url": "https://open.spotify.com/track/3J4QilICdLFiPX7lB3lyOJ"
     },
     {
-      "added_at": "2023-03-03 04:17:23",
-      "album": {
-        "name": "Flooding Meadow",
-        "url": "https://open.spotify.com/album/53VcxaUbWyXPn47Wzl89bn"
-      },
-      "artists": [
-        {
-          "name": "Doc Sleep",
-          "url": "https://open.spotify.com/artist/5o1pKpYbHcqZanSu2DCrJI"
-        }
-      ],
-      "duration_ms": 290526,
-      "name": "Flooding Meadow",
-      "url": "https://open.spotify.com/track/4p8K4d12HW1fzQv3EkDWFh"
-    },
-    {
       "added_at": "2022-07-15 05:34:07",
       "album": {
         "name": "Grit.",
@@ -819,6 +803,22 @@
       "duration_ms": 331032,
       "name": "Surrounded By Neighbours",
       "url": "https://open.spotify.com/track/6yZhFRgrAPLMXkxOcD6Za7"
+    },
+    {
+      "added_at": "2023-03-03 04:17:23",
+      "album": {
+        "name": "Flooding Meadow",
+        "url": "https://open.spotify.com/album/53VcxaUbWyXPn47Wzl89bn"
+      },
+      "artists": [
+        {
+          "name": "Doc Sleep",
+          "url": "https://open.spotify.com/artist/5o1pKpYbHcqZanSu2DCrJI"
+        }
+      ],
+      "duration_ms": 290526,
+      "name": "Flooding Meadow",
+      "url": "https://open.spotify.com/track/4p8K4d12HW1fzQv3EkDWFh"
     },
     {
       "added_at": "2022-03-11 06:33:02",

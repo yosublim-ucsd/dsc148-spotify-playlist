@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > What's new in rock this week\. Cover: EKKSTACY
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,113 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,128 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [Astral Plans](https://open.spotify.com/track/6RAxNp0JErI8nVJh4ojrsk) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Astral Plans](https://open.spotify.com/album/3ZMX2IUr5KO4BaIFWX3yCS) | 3:59 |
 | 100 | [Hope is a Dangerous Little Thing](https://open.spotify.com/track/089lW2lTDsHUDsNlzim7Qc) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Some Of It Was True](https://open.spotify.com/album/1haMGMoO3UjtVB1l3BHMFZ) | 3:12 |
 
-Snapshot ID: `MCxhNTVmODY1OTFiMDc3MjBlOTM1NDQwZTY3YjYyY2I2YWU3YWIyMzUw`
+Snapshot ID: `MCw5MjcxZWJmMTk1YTkyYjUzN2UzOTc2ZmI1OGQ4ZjdmZDIyYzhiZGZh`

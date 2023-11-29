@@ -4,7 +4,7 @@
 
 > The iconic songs celebrating love across the African continent from the 2000's to date
 
-135 songs - 9 hr 30 min
+136 songs - 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Khethile Khethile \(feat\. Makwa & Tshego AMG\)](https://open.spotify.com/track/6uphaViBTQ2ewt5UFH8ukm) | [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr), [Makwa](https://open.spotify.com/artist/6aXzYhXfiqzlcdyFBxfw59), [Tshego AMG](https://open.spotify.com/artist/3ZYSp6bvSuOkZSJ1rpQ3WF) | [Khethile Khethile \(feat\. Makwa & Tshego AMG\)](https://open.spotify.com/album/16OwQ2QE999CwbUHAKimVS) | 5:41 | 2022-02-10 |  |
 | [Knee Down](https://open.spotify.com/track/3ovSaVUTDOtxfDw5xh9qJ4) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [B A H D](https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8) | 2:27 | 2023-02-14 |  |
 | [Lazizi](https://open.spotify.com/track/0AD7RuUTp8pwK5NIKaa30X) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Mwanzo](https://open.spotify.com/album/6QOgL8YEk2rQwgAXDBv9GO) | 3:52 | 2022-02-10 |  |
+| [Look What You Made Me Do \(with Simi\)](https://open.spotify.com/track/5a314dyLzz8YyFTFjd8X6w) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Tequila Ever After](https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3) | 2:54 | 2023-11-28 |  |
 | [Love My Baby](https://open.spotify.com/track/7xdHQUxVj0aOAvUOGLCYj3) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Superstar](https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb) | 4:06 | 2022-02-10 |  |
 | [love nwantiti \(ah ah ah\)](https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 2:25 | 2022-02-10 |  |
 | [Mad Over You](https://open.spotify.com/track/1jloWdvMh9nwHUu3mag8CL) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [Mad Over You](https://open.spotify.com/album/1BeDVLt8DTIIN3jSLK5V78) | 3:36 | 2022-02-10 |  |
@@ -142,6 +143,6 @@
 | [Yelele](https://open.spotify.com/track/2FRbe1TC626TxkVeufmNsa) | [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi) | [Yelele](https://open.spotify.com/album/2R6tuyZ91QkYAJJuvfyEWA) | 3:42 | 2022-02-10 |  |
 | [Yes/No](https://open.spotify.com/track/47wpq9ChR1Oh4SgXuM0SwD) | [Banky W.](https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3) | [R & BW](https://open.spotify.com/album/1AsBBWRFndiye1Z4oPEXyt) | 4:07 | 2022-02-10 |  |
 | [You're the One](https://open.spotify.com/track/4fxwbUSI6jF4XdnvCUVG97) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Elements](https://open.spotify.com/album/4qe0NJuKzO5iWPv1aFl3l3) | 3:20 | 2022-02-10 |  |
-| [Zeze](https://open.spotify.com/track/0SopH24w1T4KFqDSF7ZObO) | [TID](https://open.spotify.com/artist/7F9kZ1lQ6NS4kQrKXDeAkv) | [Girlfriend](https://open.spotify.com/album/3paXpDLkQ42bCZM2XNI223) | 4:03 | 2022-02-10 |  |
+| [Zeze](https://open.spotify.com/track/0SopH24w1T4KFqDSF7ZObO) | [TID](https://open.spotify.com/artist/7F9kZ1lQ6NS4kQrKXDeAkv) | [Girlfriend](https://open.spotify.com/album/3paXpDLkQ42bCZM2XNI223) | 4:03 | 2022-02-10 | 2023-11-29 |
 
 \*This playlist was first scraped on 2022-08-06. Prior content cannot be recovered.

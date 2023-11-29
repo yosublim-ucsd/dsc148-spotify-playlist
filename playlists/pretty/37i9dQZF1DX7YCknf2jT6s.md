@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Nubiyan Twist
 
-[Spotify](https://open.spotify.com/user/spotify) - 910,225 likes - 100 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 910,373 likes - 100 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 4 | [Marking My Time \- BADBADNOTGOOD Edit](https://open.spotify.com/track/37d6wINGgXhG8r95A13M4i) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Marking My Time \(BADBADNOTGOOD Edit\)](https://open.spotify.com/album/0g9kK2Bttr5JjicLzIQdYz) | 4:12 |
 | 5 | [Never Doubt](https://open.spotify.com/track/2n3IsOUF3qp6tHHozmEKGy) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Never Doubt](https://open.spotify.com/album/7JBHfFH8n8HNHvwZTgMmr3) | 4:10 |
 | 6 | [A Flower is a Lovesome Thing](https://open.spotify.com/track/1pZ9MJT3kKWTe9WDvfbgdN) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP), [Geri Allen](https://open.spotify.com/artist/0jqAOYfo9ipclW7ATXPhHg) | [A Lovesome Thing](https://open.spotify.com/album/47b74rWLSpPJjFfmw3gLUh) | 10:18 |
-| 7 | [Dragonfly](https://open.spotify.com/track/4ilcgmelP0B7j6OXVj6XyL) | [Dana and Alden](https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr) | [Quiet Music For Young People](https://open.spotify.com/album/7EnjFsVN3FXf3L1tknhyKm) | 5:57 |
+| 7 | [Dragonfly](https://open.spotify.com/track/3uyAmrmQS6GDm0XllcMGMK) | [Dana and Alden](https://open.spotify.com/artist/4odX9weZjAyv9EV05akfLX) | [Quiet Music for Young People](https://open.spotify.com/album/02aBmDkQat7UtqqF9lGZzE) | 5:57 |
 | 8 | [The Comeback](https://open.spotify.com/track/0MOCXlySxIos7wMFITLore) | [J\-Rod Sullivan](https://open.spotify.com/artist/3sQFyYXUd3ATfqB8ASEy1u) | [The Comeback](https://open.spotify.com/album/1gh0ayHtxAjp2PaX9fJivk) | 6:05 |
 | 9 | [Cobham](https://open.spotify.com/track/6p46VYGOLxUbhPJB3pGxEt) | [Oli Howe](https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof), [HOWES3](https://open.spotify.com/artist/5kAArX8MAwHcmpsbdKhsuE) | [Six](https://open.spotify.com/album/0k821NyEThNcYPxBa6fO6E) | 6:36 |
 | 10 | [Não Ao Marco Temporal](https://open.spotify.com/track/242sgtNAjMw47sqowRPJ7s) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Não Ao Marco Temporal](https://open.spotify.com/album/4OhAAD1R2PQkCZnETwkkoz) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [It's Ok, B U](https://open.spotify.com/track/471EXpx1r3ht0t2yhkTewm) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [It's Ok, B U](https://open.spotify.com/album/6NSTroWyAp3htlhO61s3Ep) | 4:22 |
 | 100 | [JERICHO](https://open.spotify.com/track/6ggQiv5Hr3CHTqI7sFfnxV) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB) | [JERICHO](https://open.spotify.com/album/2GSNn4nuV4BzdgIJoZZgYT) | 2:39 |
 
-Snapshot ID: `MCxjZWNmOTJlNmY1NDBhOTg1OTBlOTU0OTI3NjkyYzI1NzkzYjRhOWI5`
+Snapshot ID: `MCw0NjgwZGJlYjU4NWJlMDYyOGVlMjI4ZGI2YWM0NTllY2I4ZmRjMzY4`

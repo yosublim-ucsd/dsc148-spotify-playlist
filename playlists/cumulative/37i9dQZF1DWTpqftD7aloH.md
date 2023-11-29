@@ -4,7 +4,7 @@
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-250 songs - 23 hr 33 min
+251 songs - 23 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [God Only Knows](https://open.spotify.com/track/4ElNxglBjcrASiGn58t9Jm) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Burn The Ships](https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh) | 3:49 | 2022-09-09 | 2023-01-14 |
 | [Good Good Father](https://open.spotify.com/track/1mWdyqs6Zvg8b1lKjDc8yB) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [The Ultimate Playlist](https://open.spotify.com/album/2XOKt6AVcxdBs1Za7AxGj2) | 4:53 | 2022-09-09 | 2023-01-14 |
 | [Goodness of God \- Live](https://open.spotify.com/track/1gj9poFl2mLKkguqWo5Y1i) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [Victory \(Live\)](https://open.spotify.com/album/6EsmModhcfmKIeCeNQjeDY) | 4:56 | 2022-09-09 | 2023-07-15 |
-| [Grande \- Acústico](https://open.spotify.com/track/7FFKxR4wcdqlArAeMTq74Q) | [Diego Karter](https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF), [FLAME Music](https://open.spotify.com/artist/3ZbEYQq9lafzy0B2ipYZkq) | [Grande \(Acústico\)](https://open.spotify.com/album/327II90lNdJ8ydx1pWYBhw) | 3:48 | 2023-09-01 |  |
+| [Grande \- Acústico](https://open.spotify.com/track/7FFKxR4wcdqlArAeMTq74Q) | [Diego Karter](https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF), [FLAME Music](https://open.spotify.com/artist/3ZbEYQq9lafzy0B2ipYZkq) | [Grande \(Acústico\)](https://open.spotify.com/album/327II90lNdJ8ydx1pWYBhw) | 3:48 | 2023-09-01 | 2023-11-29 |
 | [Grande É O Senhor \- Ao Vivo](https://open.spotify.com/track/0DR8OCMH9Vv966ZOdWykGp) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Memórias 2 \(Ao Vivo\)](https://open.spotify.com/album/1sngh1DpFlv5KdnRch5ECO) | 4:06 | 2023-06-23 |  |
 | [Grandes Coisas \- Ao Vivo](https://open.spotify.com/track/6oUMdwHNYiBcf8oWrx2hj1) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Uma Nova História \(ao Vivo\)](https://open.spotify.com/album/6fEAuJNkuAFCUJms25Konq) | 4:57 | 2022-09-09 |  |
 | [Graves Into Gardens \(Live\)](https://open.spotify.com/track/0pNizrRmvu5S16fH6ccm0v) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3AYUzOtIQoLrxDZNwaPErh) | 7:32 | 2022-09-09 | 2023-01-14 |
@@ -151,6 +151,7 @@
 | [Nunca Pare de Lutar](https://open.spotify.com/track/6JF0NbnUohNnoNwrLs6paN) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética 4: Nunca Pare de Lutar \(Ao Vivo\)](https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k) | 7:56 | 2023-06-23 |  |
 | [Náufrago](https://open.spotify.com/track/7DUs3Bi0639PMeAnBAIUOT) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm), [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Náufrago](https://open.spotify.com/album/0SAlbW5iw08FjHuAj6I65U) | 5:51 | 2022-11-26 | 2023-01-14 |
 | [Não Acabou \(Ao Vivo\)](https://open.spotify.com/track/3nrfrwKRt2O3thUugCbdEP) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Não Acabou \(Ao Vivo\)](https://open.spotify.com/album/1kjH03D7N4V9AOJDjiTIpW) | 5:15 | 2023-01-14 |  |
+| [Não Dá Pra Viver Sem Ti \- Ao Vivo](https://open.spotify.com/track/2kfvjGjtxazlIz8Lxuwvy4) | [Régis Danese](https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll) | [Não Dá Pra Viver Sem Ti \(Ao Vivo\)](https://open.spotify.com/album/32H00NWDHMo9c8cdNpSfmD) | 5:38 | 2023-11-24 |  |
 | [Não Há Nome Maior](https://open.spotify.com/track/4WkdRazRRMtnsvdyiiC7FB) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Não Há Nome Maior](https://open.spotify.com/album/6vuoxQ1WYRV4xAKBm7f9ok) | 5:09 | 2022-09-09 | 2023-03-12 |
 | [Não Há Outro](https://open.spotify.com/track/3YKzZGZFCZBE60IuPkUY1C) | [Diego Karter](https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF) | [Não Há Outro](https://open.spotify.com/album/3DhSTaULAqGDEZnFWCmPzK) | 6:26 | 2023-04-15 | 2023-04-22 |
 | [Não Pare](https://open.spotify.com/track/3VCfmjE0oEMYQUil14wd0J) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Pare](https://open.spotify.com/album/56P1CgGN8DGhG4ksRz0tfF) | 4:53 | 2022-09-09 |  |

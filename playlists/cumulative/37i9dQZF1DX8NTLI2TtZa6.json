@@ -506,7 +506,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 144625,
       "name": "And There You Were",
       "url": "https://open.spotify.com/track/2B1QXUUeEdMoZ92ggrA1Rh"
@@ -636,6 +636,24 @@
       "duration_ms": 144625,
       "name": "And There You Were",
       "url": "https://open.spotify.com/track/7drtx97JQqC1zmb8AsrBuN"
+    },
+    {
+      "album": {
+        "name": "Theme For Nils",
+        "url": "https://open.spotify.com/album/4yMPsNxmYZMLj9xmaFr59w"
+      },
+      "artists": [
+        {
+          "name": "Jef Martens",
+          "url": "https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144625,
+      "name": "And There You Were",
+      "url": "https://open.spotify.com/track/7gDVmrb3tdtCRWSkPyg4yP"
     },
     {
       "album": {
@@ -4818,10 +4836,28 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 144625,
       "name": "Ninon",
       "url": "https://open.spotify.com/track/15fml3MbQnKQcalTwB7Ng4"
+    },
+    {
+      "album": {
+        "name": "Place Saint-Sulpice",
+        "url": "https://open.spotify.com/album/0qV0UWZpiWeKp5jgBMuiZC"
+      },
+      "artists": [
+        {
+          "name": "Waltzin",
+          "url": "https://open.spotify.com/artist/5nkwKrd8YZXi7uMgEppmxh"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144625,
+      "name": "Ninon",
+      "url": "https://open.spotify.com/track/1AUKAjq5C6oiiTYgj8Oy5T"
     },
     {
       "album": {

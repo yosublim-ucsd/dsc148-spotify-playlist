@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 > The tracks heating up the continent right now!  Cover:  <a href="https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG?si=Z\_Xmojs7Twatazmr9fC54Q"> Victony</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,499,558 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,500,186 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 | 49 | [Dollar For Love \(Baby\)](https://open.spotify.com/track/46906mYFRf4gRPqvdrhWhX) | [Thuto The Human](https://open.spotify.com/artist/5gAHEecJcLAR9qtLcaiVfj) | [Dollar For Love \(Baby\)](https://open.spotify.com/album/4IABFEmSzX66zvR16cPt1H) | 6:53 |
 | 50 | [Xtra Cool](https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Xtra Cool](https://open.spotify.com/album/0VCIXWb1BjfOfBOLJTOOUL) | 2:30 |
 
-Snapshot ID: `MCw5YTNjNTk5Nzg2NjM4YmIxZjQzNDU4NjUzNzJkOTg4MjllN2Y5ZGZh`
+Snapshot ID: `MCxkYTRlNDA4YTNlY2RkMjczODBjZjYyNTJjNGVlODVhYjk0NWVkNDUx`

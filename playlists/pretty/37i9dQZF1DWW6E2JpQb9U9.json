@@ -1,12 +1,12 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi",
-  "num_followers": 105385,
+  "num_followers": 105428,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzA5MGVkYzZkZGViMGQ4ZjgxOTg5NDAzMzg4YjJmNGIwYjc2MWVl",
+  "snapshot_id": "MCw3OTFkYTY5NGRkZDEyMGI5ZThjYjZlYzg4MzFmOWU2NDk4OGE3ZTc1",
   "tracks": [
     {
       "added_at": "2023-11-23 21:42:20",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-11-23 21:42:20",
       "album": {
-        "name": "En Vivo Obras",
-        "url": "https://open.spotify.com/album/2l7x79wrLp28jt7qRjErxT"
-      },
-      "artists": [
-        {
-          "name": "Almafuerte",
-          "url": "https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV"
-        }
-      ],
-      "duration_ms": 249144,
-      "name": "S\u00e9 Vos - En Vivo",
-      "url": "https://open.spotify.com/track/5qmap4CQeX4rNCIi2rBOJ8"
-    },
-    {
-      "added_at": "2023-11-23 21:42:20",
-      "album": {
         "name": "Repuesto de Fe (En Vivo)",
         "url": "https://open.spotify.com/album/37T4qeUVTpx7Ps3HhSKdKc"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 164933,
       "name": "Irresponsables - En Vivo",
       "url": "https://open.spotify.com/track/27CiyWWdkSAM6mWfaNYaxt"
+    },
+    {
+      "added_at": "2023-11-23 21:42:20",
+      "album": {
+        "name": "En Vivo Obras",
+        "url": "https://open.spotify.com/album/2l7x79wrLp28jt7qRjErxT"
+      },
+      "artists": [
+        {
+          "name": "Almafuerte",
+          "url": "https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV"
+        }
+      ],
+      "duration_ms": 249144,
+      "name": "S\u00e9 Vos - En Vivo",
+      "url": "https://open.spotify.com/track/5qmap4CQeX4rNCIi2rBOJ8"
     },
     {
       "added_at": "2023-11-23 21:42:20",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-11-23 21:42:20",
       "album": {
+        "name": "Insoportablemente Vivo (En Directo Desde Estadio De Hurac\u00e1n Buenos Aires / 2001)",
+        "url": "https://open.spotify.com/album/5cgGmPTXGyysE1ShAqPh0x"
+      },
+      "artists": [
+        {
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+        }
+      ],
+      "duration_ms": 283946,
+      "name": "Lo Fr\u00e1gil De La Locura - En Directo Desde Estadio De Hurac\u00e1n Buenos Aires / 2001",
+      "url": "https://open.spotify.com/track/09MFq4vAtlRnC9dQVQJYln"
+    },
+    {
+      "added_at": "2023-11-23 21:42:20",
+      "album": {
         "name": "Instante Eterno (ac\u00fastico en Vivo)",
         "url": "https://open.spotify.com/album/3strzjXT1o3fjp6TmC67ev"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 227050,
       "name": "A D\u00f3nde Vas - Ac\u00fastico en Vivo",
       "url": "https://open.spotify.com/track/5En6kK2Xn4HgYQBhBgcxY0"
-    },
-    {
-      "added_at": "2023-11-23 21:42:20",
-      "album": {
-        "name": "Insoportablemente Vivo (En Directo Desde Estadio De Hurac\u00e1n Buenos Aires / 2001)",
-        "url": "https://open.spotify.com/album/5cgGmPTXGyysE1ShAqPh0x"
-      },
-      "artists": [
-        {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
-        }
-      ],
-      "duration_ms": 283946,
-      "name": "Lo Fr\u00e1gil De La Locura - En Directo Desde Estadio De Hurac\u00e1n Buenos Aires / 2001",
-      "url": "https://open.spotify.com/track/09MFq4vAtlRnC9dQVQJYln"
     },
     {
       "added_at": "2023-11-23 21:42:20",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-11-23 21:42:20",
       "album": {
+        "name": "Alucinados como la primera vez",
+        "url": "https://open.spotify.com/album/7HcdNaR29l7Ia06pPjz9SD"
+      },
+      "artists": [
+        {
+          "name": "Pier",
+          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
+        }
+      ],
+      "duration_ms": 331453,
+      "name": "Sacrificio y Rock and Roll",
+      "url": "https://open.spotify.com/track/3YeTUDReoVOsMmN9Vp8uRc"
+    },
+    {
+      "added_at": "2023-11-23 21:42:20",
+      "album": {
         "name": "Sucio y Desprolijo (En Vivo Cosqu\u00edn Rock)",
         "url": "https://open.spotify.com/album/1PFc4pnap71P8RBNYxCfvR"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 333394,
       "name": "Sucio y Desprolijo - En Vivo Cosqu\u00edn Rock",
       "url": "https://open.spotify.com/track/76Bt5vjnbxyr0JmxZKToTW"
-    },
-    {
-      "added_at": "2023-11-23 21:42:20",
-      "album": {
-        "name": "Alucinados como la primera vez",
-        "url": "https://open.spotify.com/album/7HcdNaR29l7Ia06pPjz9SD"
-      },
-      "artists": [
-        {
-          "name": "Pier",
-          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
-        }
-      ],
-      "duration_ms": 331453,
-      "name": "Sacrificio y Rock and Roll",
-      "url": "https://open.spotify.com/track/3YeTUDReoVOsMmN9Vp8uRc"
     },
     {
       "added_at": "2023-11-23 21:42:20",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-11-23 21:42:20",
       "album": {
-        "name": "Vivo X la 25",
-        "url": "https://open.spotify.com/album/3ALjIJVwq4AKqMaVPPSIM2"
-      },
-      "artists": [
-        {
-          "name": "La 25",
-          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
-        }
-      ],
-      "duration_ms": 262866,
-      "name": "Solo Voy - En Vivo",
-      "url": "https://open.spotify.com/track/6iFOuRmcqjqOKiM8daR9P6"
-    },
-    {
-      "added_at": "2023-11-23 21:42:20",
-      "album": {
         "name": "Estadio Newell's Old Boys, 18 de Mayo de 2018 (En Vivo)",
         "url": "https://open.spotify.com/album/5WOqG6HvWWAd7YvlK6TObB"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 253968,
       "name": "En el Bald\u00edo - En Vivo",
       "url": "https://open.spotify.com/track/7J8rmygjDWHb3fpwIEJDnH"
+    },
+    {
+      "added_at": "2023-11-23 21:42:20",
+      "album": {
+        "name": "Vivo X la 25",
+        "url": "https://open.spotify.com/album/3ALjIJVwq4AKqMaVPPSIM2"
+      },
+      "artists": [
+        {
+          "name": "La 25",
+          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
+        }
+      ],
+      "duration_ms": 262866,
+      "name": "Solo Voy - En Vivo",
+      "url": "https://open.spotify.com/track/6iFOuRmcqjqOKiM8daR9P6"
     },
     {
       "added_at": "2023-11-23 21:42:20",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2023-11-23 21:42:20",
       "album": {
+        "name": "En Vivo en el Teatro \u00d3pera",
+        "url": "https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6"
+      },
+      "artists": [
+        {
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+        }
+      ],
+      "duration_ms": 304386,
+      "name": "Magia Blanca - En Vivo en el Teatro \u00d3pera",
+      "url": "https://open.spotify.com/track/1nYpwh84SyGAYDjOE5LNN0"
+    },
+    {
+      "added_at": "2023-11-23 21:42:20",
+      "album": {
         "name": "Ped\u00eda Siempre Temas en la Radio\u2026 (En Vivo)",
         "url": "https://open.spotify.com/album/4lPT2G3v115JNbMqsfrYjn"
       },
@@ -1519,18 +1535,18 @@
     {
       "added_at": "2023-11-23 21:42:20",
       "album": {
-        "name": "En Vivo en el Teatro \u00d3pera",
-        "url": "https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6"
+        "name": "Trascenlace (Vivo en Obras)",
+        "url": "https://open.spotify.com/album/3b9dOyIcbeR3847hEt9hVy"
       },
       "artists": [
         {
-          "name": "Turf",
-          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
         }
       ],
-      "duration_ms": 304386,
-      "name": "Magia Blanca - En Vivo en el Teatro \u00d3pera",
-      "url": "https://open.spotify.com/track/1nYpwh84SyGAYDjOE5LNN0"
+      "duration_ms": 317005,
+      "name": "El Riesgo (Vivo en Obras)",
+      "url": "https://open.spotify.com/track/4Jk2hUyD31f1mty7EvWWmj"
     },
     {
       "added_at": "2023-11-23 21:42:20",
@@ -1547,22 +1563,6 @@
       "duration_ms": 253733,
       "name": "Arde la ciudad",
       "url": "https://open.spotify.com/track/4TAdfQJXaMWfJK63aGH2zJ"
-    },
-    {
-      "added_at": "2023-11-23 21:42:20",
-      "album": {
-        "name": "Trascenlace (Vivo en Obras)",
-        "url": "https://open.spotify.com/album/3b9dOyIcbeR3847hEt9hVy"
-      },
-      "artists": [
-        {
-          "name": "El Plan De La Mariposa",
-          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
-        }
-      ],
-      "duration_ms": 317005,
-      "name": "El Riesgo (Vivo en Obras)",
-      "url": "https://open.spotify.com/track/4Jk2hUyD31f1mty7EvWWmj"
     },
     {
       "added_at": "2023-11-23 21:42:20",
@@ -1603,26 +1603,6 @@
     {
       "added_at": "2023-11-23 21:42:20",
       "album": {
-        "name": "Demonio Paraguayo (En Vivo)",
-        "url": "https://open.spotify.com/album/3zGMwV9bHkvf4hcgUvPcdL"
-      },
-      "artists": [
-        {
-          "name": "Los Tabaleros",
-          "url": "https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg"
-        },
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        }
-      ],
-      "duration_ms": 262014,
-      "name": "Demonio Paraguayo - En Vivo",
-      "url": "https://open.spotify.com/track/66vpazTiBR7b3vIl1E9wnW"
-    },
-    {
-      "added_at": "2023-11-23 21:42:20",
-      "album": {
         "name": "Una Vez M\u00e1s (En Vivo)",
         "url": "https://open.spotify.com/album/20akHhz1vnjUSwHcHjVnB2"
       },
@@ -1639,6 +1619,26 @@
       "duration_ms": 289074,
       "name": "Una Vez M\u00e1s - En Vivo",
       "url": "https://open.spotify.com/track/34u37vgTwh2wl3ZH5u2nfs"
+    },
+    {
+      "added_at": "2023-11-23 21:42:20",
+      "album": {
+        "name": "Demonio Paraguayo (En Vivo)",
+        "url": "https://open.spotify.com/album/3zGMwV9bHkvf4hcgUvPcdL"
+      },
+      "artists": [
+        {
+          "name": "Los Tabaleros",
+          "url": "https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg"
+        },
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        }
+      ],
+      "duration_ms": 262014,
+      "name": "Demonio Paraguayo - En Vivo",
+      "url": "https://open.spotify.com/track/66vpazTiBR7b3vIl1E9wnW"
     },
     {
       "added_at": "2023-11-23 21:42:20",
@@ -1679,22 +1679,18 @@
     {
       "added_at": "2023-11-23 21:42:20",
       "album": {
-        "name": "Strangerdanger (En Vivo)",
-        "url": "https://open.spotify.com/album/01GM7YDRe55MZHxHgjFgG7"
+        "name": "La Fuente (Vivo en Obras 11/06/2022)",
+        "url": "https://open.spotify.com/album/0UAX7WjcXyGu4YQvg3DeVp"
       },
       "artists": [
         {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
-        },
-        {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
         }
       ],
-      "duration_ms": 184919,
-      "name": "Strangerdanger - En Vivo",
-      "url": "https://open.spotify.com/track/16KeH2DTffqLuGOtOnHxLZ"
+      "duration_ms": 251434,
+      "name": "T\u00fanel de la Vida - Vivo en Obras 11/06/2022",
+      "url": "https://open.spotify.com/track/04i1O9I6yHG7z9rNQJbSJ6"
     }
   ],
   "unique_name": "Vivo de Rock",

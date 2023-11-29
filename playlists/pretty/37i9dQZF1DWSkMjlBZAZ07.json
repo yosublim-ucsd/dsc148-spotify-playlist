@@ -1,12 +1,12 @@
 {
   "description": "Brighten your day with a mix of folksy mood boosters.",
-  "num_followers": 1967467,
+  "num_followers": 1967524,
   "original_name": "Happy Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NWU2NThhMDhiZDg5YWY0ZjlmNjQyNWMzOGYyNDdiNDk0NDY3YTA0",
+  "snapshot_id": "MCw0NTRmNzE4M2Q4YjVjMGE2Nzg5ZDIyZTRiZTdjOWM0NjMxM2U3OTU2",
   "tracks": [
     {
       "added_at": "2023-11-14 22:52:49",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-11-14 22:52:49",
       "album": {
-        "name": "Let's Be Still",
-        "url": "https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 241706,
-      "name": "Shake",
-      "url": "https://open.spotify.com/track/7CtViMh5EgoE8krmPPuOhi"
-    },
-    {
-      "added_at": "2023-11-14 22:52:49",
-      "album": {
         "name": "Long Lost",
         "url": "https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 220737,
       "name": "Love Me Like You Used To",
       "url": "https://open.spotify.com/track/0JfpIwZfcRwDzD6GRYzfKN"
+    },
+    {
+      "added_at": "2023-11-14 22:52:49",
+      "album": {
+        "name": "Let's Be Still",
+        "url": "https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 241706,
+      "name": "Shake",
+      "url": "https://open.spotify.com/track/7CtViMh5EgoE8krmPPuOhi"
     },
     {
       "added_at": "2023-11-14 22:52:49",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-11-14 22:52:49",
       "album": {
+        "name": "Time in the Sun",
+        "url": "https://open.spotify.com/album/4zDxvE6VjZfELyXA13kLmn"
+      },
+      "artists": [
+        {
+          "name": "Susto",
+          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
+        }
+      ],
+      "duration_ms": 151515,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/1uWp3OTBE1pryDJ4igGD1q"
+    },
+    {
+      "added_at": "2023-11-14 22:52:49",
+      "album": {
         "name": "Ready or Not (feat. Sierra Ferrell)",
         "url": "https://open.spotify.com/album/5JcW9l6CD3JJbn7DbJrrkh"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 192901,
       "name": "Ready or Not (feat. Sierra Ferrell)",
       "url": "https://open.spotify.com/track/2NAOqvZIf7onZ4kDLU560I"
-    },
-    {
-      "added_at": "2023-11-14 22:52:49",
-      "album": {
-        "name": "Time in the Sun",
-        "url": "https://open.spotify.com/album/4zDxvE6VjZfELyXA13kLmn"
-      },
-      "artists": [
-        {
-          "name": "Susto",
-          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
-        }
-      ],
-      "duration_ms": 151515,
-      "name": "Get Down",
-      "url": "https://open.spotify.com/track/1uWp3OTBE1pryDJ4igGD1q"
     },
     {
       "added_at": "2023-11-14 22:52:49",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-11-14 22:52:49",
       "album": {
-        "name": "My Boy",
-        "url": "https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B"
-      },
-      "artists": [
-        {
-          "name": "Marlon Williams",
-          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
-        }
-      ],
-      "duration_ms": 163648,
-      "name": "My Boy",
-      "url": "https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK"
-    },
-    {
-      "added_at": "2023-11-14 22:52:49",
-      "album": {
         "name": "Shaky Ground",
         "url": "https://open.spotify.com/album/1iYLinQ11V4WmuiHsu1Ryd"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 192893,
       "name": "Shaky Ground",
       "url": "https://open.spotify.com/track/0VCveHO3AX0OLRuTgpBKBJ"
+    },
+    {
+      "added_at": "2023-11-14 22:52:49",
+      "album": {
+        "name": "My Boy",
+        "url": "https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B"
+      },
+      "artists": [
+        {
+          "name": "Marlon Williams",
+          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
+        }
+      ],
+      "duration_ms": 163648,
+      "name": "My Boy",
+      "url": "https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK"
     },
     {
       "added_at": "2023-11-14 22:52:49",
@@ -1283,6 +1283,34 @@
     {
       "added_at": "2023-11-14 22:52:49",
       "album": {
+        "name": "Rolling Golden Holy",
+        "url": "https://open.spotify.com/album/43mr98g3RoWlC3jyxAKf5I"
+      },
+      "artists": [
+        {
+          "name": "Bonny Light Horseman",
+          "url": "https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb"
+        },
+        {
+          "name": "Ana\u00efs Mitchell",
+          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
+        },
+        {
+          "name": "Eric D. Johnson",
+          "url": "https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6"
+        },
+        {
+          "name": "Josh Kaufman",
+          "url": "https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc"
+        }
+      ],
+      "duration_ms": 196126,
+      "name": "California",
+      "url": "https://open.spotify.com/track/0YuFmCuwYxzytcLRKTn5Fg"
+    },
+    {
+      "added_at": "2023-11-14 22:52:49",
+      "album": {
         "name": "Silver Lining",
         "url": "https://open.spotify.com/album/3FxWxJXvkNN3peG2iikNh7"
       },
@@ -1311,34 +1339,6 @@
       "duration_ms": 170915,
       "name": "Hey Baby",
       "url": "https://open.spotify.com/track/4MaNTAN78ylZnCMCKBFiU9"
-    },
-    {
-      "added_at": "2023-11-14 22:52:49",
-      "album": {
-        "name": "Rolling Golden Holy",
-        "url": "https://open.spotify.com/album/43mr98g3RoWlC3jyxAKf5I"
-      },
-      "artists": [
-        {
-          "name": "Bonny Light Horseman",
-          "url": "https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb"
-        },
-        {
-          "name": "Ana\u00efs Mitchell",
-          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
-        },
-        {
-          "name": "Eric D. Johnson",
-          "url": "https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6"
-        },
-        {
-          "name": "Josh Kaufman",
-          "url": "https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc"
-        }
-      ],
-      "duration_ms": 196126,
-      "name": "California",
-      "url": "https://open.spotify.com/track/0YuFmCuwYxzytcLRKTn5Fg"
     },
     {
       "added_at": "2023-11-14 22:52:49",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-11-14 22:52:49",
       "album": {
-        "name": "Almost Home",
-        "url": "https://open.spotify.com/album/3wa5A9GyJM4jd3vCvfIby5"
-      },
-      "artists": [
-        {
-          "name": "Keston Cobblers Club",
-          "url": "https://open.spotify.com/artist/38DmNaPnPBoXtbpFgXZNL8"
-        }
-      ],
-      "duration_ms": 169177,
-      "name": "Almost Home",
-      "url": "https://open.spotify.com/track/4AsUAGWIMsZ7Xl5Hc1Fk4p"
-    },
-    {
-      "added_at": "2023-11-14 22:52:49",
-      "album": {
         "name": "Half Moon Light",
         "url": "https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 229960,
       "name": "Good Times",
       "url": "https://open.spotify.com/track/0C9uaJt51ytJgwiZpRYyGM"
+    },
+    {
+      "added_at": "2023-11-14 22:52:49",
+      "album": {
+        "name": "Almost Home",
+        "url": "https://open.spotify.com/album/3wa5A9GyJM4jd3vCvfIby5"
+      },
+      "artists": [
+        {
+          "name": "Keston Cobblers Club",
+          "url": "https://open.spotify.com/artist/38DmNaPnPBoXtbpFgXZNL8"
+        }
+      ],
+      "duration_ms": 169177,
+      "name": "Almost Home",
+      "url": "https://open.spotify.com/track/4AsUAGWIMsZ7Xl5Hc1Fk4p"
     },
     {
       "added_at": "2023-11-14 22:52:49",

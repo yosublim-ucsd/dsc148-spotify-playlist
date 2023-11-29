@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Björk & Rosalía
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,240 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,243 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 57 | [Adolescence \(Ft\. Digga D\)](https://open.spotify.com/track/3ZHGe1GshUNN57bz8khFNf) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Adolescence \(Ft\. Digga D\)](https://open.spotify.com/album/2eYUcSI6kc1sOW7oU5vTu5) | 2:51 |
 | 58 | [On Your Side](https://open.spotify.com/track/02fkJ4Y3oLO0VOKjM3w7yW) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [On Your Side](https://open.spotify.com/album/6PfmuiUGdXa406AJtVDoCC) | 4:27 |
 | 59 | [40 Days](https://open.spotify.com/track/3D7E73Ifkw97wxLStfM12v) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [L.I.T \(Lost In Translation\)](https://open.spotify.com/album/5Welfv6PlfPJqQcrSmb44F) | 3:06 |
-| 60 | [Firebreak \- Edit](https://open.spotify.com/track/3gjz9ut5aKi3quFgb4c2EU) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Firebreak \(Edit\)](https://open.spotify.com/album/7F42un9slW1Gqfziv3jlsX) | 2:27 |
+| 60 | [Firebreak \- Edit](https://open.spotify.com/track/5eD7gQPf53vmuQ0Ka6KUdb) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Firebreak](https://open.spotify.com/album/3OBXMr3YKWecqcRO1Ay6Vv) | 2:27 |
 | 61 | [Big FU](https://open.spotify.com/track/2HbTwmup8SWz5tMcKZXFLh) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Big FU](https://open.spotify.com/album/6fmQcEPiGQlBlA8LGClYVU) | 2:41 |
 | 62 | [Run Free \(Countdown\)](https://open.spotify.com/track/4KB66xUZWvRDej628vf2J8) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Run Free \(Countdown\)](https://open.spotify.com/album/3RbeHKH3mbJ4wQ4Y9fcF3f) | 2:32 |
 | 63 | [On My Way](https://open.spotify.com/track/2v6YzfxSEIhXuN3v8OamEw) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV), [TACTICS](https://open.spotify.com/artist/47CxUbkc8DhkqPWDDiNw34) | [Influential](https://open.spotify.com/album/39tf2KHZoFF5RSSLO9skMO) | 2:46 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 79 | [The Last One](https://open.spotify.com/track/6VKGPwLUO7nki5cDXT3gvQ) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch \(Deluxe\)](https://open.spotify.com/album/0YniOccoeVuymVK8Lpb7VR) | 3:59 |
 | 80 | [Happy Cars](https://open.spotify.com/track/00yseVGAUk5VMh9OD4BSRv) | [Peace](https://open.spotify.com/artist/2O9XW1nnGRMkMV1wpK8IiS) | [Happy Cars](https://open.spotify.com/album/0GMlRNkhMhknJZ8oVLpEXw) | 3:17 |
 
-Snapshot ID: `MCw5YWRlOGQ5ODFkZmNlYTRiNzI0NTNjYzA2OTZlZWQ0YTYxN2IyZDQ5`
+Snapshot ID: `MCwwOWQ5Nzg4ZGIyZDA1NjU5MzQ3MjI3YzIyYWIwYmI5ZDcwMWNlN2I1`

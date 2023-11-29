@@ -2,7 +2,7 @@
 
 ### [Modern Jazz Japan](https://open.spotify.com/playlist/37i9dQZF1DWWGewPG5S5oE)
 
-> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 加藤真亜沙
+> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: H ZETTRIO
 
 234 songs - 18 hr 59 min
 
@@ -56,7 +56,7 @@
 | [Death by Glamour \(with Jacob Koller\)](https://open.spotify.com/track/4YtvTTg4uE31kyFhCRC9Vw) | [瀬戸一王](https://open.spotify.com/artist/05QyI8tKAUSMa2H8WRI8v1), [Jacob Koller](https://open.spotify.com/artist/5WurrE6cmmCQDP151eki1o) | [PIANOTALE](https://open.spotify.com/album/0FtP1dhqgP2gS2hKkSAMnO) | 2:18 | 2022-10-25 | 2022-12-07 |
 | [Delight](https://open.spotify.com/track/5X0b33rwOYBzCf9GlumgqP) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Delight](https://open.spotify.com/album/0HCLpvF3ydPqboT0ZOVDfX) | 5:10 | 2023-10-31 |  |
 | [Departure](https://open.spotify.com/track/4g7sbGRPB5h1oZ265SVz86) | [Martha Kato](https://open.spotify.com/artist/3NvIawjJlIxAqZlfCyodcY) | [Moonlit](https://open.spotify.com/album/7bbgoL1AjCJupyQZQPzlSy) | 10:58 | 2023-11-21 |  |
-| [dnp](https://open.spotify.com/track/6H43tmO7fAnFGA0MCLHXpl) | [PIANO SHIFT](https://open.spotify.com/artist/2NgVrbppUOWDrRtFqxiLgi) | [dnp](https://open.spotify.com/album/23tYBMC31KmtqRWhpZiaG6) | 4:11 | 2023-10-10 |  |
+| [dnp](https://open.spotify.com/track/6H43tmO7fAnFGA0MCLHXpl) | [PIANO SHIFT](https://open.spotify.com/artist/2NgVrbppUOWDrRtFqxiLgi) | [dnp](https://open.spotify.com/album/23tYBMC31KmtqRWhpZiaG6) | 4:11 | 2023-10-10 | 2023-11-29 |
 | [eden](https://open.spotify.com/track/2INM5qrVFHkFpfGWQ5FxLB) | [ひかりとだいち love SOIL&"PIMP"SESSIONS](https://open.spotify.com/artist/5kEUSsToZBCBfFr68aT7f9), [Hikari Mitsushima](https://open.spotify.com/artist/4ZX8Wr8KHHrW7radu6IwYG), [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ), [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [eden](https://open.spotify.com/album/317j5AzcY1fL9NgKAMZIcD) | 3:57 | 2023-02-28 | 2023-11-01 |
 | [Eugene's Waltz](https://open.spotify.com/track/3zcmpzBM0j16wtM53nDGWB) | [海野 雅威](https://open.spotify.com/artist/21xCR4SZh2XrwLsloXp6vx) | [Eugene's Waltz](https://open.spotify.com/album/4fOmwDWX5Ay54r8eqkMPDm) | 3:57 | 2023-05-16 | 2023-05-24 |
 | [Every Good Thing \~Four Seasons of SAKURA MACHI\~](https://open.spotify.com/track/0mlnxPCdytBO1j1dNu2im9) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Every Good Thing \~Four Seasons of SAKURA MACHI\~](https://open.spotify.com/album/6EszsICeJCFEO0liYghkBi) | 4:02 | 2023-01-31 | 2023-03-18 |

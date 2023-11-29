@@ -125,6 +125,28 @@
     },
     {
       "album": {
+        "name": "Back and Forth",
+        "url": "https://open.spotify.com/album/5WezzeLLpbwdtmjb8sZbbq"
+      },
+      "artists": [
+        {
+          "name": "Bonbero",
+          "url": "https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM"
+        },
+        {
+          "name": "Tade Dust",
+          "url": "https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Back and Forth",
+      "url": "https://open.spotify.com/track/25eEcgHpDEJYLJeFpKyXt4"
+    },
+    {
+      "album": {
         "name": "Bagchigi",
         "url": "https://open.spotify.com/album/28IsEbIM9NZf3RTYMEXz9F"
       },
@@ -192,6 +214,28 @@
       "duration_ms": 212880,
       "name": "Best Way 2 Die",
       "url": "https://open.spotify.com/track/2Z98lKrvtMjVrPLlajm4MY"
+    },
+    {
+      "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/0olQG0GzI6blLvXYDLX8iz"
+      },
+      "artists": [
+        {
+          "name": "7",
+          "url": "https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn"
+        },
+        {
+          "name": "ZOT on the WAVE",
+          "url": "https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156872,
+      "name": "Boss Bitch",
+      "url": "https://open.spotify.com/track/4KzhDBgWcTEAJ0tiSQqDPz"
     },
     {
       "album": {
@@ -824,7 +868,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 222000,
       "name": "HARINONAI TOKEI",
       "url": "https://open.spotify.com/track/6WBrpaNr21TgWDSKf0KwZ0"
@@ -1072,7 +1116,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 164444,
       "name": "KANGOL",
       "url": "https://open.spotify.com/track/1hpA2P32EUrK9bigmodoeh"
@@ -1112,7 +1156,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 115263,
       "name": "Key",
       "url": "https://open.spotify.com/track/4kTyBRvPePNfzgvKtSshsn"
@@ -1170,7 +1214,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 173289,
       "name": "Leon S. Kennedy",
       "url": "https://open.spotify.com/track/4NriW0BNFdc1FVvNOGxeuQ"
@@ -1364,7 +1408,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 132000,
       "name": "Me vs. Me",
       "url": "https://open.spotify.com/track/4ekHj2CZEIOgGxreDtW8Hn"
@@ -1662,7 +1706,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 142500,
       "name": "REMEMBER",
       "url": "https://open.spotify.com/track/6BENxiVRwDYnr8KlX5w1bB"
@@ -1724,6 +1768,24 @@
       "duration_ms": 110703,
       "name": "Rice Spice",
       "url": "https://open.spotify.com/track/34IAM1iapMADhwJc5kxxip"
+    },
+    {
+      "album": {
+        "name": "Run This Town",
+        "url": "https://open.spotify.com/album/0LtPST8JfL2ATb4IsBtRCS"
+      },
+      "artists": [
+        {
+          "name": "Kay-on",
+          "url": "https://open.spotify.com/artist/2F81r2H2weMXa83CD2VD9H"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154370,
+      "name": "Run This Town",
+      "url": "https://open.spotify.com/track/17PLoEyJFNwsRN5y0M53Sg"
     },
     {
       "album": {
@@ -1942,7 +2004,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 171799,
       "name": "Swervin",
       "url": "https://open.spotify.com/track/1qveERsaCbg1nvPfvnPsyt"
@@ -2266,10 +2328,32 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 126000,
       "name": "YEN",
       "url": "https://open.spotify.com/track/4Hp2ZLj18BBLlATtFVR3rn"
+    },
+    {
+      "album": {
+        "name": "ICON",
+        "url": "https://open.spotify.com/album/2T9uqa1ZOZiHu2FGrbOWgR"
+      },
+      "artists": [
+        {
+          "name": "Kaneee",
+          "url": "https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09"
+        },
+        {
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181594,
+      "name": "Young Boy",
+      "url": "https://open.spotify.com/track/0pmE2OAqk0YIoQBHUfR2Pw"
     },
     {
       "album": {
@@ -2310,6 +2394,28 @@
       "duration_ms": 174814,
       "name": "Zoomer",
       "url": "https://open.spotify.com/track/6kopnoNQZMlhuXEdPOyj31"
+    },
+    {
+      "album": {
+        "name": "REVENGE",
+        "url": "https://open.spotify.com/album/4w98BIOWdMhWPGT2SnHiXQ"
+      },
+      "artists": [
+        {
+          "name": "ShowyVICTOR",
+          "url": "https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA"
+        },
+        {
+          "name": "SEEDA",
+          "url": "https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258861,
+      "name": "\u8fd4\u7b54",
+      "url": "https://open.spotify.com/track/0w7IwkrMz5wPDK8qSzD2ZK"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX93dxiCI0yn1"

@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Alvaro Diaz & Quevedo",
-  "num_followers": 521334,
+  "num_followers": 521432,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMmVhYWI2YmExMTQzYzg0ODMwNmQ3ODc5YTA5YjZjMjA3NzhkNTdi",
+  "snapshot_id": "MCxjNWQzNzQzYTAzOGM0MjkzZmUxNDhmM2QxZjU5NDZlMGI2M2E1NWZj",
   "tracks": [
     {
       "added_at": "2023-11-24 05:00:00",
@@ -348,7 +348,7 @@
           "url": "https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5"
         }
       ],
-      "duration_ms": 155555,
+      "duration_ms": 127659,
       "name": "Ella Mata",
       "url": "https://open.spotify.com/track/7JqgPZVfpwFVPDhb4mSjOJ"
     },
@@ -555,26 +555,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "en dormir sin Madrid",
-        "url": "https://open.spotify.com/album/4NMv3cMkDwkkR6EdLloQDB"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 189901,
-      "name": "Milo J: Bzrp Music Sessions, Vol. 57",
-      "url": "https://open.spotify.com/track/2QM5gBm9Q8VZ7UamMIMLb1"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Bad Boy",
         "url": "https://open.spotify.com/album/5WN8wOXN4VxKVTxXlYfjXh"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 159101,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/1fTBr87WdB5OBBpVovXQOz"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "en dormir sin Madrid",
+        "url": "https://open.spotify.com/album/4NMv3cMkDwkkR6EdLloQDB"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 189901,
+      "name": "Milo J: Bzrp Music Sessions, Vol. 57",
+      "url": "https://open.spotify.com/track/2QM5gBm9Q8VZ7UamMIMLb1"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -915,26 +915,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "LOCO X PERREARTE",
-        "url": "https://open.spotify.com/album/1EKXvsbN9F0aBxigrLRXnc"
-      },
-      "artists": [
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 212024,
-      "name": "LOCO X PERREARTE",
-      "url": "https://open.spotify.com/track/1s7AggVbT1tlkjwfVCjvux"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Oye BB",
         "url": "https://open.spotify.com/album/3dRkgg45xl85zTpkZvSqPV"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 147662,
       "name": "Oye BB",
       "url": "https://open.spotify.com/track/2QftZPguVY5lKNwyXPDywB"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "LOCO X PERREARTE",
+        "url": "https://open.spotify.com/album/1EKXvsbN9F0aBxigrLRXnc"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 212024,
+      "name": "LOCO X PERREARTE",
+      "url": "https://open.spotify.com/track/1s7AggVbT1tlkjwfVCjvux"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1623,26 +1623,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Barbie",
-        "url": "https://open.spotify.com/album/7bzkPUjkBq6BUGlxpAYgXU"
-      },
-      "artists": [
-        {
-          "name": "Teo",
-          "url": "https://open.spotify.com/artist/4bv5cRKu2eAjm1mGDPGkeq"
-        },
-        {
-          "name": "Randy",
-          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "Barbie",
-      "url": "https://open.spotify.com/track/1rUdyuKqzUVzanfMEgfFaX"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Joseador",
         "url": "https://open.spotify.com/album/7hFazOzVmHkvZyJLAI7rUB"
       },
@@ -1663,6 +1643,26 @@
       "duration_ms": 131792,
       "name": "Joseador",
       "url": "https://open.spotify.com/track/2MkPpEEpiRNjssScVDZEqK"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Barbie",
+        "url": "https://open.spotify.com/album/7bzkPUjkBq6BUGlxpAYgXU"
+      },
+      "artists": [
+        {
+          "name": "Teo",
+          "url": "https://open.spotify.com/artist/4bv5cRKu2eAjm1mGDPGkeq"
+        },
+        {
+          "name": "Randy",
+          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "Barbie",
+      "url": "https://open.spotify.com/track/1rUdyuKqzUVzanfMEgfFaX"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "H.10",
+        "url": "https://open.spotify.com/album/0JIaqJlYOhS8I2qIYAXHbl"
+      },
+      "artists": [
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        }
+      ],
+      "duration_ms": 130052,
+      "name": "Locomia",
+      "url": "https://open.spotify.com/track/0IMPn1KF3tn6ZUjpzhkpil"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Del Calent\u00f3n",
         "url": "https://open.spotify.com/album/7F06bRtzV1MXHU7vW3bjqn"
       },
@@ -1771,22 +1787,6 @@
       "duration_ms": 197351,
       "name": "Del Calent\u00f3n",
       "url": "https://open.spotify.com/track/31eIRKr5BbbugXOKNnpPXK"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "H.10",
-        "url": "https://open.spotify.com/album/0JIaqJlYOhS8I2qIYAXHbl"
-      },
-      "artists": [
-        {
-          "name": "Sael",
-          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
-        }
-      ],
-      "duration_ms": 130052,
-      "name": "Locomia",
-      "url": "https://open.spotify.com/track/0IMPn1KF3tn6ZUjpzhkpil"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1879,6 +1879,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Si Si Si",
+        "url": "https://open.spotify.com/album/6bb67M0aTVOuHxBLOs3eEl"
+      },
+      "artists": [
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        }
+      ],
+      "duration_ms": 225280,
+      "name": "Si Si Si",
+      "url": "https://open.spotify.com/track/5pfn2dFlOvpx5hsTDk0SH5"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Normal",
         "url": "https://open.spotify.com/album/0hTgOFvhOFoWTm4fGMoS5B"
       },
@@ -1919,22 +1935,6 @@
       "duration_ms": 170086,
       "name": "Gatando la Funda",
       "url": "https://open.spotify.com/track/3eadQDgUDkKCPy2TgfPvuc"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Si Si Si",
-        "url": "https://open.spotify.com/album/6bb67M0aTVOuHxBLOs3eEl"
-      },
-      "artists": [
-        {
-          "name": "Sael",
-          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
-        }
-      ],
-      "duration_ms": 225280,
-      "name": "Si Si Si",
-      "url": "https://open.spotify.com/track/5pfn2dFlOvpx5hsTDk0SH5"
     },
     {
       "added_at": "2023-11-24 05:00:00",

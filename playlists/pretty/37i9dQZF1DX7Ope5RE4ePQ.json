@@ -1,12 +1,12 @@
 {
   "description": "masquerades, moonlit encounters, and locking eyes across the ballroom",
-  "num_followers": 428144,
+  "num_followers": 428367,
   "original_name": "royalcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTMyNjgxMGM2MTlhZDlhMDlhNmMyN2Y4ZjNmMmI1ZWZlMjIyYmU2",
+  "snapshot_id": "MCw0YTRhYTIzMGRkY2M2OWQ3YzRiZTJmMWQ1ZTQ1MmY0YTlkY2FlNWMx",
   "tracks": [
     {
       "added_at": "2023-10-16 09:04:51",
@@ -204,12 +204,12 @@
           "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
         },
         {
-          "name": "Berliner Philharmoniker",
-          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
-        },
-        {
           "name": "Sir Simon Rattle",
           "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
         }
       ],
       "duration_ms": 306533,

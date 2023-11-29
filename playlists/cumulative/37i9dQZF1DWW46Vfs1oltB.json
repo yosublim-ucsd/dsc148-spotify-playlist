@@ -23621,6 +23621,24 @@
     },
     {
       "album": {
+        "name": "\ubbf8\uccd0\ubc84\ub9ac\uaca0\ub2e4 (MAD)",
+        "url": "https://open.spotify.com/album/1CdiLd2ENEFje7ux0G23KT"
+      },
+      "artists": [
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197373,
+      "name": "\ubbf8\uccd0\ubc84\ub9ac\uaca0\ub2e4 (MAD)",
+      "url": "https://open.spotify.com/track/7n1yuwnzs5jTEitJ7eecS8"
+    },
+    {
+      "album": {
         "name": "THE FROST ON YOUR EDGE",
         "url": "https://open.spotify.com/album/3611OvwL52Wwj32NMzVc8e"
       },

@@ -87504,7 +87504,7 @@
     {
       "album": {
         "name": "Cosmic Redemption",
-        "url": "https://open.spotify.com/album/2wyc3ogW0vcvDPqrob4U7k"
+        "url": "https://open.spotify.com/album/1IjtCTvSSbIxy8AXIuS3y1"
       },
       "artists": [
         {
@@ -87515,6 +87515,24 @@
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 291898,
+      "name": "Try Harder",
+      "url": "https://open.spotify.com/track/1cF7FapYO7JXauDpUNNkJ1"
+    },
+    {
+      "album": {
+        "name": "Cosmic Redemption",
+        "url": "https://open.spotify.com/album/2wyc3ogW0vcvDPqrob4U7k"
+      },
+      "artists": [
+        {
+          "name": "Noturnall",
+          "url": "https://open.spotify.com/artist/7xRCuSBEiVCIJWCSIYQ7Ni"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-29",
       "duration_ms": 291898,
       "name": "Try Harder",
       "url": "https://open.spotify.com/track/7z4nnsUDk44Zm4RUu4GMRv"

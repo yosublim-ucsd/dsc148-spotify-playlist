@@ -1669,6 +1669,24 @@
     },
     {
       "album": {
+        "name": "As Seen On TV",
+        "url": "https://open.spotify.com/album/482bj82Je6J3tdvu758sOX"
+      },
+      "artists": [
+        {
+          "name": "Home Free",
+          "url": "https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198893,
+      "name": "Life is a Highway - Home Free's Version",
+      "url": "https://open.spotify.com/track/7jSnvJoGBmUxoCkvaRfxGr"
+    },
+    {
+      "album": {
         "name": "Life is a Highway (Home Free's Version)",
         "url": "https://open.spotify.com/album/62a9OZQr3Kczzt0tY1c1Dh"
       },
@@ -1680,7 +1698,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 198893,
       "name": "Life is a Highway - Home Free's Version",
       "url": "https://open.spotify.com/track/7nfcplt8hszPHYv0ECiPdg"

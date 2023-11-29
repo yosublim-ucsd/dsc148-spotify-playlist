@@ -1,12 +1,12 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: Mateo Falgas",
-  "num_followers": 18852,
+  "num_followers": 18872,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmN2VlMDk3ZjBkNmFiM2E2ZTVmNmRiN2Y5MzkwOTQ4MzJiNTNhMDE1",
+  "snapshot_id": "MCwwYmE2YWNjMTA4Nzk3ZTY5OGFjMTQyYWYyMWMzN2U0OGM3Y2QwNjhh",
   "tracks": [
     {
       "added_at": "2023-11-24 06:55:24",
@@ -299,6 +299,22 @@
     {
       "added_at": "2023-11-24 06:55:24",
       "album": {
+        "name": "De Todas las Flores",
+        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 308346,
+      "name": "Pajarito colibr\u00ed",
+      "url": "https://open.spotify.com/track/3Kyaxx0AhnwJSQOUMBGrlz"
+    },
+    {
+      "added_at": "2023-11-24 06:55:24",
+      "album": {
         "name": "Salvavidas de hielo",
         "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 191448,
       "name": "las consecuencias",
       "url": "https://open.spotify.com/track/0x3M7EQkASM6NQW53mNK9d"
-    },
-    {
-      "added_at": "2023-11-24 06:55:24",
-      "album": {
-        "name": "De Todas las Flores",
-        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 308346,
-      "name": "Pajarito colibr\u00ed",
-      "url": "https://open.spotify.com/track/3Kyaxx0AhnwJSQOUMBGrlz"
     },
     {
       "added_at": "2023-11-24 06:55:24",
@@ -643,26 +643,6 @@
     {
       "added_at": "2023-11-24 06:55:24",
       "album": {
-        "name": "My Best Self",
-        "url": "https://open.spotify.com/album/2z07bBhBWhhCEuGPD6FiEl"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        },
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 185823,
-      "name": "My Best Self",
-      "url": "https://open.spotify.com/track/58e3Ax9ugjBhlSd5V0pMH1"
-    },
-    {
-      "added_at": "2023-11-24 06:55:24",
-      "album": {
         "name": "volver\u00e1s??",
         "url": "https://open.spotify.com/album/5qEWzce6jaRVuEnobRAAOg"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 194000,
       "name": "volver\u00e1s??",
       "url": "https://open.spotify.com/track/7z0gvrbNudxiGUJ3mga5XL"
+    },
+    {
+      "added_at": "2023-11-24 06:55:24",
+      "album": {
+        "name": "My Best Self",
+        "url": "https://open.spotify.com/album/2z07bBhBWhhCEuGPD6FiEl"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        },
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 185823,
+      "name": "My Best Self",
+      "url": "https://open.spotify.com/track/58e3Ax9ugjBhlSd5V0pMH1"
     },
     {
       "added_at": "2023-11-24 06:55:24",
@@ -795,6 +795,26 @@
     {
       "added_at": "2023-11-24 06:55:24",
       "album": {
+        "name": "Lotta Love",
+        "url": "https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE"
+      },
+      "artists": [
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        },
+        {
+          "name": "Flock of Dimes",
+          "url": "https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP"
+        }
+      ],
+      "duration_ms": 197624,
+      "name": "Lotta Love",
+      "url": "https://open.spotify.com/track/4xPoGj1cAY9v5AGardly8e"
+    },
+    {
+      "added_at": "2023-11-24 06:55:24",
+      "album": {
         "name": "Estas Canciones Me Recuerdan a Ti",
         "url": "https://open.spotify.com/album/79iOQFpvUfcxDUMhBRZYRM"
       },
@@ -827,26 +847,6 @@
       "duration_ms": 198536,
       "name": "Las Vacas",
       "url": "https://open.spotify.com/track/28OcOTibh6MFjwIrdS4eZh"
-    },
-    {
-      "added_at": "2023-11-24 06:55:24",
-      "album": {
-        "name": "Lotta Love",
-        "url": "https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE"
-      },
-      "artists": [
-        {
-          "name": "Helado Negro",
-          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
-        },
-        {
-          "name": "Flock of Dimes",
-          "url": "https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP"
-        }
-      ],
-      "duration_ms": 197624,
-      "name": "Lotta Love",
-      "url": "https://open.spotify.com/track/4xPoGj1cAY9v5AGardly8e"
     },
     {
       "added_at": "2023-11-24 06:55:24",

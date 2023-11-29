@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 
 > indie tunes with country experimentation Cover: Faye Webster
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,619 likes - 150 songs - 9 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,743 likes - 150 songs - 9 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 | 105 | [Germs](https://open.spotify.com/track/37xUeodJvuKZl19BaUboHo) | [Acetone](https://open.spotify.com/artist/7DnDHNnkHER4ompBXz1ibL) | [Acetone](https://open.spotify.com/album/7reRvUl6TnOYkfgKO5kDP9) | 4:44 |
 | 106 | [Cowboy](https://open.spotify.com/track/1Pxk92XAQEuTGWvu9w4OGN) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Gold Record](https://open.spotify.com/album/309GzmwSB1Aj3gh8Tpp3Fo) | 4:35 |
 | 107 | [Snow Globes](https://open.spotify.com/track/0hpDqky5jV8MQqdvMWFv7K) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Ants From Up There](https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd) | 9:13 |
-| 108 | [Farm Cat](https://open.spotify.com/track/2ep9ouVeQUr4dx0LxNMfIs) | [Laney Esper](https://open.spotify.com/artist/7FcC6gSlV7ONLxNUYVFiBO) | [Farm Cat](https://open.spotify.com/album/6hX5lC11zIzBJDVm4Z5YSI) | 2:25 |
+| 108 | [Farm Cat](https://open.spotify.com/track/2ep9ouVeQUr4dx0LxNMfIs) | [Son of the Challenger](https://open.spotify.com/artist/5ArUOljpeiuePVYkK6KFmG) | [Farm Cat](https://open.spotify.com/album/6hX5lC11zIzBJDVm4Z5YSI) | 2:25 |
 | 109 | [Cottage Roads](https://open.spotify.com/track/1LEK0kOPQrWihpzZO4rMkN) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Young Men](https://open.spotify.com/album/5ADia0t4o7pA8dyi8jRA4E) | 3:01 |
 | 110 | [Topanga Two Step](https://open.spotify.com/track/7kw5cNXsR6LiAADMVF9Ocw) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Time Ain't Accidental](https://open.spotify.com/album/2fiBxxI8M8UlThKvXcKizN) | 3:58 |
 | 111 | [Simulation Swarm](https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:12 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 | 149 | [Voicemail](https://open.spotify.com/track/1BhIBuQqcc797NM9gwJWwE) | [Bloomsday](https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI) | [Place to Land](https://open.spotify.com/album/55pfu2IeDDtlhtKuFl1krR) | 3:11 |
 | 150 | [Solid Heart](https://open.spotify.com/track/7lT9thtYRU1l8eW9pTZPPa) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Solid Heart](https://open.spotify.com/album/3Hc7MbrPHYONVqCjzZYxmA) | 3:38 |
 
-Snapshot ID: `MCxlMThlYmYzOWI4ODZmMmQ2M2I2Mjc1OWZmNzBhZTY5YTc1N2IzNGYw`
+Snapshot ID: `MCwyNzJiODhlMTdlZjM3MGE4ZmEyNTMxYTI3NGJmNWExOTJmNzBmNTlk`

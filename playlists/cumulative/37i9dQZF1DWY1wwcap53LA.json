@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Country music making waves. Cover: Reyna Roberts",
+  "description": "Country music making waves. Cover: Tanner Adell",
   "name": "Country Frequency",
   "tracks": [
     {
@@ -1726,6 +1726,24 @@
       "duration_ms": 210813,
       "name": "Love You a Little Bit",
       "url": "https://open.spotify.com/track/5U8jzduwcqML3oi3yY1wDP"
+    },
+    {
+      "album": {
+        "name": "BUCKLE BUNNY (DELUXE)",
+        "url": "https://open.spotify.com/album/2GBaNzYtAW6NgOW4VHxnlq"
+      },
+      "artists": [
+        {
+          "name": "Tanner Adell",
+          "url": "https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193887,
+      "name": "Luke Combs",
+      "url": "https://open.spotify.com/track/4MEJ73SRDNLQSHpqTkdjm6"
     },
     {
       "album": {

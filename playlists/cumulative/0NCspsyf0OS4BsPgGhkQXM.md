@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-948 songs - 2 day 2 hr 5 min
+950 songs - 2 day 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -514,6 +514,7 @@
 | [Mars](https://open.spotify.com/track/0qe82vcK8qrhxysdMQpBrt) | [Take/Five](https://open.spotify.com/artist/4MD0pIPxvGvPdohFuEkCua) | [Mars](https://open.spotify.com/album/4TIkvjDU9QucXlfKgvV899) | 2:35 | 2022-01-14 | 2022-02-17 |
 | [Masquerade \(RudeLies Remix\) \- SACRA BEATS Singles](https://open.spotify.com/track/11e6MOFGfxbRWKAJTx2DD2) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3), [RudeLies](https://open.spotify.com/artist/7hf6L4LN1RTVN66IdBVpPr) | [Masquerade \(RudeLies Remix\) \- SACRA BEATS Singles](https://open.spotify.com/album/4YaZOkNrKjzvPpaUHAVUC7) | 3:07 | 2022-09-21 | 2022-11-05 |
 | [Matangi](https://open.spotify.com/track/3Y4MR8D4w6RJmtxXuVJ6sk) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS) | [Matangi](https://open.spotify.com/album/4Su74MoUdMkY6EMTobRuGG) | 3:18 | 2022-06-24 | 2023-09-23 |
+| [Medicine](https://open.spotify.com/track/3WNJYcfFVvlTCTi7bGltnV) | [Yonexx](https://open.spotify.com/artist/1qSxzYgUuAxLbHuzCXXvmm), [CRÈME](https://open.spotify.com/artist/7GSnGLal6xBBecChmC4W9H) | [Medicine](https://open.spotify.com/album/5NGF1TNUtmTgydrsYTREGu) | 2:29 | 2023-11-29 |  |
 | [Medusa \(The FifthGuys Remix\)](https://open.spotify.com/track/15OF5yNlvyWPZotjKoBRbh) | [M.I.M.E](https://open.spotify.com/artist/1RdQK73ZgvXjkaBJkibE6X), [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [2Scratch](https://open.spotify.com/artist/02qHcQfJCm2XlAnaJ5a6Rh) | [Medusa \(The FifthGuys Remix\)](https://open.spotify.com/album/6h8S4uBXthTVotNwX30HM3) | 2:47 | 2022-01-17 | 2022-02-17 |
 | [Meet Me](https://open.spotify.com/track/1DBra8wN9Gh9emkHot3FXk) | [Mickey Valen](https://open.spotify.com/artist/2tLI4kPsmsxQQv6zr2jbgt), [Noé](https://open.spotify.com/artist/6ATGuATiaPOyjNIc5AjP3R) | [Meet Me](https://open.spotify.com/album/4iQgnWSI3MKHBphIefqqL2) | 3:13 | 2023-02-21 |  |
 | [Meet Me](https://open.spotify.com/track/7l7Wtqi4ybiGVnFZ8vOYaf) | [Mickey Valen](https://open.spotify.com/artist/2tLI4kPsmsxQQv6zr2jbgt), [Noé](https://open.spotify.com/artist/6ATGuATiaPOyjNIc5AjP3R) | [Meet Me](https://open.spotify.com/album/6xWLz90CWI0ccidB5sD1UL) | 3:13 | 2022-01-14 | 2022-09-15 |
@@ -743,6 +744,7 @@
 | [Shanghai](https://open.spotify.com/track/3bLfSmgzIi9LjWbeWS1M3Z) | [CRÈME](https://open.spotify.com/artist/7GSnGLal6xBBecChmC4W9H), [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M) | [Shanghai](https://open.spotify.com/album/2CDYL6SIyBsFVczZkJtoAv) | 2:26 | 2022-02-18 | 2022-03-19 |
 | [Shatterproof](https://open.spotify.com/track/5u4swRwMpaURxHbz8yUrlN) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Mazare](https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9), [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [The Nature of Hope](https://open.spotify.com/album/64ZcjP0jb06XnpDf3VxXwm) | 3:22 | 2023-11-03 |  |
 | [Shots Fired](https://open.spotify.com/track/6lsHquwUgmI2kPDTYdTraV) | [2FISTD](https://open.spotify.com/artist/08e2eWa0q9i4FZS6n8V4Rs), [CHXSE WAVE](https://open.spotify.com/artist/6wmMB4J3qcm8KdKsjWXlWT) | [Shots Fired](https://open.spotify.com/album/2Hk4pwwXj54NG4mmGqrsdj) | 1:52 | 2023-10-20 | 2023-11-18 |
+| [Show Me](https://open.spotify.com/track/18fkKMZ9OA0NBBRSOOVWNj) | [NEOTEK](https://open.spotify.com/artist/44btqMHopGiWCGHMtFw3mv) | [Show Me](https://open.spotify.com/album/3nJo6xciOneTirb3NF98d5) | 2:25 | 2023-11-29 |  |
 | [Show You](https://open.spotify.com/track/5N52q31YsSTdUquvBnht2w) | [Edgar Willow](https://open.spotify.com/artist/0aSSG3PZeLcmBgFyQI5RXL) | [Show You](https://open.spotify.com/album/6CcCWAyJOwPSBfFrQw4odm) | 2:45 | 2022-08-20 | 2022-10-08 |
 | [Shut Shit Down](https://open.spotify.com/track/7rIfWHDoTPLNtTtkorbs3h) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Shut Shit Down](https://open.spotify.com/album/74HGGYuCtUANyifLwRIZhQ) | 2:42 | 2023-10-27 | 2023-11-18 |
 | [Sidewalk](https://open.spotify.com/track/2F8ds04UtncZxlcnVTA7Jx) | [Paper Idol](https://open.spotify.com/artist/6dewigIOIcG6m1XGsG4Mc3) | [Sidewalk](https://open.spotify.com/album/2i6bZqFgNcvoKYvV2ezw6K) | 3:21 | 2022-06-24 | 2022-07-29 |

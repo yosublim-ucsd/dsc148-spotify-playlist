@@ -322,7 +322,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 144625,
       "name": "And There You Were",
       "url": "https://open.spotify.com/track/2B1QXUUeEdMoZ92ggrA1Rh"
@@ -452,6 +452,24 @@
       "duration_ms": 144625,
       "name": "And There You Were",
       "url": "https://open.spotify.com/track/7drtx97JQqC1zmb8AsrBuN"
+    },
+    {
+      "album": {
+        "name": "Theme For Nils",
+        "url": "https://open.spotify.com/album/4yMPsNxmYZMLj9xmaFr59w"
+      },
+      "artists": [
+        {
+          "name": "Jef Martens",
+          "url": "https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144625,
+      "name": "And There You Were",
+      "url": "https://open.spotify.com/track/7gDVmrb3tdtCRWSkPyg4yP"
     },
     {
       "album": {
@@ -6140,7 +6158,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 132625,
       "name": "Vesper",
       "url": "https://open.spotify.com/track/3eC3m3kEenLAxXF18oFG4G"
@@ -6180,6 +6198,24 @@
       "duration_ms": 132625,
       "name": "Vesper",
       "url": "https://open.spotify.com/track/5aHJ4dAzn8fBudSSFqoATm"
+    },
+    {
+      "album": {
+        "name": "One More Story",
+        "url": "https://open.spotify.com/album/19B1Y0X1FXBTAcaDfrfYwk"
+      },
+      "artists": [
+        {
+          "name": "Comet Blue",
+          "url": "https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132625,
+      "name": "Vesper",
+      "url": "https://open.spotify.com/track/6sQaJc5eWnczHKIHiDfesG"
     },
     {
       "album": {

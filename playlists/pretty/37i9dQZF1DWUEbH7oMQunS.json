@@ -1,12 +1,12 @@
 {
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
-  "num_followers": 57958,
+  "num_followers": 58018,
   "original_name": "The Good Cup",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTk5YjA5ZGM5MjY5NzJmNjk0ODIzODQ4NGZlY2M1OWU4MmYyM2Q2",
+  "snapshot_id": "MCw4NjQ0ZGM2NjM5Yjk2N2E4ZDJkZGNmOWY2MWZiZDk3YmFlMzc5YzIy",
   "tracks": [
     {
       "added_at": "2023-07-28 04:02:00",
@@ -627,6 +627,26 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "features",
+        "url": "https://open.spotify.com/album/0Fc7umL5EClDmFhOI5GNuz"
+      },
+      "artists": [
+        {
+          "name": "Paul Whitacre",
+          "url": "https://open.spotify.com/artist/4QcUyC5d8B6rRL61AYAegO"
+        },
+        {
+          "name": "Tyson Motsenbocker",
+          "url": "https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "wearing thin (alt. version)",
+      "url": "https://open.spotify.com/track/1vZQZrT8BHfBZUMElDaSyv"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Attention (a Devotional Project)",
         "url": "https://open.spotify.com/album/5chqAKF6a1mqAVtJt76pWW"
       },
@@ -655,26 +675,6 @@
       "duration_ms": 273960,
       "name": "Great Is Our God",
       "url": "https://open.spotify.com/track/5TO4KuGzOBKG6CqxHm4wRD"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "features",
-        "url": "https://open.spotify.com/album/0Fc7umL5EClDmFhOI5GNuz"
-      },
-      "artists": [
-        {
-          "name": "Paul Whitacre",
-          "url": "https://open.spotify.com/artist/4QcUyC5d8B6rRL61AYAegO"
-        },
-        {
-          "name": "Tyson Motsenbocker",
-          "url": "https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "wearing thin (alt. version)",
-      "url": "https://open.spotify.com/track/1vZQZrT8BHfBZUMElDaSyv"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Survive These Seas",
-        "url": "https://open.spotify.com/album/3tgGcSo8MQa4ONqhNbXPmc"
-      },
-      "artists": [
-        {
-          "name": "LOVKN",
-          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
-        }
-      ],
-      "duration_ms": 221626,
-      "name": "Survive These Seas",
-      "url": "https://open.spotify.com/track/6GmJWxDoLjcp5iz9FmmH5y"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/4f4cZ9XxXEPMlwOO5mgdep"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 338504,
       "name": "Peace",
       "url": "https://open.spotify.com/track/47z8kamJgXLFIJ01RNPBVh"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Survive These Seas",
+        "url": "https://open.spotify.com/album/3tgGcSo8MQa4ONqhNbXPmc"
+      },
+      "artists": [
+        {
+          "name": "LOVKN",
+          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
+        }
+      ],
+      "duration_ms": 221626,
+      "name": "Survive These Seas",
+      "url": "https://open.spotify.com/track/6GmJWxDoLjcp5iz9FmmH5y"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "I'm Healing",
+        "url": "https://open.spotify.com/album/7LKPvd2pKWj4dFsct9z3ET"
+      },
+      "artists": [
+        {
+          "name": "Ben Potter",
+          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
+        }
+      ],
+      "duration_ms": 282734,
+      "name": "5am",
+      "url": "https://open.spotify.com/track/4I5EclhnK253hJsoDbJTKA"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Undress My Heart",
         "url": "https://open.spotify.com/album/0itCxwUR1vUV06qJhjf6Jo"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 232293,
       "name": "I Won't Let Go",
       "url": "https://open.spotify.com/track/0MqaKrT6Xak9kxjN64HKkq"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "I'm Healing",
-        "url": "https://open.spotify.com/album/7LKPvd2pKWj4dFsct9z3ET"
-      },
-      "artists": [
-        {
-          "name": "Ben Potter",
-          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
-        }
-      ],
-      "duration_ms": 282734,
-      "name": "5am",
-      "url": "https://open.spotify.com/track/4I5EclhnK253hJsoDbJTKA"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/0i2YjFJvFKKBD05cA0Omar"
+      },
+      "artists": [
+        {
+          "name": "Sarah Hawkyard",
+          "url": "https://open.spotify.com/artist/3CgmDph153yB1nP3meLZkr"
+        }
+      ],
+      "duration_ms": 219782,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/0w5nj3eNbOWsvbKpzbuVju"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Even Here Love Comes",
         "url": "https://open.spotify.com/album/2MVNO7ts5MUQGz3eYjNXUc"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 267933,
       "name": "Even Here Love Comes - Acoustic",
       "url": "https://open.spotify.com/track/6BIVOCaJMcS4okKENbf7pL"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/0i2YjFJvFKKBD05cA0Omar"
-      },
-      "artists": [
-        {
-          "name": "Sarah Hawkyard",
-          "url": "https://open.spotify.com/artist/3CgmDph153yB1nP3meLZkr"
-        }
-      ],
-      "duration_ms": 219782,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/0w5nj3eNbOWsvbKpzbuVju"
     },
     {
       "added_at": "2023-07-28 04:02:00",

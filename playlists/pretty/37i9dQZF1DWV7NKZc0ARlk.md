@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7NKZc0ARlk.md) - [plain]
 
 > Los éxitos del pop suenan mejor en vivo\. Foto: Thalia
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,906 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,211 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7NKZc0ARlk.md) - [plain]
 | 35 | [Corazón partío](https://open.spotify.com/track/2EdAzvb3Qc6E8h8glHD9jF) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [MTV Unplugged](https://open.spotify.com/album/1GP8zhAu7gbAQTzfl6xOKo) | 5:00 |
 | 36 | [Las Mil y una Noches \- Primera Fila Flans \(En Vivo\)](https://open.spotify.com/track/3V47MeZFqKMxBlxaF3wqRq) | [Ilse, Ivonne y Mimi](https://open.spotify.com/artist/3d79GDviyp0nkS5hPDlBKX) | [Primera Fila Flans](https://open.spotify.com/album/3Q2ojWYIEh9ASuJevLr64C) | 4:14 |
 | 37 | [Mi Credo](https://open.spotify.com/track/5k057RF9fQMimy59dS0pYJ) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [MTV Unplugged](https://open.spotify.com/album/0Oj8WUcWlQCS6CSJEAjaob) | 6:02 |
-| 38 | [Te amaré \- MTV Unplugged](https://open.spotify.com/track/1cRNYYuGsB59ymqi6wvTbU) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [MTV Unplugged](https://open.spotify.com/album/4B0mVzwgm0IihR4Qzg82FO) | 5:33 |
-| 39 | [Quién \(feat\. Alejandro Sanz\) \- En directo](https://open.spotify.com/track/6a46HjzJUcpUGEsbwvEh9E) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Tour Terral \(Tres noches en Las Ventas\)](https://open.spotify.com/album/3b2X7VxxfTCFRJQkShaJhc) | 4:57 |
+| 38 | [Quién \(feat\. Alejandro Sanz\) \- En directo](https://open.spotify.com/track/6a46HjzJUcpUGEsbwvEh9E) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Tour Terral \(Tres noches en Las Ventas\)](https://open.spotify.com/album/3b2X7VxxfTCFRJQkShaJhc) | 4:57 |
+| 39 | [Te amaré \- MTV Unplugged](https://open.spotify.com/track/1cRNYYuGsB59ymqi6wvTbU) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [MTV Unplugged](https://open.spotify.com/album/4B0mVzwgm0IihR4Qzg82FO) | 5:33 |
 | 40 | [Te Quiero Tanto, Tanto \- En Vivo](https://open.spotify.com/track/5rxSLxLdN4D0YFQd2QQlle) | [OV7](https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2) | [OV7 Primera Fila](https://open.spotify.com/album/2xFC6CVueT0H9MqW8RkySa) | 4:28 |
 | 41 | [Amor, Amor de Mis Amores \(with Ximena Sariñana\) \- En Vivo \[Sala Telefónica del Centro Cultural Roberto Cantoral\]](https://open.spotify.com/track/1xUUwulH27eH1TPa1faebX) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mujer Divina \- Homenaje a Agustín Lara \[En Vivo\]](https://open.spotify.com/album/2pYAi581eUrOxSGWMuN5dH) | 4:31 |
 | 42 | [Eres para Mí \(with La Mala Rodríguez\) \- Unplugged \(En Vivo\)](https://open.spotify.com/track/1gL4YEW5qp6mv2aku06a06) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Julieta Venegas \- MTV Unplugged](https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97) | 4:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7NKZc0ARlk.md) - [plain]
 | 49 | [Confieso \- En Vivo](https://open.spotify.com/track/7LdnlQjKYxFJ1Ar7sM3sN4) | [OV7](https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2) | [OV7 Primera Fila](https://open.spotify.com/album/2xFC6CVueT0H9MqW8RkySa) | 3:43 |
 | 50 | [DESAFIANDO EL DESTINO \(Live Version\)](https://open.spotify.com/track/2jq4WtL6KfoED5a5hKxFNf) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [DESAFIANDO EL DESTINO \(Live Version\)](https://open.spotify.com/album/3CDM4XQS50I1LidXOYvnhW) | 4:10 |
 
-Snapshot ID: `MCwyMzIyMDUxNzBkZTIyYzM0ZjQxMjkwODFlN2E2MzkxZmJhYzExM2Ez`
+Snapshot ID: `MCwwNDMwN2M3ZThhN2Q0NWEyMmE5Y2Y0ZjA4Mjg2MWVjZjcxYjQwMzM0`

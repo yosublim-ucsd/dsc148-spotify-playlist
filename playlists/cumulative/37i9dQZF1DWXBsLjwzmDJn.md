@@ -2,7 +2,7 @@
 
 ### [Tokyo Revengers \-東京リベンジャーズ\-](https://open.spotify.com/playlist/37i9dQZF1DWXBsLjwzmDJn)
 
-> Enjoy music from "TOKYO REVENGERS"! /アニメ&実写版の音楽で辿る「東京リベンジャーズ」の世界。©︎和久井健・講談社／アニメ「東京リベンジャーズ」製作委員会
+> Enjoy music from "TOKYO REVENGERS"! /アニメ&実写版の音楽で辿る「東京リベンジャーズ」の世界。Ⓒ和久井健・講談社／アニメ「東京リベンジャーズ」製作委員会
 
 59 songs - 3 hr 20 min
 

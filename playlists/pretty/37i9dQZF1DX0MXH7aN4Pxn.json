@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 685912,
+  "num_followers": 685914,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MGQ3ODFhNmQ3MDYxNDU2YzQ4MDdjYTY0NzNjOGNkNjk2NmU5NDEx",
+  "snapshot_id": "MCwyODZiMzRjMGY0YTNlZWQyYzNjYWViMmJhZTVhMmQ2MDg0YzQ5M2U2",
   "tracks": [
     {
       "added_at": "2023-11-10 00:01:00",
@@ -567,6 +567,26 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
+        "name": "Diplo",
+        "url": "https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 199090,
+      "name": "Don't Forget My Love",
+      "url": "https://open.spotify.com/track/22pjmqZq2oTZtEThEt66Zn"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
         "name": "Essex Girls (feat. Jaykae, Silky & Janice Robinson)",
         "url": "https://open.spotify.com/album/1XTzHBeO7yYUnkkYN6i0V1"
       },
@@ -591,26 +611,6 @@
       "duration_ms": 160000,
       "name": "Essex Girls (feat. Jaykae, Silky & Janice Robinson)",
       "url": "https://open.spotify.com/track/3PIFmXwdhCKITMmWQqXhef"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
-        "name": "Diplo",
-        "url": "https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 199090,
-      "name": "Don't Forget My Love",
-      "url": "https://open.spotify.com/track/22pjmqZq2oTZtEThEt66Zn"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Bel Mercy",
-        "url": "https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF"
-      },
-      "artists": [
-        {
-          "name": "Jengi",
-          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
-        }
-      ],
-      "duration_ms": 169606,
-      "name": "Bel Mercy",
-      "url": "https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
         "name": "Just Feels Tight",
         "url": "https://open.spotify.com/album/2Xz3H4wBkEFBNHqqxmw4nS"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 197977,
       "name": "Just Feels Tight",
       "url": "https://open.spotify.com/track/2cegJfpyiaWXclqj5HRsZG"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
+        "name": "Bel Mercy",
+        "url": "https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF"
+      },
+      "artists": [
+        {
+          "name": "Jengi",
+          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
+        }
+      ],
+      "duration_ms": 169606,
+      "name": "Bel Mercy",
+      "url": "https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1715,18 +1715,26 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "The Chant",
-        "url": "https://open.spotify.com/album/1GpeWllT96Qv0UHDSz8tRb"
+        "name": "You & I (Emily Nash Remix)",
+        "url": "https://open.spotify.com/album/6fRRqRFnCivghMKQG6yHZz"
       },
       "artists": [
         {
-          "name": "Todd Edwards",
-          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
+          "name": "Navos",
+          "url": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
+        },
+        {
+          "name": "HARLEE",
+          "url": "https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy"
+        },
+        {
+          "name": "Emily Nash",
+          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
         }
       ],
-      "duration_ms": 186774,
-      "name": "The Chant",
-      "url": "https://open.spotify.com/track/7FuOr01j61l7nBgENXfOIX"
+      "duration_ms": 172258,
+      "name": "You & I - Emily Nash Remix",
+      "url": "https://open.spotify.com/track/6Mxaum98mQ7PySB9jvunYL"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1751,26 +1759,18 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "You & I (Emily Nash Remix)",
-        "url": "https://open.spotify.com/album/6fRRqRFnCivghMKQG6yHZz"
+        "name": "The Chant",
+        "url": "https://open.spotify.com/album/1GpeWllT96Qv0UHDSz8tRb"
       },
       "artists": [
         {
-          "name": "Navos",
-          "url": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
-        },
-        {
-          "name": "HARLEE",
-          "url": "https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy"
-        },
-        {
-          "name": "Emily Nash",
-          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
+          "name": "Todd Edwards",
+          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
         }
       ],
-      "duration_ms": 172258,
-      "name": "You & I - Emily Nash Remix",
-      "url": "https://open.spotify.com/track/6Mxaum98mQ7PySB9jvunYL"
+      "duration_ms": 186774,
+      "name": "The Chant",
+      "url": "https://open.spotify.com/track/7FuOr01j61l7nBgENXfOIX"
     },
     {
       "added_at": "2023-11-10 00:01:00",

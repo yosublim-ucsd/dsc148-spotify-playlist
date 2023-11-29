@@ -1,12 +1,12 @@
 {
   "description": "Indie music to keep your gaming session properly soundtracked. ",
-  "num_followers": 688842,
+  "num_followers": 689173,
   "original_name": "Indie Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZGJjMjc5ZWUxOTRiYjQyMmQ1NDk4NTg0ZTYxMTI5NzVkYTJjNTU1",
+  "snapshot_id": "MCwxYTkzMjhmOGUwZmM1N2Y3NThmMDliMWU5ZDliYmI4ZGIyM2U1ZjMy",
   "tracks": [
     {
       "added_at": "2023-06-09 18:21:40",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-06-09 18:21:40",
       "album": {
-        "name": "Nectar",
-        "url": "https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 214557,
-      "name": "Gimme Love",
-      "url": "https://open.spotify.com/track/5jSBnH9NyaNP5zdSB3pwgu"
-    },
-    {
-      "added_at": "2023-06-09 18:21:40",
-      "album": {
         "name": "The Wisp Sings: 10th Anniversary Edition",
         "url": "https://open.spotify.com/album/4VNB4ehPs8SKVVn6QAvHp2"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 313252,
       "name": "The Wisp Sings",
       "url": "https://open.spotify.com/track/7nDXmx3FuyeX7FI7PFl2iX"
+    },
+    {
+      "added_at": "2023-06-09 18:21:40",
+      "album": {
+        "name": "Nectar",
+        "url": "https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 214557,
+      "name": "Gimme Love",
+      "url": "https://open.spotify.com/track/5jSBnH9NyaNP5zdSB3pwgu"
     },
     {
       "added_at": "2023-06-09 18:21:40",

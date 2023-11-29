@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt, & more\. Cover: Four Year Strong
 
-1,076 songs - 2 day 8 hr 51 min
+1,077 songs - 2 day 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [Feel Something](https://open.spotify.com/track/6N4j7RO9FJabMrMOS4Tj7e) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Derek Sanders](https://open.spotify.com/artist/5vfh5OHbhWef7NigPS6CCE) | [Feel Something](https://open.spotify.com/album/6PsHXh69M2FYNf9inMrra5) | 3:00 | 2022-05-20 | 2023-04-12 |
 | [Fentanyl](https://open.spotify.com/track/6mj0AwKCkLXDUIIHJx40La) | [Miss Fortune](https://open.spotify.com/artist/5kx19W2Z47r0eF76IIRG7l) | [Fentanyl](https://open.spotify.com/album/5YaSEkuyUZtNci5ScygwTz) | 3:45 | 2021-12-10 | 2022-07-28 |
 | [Fight It](https://open.spotify.com/track/4zYdOhICwdBYkSTG2W4v6p) | [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn), [Elijah Midjord](https://open.spotify.com/artist/1bCclRGmTIDEfKmcW0bv95) | [Fight It](https://open.spotify.com/album/6SUG8ZmGOHJ6wYSsLpzYde) | 2:20 | 2021-12-10 | 2022-07-28 |
+| [Figure 8](https://open.spotify.com/track/5RZ1CPAYA2q3gxHBkZuJ84) | [John Harvie](https://open.spotify.com/artist/6kTaghFWmvBbtenJUJks6h) | [Figure 8](https://open.spotify.com/album/6sdo6MlzIARRUlAqo8UMri) | 3:32 | 2023-11-10 |  |
 | [Figure 8](https://open.spotify.com/track/2Jb3hVkRFoiiwXYcELiBfC) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:24 | 2023-04-28 |  |
 | [Figure Eight](https://open.spotify.com/track/4JbNlNqFMVs1vBOFAutXcK) | [Trophy Eyes](https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI) | [Figure Eight](https://open.spotify.com/album/0eU9qAlZt7kIEZnonBtixO) | 3:21 | 2021-12-10 | 2022-07-29 |
 | [Figure Eight](https://open.spotify.com/track/70nKt5OKAbXwlRrKsrf1oq) | [Trophy Eyes](https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI) | [Figure Eight](https://open.spotify.com/album/6f6A2AiUD0r3HVygTAFgez) | 3:21 | 2022-07-08 | 2022-08-06 |
@@ -551,7 +552,7 @@
 | [Levity](https://open.spotify.com/track/50VmAefTGokvpBLNTBhN9Y) | [Action/Adventure](https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF) | [Levity](https://open.spotify.com/album/661ymP9Uncq9ZFjFUYxefv) | 3:20 | 2022-10-07 | 2022-12-03 |
 | [Liar](https://open.spotify.com/track/5JhYzDSs7rbyh4zTPDt1Us) | [Milestones](https://open.spotify.com/artist/25AJmme9cOUgoVXKjXMNjV) | [Red Lights](https://open.spotify.com/album/7iHCk7cHjGFSTosuhwhArm) | 3:09 | 2022-03-25 | 2022-04-15 |
 | [Lie to Me](https://open.spotify.com/track/2OXIeL1t4PjPM6KXhKKggF) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [All That Is Left of the Blue Sky](https://open.spotify.com/album/1GvFBDb4YRO9BPRVNA0DuF) | 3:07 | 2021-12-10 | 2022-07-17 |
-| [Lies](https://open.spotify.com/track/23T4s8TZHQQvrBz6TOlJQI) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Lies](https://open.spotify.com/album/2EIv15518bIEB1LKkeDijG) | 2:50 | 2022-05-13 |  |
+| [Lies](https://open.spotify.com/track/23T4s8TZHQQvrBz6TOlJQI) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Lies](https://open.spotify.com/album/2EIv15518bIEB1LKkeDijG) | 2:50 | 2022-05-13 | 2023-11-29 |
 | [lifeline](https://open.spotify.com/track/2wPQ6FDiPAhmhO92JPpxHd) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [lifeline](https://open.spotify.com/album/5brif3YJdrv7Ypu552Rb8x) | 2:45 | 2022-04-08 | 2022-05-21 |
 | [lifeline](https://open.spotify.com/track/3QKzspueyGcm64Jllh75Zj) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [things with wings](https://open.spotify.com/album/2MdIFibz5RJWNIDJzyEVxO) | 2:45 | 2022-07-08 | 2023-04-11 |
 | [Lifeline](https://open.spotify.com/track/4bh4WhHYyl4P9wePTaTEIa) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 3:19 | 2023-04-28 | 2023-09-23 |

@@ -438,7 +438,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 171000,
       "name": "Moving Pieces",
       "url": "https://open.spotify.com/track/7z5ntslVYEBFtunuEYA9e5"
@@ -481,6 +481,24 @@
     },
     {
       "album": {
+        "name": "NEW STAR",
+        "url": "https://open.spotify.com/album/4VjojyAZQbfONf7bI1yBaw"
+      },
+      "artists": [
+        {
+          "name": "n.SSign",
+          "url": "https://open.spotify.com/artist/3IHvi45S5SITyNES9VzSjI"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209826,
+      "name": "NEW STAR",
+      "url": "https://open.spotify.com/track/3DLmZAoUDu4SOo6YrUHrCj"
+    },
+    {
+      "album": {
         "name": "First Flight (Special Edition)",
         "url": "https://open.spotify.com/album/6bFZd12JlAzzSXGKJSmVcd"
       },
@@ -499,6 +517,42 @@
     },
     {
       "album": {
+        "name": "PHOTOGENIC",
+        "url": "https://open.spotify.com/album/2K0VX8by8hTI9YEJZvsJpZ"
+      },
+      "artists": [
+        {
+          "name": "THE JET BOY BANGERZ from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/3fjFsQiDcaCYsbcnFz3Rhi"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222224,
+      "name": "PHOTOGENIC",
+      "url": "https://open.spotify.com/track/1KZZGKxtges95QLiiCQ1pU"
+    },
+    {
+      "album": {
+        "name": "\u5b58\u5728\u8a3c\u660e",
+        "url": "https://open.spotify.com/album/5qNH1s1LqjukHAapYmvlMF"
+      },
+      "artists": [
+        {
+          "name": "KID PHENOMENON from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184053,
+      "name": "Purple Dawn",
+      "url": "https://open.spotify.com/track/0okC5ms3JHc4Gywlc1LGop"
+    },
+    {
+      "album": {
         "name": "P.U!",
         "url": "https://open.spotify.com/album/63j2GyF1WGdRIxPuHbOmoU"
       },
@@ -510,7 +564,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 201960,
       "name": "Ready to Jump",
       "url": "https://open.spotify.com/track/1pATsjibjLcbIZEYQjB11j"
@@ -708,7 +762,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 186438,
       "name": "Temperature (Prod. JP THE WAVY)",
       "url": "https://open.spotify.com/track/6lLDeGs3dN0fsTYP24sJpp"
@@ -780,7 +834,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 204400,
       "name": "Vivid",
       "url": "https://open.spotify.com/track/3nXzWBaH6lhOksp1wu8hnL"
@@ -809,6 +863,24 @@
     },
     {
       "album": {
+        "name": "Whatcha Gonna Do",
+        "url": "https://open.spotify.com/album/4CHSQQXvYFdtNgiN5gsLsL"
+      },
+      "artists": [
+        {
+          "name": "IVVY",
+          "url": "https://open.spotify.com/artist/2vt1pSDdswpATBUN6lPMre"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218746,
+      "name": "Whatcha Gonna Do",
+      "url": "https://open.spotify.com/track/7xW477Puc2lltQKKYbihrw"
+    },
+    {
+      "album": {
         "name": "WHITE SNOW",
         "url": "https://open.spotify.com/album/3gApldsoKO741jMMS5B0WY"
       },
@@ -820,7 +892,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 245333,
       "name": "WHITE SNOW",
       "url": "https://open.spotify.com/track/7fUSOeRqyDSapxbZHxYBCG"
@@ -842,6 +914,24 @@
       "duration_ms": 268000,
       "name": "Winter Wish",
       "url": "https://open.spotify.com/track/6CQOjnyaea8drGsMQs0tKy"
+    },
+    {
+      "album": {
+        "name": "P.U!",
+        "url": "https://open.spotify.com/album/63j2GyF1WGdRIxPuHbOmoU"
+      },
+      "artists": [
+        {
+          "name": "Hey! Say! JUMP",
+          "url": "https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237440,
+      "name": "\u305d\u308c\u305e\u308c\u3002",
+      "url": "https://open.spotify.com/track/4IDv79DIXD5H0pimT4fL0m"
     },
     {
       "album": {

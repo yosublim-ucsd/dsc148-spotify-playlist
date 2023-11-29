@@ -1,12 +1,12 @@
 {
   "description": "100% Pinoy hits from your favorite artists! Cover: Sarah Geronimo",
-  "num_followers": 2439802,
+  "num_followers": 2440187,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMGRhNDExYTgxNDg1MjUyYTBhOTZjOWNhMGZkNjU0NGQ5Y2MzYjA4",
+  "snapshot_id": "MCw0NWY2MzE1OWY5MjFhMTNiM2JmMjkzNzE0MDZkOTJjNTgwYzRiZWNi",
   "tracks": [
     {
       "added_at": "2023-09-13 05:36:31",
@@ -579,26 +579,6 @@
     {
       "added_at": "2023-09-13 05:36:31",
       "album": {
-        "name": "Ang Wakas (feat. Trisha Macapagal)",
-        "url": "https://open.spotify.com/album/0xrEjBZwug4gj5k5qHE22n"
-      },
-      "artists": [
-        {
-          "name": "Arthur Miguel",
-          "url": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
-        },
-        {
-          "name": "Trisha Macapagal",
-          "url": "https://open.spotify.com/artist/6oF9fOWX7L88hNPKqWzB0O"
-        }
-      ],
-      "duration_ms": 304000,
-      "name": "Ang Wakas (feat. Trisha Macapagal)",
-      "url": "https://open.spotify.com/track/5yu0lVVW68f5VIzdjIJVQ6"
-    },
-    {
-      "added_at": "2023-09-13 05:36:31",
-      "album": {
         "name": "Materyal",
         "url": "https://open.spotify.com/album/5PPETYQBNZUJgUzHAVx6gx"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 242813,
       "name": "Kung Wala Ka",
       "url": "https://open.spotify.com/track/4he4CYDhvSPTxQc0e0Le1L"
+    },
+    {
+      "added_at": "2023-09-13 05:36:31",
+      "album": {
+        "name": "Ang Wakas (feat. Trisha Macapagal)",
+        "url": "https://open.spotify.com/album/0xrEjBZwug4gj5k5qHE22n"
+      },
+      "artists": [
+        {
+          "name": "Arthur Miguel",
+          "url": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
+        },
+        {
+          "name": "Trisha Macapagal",
+          "url": "https://open.spotify.com/artist/6oF9fOWX7L88hNPKqWzB0O"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "Ang Wakas (feat. Trisha Macapagal)",
+      "url": "https://open.spotify.com/track/5yu0lVVW68f5VIzdjIJVQ6"
     },
     {
       "added_at": "2023-09-13 05:36:31",

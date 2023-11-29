@@ -1699,6 +1699,24 @@
     },
     {
       "album": {
+        "name": "ATOFARATI",
+        "url": "https://open.spotify.com/album/6Uqs3c8IjxXKX5Hk7uW5kE"
+      },
+      "artists": [
+        {
+          "name": "Daniel Ojo",
+          "url": "https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140093,
+      "name": "ATOFARATI",
+      "url": "https://open.spotify.com/track/5Rnhvcd9ZUiKJLyaesOsj1"
+    },
+    {
+      "album": {
         "name": "ATTENTION",
         "url": "https://open.spotify.com/album/6IWyzrY0BPHRyBryHiibgG"
       },
@@ -20172,6 +20190,28 @@
       "duration_ms": 148490,
       "name": "Remember",
       "url": "https://open.spotify.com/track/2tIVw77LbfhCbOQIjyj40G"
+    },
+    {
+      "album": {
+        "name": "Reminiscing",
+        "url": "https://open.spotify.com/album/6AJTQUo5OgC3ZhlZTVedBs"
+      },
+      "artists": [
+        {
+          "name": "Jimohsoundz",
+          "url": "https://open.spotify.com/artist/0Jt3O4jM9QL5Atkl3WRhCJ"
+        },
+        {
+          "name": "Susss",
+          "url": "https://open.spotify.com/artist/7N2kuRISbJNGXCJhXUizaq"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139636,
+      "name": "Reminiscing",
+      "url": "https://open.spotify.com/track/0ZidbacZoSVEraGBabJr14"
     },
     {
       "album": {

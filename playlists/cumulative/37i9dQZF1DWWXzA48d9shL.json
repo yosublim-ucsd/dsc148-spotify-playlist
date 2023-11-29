@@ -453,6 +453,24 @@
     },
     {
       "album": {
+        "name": "A Perfect & Immortal Machine",
+        "url": "https://open.spotify.com/album/1ciEMexkTfMisF87MJIRrY"
+      },
+      "artists": [
+        {
+          "name": "Warlord Colossus",
+          "url": "https://open.spotify.com/artist/5gYimn2wODaiKOTFJlzVnn"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130500,
+      "name": "A Perfect & Immortal Machine",
+      "url": "https://open.spotify.com/track/51gdQs4BEup4BpCW4pV5yS"
+    },
+    {
+      "album": {
         "name": "AFTERLIFE",
         "url": "https://open.spotify.com/album/2hppa3RA8eRwtDStjZYqIF"
       },
@@ -682,6 +700,28 @@
       "duration_ms": 85361,
       "name": "ARMAGEDDON",
       "url": "https://open.spotify.com/track/7gNQHMTkHAaReyA6kFIfKE"
+    },
+    {
+      "album": {
+        "name": "ARMY OF DEAD",
+        "url": "https://open.spotify.com/album/7g1HHDYEQsx13Z3cCtkohN"
+      },
+      "artists": [
+        {
+          "name": "SXMPRA",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        },
+        {
+          "name": "HAARPER",
+          "url": "https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "ARMY OF DEAD",
+      "url": "https://open.spotify.com/track/0e5e7oCJbs5S7Muhm4AW1v"
     },
     {
       "album": {
@@ -2516,7 +2556,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 82000,
       "name": "crystal ball",
       "url": "https://open.spotify.com/track/5o71saqMHEJTneWr8cWwRU"
@@ -4178,7 +4218,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 163307,
       "name": "GOD MODE!",
       "url": "https://open.spotify.com/track/21yw08HRAH2A7XAse3huYT"
@@ -5330,6 +5370,24 @@
       "duration_ms": 203662,
       "name": "IN THE MIDDLE",
       "url": "https://open.spotify.com/track/00I2ZzY3LBCOfWvyqgPsJb"
+    },
+    {
+      "album": {
+        "name": "INTENSIVE CARE UNIT",
+        "url": "https://open.spotify.com/album/5tvu9lbiNvbTILQhtwhB3G"
+      },
+      "artists": [
+        {
+          "name": "HAARPER",
+          "url": "https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99971,
+      "name": "INTENSIVE CARE UNIT",
+      "url": "https://open.spotify.com/track/5jqh407cAc00xLMSrJ51os"
     },
     {
       "album": {
@@ -8116,6 +8174,24 @@
       "duration_ms": 158843,
       "name": "Realism VS Idealism",
       "url": "https://open.spotify.com/track/7qMjBggnUBWYnyCAcECkHh"
+    },
+    {
+      "album": {
+        "name": "Pupa",
+        "url": "https://open.spotify.com/album/44obgGVAFZpmAio7tHjvLq"
+      },
+      "artists": [
+        {
+          "name": "Lord Gasp",
+          "url": "https://open.spotify.com/artist/26fmgj9vUob3WnTDojZxBw"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110545,
+      "name": "RECOIL",
+      "url": "https://open.spotify.com/track/31jBzecMTqfx1gM48riFLd"
     },
     {
       "album": {

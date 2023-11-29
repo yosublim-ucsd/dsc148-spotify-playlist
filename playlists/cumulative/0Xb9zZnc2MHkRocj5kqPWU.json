@@ -97,6 +97,28 @@
     },
     {
       "album": {
+        "name": "A Winter Interlude (After Schubert)",
+        "url": "https://open.spotify.com/album/3ulwdi8ksAyXlPpljgE8Be"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Lavinia Meijer",
+          "url": "https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195391,
+      "name": "A Winter Interlude (After Schubert)",
+      "url": "https://open.spotify.com/track/17E50bwXrsVsQnboX8bjBE"
+    },
+    {
+      "album": {
         "name": "Actus Tragicus",
         "url": "https://open.spotify.com/album/5y3BawuYMUk0iOdKsAepdr"
       },
@@ -3200,6 +3222,28 @@
       "duration_ms": 264360,
       "name": "The Silence",
       "url": "https://open.spotify.com/track/1DaUE599Sj6oJztgqGc3dF"
+    },
+    {
+      "album": {
+        "name": "The Hunger Games: The Ballad of Songbirds and Snakes (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/6L0YVSVuw4BD3UX3fhl8et"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        },
+        {
+          "name": "Yuja Wang",
+          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125946,
+      "name": "Three Solos for Yuja: I. Friendship",
+      "url": "https://open.spotify.com/track/7xk2gA09jJdQntYM4oT2kU"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: Almost Twins, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,778 likes - 80 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,787 likes - 80 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Monster](https://open.spotify.com/track/5DIqK65zlDkuDcw8RJC1tO) | [Swatka City](https://open.spotify.com/artist/41Bz7kJeC9sC0R0ckhYCvY) | [Monster](https://open.spotify.com/album/77Bb69izpwhNTPMc90bAnw) | 3:10 |
 | 80 | [Wertlos](https://open.spotify.com/track/5bXHDGs5dgQjTKuEyt3RvR) | [das blühende leben](https://open.spotify.com/artist/5j2wAhtgYolAMqJK8JzbLK) | [Wertlos](https://open.spotify.com/album/2BrudNVwWtkcRjTs0j4tPX) | 3:48 |
 
-Snapshot ID: `MCxkNzYyMDcyNDUxZTNiYzA4OTRmZmQ3M2I3YThlZjgwNzUzZmMyMTVl`
+Snapshot ID: `MCw2MTZjMzJhZTVhY2EwMmI0OTJhMDg0MDhjOTA3NDg1ODVhYzczYWY5`

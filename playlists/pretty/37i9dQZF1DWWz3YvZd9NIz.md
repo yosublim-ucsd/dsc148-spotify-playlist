@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best remixes of popular tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,670 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,783 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 29 | [Creep \- Hardstyle Remix](https://open.spotify.com/track/3VwxvFdVh7i0NdroGxP3oz) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q), [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Creep \(Hardstyle Remix\)](https://open.spotify.com/album/0Qi2ncqZObbbkOlAt8MI92) | 3:07 |
 | 30 | [Can Can](https://open.spotify.com/track/64wJfQnusvGvwcV8Hize2a) | [NLCK](https://open.spotify.com/artist/5vG7sNDSCANSuZ71jkHxCL), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF) | [Can Can](https://open.spotify.com/album/1cBFq5sBvonDTN0lo5zGDi) | 2:08 |
 | 31 | [L'Amour Toujours \- Hardstyle Version](https://open.spotify.com/track/4LR1jodAjwy93mUG447kvD) | [TCM](https://open.spotify.com/artist/26JDxOz4FrVBX1AquFCzdp) | [L'Amour Toujours \(Hardstyle Version\)](https://open.spotify.com/album/2SbmElQVDhXV9Y6vXmi5g5) | 2:49 |
-| 32 | [Paradise](https://open.spotify.com/track/3fdK0eZWK2iNOdigAxvDGr) | [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV), [Firelite](https://open.spotify.com/artist/7FTQICqfx93tZdwZJb3wt2) | [Paradise](https://open.spotify.com/album/65ZzjaYCQC51PxGo0anzme) | 3:14 |
-| 33 | [The Nights \- Hardstyle Edit](https://open.spotify.com/track/6V074QUpLYTJCaCJMfvX6q) | [Thymo](https://open.spotify.com/artist/0Gmzk17bmcYkxnZqyOWfbn) | [The Nights \(Hardstyle Edit\)](https://open.spotify.com/album/44i8OiSQzIOYJ69XyxooPP) | 2:30 |
+| 32 | [The Nights \- Hardstyle Edit](https://open.spotify.com/track/6V074QUpLYTJCaCJMfvX6q) | [Thymo](https://open.spotify.com/artist/0Gmzk17bmcYkxnZqyOWfbn) | [The Nights \(Hardstyle Edit\)](https://open.spotify.com/album/44i8OiSQzIOYJ69XyxooPP) | 2:30 |
+| 33 | [Paradise](https://open.spotify.com/track/3fdK0eZWK2iNOdigAxvDGr) | [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV), [Firelite](https://open.spotify.com/artist/7FTQICqfx93tZdwZJb3wt2) | [Paradise](https://open.spotify.com/album/65ZzjaYCQC51PxGo0anzme) | 3:14 |
 | 34 | [Dark Horse \(Hardstyle\)](https://open.spotify.com/track/5aJT7dU40Ry4zz1zI34845) | [PXSEIDON](https://open.spotify.com/artist/0WOk6PeJIAZDHrB2U06TOw) | [Dark Horse \(Hardstyle\)](https://open.spotify.com/album/26AwKORtQduylqg17xd0MH) | 1:48 |
 | 35 | [Can Can \(Hardstyle Mix\)](https://open.spotify.com/track/1qXFfxYo6lyVk8Cgeuyuu2) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [High Level](https://open.spotify.com/artist/4KvRH69whFDlnlkk39c1Hh) | [Can Can \(Hardstyle Mix\)](https://open.spotify.com/album/7c9YtdfJjz6pCQWrrWb8Gn) | 2:00 |
 | 36 | [Don't Let Me Down \(feat\. Daya\) \- Hardwell & Sephyx Remix](https://open.spotify.com/track/1JI70l1lE5IF2tgJm5TnMD) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH), [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Sephyx](https://open.spotify.com/artist/7MXzeG7zoG8pKpqKCOqcZL) | [Don't Let Me Down \(feat\. Daya\) \[Hardwell & Sephyx Remix\]](https://open.spotify.com/album/3oS6pMqcIiHaq3B47mDop5) | 2:42 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 69 | [Instagram \- Mandy Remix](https://open.spotify.com/track/3p69LocgURIn0HniU4SbQy) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [MANDY](https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE) | [Instagram \(The Remixes\)](https://open.spotify.com/album/154K5houWcuFT0xqGKEMC1) | 4:29 |
 | 70 | [Miracle](https://open.spotify.com/track/0cdR2RfFyCknWBh7ghM8RU) | [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp) | [Miracle](https://open.spotify.com/album/4YK343jFNgtXS9jISVqImF) | 3:25 |
 
-Snapshot ID: `MCwwM2UwZjdkOGFlZWE4YjRjYjY0YzU1ZGJmZTYyMjU3YmQxNzcxOThh`
+Snapshot ID: `MCxjOWY3MTQwMjJkNzk1OTNkYzA0NGRlOTcxZTczMjE1NDhkMWUxYTYz`

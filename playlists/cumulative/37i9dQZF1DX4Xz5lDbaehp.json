@@ -748,7 +748,7 @@
     {
       "album": {
         "name": "D's",
-        "url": "https://open.spotify.com/album/5usCGqChw84MfT09Un7kT1"
+        "url": "https://open.spotify.com/album/49Wa3dDT09LqCJH2HsCMJE"
       },
       "artists": [
         {
@@ -763,6 +763,28 @@
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 162580,
+      "name": "D's",
+      "url": "https://open.spotify.com/track/34CiNFFZwAAkXmwxjOA78A"
+    },
+    {
+      "album": {
+        "name": "D's",
+        "url": "https://open.spotify.com/album/5usCGqChw84MfT09Un7kT1"
+      },
+      "artists": [
+        {
+          "name": "FUGAZZIFLO",
+          "url": "https://open.spotify.com/artist/2Y6KxvXlcHMQ2E3K9SOjYa"
+        },
+        {
+          "name": "JAHMED",
+          "url": "https://open.spotify.com/artist/0VvNvCZj4gZJZVsnIm99GJ"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-29",
       "duration_ms": 162580,
       "name": "D's",
       "url": "https://open.spotify.com/track/4CwI0ZjiMaW3F7B70iE43Y"
@@ -2464,7 +2486,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 172831,
       "name": "Right Where You Like",
       "url": "https://open.spotify.com/track/1ubWQBaUVvBw764iEL4DJ8"
@@ -2486,6 +2508,24 @@
       "duration_ms": 172831,
       "name": "Right Where You Like",
       "url": "https://open.spotify.com/track/4ZxwGZzFXsXBhmpddnnrql"
+    },
+    {
+      "album": {
+        "name": "Right Where You Like",
+        "url": "https://open.spotify.com/album/3XhEQFYmd9NRzzhHYfaM8T"
+      },
+      "artists": [
+        {
+          "name": "Andrea Chahayed",
+          "url": "https://open.spotify.com/artist/2V6GNbrXanLBlMLCx5nXZN"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172831,
+      "name": "Right Where You Like",
+      "url": "https://open.spotify.com/track/6VyanxTR6dbEUFbGTxDFYI"
     },
     {
       "album": {

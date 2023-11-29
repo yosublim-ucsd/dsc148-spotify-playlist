@@ -4,7 +4,7 @@
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-224 songs - 13 hr 23 min
+225 songs - 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [I Still Believe In Christmas](https://open.spotify.com/track/61m5ozWPHO2TgxNCdqizvl) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [I Still Believe In Christmas](https://open.spotify.com/album/6G85UPaNcCZ1bELHNzOEIF) | 3:48 | 2021-12-24 | 2023-11-27 |
 | [I Wish It Would Snow](https://open.spotify.com/track/78pwKtHN83mApILvMcp2ZL) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [I Wish It Would Snow](https://open.spotify.com/album/6l7uq39brjSI3uEacWRkDP) | 2:45 | 2021-12-24 |  |
 | [I'll Be Home For Christmas](https://open.spotify.com/track/6UzZMvSllutX26M5vA9H63) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Christmas With PJ Morton](https://open.spotify.com/album/6CCI8iFCudEj8BrLUs3Mj6) | 3:57 | 2022-12-11 |  |
+| [It Must Be Christmas Time](https://open.spotify.com/track/2kWAXjc3Teae3dMxaRl8QA) | [Chris August](https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8) | [It Must Be Christmas Time](https://open.spotify.com/album/5fzIfGruxmxdfn69fbYN8Q) | 2:19 | 2023-11-27 |  |
 | [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/track/1uh1iaMqBdx4XyrXhssKGD) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Christmas](https://open.spotify.com/album/3r4C6wYkCYL65QjkU5oJ8y) | 2:44 | 2021-12-24 |  |
 | [It's Christmas](https://open.spotify.com/track/4JXAww1nKt38s1Z4gFcYAS) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [It's Christmas](https://open.spotify.com/album/2nRwT02FtfScfuOsUWVEmS) | 3:09 | 2021-12-24 |  |
 | [It's Christmastime](https://open.spotify.com/track/3HpjbC0AWdWjXrMDG88SsM) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [It's Christmastime](https://open.spotify.com/album/5ERy83u8h7P6BppwtG0rCZ) | 3:02 | 2022-11-26 |  |
@@ -197,7 +198,7 @@
 | [The First Noel](https://open.spotify.com/track/6LKNeprjWU0oP4TcrdNl1s) | [Nonoy Peña](https://open.spotify.com/artist/1dSMhdi4YmecHoyFcSzpaA) | [The First Noel](https://open.spotify.com/album/4SIaHnyHIfpeBqHnMT23vh) | 3:08 | 2022-12-11 | 2023-11-04 |
 | [The First Noel](https://open.spotify.com/track/4PrJBQfMftpMcuzchztO8r) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [The First Noel](https://open.spotify.com/album/4xfqjNEA1tJpZsTE4SJ5eh) | 4:48 | 2022-12-11 |  |
 | [The First Noël](https://open.spotify.com/track/1SqCZGjHJGeSg1ZuKMDWqD) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [The First Noël](https://open.spotify.com/album/2tNbwGEri8pNkp8AmEf39f) | 4:19 | 2021-12-24 |  |
-| [The Hope for All](https://open.spotify.com/track/6xRhLODIOh065PTQTj9008) | [Soul City Worship](https://open.spotify.com/artist/5LtsEFW2aTWHrlwv5R49pP) | [The Hope for All](https://open.spotify.com/album/6G1ViS0M7AxZ7a3AnICM03) | 4:57 | 2022-12-11 |  |
+| [The Hope for All](https://open.spotify.com/track/6xRhLODIOh065PTQTj9008) | [Soul City Worship](https://open.spotify.com/artist/5LtsEFW2aTWHrlwv5R49pP) | [The Hope for All](https://open.spotify.com/album/6G1ViS0M7AxZ7a3AnICM03) | 4:57 | 2022-12-11 | 2023-11-29 |
 | [The Manger \(with Josh Turner\)](https://open.spotify.com/track/7aKm5vWuizayEDJJSp0OiW) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN), [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [The Manger](https://open.spotify.com/album/07eR5Q7zlJXjotNfqekAjH) | 3:49 | 2022-11-26 |  |
 | [The One](https://open.spotify.com/track/4eTJECZAqZU9pfoB3JNwoF) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Every Christmas](https://open.spotify.com/album/417JYo0idxISlugwKE4fsb) | 3:53 | 2023-11-03 |  |
 | [The Prayer](https://open.spotify.com/track/4UcdqtJDDSYToxtsBZzkFX) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Evergreen](https://open.spotify.com/album/7HgVH7ChzqayHdf1eAi9c1) | 4:21 | 2021-12-24 |  |

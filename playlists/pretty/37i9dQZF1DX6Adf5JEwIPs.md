@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Gerardo Ortiz and Santa Fe Klan
 
-[Spotify](https://open.spotify.com/user/spotify) - 640,371 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 640,607 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 14 | [La Letra B](https://open.spotify.com/track/60FFxQeDRHBVZoxCQWQBB7) | [Grupo 360](https://open.spotify.com/artist/2h9VgLswbVrXfdjW8UVqHC) | [La Letra B](https://open.spotify.com/album/0iJJgTr6vEK2ftcZd91L7N) | 2:38 |
 | 15 | [Mi Niña](https://open.spotify.com/track/0WuaQ1Y1z8FdHH3L7JPWdQ) | [Los Vendavales de Adan Melendez](https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4), [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Mi Niña](https://open.spotify.com/album/6Efm85RnnQnbBTUITC2yff) | 3:15 |
 | 16 | [La Historia](https://open.spotify.com/track/3O5GWjH2Ykims7yn3xDBvG) | [Los Buitres De Culiacan Sinaloa](https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB) | [La Historia](https://open.spotify.com/album/1V5JL8eknmy442RHC63lFf) | 2:56 |
-| 17 | [La Reynalda \(En Vivo\)](https://open.spotify.com/track/38x7geiy7b5G51CiVTS0OM) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn), [El Tiempo](https://open.spotify.com/artist/4mKF9sU49S24j9spalTw4y), [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [La Reynalda \(En Vivo\)](https://open.spotify.com/album/3Z0GCMsVUaIdWeWAH00Wwl) | 3:48 |
+| 17 | [La Reynalda \(En Vivo\)](https://open.spotify.com/track/38x7geiy7b5G51CiVTS0OM) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn), [El Tiempo](https://open.spotify.com/artist/4mKF9sU49S24j9spalTw4y) | [La Reynalda \(En Vivo\)](https://open.spotify.com/album/3Z0GCMsVUaIdWeWAH00Wwl) | 3:48 |
 | 18 | [Un Día Llegará La Muerte](https://open.spotify.com/track/12lXjp68kn92QS8Tjkajn5) | [Janely Rosa](https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF) | [Un Día Llegará La Muerte](https://open.spotify.com/album/4ZFRDoeqaVXCFuP65keIWG) | 3:09 |
 | 19 | [Cuando sola estés](https://open.spotify.com/track/6GcUiFAUpfMVXjNnHFvnua) | [Jorge Morales El Jilguero](https://open.spotify.com/artist/6WDM3vQTsUQ4pMBUhAlHQv), [Grupo Delta Norteño](https://open.spotify.com/artist/3sHpO1q6h5hNmEhhXtR7ZG) | [Cuando sola estés](https://open.spotify.com/album/6ble89K6OfwiwA2Zi7ihTw) | 3:17 |
 | 20 | [La Quetilla](https://open.spotify.com/track/7tK5hyVmPUKR6khHOjZ6B3) | [La Edición de Culiacán](https://open.spotify.com/artist/14DIWXxTBoAzGJNsAFvNWU), [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V), [Erik Estrada](https://open.spotify.com/artist/5I6axWdAJlY0sDCzu8IM4A) | [La Quetilla](https://open.spotify.com/album/620gxZrARUZf5nCoUTJHDr) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 49 | [Alucin](https://open.spotify.com/track/6ED7qim1NAX1HjNU8039WS) | [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C) | [Alucin](https://open.spotify.com/album/6tPNZ9sIL1aQUooAlItmCB) | 3:17 |
 | 50 | [Y Ahora Resulta](https://open.spotify.com/track/42JZ64v29QIWl1U2P6XO62) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Y Ahora Resulta](https://open.spotify.com/album/66WV0hFPUtxWtTwSAzr4ig) | 3:33 |
 
-Snapshot ID: `MCw3NjIwMGM2Y2I3ZWJmZWY2OTM1NTgyZDVjNjg5NjM2NDI1MDU2NDI5`
+Snapshot ID: `MCw5OGY2ZWNiMDNjMGJkNGI2M2I0ZDUxOTZjYWNiODM4MDE4MjI1ZmMw`

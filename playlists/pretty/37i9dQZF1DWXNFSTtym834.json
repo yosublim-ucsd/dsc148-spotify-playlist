@@ -1,12 +1,12 @@
 {
   "description": "The biggest metal songs of the 2000s. Cover: Slipknot",
-  "num_followers": 1237851,
+  "num_followers": 1238398,
   "original_name": "00s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzQ1YjlhOGI5ZTc5NTQwYTJmOTdlM2EyM2JlODZmNjQ0ODI2Yzgw",
+  "snapshot_id": "MCxmZjNmMTk3MGUyNDY4MjBlZDI2NzNhMDFmYThhYjdmNmNiMDliMTUx",
   "tracks": [
     {
       "added_at": "2023-02-08 17:32:03",
@@ -475,18 +475,18 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "15",
-        "url": "https://open.spotify.com/album/2KhDo0Er6dNxcK8zL6252l"
+        "name": "Life Is Killing Me",
+        "url": "https://open.spotify.com/album/4AdGr92Z6Ff2WbKP5Ja2QC"
       },
       "artists": [
         {
-          "name": "Buckcherry",
-          "url": "https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7"
+          "name": "Type O Negative",
+          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
         }
       ],
-      "duration_ms": 204960,
-      "name": "Crazy Bitch",
-      "url": "https://open.spotify.com/track/3Lc65aYhtNRO19Fnq2oMb8"
+      "duration_ms": 308826,
+      "name": "I Don't Wanna Be Me",
+      "url": "https://open.spotify.com/track/4eGHEHqoDMMejzPhRFTc7p"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -523,18 +523,18 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Life Is Killing Me",
-        "url": "https://open.spotify.com/album/4AdGr92Z6Ff2WbKP5Ja2QC"
+        "name": "15",
+        "url": "https://open.spotify.com/album/2KhDo0Er6dNxcK8zL6252l"
       },
       "artists": [
         {
-          "name": "Type O Negative",
-          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
+          "name": "Buckcherry",
+          "url": "https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7"
         }
       ],
-      "duration_ms": 308826,
-      "name": "I Don't Wanna Be Me",
-      "url": "https://open.spotify.com/track/4eGHEHqoDMMejzPhRFTc7p"
+      "duration_ms": 204960,
+      "name": "Crazy Bitch",
+      "url": "https://open.spotify.com/track/3Lc65aYhtNRO19Fnq2oMb8"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "10,000 Days",
-        "url": "https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk"
-      },
-      "artists": [
-        {
-          "name": "TOOL",
-          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
-        }
-      ],
-      "duration_ms": 426680,
-      "name": "Vicarious",
-      "url": "https://open.spotify.com/track/65ShmiE5aLBdcIGr7tHX35"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "Worlds Collide",
         "url": "https://open.spotify.com/album/1rmhml18o2KDLUpYMXq6VQ"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 237346,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/1WxF4gMsFXnKCyh48CW2RI"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "10,000 Days",
+        "url": "https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "duration_ms": 426680,
+      "name": "Vicarious",
+      "url": "https://open.spotify.com/track/65ShmiE5aLBdcIGr7tHX35"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Reise, Reise",
-        "url": "https://open.spotify.com/album/09qHS2BgOLqi3SMkbauxdJ"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "duration_ms": 226760,
-      "name": "Amerika",
-      "url": "https://open.spotify.com/track/33ayEZDfgARpadIdqo87JQ"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "ObZen",
         "url": "https://open.spotify.com/album/2x2VoPa1pG2jSElA73a9Xa"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 442733,
       "name": "Bleed",
       "url": "https://open.spotify.com/track/4E6wpXABj8XosZEPXZz2OK"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "Reise, Reise",
+        "url": "https://open.spotify.com/album/09qHS2BgOLqi3SMkbauxdJ"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "duration_ms": 226760,
+      "name": "Amerika",
+      "url": "https://open.spotify.com/track/33ayEZDfgARpadIdqo87JQ"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Liebe ist f\u00fcr alle da",
-        "url": "https://open.spotify.com/album/3pksjSyo1w4vAPOenAzM4Z"
+        "name": "Desensitized",
+        "url": "https://open.spotify.com/album/2rLw6qyXE3fx4abX8acmhy"
       },
       "artists": [
         {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+          "name": "Drowning Pool",
+          "url": "https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v"
         }
       ],
-      "duration_ms": 301853,
-      "name": "Ich tu dir weh",
-      "url": "https://open.spotify.com/track/47gjUao1XjSO4fvVRm9L55"
+      "duration_ms": 197293,
+      "name": "Step Up",
+      "url": "https://open.spotify.com/track/4Q1w4Ryyi8KNxxaFlOQClK"
     }
   ],
   "unique_name": "00s Metal Classics",

@@ -1,12 +1,12 @@
 {
   "description": "Mujeres a todo volumen. Foto: Marcela Morelo",
-  "num_followers": 39826,
+  "num_followers": 39822,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzY2VhNzRiMjdmZTgyYjU0Yzk3ZmEyYTc0ODNhMjg4OTRmMjc5YjA4",
+  "snapshot_id": "MCwyMGJmNzRhYjI5Mzc5MDI1ZTllYTVhN2Q1N2U3YjQzNWNmOWVlYTAy",
   "tracks": [
     {
       "added_at": "2023-11-08 16:58:55",
@@ -367,6 +367,22 @@
     {
       "added_at": "2023-11-08 16:58:55",
       "album": {
+        "name": "Cuando Estemos Solos",
+        "url": "https://open.spotify.com/album/2H5mxVSPzZ7gP9Gd26ArdS"
+      },
+      "artists": [
+        {
+          "name": "Silvina Moreno",
+          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
+        }
+      ],
+      "duration_ms": 193025,
+      "name": "Cuando Estemos Solos",
+      "url": "https://open.spotify.com/track/5O8nLq2WsBmn7NoBsTns6d"
+    },
+    {
+      "added_at": "2023-11-08 16:58:55",
+      "album": {
         "name": "Rara, Como Encendida",
         "url": "https://open.spotify.com/album/5FwIF2K1R3OLxFG3rSUAym"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 214093,
       "name": "Como Dos Extra\u00f1os",
       "url": "https://open.spotify.com/track/6Ii2pk8cWI7ofwsDdMMHmZ"
-    },
-    {
-      "added_at": "2023-11-08 16:58:55",
-      "album": {
-        "name": "Cuando Estemos Solos",
-        "url": "https://open.spotify.com/album/2H5mxVSPzZ7gP9Gd26ArdS"
-      },
-      "artists": [
-        {
-          "name": "Silvina Moreno",
-          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
-        }
-      ],
-      "duration_ms": 193025,
-      "name": "Cuando Estemos Solos",
-      "url": "https://open.spotify.com/track/5O8nLq2WsBmn7NoBsTns6d"
     },
     {
       "added_at": "2023-11-08 16:58:55",

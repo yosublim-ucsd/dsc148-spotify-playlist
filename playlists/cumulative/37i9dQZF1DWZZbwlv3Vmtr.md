@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-838 songs - 1 day 8 hr 34 min
+839 songs - 1 day 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,7 +222,7 @@
 | [Flow State](https://open.spotify.com/track/71XyPCA7lYpu2IH6OVGlvr) | [Poof Tricks](https://open.spotify.com/artist/7bsFDdgLDm7RwRNPQhbq5q) | [Flow State](https://open.spotify.com/album/1yvMQPDOZUWcojv5pk8133) | 2:38 | 2023-11-17 |  |
 | [Flower Kingdom](https://open.spotify.com/track/1s8hwjA2u5dOpU0SEoxDxz) | [Mossdeep](https://open.spotify.com/artist/1IqNg7gE9Y22t5BOuBew1A) | [Flower Kingdom](https://open.spotify.com/album/0ZyDmjkemTFFIGrlenJiiV) | 2:08 | 2023-10-13 |  |
 | [Fluffity](https://open.spotify.com/track/22iHU9AESPMxf6aaI2OKd3) | [Choftus Leek](https://open.spotify.com/artist/5oc0NyRrTn4F7cVJg1rTdl), [Geórgia Neve](https://open.spotify.com/artist/7oR5FuTIzTDDGzh8c4bEsT) | [Fluffity](https://open.spotify.com/album/7syd7u5StZKwBgcaFw7JUB) | 2:39 | 2023-10-27 |  |
-| [Fly with me to the moon](https://open.spotify.com/track/6ax46rQsYBiZoZS4QDrvvM) | [Wezley Wiz](https://open.spotify.com/artist/6oGyihO2387JNURS8U5Olg) | [Fly with me to the moon](https://open.spotify.com/album/3om1Wcwqb7qMFegOjcRPog) | 2:09 | 2022-08-19 |  |
+| [Fly with me to the moon](https://open.spotify.com/track/6ax46rQsYBiZoZS4QDrvvM) | [Wezley Wiz](https://open.spotify.com/artist/6oGyihO2387JNURS8U5Olg) | [Fly with me to the moon](https://open.spotify.com/album/3om1Wcwqb7qMFegOjcRPog) | 2:09 | 2022-08-19 | 2023-11-29 |
 | [Foemeo](https://open.spotify.com/track/6yRz4gpq370pGg5hKTp91X) | [Earium](https://open.spotify.com/artist/2zoujD3saJt6zYDh6Wu1Uq) | [Foemeo](https://open.spotify.com/album/0H5rVwDQTq53oKuwSAMvoc) | 2:15 | 2022-04-15 |  |
 | [Forever](https://open.spotify.com/track/21zRahHVewQL1Auzm64pd2) | [Rytmdesign](https://open.spotify.com/artist/3PhgDl4rf3FDsQL7Bu4wyI) | [Forever](https://open.spotify.com/album/55Q1Osijq5pFwpFHio0s8S) | 1:58 | 2022-07-01 | 2022-11-20 |
 | [Forever](https://open.spotify.com/track/7mgyF0MVvFzvWhrGlR3YUn) | [Rytmdesign](https://open.spotify.com/artist/3PhgDl4rf3FDsQL7Bu4wyI) | [Forever](https://open.spotify.com/album/1LM5SvKdVqLsFa1T3di8x2) | 1:58 | 2022-11-11 | 2023-11-17 |
@@ -596,6 +596,7 @@
 | [Río Ocho](https://open.spotify.com/track/1cpPta2P0aGxUn6F6Up96n) | [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr), [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2) | [Río Ocho](https://open.spotify.com/album/3bdzsVb0iRXvXbjlH78Dd5) | 2:16 | 2022-04-15 | 2022-07-29 |
 | [Sad Emoji](https://open.spotify.com/track/1biA4kEJ8M2tPrWfwy9uID) | [Katashi Kaitō](https://open.spotify.com/artist/7BDqewjn6oL3ryvHv78Wkx) | [Sad Emoji](https://open.spotify.com/album/6wJVzVhr5oSNfqzkTDCRez) | 2:15 | 2022-04-15 | 2022-07-29 |
 | [Sade Ghi](https://open.spotify.com/track/5PVN3nc3S5D6ZwT85qm3fB) | [Ellie S](https://open.spotify.com/artist/7abvh5NuD8o9JobP35lsv7) | [Favorite Smile](https://open.spotify.com/album/1mj8BnVTLloQOwl8Rcq81K) | 1:58 | 2022-04-15 |  |
+| [Salty Spears](https://open.spotify.com/track/6ZmBhY7KvNRg7ohYNyIgCK) | [Pickle Bits](https://open.spotify.com/artist/2KOou75brQkBcUrNhPtC1s) | [Salty Spears](https://open.spotify.com/album/1yVbF1CJghhfNg5ROV8ceF) | 2:16 | 2023-11-24 |  |
 | [Samurai](https://open.spotify.com/track/2AXqiVRL9dhZ47IDPiGR6H) | [Mr OCB](https://open.spotify.com/artist/1RorScxoqHkBchQcufPdTl) | [Samurai](https://open.spotify.com/album/02SYmFC9xbKeUG1IBwPxSc) | 2:40 | 2022-04-15 | 2022-06-17 |
 | [Sand Dunes](https://open.spotify.com/track/0eRz1q2Wl8UpKDl45UiZZQ) | [The Precocious Birds](https://open.spotify.com/artist/5oLT0V8Xp31OtLkLvUH07U) | [Good Morning](https://open.spotify.com/album/0VnIOAwK9IyAsNc1HXqEHs) | 3:21 | 2022-04-15 | 2022-05-20 |
 | [sandcastles](https://open.spotify.com/track/2J0Rj3cOl6EfTGI5D0FA6p) | [Blueor](https://open.spotify.com/artist/6K6SjptdGOH6RrL9ggstwY), [ZARG](https://open.spotify.com/artist/40PThXuHI1P1mrSb6MPD3z), [CHG](https://open.spotify.com/artist/19wrYTgQ1HpOBX5cjB58tl) | [sandcastles](https://open.spotify.com/album/1LN7ORFTpSy9ZpnsflxqPN) | 1:45 | 2022-08-12 | 2023-10-20 |

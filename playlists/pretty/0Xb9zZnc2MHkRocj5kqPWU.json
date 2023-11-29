@@ -1,13 +1,33 @@
 {
   "description": "Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this instrumental playlist for reflection and calm.",
-  "num_followers": 65033,
+  "num_followers": 65029,
   "original_name": "Wellness",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "MTc1MiwzNDFhMGQ0ZTA1NWZlZDMzYzM2ZjJhNTk5N2MzM2VhZDEyNzNjZTBh",
+  "snapshot_id": "MTc1NCxjNDM0ZTliMTM5YmIwZjU2ODg4YzJlYmE1Y2FlM2JkMmM5ZTQxZmQz",
   "tracks": [
+    {
+      "added_at": "2023-11-28 17:01:11",
+      "album": {
+        "name": "A Winter Interlude (After Schubert)",
+        "url": "https://open.spotify.com/album/3ulwdi8ksAyXlPpljgE8Be"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Lavinia Meijer",
+          "url": "https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp"
+        }
+      ],
+      "duration_ms": 195391,
+      "name": "A Winter Interlude (After Schubert)",
+      "url": "https://open.spotify.com/track/17E50bwXrsVsQnboX8bjBE"
+    },
     {
       "added_at": "2023-11-13 18:21:17",
       "album": {
@@ -23,6 +43,26 @@
       "duration_ms": 292042,
       "name": "Umbra",
       "url": "https://open.spotify.com/track/1p7s4bEbjLRRUSfu9qjkty"
+    },
+    {
+      "added_at": "2023-11-28 16:19:42",
+      "album": {
+        "name": "The Hunger Games: The Ballad of Songbirds and Snakes (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/6L0YVSVuw4BD3UX3fhl8et"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        },
+        {
+          "name": "Yuja Wang",
+          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
+        }
+      ],
+      "duration_ms": 125946,
+      "name": "Three Solos for Yuja: I. Friendship",
+      "url": "https://open.spotify.com/track/7xk2gA09jJdQntYM4oT2kU"
     },
     {
       "added_at": "2023-11-13 18:21:36",

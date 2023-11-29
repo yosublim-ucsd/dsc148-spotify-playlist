@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 
 > You feel the sun on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,907 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,966 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 11 | [People Make the World Go Round](https://open.spotify.com/track/1XMBtQ6S7DJoj1FDLpFBgq) | [Hortense Ellis](https://open.spotify.com/artist/3rZYrTkyrwz1CiW09bfLE2) | [Alton & Hortense Ellis](https://open.spotify.com/album/2Q8BPKtSNcI3YHc0gHtW0q) | 3:18 |
 | 12 | [Gumma](https://open.spotify.com/track/48lJI0zX6WopGcgmwv22kv) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Fat Back Ska, Vol\. 2](https://open.spotify.com/album/5QGdLISCEC2ttoanO2VKFw) | 1:51 |
 | 13 | [Declaration of Rights](https://open.spotify.com/track/3nZY7IAd5VJ9O2E5vHynx6) | [The Abyssinians](https://open.spotify.com/artist/1vB5909auE9YUaTjQ7ZkTj) | [The Best of Studio One, Vol\. 1](https://open.spotify.com/album/4I8Brkbsd0auuU1R3dsws7) | 3:19 |
-| 14 | [Poco Tempo \(aka Pocco Tempo\)](https://open.spotify.com/track/0yDFdIxaF1fRGrPMYyMRyP) | [Pablove Black and The New Establishment](https://open.spotify.com/artist/1AWHkjdfs8WUkn61MicKNq) | [Natural High: The Bongo Man Collection](https://open.spotify.com/album/0LgCSVBOq8Ztb2iganefyS) | 4:10 |
-| 15 | [Where's Garvey](https://open.spotify.com/track/3wUehGunfvxPKXqTD3jS00) | [The Bongo Man](https://open.spotify.com/artist/2pBVJLkrOeSpjMzCSBQNMI) | [Reggae For House Parties](https://open.spotify.com/album/1ibmkILOdPOQSNrFIIn53c) | 2:14 |
-| 16 | [Call to Me \(aka Come to Me\)](https://open.spotify.com/track/5yMXY2QCnkeggMgLSOaqR0) | [Rita Marley](https://open.spotify.com/artist/13Kn0OI9oXhBDXClb1hGy3) | [Dancing the Ska](https://open.spotify.com/album/6uoQ5sCHsjfbWIHYkojaPm) | 2:01 |
+| 14 | [Freedom Sounds](https://open.spotify.com/track/7DEq4R8yj8rsuRMI6e1OHw) | [The Soul Brothers](https://open.spotify.com/artist/3isQPVgtrl9CewKkyRPjBq) | [Fat Back Ska, Vol\. 2](https://open.spotify.com/album/5QGdLISCEC2ttoanO2VKFw) | 4:10 |
+| 15 | [Poco Tempo \(aka Pocco Tempo\)](https://open.spotify.com/track/0yDFdIxaF1fRGrPMYyMRyP) | [Pablove Black and The New Establishment](https://open.spotify.com/artist/1AWHkjdfs8WUkn61MicKNq) | [Natural High: The Bongo Man Collection](https://open.spotify.com/album/0LgCSVBOq8Ztb2iganefyS) | 4:10 |
+| 16 | [Where's Garvey](https://open.spotify.com/track/3wUehGunfvxPKXqTD3jS00) | [The Bongo Man](https://open.spotify.com/artist/2pBVJLkrOeSpjMzCSBQNMI) | [Reggae For House Parties](https://open.spotify.com/album/1ibmkILOdPOQSNrFIIn53c) | 2:14 |
 | 17 | [Waiting In Vain](https://open.spotify.com/track/58Zt987fK6gWxtO0MwEzPn) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 4:16 |
-| 18 | [Freedom Sounds](https://open.spotify.com/track/7DEq4R8yj8rsuRMI6e1OHw) | [The Soul Brothers](https://open.spotify.com/artist/3isQPVgtrl9CewKkyRPjBq) | [Fat Back Ska, Vol\. 2](https://open.spotify.com/album/5QGdLISCEC2ttoanO2VKFw) | 4:10 |
+| 18 | [Call to Me \(aka Come to Me\)](https://open.spotify.com/track/5yMXY2QCnkeggMgLSOaqR0) | [Rita Marley](https://open.spotify.com/artist/13Kn0OI9oXhBDXClb1hGy3) | [Dancing the Ska](https://open.spotify.com/album/6uoQ5sCHsjfbWIHYkojaPm) | 2:01 |
 | 19 | [Joe Frazier](https://open.spotify.com/track/7E8tawQq5q8Hr4UWCT7lgT) | [Dennis Alcapone](https://open.spotify.com/artist/3Ko5w2NYcaqtAtvDrJMdw5) | [Studio One Ironsides](https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG) | 3:18 |
 | 20 | [Bongo Red](https://open.spotify.com/track/2eo43OF7EEgIELPnTcrJUH) | [The Gladiators](https://open.spotify.com/artist/3L5iYAziSDnuaHsSgbkcIP) | [Studio One Ironsides](https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG) | 2:48 |
 | 21 | [Bad Treatment](https://open.spotify.com/track/215IEBl0xMCM6lhSPFY0uV) | [Cannon & The Soul Vendors](https://open.spotify.com/artist/6WbLpFGT1pphhgLCfB3pf4) | [Soul Jazz Records Presents Studio One Rocksteady 2: The Soul of Young Jamaica: Rocksteady, Soul and Early Reggae at Studio One](https://open.spotify.com/album/5d74Pe7mcGtyVoXmwVfowG) | 3:02 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 59 | [How Could I Live](https://open.spotify.com/track/4dY12uO1KLfh79TUyZVSEN) | [The Sharks](https://open.spotify.com/artist/5YUnGJyBSdPLoJExvs7qHF) | [Studio One Lovers](https://open.spotify.com/album/0RAY8NtmtYwIEh6G5avSyi) | 3:11 |
 | 60 | [Another Day](https://open.spotify.com/track/2yvfBytG7N9Z1NuVgKf0qt) | [Roy Richards](https://open.spotify.com/artist/0X4uxfskqekFkXgS7MTQAU) | [Studio One Funk](https://open.spotify.com/album/5Ywu5U2ufJsj751yuKw3V4) | 1:57 |
 
-Snapshot ID: `MCw5ZTQ1MzQwMWNlZDBiZjQ0ODBjMWU0ZWM1ODEyMzhlNzJiNGYwYTQ0`
+Snapshot ID: `MCwyYWU5ZWNjYjViZTAyMDEwNjU3MTdkYTYzNWRiMWE1MWI0MTMxYmM3`

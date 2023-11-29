@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Rolas pa' sacar las chelas y el tequila!",
-  "num_followers": 278965,
+  "num_followers": 279171,
   "original_name": "Puras Pa' Pistear",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MGJlNGRkNjlkN2U2YjE1ZDgyYTI0MWExNDk0YzI4ODVmZjdiY2E4",
+  "snapshot_id": "MCw2MGVhNTVjYjViZTJmZWQ0ZDg1ZTM1NTNjMmM3NWJiNDBhYTUwN2Jm",
   "tracks": [
     {
       "added_at": "2023-11-24 07:40:48",
@@ -607,22 +607,18 @@
     {
       "added_at": "2023-11-24 07:40:48",
       "album": {
-        "name": "Calidad",
-        "url": "https://open.spotify.com/album/2ZaaYylAxHJ6sPJe9mHwHb"
+        "name": "Ya Sup\u00e9rame (En Vivo)",
+        "url": "https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml"
       },
       "artists": [
         {
           "name": "Grupo Firme",
           "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Luis Mexia",
-          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
         }
       ],
-      "duration_ms": 170053,
-      "name": "Calidad",
-      "url": "https://open.spotify.com/track/0uBcoM4zxRXk7kmsmxoiFS"
+      "duration_ms": 189050,
+      "name": "Ya Sup\u00e9rame (En Vivo)",
+      "url": "https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf"
     },
     {
       "added_at": "2023-11-24 07:40:48",
@@ -735,18 +731,22 @@
     {
       "added_at": "2023-11-24 07:40:48",
       "album": {
-        "name": "Ya Sup\u00e9rame (En Vivo)",
-        "url": "https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml"
+        "name": "Calidad",
+        "url": "https://open.spotify.com/album/2ZaaYylAxHJ6sPJe9mHwHb"
       },
       "artists": [
         {
           "name": "Grupo Firme",
           "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
         }
       ],
-      "duration_ms": 189050,
-      "name": "Ya Sup\u00e9rame (En Vivo)",
-      "url": "https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf"
+      "duration_ms": 170053,
+      "name": "Calidad",
+      "url": "https://open.spotify.com/track/0uBcoM4zxRXk7kmsmxoiFS"
     },
     {
       "added_at": "2023-11-24 07:40:48",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2023-11-24 07:40:48",
       "album": {
-        "name": "A Trav\u00e9s Del Vaso",
-        "url": "https://open.spotify.com/album/27hMg5MlBaww37hBPzS0ot"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
-        }
-      ],
-      "duration_ms": 180120,
-      "name": "A Trav\u00e9s Del Vaso",
-      "url": "https://open.spotify.com/track/1uqjLVaSyTkdDvfGAmXrHo"
-    },
-    {
-      "added_at": "2023-11-24 07:40:48",
-      "album": {
         "name": "Entre Dios y El Diablo (Deluxe Version)",
         "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 181986,
       "name": "Amor Confuso",
       "url": "https://open.spotify.com/track/4DylHCW46VE8AmQiW1EjUZ"
+    },
+    {
+      "added_at": "2023-11-24 07:40:48",
+      "album": {
+        "name": "A Trav\u00e9s Del Vaso",
+        "url": "https://open.spotify.com/album/27hMg5MlBaww37hBPzS0ot"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "duration_ms": 180120,
+      "name": "A Trav\u00e9s Del Vaso",
+      "url": "https://open.spotify.com/track/1uqjLVaSyTkdDvfGAmXrHo"
     },
     {
       "added_at": "2023-11-24 07:40:48",
@@ -2423,22 +2423,6 @@
     {
       "added_at": "2023-11-24 07:40:48",
       "album": {
-        "name": "6 Tragos",
-        "url": "https://open.spotify.com/album/7C4RdZNSEk3fnfjh5vD1jt"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "El Doble R",
-      "url": "https://open.spotify.com/track/5r1heGQVU9GLgwS4iiRInO"
-    },
-    {
-      "added_at": "2023-11-24 07:40:48",
-      "album": {
         "name": "M\u00e1s Caro, que ayer",
         "url": "https://open.spotify.com/album/1lvumJJFlnydYEOXwdNrnk"
       },
@@ -2451,6 +2435,22 @@
       "duration_ms": 147221,
       "name": "M\u00e1s Caro, que ayer",
       "url": "https://open.spotify.com/track/62hyMZrYL0AjHgndb9ebZO"
+    },
+    {
+      "added_at": "2023-11-24 07:40:48",
+      "album": {
+        "name": "6 Tragos",
+        "url": "https://open.spotify.com/album/7C4RdZNSEk3fnfjh5vD1jt"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "El Doble R",
+      "url": "https://open.spotify.com/track/5r1heGQVU9GLgwS4iiRInO"
     },
     {
       "added_at": "2023-11-24 07:40:48",
@@ -2583,22 +2583,6 @@
     {
       "added_at": "2023-11-24 07:40:48",
       "album": {
-        "name": "Dinero F\u00e1cil",
-        "url": "https://open.spotify.com/album/42WWFPXfmtFFMLmdEeYEFZ"
-      },
-      "artists": [
-        {
-          "name": "Jovanny Cadena Y Su Estilo Privado",
-          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
-        }
-      ],
-      "duration_ms": 217283,
-      "name": "As\u00ed Quer\u00eda Mirarte",
-      "url": "https://open.spotify.com/track/2NzprDAMQJGOxRpgmPk70G"
-    },
-    {
-      "added_at": "2023-11-24 07:40:48",
-      "album": {
         "name": "Modo Crudo (Versi\u00f3n Banda)",
         "url": "https://open.spotify.com/album/2miY1Si17V3AvA1YXe8O5k"
       },
@@ -2611,6 +2595,22 @@
       "duration_ms": 128513,
       "name": "Modo Crudo - Versi\u00f3n Banda",
       "url": "https://open.spotify.com/track/21VxcprEejJWPVNHxA23Hs"
+    },
+    {
+      "added_at": "2023-11-24 07:40:48",
+      "album": {
+        "name": "Dinero F\u00e1cil",
+        "url": "https://open.spotify.com/album/42WWFPXfmtFFMLmdEeYEFZ"
+      },
+      "artists": [
+        {
+          "name": "Jovanny Cadena Y Su Estilo Privado",
+          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
+        }
+      ],
+      "duration_ms": 217283,
+      "name": "As\u00ed Quer\u00eda Mirarte",
+      "url": "https://open.spotify.com/track/2NzprDAMQJGOxRpgmPk70G"
     },
     {
       "added_at": "2023-11-24 07:40:48",

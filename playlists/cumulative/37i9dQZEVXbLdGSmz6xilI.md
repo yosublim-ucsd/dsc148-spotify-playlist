@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Vietnam.
 
-906 songs - 2 day 4 hr 39 min
+907 songs - 2 day 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Bao Nhiêu](https://open.spotify.com/track/5xfeQsy7aUdM1pHvTRZMDI) | [Chillies](https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4) | [Qua Khung Cửa Sổ](https://open.spotify.com/album/7FbJRg2IYkVJioqMayEukG) | 3:49 | 2021-05-09 | 2021-05-16 |
 | [bao tiền một mớ bình yên?](https://open.spotify.com/track/3wn8HJNjkY4wzTBy35ZvQ6) | [14 Casper](https://open.spotify.com/artist/0zo8kCJVktn7oPnzpkbC2p), [Bon Nghiêm](https://open.spotify.com/artist/6hnfLIkvDl6pjlAe1YRGXY) | [bao tiền một mớ bình yên?](https://open.spotify.com/album/5O0csa2fMgpO8DwEhwThRV) | 5:00 | 2022-06-05 | 2023-03-06 |
 | [bao tiền một mớ bình yên?](https://open.spotify.com/track/7kgzRBNkBRArtTPkYjWLYT) | [14 Casper](https://open.spotify.com/artist/0zo8kCJVktn7oPnzpkbC2p), [Bon Nghiêm](https://open.spotify.com/artist/6hnfLIkvDl6pjlAe1YRGXY) | [SỐ KHÔNG](https://open.spotify.com/album/2W8HAPjn7tl7pHXGZ8WZIe) | 5:00 | 2023-03-05 | 2023-10-01 |
+| [BATTER UP](https://open.spotify.com/track/3VBj0lzjmhTzVFPEDOjNCG) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BABYMONSTER Debut Digital Single \[BATTER UP\]](https://open.spotify.com/album/2CSQuvvt3XHLDX36O3nRv7) | 3:08 | 2023-11-28 |  |
 | [Beautiful Mistakes \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/6fRxMU4LWwyaSSowV441IU) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Beautiful Mistakes \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/4jGaPN2gEpKciN02ZKRShT) | 3:47 | 2021-03-27\* | 2021-04-26 |
 | [Beautiful Monster](https://open.spotify.com/track/2vRkwfiy4Se8ddUSkdMTmQ) | [SOOBIN](https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh), [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj) | [KOSMIK](https://open.spotify.com/album/22YHa0g0LTJ9kjQ03me248) | 3:55 | 2022-11-05 | 2022-11-21 |
 | [Begin](https://open.spotify.com/track/0bGJHUPR6ems9tzIljlPFR) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Wings](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) | 3:49 | 2022-09-01 | 2022-09-03 |
@@ -882,7 +883,7 @@
 | [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 | 2022-05-08 | 2022-05-16 |
 | [À Lôi](https://open.spotify.com/track/3kxFvcB92qQg9wl52CQ7aV) | [Double2T](https://open.spotify.com/artist/1NM99SQTX93oCkzvNXWJCf), [Masew](https://open.spotify.com/artist/3nGqUwkJHiLPDECMVrX1Sq) | [À Lôi](https://open.spotify.com/album/5DUBKdrQ7CsTblmHQXh4ae) | 3:17 | 2023-07-19 | 2023-09-23 |
 | [ái](https://open.spotify.com/track/3Gr6ucPp3qJbBZ3yrGmZTt) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [ái](https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6) | 1:07 | 2023-08-18 | 2023-08-20 |
-| [Ánh Sao Và Bầu Trời](https://open.spotify.com/track/5iZHnufFUgATzrpGgH1K0W) | [T.R.I](https://open.spotify.com/artist/2rVYwIYNEsMxtt8j5yemHb) | [Ánh Sao Và Bầu Trời](https://open.spotify.com/album/1JLUfM3IFpFyBSyhNQWkYw) | 4:20 | 2022-05-09 |  |
+| [Ánh Sao Và Bầu Trời](https://open.spotify.com/track/5iZHnufFUgATzrpGgH1K0W) | [T.R.I](https://open.spotify.com/artist/2rVYwIYNEsMxtt8j5yemHb) | [Ánh Sao Và Bầu Trời](https://open.spotify.com/album/1JLUfM3IFpFyBSyhNQWkYw) | 4:20 | 2022-05-09 | 2023-11-29 |
 | [Âm Thầm Bên Em](https://open.spotify.com/track/1Huy9G87D6pbIveFulsH0P) | [Sơn Tùng M\-TP](https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf) | [m\-tp M\-TP](https://open.spotify.com/album/5hxm3ulOLVvjFdZNFO3n4M) | 4:53 | 2021-09-02 | 2023-07-09 |
 | [Ði Trong Mùa Hè](https://open.spotify.com/track/5ZblwtW67ZlZp8gXCcrGzn) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [Trần Tiến](https://open.spotify.com/artist/5Def8ubFOWsEcchedgMnnG) | [Ði Trong Mùa Hè](https://open.spotify.com/album/7hj23eziHPiLaooEpxDhfm) | 4:31 | 2022-05-11 | 2022-05-13 |
 | [Đau Nhất Là Lặng Im](https://open.spotify.com/track/5H7UgZQk2p5x4nmeuDjmE4) | [ERIK](https://open.spotify.com/artist/1L1VfizWn4DkFt602yD80U) | [Đau Nhất Là Lặng Im](https://open.spotify.com/album/7eKrlj1Iv6T1jBSRppsFFD) | 4:46 | 2022-02-19 | 2022-05-30 |

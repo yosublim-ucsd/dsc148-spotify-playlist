@@ -4,12 +4,13 @@
 
 > Lagu\-lagu positif untuk mengawali harimu.
 
-119 songs - 7 hr 29 min
+120 songs - 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [20something](https://open.spotify.com/track/6YhMlj1ZyjYOC3bD7OZP1Q) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [20something](https://open.spotify.com/album/3oNpunZbbJ85TMqLrxlrck) | 2:41 | 2023-02-23 | 2023-08-09 |
 | [Adu Rayu](https://open.spotify.com/track/0mOLyv1GL4sIuzVR1I92Fb) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi), [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [Adu Rayu](https://open.spotify.com/album/7MQvEjN92cqRdNUCMOKCPA) | 3:27 | 2022-12-13 |  |
+| [Aduh](https://open.spotify.com/track/4hqNaY8uNHrPzW4l3ulDSo) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Aduh](https://open.spotify.com/album/2vz25rEFGA1ziNgy70BJus) | 3:16 | 2023-11-28 |  |
 | [Aku Rindu \(feat\. Oslo Ibrahim\)](https://open.spotify.com/track/3CatYmaiD3I6II8w57RQEg) | [B.O.H FM](https://open.spotify.com/artist/0MabmxJ5QFG0o5R2ZSMl6x), [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [Aku Rindu \(feat\. Oslo Ibrahim\)](https://open.spotify.com/album/0po3vBU4rl0fTEwWr9qYOy) | 3:32 | 2023-09-20 | 2023-11-16 |
 | [Aku Sayang Kamu](https://open.spotify.com/track/1lu1JZPI7s2cWIeIFYgjL3) | [Iwan Fals](https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX) | [Aku Sayang Kamu](https://open.spotify.com/album/0eq61IIDrq945HH7oThPQW) | 4:15 | 2023-10-19 |  |
 | [All Good](https://open.spotify.com/track/3s8ik4CUIZXXGDBgD0EAZ5) | [Dipha Barus](https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr), [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [All Good](https://open.spotify.com/album/5b5nv0yq43oHzu1HcuY3ZI) | 3:13 | 2022-12-13 |  |

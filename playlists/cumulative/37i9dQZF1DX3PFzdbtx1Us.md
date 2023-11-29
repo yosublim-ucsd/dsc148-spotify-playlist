@@ -4,7 +4,7 @@
 
 > Ambient piano to help you stay focussed.
 
-291 songs - 11 hr 24 min
+295 songs - 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Footprints](https://open.spotify.com/track/3dxvqhGVXEkzBkLUapY1eW) | [Maree Docia](https://open.spotify.com/artist/2UjQMEOzrwt2v4L3dNrcqe) | [We Were Legends](https://open.spotify.com/album/07uVGssx4qgJDsJAgepdsO) | 2:19 | 2022-07-05 | 2023-05-16 |
 | [Free Falling](https://open.spotify.com/track/6ruIYimg1WHbK2ciDt1hWv) | [Madelene Olsson](https://open.spotify.com/artist/32zdWfzzE8XBuoOPEzJcS3) | [Free Falling](https://open.spotify.com/album/1xX4HiqbN3j0R4F71pbLHe) | 3:19 | 2023-05-15 |  |
 | [Fårö](https://open.spotify.com/track/1eAIx6ZkhGBb20lkDABhy9) | [ODELIO](https://open.spotify.com/artist/69WozQ1x904JxonDiYM4ax) | [Fårö](https://open.spotify.com/album/1nsTkxa7rQtTCJQlwV4mfc) | 1:52 | 2023-05-15 | 2023-08-16 |
+| [Glimmer](https://open.spotify.com/track/2ya2p81qaEuynQAlohFm58) | [Charles Weathersby](https://open.spotify.com/artist/3PTjnqoKl6QVBWt7bSrhMz) | [Glimmer](https://open.spotify.com/album/1c7NcP2Owl3VHRieSjKBkf) | 2:40 | 2023-11-28 |  |
 | [Hammock](https://open.spotify.com/track/7LTVGmS15JBwO11pTS4ykt) | [Vaughn Harrison](https://open.spotify.com/artist/6q83QeDrspxDVTOmYMAxS8) | [Hammock](https://open.spotify.com/album/02duehzy4k0kc3iDwoLVkr) | 2:06 | 2023-05-15 |  |
 | [Her Joy Was Complete](https://open.spotify.com/track/7tUQIhueKYGnKThIseP69M) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Many Beautiful Things \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/02gOHdj3c67CUwXb4s9jzy) | 3:02 | 2021-06-27 | 2023-05-16 |
 | [Heugstatt](https://open.spotify.com/track/4xPcKCcKH9ioUiOxLloJOa) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Old Friend](https://open.spotify.com/album/0gVxVIhQ0IcZ6ommP2ypx9) | 3:05 | 2023-05-15 |  |
@@ -140,6 +141,7 @@
 | [July Nights](https://open.spotify.com/track/0z5lgOqdWID9iAH5fxITk5) | [Eagle Lake](https://open.spotify.com/artist/4vOO570FcsEOodJuMh98EP) | [Nights](https://open.spotify.com/album/6aFOBMvSiEbkGTPCUAYwmw) | 1:35 | 2021-06-27 | 2023-05-16 |
 | [Kalopsia](https://open.spotify.com/track/3XebcloY8ola1VTGRm6aLP) | [Taganema](https://open.spotify.com/artist/6b9S5hXIpAB6V7vyiKdr3d) | [Kalopsia](https://open.spotify.com/album/3kJJgfrEqoVMQkR9cHRsm8) | 2:58 | 2023-05-15 |  |
 | [kawaguchiko](https://open.spotify.com/track/3lGHx6NLMzkhwcCmO7gwBY) | [Valla](https://open.spotify.com/artist/1nrQ489GYy77LqrmBOmtfh) | [Wünderdoll](https://open.spotify.com/album/3VC8wOGv0ifbJyP5mEirn9) | 2:02 | 2023-05-15 |  |
+| [Keepsake](https://open.spotify.com/track/3OacSixqamhyHu3M2fRqxU) | [Pamela Goldings](https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA) | [Keepsake](https://open.spotify.com/album/6g1Mpl8jLuLTcR8mO2Qpon) | 2:32 | 2023-11-28 |  |
 | [Keszthely](https://open.spotify.com/track/0GxXg9FfNq1yqwqrrY6W1F) | [Pataki Gisella](https://open.spotify.com/artist/7ylwShecuuRLzZP81XRqzC) | [Keszthely](https://open.spotify.com/album/4pL64wCXuXYe318Z4mZolF) | 2:32 | 2023-05-15 |  |
 | [Kungsholmen](https://open.spotify.com/track/4C3azLvXWbIhtyxfgkAByq) | [Anders Linros](https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv) | [Staden](https://open.spotify.com/album/6UGN2Ak9xJKduYP9dnpns3) | 1:44 | 2023-05-15 | 2023-08-16 |
 | [Kyle \(Northern Line\)](https://open.spotify.com/track/2rHefyfbrhfXVaquedNvnR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life Piano EP \(April 14 \- December 17 2020\)](https://open.spotify.com/album/77cR5kSztr2fcYtr0vsyes) | 2:44 | 2021-06-27 | 2023-05-16 |
@@ -230,6 +232,7 @@
 | [Rébus](https://open.spotify.com/track/1RaP4GkSYdKzKyRJdXxBJ6) | [Christophe Pouget](https://open.spotify.com/artist/6NMPthFB3FbixffuRKpIGU) | [Rébus](https://open.spotify.com/album/4pJZ7dbo8FXYh3NwS7wOvl) | 2:29 | 2023-05-15 |  |
 | [Salt Skin](https://open.spotify.com/track/5MKtW4amtrjowQ4z7uWCjU) | [Galen Rise](https://open.spotify.com/artist/7sZcguS7cGilZg03SqOH3R) | [Salt Skin](https://open.spotify.com/album/5uDgyEcwgosiV7lf9n2f40) | 2:55 | 2023-05-15 |  |
 | [Sapphire Tears](https://open.spotify.com/track/2dlIVDvA7Otn950xPFBNYM) | [Joy Meyer\-Williams](https://open.spotify.com/artist/0uGHltM64FZJWH1uOr8YWU) | [Sapphire Tears](https://open.spotify.com/album/7xvdOP2uv8hjwjkNzojjDc) | 2:47 | 2023-11-08 |  |
+| [Saragossa](https://open.spotify.com/track/2DAgJPb2am07TT3LKcM7u1) | [Pablo Jean Baptiste](https://open.spotify.com/artist/5gtl7HjPLF8fDkzHiAyfnV) | [Saragossa](https://open.spotify.com/album/7ItSD4vuq9bpWGhEce3yFO) | 2:34 | 2023-11-28 |  |
 | [Saudade](https://open.spotify.com/track/5N56pgOicPJjfMsYV5ppyK) | [Vivian Roost](https://open.spotify.com/artist/7aCsFWCF4YljmoHrXRA63I) | [Saudade](https://open.spotify.com/album/3uOzcnthiPwrYCrCyb4Txy) | 3:34 | 2023-07-24 |  |
 | [Seasons Changing](https://open.spotify.com/track/7AmuUFfqrVzJSCcOLXDfgf) | [Charles Bolt](https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj) | [Seasons Changing](https://open.spotify.com/album/1LzFyb9q0hGiaSp6AlcaQu) | 2:19 | 2021-06-27 | 2023-05-16 |
 | [Secret Language \(Solo Piano Version\)](https://open.spotify.com/track/1PZaY3NrqUG03f3QworoZL) | [Sonny Santos](https://open.spotify.com/artist/61rw2tGmDJZcFrMO638UXS), [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0), [The Shivers](https://open.spotify.com/artist/1zok0QXebHywV3KLl6DIFw) | [Secret Language \(Solo Piano Version\)](https://open.spotify.com/album/1FDrPTALSqfWClwFePUBkJ) | 2:37 | 2023-05-15 |  |
@@ -247,6 +250,7 @@
 | [Smukke SmåTing](https://open.spotify.com/track/5QMDR6TSypBIy54FoA8dIR) | [Julle Sørensen](https://open.spotify.com/artist/0kugtyGHt54hfsLQmhlUay) | [Smukke Små Ting](https://open.spotify.com/album/5LRfR2qy1MHU0Zbl6tIjDv) | 2:00 | 2023-05-15 |  |
 | [Softly, Gently](https://open.spotify.com/track/0wmmFkwOtzaanH4T5vMMLz) | [Jon E\. Amber](https://open.spotify.com/artist/0UW01dCiAd1W6RkX7yWSbb) | [Softly, Gently](https://open.spotify.com/album/5el3jiphgAIadKL7FcB09G) | 2:00 | 2022-07-05 | 2023-05-16 |
 | [Softly, Gently](https://open.spotify.com/track/5JwtahJeHWFPETXjxBH74B) | [Jon E\. Amber](https://open.spotify.com/artist/0UW01dCiAd1W6RkX7yWSbb) | [Softly, Gently](https://open.spotify.com/album/1Q7Yfz4VUJoZrJPuo2ePIj) | 2:00 | 2021-06-27 | 2022-07-29 |
+| [somewhere else, together](https://open.spotify.com/track/4Pl37bufUvxJOhLJIfLCcl) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [somewhere else, together](https://open.spotify.com/album/1qLrUd6oXUZoNGZAVY8mDX) | 3:09 | 2023-11-28 |  |
 | [Somewhere In Between](https://open.spotify.com/track/1dWtAobHBqAxNS4W495gda) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [KEEN: Peace & Calm Vol\. 1](https://open.spotify.com/album/5ElKIzZRCQYV6AlyLHOmPj) | 2:31 | 2022-07-05 | 2022-11-13 |
 | [Somewhere In Between](https://open.spotify.com/track/5kHMqwwwlHCdt24t2e7pEq) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [Departure](https://open.spotify.com/album/45vmEN7UhIUPAYAXoPJzlW) | 2:31 | 2022-07-05 | 2023-05-16 |
 | [Somewhere In Between](https://open.spotify.com/track/7DGFxOJp8gfV3Y1JqOJ1A4) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [Departure](https://open.spotify.com/album/0s4ZLWPmhBUnHYOGWdhrLv) | 2:31 | 2021-06-27 | 2022-07-29 |

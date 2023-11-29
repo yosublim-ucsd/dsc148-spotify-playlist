@@ -4,7 +4,7 @@
 
 > Trending Sinhalese pop hits\. Cover \- DILU Beats
 
-339 songs - 20 hr 6 min
+340 songs - 20 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,7 +221,8 @@
 | [Omari](https://open.spotify.com/track/0iIFDg202oHMi5Lh9BdNvM) | [Satheeshan](https://open.spotify.com/artist/3N3y9RPCdGRECp1MWJr00c), [Kaizer Kaiz](https://open.spotify.com/artist/79GTGDgSIN8i5DAngINh7k) | [Omari](https://open.spotify.com/album/0ER2ytZDbMjyeM6IAnMGHg) | 3:04 | 2022-06-16 | 2022-12-01 |
 | [Ora Kannala](https://open.spotify.com/track/7y3sIYGyswgYdVZLYx6bKX) | [AK Sekaren](https://open.spotify.com/artist/2TuYELbaTUDcXeeLLgxU9s) | [Ora Kannala](https://open.spotify.com/album/5zuQbIhSyvJQUjgpRGuKfC) | 1:39 | 2023-08-07 |  |
 | [Oye Ojaye](https://open.spotify.com/track/4S5SuKbT4XnUy7A4z3FfDI) | [Arjun](https://open.spotify.com/artist/5tvfyAT4aOIOkumo6vw1yL), [Piyal Perera](https://open.spotify.com/artist/4sJhDEmVLptFJo1yMdUZfQ) | [Oye Ojaye](https://open.spotify.com/album/2p4Mg2AXaLJitxBxLkqxG8) | 3:29 | 2023-10-17 |  |
-| [Paalu Yaame](https://open.spotify.com/track/3wBCm0eVGdMpaxSIzg43yJ) | [Iman Fernando](https://open.spotify.com/artist/42ATja5N0WYsh9RNSParhI) | [Paalu Yaame](https://open.spotify.com/album/6AZvLGlTyTauElxYwANnj7) | 3:32 | 2023-09-12 |  |
+| [Paalu Yaame](https://open.spotify.com/track/3wBCm0eVGdMpaxSIzg43yJ) | [Iman Fernando](https://open.spotify.com/artist/42ATja5N0WYsh9RNSParhI) | [Paalu Yaame](https://open.spotify.com/album/6AZvLGlTyTauElxYwANnj7) | 3:32 | 2023-09-12 | 2023-11-29 |
+| [Paalu Yaame](https://open.spotify.com/track/42e6q2wCvs3awgT5bHPlZz) | [Iman Fernando](https://open.spotify.com/artist/42ATja5N0WYsh9RNSParhI) | [Paalu Yaame](https://open.spotify.com/album/2h6vdH4wFNKYdJWKw1f91N) | 3:32 | 2023-10-17 |  |
 | [Paata Gawe Man](https://open.spotify.com/track/4orf12TDpLYIh6AKSSNn1D) | [Duava](https://open.spotify.com/artist/0F88EwGyoS0Mi3VftQjyEj) | [Paata Gawe Man](https://open.spotify.com/album/539f3h6YfO0KKFCRgZ1puS) | 2:45 | 2022-06-16 | 2022-12-01 |
 | [Paddapan](https://open.spotify.com/track/6CJtK2aCUDoEiAgOMxwe0E) | [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj), [Pasan Liyanage](https://open.spotify.com/artist/44fhZpV5IJzoRFiUswUhbi), [SHAN PUTHA](https://open.spotify.com/artist/5xniI4GjmLsnYzG7WXkGEQ), [Lucky Lakmina](https://open.spotify.com/artist/7og53mhidfE1YT2UuF6fPo), [Krish Manoj](https://open.spotify.com/artist/4QBfnrSmAZ9qCU14uPnxDT) | [Paddapan](https://open.spotify.com/album/5UriVjM9Ui8QPLIibXp1WL) | 3:29 | 2022-09-12 | 2022-10-08 |
 | [Pahasara obe adare](https://open.spotify.com/track/3HpQHecSd9nenSCm7d5Ejj) | [Centigradz](https://open.spotify.com/artist/0gKH2HLKS4gR21CozdoPse) | [Jock Jam](https://open.spotify.com/album/1boj6wwgjLIpKlbwY6Rc6x) | 3:26 | 2023-05-26 |  |

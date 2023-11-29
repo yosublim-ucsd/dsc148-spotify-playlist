@@ -92,7 +92,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 250560,
       "name": "A Winter's Tale",
       "url": "https://open.spotify.com/track/77zmQj6FTC4zrxjgD6eASY"
@@ -1690,6 +1690,24 @@
       "duration_ms": 181469,
       "name": "Love Is A Compass - Disney supporting Make-A-Wish",
       "url": "https://open.spotify.com/track/6lx41mPrde3vkcb8qUQOOi"
+    },
+    {
+      "album": {
+        "name": "Make It Home",
+        "url": "https://open.spotify.com/album/3tUsy9oBx3XXxtNlv1p92g"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179309,
+      "name": "Make It Home",
+      "url": "https://open.spotify.com/track/3xLDkntD4YvBcVwX6EK7SU"
     },
     {
       "album": {

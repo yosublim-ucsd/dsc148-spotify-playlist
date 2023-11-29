@@ -156,7 +156,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 143903,
       "name": "Afwaeen",
       "url": "https://open.spotify.com/track/4Iy7HgDxa19p4MxVaA8W9L"
@@ -1489,6 +1489,24 @@
     },
     {
       "album": {
+        "name": "Mulaqat",
+        "url": "https://open.spotify.com/album/5mfKbhUetTj10ZikjC0l0v"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221133,
+      "name": "Hum Dono",
+      "url": "https://open.spotify.com/track/4IALofMkaEpltIkhpvo0sz"
+    },
+    {
+      "album": {
         "name": "Humnava (Reprise)",
         "url": "https://open.spotify.com/album/0OnIshfjH5WOWlzcZhcwXw"
       },
@@ -1690,6 +1708,24 @@
       "duration_ms": 152653,
       "name": "Jana Hai Wahaan",
       "url": "https://open.spotify.com/track/07411IoQ0y3ZFRV5GRUgUQ"
+    },
+    {
+      "album": {
+        "name": "Mulaqat",
+        "url": "https://open.spotify.com/album/5mfKbhUetTj10ZikjC0l0v"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155706,
+      "name": "Janeman",
+      "url": "https://open.spotify.com/track/1nUZkGuF1JPLdnoyj5yTrP"
     },
     {
       "album": {
@@ -4070,7 +4106,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 163383,
       "name": "Tum Aur Main",
       "url": "https://open.spotify.com/track/29O6kviQMumVmWZDO14QSB"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Oliver Heldens x WeiBird
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,908 likes - 94 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,970 likes - 94 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 93 | [Find Me](https://open.spotify.com/track/58xgEDPulJ1kAA1dPJDoOo) | [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic), [22Bullets](https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9) | [Find Me](https://open.spotify.com/album/6t2pFQJNo3LlL85SZqLkm5) | 2:56 |
 | 94 | [Close To Me](https://open.spotify.com/track/71W31wVTK04iw9nfgV2iDF) | [Kazden](https://open.spotify.com/artist/3YUHQ4bns40UJaTsXpzq2y), [Kohey](https://open.spotify.com/artist/5700ea7BYSV4Uv5qEPQDnx), [Red Motion](https://open.spotify.com/artist/44OTBvXARz9dsn8J6NGcqm) | [Close To Me](https://open.spotify.com/album/29eOhlvjxBsah0zdVKhZl0) | 3:10 |
 
-Snapshot ID: `MCxmZGMxMDNhNDYyMDU2ZWRlODkxYzUyZmViY2Q1Y2JjYjlkZTU1MmFk`
+Snapshot ID: `MCxkMGE5YWIwNTc2NGVhYWEyZGI0ZDJhN2UzOTFmNjU5MDI3NGVhMzk4`

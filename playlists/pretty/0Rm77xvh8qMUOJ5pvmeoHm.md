@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/0Rm77xvh8qMUOJ5pvmeoHm.md) - [plain](/playlists/plain/0Rm77xvh8qMUOJ5pvmeoHm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0Rm77xvh8qMUOJ5pvmeoHm)
 
-### [Party Bangers 2023](https://open.spotify.com/playlist/0Rm77xvh8qMUOJ5pvmeoHm)
+### [Party Bangers 2024!](https://open.spotify.com/playlist/0Rm77xvh8qMUOJ5pvmeoHm)
 
-> Get your 2023 started with these party tracks everyone knows and loves!
+> Celebrate with these party tracks everyone knows and loves!
 
-[Topsify](https://open.spotify.com/user/topsify) - 189,759 likes - 93 songs - 4 hr 56 min
+[Topsify](https://open.spotify.com/user/topsify) - 189,757 likes - 93 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/0Rm77xvh8qMUOJ5pvmeoHm.md) - [plain]
 | 92 | [Lionheart \(Fearless\)](https://open.spotify.com/track/5vlzH0ps6WDyb158oFTAb3) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Lionheart \(Fearless\)](https://open.spotify.com/album/68U7caniDmdQHifJdnlYFT) | 3:06 |
 | 93 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 |
 
-Snapshot ID: `MjE1OSxjYTAxNGRkYzdjNTI4ZDdjNWE5MjA2YTEyY2IxOTg5ZTU2MTQ1NWMz`
+Snapshot ID: `MjE2MixlZWY5OTczYzEyZjY3MDE2NGY3NjE2NDI0ZDM2ZWMyMjViZWFkMjJk`

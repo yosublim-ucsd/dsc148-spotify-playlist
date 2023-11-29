@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Cover: Ofenbach, Norma Jean Martine
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,798,476 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,798,590 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 22 | [Wild Ones](https://open.spotify.com/track/2MH5KK60I00JOPigNOt4v8) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Wild Ones](https://open.spotify.com/album/2JSwcjpkanFKfT3ev3eDQr) | 3:26 |
 | 23 | [Atlantis](https://open.spotify.com/track/7qOHKIBWU9ygcoYA7B23wP) | [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ), [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Atlantis](https://open.spotify.com/album/7tn97Br9XVlKBPYoNR7qmr) | 2:16 |
 | 24 | [Run Free \(Countdown\)](https://open.spotify.com/track/4KB66xUZWvRDej628vf2J8) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Run Free \(Countdown\)](https://open.spotify.com/album/3RbeHKH3mbJ4wQ4Y9fcF3f) | 2:32 |
-| 25 | [Waka Waka](https://open.spotify.com/track/5Idil10mcvgdD2CHbRR2sF) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Waka Waka](https://open.spotify.com/album/7HGP96lEH5assiam9DokmF) | 2:05 |
+| 25 | [Waka Waka \(Mwaki\)](https://open.spotify.com/track/5Idil10mcvgdD2CHbRR2sF) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Waka Waka \(Mwaki\)](https://open.spotify.com/album/7HGP96lEH5assiam9DokmF) | 2:05 |
 | 26 | [Fugazi \(Robin Schulz Presents KOPPY\)](https://open.spotify.com/track/1As70eMQbPuG2cABqKZvq2) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [KOPPY](https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO) | [Fugazi \(Robin Schulz Presents KOPPY\)](https://open.spotify.com/album/07g9RO7MnP7rV6K0vXBoTc) | 2:31 |
 | 27 | [About You Now \(How I Feel\)](https://open.spotify.com/track/3Ipu6e4dwxdt8lmSI27ZFx) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB) | [About You Now \(How I Feel\)](https://open.spotify.com/album/4a22kWJ4n6KE7apkohVxKp) | 2:42 |
 | 28 | [Move It](https://open.spotify.com/track/7F7G8FuCtggmPvs51E9fmN) | [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM) | [Move It](https://open.spotify.com/album/1IxDiKZoA2gGfoQMC3EJ4n) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [High On Life](https://open.spotify.com/track/63yVtv3jDnjMa89SD7uYj2) | [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [High On Life](https://open.spotify.com/album/0A4eJEZQmWWNB2jPrE0xuR) | 3:19 |
 | 50 | [Won't Forget You](https://open.spotify.com/track/2fP9aII1LkmZZmzdAiuNVz) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Won't Forget You](https://open.spotify.com/album/2b2p2llc051aP6YlPG5AnK) | 2:33 |
 
-Snapshot ID: `MCxkMDlhZTg3YTUyNzBhODY0N2MxYTllNWMyMzgzNmM4ODRhZGI1MWE0`
+Snapshot ID: `MCwzOGU0MTAxZjhkOTY3ZjY1NjA3NTViMWRiNWMwNzg5N2M4Nzc0NjYw`

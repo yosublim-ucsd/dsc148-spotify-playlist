@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Panama.
 
-986 songs - 2 day 7 hr 38 min
+987 songs - 2 day 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -473,6 +473,7 @@
 | [Lisa](https://open.spotify.com/track/44FzVABpR2cciquTqADA0D) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Lisa](https://open.spotify.com/album/2jy7QlJB9hWgYsajBv4IOt) | 2:39 | 2023-03-10 | 2023-05-07 |
 | [Llorando en un Ferrari](https://open.spotify.com/track/0x4Kmsd1YLB9emO8thJ62U) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Las Leyendas Nunca Mueren](https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA) | 3:13 | 2021-11-28 | 2021-12-04 |
 | [Llorarás](https://open.spotify.com/track/2naqSVQHgiaoEpxtkVOhmK) | [Dimension Latina](https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk) | [Una Dimensión De Éxitos](https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV) | 3:48 | 2023-01-02 | 2023-01-04 |
+| [Llorelas](https://open.spotify.com/track/3BQMz5J8dzID8C2kq8Yiv5) | [Elemece](https://open.spotify.com/artist/1duZu3bgjB12HTN7xIAFSJ) | [Llorelas](https://open.spotify.com/album/1kUqEeg75cMhG7PvhUR5cA) | 2:37 | 2023-11-28 |  |
 | [Lluvia](https://open.spotify.com/track/7s1wij653okZG2DfTPbQbc) | [Siho Villalobos](https://open.spotify.com/artist/5eab0u4WjbuWHcmLhvmkso), [Mendoza](https://open.spotify.com/artist/3I6jrkKaO8HTBay9K9V9bP) | [Lluvia](https://open.spotify.com/album/34pggjaVe5oGjApdGElMLL) | 2:21 | 2023-10-01 | 2023-10-09 |
 | [Lo Que Perdiste](https://open.spotify.com/track/5fmC4CpK3KrWEMr4CLS5go) | [Biigo](https://open.spotify.com/artist/3KJWebDKLxiddTXa1nyhK2), [Kenny Man](https://open.spotify.com/artist/6SGvRyZuaSuWmP6IWUKpGf) | [Lo Que Perdiste](https://open.spotify.com/album/4yInQL2qUt34nOD4eGEZdF) | 2:43 | 2022-10-09 | 2022-10-15 |
 | [Lo Que Perdiste](https://open.spotify.com/track/7Am85h9aNUfh98dBhALlRF) | [Biigo](https://open.spotify.com/artist/3KJWebDKLxiddTXa1nyhK2), [Kenny Man](https://open.spotify.com/artist/6SGvRyZuaSuWmP6IWUKpGf) | [Lo Que Perdiste](https://open.spotify.com/album/1nrYnW75cDFmsTcX72V1Ef) | 2:43 | 2022-10-21 | 2022-11-06 |
@@ -959,7 +960,7 @@
 | [We Found Love](https://open.spotify.com/track/1zv3WFUbZ5vPxFq9I2jAU1) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Talk That Talk \(Explicit\)](https://open.spotify.com/album/16ySsalaP2FiKVDlYCWnYh) | 3:35 | 2023-02-14 | 2023-02-19 |
 | [Welcome To New York \(Taylor's Version\)](https://open.spotify.com/track/1hR8BSuEqPCCZfv93zzzz9) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:32 | 2023-10-28 | 2023-10-30 |
 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 | 2023-07-25 | 2023-08-12 |
-| [WHERE SHE GOES](https://open.spotify.com/track/2sTDlCxmuZCTDKKk9f1qus) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:51 | 2023-10-14 |  |
+| [WHERE SHE GOES](https://open.spotify.com/track/2sTDlCxmuZCTDKKk9f1qus) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:51 | 2023-10-14 | 2023-11-29 |
 | [WHERE SHE GOES](https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [WHERE SHE GOES](https://open.spotify.com/album/5gCcb5fsSb6w5K8SyJrgtB) | 3:51 | 2023-05-20 | 2023-10-15 |
 | [wiggy](https://open.spotify.com/track/4xU4XeklG562EnanWzpY3A) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [wiggy](https://open.spotify.com/album/68SNI4G6JbLY2CqjFXfN0n) | 2:26 | 2023-08-01 | 2023-10-01 |
 | [Wild Flower \(with youjeen\)](https://open.spotify.com/track/5p8ThxM2OhJ0igfxkz0Z1q) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 4:33 | 2022-12-03 | 2022-12-08 |

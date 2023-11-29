@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 
 > 지금 노래방에서 가장 핫한 노래들을 만나보세요! \(Fancy belting out your favorite Korean songs?\) \(Cover: Parc Jae Jung\(박재정\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,088 likes - 175 songs - 11 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,085 likes - 175 songs - 11 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 | 82 | [Sad Drinking](https://open.spotify.com/track/4vWJK2WkbYLu2abTJzF9lx) | [Hwang In Wook](https://open.spotify.com/artist/56U7IcfF1h54ZxOPqjEnjq) | [Sad Drinking](https://open.spotify.com/album/7i0w4vvXqSY6mYI1Rudm0n) | 3:25 |
 | 83 | [Every day, Every Moment](https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Should We Kiss First? \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U) | 3:30 |
 | 84 | [그대 없는 밤에](https://open.spotify.com/track/2TUJCx6yTKeMfo7Vw29R3V) | [H:CODE](https://open.spotify.com/artist/3wi60BA6UhRuaNc1Dj548w), [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [네 번째 이야기](https://open.spotify.com/album/5l5mvQkue0o4SJARSYJU0G) | 4:59 |
-| 85 | [To You My Light \(feat\. Lee Raon\)](https://open.spotify.com/track/5kPpA4aMFeAQnahSnTIOi4) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j), [Leeraon](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane) | [Red Moon: To You My Light](https://open.spotify.com/album/1pqAIHe422sy6zGwJhvcqO) | 4:25 |
+| 85 | [To You My Light \(feat\. LEE RAON\)](https://open.spotify.com/track/5kPpA4aMFeAQnahSnTIOi4) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j), [Leeraon](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane) | [Red Moon: To You My Light](https://open.spotify.com/album/1pqAIHe422sy6zGwJhvcqO) | 4:25 |
 | 86 | [눈의 꽃](https://open.spotify.com/track/2fRFwWwZG7Qfkui7GcxTMy) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [Sorry, I Love You \(Original Television Soundtrack\)](https://open.spotify.com/album/6n02ahS5uuUlGCZCwDcGf3) | 5:39 |
 | 87 | [If you lovingly call my name \(Female Ver.\)](https://open.spotify.com/track/6qoc17sLAUHdZ48uRDXsWt) | [GyeongseoYeji](https://open.spotify.com/artist/5crpfIGj4lAUNuHYUY2TN9) | [If you lovingly call my name](https://open.spotify.com/album/3I70HPLl7jI4VufLUlUgfa) | 3:52 |
 | 88 | [Celebrity](https://open.spotify.com/track/4RewTiGEGoO7FWNZUmp1f4) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Celebrity](https://open.spotify.com/album/3mtDgtcl4bxDN73kIM216g) | 3:15 |
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 | 174 | [미워요 I Hate You](https://open.spotify.com/track/4s5j8hpy5nbgvVU0VLBNtt) | [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM) | [정인 Jung In from Andromeda](https://open.spotify.com/album/1vaWpmAMtq5MuKCAna7afD) | 3:22 |
 | 175 | [시작](https://open.spotify.com/track/5TeDIQrpwWtLWaFfzLH0hh) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/7KDMHe0BgyhOmk4Oz6g293) | 3:22 |
 
-Snapshot ID: `MCwyOWQ4NWY3OGU0MGJiMWU3MzA5NjQyMmQyNGEyMDJjMGMyZGI1MWIx`
+Snapshot ID: `MCw5NWI1OTE0ZDlkYzc3Yjc4ODA2OTQ5ODA5NDZmOGYwNTgxMTE4NGEw`

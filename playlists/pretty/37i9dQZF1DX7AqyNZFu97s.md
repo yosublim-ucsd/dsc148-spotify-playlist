@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Essence Martins
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,464 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,473 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 57 | [Bingo](https://open.spotify.com/track/3XJlA2qxPSLdIPRwQKLfbg) | [SB](https://open.spotify.com/artist/0aKoAwqRVhigYe3JlWJKg2) | [Bingo](https://open.spotify.com/album/29rRexZksZAZK89yOWYh7m) | 2:36 |
 | 58 | [gross!!!](https://open.spotify.com/track/7qFeHn96S2hWZtZZF2sJmE) | [Ella Rosa](https://open.spotify.com/artist/1qHw9CyK6GsvipKuY7J70F) | [gross!!!](https://open.spotify.com/album/445PY7WbwzHvpy8bqUF6kq) | 2:08 |
 | 59 | [Falling Out Of Love](https://open.spotify.com/track/3kFprw5DdxlM3G1LbBv3ZR) | [Saytr Play](https://open.spotify.com/artist/169EIOeeLOUF8KPn0hAvzG) | [Falling Out Of Love](https://open.spotify.com/album/3THRt3GMqegQzVEgzPBo6H) | 2:34 |
-| 60 | [beach song \- demo](https://open.spotify.com/track/2TQEizKBJTJNJ1mHYxG6j7) | [Leonie Biney](https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq) | [beach song \(demo\)](https://open.spotify.com/album/6WY8KFYlebPMzje7HzPFzh) | 3:15 |
+| 60 | [Beach Song \- Demo](https://open.spotify.com/track/2TQEizKBJTJNJ1mHYxG6j7) | [Leonie Biney](https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq) | [Beach Song \(Demo\)](https://open.spotify.com/album/6WY8KFYlebPMzje7HzPFzh) | 3:15 |
 | 61 | [lighthouse.](https://open.spotify.com/track/2BiUIyEi4spl2QTF4NWolE) | [Nosa](https://open.spotify.com/artist/1kzEYCZOAVa2h07NEcCezO) | [lighthouse.](https://open.spotify.com/album/2yWU4bgd2lEW4u8ipJj9Oh) | 2:28 |
 | 62 | [On Me](https://open.spotify.com/track/0KyFZgZt3XJbCG1tlHNYTV) | [32 tens](https://open.spotify.com/artist/5KyAFIhMw69IMOud8Ub20y) | [On Me](https://open.spotify.com/album/38saBfsblhRriFRDrVvkbP) | 3:41 |
 | 63 | [what you want](https://open.spotify.com/track/3qVS9RTibX0zopvFYATZEF) | [Summer\-Pearl](https://open.spotify.com/artist/1Fqy9pwn3ND0gLQS0IyJNL) | [what you want](https://open.spotify.com/album/5A4rcsvFYNgRj6PJ7eKb33) | 3:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 99 | [Lost You](https://open.spotify.com/track/0TSUzYE5lJ7ss7PcF8r6Cx) | [Ella Sands](https://open.spotify.com/artist/3PQ8pmeEU17bYhdWnUs6eg) | [Lost You](https://open.spotify.com/album/2k1o1hjASLUp796zFUgyEL) | 3:07 |
 | 100 | [M.D.M.A.](https://open.spotify.com/track/2Nbmo4Z0zXxVNAfXt6mppq) | [Lua.](https://open.spotify.com/artist/6mmawxELp9o7kFYDPL5NeK) | [M.D.M.A.](https://open.spotify.com/album/3Uc2rXNrJcWLkyabGvII7a) | 3:06 |
 
-Snapshot ID: `MCxmODU4YjAwNWZjMWNhYzc1NjcxNjZhOTdlYmYwMTcwODMyN2I0ZTM1`
+Snapshot ID: `MCxjZTIwNzVlOTliYzlkYTA0NjM4NTMzZTA5OGM2NzRlNjk0MTdmNzQ3`

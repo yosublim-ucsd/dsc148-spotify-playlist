@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JHAMXPtau2.md) - [plain]
 
 > Soft and cozy piano versions of all your favourite Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 695 likes - 40 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 764 likes - 40 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,18 +22,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JHAMXPtau2.md) - [plain]
 | 12 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/5DLLYzJ575Fm5nO9JMz1Qb) | [Rebecca McCarthey](https://open.spotify.com/artist/6jwFngKucSiFvC4ZnyNuSq) | [Christmas In New York](https://open.spotify.com/album/2f1Yvqn1ObgJjAZahXKAsW) | 3:38 |
 | 13 | [Here Comes Santa](https://open.spotify.com/track/7dXYFKVoQhAkrY9U2qQzpA) | [Ruth Malton](https://open.spotify.com/artist/2mm0psmPDIsQH3XtQGsl25) | [Here Comes Santa](https://open.spotify.com/album/6ZLd0vpnu2UBLUN7gGUeQk) | 3:28 |
 | 14 | [Light of the World](https://open.spotify.com/track/5HmHdOfFEGyrFihRHtx8jv) | [Faye Mosley](https://open.spotify.com/artist/50JVQBWkJTwvTOAvhgcBhv) | [Light of the World](https://open.spotify.com/album/2yNYgL3DzPYgnChLSAS5h7) | 1:45 |
-| 15 | [Santa Baby](https://open.spotify.com/track/4t7gSDW8t9Nzoy3z63Q253) | [William Chu](https://open.spotify.com/artist/1OMbaqIBBz86y7FdoMcwMv) | [Santa Baby](https://open.spotify.com/album/0oVxHx60zwj8nRiPgkcDGp) | 2:17 |
-| 16 | [O Tannenbaum](https://open.spotify.com/track/0Qh82xyuVeCP8TU9LHZOk7) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [O Tannenbaum](https://open.spotify.com/album/0bUeT7ZJYJgnulpvq30EHN) | 2:03 |
-| 17 | [The Night Before Christmas](https://open.spotify.com/track/3qYP1z6cSQuTUosdMURZtw) | [Katy Healy](https://open.spotify.com/artist/4FSVptHzrQg8goD1Evmdgo) | [It's the Most Wonderful Time of the Year](https://open.spotify.com/album/3jkYXSoDo3mH23yZaTVy6W) | 2:52 |
-| 18 | [Blue Christmas](https://open.spotify.com/track/5Xsw49uHfrolDpzV1S0R3n) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [A Child Is Born](https://open.spotify.com/album/5i3P1z4tgoe8qMFnsFG9Bb) | 2:20 |
+| 15 | [O Tannenbaum](https://open.spotify.com/track/0Qh82xyuVeCP8TU9LHZOk7) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [O Tannenbaum](https://open.spotify.com/album/0bUeT7ZJYJgnulpvq30EHN) | 2:03 |
+| 16 | [The Night Before Christmas](https://open.spotify.com/track/3qYP1z6cSQuTUosdMURZtw) | [Katy Healy](https://open.spotify.com/artist/4FSVptHzrQg8goD1Evmdgo) | [It's the Most Wonderful Time of the Year](https://open.spotify.com/album/3jkYXSoDo3mH23yZaTVy6W) | 2:52 |
+| 17 | [Blue Christmas](https://open.spotify.com/track/5Xsw49uHfrolDpzV1S0R3n) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [A Child Is Born](https://open.spotify.com/album/5i3P1z4tgoe8qMFnsFG9Bb) | 2:20 |
+| 18 | [Santa Baby](https://open.spotify.com/track/4t7gSDW8t9Nzoy3z63Q253) | [William Chu](https://open.spotify.com/artist/1OMbaqIBBz86y7FdoMcwMv) | [Santa Baby](https://open.spotify.com/album/0oVxHx60zwj8nRiPgkcDGp) | 2:17 |
 | 19 | [White Christmas](https://open.spotify.com/track/7ptmRcVXsT3cQtCkKRLyho) | [Manfred Flynn](https://open.spotify.com/artist/1zGhQhooGB9J162ncgrR68) | [Merry Jazzmas!](https://open.spotify.com/album/3VycMqU4q8PbpBMVUiGV4i) | 2:18 |
 | 20 | [Frosty The Snowman](https://open.spotify.com/track/6i78EhlNpCODok4KjHKLrf) | [Irvin Smith](https://open.spotify.com/artist/72epe9asXn1RtuXkKrtBcE) | [Frosty The Snowman](https://open.spotify.com/album/1I9rcVH3yBxsNGUHb8X5Wk) | 2:02 |
 | 21 | [Home for the Holidays](https://open.spotify.com/track/6M2ZatEcMJNWrhm7dF8h6M) | [Vlad Kotsky](https://open.spotify.com/artist/4dXJTtjTNvhUGdt2j7CU2M) | [Home for the Holidays](https://open.spotify.com/album/3mcRjaxQEF83X8u7PWHqba) | 3:46 |
-| 22 | [Angels We Have Heard on High](https://open.spotify.com/track/2ZldA72ZbtvHaQEJFxybtm) | [Diego de Galdeano](https://open.spotify.com/artist/0VN4x01SCzLmIMFzuPzAKU) | [Oh Come, All Ye Faithful](https://open.spotify.com/album/1Wmhjzrbn1EOKzhqgGWfhq) | 3:09 |
-| 23 | [A Child Is Born](https://open.spotify.com/track/31FsKXdQiIqxHYMyPMl7ev) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [Jazz Nights](https://open.spotify.com/album/09CNhFjwKtppqXQKzrKOWe) | 2:34 |
-| 24 | [A Marshmallow World](https://open.spotify.com/track/26qH2fgQYx3D1pgdhO5Gba) | [John Manson](https://open.spotify.com/artist/7M9AwoeT6YVeqrbK7a0Lsk) | [A Marshmallow World](https://open.spotify.com/album/5kfXeFZLIDaHWRrrS4dbco) | 2:32 |
-| 25 | [Candles](https://open.spotify.com/track/4LBOStx3RgmDRT6qo0sAbe) | [Damian Syslo](https://open.spotify.com/artist/16zAiqqDsHkJ3UPqS9vQiu) | [Candles](https://open.spotify.com/album/6KbPiTD5ECm71o5y9cIbPv) | 3:44 |
-| 26 | [What Child Is This](https://open.spotify.com/track/04n38Hts6yUNPMW75kweVu) | [Ryan Marvel](https://open.spotify.com/artist/1QRBlM1kbpn7HsF42YKSY2) | [Winter II](https://open.spotify.com/album/1ikrIy4vNGnTWENBzXIdq9) | 2:48 |
+| 22 | [A Child Is Born](https://open.spotify.com/track/31FsKXdQiIqxHYMyPMl7ev) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [Jazz Nights](https://open.spotify.com/album/09CNhFjwKtppqXQKzrKOWe) | 2:34 |
+| 23 | [A Marshmallow World](https://open.spotify.com/track/26qH2fgQYx3D1pgdhO5Gba) | [John Manson](https://open.spotify.com/artist/7M9AwoeT6YVeqrbK7a0Lsk) | [A Marshmallow World](https://open.spotify.com/album/5kfXeFZLIDaHWRrrS4dbco) | 2:32 |
+| 24 | [Candles](https://open.spotify.com/track/4LBOStx3RgmDRT6qo0sAbe) | [Damian Syslo](https://open.spotify.com/artist/16zAiqqDsHkJ3UPqS9vQiu) | [Candles](https://open.spotify.com/album/6KbPiTD5ECm71o5y9cIbPv) | 3:44 |
+| 25 | [What Child Is This](https://open.spotify.com/track/04n38Hts6yUNPMW75kweVu) | [Ryan Marvel](https://open.spotify.com/artist/1QRBlM1kbpn7HsF42YKSY2) | [Winter II](https://open.spotify.com/album/1ikrIy4vNGnTWENBzXIdq9) | 2:48 |
+| 26 | [Angels We Have Heard on High](https://open.spotify.com/track/2ZldA72ZbtvHaQEJFxybtm) | [Diego de Galdeano](https://open.spotify.com/artist/0VN4x01SCzLmIMFzuPzAKU) | [Oh Come, All Ye Faithful](https://open.spotify.com/album/1Wmhjzrbn1EOKzhqgGWfhq) | 3:09 |
 | 27 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/1dnGfAHKObTGRL6FFXI5I2) | [Irvin Smith](https://open.spotify.com/artist/72epe9asXn1RtuXkKrtBcE) | [Frosty The Snowman](https://open.spotify.com/album/1I9rcVH3yBxsNGUHb8X5Wk) | 2:24 |
 | 28 | [It Came Upon The Midnight Clear](https://open.spotify.com/track/7tmMuhg6bvWSyLdEBWlWTb) | [Christian Glass](https://open.spotify.com/artist/2UHwvIXHdMtcmboouSQJ7k) | [It Came Upon The Midnight Clear](https://open.spotify.com/album/0od5E7hLRGWB1Qd2KIFYN1) | 2:26 |
 | 29 | [Jingle Bells \- Piano](https://open.spotify.com/track/3o5MXSiuutkoTVsL64CH7K) | [Merry Pines](https://open.spotify.com/artist/5R2MLk0AVIoRCxZ6JvamzW) | [Jazzy Piano for the Holidays](https://open.spotify.com/album/271p0NGxaSmWAaTZzi8lWJ) | 2:39 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JHAMXPtau2.md) - [plain]
 | 39 | [Christ Was Born On Christmas Day](https://open.spotify.com/track/1HyKIB8bzYYT6PlosczZj3) | [Lyn Ardbeg](https://open.spotify.com/artist/6cUNyotmONFDiZvl8LafA6) | [Christ Was Born On Christmas Day](https://open.spotify.com/album/4Av88zEsREUmeIhBwUhWV7) | 2:34 |
 | 40 | [What Are You Doing New Year's Eve?](https://open.spotify.com/track/5fcwexbxECTYiCUvrBig0V) | [Ray Love](https://open.spotify.com/artist/3obhUFv6yw5E2dFE8d8LXy) | [What Are You Doing New Year's Eve?](https://open.spotify.com/album/5GMPCJizVO43fjyoj6to1V) | 2:25 |
 
-Snapshot ID: `MCw0MTNhNjA3YzM1YWIxZTM3MjU0NGZlYmI4MTFlZmY0ODE2ZWI5OGMz`
+Snapshot ID: `MCxiNmVhNmFmN2JmZGRhNmNjNzZlNTc4NjJhZDdlNGU2NjAxZDQ3MWQ2`

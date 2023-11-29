@@ -4,7 +4,7 @@
 
 > Soothing rolling thunder sounds, all through the night...
 
-153 songs - 7 hr 8 min
+153 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Soft Rain Carrying Strong Lightnings](https://open.spotify.com/track/0qTxu9veqYjT7qCJJtaMQr) | [Naturalia](https://open.spotify.com/artist/2YHtsXV9u31l5qvZL1oaX7) | [Thunder Experience](https://open.spotify.com/album/1eZyixYHFRDImtSibiS9dI) | 2:16 | 2022-10-28 |  |
 | [Soft Thunder And Rain](https://open.spotify.com/track/1H37bsmMNq6wK8NC1GimU2) | [Smoothe Sounds](https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN) | [Rainforest Afternoon](https://open.spotify.com/album/6Hp8Uf0ee1Lin70MMD9JRK) | 2:56 | 2023-09-20 |  |
 | [Soft Thunders](https://open.spotify.com/track/0ru1Q1p2CUz9fuc0yNLpHw) | [Oceanica](https://open.spotify.com/artist/5XecShujxcNg7fz68DP8nD) | [By The Window](https://open.spotify.com/album/2pwFiAHfav6jV6aKOI7ruL) | 2:05 | 2023-01-13 |  |
-| [Sonido Dormido](https://open.spotify.com/track/1gWCfhUtzEtOkWS5lM6zca) | [Dormir Dan](https://open.spotify.com/artist/2B8ofgf0e96eyGnXfYNtST) | [Dormir Dan](https://open.spotify.com/album/3uBJcpWWkUjf67rmvtJ4Fc) | 1:42 | 2022-10-28 |  |
+| [Sonido Dormido](https://open.spotify.com/track/1gWCfhUtzEtOkWS5lM6zca) | [Dormir Dan](https://open.spotify.com/artist/2B8ofgf0e96eyGnXfYNtST) | [Dormir Dan](https://open.spotify.com/album/3uBJcpWWkUjf67rmvtJ4Fc) | 2:10 | 2022-10-28 |  |
 | [Soothing Rain & Thunder](https://open.spotify.com/track/7fiPcWHNvqwbKZ0yexMqt4) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [Soothing Rain & Thunder](https://open.spotify.com/album/4MokIJuPIONaS9P5SLwjsX) | 3:47 | 2023-09-20 |  |
 | [Storm Away](https://open.spotify.com/track/4JU9FYKj4K1eaey9SazCKE) | [Brontology](https://open.spotify.com/artist/2wV6tmD1aCH03G6uBqVOMp) | [Liquid Storm](https://open.spotify.com/album/1bBZfJGjFBeohv2Mdigyti) | 1:45 | 2022-10-28 |  |
 | [Storm Away](https://open.spotify.com/track/2aRwU4NEBchyPIAvzONd67) | [Dark Thunder Forest](https://open.spotify.com/artist/7HnH9fTkvDwEgTit9qwe9d) | [Dark Thunder 2](https://open.spotify.com/album/2JDGCTkC92RckQGlOeUEch) | 2:42 | 2022-10-28 |  |

@@ -4,7 +4,7 @@
 
 > Get cozy and relax to these laid\-back festive sounds.
 
-175 songs - 9 hr 32 min
+176 songs - 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A Christmas Wish](https://open.spotify.com/track/4ZH5EWAF8IxM2SQfNr8LSS) | [Cerys Matthews](https://open.spotify.com/artist/4jTShTMSgJPRtzrW8dzIPi), [Iwan Rheon](https://open.spotify.com/artist/0Q2mYJ2ur4Hb0AmZjcGMIl) | [A Christmas Wish](https://open.spotify.com/album/5axgySCcUvRVEDrU7TImR3) | 3:12 | 2021-12-17 | 2022-11-18 |
 | [A Dreamer's Holiday](https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [A Dreamer's Holiday](https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E) | 3:00 | 2022-11-18 |  |
 | [A Holly Jolly Christmas](https://open.spotify.com/track/3loEOofEBG0Z7iznsotuHI) | [Burl Ives](https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN) | [Les tubes de Noël](https://open.spotify.com/album/075XNkZk1DAXsnobzLpF70) | 2:13 | 2022-10-28 | 2022-11-14 |
-| [A Winter's Tale](https://open.spotify.com/track/77zmQj6FTC4zrxjgD6eASY) | [David Essex](https://open.spotify.com/artist/46n0cAhBmsRJZiX6GSFmbf) | [With Love From ..\. PolyGram 50th Anniversary](https://open.spotify.com/album/3giWEYwjC0ueqLhXyrIb9z) | 4:10 | 2023-11-14 |  |
+| [A Winter's Tale](https://open.spotify.com/track/77zmQj6FTC4zrxjgD6eASY) | [David Essex](https://open.spotify.com/artist/46n0cAhBmsRJZiX6GSFmbf) | [With Love From ..\. PolyGram 50th Anniversary](https://open.spotify.com/album/3giWEYwjC0ueqLhXyrIb9z) | 4:10 | 2023-11-14 | 2023-11-29 |
 | [A Winter's Tale](https://open.spotify.com/track/0KIxURk1JUhsf0UC7OgTbA) | [David Essex](https://open.spotify.com/artist/46n0cAhBmsRJZiX6GSFmbf) | [The Collection](https://open.spotify.com/album/7cembgX5mpEafu9m36iw6G) | 4:10 | 2021-12-17 | 2022-07-29 |
 | [A Winter's Tale](https://open.spotify.com/track/1aoPv9qHfKhtYZhX9I2tV8) | [David Essex](https://open.spotify.com/artist/46n0cAhBmsRJZiX6GSFmbf) | [Holidays Are Coming](https://open.spotify.com/album/59CugdPue0ig1rBmTWJ2AB) | 4:11 | 2021-12-17 | 2022-11-07 |
 | [A Winter's Tale](https://open.spotify.com/track/1yJPNmAvCSdSw5v3vVG1ft) | [David Essex](https://open.spotify.com/artist/46n0cAhBmsRJZiX6GSFmbf) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/3LPghlMCICkwGHz3ab7U8R) | 4:11 | 2021-12-17 | 2022-08-22 |
@@ -98,6 +98,7 @@
 | [lonely christmas \(feat\. Justin Bieber & Poo Bear\)](https://open.spotify.com/track/5FZNkiHoC7fbc30acoRpfb) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [A Different Christmas](https://open.spotify.com/album/52QMK9SFNjiuz3ipkuVVZu) | 3:50 | 2021-12-17 | 2023-10-28 |
 | [Lonely This Christmas](https://open.spotify.com/track/6ka53p5HloApRQ2ptSpuGB) | [Mud](https://open.spotify.com/artist/3cqIsBnzV3BabbPWKz8Txf) | [The Very Best Of Mud](https://open.spotify.com/album/6fkg20RDjOK5JSZ3wqt6i4) | 3:33 | 2021-12-17 |  |
 | [Love Is A Compass \- Disney supporting Make\-A\-Wish](https://open.spotify.com/track/6lx41mPrde3vkcb8qUQOOi) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Love Is A Compass \(Disney supporting Make\-A\-Wish\)](https://open.spotify.com/album/24JJvusSGIAOn9GiHLvWz9) | 3:01 | 2023-10-27 |  |
+| [Make It Home](https://open.spotify.com/track/3xLDkntD4YvBcVwX6EK7SU) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Make It Home](https://open.spotify.com/album/3tUsy9oBx3XXxtNlv1p92g) | 2:59 | 2023-11-28 |  |
 | [Man on the Moon](https://open.spotify.com/track/4fIR2Qocg33dhjEVrGWAlj) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Man on the Moon](https://open.spotify.com/album/7ChaTXG8VLVpzQnI2tzhJ2) | 2:51 | 2021-12-17 | 2022-07-29 |
 | [Man On The Moon](https://open.spotify.com/track/4mcgyq5Ay6OYOE4ou2FCNx) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Man On The Moon](https://open.spotify.com/album/6Pchjb89jY7FiyzzAo67Q6) | 2:51 | 2021-12-17 | 2023-10-22 |
 | [Mary's Boy Child / Oh My Lord](https://open.spotify.com/track/2qqZ5fOGuNvYVzgPFDLQ4l) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Worldmusic for Christmas](https://open.spotify.com/album/71j9nbHz1Ucdncs7Gtp7lh) | 4:01 | 2021-12-17 | 2022-07-29 |

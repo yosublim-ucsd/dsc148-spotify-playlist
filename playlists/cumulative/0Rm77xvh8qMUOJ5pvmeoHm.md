@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/0Rm77xvh8qMUOJ5pvmeoHm.md) - cumulative - [plain](/playlists/plain/0Rm77xvh8qMUOJ5pvmeoHm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0Rm77xvh8qMUOJ5pvmeoHm)
 
-### [Party Bangers 2023](https://open.spotify.com/playlist/0Rm77xvh8qMUOJ5pvmeoHm)
+### [Party Bangers 2024!](https://open.spotify.com/playlist/0Rm77xvh8qMUOJ5pvmeoHm)
 
-> Get your 2023 started with these party tracks everyone knows and loves!
+> Celebrate with these party tracks everyone knows and loves!
 
 248 songs - 14 hr 2 min
 

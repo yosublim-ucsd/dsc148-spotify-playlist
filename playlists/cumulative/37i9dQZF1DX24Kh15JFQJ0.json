@@ -419,6 +419,24 @@
     },
     {
       "album": {
+        "name": "Familiar Faces",
+        "url": "https://open.spotify.com/album/1IJk3ueX658qXNVN0uLM1p"
+      },
+      "artists": [
+        {
+          "name": "The Frontmen",
+          "url": "https://open.spotify.com/artist/4Hug0FD34btM73TKK5sM7e"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Amazed (The Frontmen Edition)",
+      "url": "https://open.spotify.com/track/44Q65CdxQI5enOQjdHNZfs"
+    },
+    {
+      "album": {
         "name": "The Frontmen",
         "url": "https://open.spotify.com/album/5JZgtLCQxZsuFxLtUZzkRk"
       },
@@ -430,7 +448,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 240000,
       "name": "Amazed (The Frontmen Edition)",
       "url": "https://open.spotify.com/track/4EcquOdwHuLw31NMjbuYSn"
@@ -2707,6 +2725,24 @@
     },
     {
       "album": {
+        "name": "Familiar Faces",
+        "url": "https://open.spotify.com/album/1IJk3ueX658qXNVN0uLM1p"
+      },
+      "artists": [
+        {
+          "name": "The Frontmen",
+          "url": "https://open.spotify.com/artist/4Hug0FD34btM73TKK5sM7e"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235053,
+      "name": "Left Their Mark",
+      "url": "https://open.spotify.com/track/0Uz8ahCmuqLcY78C4sca1D"
+    },
+    {
+      "album": {
         "name": "The Frontmen",
         "url": "https://open.spotify.com/album/5JZgtLCQxZsuFxLtUZzkRk"
       },
@@ -2718,7 +2754,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 235053,
       "name": "Left Their Mark",
       "url": "https://open.spotify.com/track/1ivKjWTRL02kRtBwbjMLCz"

@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/2N9fRKRit7MEYO4snHENdh"
@@ -2282,6 +2282,40 @@
       "duration_ms": 245735,
       "name": "Shayad - Reprise",
       "url": "https://open.spotify.com/track/2L2YNB3YIletW4fUtwphDv"
+    },
+    {
+      "album": {
+        "name": "The Archies (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2qHdnDIIyffdF46dwQ4V8i"
+      },
+      "artists": [
+        {
+          "name": "Shillong Chamber Choir",
+          "url": "https://open.spotify.com/artist/7gkmvNNfD8KJXAwePUNpDU"
+        },
+        {
+          "name": "Ankur Tewari",
+          "url": "https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6"
+        },
+        {
+          "name": "Javed Akhtar",
+          "url": "https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014"
+        },
+        {
+          "name": "Dot.",
+          "url": "https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4"
+        },
+        {
+          "name": "The Islanders",
+          "url": "https://open.spotify.com/artist/13S9FAokOhD3RZeAz6ti4i"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187605,
+      "name": "Sunoh - Reprise",
+      "url": "https://open.spotify.com/track/3iRKf1eAQk6I7ncGH98UN7"
     },
     {
       "album": {

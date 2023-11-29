@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New music discovery is what we're about\. Try it on for size\. Cover: Matt Stell
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,186,754 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,187,177 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Dirt Roads And Jesus](https://open.spotify.com/track/0rAsn40XCigrz7XZNxV2pr) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Never Giving Up On That](https://open.spotify.com/album/34AyKaRR2hTQOHTmaxUeDD) | 3:10 |
 | 100 | [Fool's Gold](https://open.spotify.com/track/4Pqc5qu1C7SZVuWz0d1Zut) | [Kimberly Perry](https://open.spotify.com/artist/3JFfODb5r2GSdBlweDQUE2) | [Fool's Gold](https://open.spotify.com/album/5U1Svg6Q5QPxBWBavA3hKB) | 3:20 |
 
-Snapshot ID: `MCw1Y2E5MWFhYWMxOTYzYTRkNDM0YzcyZjFhNWMzYTgxNjFjYmJlMzQ4`
+Snapshot ID: `MCxhNGViODc0MmFkZDM4OTU5MmM0MmRhMTEzOGM4ZjcwNGY4MDg4OWRh`

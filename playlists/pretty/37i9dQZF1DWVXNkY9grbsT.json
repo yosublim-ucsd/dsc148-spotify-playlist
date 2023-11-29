@@ -1,12 +1,12 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. Cover: JakoJako",
-  "num_followers": 86811,
+  "num_followers": 86832,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMThiOTMzZGE0NWU4ZTVmZTMxMGUyNWZkNGUyOGFhYjZjOWYyZjVh",
+  "snapshot_id": "MCw3OTRhNzhkMzFjOWJkZDYzZjBkYjBmOWYxZGQyY2QxYTljZGRlNmY5",
   "tracks": [
     {
       "added_at": "2023-11-24 18:52:43",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-11-24 18:52:43",
       "album": {
-        "name": "Feorm Falorx",
-        "url": "https://open.spotify.com/album/6gSz7SaYTBVaAORAO6j0ME"
-      },
-      "artists": [
-        {
-          "name": "Plaid",
-          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
-        }
-      ],
-      "duration_ms": 186624,
-      "name": "C.A.",
-      "url": "https://open.spotify.com/track/13aqTF1q4504gb1WxzDZ1k"
-    },
-    {
-      "added_at": "2023-11-24 18:52:43",
-      "album": {
         "name": "Night Journeys",
         "url": "https://open.spotify.com/album/3re0yXQcWx7n6FOZbmSgcY"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 186600,
       "name": "Night Journeys I",
       "url": "https://open.spotify.com/track/3FCmel7RBlvT01EJGA4QEq"
+    },
+    {
+      "added_at": "2023-11-24 18:52:43",
+      "album": {
+        "name": "Feorm Falorx",
+        "url": "https://open.spotify.com/album/6gSz7SaYTBVaAORAO6j0ME"
+      },
+      "artists": [
+        {
+          "name": "Plaid",
+          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
+        }
+      ],
+      "duration_ms": 186624,
+      "name": "C.A.",
+      "url": "https://open.spotify.com/track/13aqTF1q4504gb1WxzDZ1k"
     },
     {
       "added_at": "2023-11-24 18:52:43",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-11-24 18:52:43",
       "album": {
+        "name": "Infirmary / Unknown Summer",
+        "url": "https://open.spotify.com/album/5ZlBVAiMNEnlgrXGNu1tiE"
+      },
+      "artists": [
+        {
+          "name": "Burial",
+          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
+        }
+      ],
+      "duration_ms": 580834,
+      "name": "Unknown Summer",
+      "url": "https://open.spotify.com/track/4ulN5Xnx05Vkzq3tSqTGGP"
+    },
+    {
+      "added_at": "2023-11-24 18:52:43",
+      "album": {
         "name": "Movie Night Cancelled (Domenique Dumont Ambient Remix)",
         "url": "https://open.spotify.com/album/3JfqvFhdAbRCXE9GQysRsl"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 299931,
       "name": "Movie Night Cancelled - Domenique Dumont Ambient Remix",
       "url": "https://open.spotify.com/track/6ZEBJELL4zzOSSAHCYGEV8"
-    },
-    {
-      "added_at": "2023-11-24 18:52:43",
-      "album": {
-        "name": "Infirmary / Unknown Summer",
-        "url": "https://open.spotify.com/album/5ZlBVAiMNEnlgrXGNu1tiE"
-      },
-      "artists": [
-        {
-          "name": "Burial",
-          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
-        }
-      ],
-      "duration_ms": 580834,
-      "name": "Unknown Summer",
-      "url": "https://open.spotify.com/track/4ulN5Xnx05Vkzq3tSqTGGP"
     },
     {
       "added_at": "2023-11-24 18:52:43",
@@ -567,6 +567,26 @@
     {
       "added_at": "2023-11-24 18:52:43",
       "album": {
+        "name": "Reimagined by Civilistj\u00e4vel!",
+        "url": "https://open.spotify.com/album/4hflrVmJW7qo5U9o97TonK"
+      },
+      "artists": [
+        {
+          "name": "Death and Vanilla",
+          "url": "https://open.spotify.com/artist/7GSTcEvn1BkC3eucAlvBwt"
+        },
+        {
+          "name": "Civilistj\u00e4vel!",
+          "url": "https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC"
+        }
+      ],
+      "duration_ms": 495507,
+      "name": "Perpetuum Mobile - Civilistj\u00e4vel! Dub",
+      "url": "https://open.spotify.com/track/0TdghIglWF8RE2VDiQQo5A"
+    },
+    {
+      "added_at": "2023-11-24 18:52:43",
+      "album": {
         "name": "Castle Song",
         "url": "https://open.spotify.com/album/1eFh68RxjbBM82DSi7HwSW"
       },
@@ -599,22 +619,22 @@
     {
       "added_at": "2023-11-24 18:52:43",
       "album": {
-        "name": "Reimagined by Civilistj\u00e4vel!",
-        "url": "https://open.spotify.com/album/4hflrVmJW7qo5U9o97TonK"
+        "name": "Pelikan (Aukai Rework)",
+        "url": "https://open.spotify.com/album/2rdPBsfFLn02O3LXYt0Jzp"
       },
       "artists": [
         {
-          "name": "Death and Vanilla",
-          "url": "https://open.spotify.com/artist/7GSTcEvn1BkC3eucAlvBwt"
+          "name": "Stimming",
+          "url": "https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ"
         },
         {
-          "name": "Civilistj\u00e4vel!",
-          "url": "https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC"
+          "name": "Aukai",
+          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
         }
       ],
-      "duration_ms": 495507,
-      "name": "Perpetuum Mobile - Civilistj\u00e4vel! Dub",
-      "url": "https://open.spotify.com/track/0TdghIglWF8RE2VDiQQo5A"
+      "duration_ms": 332633,
+      "name": "Pelikan - Aukai Rework",
+      "url": "https://open.spotify.com/track/3xv8lO7UIkKUFh6hbOkl0R"
     },
     {
       "added_at": "2023-11-24 18:52:43",
@@ -639,26 +659,6 @@
     {
       "added_at": "2023-11-24 18:52:43",
       "album": {
-        "name": "Pelikan (Aukai Rework)",
-        "url": "https://open.spotify.com/album/2rdPBsfFLn02O3LXYt0Jzp"
-      },
-      "artists": [
-        {
-          "name": "Stimming",
-          "url": "https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ"
-        },
-        {
-          "name": "Aukai",
-          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
-        }
-      ],
-      "duration_ms": 332633,
-      "name": "Pelikan - Aukai Rework",
-      "url": "https://open.spotify.com/track/3xv8lO7UIkKUFh6hbOkl0R"
-    },
-    {
-      "added_at": "2023-11-24 18:52:43",
-      "album": {
         "name": "58500 (Daniel Avery Remix)",
         "url": "https://open.spotify.com/album/2t85UNkhR842v0V60Fb3N8"
       },
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-11-24 18:52:43",
       "album": {
-        "name": "HYbr:ID II",
-        "url": "https://open.spotify.com/album/3Q1ZzsQgj7RFkQ461bx023"
-      },
-      "artists": [
-        {
-          "name": "alva noto",
-          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
-        }
-      ],
-      "duration_ms": 474155,
-      "name": "HYbr:ID Ectopia Elastic 2",
-      "url": "https://open.spotify.com/track/1nxXXmFSOruCTHumHkwayb"
-    },
-    {
-      "added_at": "2023-11-24 18:52:43",
-      "album": {
         "name": "Radio Mnemosyne",
         "url": "https://open.spotify.com/album/0n7XF4hzFVdZXQcufUcV8Y"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 382000,
       "name": "L\u00e5ngt under noll",
       "url": "https://open.spotify.com/track/1dK4zCAejB4XhAJ8eTe3Q0"
+    },
+    {
+      "added_at": "2023-11-24 18:52:43",
+      "album": {
+        "name": "HYbr:ID II",
+        "url": "https://open.spotify.com/album/3Q1ZzsQgj7RFkQ461bx023"
+      },
+      "artists": [
+        {
+          "name": "alva noto",
+          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
+        }
+      ],
+      "duration_ms": 474155,
+      "name": "HYbr:ID Ectopia Elastic 2",
+      "url": "https://open.spotify.com/track/1nxXXmFSOruCTHumHkwayb"
     },
     {
       "added_at": "2023-11-24 18:52:43",
@@ -799,18 +799,18 @@
     {
       "added_at": "2023-11-24 18:52:43",
       "album": {
-        "name": "Periphera",
-        "url": "https://open.spotify.com/album/2XajyrsNkVgdsR68pJBDUY"
+        "name": "Entropy",
+        "url": "https://open.spotify.com/album/3gOlyuR0njdHXbcFlow7nJ"
       },
       "artists": [
         {
-          "name": "Pataphysical",
-          "url": "https://open.spotify.com/artist/4K1gxhkzaKIv8prbKAIIGC"
+          "name": "Bostro Pesopeo",
+          "url": "https://open.spotify.com/artist/6pBvpRI7qsmSp0C4DbH1MD"
         }
       ],
-      "duration_ms": 279304,
-      "name": "Aun Cyc",
-      "url": "https://open.spotify.com/track/6xOUTeROja1JmSpoiGLpl9"
+      "duration_ms": 289642,
+      "name": "Entropy",
+      "url": "https://open.spotify.com/track/7e6bj3wHC3OljTIiSM7K56"
     },
     {
       "added_at": "2023-11-24 18:52:43",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-11-24 18:52:43",
       "album": {
-        "name": "Entropy",
-        "url": "https://open.spotify.com/album/3gOlyuR0njdHXbcFlow7nJ"
-      },
-      "artists": [
-        {
-          "name": "Bostro Pesopeo",
-          "url": "https://open.spotify.com/artist/6pBvpRI7qsmSp0C4DbH1MD"
-        }
-      ],
-      "duration_ms": 289642,
-      "name": "Entropy",
-      "url": "https://open.spotify.com/track/7e6bj3wHC3OljTIiSM7K56"
-    },
-    {
-      "added_at": "2023-11-24 18:52:43",
-      "album": {
         "name": "HYbr:ID Ectopia Field 1",
         "url": "https://open.spotify.com/album/6oacIh4SymWxdUqxWQgTi6"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 245407,
       "name": "HYbr:ID Ectopia Field 1",
       "url": "https://open.spotify.com/track/6toNdTYJdRlRXItNO0Bx7h"
+    },
+    {
+      "added_at": "2023-11-24 18:52:43",
+      "album": {
+        "name": "Periphera",
+        "url": "https://open.spotify.com/album/2XajyrsNkVgdsR68pJBDUY"
+      },
+      "artists": [
+        {
+          "name": "Pataphysical",
+          "url": "https://open.spotify.com/artist/4K1gxhkzaKIv8prbKAIIGC"
+        }
+      ],
+      "duration_ms": 279304,
+      "name": "Aun Cyc",
+      "url": "https://open.spotify.com/track/6xOUTeROja1JmSpoiGLpl9"
     },
     {
       "added_at": "2023-11-24 18:52:43",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-11-24 18:52:43",
       "album": {
-        "name": "Infinito",
-        "url": "https://open.spotify.com/album/3ecSwABJbDUjSwVLvOQVLJ"
-      },
-      "artists": [
-        {
-          "name": "Moritz Von Oswald",
-          "url": "https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q"
-        }
-      ],
-      "duration_ms": 384813,
-      "name": "Infinito (Version)",
-      "url": "https://open.spotify.com/track/2x6umJ0Bw82UYFUW2kwKFI"
-    },
-    {
-      "added_at": "2023-11-24 18:52:43",
-      "album": {
         "name": "Worlds Collide (Hannes Kretzer Rework)",
         "url": "https://open.spotify.com/album/4SZSeDgHqioiCuRVHi6zRc"
       },
@@ -1007,6 +991,22 @@
     {
       "added_at": "2023-11-24 18:52:43",
       "album": {
+        "name": "Bloodsport",
+        "url": "https://open.spotify.com/album/2EmIqtCm4czU2Kc6YbVE3J"
+      },
+      "artists": [
+        {
+          "name": "Worriedaboutsatan",
+          "url": "https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT"
+        }
+      ],
+      "duration_ms": 221775,
+      "name": "An Absolute Living Hell, Pt. 1",
+      "url": "https://open.spotify.com/track/4wMM0j73CI2PwLQn0HjUEl"
+    },
+    {
+      "added_at": "2023-11-24 18:52:43",
+      "album": {
         "name": "Mono No Aware",
         "url": "https://open.spotify.com/album/70hyp5k7zuvuI52UZvWBKx"
       },
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-11-24 18:52:43",
       "album": {
-        "name": "Bloodsport",
-        "url": "https://open.spotify.com/album/2EmIqtCm4czU2Kc6YbVE3J"
-      },
-      "artists": [
-        {
-          "name": "Worriedaboutsatan",
-          "url": "https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT"
-        }
-      ],
-      "duration_ms": 221775,
-      "name": "An Absolute Living Hell, Pt. 1",
-      "url": "https://open.spotify.com/track/4wMM0j73CI2PwLQn0HjUEl"
-    },
-    {
-      "added_at": "2023-11-24 18:52:43",
-      "album": {
         "name": "Martes + Utop\u00eda",
         "url": "https://open.spotify.com/album/2jUEo0xs0kmOvB06trFQxR"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 399893,
       "name": "Mir",
       "url": "https://open.spotify.com/track/1449q5smxpk9UEB1QxyZeO"
+    },
+    {
+      "added_at": "2023-11-24 18:52:43",
+      "album": {
+        "name": "Infinito",
+        "url": "https://open.spotify.com/album/3ecSwABJbDUjSwVLvOQVLJ"
+      },
+      "artists": [
+        {
+          "name": "Moritz Von Oswald",
+          "url": "https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q"
+        }
+      ],
+      "duration_ms": 384813,
+      "name": "Infinito (Version)",
+      "url": "https://open.spotify.com/track/2x6umJ0Bw82UYFUW2kwKFI"
     },
     {
       "added_at": "2023-11-24 18:52:43",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-11-24 18:52:43",
       "album": {
-        "name": "Reflections 06",
-        "url": "https://open.spotify.com/album/4rCoIoKUuFFEqHaNTpgvOx"
-      },
-      "artists": [
-        {
-          "name": "Lycoriscoris",
-          "url": "https://open.spotify.com/artist/44fky3vQ6AYZ15CmNYrmyt"
-        }
-      ],
-      "duration_ms": 204955,
-      "name": "Shizumu - Ambient Mix",
-      "url": "https://open.spotify.com/track/7DZxoQsmqg3FXCmnxp04M7"
-    },
-    {
-      "added_at": "2023-11-24 18:52:43",
-      "album": {
         "name": "Metamorphose",
         "url": "https://open.spotify.com/album/6k9zEfwG9jfM5WvEtnob5o"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 190983,
       "name": "Transformation",
       "url": "https://open.spotify.com/track/0I9wtsHfSfFT5oyzTzquWy"
+    },
+    {
+      "added_at": "2023-11-24 18:52:43",
+      "album": {
+        "name": "Reflections 06",
+        "url": "https://open.spotify.com/album/4rCoIoKUuFFEqHaNTpgvOx"
+      },
+      "artists": [
+        {
+          "name": "Lycoriscoris",
+          "url": "https://open.spotify.com/artist/44fky3vQ6AYZ15CmNYrmyt"
+        }
+      ],
+      "duration_ms": 204955,
+      "name": "Shizumu - Ambient Mix",
+      "url": "https://open.spotify.com/track/7DZxoQsmqg3FXCmnxp04M7"
     },
     {
       "added_at": "2023-11-24 18:52:43",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-11-24 18:52:43",
       "album": {
-        "name": "Kinder der Sonne (From \"Komplizen\")",
-        "url": "https://open.spotify.com/album/4pmeSfaWHmqAZSJwrptHeC"
-      },
-      "artists": [
-        {
-          "name": "alva noto",
-          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
-        }
-      ],
-      "duration_ms": 400476,
-      "name": "Ungewiss",
-      "url": "https://open.spotify.com/track/1fcGUyBtxjXzVQwSIO5SLU"
-    },
-    {
-      "added_at": "2023-11-24 18:52:43",
-      "album": {
         "name": "Information - EP",
         "url": "https://open.spotify.com/album/5LYsOZNhrwuiUdzZHuhlRw"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 596250,
       "name": "Earthship",
       "url": "https://open.spotify.com/track/3533PV6FkVuFWZi3sAPmce"
+    },
+    {
+      "added_at": "2023-11-24 18:52:43",
+      "album": {
+        "name": "Kinder der Sonne (From \"Komplizen\")",
+        "url": "https://open.spotify.com/album/4pmeSfaWHmqAZSJwrptHeC"
+      },
+      "artists": [
+        {
+          "name": "alva noto",
+          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
+        }
+      ],
+      "duration_ms": 400476,
+      "name": "Ungewiss",
+      "url": "https://open.spotify.com/track/1fcGUyBtxjXzVQwSIO5SLU"
     },
     {
       "added_at": "2023-11-24 18:52:43",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-11-24 18:52:43",
       "album": {
-        "name": "Lake Monger",
-        "url": "https://open.spotify.com/album/3fanKX5paSuCg8V0InZFbZ"
-      },
-      "artists": [
-        {
-          "name": "Jack Burton",
-          "url": "https://open.spotify.com/artist/6AnQoELy6TktzDtKzHORHZ"
-        }
-      ],
-      "duration_ms": 312222,
-      "name": "Beacon of Light",
-      "url": "https://open.spotify.com/track/1kn1LfDkxpfQ5U40o4AfH2"
-    },
-    {
-      "added_at": "2023-11-24 18:52:43",
-      "album": {
         "name": "Orphangene (Soundtrack from the motion picture \"Mondocane\")",
         "url": "https://open.spotify.com/album/0ogiNUNzmcxlq0u335WOpe"
       },
@@ -1659,6 +1643,22 @@
     {
       "added_at": "2023-11-24 18:52:43",
       "album": {
+        "name": "Lake Monger",
+        "url": "https://open.spotify.com/album/3fanKX5paSuCg8V0InZFbZ"
+      },
+      "artists": [
+        {
+          "name": "Jack Burton",
+          "url": "https://open.spotify.com/artist/6AnQoELy6TktzDtKzHORHZ"
+        }
+      ],
+      "duration_ms": 312222,
+      "name": "Beacon of Light",
+      "url": "https://open.spotify.com/track/1kn1LfDkxpfQ5U40o4AfH2"
+    },
+    {
+      "added_at": "2023-11-24 18:52:43",
+      "album": {
         "name": "Connections",
         "url": "https://open.spotify.com/album/1ZrWgu2napuGWL5yiHUC1Z"
       },
@@ -1671,6 +1671,22 @@
       "duration_ms": 318373,
       "name": "Opposite Sides",
       "url": "https://open.spotify.com/track/0zjfRQNFfXIRfknfUgWmL5"
+    },
+    {
+      "added_at": "2023-11-24 18:52:43",
+      "album": {
+        "name": "Night Journeys III",
+        "url": "https://open.spotify.com/album/5WPkWpnoYsKKnbyj3xEMDU"
+      },
+      "artists": [
+        {
+          "name": "Courtesy",
+          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
+        }
+      ],
+      "duration_ms": 388452,
+      "name": "Night Journeys III",
+      "url": "https://open.spotify.com/track/0X1K4hXSSOg7bqtzoOTUix"
     },
     {
       "added_at": "2023-11-24 18:52:43",
@@ -1707,22 +1723,6 @@
       "duration_ms": 207500,
       "name": "The Body Keeps Score",
       "url": "https://open.spotify.com/track/54xn0GmYF08I5Pi5rKMMEj"
-    },
-    {
-      "added_at": "2023-11-24 18:52:43",
-      "album": {
-        "name": "Night Journeys III",
-        "url": "https://open.spotify.com/album/5WPkWpnoYsKKnbyj3xEMDU"
-      },
-      "artists": [
-        {
-          "name": "Courtesy",
-          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
-        }
-      ],
-      "duration_ms": 388452,
-      "name": "Night Journeys III",
-      "url": "https://open.spotify.com/track/0X1K4hXSSOg7bqtzoOTUix"
     },
     {
       "added_at": "2023-11-24 18:52:43",

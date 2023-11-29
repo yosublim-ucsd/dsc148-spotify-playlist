@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 
 > <a href="spotify:artist:1UL813H5aj3e8ekE5RqWqc">Tale Of Us</a>'s favorite tracks\. Updated regularly\. Curated by Tale Of Us\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,947 likes - 80 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,053 likes - 80 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 | 67 | [Assumptions \- Dodi Palese Remix](https://open.spotify.com/track/1B6POEGfKJmLkk2IXxMzVu) | [AWEN](https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl), [Dodi Palese](https://open.spotify.com/artist/2JNZPGveOPu5gIw9o3V4pb) | [Assumptions \(Dodi Palese Remix\)](https://open.spotify.com/album/4rIc8exDsRYYdld4wfPGS2) | 5:17 |
 | 68 | [Dolce veleno](https://open.spotify.com/track/0eBjtRl3G5PQlH3dhmdjml) | [Tamburi Neri](https://open.spotify.com/artist/591yXOd0fGyaGPvtYgeb3z) | [Dolce veleno](https://open.spotify.com/album/24oAypfV3Y8Cvy1AmAJDQG) | 6:45 |
 | 69 | [Automation](https://open.spotify.com/track/1dje8b1ADEueMZXgYKwJHn) | [Toto Chiavetta](https://open.spotify.com/artist/0DBwNrdGSluzJl24pHRiOk) | [Rational Utopia](https://open.spotify.com/album/0FFLuWqNeJc2HxROaNDH99) | 6:57 |
-| 70 | [Believe](https://open.spotify.com/track/1Q67GzAimjd3OLMJJOTy9H) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [Believe](https://open.spotify.com/album/501szlgNOu6d1wltnKyHKw) | 3:33 |
+| 70 | [Believe](https://open.spotify.com/track/7tXSceUXIkr1OvNPCQKdT5) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [MEMO](https://open.spotify.com/album/6azdO29kApAjBqsnEW98cN) | 3:33 |
 | 71 | [In Control \- Innellea Remix](https://open.spotify.com/track/35fdRgZrz5ujDGBaqhoPE8) | [Forma](https://open.spotify.com/artist/1lmP325N7mFdhDOl7tMfpL), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [In Control \(Innellea Remix\)](https://open.spotify.com/album/2ldvU2vukDp8TyH9qDie2G) | 5:45 |
 | 72 | [Pablo \- Jos & Eli Remix](https://open.spotify.com/track/1vmU5mjHUKZ4FHi7sawBdA) | [Citizen Kain](https://open.spotify.com/artist/4WRWFxbK0DKYIpHcScsnAE), [Kiko](https://open.spotify.com/artist/4vQwRCAEjGlq5szn3MyG2N), [Jos & Eli](https://open.spotify.com/artist/3nOp9kU7OluZlOGCdqWqS3) | [Pablo EP](https://open.spotify.com/album/3BKNZlWW0NmiyPX4MkQuDp) | 5:57 |
 | 73 | [Metro](https://open.spotify.com/track/6kkf975GwERykpvOTu7IXZ) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Metro](https://open.spotify.com/album/2PjqXRSqBqvHWArQRYCNbS) | 3:59 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 | 79 | [Leaving Earth](https://open.spotify.com/track/6koq1DWY1e6JVFy7wQgYCo) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN), [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Ki Bae](https://open.spotify.com/artist/1t636zbkoWqKePDarVVk21) | [Leaving Earth](https://open.spotify.com/album/751Dn5vH2f5uLyjUB5cYje) | 5:03 |
 | 80 | [Vega](https://open.spotify.com/track/7cEbICGWeFyBTmijsRtbjr) | [Ilija Djokovic](https://open.spotify.com/artist/58fmi15nN6S2nqZLRRtdtc) | [Vega / Neon](https://open.spotify.com/album/4D1WC7jQ5m0per5yzOHzSO) | 3:21 |
 
-Snapshot ID: `MCw3YjhjODMwMTAwMmU3OWNhYzYyNTgwMTFmN2ExNDNlYWExNjEzOGQ3`
+Snapshot ID: `MCwzM2E1OWUwOWY5ODUxZjQ1ZjAzOGVlZDhlYjQ2ZWVlY2IwMzljMjg5`

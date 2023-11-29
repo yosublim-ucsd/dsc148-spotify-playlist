@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
-  "num_followers": 38507,
+  "num_followers": 38541,
   "original_name": "Huaynos Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODk4MzEwYTg5MzRmZjE1ZGFiOTczNDRmNDIzMTYwNTg1Y2U4MDk3",
+  "snapshot_id": "MCwwNDA2MjFjNzNmOWU5MTMwODk1Yjg5MjVlZTY3ODgxM2QwYzVkOGNk",
   "tracks": [
     {
       "added_at": "2022-02-04 14:45:56",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Cantares Huaracinos",
-        "url": "https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK"
-      },
-      "artists": [
-        {
-          "name": "Jilguero Del Huascar\u00e1n",
-          "url": "https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx"
-        }
-      ],
-      "duration_ms": 186360,
-      "name": "Al Comp\u00e1s de Mi Guitarra",
-      "url": "https://open.spotify.com/track/2K7LHE6Y0JU1qoL7cyesxY"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Huayno, Vol. 1",
         "url": "https://open.spotify.com/album/5kHgLSrmQKlEAqY2jYz14P"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 159520,
       "name": "Chall Huaschallay",
       "url": "https://open.spotify.com/track/756FMK950mmLA7hFN05QT2"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Cantares Huaracinos",
+        "url": "https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK"
+      },
+      "artists": [
+        {
+          "name": "Jilguero Del Huascar\u00e1n",
+          "url": "https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx"
+        }
+      ],
+      "duration_ms": 186360,
+      "name": "Al Comp\u00e1s de Mi Guitarra",
+      "url": "https://open.spotify.com/track/2K7LHE6Y0JU1qoL7cyesxY"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "De Colores",
-        "url": "https://open.spotify.com/album/4qyO900qJRTiM3lPCeHg00"
-      },
-      "artists": [
-        {
-          "name": "Yawar",
-          "url": "https://open.spotify.com/artist/1uvxq0pWC1f55Yg9XmgLnW"
-        }
-      ],
-      "duration_ms": 254733,
-      "name": "Linda Warmisitay",
-      "url": "https://open.spotify.com/track/2HkdxoctBhDs3XWeHmUUm4"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Nuestra Promesa",
         "url": "https://open.spotify.com/album/1y5FGSrv0xgzhqJRSkvFob"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 290853,
       "name": "Nuestra Promesa",
       "url": "https://open.spotify.com/track/2z6PQ65b5pTBnI8lqMMwrR"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "De Colores",
+        "url": "https://open.spotify.com/album/4qyO900qJRTiM3lPCeHg00"
+      },
+      "artists": [
+        {
+          "name": "Yawar",
+          "url": "https://open.spotify.com/artist/1uvxq0pWC1f55Yg9XmgLnW"
+        }
+      ],
+      "duration_ms": 254733,
+      "name": "Linda Warmisitay",
+      "url": "https://open.spotify.com/track/2HkdxoctBhDs3XWeHmUUm4"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Mis \u00c9xitos Eternos Vol. 2",
-        "url": "https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2"
-      },
-      "artists": [
-        {
-          "name": "Edwin Montoya",
-          "url": "https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb"
-        }
-      ],
-      "duration_ms": 210560,
-      "name": "Adi\u00f3s Pueblo De Ayacucho",
-      "url": "https://open.spotify.com/track/3HmLLvBwJhsYChABzWH9Of"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "La Reina de las Parranditas",
         "url": "https://open.spotify.com/album/4ilEmL4SZbMRFZl5apcr3F"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 220708,
       "name": "Cuanto Tiempo Sin Verte",
       "url": "https://open.spotify.com/track/7GlMO54HvIzDc6E7vWw7W9"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Mis \u00c9xitos Eternos Vol. 2",
+        "url": "https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2"
+      },
+      "artists": [
+        {
+          "name": "Edwin Montoya",
+          "url": "https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb"
+        }
+      ],
+      "duration_ms": 210560,
+      "name": "Adi\u00f3s Pueblo De Ayacucho",
+      "url": "https://open.spotify.com/track/3HmLLvBwJhsYChABzWH9Of"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Mis \u00c9xitos Eternos Vol. 2",
-        "url": "https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2"
-      },
-      "artists": [
-        {
-          "name": "Edwin Montoya",
-          "url": "https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb"
-        }
-      ],
-      "duration_ms": 222973,
-      "name": "Amigo",
-      "url": "https://open.spotify.com/track/1hX2Kv3f6X1fUJpMzuihgi"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "La Nueva Expresi\u00f3n del Folklore de Bolivia",
         "url": "https://open.spotify.com/album/0X1nBJpPBaIT8mFh0XnBoU"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 240293,
       "name": "Un Pasajero en T\u00fa Camino",
       "url": "https://open.spotify.com/track/3LZccAbS0T0UdH661mUno3"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Mis \u00c9xitos Eternos Vol. 2",
+        "url": "https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2"
+      },
+      "artists": [
+        {
+          "name": "Edwin Montoya",
+          "url": "https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb"
+        }
+      ],
+      "duration_ms": 222973,
+      "name": "Amigo",
+      "url": "https://open.spotify.com/track/1hX2Kv3f6X1fUJpMzuihgi"
     },
     {
       "added_at": "2022-02-04 14:45:56",

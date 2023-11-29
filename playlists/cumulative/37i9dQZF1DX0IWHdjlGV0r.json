@@ -1724,7 +1724,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 145085,
       "name": "MI AMI O NO (feat. Capo Plaza)",
       "url": "https://open.spotify.com/track/2UsAeEA2JH7kKSOflP23zY"
@@ -1816,7 +1816,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 174287,
       "name": "MY LOVE SONG 2 (feat. Coez & Frah Quintale)",
       "url": "https://open.spotify.com/track/3ySS2RpQNWsN5T88sfilZb"
@@ -2064,6 +2064,32 @@
       "duration_ms": 231655,
       "name": "Parole di ghiaccio",
       "url": "https://open.spotify.com/track/1mItEeAlTepKfWUOpu8h6b"
+    },
+    {
+      "album": {
+        "name": "La Divina Commedia",
+        "url": "https://open.spotify.com/album/6V2ux3cV4NA4PWx2g1gm0u"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        },
+        {
+          "name": "SHUNE",
+          "url": "https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251320,
+      "name": "Parole Vuote (La Solitudine)",
+      "url": "https://open.spotify.com/track/4QBfVk60RIBQg1uyox78Kh"
     },
     {
       "album": {

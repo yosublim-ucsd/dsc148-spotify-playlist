@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZH1IszRUbkn.md) - [plain]
 
 > Canta juntos con tus artistas favoritos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,758 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,764 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZH1IszRUbkn.md) - [plain]
 | 35 | [Canción de las Brujas \- Remasterizado](https://open.spotify.com/track/6ybGIJN1T8O7XtUMhG5r83) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [Las 100 Clásicas de Cri Cri Vol\. 1](https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13) | 3:16 |
 | 36 | [Sana, Sana, Colita de Rana](https://open.spotify.com/track/26cHBaPyFGH2lhtdaq4Dz1) | [Payasitas Nifu Nifa](https://open.spotify.com/artist/3p8aW7ByUTuXOA7RI9A10T) | [Entre Ayer y Hoy](https://open.spotify.com/album/69JFGFoQLfiVaQaPfduFet) | 2:27 |
 | 37 | [Un Nuevo Viaje](https://open.spotify.com/track/0amtQOumjJeGVMVbnq6EMl) | [Elenco Junior Express](https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h), [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Junior Express \- Grandes Éxitos](https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG) | 2:04 |
-| 38 | [Ritmo Robótico](https://open.spotify.com/track/4zywwK3a4ATbKfHQX1dMdV) | [Maria Gabriela de Faria](https://open.spotify.com/artist/7LpAjUpIbi5plngbkXLiKv) | [Yo Soy Franky \(Música Original de la Serie\)](https://open.spotify.com/album/4b1h8Ne7RKTyIpQ9WfWm8F) | 3:13 |
-| 39 | [Bajo El Mar](https://open.spotify.com/track/6woIpjACNI7t5p5ziGfl5t) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [We Love Disney \(Latino\)](https://open.spotify.com/album/2Aoj9UQGgww7hWnziqtFLo) | 4:10 |
+| 38 | [Bajo El Mar](https://open.spotify.com/track/6woIpjACNI7t5p5ziGfl5t) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [We Love Disney \(Latino\)](https://open.spotify.com/album/2Aoj9UQGgww7hWnziqtFLo) | 4:10 |
+| 39 | [Ritmo Robótico](https://open.spotify.com/track/4zywwK3a4ATbKfHQX1dMdV) | [Maria Gabriela de Faria](https://open.spotify.com/artist/7LpAjUpIbi5plngbkXLiKv) | [Yo Soy Franky \(Música Original de la Serie\)](https://open.spotify.com/album/4b1h8Ne7RKTyIpQ9WfWm8F) | 3:13 |
 | 40 | [La Bruja de Nueva York](https://open.spotify.com/track/7atPDraoeT4FjHRDM82VOr) | [Patylu](https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb) | [La Casita de Patylu](https://open.spotify.com/album/3xfTZePmvXmlPTlaUeDHuT) | 3:54 |
 | 41 | [Alibombo](https://open.spotify.com/track/4B2Oac5PIY1aVJ83rCIgce) | [Payasitas Nifu Nifa](https://open.spotify.com/artist/3p8aW7ByUTuXOA7RI9A10T) | [Alibombo](https://open.spotify.com/album/1jDS8IS5toJZ7g25gfqIHG) | 2:56 |
 | 42 | [Ser Mejor](https://open.spotify.com/track/3PEWgIGnnjN9klG2XqtSWq) | [Martina Stoessel](https://open.spotify.com/artist/55TFMHRuyFaYFEKYnqKbSL), [Jorge Blanco](https://open.spotify.com/artist/6MWKObDGDrI3jN3Q3d9dpD), [Pablo Espinosa](https://open.spotify.com/artist/7JOnYFbats5w0dEiHED2i4), [Mercedes Lambre](https://open.spotify.com/artist/6LIY7Ni8uMsuVOKZq4iNPh), [Lodovica Comello](https://open.spotify.com/artist/1vANzzDo9L1ZyCKJaYQQvq), [Candelaria Molfese](https://open.spotify.com/artist/3QHfoNHT7vrSZX2XatyEsy), [Samuel Nascmiento](https://open.spotify.com/artist/4tE054ScQH2W03Gq5YKMni), [Facundo Gambandé](https://open.spotify.com/artist/2yB4FfJdqlQ4UGVuZNTemG), [Alba Rico](https://open.spotify.com/artist/0OHS4qaEImZPoGt9TRuhFf), [Simone Lijoi](https://open.spotify.com/artist/5tD8SBQnGPlf17OgSD8mFw), [Rodrigo Velilla](https://open.spotify.com/artist/625j5WP6f7bEtBOu0StmKv), [Nick Garnier](https://open.spotify.com/artist/22FTF2sRe1pNWQKrotCSRy) | [Violetta: En Mi Mundo \(Songs from Season 1 / Original Television Soundtrack\)](https://open.spotify.com/album/6BwVuKWzmMYqQv5rubdHEo) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZH1IszRUbkn.md) - [plain]
 | 49 | [Sana Sana](https://open.spotify.com/track/3Lp1uOs9bgSDV4UtxSnqBF) | [Patylu](https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb) | [Miss Patylu Vol\. 2](https://open.spotify.com/album/7EEXPQpy2rAwofhzj8FZ4U) | 2:32 |
 | 50 | [El Zapatero](https://open.spotify.com/track/77rZyXXSmwMw5GVpQHw4vd) | [CantaJuego](https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe) | [Un Mundo De Canciones](https://open.spotify.com/album/36XYzswEBwXqGIjawO5juU) | 1:43 |
 
-Snapshot ID: `MCxjNzEwNjAxNDgxNjgyNzBkYTJiYzZjMDZmNzYyMGI0OTMyMGI2YzFj`
+Snapshot ID: `MCxhYzQ4NmE0MTgzMjc5NWFkZWZjMDY1NDhiZTJlMWU1ZWQwNThkZjU2`

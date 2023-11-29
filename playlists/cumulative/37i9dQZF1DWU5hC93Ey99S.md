@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-336 songs - 18 hr 23 min
+337 songs - 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Let's Go \- VisionV Remix](https://open.spotify.com/track/0104sIQMZgxXypN1oYEA0e) | [Prok & Fitch](https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys), [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf), [FLY BOY JACK](https://open.spotify.com/artist/35GAPh9jdXm4l3KLXCBQFJ) | [Let's Go \(VisionV Remix\)](https://open.spotify.com/album/6t5iHYyCKEUlz9CqdpossF) | 2:29 | 2023-11-02 |  |
 | [let’s end it](https://open.spotify.com/track/52tlJzalr0InyauY1TGBfV) | [Ukiyo](https://open.spotify.com/artist/0Geqa2iYzhQA5oVKUWuu0x), [Ūla](https://open.spotify.com/artist/47NHOjhVH9I5BO31wxwpt8), [henri](https://open.spotify.com/artist/7nJ5r6Up446alyOTy7Umsf) | [let's end it](https://open.spotify.com/album/7xTS4LeLQdd9NkIHAxQJjs) | 2:58 | 2023-09-07 |  |
 | [Liana](https://open.spotify.com/track/4m1BbY9mE352gfAVNa9Idz) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY), [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Sunblind](https://open.spotify.com/album/4EN8YMJK0uaD5yfkhg6aNS) | 4:24 | 2023-06-08 |  |
+| [life gets hard](https://open.spotify.com/track/3acsNhkPp9gHSsamIsw0xO) | [iilliaa](https://open.spotify.com/artist/3XDX6PbRtAzovlF2DnoT5F) | [life gets hard](https://open.spotify.com/album/5u6aeRDXBKNwJxKSUcykEj) | 2:05 | 2023-11-28 |  |
 | [Limes](https://open.spotify.com/track/7Fk3cnNt5gzDevwKx5YSlR) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Limes](https://open.spotify.com/album/79Z5ntwuiqHyTrxy8c5sGz) | 3:15 | 2023-06-15 |  |
 | [Little Planets \- Remix](https://open.spotify.com/track/0kfNu4qJOo7vgRWDCnMiBa) | [RIZ LA VIE](https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k), [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN) | [Little Planets \- Remix](https://open.spotify.com/album/1jyr9byDQASsa5aR5oQbqg) | 4:00 | 2023-04-21 |  |
 | [Little Wing \- George FitzGerald Remix](https://open.spotify.com/track/3rhPZdw2c8MiFnTQ6xNwD5) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg), [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Little Wing \(George FitzGerald Remix\)](https://open.spotify.com/album/3nb11vQXFtfLxRqvJ278Bx) | 4:19 | 2023-11-09 |  |

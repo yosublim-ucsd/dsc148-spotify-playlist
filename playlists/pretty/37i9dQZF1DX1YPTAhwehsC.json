@@ -1,12 +1,12 @@
 {
   "description": "Up and down I-95. Cover: Lola Brooke",
-  "num_followers": 454449,
+  "num_followers": 454473,
   "original_name": "State of Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZGM5YThiYjgxODIzMzljYjM5NzU2NjMyODYxMzliZjgxNmY4MDI2",
+  "snapshot_id": "MCxhYjMxNzQ2YWM1NjJkYmM0OTM1NTgzMDU0YjI2MDcwYTU5MWRmMzUx",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -483,7 +483,7 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "BREATHE.",
+        "name": "BREATHE. freestyle",
         "url": "https://open.spotify.com/album/7aaruiZiAzYf7gLW86WhKT"
       },
       "artists": [
@@ -493,7 +493,7 @@
         }
       ],
       "duration_ms": 146229,
-      "name": "BREATHE.",
+      "name": "BREATHE. freestyle",
       "url": "https://open.spotify.com/track/3xKXBuxYNVTFPyNpYPHbOI"
     },
     {
@@ -1278,6 +1278,10 @@
         {
           "name": "Sdot Go",
           "url": "https://open.spotify.com/artist/73sV26yCMzpIeYxesG3jdV"
+        },
+        {
+          "name": "SweepersENT",
+          "url": "https://open.spotify.com/artist/3gQoRf2OOQucNCzox0TI9l"
         }
       ],
       "duration_ms": 122355,

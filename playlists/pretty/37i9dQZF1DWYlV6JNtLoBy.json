@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 3797,
+  "num_followers": 3820,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDUxM2Y3ZjhmZmZmNmQ2ZDA3MGU2ZjE5MDZkMWFkMjcwYTgyYWM0",
+  "snapshot_id": "MCxlNjc0NDZjNmE0ZWQ0ZGVhNTdlNmNiMzRiMjgyNmU4YTEyYThkMGQ3",
   "tracks": [
     {
       "added_at": "2023-11-17 00:01:00",
@@ -399,18 +399,18 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Uko Wapi Mungu",
-        "url": "https://open.spotify.com/album/3mFFb1dNZLjxLWNNTjaqW0"
+        "name": "Shusha Nyavu",
+        "url": "https://open.spotify.com/album/2Tlcxf4JXImZRqiNnYCDKt"
       },
       "artists": [
         {
-          "name": "William Yilima",
-          "url": "https://open.spotify.com/artist/2DTRhfclXLK7d9FYyuWda0"
+          "name": "Christina Shusho",
+          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
         }
       ],
-      "duration_ms": 142996,
-      "name": "Yesu Nitie Nguvu",
-      "url": "https://open.spotify.com/track/6ei3elKMjid5GSnWAXwS6q"
+      "duration_ms": 226866,
+      "name": "Shusha Nyavu",
+      "url": "https://open.spotify.com/track/4OWverqpwi4P1BstWOjlS1"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -431,6 +431,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "Uko Wapi Mungu",
+        "url": "https://open.spotify.com/album/3mFFb1dNZLjxLWNNTjaqW0"
+      },
+      "artists": [
+        {
+          "name": "William Yilima",
+          "url": "https://open.spotify.com/artist/2DTRhfclXLK7d9FYyuWda0"
+        }
+      ],
+      "duration_ms": 142996,
+      "name": "Yesu Nitie Nguvu",
+      "url": "https://open.spotify.com/track/6ei3elKMjid5GSnWAXwS6q"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Another Miracle",
         "url": "https://open.spotify.com/album/2DtdcUoZzFKJBFx5qaHRsU"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 212869,
       "name": "Another Miracle",
       "url": "https://open.spotify.com/track/6KzOfBQbzxEZEpUKzJVDtG"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Shusha Nyavu",
-        "url": "https://open.spotify.com/album/2Tlcxf4JXImZRqiNnYCDKt"
-      },
-      "artists": [
-        {
-          "name": "Christina Shusho",
-          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
-        }
-      ],
-      "duration_ms": 226866,
-      "name": "Shusha Nyavu",
-      "url": "https://open.spotify.com/track/4OWverqpwi4P1BstWOjlS1"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -499,6 +499,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "AMENIWEKA HURU KWELI (Nyimbo za wokovu) ALBUM 2",
+        "url": "https://open.spotify.com/album/5kBT5i8KJqCS9ka4RwEAKu"
+      },
+      "artists": [
+        {
+          "name": "Papi Clever & Dorcas",
+          "url": "https://open.spotify.com/artist/0BuyM2PAaY1aqSqvYkV26J"
+        }
+      ],
+      "duration_ms": 398000,
+      "name": "Ameniweka huru kweli",
+      "url": "https://open.spotify.com/track/6TxbYqlgD57ftgtbZh7cw9"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Tawala",
         "url": "https://open.spotify.com/album/2SvM1aj4W4cHTwdSuTyHQs"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 186720,
       "name": "Tawala",
       "url": "https://open.spotify.com/track/6dvk6TqiOxnkLL3T7zkup5"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "AMENIWEKA HURU KWELI (Nyimbo za wokovu) ALBUM 2",
-        "url": "https://open.spotify.com/album/5kBT5i8KJqCS9ka4RwEAKu"
-      },
-      "artists": [
-        {
-          "name": "Papi Clever & Dorcas",
-          "url": "https://open.spotify.com/artist/0BuyM2PAaY1aqSqvYkV26J"
-        }
-      ],
-      "duration_ms": 398000,
-      "name": "Ameniweka huru kweli",
-      "url": "https://open.spotify.com/track/6TxbYqlgD57ftgtbZh7cw9"
     },
     {
       "added_at": "2023-11-17 00:01:00",

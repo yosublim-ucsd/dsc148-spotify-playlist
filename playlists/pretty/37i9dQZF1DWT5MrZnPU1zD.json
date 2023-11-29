@@ -1,12 +1,12 @@
 {
   "description": "Pass the sticks & press play. ",
-  "num_followers": 1677922,
+  "num_followers": 1677990,
   "original_name": "Hip Hop Controller",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTA3ZGVmZjQ1NmVhNzQ5NjQwOGIyYjA3MGNlMmJmODYwNWRlNWU0",
+  "snapshot_id": "MCwyODgwZjAwOTE2MTZlNDI2ODI4YzdhNzU0NTdlODE3NzM1ODYwYjBm",
   "tracks": [
     {
       "added_at": "2023-11-24 05:00:00",
@@ -111,7 +111,7 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "02 Lakers",
+        "name": "'02 Lakers",
         "url": "https://open.spotify.com/album/1WMj2AxZuuDQdHo3qFDMe9"
       },
       "artists": [
@@ -124,8 +124,8 @@
           "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
         }
       ],
-      "duration_ms": 163000,
-      "name": "02 Lakers",
+      "duration_ms": 163715,
+      "name": "'02 Lakers",
       "url": "https://open.spotify.com/track/0LXrihCLToJ1l9HlIufKSA"
     },
     {
@@ -575,30 +575,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Peaches & Eggplants (feat. Latto & Sexyy Red)",
-        "url": "https://open.spotify.com/album/3v9a1PtWXE5NopNCeaw1sj"
-      },
-      "artists": [
-        {
-          "name": "Young Nudy",
-          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 217213,
-      "name": "Peaches & Eggplants (feat. Latto & Sexyy Red)",
-      "url": "https://open.spotify.com/track/1BmI4EYdfzbg8DlV6pHYrY"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Lonestar Luchador",
         "url": "https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK"
       },
@@ -619,6 +595,30 @@
       "duration_ms": 185736,
       "name": "Hit List (with BigXthaPlug & Big Yavo)",
       "url": "https://open.spotify.com/track/6tiYQ631gOeBb2jCtaIs0R"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Peaches & Eggplants (feat. Latto & Sexyy Red)",
+        "url": "https://open.spotify.com/album/3v9a1PtWXE5NopNCeaw1sj"
+      },
+      "artists": [
+        {
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 217213,
+      "name": "Peaches & Eggplants (feat. Latto & Sexyy Red)",
+      "url": "https://open.spotify.com/track/1BmI4EYdfzbg8DlV6pHYrY"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -751,26 +751,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "MVP (feat. G-Eazy)",
-        "url": "https://open.spotify.com/album/4pyhYSKl4jBqkemyG94DSG"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "G-Eazy",
-          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
-        }
-      ],
-      "duration_ms": 173948,
-      "name": "MVP (feat. G-Eazy)",
-      "url": "https://open.spotify.com/track/3iRCr53b2ZOvoKMTNvBn5d"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Off The Court (with Polo G & Einer Bankz)",
         "url": "https://open.spotify.com/album/6yfMPQTVVXzc2Q5h0gCFiL"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 193937,
       "name": "Off The Court (with Polo G & Einer Bankz)",
       "url": "https://open.spotify.com/track/1o8NmBVhT1PeADJhmAi7vZ"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "MVP (feat. G-Eazy)",
+        "url": "https://open.spotify.com/album/4pyhYSKl4jBqkemyG94DSG"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        }
+      ],
+      "duration_ms": 173948,
+      "name": "MVP (feat. G-Eazy)",
+      "url": "https://open.spotify.com/track/3iRCr53b2ZOvoKMTNvBn5d"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Go Again",
-        "url": "https://open.spotify.com/album/7AkY91byYrxUdKHrK4PBdP"
-      },
-      "artists": [
-        {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
-        }
-      ],
-      "duration_ms": 154818,
-      "name": "Go Again",
-      "url": "https://open.spotify.com/track/0Yn7YAYQVEtOZYJDhRN1Le"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "222",
         "url": "https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 146966,
       "name": "Bla Bla (feat. Fivio Foreign)",
       "url": "https://open.spotify.com/track/1xHcIJHIHwr2PUyTmFTWTy"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Go Again",
+        "url": "https://open.spotify.com/album/7AkY91byYrxUdKHrK4PBdP"
+      },
+      "artists": [
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        }
+      ],
+      "duration_ms": 154818,
+      "name": "Go Again",
+      "url": "https://open.spotify.com/track/0Yn7YAYQVEtOZYJDhRN1Le"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1003,22 +1003,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Pain Talk (feat. Lil Tjay)",
-        "url": "https://open.spotify.com/album/5Adus949FUrddWzqZ5SFxZ"
+        "name": "Jenn Jenn Jenn",
+        "url": "https://open.spotify.com/album/6WjpdxDbIidSJuY2Z4yjMg"
       },
       "artists": [
         {
-          "name": "Sleepy Hallow",
-          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
-        },
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
         }
       ],
-      "duration_ms": 156821,
-      "name": "Pain Talk (feat. Lil Tjay)",
-      "url": "https://open.spotify.com/track/7soBkLenwWM7kB92cuyl04"
+      "duration_ms": 120917,
+      "name": "Jenn Jenn Jenn",
+      "url": "https://open.spotify.com/track/09A7OM0R7yazApSFe0v1SA"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1035,6 +1031,26 @@
       "duration_ms": 179612,
       "name": "Get Lucki",
       "url": "https://open.spotify.com/track/2Lesv91L9paVZjIPpu0jx6"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Pain Talk (feat. Lil Tjay)",
+        "url": "https://open.spotify.com/album/5Adus949FUrddWzqZ5SFxZ"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 156821,
+      "name": "Pain Talk (feat. Lil Tjay)",
+      "url": "https://open.spotify.com/track/7soBkLenwWM7kB92cuyl04"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1075,22 +1091,6 @@
       "duration_ms": 154466,
       "name": "Hellcat Kenny (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/5nYygW7bTgPOhckh3uDR9L"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Jenn Jenn Jenn",
-        "url": "https://open.spotify.com/album/6WjpdxDbIidSJuY2Z4yjMg"
-      },
-      "artists": [
-        {
-          "name": "41",
-          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
-        }
-      ],
-      "duration_ms": 120917,
-      "name": "Jenn Jenn Jenn",
-      "url": "https://open.spotify.com/track/09A7OM0R7yazApSFe0v1SA"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Presidential Rolex",
-        "url": "https://open.spotify.com/album/6cUKCvxOv3BrBRTeU5Qygx"
-      },
-      "artists": [
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        }
-      ],
-      "duration_ms": 148706,
-      "name": "Presidential Rolex",
-      "url": "https://open.spotify.com/track/23L1gQJjtlZMrZPZvluyQe"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Gun Class II (feat. Nardo Wick & G Herbo)",
         "url": "https://open.spotify.com/album/3PqUw83PcGYn3g8pTJod9y"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 229035,
       "name": "Gun Class II (feat. Nardo Wick & G Herbo)",
       "url": "https://open.spotify.com/track/5maOp2FZomEiboxhl9yh2z"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Presidential Rolex",
+        "url": "https://open.spotify.com/album/6cUKCvxOv3BrBRTeU5Qygx"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 148706,
+      "name": "Presidential Rolex",
+      "url": "https://open.spotify.com/track/23L1gQJjtlZMrZPZvluyQe"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Murder & Millions",
+        "url": "https://open.spotify.com/album/5Rkqhaapzmtrpv09cdAHWg"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 150866,
+      "name": "Murder & Millions",
+      "url": "https://open.spotify.com/track/27RWVlCet2iZlGciBETorw"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Underrated (Remix) [feat. MoneySign Suede]",
         "url": "https://open.spotify.com/album/4ko5DEJGsyTMd9UAAYKNAT"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 128567,
       "name": "Robberies",
       "url": "https://open.spotify.com/track/6rQ9mLqGGyqGqqMkUbZBhb"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Murder & Millions",
-        "url": "https://open.spotify.com/album/5Rkqhaapzmtrpv09cdAHWg"
-      },
-      "artists": [
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        }
-      ],
-      "duration_ms": 150866,
-      "name": "Murder & Millions",
-      "url": "https://open.spotify.com/track/27RWVlCet2iZlGciBETorw"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1467,7 +1467,7 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "BREATHE.",
+        "name": "BREATHE. freestyle",
         "url": "https://open.spotify.com/album/7aaruiZiAzYf7gLW86WhKT"
       },
       "artists": [
@@ -1477,7 +1477,7 @@
         }
       ],
       "duration_ms": 146229,
-      "name": "BREATHE.",
+      "name": "BREATHE. freestyle",
       "url": "https://open.spotify.com/track/3xKXBuxYNVTFPyNpYPHbOI"
     },
     {
@@ -1523,26 +1523,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Big Pimpin' (feat. Luh Tyler)",
-        "url": "https://open.spotify.com/album/2IHCrJJ9tsoPZrmgh9Bbcb"
-      },
-      "artists": [
-        {
-          "name": "Rich The Kid",
-          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
-        },
-        {
-          "name": "Luh Tyler",
-          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
-        }
-      ],
-      "duration_ms": 123575,
-      "name": "Big Pimpin' (feat. Luh Tyler)",
-      "url": "https://open.spotify.com/track/2Wu8DmMeHBpsPPom0fEKpS"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Walk",
         "url": "https://open.spotify.com/album/7oaVAnz4knG0hU6oRJGcC9"
       },
@@ -1559,6 +1539,26 @@
       "duration_ms": 124965,
       "name": "Walk",
       "url": "https://open.spotify.com/track/725UfuWEXWg0C7PCqP8HIz"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Big Pimpin' (feat. Luh Tyler)",
+        "url": "https://open.spotify.com/album/2IHCrJJ9tsoPZrmgh9Bbcb"
+      },
+      "artists": [
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        },
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "duration_ms": 123575,
+      "name": "Big Pimpin' (feat. Luh Tyler)",
+      "url": "https://open.spotify.com/track/2Wu8DmMeHBpsPPom0fEKpS"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1675,22 +1675,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Chops on the Blade",
-        "url": "https://open.spotify.com/album/1W8rO7SBVNsjB2v197I0bk"
+        "name": "Everything Dead",
+        "url": "https://open.spotify.com/album/194pYj4CXWWsNUS8LMIWeO"
       },
       "artists": [
         {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        },
-        {
-          "name": "Cardo",
-          "url": "https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p"
+          "name": "22Gz",
+          "url": "https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz"
         }
       ],
-      "duration_ms": 212154,
-      "name": "Chops on the Blade",
-      "url": "https://open.spotify.com/track/74Fqn1olHLrMlL6deu4ExE"
+      "duration_ms": 203851,
+      "name": "Everything Dead",
+      "url": "https://open.spotify.com/track/3nL3bZOWuFBbH4KKaWW1Vq"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1715,18 +1711,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Everything Dead",
-        "url": "https://open.spotify.com/album/194pYj4CXWWsNUS8LMIWeO"
+        "name": "Chops on the Blade",
+        "url": "https://open.spotify.com/album/1W8rO7SBVNsjB2v197I0bk"
       },
       "artists": [
         {
-          "name": "22Gz",
-          "url": "https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz"
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "Cardo",
+          "url": "https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p"
         }
       ],
-      "duration_ms": 203851,
-      "name": "Everything Dead",
-      "url": "https://open.spotify.com/track/3nL3bZOWuFBbH4KKaWW1Vq"
+      "duration_ms": 212154,
+      "name": "Chops on the Blade",
+      "url": "https://open.spotify.com/track/74Fqn1olHLrMlL6deu4ExE"
     },
     {
       "added_at": "2023-11-24 05:00:00",

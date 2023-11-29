@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: \u30aa\u30e1\u3067\u305f\u3044\u982d\u3067\u306a\u306b\u3088\u308a",
+  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: FZMZ",
   "name": "Loud Rock Japan",
   "tracks": [
     {
@@ -96,6 +96,24 @@
       "duration_ms": 227225,
       "name": "APEX",
       "url": "https://open.spotify.com/track/7CTA1vdVYwHsIwOMvOkEhE"
+    },
+    {
+      "album": {
+        "name": "INVISIBRUISE",
+        "url": "https://open.spotify.com/album/3GdBp0u3VxTTbGPvaAF7Q4"
+      },
+      "artists": [
+        {
+          "name": "ulma sound junction",
+          "url": "https://open.spotify.com/artist/3h5skAdoPngCgx42LEYnse"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337400,
+      "name": "Appetite",
+      "url": "https://open.spotify.com/track/0LPIIylUH5sd4dmV2RgoVT"
     },
     {
       "album": {
@@ -576,7 +594,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 207425,
       "name": "Dive in Your Faith",
       "url": "https://open.spotify.com/track/0pzu9pwttcFnbx822XA9xx"
@@ -1639,6 +1657,24 @@
     },
     {
       "album": {
+        "name": "MIKIWAMERU",
+        "url": "https://open.spotify.com/album/2uZkqijWQcsqiV1m3FSewT"
+      },
+      "artists": [
+        {
+          "name": "AFTER SQUALL",
+          "url": "https://open.spotify.com/artist/6NmGshcGuIkxttVAsEu8Ns"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138959,
+      "name": "MIKIWAMERU",
+      "url": "https://open.spotify.com/track/6ilifMatZrABZiTkDMsVXv"
+    },
+    {
+      "album": {
         "name": "THE OTHER ONE",
         "url": "https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t"
       },
@@ -2628,7 +2664,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 120200,
       "name": "STAY GOLD",
       "url": "https://open.spotify.com/track/1YOjTz7D3IdqkxyAUUArLR"

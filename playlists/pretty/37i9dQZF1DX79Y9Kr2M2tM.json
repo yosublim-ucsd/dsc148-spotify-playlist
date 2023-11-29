@@ -1,12 +1,12 @@
 {
   "description": "Float away on heady orchestrations and haunting harmonies...",
-  "num_followers": 845707,
+  "num_followers": 845760,
   "original_name": "Chill + Atmospheric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjI4MjY4MjI0OWUxNjY5ZmZjMTA4MTQwZjZjZmY2OGNhYTIwYTNj",
+  "snapshot_id": "MCw4NzY5MmVkYzRhMDI2ODQxM2UyNGNlMDlkYWJhZjkyMzhiZTIzMDc4",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "White Water",
-        "url": "https://open.spotify.com/album/4yZll8f1nGx4qpqKMLe87V"
-      },
-      "artists": [
-        {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
-        }
-      ],
-      "duration_ms": 233391,
-      "name": "White Water",
-      "url": "https://open.spotify.com/track/5dmrLolEgTr4TT0AhOxk5x"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "notre dame",
         "url": "https://open.spotify.com/album/6FG85HWGBfk6AbHszOjuSN"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 258430,
       "name": "notre dame",
       "url": "https://open.spotify.com/track/4ni2PRjuIORNFXvWB74SqX"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "White Water",
+        "url": "https://open.spotify.com/album/4yZll8f1nGx4qpqKMLe87V"
+      },
+      "artists": [
+        {
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+        }
+      ],
+      "duration_ms": 233391,
+      "name": "White Water",
+      "url": "https://open.spotify.com/track/5dmrLolEgTr4TT0AhOxk5x"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "The Way Back Home",
-        "url": "https://open.spotify.com/album/1UpWcCKM40cIfTaDY38eFY"
-      },
-      "artists": [
-        {
-          "name": "Aisha Badru",
-          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
-        }
-      ],
-      "duration_ms": 214361,
-      "name": "The Way Back Home",
-      "url": "https://open.spotify.com/track/3PTsvzTENG4jREGGQz9xpb"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Ancient Transition",
         "url": "https://open.spotify.com/album/1ybYkyaTa4UKK38JnMXAJl"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 244120,
       "name": "Our Remains",
       "url": "https://open.spotify.com/track/3GLMvFjzOgJ3XGphEEVEPv"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "The Way Back Home",
+        "url": "https://open.spotify.com/album/1UpWcCKM40cIfTaDY38eFY"
+      },
+      "artists": [
+        {
+          "name": "Aisha Badru",
+          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
+        }
+      ],
+      "duration_ms": 214361,
+      "name": "The Way Back Home",
+      "url": "https://open.spotify.com/track/3PTsvzTENG4jREGGQz9xpb"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Open Season (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4F5s7tDOWFCgozxJg0o8Rw"
-      },
-      "artists": [
-        {
-          "name": "High Highs",
-          "url": "https://open.spotify.com/artist/1cXVTtkpqSXVhyD32f9MS4"
-        }
-      ],
-      "duration_ms": 150521,
-      "name": "Bridge",
-      "url": "https://open.spotify.com/track/2HLd7alxKkXHU2KmbGUUVm"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Far Out Dust",
         "url": "https://open.spotify.com/album/6Pq4CLiQkjVfgAESIa8dKG"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 190160,
       "name": "To Each His Own",
       "url": "https://open.spotify.com/track/4r4APlZYwRDLt0m91auppo"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Open Season (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4F5s7tDOWFCgozxJg0o8Rw"
+      },
+      "artists": [
+        {
+          "name": "High Highs",
+          "url": "https://open.spotify.com/artist/1cXVTtkpqSXVhyD32f9MS4"
+        }
+      ],
+      "duration_ms": 150521,
+      "name": "Bridge",
+      "url": "https://open.spotify.com/track/2HLd7alxKkXHU2KmbGUUVm"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Hanging",
-        "url": "https://open.spotify.com/album/5eUMYmDc1TKLZW7NSEafUz"
-      },
-      "artists": [
-        {
-          "name": "Marika Hackman",
-          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
-        }
-      ],
-      "duration_ms": 233680,
-      "name": "Hanging",
-      "url": "https://open.spotify.com/track/6khrKsm3I0OJb4WB5Ogs2j"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Permanent Way",
         "url": "https://open.spotify.com/album/2J69Mui7i12K8FNQDDKA9p"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 212826,
       "name": "Bite",
       "url": "https://open.spotify.com/track/3K8puYhgILDNgQL3IfGFGw"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Hanging",
+        "url": "https://open.spotify.com/album/5eUMYmDc1TKLZW7NSEafUz"
+      },
+      "artists": [
+        {
+          "name": "Marika Hackman",
+          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+        }
+      ],
+      "duration_ms": 233680,
+      "name": "Hanging",
+      "url": "https://open.spotify.com/track/6khrKsm3I0OJb4WB5Ogs2j"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Uranium Heart",
-        "url": "https://open.spotify.com/album/0XLCfcLsv31oEwcvEDC8v6"
-      },
-      "artists": [
-        {
-          "name": "Highasakite",
-          "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
-        }
-      ],
-      "duration_ms": 166291,
-      "name": "Stick with You",
-      "url": "https://open.spotify.com/track/6TZ9adRRarZhhfzBD1b4GF"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Heavy",
         "url": "https://open.spotify.com/album/4nZA7fWo4mVBvOaTjgX4AV"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 181200,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/6CnXcjsNmdzh5aUfnxgcQb"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Uranium Heart",
+        "url": "https://open.spotify.com/album/0XLCfcLsv31oEwcvEDC8v6"
+      },
+      "artists": [
+        {
+          "name": "Highasakite",
+          "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
+        }
+      ],
+      "duration_ms": 166291,
+      "name": "Stick with You",
+      "url": "https://open.spotify.com/track/6TZ9adRRarZhhfzBD1b4GF"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1551,22 +1551,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Rolling Thunder",
-        "url": "https://open.spotify.com/album/1OfUQjs3de9iU5C2bYbmYc"
+        "name": "Orbit",
+        "url": "https://open.spotify.com/album/7JDJYXq99Jd9kUYAtsfK5u"
       },
       "artists": [
         {
-          "name": "Alberta Cross",
-          "url": "https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq"
-        },
-        {
-          "name": "L'aupaire",
-          "url": "https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE"
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
         }
       ],
-      "duration_ms": 241785,
-      "name": "Rolling Thunder",
-      "url": "https://open.spotify.com/track/4h6unbwOKDPWeSizNav2nd"
+      "duration_ms": 233238,
+      "name": "Society",
+      "url": "https://open.spotify.com/track/5BQZpjCcPmFSeLzTh48Zfc"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1607,18 +1603,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Orbit",
-        "url": "https://open.spotify.com/album/7JDJYXq99Jd9kUYAtsfK5u"
+        "name": "Rolling Thunder",
+        "url": "https://open.spotify.com/album/1OfUQjs3de9iU5C2bYbmYc"
       },
       "artists": [
         {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+          "name": "Alberta Cross",
+          "url": "https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq"
+        },
+        {
+          "name": "L'aupaire",
+          "url": "https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE"
         }
       ],
-      "duration_ms": 233238,
-      "name": "Society",
-      "url": "https://open.spotify.com/track/5BQZpjCcPmFSeLzTh48Zfc"
+      "duration_ms": 241785,
+      "name": "Rolling Thunder",
+      "url": "https://open.spotify.com/track/4h6unbwOKDPWeSizNav2nd"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Saving Us a Riot",
-        "url": "https://open.spotify.com/album/1iT3Cml6HMAth8Cn9ZRCAz"
+        "name": "Pendulum",
+        "url": "https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE"
       },
       "artists": [
         {
-          "name": "Phoria",
-          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
+          "name": "Aisha Badru",
+          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
         }
       ],
-      "duration_ms": 256765,
-      "name": "Saving Us a Riot",
-      "url": "https://open.spotify.com/track/2n1mukIntnIGBzhf8Ifkr2"
+      "duration_ms": 226946,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/40IjsPrABIjZ7m05H5zTZU"
     }
   ],
   "unique_name": "Chill + Atmospheric",

@@ -4,7 +4,7 @@
 
 > Rock songs that get down and dirty\. Cover: Dirty Honey
 
-296 songs - 17 hr 23 min
+297 songs - 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Don't Wanna Fight](https://open.spotify.com/track/4gm6JpO3YOcogcjdtPqHWK) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe\)](https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA) | 3:52 | 2022-06-17 | 2023-06-15 |
 | [Don't Wanna Fight](https://open.spotify.com/track/6q0lIjDSuZDhrg9GC9yUQO) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color](https://open.spotify.com/album/0GaYG9L1sXHQZZ7BTk0hGY) | 3:52 | 2022-10-07 |  |
 | [Done Me Wrong](https://open.spotify.com/track/6WbiHdSeLotq2C2VufkCAH) | [Tooth & Nail](https://open.spotify.com/artist/1RUOMVHWpkar3lkIFjdPXI) | [Done Me Wrong](https://open.spotify.com/album/4qQE2d3t8P4JflFVBiNiIQ) | 3:13 | 2020-12-11 | 2022-03-03 |
-| [Double Life](https://open.spotify.com/track/2ElpiEF3br7tvd5TYWYKHg) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Double Life](https://open.spotify.com/album/29PpL7dLCaCEaftO0FfJy7) | 2:23 | 2023-06-09 |  |
+| [Double Life](https://open.spotify.com/track/2ElpiEF3br7tvd5TYWYKHg) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Double Life](https://open.spotify.com/album/29PpL7dLCaCEaftO0FfJy7) | 2:23 | 2023-06-09 | 2023-11-29 |
 | [Down To The Bottom](https://open.spotify.com/track/5jddjli3YTIxueb3xFdLaA) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Down To The Bottom](https://open.spotify.com/album/6QRQuIulSyoqOlNGJGLkmG) | 2:32 | 2020-12-11 |  |
 | [Down to the Devil](https://open.spotify.com/track/1KqEnSyj7ZFUfN2HddUZMe) | [Naked Gypsy Queens](https://open.spotify.com/artist/3OrAxV2BbL9v6PvFpbGteS) | [Down to the Devil](https://open.spotify.com/album/08FkK7BlweOZ7PFct99fMo) | 3:26 | 2021-09-10 | 2022-07-29 |
 | [Down To The Devil](https://open.spotify.com/track/2hOB1WsQRTLgVxeXaz7F73) | [Naked Gypsy Queens](https://open.spotify.com/artist/3OrAxV2BbL9v6PvFpbGteS) | [Down to the Devil](https://open.spotify.com/album/0fEy0iCdOq34h6Ci3zvZVv) | 3:26 | 2022-06-17 | 2023-06-10 |
@@ -187,6 +187,7 @@
 | [New Religion](https://open.spotify.com/track/0qbZvLGXmGCgnjPmCzApBb) | [MARGARET WHO](https://open.spotify.com/artist/4MK9YwLEBXVuWpc4vwfwld) | [Volume One](https://open.spotify.com/album/4eh59alwAr94nFWOa3mhJN) | 3:04 | 2022-06-17 | 2023-06-10 |
 | [New Religion](https://open.spotify.com/track/12bROaJdDuPuuhyXKepRSr) | [Migrant Motel](https://open.spotify.com/artist/0T63uYYYnOxOXV7bDF0K0G) | [New Religion](https://open.spotify.com/album/39rnzI5FiH4GEPk9vQlHKS) | 3:04 | 2022-10-07 | 2022-11-13 |
 | [New Religion](https://open.spotify.com/track/2J4QIV77CWoIWN6IY2u6pC) | [Migrant Motel](https://open.spotify.com/artist/0T63uYYYnOxOXV7bDF0K0G) | [New Religion](https://open.spotify.com/album/1j5F4zP1ri1X9Qk89iMqDo) | 3:04 | 2020-12-11 | 2022-07-29 |
+| [Night People](https://open.spotify.com/track/0deuG8hdDyPJCsT3qovhF0) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Night People](https://open.spotify.com/album/1snS7GPKcsbRHihG1ug2VN) | 3:03 | 2023-09-22 |  |
 | [Night People](https://open.spotify.com/track/3MHQIhSrgQsFYLo6JLioDX) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Night People](https://open.spotify.com/album/5eBbhy3VsZGEO4objsrmZg) | 3:03 | 2020-12-11 | 2023-06-10 |
 | [No One Knows](https://open.spotify.com/track/6NvRxjfYkkT2SpirAlmsjH) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk) | 4:38 | 2020-12-11 |  |
 | [No Retreat](https://open.spotify.com/track/4Ah9x6y0X02TeazteMaypU) | [Joe Marson](https://open.spotify.com/artist/4nFQ7IhLVK3MsKRjhq9LKi) | [No Retreat](https://open.spotify.com/album/0UVZOcERtsgpRdeiFSAbMu) | 2:39 | 2022-06-17 | 2023-06-10 |

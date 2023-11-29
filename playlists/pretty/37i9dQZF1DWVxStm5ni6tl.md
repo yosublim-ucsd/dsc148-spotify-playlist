@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: Rau\_Ze, Artwork by: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,973 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,004 likes - 74 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,21 +67,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 57 | [What Could Have Been](https://open.spotify.com/track/5aihMYumtw4KvURBQVfOiV) | [Ashleigh Ball](https://open.spotify.com/artist/1rJcBvUoAMPLfQN0ua01ZA) | [What Could Have Been](https://open.spotify.com/album/4OiynJspw8chYKKuwvCnTx) | 3:38 |
 | 58 | [BODY CAN'T LIE](https://open.spotify.com/track/5VUU5lyaTnxLbJqSZ4BKiS) | [Joéllen](https://open.spotify.com/artist/2y7cvgbbpRXy36T223ujdf) | [BODY CAN'T LIE](https://open.spotify.com/album/68BwvNBTHqF495u9xfBJkG) | 2:36 |
 | 59 | [Middle Finger U](https://open.spotify.com/track/0OAl5q0HM51nRXoCC4kGvr) | [K\-Riz](https://open.spotify.com/artist/7taGhYCU1crVeYfrKhWF50), [Fatrok](https://open.spotify.com/artist/5uDcCKsxD3fxrKVDDY4oO1) | [One Way Ticket](https://open.spotify.com/album/2zRa1QCfkwCA15PnQ3fVUV) | 3:08 |
-| 60 | [FLEX](https://open.spotify.com/track/0UUJciUQTEV7tJHNwoQ6ga) | [Evrlove Blake](https://open.spotify.com/artist/2bg0BygaO3zYZbuA4ExCa0) | [FLEX](https://open.spotify.com/album/233Tls33JGHwHIT53qjBs7) | 2:22 |
-| 61 | [Lose You \- A COLORS SHOW](https://open.spotify.com/track/3QfI3tTncp1CjYLMypO2vA) | [UNA MIA](https://open.spotify.com/artist/0wWj7u5D7ksVZp8qVuCuz0) | [Lose You \- A COLORS SHOW](https://open.spotify.com/album/3MmtbPCisizJovsDUBQ1md) | 3:19 |
-| 62 | [New Favorite](https://open.spotify.com/track/5SJXG5kzLdWgBwNG0IpCXj) | [Shaina Hayes](https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ) | [New Favorite](https://open.spotify.com/album/4923u4enjlvwTRTgYU9NTL) | 2:39 |
-| 63 | [karoshi](https://open.spotify.com/track/3yqGndHj0cRlzX0neZ7dE7) | [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA), [Sarahmée](https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX) | [karoshi](https://open.spotify.com/album/0kvlVr56tiWquP16l0rEAY) | 2:42 |
-| 64 | [Full Disclosure](https://open.spotify.com/track/4z3t1gwu6S1fL3savELi6p) | [Patrick Thomas](https://open.spotify.com/artist/4XoQlBAwtqZx9FI5QCmJrK) | [Full Disclosure](https://open.spotify.com/album/6RFm0YpxA7ZgcnWjBllYIN) | 2:45 |
-| 65 | [222](https://open.spotify.com/track/0gv0tyqaOONXB6JhZsrXSb) | [pisceze](https://open.spotify.com/artist/3DmOaVvd5WgtShwcyetG3n) | [222](https://open.spotify.com/album/3HUtH5FxyIyU9hGEdV0VpY) | 2:22 |
-| 66 | [All Caps](https://open.spotify.com/track/3KD5AnJm4LlibbdykzcfzP) | [SERAPHINE NOIR](https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I), [Nona Shipov](https://open.spotify.com/artist/5TSx7SKUufxZFqkM0doMCG) | [All Caps](https://open.spotify.com/album/4uxPMaTY8REqjpiWJf0gKV) | 2:42 |
-| 67 | [Wait For Me](https://open.spotify.com/track/5fOh6JZEvLU8lUYbrV09CA) | [Nicholas Cangiano](https://open.spotify.com/artist/7dwVih1QdpLWuZ0OeslLcg) | [Wait For Me](https://open.spotify.com/album/4q5ADFTiRyKeDdhEPggUJE) | 3:20 |
-| 68 | [Sunshine](https://open.spotify.com/track/4IKWs2iy9PdCdbaooLWsnD) | [Daniel James McFadyen](https://open.spotify.com/artist/5MUdSu3xqIVIDS5TtJrEB9) | [Sunshine](https://open.spotify.com/album/3qa47MsRjugDfumTDNO7Iz) | 2:41 |
-| 69 | [i could get used to this](https://open.spotify.com/track/7FVzQzPPkLU9EUOBFy22O2) | [Matt Fasullo](https://open.spotify.com/artist/6bjTYkQrzFnqiwexAR0BZ4) | [i could get used to this](https://open.spotify.com/album/7fXdHrdQA9SCTWU39F73OM) | 2:41 |
-| 70 | [turn off the lights](https://open.spotify.com/track/6F7JKeDd9SL9TI7rhZb02x) | [Josh Sahunta](https://open.spotify.com/artist/37aXAbBndtjTPR4aUKumLV) | [turn off the lights](https://open.spotify.com/album/4MYagihFiyx0GTg39Wjp2R) | 4:45 |
-| 71 | [Kiss Me on the Floor](https://open.spotify.com/track/5wIBA1lYaBIrycozAWCqyI) | [Laraw](https://open.spotify.com/artist/7vxKZcJkulVyFjO6Bb1Pq1) | [Kiss Me on the Floor](https://open.spotify.com/album/4X7CbXtYH209XThPd3sdSr) | 2:54 |
-| 72 | [If I Ruled The World](https://open.spotify.com/track/2jAF5L7N4FFXwyhXahwBLl) | [KIN](https://open.spotify.com/artist/2uBHy8wdzJ8mmR4tBrGWrD) | [If I Ruled The World](https://open.spotify.com/album/0YJqX4VdKQFFYLKOdJOfrz) | 3:34 |
-| 73 | [Meant To Be Mine](https://open.spotify.com/track/6ggPmJzrm4LdUgDzePDUmp) | [Tayler Lynn](https://open.spotify.com/artist/6aRi0OGO9RZTZP7kw4QMqY) | [Meant To Be Mine](https://open.spotify.com/album/70jb35Xzf4ZqGtqkTsRh7z) | 2:41 |
-| 74 | [Vespa](https://open.spotify.com/track/1tvofafyM5hEmGf1fNpFcR) | [Chu T](https://open.spotify.com/artist/3gW3eiVlCnRJMKxPThZ1cP), [Loui Grandson](https://open.spotify.com/artist/1mwfJDaLaC3XZPrUuM1HnI) | [Vespa](https://open.spotify.com/album/6mp4LhcAFcBfrLo8FGKbqH) | 3:57 |
-| 75 | [Dopamine](https://open.spotify.com/track/0rBFiJwyHRTp5eSB4VvGtv) | [Drew Now](https://open.spotify.com/artist/2cgMhIxzVBb88R1XVfxnvV) | [Dopamine](https://open.spotify.com/album/3EsOOtKTr2miwR0WUJG2YE) | 2:29 |
+| 60 | [Lose You \- A COLORS SHOW](https://open.spotify.com/track/3QfI3tTncp1CjYLMypO2vA) | [UNA MIA](https://open.spotify.com/artist/0wWj7u5D7ksVZp8qVuCuz0) | [Lose You \- A COLORS SHOW](https://open.spotify.com/album/3MmtbPCisizJovsDUBQ1md) | 3:19 |
+| 61 | [New Favorite](https://open.spotify.com/track/5SJXG5kzLdWgBwNG0IpCXj) | [Shaina Hayes](https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ) | [New Favorite](https://open.spotify.com/album/4923u4enjlvwTRTgYU9NTL) | 2:39 |
+| 62 | [karoshi](https://open.spotify.com/track/3yqGndHj0cRlzX0neZ7dE7) | [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA), [Sarahmée](https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX) | [karoshi](https://open.spotify.com/album/0kvlVr56tiWquP16l0rEAY) | 2:42 |
+| 63 | [Full Disclosure](https://open.spotify.com/track/4z3t1gwu6S1fL3savELi6p) | [Patrick Thomas](https://open.spotify.com/artist/4XoQlBAwtqZx9FI5QCmJrK) | [Full Disclosure](https://open.spotify.com/album/6RFm0YpxA7ZgcnWjBllYIN) | 2:45 |
+| 64 | [222](https://open.spotify.com/track/0gv0tyqaOONXB6JhZsrXSb) | [pisceze](https://open.spotify.com/artist/3DmOaVvd5WgtShwcyetG3n) | [222](https://open.spotify.com/album/3HUtH5FxyIyU9hGEdV0VpY) | 2:22 |
+| 65 | [All Caps](https://open.spotify.com/track/3KD5AnJm4LlibbdykzcfzP) | [SERAPHINE NOIR](https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I), [Nona Shipov](https://open.spotify.com/artist/5TSx7SKUufxZFqkM0doMCG) | [All Caps](https://open.spotify.com/album/4uxPMaTY8REqjpiWJf0gKV) | 2:42 |
+| 66 | [Wait For Me](https://open.spotify.com/track/5fOh6JZEvLU8lUYbrV09CA) | [Nicholas Cangiano](https://open.spotify.com/artist/7dwVih1QdpLWuZ0OeslLcg) | [Wait For Me](https://open.spotify.com/album/4q5ADFTiRyKeDdhEPggUJE) | 3:20 |
+| 67 | [Sunshine](https://open.spotify.com/track/4IKWs2iy9PdCdbaooLWsnD) | [Daniel James McFadyen](https://open.spotify.com/artist/5MUdSu3xqIVIDS5TtJrEB9) | [Sunshine](https://open.spotify.com/album/3qa47MsRjugDfumTDNO7Iz) | 2:41 |
+| 68 | [i could get used to this](https://open.spotify.com/track/7FVzQzPPkLU9EUOBFy22O2) | [Matt Fasullo](https://open.spotify.com/artist/6bjTYkQrzFnqiwexAR0BZ4) | [i could get used to this](https://open.spotify.com/album/7fXdHrdQA9SCTWU39F73OM) | 2:41 |
+| 69 | [turn off the lights](https://open.spotify.com/track/6F7JKeDd9SL9TI7rhZb02x) | [Josh Sahunta](https://open.spotify.com/artist/37aXAbBndtjTPR4aUKumLV) | [turn off the lights](https://open.spotify.com/album/4MYagihFiyx0GTg39Wjp2R) | 4:45 |
+| 70 | [Kiss Me on the Floor](https://open.spotify.com/track/5wIBA1lYaBIrycozAWCqyI) | [Laraw](https://open.spotify.com/artist/7vxKZcJkulVyFjO6Bb1Pq1) | [Kiss Me on the Floor](https://open.spotify.com/album/4X7CbXtYH209XThPd3sdSr) | 2:54 |
+| 71 | [If I Ruled The World](https://open.spotify.com/track/2jAF5L7N4FFXwyhXahwBLl) | [KIN](https://open.spotify.com/artist/2uBHy8wdzJ8mmR4tBrGWrD) | [If I Ruled The World](https://open.spotify.com/album/0YJqX4VdKQFFYLKOdJOfrz) | 3:34 |
+| 72 | [Meant To Be Mine](https://open.spotify.com/track/6ggPmJzrm4LdUgDzePDUmp) | [Tayler Lynn](https://open.spotify.com/artist/6aRi0OGO9RZTZP7kw4QMqY) | [Meant To Be Mine](https://open.spotify.com/album/70jb35Xzf4ZqGtqkTsRh7z) | 2:41 |
+| 73 | [Vespa](https://open.spotify.com/track/1tvofafyM5hEmGf1fNpFcR) | [Chu T](https://open.spotify.com/artist/3gW3eiVlCnRJMKxPThZ1cP), [Loui Grandson](https://open.spotify.com/artist/1mwfJDaLaC3XZPrUuM1HnI) | [Vespa](https://open.spotify.com/album/6mp4LhcAFcBfrLo8FGKbqH) | 3:57 |
+| 74 | [Dopamine](https://open.spotify.com/track/0rBFiJwyHRTp5eSB4VvGtv) | [Drew Now](https://open.spotify.com/artist/2cgMhIxzVBb88R1XVfxnvV) | [Dopamine](https://open.spotify.com/album/3EsOOtKTr2miwR0WUJG2YE) | 2:29 |
 
-Snapshot ID: `MCxkOGNlNDgyY2ZlZWMyZDQ2NWRkNTQ0ZjgxYmVmNTVkMDM3N2FmNmZk`
+Snapshot ID: `MCw3NGUzNzA0ZDE3NTYyNTE0OGIzZWVjN2Q0OTM4YWU0OTI5NWI1Nzhm`

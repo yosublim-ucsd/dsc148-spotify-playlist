@@ -4,7 +4,7 @@
 
 > Le meilleur du rap français version cloud\. Photo : joysad
 
-303 songs - 15 hr 4 min
+304 songs - 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Audrey Tautou](https://open.spotify.com/track/0N4ETYavqM5JEM0h2nBN6t) | [Jwles](https://open.spotify.com/artist/4vbxtxqdkeHt1dICi63qs8) | [Audrey Tautou](https://open.spotify.com/album/49jnXKOUmeHnS4SZBm8IOU) | 2:34 | 2022-11-03 | 2023-01-13 |
 | [Aura](https://open.spotify.com/track/6qOuClqwGnHV9GSlp6zCJa) | [Tensei](https://open.spotify.com/artist/4l8e0PM8xxd2dbm74mGsQn) | [Aura](https://open.spotify.com/album/7khYQ0rYRwrJlkwvFtYggc) | 4:07 | 2023-10-05 | 2023-11-10 |
 | [Avant la fin \(feat\. Zamdane\)](https://open.spotify.com/track/19OckgD8qk3bmeT4xoJ3js) | [Gianni](https://open.spotify.com/artist/5W9ShLREoRMuXqSSYMeHqk), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [EXGZ 3](https://open.spotify.com/album/30B5XqJZhEp7nJutaeqqU3) | 3:21 | 2022-07-14 | 2023-03-25 |
-| [AVANT TOI](https://open.spotify.com/track/60ouY0tuiKBPMCP0iZStJS) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6) | [SUN7](https://open.spotify.com/album/77mTEOKxs8H61K4wZiJWFk) | 2:51 | 2023-07-06 |  |
+| [AVANT TOI](https://open.spotify.com/track/5x4cFSRsvdCdizLzK8FZXs) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6) | [SUN7](https://open.spotify.com/album/07IfuWJbMzAw6cTie8Wyu0) | 2:51 | 2023-11-23 |  |
+| [AVANT TOI](https://open.spotify.com/track/60ouY0tuiKBPMCP0iZStJS) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6) | [SUN7](https://open.spotify.com/album/77mTEOKxs8H61K4wZiJWFk) | 2:51 | 2023-07-06 | 2023-11-29 |
 | [AVERSE](https://open.spotify.com/track/08S6rWmtM6L4xPpSjhm1g7) | [Gemen](https://open.spotify.com/artist/38Ey7an6lpTlez98WKnAd2), [Tenma](https://open.spotify.com/artist/3MaO9kMKgKD4DjfZvlbbGf), [EDGE](https://open.spotify.com/artist/0ZCX1rGywF2LATUUCq0nOg) | [DRAGA](https://open.spotify.com/album/6L9UgtNjZj8Aukfeuexmqf) | 2:19 | 2023-05-25 | 2023-07-14 |
 | [Baby Mama](https://open.spotify.com/track/5ClOFvLqn08NldYWLqwbmw) | [Chany Z](https://open.spotify.com/artist/4w8X99AfTxbDYZ2KeTGNSH) | [Baby Mama](https://open.spotify.com/album/3XQQBuq63jACEfOek488cD) | 3:30 | 2023-04-27 | 2023-06-09 |
 | [Bataille \(Affamé \#18\)](https://open.spotify.com/track/61b4BnxFsR4RrhHBv1KZqz) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [Bataille \(Affamé \#18\)](https://open.spotify.com/album/5rynmiV67Wf1jp0dUazXFn) | 2:34 | 2023-04-06 | 2023-05-05 |

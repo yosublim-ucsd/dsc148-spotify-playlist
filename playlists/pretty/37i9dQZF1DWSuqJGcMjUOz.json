@@ -1,12 +1,12 @@
 {
   "description": "La liste de lecture officielle de l\u2019\u00e9dition 2023 des Francos de Montr\u00e9al!",
-  "num_followers": 3896,
+  "num_followers": 3897,
   "original_name": "Francos de Montr\u00e9al 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTdlMWQxMDJkMmFhNGVkNjQxOWZkMjdiODk5NDkxZjFlMTY3ODI4",
+  "snapshot_id": "MCw0MDg1NGE3ZGJiNTBhM2UyM2FjNTc4ZmFjODhjYjI0MjA1YjlmODVk",
   "tracks": [
     {
       "added_at": "2023-05-25 23:46:15",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Un trou dans les nuages",
-        "url": "https://open.spotify.com/album/1wLEC5NI6C2Cq4Ap4TpDKN"
-      },
-      "artists": [
-        {
-          "name": "Michel Rivard",
-          "url": "https://open.spotify.com/artist/6CVur2iw4ExLNmsSGiATZN"
-        }
-      ],
-      "duration_ms": 319840,
-      "name": "Je voudrais voir la mer",
-      "url": "https://open.spotify.com/track/49PbjFOCzUYDUbjUJxin8V"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Foufoune",
         "url": "https://open.spotify.com/album/6TbzA1mI1xWwcQwkprcE8I"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 147750,
       "name": "Foufoune",
       "url": "https://open.spotify.com/track/5GhXbPjtLjx1lxVFgNx4Y6"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Un trou dans les nuages",
+        "url": "https://open.spotify.com/album/1wLEC5NI6C2Cq4Ap4TpDKN"
+      },
+      "artists": [
+        {
+          "name": "Michel Rivard",
+          "url": "https://open.spotify.com/artist/6CVur2iw4ExLNmsSGiATZN"
+        }
+      ],
+      "duration_ms": 319840,
+      "name": "Je voudrais voir la mer",
+      "url": "https://open.spotify.com/track/49PbjFOCzUYDUbjUJxin8V"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Plan Large",
-        "url": "https://open.spotify.com/album/5BCdQbyzn2Od3LooHrOclF"
-      },
-      "artists": [
-        {
-          "name": "Glauque",
-          "url": "https://open.spotify.com/artist/1iZD9g4AQZNty8Z0TjBe1X"
-        }
-      ],
-      "duration_ms": 223186,
-      "name": "Plan Large",
-      "url": "https://open.spotify.com/track/3YZFGlIsPQafYIMJMR4UFI"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Waska Matisiwin",
         "url": "https://open.spotify.com/album/0Tm5Exm8H4m2L1HoojSWBG"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 118609,
       "name": "Wactenamaci - Illumine-moi",
       "url": "https://open.spotify.com/track/3gyVI0iEcLv4DPMHq1VXfX"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Plan Large",
+        "url": "https://open.spotify.com/album/5BCdQbyzn2Od3LooHrOclF"
+      },
+      "artists": [
+        {
+          "name": "Glauque",
+          "url": "https://open.spotify.com/artist/1iZD9g4AQZNty8Z0TjBe1X"
+        }
+      ],
+      "duration_ms": 223186,
+      "name": "Plan Large",
+      "url": "https://open.spotify.com/track/3YZFGlIsPQafYIMJMR4UFI"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "Tipatshimushtunan",
+        "url": "https://open.spotify.com/album/2s2VMACiBYgAJGC5DGEvTy"
+      },
+      "artists": [
+        {
+          "name": "Matiu",
+          "url": "https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE"
+        }
+      ],
+      "duration_ms": 245640,
+      "name": "40h semaine",
+      "url": "https://open.spotify.com/track/45CNy4u2YDVrIAssuOHowr"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Tiamat, Mon Amour",
         "url": "https://open.spotify.com/album/0Rh29AQkiNEw3wJNHC4Bzq"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 209559,
       "name": "Pas toi encore",
       "url": "https://open.spotify.com/track/4wOQ5zG7CD8wXRgQPnFYqG"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "Tipatshimushtunan",
-        "url": "https://open.spotify.com/album/2s2VMACiBYgAJGC5DGEvTy"
-      },
-      "artists": [
-        {
-          "name": "Matiu",
-          "url": "https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE"
-        }
-      ],
-      "duration_ms": 245640,
-      "name": "40h semaine",
-      "url": "https://open.spotify.com/track/45CNy4u2YDVrIAssuOHowr"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Soap Box",
-        "url": "https://open.spotify.com/album/3hm10jsgb47voscEXgHW2W"
-      },
-      "artists": [
-        {
-          "name": "Waahli",
-          "url": "https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI"
-        }
-      ],
-      "duration_ms": 205030,
-      "name": "Te revoir",
-      "url": "https://open.spotify.com/track/6mmc1ZPn4H3bD16P3Gh74z"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Ses plus belles chansons",
         "url": "https://open.spotify.com/album/2T9LjWDkThEi1wfB3PBJi7"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 233000,
       "name": "Marie-H\u00e9l\u00e8ne",
       "url": "https://open.spotify.com/track/2FGJUywuJ7MyFXtJpM6YrH"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Soap Box",
+        "url": "https://open.spotify.com/album/3hm10jsgb47voscEXgHW2W"
+      },
+      "artists": [
+        {
+          "name": "Waahli",
+          "url": "https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI"
+        }
+      ],
+      "duration_ms": 205030,
+      "name": "Te revoir",
+      "url": "https://open.spotify.com/track/6mmc1ZPn4H3bD16P3Gh74z"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Am\u00e9rica",
-        "url": "https://open.spotify.com/album/7oUfp7K3bbzupkxaXBNtdi"
-      },
-      "artists": [
-        {
-          "name": "Simon Kearney",
-          "url": "https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a"
-        }
-      ],
-      "duration_ms": 208320,
-      "name": "Deux pieds dans la tombe",
-      "url": "https://open.spotify.com/track/6rbzZ9CreR1hNoejCuOq5Z"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "D\u00e9bloquer",
         "url": "https://open.spotify.com/album/3RaTe5Dfyw2h84iX4PMkSw"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 207500,
       "name": "D\u00e9bloquer",
       "url": "https://open.spotify.com/track/6GqDdQilljjSQtOIrJpjPc"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Am\u00e9rica",
+        "url": "https://open.spotify.com/album/7oUfp7K3bbzupkxaXBNtdi"
+      },
+      "artists": [
+        {
+          "name": "Simon Kearney",
+          "url": "https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a"
+        }
+      ],
+      "duration_ms": 208320,
+      "name": "Deux pieds dans la tombe",
+      "url": "https://open.spotify.com/track/6rbzZ9CreR1hNoejCuOq5Z"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "L'\u00e9chec h\u00e9ro\u00efque",
-        "url": "https://open.spotify.com/album/4bGuS9lrPffg6tdu7xSO8Y"
-      },
-      "artists": [
-        {
-          "name": "Thick Glasses",
-          "url": "https://open.spotify.com/artist/0ooRDDFwWf2rnbgJ80VLGj"
-        }
-      ],
-      "duration_ms": 204461,
-      "name": "Mydriase",
-      "url": "https://open.spotify.com/track/08awCBhPzOaNwijJ6G50rN"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Volume 2",
         "url": "https://open.spotify.com/album/0Nmzcz93BpG0Guc9mAd0qi"
       },
@@ -1815,18 +1799,18 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Hauterive",
-        "url": "https://open.spotify.com/album/2T3H2zGJ0OAdpDDful41Bn"
+        "name": "L'\u00e9chec h\u00e9ro\u00efque",
+        "url": "https://open.spotify.com/album/4bGuS9lrPffg6tdu7xSO8Y"
       },
       "artists": [
         {
-          "name": "Hauterive",
-          "url": "https://open.spotify.com/artist/1FjP1PNg8eZOJ5uuRe6UWj"
+          "name": "Thick Glasses",
+          "url": "https://open.spotify.com/artist/0ooRDDFwWf2rnbgJ80VLGj"
         }
       ],
-      "duration_ms": 269173,
-      "name": "Le temps d'avance",
-      "url": "https://open.spotify.com/track/7sYhY4B6gKSH5XERKxS6UF"
+      "duration_ms": 204461,
+      "name": "Mydriase",
+      "url": "https://open.spotify.com/track/08awCBhPzOaNwijJ6G50rN"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1847,6 +1831,22 @@
       "duration_ms": 257880,
       "name": "creusercreuser",
       "url": "https://open.spotify.com/track/6Z9RMVyBJkWnF6GlemwMIk"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Hauterive",
+        "url": "https://open.spotify.com/album/2T3H2zGJ0OAdpDDful41Bn"
+      },
+      "artists": [
+        {
+          "name": "Hauterive",
+          "url": "https://open.spotify.com/artist/1FjP1PNg8eZOJ5uuRe6UWj"
+        }
+      ],
+      "duration_ms": 269173,
+      "name": "Le temps d'avance",
+      "url": "https://open.spotify.com/track/7sYhY4B6gKSH5XERKxS6UF"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Les chevaux du plaisir (Boulay chante Bashung)",
-        "url": "https://open.spotify.com/album/0mQ42DeEtBHZ33FhVzJ5sV"
-      },
-      "artists": [
-        {
-          "name": "Isabelle Boulay",
-          "url": "https://open.spotify.com/artist/5gx3I0a3G8F4hui6GZLfQF"
-        }
-      ],
-      "duration_ms": 235880,
-      "name": "Je t'ai manqu\u00e9",
-      "url": "https://open.spotify.com/track/033NZg6ZCt8UOG1U7Y4bB0"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "\u00c0 pr\u00e9sent",
         "url": "https://open.spotify.com/album/4yCghmiyhqVae5mRq402br"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 291220,
       "name": "\u00c0 pr\u00e9sent",
       "url": "https://open.spotify.com/track/5WbdB8SuUJ1Rgyhh8Uyq3L"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Les chevaux du plaisir (Boulay chante Bashung)",
+        "url": "https://open.spotify.com/album/0mQ42DeEtBHZ33FhVzJ5sV"
+      },
+      "artists": [
+        {
+          "name": "Isabelle Boulay",
+          "url": "https://open.spotify.com/artist/5gx3I0a3G8F4hui6GZLfQF"
+        }
+      ],
+      "duration_ms": 235880,
+      "name": "Je t'ai manqu\u00e9",
+      "url": "https://open.spotify.com/track/033NZg6ZCt8UOG1U7Y4bB0"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "J'aimerais ben \u00e7a aimer \u00e7a (mais j'aime pas \u00e7a)",
-        "url": "https://open.spotify.com/album/5vz7Y0hRrVyxIbxRSwMejY"
-      },
-      "artists": [
-        {
-          "name": "FUUDGE",
-          "url": "https://open.spotify.com/artist/5VeX5PycbdHZmYuTqYGUbi"
-        }
-      ],
-      "duration_ms": 151253,
-      "name": "J'aimerais ben \u00e7a aimer \u00e7a (mais j'aime pas \u00e7a)",
-      "url": "https://open.spotify.com/track/4uivB1tloVRuRZJD7B8c4w"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Tous les jours printemps",
         "url": "https://open.spotify.com/album/0lLG060tds4iQhGQHGAixA"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 249480,
       "name": "Glace noire",
       "url": "https://open.spotify.com/track/22FXAL3JiYeeYK8E54SLat"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "J'aimerais ben \u00e7a aimer \u00e7a (mais j'aime pas \u00e7a)",
+        "url": "https://open.spotify.com/album/5vz7Y0hRrVyxIbxRSwMejY"
+      },
+      "artists": [
+        {
+          "name": "FUUDGE",
+          "url": "https://open.spotify.com/artist/5VeX5PycbdHZmYuTqYGUbi"
+        }
+      ],
+      "duration_ms": 151253,
+      "name": "J'aimerais ben \u00e7a aimer \u00e7a (mais j'aime pas \u00e7a)",
+      "url": "https://open.spotify.com/track/4uivB1tloVRuRZJD7B8c4w"
     },
     {
       "added_at": "2023-05-25 23:46:15",

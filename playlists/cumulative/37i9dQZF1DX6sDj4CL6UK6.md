@@ -4,7 +4,7 @@
 
 > Top English songs from Asia\. Cover: Mali
 
-261 songs - 15 hr 8 min
+262 songs - 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Christmas Without You](https://open.spotify.com/track/688W2i53mwx90PvfsCxW29) | [Jeanne Merchant](https://open.spotify.com/artist/3JSGvZjELvoBZalvFCM6Zp), [Anshuman Sharma](https://open.spotify.com/artist/3rNr8T39bUi3dYfiqffp8w) | [Christmas Without You](https://open.spotify.com/album/5ufq3FV3Uxrl800LPG3ba8) | 3:36 | 2022-12-21 | 2023-01-11 |
 | [Co2](https://open.spotify.com/track/3hB9lDLyAClYVZivMMl20N) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 2:43 | 2023-10-18 |  |
 | [Cold Cold Night](https://open.spotify.com/track/4pR2qfbLapOQ5fNeVWfGnH) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Cold Cold Night](https://open.spotify.com/album/76YdfYn53GNmFJRcyO036X) | 3:21 | 2022-09-26 | 2023-08-26 |
+| [Cold Cold Night](https://open.spotify.com/track/6EQG98YQXZwX9nJSABjvDw) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Cold Cold Night](https://open.spotify.com/album/2y8RTJ5EawVOSl7h5KxKmy) | 3:21 | 2023-11-24 |  |
 | [Cold Cold Night](https://open.spotify.com/track/7yHpjfYiFCKs0pFSUndEuI) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Cold Cold Night](https://open.spotify.com/album/1WuSRJC0L115CkTTMOCTuy) | 3:21 | 2022-03-25 | 2022-10-13 |
 | [Coming Home](https://open.spotify.com/track/2CA8KfuUyfM6JTqqPkpbZx) | [The Newcomers](https://open.spotify.com/artist/4WVuFszLNESVSXEDRokgMG) | [Coming Home](https://open.spotify.com/album/1uH12t5IkBn95cmGf3GalY) | 3:13 | 2023-09-29 | 2023-11-23 |
 | [Confessions of a Bipolar Mind](https://open.spotify.com/track/3rA6c03IoVVDvkIds5LtZZ) | [Temsu Clover](https://open.spotify.com/artist/1QZD3yzCgj7qHKqG2eC31g) | [Confessions of a Bipolar Mind](https://open.spotify.com/album/6JuxjsRiQFHQWIW4vT9tWP) | 4:38 | 2022-03-25 | 2022-05-26 |
@@ -122,7 +123,7 @@
 | [Imposter](https://open.spotify.com/track/5FNT87UIyz9TehAbTpAdUW) | [The Coconut Milk Project](https://open.spotify.com/artist/7ME0Ae7qHNi4yPx7362ZF2) | [Imposter](https://open.spotify.com/album/3SIczDLy4INHEsorycPJD1) | 3:28 | 2022-03-25 | 2023-01-13 |
 | [In Denial](https://open.spotify.com/track/5edvBrslsD6xcBK3fWnQ75) | [Shourya Malhotra](https://open.spotify.com/artist/7D5PI5MuJaKxuAtVOxwzxS), [Varun Rajput](https://open.spotify.com/artist/5XoXIVEIaJcT3UUzhpzIlG), [roradoll](https://open.spotify.com/artist/3C56MZWRI4I9xzg2wp4Zn1), [Ishita Singh](https://open.spotify.com/artist/1hdsXhKriey9WLVnh4iNDO) | [In Denial](https://open.spotify.com/album/7AxIG2v1FOuaZX0L08D3H4) | 3:09 | 2022-06-29 | 2023-01-13 |
 | [In My Zone](https://open.spotify.com/track/51JtkaZ5scmC6VH4PIZNQ1) | [Mary Ann Alexander](https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd), [Pranay Parti](https://open.spotify.com/artist/0PZmx7d0zgDWcm7HTvngcy) | [In My Zone](https://open.spotify.com/album/5u5UQEwrlo0XtEYYO93bEP) | 2:45 | 2023-01-10 | 2023-01-18 |
-| [Indigo](https://open.spotify.com/track/7mlGKWXA5ZV6HZibmRruqD) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Indigo](https://open.spotify.com/album/1eGowsUsY6D99t8NsxpRK7) | 3:20 | 2023-03-18 |  |
+| [Indigo](https://open.spotify.com/track/7mlGKWXA5ZV6HZibmRruqD) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Indigo](https://open.spotify.com/album/1eGowsUsY6D99t8NsxpRK7) | 3:20 | 2023-03-18 | 2023-11-29 |
 | [Inside Out](https://open.spotify.com/track/7LIAu8r9Zv92LF8ZpKq5Zn) | [Thermal And A Quarter](https://open.spotify.com/artist/6lF7uyAQEbDrnFNAXyyQQ6) | [Inside Out](https://open.spotify.com/album/414ncNsZZbp83LU3VtH8n2) | 5:46 | 2022-03-25 | 2023-01-13 |
 | [Into the Woods](https://open.spotify.com/track/6tS5yFBtVzDEAsbgk4DONu) | [Prashanth Techno](https://open.spotify.com/artist/4JFVZaGeqeKsZTec9xdUwc), [Aashaaa](https://open.spotify.com/artist/5JSviKyDNcTH0oLphFrpVx) | [Into the Woods](https://open.spotify.com/album/3jwR7GNB7jLzHO18nVAzdu) | 3:59 | 2022-03-25 | 2023-01-13 |
 | [I’m On Your Side](https://open.spotify.com/track/5NUFanXmuh51dgRQ18xRAQ) | [Trance Effect](https://open.spotify.com/artist/21P08lfKfkMN14Fs25E93A) | [I’m On Your Side](https://open.spotify.com/album/0rW3Lx8FykpGzsp2d3AZkE) | 2:43 | 2022-03-25 | 2023-06-08 |

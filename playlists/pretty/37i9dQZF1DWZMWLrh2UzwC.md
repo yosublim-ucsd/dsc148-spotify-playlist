@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Alextbh
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,222 likes - 84 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,227 likes - 84 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 83 | [Grape Soda](https://open.spotify.com/track/5KJAvewEPVPOU3OnL6bhwH) | [Gabe Watkins](https://open.spotify.com/artist/2GtFIN8b3SolBC7mmCPAAA) | [Grape Soda](https://open.spotify.com/album/6skFJuskZ23J7NXBNfFR8z) | 3:35 |
 | 84 | [Memory Lane](https://open.spotify.com/track/6Z9dmhwOZ3wlCfCrjkWMNk) | [CHUROSE](https://open.spotify.com/artist/4y9Jhm3jRfDCgGJ3kgyGDp) | [Memory Lane](https://open.spotify.com/album/0aLUKwVWBquLge7Ztf2LO4) | 3:18 |
 
-Snapshot ID: `MCwzMWI3YmM1NjA5NWY1ZGRhMDk5YWQwYTljM2MxZWQ1NDk0NDE0ZTcx`
+Snapshot ID: `MCwxYzkzOTdiZTQ5ZTA2MTFkNWYzMjMxYWExMjhjMmJmOGFhYzU0MDIw`

@@ -1,12 +1,12 @@
 {
   "description": "Le rayon de soleil musical de votre matin\u00e9e.",
-  "num_followers": 156262,
+  "num_followers": 156341,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNmJjMTkwZjAzMTE5N2YyY2Y2ZGZhYWNiMGJmMTM4MTBjMDMxZTE3",
+  "snapshot_id": "MCxjYmVlMzQyMzk1MGJhMzM3MDc3ZGYzZjE5NzA4N2I1YTZjZjdkNTI1",
   "tracks": [
     {
       "added_at": "2023-11-22 15:10:44",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-11-22 15:10:44",
       "album": {
-        "name": "Veneer",
-        "url": "https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 161680,
-      "name": "Heartbeats",
-      "url": "https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll"
-    },
-    {
-      "added_at": "2023-11-22 15:10:44",
-      "album": {
         "name": "Let It All Go",
         "url": "https://open.spotify.com/album/70kdvnoDEA1srIsofErTEw"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 280757,
       "name": "Let It All Go",
       "url": "https://open.spotify.com/track/70K0ezmzYEZeqoSaZMyP7o"
+    },
+    {
+      "added_at": "2023-11-22 15:10:44",
+      "album": {
+        "name": "Veneer",
+        "url": "https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 161680,
+      "name": "Heartbeats",
+      "url": "https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll"
     },
     {
       "added_at": "2023-11-22 15:10:44",
@@ -419,6 +419,22 @@
     {
       "added_at": "2023-11-22 15:10:44",
       "album": {
+        "name": "Answer Phone",
+        "url": "https://open.spotify.com/album/64J78r5rx9qs9ZJZ4xSkBt"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 160019,
+      "name": "Answer Phone",
+      "url": "https://open.spotify.com/track/0vYNMCubrGX6XHpX0KrGOe"
+    },
+    {
+      "added_at": "2023-11-22 15:10:44",
+      "album": {
         "name": "Everglow",
         "url": "https://open.spotify.com/album/6LRAUvjNMdUieHc8RcpHQU"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 369293,
       "name": "To Zion (feat. Carlos Santana)",
       "url": "https://open.spotify.com/track/7x6hO9VMAee9x1iWaeNkL6"
-    },
-    {
-      "added_at": "2023-11-22 15:10:44",
-      "album": {
-        "name": "Answer Phone",
-        "url": "https://open.spotify.com/album/64J78r5rx9qs9ZJZ4xSkBt"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 160019,
-      "name": "Answer Phone",
-      "url": "https://open.spotify.com/track/0vYNMCubrGX6XHpX0KrGOe"
     },
     {
       "added_at": "2023-11-22 15:10:44",

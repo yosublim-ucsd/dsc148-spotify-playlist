@@ -1,12 +1,12 @@
 {
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Gary Hobbs",
-  "num_followers": 140611,
+  "num_followers": 140614,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NTcxYzQzYzk1Yzk2NjVhYTQ3M2ZmOWJjZWZiNWI0Y2JkZWYwYmI5",
+  "snapshot_id": "MCw0YWQyMWZkYzMxZGNkMDVlMDYzMDBjMTc0NWEwODliYWUyNTdlMWFi",
   "tracks": [
     {
       "added_at": "2023-09-13 20:37:36",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Raspar Zapato",
-        "url": "https://open.spotify.com/album/13UQwlje5pY3bt2o1Y6xL6"
-      },
-      "artists": [
-        {
-          "name": "Tejano Highway 281",
-          "url": "https://open.spotify.com/artist/004UYHPUOnYC9p2vu9XcIV"
-        }
-      ],
-      "duration_ms": 164704,
-      "name": "Raspar Zapato",
-      "url": "https://open.spotify.com/track/2YXRDo7vScKAjz6fYNnXbh"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Rogando Por Tu Amor",
         "url": "https://open.spotify.com/album/0hJfMeu3ayGQtUbMZ8KZiM"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 203879,
       "name": "Rogando Por Tu Amor",
       "url": "https://open.spotify.com/track/3konQZ2dxzZ9N83J0fC5qo"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Raspar Zapato",
+        "url": "https://open.spotify.com/album/13UQwlje5pY3bt2o1Y6xL6"
+      },
+      "artists": [
+        {
+          "name": "Tejano Highway 281",
+          "url": "https://open.spotify.com/artist/004UYHPUOnYC9p2vu9XcIV"
+        }
+      ],
+      "duration_ms": 164704,
+      "name": "Raspar Zapato",
+      "url": "https://open.spotify.com/track/2YXRDo7vScKAjz6fYNnXbh"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Que Dolor",
-        "url": "https://open.spotify.com/album/3T5RCMyFCQyE3BC91EgYIO"
-      },
-      "artists": [
-        {
-          "name": "George Salazar",
-          "url": "https://open.spotify.com/artist/3M5SDIlfm3AZkshJqEkJEY"
-        }
-      ],
-      "duration_ms": 202292,
-      "name": "Que Dolor",
-      "url": "https://open.spotify.com/track/3XlYYqMbpFXKmHfmYR2oPR"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Soy Ella",
         "url": "https://open.spotify.com/album/0C6cJPsfO7pVrAA6TP7reN"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 179908,
       "name": "Soy Ella",
       "url": "https://open.spotify.com/track/5buceuRTk8ODJu1t3B4r8H"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Que Dolor",
+        "url": "https://open.spotify.com/album/3T5RCMyFCQyE3BC91EgYIO"
+      },
+      "artists": [
+        {
+          "name": "George Salazar",
+          "url": "https://open.spotify.com/artist/3M5SDIlfm3AZkshJqEkJEY"
+        }
+      ],
+      "duration_ms": 202292,
+      "name": "Que Dolor",
+      "url": "https://open.spotify.com/track/3XlYYqMbpFXKmHfmYR2oPR"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -1063,8 +1063,8 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "No Me Busques",
-        "url": "https://open.spotify.com/album/66y7EqCzVP6G5AKcOZd1Gk"
+        "name": "Si Esto No Es Amor",
+        "url": "https://open.spotify.com/album/0KKjJ7j7oWVv79T2IvY0hP"
       },
       "artists": [
         {
@@ -1072,9 +1072,9 @@
           "url": "https://open.spotify.com/artist/2JcqJQOf7QQbFgFAzf8mDX"
         }
       ],
-      "duration_ms": 228812,
-      "name": "No Me Busques",
-      "url": "https://open.spotify.com/track/5Su2iRj6HmnO1vXh2xWEQ6"
+      "duration_ms": 218000,
+      "name": "Si Esto No Es Amor",
+      "url": "https://open.spotify.com/track/2XPIUhrtYTB6mFdQSpZUOI"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Dime Por Qu\u00e9",
-        "url": "https://open.spotify.com/album/5DggVFW7Fcz3b3gsRkKUW8"
-      },
-      "artists": [
-        {
-          "name": "Crystal Torres",
-          "url": "https://open.spotify.com/artist/2uWXFCclgN0fNce3lhg64u"
-        }
-      ],
-      "duration_ms": 191800,
-      "name": "Dime Por Qu\u00e9",
-      "url": "https://open.spotify.com/track/65aD4EiPVKUyEXLotKIMQs"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Toda Una Vida",
         "url": "https://open.spotify.com/album/0hf4M1OfFfsgOhCRU6KcNf"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 180410,
       "name": "Toda Una Vida",
       "url": "https://open.spotify.com/track/5UmuGyqgMzhFJxML3ILvKV"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Dime Por Qu\u00e9",
+        "url": "https://open.spotify.com/album/5DggVFW7Fcz3b3gsRkKUW8"
+      },
+      "artists": [
+        {
+          "name": "Crystal Torres",
+          "url": "https://open.spotify.com/artist/2uWXFCclgN0fNce3lhg64u"
+        }
+      ],
+      "duration_ms": 191800,
+      "name": "Dime Por Qu\u00e9",
+      "url": "https://open.spotify.com/track/65aD4EiPVKUyEXLotKIMQs"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -1211,8 +1211,8 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Si Esto No Es Amor",
-        "url": "https://open.spotify.com/album/0KKjJ7j7oWVv79T2IvY0hP"
+        "name": "No Me Busques",
+        "url": "https://open.spotify.com/album/66y7EqCzVP6G5AKcOZd1Gk"
       },
       "artists": [
         {
@@ -1220,9 +1220,9 @@
           "url": "https://open.spotify.com/artist/2JcqJQOf7QQbFgFAzf8mDX"
         }
       ],
-      "duration_ms": 218000,
-      "name": "Si Esto No Es Amor",
-      "url": "https://open.spotify.com/track/2XPIUhrtYTB6mFdQSpZUOI"
+      "duration_ms": 228812,
+      "name": "No Me Busques",
+      "url": "https://open.spotify.com/track/5Su2iRj6HmnO1vXh2xWEQ6"
     },
     {
       "added_at": "2023-09-13 20:37:36",

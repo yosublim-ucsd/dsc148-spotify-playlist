@@ -1,12 +1,12 @@
 {
   "description": "Plugged in and cranked up; the hottest Blues records from an amplified era. Cover: B.B. King.",
-  "num_followers": 118087,
+  "num_followers": 118225,
   "original_name": "Electric Blues Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Mjc3NjRmZjExYTY3YWZlMzFmZTZjMjYwZGNhYzU4NjBlOTYzZjM4",
+  "snapshot_id": "MCxhOWM3ZTg5NDFhZWIwYjk5OTE3ZGI2ZjhmMzRhZWZkYjViZjVmZGVh",
   "tracks": [
     {
       "added_at": "2023-08-10 16:46:04",
@@ -219,7 +219,7 @@
     {
       "added_at": "2023-08-10 16:46:04",
       "album": {
-        "name": "Bluesbreakers",
+        "name": "Blues Breakers",
         "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
       },
       "artists": [
@@ -811,7 +811,7 @@
     {
       "added_at": "2023-08-10 16:46:04",
       "album": {
-        "name": "Bluesbreakers",
+        "name": "Blues Breakers",
         "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
       },
       "artists": [
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-08-10 16:46:04",
       "album": {
-        "name": "Blues 100",
-        "url": "https://open.spotify.com/album/3jU0cukuViSuOm3EqTaOQe"
-      },
-      "artists": [
-        {
-          "name": "Little Milton",
-          "url": "https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan"
-        }
-      ],
-      "duration_ms": 283106,
-      "name": "4:59am",
-      "url": "https://open.spotify.com/track/4mKYXnWs3NLCK8VSSqJdv3"
-    },
-    {
-      "added_at": "2023-08-10 16:46:04",
-      "album": {
         "name": "Electric Blues: 1970s",
         "url": "https://open.spotify.com/album/23BKgXWnm0VUcPGugv7Rue"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 250360,
       "name": "My Love Strikes Like Lightning",
       "url": "https://open.spotify.com/track/2axI8LbwG6EoLn57lofGQv"
+    },
+    {
+      "added_at": "2023-08-10 16:46:04",
+      "album": {
+        "name": "Blues 100",
+        "url": "https://open.spotify.com/album/3jU0cukuViSuOm3EqTaOQe"
+      },
+      "artists": [
+        {
+          "name": "Little Milton",
+          "url": "https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan"
+        }
+      ],
+      "duration_ms": 283106,
+      "name": "4:59am",
+      "url": "https://open.spotify.com/track/4mKYXnWs3NLCK8VSSqJdv3"
     }
   ],
   "unique_name": "Electric Blues Classics",

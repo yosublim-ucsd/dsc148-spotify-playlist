@@ -2043,6 +2043,24 @@
     },
     {
       "album": {
+        "name": "Mask Off",
+        "url": "https://open.spotify.com/album/5ZLE8KDPBqQBH3YoswtUSO"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155070,
+      "name": "Mask Off",
+      "url": "https://open.spotify.com/track/07nfBlhn6ZlIkPXSXb8SXJ"
+    },
+    {
+      "album": {
         "name": "Honestly, Nevermind",
         "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
       },
@@ -2910,7 +2928,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 191166,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/1WumDA51R5dHvmRVhmoP6t"

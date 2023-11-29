@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Stuck In The Sound
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,975 likes - 40 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,102 likes - 40 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 39 | [WHAT'S YOUR NEED?](https://open.spotify.com/track/5gYhf2RYyP3duXGLn3LCKb) | [FISHLORD](https://open.spotify.com/artist/1Hv9p9zMYy3gc2VWQfK5gg) | [WHAT'S YOUR NEED?](https://open.spotify.com/album/47XeZTUMqxG8v1m7SEi2Cv) | 2:14 |
 | 40 | [Shaving My Head](https://open.spotify.com/track/3G3MnJQVRSXeavVT0yQsqB) | [The Nagging Doubts](https://open.spotify.com/artist/2sSlFb9ZRolDd3qcBrMDCr) | [Shaving My Head](https://open.spotify.com/album/3gxinPIArZSnvQmZpQBRLJ) | 3:42 |
 
-Snapshot ID: `MCxlMGE1N2I3ZGY5MjBiMWEzZjM1Yzk5MGM2OWZmYjdmMDgyZjVlODI3`
+Snapshot ID: `MCxmM2IwODZhYzBlOTdhZDZiNDk4MDkyNjI0ZGFhOThhMjg2NDNmZmQ3`

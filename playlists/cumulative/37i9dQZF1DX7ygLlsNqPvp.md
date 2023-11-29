@@ -4,7 +4,7 @@
 
 > The most intense local drill music firing up the continent\. Cover:  <a href="https://open.spotify.com/artist/05wqlCGQReohsxStVBR052?si=7P7nx9OfTmOxHU1QC3j4IQ"> Pappy Kojo</a>
 
-129 songs - 6 hr 34 min
+130 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,8 @@
 | [SWAG \(feat\. O'Kenneth, Reggie, Jay Bahd & Kawabanga\)](https://open.spotify.com/track/1Gn3pwGB9TLj56eElRY2a2) | [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Kawabanga](https://open.spotify.com/artist/5VcDYvRgsmMRpklUZarFEh) | [SWAG \(feat\. O'Kenneth, Reggie, Jay Bahd & Kawabanga\)](https://open.spotify.com/album/4jVT3IHYxo6EFIMpaMRrsp) | 2:54 | 2022-11-25 | 2023-04-21 |
 | [Sweet](https://open.spotify.com/track/15ePvDHYnntIuwzXIbZ2tz) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Sweet](https://open.spotify.com/album/4fmeXWHITW7ezwMEqPbNjr) | 2:03 | 2022-06-09 |  |
 | [Take Me Back](https://open.spotify.com/track/1mobKOhEY1vmPH7LW6BnPm) | [Dikoo](https://open.spotify.com/artist/7tp80zkGuZP0Bqfb41iPkw) | [Take Me Back](https://open.spotify.com/album/4xv1UAHW28wXU5Up3BWFcH) | 2:38 | 2023-10-27 |  |
-| [Tell 'Em To Shut Up \(feat\. Reggie & Skyface Sdw\)](https://open.spotify.com/track/0yVzC9Bvpi9BhgpP5Nb9dK) | [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052), [Reggie](https://open.spotify.com/artist/65ZsNUD4VR9tanQXJeMxt1), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG) | [Ka Na Wu](https://open.spotify.com/album/4WjFmcus19qITkG4kvNWj4) | 2:48 | 2023-11-24 |  |
+| [Tell 'Em To Shut Up](https://open.spotify.com/track/1M65D5LXMUNiMXka5Hf2oB) | [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052), [Reggie](https://open.spotify.com/artist/65ZsNUD4VR9tanQXJeMxt1), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG) | [Ka Na Wu](https://open.spotify.com/album/4KCA3hHpLmH1Rm2uCGVURz) | 2:48 | 2023-11-24 |  |
+| [Tell 'Em To Shut Up \(feat\. Reggie & Skyface Sdw\)](https://open.spotify.com/track/0yVzC9Bvpi9BhgpP5Nb9dK) | [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052), [Reggie](https://open.spotify.com/artist/65ZsNUD4VR9tanQXJeMxt1), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG) | [Ka Na Wu](https://open.spotify.com/album/4WjFmcus19qITkG4kvNWj4) | 2:48 | 2023-11-24 | 2023-11-29 |
 | [Temptation](https://open.spotify.com/track/1wZfdwMq8dgacs2CF1mT7x) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [PITJ](https://open.spotify.com/album/2YLTD3ctvprBZqF3nBspik) | 2:15 | 2023-08-10 | 2023-09-15 |
 | [Time](https://open.spotify.com/track/5KwDovDFkhSaBuRlcVke0x) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Time](https://open.spotify.com/album/5cJW97FT5Uo34WKxkkuOJk) | 2:45 | 2022-11-04 | 2023-02-11 |
 | [Tonight](https://open.spotify.com/track/4AwLs3NpQFSy5bhIdeXWll) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd) | [Tonight](https://open.spotify.com/album/5rikpwZ6bc9dweoWLojsyz) | 2:19 | 2023-11-17 |  |

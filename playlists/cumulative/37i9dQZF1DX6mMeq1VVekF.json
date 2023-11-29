@@ -903,6 +903,24 @@
     },
     {
       "album": {
+        "name": "Bon App\u00e9tit",
+        "url": "https://open.spotify.com/album/5Tax49IzkZVlDraQdobhEk"
+      },
+      "artists": [
+        {
+          "name": "Unknown T",
+          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197924,
+      "name": "Bon App\u00e9tit",
+      "url": "https://open.spotify.com/track/0K56woQKVkZSgqxom9aNqO"
+    },
+    {
+      "album": {
         "name": "Booty Drop",
         "url": "https://open.spotify.com/album/096NZMg4ARLx7TQamIDE30"
       },
@@ -1874,7 +1892,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 250434,
       "name": "Eye for an Eye",
       "url": "https://open.spotify.com/track/1KjxNspmKdAncNRGNggUGk"

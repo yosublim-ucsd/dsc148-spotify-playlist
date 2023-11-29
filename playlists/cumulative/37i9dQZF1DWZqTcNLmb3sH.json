@@ -699,6 +699,40 @@
     },
     {
       "album": {
+        "name": "The Suit (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2Q6ZokQAXPBbLtJ0e6u38p"
+      },
+      "artists": [
+        {
+          "name": "Swamy Gamanahalli",
+          "url": "https://open.spotify.com/artist/4CBdGnJj6ezca77rk9DrHw"
+        },
+        {
+          "name": "Ronada Bakkesh",
+          "url": "https://open.spotify.com/artist/7MkiL8mmhZXoZpil9Webgt"
+        },
+        {
+          "name": "Rahul",
+          "url": "https://open.spotify.com/artist/0Onta8EyTOllw3wCIs5fW1"
+        },
+        {
+          "name": "Chethana",
+          "url": "https://open.spotify.com/artist/4JDWmx0C6QaAQ4alM8NHK9"
+        },
+        {
+          "name": "Kiran Shankar",
+          "url": "https://open.spotify.com/artist/5MZ3lf2RXr5p6Lmeza5DXF"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283865,
+      "name": "Ailoo Pailoo",
+      "url": "https://open.spotify.com/track/3znNSNFvuv8lUnuPxdQ8Ty"
+    },
+    {
+      "album": {
         "name": "Love Birds (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5NTXHjnSEcyprmBXyzOH0h"
       },
@@ -1770,7 +1804,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 250670,
       "name": "Ayyo Daivave",
       "url": "https://open.spotify.com/track/10eUhrUAW7Egfoqe5HSPZO"
@@ -2548,6 +2582,36 @@
       "duration_ms": 281142,
       "name": "Bairagi Aadiyogi Shankara (From \"Inamdar\")",
       "url": "https://open.spotify.com/track/3KHqyBXEQbK2gutnt2ossH"
+    },
+    {
+      "album": {
+        "name": "The Suit (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2Q6ZokQAXPBbLtJ0e6u38p"
+      },
+      "artists": [
+        {
+          "name": "Ananya Bhagath",
+          "url": "https://open.spotify.com/artist/1plpb1AtIR2E4rYUIJuevr"
+        },
+        {
+          "name": "Chethan Naik",
+          "url": "https://open.spotify.com/artist/3DaORH0Tws7WPuMKnQQj3Y"
+        },
+        {
+          "name": "Jude Pereira",
+          "url": "https://open.spotify.com/artist/00zwGm9I8PktoMdsioh02z"
+        },
+        {
+          "name": "Eesha Suchi",
+          "url": "https://open.spotify.com/artist/7BQODxJYjUv5TppoSGnFZI"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244572,
+      "name": "Bande Naa",
+      "url": "https://open.spotify.com/track/0ABEjnwkoRHOhGZa1MoNM1"
     },
     {
       "album": {
@@ -14650,7 +14714,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 114545,
       "name": "Nannaki BGM",
       "url": "https://open.spotify.com/track/4Hvgw6uTUBbDjv96XWQuye"
@@ -16534,7 +16598,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 188339,
       "name": "Oga Oga (from \"Bad Manners\")",
       "url": "https://open.spotify.com/track/2AAD29MUJTPMbG6b0yrQNc"
@@ -21501,6 +21565,32 @@
     },
     {
       "album": {
+        "name": "Usire (From \"Sapta Sagaradaache Ello - Side B\")",
+        "url": "https://open.spotify.com/album/6KygVSiE0qeD4QS4tyoX89"
+      },
+      "artists": [
+        {
+          "name": "Charanraj",
+          "url": "https://open.spotify.com/artist/3eDnvCTeFDK9FsEAghlpc2"
+        },
+        {
+          "name": "Dhananjay Ranjan",
+          "url": "https://open.spotify.com/artist/3lCmfZPOZc1x3kmphuR96p"
+        },
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266194,
+      "name": "Usire (From \"Sapta Sagaradaache Ello - Side B\")",
+      "url": "https://open.spotify.com/track/6YrWt6dwS57J5Nk6KIV5BP"
+    },
+    {
+      "album": {
         "name": "Usire Nanagada (From \"Baby Missing\")",
         "url": "https://open.spotify.com/album/1Pd7InjUeFavxc7PHZXjGz"
       },
@@ -21628,6 +21718,24 @@
       "duration_ms": 205381,
       "name": "Vaikuntake Savaari (From \"Nodi Swamy Ivanu Irode Heege\")",
       "url": "https://open.spotify.com/track/40ofFwEAvzwx9jaMtPnVD4"
+    },
+    {
+      "album": {
+        "name": "Vajrakaaya Aanjaneya (From \"HanuMan\") [Kannada] [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/6x9AYZAdWXhu6w6JbLCATu"
+      },
+      "artists": [
+        {
+          "name": "Sahithi Galidevara",
+          "url": "https://open.spotify.com/artist/2ogBMV4xBxzWqWXNKkKzGl"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259411,
+      "name": "Vajrakaaya Aanjaneya (From \"HanuMan\") [Kannada]",
+      "url": "https://open.spotify.com/track/4bn3L8VtLXt6iw2CqO8HLQ"
     },
     {
       "album": {
@@ -21788,7 +21896,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-29",
       "duration_ms": 204082,
       "name": "Vivarane (From \"Hi Nanna\")",
       "url": "https://open.spotify.com/track/2Xc0jsOBqPWhyuS29dQnvz"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent & rising talents are here\. \(Cover: Kim Marie\(김마리\)\)\(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,609 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,646 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 21 | [ONCE](https://open.spotify.com/track/4S6o1yxyRgZexZObybUOKm) | [YUDABINBAND](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y) | [ONCE](https://open.spotify.com/album/1iKl22RBthjjCJCGUNjv7Z) | 3:35 |
 | 22 | [Cheese](https://open.spotify.com/track/5Jy61Hvq1JONQTieB3YdlJ) | [JONGHAN](https://open.spotify.com/artist/19nfSOK32q1wCk8TIaKBV8) | [Cheese](https://open.spotify.com/album/2Ah8Lam2rnc6nrxOMcCdPD) | 3:39 |
 | 23 | [Fallin′](https://open.spotify.com/track/0vFfabXlHG4MPHzh4zpMae) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3), [Eunbyeol](https://open.spotify.com/artist/6w4yTmsjdEcvc2nKuQo6gJ) | [Fallin'](https://open.spotify.com/album/5pXw8KcMeTBN7FQfHpSjNF) | 3:40 |
-| 24 | [Donghae](https://open.spotify.com/track/5lUK2Qyq2ylmPOlxOa8j5I) | [Goonamguayeoridingstella](https://open.spotify.com/artist/3DUz5LZtuWvUFgyRsgZNR7) | [Donghae](https://open.spotify.com/album/5m0K63oIo7SGlOxmKhsEe9) | 6:45 |
+| 24 | [Donghae](https://open.spotify.com/track/5lUK2Qyq2ylmPOlxOa8j5I) | [Goonamguayeoridingstella](https://open.spotify.com/artist/3DUz5LZtuWvUFgyRsgZNR7) | [Donghae](https://open.spotify.com/album/5m0K63oIo7SGlOxmKhsEe9) | 6:46 |
 | 25 | [손 내밀면 닿을 거리에](https://open.spotify.com/track/5fRRUYHrYF7mXDqi8CXEN5) | [KIM CHANG YEON](https://open.spotify.com/artist/2CLYdeUofgL5gywkME1QPO) | [나만의 고막 남친 프로젝트 Part 1](https://open.spotify.com/album/1XndVWE6VTyNbChJOXBQda) | 3:37 |
 | 26 | [L FOR LOVE](https://open.spotify.com/track/4Ruc5qusSWMYOZfJ2DHoKn) | [Aalia](https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS) | [L FOR LOVE](https://open.spotify.com/album/0qHlEPGihwWsEISpKG7jCT) | 3:17 |
 | 27 | [Ghost](https://open.spotify.com/track/0qzqb9nibxhCxICYlRoqBK) | [Lim Ha Ram](https://open.spotify.com/artist/5p6Mh4sfmGYFGE4BwNVBrO) | [Ghost](https://open.spotify.com/album/4AmYveZNBWWuQzfHTafJCW) | 3:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 99 | [Not Sleep](https://open.spotify.com/track/2Kr4FPeUyD4nzaRt2UL4RD) | [moim](https://open.spotify.com/artist/1sr5uaXiCwEqIh26gTWBtP) | [BREAKTIME](https://open.spotify.com/album/4q2F1D3FdhWkVDKLhLBbiA) | 3:22 |
 | 100 | [Hiding In The Rain](https://open.spotify.com/track/1tQV5KDBx5B1lml1VEQJM7) | [Ujoo](https://open.spotify.com/artist/0MFHGyrlDnqNciBzA6OWNI) | [Hiding In The Rain](https://open.spotify.com/album/761CjITxn4JK9fqisInmgx) | 3:55 |
 
-Snapshot ID: `MCxmMGE0YTFkZTkyODcwNzExMTBiODY2MGU5MTRkZjQ0NWViYWI5ZjVj`
+Snapshot ID: `MCw0YjFhYzdmYTY0MzczMTczZWRlMDI2MmM5OGM2MjIyODhlOTBiZDVk`

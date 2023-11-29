@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 1970s\. Cover: The Jacksons.
 
-338 songs - 22 hr 14 min
+339 songs - 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,7 @@
 | [Nutbush City Limits](https://open.spotify.com/track/2LchpUTiXjYoOL4RgZa02N) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [18 Classic Tracks](https://open.spotify.com/album/5HFqJis487DQYOlkbEtLdW) | 2:58 | 2021-03-22 | 2022-07-29 |
 | [Oh My My](https://open.spotify.com/track/7GqOrtlqGjt5kFlPK63ErE) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Ringo](https://open.spotify.com/album/6zjenDV68SpvM3oEhorTDm) | 4:19 | 2021-09-08 | 2022-07-28 |
 | [Oliver's Army](https://open.spotify.com/track/1GIV1YzfuFzYAoUjwx3r7W) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [Armed Forces](https://open.spotify.com/album/3ZAHIjLdPoEmHGMCHtoMpq) | 2:59 | 2021-09-08 | 2022-07-29 |
-| [Oliver's Army](https://open.spotify.com/track/4Zz1ctRTK04dytKiFuavBX) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [Armed Forces \(Remastered 2020\)](https://open.spotify.com/album/5w3q6GZbw0gsAtvl1c0rmu) | 3:00 | 2021-09-08 |  |
+| [Oliver's Army](https://open.spotify.com/track/4Zz1ctRTK04dytKiFuavBX) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [Armed Forces \(Remastered 2020\)](https://open.spotify.com/album/5w3q6GZbw0gsAtvl1c0rmu) | 3:00 | 2021-09-08 | 2023-11-29 |
 | [One Way or Another](https://open.spotify.com/track/2ZUOmCodNzWpzaomqle7aW) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Mean Girls \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5VMeOsRr2wyELrgfz2rkHp) | 3:28 | 2021-09-08 | 2022-07-29 |
 | [One Way Ticket](https://open.spotify.com/track/68MSCSP7Y6PnzXcW1IlN7G) | [Eruption](https://open.spotify.com/artist/3R6f1aBWwde7ZqGv7hf4dY) | [4 Hits: Eruption](https://open.spotify.com/album/26BHqKni1MTqwIcdSUFLRm) | 3:33 | 2021-09-08 |  |
 | [Ooh what a life](https://open.spotify.com/track/26LXuBlHw2DZWcVcfMVlmi) | [The Gibson Brothers](https://open.spotify.com/artist/0pRXhFeDRaYQgCp0lj2X9r) | [The Complete Of Gibson Brothers](https://open.spotify.com/album/5RccpTmcphuiXB6XM7jljn) | 5:43 | 2021-09-08 | 2022-07-28 |
@@ -334,6 +334,7 @@
 | [Y.M.C.A\. \- Single Version](https://open.spotify.com/track/7uhsX7VLjUqBUW32Nt9QRs) | [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW) | [LOUD & PROUD: Club Classics](https://open.spotify.com/album/2Djoftst9PsHDHS4W3JqHU) | 4:48 | 2021-03-22 | 2022-11-13 |
 | [Yes Sir, I Can Boogie](https://open.spotify.com/track/2LScqpywMqGcnum6nNaxXX) | [Baccara](https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ) | [The Collection & Tracklisting](https://open.spotify.com/album/5e6VPOPLw5cSXsVMvQEioq) | 4:33 | 2021-09-08 | 2022-07-20 |
 | [YMCA \- Original Version 1978](https://open.spotify.com/track/54OR1VDpfkBuOY5zZjhZAY) | [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW) | [YMCA](https://open.spotify.com/album/3I3YSq7ArvlwK3l49pq4oE) | 4:46 | 2021-03-22 | 2022-07-29 |
+| [You Don't Mess Around with Jim](https://open.spotify.com/track/6ZBeRXjadHvBk9VYSnoO0R) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [You Don't Mess Around With Jim](https://open.spotify.com/album/0dZaHQ0OJlIyVrEuvnXmS9) | 3:02 | 2021-09-08 |  |
 | [You Don't Mess Around with Jim](https://open.spotify.com/track/5yrsBzgHkfu2idkl2ILQis) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [You Don't Mess Around With Jim](https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy) | 3:04 | 2021-09-08 | 2023-11-04 |
 | [You Got What It Takes](https://open.spotify.com/track/5auFbexb2joXt2KNS91L8s) | [Showaddywaddy](https://open.spotify.com/artist/3zIIUxcnIoUMouVQdphkeC) | [Greatest, Vol.1](https://open.spotify.com/album/1cI8Nv68nO6cZRehRFsUfY) | 3:03 | 2021-09-08 | 2022-07-27 |
 | [You Made Me Believe In Magic](https://open.spotify.com/track/5Yr45BUmrLVoHjFgPBXx9y) | [Bay City Rollers](https://open.spotify.com/artist/3r9TXuXfOUxXjgYgAR0fP8) | [Bay City Rollers \- The Best Of](https://open.spotify.com/album/1HG3FGlUe4Q5yQPtnBusYY) | 2:42 | 2021-09-08 | 2022-07-07 |

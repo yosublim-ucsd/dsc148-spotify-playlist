@@ -4,7 +4,7 @@
 
 > This week's essential new pop tracks\. Cover: Zara Larsson
 
-4,348 songs - 9 day 0 hr 10 min
+4,349 songs - 9 day 0 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1423,7 +1423,8 @@
 | [Getting Over You](https://open.spotify.com/track/22hCW8J2tHYdaBhdDX44HI) | [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Getting Over You](https://open.spotify.com/album/0JxpmNUNXqfXFDpZgaJ4My) | 2:10 | 2022-07-15 | 2022-07-30 |
 | [gfy \(with Machine Gun Kelly\)](https://open.spotify.com/track/3MTm8eZ2wCEtpyZqqhP6Dn) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [gfy \(with Machine Gun Kelly\)](https://open.spotify.com/album/43tasPwPisjAgGgde0yy7F) | 2:52 | 2022-05-27 | 2022-06-18 |
 | [Ghost](https://open.spotify.com/track/7LbhIjYNfCguxjAw43Mkff) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Diamonds & Dancefloors](https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ) | 3:01 | 2023-01-27 | 2023-02-18 |
-| [ghost](https://open.spotify.com/track/7kWQzBQbF7xcEIZfhtEzQI) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [ghost](https://open.spotify.com/album/4yTF5wykVgWLVY1zaS677Y) | 2:09 | 2023-10-27 |  |
+| [ghost](https://open.spotify.com/track/0GcLkedOfpccI5VpIHhWUx) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [ghost](https://open.spotify.com/album/4YTP4MQzeigSP2l9asDz0r) | 2:09 | 2023-11-24 |  |
+| [ghost](https://open.spotify.com/track/7kWQzBQbF7xcEIZfhtEzQI) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [ghost](https://open.spotify.com/album/4yTF5wykVgWLVY1zaS677Y) | 2:09 | 2023-10-27 | 2023-11-29 |
 | [Ghost of You](https://open.spotify.com/track/7Kbw2fTMOU43MrqXdGzroh) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Ghost of You](https://open.spotify.com/album/3tDXcAFGzJelw2FvjDP9aI) | 2:38 | 2022-10-07 | 2022-10-29 |
 | [ghost stories](https://open.spotify.com/track/5mHTITG5dhliz0weC2SqYD) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [ghost stories](https://open.spotify.com/album/2ua5FBvMS5yfDeX3LKIu64) | 2:44 | 2022-10-21 | 2022-11-05 |
 | [Ghost Town](https://open.spotify.com/track/1N9Ovp3h6SYLvNbDHKcSDH) | [New Rules](https://open.spotify.com/artist/75ois9nn8xMuOgVk2oCN1C) | [Ghost Town](https://open.spotify.com/album/0w4sgZBTkihYfxTQltEVBZ) | 2:28 | 2023-10-13 | 2023-10-28 |
