@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVDRFMQjgrJa.md) - [plain]
 
 > Ya llegué de donde andaba..\. se me concedió volver 🙏🏾
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,307 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,454 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVDRFMQjgrJa.md) - [plain]
 | 23 | [Soy Cómo Quiero Ser](https://open.spotify.com/track/7g9AOwPEt1zWoxV2ZyQ57m) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Tambora, Vol\. 2](https://open.spotify.com/album/2p2eoxekXVfwJQM1wfqlcQ) | 2:34 |
 | 24 | [El Cadete](https://open.spotify.com/track/0wWKTXhLBoUsq91iGoflqy) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Pienso en Ti](https://open.spotify.com/album/3nkfIhwsoNcReVGtC424XX) | 2:59 |
 | 25 | [Y Por Esa Calle Vive](https://open.spotify.com/track/3O0QWIrvnTilEumcyVqY1B) | [Los Baron De Apodaca](https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w) | [Y Por Esa Calle Vive](https://open.spotify.com/album/5FHIRoQU5DeVYBkg0FZNMA) | 3:38 |
-| 26 | [Arboles De La Barranca](https://open.spotify.com/track/3Oa31DdD8vxktKoyUf7RyZ) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Puras Rancheras](https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW) | 2:59 |
-| 27 | [Mi Enemigo El Amor](https://open.spotify.com/track/3V5mrjHNr7VFhcUJ5oh45V) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [El Vagabundo Que Te Ama](https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs) | 3:54 |
+| 26 | [Mi Enemigo El Amor](https://open.spotify.com/track/3V5mrjHNr7VFhcUJ5oh45V) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [El Vagabundo Que Te Ama](https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs) | 3:54 |
+| 27 | [Arboles De La Barranca](https://open.spotify.com/track/3Oa31DdD8vxktKoyUf7RyZ) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Puras Rancheras](https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW) | 2:59 |
 | 28 | [Envidia](https://open.spotify.com/track/4wobadpvabyC1A50QWd0s1) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Peor De Tus Antojos](https://open.spotify.com/album/0xCvjzBPz0Ir2t57IaBzim) | 2:31 |
 | 29 | [En La Barra](https://open.spotify.com/track/1SHmwHA6wc5IBECjCoFn8C) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Para Vivir Contigo](https://open.spotify.com/album/2a9iYk1aBjr7hExMNr2ZDe) | 2:35 |
 | 30 | [Ayer La Vi Por La Calle](https://open.spotify.com/track/3QEtFSlIylEVy7pePLHNiE) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [El Maquinista](https://open.spotify.com/album/69lJRuexU5t09latWCcR2L) | 3:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVDRFMQjgrJa.md) - [plain]
 | 99 | [Manuel Juárez](https://open.spotify.com/track/6CTMCrHbZcm4bhh5r5Avfj) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Corridos Con Banda](https://open.spotify.com/album/6KZbeAoMkCqOXr2ccNTXzP) | 4:38 |
 | 100 | [El Ultimo Cartucho](https://open.spotify.com/track/3YEz7DrxZbXnEfxIJ0tjE1) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Secretos De Mi Memoria](https://open.spotify.com/album/7uiQrtdG9S5vltQrvdK6Ik) | 2:47 |
 
-Snapshot ID: `MCwyODYyYjJiZjY3ZWZkY2MwYjg3ZWU4NmNmZWNiNzA0YmI3MDE2ODll`
+Snapshot ID: `MCw4MmM4MGIyZGI1MzI5MTNiMzRiOTA4Yzg1YzNlMGYzODMwMzY1ZDI2`

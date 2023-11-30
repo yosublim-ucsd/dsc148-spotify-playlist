@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 
 > The hottest songs you need to listen to right now\. Cover: aespa
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,345,853 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,345,909 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 | 3 | [Standing Next to You](https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:26 |
 | 4 | [exes](https://open.spotify.com/track/0HD8mbiPjp3o94X3EaZp0o) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [exes](https://open.spotify.com/album/54FpKE2Pug3xbPz26WUVSH) | 2:39 |
 | 5 | [DIE 4 YOU](https://open.spotify.com/track/7yZD4AVfQtAZD4cG8eRnPk) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [DIE 4 YOU](https://open.spotify.com/album/0FMkdX3YNx7Ez7pv3XRGzr) | 3:14 |
-| 6 | [Throw Your Arms Around Me](https://open.spotify.com/track/0CVwSCQOx3CMHjwDCmaElh) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Mushroom: 50 Years Of Making Noise \(Reimagined\)](https://open.spotify.com/album/4SRtPtUkg4izzJZ2Kr2LMJ) | 3:03 |
+| 6 | [Throw Your Arms Around Me](https://open.spotify.com/track/0CVwSCQOx3CMHjwDCmaElh) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Mushroom: 50 Years of Making Noise \(Reimagined\)](https://open.spotify.com/album/4SRtPtUkg4izzJZ2Kr2LMJ) | 3:03 |
 | 7 | [I \(Feat\. DAWN\)](https://open.spotify.com/track/6md6ZAdNYB356gXFFW7GXV) | [Park Bom](https://open.spotify.com/artist/3uHb6dRazmcaT15bMexUtt) | [I \(Feat\. DAWN\)](https://open.spotify.com/album/4yCLOlSNlSuwvzGVkYsLwU) | 3:53 |
 | 8 | [Only One](https://open.spotify.com/track/00Ba2PRFeih7voe93Bf5mk) | [BANG YEDAM](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X) | [ONLY ONE](https://open.spotify.com/album/1gh4MsmIImvxnpiDELpt6S) | 3:10 |
 | 9 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 | 49 | [life with u](https://open.spotify.com/track/26kZ0HPufaLqvshDE3UVw6) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [life with u](https://open.spotify.com/album/0pndWJdduaG9vP1PPAjYK8) | 3:25 |
 | 50 | [The Show \(with John Legend\)](https://open.spotify.com/track/5asAkK2OiCuCdLCjqAXemz) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [The Show: The Encore](https://open.spotify.com/album/4bNl4naMwsYI9OeG3WPZ5E) | 3:11 |
 
-Snapshot ID: `MCw2NTM3NTAxZjY2OGZhNmM3NDEwYzViMTk4ZjVkY2JkOWYxYThmMWEw`
+Snapshot ID: `MCwxMGIzNDhlOTUyNDhlN2U2ZDkwOTdhZmZjZWU4MmRlYTlmMjYyMDhk`

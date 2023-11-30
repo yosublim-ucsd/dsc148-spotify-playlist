@@ -4,7 +4,7 @@
 
 > ストロボライトのように光り輝く楽曲で、今日という日をスタートしよう。 Cover art painted by <a href="spotify:artist:2IUl3m1H1EQ7QfNbNWvgru">Vaundy</a>
 
-63 songs - 3 hr 46 min
+64 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [snow love](https://open.spotify.com/track/23keEnxeTVoQv1gWsPkPFj) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [snow love](https://open.spotify.com/album/67HG1uLY4tFmC6L3aNxjmS) | 3:26 | 2023-11-23 |  |
 | [SPECIALZ](https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [SPECIALZ](https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc) | 3:58 | 2023-11-23 |  |
 | [Super Ball](https://open.spotify.com/track/6CBqqocRx76YtdMvGqD2HZ) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Two Moon](https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa) | 3:23 | 2023-11-23 |  |
-| [TGIF](https://open.spotify.com/track/3horUXBBgEyTEAxfeT9c0P) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [TGIF](https://open.spotify.com/album/0aNeBf2SZFAUOYuyCBPU0c) | 2:51 | 2023-11-28 |  |
+| [TGIF](https://open.spotify.com/track/3horUXBBgEyTEAxfeT9c0P) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [TGIF](https://open.spotify.com/album/0aNeBf2SZFAUOYuyCBPU0c) | 2:51 | 2023-11-28 | 2023-11-30 |
+| [TOKYO JOURNEY](https://open.spotify.com/track/3eVvBU4nUV2GoVoF4iHo12) | [MONONOKE](https://open.spotify.com/artist/145u2V6RMbtZv0taOhfR6x) | [TOKYO JOURNEY](https://open.spotify.com/album/2f6d38S4UgGAF66V7DTwzs) | 4:18 | 2023-11-29 |  |
 | [TURN IT UP \- feat\. Candee & ZOT on the WAVE](https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH) | [TURN IT UP \(feat\. Candee & ZOT on the WAVE\)](https://open.spotify.com/album/5gTvyYgUsKQ6UwUdavwn5z) | 3:13 | 2023-11-28 |  |
 | [VIP](https://open.spotify.com/track/3U8u7YFQvljmsBHsJWPBR3) | [LIL SOFT TENNIS](https://open.spotify.com/artist/4W0x6vtaXBRGr5hPMYcrmQ), [VaVa](https://open.spotify.com/artist/5JlRv2tBZk1f4c7UULHkUY) | [i have a wing](https://open.spotify.com/album/7rLr6RHZ4u7XXNGNsRcu14) | 3:14 | 2023-11-23 |  |
 | [Wrecked](https://open.spotify.com/track/68wXxnlnc3B5r5QrfwRiiH) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Wrecked](https://open.spotify.com/album/41NdOKlkYvk8FJL0Uj4el1) | 2:08 | 2023-11-23 |  |

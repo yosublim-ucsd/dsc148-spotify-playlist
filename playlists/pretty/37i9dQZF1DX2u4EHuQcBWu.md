@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 
 > Himnos de Resistencia: Somos un pueblo fuerte que no se calla.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,041 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,105 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 41 | [El Pueblo Unido Jamás Será Vencido](https://open.spotify.com/track/1hcVUv737WNoY1d9BRZpyQ) | [Inti\-Illimani](https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN) | [Viva Italia](https://open.spotify.com/album/1g5vHoa3aMWXbVIlfhn7mb) | 4:52 |
 | 42 | [Abuso de Autoridad](https://open.spotify.com/track/2YOz9ahfbrr93hvnBDTySd) | [Three Souls In My Mind](https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R) | [Adicto al Rock N Roll](https://open.spotify.com/album/5V0WSZ1ihWk7bbDZ9O4LoQ) | 2:01 |
 | 43 | [Para Que Nunca Mas](https://open.spotify.com/track/3hucW9oJIdJkxjaNxAc6wd) | [Sol y Lluvia](https://open.spotify.com/artist/6iGoMyoSIjyTxbCRyHREtI) | [Antología del Canto Nuevo Vol\. 2](https://open.spotify.com/album/6ABGUSzgpN1gX8vIW4abGu) | 2:27 |
-| 44 | [Millones](https://open.spotify.com/track/6EYVI4zwxzP3EnViyiI5x0) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Almismotiempo](https://open.spotify.com/album/0DdeLpEFBKlHGUT72nyxAQ) | 3:42 |
-| 45 | [Tlatelolco 68](https://open.spotify.com/track/0IpAufJEjttMegWQvxcI2i) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Éxitos](https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV) | 4:47 |
+| 44 | [Tlatelolco 68](https://open.spotify.com/track/0IpAufJEjttMegWQvxcI2i) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Éxitos](https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV) | 4:47 |
+| 45 | [Millones](https://open.spotify.com/track/6EYVI4zwxzP3EnViyiI5x0) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Almismotiempo](https://open.spotify.com/album/0DdeLpEFBKlHGUT72nyxAQ) | 3:42 |
 | 46 | [Antipatriarca](https://open.spotify.com/track/49SpHaonnqks7taOwDfV6Z) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Vengo](https://open.spotify.com/album/4AvYh9UIRwjZJYI9X7p8ua) | 3:04 |
 | 47 | [Calma Pueblo \(feat\. Omar Rodríguez\)](https://open.spotify.com/track/4eES4FfNECMQCcb4Ao9yhj) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb), [Omar Rodriguez](https://open.spotify.com/artist/1ixVWnnE0qh69epdQxmEhO) | [Entren Los Que Quieran](https://open.spotify.com/album/3yqcj5G3zkeXuWIx6cjQgx) | 4:09 |
 | 48 | [Al Pueblo Le Asusta La Revolución](https://open.spotify.com/track/582Lfqa9mSQO8bXtZImRYl) | [Portavoz](https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg) | [Escribo Rap Con R De Revolucion](https://open.spotify.com/album/4XvUXpek6UQmjm5ig49yL7) | 4:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 99 | [Ellas](https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Ellas](https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY) | 4:44 |
 | 100 | [Guayabo](https://open.spotify.com/track/7E0fKLZLwODr87yOe1GA3H) | [La Perla](https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp) | [Guayabo](https://open.spotify.com/album/4bjLDyvWAgtdaCm8ygrcmW) | 2:32 |
 
-Snapshot ID: `MCxkNDBkN2ZkOWJkYjk0ZWQ0ZTZiMTYzODk3MDRhZjMxYzg1Njk2ZThi`
+Snapshot ID: `MCxjM2I0YmNhYmU5MjlkYmU3ZWVjNTM4NjgyYTJiZjZkOWQzMDZkM2Q3`

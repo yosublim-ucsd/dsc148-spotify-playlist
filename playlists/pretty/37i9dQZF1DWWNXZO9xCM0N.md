@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNXZO9xCM0N.md) - [plain]
 
 > Para subir la temperatura\. Foto: Lebrón Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,474 likes - 50 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,554 likes - 50 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNXZO9xCM0N.md) - [plain]
 | 45 | [Soy El Rey](https://open.spotify.com/track/0TGLRGD4ZRp6sM5jy8EOjR) | [Pete Rodriguez](https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS) | [I Like It Like That](https://open.spotify.com/album/3jMsGvImaL1YxiTxNNIvvB) | 3:05 |
 | 46 | [Acuyuye](https://open.spotify.com/track/5LCpO7pp92DHmXzCLtJnnj) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Pacheco Y Su Charanga Vol\. 3: Que Suene La Flauta](https://open.spotify.com/album/694VA7cAltUDJrYV05dvsy) | 2:33 |
 | 47 | [Ligia Elena](https://open.spotify.com/track/38UKG3bIB4gT3EzQqE3eEm) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Canciones Del Solar De Los Aburridos](https://open.spotify.com/album/1szanrwjas55YHd6OzZrCs) | 6:04 |
-| 48 | [El Negro Bembón](https://open.spotify.com/track/5HBSFow30fXy0bPsCji7b9) | [Cortijo Y Su Combo](https://open.spotify.com/artist/4S3JIryQM3mFVhXmQKjtma), [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Baile Con Cortijo](https://open.spotify.com/album/0GlMPsTR4U1x1k3TkUcK7o) | 3:00 |
-| 49 | [Sonido Bestial](https://open.spotify.com/track/3ouNYFFQeYMJXjqGK0S1hM) | [Richie Ray & Bobby Cruz](https://open.spotify.com/artist/56eTRCwZ13vVWAmrG0dMnq) | [A Lifetime of Hits..\. \(Live At Centro de Bellas Artes, San Juan, Puerto Rico.\)](https://open.spotify.com/album/0u75f0pYJy2cGHNiikXGlz) | 9:58 |
-| 50 | [Quitate La Máscara](https://open.spotify.com/track/7AhoOwG8qWE5RK7GS1XA6w) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Barretto Power](https://open.spotify.com/album/5RxIBMJ5ZrQo1YmD1bk9k7) | 4:30 |
+| 48 | [Sonido Bestial](https://open.spotify.com/track/3ouNYFFQeYMJXjqGK0S1hM) | [Richie Ray & Bobby Cruz](https://open.spotify.com/artist/56eTRCwZ13vVWAmrG0dMnq) | [A Lifetime of Hits..\. \(Live At Centro de Bellas Artes, San Juan, Puerto Rico.\)](https://open.spotify.com/album/0u75f0pYJy2cGHNiikXGlz) | 9:58 |
+| 49 | [El Negro Bembón](https://open.spotify.com/track/5HBSFow30fXy0bPsCji7b9) | [Cortijo Y Su Combo](https://open.spotify.com/artist/4S3JIryQM3mFVhXmQKjtma), [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Baile Con Cortijo](https://open.spotify.com/album/0GlMPsTR4U1x1k3TkUcK7o) | 3:00 |
+| 50 | [Salsa Y Control](https://open.spotify.com/track/4y6QWwI8lqYYemjYK1PCPc) | [Lebrón Brothers](https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam) | [Salsa Y Control](https://open.spotify.com/album/539af69eELgsPBWn4ZwK8I) | 3:47 |
 
-Snapshot ID: `MCwyNDI4ZjIxZGNlZGI5Y2MzZjU5ZGQ5NjU4Y2E4YzZlY2NiMjJhNDBi`
+Snapshot ID: `MCw5N2U5NDIwZDE1ZmQ2ODZjN2IzOTRhMzNhZGM0YTMxMmU0ZjFhZGEw`

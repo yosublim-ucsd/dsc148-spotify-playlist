@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 
 > Gazo x Favé au top de la première playlist de rap français !
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,472,006 likes - 40 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,472,306 likes - 40 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 39 | [Dernière ligne droite \(feat\. Laylow\)](https://open.spotify.com/track/25ph3mbSI8iOkaNGPtrUwk) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2), [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [Autobahn](https://open.spotify.com/album/7IDykeUjRruv9YKVWt33KX) | 3:13 |
 | 40 | [Pas là](https://open.spotify.com/track/2gH0sY8ATBTt01imXPZJdH) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [ALPHA](https://open.spotify.com/album/6mHX3onyNT2xYveguxhrDm) | 2:27 |
 
-Snapshot ID: `MCwyYWVlM2Q0NTg2NDI0Mjc1OWMzMzA1MjQ5NmUzNGFjZjAzMzQ1ODVk`
+Snapshot ID: `MCxlN2NjMTcxM2E5ZGIyYTY1ODBiMWYxNzc0NzEzYTc4ZWU2ZjczZGNj`

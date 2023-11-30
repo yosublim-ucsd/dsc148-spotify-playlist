@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,946 likes - 299 songs - 16 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,121 likes - 299 songs - 16 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 20 | [pullmecloser](https://open.spotify.com/track/0LtDM3ttfZsmzmNgm8aAtm) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5) | [pullmecloser](https://open.spotify.com/album/165941zH2zxcRPR9rP8PK2) | 2:30 |
 | 21 | [Hold You Down](https://open.spotify.com/track/5WLcxGiKOoqD0pfeAR1RCP) | [Alex Parker](https://open.spotify.com/artist/7oOfZSYouCcyk13dNrOpiX), [ALMA](https://open.spotify.com/artist/1B7cXxCiF8Je72dc2XTt6M) | [Hold You Down](https://open.spotify.com/album/21V3q9UH4Wg7W2XSg3blKq) | 3:17 |
 | 22 | [Trust Again](https://open.spotify.com/track/6UtNK0tycnvtCAPtCHxZ5b) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Trust Again](https://open.spotify.com/album/2wLRd0zrL5bjo1gpDQ8VHP) | 3:50 |
-| 23 | [Stuck On You](https://open.spotify.com/track/3MPGIPuYWDP3ToQtcHd6cK) | [MashBit](https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ) | [Stuck On You](https://open.spotify.com/album/4FGWofRXJbI2nUc7l5jylx) | 2:29 |
+| 23 | [Stuck On You](https://open.spotify.com/track/6aevLJZYhcT7IW8WVspnIS) | [MashBit](https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ) | [Stuck On You](https://open.spotify.com/album/3L26xsJtlMRvbB4ECsjEX6) | 2:29 |
 | 24 | [Tefé](https://open.spotify.com/track/0GGFrmZVMTdti1BVtZpSH2) | [Fredy Lane](https://open.spotify.com/artist/4eqF8svFUIhgdkR7bSlQ6M) | [Tefé](https://open.spotify.com/album/6aqreTVS6wP0ALMBd2JRKL) | 2:52 |
 | 25 | [Renaissance](https://open.spotify.com/track/03aBQclFfQ82oEYCYTORfY) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf) | [Renaissance](https://open.spotify.com/album/4MT3BeO1DE8PAbsJSgfDtA) | 2:31 |
 | 26 | [On My Mind](https://open.spotify.com/track/3Z8pXlydvG00cjalDZgiUq) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a), [JIM](https://open.spotify.com/artist/5ahYpnzCN3IMzBCFqwnKfr) | [On My Mind](https://open.spotify.com/album/3Tc4RzAWum7OKbNkTGgkAX) | 2:20 |
@@ -308,4 +308,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 298 | [The Fall](https://open.spotify.com/track/5FvGI8KtImlEbOsvEW3pfX) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:16 |
 | 299 | [Just The Way I Feel](https://open.spotify.com/track/26ZLujrsJ2JQ8QWHYOe9B3) | [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH), [EMIAH](https://open.spotify.com/artist/2SvY2cO17kdD3swIBGOxs8) | [Just The Way I Feel](https://open.spotify.com/album/2P642dj0EaJxTs1fRpkqxa) | 3:06 |
 
-Snapshot ID: `MCwwMjYxM2Q2NGY2ZDllYjg5MWUwZmM2YjFiMmU4YzkyZDMyYTFhZjdh`
+Snapshot ID: `MCwwYjkxYzU4MzcwNjEzZmFkYWI4MGRlYjA0M2M5MmNjMTdmZjAzN2E2`

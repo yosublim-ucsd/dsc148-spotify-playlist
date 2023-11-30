@@ -1,12 +1,12 @@
 {
   "description": "An introduction to Giacomo Puccini, one of the great Italian opera composers.",
-  "num_followers": 66112,
+  "num_followers": 66141,
   "original_name": "This Is Puccini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NGRjN2FhZDMwNzBkNTkxZGExMzRkZWZiMTFhOTQyZjVjMjg4YzBh",
+  "snapshot_id": "MCwzNjhjODAyMDljZTYwYjk3MTI1ODU4NWM5Y2VlZjc5ZGQyNDUxYjgz",
   "tracks": [
     {
       "added_at": "2022-06-24 16:28:17",
@@ -819,30 +819,6 @@
     {
       "added_at": "2022-06-24 16:28:17",
       "album": {
-        "name": "Puccini: Messa Di Gloria / Preludio Sinfonico",
-        "url": "https://open.spotify.com/album/7zkTnAa00BF9sSQliLJ9Su"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Hungarian Operetta Orchestra",
-          "url": "https://open.spotify.com/artist/1lbvmi0BCuIYL12UqVR5hV"
-        },
-        {
-          "name": "Pier Giorgio Morandi",
-          "url": "https://open.spotify.com/artist/5N26LR3F8OW56imuIElk6B"
-        }
-      ],
-      "duration_ms": 596266,
-      "name": "Preludio Sinfonico",
-      "url": "https://open.spotify.com/track/74VfSpolk0gPkTYWVYiA9w"
-    },
-    {
-      "added_at": "2022-06-24 16:28:17",
-      "album": {
         "name": "Puccini Discoveries",
         "url": "https://open.spotify.com/album/1RhH0ZprLWAQOPF4dOFK2F"
       },
@@ -871,6 +847,30 @@
       "duration_ms": 329840,
       "name": "Requiem",
       "url": "https://open.spotify.com/track/6MO860szdftqyhW84iE5Z6"
+    },
+    {
+      "added_at": "2022-06-24 16:28:17",
+      "album": {
+        "name": "Puccini: Messa Di Gloria / Preludio Sinfonico",
+        "url": "https://open.spotify.com/album/7zkTnAa00BF9sSQliLJ9Su"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Hungarian Operetta Orchestra",
+          "url": "https://open.spotify.com/artist/1lbvmi0BCuIYL12UqVR5hV"
+        },
+        {
+          "name": "Pier Giorgio Morandi",
+          "url": "https://open.spotify.com/artist/5N26LR3F8OW56imuIElk6B"
+        }
+      ],
+      "duration_ms": 596266,
+      "name": "Preludio Sinfonico",
+      "url": "https://open.spotify.com/track/74VfSpolk0gPkTYWVYiA9w"
     },
     {
       "added_at": "2022-06-24 16:28:17",
@@ -1144,9 +1144,9 @@
           "url": "https://open.spotify.com/artist/2enPrYI2oHc6IWCuCmLfX9"
         }
       ],
-      "duration_ms": 356000,
-      "name": "Manon Lescaut: Act II: Intermezzo",
-      "url": "https://open.spotify.com/track/3pv4RscDG3IdEe9iaOegiT"
+      "duration_ms": 288360,
+      "name": "Manon Lescaut: Act IV: Sola, perduta, abbandonata",
+      "url": "https://open.spotify.com/track/1c5l35MacfrJ2dyiqichFH"
     },
     {
       "added_at": "2022-06-24 16:28:17",
@@ -1208,9 +1208,9 @@
           "url": "https://open.spotify.com/artist/2enPrYI2oHc6IWCuCmLfX9"
         }
       ],
-      "duration_ms": 288360,
-      "name": "Manon Lescaut: Act IV: Sola, perduta, abbandonata",
-      "url": "https://open.spotify.com/track/1c5l35MacfrJ2dyiqichFH"
+      "duration_ms": 356000,
+      "name": "Manon Lescaut: Act II: Intermezzo",
+      "url": "https://open.spotify.com/track/3pv4RscDG3IdEe9iaOegiT"
     },
     {
       "added_at": "2022-06-24 16:28:17",
@@ -1727,6 +1727,30 @@
     {
       "added_at": "2022-06-24 16:28:17",
       "album": {
+        "name": "Puccini: Orchestral Music",
+        "url": "https://open.spotify.com/album/2Mj1PrPGRLAV0LtmmF2wb7"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Deutsches Symphonie-Orchester Berlin",
+          "url": "https://open.spotify.com/artist/49TgMBH68KIFiOmLMoUOWY"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        }
+      ],
+      "duration_ms": 745440,
+      "name": "Capriccio Sinfonico",
+      "url": "https://open.spotify.com/track/2hGvecdwtax1Ax8DTYANki"
+    },
+    {
+      "added_at": "2022-06-24 16:28:17",
+      "album": {
         "name": "Puccini: La Boh\u00e8me",
         "url": "https://open.spotify.com/album/7ud7YtXiKwNYOdQPKLFOKA"
       },
@@ -1763,30 +1787,6 @@
       "duration_ms": 298253,
       "name": "La Boh\u00e8me / Act 4: \"O Mim\u00ec, tu pi\u00f9 non torni\"",
       "url": "https://open.spotify.com/track/22v6eOXCMDjL2zbEpTnrkx"
-    },
-    {
-      "added_at": "2022-06-24 16:28:17",
-      "album": {
-        "name": "Puccini: Orchestral Music",
-        "url": "https://open.spotify.com/album/2Mj1PrPGRLAV0LtmmF2wb7"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Deutsches Symphonie-Orchester Berlin",
-          "url": "https://open.spotify.com/artist/49TgMBH68KIFiOmLMoUOWY"
-        },
-        {
-          "name": "Riccardo Chailly",
-          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
-        }
-      ],
-      "duration_ms": 745440,
-      "name": "Capriccio Sinfonico",
-      "url": "https://open.spotify.com/track/2hGvecdwtax1Ax8DTYANki"
     },
     {
       "added_at": "2022-06-24 16:28:17",
@@ -2004,6 +2004,38 @@
           "url": "https://open.spotify.com/artist/5pLMWE1tVs9C7F9Qqauo44"
         },
         {
+          "name": "Jonas Kaufmann",
+          "url": "https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB"
+        },
+        {
+          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
+        }
+      ],
+      "duration_ms": 216333,
+      "name": "Puccini: Madama Butterfly, Act 1: \"Viene la sera\" (Pinkerton, Butterfly)",
+      "url": "https://open.spotify.com/track/2hsAENdoL1fSdyo8BAZikW"
+    },
+    {
+      "added_at": "2022-06-24 16:28:17",
+      "album": {
+        "name": "Puccini: Madama Butterfly",
+        "url": "https://open.spotify.com/album/2sLx3mkCwYywR1mMsZEW9g"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Antonio Pappano",
+          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
+        },
+        {
+          "name": "Angela Gheorghiu",
+          "url": "https://open.spotify.com/artist/5pLMWE1tVs9C7F9Qqauo44"
+        },
+        {
           "name": "Coro dell'Accademia Nazionale Di Santa Cecilia",
           "url": "https://open.spotify.com/artist/0s7O03leh3CDPvzFu2qIaR"
         },
@@ -2027,38 +2059,6 @@
       "duration_ms": 222986,
       "name": "Puccini: Madama Butterfly, Act 1: \"Gran ventura\" (Butterfly, Pinkerton, Sharpless, Goro, Chorus)",
       "url": "https://open.spotify.com/track/6K9qO26sczUVBqBxQUGmMl"
-    },
-    {
-      "added_at": "2022-06-24 16:28:17",
-      "album": {
-        "name": "Puccini: Madama Butterfly",
-        "url": "https://open.spotify.com/album/2sLx3mkCwYywR1mMsZEW9g"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Antonio Pappano",
-          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
-        },
-        {
-          "name": "Angela Gheorghiu",
-          "url": "https://open.spotify.com/artist/5pLMWE1tVs9C7F9Qqauo44"
-        },
-        {
-          "name": "Jonas Kaufmann",
-          "url": "https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB"
-        },
-        {
-          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
-        }
-      ],
-      "duration_ms": 216333,
-      "name": "Puccini: Madama Butterfly, Act 1: \"Viene la sera\" (Pinkerton, Butterfly)",
-      "url": "https://open.spotify.com/track/2hsAENdoL1fSdyo8BAZikW"
     },
     {
       "added_at": "2022-06-24 16:28:17",

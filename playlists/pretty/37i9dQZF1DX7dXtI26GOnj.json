@@ -1,12 +1,12 @@
 {
   "description": "Todo o calor latino est\u00e1 aqui! \ud83d\udd25  foto: Kali Uchis, KAROL G",
-  "num_followers": 167049,
+  "num_followers": 167184,
   "original_name": "Calorcito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0N2U5YmQ1ZGZlZTJkNDAyZDY5MDBiMTc5MjFjYTY4YzVkODEwMTFl",
+  "snapshot_id": "MCw0MzkzMjk1MzIyZTVjODhlNzVhYTc2ZmY5Nzk3ZTgxZjBhNmM5OTA3",
   "tracks": [
     {
       "added_at": "2023-11-24 03:00:00",
@@ -339,22 +339,26 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Ella Baila Sola",
-        "url": "https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU"
+        "name": "QUEMA",
+        "url": "https://open.spotify.com/album/0RdSengz6ayOfcVwH3HBry"
       },
       "artists": [
         {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
         },
         {
           "name": "Peso Pluma",
           "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
         }
       ],
-      "duration_ms": 165671,
-      "name": "Ella Baila Sola",
-      "url": "https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb"
+      "duration_ms": 150618,
+      "name": "QUEMA",
+      "url": "https://open.spotify.com/track/2hn2zOA2XFlv6DSmesylrL"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -379,26 +383,22 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "QUEMA",
-        "url": "https://open.spotify.com/album/0RdSengz6ayOfcVwH3HBry"
+        "name": "Ella Baila Sola",
+        "url": "https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU"
       },
       "artists": [
         {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         },
         {
           "name": "Peso Pluma",
           "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "SOG",
-          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
         }
       ],
-      "duration_ms": 150618,
-      "name": "QUEMA",
-      "url": "https://open.spotify.com/track/2hn2zOA2XFlv6DSmesylrL"
+      "duration_ms": 165671,
+      "name": "Ella Baila Sola",
+      "url": "https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "DESPECH\u00c1",
-        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 157017,
-      "name": "DESPECH\u00c1",
-      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
         "name": "EL \u00daLTIMO TOUR DEL MUNDO",
         "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 203200,
       "name": "LA NOCHE DE ANOCHE",
       "url": "https://open.spotify.com/track/2XIc1pqjXV3Cr2BQUGNBck"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "DESPECH\u00c1",
+        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 157017,
+      "name": "DESPECH\u00c1",
+      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
+        "name": "Me Gusta Tu Flow",
+        "url": "https://open.spotify.com/album/1625TAr0aacB03dTtcLg5W"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 177500,
+      "name": "Me Gusta Tu Flow",
+      "url": "https://open.spotify.com/track/1jeaCBXzfpy9kPBuLSQNmo"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
         "name": "Qu\u00e9 M\u00e1s Pues?",
         "url": "https://open.spotify.com/album/53ul5SFjVUQCotbJhjCkkK"
       },
@@ -1339,26 +1355,6 @@
       "duration_ms": 217773,
       "name": "Qu\u00e9 M\u00e1s Pues?",
       "url": "https://open.spotify.com/track/6hf0RpxTbOprT5nnwzkk8e"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
-        "name": "Santorini",
-        "url": "https://open.spotify.com/album/43pq1lauxP6T2c4ySugI0Z"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 160893,
-      "name": "Santorini",
-      "url": "https://open.spotify.com/track/2FVSQR0FXAIBkPtkkIMigS"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1383,18 +1379,22 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Me Gusta Tu Flow",
-        "url": "https://open.spotify.com/album/1625TAr0aacB03dTtcLg5W"
+        "name": "Santorini",
+        "url": "https://open.spotify.com/album/43pq1lauxP6T2c4ySugI0Z"
       },
       "artists": [
         {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         }
       ],
-      "duration_ms": 177500,
-      "name": "Me Gusta Tu Flow",
-      "url": "https://open.spotify.com/track/1jeaCBXzfpy9kPBuLSQNmo"
+      "duration_ms": 160893,
+      "name": "Santorini",
+      "url": "https://open.spotify.com/track/2FVSQR0FXAIBkPtkkIMigS"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "La Triple T",
-        "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 167674,
-      "name": "La Triple T",
-      "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
         "name": "LOS MUCHACHOS",
         "url": "https://open.spotify.com/album/79TZva6XBzzPDcQggKgGaa"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 199591,
       "name": "SINCERAMENTE",
       "url": "https://open.spotify.com/track/7xqF5MczPpjW4NLXF2CL88"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "La Triple T",
+        "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 167674,
+      "name": "La Triple T",
+      "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
+        "name": "Morena",
+        "url": "https://open.spotify.com/album/4WRcqPJRVwjF0n6ZFwaD83"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 188930,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/4RPeZbmVON5ZKT5HC9wALt"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
         "name": "Alcohol",
         "url": "https://open.spotify.com/album/7gq692anKJLGw10g8WUhCv"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 171841,
       "name": "Alcohol",
       "url": "https://open.spotify.com/track/61Vhp4a4WXuoMw810k7MS0"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
-        "name": "Morena",
-        "url": "https://open.spotify.com/album/4WRcqPJRVwjF0n6ZFwaD83"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 188930,
-      "name": "Morena",
-      "url": "https://open.spotify.com/track/4RPeZbmVON5ZKT5HC9wALt"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1659,6 +1659,30 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
+        "name": "Santorini (Remix)",
+        "url": "https://open.spotify.com/album/0kRKA3RJchMyON78ky1fmw"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 164880,
+      "name": "Santorini - Remix",
+      "url": "https://open.spotify.com/track/7Kzn6nzJQiUEj79IgxeD7F"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
         "name": "HOY ME PORTO MAL",
         "url": "https://open.spotify.com/album/4kX2CfhYUBVoEHmy1cnZnZ"
       },
@@ -1671,26 +1695,6 @@
       "duration_ms": 133051,
       "name": "HOY ME PORTO MAL",
       "url": "https://open.spotify.com/track/5o219CGhIIAqx41eXEunRL"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
-        "name": "LOS MUCHACHOS",
-        "url": "https://open.spotify.com/album/79TZva6XBzzPDcQggKgGaa"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 189918,
-      "name": "D\u00c9JALO EN VISTO",
-      "url": "https://open.spotify.com/track/5PrNsTfGhAxHcdg3AgqBNt"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1715,6 +1719,26 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
+        "name": "LOS MUCHACHOS",
+        "url": "https://open.spotify.com/album/79TZva6XBzzPDcQggKgGaa"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 189918,
+      "name": "D\u00c9JALO EN VISTO",
+      "url": "https://open.spotify.com/track/5PrNsTfGhAxHcdg3AgqBNt"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
         "name": "Trendy",
         "url": "https://open.spotify.com/album/6H4l2SjqMOvQIndddXgBXL"
       },
@@ -1731,30 +1755,6 @@
       "duration_ms": 137250,
       "name": "Trendy",
       "url": "https://open.spotify.com/track/5MHk9RHabnoiiEeL8jplwa"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
-        "name": "Santorini (Remix)",
-        "url": "https://open.spotify.com/album/0kRKA3RJchMyON78ky1fmw"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 164880,
-      "name": "Santorini - Remix",
-      "url": "https://open.spotify.com/track/7Kzn6nzJQiUEj79IgxeD7F"
     }
   ],
   "unique_name": "Calorcito",

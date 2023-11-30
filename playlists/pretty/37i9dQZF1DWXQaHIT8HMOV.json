@@ -1,40 +1,36 @@
 {
   "description": "Homegrown Ugandan hits in one playlist. Cover: Joshua Baraka",
-  "num_followers": 1899,
+  "num_followers": 1901,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Yzg0ZjE0MjQ0N2FjYjFmYzViNDMwMTU3OWYxYTRkYzg3YjhiOGY5",
+  "snapshot_id": "MCw3NThjNTAxNDVhNTY1YWUxYmFjNzMyMjM1YmFiMDA1OTZmYWQ4YWYy",
   "tracks": [
     {
       "added_at": "2023-11-24 04:43:31",
       "album": {
-        "name": "NANA (feat. Joeboy, King Promise & BIEN) [Remix]",
-        "url": "https://open.spotify.com/album/6wJBlGByE21Q8v3Q3YiGs0"
+        "name": "Baby Don't Go",
+        "url": "https://open.spotify.com/album/24GSq07wjmZqUSR6U1t1tA"
       },
       "artists": [
         {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+          "name": "Bright-D",
+          "url": "https://open.spotify.com/artist/7zPWBifsb7AHKrY2tPXniK"
         },
         {
-          "name": "Bien",
-          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+          "name": "Livforit",
+          "url": "https://open.spotify.com/artist/68uhrd8OUr4OFZmmvvt6Vd"
         },
         {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        },
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+          "name": "MUVUNYI",
+          "url": "https://open.spotify.com/artist/5L1TL5jBqCs3O2eS1IEB5x"
         }
       ],
-      "duration_ms": 199190,
-      "name": "NANA (feat. Joeboy, King Promise & BIEN) - Remix",
-      "url": "https://open.spotify.com/track/7opZfbxpDVfytlGZ8AgDQL"
+      "duration_ms": 184117,
+      "name": "Baby Don't Go",
+      "url": "https://open.spotify.com/track/7ereF3RNh0A92CqVD1Hrd0"
     },
     {
       "added_at": "2023-11-24 04:43:31",
@@ -103,30 +99,6 @@
     {
       "added_at": "2023-11-24 04:43:31",
       "album": {
-        "name": "Baby Don't Go",
-        "url": "https://open.spotify.com/album/24GSq07wjmZqUSR6U1t1tA"
-      },
-      "artists": [
-        {
-          "name": "Bright-D",
-          "url": "https://open.spotify.com/artist/7zPWBifsb7AHKrY2tPXniK"
-        },
-        {
-          "name": "Livforit",
-          "url": "https://open.spotify.com/artist/68uhrd8OUr4OFZmmvvt6Vd"
-        },
-        {
-          "name": "MUVUNYI",
-          "url": "https://open.spotify.com/artist/5L1TL5jBqCs3O2eS1IEB5x"
-        }
-      ],
-      "duration_ms": 184117,
-      "name": "Baby Don't Go",
-      "url": "https://open.spotify.com/track/7ereF3RNh0A92CqVD1Hrd0"
-    },
-    {
-      "added_at": "2023-11-24 04:43:31",
-      "album": {
         "name": "Bailando",
         "url": "https://open.spotify.com/album/7t4A3s2p3zolibFnDwx1xY"
       },
@@ -159,6 +131,34 @@
       "duration_ms": 210724,
       "name": "Majje",
       "url": "https://open.spotify.com/track/0WtWi9rYWUAwq57vbA6y2k"
+    },
+    {
+      "added_at": "2023-11-24 04:43:31",
+      "album": {
+        "name": "NANA (feat. Joeboy, King Promise & BIEN) [Remix]",
+        "url": "https://open.spotify.com/album/6wJBlGByE21Q8v3Q3YiGs0"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 199190,
+      "name": "NANA (feat. Joeboy, King Promise & BIEN) - Remix",
+      "url": "https://open.spotify.com/track/7opZfbxpDVfytlGZ8AgDQL"
     },
     {
       "added_at": "2023-11-24 04:43:31",
@@ -223,6 +223,26 @@
     {
       "added_at": "2023-11-24 04:43:31",
       "album": {
+        "name": "SANKOFA",
+        "url": "https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC"
+      },
+      "artists": [
+        {
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+        },
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Summer Bae",
+      "url": "https://open.spotify.com/track/4FKLDG7TJuMHtaP9sDZOpi"
+    },
+    {
+      "added_at": "2023-11-24 04:43:31",
+      "album": {
         "name": "Bwepaba",
         "url": "https://open.spotify.com/album/3KTcQeURSAxN6ubdoh9QKa"
       },
@@ -259,26 +279,6 @@
       "duration_ms": 186947,
       "name": "Tutu Mama",
       "url": "https://open.spotify.com/track/3J12BNX50z4OsGpmihm4LG"
-    },
-    {
-      "added_at": "2023-11-24 04:43:31",
-      "album": {
-        "name": "Omukwano (Love)",
-        "url": "https://open.spotify.com/album/1DvxeF75SryYMeYsarF6NN"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        },
-        {
-          "name": "Winnie Nwagi",
-          "url": "https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD"
-        }
-      ],
-      "duration_ms": 183673,
-      "name": "Omukwano (Love)",
-      "url": "https://open.spotify.com/track/0OwVXpiH4Mikje2le0NQrG"
     },
     {
       "added_at": "2023-11-24 04:43:31",
@@ -335,22 +335,22 @@
     {
       "added_at": "2023-11-24 04:43:31",
       "album": {
-        "name": "SANKOFA",
-        "url": "https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC"
+        "name": "Omukwano (Love)",
+        "url": "https://open.spotify.com/album/1DvxeF75SryYMeYsarF6NN"
       },
       "artists": [
         {
-          "name": "Azawi",
-          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
         },
         {
-          "name": "Konshens",
-          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+          "name": "Winnie Nwagi",
+          "url": "https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Summer Bae",
-      "url": "https://open.spotify.com/track/4FKLDG7TJuMHtaP9sDZOpi"
+      "duration_ms": 183673,
+      "name": "Omukwano (Love)",
+      "url": "https://open.spotify.com/track/0OwVXpiH4Mikje2le0NQrG"
     },
     {
       "added_at": "2023-11-24 04:43:31",
@@ -391,22 +391,18 @@
     {
       "added_at": "2023-11-24 04:43:31",
       "album": {
-        "name": "CHERRY SWEET",
-        "url": "https://open.spotify.com/album/1iu9wqIVEQ2cm20mO6DmvG"
+        "name": "SANKOFA",
+        "url": "https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC"
       },
       "artists": [
         {
-          "name": "MAUIM\u00d8ON",
-          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
-        },
-        {
-          "name": "La So\u00fclchyld",
-          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
         }
       ],
-      "duration_ms": 130500,
-      "name": "CHERRY SWEET",
-      "url": "https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM"
+      "duration_ms": 129600,
+      "name": "Lucky Day",
+      "url": "https://open.spotify.com/track/35eelQcBjSxSVUq41Ip1el"
     },
     {
       "added_at": "2023-11-24 04:43:31",
@@ -427,6 +423,26 @@
     {
       "added_at": "2023-11-24 04:43:31",
       "album": {
+        "name": "CHERRY SWEET",
+        "url": "https://open.spotify.com/album/1iu9wqIVEQ2cm20mO6DmvG"
+      },
+      "artists": [
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        },
+        {
+          "name": "La So\u00fclchyld",
+          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
+        }
+      ],
+      "duration_ms": 130500,
+      "name": "CHERRY SWEET",
+      "url": "https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM"
+    },
+    {
+      "added_at": "2023-11-24 04:43:31",
+      "album": {
         "name": "Thank God",
         "url": "https://open.spotify.com/album/4hjWLxMMEnYQumShwTWlzy"
       },
@@ -439,42 +455,6 @@
       "duration_ms": 180172,
       "name": "Thank God",
       "url": "https://open.spotify.com/track/5QIykphDf5bz5UIdlFnDoa"
-    },
-    {
-      "added_at": "2023-11-24 04:43:31",
-      "album": {
-        "name": "Enjoyment",
-        "url": "https://open.spotify.com/album/2PhVNYUYi6uiCsZerHfds4"
-      },
-      "artists": [
-        {
-          "name": "Eddy Kenzo",
-          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
-        },
-        {
-          "name": "Rickman Manrick",
-          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
-        }
-      ],
-      "duration_ms": 193776,
-      "name": "Enjoyment",
-      "url": "https://open.spotify.com/track/5pf5ek4NcXQAsuoRhvO7A3"
-    },
-    {
-      "added_at": "2023-11-24 04:43:31",
-      "album": {
-        "name": "Belinda",
-        "url": "https://open.spotify.com/album/5jHk9XRushK0QWe6yamCPW"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        }
-      ],
-      "duration_ms": 133537,
-      "name": "Belinda",
-      "url": "https://open.spotify.com/track/64C4vezOJyDbudIGxquW89"
     },
     {
       "added_at": "2023-11-24 04:43:31",
@@ -499,6 +479,26 @@
     {
       "added_at": "2023-11-24 04:43:31",
       "album": {
+        "name": "Enjoyment",
+        "url": "https://open.spotify.com/album/2PhVNYUYi6uiCsZerHfds4"
+      },
+      "artists": [
+        {
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+        },
+        {
+          "name": "Rickman Manrick",
+          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
+        }
+      ],
+      "duration_ms": 193776,
+      "name": "Enjoyment",
+      "url": "https://open.spotify.com/track/5pf5ek4NcXQAsuoRhvO7A3"
+    },
+    {
+      "added_at": "2023-11-24 04:43:31",
+      "album": {
         "name": "Ability",
         "url": "https://open.spotify.com/album/7snzcqObYYgEgCzXPXCjqe"
       },
@@ -519,18 +519,18 @@
     {
       "added_at": "2023-11-24 04:43:31",
       "album": {
-        "name": "SANKOFA",
-        "url": "https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC"
+        "name": "Belinda",
+        "url": "https://open.spotify.com/album/5jHk9XRushK0QWe6yamCPW"
       },
       "artists": [
         {
-          "name": "Azawi",
-          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
         }
       ],
-      "duration_ms": 129600,
-      "name": "Lucky Day",
-      "url": "https://open.spotify.com/track/35eelQcBjSxSVUq41Ip1el"
+      "duration_ms": 133537,
+      "name": "Belinda",
+      "url": "https://open.spotify.com/track/64C4vezOJyDbudIGxquW89"
     },
     {
       "added_at": "2023-11-24 04:43:31",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-11-24 04:43:31",
       "album": {
-        "name": "Chai Mata",
-        "url": "https://open.spotify.com/album/5ZvpAM99cjGQ4JboHey2Jw"
-      },
-      "artists": [
-        {
-          "name": "John Blaq",
-          "url": "https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Chai Mata",
-      "url": "https://open.spotify.com/track/0yB5G5Yd2wJvIZDpNXMWBl"
-    },
-    {
-      "added_at": "2023-11-24 04:43:31",
-      "album": {
         "name": "Omwenge",
         "url": "https://open.spotify.com/album/1xyRIpZigEgRdjDNNunzZT"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 225985,
       "name": "Omwenge",
       "url": "https://open.spotify.com/track/0MseyNtnkNbEt6lIbMFhjn"
+    },
+    {
+      "added_at": "2023-11-24 04:43:31",
+      "album": {
+        "name": "Chai Mata",
+        "url": "https://open.spotify.com/album/5ZvpAM99cjGQ4JboHey2Jw"
+      },
+      "artists": [
+        {
+          "name": "John Blaq",
+          "url": "https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Chai Mata",
+      "url": "https://open.spotify.com/track/0yB5G5Yd2wJvIZDpNXMWBl"
     },
     {
       "added_at": "2023-11-24 04:43:31",

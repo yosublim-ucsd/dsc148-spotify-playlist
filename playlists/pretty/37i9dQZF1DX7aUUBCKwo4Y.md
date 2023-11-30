@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aUUBCKwo4Y.md) - [plain]
 
 > Country music's 50 most played songs in the world\. Updated weekly\. Cover: Morgan Wallen
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,089,681 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,091,145 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aUUBCKwo4Y.md) - [plain]
 | 25 | [The Painter](https://open.spotify.com/track/6UoKX6uLJwhsnyTp5k5StP) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [The Painter](https://open.spotify.com/album/5KxDhlSxJGEOcaTnqKwdYu) | 3:31 |
 | 26 | [Please Don't Go](https://open.spotify.com/track/6DHPLbudo5JXNdUlG7zDcC) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Please Don't Go](https://open.spotify.com/album/4K2htiCgz7DrhLOWepp3ru) | 3:01 |
 | 27 | [Before He Cheats](https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 3:19 |
-| 28 | [Straight and Narrow](https://open.spotify.com/track/3fonAuTvuI5KMcmnueLAPq) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Million Eyes](https://open.spotify.com/album/5jrPhnzA00KBWc3bJJUqTY) | 3:19 |
+| 28 | [Straight and Narrow](https://open.spotify.com/track/30fbAXFjj9feoB56NbLFN0) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Straight and Narrow](https://open.spotify.com/album/38SBM2jhA27kEq2SrgfS89) | 3:19 |
 | 29 | [Feathered Indians](https://open.spotify.com/track/2tgQaL85WoRfgEa4hFQgrE) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Purgatory](https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz) | 3:44 |
 | 30 | [TRUCK BED](https://open.spotify.com/track/73NzYbpaYvQ7JfpjztFESL) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [TRUCK BED](https://open.spotify.com/album/1boiPTdVLFiJQIhcH3dWVq) | 2:47 |
 | 31 | [Pretty Little Poison](https://open.spotify.com/track/2gT2iF1YK5r54A2PDEXVv8) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Pretty Little Poison](https://open.spotify.com/album/19EncKM5x6aE207IFFUT2M) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aUUBCKwo4Y.md) - [plain]
 | 49 | [Flower Shops \(feat\. Morgan Wallen\)](https://open.spotify.com/track/2ccuOtUjIyx3tPcsnpeBzJ) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Flower Shops \(feat\. Morgan Wallen\)](https://open.spotify.com/album/5gdgH8d7W2KwkK03Ea0vpi) | 3:34 |
 | 50 | [In Your Love](https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [In Your Love](https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc) | 3:45 |
 
-Snapshot ID: `MCw1ZjExY2E5MTU5NjViMDI2NGNmZjNkMTNiNWZlYzc5NmFlOGFlNmVl`
+Snapshot ID: `MCw1ZmYzYjBkYTFkZmVmYjIxZGU4OTNkZGM4NjA2YjIxZjhmMjBhZjQ4`

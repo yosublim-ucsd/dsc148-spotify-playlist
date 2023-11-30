@@ -1,12 +1,12 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 163244,
+  "num_followers": 163361,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDhlNmUxZDVkOTRkMWNlZjFjNTc5MTE0NjJmMjM3OTgwNTA3ZjM1",
+  "snapshot_id": "MCxhZTllNGM3NjI5ODRiMWQxOWFhZDA3Nzc0NTNlY2U5ODE4ZTI2MzYz",
   "tracks": [
     {
       "added_at": "2023-10-13 04:59:00",
@@ -875,26 +875,6 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Bethel Music en Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Bethany Wohrle",
-          "url": "https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e"
-        }
-      ],
-      "duration_ms": 291986,
-      "name": "Mi Esperanza Est\u00e1 en Jes\u00fas (Live)",
-      "url": "https://open.spotify.com/track/38e9daXegEIuNlP7lMII4Z"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
         "name": "M\u00fasica en el Desierto",
         "url": "https://open.spotify.com/album/0XJjgo6rIW6kp9O8qLnord"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 271419,
       "name": "Eterna luz",
       "url": "https://open.spotify.com/track/5aJL7N6W2oXcZsMB9njrYH"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
+        "name": "Bethel Music en Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Bethany Wohrle",
+          "url": "https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e"
+        }
+      ],
+      "duration_ms": 291986,
+      "name": "Mi Esperanza Est\u00e1 en Jes\u00fas (Live)",
+      "url": "https://open.spotify.com/track/38e9daXegEIuNlP7lMII4Z"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1115,38 +1115,6 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Vivo para Ti",
-        "url": "https://open.spotify.com/album/3Ceaj1zts2EVTqzGV0JcLQ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Calveti",
-          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
-        }
-      ],
-      "duration_ms": 213446,
-      "name": "Te Amo Jes\u00fas",
-      "url": "https://open.spotify.com/track/1G7lUahhD2iJZd8DTwkG9d"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
-        "name": "Me Visti\u00f3 De Promesas",
-        "url": "https://open.spotify.com/album/1SUEDD9quNY1LYU36X6UUp"
-      },
-      "artists": [
-        {
-          "name": "Julissa",
-          "url": "https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu"
-        }
-      ],
-      "duration_ms": 288266,
-      "name": "Creemos",
-      "url": "https://open.spotify.com/track/1Z33wIAMRaaGFSuBnFcYRU"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
         "name": "Grande y Fiel (Live)",
         "url": "https://open.spotify.com/album/0TCN0IwS8kJ1qwgMu0tElH"
       },
@@ -1167,6 +1135,22 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
+        "name": "Me Visti\u00f3 De Promesas",
+        "url": "https://open.spotify.com/album/1SUEDD9quNY1LYU36X6UUp"
+      },
+      "artists": [
+        {
+          "name": "Julissa",
+          "url": "https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu"
+        }
+      ],
+      "duration_ms": 288266,
+      "name": "Creemos",
+      "url": "https://open.spotify.com/track/1Z33wIAMRaaGFSuBnFcYRU"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
         "name": "Rojo 24.7",
         "url": "https://open.spotify.com/album/0QZLXtvwIdSulLNEAXWuYR"
       },
@@ -1183,18 +1167,34 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Eres Mi Pasi\u00f3n",
-        "url": "https://open.spotify.com/album/0xPzP6ceN9y2CwTWlljy8F"
+        "name": "Vivo para Ti",
+        "url": "https://open.spotify.com/album/3Ceaj1zts2EVTqzGV0JcLQ"
       },
       "artists": [
         {
-          "name": "Coalo Zamorano",
-          "url": "https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b"
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
         }
       ],
-      "duration_ms": 192130,
-      "name": "Poema de salvaci\u00f3n",
-      "url": "https://open.spotify.com/track/2hrTXb6LVeQW0F18e9neuZ"
+      "duration_ms": 213446,
+      "name": "Te Amo Jes\u00fas",
+      "url": "https://open.spotify.com/track/1G7lUahhD2iJZd8DTwkG9d"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
+        "name": "Si Tu No Estas",
+        "url": "https://open.spotify.com/album/63YxkoEStzX5qttiPP5EwG"
+      },
+      "artists": [
+        {
+          "name": "Luis Santiago",
+          "url": "https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE"
+        }
+      ],
+      "duration_ms": 372767,
+      "name": "Eres Tu",
+      "url": "https://open.spotify.com/track/0lXL1oSS0rAM2MSwQagDr4"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "Si Tu No Estas",
-        "url": "https://open.spotify.com/album/63YxkoEStzX5qttiPP5EwG"
+        "name": "Eres Mi Pasi\u00f3n",
+        "url": "https://open.spotify.com/album/0xPzP6ceN9y2CwTWlljy8F"
       },
       "artists": [
         {
-          "name": "Luis Santiago",
-          "url": "https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE"
+          "name": "Coalo Zamorano",
+          "url": "https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b"
         }
       ],
-      "duration_ms": 372767,
-      "name": "Eres Tu",
-      "url": "https://open.spotify.com/track/0lXL1oSS0rAM2MSwQagDr4"
+      "duration_ms": 192130,
+      "name": "Poema de salvaci\u00f3n",
+      "url": "https://open.spotify.com/track/2hrTXb6LVeQW0F18e9neuZ"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1295,22 +1295,6 @@
       "duration_ms": 321226,
       "name": "Mi Redentor Vive",
       "url": "https://open.spotify.com/track/704QgEqQm5uIqv8BtOxjTc"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
-        "name": "Gloria sea a ti",
-        "url": "https://open.spotify.com/album/2Iyng7Y20EuZ1VSOafcnPg"
-      },
-      "artists": [
-        {
-          "name": "Coalo Zamorano",
-          "url": "https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b"
-        }
-      ],
-      "duration_ms": 233965,
-      "name": "Al que es digno",
-      "url": "https://open.spotify.com/track/7bueiNmYqB7CJzuo52wGP9"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1395,6 +1379,22 @@
       "duration_ms": 282345,
       "name": "Fija Tus Ojos En Cristo",
       "url": "https://open.spotify.com/track/0h8xH56h5XD7BeHPWYqDC4"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
+        "name": "Gloria sea a ti",
+        "url": "https://open.spotify.com/album/2Iyng7Y20EuZ1VSOafcnPg"
+      },
+      "artists": [
+        {
+          "name": "Coalo Zamorano",
+          "url": "https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b"
+        }
+      ],
+      "duration_ms": 233965,
+      "name": "Al que es digno",
+      "url": "https://open.spotify.com/track/7bueiNmYqB7CJzuo52wGP9"
     },
     {
       "added_at": "2023-10-13 04:59:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-10-13 04:59:00",
       "album": {
-        "name": "El Justo Vivir\u00e1 Por Fe",
-        "url": "https://open.spotify.com/album/434bFVfYutpT3PknlXQudX"
-      },
-      "artists": [
-        {
-          "name": "Adoraci\u00f3n La IBI",
-          "url": "https://open.spotify.com/artist/6qValgleME8pv861DLzupQ"
-        }
-      ],
-      "duration_ms": 309400,
-      "name": "El Justo Vivir\u00e1 Por Fe",
-      "url": "https://open.spotify.com/track/3sLzXACmqioXU47UjfL5c2"
-    },
-    {
-      "added_at": "2023-10-13 04:59:00",
-      "album": {
         "name": "El Eco De Su Voz",
         "url": "https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 327146,
       "name": "Alabar\u00e9 Al Se\u00f1or (An\u00e1stasis)",
       "url": "https://open.spotify.com/track/17tQn0PVAVheKCGg24RFMQ"
+    },
+    {
+      "added_at": "2023-10-13 04:59:00",
+      "album": {
+        "name": "El Justo Vivir\u00e1 Por Fe",
+        "url": "https://open.spotify.com/album/434bFVfYutpT3PknlXQudX"
+      },
+      "artists": [
+        {
+          "name": "Adoraci\u00f3n La IBI",
+          "url": "https://open.spotify.com/artist/6qValgleME8pv861DLzupQ"
+        }
+      ],
+      "duration_ms": 309400,
+      "name": "El Justo Vivir\u00e1 Por Fe",
+      "url": "https://open.spotify.com/track/3sLzXACmqioXU47UjfL5c2"
     },
     {
       "added_at": "2023-10-13 04:59:00",

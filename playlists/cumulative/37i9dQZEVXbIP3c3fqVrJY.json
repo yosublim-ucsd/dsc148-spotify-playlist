@@ -2251,6 +2251,24 @@
     },
     {
       "album": {
+        "name": "Bejby",
+        "url": "https://open.spotify.com/album/4J2IQ01XunpWumV5rn4ceK"
+      },
+      "artists": [
+        {
+          "name": "Sima",
+          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136124,
+      "name": "Bejby",
+      "url": "https://open.spotify.com/track/11oUseW6uGWlPDQ77M2GT1"
+    },
+    {
+      "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
@@ -3522,7 +3540,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 205483,
       "name": "Can\u2019t Catch Me Now - from The Hunger Games: The Ballad of Songbirds & Snakes",
       "url": "https://open.spotify.com/track/17cia5k4BpGVlyEfqrFH50"
@@ -3912,7 +3930,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 168923,
       "name": "Cik\u00e1dy",
       "url": "https://open.spotify.com/track/4enbO9cZhJLSZ6Tf21LRnv"
@@ -5792,7 +5810,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 151578,
       "name": "DTB for Life",
       "url": "https://open.spotify.com/track/0uqziJ0jXgIl13movC27ut"
@@ -8702,7 +8720,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-29",
+      "date_removed": null,
       "duration_ms": 119786,
       "name": "Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE"
@@ -9534,7 +9552,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-29",
+      "date_removed": null,
       "duration_ms": 207199,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
@@ -9570,7 +9588,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-29",
+      "date_removed": null,
       "duration_ms": 151000,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
@@ -17651,6 +17669,24 @@
     },
     {
       "album": {
+        "name": "KONTAKT",
+        "url": "https://open.spotify.com/album/6uq8L73MV299c6guEm3LUt"
+      },
+      "artists": [
+        {
+          "name": "Ben Cristovao",
+          "url": "https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Pro N\u00e1s Dva",
+      "url": "https://open.spotify.com/track/2qLTsp5TqZO7HnQKuIcHtV"
+    },
+    {
+      "album": {
         "name": "Planeta opic",
         "url": "https://open.spotify.com/album/1lm4K8VIsxdvb6B0Rj6FMl"
       },
@@ -17662,7 +17698,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 137622,
       "name": "Probuzen\u00ed",
       "url": "https://open.spotify.com/track/1LWzGlLSdd2YFxuVxElL4O"
@@ -18082,7 +18118,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-29",
+      "date_removed": null,
       "duration_ms": 303893,
       "name": "P\u016flno\u010dn\u00ed",
       "url": "https://open.spotify.com/track/5Thza83zbkoIupxDHf9kmq"
@@ -19720,7 +19756,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 184061,
       "name": "Si No Est\u00e1s",
       "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
@@ -21066,7 +21102,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 155520,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/4WXX611x1aCtwcqVJgA3xb"
@@ -22606,7 +22642,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 202666,
       "name": "Ujde to",
       "url": "https://open.spotify.com/track/6YmJ7h3IB28IngbwOfQRyO"
@@ -22660,7 +22696,7 @@
       ],
       "date_added": "2023-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-29",
+      "date_removed": null,
       "duration_ms": 229640,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR"

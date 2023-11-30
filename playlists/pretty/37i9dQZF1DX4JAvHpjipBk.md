@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Kali Uchis & KAROL G, Sexyy Redd, Myke Towers, Björk & ROSALÍA, Tim McGraw, Zara Larsson and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,182,979 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,183,046 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 52 | [Float On](https://open.spotify.com/track/6SI9rubvGJy7nyF2bK65UP) | [Blaketheman1000](https://open.spotify.com/artist/0QrLOWMTGOF7Vwb3SAhf3I), [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag), [genny!](https://open.spotify.com/artist/4jbtFLSrJbuJLgjXdR8DxS) | [Float On](https://open.spotify.com/album/1nd2lWMcGN9Mn6LQpA8L9x) | 3:06 |
 | 53 | [Project XXX](https://open.spotify.com/track/35f1EXgZelEJKJPGo6VWIQ) | [B Jack$](https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo), [MCVERTT](https://open.spotify.com/artist/5vqMF43W0Sex6zjJJKv7LC) | [Project XXX](https://open.spotify.com/album/2EZrlcbTi3NHvlw0OTAHaX) | 2:09 |
 | 54 | [Believe In Myself](https://open.spotify.com/track/047hYmw8Viqwx4cavskXVy) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [Believe In Myself](https://open.spotify.com/album/5ngmMrPiCbLRleKZXj3zqV) | 3:41 |
-| 55 | [Still Got It Bad](https://open.spotify.com/track/3sBekLF0BJII3VhcmqzMHg) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio) | [Still Got It bad](https://open.spotify.com/album/6XqCdGxjzalzwAWE3ekh68) | 2:21 |
+| 55 | [Still Got It Bad](https://open.spotify.com/track/3sBekLF0BJII3VhcmqzMHg) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio) | [Still Got It Bad](https://open.spotify.com/album/6XqCdGxjzalzwAWE3ekh68) | 2:21 |
 | 56 | [Black And Blue](https://open.spotify.com/track/6g8ntuutiG4ubvDtVJOd1c) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [True Love And Its Consequences](https://open.spotify.com/album/0RaCyomR79XSN0bkzaecsf) | 3:26 |
 | 57 | [STUCK](https://open.spotify.com/track/5GOdow3olKCstvsqCfXFZg) | [Mia Nicolai](https://open.spotify.com/artist/5oSkgLWQpt5bk4B7JeAzKJ) | [STUCK](https://open.spotify.com/album/0ggyrO4fmfmZPXTND1NhwI) | 2:36 |
 | 58 | [Pedestal](https://open.spotify.com/track/6lKaiRbX5DtGMGNvE4xRbx) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Pedestal](https://open.spotify.com/album/3wkV84YZxNsqZ0CUZkKAdj) | 4:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [King](https://open.spotify.com/track/6OvMmEeumtCP6WgYqgA08T) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Antagonist](https://open.spotify.com/album/6u26YQ3XrrBmHUj3g0dzhJ) | 2:47 |
 | 100 | [Gz Up, Hoes Down](https://open.spotify.com/track/0cCLG47Bxcj7GpCXmkKP5r) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Doggystyle \(30th Anniversary Edition\)](https://open.spotify.com/album/2QioUoh1jheynkUHP4XsCN) | 2:21 |
 
-Snapshot ID: `MCwwM2FmMjhkNTc4MDNjOTQ3NDBkN2NhMTIwNDYyMDA4MzEyZmRkOTk3`
+Snapshot ID: `MCxhMTIwNjMyZjZjNThmYTRkZDg3NzJjNmI1MTZlNTUzZmEwZDkwOGY5`

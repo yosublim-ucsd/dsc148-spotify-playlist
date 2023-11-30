@@ -1,12 +1,12 @@
 {
   "description": "Laid back soul music.",
-  "num_followers": 207775,
+  "num_followers": 207858,
   "original_name": "Soulful Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWI1Zjc3ZjE1NTU5ODc1ZmFiZTJmNjU2Mzk2Mzk0ZjNlYjBmMTRi",
+  "snapshot_id": "MCw0OWEyNDAzZTdhMWZhNmYxYjI3ODdhOTY5YWRmM2M3MzZjYzVmNmQz",
   "tracks": [
     {
       "added_at": "2023-10-11 19:56:55",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-10-11 19:56:55",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 293979,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/3ocGQh1erdD9zAfijHMQZu"
-    },
-    {
-      "added_at": "2023-10-11 19:56:55",
-      "album": {
         "name": "Spinners",
         "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 249733,
       "name": "Could It Be I'm Falling in Love",
       "url": "https://open.spotify.com/track/5i0urffBRKl09GSX2Jhdeh"
+    },
+    {
+      "added_at": "2023-10-11 19:56:55",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 293979,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/3ocGQh1erdD9zAfijHMQZu"
     },
     {
       "added_at": "2023-10-11 19:56:55",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-10-11 19:56:55",
       "album": {
-        "name": "Now We May Begin",
-        "url": "https://open.spotify.com/album/1nC1gaO03Yk2lnbRZAN3KG"
-      },
-      "artists": [
-        {
-          "name": "Randy Crawford",
-          "url": "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
-        }
-      ],
-      "duration_ms": 302653,
-      "name": "One Day I'll Fly Away",
-      "url": "https://open.spotify.com/track/0J8A1ZVyJcRZxFNvtp6jRh"
-    },
-    {
-      "added_at": "2023-10-11 19:56:55",
-      "album": {
         "name": "Keeper Of The Castle",
         "url": "https://open.spotify.com/album/0WwvY1uMFowKCrcFqF87o9"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 187773,
       "name": "Ain't No Woman (Like The One I've Got)",
       "url": "https://open.spotify.com/track/6q8NBpF6twALMb86FBpLgQ"
+    },
+    {
+      "added_at": "2023-10-11 19:56:55",
+      "album": {
+        "name": "Now We May Begin",
+        "url": "https://open.spotify.com/album/1nC1gaO03Yk2lnbRZAN3KG"
+      },
+      "artists": [
+        {
+          "name": "Randy Crawford",
+          "url": "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
+        }
+      ],
+      "duration_ms": 302653,
+      "name": "One Day I'll Fly Away",
+      "url": "https://open.spotify.com/track/0J8A1ZVyJcRZxFNvtp6jRh"
     },
     {
       "added_at": "2023-10-11 19:56:55",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-10-11 19:56:55",
       "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/3xkgwc7evgKlM2euJZQo6i"
-      },
-      "artists": [
-        {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
-        }
-      ],
-      "duration_ms": 206053,
-      "name": "When She Was My Girl",
-      "url": "https://open.spotify.com/track/3FPaQv0qldYuF0XD0ziwT8"
-    },
-    {
-      "added_at": "2023-10-11 19:56:55",
-      "album": {
         "name": "Let Me Touch You",
         "url": "https://open.spotify.com/album/5EUSiCoJpa682wyPMqBy4j"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 318253,
       "name": "Lovin' You",
       "url": "https://open.spotify.com/track/01teVPgKyIFdbqo65UahOX"
+    },
+    {
+      "added_at": "2023-10-11 19:56:55",
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/3xkgwc7evgKlM2euJZQo6i"
+      },
+      "artists": [
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        }
+      ],
+      "duration_ms": 206053,
+      "name": "When She Was My Girl",
+      "url": "https://open.spotify.com/track/3FPaQv0qldYuF0XD0ziwT8"
     },
     {
       "added_at": "2023-10-11 19:56:55",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2023-10-11 19:56:55",
       "album": {
+        "name": "20/20",
+        "url": "https://open.spotify.com/album/23HV3deh17hOFNg3OKmGnW"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 268666,
+      "name": "I Just Wanna Hang Around You",
+      "url": "https://open.spotify.com/track/3ngC9miPW6DoEc8OFSxyzY"
+    },
+    {
+      "added_at": "2023-10-11 19:56:55",
+      "album": {
         "name": "Golden Time Of Day (Remastered)",
         "url": "https://open.spotify.com/album/3MorhYBBdoEOeBJlkWHXIS"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 333666,
       "name": "Golden Time Of Day - Remastered",
       "url": "https://open.spotify.com/track/0epdaOT9HBO8Mm7ykRuFpT"
-    },
-    {
-      "added_at": "2023-10-11 19:56:55",
-      "album": {
-        "name": "20/20",
-        "url": "https://open.spotify.com/album/23HV3deh17hOFNg3OKmGnW"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 268666,
-      "name": "I Just Wanna Hang Around You",
-      "url": "https://open.spotify.com/track/3ngC9miPW6DoEc8OFSxyzY"
     },
     {
       "added_at": "2023-10-11 19:56:55",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2023-10-11 19:56:55",
       "album": {
+        "name": "Love's Theme: The Best Of The 20th Century Records Singles",
+        "url": "https://open.spotify.com/album/1xemy8uSRy4dEMyN13fUu3"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 239600,
+      "name": "September When I First Met You - Single Version",
+      "url": "https://open.spotify.com/track/22nqc8OGp6fhEQlTdSs476"
+    },
+    {
+      "added_at": "2023-10-11 19:56:55",
+      "album": {
         "name": "Been and Gone",
         "url": "https://open.spotify.com/album/6aTDGqCSxTL7ltobEf5q89"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 280218,
       "name": "Been and Gone",
       "url": "https://open.spotify.com/track/23QzGEg02ffn4D9Dje9Nsc"
-    },
-    {
-      "added_at": "2023-10-11 19:56:55",
-      "album": {
-        "name": "Love's Theme: The Best Of The 20th Century Records Singles",
-        "url": "https://open.spotify.com/album/1xemy8uSRy4dEMyN13fUu3"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 239600,
-      "name": "September When I First Met You - Single Version",
-      "url": "https://open.spotify.com/track/22nqc8OGp6fhEQlTdSs476"
     },
     {
       "added_at": "2023-10-11 19:56:55",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2023-10-11 19:56:55",
       "album": {
-        "name": "A Quiet Storm",
-        "url": "https://open.spotify.com/album/7LRGv7pDjDJtqhThkocBXZ"
+        "name": "Lady Soul (With Bonus Selections)",
+        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
       },
       "artists": [
         {
-          "name": "Smokey Robinson",
-          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
         }
       ],
-      "duration_ms": 468653,
-      "name": "Quiet Storm",
-      "url": "https://open.spotify.com/track/1JhpdM2PtIsKC0lrBTPSAK"
+      "duration_ms": 177706,
+      "name": "Groovin'",
+      "url": "https://open.spotify.com/track/1FjyfUBL7Dj1GpSxL1XLCQ"
     }
   ],
   "unique_name": "Soulful Blend",

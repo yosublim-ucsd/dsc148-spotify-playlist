@@ -1,12 +1,12 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 186367,
+  "num_followers": 186482,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZWI1ZjIxMGJiNmRlODY4OGRjODJkMmQ0MTQ3NDUyNWM5YmRjOTkz",
+  "snapshot_id": "MCxjMGRkZTNkOTA2NzMyNWVhM2Q3ODQ5YWVmZmFlOTI4MzhkM2EyYWEy",
   "tracks": [
     {
       "added_at": "2023-10-11 22:12:05",
@@ -463,26 +463,6 @@
     {
       "added_at": "2023-10-11 22:12:05",
       "album": {
-        "name": "En Vivo, Vol.1",
-        "url": "https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Los Dorados",
-          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
-        }
-      ],
-      "duration_ms": 254339,
-      "name": "La Pareja Ideal - En Vivo",
-      "url": "https://open.spotify.com/track/2gpgzhumYabZNyrsyvdAat"
-    },
-    {
-      "added_at": "2023-10-11 22:12:05",
-      "album": {
         "name": "Cuando Te Acuerdes De Mi (En Vivo)",
         "url": "https://open.spotify.com/album/3c985F15MGQkPkUlCBPj79"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 187250,
       "name": "Cuando Te Acuerdes De Mi (En Vivo)",
       "url": "https://open.spotify.com/track/1pQrVutT9kzgLavLMUFubD"
+    },
+    {
+      "added_at": "2023-10-11 22:12:05",
+      "album": {
+        "name": "En Vivo, Vol.1",
+        "url": "https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
+        }
+      ],
+      "duration_ms": 254339,
+      "name": "La Pareja Ideal - En Vivo",
+      "url": "https://open.spotify.com/track/2gpgzhumYabZNyrsyvdAat"
     },
     {
       "added_at": "2023-10-11 22:12:05",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-10-11 22:12:05",
       "album": {
+        "name": "Los Besos No Se Dan En La Camisa",
+        "url": "https://open.spotify.com/album/7fmhqh0nvaGukOYWkRoUWS"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 261293,
+      "name": "Como Me Haces Falta",
+      "url": "https://open.spotify.com/track/7K6NOKMUKJxjolgsiE7m3x"
+    },
+    {
+      "added_at": "2023-10-11 22:12:05",
+      "album": {
         "name": "Emociones",
         "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 225000,
       "name": "Como Tu Mujer (feat. Marco Antonio Sol\u00eds)",
       "url": "https://open.spotify.com/track/6X9lrXPPx925c4RpuCZ9GN"
-    },
-    {
-      "added_at": "2023-10-11 22:12:05",
-      "album": {
-        "name": "Los Besos No Se Dan En La Camisa",
-        "url": "https://open.spotify.com/album/7fmhqh0nvaGukOYWkRoUWS"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 261293,
-      "name": "Como Me Haces Falta",
-      "url": "https://open.spotify.com/track/7K6NOKMUKJxjolgsiE7m3x"
     },
     {
       "added_at": "2023-10-11 22:12:05",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-10-11 22:12:05",
       "album": {
-        "name": "Y Yo Sin Ti",
-        "url": "https://open.spotify.com/album/3jCQKwXBTIMy13TfEAxKhl"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 198133,
-      "name": "Y Yo Sin Ti",
-      "url": "https://open.spotify.com/track/33mNMJ2UUE9uLPMNabxgGq"
-    },
-    {
-      "added_at": "2023-10-11 22:12:05",
-      "album": {
         "name": "En Vida",
         "url": "https://open.spotify.com/album/4ERCLcA2hl98lbwkOeqcYz"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 219400,
       "name": "Mi Eterno Amor Secreto",
       "url": "https://open.spotify.com/track/38iuo7jSgZWrZphSR7paI4"
+    },
+    {
+      "added_at": "2023-10-11 22:12:05",
+      "album": {
+        "name": "Y Yo Sin Ti",
+        "url": "https://open.spotify.com/album/3jCQKwXBTIMy13TfEAxKhl"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 198133,
+      "name": "Y Yo Sin Ti",
+      "url": "https://open.spotify.com/track/33mNMJ2UUE9uLPMNabxgGq"
     },
     {
       "added_at": "2023-10-11 22:12:05",
@@ -1380,9 +1380,9 @@
           "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
         }
       ],
-      "duration_ms": 196946,
-      "name": "Mira Nomas",
-      "url": "https://open.spotify.com/track/0bewBWJTe68j6138OW4nc0"
+      "duration_ms": 196813,
+      "name": "Para Que No Te Vayas",
+      "url": "https://open.spotify.com/track/7sKXSKdh0V9gI5OrYnJsyL"
     },
     {
       "added_at": "2023-10-11 22:12:05",
@@ -1548,9 +1548,9 @@
           "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
         }
       ],
-      "duration_ms": 196813,
-      "name": "Para Que No Te Vayas",
-      "url": "https://open.spotify.com/track/7sKXSKdh0V9gI5OrYnJsyL"
+      "duration_ms": 196946,
+      "name": "Mira Nomas",
+      "url": "https://open.spotify.com/track/0bewBWJTe68j6138OW4nc0"
     },
     {
       "added_at": "2023-10-11 22:12:05",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno, melodic house and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 916,311 likes - 60 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 916,459 likes - 60 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 45 | [Alone \- Stephan Jolk Remix](https://open.spotify.com/track/2nvfQ9c2pi8OFiYb59I1gu) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp), [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Alone \(Stephan Jolk Remix\)](https://open.spotify.com/album/6WqGjERSNf5IhAMwk2iKfs) | 3:32 |
 | 46 | [Gravity](https://open.spotify.com/track/5EGaUEnzZjoNiIlFzbyNK1) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD) | [Love Will Set U Free](https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc) | 5:29 |
 | 47 | [Domino \- David Guetta Remix](https://open.spotify.com/track/1wpbmqF1IFW1W1Zut5aquK) | [Oxia](https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Domino \(David Guetta Remix\)](https://open.spotify.com/album/7wpG47TcZLqoinmjTVzy3k) | 4:56 |
-| 48 | [Spectrum](https://open.spotify.com/track/4rw9xbxHWWRuihfAvQG3M2) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Unspoken Words](https://open.spotify.com/album/5JuO2GgzgGLrF1Kz0l82Qk) | 4:45 |
-| 49 | [The Distance](https://open.spotify.com/track/2L4HF8iN9aH2FH7jEs7EV6) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [When the Lights Go \(Deluxe\)](https://open.spotify.com/album/75kcLor7Woi17zEi5KX8Sf) | 4:51 |
+| 48 | [The Distance](https://open.spotify.com/track/2L4HF8iN9aH2FH7jEs7EV6) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [When the Lights Go \(Deluxe\)](https://open.spotify.com/album/75kcLor7Woi17zEi5KX8Sf) | 4:51 |
+| 49 | [Spectrum](https://open.spotify.com/track/4rw9xbxHWWRuihfAvQG3M2) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Unspoken Words](https://open.spotify.com/album/5JuO2GgzgGLrF1Kz0l82Qk) | 4:45 |
 | 50 | [Heal My Mind](https://open.spotify.com/track/1i3rncFmCIJfIm24QAjfsG) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx) | [Heal My Mind](https://open.spotify.com/album/4yJ9yZ5Dnv3acY4eLegRNX) | 3:25 |
 | 51 | [Time Machine](https://open.spotify.com/track/2W95I0bLSIEyuMepqUO522) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey) | [Time Machine](https://open.spotify.com/album/4N3tw2C89vya0RGo6P7g84) | 4:31 |
 | 52 | [Dreamcast](https://open.spotify.com/track/0kXPOcMLExBxGeS4YJexzk) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Dreamcast](https://open.spotify.com/album/4y3Og1wV6ODVRpado3WilW) | 5:25 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 57 | [Cold Blooded](https://open.spotify.com/track/6ULPq2iNWiykHX1acI2SGn) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp) | 3:37 |
 | 58 | [EASY PREY](https://open.spotify.com/track/6WqO9gLZu212VEJcVFAYdo) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [MORE D4TA](https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz) | 4:26 |
 | 59 | [Les Orangers](https://open.spotify.com/track/0aEwYyCvLEMNWmc7u0vqHp) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Les Orangers](https://open.spotify.com/album/4rGdiQW6mqpCwKYD885Dmk) | 6:42 |
-| 60 | [Never Ending](https://open.spotify.com/track/1SGbmqB3dxlrp4YkKzZUto) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Never Ending](https://open.spotify.com/album/1emHqizAHsvhYxVEt6YHXo) | 4:02 |
+| 60 | [Shapes in the Spray](https://open.spotify.com/track/6h3ZomURqLW7JkM2S66FFL) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA) | [Shapes in the Spray](https://open.spotify.com/album/3FnbdauVXBaaSNUg5ABYRf) | 7:09 |
 
-Snapshot ID: `MCxlYjc0YjExYjAwMWIxNmM1NTRkZDZlNTljOWEzZjBhMzJhZWMzMGVk`
+Snapshot ID: `MCw4ZWIzZjgyYTAxZTk0NDNkZTFiY2RlYWFkNTc1YWU0MTY0ODViMWQw`

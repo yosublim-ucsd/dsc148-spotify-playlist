@@ -1,12 +1,12 @@
 {
   "description": "Modern heavenly sounds. Cover: Eartheater",
-  "num_followers": 1630186,
+  "num_followers": 1631592,
   "original_name": "Ethereal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODIyZGZkZjk5YjljZTU3MTU0ZjQ3NDM0MTY1ZWYyOTIzMThiMGEw",
+  "snapshot_id": "MCw0ZGI2NTVhYjE4Y2JkYWY3M2U1MzBmNWI1MGNmYmYxZmI4M2Y5NGVh",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -605,6 +605,22 @@
       "url": "https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI"
     },
     {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "JAMIE",
+        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 139805,
+      "name": "Talk 2 Me",
+      "url": "https://open.spotify.com/track/6pPLhloHxLWiMlAT5Xn1gw"
+    },
+    {
       "added_at": "2023-08-10 21:22:46",
       "album": {
         "name": "Ride Or Die (with Villano Antillano)",
@@ -627,38 +643,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Heaven or Las Vegas",
-        "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
-      },
-      "artists": [
-        {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
-        }
-      ],
-      "duration_ms": 192466,
-      "name": "Cherry-coloured Funk",
-      "url": "https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "JAMIE",
-        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 139805,
-      "name": "Talk 2 Me",
-      "url": "https://open.spotify.com/track/6pPLhloHxLWiMlAT5Xn1gw"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "In Rainbows",
         "url": "https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK"
       },
@@ -675,6 +659,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Heaven or Las Vegas",
+        "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        }
+      ],
+      "duration_ms": 192466,
+      "name": "Cherry-coloured Funk",
+      "url": "https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Titanic Rising",
         "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
       },
@@ -687,22 +687,6 @@
       "duration_ms": 280186,
       "name": "Andromeda",
       "url": "https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Preacher\u2019s Daughter",
-        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 258418,
-      "name": "American Teenager",
-      "url": "https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -727,6 +711,22 @@
       "duration_ms": 259071,
       "name": "A New Kind Of Love - Demo",
       "url": "https://open.spotify.com/track/3fuyYaLhZ2RoP9eWpvfP1H"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Preacher\u2019s Daughter",
+        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 258418,
+      "name": "American Teenager",
+      "url": "https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Inbred",
-        "url": "https://open.spotify.com/album/013WXRAOja0kZ6gnlTCwJ5"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 204317,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/0nsIevK1SeDfZzDOi6Si75"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Coexist",
         "url": "https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 241166,
       "name": "I Just Wanna Feel Your Love Again",
       "url": "https://open.spotify.com/track/4JOjqoaUEMZ0SOAzaKUwDj"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Inbred",
+        "url": "https://open.spotify.com/album/013WXRAOja0kZ6gnlTCwJ5"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 204317,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/0nsIevK1SeDfZzDOi6Si75"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -963,6 +963,42 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Cool It Down",
+        "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        },
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+        }
+      ],
+      "duration_ms": 257746,
+      "name": "Spitting Off the Edge of the World",
+      "url": "https://open.spotify.com/track/0JX23XA8E7aN1Chj32kgVn"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Call U Tomorrow",
+        "url": "https://open.spotify.com/album/7pdP0BWJ8Faz6ZbWb3UCGc"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Call U Tomorrow",
+      "url": "https://open.spotify.com/track/1kPee0zC6xh3DT1mlG5a82"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -987,42 +1023,6 @@
       "duration_ms": 257213,
       "name": "Revolution 0",
       "url": "https://open.spotify.com/track/0FUGzUqkqRktGBvIeM3p2X"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Call U Tomorrow",
-        "url": "https://open.spotify.com/album/7pdP0BWJ8Faz6ZbWb3UCGc"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Call U Tomorrow",
-      "url": "https://open.spotify.com/track/1kPee0zC6xh3DT1mlG5a82"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Cool It Down",
-        "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        },
-        {
-          "name": "Perfume Genius",
-          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
-        }
-      ],
-      "duration_ms": 257746,
-      "name": "Spitting Off the Edge of the World",
-      "url": "https://open.spotify.com/track/0JX23XA8E7aN1Chj32kgVn"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Goddess (Deluxe)",
-        "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
-      },
-      "artists": [
-        {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
-        }
-      ],
-      "duration_ms": 207718,
-      "name": "Waiting Game",
-      "url": "https://open.spotify.com/track/27mT3JdR3sRJyiMBFHdhB4"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "A Light for Attracting Attention",
         "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 219727,
       "name": "The Smoke",
       "url": "https://open.spotify.com/track/1usvtV2D0EBPb7Rk1l0PwQ"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Goddess (Deluxe)",
+        "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
+      },
+      "artists": [
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "duration_ms": 207718,
+      "name": "Waiting Game",
+      "url": "https://open.spotify.com/track/27mT3JdR3sRJyiMBFHdhB4"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1267,18 +1267,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Calico",
-        "url": "https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O"
+        "name": "Guilty Conscience (Tame Impala Remix)",
+        "url": "https://open.spotify.com/album/0YklB1LaVFTWaEub2I3tiW"
       },
       "artists": [
         {
-          "name": "Ryan Beatty",
-          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 192961,
-      "name": "Bruises Off The Peach",
-      "url": "https://open.spotify.com/track/6DdAZ0zZmmSwM8uqoVlepL"
+      "duration_ms": 214986,
+      "name": "Guilty Conscience - Tame Impala Remix",
+      "url": "https://open.spotify.com/track/5i5fCpsnqDJ9AfeObgd0gW"
     }
   ],
   "unique_name": "Ethereal",

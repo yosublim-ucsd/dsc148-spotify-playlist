@@ -4,7 +4,7 @@
 
 > Se prendió la fiesta, featuring Marc Anthony.
 
-205 songs - 14 hr 21 min
+206 songs - 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Dejame Entrar](https://open.spotify.com/track/2jNqxXMkVVpEvjvvwvUDDD) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Dejame Entrar](https://open.spotify.com/album/7qRqrZOCvzZLsNlOawHURC) | 4:00 | 2022-02-05 | 2022-07-29 |
 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 | 2022-11-21 |  |
 | [Dile A Ella](https://open.spotify.com/track/45nyOQWvhjn9bfAoTIKCuJ) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Exitos de Victor Manuelle](https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P) | 5:05 | 2022-02-05 | 2023-05-26 |
-| [Dividimos \(Bachata Version\)](https://open.spotify.com/track/1RYuxP3H45CoeYZAYWDtBf) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Flow La Movie](https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f) | [Dividimos](https://open.spotify.com/album/324fcgIxRLq3CpqA7WmLWX) | 4:40 | 2022-02-05 |  |
+| [Dividimos \(Bachata Version\)](https://open.spotify.com/track/1RYuxP3H45CoeYZAYWDtBf) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Flow La Movie](https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f) | [Dividimos](https://open.spotify.com/album/324fcgIxRLq3CpqA7WmLWX) | 4:40 | 2022-02-05 | 2023-11-30 |
 | [El Baile del Beeper \(Version Mexico\)](https://open.spotify.com/track/2qBNmCtprsZoCfpE0dR8xR) | [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [Best Of The Best](https://open.spotify.com/album/16GgLICbOKpyo2XH4Dmbcs) | 4:49 | 2022-02-05 | 2022-10-26 |
 | [El Baile del Beeper \- Version Mexico](https://open.spotify.com/track/3LPRCFmqXUilyKIOT0EYDN) | [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [Best Of The Best](https://open.spotify.com/album/6FHozfvoQ11QmsvbulUNlo) | 4:49 | 2022-08-17 | 2023-10-13 |
 | [El Baile del Perrito](https://open.spotify.com/track/2XESoQVXG9ssxyjxXSrmxo) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [The Reventon: 30 Pegaditas](https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD) | 4:23 | 2022-02-05 |  |
@@ -104,6 +104,7 @@
 | [La Bilirrubina](https://open.spotify.com/track/4xzcXQrlMKwvv3kDpvBKWm) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/3lRQHKkCpntPvEoqh3C3B0) | 4:05 | 2022-02-05 | 2022-12-01 |
 | [La Bilirrubina](https://open.spotify.com/track/67cjCSd8UeTYumRkvaC30z) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/1cLBlQINfW73CMZhoNAbw6) | 4:05 | 2022-02-05 | 2022-07-29 |
 | [La Bilirrubina](https://open.spotify.com/track/6M8horg7h52MPTxY0I3dQJ) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS) | 4:05 | 2022-08-17 |  |
+| [LA CAPI](https://open.spotify.com/track/68OXeY9CUQebrOAAh3b3Jw) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 3:22 | 2023-11-30 |  |
 | [La Clave](https://open.spotify.com/track/5Ux94g63fF8uxUHaqDOi8t) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [La Clave](https://open.spotify.com/album/2X4174eeWM2B3aMPKUyk5S) | 2:17 | 2022-11-21 | 2023-01-28 |
 | [La Dueña del Swing](https://open.spotify.com/track/3vCeDhrInX8te6SoaqZbvu) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Latino! Greatest Hits \- 56 Latin Top Hits \(Original Versions!\)](https://open.spotify.com/album/5YUPCo3qXbGL51X3XJ3TA5) | 4:19 | 2022-02-05 | 2022-07-22 |
 | [La Faldita](https://open.spotify.com/track/6Aqtgsk7nzqAXird9otVEe) | [Coco Band](https://open.spotify.com/artist/6OOka0DmC4TTpNa1YRHbLi), [Pochy](https://open.spotify.com/artist/2MTOpBq2LNxvb0BvUJ3boi) | [Noches Latinas 3](https://open.spotify.com/album/0s0La7WuGMvIygNDPbdjgr) | 3:48 | 2022-02-05 | 2022-07-19 |

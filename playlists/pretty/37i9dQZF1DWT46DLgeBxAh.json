@@ -1,12 +1,12 @@
 {
   "description": "Una mezcla sabrosa, picosita y refrescante.",
-  "num_followers": 323971,
+  "num_followers": 324225,
   "original_name": "Las Micheladas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTdmYTUxZDJmYmIxZGU3N2FlN2FjMWZhY2VhMzc2YTk0MDZmN2Nk",
+  "snapshot_id": "MCw3ZjlhOGZmNmE2YjVmYzJlOWQzNGUyNmYzMjhhNzVjODYwOWI0YmY1",
   "tracks": [
     {
       "added_at": "2023-11-10 06:00:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-11-10 06:00:00",
       "album": {
-        "name": "Julietota",
-        "url": "https://open.spotify.com/album/70M8jSJsOoV9GsE9ALzxj7"
-      },
-      "artists": [
-        {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
-        }
-      ],
-      "duration_ms": 212151,
-      "name": "Julietota",
-      "url": "https://open.spotify.com/track/1AZbs0L3SkXe625DKp37KQ"
-    },
-    {
-      "added_at": "2023-11-10 06:00:00",
-      "album": {
         "name": "El Abayarde",
         "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 151666,
       "name": "Pa' Que Retozen",
       "url": "https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR"
+    },
+    {
+      "added_at": "2023-11-10 06:00:00",
+      "album": {
+        "name": "Julietota",
+        "url": "https://open.spotify.com/album/70M8jSJsOoV9GsE9ALzxj7"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "duration_ms": 212151,
+      "name": "Julietota",
+      "url": "https://open.spotify.com/track/1AZbs0L3SkXe625DKp37KQ"
     },
     {
       "added_at": "2023-11-10 06:00:00",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-11-10 06:00:00",
       "album": {
+        "name": "Jordan",
+        "url": "https://open.spotify.com/album/5NXNrP5J2LhfkbI9ZfcNXI"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 176142,
+      "name": "Jordan",
+      "url": "https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B"
+    },
+    {
+      "added_at": "2023-11-10 06:00:00",
+      "album": {
         "name": "Por Mi M\u00e9xico (Remix)",
         "url": "https://open.spotify.com/album/3p22kEU3PqsIrYWJpa9Bko"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 405000,
       "name": "Por Mi M\u00e9xico (Remix)",
       "url": "https://open.spotify.com/track/2m3Fqmw1mfs39KklPmjq79"
-    },
-    {
-      "added_at": "2023-11-10 06:00:00",
-      "album": {
-        "name": "Jordan",
-        "url": "https://open.spotify.com/album/5NXNrP5J2LhfkbI9ZfcNXI"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 176142,
-      "name": "Jordan",
-      "url": "https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B"
     },
     {
       "added_at": "2023-11-10 06:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-11-10 06:00:00",
       "album": {
-        "name": "Ven Bailalo (Reggaeton Mix)",
-        "url": "https://open.spotify.com/album/6FVaqUBQlhPrGoLCllQk4y"
-      },
-      "artists": [
-        {
-          "name": "Angel Y Khriz",
-          "url": "https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo"
-        }
-      ],
-      "duration_ms": 252773,
-      "name": "Ven Bailalo - Reggaeton Mix",
-      "url": "https://open.spotify.com/track/0e8DgtfJnWTBarF9YGMd0N"
-    },
-    {
-      "added_at": "2023-11-10 06:00:00",
-      "album": {
         "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 237080,
       "name": "Ojos Verdes",
       "url": "https://open.spotify.com/track/6981hdSOqG8tP6xTqaySa1"
+    },
+    {
+      "added_at": "2023-11-10 06:00:00",
+      "album": {
+        "name": "Ven Bailalo (Reggaeton Mix)",
+        "url": "https://open.spotify.com/album/6FVaqUBQlhPrGoLCllQk4y"
+      },
+      "artists": [
+        {
+          "name": "Angel Y Khriz",
+          "url": "https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo"
+        }
+      ],
+      "duration_ms": 252773,
+      "name": "Ven Bailalo - Reggaeton Mix",
+      "url": "https://open.spotify.com/track/0e8DgtfJnWTBarF9YGMd0N"
     },
     {
       "added_at": "2023-11-10 06:00:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-11-10 06:00:00",
       "album": {
-        "name": "DLUX",
-        "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 140735,
-      "name": "HOUSE OF LUX",
-      "url": "https://open.spotify.com/track/3CU1qWV0h0PvWXQg71YUoo"
-    },
-    {
-      "added_at": "2023-11-10 06:00:00",
-      "album": {
         "name": "Trovando El Son",
         "url": "https://open.spotify.com/album/0fSaofDMk7H5ZUJ98SH5Uu"
       },
@@ -1431,6 +1415,22 @@
     {
       "added_at": "2023-11-10 06:00:00",
       "album": {
+        "name": "DLUX",
+        "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 140735,
+      "name": "HOUSE OF LUX",
+      "url": "https://open.spotify.com/track/3CU1qWV0h0PvWXQg71YUoo"
+    },
+    {
+      "added_at": "2023-11-10 06:00:00",
+      "album": {
         "name": "En Tu Perra Vida",
         "url": "https://open.spotify.com/album/754Bhr4Ck2WcFAvHWlykmp"
       },
@@ -1447,6 +1447,38 @@
       "duration_ms": 238677,
       "name": "En Tu Perra Vida",
       "url": "https://open.spotify.com/track/0ldT3gl7aGNzrJyd4b1CA4"
+    },
+    {
+      "added_at": "2023-11-10 06:00:00",
+      "album": {
+        "name": "Espantan (Remix)",
+        "url": "https://open.spotify.com/album/0JRUGOfvqo7A2l6NYPnjY5"
+      },
+      "artists": [
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Alnz G",
+          "url": "https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf"
+        },
+        {
+          "name": "Tensec",
+          "url": "https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        }
+      ],
+      "duration_ms": 218019,
+      "name": "Espantan - Remix",
+      "url": "https://open.spotify.com/track/2EocM6oTLy6WUBTCipObqj"
     },
     {
       "added_at": "2023-11-10 06:00:00",
@@ -1487,34 +1519,38 @@
     {
       "added_at": "2023-11-10 06:00:00",
       "album": {
-        "name": "Espantan (Remix)",
-        "url": "https://open.spotify.com/album/0JRUGOfvqo7A2l6NYPnjY5"
+        "name": "Love And Sex",
+        "url": "https://open.spotify.com/album/2nyw6aQu85kFb3mYb4vWwE"
       },
       "artists": [
         {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        },
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Alnz G",
-          "url": "https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf"
-        },
-        {
-          "name": "Tensec",
-          "url": "https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB"
-        },
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
         }
       ],
-      "duration_ms": 218019,
-      "name": "Espantan - Remix",
-      "url": "https://open.spotify.com/track/2EocM6oTLy6WUBTCipObqj"
+      "duration_ms": 207626,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/2ctjDCCg1wHoQSjIJ8p6U4"
+    },
+    {
+      "added_at": "2023-11-10 06:00:00",
+      "album": {
+        "name": "As\u00ed Soy Yo",
+        "url": "https://open.spotify.com/album/7I1mThh5NCgS2BqrAWcMdi"
+      },
+      "artists": [
+        {
+          "name": "Millonario & W. Corona",
+          "url": "https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ"
+        },
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 289013,
+      "name": "\u00c9xtasis",
+      "url": "https://open.spotify.com/track/3NqbKUOgaU2LgIFRbu4B12"
     },
     {
       "added_at": "2023-11-10 06:00:00",
@@ -1543,26 +1579,6 @@
     {
       "added_at": "2023-11-10 06:00:00",
       "album": {
-        "name": "As\u00ed Soy Yo",
-        "url": "https://open.spotify.com/album/7I1mThh5NCgS2BqrAWcMdi"
-      },
-      "artists": [
-        {
-          "name": "Millonario & W. Corona",
-          "url": "https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ"
-        },
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 289013,
-      "name": "\u00c9xtasis",
-      "url": "https://open.spotify.com/track/3NqbKUOgaU2LgIFRbu4B12"
-    },
-    {
-      "added_at": "2023-11-10 06:00:00",
-      "album": {
         "name": "DEV, Vol. 2",
         "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
       },
@@ -1575,6 +1591,30 @@
       "duration_ms": 189408,
       "name": "Ya Acabo",
       "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
+    },
+    {
+      "added_at": "2023-11-10 06:00:00",
+      "album": {
+        "name": "MARTILLAZO",
+        "url": "https://open.spotify.com/album/1FX1f4X5yS0wlnItHjvhvo"
+      },
+      "artists": [
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        }
+      ],
+      "duration_ms": 158333,
+      "name": "MARTILLAZO",
+      "url": "https://open.spotify.com/track/283ngLR3LX6cdq9unM7MJ0"
     },
     {
       "added_at": "2023-11-10 06:00:00",
@@ -1607,46 +1647,6 @@
       "duration_ms": 269591,
       "name": "La Pregunta",
       "url": "https://open.spotify.com/track/2Ob4mHihtOGbx6jnCredFX"
-    },
-    {
-      "added_at": "2023-11-10 06:00:00",
-      "album": {
-        "name": "Love And Sex",
-        "url": "https://open.spotify.com/album/2nyw6aQu85kFb3mYb4vWwE"
-      },
-      "artists": [
-        {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
-        }
-      ],
-      "duration_ms": 207626,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/2ctjDCCg1wHoQSjIJ8p6U4"
-    },
-    {
-      "added_at": "2023-11-10 06:00:00",
-      "album": {
-        "name": "MARTILLAZO",
-        "url": "https://open.spotify.com/album/1FX1f4X5yS0wlnItHjvhvo"
-      },
-      "artists": [
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        },
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        }
-      ],
-      "duration_ms": 158333,
-      "name": "MARTILLAZO",
-      "url": "https://open.spotify.com/track/283ngLR3LX6cdq9unM7MJ0"
     },
     {
       "added_at": "2023-11-10 06:00:00",
@@ -1863,38 +1863,6 @@
     {
       "added_at": "2023-11-10 06:00:00",
       "album": {
-        "name": "H\u00edbrido",
-        "url": "https://open.spotify.com/album/165Qn8sAYgcxfNvDKFD9kv"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 174293,
-      "name": "H\u00edbrido",
-      "url": "https://open.spotify.com/track/5iBBLeUl4UfynWgcJWVGsU"
-    },
-    {
-      "added_at": "2023-11-10 06:00:00",
-      "album": {
-        "name": "Show",
-        "url": "https://open.spotify.com/album/5J4RvXfRjXXSsFEfyPhr0E"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 302253,
-      "name": "T\u00fa Con \u00c9l",
-      "url": "https://open.spotify.com/track/7DcJXd2xxVcohwehWahFJJ"
-    },
-    {
-      "added_at": "2023-11-10 06:00:00",
-      "album": {
         "name": "Con To (feat. Flow Nasty)",
         "url": "https://open.spotify.com/album/2PJRh0xPNmeEZVGNhwHGGf"
       },
@@ -1919,6 +1887,22 @@
       "duration_ms": 132539,
       "name": "Con To (feat. Flow Nasty)",
       "url": "https://open.spotify.com/track/1QFJzim9HBPFW9E1B1333Q"
+    },
+    {
+      "added_at": "2023-11-10 06:00:00",
+      "album": {
+        "name": "H\u00edbrido",
+        "url": "https://open.spotify.com/album/165Qn8sAYgcxfNvDKFD9kv"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 174293,
+      "name": "H\u00edbrido",
+      "url": "https://open.spotify.com/track/5iBBLeUl4UfynWgcJWVGsU"
     },
     {
       "added_at": "2023-11-10 06:00:00",
@@ -1951,6 +1935,22 @@
       "duration_ms": 217521,
       "name": "Feliz Feliz",
       "url": "https://open.spotify.com/track/0JZV1UuBsbSwHhGirgWaXI"
+    },
+    {
+      "added_at": "2023-11-10 06:00:00",
+      "album": {
+        "name": "Show",
+        "url": "https://open.spotify.com/album/5J4RvXfRjXXSsFEfyPhr0E"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 302253,
+      "name": "T\u00fa Con \u00c9l",
+      "url": "https://open.spotify.com/track/7DcJXd2xxVcohwehWahFJJ"
     },
     {
       "added_at": "2023-11-10 06:00:00",
@@ -2227,26 +2227,6 @@
     {
       "added_at": "2023-11-10 06:00:00",
       "album": {
-        "name": "Somos Los Que Somos (En Vivo)",
-        "url": "https://open.spotify.com/album/4fyPhbp4TVAcAePO24DPQE"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        },
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 280093,
-      "name": "Somos Los Que Somos - En Vivo",
-      "url": "https://open.spotify.com/track/2HF7et3dSdyQqq7aIMLoQ5"
-    },
-    {
-      "added_at": "2023-11-10 06:00:00",
-      "album": {
         "name": "A Chillar a otra parte",
         "url": "https://open.spotify.com/album/4ph9RG0taaHcR6LlXbtHYW"
       },
@@ -2263,6 +2243,26 @@
       "duration_ms": 213066,
       "name": "A Chillar a otra parte",
       "url": "https://open.spotify.com/track/6dAYjYfWJvETKJOCm36jGH"
+    },
+    {
+      "added_at": "2023-11-10 06:00:00",
+      "album": {
+        "name": "Somos Los Que Somos (En Vivo)",
+        "url": "https://open.spotify.com/album/4fyPhbp4TVAcAePO24DPQE"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 280093,
+      "name": "Somos Los Que Somos - En Vivo",
+      "url": "https://open.spotify.com/track/2HF7et3dSdyQqq7aIMLoQ5"
     },
     {
       "added_at": "2023-11-10 06:00:00",
@@ -2347,26 +2347,6 @@
     {
       "added_at": "2023-11-10 06:00:00",
       "album": {
-        "name": "Sax to Me",
-        "url": "https://open.spotify.com/album/63GVsnGmXuYtn9zs56ck6Q"
-      },
-      "artists": [
-        {
-          "name": "Dayvi",
-          "url": "https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf"
-        },
-        {
-          "name": "Joseph Qas",
-          "url": "https://open.spotify.com/artist/1vs2vlQyZqBSVeD4ezeICI"
-        }
-      ],
-      "duration_ms": 364971,
-      "name": "Sax to Me",
-      "url": "https://open.spotify.com/track/7oSPHLta1VJPFcUvEE9Gvj"
-    },
-    {
-      "added_at": "2023-11-10 06:00:00",
-      "album": {
         "name": "Mixeo Con Sandunga",
         "url": "https://open.spotify.com/album/2tAPW66efXHMICFBuobHE0"
       },
@@ -2395,6 +2375,26 @@
       "duration_ms": 105312,
       "name": "Independiente",
       "url": "https://open.spotify.com/track/2dxdN5XWeLM1BgbocLLGgw"
+    },
+    {
+      "added_at": "2023-11-10 06:00:00",
+      "album": {
+        "name": "Sax To Me",
+        "url": "https://open.spotify.com/album/3hDSkYuQHsIUc5sQYY7Laq"
+      },
+      "artists": [
+        {
+          "name": "Dayvi",
+          "url": "https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf"
+        },
+        {
+          "name": "Joseph Qas",
+          "url": "https://open.spotify.com/artist/1vs2vlQyZqBSVeD4ezeICI"
+        }
+      ],
+      "duration_ms": 364971,
+      "name": "Sax To Me",
+      "url": "https://open.spotify.com/track/01HkaXEkNgxty2lewZ0jqk"
     }
   ],
   "unique_name": "Las Micheladas",

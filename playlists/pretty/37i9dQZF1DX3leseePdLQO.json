@@ -1,12 +1,12 @@
 {
   "description": "Pop para refrescarte los d\u00edas, featuring Rels B & Kenia OS.",
-  "num_followers": 9178,
+  "num_followers": 9204,
   "original_name": "Crema Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzE1MTA2MWQ2Njk1ZWM1NjM5Zjg5ZTcwODA5Nzc5NGM3NDYwZmZm",
+  "snapshot_id": "MCxmYjkwNjVlMWE5ZTQxNDllOTdkNzM2NjAxZTAxNDU1NDdlYjQwNjg5",
   "tracks": [
     {
       "added_at": "2023-11-24 05:00:00",
@@ -495,26 +495,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "5 Estrellas",
-        "url": "https://open.spotify.com/album/2yANiBjyI4vqHfUax5a8RF"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 191094,
-      "name": "5 Estrellas",
-      "url": "https://open.spotify.com/track/3XbzMSWKdp8FzcQHA9BeXw"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "De Adentro Pa Afuera",
         "url": "https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 214520,
       "name": "\u00cdndigo",
       "url": "https://open.spotify.com/track/6i28Cxd4CUiHmcowzQW38w"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "5 Estrellas",
+        "url": "https://open.spotify.com/album/2yANiBjyI4vqHfUax5a8RF"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 191094,
+      "name": "5 Estrellas",
+      "url": "https://open.spotify.com/track/3XbzMSWKdp8FzcQHA9BeXw"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -703,6 +703,26 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Te Cambie Por El",
+        "url": "https://open.spotify.com/album/6bHnkWxT6LqkySnS1yeOTW"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        }
+      ],
+      "duration_ms": 170695,
+      "name": "Te Cambie Por El",
+      "url": "https://open.spotify.com/track/20j2PxqYHqamcH6g8vPMSp"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "El Renacimiento",
         "url": "https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt"
       },
@@ -735,26 +755,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Te Cambie Por El",
-        "url": "https://open.spotify.com/album/6bHnkWxT6LqkySnS1yeOTW"
-      },
-      "artists": [
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        }
-      ],
-      "duration_ms": 170695,
-      "name": "Te Cambie Por El",
-      "url": "https://open.spotify.com/track/20j2PxqYHqamcH6g8vPMSp"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Plut\u00f3n",
         "url": "https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ"
       },
@@ -771,22 +771,6 @@
       "duration_ms": 165533,
       "name": "Plut\u00f3n",
       "url": "https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "\u00bfY Si Eras T\u00fa?",
-        "url": "https://open.spotify.com/album/4oPDRXXH8YgDh5Ywf14NGA"
-      },
-      "artists": [
-        {
-          "name": "Ela Taubert",
-          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
-        }
-      ],
-      "duration_ms": 169613,
-      "name": "\u00bfY Si Eras T\u00fa?",
-      "url": "https://open.spotify.com/track/4PFEzT2wC6BISXyRbP72zs"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -811,6 +795,22 @@
       "duration_ms": 173347,
       "name": "T\u00fa S\u00ed",
       "url": "https://open.spotify.com/track/3UYbYRx8LAEMSNiN9oaJuD"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "\u00bfY Si Eras T\u00fa?",
+        "url": "https://open.spotify.com/album/4oPDRXXH8YgDh5Ywf14NGA"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "duration_ms": 169613,
+      "name": "\u00bfY Si Eras T\u00fa?",
+      "url": "https://open.spotify.com/track/4PFEzT2wC6BISXyRbP72zs"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "La Idea",
-        "url": "https://open.spotify.com/album/3oM0PBnieCf5JcKbaiTnVU"
-      },
-      "artists": [
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        }
-      ],
-      "duration_ms": 194257,
-      "name": "La Idea",
-      "url": "https://open.spotify.com/track/5hbx6fWt9jt9dWSOHK3uGb"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Los Mejores A\u00f1os",
         "url": "https://open.spotify.com/album/1FfoXxOshDOFAv1C84pSJR"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 202106,
       "name": "Los Mejores A\u00f1os",
       "url": "https://open.spotify.com/track/28IF0Kp3uUeWHPkXa0yjNn"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "La Idea",
+        "url": "https://open.spotify.com/album/3oM0PBnieCf5JcKbaiTnVU"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        }
+      ],
+      "duration_ms": 194257,
+      "name": "La Idea",
+      "url": "https://open.spotify.com/track/5hbx6fWt9jt9dWSOHK3uGb"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "bellodrama",
-        "url": "https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb"
-      },
-      "artists": [
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        }
-      ],
-      "duration_ms": 184195,
-      "name": "Lentamente",
-      "url": "https://open.spotify.com/track/7GJVqqE79WOl8ncT7Y4z0L"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "A Las 3",
         "url": "https://open.spotify.com/album/431FDuXe10BcviQ9o3T9Ge"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 162259,
       "name": "A Las 3",
       "url": "https://open.spotify.com/track/6aDI3fxbf3PdDz9z8rK9fr"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "bellodrama",
+        "url": "https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "duration_ms": 184195,
+      "name": "Lentamente",
+      "url": "https://open.spotify.com/track/7GJVqqE79WOl8ncT7Y4z0L"
     },
     {
       "added_at": "2023-11-24 05:00:00",

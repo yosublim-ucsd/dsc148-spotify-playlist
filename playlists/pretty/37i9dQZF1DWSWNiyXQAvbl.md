@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWNiyXQAvbl.md) - [plain]
 
 > Ease back in time with the help of these seventies classics...
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,187 likes - 80 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,243 likes - 80 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWNiyXQAvbl.md) - [plain]
 | 46 | [Solsbury Hill](https://open.spotify.com/track/1CM1wOqD2AIjt2MWd31LV2) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Peter Gabriel 1: Car \(Remastered Version\)](https://open.spotify.com/album/4jd6oC0It60c1J3GpXCv6M) | 4:21 |
 | 47 | [Blue Bayou](https://open.spotify.com/track/3zxklD2EGecZre9MjEEvIU) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Simple Dreams](https://open.spotify.com/album/15lJi5fAnWPltCKBTUbTry) | 3:59 |
 | 48 | [Forever In Blue Jeans](https://open.spotify.com/track/1K1nzhbKCNmrNXi9B07mPF) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [You Don't Bring Me Flowers](https://open.spotify.com/album/4ufmoUiQbFCyWUM5OVtdsm) | 3:37 |
-| 49 | [Love Will Keep Us Together](https://open.spotify.com/track/4pCNJwixy2ImFncaPY2yE2) | [Captain & Tennille](https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm) | [Love Will Keep Us Together](https://open.spotify.com/album/3GUxesVyOehInaxJyCTh6d) | 3:25 |
-| 50 | [Alone Again \(Naturally\)](https://open.spotify.com/track/54pvEYFocTlvIAQOfXSjqV) | [Gilbert O'Sullivan](https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf) | [Back to Front \(Deluxe Edition\)](https://open.spotify.com/album/6LoUAyxzjVgwIIYBZOM6xQ) | 3:41 |
+| 49 | [Alone Again \(Naturally\)](https://open.spotify.com/track/54pvEYFocTlvIAQOfXSjqV) | [Gilbert O'Sullivan](https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf) | [Back to Front \(Deluxe Edition\)](https://open.spotify.com/album/6LoUAyxzjVgwIIYBZOM6xQ) | 3:41 |
+| 50 | [Love Will Keep Us Together](https://open.spotify.com/track/4pCNJwixy2ImFncaPY2yE2) | [Captain & Tennille](https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm) | [Love Will Keep Us Together](https://open.spotify.com/album/3GUxesVyOehInaxJyCTh6d) | 3:25 |
 | 51 | [Afternoon Delight](https://open.spotify.com/track/1pBAsoHy7eN9aeVCTAiKua) | [Starland Vocal Band](https://open.spotify.com/artist/66QeIFuFJDNCImNHlFzrY1) | [Starland Vocal Band](https://open.spotify.com/album/0SIkfBz37ZXzxXOZCi4JNk) | 3:13 |
 | 52 | [The First Cut Is the Deepest](https://open.spotify.com/track/3FeYjbIVqvAhuTcwsE6K3v) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [A Night on the Town](https://open.spotify.com/album/6z4jnK1fRHP80RJC8x9UFd) | 4:31 |
 | 53 | [Seasons in the Sun](https://open.spotify.com/track/7pGMRy91RcQT9oHdPgYz3A) | [Terry Jacks](https://open.spotify.com/artist/09dDdtfi4mWLdC2BHOrIrl) | [Seasons In The Sun \(Expanded Edition\)](https://open.spotify.com/album/6qKGMVfcz7HxHeXnhUsK9J) | 3:28 |
@@ -71,11 +71,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWNiyXQAvbl.md) - [plain]
 | 61 | [Fire](https://open.spotify.com/track/65lHwG8JFJs67PnOUhCYPq) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Energy \(Expanded Edition\)](https://open.spotify.com/album/1aKaiiPUuycMQa4ugZXArH) | 3:30 |
 | 62 | [Make It with You](https://open.spotify.com/track/11gfsr13S8qsfN48IILcHU) | [Bread](https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL) | [The Best of Bread](https://open.spotify.com/album/27PnJozrSZByyLlqFtiVtx) | 3:12 |
 | 63 | [Listen to the Music](https://open.spotify.com/track/2fja4gHzPsIXiK4bMeU0hN) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Best of The Doobies](https://open.spotify.com/album/32xyhzHlGGsDvs1E7qihRA) | 3:47 |
-| 64 | [Dance with Me](https://open.spotify.com/track/2GORop0i2cyx8C0A3JzL44) | [Orleans](https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c) | [Dance With Me: The Best Of Orleans](https://open.spotify.com/album/43inWGDznUuVwJoIX0jKtl) | 3:00 |
-| 65 | [We've Only Just Begun](https://open.spotify.com/track/3m167vBQI5YLK0a1m6L6Y1) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Close To You](https://open.spotify.com/album/1CsuCA05y9r7ftG9bGGtWV) | 3:05 |
-| 66 | [Follow You Follow Me \- 2007 Remaster](https://open.spotify.com/track/6gyU6PaPpzTCUYzZcVICwk) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [And Then There Were Three \(2007 Remaster\)](https://open.spotify.com/album/4nh8I6fmXqcS4AqpVSu3aI) | 3:59 |
-| 67 | [If You Could Read My Mind](https://open.spotify.com/track/0fjYN9BylnRXMA3or3QSld) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Gord's Gold](https://open.spotify.com/album/6okC12pcFeLZOifXdunuhQ) | 3:49 |
-| 68 | [I’ll Have to Say I Love You in a Song](https://open.spotify.com/track/7kWPh7dvoyJ0frnnZzxZPj) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [I Got a Name](https://open.spotify.com/album/64dufEP8npd2jYoPfdzWPJ) | 2:34 |
+| 64 | [I’ll Have to Say I Love You in a Song](https://open.spotify.com/track/7kWPh7dvoyJ0frnnZzxZPj) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [I Got a Name](https://open.spotify.com/album/64dufEP8npd2jYoPfdzWPJ) | 2:34 |
+| 65 | [Dance with Me](https://open.spotify.com/track/2GORop0i2cyx8C0A3JzL44) | [Orleans](https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c) | [Dance With Me: The Best Of Orleans](https://open.spotify.com/album/43inWGDznUuVwJoIX0jKtl) | 3:00 |
+| 66 | [We've Only Just Begun](https://open.spotify.com/track/3m167vBQI5YLK0a1m6L6Y1) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Close To You](https://open.spotify.com/album/1CsuCA05y9r7ftG9bGGtWV) | 3:05 |
+| 67 | [Follow You Follow Me \- 2007 Remaster](https://open.spotify.com/track/6gyU6PaPpzTCUYzZcVICwk) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [And Then There Were Three \(2007 Remaster\)](https://open.spotify.com/album/4nh8I6fmXqcS4AqpVSu3aI) | 3:59 |
+| 68 | [If You Could Read My Mind](https://open.spotify.com/track/0fjYN9BylnRXMA3or3QSld) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Gord's Gold](https://open.spotify.com/album/6okC12pcFeLZOifXdunuhQ) | 3:49 |
 | 69 | [Don't Play That Song](https://open.spotify.com/track/4M1zcX803dgkDkISHZDPYi) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Spirit in the Dark](https://open.spotify.com/album/1s3FSienS5KcpWckmq4NHO) | 3:02 |
 | 70 | [Bye Bye Baby](https://open.spotify.com/track/7wC5vOh3fQibFYWjCIotKw) | [Bay City Rollers](https://open.spotify.com/artist/3r9TXuXfOUxXjgYgAR0fP8) | [Once Upon A Star](https://open.spotify.com/album/2nZfNhrDCbTNnZEc4iuCcl) | 2:50 |
 | 71 | [Rock Me Gently](https://open.spotify.com/track/2qh2VGAOYFXLsMbdATRf6w) | [Andy Kim](https://open.spotify.com/artist/5MYBNUKoFf9LAg30ByaBli) | [Greatest Hits](https://open.spotify.com/album/1yBUWYxGG5j1fjzSkrMY0C) | 3:28 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWNiyXQAvbl.md) - [plain]
 | 79 | [Big Yellow Taxi](https://open.spotify.com/track/6UkMcAA19lTdjs22jtB7o2) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Ladies of the Canyon](https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9) | 2:14 |
 | 80 | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/track/6hFAaTvtzYDkng1T5K4XLB) | [Edison Lighthouse](https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa) | [On the Rocks](https://open.spotify.com/album/2AFiOvkMzT32Q0wL0UZW8i) | 2:47 |
 
-Snapshot ID: `MCwwOTE3M2FmZTM3NGY1YzVjNWQyZGZjMGU1MTkxYzk1ZWQ4ZjAyMWU2`
+Snapshot ID: `MCwwNDJhNjFhOWYwZmI4ZjRhOTkwZTMzNjFmYTc5M2YyNGY2MTIxYWI3`

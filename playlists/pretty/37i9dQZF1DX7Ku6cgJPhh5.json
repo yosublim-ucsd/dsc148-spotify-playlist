@@ -1,12 +1,12 @@
 {
   "description": "Amp up your commute with rock hits, new and old. Cover: The Smashing Pumpkins",
-  "num_followers": 478197,
+  "num_followers": 478305,
   "original_name": "Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTQ1MmIzZDRjNjg5MWI4OWNkMzhiYjczMGNmYjVkODg3M2JkMTY5",
+  "snapshot_id": "MCw5ZGY4ZThjNzc4NDc4ZWNkYzE4Yzk0MTMzZTZmZDk3ODk3NWFjZGI0",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -137,20 +137,20 @@
       "url": "https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj"
     },
     {
-      "added_at": "2023-11-03 04:00:00",
+      "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+        "name": "Americana",
+        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
       },
       "artists": [
         {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 210173,
-      "name": "You Shook Me All Night Long",
-      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
+      "duration_ms": 180160,
+      "name": "The Kids Aren't Alright",
+      "url": "https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -169,20 +169,20 @@
       "url": "https://open.spotify.com/track/0Zp4PR3jLHfxcXdBdRLh7M"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Americana",
-        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
       },
       "artists": [
         {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
         }
       ],
-      "duration_ms": 180160,
-      "name": "The Kids Aren't Alright",
-      "url": "https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf"
+      "duration_ms": 210173,
+      "name": "You Shook Me All Night Long",
+      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -251,38 +251,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Minutes to Midnight",
-        "url": "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 205226,
-      "name": "What I've Done",
-      "url": "https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "The Reason (15th Anniversary Deluxe)",
-        "url": "https://open.spotify.com/album/2zE1YKY7Okj10Tjl09jjth"
-      },
-      "artists": [
-        {
-          "name": "Hoobastank",
-          "url": "https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "The Reason",
-      "url": "https://open.spotify.com/track/77loZpT5Y5PRP1S451P9Yz"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Rise And Fall, Rage And Grace",
         "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
       },
@@ -299,6 +267,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Minutes to Midnight",
+        "url": "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 205226,
+      "name": "What I've Done",
+      "url": "https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Infest",
         "url": "https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 199906,
       "name": "Last Resort",
       "url": "https://open.spotify.com/track/5W8YXBz9MTIDyrpYaCg2Ky"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "The Reason (15th Anniversary Deluxe)",
+        "url": "https://open.spotify.com/album/2zE1YKY7Okj10Tjl09jjth"
+      },
+      "artists": [
+        {
+          "name": "Hoobastank",
+          "url": "https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO"
+        }
+      ],
+      "duration_ms": 232800,
+      "name": "The Reason",
+      "url": "https://open.spotify.com/track/77loZpT5Y5PRP1S451P9Yz"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Come Clean",
-        "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
-      },
-      "artists": [
-        {
-          "name": "Puddle Of Mudd",
-          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
-        }
-      ],
-      "duration_ms": 216760,
-      "name": "She Hates Me",
-      "url": "https://open.spotify.com/track/16DhvbuyvJob4Q9GHNYu2n"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Insomniac",
         "url": "https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 193000,
       "name": "Brain Stew",
       "url": "https://open.spotify.com/track/1nLnpLXvl68RZCSjfkyiaa"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Come Clean",
+        "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
+      },
+      "artists": [
+        {
+          "name": "Puddle Of Mudd",
+          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
+        }
+      ],
+      "duration_ms": 216760,
+      "name": "She Hates Me",
+      "url": "https://open.spotify.com/track/16DhvbuyvJob4Q9GHNYu2n"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Morning View",
-        "url": "https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY"
+        "name": "Crossfade",
+        "url": "https://open.spotify.com/album/1namjaJZ23ozXXB7X2d4hy"
       },
       "artists": [
         {
-          "name": "Incubus",
-          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+          "name": "Crossfade",
+          "url": "https://open.spotify.com/artist/4IR8ZkpbyyKrqsIzchF3NB"
         }
       ],
-      "duration_ms": 212733,
-      "name": "Wish You Were Here",
-      "url": "https://open.spotify.com/track/6KtLECDztnah63TNmV4Plw"
+      "duration_ms": 194226,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/6ZxrUCaynLgKSUudACOTwj"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Crossfade",
-        "url": "https://open.spotify.com/album/1namjaJZ23ozXXB7X2d4hy"
+        "name": "Morning View",
+        "url": "https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY"
       },
       "artists": [
         {
-          "name": "Crossfade",
-          "url": "https://open.spotify.com/artist/4IR8ZkpbyyKrqsIzchF3NB"
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
         }
       ],
-      "duration_ms": 194226,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/6ZxrUCaynLgKSUudACOTwj"
+      "duration_ms": 212733,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/6KtLECDztnah63TNmV4Plw"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1389,20 +1389,20 @@
       "url": "https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "The Battle Of Los Angeles",
-        "url": "https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX"
+        "name": "Dr. Feelgood (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0VPad241NfcHMOXcRcLrDe"
       },
       "artists": [
         {
-          "name": "Rage Against The Machine",
-          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
         }
       ],
-      "duration_ms": 206200,
-      "name": "Guerrilla Radio",
-      "url": "https://open.spotify.com/track/1wsRitfRRtWyEapl0q22o8"
+      "duration_ms": 282653,
+      "name": "Kickstart My Heart",
+      "url": "https://open.spotify.com/track/65HA9FsYyA2xro9RzNlNmy"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1419,6 +1419,22 @@
       "duration_ms": 207213,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "The Battle Of Los Angeles",
+        "url": "https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX"
+      },
+      "artists": [
+        {
+          "name": "Rage Against The Machine",
+          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+        }
+      ],
+      "duration_ms": 206200,
+      "name": "Guerrilla Radio",
+      "url": "https://open.spotify.com/track/1wsRitfRRtWyEapl0q22o8"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1471,22 +1487,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Dirt (2022 Remaster)",
-        "url": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
-      },
-      "artists": [
-        {
-          "name": "Alice In Chains",
-          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
-        }
-      ],
-      "duration_ms": 374333,
-      "name": "Rooster (2022 Remaster)",
-      "url": "https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Dear Agony",
         "url": "https://open.spotify.com/album/0mBvlBWI6TMDrWvQ8bKOKV"
       },
@@ -1501,20 +1501,20 @@
       "url": "https://open.spotify.com/track/2yXyz4NLTZx9CLdXfLTp5E"
     },
     {
-      "added_at": "2023-11-03 04:00:00",
+      "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Dr. Feelgood (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0VPad241NfcHMOXcRcLrDe"
+        "name": "Dirt (2022 Remaster)",
+        "url": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
       },
       "artists": [
         {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+          "name": "Alice In Chains",
+          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
         }
       ],
-      "duration_ms": 282653,
-      "name": "Kickstart My Heart",
-      "url": "https://open.spotify.com/track/65HA9FsYyA2xro9RzNlNmy"
+      "duration_ms": 374333,
+      "name": "Rooster (2022 Remaster)",
+      "url": "https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2"
     },
     {
       "added_at": "2023-09-29 04:00:00",

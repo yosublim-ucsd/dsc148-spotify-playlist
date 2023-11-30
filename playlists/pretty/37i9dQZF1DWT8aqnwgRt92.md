@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,377,997 likes - 85 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,378,564 likes - 85 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 16 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 |
 | 17 | [逆光 \- replica \-](https://open.spotify.com/track/3LZwKI90sFbwjJMMSfyPp7) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:57 |
 | 18 | [逆夢](https://open.spotify.com/track/2tymuyImEjfqVCearVpYCf) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 5:08 |
-| 19 | [God knows..\. \- from CrosSing](https://open.spotify.com/track/4L0hLwho2DEd1wPnboLcQ0) | [奥井雅美](https://open.spotify.com/artist/4Ii7UojF0YlO2h2dIhdWfU) | [God knows..\. \- from CrosSing](https://open.spotify.com/album/0VTZwCTbk92nPUnvXmJP3t) | 4:39 |
+| 19 | [God Knows..\. \- From CrosSing](https://open.spotify.com/track/5zXinlzLM41ZR5VpS6AJBT) | [奥井雅美](https://open.spotify.com/artist/4Ii7UojF0YlO2h2dIhdWfU) | [God Knows..\. \- From CrosSing](https://open.spotify.com/album/2fUAIomKJaQYwPRm7Bmm7w) | 4:39 |
 | 20 | [UNDER THE TREE \- Full Length Ver.](https://open.spotify.com/track/5B9gDlmcZZZamZ53hUeMlf) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0) | 4:31 |
 | 21 | [アイコトバ](https://open.spotify.com/track/3OtR0cI6ngSveZ3sxOARa9) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [アイコトバ](https://open.spotify.com/album/6HlF6mu7x9hT21LdjIhgG4) | 4:44 |
 | 22 | [RISE UP](https://open.spotify.com/track/1fB1NOeELQJwHw5kLeQEf4) | [Bae](https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH), [The Cat's Whiskers](https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS), [cozmez](https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn), [悪漢奴等](https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC) | [Paradox Live THE ANIMATION Opening Track「RISE UP」](https://open.spotify.com/album/19rtC1twZKhiqLfnOZT6bS) | 3:40 |
@@ -40,14 +40,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 30 | [R.I.P.](https://open.spotify.com/track/4d4RL0VuwSA1JfRRXD9tXt) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [R.I.P.](https://open.spotify.com/album/4d5W6sksMk3FHYYmdd4u0E) | 3:22 |
 | 31 | [すみっコディスコ](https://open.spotify.com/track/0KPWMRTUbbq1kyn8tINBTY) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [すみっコディスコ](https://open.spotify.com/album/2OIPi5b7P9RzXfP6EX6OVR) | 3:27 |
 | 32 | [KUNOICHI](https://open.spotify.com/track/54oSb0hs2lyn13ZanbVUkW) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT), [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [KUNOICHI](https://open.spotify.com/album/1pVKX4UnCrRGGvwth0FyOI) | 3:39 |
-| 33 | [BOY](https://open.spotify.com/track/3oQaOjaIYPsnJbGNzXcIID) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [BOY](https://open.spotify.com/album/2uBF1lnflUJBHLGvg2rEyI) | 3:51 |
+| 33 | [BOY](https://open.spotify.com/track/4UShpOJdauir54vMuaFLEV) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 3:54 |
 | 34 | [more than words \- English ver.](https://open.spotify.com/track/5zFmY6wFs4CeGJb5P5Wv5A) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [more than words \(English ver.\)](https://open.spotify.com/album/4OTaUWzn1fMSvqSaH4LBSw) | 4:46 |
 | 35 | [Omoikaze \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/track/0l49ZGMryYreBuCYjb9v5q) | [Yuiko Ohara](https://open.spotify.com/artist/6Ms9K6GofUbmyph3tETnp5), [Alisa Okehazama](https://open.spotify.com/artist/6VMGyvtQPQ1uPvkaSm73aR) | [Omoikaze \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/album/6dIi4IChOkvoc4UDv1kp2S) | 2:28 |
 | 36 | [Friends Are For](https://open.spotify.com/track/0ZyxK0yMUKlUpBXsYg0cmi) | [MOONCHILD](https://open.spotify.com/artist/4wZ56MQgx9kLpOmF3IuJmM) | [Friends Are For](https://open.spotify.com/album/08tOtAc9Wd3ca6vYh5iPVe) | 3:23 |
 | 37 | [Invisible Wings](https://open.spotify.com/track/66S1A6ve3RwtldpheI2GGt) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [infinite Resonance 2](https://open.spotify.com/album/7JOsrDjoqyUxg47pHxvxc1) | 5:36 |
-| 38 | [真夜中の怪獣](https://open.spotify.com/track/7vO8y6LjA5j40vEEZItUEr) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [真夜中の怪獣](https://open.spotify.com/album/0iwfNJffybhvJ7lvbvoTGq) | 3:14 |
+| 38 | [Kaiju In The Night](https://open.spotify.com/track/5XikQ1yJjQqiznvnDfyWnm) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [Kaiju In The Night](https://open.spotify.com/album/2nWAW2UL4vCOaWAhfDoJMq) | 3:14 |
 | 39 | [iDea](https://open.spotify.com/track/17faY3OacvHCjl5eBzCNNi) | [内田雄馬](https://open.spotify.com/artist/4VJIq1t9RJ8WBYGr2P1FwF) | [Y](https://open.spotify.com/album/0nFav47ZprcPBAiuAUqEfr) | 2:46 |
-| 40 | [グッドラック](https://open.spotify.com/track/5vQTBsKNSmhWx4uMCOubaj) | [畠中 祐](https://open.spotify.com/artist/0TaoRyKuOZG8BUcWKfcPIp) | [グッドラック](https://open.spotify.com/album/5wRDA6czlaHl7lvBEPq4cC) | 3:44 |
+| 40 | [グッドラック](https://open.spotify.com/track/5BiQrlfZvPFvulmepPa9Z8) | [畠中 祐](https://open.spotify.com/artist/0TaoRyKuOZG8BUcWKfcPIp) | [グッドラック](https://open.spotify.com/album/0EAEDD03aWTf4TqQ0cRMQP) | 3:44 |
 | 41 | [I Can Bleah](https://open.spotify.com/track/2g0lxFQtQ952WX0IV7b0yJ) | [Shiina Natsukawa](https://open.spotify.com/artist/1fkqRIgZFVQAsJT6D8L3JZ) | [ケーブルサラダ](https://open.spotify.com/album/34KdkdBURpzwXzI4bIF6Ot) | 2:48 |
 | 42 | [DAISY](https://open.spotify.com/track/0MakkBf2ekyMyN8tyiEzHD) | [安月名莉子](https://open.spotify.com/artist/7ChJuYuw9pM8MqaZOAmvHX) | [Azu is](https://open.spotify.com/album/1b5lp3j4Z6XcAB8C8ltzXz) | 2:56 |
 | 43 | [HELP](https://open.spotify.com/track/6qzigrdGbzParrcscn1707) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [HELP](https://open.spotify.com/album/15OxWt5Wd6QKRr3BM2SI1K) | 3:47 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [Queen of the Night](https://open.spotify.com/track/1gzlOAq7ozJ8X8VIbUN8yd) | [KanoeRana](https://open.spotify.com/artist/41xWPhTGTkBVZwftEX2Xft) | [Queen of the Night](https://open.spotify.com/album/3lU8QCp5YQfe488NNe7qQ2) | 4:13 |
 | 85 | [Perfect World](https://open.spotify.com/track/0wbjzPFuDHLWQs3Aw0vRIH) | [LMYK](https://open.spotify.com/artist/7a2CrMd3xwcZDDC39OKUGg) | [Perfect World EP](https://open.spotify.com/album/2pEkFJTFkRgN9CkpJ8mRwJ) | 3:42 |
 
-Snapshot ID: `MCwyMGZjM2QxNTdhMzI2NzZmYmIyZTQ5NWRmNTRkYTc4ODA0NDE3NWI1`
+Snapshot ID: `MCw1MjU0N2IyMTdhYTdlNWNlZjc4ZTQ3YTEwNTM5ZTE2NmFhMGFmYjI1`

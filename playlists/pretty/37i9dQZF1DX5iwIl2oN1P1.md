@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 
 > Get your Sunday sound right with this collection of current Gospel essentials.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,886 likes - 60 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,965 likes - 60 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 19 | [I Love The Lord \(with Georgia Mass Choir\)](https://open.spotify.com/track/2xrXUa8o1JJtz8nobY2UsY) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [The Georgia Mass Choir](https://open.spotify.com/artist/1CdyK67jEL4DXXsmp8vFfN) | [The Preacher's Wife](https://open.spotify.com/album/4GtmXlzXsP67AKOVT8LWKK) | 4:56 |
 | 20 | [Your Great Name](https://open.spotify.com/track/00CAvPIbaOTN0dJAEC0fsT) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Your Great Name](https://open.spotify.com/album/2VFvahahHbaC4rgqnVvnlw) | 6:19 |
 | 21 | [Deliver Me \(This Is My Exodus\) \(feat\. Le'Andria Johnson\)](https://open.spotify.com/track/4imwSeFR8R3yKpfD2yNI2r) | [Donald Lawrence](https://open.spotify.com/artist/40tzRHO6w4wROAdb6Sr21l), [The Tri\-City Singers](https://open.spotify.com/artist/0kU5fC7WVwJlfd1eNj9cMn), [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh) | [Deliver Me \(This Is My Exodus\) \(feat\. Le'Andria Johnson\)](https://open.spotify.com/album/3vP8VfkQVpGJSviXLmk9ls) | 5:44 |
-| 22 | [You Are God Alone](https://open.spotify.com/track/2cWRop4KNmto1AiIdYPEBj) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN) | [Arise](https://open.spotify.com/album/1cwl8uoycWw4fFMKMV0VEc) | 7:14 |
-| 23 | [More Than Anything \(Radio Edit\)](https://open.spotify.com/track/0mVB0IVgOK7P1G77ZHTMc5) | [Anita Wilson](https://open.spotify.com/artist/4rEGEwaOU6Mtdj4ylW0fjS) | [More Than Anything \(Radio Edit\)](https://open.spotify.com/album/1fdSuqqPJUPRgJqiQpvUtc) | 4:20 |
+| 22 | [More Than Anything \(Radio Edit\)](https://open.spotify.com/track/0mVB0IVgOK7P1G77ZHTMc5) | [Anita Wilson](https://open.spotify.com/artist/4rEGEwaOU6Mtdj4ylW0fjS) | [More Than Anything \(Radio Edit\)](https://open.spotify.com/album/1fdSuqqPJUPRgJqiQpvUtc) | 4:20 |
+| 23 | [You Are God Alone](https://open.spotify.com/track/2cWRop4KNmto1AiIdYPEBj) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN) | [Arise](https://open.spotify.com/album/1cwl8uoycWw4fFMKMV0VEc) | 7:14 |
 | 24 | [Praise on the Inside](https://open.spotify.com/track/3GN2Y6iwlw1M7fhMHl60PI) | [J Moss](https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP) | [V2...](https://open.spotify.com/album/17sHeVMLvbVPeKaTk3WQlY) | 3:43 |
 | 25 | [Not Lucky, I'm Loved](https://open.spotify.com/track/4jc7FTXFUhTaMRpmU42yfI) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Make Room](https://open.spotify.com/album/2Gn6iOiQIWzAgeE1TYCJGS) | 6:48 |
 | 26 | [Testimony](https://open.spotify.com/track/37PMWc1U9QTGRSh9cKzvDj) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w), [Group Therapy](https://open.spotify.com/artist/0f7eDR1n3XZwch1xXwEsYW) | [Anthony Brown & group therAPy](https://open.spotify.com/album/1oavdXITKhu6Mgb1YlIOoN) | 4:17 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 45 | [Close](https://open.spotify.com/track/4X5kYRhSENRkyUkY17STEG) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Close](https://open.spotify.com/album/61YnH58KCdWzLWjkbRES9H) | 6:20 |
 | 46 | [No Ordinary Worship \- Live](https://open.spotify.com/track/6YGfEESAaw90c7saDtwiej) | [Kelontae Gavin](https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D) | [The Higher Experience](https://open.spotify.com/album/6MjlmoY1Y0vYhGQ1ShRXzV) | 5:13 |
 | 47 | [A Billion People](https://open.spotify.com/track/2Ox4qEf3jSJaaWsAfeBb0K) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9) | [Deitrick Haddon & Hill City Worship Camp](https://open.spotify.com/album/4muX9GCt1QgF3CtMzgTtdu) | 7:38 |
-| 48 | [I Am \- Radio Edit](https://open.spotify.com/track/1X2DFg7sUV1ajTbsJFJKqx) | [Jason Nelson](https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef) | [I Am \(Radio Edit\)](https://open.spotify.com/album/5xnXnNzG7FUUrIZdiTxYot) | 4:47 |
-| 49 | [Anything Can Happen](https://open.spotify.com/track/7MKlnlo5PZalGfC0HSwUIU) | [Jonathan Nelson](https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa) | [Fearless \(Deluxe Edition\)](https://open.spotify.com/album/2VZ2wxXREyzvLSGDdQtDsD) | 8:05 |
+| 48 | [Anything Can Happen](https://open.spotify.com/track/7MKlnlo5PZalGfC0HSwUIU) | [Jonathan Nelson](https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa) | [Fearless \(Deluxe Edition\)](https://open.spotify.com/album/2VZ2wxXREyzvLSGDdQtDsD) | 8:05 |
+| 49 | [I Am \- Radio Edit](https://open.spotify.com/track/1X2DFg7sUV1ajTbsJFJKqx) | [Jason Nelson](https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef) | [I Am \(Radio Edit\)](https://open.spotify.com/album/5xnXnNzG7FUUrIZdiTxYot) | 4:47 |
 | 50 | [I Got Out](https://open.spotify.com/track/29mZrqJI0XyyUvVMo2edpk) | [Bryan Popin](https://open.spotify.com/artist/6jfghB5jl6RMXoiXqldVhz) | [I Got Out](https://open.spotify.com/album/07nqs2VsHDslrmhlMsCjke) | 4:57 |
 | 51 | [I'm Good](https://open.spotify.com/track/06PTBb12MxQdtgyFIawUOK) | [Tim Bowman Jr.](https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l) | [I'm Good](https://open.spotify.com/album/4L1qVMFTElNgKI8TdRyn77) | 3:45 |
 | 52 | [Beyond The Veil \- Live](https://open.spotify.com/track/1XGD06MU8Ds1O0J9mjo2yn) | [Daryl Coley](https://open.spotify.com/artist/2k7eX9JBghoFsvRljRzi01) | [Beyond The Veil: Live At Bobby Jones Gospel Explosion XIII](https://open.spotify.com/album/4Fg8OaeE26o8IjZw03iRLo) | 8:27 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 59 | [Your Love](https://open.spotify.com/track/0RZfOr4ZxPJYOGqfhSQqoo) | [Tim Bowman Jr.](https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l) | [Listen](https://open.spotify.com/album/5YChjVISCxpP25SXcAeEQm) | 4:55 |
 | 60 | [One More Time](https://open.spotify.com/track/5nMWOR0iuCl0OJnHAtnj2T) | [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [Zacardi Cortez](https://open.spotify.com/album/6lqXXtJpXKLAJO9M287IGo) | 4:19 |
 
-Snapshot ID: `MCxhZjlkYTZlOWNiMjEzNWNmYTYwNjJlMGIzZTNkYjA2ODM2OTZiMGQz`
+Snapshot ID: `MCxlZjBmZWFjYmY5YTA3ZDUyZjYwZTZlYTAwOTc1OTQyNmRlZDU4M2Nl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: tchelo rodrigues
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,340 likes - 74 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,368 likes - 74 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 25 | [Capital Girando 2](https://open.spotify.com/track/2Y8Ed1uZAx9GYm6U3Zv46v) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [Mikezin](https://open.spotify.com/artist/4LnQWC7U1XWXpcgoZN3D3Q) | [Capital Girando 2](https://open.spotify.com/album/0uEtVCAxGvlaS5uZGlxL8F) | 2:39 |
 | 26 | [Meia Noite](https://open.spotify.com/track/0pSSwdKwt2MflODfSDuikd) | [JG Real](https://open.spotify.com/artist/6IqdPoGiCMjjsGOkxEdADa), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Meia Noite](https://open.spotify.com/album/3hAzPC7hru33puyZSBeQ2W) | 2:43 |
 | 27 | [não sou EU](https://open.spotify.com/track/4ugfY4IKYeP1hgcJj63qCU) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [H4lfmeasures](https://open.spotify.com/artist/1EihkUZJcXOwXN4tedcfxd), [Tkd](https://open.spotify.com/artist/1GYx2LBI5bt0xRUpvdGYYt) | [Dois](https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm) | 3:46 |
-| 28 | [Zidane](https://open.spotify.com/track/12VgvkipRAGWuGAitNo47j) | [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po) | [Zzz, Vol\. 2](https://open.spotify.com/album/51kX2muIvK8Z8I8mb9H1Y6) | 1:44 |
+| 28 | [Zidane](https://open.spotify.com/track/5203anqH3H9vJT8URmbF4X) | [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po) | [Zzz, Vol\. 2](https://open.spotify.com/album/5qg05BeqESDoMFCYZl3Od0) | 1:44 |
 | 29 | [Renc Renc](https://open.spotify.com/track/3LkOtPI3tg44XxnYdrST7B) | [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Toda Noite](https://open.spotify.com/album/1ybO5RFlM3hhjgssvNfKNe) | 2:22 |
 | 30 | [NO CÉU](https://open.spotify.com/track/3pd8ZvVPlrzBxnfklVFIwA) | [Raillow](https://open.spotify.com/artist/0sidBbuq2OCR7mtHiSIfCN), [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu), [Batista](https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp), [MindHunters](https://open.spotify.com/artist/0QRlMdCWxBYvMrUJT9R8Rj) | [NO LUV](https://open.spotify.com/album/7eU6g8rDIuaPfr7h8fmmVC) | 3:22 |
 | 31 | [Tóxica](https://open.spotify.com/track/4IuFdk5Hk90iUPPi98gWpN) | [Shaodree](https://open.spotify.com/artist/4NOi6526Zq6dqCMXaEN0EW), [Popai](https://open.spotify.com/artist/51C4TqkX8bY05pefp9KOcv) | [Nova Wave, Pt\. 3](https://open.spotify.com/album/2b2WeLktAC6n3jLlq1pLqo) | 3:33 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 73 | [Bala nos Mandado](https://open.spotify.com/track/7ty2MwHKyA7ZENxc01WKR4) | [NGC Daddy](https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x), [Meno Tody](https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L) | [Bala nos Mandado](https://open.spotify.com/album/29TwohGiZJQDG9KnWEGR1o) | 2:40 |
 | 74 | [Conteúdo Exclusivo \(feat\. Pedro Lotto & Wey\)](https://open.spotify.com/track/2ECwRI68IyCh5La41hCw59) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR) | [O Último Romântico Online](https://open.spotify.com/album/5J2k1X6ezNvPGwchhujAA4) | 3:48 |
 
-Snapshot ID: `MCw0ZDA0NzQ3MmQ2M2ZhYWZmNmQ4N2RhNDJiMmJmOWMwZmZkODFmNTAx`
+Snapshot ID: `MCxhN2ViYjE2MDhjMzNjNjgzNjIzYTg3MzI3MTkyYWJlOWY4NjI0Mzc1`

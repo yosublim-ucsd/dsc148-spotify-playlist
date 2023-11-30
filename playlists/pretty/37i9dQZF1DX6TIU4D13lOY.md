@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TIU4D13lOY.md) - [plain]
 
 > Classic soft rock for a nice and easy drive.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,054 likes - 80 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,125 likes - 80 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TIU4D13lOY.md) - [plain]
 | 35 | [On And On](https://open.spotify.com/track/0Vth3l4XAo8hNYmxjzhr2y) | [Stephen Bishop](https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN) | [Careless](https://open.spotify.com/album/08zWo4xb7GZ5e3dyUOUAmm) | 3:01 |
 | 36 | [The Best of My Love \- 2013 Remaster](https://open.spotify.com/track/5MLLuLqPdUlx8bfKtdkLwO) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [On the Border \(2013 Remaster\)](https://open.spotify.com/album/2iCHyD9XHtA3vJFJIuXzqu) | 4:34 |
 | 37 | [You're No Good](https://open.spotify.com/track/23DZLSxCK6kM8FF2RlzKDl) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Heart Like A Wheel](https://open.spotify.com/album/7upKDUGJUjsvfIe6vuVB0b) | 3:44 |
-| 38 | [Still the One](https://open.spotify.com/track/2dtK02TSAuTvVYU2wGAVG0) | [Orleans](https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c) | [Waking & Dreaming](https://open.spotify.com/album/47YQQPzYY32yZbWC40mlku) | 3:54 |
+| 38 | [How Much I Feel](https://open.spotify.com/track/3GVhCuS4BRxCTvVj4Cmc8w) | [Ambrosia](https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw) | [Life Beyond L.A.](https://open.spotify.com/album/5CyhDBUqDk2XMptRFsj7c2) | 4:43 |
 | 39 | [Hey Nineteen](https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Gaucho](https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L) | 5:07 |
-| 40 | [How Much I Feel](https://open.spotify.com/track/3GVhCuS4BRxCTvVj4Cmc8w) | [Ambrosia](https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw) | [Life Beyond L.A.](https://open.spotify.com/album/5CyhDBUqDk2XMptRFsj7c2) | 4:43 |
+| 40 | [Still the One](https://open.spotify.com/track/2dtK02TSAuTvVYU2wGAVG0) | [Orleans](https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c) | [Waking & Dreaming](https://open.spotify.com/album/47YQQPzYY32yZbWC40mlku) | 3:54 |
 | 41 | [How Long](https://open.spotify.com/track/6Wgst4P9SOnc6WGLtfTb1z) | [Ace](https://open.spotify.com/artist/6QNkSI0c63lCTNXpHDBiqP) | [Five\-A\-Side](https://open.spotify.com/album/0Co0NZP0lt2Qi7rHZDngxh) | 3:24 |
 | 42 | [Baby Come Back](https://open.spotify.com/track/2eRYuzlSOBk3HlMsCSOLPJ) | [Player](https://open.spotify.com/artist/0fgtHVpOPfXb07S8Jx443z) | [Late Night Tales: Music For Pleasure](https://open.spotify.com/album/0GPZjIWU4sF8wmdNv67Ukc) | 3:34 |
 | 43 | [So Into You](https://open.spotify.com/track/3Sm5TYFgMXyXwgAcY2xweX) | [Atlanta Rhythm Section](https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw) | [A Rock And Roll Alternative](https://open.spotify.com/album/5vC0MxBXL4i9iowdXSx4yO) | 4:20 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TIU4D13lOY.md) - [plain]
 | 79 | [Shadow Captain](https://open.spotify.com/track/7yw2UnCNLPTlPOQaaPHYCN) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [CSN](https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx) | 4:34 |
 | 80 | [Ace of Hearts](https://open.spotify.com/track/72wERbZ4yx2cNaoEj5jYnl) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [The Works](https://open.spotify.com/album/1FFugUhUxnLxYb4eqqDwGn) | 4:30 |
 
-Snapshot ID: `MCxkNzFiNDgzY2MzYjU2M2VhOGI5NjJlM2FiNzRhYTQ1ZGY0ZmQyYmQw`
+Snapshot ID: `MCwyNjBmNGVhY2U0NzQ5MTQxODlhY2JhNjMyNDMxMDg5MjI3YjJmMzc1`

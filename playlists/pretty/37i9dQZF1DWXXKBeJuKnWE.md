@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 
 > The home for heavy rockers\. Cover: BLACKGOLD
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,096 likes - 88 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,145 likes - 88 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 87 | [A Kiss for the Whole World x](https://open.spotify.com/track/1LAuVHMWdVkdbNmSVXWw2K) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [A Kiss for the Whole World](https://open.spotify.com/album/5bTSXCOLlIH6gsOvuI3PCI) | 3:31 |
 | 88 | [Scream](https://open.spotify.com/track/1Ar6ZDBwSNYGlSxAiT7xYH) | [CRASHFACE](https://open.spotify.com/artist/5KjrHPtIS2XCqs5zZwnydX) | [Prototype](https://open.spotify.com/album/3aEYmTTLwf0viUwQXVLKps) | 3:31 |
 
-Snapshot ID: `MCwzZWUwMDRmNWQ3NTUxZDY2YTU2OGFhZTk5ZTA0MzIzNmI2NjgwYTM3`
+Snapshot ID: `MCxmYTg5ODlhNzk2MDdkNGNhMjAzNzAyNGIwZWZhMGMzYzExZWQ0MzI3`

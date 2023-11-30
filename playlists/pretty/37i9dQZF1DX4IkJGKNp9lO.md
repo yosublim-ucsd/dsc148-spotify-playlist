@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,483 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,496 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,16 +31,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 21 | [Staten & kapitalet](https://open.spotify.com/track/4bofKUmzk2mYjUlsL3NVeF) | [Ebba Grön](https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9) | [Ebba Grön 1978 \- 1982](https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R) | 5:26 |
 | 22 | [Du ska va president](https://open.spotify.com/track/3ohXW41Z5iU6pL4pfpAMO0) | [Imperiet](https://open.spotify.com/artist/4uWiErrlBRdqgKn5NrIJjg) | [MNW Klassiker \- Imperiet](https://open.spotify.com/album/5lY7cylovT6hi6h2cTOMS6) | 4:16 |
 | 23 | [Patriarkatet](https://open.spotify.com/track/1l55KW7G3lKMgDWaeBDE8n) | [Asta Kask](https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX) | [En För Alla Ingen För Nån](https://open.spotify.com/album/5usEd1n4iAj3AdSAHlu7os) | 3:10 |
-| 24 | [I Din Sol](https://open.spotify.com/track/5gihLvviOhCQSs80u4tRiF) | [Död Mark](https://open.spotify.com/artist/36ufPZjygPOubok9wycfl9) | [Död Mark 4Evigt](https://open.spotify.com/album/70XKEcF9OgL0YE3icy72ft) | 1:49 |
-| 25 | [Alderland \(NO\)](https://open.spotify.com/track/1m7AguIMU7bffCcc8j17sK) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv), [Renate](https://open.spotify.com/artist/2Y8wXdNaw1DlGZvbwGgh5n) | [Alderland \(NO\)](https://open.spotify.com/album/6szx99wRMChXhT3p6arm2L) | 3:28 |
+| 24 | [Alderland \(NO\)](https://open.spotify.com/track/1m7AguIMU7bffCcc8j17sK) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv), [Renate](https://open.spotify.com/artist/2Y8wXdNaw1DlGZvbwGgh5n) | [Alderland \(NO\)](https://open.spotify.com/album/6szx99wRMChXhT3p6arm2L) | 3:28 |
+| 25 | [I Din Sol](https://open.spotify.com/track/5gihLvviOhCQSs80u4tRiF) | [Död Mark](https://open.spotify.com/artist/36ufPZjygPOubok9wycfl9) | [Död Mark 4Evigt](https://open.spotify.com/album/70XKEcF9OgL0YE3icy72ft) | 1:49 |
 | 26 | [Lisa](https://open.spotify.com/track/3eh8uUhn2VGZA2WCpewFj8) | [Skumdum](https://open.spotify.com/artist/5s6MpxYo0TqzCuNIqVIRFS) | [Demons From the Past](https://open.spotify.com/album/7MPicF3ZYteZYXCSveQ0Eb) | 2:28 |
 | 27 | [Jag Går Upp Och Håller Käften](https://open.spotify.com/track/0aozr0Hc6LefOhDj818RDI) | [Coca Carola](https://open.spotify.com/artist/3SZ1ctTCbqXxdQ8atMJpVh) | [Feber](https://open.spotify.com/album/0zgmxxpsQDiLBcWLKTZMld) | 3:27 |
 | 28 | [Dunken](https://open.spotify.com/track/7InzmgtRkwsheHlrUz0VLK) | [Krymplings](https://open.spotify.com/artist/4kLL8wxwaGFZNFzfS0mPuZ) | [Krymplings](https://open.spotify.com/album/6lHYeeAQXLPGqEM4wSXlKj) | 3:59 |
 | 29 | [Troll Och Häxor](https://open.spotify.com/track/6ly3rSnZYQqHP6qCVbMuuZ) | [De Lyckliga Kompisarna](https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd) | [Le Som En Fotomodell](https://open.spotify.com/album/1uL0v8dyKzZGeg1gT5QbjV) | 2:10 |
 | 30 | [Herrarna I Sandlådan](https://open.spotify.com/track/4LMQqcT7PChwUucFyhyWtY) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Tecken I Tiden](https://open.spotify.com/album/3KYVzrsazBDbsbkbDQBXAd) | 4:10 |
 | 31 | [Punkrockarflicka](https://open.spotify.com/track/5WUTe6rxs2C9lwd5MtAfBU) | [En Svensk Tiger](https://open.spotify.com/artist/3iW69eoN123eG0fXEdER0q) | [Versace Style](https://open.spotify.com/album/7DYNmpEqsmrso2Gqz2x08f) | 2:08 |
-| 32 | [Tid att vara arg](https://open.spotify.com/track/6aEcYA9k3GAvPRwdAdMwCV) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Grit](https://open.spotify.com/album/5j376oRcfB6bEovuA5Ssod) | 2:17 |
-| 33 | [Spriten Räddade Mig Från Sporten](https://open.spotify.com/track/4U2fgDPZ2C4qkrfz88ViSF) | [Räserbajs](https://open.spotify.com/artist/1mYHNZqRjNIlWwMgvIVq7X) | [Noppriga Tights Och Moonboots](https://open.spotify.com/album/7Ej9w61IrbodhAxrNRXYTn) | 3:24 |
+| 32 | [Spriten Räddade Mig Från Sporten](https://open.spotify.com/track/4U2fgDPZ2C4qkrfz88ViSF) | [Räserbajs](https://open.spotify.com/artist/1mYHNZqRjNIlWwMgvIVq7X) | [Noppriga Tights Och Moonboots](https://open.spotify.com/album/7Ej9w61IrbodhAxrNRXYTn) | 3:24 |
+| 33 | [Tid att vara arg](https://open.spotify.com/track/6aEcYA9k3GAvPRwdAdMwCV) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Grit](https://open.spotify.com/album/5j376oRcfB6bEovuA5Ssod) | 2:17 |
 | 34 | [Sverigevänner](https://open.spotify.com/track/74ZYleEd9SYtyziSyvaDb3) | [KSMB](https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71) | [Ond saga](https://open.spotify.com/album/4ZjxaSk7kgGkWIttkK7D0X) | 3:24 |
 | 35 | [Tyst för fan](https://open.spotify.com/track/6NJNjEVI1AU7UYIrUZTd1Y) | [Ebba Grön](https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9) | [Ebba Grön 1978 \- 1982](https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R) | 2:29 |
 | 36 | [Betongbarn](https://open.spotify.com/track/7kLPU9teUWCfCymYN5LAxU) | [Strebers](https://open.spotify.com/artist/5SySCVwCUP7piTTeJdlYbZ) | [Kaos & Skrål 85\-87](https://open.spotify.com/album/5JtGOYBzL27gSHV9XNoJjq) | 2:51 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 56 | [Svegregationen](https://open.spotify.com/track/1JTg3ZsOwIpsqdpEKnhGmA) | [En Svensk Tiger](https://open.spotify.com/artist/3iW69eoN123eG0fXEdER0q) | [Gbg Noir](https://open.spotify.com/album/6ekcmRIvx0kvzrex5j1lNN) | 3:02 |
 | 57 | [Sibylla](https://open.spotify.com/track/5ZXcG9xpZbedvg6XjEF9JC) | [Hans & Greta](https://open.spotify.com/artist/1MiHrCnLxMQT9PHFYWN4ie) | [Snabbmat För Folk I Farten](https://open.spotify.com/album/0QxstpnJJBgNvD4qzqolGw) | 3:30 |
 | 58 | [Simpel Matematik](https://open.spotify.com/track/3v0YqaZ4UG78gzaQDiPbAQ) | [Kardinal Synd](https://open.spotify.com/artist/32KVyD0F48q3QNpSET788O) | [\[emo\]](https://open.spotify.com/album/57RyBvC6QTcd13XRfo9MDP) | 3:12 |
-| 59 | [Som En Doft Av Napalm](https://open.spotify.com/track/68dRAj0qJy7KQe4FxjUqrc) | [Slutstation Tjernobyl](https://open.spotify.com/artist/7hGagoTcGYInEGKeZdS6wC) | [Vi Är Alla Stjärnor](https://open.spotify.com/album/7E2RVJCOJyo0WqyH1b9GNn) | 2:25 |
-| 60 | [39 Steg](https://open.spotify.com/track/2rV0t4N2oZnTl2yjDnRc0I) | [Strebers](https://open.spotify.com/artist/5SySCVwCUP7piTTeJdlYbZ) | [Kallt Stål, Varmt Blod + I Fädrens Spår](https://open.spotify.com/album/1rceLyJ9uvN9FSF9wqgz3t) | 3:31 |
+| 59 | [39 Steg](https://open.spotify.com/track/2rV0t4N2oZnTl2yjDnRc0I) | [Strebers](https://open.spotify.com/artist/5SySCVwCUP7piTTeJdlYbZ) | [Kallt Stål, Varmt Blod + I Fädrens Spår](https://open.spotify.com/album/1rceLyJ9uvN9FSF9wqgz3t) | 3:31 |
+| 60 | [Som En Doft Av Napalm](https://open.spotify.com/track/68dRAj0qJy7KQe4FxjUqrc) | [Slutstation Tjernobyl](https://open.spotify.com/artist/7hGagoTcGYInEGKeZdS6wC) | [Vi Är Alla Stjärnor](https://open.spotify.com/album/7E2RVJCOJyo0WqyH1b9GNn) | 2:25 |
 | 61 | [Fabriken](https://open.spotify.com/track/5EUmW6SjzUmexP82gl93jd) | [Kardborrebandet](https://open.spotify.com/artist/6CaozjJFhs3wLYvch7B0At) | [Välkommen till fabriken](https://open.spotify.com/album/3TzvCcOrrzkWZm6unnpa9S) | 2:26 |
 | 62 | [Jag Vill Ha En Slav](https://open.spotify.com/track/4xO1DQ3opSAtufO7oNP0C4) | [Krymplings](https://open.spotify.com/artist/4kLL8wxwaGFZNFzfS0mPuZ) | [Krymplings](https://open.spotify.com/album/6lHYeeAQXLPGqEM4wSXlKj) | 2:32 |
 | 63 | [Vägra](https://open.spotify.com/track/1xKkbE6TAk0fw982WRofnl) | [Borgerlig Begravning](https://open.spotify.com/artist/58oxi3Ei1SHkiWTZ1DP33q) | [Borgerlig begravning](https://open.spotify.com/album/7CrfHrApj1K5LpjSyiSUYH) | 2:01 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 74 | [Alaska](https://open.spotify.com/track/6Le2xknWbtNI3yRmiBs03U) | [EPA](https://open.spotify.com/artist/6vLwmfijKpOf0xR8Mv79aj) | [Tretton Övningar i Mindfulness](https://open.spotify.com/album/4LQH4X3UEoOPQG5YNI9RrV) | 2:40 |
 | 75 | [Boostade Egon](https://open.spotify.com/track/2RRW47cZhJO0GS7QMtMB6x) | [De Lyckliga Kompisarna](https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd) | [Pengar Har Inga Ögon](https://open.spotify.com/album/1ueBZ7RDpKS1kv4VYTaZRY) | 1:08 |
 
-Snapshot ID: `MCwzYzIwMzg1MTVkOTY3ZWJiMTZlOTQ4OGJjMmE3OTk5Zjk3NTRmOTNm`
+Snapshot ID: `MCxlZTQ4OThmZWM4YTExYjg0NGMwM2ExZTJiOTkxOWRmMmRjMDBmZDg2`

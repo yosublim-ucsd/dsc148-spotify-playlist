@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UvejH8n2BC.md) - [plain]
 
 > Female artists of Philadelphia International Records which is especially known for Philly Soul\. Cover: The Jones Girls:
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,806 likes - 32 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,861 likes - 32 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UvejH8n2BC.md) - [plain]
 | 31 | [Breaking and Entering \- 12" Version](https://open.spotify.com/track/7EeTRmNCoGhvN1CM3qbMOu) | [Dee Dee Sharp Gamble](https://open.spotify.com/artist/6yca6zFWEYjAzjrcch66IK), [Dexter Wansel](https://open.spotify.com/artist/7azp9wRyXcxIq5vZnJgYvt), [David Todd](https://open.spotify.com/artist/5OYReAyrBw6qS3vOtMCaZA) | [The Women of Philadelphia International Records \- The Remixes](https://open.spotify.com/album/0Zhm6kMdeBa2iv48QhnYSu) | 7:00 |
 | 32 | [The Runner](https://open.spotify.com/track/1SjVF6AcCFamuErMWI7GQz) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of](https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG) | 4:22 |
 
-Snapshot ID: `MCw0YTZmNjY4M2Q0OGExMTMzYThiZDNiNTY0YmQ2YTczZWY1NzZjOTBi`
+Snapshot ID: `MCwyNTNjOGUyN2E4ZTBjY2I0MmY4MjkyNDkyNGZjMzFkNjE4ZGE0NGNh`

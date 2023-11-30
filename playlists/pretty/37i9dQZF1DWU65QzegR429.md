@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 
 > Latin music making waves\. Cover: Polimá Westcoast
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,232 likes - 59 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,240 likes - 59 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 | 47 | [Si Tu Quieres](https://open.spotify.com/track/3yC4gzNRrycuufTcRPSRx2) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [Si Tu Quieres](https://open.spotify.com/album/6uRf20wqSSfYmjwSC6wuYT) | 2:49 |
 | 48 | [Para Mi](https://open.spotify.com/track/4DW0XUPnGT6hWuJYZxErVX) | [Anmily Brown](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [Para Mi](https://open.spotify.com/album/4xALKUOR6fodvNlUKaOHti) | 3:37 |
 | 49 | [Saque Otro Tema](https://open.spotify.com/track/0JNCNJZC29fOBjiCIaDwIu) | [Menor Menor](https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW) | [Saque Otro Tema](https://open.spotify.com/album/07P3YTWehCjPYI571sbkew) | 2:51 |
-| 50 | [Maya](https://open.spotify.com/track/0FcOIIBRs6eW2YGonS4z9r) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX) | [Maya](https://open.spotify.com/album/7pXHSP4BzhDOQvm6W3k00v) | 3:07 |
-| 51 | [Betty](https://open.spotify.com/track/4vjxTax1lQvczaIlyVx5ME) | [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre) | [Betty](https://open.spotify.com/album/7kRpm1Ax9vG5Mc3ISEF9ve) | 2:53 |
+| 50 | [Betty](https://open.spotify.com/track/4vjxTax1lQvczaIlyVx5ME) | [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre) | [Betty](https://open.spotify.com/album/7kRpm1Ax9vG5Mc3ISEF9ve) | 2:53 |
+| 51 | [Maya](https://open.spotify.com/track/0FcOIIBRs6eW2YGonS4z9r) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX) | [Maya](https://open.spotify.com/album/7pXHSP4BzhDOQvm6W3k00v) | 3:07 |
 | 52 | [Holy Ghost $$$](https://open.spotify.com/track/4JNxvjgaJyYdRAc1yhUPKj) | [Esty](https://open.spotify.com/artist/5GRoRrY3Ug35hVuX3z5Rvq) | [Holy Ghost $$$](https://open.spotify.com/album/4pWMN5lBEFrwZde1kdCqrh) | 2:37 |
 | 53 | [Sugar Boi](https://open.spotify.com/track/4wSGokexiP0n1wfGZALMLi) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Sugar Boi](https://open.spotify.com/album/6ZompWFaxtNkSguDPSVszb) | 2:54 |
 | 54 | [Kilo Kilo](https://open.spotify.com/track/6QBrMT3F1gAcvdS7wIEeFO) | [Akim](https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3), [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm) | [Haters y Fanáticos](https://open.spotify.com/album/5ozdJlbZNDyinRp5MGXqsb) | 4:10 |
@@ -66,6 +66,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 | 56 | [Mírame](https://open.spotify.com/track/4xuYmM0jxeQ7svyfZpciVl) | [Anmily Brown](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [Pa' El Alma](https://open.spotify.com/album/0mQ5Zogqooq2V1S2k3gYUY) | 3:20 |
 | 57 | [94](https://open.spotify.com/track/6vsAfEwT8L9xsiSfXNnHpN) | [Menor Menor](https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW) | [94](https://open.spotify.com/album/67g5mVEDHMS25aITr7hjGf) | 2:33 |
 | 58 | [Probando Freestyle](https://open.spotify.com/track/6uy9W7BAXUR09pMnnix338) | [Gailen La Moyeta](https://open.spotify.com/artist/0a7DjyuupA55K2NqWItRir) | [Probando Freestyle](https://open.spotify.com/album/5Jb7CmfSS5MdsGZ5ZQtOFC) | 1:05 |
-| 59 | [Trucki](https://open.spotify.com/track/1xyMEik4SsayMAEV4rwYYW) | [Atomic Otro Way](https://open.spotify.com/artist/05i5DIXDf4Ai4NEPEi3uBZ), [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [Real Sofoke Hiigh](https://open.spotify.com/artist/5sX6UbJx4vxLzHXIMsVXZh) | [Trucki](https://open.spotify.com/album/5jO83YZz3ujLMMM61Fwkzv) | 3:56 |
+| 59 | [KLK TE PASA A TI](https://open.spotify.com/track/4XSO2ESu4JENljsN2irGWz) | [Rosaly Rubio](https://open.spotify.com/artist/1RDmz5jLTAyj9onvIA4qv8) | [KLK TE PASA A TI](https://open.spotify.com/album/6BLCH4XUfASbKUCIZ5Zko3) | 2:46 |
 
-Snapshot ID: `MCwxYjBhZWU4YjZjOTE2ZWFmMzRkY2NiMWU5ZjJkNzZkMmM1MzI4ZDU1`
+Snapshot ID: `MCw2OGYwZTM3MjJkMWU2NTlhYjIxOGEzYzJmYzIxMjkzNDkwZjJhN2U4`

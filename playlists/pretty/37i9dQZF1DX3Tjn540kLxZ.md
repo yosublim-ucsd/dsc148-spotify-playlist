@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Tjn540kLxZ.md) - [plain]
 
 > songs that feel like new and old friends, all stitched together.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,689 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,742 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Tjn540kLxZ.md) - [plain]
 | 23 | [Young Blood](https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 4:06 |
 | 24 | [American Teenager](https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 4:18 |
 | 25 | [Perfume](https://open.spotify.com/track/7ITzf6TxMKnUwgXfNRfMxI) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Pebble Brain](https://open.spotify.com/album/43yKUvEVZ2dTy2vOrozS2j) | 3:27 |
-| 26 | [TV](https://open.spotify.com/track/5gnOGcUA9Thwa611bn3Rp2) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Race](https://open.spotify.com/album/3hY0WIR79EKnQcwUsyRy5m) | 1:15 |
-| 27 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 |
+| 26 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 |
+| 27 | [TV](https://open.spotify.com/track/5gnOGcUA9Thwa611bn3Rp2) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Race](https://open.spotify.com/album/3hY0WIR79EKnQcwUsyRy5m) | 1:15 |
 | 28 | [Silk Chiffon](https://open.spotify.com/track/5ECxiK4Vigo1yRRmAoZc1f) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 3:26 |
 | 29 | [The Dress](https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 3:04 |
 | 30 | [Take a Walk](https://open.spotify.com/track/4Sfa7hdVkqlM8UW5LsSY3F) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Gossamer](https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv) | 4:24 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Tjn540kLxZ.md) - [plain]
 | 41 | [Don't Take The Money](https://open.spotify.com/track/3ySU5vwQB33iGulwcUL9qQ) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Gone Now](https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ) | 3:35 |
 | 42 | [Satanist](https://open.spotify.com/track/4QEsxFZRA3RnjQAPYS3UXa) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 4:50 |
 | 43 | [Be Sweet](https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 3:15 |
-| 44 | [god of the sunsets](https://open.spotify.com/track/5gOyjqIifZ9NqVcaIIlqv7) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [god of the sunsets](https://open.spotify.com/album/5ZrAjc3ME3ghkUikJiYrms) | 2:04 |
-| 45 | [But Not Kiss](https://open.spotify.com/track/0UaqZbfeKuOdPxkyK7782l) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [But Not Kiss](https://open.spotify.com/album/0KeY6QJLo4UfpR3jNSZPwh) | 3:42 |
+| 44 | [But Not Kiss](https://open.spotify.com/track/0UaqZbfeKuOdPxkyK7782l) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [But Not Kiss](https://open.spotify.com/album/0KeY6QJLo4UfpR3jNSZPwh) | 3:42 |
+| 45 | [god of the sunsets](https://open.spotify.com/track/5gOyjqIifZ9NqVcaIIlqv7) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [god of the sunsets](https://open.spotify.com/album/5ZrAjc3ME3ghkUikJiYrms) | 2:04 |
 | 46 | [girlfriend](https://open.spotify.com/track/7qkNf6D661jZI9yNqw27LA) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [going...going...GONE!](https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf) | 2:13 |
 | 47 | [Tomorrow](https://open.spotify.com/track/6AWssBCESVyeRIlaHzNIDA) | [okaywill](https://open.spotify.com/artist/79oW06N8yKp6hKp71ieN7L) | [Tomorrow](https://open.spotify.com/album/7wwxAL7OA0AvhWjl87OBKb) | 1:59 |
 | 48 | [Spitting Off the Edge of the World](https://open.spotify.com/track/0JX23XA8E7aN1Chj32kgVn) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Tjn540kLxZ.md) - [plain]
 | 99 | [Love Me In Chapters](https://open.spotify.com/track/4MTRui4ZDCOc0a6D2g0qgw) | [Chrissi](https://open.spotify.com/artist/6dKtberVRbUX3Azn8gt2mt) | [Love Me In Chapters](https://open.spotify.com/album/3jSf7bYXENh5wdn2a01DtF) | 3:36 |
 | 100 | [Diving \(feat\. Holly Humberstone\)](https://open.spotify.com/track/5MEPCTNY7KfpM2FRCkvlQT) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Diving \(feat\. Holly Humberstone\)](https://open.spotify.com/album/0P4hsKdP3Er6nIVtJOeV25) | 3:35 |
 
-Snapshot ID: `MCw4OWFiNWI2OGU5NzUyZmVhMWZiNWM0ODdhNDFjOWQ4NDNmN2QwMmMy`
+Snapshot ID: `MCw2MTcwMGYxNmI5ZTg4OTI1OGRmZWJmMjI2NGFmMTFkZTZjNmEwNzQ4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 
 > Good Vibes only mit Latin, Afrobeats, Hip\-Hop und mehr 🔥🔥🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 665,392 likes - 90 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 665,420 likes - 90 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 | 7 | [Casablanca \(feat\. Morad\)](https://open.spotify.com/track/3n348I4uE5GZ3tprVdqzPO) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [DELINQUENTE](https://open.spotify.com/album/2wcLZ4N9hLO19PXpmZFWNh) | 4:34 |
 | 8 | [Slowdown \(girl what's up\)](https://open.spotify.com/track/4xexPtg7VSPCf9hM3aZdfZ) | [YellowStraps](https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx) | [Slowdown \(girl what's up\)](https://open.spotify.com/album/4B6I2s8qDymQLWT9qtJOtW) | 2:03 |
 | 9 | [Grind Pon Mi](https://open.spotify.com/track/6lzqWQqmRoq3wOKF8ylJr2) | [FS Green](https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb) | [Grind Pon Mi](https://open.spotify.com/album/6VuVN2OeiULk7uhV8wmRGQ) | 2:09 |
-| 10 | [cross my heart](https://open.spotify.com/track/4yJ1fD1LvIVtTDOu4NyKLU) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [cross my heart](https://open.spotify.com/album/1MpZGsYzbDWKLwfJOijcVA) | 2:26 |
+| 10 | [cross my heart](https://open.spotify.com/track/3nLSxpwZrU4ugAMVxYOHJe) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [cross my heart](https://open.spotify.com/album/4NK2abDnkV5FqI0q32DLL9) | 2:26 |
 | 11 | [Est\-ce que tu m'aimes ? \- Pilule bleue](https://open.spotify.com/track/3a9TMd2Yrza6HXqqlfMtfy) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Mon coeur avait raison](https://open.spotify.com/album/4tYyNNlbRGlS6FNphD8mur) | 3:57 |
 | 12 | [If It's Lovin' That You Want](https://open.spotify.com/track/4x2rgtSFOI4hRvEvDj02KP) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Music Of The Sun](https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz) | 3:28 |
 | 13 | [Familia \(feat\. Morad\)](https://open.spotify.com/track/5jGcOhXpPE07vrSe23198B) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Familia \(feat\. Morad\)](https://open.spotify.com/album/3Xd5N7vlVRGAZ4XkAZCwBf) | 2:53 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 | 46 | [Nice to meet you \(feat\. Central Cee\)](https://open.spotify.com/track/1jLVSavLHTeEixX6CIxqQR) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 2:42 |
 | 47 | [WORTH IT \(feat\. Don Toliver\)](https://open.spotify.com/track/08oo0eCDQZ9XC3zQR8q44y) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [WORTH IT \(feat\. Don Toliver\)](https://open.spotify.com/album/1TLxAcly1q7a0tyavTGeNq) | 3:08 |
 | 48 | [Gently \(feat\. Bad Bunny\)](https://open.spotify.com/track/6ZprqcYFC6D9eIZaCoqrSn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 2:13 |
-| 49 | [if u think i'm pretty](https://open.spotify.com/track/3RWl1dP90FXmZDUeIAO20j) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [if u think i'm pretty](https://open.spotify.com/album/6qGsOOm1b2ZwG58fQp617s) | 2:08 |
+| 49 | [if u think i'm pretty](https://open.spotify.com/track/34Yl756FwYuZldE9xnshj5) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [if u think i'm pretty](https://open.spotify.com/album/4bH2fufFWKIdtVbOI8em1u) | 2:08 |
 | 50 | [City Boys](https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:33 |
 | 51 | [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 |
 | 52 | [Memories](https://open.spotify.com/track/0c5fczxmOarIiopDnVgl1k) | [ToTheMoon](https://open.spotify.com/artist/20ZUOewlSW8L3sAvhZEd9m), [Kelvyn Colt](https://open.spotify.com/artist/3VV2TXkXYDYSUvtRRER3Wo) | [Memories](https://open.spotify.com/album/3EiGvJooaiRjRPBOWJhARd) | 2:55 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 | 89 | [Let me love you](https://open.spotify.com/track/5WtgFOXW3BOS8bwNcD72hw) | [EstA](https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG) | [Let me love you](https://open.spotify.com/album/7JzgE4gyrzuWpLKz9PBCJX) | 2:47 |
 | 90 | [Perfect Night](https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night](https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6) | 2:39 |
 
-Snapshot ID: `MCwxMDM0ZjllMjBmY2E3MDY2ZmFhODA3NjI4NGJiNmQyMGE3OWI3OTRl`
+Snapshot ID: `MCwwYTIyNzkxMDBmMDFkN2U3MjgzM2UzNGI3YWEyNmMwYTFiMTZhMDQx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 
 > Slow jams from West Africa that unwind and relax
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,739 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,781 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,15 +73,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 63 | [Summer Breeze](https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Summer Breeze](https://open.spotify.com/album/53xFvK9UHs6TujEwY2NZhb) | 3:58 |
 | 64 | [Waka Jeje \(feat\. Bnxn\)](https://open.spotify.com/track/04ISGhuusXAMz3dnXkAdxa) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Waka Jeje \(feat\. Bnxn\)](https://open.spotify.com/album/1jGHHoZvMuag4ENa30G9F9) | 2:28 |
 | 65 | [Sundress](https://open.spotify.com/track/3UoasjQP4cTckRtun7sL3D) | [Chop Daily](https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG), [Deyon Agoi](https://open.spotify.com/artist/7eJtF350ch6EJsxAo8uZJT), [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Sundress](https://open.spotify.com/album/4l3mnirO3XZxLKHIQ0c3cK) | 2:12 |
-| 66 | [Sinner](https://open.spotify.com/track/1J12nWQKjodPf436e61Orp) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sinner](https://open.spotify.com/album/2GaYDilv8Ei7fPAE9U0oVD) | 3:00 |
+| 66 | [imagine \(feat\. Aitch\)](https://open.spotify.com/track/7fHh8PFkxQnKYw8vKPLlg3) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Boy Alone \(Deluxe\)](https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq) | 2:46 |
 | 67 | [Line Of Fire](https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Line Of Fire](https://open.spotify.com/album/3U6QUf4oimV7XlmeTwKx4I) | 4:15 |
-| 68 | [imagine \(feat\. Aitch\)](https://open.spotify.com/track/7fHh8PFkxQnKYw8vKPLlg3) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Boy Alone \(Deluxe\)](https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq) | 2:46 |
+| 68 | [Sinner](https://open.spotify.com/track/1J12nWQKjodPf436e61Orp) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sinner](https://open.spotify.com/album/2GaYDilv8Ei7fPAE9U0oVD) | 3:00 |
 | 69 | [Confident](https://open.spotify.com/track/0rMiP3sIxMZu7bIaSXWRXu) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Confident](https://open.spotify.com/album/0biMdg0M95TBDaREsTiB23) | 3:05 |
 | 70 | [Love Don't Cost A Dime](https://open.spotify.com/track/7cSKmgZrlNbSkw4y7sQEa7) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Magixx](https://open.spotify.com/album/4FZn99wJYWhH3sczHcDJDD) | 3:25 |
 | 71 | [Holiday Sniping](https://open.spotify.com/track/1fZS5QzwiwU3BvE9FJHo6d) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Holiday Sniping](https://open.spotify.com/album/2bByla9AqUB3Rqgz2nFd0F) | 2:22 |
 | 72 | [Make Sense](https://open.spotify.com/track/4V5ewWUvecAPHQmgZ1TPQJ) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [No Bad Boy, No Party](https://open.spotify.com/album/3haflscpuVSkTXo1yw3ghT) | 3:09 |
-| 73 | [We Dey](https://open.spotify.com/track/21pyLwhAiXgqYvKXRmI6h3) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [The Evil Genius](https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG) | 2:39 |
-| 74 | [Addicted](https://open.spotify.com/track/5mIwvBNb5dUdYBACx8fzGj) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [L.I.T.A](https://open.spotify.com/album/2e7UIUu34tdxKVkcTG3463) | 3:48 |
+| 73 | [Addicted](https://open.spotify.com/track/5mIwvBNb5dUdYBACx8fzGj) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [L.I.T.A](https://open.spotify.com/album/2e7UIUu34tdxKVkcTG3463) | 3:48 |
+| 74 | [We Dey](https://open.spotify.com/track/21pyLwhAiXgqYvKXRmI6h3) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [The Evil Genius](https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG) | 2:39 |
 | 75 | [Troubling](https://open.spotify.com/track/2ES55pOmP7U7DnFueBuLwO) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Life Is Better Now](https://open.spotify.com/album/7yVVSBfsdnDXKgi4pKwJMo) | 2:31 |
 | 76 | [Do What U Want](https://open.spotify.com/track/7sSc9rQfa7YEhjRgKoMDPQ) | [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [Do What U Want](https://open.spotify.com/album/5h5r3CJHQL2fPrg1oMqCib) | 1:52 |
 | 77 | [Whine](https://open.spotify.com/track/5p02f6vHykfCMMY6XRb21n) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0) | [BIG TIME \(Deluxe\)](https://open.spotify.com/album/6od58yWAflemDXwGLtzUWd) | 2:32 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 79 | [Rosemary](https://open.spotify.com/track/2jY01b9OU1WFhDlsrD17Yd) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Rosemary](https://open.spotify.com/album/1MwiNkYbclqgoGEEOpGTed) | 3:08 |
 | 80 | [Peace Of Mind](https://open.spotify.com/track/5xZEUteaWi0jFAGAKPPWw0) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Peace Of Mind](https://open.spotify.com/album/7uqB8voCddKMJcP2Qee1yP) | 3:28 |
 
-Snapshot ID: `MCw1ZmEzZDlmNGRlZGE2ZTVmMmEzNmE5YTVmNWMwMGQ2ZGE2NDViYzAy`
+Snapshot ID: `MCxmMGM5MzUwNTU3Y2NjODIyNDJmYTFhODg4ZDkzMTJlMzMyNTk0NzRh`

@@ -1,12 +1,12 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 123905,
+  "num_followers": 123927,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTc2NzhlNjI5MDEwMThjOTJjYTVlNzdhNjk3ZGM1MzFlZmZkYTBh",
+  "snapshot_id": "MCw2MWJmMTE4NDUzZGVkODZkYjc5MmUxNmNlYTJiM2M2MDc0ZmYxZTA2",
   "tracks": [
     {
       "added_at": "2023-11-23 16:00:00",
@@ -123,18 +123,18 @@
     {
       "added_at": "2023-11-23 16:00:00",
       "album": {
-        "name": "\u611b\u6c92\u6709\u932f",
-        "url": "https://open.spotify.com/album/6kK5eFuVJR8URoXYIFP2t8"
+        "name": "\u6211\u5728\u7d10\u7d04\u6253\u96fb\u8a71\u7d66\u4f60",
+        "url": "https://open.spotify.com/album/705xmvtHgzHVcHADtEdICs"
       },
       "artists": [
         {
-          "name": "Elva Hsiao",
-          "url": "https://open.spotify.com/artist/6yTAPw3o7oDH7lhj34jvbH"
+          "name": "Waa Wei",
+          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
         }
       ],
-      "duration_ms": 281237,
-      "name": "\u611b\u6c92\u6709\u932f",
-      "url": "https://open.spotify.com/track/4wK1EPnweq89yCUZismV5r"
+      "duration_ms": 236020,
+      "name": "\u6211\u5728\u7d10\u7d04\u6253\u96fb\u8a71\u7d66\u4f60",
+      "url": "https://open.spotify.com/track/3vTnGxlxui3i9mWrAepise"
     },
     {
       "added_at": "2023-11-23 16:00:00",
@@ -155,18 +155,18 @@
     {
       "added_at": "2023-11-23 16:00:00",
       "album": {
-        "name": "\u6211\u5728\u7d10\u7d04\u6253\u96fb\u8a71\u7d66\u4f60",
-        "url": "https://open.spotify.com/album/705xmvtHgzHVcHADtEdICs"
+        "name": "\u611b\u6c92\u6709\u932f",
+        "url": "https://open.spotify.com/album/6kK5eFuVJR8URoXYIFP2t8"
       },
       "artists": [
         {
-          "name": "Waa Wei",
-          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
+          "name": "Elva Hsiao",
+          "url": "https://open.spotify.com/artist/6yTAPw3o7oDH7lhj34jvbH"
         }
       ],
-      "duration_ms": 236020,
-      "name": "\u6211\u5728\u7d10\u7d04\u6253\u96fb\u8a71\u7d66\u4f60",
-      "url": "https://open.spotify.com/track/3vTnGxlxui3i9mWrAepise"
+      "duration_ms": 281237,
+      "name": "\u611b\u6c92\u6709\u932f",
+      "url": "https://open.spotify.com/track/4wK1EPnweq89yCUZismV5r"
     },
     {
       "added_at": "2023-11-23 16:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-11-23 16:00:00",
       "album": {
-        "name": "\u91cd\u62fe_\u5feb\u6a02",
-        "url": "https://open.spotify.com/album/3KEUzl4MC7mw0tNypb2WUm"
-      },
-      "artists": [
-        {
-          "name": "JJ Lin",
-          "url": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
-        }
-      ],
-      "duration_ms": 249417,
-      "name": "\u5982\u679c\u6211\u9084\u5269\u4e00\u4ef6\u4e8b\u60c5\u53ef\u4ee5\u505a",
-      "url": "https://open.spotify.com/track/1yF0TL45iq2OPUnnZJONMa"
-    },
-    {
-      "added_at": "2023-11-23 16:00:00",
-      "album": {
         "name": "If Only...",
         "url": "https://open.spotify.com/album/2PflyuQL0apWi1Mz079F4Y"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 187369,
       "name": "If Only...",
       "url": "https://open.spotify.com/track/79rFtrqN1JHoZDAnBJ6TwJ"
+    },
+    {
+      "added_at": "2023-11-23 16:00:00",
+      "album": {
+        "name": "\u91cd\u62fe_\u5feb\u6a02",
+        "url": "https://open.spotify.com/album/3KEUzl4MC7mw0tNypb2WUm"
+      },
+      "artists": [
+        {
+          "name": "JJ Lin",
+          "url": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "duration_ms": 249417,
+      "name": "\u5982\u679c\u6211\u9084\u5269\u4e00\u4ef6\u4e8b\u60c5\u53ef\u4ee5\u505a",
+      "url": "https://open.spotify.com/track/1yF0TL45iq2OPUnnZJONMa"
     },
     {
       "added_at": "2023-11-23 16:00:00",
@@ -703,18 +703,18 @@
     {
       "added_at": "2023-11-23 16:00:00",
       "album": {
-        "name": "BITE BACK",
-        "url": "https://open.spotify.com/album/3X1sMupgW7KQJQsk0QXAdM"
+        "name": "T.I.A.",
+        "url": "https://open.spotify.com/album/16FOXa3qlWPHP7MmPj0Ehi"
       },
       "artists": [
         {
-          "name": "Cyndi Wang",
-          "url": "https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP"
+          "name": "TIA RAY",
+          "url": "https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL"
         }
       ],
-      "duration_ms": 238336,
-      "name": "\u5fd8\u4e86\u8aaa\uff0c\u4f60\u5df2\u7d93\u5f88\u597d\u4e86",
-      "url": "https://open.spotify.com/track/5TzZwL4gU69qHiKKAkCXNo"
+      "duration_ms": 234828,
+      "name": "\u65c5\u884c\u4e2d\u5fd8\u8a18",
+      "url": "https://open.spotify.com/track/1Of1jcGbCroKpUk7RGJaPA"
     },
     {
       "added_at": "2023-11-23 16:00:00",
@@ -735,18 +735,18 @@
     {
       "added_at": "2023-11-23 16:00:00",
       "album": {
-        "name": "T.I.A.",
-        "url": "https://open.spotify.com/album/16FOXa3qlWPHP7MmPj0Ehi"
+        "name": "BITE BACK",
+        "url": "https://open.spotify.com/album/3X1sMupgW7KQJQsk0QXAdM"
       },
       "artists": [
         {
-          "name": "TIA RAY",
-          "url": "https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL"
+          "name": "Cyndi Wang",
+          "url": "https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP"
         }
       ],
-      "duration_ms": 234828,
-      "name": "\u65c5\u884c\u4e2d\u5fd8\u8a18",
-      "url": "https://open.spotify.com/track/1Of1jcGbCroKpUk7RGJaPA"
+      "duration_ms": 238336,
+      "name": "\u5fd8\u4e86\u8aaa\uff0c\u4f60\u5df2\u7d93\u5f88\u597d\u4e86",
+      "url": "https://open.spotify.com/track/5TzZwL4gU69qHiKKAkCXNo"
     },
     {
       "added_at": "2023-11-23 16:00:00",
@@ -783,34 +783,34 @@
     {
       "added_at": "2023-11-23 16:00:00",
       "album": {
-        "name": "\u5728\u5e55\uff08Moods\uff09",
-        "url": "https://open.spotify.com/album/1QCNUNNdjWn7gR0wgLbnWX"
+        "name": "\u6211\u548c\u6211\u7684\u5e03\u62c9\u59c6\u65af",
+        "url": "https://open.spotify.com/album/3VrBcHcHB4BpiIlUL8aSTI"
       },
       "artists": [
         {
-          "name": "Hubert Wu",
-          "url": "https://open.spotify.com/artist/0OZ5IlVdYIK1Et3nW6aTO5"
+          "name": "Evan Yo",
+          "url": "https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV"
         }
       ],
-      "duration_ms": 178692,
-      "name": "\u611b\u662f\u60f3\u89f8\u78b0\u537b\u6536\u56de\u624b",
-      "url": "https://open.spotify.com/track/4KgJ6MTwycofHvQMyKMsTa"
+      "duration_ms": 266286,
+      "name": "\u5047\u7537\u53cb",
+      "url": "https://open.spotify.com/track/3EVdjgISSjvMSgPtov1vQX"
     },
     {
       "added_at": "2023-11-23 16:00:00",
       "album": {
-        "name": "\u5927\u6d77",
-        "url": "https://open.spotify.com/album/1bJZhytOyONPzQcNWW8P88"
+        "name": "Face II \u771f\u30fb\u88cf",
+        "url": "https://open.spotify.com/album/6vIFkhNrnRaYLIJOW81PW4"
       },
       "artists": [
         {
-          "name": "WeiBird",
-          "url": "https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX"
+          "name": "Sam Lee",
+          "url": "https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i"
         }
       ],
-      "duration_ms": 211110,
-      "name": "\u5927\u6d77",
-      "url": "https://open.spotify.com/track/2PBgXM5T6RGutisj2Nrv5Z"
+      "duration_ms": 269990,
+      "name": "\u6700\u7f8e\u7684\u907a\u61be",
+      "url": "https://open.spotify.com/track/7xLHcay4KRCdl9MqXnyrW0"
     }
   ],
   "unique_name": "\u9031\u672b\u6e05\u807d",

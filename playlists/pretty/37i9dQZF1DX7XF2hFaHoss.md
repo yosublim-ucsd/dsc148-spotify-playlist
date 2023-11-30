@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 
 > The very best acoustic songs from singer\-songwriters making waves\. Cover: Madi Diaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,665 likes - 90 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,673 likes - 90 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,10 +93,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 | 83 | [Rolling On](https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [While I Was Asleep](https://open.spotify.com/album/7jQ7ceeE30vZUGibxHNWVc) | 3:58 |
 | 84 | [Pegasi](https://open.spotify.com/track/2meI5rJH6LtLQ5cuNdje5g) | [Jesca Hoop](https://open.spotify.com/artist/0fqE57gXXTTqxXlFYVNG2u) | [Memories Are Now](https://open.spotify.com/album/3kDXlfIujTkCsbgmjy0Jwo) | 3:33 |
 | 85 | [Quiet \- Stripped](https://open.spotify.com/track/60oCAd3gei66GObniGX4wV) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [Quiet \(Stripped\)](https://open.spotify.com/album/4dqLW8pQA05EoWHZtrlWPi) | 3:28 |
-| 86 | [The Hardest Part](https://open.spotify.com/track/31CqZPvgv8VwjQK2jcLSEn) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj), [Hadley Kennary](https://open.spotify.com/artist/2Iskp0KzBnBOBDKrQbHo6f) | [The Hardest Part](https://open.spotify.com/album/3dlzxTH49iYilF7cLV1LK3) | 4:20 |
-| 87 | [eight hours](https://open.spotify.com/track/0EUVAn6PdL49jH8B51c2mv) | [Maria Kelly](https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV) | [the sum of the in\-between](https://open.spotify.com/album/1LpPbZjlohmRPWtzSQMPNQ) | 2:47 |
+| 86 | [eight hours](https://open.spotify.com/track/0EUVAn6PdL49jH8B51c2mv) | [Maria Kelly](https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV) | [the sum of the in\-between](https://open.spotify.com/album/1LpPbZjlohmRPWtzSQMPNQ) | 2:47 |
+| 87 | [The Hardest Part](https://open.spotify.com/track/31CqZPvgv8VwjQK2jcLSEn) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj), [Hadley Kennary](https://open.spotify.com/artist/2Iskp0KzBnBOBDKrQbHo6f) | [The Hardest Part](https://open.spotify.com/album/3dlzxTH49iYilF7cLV1LK3) | 4:20 |
 | 88 | [Do You See The Light Around Me?](https://open.spotify.com/track/6pPfKmVvvu1ztJxqvpQ4Vm) | [Uwade](https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL) | [Do You See The Light Around Me?](https://open.spotify.com/album/4ryLljFHWYTslwrz8l0UTK) | 3:24 |
 | 89 | [Best Days \- Acoustic](https://open.spotify.com/track/38sCPCcv3QjWl0NslC5KtW) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Best Days \(Acoustic\)](https://open.spotify.com/album/0Hg3xaDMtD4heeBIutwMSV) | 2:59 |
 | 90 | [Phoebe Told Me](https://open.spotify.com/track/6DQFgZEqTX5suz4luBta0M) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [You Never Met Me](https://open.spotify.com/album/4rVsCVbWLQWEUXsOfPRzEg) | 3:56 |
 
-Snapshot ID: `MCw4ZDc1YTEyNTU4OGY5N2JiN2Q0MGVhODFmZGE5ZGZmOTc4NjRlYzIy`
+Snapshot ID: `MCw3ODI1MTc0ZDNmODM3YjYxNDJiMGNlNTU5NjQ4YjI2OTM3NWNkODc3`

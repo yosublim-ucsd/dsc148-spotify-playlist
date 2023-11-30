@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hnECllVaUq.md) - [plain]
 
 > The biggest hits from country artists around the globe\. Cover: Riaan Benadé
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,143 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,272 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hnECllVaUq.md) - [plain]
 | 83 | [Somethin' 'Bout A Truck](https://open.spotify.com/track/6Ymvlzom4TQeoKqAWsZRD8) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Up All Night](https://open.spotify.com/album/191BU6Uvnf7oNTjO4n36Yu) | 3:33 |
 | 84 | [Trouble](https://open.spotify.com/track/7cRggVoZ18mmvIN2EcSQ3J) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Trouble](https://open.spotify.com/album/3svJ9Mv1JKL7R4CBZLtCfp) | 3:34 |
 | 85 | [Tennessee Orange](https://open.spotify.com/track/3fl4zil6HJ0N1FL3YIRwdC) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/1cdfMISICAlFDByLA2PYe3) | 3:43 |
-| 86 | [Whiskey On You](https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Whiskey On You](https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm) | 3:03 |
-| 87 | [Heart Like A Truck](https://open.spotify.com/track/5DIBVDJOHh7djepAjKHWCO) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 3:19 |
+| 86 | [Heart Like A Truck](https://open.spotify.com/track/5DIBVDJOHh7djepAjKHWCO) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 3:19 |
+| 87 | [Whiskey On You](https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Whiskey On You](https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm) | 3:03 |
 | 88 | [One Too Many](https://open.spotify.com/track/5NUXE8W12lWcUXgJRCjeEw) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [One Too Many](https://open.spotify.com/album/5j5ngp5GBH7zW3RhHljRK9) | 3:23 |
 | 89 | [Somebody Like That](https://open.spotify.com/track/4K7wet87HnlWKi0CXWvg1i) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Love,Heartbreak, & Everything in Between](https://open.spotify.com/album/478FbS6cYoaEYreO0H4YOx) | 3:18 |
 | 90 | ['Til You Can't](https://open.spotify.com/track/13rC4iKtfQocWIfzPOJxaT) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | ['Til You Can’t / Longer Than She Did](https://open.spotify.com/album/5MzgI1Hzjkf1Dj7xW7d1GL) | 3:44 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hnECllVaUq.md) - [plain]
 | 95 | [On A Different Night](https://open.spotify.com/track/4cF4vuC7Ci29yhnbuoFRZx) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [On A Different Night](https://open.spotify.com/album/7e2cKmW21NqkGQUfbDyPdF) | 3:09 |
 | 96 | [Outta Yours](https://open.spotify.com/track/5jS6YjfCQVeu6vFtWoWiaU) | [Steven Lee Olsen](https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO) | [Outta Yours](https://open.spotify.com/album/3Vqv2NAL8cwafr0YvVLdqI) | 2:58 |
 | 97 | [Hey Pretty Girl](https://open.spotify.com/track/75p6fgACKYIyIhsoG411SZ) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Up All Night](https://open.spotify.com/album/191BU6Uvnf7oNTjO4n36Yu) | 3:35 |
-| 98 | [Telluride](https://open.spotify.com/track/5ADo2azXSsHQu0mC2RxgXq) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Do It Anyway](https://open.spotify.com/album/4TTTx17C8jwiQqxDbrxW8Y) | 3:04 |
-| 99 | [I Hate This](https://open.spotify.com/track/6c90n39x5VKMsxOSTEeNRv) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Love,Heartbreak, & Everything in Between](https://open.spotify.com/album/478FbS6cYoaEYreO0H4YOx) | 3:08 |
+| 98 | [I Hate This](https://open.spotify.com/track/6c90n39x5VKMsxOSTEeNRv) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Love,Heartbreak, & Everything in Between](https://open.spotify.com/album/478FbS6cYoaEYreO0H4YOx) | 3:08 |
+| 99 | [Telluride](https://open.spotify.com/track/5ADo2azXSsHQu0mC2RxgXq) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Do It Anyway](https://open.spotify.com/album/4TTTx17C8jwiQqxDbrxW8Y) | 3:04 |
 | 100 | [High Time](https://open.spotify.com/track/2A5Xy5HWeRWvWjvv7ObIFZ) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Get Rollin'](https://open.spotify.com/album/5uLm9XqpibzmIaFUz80jLb) | 3:54 |
 
-Snapshot ID: `MCwwYWEwMTg3ODAwYzgzMTQ3YTM3ZmMwNmIwNDgyZjAxZDNiMWYyODE1`
+Snapshot ID: `MCw3MWM4YjI4OGIwNjQ1MWY2MGM2MjMzMTVjYTYwMDU0YjJiYWNjZTUx`

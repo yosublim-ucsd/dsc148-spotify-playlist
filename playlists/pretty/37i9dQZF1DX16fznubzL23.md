@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 
 > For the pain, tears and heartbreak.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,579 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,639 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 25 | [Selling Dreams](https://open.spotify.com/track/50BvQjbcdQlYBivMUjK2QR) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Selling Dreams](https://open.spotify.com/album/40jDnDL4AczO7ZgIIauyOL) | 2:28 |
 | 26 | [Breaking The Yoke Of Love](https://open.spotify.com/track/4Qpilnxi20LRgYr3a9iOJA) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [Breaking The Yoke Of Love](https://open.spotify.com/album/2gFTRUI821BCGGx2VNy3w6) | 3:18 |
 | 27 | [Only You \- A COLORS SHOW](https://open.spotify.com/track/7gRHJqy0dH0Xq0UY7YyNHg) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Only You \- A COLORS SHOW](https://open.spotify.com/album/1Aye02nOiEjJ5LMtvjaHRk) | 2:46 |
-| 28 | [My Own \(feat\. Blaqbonez\)](https://open.spotify.com/track/5YHRiz4ZoCCAIJaMNy1Ct8) | [Major AJ](https://open.spotify.com/artist/5PLTdezWnkHzUBGqQ2P6cT), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [My Own \(feat\. Blaqbonez\)](https://open.spotify.com/album/2nIqYjNOgesUQ3kxeiGguV) | 3:00 |
-| 29 | [Thunder Fire You](https://open.spotify.com/track/7tBHoZDrhRacTiBMrlbvTb) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [The Prince I Became](https://open.spotify.com/album/0wCcVlx3DNajtnqVSnFthH) | 2:59 |
+| 28 | [Thunder Fire You](https://open.spotify.com/track/7tBHoZDrhRacTiBMrlbvTb) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [The Prince I Became](https://open.spotify.com/album/0wCcVlx3DNajtnqVSnFthH) | 2:59 |
+| 29 | [My Own \(feat\. Blaqbonez\)](https://open.spotify.com/track/5YHRiz4ZoCCAIJaMNy1Ct8) | [Major AJ](https://open.spotify.com/artist/5PLTdezWnkHzUBGqQ2P6cT), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [My Own \(feat\. Blaqbonez\)](https://open.spotify.com/album/2nIqYjNOgesUQ3kxeiGguV) | 3:00 |
 | 30 | [Deja Vu](https://open.spotify.com/track/79df3H3WrJheCyH6b6ofYJ) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Deja Vu](https://open.spotify.com/album/2ouodKGDJpiydGV62UyCEc) | 2:49 |
 | 31 | [Pour Me Water](https://open.spotify.com/track/1XIPyyGqBSU20i4gSagsLV) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:48 |
 | 32 | [Olufunmi](https://open.spotify.com/track/7dFvxW8AlUz5X4xqe6kqcY) | [Styl\-Plus](https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy) | [Compilation](https://open.spotify.com/album/5plKeEs2bHRz44nTFkByhg) | 5:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 49 | [I'm Done](https://open.spotify.com/track/7qp9S0FfyfCuFHV8MD9pQ6) | [Liya](https://open.spotify.com/artist/2mq44nCfRU63sGf70HAPi0) | [I'm Done + Powerful](https://open.spotify.com/album/20yFqfgE1cJCC7QTCEXtp3) | 2:24 |
 | 50 | [Murvlana](https://open.spotify.com/track/0mTtZ8UbOySRQHkqaAA1CK) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Mandy & The Jungle](https://open.spotify.com/album/4IMFZY59ree679oXQS36xM) | 3:18 |
 
-Snapshot ID: `MCxiZWJjM2E2YWI1OWVkODI4YWMyM2YxZmU1ODI2ZjczZDhmN2MzODhj`
+Snapshot ID: `MCxhNTg1YTdiZDM0ODhiMGU4M2E1MDRmMTZiZWMxOGY0N2VjNWUzODgw`

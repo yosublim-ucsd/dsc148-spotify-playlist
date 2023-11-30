@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa TIPPA ja Kube.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,420 likes - 60 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,443 likes - 60 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 59 | [Syssy \(Part 2\)](https://open.spotify.com/track/4UTh2hqijx9svHwAcN1O46) | [EL'o](https://open.spotify.com/artist/0Cqk8ixu2235ou4QsVpxnC) | [Syssy \(Part 2\)](https://open.spotify.com/album/3zhD7LFgclpwZGJDfLINoc) | 2:53 |
 | 60 | [Liikkuu Juttuu](https://open.spotify.com/track/7sQkF23GZt3EJYJflV8xVO) | [Jere](https://open.spotify.com/artist/3Oxf4EUF3hcY3qpqd5W04o) | [Liikkuu Juttuu](https://open.spotify.com/album/3PwvlZoFtHVCnFYTikVl36) | 3:03 |
 
-Snapshot ID: `MCw1ZWUxODc2YzU3ODg5NmNkNWEyZTM5NDY0ZTNhMDMzNTYwOGYzNjNm`
+Snapshot ID: `MCwxNWI5MjM5YTFkZDJjMzVmYTk3YmM1YmUwYmU5ZDBkNGQ4ZWYxMzM3`

@@ -3879,6 +3879,24 @@
     },
     {
       "album": {
+        "name": "he never will",
+        "url": "https://open.spotify.com/album/3LRXevJN62aaXJZuxPPVJI"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171133,
+      "name": "he never will",
+      "url": "https://open.spotify.com/track/3gt3BD4A92u4nv6oS5Jkmq"
+    },
+    {
+      "album": {
         "name": "When It's All Said And Done... Take Time",
         "url": "https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd"
       },
@@ -8042,7 +8060,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 197933,
       "name": "prom dress",
       "url": "https://open.spotify.com/track/2xCGBWfzTe8l2kvHpgvB6M"

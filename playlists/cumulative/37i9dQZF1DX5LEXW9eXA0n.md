@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover:DAVICHI\(다비치\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover:Kim Dong Ryul\(김동률\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,098 songs - 2 day 23 hr 9 min
+1,099 songs - 2 day 23 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [About time](https://open.spotify.com/track/640mnKfbSWaw7ZVHtqW5qT) | [Mackelli](https://open.spotify.com/artist/3U1caC0cdwaoCO94Kj38C7) | [Dr\. Choi Ki Seok \(Original Webtoon Soundtrack\) Pt.4](https://open.spotify.com/album/0nmZwQAXIexeYz0FLNNZ7Q) | 3:48 | 2023-04-26 | 2023-09-12 |
 | [Aching](https://open.spotify.com/track/017eGASA1dbhQOb942TuQx) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Alchemy of Souls, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2lQsPX6qa4zqpcPwVLRCsU) | 4:11 | 2022-07-07 | 2022-10-08 |
 | [Adore \(with Choi moonseok\)](https://open.spotify.com/track/6h9VUjsb3xv5F01Wit0URp) | [LIMZY](https://open.spotify.com/artist/5UBoOzYYNpwHfwXqr1JNXS), [Choi Moon Seok](https://open.spotify.com/artist/0kgjv7IJnvcz5RmnHlXrdt) | [Adore \(with Choi moonseok\)](https://open.spotify.com/album/02RJLVNAY5wEJCrWIhR6jq) | 3:52 | 2023-02-24 | 2023-06-23 |
+| [After All This Time](https://open.spotify.com/track/0ubeu6gkOuh7u2bSI1JVLQ) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [After All This Time](https://open.spotify.com/album/6cpEkxNAxbC0iPMrtn8BvN) | 3:25 | 2023-11-29 |  |
 | [After Love](https://open.spotify.com/track/34tpa7ePGVugKLVq9aFjnh) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [Our D\-Day \(Original Web Drama Soundtrack, Pt\. 1\)](https://open.spotify.com/album/4CIuoaHz8qZ6NbUI8Lb4K4) | 4:07 | 2023-02-14 | 2023-06-23 |
 | [After Resignation](https://open.spotify.com/track/4VlTkxdN8up3zdaeqHp0zp) | [Mingyu](https://open.spotify.com/artist/07s1hDc1qCKvsglKf5B6X5) | [After Resignation : Re+Project ‘Re+Call’](https://open.spotify.com/album/1YeUugiuIG08qtZyeLpjK9) | 4:41 | 2023-01-10 | 2023-02-25 |
 | [After Sending You \- Live](https://open.spotify.com/track/47SC5wI2ZEd2DwQuJNzCHL) | [YB](https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5) | [YB Live Best 'Flying Butterfly'](https://open.spotify.com/album/4lAdPVMD5IK4JrTkiQoaRf) | 4:33 | 2023-05-05 | 2023-05-16 |

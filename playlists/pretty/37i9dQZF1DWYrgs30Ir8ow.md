@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd fris in Fresh Hits\. Cover: Jack Harlow
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,992 likes - 40 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,016 likes - 40 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 39 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 |
 | 40 | [On My Love](https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On My Love](https://open.spotify.com/album/1NoYjCb7ReBR4kfmjntHTi) | 3:42 |
 
-Snapshot ID: `MCxiZjc3OTU0ZTgxMWY4ODA2NzIwMTEzOTMyYmI2MTA0M2M5ZTJmNDlh`
+Snapshot ID: `MCw0NzY3NmY0YjlhMTY5YWIzOTVkMmQ5ZTIzOGMxNDc3MDY1NWIwODk2`

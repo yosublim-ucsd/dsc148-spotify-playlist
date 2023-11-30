@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 
 > POV: tá fresco y la sombra del fresnito pega bien sabroso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,552 likes - 125 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,671 likes - 125 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,16 +12,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 | 2 | [Si Te Pudiera Mentir](https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Simplemente Gracias](https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq) | 4:15 |
 | 3 | [Chale](https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chale](https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a) | 2:50 |
 | 4 | [Cabrón y Vago \- En Vivo](https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Puerta Abierta, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg) | 2:22 |
-| 5 | [Un Millón de Primaveras](https://open.spotify.com/track/6j5LtifAnuTjTYvml61yFZ) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 2:53 |
-| 6 | [Desvelado](https://open.spotify.com/track/2JJSGhPpATm8lXeYjD95fw) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:41 |
+| 5 | [Desvelado](https://open.spotify.com/track/2JJSGhPpATm8lXeYjD95fw) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:41 |
+| 6 | [Un Millón de Primaveras](https://open.spotify.com/track/6j5LtifAnuTjTYvml61yFZ) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 2:53 |
 | 7 | [La Mitad](https://open.spotify.com/track/63Zaf8Rci6eOUPqDQ4fUFx) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 2:57 |
 | 8 | [Tatuajes](https://open.spotify.com/track/57dG9il4j7Hi7G8Cqgi0Ts) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con Mariachi](https://open.spotify.com/album/7Ml2mSF97d0zz3mDCKdx9M) | 3:31 |
 | 9 | [¿Por Qué Me Haces Llorar?](https://open.spotify.com/track/68pE8830rWrd5LSSfKcRqn) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Juan Gabriel](https://open.spotify.com/album/43k4po9vUTVv54kNCBXWcT) | 3:02 |
 | 10 | [Es Que Me Gustas \- En Vivo](https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [En Vivo desde El Foro Lizos Music](https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag) | 2:32 |
 | 11 | [Me la Avente](https://open.spotify.com/track/3nQ0FbZL6DTcGnu03Jpgzm) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Malo](https://open.spotify.com/album/5We7yGwHCRWuy7T5StvTwS) | 2:35 |
-| 12 | [¿Y Todo Para Qué?](https://open.spotify.com/track/53IpyJOqUIcCzCUtMjP9oy) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Llévame Contigo](https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel) | 3:10 |
-| 13 | [Se Murió De Amor](https://open.spotify.com/track/5iuGn3RXvfvHIyIe8fyxBE) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK) | 3:06 |
-| 14 | [Eso Y Más](https://open.spotify.com/track/7HW5tUjaKxBUamSi7nnzPt) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Más Allá Del Sol](https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM) | 2:39 |
+| 12 | [Se Murió De Amor](https://open.spotify.com/track/5iuGn3RXvfvHIyIe8fyxBE) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK) | 3:06 |
+| 13 | [Eso Y Más](https://open.spotify.com/track/7HW5tUjaKxBUamSi7nnzPt) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Más Allá Del Sol](https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM) | 2:39 |
+| 14 | [¿Y Todo Para Qué?](https://open.spotify.com/track/53IpyJOqUIcCzCUtMjP9oy) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Llévame Contigo](https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel) | 3:10 |
 | 15 | [Estos Celos](https://open.spotify.com/track/6u6kH7V7Tx5xDJtF82vVw0) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 3:10 |
 | 16 | [La Venia Bendita](https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Marco Antonio Solis](https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP) | 3:11 |
 | 17 | [A Mí, ¿Qué Me Quedó?](https://open.spotify.com/track/0b72rOmkspR8dJHsUjaVi4) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Vuelvo Contigo](https://open.spotify.com/album/3Bqrpyh09jij3b2SiqzQlU) | 2:41 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 | 68 | [Caminos de Michoacán](https://open.spotify.com/track/2fvisKVcmhGrZdf9FPEhl4) | [Federico Villa](https://open.spotify.com/artist/79LwwKFdbXN9RoZAKefN7u) | [La Coleccion Del Siglo \- Federico Villa](https://open.spotify.com/album/5XyB8cBTMDoLaO2XqVf6BL) | 3:30 |
 | 69 | [Actos De Un Tonto](https://open.spotify.com/track/7cmdmDyKZDgK92uPlTBg6m) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [Perdoname Mi Amor](https://open.spotify.com/album/7hR5dQdzmaIMTwgpkyuo4n) | 3:45 |
 | 70 | [Te Busqué \(feat\. Brian Sandoval\)](https://open.spotify.com/track/603bEyofTyOeqhFtDLqvdH) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Brian Sandoval](https://open.spotify.com/artist/7zp7fD3ZBt3cDPNIbeW2DL) | [¿Cómo Me Ves?](https://open.spotify.com/album/1kE9qUu5Etm1bhdp86rwI3) | 3:51 |
-| 71 | [Busca Otro Amor \(1968\)](https://open.spotify.com/track/2nnw5l4JCsIFvwl63Z6hFO) | [Las Jilguerillas](https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV) | [45 Anos De Exitos](https://open.spotify.com/album/3OwlCqdi85JnzFeaPnyHZE) | 3:15 |
-| 72 | [No Importa Tu Madre](https://open.spotify.com/track/2aCrEvIR8thExGbWJiwcrE) | [Dinamicos Jrs](https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ) | [Forjando una Historia](https://open.spotify.com/album/4cuJk8bQyqPBuTom3C16uo) | 3:06 |
+| 71 | [No Importa Tu Madre](https://open.spotify.com/track/2aCrEvIR8thExGbWJiwcrE) | [Dinamicos Jrs](https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ) | [Forjando una Historia](https://open.spotify.com/album/4cuJk8bQyqPBuTom3C16uo) | 3:06 |
+| 72 | [Busca Otro Amor \(1968\)](https://open.spotify.com/track/2nnw5l4JCsIFvwl63Z6hFO) | [Las Jilguerillas](https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV) | [45 Anos De Exitos](https://open.spotify.com/album/3OwlCqdi85JnzFeaPnyHZE) | 3:15 |
 | 73 | [Libro Abierto](https://open.spotify.com/track/6squwxmGYNEgrk3Ai0piCi) | [Gerardo Reyes](https://open.spotify.com/artist/2HdTW6TLACOcKKsUaRdP0e) | [Serie De Colecc\. 15 Auténticos Exitos](https://open.spotify.com/album/2NBlTAiYb311082CIMKqjU) | 2:08 |
 | 74 | [Playa Sola](https://open.spotify.com/track/31gRnzSEtKgO8kLN7ZGUxz) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Puros Éxitos](https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo) | 2:52 |
 | 75 | [Recuérdame Bonito](https://open.spotify.com/track/1APZxSVM4utFv3005z4FtB) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Recuérdame Bonito](https://open.spotify.com/album/7ILpDmbUgAzuyGupH5kDIr) | 3:11 |
@@ -114,8 +114,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 | 104 | [Y Ándale](https://open.spotify.com/track/4wCF8sJr4J3rkLO2fjlswA) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar con Mariachi](https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n) | 3:09 |
 | 105 | [Así Fue](https://open.spotify.com/track/3ym5eQLIVfTRohYuirqtkm) | [Crecer German](https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve) | [Así Fue](https://open.spotify.com/album/0n3eXavDKfCo1AMUwW3RNb) | 6:19 |
 | 106 | [Avísame](https://open.spotify.com/track/7opAyjCuxd8V0g6nuo7ZfF) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Mi Verdad](https://open.spotify.com/album/1HYorOzh8yVdEsprLTnlyE) | 2:58 |
-| 107 | [Chaparra De Mi Amor](https://open.spotify.com/track/6dNEvfhpiy394j8bZ4pSbT) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Imprescindibles](https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE) | 3:11 |
-| 108 | [Mi Pequeño Mundo](https://open.spotify.com/track/435TneZRvPoB48FM3lEuBT) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [Ya Lo Superé](https://open.spotify.com/album/7jlE4jsFvtS1OqPUXVc5HI) | 3:30 |
+| 107 | [Mi Pequeño Mundo](https://open.spotify.com/track/435TneZRvPoB48FM3lEuBT) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [Ya Lo Superé](https://open.spotify.com/album/7jlE4jsFvtS1OqPUXVc5HI) | 3:30 |
+| 108 | [Chaparra De Mi Amor](https://open.spotify.com/track/6dNEvfhpiy394j8bZ4pSbT) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Imprescindibles](https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE) | 3:11 |
 | 109 | [Tú a Mí No Me Hundes](https://open.spotify.com/track/6aNDj2s5dWkVaQzL8Lelhy) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Interpreta A Juan Gabriel](https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O) | 3:03 |
 | 110 | [La Canelera](https://open.spotify.com/track/4mHff3K0s1s8An8waTlHL1) | [Joel Elizalde](https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr) | [Como Duele Saber](https://open.spotify.com/album/3hvPmp7f7z0b7G9tbM60Fo) | 3:18 |
 | 111 | [Te He Prometido](https://open.spotify.com/track/0GPaCFW9LByG4JFjEaSqxV) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Sólo para Mujeres](https://open.spotify.com/album/21BVTiwvdCY9WOPUSptUfd) | 2:42 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 | 124 | [Quiéreme](https://open.spotify.com/track/6ZUtg3ihWxuWGFVrEaPzRd) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Norteño](https://open.spotify.com/album/7twlQPPrIidwR6Q4YLy0em) | 2:25 |
 | 125 | [Dios No Lo Quiera](https://open.spotify.com/track/3ujr1xnvt5kxuEfAwxuvKf) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Puros Éxitos](https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo) | 3:27 |
 
-Snapshot ID: `MCwwNzg2MzQyZGJkNzMwNzYzNDIwN2M3NzBjYzlkMzI4ZmVmZTYyZWQ4`
+Snapshot ID: `MCxmNzEyOWI4OWFmYmJjNDUyOWZiZTM2MjczNDM2M2Y5YzEyZTdkNTY5`

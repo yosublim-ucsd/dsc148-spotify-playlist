@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 
 > A sound synonymous with the Blues; these are the pioneering names in slide guitar\. Cover: Johnny Winter
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,011 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,104 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 | 22 | [Am I Wrong](https://open.spotify.com/track/3tvyQCSm1QcWURgGvygvke) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Keb' Mo'](https://open.spotify.com/album/09rC6HgLbuYl74OvGdJw6t) | 2:18 |
 | 23 | [Ground On Down](https://open.spotify.com/track/6THh5CL5PYf7OqOq9pTqNb) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Fight For Your Mind](https://open.spotify.com/album/3qw2TRebw37Mdb3aP78kM4) | 4:53 |
 | 24 | [Find a Way](https://open.spotify.com/track/4PTfrK6IhnTOd7SRpH17EK) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Got Soul](https://open.spotify.com/album/2WWqqmFSB4jFEnnRwngeSB) | 3:56 |
-| 25 | [It Hurts Me Too](https://open.spotify.com/track/7egQm3o9Qem3FhzUNi66rI) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Street Talkin'](https://open.spotify.com/album/1po8PLsiylhu2cuvR1Xw3L) | 3:20 |
+| 25 | [It Hurts Me Too](https://open.spotify.com/track/7egQm3o9Qem3FhzUNi66rI) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Street Talkin'](https://open.spotify.com/album/1po8PLsiylhu2cuvR1Xw3L) | 3:12 |
 | 26 | [Available Space](https://open.spotify.com/track/439kdOcVhEp5gQ67eYNkKG) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Ry Cooder](https://open.spotify.com/album/6GbhRC2huYcTVGf4TOXVqd) | 2:14 |
 | 27 | [Mean Old World](https://open.spotify.com/track/4w1nfPlGNqp4vDxDZRTmAi) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Duane Allman](https://open.spotify.com/artist/3keUIwmPM4awpPxiy9ZQ1m) | [An Anthology](https://open.spotify.com/album/1JrO2Vp9I2ExzAFvMcZKzb) | 3:52 |
 | 28 | [Night Has Turned to Day](https://open.spotify.com/track/4EtG28bl2zEehPhPsNgc8K) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Fantastic Negrito Deluxe EP](https://open.spotify.com/album/0joZ3fA8e7Qj9W2PLExxwn) | 2:40 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 | 46 | [Mississippi \(feat\. Tyler Bryant\)](https://open.spotify.com/track/7I6sXnSLWoc3LEQisxG86Y) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Tyler Bryant](https://open.spotify.com/artist/2v92dBj0AnGGPVyuxesKZi) | [Venom & Faith](https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF) | 3:39 |
 | 47 | [Highway 61 Revisited \- Live in California \- September 1975](https://open.spotify.com/track/0MLny1eMrEO76xLNlw2yTs) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [White Hot Blues](https://open.spotify.com/album/7MDS6yp7pHvXcuLIcjO8xY) | 5:03 |
 | 48 | [Roll Your Moneymaker](https://open.spotify.com/track/4LvVULuRGJytccOzfvlT4z) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Deluxe Edition](https://open.spotify.com/album/6W1p3MVr1rpPTWqHwBTZco) | 4:01 |
-| 49 | [Statesboro Blues](https://open.spotify.com/track/1pyyaheYNV54SIVv6z5wxU) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Dreams](https://open.spotify.com/album/51kF3pqbherdGJhcwKdmjC) | 4:06 |
-| 50 | [Devil's Slide](https://open.spotify.com/track/7oyB0fKoaMuiuYCI1wmtXr) | [Elvin Bishop](https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11) | [Don't Let The Bossman Get You Down!](https://open.spotify.com/album/5nr04ZHmPjgfPjKsvDAdhb) | 2:56 |
+| 49 | [Devil's Slide](https://open.spotify.com/track/7oyB0fKoaMuiuYCI1wmtXr) | [Elvin Bishop](https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11) | [Don't Let The Bossman Get You Down!](https://open.spotify.com/album/5nr04ZHmPjgfPjKsvDAdhb) | 2:56 |
+| 50 | [Statesboro Blues](https://open.spotify.com/track/1pyyaheYNV54SIVv6z5wxU) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Dreams](https://open.spotify.com/album/51kF3pqbherdGJhcwKdmjC) | 4:06 |
 
-Snapshot ID: `MCw4Njg5ZjRhN2Q0ZWFhMzRiOWM4OWRhYzdiYWQ3OWZmMDE2ZmI3MWU3`
+Snapshot ID: `MCw0YjQ4NGJmZWExYjUwYWNlMDFmYWY5ZjQ5NzkxZWMyNGNjMGY3Y2M1`

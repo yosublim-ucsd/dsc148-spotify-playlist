@@ -4,7 +4,7 @@
 
 > Cozy Christmas vibes\. Cover: Norah Jones
 
-127 songs - 7 hr 3 min
+128 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Glow](https://open.spotify.com/track/4nEJzW7MkSF8ojY7WJnoPt) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [When Christmas Comes Around...](https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU) | 3:18 | 2022-11-12 |  |
 | [God Rest Ye Merry Gentlemen / We Three Kings](https://open.spotify.com/track/6eou298JmAGYShrwYuLxJ2) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79), [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Barenaked For The Holidays](https://open.spotify.com/album/6IRBJEl3iDCSTwATVsQfzX) | 3:26 | 2021-12-23 |  |
 | [Hard Candy Christmas](https://open.spotify.com/track/24cTSBqNDT8rX5RjuxAxBR) | [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Hard Candy Christmas](https://open.spotify.com/album/63s2s0ZVgohgW0CEm1NHgd) | 3:28 | 2022-11-12 | 2022-12-01 |
-| [Hard Candy Christmas](https://open.spotify.com/track/6V5MkZb6BkvfcppHRO8zvf) | [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Hard Candy Christmas](https://open.spotify.com/album/3etDoLyTmP4B9CFJj7rsiz) | 3:28 | 2022-11-22 |  |
+| [Hard Candy Christmas](https://open.spotify.com/track/5OotiuR5xoCmLqeq1P8PFn) | [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Hard Candy Christmas](https://open.spotify.com/album/29bRAOozywfaeNNM3hQi2r) | 3:28 | 2022-12-05 |  |
+| [Hard Candy Christmas](https://open.spotify.com/track/6V5MkZb6BkvfcppHRO8zvf) | [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Hard Candy Christmas](https://open.spotify.com/album/3etDoLyTmP4B9CFJj7rsiz) | 3:28 | 2022-11-22 | 2023-11-30 |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/7oGsMrfHA4LOQa98ZjEX2i) | [Darren Criss](https://open.spotify.com/artist/3nQ59hkeciYoR6RreQL4Rv), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [A Very Darren Crissmas \(Deluxe\)](https://open.spotify.com/album/5yyHmkZ7tXDffaWDM5HceP) | 4:09 | 2021-12-23 | 2022-11-12 |
 | [have yourself a merry little christmas](https://open.spotify.com/track/0eeuqu07mKggIMnemXjm67) | [flor](https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb) | [have yourself a merry little christmas](https://open.spotify.com/album/7hEM8dbhYCTJBLvYIVaEgJ) | 1:53 | 2021-12-23 | 2022-11-12 |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/1x86q4ESOVmMpdoK0FMbya) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas \(Deluxe\)](https://open.spotify.com/album/1QGL60gbmLX8f4mWFP0xBw) | 4:16 | 2022-11-12 |  |

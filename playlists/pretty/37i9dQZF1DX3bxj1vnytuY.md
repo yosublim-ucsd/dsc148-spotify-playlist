@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,786 likes - 100 songs - 9 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,877 likes - 100 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 | 2 | [Mogo](https://open.spotify.com/track/3akGuvuTvyiItgLT30Vzeo) | [HVMZA](https://open.spotify.com/artist/7lrf9DRS7RmffYzVN7PYfK) | [Mogo](https://open.spotify.com/album/4PxVKlw9yeGuOpYKChdC0e) | 5:51 |
 | 3 | [Middle East](https://open.spotify.com/track/3HmtMuseYTOz2M04s2Phc2) | [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [Nadav Vee](https://open.spotify.com/artist/7ME7ha3w7CeCKpHnZlabEa), [Tamir Regev](https://open.spotify.com/artist/0lIHXlaWHdfApCcSdz2mNk) | [Humans](https://open.spotify.com/album/2ao2WewM26IVC402ocZNwt) | 7:04 |
 | 4 | [Gorah](https://open.spotify.com/track/49GpUfc9M09eGET6yBJUAj) | [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm) | [Gorah](https://open.spotify.com/album/31Dhd35ip9kwOzHZhzFzZ1) | 4:06 |
-| 5 | [Emowe](https://open.spotify.com/track/1GydcJBhEsjXVOwffBVyhr) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Emowe](https://open.spotify.com/album/0T2YlhZHMFUHf3xKrxeFle) | 7:40 |
+| 5 | [Emowe](https://open.spotify.com/track/0HEmkRtbVxUJGcZOXWYiNf) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Emowe](https://open.spotify.com/album/6vWHRHnbKMN5OeqAZcoIbI) | 7:40 |
 | 6 | [Papi \(Bhabi\)](https://open.spotify.com/track/2jxJzUWxqX2fnQTD9lmi2x) | [Eden Shalev](https://open.spotify.com/artist/2MqEj8zhXLsnXpWdPGBGPe) | [Papi \(Bhabi\)](https://open.spotify.com/album/3CmWvWiEAkuipFIqyhs5ps) | 5:46 |
 | 7 | [Jungle Paradise](https://open.spotify.com/track/7JiCJIx41x2A8Bvoq8w3Ek) | [Harold van Lennep](https://open.spotify.com/artist/3EDo5M4D2IAhisy3TDpkWg) | [Visions 2 \(Departure\)](https://open.spotify.com/album/62Ntxmo8Oykqbk6rVkCw8E) | 8:29 |
 | 8 | [Elgoa](https://open.spotify.com/track/4hLv1dWaXMwUjgyfRmE56p) | [Kawtar Sadik](https://open.spotify.com/artist/76hWhGu3o57UxXrt5BLljb), [Hamada Hammy](https://open.spotify.com/artist/3ynNwCnPhBjoUFpNe3zoXl) | [Elgoa EP](https://open.spotify.com/album/794UFSLjBzEsZslOOC3ylc) | 7:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 | 99 | [Izvor](https://open.spotify.com/track/2yYMZJdB6IYccaX1JmMXje) | [Tebra](https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P) | [Izvor](https://open.spotify.com/album/0xQNQdVxQkEj8HKlDmqgP1) | 6:40 |
 | 100 | [Devran](https://open.spotify.com/track/1Br0AatwWHo8JojDNAVMWq) | [KHAIKHAN](https://open.spotify.com/artist/0EhNqmWsXRucbAgAKfac75), [Mtu](https://open.spotify.com/artist/6Ex7C22f4WX3VqVRNriiXf) | [Anadolu](https://open.spotify.com/album/5Sj7kUvO8nrmWbQDFv71MV) | 6:47 |
 
-Snapshot ID: `MCxkYjE3NDE2NjY3NTgzYjVlODYzMzg5MmE4YmUxOTBkOTIxZGU4YjIx`
+Snapshot ID: `MCwzZmFjNTAyODg2MzM5ZWIyOWJiZTdlOWVmN2IyMTkzMjA0MDUwZDY5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 
 > Go hard or go home
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,285 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,365 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 | 79 | [What You Give Is What You Get](https://open.spotify.com/track/2Gt8l0oXk0ZuGtpwkN67z0) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Clockartz](https://open.spotify.com/artist/7GVB7uYTgkeYtLJxYMYYDp) | [What You Give Is What You Get](https://open.spotify.com/album/5cR4r1R6oN6v5DNXNUx2AK) | 3:27 |
 | 80 | [Ghost Town](https://open.spotify.com/track/7IsoFYGFt3Ac4snG5iSJnT) | [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Dr Phunk](https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk), [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym) | [Ghost Town](https://open.spotify.com/album/41JfN5cDxWW7iua9p3jDoO) | 3:24 |
 
-Snapshot ID: `MCxlZTM3YWFkNjIzMDdjNjYxZjFmOTYyMjM0ZjhhM2UzN2Y2ZmUzODVi`
+Snapshot ID: `MCw4NjQ2ZDU3MTY5YmViY2QzOWVhMWVkZTMyMTAzOGM3MGJjZGQyNjIw`

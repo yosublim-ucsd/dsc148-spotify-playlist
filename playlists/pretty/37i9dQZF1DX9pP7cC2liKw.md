@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 
 > Immerse yourself in the mysticism of Tulum!
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,820 likes - 70 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,908 likes - 70 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 25 | [Laberinto \- Bosq Remix](https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U) | [Laberinto \(Bosq Remix\)](https://open.spotify.com/album/5vfciS3URPiFrOBnzSIy2k) | 3:44 |
 | 26 | [Jardines](https://open.spotify.com/track/55Y0gGl9GkNWcEMSLIQwFE) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Amansara](https://open.spotify.com/album/7KJruqiZwhVmnfW3CfvIPu) | 4:46 |
 | 27 | [Xica Xica](https://open.spotify.com/track/7IMU8eXXQnXiWChljmRlxh) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [Uji](https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G), [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p) | [Balance](https://open.spotify.com/album/6HUW4nUJNzPBQojQh3gX0B) | 4:28 |
-| 28 | [Danza de Vision](https://open.spotify.com/track/00GwxMge3vIOMeV43Erckc) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Cantos de Vision](https://open.spotify.com/album/2FFMtf8Log72Ow5A3ExNv5) | 5:29 |
-| 29 | [Ahora](https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Aire](https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T) | 4:33 |
+| 28 | [Ahora](https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Aire](https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T) | 4:33 |
+| 29 | [Danza de Vision](https://open.spotify.com/track/00GwxMge3vIOMeV43Erckc) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Cantos de Vision](https://open.spotify.com/album/2FFMtf8Log72Ow5A3ExNv5) | 5:29 |
 | 30 | [Y tu te vas](https://open.spotify.com/track/5BkbrF1KA0Y6Y0B5M1N57v) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Y tu te vas](https://open.spotify.com/album/7omUCnWLUozEhrsODlxM0b) | 3:14 |
 | 31 | [Mientras Tanto](https://open.spotify.com/track/2q8YqrDMb3SHmMQHbkd9tF) | [Los Eclipses](https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Dan Solo](https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7) | [Mientras Tanto](https://open.spotify.com/album/5GgeCHEvsDIpUR5AzHkYxK) | 2:15 |
 | 32 | [Maré](https://open.spotify.com/track/3d620Rc8aL3jnmKa9aqa8d) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Drama](https://open.spotify.com/album/3ZTkQB57XYgCuIH8Z09xr3) | 3:33 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 37 | [Estación Esperanza](https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Estación Esperanza](https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ) | 5:16 |
 | 38 | [Cumbia Espacial](https://open.spotify.com/track/73eru5GrzWOgmjjdcI8WGg) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Ondatrópica](https://open.spotify.com/album/5OfBaqQtoYQc3i0LgKVAEC) | 4:05 |
 | 39 | [Temazcal](https://open.spotify.com/track/0SOG7VMrKYCHoMRYqS9fjK) | [Matanza](https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT) | [Apolinar](https://open.spotify.com/album/1BVtwlD7BSkrbUeNyYO75U) | 4:11 |
-| 40 | [Shinjuku Strut](https://open.spotify.com/track/40eiz1003cXrXFRnMtBvIU) | [Rick Wade](https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p) | [Hustler's Lullaby](https://open.spotify.com/album/742wdMvR7gEPIPL8ubSl8z) | 5:14 |
-| 41 | [La Matanza](https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp) | [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [La Matanza](https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6) | 3:21 |
+| 40 | [La Matanza](https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp) | [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [La Matanza](https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6) | 3:21 |
+| 41 | [Shinjuku Strut](https://open.spotify.com/track/40eiz1003cXrXFRnMtBvIU) | [Rick Wade](https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p) | [Hustler's Lullaby](https://open.spotify.com/album/742wdMvR7gEPIPL8ubSl8z) | 5:14 |
 | 42 | [Sano](https://open.spotify.com/track/65x71PXeGjlMy5ooVPDVEU) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [LUVI TORRES](https://open.spotify.com/artist/0U6e4AWJDteC3blrD46avQ) | [Sano](https://open.spotify.com/album/4XxbqdjpU5IDVYxHpILsRk) | 3:20 |
 | 43 | [Amor Entre Mujer](https://open.spotify.com/track/7kbLWbsm16J2WimzrC0iDA) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Polocorp](https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Amor Entre Mujer](https://open.spotify.com/album/4tRbLBaf7fQaYZnZp41ttO) | 4:32 |
 | 44 | [Paso a Huella \- Captain Planet Remix](https://open.spotify.com/track/5cymR1aelP1UGn0wSsLLcq) | [Novalima](https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI), [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Ch'usay Remixes](https://open.spotify.com/album/05NsUQd42tUf0YWSuqZW8d) | 3:27 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 69 | [Rúmbala \- Jiony Remix](https://open.spotify.com/track/7mtMy47wBdLVuFg5ZxkYAa) | [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Rúmbala \(Jiony Remix\)](https://open.spotify.com/album/5iQO617zEZbSQyNbLPAjrN) | 3:51 |
 | 70 | [Selva y mar](https://open.spotify.com/track/2DsUXoqK3HXx2Sat09W7uN) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [Selva y mar](https://open.spotify.com/album/79AHYPMxeWRc5NR7WqwUFG) | 4:08 |
 
-Snapshot ID: `MCxkZGM1NjA2MDg4ODQ0OGVhMDc4NmYwNjQ3YjFlOWQ3NzlmNGYxMTMz`
+Snapshot ID: `MCw1NWNmZjI5MGVhOWNmNjMyMmRlMjJmMTA0OTNmNmI5OWE0YzhjMjM2`

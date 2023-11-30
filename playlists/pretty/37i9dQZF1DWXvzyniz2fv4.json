@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 154812,
+  "num_followers": 154794,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmI3NWUyYjVjMDQwMGNjOThjNjM4N2Y3Mzg5YTFhMjYxMTUwM2I2",
+  "snapshot_id": "MCw4YmM4MzllOWM3NTg3Mzc0MTFlZTNmYjAzMzRjMTI2NGY4OWZkODE2",
   "tracks": [
     {
       "added_at": "2023-11-24 17:29:54",
@@ -375,34 +375,6 @@
     {
       "added_at": "2023-11-24 17:29:54",
       "album": {
-        "name": "Vida Cara (Deluxe)",
-        "url": "https://open.spotify.com/album/3KvM71DjnZsDr0dxppQNjT"
-      },
-      "artists": [
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "RUXN",
-          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        }
-      ],
-      "duration_ms": 237419,
-      "name": "Meu Passado",
-      "url": "https://open.spotify.com/track/19rYsBUNClYidByVMkY3H1"
-    },
-    {
-      "added_at": "2023-11-24 17:29:54",
-      "album": {
         "name": "Para Todos os Garotos que j\u00e1 Mamei",
         "url": "https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK"
       },
@@ -427,6 +399,34 @@
       "duration_ms": 160000,
       "name": "Prece",
       "url": "https://open.spotify.com/track/6UmJjde5JUyvqMm2lqvPyD"
+    },
+    {
+      "added_at": "2023-11-24 17:29:54",
+      "album": {
+        "name": "Vida Cara (Deluxe)",
+        "url": "https://open.spotify.com/album/3KvM71DjnZsDr0dxppQNjT"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "RUXN",
+          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "duration_ms": 237419,
+      "name": "Meu Passado",
+      "url": "https://open.spotify.com/track/19rYsBUNClYidByVMkY3H1"
     },
     {
       "added_at": "2023-11-24 17:29:54",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-11-24 17:29:54",
       "album": {
+        "name": "Sprite",
+        "url": "https://open.spotify.com/album/0E2Ve4GAqe2UPjVnAjBj0d"
+      },
+      "artists": [
+        {
+          "name": "Lil Fuub",
+          "url": "https://open.spotify.com/artist/47KYl2Wi5f5jmldU2F13An"
+        }
+      ],
+      "duration_ms": 127996,
+      "name": "Sprite",
+      "url": "https://open.spotify.com/track/4LBGvXXBZEMgDK8KZ8xvAT"
+    },
+    {
+      "added_at": "2023-11-24 17:29:54",
+      "album": {
         "name": "Ato 3: TODAMANH\u00c3",
         "url": "https://open.spotify.com/album/6n1FhDXwV2kjcCfsOmw6uw"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 168448,
       "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
       "url": "https://open.spotify.com/track/3BEPihzXOmtSMWep6N2AgP"
-    },
-    {
-      "added_at": "2023-11-24 17:29:54",
-      "album": {
-        "name": "Sprite",
-        "url": "https://open.spotify.com/album/0E2Ve4GAqe2UPjVnAjBj0d"
-      },
-      "artists": [
-        {
-          "name": "Lil Fuub",
-          "url": "https://open.spotify.com/artist/47KYl2Wi5f5jmldU2F13An"
-        }
-      ],
-      "duration_ms": 127996,
-      "name": "Sprite",
-      "url": "https://open.spotify.com/track/4LBGvXXBZEMgDK8KZ8xvAT"
     },
     {
       "added_at": "2023-11-24 17:29:54",
@@ -735,6 +735,46 @@
     {
       "added_at": "2023-11-24 17:29:54",
       "album": {
+        "name": "Ac\u00fastico: Sem Perceber + 4 da Manh\u00e3",
+        "url": "https://open.spotify.com/album/6wInOtdqAA15z0ZK6v0AjR"
+      },
+      "artists": [
+        {
+          "name": "Vitinho",
+          "url": "https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp"
+        }
+      ],
+      "duration_ms": 208485,
+      "name": "4 da Manh\u00e3 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/57bo2W60Td9nuMYvwCCty2"
+    },
+    {
+      "added_at": "2023-11-24 17:29:54",
+      "album": {
+        "name": "Conex\u00e3o",
+        "url": "https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "Luan LDS",
+          "url": "https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J"
+        }
+      ],
+      "duration_ms": 143448,
+      "name": "Conex\u00e3o",
+      "url": "https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva"
+    },
+    {
+      "added_at": "2023-11-24 17:29:54",
+      "album": {
         "name": "Fim de Semana",
         "url": "https://open.spotify.com/album/1VseR4x7w6UFb9BlxQAZqM"
       },
@@ -767,46 +807,6 @@
       "duration_ms": 163030,
       "name": "Fim de Semana",
       "url": "https://open.spotify.com/track/0WhV2RQb0a7WDoJnMQRbnt"
-    },
-    {
-      "added_at": "2023-11-24 17:29:54",
-      "album": {
-        "name": "Conex\u00e3o",
-        "url": "https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i"
-      },
-      "artists": [
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        },
-        {
-          "name": "Luan LDS",
-          "url": "https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J"
-        }
-      ],
-      "duration_ms": 143448,
-      "name": "Conex\u00e3o",
-      "url": "https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva"
-    },
-    {
-      "added_at": "2023-11-24 17:29:54",
-      "album": {
-        "name": "Ac\u00fastico: Sem Perceber + 4 da Manh\u00e3",
-        "url": "https://open.spotify.com/album/6wInOtdqAA15z0ZK6v0AjR"
-      },
-      "artists": [
-        {
-          "name": "Vitinho",
-          "url": "https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp"
-        }
-      ],
-      "duration_ms": 208485,
-      "name": "4 da Manh\u00e3 - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/57bo2W60Td9nuMYvwCCty2"
     },
     {
       "added_at": "2023-11-24 17:29:54",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-11-24 17:29:54",
       "album": {
-        "name": "Spoiler",
-        "url": "https://open.spotify.com/album/45PCXFfR2DT6yXuhLfwcbs"
-      },
-      "artists": [
-        {
-          "name": "Roig",
-          "url": "https://open.spotify.com/artist/20vqMkiF1RvZrVGNiDpdzk"
-        }
-      ],
-      "duration_ms": 196729,
-      "name": "Spoiler",
-      "url": "https://open.spotify.com/track/2zZ8HX3Q66MkYNmfgTiWgK"
-    },
-    {
-      "added_at": "2023-11-24 17:29:54",
-      "album": {
         "name": "Inverno",
         "url": "https://open.spotify.com/album/6duBR0e38IcnyqdcTYBbCj"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 212137,
       "name": "Ros\u00e9",
       "url": "https://open.spotify.com/track/2VjdWetFejyZ1NI95u12Zy"
+    },
+    {
+      "added_at": "2023-11-24 17:29:54",
+      "album": {
+        "name": "Spoiler",
+        "url": "https://open.spotify.com/album/45PCXFfR2DT6yXuhLfwcbs"
+      },
+      "artists": [
+        {
+          "name": "Roig",
+          "url": "https://open.spotify.com/artist/20vqMkiF1RvZrVGNiDpdzk"
+        }
+      ],
+      "duration_ms": 196729,
+      "name": "Spoiler",
+      "url": "https://open.spotify.com/track/2zZ8HX3Q66MkYNmfgTiWgK"
     },
     {
       "added_at": "2023-11-24 17:29:54",
@@ -1231,6 +1231,26 @@
     {
       "added_at": "2023-11-24 17:29:54",
       "album": {
+        "name": "Ir Embora",
+        "url": "https://open.spotify.com/album/4P0ILvy6Lb8hvEwY8RtcFj"
+      },
+      "artists": [
+        {
+          "name": "Taz Mureb",
+          "url": "https://open.spotify.com/artist/58Edhhh8yg8UogYP33f2hW"
+        },
+        {
+          "name": "Scarlet Ohana",
+          "url": "https://open.spotify.com/artist/1kjSl7qb7J7qQetAGS3Wn3"
+        }
+      ],
+      "duration_ms": 125932,
+      "name": "Ir Embora",
+      "url": "https://open.spotify.com/track/0OE6lDNDdWrHJc9Ke19aJO"
+    },
+    {
+      "added_at": "2023-11-24 17:29:54",
+      "album": {
         "name": "Bem Vindx \u00e0 Lyra",
         "url": "https://open.spotify.com/album/11zJh3b4sbGY49SyRkJ0If"
       },
@@ -1259,26 +1279,6 @@
     {
       "added_at": "2023-11-24 17:29:54",
       "album": {
-        "name": "Ir Embora",
-        "url": "https://open.spotify.com/album/4P0ILvy6Lb8hvEwY8RtcFj"
-      },
-      "artists": [
-        {
-          "name": "Taz Mureb",
-          "url": "https://open.spotify.com/artist/58Edhhh8yg8UogYP33f2hW"
-        },
-        {
-          "name": "Scarlet Ohana",
-          "url": "https://open.spotify.com/artist/1kjSl7qb7J7qQetAGS3Wn3"
-        }
-      ],
-      "duration_ms": 125932,
-      "name": "Ir Embora",
-      "url": "https://open.spotify.com/track/0OE6lDNDdWrHJc9Ke19aJO"
-    },
-    {
-      "added_at": "2023-11-24 17:29:54",
-      "album": {
         "name": "Qualquer Maneira",
         "url": "https://open.spotify.com/album/7j1DUPvd4pw2Z6uI3QJj7r"
       },
@@ -1291,6 +1291,22 @@
       "duration_ms": 331054,
       "name": "Qualquer Maneira",
       "url": "https://open.spotify.com/track/4OuOPF6CxMSUTXCuKhwKZT"
+    },
+    {
+      "added_at": "2023-11-24 17:29:54",
+      "album": {
+        "name": "Perto do Sol",
+        "url": "https://open.spotify.com/album/7rrUcWBn8BA67KRpL6rS0r"
+      },
+      "artists": [
+        {
+          "name": "RNT",
+          "url": "https://open.spotify.com/artist/5oQCmIhv8pxJm3mhIvrg9d"
+        }
+      ],
+      "duration_ms": 168292,
+      "name": "Perto do Sol",
+      "url": "https://open.spotify.com/track/7nnxD1h7mXYgWVTKsb2uib"
     },
     {
       "added_at": "2023-11-24 17:29:54",
@@ -1311,22 +1327,6 @@
       "duration_ms": 206769,
       "name": "Nossas M\u00eddias",
       "url": "https://open.spotify.com/track/1VYll7Pj0Bvr2C9uQYqKIA"
-    },
-    {
-      "added_at": "2023-11-24 17:29:54",
-      "album": {
-        "name": "Perto do Sol",
-        "url": "https://open.spotify.com/album/7rrUcWBn8BA67KRpL6rS0r"
-      },
-      "artists": [
-        {
-          "name": "RNT",
-          "url": "https://open.spotify.com/artist/5oQCmIhv8pxJm3mhIvrg9d"
-        }
-      ],
-      "duration_ms": 168292,
-      "name": "Perto do Sol",
-      "url": "https://open.spotify.com/track/7nnxD1h7mXYgWVTKsb2uib"
     },
     {
       "added_at": "2023-11-24 17:29:54",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2023-11-24 17:29:54",
       "album": {
+        "name": "Sabe Qual \u00c9",
+        "url": "https://open.spotify.com/album/0pOetxYIZaNrd3Xdewp9Fd"
+      },
+      "artists": [
+        {
+          "name": "Nathan",
+          "url": "https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA"
+        }
+      ],
+      "duration_ms": 150361,
+      "name": "Sabe Qual \u00c9",
+      "url": "https://open.spotify.com/track/3mctWBqWWKZn7rsyjWVtDe"
+    },
+    {
+      "added_at": "2023-11-24 17:29:54",
+      "album": {
         "name": "Guts Sessions #1: Menina Linda",
         "url": "https://open.spotify.com/album/1ehOwpQPu30AqcIIZU5SCB"
       },
@@ -1427,18 +1443,18 @@
     {
       "added_at": "2023-11-24 17:29:54",
       "album": {
-        "name": "Sabe Qual \u00c9",
-        "url": "https://open.spotify.com/album/0pOetxYIZaNrd3Xdewp9Fd"
+        "name": "Lua",
+        "url": "https://open.spotify.com/album/1s4g1k6HfcFkPdJqlIMkmd"
       },
       "artists": [
         {
-          "name": "Nathan",
-          "url": "https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA"
+          "name": "24por7",
+          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
         }
       ],
-      "duration_ms": 150361,
-      "name": "Sabe Qual \u00c9",
-      "url": "https://open.spotify.com/track/3mctWBqWWKZn7rsyjWVtDe"
+      "duration_ms": 164713,
+      "name": "Lua",
+      "url": "https://open.spotify.com/track/4AFP0wGCkxdijZxxMAbzhg"
     },
     {
       "added_at": "2023-11-24 17:29:54",
@@ -1463,22 +1479,6 @@
       "duration_ms": 152000,
       "name": "Voe",
       "url": "https://open.spotify.com/track/3QRRlJmJbIlBi3i4YzLgvc"
-    },
-    {
-      "added_at": "2023-11-24 17:29:54",
-      "album": {
-        "name": "Lua",
-        "url": "https://open.spotify.com/album/1s4g1k6HfcFkPdJqlIMkmd"
-      },
-      "artists": [
-        {
-          "name": "24por7",
-          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
-        }
-      ],
-      "duration_ms": 164713,
-      "name": "Lua",
-      "url": "https://open.spotify.com/track/4AFP0wGCkxdijZxxMAbzhg"
     },
     {
       "added_at": "2023-11-24 17:29:54",
@@ -1599,30 +1599,6 @@
     {
       "added_at": "2023-11-24 17:29:54",
       "album": {
-        "name": "V\u00e1rios Planos",
-        "url": "https://open.spotify.com/album/48gdIpMmEfBWmJXOAQAazI"
-      },
-      "artists": [
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Hila Campelo",
-          "url": "https://open.spotify.com/artist/5ekmhzyylAHmiQrzCS58vf"
-        },
-        {
-          "name": "Thebosh",
-          "url": "https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI"
-        }
-      ],
-      "duration_ms": 180705,
-      "name": "V\u00e1rios Planos",
-      "url": "https://open.spotify.com/track/4p7fGgYN66OANZYwLjubv9"
-    },
-    {
-      "added_at": "2023-11-24 17:29:54",
-      "album": {
         "name": "Meia Hora",
         "url": "https://open.spotify.com/album/52qm3IpAljp44LW5m5TSwV"
       },
@@ -1687,6 +1663,30 @@
       "duration_ms": 172203,
       "name": "Descanso de Tela",
       "url": "https://open.spotify.com/track/6wM0ZuX5eOxmbDPciwt7zb"
+    },
+    {
+      "added_at": "2023-11-24 17:29:54",
+      "album": {
+        "name": "V\u00e1rios Planos",
+        "url": "https://open.spotify.com/album/48gdIpMmEfBWmJXOAQAazI"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Hila Campelo",
+          "url": "https://open.spotify.com/artist/5ekmhzyylAHmiQrzCS58vf"
+        },
+        {
+          "name": "Thebosh",
+          "url": "https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI"
+        }
+      ],
+      "duration_ms": 180705,
+      "name": "V\u00e1rios Planos",
+      "url": "https://open.spotify.com/track/4p7fGgYN66OANZYwLjubv9"
     },
     {
       "added_at": "2023-11-24 17:29:54",

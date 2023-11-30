@@ -1,12 +1,12 @@
 {
   "description": "Hypnotic bliss.",
-  "num_followers": 777174,
+  "num_followers": 777162,
   "original_name": "Dreamy Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjYxNjA0MjRhMDM2YzcyY2I2OWFiZjBiZWJkMzU2YWRjODMyY2U3",
+  "snapshot_id": "MCw0OWQ0Zjc3MGNiZWVkMjQ2NTU1ZGE4OGE5MWEzMDYwNmVlYTY0OTk1",
   "tracks": [
     {
       "added_at": "2023-10-13 00:01:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Sv\u00e4var Fritt",
-        "url": "https://open.spotify.com/album/66t57sgwrX5Nz1gAtsvIfu"
-      },
-      "artists": [
-        {
-          "name": "Dr\u00f6mlandskap",
-          "url": "https://open.spotify.com/artist/02S4ky4seZriPGxQ2JWQqe"
-        }
-      ],
-      "duration_ms": 184018,
-      "name": "Sv\u00e4var Fritt",
-      "url": "https://open.spotify.com/track/659cjc6eOg0WCNDaQR4M2v"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Djupet",
         "url": "https://open.spotify.com/album/7heZwQ3Yua1lr3XCYJzhbK"
       },
@@ -831,18 +815,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Evolving",
-        "url": "https://open.spotify.com/album/0owGtGnRMtKo3SbbQoungc"
+        "name": "Sv\u00e4var Fritt",
+        "url": "https://open.spotify.com/album/66t57sgwrX5Nz1gAtsvIfu"
       },
       "artists": [
         {
-          "name": "Astral Wonder",
-          "url": "https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G"
+          "name": "Dr\u00f6mlandskap",
+          "url": "https://open.spotify.com/artist/02S4ky4seZriPGxQ2JWQqe"
         }
       ],
-      "duration_ms": 194919,
-      "name": "Evolving",
-      "url": "https://open.spotify.com/track/3unVls9LCPxpXOOKcVzGBA"
+      "duration_ms": 184018,
+      "name": "Sv\u00e4var Fritt",
+      "url": "https://open.spotify.com/track/659cjc6eOg0WCNDaQR4M2v"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -859,6 +843,22 @@
       "duration_ms": 172000,
       "name": "Aether Talk",
       "url": "https://open.spotify.com/track/6Av8cijBWCaJtAGAuAr5s6"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Evolving",
+        "url": "https://open.spotify.com/album/0owGtGnRMtKo3SbbQoungc"
+      },
+      "artists": [
+        {
+          "name": "Astral Wonder",
+          "url": "https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G"
+        }
+      ],
+      "duration_ms": 194919,
+      "name": "Evolving",
+      "url": "https://open.spotify.com/track/3unVls9LCPxpXOOKcVzGBA"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Ich W\u00fcnsche",
-        "url": "https://open.spotify.com/album/4L4851N3uUVpCOXVRQHTTA"
-      },
-      "artists": [
-        {
-          "name": "Nils Schreiber",
-          "url": "https://open.spotify.com/artist/5zHYiEFPo9FOLO2tRvXNxl"
-        }
-      ],
-      "duration_ms": 179727,
-      "name": "Unendlich",
-      "url": "https://open.spotify.com/track/6CVWIpKdoNRKj3mxJjkQ2V"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Kshanon",
         "url": "https://open.spotify.com/album/7pnYbnU0FVvjilu4CjHePH"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 202857,
       "name": "Kshanon",
       "url": "https://open.spotify.com/track/64tHlBxl55HXyOE2ZsDamu"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Ich W\u00fcnsche",
+        "url": "https://open.spotify.com/album/4L4851N3uUVpCOXVRQHTTA"
+      },
+      "artists": [
+        {
+          "name": "Nils Schreiber",
+          "url": "https://open.spotify.com/artist/5zHYiEFPo9FOLO2tRvXNxl"
+        }
+      ],
+      "duration_ms": 179727,
+      "name": "Unendlich",
+      "url": "https://open.spotify.com/track/6CVWIpKdoNRKj3mxJjkQ2V"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/70FUCWJ79m4CS4zihjWmro"
-      },
-      "artists": [
-        {
-          "name": "Studio Tranquilo",
-          "url": "https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP"
-        }
-      ],
-      "duration_ms": 153962,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/555LtwRZ3fc00jnQSGOd0q"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Floating Time",
         "url": "https://open.spotify.com/album/3lcJGoXkij70Op2NhALEdm"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 170000,
       "name": "Floating Time",
       "url": "https://open.spotify.com/track/5rSogWGLs158gr5NodSxDo"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/70FUCWJ79m4CS4zihjWmro"
+      },
+      "artists": [
+        {
+          "name": "Studio Tranquilo",
+          "url": "https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP"
+        }
+      ],
+      "duration_ms": 153962,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/555LtwRZ3fc00jnQSGOd0q"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Miho no Matsubara",
-        "url": "https://open.spotify.com/album/4Rj6DPJPIkkJqI27djmanN"
-      },
-      "artists": [
-        {
-          "name": "Miu Hayashi",
-          "url": "https://open.spotify.com/artist/3PeAcdPlMSYVJyaUprwEWS"
-        }
-      ],
-      "duration_ms": 173750,
-      "name": "Miho no Matsubara",
-      "url": "https://open.spotify.com/track/216t4yl7TJeh6nlmF7mBOK"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Eternalis",
         "url": "https://open.spotify.com/album/3qZMZFTUJyvi0fOJuo31sx"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 192038,
       "name": "Arriving",
       "url": "https://open.spotify.com/track/730JGpAFz7uj2i53ySidzR"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Miho no Matsubara",
+        "url": "https://open.spotify.com/album/4Rj6DPJPIkkJqI27djmanN"
+      },
+      "artists": [
+        {
+          "name": "Miu Hayashi",
+          "url": "https://open.spotify.com/artist/3PeAcdPlMSYVJyaUprwEWS"
+        }
+      ],
+      "duration_ms": 173750,
+      "name": "Miho no Matsubara",
+      "url": "https://open.spotify.com/track/216t4yl7TJeh6nlmF7mBOK"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Maja's Miracle",
-        "url": "https://open.spotify.com/album/2rwHW5rHNhGIEPokFQCrHk"
-      },
-      "artists": [
-        {
-          "name": "Claira Mikkelsen",
-          "url": "https://open.spotify.com/artist/1UW4IN55vQzgYjkdR3ivVE"
-        }
-      ],
-      "duration_ms": 123437,
-      "name": "Maja's Miracle",
-      "url": "https://open.spotify.com/track/357UXnSLfG3RTRrRMc7YiU"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Rest Now",
         "url": "https://open.spotify.com/album/3uOInfWGtt8LoCC9AcPSW7"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 162000,
       "name": "Rest Now",
       "url": "https://open.spotify.com/track/30l9Arlh15ewEk4KxmSlSp"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Maja's Miracle",
+        "url": "https://open.spotify.com/album/2rwHW5rHNhGIEPokFQCrHk"
+      },
+      "artists": [
+        {
+          "name": "Claira Mikkelsen",
+          "url": "https://open.spotify.com/artist/1UW4IN55vQzgYjkdR3ivVE"
+        }
+      ],
+      "duration_ms": 123437,
+      "name": "Maja's Miracle",
+      "url": "https://open.spotify.com/track/357UXnSLfG3RTRrRMc7YiU"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Partly Cloudy",
-        "url": "https://open.spotify.com/album/7z42cZQUpyxurNOifKVN03"
-      },
-      "artists": [
-        {
-          "name": "Gazebo Clouds",
-          "url": "https://open.spotify.com/artist/70GLgOz3KqWNNbwxmIbQgx"
-        }
-      ],
-      "duration_ms": 223653,
-      "name": "Stars Above",
-      "url": "https://open.spotify.com/track/3pnNr9iQ93YtDX2O26fLo1"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Deep Down",
         "url": "https://open.spotify.com/album/4MwV8rgraZqq6ulPvUto82"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 166161,
       "name": "Deep Down",
       "url": "https://open.spotify.com/track/1fNzrF4LItKYRmCquXrMVE"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Partly Cloudy",
+        "url": "https://open.spotify.com/album/7z42cZQUpyxurNOifKVN03"
+      },
+      "artists": [
+        {
+          "name": "Gazebo Clouds",
+          "url": "https://open.spotify.com/artist/70GLgOz3KqWNNbwxmIbQgx"
+        }
+      ],
+      "duration_ms": 223653,
+      "name": "Stars Above",
+      "url": "https://open.spotify.com/track/3pnNr9iQ93YtDX2O26fLo1"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Apesanteur",
-        "url": "https://open.spotify.com/album/4CEpijln4tZLMM8yf4jK39"
-      },
-      "artists": [
-        {
-          "name": "Elodie Acy",
-          "url": "https://open.spotify.com/artist/2uIT3eIsFOjiwUoDJvNzbD"
-        }
-      ],
-      "duration_ms": 158882,
-      "name": "Apesanteur",
-      "url": "https://open.spotify.com/track/3lIe2hHmBqG3qcvD9rcZ4F"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Inevitably",
         "url": "https://open.spotify.com/album/3s0pyN2CIpxkLC7lMfQhy2"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 240741,
       "name": "Double Star",
       "url": "https://open.spotify.com/track/4CAp39QFkWYkLWwMCr0dod"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Apesanteur",
+        "url": "https://open.spotify.com/album/4CEpijln4tZLMM8yf4jK39"
+      },
+      "artists": [
+        {
+          "name": "Elodie Acy",
+          "url": "https://open.spotify.com/artist/2uIT3eIsFOjiwUoDJvNzbD"
+        }
+      ],
+      "duration_ms": 158882,
+      "name": "Apesanteur",
+      "url": "https://open.spotify.com/track/3lIe2hHmBqG3qcvD9rcZ4F"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Obelus",
-        "url": "https://open.spotify.com/album/6L18pvdnitc2BMONeCRD3b"
-      },
-      "artists": [
-        {
-          "name": "Jin Eun-Kyung",
-          "url": "https://open.spotify.com/artist/5v2Kob3cL8QTD2sVTraH4y"
-        }
-      ],
-      "duration_ms": 203728,
-      "name": "Frozen In Time",
-      "url": "https://open.spotify.com/track/62Knl604s3YRBX5nnaBkeP"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Peaceful Drones",
         "url": "https://open.spotify.com/album/3MmpFmPLWVAb52EVPwxqx5"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 172069,
       "name": "Peaceful Drones",
       "url": "https://open.spotify.com/track/1WBfurgMWL2sDqdXuXXXVw"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Obelus",
+        "url": "https://open.spotify.com/album/6L18pvdnitc2BMONeCRD3b"
+      },
+      "artists": [
+        {
+          "name": "Jin Eun-Kyung",
+          "url": "https://open.spotify.com/artist/5v2Kob3cL8QTD2sVTraH4y"
+        }
+      ],
+      "duration_ms": 203728,
+      "name": "Frozen In Time",
+      "url": "https://open.spotify.com/track/62Knl604s3YRBX5nnaBkeP"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -2111,6 +2111,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "432 Hz Calm",
+        "url": "https://open.spotify.com/album/3YOE3QpeQ1OrOxn1G1rqZp"
+      },
+      "artists": [
+        {
+          "name": "Calma",
+          "url": "https://open.spotify.com/artist/0yrywRgSz0i2hZCJHuP3iT"
+        }
+      ],
+      "duration_ms": 176667,
+      "name": "432 Hz Calm",
+      "url": "https://open.spotify.com/track/2fKKLKOdbvoENYG2UG92vB"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "Brise Apaisante",
         "url": "https://open.spotify.com/album/1rkE0SC2fJkBwNzEbPLPUp"
       },
@@ -2127,18 +2143,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "432 Hz Calm",
-        "url": "https://open.spotify.com/album/3YOE3QpeQ1OrOxn1G1rqZp"
+        "name": "Deep Steadiness",
+        "url": "https://open.spotify.com/album/2THS7bZGzzUoBPteGW8CKX"
       },
       "artists": [
         {
-          "name": "Calma",
-          "url": "https://open.spotify.com/artist/0yrywRgSz0i2hZCJHuP3iT"
+          "name": "Winds Of Minds",
+          "url": "https://open.spotify.com/artist/52zUN5HeRQAGLIyXhxZaR0"
         }
       ],
-      "duration_ms": 176667,
-      "name": "432 Hz Calm",
-      "url": "https://open.spotify.com/track/2fKKLKOdbvoENYG2UG92vB"
+      "duration_ms": 156793,
+      "name": "Deep Steadiness",
+      "url": "https://open.spotify.com/track/4fjAMHIsHsK6QpuCyWtJEZ"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -2163,34 +2179,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Deep Steadiness",
-        "url": "https://open.spotify.com/album/2THS7bZGzzUoBPteGW8CKX"
+        "name": "New Wings",
+        "url": "https://open.spotify.com/album/0tcXLgBa6sgwaOk9SHnHQl"
       },
       "artists": [
         {
-          "name": "Winds Of Minds",
-          "url": "https://open.spotify.com/artist/52zUN5HeRQAGLIyXhxZaR0"
+          "name": "Isac Hadland",
+          "url": "https://open.spotify.com/artist/0B9vzGBy9HZjDXCyD8Vd3n"
         }
       ],
-      "duration_ms": 156793,
-      "name": "Deep Steadiness",
-      "url": "https://open.spotify.com/track/4fjAMHIsHsK6QpuCyWtJEZ"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "\u03a3\u03bf\u03c5\u0301\u03c1\u03bf\u03c5\u03c0\u03bf",
-        "url": "https://open.spotify.com/album/4eZeLgfdABfj3mjL5JMIQb"
-      },
-      "artists": [
-        {
-          "name": "Hana Maldonado",
-          "url": "https://open.spotify.com/artist/1ZjnbNm8j6NPmCH1Rdz0nK"
-        }
-      ],
-      "duration_ms": 217250,
-      "name": "\u03a3\u03bf\u03c5\u0301\u03c1\u03bf\u03c5\u03c0\u03bf",
-      "url": "https://open.spotify.com/track/6qhwG9cLtPHBJvqR2OQXVB"
+      "duration_ms": 209000,
+      "name": "New Wings",
+      "url": "https://open.spotify.com/track/2rawFRlajMpLMK1kD6Uvu0"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -2211,18 +2211,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "New Wings",
-        "url": "https://open.spotify.com/album/0tcXLgBa6sgwaOk9SHnHQl"
+        "name": "\u03a3\u03bf\u03c5\u0301\u03c1\u03bf\u03c5\u03c0\u03bf",
+        "url": "https://open.spotify.com/album/4eZeLgfdABfj3mjL5JMIQb"
       },
       "artists": [
         {
-          "name": "Isac Hadland",
-          "url": "https://open.spotify.com/artist/0B9vzGBy9HZjDXCyD8Vd3n"
+          "name": "Hana Maldonado",
+          "url": "https://open.spotify.com/artist/1ZjnbNm8j6NPmCH1Rdz0nK"
         }
       ],
-      "duration_ms": 209000,
-      "name": "New Wings",
-      "url": "https://open.spotify.com/track/2rawFRlajMpLMK1kD6Uvu0"
+      "duration_ms": 217250,
+      "name": "\u03a3\u03bf\u03c5\u0301\u03c1\u03bf\u03c5\u03c0\u03bf",
+      "url": "https://open.spotify.com/track/6qhwG9cLtPHBJvqR2OQXVB"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -2243,22 +2243,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Enlightened",
-        "url": "https://open.spotify.com/album/7AE9pKUnW5HGG11bqD5Ddu"
-      },
-      "artists": [
-        {
-          "name": "Atmospheric Lights",
-          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
-        }
-      ],
-      "duration_ms": 226250,
-      "name": "Enlightened",
-      "url": "https://open.spotify.com/track/2eOzs9ioq2suHpRsZgY0IF"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Bertrand of the Ringing",
         "url": "https://open.spotify.com/album/7ynxP1pWkmrGJlMesTuesQ"
       },
@@ -2271,6 +2255,22 @@
       "duration_ms": 198000,
       "name": "Ceremonial Stone",
       "url": "https://open.spotify.com/track/33KWAFT4txDSNrI6Bn4Rji"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Enlightened",
+        "url": "https://open.spotify.com/album/7AE9pKUnW5HGG11bqD5Ddu"
+      },
+      "artists": [
+        {
+          "name": "Atmospheric Lights",
+          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
+        }
+      ],
+      "duration_ms": 226250,
+      "name": "Enlightened",
+      "url": "https://open.spotify.com/track/2eOzs9ioq2suHpRsZgY0IF"
     },
     {
       "added_at": "2023-10-13 00:01:00",

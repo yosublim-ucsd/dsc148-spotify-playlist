@@ -1,12 +1,12 @@
 {
   "description": "Great songs from great people.  Enjoy music from artists you can believe in!",
-  "num_followers": 88441,
+  "num_followers": 88472,
   "original_name": "Good People Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDFmOTNkYWFlZDBhM2M0OGI1NmM2YmU4OWE0YmNiMjcyNDc3ZmMz",
+  "snapshot_id": "MCw3ZDE5MjAxNTY1YmRmMGM4MDQwYzE4ZjVjYmVjMGIwMGNkNjQxMjJh",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "The Mountain (Live from 25in24)",
+        "url": "https://open.spotify.com/album/3Kns6f8OJy1LkPvHNuppVs"
+      },
+      "artists": [
+        {
+          "name": "Jon Foreman",
+          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
+        }
+      ],
+      "duration_ms": 231375,
+      "name": "The Mountain (Live from 25in24)",
+      "url": "https://open.spotify.com/track/7ie0VFLajcWxysGPWgDQeB"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "When the Walls Come Crashing Down",
         "url": "https://open.spotify.com/album/4xaqP5u8jIbH7cTwTRZ3a8"
       },
@@ -655,22 +671,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "The Mountain (Live from 25in24)",
-        "url": "https://open.spotify.com/album/3Kns6f8OJy1LkPvHNuppVs"
-      },
-      "artists": [
-        {
-          "name": "Jon Foreman",
-          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
-        }
-      ],
-      "duration_ms": 231375,
-      "name": "The Mountain (Live from 25in24)",
-      "url": "https://open.spotify.com/track/7ie0VFLajcWxysGPWgDQeB"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "THRESHOLDS",
         "url": "https://open.spotify.com/album/5LBLcdPMnr1mwBRldKb3vs"
       },
@@ -687,22 +687,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "City of Black & White Revisited",
-        "url": "https://open.spotify.com/album/2QpByGx95I9XzccW9aNVtM"
-      },
-      "artists": [
-        {
-          "name": "Mat Kearney",
-          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
-        }
-      ],
-      "duration_ms": 225837,
-      "name": "City of Black & White",
-      "url": "https://open.spotify.com/track/33dVEqsu2V7zvCIgid8PnF"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Ain't No Grave",
         "url": "https://open.spotify.com/album/6epmqEFmOUFfBLwmMjzRdw"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 288624,
       "name": "Ain't No Grave",
       "url": "https://open.spotify.com/track/6z355fOnb6YRjK4WUQK3VF"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "City of Black & White Revisited",
+        "url": "https://open.spotify.com/album/2QpByGx95I9XzccW9aNVtM"
+      },
+      "artists": [
+        {
+          "name": "Mat Kearney",
+          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
+        }
+      ],
+      "duration_ms": 225837,
+      "name": "City of Black & White",
+      "url": "https://open.spotify.com/track/33dVEqsu2V7zvCIgid8PnF"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -931,6 +931,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/2srdHwegmNXJf9g68h5vhs"
+      },
+      "artists": [
+        {
+          "name": "Emily Brimlow",
+          "url": "https://open.spotify.com/artist/5ncA0WGi828yjhqmvHsJRj"
+        }
+      ],
+      "duration_ms": 188092,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/0mT0NsnCx7jydlJ6bAKyyK"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Broken With You",
         "url": "https://open.spotify.com/album/1WxFCGoi2aue2M1OQNKDk7"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 231346,
       "name": "Losing the Lonely",
       "url": "https://open.spotify.com/track/1C5AsyCp4hxF7qII4kOtbS"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/2srdHwegmNXJf9g68h5vhs"
-      },
-      "artists": [
-        {
-          "name": "Emily Brimlow",
-          "url": "https://open.spotify.com/artist/5ncA0WGi828yjhqmvHsJRj"
-        }
-      ],
-      "duration_ms": 188092,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/0mT0NsnCx7jydlJ6bAKyyK"
     },
     {
       "added_at": "2020-09-04 04:02:00",

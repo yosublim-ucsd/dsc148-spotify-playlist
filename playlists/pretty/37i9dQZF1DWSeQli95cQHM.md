@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 
 > Na música eletrônica underground brasileira, nos vemos no front.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,499 likes - 50 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,509 likes - 50 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 | 21 | [Benzine](https://open.spotify.com/track/5Df2OdR13Gvj8hH05VkBG0) | [Renato Cohen](https://open.spotify.com/artist/7C26wQyStqkNFW94iutvVD) | [Benzine EP](https://open.spotify.com/album/2DibufkG06qMeScycqEsXE) | 6:46 |
 | 22 | [Espinheira Santa](https://open.spotify.com/track/77vJvWKutipZ94F2QACjc2) | [Cashu](https://open.spotify.com/artist/7oNCVt3wMXXKwOQ672Ti6Q), [Mari Herzer](https://open.spotify.com/artist/3EZyY0T4MFZqjpqRODdtbw) | [Kengaral Eletrohits, Vol\. 2](https://open.spotify.com/album/3mZE3yhkIMY9dwZdJBWAPC) | 11:05 |
 | 23 | [De AK em Cima da CB1000](https://open.spotify.com/track/6fnPjo1Q1kkYoitZh2yP2U) | [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [Paredão](https://open.spotify.com/album/6OvJhMF1Fu7LEoYCpIDptq) | 4:18 |
-| 24 | [Sarrafando Em Você](https://open.spotify.com/track/6JZkMxPusCNSnC8LkqpnWD) | [Guillerrrmo](https://open.spotify.com/artist/1FdmCrzayGeU9HYI5KOrmy) | [Movimento Paralelo, Vol.1](https://open.spotify.com/album/5nf34ekw3ixtR4eZueJF76) | 4:08 |
-| 25 | [Geleia de Morango](https://open.spotify.com/track/7IwOA3TwfKMahyCvYGAujI) | [Noporn](https://open.spotify.com/artist/7h8xz8JZYUH9d2rDBnlyPQ) | [Geleia de Morango](https://open.spotify.com/album/2ELCWydR1EfR4GkBJmpFjD) | 5:49 |
+| 24 | [Geleia de Morango](https://open.spotify.com/track/7IwOA3TwfKMahyCvYGAujI) | [Noporn](https://open.spotify.com/artist/7h8xz8JZYUH9d2rDBnlyPQ) | [Geleia de Morango](https://open.spotify.com/album/2ELCWydR1EfR4GkBJmpFjD) | 5:49 |
+| 25 | [Sarrafando Em Você](https://open.spotify.com/track/6JZkMxPusCNSnC8LkqpnWD) | [Guillerrrmo](https://open.spotify.com/artist/1FdmCrzayGeU9HYI5KOrmy) | [Movimento Paralelo, Vol.1](https://open.spotify.com/album/5nf34ekw3ixtR4eZueJF76) | 4:08 |
 | 26 | [Algo 2](https://open.spotify.com/track/7JukUaZAH26NHybv468QmK) | [L\_cio](https://open.spotify.com/artist/1bp9y0lyzSPhnB6Dk8CUaW), [BLANCAh](https://open.spotify.com/artist/2UlGQzanOYozGMseJ8qBRz) | [ALGO](https://open.spotify.com/album/4lYlRgyH0HzIhB5WBiCYxw) | 5:52 |
 | 27 | [Orange Sunlight](https://open.spotify.com/track/3DkKyCC7BJViCAkirE2kMP) | [Zopelar](https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb) | [Mensagem](https://open.spotify.com/album/2TQmM3zK1XuCRLAYmcPQhb) | 4:26 |
 | 28 | [House Aprovado Pelo Governo](https://open.spotify.com/track/1n35OSWuRXkXUUMyEAIUkS) | [Pessoas Que Eu Conheço](https://open.spotify.com/artist/4nSIg6TVVkOBCeWXBBrEFD) | [Ideologia Chinesa](https://open.spotify.com/album/3WpFpwEjnpbQ59ioemok1k) | 5:23 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 | 42 | [Laiaraiá \(LOV.ini Remix\)](https://open.spotify.com/track/1t1AznXhR5rr9IKBqhMOl5) | [Henrique Portugal](https://open.spotify.com/artist/3vI8Ld2y1zCY8vvkZ8VFq5), [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk), [LOV.ini](https://open.spotify.com/artist/5E4ep2me7vGYs9nOZvlT6z) | [Laiaraiá \(Remixes\)](https://open.spotify.com/album/7nnfxrjhpD6t0lyuW7JYix) | 5:08 |
 | 43 | [Sem Sono](https://open.spotify.com/track/0tnTG94G8PnaWUUkX79zqx) | [Martinelli](https://open.spotify.com/artist/3iSJjv1yv9EwpaTIfiuJ4L) | [Sem Sono](https://open.spotify.com/album/1nHAqV2yyqPui5o8v13T5t) | 5:37 |
 | 44 | [Passo](https://open.spotify.com/track/2WORt2lp1EbXTED385XziR) | [Nelson D](https://open.spotify.com/artist/3hSRbxpRL7fJ64PepWjCof) | [Passo](https://open.spotify.com/album/4JOhes3NGK2zgGx78Pimv5) | 2:36 |
-| 45 | [Keyboard Cats](https://open.spotify.com/track/1J0ohTS2naEah8SF6wE9bO) | [Amanda Mussi](https://open.spotify.com/artist/6yoR3GxDnUclI3jI8exbvQ) | [Keyboard Cats EP](https://open.spotify.com/album/5aPc3zrMNTcnOLE72B1l8t) | 6:09 |
-| 46 | [Vou Pra Longe \(Floatin'\)](https://open.spotify.com/track/7KxarymbMmEiz8Cae7RwMZ) | [Carrot Green](https://open.spotify.com/artist/56LbkVrwiOOlCLoIPVeEhY) | [Bajolo Vol\. I](https://open.spotify.com/album/6fh8K2jIvzokVcWbr7kkhx) | 6:24 |
+| 45 | [Vou Pra Longe \(Floatin'\)](https://open.spotify.com/track/7KxarymbMmEiz8Cae7RwMZ) | [Carrot Green](https://open.spotify.com/artist/56LbkVrwiOOlCLoIPVeEhY) | [Bajolo Vol\. I](https://open.spotify.com/album/6fh8K2jIvzokVcWbr7kkhx) | 6:24 |
+| 46 | [Keyboard Cats](https://open.spotify.com/track/1J0ohTS2naEah8SF6wE9bO) | [Amanda Mussi](https://open.spotify.com/artist/6yoR3GxDnUclI3jI8exbvQ) | [Keyboard Cats EP](https://open.spotify.com/album/5aPc3zrMNTcnOLE72B1l8t) | 6:09 |
 | 47 | [Baile do Tai Tai](https://open.spotify.com/track/2NdwBjodJX5zHUdSQWfPyh) | [Jaca Beats](https://open.spotify.com/artist/0JjiErN6IoSLDRsoSCAUBD), [holandês](https://open.spotify.com/artist/34ITSPuNhuQlfKKAPAocpL) | [Conexao Riocife](https://open.spotify.com/album/6tTaBjchGgTfDQBn5Bw3bp) | 5:04 |
 | 48 | [Fixity \- Original Mix](https://open.spotify.com/track/6qLbhDQaerJfb8q9AdoP70) | [Mau Maioli](https://open.spotify.com/artist/68xQyTJpYadNytY09qeyuS) | [VA IFN 001 \- Techno Concept](https://open.spotify.com/album/4lwp9JmCU7CxpDPp1HF0L6) | 5:11 |
 | 49 | [Sobre Tum Tum Ta](https://open.spotify.com/track/52zdd6JFOv7k95Zrk1Eb46) | [Entropia\-Entalpia](https://open.spotify.com/artist/2SJ1flrpAzQqdayHjbRe2e) | [Nódulo](https://open.spotify.com/album/43JSvwecrejD1GqA0KGiWb) | 7:33 |
 | 50 | [Eu Vou Surfar Na Pista](https://open.spotify.com/track/2ZLNBOe9ytRcrHlqNrqBfL) | [Brisa Busters](https://open.spotify.com/artist/1aljmjX3dsFm1MGihqcxoP) | [V.Acina, Vol.1](https://open.spotify.com/album/7HQdcJ7vVn4peTFqTrLe54) | 6:36 |
 
-Snapshot ID: `MCw3ODhiNjJhNmQ5YTA5ZmNkNmJhMTU2MDBhNzlmY2YyYWUyOGUyNWU3`
+Snapshot ID: `MCxhMjdiMTU4YzRjMDRhOGJjN2JjYmRiOGNiMjM1NzEwMmIzODdkMjA4`

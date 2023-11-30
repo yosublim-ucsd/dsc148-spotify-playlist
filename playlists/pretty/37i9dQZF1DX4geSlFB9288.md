@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4geSlFB9288.md) - [plain]
 
 > Indie music to keep your gaming session properly soundtracked.
 
-[Spotify](https://open.spotify.com/user/spotify) - 689,173 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 689,776 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4geSlFB9288.md) - [plain]
 | 52 | [Stargazing](https://open.spotify.com/track/0VF7YLIxSQKyNiFL3X6MmN) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Chip Chrome & The Mono\-Tones \(Deluxe\)](https://open.spotify.com/album/2JyArayVlT6t3MVWLLdSwZ) | 3:37 |
 | 53 | [AMAZING](https://open.spotify.com/track/3OM6qQmdFV6uy61GIqpRtf) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:29 |
 | 54 | [Breezeblocks](https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:47 |
-| 55 | [Hey Lover!](https://open.spotify.com/track/7rC3P7tpWriaC4hYWKwGQd) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Cyclones and Hey Lover](https://open.spotify.com/album/076hhK2bCjHhQJqWY7wRh0) | 2:42 |
-| 56 | [From the Start](https://open.spotify.com/track/6BJHsLiE47Sk0wQkuppqhr) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [From the Start](https://open.spotify.com/album/5SUqRbAHrcEGeLPb38L85v) | 2:30 |
+| 55 | [From the Start](https://open.spotify.com/track/6BJHsLiE47Sk0wQkuppqhr) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [From the Start](https://open.spotify.com/album/5SUqRbAHrcEGeLPb38L85v) | 2:30 |
+| 56 | [Hey Lover!](https://open.spotify.com/track/7rC3P7tpWriaC4hYWKwGQd) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Cyclones and Hey Lover](https://open.spotify.com/album/076hhK2bCjHhQJqWY7wRh0) | 2:42 |
 | 57 | [welcome and goodbye](https://open.spotify.com/track/00RLNHc2jkEjUoCUlFgPVT) | [Dream, Ivory](https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib) | [welcome and goodbye](https://open.spotify.com/album/0hZJDoAmB6xVegy0o1eAZd) | 2:20 |
 | 58 | [EVERYTHING](https://open.spotify.com/track/19Hg1UCZaCdpHB37L7x63X) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [TEAM BABY](https://open.spotify.com/album/4x4xyLYUjyyBqKlkFT4YdY) | 4:53 |
 | 59 | [Disco](https://open.spotify.com/track/2Lumsra3kuU61wXkEKzKaK) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Disco](https://open.spotify.com/album/46LE2xR4e92aVvo1QlUiS3) | 2:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4geSlFB9288.md) - [plain]
 | 99 | [thankful](https://open.spotify.com/track/6DRCs3oOkPYa1NHdgjwHcZ) | [Meltycanon](https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC) | [Old Compilation 3](https://open.spotify.com/album/7CYCQNeHoMWXQXg9NzqTyM) | 2:26 |
 | 100 | [Set it on Fire](https://open.spotify.com/track/77vUGvFLe3au334u9yBsGC) | [Blood Cultures](https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis) | [LUNO](https://open.spotify.com/album/73kcf9EkV6b0RT4xLBmumJ) | 3:33 |
 
-Snapshot ID: `MCwxYTkzMjhmOGUwZmM1N2Y3NThmMDliMWU5ZDliYmI4ZGIyM2U1ZjMy`
+Snapshot ID: `MCxlZGJjMjc5ZWUxOTRiYjQyMmQ1NDk4NTg0ZTYxMTI5NzVkYTJjNTU1`

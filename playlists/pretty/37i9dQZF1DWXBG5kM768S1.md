@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,169 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,189 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,17 +30,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 20 | [Ka e du redd for](https://open.spotify.com/track/4QkGXxYBifaayHWGkQyLPp) | [Sigvart Dagsland](https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA), [Karoline Krüger](https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm) | [Underlig Frihet](https://open.spotify.com/album/78WsjmRDxs2VAEapfy6zxx) | 4:25 |
 | 21 | [Bestevenn](https://open.spotify.com/track/0bQLTkISNpcZ70TbGGisTA) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Bestevenn \(Bonus Version\)](https://open.spotify.com/album/7M0cXZCjiZ4tjewFs25Nwy) | 4:04 |
 | 22 | [Har En Drøm](https://open.spotify.com/track/4gxOSJI3TBLv7YK0h2HO9Q) | [Jørn Hoel](https://open.spotify.com/artist/6WGO9mdAxgwVQxui0t98DC) | [Varme Ut Av Is](https://open.spotify.com/album/0UgIhsI11cvJrrQb5iBqwp) | 3:54 |
-| 23 | [Det jeg vil ha \(fra deg\)](https://open.spotify.com/track/7FzPmvCXC8CqwP9AkIkPA9) | [Frida Ånnevik](https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2) | [Det jeg vil ha \(fra deg\)](https://open.spotify.com/album/0oRXCrnDAsKWQg6XoOvf0i) | 3:23 |
-| 24 | [Til deg \- Single Version](https://open.spotify.com/track/7bD91vOzk9L2gKMSkdSQy7) | [Marthe Wang](https://open.spotify.com/artist/1C5w8BJZv0qoTGCFiVlfyZ) | [Til deg \(Single Version\)](https://open.spotify.com/album/1dZ6qeWJTDkOPO3ZECRvd2) | 3:43 |
+| 23 | [Til deg \- Single Version](https://open.spotify.com/track/7bD91vOzk9L2gKMSkdSQy7) | [Marthe Wang](https://open.spotify.com/artist/1C5w8BJZv0qoTGCFiVlfyZ) | [Til deg \(Single Version\)](https://open.spotify.com/album/1dZ6qeWJTDkOPO3ZECRvd2) | 3:43 |
+| 24 | [Det jeg vil ha \(fra deg\)](https://open.spotify.com/track/7FzPmvCXC8CqwP9AkIkPA9) | [Frida Ånnevik](https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2) | [Det jeg vil ha \(fra deg\)](https://open.spotify.com/album/0oRXCrnDAsKWQg6XoOvf0i) | 3:23 |
 | 25 | [Evig Eies \(Kun Et Dårlig Rykte\)](https://open.spotify.com/track/25dpPTPkyVqtdOqk5Vw7o9) | [Henning Kvitnes](https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6) | [Evig Eies \(Kun Et Dårlig Rykte\)](https://open.spotify.com/album/6pBw9UnwWxVJMw3HXjzLvU) | 4:13 |
 | 26 | [Jeg Vet](https://open.spotify.com/track/3ZTHN0y3NwiciPH3CpfXcL) | [Siri Nilsen](https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM) | [Alle Snakker Sant](https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3) | 3:43 |
 | 27 | [Hva kjærlighet er](https://open.spotify.com/track/5V6QuMxE9efXTyUQYZWy38) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Duell](https://open.spotify.com/album/14wYWC5D0e7HuJI9oDjsuF) | 4:14 |
 | 28 | [Himmelblå](https://open.spotify.com/track/3Q6UOOYHFc4ahiGbYdru05) | [Inge Bremnes](https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB) | [Har det no å si](https://open.spotify.com/album/3E8We6cjXdqmDnvMTQMmwd) | 3:45 |
 | 29 | [Bru over mørke bølger](https://open.spotify.com/track/0BX8d3ykK2rTOI3W5ZMdaf) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Bru over mørke bølger](https://open.spotify.com/album/6XUfS1htXyTvLsxZDKLyY4) | 4:59 |
 | 30 | [Tårnet](https://open.spotify.com/track/6JmZt1IQx2gzytm34xdyDQ) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta) | [Gressholmen](https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9) | 3:51 |
-| 31 | [Kjærlighetsvisa](https://open.spotify.com/track/5RWXXhXRGhw7BHcVdwLpEs) | [Halvdan Sivertsen](https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY) | [Hilsen Halvdan](https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy) | 3:39 |
-| 32 | [På vei](https://open.spotify.com/track/0lRtPuJoG47Mhm6a69Uewk) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [På vei](https://open.spotify.com/album/3hMvFCykxO3CCOlk0stETD) | 4:39 |
-| 33 | [Alle Snakker Sant](https://open.spotify.com/track/34gxnmqg4Nbzziv265qul7) | [Siri Nilsen](https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM) | [Alle Snakker Sant](https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3) | 2:48 |
+| 31 | [På vei](https://open.spotify.com/track/0lRtPuJoG47Mhm6a69Uewk) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [På vei](https://open.spotify.com/album/3hMvFCykxO3CCOlk0stETD) | 4:39 |
+| 32 | [Alle Snakker Sant](https://open.spotify.com/track/34gxnmqg4Nbzziv265qul7) | [Siri Nilsen](https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM) | [Alle Snakker Sant](https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3) | 2:48 |
+| 33 | [Kjærlighetsvisa](https://open.spotify.com/track/5RWXXhXRGhw7BHcVdwLpEs) | [Halvdan Sivertsen](https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY) | [Hilsen Halvdan](https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy) | 3:39 |
 | 34 | [En Spennende Dag for Josefine](https://open.spotify.com/track/6TOeA3fUURRV9hbRd2dpXa) | [Inger Lise Rypdal](https://open.spotify.com/artist/1lvXjNoyEprcUc0Cb2N0QH) | [Fra 4 Til 70](https://open.spotify.com/album/1HtbTHXEUz2MSQg4cCWQtP) | 3:42 |
 | 35 | [Jovial](https://open.spotify.com/track/79A8w2MEID8RIM6rzgtrtR) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Jovial](https://open.spotify.com/album/55G0O9SlnAKfWtbG6l2w8A) | 2:50 |
 | 36 | [Under deg](https://open.spotify.com/track/7bCWY2qgzjKMhTc0Tr2IO0) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Under deg](https://open.spotify.com/album/7aCZa7V8vkhBKJ1Fbfe7el) | 4:04 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 45 | [Du ga mæ viljestyrke](https://open.spotify.com/track/2CmPtitvLJxUscTLe5FntO) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Du ga mæ viljestyrke](https://open.spotify.com/album/1kw8X6Ma21t4pvFUQgdezP) | 3:38 |
 | 46 | [Ved Sida Av Deg](https://open.spotify.com/track/5kebMyBE7ZTMnHZh6RaoSm) | [Frida Ånnevik](https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2) | [Flyge Fra](https://open.spotify.com/album/3MB6vxKquCpTWS0qd3aEX9) | 4:36 |
 | 47 | [Vår Beste Dag](https://open.spotify.com/track/4EtXjwdVdnv4v2glKQBloT) | [Erik Bye](https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ) | [Støv Og Stjerner](https://open.spotify.com/album/0NpGhivBGHLf1nnoLSCZ1X) | 3:01 |
-| 48 | [Heile Livet](https://open.spotify.com/track/0JqKsXLWxANEsih1Vsszgr) | [Terje Tysland](https://open.spotify.com/artist/3DiSZJGP4rtIXmqpRlFca7) | [Gutta På By\`n](https://open.spotify.com/album/45mwIOTPBgzMo0UW5EXrZF) | 5:50 |
-| 49 | [Den Fyrste Song](https://open.spotify.com/track/2enwSZWWEhMxCoGaWke2Qe) | [Herborg Kråkevik](https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5) | [Kråkeviks Songbok](https://open.spotify.com/album/5SdOIn61IrYoS5xg5sejzf) | 2:58 |
+| 48 | [Den Fyrste Song](https://open.spotify.com/track/2enwSZWWEhMxCoGaWke2Qe) | [Herborg Kråkevik](https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5) | [Kråkeviks Songbok](https://open.spotify.com/album/5SdOIn61IrYoS5xg5sejzf) | 2:58 |
+| 49 | [Heile Livet](https://open.spotify.com/track/0JqKsXLWxANEsih1Vsszgr) | [Terje Tysland](https://open.spotify.com/artist/3DiSZJGP4rtIXmqpRlFca7) | [Gutta På By\`n](https://open.spotify.com/album/45mwIOTPBgzMo0UW5EXrZF) | 5:50 |
 | 50 | [Vår beste dag](https://open.spotify.com/track/2RssYUkYzmEtvxmUX0C19A) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Vår beste dag](https://open.spotify.com/album/72dAuYKSanaCXmsLzS7eUN) | 3:22 |
 
-Snapshot ID: `MCxkMzA0Yjg2YjllOTgxYTJhZWFiNjFjOTE2MzNjNjY3ZTlkODEwYWRl`
+Snapshot ID: `MCxmMGJiODMxOWRiYWEyNDRlZjc0Yjg4ODU1YzY0NWZmODU1MGQ2MGZi`

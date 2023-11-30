@@ -4,7 +4,7 @@
 
 > Qué bonito se siente el amor\. 💘
 
-255 songs - 14 hr 55 min
+256 songs - 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,7 +197,7 @@
 | [SI ES AMOR](https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [@dannocean](https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA) | 3:32 | 2023-01-06 |  |
 | [Si Me Dices Que Sí](https://open.spotify.com/track/56Ta1O7Jxxpjnc6cWdDKUo) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Si Me Dices Que Sí](https://open.spotify.com/album/2U2tXCZs8j0H4NEvhfe4zV) | 3:31 | 2021-12-06 | 2023-03-18 |
 | [Si Tu Amor No Vuelve](https://open.spotify.com/track/1Q2uBll5mMW8BY4T9XSrCo) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Si Tu Amor No Vuelve](https://open.spotify.com/album/4yPrBID40hUMocphha5lr7) | 3:21 | 2021-12-06 | 2023-01-07 |
-| [Si Tu No Bailas Conmigo](https://open.spotify.com/track/4TOe4WfqNiBwuS0Wi63xc5) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [La Llave De Mi Corazon](https://open.spotify.com/album/5OBRA1jxjtshwdhCOGgZAG) | 2:42 | 2021-12-06 |  |
+| [Si Tu No Bailas Conmigo](https://open.spotify.com/track/4TOe4WfqNiBwuS0Wi63xc5) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [La Llave De Mi Corazon](https://open.spotify.com/album/5OBRA1jxjtshwdhCOGgZAG) | 2:42 | 2021-12-06 | 2023-11-30 |
 | [Si Tú La Quieres](https://open.spotify.com/track/35qwAQ3oZeKAMhR3hCV9IM) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Si Tú La Quieres](https://open.spotify.com/album/7Hl7NKHiik1ckE2SI21RlU) | 3:44 | 2021-12-06 | 2023-10-14 |
 | [Si Tú La Quieres \- Versión Balada](https://open.spotify.com/track/3c5KjQlxwrWBf7oBN8nU2k) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [En Tus Planes](https://open.spotify.com/album/4mFgW04qaWGcdhimbOZO8F) | 4:52 | 2021-12-06 | 2022-11-13 |
 | [Si Tú Me Quieres](https://open.spotify.com/track/6EjZfW6C5msXQNaf1kquu7) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Si Tú Me Quieres](https://open.spotify.com/album/74rEKU2G8oF2VRMjd14IcY) | 3:24 | 2023-04-21 |  |
@@ -261,6 +261,7 @@
 | [Yo También \(feat\. Marc Anthony\)](https://open.spotify.com/track/5A9AILetvfQg3LHyX5X0pV) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 5:06 | 2021-12-06 | 2023-10-14 |
 | [yo tuya, tú mío](https://open.spotify.com/track/6rqalHH9LASV0IMcDl77uY) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [MILAMORES](https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri) | 3:51 | 2023-11-03 |  |
 | [YOKO](https://open.spotify.com/track/6dlZryuz7NIz20faRoZV4k) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [YOKO](https://open.spotify.com/album/4hIrXHdSBr4iXJAsyq3Fd0) | 3:27 | 2023-05-05 | 2023-10-14 |
+| [Ángel](https://open.spotify.com/track/1cLl605RLNVbleRjNjZZz2) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Mostly Fresh](https://open.spotify.com/album/53phqGvLGYTs2BrqyF5YvR) | 2:47 | 2023-11-24 |  |
 | [Índigo](https://open.spotify.com/track/6i28Cxd4CUiHmcowzQW38w) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [De Adentro Pa Afuera](https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2) | 3:34 | 2023-03-17 |  |
 | [🦋 MARIPOSAS 🦋](https://open.spotify.com/track/4FJHG1aW704Cq66OxuyOrq) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [🦋 MARIPOSAS 🦋](https://open.spotify.com/album/21lNO9EMMnQMQsXytV9ORY) | 2:42 | 2023-09-01 |  |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Rimas argentinas\. Foto: Trueno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,052 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,152 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 19 | [Mercedes](https://open.spotify.com/track/3qsDh1KaRx9fEdbL96sucP) | [Zica](https://open.spotify.com/artist/46tb2ZXhiEO0R42JLK1Qzr) | [La Cara Del Barrio](https://open.spotify.com/album/0MwS2XPzScfWDXv0eyqieK) | 2:41 |
 | 20 | [Richy Boy](https://open.spotify.com/track/4ymyKoEPJmHyxjQmECBZSs) | [MP El Juvenil](https://open.spotify.com/artist/15vXM78j1GTjXVKzk8i5P3) | [Richy Boy](https://open.spotify.com/album/2Yx4vSgssvJu3qZR09iEH4) | 1:42 |
 | 21 | [CANGURO](https://open.spotify.com/track/4wyNKAZe82BNlp2lHiR1FX) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [CANGURO](https://open.spotify.com/album/7EFoBWXYfQ6QmA5wsxjl4s) | 3:16 |
-| 22 | [Fe en el caos](https://open.spotify.com/track/2O1LF9Tatpg2nz435MCuWH) | [Santoz](https://open.spotify.com/artist/3TBQtYdNFCgig6ZrFUJkLx), [WHO'SNEAKY](https://open.spotify.com/artist/0PR49uPdrblEFjaqJUMq4B) | [Distopya](https://open.spotify.com/album/13etVEwAt5iRwXXYa3vaao) | 2:44 |
+| 22 | [Fe en el caos](https://open.spotify.com/track/2O1LF9Tatpg2nz435MCuWH) | [WHO'SNEAKY](https://open.spotify.com/artist/0PR49uPdrblEFjaqJUMq4B), [Santoz](https://open.spotify.com/artist/3TBQtYdNFCgig6ZrFUJkLx) | [Distopya](https://open.spotify.com/album/13etVEwAt5iRwXXYa3vaao) | 2:44 |
 | 23 | [Ideas En Mi Cabeza](https://open.spotify.com/track/5Vh2tE1Bx8UoYLBgL4n07V) | [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND) | [ILL](https://open.spotify.com/album/7zr7be3J7DNFsZPw1m1BtY) | 2:53 |
 | 24 | [JOSEAR](https://open.spotify.com/track/0kqVbc8GrAUQo6zAee7CP1) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl) | [JOSEAR](https://open.spotify.com/album/2agTC7zjgkT8yAxZ9F9ceG) | 3:47 |
 | 25 | [Alas Rotas](https://open.spotify.com/track/4BjBOHYl0ySaVyfGMrAnWc) | [Deyco](https://open.spotify.com/artist/7bp6cKqrM7NIxhGxDKY0Lp) | [Alas Rotas](https://open.spotify.com/album/6Zii4FrSvlwpqI984JXuHI) | 2:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 99 | [Sucio](https://open.spotify.com/track/02sz23KvVaBWsgtWAzZChM) | [Socio](https://open.spotify.com/artist/3UppqcmU2AFZ0YtWTYfxeD), [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND) | [Para La Envidia](https://open.spotify.com/album/7uvrUI2nKiAtVxBE5zCzjx) | 4:35 |
 | 100 | [Familia](https://open.spotify.com/track/44QmE5ujaF7M96CeJNGenk) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G) | [Familia](https://open.spotify.com/album/6PQv6xBgadgMfa6vx0rphw) | 3:46 |
 
-Snapshot ID: `MCxkZjllN2M2ZmU0MmMwYzc0ODU1NDY3NmI3NmFiZmUzYzE2YzJjNjM1`
+Snapshot ID: `MCw4NmQxZDQ1NTI5ZDg4MzNkY2Y2MDlmNGFiNzJiNjYzMTA2MzJhMzA5`

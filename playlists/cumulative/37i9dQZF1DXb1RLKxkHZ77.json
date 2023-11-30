@@ -20,10 +20,28 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 210801,
       "name": "Ada",
       "url": "https://open.spotify.com/track/483I1QLE05iH81ReYgF2BK"
+    },
+    {
+      "album": {
+        "name": "Aduh",
+        "url": "https://open.spotify.com/album/2vz25rEFGA1ziNgy70BJus"
+      },
+      "artists": [
+        {
+          "name": "MALIQ & D'Essentials",
+          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196897,
+      "name": "Aduh",
+      "url": "https://open.spotify.com/track/4hqNaY8uNHrPzW4l3ulDSo"
     },
     {
       "album": {
@@ -218,6 +236,24 @@
       "duration_ms": 336000,
       "name": "Ali Baba",
       "url": "https://open.spotify.com/track/599l10xqI1HMzoEP7gNoWZ"
+    },
+    {
+      "album": {
+        "name": "Ampun",
+        "url": "https://open.spotify.com/album/1g7lMDVjaDFEbuiAIB6rse"
+      },
+      "artists": [
+        {
+          "name": "Azlan & The Typewriter",
+          "url": "https://open.spotify.com/artist/18veyTkB9uyo37bqh2YGTm"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "Ampun",
+      "url": "https://open.spotify.com/track/2ZDXgMWQCKiQbti8GkH6rd"
     },
     {
       "album": {
@@ -494,7 +530,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 260805,
       "name": "Belakang Tabir",
       "url": "https://open.spotify.com/track/6RVcLLQTOoh0ghmrhNAWQ5"
@@ -570,7 +606,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 223019,
       "name": "Berat Hati",
       "url": "https://open.spotify.com/track/4Lfav8nWU9ZcQ8MV9IcGKM"
@@ -927,6 +963,24 @@
     },
     {
       "album": {
+        "name": "Bunga Hati",
+        "url": "https://open.spotify.com/album/4F4XK6lkrHveOTKSGMeGF4"
+      },
+      "artists": [
+        {
+          "name": "Salma Salsabil",
+          "url": "https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173720,
+      "name": "Bunga Hati",
+      "url": "https://open.spotify.com/track/4AfhlJghKIWkXa8sfFEXVd"
+    },
+    {
+      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/1jVXtJtc387B4li6XbeAa2"
       },
@@ -1044,7 +1098,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 224514,
       "name": "Cerita Kita",
       "url": "https://open.spotify.com/track/4IPqIHMpiWO3zuYdcEHdsZ"
@@ -1208,6 +1262,24 @@
     {
       "album": {
         "name": "Cukup",
+        "url": "https://open.spotify.com/album/3yhx3n2NSZiuRMAj6lJfRW"
+      },
+      "artists": [
+        {
+          "name": "Fieya Julia",
+          "url": "https://open.spotify.com/artist/1jSD4QWACN76zckZySJWVA"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249523,
+      "name": "Cukup",
+      "url": "https://open.spotify.com/track/4ckN01pAGtUBI3hyyieGgz"
+    },
+    {
+      "album": {
+        "name": "Cukup",
         "url": "https://open.spotify.com/album/794JGNtaDH2qLOmd72w4kr"
       },
       "artists": [
@@ -1225,6 +1297,24 @@
     },
     {
       "album": {
+        "name": "A.R",
+        "url": "https://open.spotify.com/album/5Jearm6TNWQC1QF2pu7ojR"
+      },
+      "artists": [
+        {
+          "name": "Aisha Retno",
+          "url": "https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214235,
+      "name": "Cukuplah",
+      "url": "https://open.spotify.com/track/67Waz67okfBOlMVpg1UitI"
+    },
+    {
+      "album": {
         "name": "INI AKU",
         "url": "https://open.spotify.com/album/429fzbnYOVktk7X0sOLxiU"
       },
@@ -1236,7 +1326,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 159996,
       "name": "Dah Bagi",
       "url": "https://open.spotify.com/track/0M5s6bACgTh9nTRO6hR9oE"
@@ -5186,7 +5276,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 203059,
       "name": "Sedih Hati",
       "url": "https://open.spotify.com/track/5wBFuNcO53iv8y1yA96Dqx"
@@ -5382,6 +5472,24 @@
       "duration_ms": 225500,
       "name": "Sepi Sekuntum Mawar Merah",
       "url": "https://open.spotify.com/track/5ZJmUtcIlpIdxiruIENBO7"
+    },
+    {
+      "album": {
+        "name": "Seribu Tahun",
+        "url": "https://open.spotify.com/album/0EnV3HENUUFrA4958YWDCv"
+      },
+      "artists": [
+        {
+          "name": "Jaz",
+          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215480,
+      "name": "Seribu Tahun",
+      "url": "https://open.spotify.com/track/1Wo3RhG2UJ9dSUXBdh1e9p"
     },
     {
       "album": {
@@ -5703,6 +5811,24 @@
     },
     {
       "album": {
+        "name": "Tak Bisa Bilang",
+        "url": "https://open.spotify.com/album/6PWcf1Zb6nOjN5XJFIs1gH"
+      },
+      "artists": [
+        {
+          "name": "Awdella",
+          "url": "https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249336,
+      "name": "Tak Bisa Bilang",
+      "url": "https://open.spotify.com/track/2rNMr1l3vFvJcIJh59QVLg"
+    },
+    {
+      "album": {
         "name": "Tak Dianggap",
         "url": "https://open.spotify.com/album/4gLQxElbTHU36TbmckWS0j"
       },
@@ -5928,7 +6054,7 @@
       ],
       "date_added": "2023-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 165110,
       "name": "Tango",
       "url": "https://open.spotify.com/track/2SH2Xx17dRLZWwASFb9bKx"

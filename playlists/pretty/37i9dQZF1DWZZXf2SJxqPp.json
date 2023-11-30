@@ -1,12 +1,12 @@
 {
   "description": "Musiquita riqui para chillear y echarla junto a la piscina.",
-  "num_followers": 130578,
+  "num_followers": 130588,
   "original_name": "\u00a1A la Alberca!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzcxZjQ4ZDgyMTlmZTcwYmJlNTAxYzExMGU1MTgzM2U4ZmJiNGI2",
+  "snapshot_id": "MCxhMzYxMDVlZGY2MzYzYzkwNjJkZTU4ZjM4NGQ3ZDg5MzZmYzAyYTI3",
   "tracks": [
     {
       "added_at": "2023-08-14 14:58:41",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Flash",
+        "url": "https://open.spotify.com/album/5ydGen2aXGjy4rawJIKhe5"
+      },
+      "artists": [
+        {
+          "name": "Lewis OfMan",
+          "url": "https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg"
+        }
+      ],
+      "duration_ms": 179417,
+      "name": "Flash",
+      "url": "https://open.spotify.com/track/52d8baQxvV3AkHcAyXCkkO"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Rita Lee & Roberto \u2013 Classix Remix Vol. l",
         "url": "https://open.spotify.com/album/1dmsWqBXFAODlZHUyDCFZm"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 195840,
       "name": "Mania De Voc\u00ea - Dubdogz & Watzgood Remix / Radio Edit",
       "url": "https://open.spotify.com/track/6oxlS3jlN3aVslynpnCEe5"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Flash",
-        "url": "https://open.spotify.com/album/5ydGen2aXGjy4rawJIKhe5"
-      },
-      "artists": [
-        {
-          "name": "Lewis OfMan",
-          "url": "https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg"
-        }
-      ],
-      "duration_ms": 179417,
-      "name": "Flash",
-      "url": "https://open.spotify.com/track/52d8baQxvV3AkHcAyXCkkO"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Burnt Orange",
-        "url": "https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4"
-      },
-      "artists": [
-        {
-          "name": "Elkka",
-          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
-        }
-      ],
-      "duration_ms": 271475,
-      "name": "Burnt Orange - Edit",
-      "url": "https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "How can I",
         "url": "https://open.spotify.com/album/7mUyZcmorwXzHxCJZNxXKD"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 245804,
       "name": "Like this",
       "url": "https://open.spotify.com/track/7pY3HE16Ir4ZFTEOmosP57"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Burnt Orange",
+        "url": "https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        }
+      ],
+      "duration_ms": 271475,
+      "name": "Burnt Orange - Edit",
+      "url": "https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Passion (feat. Nile Rodgers)",
-        "url": "https://open.spotify.com/album/3PPX05eUVd7M3SBnU3Ev5I"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        }
-      ],
-      "duration_ms": 221135,
-      "name": "Passion (feat. Nile Rodgers)",
-      "url": "https://open.spotify.com/track/7jtdG988aYR7IkFObSWfJe"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Topical Dancer",
         "url": "https://open.spotify.com/album/4ivk3u8J7qg7YoWUZlnGNz"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 226253,
       "name": "Ceci n'est pas un clich\u00e9",
       "url": "https://open.spotify.com/track/1usZqtTrEPNm8gvn1vN4T8"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Passion (feat. Nile Rodgers)",
+        "url": "https://open.spotify.com/album/3PPX05eUVd7M3SBnU3Ev5I"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "duration_ms": 221135,
+      "name": "Passion (feat. Nile Rodgers)",
+      "url": "https://open.spotify.com/track/7jtdG988aYR7IkFObSWfJe"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "It's alright",
-        "url": "https://open.spotify.com/album/7cWCWMMAcUGHDEfcMgCJML"
-      },
-      "artists": [
-        {
-          "name": "Goose Groovy",
-          "url": "https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA"
-        }
-      ],
-      "duration_ms": 196676,
-      "name": "It's alright",
-      "url": "https://open.spotify.com/track/4S1ApI9K5p6mAW1aKQ6f9d"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "\u00c7a fait 2x plus de bien",
         "url": "https://open.spotify.com/album/5v03jp3rrC4R0AVFlMsMAE"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 136618,
       "name": "Rain Check",
       "url": "https://open.spotify.com/track/0qSAag81S96PZ38BBQlk7B"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "It's alright",
+        "url": "https://open.spotify.com/album/7cWCWMMAcUGHDEfcMgCJML"
+      },
+      "artists": [
+        {
+          "name": "Goose Groovy",
+          "url": "https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA"
+        }
+      ],
+      "duration_ms": 196676,
+      "name": "It's alright",
+      "url": "https://open.spotify.com/track/4S1ApI9K5p6mAW1aKQ6f9d"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Du rivage",
-        "url": "https://open.spotify.com/album/1RRsys1mwPSPsA0qbWHIWD"
-      },
-      "artists": [
-        {
-          "name": "Weekend Affair",
-          "url": "https://open.spotify.com/artist/0dZXa7OgcOzv3tNUagbKb7"
-        }
-      ],
-      "duration_ms": 214733,
-      "name": "Descends",
-      "url": "https://open.spotify.com/track/0z5fkd9sWqGpQd6cr8y0dH"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/2MxDGKoBMLeiwyLMGxGmlK"
       },
@@ -1435,22 +1419,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Beige 70 (Domenique Dumont Bilingual Remix)",
-        "url": "https://open.spotify.com/album/2cQynjKHiS66OzKPm7zUox"
+        "name": "Du rivage",
+        "url": "https://open.spotify.com/album/1RRsys1mwPSPsA0qbWHIWD"
       },
       "artists": [
         {
-          "name": "Cola Boyy",
-          "url": "https://open.spotify.com/artist/6CZN3MHeeEXh5PxKZivIa8"
-        },
-        {
-          "name": "Domenique Dumont",
-          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
+          "name": "Weekend Affair",
+          "url": "https://open.spotify.com/artist/0dZXa7OgcOzv3tNUagbKb7"
         }
       ],
-      "duration_ms": 262019,
-      "name": "Beige 70 - Domenique Dumont Bilingual Remix",
-      "url": "https://open.spotify.com/track/1mslMFJL31XTXZG92ip11I"
+      "duration_ms": 214733,
+      "name": "Descends",
+      "url": "https://open.spotify.com/track/0z5fkd9sWqGpQd6cr8y0dH"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1471,6 +1451,26 @@
       "duration_ms": 311950,
       "name": "Don't Sing (Polo & Pan Remix)",
       "url": "https://open.spotify.com/track/3e4OoM7ltrDn63xcZccpj1"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Beige 70 (Domenique Dumont Bilingual Remix)",
+        "url": "https://open.spotify.com/album/2cQynjKHiS66OzKPm7zUox"
+      },
+      "artists": [
+        {
+          "name": "Cola Boyy",
+          "url": "https://open.spotify.com/artist/6CZN3MHeeEXh5PxKZivIa8"
+        },
+        {
+          "name": "Domenique Dumont",
+          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
+        }
+      ],
+      "duration_ms": 262019,
+      "name": "Beige 70 - Domenique Dumont Bilingual Remix",
+      "url": "https://open.spotify.com/track/1mslMFJL31XTXZG92ip11I"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "I Wanna Know What Love Is",
+        "url": "https://open.spotify.com/album/4YMlkKFWml2zbGExGt7i5X"
+      },
+      "artists": [
+        {
+          "name": "The Prince Karma",
+          "url": "https://open.spotify.com/artist/6ew7qRw24oov125Oly8pFD"
+        }
+      ],
+      "duration_ms": 171775,
+      "name": "I Wanna Know What Love Is",
+      "url": "https://open.spotify.com/track/3aSz3Sbkueu1yGcnB5BlYd"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Voodoo? (Lazywax Remix)",
         "url": "https://open.spotify.com/album/4Lbd1wUo222I65CLuxYEj9"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 386443,
       "name": "Voodoo? - Lazywax Remix",
       "url": "https://open.spotify.com/track/2wHeYDrniYngp3did3McYD"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "I Wanna Know What Love Is",
-        "url": "https://open.spotify.com/album/4YMlkKFWml2zbGExGt7i5X"
-      },
-      "artists": [
-        {
-          "name": "The Prince Karma",
-          "url": "https://open.spotify.com/artist/6ew7qRw24oov125Oly8pFD"
-        }
-      ],
-      "duration_ms": 171775,
-      "name": "I Wanna Know What Love Is",
-      "url": "https://open.spotify.com/track/3aSz3Sbkueu1yGcnB5BlYd"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Isla Mater",
-        "url": "https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D"
-      },
-      "artists": [
-        {
-          "name": "Connie Isla",
-          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
-        }
-      ],
-      "duration_ms": 191428,
-      "name": "Fugaz",
-      "url": "https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Lindstrom & Prins Thomas",
         "url": "https://open.spotify.com/album/0wjx77A92ow66hxXmwapcM"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 229386,
       "name": "Boney M Down",
       "url": "https://open.spotify.com/track/4o4lNCu3RYVl7B9BB3YEzF"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Isla Mater",
+        "url": "https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D"
+      },
+      "artists": [
+        {
+          "name": "Connie Isla",
+          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
+        }
+      ],
+      "duration_ms": 191428,
+      "name": "Fugaz",
+      "url": "https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1799,18 +1799,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Girl",
-        "url": "https://open.spotify.com/album/7y7jHMrvSDYruXa2oDerSG"
+        "name": "The Universe",
+        "url": "https://open.spotify.com/album/2JKrj31ZTIjy8voQ7azDzC"
       },
       "artists": [
         {
-          "name": "Tekkla",
-          "url": "https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz"
+          "name": "R\u00f3is\u00edn Murphy",
+          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
+        },
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
         }
       ],
-      "duration_ms": 451362,
-      "name": "Girl",
-      "url": "https://open.spotify.com/track/5jcJHljcjmZckFRIG6PUHq"
+      "duration_ms": 271112,
+      "name": "CooCool",
+      "url": "https://open.spotify.com/track/6NRNXenSNtuo5vVkuAq7EN"
     }
   ],
   "unique_name": "\u00a1A la Alberca!",

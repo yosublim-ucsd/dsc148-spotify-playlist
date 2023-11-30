@@ -4,7 +4,7 @@
 
 > Good Vibes only mit Latin, Afrobeats, Hip\-Hop und mehr 🔥🔥🔥
 
-168 songs - 8 hr 12 min
+170 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Coming Your Way \(with Anne\-Marie & Becky G\)](https://open.spotify.com/track/3YWdfXQwfPh8qGhXdiXPHh) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Coming Your Way \(with Anne\-Marie & Becky G\)](https://open.spotify.com/album/1PHt6K4kjdLUkrzA6QPJfg) | 2:25 | 2023-08-23 | 2023-10-19 |
 | [Copa Vacía](https://open.spotify.com/track/2iVgM5C7m1G4CJGbms301G) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Copa Vacía](https://open.spotify.com/album/4qtiO9UGqajxnKC0z0Mxn7) | 2:53 | 2023-07-26 | 2023-09-06 |
 | [Copines](https://open.spotify.com/track/1Bhm5HNO1cq8olDbBmokyL) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [NAKAMURA](https://open.spotify.com/album/3jqQFIXUakuDXdhFVvI7Ko) | 2:51 | 2023-07-26 |  |
-| [cross my heart](https://open.spotify.com/track/4yJ1fD1LvIVtTDOu4NyKLU) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [cross my heart](https://open.spotify.com/album/1MpZGsYzbDWKLwfJOijcVA) | 2:26 | 2023-09-30 |  |
+| [cross my heart](https://open.spotify.com/track/3nLSxpwZrU4ugAMVxYOHJe) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [cross my heart](https://open.spotify.com/album/4NK2abDnkV5FqI0q32DLL9) | 2:26 | 2023-11-17 |  |
+| [cross my heart](https://open.spotify.com/track/4yJ1fD1LvIVtTDOu4NyKLU) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [cross my heart](https://open.spotify.com/album/1MpZGsYzbDWKLwfJOijcVA) | 2:26 | 2023-09-30 | 2023-11-30 |
 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-08-23 | 2023-09-09 |
 | [Dem Time Deh](https://open.spotify.com/track/3WWCU2F78Mv0sOsWcVG3bf) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Dem Time Deh](https://open.spotify.com/album/1QeOEm9n7zYsIqHvg0KRY6) | 2:47 | 2023-10-27 |  |
 | [Diarabi](https://open.spotify.com/track/1BuOKZA8fokaiEVqBkIHF1) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [Dozo](https://open.spotify.com/album/6AtO14RzdM18MZyWHvoH26) | 3:06 | 2023-10-27 |  |
@@ -75,7 +76,8 @@
 | [Hässlich](https://open.spotify.com/track/3an1JVi8OsE0aG6dMS4Pes) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Schwarzes Herz](https://open.spotify.com/album/0Xsdw4O63MRbnZn81z7Uws) | 2:16 | 2023-09-05 |  |
 | [I Believe In Love Again](https://open.spotify.com/track/4fZ9WECee9p7FEWOUP03jD) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [I Believe In Love Again](https://open.spotify.com/album/4j8paHpWXq0sgm5jcWl84R) | 2:56 | 2023-11-17 |  |
 | [If It's Lovin' That You Want](https://open.spotify.com/track/4x2rgtSFOI4hRvEvDj02KP) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Music Of The Sun](https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz) | 3:28 | 2023-09-30 |  |
-| [if u think i'm pretty](https://open.spotify.com/track/3RWl1dP90FXmZDUeIAO20j) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [if u think i'm pretty](https://open.spotify.com/album/6qGsOOm1b2ZwG58fQp617s) | 2:08 | 2023-11-08 |  |
+| [if u think i'm pretty](https://open.spotify.com/track/34Yl756FwYuZldE9xnshj5) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [if u think i'm pretty](https://open.spotify.com/album/4bH2fufFWKIdtVbOI8em1u) | 2:08 | 2023-11-17 |  |
+| [if u think i'm pretty](https://open.spotify.com/track/3RWl1dP90FXmZDUeIAO20j) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [if u think i'm pretty](https://open.spotify.com/album/6qGsOOm1b2ZwG58fQp617s) | 2:08 | 2023-11-08 | 2023-11-30 |
 | [In The City](https://open.spotify.com/track/3xY5aYJcdvZX9xQxNd02ku) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The City](https://open.spotify.com/album/4yb3RB7teZSVscBmOoDWvT) | 2:56 | 2023-10-27 |  |
 | [INTOXYCATED \(feat\. Dave\)](https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [INTOXYCATED \(feat\. Dave\)](https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV) | 3:32 | 2023-07-26 | 2023-08-31 |
 | [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 | 2023-10-18 |  |

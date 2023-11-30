@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QUXSrhM7mI.md) - [plain]
 
 > The soundtrack to lazing around.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,757 likes - 65 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,021 likes - 65 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QUXSrhM7mI.md) - [plain]
 | 59 | [Mon Soleil \- from "Emily in Paris" Soundtrack](https://open.spotify.com/track/3jJ9djWzDlQnqDd7vTZs9K) | [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn) | [Mon Soleil \(from "Emily in Paris" Soundtrack\)](https://open.spotify.com/album/6HoFsUfW1RX6nCKntCkiHu) | 3:28 |
 | 60 | [sunny day](https://open.spotify.com/track/7dA3NRsBnVKtQZgjR5Lzf8) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [summer camp](https://open.spotify.com/album/4mO5hcuCZYh8TyVgUjkIvi) | 2:52 |
 | 61 | [Alright](https://open.spotify.com/track/0zhtsgZpLGeBNQ4MvBV5c5) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Alright](https://open.spotify.com/album/2GJCsJ8mn64XEQbss1WRMJ) | 2:52 |
-| 62 | [17](https://open.spotify.com/track/5kxV0Tv6pbddmqqKJvlNtS) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Silence Between Songs](https://open.spotify.com/album/0Q0rJ81u7O4EFCpqkcwJJ2) | 3:36 |
-| 63 | [Amelie](https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:19 |
+| 62 | [Amelie](https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:19 |
+| 63 | [17](https://open.spotify.com/track/5kxV0Tv6pbddmqqKJvlNtS) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Silence Between Songs](https://open.spotify.com/album/0Q0rJ81u7O4EFCpqkcwJJ2) | 3:36 |
 | 64 | [Fall Into Me](https://open.spotify.com/track/7Lv78wiIJcKgND9Zi7AIOt) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Fall Into Me](https://open.spotify.com/album/6nRIGu1lglm6SZC3oG3L4l) | 3:46 |
 | 65 | [Say My Name \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2xbuycY0MolcTZGENc4PuK) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Spotify Singles](https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE) | 4:27 |
 
-Snapshot ID: `MCw1ZDhkMDRjMjZlZjljZjM5MGRlMTU2YzlhOTA0NmE0NWE4YTVlNWNj`
+Snapshot ID: `MCwxMzRlMzFlNWY3MzJiMTgwYTI5MjMwMDQ4NzkxYWEwNGFkNTE3MDhi`

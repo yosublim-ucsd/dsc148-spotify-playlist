@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "\u0e04\u0e49\u0e19\u0e1e\u0e1a\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e02\u0e2d\u0e07\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22\u0e44\u0e14\u0e49\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e1b\u0e01: PUN",
-  "name": "RADAR Thailand",
+  "description": "\u0e44\u0e2e\u0e44\u0e25\u0e17\u0e4c\u0e1b\u0e35 2023 \u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c RADAR Thailand. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PURPEECH",
+  "name": "Best of RADAR Thailand 2023",
   "tracks": [
     {
       "album": {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 305806,
       "name": "24",
       "url": "https://open.spotify.com/track/6ZmvkPsAhZdP0VUqX2NtTo"
@@ -74,7 +74,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 298392,
       "name": "April",
       "url": "https://open.spotify.com/track/1HcNxQxyvT4Jg2c1A9FxjS"
@@ -114,7 +114,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-19",
+      "date_removed": null,
       "duration_ms": 163928,
       "name": "BTS",
       "url": "https://open.spotify.com/track/5ny2fV7iSKCRWzLRhUO0CJ"
@@ -244,7 +244,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-08",
+      "date_removed": null,
       "duration_ms": 162461,
       "name": "How Are You",
       "url": "https://open.spotify.com/track/41TTWfDZYANqv7XXcZmOdb"
@@ -284,7 +284,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 222248,
       "name": "KIMINOTO",
       "url": "https://open.spotify.com/track/5pbD2zRUQmzhzqHTp97K19"
@@ -497,7 +497,7 @@
     },
     {
       "album": {
-        "name": "R U OK?",
+        "name": "R U OK? - Single",
         "url": "https://open.spotify.com/album/4Zkf8cfL2yoewuMfwoXk95"
       },
       "artists": [
@@ -508,7 +508,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-17",
+      "date_removed": null,
       "duration_ms": 207127,
       "name": "R U OK?",
       "url": "https://open.spotify.com/track/6pskBGYOeLLQBOA7B7C9ij"
@@ -544,7 +544,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 207000,
       "name": "Stay",
       "url": "https://open.spotify.com/track/12fWIindDPAAsaPXPSAYJK"
@@ -605,6 +605,24 @@
     },
     {
       "album": {
+        "name": "Today's mood",
+        "url": "https://open.spotify.com/album/02FY1dr1nSrTyzMfURRJ2Q"
+      },
+      "artists": [
+        {
+          "name": "Saran",
+          "url": "https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162077,
+      "name": "Today's mood",
+      "url": "https://open.spotify.com/track/4kuYISPouD11LYYVjruC8b"
+    },
+    {
+      "album": {
         "name": "Tutor",
         "url": "https://open.spotify.com/album/0wGByPiO4hAEj7n6FtAB1e"
       },
@@ -634,7 +652,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-03",
+      "date_removed": null,
       "duration_ms": 206966,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/0gjsVf6ueVVEBQ2X0Z8f5R"
@@ -692,7 +710,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-03",
+      "date_removed": null,
       "duration_ms": 207174,
       "name": "YEAH",
       "url": "https://open.spotify.com/track/64lp69KnGmOUNnu9EaRTTI"
@@ -1222,7 +1240,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-22",
+      "date_removed": null,
       "duration_ms": 203835,
       "name": "\u0e14\u0e32\u0e27 (Down)",
       "url": "https://open.spotify.com/track/3uoMU6t9HYyS6mzOjYNavf"
@@ -1262,7 +1280,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-26",
+      "date_removed": null,
       "duration_ms": 221000,
       "name": "\u0e15\u0e31\u0e14\u0e43\u0e08\u0e23\u0e2d\u0e1a\u0e17\u0e35\u0e48\u0e25\u0e49\u0e32\u0e19",
       "url": "https://open.spotify.com/track/7tLzCItsc7GUBnfxhHFljI"
@@ -1728,7 +1746,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 354851,
       "name": "\u0e25\u0e37\u0e21\u0e41\u0e17\u0e1a\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27",
       "url": "https://open.spotify.com/track/7DNNJcCstLheOvqLsiq2Qz"
@@ -1996,7 +2014,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 205434,
       "name": "\u0e40\u0e14\u0e34\u0e19\u0e21\u0e32\u0e2a\u0e48\u0e07 - BYE",
       "url": "https://open.spotify.com/track/7jq0O5rfrzEIqNOsc7v9JT"
@@ -2450,7 +2468,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 324870,
       "name": "\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e23\u0e2b\u0e23\u0e2d\u0e01\u0e21\u0e31\u0e49\u0e07",
       "url": "https://open.spotify.com/track/3mtHA5dSJW9DsCh1NjhwtX"
@@ -2472,7 +2490,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 168857,
       "name": "\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e01\u0e47\u0e44\u0e21\u0e48\u0e40\u0e2d\u0e32",
       "url": "https://open.spotify.com/track/1UxVMaHEm6UJxGOg4ixSZO"

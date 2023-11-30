@@ -62,12 +62,12 @@
       },
       "artists": [
         {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
-        },
-        {
           "name": "Mariana Froes",
           "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
+        },
+        {
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
         }
       ],
       "date_added": "2023-07-07",

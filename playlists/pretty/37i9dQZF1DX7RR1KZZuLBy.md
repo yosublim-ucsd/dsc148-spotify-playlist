@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,910 likes - 50 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,962 likes - 50 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Thixo Wamadinga Ethu \(Live\)](https://open.spotify.com/track/5Y0EPmCymKYHOCJD2B04gi) | [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Sibonga Umusa \(Live\)](https://open.spotify.com/album/0yq9apfBkBDmT9I74n0ABX) | 9:49 |
+| 1 | [Thixo Wamadinga Ethu \(Live\)](https://open.spotify.com/track/67NHjEvUTfqyKqNZF0tSMh) | [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Sibonga Umusa \(Live\)](https://open.spotify.com/album/0tT13vFUWnAGZNp0BZu0n3) | 9:49 |
 | 2 | [THIS YEAR \(Blessings\)](https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\)](https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi) | 2:06 |
 | 3 | [You Say](https://open.spotify.com/track/6Up545NUflOiXo8cEraH49) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 4:34 |
 | 4 | [Praise \(feat\. Brandon Lake, Chris Brown & Chandler Moore\)](https://open.spotify.com/track/7Ee6XgP8EHKDhTMYLIndu9) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [CAN YOU IMAGINE?](https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2) | 5:04 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 45 | [Xa Ndiyekelelwa \(Live\)](https://open.spotify.com/track/3hWGj0qXuKwjyM3Lf9ATMI) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Tshepiso](https://open.spotify.com/artist/0eUzQtxmaaNwA1wkyq4b2I), [Thando](https://open.spotify.com/artist/3bQm9hhUUYYmq9RHfReyhn) | [Spirit of Praise, Vol\. 5 \(Live\)](https://open.spotify.com/album/5Et0R7qd6D6SupvR8TScaD) | 6:46 |
 | 46 | [Thandwa Ndim](https://open.spotify.com/track/55xuM0wTpunSG8BNtWPTuP) | [The Soil](https://open.spotify.com/artist/3UhCf5Cu963oXz9DseciIU), [Thee Legacy](https://open.spotify.com/artist/5GADpBUVFmE7gRJAswAHiX) | [Thandwa Ndim](https://open.spotify.com/album/06bVQgyIrwyPBaCmuwwrqH) | 4:31 |
 | 47 | [This Is A Move \- Live](https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [This Is A Move \(Live\)](https://open.spotify.com/album/5SH3LZPcZVx5fr6uQ7R2pF) | 7:25 |
-| 48 | [Look Around](https://open.spotify.com/track/45MwQxfmmHhYFGQuyPOpt3) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [How To Start A Housefire \(Pt\. II\)](https://open.spotify.com/album/00AeTGkKMb4C827JlzT8Uk) | 7:21 |
-| 49 | [Bow Down and Worship \- Live](https://open.spotify.com/track/4pwIlf5w1m2gZJ97o49fpJ) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Glory in His Presence](https://open.spotify.com/album/4H0LkLQqfqbryyNUmzDvoq) | 10:55 |
-| 50 | [Just Like God](https://open.spotify.com/track/5kc449Mw1upsOITilmFB3f) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Love, Evvie McKinney](https://open.spotify.com/album/19TJHZlE3D6OZ6lNSYGMQb) | 3:03 |
+| 48 | [Bow Down and Worship \- Live](https://open.spotify.com/track/4pwIlf5w1m2gZJ97o49fpJ) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Glory in His Presence](https://open.spotify.com/album/4H0LkLQqfqbryyNUmzDvoq) | 10:55 |
+| 49 | [Just Like God](https://open.spotify.com/track/5kc449Mw1upsOITilmFB3f) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Love, Evvie McKinney](https://open.spotify.com/album/19TJHZlE3D6OZ6lNSYGMQb) | 3:03 |
+| 50 | [Look Around](https://open.spotify.com/track/45MwQxfmmHhYFGQuyPOpt3) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [How To Start A Housefire \(Pt\. II\)](https://open.spotify.com/album/00AeTGkKMb4C827JlzT8Uk) | 7:21 |
 
-Snapshot ID: `MCxjMjJkYmU5YWM0ZTJlNTc4NGM3MGM2ODgxNjhhMGNjZDliYTJhNzkz`
+Snapshot ID: `MCxlNzdmNGJlMjEzYjc1ZGU4Y2IxMmQ3ZjI2NjIwNGVlM2JiMDNhYTRl`

@@ -1,12 +1,12 @@
 {
   "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: KWON EUNBI(\uad8c\uc740\ube44)) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 48694,
+  "num_followers": 48761,
   "original_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTFjMTNlYTU4MjVhNWUxNDYxNmJkMGUzZGY1M2RiZWY1OGNhMWJj",
+  "snapshot_id": "MCwxNWYzMDM3MzFlZDg1MDhjNDAwYWI2YzM5MjNhYjk2MDk5NTZmZjQ3",
   "tracks": [
     {
       "added_at": "2023-11-02 08:20:42",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "Red Light - The 3rd Album",
-        "url": "https://open.spotify.com/album/6T9SFwLGHVU75jRAjUJn3W"
-      },
-      "artists": [
-        {
-          "name": "f(x)",
-          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
-        }
-      ],
-      "duration_ms": 210042,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/2YtNFUkfxnYtg6ts8zfq93"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
         "name": "FREE`SM",
         "url": "https://open.spotify.com/album/0yiGt1K8gQZEtbgEU0Aeut"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 220526,
       "name": "Where are you?",
       "url": "https://open.spotify.com/track/6MSfAJiEQjJvia4dsWhO93"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
+        "name": "Red Light - The 3rd Album",
+        "url": "https://open.spotify.com/album/6T9SFwLGHVU75jRAjUJn3W"
+      },
+      "artists": [
+        {
+          "name": "f(x)",
+          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
+        }
+      ],
+      "duration_ms": 210042,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/2YtNFUkfxnYtg6ts8zfq93"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "Beautiful Night - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T"
-      },
-      "artists": [
-        {
-          "name": "YESUNG",
-          "url": "https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf"
-        }
-      ],
-      "duration_ms": 219240,
-      "name": "Beautiful Night",
-      "url": "https://open.spotify.com/track/0AIrMQasS9IuMi517vgrUs"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
         "name": "The Book of Us : Gluon - Nothing can tear us apart",
         "url": "https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 257450,
       "name": "Thanks to",
       "url": "https://open.spotify.com/track/0dGI1GRr0UAnkPKcWn7QbI"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
+        "name": "Beautiful Night - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T"
+      },
+      "artists": [
+        {
+          "name": "YESUNG",
+          "url": "https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf"
+        }
+      ],
+      "duration_ms": 219240,
+      "name": "Beautiful Night",
+      "url": "https://open.spotify.com/track/0AIrMQasS9IuMi517vgrUs"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
+        "name": "The Book of Us : Gluon - Nothing can tear us apart",
+        "url": "https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq"
+      },
+      "artists": [
+        {
+          "name": "DAY6 (Even of Day)",
+          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
+        }
+      ],
+      "duration_ms": 235227,
+      "name": "Landed",
+      "url": "https://open.spotify.com/track/6qLjAAxNEoJvZJiAREQubY"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
         "name": "Elastic Love",
         "url": "https://open.spotify.com/album/5SCdzFlU1PZvvWjQiKmDOC"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 208236,
       "name": "\ubcf4\ub77c\ube5b \ud5a5\uae30",
       "url": "https://open.spotify.com/track/0yGkMcsEVqhvL9P8dizVap"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
-        "name": "The Book of Us : Gluon - Nothing can tear us apart",
-        "url": "https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq"
-      },
-      "artists": [
-        {
-          "name": "DAY6 (Even of Day)",
-          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
-        }
-      ],
-      "duration_ms": 235227,
-      "name": "Landed",
-      "url": "https://open.spotify.com/track/6qLjAAxNEoJvZJiAREQubY"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -1115,6 +1115,26 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
+        "name": "Aquarium",
+        "url": "https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v"
+      },
+      "artists": [
+        {
+          "name": "Bronze",
+          "url": "https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7"
+        },
+        {
+          "name": "YUKIKA",
+          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+        }
+      ],
+      "duration_ms": 270270,
+      "name": "Orange Road (with YUKIKA)",
+      "url": "https://open.spotify.com/track/0HITwsLMbMXKmiOyz41OjP"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
         "name": "WJ STAY?",
         "url": "https://open.spotify.com/album/0ty0TBeM5B8HU6hzOdjz4f"
       },
@@ -1159,26 +1179,6 @@
       "duration_ms": 234000,
       "name": "It's Beautiful",
       "url": "https://open.spotify.com/track/1ylAph6SIdV5Q5SQUWf8dX"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
-        "name": "Aquarium",
-        "url": "https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v"
-      },
-      "artists": [
-        {
-          "name": "Bronze",
-          "url": "https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7"
-        },
-        {
-          "name": "YUKIKA",
-          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
-        }
-      ],
-      "duration_ms": 270270,
-      "name": "Orange Road (with YUKIKA)",
-      "url": "https://open.spotify.com/track/0HITwsLMbMXKmiOyz41OjP"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -1279,38 +1279,6 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "I Just Wanna Dance - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/5Zf2IZLgKbo9RcktqIQxpU"
-      },
-      "artists": [
-        {
-          "name": "TIFFANY",
-          "url": "https://open.spotify.com/artist/1t2HKR34gLWuQyyzLHcSm4"
-        }
-      ],
-      "duration_ms": 214490,
-      "name": "TALK",
-      "url": "https://open.spotify.com/track/6O3XduvZiAgLpjeDnZ5sJ4"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
-        "name": "THIS CITY",
-        "url": "https://open.spotify.com/album/7JH8wNVrPGvlU6Pbos34Hu"
-      },
-      "artists": [
-        {
-          "name": "ROCOBERRY",
-          "url": "https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "THIS CITY",
-      "url": "https://open.spotify.com/track/1SwSXX7JBvB25ZzJUqvVR8"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
         "name": "Aquarium",
         "url": "https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v"
       },
@@ -1331,18 +1299,18 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "Dive",
-        "url": "https://open.spotify.com/album/4CSodYxHpQLracYVV0emB7"
+        "name": "THIS CITY",
+        "url": "https://open.spotify.com/album/7JH8wNVrPGvlU6Pbos34Hu"
       },
       "artists": [
         {
-          "name": "Luli Lee",
-          "url": "https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK"
+          "name": "ROCOBERRY",
+          "url": "https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P"
         }
       ],
-      "duration_ms": 221875,
-      "name": "Dive",
-      "url": "https://open.spotify.com/track/1DC1Hhv3t5jnYrDNQbZu7u"
+      "duration_ms": 194400,
+      "name": "THIS CITY",
+      "url": "https://open.spotify.com/track/1SwSXX7JBvB25ZzJUqvVR8"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -1359,6 +1327,38 @@
       "duration_ms": 216106,
       "name": "Myspace",
       "url": "https://open.spotify.com/track/0wKWQHIaja5IuDovI1euWh"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/4CSodYxHpQLracYVV0emB7"
+      },
+      "artists": [
+        {
+          "name": "Luli Lee",
+          "url": "https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK"
+        }
+      ],
+      "duration_ms": 221875,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/1DC1Hhv3t5jnYrDNQbZu7u"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
+        "name": "I Just Wanna Dance - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/5Zf2IZLgKbo9RcktqIQxpU"
+      },
+      "artists": [
+        {
+          "name": "TIFFANY",
+          "url": "https://open.spotify.com/artist/1t2HKR34gLWuQyyzLHcSm4"
+        }
+      ],
+      "duration_ms": 214490,
+      "name": "TALK",
+      "url": "https://open.spotify.com/track/6O3XduvZiAgLpjeDnZ5sJ4"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "\uc120\ub370\uc774\uc11c\uc6b8 Ep.1 Sunday Seoul Ep.1",
-        "url": "https://open.spotify.com/album/0e1xGcRS9hvmVjfDRaFK6V"
-      },
-      "artists": [
-        {
-          "name": "uju",
-          "url": "https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92"
-        }
-      ],
-      "duration_ms": 190363,
-      "name": "\ubd88\uc744 \ubc1d\ud600\uc918 Give Me The Light",
-      "url": "https://open.spotify.com/track/1kTFcaOrSmY4XqneDu3oRm"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
         "name": "Monthly Project 2019 May Yoon Jong Shin - A train to chuncheon",
         "url": "https://open.spotify.com/album/4LrtYx1fJuZYkGbusjaphJ"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 294700,
       "name": "Monthly Project 2019 May Yoon Jong Shin - A train to chuncheon",
       "url": "https://open.spotify.com/track/34uOAAJfVatmKdVHdtCqgk"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
+        "name": "\uc120\ub370\uc774\uc11c\uc6b8 Ep.1 Sunday Seoul Ep.1",
+        "url": "https://open.spotify.com/album/0e1xGcRS9hvmVjfDRaFK6V"
+      },
+      "artists": [
+        {
+          "name": "uju",
+          "url": "https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92"
+        }
+      ],
+      "duration_ms": 190363,
+      "name": "\ubd88\uc744 \ubc1d\ud600\uc918 Give Me The Light",
+      "url": "https://open.spotify.com/track/1kTFcaOrSmY4XqneDu3oRm"
     },
     {
       "added_at": "2023-11-02 08:20:42",

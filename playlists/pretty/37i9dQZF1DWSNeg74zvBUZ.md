@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNeg74zvBUZ.md) - [plain]
 
 > Sunlight! The most precious gold to be found on Earth.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,263 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,266 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNeg74zvBUZ.md) - [plain]
 | 10 | [Chipinque](https://open.spotify.com/track/2nY28xLbU220DiDAc3177k) | [Tiempo Fuera](https://open.spotify.com/artist/3tsfuCKw78MCVfLoKHUn4Z) | [Chipinque](https://open.spotify.com/album/1C66AJuEWFwkg2MB9JnkjM) | 3:14 |
 | 11 | [Poa Alpina](https://open.spotify.com/track/4K4kedXFAuW6gn8iwgGFTw) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata + Man with a Movie Camera](https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ) | 4:11 |
 | 12 | [Always Returning \- Remastered 2005](https://open.spotify.com/track/1ps5sx71OhHiBVmGiKQSne) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:04 |
-| 13 | [Sometimes He's In My Dreams](https://open.spotify.com/track/2BQplCyfCnTV5RvDYBz9UB) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy) | 3:46 |
-| 14 | [Boreal Kiss Pt\. 1](https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Haunt Me](https://open.spotify.com/album/5MZRB9G4snRWIG0otfxJYq) | 3:28 |
+| 13 | [Boreal Kiss Pt\. 1](https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Haunt Me](https://open.spotify.com/album/5MZRB9G4snRWIG0otfxJYq) | 3:28 |
+| 14 | [Sometimes He's In My Dreams](https://open.spotify.com/track/2BQplCyfCnTV5RvDYBz9UB) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy) | 3:46 |
 | 15 | [Oh, Memory](https://open.spotify.com/track/6rpvBoYmL0PThOjbW4s2of) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi), [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Healing Is A Miracle](https://open.spotify.com/album/4GaLdSDDbRK0CoJKSnihbo) | 3:47 |
 | 16 | [\#17](https://open.spotify.com/track/2ry9LQ8m7dRbRn6FN8uT5u) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH) | 2:05 |
 | 17 | [In a Landscape](https://open.spotify.com/track/1qbrS9PKOzsack0g7LiBhh) | [John Cage](https://open.spotify.com/artist/1Z3fF5lZdCM0ZHugkGoH8s), [Alexei Lubimov](https://open.spotify.com/artist/0604Eow92EXTCLStZOUNlG) | [Der Bote](https://open.spotify.com/album/2FCodoLjwxOlCuK7KbUOMq) | 8:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNeg74zvBUZ.md) - [plain]
 | 49 | [The Pillow Sisters](https://open.spotify.com/track/05gq1Z7LjHYlgt9FRBAMWb) | [Singleton](https://open.spotify.com/artist/21JuplSnwK51Cp5olrc7q8) | [The Pillow Sisters](https://open.spotify.com/album/5Xa5zHnzplguzrNoCzUdSM) | 2:39 |
 | 50 | [It Was Willow](https://open.spotify.com/track/7qpuXw0hLcJtZ6aa5WiagC) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Fi](https://open.spotify.com/album/6Je7ukOVu596v6B8UyGfF7) | 2:02 |
 
-Snapshot ID: `MCw1MWQ2YmIxYWVmNzBlMWZiYjFkNTFkOTdiMDcxNmE3MzFkYWExZmIw`
+Snapshot ID: `MCw2NzU1MTU4NDJjOTBkNGVmNjUwODc3NjJiYzE5MzM4YWFkN2M2ZmY2`

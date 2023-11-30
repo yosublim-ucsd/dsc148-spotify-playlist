@@ -1,12 +1,12 @@
 {
   "description": "Cumbia pa' volar la chapa con Marka Akme, DJ Tao, Lauty Gram, Migrantes & Peipper.",
-  "num_followers": 564645,
+  "num_followers": 564767,
   "original_name": "Cumbia de Barrio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTc1NGQxMGE1YzhlY2I1NGU2MWY4MGI1MzAzNzMxMDA5ODRjNTIx",
+  "snapshot_id": "MCwyMGM0MzA5MjdlZmE1NTM5NzJlNjdhZTc1NmQ5MWNiNTMwYjJhOGE3",
   "tracks": [
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
+        "name": "Mata",
+        "url": "https://open.spotify.com/album/3CGpmpfvOQT271L1avoGI3"
+      },
+      "artists": [
+        {
+          "name": "Marka Akme",
+          "url": "https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf"
+        }
+      ],
+      "duration_ms": 157080,
+      "name": "Mata",
+      "url": "https://open.spotify.com/track/6h8rrNrOCdBbz37IhcvApT"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
         "name": "Gracia Divina",
         "url": "https://open.spotify.com/album/1oCU6eo4j8zIlfl2sKiMZz"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 218070,
       "name": "Hoy Te Vi",
       "url": "https://open.spotify.com/track/21GP0hz3tF36WvSIwBYsGP"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
-        "name": "Mata",
-        "url": "https://open.spotify.com/album/3CGpmpfvOQT271L1avoGI3"
-      },
-      "artists": [
-        {
-          "name": "Marka Akme",
-          "url": "https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf"
-        }
-      ],
-      "duration_ms": 157080,
-      "name": "Mata",
-      "url": "https://open.spotify.com/track/6h8rrNrOCdBbz37IhcvApT"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Par-Tusa",
-        "url": "https://open.spotify.com/album/1gg1qZMNUpw9Tsp7pbJoAo"
-      },
-      "artists": [
-        {
-          "name": "El Dipy",
-          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
-        }
-      ],
-      "duration_ms": 190850,
-      "name": "Par-Tusa",
-      "url": "https://open.spotify.com/track/7iZSr3NiHlqJGAJmlfd3Ru"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
         "name": "Pinta",
         "url": "https://open.spotify.com/album/3NuIVDa1eiDxLTciy5J4Ha"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 177950,
       "name": "Pinta",
       "url": "https://open.spotify.com/track/7nXutPtu8epp2VJ300iN2A"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "Par-Tusa",
+        "url": "https://open.spotify.com/album/1gg1qZMNUpw9Tsp7pbJoAo"
+      },
+      "artists": [
+        {
+          "name": "El Dipy",
+          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
+        }
+      ],
+      "duration_ms": 190850,
+      "name": "Par-Tusa",
+      "url": "https://open.spotify.com/track/7iZSr3NiHlqJGAJmlfd3Ru"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1511,23 +1511,7 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Corriendo La Coneja",
-        "url": "https://open.spotify.com/album/1F5Q8ICEMk5MeAfDbyLM5m"
-      },
-      "artists": [
-        {
-          "name": "Yerba Brava",
-          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
-        }
-      ],
-      "duration_ms": 267813,
-      "name": "Vamos A Bailar",
-      "url": "https://open.spotify.com/track/657aFPrDGW4f57rkoCG4lS"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
-        "name": "EXCUSAS",
+        "name": "EXCUSAS (feat. Dj Lauuh)",
         "url": "https://open.spotify.com/album/1eeSI54GxvlHs3AMnZhbK0"
       },
       "artists": [
@@ -1540,17 +1524,33 @@
           "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
         },
         {
-          "name": "Dj Lauuh",
-          "url": "https://open.spotify.com/artist/1spz7NNmvQQbTAyFxPGKAF"
-        },
-        {
           "name": "NEGRO DUB",
           "url": "https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA"
+        },
+        {
+          "name": "Dj Lauuh",
+          "url": "https://open.spotify.com/artist/1spz7NNmvQQbTAyFxPGKAF"
         }
       ],
       "duration_ms": 221333,
-      "name": "EXCUSAS",
+      "name": "EXCUSAS (feat. Dj Lauuh)",
       "url": "https://open.spotify.com/track/5CNMBlU7Ovc75rNEtenbVH"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "Corriendo La Coneja",
+        "url": "https://open.spotify.com/album/1F5Q8ICEMk5MeAfDbyLM5m"
+      },
+      "artists": [
+        {
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+        }
+      ],
+      "duration_ms": 267813,
+      "name": "Vamos A Bailar",
+      "url": "https://open.spotify.com/track/657aFPrDGW4f57rkoCG4lS"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1839,26 +1839,6 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Vicera, las Zapas",
-        "url": "https://open.spotify.com/album/7jYECg5W7BIF5sMksrqxoi"
-      },
-      "artists": [
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        },
-        {
-          "name": "Danilo Montana",
-          "url": "https://open.spotify.com/artist/5xl2nCrZ8cOYMcXWGhfCBP"
-        }
-      ],
-      "duration_ms": 136808,
-      "name": "Vicera, las Zapas",
-      "url": "https://open.spotify.com/track/2i0SfKksuxxJkDehpyzxuu"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
         "name": "Rompe el Party (Remix)",
         "url": "https://open.spotify.com/album/1h6s34Zj3EstmoMgn3J4ZV"
       },
@@ -1879,6 +1859,26 @@
       "duration_ms": 207673,
       "name": "Rompe el Party - Remix",
       "url": "https://open.spotify.com/track/0bpzKlI1oiRYp9UnK90qcV"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "Vicera, las Zapas",
+        "url": "https://open.spotify.com/album/7jYECg5W7BIF5sMksrqxoi"
+      },
+      "artists": [
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        },
+        {
+          "name": "Danilo Montana",
+          "url": "https://open.spotify.com/artist/5xl2nCrZ8cOYMcXWGhfCBP"
+        }
+      ],
+      "duration_ms": 136808,
+      "name": "Vicera, las Zapas",
+      "url": "https://open.spotify.com/track/2i0SfKksuxxJkDehpyzxuu"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1923,6 +1923,22 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
+        "name": "Volver\u00e1s",
+        "url": "https://open.spotify.com/album/46c1Anl2GJq3unG1KVDpWV"
+      },
+      "artists": [
+        {
+          "name": "La Piedra Urbana",
+          "url": "https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt"
+        }
+      ],
+      "duration_ms": 176169,
+      "name": "Si Me Vez Fumando una Seca por Vos",
+      "url": "https://open.spotify.com/track/0YK6zUsPZyMIf5lhzu9dzV"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
         "name": "Mirame a la Cara 2",
         "url": "https://open.spotify.com/album/3ytpZ963aOa2imkhVqlHRX"
       },
@@ -1947,18 +1963,18 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Volver\u00e1s",
-        "url": "https://open.spotify.com/album/46c1Anl2GJq3unG1KVDpWV"
+        "name": "Parulo",
+        "url": "https://open.spotify.com/album/27c6V4uv7IxUHR9tGB5jeY"
       },
       "artists": [
         {
-          "name": "La Piedra Urbana",
-          "url": "https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt"
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
         }
       ],
-      "duration_ms": 176169,
-      "name": "Si Me Vez Fumando una Seca por Vos",
-      "url": "https://open.spotify.com/track/0YK6zUsPZyMIf5lhzu9dzV"
+      "duration_ms": 125239,
+      "name": "Culito Pa' Tras",
+      "url": "https://open.spotify.com/track/5B14jERiIjU6iPW7wP1x1i"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1975,22 +1991,6 @@
       "duration_ms": 176973,
       "name": "Berretines de Verduga",
       "url": "https://open.spotify.com/track/0admIwLf8RAXI1l6RyNgh4"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
-        "name": "Parulo",
-        "url": "https://open.spotify.com/album/27c6V4uv7IxUHR9tGB5jeY"
-      },
-      "artists": [
-        {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
-        }
-      ],
-      "duration_ms": 125239,
-      "name": "Culito Pa' Tras",
-      "url": "https://open.spotify.com/track/5B14jERiIjU6iPW7wP1x1i"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "M\u00e1s Duros que Nunca",
-        "url": "https://open.spotify.com/album/04iZ6FHnHyuJIOdWUwB8yS"
-      },
-      "artists": [
-        {
-          "name": "Flor De Piedra",
-          "url": "https://open.spotify.com/artist/1y54m0q1LQZ4kGhf7ZZFKd"
-        }
-      ],
-      "duration_ms": 238933,
-      "name": "La Jarra Loca",
-      "url": "https://open.spotify.com/track/5pv0g4YajPj4RN98CT0T24"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
         "name": "El Barrio",
         "url": "https://open.spotify.com/album/74nNhOfUeGDK98WrqaOlGd"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 155368,
       "name": "El Barrio",
       "url": "https://open.spotify.com/track/56HxJH9N2DcRj0taX9mjb5"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "M\u00e1s Duros que Nunca",
+        "url": "https://open.spotify.com/album/04iZ6FHnHyuJIOdWUwB8yS"
+      },
+      "artists": [
+        {
+          "name": "Flor De Piedra",
+          "url": "https://open.spotify.com/artist/1y54m0q1LQZ4kGhf7ZZFKd"
+        }
+      ],
+      "duration_ms": 238933,
+      "name": "La Jarra Loca",
+      "url": "https://open.spotify.com/track/5pv0g4YajPj4RN98CT0T24"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -2123,22 +2123,6 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Alta Gira",
-        "url": "https://open.spotify.com/album/1tlUQn78wbsFerurcSe8Hy"
-      },
-      "artists": [
-        {
-          "name": "Los Gedes",
-          "url": "https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf"
-        }
-      ],
-      "duration_ms": 247144,
-      "name": "Vos de Bebe",
-      "url": "https://open.spotify.com/track/2mVBkHUzTGdHZsZ90F77bF"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
         "name": "No Lo Compren",
         "url": "https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 132840,
       "name": "Ritmo Sabroson",
       "url": "https://open.spotify.com/track/4NyLrceESCSUGDhIt8DhBk"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "Alta Gira",
+        "url": "https://open.spotify.com/album/1tlUQn78wbsFerurcSe8Hy"
+      },
+      "artists": [
+        {
+          "name": "Los Gedes",
+          "url": "https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf"
+        }
+      ],
+      "duration_ms": 247144,
+      "name": "Vos de Bebe",
+      "url": "https://open.spotify.com/track/2mVBkHUzTGdHZsZ90F77bF"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -2359,26 +2359,6 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Coraz\u00f3n de Madre / Cosas Del Amor",
-        "url": "https://open.spotify.com/album/1p2Ds7qSk9Qo7D9f61Eljy"
-      },
-      "artists": [
-        {
-          "name": "Yerba Brava",
-          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
-        },
-        {
-          "name": "Pala Ancha",
-          "url": "https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ"
-        }
-      ],
-      "duration_ms": 229161,
-      "name": "Coraz\u00f3n de Madre / Cosas Del Amor",
-      "url": "https://open.spotify.com/track/6R2UbyXsPIpBlKBiqy4nHg"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
         "name": "Sin Ayuda",
         "url": "https://open.spotify.com/album/5Lq3TDrL7390XY5a9Wm2OV"
       },
@@ -2395,6 +2375,26 @@
       "duration_ms": 229500,
       "name": "Sin Ayuda",
       "url": "https://open.spotify.com/track/11mbrI6qv47pr41GzU3reG"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "Coraz\u00f3n de Madre / Cosas Del Amor",
+        "url": "https://open.spotify.com/album/1p2Ds7qSk9Qo7D9f61Eljy"
+      },
+      "artists": [
+        {
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+        },
+        {
+          "name": "Pala Ancha",
+          "url": "https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ"
+        }
+      ],
+      "duration_ms": 229161,
+      "name": "Coraz\u00f3n de Madre / Cosas Del Amor",
+      "url": "https://open.spotify.com/track/6R2UbyXsPIpBlKBiqy4nHg"
     },
     {
       "added_at": "2023-11-24 03:00:00",

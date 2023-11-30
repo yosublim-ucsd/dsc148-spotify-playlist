@@ -4,7 +4,7 @@
 
 > 2011 highlights from the home of indie music.
 
-139 songs - 9 hr 19 min
+140 songs - 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,8 +48,9 @@
 | [Get Some](https://open.spotify.com/track/5LbCx9z3eq83JVoJ74tnmt) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Wounded Rhymes](https://open.spotify.com/album/43uf0nTu6b5ReBCoQkLtsF) | 3:22 | 2021-09-02 |  |
 | [Go Outside](https://open.spotify.com/track/0V8jGgK39sLsj2yAHHPigU) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Cults](https://open.spotify.com/album/0OvMqTVXYlNpWbGuxQrt6M) | 3:23 | 2021-09-02 |  |
 | [Gold on the Ceiling](https://open.spotify.com/track/5lN1EH25gdiqT1SFALMAq1) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 3:44 | 2021-09-02 |  |
-| [Guilty Filthy Soul](https://open.spotify.com/track/3nyvjKrxPNMnX4GtXIbLJk) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 3:33 | 2021-09-02 |  |
+| [Guilty Filthy Soul](https://open.spotify.com/track/3nyvjKrxPNMnX4GtXIbLJk) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 3:33 | 2021-09-02 | 2023-11-30 |
 | [Hanging On](https://open.spotify.com/track/6o4lFpp8OAFhBqGQbWyAob) | [Active Child](https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU) | [You Are All I See](https://open.spotify.com/album/0naMIQoMmwqmpXiO7qFqCX) | 5:21 | 2021-09-02 | 2023-11-04 |
+| [Hanging On](https://open.spotify.com/track/7kyubWDfd6Lv6ItXgENaM4) | [Active Child](https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU) | [You Are All I See](https://open.spotify.com/album/3ognTnle2G22rlIv9iU9JR) | 5:21 | 2021-09-02 |  |
 | [Helena Beat](https://open.spotify.com/track/4VbDJMkAX3dWNBdn3KH6Wx) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 4:36 | 2021-09-02 |  |
 | [Hello My Old Heart](https://open.spotify.com/track/66MXa8qDIQRtwuxuNtjNCu) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [The Oh Hellos EP](https://open.spotify.com/album/4W1OKkOGiLJdfOCz4JQp1W) | 4:16 | 2021-09-02 |  |
 | [Helplessness Blues](https://open.spotify.com/track/02VdHwnGhy5fTW2CTZkYsb) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Helplessness Blues](https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb) | 5:03 | 2021-09-02 |  |

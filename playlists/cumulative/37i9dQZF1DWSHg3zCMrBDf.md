@@ -4,7 +4,7 @@
 
 > The hottest tracks in Ghana\. Cover: <a href="https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ?si=TpKlqbdcSAaIl\_98Ym2vjQ">Black Sherif</a>
 
-231 songs - 11 hr 48 min
+232 songs - 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Goldigga](https://open.spotify.com/track/3pPxul1nGW600lvqFdBcLg) | [Samsney](https://open.spotify.com/artist/1RaVe8wzZ1DnL6fcAf1x2g), [Black Sherif](https://open.spotify.com/artist/1GjyutvlWkLC5woI2mDrgE) | [Goldigga](https://open.spotify.com/album/4MUkSTaa9xxyeXdAB6geiO) | 3:02 | 2021-12-02 | 2023-05-27 |
 | [GoodSin](https://open.spotify.com/track/4lkI6BidQ1dC19KaCb0SUn) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana](https://open.spotify.com/album/1ZinBC6aI5Ck8CEa64GShC) | 2:20 | 2023-09-09 |  |
 | [GoodSin](https://open.spotify.com/track/5tlvXfI4aqoSh0oRghr7UT) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana](https://open.spotify.com/album/3axpLgzTEbftwwMXdYX3TK) | 2:20 | 2023-06-26 | 2023-09-10 |
-| [GWAGWALADA](https://open.spotify.com/track/6wuMo4ZR83PhlhXhJ1S3VY) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [GWAGWALADA](https://open.spotify.com/album/0lgduYlejtLccLxJo5Q1fc) | 3:08 | 2023-02-23 |  |
+| [GWAGWALADA](https://open.spotify.com/track/6wuMo4ZR83PhlhXhJ1S3VY) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [GWAGWALADA](https://open.spotify.com/album/0lgduYlejtLccLxJo5Q1fc) | 3:08 | 2023-02-23 | 2023-11-30 |
 | [Holiday](https://open.spotify.com/track/0GfCR4T6WOErZOw1557ln7) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Holiday / Reason You](https://open.spotify.com/album/1NbIj94iC99QFhVA1nBuGX) | 2:39 | 2023-02-23 | 2023-05-01 |
 | [Holiday](https://open.spotify.com/track/3ceZIRUX8m8qFFcnEDkj2K) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 2:39 | 2023-04-27 | 2023-11-14 |
 | [Holy F4k](https://open.spotify.com/track/7eWoPZVIC0RzgFghNDrLbQ) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Ivorian Doll](https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Connecting the Dots](https://open.spotify.com/album/1q6SQV8J22Is1SsgKAh4eJ) | 3:15 | 2021-12-02 | 2023-04-28 |
@@ -126,6 +126,7 @@
 | [Likor \(feat\. Stonebwoy\)](https://open.spotify.com/track/0x7K0Gxgm4rNPB5Kx12Bvn) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Likor \(feat\. Stonebwoy\)](https://open.spotify.com/album/7DgfJZxWTpXnUNif7nmgnW) | 2:44 | 2023-07-28 |  |
 | [Live From 233](https://open.spotify.com/track/1mxaeq1bLsbLAYfxd8hDAf) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [This Is Not The Tape, Sorry 4 The Wait II](https://open.spotify.com/album/6tE4MR5d8K84Lz1CewM4P8) | 2:44 | 2021-02-22 | 2023-05-27 |
 | [Lonely At The Top](https://open.spotify.com/track/5ZtK8XAVnoaGdBXZWCEVCY) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:37 | 2023-07-20 |  |
+| [LONELY ROAD](https://open.spotify.com/track/5P7d1cYRk786etl1Jbwpk5) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [XlimKid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [PAIN IN GLORY](https://open.spotify.com/album/5mQyfbXSujRUaxTaQBZw4T) | 3:00 | 2023-11-29 |  |
 | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT) | 2:27 | 2022-07-07 | 2023-05-27 |
 | [Mansa Musa Money](https://open.spotify.com/track/4xGjWTkQdg7llPVSTdmF2F) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [MAALI](https://open.spotify.com/album/0or97sZavrGC1RtSGiLt6N) | 4:17 | 2023-03-30 | 2023-04-21 |
 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 | 2023-11-13 |  |

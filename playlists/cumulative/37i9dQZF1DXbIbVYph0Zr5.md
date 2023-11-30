@@ -4,12 +4,12 @@
 
 > The perfect soundtrack recipe for a backyard barbecue!
 
-233 songs - 13 hr 12 min
+234 songs - 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Til You Can't](https://open.spotify.com/track/4k3lPl8YTKuY8c1HelVnm3) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Human The Double Album](https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb) | 3:44 | 2022-06-17 | 2023-05-20 |
-| ['Til You Can't](https://open.spotify.com/track/13rC4iKtfQocWIfzPOJxaT) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | ['Til You Can’t / Longer Than She Did](https://open.spotify.com/album/5MzgI1Hzjkf1Dj7xW7d1GL) | 3:44 | 2021-10-22 |  |
+| ['Til You Can't](https://open.spotify.com/track/13rC4iKtfQocWIfzPOJxaT) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | ['Til You Can’t / Longer Than She Did](https://open.spotify.com/album/5MzgI1Hzjkf1Dj7xW7d1GL) | 3:44 | 2021-10-22 | 2023-11-30 |
 | [1, 2 Many](https://open.spotify.com/track/226le7T3p82reYWzsi9Hsz) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:00 | 2022-06-17 | 2023-05-20 |
 | [1, 2 Many](https://open.spotify.com/track/6pgN3d6oBrhmrSAKBfWNsf) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [What You See Is What You Get](https://open.spotify.com/album/1LVNYhjG7hkowdUwgwOdXj) | 3:00 | 2021-07-01 | 2022-07-29 |
 | [23](https://open.spotify.com/track/4PuAqZlL1tkidkuxfDlLbF) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [23](https://open.spotify.com/album/3i5LIueVgxjgCu1TIZOraP) | 2:59 | 2023-05-19 |  |
@@ -61,6 +61,7 @@
 | [Die A Happy Man](https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Tangled Up](https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy) | 3:47 | 2021-07-01 |  |
 | [Dirt On My Boots](https://open.spotify.com/track/7f08qp3HROTkfrtNpiYGGo) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [California Sunrise](https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ) | 3:21 | 2021-07-01 |  |
 | [Dirt Road Anthem](https://open.spotify.com/track/2qYsSHsYkihWx043HVJQRV) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [My Kinda Party](https://open.spotify.com/album/6gYk1JlSSmlUZGs1Lef1BI) | 3:49 | 2022-06-17 | 2023-11-18 |
+| [Dirt Road Anthem](https://open.spotify.com/track/5ZVGvay4xwgXMnQWffNYeU) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [My Kinda Party](https://open.spotify.com/album/4DDsvEKPW32jeMEAqmOdjv) | 3:49 | 2023-10-12 |  |
 | [Dirt Road Anthem](https://open.spotify.com/track/0adTN3vBO3pimO3yfxm9vg) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [My Kinda Party](https://open.spotify.com/album/6XlhLxwKLIdNLBko1SYUvG) | 3:49 | 2021-07-01 | 2022-07-29 |
 | [Dixieland Delight](https://open.spotify.com/track/0bM1z18RQpr61UuI1LemIK) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [The Closer You Get...](https://open.spotify.com/album/0eMs6LyA1bTZm8Mx8FPshM) | 5:22 | 2021-07-01 |  |
 | [Down To One](https://open.spotify.com/track/6QpZSfLid1YZ6c01BvB5jH) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Born Here Live Here Die Here](https://open.spotify.com/album/0wnaUYW25dVLAzk41fp1Ez) | 3:41 | 2021-07-01 | 2022-11-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 
 > El poder real del Hip Hop latinoamericano y español\. La Banda Bastön en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,436 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,509 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,23 +90,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 80 | [Estilo Libre](https://open.spotify.com/track/2KxvTs9bHxy96HXROF23g2) | [Liricistas](https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc) | [For Life](https://open.spotify.com/album/1IfdGBB0FWhM38z7s5DuAH) | 3:07 |
 | 81 | [Natural](https://open.spotify.com/track/4awFUpxIo94l8m7DpQwD8e) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Faruz Fit, Vol\. 1](https://open.spotify.com/album/4Uo5YhvoKTSbSGjv8iv9DL) | 3:24 |
 | 82 | [Desahogo](https://open.spotify.com/track/2sG0DhUyomwiWk5gcMUV7Z) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Desahogo](https://open.spotify.com/album/5uENvCoFFohiR1bBF3IxrN) | 4:05 |
-| 83 | [1977](https://open.spotify.com/track/7tOAN6w4a1LD0iqkRnIrhZ) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [1977](https://open.spotify.com/album/3ZhTbUZNobDXuzcYWGzxA3) | 3:21 |
-| 84 | [Duele](https://open.spotify.com/track/0vp1LRAhFT6PK9ixOmFT6E) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Duele](https://open.spotify.com/album/59IkAXXPqzP6DOuYsQ696T) | 2:39 |
-| 85 | [Apaga el Celular](https://open.spotify.com/track/7BhCvFVZwe04hLpNutqTdg) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Apaga el celular](https://open.spotify.com/album/4hl6j5ZMGsCxBhw3BuDDbK) | 3:45 |
-| 86 | [Siempre Peligroso \(feat\. Fermin IV Caballero\)](https://open.spotify.com/track/1hSJnfkEqbGF5afz5aqKqi) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX), [Fermin IV Caballero](https://open.spotify.com/artist/2ADe1weFY6flwz9LoSDcy3) | [Los Grandes Éxitos En Español \(Spanish Greatest Hits\)](https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ) | 3:57 |
+| 83 | [Duele](https://open.spotify.com/track/0vp1LRAhFT6PK9ixOmFT6E) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Duele](https://open.spotify.com/album/59IkAXXPqzP6DOuYsQ696T) | 2:39 |
+| 84 | [1977](https://open.spotify.com/track/7tOAN6w4a1LD0iqkRnIrhZ) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [1977](https://open.spotify.com/album/3ZhTbUZNobDXuzcYWGzxA3) | 3:21 |
+| 85 | [Siempre Peligroso \(feat\. Fermin IV Caballero\)](https://open.spotify.com/track/1hSJnfkEqbGF5afz5aqKqi) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX), [Fermin IV Caballero](https://open.spotify.com/artist/2ADe1weFY6flwz9LoSDcy3) | [Los Grandes Éxitos En Español \(Spanish Greatest Hits\)](https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ) | 3:57 |
+| 86 | [Apaga el Celular](https://open.spotify.com/track/7BhCvFVZwe04hLpNutqTdg) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Apaga el celular](https://open.spotify.com/album/4hl6j5ZMGsCxBhw3BuDDbK) | 3:45 |
 | 87 | [Babilonia](https://open.spotify.com/track/6A3zrZTU4pe9oqDZgwajA0) | [Morodo](https://open.spotify.com/artist/2OnH4HpywAxWkSOEsyjdjn), [Souchi](https://open.spotify.com/artist/21MQrtr5N5sHLPKK47awzG) | [Ozmlstayl](https://open.spotify.com/album/2gCfdIhyW4Sr2TYWUy2Rkc) | 4:08 |
 | 88 | [Minotauro](https://open.spotify.com/track/3EaQ8vn5i8TUyE5jmSAn2U) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Minotauro](https://open.spotify.com/album/2hAcA9mRxXHUvAJ5SIj1dg) | 4:05 |
 | 89 | [Me Estás Matando](https://open.spotify.com/track/2mAEh1VRtDyesBTJvnOwHw) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Loop’n Soup](https://open.spotify.com/artist/7aCwMyxItJHSUrLKpUnBTJ) | [Eclipse](https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3) | 2:15 |
-| 90 | [ANIMAL](https://open.spotify.com/track/06b0Au6pvZiO03eKTCvgWh) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ANIMAL](https://open.spotify.com/album/4eBTljS2CAgzO8rfcwRTGp) | 2:50 |
-| 91 | [Fe de Errata](https://open.spotify.com/track/7lj2BqZyPehFyu3y6N1qqw) | [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [Claro](https://open.spotify.com/album/5AmcGezfEa27mu3Mx6bPas) | 3:06 |
+| 90 | [Fe de Errata](https://open.spotify.com/track/7lj2BqZyPehFyu3y6N1qqw) | [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [Claro](https://open.spotify.com/album/5AmcGezfEa27mu3Mx6bPas) | 3:06 |
+| 91 | [ANIMAL](https://open.spotify.com/track/06b0Au6pvZiO03eKTCvgWh) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ANIMAL](https://open.spotify.com/album/4eBTljS2CAgzO8rfcwRTGp) | 2:50 |
 | 92 | [Pura Droga Sin Cortar](https://open.spotify.com/track/7zUhVz7yMmO1mmbfFI8R5i) | [Violadores Del Verso](https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY) | [Vivir para Contarlo](https://open.spotify.com/album/6LeLj7gigY7PBgPVZ6P25f) | 6:14 |
 | 93 | [Cantidad y Quality \(feat\. Cancerbero\)](https://open.spotify.com/track/2ZtwyLSmuCO1QGXINW2aOC) | [Rapper School](https://open.spotify.com/artist/5iGxZSbSLhdLoqTg9KZtlt), [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [We Don´t Play](https://open.spotify.com/album/013m9uu0v5Lur1lOdohitX) | 4:57 |
-| 94 | [Gaminart](https://open.spotify.com/track/0KjEYmw0KaSg3uXS0GU7un) | [Crack Family](https://open.spotify.com/artist/7zXRgSpjJkQmB9SnPLq1Qk), [Aerophon](https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep) | [La Familia, Cap\. 1](https://open.spotify.com/album/246c5sNjasakCN9bGXQZvZ) | 5:09 |
-| 95 | [Efectos Vocales](https://open.spotify.com/track/5CTkt6WZHrzG7i060niTmV) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Un Día En Suburbia](https://open.spotify.com/album/0aJ4ulwOTjZIMgcx5zVBd7) | 4:36 |
+| 94 | [Efectos Vocales](https://open.spotify.com/track/5CTkt6WZHrzG7i060niTmV) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Un Día En Suburbia](https://open.spotify.com/album/0aJ4ulwOTjZIMgcx5zVBd7) | 4:36 |
+| 95 | [Gaminart](https://open.spotify.com/track/0KjEYmw0KaSg3uXS0GU7un) | [Crack Family](https://open.spotify.com/artist/7zXRgSpjJkQmB9SnPLq1Qk), [Aerophon](https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep) | [La Familia, Cap\. 1](https://open.spotify.com/album/246c5sNjasakCN9bGXQZvZ) | 5:09 |
 | 96 | [Unidad 9](https://open.spotify.com/track/4e4zBLxCHWwOyfT1qkXcFb) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G) | [Unidad 9](https://open.spotify.com/album/4h2vgnpajpNUUnilwMjxjQ) | 2:40 |
 | 97 | [Fly Chill](https://open.spotify.com/track/2N7IoT0kof97BeaQmgw8Qd) | [Cráneo](https://open.spotify.com/artist/05aVtfDzBvg9eVu9MAZPGD) | [HandMade](https://open.spotify.com/album/03pei2ys07tBBGUi0Xrly8) | 3:54 |
-| 98 | [Manos de Anillo](https://open.spotify.com/track/7vbYVWDpMxZS97V5dPeflc) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Manos de Anillo](https://open.spotify.com/album/2TWqwQ1OOfbI8D7g31SbQU) | 3:45 |
-| 99 | [Homer el Mero Mero](https://open.spotify.com/track/1V6KZnJeDj25lYJdqDoydT) | [El Triangulo Estudio](https://open.spotify.com/artist/0N9TZYLIcufVLj5eQl5GLm) | [24/Siempre Vol.1](https://open.spotify.com/album/6pXhkTQvS9ZYWSJfETLnKr) | 2:32 |
-| 100 | [光 Luz](https://open.spotify.com/track/5aF2hoUHaU9GainPXIZDMV) | [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [Serio](https://open.spotify.com/album/1rSmB2J6FBTsH9NOCV24xW) | 4:44 |
+| 98 | [光 Luz](https://open.spotify.com/track/5aF2hoUHaU9GainPXIZDMV) | [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [Serio](https://open.spotify.com/album/1rSmB2J6FBTsH9NOCV24xW) | 4:44 |
+| 99 | [Manos de Anillo](https://open.spotify.com/track/7vbYVWDpMxZS97V5dPeflc) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Manos de Anillo](https://open.spotify.com/album/2TWqwQ1OOfbI8D7g31SbQU) | 3:45 |
+| 100 | [Homer el Mero Mero](https://open.spotify.com/track/1V6KZnJeDj25lYJdqDoydT) | [El Triangulo Estudio](https://open.spotify.com/artist/0N9TZYLIcufVLj5eQl5GLm) | [24/Siempre Vol.1](https://open.spotify.com/album/6pXhkTQvS9ZYWSJfETLnKr) | 2:32 |
 
-Snapshot ID: `MCwyY2EwNTQ4Y2JmNTQ5MjNiOWY4YTg3MDMyYmM4ZTM0Y2Y0MTMzZjg0`
+Snapshot ID: `MCwwZWJmZTdhOGEzNjY1NzIyZDBiMzZiNGMwYmU4OWMwZDNhYzc4NTUy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 
 > Hits con sabor\. Cover: Juan Luis Guerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 604,848 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 604,855 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 | 23 | [El Pañuelo](https://open.spotify.com/track/7jfmlr5W2AQWUGLVhT8ofl) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 3:54 |
 | 24 | [Algo Que Se Quede](https://open.spotify.com/track/1JXcB149QtbcIpDUA6YZOB) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [40](https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk) | 3:40 |
 | 25 | [COBARDE](https://open.spotify.com/track/2IEhUsa1s1seGFAySt3zh7) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [COBARDE](https://open.spotify.com/album/5OZzcXlWpCUFz5sNa09zy6) | 2:46 |
-| 26 | [Ateo](https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Ateo](https://open.spotify.com/album/6Re7sviVustR53KeArspwK) | 3:59 |
+| 26 | [Dharma](https://open.spotify.com/track/5tpAcJ47UgF4udM5YXcDd2) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Rosario](https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW) | [Dharma](https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8) | 3:15 |
 | 27 | [Te Espero](https://open.spotify.com/track/46GsFW8AFIvi8TUDlYRlXR) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Te Espero](https://open.spotify.com/album/6vBJJJEUCqmzaBnzwtRgPK) | 4:06 |
-| 28 | [Dharma](https://open.spotify.com/track/5tpAcJ47UgF4udM5YXcDd2) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Rosario](https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW) | [Dharma](https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8) | 3:15 |
+| 28 | [Ateo](https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Ateo](https://open.spotify.com/album/6Re7sviVustR53KeArspwK) | 3:59 |
 | 29 | [Inmortal](https://open.spotify.com/track/2swZ0X1njeU32SNJeBKIfW) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Utopia](https://open.spotify.com/album/1yM8iaMk4Slsqr94LabgN1) | 4:16 |
 | 30 | [Canción Bonita](https://open.spotify.com/track/5iF33sXejXwfTuidVHMll0) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Canción Bonita](https://open.spotify.com/album/0MykRhKNiatX85K4bCHL8U) | 2:49 |
 | 31 | [Vida de Rico](https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Vida de Rico](https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 | 99 | [Los Recuerdos](https://open.spotify.com/track/2huEu8faRAhs0OAtTa5hpH) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [Los Recuerdos](https://open.spotify.com/album/0xGbVhKSRFIzUFLDWsmJYV) | 2:41 |
 | 100 | [¿ Y Ahora Qué Hacemos?](https://open.spotify.com/track/3jOpw80FiCU3N49m1CV2zL) | [You Salsa](https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU), [Tony Succar](https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk) | [¿ Y Ahora Qué Hacemos?](https://open.spotify.com/album/3BuFuLP7IIPlu5GqORitBQ) | 4:58 |
 
-Snapshot ID: `MCxlNzI3N2NiYmY0OWY3MTNiZjE5YjdjM2M2MDkxY2RiZjIwZjA1NWE0`
+Snapshot ID: `MCxmODFmMzc1MmY3ODgwYmI2Zjg0OWQxODM3NDdlZWUyNTk3NTgxMTVl`

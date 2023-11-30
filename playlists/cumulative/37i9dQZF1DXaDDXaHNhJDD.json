@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-06-22",
-  "description": "Your ultimate playlist for the best in Mollywood!\nCover: 2018",
-  "name": "Mollywood Gold",
+  "description": "Best performed tracks of Mollywood Gold in 2023 #SpotifyWrapped Cover : King Of Kotha",
+  "name": " Best of Mollywood Gold in 2023",
   "tracks": [
     {
       "album": {
@@ -2904,6 +2904,36 @@
     {
       "album": {
         "name": "Pala Palli (From \"Kaduva\")",
+        "url": "https://open.spotify.com/album/6nrGCjW99iWaqvMtP5vedP"
+      },
+      "artists": [
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        },
+        {
+          "name": "Athul Narukara",
+          "url": "https://open.spotify.com/artist/7d6mBwW3zN59r4vm8TnrWR"
+        },
+        {
+          "name": "Sreehari Tharayil",
+          "url": "https://open.spotify.com/artist/55R7HwzGK04R3Mb86Gq9D7"
+        },
+        {
+          "name": "Santhosh Varma",
+          "url": "https://open.spotify.com/artist/57muzX4Ow2NbBL4nOa5bvp"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270157,
+      "name": "Pala Palli (From \"Kaduva\")",
+      "url": "https://open.spotify.com/track/22bYBTbMlfs95PWLLdrCRv"
+    },
+    {
+      "album": {
+        "name": "Pala Palli (From \"Kaduva\")",
         "url": "https://open.spotify.com/album/0tnVc5jTzoQuLr7QiGK5Uk"
       },
       "artists": [
@@ -2918,7 +2948,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 270157,
       "name": "Pala Palli - From \"Kaduva\"",
       "url": "https://open.spotify.com/track/65orA4uL6HAdy9j9VeXxFC"
@@ -3376,6 +3406,32 @@
     {
       "album": {
         "name": "Sakhiyeee (From \"Thrissur Pooram\")",
+        "url": "https://open.spotify.com/album/1ykaTShNVmXd5o8iUcWu5e"
+      },
+      "artists": [
+        {
+          "name": "Ratheesh Vega",
+          "url": "https://open.spotify.com/artist/0t1SWo8gEEppMdY6IEzRsl"
+        },
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "B.K. Harinarayanan",
+          "url": "https://open.spotify.com/artist/2NwWBme8V5okH9vQWrNxAV"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294144,
+      "name": "Sakhiyeee (From \"Thrissur Pooram\")",
+      "url": "https://open.spotify.com/track/6v1lIN2biwtz9oCagGe0c6"
+    },
+    {
+      "album": {
+        "name": "Sakhiyeee (From \"Thrissur Pooram\")",
         "url": "https://open.spotify.com/album/3p3Uxg1wnnEjzZTmfRWz0D"
       },
       "artists": [
@@ -3390,7 +3446,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 294124,
       "name": "Sakhiyeee - From \"Thrissur Pooram\"",
       "url": "https://open.spotify.com/track/1h9a23OsWfQbrazCujBqlc"
@@ -3702,10 +3758,40 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 263082,
       "name": "Theerame",
       "url": "https://open.spotify.com/track/3UHB6erVvDNX0OaqX3ncO3"
+    },
+    {
+      "album": {
+        "name": "Malik (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1JSu2Oir7oRN2EcdfL6KbQ"
+      },
+      "artists": [
+        {
+          "name": "Sushin Shyam",
+          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        },
+        {
+          "name": "Sooraj Santhosh",
+          "url": "https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB"
+        },
+        {
+          "name": "Anwar Ali",
+          "url": "https://open.spotify.com/artist/6ccDjsU6h03TcrKOvBeiu2"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263082,
+      "name": "Theerame",
+      "url": "https://open.spotify.com/track/4mjS1p9StkylrZPj6LIkjg"
     },
     {
       "album": {

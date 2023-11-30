@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNDEz8jM1rl.md) - [plain]
 
 > ¡Vamos a bailar con Dios!
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,569 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,602 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNDEz8jM1rl.md) - [plain]
 | 34 | [Agradecido Estoy](https://open.spotify.com/track/79AXaiRAYMxFEkMm0LDbT5) | [Nicold Frias](https://open.spotify.com/artist/2mWMcOU54bpKuJySMu6nGv) | [Los Éxitos de Jesús Adrian Romero en Bachata](https://open.spotify.com/album/6NUkdjifZOqPDWY8IFZAlB) | 4:10 |
 | 35 | [Sana Nuestra Tierra](https://open.spotify.com/track/6ybmVFm0raojnGUrcHA6P7) | [Yan Rymond](https://open.spotify.com/artist/0Sopxx9Oh7GroU4m6aVa4j) | [Alegria Latina](https://open.spotify.com/album/72A2TVtTvR3QsqSzgUs0nR) | 3:59 |
 | 36 | [Ante Tus Pies](https://open.spotify.com/track/2SVIzC2JLC8QZ2wt4Pyis2) | [Pablo Caldarelli](https://open.spotify.com/artist/3UNQgVdq9T2fM1FGjEVQyT), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Ante Tus Pies](https://open.spotify.com/album/6gkpLRy39wZf5xX8jGrZY3) | 3:32 |
-| 37 | [Eternamente Amor](https://open.spotify.com/track/20TvKgvjIlkUpFPCXUOE46) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3), [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Fragmentos Do Céu](https://open.spotify.com/album/6TSkaLuTf3krKOP6G9MQ0e) | 4:02 |
-| 38 | [Armonía](https://open.spotify.com/track/2y4Hu4zHZIvdfuRd5zdnRM) | [GaVriel](https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2) | [Armonía](https://open.spotify.com/album/7F5gP0i2p3IpsJcXBap4Nn) | 2:55 |
+| 37 | [Armonía](https://open.spotify.com/track/2y4Hu4zHZIvdfuRd5zdnRM) | [GaVriel](https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2) | [Armonía](https://open.spotify.com/album/7F5gP0i2p3IpsJcXBap4Nn) | 2:55 |
+| 38 | [Eternamente Amor](https://open.spotify.com/track/20TvKgvjIlkUpFPCXUOE46) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3), [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Fragmentos Do Céu](https://open.spotify.com/album/6TSkaLuTf3krKOP6G9MQ0e) | 4:02 |
 | 39 | [El Mismo De Ayer](https://open.spotify.com/track/14vPeVOX4it5xXsTKqQlIC) | [Josue Escogido](https://open.spotify.com/artist/75Gl0anAafMmfj2gSUP2VK), [Yariel y Omy](https://open.spotify.com/artist/57rWlpin8dSDoSuO0bcr0f) | [Lo Que Dice El Alma](https://open.spotify.com/album/6diQlol7c5bsMCk85RXRgu) | 4:17 |
 | 40 | [Cuando Se Acaba El Amor](https://open.spotify.com/track/2FXKO3yAmNgFE3GcNsuJDd) | [Giovanni Rios](https://open.spotify.com/artist/5bJbyAOugvWGdfwZ2Yzptl) | [Solo Bachata](https://open.spotify.com/album/3r3NL0WmDLp0gpR8TGifhd) | 5:01 |
 | 41 | [Espiritu De Dios](https://open.spotify.com/track/3PchABMkZW9CPTrKiS2IOV) | [Javier Maldonado](https://open.spotify.com/artist/773eYjENFwQa4WWsahVm76) | [No Hay Nada Imposible](https://open.spotify.com/album/3S7tVmHEPScYVF1gflAkI6) | 4:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNDEz8jM1rl.md) - [plain]
 | 49 | [Forever Endless Love](https://open.spotify.com/track/7yVuvjNmRKiml7JUAQkoDr) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Fragments Of Heaven](https://open.spotify.com/album/2SJpNluswRcABfuGq8R8ug) | 4:02 |
 | 50 | [Dios Está en Control](https://open.spotify.com/track/65X1pjaVF89MNtR59GRMWW) | [La Banda Gorda](https://open.spotify.com/artist/6biY6yyLVZzisjmFLx0AP1) | [Dios Está en Control](https://open.spotify.com/album/1mOugK66Bd9AXwzsTuZI1y) | 4:18 |
 
-Snapshot ID: `MCw1OWUxM2Q0ZGFlYzAzMjk2MTE4NjZlMjY2YzQwNjc1MjBmMGMzMjBj`
+Snapshot ID: `MCwyOTk4NmQ4ZGYzMzMzZWM4MjliNTZlNzM4NGFjZGRkMGE1OTVjOGQ5`

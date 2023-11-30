@@ -1,12 +1,12 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: DNGDNGDNG",
-  "num_followers": 357097,
+  "num_followers": 357260,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NTRmODhhYzZlN2Q0NDE1ZTEwMzRlNDRkYWJkNTdlY2JjMjU2N2Yz",
+  "snapshot_id": "MCw5MTRiNGNjZjJkNzcyZDBlZWQ0MzMxOTcyMjU4ZGI0OWJiMDIwZWZh",
   "tracks": [
     {
       "added_at": "2023-11-24 02:05:30",
@@ -235,6 +235,26 @@
     {
       "added_at": "2023-11-24 02:05:30",
       "album": {
+        "name": "6",
+        "url": "https://open.spotify.com/album/45ezkv6t2ypiXuqLd1nez7"
+      },
+      "artists": [
+        {
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        },
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
+        }
+      ],
+      "duration_ms": 219600,
+      "name": "Hipn\u00f3tico",
+      "url": "https://open.spotify.com/track/4jo8s0TQGVHnmZ2gjErAQ2"
+    },
+    {
+      "added_at": "2023-11-24 02:05:30",
+      "album": {
         "name": "Otun",
         "url": "https://open.spotify.com/album/04o8fTvz7ZcMYVnIx0HAgv"
       },
@@ -271,26 +291,6 @@
       "duration_ms": 221925,
       "name": "Mama Clo",
       "url": "https://open.spotify.com/track/1yOhCkYRiXZF8eB4JhJvx5"
-    },
-    {
-      "added_at": "2023-11-24 02:05:30",
-      "album": {
-        "name": "6",
-        "url": "https://open.spotify.com/album/45ezkv6t2ypiXuqLd1nez7"
-      },
-      "artists": [
-        {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
-        },
-        {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
-        }
-      ],
-      "duration_ms": 219600,
-      "name": "Hipn\u00f3tico",
-      "url": "https://open.spotify.com/track/4jo8s0TQGVHnmZ2gjErAQ2"
     },
     {
       "added_at": "2023-11-24 02:05:30",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-11-24 02:05:30",
       "album": {
-        "name": "Te Quiero Olvidar",
-        "url": "https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY"
-      },
-      "artists": [
-        {
-          "name": "Salt Cathedral",
-          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
-        }
-      ],
-      "duration_ms": 202519,
-      "name": "Te Quiero Olvidar",
-      "url": "https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw"
-    },
-    {
-      "added_at": "2023-11-24 02:05:30",
-      "album": {
         "name": "Siku",
         "url": "https://open.spotify.com/album/3Ebykp28PuMSSQfqzkt8DO"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 347763,
       "name": "Siete",
       "url": "https://open.spotify.com/track/6H76nYgiuQ1BotX9hUKW6i"
+    },
+    {
+      "added_at": "2023-11-24 02:05:30",
+      "album": {
+        "name": "Te Quiero Olvidar",
+        "url": "https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY"
+      },
+      "artists": [
+        {
+          "name": "Salt Cathedral",
+          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
+        }
+      ],
+      "duration_ms": 202519,
+      "name": "Te Quiero Olvidar",
+      "url": "https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw"
     },
     {
       "added_at": "2023-11-24 02:05:30",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-11-24 02:05:30",
       "album": {
-        "name": "Shika Shika / Botanas, Vol. 15",
-        "url": "https://open.spotify.com/album/3j77K4QCAKPo65lXnbDBY6"
-      },
-      "artists": [
-        {
-          "name": "Karen y Los Remedios",
-          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
-        }
-      ],
-      "duration_ms": 273846,
-      "name": "Presagio",
-      "url": "https://open.spotify.com/track/7hVwUppGpBWzfyEvejlYjz"
-    },
-    {
-      "added_at": "2023-11-24 02:05:30",
-      "album": {
         "name": "La Estrella",
         "url": "https://open.spotify.com/album/7quHZhPNAMaxImHsjrOkSr"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 208005,
       "name": "El pavo real",
       "url": "https://open.spotify.com/track/7CscQhRVoHs50YioshIbuQ"
+    },
+    {
+      "added_at": "2023-11-24 02:05:30",
+      "album": {
+        "name": "Shika Shika / Botanas, Vol. 15",
+        "url": "https://open.spotify.com/album/3j77K4QCAKPo65lXnbDBY6"
+      },
+      "artists": [
+        {
+          "name": "Karen y Los Remedios",
+          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
+        }
+      ],
+      "duration_ms": 273846,
+      "name": "Presagio",
+      "url": "https://open.spotify.com/track/7hVwUppGpBWzfyEvejlYjz"
     },
     {
       "added_at": "2023-11-24 02:05:30",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-11-24 02:05:30",
       "album": {
-        "name": "Respira",
-        "url": "https://open.spotify.com/album/1LE1cbHMViiLVaJFaNxGvJ"
-      },
-      "artists": [
-        {
-          "name": "Mateo Kingman",
-          "url": "https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx"
-        }
-      ],
-      "duration_ms": 231346,
-      "name": "Sendero del Monte",
-      "url": "https://open.spotify.com/track/48TkZlKN57XcU049NoKmOd"
-    },
-    {
-      "added_at": "2023-11-24 02:05:30",
-      "album": {
         "name": "Pleamar",
         "url": "https://open.spotify.com/album/2sYEdoLqzCfNjVJysNB2vN"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 235032,
       "name": "El Mago Georges",
       "url": "https://open.spotify.com/track/7aNo1mzQehEj0K8SBsMAVp"
+    },
+    {
+      "added_at": "2023-11-24 02:05:30",
+      "album": {
+        "name": "Respira",
+        "url": "https://open.spotify.com/album/1LE1cbHMViiLVaJFaNxGvJ"
+      },
+      "artists": [
+        {
+          "name": "Mateo Kingman",
+          "url": "https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx"
+        }
+      ],
+      "duration_ms": 231346,
+      "name": "Sendero del Monte",
+      "url": "https://open.spotify.com/track/48TkZlKN57XcU049NoKmOd"
     },
     {
       "added_at": "2023-11-24 02:05:30",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-11-24 02:05:30",
       "album": {
-        "name": "Ghetto Kumb\u00e9",
-        "url": "https://open.spotify.com/album/0eqlUfZMwPxebIrelMJZVe"
-      },
-      "artists": [
-        {
-          "name": "Ghetto Kumb\u00e9",
-          "url": "https://open.spotify.com/artist/2e74MUhJZSeg2Goe2UUAj3"
-        }
-      ],
-      "duration_ms": 255976,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/3pFvfrF9ye3Cn97rcZZv3q"
-    },
-    {
-      "added_at": "2023-11-24 02:05:30",
-      "album": {
         "name": "La Monta\u00f1a",
         "url": "https://open.spotify.com/album/3aUiHq5tSrFLsF3GtoyDGV"
       },
@@ -1079,22 +1063,46 @@
     {
       "added_at": "2023-11-24 02:05:30",
       "album": {
-        "name": "De Aqu\u00ed Hasta Aqu\u00ed",
-        "url": "https://open.spotify.com/album/3zcF5WOEhG12wtu4VFUNBY"
+        "name": "Semillero",
+        "url": "https://open.spotify.com/album/4yjnNPa3bH1Vwrepclo6d4"
       },
       "artists": [
         {
-          "name": "Federico Estevez",
-          "url": "https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41"
+          "name": "Dengue Dengue Dengue",
+          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
         },
         {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+          "name": "Penya",
+          "url": "https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU"
         }
       ],
-      "duration_ms": 196998,
-      "name": "El Quemado",
-      "url": "https://open.spotify.com/track/5W5S8hUx2LHauozu4zJMji"
+      "duration_ms": 348009,
+      "name": "Pua",
+      "url": "https://open.spotify.com/track/4b3bYGxsCzLnPwQ5CyRlQX"
+    },
+    {
+      "added_at": "2023-11-24 02:05:30",
+      "album": {
+        "name": "Mariposa",
+        "url": "https://open.spotify.com/album/0znYmByBOKwFZunIH24Lth"
+      },
+      "artists": [
+        {
+          "name": "CANU",
+          "url": "https://open.spotify.com/artist/0LRrOx7jaNrYkN1WcHeNMU"
+        },
+        {
+          "name": "Nu",
+          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
+        },
+        {
+          "name": "Alejandro Castelli",
+          "url": "https://open.spotify.com/artist/1PNTdpk9ro2EyigI6gxZVN"
+        }
+      ],
+      "duration_ms": 477049,
+      "name": "Mariposa",
+      "url": "https://open.spotify.com/track/0g49ATUHh1IJtrXW77VysX"
     }
   ],
   "unique_name": "El\u00e9ctrica Selv\u00e1tica",

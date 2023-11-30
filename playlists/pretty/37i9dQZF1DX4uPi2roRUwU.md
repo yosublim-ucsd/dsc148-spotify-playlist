@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uPi2roRUwU.md) - [plain]
 
 > Diese Beats machen garantiert gute Laune!
 
-[Spotify](https://open.spotify.com/user/spotify) - 980,145 likes - 60 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 980,174 likes - 60 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,11 +38,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uPi2roRUwU.md) - [plain]
 | 28 | [Paradise](https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Paradise](https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3) | 3:17 |
 | 29 | [We Could Be Together](https://open.spotify.com/track/3ElGRG3DqSzzkh1b2wnbzf) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Daddy DJ](https://open.spotify.com/artist/2Bc52Zzq4Hx7Dqm0Qw8bJL) | [We Could Be Together \(feat\. Daddy DJ\)](https://open.spotify.com/album/7xgmfo0gHFJk9DNdOfqBNn) | 2:29 |
 | 30 | [Past Life](https://open.spotify.com/track/4yc0wKwKXGkx9Vqc42MIFy) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Past Life](https://open.spotify.com/album/0vJYeZ82yiEUvuGBDMoqwL) | 3:16 |
-| 31 | [The Middle](https://open.spotify.com/track/0HObAomnnHRMv2kuEBIMbz) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [The Middle](https://open.spotify.com/album/5rx0mq6OoS8VmVfDq4yoYq) | 2:27 |
-| 32 | [Like You Do](https://open.spotify.com/track/1ap4zdsBydWPSXJqDBqtNL) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Like You Do](https://open.spotify.com/album/1riQFcgbb1smSKeWVarPDx) | 2:32 |
+| 31 | [Like You Do](https://open.spotify.com/track/1ap4zdsBydWPSXJqDBqtNL) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Like You Do](https://open.spotify.com/album/1riQFcgbb1smSKeWVarPDx) | 2:32 |
+| 32 | [The Middle](https://open.spotify.com/track/0HObAomnnHRMv2kuEBIMbz) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [The Middle](https://open.spotify.com/album/5rx0mq6OoS8VmVfDq4yoYq) | 2:27 |
 | 33 | [Lionheart \(Fearless\)](https://open.spotify.com/track/5vlzH0ps6WDyb158oFTAb3) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Lionheart \(Fearless\)](https://open.spotify.com/album/68U7caniDmdQHifJdnlYFT) | 3:06 |
-| 34 | [More Than I Can Say](https://open.spotify.com/track/1Kmth9jEjaymopjSRBmtkz) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [D.T.E](https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q) | [More Than I Can Say](https://open.spotify.com/album/7uIapyvYvTGZtM3Osj9kiB) | 2:33 |
-| 35 | [Wings \(I Won't Let You Down\)](https://open.spotify.com/track/0QZyAYqpbsfnBfZ4vMRSVd) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Wings \(I Won't Let You Down\)](https://open.spotify.com/album/5pPckXGvpwvr78wj5EPLZS) | 2:51 |
+| 34 | [Wings \(I Won't Let You Down\)](https://open.spotify.com/track/0QZyAYqpbsfnBfZ4vMRSVd) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Wings \(I Won't Let You Down\)](https://open.spotify.com/album/5pPckXGvpwvr78wj5EPLZS) | 2:51 |
+| 35 | [More Than I Can Say](https://open.spotify.com/track/1Kmth9jEjaymopjSRBmtkz) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [D.T.E](https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q) | [More Than I Can Say](https://open.spotify.com/album/7uIapyvYvTGZtM3Osj9kiB) | 2:33 |
 | 36 | [Ritmo](https://open.spotify.com/track/4FHXsehfIbyPCJLP7fCnIF) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5) | [Ritmo](https://open.spotify.com/album/40DTjrBkgfSD4pb1CnlCgl) | 3:03 |
 | 37 | [Shivers \- Ofenbach Remix](https://open.spotify.com/track/1eGlStOBtFJ6Oc4hhN5tUR) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [Shivers \(Ofenbach Remix\)](https://open.spotify.com/album/3Dru9IyxnZXhmrNbSv56yl) | 3:07 |
 | 38 | [Rain In Ibiza](https://open.spotify.com/track/5u8Y0lAUlBLwuhpXSDUGf4) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Rain In Ibiza](https://open.spotify.com/album/034jdvpqZ6172bXix4BEmN) | 2:21 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uPi2roRUwU.md) - [plain]
 | 59 | [Three Little Birds](https://open.spotify.com/track/1EytZ5aKjaGDsk8ujrFWoV) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [71 Digits](https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC) | [Three Little Birds](https://open.spotify.com/album/7AulSlkspgPvEqJmjsUqXD) | 2:36 |
 | 60 | [Call On Me \(feat\. Georgia Ku\)](https://open.spotify.com/track/3pBv3LfvfPft2TqHleqKHo) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [Call On Me \(feat\. Georgia Ku\)](https://open.spotify.com/album/5QMT9mIOJDWUfoDZwUKYvc) | 3:12 |
 
-Snapshot ID: `MCxkOTViY2QxY2I5ZDA0M2IxMTFjZjQyMmJlNGYzZWEyOGNkODA0MTZh`
+Snapshot ID: `MCxiMjRhMWYxZWUyMDUzYTRjMjZlMzU5ZGMyYjlhZmU0NWYyZGM1M2E1`

@@ -595,6 +595,24 @@
     },
     {
       "album": {
+        "name": "But I Got A Beer In My Hand",
+        "url": "https://open.spotify.com/album/2g95B2AWT2gDusBqYO7it3"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176426,
+      "name": "But I Got A Beer In My Hand",
+      "url": "https://open.spotify.com/track/3jhV8I9sIPXsjPs2ZOnSaf"
+    },
+    {
+      "album": {
         "name": "Blue Roses",
         "url": "https://open.spotify.com/album/0BUbVHeDmGXl3lzOENF9Wc"
       },
@@ -834,7 +852,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 169293,
       "name": "Creek Will Rise",
       "url": "https://open.spotify.com/track/5owS9iWWGd6mDlFjUFzBsw"

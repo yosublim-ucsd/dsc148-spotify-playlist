@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 
 > Les plus belles ballades de la chanson française.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,207 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,306 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 16 | [Voilà](https://open.spotify.com/track/0UVlOQ3EEiTVOctUOnJ00w) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [On n’enferme pas les oiseaux](https://open.spotify.com/album/5n2gREH4hxQuJF2vZ6feHD) | 2:57 |
 | 17 | [Et Bam](https://open.spotify.com/track/3qYfcGBdH6Nqe18QTGgfXz) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [Et Bam](https://open.spotify.com/album/1oKPZz10joNRUeoG3qFKD8) | 3:39 |
 | 18 | [Longtemps](https://open.spotify.com/track/73yB2HMz9zu0VcueZ4P1UU) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [Addictions \(Ultimate Version\)](https://open.spotify.com/album/3Pn9nKN7m8MKBhAtRzuugW) | 3:39 |
-| 19 | [Comme des enfants](https://open.spotify.com/track/5H3ChVfItCaDpj1vPbigyX) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Cœur de pirate](https://open.spotify.com/album/7yuOxsQ525jlzWdKl05DJp) | 2:49 |
-| 20 | [Les mots bleus](https://open.spotify.com/track/2g0iE5qCFBlT86XalEsfKf) | [Christophe](https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ) | [Original Album Classics](https://open.spotify.com/album/2AIYwfhUGyroQaXLRXxZm2) | 4:10 |
+| 19 | [Les mots bleus](https://open.spotify.com/track/2g0iE5qCFBlT86XalEsfKf) | [Christophe](https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ) | [Original Album Classics](https://open.spotify.com/album/2AIYwfhUGyroQaXLRXxZm2) | 4:10 |
+| 20 | [Comme des enfants](https://open.spotify.com/track/5H3ChVfItCaDpj1vPbigyX) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Cœur de pirate](https://open.spotify.com/album/7yuOxsQ525jlzWdKl05DJp) | 2:49 |
 | 21 | [Quand on n'a que l'amour \- Arrangements différents](https://open.spotify.com/track/607sF1ISzfKaWa29eF3I14) | [Jacques Brel](https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs) | [15 Ans D'Amour](https://open.spotify.com/album/6Us9T05UuNDMP2NtVrSVyG) | 2:33 |
 | 22 | [J'te l'dis quand même](https://open.spotify.com/track/1Ek1OEhcEw9gRr5fxVizhk) | [Patrick Bruel](https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg) | [Alors regarde](https://open.spotify.com/album/2BPmd6BmvLHEz9ieEJBSNt) | 3:39 |
 | 23 | [L'ombre et la lumière](https://open.spotify.com/track/7yzUHiCgF7JOzJOFE0Bnpd) | [Coralie Clement](https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4) | [Salle des pas perdus](https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY) | 4:08 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 52 | [Le tourbillon de la vie](https://open.spotify.com/track/5vLnGZWyrMu5S1792Xzh8l) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd), [Jeanne Moreau](https://open.spotify.com/artist/3rbOOc4VJ3BFxQXKppOuQP) | [Best Of & Variations](https://open.spotify.com/album/0wg9EB4O6kCJJJkrH25Vgh) | 2:59 |
 | 53 | [T'es Belle](https://open.spotify.com/track/3SnAZtodqwylc35c3tP0wZ) | [Volo](https://open.spotify.com/artist/11T4vCBbGWjL5boJmWeiw9) | [Jours Heureux](https://open.spotify.com/album/7jUVoBb0xFVgnqoBOVuvxX) | 2:29 |
 | 54 | [Femmes..\. Je vous aime](https://open.spotify.com/track/1Cis3BiUs6rLpT3BnRy1TR) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [Femmes, indiscrétion, blasphème](https://open.spotify.com/album/6F7PDFzEi076fEcgMTt34f) | 4:23 |
-| 55 | [So Far Away from L.A.](https://open.spotify.com/track/4OnWd9bQcVfjo5U63SLTXQ) | [Nicolas Peyrac](https://open.spotify.com/artist/5OGPLZXdTrhI3RMBjGi1rl) | [D'où venez\-vous ?](https://open.spotify.com/album/397PJkwZTSa8abMLaQwf88) | 4:12 |
-| 56 | [Immortels](https://open.spotify.com/track/64XJOksESduPbepHxmW2rT) | [Alain Bashung](https://open.spotify.com/artist/6y1aZyP40077De3neGJD2b) | [En amont](https://open.spotify.com/album/3zr5AVUYkVkezcHSqBfrxH) | 4:24 |
+| 55 | [Immortels](https://open.spotify.com/track/64XJOksESduPbepHxmW2rT) | [Alain Bashung](https://open.spotify.com/artist/6y1aZyP40077De3neGJD2b) | [En amont](https://open.spotify.com/album/3zr5AVUYkVkezcHSqBfrxH) | 4:24 |
+| 56 | [So Far Away from L.A.](https://open.spotify.com/track/4OnWd9bQcVfjo5U63SLTXQ) | [Nicolas Peyrac](https://open.spotify.com/artist/5OGPLZXdTrhI3RMBjGi1rl) | [D'où venez\-vous ?](https://open.spotify.com/album/397PJkwZTSa8abMLaQwf88) | 4:12 |
 | 57 | [Sur un prélude de Bach](https://open.spotify.com/track/5zfkEYXMQPXO7usJOPm7cB) | [Maurane](https://open.spotify.com/artist/1bsGJW4NXgXaHzD2Lpk7if) | [Ami Ou Ennemi](https://open.spotify.com/album/6SLKeOEgpg9XmpsKxxXCBU) | 4:50 |
 | 58 | [Aimer à perdre la raison](https://open.spotify.com/track/2qGeC6tm9qwjQw0dNDMCzP) | [Jean Ferrat](https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt) | [Je ne chante pas pour passer le temps](https://open.spotify.com/album/7N1p95delnJ0Rqn7vndbjD) | 2:21 |
 | 59 | [Manque d'Amour](https://open.spotify.com/track/3AtdizIe78tjWmbyZbgIoV) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Petite Amie \(Edition Délice\)](https://open.spotify.com/album/2aVn7kwlqc8OmtEqpmuf3N) | 3:06 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 74 | [Les p'tites jolies choses](https://open.spotify.com/track/79X8l247aT8r4cKON18nMX) | [Joyce Jonathan](https://open.spotify.com/artist/25eQCECJH4VTpBYV9jhpyE) | [Les p'tites jolies choses](https://open.spotify.com/album/4bQJbVYzrX2HuPdmvcYg7S) | 3:27 |
 | 75 | [Pas toi \- au New Morning 1994 \(concert acoustique\)](https://open.spotify.com/track/2i3ZEXYOanRZlariHUfSLN) | [Carole Fredericks](https://open.spotify.com/artist/4EfRgpfLaAzQLV08MpruGH), [Jean\-Jacques Goldman](https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2), [Michael Jones](https://open.spotify.com/artist/0AF8vOjsrk66ofuPhHCKqW) | [Fredericks, Goldman, Jones : Du New Morning au Zénith \(Live\)](https://open.spotify.com/album/2VXif8oyxvqZ8EMnhBbp2S) | 5:23 |
 
-Snapshot ID: `MCxhMWQ3NTUxYTBjZjQyMTlhNDY2NGU2NDEwMjEwOTQ2NTdkZmMwMzAz`
+Snapshot ID: `MCxlMGM4NWE1ZmFmZmVhODIzZmVmNWQ2NmFlY2RmMGU2NzI3YzhlOGRi`

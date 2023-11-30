@@ -1,12 +1,12 @@
 {
   "description": "Que no falte la m\u00fasica, la familia y los amigos. \u00a1Felices fiestas!",
-  "num_followers": 240,
+  "num_followers": 275,
   "original_name": "Fiesta Decembrina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjM2MjBlMGYyZTJjOTRiYWMyNzQ1YzM5ZGY5Zjc1NmExOTk3MDI0",
+  "snapshot_id": "MCwxOWEwMTY0ZGM2NDg3ODU2Njg4NDdjMzk2YTk1MmRjZjNiZjA1ZjBj",
   "tracks": [
     {
       "added_at": "2023-11-22 17:06:24",
@@ -787,26 +787,6 @@
     {
       "added_at": "2023-11-22 17:06:24",
       "album": {
-        "name": "EL YATE (feat. Sergio George) [Versi\u00f3n Salsa]",
-        "url": "https://open.spotify.com/album/6BRLupgfPwOkWkVrtCg9D1"
-      },
-      "artists": [
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Sergio George",
-          "url": "https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC"
-        }
-      ],
-      "duration_ms": 193046,
-      "name": "EL YATE (feat. Sergio George) - Versi\u00f3n Salsa",
-      "url": "https://open.spotify.com/track/6BOuw1v7iJbOPYR9PigeJ4"
-    },
-    {
-      "added_at": "2023-11-22 17:06:24",
-      "album": {
         "name": "Billos Caracas Boys Fin de A\u00f1o",
         "url": "https://open.spotify.com/album/4vdoIChGSZtQnOAPnEGe9R"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 171990,
       "name": "A\u00f1o Nuevo",
       "url": "https://open.spotify.com/track/32LOpPngSkY8V0sIVCVjPb"
+    },
+    {
+      "added_at": "2023-11-22 17:06:24",
+      "album": {
+        "name": "EL YATE (feat. Sergio George) [Versi\u00f3n Salsa]",
+        "url": "https://open.spotify.com/album/6BRLupgfPwOkWkVrtCg9D1"
+      },
+      "artists": [
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Sergio George",
+          "url": "https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC"
+        }
+      ],
+      "duration_ms": 193046,
+      "name": "EL YATE (feat. Sergio George) - Versi\u00f3n Salsa",
+      "url": "https://open.spotify.com/track/6BOuw1v7iJbOPYR9PigeJ4"
     },
     {
       "added_at": "2023-11-22 17:06:24",

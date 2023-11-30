@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX821Oj2DrHJk.md) - [plain]
 
 > Rock that was on repeat during the summers of the 1970s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,892 likes - 100 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,893 likes - 100 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,13 +64,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX821Oj2DrHJk.md) - [plain]
 | 54 | [Up Around The Bend](https://open.spotify.com/track/36gPq8WG7tDxrblyGVUCiT) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Cosmo's Factory \(Expanded Edition\)](https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK) | 2:41 |
 | 55 | [Rikki Don't Lose That Number](https://open.spotify.com/track/0xLrMI4R2xTwRHWV3UQCAZ) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Pretzel Logic](https://open.spotify.com/album/4XfN871nBIz6obaUDEzZXm) | 4:32 |
 | 56 | [Hot Blooded](https://open.spotify.com/track/6xMHglHoafdDFGXS6qfwSH) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Double Vision \(Expanded\)](https://open.spotify.com/album/6lu6DYE0eHHp1gd3QGUYhu) | 4:28 |
-| 57 | [War](https://open.spotify.com/track/4ZEEcEMGjkWOfZNBcIB9yE) | [Edwin Starr](https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u) | [War And Peace](https://open.spotify.com/album/26pzgagMwY4opUvVUdSuum) | 3:20 |
-| 58 | [Bang a Gong \(Get It On\) \- 2003 Remaster](https://open.spotify.com/track/6FsQrRpBLgsrFeAeiQqytm) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Electric Warrior \[Expanded & Remastered\]](https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt) | 4:27 |
-| 59 | [Smoke on the Water](https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head](https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty) | 5:42 |
-| 60 | [I Shot The Sheriff](https://open.spotify.com/track/0UOxp1BpnD8uPQMKU4wKjz) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [461 Ocean Blvd\. \(Deluxe Edition\)](https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB) | 4:23 |
-| 61 | [Lola \(2020 Stereo Remaster\)](https://open.spotify.com/track/4Tjs8b6jL1s18sjURJtswp) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Lola Versus Powerman and the Moneygoround, Pt\. 1](https://open.spotify.com/album/6cv47fKkAyi9Lm5wwud4It) | 4:01 |
-| 62 | [I Don't Like Mondays](https://open.spotify.com/track/7JFoeg0arawADjGcz9gBnq) | [The Boomtown Rats](https://open.spotify.com/artist/40oYPr305MsT2lsiXr9fX9) | [The Fine Art Of Surfacing](https://open.spotify.com/album/5XRmSuESYUZSa7HauZ71ts) | 4:19 |
-| 63 | [Give Me Love \(Give Me Peace on Earth\)](https://open.spotify.com/track/1ZiN3wseympSLDIFkaWHHC) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Living in the Material World](https://open.spotify.com/album/6DfpxC0hn5JTusslgO0IYj) | 3:35 |
+| 57 | [Lola \(2020 Stereo Remaster\)](https://open.spotify.com/track/4Tjs8b6jL1s18sjURJtswp) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Lola Versus Powerman and the Moneygoround, Pt\. 1](https://open.spotify.com/album/6cv47fKkAyi9Lm5wwud4It) | 4:01 |
+| 58 | [War](https://open.spotify.com/track/4ZEEcEMGjkWOfZNBcIB9yE) | [Edwin Starr](https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u) | [War And Peace](https://open.spotify.com/album/26pzgagMwY4opUvVUdSuum) | 3:20 |
+| 59 | [Bang a Gong \(Get It On\) \- 2003 Remaster](https://open.spotify.com/track/6FsQrRpBLgsrFeAeiQqytm) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Electric Warrior \[Expanded & Remastered\]](https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt) | 4:27 |
+| 60 | [Smoke on the Water](https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head](https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty) | 5:42 |
+| 61 | [I Shot The Sheriff](https://open.spotify.com/track/0UOxp1BpnD8uPQMKU4wKjz) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [461 Ocean Blvd\. \(Deluxe Edition\)](https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB) | 4:23 |
+| 62 | [Give Me Love \(Give Me Peace on Earth\)](https://open.spotify.com/track/1ZiN3wseympSLDIFkaWHHC) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Living in the Material World](https://open.spotify.com/album/6DfpxC0hn5JTusslgO0IYj) | 3:35 |
+| 63 | [I Don't Like Mondays](https://open.spotify.com/track/7JFoeg0arawADjGcz9gBnq) | [The Boomtown Rats](https://open.spotify.com/artist/40oYPr305MsT2lsiXr9fX9) | [The Fine Art Of Surfacing](https://open.spotify.com/album/5XRmSuESYUZSa7HauZ71ts) | 4:19 |
 | 64 | [Love Gun](https://open.spotify.com/track/0SPBrxOUEMIKugXR4bFhxs) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Love Gun](https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b) | 3:18 |
 | 65 | [Mama Told Me \(Not To Come\) \- Single Version](https://open.spotify.com/track/1CAO7hiNOxJRPW4nFv2aRO) | [Three Dog Night](https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV) | [It Ain't Easy](https://open.spotify.com/album/0tJT9ZnxnlElGa34DRj59l) | 3:18 |
 | 66 | [Dancing In The Moonlight \(It's Caught Me In It's Spotlight\)](https://open.spotify.com/track/6BmzbaB08O0FjHXeS0cR5b) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/0DHKadXfnYCAXp28F3HI8U) | 3:24 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX821Oj2DrHJk.md) - [plain]
 | 97 | [All Right Now](https://open.spotify.com/track/5Yuvfj0aCUvWE01bnMWtjV) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Songs Of Yesterday](https://open.spotify.com/album/1V3HZsFh7CaYBQLA1af5CK) | 3:28 |
 | 98 | [Down the Dustpipe](https://open.spotify.com/track/0FG6V5ufEXCJSC1WwiX4Fh) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Down the Dustpipe](https://open.spotify.com/album/6uZDQxyMSEQ9kWFVjAaHl3) | 2:03 |
 | 99 | [I Love To Boogie](https://open.spotify.com/track/7dc8lqKS2P4Zq59g0yThvH) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Dandy In The Underworld](https://open.spotify.com/album/5aEVv5sSzit1hQVF5ASVKO) | 2:15 |
-| 100 | [Bad Bad Boy](https://open.spotify.com/track/0UIpa8py2QChTdE1KB4yKa) | [Nazareth](https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP) | [Razamanaz](https://open.spotify.com/album/0qdXvUUZQ8kUaNDFdEit90) | 3:57 |
+| 100 | [Little Willy](https://open.spotify.com/track/5l7WMtIUfX4D2XsHYOp4zV) | [Sweet](https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz) | [Best Of Sweet](https://open.spotify.com/album/7I5IWDrFPKeqhRSnd6QrXG) | 3:15 |
 
-Snapshot ID: `MCxmMTg5MzBmOWVhN2YxZjUzYWYxZmNkYmUyYWQ2YWQ0MDA5MjE3Zjdk`
+Snapshot ID: `MCw0OGFkZWEzYzU0M2FlNzRiYTc0NGYyMTgwMWYyYzNmNzY5ODg0NzY5`

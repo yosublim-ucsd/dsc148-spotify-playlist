@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 
 > Big bands and tuxedos\. The playlist for the wedding or just an elegant evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,040,402 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,040,682 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 60 | [Tuxedo Junction](https://open.spotify.com/track/3NMvVmKyjNGs91aSYje0RZ) | [The Manhattan Transfer](https://open.spotify.com/artist/2dogRElUKV20C2khRHqjRc) | [The Manhattan Transfer](https://open.spotify.com/album/2xpz9Rm7NSVyOGN5zBODNx) | 3:05 |
 | 61 | [Blue Moon](https://open.spotify.com/track/3Pi8eMeDLEUMH729CyQMP9) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Reprise Years](https://open.spotify.com/album/6anBFHbt3PaNwDKWbsVkzG) | 3:05 |
 | 62 | [Something Cool \- Mono](https://open.spotify.com/track/2mqjKGlSdJHdjCQHtOx6PD) | [June Christy](https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP) | [Something Cool \(1955 Version\)](https://open.spotify.com/album/1GJeSeLhbyiOpsNNjndHLA) | 4:18 |
-| 63 | [Squeeze Me](https://open.spotify.com/track/5kyfBYQcu5Swr0i80s8zLJ) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Only Trust Your Heart](https://open.spotify.com/album/3ZocvPcE7EGyv9EEP95YeC) | 5:37 |
-| 64 | [Can't Take My Eyes Off You](https://open.spotify.com/track/1lLRi0LvCwKaKONxzoeJfj) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [Love, Andy](https://open.spotify.com/album/3KtDJorsycOFXqwQGTzwxe) | 3:13 |
+| 63 | [Can't Take My Eyes Off You](https://open.spotify.com/track/1lLRi0LvCwKaKONxzoeJfj) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [Love, Andy](https://open.spotify.com/album/3KtDJorsycOFXqwQGTzwxe) | 3:13 |
+| 64 | [Squeeze Me](https://open.spotify.com/track/5kyfBYQcu5Swr0i80s8zLJ) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Only Trust Your Heart](https://open.spotify.com/album/3ZocvPcE7EGyv9EEP95YeC) | 5:37 |
 | 65 | [Lay Lady Lay](https://open.spotify.com/track/5YFlYhVwQNPjy5tmUryDRD) | [Magnet](https://open.spotify.com/artist/0aPh6hUf7HfSVXtyxQs9AR) | [On Your Side](https://open.spotify.com/album/7ameJ6pSgZagUBgwubwTMq) | 4:37 |
 | 66 | [My Kind Of Girl](https://open.spotify.com/track/1nyda3RgBap7i8OYxPAi7K) | [Buddy Greco](https://open.spotify.com/artist/0tncOz6MVpy67IphfE6VHZ) | [16 Most Requested Songs](https://open.spotify.com/album/0RwTLz72XNNeZi7tEjOobb) | 2:40 |
 | 67 | [I Belong to You](https://open.spotify.com/track/7FqvieB7KLTInMvfieRq5a) | [Emilia Mitiku](https://open.spotify.com/artist/65RLNrrTTS9ztKiuK0fZg2) | [I Belong To You](https://open.spotify.com/album/4abZmMGlhSgaf9SDL1m70d) | 3:16 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 71 | [Love For Sale](https://open.spotify.com/track/3dxAt1su013e3GZyBUL9bP) | [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [Loads Of Love](https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY) | 3:51 |
 | 72 | [Let's Fall In Love](https://open.spotify.com/track/1b9gNirS4wUJwYg8X8l9jK) | [Ann Hampton Callaway](https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e) | [To Ella With Love](https://open.spotify.com/album/6glj5wRmAtkj3pgDUkZstz) | 2:46 |
 | 73 | [Qu'est\-ce que tu crois ?](https://open.spotify.com/track/3wpp9Sk66Onv8Kv42n8KN1) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs), [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Platinum Collection](https://open.spotify.com/album/6oDOhdspMCyj3grZIsUqaT) | 2:55 |
-| 74 | [Taking a Chance on Love](https://open.spotify.com/track/1ahnyRMBhh9H9d8v8JIyYF) | [V\. Duke](https://open.spotify.com/artist/28wBiD1oyqCarVwYuTJVv9), [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Taking A Chance On Love](https://open.spotify.com/album/3SPCafRVqoXgwY3YsofV6W) | 3:18 |
-| 75 | [I've Got The World On A String](https://open.spotify.com/track/2bksvLO7cIYbVxe6HcSS8Q) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Manilow Sings Sinatra](https://open.spotify.com/album/1VHZYvdQ2xcit0EkFzq0oj) | 2:12 |
+| 74 | [I've Got The World On A String](https://open.spotify.com/track/2bksvLO7cIYbVxe6HcSS8Q) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Manilow Sings Sinatra](https://open.spotify.com/album/1VHZYvdQ2xcit0EkFzq0oj) | 2:12 |
+| 75 | [Taking a Chance on Love](https://open.spotify.com/track/1ahnyRMBhh9H9d8v8JIyYF) | [V\. Duke](https://open.spotify.com/artist/28wBiD1oyqCarVwYuTJVv9), [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Taking A Chance On Love](https://open.spotify.com/album/3SPCafRVqoXgwY3YsofV6W) | 3:18 |
 | 76 | [Two Sleepy People](https://open.spotify.com/track/6Q1VnirK7zQeJs37siT92V) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D), [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [Boy Meets Girl: Sammy Davis Jr\. And Carmen McRae On Decca](https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge) | 2:50 |
 | 77 | [Don't Sit Under The Apple Tree \(With Anyone Else But Me\)](https://open.spotify.com/track/2yH6SQ70OdjDKrtxcunVZp) | [Glenn Miller](https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc) | [The Essential Glenn Miller](https://open.spotify.com/album/6dVUKIxSRafCpEGZ5prYlG) | 3:10 |
 | 78 | [They Didn't Believe Me](https://open.spotify.com/track/0KUSWy4fXCufHpuvvzAsuH) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [Songs from the Heart \(Remastered 2013\)](https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW) | 2:35 |
-| 79 | [There's A Lull In My Life](https://open.spotify.com/track/4Op0c1VSCGMsGX47Mh8wj8) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Like Someone In Love](https://open.spotify.com/album/5YKGBdugeGn1zMTKnYCnWP) | 3:28 |
-| 80 | [I Let a Song Go out of My Heart](https://open.spotify.com/track/1DgQyMa4f1myDWa21BwgVq) | [Alice Babs](https://open.spotify.com/artist/3omPckNeXtMpCdOXVfcOST) | [Swingtime Again](https://open.spotify.com/album/26aZe5wY5BaADUQ2ndQeQK) | 2:45 |
+| 79 | [You Make Me Feel So Young](https://open.spotify.com/track/3BvRGVwn9sBfbxGClUEvD3) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Manilow Sings Sinatra](https://open.spotify.com/album/1VHZYvdQ2xcit0EkFzq0oj) | 2:59 |
+| 80 | [There's A Lull In My Life](https://open.spotify.com/track/4Op0c1VSCGMsGX47Mh8wj8) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Like Someone In Love](https://open.spotify.com/album/5YKGBdugeGn1zMTKnYCnWP) | 3:28 |
 
-Snapshot ID: `MCw5MmQ0NDY1ODIyNTQyMmRhNDNiNDljZTVkNDhlOWU4OTlmYzQyZWJi`
+Snapshot ID: `MCw4MWJkMjEyYjk4NGVlNDI2ZTk2ZGNmZWU2YmJjYTM3Y2JjNWQ1Y2Y0`

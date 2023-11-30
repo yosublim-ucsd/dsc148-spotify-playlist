@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,701 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,773 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 | 71 | [2nd THOTS](https://open.spotify.com/track/0foI16PJZOEd56Rg83zVSD) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 3:44 |
 | 72 | [BLUE CHECK REMIX \(Feat\. Blase, 365LIT, JUPITER, KHAN, XINSAYNE, Roh Yun Ha, sokodomo, KOALA, Jambino, Lee Young Ji, Chillin Homie, NSW yoon\)](https://open.spotify.com/track/2mqnyDbLObaEBnvGv5Ok5Z) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Slom](https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD), [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [365LIT](https://open.spotify.com/artist/65LSFEqRhq074aUBF1zF2e), [JUPITER](https://open.spotify.com/artist/09KeT4dkVIveN5OpVOCPeU), [KHAN](https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5), [XINSAYNE](https://open.spotify.com/artist/4yY3FsmWRwMIFXRDkMpnBS), [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy), [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ), [코알라 KOALA](https://open.spotify.com/artist/57FiLkWeGzNVMLggMZLYiZ), [Jambino](https://open.spotify.com/artist/1lcuNfp7bo4LCAHWrjAR9K), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [Chillin Homie](https://open.spotify.com/artist/5f48MQLr5eOXHcR4lFE1BM), [NSW yoon](https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE) | [SLAY HOUSE REMIX](https://open.spotify.com/album/1nXs500bOOyoZJiLjQvD0b) | 7:39 |
 | 73 | [Turn Off Your Phone \(Feat\. ELO\) \- Remix](https://open.spotify.com/track/4AtDiqnMxDt8crflZWgZG5) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [ELO](https://open.spotify.com/artist/33fY1P5TsAeEK2VgATvz1A) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 4:03 |
-| 74 | [Sunday Night Drive](https://open.spotify.com/track/4L4Kbg3jAEPJZbEovRyKeH) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Sunday Night Drive](https://open.spotify.com/album/31J8jhJwqaeOS3ZJUOkg6t) | 2:09 |
-| 75 | [Thoughts Of You \(Feat\. pH\-1 & BENZO\)](https://open.spotify.com/track/3NVsaXCV8RR8VGZzZlXuVX) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [李大奔](https://open.spotify.com/artist/5sF2WUeEL2qiV03Vym3727) | [Thoughts Of You](https://open.spotify.com/album/2ZXNtjobXsbWgzcRlYGaPx) | 3:44 |
+| 74 | [Thoughts Of You \(Feat\. pH\-1 & BENZO\)](https://open.spotify.com/track/3NVsaXCV8RR8VGZzZlXuVX) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [李大奔](https://open.spotify.com/artist/5sF2WUeEL2qiV03Vym3727) | [Thoughts Of You](https://open.spotify.com/album/2ZXNtjobXsbWgzcRlYGaPx) | 3:44 |
+| 75 | [Sunday Night Drive](https://open.spotify.com/track/4L4Kbg3jAEPJZbEovRyKeH) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Sunday Night Drive](https://open.spotify.com/album/31J8jhJwqaeOS3ZJUOkg6t) | 2:09 |
 | 76 | [My Last](https://open.spotify.com/track/2LTLUWY6bTkBZD5OAqhkuI) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [Worldwide](https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf) | 3:57 |
 | 77 | [Sex Trip](https://open.spotify.com/track/6dJ4jLQMM8SXGYrM0eRCNm) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [MOMMAE](https://open.spotify.com/album/1kgzGqeJbY7gwiheabVk1L) | 3:46 |
 | 78 | [SUMMERIDE](https://open.spotify.com/track/4M9NbNJnOpVCN5jbNln2TJ) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [SUMMERIDE](https://open.spotify.com/album/5mZSzANMkDsJlbTTxugNNo) | 3:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 | 99 | [Sexy 4 Eva](https://open.spotify.com/track/1RPQAYvomUz5QAim2hj6cn) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Ask Bout Me](https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM) | 3:41 |
 | 100 | [I Got This](https://open.spotify.com/track/5IQhpdzUUxk3WngtnrXv2P) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 3:46 |
 
-Snapshot ID: `MCwzYTUzZWEzYmZhOWY5NTkyZDBkMjE4OTFmZjI1YmI5NmM0YWRmMGUy`
+Snapshot ID: `MCwwYzdlYWFhMDBlYTZiZTM5ZGY3NmVhMzQxMTFkMjQ0YzBjNzU3NTU2`

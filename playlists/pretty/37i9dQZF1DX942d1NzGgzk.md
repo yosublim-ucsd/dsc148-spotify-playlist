@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 
 > 100% British \- 100% R&B\. Cover: Essosa
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,530 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,608 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 41 | [Falling or flying](https://open.spotify.com/track/3o790sA4zssA7vtFpElKKS) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Falling or flying](https://open.spotify.com/album/4DQceiYfpF7ByhwsBQaWYH) | 3:24 |
 | 42 | [Heaven](https://open.spotify.com/track/7a8PhNagyGpyzbmAsAg76b) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 2:42 |
 | 43 | [November \(feat\. Stormzy\)](https://open.spotify.com/track/7xkHbITyunC0rn47Gs8hS4) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [IRL](https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh) | 3:34 |
-| 44 | [Marking My Time](https://open.spotify.com/track/4U0kDDeLjipRQUsZAZcuAw) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Marking My Time](https://open.spotify.com/album/2pc153IBlNGe8QxU499Wau) | 4:28 |
-| 45 | [It Only Cost Everything](https://open.spotify.com/track/1kT0mt9AstPDGUJCNiQI0T) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [It Only Cost Everything](https://open.spotify.com/album/0ciuSJpaytL7XoDSyt4jhl) | 2:28 |
+| 44 | [It Only Cost Everything](https://open.spotify.com/track/1kT0mt9AstPDGUJCNiQI0T) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [It Only Cost Everything](https://open.spotify.com/album/0ciuSJpaytL7XoDSyt4jhl) | 2:28 |
+| 45 | [Marking My Time](https://open.spotify.com/track/4U0kDDeLjipRQUsZAZcuAw) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Marking My Time](https://open.spotify.com/album/2pc153IBlNGe8QxU499Wau) | 4:28 |
 | 46 | [Sun, Moon & Herbs](https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [VENOLOGY](https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje) | 4:12 |
 | 47 | [In Too Deep \(feat\. Kiana Ledé\)](https://open.spotify.com/track/3nGhp4FuIaitNYn4s7XHaX) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Djesse Vol\. 3](https://open.spotify.com/album/33cj3kzLqVOg9zvy69Wrc8) | 3:52 |
 | 48 | [Our Song](https://open.spotify.com/track/0yRitNCPCHtBwOuHh88rzf) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve \(Deluxe Edition\)](https://open.spotify.com/album/4a1RnC5ioi77nDnOJXvTKs) | 3:19 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 54 | [As You Are \- A COLORS SHOW](https://open.spotify.com/track/6tDTnxaq8fHXZ63uiseNRH) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ), [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [As You Are \- A COLORS SHOW](https://open.spotify.com/album/0J876nXHrxOSvr895nSLlc) | 3:41 |
 | 55 | [Bussdown \(feat\. Shaybo\)](https://open.spotify.com/track/2gP19KH3V5JlR5MycAIL3R) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Shaybo](https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy) | [Be Right Back](https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi) | 3:21 |
 | 56 | [long stay \(feat\. Bakar\)](https://open.spotify.com/track/5ie2bMXcmiwk6q8TrP8J1W) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW), [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [BARE SUGAR](https://open.spotify.com/album/1FEv4lzzX2jNBvFpWX8InD) | 2:35 |
-| 57 | [Is This Real Love? \(feat\. Lucky Daye\) \- Remix](https://open.spotify.com/track/2RNCC8Bn7umBNJKNbtDFgO) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Is This Real Love? \(feat\. Lucky Daye\)](https://open.spotify.com/album/7wEXjP2EIz3p3EmmCXg958) | 2:59 |
+| 57 | [Choose You](https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [EL\-MEAN](https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J) | 4:11 |
 | 58 | [Timeout](https://open.spotify.com/track/2nC1WhlcDRorkWmN6ApfHn) | [Mellina Tey](https://open.spotify.com/artist/3dmTSthHSYiq7NndeKYGdx) | [Timeout](https://open.spotify.com/album/5uvwM8fgE7PIC0YfpzhJUg) | 2:11 |
 | 59 | [Not My Job](https://open.spotify.com/track/2W7LjZ16NzpnWaUCBsU7Wp) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Not My Job](https://open.spotify.com/album/4zOm1Hp4dZixYzNgYOYAf3) | 2:54 |
 | 60 | [Gone](https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Gone](https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn) | 3:15 |
 
-Snapshot ID: `MCxmYjI3NWY5N2ZhMGVmZjE0MTAxN2M4MDk3ZTQyYjg1MWJlMmQ5Y2Fj`
+Snapshot ID: `MCxmZTZkM2Y2MzI2NjY1NDE3MGFhYTVmNmFiODhhMjAyOWQ5N2Y5ZGMx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: Dreamcatcher
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,947 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,373 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 14 | [PUPPET SHOW](https://open.spotify.com/track/7sDkXyDikXhpRz715MdiEp) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DNA](https://open.spotify.com/album/5ltOyfF29bg84gvBJPLOgj) | 3:19 |
 | 15 | [Perfect Night](https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night](https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6) | 2:39 |
 | 16 | [STYLE](https://open.spotify.com/track/0aZ8DSEdBJbBfrNtnqgJy3) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [RINGO](https://open.spotify.com/album/1kRAzoCTDLqwU6nX2I2Nmc) | 3:03 |
-| 17 | [NEW STAR](https://open.spotify.com/track/3DLmZAoUDu4SOo6YrUHrCj) | [n.SSign](https://open.spotify.com/artist/3IHvi45S5SITyNES9VzSjI) | [NEW STAR](https://open.spotify.com/album/4VjojyAZQbfONf7bI1yBaw) | 3:29 |
+| 17 | [NEW STAR](https://open.spotify.com/track/4fGkb1BWnzrppNuGUeUSaZ) | [n.SSign](https://open.spotify.com/artist/3IHvi45S5SITyNES9VzSjI) | [NEW STAR](https://open.spotify.com/album/4ohVAtGzJTQCIKJTMzGLAb) | 3:29 |
 | 18 | [God of Music](https://open.spotify.com/track/4MTNimMDRyFZv37Thcktwa) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN'](https://open.spotify.com/album/1rE0Gy69MFUh4GuXafWd0f) | 3:25 |
 | 19 | [I Want That](https://open.spotify.com/track/3F2BLyGt6zYLrHYpbdTw5L) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [HEAT](https://open.spotify.com/album/5CZQfva4He8sG3DcU8eP5m) | 2:51 |
 | 20 | [Social Path](https://open.spotify.com/track/0fkL0fOhEzRK8WFe2ixt2d) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Social Path](https://open.spotify.com/album/69mwX2uyO8FKCc8KkRMHw7) | 3:18 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 74 | [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 |
 | 75 | [こんなに君を](https://open.spotify.com/track/0scTh8IQayvHhgTAC7gEsb) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [こんなに君を](https://open.spotify.com/album/43HFNNbIHaLF3b7gLaQPCP) | 4:00 |
 
-Snapshot ID: `MCw3Zjg5ODFkYmVlOTZiNDIwODNmOWU2N2Y5MjAwZTQ4MmUyMWJlY2U0`
+Snapshot ID: `MCwzOTdjMmI2YmE2NjI1OGFlYWNlZjA1NjZhY2RhNDM1YTNiMzViMmI0`

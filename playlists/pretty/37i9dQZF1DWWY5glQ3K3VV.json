@@ -1,12 +1,12 @@
 {
   "description": "Canzoni rap per party fino al mattino! Cover: ANNA, Capo Plaza, AVA",
-  "num_followers": 92453,
+  "num_followers": 92496,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OWFlODJlM2FjYzJmZTg1MDQ0NTc5NGYwMjUyZmY3ZDUxMmU4YzEw",
+  "snapshot_id": "MCwyYjk1ZjFmOTAxMjhiMDBkM2U4MDk4ZTE1MzMxMDJkZjk4NzgwMzEx",
   "tracks": [
     {
       "added_at": "2023-11-17 00:01:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "Nail Tech",
+        "url": "https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 206385,
+      "name": "Nail Tech",
+      "url": "https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Pel\u00e9",
         "url": "https://open.spotify.com/album/329aNexZnIOYq7GaNHCxSC"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 133858,
       "name": "Pel\u00e9",
       "url": "https://open.spotify.com/track/3UYr4TdhtCthMH9ujhx0BA"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Nail Tech",
-        "url": "https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 206385,
-      "name": "Nail Tech",
-      "url": "https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -827,30 +827,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Lento",
-        "url": "https://open.spotify.com/album/2FCnqgKag6FTtXOG2FEl5P"
-      },
-      "artists": [
-        {
-          "name": "Boro",
-          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
-        },
-        {
-          "name": "Don Joe",
-          "url": "https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ"
-        },
-        {
-          "name": "MamboLosco",
-          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
-        }
-      ],
-      "duration_ms": 162362,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/0iRKVjfQzpr41T3WsU7shl"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Mr. Fini",
         "url": "https://open.spotify.com/album/5W43G0FSXOgTFCSfnnwxcf"
       },
@@ -871,6 +847,30 @@
       "duration_ms": 201931,
       "name": "Chico (feat. Rose Villain & Luch\u00e8)",
       "url": "https://open.spotify.com/track/3sUzeeqRtfBfJAkk8qb8Pd"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/2FCnqgKag6FTtXOG2FEl5P"
+      },
+      "artists": [
+        {
+          "name": "Boro",
+          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
+        },
+        {
+          "name": "Don Joe",
+          "url": "https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ"
+        },
+        {
+          "name": "MamboLosco",
+          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
+        }
+      ],
+      "duration_ms": 162362,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/0iRKVjfQzpr41T3WsU7shl"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -991,18 +991,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Madreperla",
-        "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
+        "name": "Suavemente",
+        "url": "https://open.spotify.com/album/6RfOBcxexu6ZYIUS9HG9Al"
       },
       "artists": [
         {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "Boro",
+          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
         }
       ],
-      "duration_ms": 155133,
-      "name": "Mollami Pt.2",
-      "url": "https://open.spotify.com/track/3uQLQ73joqyMYDhI2UaBOq"
+      "duration_ms": 157714,
+      "name": "Suavemente",
+      "url": "https://open.spotify.com/track/7Bz5B6hEU5TS145QYTfc3k"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1023,22 +1027,18 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Suavemente",
-        "url": "https://open.spotify.com/album/6RfOBcxexu6ZYIUS9HG9Al"
+        "name": "Madreperla",
+        "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
       },
       "artists": [
         {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
-        },
-        {
-          "name": "Boro",
-          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
         }
       ],
-      "duration_ms": 157714,
-      "name": "Suavemente",
-      "url": "https://open.spotify.com/track/7Bz5B6hEU5TS145QYTfc3k"
+      "duration_ms": 155133,
+      "name": "Mollami Pt.2",
+      "url": "https://open.spotify.com/track/3uQLQ73joqyMYDhI2UaBOq"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1167,22 +1167,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "DIOSA (feat. Peppe Soks) [Remix]",
-        "url": "https://open.spotify.com/album/3l3aLZNlUQfhIMKApwHVVE"
+        "name": "Famoso",
+        "url": "https://open.spotify.com/album/5fTgdXawyLC7oZEry7jGEk"
       },
       "artists": [
         {
-          "name": "Nathys",
-          "url": "https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf"
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
         },
         {
-          "name": "Peppe Soks",
-          "url": "https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         }
       ],
-      "duration_ms": 143641,
-      "name": "DIOSA (feat. Peppe Soks) - Remix",
-      "url": "https://open.spotify.com/track/0ehq7roFoMrq58lI4Rdnys"
+      "duration_ms": 193554,
+      "name": "Baby (with J Balvin)",
+      "url": "https://open.spotify.com/track/3JCqB2HhpIPNNg1O4os8o5"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1207,22 +1207,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Famoso",
-        "url": "https://open.spotify.com/album/5fTgdXawyLC7oZEry7jGEk"
+        "name": "DIOSA (feat. Peppe Soks) [Remix]",
+        "url": "https://open.spotify.com/album/3l3aLZNlUQfhIMKApwHVVE"
       },
       "artists": [
         {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+          "name": "Nathys",
+          "url": "https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf"
         },
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Peppe Soks",
+          "url": "https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT"
         }
       ],
-      "duration_ms": 193554,
-      "name": "Baby (with J Balvin)",
-      "url": "https://open.spotify.com/track/3JCqB2HhpIPNNg1O4os8o5"
+      "duration_ms": 143641,
+      "name": "DIOSA (feat. Peppe Soks) - Remix",
+      "url": "https://open.spotify.com/track/0ehq7roFoMrq58lI4Rdnys"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1323,6 +1323,26 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "Famoso",
+        "url": "https://open.spotify.com/album/5fTgdXawyLC7oZEry7jGEk"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "duration_ms": 191869,
+      "name": "Hollywood (feat. Diplo)",
+      "url": "https://open.spotify.com/track/1gnKOz6FFFOcP3DqvDz0Rt"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Suave (feat. VillaBanks)",
         "url": "https://open.spotify.com/album/2rILNUxABq3b74Ucczc1zV"
       },
@@ -1347,26 +1367,6 @@
       "duration_ms": 197837,
       "name": "Suave (feat. VillaBanks)",
       "url": "https://open.spotify.com/track/4dswUsqTDCqWpmQlhFqedk"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Famoso",
-        "url": "https://open.spotify.com/album/5fTgdXawyLC7oZEry7jGEk"
-      },
-      "artists": [
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        }
-      ],
-      "duration_ms": 191869,
-      "name": "Hollywood (feat. Diplo)",
-      "url": "https://open.spotify.com/track/1gnKOz6FFFOcP3DqvDz0Rt"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1495,26 +1495,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Tiki Taka",
-        "url": "https://open.spotify.com/album/0ZvK5lmB4C7JJ0Xop61lwa"
-      },
-      "artists": [
-        {
-          "name": "Escomar",
-          "url": "https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw"
-        },
-        {
-          "name": "Bobo",
-          "url": "https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J"
-        }
-      ],
-      "duration_ms": 140307,
-      "name": "Tiki Taka",
-      "url": "https://open.spotify.com/track/50MWpZN2WAcfkeKAaU5fvY"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Serio",
         "url": "https://open.spotify.com/album/1ic2J2plYa6rkNs2KeGav3"
       },
@@ -1531,6 +1511,26 @@
       "duration_ms": 218769,
       "name": "Serio (feat. Capo Plaza)",
       "url": "https://open.spotify.com/track/2Cm9pUNjLYpLo2gjIiTBPa"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Tiki Taka",
+        "url": "https://open.spotify.com/album/0ZvK5lmB4C7JJ0Xop61lwa"
+      },
+      "artists": [
+        {
+          "name": "Escomar",
+          "url": "https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw"
+        },
+        {
+          "name": "Bobo",
+          "url": "https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J"
+        }
+      ],
+      "duration_ms": 140307,
+      "name": "Tiki Taka",
+      "url": "https://open.spotify.com/track/50MWpZN2WAcfkeKAaU5fvY"
     },
     {
       "added_at": "2023-11-17 00:01:00",

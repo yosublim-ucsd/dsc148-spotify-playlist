@@ -1,12 +1,12 @@
 {
   "description": "Get the chill vibes going and flowing \u2728 Las vibras tranqui que ocupas en tu vida.",
-  "num_followers": 669869,
+  "num_followers": 669920,
   "original_name": "Chill Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjhmOTM3NzE5NjUzZDI5N2RjYjljMWViM2EyYjVjOTBiODlkMzAx",
+  "snapshot_id": "MCw2ODlhZTM5ZjM3OWE1YjQ3YTU0OWQ0ODU3N2M1ZTc4NWViNmFmNjJl",
   "tracks": [
     {
       "added_at": "2023-11-24 05:00:00",
@@ -331,26 +331,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Mi Condena",
-        "url": "https://open.spotify.com/album/34qk2J2dzqK6tgTxBZktuR"
-      },
-      "artists": [
-        {
-          "name": "Vic Mirallas",
-          "url": "https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922"
-        },
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        }
-      ],
-      "duration_ms": 172319,
-      "name": "Mi Condena",
-      "url": "https://open.spotify.com/track/0UGxC1uqeDHBmAU4Pvd8xi"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Wu Wu",
         "url": "https://open.spotify.com/album/7aDQ1gXdQHozrUv1EAkdj0"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 207727,
       "name": "Wu Wu",
       "url": "https://open.spotify.com/track/1RCTlsE4iiRwHHq1VE4XrG"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Mi Condena",
+        "url": "https://open.spotify.com/album/34qk2J2dzqK6tgTxBZktuR"
+      },
+      "artists": [
+        {
+          "name": "Vic Mirallas",
+          "url": "https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922"
+        },
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 172319,
+      "name": "Mi Condena",
+      "url": "https://open.spotify.com/track/0UGxC1uqeDHBmAU4Pvd8xi"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Cardenal Cisneros",
+        "url": "https://open.spotify.com/album/6RBKGZxneqj8Ygzpn7POMc"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "duration_ms": 252973,
+      "name": "Cardenal Cisneros",
+      "url": "https://open.spotify.com/track/5O4mnBvus90sZA1g5IMFXE"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Handful of Water",
         "url": "https://open.spotify.com/album/5gKo806XuvISRGyMoNlR3N"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 151746,
       "name": "Handful of Water",
       "url": "https://open.spotify.com/track/4jyiop97KBE8cDN5HwvKnB"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "el jardinero",
-        "url": "https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q"
-      },
-      "artists": [
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        }
-      ],
-      "duration_ms": 177391,
-      "name": "el jardinero",
-      "url": "https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -899,30 +899,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "fr\u00edo",
-        "url": "https://open.spotify.com/album/1KNTUzCpkgLV9v7lgHdPmT"
-      },
-      "artists": [
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        },
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
-        },
-        {
-          "name": "Luisa",
-          "url": "https://open.spotify.com/artist/4pQdwpmOtVV6iLgWjoEr6z"
-        }
-      ],
-      "duration_ms": 278490,
-      "name": "fr\u00edo",
-      "url": "https://open.spotify.com/track/0V6H31xM6WbPL1Bjsiqplx"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Otro Lado",
         "url": "https://open.spotify.com/album/2PFUqGpxYAEZZqHjjXQZdN"
       },
@@ -955,6 +931,22 @@
       "duration_ms": 224268,
       "name": "Clich\u00e9",
       "url": "https://open.spotify.com/track/76UUkIG3gQz3LZIDPywl4q"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "el jardinero",
+        "url": "https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "duration_ms": 177391,
+      "name": "el jardinero",
+      "url": "https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -995,22 +987,6 @@
       "duration_ms": 190120,
       "name": "Vibe",
       "url": "https://open.spotify.com/track/1xDq5VlR1LDjNAgZBwFLc7"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Cardenal Cisneros",
-        "url": "https://open.spotify.com/album/6RBKGZxneqj8Ygzpn7POMc"
-      },
-      "artists": [
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        }
-      ],
-      "duration_ms": 252973,
-      "name": "Cardenal Cisneros",
-      "url": "https://open.spotify.com/track/5O4mnBvus90sZA1g5IMFXE"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1063,6 +1039,30 @@
       "duration_ms": 187386,
       "name": "Visa",
       "url": "https://open.spotify.com/track/0LpaAAP3MhLIX28nJGKAvd"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "fr\u00edo",
+        "url": "https://open.spotify.com/album/1KNTUzCpkgLV9v7lgHdPmT"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        },
+        {
+          "name": "Luisa",
+          "url": "https://open.spotify.com/artist/4pQdwpmOtVV6iLgWjoEr6z"
+        }
+      ],
+      "duration_ms": 278490,
+      "name": "fr\u00edo",
+      "url": "https://open.spotify.com/track/0V6H31xM6WbPL1Bjsiqplx"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Nadie Nos Entiende",
-        "url": "https://open.spotify.com/album/6Vbahwg4jyo7Z64F8z9Ky2"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        },
-        {
-          "name": "Willy Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee"
-        }
-      ],
-      "duration_ms": 217373,
-      "name": "Nadie Nos Entiende",
-      "url": "https://open.spotify.com/track/0lvQ5BPdyuOKqNqhptZsrA"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Astra",
         "url": "https://open.spotify.com/album/4OAUrKQYGBtbThIVRIAVQx"
       },
@@ -1271,6 +1251,26 @@
       "duration_ms": 313198,
       "name": "Sin Freno",
       "url": "https://open.spotify.com/track/24drvQN3WTdQE2wzR37GAb"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Nadie Nos Entiende",
+        "url": "https://open.spotify.com/album/6Vbahwg4jyo7Z64F8z9Ky2"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "Willy Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee"
+        }
+      ],
+      "duration_ms": 217373,
+      "name": "Nadie Nos Entiende",
+      "url": "https://open.spotify.com/track/0lvQ5BPdyuOKqNqhptZsrA"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Tus Besos",
-        "url": "https://open.spotify.com/album/7tKmmrsdzeFOsCka3PV3Ou"
-      },
-      "artists": [
-        {
-          "name": "La Ross Maria",
-          "url": "https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8"
-        }
-      ],
-      "duration_ms": 205874,
-      "name": "Tus Besos",
-      "url": "https://open.spotify.com/track/028vko2T93bPeotwTWXOve"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Reconciliados",
         "url": "https://open.spotify.com/album/35XiSHghDUxUBzj7oXDau3"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 169400,
       "name": "Reconciliados",
       "url": "https://open.spotify.com/track/1udMSoGRgHpRvPMqCuc4m2"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Tus Besos",
+        "url": "https://open.spotify.com/album/7tKmmrsdzeFOsCka3PV3Ou"
+      },
+      "artists": [
+        {
+          "name": "La Ross Maria",
+          "url": "https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8"
+        }
+      ],
+      "duration_ms": 205874,
+      "name": "Tus Besos",
+      "url": "https://open.spotify.com/track/028vko2T93bPeotwTWXOve"
     },
     {
       "added_at": "2023-11-24 05:00:00",

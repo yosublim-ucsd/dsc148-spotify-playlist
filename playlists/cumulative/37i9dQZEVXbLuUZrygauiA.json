@@ -7063,6 +7063,24 @@
     },
     {
       "album": {
+        "name": "DEMO #5 - nostalgIA (Spanglish Version)",
+        "url": "https://open.spotify.com/album/5lKyz4CLYQXRXytBcq0sxa"
+      },
+      "artists": [
+        {
+          "name": "FlowGPT",
+          "url": "https://open.spotify.com/artist/1mxt7qtdBFCHAeEeDHGgiC"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222188,
+      "name": "DEMO #5 - nostalgIA (Spanglish Version)",
+      "url": "https://open.spotify.com/track/4GflbFO7hFzIpzD33CxtgS"
+    },
+    {
+      "album": {
         "name": "DEMO #5: nostalgIA",
         "url": "https://open.spotify.com/album/1F4P8ry4GpaSoDpeemyqht"
       },
@@ -7092,7 +7110,7 @@
       ],
       "date_added": "2023-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 222188,
       "name": "DEMO #5: nostalgIA - Spanglish Version",
       "url": "https://open.spotify.com/track/092oBVwyJLxHnYEu5E1Rw6"
@@ -12072,6 +12090,24 @@
       "duration_ms": 140735,
       "name": "HOUSE OF LUX",
       "url": "https://open.spotify.com/track/3CU1qWV0h0PvWXQg71YUoo"
+    },
+    {
+      "album": {
+        "name": "Hoy como est\u00e1 carnal?",
+        "url": "https://open.spotify.com/album/7FR2KpAVV49jzQjlCf6ZAl"
+      },
+      "artists": [
+        {
+          "name": "SOLO VERSIONS",
+          "url": "https://open.spotify.com/artist/5iu5ihmW7CZAG4M9C4jcW3"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66254,
+      "name": "Hoy como est\u00e1 carnal?",
+      "url": "https://open.spotify.com/track/4cP7xE1NMPuVedrHNQaHfU"
     },
     {
       "album": {
@@ -26966,7 +27002,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 143988,
       "name": "The Hanging Tree - from The Hunger Games: The Ballad of Songbirds & Snakes",
       "url": "https://open.spotify.com/track/12xA59A83Ir77gcYs0w4TA"

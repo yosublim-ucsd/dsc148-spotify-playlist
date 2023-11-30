@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 
 > Tous les hits latino du moment sont ici\. Photo : Kali Uchis x KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,867 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,933 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 | 49 | [EL RELOJ \(con Maluma\)](https://open.spotify.com/track/29eXmdhLZqDUNB8y62rYIZ) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [EL RELOJ \(con Maluma\)](https://open.spotify.com/album/7cw2HqGRaimaXNcTfHxMhR) | 3:00 |
 | 50 | [Bora Bora](https://open.spotify.com/track/0w49NuhCUPdJpzE3ClojSa) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Bora Bora](https://open.spotify.com/album/2PnRPLXqb7SHg141358iah) | 2:48 |
 
-Snapshot ID: `MCxlNTFjOTBmYjM5NDUxM2Q3N2NmNjQwOWUwYTdiMWUyOWFhNTkzNjg1`
+Snapshot ID: `MCxlZDlhNmUxNTJmMjE4ZGQzODZlMmQ4MDA3ZTNjMzQ2Njk4ZjEyZTQ1`

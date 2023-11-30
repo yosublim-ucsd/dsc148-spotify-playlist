@@ -1,12 +1,12 @@
 {
   "description": "Soft and cozy acoustic covers of famous songs.",
-  "num_followers": 1133499,
+  "num_followers": 1133513,
   "original_name": "Chill Acoustic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZWZmMDg0Mzk3YWYwYTQ4N2UwYjllNGU0ODMxOGEyNmYwZTJmOTk4",
+  "snapshot_id": "MCw1MDA3MWQwZGY3YTU1YzI5ZGYwZmE4YzUxMGVlZmU5MTA2NjMzNWQ5",
   "tracks": [
     {
       "added_at": "2023-11-24 00:01:00",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Latch",
-        "url": "https://open.spotify.com/album/1QsdrtvYuAKSDuSyW1VikU"
-      },
-      "artists": [
-        {
-          "name": "Mel & Macy",
-          "url": "https://open.spotify.com/artist/332dMuxyefYaTqoo3k7oVk"
-        }
-      ],
-      "duration_ms": 197684,
-      "name": "Latch",
-      "url": "https://open.spotify.com/track/17h05SukjWjPCNWAENwW8U"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "she's all i wanna be",
         "url": "https://open.spotify.com/album/4yCSGabeo8VEeETk6fg6ul"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 197357,
       "name": "she's all i wanna be",
       "url": "https://open.spotify.com/track/6Dbz3vfI07Ox7QDZTSkNuJ"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Latch",
+        "url": "https://open.spotify.com/album/1QsdrtvYuAKSDuSyW1VikU"
+      },
+      "artists": [
+        {
+          "name": "Mel & Macy",
+          "url": "https://open.spotify.com/artist/332dMuxyefYaTqoo3k7oVk"
+        }
+      ],
+      "duration_ms": 197684,
+      "name": "Latch",
+      "url": "https://open.spotify.com/track/17h05SukjWjPCNWAENwW8U"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Back to Black",
-        "url": "https://open.spotify.com/album/0DdRnqnWtdfkdvHHSEbBj9"
-      },
-      "artists": [
-        {
-          "name": "Sky Garden",
-          "url": "https://open.spotify.com/artist/6UgwxybciFKetYkRLHaViC"
-        }
-      ],
-      "duration_ms": 183674,
-      "name": "Back to Black",
-      "url": "https://open.spotify.com/track/0rXY3tl4TSgF2iBKCeX9qi"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "WHAT THE HELL ARE WE DYING FOR?",
         "url": "https://open.spotify.com/album/7pbeE2xmYADDOEjd3H62xA"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 202000,
       "name": "WHAT THE HELL ARE WE DYING FOR?",
       "url": "https://open.spotify.com/track/1fsOH02E5iqS6xZZY7UOpd"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Back to Black",
+        "url": "https://open.spotify.com/album/0DdRnqnWtdfkdvHHSEbBj9"
+      },
+      "artists": [
+        {
+          "name": "Sky Garden",
+          "url": "https://open.spotify.com/artist/6UgwxybciFKetYkRLHaViC"
+        }
+      ],
+      "duration_ms": 183674,
+      "name": "Back to Black",
+      "url": "https://open.spotify.com/track/0rXY3tl4TSgF2iBKCeX9qi"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -691,18 +691,18 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Barbie Girl",
-        "url": "https://open.spotify.com/album/2dQVj6SJhxaKIlq2AaRJUD"
+        "name": "In The Meantime",
+        "url": "https://open.spotify.com/album/1th9BtaPuSyzyXHcXvqIZk"
       },
       "artists": [
         {
-          "name": "Jill & Jane",
-          "url": "https://open.spotify.com/artist/2XsNyprLTFSGhXfJCY8qYG"
+          "name": "Nora Levario",
+          "url": "https://open.spotify.com/artist/43F7L6jcGu1F0TpEmS27mw"
         }
       ],
-      "duration_ms": 170931,
-      "name": "Barbie Girl",
-      "url": "https://open.spotify.com/track/2nWifBZb998ETUqTrriQR9"
+      "duration_ms": 178966,
+      "name": "In The Meantime",
+      "url": "https://open.spotify.com/track/36bfoyLUV3h3UXZ7thFMhb"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -723,18 +723,18 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "In The Meantime",
-        "url": "https://open.spotify.com/album/1th9BtaPuSyzyXHcXvqIZk"
+        "name": "Barbie Girl",
+        "url": "https://open.spotify.com/album/2dQVj6SJhxaKIlq2AaRJUD"
       },
       "artists": [
         {
-          "name": "Nora Levario",
-          "url": "https://open.spotify.com/artist/43F7L6jcGu1F0TpEmS27mw"
+          "name": "Jill & Jane",
+          "url": "https://open.spotify.com/artist/2XsNyprLTFSGhXfJCY8qYG"
         }
       ],
-      "duration_ms": 178966,
-      "name": "In The Meantime",
-      "url": "https://open.spotify.com/track/36bfoyLUV3h3UXZ7thFMhb"
+      "duration_ms": 170931,
+      "name": "Barbie Girl",
+      "url": "https://open.spotify.com/track/2nWifBZb998ETUqTrriQR9"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Pure Shores",
-        "url": "https://open.spotify.com/album/6AF7goSB4mDIpHrDhQCHuU"
-      },
-      "artists": [
-        {
-          "name": "Colder Shoulders",
-          "url": "https://open.spotify.com/artist/1zosZ3MRuDEtY3otoKE291"
-        }
-      ],
-      "duration_ms": 199595,
-      "name": "Pure Shores",
-      "url": "https://open.spotify.com/track/6J3yPTOppEmWRAWf03f4HP"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Here I Go Again - Acoustic EP",
         "url": "https://open.spotify.com/album/5WFy0zXYRVXAdjhWgS3xJ3"
       },
@@ -883,18 +867,18 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Kiss An Angel Good Mornin'",
-        "url": "https://open.spotify.com/album/4UubPvWcnV1C4zxFQgC895"
+        "name": "Pure Shores",
+        "url": "https://open.spotify.com/album/6AF7goSB4mDIpHrDhQCHuU"
       },
       "artists": [
         {
-          "name": "Xochi Krausse",
-          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
+          "name": "Colder Shoulders",
+          "url": "https://open.spotify.com/artist/1zosZ3MRuDEtY3otoKE291"
         }
       ],
-      "duration_ms": 164785,
-      "name": "Kiss An Angel Good Mornin'",
-      "url": "https://open.spotify.com/track/3RAqqEjitdBdItCphiZAdQ"
+      "duration_ms": 199595,
+      "name": "Pure Shores",
+      "url": "https://open.spotify.com/track/6J3yPTOppEmWRAWf03f4HP"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -911,6 +895,22 @@
       "duration_ms": 199114,
       "name": "No Air",
       "url": "https://open.spotify.com/track/5mFrdpvoxokKCWp9uHE1ok"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Kiss An Angel Good Mornin'",
+        "url": "https://open.spotify.com/album/4UubPvWcnV1C4zxFQgC895"
+      },
+      "artists": [
+        {
+          "name": "Xochi Krausse",
+          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
+        }
+      ],
+      "duration_ms": 164785,
+      "name": "Kiss An Angel Good Mornin'",
+      "url": "https://open.spotify.com/track/3RAqqEjitdBdItCphiZAdQ"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
+        "name": "Ghost - acoustic",
+        "url": "https://open.spotify.com/album/1m3Yz2bhM7W8F663BkXrJE"
+      },
+      "artists": [
+        {
+          "name": "VDVM",
+          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
+        }
+      ],
+      "duration_ms": 151374,
+      "name": "Ghost - Acoustic",
+      "url": "https://open.spotify.com/track/3Z3ztvlGjx0lO0PesbKvzc"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
         "name": "Kissing Other People (Acoustic)",
         "url": "https://open.spotify.com/album/1OkuJQhcqBAbxBD7Hbhi0T"
       },
@@ -1011,38 +1027,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Fake Plastic Trees",
-        "url": "https://open.spotify.com/album/6HeM8ZTANrAREphp6jQ5Ym"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Fake Plastic Trees",
-      "url": "https://open.spotify.com/track/2wVoRTUczkumuqcgNlRnLa"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
-        "name": "Ghost - acoustic",
-        "url": "https://open.spotify.com/album/1m3Yz2bhM7W8F663BkXrJE"
-      },
-      "artists": [
-        {
-          "name": "VDVM",
-          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
-        }
-      ],
-      "duration_ms": 151374,
-      "name": "Ghost - Acoustic",
-      "url": "https://open.spotify.com/track/3Z3ztvlGjx0lO0PesbKvzc"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Cold Heart",
         "url": "https://open.spotify.com/album/4NMkTYIoBBwwgNTTMooXKl"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 188742,
       "name": "Cold Heart",
       "url": "https://open.spotify.com/track/6iWWtmXJckNTOA57xqiGNo"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Fake Plastic Trees",
+        "url": "https://open.spotify.com/album/6HeM8ZTANrAREphp6jQ5Ym"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Fake Plastic Trees",
+      "url": "https://open.spotify.com/track/2wVoRTUczkumuqcgNlRnLa"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "~how i'm feeling~ (the extras)",
-        "url": "https://open.spotify.com/album/1Y8FqfEHHJpEEYx3HPIa9m"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 252681,
-      "name": "Modern Loneliness - acoustic",
-      "url": "https://open.spotify.com/track/2lE7BNs37fnST4ZxP9KyqJ"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Out Of My Head And Back In My Bed",
         "url": "https://open.spotify.com/album/2tYlc586qfpzDq1nfh8z1M"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 190561,
       "name": "Out Of My Head And Back In My Bed",
       "url": "https://open.spotify.com/track/13TEQskDYFrpAtPtKVMznF"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "~how i'm feeling~ (the extras)",
+        "url": "https://open.spotify.com/album/1Y8FqfEHHJpEEYx3HPIa9m"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 252681,
+      "name": "Modern Loneliness - acoustic",
+      "url": "https://open.spotify.com/track/2lE7BNs37fnST4ZxP9KyqJ"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
+        "name": "Waterfalls",
+        "url": "https://open.spotify.com/album/2xoeY7T8uj7C0ITIPNBoPz"
+      },
+      "artists": [
+        {
+          "name": "Tobey Rosen",
+          "url": "https://open.spotify.com/artist/7xW6v5mmwGhWtoZ0x2AhLN"
+        }
+      ],
+      "duration_ms": 170884,
+      "name": "Waterfalls",
+      "url": "https://open.spotify.com/track/3lKlGhiNTsv3moOzbMXBUf"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
         "name": "Sparks",
         "url": "https://open.spotify.com/album/1qORB1Q8h63lnKR7Jsv8Cx"
       },
@@ -1547,22 +1563,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/7r7rQgJcP9VU2uDV4uQfJo"
-      },
-      "artists": [
-        {
-          "name": "NTMY",
-          "url": "https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR"
-        }
-      ],
-      "duration_ms": 179745,
-      "name": "Boyfriend",
-      "url": "https://open.spotify.com/track/7aq8uaeA9Uo1yu7HkiEGcG"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Pillowtalk",
         "url": "https://open.spotify.com/album/5Q4v3WlXy542KhJUVIs9oz"
       },
@@ -1575,6 +1575,22 @@
       "duration_ms": 153374,
       "name": "Pillowtalk",
       "url": "https://open.spotify.com/track/4bIHIz5ywe7IsmRTWygU02"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/7r7rQgJcP9VU2uDV4uQfJo"
+      },
+      "artists": [
+        {
+          "name": "NTMY",
+          "url": "https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR"
+        }
+      ],
+      "duration_ms": 179745,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/7aq8uaeA9Uo1yu7HkiEGcG"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1607,22 +1623,6 @@
       "duration_ms": 225316,
       "name": "All That I Need",
       "url": "https://open.spotify.com/track/2htuDl6TWC2cxia8ZTdBSU"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
-        "name": "Waterfalls",
-        "url": "https://open.spotify.com/album/2xoeY7T8uj7C0ITIPNBoPz"
-      },
-      "artists": [
-        {
-          "name": "Tobey Rosen",
-          "url": "https://open.spotify.com/artist/7xW6v5mmwGhWtoZ0x2AhLN"
-        }
-      ],
-      "duration_ms": 170884,
-      "name": "Waterfalls",
-      "url": "https://open.spotify.com/track/3lKlGhiNTsv3moOzbMXBUf"
     }
   ],
   "unique_name": "Chill Acoustic Covers",

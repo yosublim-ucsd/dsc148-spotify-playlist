@@ -2500,6 +2500,24 @@
     {
       "album": {
         "name": "BTTB - 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/4MI7PELbBbWJrTgAX1nbKR"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272501,
+      "name": "energy flow",
+      "url": "https://open.spotify.com/track/38hwMaB4DWUhAWdyk1VljB"
+    },
+    {
+      "album": {
+        "name": "BTTB - 20th Anniversary Edition",
         "url": "https://open.spotify.com/album/6HdFNj6bhQQewtNupqVu5J"
       },
       "artists": [
@@ -2510,7 +2528,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 272501,
       "name": "energy flow",
       "url": "https://open.spotify.com/track/6rXnP6n3myylS9PV4N53ID"
@@ -6684,6 +6702,28 @@
       "duration_ms": 654586,
       "name": "Piano Concerto: I. Impromptu",
       "url": "https://open.spotify.com/track/5o0h2NGQYzBqfRoYdIrCh4"
+    },
+    {
+      "album": {
+        "name": "Liszt: Piano Sonata",
+        "url": "https://open.spotify.com/album/5XNVrljXjcwKnzo2YHUjrY"
+      },
+      "artists": [
+        {
+          "name": "\u30d5\u30e9\u30f3\u30c4\u30fb\u30ea\u30b9\u30c8",
+          "url": "https://open.spotify.com/artist/5TpmEhdgm9h6EhkVqEmSlA"
+        },
+        {
+          "name": "\u53e4\u6d77\u884c\u5b50",
+          "url": "https://open.spotify.com/artist/3BCjmEq3Xyrf7EUk0ER0IY"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 721906,
+      "name": "Piano Sonata in B Minor, S. 178: Lento assai - Allegro energico",
+      "url": "https://open.spotify.com/track/7dS8h3dvUTyxzuppAZdPEe"
     },
     {
       "album": {
@@ -10888,7 +10928,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 721906,
       "name": "\u30d4\u30a2\u30ce\u30fb\u30bd\u30ca\u30bf \u30ed\u77ed\u8abf S.178 Lento assai - Allegro energico",
       "url": "https://open.spotify.com/track/1SzoVGg51SC9ecy3wIMhOu"

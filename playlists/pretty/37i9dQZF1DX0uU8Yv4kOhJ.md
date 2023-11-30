@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 
 > Concentrate con el aire de la cordillera de los Andes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,950 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,976 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,10 +29,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 | 19 | [El Canto del Cuculi](https://open.spotify.com/track/4bg6qNjRS1WaD1GrPV6zZm) | [Los Koyas](https://open.spotify.com/artist/24zoa2n32fPZwVJoGOr9xC) | [Le top des Andes \(Les plus grands thèmes à la flûte des Andes\)](https://open.spotify.com/album/5SKiECHgu0Zs1cqIR8HJls) | 2:55 |
 | 20 | [La Felicidad](https://open.spotify.com/track/4FDiLM3onP5Kpd4fdz352D) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H) | [”Zamba Puta”](https://open.spotify.com/album/1FsZ3DfeXndrOrpWNBWk6J) | 3:55 |
 | 21 | [Boquerón Abandonado](https://open.spotify.com/track/0ECth7Ix1HakMkZVOWDALf) | [Savia Andina](https://open.spotify.com/artist/0hkFv9719WLJ2uupZTn0ru) | [Lo Mejor de Savia Andina \(Música Boliviana\)](https://open.spotify.com/album/3TThUIkeWMC62bZdIdYeV9) | 3:34 |
-| 22 | [Wipala](https://open.spotify.com/track/7uxmsieVovltullEN2B8QU) | [Gonzalo Vargas](https://open.spotify.com/artist/2uo6i3LKZWHgYqpy9LM7fJ), [Inkuyo](https://open.spotify.com/artist/6l0qnbpSfHw1vk6tQUquDt) | [Land of the Incas \(Music of the Andes\)](https://open.spotify.com/album/5eRW6MRpmkK1jLgZGxEjAn) | 5:08 |
-| 23 | [Tú Me Llevas](https://open.spotify.com/track/2aC2w4iVxpRjbUd9BDIa2y) | [MOÜGLI](https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9) | [Tú Me Llevas](https://open.spotify.com/album/4JjieslqBeHEzoKD9259l0) | 4:23 |
-| 24 | [Solo](https://open.spotify.com/track/2nHbYehgkMWR4fmqswEvD9) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Solo](https://open.spotify.com/album/4BQafZfyveBiMv3FDJ6wAU) | 3:44 |
-| 25 | [La Cazadora](https://open.spotify.com/track/4QHLlJYsUWCoRkRaUFYIhP) | [Tonolec](https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5) | [Acústico](https://open.spotify.com/album/1L7X3TMHXuB8XSOZpdkxAc) | 5:13 |
+| 22 | [Tú Me Llevas](https://open.spotify.com/track/2aC2w4iVxpRjbUd9BDIa2y) | [MOÜGLI](https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9) | [Tú Me Llevas](https://open.spotify.com/album/4JjieslqBeHEzoKD9259l0) | 4:23 |
+| 23 | [Wipala](https://open.spotify.com/track/7uxmsieVovltullEN2B8QU) | [Gonzalo Vargas](https://open.spotify.com/artist/2uo6i3LKZWHgYqpy9LM7fJ), [Inkuyo](https://open.spotify.com/artist/6l0qnbpSfHw1vk6tQUquDt) | [Land of the Incas \(Music of the Andes\)](https://open.spotify.com/album/5eRW6MRpmkK1jLgZGxEjAn) | 5:08 |
+| 24 | [La Cazadora](https://open.spotify.com/track/4QHLlJYsUWCoRkRaUFYIhP) | [Tonolec](https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5) | [Acústico](https://open.spotify.com/album/1L7X3TMHXuB8XSOZpdkxAc) | 5:13 |
+| 25 | [Solo](https://open.spotify.com/track/2nHbYehgkMWR4fmqswEvD9) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Solo](https://open.spotify.com/album/4BQafZfyveBiMv3FDJ6wAU) | 3:44 |
 | 26 | [Munaspaqa Suyaykuway](https://open.spotify.com/track/0RiWhE2d4F8QMKcorZsDh9) | [Jaime Guardia](https://open.spotify.com/artist/3AxPEg0Jy5U5GvgEHsI43X) | [Charango Peruano](https://open.spotify.com/album/4HVoQalB9EVdBsbeOt4Wxx) | 3:02 |
 | 27 | [Herejia](https://open.spotify.com/track/5nQTVn417aepqNo6BF9fMN) | [Novalima](https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI) | [Ch'usay](https://open.spotify.com/album/5KNsxBQPRUBeAG0WVdHXNG) | 3:46 |
 | 28 | [Tiwanacu](https://open.spotify.com/track/3NO8H307ShIWN71ifxTnAN) | [Maya Andina](https://open.spotify.com/artist/3Rd5uZJK7LV9xnCDIsUxYU) | [Amor Ardiente \(Bolivia y Su Folklore\)](https://open.spotify.com/album/28ekMoSZk09F8bWYeO3O2c) | 3:35 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 | 34 | [Religar](https://open.spotify.com/track/2wjx4ZP54RfWN479QH5UCK) | [Mateo Kingman](https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx) | [Astro](https://open.spotify.com/album/79WFnNXKctYYSwJxas6AI8) | 3:36 |
 | 35 | [Gemas](https://open.spotify.com/track/2mBvyVRiv8hJBsSmZTNE8X) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Manglares \(B\-Sides\) \- EP](https://open.spotify.com/album/7kug1J54BtHHJ8iJXagHnE) | 3:38 |
 | 36 | [Hoja de Coca](https://open.spotify.com/track/5sYYIgpT03k1EKGBSb77pa) | [Rumillajta](https://open.spotify.com/artist/6Y2Lacqni5uPW6SROD6Jlx) | [Hoja de Coca](https://open.spotify.com/album/4dDnvsVaGbiwhVVkbve4Xe) | 4:26 |
-| 37 | [Cacharpaya Del Indio](https://open.spotify.com/track/01faYqKRsEL1LnJa78gkfu) | [Jorge Rico](https://open.spotify.com/artist/3Q3acE5KCV3k0UdCH7bGhp) | [A Journey To The Andes](https://open.spotify.com/album/5z3wwXWdl5P7lNsZ1jTS9P) | 4:56 |
-| 38 | [Altamar](https://open.spotify.com/track/0hQ1YDgcYE0J2cypCoIPmj) | [Vilamarea](https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ) | [Altamar](https://open.spotify.com/album/4hrSQysDtVOtq4dIcA89mN) | 4:49 |
+| 37 | [Altamar](https://open.spotify.com/track/0hQ1YDgcYE0J2cypCoIPmj) | [Vilamarea](https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ) | [Altamar](https://open.spotify.com/album/4hrSQysDtVOtq4dIcA89mN) | 4:49 |
+| 38 | [Cacharpaya Del Indio](https://open.spotify.com/track/01faYqKRsEL1LnJa78gkfu) | [Jorge Rico](https://open.spotify.com/artist/3Q3acE5KCV3k0UdCH7bGhp) | [A Journey To The Andes](https://open.spotify.com/album/5z3wwXWdl5P7lNsZ1jTS9P) | 4:56 |
 | 39 | [Baila Caporal](https://open.spotify.com/track/1YjjXAP3cWS3qWB1ijPMVJ) | [Sukay](https://open.spotify.com/artist/45MEz7t5DAOmX0o8fFKA3B) | [Encuentros \(Meetings\)](https://open.spotify.com/album/5mkXtYO19LdPQ1mzpvODQL) | 4:32 |
 | 40 | [Sajsahuaman](https://open.spotify.com/track/4kRLMCyV87XE573Iocaqpp) | [Proyección](https://open.spotify.com/artist/119DPASXtwEkIiAoRSOUR8), [Yuri Ortuño León](https://open.spotify.com/artist/1Tez0X3Wh9zSosZpCyoeLw), [Rafael Arias Paz](https://open.spotify.com/artist/6byGBND3MbJ7xGjDwU0LaZ), [Orlando Jiménez](https://open.spotify.com/artist/09rYyheZjqeOn8sXUfk8Yh), [Raúl Muriel](https://open.spotify.com/artist/2sHM5euYwk4aMqhiT8MZCM) | [No Vuelvo a Amar \(feat\. Yuri Ortuño León, Rafael Arias Paz, Orlando Jiménez, Raúl Muriel\) \[Bolivia y Su Folklore\]](https://open.spotify.com/album/0HHmdi8uP0V82pxE8leycY) | 2:42 |
 | 41 | [Isla Negra](https://open.spotify.com/track/4HK6iuNDF0SC5Vz7jznprn) | [Illapu](https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx) | [Morena Esperanza \(Remasterizado\)](https://open.spotify.com/album/5XKPz8xM5PTS5vzaC7gyrY) | 4:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 | 49 | [Agüita del Equilibrio](https://open.spotify.com/track/5xKk5ZGsk6HPspcaCgr8kr) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [La Casa No Existe](https://open.spotify.com/album/0SxTeOE2w7uINeSt7I8wmT) | 3:24 |
 | 50 | [Viaje Andino](https://open.spotify.com/track/6LFPiralbg4KhoGBCC8V4M) | [Paulopulus](https://open.spotify.com/artist/1IWXmmObccEzvcNxa9Dtvo), [Juan Luis Pereira](https://open.spotify.com/artist/4svRjaFMW12wuoZ0PJqj40) | [Viaje de Mixturas](https://open.spotify.com/album/5UDyoz7X5WktqJadjWvmVA) | 4:06 |
 
-Snapshot ID: `MCw4ZDlmMjVmZDAxZjcxMzFiODk4ZjJlZjcxZTNlYzdmZWUyODQzZjg1`
+Snapshot ID: `MCw2OTE4ZTJkNWVlMzNjMGMyOTNiNGZhZDljNzQ3Y2ZiNGEzYWYxMzA5`

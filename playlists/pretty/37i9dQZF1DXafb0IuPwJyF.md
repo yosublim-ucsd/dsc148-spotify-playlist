@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover: Vaundy
 
-[Spotify](https://open.spotify.com/user/spotify) - 848,325 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 849,585 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 2 | [晩餐歌](https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌](https://open.spotify.com/album/0i4V6w1zpf6CFXSS67cyfQ) | 3:35 |
 | 3 | [Biri\-Biri](https://open.spotify.com/track/3X9N36jB8FtTkzTCkIFi4u) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Biri\-Biri](https://open.spotify.com/album/1hxB0L2PCz5d5jQl2s39Sz) | 3:07 |
 | 4 | [Luv Myself](https://open.spotify.com/track/4woDrq2rIKBbI6UNkzB48j) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [Luv Myself](https://open.spotify.com/album/4sJMZSWobdfCTgwICMGU6d) | 4:28 |
-| 5 | [SPECIALZ](https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [SPECIALZ](https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc) | 3:58 |
+| 5 | [SPECIALZ](https://open.spotify.com/track/5oQpH1uuZte4axR411rIlN) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 3:53 |
 | 6 | [Hana](https://open.spotify.com/track/02tNuntKQsoou5T4O8meyh) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Hana](https://open.spotify.com/album/0v6vQ9tMopUTccn0wUvzQD) | 4:06 |
 | 7 | [Biscuit](https://open.spotify.com/track/4VerfQl7Y8UphNFBWEKMtV) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Biscuit](https://open.spotify.com/album/6P68HkiZanv6UJSSklu4jg) | 3:24 |
 | 8 | [Love Song](https://open.spotify.com/track/0nokJDMZpEnGbC09v5Fn6T) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Love Song](https://open.spotify.com/album/2mR7pRFpeDSEWbd0jj05hm) | 4:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [What's Poppin](https://open.spotify.com/track/4h1szxNxkEIeAiBa8QcsJr) | [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [JIGG](https://open.spotify.com/artist/7FaaVgMxA6RqO7viZwFaQp), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [Hit Different](https://open.spotify.com/album/4H5P7cJyGe0Sw0gSHtjuMm) | 2:28 |
 | 50 | [Monopoly](https://open.spotify.com/track/59rhrmvQl2CtQBd6W8NeQO) | [Nogizaka46](https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq) | [Monopoly](https://open.spotify.com/album/27MwvD3buume0Dl4C743vI) | 3:58 |
 
-Snapshot ID: `MCwzY2FmZmI4NGZiZjVlYTJlNmU0YWI5NDg3ZGIyMGFkMDg0YjI3NTdi`
+Snapshot ID: `MCxhNjlmYmIyM2E4ZjNjNjI1MzRiNjFmYTQ3MmM3MTQzZDVhZjE2NGZk`

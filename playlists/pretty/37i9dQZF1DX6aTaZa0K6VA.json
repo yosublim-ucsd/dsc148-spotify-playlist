@@ -1,12 +1,12 @@
 {
   "description": "Super mega hits! Foto: Tate McRae",
-  "num_followers": 6766555,
+  "num_followers": 6766920,
   "original_name": "Pop Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDcyNmRlOTJlZmIyOWY2NmUxZThlZjU2MTIzNzFiZDE0NDRiNzc0",
+  "snapshot_id": "MCwyNjFkMWRmMzMwZTIwYTQ4YmI3YzZjNjA4MzI3NzM3M2IyZTYwYmQw",
   "tracks": [
     {
       "added_at": "2023-11-24 04:59:00",
@@ -307,22 +307,22 @@
     {
       "added_at": "2023-11-24 04:59:00",
       "album": {
-        "name": "Seven (feat. Latto)",
-        "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
       },
       "artists": [
         {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         },
         {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
         }
       ],
-      "duration_ms": 184400,
-      "name": "Seven (feat. Latto) (Explicit Ver.)",
-      "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
+      "duration_ms": 230453,
+      "name": "Starboy",
+      "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
     },
     {
       "added_at": "2023-11-24 04:59:00",
@@ -347,22 +347,22 @@
     {
       "added_at": "2023-11-24 04:59:00",
       "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+        "name": "Seven (feat. Latto)",
+        "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
         },
         {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         }
       ],
-      "duration_ms": 230453,
-      "name": "Starboy",
-      "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
+      "duration_ms": 184400,
+      "name": "Seven (feat. Latto) (Explicit Ver.)",
+      "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
     },
     {
       "added_at": "2023-11-24 04:59:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-11-24 04:59:00",
       "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 200040,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
-    },
-    {
-      "added_at": "2023-11-24 04:59:00",
-      "album": {
         "name": "Flower Boy",
         "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
       },
@@ -499,22 +483,18 @@
     {
       "added_at": "2023-11-24 04:59:00",
       "album": {
-        "name": "3D (feat. Jack Harlow)",
-        "url": "https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ"
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
       },
       "artists": [
         {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 201812,
-      "name": "3D (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE"
+      "duration_ms": 200040,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
     },
     {
       "added_at": "2023-11-24 04:59:00",
@@ -535,6 +515,26 @@
       "duration_ms": 175238,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
+    },
+    {
+      "added_at": "2023-11-24 04:59:00",
+      "album": {
+        "name": "3D (feat. Jack Harlow)",
+        "url": "https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 201812,
+      "name": "3D (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE"
     },
     {
       "added_at": "2023-11-24 04:59:00",
@@ -1219,42 +1219,6 @@
     {
       "added_at": "2023-11-24 04:59:00",
       "album": {
-        "name": "One in a Million",
-        "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 160529,
-      "name": "One in a Million",
-      "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
-    },
-    {
-      "added_at": "2023-11-24 04:59:00",
-      "album": {
-        "name": "Bones",
-        "url": "https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 165264,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
-    },
-    {
-      "added_at": "2023-11-24 04:59:00",
-      "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/6YFH6hee6fTJjlRddtl8gN"
       },
@@ -1275,6 +1239,42 @@
       "duration_ms": 175500,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x"
+    },
+    {
+      "added_at": "2023-11-24 04:59:00",
+      "album": {
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 165264,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
+    },
+    {
+      "added_at": "2023-11-24 04:59:00",
+      "album": {
+        "name": "One in a Million",
+        "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 160529,
+      "name": "One in a Million",
+      "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
     },
     {
       "added_at": "2023-11-24 04:59:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-11-24 04:59:00",
       "album": {
-        "name": "Don't Start Now",
-        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 183290,
-      "name": "Don't Start Now",
-      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
-    },
-    {
-      "added_at": "2023-11-24 04:59:00",
-      "album": {
         "name": "Hold Me Closer",
         "url": "https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 202245,
       "name": "Hold Me Closer",
       "url": "https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN"
+    },
+    {
+      "added_at": "2023-11-24 04:59:00",
+      "album": {
+        "name": "Don't Start Now",
+        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 183290,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
     },
     {
       "added_at": "2023-11-24 04:59:00",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2023-11-24 04:59:00",
       "album": {
+        "name": "Lost On You",
+        "url": "https://open.spotify.com/album/1PZZJGNY5VDtAQmNqP1f4U"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "duration_ms": 267461,
+      "name": "Lost on You",
+      "url": "https://open.spotify.com/track/2NttzQ2kuVFFmEa8q4rsbu"
+    },
+    {
+      "added_at": "2023-11-24 04:59:00",
+      "album": {
         "name": "Other Boys",
         "url": "https://open.spotify.com/album/3eb9d46lBCh5p1XBn66jBQ"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 137065,
       "name": "Other Boys",
       "url": "https://open.spotify.com/track/5WZlorRUxgryaweu7kqeHd"
-    },
-    {
-      "added_at": "2023-11-24 04:59:00",
-      "album": {
-        "name": "Lost On You",
-        "url": "https://open.spotify.com/album/1PZZJGNY5VDtAQmNqP1f4U"
-      },
-      "artists": [
-        {
-          "name": "LP",
-          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
-        }
-      ],
-      "duration_ms": 267461,
-      "name": "Lost on You",
-      "url": "https://open.spotify.com/track/2NttzQ2kuVFFmEa8q4rsbu"
     },
     {
       "added_at": "2023-11-24 04:59:00",

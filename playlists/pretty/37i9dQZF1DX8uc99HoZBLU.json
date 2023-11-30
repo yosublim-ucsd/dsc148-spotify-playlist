@@ -1,12 +1,12 @@
 {
   "description": "for those who appreciate a curated mood \ud83e\udea9",
-  "num_followers": 819471,
+  "num_followers": 820176,
   "original_name": "aesthetic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Zjg2ODZhYmNiM2VhMjc4MzA0NDYyZTZkNjhlYmNkNzM3NzkzNDk2",
+  "snapshot_id": "MCw4YzkyNmU1NzI4MDcwN2RjYmM3ZTZmZDRhZWYwYjVhMDU1YjNmMmQ4",
   "tracks": [
     {
       "added_at": "2023-08-17 16:24:24",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-08-17 16:24:24",
       "album": {
-        "name": "wannabewithu",
-        "url": "https://open.spotify.com/album/1rQys03txxThcRZLofLlHY"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 456000,
-      "name": "Lover Is a Day",
-      "url": "https://open.spotify.com/track/1ucnuV88gFTfR3BalmznDk"
-    },
-    {
-      "added_at": "2023-08-17 16:24:24",
-      "album": {
         "name": "Triplbt Theme",
         "url": "https://open.spotify.com/album/0Nq3r1NoSh6bq6SXxuKnlM"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 90323,
       "name": "Vas",
       "url": "https://open.spotify.com/track/6S7o12almFeL57rbRvdY5l"
+    },
+    {
+      "added_at": "2023-08-17 16:24:24",
+      "album": {
+        "name": "wannabewithu",
+        "url": "https://open.spotify.com/album/1rQys03txxThcRZLofLlHY"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 456000,
+      "name": "Lover Is a Day",
+      "url": "https://open.spotify.com/track/1ucnuV88gFTfR3BalmznDk"
     },
     {
       "added_at": "2023-08-17 16:24:24",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2023-08-17 16:24:24",
       "album": {
-        "name": "Lo Que Siento",
-        "url": "https://open.spotify.com/album/69FOLmptEcKSeN1f60UFDC"
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
       "artists": [
         {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 312000,
-      "name": "Lo Que Siento",
-      "url": "https://open.spotify.com/track/4CYeId6mLAasOb6o0NCz4Y"
+      "duration_ms": 158840,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/6RQ5IwG7uADz9LDWliJGjU"
     },
     {
       "added_at": "2023-08-17 16:24:24",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-08-17 16:24:24",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 158840,
-      "name": "Special",
-      "url": "https://open.spotify.com/track/6RQ5IwG7uADz9LDWliJGjU"
-    },
-    {
-      "added_at": "2023-08-17 16:24:24",
-      "album": {
         "name": "Shootout",
         "url": "https://open.spotify.com/album/2lQQ5xfJwzELcecvu8gZN5"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 295308,
       "name": "Shootout",
       "url": "https://open.spotify.com/track/4pTkDIlpFNoeWbahu8pVXW"
+    },
+    {
+      "added_at": "2023-08-17 16:24:24",
+      "album": {
+        "name": "Lo Que Siento",
+        "url": "https://open.spotify.com/album/69FOLmptEcKSeN1f60UFDC"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 312000,
+      "name": "Lo Que Siento",
+      "url": "https://open.spotify.com/track/4CYeId6mLAasOb6o0NCz4Y"
     },
     {
       "added_at": "2023-08-17 16:24:24",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2023-08-17 16:24:24",
       "album": {
-        "name": "Winelight",
-        "url": "https://open.spotify.com/album/50gtvo0hufJj06ipbOjAiU"
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/3FZtDulD5KUnIxA9dM1v5M"
       },
       "artists": [
         {
-          "name": "Grover Washington, Jr.",
-          "url": "https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1"
+          "name": "Home",
+          "url": "https://open.spotify.com/artist/2exebQUDoIoT0dXA8BcN1P"
         }
       ],
-      "duration_ms": 443773,
-      "name": "Just the Two of Us",
-      "url": "https://open.spotify.com/track/5fdNHVZHbWB1AaXk4RBGVD"
+      "duration_ms": 212881,
+      "name": "Resonance",
+      "url": "https://open.spotify.com/track/65r94rVdiMwqXyQFEr3tqT"
     }
   ],
   "unique_name": "aesthetic",

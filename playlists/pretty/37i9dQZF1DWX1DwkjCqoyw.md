@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1DwkjCqoyw.md) - [plain]
 
 > The biggest crossover songs from the islands all in one place\. Cover: Shaggy
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,055 likes - 36 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,110 likes - 36 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1DwkjCqoyw.md) - [plain]
 | 11 | [Nostálgico](https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Nostálgico](https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV) | 3:29 |
 | 12 | [Love Life](https://open.spotify.com/track/6Vb70ayh0jlzbHQ0vwvgxJ) | [Navy](https://open.spotify.com/artist/5lcuEyOhY94UGnsCgzTFao) | [Love Life](https://open.spotify.com/album/3FtZZiJaGgdVpJrCeaWZP6) | 2:32 |
 | 13 | [Ten Cane Row \(feat\. Jorja Smith\)](https://open.spotify.com/track/5Zzh3jIDIvCb6bllZjfuL4) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Third Time's The Charm](https://open.spotify.com/album/2twm4yeL6jW6SqZ2S0YaS7) | 3:29 |
-| 14 | [Energy](https://open.spotify.com/track/60NWySy9UQUs0uhkW8KG3L) | [Mystic Marley](https://open.spotify.com/artist/5WhXMSMSiOyEhXBNI6Lf2h) | [Energy](https://open.spotify.com/album/1ugvgS5zZC3YizYlhJ8TBf) | 2:37 |
+| 14 | [Energy](https://open.spotify.com/track/6iH3aLFWxvjl4XfoDPfpNP) | [Mystic Marley](https://open.spotify.com/artist/5WhXMSMSiOyEhXBNI6Lf2h) | [Energy](https://open.spotify.com/album/3ecvu0AVEQIUFEIrC2Cjgb) | 2:37 |
 | 15 | [Pieces \(with Jahshii\)](https://open.spotify.com/track/6NaeXUltqK5j9NqCaiqRO4) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [Jahshii](https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7) | [Pieces](https://open.spotify.com/album/1qWTEKdNqMDHIq0mSivRTW) | 3:39 |
 | 16 | [Finesse](https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1) | 2:35 |
 | 17 | [Go Down Deh \(feat\. Shaggy and Sean Paul\)](https://open.spotify.com/track/58dGRQrNmAJeRMFuguUbvD) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [10](https://open.spotify.com/album/7pKLvzqcLuNx96e59VFREP) | 2:34 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1DwkjCqoyw.md) - [plain]
 | 35 | [You're Perfect](https://open.spotify.com/track/4iSWQ5Eadn5tZvvG9XNzYN) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [You're Perfect](https://open.spotify.com/album/6vZbWkCUqbIbEZnPaoDBFF) | 3:16 |
 | 36 | [Feelings \(Remix\)](https://open.spotify.com/track/5Bij2gXhLEUUxyPGcZZFFj) | [D'yani](https://open.spotify.com/artist/3c4mJY5ixVvzRBdYvBtxci), [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Feelings \(Remix\)](https://open.spotify.com/album/3DgIXwqAlgbDSIJZhLj3ba) | 3:37 |
 
-Snapshot ID: `MCw4MDlkZTZkM2U5M2UwYjM4Mzg2N2NlOGVhYzQxNjc1ZTY1ZTkyNGQ2`
+Snapshot ID: `MCxjYTYyMjc0MTViZDE1YTkxYzQ2NWU2MjZmYzcyZTY3ZTIwNmFjNTc3`

@@ -1,12 +1,12 @@
 {
   "description": "Warm familiar pop you know and love. Cover: Lady Gaga",
-  "num_followers": 6986026,
+  "num_followers": 6987219,
   "original_name": "Soft Pop Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzJiNzhkZjM0ZWE2ZDc1MDQ2NmY3Y2M4ZWIxMmJiN2RlOTliYzcz",
+  "snapshot_id": "MCw0MjhmYjgwNGMzNjk3ZDk2NWI3YzY3MzAzYzBkZTNkNzQ0YTU0NGIy",
   "tracks": [
     {
       "added_at": "2023-11-20 22:03:53",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-11-20 22:03:53",
       "album": {
-        "name": "Hollywood's Bleeding",
-        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 215280,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb"
-    },
-    {
-      "added_at": "2023-11-20 22:03:53",
-      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 153190,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
+    },
+    {
+      "added_at": "2023-11-20 22:03:53",
+      "album": {
+        "name": "Hollywood's Bleeding",
+        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 215280,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb"
     },
     {
       "added_at": "2023-11-20 22:03:53",
@@ -483,6 +483,22 @@
     {
       "added_at": "2023-11-20 22:03:53",
       "album": {
+        "name": "Dizzy up the Girl",
+        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
+      },
+      "artists": [
+        {
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+        }
+      ],
+      "duration_ms": 289533,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
+    },
+    {
+      "added_at": "2023-11-20 22:03:53",
+      "album": {
         "name": "Memories...Do Not Open",
         "url": "https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 247160,
       "name": "Something Just Like This",
       "url": "https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW"
-    },
-    {
-      "added_at": "2023-11-20 22:03:53",
-      "album": {
-        "name": "Dizzy up the Girl",
-        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
-      },
-      "artists": [
-        {
-          "name": "The Goo Goo Dolls",
-          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
-        }
-      ],
-      "duration_ms": 289533,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
     },
     {
       "added_at": "2023-11-20 22:03:53",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2023-11-20 22:03:53",
       "album": {
-        "name": "Fearless (Taylor's Version)",
-        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
+        "name": "Know-It-All",
+        "url": "https://open.spotify.com/album/7HnbhIDKXIBhMR4EPGuMgu"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
         }
       ],
-      "duration_ms": 235766,
-      "name": "Love Story (Taylor\u2019s Version)",
-      "url": "https://open.spotify.com/track/6YvqWjhGD8mB5QXcbcUKtx"
+      "duration_ms": 230240,
+      "name": "Scars To Your Beautiful",
+      "url": "https://open.spotify.com/track/0wI7QkCcs8FUQE1OkXUIqd"
     },
     {
       "added_at": "2023-11-20 22:03:53",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2023-11-20 22:03:53",
       "album": {
-        "name": "Know-It-All",
-        "url": "https://open.spotify.com/album/7HnbhIDKXIBhMR4EPGuMgu"
+        "name": "Fearless (Taylor's Version)",
+        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
       },
       "artists": [
         {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 230240,
-      "name": "Scars To Your Beautiful",
-      "url": "https://open.spotify.com/track/0wI7QkCcs8FUQE1OkXUIqd"
+      "duration_ms": 235766,
+      "name": "Love Story (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/6YvqWjhGD8mB5QXcbcUKtx"
     },
     {
       "added_at": "2023-11-20 22:03:53",

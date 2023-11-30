@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXX3HHYIWJwh.md) - [plain]
 
 > ホームパーティーを楽しむためのプレイリスト。女子会、ガールズナイトのお供に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,861 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,882 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXX3HHYIWJwh.md) - [plain]
 | 18 | [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 |
 | 19 | [NEW DANCE](https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DANCE](https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK) | 3:18 |
 | 20 | [Drama](https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Drama \- The 4th Mini Album](https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs) | 3:34 |
-| 21 | [Burning Friday Night](https://open.spotify.com/track/1NlkoYEA1ndLQIKzXTPh9V) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [FULLCOLOR](https://open.spotify.com/album/1rDLRueueI2ILXOyZE5qWd) | 4:15 |
+| 21 | [TOKYO JOURNEY](https://open.spotify.com/track/3eVvBU4nUV2GoVoF4iHo12) | [MONONOKE](https://open.spotify.com/artist/145u2V6RMbtZv0taOhfR6x) | [TOKYO JOURNEY](https://open.spotify.com/album/2f6d38S4UgGAF66V7DTwzs) | 4:18 |
 | 22 | [WARUNORI](https://open.spotify.com/track/2D1NcVffFzsLqNFbz5Xdkx) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [WARUNORI](https://open.spotify.com/album/2h7FVDXr3xmV11yyNImqRz) | 4:19 |
 | 23 | [Super](https://open.spotify.com/track/3AOf6YEpxQ894FmrwI9k96) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 10th Mini Album 'FML'](https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I) | 3:20 |
 | 24 | [フライデー・ナイト](https://open.spotify.com/track/6MXlv5l2I2BRa9pO38dE1a) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [フライデー・ナイト](https://open.spotify.com/album/6gSQqLEZ8GyWUOytxHUpJQ) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXX3HHYIWJwh.md) - [plain]
 | 49 | [La\_Original.mp3](https://open.spotify.com/track/6VjagyaPDsRal64aHXNIUY) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La\_Original.mp3](https://open.spotify.com/album/54okOxhsxH5Lmxgdv4WwKN) | 2:20 |
 | 50 | [Back for More \(with Anitta\)](https://open.spotify.com/track/6uTPA1xlcsk6dbchB2dhzl) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Back for More \(with Anitta\)](https://open.spotify.com/album/5zhfCotijpaEJfQNVAC8mV) | 2:11 |
 
-Snapshot ID: `MCxiYTczMjA4MTQ5ODRiZTk3YTU5OWVlMmI5YTc5MThiYzE1YTEyZGM4`
+Snapshot ID: `MCxhMDZiNjJmYTBlNjFmY2FhNDcyNmU2ZTBjNDQ2ZmQyNDgzNGJmYWM3`

@@ -4,7 +4,7 @@
 
 > Una mezcla sabrosa, picosita y refrescante.
 
-350 songs - 19 hr 43 min
+351 songs - 19 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,7 +277,8 @@
 | [Riri](https://open.spotify.com/track/13FHy6nHjXHbzHj1dZFB1G) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV) | 2:14 | 2023-03-04 | 2023-04-11 |
 | [Rosa Pastel](https://open.spotify.com/track/4LreWoO3cpgiIfrRwbOUSF) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Rosa Pastel](https://open.spotify.com/album/1PFKd6UNr0AHTNpfPbcd7v) | 3:24 | 2023-04-21 | 2023-08-04 |
 | [SABOR FRESA](https://open.spotify.com/track/1UMm1Qs3u59Wvk53zBUE8r) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [SABOR FRESA](https://open.spotify.com/album/1vw6eLxCJRAfD6RMJTiuKZ) | 2:36 | 2023-06-23 |  |
-| [Sax to Me](https://open.spotify.com/track/7oSPHLta1VJPFcUvEE9Gvj) | [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Joseph Qas](https://open.spotify.com/artist/1vs2vlQyZqBSVeD4ezeICI) | [Sax to Me](https://open.spotify.com/album/63GVsnGmXuYtn9zs56ck6Q) | 6:04 | 2023-11-10 |  |
+| [Sax To Me](https://open.spotify.com/track/01HkaXEkNgxty2lewZ0jqk) | [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Joseph Qas](https://open.spotify.com/artist/1vs2vlQyZqBSVeD4ezeICI) | [Sax To Me](https://open.spotify.com/album/3hDSkYuQHsIUc5sQYY7Laq) | 6:04 | 2023-11-10 |  |
+| [Sax to Me](https://open.spotify.com/track/7oSPHLta1VJPFcUvEE9Gvj) | [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Joseph Qas](https://open.spotify.com/artist/1vs2vlQyZqBSVeD4ezeICI) | [Sax to Me](https://open.spotify.com/album/63GVsnGmXuYtn9zs56ck6Q) | 6:04 | 2023-11-10 | 2023-11-30 |
 | [Se Amerita](https://open.spotify.com/track/3pQYf90V5idOGrXzosm9rt) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Cruisin' with Junior H](https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM) | 3:55 | 2022-01-07 | 2022-12-30 |
 | [Se Fue La Pantera \(En Vivo\)](https://open.spotify.com/track/6Yard5LK4aXEn0kBKtHSob) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Se Fue La Pantera \(En Vivo\)](https://open.spotify.com/album/7mJxDGu1Ch9awEssKwiqg3) | 3:22 | 2022-01-07 | 2023-11-11 |
 | [Se Me Olvidó](https://open.spotify.com/track/7paFC3FEu1WtPVP4Do6VZN) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [AYAYAY!](https://open.spotify.com/album/4In6hAxpuu07JqkzY8cjtg) | 2:39 | 2022-01-07 | 2022-12-30 |

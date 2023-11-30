@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC?si=Pp\_DGPnxRZ6lVU9j\-VfIEQ">Sykes</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,260 likes - 49 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,300 likes - 49 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 48 | [Know My Worth](https://open.spotify.com/track/6C2L4UE4UOGUZLkRbSEMBr) | [Jay Em](https://open.spotify.com/artist/0zIl4civXJUhG3jlhyrcOw), [Thandi Phoenix](https://open.spotify.com/artist/3PAjYEQ8KpL6u0fNDR0p1v) | [Know My Worth](https://open.spotify.com/album/15x8MZp4sthrR8borJolm3) | 5:15 |
 | 49 | [Premier Gaou \- Nitefreak Remix](https://open.spotify.com/track/57e5ib2PnvuiaTvaI4jGDp) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ) | [Premier Gaou \(Nitefreak Remix\)](https://open.spotify.com/album/1kfRbSlDcUF3hz3P9Zhg4c) | 3:42 |
 
-Snapshot ID: `MCw0NjNlYWQzNzU0NjJmODNlYTYxYTkwNmMyZWU4ODY2Yzk2MmM0MzE5`
+Snapshot ID: `MCw2MWE1MzVkNzllMjhlZWI5MGFhYmRkMWUwMzU3Y2Y3OWJlMjVjMWM4`

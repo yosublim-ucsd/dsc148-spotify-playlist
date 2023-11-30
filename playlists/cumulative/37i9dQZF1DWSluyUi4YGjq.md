@@ -4,7 +4,7 @@
 
 > Gazing at pedals, soaring celestially high\. Cover: Hotline TNT
 
-497 songs - 1 day 8 hr 25 min
+498 songs - 1 day 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,7 +358,8 @@
 | [Pretty Face](https://open.spotify.com/track/7n3Y93fkz1oRdsgpYTazkh) | [Soft Kill](https://open.spotify.com/artist/58rIPw8uw8LW01eQH7Mi7m) | [Dead Kids R.I.P\. City](https://open.spotify.com/album/09GvIBV4cQDhvlL8rzTIy3) | 2:31 | 2021-10-19 | 2023-06-08 |
 | [pretty scars](https://open.spotify.com/track/7dTs49ZdEWuHvyrbjrZyDa) | [w1sh](https://open.spotify.com/artist/57zmm9q6ZH4TJNa4sQgmYA) | [pretty scars](https://open.spotify.com/album/7rF8PnLMiuS6NyH8s2MVyo) | 2:16 | 2023-10-20 |  |
 | [Prism of Feeling](https://open.spotify.com/track/4jAx1BnnLRfvkODzP4Ieo9) | [Soft Blue Shimmer](https://open.spotify.com/artist/5ZclZsMoBdRY9MJw6l47Fx) | [Love Lives in the Body](https://open.spotify.com/album/4gCNGW6u3kNtr0u5fxgUmq) | 4:45 | 2022-12-12 | 2023-06-24 |
-| [Protocol](https://open.spotify.com/track/609RLtoVcVEu16Ifavpqkn) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [Protocol](https://open.spotify.com/album/2J55v3595nc019Zfo2B5Ht) | 4:12 | 2023-07-28 |  |
+| [Protocol](https://open.spotify.com/track/33RhN1w5CsMahDUlGIPLhw) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [Cartwheel](https://open.spotify.com/album/6LrhvefGM7zcJpIdMC9otz) | 4:12 | 2023-07-28 |  |
+| [Protocol](https://open.spotify.com/track/609RLtoVcVEu16Ifavpqkn) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [Protocol](https://open.spotify.com/album/2J55v3595nc019Zfo2B5Ht) | 4:12 | 2023-07-28 | 2023-11-30 |
 | [Pulling Our Weight](https://open.spotify.com/track/5JfibYpOT2Rtw6a0iWHiNm) | [The Radio Dept.](https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG) | [Passive Aggressive](https://open.spotify.com/album/2tKuxquz6D6CEhPP5TLTl4) | 3:20 | 2021-10-19 | 2023-06-08 |
 | [Pulling Our Weight](https://open.spotify.com/track/22tKhWXrNZ3XxlOIBXJlkm) | [The Radio Dept.](https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG) | [Passive Aggressive](https://open.spotify.com/album/4vIEzWfChYUpciMNXdfHwZ) | 3:21 | 2021-10-19 | 2022-07-29 |
 | [Pulling Our Weight](https://open.spotify.com/track/6HhqiKpkJ37qa98TiuYla3) | [The Radio Dept.](https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG) | [Passive Aggressive](https://open.spotify.com/album/6hPFLCX84m3LzdOJDQlkTZ) | 3:21 | 2021-10-19 | 2022-10-07 |

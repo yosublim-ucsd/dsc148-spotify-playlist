@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fvgalTu2lg.md) - [plain]
 
 > Don't worry, be happy :\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,844 likes - 80 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,958 likes - 80 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fvgalTu2lg.md) - [plain]
 | 14 | [thank u, next](https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:27 |
 | 15 | [Bitter Sweet Symphony \- Remastered 2016](https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 5:57 |
 | 16 | [All Star](https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Astro Lounge](https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P) | 3:20 |
-| 17 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 |
-| 18 | [Island In The Sun](https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:20 |
+| 17 | [Island In The Sun](https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:20 |
+| 18 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 |
 | 19 | [Stand by Me](https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Don't Play That Song \(Mono\)](https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7) | 3:00 |
 | 20 | [Fix You](https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:55 |
 | 21 | [Let It Be \- Remastered 2009](https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Remastered\)](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) | 4:03 |
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fvgalTu2lg.md) - [plain]
 | 66 | [Don't You Worry 'Bout A Thing](https://open.spotify.com/track/1QvWxgZvTU0w8rlPRE5Zrv) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 4:44 |
 | 67 | [Man in the Mirror](https://open.spotify.com/track/2u2udGmop1z67EPpr91km7) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [HIStory \- PAST, PRESENT AND FUTURE \- BOOK I](https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk) | 5:19 |
 | 68 | [Let The Sunshine In \(Reprise\) \- Remastered 2000](https://open.spotify.com/track/2r5seNRSheLITyH4cevy2O) | [The 5th Dimension](https://open.spotify.com/artist/1UUYAQ9LiRsZF0ZukQNWXM) | [The Age Of Aquarius](https://open.spotify.com/album/1kVipwgtVNAaHM7Py341Ch) | 1:27 |
-| 69 | [Good as Hell \(feat\. Ariana Grande\) \- Remix](https://open.spotify.com/track/07Oz5StQ7GRoygNLaXs2pd) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Good as Hell \(feat\. Ariana Grande\) \[Remix\]](https://open.spotify.com/album/1k1HuvFs562Z3CCiSYhtc1) | 2:39 |
-| 70 | [Alive](https://open.spotify.com/track/25R5Tdr4K7ENb6umHzdCXn) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 4:23 |
-| 71 | [Raindrops Keep Fallin' On My Head](https://open.spotify.com/track/2s1Yh0AywJhLsKKZ9vM0tm) | [B.J\. Thomas](https://open.spotify.com/artist/0uUNzXylqsZdmFDwdxaP1V) | [Super Hits](https://open.spotify.com/album/0INAOxIIie4un2aZJw3qf6) | 3:00 |
+| 69 | [Raindrops Keep Fallin' On My Head](https://open.spotify.com/track/2s1Yh0AywJhLsKKZ9vM0tm) | [B.J\. Thomas](https://open.spotify.com/artist/0uUNzXylqsZdmFDwdxaP1V) | [Super Hits](https://open.spotify.com/album/0INAOxIIie4un2aZJw3qf6) | 3:00 |
+| 70 | [Good as Hell \(feat\. Ariana Grande\) \- Remix](https://open.spotify.com/track/07Oz5StQ7GRoygNLaXs2pd) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Good as Hell \(feat\. Ariana Grande\) \[Remix\]](https://open.spotify.com/album/1k1HuvFs562Z3CCiSYhtc1) | 2:39 |
+| 71 | [Alive](https://open.spotify.com/track/25R5Tdr4K7ENb6umHzdCXn) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 4:23 |
 | 72 | [Hey Jude \- 2015 Mix](https://open.spotify.com/track/1RP85mAmvJ8baqjP53kFJu) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1967 – 1970 \(2023 Edition\)](https://open.spotify.com/album/2AlPRfYeskAMxhJS00xjeP) | 7:11 |
 | 73 | [A quién le importa](https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh) | [Alaska Y Dinarama](https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh) | [No Es Pecado \-Remasters](https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh) | 3:25 |
 | 74 | [Better Days](https://open.spotify.com/track/2K0r5GD5zYlEMx2M7ZMcqG) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Better Days](https://open.spotify.com/album/3ETKNL7BaU8N2gh1GH4HXQ) | 2:24 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fvgalTu2lg.md) - [plain]
 | 79 | [Don't Be so Hard on Yourself](https://open.spotify.com/track/6jF1nHIMESqft9p33tQYPn) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [I Cry When I Laugh](https://open.spotify.com/album/6AGmGousDdMGevlVZO04LO) | 3:31 |
 | 80 | [Resistiré](https://open.spotify.com/track/2oI6d7XcMz1AMTQhDopV5J) | [Duo Dinamico](https://open.spotify.com/artist/1TiGxAkU8w0xBCVFOP6Ttl) | [En Forma](https://open.spotify.com/album/1o1XBaN4Jinqh1j3MrEzI2) | 4:01 |
 
-Snapshot ID: `MCw0MGQwNjk3ZTg4MzJmYmE2NzI0Njg4OTFmMzFmMjVmODY5YjczODI1`
+Snapshot ID: `MCxiMjVkMTY4NjNkNjc4MGYwZmRkOGEwNWNlMTY0MTRkOTMwZjllZDBj`

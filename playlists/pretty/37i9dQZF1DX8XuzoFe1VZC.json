@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Una inyecci\u00f3n de alegr\u00eda para tus ma\u00f1anas!",
-  "num_followers": 464692,
+  "num_followers": 464795,
   "original_name": "Buen D\u00eda :)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTRmMjJjYzZhOGVjNTUxZTM3NjJlY2RmMDExMGRiM2RmYzc2N2Zk",
+  "snapshot_id": "MCw5NTBiZmQ0ODY0ODJiMGIzODM3MjMyMjRlMjMxZDI4MzllZDQwZTRh",
   "tracks": [
     {
       "added_at": "2023-11-24 14:47:32",
@@ -107,26 +107,6 @@
     {
       "added_at": "2023-11-24 14:47:32",
       "album": {
-        "name": "un x100to",
-        "url": "https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 194563,
-      "name": "un x100to",
-      "url": "https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK"
-    },
-    {
-      "added_at": "2023-11-24 14:47:32",
-      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -143,6 +123,26 @@
       "duration_ms": 258298,
       "name": "Ojitos Lindos",
       "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
+    },
+    {
+      "added_at": "2023-11-24 14:47:32",
+      "album": {
+        "name": "un x100to",
+        "url": "https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 194563,
+      "name": "un x100to",
+      "url": "https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK"
     },
     {
       "added_at": "2023-11-24 14:47:32",
@@ -183,6 +183,22 @@
     {
       "added_at": "2023-11-24 14:47:32",
       "album": {
+        "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
+        "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 155960,
+      "name": "Feliz Cumplea\u00f1os Ferxxo",
+      "url": "https://open.spotify.com/track/2CeKVsFFXG4QzA415QygGb"
+    },
+    {
+      "added_at": "2023-11-24 14:47:32",
+      "album": {
         "name": "MICRODOSIS",
         "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 202173,
       "name": "LA INOCENTE",
       "url": "https://open.spotify.com/track/5jt25aFjW2kNoBqaEVaz5W"
-    },
-    {
-      "added_at": "2023-11-24 14:47:32",
-      "album": {
-        "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
-        "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 155960,
-      "name": "Feliz Cumplea\u00f1os Ferxxo",
-      "url": "https://open.spotify.com/track/2CeKVsFFXG4QzA415QygGb"
     },
     {
       "added_at": "2023-11-24 14:47:32",
@@ -371,26 +371,6 @@
     {
       "added_at": "2023-11-24 14:47:32",
       "album": {
-        "name": "La \u00daltima Misi\u00f3n",
-        "url": "https://open.spotify.com/album/08QB1puuJGgRx8N7Yn1twL"
-      },
-      "artists": [
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 229064,
-      "name": "Besos Moja2",
-      "url": "https://open.spotify.com/track/6OzUIp8KjuwxJnCWkXp1uL"
-    },
-    {
-      "added_at": "2023-11-24 14:47:32",
-      "album": {
         "name": "BUBALU",
         "url": "https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 155031,
       "name": "lo que hay x aqu\u00ed",
       "url": "https://open.spotify.com/track/5IlLm20JXhKbMtsH20NblC"
+    },
+    {
+      "added_at": "2023-11-24 14:47:32",
+      "album": {
+        "name": "La \u00daltima Misi\u00f3n",
+        "url": "https://open.spotify.com/album/08QB1puuJGgRx8N7Yn1twL"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 229064,
+      "name": "Besos Moja2",
+      "url": "https://open.spotify.com/track/6OzUIp8KjuwxJnCWkXp1uL"
     },
     {
       "added_at": "2023-11-24 14:47:32",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-11-24 14:47:32",
       "album": {
-        "name": "Todo Contigo",
-        "url": "https://open.spotify.com/album/2LmSTGw4yoSsPvKKMCJDkE"
-      },
-      "artists": [
-        {
-          "name": "\u00c1lvaro De Luna",
-          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
-        }
-      ],
-      "duration_ms": 165527,
-      "name": "Todo Contigo",
-      "url": "https://open.spotify.com/track/4rQu72zFJz3qne1bnEkVSt"
-    },
-    {
-      "added_at": "2023-11-24 14:47:32",
-      "album": {
         "name": "Perfecta",
         "url": "https://open.spotify.com/album/0bltv9msqv6kh3PSqjACXY"
       },
@@ -1263,18 +1247,18 @@
     {
       "added_at": "2023-11-24 14:47:32",
       "album": {
-        "name": "DEKKOLETERA 333",
-        "url": "https://open.spotify.com/album/12gXwHN7MFHNc48utTmuGM"
+        "name": "Todo Contigo",
+        "url": "https://open.spotify.com/album/2LmSTGw4yoSsPvKKMCJDkE"
       },
       "artists": [
         {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
         }
       ],
-      "duration_ms": 159200,
-      "name": "12x3",
-      "url": "https://open.spotify.com/track/1k94CNfVliqDs0qYhkG8iV"
+      "duration_ms": 165527,
+      "name": "Todo Contigo",
+      "url": "https://open.spotify.com/track/4rQu72zFJz3qne1bnEkVSt"
     },
     {
       "added_at": "2023-11-24 14:47:32",
@@ -1295,6 +1279,38 @@
       "duration_ms": 218800,
       "name": "Marte",
       "url": "https://open.spotify.com/track/1uK5rDY3BnikyG0sl3tPpc"
+    },
+    {
+      "added_at": "2023-11-24 14:47:32",
+      "album": {
+        "name": "DEKKOLETERA 333",
+        "url": "https://open.spotify.com/album/12gXwHN7MFHNc48utTmuGM"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "duration_ms": 159200,
+      "name": "12x3",
+      "url": "https://open.spotify.com/track/1k94CNfVliqDs0qYhkG8iV"
+    },
+    {
+      "added_at": "2023-11-24 14:47:32",
+      "album": {
+        "name": "LOS MUCHACHOS",
+        "url": "https://open.spotify.com/album/79TZva6XBzzPDcQggKgGaa"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "duration_ms": 199591,
+      "name": "SINCERAMENTE",
+      "url": "https://open.spotify.com/track/7xqF5MczPpjW4NLXF2CL88"
     },
     {
       "added_at": "2023-11-24 14:47:32",
@@ -1327,22 +1343,6 @@
       "duration_ms": 310295,
       "name": "Inocente",
       "url": "https://open.spotify.com/track/1DFDbSWdESvzWHHAe6BCQ3"
-    },
-    {
-      "added_at": "2023-11-24 14:47:32",
-      "album": {
-        "name": "LOS MUCHACHOS",
-        "url": "https://open.spotify.com/album/79TZva6XBzzPDcQggKgGaa"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        }
-      ],
-      "duration_ms": 199591,
-      "name": "SINCERAMENTE",
-      "url": "https://open.spotify.com/track/7xqF5MczPpjW4NLXF2CL88"
     },
     {
       "added_at": "2023-11-24 14:47:32",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2023-11-24 14:47:32",
       "album": {
-        "name": "MYA LIVE P3: Qu\u00e9 Pasar\u00e1",
-        "url": "https://open.spotify.com/album/3SJ9pcmCCBKyqHaOOWxN9E"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "Dread Mar I",
-          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
-        }
-      ],
-      "duration_ms": 213480,
-      "name": "MYA LIVE P3: Qu\u00e9 Pasar\u00e1",
-      "url": "https://open.spotify.com/track/5WLhx6G2dMXSJ5ITq8419C"
-    },
-    {
-      "added_at": "2023-11-24 14:47:32",
-      "album": {
         "name": "Quieres",
         "url": "https://open.spotify.com/album/6FYsivfijNDaQ1bpw8Kljc"
       },
@@ -1459,6 +1439,26 @@
       "duration_ms": 213666,
       "name": "Quieres",
       "url": "https://open.spotify.com/track/4iGnpp1h0i33lpoP42Y8Jt"
+    },
+    {
+      "added_at": "2023-11-24 14:47:32",
+      "album": {
+        "name": "MYA LIVE P3: Qu\u00e9 Pasar\u00e1",
+        "url": "https://open.spotify.com/album/3SJ9pcmCCBKyqHaOOWxN9E"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Dread Mar I",
+          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
+        }
+      ],
+      "duration_ms": 213480,
+      "name": "MYA LIVE P3: Qu\u00e9 Pasar\u00e1",
+      "url": "https://open.spotify.com/track/5WLhx6G2dMXSJ5ITq8419C"
     },
     {
       "added_at": "2023-11-24 14:47:32",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2023-11-24 14:47:32",
       "album": {
-        "name": "Floricienta",
-        "url": "https://open.spotify.com/album/5vzRtE9SIJ6MVL0j6uFhW9"
-      },
-      "artists": [
-        {
-          "name": "Floricienta",
-          "url": "https://open.spotify.com/artist/7dtC84FkhalFSKToofOdOv"
-        }
-      ],
-      "duration_ms": 223186,
-      "name": "Flores Amarillas",
-      "url": "https://open.spotify.com/track/5wBBoVjoounI5e36oI8oZe"
-    },
-    {
-      "added_at": "2023-11-24 14:47:32",
-      "album": {
         "name": "\u00c1NGEL",
         "url": "https://open.spotify.com/album/3g5VwrXN4bKoU9UKux5k5N"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 187240,
       "name": "Ella",
       "url": "https://open.spotify.com/track/1DPtfQYOFB9IAEk1o4qBmS"
+    },
+    {
+      "added_at": "2023-11-24 14:47:32",
+      "album": {
+        "name": "Floricienta",
+        "url": "https://open.spotify.com/album/5vzRtE9SIJ6MVL0j6uFhW9"
+      },
+      "artists": [
+        {
+          "name": "Floricienta",
+          "url": "https://open.spotify.com/artist/7dtC84FkhalFSKToofOdOv"
+        }
+      ],
+      "duration_ms": 223186,
+      "name": "Flores Amarillas",
+      "url": "https://open.spotify.com/track/5wBBoVjoounI5e36oI8oZe"
     },
     {
       "added_at": "2023-11-24 14:47:32",
@@ -1871,18 +1871,22 @@
     {
       "added_at": "2023-11-24 14:47:32",
       "album": {
-        "name": "AFRODHIT",
-        "url": "https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5"
+        "name": "Salir Con Vida",
+        "url": "https://open.spotify.com/album/3mwKjQSJdQTY0ZdakLi0Vp"
       },
       "artists": [
         {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 144686,
-      "name": "Que Se V\u00e1",
-      "url": "https://open.spotify.com/track/7tSZyaZS1hHZ87RcZ2jAeB"
+      "duration_ms": 176086,
+      "name": "Salir Con Vida",
+      "url": "https://open.spotify.com/track/5OX1JvE7gTkOd1DSzlrtFw"
     }
   ],
   "unique_name": "Buen D\u00eda :)",

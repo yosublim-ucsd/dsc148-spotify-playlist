@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of the Castaway Diva\. \(무인도의 디바 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-48 songs - 2 hr 51 min
+51 songs - 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,10 +48,13 @@
 | [Someone Like You](https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 4:45 | 2023-11-06 |  |
 | [thank u, next](https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:27 | 2023-11-06 |  |
 | [Two Of Us](https://open.spotify.com/track/3Kb2FrKuXnwUJkjKGcY1kK) | [채연](https://open.spotify.com/artist/5YdRA9BjzC3Xd36SBsK06D) | [Virginalness Bloom](https://open.spotify.com/album/2ir57bADoholy7t2fvKCmY) | 3:03 | 2023-11-06 |  |
+| [Until The End](https://open.spotify.com/track/0LG5FfYTkos8XQituzaGX1) | [Park Eunbin](https://open.spotify.com/artist/1ANiPe6RWnAKnfwORN5vxP) | [CASTAWAY DIVA OST SEO MOK HA \(PARK EUN BIN\) Vol.5](https://open.spotify.com/album/0u5Sm0ZblxRv5Km3W6fomi) | 3:16 | 2023-11-29 |  |
 | [We are](https://open.spotify.com/track/63LRh32O1eE0NbN2JsA8Rx) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [CASTAWAY DIVA OST Part.5](https://open.spotify.com/album/76PcyLQsYqziDN1tdw0mjt) | 3:15 | 2023-11-13 |  |
 | [We are \(Inst.\)](https://open.spotify.com/track/3BcuKOI95PKAuBLP2EXnAj) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [CASTAWAY DIVA OST Part.5](https://open.spotify.com/album/76PcyLQsYqziDN1tdw0mjt) | 3:15 | 2023-11-13 |  |
 | [We Belong Together](https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo) | 3:21 | 2023-11-06 |  |
 | [Why calling](https://open.spotify.com/track/6JrNdcEqbwt50I19SxJr2x) | [Diva](https://open.spotify.com/artist/0CI6MkDddUbiuI8T7V5ZcF) | [Snappy Diva's Second Album](https://open.spotify.com/album/4XG3swP5XIOrFzs1xd2lqF) | 4:07 | 2023-11-06 |  |
+| [You're leaving like the season](https://open.spotify.com/track/1Pa3xyjrAzYyrkhxDJeLMw) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [CASTAWAY DIVA OST Part.9](https://open.spotify.com/album/2CMMWmUcim52sqmzOR712T) | 4:26 | 2023-11-29 |  |
+| [You're leaving like the season \(Inst.\)](https://open.spotify.com/track/0Cf9p3XZ9NqOFm30OjzlrD) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [CASTAWAY DIVA OST Part.9](https://open.spotify.com/album/2CMMWmUcim52sqmzOR712T) | 4:26 | 2023-11-29 |  |
 | [애송이 \(CF \- 써니텐\)](https://open.spotify.com/track/2g0ZIGBR0gur3LMOiGBNfD) | [Lexy](https://open.spotify.com/artist/5C9rYLjMoYuwbbM34ReBU5) | [Lexury](https://open.spotify.com/album/1S0t8xkMJqpO4IfX7Pz6Lj) | 3:51 | 2023-11-06 |  |
 | [와](https://open.spotify.com/track/1XrfEfQj3x4XfIM1nxMJJW) | [이정현](https://open.spotify.com/artist/1A3vuBmPryol3FWagK8Tt7) | [Let's Go To My Star](https://open.spotify.com/album/2DGCxLMvM06pMkTOEsx3x6) | 3:32 | 2023-11-06 |  |
 | [유혹의 소나타](https://open.spotify.com/track/3SmsqaN5Hr7IFrvnzMQqvG) | [IVY](https://open.spotify.com/artist/7wBrxhzcHVIis4VL3iR6hF) | [A Sweet Moment](https://open.spotify.com/album/1JQEpesj1YaomwFhSSYsK8) | 3:24 | 2023-11-06 |  |

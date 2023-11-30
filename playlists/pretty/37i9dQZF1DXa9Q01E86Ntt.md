@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9Q01E86Ntt.md) - [plain]
 
 > The greatest works from mastermind composer Ryuichi Sakamoto
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,654 likes - 57 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,735 likes - 57 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Merry Christmas Mr\. Lawrence](https://open.spotify.com/track/5VuwAhMCz9EMg3RHL1KUEr) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Jaques Morelenbaum](https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d), [Everton Nelson](https://open.spotify.com/artist/3uirG8XMhBhvbdb9adqYMf) | [1996](https://open.spotify.com/album/39iOsfOrW1UpE3dbdFPl0F) | 4:46 |
-| 2 | [energy flow](https://open.spotify.com/track/6rXnP6n3myylS9PV4N53ID) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [BTTB \- 20th Anniversary Edition](https://open.spotify.com/album/6HdFNj6bhQQewtNupqVu5J) | 4:32 |
+| 2 | [energy flow](https://open.spotify.com/track/38hwMaB4DWUhAWdyk1VljB) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [BTTB \- 20th Anniversary Edition](https://open.spotify.com/album/4MI7PELbBbWJrTgAX1nbKR) | 4:32 |
 | 3 | [20210310](https://open.spotify.com/track/4hMWShv7tRCNuekpPFiHgH) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [12](https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4) | 6:53 |
 | 4 | [い・け・な・い ルージュマジック](https://open.spotify.com/track/3fPcPSsCUT4jL7tUvbAYOC) | [Kiyoshiro Imawano](https://open.spotify.com/artist/65su2o6jvWfsVRK5uRfvF9), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [ベストヒット清志郎](https://open.spotify.com/album/68lNNhlnQMNTYgQq8kh0tT) | 4:10 |
 | 5 | [Blu](https://open.spotify.com/track/2sKNqfBuZ9Z1Q9JIF3e1D8) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [The Best of 'Playing the Orchestra 2014'](https://open.spotify.com/album/6VbKNZdXj5ZWZbYSnuZo9I) | 5:19 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9Q01E86Ntt.md) - [plain]
 | 29 | [20211201](https://open.spotify.com/track/0I0PsgtPWJQZ3CCLhZVdid) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [12](https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4) | 5:32 |
 | 30 | [Dancing In the Sky](https://open.spotify.com/track/12TkChYdKe9Vj8s5Tkq1SI) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Koko](https://open.spotify.com/album/5RSXVXsgxW9Qx69g4cAxM0) | 1:09 |
 | 31 | [Aqua](https://open.spotify.com/track/5relTzF9GcxxTF0D4Id6uo) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Playing the Piano 12122020](https://open.spotify.com/album/5RRib8eRMf8OthdvJX26iU) | 4:41 |
-| 32 | [opus](https://open.spotify.com/track/2rbHghryEuNQVjYaYl0m0D) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [BTTB \- 20th Anniversary Edition](https://open.spotify.com/album/6HdFNj6bhQQewtNupqVu5J) | 4:25 |
+| 32 | [opus](https://open.spotify.com/track/0U3fV7K4WFfVRgLGEAKh3g) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [BTTB \- 20th Anniversary Edition](https://open.spotify.com/album/4MI7PELbBbWJrTgAX1nbKR) | 4:25 |
 | 33 | [Amore](https://open.spotify.com/track/5sqHOvj1wi2xCwFvAlM2cA) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Playing The Piano](https://open.spotify.com/album/6prGgcmP2UbZGkD4GeHf5F) | 5:09 |
 | 34 | [Where Is Armo?](https://open.spotify.com/track/65PCR0u8UN3dSWaYjad1hC) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [The Last Emperor Original Soundtrack](https://open.spotify.com/album/70iCI16xKlhPlJJT7OIKGH) | 2:26 |
 | 35 | [Andata](https://open.spotify.com/track/5HgyC7aSmkHaLjfWowVkMk) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Playing the Piano 12122020](https://open.spotify.com/album/5RRib8eRMf8OthdvJX26iU) | 2:53 |

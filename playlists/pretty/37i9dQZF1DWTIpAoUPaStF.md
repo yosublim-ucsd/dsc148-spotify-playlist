@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIpAoUPaStF.md) - [plain]
 
 > Música para ver llover, con buen cobijo y una taza de té entre las manos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,751 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,769 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIpAoUPaStF.md) - [plain]
 | 49 | [Better in the Shade](https://open.spotify.com/track/3A9xFLSTS6K9dII3fbDr4O) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Better in the Shade](https://open.spotify.com/album/2PC061YFMYlzg68TvDeCEG) | 3:36 |
 | 50 | [One More Second](https://open.spotify.com/track/6T8pTLAnRiN4LZKhN5ZrKE) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [One More Second](https://open.spotify.com/album/11wtIwzSbBoVffQGIEWfIN) | 5:22 |
 
-Snapshot ID: `MCw1ZThiYTc0ZjBiMWI4ZTFjYzBiOTM3YzY0NzJiZTcyNDA0ZDAyM2Ex`
+Snapshot ID: `MCw3NzExZWYxZDEwNzRkNGM3NjJiOGY1NzFhZDE0MjdhMGVkNGQzMmQ2`

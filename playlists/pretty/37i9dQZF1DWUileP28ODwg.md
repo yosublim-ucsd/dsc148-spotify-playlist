@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: <a href="spotify:artist:61SFRZAmfyJhcffwR2Ijuq">Jason Crabb</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,867 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,058 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,14 +77,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 67 | [Good Lord \(feat\. Katy Nichole\)](https://open.spotify.com/track/63lYvDRx5ySVsjwVzQF9YJ) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE), [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [Good Lord](https://open.spotify.com/album/6m0JzlLDkr7eDuzB8SOXBt) | 3:22 |
 | 68 | [Eden \(Isn't It Just Like You?\)](https://open.spotify.com/track/5OVCLYafTB1w8ChIF21Uxm) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Eden \(Isn't It Just Like You?\)](https://open.spotify.com/album/4D3hRNhHp7NmvrVDIKStIN) | 4:35 |
 | 69 | [Still Standing](https://open.spotify.com/track/18dUAYjA7DOknCPtczKUuD) | [Josh Wright](https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2) | [Still Standing](https://open.spotify.com/album/4dm87zKKSWl09tAY3v6dcn) | 3:24 |
-| 70 | [Seasons](https://open.spotify.com/track/4BN0k321aIFLpaxxtwO23x) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Hills Of Tyrone](https://open.spotify.com/album/7jiDpHKjW1ZitkptGTpp2v) | 3:29 |
+| 70 | [Worst Days](https://open.spotify.com/track/2LBcgkrR59qVYgwyuzy5Wg) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Worst Days](https://open.spotify.com/album/2cJ58kOSn3ilqpCdPUNFJO) | 3:31 |
 | 71 | [Ark](https://open.spotify.com/track/4zFqNWCwbAXofs4cxBH2bs) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2), [Vanessa Hill](https://open.spotify.com/artist/0ZWOTVUPOwgcGiMQXUOLsb) | [Ark](https://open.spotify.com/album/5NzxEw5zWAL1XNDY4kAs9B) | 3:13 |
 | 72 | [The One](https://open.spotify.com/track/3ps5C4H9ak7YA8L4UI13Dl) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Empty Room](https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu) | 2:49 |
-| 73 | [Worst Days](https://open.spotify.com/track/2LBcgkrR59qVYgwyuzy5Wg) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Worst Days](https://open.spotify.com/album/2cJ58kOSn3ilqpCdPUNFJO) | 3:31 |
+| 73 | [Seasons](https://open.spotify.com/track/4BN0k321aIFLpaxxtwO23x) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Hills Of Tyrone](https://open.spotify.com/album/7jiDpHKjW1ZitkptGTpp2v) | 3:29 |
 | 74 | [Miracle Time](https://open.spotify.com/track/6HXFMfXNHaJGIBzQ9glsMX) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Miracle Time](https://open.spotify.com/album/2To3QHpsCIJqR11q4W7R3k) | 4:20 |
 | 75 | [The Rock I'm On](https://open.spotify.com/track/7kL9zoFkC8FX6igzf0DRlH) | [Ross King](https://open.spotify.com/artist/7CvGirTJfYPXGOrR4JwHDg) | [The Rock I'm On](https://open.spotify.com/album/6Smu1vRzk1uumTABSY4DvQ) | 3:28 |
-| 76 | [One Heart at a Time](https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [One Heart at a Time](https://open.spotify.com/album/0nmUmA7IASmi7wu1f6ooZG) | 4:22 |
-| 77 | [Where The Glory Is](https://open.spotify.com/track/6q3EbtWexNnSwFMnN3ieuO) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Where The Glory Is](https://open.spotify.com/album/2aCqdPVHym6UbK4p1eHAtm) | 4:30 |
+| 76 | [Where The Glory Is](https://open.spotify.com/track/6q3EbtWexNnSwFMnN3ieuO) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Where The Glory Is](https://open.spotify.com/album/2aCqdPVHym6UbK4p1eHAtm) | 4:30 |
+| 77 | [One Heart at a Time](https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [One Heart at a Time](https://open.spotify.com/album/0nmUmA7IASmi7wu1f6ooZG) | 4:22 |
 | 78 | [Time](https://open.spotify.com/track/5mOeK4IBsw9SailoaEB9Kj) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa) | [Time](https://open.spotify.com/album/7r6f767S7JejcRmw2PAAOL) | 4:01 |
 | 79 | [I LOVE YOU TO DEATH](https://open.spotify.com/track/05nthkowAN1YmD7Y8ospny) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [I LOVE YOU TO DEATH](https://open.spotify.com/album/1DXLjXc0K8noPurFkXIzZK) | 3:23 |
 | 80 | [Plans](https://open.spotify.com/track/2vhZXqa2xiGCFGAxxhGcs6) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Plans](https://open.spotify.com/album/070LBiLQAHqlcuS3a4e2Jp) | 4:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 99 | [Praise The Lord](https://open.spotify.com/track/6kewFKMdQ9pkCBuLvpfWXA) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Praise The Lord](https://open.spotify.com/album/1AnJKH5NbCHe9oyVTjaVeN) | 3:18 |
 | 100 | [To Not Worship You](https://open.spotify.com/track/5hPNvjfHsshgegY71cKdhO) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Always Only Jesus](https://open.spotify.com/album/1nBIuyrdndXAXnbldziVyD) | 3:45 |
 
-Snapshot ID: `MCxmZTZkODZlYmE5OTk1NGM1NjY2MjFiY2JiZDU1YTVjMWEzZGFlYjk0`
+Snapshot ID: `MCw0M2VjYWRmMmVmZGRkOGY2NDM4NDg1NDI5M2Q0ZmQyMGM2YjQzNzZl`

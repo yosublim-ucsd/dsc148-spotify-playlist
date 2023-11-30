@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BezBRspddh.md) - [plain]
 
 > True blue poetry\. Let these Bollywood Ghazals take over your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,212 likes - 50 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,242 likes - 50 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BezBRspddh.md) - [plain]
 | 30 | [Shauq](https://open.spotify.com/track/2I0MIQhICYnKHvaxUHYH49) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Varun Grover](https://open.spotify.com/artist/23tDn4nvBiCQroeeCwwCWT), [Shahid Mallya](https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8), [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS), [Swanand Kirkire](https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz) | [Qala \(Music From The Netflix Film\)](https://open.spotify.com/album/3yVX4sKtPoqFjBKOVyJenW) | 4:16 |
 | 31 | [Karoge Yaad To](https://open.spotify.com/track/5dQonoTjaGy7ufhS9EflA9) | [Bhupinder Singh](https://open.spotify.com/artist/4FMGD43a8aLM0LRKXDSXne) | [Bazaar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1avIfZTPBNVgxgbBSaNLnX) | 5:29 |
 | 32 | [Justuju Jiski Thi](https://open.spotify.com/track/50qwU5TJtjAYPaN4ZC1iIz) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Umrao Jaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qavq5Ue68nUxUK5VLRnNe) | 4:47 |
-| 33 | [Seene Mein Jalan](https://open.spotify.com/track/5NlMJYAFSXBXFDPJstH89C) | [Suresh Wadkar](https://open.spotify.com/artist/0w4e7HVbqAHFPN6VkIlvhe) | [Gaman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5dF7QK9cY4JBCIqnRG7J8N) | 4:30 |
+| 33 | [Seene Mein Jalan](https://open.spotify.com/track/6rOm4XtBfnvAwp4oG0Zky6) | [SheHar](https://open.spotify.com/artist/3apPYkDyss1SmQvn9ttkvr) | [Seene Mein Jalan](https://open.spotify.com/album/3mh4Ki4Cl3x1vs9Lc6TTGr) | 4:30 |
 | 34 | [Dil Ke Arman Ansuon Men Bah Gaye](https://open.spotify.com/track/31KwKWIIuHBmEZws6OYmdC) | [Salma Agha](https://open.spotify.com/artist/7liaWSL1uPVjIrnYSFDB6V) | [Nikaah \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/19uTzMdiFnYjNYXQsrkHc1) | 4:22 |
 | 35 | [RUKE RUKE SE QADAM](https://open.spotify.com/track/5UakizQomUmnjrdgG0K3fN) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Gulzar Lata](https://open.spotify.com/album/1Crl97kFr62EVygfqE8bd5) | 4:01 |
 | 36 | [Khali Hath Sham Aai Hai](https://open.spotify.com/track/5jdCrYpOGyiKnxUZ02LKJN) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Ijaazat \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1WYIGp9ZDGLiv5DVsz1lMR) | 5:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BezBRspddh.md) - [plain]
 | 49 | [Aankhon Se Khwab Rooth Kar](https://open.spotify.com/track/5vr2S5WX7N1zbXAHWsuXFH) | [Sultan Khan](https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY), [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Super Star](https://open.spotify.com/album/0wswgvh5SqzIbPPimeNuTu) | 8:05 |
 | 50 | [Yun Zindagi Ki](https://open.spotify.com/track/46xLESZaIBrvUqZYgXN4hb) | [Chitra Singh](https://open.spotify.com/artist/6pDga1iElP4dCa4S5bYvoo) | [Saath Saath](https://open.spotify.com/album/7esH45JgwUTlmi1wgK5y1b) | 4:48 |
 
-Snapshot ID: `MCw3M2IwMjNiMTg3MzkyMTc0MTRiNWFjYzdlMTA1MDBhM2ZmNzgzNGI5`
+Snapshot ID: `MCxkZTA0YTgzM2EzMjc0OWRjNDE2NTc3NTBiOGE5NjMzZTRlZGQxNmEx`

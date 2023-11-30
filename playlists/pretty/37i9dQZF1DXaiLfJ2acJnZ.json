@@ -1,12 +1,12 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 44473,
+  "num_followers": 44903,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTllYWM5ZWZiNGYxZDgyZGI3NGVkM2MxNDZiYmJkNjhjYjQ2MTM2",
+  "snapshot_id": "MCxiZDM1OGE2YTk0YzZlNWEyYzY0NjU2ZDNiZGNkY2M4ZGE4ODY3YjE0",
   "tracks": [
     {
       "added_at": "2023-11-10 17:28:14",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-11-10 17:28:14",
       "album": {
-        "name": "Stick Season (We'll All Be Here Forever)",
-        "url": "https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 286369,
-      "name": "You\u2019re Gonna Go Far",
-      "url": "https://open.spotify.com/track/4nHJcUtNSUVjXRnjdP29Bk"
-    },
-    {
-      "added_at": "2023-11-10 17:28:14",
-      "album": {
         "name": "i am not who i was",
         "url": "https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 145438,
       "name": "i am not who i was",
       "url": "https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe"
+    },
+    {
+      "added_at": "2023-11-10 17:28:14",
+      "album": {
+        "name": "Stick Season (We'll All Be Here Forever)",
+        "url": "https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 286369,
+      "name": "You\u2019re Gonna Go Far",
+      "url": "https://open.spotify.com/track/4nHJcUtNSUVjXRnjdP29Bk"
     },
     {
       "added_at": "2023-11-10 17:28:14",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-11-10 17:28:14",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/3aBKgZS47p6bqmSuWG5Hr6"
-      },
-      "artists": [
-        {
-          "name": "Cian Ducrot",
-          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
-        }
-      ],
-      "duration_ms": 232944,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/0CE8tMkJlixcPcHSKAvTJZ"
-    },
-    {
-      "added_at": "2023-11-10 17:28:14",
-      "album": {
         "name": "live more & love more",
         "url": "https://open.spotify.com/album/5sgznu5iMVavhZy04BsUb4"
       },
@@ -531,18 +515,18 @@
     {
       "added_at": "2023-11-10 17:28:14",
       "album": {
-        "name": "All The Boys",
-        "url": "https://open.spotify.com/album/1sDb15lhCdE9wI8yTP7w6i"
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/3aBKgZS47p6bqmSuWG5Hr6"
       },
       "artists": [
         {
-          "name": "Bea and her Business",
-          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
         }
       ],
-      "duration_ms": 151906,
-      "name": "All The Boys",
-      "url": "https://open.spotify.com/track/09mqylqFZIQprBxExnZ5Xr"
+      "duration_ms": 232944,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/0CE8tMkJlixcPcHSKAvTJZ"
     },
     {
       "added_at": "2023-11-10 17:28:14",
@@ -563,6 +547,22 @@
       "duration_ms": 200814,
       "name": "Be The One (with Khalid)",
       "url": "https://open.spotify.com/track/4jMbQ5H6KaSRPRCBuNnW16"
+    },
+    {
+      "added_at": "2023-11-10 17:28:14",
+      "album": {
+        "name": "All The Boys",
+        "url": "https://open.spotify.com/album/1sDb15lhCdE9wI8yTP7w6i"
+      },
+      "artists": [
+        {
+          "name": "Bea and her Business",
+          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
+        }
+      ],
+      "duration_ms": 151906,
+      "name": "All The Boys",
+      "url": "https://open.spotify.com/track/09mqylqFZIQprBxExnZ5Xr"
     },
     {
       "added_at": "2023-11-10 17:28:14",
@@ -599,18 +599,18 @@
     {
       "added_at": "2023-11-10 17:28:14",
       "album": {
-        "name": "Thinking of You (Spotify Singles)",
-        "url": "https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r"
+        "name": "know that you're not alone",
+        "url": "https://open.spotify.com/album/6YHrzZ7O74d7QZg2EkIURl"
       },
       "artists": [
         {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
         }
       ],
-      "duration_ms": 272125,
-      "name": "Thinking of You (Spotify Singles)",
-      "url": "https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5"
+      "duration_ms": 176431,
+      "name": "know that you're not alone",
+      "url": "https://open.spotify.com/track/2FdrRql2ltOBghZNvwcNrn"
     },
     {
       "added_at": "2023-11-10 17:28:14",
@@ -631,18 +631,18 @@
     {
       "added_at": "2023-11-10 17:28:14",
       "album": {
-        "name": "That's Just The Way It Is, Babe",
-        "url": "https://open.spotify.com/album/02Zc3D5tiEHFXMeEdvGcFE"
+        "name": "Thinking of You (Spotify Singles)",
+        "url": "https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r"
       },
       "artists": [
         {
-          "name": "John Vincent III",
-          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
         }
       ],
-      "duration_ms": 208253,
-      "name": "That\u2019s Just The Way It Is, Babe",
-      "url": "https://open.spotify.com/track/7I5Kv0uTItrFKOA2C2ls4M"
+      "duration_ms": 272125,
+      "name": "Thinking of You (Spotify Singles)",
+      "url": "https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5"
     },
     {
       "added_at": "2023-11-10 17:28:14",
@@ -667,18 +667,34 @@
     {
       "added_at": "2023-11-10 17:28:14",
       "album": {
-        "name": "know that you're not alone",
-        "url": "https://open.spotify.com/album/6YHrzZ7O74d7QZg2EkIURl"
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY"
       },
       "artists": [
         {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 176431,
-      "name": "know that you're not alone",
-      "url": "https://open.spotify.com/track/2FdrRql2ltOBghZNvwcNrn"
+      "duration_ms": 81222,
+      "name": "I Could Be A Florist",
+      "url": "https://open.spotify.com/track/2LzOTLGAqF9IPkwHFiCysq"
+    },
+    {
+      "added_at": "2023-11-10 17:28:14",
+      "album": {
+        "name": "That's Just The Way It Is, Babe",
+        "url": "https://open.spotify.com/album/02Zc3D5tiEHFXMeEdvGcFE"
+      },
+      "artists": [
+        {
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+        }
+      ],
+      "duration_ms": 208253,
+      "name": "That\u2019s Just The Way It Is, Babe",
+      "url": "https://open.spotify.com/track/7I5Kv0uTItrFKOA2C2ls4M"
     },
     {
       "added_at": "2023-11-10 17:28:14",
@@ -699,18 +715,18 @@
     {
       "added_at": "2023-11-10 17:28:14",
       "album": {
-        "name": "Messy",
-        "url": "https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY"
+        "name": "Maybe Next Time",
+        "url": "https://open.spotify.com/album/6c06DjFMHRdIKd0r7VSiNT"
       },
       "artists": [
         {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
         }
       ],
-      "duration_ms": 81222,
-      "name": "I Could Be A Florist",
-      "url": "https://open.spotify.com/track/2LzOTLGAqF9IPkwHFiCysq"
+      "duration_ms": 188373,
+      "name": "Maybe Next Time",
+      "url": "https://open.spotify.com/track/0RPxi7CSnMlPeREcnfJptp"
     },
     {
       "added_at": "2023-11-10 17:28:14",
@@ -799,22 +815,6 @@
     {
       "added_at": "2023-11-10 17:28:14",
       "album": {
-        "name": "Maybe Next Time",
-        "url": "https://open.spotify.com/album/6c06DjFMHRdIKd0r7VSiNT"
-      },
-      "artists": [
-        {
-          "name": "Jamie Miller",
-          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
-        }
-      ],
-      "duration_ms": 188373,
-      "name": "Maybe Next Time",
-      "url": "https://open.spotify.com/track/0RPxi7CSnMlPeREcnfJptp"
-    },
-    {
-      "added_at": "2023-11-10 17:28:14",
-      "album": {
         "name": "Matters of the Heart",
         "url": "https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw"
       },
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-11-10 17:28:14",
       "album": {
-        "name": "The Good Witch",
-        "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 179453,
-      "name": "Two Weeks Ago",
-      "url": "https://open.spotify.com/track/0bnUDXvwi2s8924tLTDg3K"
-    },
-    {
-      "added_at": "2023-11-10 17:28:14",
-      "album": {
         "name": "Here",
         "url": "https://open.spotify.com/album/4BAFltaVZww9WWkkBROskZ"
       },
@@ -859,6 +843,38 @@
       "duration_ms": 195145,
       "name": "Here",
       "url": "https://open.spotify.com/track/5yuGEEvvqMHvoLIxEFnaDT"
+    },
+    {
+      "added_at": "2023-11-10 17:28:14",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/2PK5nQeplHKyoKyjv8T20w"
+      },
+      "artists": [
+        {
+          "name": "ADMT",
+          "url": "https://open.spotify.com/artist/33M0vL5kF0AMJqXYxeX7kF"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/26AXhNPL6CBLlsV49j5opa"
+    },
+    {
+      "added_at": "2023-11-10 17:28:14",
+      "album": {
+        "name": "The Good Witch",
+        "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 179453,
+      "name": "Two Weeks Ago",
+      "url": "https://open.spotify.com/track/0bnUDXvwi2s8924tLTDg3K"
     },
     {
       "added_at": "2023-11-10 17:28:14",
@@ -891,22 +907,6 @@
       "duration_ms": 124080,
       "name": "Coffee Shop",
       "url": "https://open.spotify.com/track/40tZTQ47XEMg7KT61xAEOI"
-    },
-    {
-      "added_at": "2023-11-10 17:28:14",
-      "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/2PK5nQeplHKyoKyjv8T20w"
-      },
-      "artists": [
-        {
-          "name": "ADMT",
-          "url": "https://open.spotify.com/artist/33M0vL5kF0AMJqXYxeX7kF"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/26AXhNPL6CBLlsV49j5opa"
     },
     {
       "added_at": "2023-11-10 17:28:14",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-11-10 17:28:14",
       "album": {
-        "name": "Dear Body",
-        "url": "https://open.spotify.com/album/6WgcGtcQKVgo8zpEDmHiTh"
-      },
-      "artists": [
-        {
-          "name": "Bow Anderson",
-          "url": "https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO"
-        }
-      ],
-      "duration_ms": 189520,
-      "name": "Dear Body",
-      "url": "https://open.spotify.com/track/2wXaoOfQlEFmq4p1HwSvBB"
-    },
-    {
-      "added_at": "2023-11-10 17:28:14",
-      "album": {
         "name": "pink dress",
         "url": "https://open.spotify.com/album/2By8efmDvVvtVaWyJdyx0s"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 173329,
       "name": "pink dress",
       "url": "https://open.spotify.com/track/2MBuWN9LjsJSKyGlWSJOXo"
+    },
+    {
+      "added_at": "2023-11-10 17:28:14",
+      "album": {
+        "name": "Dear Body",
+        "url": "https://open.spotify.com/album/6WgcGtcQKVgo8zpEDmHiTh"
+      },
+      "artists": [
+        {
+          "name": "Bow Anderson",
+          "url": "https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO"
+        }
+      ],
+      "duration_ms": 189520,
+      "name": "Dear Body",
+      "url": "https://open.spotify.com/track/2wXaoOfQlEFmq4p1HwSvBB"
     },
     {
       "added_at": "2023-11-10 17:28:14",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2023-11-10 17:28:14",
       "album": {
+        "name": "Hannah Montana",
+        "url": "https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 145324,
+      "name": "Hannah Montana",
+      "url": "https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj"
+    },
+    {
+      "added_at": "2023-11-10 17:28:14",
+      "album": {
         "name": "Permanent Damage",
         "url": "https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF"
       },
@@ -1267,38 +1283,6 @@
     {
       "added_at": "2023-11-10 17:28:14",
       "album": {
-        "name": "Hannah Montana",
-        "url": "https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 145324,
-      "name": "Hannah Montana",
-      "url": "https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj"
-    },
-    {
-      "added_at": "2023-11-10 17:28:14",
-      "album": {
-        "name": "Borderline",
-        "url": "https://open.spotify.com/album/2vFRIrn95QJ37C8E31aAcz"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 214768,
-      "name": "Borderline",
-      "url": "https://open.spotify.com/track/54SmecWdCNXBjAXBuVrSV6"
-    },
-    {
-      "added_at": "2023-11-10 17:28:14",
-      "album": {
         "name": "if you called me today, i would come back tomorrow",
         "url": "https://open.spotify.com/album/7860oA85u1By2IkqmpXiAi"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 242229,
       "name": "if you called me today, i would come back tomorrow",
       "url": "https://open.spotify.com/track/0ZhcTOA3jY10bgme6qpptW"
+    },
+    {
+      "added_at": "2023-11-10 17:28:14",
+      "album": {
+        "name": "Grow",
+        "url": "https://open.spotify.com/album/7BOBuESz1SKYSUoXF4HDJ3"
+      },
+      "artists": [
+        {
+          "name": "Josie Man",
+          "url": "https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ"
+        }
+      ],
+      "duration_ms": 171228,
+      "name": "Grow",
+      "url": "https://open.spotify.com/track/3Uqn2j1LiMil9XWr29ykEP"
     }
   ],
   "unique_name": "Wholesome",

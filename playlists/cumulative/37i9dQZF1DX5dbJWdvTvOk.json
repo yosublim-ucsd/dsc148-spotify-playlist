@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "A Cardinal Moonlight",
+        "url": "https://open.spotify.com/album/7Ckwv4JpZENq4VywyXBQKo"
+      },
+      "artists": [
+        {
+          "name": "Ivan Bielsa",
+          "url": "https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174180,
+      "name": "A Cardinal Moonlight",
+      "url": "https://open.spotify.com/track/7s46C3yeQvTSOehOgtmSCR"
+    },
+    {
+      "album": {
         "name": "A Few Reasons",
         "url": "https://open.spotify.com/album/6NAR2psL2E6ViUIZgHurEZ"
       },
@@ -1694,7 +1712,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 128729,
       "name": "Carry Me",
       "url": "https://open.spotify.com/track/2kSUbTGxyd3wDngU35HzSP"
@@ -10972,7 +10990,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 151750,
       "name": "White Sands",
       "url": "https://open.spotify.com/track/3ANFk4zuBdlLwF8Qf4ogIz"
@@ -11174,6 +11192,24 @@
       "duration_ms": 151308,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/27DodeB1seENJxnWojPa6G"
+    },
+    {
+      "album": {
+        "name": "Yesteryear",
+        "url": "https://open.spotify.com/album/5Uu6qKT8FsFyUD0tRDIfxZ"
+      },
+      "artists": [
+        {
+          "name": "Armand Beck",
+          "url": "https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159242,
+      "name": "Yesteryear",
+      "url": "https://open.spotify.com/track/26onATmE5ib4iKkPfvHtnw"
     },
     {
       "album": {

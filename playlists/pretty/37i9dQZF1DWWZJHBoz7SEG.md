@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Nos despedimos de Noviembre con música nueva de Danna Paola, Kali Uchis con Karol G, Danny Ocean y Myke Towers!
 
-[Spotify](https://open.spotify.com/user/spotify) - 809,226 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 809,416 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 49 | [Desde que no estás aquí](https://open.spotify.com/track/2ADgp2TXnDZg8U1CJY83i2) | [Karina Galicia](https://open.spotify.com/artist/0syMDHmkYbx5dG8bOnZ60z) | [Desde que no estás aquí / Pies Descalzos](https://open.spotify.com/album/1p0wuytsacWApMDIcJE50D) | 3:52 |
 | 50 | [shutting me out](https://open.spotify.com/track/1XKLWx4XOnB6nMkl5qFtYi) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [shutting me out / goo lagoon](https://open.spotify.com/album/4WJsVZksTyP64i6fsH9Ocq) | 2:26 |
 
-Snapshot ID: `MCw0NWEwMjllYTNiYzZlNzU4ZDgyZTRmMWNjNWEyZWYxNWI5NTJiMzk2`
+Snapshot ID: `MCw5NGI5ZGNjMjY2MmEzYjUyMTgxNTk1YzBiMzBmMmQ4M2ZkN2FlMGU0`

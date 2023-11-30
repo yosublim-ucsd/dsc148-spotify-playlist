@@ -7619,6 +7619,28 @@
     },
     {
       "album": {
+        "name": "YUNIK\u014dN (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7ozWefQLSgQ3nO3uDjGEJl"
+      },
+      "artists": [
+        {
+          "name": "New Cool Collective",
+          "url": "https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ"
+        },
+        {
+          "name": "Card On Spokes",
+          "url": "https://open.spotify.com/artist/0U3iJFP70s9Z8cswLdiCIv"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271826,
+      "name": "Viper - Card On Spokes Remix",
+      "url": "https://open.spotify.com/track/0VjoYWcUmOMkXhLF7Ae58J"
+    },
+    {
+      "album": {
         "name": "Viper (Card On Spokes Remix)",
         "url": "https://open.spotify.com/album/1X6SwF0DNYYuuj7e0NO2zs"
       },
@@ -7634,7 +7656,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 271826,
       "name": "Viper - Card On Spokes Remix",
       "url": "https://open.spotify.com/track/1LnUMYEuGZMXdIjjlXv6XO"

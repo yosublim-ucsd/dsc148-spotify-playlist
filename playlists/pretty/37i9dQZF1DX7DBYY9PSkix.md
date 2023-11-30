@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DBYY9PSkix.md) - [plain]
 
 > Music to get your heart started.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,606 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,612 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DBYY9PSkix.md) - [plain]
 | 70 | [Jump Right In](https://open.spotify.com/track/6czEmVcntPHqHBYt2eRpgY) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Uncaged](https://open.spotify.com/album/1s8rmXFgIuXVpUach3s2V7) | 3:00 |
 | 71 | [Anything She Says](https://open.spotify.com/track/6LQxv30jh0lCISHsPYwqoy) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc), [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Anything She Says](https://open.spotify.com/album/0xuuAAiiNHuLd3QUstmwMQ) | 2:49 |
 | 72 | [Down To One](https://open.spotify.com/track/6QpZSfLid1YZ6c01BvB5jH) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Born Here Live Here Die Here](https://open.spotify.com/album/0wnaUYW25dVLAzk41fp1Ez) | 3:41 |
-| 73 | [Beer In Mexico](https://open.spotify.com/track/5pgmgHNxiq9w9XuthMKzJS) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [The Road And The Radio](https://open.spotify.com/album/5uMLCobPh02IG3fyH0Dzec) | 4:31 |
-| 74 | [I Was On a Boat That Day](https://open.spotify.com/track/1nnsiuuYlvPF9gxXIiyAr8) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [I Was On a Boat That Day](https://open.spotify.com/album/5l1k8aONEjrNP0SFdcrL6J) | 2:58 |
-| 75 | [Good Times Roll](https://open.spotify.com/track/7uEdrlfBe89dRbU6NUX7cw) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Bettie James Gold Edition](https://open.spotify.com/album/4qLuvW8Tyfzr8c79VM531V) | 2:38 |
+| 73 | [Good Times Roll](https://open.spotify.com/track/7uEdrlfBe89dRbU6NUX7cw) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Bettie James Gold Edition](https://open.spotify.com/album/4qLuvW8Tyfzr8c79VM531V) | 2:38 |
+| 74 | [Beer In Mexico](https://open.spotify.com/track/5pgmgHNxiq9w9XuthMKzJS) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [The Road And The Radio](https://open.spotify.com/album/5uMLCobPh02IG3fyH0Dzec) | 4:31 |
+| 75 | [I Was On a Boat That Day](https://open.spotify.com/track/1nnsiuuYlvPF9gxXIiyAr8) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [I Was On a Boat That Day](https://open.spotify.com/album/5l1k8aONEjrNP0SFdcrL6J) | 2:58 |
 
-Snapshot ID: `MCw5ZTY0MDE1ZDU4NGNkNDRiMTQ4YTNiNDQ1NWMwMGQxMDE4ODQzZDBl`
+Snapshot ID: `MCw3YmU3NGIwYjY1YmZlY2E2M2VmMTA5YWU2ZTE0Njc2OGI5MDU5MDg3`

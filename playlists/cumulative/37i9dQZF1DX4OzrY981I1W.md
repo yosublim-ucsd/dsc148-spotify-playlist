@@ -4,7 +4,7 @@
 
 > every main character needs their soundtrack
 
-426 songs - 1 day 2 hr 14 min
+427 songs - 1 day 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [Freakin' Out On the Interstate](https://open.spotify.com/track/6Fqf0OTfB9VPfYk2HfBhPn) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Carnival](https://open.spotify.com/album/59z895VS27PtxzCwDV6dRY) | 4:11 | 2021-03-26 | 2022-07-29 |
 | [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Freaks](https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5) | 2:27 | 2021-07-29 | 2023-09-26 |
 | [Friday I'm in Love](https://open.spotify.com/track/263aNAQCeFSWipk896byo6) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu) | 3:34 | 2021-03-26 | 2022-04-21 |
-| [From the Dining Table](https://open.spotify.com/track/1IF5UcqRO42D12vYwceOY6) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 3:31 | 2023-09-25 | 2023-11-28 |
+| [From the Dining Table](https://open.spotify.com/track/1IF5UcqRO42D12vYwceOY6) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 3:31 | 2023-09-25 |  |
 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-07-17 | 2023-09-26 |
 | [From the Subway Train](https://open.spotify.com/track/0qOCy2LqvdkMora7eZsJhQ) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [Angel Youth](https://open.spotify.com/album/7CESHttY9U97FElD5JAXSW) | 0:57 | 2023-03-20 | 2023-09-26 |
 | [fuck, i luv my friends](https://open.spotify.com/track/4hk4plGoAmg3naYTq8EUul) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [fuck, i luv my friends](https://open.spotify.com/album/4r4S1Vthv9l5CSJdTee4S6) | 2:43 | 2021-03-26 | 2022-07-29 |
@@ -232,7 +232,7 @@
 | [LIMBO](https://open.spotify.com/track/2bdVgAQgosGUJoViVDNeOV) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 3:32 | 2023-03-09 | 2023-09-26 |
 | [Line of Fire](https://open.spotify.com/track/3C3ArxTzVCYVzHpzq6AO9G) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/7x9Q6tQyDcS6EhWsmTgujm) | 3:08 | 2021-09-17 | 2022-04-21 |
 | [Linger](https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:34 | 2022-12-23 |  |
-| [Lo Que Siento](https://open.spotify.com/track/4CYeId6mLAasOb6o0NCz4Y) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Lo Que Siento](https://open.spotify.com/album/69FOLmptEcKSeN1f60UFDC) | 5:12 | 2023-09-25 |  |
+| [Lo Que Siento](https://open.spotify.com/track/4CYeId6mLAasOb6o0NCz4Y) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Lo Que Siento](https://open.spotify.com/album/69FOLmptEcKSeN1f60UFDC) | 5:12 | 2023-09-25 | 2023-11-30 |
 | [Long Long Time](https://open.spotify.com/track/1khA4hwhZD4HMecyE1e9U1) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Silk Purse](https://open.spotify.com/album/33w9uBzKNuGxvJwcMMNs2G) | 4:23 | 2023-02-13 | 2023-02-26 |
 | [Look Out!](https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Look Out!](https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF) | 2:56 | 2021-11-12 | 2022-07-29 |
 | [Lost](https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:54 | 2022-01-12 | 2023-09-26 |
@@ -378,7 +378,8 @@
 | [The Sway](https://open.spotify.com/track/40dIRHeWIhQNWflZKIemQI) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Let Me Do One More](https://open.spotify.com/album/5MH2ICGjLf6Lm9G72Rfx2f) | 3:35 | 2021-10-01 | 2022-06-27 |
 | [The Times They Are A\-Changin'](https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Times They Are A\-Changin'](https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS) | 3:12 | 2022-02-20 | 2022-04-13 |
 | [The Weight \- Remastered 2000](https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Remastered\)](https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE) | 4:34 | 2021-09-17 | 2023-01-07 |
-| [There She Goes](https://open.spotify.com/track/4c6vZqYHFur11FbWATIJ9P) | [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [The La's](https://open.spotify.com/album/1djwiQ802xeU8Q45jv1b0x) | 2:42 | 2021-03-26 |  |
+| [There She Goes](https://open.spotify.com/track/4c6vZqYHFur11FbWATIJ9P) | [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [The La's](https://open.spotify.com/album/1djwiQ802xeU8Q45jv1b0x) | 2:42 | 2021-03-26 | 2023-11-30 |
+| [Think Of Me Once In A While, Take Care](https://open.spotify.com/track/4JdYapRlYv67LnjrkDhZVX) | [Take Care](https://open.spotify.com/artist/2HpfqDQ8DBQlnrbAsdIh7s) | [Agony](https://open.spotify.com/album/6hMR006RO5sOuA9Vgs4v9L) | 1:43 | 2023-11-21 |  |
 | [This Charming Man \- 2011 Remaster](https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Smiths](https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN) | 2:42 | 2021-03-26 |  |
 | [This Will Be \(An Everlasting Love\)](https://open.spotify.com/track/0PDCewmZCp0P5s00bptcdd) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Inseparable](https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx) | 2:51 | 2022-02-20 |  |
 | [Those Eyes](https://open.spotify.com/track/2GThBgzZoZfz0lx1JjBwfe) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/4iRLB4gc24HFvjwRc8hDdg) | 3:40 | 2022-06-23 | 2022-07-01 |

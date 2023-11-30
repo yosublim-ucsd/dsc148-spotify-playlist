@@ -4,7 +4,7 @@
 
 > The premier alternative melancholia playlist, featuring Billie Eilish.
 
-355 songs - 1 day 0 hr 0 min
+356 songs - 1 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Myth](https://open.spotify.com/track/2NfxtzCIrpCmJX5Z2KMdD5) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Bloom](https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp) | 4:18 | 2022-08-26 |  |
 | [Negative Vibes](https://open.spotify.com/track/0B0lt6ie2Q9Vv0BJayFbKN) | [Gruff Rhys](https://open.spotify.com/artist/0dLSQG3IV62UNVhWUe6mx6) | [Babelsberg](https://open.spotify.com/album/0v6Lagogc0mVWvcyiDizXS) | 5:15 | 2020-08-30 | 2020-09-11 |
 | [Never Grow Old \- Live at New Missionary Baptist Church, Los Angeles, CA, 01/13/72](https://open.spotify.com/track/0aRrC0fJzS8aWJgjNELnKl) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Amazing Grace \(Live at New Temple Missionary Baptist Church, Los Angeles, CA, 01/13/72\)](https://open.spotify.com/album/5pIUimaQ6XePPXbMUi3te0) | 9:57 | 2020-08-30 | 2020-09-11 |
+| [Never Learned To Dance](https://open.spotify.com/track/6Q91XsqLpcBOK71BsCNl3U) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Never Learned To Dance](https://open.spotify.com/album/15DLC8piIZiAbi5g5tfOHG) | 3:44 | 2023-11-29 |  |
 | [New Love](https://open.spotify.com/track/0Fv37Teb9CoZwlvWojwsa9) | [Maria Taylor](https://open.spotify.com/artist/6iKiDPed4LAQEcPZpvf00m) | [Maria Taylor](https://open.spotify.com/album/46yJ5yYiR7au7xFVhRVVcW) | 2:40 | 2020-08-30 | 2020-09-11 |
 | [New Shoes](https://open.spotify.com/track/2Nh201cURlNgpcMDnDlNaL) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [The Fight](https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE) | 3:18 | 2020-03-07 | 2022-07-22 |
 | [Night Shift](https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Historian](https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu) | 6:31 | 2022-07-15 | 2023-06-17 |

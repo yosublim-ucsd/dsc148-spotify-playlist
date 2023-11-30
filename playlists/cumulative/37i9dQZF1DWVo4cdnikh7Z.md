@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Captain Miller
 
-1,008 songs - 2 day 13 hr 55 min
+1,009 songs - 2 day 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -605,6 +605,7 @@
 | [Not Ramaiya Vastavaiya \[From "Jawan"\] \[TAMIL\]](https://open.spotify.com/track/6FQWnHEGeeCL5LyCREsX0G) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Sreerama Chandra](https://open.spotify.com/artist/2bfyLSCw72lQ5qoD8cdVBB), [Rakshita Suresh](https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ) | [Not Ramaiya Vastavaiya \(From "Jawan"\) \[TAMIL\]](https://open.spotify.com/album/2GWiiqelOPX3Vlxo7g5Vu6) | 3:22 | 2023-08-29 |  |
 | [Notta Thooki Kaattu \(Original Soundtrack From "Shortcut"\)](https://open.spotify.com/track/6OZ2xXsBvU2fxW3TOo9ufK) | [K M Rayan](https://open.spotify.com/artist/0BBW3nUjf3qYlK90OaGKfi), [Bamba Bakya](https://open.spotify.com/artist/005ppBcDhgC9mj7CgRmv1D), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv) | [Notta Thooki Kaattu \(Original Soundtrack From "Shortcut"\)](https://open.spotify.com/album/1KqduOmqf3dj2QAKAT6aZR) | 3:45 | 2023-02-10 | 2023-03-11 |
 | [OC Anthem \(From "Enaku Endey Kidaiyaathu"\)](https://open.spotify.com/track/6S3jC7LQi1oxBm5ejBdpjE) | [Kalacharan](https://open.spotify.com/artist/06Mrb07iYXhRA3KJP8KxEN), [Parithabangal Gopi](https://open.spotify.com/artist/2a30MBwBwmGWHvJCY2muBC), [Kameswaram Sumathi](https://open.spotify.com/artist/46j4tEN4dRk1jrWMcM5SPO) | [OC Anthem \(From "Enaku Endey Kidaiyaathu"\)](https://open.spotify.com/album/393AqwMqypjTX0yyvknztQ) | 3:14 | 2023-09-27 | 2023-10-05 |
+| [Odiyamma \(From "Hi Nanna"\) \[TAMIL\]](https://open.spotify.com/track/3P5ExoNxAV2d2tdAblNz0r) | [Dhruv Vikram](https://open.spotify.com/artist/6ivte6aFersdzMprXpVDiO), [Shruti Haasan](https://open.spotify.com/artist/06vOoTzj6cIac9FMbNXz9h), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Odiyamma \(From "Hi Nanna"\) \[TAMIL\]](https://open.spotify.com/album/13bGykxT0HSuTj6ri8zeLl) | 3:15 | 2023-11-29 |  |
 | [Odu Odu Odu \- The Cop Theme \(From "Not Reachable"\)](https://open.spotify.com/track/5MItF2XzxuWxiuaVNP8N1z) | [MC Vicky](https://open.spotify.com/artist/1AzwwC0SvUjDKSlNkRWwSO), [Amargeeth](https://open.spotify.com/artist/1cQmRxkurXHVtjWSxiIuH6) | [Odu Odu Odu \- The Cop Theme \(From "Not Reachable"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/4rGVZjL1Noe2bCcvdaYUpq) | 2:04 | 2022-08-29 | 2022-09-15 |
 | [Oh Meri Kwabidha \- From "Burqa"](https://open.spotify.com/track/2DSMGBleST7mof3QCuEsTb) | [Gaana Girl](https://open.spotify.com/artist/1jZ6dBGad8mziMzwLe478q), [Yugabharathi](https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e), [Abdul Shaikh](https://open.spotify.com/artist/1MTOgGJe7WMSxF6Ex0Jdjk) | [Oh Meri Kwabidha \(From "Burqa"\)](https://open.spotify.com/album/5U2iZfmySeNGslQ6HoliJc) | 5:13 | 2023-04-10 | 2023-04-22 |
 | [Oh Thallelaalo Thallelaalo](https://open.spotify.com/track/5zPjIp1oDn3v9POoGO7J24) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Oh Thallelaalo Thallelaalo \(From "Dasara"\) \(Tamil\)](https://open.spotify.com/album/4QrN79AxKXewODM8ORhowt) | 2:47 | 2023-03-29 | 2023-04-07 |

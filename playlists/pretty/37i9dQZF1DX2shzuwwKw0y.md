@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2shzuwwKw0y.md) - [plain]
 
 > Del rancho a la ciudad, las historias que pocos se atreven a contar\. Xavi, Los Dareyes de la Sierra en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,167,491 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,169,373 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2shzuwwKw0y.md) - [plain]
 | 79 | [Apenas es Martes](https://open.spotify.com/track/56goS93EXFXZk4X6qPxJAt) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Apenas es Martes](https://open.spotify.com/album/0aDQnxWeCKcTTmj2NcNBRx) | 3:36 |
 | 80 | [T.H.C\. \- En Vivo](https://open.spotify.com/track/3VfePRz4mz0pAjRsQsVcrC) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [T.H.C\. \(En Vivo\)](https://open.spotify.com/album/4CUBg0rluTaV0pOooMoXsv) | 3:12 |
 
-Snapshot ID: `MCxlNTkyYjBjZDJhNDRiM2YwODU2ZTZjOTk5ODdkN2VjYTNhYWJiMTJh`
+Snapshot ID: `MCxmOTI1ZThiZGI2ODA0YjA0YjJkYzNhNjk1ZjQxMzUxN2Q4M2FkYmJm`

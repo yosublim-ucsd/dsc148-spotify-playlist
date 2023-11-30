@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: Farruko, La Factoria & Eddy Lover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 690,248 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 690,250 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 19 | [Tempo](https://open.spotify.com/track/7icIDep1Jr3oJdgJSGsdnM) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Tempo](https://open.spotify.com/album/5TWuIEEbRxkdyn9HgiV69n) | 1:47 |
 | 20 | [No Te Deseo el Mal](https://open.spotify.com/track/3HQxzXOb4p9pfpD5gP38D5) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:52 |
 | 21 | [CAROLINA](https://open.spotify.com/track/3goYw6YHoCjA1sfBzpdgzH) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:42 |
-| 22 | [Santorini](https://open.spotify.com/track/2FVSQR0FXAIBkPtkkIMigS) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Santorini](https://open.spotify.com/album/43pq1lauxP6T2c4ySugI0Z) | 2:40 |
+| 22 | [Me Gusta Tu Flow](https://open.spotify.com/track/1jeaCBXzfpy9kPBuLSQNmo) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Me Gusta Tu Flow](https://open.spotify.com/album/1625TAr0aacB03dTtcLg5W) | 2:57 |
 | 23 | [Le Pido a DIOS](https://open.spotify.com/track/4TFNKnMWjcMWzpkSwQrrcu) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [SIXDO](https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa) | 2:45 |
-| 24 | [Me Gusta Tu Flow](https://open.spotify.com/track/1jeaCBXzfpy9kPBuLSQNmo) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Me Gusta Tu Flow](https://open.spotify.com/album/1625TAr0aacB03dTtcLg5W) | 2:57 |
+| 24 | [Santorini](https://open.spotify.com/track/2FVSQR0FXAIBkPtkkIMigS) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Santorini](https://open.spotify.com/album/43pq1lauxP6T2c4ySugI0Z) | 2:40 |
 | 25 | [Movezz en silencio](https://open.spotify.com/track/1Hrucz5n0cjYuPApCk8VkL) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [Me Muevo Con Dios](https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT) | 3:00 |
 | 26 | [Mi Nena Remix](https://open.spotify.com/track/7q1KFoWUNYudhKW8RYJFsZ) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Mi Nena Remix](https://open.spotify.com/album/6N2xUWDyxIusQX9s71HWFW) | 3:40 |
 | 27 | [Andando](https://open.spotify.com/track/0yK1nUASmGNYKUH5qpXeOY) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 4:21 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 65 | [POKE FREESTYLE](https://open.spotify.com/track/44nurfcBvWwOI2bMBPRzZA) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Papi Sousa](https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7) | [POKE FREESTYLE](https://open.spotify.com/album/2GWvS2DZKb8ovA7HquXJQ3) | 3:23 |
 | 66 | [REGALONA](https://open.spotify.com/track/0vwCRieFJeccdBaDUSANOk) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [REGALONA](https://open.spotify.com/album/3oWWVVloAsuujw2QOoGF9d) | 2:57 |
 | 67 | [Otra Noche Sin Ti](https://open.spotify.com/track/6xvaSd27eSA5kQlFRYhWZF) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 3:48 |
-| 68 | [No Te Creas Tanto](https://open.spotify.com/track/3lTqxHwO6NqyGZhOxhWFvV) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Montano](https://open.spotify.com/artist/3LlWsXsjIJmaKmPaB9GIyH) | [DEKKOLETERA 333](https://open.spotify.com/album/12gXwHN7MFHNc48utTmuGM) | 3:11 |
-| 69 | [Hace Un Mes](https://open.spotify.com/track/1mq5Ts1TBYiXGX8D0QEhHf) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Don Juan](https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA) | 2:53 |
+| 68 | [Hace Un Mes](https://open.spotify.com/track/1mq5Ts1TBYiXGX8D0QEhHf) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Don Juan](https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA) | 2:53 |
+| 69 | [No Te Creas Tanto](https://open.spotify.com/track/3lTqxHwO6NqyGZhOxhWFvV) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Montano](https://open.spotify.com/artist/3LlWsXsjIJmaKmPaB9GIyH) | [DEKKOLETERA 333](https://open.spotify.com/album/12gXwHN7MFHNc48utTmuGM) | 3:11 |
 | 70 | [Bonita](https://open.spotify.com/track/7p5s4J9dNNYpZdAgJIOH6Z) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Bonita](https://open.spotify.com/album/5S7g9lFAwX5rUAM2I4idTS) | 4:10 |
 | 71 | [El Father](https://open.spotify.com/track/3l1KMArNsKOR29ppTBhCzw) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB) | [El Father](https://open.spotify.com/album/7IRJnAHKeNS3QNqiALYpPb) | 3:15 |
 | 72 | [La Tormenta](https://open.spotify.com/track/5DLVjkvxxLJprV4CcXkG02) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Servando](https://open.spotify.com/artist/4dUTDxayFeWfiZzxJNQfDS) | [La Tormenta](https://open.spotify.com/album/0UZCLEQ1PqcpUKg2n2hh8w) | 2:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 99 | [Tú Y Yo](https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Tú Y Yo](https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo) | 4:02 |
 | 100 | [Somebody That You Don't Know \(feat\. Rauw Alejandro\)](https://open.spotify.com/track/0lljBJMLGcTLm5Zn4KxQBH) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Cheers to the Best Memories](https://open.spotify.com/album/15D9ut0TGWReBDq4YRQoZA) | 2:56 |
 
-Snapshot ID: `MCw4YzUyOTlkZTAxYWFhMDg0Y2Y4NDI3OGFkOTQ1MmUwOTg2MWRhMWMy`
+Snapshot ID: `MCxjMjc3MzYxNTZmYzVlMDgwNWM1ZTY2MDVkYjAyZTA2YmZkY2VlNjQ0`

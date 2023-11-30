@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 
 > Nothing but the best in modern country music\. Cover: Lainey Wilson
 
-[Spotify](https://open.spotify.com/user/spotify) - 534,913 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,982 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 | 24 | [Love You Again](https://open.spotify.com/track/7pvy3nhtBIQUakHS4OjFqB) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Come Get Your Memory](https://open.spotify.com/album/5p1dDu2h83DMOPi9ULbqts) | 2:53 |
 | 25 | [Rock and A Hard Place](https://open.spotify.com/track/1TE8AAk9koG0UJco6ZAUfx) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:27 |
 | 26 | [Things I Take For Granted](https://open.spotify.com/track/2d3KkBpDlOCLT5Wlhrwhfd) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw) | [Earned It](https://open.spotify.com/album/182iKgpkS0r9XZDsjojCTP) | 3:26 |
-| 27 | [Straight and Narrow](https://open.spotify.com/track/3fonAuTvuI5KMcmnueLAPq) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Million Eyes](https://open.spotify.com/album/5jrPhnzA00KBWc3bJJUqTY) | 3:19 |
+| 27 | [Straight and Narrow](https://open.spotify.com/track/30fbAXFjj9feoB56NbLFN0) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Straight and Narrow](https://open.spotify.com/album/38SBM2jhA27kEq2SrgfS89) | 3:19 |
 | 28 | [Country Dance](https://open.spotify.com/track/3kXlAVr6DhSxerwXYTYHad) | [Aaron Goodvin](https://open.spotify.com/artist/5EbZ3EVGLkAoDJfn89PDXW) | [Country Dance](https://open.spotify.com/album/72tw9pcaaOREJYAU7G2gPu) | 3:10 |
 | 29 | [White Horse](https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [White Horse](https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7) | 4:27 |
 | 30 | [Spotless \(feat\. The Lumineers\)](https://open.spotify.com/track/0HEytGQM3bG1vKxER7IgVK) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 2:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 | 74 | [The Whiskey's Gone](https://open.spotify.com/track/1zSpONTt43MyPpw53vdfj2) | [Alli Walker](https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj) | [The Whiskey's Gone](https://open.spotify.com/album/3B5ICHgHiMeBUq0xmH2Ntm) | 2:57 |
 | 75 | [Save Me The Trouble](https://open.spotify.com/track/7hZTywPKMdVjJzwdWu11BK) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Save Me The Trouble, Heartbreak On The Map, Bigger Houses](https://open.spotify.com/album/0k3Twwed7AzLrgaKywvQWF) | 3:20 |
 
-Snapshot ID: `MCxiMGMyYjU5MjRkMDIyZjRhNzdkODZhNzI1OWU4OWFlN2UyZDA3YjNh`
+Snapshot ID: `MCw1NzIxMmY1MGQxNzRmNjRlODk4MGQxMjhhMzc5MjhhZTYzZjlmOGQ2`

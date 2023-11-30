@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 
 > Nuestro hip\-hop se escribe con Ñ, aquí los que dominan el juego de las rimas\. Yoss Bones y Dharius en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,637 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,682 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 | 99 | [Si No Hay Mañana \- Spotify Singles](https://open.spotify.com/track/4KfT6tbE0Hq4GffrFJvCus) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Si No Hay Mañana \- Spotify Singles](https://open.spotify.com/album/2awsgyoW4ncnfyTHJsTiC6) | 3:42 |
 | 100 | [Morena 420](https://open.spotify.com/track/4NxwFVKcqu0xAQngTiB3dA) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Morena 420](https://open.spotify.com/album/7ACMkgQ4dC0JitXOeGL1tC) | 3:56 |
 
-Snapshot ID: `MCwxYmFjZmE0NjMzNThiMDYyNWU3ZTNkMDg1YmI1NWQxNDY5NDAyNjk1`
+Snapshot ID: `MCw1YzY0YTU0YTA1ZTE4ZjcxZGE1NDQyZDQ5Y2JjOTYwOGQyNmY2MDZi`

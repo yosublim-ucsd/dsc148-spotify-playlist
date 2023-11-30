@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA4ETicgIky.md) - [plain]
 
 > Baila como en la época de los autos, moda y rocanrol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,267 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,298 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,10 +19,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA4ETicgIky.md) - [plain]
 | 9 | [Cuando Pase El Temblor \- Remasterizado 2007](https://open.spotify.com/track/3uMYq07Kj5m564OQwdSCrD) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Nada Personal \(Remastered\)](https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs) | 3:49 |
 | 10 | [En algún lugar](https://open.spotify.com/track/3UIENhLRdFIOuRan92cAQu) | [Duncan Dhu](https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7) | [El Grito Del Tiempo](https://open.spotify.com/album/53ysLjWIelVJ47Si7ouHB3) | 3:55 |
 | 11 | [Another One Bites The Dust \- Remastered 2011](https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 3:34 |
-| 12 | [Forever Young](https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo) | [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX) | [Forever Young](https://open.spotify.com/album/2256qKBSQdt53T5dz4Kdcs) | 3:46 |
-| 13 | [Never Gonna Give You Up](https://open.spotify.com/track/4PTG3Z6ehGkBFwjybzWkR8) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Whenever You Need Somebody](https://open.spotify.com/album/6eUW0wxWtzkFdaEFsTJto6) | 3:33 |
-| 14 | [Viento](https://open.spotify.com/track/6QJCZyJv1fhkCyZA3lRoAD) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Caifanes](https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr) | 3:56 |
-| 15 | [99 Luftballons](https://open.spotify.com/track/2IJftBfq7pJ43tfnOR0RB3) | [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [Nena](https://open.spotify.com/album/4uHwcjASOWAKw4P4wveKRb) | 3:51 |
+| 12 | [Never Gonna Give You Up](https://open.spotify.com/track/4PTG3Z6ehGkBFwjybzWkR8) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Whenever You Need Somebody](https://open.spotify.com/album/6eUW0wxWtzkFdaEFsTJto6) | 3:33 |
+| 13 | [Forever Young](https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo) | [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX) | [Forever Young](https://open.spotify.com/album/2256qKBSQdt53T5dz4Kdcs) | 3:46 |
+| 14 | [99 Luftballons](https://open.spotify.com/track/2IJftBfq7pJ43tfnOR0RB3) | [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [Nena](https://open.spotify.com/album/4uHwcjASOWAKw4P4wveKRb) | 3:51 |
+| 15 | [Viento](https://open.spotify.com/track/6QJCZyJv1fhkCyZA3lRoAD) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Caifanes](https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr) | 3:56 |
 | 16 | [Footloose](https://open.spotify.com/track/6W2VbtvMrDXm5vYeB7amkO) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Yesterday, Today, Tomorrow \- The Greatest Hits Of Kenny Loggins](https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW) | 3:40 |
 | 17 | [Con Todos Menos Conmigo](https://open.spotify.com/track/4d7N2lqEJMbQwVy1LCqhXv) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [Timbiriche 7](https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM) | 3:04 |
 | 18 | [Lobo\-hombre en París](https://open.spotify.com/track/3M1H1CWjrSq7nxABHc8EXv) | [La Unión](https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U) | [Grandes Exitos](https://open.spotify.com/album/7bYD4tCxzQOzGZmKBKtT3m) | 3:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA4ETicgIky.md) - [plain]
 | 49 | [Juegos de Amor](https://open.spotify.com/track/7K0iKwKRqZcfT492oLOvSl) | [Neón](https://open.spotify.com/artist/3wv682f2IGrweKNr4SlGeC) | [Rock En Español \- Lo Mejor De Neon](https://open.spotify.com/album/3vJCmTwiW8FIWFd5wCblk8) | 4:19 |
 | 50 | [Bailando en las Veredas](https://open.spotify.com/track/2q4WF7KqM5yvVoQNCyHHZd) | [Raul Porchetto](https://open.spotify.com/artist/3WoxTj3fh8I58MpnwZyYyL) | [Noche y Día](https://open.spotify.com/album/0FWccOOClD62jDsDvqj6Gl) | 4:16 |
 
-Snapshot ID: `MCxjOWU2NmExNGMyNjM0YTFiYzkwOWJjYjUxODYwNTZjMDAxYTZmNDdl`
+Snapshot ID: `MCwwM2Y5ZWZjMzkxNmIwNWZlNTA1YjFlZjRjMDY1NmU3NjdiNmY2YzVl`

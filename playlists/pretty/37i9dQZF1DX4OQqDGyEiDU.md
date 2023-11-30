@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID\. cover:ゆこぴ
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,607 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,773 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [強風オールバック](https://open.spotify.com/track/4pBQGAV1bm6xqFcZL2yGSM) | [ゆこぴ](https://open.spotify.com/artist/2VFuqA3nVl2UqhhthXNF3K) | [アルバム１号](https://open.spotify.com/album/3ZA0nIXWZ0wGmCDHp9i77M) | 2:17 |
+| 1 | [Kyoufuu All Back](https://open.spotify.com/track/3rO7YwtuTzCGssxvDS4xK2) | [ゆこぴ](https://open.spotify.com/artist/2VFuqA3nVl2UqhhthXNF3K) | [ALBUM No,1](https://open.spotify.com/album/5J64EHN7hMo5sGTlRfC6bo) | 2:17 |
 | 2 | [HITO Mania](https://open.spotify.com/track/5m9rwQVcChWF3TsKXlJfgE) | [Sasuke Haraguchi](https://open.spotify.com/artist/0lpGYhSy3qM3uvWAYF4fTf) | [HITO Mania](https://open.spotify.com/album/0oHrJBLx50GEEpYmnw6rEt) | 2:07 |
 | 3 | [フォニイ](https://open.spotify.com/track/2UUwBDALzJuThY88Ro2lD2) | [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE), [ツミキ](https://open.spotify.com/artist/7ctyyNnO9O2dDD8bHjkCAh) | [KAF+YOU KAFU COMPILATION ALBUM シンメトリー](https://open.spotify.com/album/6ehjRidMkDZjWH82C4MbXR) | 3:09 |
-| 4 | [ブタサンダー](https://open.spotify.com/track/70AURQp8ECjm3XBRFNUlls) | [ゆこぴ](https://open.spotify.com/artist/2VFuqA3nVl2UqhhthXNF3K) | [アルバム１号](https://open.spotify.com/album/3ZA0nIXWZ0wGmCDHp9i77M) | 2:16 |
+| 4 | [BUTASANDER](https://open.spotify.com/track/6Qkh2aWAs6PC3f1F5R9klt) | [ゆこぴ](https://open.spotify.com/artist/2VFuqA3nVl2UqhhthXNF3K) | [ALBUM No,1](https://open.spotify.com/album/5J64EHN7hMo5sGTlRfC6bo) | 2:16 |
 | 5 | [Young Girl A](https://open.spotify.com/track/5sPKAEb7afrIMtdqEnI6H6) | [Siinamota](https://open.spotify.com/artist/4qfQTMwNNuBKJ4rF9Lo4bD) | [Alive](https://open.spotify.com/album/0JzdeLGqbDXPBlDbV4Y0c3) | 3:41 |
 | 6 | [kyu\-kurarin](https://open.spotify.com/track/72wehM3q2RVZb4XLmAkyTr) | [Iyowa](https://open.spotify.com/artist/0gox2jF74UUFl8bDQYyTFr) | [kyu\-kurarin](https://open.spotify.com/album/4f5TDdboXv76t95A48thSs) | 3:37 |
 | 7 | [Angel 92](https://open.spotify.com/track/73l0SNaLjeGtoujFzirKNG) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Angel 92](https://open.spotify.com/album/3GvWcgfR2yCy2cW67hwwOA) | 3:17 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 16 | [Zero Talking](https://open.spotify.com/track/7E6Eo4TfaXSgXbGHPNmSSb) | [Harumakigohan](https://open.spotify.com/artist/7y7byJwxSQxTOxuoAA9tcp) | [Zero Talking](https://open.spotify.com/album/08EDcCxoefkH6TwGQ8NIpR) | 3:41 |
 | 17 | [マーシャル・マキシマイザー](https://open.spotify.com/track/38XY1ShCSiYwDaV51sFPT9) | [柊マグネタイト](https://open.spotify.com/artist/4kmKTxjchPXGEcnpiW8iTx), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [KAF+YOU KAFU COMPILATION ALBUM シンメトリー](https://open.spotify.com/album/6ehjRidMkDZjWH82C4MbXR) | 2:43 |
 | 18 | [Yoidoreshirazu](https://open.spotify.com/track/26zbAdTJC4vqqpGwSzvh8Q) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Yoidoreshirazu](https://open.spotify.com/album/32sf8CyAb7MtRbVTDJrWQA) | 2:14 |
-| 19 | [座席リセット](https://open.spotify.com/track/4cOe7Pesf6cqc8OZ9uxPTZ) | [ゆこぴ](https://open.spotify.com/artist/2VFuqA3nVl2UqhhthXNF3K) | [アルバム１号](https://open.spotify.com/album/3ZA0nIXWZ0wGmCDHp9i77M) | 1:59 |
+| 19 | [May I fold down my seat,Grandma?](https://open.spotify.com/track/0n879xEufV4tlbrVaO5spT) | [ゆこぴ](https://open.spotify.com/artist/2VFuqA3nVl2UqhhthXNF3K) | [ALBUM No,1](https://open.spotify.com/album/5J64EHN7hMo5sGTlRfC6bo) | 1:59 |
 | 20 | [砂の惑星 feat.初音ミク](https://open.spotify.com/track/2RBQ84niVRC6bBdhe7lc9F) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [砂の惑星 feat.初音ミク](https://open.spotify.com/album/5fYiHj6u8MZWm2IPgvI0vh) | 3:58 |
 | 21 | [Thanks for being Lifeless](https://open.spotify.com/track/051mZnDf307e5y9oflIUiC) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [ZERO\-GO](https://open.spotify.com/album/0oaOHz6VowcZp1FUAwqDiD) | 4:24 |
 | 22 | [エゴロック \- long ver.](https://open.spotify.com/track/2FRMwFXODegegRrfLAeVwx) | [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [エゴロック \(long ver.\)](https://open.spotify.com/album/3jFaq0Sz9TBllBvn8Mu8GQ) | 2:49 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 43 | [乙女解剖](https://open.spotify.com/track/7Lpm4GU78jmjSrQDhiAqzJ) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [アンドロイドガール](https://open.spotify.com/album/6TPhM7fNV68heKndka6F0Q) | 3:43 |
 | 44 | [Non\-breath oblige](https://open.spotify.com/track/0LsKplOVgboKBm5MpJsX0H) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [LOVE](https://open.spotify.com/album/0KxJlPf1XUcJ2KMzjYQ1EE) | 3:28 |
 | 45 | [HERO \(feat\. 初音ミク\)](https://open.spotify.com/track/4oJVybTP5RihSfOn5sxf3W) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [初音ミク「マジカルミライ 2023」OFFICIAL ALBUM](https://open.spotify.com/album/3LnVCNSjdedP7hEmrrF7WR) | 3:24 |
-| 46 | [CH4NGE \- feat\. KAFU](https://open.spotify.com/track/3ipGZWQ7Q64OA7SwFNVfy2) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [CH4NGE](https://open.spotify.com/album/192mLC4CmnfqkxQbiPj7AZ) | 2:12 |
-| 47 | [花に風](https://open.spotify.com/track/3SOSqAmO4m7rzC2zbnqwU6) | [balloon](https://open.spotify.com/artist/49sPDY14qlYMAdi6WDsvva) | [花に風](https://open.spotify.com/album/6CX95AR2aAuJbByiQycxGA) | 3:45 |
+| 46 | [花に風](https://open.spotify.com/track/3SOSqAmO4m7rzC2zbnqwU6) | [balloon](https://open.spotify.com/artist/49sPDY14qlYMAdi6WDsvva) | [花に風](https://open.spotify.com/album/6CX95AR2aAuJbByiQycxGA) | 3:45 |
+| 47 | [CH4NGE \- feat\. KAFU](https://open.spotify.com/track/3ipGZWQ7Q64OA7SwFNVfy2) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [CH4NGE](https://open.spotify.com/album/192mLC4CmnfqkxQbiPj7AZ) | 2:12 |
 | 48 | [Kagerou Days](https://open.spotify.com/track/6c6fQ8k4yIUnLJEPy7zj3z) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA) | [MEKAKUCITYDAYS](https://open.spotify.com/album/6vQOvCYXDXyeEd3cIsXx05) | 3:54 |
 | 49 | [Aunnobeats](https://open.spotify.com/track/4JPcF81HVIbndg6KNFQNg6) | [Maigo Hanyuu](https://open.spotify.com/artist/1IYW6az2BfL10WNlNlRcRc) | [Ukiyomeguri](https://open.spotify.com/album/4JVCGjIksgYgMhXKHz5fbC) | 3:26 |
 | 50 | [フィクサー](https://open.spotify.com/track/2DYupgAcdomatly7Lhw8zv) | [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [plotoplan](https://open.spotify.com/album/5GhRicRw19hWj6PeZJQfW9) | 4:07 |
 
-Snapshot ID: `MCw3ZTk4NjI2MzRkZDZkNDc1YTI4MTM5N2IxYjIzNjU3ZWEzNmI0ZGVh`
+Snapshot ID: `MCw1MWRjNTE4YjJjYTQyMmY3OTE2ZDk4YmQ5NGQ2NjUzNjI1YmFhZTVi`

@@ -4,7 +4,7 @@
 
 > Spread some cheer with this list of new and old seasonal favorites\. Cover: Brenda Lee
 
-165 songs - 9 hr 13 min
+166 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Frosty The Snowman](https://open.spotify.com/track/76nIlhb7sx9W9ceQKVKreg) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/15up0e6AFIYZbmErIVPU3p) | 2:11 | 2021-12-20 | 2022-07-29 |
 | [Glow](https://open.spotify.com/track/4OXGEoNa7xh1MdDGf5xGC7) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Glow](https://open.spotify.com/album/6FjK2XLQJloz36NgRciCHv) | 3:29 | 2021-12-20 | 2022-12-06 |
 | [Glow](https://open.spotify.com/track/4nEJzW7MkSF8ojY7WJnoPt) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [When Christmas Comes Around...](https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU) | 3:18 | 2022-12-05 |  |
+| [Grown\-Up Christmas List](https://open.spotify.com/track/24lCPIiEWKg9K7k1Gh1h8q) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Home For Christmas](https://open.spotify.com/album/6zsXpKxvpjmwXvoxPdN2eQ) | 5:02 | 2023-11-29 |  |
 | [Grown\-Up Christmas List \(feat\. Kelly Clarkson\)](https://open.spotify.com/track/47qXmZMqUZDXSnP5zONlwY) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Christmas Is Here!](https://open.spotify.com/album/6thZNGX8hUVSjUrqJgPB9b) | 4:41 | 2022-12-05 | 2023-10-21 |
 | [Happy Holiday / The Holiday Season](https://open.spotify.com/track/3sDdyBHQ60Cs1opmIyRvhp) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch) | 2:36 | 2021-12-20 |  |
 | [Happy New Year](https://open.spotify.com/track/2mxwMVaPHxz4WVslwart1j) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [The Best Christmas Album In The World...Ever! 2021](https://open.spotify.com/album/5hejbQwKmx8CSvwa7HVkYw) | 4:23 | 2022-10-23 | 2022-11-13 |

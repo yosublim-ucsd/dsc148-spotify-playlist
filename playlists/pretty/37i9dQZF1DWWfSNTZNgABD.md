@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfSNTZNgABD.md) - [plain]
 
 > The Latin soundtrack of the 2000s! Cover: Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,851 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,893 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfSNTZNgABD.md) - [plain]
 | 32 | [La Camisa Negra](https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Mi Sangre](https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne) | 3:36 |
 | 33 | [Duele El Amor](https://open.spotify.com/track/0oXLSuno5adlHcPzlzs8l6) | [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi), [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [Mundo Lite](https://open.spotify.com/album/1RaOKsaRdN1H4twh4u6FUd) | 4:35 |
 | 34 | [Tú No Eres Para Mi](https://open.spotify.com/track/3df4fSoW5zsdNi5Wf3K5RP) | [Fanny Lu](https://open.spotify.com/artist/6GRC8segVAr34gm6pjfSoQ) | [Dos](https://open.spotify.com/album/1PKBHS23j0Hujx8C2sCbqo) | 3:25 |
-| 35 | [El Amor](https://open.spotify.com/track/7e6PEtKY008duLXsAJ3TVQ) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh) | [El Patrón \(La Victoria\)](https://open.spotify.com/album/214muZYoc3ewXMXGwQBFVU) | 4:06 |
-| 36 | [I Know You Want Me \(Calle Ocho\)](https://open.spotify.com/track/13plQdOoWSSXPRUSZc5FuM) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Pitbull Starring In Rebelution](https://open.spotify.com/album/4RaAjieYFIZRF8uh6GY43r) | 3:57 |
+| 35 | [I Know You Want Me \(Calle Ocho\)](https://open.spotify.com/track/13plQdOoWSSXPRUSZc5FuM) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Pitbull Starring In Rebelution](https://open.spotify.com/album/4RaAjieYFIZRF8uh6GY43r) | 3:57 |
+| 36 | [El Amor](https://open.spotify.com/track/7e6PEtKY008duLXsAJ3TVQ) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh) | [El Patrón \(La Victoria\)](https://open.spotify.com/album/214muZYoc3ewXMXGwQBFVU) | 4:06 |
 | 37 | [Tu Amor Me Hace Bien \- Salsa Version](https://open.spotify.com/track/3yEtuhGR8jOtusa29jWrhG) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Valio La Pena](https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7) | 5:00 |
 | 38 | [La Botella](https://open.spotify.com/track/3dtGHZyEGmKSmQoAPcbvyb) | [Mach & Daddy](https://open.spotify.com/artist/5Q1vijNjTVhQBoVrZVXms8) | [Desde Abajo](https://open.spotify.com/album/7dhQWDiTlbp3Np8sdLMY3R) | 2:57 |
 | 39 | [Fotografía](https://open.spotify.com/track/0dEPlb8waIqRtKpLb3l6So) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 3:58 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfSNTZNgABD.md) - [plain]
 | 74 | [A Puro Dolor](https://open.spotify.com/track/3BmwNuqx9pCqjLplOVNBLY) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [Son By 4](https://open.spotify.com/album/6FaDCE5IxXXMXVn3etukKq) | 4:21 |
 | 75 | [Guasa Guasa \(feat\. Voltio\)](https://open.spotify.com/track/7gXoDdtHUAT58STSAjhmLu) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP), [Voltio](https://open.spotify.com/artist/3Okcq0dqLVlEFHRZ5t22bA) | [El Enemy de Los Guasíbiri](https://open.spotify.com/album/69rKlAM3KXEHw6vPtM6e9L) | 5:18 |
 
-Snapshot ID: `MCw3MGJmNDljODQxMzZlODcxODA3NjU1Y2RhYjYxZTRkMjRkYjE0MWZm`
+Snapshot ID: `MCxkOWNlNWFlNGM1ZTNmZWFkYjM3OGM5ZmJiMGRjMjIyZDdlY2EwZmQx`

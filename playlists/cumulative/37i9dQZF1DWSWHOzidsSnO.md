@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSWHOzidsSnO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSWHOzidsSnO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSWHOzidsSnO)
 
-### [EQUAL Andes](https://open.spotify.com/playlist/37i9dQZF1DWSWHOzidsSnO)
+### [Top EQUAL Andes 2023](https://open.spotify.com/playlist/37i9dQZF1DWSWHOzidsSnO)
 
-> ¡Mujeres de los Andes, a todo volumen! En portada Las Áñez.
+> ¡Lo más Top de las mujeres de los Andes, a todo volumen! En portada Naïa Valdez.
 
 272 songs - 15 hr 1 min
 
@@ -127,7 +127,7 @@
 | [Imágenes](https://open.spotify.com/track/53JvAzn6rIzHFkAE4MnMQO) | [Adriana Lucia](https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o) | [Imágenes](https://open.spotify.com/album/6EMkMek4awK6MwOeazX9Z7) | 5:00 | 2023-08-11 | 2023-11-02 |
 | [ingenuamente, Vol\. 2](https://open.spotify.com/track/33hL3bl4exUdpylZ4JhV6f) | [Daniela Arredondo](https://open.spotify.com/artist/0HyOOT0sKxLVRVRNwN8stq) | [ingenuamente, Vol\. 2](https://open.spotify.com/album/1u98MqINJAVWsVqmxi7eEI) | 2:26 | 2023-11-24 |  |
 | [Invasión Costeña](https://open.spotify.com/track/4fuJAsFHJLQbapuIJh3Yys) | [Cynthia Montaño](https://open.spotify.com/artist/0ZmLQD0JMILG9pXpHLTfaw) | [Invasión Costeña](https://open.spotify.com/album/2KsCCBWv278m3g0T79GwkA) | 4:31 | 2022-01-05 | 2023-06-08 |
-| [kunai](https://open.spotify.com/track/3k5F4Vn3Nq6rNF5YSww3MO) | [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA) | [kunai](https://open.spotify.com/album/7hTt5gR7X0HZ6YeoFglPmX) | 2:09 | 2023-11-01 | 2023-11-22 |
+| [kunai](https://open.spotify.com/track/3k5F4Vn3Nq6rNF5YSww3MO) | [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA) | [kunai](https://open.spotify.com/album/7hTt5gR7X0HZ6YeoFglPmX) | 2:09 | 2023-11-01 |  |
 | [La América Que Se Olvida](https://open.spotify.com/track/0AGZs1EHZGQWsgECcEXPyr) | [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT) | [La América Que Se Olvida](https://open.spotify.com/album/6ORkGUSMv5j55oFy90JxzV) | 3:06 | 2023-07-06 |  |
 | [La Cara](https://open.spotify.com/track/48hh5h1N1oe2zmapBQ4uye) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [La Cara](https://open.spotify.com/album/3n4PlVDnUeFUuS1oIyuS7D) | 2:03 | 2022-01-05 | 2023-01-05 |
 | [La Diferente](https://open.spotify.com/track/4Nivbcp45LZSLnPRjNrlBg) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [La Diferente](https://open.spotify.com/album/2S4Go2c9gl4qsGgQwAeBe2) | 3:07 | 2022-01-05 | 2022-03-10 |
@@ -149,7 +149,7 @@
 | [León](https://open.spotify.com/track/6Yz79UMkQgpkeelujnkbIh) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Mis Amores](https://open.spotify.com/album/1spQ6P6TdE9gqf14SoKJQa) | 2:56 | 2022-01-05 | 2022-03-05 |
 | [Lluviare](https://open.spotify.com/track/7tQICvPQ491u8JnHnR2ann) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [Sodot a Rama](https://open.spotify.com/album/34od7O3gBdrusV1DzlxjM8) | 4:40 | 2022-01-05 | 2023-01-05 |
 | [Lo Cura](https://open.spotify.com/track/3ilKo71h84ybq78up74ho0) | [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Lo Cura](https://open.spotify.com/album/3p11AWGzvHZL4o3Cm9jtba) | 3:30 | 2022-03-04 | 2022-09-09 |
-| [Lo jodiste todo](https://open.spotify.com/track/3hO35k0J3M5psJxFLWrFWE) | [Sabi Satizábal](https://open.spotify.com/artist/3hkSIfiborsBV1wzOqe2qX) | [Lo jodiste todo](https://open.spotify.com/album/5e4cdvmMo8meyLRQ0Vmcrf) | 2:38 | 2023-11-21 |  |
+| [Lo jodiste todo](https://open.spotify.com/track/3hO35k0J3M5psJxFLWrFWE) | [Sabi Satizábal](https://open.spotify.com/artist/3hkSIfiborsBV1wzOqe2qX) | [Lo jodiste todo](https://open.spotify.com/album/5e4cdvmMo8meyLRQ0Vmcrf) | 2:38 | 2023-11-21 | 2023-11-30 |
 | [Lo Que Me Harías En Otra Parte](https://open.spotify.com/track/1gCTNc0Jrk78CHiHbuT63w) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [A Contraluz](https://open.spotify.com/album/0fHMjHobSboBcY2NQ4JfAN) | 2:40 | 2023-05-03 | 2023-11-02 |
 | [Lo Que Nos Hizo Gigantes](https://open.spotify.com/track/0oop3vyfemDoSFYMAbUg34) | [Sabi Satizábal](https://open.spotify.com/artist/3hkSIfiborsBV1wzOqe2qX) | [Lo Que Nos Hizo Gigantes](https://open.spotify.com/album/5UEfpCW3J8iw4AXYv1E4mv) | 3:08 | 2023-05-26 | 2023-06-15 |
 | [Loco de Amor](https://open.spotify.com/track/5Y8OIlbIQpR1ayl376O6ZV) | [Milena Benites](https://open.spotify.com/artist/0LQrMeU9OVkYoSdImco04N) | [Loco de Amor](https://open.spotify.com/album/32yzOf8nXud4I9ekG7XNfA) | 3:27 | 2023-11-21 |  |

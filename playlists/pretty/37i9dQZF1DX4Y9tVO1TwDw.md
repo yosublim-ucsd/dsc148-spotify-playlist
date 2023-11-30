@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 
 > A place for hyphenated Americans, creating our own identity & connecting to our roots\. Cover: Estevie
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,557 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,567 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 49 | [two eyes](https://open.spotify.com/track/6o6ZB7mCnwOutmC06Pey0P) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC), [Roy Borland](https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7) | [two eyes](https://open.spotify.com/album/0eONLSsIP4tLaGDmMC33QV) | 3:30 |
 | 50 | [tú y yo](https://open.spotify.com/track/0Ss650In2VXxwhXy166Gu4) | [Ariel & The Culture](https://open.spotify.com/artist/2KBHBsJ99i4e8X08fRE8o4) | [buena vista!](https://open.spotify.com/album/2cKKH81TWFF4ug9t59j5Uv) | 2:55 |
 
-Snapshot ID: `MCw1OGFjNGU4YTZkMjk3ZTRjMmYyMWUzYmQ3ZWVhNmZkZDIwZjA4ODNl`
+Snapshot ID: `MCw3NzdjOGJkODA3MmE2ZTg4NjQ4ZDI0MGE4M2M1MGRkY2MwZTM4NjUx`

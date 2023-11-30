@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 
 > Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: Black Pantera
 
-[Spotify](https://open.spotify.com/user/spotify) - 695,343 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 695,319 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 11 | [FELL IN LOVE](https://open.spotify.com/track/0rc6gtN1L7i0TacdfxhiND) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [FELL IN LOVE](https://open.spotify.com/album/3inphIxOlFnDL3CD3wkMe6) | 2:18 |
 | 12 | [Beyond](https://open.spotify.com/track/1490WwKimLxIeRgejYGFU2) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [CMF2](https://open.spotify.com/album/7uuvUTNqJqEE3gfHU4bXtt) | 4:17 |
 | 13 | [Foregone, Pt\. 2](https://open.spotify.com/track/6kk4G7WCvFrYuiotuDnH2N) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone](https://open.spotify.com/album/1IqQ6UX3hzJLVXtRmui4w3) | 4:30 |
-| 14 | [The Indigo Streak](https://open.spotify.com/track/57bBIId9EiuZEMzNA54bKk) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Starcatcher](https://open.spotify.com/album/7i1NJXQNNFZPyjE0W3GPgE) | 4:04 |
+| 14 | [Trial By Fire](https://open.spotify.com/track/6oIGM95s3TIyPqhHIH2AQ6) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Trial By Fire](https://open.spotify.com/album/0Tfz5EVaNE6oeAn4vttNEi) | 4:21 |
 | 15 | [Too Close / Too Late](https://open.spotify.com/track/4hvCxgioUiT85MCgfIhDP3) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Fear of Fear](https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk) | 4:41 |
-| 16 | [Trial By Fire](https://open.spotify.com/track/6oIGM95s3TIyPqhHIH2AQ6) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Trial By Fire](https://open.spotify.com/album/0Tfz5EVaNE6oeAn4vttNEi) | 4:21 |
+| 16 | [The Indigo Streak](https://open.spotify.com/track/57bBIId9EiuZEMzNA54bKk) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Starcatcher](https://open.spotify.com/album/7i1NJXQNNFZPyjE0W3GPgE) | 4:04 |
 | 17 | [Too Far Gone?](https://open.spotify.com/track/7KdgYr9jNkQO1Au7BGjGLW) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 4:33 |
 | 18 | [Temple Of Ekur](https://open.spotify.com/track/1SsCpBXMHUYlrHR7Hozgvu) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Servant Of The Mind \(Deluxe\)](https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP) | 4:19 |
 | 19 | [Artificial](https://open.spotify.com/track/2EU5LeESSJgbYKCc5l4rms) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [Artificial](https://open.spotify.com/album/3dYWUL9aUiAtc9OKGotTfV) | 3:39 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 41 | [Salvation](https://open.spotify.com/track/7lLjB1RVkIG3CangYngvtJ) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Hotel Kalifornia \(Deluxe Version\)](https://open.spotify.com/album/2QmovINf6cQMuNTTZYNBWi) | 3:35 |
 | 42 | [Talk Sick](https://open.spotify.com/track/5LEM1bxgQSlvUIw7VOe7hq) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [CMF2](https://open.spotify.com/album/7uuvUTNqJqEE3gfHU4bXtt) | 4:34 |
 | 43 | [Tear in My Heart \- MTV Unplugged Live](https://open.spotify.com/track/4IMxLpdUPWreh9cxmolYEV) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [MTV Unplugged \(Live\)](https://open.spotify.com/album/2kAer61g2HN6upL2zXAjzd) | 4:42 |
-| 44 | [Wouldn't You Rather](https://open.spotify.com/track/2BJrrLbxGDM26fTpWqBMKU) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Walk The Sky](https://open.spotify.com/album/3CDDZa8pfzfxfDdtm7g84B) | 3:49 |
-| 45 | [ARMY OF ME](https://open.spotify.com/track/2AVYRVgHgIhRPs8a1d4ynL) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [GODMODE](https://open.spotify.com/album/2c1e4GA90vn9Arbo4b8CU7) | 3:10 |
+| 44 | [ARMY OF ME](https://open.spotify.com/track/2AVYRVgHgIhRPs8a1d4ynL) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [GODMODE](https://open.spotify.com/album/2c1e4GA90vn9Arbo4b8CU7) | 3:10 |
+| 45 | [Wouldn't You Rather](https://open.spotify.com/track/2BJrrLbxGDM26fTpWqBMKU) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Walk The Sky](https://open.spotify.com/album/3CDDZa8pfzfxfDdtm7g84B) | 3:49 |
 | 46 | [Feast Of Fire](https://open.spotify.com/track/4iJg7QdhqLHwfYOmYHqU9z) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Feast Of Fire](https://open.spotify.com/album/0Wv1dffJbn76Vsh4CWeoOq) | 4:18 |
 | 47 | [Limbo](https://open.spotify.com/track/5nUrlBwZiaPcCKpBM7iT1W) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Limbo](https://open.spotify.com/album/0xzwaeIpyKeCIPKxSyhxNE) | 4:53 |
 | 48 | [You And I](https://open.spotify.com/track/3vbUfrHlvij1EiBW2CgFEs) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Lighting Up The Sky](https://open.spotify.com/album/178SPEdKkCkZI05AGiZXad) | 5:16 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 74 | [Bitter](https://open.spotify.com/track/5dpaPvjs0mo0DGtpl2PzRJ) | [Outline In Color](https://open.spotify.com/artist/6drAKOLWO1vzBrdmJmg5SE) | [Bitter](https://open.spotify.com/album/0Aw2OPlsqTl8LSXIB7q1BI) | 3:05 |
 | 75 | [The People That We Love \- Golden Dub Remix](https://open.spotify.com/track/1QJpxlH4M7DmSFdIyE7Ekq) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa), [Greg Brimson](https://open.spotify.com/artist/52Fd5EqIgOlMWe3yqd1YMe) | [Golden State \(20th Anniversary Expanded Version\)](https://open.spotify.com/album/43TsRvNOblRitRDfdgu4VS) | 5:42 |
 
-Snapshot ID: `MCw0NDkyYzZmNWQ0YmVjNWIxNTcwZDgwMGZlZTliMjY2NGRiNzdlMTEz`
+Snapshot ID: `MCxiNzdjNmE3Y2QyYjgxMjViNmQ5MDA5NDRmN2U4NmM3ZmM4MjkwMDc0`

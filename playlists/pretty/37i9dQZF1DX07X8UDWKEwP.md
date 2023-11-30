@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 
 > Lo nuevo del mundo tropical\. Cover: Moa Rivera
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,844 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,858 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 19 | [La Fórmula](https://open.spotify.com/track/5Fh9fyHRnSwKLo4asG6fEX) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [La Fórmula](https://open.spotify.com/album/5BMotNmzFRoGABaWM6YFI2) | 4:27 |
 | 20 | [BACANO](https://open.spotify.com/track/7Bm8KAA3mcGu26Vnss7A4f) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [BACANO](https://open.spotify.com/album/6EdNPd2hYgS4AkTk1BNsS0) | 3:10 |
 | 21 | [La Noche Perfecta](https://open.spotify.com/track/7H5YFDcDPy7viAoyVhYwNa) | [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8) | [La Noche Perfecta](https://open.spotify.com/album/68WN58KU9vJg23y9P15Rwa) | 2:45 |
-| 22 | [Me EnRD](https://open.spotify.com/track/3GkctxmZmeGmW4K5Oya0Z1) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Me EnRD](https://open.spotify.com/album/3BumcT1ophGlEOHCi1fzoW) | 3:05 |
-| 23 | [LA CAPI](https://open.spotify.com/track/68OXeY9CUQebrOAAh3b3Jw) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 3:22 |
+| 22 | [LA CAPI](https://open.spotify.com/track/68OXeY9CUQebrOAAh3b3Jw) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 3:22 |
+| 23 | [Me EnRD](https://open.spotify.com/track/3GkctxmZmeGmW4K5Oya0Z1) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Me EnRD](https://open.spotify.com/album/3BumcT1ophGlEOHCi1fzoW) | 3:05 |
 | 24 | [Procura](https://open.spotify.com/track/2RXrX4BuyEPmmRCNzIJsYQ) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Don Juan](https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA) | 3:05 |
 | 25 | [Tú Y Tú](https://open.spotify.com/track/6gnbz54mNEfB82Tl9pv5Z1) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Tú Y Tú](https://open.spotify.com/album/4kWBOGoMzrHdXf4dGzBPXp) | 3:36 |
 | 26 | [Si Tú Me Quieres](https://open.spotify.com/track/6EjZfW6C5msXQNaf1kquu7) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Si Tú Me Quieres](https://open.spotify.com/album/74rEKU2G8oF2VRMjd14IcY) | 3:24 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 40 | [Amantes Suicidas](https://open.spotify.com/track/1JhNmwO8Y04b4XidpSrytb) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Autopoiética](https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI) | 3:58 |
 | 41 | [Bendecido](https://open.spotify.com/track/0ZKCQENt4shhG0rLwot8xB) | [Dale Pututi](https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z), [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Bendecido](https://open.spotify.com/album/3Cuf5Q9DOcTGPUBIl53w00) | 3:23 |
 | 42 | [El Que Ama Sufre](https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:49 |
-| 43 | [MI HOGAR \(with maye\)](https://open.spotify.com/track/19MC63Kwcy5eETHclYnXhe) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 2:55 |
-| 44 | [ORGULLO](https://open.spotify.com/track/6FChr93F3ECYRaIKwL7DOa) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [DESAHOGO](https://open.spotify.com/album/1mMPzNKVMKcgux2WtZx5ak) | 3:22 |
+| 43 | [ORGULLO](https://open.spotify.com/track/6FChr93F3ECYRaIKwL7DOa) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [DESAHOGO](https://open.spotify.com/album/1mMPzNKVMKcgux2WtZx5ak) | 3:22 |
+| 44 | [MI HOGAR \(with maye\)](https://open.spotify.com/track/19MC63Kwcy5eETHclYnXhe) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 2:55 |
 | 45 | [LA FALTA QUE ME HACES \- Bachata Version](https://open.spotify.com/track/2L7Fd4XIh0uxgqYoFt1pT3) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [LA FALTA QUE ME HACES \(Bachata Version\)](https://open.spotify.com/album/0bBc5FTXAPIWwKWzX0oy6x) | 2:51 |
 | 46 | [Para Mi](https://open.spotify.com/track/3mUPsqEeq0GoIv1wSuivqf) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Para Mi](https://open.spotify.com/album/4EN6HX2xApPwC7nA7FjI7k) | 4:27 |
 | 47 | [Bienvenidos a Mi Barrio](https://open.spotify.com/track/4uRBz2dXQnwi0GyZzvijyM) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU) | [Bienvenidos a Mi Barrio](https://open.spotify.com/album/7c6XRLWcvCYf5slViBDKmF) | 2:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 49 | [AVENTURA](https://open.spotify.com/track/02vuof1sWGshy5yJG3HylY) | [ZABDIEL](https://open.spotify.com/artist/3L6TeR5LqiJDpwQQScSuw5), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [AVENTURA](https://open.spotify.com/album/3j7rNxfmagpw3RlQjBJ1Pf) | 3:13 |
 | 50 | [Cuándo](https://open.spotify.com/track/4cQBl4skiG56RMGpu1diV3) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Cuándo](https://open.spotify.com/album/7AFKnMLumDXDJlCr1N3pvp) | 3:26 |
 
-Snapshot ID: `MCxhOGI1MGI1ZTQ0MzJiYjE2Y2EyMTBhYTAzNzMzMTFlOTA2NzA0MmQx`
+Snapshot ID: `MCxmNTQ2YmQ4MjdlNTk0NjYxYjJmOTY1M2I1NzY5OTEyYWVlYzA0YmQ1`

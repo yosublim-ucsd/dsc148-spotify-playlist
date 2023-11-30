@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgzNDY3MDAsMDAwMDAwMDA2Njg0YzNmZjczNTgxNDU0ZTgyNmU0MzE2OGUxNTJhNQ==",
+  "snapshot_id": "MjgzNDY3MDAsMDAwMDAwMDBkZWNkMzUzYjJjNTRiNjcwNTBlODRjNDgxZTY5ZjQ5MQ==",
   "tracks": [
     {
       "added_at": "2023-11-24 05:00:00",
@@ -39,22 +39,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Tree House",
-        "url": "https://open.spotify.com/album/191OQbivDSqVZV55R6adU5"
-      },
-      "artists": [
-        {
-          "name": "Wax",
-          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
-        }
-      ],
-      "duration_ms": 163265,
-      "name": "Tree House",
-      "url": "https://open.spotify.com/track/2huPt3DZ81E48FRDOtFp9j"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Little Bit Yours",
         "url": "https://open.spotify.com/album/1AAnGhmJLEL4usZgEyIS97"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 196092,
       "name": "Little Bit Yours",
       "url": "https://open.spotify.com/track/0LOjVJaTDqXyu37cjUYpT2"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Tree House",
+        "url": "https://open.spotify.com/album/191OQbivDSqVZV55R6adU5"
+      },
+      "artists": [
+        {
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+        }
+      ],
+      "duration_ms": 163265,
+      "name": "Tree House",
+      "url": "https://open.spotify.com/track/2huPt3DZ81E48FRDOtFp9j"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -243,6 +243,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Trial By Fire",
+        "url": "https://open.spotify.com/album/0Tfz5EVaNE6oeAn4vttNEi"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 261014,
+      "name": "Trial By Fire",
+      "url": "https://open.spotify.com/track/6oIGM95s3TIyPqhHIH2AQ6"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Mess It Up (Purple Disco Machine Remix)",
         "url": "https://open.spotify.com/album/0L6IypGWr61krz90boqPDD"
       },
@@ -283,22 +299,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Trial By Fire",
-        "url": "https://open.spotify.com/album/0Tfz5EVaNE6oeAn4vttNEi"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 261014,
-      "name": "Trial By Fire",
-      "url": "https://open.spotify.com/track/6oIGM95s3TIyPqhHIH2AQ6"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Oops! I Did It Again (Metal Version)",
         "url": "https://open.spotify.com/album/1wjwFVzJuiwvWBC8WVDZ8J"
       },
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Rockin' Around the Christmas Tree",
-        "url": "https://open.spotify.com/album/2NI06JGd3C4GHOeM55FXxU"
-      },
-      "artists": [
-        {
-          "name": "Elly Cooke",
-          "url": "https://open.spotify.com/artist/5DqNmryn6SyOwDjfSbwOGe"
-        }
-      ],
-      "duration_ms": 132464,
-      "name": "Rockin' Around the Christmas Tree",
-      "url": "https://open.spotify.com/track/030heL91n8NNvUHZGmAAZy"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Won\u2019t Give Up",
         "url": "https://open.spotify.com/album/1mbW7KLqK1KYVVhUHerePT"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 251913,
       "name": "Won\u2019t Give Up",
       "url": "https://open.spotify.com/track/7iTqDHIAOL0n9wvwGdcTvZ"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Rockin' Around the Christmas Tree",
+        "url": "https://open.spotify.com/album/2NI06JGd3C4GHOeM55FXxU"
+      },
+      "artists": [
+        {
+          "name": "Elly Cooke",
+          "url": "https://open.spotify.com/artist/5DqNmryn6SyOwDjfSbwOGe"
+        }
+      ],
+      "duration_ms": 132464,
+      "name": "Rockin' Around the Christmas Tree",
+      "url": "https://open.spotify.com/track/030heL91n8NNvUHZGmAAZy"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -439,34 +439,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Dernier Homme",
-        "url": "https://open.spotify.com/album/2DREf16BZxyGIUw2yH57Sm"
+        "name": "Live In Helsinki St. John's Church",
+        "url": "https://open.spotify.com/album/3mlEZOZcTZ6NY0jfFg1EaQ"
       },
       "artists": [
         {
-          "name": "Scylla",
-          "url": "https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA"
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
         }
       ],
-      "duration_ms": 146870,
-      "name": "Dernier Homme",
-      "url": "https://open.spotify.com/track/3VctrqSZsnIC8d47Qk4H5c"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Up on the Housetop",
-        "url": "https://open.spotify.com/album/1X9qEFsBIondSzwmT2yPWn"
-      },
-      "artists": [
-        {
-          "name": "August Burns Red",
-          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
-        }
-      ],
-      "duration_ms": 170300,
-      "name": "Up on the Housetop",
-      "url": "https://open.spotify.com/track/1z5GlN4nJElIMEBaiy9FyY"
+      "duration_ms": 235640,
+      "name": "Bittersweet - Live In Helsinki St. John's Church",
+      "url": "https://open.spotify.com/track/0GSBDca01R6z6fUIBDajgn"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -495,18 +479,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Live In Helsinki St. John's Church",
-        "url": "https://open.spotify.com/album/3mlEZOZcTZ6NY0jfFg1EaQ"
+        "name": "Up on the Housetop",
+        "url": "https://open.spotify.com/album/1X9qEFsBIondSzwmT2yPWn"
       },
       "artists": [
         {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+          "name": "August Burns Red",
+          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
         }
       ],
-      "duration_ms": 235640,
-      "name": "Bittersweet - Live In Helsinki St. John's Church",
-      "url": "https://open.spotify.com/track/0GSBDca01R6z6fUIBDajgn"
+      "duration_ms": 170300,
+      "name": "Up on the Housetop",
+      "url": "https://open.spotify.com/track/1z5GlN4nJElIMEBaiy9FyY"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -523,6 +507,22 @@
       "duration_ms": 198546,
       "name": "Loups et panth\u00e8res, Part. 1",
       "url": "https://open.spotify.com/track/1fDDyryqprRpZoHMritwR6"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Dernier Homme",
+        "url": "https://open.spotify.com/album/2DREf16BZxyGIUw2yH57Sm"
+      },
+      "artists": [
+        {
+          "name": "Scylla",
+          "url": "https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA"
+        }
+      ],
+      "duration_ms": 146870,
+      "name": "Dernier Homme",
+      "url": "https://open.spotify.com/track/3VctrqSZsnIC8d47Qk4H5c"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/4amsobhlIB2YEtsZAVbODH"
         }
       ],
-      "duration_ms": 74571,
-      "name": "six a.m. interlude",
-      "url": "https://open.spotify.com/track/6anqQBrQhql6FVLVAEuE43"
+      "duration_ms": 175074,
+      "name": "Marie-No\u00eblle",
+      "url": "https://open.spotify.com/track/4rhroD6kTLbgvLA4MZ1NBT"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

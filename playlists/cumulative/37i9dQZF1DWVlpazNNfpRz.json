@@ -522,10 +522,32 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 172841,
       "name": "El Saxofon",
       "url": "https://open.spotify.com/track/41kzBFAtlgJsFFBwPIZEFd"
+    },
+    {
+      "album": {
+        "name": "El Saxofon",
+        "url": "https://open.spotify.com/album/2SkZQZcTfDMmrnqTfkkDYR"
+      },
+      "artists": [
+        {
+          "name": "Dayvi",
+          "url": "https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf"
+        },
+        {
+          "name": "Karin Vip",
+          "url": "https://open.spotify.com/artist/7kTe6KVpC4Ex2b7XdXbKKU"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172841,
+      "name": "El Saxofon",
+      "url": "https://open.spotify.com/track/5UTbzBOaddB7cVz1xWOvPU"
     },
     {
       "album": {
@@ -1519,6 +1541,28 @@
     },
     {
       "album": {
+        "name": "Sax To Me",
+        "url": "https://open.spotify.com/album/3hDSkYuQHsIUc5sQYY7Laq"
+      },
+      "artists": [
+        {
+          "name": "Dayvi",
+          "url": "https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf"
+        },
+        {
+          "name": "Joseph Qas",
+          "url": "https://open.spotify.com/artist/1vs2vlQyZqBSVeD4ezeICI"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364971,
+      "name": "Sax To Me",
+      "url": "https://open.spotify.com/track/01HkaXEkNgxty2lewZ0jqk"
+    },
+    {
+      "album": {
         "name": "Sax to Me",
         "url": "https://open.spotify.com/album/63GVsnGmXuYtn9zs56ck6Q"
       },
@@ -1534,7 +1578,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 364971,
       "name": "Sax to Me",
       "url": "https://open.spotify.com/track/7oSPHLta1VJPFcUvEE9Gvj"

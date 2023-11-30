@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 452231,
+  "num_followers": 452324,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZmQzNzkxMDdhY2E1N2UwMjI1NGJiODllMWQ3ZDRlYzg2MTRjMGFm",
+  "snapshot_id": "MCwwZDkzMDFhMzkxNjA1ZDhmOTJkZTVkZjlhN2M3YzgxYmM0MTUwMzE1",
   "tracks": [
     {
       "added_at": "2023-11-24 10:53:42",
@@ -939,26 +939,6 @@
     {
       "added_at": "2023-11-24 10:53:42",
       "album": {
-        "name": "Amor Pra Recome\u00e7ar",
-        "url": "https://open.spotify.com/album/2xR4lb0yAglnIoEgdvb7Ch"
-      },
-      "artists": [
-        {
-          "name": "Jopin",
-          "url": "https://open.spotify.com/artist/5eOyNvHjfi9EcXeJwrCroz"
-        },
-        {
-          "name": "Saulo",
-          "url": "https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf"
-        }
-      ],
-      "duration_ms": 158095,
-      "name": "Amor Pra Recome\u00e7ar",
-      "url": "https://open.spotify.com/track/6kNZZrEuRbNevp9dW3RPDX"
-    },
-    {
-      "added_at": "2023-11-24 10:53:42",
-      "album": {
         "name": "Sem Ch\u00e3o (Malemol\u00eancia)",
         "url": "https://open.spotify.com/album/1KMNZU2XgBIFejM1j0DHwR"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 158769,
       "name": "Sem Ch\u00e3o (Malemol\u00eancia)",
       "url": "https://open.spotify.com/track/4DEU9APTmDLxnOsZnxhxI2"
+    },
+    {
+      "added_at": "2023-11-24 10:53:42",
+      "album": {
+        "name": "Amor Pra Recome\u00e7ar",
+        "url": "https://open.spotify.com/album/2xR4lb0yAglnIoEgdvb7Ch"
+      },
+      "artists": [
+        {
+          "name": "Jopin",
+          "url": "https://open.spotify.com/artist/5eOyNvHjfi9EcXeJwrCroz"
+        },
+        {
+          "name": "Saulo",
+          "url": "https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf"
+        }
+      ],
+      "duration_ms": 158095,
+      "name": "Amor Pra Recome\u00e7ar",
+      "url": "https://open.spotify.com/track/6kNZZrEuRbNevp9dW3RPDX"
     },
     {
       "added_at": "2023-11-24 10:53:42",
@@ -1043,8 +1043,8 @@
     {
       "added_at": "2023-11-24 10:53:42",
       "album": {
-        "name": "I Do (with Zeeba)",
-        "url": "https://open.spotify.com/album/1m1opaakLIL6TzL7NjFhso"
+        "name": "Somebody That You Loved",
+        "url": "https://open.spotify.com/album/2hZK1aGxPqE8XMyUK8bV79"
       },
       "artists": [
         {
@@ -1052,13 +1052,13 @@
           "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
         },
         {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+          "name": "New Hope Club",
+          "url": "https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez"
         }
       ],
-      "duration_ms": 173446,
-      "name": "I Do - with Zeeba",
-      "url": "https://open.spotify.com/track/6lgLLgwC7vKguYUPSszMNt"
+      "duration_ms": 215998,
+      "name": "Somebody That You Loved",
+      "url": "https://open.spotify.com/track/2x6kFL5AIIwacxHySO4mXP"
     },
     {
       "added_at": "2023-11-24 10:53:42",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-11-24 10:53:42",
       "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/3akUV8y4pLkrrUA1Lbc2x9"
-      },
-      "artists": [
-        {
-          "name": "Rooftime",
-          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
-        }
-      ],
-      "duration_ms": 179016,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/6ukDui4jshflTw5yHIwIzE"
-    },
-    {
-      "added_at": "2023-11-24 10:53:42",
-      "album": {
         "name": "Halfway (feat. Twan Ray)",
         "url": "https://open.spotify.com/album/3Ql67TcOvEK8VOSML3UEv1"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 158416,
       "name": "Halfway (feat. Twan Ray)",
       "url": "https://open.spotify.com/track/1BAupWJ7hkJFJuOL0eHb45"
+    },
+    {
+      "added_at": "2023-11-24 10:53:42",
+      "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/3akUV8y4pLkrrUA1Lbc2x9"
+      },
+      "artists": [
+        {
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+        }
+      ],
+      "duration_ms": 179016,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/6ukDui4jshflTw5yHIwIzE"
     },
     {
       "added_at": "2023-11-24 10:53:42",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-11-24 10:53:42",
       "album": {
-        "name": "Mais um Dia",
-        "url": "https://open.spotify.com/album/5sdl2ykjnptMYB9ohAAxLR"
-      },
-      "artists": [
-        {
-          "name": "Breno Miranda",
-          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
-        }
-      ],
-      "duration_ms": 138536,
-      "name": "Mais um Dia",
-      "url": "https://open.spotify.com/track/3ITlmTf0fgkY0YLWUQzGfk"
-    },
-    {
-      "added_at": "2023-11-24 10:53:42",
-      "album": {
         "name": "In The End (Remix)",
         "url": "https://open.spotify.com/album/1z6wwp7VQY84KsH60ZeJh3"
       },
@@ -1231,6 +1215,22 @@
     {
       "added_at": "2023-11-24 10:53:42",
       "album": {
+        "name": "Mais um Dia",
+        "url": "https://open.spotify.com/album/5sdl2ykjnptMYB9ohAAxLR"
+      },
+      "artists": [
+        {
+          "name": "Breno Miranda",
+          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
+        }
+      ],
+      "duration_ms": 138536,
+      "name": "Mais um Dia",
+      "url": "https://open.spotify.com/track/3ITlmTf0fgkY0YLWUQzGfk"
+    },
+    {
+      "added_at": "2023-11-24 10:53:42",
+      "album": {
         "name": "Foreplay (Radio Edit)",
         "url": "https://open.spotify.com/album/4ZgMwbe1DsUSI23WrtzVra"
       },
@@ -1251,8 +1251,8 @@
     {
       "added_at": "2023-11-24 10:53:42",
       "album": {
-        "name": "Somebody That You Loved",
-        "url": "https://open.spotify.com/album/2hZK1aGxPqE8XMyUK8bV79"
+        "name": "I Do (with Zeeba)",
+        "url": "https://open.spotify.com/album/1m1opaakLIL6TzL7NjFhso"
       },
       "artists": [
         {
@@ -1260,13 +1260,13 @@
           "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
         },
         {
-          "name": "New Hope Club",
-          "url": "https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez"
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
         }
       ],
-      "duration_ms": 215998,
-      "name": "Somebody That You Loved",
-      "url": "https://open.spotify.com/track/2x6kFL5AIIwacxHySO4mXP"
+      "duration_ms": 173446,
+      "name": "I Do - with Zeeba",
+      "url": "https://open.spotify.com/track/6lgLLgwC7vKguYUPSszMNt"
     },
     {
       "added_at": "2023-11-24 10:53:42",
@@ -1295,6 +1295,26 @@
     {
       "added_at": "2023-11-24 10:53:42",
       "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/0TLb9JNDquLhasSkRI0mxA"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Double MZK",
+          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/5DEy27mge0YVglYMfjgak6"
+    },
+    {
+      "added_at": "2023-11-24 10:53:42",
+      "album": {
         "name": "Dentro de um Abra\u00e7o (Pic Schmitz e Breno Rocha Remix)",
         "url": "https://open.spotify.com/album/6g9xyadZnZXOlRDLUaq73M"
       },
@@ -1315,26 +1335,6 @@
       "duration_ms": 158824,
       "name": "Dentro de um Abra\u00e7o - Pic Schmitz e Breno Rocha Remix",
       "url": "https://open.spotify.com/track/48NmUbjBeqaHbYJwl8xFm4"
-    },
-    {
-      "added_at": "2023-11-24 10:53:42",
-      "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/0TLb9JNDquLhasSkRI0mxA"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Double MZK",
-          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/5DEy27mge0YVglYMfjgak6"
     },
     {
       "added_at": "2023-11-24 10:53:42",
@@ -1443,50 +1443,6 @@
     {
       "added_at": "2023-11-24 10:53:42",
       "album": {
-        "name": "Imprevis\u00edvel (Overdriver Duo e Guz Zanotto Remix)",
-        "url": "https://open.spotify.com/album/1qa0nujY9Mf2HdbL86o7GW"
-      },
-      "artists": [
-        {
-          "name": "Jota Quest",
-          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
-        },
-        {
-          "name": "Overdriver Duo",
-          "url": "https://open.spotify.com/artist/37knAlDxPb6FSnBQJNzM18"
-        },
-        {
-          "name": "Guz Zanotto",
-          "url": "https://open.spotify.com/artist/4s2oHxyGNA3QZBeWELgBJI"
-        }
-      ],
-      "duration_ms": 215806,
-      "name": "Imprevis\u00edvel - Overdriver Duo e Guz Zanotto Remix",
-      "url": "https://open.spotify.com/track/3z51kAmAca2StfedNebGNe"
-    },
-    {
-      "added_at": "2023-11-24 10:53:42",
-      "album": {
-        "name": "Youngr",
-        "url": "https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "Shaun Jacobs",
-          "url": "https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP"
-        }
-      ],
-      "duration_ms": 175204,
-      "name": "Youngr",
-      "url": "https://open.spotify.com/track/29q1t40crnI8D5tLGYMgn8"
-    },
-    {
-      "added_at": "2023-11-24 10:53:42",
-      "album": {
         "name": "Todo Homem (Bhaskar, Mojjo Remix)",
         "url": "https://open.spotify.com/album/3Yo6lJRghDLJlv9v0oqyoN"
       },
@@ -1511,22 +1467,66 @@
     {
       "added_at": "2023-11-24 10:53:42",
       "album": {
-        "name": "O Amor \u00e9 o Segredo (Dre Guazelli Remix Radio Edit)",
-        "url": "https://open.spotify.com/album/4Ed15mSBTFC3isoPAijpcR"
+        "name": "Youngr",
+        "url": "https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz"
       },
       "artists": [
         {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
         },
         {
-          "name": "Dre Guazzelli",
-          "url": "https://open.spotify.com/artist/4NnfyZ8ExJjtf6vuWHPoNl"
+          "name": "Shaun Jacobs",
+          "url": "https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP"
         }
       ],
-      "duration_ms": 168572,
-      "name": "O Amor \u00e9 o Segredo - Dre Guazelli Remix Radio Edit",
-      "url": "https://open.spotify.com/track/3AUwUpkVKa1gQ74gxxV49z"
+      "duration_ms": 175204,
+      "name": "Youngr",
+      "url": "https://open.spotify.com/track/29q1t40crnI8D5tLGYMgn8"
+    },
+    {
+      "added_at": "2023-11-24 10:53:42",
+      "album": {
+        "name": "Imprevis\u00edvel (Overdriver Duo e Guz Zanotto Remix)",
+        "url": "https://open.spotify.com/album/1qa0nujY9Mf2HdbL86o7GW"
+      },
+      "artists": [
+        {
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+        },
+        {
+          "name": "Overdriver Duo",
+          "url": "https://open.spotify.com/artist/37knAlDxPb6FSnBQJNzM18"
+        },
+        {
+          "name": "Guz Zanotto",
+          "url": "https://open.spotify.com/artist/4s2oHxyGNA3QZBeWELgBJI"
+        }
+      ],
+      "duration_ms": 215806,
+      "name": "Imprevis\u00edvel - Overdriver Duo e Guz Zanotto Remix",
+      "url": "https://open.spotify.com/track/3z51kAmAca2StfedNebGNe"
+    },
+    {
+      "added_at": "2023-11-24 10:53:42",
+      "album": {
+        "name": "PQP A Vida \u00c9 Boa Demais",
+        "url": "https://open.spotify.com/album/2JmmMClnqqzOqlT0uJOT3C"
+      },
+      "artists": [
+        {
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+        },
+        {
+          "name": "Ralk",
+          "url": "https://open.spotify.com/artist/5fL22gqogawtrDsvcNVyyC"
+        }
+      ],
+      "duration_ms": 194285,
+      "name": "PQP A Vida \u00c9 Boa Demais",
+      "url": "https://open.spotify.com/track/3ArUQ2uOknm7t3xIKu4zFb"
     }
   ],
   "unique_name": "Festa na Praia",

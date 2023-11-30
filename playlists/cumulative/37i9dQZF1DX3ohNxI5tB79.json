@@ -1752,10 +1752,28 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 458605,
       "name": "Lost Kingdoms",
       "url": "https://open.spotify.com/track/17YIpKXRkKKqvb8ZbzyOG1"
+    },
+    {
+      "album": {
+        "name": "Nubya's 5ive",
+        "url": "https://open.spotify.com/album/6gVTOEeb9Hd1EO4A6kYEOE"
+      },
+      "artists": [
+        {
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458605,
+      "name": "Lost Kingdoms",
+      "url": "https://open.spotify.com/track/6eTT6SQgTfXiKXdvMe0ZID"
     },
     {
       "album": {

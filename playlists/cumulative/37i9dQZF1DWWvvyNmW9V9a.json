@@ -9654,7 +9654,7 @@
     {
       "album": {
         "name": "if u think i'm pretty",
-        "url": "https://open.spotify.com/album/6qGsOOm1b2ZwG58fQp617s"
+        "url": "https://open.spotify.com/album/4bH2fufFWKIdtVbOI8em1u"
       },
       "artists": [
         {
@@ -9665,6 +9665,24 @@
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 128205,
+      "name": "if u think i'm pretty",
+      "url": "https://open.spotify.com/track/34Yl756FwYuZldE9xnshj5"
+    },
+    {
+      "album": {
+        "name": "if u think i'm pretty",
+        "url": "https://open.spotify.com/album/6qGsOOm1b2ZwG58fQp617s"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-30",
       "duration_ms": 128205,
       "name": "if u think i'm pretty",
       "url": "https://open.spotify.com/track/3RWl1dP90FXmZDUeIAO20j"
@@ -17187,6 +17205,24 @@
     },
     {
       "album": {
+        "name": "ORANGE BLOOD",
+        "url": "https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186119,
+      "name": "Still Monster",
+      "url": "https://open.spotify.com/track/6tuTpe37ljVcrJeZAAKBE1"
+    },
+    {
+      "album": {
         "name": "FOUR (Deluxe)",
         "url": "https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY"
       },
@@ -21416,6 +21452,24 @@
       "duration_ms": 177188,
       "name": "Yours (feat. Bea Miller)",
       "url": "https://open.spotify.com/track/1OYchHxLhckxWStYd5qTyq"
+    },
+    {
+      "album": {
+        "name": "You're Losing Me (From The Vault)",
+        "url": "https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277831,
+      "name": "You\u2019re Losing Me (From The Vault)",
+      "url": "https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4"
     },
     {
       "album": {

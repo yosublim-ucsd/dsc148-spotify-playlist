@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Merengue de los 80 y 90! Portada: Johnny Ventura",
-  "num_followers": 177978,
+  "num_followers": 178026,
   "original_name": "Merengue Cl\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTQxZWUzNGUwMWQ2ZTMzNGE3OTQxMDdhYjk1NTA3YjA1Y2Y5MGVm",
+  "snapshot_id": "MCw3ODY5M2U4YzlmZWVjOTcxZDdlNDIyNzYxYmYzZGM3NWQ1MmQ4ZTYw",
   "tracks": [
     {
       "added_at": "2021-02-02 01:24:47",
@@ -659,22 +659,6 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
-        "name": "Resistire",
-        "url": "https://open.spotify.com/album/7pjcMXlN1lxfgBu0Z3ODFy"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Rosario",
-          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
-        }
-      ],
-      "duration_ms": 310226,
-      "name": "Resistire",
-      "url": "https://open.spotify.com/track/7FsESZMkzIJYQAekB2BsIb"
-    },
-    {
-      "added_at": "2021-02-02 01:24:47",
-      "album": {
         "name": "Por un Poco de Amor",
         "url": "https://open.spotify.com/album/3j56jEfANtsYlTJ9mzCaq3"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 218000,
       "name": "Que Pasara",
       "url": "https://open.spotify.com/track/3t8PVrZMstgAeWuIzUZSHU"
+    },
+    {
+      "added_at": "2021-02-02 01:24:47",
+      "album": {
+        "name": "Resistire",
+        "url": "https://open.spotify.com/album/7pjcMXlN1lxfgBu0Z3ODFy"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Rosario",
+          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
+        }
+      ],
+      "duration_ms": 310226,
+      "name": "Resistire",
+      "url": "https://open.spotify.com/track/7FsESZMkzIJYQAekB2BsIb"
     },
     {
       "added_at": "2021-02-02 01:24:47",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
-        "name": "10 De Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/4se9bp1pffpDBHyzFWD4YV"
+        "name": "Con el Alma",
+        "url": "https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA"
       },
       "artists": [
         {
-          "name": "Johnny Ventura",
-          "url": "https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus"
+          "name": "El Zafiro Carlos Manuel & Orquesta",
+          "url": "https://open.spotify.com/artist/3SGgOQadDSfvUmlinqyxE6"
         }
       ],
-      "duration_ms": 251066,
-      "name": "\u00bfPitaste?",
-      "url": "https://open.spotify.com/track/45uhX5tj1cWfUAcYEPHnds"
+      "duration_ms": 229053,
+      "name": "Dominicano Ausente",
+      "url": "https://open.spotify.com/track/19McMfrjItYsAIu8Cx3pcc"
     },
     {
       "added_at": "2021-02-02 01:24:47",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
-        "name": "Con el Alma",
-        "url": "https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA"
+        "name": "10 De Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/4se9bp1pffpDBHyzFWD4YV"
       },
       "artists": [
         {
-          "name": "El Zafiro Carlos Manuel & Orquesta",
-          "url": "https://open.spotify.com/artist/3SGgOQadDSfvUmlinqyxE6"
+          "name": "Johnny Ventura",
+          "url": "https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus"
         }
       ],
-      "duration_ms": 229053,
-      "name": "Dominicano Ausente",
-      "url": "https://open.spotify.com/track/19McMfrjItYsAIu8Cx3pcc"
+      "duration_ms": 251066,
+      "name": "\u00bfPitaste?",
+      "url": "https://open.spotify.com/track/45uhX5tj1cWfUAcYEPHnds"
     },
     {
       "added_at": "2021-02-02 01:24:47",
@@ -1963,6 +1963,22 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
+        "name": "Buscando Tus Besos",
+        "url": "https://open.spotify.com/album/1l02hyM8dkgdC3ujkxiBmT"
+      },
+      "artists": [
+        {
+          "name": "Rubby P\u00e9rez",
+          "url": "https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx"
+        }
+      ],
+      "duration_ms": 206493,
+      "name": "Te Odio y Te Quiero",
+      "url": "https://open.spotify.com/track/14L7HV9ybYWOTD784H3oxy"
+    },
+    {
+      "added_at": "2021-02-02 01:24:47",
+      "album": {
         "name": "Todos Exitos, Vol. 1",
         "url": "https://open.spotify.com/album/4T55O9faGJeB8MeMTFHOhs"
       },
@@ -1983,22 +1999,6 @@
       "duration_ms": 291240,
       "name": "Feliciana",
       "url": "https://open.spotify.com/track/6f77ESDOzi93Ssq7tw0Xr8"
-    },
-    {
-      "added_at": "2021-02-02 01:24:47",
-      "album": {
-        "name": "Buscando Tus Besos",
-        "url": "https://open.spotify.com/album/1l02hyM8dkgdC3ujkxiBmT"
-      },
-      "artists": [
-        {
-          "name": "Rubby P\u00e9rez",
-          "url": "https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx"
-        }
-      ],
-      "duration_ms": 206493,
-      "name": "Te Odio y Te Quiero",
-      "url": "https://open.spotify.com/track/14L7HV9ybYWOTD784H3oxy"
     },
     {
       "added_at": "2021-02-02 01:24:47",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
-        "name": "Merengues Clasicos",
-        "url": "https://open.spotify.com/album/31J6VDIACumUD54CCTx2m9"
-      },
-      "artists": [
-        {
-          "name": "La Orquesta Joven",
-          "url": "https://open.spotify.com/artist/1gPNsezZhRqdoT1PBJj2RK"
-        }
-      ],
-      "duration_ms": 259360,
-      "name": "Te Buscare",
-      "url": "https://open.spotify.com/track/3aJmmroC0mLNEoB8oYWjkI"
-    },
-    {
-      "added_at": "2021-02-02 01:24:47",
-      "album": {
         "name": "La Gozadera",
         "url": "https://open.spotify.com/album/7q1Je0pbosmOx0cQq2ubKK"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 245420,
       "name": "Cuando Me Enamora",
       "url": "https://open.spotify.com/track/1aZJr8j1ohkai58pEAImxA"
+    },
+    {
+      "added_at": "2021-02-02 01:24:47",
+      "album": {
+        "name": "Merengues Clasicos",
+        "url": "https://open.spotify.com/album/31J6VDIACumUD54CCTx2m9"
+      },
+      "artists": [
+        {
+          "name": "La Orquesta Joven",
+          "url": "https://open.spotify.com/artist/1gPNsezZhRqdoT1PBJj2RK"
+        }
+      ],
+      "duration_ms": 259360,
+      "name": "Te Buscare",
+      "url": "https://open.spotify.com/track/3aJmmroC0mLNEoB8oYWjkI"
     },
     {
       "added_at": "2021-02-02 01:24:47",
@@ -2220,9 +2220,9 @@
           "url": "https://open.spotify.com/artist/3SGgOQadDSfvUmlinqyxE6"
         }
       ],
-      "duration_ms": 229920,
-      "name": "Que Es Lo Que Tienes",
-      "url": "https://open.spotify.com/track/4Xo6Fx0K5fJHMSj6fxiOOt"
+      "duration_ms": 242613,
+      "name": "Con las Manos en la Masa",
+      "url": "https://open.spotify.com/track/6fowwGHZH717DW2PfrvI7O"
     },
     {
       "added_at": "2021-02-02 01:24:47",
@@ -2348,25 +2348,9 @@
           "url": "https://open.spotify.com/artist/3SGgOQadDSfvUmlinqyxE6"
         }
       ],
-      "duration_ms": 242613,
-      "name": "Con las Manos en la Masa",
-      "url": "https://open.spotify.com/track/6fowwGHZH717DW2PfrvI7O"
-    },
-    {
-      "added_at": "2021-02-02 01:24:47",
-      "album": {
-        "name": "Ineditos",
-        "url": "https://open.spotify.com/album/4KgURbQPHQi1qOn2tY9Ra1"
-      },
-      "artists": [
-        {
-          "name": "Monchy Capricho",
-          "url": "https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua"
-        }
-      ],
-      "duration_ms": 294607,
-      "name": "Adolescente Tu",
-      "url": "https://open.spotify.com/track/4SYDVdaVe7JoGP9eh1wewN"
+      "duration_ms": 229920,
+      "name": "Que Es Lo Que Tienes",
+      "url": "https://open.spotify.com/track/4Xo6Fx0K5fJHMSj6fxiOOt"
     },
     {
       "added_at": "2021-02-02 01:24:47",
@@ -2387,6 +2371,22 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
+        "name": "Ineditos",
+        "url": "https://open.spotify.com/album/4KgURbQPHQi1qOn2tY9Ra1"
+      },
+      "artists": [
+        {
+          "name": "Monchy Capricho",
+          "url": "https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua"
+        }
+      ],
+      "duration_ms": 294607,
+      "name": "Adolescente Tu",
+      "url": "https://open.spotify.com/track/4SYDVdaVe7JoGP9eh1wewN"
+    },
+    {
+      "added_at": "2021-02-02 01:24:47",
+      "album": {
         "name": "Miriam Collection",
         "url": "https://open.spotify.com/album/44sB3FF1kgY4dg4ny6uK65"
       },
@@ -2399,22 +2399,6 @@
       "duration_ms": 259519,
       "name": "La Loba",
       "url": "https://open.spotify.com/track/3wVkSqFV273UbwCfSRETYk"
-    },
-    {
-      "added_at": "2021-02-02 01:24:47",
-      "album": {
-        "name": "Merengues Clasicos Vol 2",
-        "url": "https://open.spotify.com/album/44foj0bwD1wWLHgg9wBvAh"
-      },
-      "artists": [
-        {
-          "name": "La Patrulla 15",
-          "url": "https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O"
-        }
-      ],
-      "duration_ms": 375320,
-      "name": "Yo me siento enamorao",
-      "url": "https://open.spotify.com/track/1xRwSSLRWQkxsWMlAVzZtY"
     },
     {
       "added_at": "2021-02-02 01:24:47",
@@ -2435,6 +2419,22 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
+        "name": "Merengues Clasicos Vol 2",
+        "url": "https://open.spotify.com/album/44foj0bwD1wWLHgg9wBvAh"
+      },
+      "artists": [
+        {
+          "name": "La Patrulla 15",
+          "url": "https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O"
+        }
+      ],
+      "duration_ms": 375320,
+      "name": "Yo me siento enamorao",
+      "url": "https://open.spotify.com/track/1xRwSSLRWQkxsWMlAVzZtY"
+    },
+    {
+      "added_at": "2021-02-02 01:24:47",
+      "album": {
         "name": "Merengues Cl\u00e1sicos de los 80\u00b4s, Vol. 2",
         "url": "https://open.spotify.com/album/4bqLEMteQgRgtms9cXiIIE"
       },
@@ -2451,18 +2451,18 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
-        "name": "Merengon",
-        "url": "https://open.spotify.com/album/2tYiN3NWPLJ3rYRhIZfyka"
+        "name": "Merengues Cl\u00e1sicos de los 80\u00b4s, Vol. 3",
+        "url": "https://open.spotify.com/album/7g6Kdd3Hh8SUmEhAtlbbPv"
       },
       "artists": [
         {
-          "name": "La Gran Manzana",
-          "url": "https://open.spotify.com/artist/7fFNqvCPf1xyrqvkFnImMF"
+          "name": "Confusion",
+          "url": "https://open.spotify.com/artist/6AcXxqmUIDCs3VRkWWRcgE"
         }
       ],
-      "duration_ms": 295077,
-      "name": "Tus Besos Son",
-      "url": "https://open.spotify.com/track/77efkShul1aVJMJWGgtB5l"
+      "duration_ms": 316302,
+      "name": "Caminando por la Vida",
+      "url": "https://open.spotify.com/track/44XXBf7NYly5Xsiuo7n6tu"
     }
   ],
   "unique_name": "Merengue Cl\u00e1sico",

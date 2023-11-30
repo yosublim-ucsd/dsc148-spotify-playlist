@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6pI50XnTRh.md) - [plain]
 
 > Nostalgic '70\-ies and '80\-ies Funk, Disco, Boogie and Afropop music which lit up night clubs across Africa\. Get your boogie on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,578 likes - 50 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,613 likes - 50 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6pI50XnTRh.md) - [plain]
 | 40 | [Baby Kilode](https://open.spotify.com/track/0PYDivZavH4ndRJB6E5iUu) | [Dizzy K Falola](https://open.spotify.com/artist/4QebwA96fgRFgzeXzx9dmj) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 4:25 |
 | 41 | [The Warrior](https://open.spotify.com/track/5wY3a0tPSmZvdAxi9JfrRK) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Ojah Awake](https://open.spotify.com/album/4jklZxOxbnLsIdCCSTdn63) | 3:46 |
 | 42 | [Tire Ni Oluwa](https://open.spotify.com/track/5uHK9zXW1KGWnw9fRYLyq0) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [3rd World](https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE) | 8:21 |
-| 43 | [Friends](https://open.spotify.com/track/6TzkJUYcxbSHMiVYz3HpKl) | [Shalamar](https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A) | [Friends / Go For It](https://open.spotify.com/album/39jaUqZfh7YUgQnemcgnXF) | 5:00 |
-| 44 | [Desires](https://open.spotify.com/track/70hmwFSb9YzERFImtL91va) | [Rafael Cameron](https://open.spotify.com/artist/12Kkris6XNRRceFq7WoTer) | [Cameron All The Way](https://open.spotify.com/album/48ScPXf83K5S2XPvZqh5l3) | 6:51 |
+| 43 | [Desires](https://open.spotify.com/track/70hmwFSb9YzERFImtL91va) | [Rafael Cameron](https://open.spotify.com/artist/12Kkris6XNRRceFq7WoTer) | [Cameron All The Way](https://open.spotify.com/album/48ScPXf83K5S2XPvZqh5l3) | 6:51 |
+| 44 | [Friends](https://open.spotify.com/track/6TzkJUYcxbSHMiVYz3HpKl) | [Shalamar](https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A) | [Friends / Go For It](https://open.spotify.com/album/39jaUqZfh7YUgQnemcgnXF) | 5:00 |
 | 45 | [The Hustle \- Original Mix](https://open.spotify.com/track/75PHqzep3Lf11sIYP5ps5q) | [Van McCoy](https://open.spotify.com/artist/0bShb58TO0fM5jOjXhB1WT) | [The Hustle & The Best of Van McCoy](https://open.spotify.com/album/0QdIm38ml7jHplmYOqazbF) | 4:10 |
 | 46 | [Going Back to My Roots](https://open.spotify.com/track/3Ls5qhpvs46HkG12xCh3bD) | [Lamont Dozier](https://open.spotify.com/artist/6Dpx8fRtNa9CEORHIiBQTG) | [Discomania: Hits Dance 70\-80, Vol\. 6](https://open.spotify.com/album/2lEVsqT80Q3vnYlRkUEZ1d) | 4:38 |
 | 47 | [Jingo](https://open.spotify.com/track/1C9XAjzr0pd1yE76TD3FM3) | [Candido](https://open.spotify.com/artist/6PyAzOON3Toc5MPZrZMA5i) | [Discomania: Hits Dance 70\-80, Vol\. 6](https://open.spotify.com/album/2lEVsqT80Q3vnYlRkUEZ1d) | 6:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6pI50XnTRh.md) - [plain]
 | 49 | [Love for the Sake of Love](https://open.spotify.com/track/3XfO4iKlM7fdoiJ4uz1wku) | [Claudia Barry](https://open.spotify.com/artist/5Y4hAdGj1mciEktS39vJYN) | [Discomania: Hits Dance 70\-80, Vol\. 6](https://open.spotify.com/album/2lEVsqT80Q3vnYlRkUEZ1d) | 4:27 |
 | 50 | [Trinidad \- Special Disco Mix](https://open.spotify.com/track/4Qb0va1gzVonFxU7vghCfp) | [John Gibbs](https://open.spotify.com/artist/0sByuZOX52ihgJcBMs4i0a), [U.S\. Steel Orchestra](https://open.spotify.com/artist/3Rd64MZkwo6mAbERZVt1aR) | [Joey Negro and Sean P present The Best of Disco Spectrum](https://open.spotify.com/album/4U62xyQiPH0CcBc5INVDK2) | 5:04 |
 
-Snapshot ID: `MCwxNGIyOWEwZDIyZTY5MGFmZGNjNWE2YTg0MDNlNzgzYmNiMDljMjgw`
+Snapshot ID: `MCw2OTZhZmZmOTAwNjFjYTllYTkwZjVmYmM1NGJiMDVhNjg1ZDFkY2Fh`

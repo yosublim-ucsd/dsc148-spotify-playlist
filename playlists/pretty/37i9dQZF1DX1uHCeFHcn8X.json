@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 2010s. ",
-  "num_followers": 1060447,
+  "num_followers": 1060824,
   "original_name": "Soft 10s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzQzNGQ1NWIwN2FjMWIyM2Q4N2VjZmU2ZmY1NmI2YTI2M2NmMzg1",
+  "snapshot_id": "MCw0MjliZGE0OWE4ZDZmODJkZmEyYTliNTc1NzI2YzY0ZGNkMTNlYTk1",
   "tracks": [
     {
       "added_at": "2023-04-05 17:26:45",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-04-05 17:26:45",
       "album": {
-        "name": "My Dear Melancholy,",
-        "url": "https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 228373,
-      "name": "Call Out My Name",
-      "url": "https://open.spotify.com/track/09mEdoA6zrmBPgTEN5qXmN"
-    },
-    {
-      "added_at": "2023-04-05 17:26:45",
-      "album": {
         "name": "Back from the Edge",
         "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 211466,
       "name": "Say You Won't Let Go",
       "url": "https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh"
+    },
+    {
+      "added_at": "2023-04-05 17:26:45",
+      "album": {
+        "name": "My Dear Melancholy,",
+        "url": "https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 228373,
+      "name": "Call Out My Name",
+      "url": "https://open.spotify.com/track/09mEdoA6zrmBPgTEN5qXmN"
     },
     {
       "added_at": "2023-04-05 17:26:45",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-04-05 17:26:45",
       "album": {
-        "name": "JORDI (Deluxe)",
-        "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 189486,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI"
-    },
-    {
-      "added_at": "2023-04-05 17:26:45",
-      "album": {
         "name": "Mylo Xyloto",
         "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 278719,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D"
+    },
+    {
+      "added_at": "2023-04-05 17:26:45",
+      "album": {
+        "name": "JORDI (Deluxe)",
+        "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 189486,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI"
     },
     {
       "added_at": "2023-04-05 17:26:45",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-04-05 17:26:45",
       "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 231826,
-      "name": "Blank Space",
-      "url": "https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky"
-    },
-    {
-      "added_at": "2023-04-05 17:26:45",
-      "album": {
         "name": "us",
         "url": "https://open.spotify.com/album/3L0H4RjVXpEkwfDgi3XOdf"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 205686,
       "name": "Hold Me While You Wait",
       "url": "https://open.spotify.com/track/60iSKGrGazRzICtMjADNSM"
+    },
+    {
+      "added_at": "2023-04-05 17:26:45",
+      "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 231826,
+      "name": "Blank Space",
+      "url": "https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky"
     },
     {
       "added_at": "2023-04-05 17:26:45",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-04-05 17:26:45",
       "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 285935,
-      "name": "Love In The Dark",
-      "url": "https://open.spotify.com/track/7B5Npv8NjjTCzk8PLpU66h"
-    },
-    {
-      "added_at": "2023-04-05 17:26:45",
-      "album": {
         "name": "Cloud Nine",
         "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 223186,
       "name": "Stole the Show",
       "url": "https://open.spotify.com/track/5masKPHeAOVNgxdLebIcK7"
+    },
+    {
+      "added_at": "2023-04-05 17:26:45",
+      "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 285935,
+      "name": "Love In The Dark",
+      "url": "https://open.spotify.com/track/7B5Npv8NjjTCzk8PLpU66h"
     },
     {
       "added_at": "2023-04-05 17:26:45",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2023-04-05 17:26:45",
       "album": {
-        "name": "Staying at Tamara's",
-        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 211763,
-      "name": "Hold My Girl",
-      "url": "https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu"
-    },
-    {
-      "added_at": "2023-04-05 17:26:45",
-      "album": {
         "name": "All Your Fault: Pt. 2",
         "url": "https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 163870,
       "name": "Meant to Be (feat. Florida Georgia Line)",
       "url": "https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn"
+    },
+    {
+      "added_at": "2023-04-05 17:26:45",
+      "album": {
+        "name": "Staying at Tamara's",
+        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 211763,
+      "name": "Hold My Girl",
+      "url": "https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu"
     },
     {
       "added_at": "2023-04-05 17:26:45",
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2023-04-05 17:26:45",
       "album": {
-        "name": "Leave a Light On",
-        "url": "https://open.spotify.com/album/3pczowjToa5SYsI6Th4KO8"
-      },
-      "artists": [
-        {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
-        }
-      ],
-      "duration_ms": 185863,
-      "name": "Leave a Light On",
-      "url": "https://open.spotify.com/track/6lOWoTqVnAWXchddtTH31W"
-    },
-    {
-      "added_at": "2023-04-05 17:26:45",
-      "album": {
         "name": "Suncity",
         "url": "https://open.spotify.com/album/2Qxc2NJ7yPKVFRWi3llRr2"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 229320,
       "name": "Better",
       "url": "https://open.spotify.com/track/6zeeWid2sgw4lap2jV61PZ"
+    },
+    {
+      "added_at": "2023-04-05 17:26:45",
+      "album": {
+        "name": "Leave a Light On",
+        "url": "https://open.spotify.com/album/3pczowjToa5SYsI6Th4KO8"
+      },
+      "artists": [
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "duration_ms": 185863,
+      "name": "Leave a Light On",
+      "url": "https://open.spotify.com/track/6lOWoTqVnAWXchddtTH31W"
     },
     {
       "added_at": "2023-04-05 17:26:45",
@@ -2431,22 +2431,6 @@
     {
       "added_at": "2023-04-05 17:26:45",
       "album": {
-        "name": "Lost Boy",
-        "url": "https://open.spotify.com/album/7drYNu2imHk188vP81icR3"
-      },
-      "artists": [
-        {
-          "name": "Ruth B.",
-          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
-        }
-      ],
-      "duration_ms": 275280,
-      "name": "Lost Boy",
-      "url": "https://open.spotify.com/track/4h0zU3O9R5xzuTmNO7dNDU"
-    },
-    {
-      "added_at": "2023-04-05 17:26:45",
-      "album": {
         "name": "Kaleidoscope Dream",
         "url": "https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD"
       },
@@ -2459,6 +2443,22 @@
       "duration_ms": 193146,
       "name": "Adorn",
       "url": "https://open.spotify.com/track/25cUhiAod71TIQSNicOaW3"
+    },
+    {
+      "added_at": "2023-04-05 17:26:45",
+      "album": {
+        "name": "Lost Boy",
+        "url": "https://open.spotify.com/album/7drYNu2imHk188vP81icR3"
+      },
+      "artists": [
+        {
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        }
+      ],
+      "duration_ms": 275280,
+      "name": "Lost Boy",
+      "url": "https://open.spotify.com/track/4h0zU3O9R5xzuTmNO7dNDU"
     },
     {
       "added_at": "2023-04-05 17:26:45",
@@ -2635,18 +2635,22 @@
     {
       "added_at": "2023-04-05 17:26:45",
       "album": {
-        "name": "The Awakening",
-        "url": "https://open.spotify.com/album/7poZ9Yjx1nBxpTrUAm7feN"
+        "name": "Nine Track Mind",
+        "url": "https://open.spotify.com/album/3kndSWeE2IYOrZEToZrHEV"
       },
       "artists": [
         {
-          "name": "James Morrison",
-          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
         }
       ],
-      "duration_ms": 229303,
-      "name": "I Won't Let You Go",
-      "url": "https://open.spotify.com/track/2TUzU4IkfH8kcvY2MUlsd2"
+      "duration_ms": 217706,
+      "name": "We Don't Talk Anymore (feat. Selena Gomez)",
+      "url": "https://open.spotify.com/track/37FXw5QGFN7uwwsLy8uAc0"
     },
     {
       "added_at": "2023-04-05 17:26:45",
@@ -2667,22 +2671,18 @@
     {
       "added_at": "2023-04-05 17:26:45",
       "album": {
-        "name": "Nine Track Mind",
-        "url": "https://open.spotify.com/album/3kndSWeE2IYOrZEToZrHEV"
+        "name": "The Awakening",
+        "url": "https://open.spotify.com/album/7poZ9Yjx1nBxpTrUAm7feN"
       },
       "artists": [
         {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+          "name": "James Morrison",
+          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
         }
       ],
-      "duration_ms": 217706,
-      "name": "We Don't Talk Anymore (feat. Selena Gomez)",
-      "url": "https://open.spotify.com/track/37FXw5QGFN7uwwsLy8uAc0"
+      "duration_ms": 229303,
+      "name": "I Won't Let You Go",
+      "url": "https://open.spotify.com/track/2TUzU4IkfH8kcvY2MUlsd2"
     },
     {
       "added_at": "2023-04-05 17:26:45",
@@ -2855,22 +2855,6 @@
     {
       "added_at": "2023-04-05 17:26:45",
       "album": {
-        "name": "Once Upon a Mind",
-        "url": "https://open.spotify.com/album/4gkWfdUgz4jWrGx4sKQpb4"
-      },
-      "artists": [
-        {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
-        }
-      ],
-      "duration_ms": 259991,
-      "name": "Monsters",
-      "url": "https://open.spotify.com/track/4SykS8RWkF6eK6xeua7XLP"
-    },
-    {
-      "added_at": "2023-04-05 17:26:45",
-      "album": {
         "name": "channel ORANGE",
         "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
       },
@@ -2883,6 +2867,22 @@
       "duration_ms": 262680,
       "name": "Sweet Life",
       "url": "https://open.spotify.com/track/6MEDfjHxnVNcYmHe3mM6L2"
+    },
+    {
+      "added_at": "2023-04-05 17:26:45",
+      "album": {
+        "name": "Once Upon a Mind",
+        "url": "https://open.spotify.com/album/4gkWfdUgz4jWrGx4sKQpb4"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "duration_ms": 259991,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/4SykS8RWkF6eK6xeua7XLP"
     },
     {
       "added_at": "2023-04-05 17:26:45",
@@ -3319,22 +3319,6 @@
     {
       "added_at": "2023-04-05 17:26:45",
       "album": {
-        "name": "Songs I Wrote in My Bedroom",
-        "url": "https://open.spotify.com/album/46NEhlXaMzNTg19kSBthTv"
-      },
-      "artists": [
-        {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
-        }
-      ],
-      "duration_ms": 222467,
-      "name": "Trying My Best",
-      "url": "https://open.spotify.com/track/6hjh2phISvfR1Ib6S0FK7b"
-    },
-    {
-      "added_at": "2023-04-05 17:26:45",
-      "album": {
         "name": "A Seat at the Table",
         "url": "https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM"
       },
@@ -3347,6 +3331,22 @@
       "duration_ms": 250973,
       "name": "Cranes in the Sky",
       "url": "https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe"
+    },
+    {
+      "added_at": "2023-04-05 17:26:45",
+      "album": {
+        "name": "Songs I Wrote in My Bedroom",
+        "url": "https://open.spotify.com/album/46NEhlXaMzNTg19kSBthTv"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "duration_ms": 222467,
+      "name": "Trying My Best",
+      "url": "https://open.spotify.com/track/6hjh2phISvfR1Ib6S0FK7b"
     },
     {
       "added_at": "2023-04-05 17:26:45",
@@ -3499,22 +3499,6 @@
     {
       "added_at": "2023-04-05 17:26:45",
       "album": {
-        "name": "The Boy Who Cried Wolf",
-        "url": "https://open.spotify.com/album/2sGDQ4EeMBzUf7r21JyrNV"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 228480,
-      "name": "Simple Song",
-      "url": "https://open.spotify.com/track/70HWRkitkAKfos500LBk0T"
-    },
-    {
-      "added_at": "2023-04-05 17:26:45",
-      "album": {
         "name": "LOVE AND COMPROMISE",
         "url": "https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA"
       },
@@ -3531,6 +3515,22 @@
       "duration_ms": 206946,
       "name": "What You Did (feat. Ella Mai)",
       "url": "https://open.spotify.com/track/2B7UWqNqKgPVGQQ6FXn2PP"
+    },
+    {
+      "added_at": "2023-04-05 17:26:45",
+      "album": {
+        "name": "The Boy Who Cried Wolf",
+        "url": "https://open.spotify.com/album/2sGDQ4EeMBzUf7r21JyrNV"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 228480,
+      "name": "Simple Song",
+      "url": "https://open.spotify.com/track/70HWRkitkAKfos500LBk0T"
     },
     {
       "added_at": "2023-04-05 17:26:45",

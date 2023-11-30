@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "From sultry vocalists, sexy divas to cutesy girl-groups, the women of K-Pop are a formidable force to be reckoned with. (Cover: \bJessi(\uc81c\uc2dc)) (\ucf00\uc774\ud31d\uc744 \ub300\ud45c\ud558\ub294 \ud55c\uad6d\uc758 \uc5ec\uc131 \uac00\uc218\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "name": "EQUAL K-Pop",
+  "description": "2023\ub144 \bEQUAL K-Pop\uc744 \ube5b\ub0b8 \ud2b8\ub799\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694! (Highlights of 2023, listen to women at full volume.) (Cover: Jessi)",
+  "name": "EQUAL K-Pop: Best of 2023",
   "tracks": [
     {
       "album": {
@@ -348,7 +348,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-19",
+      "date_removed": null,
       "duration_ms": 180066,
       "name": "Attention",
       "url": "https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9"
@@ -424,7 +424,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 154360,
       "name": "Baddie",
       "url": "https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ"
@@ -442,7 +442,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 194426,
       "name": "BBIBBI",
       "url": "https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa"
@@ -550,7 +550,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 203216,
       "name": "Better Things",
       "url": "https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl"
@@ -860,7 +860,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 198887,
       "name": "CAKE",
       "url": "https://open.spotify.com/track/3syxwxJqX5jpgjNYmvzdW6"
@@ -1004,7 +1004,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 135428,
       "name": "Chili",
       "url": "https://open.spotify.com/track/253P6uwLnelVQ6MdwXMIJk"
@@ -1022,7 +1022,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 214800,
       "name": "Chill Kill",
       "url": "https://open.spotify.com/track/68gQG2HpRMxIRom4pCugMq"
@@ -1094,7 +1094,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-08",
+      "date_removed": null,
       "duration_ms": 235562,
       "name": "Cookie",
       "url": "https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg"
@@ -1148,7 +1148,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 174253,
       "name": "Cupid",
       "url": "https://open.spotify.com/track/36ylDwMUz1EqrdbfBF8vC7"
@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-25",
+      "date_removed": null,
       "duration_ms": 174253,
       "name": "Cupid",
       "url": "https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV"
@@ -1202,7 +1202,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 199873,
       "name": "DALLA DALLA",
       "url": "https://open.spotify.com/track/38rUIlTX93Aoif3WcY1wv6"
@@ -1332,6 +1332,24 @@
       "duration_ms": 209207,
       "name": "Dilemma",
       "url": "https://open.spotify.com/track/3j0x2BUUtm2obQXS1lZuN3"
+    },
+    {
+      "album": {
+        "name": "Ditto",
+        "url": "https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185506,
+      "name": "Ditto",
+      "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
     },
     {
       "album": {
@@ -1476,7 +1494,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 214973,
       "name": "Drama",
       "url": "https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew"
@@ -1512,7 +1530,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-04",
+      "date_removed": null,
       "duration_ms": 147240,
       "name": "DUMB DUMB",
       "url": "https://open.spotify.com/track/5VXSt0cvi5wtJTox0wKI4x"
@@ -1584,7 +1602,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 151373,
       "name": "ETA",
       "url": "https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d"
@@ -1772,10 +1790,28 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 168437,
       "name": "FEARLESS",
       "url": "https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj"
+    },
+    {
+      "album": {
+        "name": "UNFORGIVEN",
+        "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168437,
+      "name": "FEARLESS (2023 Ver.)",
+      "url": "https://open.spotify.com/track/4K8jDTlNhZWEdnzZVGRMtN"
     },
     {
       "album": {
@@ -2028,7 +2064,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-26",
+      "date_removed": null,
       "duration_ms": 164186,
       "name": "Generation",
       "url": "https://open.spotify.com/track/1RHTdr5QfviCYI70QPPDJN"
@@ -2068,7 +2104,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 220878,
       "name": "GODS",
       "url": "https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g"
@@ -2484,7 +2520,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 150176,
       "name": "I Love My Body",
       "url": "https://open.spotify.com/track/0pHylQR53epYtRcVIhUSCh"
@@ -2556,7 +2592,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-17",
+      "date_removed": null,
       "duration_ms": 195053,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/396FqjKmViUZ92Wmm4rx3i"
@@ -2766,7 +2802,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 191050,
       "name": "Kill This Love",
       "url": "https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V"
@@ -2802,7 +2838,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 185920,
       "name": "Killin\u2019 Me Good",
       "url": "https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7"
@@ -2950,7 +2986,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 218993,
       "name": "La Vie en Rose",
       "url": "https://open.spotify.com/track/3WfaJhCL4p2JbdffJjV6Va"
@@ -2968,7 +3004,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 200689,
       "name": "LALISA",
       "url": "https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6"
@@ -3376,7 +3412,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 168227,
       "name": "MONEY",
       "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
@@ -3686,7 +3722,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 108986,
       "name": "New Jeans",
       "url": "https://open.spotify.com/track/6rdkCkjk6D12xRpdMXy0I2"
@@ -3730,7 +3766,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 161120,
       "name": "NOBODY",
       "url": "https://open.spotify.com/track/4loUHO28CuvSbEiZXId1BD"
@@ -3928,7 +3964,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 196826,
       "name": "PANDORA",
       "url": "https://open.spotify.com/track/70yszWsLJvNZuZwaHNMROf"
@@ -3964,7 +4000,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 159080,
       "name": "Perfect Night",
       "url": "https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8"
@@ -4029,6 +4065,24 @@
     },
     {
       "album": {
+        "name": "BORN PINK",
+        "url": "https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186964,
+      "name": "Pink Venom",
+      "url": "https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY"
+    },
+    {
+      "album": {
         "name": "PLAY",
         "url": "https://open.spotify.com/album/7tzaUrzvzQGfqvzsYzSODr"
       },
@@ -4080,7 +4134,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 197288,
       "name": "PLAYING WITH FIRE",
       "url": "https://open.spotify.com/track/7qmvLmX9tyaTiBAVNI6YEn"
@@ -4718,7 +4772,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 213426,
       "name": "RUN2U",
       "url": "https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8"
@@ -4884,10 +4938,28 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 175889,
       "name": "Shut Down",
       "url": "https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF"
+    },
+    {
+      "album": {
+        "name": "BORN PINK",
+        "url": "https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175889,
+      "name": "Shut Down",
+      "url": "https://open.spotify.com/track/7gRFDGEzF9UkBV233yv2dc"
     },
     {
       "album": {
@@ -4924,7 +4996,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-19",
+      "date_removed": null,
       "duration_ms": 173413,
       "name": "SMILEY(Feat. BIBI)",
       "url": "https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF"
@@ -4996,7 +5068,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 169566,
       "name": "SOLO",
       "url": "https://open.spotify.com/track/2wVDWtLKXunswWecARNILj"
@@ -5104,7 +5176,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-31",
+      "date_removed": null,
       "duration_ms": 232813,
       "name": "Stamp On It",
       "url": "https://open.spotify.com/track/0mlxHb4jbPr1PUBUv0WHRS"
@@ -5176,7 +5248,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 166560,
       "name": "STRANGER",
       "url": "https://open.spotify.com/track/3SifPlW12FRs8OQP2VkXSi"
@@ -5288,7 +5360,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-30",
+      "date_removed": null,
       "duration_ms": 189773,
       "name": "Teddy Bear",
       "url": "https://open.spotify.com/track/4kSDi21MeOoSvpZs6MveI9"
@@ -5440,7 +5512,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 162000,
       "name": "THE GIRLS - BLACKPINK THE GAME OST",
       "url": "https://open.spotify.com/track/1mFpMoeZfkIqtqW2AfQ8ba"
@@ -5484,7 +5556,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 167661,
       "name": "The Weekend",
       "url": "https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq"
@@ -5846,7 +5918,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-24",
+      "date_removed": null,
       "duration_ms": 183693,
       "name": "WA DA DA",
       "url": "https://open.spotify.com/track/4gdiCHNbwugojBqr5Jt3pq"
@@ -6136,7 +6208,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 211631,
       "name": "WHISTLE",
       "url": "https://open.spotify.com/track/6NEoeBLQbOMw92qMeLfI40"
@@ -6280,7 +6352,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-04",
+      "date_removed": null,
       "duration_ms": 207650,
       "name": "XOXO",
       "url": "https://open.spotify.com/track/4r34Yi0eltsu1tp6z4lq3x"
@@ -6496,7 +6568,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 174840,
       "name": "ZOOM",
       "url": "https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9"

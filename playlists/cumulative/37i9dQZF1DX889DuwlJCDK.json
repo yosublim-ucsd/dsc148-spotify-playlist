@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "BAKAYAROU",
+        "url": "https://open.spotify.com/album/3FIcKXJ2RYMuErFhB29ckJ"
+      },
+      "artists": [
+        {
+          "name": "push pull pot",
+          "url": "https://open.spotify.com/artist/0777DLWkvCQkjaokIVNOEq"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125710,
+      "name": "BAKAYAROU",
+      "url": "https://open.spotify.com/track/5aXwPIF4ekP4H2ogEmtoUR"
+    },
+    {
+      "album": {
         "name": "Banka no Akashi",
         "url": "https://open.spotify.com/album/7Dfb8hb12z23KuFpeLnmjJ"
       },
@@ -456,6 +474,24 @@
       "duration_ms": 194425,
       "name": "Breakout",
       "url": "https://open.spotify.com/track/18khd1ouJWDsrs6pO9V1Oq"
+    },
+    {
+      "album": {
+        "name": "Candle",
+        "url": "https://open.spotify.com/album/1Dy7aa6yDhK1X0RdrVnHhq"
+      },
+      "artists": [
+        {
+          "name": "\u30de\u30eb\u30b7\u30a3",
+          "url": "https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235346,
+      "name": "Calm",
+      "url": "https://open.spotify.com/track/0B4QXKyErj0nhM2WZZeUoR"
     },
     {
       "album": {
@@ -1284,6 +1320,28 @@
       "duration_ms": 186590,
       "name": "Kokkisin",
       "url": "https://open.spotify.com/track/3xN7nR1BQt9PewgVODVuit"
+    },
+    {
+      "album": {
+        "name": "KYOMEI(feat.Ivy to Fraudulent Game)",
+        "url": "https://open.spotify.com/album/7m5HdqMg5WvJ3nCIPOr6Ow"
+      },
+      "artists": [
+        {
+          "name": "osage",
+          "url": "https://open.spotify.com/artist/4PC4yqIacQxiKL43y2Ml5x"
+        },
+        {
+          "name": "Ivy to Fraudulent Game",
+          "url": "https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232363,
+      "name": "KYOMEI(feat.Ivy to Fraudulent Game)",
+      "url": "https://open.spotify.com/track/7rrFaAwjCgNFkjISH56lfj"
     },
     {
       "album": {
@@ -2418,10 +2476,28 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 152248,
       "name": "TIME MACHINE",
       "url": "https://open.spotify.com/track/1fnLf1qtIoQY7nAMzbvtA3"
+    },
+    {
+      "album": {
+        "name": "Time Machine",
+        "url": "https://open.spotify.com/album/1U1vyMpmjLIPGwC8zWmVT7"
+      },
+      "artists": [
+        {
+          "name": "The Whoops",
+          "url": "https://open.spotify.com/artist/0wNomLWF4Yg4XN2hHlP3Cz"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152248,
+      "name": "Time Machine",
+      "url": "https://open.spotify.com/track/24BRqjvg2RPJ5LAq05rzpm"
     },
     {
       "album": {
@@ -3822,7 +3898,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 125710,
       "name": "\u30d0\u30ab\u3084\u308d\u3046",
       "url": "https://open.spotify.com/track/3c1lVtugII7ZdWW6vns2m2"
@@ -4546,7 +4622,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 232363,
       "name": "\u5171\u76df(feat.Ivy to Fraudulent Game)",
       "url": "https://open.spotify.com/track/4PvsM2w1wfLVZx4XPNBR7J"
@@ -4582,7 +4658,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 235346,
       "name": "\u51ea",
       "url": "https://open.spotify.com/track/0o0i6AYvStQb7W7AK3KCwr"

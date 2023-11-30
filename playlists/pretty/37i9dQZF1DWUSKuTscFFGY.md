@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSKuTscFFGY.md) - [plain]
 
 > Découvrez les meilleures nouveautés pop\. Photo : Zara Larsson
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,280 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,307 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSKuTscFFGY.md) - [plain]
 | 8 | [Is It Love](https://open.spotify.com/track/5JEzgajKcC4eIQfRu3cZk7) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Is It Love](https://open.spotify.com/album/6fYOQSJpXKdVBkD09Kg2lf) | 2:23 |
 | 9 | [Answer The Night](https://open.spotify.com/track/2UXwNpOkKaT4Mg55t7rpQF) | [Aime Simone](https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM) | [Oh Glory](https://open.spotify.com/album/5yDHs2AqfwT1sPxUlQDzQt) | 3:20 |
 | 10 | [Is It Over Now? \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:49 |
-| 11 | [Throw Your Arms Around Me](https://open.spotify.com/track/0CVwSCQOx3CMHjwDCmaElh) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Mushroom: 50 Years Of Making Noise \(Reimagined\)](https://open.spotify.com/album/4SRtPtUkg4izzJZ2Kr2LMJ) | 3:03 |
+| 11 | [Throw Your Arms Around Me](https://open.spotify.com/track/0CVwSCQOx3CMHjwDCmaElh) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Mushroom: 50 Years of Making Noise \(Reimagined\)](https://open.spotify.com/album/4SRtPtUkg4izzJZ2Kr2LMJ) | 3:03 |
 | 12 | [One Of Your Girls](https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s) | 3:01 |
 | 13 | [Can’t Catch Me Now \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/56xHMIfQPoe0prrSi3BGhf) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [Can’t Catch Me Now \(from The Hunger Games: The Ballad of Songbirds & Snakes\)](https://open.spotify.com/album/07J7Q3Z7V00LvCxqzVqj9s) | 3:25 |
 | 14 | [Hard to Love](https://open.spotify.com/track/6QV6miSjUtqppivpjwDZgI) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Hard To Love](https://open.spotify.com/album/0jXxDV0TkGE6f5MezsGFrU) | 2:47 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSKuTscFFGY.md) - [plain]
 | 59 | [Swinging at the Stars](https://open.spotify.com/track/0plgpP6pbcptrfbCEHKKcA) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Just Because](https://open.spotify.com/album/2ArWkmluhZLOmbwCfyKurF) | 3:43 |
 | 60 | [not a king](https://open.spotify.com/track/4FVzimiTl5SZXWMVgJ4nEe) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [Gathered By The Lantern](https://open.spotify.com/album/5zkd8WmnZPaQUdFe360xfM) | 2:29 |
 
-Snapshot ID: `MCw2ODBkNDY1NjQ0ZmZkMzVhNDJiYzhhNzljZGY5N2MxZWU1YmFkNWRm`
+Snapshot ID: `MCw0NDQ0ZmU0N2E0NzQxNzAxMWU0ZmIyOGE3NmQ1OTNlYjNlOTg3YWNl`

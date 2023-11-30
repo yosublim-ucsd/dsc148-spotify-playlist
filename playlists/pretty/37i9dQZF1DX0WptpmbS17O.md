@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0WptpmbS17O.md) - [plain]
 
 > I'd come back if you'd just call
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,398 likes - 81 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,597 likes - 81 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0WptpmbS17O.md) - [plain]
 | 23 | [When I Get My Hands On You](https://open.spotify.com/track/4Fs6KJzg4d0xrGZt7wrC0M) | [The New Basement Tapes](https://open.spotify.com/artist/2oQpz9DEfhuSbuT8hjhTDK) | [Lost On The River](https://open.spotify.com/album/0P08GE8Ep1eBK9dOnaYdRq) | 3:10 |
 | 24 | [Sleeping Alone](https://open.spotify.com/track/7Jv0DExnLwItv5yVTBWelP) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Homeland Insecurity](https://open.spotify.com/album/3zroVeqEo7fIQ55qf3A422) | 3:50 |
 | 25 | [68](https://open.spotify.com/track/1qlyWMMDGkXAjFehdUKGJ7) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [68](https://open.spotify.com/album/51JORfnib4vdjiXHAouErb) | 3:27 |
-| 26 | [Straight and Narrow](https://open.spotify.com/track/3fonAuTvuI5KMcmnueLAPq) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Million Eyes](https://open.spotify.com/album/5jrPhnzA00KBWc3bJJUqTY) | 3:19 |
+| 26 | [Straight and Narrow](https://open.spotify.com/track/30fbAXFjj9feoB56NbLFN0) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Straight and Narrow](https://open.spotify.com/album/38SBM2jhA27kEq2SrgfS89) | 3:19 |
 | 27 | [Kudzu Wild](https://open.spotify.com/track/4j1l5Rg4CWNcxkn8ufyaaU) | [Drayton Farley](https://open.spotify.com/artist/05o2ENqv0CV8aD6BWKEaBD) | [Kudzu Wild EP](https://open.spotify.com/album/2whtcaldUmd7gStU8c01th) | 3:28 |
 | 28 | [Break My Heart](https://open.spotify.com/track/27ZePBIuQwaBQ1PgqwdL8t) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Break My Heart](https://open.spotify.com/album/5268EaZWA8tsSTTWHrDGbF) | 4:12 |
 | 29 | [Like Real People Do](https://open.spotify.com/track/57V4uc2b2diZ4RPHXWecb9) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 3:18 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0WptpmbS17O.md) - [plain]
 | 80 | [Would You Mind Please Pulling Me Close?](https://open.spotify.com/track/7aEiyMXBfAvmeRYFz9mOwi) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Would You Mind Please Pulling Me Close?](https://open.spotify.com/album/4hWXo3TffCSjs4GknfVrdu) | 4:03 |
 | 81 | [Mend](https://open.spotify.com/track/4cPfB5tsbx3qLOAguHIsFS) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Reckless](https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio) | 4:53 |
 
-Snapshot ID: `MCxiOTA4NmRjMTZiYzJmZDBmMTcyZWJmOTQ3OTZkZGIwZGMzYzgwNGU3`
+Snapshot ID: `MCxmMDZkZjI5MzE2ZTQ3ZDIyYmYzNGUwMGI1ZWU0OTBiOTBlNjE0YzFk`

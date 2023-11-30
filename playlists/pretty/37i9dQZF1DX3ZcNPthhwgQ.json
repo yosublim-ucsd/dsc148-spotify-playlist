@@ -1,12 +1,12 @@
 {
   "description": "Las rolas para escuchar mientras trabajas.",
-  "num_followers": 181566,
+  "num_followers": 181642,
   "original_name": "Chambeando",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlM2U0YWRhNTI3ZmZlZjU2ZGZhZjE0ZmUyZjczY2UyZjlkYzE1ZDBk",
+  "snapshot_id": "MCxlNDgzNzE4ODVhY2QwZDY3OWFiY2VkODMzYTU3ODI2ZjI4MzllYjdl",
   "tracks": [
     {
       "added_at": "2023-10-06 02:04:15",
@@ -159,22 +159,18 @@
     {
       "added_at": "2023-10-06 02:04:15",
       "album": {
-        "name": "Ella Baila Sola",
-        "url": "https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU"
+        "name": "Nata Montana",
+        "url": "https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU"
       },
       "artists": [
         {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 165671,
-      "name": "Ella Baila Sola",
-      "url": "https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb"
+      "duration_ms": 188666,
+      "name": "Mi Bello Angel",
+      "url": "https://open.spotify.com/track/4t46soaqA758rbukTO5pp1"
     },
     {
       "added_at": "2023-10-06 02:04:15",
@@ -199,18 +195,22 @@
     {
       "added_at": "2023-10-06 02:04:15",
       "album": {
-        "name": "Nata Montana",
-        "url": "https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU"
+        "name": "Ella Baila Sola",
+        "url": "https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU"
       },
       "artists": [
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 188666,
-      "name": "Mi Bello Angel",
-      "url": "https://open.spotify.com/track/4t46soaqA758rbukTO5pp1"
+      "duration_ms": 165671,
+      "name": "Ella Baila Sola",
+      "url": "https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb"
     },
     {
       "added_at": "2023-10-06 02:04:15",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2023-10-06 02:04:15",
       "album": {
+        "name": "De Hoy En Adelante, Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 151386,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/5Ei8EK2uXNkqqVSe2QYsFp"
+    },
+    {
+      "added_at": "2023-10-06 02:04:15",
+      "album": {
         "name": "Calidad",
         "url": "https://open.spotify.com/album/2ZaaYylAxHJ6sPJe9mHwHb"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 170053,
       "name": "Calidad",
       "url": "https://open.spotify.com/track/0uBcoM4zxRXk7kmsmxoiFS"
-    },
-    {
-      "added_at": "2023-10-06 02:04:15",
-      "album": {
-        "name": "De Hoy En Adelante, Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 151386,
-      "name": "Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/5Ei8EK2uXNkqqVSe2QYsFp"
     },
     {
       "added_at": "2023-10-06 02:04:15",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2023-10-06 02:04:15",
       "album": {
+        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 237080,
+      "name": "Ojos Verdes",
+      "url": "https://open.spotify.com/track/6981hdSOqG8tP6xTqaySa1"
+    },
+    {
+      "added_at": "2023-10-06 02:04:15",
+      "album": {
         "name": "Andamos Mejor",
         "url": "https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 163560,
       "name": "Mi \u00daltimo Deseo",
       "url": "https://open.spotify.com/track/01ksPzu3Bw8Lsf9o6xIk8C"
-    },
-    {
-      "added_at": "2023-10-06 02:04:15",
-      "album": {
-        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 237080,
-      "name": "Ojos Verdes",
-      "url": "https://open.spotify.com/track/6981hdSOqG8tP6xTqaySa1"
     },
     {
       "added_at": "2023-10-06 02:04:15",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2023-10-06 02:04:15",
       "album": {
+        "name": "Somos Arrieros",
+        "url": "https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 156792,
+      "name": "Vida Ventajosa",
+      "url": "https://open.spotify.com/track/72kaj3MRKcGnv2dbukJQRA"
+    },
+    {
+      "added_at": "2023-10-06 02:04:15",
+      "album": {
         "name": "Di Que Si",
         "url": "https://open.spotify.com/album/5YFKVLWDPKkm94RWatZu9e"
       },
@@ -1739,22 +1755,6 @@
     {
       "added_at": "2023-10-06 02:04:15",
       "album": {
-        "name": "Somos Arrieros",
-        "url": "https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 156792,
-      "name": "Vida Ventajosa",
-      "url": "https://open.spotify.com/track/72kaj3MRKcGnv2dbukJQRA"
-    },
-    {
-      "added_at": "2023-10-06 02:04:15",
-      "album": {
         "name": "Pura Manzanita Vol. 3",
         "url": "https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7"
       },
@@ -1771,22 +1771,6 @@
       "duration_ms": 234592,
       "name": "Mentiras",
       "url": "https://open.spotify.com/track/3jRZg6U0m9Ir115Wt66ebU"
-    },
-    {
-      "added_at": "2023-10-06 02:04:15",
-      "album": {
-        "name": "T\u00fa",
-        "url": "https://open.spotify.com/album/6goSFfGUhQrxImb5hFvQOc"
-      },
-      "artists": [
-        {
-          "name": "Los Elegantes de Jerez",
-          "url": "https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav"
-        }
-      ],
-      "duration_ms": 194266,
-      "name": "T\u00fa",
-      "url": "https://open.spotify.com/track/5GkeaIeCEfB0LOqk7sIVHQ"
     },
     {
       "added_at": "2023-10-06 02:04:15",
@@ -1823,6 +1807,22 @@
     {
       "added_at": "2023-10-06 02:04:15",
       "album": {
+        "name": "T\u00fa",
+        "url": "https://open.spotify.com/album/6goSFfGUhQrxImb5hFvQOc"
+      },
+      "artists": [
+        {
+          "name": "Los Elegantes de Jerez",
+          "url": "https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav"
+        }
+      ],
+      "duration_ms": 194266,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/5GkeaIeCEfB0LOqk7sIVHQ"
+    },
+    {
+      "added_at": "2023-10-06 02:04:15",
+      "album": {
         "name": "Corridos 602",
         "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
       },
@@ -1855,18 +1855,18 @@
     {
       "added_at": "2023-10-06 02:04:15",
       "album": {
-        "name": "Punto y Aparte",
-        "url": "https://open.spotify.com/album/7Gz10vsu3ws0QRJpAHpuL0"
+        "name": "D\u00e9cimo Aniversario",
+        "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
       },
       "artists": [
         {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 158918,
-      "name": "Punto y Aparte",
-      "url": "https://open.spotify.com/track/7z2Z8mwfsoMnNArKB946gU"
+      "duration_ms": 164360,
+      "name": "Tranquilito",
+      "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
     },
     {
       "added_at": "2023-10-06 02:04:15",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2023-10-06 02:04:15",
       "album": {
-        "name": "D\u00e9cimo Aniversario",
-        "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 164360,
-      "name": "Tranquilito",
-      "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
-    },
-    {
-      "added_at": "2023-10-06 02:04:15",
-      "album": {
         "name": "Our Wave Nuestra Ola",
         "url": "https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo"
       },
@@ -1923,22 +1907,18 @@
     {
       "added_at": "2023-10-06 02:04:15",
       "album": {
-        "name": "Felicidades",
-        "url": "https://open.spotify.com/album/6yZG4ygkTClT7lTi73n9fl"
+        "name": "Punto y Aparte",
+        "url": "https://open.spotify.com/album/7Gz10vsu3ws0QRJpAHpuL0"
       },
       "artists": [
         {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 189696,
-      "name": "Felicidades",
-      "url": "https://open.spotify.com/track/3RxqFMGljx897MC9yApidW"
+      "duration_ms": 158918,
+      "name": "Punto y Aparte",
+      "url": "https://open.spotify.com/track/7z2Z8mwfsoMnNArKB946gU"
     },
     {
       "added_at": "2023-10-06 02:04:15",
@@ -1975,18 +1955,22 @@
     {
       "added_at": "2023-10-06 02:04:15",
       "album": {
-        "name": "DEV, Vol. 2",
-        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
+        "name": "Felicidades",
+        "url": "https://open.spotify.com/album/6yZG4ygkTClT7lTi73n9fl"
       },
       "artists": [
         {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 189408,
-      "name": "Ya Acabo",
-      "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
+      "duration_ms": 189696,
+      "name": "Felicidades",
+      "url": "https://open.spotify.com/track/3RxqFMGljx897MC9yApidW"
     },
     {
       "added_at": "2023-10-06 02:04:15",
@@ -2007,6 +1991,22 @@
       "duration_ms": 206956,
       "name": "T\u00fa Me Gustas",
       "url": "https://open.spotify.com/track/30TZy1etY3FAGBDGS58hRj"
+    },
+    {
+      "added_at": "2023-10-06 02:04:15",
+      "album": {
+        "name": "DEV, Vol. 2",
+        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 189408,
+      "name": "Ya Acabo",
+      "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
     },
     {
       "added_at": "2023-10-06 02:04:15",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2023-10-06 02:04:15",
       "album": {
-        "name": "El Trabajo Es La Suerte",
-        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "La Casita",
-      "url": "https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ"
-    },
-    {
-      "added_at": "2023-10-06 02:04:15",
-      "album": {
         "name": "Corleone",
         "url": "https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 203829,
       "name": "Hoy Todo Cambio",
       "url": "https://open.spotify.com/track/1tinKBj5pMxJswRan96Mj7"
+    },
+    {
+      "added_at": "2023-10-06 02:04:15",
+      "album": {
+        "name": "El Trabajo Es La Suerte",
+        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "La Casita",
+      "url": "https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ"
     },
     {
       "added_at": "2023-10-06 02:04:15",
@@ -2179,6 +2179,22 @@
     {
       "added_at": "2023-10-06 02:04:15",
       "album": {
+        "name": "De Hoy En Adelante, Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 165933,
+      "name": "Aqu\u00ed Algo Cambi\u00f3",
+      "url": "https://open.spotify.com/track/7wfzVpDwmkpIlQ35vTl6OG"
+    },
+    {
+      "added_at": "2023-10-06 02:04:15",
+      "album": {
         "name": "Si Lo Digo Es Porque Puedo",
         "url": "https://open.spotify.com/album/36T7295UHRjUmh2HxKNkDR"
       },
@@ -2195,34 +2211,18 @@
     {
       "added_at": "2023-10-06 02:04:15",
       "album": {
-        "name": "Money",
-        "url": "https://open.spotify.com/album/2Jj4mjzEDaXp9X3AHpo5Gu"
+        "name": "Corridos B\u00e9licos, Vol. 2",
+        "url": "https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS"
       },
       "artists": [
         {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 235328,
-      "name": "El Doctor",
-      "url": "https://open.spotify.com/track/2g12ZAzSIybDe6QC3w9DYl"
-    },
-    {
-      "added_at": "2023-10-06 02:04:15",
-      "album": {
-        "name": "De Hoy En Adelante, Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 165933,
-      "name": "Aqu\u00ed Algo Cambi\u00f3",
-      "url": "https://open.spotify.com/track/7wfzVpDwmkpIlQ35vTl6OG"
+      "duration_ms": 174863,
+      "name": "Me Met\u00ed En El Ruedo",
+      "url": "https://open.spotify.com/track/7KNSQcLwrl3bNEuV1OVHtv"
     },
     {
       "added_at": "2023-10-06 02:04:15",
@@ -2247,18 +2247,18 @@
     {
       "added_at": "2023-10-06 02:04:15",
       "album": {
-        "name": "Corridos B\u00e9licos, Vol. 2",
-        "url": "https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS"
+        "name": "Money",
+        "url": "https://open.spotify.com/album/2Jj4mjzEDaXp9X3AHpo5Gu"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         }
       ],
-      "duration_ms": 174863,
-      "name": "Me Met\u00ed En El Ruedo",
-      "url": "https://open.spotify.com/track/7KNSQcLwrl3bNEuV1OVHtv"
+      "duration_ms": 235328,
+      "name": "El Doctor",
+      "url": "https://open.spotify.com/track/2g12ZAzSIybDe6QC3w9DYl"
     },
     {
       "added_at": "2023-10-06 02:04:15",
@@ -2319,22 +2319,6 @@
     {
       "added_at": "2023-10-06 02:04:15",
       "album": {
-        "name": "Si Fuera F\u00e1cil",
-        "url": "https://open.spotify.com/album/3CUu8nxAMyjCiTeGyiBOKE"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 170496,
-      "name": "Si Fuera F\u00e1cil",
-      "url": "https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3"
-    },
-    {
-      "added_at": "2023-10-06 02:04:15",
-      "album": {
         "name": "Consejos Gratis",
         "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
       },
@@ -2347,6 +2331,22 @@
       "duration_ms": 122096,
       "name": "Como Quieras Quiero",
       "url": "https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p"
+    },
+    {
+      "added_at": "2023-10-06 02:04:15",
+      "album": {
+        "name": "Ya No Vives En M\u00ed",
+        "url": "https://open.spotify.com/album/61NkuD5RHMUdi46sxcvCKE"
+      },
+      "artists": [
+        {
+          "name": "Banda Clave Nueva",
+          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
+        }
+      ],
+      "duration_ms": 209586,
+      "name": "Cu\u00e1l Adi\u00f3s",
+      "url": "https://open.spotify.com/track/5R9lPFnoJGppR1MsI7vHxy"
     },
     {
       "added_at": "2023-10-06 02:04:15",
@@ -2371,22 +2371,6 @@
     {
       "added_at": "2023-10-06 02:04:15",
       "album": {
-        "name": "Ya No Vives En M\u00ed",
-        "url": "https://open.spotify.com/album/61NkuD5RHMUdi46sxcvCKE"
-      },
-      "artists": [
-        {
-          "name": "Banda Clave Nueva",
-          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
-        }
-      ],
-      "duration_ms": 209586,
-      "name": "Cu\u00e1l Adi\u00f3s",
-      "url": "https://open.spotify.com/track/5R9lPFnoJGppR1MsI7vHxy"
-    },
-    {
-      "added_at": "2023-10-06 02:04:15",
-      "album": {
         "name": "Gracias Por Creer",
         "url": "https://open.spotify.com/album/0NAHsxTJDSwjwetzFTJnJz"
       },
@@ -2399,22 +2383,6 @@
       "duration_ms": 187640,
       "name": "Mi Segunda Vida",
       "url": "https://open.spotify.com/track/6Z7f0BXDLI8k4CHR9KJdAD"
-    },
-    {
-      "added_at": "2023-10-06 02:04:15",
-      "album": {
-        "name": "Simplemente Gracias",
-        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 203200,
-      "name": "Simplemente Gracias",
-      "url": "https://open.spotify.com/track/3K6noLeoPTQJ5jUErC8jT5"
     },
     {
       "added_at": "2023-10-06 02:04:15",
@@ -2435,6 +2403,38 @@
       "duration_ms": 156000,
       "name": "Pal Amor Soy Malo - Remix",
       "url": "https://open.spotify.com/track/5u9W6O6RiCRbJIOhE4Nmzy"
+    },
+    {
+      "added_at": "2023-10-06 02:04:15",
+      "album": {
+        "name": "Si Fuera F\u00e1cil",
+        "url": "https://open.spotify.com/album/3CUu8nxAMyjCiTeGyiBOKE"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 170496,
+      "name": "Si Fuera F\u00e1cil",
+      "url": "https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3"
+    },
+    {
+      "added_at": "2023-10-06 02:04:15",
+      "album": {
+        "name": "Simplemente Gracias",
+        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 203200,
+      "name": "Simplemente Gracias",
+      "url": "https://open.spotify.com/track/3K6noLeoPTQJ5jUErC8jT5"
     },
     {
       "added_at": "2023-10-06 02:04:15",
@@ -2487,22 +2487,6 @@
     {
       "added_at": "2023-10-06 02:04:15",
       "album": {
-        "name": "Dinero No Tenia (En Vivo)",
-        "url": "https://open.spotify.com/album/4I4HdAzHO28j18IibnON3F"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 208107,
-      "name": "Dinero No Tenia - En Vivo",
-      "url": "https://open.spotify.com/track/78ZsL4i0PT5SjnB3WeXGj9"
-    },
-    {
-      "added_at": "2023-10-06 02:04:15",
-      "album": {
         "name": "Mi Persona Preferida",
         "url": "https://open.spotify.com/album/5539gXhKSR7ykwrh6wamQJ"
       },
@@ -2519,6 +2503,22 @@
     {
       "added_at": "2023-10-06 02:04:15",
       "album": {
+        "name": "Dinero No Tenia (En Vivo)",
+        "url": "https://open.spotify.com/album/4I4HdAzHO28j18IibnON3F"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 208107,
+      "name": "Dinero No Tenia - En Vivo",
+      "url": "https://open.spotify.com/track/78ZsL4i0PT5SjnB3WeXGj9"
+    },
+    {
+      "added_at": "2023-10-06 02:04:15",
+      "album": {
         "name": "El Ahijado Consentido",
         "url": "https://open.spotify.com/album/35F7wwWfEZV6FSrCppyNPP"
       },
@@ -2531,30 +2531,6 @@
       "duration_ms": 189346,
       "name": "Ya Me Enter\u00e9",
       "url": "https://open.spotify.com/track/4ggabbjjuHrG06SsYnqvEs"
-    },
-    {
-      "added_at": "2023-10-06 02:04:15",
-      "album": {
-        "name": "Cuidando El Territorio",
-        "url": "https://open.spotify.com/album/6kPeskyrkdkWT3xFYx9kvb"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Beto Sierra",
-          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
-        }
-      ],
-      "duration_ms": 186833,
-      "name": "Cuidando El Territorio",
-      "url": "https://open.spotify.com/track/64ImcY4fJhY243wr20SR3e"
     },
     {
       "added_at": "2023-10-06 02:04:15",
@@ -2587,6 +2563,30 @@
       "duration_ms": 195453,
       "name": "Cerrando Ciclos",
       "url": "https://open.spotify.com/track/3fBJNawfhtgCmo58trRK2z"
+    },
+    {
+      "added_at": "2023-10-06 02:04:15",
+      "album": {
+        "name": "Cuidando El Territorio",
+        "url": "https://open.spotify.com/album/6kPeskyrkdkWT3xFYx9kvb"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Beto Sierra",
+          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
+        }
+      ],
+      "duration_ms": 186833,
+      "name": "Cuidando El Territorio",
+      "url": "https://open.spotify.com/track/64ImcY4fJhY243wr20SR3e"
     },
     {
       "added_at": "2023-10-06 02:04:15",

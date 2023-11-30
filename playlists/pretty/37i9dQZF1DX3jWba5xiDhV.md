@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 
 > When the dance floor calls your name, that's amore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,779 likes - 75 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,933 likes - 75 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 56 | [Eyes \- Prod\. by Roberto Ferrante \- 2020 Remaster](https://open.spotify.com/track/6nLXnqhVpNLiL41uImEvJM) | [Clio](https://open.spotify.com/artist/6YUx1iZjYtiwbDjQLULIHf), [Roberto Ferrante](https://open.spotify.com/artist/3YRXdJknlUSmpFCgaRvyoL) | [Eyes \(2020 Remaster\)](https://open.spotify.com/album/7mYiIebqgkhpysEFzboxIz) | 6:38 |
 | 57 | [Discamore](https://open.spotify.com/track/6Kviwj20NGF2KQQ2Jke1cB) | [Dov'è Liana](https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK) | [Discamore](https://open.spotify.com/album/7MrTy86ZjbVidUkrwAcHiU) | 3:44 |
 | 58 | [Summer Time](https://open.spotify.com/track/62WcZBFubVa0rPqHwvFZ6K) | [Plastic Mode](https://open.spotify.com/artist/22bwmgMrfLg3IMcPs7vNMa) | [Plastic Mode](https://open.spotify.com/album/5ParFAecXuBEXXZOjtxOHx) | 3:55 |
-| 59 | [Che caldo](https://open.spotify.com/track/0pKlilwwUTxcbZsUFUouwP) | [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6), [Anoraak](https://open.spotify.com/artist/2DfP0hQCCFmZHjstSE8yXC) | [Che Caldo](https://open.spotify.com/album/20QTEjaGNPvDhQpe1nPNCX) | 3:25 |
+| 59 | [Che Caldo](https://open.spotify.com/track/0pKlilwwUTxcbZsUFUouwP) | [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6), [Anoraak](https://open.spotify.com/artist/2DfP0hQCCFmZHjstSE8yXC) | [Che Caldo](https://open.spotify.com/album/20QTEjaGNPvDhQpe1nPNCX) | 3:25 |
 | 60 | [Químico Amor](https://open.spotify.com/track/3uJ8J19euzlMHBuobmIXbb) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Pedro Senna](https://open.spotify.com/artist/1VpBywbGRTON81xOXCreOu), [Ugo Ludovico](https://open.spotify.com/artist/2TIQW6pADcKJb2rbgJqGKQ) | [Químico Amor](https://open.spotify.com/album/7xT968dCMFNWkYxfT03kYJ) | 4:10 |
 | 61 | [Kalimba de luna](https://open.spotify.com/track/1GhgNF88EQEhpGpBApiZfc) | [Tony Esposito](https://open.spotify.com/artist/2E236rsxSkaqZfJpv57gYF) | [The Sound of Tony Esposito](https://open.spotify.com/album/3xaaztf2ZXiBbjETpSTEQC) | 5:13 |
 | 62 | [Hey Hey Guy \(7" Vocal Version\)](https://open.spotify.com/track/3oLn7p6CF8JvUDPz59t2WF) | [Ken Laszlo](https://open.spotify.com/artist/00OX175uYCsHJPLZOjNJqe) | [Greatest Hits & Remixes](https://open.spotify.com/album/1XsOXWsClvtWMxOnQ5gJ22) | 3:26 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 74 | [Under the Ice \- Original 12 Inch Version](https://open.spotify.com/track/2ue8ttSzbhnvhO7zc52NjC) | [Topo](https://open.spotify.com/artist/3atWGSgG787Lwz2HRvOsc3), [Roby](https://open.spotify.com/artist/6GuBfLWCyZnUatyVaOQLX2) | [Under the Ice \- Single](https://open.spotify.com/album/3vMFalOaP1bCRm8HVFQOAk) | 7:12 |
 | 75 | [Bambina \(Original 12\-Inch Version\)](https://open.spotify.com/track/4x4Ip4xOCRGIBNsts7GUBD) | [David Lyme](https://open.spotify.com/artist/7dkuwtOl8Y2O2fcWy1vtV1) | [Bambina c/o Bye Bye Mi Amor](https://open.spotify.com/album/1fA8zx1Var0vhNP2uqMfcb) | 5:31 |
 
-Snapshot ID: `MCw4OGRjMDJlMzEzNDNlMGZhNzNjMzI2ZGIzMTMzMjI2MjQ4ZGE0YTcx`
+Snapshot ID: `MCxjYjA5ZDQ5NTQzNmJjNmQ1MDBiYWFkYzYwOWE0MGQ3NDM1OGUxOTZk`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 ### [GENERAZIONE Z](https://open.spotify.com/playlist/37i9dQZF1DWYCIYGXn56uz)
 
-> ✨giovane✨pop✨z✨ Cover: Petit
+> ✨giovane✨pop✨z✨ Cover: Petit <a href="spotify:playlist:37i9dQZF1DWTDcvdOAx9xg">Scopri il Best Of del 2023 qui!</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,166 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,131 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 49 | [La parte più bella di me \- RMX](https://open.spotify.com/track/3fqElKBSWrAvObrMqx5oP8) | [Anto Paga](https://open.spotify.com/artist/2EdLV4ftq7Ks8dR7roTHrq), [I Desideri](https://open.spotify.com/artist/4t7NH9MvLDY2RMiNLE50d8) | [La parte più bella di me \(RMX\)](https://open.spotify.com/album/2Knm3BBycBMixIas269Ik2) | 2:15 |
 | 50 | [Chi Sono Veramente](https://open.spotify.com/track/5Xxz4XYpz2aViGUfW50Y4O) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [CHI SONO VERAMENTE EP](https://open.spotify.com/album/5fEPgkaJVP12LRMZ5T6fhI) | 2:50 |
 
-Snapshot ID: `MCxhOGRmOTZmM2Q5YjRiMjc3ZWM1ZWNmZGU0NzIxYjQyMTU0MjFmOWMy`
+Snapshot ID: `MCxlOGExMjQwOTBmODM2YmRiOTIzODVkNDc4YWRiYzQ2ZDJjMDQwNGQ0`

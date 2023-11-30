@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wiundViT27.md) - [plain]
 
 > A dose of high\-energy rock & alt songs for your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 615,431 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 615,472 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wiundViT27.md) - [plain]
 | 35 | [Without Me](https://open.spotify.com/track/7oGCVuPEyp6m6DhXkU5Pfs) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Dark Sun](https://open.spotify.com/album/0DY5kJhDXPfDjVdSKNvWlL) | 3:44 |
 | 36 | [Bleed](https://open.spotify.com/track/4vtzbijWEew1JlxamzNUBE) | [Connor Kauffman](https://open.spotify.com/artist/0bFEOKy3T1knA0g7ZaPnHe) | [Bleed](https://open.spotify.com/album/1LcLPYd5lesuWO3QWHETBq) | 2:25 |
 | 37 | [Paper Machete](https://open.spotify.com/track/4zx4H3Q0ASymmPgbfUmeRo) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [In Times New Roman...](https://open.spotify.com/album/2ZTDmH94OLjeNaOvT7Ngwk) | 3:22 |
-| 38 | [MORE THAN YOU KNOW](https://open.spotify.com/track/6apKpbDebOi4RXhmcgOCNz) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME / MORE THAN YOU KNOW](https://open.spotify.com/album/12shcf6jYi3XhXxAL7U6N9) | 3:37 |
-| 39 | [Born For Greatness](https://open.spotify.com/track/5NFXaR31k0gmII07w6OJIt) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Crooked Teeth](https://open.spotify.com/album/6NMmPUgCNr7iYoEl1cZcVf) | 3:47 |
-| 40 | [Chelsea Dagger](https://open.spotify.com/track/3ItzRpwvKtkDSNdRSjXu7Z) | [The Fratellis](https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G) | [Costello Music](https://open.spotify.com/album/6R6pjR9ocMYuqSuNx5e4mg) | 3:35 |
+| 38 | [Born For Greatness](https://open.spotify.com/track/5NFXaR31k0gmII07w6OJIt) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Crooked Teeth](https://open.spotify.com/album/6NMmPUgCNr7iYoEl1cZcVf) | 3:47 |
+| 39 | [Chelsea Dagger](https://open.spotify.com/track/3ItzRpwvKtkDSNdRSjXu7Z) | [The Fratellis](https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G) | [Costello Music](https://open.spotify.com/album/6R6pjR9ocMYuqSuNx5e4mg) | 3:35 |
+| 40 | [MORE THAN YOU KNOW](https://open.spotify.com/track/6apKpbDebOi4RXhmcgOCNz) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME / MORE THAN YOU KNOW](https://open.spotify.com/album/12shcf6jYi3XhXxAL7U6N9) | 3:37 |
 | 41 | [Tripping Over Air](https://open.spotify.com/track/7mzPAftljnsFmU6131Pqcd) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Tripping Over Air](https://open.spotify.com/album/6ZJonF00gkXNSTSI2PwyrC) | 3:02 |
 | 42 | [Run For Cover](https://open.spotify.com/track/5NAiPIEzxAexFE3ucV18Q8) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Wonderful Wonderful](https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi) | 3:42 |
 | 43 | [Let The Bad Times Roll](https://open.spotify.com/track/0O2UONKvVfdwDyefKh5Yo1) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Bad Times Roll \(Deluxe Edition\)](https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm) | 3:18 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wiundViT27.md) - [plain]
 | 47 | [Loved You A Little \(with Taking Back Sunday and Charlotte Sands\)](https://open.spotify.com/track/0IPKskRI33eRXjUhNUr9b5) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0), [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Loved You A Little \(with Taking Back Sunday and Charlotte Sands\)](https://open.spotify.com/album/2tgx0FJj6dtx3GzTm1Jbbd) | 3:27 |
 | 48 | [Planet Zero](https://open.spotify.com/track/7g2LuO2QFplZfsLKRFiVHl) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw) | 3:42 |
 | 49 | [hometown](https://open.spotify.com/track/6p8DGrcAUBuLUgDIKcUn0P) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [hometown](https://open.spotify.com/album/3vYwarsz5qWMYHL3B9b5ni) | 4:16 |
-| 50 | [Paralyzed](https://open.spotify.com/track/5svL1PkWw8hPEAOdTNLexy) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Paralyzed](https://open.spotify.com/album/6QBRBHphSZ5CE6KYzCDdI9) | 2:43 |
+| 50 | [Miracle Mile](https://open.spotify.com/track/4RvmQ5qbP5PxgJD0BN4EZK) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Dear Miss Lonelyhearts](https://open.spotify.com/album/3InEURs5PQ2CMrnvzSVaPy) | 3:00 |
 
-Snapshot ID: `MCw3MzdiNzZjNmNjMmVkOGYwNDg5Nzc2OGM0NDQyNWQ5YTMwYWM1ZjRm`
+Snapshot ID: `MCw1Zjc4MzY1NWVjZjUzOTEyOGY2ZTZlNTdmMTUwM2NjNWY2YTQ1MWJj`

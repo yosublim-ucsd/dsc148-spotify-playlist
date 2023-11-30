@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 
 > Float away on heady orchestrations and haunting harmonies...
 
-[Spotify](https://open.spotify.com/user/spotify) - 845,760 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 845,869 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 | 60 | [Everyone's Moving Out East](https://open.spotify.com/track/2mg17l3EfdZ6bFX82rCwcU) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Salt](https://open.spotify.com/album/28pyk4QKjNKAt7fXL27Jth) | 4:12 |
 | 61 | [Don't Go Far](https://open.spotify.com/track/5mslFLg97Oelh0rGpt82yQ) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Permanent Way](https://open.spotify.com/album/2J69Mui7i12K8FNQDDKA9p) | 3:39 |
 | 62 | [Motives](https://open.spotify.com/track/6t8fO77SHrCqszDxX1CRMl) | [Davis John Patton](https://open.spotify.com/artist/4BXF9pCPS864m8VMjuR4Pl) | [Forest Park](https://open.spotify.com/album/42s6cU6zv7JYBvmmSWc7IR) | 4:03 |
-| 63 | [You and I](https://open.spotify.com/track/7j9DRB3AzXxQNRHAY3RfAx) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [You and I](https://open.spotify.com/album/0H7AadTjFvdH0XYB2oVuCe) | 3:12 |
-| 64 | [...Familiar Place](https://open.spotify.com/track/0rHMGnd6wIgaF67ANAVdyC) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [No Burden](https://open.spotify.com/album/7lQ9R31OcTvMn2MojAuKVE) | 2:55 |
+| 63 | [...Familiar Place](https://open.spotify.com/track/0rHMGnd6wIgaF67ANAVdyC) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [No Burden](https://open.spotify.com/album/7lQ9R31OcTvMn2MojAuKVE) | 2:55 |
+| 64 | [You and I](https://open.spotify.com/track/7j9DRB3AzXxQNRHAY3RfAx) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [You and I](https://open.spotify.com/album/0H7AadTjFvdH0XYB2oVuCe) | 3:12 |
 | 65 | [Sea Creatures](https://open.spotify.com/track/73Tl9gM1BeVA1IHvGubOmI) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [You Stay by the Sea \(Deluxe\)](https://open.spotify.com/album/4gyX2p2lAct97JgYtrpbH4) | 4:16 |
 | 66 | [Afterglow](https://open.spotify.com/track/4xRDWaPf1AuMJo9sytQU0w) | [Portair](https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG), [WYNNE](https://open.spotify.com/artist/7MtZPIh0gpnInKFnXGcYDS) | [Afterglow](https://open.spotify.com/album/6t1lPagW4j5xy89gEYEyXy) | 3:10 |
 | 67 | [To Each His Own](https://open.spotify.com/track/4r4APlZYwRDLt0m91auppo) | [Talos](https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc) | [Far Out Dust](https://open.spotify.com/album/6Pq4CLiQkjVfgAESIa8dKG) | 3:10 |
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 | 86 | [Poison to You](https://open.spotify.com/track/2gespzBmNAR9mpbenZdPlH) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Grapefruit Season](https://open.spotify.com/album/0j0UBOGFgNrspMKG1CdG3Z) | 3:53 |
 | 87 | [Shiftshaping](https://open.spotify.com/track/6hQTXfHQzrWa6RP6PlB1dX) | [Michael Nau](https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs) | [Shiftshaping](https://open.spotify.com/album/16i0VFecMUrw9lzFH4UxA3) | 3:41 |
 | 88 | [The Only Thing I Fear](https://open.spotify.com/track/1BZuKdpvP8Q8P8ea0hKwzK) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Higher Places](https://open.spotify.com/album/6yECsWqRjBSZSch53dzTEK) | 3:30 |
-| 89 | [Party Dress](https://open.spotify.com/track/2G2IOxSv0G4zOitsfFpFQl) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Party Dress](https://open.spotify.com/album/4Ai0OqgDbUNNRwhXQHbZEv) | 3:14 |
-| 90 | [Golden](https://open.spotify.com/track/5nL6QICzZuoVfxLBI9UTh5) | [Mt\. Wolf](https://open.spotify.com/artist/4GLzX588I9R2vs0nTHhD6Z), [St\. South](https://open.spotify.com/artist/1n3X60xWCyL1zytSiKeu4D) | [Golden](https://open.spotify.com/album/7GpRl4yQJU2xDgOHSy1R9z) | 3:19 |
-| 91 | [Lost Boy](https://open.spotify.com/track/0VSd1i7BKn1dI5cTmpqyEV) | [The Native](https://open.spotify.com/artist/6c3Jb6rRod9x4pGtiizwzT) | [Fall Down \- EP](https://open.spotify.com/album/6vxcAKC5bok8gUQjWO6Ejv) | 0:53 |
+| 89 | [Lost Boy](https://open.spotify.com/track/0VSd1i7BKn1dI5cTmpqyEV) | [The Native](https://open.spotify.com/artist/6c3Jb6rRod9x4pGtiizwzT) | [Fall Down \- EP](https://open.spotify.com/album/6vxcAKC5bok8gUQjWO6Ejv) | 0:53 |
+| 90 | [Party Dress](https://open.spotify.com/track/2G2IOxSv0G4zOitsfFpFQl) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Party Dress](https://open.spotify.com/album/4Ai0OqgDbUNNRwhXQHbZEv) | 3:14 |
+| 91 | [Golden](https://open.spotify.com/track/5nL6QICzZuoVfxLBI9UTh5) | [Mt\. Wolf](https://open.spotify.com/artist/4GLzX588I9R2vs0nTHhD6Z), [St\. South](https://open.spotify.com/artist/1n3X60xWCyL1zytSiKeu4D) | [Golden](https://open.spotify.com/album/7GpRl4yQJU2xDgOHSy1R9z) | 3:19 |
 | 92 | [Pictures](https://open.spotify.com/track/2rahZcwdQ3zQU6AEgXWV6G) | [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [A Book Of Flying](https://open.spotify.com/album/1vXfSRXxuhqCWiVgA2Zzde) | 4:16 |
 | 93 | [Branscombe](https://open.spotify.com/track/4mrOXzvbS0U0KsX7O6OqIo) | [Voka Gentle](https://open.spotify.com/artist/4VyQOLH3ixMP5lrxhSeqKx) | [Branscombe](https://open.spotify.com/album/1n5qpXXobioZdWa6Upq6fU) | 7:19 |
 | 94 | [Goat](https://open.spotify.com/track/2YEa3nFylD0cX3RZ48IJol) | [French For Rabbits](https://open.spotify.com/artist/0g6VRF5TU1BM5FvK0yKyS2) | [Spirits](https://open.spotify.com/album/0DTmI8AV6gVRELVABD2Gl4) | 3:48 |
 | 95 | [Society](https://open.spotify.com/track/5BQZpjCcPmFSeLzTh48Zfc) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Orbit](https://open.spotify.com/album/7JDJYXq99Jd9kUYAtsfK5u) | 3:53 |
 | 96 | [hallow's eve](https://open.spotify.com/track/257WCspICXPffkvdEvVaIP) | [Casey Dubie](https://open.spotify.com/artist/1sYE9vIZsQ6cxgdr7ysq2F), [Timothy Edward Carpenter](https://open.spotify.com/artist/5Ey3CuclF1I1yTc1i0YDgc) | [hallow's eve](https://open.spotify.com/album/6LdgrA1mQmS4BfHVlqAPOU) | 2:13 |
-| 97 | [Up Here North](https://open.spotify.com/track/7d6jv0jXA1bLmgkyN6IYkW) | [Lake Jons](https://open.spotify.com/artist/1LD9cpK7ofPgY3TtsJeKcB) | [Lake Jons](https://open.spotify.com/album/6CiM4lwONLS2tVvc0w42k1) | 3:04 |
-| 98 | [Rolling Thunder](https://open.spotify.com/track/4h6unbwOKDPWeSizNav2nd) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq), [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE) | [Rolling Thunder](https://open.spotify.com/album/1OfUQjs3de9iU5C2bYbmYc) | 4:01 |
-| 99 | [I Still Remain](https://open.spotify.com/track/5Q1Bjrgo3VqdyyojOkpXvW) | [The Western Den](https://open.spotify.com/artist/3AKIOaRG1CUS6JYtgavz1z) | [A Light Left On](https://open.spotify.com/album/1AexYaxNPcGb3PY3icXXIX) | 4:29 |
-| 100 | [Dreamer](https://open.spotify.com/track/40IjsPrABIjZ7m05H5zTZU) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Pendulum](https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE) | 3:46 |
+| 97 | [I Still Remain](https://open.spotify.com/track/5Q1Bjrgo3VqdyyojOkpXvW) | [The Western Den](https://open.spotify.com/artist/3AKIOaRG1CUS6JYtgavz1z) | [A Light Left On](https://open.spotify.com/album/1AexYaxNPcGb3PY3icXXIX) | 4:29 |
+| 98 | [Up Here North](https://open.spotify.com/track/7d6jv0jXA1bLmgkyN6IYkW) | [Lake Jons](https://open.spotify.com/artist/1LD9cpK7ofPgY3TtsJeKcB) | [Lake Jons](https://open.spotify.com/album/6CiM4lwONLS2tVvc0w42k1) | 3:04 |
+| 99 | [Dreamer](https://open.spotify.com/track/40IjsPrABIjZ7m05H5zTZU) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Pendulum](https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE) | 3:46 |
+| 100 | [Rolling Thunder](https://open.spotify.com/track/4h6unbwOKDPWeSizNav2nd) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq), [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE) | [Rolling Thunder](https://open.spotify.com/album/1OfUQjs3de9iU5C2bYbmYc) | 4:01 |
 
-Snapshot ID: `MCw4NzY5MmVkYzRhMDI2ODQxM2UyNGNlMDlkYWJhZjkyMzhiZTIzMDc4`
+Snapshot ID: `MCxlYjI4MjY4MjI0OWUxNjY5ZmZjMTA4MTQwZjZjZmY2OGNhYTIwYTNj`

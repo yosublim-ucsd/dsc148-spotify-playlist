@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Larry June
 
-[Spotify](https://open.spotify.com/user/spotify) - 728,116 likes - 75 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 728,169 likes - 75 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 74 | [Pull Up \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/4Z6YkvTUHzGfbVRP5ucOBA) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [THE AM3RICAN DREAM](https://open.spotify.com/album/2xBItDzZvDaihgU9xYnzXO) | 2:23 |
 | 75 | [4Life](https://open.spotify.com/track/6VB1KfpJzVAnFvyeiCPC4f) | [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0) | [4Life](https://open.spotify.com/album/0raGZNP4IH0KrI6qdpToQP) | 2:36 |
 
-Snapshot ID: `MCxiOWJjNzk4MjVjYjE5Mjc4Y2E2OTEyNmJiMzU0YTZlMWYwMzIzNmQ1`
+Snapshot ID: `MCwyNmQ4ZGQwM2JhMjY4NGI5MjFmYThmNTMzY2RjZmQxODA0OTVkM2E4`

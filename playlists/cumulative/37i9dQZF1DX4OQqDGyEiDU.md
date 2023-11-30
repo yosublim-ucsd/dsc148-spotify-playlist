@@ -4,7 +4,7 @@
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID\. cover:ゆこぴ
 
-545 songs - 1 day 7 hr 2 min
+548 songs - 1 day 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Black Out](https://open.spotify.com/track/0My5K0w80efxzM1wOTAheP) | [Azari](https://open.spotify.com/artist/0cevUP0ssLSLm7ict9X2E9) | [Black Out](https://open.spotify.com/album/4cKFsbtDAMnopqSzC1GZm5) | 2:15 | 2022-06-14 | 2022-07-27 |
 | [Brand New Day](https://open.spotify.com/track/1rknPfhsPCqHYWEB99H5sZ) | [irucaice](https://open.spotify.com/artist/0giXiUwGnKdrVe96MLkTKX) | [iceQuarium \-Strawberry\-](https://open.spotify.com/album/2aGFMGGOl4we3BJZdEz9FZ) | 4:31 | 2022-06-14 | 2022-07-13 |
 | [BUG](https://open.spotify.com/track/1fqfev7K0mfX7e1W64pDvA) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE) | [BUG](https://open.spotify.com/album/04BZd03CZ9HuiiZBWDcp1J) | 2:51 | 2022-12-13 | 2023-11-29 |
+| [BUTASANDER](https://open.spotify.com/track/6Qkh2aWAs6PC3f1F5R9klt) | [ゆこぴ](https://open.spotify.com/artist/2VFuqA3nVl2UqhhthXNF3K) | [ALBUM No,1](https://open.spotify.com/album/5J64EHN7hMo5sGTlRfC6bo) | 2:16 | 2023-11-28 |  |
 | [CALIGULA ON THE G\-LINE](https://open.spotify.com/track/6Ni196jf3C1WPX6gDzWdkS) | [NaNaEm](https://open.spotify.com/artist/7gOruFwLZbwLhuJKtEc5Nc), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [CALIGULA ON THE G\-LINE](https://open.spotify.com/album/05F68JZQ9FwHD1C3H3LJJt) | 2:14 | 2023-08-15 | 2023-08-25 |
 | [Canopus](https://open.spotify.com/track/4LBsz7g9b4zs9EUSgQNo7J) | [Nayutalien](https://open.spotify.com/artist/0U2Emr9cdZNcbqSoKoWb8c) | [Object N from Star NayutaN](https://open.spotify.com/album/0Tjejk8tpCFquoNqOgXBKm) | 2:56 | 2023-01-03 | 2023-01-20 |
 | [CH4NGE \- feat\. KAFU](https://open.spotify.com/track/3ipGZWQ7Q64OA7SwFNVfy2) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [CH4NGE](https://open.spotify.com/album/192mLC4CmnfqkxQbiPj7AZ) | 2:12 | 2022-07-26 |  |
@@ -94,6 +95,7 @@
 | [KING](https://open.spotify.com/track/5vCNAauCaecW0tT2mZDLG9) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [KING](https://open.spotify.com/album/5caSwBLTwvq0mk7cQwtf2O) | 2:15 | 2022-06-09 |  |
 | [KLY](https://open.spotify.com/track/5kU2uwJrjRuADfLltDgLc2) | [Iyowa](https://open.spotify.com/artist/0gox2jF74UUFl8bDQYyTFr) | [KLY](https://open.spotify.com/album/5cZP3s2SdQ8vXKR5yz52SU) | 4:02 | 2023-04-11 | 2023-07-28 |
 | [Koinu no Carnival \-From "Minute Waltz"\-](https://open.spotify.com/track/3OP9la2QTA5artehqjFJCp) | [EHAMIC](https://open.spotify.com/artist/2MyhU8E2SRCcHIN6FtagQR) | ["Classicaloid" Chopin Musik](https://open.spotify.com/album/0Q7zeUnaYrjTi3am2ceK4N) | 3:10 | 2023-05-14 | 2023-11-29 |
+| [Kyoufuu All Back](https://open.spotify.com/track/3rO7YwtuTzCGssxvDS4xK2) | [ゆこぴ](https://open.spotify.com/artist/2VFuqA3nVl2UqhhthXNF3K) | [ALBUM No,1](https://open.spotify.com/album/5J64EHN7hMo5sGTlRfC6bo) | 2:17 | 2023-11-28 |  |
 | [kyu\-kurarin](https://open.spotify.com/track/72wehM3q2RVZb4XLmAkyTr) | [Iyowa](https://open.spotify.com/artist/0gox2jF74UUFl8bDQYyTFr) | [kyu\-kurarin](https://open.spotify.com/album/4f5TDdboXv76t95A48thSs) | 3:37 | 2022-12-13 |  |
 | [Lap Tap Love](https://open.spotify.com/track/7weaxG7FEqDVCyZsLsyaKX) | [koyori](https://open.spotify.com/artist/6gZ9klmJVVAgpXEdL6sZQE), [向日葵](https://open.spotify.com/artist/5fY5L5NPHQRgEhdjgTvoCZ) | [Resonance](https://open.spotify.com/album/4r5hRygA5bz0oDlJoRC7Yy) | 3:22 | 2022-06-09 | 2022-06-11 |
 | [Liar Dancer](https://open.spotify.com/track/1YXuCccqCx4AM1PVekISj8) | [マサラダ](https://open.spotify.com/artist/7samVyTa42GWxA0DedqZL2) | [Liar Dancer](https://open.spotify.com/album/4P5WTqxveCHwel30kXJvoo) | 4:02 | 2023-07-20 | 2023-11-29 |
@@ -106,6 +108,7 @@
 | [magnet](https://open.spotify.com/track/0xqOk9g0UVJOWhlNc1nX1S) | [minato](https://open.spotify.com/artist/2GtIff7l3cKBRRRM0Dn4tF), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Luka Megurine](https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I) | [Download feat.初音ミク](https://open.spotify.com/album/3mXJ1X0bSZ8qF1pl6nQvdD) | 4:04 | 2022-06-23 | 2022-06-26 |
 | [manimani](https://open.spotify.com/track/7ntAoXzFfyVDYarUnAzhdO) | [r\-906](https://open.spotify.com/artist/7os1UVlIK50EAaP990Z8aE) | [manimani](https://open.spotify.com/album/0qDVMwJMeXVbznKcBjzDiU) | 4:28 | 2023-10-17 | 2023-11-29 |
 | [Marshmary](https://open.spotify.com/track/5dKykKE5h3zapzslkcGDBE) | [MIMI](https://open.spotify.com/artist/0nwGsQzwVqdlBAg0eSNxmd) | [Marshmary](https://open.spotify.com/album/0D6NbvI5QAXu10qoQxcWRk) | 3:33 | 2022-06-23 | 2022-07-28 |
+| [May I fold down my seat,Grandma?](https://open.spotify.com/track/0n879xEufV4tlbrVaO5spT) | [ゆこぴ](https://open.spotify.com/artist/2VFuqA3nVl2UqhhthXNF3K) | [ALBUM No,1](https://open.spotify.com/album/5J64EHN7hMo5sGTlRfC6bo) | 1:59 | 2023-11-28 |  |
 | [METEOR](https://open.spotify.com/track/5wHdoGVofJZUGc6Z6t5wZ5) | [DIVELA](https://open.spotify.com/artist/3uoFD08dOvDpdyl1IGH4dt) | [METEOR](https://open.spotify.com/album/0tOjjdPOA63W3waKTrKObc) | 4:34 | 2022-06-23 | 2022-07-06 |
 | [METEOR](https://open.spotify.com/track/0MhQa3QKc26ECpVzhaJCfQ) | [DIVELA](https://open.spotify.com/artist/3uoFD08dOvDpdyl1IGH4dt) | [ミライコレクション](https://open.spotify.com/album/2DzfW4dqIF1J7KCM0y2i2d) | 4:34 | 2022-06-09 | 2022-06-26 |
 | [Mikansei egoizumu](https://open.spotify.com/track/18CPQqeQvpwvzgfurOwEbR) | [Yukino ito](https://open.spotify.com/artist/6AVpVZNEeBihxUCWVPdMnu) | [Mikansei egoizumu](https://open.spotify.com/album/3q3ClObPLKRhC0xaH8sxqd) | 3:26 | 2023-03-29 | 2023-04-12 |
@@ -351,7 +354,7 @@
 | [フランケン・ディザイン](https://open.spotify.com/track/753D3ImhdVGspqM8x03fNw) | [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa), [DREAMERS](https://open.spotify.com/artist/75k5ZGFQq4rRbdiJZGJ8Vi) | [フランケン・ディザイン](https://open.spotify.com/album/39ThiLQqgdOEmguUO0dX0P) | 2:41 | 2023-09-07 | 2023-10-06 |
 | [フリィダムロリィタ](https://open.spotify.com/track/3RQcsfD2CT4ldupQsjgvc0) | [ねじ式](https://open.spotify.com/artist/2WMWyRVZHCzEv713ZSdjAT) | [sissy songs](https://open.spotify.com/album/5vYgdhX3b3o6yQQHiUC9lf) | 3:41 | 2022-06-09 | 2022-06-15 |
 | [フロートプレイ](https://open.spotify.com/track/2T7Yky4Kmlq1xkY2paZVm9) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [フロートプレイ](https://open.spotify.com/album/7tzYNbCa87y2zoWBbcFCs1) | 4:02 | 2023-01-12 | 2023-04-11 |
-| [ブタサンダー](https://open.spotify.com/track/70AURQp8ECjm3XBRFNUlls) | [ゆこぴ](https://open.spotify.com/artist/2VFuqA3nVl2UqhhthXNF3K) | [アルバム１号](https://open.spotify.com/album/3ZA0nIXWZ0wGmCDHp9i77M) | 2:16 | 2023-11-28 |  |
+| [ブタサンダー](https://open.spotify.com/track/70AURQp8ECjm3XBRFNUlls) | [ゆこぴ](https://open.spotify.com/artist/2VFuqA3nVl2UqhhthXNF3K) | [アルバム１号](https://open.spotify.com/album/3ZA0nIXWZ0wGmCDHp9i77M) | 2:16 | 2023-11-28 | 2023-11-30 |
 | [ブリキノダンス](https://open.spotify.com/track/3ZXkNy6OVQsdSc3hXs7yi1) | [日向電工](https://open.spotify.com/artist/7tOWLqvZMnDRMSceKrAwP8) | [ブラックホールディスク](https://open.spotify.com/album/7CIIILjU0gQUYJO4V4btfd) | 3:22 | 2022-06-09 | 2022-07-28 |
 | [ブレス・ユア・ブレス](https://open.spotify.com/track/5rqn19oB0lGKgTxHkIEChk) | [和田たけあき](https://open.spotify.com/artist/6qayQS8CjcEBPMLdWAZEMK) | [ブレス・ユア・ブレス](https://open.spotify.com/album/1La2cKbROZIPjIL3tluXHQ) | 4:13 | 2022-06-09 | 2022-07-17 |
 | [ブーケガルニ](https://open.spotify.com/track/4HBcVPMS3Qj5rxeAFf58Ic) | [煮ル果実](https://open.spotify.com/artist/3wG9JLlVmrbpfKcBuQ2xlh) | [ブーケガルニ](https://open.spotify.com/album/1G1qJPkglIofGfsZ9WXA4U) | 2:57 | 2023-07-13 | 2023-08-25 |
@@ -470,8 +473,8 @@
 | [希望論](https://open.spotify.com/track/6WvrBL6rFanI3cYA4KTDUb) | [NANASI](https://open.spotify.com/artist/6tUBLncgFjsKrSAFpzGxyy) | [希望論](https://open.spotify.com/album/6HEqK9wGXzDcrhHvMx7CJq) | 3:06 | 2022-06-09 | 2022-06-12 |
 | [帝国少女](https://open.spotify.com/track/5MyB548UcM38O2emb7HPDj) | [R Sound Design](https://open.spotify.com/artist/2KJvs9nIWfFTZ1lk7bBFlW) | [帝国少女](https://open.spotify.com/album/5yEuiTzgHtd7JRAHpWUBKP) | 4:14 | 2022-06-14 | 2022-07-20 |
 | [幽霊東京](https://open.spotify.com/track/09g6tcsYVICBqWiOKo856z) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [幽霊東京 \(digital edition\)](https://open.spotify.com/album/6nYldEYDHm0Qjd5Cxhv321) | 3:24 | 2022-06-09 | 2022-07-26 |
-| [座席リセット](https://open.spotify.com/track/4cOe7Pesf6cqc8OZ9uxPTZ) | [ゆこぴ](https://open.spotify.com/artist/2VFuqA3nVl2UqhhthXNF3K) | [アルバム１号](https://open.spotify.com/album/3ZA0nIXWZ0wGmCDHp9i77M) | 1:59 | 2023-11-28 |  |
-| [強風オールバック](https://open.spotify.com/track/4pBQGAV1bm6xqFcZL2yGSM) | [ゆこぴ](https://open.spotify.com/artist/2VFuqA3nVl2UqhhthXNF3K) | [アルバム１号](https://open.spotify.com/album/3ZA0nIXWZ0wGmCDHp9i77M) | 2:17 | 2023-11-28 |  |
+| [座席リセット](https://open.spotify.com/track/4cOe7Pesf6cqc8OZ9uxPTZ) | [ゆこぴ](https://open.spotify.com/artist/2VFuqA3nVl2UqhhthXNF3K) | [アルバム１号](https://open.spotify.com/album/3ZA0nIXWZ0wGmCDHp9i77M) | 1:59 | 2023-11-28 | 2023-11-30 |
+| [強風オールバック](https://open.spotify.com/track/4pBQGAV1bm6xqFcZL2yGSM) | [ゆこぴ](https://open.spotify.com/artist/2VFuqA3nVl2UqhhthXNF3K) | [アルバム１号](https://open.spotify.com/album/3ZA0nIXWZ0wGmCDHp9i77M) | 2:17 | 2023-11-28 | 2023-11-30 |
 | [心拍ペアリング](https://open.spotify.com/track/4B03KJjWKz5ECPchCDanq2) | [雪乃イト](https://open.spotify.com/artist/6ZO6OkSogawip4XFCU2eEC) | [心拍ペアリング](https://open.spotify.com/album/2fdR1sCDPsrcZAJMVDUngd) | 2:21 | 2023-02-16 | 2023-02-22 |
 | [忘憂 \- VOCALOID ver.](https://open.spotify.com/track/3C4wehwbZu5PuLvIbsXlCP) | [獅子志司](https://open.spotify.com/artist/6WuH4EcRO2y8v6z3lVsA4v) | [揺ら揺ら \-VOCALOID ver.\-](https://open.spotify.com/album/1QvsgyiLknXeclmMf9g8Yi) | 3:40 | 2022-07-19 | 2022-07-27 |
 | [快晴](https://open.spotify.com/track/5F8rIZkDib9p8kkKXmmIhw) | [Orangestar](https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS), [IA](https://open.spotify.com/artist/1oz1HYOyJhjshPi5Nvs3MX) | [快晴](https://open.spotify.com/album/0vgMQUlLityCenH8CfqM9B) | 4:24 | 2022-06-14 | 2022-07-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 
 > Meet the vocalists representing Korea! \(Cover:THAMA\(따마\)\) \(대한민국을 대표하는 보컬들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,490 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,499 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 | 18 | [11:11](https://open.spotify.com/track/67QGnT1Vdfuuy4HkLTUVjj) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [My Voice \- The 1st Album \(Deluxe Edition\)](https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO) | 3:43 |
 | 19 | [For You](https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [For You](https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz) | 3:25 |
 | 20 | [Don’t Forget](https://open.spotify.com/track/0THW04vlFAkfflASMFam0t) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Don't Forget](https://open.spotify.com/album/1MSev7n5ZJvkZiEXV4R9bt) | 3:39 |
-| 21 | [When This Rain Stops](https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Like Water \- The 1st Mini Album](https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7) | 4:04 |
-| 22 | [A Walk](https://open.spotify.com/track/07o59OvDiUuVpAbGNntwCy) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Love, Yerin](https://open.spotify.com/album/2K41KAlW6n9bVlRCQPVcSZ) | 3:25 |
+| 21 | [A Walk](https://open.spotify.com/track/07o59OvDiUuVpAbGNntwCy) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Love, Yerin](https://open.spotify.com/album/2K41KAlW6n9bVlRCQPVcSZ) | 3:25 |
+| 22 | [When This Rain Stops](https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Like Water \- The 1st Mini Album](https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7) | 4:04 |
 | 23 | [Only Then](https://open.spotify.com/track/7mFigNlS2dsKMhcmJyfpeg) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Only Then](https://open.spotify.com/album/4erAMXv1Uin2wnf1vW4Eqq) | 4:08 |
 | 24 | [I′m Sorry](https://open.spotify.com/track/3LUkaacGXrVcn8jo29Vymi) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Alchemy of Souls: Light and Shadow, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5GeLZHhhxLRaDeL2o6aaTg) | 4:16 |
 | 25 | [Natural](https://open.spotify.com/track/0ACt3PP22HyKfpFIV6AQUW) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Natural](https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ) | 2:24 |
@@ -37,13 +37,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 | 27 | [Do](https://open.spotify.com/track/5jtm4uDYLZXYK84iorHOKF) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Do](https://open.spotify.com/album/7K165jm1VJckEwlPU3rnkX) | 2:45 |
 | 28 | [180 Degree](https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [180˚](https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6) | 3:49 |
 | 29 | [Memory Of The Wind](https://open.spotify.com/track/1uMLtqpe8beA6fPy3ApJcJ) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Principle Of My Soul](https://open.spotify.com/album/2nrbL5Wk9xMl9Vuhwze6K4) | 5:08 |
-| 30 | [I'll Always Be With You](https://open.spotify.com/track/0qXAC2U4E9XjF0FeGRsMh7) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Destined with You \(Original Television Soundtrack\), Pt.7](https://open.spotify.com/album/43U9K5sEFosiXaS9scEhFr) | 3:36 |
-| 31 | [Flower Way \(Prod\. By ZICO\)](https://open.spotify.com/track/1dOD5F2hX5TBtKdQlEseR7) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [Jelly box Flower Way SEJEONG](https://open.spotify.com/album/32dL7nyPowMbiu8QFrAkIM) | 3:59 |
+| 30 | [Flower Way \(Prod\. By ZICO\)](https://open.spotify.com/track/1dOD5F2hX5TBtKdQlEseR7) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [Jelly box Flower Way SEJEONG](https://open.spotify.com/album/32dL7nyPowMbiu8QFrAkIM) | 3:59 |
+| 31 | [I'll Always Be With You](https://open.spotify.com/track/0qXAC2U4E9XjF0FeGRsMh7) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Destined with You \(Original Television Soundtrack\), Pt.7](https://open.spotify.com/album/43U9K5sEFosiXaS9scEhFr) | 3:36 |
 | 32 | [Aching](https://open.spotify.com/track/017eGASA1dbhQOb942TuQx) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Alchemy of Souls, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2lQsPX6qa4zqpcPwVLRCsU) | 4:11 |
 | 33 | [Love Is Ugly \(Feat\. Hwa Sa\)](https://open.spotify.com/track/3MUmPh3UxWs9p25e6B3M7N) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Yesterday](https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT) | 3:43 |
 | 34 | [Stay Here](https://open.spotify.com/track/20mZ4O5ztRZltdvLEJbi4z) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Stay Here](https://open.spotify.com/album/7asMIo6qEhr9Gt5rE1Tmvw) | 3:48 |
-| 35 | [SUNSET WITH YOU](https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 3:23 |
-| 36 | [Gravity](https://open.spotify.com/track/1fzLM4SRonzoHm723a2mP5) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Purpose \- The 2nd Album](https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr) | 3:59 |
+| 35 | [Gravity](https://open.spotify.com/track/1fzLM4SRonzoHm723a2mP5) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Purpose \- The 2nd Album](https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr) | 3:59 |
+| 36 | [SUNSET WITH YOU](https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 3:23 |
 | 37 | [Will Last Forever](https://open.spotify.com/track/5BLH0517T5RoEFs1Mljo4H) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [WINTER](https://open.spotify.com/album/0xrAlQfw3MZ5QGhw2NptQt) | 4:24 |
 | 38 | [Through the Night](https://open.spotify.com/track/1Bb6jVrsg8cXxMCBxIWJUn) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Through the Night](https://open.spotify.com/album/1zQnkQc68sQj2Ns5GIuxld) | 4:13 |
 | 39 | [Hello](https://open.spotify.com/track/0RRJ2PHFSCyBaaydDHOv1u) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [18 again, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2BLtLWe1K6HZm0NjKuYjCV) | 4:04 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 | 94 | [Tale](https://open.spotify.com/track/3VtDqefAMMvUcg4x9Ma2LB) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [The Fairy Tale](https://open.spotify.com/album/76ASw7kgzeLbfGyei95zN1) | 3:47 |
 | 95 | [come as you are](https://open.spotify.com/track/1B8rGBG1v6y6hdvJmw4z0O) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Eternal](https://open.spotify.com/album/7pH1aRaBcogrfEOrAKsUZF) | 3:28 |
 | 96 | [Only You](https://open.spotify.com/track/6W4G44h5B23jv5E2S0NUkw) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Only You](https://open.spotify.com/album/2HaxfS9WKdh4BXEUBhItAM) | 4:23 |
-| 97 | [Chosen One](https://open.spotify.com/track/1wVR4uRKLxXCwZY8saaTMM) | [Forestella](https://open.spotify.com/artist/4Phfy4o60wGqoPQFl5oCP8) | [The sword of Aramun, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/4FLn9vnAb0b5ILDZGtz3lI) | 4:10 |
-| 98 | [Fuckin' New Year](https://open.spotify.com/track/4njyS3c6btHwlhVuYt4ks5) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [New Year](https://open.spotify.com/album/5EurmkjnoKInaBsjAM6iFB) | 2:48 |
+| 97 | [Fuckin' New Year](https://open.spotify.com/track/4njyS3c6btHwlhVuYt4ks5) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [New Year](https://open.spotify.com/album/5EurmkjnoKInaBsjAM6iFB) | 2:48 |
+| 98 | [Chosen One](https://open.spotify.com/track/1wVR4uRKLxXCwZY8saaTMM) | [Forestella](https://open.spotify.com/artist/4Phfy4o60wGqoPQFl5oCP8) | [The sword of Aramun, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/4FLn9vnAb0b5ILDZGtz3lI) | 4:10 |
 | 99 | [Burn Like A Star](https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs), [Woo Ye Rin](https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL) | [Burn Like A Star](https://open.spotify.com/album/36xIARKjnu1X4NijtbBpMQ) | 3:08 |
 | 100 | [Unforgettable Love](https://open.spotify.com/track/6nC0meiqIoorz6Lb7Ufte8) | [YANG YO SEOP](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd) | [My Dearest \(Original Television Soundtrack\), Pt.5](https://open.spotify.com/album/3kcfskSR4RWXWelADGzNli) | 3:42 |
 
-Snapshot ID: `MCw4NjU5NjJiM2VhZjVkMTA4Y2RlOGNjYjQwZjRkNWYxMzEwYjRlOWQ1`
+Snapshot ID: `MCw3ZGVmZWE1MmFkYjM1YTc4NDgxYzJmY2E3OTdiMjgwMjM1OTljY2Ey`

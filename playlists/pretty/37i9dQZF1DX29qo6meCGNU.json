@@ -1,12 +1,12 @@
 {
   "description": "Perreo con \u2764\ufe0f\u200d\ud83d\udd25\u2764\ufe0f\u200d\ud83d\udd25\u2764\ufe0f\u200d\ud83d\udd25",
-  "num_followers": 406180,
+  "num_followers": 406282,
   "original_name": "Romantiqueo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNmEyY2YxZDY2NWM2ZmM4ZDQzM2E2YTRkYWRkNTEzMmMxZWZkY2Zh",
+  "snapshot_id": "MCw4ODEwMmE3ODJiZmMwYTVjNzk0YzkzNzU0Mjc0YTgyNjZiOTU5MTAz",
   "tracks": [
     {
       "added_at": "2023-11-17 04:59:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-11-17 04:59:00",
       "album": {
+        "name": "LA ISLA LP",
+        "url": "https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 184748,
+      "name": "La \u00daltima Canci\u00f3n",
+      "url": "https://open.spotify.com/track/2mRwodUOATBk5spcUsEidB"
+    },
+    {
+      "added_at": "2023-11-17 04:59:00",
+      "album": {
         "name": "Ni\u00f1a Bonita",
         "url": "https://open.spotify.com/album/3bVdhbdl1XxW7u7A0TffBB"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 187653,
       "name": "Ni\u00f1a Bonita",
       "url": "https://open.spotify.com/track/3Gs7mVfWKl567mjozgxmXv"
-    },
-    {
-      "added_at": "2023-11-17 04:59:00",
-      "album": {
-        "name": "LA ISLA LP",
-        "url": "https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 184748,
-      "name": "La \u00daltima Canci\u00f3n",
-      "url": "https://open.spotify.com/track/2mRwodUOATBk5spcUsEidB"
     },
     {
       "added_at": "2023-11-17 04:59:00",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2023-11-17 04:59:00",
       "album": {
-        "name": "Historias de un Capricornio",
-        "url": "https://open.spotify.com/album/0CPLMVp7rMi3BkzAMve96K"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 221103,
-      "name": "Infeliz",
-      "url": "https://open.spotify.com/track/4z6wo6PJG4Fve45OXK6D9m"
-    },
-    {
-      "added_at": "2023-11-17 04:59:00",
-      "album": {
         "name": "Eleg\u00ed",
         "url": "https://open.spotify.com/album/3j6ouZdjTVyddYH2XkMjYb"
       },
@@ -1199,22 +1179,22 @@
     {
       "added_at": "2023-11-17 04:59:00",
       "album": {
-        "name": "LAS QUE NO IBAN A SALIR",
-        "url": "https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz"
+        "name": "Historias de un Capricornio",
+        "url": "https://open.spotify.com/album/0CPLMVp7rMi3BkzAMve96K"
       },
       "artists": [
         {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         },
         {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 209180,
-      "name": "CANCI\u00d3N CON YANDEL",
-      "url": "https://open.spotify.com/track/3pm4XtcsRIFFtH2UErk62R"
+      "duration_ms": 221103,
+      "name": "Infeliz",
+      "url": "https://open.spotify.com/track/4z6wo6PJG4Fve45OXK6D9m"
     },
     {
       "added_at": "2023-11-17 04:59:00",
@@ -1239,6 +1219,26 @@
     {
       "added_at": "2023-11-17 04:59:00",
       "album": {
+        "name": "LAS QUE NO IBAN A SALIR",
+        "url": "https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 209180,
+      "name": "CANCI\u00d3N CON YANDEL",
+      "url": "https://open.spotify.com/track/3pm4XtcsRIFFtH2UErk62R"
+    },
+    {
+      "added_at": "2023-11-17 04:59:00",
+      "album": {
         "name": "Inolvidable",
         "url": "https://open.spotify.com/album/3MdsEVhC9AMtDTXB8n2yXI"
       },
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-11-17 04:59:00",
       "album": {
-        "name": "SHORTY QUE TE VAYA BN <3",
-        "url": "https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 219681,
-      "name": "SHORTY QUE TE VAYA BN <3",
-      "url": "https://open.spotify.com/track/3CQDFLetMMxD5hzAnUk410"
-    },
-    {
-      "added_at": "2023-11-17 04:59:00",
-      "album": {
         "name": "INTER SHIBUYA - LA MAFIA",
         "url": "https://open.spotify.com/album/4hUQ4FB9GD5oDmw3XHIr0G"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 196373,
       "name": "SI T\u00da SUPIERAS - Bonus Track",
       "url": "https://open.spotify.com/track/1SCYfmGM5ueb6YiiQbLXVn"
+    },
+    {
+      "added_at": "2023-11-17 04:59:00",
+      "album": {
+        "name": "SHORTY QUE TE VAYA BN <3",
+        "url": "https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 219681,
+      "name": "SHORTY QUE TE VAYA BN <3",
+      "url": "https://open.spotify.com/track/3CQDFLetMMxD5hzAnUk410"
     },
     {
       "added_at": "2023-11-17 04:59:00",
@@ -1931,22 +1931,22 @@
     {
       "added_at": "2023-11-17 04:59:00",
       "album": {
-        "name": "MI EXXX",
-        "url": "https://open.spotify.com/album/1O9NM8bAvDQwD5ZZDmoStC"
+        "name": "Temporada de Reggaet\u00f3n",
+        "url": "https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl"
       },
       "artists": [
         {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
         },
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         }
       ],
-      "duration_ms": 194470,
-      "name": "MI EXXX",
-      "url": "https://open.spotify.com/track/5hHzqkPU6TQxWtV2cJqsMp"
+      "duration_ms": 189475,
+      "name": "YIN YAN",
+      "url": "https://open.spotify.com/track/6KGGhJoXrztLp8ZT91zizs"
     }
   ],
   "unique_name": "Romantiqueo",

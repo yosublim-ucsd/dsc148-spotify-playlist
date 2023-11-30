@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Abel Pintos & Luck Ra.",
-  "num_followers": 657527,
+  "num_followers": 657872,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjZmOWI3MzY2NGM0NGU1MzA1YzRlODczZGQ2NmU1ZThiYTY1MmVl",
+  "snapshot_id": "MCxkODQ0NmM5YmZlMTE1NTk3ZTM2YTEwYjFiNDFhZDQ1MzRkNTJlMTQ1",
   "tracks": [
     {
       "added_at": "2023-11-24 03:00:00",
@@ -539,18 +539,18 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Nominado",
-        "url": "https://open.spotify.com/album/0plUTXDPuD3mDlDPhQGZY7"
+        "name": "No me pueden parar",
+        "url": "https://open.spotify.com/album/7jwj5GOWFKWl0HNQErZi3N"
       },
       "artists": [
         {
-          "name": "Jean Carlos",
-          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
+          "name": "Ulises Bueno",
+          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
         }
       ],
-      "duration_ms": 219800,
-      "name": "Quiereme",
-      "url": "https://open.spotify.com/track/2749jULVf3n93RHzAIpmTi"
+      "duration_ms": 208750,
+      "name": "Me levante",
+      "url": "https://open.spotify.com/track/0DGJyRo4L8p3AAz1WmUoZ3"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -603,30 +603,18 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "S\u00e9 que no",
-        "url": "https://open.spotify.com/album/6G9ePXswL4DvdSJINyqQxC"
+        "name": "Nominado",
+        "url": "https://open.spotify.com/album/0plUTXDPuD3mDlDPhQGZY7"
       },
       "artists": [
         {
-          "name": "Ulises Bueno",
-          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
-        },
-        {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
-        },
-        {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        },
-        {
-          "name": "Mat\u00edas Valdez",
-          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
+          "name": "Jean Carlos",
+          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
         }
       ],
-      "duration_ms": 180250,
-      "name": "S\u00e9 que no",
-      "url": "https://open.spotify.com/track/1WNdMGHxYL2j0jC2yevSJe"
+      "duration_ms": 219800,
+      "name": "Quiereme",
+      "url": "https://open.spotify.com/track/2749jULVf3n93RHzAIpmTi"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -699,6 +687,34 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
+        "name": "S\u00e9 que no",
+        "url": "https://open.spotify.com/album/6G9ePXswL4DvdSJINyqQxC"
+      },
+      "artists": [
+        {
+          "name": "Ulises Bueno",
+          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
+        },
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        },
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        },
+        {
+          "name": "Mat\u00edas Valdez",
+          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
+        }
+      ],
+      "duration_ms": 180250,
+      "name": "S\u00e9 que no",
+      "url": "https://open.spotify.com/track/1WNdMGHxYL2j0jC2yevSJe"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
         "name": "Dos Amantes",
         "url": "https://open.spotify.com/album/7ptztFycSuajNlo0MPbIz2"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 174140,
       "name": "Respetemos el duelo",
       "url": "https://open.spotify.com/track/4fl80hP4AbCF3YtEgkNA3x"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
-        "name": "Libertad Provisoria",
-        "url": "https://open.spotify.com/album/4qQBzFa6K1RLY2YQrfEgjQ"
-      },
-      "artists": [
-        {
-          "name": "Dale Q' Va",
-          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
-        }
-      ],
-      "duration_ms": 177250,
-      "name": "Libertad Provisoria",
-      "url": "https://open.spotify.com/track/7uipuYYQE5kAaiGVC4lxqM"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -763,6 +763,38 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
+        "name": "Libertad Provisoria",
+        "url": "https://open.spotify.com/album/4qQBzFa6K1RLY2YQrfEgjQ"
+      },
+      "artists": [
+        {
+          "name": "Dale Q' Va",
+          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
+        }
+      ],
+      "duration_ms": 177250,
+      "name": "Libertad Provisoria",
+      "url": "https://open.spotify.com/track/7uipuYYQE5kAaiGVC4lxqM"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "No me pidan que baje el volumen",
+        "url": "https://open.spotify.com/album/4lfnuVjqXFDUCswpAqs2SC"
+      },
+      "artists": [
+        {
+          "name": "Ulises Bueno",
+          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
+        }
+      ],
+      "duration_ms": 268199,
+      "name": "Gabriela",
+      "url": "https://open.spotify.com/track/1LoDp9jyH2guSm5wQAy6Ei"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
         "name": "Ya No Llora (En Vivo)",
         "url": "https://open.spotify.com/album/587zI6AqCzZv9ZItyl8h6S"
       },
@@ -779,22 +811,6 @@
       "duration_ms": 178431,
       "name": "Ya No Llora - En Vivo",
       "url": "https://open.spotify.com/track/0wW9gBzVnskOA1xqDXvsVb"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
-        "name": "No me pueden parar",
-        "url": "https://open.spotify.com/album/7jwj5GOWFKWl0HNQErZi3N"
-      },
-      "artists": [
-        {
-          "name": "Ulises Bueno",
-          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
-        }
-      ],
-      "duration_ms": 208750,
-      "name": "Me levante",
-      "url": "https://open.spotify.com/track/0DGJyRo4L8p3AAz1WmUoZ3"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -819,22 +835,6 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Te Suena?",
-        "url": "https://open.spotify.com/album/0Qz9FcH8lCWBbrZVYAiWQK"
-      },
-      "artists": [
-        {
-          "name": "Tru La La",
-          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
-        }
-      ],
-      "duration_ms": 209453,
-      "name": "Mi Cama No Habla",
-      "url": "https://open.spotify.com/track/6wcnesWi7KJsghP4vP2fDb"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
         "name": "Soy Cordobes",
         "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
       },
@@ -851,6 +851,22 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
+        "name": "Te Suena?",
+        "url": "https://open.spotify.com/album/0Qz9FcH8lCWBbrZVYAiWQK"
+      },
+      "artists": [
+        {
+          "name": "Tru La La",
+          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
+        }
+      ],
+      "duration_ms": 209453,
+      "name": "Mi Cama No Habla",
+      "url": "https://open.spotify.com/track/6wcnesWi7KJsghP4vP2fDb"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
         "name": "Sabroso",
         "url": "https://open.spotify.com/album/7e53Mcoxr94SyJi9tLngln"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 223026,
       "name": "Lleg\u00f3 Tu Papi",
       "url": "https://open.spotify.com/track/3jdU5hu76KBxor1EBDDSXR"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
-        "name": "No me pidan que baje el volumen",
-        "url": "https://open.spotify.com/album/4lfnuVjqXFDUCswpAqs2SC"
-      },
-      "artists": [
-        {
-          "name": "Ulises Bueno",
-          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
-        }
-      ],
-      "duration_ms": 268199,
-      "name": "Gabriela",
-      "url": "https://open.spotify.com/track/1LoDp9jyH2guSm5wQAy6Ei"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -971,22 +971,18 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/6QbRKDIhCDGXo5f7Sz5m9i"
+        "name": "Tu Amante En Secreto",
+        "url": "https://open.spotify.com/album/1E4RRsJhsJKtkaFTKnDrOJ"
       },
       "artists": [
         {
-          "name": "Tru La La",
-          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
-        },
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+          "name": "Jean Carlos",
+          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
         }
       ],
-      "duration_ms": 244900,
-      "name": "M\u00e1s",
-      "url": "https://open.spotify.com/track/2QSGExkfdhQo5mj4dNjAqK"
+      "duration_ms": 224680,
+      "name": "Piensa en M\u00ed (En Vivo)",
+      "url": "https://open.spotify.com/track/6AThEqOUzeeJv6G2UPQJwK"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1035,18 +1031,22 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Tu Amante En Secreto",
-        "url": "https://open.spotify.com/album/1E4RRsJhsJKtkaFTKnDrOJ"
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/6QbRKDIhCDGXo5f7Sz5m9i"
       },
       "artists": [
         {
-          "name": "Jean Carlos",
-          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
+          "name": "Tru La La",
+          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
         }
       ],
-      "duration_ms": 224680,
-      "name": "Piensa en M\u00ed (En Vivo)",
-      "url": "https://open.spotify.com/track/6AThEqOUzeeJv6G2UPQJwK"
+      "duration_ms": 244900,
+      "name": "M\u00e1s",
+      "url": "https://open.spotify.com/track/2QSGExkfdhQo5mj4dNjAqK"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1099,22 +1099,18 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Aunque Sea En Otra Vida",
-        "url": "https://open.spotify.com/album/2xzf1jeqi5Fe3FkP8EI2fo"
+        "name": "A Lo Largo Y A Lo Ancho",
+        "url": "https://open.spotify.com/album/2gt2L1ZqiYaTQpwVfD5f55"
       },
       "artists": [
         {
-          "name": "Eugenia Quevedo",
-          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
-        },
-        {
-          "name": "La banda de Carlitos",
-          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
+          "name": "Jean Carlos",
+          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
         }
       ],
-      "duration_ms": 231509,
-      "name": "Aunque Sea En Otra Vida",
-      "url": "https://open.spotify.com/track/3vqqZWAdmThQFxMAiuEZzK"
+      "duration_ms": 230586,
+      "name": "Tu Vas a Volar",
+      "url": "https://open.spotify.com/track/5aarNSF6jcTWgC8L25kpYi"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1139,18 +1135,22 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "A Lo Largo Y A Lo Ancho",
-        "url": "https://open.spotify.com/album/2gt2L1ZqiYaTQpwVfD5f55"
+        "name": "Aunque Sea En Otra Vida",
+        "url": "https://open.spotify.com/album/2xzf1jeqi5Fe3FkP8EI2fo"
       },
       "artists": [
         {
-          "name": "Jean Carlos",
-          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        },
+        {
+          "name": "La banda de Carlitos",
+          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
         }
       ],
-      "duration_ms": 230586,
-      "name": "Tu Vas a Volar",
-      "url": "https://open.spotify.com/track/5aarNSF6jcTWgC8L25kpYi"
+      "duration_ms": 231509,
+      "name": "Aunque Sea En Otra Vida",
+      "url": "https://open.spotify.com/track/3vqqZWAdmThQFxMAiuEZzK"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
+        "name": "Libre al Fin",
+        "url": "https://open.spotify.com/album/5VJPNtW5mNlUN9J8QznTMb"
+      },
+      "artists": [
+        {
+          "name": "Walter Romero",
+          "url": "https://open.spotify.com/artist/1IdEyhu7jbsFcwnvUrdOad"
+        }
+      ],
+      "duration_ms": 246600,
+      "name": "Esperando",
+      "url": "https://open.spotify.com/track/7hMNLoHdTNEQhw22R0RpRF"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
         "name": "Esto Se Acab\u00f3",
         "url": "https://open.spotify.com/album/1usW30QraosvadgKpteABF"
       },
@@ -1367,26 +1383,6 @@
       "duration_ms": 199651,
       "name": "Esto se Acab\u00f3",
       "url": "https://open.spotify.com/track/35nkugOAny7dEuL3b3bNOf"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
-        "name": "No Dire Que Si",
-        "url": "https://open.spotify.com/album/6D9PhAmtEItNJZXHZHJoRj"
-      },
-      "artists": [
-        {
-          "name": "El Loco Amato",
-          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
-        },
-        {
-          "name": "Pia Ka",
-          "url": "https://open.spotify.com/artist/6cvXeCH32OR5AITdGlcoix"
-        }
-      ],
-      "duration_ms": 213920,
-      "name": "No Dire Que Si",
-      "url": "https://open.spotify.com/track/0FJIMGhZs0KgL2tiEgeYlV"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1431,18 +1427,22 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Libre al Fin",
-        "url": "https://open.spotify.com/album/5VJPNtW5mNlUN9J8QznTMb"
+        "name": "No Dire Que Si",
+        "url": "https://open.spotify.com/album/6D9PhAmtEItNJZXHZHJoRj"
       },
       "artists": [
         {
-          "name": "Walter Romero",
-          "url": "https://open.spotify.com/artist/1IdEyhu7jbsFcwnvUrdOad"
+          "name": "El Loco Amato",
+          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
+        },
+        {
+          "name": "Pia Ka",
+          "url": "https://open.spotify.com/artist/6cvXeCH32OR5AITdGlcoix"
         }
       ],
-      "duration_ms": 246600,
-      "name": "Esperando",
-      "url": "https://open.spotify.com/track/7hMNLoHdTNEQhw22R0RpRF"
+      "duration_ms": 213920,
+      "name": "No Dire Que Si",
+      "url": "https://open.spotify.com/track/0FJIMGhZs0KgL2tiEgeYlV"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1751,26 +1751,6 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Me Duele Tu Nombre",
-        "url": "https://open.spotify.com/album/3JPCEgj42U1a2DrCUkywMY"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo Quiroz",
-          "url": "https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn"
-        },
-        {
-          "name": "Q' Lokura",
-          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
-        }
-      ],
-      "duration_ms": 296515,
-      "name": "Me Duele Tu Nombre",
-      "url": "https://open.spotify.com/track/49Q78abEP3Ou0RFXRcAo2h"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/7bPY6lL00xmDVS4VURDFCl"
       },
@@ -1803,6 +1783,26 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
+        "name": "Me Duele Tu Nombre",
+        "url": "https://open.spotify.com/album/3JPCEgj42U1a2DrCUkywMY"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo Quiroz",
+          "url": "https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn"
+        },
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        }
+      ],
+      "duration_ms": 296515,
+      "name": "Me Duele Tu Nombre",
+      "url": "https://open.spotify.com/track/49Q78abEP3Ou0RFXRcAo2h"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
         "name": "Un Nuevo Tiempo",
         "url": "https://open.spotify.com/album/6zh56MX8nIUfdtyydwjaoJ"
       },
@@ -1815,22 +1815,6 @@
       "duration_ms": 136318,
       "name": "Sofia",
       "url": "https://open.spotify.com/track/6gkkXS8MmLcjRjC3laEcCp"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
-        "name": "Con Piel de Cuarteto",
-        "url": "https://open.spotify.com/album/7wOjCagE0rrTQVMfvKcNbh"
-      },
-      "artists": [
-        {
-          "name": "El Turco Oliva",
-          "url": "https://open.spotify.com/artist/0l3lrsagH8oE0CAkXdyNMI"
-        }
-      ],
-      "duration_ms": 236920,
-      "name": "Maldito Coche Negro",
-      "url": "https://open.spotify.com/track/3DVEkLep87N6TM6GffOwa8"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1851,22 +1835,34 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Me Duele Tu Nombre (En Vivo)",
-        "url": "https://open.spotify.com/album/5vvPmtVPa5gMyutIquKVTm"
+        "name": "Con Piel de Cuarteto",
+        "url": "https://open.spotify.com/album/7wOjCagE0rrTQVMfvKcNbh"
       },
       "artists": [
         {
-          "name": "Roc\u00edo Quiroz",
-          "url": "https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn"
-        },
-        {
-          "name": "Q' Lokura",
-          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+          "name": "El Turco Oliva",
+          "url": "https://open.spotify.com/artist/0l3lrsagH8oE0CAkXdyNMI"
         }
       ],
-      "duration_ms": 192483,
-      "name": "Me Duele Tu Nombre (En Vivo)",
-      "url": "https://open.spotify.com/track/2wZfOHTas2wzIXyp7hquFE"
+      "duration_ms": 236920,
+      "name": "Maldito Coche Negro",
+      "url": "https://open.spotify.com/track/3DVEkLep87N6TM6GffOwa8"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "Summer Pack",
+        "url": "https://open.spotify.com/album/6hbdZKUwC4l3Fee6NuxuAm"
+      },
+      "artists": [
+        {
+          "name": "Juan Ingaramo",
+          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
+        }
+      ],
+      "duration_ms": 236890,
+      "name": "Por Amarte",
+      "url": "https://open.spotify.com/track/6F5aVSame3xjIbO4bhzTsM"
     }
   ],
   "unique_name": "100% Cuarteto",

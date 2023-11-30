@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 
 > Soothing, soft piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,935 likes - 80 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,973 likes - 80 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,12 +43,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 | 33 | [Sonnet 1](https://open.spotify.com/track/5VKVUectaKrr9Mq9m3fnWT) | [Frederico Morales](https://open.spotify.com/artist/43oHV1OfcYMyNvj7pwUhTx) | [Sonnet 1](https://open.spotify.com/album/61quLSJezCtYqMsoy6pMAz) | 2:11 |
 | 34 | [Sound Of Mind](https://open.spotify.com/track/4zLErnaWoRXh91YcWZ2LKy) | [Macan Moreira](https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ) | [Sound Of Mind](https://open.spotify.com/album/2dqXzH1k1etLj9Bmx17Rjk) | 2:02 |
 | 35 | [Ellie](https://open.spotify.com/track/4QfPxrgEAfWt0DEjrR1CXw) | [Aeyes Libe](https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv) | [Ellie](https://open.spotify.com/album/5v7bkrqDm8YY8kWWgRQ7cw) | 2:58 |
-| 36 | [When It´s Love](https://open.spotify.com/track/4BLjftEzGWk5hqVdcWbRPM) | [Junie Oakes](https://open.spotify.com/artist/1eZcI6Nskr85kkZFjl9LQS) | [When It´s Love](https://open.spotify.com/album/4PMQap6ziecCjsTx8y9zgz) | 2:42 |
-| 37 | [The Coming Day](https://open.spotify.com/track/7J9IGMMsPyzWh2trBv6OQT) | [Jack Pelayo](https://open.spotify.com/artist/3t11hg9zFYERlfzuO211YG) | [The Coming Day](https://open.spotify.com/album/6go0e0725Fm8wBzypakTMa) | 2:32 |
+| 36 | [The Coming Day](https://open.spotify.com/track/7J9IGMMsPyzWh2trBv6OQT) | [Jack Pelayo](https://open.spotify.com/artist/3t11hg9zFYERlfzuO211YG) | [The Coming Day](https://open.spotify.com/album/6go0e0725Fm8wBzypakTMa) | 2:32 |
+| 37 | [When It´s Love](https://open.spotify.com/track/4BLjftEzGWk5hqVdcWbRPM) | [Junie Oakes](https://open.spotify.com/artist/1eZcI6Nskr85kkZFjl9LQS) | [When It´s Love](https://open.spotify.com/album/4PMQap6ziecCjsTx8y9zgz) | 2:42 |
 | 38 | [Deja](https://open.spotify.com/track/5cm73dj9ydNYALjjUOVPhu) | [Taganema](https://open.spotify.com/artist/6b9S5hXIpAB6V7vyiKdr3d) | [Deja](https://open.spotify.com/album/2UkFNg59LzKPIrdlEWgZGq) | 2:25 |
-| 39 | [Kastepiisk](https://open.spotify.com/track/22fK1BNvptS8jrDqgMQ7Em) | [Jan Thiel](https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb) | [Kastepiisk](https://open.spotify.com/album/47b0xjoL078opTjTxrQ5vm) | 3:21 |
-| 40 | [Languor](https://open.spotify.com/track/4k8N1HD7vWq4Hg02QfnesO) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Kalmte](https://open.spotify.com/album/4togAOBBwtO2gJ7zULCDYi) | 2:21 |
-| 41 | [Les Soir](https://open.spotify.com/track/0WM2fu4FoREAkHiD25SAOj) | [Mes Croquis](https://open.spotify.com/artist/7p0rpxmlHJrDNXr8CP2JhW) | [Les Soir](https://open.spotify.com/album/2pRy5vvv9wU2guTJuw1X9m) | 2:24 |
+| 39 | [Languor](https://open.spotify.com/track/4k8N1HD7vWq4Hg02QfnesO) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Kalmte](https://open.spotify.com/album/4togAOBBwtO2gJ7zULCDYi) | 2:21 |
+| 40 | [Les Soir](https://open.spotify.com/track/0WM2fu4FoREAkHiD25SAOj) | [Mes Croquis](https://open.spotify.com/artist/7p0rpxmlHJrDNXr8CP2JhW) | [Les Soir](https://open.spotify.com/album/2pRy5vvv9wU2guTJuw1X9m) | 2:24 |
+| 41 | [Kastepiisk](https://open.spotify.com/track/22fK1BNvptS8jrDqgMQ7Em) | [Jan Thiel](https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb) | [Kastepiisk](https://open.spotify.com/album/47b0xjoL078opTjTxrQ5vm) | 3:21 |
 | 42 | [A Midnight Sun](https://open.spotify.com/track/6FLe5vn84JPgAAiKz6ofkX) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [A Midnight Sun](https://open.spotify.com/album/5j5ZhmEGBX5jMDsRTXb8fh) | 2:34 |
 | 43 | [Sun sinking at dusk](https://open.spotify.com/track/5Y223UTPJjOIDVS2vs73g0) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Sun sinking at dusk](https://open.spotify.com/album/0L7qsF3GOm7oJg68rmbWMI) | 2:33 |
 | 44 | [Twilights](https://open.spotify.com/track/10qZCmeusg6BbdHDTMADpr) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Twilights](https://open.spotify.com/album/5gjIbZAtznmk77DLADIGFY) | 2:17 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 | 73 | [Felt Improv No\. 31](https://open.spotify.com/track/7hq0zahMPS0Ct7k9tyI59F) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Felt Improv No\. 31](https://open.spotify.com/album/7AqUPWCuSEeAVmkRlA3quC) | 2:24 |
 | 74 | [Nocturnes op.4](https://open.spotify.com/track/6JVzX8BxLiG4WN3xkJZ3Xu) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Nocturnes op.4](https://open.spotify.com/album/46ShreZOyjXZFSZkA7GnnT) | 2:51 |
 | 75 | [Le Jardin de Monsieur Monet](https://open.spotify.com/track/3uzaVkdNuUZOn3KtsQjwDy) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Lionheart](https://open.spotify.com/album/3O26r0jhu5oE0ITWbQJdnX) | 5:13 |
-| 76 | [The New Life](https://open.spotify.com/track/4ngpD9qM5EinF3KKKoyZDB) | [Lemos](https://open.spotify.com/artist/5nXvkyQwcA3mf2B9Wsd3Lh) | [The New Life](https://open.spotify.com/album/4jKT4QSTMTuHh7LmMzUtNb) | 2:18 |
-| 77 | [Himlen](https://open.spotify.com/track/08athgGdqnRmET0kInHb8n) | [Andrea Azzola](https://open.spotify.com/artist/0HPaw3WHFtKOTqUko3e8Nx) | [Himlen](https://open.spotify.com/album/0k2082EFnzxqjaNeLQElgp) | 2:01 |
+| 76 | [Himlen](https://open.spotify.com/track/08athgGdqnRmET0kInHb8n) | [Andrea Azzola](https://open.spotify.com/artist/0HPaw3WHFtKOTqUko3e8Nx) | [Himlen](https://open.spotify.com/album/0k2082EFnzxqjaNeLQElgp) | 2:01 |
+| 77 | [The New Life](https://open.spotify.com/track/4ngpD9qM5EinF3KKKoyZDB) | [Lemos](https://open.spotify.com/artist/5nXvkyQwcA3mf2B9Wsd3Lh) | [The New Life](https://open.spotify.com/album/4jKT4QSTMTuHh7LmMzUtNb) | 2:18 |
 | 78 | [Open Window](https://open.spotify.com/track/2vRsp5AMbl1bex8OGuT1Ox) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Open Window](https://open.spotify.com/album/3Ihliq76Oc21o68PAURoES) | 2:06 |
 | 79 | [Floating](https://open.spotify.com/track/1rtXR0fCnRVp27uFmckZJK) | [Gianluca Piacenza](https://open.spotify.com/artist/7qEuC0mCSgDPFzQQPp8RcS) | [Floating](https://open.spotify.com/album/4Zyls7QoH17wKZlR26b3gY) | 4:14 |
 | 80 | [You've awakened me](https://open.spotify.com/track/7oMTdu5RSdESB6XbkDMpeG) | [Kathrin Holtz](https://open.spotify.com/artist/6okzShndL8TdXSW8hKm17P) | [You've awakened me](https://open.spotify.com/album/7o0cfnB2UbPp90t72z4ury) | 2:20 |
 
-Snapshot ID: `MCxkM2UyYmEzNzgxZTI0NGM3ZDA3MTI4OGEyMjdhZTI0ZjZiOWY3MTU2`
+Snapshot ID: `MCw2MjBlMDU1NjVhMGM0YmI4ZmE3ZTgwNWJiNjA4NmVlODFjOGY5ZTdm`

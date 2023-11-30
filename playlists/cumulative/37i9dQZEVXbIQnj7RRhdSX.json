@@ -13684,7 +13684,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-26",
+      "date_removed": null,
       "duration_ms": 161583,
       "name": "Intro La Divina Commedia",
       "url": "https://open.spotify.com/track/77lp4fXKk6G1Md0aYAl4Mz"
@@ -17142,7 +17142,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-19",
+      "date_removed": null,
       "duration_ms": 181875,
       "name": "Malamente",
       "url": "https://open.spotify.com/track/3myPe2jZvDbPoNXY7v2TU0"
@@ -22334,6 +22334,32 @@
       "duration_ms": 186420,
       "name": "parole dette male",
       "url": "https://open.spotify.com/track/79p8nqfMUF9mxMAT1EGPwO"
+    },
+    {
+      "album": {
+        "name": "La Divina Commedia",
+        "url": "https://open.spotify.com/album/6V2ux3cV4NA4PWx2g1gm0u"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        },
+        {
+          "name": "SHUNE",
+          "url": "https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251320,
+      "name": "Parole Vuote (La Solitudine)",
+      "url": "https://open.spotify.com/track/4QBfVk60RIBQg1uyox78Kh"
     },
     {
       "album": {
@@ -27738,7 +27764,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 188654,
       "name": "Syrup",
       "url": "https://open.spotify.com/track/1CVw4Qr8LTapyiovASUpff"
@@ -30392,7 +30418,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 187573,
       "name": "Visiera A Becco",
       "url": "https://open.spotify.com/track/4ySxBjhmdnkeFUqhKxW3cY"
@@ -31156,7 +31182,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 215421,
       "name": "X CASO (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/2E32Pv8w20r6ZH4oFecxOf"

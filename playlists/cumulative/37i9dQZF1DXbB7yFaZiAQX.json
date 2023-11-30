@@ -3050,7 +3050,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-08",
+      "date_removed": null,
       "duration_ms": 241320,
       "name": "I'm In Love With A German Film Star",
       "url": "https://open.spotify.com/track/7A3rywP8wA9HbL36NMnD81"
@@ -5655,6 +5655,24 @@
     },
     {
       "album": {
+        "name": "The Golden Age of Wireless",
+        "url": "https://open.spotify.com/album/0MaTs2V3oNCaTVoB7rr6Dj"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dolby",
+          "url": "https://open.spotify.com/artist/2Uz58cSxlJgefDaSikxYQ7"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221266,
+      "name": "She Blinded Me With Science",
+      "url": "https://open.spotify.com/track/4RkKf3UBRxF2kn2Vh0ww8l"
+    },
+    {
+      "album": {
         "name": "Halloween: A Thomas Dolby Creation",
         "url": "https://open.spotify.com/album/6pLzq5yYpq1oRki19bysnu"
       },
@@ -5814,7 +5832,7 @@
       ],
       "date_added": "2019-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 268493,
       "name": "Ship of Fools",
       "url": "https://open.spotify.com/track/3ndKgw7LvKO7zIk1rgOQJ2"
@@ -6316,7 +6334,7 @@
       ],
       "date_added": "2019-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 261687,
       "name": "Tears Run Rings",
       "url": "https://open.spotify.com/track/7jEQ43V8AA7UQ6NcG4x1ki"

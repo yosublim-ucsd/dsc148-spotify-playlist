@@ -1,12 +1,12 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 9705,
+  "num_followers": 9778,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MGU4ZDM0MTIxMjY2MmVlNzhiOWVhMDEwNmQ3ZDA1NmFkMDM5Mzk5",
+  "snapshot_id": "MCw5NDU3ZDhlZWY4NGU3MzZkNjRlNjgyMWJjMmJjODUwZjk2MmI5ODUy",
   "tracks": [
     {
       "added_at": "2023-11-24 00:01:00",
@@ -659,22 +659,18 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Exit",
-        "url": "https://open.spotify.com/album/33IS3ibSQBRCKT5cWkZyBL"
+        "name": "Bianule",
+        "url": "https://open.spotify.com/album/6l7RCe4ohTuPzAdPBuvtdl"
       },
       "artists": [
         {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Soweto Gospel Choir",
-          "url": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
+          "name": "Samsong",
+          "url": "https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS"
         }
       ],
-      "duration_ms": 176379,
-      "name": "Exit",
-      "url": "https://open.spotify.com/track/7uEkbtNgUSECmGBWsHmwjT"
+      "duration_ms": 284080,
+      "name": "Bianule",
+      "url": "https://open.spotify.com/track/1DMuaLKEiRKcGDiNhvIhOm"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -699,18 +695,22 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Bianule",
-        "url": "https://open.spotify.com/album/6l7RCe4ohTuPzAdPBuvtdl"
+        "name": "Exit",
+        "url": "https://open.spotify.com/album/33IS3ibSQBRCKT5cWkZyBL"
       },
       "artists": [
         {
-          "name": "Samsong",
-          "url": "https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS"
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Soweto Gospel Choir",
+          "url": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
         }
       ],
-      "duration_ms": 284080,
-      "name": "Bianule",
-      "url": "https://open.spotify.com/track/1DMuaLKEiRKcGDiNhvIhOm"
+      "duration_ms": 176379,
+      "name": "Exit",
+      "url": "https://open.spotify.com/track/7uEkbtNgUSECmGBWsHmwjT"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -807,26 +807,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Praises",
-        "url": "https://open.spotify.com/album/4Y3G7tgPH2GymSaflJNGb0"
-      },
-      "artists": [
-        {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
-        },
-        {
-          "name": "Deitrick Haddon",
-          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
-        }
-      ],
-      "duration_ms": 244300,
-      "name": "Praises",
-      "url": "https://open.spotify.com/track/58tYUrA7rqXufrstqh4UZj"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "S. W. A. G (Saved with Amazing Grace)",
         "url": "https://open.spotify.com/album/4e7jM4Ly4okAfuzhYmqasg"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 281040,
       "name": "My God Is Good - Live",
       "url": "https://open.spotify.com/track/6cUiRdvcV8PxSRdkEIlKUS"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Praises",
+        "url": "https://open.spotify.com/album/4Y3G7tgPH2GymSaflJNGb0"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        },
+        {
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+        }
+      ],
+      "duration_ms": 244300,
+      "name": "Praises",
+      "url": "https://open.spotify.com/track/58tYUrA7rqXufrstqh4UZj"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
+        "name": "Hosanna",
+        "url": "https://open.spotify.com/album/64p2ahUYDuum6CrFPSlmnV"
+      },
+      "artists": [
+        {
+          "name": "KODA",
+          "url": "https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB"
+        }
+      ],
+      "duration_ms": 321684,
+      "name": "Hosanna",
+      "url": "https://open.spotify.com/track/0H1Jd2NNq80u7xF7FzyJtn"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
         "name": "Daily (Remix)",
         "url": "https://open.spotify.com/album/5r78TqhG05fGrwHDpjeUkC"
       },
@@ -951,38 +967,18 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Hosanna",
-        "url": "https://open.spotify.com/album/64p2ahUYDuum6CrFPSlmnV"
+        "name": "African Praise",
+        "url": "https://open.spotify.com/album/5XNTJwz4mGTJAVjNE9gpFn"
       },
       "artists": [
         {
-          "name": "KODA",
-          "url": "https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB"
+          "name": "Kayode Akojenu",
+          "url": "https://open.spotify.com/artist/4O48ObVF6aHUEOgTVaNcwj"
         }
       ],
-      "duration_ms": 321684,
-      "name": "Hosanna",
-      "url": "https://open.spotify.com/track/0H1Jd2NNq80u7xF7FzyJtn"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
-        "name": "Halle",
-        "url": "https://open.spotify.com/album/3mcjpEjMXLuhBeaVPhPoub"
-      },
-      "artists": [
-        {
-          "name": "Ko'rale",
-          "url": "https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS"
-        },
-        {
-          "name": "yoyo michael",
-          "url": "https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv"
-        }
-      ],
-      "duration_ms": 140198,
-      "name": "Halle",
-      "url": "https://open.spotify.com/track/3jjIz7mRqYI8zXutJ9zwad"
+      "duration_ms": 91760,
+      "name": "We Praise You Lord",
+      "url": "https://open.spotify.com/track/5PIWHAMG8q65e3N3R5sO6Q"
     }
   ],
   "unique_name": "Higher",

@@ -1,12 +1,12 @@
 {
   "description": "Los grandes \u00e9xitos de Jos\u00e9 Jos\u00e9 y Juan Gabriel en un mismo lugar.",
-  "num_followers": 131276,
+  "num_followers": 131414,
   "original_name": "Dos \u00cdconos: Jos\u00e9 Jos\u00e9 x Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTFjNzE5ZDFjZjhjYjdiNWE1NmMwZTQyY2E2ZTVkMjg3YzM4YTEz",
+  "snapshot_id": "MCw4ZDU3YmUzZTczNjllZWY5MTAxNmJlZTlhOTQ5MDMwZjE3YjQ4MmU4",
   "tracks": [
     {
       "added_at": "2021-12-29 23:33:57",
@@ -831,22 +831,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Juan Gabriel - 40 Aniversario",
-        "url": "https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 253080,
-      "name": "El Noa Noa",
-      "url": "https://open.spotify.com/track/55LmsCprSozlCgM2XbmhhW"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Los D\u00fao 2",
         "url": "https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19"
       },
@@ -867,18 +851,18 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Secretos",
-        "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
+        "name": "Juan Gabriel - 40 Aniversario",
+        "url": "https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 235000,
-      "name": "Cuando Vayas Conmigo",
-      "url": "https://open.spotify.com/track/2ygSprUUsLJTu16DzspsDm"
+      "duration_ms": 253080,
+      "name": "El Noa Noa",
+      "url": "https://open.spotify.com/track/55LmsCprSozlCgM2XbmhhW"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -895,6 +879,22 @@
       "duration_ms": 199280,
       "name": "No Me Vuelvo a Enamorar",
       "url": "https://open.spotify.com/track/2su8ABoDsXbAXMIqLUgjnK"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Cuando Vayas Conmigo",
+      "url": "https://open.spotify.com/track/2ygSprUUsLJTu16DzspsDm"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "15 Exitos De Oro",
-        "url": "https://open.spotify.com/album/4OP48ZU8qUYanvwyTLAvrt"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 213893,
-      "name": "Lo Que No Fue No Ser\u00e1",
-      "url": "https://open.spotify.com/track/1lpgZHye3BoScIcKpnQRW8"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Con Mariachi Vol.2 (with El Mariachi M\u00e9xico '70 de Pepe L\u00f3pez)",
         "url": "https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 132773,
       "name": "Ya No Vuelvo a Molestarte",
       "url": "https://open.spotify.com/track/7ykNB1WZij1HwzWAEaykA4"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "15 Exitos De Oro",
+        "url": "https://open.spotify.com/album/4OP48ZU8qUYanvwyTLAvrt"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 213893,
+      "name": "Lo Que No Fue No Ser\u00e1",
+      "url": "https://open.spotify.com/track/1lpgZHye3BoScIcKpnQRW8"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
+        "name": "Jos\u00e9 por Siempre Jos\u00e9",
+        "url": "https://open.spotify.com/album/20cSzDuNZl8JfbIz6csFuh"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 217160,
+      "name": "Almohada - Revisitado",
+      "url": "https://open.spotify.com/track/6IpLEAgmrhtbWwawz99r5u"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
         "name": "Con Mariachi Vol.2 (with El Mariachi M\u00e9xico '70 de Pepe L\u00f3pez)",
         "url": "https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 209186,
       "name": "Siempre Estoy Pensando en Ti (with El Mariachi M\u00e9xico '70 de Pepe L\u00f3pez)",
       "url": "https://open.spotify.com/track/3I8DsEUbuONtbZmkwfz4Gp"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
-        "name": "Jos\u00e9 por Siempre Jos\u00e9",
-        "url": "https://open.spotify.com/album/20cSzDuNZl8JfbIz6csFuh"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 217160,
-      "name": "Almohada - Revisitado",
-      "url": "https://open.spotify.com/track/6IpLEAgmrhtbWwawz99r5u"
     },
     {
       "added_at": "2021-12-29 23:33:57",

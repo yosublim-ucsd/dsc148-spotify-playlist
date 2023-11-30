@@ -1,12 +1,12 @@
 {
   "description": "\u5373\u8208\u800c\u81ea\u5728\u3001\u512a\u96c5\u800c\u8212\u7de9\uff0c\u9019\u5f62\u5bb9\u662f\u4e0d\u662f\u50cf\u500b\u597d\u5922\u7684\u611f\u89ba\u5462\uff1f\u5c31\u8b93\u7f8e\u5999\u7684\u7235\u58eb\u6a02\u52a9\u4f60\u5165\u7720\u5427\uff01",
-  "num_followers": 61783,
+  "num_followers": 61820,
   "original_name": "\u50ac\u7720\u7235\u58eb",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOWVkN2RjZGU5ZmIzOTU0Mjc2MDg4MzRmYjcwOTQ3ZWQ2MzBhZGMz",
+  "snapshot_id": "MCw0ZTM1NjFjMDBiYTJjMTU4ZTFhNThjNmE5YzRlNjc2MTExNWJjOTky",
   "tracks": [
     {
       "added_at": "2023-11-20 02:41:27",
@@ -691,18 +691,18 @@
     {
       "added_at": "2023-11-20 02:41:27",
       "album": {
-        "name": "Boss Tenor",
-        "url": "https://open.spotify.com/album/4u4T0lYZ2VbDHOmAwHKxJs"
+        "name": "The Body & The Soul",
+        "url": "https://open.spotify.com/album/4HI73mieaBFtwKS37HmvQH"
       },
       "artists": [
         {
-          "name": "Gene Ammons",
-          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
         }
       ],
-      "duration_ms": 254026,
-      "name": "My Romance - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/3jaUMGTyi4XHBZpXpIWzo2"
+      "duration_ms": 202773,
+      "name": "Dedicated To You",
+      "url": "https://open.spotify.com/track/7Codqj9B5oMniYPUhfv26I"
     },
     {
       "added_at": "2023-11-20 02:41:27",
@@ -743,18 +743,18 @@
     {
       "added_at": "2023-11-20 02:41:27",
       "album": {
-        "name": "The Body & The Soul",
-        "url": "https://open.spotify.com/album/4HI73mieaBFtwKS37HmvQH"
+        "name": "Boss Tenor",
+        "url": "https://open.spotify.com/album/4u4T0lYZ2VbDHOmAwHKxJs"
       },
       "artists": [
         {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+          "name": "Gene Ammons",
+          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
         }
       ],
-      "duration_ms": 202773,
-      "name": "Dedicated To You",
-      "url": "https://open.spotify.com/track/7Codqj9B5oMniYPUhfv26I"
+      "duration_ms": 254026,
+      "name": "My Romance - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/3jaUMGTyi4XHBZpXpIWzo2"
     },
     {
       "added_at": "2023-11-20 02:41:27",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-11-20 02:41:27",
       "album": {
-        "name": "Standards Trio: Reflections",
-        "url": "https://open.spotify.com/album/2iQuKhBU83MbUIsRAKcYPn"
-      },
-      "artists": [
-        {
-          "name": "Kurt Rosenwinkel",
-          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
-        }
-      ],
-      "duration_ms": 195200,
-      "name": "You've Changed",
-      "url": "https://open.spotify.com/track/5iPXzdmW5wxcbWJNw46mOy"
-    },
-    {
-      "added_at": "2023-11-20 02:41:27",
-      "album": {
         "name": "Time Out",
         "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 442226,
       "name": "Strange Meadow Lark",
       "url": "https://open.spotify.com/track/6HvyFdP5JrCQdmxq2qi7MC"
+    },
+    {
+      "added_at": "2023-11-20 02:41:27",
+      "album": {
+        "name": "Standards Trio: Reflections",
+        "url": "https://open.spotify.com/album/2iQuKhBU83MbUIsRAKcYPn"
+      },
+      "artists": [
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        }
+      ],
+      "duration_ms": 195200,
+      "name": "You've Changed",
+      "url": "https://open.spotify.com/track/5iPXzdmW5wxcbWJNw46mOy"
     },
     {
       "added_at": "2023-11-20 02:41:27",
@@ -927,6 +927,22 @@
     {
       "added_at": "2023-11-20 02:41:27",
       "album": {
+        "name": "Blue Train (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 477760,
+      "name": "I'm Old Fashioned - Remastered 2003/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/5p95DUZplmVxY0XCQ3hxUV"
+    },
+    {
+      "added_at": "2023-11-20 02:41:27",
+      "album": {
         "name": "Thelonious Monk with John Coltrane (OJC Remaster)",
         "url": "https://open.spotify.com/album/5WqkiRiXHyiML0QkLjqooy"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 381520,
       "name": "Ruby, My Dear",
       "url": "https://open.spotify.com/track/1BMirA3vwj2NLamWkJsVYq"
-    },
-    {
-      "added_at": "2023-11-20 02:41:27",
-      "album": {
-        "name": "Blue Train (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 477760,
-      "name": "I'm Old Fashioned - Remastered 2003/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/5p95DUZplmVxY0XCQ3hxUV"
     },
     {
       "added_at": "2023-11-20 02:41:27",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-11-20 02:41:27",
       "album": {
-        "name": "Another Standard",
-        "url": "https://open.spotify.com/album/5uQeyBHwBYFsxAFqyjjY9Z"
-      },
-      "artists": [
-        {
-          "name": "Bob Berg",
-          "url": "https://open.spotify.com/artist/1gqL9JWgVW2O87KbYWPNbC"
-        }
-      ],
-      "duration_ms": 335333,
-      "name": "All The Way",
-      "url": "https://open.spotify.com/track/6rUGbjo3y0MbeQNaPfytXe"
-    },
-    {
-      "added_at": "2023-11-20 02:41:27",
-      "album": {
         "name": "The Original Quartet With Chet Baker",
         "url": "https://open.spotify.com/album/7r5zWHLMNah1gedwI4S9AA"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 195160,
       "name": "Lullaby Of The Leaves - 1998 Digital Remaster",
       "url": "https://open.spotify.com/track/08rTZ8jNknn8VBS3v2o8pT"
+    },
+    {
+      "added_at": "2023-11-20 02:41:27",
+      "album": {
+        "name": "Another Standard",
+        "url": "https://open.spotify.com/album/5uQeyBHwBYFsxAFqyjjY9Z"
+      },
+      "artists": [
+        {
+          "name": "Bob Berg",
+          "url": "https://open.spotify.com/artist/1gqL9JWgVW2O87KbYWPNbC"
+        }
+      ],
+      "duration_ms": 335333,
+      "name": "All The Way",
+      "url": "https://open.spotify.com/track/6rUGbjo3y0MbeQNaPfytXe"
     },
     {
       "added_at": "2023-11-20 02:41:27",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-11-20 02:41:27",
       "album": {
-        "name": "Scott Hamilton Plays Ballads",
-        "url": "https://open.spotify.com/album/0bw16TpTm9imdckwKYYoKm"
-      },
-      "artists": [
-        {
-          "name": "Scott Hamilton",
-          "url": "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
-        }
-      ],
-      "duration_ms": 220666,
-      "name": "Maybe September",
-      "url": "https://open.spotify.com/track/7wGqWPW8haFrmvikCyS5Qc"
-    },
-    {
-      "added_at": "2023-11-20 02:41:27",
-      "album": {
         "name": "Everybody Digs Bill Evans",
         "url": "https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 221066,
       "name": "Lucky To Be Me",
       "url": "https://open.spotify.com/track/253MlEWhgOkU3ncefccjMR"
+    },
+    {
+      "added_at": "2023-11-20 02:41:27",
+      "album": {
+        "name": "Scott Hamilton Plays Ballads",
+        "url": "https://open.spotify.com/album/0bw16TpTm9imdckwKYYoKm"
+      },
+      "artists": [
+        {
+          "name": "Scott Hamilton",
+          "url": "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
+        }
+      ],
+      "duration_ms": 220666,
+      "name": "Maybe September",
+      "url": "https://open.spotify.com/track/7wGqWPW8haFrmvikCyS5Qc"
     },
     {
       "added_at": "2023-11-20 02:41:27",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2023-11-20 02:41:27",
       "album": {
-        "name": "Remembering Billie",
-        "url": "https://open.spotify.com/album/2gnDlzECePgE9e07pihbYd"
+        "name": "The Gotland Session",
+        "url": "https://open.spotify.com/album/1eMVzFOPZrjBlEGKXYxadA"
       },
       "artists": [
         {
-          "name": "Scott Hamilton",
-          "url": "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
+          "name": "Magnus Ringblom Quartet",
+          "url": "https://open.spotify.com/artist/253IbsVCS7UKpL61Dv5hru"
         }
       ],
-      "duration_ms": 322133,
-      "name": "Good Morning Heartache",
-      "url": "https://open.spotify.com/track/14aFuIi1l2arBrZfBv9fBP"
+      "duration_ms": 193750,
+      "name": "Last Ride Home",
+      "url": "https://open.spotify.com/track/22QZgO76vLjdpZY161iF72"
     }
   ],
   "unique_name": "\u50ac\u7720\u7235\u58eb",

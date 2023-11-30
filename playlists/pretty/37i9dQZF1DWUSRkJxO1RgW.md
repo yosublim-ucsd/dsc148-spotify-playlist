@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSRkJxO1RgW.md) - [plain]
 
 > Canciones que marcaron la década de los 80s en Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,513 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,586 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSRkJxO1RgW.md) - [plain]
 | 32 | [Mi Novia Se Cayó en un Pozo Ciego \- Remasterizado 2008](https://open.spotify.com/track/38inVmG6skP7NI1CkyVZ7s) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Yo Te Avisé](https://open.spotify.com/album/2DJSgXqWhU2iJT2hPP2HCu) | 3:57 |
 | 33 | [Estallando Desde el Océano](https://open.spotify.com/track/7379uubtjZDDT6Phsj4nhj) | [Sumo](https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W) | [Llegando Los Monos](https://open.spotify.com/album/2kn0EF90FuahMHtPpwVsX4) | 3:34 |
 | 34 | [Barbazul Versus el Amor Letal](https://open.spotify.com/track/3GoSaTEDB00eXQdCZSw0rM) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Gulp!](https://open.spotify.com/album/5UATn22oJa1cBrnbnZ88eA) | 4:19 |
-| 35 | [Brilla \(Shine\)](https://open.spotify.com/track/4xqttklZFV1w1RKjbVh4na) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Corderos en la Noche](https://open.spotify.com/album/4Fpi6uelomG6RCL39kTEt9) | 3:10 |
+| 35 | [Era En Abril](https://open.spotify.com/track/5JQNTG6ExMEnlFZy27xRkw) | [Juan Carlos Baglietto](https://open.spotify.com/artist/1Mt6JeVWV9Tvgk8ercp5O9) | [Tiempos Dificiles](https://open.spotify.com/album/37NSEn4idb7uJRjiDexLmM) | 4:44 |
 | 36 | [Buscando un Símbolo de Paz](https://open.spotify.com/track/1pLQZ6MwbYaLqzJT3imTBU) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Parte De La Religion](https://open.spotify.com/album/4MrFVzdNEgxfZbJyC2RQt9) | 4:42 |
 | 37 | [Por Qué No Puedo Ser Del Jet Set? \- Remasterizado 2007](https://open.spotify.com/track/2JD91cpdSGoNh9K50GmByg) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Soda Stereo \(Remastered\)](https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt) | 2:20 |
-| 38 | [Era En Abril](https://open.spotify.com/track/5JQNTG6ExMEnlFZy27xRkw) | [Juan Carlos Baglietto](https://open.spotify.com/artist/1Mt6JeVWV9Tvgk8ercp5O9) | [Tiempos Dificiles](https://open.spotify.com/album/37NSEn4idb7uJRjiDexLmM) | 4:44 |
+| 38 | [Brilla \(Shine\)](https://open.spotify.com/track/4xqttklZFV1w1RKjbVh4na) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Corderos en la Noche](https://open.spotify.com/album/4Fpi6uelomG6RCL39kTEt9) | 3:10 |
 | 39 | [Imágenes Paganas](https://open.spotify.com/track/6hiXQhwO98tEbNNbWtNS1Y) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [Vivo](https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm) | 4:29 |
 | 40 | [El Satánico Dr\. Cadillac \- Remasterizado 2008](https://open.spotify.com/track/1GcL18n7WMpc6xRwY7D0bE) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [El Satánico Dr\. Cadillac](https://open.spotify.com/album/5VNRf3l7z1prtgHuKNhsc8) | 4:01 |
 | 41 | [Lunes Por La Madrugada](https://open.spotify.com/track/0F9DOXIFk0rJW9AmDkUuSz) | [Los Abuelos De La Nada](https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me) | [Los Abuelos De La Nada 1](https://open.spotify.com/album/2SoFsWPQgW2rSGiBmn1GMI) | 3:14 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSRkJxO1RgW.md) - [plain]
 | 47 | [1\-2 Ultraviolento](https://open.spotify.com/track/3ZFfwUQxXspg5hhJXyFR8J) | [Los Violadores](https://open.spotify.com/artist/4EkrhlCS2DbFxvC3Uhq6p2) | [Lo Mejor De Los Violadores](https://open.spotify.com/album/5mabtHYSp09PBdcIvTut7i) | 4:18 |
 | 48 | [Maribel Se Durmió](https://open.spotify.com/track/5BaqCOW8FaahrXIRIvU6Ad) | [Spinetta Jade](https://open.spotify.com/artist/3WxVICwFDAWMTWH8sELmRe) | [Bajo Belgrano](https://open.spotify.com/album/3pFMaPwaHb6D0EkMtRlaO9) | 2:35 |
 | 49 | [Amanece En La Ruta](https://open.spotify.com/track/29UOHJBpXY1L1QiWaZLY8o) | [Suéter](https://open.spotify.com/artist/6YbPwijYI1KH2v4aPzAORT) | [Completo](https://open.spotify.com/album/1kzbderno6TMQbGXYGLbtx) | 3:51 |
-| 50 | [Sin Hilo](https://open.spotify.com/track/6qLoe5HRx2GNv21z30QL53) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Corderos en la Noche](https://open.spotify.com/album/4Fpi6uelomG6RCL39kTEt9) | 4:38 |
-| 51 | [Sucia Estrella](https://open.spotify.com/track/5HkF4wdtGZkskTOpp0UwOH) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [Ratones Paranoicos](https://open.spotify.com/album/4jiSCesO2MeWBzRze9cfRq) | 3:22 |
+| 50 | [Sucia Estrella](https://open.spotify.com/track/5HkF4wdtGZkskTOpp0UwOH) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [Ratones Paranoicos](https://open.spotify.com/album/4jiSCesO2MeWBzRze9cfRq) | 3:22 |
+| 51 | [Sin Hilo](https://open.spotify.com/track/6qLoe5HRx2GNv21z30QL53) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Corderos en la Noche](https://open.spotify.com/album/4Fpi6uelomG6RCL39kTEt9) | 4:38 |
 | 52 | [No Llores Por Mí, Argentina \(En Vivo\)](https://open.spotify.com/track/7nYOhcrbQmeetR6f4hMoVM) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [Yo No Quiero Volverme Tan Loco \(En Vivo\)](https://open.spotify.com/album/3w5AZnbgckUFu8kcH79DAr) | 3:31 |
 | 53 | [Entregá el Marrón](https://open.spotify.com/track/1U9nKdWvYxGLyoi25KSSdh) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [El Milagro Argentino](https://open.spotify.com/album/2pqscM7JlS6XR6fk7Y8tVZ) | 2:22 |
 | 54 | [Cancion Del Pinar](https://open.spotify.com/track/4YPLZxPs21yQQ1noPsLWNo) | [Silvina Garre](https://open.spotify.com/artist/6q9n20PmMRLtZc1xCgq0r3) | [La Mañana Siguiente](https://open.spotify.com/album/3FiojM8DKWg6Jo4fYbc4qg) | 3:41 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSRkJxO1RgW.md) - [plain]
 | 59 | [Fantasma De Canterville](https://open.spotify.com/track/5o3XTDIlBbl66xPNLj1dol) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [El Fantasma De Canterville](https://open.spotify.com/album/5ftByhg3rSWly4WhsALmh8) | 3:48 |
 | 60 | [Enciende Mi Fuego](https://open.spotify.com/track/1fE3XzV4QvyqP67lejrNSM) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [40 Dibujos Ahí En El Piso](https://open.spotify.com/album/0ZNRl9pxbglsYLKRdSEmz0) | 3:44 |
 
-Snapshot ID: `MCwxM2M1OWExMDVhY2UwOGZhNzNiOGQzYmNkM2E5NTBiNmFhZTAwNGEz`
+Snapshot ID: `MCwxY2Y1YmFlNzkzZWE3MGQ1MTQ0MDM0OTgwN2RmNDNmN2ZjNTllNjQz`

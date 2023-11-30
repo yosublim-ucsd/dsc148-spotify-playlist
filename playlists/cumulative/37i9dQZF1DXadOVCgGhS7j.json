@@ -1112,7 +1112,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 170826,
       "name": "Galway Girl",
       "url": "https://open.spotify.com/track/0afhq8XCExXpqazXczTSve"
@@ -3340,6 +3340,24 @@
       "duration_ms": 238733,
       "name": "Walking On Sunshine",
       "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
+    },
+    {
+      "album": {
+        "name": "Everything Is 4",
+        "url": "https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207719,
+      "name": "Want to Want Me",
+      "url": "https://open.spotify.com/track/7oGZAicScQt96OAW4AruYy"
     },
     {
       "album": {

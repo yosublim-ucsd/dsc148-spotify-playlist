@@ -1,12 +1,12 @@
 {
   "description": "Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists.",
-  "num_followers": 56928,
+  "num_followers": 57062,
   "original_name": "Gospel Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzQ1YmI2Yjk4ODY2NjFjN2YxMWVlZjMzODE3MmUwZWI4NWMwOWZk",
+  "snapshot_id": "MCwxYzQ2Y2JmYjM3ZTdkZmQzNTI1ZTMxNDM1MzEwMDY3ZWRmMWY4NmZh",
   "tracks": [
     {
       "added_at": "2023-11-27 01:39:02",
@@ -115,22 +115,6 @@
     {
       "added_at": "2023-11-27 01:39:02",
       "album": {
-        "name": "A Tori Kelly Christmas",
-        "url": "https://open.spotify.com/album/3T1Te4622DNLaTajXIkY9l"
-      },
-      "artists": [
-        {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
-        }
-      ],
-      "duration_ms": 220941,
-      "name": "Joy To The World / Joyful, Joyful",
-      "url": "https://open.spotify.com/track/64AQwAGYH1DhgeopzyJGMB"
-    },
-    {
-      "added_at": "2023-11-27 01:39:02",
-      "album": {
         "name": "O Come, O Come Emmanuel (feat. IAMSON)",
         "url": "https://open.spotify.com/album/7CDPF0LkzljWNbw1TbD0zw"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 207906,
       "name": "O Come, O Come Emmanuel (feat. IAMSON)",
       "url": "https://open.spotify.com/track/6dH57NYV3qppnaef1bx6QP"
+    },
+    {
+      "added_at": "2023-11-27 01:39:02",
+      "album": {
+        "name": "A Tori Kelly Christmas",
+        "url": "https://open.spotify.com/album/3T1Te4622DNLaTajXIkY9l"
+      },
+      "artists": [
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        }
+      ],
+      "duration_ms": 220941,
+      "name": "Joy To The World / Joyful, Joyful",
+      "url": "https://open.spotify.com/track/64AQwAGYH1DhgeopzyJGMB"
     },
     {
       "added_at": "2023-11-27 01:39:02",
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-11-27 01:39:02",
       "album": {
-        "name": "A Mary Mary Christmas",
-        "url": "https://open.spotify.com/album/3OAd6N0ci79PHcxjBvgQ73"
-      },
-      "artists": [
-        {
-          "name": "Mary Mary",
-          "url": "https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde"
-        }
-      ],
-      "duration_ms": 215586,
-      "name": "Hark the Herald Angels Sing",
-      "url": "https://open.spotify.com/track/4nas0awE85EWzlwwgb7Tw7"
-    },
-    {
-      "added_at": "2023-11-27 01:39:02",
-      "album": {
         "name": "Christmas With PJ Morton",
         "url": "https://open.spotify.com/album/6CCI8iFCudEj8BrLUs3Mj6"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 248663,
       "name": "Do You Believe (feat. Yolanda Adams)",
       "url": "https://open.spotify.com/track/4Arl2nYTR4A0vTs4im5mYb"
+    },
+    {
+      "added_at": "2023-11-27 01:39:02",
+      "album": {
+        "name": "A Mary Mary Christmas",
+        "url": "https://open.spotify.com/album/3OAd6N0ci79PHcxjBvgQ73"
+      },
+      "artists": [
+        {
+          "name": "Mary Mary",
+          "url": "https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde"
+        }
+      ],
+      "duration_ms": 215586,
+      "name": "Hark the Herald Angels Sing",
+      "url": "https://open.spotify.com/track/4nas0awE85EWzlwwgb7Tw7"
     },
     {
       "added_at": "2023-11-27 01:39:02",
@@ -299,18 +299,22 @@
     {
       "added_at": "2023-11-27 01:39:02",
       "album": {
-        "name": "Psalms, Hymns & Spiritual Songs",
-        "url": "https://open.spotify.com/album/20Ahz7xI2IFw7bdl0FE6On"
+        "name": "Motown Christmas",
+        "url": "https://open.spotify.com/album/7J5fdT8gIfcxJ4CV7wH73w"
       },
       "artists": [
         {
-          "name": "Donnie McClurkin",
-          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Chrisette Michele",
+          "url": "https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj"
         }
       ],
-      "duration_ms": 219480,
-      "name": "Agnus Dei",
-      "url": "https://open.spotify.com/track/5ebTabNcIlDSVJ4uylOcX3"
+      "duration_ms": 267666,
+      "name": "Angels We Have Heard On High",
+      "url": "https://open.spotify.com/track/16WDbS7dNvKGCMoS8tlZLx"
     },
     {
       "added_at": "2023-11-27 01:39:02",
@@ -331,22 +335,18 @@
     {
       "added_at": "2023-11-27 01:39:02",
       "album": {
-        "name": "Motown Christmas",
-        "url": "https://open.spotify.com/album/7J5fdT8gIfcxJ4CV7wH73w"
+        "name": "One Wish / The Holiday Album",
+        "url": "https://open.spotify.com/album/7bEbn6yaqOzXmb3eAXDRbU"
       },
       "artists": [
         {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Chrisette Michele",
-          "url": "https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj"
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 267666,
-      "name": "Angels We Have Heard On High",
-      "url": "https://open.spotify.com/track/16WDbS7dNvKGCMoS8tlZLx"
+      "duration_ms": 186666,
+      "name": "O Come O Come Emmanuel",
+      "url": "https://open.spotify.com/track/2rMq0mJtZhgXwwn46qFGLK"
     },
     {
       "added_at": "2023-11-27 01:39:02",
@@ -387,18 +387,18 @@
     {
       "added_at": "2023-11-27 01:39:02",
       "album": {
-        "name": "One Wish / The Holiday Album",
-        "url": "https://open.spotify.com/album/7bEbn6yaqOzXmb3eAXDRbU"
+        "name": "Psalms, Hymns & Spiritual Songs",
+        "url": "https://open.spotify.com/album/20Ahz7xI2IFw7bdl0FE6On"
       },
       "artists": [
         {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
         }
       ],
-      "duration_ms": 186666,
-      "name": "O Come O Come Emmanuel",
-      "url": "https://open.spotify.com/track/2rMq0mJtZhgXwwn46qFGLK"
+      "duration_ms": 219480,
+      "name": "Agnus Dei",
+      "url": "https://open.spotify.com/track/5ebTabNcIlDSVJ4uylOcX3"
     },
     {
       "added_at": "2023-11-27 01:39:02",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-11-27 01:39:02",
       "album": {
-        "name": "Silent Night: Songs For Christmas",
-        "url": "https://open.spotify.com/album/5xInXUBHp3zpSTpwUsgvmp"
-      },
-      "artists": [
-        {
-          "name": "Mahalia Jackson",
-          "url": "https://open.spotify.com/artist/6QBUIuGCAJSAtefEY1EEdB"
-        }
-      ],
-      "duration_ms": 234440,
-      "name": "O Little Town of Bethlehem",
-      "url": "https://open.spotify.com/track/68edTo4Prl09iToMTtqanW"
-    },
-    {
-      "added_at": "2023-11-27 01:39:02",
-      "album": {
         "name": "This Christmas",
         "url": "https://open.spotify.com/album/3r8Q53TiFAKYR19SBLYL75"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 232720,
       "name": "Christmas Ain't Christmas (Without The One You Love)",
       "url": "https://open.spotify.com/track/1AGyI7SdbBZo21G0obtQrH"
+    },
+    {
+      "added_at": "2023-11-27 01:39:02",
+      "album": {
+        "name": "Silent Night: Songs For Christmas",
+        "url": "https://open.spotify.com/album/5xInXUBHp3zpSTpwUsgvmp"
+      },
+      "artists": [
+        {
+          "name": "Mahalia Jackson",
+          "url": "https://open.spotify.com/artist/6QBUIuGCAJSAtefEY1EEdB"
+        }
+      ],
+      "duration_ms": 234440,
+      "name": "O Little Town of Bethlehem",
+      "url": "https://open.spotify.com/track/68edTo4Prl09iToMTtqanW"
     },
     {
       "added_at": "2023-11-27 01:39:02",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-11-27 01:39:02",
       "album": {
+        "name": "Family Christmas",
+        "url": "https://open.spotify.com/album/3y6kzpy1GnrxR7H1KkGBuh"
+      },
+      "artists": [
+        {
+          "name": "The Clark Sisters",
+          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
+        }
+      ],
+      "duration_ms": 167266,
+      "name": "Oh Come Emmanuel",
+      "url": "https://open.spotify.com/track/2M4bPMboF6KmA4paixqo0I"
+    },
+    {
+      "added_at": "2023-11-27 01:39:02",
+      "album": {
         "name": "Mothers And Shepherds",
         "url": "https://open.spotify.com/album/2n28BJpolDoB8VZQ9Wr3Dj"
       },
@@ -683,18 +699,18 @@
     {
       "added_at": "2023-11-27 01:39:02",
       "album": {
-        "name": "Family Christmas",
-        "url": "https://open.spotify.com/album/3y6kzpy1GnrxR7H1KkGBuh"
+        "name": "What A Night! A Christmas Album",
+        "url": "https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui"
       },
       "artists": [
         {
-          "name": "The Clark Sisters",
-          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
         }
       ],
-      "duration_ms": 167266,
-      "name": "Oh Come Emmanuel",
-      "url": "https://open.spotify.com/track/2M4bPMboF6KmA4paixqo0I"
+      "duration_ms": 275373,
+      "name": "Song For The Hopeful (feat. Kim Burrell)",
+      "url": "https://open.spotify.com/track/12cTeug1pE6zXTxZY5tJHj"
     },
     {
       "added_at": "2023-11-27 01:39:02",
@@ -711,22 +727,6 @@
       "duration_ms": 324560,
       "name": "Go Tell",
       "url": "https://open.spotify.com/track/32u9xTZ9N9fJX9mMNymVhx"
-    },
-    {
-      "added_at": "2023-11-27 01:39:02",
-      "album": {
-        "name": "What A Night! A Christmas Album",
-        "url": "https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 275373,
-      "name": "Song For The Hopeful (feat. Kim Burrell)",
-      "url": "https://open.spotify.com/track/12cTeug1pE6zXTxZY5tJHj"
     },
     {
       "added_at": "2023-11-27 01:39:02",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-11-27 01:39:02",
       "album": {
-        "name": "Infinite Christmas",
-        "url": "https://open.spotify.com/album/3FEZGStis8kVGpnh54NF8h"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 265475,
-      "name": "Beautiful Christmas",
-      "url": "https://open.spotify.com/track/4HGqkFupdoozBF91E1MRS0"
-    },
-    {
-      "added_at": "2023-11-27 01:39:02",
-      "album": {
         "name": "It's Christmas",
         "url": "https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj"
       },
@@ -783,6 +767,38 @@
       "duration_ms": 264573,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/4DEyCl5t6wuxLZnUBQss8N"
+    },
+    {
+      "added_at": "2023-11-27 01:39:02",
+      "album": {
+        "name": "The Christmas Collection, Vol. II",
+        "url": "https://open.spotify.com/album/6NgePcACnWDn6juiNatZc9"
+      },
+      "artists": [
+        {
+          "name": "Marc Martel",
+          "url": "https://open.spotify.com/artist/2JddlNuXFdAGQorDMTAOmy"
+        }
+      ],
+      "duration_ms": 164826,
+      "name": "What Christmas Means to Me",
+      "url": "https://open.spotify.com/track/7cIXP0NlDmF1MYy9rMrvLA"
+    },
+    {
+      "added_at": "2023-11-27 01:39:02",
+      "album": {
+        "name": "Infinite Christmas",
+        "url": "https://open.spotify.com/album/3FEZGStis8kVGpnh54NF8h"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 265475,
+      "name": "Beautiful Christmas",
+      "url": "https://open.spotify.com/track/4HGqkFupdoozBF91E1MRS0"
     },
     {
       "added_at": "2023-11-27 01:39:02",
@@ -807,22 +823,6 @@
       "duration_ms": 321373,
       "name": "Love's Holiday",
       "url": "https://open.spotify.com/track/1CLKbZfiNy5LoSOsJtOE4c"
-    },
-    {
-      "added_at": "2023-11-27 01:39:02",
-      "album": {
-        "name": "The Christmas Collection, Vol. II",
-        "url": "https://open.spotify.com/album/6NgePcACnWDn6juiNatZc9"
-      },
-      "artists": [
-        {
-          "name": "Marc Martel",
-          "url": "https://open.spotify.com/artist/2JddlNuXFdAGQorDMTAOmy"
-        }
-      ],
-      "duration_ms": 164826,
-      "name": "What Christmas Means to Me",
-      "url": "https://open.spotify.com/track/7cIXP0NlDmF1MYy9rMrvLA"
     },
     {
       "added_at": "2023-11-27 01:39:02",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-11-27 01:39:02",
       "album": {
-        "name": "Christmas With Dottie",
-        "url": "https://open.spotify.com/album/6fgwFXYGyJ6XgCtxCjLKJU"
-      },
-      "artists": [
-        {
-          "name": "Dottie Peoples",
-          "url": "https://open.spotify.com/artist/1te27TWYSqADLWW5ZDQfnb"
-        }
-      ],
-      "duration_ms": 255600,
-      "name": "Jesus What a Wonderful Child",
-      "url": "https://open.spotify.com/track/0lhWmXuHinXh3CTXOVECEC"
-    },
-    {
-      "added_at": "2023-11-27 01:39:02",
-      "album": {
         "name": "Tell God Thank You",
         "url": "https://open.spotify.com/album/3h17JxbTHEzTq55RXgA3DZ"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 167558,
       "name": "Great Christmas",
       "url": "https://open.spotify.com/track/6pt8hwewlxOm7UZfEsx9t4"
+    },
+    {
+      "added_at": "2023-11-27 01:39:02",
+      "album": {
+        "name": "Christmas With Dottie",
+        "url": "https://open.spotify.com/album/6fgwFXYGyJ6XgCtxCjLKJU"
+      },
+      "artists": [
+        {
+          "name": "Dottie Peoples",
+          "url": "https://open.spotify.com/artist/1te27TWYSqADLWW5ZDQfnb"
+        }
+      ],
+      "duration_ms": 255600,
+      "name": "Jesus What a Wonderful Child",
+      "url": "https://open.spotify.com/track/0lhWmXuHinXh3CTXOVECEC"
     },
     {
       "added_at": "2023-11-27 01:39:02",
@@ -1151,22 +1151,18 @@
     {
       "added_at": "2023-11-27 01:39:02",
       "album": {
-        "name": "Warm",
-        "url": "https://open.spotify.com/album/3OuRCknIWadGRarsOyhdgC"
+        "name": "Christmas with Yolanda Adams",
+        "url": "https://open.spotify.com/album/2kIjr53nRxMlB1TRqjBQq5"
       },
       "artists": [
         {
-          "name": "AO1 Collective",
-          "url": "https://open.spotify.com/artist/7B1PFNIplX3KFKPizcl8e5"
-        },
-        {
-          "name": "Jeremiah Paltan",
-          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
+          "name": "Yolanda Adams",
+          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Warm",
-      "url": "https://open.spotify.com/track/5spzlJAr9QnRzkF0kJhGhv"
+      "duration_ms": 200760,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/2EtIX4Jay8443y66nzTTpr"
     },
     {
       "added_at": "2023-11-27 01:39:02",
@@ -1191,18 +1187,22 @@
     {
       "added_at": "2023-11-27 01:39:02",
       "album": {
-        "name": "Christmas with Yolanda Adams",
-        "url": "https://open.spotify.com/album/2kIjr53nRxMlB1TRqjBQq5"
+        "name": "Warm",
+        "url": "https://open.spotify.com/album/3OuRCknIWadGRarsOyhdgC"
       },
       "artists": [
         {
-          "name": "Yolanda Adams",
-          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
+          "name": "AO1 Collective",
+          "url": "https://open.spotify.com/artist/7B1PFNIplX3KFKPizcl8e5"
+        },
+        {
+          "name": "Jeremiah Paltan",
+          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
         }
       ],
-      "duration_ms": 200760,
-      "name": "Silent Night",
-      "url": "https://open.spotify.com/track/2EtIX4Jay8443y66nzTTpr"
+      "duration_ms": 176000,
+      "name": "Warm",
+      "url": "https://open.spotify.com/track/5spzlJAr9QnRzkF0kJhGhv"
     },
     {
       "added_at": "2023-11-27 01:39:02",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-11-27 01:39:02",
       "album": {
+        "name": "Joy To The World",
+        "url": "https://open.spotify.com/album/6cJAAI5DrfmD8S9kWi8LhK"
+      },
+      "artists": [
+        {
+          "name": "Marvin Sapp",
+          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
+        }
+      ],
+      "duration_ms": 340800,
+      "name": "Glory To The Lamb",
+      "url": "https://open.spotify.com/track/3DeqedtaqSp4TDnYD5VXcy"
+    },
+    {
+      "added_at": "2023-11-27 01:39:02",
+      "album": {
         "name": "A Very McCrary Christmas",
         "url": "https://open.spotify.com/album/3cadYbVxIyNYQ88aWR45jg"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 210746,
       "name": "Joyful, Joyful",
       "url": "https://open.spotify.com/track/1msKaoGQtek67evpapFJAF"
-    },
-    {
-      "added_at": "2023-11-27 01:39:02",
-      "album": {
-        "name": "Joy To The World",
-        "url": "https://open.spotify.com/album/6cJAAI5DrfmD8S9kWi8LhK"
-      },
-      "artists": [
-        {
-          "name": "Marvin Sapp",
-          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
-        }
-      ],
-      "duration_ms": 340800,
-      "name": "Glory To The Lamb",
-      "url": "https://open.spotify.com/track/3DeqedtaqSp4TDnYD5VXcy"
     },
     {
       "added_at": "2023-11-27 01:39:02",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-11-27 01:39:02",
       "album": {
-        "name": "Holiday Love Sounds of Christmas",
-        "url": "https://open.spotify.com/album/2ovxcV44GZ2oFfMnaWMoqs"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 166906,
-      "name": "Little Drummer Boy",
-      "url": "https://open.spotify.com/track/5Xlqkwclz9W9aW8yeles2Q"
-    },
-    {
-      "added_at": "2023-11-27 01:39:02",
-      "album": {
         "name": "Christmas at Home with Juanita Bynum",
         "url": "https://open.spotify.com/album/08EkN3rQ57rdy1IoKCR8HN"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 303853,
       "name": "It's Christmas Time",
       "url": "https://open.spotify.com/track/5uDhl3gqNb5HcqlgUIJTFk"
+    },
+    {
+      "added_at": "2023-11-27 01:39:02",
+      "album": {
+        "name": "Holiday Love Sounds of Christmas",
+        "url": "https://open.spotify.com/album/2ovxcV44GZ2oFfMnaWMoqs"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 166906,
+      "name": "Little Drummer Boy",
+      "url": "https://open.spotify.com/track/5Xlqkwclz9W9aW8yeles2Q"
     },
     {
       "added_at": "2023-11-27 01:39:02",
@@ -1407,22 +1407,18 @@
     {
       "added_at": "2023-11-27 01:39:02",
       "album": {
-        "name": "Home With You (feat. Chant\u00e9 Moore)",
-        "url": "https://open.spotify.com/album/4SP3l1UjxAcb1Tj7NmqCdu"
+        "name": "Christmas Joy",
+        "url": "https://open.spotify.com/album/04GuFkpdc8tIOklBEsS8Tl"
       },
       "artists": [
         {
-          "name": "VaShawn Mitchell",
-          "url": "https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA"
-        },
-        {
-          "name": "Chant\u00e9 Moore",
-          "url": "https://open.spotify.com/artist/77OlE8SkEHDkJczfswzDFo"
+          "name": "Brandon Camphor & One Way",
+          "url": "https://open.spotify.com/artist/4mLHthOzPH2UIygTENj5Bm"
         }
       ],
-      "duration_ms": 245110,
-      "name": "Home With You (feat. Chant\u00e9 Moore)",
-      "url": "https://open.spotify.com/track/6vXINx2IM1WpPYMm3xb816"
+      "duration_ms": 206880,
+      "name": "Christmas Joy",
+      "url": "https://open.spotify.com/track/160XASc2EehpJy98jRemCI"
     },
     {
       "added_at": "2023-11-27 01:39:02",
@@ -1443,34 +1439,22 @@
     {
       "added_at": "2023-11-27 01:39:02",
       "album": {
-        "name": "Christmas Joy",
-        "url": "https://open.spotify.com/album/04GuFkpdc8tIOklBEsS8Tl"
+        "name": "Home With You (feat. Chant\u00e9 Moore)",
+        "url": "https://open.spotify.com/album/4SP3l1UjxAcb1Tj7NmqCdu"
       },
       "artists": [
         {
-          "name": "Brandon Camphor & One Way",
-          "url": "https://open.spotify.com/artist/4mLHthOzPH2UIygTENj5Bm"
-        }
-      ],
-      "duration_ms": 206880,
-      "name": "Christmas Joy",
-      "url": "https://open.spotify.com/track/160XASc2EehpJy98jRemCI"
-    },
-    {
-      "added_at": "2023-11-27 01:39:02",
-      "album": {
-        "name": "Gospel Heritage Christmas Vol. 2",
-        "url": "https://open.spotify.com/album/401xeKiJnhyWCWDLdca40p"
-      },
-      "artists": [
+          "name": "VaShawn Mitchell",
+          "url": "https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA"
+        },
         {
-          "name": "Kurt Carr Singers",
-          "url": "https://open.spotify.com/artist/47GFnTaDeJDSKuxzYyNYrs"
+          "name": "Chant\u00e9 Moore",
+          "url": "https://open.spotify.com/artist/77OlE8SkEHDkJczfswzDFo"
         }
       ],
-      "duration_ms": 298320,
-      "name": "Holy, Holy, Holy",
-      "url": "https://open.spotify.com/track/3GiK89ZgpCTYgefDuHLP0Y"
+      "duration_ms": 245110,
+      "name": "Home With You (feat. Chant\u00e9 Moore)",
+      "url": "https://open.spotify.com/track/6vXINx2IM1WpPYMm3xb816"
     },
     {
       "added_at": "2023-11-27 01:39:02",
@@ -1491,18 +1475,18 @@
     {
       "added_at": "2023-11-27 01:39:02",
       "album": {
-        "name": "Christmas Time Is Here",
-        "url": "https://open.spotify.com/album/1oH2Jh8UaBTy8EgQPrW7Gj"
+        "name": "Gospel Heritage Christmas Vol. 2",
+        "url": "https://open.spotify.com/album/401xeKiJnhyWCWDLdca40p"
       },
       "artists": [
         {
-          "name": "Mervin Mayo",
-          "url": "https://open.spotify.com/artist/32N3ovxRWJFnUzlUZmXM2t"
+          "name": "Kurt Carr Singers",
+          "url": "https://open.spotify.com/artist/47GFnTaDeJDSKuxzYyNYrs"
         }
       ],
-      "duration_ms": 235100,
-      "name": "Christmas Time Is Here",
-      "url": "https://open.spotify.com/track/2EPBlKjnAF8KqRHYGQkIbt"
+      "duration_ms": 298320,
+      "name": "Holy, Holy, Holy",
+      "url": "https://open.spotify.com/track/3GiK89ZgpCTYgefDuHLP0Y"
     },
     {
       "added_at": "2023-11-27 01:39:02",
@@ -1523,6 +1507,22 @@
       "duration_ms": 188135,
       "name": "I\u2019ll Be Home For Christmas",
       "url": "https://open.spotify.com/track/2pcA8F0cSYeMhXCHqBxBoX"
+    },
+    {
+      "added_at": "2023-11-27 01:39:02",
+      "album": {
+        "name": "Christmas Time Is Here",
+        "url": "https://open.spotify.com/album/1oH2Jh8UaBTy8EgQPrW7Gj"
+      },
+      "artists": [
+        {
+          "name": "Mervin Mayo",
+          "url": "https://open.spotify.com/artist/32N3ovxRWJFnUzlUZmXM2t"
+        }
+      ],
+      "duration_ms": 235100,
+      "name": "Christmas Time Is Here",
+      "url": "https://open.spotify.com/track/2EPBlKjnAF8KqRHYGQkIbt"
     },
     {
       "added_at": "2023-11-27 01:39:02",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-11-27 01:39:02",
       "album": {
-        "name": "Mary, Did You Know?",
-        "url": "https://open.spotify.com/album/1tNNGU5nKBWK4kCn7fKjtR"
-      },
-      "artists": [
-        {
-          "name": "Patrick Dopson",
-          "url": "https://open.spotify.com/artist/2Aw6herTftgxyGaUxkHTNX"
-        }
-      ],
-      "duration_ms": 257113,
-      "name": "Mary, Did You Know?",
-      "url": "https://open.spotify.com/track/6jnlivJEMYthMmpbCWBWHE"
-    },
-    {
-      "added_at": "2023-11-27 01:39:02",
-      "album": {
         "name": "Maranda Presents A Holy Christmas",
         "url": "https://open.spotify.com/album/0c1zGZMDhb2UNZlmQ8cfKN"
       },
@@ -1611,6 +1595,38 @@
       "duration_ms": 409946,
       "name": "Holy (The Crispell Legacy) (feat. Melvin Crispell III)",
       "url": "https://open.spotify.com/track/3ucYWAeWRbwmR5sUzyGjnA"
+    },
+    {
+      "added_at": "2023-11-27 01:39:02",
+      "album": {
+        "name": "Family Christmas",
+        "url": "https://open.spotify.com/album/3y6kzpy1GnrxR7H1KkGBuh"
+      },
+      "artists": [
+        {
+          "name": "The Clark Sisters",
+          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
+        }
+      ],
+      "duration_ms": 183720,
+      "name": "Hark The Herald Angels Sing",
+      "url": "https://open.spotify.com/track/4Zgd9TerFAB6delKBFITmX"
+    },
+    {
+      "added_at": "2023-11-27 01:39:02",
+      "album": {
+        "name": "Mary, Did You Know?",
+        "url": "https://open.spotify.com/album/1tNNGU5nKBWK4kCn7fKjtR"
+      },
+      "artists": [
+        {
+          "name": "Patrick Dopson",
+          "url": "https://open.spotify.com/artist/2Aw6herTftgxyGaUxkHTNX"
+        }
+      ],
+      "duration_ms": 257113,
+      "name": "Mary, Did You Know?",
+      "url": "https://open.spotify.com/track/6jnlivJEMYthMmpbCWBWHE"
     },
     {
       "added_at": "2023-11-27 01:39:02",
@@ -1635,22 +1651,6 @@
       "duration_ms": 261665,
       "name": "After The Storm",
       "url": "https://open.spotify.com/track/3C5eYTXWmOaT2KIHOdkv12"
-    },
-    {
-      "added_at": "2023-11-27 01:39:02",
-      "album": {
-        "name": "Family Christmas",
-        "url": "https://open.spotify.com/album/3y6kzpy1GnrxR7H1KkGBuh"
-      },
-      "artists": [
-        {
-          "name": "The Clark Sisters",
-          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
-        }
-      ],
-      "duration_ms": 183720,
-      "name": "Hark The Herald Angels Sing",
-      "url": "https://open.spotify.com/track/4Zgd9TerFAB6delKBFITmX"
     },
     {
       "added_at": "2023-11-27 01:39:02",
@@ -1707,26 +1707,6 @@
     {
       "added_at": "2023-11-27 01:39:02",
       "album": {
-        "name": "Joy To The World",
-        "url": "https://open.spotify.com/album/6cJAAI5DrfmD8S9kWi8LhK"
-      },
-      "artists": [
-        {
-          "name": "John P. Kee",
-          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
-        },
-        {
-          "name": "The New Life Community Choir",
-          "url": "https://open.spotify.com/artist/1I7iiuI5AMSMCwKp8dOCXY"
-        }
-      ],
-      "duration_ms": 242200,
-      "name": "No Christmas Without You",
-      "url": "https://open.spotify.com/track/2OVd9bw697vfuskRx65JQi"
-    },
-    {
-      "added_at": "2023-11-27 01:39:02",
-      "album": {
         "name": "Rejoice",
         "url": "https://open.spotify.com/album/2vENNMJ5dsWEf2bjpcvN97"
       },
@@ -1743,6 +1723,26 @@
       "duration_ms": 340666,
       "name": "O What A Night (with Vision)",
       "url": "https://open.spotify.com/track/3r1lK0GxyBJaGORF17XMpL"
+    },
+    {
+      "added_at": "2023-11-27 01:39:02",
+      "album": {
+        "name": "Joy To The World",
+        "url": "https://open.spotify.com/album/6cJAAI5DrfmD8S9kWi8LhK"
+      },
+      "artists": [
+        {
+          "name": "John P. Kee",
+          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
+        },
+        {
+          "name": "The New Life Community Choir",
+          "url": "https://open.spotify.com/artist/1I7iiuI5AMSMCwKp8dOCXY"
+        }
+      ],
+      "duration_ms": 242200,
+      "name": "No Christmas Without You",
+      "url": "https://open.spotify.com/track/2OVd9bw697vfuskRx65JQi"
     },
     {
       "added_at": "2023-11-27 01:39:02",
@@ -1783,18 +1783,22 @@
     {
       "added_at": "2023-11-27 01:39:02",
       "album": {
-        "name": "A Deitrick Haddon Christmas",
-        "url": "https://open.spotify.com/album/7HYSm5yiDvvIX8oT9eAVwW"
+        "name": "Joy To The World (feat. Eryka Edmund)",
+        "url": "https://open.spotify.com/album/7nBbkSBamXj4ki3mlr53eY"
       },
       "artists": [
         {
-          "name": "Deitrick Haddon",
-          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+          "name": "Charles Butler & Trinity",
+          "url": "https://open.spotify.com/artist/5U7TaBluxhgDPNGx2NadSU"
+        },
+        {
+          "name": "Eryka Edmund",
+          "url": "https://open.spotify.com/artist/1VitpzYVY9vaDnqSl0wir9"
         }
       ],
-      "duration_ms": 198352,
-      "name": "Dreams Come True",
-      "url": "https://open.spotify.com/track/4qFMAM1cLrZ4eda48cBQbp"
+      "duration_ms": 326297,
+      "name": "Joy To The World (feat. Eryka Edmund)",
+      "url": "https://open.spotify.com/track/0AsURWUc8JqeILrFhCRSzx"
     }
   ],
   "unique_name": "Gospel Christmas",

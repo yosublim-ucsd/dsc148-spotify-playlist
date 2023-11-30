@@ -1,12 +1,12 @@
 {
   "description": "A heavy collision of punk, hardcore and everything in between. Cover: Knocked Loose",
-  "num_followers": 472058,
+  "num_followers": 472190,
   "original_name": "Crash Course",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhY2VmNzQ5MjllMjQ5YzM3ZGQyOWNmNDQ2M2U3YjA0MjQ1NDhhM2E5",
+  "snapshot_id": "MCxmMGFiM2UwNDhhMTczNmY2ZDQ0Njk3MzgyZjI4ZjEwMmY0Yjc4YzBm",
   "tracks": [
     {
       "added_at": "2023-06-20 21:21:38",
@@ -143,18 +143,18 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Long Time, No Sea (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7LgruFgKT9Vg00mymfEyf7"
+        "name": "Divided",
+        "url": "https://open.spotify.com/album/3y8C86Pm7N3YWAohYNAmjY"
       },
       "artists": [
         {
-          "name": "Attack Attack!",
-          "url": "https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb"
+          "name": "Villain of the Story",
+          "url": "https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE"
         }
       ],
-      "duration_ms": 184285,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/60ICDcC995UF0nu85r75qV"
+      "duration_ms": 208920,
+      "name": "Losing Control",
+      "url": "https://open.spotify.com/track/10K74dbHDqw7hmtSmLfs7t"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -191,18 +191,18 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Divided",
-        "url": "https://open.spotify.com/album/3y8C86Pm7N3YWAohYNAmjY"
+        "name": "Long Time, No Sea (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7LgruFgKT9Vg00mymfEyf7"
       },
       "artists": [
         {
-          "name": "Villain of the Story",
-          "url": "https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE"
+          "name": "Attack Attack!",
+          "url": "https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb"
         }
       ],
-      "duration_ms": 208920,
-      "name": "Losing Control",
-      "url": "https://open.spotify.com/track/10K74dbHDqw7hmtSmLfs7t"
+      "duration_ms": 184285,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/60ICDcC995UF0nu85r75qV"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "MONOMANIA",
-        "url": "https://open.spotify.com/album/2FxbVATTBMwI7ytSsYMp6f"
-      },
-      "artists": [
-        {
-          "name": "The Word Alive",
-          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
-        }
-      ],
-      "duration_ms": 215053,
-      "name": "NO WAY OUT",
-      "url": "https://open.spotify.com/track/7oib44NmCMvGNWnDDJjv5C"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Sudden Sky",
         "url": "https://open.spotify.com/album/7f8faOO0gxuG26Qo7GIlkr"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 200384,
       "name": "BLURRY (out of place)",
       "url": "https://open.spotify.com/track/5Zls4RuRbomkrthG1p18Tc"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "MONOMANIA",
+        "url": "https://open.spotify.com/album/2FxbVATTBMwI7ytSsYMp6f"
+      },
+      "artists": [
+        {
+          "name": "The Word Alive",
+          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
+        }
+      ],
+      "duration_ms": 215053,
+      "name": "NO WAY OUT",
+      "url": "https://open.spotify.com/track/7oib44NmCMvGNWnDDJjv5C"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Monochrome",
-        "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        }
-      ],
-      "duration_ms": 237354,
-      "name": "Monochrome",
-      "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Artificial Selection",
         "url": "https://open.spotify.com/album/4YkhIDrZZ3dFlH0POQ3Syj"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 238984,
       "name": "Son of Robot",
       "url": "https://open.spotify.com/track/2m9dpUx3PkIOa2LPfDbSA8"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Monochrome",
+        "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "duration_ms": 237354,
+      "name": "Monochrome",
+      "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Afterburner",
-        "url": "https://open.spotify.com/album/0K8VeEO164P3ctndsCzs6U"
-      },
-      "artists": [
-        {
-          "name": "Dance Gavin Dance",
-          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
-        }
-      ],
-      "duration_ms": 236050,
-      "name": "Lyrics Lie",
-      "url": "https://open.spotify.com/track/56rDsioIJVni7hmFio7yZU"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Nothing is True & Everything is Possible",
         "url": "https://open.spotify.com/album/5RqRElQANHEUFyIWPt8FEp"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 173304,
       "name": "{ The Dreamer's Hotel }",
       "url": "https://open.spotify.com/track/0kKLYJlTi8RRR18vTOBsKd"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Afterburner",
+        "url": "https://open.spotify.com/album/0K8VeEO164P3ctndsCzs6U"
+      },
+      "artists": [
+        {
+          "name": "Dance Gavin Dance",
+          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
+        }
+      ],
+      "duration_ms": 236050,
+      "name": "Lyrics Lie",
+      "url": "https://open.spotify.com/track/56rDsioIJVni7hmFio7yZU"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -927,6 +927,22 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
+        "name": "Before I Cave In",
+        "url": "https://open.spotify.com/album/3NyafgxbBgTtR4nOSRelDr"
+      },
+      "artists": [
+        {
+          "name": "Too Close To Touch",
+          "url": "https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp"
+        }
+      ],
+      "duration_ms": 260826,
+      "name": "Before I Cave In",
+      "url": "https://open.spotify.com/track/6PB07jO0s8JMyAaQk8CH7q"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
         "name": "Baptize",
         "url": "https://open.spotify.com/album/0onI0aisDxDHLmhgjD5tYF"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 185502,
       "name": "Untouchable",
       "url": "https://open.spotify.com/track/4I5QCNEbMbeRusKosXgZtK"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
-        "name": "Before I Cave In",
-        "url": "https://open.spotify.com/album/3NyafgxbBgTtR4nOSRelDr"
-      },
-      "artists": [
-        {
-          "name": "Too Close To Touch",
-          "url": "https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp"
-        }
-      ],
-      "duration_ms": 260826,
-      "name": "Before I Cave In",
-      "url": "https://open.spotify.com/track/6PB07jO0s8JMyAaQk8CH7q"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Nothing is True & Everything is Possible",
-        "url": "https://open.spotify.com/album/5RqRElQANHEUFyIWPt8FEp"
-      },
-      "artists": [
-        {
-          "name": "Enter Shikari",
-          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
-        }
-      ],
-      "duration_ms": 226900,
-      "name": "satellites* *",
-      "url": "https://open.spotify.com/track/4MJcimcruJ4GkDsmVaHR3V"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Afterburner",
         "url": "https://open.spotify.com/album/0K8VeEO164P3ctndsCzs6U"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 221241,
       "name": "One in a Million",
       "url": "https://open.spotify.com/track/3FadCH3vql11UfyCLSXiU4"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Nothing is True & Everything is Possible",
+        "url": "https://open.spotify.com/album/5RqRElQANHEUFyIWPt8FEp"
+      },
+      "artists": [
+        {
+          "name": "Enter Shikari",
+          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
+        }
+      ],
+      "duration_ms": 226900,
+      "name": "satellites* *",
+      "url": "https://open.spotify.com/track/4MJcimcruJ4GkDsmVaHR3V"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
+        "name": "Damned Soul",
+        "url": "https://open.spotify.com/album/29VUzmhLK0zvxyKCPU6AUe"
+      },
+      "artists": [
+        {
+          "name": "Rivals",
+          "url": "https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR"
+        }
+      ],
+      "duration_ms": 217146,
+      "name": "Moonlit",
+      "url": "https://open.spotify.com/track/41pMAwF1Z0Z7OhxGfPMDwb"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
         "name": "Bob Vylan Presents The Price Of Life",
         "url": "https://open.spotify.com/album/4OF9eUiJhh9iUasNJnzC7m"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 123337,
       "name": "Sick Day",
       "url": "https://open.spotify.com/track/5Ms33wMo1MxDuLHekXX9S9"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
-        "name": "Damned Soul",
-        "url": "https://open.spotify.com/album/29VUzmhLK0zvxyKCPU6AUe"
-      },
-      "artists": [
-        {
-          "name": "Rivals",
-          "url": "https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR"
-        }
-      ],
-      "duration_ms": 217146,
-      "name": "Moonlit",
-      "url": "https://open.spotify.com/track/41pMAwF1Z0Z7OhxGfPMDwb"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Were You Nervous?",
-        "url": "https://open.spotify.com/album/4QZSzjWjWwLVklcNmPuK5Q"
-      },
-      "artists": [
-        {
-          "name": "Speech Patterns",
-          "url": "https://open.spotify.com/artist/5dIfnkclImFkRSKrSVLt3e"
-        }
-      ],
-      "duration_ms": 208258,
-      "name": "Were You Nervous?",
-      "url": "https://open.spotify.com/track/0NbSknyxXKyeodt8udVDI0"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "It's Over",
         "url": "https://open.spotify.com/album/1yA0gGywa2o2KnHnvLUMq9"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 203800,
       "name": "It's Over",
       "url": "https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Were You Nervous?",
+        "url": "https://open.spotify.com/album/4QZSzjWjWwLVklcNmPuK5Q"
+      },
+      "artists": [
+        {
+          "name": "Speech Patterns",
+          "url": "https://open.spotify.com/artist/5dIfnkclImFkRSKrSVLt3e"
+        }
+      ],
+      "duration_ms": 208258,
+      "name": "Were You Nervous?",
+      "url": "https://open.spotify.com/track/0NbSknyxXKyeodt8udVDI0"
     },
     {
       "added_at": "2023-06-20 21:21:38",

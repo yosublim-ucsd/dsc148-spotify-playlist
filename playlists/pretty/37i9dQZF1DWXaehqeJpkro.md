@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 
 > 지금 노래방에서 가장 핫한 노래들을 만나보세요! \(Fancy belting out your favorite Korean songs?\) \(Cover: Parc Jae Jung\(박재정\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,085 likes - 175 songs - 11 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,093 likes - 175 songs - 11 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 | 174 | [미워요 I Hate You](https://open.spotify.com/track/4s5j8hpy5nbgvVU0VLBNtt) | [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM) | [정인 Jung In from Andromeda](https://open.spotify.com/album/1vaWpmAMtq5MuKCAna7afD) | 3:22 |
 | 175 | [시작](https://open.spotify.com/track/5TeDIQrpwWtLWaFfzLH0hh) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/7KDMHe0BgyhOmk4Oz6g293) | 3:22 |
 
-Snapshot ID: `MCw5NWI1OTE0ZDlkYzc3Yjc4ODA2OTQ5ODA5NDZmOGYwNTgxMTE4NGEw`
+Snapshot ID: `MCw4ZTllNzMzNDE5NDBiYzBhMDFiMDJiNmE4YTdhNDA4ZDIwODIxYTdk`

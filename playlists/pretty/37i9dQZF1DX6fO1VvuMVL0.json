@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of Cool Jazz. Cover: Paul Desmond",
-  "num_followers": 64864,
+  "num_followers": 64962,
   "original_name": "Cool Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOWZmMGE3N2Q3OTcwNmE4Y2UxOWZhNzc5YTUxZDY4NzVjMTE3YTMy",
+  "snapshot_id": "MCwxNjZjNmNmYTc4ZGU2ODY1ZmMyZmZjNTY2ODA4MmI4OWM3ZWNiNWQx",
   "tracks": [
     {
       "added_at": "2023-11-23 14:04:18",
@@ -887,6 +887,26 @@
     {
       "added_at": "2023-11-23 14:04:18",
       "album": {
+        "name": "The Ivory Hunters",
+        "url": "https://open.spotify.com/album/24rcDSSrgn13oqnqsuJH59"
+      },
+      "artists": [
+        {
+          "name": "Bob Brookmeyer",
+          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 446066,
+      "name": "It Could Happen To You",
+      "url": "https://open.spotify.com/track/10fMVCkTiTE1sLvd5ypZTD"
+    },
+    {
+      "added_at": "2023-11-23 14:04:18",
+      "album": {
         "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
         "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
       },
@@ -923,26 +943,6 @@
       "duration_ms": 264533,
       "name": "Custard Puff",
       "url": "https://open.spotify.com/track/6QRA6ekJHWPYyxnqGpdlfY"
-    },
-    {
-      "added_at": "2023-11-23 14:04:18",
-      "album": {
-        "name": "The Ivory Hunters",
-        "url": "https://open.spotify.com/album/24rcDSSrgn13oqnqsuJH59"
-      },
-      "artists": [
-        {
-          "name": "Bob Brookmeyer",
-          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
-        },
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 446066,
-      "name": "It Could Happen To You",
-      "url": "https://open.spotify.com/track/10fMVCkTiTE1sLvd5ypZTD"
     },
     {
       "added_at": "2023-11-23 14:04:18",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-11-23 14:04:18",
       "album": {
-        "name": "A Night At The Vanguard",
-        "url": "https://open.spotify.com/album/6do9DeTC2oWB6Zj9yci6ra"
-      },
-      "artists": [
-        {
-          "name": "Kenny Burrell Trio",
-          "url": "https://open.spotify.com/artist/1W2Oyg9ATMWvuc3cuf31BU"
-        }
-      ],
-      "duration_ms": 260973,
-      "name": "Just A-Sittin' And A-Rockin' - Live At The Village Vanguard, New York / 1959",
-      "url": "https://open.spotify.com/track/7FtbDCBvrIY3slG5Dj9bl1"
-    },
-    {
-      "added_at": "2023-11-23 14:04:18",
-      "album": {
         "name": "Two Of A Mind",
         "url": "https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 422266,
       "name": "Easy Living",
       "url": "https://open.spotify.com/track/7MGGY6BzqplNCRrKfIBTKL"
+    },
+    {
+      "added_at": "2023-11-23 14:04:18",
+      "album": {
+        "name": "A Night At The Vanguard",
+        "url": "https://open.spotify.com/album/6do9DeTC2oWB6Zj9yci6ra"
+      },
+      "artists": [
+        {
+          "name": "Kenny Burrell Trio",
+          "url": "https://open.spotify.com/artist/1W2Oyg9ATMWvuc3cuf31BU"
+        }
+      ],
+      "duration_ms": 260973,
+      "name": "Just A-Sittin' And A-Rockin' - Live At The Village Vanguard, New York / 1959",
+      "url": "https://open.spotify.com/track/7FtbDCBvrIY3slG5Dj9bl1"
     },
     {
       "added_at": "2023-11-23 14:04:18",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-11-23 14:04:18",
       "album": {
-        "name": "A Pell Of A Time",
-        "url": "https://open.spotify.com/album/3mHfj7IYxLfpAOULy0nM11"
-      },
-      "artists": [
-        {
-          "name": "Dave Pell's Jazz Octet",
-          "url": "https://open.spotify.com/artist/7uKEUlOk1OB6GcGp0rxnaM"
-        }
-      ],
-      "duration_ms": 338000,
-      "name": "Angel Eyes",
-      "url": "https://open.spotify.com/track/0DD6R7aDMmqPrt6qRXZHP3"
-    },
-    {
-      "added_at": "2023-11-23 14:04:18",
-      "album": {
         "name": "Subconscious-Lee",
         "url": "https://open.spotify.com/album/59CmIk9Nm4m6qjber66Twe"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 224826,
       "name": "Fishin' Around",
       "url": "https://open.spotify.com/track/1z67MjOaUDdtUGMWShXQJM"
+    },
+    {
+      "added_at": "2023-11-23 14:04:18",
+      "album": {
+        "name": "A Pell Of A Time",
+        "url": "https://open.spotify.com/album/3mHfj7IYxLfpAOULy0nM11"
+      },
+      "artists": [
+        {
+          "name": "Dave Pell's Jazz Octet",
+          "url": "https://open.spotify.com/artist/7uKEUlOk1OB6GcGp0rxnaM"
+        }
+      ],
+      "duration_ms": 338000,
+      "name": "Angel Eyes",
+      "url": "https://open.spotify.com/track/0DD6R7aDMmqPrt6qRXZHP3"
     },
     {
       "added_at": "2023-11-23 14:04:18",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-11-23 14:04:18",
       "album": {
+        "name": "Take Ten",
+        "url": "https://open.spotify.com/album/67OvvuGokycHO0Quc9HyKZ"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 366173,
+      "name": "Nancy",
+      "url": "https://open.spotify.com/track/2J5Q8XYnCwDVyTazuCu9VG"
+    },
+    {
+      "added_at": "2023-11-23 14:04:18",
+      "album": {
         "name": "Beware",
         "url": "https://open.spotify.com/album/5we3xfwBU5w4uDbUiAG1mw"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 269666,
       "name": "It Ain't Necessarily So",
       "url": "https://open.spotify.com/track/6AoFqf8vkBgDSMvOw8bnZD"
-    },
-    {
-      "added_at": "2023-11-23 14:04:18",
-      "album": {
-        "name": "Take Ten",
-        "url": "https://open.spotify.com/album/67OvvuGokycHO0Quc9HyKZ"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 366173,
-      "name": "Nancy",
-      "url": "https://open.spotify.com/track/2J5Q8XYnCwDVyTazuCu9VG"
     },
     {
       "added_at": "2023-11-23 14:04:18",

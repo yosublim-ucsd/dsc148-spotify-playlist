@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 
 > A mix of soulful, folksy, and beloved singer\-songwriter acoustic gems\. Cover: Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,477,493 likes - 125 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,477,545 likes - 125 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,14 +76,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 | 66 | [Wild Love \- Acoustic](https://open.spotify.com/track/4zDQS1OCghoOKkjw6hf2qT) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Wild Love \(Acoustic\)](https://open.spotify.com/album/07NunjdVGPXs07aqNDiVVk) | 3:09 |
 | 67 | [Amsterdam](https://open.spotify.com/track/52BtapS0Wy7LM8R6QvJRpp) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Sidelines](https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP) | 3:33 |
 | 68 | [We'll Never Have Sex](https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [We'll Never Have Sex](https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3) | 1:39 |
-| 69 | [Simple Song](https://open.spotify.com/track/70HWRkitkAKfos500LBk0T) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [The Boy Who Cried Wolf](https://open.spotify.com/album/2sGDQ4EeMBzUf7r21JyrNV) | 3:48 |
-| 70 | [Take Me Home](https://open.spotify.com/track/6EWEyqtjFLafS95ncL4not) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Take Me Home](https://open.spotify.com/album/3gLD93wFP8Js0aObN5mJBv) | 3:01 |
-| 71 | [Cherry Wine \- Live](https://open.spotify.com/track/0bZ52QzCCKfrfOqs7za6lI) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 4:00 |
-| 72 | [Never in My Wildest Dreams](https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Waiting on a Song](https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F) | 2:56 |
+| 69 | [Take Me Home](https://open.spotify.com/track/6EWEyqtjFLafS95ncL4not) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Take Me Home](https://open.spotify.com/album/3gLD93wFP8Js0aObN5mJBv) | 3:01 |
+| 70 | [Simple Song](https://open.spotify.com/track/70HWRkitkAKfos500LBk0T) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [The Boy Who Cried Wolf](https://open.spotify.com/album/2sGDQ4EeMBzUf7r21JyrNV) | 3:48 |
+| 71 | [Never in My Wildest Dreams](https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Waiting on a Song](https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F) | 2:56 |
+| 72 | [Cherry Wine \- Live](https://open.spotify.com/track/0bZ52QzCCKfrfOqs7za6lI) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 4:00 |
 | 73 | [Nothing Arrived \- Live from Spotify London](https://open.spotify.com/track/0TQ8ZHFhrbH9I0WRjIzOCQ) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [Spotify Sessions](https://open.spotify.com/album/0hjao9hWIDjmUFDiW6Q59W) | 3:39 |
-| 74 | [WHERE WE ARE](https://open.spotify.com/track/7l987hjMH9FBNXBE93Hrs7) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL) | 2:52 |
+| 74 | [Latch \- Acoustic](https://open.spotify.com/track/1dOQwrGmaSWotCvZwD9CK3) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0f8RtEC5UUqMX2cveYlylg) | 3:43 |
 | 75 | [If You Ever Wanna Be In Love \- James Bay Spotify Session 2015](https://open.spotify.com/track/359lSGQwvAM3aZA5UNwqiQ) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [James Bay Spotify Session 2015](https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf) | 3:56 |
-| 76 | [Latch \- Acoustic](https://open.spotify.com/track/1dOQwrGmaSWotCvZwD9CK3) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0f8RtEC5UUqMX2cveYlylg) | 3:43 |
+| 76 | [WHERE WE ARE](https://open.spotify.com/track/7l987hjMH9FBNXBE93Hrs7) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL) | 2:52 |
 | 77 | [Grenade \- Acoustic](https://open.spotify.com/track/7Cj2tT0m2SBeIO1PsGfk8A) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Grenade Sessions](https://open.spotify.com/album/54DNHFsfCa7nlQFWXMg7y3) | 4:09 |
 | 78 | [Lost On You](https://open.spotify.com/track/6glNKSv2aUtfQhe1SJBZZt) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:17 |
 | 79 | [Shape of You \- Acoustic](https://open.spotify.com/track/5ULRlgiSPSKTaJN1vU9yso) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shape of You \(Acoustic\)](https://open.spotify.com/album/5Nk90vGwn59ToxTvSNsKZw) | 3:43 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 | 124 | [Morning Breeze](https://open.spotify.com/track/7iM7I3dbNQGC5xkxJMWwrv) | [Juke Ross](https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY) | [GREY](https://open.spotify.com/album/4XsAw2dh8SAGjCSrdTpWiI) | 3:14 |
 | 125 | [Ready to Go](https://open.spotify.com/track/5qkZ6PPFjweR2yOKUGUDX3) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3) | 3:07 |
 
-Snapshot ID: `MCw1YmVkYTNjZmQ0YjU2MDMxN2ZkZDZhYjM0ZTlmMjEzNzU1YmZkYzQ0`
+Snapshot ID: `MCwzOWY2OGRjZGU1MDEzNmJiYzc2Yzk3ZGFkMGIwMmM5MjRjN2FiMWZj`

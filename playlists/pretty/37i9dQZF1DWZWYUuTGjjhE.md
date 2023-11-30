@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWYUuTGjjhE.md) - [plain]
 
 > Timeless easy listening from the sixties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,816 likes - 80 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,864 likes - 80 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWYUuTGjjhE.md) - [plain]
 | 16 | [When a Man Loves a Woman](https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [When a Man Loves a Woman](https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M) | 2:53 |
 | 17 | [Be My Baby](https://open.spotify.com/track/2G2YzndIA6jeWFPBXhUjh5) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Be My Baby: The Very Best of The Ronettes](https://open.spotify.com/album/3vLFWR3fLqfY82WGvaLuyV) | 2:40 |
 | 18 | [Do You Believe in Magic?](https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu) | [The Lovin' Spoonful](https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe) | [Do you Believe In Magic](https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030) | 2:05 |
-| 19 | [A Change Is Gonna Come](https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Ain't That Good News](https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP) | 3:11 |
-| 20 | [You Don't Own Me](https://open.spotify.com/track/7ngRS53kqxLcEt9Pythc5d) | [Lesley Gore](https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ) | [Lesley Gore Sings Of Mixed\-Up Hearts](https://open.spotify.com/album/5eluBwSJ7uwDBizWCiazSJ) | 2:30 |
+| 19 | [You Don't Own Me](https://open.spotify.com/track/7ngRS53kqxLcEt9Pythc5d) | [Lesley Gore](https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ) | [Lesley Gore Sings Of Mixed\-Up Hearts](https://open.spotify.com/album/5eluBwSJ7uwDBizWCiazSJ) | 2:30 |
+| 20 | [A Change Is Gonna Come](https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Ain't That Good News](https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP) | 3:11 |
 | 21 | [Soul Man](https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [Soul Men](https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK) | 2:39 |
 | 22 | [Son of a Preacher Man](https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty In Memphis \[Deluxe Edition\]](https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg) | 2:29 |
 | 23 | [Love Me Do \- Remastered 2009](https://open.spotify.com/track/3VbGCXWRiouAq8VyMYN2MI) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Please Please Me \(Remastered\)](https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf) | 2:21 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWYUuTGjjhE.md) - [plain]
 | 74 | [My Guy \- Single Version](https://open.spotify.com/track/7arXVtGNJPa7aOHiKOeUsl) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [The Definitive Collection](https://open.spotify.com/album/0rgnbePrBYNFSaXnCZOcod) | 2:51 |
 | 75 | [Chapel Of Love](https://open.spotify.com/track/0SMRck5oZi9hc16L6FuRF6) | [The Dixie Cups](https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772) | [Full Metal Jacket \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF) | 2:47 |
 | 76 | [It's In The Kiss \(The Shoop Shoop Song\)](https://open.spotify.com/track/35hfuechuOqaW31ogdauO7) | [Betty Everett](https://open.spotify.com/artist/53jXEVVJtpaWVQ3ffvhDtl) | [No Place To Hide](https://open.spotify.com/album/7CPcd7Sl9L4TahP1gTqR5q) | 2:09 |
-| 77 | [\(Today I Met\) The Boy I'm Gonna Marry](https://open.spotify.com/track/2Px4PrbPBMeWB1silbjI5H) | [Darlene Love](https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu) | [The Sound Of Love: The Very Best Of Darlene Love](https://open.spotify.com/album/2KMh9uqFrGblh1Ui23yoXU) | 2:46 |
-| 78 | [Poetry In Motion](https://open.spotify.com/track/1ASWAH866Xn0gWeX3zC2SW) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Johnny Tillotson's Best](https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb) | 2:34 |
+| 77 | [Poetry In Motion](https://open.spotify.com/track/1ASWAH866Xn0gWeX3zC2SW) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Johnny Tillotson's Best](https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb) | 2:34 |
+| 78 | [\(Today I Met\) The Boy I'm Gonna Marry](https://open.spotify.com/track/2Px4PrbPBMeWB1silbjI5H) | [Darlene Love](https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu) | [The Sound Of Love: The Very Best Of Darlene Love](https://open.spotify.com/album/2KMh9uqFrGblh1Ui23yoXU) | 2:46 |
 | 79 | [To Sir with Love](https://open.spotify.com/track/0gBFr7N2D1GfhkXIIepIGG) | [Lulu](https://open.spotify.com/artist/0jYKX08u1XxmHrl5TdM2QZ) | [To Sir With Love](https://open.spotify.com/album/37J4FeONwmD1Gl3PzvZGv3) | 2:46 |
 | 80 | [Cathy's Clown](https://open.spotify.com/track/1MA9StLzlFftLbuqOmoWij) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Golden Hits of The Everly Brothers](https://open.spotify.com/album/3wWjXsqngYcPmd4hQzjNAD) | 2:24 |
 
-Snapshot ID: `MCw4YzJjYjllMDU2Y2Q4NzMyNzYyNzUyM2FmZTljZmM2ZGRhNDdjZmZk`
+Snapshot ID: `MCxhNGE5ODNlYjgzOTYyNTJmYWExMGRjYzY2ODAzN2MwMWFjNTg5Yjlh`

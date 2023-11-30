@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Solo il meglio dello street rap italiano\. Cover: Digital Astro, Tony Boy, Artie 5ive
 
-[Spotify](https://open.spotify.com/user/spotify) - 876,102 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 876,265 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Calcolatrici](https://open.spotify.com/track/6bN41HjY008ggroMFxNLaa) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:25 |
 | 2 | [Bentley \(feat\. Simba La Rue, J Lord\)](https://open.spotify.com/track/4H8mFU6lQDvHVi4pIqrvku) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C) | [INNOCENTE \(Deluxe Edition\)](https://open.spotify.com/album/2YFcUMTsjVjOx4tdp3MmH3) | 1:59 |
 | 3 | [PANINARO \(feat\. Tony Boy, Artie 5ive\)](https://open.spotify.com/track/0VVYNEXsZB3x9XyMEZQjk1) | [Digital Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [PANINARO \(feat\. Tony Boy, Artie 5ive\)](https://open.spotify.com/album/00xjYTrjvDKeWZVidjBiPT) | 3:05 |
-| 4 | [VDLC](https://open.spotify.com/track/242NmD3BqOefyiOZQy2MT2) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:18 |
-| 5 | [RED&BLUE](https://open.spotify.com/track/6jxeK8g2wpe2yVLsHcjRhG) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [RED&BLUE](https://open.spotify.com/album/3aVMMj8FWLf4e5cMZ5JdWC) | 3:27 |
+| 4 | [RED&BLUE](https://open.spotify.com/track/6jxeK8g2wpe2yVLsHcjRhG) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [RED&BLUE](https://open.spotify.com/album/3aVMMj8FWLf4e5cMZ5JdWC) | 3:27 |
+| 5 | [VDLC](https://open.spotify.com/track/242NmD3BqOefyiOZQy2MT2) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:18 |
 | 6 | [Freaky \(feat\. Shiva & Niky Savage\)](https://open.spotify.com/track/32rxE3UsuYr3KndIKPfMg6) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY) | [TRAPHOUSE](https://open.spotify.com/album/64jt2HI09H65a1YPqhOYfS) | 2:57 |
 | 7 | [Cadillac \(feat\. Artie 5ive\)](https://open.spotify.com/track/7IpsNYgP87QkLCSnctxSif) | [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [Cadillac \(feat\. Artie 5ive\)](https://open.spotify.com/album/3mG2cIIIftDcBHTtfQrMMz) | 2:35 |
 | 8 | [Carne Halal \(feat\. Baby Gang & Simba La Rue\)](https://open.spotify.com/track/6jiRQs8QM6ozzFxdIDUkm2) | [Escomar](https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [Carne Halal \(feat\. Baby Gang & Simba La Rue\)](https://open.spotify.com/album/5J3YRgWiaxwdDR1zCJTph6) | 4:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [IMBORGHESI](https://open.spotify.com/track/08sKSGw1ADTFGbPfg8EtTY) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33), [MINUR](https://open.spotify.com/artist/7rylbiZO3rabYvIKu4Kcg0) | [IMBORGHESI](https://open.spotify.com/album/2MNYQ9zHQbjck8OtyaxKs5) | 2:44 |
 | 50 | [POLO \(feat\. Geolier\)](https://open.spotify.com/track/1BTMLhdA6ewk2uXuzMsQWQ) | [Neves17](https://open.spotify.com/artist/2S3cfp7M76ak6vFBIGEfhe), [Rox is Here](https://open.spotify.com/artist/13HqsTAccw3xoINURqecVX), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IERI, OGGI E DOMANI](https://open.spotify.com/album/5Vqyjj1Ijl1cqOUDqbZLC5) | 2:30 |
 
-Snapshot ID: `MCwzMDk0YTM4NzMzODI2MDllZDFmYmEyZmViZmVlZDk1NzY4YTg5YTFi`
+Snapshot ID: `MCxkN2YyZDljZjI1YzlhN2M0OWE5MTZhMjA4ZDU0MGZlNzk5N2NmYjk4`

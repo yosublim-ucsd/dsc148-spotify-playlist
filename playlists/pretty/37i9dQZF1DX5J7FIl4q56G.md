@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: Dead by April
 
-[Spotify](https://open.spotify.com/user/spotify) - 711,694 likes - 40 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 711,773 likes - 40 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 35 | [Jackals](https://open.spotify.com/track/4612PWEVn40UivH5g285sA) | [Crimson Moonlight](https://open.spotify.com/artist/3BK5u7xOPJU8ERq8w27hnk) | [Abaddon](https://open.spotify.com/album/0Gho87N0nqxqU5aUwUoWhF) | 4:58 |
 | 36 | [Siren's Call](https://open.spotify.com/track/5YeM7BidpvjPVonaEMU5u3) | [Alterium](https://open.spotify.com/artist/5oh1CpxnZIlp8WvW9769nV) | [Siren's Call](https://open.spotify.com/album/0lFC4BMLYmRF7vIbhqb7B0) | 4:09 |
 | 37 | [Clawed](https://open.spotify.com/track/7uVeg4TjAc0UuAfy2SHBca) | [The Breathing Process](https://open.spotify.com/artist/6ngRmXLPP5slPvGsnQumJh) | [Todes Krone](https://open.spotify.com/album/2pEq78raD5aGJGPQzdyPhh) | 5:03 |
-| 38 | [Der missratene Sohn](https://open.spotify.com/track/0yumxf2LHmu0fxnBDBXZZg) | [KORA WINTER](https://open.spotify.com/artist/3yrMI0nTunPO2waZSzP1wj) | [Gott Segne, Gott Bewahre](https://open.spotify.com/album/2gSL8bHyHEmz1pp7MhuDYy) | 2:22 |
+| 38 | [Der missratene Sohn](https://open.spotify.com/track/0yumxf2LHmu0fxnBDBXZZg) | [KORA WINTER](https://open.spotify.com/artist/3yrMI0nTunPO2waZSzP1wj) | [Gott Segne, Gott Bewahre](https://open.spotify.com/album/2gSL8bHyHEmz1pp7MhuDYy) | 2:18 |
 | 39 | [Stench Of Demise](https://open.spotify.com/track/44tQD4lQZQmyyBxu3LDwC2) | [Omega Diatribe](https://open.spotify.com/artist/3PhlBs25cslOOkkFtQXXvT) | [Stench Of Demise](https://open.spotify.com/album/0kKwMGkzOXN6K8B4DD6WmA) | 4:04 |
 | 40 | [Hinter der Sonne](https://open.spotify.com/track/1f4A7xzv7PtcR7oWBe6E9H) | [Zorn](https://open.spotify.com/artist/0aFMxvVviIbGXHGmq0EbXk) | [Discography 1994\-1997](https://open.spotify.com/album/5YC5w9Tn0JvxCheaA0l3Yp) | 3:11 |
 
-Snapshot ID: `MCxiY2M2NDhmMWRiYTI2OWJhYjRjY2NjODU5NDMwNTM5ZjljZGQyZWY0`
+Snapshot ID: `MCw1ZGYzZjZmY2Q0ZTRkZTYyZmViMDg4MjNkNDhjNTFkZjFmYjk4YmJl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 
 > Sweet gems to help you slow down and savor your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,176 likes - 125 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,366 likes - 125 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 | 18 | [Stay With Me \- Live From Spotify Berlin](https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Spotify Sessions](https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU) | 2:54 |
 | 19 | [Just Like That](https://open.spotify.com/track/4yYi79a3MEQ0pCRCvuxcuU) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Just Like That...](https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd) | 5:05 |
 | 20 | [If We Were Vampires](https://open.spotify.com/track/250RLekaiL1q9qZer975Eg) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [The Nashville Sound](https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw) | 3:35 |
-| 21 | [People Change](https://open.spotify.com/track/5VYOUBkObeGOnCt30YDTJ3) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Edges Run](https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk) | 3:32 |
-| 22 | [Cherry Wine \- Live](https://open.spotify.com/track/0bZ52QzCCKfrfOqs7za6lI) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 4:00 |
+| 21 | [Cherry Wine \- Live](https://open.spotify.com/track/0bZ52QzCCKfrfOqs7za6lI) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 4:00 |
+| 22 | [People Change](https://open.spotify.com/track/5VYOUBkObeGOnCt30YDTJ3) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Edges Run](https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk) | 3:32 |
 | 23 | [Love Flew Away](https://open.spotify.com/track/5Uro6tis4oexrT4Po1q71H) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Love Flew Away](https://open.spotify.com/album/47zvBT8HjRo9jkGESnCy8k) | 2:27 |
 | 24 | [Even the Darkness Has Arms](https://open.spotify.com/track/6W49z468BT75GsO2tCcBtq) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Sleeping Operator](https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq) | 3:50 |
 | 25 | [Tiger Striped Sky](https://open.spotify.com/track/4C2aiAVTTVyZbCQZst5Xu1) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Little Giant](https://open.spotify.com/album/3ZTS2uxdWAkBnIXzsCY8PZ) | 4:01 |
@@ -84,16 +84,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 | 74 | [Easy Rider](https://open.spotify.com/track/16bjzffqGoXKFQ5DYJlsxU) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Before the Bridge](https://open.spotify.com/album/3xY0Wdf37DDDWjyi89g9pj) | 3:49 |
 | 75 | [Dust to Dust](https://open.spotify.com/track/0vwRHdpyDLRchRBtMjjjBH) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [The Civil Wars](https://open.spotify.com/album/79FSQez4eiOFA4Kx8Bxgyy) | 3:49 |
 | 76 | [How \(feat\. Brandi Carlile\)](https://open.spotify.com/track/171xo7JC4bf7vqFmjF88M8) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 3:44 |
-| 77 | [The Promise](https://open.spotify.com/track/6OV4CbPHRtbqrpJrbEFJfi) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Metamodern Sounds in Country Music](https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag) | 4:17 |
-| 78 | [Mind on Fire](https://open.spotify.com/track/4LEdX9NFK0tVB5anrAIi1q) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Pendulum](https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE) | 3:14 |
+| 77 | [Mind on Fire](https://open.spotify.com/track/4LEdX9NFK0tVB5anrAIi1q) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Pendulum](https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE) | 3:14 |
+| 78 | [The Promise](https://open.spotify.com/track/6OV4CbPHRtbqrpJrbEFJfi) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Metamodern Sounds in Country Music](https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag) | 4:17 |
 | 79 | [Masterpiece \- solo](https://open.spotify.com/track/5F1njpY2K3lDSkcb9cSUpn) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dandelion](https://open.spotify.com/album/1G9z1ymOzsdF7B7xyYR8bD) | 4:00 |
 | 80 | [Astral Plane](https://open.spotify.com/track/1ISGSSgVnZhyiOGSI8itNa) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 3:38 |
 | 81 | [I Won't Run From It](https://open.spotify.com/track/29HinKeyT5ZCmAgSm9TXC1) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O) | [Big Red Machine](https://open.spotify.com/album/1c3dz3iboMl5gWpLfTi6D2) | 3:38 |
 | 82 | [Without A Word](https://open.spotify.com/track/6NTIKfyWCP3Nm2zWB16o88) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Young In All The Wrong Ways](https://open.spotify.com/album/5O41sFLk5rKN2S4eT8GgQR) | 3:58 |
 | 83 | [The Rains](https://open.spotify.com/track/2I5mhy8zeIIMWgOFny4Fle) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Wilds](https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA) | 3:31 |
 | 84 | [People Get Old](https://open.spotify.com/track/2Tm7nXWJouomHeRN9bT6IK) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Tree](https://open.spotify.com/album/2Jv8rT6pudH0eIlgu90zKm) | 3:42 |
-| 85 | [Go Easy, Kid](https://open.spotify.com/track/50hN4KDpQILZpTejaifHZK) | [Monica Martin](https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN) | [Go Easy, Kid](https://open.spotify.com/album/48vdHGDFdYZfoLbtaMuHeh) | 4:08 |
-| 86 | [GPS \(w/ Felly\)](https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw), [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [GPS \(w/ Felly\)](https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP) | 2:48 |
+| 85 | [GPS \(w/ Felly\)](https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw), [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [GPS \(w/ Felly\)](https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP) | 2:48 |
+| 86 | [Go Easy, Kid](https://open.spotify.com/track/50hN4KDpQILZpTejaifHZK) | [Monica Martin](https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN) | [Go Easy, Kid](https://open.spotify.com/album/48vdHGDFdYZfoLbtaMuHeh) | 4:08 |
 | 87 | [Coming Down the Mountain](https://open.spotify.com/track/3ogA3HTz2gSGTX8f135LJ5) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Coming Down the Mountain](https://open.spotify.com/album/6OfyzpeBx3DGxRxPTPHc5g) | 4:33 |
 | 88 | [First Defeat](https://open.spotify.com/track/32R0JVo7IU4UlhkU3yNvEc) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Ledges](https://open.spotify.com/album/1JwNRXyWu4PxK13mp51p8y) | 4:03 |
 | 89 | [Lavender Girl](https://open.spotify.com/track/5IqPGPAeAru7g6ljnY0dPf) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Lavender Girl](https://open.spotify.com/album/5ChxDXf7pMg4QoVLUO9Lwz) | 3:23 |
@@ -130,8 +130,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 | 120 | [Motel](https://open.spotify.com/track/6qe4MSI8cWbBqo2YBNmUic) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Motel Bouquet](https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu) | 3:04 |
 | 121 | [The West Coast Of Clare](https://open.spotify.com/track/51iBStlAJlUriO53s93F6l) | [Dervish](https://open.spotify.com/artist/08DRTASY1wyduMevINkClA), [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [The Great Irish Songbook](https://open.spotify.com/album/3xlfuV02p2ByzsLj8Rts1P) | 5:26 |
 | 122 | [Heart of Somebody](https://open.spotify.com/track/7jPSQZlOVALxgylW3ne4wH) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Spades & Roses](https://open.spotify.com/album/4kMU5M6qBNCiw8Z5nVY4mq) | 3:32 |
-| 123 | [Mexico](https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Dead & Born & Grown](https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9) | 4:06 |
-| 124 | [Millennial](https://open.spotify.com/track/0UVjJZjlZiOB9pVd9wWABs) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Transcendence](https://open.spotify.com/album/4pJ1cAVfgvAIJLWLO0zpuQ) | 2:53 |
-| 125 | [Dusty Eyes](https://open.spotify.com/track/3InUgSk89qd5gs6Yv20070) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Bedouine \(Deluxe\)](https://open.spotify.com/album/5xkDtosZAm6qiGyRFc6ocB) | 4:37 |
+| 123 | [Millennial](https://open.spotify.com/track/0UVjJZjlZiOB9pVd9wWABs) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Transcendence](https://open.spotify.com/album/4pJ1cAVfgvAIJLWLO0zpuQ) | 2:53 |
+| 124 | [Mexico](https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Dead & Born & Grown](https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9) | 4:06 |
+| 125 | [Nostalgia](https://open.spotify.com/track/5TnodoKN3XEi80i2ZeCh1y) | [Uwade](https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL) | [Nostalgia](https://open.spotify.com/album/2LhcszZRrPCmJZqhsTdI6S) | 3:49 |
 
-Snapshot ID: `MCw5YjIzOGNhY2YwNDc3YTczOWMyMGJlNjI3MzFiMzIyZDU4YzU4NGM2`
+Snapshot ID: `MCw2NDk3NTk5YjY3Yjg2M2U0NzY0ZjJiNGI5NTEwYTliODJjZDAxYjk4`

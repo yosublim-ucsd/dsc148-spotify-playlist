@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > Celebrate Blair Waldorf's favorite holiday with \#SpotifyTBT this week\. Cover: Leighton Meester/Blair Waldorf
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,277,078 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,277,035 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 | 49 | [Somebody To Love](https://open.spotify.com/track/1fPp89nbZQiRar1f3a8lPe) | [Leighton Meester](https://open.spotify.com/artist/481VlDdXZAIRxnHyywNbXn), [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [Somebody To Love](https://open.spotify.com/album/1eb3ioGBDBkLiIWPFYzMK9) | 3:32 |
 | 50 | [Happy Ending](https://open.spotify.com/track/1wl3u4FrzcuBv2LQ97Z6TQ) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Life in Cartoon Motion](https://open.spotify.com/album/4wKkXYJXQWDa9sndBSx0gI) | 4:36 |
 
-Snapshot ID: `MCw0MTIxYTI0ZjNkMGQwNzkzZDIwOTk3MzBlYWY2NjA2OGUyZTNlYjE5`
+Snapshot ID: `MCw2NDA5MDU1ZWQ3NGY2ZWMyYjM5MjE3ZTVjM2M0OGQ3YzE2MzcxYjFj`

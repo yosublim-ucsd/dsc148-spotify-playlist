@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Kali Uchis & KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,586 likes - 99 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,599 likes - 99 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 59 | [Float On](https://open.spotify.com/track/6SI9rubvGJy7nyF2bK65UP) | [Blaketheman1000](https://open.spotify.com/artist/0QrLOWMTGOF7Vwb3SAhf3I), [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag), [genny!](https://open.spotify.com/artist/4jbtFLSrJbuJLgjXdR8DxS) | [Float On](https://open.spotify.com/album/1nd2lWMcGN9Mn6LQpA8L9x) | 3:06 |
 | 60 | [Project XXX](https://open.spotify.com/track/35f1EXgZelEJKJPGo6VWIQ) | [B Jack$](https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo), [MCVERTT](https://open.spotify.com/artist/5vqMF43W0Sex6zjJJKv7LC) | [Project XXX](https://open.spotify.com/album/2EZrlcbTi3NHvlw0OTAHaX) | 2:09 |
 | 61 | [Believe In Myself](https://open.spotify.com/track/047hYmw8Viqwx4cavskXVy) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [Believe In Myself](https://open.spotify.com/album/5ngmMrPiCbLRleKZXj3zqV) | 3:41 |
-| 62 | [Still Got It Bad](https://open.spotify.com/track/3sBekLF0BJII3VhcmqzMHg) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio) | [Still Got It bad](https://open.spotify.com/album/6XqCdGxjzalzwAWE3ekh68) | 2:21 |
+| 62 | [Still Got It Bad](https://open.spotify.com/track/3sBekLF0BJII3VhcmqzMHg) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio) | [Still Got It Bad](https://open.spotify.com/album/6XqCdGxjzalzwAWE3ekh68) | 2:21 |
 | 63 | [STUCK](https://open.spotify.com/track/5GOdow3olKCstvsqCfXFZg) | [Mia Nicolai](https://open.spotify.com/artist/5oSkgLWQpt5bk4B7JeAzKJ) | [STUCK](https://open.spotify.com/album/0ggyrO4fmfmZPXTND1NhwI) | 2:36 |
 | 64 | [Love You Like That \- 1047 Tapes](https://open.spotify.com/track/5drNVM029CuHfcQDnLgysv) | [Say Sorry](https://open.spotify.com/artist/3PmxgpILpTamNf9QJ9Q59m) | [Love You Like That \- 1047 Tapes](https://open.spotify.com/album/3XSsD0pDgCEaijKqagZTrv) | 2:52 |
 | 65 | [New Friend](https://open.spotify.com/track/6ypdHshYFvRKxwvk3gV2TC) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [NEVER REALLY THE END](https://open.spotify.com/album/0m8rinQENV3VFp8fud5gaD) | 3:38 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 98 | [B/W Rainbow](https://open.spotify.com/track/4Mao9J2KxOWkqp9u1LULTd) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [B/W Rainbow](https://open.spotify.com/album/2UrIwY8TCUCBe5VXVCStoO) | 2:42 |
 | 99 | [King](https://open.spotify.com/track/6OvMmEeumtCP6WgYqgA08T) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Antagonist](https://open.spotify.com/album/6u26YQ3XrrBmHUj3g0dzhJ) | 2:47 |
 
-Snapshot ID: `MCw3ODM5ZWEwMTZlMjE1YjMyZjBiOTdmNTZjZDEzMGVhMDdiMmY1MDg0`
+Snapshot ID: `MCw0MjE3YWE4YWYwMTA0NDc1OGU0YjgyOTAyMmJhMmE4YzAyYTFjMzk3`

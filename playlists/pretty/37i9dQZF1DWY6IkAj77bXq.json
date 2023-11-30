@@ -1,12 +1,12 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 65755,
+  "num_followers": 65774,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjEzOTM1Y2Y0MzgxOGU4YmQxMzAyNWEzOWE5ZTUwMTY4NGI3NzAz",
+  "snapshot_id": "MCwxMjBlNjM1NWFjZjg0NzRlNzlkMjM5MDE3ZTBjM2UxZTU0ZGUzMTRl",
   "tracks": [
     {
       "added_at": "2023-11-24 18:47:41",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-11-24 18:47:41",
       "album": {
-        "name": "Afloat",
-        "url": "https://open.spotify.com/album/0E3bx837dXHWeKisgwzpPx"
-      },
-      "artists": [
-        {
-          "name": "Pristeen",
-          "url": "https://open.spotify.com/artist/2JzmfMXbib68VSo6nL23qj"
-        }
-      ],
-      "duration_ms": 139600,
-      "name": "Afloat",
-      "url": "https://open.spotify.com/track/0LOfO55KZs4fW7UtyQJfRJ"
-    },
-    {
-      "added_at": "2023-11-24 18:47:41",
-      "album": {
         "name": "Nature of Life",
         "url": "https://open.spotify.com/album/6l6qwBSjrCfVaNrJE4r6DE"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 159892,
       "name": "Nature of Life",
       "url": "https://open.spotify.com/track/4EaHb0wumMJODjK2vsoqTI"
+    },
+    {
+      "added_at": "2023-11-24 18:47:41",
+      "album": {
+        "name": "Afloat",
+        "url": "https://open.spotify.com/album/0E3bx837dXHWeKisgwzpPx"
+      },
+      "artists": [
+        {
+          "name": "Pristeen",
+          "url": "https://open.spotify.com/artist/2JzmfMXbib68VSo6nL23qj"
+        }
+      ],
+      "duration_ms": 139600,
+      "name": "Afloat",
+      "url": "https://open.spotify.com/track/0LOfO55KZs4fW7UtyQJfRJ"
     },
     {
       "added_at": "2023-11-24 18:47:41",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-11-24 18:47:41",
       "album": {
-        "name": "Seneca Rise",
-        "url": "https://open.spotify.com/album/3Qb9Ko4g5QhAwyDeBNVmuO"
-      },
-      "artists": [
-        {
-          "name": "Sky Wishes",
-          "url": "https://open.spotify.com/artist/7truXesPB3lxuCDpUwRqGh"
-        }
-      ],
-      "duration_ms": 157800,
-      "name": "Seneca Rise",
-      "url": "https://open.spotify.com/track/6YHg42gULO5UiwXS2QJAmt"
-    },
-    {
-      "added_at": "2023-11-24 18:47:41",
-      "album": {
         "name": "Moonrise",
         "url": "https://open.spotify.com/album/7jXOtpLpgKAucnCpXJUkOg"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 208515,
       "name": "Moonrise",
       "url": "https://open.spotify.com/track/2WnsWCi2HIpLTgr0iHpBKj"
+    },
+    {
+      "added_at": "2023-11-24 18:47:41",
+      "album": {
+        "name": "Seneca Rise",
+        "url": "https://open.spotify.com/album/3Qb9Ko4g5QhAwyDeBNVmuO"
+      },
+      "artists": [
+        {
+          "name": "Sky Wishes",
+          "url": "https://open.spotify.com/artist/7truXesPB3lxuCDpUwRqGh"
+        }
+      ],
+      "duration_ms": 157800,
+      "name": "Seneca Rise",
+      "url": "https://open.spotify.com/track/6YHg42gULO5UiwXS2QJAmt"
     },
     {
       "added_at": "2023-11-24 18:47:41",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-11-24 18:47:41",
       "album": {
-        "name": "Drifting",
-        "url": "https://open.spotify.com/album/4AbGPGOPsO9TRbn6XjTJDf"
-      },
-      "artists": [
-        {
-          "name": "James Nepali",
-          "url": "https://open.spotify.com/artist/0SsqkRL4JQC709FbQeLn1x"
-        }
-      ],
-      "duration_ms": 137349,
-      "name": "Drifting",
-      "url": "https://open.spotify.com/track/3cHdJ8k5NWG45OAmlz7NU9"
-    },
-    {
-      "added_at": "2023-11-24 18:47:41",
-      "album": {
         "name": "Air in the Morning",
         "url": "https://open.spotify.com/album/6g2GVf0zN2aESjaVDsI9hF"
       },
@@ -971,18 +955,18 @@
     {
       "added_at": "2023-11-24 18:47:41",
       "album": {
-        "name": "Hush",
-        "url": "https://open.spotify.com/album/01duHUsDjCZIOPnaMEDV8C"
+        "name": "Drifting",
+        "url": "https://open.spotify.com/album/4AbGPGOPsO9TRbn6XjTJDf"
       },
       "artists": [
         {
-          "name": "My Arctic Dreams",
-          "url": "https://open.spotify.com/artist/6xxFSAtDrxDe6R2qzGyz9d"
+          "name": "James Nepali",
+          "url": "https://open.spotify.com/artist/0SsqkRL4JQC709FbQeLn1x"
         }
       ],
-      "duration_ms": 161012,
-      "name": "Hush",
-      "url": "https://open.spotify.com/track/2coK2CwPIISBoa7M7soupl"
+      "duration_ms": 137349,
+      "name": "Drifting",
+      "url": "https://open.spotify.com/track/3cHdJ8k5NWG45OAmlz7NU9"
     },
     {
       "added_at": "2023-11-24 18:47:41",
@@ -999,6 +983,22 @@
       "duration_ms": 217600,
       "name": "Lights on Water",
       "url": "https://open.spotify.com/track/6J0uBGMNk7kjRKVmxh6iJE"
+    },
+    {
+      "added_at": "2023-11-24 18:47:41",
+      "album": {
+        "name": "Hush",
+        "url": "https://open.spotify.com/album/01duHUsDjCZIOPnaMEDV8C"
+      },
+      "artists": [
+        {
+          "name": "My Arctic Dreams",
+          "url": "https://open.spotify.com/artist/6xxFSAtDrxDe6R2qzGyz9d"
+        }
+      ],
+      "duration_ms": 161012,
+      "name": "Hush",
+      "url": "https://open.spotify.com/track/2coK2CwPIISBoa7M7soupl"
     },
     {
       "added_at": "2023-11-24 18:47:41",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-11-24 18:47:41",
       "album": {
-        "name": "Sleep Sequence",
-        "url": "https://open.spotify.com/album/5SdZ0RNRN07ltZd0fPjBGm"
-      },
-      "artists": [
-        {
-          "name": "Atmospheric Lights",
-          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
-        }
-      ],
-      "duration_ms": 203374,
-      "name": "Sleep Sequence",
-      "url": "https://open.spotify.com/track/10m4p8Qb6IeRacfFGyN4Id"
-    },
-    {
-      "added_at": "2023-11-24 18:47:41",
-      "album": {
         "name": "Sleepy Eyes",
         "url": "https://open.spotify.com/album/5XDgcCLTTeLRtQiC0H6ooQ"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 224791,
       "name": "Sleepy Eyes",
       "url": "https://open.spotify.com/track/6yh2v1ESQ0gOqU8d1Cyexm"
+    },
+    {
+      "added_at": "2023-11-24 18:47:41",
+      "album": {
+        "name": "Sleep Sequence",
+        "url": "https://open.spotify.com/album/5SdZ0RNRN07ltZd0fPjBGm"
+      },
+      "artists": [
+        {
+          "name": "Atmospheric Lights",
+          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
+        }
+      ],
+      "duration_ms": 203374,
+      "name": "Sleep Sequence",
+      "url": "https://open.spotify.com/track/10m4p8Qb6IeRacfFGyN4Id"
     },
     {
       "added_at": "2023-11-24 18:47:41",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-11-24 18:47:41",
       "album": {
-        "name": "Blissful",
-        "url": "https://open.spotify.com/album/7GCBYS9ubuzTUDiXu0ioWN"
-      },
-      "artists": [
-        {
-          "name": "Studio Tranquilo",
-          "url": "https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP"
-        }
-      ],
-      "duration_ms": 164210,
-      "name": "Blissful",
-      "url": "https://open.spotify.com/track/2b5wdM050xUWmFDGygyqe8"
-    },
-    {
-      "added_at": "2023-11-24 18:47:41",
-      "album": {
         "name": "Evening Calm",
         "url": "https://open.spotify.com/album/1lYuL6PrtYfCWlk26xn0Kj"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 158961,
       "name": "Evening Calm",
       "url": "https://open.spotify.com/track/23gmdJgMk6hgkrwUsvNjG3"
+    },
+    {
+      "added_at": "2023-11-24 18:47:41",
+      "album": {
+        "name": "Blissful",
+        "url": "https://open.spotify.com/album/7GCBYS9ubuzTUDiXu0ioWN"
+      },
+      "artists": [
+        {
+          "name": "Studio Tranquilo",
+          "url": "https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP"
+        }
+      ],
+      "duration_ms": 164210,
+      "name": "Blissful",
+      "url": "https://open.spotify.com/track/2b5wdM050xUWmFDGygyqe8"
     },
     {
       "added_at": "2023-11-24 18:47:41",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2023-11-24 18:47:41",
       "album": {
+        "name": "Calming Water",
+        "url": "https://open.spotify.com/album/1VEaqcUXRbwLFUkmmied70"
+      },
+      "artists": [
+        {
+          "name": "Divine Retreat",
+          "url": "https://open.spotify.com/artist/4FhNQH7TAvTZ00sUnU04cG"
+        }
+      ],
+      "duration_ms": 239353,
+      "name": "Cleansing Raindrops",
+      "url": "https://open.spotify.com/track/1EcOqsCldm9OArlEuiAm6e"
+    },
+    {
+      "added_at": "2023-11-24 18:47:41",
+      "album": {
         "name": "Dogma of Sleep",
         "url": "https://open.spotify.com/album/7E9G74qdVBpjKwFoJMAv1d"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 171666,
       "name": "Sleep Drifting",
       "url": "https://open.spotify.com/track/1PTo6XB9bsMpJq0bCxvVEv"
-    },
-    {
-      "added_at": "2023-11-24 18:47:41",
-      "album": {
-        "name": "Calming Water",
-        "url": "https://open.spotify.com/album/1VEaqcUXRbwLFUkmmied70"
-      },
-      "artists": [
-        {
-          "name": "Divine Retreat",
-          "url": "https://open.spotify.com/artist/4FhNQH7TAvTZ00sUnU04cG"
-        }
-      ],
-      "duration_ms": 239353,
-      "name": "Cleansing Raindrops",
-      "url": "https://open.spotify.com/track/1EcOqsCldm9OArlEuiAm6e"
     },
     {
       "added_at": "2023-11-24 18:47:41",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-11-24 18:47:41",
       "album": {
-        "name": "Light & Hope",
-        "url": "https://open.spotify.com/album/4AIfq4wzDvO0JVlManPpxT"
-      },
-      "artists": [
-        {
-          "name": "Crystalsong",
-          "url": "https://open.spotify.com/artist/2SdRLr197dzDytBbZe5RZA"
-        }
-      ],
-      "duration_ms": 167099,
-      "name": "Light & Hope",
-      "url": "https://open.spotify.com/track/1t7aHJdENKDjZxyrCRMeQV"
-    },
-    {
-      "added_at": "2023-11-24 18:47:41",
-      "album": {
         "name": "Dreamcatcher",
         "url": "https://open.spotify.com/album/1ZKBIUYB7bGLNntOUNFDH4"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 190147,
       "name": "Quiet Stars",
       "url": "https://open.spotify.com/track/2NcRLIAKxwFPCdI8NoffL5"
+    },
+    {
+      "added_at": "2023-11-24 18:47:41",
+      "album": {
+        "name": "Light & Hope",
+        "url": "https://open.spotify.com/album/4AIfq4wzDvO0JVlManPpxT"
+      },
+      "artists": [
+        {
+          "name": "Crystalsong",
+          "url": "https://open.spotify.com/artist/2SdRLr197dzDytBbZe5RZA"
+        }
+      ],
+      "duration_ms": 167099,
+      "name": "Light & Hope",
+      "url": "https://open.spotify.com/track/1t7aHJdENKDjZxyrCRMeQV"
     },
     {
       "added_at": "2023-11-24 18:47:41",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2023-11-24 18:47:41",
       "album": {
-        "name": "The State of Mudita",
-        "url": "https://open.spotify.com/album/34tKY4ovl06o917Ggv6ztL"
-      },
-      "artists": [
-        {
-          "name": "The State Of Mudita",
-          "url": "https://open.spotify.com/artist/6CqbtbMl0AAhgkpg7nmquy"
-        }
-      ],
-      "duration_ms": 155853,
-      "name": "The State of Mudita",
-      "url": "https://open.spotify.com/track/1xPNLw77249xsb6EBWipV2"
-    },
-    {
-      "added_at": "2023-11-24 18:47:41",
-      "album": {
         "name": "Among the Clouds",
         "url": "https://open.spotify.com/album/1TFakvYLpxWVYHXCAJb0Mh"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 173333,
       "name": "Among the Clouds",
       "url": "https://open.spotify.com/track/42qLkry21o8EbfaplIw0rR"
+    },
+    {
+      "added_at": "2023-11-24 18:47:41",
+      "album": {
+        "name": "The State of Mudita",
+        "url": "https://open.spotify.com/album/34tKY4ovl06o917Ggv6ztL"
+      },
+      "artists": [
+        {
+          "name": "The State Of Mudita",
+          "url": "https://open.spotify.com/artist/6CqbtbMl0AAhgkpg7nmquy"
+        }
+      ],
+      "duration_ms": 155853,
+      "name": "The State of Mudita",
+      "url": "https://open.spotify.com/track/1xPNLw77249xsb6EBWipV2"
     },
     {
       "added_at": "2023-11-24 18:47:41",

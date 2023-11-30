@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1960s. Cover: Etta James.",
-  "num_followers": 275893,
+  "num_followers": 276002,
   "original_name": "Soft 60s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTQ2OTBjNTg3MWVmZTlkMDc3ZjI3ODhmNWEyNDc5YjQ4ZDAzNzEx",
+  "snapshot_id": "MCwyYjAxYzcwNjUwMWZiYTQzNWRmOGI2NmI5ZTAyNjg0MGZiMzY3YTM2",
   "tracks": [
     {
       "added_at": "2022-05-30 13:00:37",
@@ -319,18 +319,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Ain't That Good News",
-        "url": "https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP"
+        "name": "Lesley Gore Sings Of Mixed-Up Hearts",
+        "url": "https://open.spotify.com/album/5eluBwSJ7uwDBizWCiazSJ"
       },
       "artists": [
         {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+          "name": "Lesley Gore",
+          "url": "https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ"
         }
       ],
-      "duration_ms": 191160,
-      "name": "A Change Is Gonna Come",
-      "url": "https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa"
+      "duration_ms": 150000,
+      "name": "You Don't Own Me",
+      "url": "https://open.spotify.com/track/7ngRS53kqxLcEt9Pythc5d"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -351,18 +351,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Lesley Gore Sings Of Mixed-Up Hearts",
-        "url": "https://open.spotify.com/album/5eluBwSJ7uwDBizWCiazSJ"
+        "name": "Ain't That Good News",
+        "url": "https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP"
       },
       "artists": [
         {
-          "name": "Lesley Gore",
-          "url": "https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ"
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
         }
       ],
-      "duration_ms": 150000,
-      "name": "You Don't Own Me",
-      "url": "https://open.spotify.com/track/7ngRS53kqxLcEt9Pythc5d"
+      "duration_ms": 191160,
+      "name": "A Change Is Gonna Come",
+      "url": "https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Wichita Lineman (Remastered)",
-        "url": "https://open.spotify.com/album/056tSaBR2WyN1nnmfIzkEE"
-      },
-      "artists": [
-        {
-          "name": "Glen Campbell",
-          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
-        }
-      ],
-      "duration_ms": 186200,
-      "name": "Wichita Lineman - Remastered 2001",
-      "url": "https://open.spotify.com/track/6V9VCm1zOY2lGR80RehJ9i"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Diana Ross Presents The Jackson 5",
         "url": "https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 235640,
       "name": "Who's Lovin' You",
       "url": "https://open.spotify.com/track/6cZrsaNb4Zo9E5KHk7gcz5"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Wichita Lineman (Remastered)",
+        "url": "https://open.spotify.com/album/056tSaBR2WyN1nnmfIzkEE"
+      },
+      "artists": [
+        {
+          "name": "Glen Campbell",
+          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
+        }
+      ],
+      "duration_ms": 186200,
+      "name": "Wichita Lineman - Remastered 2001",
+      "url": "https://open.spotify.com/track/6V9VCm1zOY2lGR80RehJ9i"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "I'll Never Fall in Love Again",
-        "url": "https://open.spotify.com/album/1gVMm1XwIz3JC2AHxAovtW"
-      },
-      "artists": [
-        {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
-        }
-      ],
-      "duration_ms": 174840,
-      "name": "I'll Never Fall in Love Again",
-      "url": "https://open.spotify.com/track/1MHgV79MSYE6ymNlGa3bRY"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "I'll Cry If I Want To",
         "url": "https://open.spotify.com/album/7KSrseQi4wJDUfMT4mxNo8"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 138000,
       "name": "Misty",
       "url": "https://open.spotify.com/track/2exbololsmP1XM2gmBEvAW"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "I'll Never Fall in Love Again",
+        "url": "https://open.spotify.com/album/1gVMm1XwIz3JC2AHxAovtW"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        }
+      ],
+      "duration_ms": 174840,
+      "name": "I'll Never Fall in Love Again",
+      "url": "https://open.spotify.com/track/1MHgV79MSYE6ymNlGa3bRY"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Under the Boardwalk",
-        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 157173,
-      "name": "Up on the Roof",
-      "url": "https://open.spotify.com/track/7cNRqg0lbiqBaGeOlA4AEU"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "In Dreams",
         "url": "https://open.spotify.com/album/5OpNbQPffWNtVhWCF6GziB"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 169160,
       "name": "In Dreams",
       "url": "https://open.spotify.com/track/44pN9jfSqY3d3lrKuv3QeN"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Under the Boardwalk",
+        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 157173,
+      "name": "Up on the Roof",
+      "url": "https://open.spotify.com/track/7cNRqg0lbiqBaGeOlA4AEU"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "The Best of Sam & Dave",
-        "url": "https://open.spotify.com/album/4IDa38FYTYlqHFbZM6rb5I"
-      },
-      "artists": [
-        {
-          "name": "Sam & Dave",
-          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
-        }
-      ],
-      "duration_ms": 194106,
-      "name": "When Something Is Wrong with My Baby",
-      "url": "https://open.spotify.com/track/056rtilqF4cqLOgDQGqYqv"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Ketty Lester Presenting Love Letters",
         "url": "https://open.spotify.com/album/3u5x4ufBilwbvdf6qt61yF"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 156733,
       "name": "Love Letters",
       "url": "https://open.spotify.com/track/7uqrG7OormbZVoLhFY9bLx"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "The Best of Sam & Dave",
+        "url": "https://open.spotify.com/album/4IDa38FYTYlqHFbZM6rb5I"
+      },
+      "artists": [
+        {
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
+        }
+      ],
+      "duration_ms": 194106,
+      "name": "When Something Is Wrong with My Baby",
+      "url": "https://open.spotify.com/track/056rtilqF4cqLOgDQGqYqv"
     },
     {
       "added_at": "2022-09-12 04:55:49",

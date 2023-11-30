@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Westside Gunn",
-  "num_followers": 1617881,
+  "num_followers": 1617885,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODgyYTk0NGRmOTM2OWU0NTNhOWE2ZTBhY2YzMjQyOWYxNzgyYjMy",
+  "snapshot_id": "MCxmN2Q3OWZmYzIzODY3NGY4YWI4MmM0Njk0YjhkOTY3OTI2OWM4MDA2",
   "tracks": [
     {
       "added_at": "2023-11-24 04:00:00",
@@ -451,26 +451,6 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
-        "name": "Flying High, Part 2",
-        "url": "https://open.spotify.com/album/21cT6jnDfeUTCN1J2bzllz"
-      },
-      "artists": [
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Action Bronson",
-          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
-        }
-      ],
-      "duration_ms": 177360,
-      "name": "Vertigo (feat. Action Bronson)",
-      "url": "https://open.spotify.com/track/7BbppQIMIrxOkJIfdM4syU"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
         "name": "DeNiro & Pesci",
         "url": "https://open.spotify.com/album/0FH0RTdtqMNg8dtXmM785x"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 175648,
       "name": "DeNiro & Pesci",
       "url": "https://open.spotify.com/track/1FJWjfuUpgm8Amd9Wg5Gt3"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
+        "name": "Flying High, Part 2",
+        "url": "https://open.spotify.com/album/21cT6jnDfeUTCN1J2bzllz"
+      },
+      "artists": [
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+        }
+      ],
+      "duration_ms": 177360,
+      "name": "Vertigo (feat. Action Bronson)",
+      "url": "https://open.spotify.com/track/7BbppQIMIrxOkJIfdM4syU"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
-        "name": "Tha Fix Before Tha VI",
-        "url": "https://open.spotify.com/album/7aWNHIpUIFnlu2UhOWqooG"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 210509,
-      "name": "Slip",
-      "url": "https://open.spotify.com/track/4mnjagpaCTWFLqiRMHbFAm"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
         "name": "The Patience",
         "url": "https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 175750,
       "name": "Smoke Break-Dance (feat. JID)",
       "url": "https://open.spotify.com/track/3EcqaLV76JnvSQOInAmdXv"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
+        "name": "Tha Fix Before Tha VI",
+        "url": "https://open.spotify.com/album/7aWNHIpUIFnlu2UhOWqooG"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 210509,
+      "name": "Slip",
+      "url": "https://open.spotify.com/track/4mnjagpaCTWFLqiRMHbFAm"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -715,6 +715,26 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
+        "name": "Asteroids",
+        "url": "https://open.spotify.com/album/5jPlekW4E787N4lgsC9G3w"
+      },
+      "artists": [
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        }
+      ],
+      "duration_ms": 155179,
+      "name": "Asteroids",
+      "url": "https://open.spotify.com/track/7vTTOzp0E9D04XJVdt5qP5"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
         "name": "MAYNARD VIGNETTE [Feat. T.I., JID, and Jacquees]",
         "url": "https://open.spotify.com/album/60JfsbLNllrEy2zwjO2qzL"
       },
@@ -739,26 +759,6 @@
       "duration_ms": 288018,
       "name": "MAYNARD VIGNETTE [Feat. T.I., JID, Jacquees]",
       "url": "https://open.spotify.com/track/4H8RhDIpZidT57dKw30k1C"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
-        "name": "Asteroids",
-        "url": "https://open.spotify.com/album/5jPlekW4E787N4lgsC9G3w"
-      },
-      "artists": [
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        },
-        {
-          "name": "Hit-Boy",
-          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
-        }
-      ],
-      "duration_ms": 155179,
-      "name": "Asteroids",
-      "url": "https://open.spotify.com/track/7vTTOzp0E9D04XJVdt5qP5"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -827,22 +827,6 @@
       "duration_ms": 193973,
       "name": "beauty supply",
       "url": "https://open.spotify.com/track/4oevXziJVFARkGMty2HdFF"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
-        "name": "MICHAEL (Deluxe)",
-        "url": "https://open.spotify.com/album/5dhb5ZpYSm2gH8OCxAKTn1"
-      },
-      "artists": [
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        }
-      ],
-      "duration_ms": 177814,
-      "name": "YES!",
-      "url": "https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM"
     },
     {
       "added_at": "2023-11-24 04:00:00",
@@ -919,6 +903,22 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
+        "name": "MICHAEL (Deluxe)",
+        "url": "https://open.spotify.com/album/5dhb5ZpYSm2gH8OCxAKTn1"
+      },
+      "artists": [
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        }
+      ],
+      "duration_ms": 177814,
+      "name": "YES!",
+      "url": "https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
         "name": "Montagna",
         "url": "https://open.spotify.com/album/2uShVWVliRbY4ePhpQ1MG9"
       },
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
-        "name": "Magic 2",
-        "url": "https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 210624,
-      "name": "Slow it Down",
-      "url": "https://open.spotify.com/track/2oOMMKZV7SmCLdjALkOgkA"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
         "name": "SUNDAY DINNER",
         "url": "https://open.spotify.com/album/43C9qcFuylC5QjGspwpqTl"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 150000,
       "name": "TWO SIDES",
       "url": "https://open.spotify.com/track/50bZ9l5bg1jgoglj6qgy8J"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
+        "name": "Magic 2",
+        "url": "https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 210624,
+      "name": "Slow it Down",
+      "url": "https://open.spotify.com/track/2oOMMKZV7SmCLdjALkOgkA"
     }
   ],
   "unique_name": "Spilled Ink",

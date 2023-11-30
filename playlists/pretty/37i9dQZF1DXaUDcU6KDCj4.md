@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Ocie Elliott
 
-[Spotify](https://open.spotify.com/user/spotify) - 796,416 likes - 154 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 796,569 likes - 154 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

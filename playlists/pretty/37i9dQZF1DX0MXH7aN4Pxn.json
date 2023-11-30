@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 685914,
+  "num_followers": 685897,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODZiMzRjMGY0YTNlZWQyYzNjYWViMmJhZTVhMmQ2MDg0YzQ5M2U2",
+  "snapshot_id": "MCw0MGQ3ODFhNmQ3MDYxNDU2YzQ4MDdjYTY0NzNjOGNkNjk2NmU5NDEx",
   "tracks": [
     {
       "added_at": "2023-11-10 00:01:00",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Serotonin Moonbeams",
-        "url": "https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO"
-      },
-      "artists": [
-        {
-          "name": "The Blessed Madonna",
-          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
-        }
-      ],
-      "duration_ms": 289471,
-      "name": "Serotonin Moonbeams",
-      "url": "https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
         "name": "Melody",
         "url": "https://open.spotify.com/album/1pLnRSFohTMJjT6gW9CIXg"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 167142,
       "name": "Melody",
       "url": "https://open.spotify.com/track/6Owc2SuzwO3LW1SAODYK3l"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
+        "name": "Serotonin Moonbeams",
+        "url": "https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO"
+      },
+      "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        }
+      ],
+      "duration_ms": 289471,
+      "name": "Serotonin Moonbeams",
+      "url": "https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -403,26 +403,6 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Now U Do",
-        "url": "https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR"
-      },
-      "artists": [
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        },
-        {
-          "name": "Confidence Man",
-          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
-        }
-      ],
-      "duration_ms": 158882,
-      "name": "Now U Do - Edit",
-      "url": "https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
         "name": "My Humps",
         "url": "https://open.spotify.com/album/4mnGRL7lErjyRJsoCwgJT4"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 186124,
       "name": "My Humps",
       "url": "https://open.spotify.com/track/3BbD2sqk7P7Rc9V0KF9o4s"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
+        "name": "Now U Do",
+        "url": "https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        },
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        }
+      ],
+      "duration_ms": 158882,
+      "name": "Now U Do - Edit",
+      "url": "https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
+        "name": "Talamanca",
+        "url": "https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW"
+      },
+      "artists": [
+        {
+          "name": "BURNS",
+          "url": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
+        }
+      ],
+      "duration_ms": 186727,
+      "name": "Talamanca",
+      "url": "https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
         "name": "Need You Now",
         "url": "https://open.spotify.com/album/5aY4t7BbsfZ7WOTSOXnMUc"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 160000,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/7K9ZxHYSwVJ1BTC044EUNw"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
-        "name": "Talamanca",
-        "url": "https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW"
-      },
-      "artists": [
-        {
-          "name": "BURNS",
-          "url": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
-        }
-      ],
-      "duration_ms": 186727,
-      "name": "Talamanca",
-      "url": "https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "They Don't Know (Radio Edit)",
-        "url": "https://open.spotify.com/album/3PFPHmT6f2Meat5xuT42MV"
-      },
-      "artists": [
-        {
-          "name": "Disciples",
-          "url": "https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB"
-        }
-      ],
-      "duration_ms": 161726,
-      "name": "They Don't Know - Radio Edit",
-      "url": "https://open.spotify.com/track/3ddsRCIG5TcpytqsfTOnX1"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
         "name": "God Made Me Phunky (Jess Bays Remix)",
         "url": "https://open.spotify.com/album/5ntomn4F2F0AA7r6n8Y8Hl"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 220270,
       "name": "God Made Me Phunky - Jess Bays Remix",
       "url": "https://open.spotify.com/track/6qRzNXm3vpGcGoLVB3zk9n"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
+        "name": "They Don't Know (Radio Edit)",
+        "url": "https://open.spotify.com/album/3PFPHmT6f2Meat5xuT42MV"
+      },
+      "artists": [
+        {
+          "name": "Disciples",
+          "url": "https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB"
+        }
+      ],
+      "duration_ms": 161726,
+      "name": "They Don't Know - Radio Edit",
+      "url": "https://open.spotify.com/track/3ddsRCIG5TcpytqsfTOnX1"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
+        "name": "Feels",
+        "url": "https://open.spotify.com/album/47wCYDJUFpC2MZkrQF5ZpK"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        }
+      ],
+      "duration_ms": 147987,
+      "name": "Feels",
+      "url": "https://open.spotify.com/track/1e2VTVaFPqbOk3LoRFkA64"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
         "name": "Wifey",
         "url": "https://open.spotify.com/album/29STI5532ceyljunkxotwt"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 218015,
       "name": "Wifey",
       "url": "https://open.spotify.com/track/4p1hTT29zIfPbf8XVO1nHQ"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
-        "name": "Feels",
-        "url": "https://open.spotify.com/album/47wCYDJUFpC2MZkrQF5ZpK"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        }
-      ],
-      "duration_ms": 147987,
-      "name": "Feels",
-      "url": "https://open.spotify.com/track/1e2VTVaFPqbOk3LoRFkA64"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1595,30 +1595,6 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Ascending Into The Clouds (feat. Elisabeth Troy) [Edit]",
-        "url": "https://open.spotify.com/album/6RkAmdnqMxodcx6t6dKg5K"
-      },
-      "artists": [
-        {
-          "name": "Tiga",
-          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
-        },
-        {
-          "name": "Hudson Mohawke",
-          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
-        },
-        {
-          "name": "Elisabeth Troy",
-          "url": "https://open.spotify.com/artist/2PWJP6HKlECQurewX1uGuT"
-        }
-      ],
-      "duration_ms": 208217,
-      "name": "Ascending Into The Clouds (feat. Elisabeth Troy) - Edit",
-      "url": "https://open.spotify.com/track/5dlwxxHd9RNBPP3PwlLZgB"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
         "name": "Day By Day",
         "url": "https://open.spotify.com/album/4M3rsAYpJxIVXqYHxylljj"
       },
@@ -1655,6 +1631,30 @@
       "duration_ms": 166736,
       "name": "Tears For Later",
       "url": "https://open.spotify.com/track/0qLCGr3tEqsvk5FfHU2XqV"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
+        "name": "Ascending Into The Clouds (feat. Elisabeth Troy) [Edit]",
+        "url": "https://open.spotify.com/album/6RkAmdnqMxodcx6t6dKg5K"
+      },
+      "artists": [
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "Hudson Mohawke",
+          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
+        },
+        {
+          "name": "Elisabeth Troy",
+          "url": "https://open.spotify.com/artist/2PWJP6HKlECQurewX1uGuT"
+        }
+      ],
+      "duration_ms": 208217,
+      "name": "Ascending Into The Clouds (feat. Elisabeth Troy) - Edit",
+      "url": "https://open.spotify.com/track/5dlwxxHd9RNBPP3PwlLZgB"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1831,6 +1831,22 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
+        "name": "Just Let Go",
+        "url": "https://open.spotify.com/album/06XNm5rEIqsbFVkLwkZP84"
+      },
+      "artists": [
+        {
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "Just Let Go",
+      "url": "https://open.spotify.com/track/1J9ImnWMtxpx1XfwCzKpkj"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
         "name": "Coming Home (feat. Anabel Englund)",
         "url": "https://open.spotify.com/album/3uOhFuyYOALAPA8Phtpqkw"
       },
@@ -1855,18 +1871,18 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Just Let Go",
-        "url": "https://open.spotify.com/album/06XNm5rEIqsbFVkLwkZP84"
+        "name": "Do That EP",
+        "url": "https://open.spotify.com/album/0JYLFoVSCplUAgU55biKTa"
       },
       "artists": [
         {
-          "name": "Chapter & Verse",
-          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+          "name": "lau.ra",
+          "url": "https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn"
         }
       ],
-      "duration_ms": 188160,
-      "name": "Just Let Go",
-      "url": "https://open.spotify.com/track/1J9ImnWMtxpx1XfwCzKpkj"
+      "duration_ms": 163245,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/6m4nNzJAiWFePTf5IlwReN"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1903,22 +1919,6 @@
       "duration_ms": 162844,
       "name": "Little Things",
       "url": "https://open.spotify.com/track/0S3b1jhjbkaeg3QYmfObXz"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
-        "name": "Do That EP",
-        "url": "https://open.spotify.com/album/0JYLFoVSCplUAgU55biKTa"
-      },
-      "artists": [
-        {
-          "name": "lau.ra",
-          "url": "https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn"
-        }
-      ],
-      "duration_ms": 163245,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/6m4nNzJAiWFePTf5IlwReN"
     },
     {
       "added_at": "2023-11-10 00:01:00",

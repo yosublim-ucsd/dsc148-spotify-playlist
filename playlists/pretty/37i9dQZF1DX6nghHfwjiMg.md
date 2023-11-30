@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 
 > El futuro está acá\. Foto: Soui Uno
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,027 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,025 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 | 21 | [Anímate](https://open.spotify.com/track/47KM8wYv36ePhmoDj8ybwU) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [Anímate](https://open.spotify.com/album/2RaMQaXU0ZQgokm44kVgIq) | 3:38 |
 | 22 | [KIDZ \- Spotify Singles](https://open.spotify.com/track/2Fc0wy51lDMnxcEcli7UNK) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [KIDZ \- Spotify Singles](https://open.spotify.com/album/7BrgeOGDEUsE0QDk9m75Zv) | 3:24 |
 | 23 | [EL PLOTTER](https://open.spotify.com/track/0RCnbUSbzP6NipEvi8vs1P) | [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA) | [EL PLOTTER](https://open.spotify.com/album/1F46me8TYsulA1dpAne3OU) | 3:28 |
-| 24 | [Cura' de Espanto](https://open.spotify.com/track/1hzSaPNL2XsYUa3nGfIbjZ) | [Después de la fiesta](https://open.spotify.com/artist/6RGri3BX7P64gUBuf6uU7p), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Cura' de Espanto](https://open.spotify.com/album/5yrDNsjle7n0sRrZpdfIp9) | 1:58 |
+| 24 | [Cura' de Espanto](https://open.spotify.com/track/1hzSaPNL2XsYUa3nGfIbjZ) | [AFTER](https://open.spotify.com/artist/6RGri3BX7P64gUBuf6uU7p), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Cura' de Espanto](https://open.spotify.com/album/5yrDNsjle7n0sRrZpdfIp9) | 1:58 |
 | 25 | [Al Revés](https://open.spotify.com/track/5K64lG2ppjQUFN2PzPU7DD) | [Antonio Algo](https://open.spotify.com/artist/3WAjQy7hVFE3aEQNKqTlWO) | [Cicatrices](https://open.spotify.com/album/1oSf2mO2rpzXVYVOCyKMe2) | 2:31 |
 | 26 | [Milagrosa](https://open.spotify.com/track/7vFESQCFxuL38hNbTCtUDu) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Milagrosa](https://open.spotify.com/album/2TKYEbaAPl4mqTAyGiKFRS) | 2:20 |
 | 27 | [TIERRA ZANTA](https://open.spotify.com/track/73zQG7t3tZDyePEflVSqJJ) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Victor Heredia](https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X) | [BIEN O MAL](https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl) | 3:57 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 | 35 | [MARILÚ](https://open.spotify.com/track/1sWj4tgMHEtwM4NWGSXbdj) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p) | [MARILÚ](https://open.spotify.com/album/4v94l0rjxYHcsF74Lo7yVm) | 2:45 |
 | 36 | [Porte](https://open.spotify.com/track/2ixCtJ3dVGT3pyjL7PDex1) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [Porte](https://open.spotify.com/album/4aU679nTE0dDkQmIVqK7RW) | 2:36 |
 | 37 | [Las converse](https://open.spotify.com/track/3jnVYRB2mkTOinBWeLGEea) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Las converse](https://open.spotify.com/album/6igVxgZ2a2jX2nBQ1JHQnU) | 2:57 |
-| 38 | [No Estoy](https://open.spotify.com/track/4AOxMjHyzzcbjFnHOmd1l7) | [Después de la fiesta](https://open.spotify.com/artist/6RGri3BX7P64gUBuf6uU7p), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Akim 88](https://open.spotify.com/artist/4TDr2te1ZvxbEchksH77Dp) | [No Estoy](https://open.spotify.com/album/5L00qyZASsGZZC4L1tYDRL) | 1:53 |
+| 38 | [No Estoy](https://open.spotify.com/track/4AOxMjHyzzcbjFnHOmd1l7) | [AFTER](https://open.spotify.com/artist/6RGri3BX7P64gUBuf6uU7p), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Akim 88](https://open.spotify.com/artist/4TDr2te1ZvxbEchksH77Dp) | [No Estoy](https://open.spotify.com/album/5L00qyZASsGZZC4L1tYDRL) | 1:53 |
 | 39 | [Dime](https://open.spotify.com/track/2msCd7i6rtFqM8lU9lnJdm) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [AQUA](https://open.spotify.com/album/0UTvRc4RJLiFok8MG4KbWC) | 3:13 |
 | 40 | [Los Dos](https://open.spotify.com/track/6kn5oUW8uoVIcGjpjbnBlw) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Los Dos](https://open.spotify.com/album/5J0ozKBrpKY05AoClZx56R) | 2:52 |
 | 41 | [NO ME ATRAE](https://open.spotify.com/track/2AvLjHKuiQYgiuJ299t3NP) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [HORA DE IRTE MIXTAPE](https://open.spotify.com/album/5x1j2CtNYKsIsvYvTsyeTX) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 | 49 | [DRILL AR 4](https://open.spotify.com/track/2ZMzEgq2IAwPJKZR6i9bqP) | [Akim 88](https://open.spotify.com/artist/4TDr2te1ZvxbEchksH77Dp), [E.C.V](https://open.spotify.com/artist/3bz89tGLK59YTBYV8577IR) | [DRILL AR 4](https://open.spotify.com/album/24DkZ6r0rNwWdBMwmOHtPM) | 2:02 |
 | 50 | [SPACE SEX](https://open.spotify.com/track/0gk8KeUZy6MGycu06QgBf1) | [COSMIC KID](https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h) | [SPACE SEX](https://open.spotify.com/album/5LGvRtKKfzkQPbVLy1u80o) | 3:07 |
 
-Snapshot ID: `MCw2OWE3MWVhNzQxNGUwMjQyMDBkOWZlODVkOWJlNGU2OWE5NDIxZTk5`
+Snapshot ID: `MCw1MzI3OTdmMzQxZDdhZTljNDkzM2FjOWUyNjRmY2RmZDMwYWQ0NTk2`

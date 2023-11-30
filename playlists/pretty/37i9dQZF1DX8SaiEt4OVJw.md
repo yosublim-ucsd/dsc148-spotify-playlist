@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SaiEt4OVJw.md) - [plain]
 
 > Mo money mo problems
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,022 likes - 30 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,059 likes - 30 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SaiEt4OVJw.md) - [plain]
 | 29 | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/track/3QFInJAm9eyaho5vBzxInN) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Melodic Blue](https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg) | 4:12 |
 | 30 | [It Is What It Is](https://open.spotify.com/track/2GVeh0VTzmdRKQ1VDie5zT) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Catch Me If You Can](https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn) | 2:54 |
 
-Snapshot ID: `MCxlNTkwNDFiYzY0ZTczY2QzMWQ4NThkNzY5MmQwZDQwMDIyOWNjZGJm`
+Snapshot ID: `MCwxYTg2N2NmZjRhYzk5ZjEwYmU5Y2QxY2IwMjIzZTA5YTk1MzZmODdl`

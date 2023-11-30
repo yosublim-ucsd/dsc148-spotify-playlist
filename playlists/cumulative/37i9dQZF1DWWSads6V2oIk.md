@@ -4,7 +4,7 @@
 
 > Tropical nature sounds for bedtime.
 
-112 songs - 6 hr 25 min
+113 songs - 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Dreamy Rain](https://open.spotify.com/track/0oSU0oQ4xp3H6sMh1In9W8) | [Rainded](https://open.spotify.com/artist/0fHeyixPnac66k5oBPclVW) | [Skyscraps](https://open.spotify.com/album/6GsRwYmzOWbrMDXtBUmkCN) | 2:31 | 2021-12-22 |  |
 | [Dreamy Rainforest](https://open.spotify.com/track/69bd86Umw7LLAkKIxxiQGQ) | [Djunjo](https://open.spotify.com/artist/1DWBwafhEN1i2zYG6r05Au) | [Walk in the Wild](https://open.spotify.com/album/2HqQGJKCRxwLEKsTtUUDxq) | 3:04 | 2023-02-20 |  |
 | [Early Morning Rain](https://open.spotify.com/track/50cVjrNMWV8ZZ8DWlNImQB) | [Sounds of the Jungle](https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh) | [Sounds of the Jungle](https://open.spotify.com/album/6KR8ekx3goy7PjLYhINlgQ) | 3:02 | 2021-12-22 |  |
-| [El Sonido De La Jungla](https://open.spotify.com/track/3X9fYeMzViZNTg3FptCZZq) | [Nerea Llopis](https://open.spotify.com/artist/45DFCRFgVJdYToAWjPau6O) | [El Sonido De La Jungla](https://open.spotify.com/album/4UpQkIb1B3HDThLzEKI0DT) | 2:02 | 2021-12-22 |  |
+| [El Sonido De La Jungla](https://open.spotify.com/track/3X9fYeMzViZNTg3FptCZZq) | [Nerea Llopis](https://open.spotify.com/artist/45DFCRFgVJdYToAWjPau6O) | [El Sonido De La Jungla](https://open.spotify.com/album/4UpQkIb1B3HDThLzEKI0DT) | 2:02 | 2021-12-22 | 2023-11-30 |
 | [Evening Drizzle](https://open.spotify.com/track/6cT7dRMHzgURq44rPtFHUB) | [Sounds of the Jungle](https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh) | [Sounds of the Jungle](https://open.spotify.com/album/6KR8ekx3goy7PjLYhINlgQ) | 3:00 | 2021-12-22 |  |
 | [Exotic Jungle Life for Meditation and Deep Sleep](https://open.spotify.com/track/1c2q71mRUvPAjkNvPEjv4x) | [Nature Sounds in HD](https://open.spotify.com/artist/4OejBwsKe73jfbVP9Csef7) | [Nature Sound in HD](https://open.spotify.com/album/2FamwsbosEaAyFWlcIFFdF) | 6:00 | 2022-07-06 | 2022-11-13 |
 | [Florida Rain Storm](https://open.spotify.com/track/41ngfIhPv1DkwHozVjH5Yc) | [Mother Nature Sound FX](https://open.spotify.com/artist/4lrOh2SR7H3guHky2lAYOk) | [Thunderstorms](https://open.spotify.com/album/47aFId4LZv1BI9UZEpzbpx) | 2:55 | 2021-12-22 |  |
@@ -55,6 +55,7 @@
 | [La Lluvia de Grillos](https://open.spotify.com/track/00yIts9df4yeHYVSIFBKEQ) | [Itziar Ligüerre](https://open.spotify.com/artist/5SdPoaY7KX4gcQpvYLZ1aC) | [La Lluvia de Grillos](https://open.spotify.com/album/6DFvHoFmuHNE1X0g2SVMLX) | 1:59 | 2023-02-20 | 2023-06-21 |
 | [Life in the Rainforest](https://open.spotify.com/track/1a8rEYQBRNGFJEjZRTvaUr) | [Nature Sounds](https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm) | [! ! ! ! ! ! " " Vision " " ! ! ! ! ! !](https://open.spotify.com/album/4GPKIDyResFcl3mLyieVEC) | 3:15 | 2021-12-22 |  |
 | [Life in the Rainforest](https://open.spotify.com/track/1o1It1oPNpyTpNVNzOUmWI) | [Nature Sounds](https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm) | [! ! ! ! Real Nature Sounds ! ! ! !](https://open.spotify.com/album/7w9t1vTzIh29gFDa1w0f6O) | 3:15 | 2023-02-20 | 2023-04-16 |
+| [Lively Night in the Jungle](https://open.spotify.com/track/01j781oIonaBkOqMqTCuKp) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Frogs and Rain near the River](https://open.spotify.com/album/7DDVhkJ1acgUJlMFXPz73p) | 2:29 | 2023-06-20 |  |
 | [Magical Rain](https://open.spotify.com/track/6ad7H8vGnSLx7O2se8EDEl) | [Wood Elf](https://open.spotify.com/artist/4kkcDrzb0b9TU5NEyKhqfK) | [Enchanted Forest Rain](https://open.spotify.com/album/4GGP7zbdr9Seo4tTj3IWDQ) | 2:29 | 2021-12-22 |  |
 | [Magical Rainforest](https://open.spotify.com/track/5gKbTObGEDjqpB6pTzu1Ht) | [Accuweather](https://open.spotify.com/artist/2Y7k2YqDWE9s1eSuQlaWNi) | [The Sound Of Rain](https://open.spotify.com/album/4GarWDiMBHvz8hQudi2Ql4) | 2:25 | 2021-12-22 |  |
 | [Many Jungle Birds](https://open.spotify.com/track/0H35gcoQAOvPoFpSbO8Ylp) | [Dr\. Meditation](https://open.spotify.com/artist/3oZYKXyDVvu1P0wVIrCquY) | [200 Nature Sounds](https://open.spotify.com/album/5JojOrCQpS1pYJXAgOQkSV) | 3:12 | 2021-12-22 |  |

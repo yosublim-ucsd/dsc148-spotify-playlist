@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2019. Cover: Daddy Yankee",
-  "num_followers": 52813,
+  "num_followers": 52844,
   "original_name": "Latin Hits 2019",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxODVkMmUwNmZiMmM5YTgyZTllNWJiZTlhOTRhMjg5YTE3YWY0ZGIz",
+  "snapshot_id": "MCxmOTVhYzliNmI1YTUzMWE4NjBjMmNhYWU2NDI2NDljOTZjMTRhZWU1",
   "tracks": [
     {
       "added_at": "2021-12-16 01:10:18",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2021-12-16 01:10:18",
       "album": {
-        "name": "Para Aventuras y Curiosidades",
-        "url": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 206279,
-      "name": "La Boca",
-      "url": "https://open.spotify.com/track/0UQwlF2pRkr1lMN6kNNUj3"
-    },
-    {
-      "added_at": "2021-12-16 01:10:18",
-      "album": {
         "name": "ADN",
         "url": "https://open.spotify.com/album/0CUMVFalkFhZM6Xo0ErxLi"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 199090,
       "name": "Te Quemaste",
       "url": "https://open.spotify.com/track/4fj7e6Tc48Bmomwyz2Z2XC"
+    },
+    {
+      "added_at": "2021-12-16 01:10:18",
+      "album": {
+        "name": "Para Aventuras y Curiosidades",
+        "url": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 206279,
+      "name": "La Boca",
+      "url": "https://open.spotify.com/track/0UQwlF2pRkr1lMN6kNNUj3"
     }
   ],
   "unique_name": "Latin Hits 2019",

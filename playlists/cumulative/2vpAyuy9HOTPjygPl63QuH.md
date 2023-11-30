@@ -2,9 +2,9 @@
 
 ### [Tech House Shifters](https://open.spotify.com/playlist/2vpAyuy9HOTPjygPl63QuH)
 
-> The freshest tech house &amp; techno music, updated every friday 🔥🔊 \| tech house \- house \- techno \- rave \- party \- bangers \- tiktok techno \- dance \| Submit via Instagram: @subshiftmusic
+> The freshest tech house &amp; techno music 🔥🔊 \| tech house \- house \- techno \- rave \- party \- bangers \- tiktok techno \- dance \| Submit via Instagram: @subshiftmusic
 
-1,545 songs - 3 day 16 hr 4 min
+1,546 songs - 3 day 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1534,6 +1534,7 @@
 | [YDK](https://open.spotify.com/track/7uX1MHI86spjNNWuVXGHIH) | [GrooveYard](https://open.spotify.com/artist/2itNATItXtIi6sV8V4P2pT), [Kxne](https://open.spotify.com/artist/2ra4pgvFtoYYzvXir3E4JD) | [YDK](https://open.spotify.com/album/5JdSrFEJ2DmB6Wa3pXutg5) | 3:38 | 2023-09-11 | 2023-09-16 |
 | [Yeah](https://open.spotify.com/track/6OSl6T4krWpPK7qrSStoS1) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [Yeah](https://open.spotify.com/album/7h18BePxAaCgbyXVOBPLz8) | 3:33 | 2023-09-22 | 2023-09-30 |
 | [Yeah The Girls \(feat\. MERYLL\)](https://open.spotify.com/track/5hMlz6wuVF3gqwMGu1iDTg) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Yeah The Girls \(feat\. MERYLL\)](https://open.spotify.com/album/3zr7x5u0ykdFsQo3t5GWJt) | 3:14 | 2022-09-02 | 2022-09-10 |
+| [Yeah Yeah](https://open.spotify.com/track/5kM3cpM7CKCXxcOANzLKJ2) | [Keeld](https://open.spotify.com/artist/4JU2KBLwvIFo9iH3a2FtCT), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Yeah Yeah](https://open.spotify.com/album/7fNauzvAnfqsDs9z6AuCgP) | 3:19 | 2023-11-29 |  |
 | [Yellow Wave](https://open.spotify.com/track/75kHwisoH6GuszNXUnpIwH) | [Antho Decks](https://open.spotify.com/artist/1nPH0F1TGQSBWHa76MKBie), [Danny Rhys](https://open.spotify.com/artist/2M6Re1FK8R8PfaKrlpF19S) | [Yellow Wave](https://open.spotify.com/album/41ntcOxm4ds8OSWc7tjPFI) | 3:35 | 2023-10-06 | 2023-10-14 |
 | [You](https://open.spotify.com/track/64XuVVslGI3wdiz1nbFRcp) | [Nofex](https://open.spotify.com/artist/1wOk03ohfVCzcIxZ8KRwrL) | [You](https://open.spotify.com/album/3loEQDP8cVTqbspSywER7u) | 5:29 | 2023-06-30 | 2023-07-16 |
 | [You Don't Know \(feat\. PVC\)](https://open.spotify.com/track/17f8MQbbICShN6ChgIbmwb) | [Double Agent](https://open.spotify.com/artist/4BwhvsUVmhKmN2VuD8sUMM), [PVC](https://open.spotify.com/artist/2MhBByeZkfHW85qngIOjrK) | [You Don't Know \(feat\. PVC\)](https://open.spotify.com/album/5GoSswuHq1gZm8EvClZgrz) | 3:15 | 2023-09-15 | 2023-09-23 |

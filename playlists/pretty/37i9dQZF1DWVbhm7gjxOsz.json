@@ -1,12 +1,12 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 48694,
+  "num_followers": 48881,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTZlNDQ4YTBjNDBmZjhmZDc5MGM1YTQwZDI0ZTFmNTA3OWNjNmQy",
+  "snapshot_id": "MCxjMWRjMWNlNTA1NzNiM2U1NDlhYzRmY2UyYTFkOTE5MzQ0ZTcxOGZk",
   "tracks": [
     {
       "added_at": "2023-08-29 23:44:25",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "Where There's Smoke...",
-        "url": "https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson",
-          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
-        }
-      ],
-      "duration_ms": 352920,
-      "name": "Cruisin'",
-      "url": "https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
         "name": "La Vida Es Fr\u00eda",
         "url": "https://open.spotify.com/album/6DdM7MRFC9G9BAGANWKQvp"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 202234,
       "name": "La Vida Es Fr\u00eda",
       "url": "https://open.spotify.com/track/4r3XQQZyf8p30M8fFkZJDa"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
+        "name": "Where There's Smoke...",
+        "url": "https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson",
+          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
+        }
+      ],
+      "duration_ms": 352920,
+      "name": "Cruisin'",
+      "url": "https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "The Very Best Of Aaron Neville",
-        "url": "https://open.spotify.com/album/5p30oP23JCMDwHXM7f6ECa"
-      },
-      "artists": [
-        {
-          "name": "Aaron Neville",
-          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
-        }
-      ],
-      "duration_ms": 164560,
-      "name": "Tell It Like It Is",
-      "url": "https://open.spotify.com/track/66BjgQodHebiX5QGpBAjyQ"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
         "name": "I'm Still in Love with You",
         "url": "https://open.spotify.com/album/7hI0QCwcx9GB8MZK24IfTT"
       },
@@ -567,18 +551,18 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "Sings Just One Look And Other Memorable Selections",
-        "url": "https://open.spotify.com/album/2CLiFy7JO1bmkNV6LFEMix"
+        "name": "The Very Best Of Aaron Neville",
+        "url": "https://open.spotify.com/album/5p30oP23JCMDwHXM7f6ECa"
       },
       "artists": [
         {
-          "name": "Doris Troy",
-          "url": "https://open.spotify.com/artist/3jiBDfjnWIdLQEEOdKqZex"
+          "name": "Aaron Neville",
+          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
         }
       ],
-      "duration_ms": 151906,
-      "name": "Just One Look",
-      "url": "https://open.spotify.com/track/154uJXAUVoqvV5on0w03a0"
+      "duration_ms": 164560,
+      "name": "Tell It Like It Is",
+      "url": "https://open.spotify.com/track/66BjgQodHebiX5QGpBAjyQ"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -595,6 +579,22 @@
       "duration_ms": 161373,
       "name": "Mr. Lonely",
       "url": "https://open.spotify.com/track/5KG2ahk1cONbHvg3dBdTbx"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
+        "name": "Sings Just One Look And Other Memorable Selections",
+        "url": "https://open.spotify.com/album/2CLiFy7JO1bmkNV6LFEMix"
+      },
+      "artists": [
+        {
+          "name": "Doris Troy",
+          "url": "https://open.spotify.com/artist/3jiBDfjnWIdLQEEOdKqZex"
+        }
+      ],
+      "duration_ms": 151906,
+      "name": "Just One Look",
+      "url": "https://open.spotify.com/track/154uJXAUVoqvV5on0w03a0"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "Disco Nights (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5hgGl3cmYdzcPedJs47Jum"
-      },
-      "artists": [
-        {
-          "name": "G.Q.",
-          "url": "https://open.spotify.com/artist/18YelxQioKKPXK1PE5hh1n"
-        }
-      ],
-      "duration_ms": 288733,
-      "name": "I Do Love You",
-      "url": "https://open.spotify.com/track/75FAk9JQHHLecKEZ8OZxpK"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
         "name": "The One Who Really Loves You",
         "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 165333,
       "name": "You Beat Me To The Punch",
       "url": "https://open.spotify.com/track/4Sz8zFchpHQVQVqVyGz5Jb"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
+        "name": "Disco Nights (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5hgGl3cmYdzcPedJs47Jum"
+      },
+      "artists": [
+        {
+          "name": "G.Q.",
+          "url": "https://open.spotify.com/artist/18YelxQioKKPXK1PE5hh1n"
+        }
+      ],
+      "duration_ms": 288733,
+      "name": "I Do Love You",
+      "url": "https://open.spotify.com/track/75FAk9JQHHLecKEZ8OZxpK"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "Baby, I'm Yours",
-        "url": "https://open.spotify.com/album/0rmDDX6kd3GGmsfYVAlHfN"
+        "name": "The One Who Really Loves You",
+        "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
       },
       "artists": [
         {
-          "name": "Barbara Lewis",
-          "url": "https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq"
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
         }
       ],
-      "duration_ms": 148706,
-      "name": "Baby, I'm Yours",
-      "url": "https://open.spotify.com/track/6ldnKaF2UYpOtmpOAOwlQe"
+      "duration_ms": 147466,
+      "name": "The One Who Really Loves You - Single Version",
+      "url": "https://open.spotify.com/track/4M732X5J2BE6M8VIHHfxMx"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "The One Who Really Loves You",
-        "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
+        "name": "Baby, I'm Yours",
+        "url": "https://open.spotify.com/album/0rmDDX6kd3GGmsfYVAlHfN"
       },
       "artists": [
         {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
+          "name": "Barbara Lewis",
+          "url": "https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq"
         }
       ],
-      "duration_ms": 147466,
-      "name": "The One Who Really Loves You - Single Version",
-      "url": "https://open.spotify.com/track/4M732X5J2BE6M8VIHHfxMx"
+      "duration_ms": 148706,
+      "name": "Baby, I'm Yours",
+      "url": "https://open.spotify.com/track/6ldnKaF2UYpOtmpOAOwlQe"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "Will You Still Love Me Tomorrow",
-        "url": "https://open.spotify.com/album/13MaoinwLDJqTHPMEr0efZ"
-      },
-      "artists": [
-        {
-          "name": "The Shirelles",
-          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
-        }
-      ],
-      "duration_ms": 124186,
-      "name": "Dedicated To The One I Love",
-      "url": "https://open.spotify.com/track/4HdRMye6yPWOFrfLLM7W6b"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
         "name": "Two Lovers",
         "url": "https://open.spotify.com/album/4dfP6ztb54XjPNDMOQ1MSL"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 166732,
       "name": "Two Lovers",
       "url": "https://open.spotify.com/track/00CmjeeHvAVKvx3tcIiZTy"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
+        "name": "Will You Still Love Me Tomorrow",
+        "url": "https://open.spotify.com/album/13MaoinwLDJqTHPMEr0efZ"
+      },
+      "artists": [
+        {
+          "name": "The Shirelles",
+          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
+        }
+      ],
+      "duration_ms": 124186,
+      "name": "Dedicated To The One I Love",
+      "url": "https://open.spotify.com/track/4HdRMye6yPWOFrfLLM7W6b"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -1479,22 +1479,6 @@
       "duration_ms": 240842,
       "name": "Soon Enough",
       "url": "https://open.spotify.com/track/7bVvbbjdwt1o5dRW0sevz4"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
-        "name": "Will You Still Love Me Tomorrow",
-        "url": "https://open.spotify.com/album/13MaoinwLDJqTHPMEr0efZ"
-      },
-      "artists": [
-        {
-          "name": "The Shirelles",
-          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Baby It's You",
-      "url": "https://open.spotify.com/track/2mRg1R9LKzZJWRAtKVollf"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -1559,6 +1543,22 @@
       "duration_ms": 141746,
       "name": "Forever",
       "url": "https://open.spotify.com/track/3s2inuLbQQZ7z1GJrdlQr6"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
+        "name": "Will You Still Love Me Tomorrow",
+        "url": "https://open.spotify.com/album/13MaoinwLDJqTHPMEr0efZ"
+      },
+      "artists": [
+        {
+          "name": "The Shirelles",
+          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Baby It's You",
+      "url": "https://open.spotify.com/track/2mRg1R9LKzZJWRAtKVollf"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "The Best Of Deniece Williams: Gonna Take A Miracle",
-        "url": "https://open.spotify.com/album/40sKPUTUSt1t7F73DZ2ECT"
-      },
-      "artists": [
-        {
-          "name": "Deniece Williams",
-          "url": "https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd"
-        }
-      ],
-      "duration_ms": 357360,
-      "name": "Silly",
-      "url": "https://open.spotify.com/track/3XrzApq8R10O6WwNwMw8t4"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
         "name": "With Love",
         "url": "https://open.spotify.com/album/6tusv1rVUc9eH5XbeXfFud"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 250045,
       "name": "To Say I Love You",
       "url": "https://open.spotify.com/track/6p2xp5G0SKMTTfYF4ZAfhe"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
+        "name": "The Best Of Deniece Williams: Gonna Take A Miracle",
+        "url": "https://open.spotify.com/album/40sKPUTUSt1t7F73DZ2ECT"
+      },
+      "artists": [
+        {
+          "name": "Deniece Williams",
+          "url": "https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd"
+        }
+      ],
+      "duration_ms": 357360,
+      "name": "Silly",
+      "url": "https://open.spotify.com/track/3XrzApq8R10O6WwNwMw8t4"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "Hello Stranger",
-        "url": "https://open.spotify.com/album/1ntEg1vkoTy13VGg0bbDvE"
-      },
-      "artists": [
-        {
-          "name": "Barbara Lewis",
-          "url": "https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq"
-        }
-      ],
-      "duration_ms": 160080,
-      "name": "Hello Stranger",
-      "url": "https://open.spotify.com/track/1lv1pjnBPOQbGBt4tYedy6"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
         "name": "The Best Of Dee Dee Sharp 1962-1966",
         "url": "https://open.spotify.com/album/319S820SmHsr88JCQDCEYv"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 168773,
       "name": "I Really Love You",
       "url": "https://open.spotify.com/track/1iYrvHaZXNrLolzjR6ZCe5"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
+        "name": "Hello Stranger",
+        "url": "https://open.spotify.com/album/1ntEg1vkoTy13VGg0bbDvE"
+      },
+      "artists": [
+        {
+          "name": "Barbara Lewis",
+          "url": "https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq"
+        }
+      ],
+      "duration_ms": 160080,
+      "name": "Hello Stranger",
+      "url": "https://open.spotify.com/track/1lv1pjnBPOQbGBt4tYedy6"
     },
     {
       "added_at": "2023-08-29 23:44:25",

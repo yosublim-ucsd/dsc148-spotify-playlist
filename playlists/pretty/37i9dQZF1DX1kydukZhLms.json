@@ -1,12 +1,12 @@
 {
   "description": "Throw your lighters in the air and wave them like you don't care. Cover: Guns N' Roses",
-  "num_followers": 1295069,
+  "num_followers": 1295571,
   "original_name": "Heavy Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZWY0OGJhOGI1NTllOTdmZDRjNWQwYTQ3NTdlNjU0ODk5MmVjM2Zj",
+  "snapshot_id": "MCxkZWE2MjBjNjllZmNkYmNjNDVjMzNiZTQxNmY2NjExNmFjMTJjMGM3",
   "tracks": [
     {
       "added_at": "2023-02-06 10:03:23",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
+        "name": "Theatre of Pain",
+        "url": "https://open.spotify.com/album/3QyCjcfNt3S5wiWGEH0h7D"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 239666,
+      "name": "Home Sweet Home",
+      "url": "https://open.spotify.com/track/1kvq7ksGQWSyRysYYNd6lu"
+    },
+    {
+      "added_at": "2023-02-06 10:03:23",
+      "album": {
         "name": "Permanent Vacation",
         "url": "https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 284906,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/78PKCefXwDLbl4FVO1Pjzh"
-    },
-    {
-      "added_at": "2023-02-06 10:03:23",
-      "album": {
-        "name": "Theatre of Pain",
-        "url": "https://open.spotify.com/album/3QyCjcfNt3S5wiWGEH0h7D"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 239666,
-      "name": "Home Sweet Home",
-      "url": "https://open.spotify.com/track/1kvq7ksGQWSyRysYYNd6lu"
     },
     {
       "added_at": "2023-02-06 10:03:23",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
-        "name": "Destroyer",
-        "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 165666,
-      "name": "Beth",
-      "url": "https://open.spotify.com/track/1cPXOzyeZauSAsT1yy7aBp"
-    },
-    {
-      "added_at": "2023-02-06 10:03:23",
-      "album": {
         "name": "Pride",
         "url": "https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 258600,
       "name": "When the Children Cry",
       "url": "https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee"
+    },
+    {
+      "added_at": "2023-02-06 10:03:23",
+      "album": {
+        "name": "Destroyer",
+        "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 165666,
+      "name": "Beth",
+      "url": "https://open.spotify.com/track/1cPXOzyeZauSAsT1yy7aBp"
     },
     {
       "added_at": "2023-02-06 10:03:23",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
-        "name": "Somewhere Far Beyond (Remastered 2007)",
-        "url": "https://open.spotify.com/album/4oruHZSLyTDKPNY2VQIlCS"
-      },
-      "artists": [
-        {
-          "name": "Blind Guardian",
-          "url": "https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6"
-        }
-      ],
-      "duration_ms": 189893,
-      "name": "The Bard's Song - In the Forest - Remastered 2007",
-      "url": "https://open.spotify.com/track/7xPGvZaG9W7UOrCgEwbONe"
-    },
-    {
-      "added_at": "2023-02-06 10:03:23",
-      "album": {
         "name": "Mane Attraction",
         "url": "https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 265160,
       "name": "You're All I Need",
       "url": "https://open.spotify.com/track/4C8qZRxrteBY9F8r2oZrV3"
+    },
+    {
+      "added_at": "2023-02-06 10:03:23",
+      "album": {
+        "name": "Somewhere Far Beyond (Remastered 2007)",
+        "url": "https://open.spotify.com/album/4oruHZSLyTDKPNY2VQIlCS"
+      },
+      "artists": [
+        {
+          "name": "Blind Guardian",
+          "url": "https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6"
+        }
+      ],
+      "duration_ms": 189893,
+      "name": "The Bard's Song - In the Forest - Remastered 2007",
+      "url": "https://open.spotify.com/track/7xPGvZaG9W7UOrCgEwbONe"
     },
     {
       "added_at": "2023-02-06 10:03:23",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
-        "name": "Rock And Roll Over",
-        "url": "https://open.spotify.com/album/6722nY178mLes49GPldnjj"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 214666,
-      "name": "Hard Luck Woman",
-      "url": "https://open.spotify.com/track/1vcZBUX6P6FHXzG2mUfmCE"
-    },
-    {
-      "added_at": "2023-02-06 10:03:23",
-      "album": {
         "name": "When Legends Rise",
         "url": "https://open.spotify.com/album/2wOY4tZ3bcJecD5ypBPHg9"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 231118,
       "name": "Under Your Scars",
       "url": "https://open.spotify.com/track/1OiXUeNy6dZyfocJSei4Xz"
+    },
+    {
+      "added_at": "2023-02-06 10:03:23",
+      "album": {
+        "name": "Rock And Roll Over",
+        "url": "https://open.spotify.com/album/6722nY178mLes49GPldnjj"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 214666,
+      "name": "Hard Luck Woman",
+      "url": "https://open.spotify.com/track/1vcZBUX6P6FHXzG2mUfmCE"
     },
     {
       "added_at": "2023-02-06 10:03:23",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
-        "name": "Look What The Cat Dragged In - 20th Anniversary Edition",
-        "url": "https://open.spotify.com/album/2SkbSj0eZ2H5uqKYEnMmIe"
-      },
-      "artists": [
-        {
-          "name": "Poison",
-          "url": "https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo"
-        }
-      ],
-      "duration_ms": 214373,
-      "name": "I Won't Forget You - Remastered 2003",
-      "url": "https://open.spotify.com/track/6WmVgLj2htklkU3SZOsItg"
-    },
-    {
-      "added_at": "2023-02-06 10:03:23",
-      "album": {
         "name": "Kiss of Death",
         "url": "https://open.spotify.com/album/3yaIGCUARNrRL6HXa0bioG"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 261186,
       "name": "God Was Never on Your Side",
       "url": "https://open.spotify.com/track/71LmwNWHchuDe1QwrEKsB1"
+    },
+    {
+      "added_at": "2023-02-06 10:03:23",
+      "album": {
+        "name": "Look What The Cat Dragged In - 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/2SkbSj0eZ2H5uqKYEnMmIe"
+      },
+      "artists": [
+        {
+          "name": "Poison",
+          "url": "https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo"
+        }
+      ],
+      "duration_ms": 214373,
+      "name": "I Won't Forget You - Remastered 2003",
+      "url": "https://open.spotify.com/track/6WmVgLj2htklkU3SZOsItg"
     },
     {
       "added_at": "2023-02-06 10:03:23",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
-        "name": "In The Heart Of The Young",
-        "url": "https://open.spotify.com/album/2P5MIQaEXsyDtiXXChyijs"
-      },
-      "artists": [
-        {
-          "name": "Winger",
-          "url": "https://open.spotify.com/artist/2qQeKHrQJHLLbvDAOSO874"
-        }
-      ],
-      "duration_ms": 252866,
-      "name": "Miles Away",
-      "url": "https://open.spotify.com/track/3Bzh1AtiViTIaZV6yqySZH"
-    },
-    {
-      "added_at": "2023-02-06 10:03:23",
-      "album": {
         "name": "Damnation",
         "url": "https://open.spotify.com/album/4FmI0F5GvvR1M9RURWnJV9"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 464280,
       "name": "Windowpane",
       "url": "https://open.spotify.com/track/4uJSCrI7r0usNJ3aaHAuC6"
+    },
+    {
+      "added_at": "2023-02-06 10:03:23",
+      "album": {
+        "name": "In The Heart Of The Young",
+        "url": "https://open.spotify.com/album/2P5MIQaEXsyDtiXXChyijs"
+      },
+      "artists": [
+        {
+          "name": "Winger",
+          "url": "https://open.spotify.com/artist/2qQeKHrQJHLLbvDAOSO874"
+        }
+      ],
+      "duration_ms": 252866,
+      "name": "Miles Away",
+      "url": "https://open.spotify.com/track/3Bzh1AtiViTIaZV6yqySZH"
     },
     {
       "added_at": "2023-02-06 10:03:23",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
-        "name": "Wings Of Tomorrow",
-        "url": "https://open.spotify.com/album/0xvqPhWUfdiLly1cdR4WVx"
-      },
-      "artists": [
-        {
-          "name": "Europe",
-          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
-        }
-      ],
-      "duration_ms": 246733,
-      "name": "Open Your Heart",
-      "url": "https://open.spotify.com/track/4cPE441DlsfXRh57rl1PAX"
-    },
-    {
-      "added_at": "2023-02-06 10:03:23",
-      "album": {
         "name": "The Ritual",
         "url": "https://open.spotify.com/album/6YXf0vbjFhURCPUewYhVWE"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 390800,
       "name": "Return to Serenity",
       "url": "https://open.spotify.com/track/5awljpWNO5TpXCyjpvCBbs"
+    },
+    {
+      "added_at": "2023-02-06 10:03:23",
+      "album": {
+        "name": "Wings Of Tomorrow",
+        "url": "https://open.spotify.com/album/0xvqPhWUfdiLly1cdR4WVx"
+      },
+      "artists": [
+        {
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+        }
+      ],
+      "duration_ms": 246733,
+      "name": "Open Your Heart",
+      "url": "https://open.spotify.com/track/4cPE441DlsfXRh57rl1PAX"
     },
     {
       "added_at": "2023-02-06 10:03:23",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/7nbwELkBki6HJrDZoEfXa3"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 247466,
-      "name": "Can't Stop Lovin' You",
-      "url": "https://open.spotify.com/track/6z3JD6IqVvu6TUBtCfQPbe"
-    },
-    {
-      "added_at": "2023-02-06 10:03:23",
-      "album": {
         "name": "Death Magnetic",
         "url": "https://open.spotify.com/album/0lf5ceMub7KQhLfGxCdM06"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 466586,
       "name": "The Unforgiven III",
       "url": "https://open.spotify.com/track/6guXhXMAHU4QYaEsobnS6v"
+    },
+    {
+      "added_at": "2023-02-06 10:03:23",
+      "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/7nbwELkBki6HJrDZoEfXa3"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 247466,
+      "name": "Can't Stop Lovin' You",
+      "url": "https://open.spotify.com/track/6z3JD6IqVvu6TUBtCfQPbe"
     },
     {
       "added_at": "2023-02-06 10:03:23",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
+        "name": "Balls to Picasso (2001 Remaster)",
+        "url": "https://open.spotify.com/album/2AKNnewiklMkna3HbigH5X"
+      },
+      "artists": [
+        {
+          "name": "Bruce Dickinson",
+          "url": "https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9"
+        }
+      ],
+      "duration_ms": 384013,
+      "name": "Tears of the Dragon (2001 Remaster)",
+      "url": "https://open.spotify.com/track/3EiQGaaHMHFk5ykD1a7vYt"
+    },
+    {
+      "added_at": "2023-02-06 10:03:23",
+      "album": {
         "name": "Set Me Free",
         "url": "https://open.spotify.com/album/0QKfHcNAjUqQo6PyQrGPk9"
       },
@@ -1631,22 +1647,6 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
-        "name": "W.A.S.P.",
-        "url": "https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog"
-      },
-      "artists": [
-        {
-          "name": "W.A.S.P.",
-          "url": "https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq"
-        }
-      ],
-      "duration_ms": 235893,
-      "name": "Sleeping (In The Fire)",
-      "url": "https://open.spotify.com/track/6uBO5ou5gJy8kDBUZrK9nR"
-    },
-    {
-      "added_at": "2023-02-06 10:03:23",
-      "album": {
         "name": "The World Needs a Hero",
         "url": "https://open.spotify.com/album/1BbQ01oDFvVK4aHdgvsBB9"
       },
@@ -1659,6 +1659,22 @@
       "duration_ms": 268706,
       "name": "Promises",
       "url": "https://open.spotify.com/track/196rNjJkKTjsk2NTEtJKLq"
+    },
+    {
+      "added_at": "2023-02-06 10:03:23",
+      "album": {
+        "name": "W.A.S.P.",
+        "url": "https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog"
+      },
+      "artists": [
+        {
+          "name": "W.A.S.P.",
+          "url": "https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq"
+        }
+      ],
+      "duration_ms": 235893,
+      "name": "Sleeping (In The Fire)",
+      "url": "https://open.spotify.com/track/6uBO5ou5gJy8kDBUZrK9nR"
     },
     {
       "added_at": "2023-02-06 10:03:23",
@@ -1695,22 +1711,6 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
-        "name": "Balls to Picasso (2001 Remaster)",
-        "url": "https://open.spotify.com/album/2AKNnewiklMkna3HbigH5X"
-      },
-      "artists": [
-        {
-          "name": "Bruce Dickinson",
-          "url": "https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9"
-        }
-      ],
-      "duration_ms": 384013,
-      "name": "Tears of the Dragon (2001 Remaster)",
-      "url": "https://open.spotify.com/track/3EiQGaaHMHFk5ykD1a7vYt"
-    },
-    {
-      "added_at": "2023-02-06 10:03:23",
-      "album": {
         "name": "Angels Cry",
         "url": "https://open.spotify.com/album/0d2Els0A5zzfPMqY6TkqmS"
       },
@@ -1723,6 +1723,22 @@
       "duration_ms": 279733,
       "name": "Wuthering Heights",
       "url": "https://open.spotify.com/track/14ILPmvz8SimpiISsCB58J"
+    },
+    {
+      "added_at": "2023-02-06 10:03:23",
+      "album": {
+        "name": "Keeper of the Seven Keys, Pts. I & II (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6YpYaGFJFed2XKq26Qthz5"
+      },
+      "artists": [
+        {
+          "name": "Helloween",
+          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
+        }
+      ],
+      "duration_ms": 283693,
+      "name": "A Tale That Wasn't Right",
+      "url": "https://open.spotify.com/track/4wVLhKcqtrfVahc5WfleaS"
     },
     {
       "added_at": "2023-02-06 10:03:23",
@@ -1755,22 +1771,6 @@
       "duration_ms": 271173,
       "name": "Ohne dich",
       "url": "https://open.spotify.com/track/4Hruh5C0Ef3y8mIcns5Y1O"
-    },
-    {
-      "added_at": "2023-02-06 10:03:23",
-      "album": {
-        "name": "Keeper of the Seven Keys, Pts. I & II (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6YpYaGFJFed2XKq26Qthz5"
-      },
-      "artists": [
-        {
-          "name": "Helloween",
-          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
-        }
-      ],
-      "duration_ms": 283693,
-      "name": "A Tale That Wasn't Right",
-      "url": "https://open.spotify.com/track/4wVLhKcqtrfVahc5WfleaS"
     },
     {
       "added_at": "2023-02-06 10:03:23",

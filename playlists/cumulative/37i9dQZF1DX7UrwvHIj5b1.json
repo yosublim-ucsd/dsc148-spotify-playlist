@@ -649,6 +649,24 @@
     },
     {
       "album": {
+        "name": "Laboratorium",
+        "url": "https://open.spotify.com/album/5YHyfwKoqNPDrE9CSNERHC"
+      },
+      "artists": [
+        {
+          "name": "Joel Rampage",
+          "url": "https://open.spotify.com/artist/26Pc0Rk8c6QKuskiME4F3E"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182374,
+      "name": "Laboratorium",
+      "url": "https://open.spotify.com/track/6AiUEg8OnSWDxTwgVqEvXk"
+    },
+    {
+      "album": {
         "name": "Labyrinth",
         "url": "https://open.spotify.com/album/7uCUp9VLCSvqa9gWf07nLa"
       },

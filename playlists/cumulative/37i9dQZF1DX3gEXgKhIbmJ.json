@@ -938,6 +938,28 @@
     {
       "album": {
         "name": "Zzz, Vol. 2",
+        "url": "https://open.spotify.com/album/5qg05BeqESDoMFCYZl3Od0"
+      },
+      "artists": [
+        {
+          "name": "MC Igu",
+          "url": "https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po"
+        },
+        {
+          "name": "Enzo from the Block",
+          "url": "https://open.spotify.com/artist/2cb6bVhjolxjqG8xXpn3G3"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131173,
+      "name": "G5",
+      "url": "https://open.spotify.com/track/0EReA9hlAx4GmiNZzJMG1P"
+    },
+    {
+      "album": {
+        "name": "Zzz, Vol. 2",
         "url": "https://open.spotify.com/album/51kX2muIvK8Z8I8mb9H1Y6"
       },
       "artists": [
@@ -952,7 +974,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 131173,
       "name": "G5",
       "url": "https://open.spotify.com/track/3Yg4nn1ECtptmQfniWAOn2"
@@ -1234,6 +1256,28 @@
     {
       "album": {
         "name": "Zzz, Vol. 2",
+        "url": "https://open.spotify.com/album/5qg05BeqESDoMFCYZl3Od0"
+      },
+      "artists": [
+        {
+          "name": "MC Igu",
+          "url": "https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po"
+        },
+        {
+          "name": "N.A.N.A.",
+          "url": "https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129733,
+      "name": "MECA",
+      "url": "https://open.spotify.com/track/5UROAgl5wVdmqvVY7kW49B"
+    },
+    {
+      "album": {
+        "name": "Zzz, Vol. 2",
         "url": "https://open.spotify.com/album/51kX2muIvK8Z8I8mb9H1Y6"
       },
       "artists": [
@@ -1248,7 +1292,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 129733,
       "name": "MECA",
       "url": "https://open.spotify.com/track/761OuW283iJmVUMwe03iGY"

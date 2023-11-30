@@ -4,7 +4,7 @@
 
 > True blue poetry\. Let these Bollywood Ghazals take over your day.
 
-50 songs - 4 hr 32 min
+51 songs - 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Raat Maheke To Yun Bhi](https://open.spotify.com/track/20NJrPOuHLYnhHUWbHatgm) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Mrityu Dand \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0IpuEHuw6A2lvaUmo2PaVy) | 4:43 | 2023-07-13 |  |
 | [RUKE RUKE SE QADAM](https://open.spotify.com/track/5UakizQomUmnjrdgG0K3fN) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Gulzar Lata](https://open.spotify.com/album/1Crl97kFr62EVygfqE8bd5) | 4:01 | 2023-07-13 |  |
 | [Sarakti Jaye Hai](https://open.spotify.com/track/1Hm9cFK49ojWHYcXAdTH0m) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Deedar\-E\-Yaar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1cKMNRVImS5zlGlsEHMnh9) | 6:35 | 2023-07-13 |  |
-| [Seene Mein Jalan](https://open.spotify.com/track/5NlMJYAFSXBXFDPJstH89C) | [Suresh Wadkar](https://open.spotify.com/artist/0w4e7HVbqAHFPN6VkIlvhe) | [Gaman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5dF7QK9cY4JBCIqnRG7J8N) | 4:30 | 2023-07-13 |  |
+| [Seene Mein Jalan](https://open.spotify.com/track/6rOm4XtBfnvAwp4oG0Zky6) | [SheHar](https://open.spotify.com/artist/3apPYkDyss1SmQvn9ttkvr) | [Seene Mein Jalan](https://open.spotify.com/album/3mh4Ki4Cl3x1vs9Lc6TTGr) | 4:30 | 2023-11-27 |  |
+| [Seene Mein Jalan](https://open.spotify.com/track/5NlMJYAFSXBXFDPJstH89C) | [Suresh Wadkar](https://open.spotify.com/artist/0w4e7HVbqAHFPN6VkIlvhe) | [Gaman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5dF7QK9cY4JBCIqnRG7J8N) | 4:30 | 2023-07-13 | 2023-11-30 |
 | [Shauq](https://open.spotify.com/track/2I0MIQhICYnKHvaxUHYH49) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Varun Grover](https://open.spotify.com/artist/23tDn4nvBiCQroeeCwwCWT), [Shahid Mallya](https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8), [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS), [Swanand Kirkire](https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz) | [Qala \(Music From The Netflix Film\)](https://open.spotify.com/album/3yVX4sKtPoqFjBKOVyJenW) | 4:16 | 2023-07-13 |  |
 | [Tu Is Tarah Se \- Male Vocals](https://open.spotify.com/track/59e20CWD4NZ4PZvD3MwhAj) | [Manhar Udhas](https://open.spotify.com/artist/1oMNjZOVmloobqepH8HLc7) | [Aap To Aise Na The \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4qVFs7CKXjY1dJT9lZ5ofU) | 7:33 | 2023-07-13 |  |
 | [Tujhse Naraz Nahin Zindagi \- Male Vocals](https://open.spotify.com/track/7xCTX2SN9dXWqCEkN66D9S) | [Anup Ghoshal](https://open.spotify.com/artist/4WeWmjyUwzhzs12rWMDRYe) | [Masoom \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4PK2ilLdNmtDx3ncsULbiL) | 5:40 | 2023-07-13 |  |

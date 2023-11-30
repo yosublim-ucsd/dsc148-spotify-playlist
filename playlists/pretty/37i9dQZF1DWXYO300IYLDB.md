@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドと共に、爽やかな1日を迎えませんか？
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,249 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,345 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 99 | [stuck \- revisited](https://open.spotify.com/track/3t1bStEBG5YeLOLisxemoN) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [plum blossom \(revisited\)](https://open.spotify.com/album/38O1U2iGT6aSvXFIrFB5eN) | 4:13 |
 | 100 | [Wasteland, Baby!](https://open.spotify.com/track/1HYnjKqSSHh1tdl2Hi57zH) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 4:26 |
 
-Snapshot ID: `MCxiODJkMGY1YzRlMmVjM2IwNTUwYzBmNGEzMmIyMTZmZDFmNWFmOGQy`
+Snapshot ID: `MCwwZjk1OGU5ZDBjZjhlNTIwNzg5ZDI4NDFkYWE2ZGIwZjE3Yjc5YThi`

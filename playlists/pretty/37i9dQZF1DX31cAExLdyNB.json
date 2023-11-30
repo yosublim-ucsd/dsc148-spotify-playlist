@@ -1,12 +1,12 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 64791,
+  "num_followers": 64798,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDFjZTc1MTQ5MTRjZWIwZDI1MTE2NGFjMjM1Y2Q2OGViNWYyNmU4",
+  "snapshot_id": "MCw5ODRkNzc4M2JkYzIxNWMwNWM3NWM3MGIwN2RhZDY3MTc5N2MzMWIz",
   "tracks": [
     {
       "added_at": "2023-03-10 05:01:00",
@@ -455,26 +455,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Tunnel",
-        "url": "https://open.spotify.com/album/1HBAAAthpIYZLWtcr6NZUX"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        },
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 310573,
-      "name": "Tunnel",
-      "url": "https://open.spotify.com/track/3ys5J8MAFYex3zO7n9VduT"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "The Juicebox",
         "url": "https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 177409,
       "name": "Bonafide (feat. Chiiild)",
       "url": "https://open.spotify.com/track/6AwhhAhVLPvaDYmfR4j3bQ"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Tunnel",
+        "url": "https://open.spotify.com/album/1HBAAAthpIYZLWtcr6NZUX"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 310573,
+      "name": "Tunnel",
+      "url": "https://open.spotify.com/track/3ys5J8MAFYex3zO7n9VduT"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1075,30 +1075,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Invierno (Remix)",
-        "url": "https://open.spotify.com/album/30Han0zDAnO6FpGgytDYfj"
-      },
-      "artists": [
-        {
-          "name": "Vesica Piscis",
-          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
-        },
-        {
-          "name": "Techno Para Dos",
-          "url": "https://open.spotify.com/artist/16KDZP134RdE0F1peBL56h"
-        },
-        {
-          "name": "Alondra M\u00e1ynez",
-          "url": "https://open.spotify.com/artist/4LFCPWxW51fAgEc9hauRBd"
-        }
-      ],
-      "duration_ms": 285000,
-      "name": "Invierno (Remix)",
-      "url": "https://open.spotify.com/track/2cNVGRkB0MdDESK3C0F9le"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "THREE STRIKES (feat. Khalid)",
         "url": "https://open.spotify.com/album/62rnq2H2kSqfAWSOic6X6f"
       },
@@ -1119,6 +1095,30 @@
       "duration_ms": 266811,
       "name": "THREE STRIKES (feat. Khalid) - TSHA remix",
       "url": "https://open.spotify.com/track/4Tq3g2KMag5tgmmEnO91lA"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Invierno (Remix)",
+        "url": "https://open.spotify.com/album/30Han0zDAnO6FpGgytDYfj"
+      },
+      "artists": [
+        {
+          "name": "Vesica Piscis",
+          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
+        },
+        {
+          "name": "Techno Para Dos",
+          "url": "https://open.spotify.com/artist/16KDZP134RdE0F1peBL56h"
+        },
+        {
+          "name": "Alondra M\u00e1ynez",
+          "url": "https://open.spotify.com/artist/4LFCPWxW51fAgEc9hauRBd"
+        }
+      ],
+      "duration_ms": 285000,
+      "name": "Invierno (Remix)",
+      "url": "https://open.spotify.com/track/2cNVGRkB0MdDESK3C0F9le"
     },
     {
       "added_at": "2023-03-10 05:01:00",

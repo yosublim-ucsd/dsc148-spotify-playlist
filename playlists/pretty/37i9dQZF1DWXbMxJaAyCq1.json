@@ -1,12 +1,12 @@
 {
   "description": "This is the remix... esc\u00fachalos ac\u00e1. Foto: Blessd, Ryan Castro, Bryant Myers",
-  "num_followers": 447054,
+  "num_followers": 447175,
   "original_name": "Remixes Urbanos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWZkMmY4N2E0YWUxNTNlNTA2YmJkMDk5YTc1NjM5MjZlOTQ2Mjk2",
+  "snapshot_id": "MCw2YTg1NDJmNTgyZWM4Y2ZmN2I0ZTgwNzYxZTQ3Njg3Y2NmMGNjNTIw",
   "tracks": [
     {
       "added_at": "2023-11-23 17:27:27",
@@ -427,22 +427,34 @@
     {
       "added_at": "2023-11-23 17:27:27",
       "album": {
-        "name": "3MEN2 KBRN",
-        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
+        "name": "Marisola (Remix)",
+        "url": "https://open.spotify.com/album/262bymaji1sJPAldR7YyaH"
       },
       "artists": [
         {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
         },
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        },
+        {
+          "name": "Stars Music Chile",
+          "url": "https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Si La Calle Llama - Remix",
-      "url": "https://open.spotify.com/track/3qXZqXGniqNt3PK2CBSZgM"
+      "duration_ms": 237473,
+      "name": "Marisola - Remix",
+      "url": "https://open.spotify.com/track/0NO2zL0kw8sGGnaMvHKAZF"
     },
     {
       "added_at": "2023-11-23 17:27:27",
@@ -475,34 +487,22 @@
     {
       "added_at": "2023-11-23 17:27:27",
       "album": {
-        "name": "Marisola (Remix)",
-        "url": "https://open.spotify.com/album/262bymaji1sJPAldR7YyaH"
+        "name": "3MEN2 KBRN",
+        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
       },
       "artists": [
         {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         },
         {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        },
-        {
-          "name": "Standly",
-          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
-        },
-        {
-          "name": "Stars Music Chile",
-          "url": "https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 237473,
-      "name": "Marisola - Remix",
-      "url": "https://open.spotify.com/track/0NO2zL0kw8sGGnaMvHKAZF"
+      "duration_ms": 240000,
+      "name": "Si La Calle Llama - Remix",
+      "url": "https://open.spotify.com/track/3qXZqXGniqNt3PK2CBSZgM"
     },
     {
       "added_at": "2023-11-23 17:27:27",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2023-11-23 17:27:27",
       "album": {
-        "name": "Tuenti (Remix)",
-        "url": "https://open.spotify.com/album/5tvMf5MkyB97XVuVLa4xSd"
-      },
-      "artists": [
-        {
-          "name": "Raul Clyde",
-          "url": "https://open.spotify.com/artist/2PAyYzUdafG4mFFp6Rynsk"
-        },
-        {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        }
-      ],
-      "duration_ms": 184276,
-      "name": "Tuenti - Remix",
-      "url": "https://open.spotify.com/track/1ZkIxbmM3ZUhn2OayBdwe5"
-    },
-    {
-      "added_at": "2023-11-23 17:27:27",
-      "album": {
         "name": "La Criatura",
         "url": "https://open.spotify.com/album/3C2Y8YZGNyGqXZLPHPUMj3"
       },
@@ -1315,6 +1295,26 @@
       "duration_ms": 517599,
       "name": "47 - Remix",
       "url": "https://open.spotify.com/track/2kQDcD7adY2odZLLfIexFj"
+    },
+    {
+      "added_at": "2023-11-23 17:27:27",
+      "album": {
+        "name": "Tuenti (Remix)",
+        "url": "https://open.spotify.com/album/5tvMf5MkyB97XVuVLa4xSd"
+      },
+      "artists": [
+        {
+          "name": "Raul Clyde",
+          "url": "https://open.spotify.com/artist/2PAyYzUdafG4mFFp6Rynsk"
+        },
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 184276,
+      "name": "Tuenti - Remix",
+      "url": "https://open.spotify.com/track/1ZkIxbmM3ZUhn2OayBdwe5"
     },
     {
       "added_at": "2023-11-23 17:27:27",
@@ -1455,6 +1455,26 @@
     {
       "added_at": "2023-11-23 17:27:27",
       "album": {
+        "name": "Dream Girl (Remix)",
+        "url": "https://open.spotify.com/album/0BeosbWOaMfZ5itwYQfw86"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 192452,
+      "name": "Dream Girl - Remix",
+      "url": "https://open.spotify.com/track/099tjv6oy2opbpCOA3nBwX"
+    },
+    {
+      "added_at": "2023-11-23 17:27:27",
+      "album": {
         "name": "Persia (Remix)",
         "url": "https://open.spotify.com/album/4ELBi3Egy3cub0EzlJAN4W"
       },
@@ -1475,26 +1495,6 @@
       "duration_ms": 250906,
       "name": "Persia - Remix",
       "url": "https://open.spotify.com/track/3SgybTfx3GWHAcjhK9iPmz"
-    },
-    {
-      "added_at": "2023-11-23 17:27:27",
-      "album": {
-        "name": "Dream Girl (Remix)",
-        "url": "https://open.spotify.com/album/0BeosbWOaMfZ5itwYQfw86"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 192452,
-      "name": "Dream Girl - Remix",
-      "url": "https://open.spotify.com/track/099tjv6oy2opbpCOA3nBwX"
     },
     {
       "added_at": "2023-11-23 17:27:27",

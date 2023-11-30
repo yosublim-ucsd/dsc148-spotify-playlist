@@ -4,7 +4,7 @@
 
 > This week's essential new pop tracks\. Cover: Zara Larsson
 
-4,349 songs - 9 day 0 hr 13 min
+4,350 songs - 9 day 0 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,6 +353,7 @@
 | [Bare Minimum](https://open.spotify.com/track/3ak6UeDAv7Jsao5RCvpUPL) | [Jillian Rossi](https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO) | [Bare Minimum](https://open.spotify.com/album/6rQGIOS6BCED2QBALZYw4q) | 3:12 | 2023-08-04 | 2023-08-19 |
 | [Bark to the Beat \(with blackbear\) \[From PAW Patrol: The Mighty Movie\]](https://open.spotify.com/track/5k0Vd1kLeUFRozn6GiC8m1) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Bark to the Beat \(with blackbear\) \[From PAW Patrol: The Mighty Movie\]](https://open.spotify.com/album/3hu5KuXIyZSuK02jA80jVI) | 2:03 | 2023-09-15 | 2023-09-30 |
 | [Bathroom Floor](https://open.spotify.com/track/1m7lgJNH3l3vOm6DVs5QpZ) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [Bathroom Floor](https://open.spotify.com/album/0lz6NWWx2xScDcqoB9R8PY) | 2:32 | 2023-06-09 | 2023-06-24 |
+| [BATTER UP](https://open.spotify.com/track/3VBj0lzjmhTzVFPEDOjNCG) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BABYMONSTER Debut Digital Single \[BATTER UP\]](https://open.spotify.com/album/2CSQuvvt3XHLDX36O3nRv7) | 3:08 | 2023-11-29 |  |
 | [bbycakes \(with Lil Uzi Vert, PinkPantheress & Shygirl\)](https://open.spotify.com/track/22PnPdB20lq7wElHkk17oP) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [bbycakes \(with Lil Uzi Vert, PinkPantheress & Shygirl\)](https://open.spotify.com/album/3oy8tsUTNAzJSZQwEjXycC) | 2:52 | 2022-02-25 | 2022-03-05 |
 | [BDSM](https://open.spotify.com/track/73WojSE8AHCQvfAcNaDjR8) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [BDSM](https://open.spotify.com/album/4tJMW1h9dl8cTRBdWJoDAf) | 3:29 | 2022-07-08 | 2022-07-23 |
 | [Be Alright](https://open.spotify.com/track/2CgSu8P3ZAw7qdzfOl0Cyb) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [Be Alright // U Sometimes](https://open.spotify.com/album/2l9hUZ6VOlwDim9igWpiK5) | 2:36 | 2022-11-18 | 2022-12-10 |

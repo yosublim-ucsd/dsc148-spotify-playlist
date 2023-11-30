@@ -771,6 +771,24 @@
     },
     {
       "album": {
+        "name": "Maintain",
+        "url": "https://open.spotify.com/album/0EKfOlx4buzvQPIRcITgqe"
+      },
+      "artists": [
+        {
+          "name": "Cybotron",
+          "url": "https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296013,
+      "name": "Maintain",
+      "url": "https://open.spotify.com/track/5bPOMaHvchTI5nlnvl9VJB"
+    },
+    {
+      "album": {
         "name": "Sounds",
         "url": "https://open.spotify.com/album/6639iZ8oPeMPXZqgh8Vd0V"
       },
@@ -872,7 +890,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 271464,
       "name": "On A Journey",
       "url": "https://open.spotify.com/track/1DzZRyXgpD3IlRqsC7fqzD"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti! Novità rock, indie, punk ed emo dall'Italia\. Cover: Måneskin
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,862 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,860 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 59 | [Rumore bianco](https://open.spotify.com/track/6s7rr8yzAFv1ckxvbH8iai) | [And So Your Life Is Ruined](https://open.spotify.com/artist/33mryanYYlYMiJnYAobfEk) | [Rumore bianco](https://open.spotify.com/album/7FCjc7EF3qpfGHRFZIl2mP) | 2:14 |
 | 60 | [Neuro Queer Cyber Punk \(italia\)](https://open.spotify.com/track/1UK7liy7XxmvtFcbiLj914) | [Sun Dojo](https://open.spotify.com/artist/3MRGrKnnFFaVCtsjOGIKgb) | [Neuro Queer Cyber Punk \(italia\)](https://open.spotify.com/album/73Ae3sW9ClAH9khsl5hZrk) | 0:57 |
 
-Snapshot ID: `MCxjMzlkYzkyOGFkZGQyZDUzODI1ODVhMzNmNmM5MjUwOTk2MTMxOTg5`
+Snapshot ID: `MCxhZTE3MzY1Yjg3MWM4ZjFjOWIwZjZhYzQwMDZiZTVjYzkwNWJkNjU5`

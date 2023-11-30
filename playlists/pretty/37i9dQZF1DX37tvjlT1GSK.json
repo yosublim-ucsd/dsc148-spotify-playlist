@@ -1,12 +1,12 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Los Plebes del Rancho y Carolina Ross en portada. ",
-  "num_followers": 741694,
+  "num_followers": 741770,
   "original_name": "Sierre\u00f1o 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Mzc1N2Y4NTBkMzY1ZGU2Zjk2ZWQ3MDNiOThiNDQ3N2EzOWYzNGY0",
+  "snapshot_id": "MCxhZWQ3NGNhZTBhYjEyOGViOWI3ODBlZjg4ODlkOWExNjNlNTUzZTUx",
   "tracks": [
     {
       "added_at": "2023-11-17 06:00:00",
@@ -71,6 +71,22 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
+        "name": "Nata Montana",
+        "url": "https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 188666,
+      "name": "Mi Bello Angel",
+      "url": "https://open.spotify.com/track/4t46soaqA758rbukTO5pp1"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
         "name": "Ella Baila Sola",
         "url": "https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU"
       },
@@ -87,22 +103,6 @@
       "duration_ms": 165671,
       "name": "Ella Baila Sola",
       "url": "https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
-        "name": "Nata Montana",
-        "url": "https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 188666,
-      "name": "Mi Bello Angel",
-      "url": "https://open.spotify.com/track/4t46soaqA758rbukTO5pp1"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -219,6 +219,22 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
+        "name": "Nata Montana",
+        "url": "https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Mas Altas Que Bajadas",
+      "url": "https://open.spotify.com/track/4Zx0yrZwW4uNpd1FhIrOV5"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
         "name": "Del Barrio Hasta Aqu\u00ed, Vol. 2",
         "url": "https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 140983,
       "name": "Me Acostumbre A Lo Bueno",
       "url": "https://open.spotify.com/track/1hHnCReCPe1FUkGLTeuCaC"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
-        "name": "Chale",
-        "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 170744,
-      "name": "Chale",
-      "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -267,18 +267,18 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "Nata Montana",
-        "url": "https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU"
+        "name": "Chale",
+        "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
       },
       "artists": [
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 193333,
-      "name": "Mas Altas Que Bajadas",
-      "url": "https://open.spotify.com/track/4Zx0yrZwW4uNpd1FhIrOV5"
+      "duration_ms": 170744,
+      "name": "Chale",
+      "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -339,6 +339,22 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
+        "name": "El Toro Encartado - Spotify Singles",
+        "url": "https://open.spotify.com/album/1UVIxjnGk4B4HnsTQsXLWh"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 164245,
+      "name": "El Toro Encartado - Spotify Singles",
+      "url": "https://open.spotify.com/track/2cpAMkytkJoaaLYO6pXBey"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
         "name": "Dijeron Que No La Iba Lograr",
         "url": "https://open.spotify.com/album/3pyALc28lhIbH4gPXVNb9g"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 113019,
       "name": "Dijeron Que No La Iba Lograr",
       "url": "https://open.spotify.com/track/7dR09k1an5JEq7ch0Y5hvV"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
-        "name": "El Toro Encartado - Spotify Singles",
-        "url": "https://open.spotify.com/album/1UVIxjnGk4B4HnsTQsXLWh"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 164245,
-      "name": "El Toro Encartado - Spotify Singles",
-      "url": "https://open.spotify.com/track/2cpAMkytkJoaaLYO6pXBey"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -439,26 +439,6 @@
       "duration_ms": 239845,
       "name": "Por las Noches",
       "url": "https://open.spotify.com/track/2VzCjpKvPB1l1tqLndtAQa"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
-        "name": "Nata Montana",
-        "url": "https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 172360,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/3FUVgc4ULS0t7X7sUBZ1UO"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -539,6 +519,26 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
+        "name": "Nata Montana",
+        "url": "https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 172360,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/3FUVgc4ULS0t7X7sUBZ1UO"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
         "name": "Andamos Mejor",
         "url": "https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf"
       },
@@ -551,22 +551,6 @@
       "duration_ms": 137183,
       "name": "Andamos Mejor",
       "url": "https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
-        "name": "NataKong",
-        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 154760,
-      "name": "Brillo",
-      "url": "https://open.spotify.com/track/5gS11pL9yQcnKrzbmliOwh"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -587,6 +571,22 @@
       "duration_ms": 206956,
       "name": "T\u00fa Me Gustas",
       "url": "https://open.spotify.com/track/30TZy1etY3FAGBDGS58hRj"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
+        "name": "The Life in Your Eyes",
+        "url": "https://open.spotify.com/album/7hnH4pDgMDP4veSuZ7Uxlz"
+      },
+      "artists": [
+        {
+          "name": "Los Del Limit",
+          "url": "https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw"
+        }
+      ],
+      "duration_ms": 175124,
+      "name": "Amor Fugaz",
+      "url": "https://open.spotify.com/track/4O2bxKTnK9En7OPw8kGDDF"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -643,18 +643,18 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "The Life in Your Eyes",
-        "url": "https://open.spotify.com/album/7hnH4pDgMDP4veSuZ7Uxlz"
+        "name": "NataKong",
+        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
       },
       "artists": [
         {
-          "name": "Los Del Limit",
-          "url": "https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 175124,
-      "name": "Amor Fugaz",
-      "url": "https://open.spotify.com/track/4O2bxKTnK9En7OPw8kGDDF"
+      "duration_ms": 154760,
+      "name": "Brillo",
+      "url": "https://open.spotify.com/track/5gS11pL9yQcnKrzbmliOwh"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
+        "name": "Hoy la Vi Con \u00c9l (En Vivo)",
+        "url": "https://open.spotify.com/album/4RTwqsdd8FztLzycvZ05BX"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 223200,
+      "name": "Hoy la Vi Con \u00c9l - En Vivo",
+      "url": "https://open.spotify.com/track/3Tz3CWlyJgui4a5VlIgRwf"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
         "name": "De Norte a Sur",
         "url": "https://open.spotify.com/album/0WbzAROHxqLtsjzrd6UtXm"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 213926,
       "name": "Tal Vez Ma\u00f1ana",
       "url": "https://open.spotify.com/track/2eVmYcOm2tfW0qsVwiQcDu"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
-        "name": "Hoy la Vi Con \u00c9l (En Vivo)",
-        "url": "https://open.spotify.com/album/4RTwqsdd8FztLzycvZ05BX"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 223200,
-      "name": "Hoy la Vi Con \u00c9l - En Vivo",
-      "url": "https://open.spotify.com/track/3Tz3CWlyJgui4a5VlIgRwf"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "QUERIDO ABUELO",
-        "url": "https://open.spotify.com/album/1AKVxxwAnxnN2Cgl94SRBb"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 232543,
-      "name": "QUERIDO ABUELO",
-      "url": "https://open.spotify.com/track/3FP4wPTuK8YqN2UeMn7muf"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
         "name": "Falta de Qu\u00edmica",
         "url": "https://open.spotify.com/album/3MtbsSNUXZBC8WGGsdSIRS"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 222000,
       "name": "Falta de Qu\u00edmica",
       "url": "https://open.spotify.com/track/3MuDbrQKyn0MzBlWjQyr4q"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
+        "name": "QUERIDO ABUELO",
+        "url": "https://open.spotify.com/album/1AKVxxwAnxnN2Cgl94SRBb"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 232543,
+      "name": "QUERIDO ABUELO",
+      "url": "https://open.spotify.com/track/3FP4wPTuK8YqN2UeMn7muf"
     },
     {
       "added_at": "2023-11-17 06:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 298649,
+  "num_followers": 298715,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOWNlOTg0NDczYTcwMzRkYThhNzQ5MWQzMTNjYjg4NzQzMjQ4MjE4",
+  "snapshot_id": "MCxhYThiYzJhY2YxNzVmYzUyZTJiODk4MmU3MzY5NWExODEzZGE4NDk5",
   "tracks": [
     {
       "added_at": "2023-07-21 10:37:28",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 188560,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 400037,
       "name": "Earth To Sea",
       "url": "https://open.spotify.com/track/2njyI8ksGaS9H0K3OZxVpp"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 188560,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "If I Come Home",
-        "url": "https://open.spotify.com/album/7l2qDkPU22dXV5mylQTj45"
-      },
-      "artists": [
-        {
-          "name": "rozey",
-          "url": "https://open.spotify.com/artist/20fOKcudXS3Yyl6ifwXf2u"
-        }
-      ],
-      "duration_ms": 216145,
-      "name": "If I Come Home",
-      "url": "https://open.spotify.com/track/1pqrOSuEubjirB4OyBNHPm"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Gloomy Girl",
         "url": "https://open.spotify.com/album/4TzEXyEPMZZPXbjPPIdRWR"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 186410,
       "name": "Gloomy Girl",
       "url": "https://open.spotify.com/track/62Zgaht9Dx6HReIOamFMdN"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "If I Come Home",
+        "url": "https://open.spotify.com/album/7l2qDkPU22dXV5mylQTj45"
+      },
+      "artists": [
+        {
+          "name": "rozey",
+          "url": "https://open.spotify.com/artist/20fOKcudXS3Yyl6ifwXf2u"
+        }
+      ],
+      "duration_ms": 216145,
+      "name": "If I Come Home",
+      "url": "https://open.spotify.com/track/1pqrOSuEubjirB4OyBNHPm"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Flora",
-        "url": "https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku"
-      },
-      "artists": [
-        {
-          "name": "atmos bloom",
-          "url": "https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3"
-        }
-      ],
-      "duration_ms": 135375,
-      "name": "Daisy",
-      "url": "https://open.spotify.com/track/05EgVvYINhUHLomTjv5VKe"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 190720,
       "name": "Drown",
       "url": "https://open.spotify.com/track/61eG7WlDZhRKJKMLPsCtWY"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Flora",
+        "url": "https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku"
+      },
+      "artists": [
+        {
+          "name": "atmos bloom",
+          "url": "https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3"
+        }
+      ],
+      "duration_ms": 135375,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/05EgVvYINhUHLomTjv5VKe"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
+        "name": "Hyper-normal",
+        "url": "https://open.spotify.com/album/3mQjXEpNYf3kXHXhRQt9YG"
+      },
+      "artists": [
+        {
+          "name": "GRAZER",
+          "url": "https://open.spotify.com/artist/66npZ0iLHcWmV2DAC8oYRF"
+        }
+      ],
+      "duration_ms": 195691,
+      "name": "Hyper-normal",
+      "url": "https://open.spotify.com/track/137bcY3t0tco8OqzumsF4z"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
         "name": "Smothered",
         "url": "https://open.spotify.com/album/21zwExLy0H0BDbrIb0J2DC"
       },
@@ -1291,26 +1307,6 @@
       "duration_ms": 166453,
       "name": "What Does It Mean To Me?",
       "url": "https://open.spotify.com/track/0fQMFvcUD9j1SBFRoTHxnL"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
-        "name": "You and Me",
-        "url": "https://open.spotify.com/album/4WmQIWuFrxPQc7Ae3LKDUQ"
-      },
-      "artists": [
-        {
-          "name": "Nature TV",
-          "url": "https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC"
-        },
-        {
-          "name": "Nice Guys",
-          "url": "https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN"
-        }
-      ],
-      "duration_ms": 225618,
-      "name": "You and Me",
-      "url": "https://open.spotify.com/track/4KE91Xg3FL51yMhnpSqRvE"
     },
     {
       "added_at": "2023-07-21 10:37:28",

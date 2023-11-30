@@ -2,9 +2,9 @@
 
 ### [pov \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX01LszHBn1s8)
 
-> have a 👶 by me, baby be a millionaire 💵 💶 💷 💵 💶 💷
+> ❤️‍🩹 and I wouldn't marry me either, a pathological people pleaser!!!!
 
-1,299 songs - 2 day 20 hr 14 min
+1,302 songs - 2 day 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,7 +246,8 @@
 | [Could've Just Left Me Alone](https://open.spotify.com/track/03qh7qUB2zEPVWUc9isLCW) | [Alexa Cappelli](https://open.spotify.com/artist/3L733apFuBmRr4GEVvhh9x) | [Could've Just Left Me Alone](https://open.spotify.com/album/2fDCjGscOIFmJGbLN9eFPW) | 2:17 | 2022-05-26 | 2023-01-06 |
 | [Crazy](https://open.spotify.com/track/2CSbx5XAFortinS8hJ3IiC) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Crazy](https://open.spotify.com/album/6zn7cLXjrLDV5hOOIg8lO8) | 2:48 | 2022-12-08 |  |
 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 | 2022-12-08 |  |
-| [cross my heart](https://open.spotify.com/track/4yJ1fD1LvIVtTDOu4NyKLU) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [cross my heart](https://open.spotify.com/album/1MpZGsYzbDWKLwfJOijcVA) | 2:26 | 2023-09-18 |  |
+| [cross my heart](https://open.spotify.com/track/3nLSxpwZrU4ugAMVxYOHJe) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [cross my heart](https://open.spotify.com/album/4NK2abDnkV5FqI0q32DLL9) | 2:26 | 2023-11-30 |  |
+| [cross my heart](https://open.spotify.com/track/4yJ1fD1LvIVtTDOu4NyKLU) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [cross my heart](https://open.spotify.com/album/1MpZGsYzbDWKLwfJOijcVA) | 2:26 | 2023-09-18 | 2023-11-30 |
 | [cross your mind](https://open.spotify.com/track/09gqiE8sqspbkfdr2x0CBs) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [cross your mind](https://open.spotify.com/album/0Fbrqq0fBxXMgavgOfsG37) | 2:40 | 2022-08-25 | 2023-01-06 |
 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2022-06-23 |  |
 | [Cruel Summer \- Instrumental](https://open.spotify.com/track/5VWSAxd4fwgQHnxecD5i1d) | [Guitar Tribute Players](https://open.spotify.com/artist/3AoiBjr0pSGswX96XxEgH7) | [Acoustic Tribute to Taylor Swift, Vol\. 2 \(Instrumental\)](https://open.spotify.com/album/0MWGtJQnKBd3AOE9GaGBGV) | 2:56 | 2022-06-22 | 2022-06-24 |
@@ -778,6 +779,7 @@
 | [Murder In My Mind \- Sped Up](https://open.spotify.com/track/3T56drS7FjnZgGcOAHlXzx) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind \(Sped Up\)](https://open.spotify.com/album/3f4SEojgnEYtRMUvITNRZQ) | 1:55 | 2022-07-22 |  |
 | [Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:50 | 2023-11-27 |  |
 | [Music For a Sushi Restaurant](https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:13 | 2022-06-09 |  |
+| [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 | 2023-11-30 |  |
 | [My Barn My Rules](https://open.spotify.com/track/1bXW9UIZWmXtoSGXJvyyAm) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [My Barn My Rules](https://open.spotify.com/album/0mJRlyJ18EPNEGXromb9d0) | 4:26 | 2023-06-30 |  |
 | [My Barn My Rules](https://open.spotify.com/track/1yw28y3kv8uS7ENaZkbUFt) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [Farm Fantasies](https://open.spotify.com/album/4iQOiiyHbLlwLTnPUDZPEo) | 4:26 | 2023-05-30 | 2023-07-01 |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-10-27 |  |
@@ -1303,6 +1305,7 @@
 | [You're Not Harry Styles](https://open.spotify.com/track/1yCrrZwlYPS3AqQHsJvFlu) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [You're Not Harry Styles](https://open.spotify.com/album/2syexb536heyUjkWkx7Kab) | 2:56 | 2022-05-19 | 2022-07-29 |
 | [You're Not Harry Styles](https://open.spotify.com/track/2cUeyLgT8XzjAMCXPkGMFe) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [No Romeo EP](https://open.spotify.com/album/6dpPmjQADL8JE813YWKfQ3) | 2:56 | 2022-10-06 | 2023-01-06 |
 | [You're Not Harry Styles](https://open.spotify.com/track/5b3uCeLjd2m9evBYZKHW7E) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [No Romeo EP](https://open.spotify.com/album/09ItArIl88LxU5InoksUTo) | 2:56 | 2022-05-19 | 2022-10-13 |
+| [You’re Losing Me \(From The Vault\)](https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [You're Losing Me \(From The Vault\)](https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7) | 4:37 | 2023-11-30 |  |
 | [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 | 2022-05-19 |  |
 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 | 2023-05-26 |  |
 | [死ぬのがいいわ](https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | 3:05 | 2022-09-05 | 2022-09-29 |

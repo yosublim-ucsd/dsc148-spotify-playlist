@@ -4,7 +4,7 @@
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5?si=G3JrVxFDTYK3iTIAyf720A>Sneziey</a>
 
-1,325 songs - 4 day 5 hr 46 min
+1,327 songs - 4 day 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1165,7 +1165,8 @@
 | [This Is Our God](https://open.spotify.com/track/6StHK5sgz9rjxVZv7CApW2) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [This Is Our God](https://open.spotify.com/album/1AOGcBpy6CxShBK8Pu3wB5) | 4:25 | 2023-07-14 | 2023-07-28 |
 | [This is The Day](https://open.spotify.com/track/7JAz5nfI0jvnI0wwfIHgEJ) | [Day Three Music](https://open.spotify.com/artist/7iQCW7VpjTEPRFmCEKsLwD), [Femi Sax](https://open.spotify.com/artist/0j0xrYyXTbNsd9wfsLD5Ur) | [This is The Day](https://open.spotify.com/album/5eCpZ7uhC4cKPEqko2abyc) | 5:38 | 2023-06-02 | 2023-06-16 |
 | [THIS YEAR \(Blessings\) \- Remix](https://open.spotify.com/track/5IelW2v32KZHJKwsoJsAwN) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\) \[Remix\]](https://open.spotify.com/album/4TZI8LgMjrmTlOhy7nFa2U) | 2:40 | 2023-10-14 | 2023-11-03 |
-| [Thixo Wamadinga Ethu \(Live\)](https://open.spotify.com/track/5Y0EPmCymKYHOCJD2B04gi) | [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Sibonga Umusa \(Live\)](https://open.spotify.com/album/0yq9apfBkBDmT9I74n0ABX) | 9:49 | 2023-11-24 |  |
+| [Thixo Wamadinga Ethu \(Live\)](https://open.spotify.com/track/5Y0EPmCymKYHOCJD2B04gi) | [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Sibonga Umusa \(Live\)](https://open.spotify.com/album/0yq9apfBkBDmT9I74n0ABX) | 9:49 | 2023-11-24 | 2023-11-30 |
+| [Thixo Wamadinga Ethu \(Live\)](https://open.spotify.com/track/67NHjEvUTfqyKqNZF0tSMh) | [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Sibonga Umusa \(Live\)](https://open.spotify.com/album/0tT13vFUWnAGZNp0BZu0n3) | 9:49 | 2023-11-24 |  |
 | [Tholakele](https://open.spotify.com/track/3i9PbSTJi4qatf6Qoq97Ub) | [Desire Marea](https://open.spotify.com/artist/7xfBWpNiwO2yteiY68OB6C) | [The Baddies of Isandlwana](https://open.spotify.com/album/2Qb0wKVzovx3uKAn0ktgOc) | 5:01 | 2023-11-10 | 2023-11-17 |
 | [Through These Eyes](https://open.spotify.com/track/0hbaSZe0zAILE4fn5lReND) | [The Matsiko World Orphan Choir](https://open.spotify.com/artist/4yRxWaKfnOplibd6dzOJLE) | [Through These Eyes](https://open.spotify.com/album/6OZzN3vwYtVxE1weZFHkEp) | 4:09 | 2023-06-23 | 2023-07-07 |
 | [Thy Will be done](https://open.spotify.com/track/3UESe3w5kTr3F5b1UqBGBn) | [Rume](https://open.spotify.com/artist/37y7BXkc3tfTfSrafQz5lA) | [Of Christ](https://open.spotify.com/album/0Msw255aierkiequxudFj7) | 3:15 | 2023-10-27 | 2023-11-10 |
@@ -1207,7 +1208,8 @@
 | [unchained.](https://open.spotify.com/track/4NYS1WSTAlFjQvVIaPoxlb) | [Osayuki](https://open.spotify.com/artist/4VTGohr0V9TI8Cpr7CR3pQ) | [unchained.](https://open.spotify.com/album/2x1he3XUCohytdgPVuKkpY) | 1:59 | 2023-11-10 | 2023-11-24 |
 | [Unchangeable God](https://open.spotify.com/track/4mhN1DHrpJIl9AtYruNPDG) | [Ohene Adu](https://open.spotify.com/artist/1RcMjMMgZdII1ggPN0h8YP) | [Unchangeable God](https://open.spotify.com/album/6sjq7hTVEkFCVUXrMdEHnr) | 3:07 | 2023-11-17 |  |
 | [Unchangeable God](https://open.spotify.com/track/3E726QsMcCd8Vbh0CyFhpS) | [Toyin Ogunniyi](https://open.spotify.com/artist/485KdhvKOxbZt0CDo0fdAx) | [Unchangeable God](https://open.spotify.com/album/5N3QZsWwI4DweMAx1v3Q05) | 4:43 | 2023-09-01 | 2023-09-15 |
-| [UnguThixo Onomusa \(Live\)](https://open.spotify.com/track/12SS9xcUrNBWWiMIGCGRNQ) | [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Sibonga Umusa \(Live\)](https://open.spotify.com/album/0yq9apfBkBDmT9I74n0ABX) | 6:15 | 2023-11-24 |  |
+| [UnguThixo Onomusa \(Live\)](https://open.spotify.com/track/12SS9xcUrNBWWiMIGCGRNQ) | [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Sibonga Umusa \(Live\)](https://open.spotify.com/album/0yq9apfBkBDmT9I74n0ABX) | 6:15 | 2023-11-24 | 2023-11-30 |
+| [UnguThixo Onomusa \(Live\)](https://open.spotify.com/track/1CKjWM9UvF5aemROunyZLi) | [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Sibonga Umusa \(Live\)](https://open.spotify.com/album/0tT13vFUWnAGZNp0BZu0n3) | 6:15 | 2023-11-24 |  |
 | [Unitembeze](https://open.spotify.com/track/2oBx3ML3o6KPiMNz5f2XcL) | [Anitha Musoki](https://open.spotify.com/artist/3y4i8BE5rQEfmjXid5kcmf) | [Unitembeze](https://open.spotify.com/album/2IFh10dWlXvgSvUmLMCeMg) | 4:08 | 2023-07-14 | 2023-07-21 |
 | [Unjalo wena Kuphakama](https://open.spotify.com/track/4v0USK76OtYzuZ73g4FcZm) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Unjalo wena Kuphakama](https://open.spotify.com/album/6mlXloaetu8glEQSiVsROw) | 2:48 | 2023-08-18 | 2023-09-01 |
 | [Upperroom \(Live\)](https://open.spotify.com/track/0RXc2Lc2wdaPRGVhPYqxU8) | [3C Live](https://open.spotify.com/artist/2KCFczA90zuWgvEfYDohBT), [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ) | [Upperroom \(Live\)](https://open.spotify.com/album/55IDbtFjNFbLyiFrdQ4hJg) | 7:18 | 2023-09-22 | 2023-10-06 |

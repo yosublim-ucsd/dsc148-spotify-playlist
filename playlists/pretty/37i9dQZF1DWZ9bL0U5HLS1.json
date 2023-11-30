@@ -1,12 +1,12 @@
 {
   "description": "Rakkautta, mit\u00e4 muuta ihminen tarvitsee.",
-  "num_followers": 33748,
+  "num_followers": 33775,
   "original_name": "Min\u00e4 sinua vaan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjdjMWExMGZhM2FmYmFhMjgwZTA0MzhiZmFiNTI1MWVhOWUxZmNj",
+  "snapshot_id": "MCxmYzcyYjc3M2RhNWM3NThmYzc5ZmMxNThlMDcxOWNhYjIzMTQ3ZjY1",
   "tracks": [
     {
       "added_at": "2023-11-25 18:27:48",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-11-25 18:27:48",
       "album": {
-        "name": "Tracy Chapman",
-        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
-      },
-      "artists": [
-        {
-          "name": "Tracy Chapman",
-          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
-        }
-      ],
-      "duration_ms": 193120,
-      "name": "Baby Can I Hold You",
-      "url": "https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F"
-    },
-    {
-      "added_at": "2023-11-25 18:27:48",
-      "album": {
         "name": "The World We Knew",
         "url": "https://open.spotify.com/album/67Evm6gPc9wFSUf1aXOrKO"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 162493,
       "name": "Somethin' Stupid",
       "url": "https://open.spotify.com/track/4feXcsElKIVsGwkbnTHAfV"
+    },
+    {
+      "added_at": "2023-11-25 18:27:48",
+      "album": {
+        "name": "Tracy Chapman",
+        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
+      },
+      "artists": [
+        {
+          "name": "Tracy Chapman",
+          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
+        }
+      ],
+      "duration_ms": 193120,
+      "name": "Baby Can I Hold You",
+      "url": "https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F"
     },
     {
       "added_at": "2023-11-25 18:27:48",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-11-25 18:27:48",
       "album": {
-        "name": "Let's Talk About Love",
-        "url": "https://open.spotify.com/album/1tfS7Fo1UtAxQSf256fnYs"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "My Heart Will Go On - Love Theme from \"Titanic\"",
-      "url": "https://open.spotify.com/track/33LC84JgLvK2KuW43MfaNq"
-    },
-    {
-      "added_at": "2023-11-25 18:27:48",
-      "album": {
         "name": "25",
         "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 290900,
       "name": "When We Were Young",
       "url": "https://open.spotify.com/track/7GgWAITsYJaRM3r50rfh5w"
+    },
+    {
+      "added_at": "2023-11-25 18:27:48",
+      "album": {
+        "name": "Let's Talk About Love",
+        "url": "https://open.spotify.com/album/1tfS7Fo1UtAxQSf256fnYs"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "My Heart Will Go On - Love Theme from \"Titanic\"",
+      "url": "https://open.spotify.com/track/33LC84JgLvK2KuW43MfaNq"
     },
     {
       "added_at": "2023-11-25 18:27:48",

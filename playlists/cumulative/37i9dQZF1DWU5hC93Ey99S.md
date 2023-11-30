@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-337 songs - 18 hr 25 min
+338 songs - 18 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,7 +274,8 @@
 | [Something Stronger](https://open.spotify.com/track/1VhD0FPDYqFhqRJVguVAJe) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA), [SHYA](https://open.spotify.com/artist/3bUHVz55uXLTtxggKQyXIO), [Coldabank](https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA) | [Something Stronger](https://open.spotify.com/album/6jjwM9Sheset9qyHMMA4PB) | 2:07 | 2023-04-13 |  |
 | [something we would dance to](https://open.spotify.com/track/3SCxgfMHjQsyQ7fSHw5c9K) | [henri](https://open.spotify.com/artist/7nJ5r6Up446alyOTy7Umsf) | [rakkaus](https://open.spotify.com/album/1YgHQC8MHFGfoBXTkiSOFV) | 3:09 | 2023-06-01 | 2023-11-25 |
 | [Start Small \- Lamorn Remix](https://open.spotify.com/track/6tGZBNnzbG7iFa4LoH1bIy) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Lamorn](https://open.spotify.com/artist/5cfLsokNJlFQisLDtzugO9) | [Second Nature \(Remixes\)](https://open.spotify.com/album/4C4V7xWan1E9J5zC30ySqD) | 4:58 | 2023-06-08 |  |
-| [Stuck On You](https://open.spotify.com/track/3MPGIPuYWDP3ToQtcHd6cK) | [MashBit](https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ) | [Stuck On You](https://open.spotify.com/album/4FGWofRXJbI2nUc7l5jylx) | 2:29 | 2023-11-16 |  |
+| [Stuck On You](https://open.spotify.com/track/3MPGIPuYWDP3ToQtcHd6cK) | [MashBit](https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ) | [Stuck On You](https://open.spotify.com/album/4FGWofRXJbI2nUc7l5jylx) | 2:29 | 2023-11-16 | 2023-11-30 |
+| [Stuck On You](https://open.spotify.com/track/6aevLJZYhcT7IW8WVspnIS) | [MashBit](https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ) | [Stuck On You](https://open.spotify.com/album/3L26xsJtlMRvbB4ECsjEX6) | 2:29 | 2023-11-16 |  |
 | [Sun Showers](https://open.spotify.com/track/5xbCwWdi2a6qa7zOFc7Ej6) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 4:34 | 2023-07-14 |  |
 | [Swelter](https://open.spotify.com/track/6it7E8OADgdkcacQHOYqN7) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Patchouli](https://open.spotify.com/album/2lJhS3fcp0c9VghdU7YSfU) | 4:25 | 2023-04-27 |  |
 | [Take Me Away](https://open.spotify.com/track/2uZGQfnuG1ZLmBhtz06IEX) | [V\. Christie](https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm) | [Take Me Away](https://open.spotify.com/album/19djgC1ATwUgOqfweOtUQW) | 3:14 | 2023-08-03 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EM3TTcpK4b.md) - [plain]
 
 > Pa' cantar, bailar y pistear\. ¡Qué suene el mariachi! En portada: Javier Solís
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,077 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,252 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EM3TTcpK4b.md) - [plain]
 | 91 | [Cucurrucucu Paloma](https://open.spotify.com/track/5WFjPmHYdqguwGXm8SZ2Mg) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [Mexico Gran Colección Ranchera: Lola Beltrán](https://open.spotify.com/album/3gLs7v0umUTDKBwdZj2Bgm) | 3:51 |
 | 92 | [Mi Forma De Sentir](https://open.spotify.com/track/5hT4Cx4hQrm3cCauIdKceF) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [Lo Mas Romantico De Pedro Fernandez](https://open.spotify.com/album/3L2vIaatkaHUXhOuX3GvmZ) | 4:05 |
 | 93 | [Un Puño De Tierra](https://open.spotify.com/track/7EGYbyTTEmmdqUu4MV6eHD) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Un Puño de Tierra](https://open.spotify.com/album/65VUOaoJRlzDEwFSIJdWS3) | 3:08 |
-| 94 | [No Discutamos](https://open.spotify.com/track/3IwKzJ7SenrBSRmmGAWR65) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Interpreta A Juan Gabriel](https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O) | 2:15 |
-| 95 | [Himno A La Humildad](https://open.spotify.com/track/73VnO22Ad7K9lJSpUZT9QT) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd), [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Por Amor A Mi Pueblo](https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od) | 4:25 |
+| 94 | [Himno A La Humildad](https://open.spotify.com/track/73VnO22Ad7K9lJSpUZT9QT) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd), [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Por Amor A Mi Pueblo](https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od) | 4:25 |
+| 95 | [No Discutamos](https://open.spotify.com/track/3IwKzJ7SenrBSRmmGAWR65) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Interpreta A Juan Gabriel](https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O) | 2:15 |
 | 96 | [Tata Dios](https://open.spotify.com/track/3hk6MLu7MCPDGQJPL6SY9s) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 3:29 |
 | 97 | [No Me Queda Más](https://open.spotify.com/track/3xW3exLpM6NTHdp2wkg1LR) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Ones](https://open.spotify.com/album/4Djr1mj7dBvYElBFCLO6P6) | 3:19 |
 | 98 | [Bohemio de Afición](https://open.spotify.com/track/3lwkAPnI2i1eFWWPt0mq15) | [Gerardo Reyes](https://open.spotify.com/artist/2HdTW6TLACOcKKsUaRdP0e) | [La Gran Colección del 60 Aniversario CBS \- Gerardo Reyes](https://open.spotify.com/album/2BFXXLvrX2PZ5WqWxAzg39) | 3:17 |
 | 99 | [Animas Que No Amanezca](https://open.spotify.com/track/5jlWc3WmSTZ73RNmCqCQP3) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc), [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Rancheras Inmortales](https://open.spotify.com/album/3x09ZlCqCLUxPvIEybsvU7) | 2:26 |
-| 100 | [Golondrina De Ojos Negros \- Versión Mariachi](https://open.spotify.com/track/3syPKM9ORE0fyb7tucLR58) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Con Mariachi](https://open.spotify.com/album/6ZmAvrZsc7atoSDqqODDVF) | 3:13 |
+| 100 | [Ya No Me Interesas](https://open.spotify.com/track/13P7xlcWQzFMvAGQZniMTS) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Interpreta A Juan Gabriel](https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O) | 3:02 |
 
-Snapshot ID: `MCxjYjc5NDNjZjA2YTcwNGMwNmIyM2JlMWZiNzM5NDg5Y2M4MmQ4Yzkw`
+Snapshot ID: `MCwwZTQyMzAzMzRmM2RmMzZjZTA4ODk0OWM5MzA5NjJkNTVhMDY4NDlh`

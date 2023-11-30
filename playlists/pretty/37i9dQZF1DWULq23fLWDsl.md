@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULq23fLWDsl.md) - [plain]
 
 > 2010 highlights from the home of indie music\. Cover: Gorillaz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,589 likes - 100 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,734 likes - 100 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULq23fLWDsl.md) - [plain]
 | 36 | [Revival](https://open.spotify.com/track/1k7lK8tjU5BPsXez7WEpg0) | [Deerhunter](https://open.spotify.com/artist/38zTZcuN7nFvVJ6auhc6V3) | [Halcyon Digest](https://open.spotify.com/album/3a3Yp0PRguSTH3dBOeWRyZ) | 2:13 |
 | 37 | [Down in the Valley](https://open.spotify.com/track/7IcKs2XXHnQBtBJtzEyqqS) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu) | 5:03 |
 | 38 | [Why Won't You Make Up Your Mind?](https://open.spotify.com/track/4SgcE7RxpK3ydWrjoAQH1K) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker](https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng) | 3:19 |
-| 39 | [Stay](https://open.spotify.com/track/2WmDlNSXpyYgMK0ws7ZWDa) | [Hurts](https://open.spotify.com/artist/3w4VAlllkAWI6m0AV0Gn6a) | [Happiness \- Deluxe Edition](https://open.spotify.com/album/5cZgn1Bqk3msMykasZtZod) | 3:55 |
-| 40 | [Rill Rill](https://open.spotify.com/track/0Z7b5GlC70FAES1YduhhqQ) | [Sleigh Bells](https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh) | [Treats](https://open.spotify.com/album/3dEgxewsJAZ6s2nVUieNA5) | 3:49 |
+| 39 | [Rill Rill](https://open.spotify.com/track/0Z7b5GlC70FAES1YduhhqQ) | [Sleigh Bells](https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh) | [Treats](https://open.spotify.com/album/3dEgxewsJAZ6s2nVUieNA5) | 3:49 |
+| 40 | [Stay](https://open.spotify.com/track/2WmDlNSXpyYgMK0ws7ZWDa) | [Hurts](https://open.spotify.com/artist/3w4VAlllkAWI6m0AV0Gn6a) | [Happiness \- Deluxe Edition](https://open.spotify.com/album/5cZgn1Bqk3msMykasZtZod) | 3:55 |
 | 41 | [Baptism](https://open.spotify.com/track/4GJTbB9FNkGkvf6dxl22qW) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles \(II\)](https://open.spotify.com/album/3VsZ5nZGgyH30IDaCP4GeQ) | 4:11 |
 | 42 | [Journal of Ardency](https://open.spotify.com/track/6GEIpzW14NtOjqHejbcSRE) | [Class Actress](https://open.spotify.com/artist/4nZbOHYEypqHtWwTPQu8Fl) | [Journal of Ardency](https://open.spotify.com/album/7twFekZ3zmVFkbChsA42bG) | 3:45 |
 | 43 | [Take Care](https://open.spotify.com/track/1igtKwX3EHjN95HanbkHNg) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Teen Dream](https://open.spotify.com/album/51AxfjN2gEt5qeJqPY5w0e) | 5:48 |
@@ -59,13 +59,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULq23fLWDsl.md) - [plain]
 | 49 | [Home](https://open.spotify.com/track/5gmv3BgePSYiHnPJgY7oTJ) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [This Is Happening](https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz) | 7:53 |
 | 50 | [The Dreamer](https://open.spotify.com/track/5FcLey1TteEHktzvMcTk7S) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Sometimes The Blues Is Just A Passing Bird](https://open.spotify.com/album/5lCQtNmeRx4cI4UDwdv6Rn) | 4:05 |
 | 51 | [Riverside](https://open.spotify.com/track/4vJ2nNBA6sxAUN5kLGPq3Q) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Philharmonics](https://open.spotify.com/album/1hOKjrormSHpyOw0BREwEx) | 3:48 |
-| 52 | [Call Your Girlfriend](https://open.spotify.com/track/2sCoROOlNQyFpRQEe6A5lv) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk](https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns) | 3:47 |
-| 53 | [Moneygrabber](https://open.spotify.com/track/4PwwyZBEkHcm4OTJThCzXi) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Pickin' up the Pieces](https://open.spotify.com/album/6v1XsTQiTP6IziGoGpTLu1) | 3:09 |
+| 52 | [Moneygrabber](https://open.spotify.com/track/4PwwyZBEkHcm4OTJThCzXi) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Pickin' up the Pieces](https://open.spotify.com/album/6v1XsTQiTP6IziGoGpTLu1) | 3:09 |
+| 53 | [Call Your Girlfriend](https://open.spotify.com/track/2sCoROOlNQyFpRQEe6A5lv) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk](https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns) | 3:47 |
 | 54 | [Laredo](https://open.spotify.com/track/61beXNR1qPPxjyM8x3pdRk) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Infinite Arms](https://open.spotify.com/album/08fkw9uDP2KET6cPIl74Xo) | 3:12 |
 | 55 | [It Is Not Meant To Be](https://open.spotify.com/track/3Yub3anoLj8w58TVpEXUJv) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker](https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng) | 5:21 |
 | 56 | [Sprawl II \(Mountains Beyond Mountains\)](https://open.spotify.com/track/0U0p8weaMIbIFMJ0CPlvHV) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Suburbs](https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI) | 5:25 |
-| 57 | [Odessa](https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Swim](https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O) | 5:15 |
-| 58 | [Wide Eyes](https://open.spotify.com/track/44DnIGEvTlhDkGv3xLSDcp) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Gorilla Manor](https://open.spotify.com/album/2cIpJDijNEoHv88jJKwDID) | 4:26 |
+| 57 | [Wide Eyes](https://open.spotify.com/track/44DnIGEvTlhDkGv3xLSDcp) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Gorilla Manor](https://open.spotify.com/album/2cIpJDijNEoHv88jJKwDID) | 4:26 |
+| 58 | [Odessa](https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Swim](https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O) | 5:15 |
 | 59 | [Cigarettes In the Theatre](https://open.spotify.com/track/1pdbW0f7avXN6Uwj9JroFY) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa) | 3:34 |
 | 60 | [Bloodbuzz Ohio](https://open.spotify.com/track/3lnF83kG6ePhTSWRoW62dO) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [High Violet](https://open.spotify.com/album/3mX8oKajxXEBNNATCKLLPd) | 4:35 |
 | 61 | [Girls Like You](https://open.spotify.com/track/5mEyCUtI36Jmu2KNQQ4jaw) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 6:04 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULq23fLWDsl.md) - [plain]
 | 69 | [Zebra](https://open.spotify.com/track/6asU049doNupkVllo61luh) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Teen Dream](https://open.spotify.com/album/51AxfjN2gEt5qeJqPY5w0e) | 4:48 |
 | 70 | [Desire Lines](https://open.spotify.com/track/34OYZJDVLJC0HS401190FN) | [Deerhunter](https://open.spotify.com/artist/38zTZcuN7nFvVJ6auhc6V3) | [Halcyon Digest](https://open.spotify.com/album/3a3Yp0PRguSTH3dBOeWRyZ) | 6:44 |
 | 71 | [She's Long Gone](https://open.spotify.com/track/26ZnmGlPGXaOzPDydAP9D5) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:06 |
-| 72 | [One Life Stand](https://open.spotify.com/track/1BfXy0gM3tmB6Jc1QdtaLj) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [One Life Stand](https://open.spotify.com/album/4g9B6VXmdHhmqYhVHIXsbc) | 5:21 |
-| 73 | [Far Away](https://open.spotify.com/track/3YlFtz805JwhDGy0fLasBO) | [Junip](https://open.spotify.com/artist/7HcipAIJatVGT4U6HQrnFW) | [Fields \(Deluxe Edition\)](https://open.spotify.com/album/2S81NPoxd3E2gd261BSo5X) | 2:46 |
+| 72 | [Far Away](https://open.spotify.com/track/3YlFtz805JwhDGy0fLasBO) | [Junip](https://open.spotify.com/artist/7HcipAIJatVGT4U6HQrnFW) | [Fields \(Deluxe Edition\)](https://open.spotify.com/album/2S81NPoxd3E2gd261BSo5X) | 2:46 |
+| 73 | [One Life Stand](https://open.spotify.com/track/1BfXy0gM3tmB6Jc1QdtaLj) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [One Life Stand](https://open.spotify.com/album/4g9B6VXmdHhmqYhVHIXsbc) | 5:21 |
 | 74 | [Horchata](https://open.spotify.com/track/76BIj06DoRIuJLtchonDcd) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Contra](https://open.spotify.com/album/0H8cHlbp6eieUUOLmv4FzJ) | 3:26 |
 | 75 | [We Used to Wait](https://open.spotify.com/track/37EmPMVwdBaKs7UhJOkHUU) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Suburbs](https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI) | 5:01 |
 | 76 | [Sweetest Kill](https://open.spotify.com/track/488u1IbVEsaC7fxjABWjHx) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [Forgiveness Rock Record](https://open.spotify.com/album/5hzEg6FhiOIXHufj0EithW) | 5:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULq23fLWDsl.md) - [plain]
 | 99 | [XXXO](https://open.spotify.com/track/5fBx0CyspbLYEO073IHxGN) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [/\\/\\ /\\ Y /\\](https://open.spotify.com/album/7BIbGgOmGMhLscZqowMSDV) | 2:54 |
 | 100 | [Sun Hands](https://open.spotify.com/track/117XTs9axKflCk5FDwf2kI) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Gorilla Manor](https://open.spotify.com/album/2cIpJDijNEoHv88jJKwDID) | 4:50 |
 
-Snapshot ID: `MCxkYjZiZTcxNzViOWEzZDMyMjMxZjcyZjdjZGM4NTkyNTA1ZjQxMTg1`
+Snapshot ID: `MCwzMzM2OGYzOTZjODMxMWIyMTIyYjM4ODIxNTUwZTdkYzI1NTdjOTUz`

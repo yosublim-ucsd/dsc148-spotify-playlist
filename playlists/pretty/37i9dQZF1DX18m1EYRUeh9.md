@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 
 > Smooth indie jazz joints from around the globe\. Cover: André 3000
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,615 likes - 85 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,912 likes - 85 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 | 16 | [Slice](https://open.spotify.com/track/6SR5Lk3NYfaiEFm2ZhG9mC) | [O.](https://open.spotify.com/artist/0R2UqQKBdSADXMN2Gx5CrB) | [Slice](https://open.spotify.com/album/4zZ29RjFtFEN1TPxPHBH7r) | 3:24 |
 | 17 | [Sun Always](https://open.spotify.com/track/775nZtOlg5D8Qr29XLfYQ4) | [Barney McAll](https://open.spotify.com/artist/1FC0psUheo5L2kUtj53MF9), [Natalie Slade](https://open.spotify.com/artist/2G4QmfdQaRtHde3OYDl3AQ) | [Sun Always](https://open.spotify.com/album/2egatdFWAG8YpZG7XwvGej) | 4:20 |
 | 18 | [Stay Soft](https://open.spotify.com/track/5oHTLHLHVbuVK5YY1yO3rt) | [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd) | [Softboi](https://open.spotify.com/album/17d8Xd8QtMjXSCDb4pb5t1) | 3:19 |
-| 19 | [SEE YOU TRY...](https://open.spotify.com/track/2wQl3xTp4Xc0L37BSKY7py) | [Yawdoesitall](https://open.spotify.com/artist/3TtvX6o3U5yzsEIAw0Ls1P), [Yasmina Sadiki](https://open.spotify.com/artist/1GMfLePMU7XpevYhEltnpN), [TAWANDA](https://open.spotify.com/artist/3F4FCqwmeTAp08WDVG9li5), [DEVAURA](https://open.spotify.com/artist/7MPlrCtiMvRiqSuww4uSiX) | [SEE YOU TRY...](https://open.spotify.com/album/1Jehaxde2CWArAasfAVvkV) | 3:00 |
+| 19 | [SEE YOU TRY...](https://open.spotify.com/track/2wQl3xTp4Xc0L37BSKY7py) | [Yawdoesitall](https://open.spotify.com/artist/3TtvX6o3U5yzsEIAw0Ls1P), [Yasmina Sadiki](https://open.spotify.com/artist/4t29fzCiwTpsufS6mOOdgh), [TAWANDA](https://open.spotify.com/artist/3F4FCqwmeTAp08WDVG9li5), [DEVAURA](https://open.spotify.com/artist/7MPlrCtiMvRiqSuww4uSiX) | [SEE YOU TRY...](https://open.spotify.com/album/1Jehaxde2CWArAasfAVvkV) | 3:00 |
 | 20 | [No Confusion \(feat\. Kojey Radical\)](https://open.spotify.com/track/1DkHcsvPvbfmEtKwDvmYmY) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Where I'm Meant To Be](https://open.spotify.com/album/0nhfG8lPabvjTN0ACcwBux) | 3:14 |
 | 21 | [The Light \(feat\. Bahia Dayes\)](https://open.spotify.com/track/1mkzHA0suincRybCyk5fis) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Bahia Dayes](https://open.spotify.com/artist/0zPd2gWJkTBKV1kdPoplqK) | [Black Classical Music](https://open.spotify.com/album/5uw3ZBsmxonVJGmocj8EET) | 5:40 |
 | 22 | [Patience](https://open.spotify.com/track/5z9JBWHqRO5Wvz3cWwkCih) | [B\-ahwe](https://open.spotify.com/artist/6kog2FnBdjoz5oc9EQvuXl), [NEONE the Wonderer](https://open.spotify.com/artist/72RMKo8u5oIuTtyE8HAv5E) | [26% MIXTAPE](https://open.spotify.com/album/0MMw4QzAkhbNbtOX3hsApi) | 3:41 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 | 84 | [Rust \(feat\. Tom Misch\)](https://open.spotify.com/track/1nsaIli1TgKxLjHmWqDRmE) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Black Classical Music](https://open.spotify.com/album/5uw3ZBsmxonVJGmocj8EET) | 3:58 |
 | 85 | [Fight for Love](https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 4:57 |
 
-Snapshot ID: `MCwwNzhhZmQ2NzQ3NDgyNGY2YWVhMGNhNjFiODczNmE3Mjg3NmJjMTVl`
+Snapshot ID: `MCw3MDA5NGE2MjlmNTEwNzA2NDRiYzQ1MmYxZTI1NmE3ZjNhODlhODQ3`

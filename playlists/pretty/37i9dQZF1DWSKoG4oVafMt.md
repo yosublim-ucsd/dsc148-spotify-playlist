@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Jordan Sandhu
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,906 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,041 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 44 | [Distance Love](https://open.spotify.com/track/55nRhkhe7ckZhazYrv6ZOX) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [Distance Love](https://open.spotify.com/album/0FSTdbfd0XFtEjWK8VCjgY) | 3:30 |
 | 45 | [Sira E Hou](https://open.spotify.com/track/639CDARmxoRC57gK0nej6V) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [All Bamb](https://open.spotify.com/album/6VwfjmLseQZblxn1r7xDn2) | 3:20 |
 | 46 | [Akhiyaan](https://open.spotify.com/track/2l3dFxtoSMgMQVyRIUHjpz) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Akhiyaan](https://open.spotify.com/album/4MBCBnMZyFFv8Ch9elmLsL) | 3:11 |
-| 47 | [Ambran De Taare](https://open.spotify.com/track/6qRdYQIMhVBG9FtVC1lItU) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75) | [Ambran De Taare](https://open.spotify.com/album/21eSHgrZHYjhYMVRNi4R4d) | 3:32 |
+| 47 | [Ambran De Taare](https://open.spotify.com/track/6qRdYQIMhVBG9FtVC1lItU) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Rahul Sathu](https://open.spotify.com/artist/64UjPeMUmhyalooujVrEU3) | [Ambran De Taare](https://open.spotify.com/album/21eSHgrZHYjhYMVRNi4R4d) | 3:32 |
 | 48 | [Ittar](https://open.spotify.com/track/3VwIFCFQ6HQNzlQPfJBrt7) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Ittar](https://open.spotify.com/album/1SXRKGIPXXWHlFH5FIh8iS) | 3:20 |
 | 49 | [Rutba](https://open.spotify.com/track/4EvaQx8uREbHOHM3SdCRCe) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Kali Jotta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/55iA8nuzIEjLxK82lzhgyi) | 6:44 |
 | 50 | [Dilawara](https://open.spotify.com/track/1C6auFaK08OhOTJ8bfrAiG) | [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W), [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP) | [Dilawara](https://open.spotify.com/album/6Q9uRhFdTKxWGItb71JcQh) | 3:42 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 74 | [Guitar \- From the Album "XYZ"](https://open.spotify.com/track/76XQ1JrztUciUlQHYIXLl0) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Guitar](https://open.spotify.com/album/2cZavSlbZLnEpU938tCGuG) | 2:32 |
 | 75 | [Udd Gaya \- From "Lekh"](https://open.spotify.com/track/6aFKTWTMLEJA4VqGM3aPbw) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Udd Gaya \(From "Lekh"\)](https://open.spotify.com/album/3uVhhmevWrSzN4LUyQEvQq) | 4:03 |
 
-Snapshot ID: `MCw2NmY1ZWI3YTFiZGZhOTE5MzU1NzY2N2U0Njg3MjUzMTZiMDAyOTFl`
+Snapshot ID: `MCw4OTQ2N2ZhZDljNzIxNTY3NDAyNTJhOWEyZWM5MjFmNmUzM2VmZTkx`

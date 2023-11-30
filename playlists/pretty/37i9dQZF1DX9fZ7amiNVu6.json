@@ -1,12 +1,12 @@
 {
   "description": "Kick back and enjoy these classic summer songs.",
-  "num_followers": 390535,
+  "num_followers": 390564,
   "original_name": "Feel Good Summer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MGQ0MzBkOTQ3ZjAwMDdhMDkwYzdlNmZmNzAxM2Q2YjMwYTA2YTQ4",
+  "snapshot_id": "MCxmZTBlNDdhMjIyZDZhYWMwZWYzMzgwNzg0NzRiN2JkYTZiNTljN2Vl",
   "tracks": [
     {
       "added_at": "2023-07-24 17:49:41",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-07-24 17:49:41",
       "album": {
-        "name": "Paul Simon",
-        "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 164813,
-      "name": "Me and Julio Down by the Schoolyard",
-      "url": "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
-    },
-    {
-      "added_at": "2023-07-24 17:49:41",
-      "album": {
         "name": "Hold On, I'm Comin'",
         "url": "https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 155706,
       "name": "Hold On, I'm Comin'",
       "url": "https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB"
+    },
+    {
+      "added_at": "2023-07-24 17:49:41",
+      "album": {
+        "name": "Paul Simon",
+        "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 164813,
+      "name": "Me and Julio Down by the Schoolyard",
+      "url": "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
     },
     {
       "added_at": "2023-07-24 17:49:41",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2023-07-24 17:49:41",
       "album": {
+        "name": "In the Summertime",
+        "url": "https://open.spotify.com/album/17JTrT5dXyWYs0xmsnunp7"
+      },
+      "artists": [
+        {
+          "name": "Mungo Jerry",
+          "url": "https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb"
+        }
+      ],
+      "duration_ms": 211880,
+      "name": "In the Summertime",
+      "url": "https://open.spotify.com/track/2uzlv8PjqsVvF1DhEahyhy"
+    },
+    {
+      "added_at": "2023-07-24 17:49:41",
+      "album": {
         "name": "Ritchie Valens",
         "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 246000,
       "name": "Off the Wall",
       "url": "https://open.spotify.com/track/3zYpRGnnoegSpt3SguSo3W"
-    },
-    {
-      "added_at": "2023-07-24 17:49:41",
-      "album": {
-        "name": "In the Summertime",
-        "url": "https://open.spotify.com/album/17JTrT5dXyWYs0xmsnunp7"
-      },
-      "artists": [
-        {
-          "name": "Mungo Jerry",
-          "url": "https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb"
-        }
-      ],
-      "duration_ms": 211880,
-      "name": "In the Summertime",
-      "url": "https://open.spotify.com/track/2uzlv8PjqsVvF1DhEahyhy"
     },
     {
       "added_at": "2023-07-24 17:49:41",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-07-24 17:49:41",
       "album": {
-        "name": "Jump Up Calypso",
-        "url": "https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI"
-      },
-      "artists": [
-        {
-          "name": "Harry Belafonte",
-          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
-        }
-      ],
-      "duration_ms": 221704,
-      "name": "Jump in the Line",
-      "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
-    },
-    {
-      "added_at": "2023-07-24 17:49:41",
-      "album": {
         "name": "Move on Up",
         "url": "https://open.spotify.com/album/2EwoYRFQRJqw7BTVG6GlTw"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 165789,
       "name": "Move on Up - Single Edit",
       "url": "https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi"
+    },
+    {
+      "added_at": "2023-07-24 17:49:41",
+      "album": {
+        "name": "Jump Up Calypso",
+        "url": "https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI"
+      },
+      "artists": [
+        {
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+        }
+      ],
+      "duration_ms": 221704,
+      "name": "Jump in the Line",
+      "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
     },
     {
       "added_at": "2023-07-24 17:49:41",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-07-24 17:49:41",
       "album": {
-        "name": "Chicago V (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/2oSXXINsWGuEsc4udgWxh8"
-      },
-      "artists": [
-        {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
-        }
-      ],
-      "duration_ms": 235666,
-      "name": "Saturday in the Park - 2002 Remaster",
-      "url": "https://open.spotify.com/track/4OJFkrRQqol4FsPesF8eu4"
-    },
-    {
-      "added_at": "2023-07-24 17:49:41",
-      "album": {
         "name": "Disraeli Gears",
         "url": "https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY"
       },
@@ -1527,22 +1511,6 @@
       "duration_ms": 250000,
       "name": "Sunshine Of Your Love",
       "url": "https://open.spotify.com/track/6FRwDxXsvSasw0y2eDArsz"
-    },
-    {
-      "added_at": "2023-07-24 17:49:41",
-      "album": {
-        "name": "Mary Wells Sings My Guy",
-        "url": "https://open.spotify.com/album/6pUoPt9A6P1G8YJ5vw6GBP"
-      },
-      "artists": [
-        {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
-        }
-      ],
-      "duration_ms": 174440,
-      "name": "My Guy",
-      "url": "https://open.spotify.com/track/4591VqUIXysNlmI5NcAIUd"
     },
     {
       "added_at": "2023-09-01 11:46:36",
@@ -1559,6 +1527,38 @@
       "duration_ms": 159466,
       "name": "Mais Que Nada",
       "url": "https://open.spotify.com/track/6YTBfxkdGce9pLEy9jG9Jo"
+    },
+    {
+      "added_at": "2023-07-24 17:49:41",
+      "album": {
+        "name": "Chicago V (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/2oSXXINsWGuEsc4udgWxh8"
+      },
+      "artists": [
+        {
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+        }
+      ],
+      "duration_ms": 235666,
+      "name": "Saturday in the Park - 2002 Remaster",
+      "url": "https://open.spotify.com/track/4OJFkrRQqol4FsPesF8eu4"
+    },
+    {
+      "added_at": "2023-07-24 17:49:41",
+      "album": {
+        "name": "Mary Wells Sings My Guy",
+        "url": "https://open.spotify.com/album/6pUoPt9A6P1G8YJ5vw6GBP"
+      },
+      "artists": [
+        {
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
+        }
+      ],
+      "duration_ms": 174440,
+      "name": "My Guy",
+      "url": "https://open.spotify.com/track/4591VqUIXysNlmI5NcAIUd"
     },
     {
       "added_at": "2023-07-24 17:49:41",

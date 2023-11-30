@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7unGnF3WQD3.md) - [plain]
 
 > tírate un paso y saca los prohibidos
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,398 likes - 75 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,456 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7unGnF3WQD3.md) - [plain]
 | 67 | [El Reo Ausente](https://open.spotify.com/track/3G1MeI4VeHNhDimzvY22V0) | [Nery Pedraza](https://open.spotify.com/artist/2auNLhntCTSNSUhsN0MCQ0), [Los Guraperos de la Cumbia](https://open.spotify.com/artist/2qzwx9X95HrGfehodiubOs) | [Que Te Vaya Bien](https://open.spotify.com/album/5k783HWe7on8tcK6W8jtyG) | 5:52 |
 | 68 | [Se Te Ve la Tanga](https://open.spotify.com/track/3GUMMzUB7Kk0BSqxEDyieS) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [El Bonaerense](https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x) | 4:23 |
 | 69 | [Que calor](https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros \- Criando Cuervos](https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs) | 3:45 |
-| 70 | [Cumbia Yemaya](https://open.spotify.com/track/14CUTkk5h1JfIg6InMMgxS) | [Sonideros de MEX USA](https://open.spotify.com/artist/1DdqwR6Ygd18k5GjaY8sJm) | [Exitos Sonideros, Vol\. 2](https://open.spotify.com/album/41dKt9tSQwLw5eDcY1CUFz) | 3:16 |
-| 71 | [Menea Tu Chapa](https://open.spotify.com/track/7G6dxux3uUjSfQY7MP9J5W) | [Wilo D New](https://open.spotify.com/artist/7Mj6zJyAtVisnooOp1hlWF) | [KlK Llego El Tipo the Album](https://open.spotify.com/album/3XHcqktZHNuuRjdLJqiGs0) | 2:55 |
+| 70 | [Menea Tu Chapa](https://open.spotify.com/track/7G6dxux3uUjSfQY7MP9J5W) | [Wilo D New](https://open.spotify.com/artist/7Mj6zJyAtVisnooOp1hlWF) | [KlK Llego El Tipo the Album](https://open.spotify.com/album/3XHcqktZHNuuRjdLJqiGs0) | 2:55 |
+| 71 | [Cumbia Yemaya](https://open.spotify.com/track/14CUTkk5h1JfIg6InMMgxS) | [Sonideros de MEX USA](https://open.spotify.com/artist/1DdqwR6Ygd18k5GjaY8sJm) | [Exitos Sonideros, Vol\. 2](https://open.spotify.com/album/41dKt9tSQwLw5eDcY1CUFz) | 3:16 |
 | 72 | [Otra Noche](https://open.spotify.com/track/6YUYwOLhR01HusDZkttH7k) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Cumbia Del Corazón](https://open.spotify.com/album/0ZgIMgZMTpyNRZNCYoHhYm) | 3:19 |
 | 73 | [Cariñito Sin MI](https://open.spotify.com/track/7zSluZ0cnnNomeIGYSThMm) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos Volume 2](https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv) | 3:55 |
 | 74 | [El Cepillo](https://open.spotify.com/track/2EWZswsvSERfAWzXPE2trG) | [Fulanito](https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE) | [Greatest Hits](https://open.spotify.com/album/2se2DHy9J2L20JV02zwQHx) | 3:26 |
 | 75 | [Tu Cariñito](https://open.spotify.com/track/2kBgJXGbVA6WcA40IFA9KF) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [2 Grandes de la Salsa Vol\. 4](https://open.spotify.com/album/0eoWrfcaxarOASMm50HE7s) | 4:11 |
 
-Snapshot ID: `MCw0NzdlNmEzZWYzOWYxOThmZWM4MjQwZjVkZTQ4NjkyNDFkMDU3NDlk`
+Snapshot ID: `MCxmM2Q5OTRlMWY4YjM5NDc2MjEwYTFjM2RjNjEwOTIyM2MyYjk1YjA5`

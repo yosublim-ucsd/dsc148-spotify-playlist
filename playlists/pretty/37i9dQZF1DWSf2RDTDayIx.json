@@ -1,12 +1,12 @@
 {
   "description": "Feel-good <a href=\"spotify:genre:edm_dance\">dance music</a>!",
-  "num_followers": 2319171,
+  "num_followers": 2319440,
   "original_name": "Happy Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzdjOGE4YzRlZDc2ZWFmNTQ5MTk5OWQ0ZDIyYTM0NDlmMWJlMzc5",
+  "snapshot_id": "MCxjYWQyZjFkOWNkNzlkNzVjMWRiYzBkNDE5YWRmMTUwNzVhZjM1YjE5",
   "tracks": [
     {
       "added_at": "2023-11-24 05:00:00",
@@ -483,26 +483,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Endless Summer",
-        "url": "https://open.spotify.com/album/6heWsbxEvCnXbHcw4xlKmE"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Zak Abel",
-          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
-        }
-      ],
-      "duration_ms": 187040,
-      "name": "Endless Summer",
-      "url": "https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "You & I",
         "url": "https://open.spotify.com/album/0lY3tmonYCBxbviBSKczIX"
       },
@@ -523,26 +503,42 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Million Dollar Bill",
-        "url": "https://open.spotify.com/album/1vu51AVRSHyaS3D2GxzsF7"
+        "name": "Endless Summer",
+        "url": "https://open.spotify.com/album/6heWsbxEvCnXbHcw4xlKmE"
       },
       "artists": [
         {
-          "name": "Beyond Chicago",
-          "url": "https://open.spotify.com/artist/1fU8WO9zbHN8ylxhoh9ix7"
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "Majestic",
-          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
-        },
-        {
-          "name": "Alex Mills",
-          "url": "https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq"
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
         }
       ],
-      "duration_ms": 128024,
-      "name": "Million Dollar Bill",
-      "url": "https://open.spotify.com/track/33o5QF5ZEAllqV4jDnRYu7"
+      "duration_ms": 187040,
+      "name": "Endless Summer",
+      "url": "https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Like You Do",
+        "url": "https://open.spotify.com/album/1riQFcgbb1smSKeWVarPDx"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Raphaella",
+          "url": "https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0"
+        }
+      ],
+      "duration_ms": 152224,
+      "name": "Like You Do",
+      "url": "https://open.spotify.com/track/1ap4zdsBydWPSXJqDBqtNL"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -567,22 +563,26 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Like You Do",
-        "url": "https://open.spotify.com/album/1riQFcgbb1smSKeWVarPDx"
+        "name": "Million Dollar Bill",
+        "url": "https://open.spotify.com/album/1vu51AVRSHyaS3D2GxzsF7"
       },
       "artists": [
         {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+          "name": "Beyond Chicago",
+          "url": "https://open.spotify.com/artist/1fU8WO9zbHN8ylxhoh9ix7"
         },
         {
-          "name": "Raphaella",
-          "url": "https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0"
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        },
+        {
+          "name": "Alex Mills",
+          "url": "https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq"
         }
       ],
-      "duration_ms": 152224,
-      "name": "Like You Do",
-      "url": "https://open.spotify.com/track/1ap4zdsBydWPSXJqDBqtNL"
+      "duration_ms": 128024,
+      "name": "Million Dollar Bill",
+      "url": "https://open.spotify.com/track/33o5QF5ZEAllqV4jDnRYu7"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -627,26 +627,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "More Than I Can Say",
-        "url": "https://open.spotify.com/album/7uIapyvYvTGZtM3Osj9kiB"
-      },
-      "artists": [
-        {
-          "name": "GAMPER & DADONI",
-          "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
-        },
-        {
-          "name": "D.T.E",
-          "url": "https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q"
-        }
-      ],
-      "duration_ms": 153197,
-      "name": "More Than I Can Say",
-      "url": "https://open.spotify.com/track/1Kmth9jEjaymopjSRBmtkz"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Wings (I Won't Let You Down)",
         "url": "https://open.spotify.com/album/5pPckXGvpwvr78wj5EPLZS"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 171904,
       "name": "Wings (I Won't Let You Down)",
       "url": "https://open.spotify.com/track/0QZyAYqpbsfnBfZ4vMRSVd"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "More Than I Can Say",
+        "url": "https://open.spotify.com/album/7uIapyvYvTGZtM3Osj9kiB"
+      },
+      "artists": [
+        {
+          "name": "GAMPER & DADONI",
+          "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
+        },
+        {
+          "name": "D.T.E",
+          "url": "https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q"
+        }
+      ],
+      "duration_ms": 153197,
+      "name": "More Than I Can Say",
+      "url": "https://open.spotify.com/track/1Kmth9jEjaymopjSRBmtkz"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1159,6 +1159,26 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Mess It Up (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/0L6IypGWr61krz90boqPDD"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 215370,
+      "name": "Mess It Up - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/7wkTF8cHGCurrfNATqvJLc"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Temptation",
         "url": "https://open.spotify.com/album/0vUxIesFmxzHzv8LmdYlKJ"
       },
@@ -1223,26 +1243,6 @@
       "duration_ms": 201700,
       "name": "Sun Will Shine",
       "url": "https://open.spotify.com/track/6bp0sJ0l3Ab3ZU0aktsYCf"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Mess It Up (Purple Disco Machine Remix)",
-        "url": "https://open.spotify.com/album/0L6IypGWr61krz90boqPDD"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 215370,
-      "name": "Mess It Up - Purple Disco Machine Remix",
-      "url": "https://open.spotify.com/track/7wkTF8cHGCurrfNATqvJLc"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Night Feels",
-        "url": "https://open.spotify.com/album/0TEbNZTuLr9F1rNvdchStD"
-      },
-      "artists": [
-        {
-          "name": "AR/CO",
-          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
-        }
-      ],
-      "duration_ms": 171448,
-      "name": "Night Feels",
-      "url": "https://open.spotify.com/track/6oELcspL4BONtElLhJfBPI"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Those Eyes",
         "url": "https://open.spotify.com/album/58RPXRvxMszS1tfbeBjht0"
       },
@@ -1467,6 +1451,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Night Feels",
+        "url": "https://open.spotify.com/album/0TEbNZTuLr9F1rNvdchStD"
+      },
+      "artists": [
+        {
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+        }
+      ],
+      "duration_ms": 171448,
+      "name": "Night Feels",
+      "url": "https://open.spotify.com/track/6oELcspL4BONtElLhJfBPI"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Beg For You (feat. Rina Sawayama)",
         "url": "https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O"
       },
@@ -1483,6 +1483,30 @@
       "duration_ms": 168053,
       "name": "Beg for You (feat. Rina Sawayama)",
       "url": "https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Ask Me / Mesmerize",
+        "url": "https://open.spotify.com/album/01n0HtCtQh4ogK1d8hmrws"
+      },
+      "artists": [
+        {
+          "name": "Duck Sauce",
+          "url": "https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt"
+        },
+        {
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        },
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        }
+      ],
+      "duration_ms": 193795,
+      "name": "Ask Me",
+      "url": "https://open.spotify.com/track/05QGJav2nGJ9qdQ3vG9A9t"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1523,30 +1547,6 @@
       "duration_ms": 165120,
       "name": "Dance All Over Me - Jax Jones Remix",
       "url": "https://open.spotify.com/track/2GAIcRjMNkAiLaoXbNm0VW"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Ask Me / Mesmerize",
-        "url": "https://open.spotify.com/album/01n0HtCtQh4ogK1d8hmrws"
-      },
-      "artists": [
-        {
-          "name": "Duck Sauce",
-          "url": "https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt"
-        },
-        {
-          "name": "A-Trak",
-          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
-        },
-        {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
-        }
-      ],
-      "duration_ms": 193795,
-      "name": "Ask Me",
-      "url": "https://open.spotify.com/track/05QGJav2nGJ9qdQ3vG9A9t"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1607,6 +1607,26 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Heart Still Beating",
+        "url": "https://open.spotify.com/album/7jLbqg4aQyJdd9Wq6zrB2m"
+      },
+      "artists": [
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 149163,
+      "name": "Heart Still Beating",
+      "url": "https://open.spotify.com/track/1IYlFAw4SThAoRx5DWwAjT"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Starlight (Keep Me Afloat)",
         "url": "https://open.spotify.com/album/7eIDupqYq3dYiaLPmv71bY"
       },
@@ -1627,26 +1647,6 @@
       "duration_ms": 202670,
       "name": "Starlight (Keep Me Afloat)",
       "url": "https://open.spotify.com/track/4UQy41kC5LjzwQuiuWOpwA"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Heart Still Beating",
-        "url": "https://open.spotify.com/album/7jLbqg4aQyJdd9Wq6zrB2m"
-      },
-      "artists": [
-        {
-          "name": "Nathan Dawe",
-          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 149163,
-      "name": "Heart Still Beating",
-      "url": "https://open.spotify.com/track/1IYlFAw4SThAoRx5DWwAjT"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1735,6 +1735,26 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Pretty People (feat. INJI)",
+        "url": "https://open.spotify.com/album/4Rk7c9Vfq3if5ra3ibISDd"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "INJI",
+          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
+        }
+      ],
+      "duration_ms": 149771,
+      "name": "Pretty People (feat. INJI)",
+      "url": "https://open.spotify.com/track/1EdmLWe4HDbrw5CM0bOnxS"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Wake Up! (feat. Kaleta)",
         "url": "https://open.spotify.com/album/3tTRLML0NouWERt09k2Whv"
       },
@@ -1759,26 +1779,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Pretty People (feat. INJI)",
-        "url": "https://open.spotify.com/album/4Rk7c9Vfq3if5ra3ibISDd"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "INJI",
-          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
-        }
-      ],
-      "duration_ms": 149771,
-      "name": "Pretty People (feat. INJI)",
-      "url": "https://open.spotify.com/track/1EdmLWe4HDbrw5CM0bOnxS"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Disco Inferno",
         "url": "https://open.spotify.com/album/4lVZr7UdF9hRTsnXiVQCRo"
       },
@@ -1795,6 +1795,26 @@
       "duration_ms": 131474,
       "name": "Disco Inferno",
       "url": "https://open.spotify.com/track/7qhFWlQpahKJT9LcL6qTH4"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Little Bit Yours",
+        "url": "https://open.spotify.com/album/1AAnGhmJLEL4usZgEyIS97"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "Hannah Boleyn",
+          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
+        }
+      ],
+      "duration_ms": 196092,
+      "name": "Little Bit Yours",
+      "url": "https://open.spotify.com/track/0LOjVJaTDqXyu37cjUYpT2"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1855,26 +1875,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Dreamteam",
-        "url": "https://open.spotify.com/album/15YushxelouREDwAN3cdV1"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "Neon Trees",
-          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
-        }
-      ],
-      "duration_ms": 181312,
-      "name": "Dreamteam",
-      "url": "https://open.spotify.com/track/1UNYQXk8b0GPbupETN4IHL"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Who Do You Love",
         "url": "https://open.spotify.com/album/1r4sDUkdHzyP6li28uad6c"
       },
@@ -1911,6 +1911,26 @@
       "duration_ms": 146848,
       "name": "Time to Groove (feat. Non\u00f4)",
       "url": "https://open.spotify.com/track/20b1ZBMGOZjuGvNFncIIP7"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Dreamteam",
+        "url": "https://open.spotify.com/album/15YushxelouREDwAN3cdV1"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "Neon Trees",
+          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
+        }
+      ],
+      "duration_ms": 181312,
+      "name": "Dreamteam",
+      "url": "https://open.spotify.com/track/1UNYQXk8b0GPbupETN4IHL"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1999,26 +2019,6 @@
       "duration_ms": 176041,
       "name": "Need Your Love",
       "url": "https://open.spotify.com/track/2TSU0Ti5e5beL9mYlHbYQu"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Little Bit Yours",
-        "url": "https://open.spotify.com/album/1AAnGhmJLEL4usZgEyIS97"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "Hannah Boleyn",
-          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
-        }
-      ],
-      "duration_ms": 196092,
-      "name": "Little Bit Yours",
-      "url": "https://open.spotify.com/track/0LOjVJaTDqXyu37cjUYpT2"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -2155,26 +2155,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "All Day (feat. Non\u00f4)",
-        "url": "https://open.spotify.com/album/2vA5dz501KUEWDYHnyIgiJ"
-      },
-      "artists": [
-        {
-          "name": "Welshy",
-          "url": "https://open.spotify.com/artist/2eDmtsJH4pQksx4CNhlSQ6"
-        },
-        {
-          "name": "Non\u00f4",
-          "url": "https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO"
-        }
-      ],
-      "duration_ms": 182653,
-      "name": "All Day (feat. Non\u00f4)",
-      "url": "https://open.spotify.com/track/7kG1Lv9NFFtvvUeyYHLG7R"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "How You Samba",
         "url": "https://open.spotify.com/album/12WYrw3Af5ha9SVxHEv7KH"
       },
@@ -2195,6 +2175,26 @@
       "duration_ms": 151680,
       "name": "How You Samba",
       "url": "https://open.spotify.com/track/4uoSxzvEVMcDsIK0aHZFAv"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "All Day (feat. Non\u00f4)",
+        "url": "https://open.spotify.com/album/2vA5dz501KUEWDYHnyIgiJ"
+      },
+      "artists": [
+        {
+          "name": "Welshy",
+          "url": "https://open.spotify.com/artist/2eDmtsJH4pQksx4CNhlSQ6"
+        },
+        {
+          "name": "Non\u00f4",
+          "url": "https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO"
+        }
+      ],
+      "duration_ms": 182653,
+      "name": "All Day (feat. Non\u00f4)",
+      "url": "https://open.spotify.com/track/7kG1Lv9NFFtvvUeyYHLG7R"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -2259,26 +2259,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Legit",
-        "url": "https://open.spotify.com/album/33TLuvtiEY3AizYPGRB4HH"
-      },
-      "artists": [
-        {
-          "name": "Erlandsson",
-          "url": "https://open.spotify.com/artist/3mkANE8kTZpm5SXJWCmihm"
-        },
-        {
-          "name": "The High",
-          "url": "https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z"
-        }
-      ],
-      "duration_ms": 179999,
-      "name": "Legit",
-      "url": "https://open.spotify.com/track/5p0aallQlnYrQmHI10BASz"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Take Me To The Sunshine (feat. BullySongs)",
         "url": "https://open.spotify.com/album/20AY41HrcfdjRmHSpLLSgd"
       },
@@ -2323,18 +2303,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "JOY (God Only Knows)",
-        "url": "https://open.spotify.com/album/6g4DJWWISxd3PwUFM9sleU"
+        "name": "Legit",
+        "url": "https://open.spotify.com/album/33TLuvtiEY3AizYPGRB4HH"
       },
       "artists": [
         {
-          "name": "Joy Anonymous",
-          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+          "name": "Erlandsson",
+          "url": "https://open.spotify.com/artist/3mkANE8kTZpm5SXJWCmihm"
+        },
+        {
+          "name": "The High",
+          "url": "https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z"
         }
       ],
-      "duration_ms": 266906,
-      "name": "JOY (God Only Knows)",
-      "url": "https://open.spotify.com/track/2gTF3yPxvDpW2EAYbOVeIt"
+      "duration_ms": 179999,
+      "name": "Legit",
+      "url": "https://open.spotify.com/track/5p0aallQlnYrQmHI10BASz"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -2359,6 +2343,22 @@
       "duration_ms": 218053,
       "name": "Forever And A Day - Diplo Remix",
       "url": "https://open.spotify.com/track/5ozhK7GvUKSNSr1LrclYM2"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "JOY (God Only Knows)",
+        "url": "https://open.spotify.com/album/6g4DJWWISxd3PwUFM9sleU"
+      },
+      "artists": [
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        }
+      ],
+      "duration_ms": 266906,
+      "name": "JOY (God Only Knows)",
+      "url": "https://open.spotify.com/track/2gTF3yPxvDpW2EAYbOVeIt"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -2579,26 +2579,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Loving You (feat. Katy Alex)",
-        "url": "https://open.spotify.com/album/4ZGda5kisgrlc4oRinvGTA"
-      },
-      "artists": [
-        {
-          "name": "Piero Pirupa",
-          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
-        },
-        {
-          "name": "Katy Alex",
-          "url": "https://open.spotify.com/artist/63wpGjuYtKMliedy9FjHMB"
-        }
-      ],
-      "duration_ms": 180943,
-      "name": "Loving You (feat. Katy Alex)",
-      "url": "https://open.spotify.com/track/0pIlTYYCiY7FcTunLkEjUb"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "You've Got To Let Go If You Want To Be Free",
         "url": "https://open.spotify.com/album/7nJFzH65HZDY5qeRwdo421"
       },
@@ -2619,6 +2599,26 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Loving You (feat. Katy Alex)",
+        "url": "https://open.spotify.com/album/4ZGda5kisgrlc4oRinvGTA"
+      },
+      "artists": [
+        {
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+        },
+        {
+          "name": "Katy Alex",
+          "url": "https://open.spotify.com/artist/63wpGjuYtKMliedy9FjHMB"
+        }
+      ],
+      "duration_ms": 180943,
+      "name": "Loving You (feat. Katy Alex)",
+      "url": "https://open.spotify.com/track/0pIlTYYCiY7FcTunLkEjUb"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Say It To Me",
         "url": "https://open.spotify.com/album/5Hmf5zuiJv54jvkureLeiW"
       },
@@ -2631,30 +2631,6 @@
       "duration_ms": 242076,
       "name": "Say It To Me",
       "url": "https://open.spotify.com/track/7t7ozrjWAqQPyvBZPoVbdQ"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Feels EP",
-        "url": "https://open.spotify.com/album/2SGuIvWlWhB2M7xKXbFm8F"
-      },
-      "artists": [
-        {
-          "name": "Wh0",
-          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
-        },
-        {
-          "name": "Just Aaron",
-          "url": "https://open.spotify.com/artist/3P0enmC2QzJvz1alkJydUk"
-        },
-        {
-          "name": "Jinadu",
-          "url": "https://open.spotify.com/artist/0o9k6CmDuy07gP28ov82wp"
-        }
-      ],
-      "duration_ms": 237600,
-      "name": "Feels",
-      "url": "https://open.spotify.com/track/7eJholoRepkkrXmXmPTo4g"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -2683,6 +2659,30 @@
       "duration_ms": 210440,
       "name": "Suenos Bravos",
       "url": "https://open.spotify.com/track/2tMIzKu3vXQzvbDShxjbmu"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Feels EP",
+        "url": "https://open.spotify.com/album/2SGuIvWlWhB2M7xKXbFm8F"
+      },
+      "artists": [
+        {
+          "name": "Wh0",
+          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
+        },
+        {
+          "name": "Just Aaron",
+          "url": "https://open.spotify.com/artist/3P0enmC2QzJvz1alkJydUk"
+        },
+        {
+          "name": "Jinadu",
+          "url": "https://open.spotify.com/artist/0o9k6CmDuy07gP28ov82wp"
+        }
+      ],
+      "duration_ms": 237600,
+      "name": "Feels",
+      "url": "https://open.spotify.com/track/7eJholoRepkkrXmXmPTo4g"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -2763,26 +2763,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Good Feeling",
-        "url": "https://open.spotify.com/album/1t8zwTa01KvKH925GrKmNE"
-      },
-      "artists": [
-        {
-          "name": "Duvall",
-          "url": "https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc"
-        },
-        {
-          "name": "Sam Gray",
-          "url": "https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18"
-        }
-      ],
-      "duration_ms": 169440,
-      "name": "Good Feeling",
-      "url": "https://open.spotify.com/track/1h4zfNDe8UapUvTuaDsTuM"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Set You Free",
         "url": "https://open.spotify.com/album/1cQwMGOrpiXTdeot0bdplB"
       },
@@ -2799,6 +2779,26 @@
       "duration_ms": 169523,
       "name": "Set You Free",
       "url": "https://open.spotify.com/track/4MyPLcBTpqfXZJKcUhMXOg"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Good Feeling",
+        "url": "https://open.spotify.com/album/1t8zwTa01KvKH925GrKmNE"
+      },
+      "artists": [
+        {
+          "name": "Duvall",
+          "url": "https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc"
+        },
+        {
+          "name": "Sam Gray",
+          "url": "https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18"
+        }
+      ],
+      "duration_ms": 169440,
+      "name": "Good Feeling",
+      "url": "https://open.spotify.com/track/1h4zfNDe8UapUvTuaDsTuM"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -2971,26 +2971,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "\u200eSing Hallelujah",
-        "url": "https://open.spotify.com/album/5VqXJYT1QOyVxIlSnCu7Ee"
-      },
-      "artists": [
-        {
-          "name": "Rebecca & Fiona",
-          "url": "https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75"
-        },
-        {
-          "name": "Dr. Alban",
-          "url": "https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8"
-        }
-      ],
-      "duration_ms": 277105,
-      "name": "\u200eSing Hallelujah",
-      "url": "https://open.spotify.com/track/7KDQodSd62lRySw3kjHYXJ"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Get Up",
         "url": "https://open.spotify.com/album/2XahKuNpWDBxLlbD8eKCuc"
       },
@@ -3007,6 +2987,26 @@
       "duration_ms": 186862,
       "name": "Get Up",
       "url": "https://open.spotify.com/track/3uO4nLDiJMH2DkixEFcHIN"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "\u200eSing Hallelujah",
+        "url": "https://open.spotify.com/album/5VqXJYT1QOyVxIlSnCu7Ee"
+      },
+      "artists": [
+        {
+          "name": "Rebecca & Fiona",
+          "url": "https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75"
+        },
+        {
+          "name": "Dr. Alban",
+          "url": "https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8"
+        }
+      ],
+      "duration_ms": 277105,
+      "name": "\u200eSing Hallelujah",
+      "url": "https://open.spotify.com/track/7KDQodSd62lRySw3kjHYXJ"
     },
     {
       "added_at": "2023-11-24 05:00:00",

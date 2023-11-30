@@ -4,7 +4,7 @@
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: H ZETTRIO
 
-234 songs - 18 hr 59 min
+235 songs - 19 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [All The Things You Are](https://open.spotify.com/track/1HObIEY8XDGgNjSTGJxMV0) | [Mao Sone](https://open.spotify.com/artist/674ZhINhNClUw6elVb96BG) | [All The Things You Are](https://open.spotify.com/album/3XLtciMbAUrvX4EiFwcCe9) | 2:35 | 2022-10-04 | 2022-10-19 |
 | [And we'll keep on going](https://open.spotify.com/track/0lGNdeRWLqaMgiaRgbRiKW) | [Kei Matsumaru](https://open.spotify.com/artist/3mHyQil6LHrtKvJ2hrFN6e), [Akira Ishii](https://open.spotify.com/artist/4aXZZMEzjJD8LbpsfNl6W0), [Hideaki Kanazawa](https://open.spotify.com/artist/7a99ADzo7A5wdnxqFz5X7i), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [The Moon, Its Recollections Abstracted](https://open.spotify.com/album/0rqPzyBcDq8xO4UCn0gIw8) | 9:49 | 2022-10-18 | 2022-11-16 |
 | [Back Street](https://open.spotify.com/track/4Oq8hpl6suohYPKLjFwzkd) | [小曽根啓](https://open.spotify.com/artist/6bK6xLnS0wYCNLQlqMqM6M), [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged) | [Unison](https://open.spotify.com/album/4Wz2lJawGFjMLwb9R0yWAE) | 8:21 | 2023-01-24 | 2023-02-17 |
+| [BAKKI BAKI](https://open.spotify.com/track/5S7qQI8RiZU4LvnACoOUip) | [Tenors In Chaos](https://open.spotify.com/artist/2dPi2IGldPZJEjY3Aj4UzT) | [Chaos](https://open.spotify.com/album/0lsnWYZZxrgwRhdFzdfu7c) | 4:42 | 2023-11-29 |  |
 | [Baum](https://open.spotify.com/track/0b8l7Ztw9mIJ4a0Ux7f6Xg) | [UHHO UHHO UHHO](https://open.spotify.com/artist/2Deww3VSIaAANtnUSpYLZ1) | [Baum](https://open.spotify.com/album/3vsv6V67g4nSAqwaZmAXIO) | 4:12 | 2023-01-24 | 2023-02-22 |
 | [Be Like Snow](https://open.spotify.com/track/2qDXwIRRJcHoLZHZTr4gkw) | [SMOKIN’theJAZZ](https://open.spotify.com/artist/2EPBUwyVFGqahuZ4TK150I) | [Be Like Snow](https://open.spotify.com/album/3urXm5EQ1m6R8sSOtmnyKr) | 4:48 | 2023-03-28 | 2023-04-25 |
 | [Bird Of Beauty](https://open.spotify.com/track/5OmSzWSzMLHpTK1tp4zm95) | [石川紅奈](https://open.spotify.com/artist/3UPdKdHrWLHKDMWIMVk5kz) | [Bird Of Beauty](https://open.spotify.com/album/0qvKH6LujY8DPBZXRzeVAI) | 6:02 | 2023-03-07 | 2023-04-03 |
@@ -232,7 +233,7 @@
 | [宵宵雪花](https://open.spotify.com/track/6iIxRqJjExIvewfqpOX8Bf) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [宵宵雪花](https://open.spotify.com/album/6JxehKWtAhIAiMWzkSpVrR) | 3:52 | 2023-01-03 | 2023-02-18 |
 | [恋の予感 \- The Handoors version](https://open.spotify.com/track/2APXmeWh7KQ1ssXVCMSKeD) | [The Handoors](https://open.spotify.com/artist/7Iwfkhbt82Nym1FXhF2AHN) | [Give Me Your Love / 恋の予感 \(The Handoors version\)](https://open.spotify.com/album/05p4lqNQFjYvjkCnUNNtnV) | 4:38 | 2023-06-06 | 2023-08-23 |
 | [愛しのバタフライ](https://open.spotify.com/track/3DtljUi2CC9NSgZ6uab6QY) | [JiLL\-Decoy association](https://open.spotify.com/artist/4j0lMBCAWtaFqEboLZp8Xe) | [愛しのバタフライ](https://open.spotify.com/album/3bXouFomasJnoi0Rwyt3FT) | 5:24 | 2023-07-25 | 2023-07-27 |
-| [最後の夜汽車](https://open.spotify.com/track/6zQvFxPFLSmisCA1UYAr4c) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [MISIA SOUL JAZZ SESSION](https://open.spotify.com/album/0lAWJPnLw3LQYqPV86qKhd) | 4:54 | 2022-09-06 |  |
+| [最後の夜汽車](https://open.spotify.com/track/6zQvFxPFLSmisCA1UYAr4c) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [MISIA SOUL JAZZ SESSION](https://open.spotify.com/album/0lAWJPnLw3LQYqPV86qKhd) | 4:54 | 2022-09-06 | 2023-11-30 |
 | [本日は晴天](https://open.spotify.com/track/3STBOXNnwPWEwDdxfHPuqF) | [PIANO SHIFT](https://open.spotify.com/artist/2NgVrbppUOWDrRtFqxiLgi) | [本日は晴天](https://open.spotify.com/album/1TsDnMjGiFpnOBa6h9ectt) | 4:18 | 2023-03-07 | 2023-03-29 |
 | [東京ブギウギ \- JUNK BOOGIE](https://open.spotify.com/track/78EdyJD8l2uwT3Kw0ppViW) | [Mari Natsuki](https://open.spotify.com/artist/2pNYWL608THXN3ExiA5iay) | [TOKYO JUNK BOOGIE](https://open.spotify.com/album/3LIgXpMVtzTywubYgtUgdM) | 3:20 | 2023-04-18 | 2023-06-09 |
 | [架空都市](https://open.spotify.com/track/1WR0Ow20xUHfXvYhKRHQYr) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [架空都市](https://open.spotify.com/album/4gk9e4b1F40Gv5Vmkjj5ix) | 2:48 | 2023-08-01 | 2023-09-16 |

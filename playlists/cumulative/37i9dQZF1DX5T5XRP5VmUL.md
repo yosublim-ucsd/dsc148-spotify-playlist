@@ -4,7 +4,7 @@
 
 > Dreaming of a white Christmas ✨❄️
 
-336 songs - 18 hr 19 min
+337 songs - 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Do They Know It's Christmas? \- 1984 Version](https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Do They Know It’s Christmas?](https://open.spotify.com/album/2WlRAsKdyYOwg2tdBjxVwq) | 3:42 | 2023-10-13 |  |
 | [Do You Hear What I Hear?](https://open.spotify.com/track/2bzs48jw4TFTCNJfuRTfu4) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [Christmas](https://open.spotify.com/album/6bx85MDh5ikEz9JmjD5uqa) | 2:49 | 2021-12-24 | 2023-04-04 |
 | [Don't Give Your Heart Away for Christmas](https://open.spotify.com/track/6fE2Kjwd5Fh2xF9IeuiOY4) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Don't Give Your Heart Away for Christmas](https://open.spotify.com/album/2s3Wa5FblJ5qXPZsULI6co) | 2:14 | 2021-12-24 |  |
-| [Don't Hang The Mistletoe](https://open.spotify.com/track/2rosR0KdbTVUxuHuyPrhwG) | [Jojo Mason](https://open.spotify.com/artist/4IXAxCHuarvDtv7K0NS6x6) | [Don't Hang The Mistletoe](https://open.spotify.com/album/6zV0d09NsO7mGzIQAfiG4l) | 3:17 | 2022-11-25 | 2023-11-18 |
+| [Don't Hang The Mistletoe](https://open.spotify.com/track/2rosR0KdbTVUxuHuyPrhwG) | [Jojo Mason](https://open.spotify.com/artist/4IXAxCHuarvDtv7K0NS6x6) | [Don't Hang The Mistletoe](https://open.spotify.com/album/6zV0d09NsO7mGzIQAfiG4l) | 3:17 | 2022-11-25 |  |
 | [Don't You Know It's Christmas](https://open.spotify.com/track/4WZ51l7xdSwPLQcXeReBfG) | [Molly Johnson](https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU) | [Don't You Know It's Christmas](https://open.spotify.com/album/2mxIzdveUmWmDNedhS7qh4) | 3:37 | 2021-12-24 | 2023-03-27 |
 | [Downtown Christmas Eve](https://open.spotify.com/track/47rFim9XdQwbseI60niP25) | [Jenn Grant](https://open.spotify.com/artist/4ll7UpFe9fDtA0g16Vgf5L) | [Downtown Christmas Eve](https://open.spotify.com/album/0rn6jxkZobVPhpeyXhEYtJ) | 3:55 | 2021-12-24 | 2022-07-29 |
 | [Dream You Home](https://open.spotify.com/track/6eKruzLDxLMJ8h15JSPsGs) | [Olivia Penalva](https://open.spotify.com/artist/6ytGxUYeXamODJwiXuZvjO) | [Dream You Home](https://open.spotify.com/album/69E17KNMwKzhFSPRHKNHQU) | 3:52 | 2021-12-24 | 2023-10-14 |
@@ -127,7 +127,7 @@
 | [Happy Xmas \(War is Over\)](https://open.spotify.com/track/3PHMypTQ1sug3L37o0STr9) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Happy Xmas \(War is Over\)](https://open.spotify.com/album/69XxAD0dxtlSJENkJDTYYA) | 3:55 | 2021-12-24 | 2023-09-08 |
 | [Happy Xmas \(War Is Over\) \- Remastered 2010](https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ) | [Signature Box](https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v) | 3:34 | 2023-10-13 |  |
 | [Hard Candy Christmas](https://open.spotify.com/track/24cTSBqNDT8rX5RjuxAxBR) | [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Hard Candy Christmas](https://open.spotify.com/album/63s2s0ZVgohgW0CEm1NHgd) | 3:28 | 2021-12-24 | 2022-12-01 |
-| [Hard Candy Christmas](https://open.spotify.com/track/6V5MkZb6BkvfcppHRO8zvf) | [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Hard Candy Christmas](https://open.spotify.com/album/3etDoLyTmP4B9CFJj7rsiz) | 3:28 | 2022-11-28 |  |
+| [Hard Candy Christmas](https://open.spotify.com/track/6V5MkZb6BkvfcppHRO8zvf) | [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Hard Candy Christmas](https://open.spotify.com/album/3etDoLyTmP4B9CFJj7rsiz) | 3:28 | 2022-11-28 | 2023-11-30 |
 | [Hark The Herald Angels Sing](https://open.spotify.com/track/72PSnMgQWeC4tcNdxgqXYM) | [Faber Drive](https://open.spotify.com/artist/3SziwNj6JCnqd2ajUdXlIT), [sleep.ing](https://open.spotify.com/artist/72qGRng3c6BZNeYJH3C5ct), [Dave Faber](https://open.spotify.com/artist/2eQOHn4qBMuuKTtx7seCz8) | [Hark The Herald Angels Sing](https://open.spotify.com/album/2EP9Q1buJSeGrL5Wm3u1pU) | 2:02 | 2021-12-24 | 2022-10-18 |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/030mot3ZKR3oskfMsqDB2R) | [Judy Garland](https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf) | [Meet Me In St\. Louis](https://open.spotify.com/album/1owtCiTnAkCB4vKJ5FD0ki) | 2:42 | 2023-10-13 |  |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/1Qi2wh8fFgDV7tl4Sj3f2K) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/3nCpXy6LlyXWuFR08tMycK) | 2:50 | 2023-10-13 |  |
@@ -279,7 +279,8 @@
 | [Slide On Christmas](https://open.spotify.com/track/6q5mRQkkn9iG7H3Kl5YdcJ) | [John Concepcion](https://open.spotify.com/artist/5mqw4f8V3r2PBVKCKAkqiY) | [Slide On Christmas](https://open.spotify.com/album/3A2ZgopwrWy9AKNKZcdkeZ) | 3:56 | 2021-12-24 | 2023-10-14 |
 | [Snow Place Like Home](https://open.spotify.com/track/2MMoRePvDXAP1BAEF2TV3s) | [Jojo Mason](https://open.spotify.com/artist/4IXAxCHuarvDtv7K0NS6x6) | [Snow Place Like Home](https://open.spotify.com/album/7dhOMOFSDR1kNvknQCbhJ8) | 3:20 | 2021-12-24 | 2023-09-16 |
 | [Snowman](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 2:45 | 2023-10-13 |  |
-| [Someday At Christmas](https://open.spotify.com/track/0GMbNoVqoycx9qd9ggIP8V) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Jingle Bells](https://open.spotify.com/album/5NlA5cPHtHxIMOO9tqH7ar) | 2:49 | 2023-10-13 |  |
+| [Someday At Christmas](https://open.spotify.com/track/2X5noCM9Klrm4zXfyyPdRN) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Mono Singles](https://open.spotify.com/album/7oMcO4p7P1JtJR2G1v2NoK) | 2:48 | 2023-11-26 |  |
+| [Someday At Christmas](https://open.spotify.com/track/0GMbNoVqoycx9qd9ggIP8V) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Jingle Bells](https://open.spotify.com/album/5NlA5cPHtHxIMOO9tqH7ar) | 2:49 | 2023-10-13 | 2023-11-30 |
 | [Someday at Christmas](https://open.spotify.com/track/5iXpw1SFBcjh7lNwuyKi7X) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [Someday at Christmas](https://open.spotify.com/album/4GCGTddfqvUhDk2UcXzOW0) | 3:06 | 2021-12-24 | 2023-10-14 |
 | [Sometimes A Whisper](https://open.spotify.com/track/1KHenB2fugJ57aKecUw0fZ) | [Don Amero](https://open.spotify.com/artist/6vHn9yt7XU0dwlw0677xxs) | [Amero Little Christmas](https://open.spotify.com/album/0jXf1Ua0zJdfKgOo4dLGCy) | 3:41 | 2021-12-24 | 2022-07-29 |
 | [Sometimes A Whisper](https://open.spotify.com/track/2eK7jQ79l60Pdnuv9lWu4C) | [Don Amero](https://open.spotify.com/artist/6vHn9yt7XU0dwlw0677xxs) | [Amero Little Christmas](https://open.spotify.com/album/7Eun4E53zX1dZGDFIIDTKz) | 3:41 | 2021-12-24 | 2022-10-30 |

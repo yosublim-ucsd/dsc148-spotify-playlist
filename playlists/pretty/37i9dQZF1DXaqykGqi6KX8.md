@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqykGqi6KX8.md) - [plain]
 
 > A collection of the best Arab metal\.  Cover: <a href="spotify:artist:63U8atFXZ3sax4eeV212tq">Coat Of Arms</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,752 likes - 30 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,000 likes - 30 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,22 +21,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqykGqi6KX8.md) - [plain]
 | 11 | [Jasmin](https://open.spotify.com/track/4TtBKEv55BOjuAGgcctDj9) | [Myrath](https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl) | [Legacy](https://open.spotify.com/album/7ocvxAkixEXHnmw88mhBjH) | 1:48 |
 | 12 | [Quest For Eternity](https://open.spotify.com/track/3bkHJDmHIjdKOOCvVDoXCE) | [Acrassicauda](https://open.spotify.com/artist/3MN7LhOUWGVnrRAwc1vtvG) | [GILGAMESH](https://open.spotify.com/album/4yfjrGtClK3NfmzXRuV20y) | 3:46 |
 | 13 | [Lay chafi](https://open.spotify.com/track/5WCLyTCEPTz3f8Q4AnSZqm) | [Betweenatna](https://open.spotify.com/artist/74xbHp6MeHavk2G1OaIeNT) | [Betweenatna](https://open.spotify.com/album/33a4lA6Cx4c1XzygMiuru8) | 4:02 |
-| 14 | [Freedom Denied](https://open.spotify.com/track/6Qd5yE8cmlcaaBz7Nxy2EL) | [Blaakyum](https://open.spotify.com/artist/2pddgL1ZW41XCeEQNVvomB) | [Line of Fear](https://open.spotify.com/album/4iyZLxCNIGZEZAJBuOopi5) | 4:15 |
-| 15 | [Ankh](https://open.spotify.com/track/2QX8MH41UYIYKEfodmfRJd) | [Scarab](https://open.spotify.com/artist/1FJcBa1k4iWsMsj0FYZGF4) | [Blinding the Masses](https://open.spotify.com/album/2HLTq9907TMPpJdphQRZYr) | 5:00 |
-| 16 | [Moongod](https://open.spotify.com/track/54LcV9HzyNTrwbYYY88XD5) | [Aeternam](https://open.spotify.com/artist/2rC2vtci4S1g3irfTDyi9s) | [Moongod](https://open.spotify.com/album/3nU5Xe4BWjZUUZ8477MMVa) | 5:41 |
+| 14 | [Ankh](https://open.spotify.com/track/2QX8MH41UYIYKEfodmfRJd) | [Scarab](https://open.spotify.com/artist/1FJcBa1k4iWsMsj0FYZGF4) | [Blinding the Masses](https://open.spotify.com/album/2HLTq9907TMPpJdphQRZYr) | 5:00 |
+| 15 | [Moongod](https://open.spotify.com/track/54LcV9HzyNTrwbYYY88XD5) | [Aeternam](https://open.spotify.com/artist/2rC2vtci4S1g3irfTDyi9s) | [Moongod](https://open.spotify.com/album/3nU5Xe4BWjZUUZ8477MMVa) | 5:41 |
+| 16 | [Freedom Denied](https://open.spotify.com/track/6Qd5yE8cmlcaaBz7Nxy2EL) | [Blaakyum](https://open.spotify.com/artist/2pddgL1ZW41XCeEQNVvomB) | [Line of Fear](https://open.spotify.com/album/4iyZLxCNIGZEZAJBuOopi5) | 4:15 |
 | 17 | [Daret Layyem](https://open.spotify.com/track/26uaNROSTOeRpwMCGICjza) | [Nawather](https://open.spotify.com/artist/6Njxfc9KsYG0BxVEKEAtUI) | [Wasted Years](https://open.spotify.com/album/4m9InB8pZlZLUy1DsFBmAw) | 5:02 |
-| 18 | [Khoroto \(Gultrah Sound System\)](https://open.spotify.com/track/5JW5FWbRjkcANrIXxjHPJx) | [Znous](https://open.spotify.com/artist/3Z5dr3yRC0mbwGzkGoCYyx) | [Znousland 2](https://open.spotify.com/album/0HXnt2qsur4HpiY1DlRI6e) | 4:02 |
+| 18 | [Sidi Arbi 2](https://open.spotify.com/track/1opJhxEOwxwbxMJCCojg1h) | [Znous](https://open.spotify.com/artist/3Z5dr3yRC0mbwGzkGoCYyx) | [Sidi Arbi 2](https://open.spotify.com/album/26nQPOmPYYNujrR5CSPkQj) | 3:51 |
 | 19 | [Hayati](https://open.spotify.com/track/2IbOp5y95v0VXR32RV98q1) | [Arkan](https://open.spotify.com/artist/2cr1yLhEpDBjgc7o4dn2vH) | [Sofia](https://open.spotify.com/album/6EuwcKP68HmrN6rUqjpHuN) | 4:53 |
-| 20 | [Inta Omri \(You Are My Life\)](https://open.spotify.com/track/3ooVc9kPY6DNpCxM2srJtb) | [Khalas](https://open.spotify.com/artist/5ScNEqoqJISrxyWLJSDVXX) | [Ma Adesh Feeha \(We've Had It\)](https://open.spotify.com/album/6eltMmaoFofuMEFYMp4TJW) | 3:59 |
+| 20 | [Son of Muhieddine](https://open.spotify.com/track/4QRjuVSPlAIDZP3KfiBwt1) | [Acyl](https://open.spotify.com/artist/3lNu61NAziC5x45j6vJv9F) | [Aftermath](https://open.spotify.com/album/23VDqGZBZwUKvpaO03O0lq) | 5:36 |
 | 21 | [The Twelfth Gate](https://open.spotify.com/track/11SdDosI5yqCAe8G5nBOog) | [Crescent](https://open.spotify.com/artist/4VsnXbsjg8NzTZ2hEkgHvz) | [The Order of Amenti](https://open.spotify.com/album/1F4dwcJKvBx6KOnQoWcv01) | 4:00 |
-| 22 | [Son of Muhieddine](https://open.spotify.com/track/4QRjuVSPlAIDZP3KfiBwt1) | [Acyl](https://open.spotify.com/artist/3lNu61NAziC5x45j6vJv9F) | [Aftermath](https://open.spotify.com/album/23VDqGZBZwUKvpaO03O0lq) | 5:36 |
+| 22 | [Inta Omri \(You Are My Life\)](https://open.spotify.com/track/3ooVc9kPY6DNpCxM2srJtb) | [Khalas](https://open.spotify.com/artist/5ScNEqoqJISrxyWLJSDVXX) | [Ma Adesh Feeha \(We've Had It\)](https://open.spotify.com/album/6eltMmaoFofuMEFYMp4TJW) | 3:59 |
 | 23 | [The Tragedy Within](https://open.spotify.com/track/0pYtMLPKmN2ROSZ46O4DEC) | [BILOCATE](https://open.spotify.com/artist/1id7fKgL1T5sh5MMBeviJe) | [Summoning the Bygones](https://open.spotify.com/album/5zy8rUbB55HkaiMx0jyAkx) | 8:44 |
-| 24 | [Blind Fate \(Turab\)](https://open.spotify.com/track/6YJxrjI7Y53MCKWEzdxDta) | [Esodic](https://open.spotify.com/artist/46XPKhmZCbqaixuDpJsC4S) | [Mirrors of Disgrace](https://open.spotify.com/album/2myDafpzzFLHe6nw7LWGyh) | 4:45 |
+| 24 | [The Cost Of Everything And The Value Of Nothing](https://open.spotify.com/track/34k1SirFGrzHpYUrwiFNAk) | [Acrassicauda](https://open.spotify.com/artist/3MN7LhOUWGVnrRAwc1vtvG) | [GILGAMESH](https://open.spotify.com/album/4yfjrGtClK3NfmzXRuV20y) | 3:08 |
 | 25 | [Kahf Alkhulood](https://open.spotify.com/track/1zMvdRf1pe7HkKBVaBrLLZ) | [Narjahanam](https://open.spotify.com/artist/6Y5OnkthtwaEEjjTjbi5Vy) | [Wa Ma Khufiya Kana A'atham](https://open.spotify.com/album/5AVtqTyC8BWXrHzHhfbk38) | 5:11 |
-| 26 | [Sidi Arbi 2](https://open.spotify.com/track/1opJhxEOwxwbxMJCCojg1h) | [Znous](https://open.spotify.com/artist/3Z5dr3yRC0mbwGzkGoCYyx) | [Sidi Arbi 2](https://open.spotify.com/album/26nQPOmPYYNujrR5CSPkQj) | 3:51 |
-| 27 | [Time to Raise the Curtains](https://open.spotify.com/track/7MSH1qlIpKG1JNd0vhBhte) | [Nawather](https://open.spotify.com/artist/6Njxfc9KsYG0BxVEKEAtUI) | [Wasted Years](https://open.spotify.com/album/4m9InB8pZlZLUy1DsFBmAw) | 4:00 |
-| 28 | [The Cost Of Everything And The Value Of Nothing](https://open.spotify.com/track/34k1SirFGrzHpYUrwiFNAk) | [Acrassicauda](https://open.spotify.com/artist/3MN7LhOUWGVnrRAwc1vtvG) | [GILGAMESH](https://open.spotify.com/album/4yfjrGtClK3NfmzXRuV20y) | 3:08 |
+| 26 | [Time to Raise the Curtains](https://open.spotify.com/track/7MSH1qlIpKG1JNd0vhBhte) | [Nawather](https://open.spotify.com/artist/6Njxfc9KsYG0BxVEKEAtUI) | [Wasted Years](https://open.spotify.com/album/4m9InB8pZlZLUy1DsFBmAw) | 4:00 |
+| 27 | [Khoroto \(Gultrah Sound System\)](https://open.spotify.com/track/5JW5FWbRjkcANrIXxjHPJx) | [Znous](https://open.spotify.com/artist/3Z5dr3yRC0mbwGzkGoCYyx) | [Znousland 2](https://open.spotify.com/album/0HXnt2qsur4HpiY1DlRI6e) | 4:02 |
+| 28 | [Blind Fate \(Turab\)](https://open.spotify.com/track/6YJxrjI7Y53MCKWEzdxDta) | [Esodic](https://open.spotify.com/artist/46XPKhmZCbqaixuDpJsC4S) | [Mirrors of Disgrace](https://open.spotify.com/album/2myDafpzzFLHe6nw7LWGyh) | 4:45 |
 | 29 | [Insomnia Kid](https://open.spotify.com/track/1fnCKZ8ikOhckUwvBMGLLW) | [The Kordz](https://open.spotify.com/artist/4WPWekPBzsyjbhozJbmaGK) | [Beauty & The East](https://open.spotify.com/album/4qMzRLbzpN3idUrdXJakhx) | 4:32 |
 | 30 | [I Am the Beast](https://open.spotify.com/track/3esEno7VbHhFQly6SYeBV8) | [Ambrotype](https://open.spotify.com/artist/2kgkOFR0aUzwtamaD010iD) | [The Revelations](https://open.spotify.com/album/1tKEYkjR1fmLJeUHYouPhG) | 11:06 |
 
-Snapshot ID: `MCw3MGQ5YTQxMGQ0YWJjOTk2ZjNhM2Y5MjU0YmJkZjUwNmZhNTYyOTA3`
+Snapshot ID: `MCxkM2QzYjcwMjFjMjY3ZTIxNTZhYTRjZjc3ODFiYmNjYTcwN2I4NTI0`

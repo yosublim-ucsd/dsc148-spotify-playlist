@@ -2,7 +2,7 @@
 
 ### [Plus Ultra](https://open.spotify.com/playlist/37i9dQZF1DX14EWeH2Pwf3)
 
-> La playlist urban più grande d'Italia 🔥 Cover: Sfera Ebbasta
+> La playlist urban più grande d'Italia 🔥 Cover: Sfera Ebbasta\.  <a href="spotify:playlist:37i9dQZF1DWYQKKZPHGppf">Scopri il Best Of del 2023 qui!</a>
 
 392 songs - 19 hr 19 min
 

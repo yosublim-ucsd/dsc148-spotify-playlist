@@ -4,7 +4,7 @@
 
 > Detroit <a href="spotify:genre:techno">Techno</a> Essentials\. Cover: DJ Minx.
 
-79 songs - 7 hr 44 min
+80 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,12 +47,13 @@
 | [Lightyears](https://open.spotify.com/track/4SFEzGRviQqJpZHtQjDAA5) | [Juan Atkins](https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh), [Moritz Von Oswald](https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q) | [Juan Atkins & Moritz von Oswald Present Borderland: Transport](https://open.spotify.com/album/7kTo32LJe7JOUiYnsATgLT) | 6:07 | 2022-07-22 |  |
 | [Low Life](https://open.spotify.com/track/1MBHNJsI9KV84lxaV5bhVl) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Clocks / Low Life / Go](https://open.spotify.com/album/3mTABh6bXq2UMtpyxuvXI1) | 5:34 | 2021-12-03 |  |
 | [Maintain](https://open.spotify.com/track/3YEtKgCDIWcMpX7tSndngc) | [Cybotron](https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm) | [Maintain](https://open.spotify.com/album/6DebFF03htFDbSBppriyyM) | 4:56 | 2023-09-15 | 2023-11-18 |
+| [Maintain](https://open.spotify.com/track/5bPOMaHvchTI5nlnvl9VJB) | [Cybotron](https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm) | [Maintain](https://open.spotify.com/album/0EKfOlx4buzvQPIRcITgqe) | 4:56 | 2023-10-26 |  |
 | [Make Me Laugh](https://open.spotify.com/track/4Xq068QQqtTiuPpiGVfsyA) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [Sounds](https://open.spotify.com/album/6639iZ8oPeMPXZqgh8Vd0V) | 4:33 | 2021-12-03 | 2022-07-29 |
 | [Never Grow Old \- Re\-Plant](https://open.spotify.com/track/4ylwhtHT57G5VbpVMyUIBR) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [Never Grow Old \(Re\-Plant\) / Phobia \(Re\-Plant\)](https://open.spotify.com/album/7nIB2qmP6H7svgk8bIaQC2) | 7:19 | 2021-12-03 |  |
 | [No Ufo's \- Vocal](https://open.spotify.com/track/1Ro7L7RPp5P8heOfW4EQKA) | [Model 500](https://open.spotify.com/artist/2Djz8cbEv5rtrYrJYdzQ20) | [No Ufo's \(Original Version\)](https://open.spotify.com/album/2HPsmy1REVIz76Ow7cEGWg) | 4:18 | 2021-12-03 |  |
 | [Nothing Stops Detroit](https://open.spotify.com/track/5LA7nrS9TZGCUJ71ctNqma) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Mirror Man](https://open.spotify.com/album/5alFkFcTcPwVu2m5VpiFsB) | 6:33 | 2023-10-26 |  |
 | [Nothing Stops Detroit](https://open.spotify.com/track/5nNJEUFkgZB0olDGybR59S) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Mirror Man](https://open.spotify.com/album/4Lt9RcisVkCyWynK67kCQo) | 6:33 | 2021-12-03 | 2023-11-05 |
-| [On A Journey](https://open.spotify.com/track/1DzZRyXgpD3IlRqsC7fqzD) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [On A Journey](https://open.spotify.com/album/1qg6gKQtN4rOrHQp1qv412) | 4:31 | 2021-12-03 |  |
+| [On A Journey](https://open.spotify.com/track/1DzZRyXgpD3IlRqsC7fqzD) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [On A Journey](https://open.spotify.com/album/1qg6gKQtN4rOrHQp1qv412) | 4:31 | 2021-12-03 | 2023-11-30 |
 | [One Nation](https://open.spotify.com/track/7ygTdMWOt9OrP6dFHbBuEc) | [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [e\-Dancer](https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ) | [One Nation](https://open.spotify.com/album/4ueHBbYbDGOpRTdKBbBoFm) | 3:22 | 2021-12-03 | 2022-07-29 |
 | [Oombah \- Kevin Saunderson & Justin Cholewski Remix](https://open.spotify.com/track/1KPHiod0TyJGPCAARAKfuS) | [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [e\-Dancer](https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ), [Virus J](https://open.spotify.com/artist/1gBvJcwTpQU8wun5viRcGw) | [Oombah \(Kevin Saunderson & Justin Cholewski Remix\)](https://open.spotify.com/album/0CgtT4baVe2QEDKOA853DD) | 3:10 | 2021-12-03 |  |
 | [Pennies From Heaven \(Remastered\)](https://open.spotify.com/track/4EfIHd5ymQthDOEpZifCZ9) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG) | [Pennies From Heaven \(Remastered\)](https://open.spotify.com/album/0OU1d6ClYVzKrvtNzZANKB) | 3:18 | 2021-12-03 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Your music. Your faith. Your life. This is Pop for life!  Cover artist: Blessing Offor",
-  "num_followers": 202896,
+  "num_followers": 202925,
   "original_name": "Pop for Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YmUwYmQ2MDdmYmJlOGRlZDI5YWY0NmU2YzA3ZTcyOTM0ZGIzZWYx",
+  "snapshot_id": "MCxlOGRhYzk1OGJmZTNmZGYyZTk1Mzg0NGY0OGJhYzUzZGFlOWFkM2Nl",
   "tracks": [
     {
       "added_at": "2023-01-13 21:46:56",
@@ -299,6 +299,22 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/340FbhdsCrkuXovyIzOJUD"
+      },
+      "artists": [
+        {
+          "name": "ISLY",
+          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
+        }
+      ],
+      "duration_ms": 296666,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/6wJlHOOiL3zByo3kE7esCx"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
         "name": "You, Me, The Church, That's Us - Side A",
         "url": "https://open.spotify.com/album/1X0arfGuBkEscqJuBtCtl4"
       },
@@ -311,6 +327,22 @@
       "duration_ms": 185910,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/7l1zEDrW54eHBlNEE75NRB"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "This Is Love",
+        "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
+      },
+      "artists": [
+        {
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+        }
+      ],
+      "duration_ms": 191476,
+      "name": "This Is Love",
+      "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -335,38 +367,6 @@
       "duration_ms": 225946,
       "name": "Jireh (feat. Lloyd Nicks & Vanessa Campagna)",
       "url": "https://open.spotify.com/track/71YmBl6TseDCGA1DXfudvE"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
-        "name": "This Is Love",
-        "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
-      },
-      "artists": [
-        {
-          "name": "Stars Go Dim",
-          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
-        }
-      ],
-      "duration_ms": 191476,
-      "name": "This Is Love",
-      "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/340FbhdsCrkuXovyIzOJUD"
-      },
-      "artists": [
-        {
-          "name": "ISLY",
-          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
-        }
-      ],
-      "duration_ms": 296666,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/6wJlHOOiL3zByo3kE7esCx"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Curtain Call",
-        "url": "https://open.spotify.com/album/0RBgOR4pSFBZwc7EFwONDt"
-      },
-      "artists": [
-        {
-          "name": "MORIAH",
-          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
-        }
-      ],
-      "duration_ms": 232063,
-      "name": "Worth",
-      "url": "https://open.spotify.com/track/6ysHdrLOqZODoLntonGcRK"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Down (Remix)",
         "url": "https://open.spotify.com/album/6MP2d8QD6j3K9xAETIKxPD"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 185510,
       "name": "Down (Remix)",
       "url": "https://open.spotify.com/track/5mmmjhQjqh7HxmAcVbKn4u"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Curtain Call",
+        "url": "https://open.spotify.com/album/0RBgOR4pSFBZwc7EFwONDt"
+      },
+      "artists": [
+        {
+          "name": "MORIAH",
+          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
+        }
+      ],
+      "duration_ms": 232063,
+      "name": "Worth",
+      "url": "https://open.spotify.com/track/6ysHdrLOqZODoLntonGcRK"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -755,18 +755,18 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Broken Is Beautiful",
-        "url": "https://open.spotify.com/album/6Wx2aYawDBnNXuJhfQbtgK"
+        "name": "In the Upper Room",
+        "url": "https://open.spotify.com/album/0ScmxdqoawzE3bXX5DzNPC"
       },
       "artists": [
         {
-          "name": "The Young Escape",
-          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
+          "name": "Spencer Annis",
+          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
         }
       ],
-      "duration_ms": 250909,
-      "name": "Broken Is Beautiful",
-      "url": "https://open.spotify.com/track/0D7tG0LWJLqpSkrUacfBRh"
+      "duration_ms": 166632,
+      "name": "Right With You",
+      "url": "https://open.spotify.com/track/3CR8WSfLJ3DX0uSSBKmg9n"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -831,18 +831,18 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "In the Upper Room",
-        "url": "https://open.spotify.com/album/0ScmxdqoawzE3bXX5DzNPC"
+        "name": "Broken Is Beautiful",
+        "url": "https://open.spotify.com/album/6Wx2aYawDBnNXuJhfQbtgK"
       },
       "artists": [
         {
-          "name": "Spencer Annis",
-          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
+          "name": "The Young Escape",
+          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
         }
       ],
-      "duration_ms": 166632,
-      "name": "Right With You",
-      "url": "https://open.spotify.com/track/3CR8WSfLJ3DX0uSSBKmg9n"
+      "duration_ms": 250909,
+      "name": "Broken Is Beautiful",
+      "url": "https://open.spotify.com/track/0D7tG0LWJLqpSkrUacfBRh"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -895,6 +895,22 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
+        "name": "Searching For",
+        "url": "https://open.spotify.com/album/7zY4HF5n4vHhlTp7hAuPPf"
+      },
+      "artists": [
+        {
+          "name": "ISLY",
+          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
+        }
+      ],
+      "duration_ms": 255118,
+      "name": "Searching For",
+      "url": "https://open.spotify.com/track/1c57E3GgckZveqzUkDzvqd"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
         "name": "Unashamed",
         "url": "https://open.spotify.com/album/05X5UgfB1kaWNrm39td1ey"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 178928,
       "name": "Unashamed",
       "url": "https://open.spotify.com/track/4WnlXxOMelpUpHAkToKf40"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
-        "name": "Searching For",
-        "url": "https://open.spotify.com/album/7zY4HF5n4vHhlTp7hAuPPf"
-      },
-      "artists": [
-        {
-          "name": "ISLY",
-          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
-        }
-      ],
-      "duration_ms": 255118,
-      "name": "Searching For",
-      "url": "https://open.spotify.com/track/1c57E3GgckZveqzUkDzvqd"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Future",
-        "url": "https://open.spotify.com/album/250asL6HXVThavIF7t9rBc"
-      },
-      "artists": [
-        {
-          "name": "WE ARE ONE",
-          "url": "https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd"
-        }
-      ],
-      "duration_ms": 205377,
-      "name": "Future",
-      "url": "https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Step Into The Fight (Gregatron Remix)",
         "url": "https://open.spotify.com/album/51CtTp4TGVtbm1rFoja0lk"
       },
@@ -1251,18 +1235,18 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "More Than Halfway",
-        "url": "https://open.spotify.com/album/4mEerAhqml8ALLnBOzZm1n"
+        "name": "Future",
+        "url": "https://open.spotify.com/album/250asL6HXVThavIF7t9rBc"
       },
       "artists": [
         {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+          "name": "WE ARE ONE",
+          "url": "https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd"
         }
       ],
-      "duration_ms": 221453,
-      "name": "More Than Halfway",
-      "url": "https://open.spotify.com/track/4tG9V6oCruIY1xovDGgDXg"
+      "duration_ms": 205377,
+      "name": "Future",
+      "url": "https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1295,6 +1279,22 @@
       "duration_ms": 204613,
       "name": "Nothing But The Truth",
       "url": "https://open.spotify.com/track/7trY7vybnipAG4fbm53TMT"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "More Than Halfway",
+        "url": "https://open.spotify.com/album/4mEerAhqml8ALLnBOzZm1n"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "duration_ms": 221453,
+      "name": "More Than Halfway",
+      "url": "https://open.spotify.com/track/4tG9V6oCruIY1xovDGgDXg"
     },
     {
       "added_at": "2023-01-13 21:46:56",

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Djalil
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,953 likes - 60 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,771 likes - 60 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [La Nti Mrida](https://open.spotify.com/track/0uDM6l1BBitqbTVTkidtKz) | [Faycel cholé](https://open.spotify.com/artist/55b0Nu2e9Qoq0rMl6A51As) | [La Nti Mrida](https://open.spotify.com/album/11HL5lFB24mx4ORbibsFXj) | 8:21 |
-| 2 | [Nifi Wala Autoroute](https://open.spotify.com/track/4gqg0rUZRt8q5g3FkVtyHG) | [Cheb Zizou](https://open.spotify.com/artist/0jqfKafpVfBYPUgSLhW7dY) | [Nifi Wala Autoroute](https://open.spotify.com/album/4AW5xFzNd6OXGhXVhuCfsb) | 2:31 |
-| 3 | [ماتفكروهاش خلوها ناسيا](https://open.spotify.com/track/5Ax3wWbzNHGH4nyV3fEu95) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl), [Cheb Mirou](https://open.spotify.com/artist/39O6tDnyxN5GNWhjHRkjNa) | [ماتفكروهاش خلوها ناسيا](https://open.spotify.com/album/7rzjlXhVqDHpOktPXjgRNl) | 6:12 |
-| 4 | [Choufou lamour madar fiya](https://open.spotify.com/track/1lduNwd2JPXTlTBgYlGmre) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [Choufou lamour madar fiya](https://open.spotify.com/album/0ZVGBiwlUZIFKljBm7btnG) | 3:08 |
+| 1 | [Allo Oui](https://open.spotify.com/track/0FvnIUp3c3YRawAkprTCp6) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [Allo Oui](https://open.spotify.com/album/0Y98q8LciCVvefjIvkCZlR) | 3:20 |
+| 2 | [La Nti Mrida](https://open.spotify.com/track/0uDM6l1BBitqbTVTkidtKz) | [Faycel cholé](https://open.spotify.com/artist/55b0Nu2e9Qoq0rMl6A51As) | [La Nti Mrida](https://open.spotify.com/album/11HL5lFB24mx4ORbibsFXj) | 8:21 |
+| 3 | [Nifi Wala Autoroute](https://open.spotify.com/track/4gqg0rUZRt8q5g3FkVtyHG) | [Cheb Zizou](https://open.spotify.com/artist/0jqfKafpVfBYPUgSLhW7dY) | [Nifi Wala Autoroute](https://open.spotify.com/album/4AW5xFzNd6OXGhXVhuCfsb) | 2:31 |
+| 4 | [ماتفكروهاش خلوها ناسيا](https://open.spotify.com/track/5Ax3wWbzNHGH4nyV3fEu95) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl), [Cheb Mirou](https://open.spotify.com/artist/39O6tDnyxN5GNWhjHRkjNa) | [ماتفكروهاش خلوها ناسيا](https://open.spotify.com/album/7rzjlXhVqDHpOktPXjgRNl) | 6:12 |
 | 5 | [Ndamt 3Lik](https://open.spotify.com/track/5nH6y9Oz5mv1b0gfREbe1d) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM) | [Ndamt 3Lik](https://open.spotify.com/album/6dAnabX8QR4W0qrUw1GU51) | 6:03 |
 | 6 | [Wah wah wah](https://open.spotify.com/track/64aYuL3Ex4BiVBzH2UjTXl) | [jilali boumelah](https://open.spotify.com/artist/6Iw0Ex7lNpa8j9kJmygfep) | [Wah wah wah](https://open.spotify.com/album/2vNS4WI2WROlRUhBKzpHUJ) | 4:06 |
 | 7 | [Rani Maghboun](https://open.spotify.com/track/4XYuaMdBaaMhjJRLnLT4UL) | [Hichem Smati](https://open.spotify.com/artist/4NqyeNqz4XfIeEWrXPknYJ), [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Rani Maghboun](https://open.spotify.com/album/1SsVP5ORISo4tbs1SQbd8K) | 6:59 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 59 | [Ma vie 2 fois](https://open.spotify.com/track/52XknVywsSWwVXwcxl6WAP) | [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J) | [dellali](https://open.spotify.com/album/1sUJo5AFoHomnM2ANQk28m) | 4:07 |
 | 60 | [Lokan jiti mra msagma](https://open.spotify.com/track/3bNYR1sMmvQ9X7qAb1o6zi) | [Yacine Tigre](https://open.spotify.com/artist/3KyPN9BFlpyEEAy4vCs8l4) | [Lokan jiti mra msagma](https://open.spotify.com/album/50IvpHMMhTH49ZuAQtOzvW) | 5:39 |
 
-Snapshot ID: `MCwyNjMxODUwNzAzOGI5ZTNlY2IwMTMwNjk4MmRjMDhlYjg5MjE0MDIy`
+Snapshot ID: `MCw5NGQ0MmJjZmY0NzljMWI1ZmI3ODcxMDIyNGEyYjcyMjA2NWQwYWE4`

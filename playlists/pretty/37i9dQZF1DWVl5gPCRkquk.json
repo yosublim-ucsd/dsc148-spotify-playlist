@@ -1,12 +1,12 @@
 {
   "description": "Channel some chilled-out back yard vibes.",
-  "num_followers": 872817,
+  "num_followers": 872818,
   "original_name": "Chill Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNmNiZjRiMzNjODA4MWYwMWE2ZTUzNzkyZTk5MmUzZGE2MjcxNDRk",
+  "snapshot_id": "MCwyNGIwYTAyNmE4MTkxMjg4MGQ1MjYyMzgxNDgxOGI5MDBmNDdiZGNl",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Blue Heron Suite",
-        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 208746,
-      "name": "Morning",
-      "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Ana\u00efs Mitchell",
         "url": "https://open.spotify.com/album/2XVyQw7WE4hAozLKcUTuHD"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 190586,
       "name": "Bright Star",
       "url": "https://open.spotify.com/track/582t08OyJrrpS35HyWSruM"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Blue Heron Suite",
+        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 208746,
+      "name": "Morning",
+      "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Another good year for the roses",
-        "url": "https://open.spotify.com/album/56qRporNZTzZiqwfJaEsV0"
-      },
-      "artists": [
-        {
-          "name": "Kurt Vile",
-          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
-        }
-      ],
-      "duration_ms": 334754,
-      "name": "Another good year for the roses",
-      "url": "https://open.spotify.com/track/1YoOb9usnbDLSAACSSCwzP"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Deadeye",
         "url": "https://open.spotify.com/album/2jqeCy5ydYWWWYB11VMS2V"
       },
@@ -1031,22 +1015,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Before the Bridge",
-        "url": "https://open.spotify.com/album/3xY0Wdf37DDDWjyi89g9pj"
-      },
-      "artists": [
-        {
-          "name": "Eddie Berman",
-          "url": "https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql"
-        }
-      ],
-      "duration_ms": 229800,
-      "name": "Easy Rider",
-      "url": "https://open.spotify.com/track/16bjzffqGoXKFQ5DYJlsxU"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Radiator",
         "url": "https://open.spotify.com/album/5HskvGWXnVcfBg1K2Ff0nA"
       },
@@ -1059,6 +1027,38 @@
       "duration_ms": 234783,
       "name": "radiator",
       "url": "https://open.spotify.com/track/3etIVTF6tbIsRhSDJuj9KA"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Another good year for the roses",
+        "url": "https://open.spotify.com/album/56qRporNZTzZiqwfJaEsV0"
+      },
+      "artists": [
+        {
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+        }
+      ],
+      "duration_ms": 334754,
+      "name": "Another good year for the roses",
+      "url": "https://open.spotify.com/track/1YoOb9usnbDLSAACSSCwzP"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Before the Bridge",
+        "url": "https://open.spotify.com/album/3xY0Wdf37DDDWjyi89g9pj"
+      },
+      "artists": [
+        {
+          "name": "Eddie Berman",
+          "url": "https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql"
+        }
+      ],
+      "duration_ms": 229800,
+      "name": "Easy Rider",
+      "url": "https://open.spotify.com/track/16bjzffqGoXKFQ5DYJlsxU"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "I Won't",
-        "url": "https://open.spotify.com/album/0JY74Lv3SoBtoWWorW5j6s"
-      },
-      "artists": [
-        {
-          "name": "Dekker",
-          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
-        }
-      ],
-      "duration_ms": 198001,
-      "name": "I Won't",
-      "url": "https://open.spotify.com/track/57RjBtEPLGPacFQRs4N9Ca"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "In the Magic Hour",
         "url": "https://open.spotify.com/album/5cUCgoaLWfzbwZRLVCIqTe"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 170213,
       "name": "Stanley Park",
       "url": "https://open.spotify.com/track/55AYJIzCkooNo1rycySEok"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "I Won't",
+        "url": "https://open.spotify.com/album/0JY74Lv3SoBtoWWorW5j6s"
+      },
+      "artists": [
+        {
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+        }
+      ],
+      "duration_ms": 198001,
+      "name": "I Won't",
+      "url": "https://open.spotify.com/track/57RjBtEPLGPacFQRs4N9Ca"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Flag Day (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
-      },
-      "artists": [
-        {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        }
-      ],
-      "duration_ms": 212546,
-      "name": "I Think Of Angels",
-      "url": "https://open.spotify.com/track/2OiTeK0Cjs1zGu6ZiA4yC2"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "First Mind",
         "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 248853,
       "name": "April",
       "url": "https://open.spotify.com/track/6J0OvmRxVmiRyLeJ0aBryf"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Flag Day (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 212546,
+      "name": "I Think Of Angels",
+      "url": "https://open.spotify.com/track/2OiTeK0Cjs1zGu6ZiA4yC2"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Same Sun EP",
+        "url": "https://open.spotify.com/album/3Qe2tQ4wk8f6wzSMgzjebH"
+      },
+      "artists": [
+        {
+          "name": "Ryan Harris",
+          "url": "https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG"
+        }
+      ],
+      "duration_ms": 159010,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/3TejUMaOZWJS2WynHIZnOW"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Seed of Joy",
         "url": "https://open.spotify.com/album/4ivyT3pP5juItg8Yblaqfn"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 210546,
       "name": "Seed of Joy",
       "url": "https://open.spotify.com/track/6kUQwpX1ogl5inar6fE3bx"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Same Sun EP",
-        "url": "https://open.spotify.com/album/3Qe2tQ4wk8f6wzSMgzjebH"
-      },
-      "artists": [
-        {
-          "name": "Ryan Harris",
-          "url": "https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG"
-        }
-      ],
-      "duration_ms": 159010,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/3TejUMaOZWJS2WynHIZnOW"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Carolina Rolling By",
-        "url": "https://open.spotify.com/album/09vc762pu9mS1mnKBIK9Sj"
+        "name": "Song for Nick Drake",
+        "url": "https://open.spotify.com/album/0tD7F0mOkgQliDESDRBLey"
       },
       "artists": [
         {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+          "name": "Skullcrusher",
+          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
         }
       ],
-      "duration_ms": 295380,
-      "name": "Carolina Rolling By",
-      "url": "https://open.spotify.com/track/3KPbfMIQy43Wc9XbhmaIFy"
+      "duration_ms": 177387,
+      "name": "Song for Nick Drake",
+      "url": "https://open.spotify.com/track/1ZMpeW7DIRIpWCpFxAFuf6"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Song for Nick Drake",
-        "url": "https://open.spotify.com/album/0tD7F0mOkgQliDESDRBLey"
-      },
-      "artists": [
-        {
-          "name": "Skullcrusher",
-          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
-        }
-      ],
-      "duration_ms": 177387,
-      "name": "Song for Nick Drake",
-      "url": "https://open.spotify.com/track/1ZMpeW7DIRIpWCpFxAFuf6"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "How Long Do You Think It's Gonna Last?",
         "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 218426,
       "name": "Latter Days",
       "url": "https://open.spotify.com/track/7wOdJjz1WHJiBdzKSZWszu"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Carolina Rolling By",
+        "url": "https://open.spotify.com/album/09vc762pu9mS1mnKBIK9Sj"
+      },
+      "artists": [
+        {
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+        }
+      ],
+      "duration_ms": 295380,
+      "name": "Carolina Rolling By",
+      "url": "https://open.spotify.com/track/3KPbfMIQy43Wc9XbhmaIFy"
     },
     {
       "added_at": "2023-10-20 04:00:00",

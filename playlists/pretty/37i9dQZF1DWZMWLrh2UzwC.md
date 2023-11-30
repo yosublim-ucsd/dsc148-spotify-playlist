@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Alextbh
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,227 likes - 84 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,243 likes - 84 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 20 | [orbit](https://open.spotify.com/track/1xMtUb8b1DxW89FJfxOwPN) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [orbit](https://open.spotify.com/album/5xLRIrNswkxjD0U0z47Rw2) | 3:09 |
 | 21 | [Oral](https://open.spotify.com/track/6VCNxAwxA83j2jE3QZpYPr) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Oral](https://open.spotify.com/album/0Jldmuyjx6v7nMefI7y00r) | 3:42 |
 | 22 | [Memory Lane](https://open.spotify.com/track/7hHrs2q5c5rtzHLJ2DKHTT) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Memory Lane & Winter Song](https://open.spotify.com/album/5IvpvVd9LKgHACcUSHL5Y8) | 3:12 |
-| 23 | [Throw Your Arms Around Me](https://open.spotify.com/track/0CVwSCQOx3CMHjwDCmaElh) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Mushroom: 50 Years Of Making Noise \(Reimagined\)](https://open.spotify.com/album/4SRtPtUkg4izzJZ2Kr2LMJ) | 3:03 |
+| 23 | [Throw Your Arms Around Me](https://open.spotify.com/track/0CVwSCQOx3CMHjwDCmaElh) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Mushroom: 50 Years of Making Noise \(Reimagined\)](https://open.spotify.com/album/4SRtPtUkg4izzJZ2Kr2LMJ) | 3:03 |
 | 24 | [The Brave](https://open.spotify.com/track/2C0zR1j4Xd5JVSrMABMFSG) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [The Brave](https://open.spotify.com/album/1LIrHjmcINgiNpzx1NvbhB) | 3:14 |
 | 25 | [ドレスコード \(Prod\. imase\)](https://open.spotify.com/track/3o0Nlc7DVVC39pfv4nTi9Y) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ドレスコード \(Prod\. imase\)](https://open.spotify.com/album/6IDmSxLLVK1EaJtC9Y6KmV) | 3:36 |
 | 26 | [Jingle Bell Rock](https://open.spotify.com/track/0ijCESscFXtRc0dtDgu1Uv) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Jingle Bell Rock](https://open.spotify.com/album/7dSaBwUid0hjWdJ5QzIKyu) | 2:10 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 83 | [Grape Soda](https://open.spotify.com/track/5KJAvewEPVPOU3OnL6bhwH) | [Gabe Watkins](https://open.spotify.com/artist/2GtFIN8b3SolBC7mmCPAAA) | [Grape Soda](https://open.spotify.com/album/6skFJuskZ23J7NXBNfFR8z) | 3:35 |
 | 84 | [Memory Lane](https://open.spotify.com/track/6Z9dmhwOZ3wlCfCrjkWMNk) | [CHUROSE](https://open.spotify.com/artist/4y9Jhm3jRfDCgGJ3kgyGDp) | [Memory Lane](https://open.spotify.com/album/0aLUKwVWBquLge7Ztf2LO4) | 3:18 |
 
-Snapshot ID: `MCwxYzkzOTdiZTQ5ZTA2MTFkNWYzMjMxYWExMjhjMmJmOGFhYzU0MDIw`
+Snapshot ID: `MCwzMWI3YmM1NjA5NWY1ZGRhMDk5YWQwYTljM2MxZWQ1NDk0NDE0ZTcx`

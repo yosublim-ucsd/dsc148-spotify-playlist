@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 
 > ¡Hasta las 15! Monster merengue hits! Cover: Olga Tañón
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,571 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,597 likes - 100 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 46 | [Te Voy a Hacer Falta](https://open.spotify.com/track/4KU0EUeD26y6PUGiHGjGBz) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Mas Rika Que Nunca](https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO) | 4:24 |
 | 47 | [Patacón Pisao](https://open.spotify.com/track/7J3rDUSA4vDHaqHPblboTU) | [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus) | [10 De Colección](https://open.spotify.com/album/4se9bp1pffpDBHyzFWD4YV) | 4:35 |
 | 48 | [Anoche Hablamos de Amor](https://open.spotify.com/track/0ElCcbF18PWFCLzMwIJU9m) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Vete y Dile](https://open.spotify.com/album/3bLNzJGuGCJCPnJw4lqwTn) | 4:31 |
-| 49 | [Pegame Tu Vicio](https://open.spotify.com/track/25ILWrCvXPpkUFU0R7znEv) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Me Enamore](https://open.spotify.com/album/5yhEOwF6bRo08QhTGU9FQC) | 5:00 |
-| 50 | [Cuarto de Hotel](https://open.spotify.com/track/14O3hLuJMDRC8800QjuILq) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [12 Golden Hits](https://open.spotify.com/album/04irf8DoODG5y4esqlnLEI) | 4:58 |
+| 49 | [Cuarto de Hotel](https://open.spotify.com/track/14O3hLuJMDRC8800QjuILq) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [12 Golden Hits](https://open.spotify.com/album/04irf8DoODG5y4esqlnLEI) | 4:58 |
+| 50 | [Pegame Tu Vicio](https://open.spotify.com/track/25ILWrCvXPpkUFU0R7znEv) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Me Enamore](https://open.spotify.com/album/5yhEOwF6bRo08QhTGU9FQC) | 5:00 |
 | 51 | [Kiliki Taka Ti](https://open.spotify.com/track/7zSuMBPE82UBr6eNpJEzSd) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Lo Mejor De...Toño Rosario](https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t) | 6:40 |
 | 52 | [Ay!](https://open.spotify.com/track/6vU2DPeCqKSvXUCgTaD5cS) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Sacúdelo Que Tiene Arena](https://open.spotify.com/album/0n5HXhJ7ouB3y1a9JbLgQg) | 3:51 |
 | 53 | [El Africano](https://open.spotify.com/track/04bMI6KabOuaqBBgBvaa32) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Serie 2000](https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m) | 4:11 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 62 | [Asesina](https://open.spotify.com/track/68VJAoIwl72kQXzAm01cqG) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [12 Golden Hits](https://open.spotify.com/album/04irf8DoODG5y4esqlnLEI) | 4:46 |
 | 63 | [El Cantinero](https://open.spotify.com/track/5FLMNeZEdB0No8TebOXc0J) | [Jossie Esteban & La Patrulla 15](https://open.spotify.com/artist/0VpcWRPcfKxjqNIs82pPpb) | [O.K\. All Right](https://open.spotify.com/album/0APbv2lshYuYSoP7t4ypTv) | 5:18 |
 | 64 | [Soltemos al Mundo](https://open.spotify.com/track/66irfMtLkQh7H2F5zLclp8) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61), [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Soltemos al Mundo](https://open.spotify.com/album/70dAQDFwSbXPOWWYyEjagm) | 3:33 |
-| 65 | [Ámame](https://open.spotify.com/track/0Tj0Kg5cMVV1XiPeb8khrv) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Miriam Cruz](https://open.spotify.com/artist/4O2mePlghucfEGSsMSmjWL) | [Ámame](https://open.spotify.com/album/597baQKoB3ONSe3Q5Q89DK) | 3:48 |
-| 66 | [El Virao](https://open.spotify.com/track/2GnGoXexzccSQtPEERPgGh) | [Los Cantantes](https://open.spotify.com/artist/1OK49IC8PfUPbAtQRv2ryh) | [El Virao](https://open.spotify.com/album/5Le90IA8Ywp9Td8Ad2sw9P) | 4:12 |
+| 65 | [El Virao](https://open.spotify.com/track/2GnGoXexzccSQtPEERPgGh) | [Los Cantantes](https://open.spotify.com/artist/1OK49IC8PfUPbAtQRv2ryh) | [El Virao](https://open.spotify.com/album/5Le90IA8Ywp9Td8Ad2sw9P) | 4:12 |
+| 66 | [Ámame](https://open.spotify.com/track/0Tj0Kg5cMVV1XiPeb8khrv) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Miriam Cruz](https://open.spotify.com/artist/4O2mePlghucfEGSsMSmjWL) | [Ámame](https://open.spotify.com/album/597baQKoB3ONSe3Q5Q89DK) | 3:48 |
 | 67 | [La Vida Da Vuelta](https://open.spotify.com/track/2sJkbRybtcw6nq9sN4fpad) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [La Vida Da Vuelta](https://open.spotify.com/album/1U5Ulw5MM2Qv5BafWrF4h1) | 2:42 |
 | 68 | [La Reunión 5 : La Bailadora / El Amor Más Grande del Planeta / Si Tu Te Vas / Tu Hombre Soy Yo / Un Idiota / Voy a Beber / Nuestro Amor / Mi Celosa Hermosa / Tú Eres Ajena / Borracha \- En Vivo](https://open.spotify.com/track/4tLNxU08ccx6jrj3MK14ol) | [La Reunión](https://open.spotify.com/artist/2DYGASY9WYBWoUkjwqq9c4), [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [La Reunión 5 : La Bailadora / El Amor Más Grande del Planeta / Si Tu Te Vas / Tu Hombre Soy Yo / Un Idiota / Voy a Beber / Nuestro Amor / Mi Celosa Hermosa / Tú Eres Ajena / Borracha \(En Vivo\)](https://open.spotify.com/album/05Fh3kXjqRuHSZ6lDLX7zR) | 15:47 |
 | 69 | [Tus Mentiras](https://open.spotify.com/track/2g9FBhKSP6mM0WYaButfgA) | [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [Tus Mentiras](https://open.spotify.com/album/6NRvNitD7WdrrbxsVZ0MFZ) | 2:43 |
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 91 | [No Toy En Ti](https://open.spotify.com/track/0YMxfbonjLYbG4m9iEox7y) | [Henry Mendez](https://open.spotify.com/artist/4mnY9Vvz3GXQIyHljvWnY1), [Victor R \-Swag](https://open.spotify.com/artist/5Jz48JzVckf7ZUvrQc55Iq) | [No Toy En Ti](https://open.spotify.com/album/3ThubO1iZCTdnci01gnpSE) | 2:51 |
 | 92 | [Tú Eres Ajena](https://open.spotify.com/track/1H3buHXVp1smlFutuQTgZR) | [Omar Enrique](https://open.spotify.com/artist/6MBZlIvBB3e5IktjxqpdL7), [Eddy Herrera](https://open.spotify.com/artist/2dHwYqYxsj7IEgGu6dxraM) | [Con Las Canciones Que Crecí Vol\. 1](https://open.spotify.com/album/3lT1RrPQO1jpe19q7MzLoF) | 4:33 |
 | 93 | [La Faldita](https://open.spotify.com/track/3glDtaaom1yLlf8aVkHllx) | [Pochy Y Su Cocoband](https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu) | [La Faldita](https://open.spotify.com/album/7svwKm81mrsEdnGgtgrgRz) | 3:50 |
-| 94 | [Ni Tu Ni Yo](https://open.spotify.com/track/77cE5knaNTdMi3xwD4qpBv) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Juntos](https://open.spotify.com/album/6yq4tvlzSBaHvdsb8dPg2X) | 4:37 |
+| 94 | [Dile](https://open.spotify.com/track/1pGgGsZLPNPwVAMZgi0cpL) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Juntos](https://open.spotify.com/album/6yq4tvlzSBaHvdsb8dPg2X) | 5:02 |
 | 95 | [La Suegra](https://open.spotify.com/track/7bDoTCEpyesQRjPk0x8ky1) | [Caña Brava](https://open.spotify.com/artist/14C1tQKnUFJiWwKAp2Umga) | [Best Of The Best](https://open.spotify.com/album/3HSBkBA1hv9drUjHVhF3oA) | 4:41 |
 | 96 | [Me Miras Y Te Miro \- New Version](https://open.spotify.com/track/5yRdwws9A2CWy9caVCox6q) | [Grupo Mania](https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp) | [22 Ultimate Merengue Hits 2002](https://open.spotify.com/album/0eTqDy2Pkmo7REdNrXBBGQ) | 2:51 |
 | 97 | [Parece Una Nena](https://open.spotify.com/track/5WBOFWb8gpwzuSXiSqSVYL) | [Zona Roja](https://open.spotify.com/artist/2zXofGxFg93OZHBFAiweAI) | [15 Exitos De Pura Candela](https://open.spotify.com/album/34s5SEeyOMXc9MAy3jLGo6) | 4:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 99 | [El Costo De La Vida](https://open.spotify.com/track/5BQtqpUWEWujNim7fS5T6h) | [Rey Casas](https://open.spotify.com/artist/6oPOLmEagKe5lp1gedzGtk) | [Juan Luis Guerra Y 440 \(Versiones Instrumentales\)](https://open.spotify.com/album/6V0WSIfBhB36oheVJNXh1p) | 2:28 |
 | 100 | [Una Fotografía](https://open.spotify.com/track/0Ur4zvtBeZ6T9dhHCoGuSW) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [Jn Music Group 40 Años de Merengue Deluxe Edition, Vol\. 2](https://open.spotify.com/album/0JXXIo9JN7EyiHXE4dTqUg) | 4:04 |
 
-Snapshot ID: `MCw5OTI4M2JhNTkzMThlMWZhMDI4ZmI1M2MzNmI5NTg1ZjI1NTI5OGVi`
+Snapshot ID: `MCw2Y2U1MjVkNjdiODNmZmQyMTEyOWZhN2Q5ZTE5Y2ZlYzZkMWQ1NjNj`

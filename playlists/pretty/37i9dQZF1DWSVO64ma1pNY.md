@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 
 > Life sucks...i need some rock!
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,857 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,906 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 | 57 | [wonderful life \(feat\. Dani Filth\)](https://open.spotify.com/track/0ceW5TkemJUEmJERavfqQq) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Dani Filth](https://open.spotify.com/artist/76qhZXwfMnhJPXacLwGcNK) | [amo](https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR) | 4:34 |
 | 58 | [hot girl bummer](https://open.spotify.com/track/1GIofMbTz83fXqNrEuf4bA) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [hot girl bummer](https://open.spotify.com/album/1ZxDNQug6sZYBfZa8FckkT) | 3:05 |
 | 59 | [snarky](https://open.spotify.com/track/1PSKMHBHkR0nbxMWNauF9r) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [kenopsia](https://open.spotify.com/album/72ilxCJIul1iivwSTAdoNp) | 4:05 |
-| 60 | [Along Comes Mary](https://open.spotify.com/track/5YpWUYiyidrtRzYedpXKiU) | [Bloodhound Gang](https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh) | [Hooray For Boobies](https://open.spotify.com/album/7BuCGZPiQkZpyn0Wj8rxIh) | 3:21 |
+| 60 | [Don't Stay](https://open.spotify.com/track/27gUeiai56GKF6TxvmPJut) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora \(Bonus Edition\)](https://open.spotify.com/album/0y13VbGddQ4azdVWakksAL) | 3:07 |
 | 61 | [Will Of The People](https://open.spotify.com/track/2xO0NhSt9kzKBbNjNVixfC) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 3:18 |
-| 62 | [Don't Stay](https://open.spotify.com/track/27gUeiai56GKF6TxvmPJut) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora \(Bonus Edition\)](https://open.spotify.com/album/0y13VbGddQ4azdVWakksAL) | 3:07 |
+| 62 | [Along Comes Mary](https://open.spotify.com/track/5YpWUYiyidrtRzYedpXKiU) | [Bloodhound Gang](https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh) | [Hooray For Boobies](https://open.spotify.com/album/7BuCGZPiQkZpyn0Wj8rxIh) | 3:21 |
 | 63 | [Love Bites \(So Do I\)](https://open.spotify.com/track/5l3gAGbkXFfPWxh4a3J8mp) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of..\. \(Deluxe\)](https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2) | 3:11 |
 | 64 | [Kill The Noise](https://open.spotify.com/track/3xr0ZIYqXVKogVu00fJRBX) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Kill The Noise](https://open.spotify.com/album/5Ob0D7DLOzpHe0KcZb67Ky) | 3:08 |
 | 65 | [Waking Lions](https://open.spotify.com/track/1VMSib83ZkffP22T64hxot) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Pop Evil](https://open.spotify.com/album/5F9U13GyT071nXmYf13VI9) | 3:51 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 | 95 | [11:11](https://open.spotify.com/track/3HtazJXet39mz8SqZwm5NP) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/4ojK5MjWXa8blo3bAyOVbJ) | 4:04 |
 | 96 | [Breathing](https://open.spotify.com/track/1pmNAKSjWFyg8dTs0tNIj7) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Halloween Mixtape II](https://open.spotify.com/album/11K5RRCKRsn5RCYWBNniD5) | 3:03 |
 | 97 | [Ce n'est Rien](https://open.spotify.com/track/6KeX6s6Q2FzInw2qvnqyOh) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Moral Panic \(The Complete Edition\)](https://open.spotify.com/album/3hDxbjNyiWDhOFBXSThxVF) | 3:00 |
-| 98 | [Next To Nothing](https://open.spotify.com/track/4kyCTcAbtt78Q2LC5ASSED) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Ours Is Chrome](https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE) | 4:04 |
-| 99 | [Who Needs Friends](https://open.spotify.com/track/7AXoSHtReIvoJPi5XKXecl) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 3:10 |
-| 100 | [Crazy](https://open.spotify.com/track/4e5GTUlVObWYB7WUkyKa7g) | [Makeout](https://open.spotify.com/artist/4RkIeqeY7seRZby4X73Ajk) | [The Good Life](https://open.spotify.com/album/5cxdVsmUNjq5w3D6Pgk4yJ) | 2:30 |
+| 98 | [Crazy](https://open.spotify.com/track/4e5GTUlVObWYB7WUkyKa7g) | [Makeout](https://open.spotify.com/artist/4RkIeqeY7seRZby4X73Ajk) | [The Good Life](https://open.spotify.com/album/5cxdVsmUNjq5w3D6Pgk4yJ) | 2:30 |
+| 99 | [Next To Nothing](https://open.spotify.com/track/4kyCTcAbtt78Q2LC5ASSED) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Ours Is Chrome](https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE) | 4:04 |
+| 100 | [Who Needs Friends](https://open.spotify.com/track/7AXoSHtReIvoJPi5XKXecl) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 3:10 |
 
-Snapshot ID: `MCwwMTc3MWJkOTQ2ZWYwYmJiODUwMGRkMDgyMzY1NDVhNzI2N2JkN2Q5`
+Snapshot ID: `MCw5NTEyMzUwZjBkZjEzNGU0MzI3M2U5YTkwMjAyMjNkNTdhZDhlOTcy`

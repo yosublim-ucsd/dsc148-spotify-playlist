@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: Kanine",
-  "num_followers": 51732,
+  "num_followers": 51779,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNGYzMWRmYjRlZTQxOTkyOWZjYTdlYzMyMDAzNWY4ZjNhODZiMmZk",
+  "snapshot_id": "MCwyYTllZTE4ODcwMjg5OGYzZTg3ZGI4NmI0NjhkNmMyNTIxNTg0Y2Zm",
   "tracks": [
     {
       "added_at": "2023-11-17 16:57:48",
@@ -727,6 +727,26 @@
     {
       "added_at": "2023-11-17 16:57:48",
       "album": {
+        "name": "Life Of The Party",
+        "url": "https://open.spotify.com/album/3dSI7I49Isxr3gFt4V7rHz"
+      },
+      "artists": [
+        {
+          "name": "General Levy",
+          "url": "https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I"
+        },
+        {
+          "name": "DJ Rap",
+          "url": "https://open.spotify.com/artist/68AFCxLSHARThf2XIYwY46"
+        }
+      ],
+      "duration_ms": 279566,
+      "name": "Life Of The Party",
+      "url": "https://open.spotify.com/track/0dYD2Z4SHcYdefhgSWfKmJ"
+    },
+    {
+      "added_at": "2023-11-17 16:57:48",
+      "album": {
         "name": "Tekkers Riddim",
         "url": "https://open.spotify.com/album/3BtA05Srx1Fz46MVvcHI1X"
       },
@@ -751,26 +771,6 @@
       "duration_ms": 240000,
       "name": "Tekkers Riddim (feat. Harry Shotta & Mr Traumatik)",
       "url": "https://open.spotify.com/track/0qmQbxSIt10XDEw90Bqvhx"
-    },
-    {
-      "added_at": "2023-11-17 16:57:48",
-      "album": {
-        "name": "Life Of The Party",
-        "url": "https://open.spotify.com/album/3dSI7I49Isxr3gFt4V7rHz"
-      },
-      "artists": [
-        {
-          "name": "General Levy",
-          "url": "https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I"
-        },
-        {
-          "name": "DJ Rap",
-          "url": "https://open.spotify.com/artist/68AFCxLSHARThf2XIYwY46"
-        }
-      ],
-      "duration_ms": 279566,
-      "name": "Life Of The Party",
-      "url": "https://open.spotify.com/track/0dYD2Z4SHcYdefhgSWfKmJ"
     },
     {
       "added_at": "2023-11-17 16:57:48",
@@ -907,26 +907,6 @@
     {
       "added_at": "2023-11-17 16:57:48",
       "album": {
-        "name": "Essence",
-        "url": "https://open.spotify.com/album/3F4ar2rzrcFUzxRSSVoTD9"
-      },
-      "artists": [
-        {
-          "name": "Andromedik",
-          "url": "https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T"
-        },
-        {
-          "name": "Patch Edison",
-          "url": "https://open.spotify.com/artist/0i592jj5zkb94alNCGfATI"
-        }
-      ],
-      "duration_ms": 237284,
-      "name": "You & I",
-      "url": "https://open.spotify.com/track/0laSPpzgD2rNatLXQwTyM2"
-    },
-    {
-      "added_at": "2023-11-17 16:57:48",
-      "album": {
         "name": "Skillz",
         "url": "https://open.spotify.com/album/1RpdC3AIXrHGQURbvUqswf"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 204621,
       "name": "Skillz",
       "url": "https://open.spotify.com/track/03F1wRaMhskWtit3JAaxUg"
+    },
+    {
+      "added_at": "2023-11-17 16:57:48",
+      "album": {
+        "name": "Essence",
+        "url": "https://open.spotify.com/album/3F4ar2rzrcFUzxRSSVoTD9"
+      },
+      "artists": [
+        {
+          "name": "Andromedik",
+          "url": "https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T"
+        },
+        {
+          "name": "Patch Edison",
+          "url": "https://open.spotify.com/artist/0i592jj5zkb94alNCGfATI"
+        }
+      ],
+      "duration_ms": 237284,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/0laSPpzgD2rNatLXQwTyM2"
     },
     {
       "added_at": "2023-11-17 16:57:48",

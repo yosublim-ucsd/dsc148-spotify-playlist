@@ -1,12 +1,12 @@
 {
   "description": "The greatest operatic and orchestral works of Rossini, featuring William Tell, The Barber of Seville and Cinderella.",
-  "num_followers": 33796,
+  "num_followers": 33803,
   "original_name": "This Is Rossini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTk5NWM4ODlhOTU4MzJmZDI4M2NhODI4YzlhYWUxNTc4MGM4OWFk",
+  "snapshot_id": "MCxmMGM2N2ZkMGFjMTI0Mjc2YjM0Y2M3MGJlODBiOTA0N2I2OTM4OGY2",
   "tracks": [
     {
       "added_at": "2022-06-28 08:38:32",
@@ -235,6 +235,30 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
+        "name": "Rossini: La gazza ladra (Live)",
+        "url": "https://open.spotify.com/album/2Yr7ygE0GfrjGutqpLLtNl"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Virtuosi Brunensis",
+          "url": "https://open.spotify.com/artist/2431DzejNRA0GjilEHsz8b"
+        },
+        {
+          "name": "Alberto Zedda",
+          "url": "https://open.spotify.com/artist/0HLu7PWY34eKZYZ7DUdT30"
+        }
+      ],
+      "duration_ms": 561640,
+      "name": "La gazza ladra: Sinfonia",
+      "url": "https://open.spotify.com/track/35Zwf6TpJ6k5u7isLsvvNk"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
         "name": "Rossini: La Cenerentola",
         "url": "https://open.spotify.com/album/7l63teUxbSza8o8gG9SLc4"
       },
@@ -263,30 +287,6 @@
       "duration_ms": 98906,
       "name": "La Cenerentola / Act 1: \"No, no, no non v'\u00e8\"",
       "url": "https://open.spotify.com/track/3tyVaUyQJeukAdBgHs9dXB"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
-        "name": "Rossini: La gazza ladra (Live)",
-        "url": "https://open.spotify.com/album/2Yr7ygE0GfrjGutqpLLtNl"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Virtuosi Brunensis",
-          "url": "https://open.spotify.com/artist/2431DzejNRA0GjilEHsz8b"
-        },
-        {
-          "name": "Alberto Zedda",
-          "url": "https://open.spotify.com/artist/0HLu7PWY34eKZYZ7DUdT30"
-        }
-      ],
-      "duration_ms": 561640,
-      "name": "La gazza ladra: Sinfonia",
-      "url": "https://open.spotify.com/track/35Zwf6TpJ6k5u7isLsvvNk"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -611,6 +611,34 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
+        "name": "Mendelssohn, Rossini and Bruch: Works for Clarinet and Orchestra",
+        "url": "https://open.spotify.com/album/60FU2wGKY059HcMOQa4ugc"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Prague Philharmonia",
+          "url": "https://open.spotify.com/artist/39FuQKH2MKSPyAsRqdHj0N"
+        },
+        {
+          "name": "Ji\u0159\u00ed B\u011blohl\u00e1vek",
+          "url": "https://open.spotify.com/artist/1b5qV5N8eWF48rJSGIOEBx"
+        },
+        {
+          "name": "Ludmila Peterkov\u00e1",
+          "url": "https://open.spotify.com/artist/16q3r2R7huL7liVkEzI3EU"
+        }
+      ],
+      "duration_ms": 499626,
+      "name": "Variazzioni di clarinetto in C Major",
+      "url": "https://open.spotify.com/track/1UERWmNIaSWiGKfElxFqgj"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
         "name": "Rossini: L'Italiana in Algeri",
         "url": "https://open.spotify.com/album/1eLVymZVT0Fc9H18MiX8V9"
       },
@@ -663,34 +691,6 @@
       "duration_ms": 241946,
       "name": "L'Italiana in Algeri (The Italian Girl in Algiers): Act II Scene 4: Aria: Ho un gran peso sulla testa (Taddeo, Chorus)",
       "url": "https://open.spotify.com/track/63R1BY3EjDAuSUIHzSvYVj"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
-        "name": "Mendelssohn, Rossini and Bruch: Works for Clarinet and Orchestra",
-        "url": "https://open.spotify.com/album/60FU2wGKY059HcMOQa4ugc"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Prague Philharmonia",
-          "url": "https://open.spotify.com/artist/39FuQKH2MKSPyAsRqdHj0N"
-        },
-        {
-          "name": "Ji\u0159\u00ed B\u011blohl\u00e1vek",
-          "url": "https://open.spotify.com/artist/1b5qV5N8eWF48rJSGIOEBx"
-        },
-        {
-          "name": "Ludmila Peterkov\u00e1",
-          "url": "https://open.spotify.com/artist/16q3r2R7huL7liVkEzI3EU"
-        }
-      ],
-      "duration_ms": 499626,
-      "name": "Variazzioni di clarinetto in C Major",
-      "url": "https://open.spotify.com/track/1UERWmNIaSWiGKfElxFqgj"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -1163,6 +1163,30 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
+        "name": "Rossini: String Sonatas, Vol.2",
+        "url": "https://open.spotify.com/album/660Q1nlgVtVI4S94fJ3Eiu"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Filarmonica del Teatro Comunale di Bologna",
+          "url": "https://open.spotify.com/artist/58QCnSrGJD5DhqH4hTgjT3"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        }
+      ],
+      "duration_ms": 230666,
+      "name": "Sinfonia in D - \"al Conventello\" - ed. Philip Gossett",
+      "url": "https://open.spotify.com/track/1P2Fto8ycsOkJe3nEb9K67"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
         "name": "Rossini: Il barbiere di Siviglia; La Cenerentola; L'Italiana in Algeri; Il viaggio a Reims",
         "url": "https://open.spotify.com/album/7u9uW03SaWgRSaDEQyWmN8"
       },
@@ -1187,30 +1211,6 @@
       "duration_ms": 366226,
       "name": "Il barbiere di Siviglia, Act I: No. 8, Aria. A un dottor della mia sorte",
       "url": "https://open.spotify.com/track/6EUtAuCpqmZvnjNczByRBy"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
-        "name": "Rossini: String Sonatas, Vol.2",
-        "url": "https://open.spotify.com/album/660Q1nlgVtVI4S94fJ3Eiu"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Filarmonica del Teatro Comunale di Bologna",
-          "url": "https://open.spotify.com/artist/58QCnSrGJD5DhqH4hTgjT3"
-        },
-        {
-          "name": "Riccardo Chailly",
-          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
-        }
-      ],
-      "duration_ms": 230666,
-      "name": "Sinfonia in D - \"al Conventello\" - ed. Philip Gossett",
-      "url": "https://open.spotify.com/track/1P2Fto8ycsOkJe3nEb9K67"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -1327,6 +1327,26 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
+        "name": "Rossini: Piano Music, Vol. 3",
+        "url": "https://open.spotify.com/album/0scPZVo41gReMC8RI826PU"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Alessandro Marangoni",
+          "url": "https://open.spotify.com/artist/0OlYS1Nvt0W68RQpXv2eq9"
+        }
+      ],
+      "duration_ms": 310200,
+      "name": "Peches de vieillesse, Vol. 5: Album pour les enfants adolescents: No. 1. Premiere Communion",
+      "url": "https://open.spotify.com/track/6DnICAFOQeRlHJwkwYDn3E"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
         "name": "Rossini: Il barbiere di Siviglia; La Cenerentola; L'Italiana in Algeri; Il viaggio a Reims",
         "url": "https://open.spotify.com/album/7u9uW03SaWgRSaDEQyWmN8"
       },
@@ -1379,8 +1399,8 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
-        "name": "Rossini: Piano Music, Vol. 3",
-        "url": "https://open.spotify.com/album/0scPZVo41gReMC8RI826PU"
+        "name": "Rossini: Complete Overtures, Vol. 4",
+        "url": "https://open.spotify.com/album/68KJcjZbLWI1YpCodH8Ixa"
       },
       "artists": [
         {
@@ -1388,13 +1408,17 @@
           "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
         },
         {
-          "name": "Alessandro Marangoni",
-          "url": "https://open.spotify.com/artist/0OlYS1Nvt0W68RQpXv2eq9"
+          "name": "Prague Sinfonia",
+          "url": "https://open.spotify.com/artist/2rslujXEON2msrHEXH3VjL"
+        },
+        {
+          "name": "Christian Benda",
+          "url": "https://open.spotify.com/artist/0BJkJ1ZYbOXeQMhQLT1Uhy"
         }
       ],
-      "duration_ms": 310200,
-      "name": "Peches de vieillesse, Vol. 5: Album pour les enfants adolescents: No. 1. Premiere Communion",
-      "url": "https://open.spotify.com/track/6DnICAFOQeRlHJwkwYDn3E"
+      "duration_ms": 367306,
+      "name": "Armida, Act I: Sinfonia",
+      "url": "https://open.spotify.com/track/5czLSRyPx1vfpxzvnJUqzU"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -1459,30 +1483,6 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
-        "name": "Rossini: Complete Overtures, Vol. 4",
-        "url": "https://open.spotify.com/album/68KJcjZbLWI1YpCodH8Ixa"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Prague Sinfonia",
-          "url": "https://open.spotify.com/artist/2rslujXEON2msrHEXH3VjL"
-        },
-        {
-          "name": "Christian Benda",
-          "url": "https://open.spotify.com/artist/0BJkJ1ZYbOXeQMhQLT1Uhy"
-        }
-      ],
-      "duration_ms": 367306,
-      "name": "Armida, Act I: Sinfonia",
-      "url": "https://open.spotify.com/track/5czLSRyPx1vfpxzvnJUqzU"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
         "name": "Rossini : La Cenerentola",
         "url": "https://open.spotify.com/album/5U6hxRD7Lj5my3DK0kHncQ"
       },
@@ -1507,30 +1507,6 @@
       "duration_ms": 308200,
       "name": "Rossini : La Cenerentola : Act 2 \"Un segreto d'importanza\" [Dandini, Magnifico]",
       "url": "https://open.spotify.com/track/2ZTw17KDKjQ3n3ZiavK7AP"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
-        "name": "Rossini: Piano Music, Vol. 10",
-        "url": "https://open.spotify.com/album/2jT0pTgizGCywSfSkSA6nV"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Giuseppina Bridelli",
-          "url": "https://open.spotify.com/artist/4n8jCS36j50D3Hm6V75gKl"
-        },
-        {
-          "name": "Alessandro Marangoni",
-          "url": "https://open.spotify.com/artist/0OlYS1Nvt0W68RQpXv2eq9"
-        }
-      ],
-      "duration_ms": 146800,
-      "name": "P\u00e9ch\u00e9s de vieillesse, Vol. 11 \"Miscellan\u00e9e de musique vocale\": No. 1, Ariette villageoise",
-      "url": "https://open.spotify.com/track/4swM7SKKQYLq5AIJo8u2Di"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -1563,6 +1539,30 @@
       "duration_ms": 199480,
       "name": "Il viaggio a Reims: Dell'alma diva (Live)",
       "url": "https://open.spotify.com/track/1rf7rQ3X1y0TTx5hpiQP0z"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
+        "name": "Rossini: Piano Music, Vol. 10",
+        "url": "https://open.spotify.com/album/2jT0pTgizGCywSfSkSA6nV"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Giuseppina Bridelli",
+          "url": "https://open.spotify.com/artist/4n8jCS36j50D3Hm6V75gKl"
+        },
+        {
+          "name": "Alessandro Marangoni",
+          "url": "https://open.spotify.com/artist/0OlYS1Nvt0W68RQpXv2eq9"
+        }
+      ],
+      "duration_ms": 146800,
+      "name": "P\u00e9ch\u00e9s de vieillesse, Vol. 11 \"Miscellan\u00e9e de musique vocale\": No. 1, Ariette villageoise",
+      "url": "https://open.spotify.com/track/4swM7SKKQYLq5AIJo8u2Di"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -1756,9 +1756,9 @@
           "url": "https://open.spotify.com/artist/2cjMb8N7gfa90len54jFre"
         }
       ],
-      "duration_ms": 272173,
-      "name": "Stabat Mater: VIII. Inflammatus (Aria and Chorus)",
-      "url": "https://open.spotify.com/track/1RCsmuaklRkbbVzD1I0AQM"
+      "duration_ms": 240906,
+      "name": "Stabat Mater: V. Eia, mater (Recitativo and Chorus)",
+      "url": "https://open.spotify.com/track/4Vi8wbc8tu3HDfbjmZqNFk"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -1776,9 +1776,9 @@
           "url": "https://open.spotify.com/artist/2cjMb8N7gfa90len54jFre"
         }
       ],
-      "duration_ms": 240906,
-      "name": "Stabat Mater: V. Eia, mater (Recitativo and Chorus)",
-      "url": "https://open.spotify.com/track/4Vi8wbc8tu3HDfbjmZqNFk"
+      "duration_ms": 272173,
+      "name": "Stabat Mater: VIII. Inflammatus (Aria and Chorus)",
+      "url": "https://open.spotify.com/track/1RCsmuaklRkbbVzD1I0AQM"
     },
     {
       "added_at": "2022-06-28 08:38:32",

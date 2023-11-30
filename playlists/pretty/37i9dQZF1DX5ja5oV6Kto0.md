@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Rvdical the Kid & Maesu
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,180 likes - 80 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,216 likes - 80 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 46 | [YBGFA](https://open.spotify.com/track/5MUAhZVNZU4UF8FmhUBQYs) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [TEARS OF THE SUN](https://open.spotify.com/album/4yspRWwXpYeeQ2EoOmpLPJ) | 3:42 |
 | 47 | [Don't Leave](https://open.spotify.com/track/19fCpJYZVtBKyOtIvEnDv0) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9) | 3:05 |
 | 48 | [Mad Apology](https://open.spotify.com/track/4rl3QSAy9yZ0n6yc0vLQF0) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [Anger Management](https://open.spotify.com/album/3wI3YjXudpkiPQLQUNEyU4) | 3:00 |
-| 49 | [Panic Island \)](https://open.spotify.com/track/03TKqOsWlyjFA5IhWflp5t) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Cincinnati Pumpin!!](https://open.spotify.com/album/5krskJ12OhkTlYuGwxJ0W3) | 2:02 |
+| 49 | [Panic Island](https://open.spotify.com/track/03TKqOsWlyjFA5IhWflp5t) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Cincinnati Pumpin!!](https://open.spotify.com/album/5krskJ12OhkTlYuGwxJ0W3) | 2:02 |
 | 50 | [Operation](https://open.spotify.com/track/3OQdtUt44IXKDeU1NDUy6e) | [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [WINNY](https://open.spotify.com/album/4MeI2R28SeauCi3fhQmcG5) | 3:17 |
 | 51 | [Tighter](https://open.spotify.com/track/2WRnCb0v84HQ8ZzGavDrXX) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Tighter](https://open.spotify.com/album/2bVycA3gdEqU51o5rILZUI) | 3:30 |
 | 52 | [Last Thing](https://open.spotify.com/track/7rTj4pKVamxPkaHooEE23Z) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Last Thing](https://open.spotify.com/album/1aJDWgL0E0b0ihVWhVAitX) | 2:42 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 79 | [showmetheway !!](https://open.spotify.com/track/6JRfbZ9d0Caw35pbCsOTSL) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc) | [showmetheway !!](https://open.spotify.com/album/3JYPab6Bqkk4BXdvdinw5G) | 2:20 |
 | 80 | [Angels in Tibet](https://open.spotify.com/track/23uUytja1B1mUOOIoygf6u) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:22 |
 
-Snapshot ID: `MCxkODIyZmE3ZTFhOTVlMWUyMGE4ZjI3YjE3ZjkxNDI4YWEwYWUxMWY4`
+Snapshot ID: `MCxmYjA0YzgxYjM0NjM2OWFiN2IxZjNkZGQ5NTRhYzJiMjM5ZTMzYmQ1`

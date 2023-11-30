@@ -4,7 +4,7 @@
 
 > iykyk
 
-1,227 songs - 2 day 18 hr 2 min
+1,229 songs - 2 day 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,7 +240,8 @@
 | [Creep](https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Pablo Honey](https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8) | 3:58 | 2023-05-16 | 2023-09-27 |
 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 | 2022-12-05 | 2022-12-24 |
 | [Crimewave](https://open.spotify.com/track/3TjliM0xQ3fkza0RpINRrq) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH) | 4:18 | 2022-09-28 | 2022-12-24 |
-| [cross my heart](https://open.spotify.com/track/4yJ1fD1LvIVtTDOu4NyKLU) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [cross my heart](https://open.spotify.com/album/1MpZGsYzbDWKLwfJOijcVA) | 2:26 | 2023-09-20 |  |
+| [cross my heart](https://open.spotify.com/track/3nLSxpwZrU4ugAMVxYOHJe) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [cross my heart](https://open.spotify.com/album/4NK2abDnkV5FqI0q32DLL9) | 2:26 | 2023-11-15 |  |
+| [cross my heart](https://open.spotify.com/track/4yJ1fD1LvIVtTDOu4NyKLU) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [cross my heart](https://open.spotify.com/album/1MpZGsYzbDWKLwfJOijcVA) | 2:26 | 2023-09-20 | 2023-11-30 |
 | [Crushing Me \- From the Paramount+ Series ‘Grease: Rise of the Pink Ladies'](https://open.spotify.com/track/0RNBDMSTGssQIRsWjnANt7) | [Ari Notartomaso](https://open.spotify.com/artist/3kpcOPO2xmHh1ClcFXnd5o), [Tricia Fukuhara](https://open.spotify.com/artist/4SSnp3DgxryeD7ZaBwarod), [The Cast of Grease: Rise of the Pink Ladies](https://open.spotify.com/artist/3bF30kGvclxPV6pFKdRdXQ) | [Grease: Rise of the Pink Ladies \- Episode Eight \(Music from the Paramount+ Original Series\)](https://open.spotify.com/album/4GGOhulPzPt65sczzf87Al) | 1:47 | 2023-05-25 | 2023-06-06 |
 | [Cry](https://open.spotify.com/track/0Qr61NXlyAeQaADO5xn3rI) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/6fUVptFdeOgcqDvCZzM2kC) | 4:16 | 2022-11-17 | 2023-09-13 |
 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 | 2022-09-15 | 2022-11-04 |
@@ -536,7 +537,8 @@
 | [If I Don't Laugh, I'll Cry](https://open.spotify.com/track/7a4YwlUER1m7rkWJjYJRAD) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [If I Don't Laugh, I'll Cry](https://open.spotify.com/album/14pYW9pwzrE4t6Z6p8NLCb) | 3:18 | 2022-05-06 | 2022-05-21 |
 | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/track/6uL6HCOsEwvnmCX4cDf65g) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt), [Olivia Barton](https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1) | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/album/4FspuxJM0FCRvV4apMLMaI) | 2:21 | 2023-04-21 | 2023-06-03 |
 | [if looks could kill](https://open.spotify.com/track/1cdqNRXIRrvT4HnApj6yw6) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [if looks could kill](https://open.spotify.com/album/1lbRv6yB7ZI2MuoGG9io6E) | 3:14 | 2023-03-08 | 2023-03-30 |
-| [if u think i'm pretty](https://open.spotify.com/track/3RWl1dP90FXmZDUeIAO20j) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [if u think i'm pretty](https://open.spotify.com/album/6qGsOOm1b2ZwG58fQp617s) | 2:08 | 2023-10-26 |  |
+| [if u think i'm pretty](https://open.spotify.com/track/34Yl756FwYuZldE9xnshj5) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [if u think i'm pretty](https://open.spotify.com/album/4bH2fufFWKIdtVbOI8em1u) | 2:08 | 2023-11-15 |  |
+| [if u think i'm pretty](https://open.spotify.com/track/3RWl1dP90FXmZDUeIAO20j) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [if u think i'm pretty](https://open.spotify.com/album/6qGsOOm1b2ZwG58fQp617s) | 2:08 | 2023-10-26 | 2023-11-30 |
 | [If We Ever Broke Up](https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [If We Ever Broke Up](https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO) | 2:22 | 2023-02-10 | 2023-06-28 |
 | [if you ask me to](https://open.spotify.com/track/63XZMpI9z3Grrd5YH5sl5L) | [charli d'amelio](https://open.spotify.com/artist/7yURu3gRxmCReoYCg8m5M9) | [if you ask me to](https://open.spotify.com/album/4jF92ciZwl1apnJCvn3giR) | 3:12 | 2022-10-27 | 2022-11-29 |
 | [In Ha Mood](https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [In Ha Mood](https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW) | 2:09 | 2023-01-11 | 2023-05-03 |

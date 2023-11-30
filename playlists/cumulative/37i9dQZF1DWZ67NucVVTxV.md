@@ -4,7 +4,7 @@
 
 > Grind day motivation
 
-391 songs - 19 hr 1 min
+392 songs - 19 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [Load](https://open.spotify.com/track/0gzjxUCONEdo7HRqqPdmEL) | [Pasuma](https://open.spotify.com/artist/2icl63UROfGjWheC4XkcnQ) | [Load](https://open.spotify.com/album/591FsW6YpLLCCWIOwYdQi3) | 2:35 | 2023-07-14 | 2023-07-29 |
 | [Loke](https://open.spotify.com/track/1apR6WcaNHQWq8a6pa8SIx) | [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE), [DELLFIRE](https://open.spotify.com/artist/5m7IITJVbhoq5Yl5JWXkpu) | [Loke](https://open.spotify.com/album/4m7EBwoAEN19Ncyi8t1kOt) | 3:48 | 2022-09-09 | 2022-09-24 |
 | [Lonely At The Top \- Remix](https://open.spotify.com/track/04caQq1IeChrnBnvch1FQf) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Lonely At The Top \(Remix\)](https://open.spotify.com/album/4uKPsyfeHc4KFn0mxPa59y) | 2:37 | 2023-11-17 |  |
+| [LONELY ROAD](https://open.spotify.com/track/5P7d1cYRk786etl1Jbwpk5) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [XlimKid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [PAIN IN GLORY](https://open.spotify.com/album/5mQyfbXSujRUaxTaQBZw4T) | 3:00 | 2023-11-29 |  |
 | [Lotto](https://open.spotify.com/track/4BWX21Z66fCp2y7IxZjJOW) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [Lotto](https://open.spotify.com/album/6trpH2gOheocHdjxeotCNZ) | 3:05 | 2023-08-17 | 2023-09-22 |
 | [Maitama \(Going\)](https://open.spotify.com/track/6u333HFOmt5OTEqNg5qkEJ) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Ch'cco](https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1) | [Maitama \(Going\)](https://open.spotify.com/album/3cErrQwNkGcBR37wIZUDd5) | 3:26 | 2022-11-18 | 2023-08-04 |
 | [MAKAVELI](https://open.spotify.com/track/1PfJV9r696a5sNZDr6w4Fu) | [T\-Classic](https://open.spotify.com/artist/2nR9FjLTz90sFqGrhYdzXE) | [MAKAVELI](https://open.spotify.com/album/6m1Or4HcLLjFLFhLLBNT96) | 2:18 | 2021-09-03 | 2023-04-28 |
@@ -326,7 +327,7 @@
 | [Running](https://open.spotify.com/track/21MSFhrfJzZOYUnKqNdkQr) | [Kirani Ayat](https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9), [Marince Omario](https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M), [Haeven](https://open.spotify.com/artist/5JTZ0MKURW6cUUT2y18w5H) | [Running](https://open.spotify.com/album/1EbYyDICzqwkKP79qtnERw) | 3:12 | 2023-10-13 | 2023-11-09 |
 | [Running](https://open.spotify.com/track/6858xmZthZ7jEe06VyZxbN) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Running](https://open.spotify.com/album/1AWGHIL0jPvPGowy2GKblP) | 3:34 | 2021-10-22 |  |
 | [SE JEJE](https://open.spotify.com/track/62tlwEpA3Uuf5DcuzCp5sL) | [Hotbillz](https://open.spotify.com/artist/6NeoUkwAR1ZIk9CqKT00Rh), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [SE JEJE](https://open.spotify.com/album/11kl89GAsE4rV0OHXeewZj) | 2:20 | 2023-02-03 | 2023-02-11 |
-| [Second Sermon \- Remix](https://open.spotify.com/track/574QNMkQGedluLOgr275s9) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Second Sermon \(Remix\)](https://open.spotify.com/album/2YaqeghqhsIi2u9fQjGBsq) | 3:14 | 2021-12-09 |  |
+| [Second Sermon \- Remix](https://open.spotify.com/track/574QNMkQGedluLOgr275s9) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Second Sermon \(Remix\)](https://open.spotify.com/album/2YaqeghqhsIi2u9fQjGBsq) | 3:14 | 2021-12-09 | 2023-11-30 |
 | [SENSATION](https://open.spotify.com/track/1apopV3Q5tF8ZqgpmLQc3C) | [Alex Wondergem](https://open.spotify.com/artist/6wm4BrjCLxEoUP58NoY6zz) | [LIBER8TED](https://open.spotify.com/album/5F7iyUJR7HdbWS3FqNwiAg) | 3:16 | 2023-03-10 | 2023-03-18 |
 | [Shayo](https://open.spotify.com/track/48yyEzWXIbAhU3H2iC9iDa) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Shayo](https://open.spotify.com/album/606tG62I0ClaZAuuHdM5rz) | 3:17 | 2023-09-14 | 2023-09-22 |
 | [Shine](https://open.spotify.com/track/7gWFSP72DdxHAPyXerIHln) | [LAYCON](https://open.spotify.com/artist/3ge7WahzUrMDAIdlIcchQP) | [Shine / LOL](https://open.spotify.com/album/1c5eNOPt7Lbn8blLBcJVhv) | 2:38 | 2023-04-27 | 2023-05-05 |

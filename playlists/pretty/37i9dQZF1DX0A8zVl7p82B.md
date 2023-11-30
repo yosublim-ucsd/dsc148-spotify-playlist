@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0A8zVl7p82B.md) - [plain]
 
 > All the best in new and classic Christmas Pop! Cover: Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,141,264 likes - 90 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,146,291 likes - 90 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0A8zVl7p82B.md) - [plain]
 | 39 | [O Holy Night](https://open.spotify.com/track/5547x0ZawobhfSeh2QKAca) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These are Special Times](https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN) | 5:20 |
 | 40 | [Christmas Dreaming](https://open.spotify.com/track/2UOmGbjOCNrnpnujfgjGKS) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday!](https://open.spotify.com/album/7eiV9goVEhwtGs7Y33PJ06) | 2:33 |
 | 41 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/1Qi2wh8fFgDV7tl4Sj3f2K) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/3nCpXy6LlyXWuFR08tMycK) | 2:50 |
-| 42 | [Hard Candy Christmas](https://open.spotify.com/track/6V5MkZb6BkvfcppHRO8zvf) | [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Hard Candy Christmas](https://open.spotify.com/album/3etDoLyTmP4B9CFJj7rsiz) | 3:28 |
+| 42 | [Hard Candy Christmas](https://open.spotify.com/track/5OotiuR5xoCmLqeq1P8PFn) | [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Hard Candy Christmas](https://open.spotify.com/album/29bRAOozywfaeNNM3hQi2r) | 3:28 |
 | 43 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/54H84HFq1hUDEOcYxbTjrL) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9) | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/album/0pZykWJQyWBjOY8c2RSRv2) | 2:42 |
 | 44 | [Ring Out The Bells](https://open.spotify.com/track/51ENvfID6cZE2i08sqy7as) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Not So Silent Night \(The Cozy Edition\)](https://open.spotify.com/album/1EcCxcRK4DX7ol3JrvxKOs) | 3:59 |
 | 45 | [Back Home For Christmas](https://open.spotify.com/track/06b5RW4WE4wa0rr62PMA7s) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Back Home For Christmas](https://open.spotify.com/album/2MgK4cYEZ5g5tx1K1AEWeG) | 3:35 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0A8zVl7p82B.md) - [plain]
 | 89 | [Another Year](https://open.spotify.com/track/1OlYVHLE9GZ32CxmWVC0on) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Another Year](https://open.spotify.com/album/3quUqUaNPWnyz8Yzhmz4bn) | 4:16 |
 | 90 | [merry christmas darling](https://open.spotify.com/track/6brLwOYFXw7rkGOcLntcPZ) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a very merry perri christmas](https://open.spotify.com/album/5noTFKbSGzGgXWxnEiuoK2) | 3:18 |
 
-Snapshot ID: `MCxlMDA2OGZkY2ZkZDg1ZDFmZDhhZTgzYWIwYzNiNzM5MDI1NTNmMWE5`
+Snapshot ID: `MCwxNjcxZjUxYjMxMWNiYzkxOGUyOGFkM2MyNzJlYzk1NGUzMDNmMjYy`

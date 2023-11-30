@@ -4,7 +4,7 @@
 
 > snow lands on top ❄️🤭
 
-1,139 songs - 2 day 11 hr 44 min
+1,142 songs - 2 day 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -520,7 +520,8 @@
 | [If I Don't Laugh, I'll Cry](https://open.spotify.com/track/7a4YwlUER1m7rkWJjYJRAD) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [If I Don't Laugh, I'll Cry](https://open.spotify.com/album/14pYW9pwzrE4t6Z6p8NLCb) | 3:18 | 2022-05-06 | 2022-05-28 |
 | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/track/6uL6HCOsEwvnmCX4cDf65g) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt), [Olivia Barton](https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1) | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/album/4FspuxJM0FCRvV4apMLMaI) | 2:21 | 2023-04-21 | 2023-07-22 |
 | [If This Was A Movie \(Taylor’s Version\)](https://open.spotify.com/track/0kAZ3H6G9Zac4PMpmobMkj) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [If This Was A Movie \(Taylor’s Version\)](https://open.spotify.com/album/6IZm7NfvWyXp952VF36Z5F) | 3:57 | 2023-03-17 | 2023-04-01 |
-| [if u think i'm pretty](https://open.spotify.com/track/3RWl1dP90FXmZDUeIAO20j) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [if u think i'm pretty](https://open.spotify.com/album/6qGsOOm1b2ZwG58fQp617s) | 2:08 | 2023-10-27 |  |
+| [if u think i'm pretty](https://open.spotify.com/track/34Yl756FwYuZldE9xnshj5) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [if u think i'm pretty](https://open.spotify.com/album/4bH2fufFWKIdtVbOI8em1u) | 2:08 | 2023-10-27 |  |
+| [if u think i'm pretty](https://open.spotify.com/track/3RWl1dP90FXmZDUeIAO20j) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [if u think i'm pretty](https://open.spotify.com/album/6qGsOOm1b2ZwG58fQp617s) | 2:08 | 2023-10-27 | 2023-11-30 |
 | [If We Ever Broke Up](https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [If We Ever Broke Up](https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO) | 2:22 | 2023-02-10 | 2023-09-16 |
 | [if you ask me to](https://open.spotify.com/track/63XZMpI9z3Grrd5YH5sl5L) | [charli d'amelio](https://open.spotify.com/artist/7yURu3gRxmCReoYCg8m5M9) | [if you ask me to](https://open.spotify.com/album/4jF92ciZwl1apnJCvn3giR) | 3:12 | 2022-10-26 | 2023-02-04 |
 | [In Bloom](https://open.spotify.com/track/3F4lHPNHlvr3RpO4tpVOIs) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [YOUTH IN THE SHADE](https://open.spotify.com/album/7fV7RChHagCcKRnAaDRXuX) | 3:00 | 2023-07-11 | 2023-07-22 |
@@ -919,6 +920,7 @@
 | [Still Alive \- From the Original Motion Picture Scream VI](https://open.spotify.com/track/4Gnbk3CFlF1Qt0nTiz693B) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Still Alive \(From the Original Motion Picture Scream VI\)](https://open.spotify.com/album/50Zsh8ekKxgClUUKoVQe9q) | 3:05 | 2023-03-03 | 2023-03-11 |
 | [Still Don't Know My Name](https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 2:33 | 2022-03-04 | 2022-04-23 |
 | [Still into You](https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 3:36 | 2021-07-09 | 2022-04-02 |
+| [Still Monster](https://open.spotify.com/track/6tuTpe37ljVcrJeZAAKBE1) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ORANGE BLOOD](https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT) | 3:06 | 2023-11-29 |  |
 | [Stockholm Syndrome](https://open.spotify.com/track/6AzCBeiDuUXGXjznBufswB) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 3:34 | 2023-08-08 | 2023-09-23 |
 | [Stranger](https://open.spotify.com/track/3Sda4D07uUlpyI0aa9WMWH) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Love Me For Another Day](https://open.spotify.com/album/65LmFuLBa1yBX5yfuuOMh2) | 2:16 | 2023-10-27 | 2023-11-22 |
 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-05 |  |
@@ -1143,6 +1145,7 @@
 | [Your Sister Was Right](https://open.spotify.com/track/5BNAzE37hmpyCx0hyrgDqJ) | [Wilbur Soot](https://open.spotify.com/artist/2XzXLjXRSeFtsic4ieyLJy) | [Your City Gave Me Asthma](https://open.spotify.com/album/1ZSC5ULnqANluf9QT32hJW) | 2:32 | 2022-03-25 | 2022-04-02 |
 | [Yours](https://open.spotify.com/track/7BpqydHSxMviDR0DNTne6J) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Yours](https://open.spotify.com/album/2i4vxgeB2Sn97KeBs2vYtO) | 3:24 | 2022-05-20 | 2022-06-25 |
 | [Yours \(feat\. Bea Miller\)](https://open.spotify.com/track/1OYchHxLhckxWStYd5qTyq) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Yours \(feat\. Bea Miller\)](https://open.spotify.com/album/4WyrqQW0Bo6kVjJxVOAkoQ) | 2:57 | 2023-09-22 | 2023-10-14 |
+| [You’re Losing Me \(From The Vault\)](https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [You're Losing Me \(From The Vault\)](https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7) | 4:37 | 2023-11-29 |  |
 | [Zero](https://open.spotify.com/track/5LMoKDVzW2kDneNu2UbspP) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Zero](https://open.spotify.com/album/2zYcjcNUzcgMntymoukwZR) | 2:34 | 2023-04-04 | 2023-05-10 |
 | [ZOO](https://open.spotify.com/track/7eVu7FI02cTicLEgVtUvwF) | [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm), [JENO](https://open.spotify.com/artist/3DZrLuJOQFKqV2sjMsKb1V), [HENDERY](https://open.spotify.com/artist/5wrZ59w1ndSBlPeUj2f6Fs), [YANGYANG](https://open.spotify.com/artist/5yyf4YDCKGaa71SC7KRw2L), [GISELLE](https://open.spotify.com/artist/2P1id80CMwR5R5cwcyIIAi) | [2021 Winter SMTOWN : SMCU EXPRESS](https://open.spotify.com/album/3dn2in6doTc6zfA0G2UFDZ) | 2:57 | 2022-01-28 | 2022-02-12 |
 | [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 | 2022-04-27 | 2022-07-23 |

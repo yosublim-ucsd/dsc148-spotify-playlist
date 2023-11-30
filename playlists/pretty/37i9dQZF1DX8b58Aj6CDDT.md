@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8b58Aj6CDDT.md) - [plain]
 
 > Las canciones alternativas que definieron el 2022 en Hispanoamérica\. Marilina Bertoldi y Javiera Mena en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,445 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,455 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8b58Aj6CDDT.md) - [plain]
 | 34 | [Lloro](https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 3:24 |
 | 35 | [Aquí](https://open.spotify.com/track/6MBestQzTJ5XPvDM1afJid) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Abrazo](https://open.spotify.com/album/5sna0NuWWzxZsN8L14tXSx) | 2:52 |
 | 36 | [XO](https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [Last Spa on Earth](https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB) | 3:05 |
-| 37 | [La Diferencia](https://open.spotify.com/track/1YErzz0pkMQCxZdYeUbNUC) | [Edu Requejo](https://open.spotify.com/artist/6ZNFH9pfiRpTSgJaKQBb8M) | [La Puerta Dorada](https://open.spotify.com/album/7IoX8WbxcqgD15fKTfwQiy) | 3:43 |
-| 38 | [Otra Vez](https://open.spotify.com/track/0vA1RgkV2GqrwpkSiINgKR) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Otra Vez](https://open.spotify.com/album/3lnvmhXZWbfxH45nw7MvMp) | 6:26 |
+| 37 | [Otra Vez](https://open.spotify.com/track/0vA1RgkV2GqrwpkSiINgKR) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Otra Vez](https://open.spotify.com/album/3lnvmhXZWbfxH45nw7MvMp) | 6:26 |
+| 38 | [La Diferencia](https://open.spotify.com/track/1YErzz0pkMQCxZdYeUbNUC) | [Edu Requejo](https://open.spotify.com/artist/6ZNFH9pfiRpTSgJaKQBb8M) | [La Puerta Dorada](https://open.spotify.com/album/7IoX8WbxcqgD15fKTfwQiy) | 3:43 |
 | 39 | [Horas Contigo](https://open.spotify.com/track/5LsqbIej8JeVAMCD5mZKCJ) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Horas Contigo](https://open.spotify.com/album/0M2juBtEpeh1WRg3VmaNfe) | 2:39 |
 | 40 | [Running Up That Hill \- Spotify Singles](https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Running Up That Hill \- Spotify Singles](https://open.spotify.com/album/5yoGGNfGcVw8Eqlbg13a9v) | 3:40 |
 | 41 | [MANTRA](https://open.spotify.com/track/5Y5Er1vwNsNIBaZikfprvg) | [Nani](https://open.spotify.com/artist/4csfMLGLT1ikinHV3FRTmL) | [MANTRA](https://open.spotify.com/album/2JV9QM9AuhNEA4kqqlZj6V) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8b58Aj6CDDT.md) - [plain]
 | 49 | [Nada de Mí Vale Dinero](https://open.spotify.com/track/5imr697dT1gPajZWd376fL) | [Ronroneo](https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK), [TIRAYA](https://open.spotify.com/artist/3VbXBoA7I3k5KURFPIajpy) | [Nada de Mí Vale Dinero](https://open.spotify.com/album/5FQLN0ZAIGh3o1Bb0ZK047) | 4:17 |
 | 50 | [Anhedonia](https://open.spotify.com/track/3l7XgSNNdnLEZ7Ipcj4Z1X) | [Mad Tree](https://open.spotify.com/artist/7ozAaEiZsgJUvQ8TDm6X1h) | [Anhedonia](https://open.spotify.com/album/4mFzkhis1q3DVpQ86GhJv9) | 3:44 |
 
-Snapshot ID: `MCxiNmIxNWMwOTU1OWRlNjcyZmRhY2QzYjQ0MzUyMGNhODJiMTA4ZGY4`
+Snapshot ID: `MCxhODQ1Y2VmMmE5OGNiNTgxZGE2MzYxMDUwNWE2MDkwNTQ1ZmU1N2Ni`

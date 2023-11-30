@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 
 > We're celebrating 30 years of Martina McBrides's timeless album "The Way That I Am" on 90s Country!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,726,574 likes - 150 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,726,877 likes - 150 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 31 | [Where The Green Grass Grows](https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Everywhere](https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9) | 3:21 |
 | 32 | [Little Bitty](https://open.spotify.com/track/2IY559smG7SXYk229NA2Vl) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Everything I Love](https://open.spotify.com/album/4kZm2gtXOwFsXXQZZaYEhW) | 2:38 |
 | 33 | [Meet In the Middle](https://open.spotify.com/track/7lUE02KHkZM44BZgjCaWRO) | [Diamond Rio](https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6) | [Diamond Rio](https://open.spotify.com/album/5zpRuHrOSBkOrop2DJvBcr) | 3:18 |
-| 34 | [How Do You Like Me Now?!](https://open.spotify.com/track/7rDcULv8vV16vetBjPJhuE) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [How Do You Like Me Now?!](https://open.spotify.com/album/2GBWYbIHyVneL0VylPXa6Y) | 3:29 |
+| 34 | [Time Marches On](https://open.spotify.com/track/2TIEeLrOQrGnO2D2OeDDJu) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Time Marches On](https://open.spotify.com/album/5zSPDpefI09DHOSdQLJTW6) | 3:05 |
 | 35 | [You're Still The One](https://open.spotify.com/track/1wb4P4F0sxAQ2KXrRvsx6n) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:32 |
-| 36 | [Time Marches On](https://open.spotify.com/track/2TIEeLrOQrGnO2D2OeDDJu) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Time Marches On](https://open.spotify.com/album/5zSPDpefI09DHOSdQLJTW6) | 3:05 |
+| 36 | [How Do You Like Me Now?!](https://open.spotify.com/track/7rDcULv8vV16vetBjPJhuE) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [How Do You Like Me Now?!](https://open.spotify.com/album/2GBWYbIHyVneL0VylPXa6Y) | 3:29 |
 | 37 | [Wild One](https://open.spotify.com/track/0qrst0xZAZ0NtMtuUcEq0f) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Take Me as I Am](https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ) | 2:45 |
 | 38 | [Watermelon Crawl](https://open.spotify.com/track/3Q9t1A12iUemHTAWnH7PjD) | [Tracy Byrd](https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT) | [No Ordinary Man](https://open.spotify.com/album/53g8c9eM74nQkKXDEE5tlu) | 3:01 |
 | 39 | [She Thinks My Tractor's Sexy](https://open.spotify.com/track/3QV7NYkrmV0Q0IHdFJw9hO) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Everywhere We Go](https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6) | 4:08 |
@@ -108,14 +108,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 98 | [Down at the Twist and Shout](https://open.spotify.com/track/76BuIHRNV8KDdrYveZBOOa) | [Mary Chapin Carpenter](https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr) | [The Essential Mary Chapin Carpenter](https://open.spotify.com/album/5XZgZAIHcrnQwcAWq4Tbn9) | 3:21 |
 | 99 | [There's Your Trouble](https://open.spotify.com/track/69m9WDPBvemwujQwdONslk) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Wide Open Spaces](https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj) | 3:13 |
 | 100 | [Chasin' That Neon Rainbow](https://open.spotify.com/track/6QP8JgHuOi0itWXuZ6wdTM) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Here In The Real World](https://open.spotify.com/album/7aKsH9D0ud6MzGTjnrwM3e) | 3:05 |
-| 101 | [Brother Jukebox](https://open.spotify.com/track/1Ov6koHfZL43pGCDdfIoHf) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [Too Cold At Home](https://open.spotify.com/album/4AayO56uNmJLHcHtF0aTpA) | 3:04 |
-| 102 | [Wish I Didn't Know Now](https://open.spotify.com/track/40nvOEkPCUDsoQdruyndb2) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith](https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA) | 3:26 |
+| 101 | [Wish I Didn't Know Now](https://open.spotify.com/track/40nvOEkPCUDsoQdruyndb2) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith](https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA) | 3:26 |
+| 102 | [Brother Jukebox](https://open.spotify.com/track/1Ov6koHfZL43pGCDdfIoHf) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [Too Cold At Home](https://open.spotify.com/album/4AayO56uNmJLHcHtF0aTpA) | 3:04 |
 | 103 | [Brand New Man](https://open.spotify.com/track/6JKwnVUYVF8LHamgZ5dFL1) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [Brand New Man](https://open.spotify.com/album/4cqxNQQB21g1jEWtnu3jN3) | 2:58 |
 | 104 | [Better Class of Losers](https://open.spotify.com/track/3EiXWMUIE0bNNo36suPrRQ) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [High Lonesome](https://open.spotify.com/album/3AFctn1twGQe6rPHzPvR02) | 2:40 |
 | 105 | [Better Things To Do](https://open.spotify.com/track/29V94tQgMoSJjbzuTliPj6) | [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC) | [Terri Clark](https://open.spotify.com/album/2uxYbAeebAr68avY0b9vv0) | 3:08 |
 | 106 | [Love, Me](https://open.spotify.com/track/5cCLKP66G2PJEorzYQVXHR) | [Collin Raye](https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI) | [All I Can Be](https://open.spotify.com/album/4FpmJIF1jrWpgKaSp7jWmA) | 3:51 |
-| 107 | [The Shake](https://open.spotify.com/track/2KZXnN63ae6G6Cai2NhPkG) | [Neal McCoy](https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY) | [Be Good At It](https://open.spotify.com/album/5OcjMDGFwrToI1UXdcMshM) | 3:33 |
-| 108 | [It Matters to Me](https://open.spotify.com/track/3rXdABev6vQtBCElztIl7m) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [It Matters to Me](https://open.spotify.com/album/6Ki8tNYdetzeYqijkDlmds) | 3:17 |
+| 107 | [It Matters to Me](https://open.spotify.com/track/3rXdABev6vQtBCElztIl7m) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [It Matters to Me](https://open.spotify.com/album/6Ki8tNYdetzeYqijkDlmds) | 3:17 |
+| 108 | [The Shake](https://open.spotify.com/track/2KZXnN63ae6G6Cai2NhPkG) | [Neal McCoy](https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY) | [Be Good At It](https://open.spotify.com/album/5OcjMDGFwrToI1UXdcMshM) | 3:33 |
 | 109 | [One Way Ticket \(Because I Can\)](https://open.spotify.com/track/0meAc2H0tC5tOTd6MDe0cI) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Blue](https://open.spotify.com/album/0gHvXXQ36Lz30Romr24rF6) | 3:43 |
 | 110 | [Is There Life Out There](https://open.spotify.com/track/1NIUECyq3vHFrWeFGKvESB) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [For My Broken Heart](https://open.spotify.com/album/2j2u43lPOti5W1btEw8NN5) | 3:52 |
 | 111 | [No News](https://open.spotify.com/track/2KgsImShtnuBYfKVgfbAuy) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [Lonestar](https://open.spotify.com/album/2IwKTl4PY4Nh1WA7R0Qbwq) | 2:53 |
@@ -129,8 +129,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 119 | [I Try to Think About Elvis](https://open.spotify.com/track/121ILFThNZH9Egncny7upu) | [Patty Loveless](https://open.spotify.com/artist/6SFUC6ORDCIBqPssCBpeHT) | [When Fallen Angels Fly](https://open.spotify.com/album/3gl2RguatWgKSoCuN1tSw9) | 2:49 |
 | 120 | [Drink, Swear, Steal & Lie](https://open.spotify.com/track/3ZdAwMX7Lku81KGiqsjDeA) | [Michael Peterson](https://open.spotify.com/artist/5SOL8Hz0JUmgBWHggBQ5Kz) | [Michael Peterson](https://open.spotify.com/album/6SYfJ8JLGIP87pOiH9FMpC) | 3:02 |
 | 121 | [Baby Likes To Rock It](https://open.spotify.com/track/2kQtKFkPMdL5Jf7xk4T9SI) | [The Tractors](https://open.spotify.com/artist/4cORFIWQylRGyJX9lYnqk9) | [The Tractors](https://open.spotify.com/album/2fwvBbK1JkkzTAkSDBAk96) | 3:56 |
-| 122 | [Except for Monday](https://open.spotify.com/track/2iCJEYdoYbCxFoUg8759nm) | [Lorrie Morgan](https://open.spotify.com/artist/0khzcQ6PQU5a6dl1Qss3pt) | [Something In Red](https://open.spotify.com/album/6pTicOdZqzOZgbvdB1AVyq) | 2:56 |
-| 123 | [Whatcha Gonna Do With A Cowboy](https://open.spotify.com/track/6UBvhlms1M16oUYZkEfqpy) | [Chris LeDoux](https://open.spotify.com/artist/4K3DSWzghkGUcQOEZG9gpo), [Garth Brooks](https://open.spotify.com/artist/4BclNkZtAUq1YrYNzye3N7) | [Whatcha Gonna Do With A Cowboy](https://open.spotify.com/album/6He4j8heX7l96p8y2FMjbz) | 2:35 |
+| 122 | [Whatcha Gonna Do With A Cowboy](https://open.spotify.com/track/6UBvhlms1M16oUYZkEfqpy) | [Chris LeDoux](https://open.spotify.com/artist/4K3DSWzghkGUcQOEZG9gpo), [Garth Brooks](https://open.spotify.com/artist/4BclNkZtAUq1YrYNzye3N7) | [Whatcha Gonna Do With A Cowboy](https://open.spotify.com/album/6He4j8heX7l96p8y2FMjbz) | 2:35 |
+| 123 | [Except for Monday](https://open.spotify.com/track/2iCJEYdoYbCxFoUg8759nm) | [Lorrie Morgan](https://open.spotify.com/artist/0khzcQ6PQU5a6dl1Qss3pt) | [Something In Red](https://open.spotify.com/album/6pTicOdZqzOZgbvdB1AVyq) | 2:56 |
 | 124 | [A Broken Wing](https://open.spotify.com/track/0nqjaaZQtY9fgl1M9qjssn) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Evolution](https://open.spotify.com/album/5LT49LTUsSmazrZpBV3OPP) | 3:35 |
 | 125 | [I Left Something Turned On At Home](https://open.spotify.com/track/1CxG3QsfkmcUYlxWwvOtz5) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Dreamin' Out Loud](https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc) | 3:08 |
 | 126 | [Love Can Build A Bridge](https://open.spotify.com/track/40XW3d74CGOrWPcNpJDeUi) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [Love Can Build A Bridge](https://open.spotify.com/album/53q0MIHCc3NeBt075qOsZO) | 5:21 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 149 | [I Do](https://open.spotify.com/track/59GPuKaImwVCqcYRm1xrkY) | [Paul Brandt](https://open.spotify.com/artist/11Rb0Ax3Q2dZJ7jNlOvxxP) | [Calm Before the Storm](https://open.spotify.com/album/4FdWVE3DHKyWCdeNgEpEWR) | 3:40 |
 | 150 | [Why Didn't I Think of That](https://open.spotify.com/track/3w3oF0IAR3A14cnKhecsNV) | [Doug Stone](https://open.spotify.com/artist/4epBFW4UHEmgjIK5xOrBhk) | [From the Heart](https://open.spotify.com/album/36m9tDH81Nn65T9qoGqWdl) | 3:11 |
 
-Snapshot ID: `MCxiMThmZDE1NmM4MDQzMmJjNjE5ODhjZGNmYzc0NDIwZjk3YmNhZDA2`
+Snapshot ID: `MCw0MDgzNGIxYWYwYzVjNGZlZDMzNDZmNjI4YWU2ODE3YzBmYzU3YTIz`

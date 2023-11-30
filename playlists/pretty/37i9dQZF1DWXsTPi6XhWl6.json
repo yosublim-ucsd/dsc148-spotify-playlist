@@ -1,12 +1,12 @@
 {
   "description": "Brighten your morning with these indie, folk and acoustic sounds.",
-  "num_followers": 33807,
+  "num_followers": 33804,
   "original_name": "Wide Awake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjA0MzdlNTMyODZlMWY0YWNjNzM5ZTNjODE2OTY1YmY4MjIxMjZj",
+  "snapshot_id": "MCwwYjQwYTQxZDcyOWJjZTYwMjZkMmI5MjQwZGI4ODdiODAxNTc2ZTBi",
   "tracks": [
     {
       "added_at": "2022-06-17 04:02:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "The Black Dirt Sessions",
-        "url": "https://open.spotify.com/album/7un6ilrjxO0KfVGj4mz0H2"
-      },
-      "artists": [
-        {
-          "name": "Deer Tick",
-          "url": "https://open.spotify.com/artist/3rT8xTwSOMDURtWpPyoKIO"
-        }
-      ],
-      "duration_ms": 223933,
-      "name": "Twenty Miles",
-      "url": "https://open.spotify.com/track/5advEe2ajphfKOguJCt3Gp"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
         "name": "Gimme Fiction (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4sjSsxnmBlzxgZ9HGkHDsk"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 150506,
       "name": "Why Do You Let Me Stay Here?",
       "url": "https://open.spotify.com/track/1ZHYoYfWMYnGAzlwOi2XP4"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "The Black Dirt Sessions",
+        "url": "https://open.spotify.com/album/7un6ilrjxO0KfVGj4mz0H2"
+      },
+      "artists": [
+        {
+          "name": "Deer Tick",
+          "url": "https://open.spotify.com/artist/3rT8xTwSOMDURtWpPyoKIO"
+        }
+      ],
+      "duration_ms": 223933,
+      "name": "Twenty Miles",
+      "url": "https://open.spotify.com/track/5advEe2ajphfKOguJCt3Gp"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "All the Things That I Did and All the Things That I Didn't Do",
-        "url": "https://open.spotify.com/album/1BpQ1yTs26aKJg0aWqnzEq"
-      },
-      "artists": [
-        {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
-        }
-      ],
-      "duration_ms": 229760,
-      "name": "Younger Years",
-      "url": "https://open.spotify.com/track/6UXVFOpFv2WQSs3RF4OC8E"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
         "name": "I'm Wide Awake, It's Morning",
         "url": "https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 233755,
       "name": "Road to Joy",
       "url": "https://open.spotify.com/track/4JHxhiaDpp5omCMtOs1QrB"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "All the Things That I Did and All the Things That I Didn't Do",
+        "url": "https://open.spotify.com/album/1BpQ1yTs26aKJg0aWqnzEq"
+      },
+      "artists": [
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "duration_ms": 229760,
+      "name": "Younger Years",
+      "url": "https://open.spotify.com/track/6UXVFOpFv2WQSs3RF4OC8E"
     },
     {
       "added_at": "2022-06-17 04:02:00",

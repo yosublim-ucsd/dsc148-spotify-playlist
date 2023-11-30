@@ -1,12 +1,12 @@
 {
   "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7 Miranda!",
-  "num_followers": 22393,
+  "num_followers": 22475,
   "original_name": "Esto es Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMWNhNjE5NDFhMDRkMjhmNjZhNGQzMGJjYTA4OTkxMThiMjBjYWU1",
+  "snapshot_id": "MCw4Zjc5MWE3Y2U0ODk3NDIzODk4YTQ0MjEzN2I3NDlhOWRkMmZkMTNj",
   "tracks": [
     {
       "added_at": "2023-11-24 03:00:00",
@@ -963,18 +963,18 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Manantial",
-        "url": "https://open.spotify.com/album/6Dq1c6Alg7V2QmzjadVcBE"
+        "name": "Rosa",
+        "url": "https://open.spotify.com/album/2cklcTS1Fw81SExHyUKPbO"
       },
       "artists": [
         {
-          "name": "Marcela Morelo",
-          "url": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
         }
       ],
-      "duration_ms": 267960,
-      "name": "Coraz\u00f3n Salvaje",
-      "url": "https://open.spotify.com/track/3zwTjNO3wlSsLuXqIha8Sf"
+      "duration_ms": 122202,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/33AWuTMifxeDWvizVzYBiA"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Rosa",
-        "url": "https://open.spotify.com/album/2cklcTS1Fw81SExHyUKPbO"
+        "name": "Manantial",
+        "url": "https://open.spotify.com/album/6Dq1c6Alg7V2QmzjadVcBE"
       },
       "artists": [
         {
-          "name": "Panther",
-          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
+          "name": "Marcela Morelo",
+          "url": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
         }
       ],
-      "duration_ms": 122202,
-      "name": "Rosa",
-      "url": "https://open.spotify.com/track/33AWuTMifxeDWvizVzYBiA"
+      "duration_ms": 267960,
+      "name": "Coraz\u00f3n Salvaje",
+      "url": "https://open.spotify.com/track/3zwTjNO3wlSsLuXqIha8Sf"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/5qKhpOCkPRF0rLhzxtpUaS"
-      },
-      "artists": [
-        {
-          "name": "Marcela Morelo",
-          "url": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
-        }
-      ],
-      "duration_ms": 225586,
-      "name": "Tormento de Amor",
-      "url": "https://open.spotify.com/track/0B9Tp3mEGR1mDDkAm1m21o"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
         "name": "Mujer & Ego",
         "url": "https://open.spotify.com/album/255HbyPo532v2tNoSpGnHQ"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 214006,
       "name": "Moscas en la Casa",
       "url": "https://open.spotify.com/track/3UrlI9WfUyN257ll1w9gtI"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "Ya Borr\u00e9 Tu N\u00famero del Celular",
+        "url": "https://open.spotify.com/album/2Ce8ExX8V8f5OTLdgKUak8"
+      },
+      "artists": [
+        {
+          "name": "Juan Ingaramo",
+          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
+        }
+      ],
+      "duration_ms": 211327,
+      "name": "Ya Borr\u00e9 Tu N\u00famero del Celular",
+      "url": "https://open.spotify.com/track/1XLnF48KJykKU2yMN5miJl"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Ya Borr\u00e9 Tu N\u00famero del Celular",
-        "url": "https://open.spotify.com/album/2Ce8ExX8V8f5OTLdgKUak8"
-      },
-      "artists": [
-        {
-          "name": "Juan Ingaramo",
-          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
-        }
-      ],
-      "duration_ms": 211327,
-      "name": "Ya Borr\u00e9 Tu N\u00famero del Celular",
-      "url": "https://open.spotify.com/track/1XLnF48KJykKU2yMN5miJl"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
         "name": "Momentos",
         "url": "https://open.spotify.com/album/0Hj4TxCCSedmboBADrHDSV"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 231893,
       "name": "A Escondidas",
       "url": "https://open.spotify.com/track/4qURp3b9IvKvtcv5ZQahmG"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/5qKhpOCkPRF0rLhzxtpUaS"
+      },
+      "artists": [
+        {
+          "name": "Marcela Morelo",
+          "url": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
+        }
+      ],
+      "duration_ms": 225586,
+      "name": "Tormento de Amor",
+      "url": "https://open.spotify.com/track/0B9Tp3mEGR1mDDkAm1m21o"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "En Vivo En El Opera",
-        "url": "https://open.spotify.com/album/30MOYLw4YO7piKuMrMURKG"
-      },
-      "artists": [
-        {
-          "name": "Hilda Lizarazu",
-          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Sola En Los Bares",
-      "url": "https://open.spotify.com/track/6ObEOygR2NamE91hlp37gJ"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
         "name": "TODO SOBRE LA NADA",
         "url": "https://open.spotify.com/album/5VwZKJ5zjsUHZEVkq12At9"
       },
@@ -1359,26 +1343,6 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "A punto (feat. Delfina Campos)",
-        "url": "https://open.spotify.com/album/0z8ck6llq2aHAfJ5NjDQ6t"
-      },
-      "artists": [
-        {
-          "name": "Amigos Raros",
-          "url": "https://open.spotify.com/artist/56PatIE4fUjuP4gPlyWVRf"
-        },
-        {
-          "name": "Delfina Campos",
-          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
-        }
-      ],
-      "duration_ms": 202794,
-      "name": "A punto (feat. Delfina Campos)",
-      "url": "https://open.spotify.com/track/7sBDv4kLo2GVucy5VGh7GX"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
         "name": "Mi Historia Entre Tus Dedos",
         "url": "https://open.spotify.com/album/7r6vkoLXv4y7aCJOns15NG"
       },
@@ -1391,6 +1355,22 @@
       "duration_ms": 250178,
       "name": "Mi Historia Entre Tus Dedos",
       "url": "https://open.spotify.com/track/7ns39yx54DOHmmqWetPV6v"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "En Vivo En El Opera",
+        "url": "https://open.spotify.com/album/30MOYLw4YO7piKuMrMURKG"
+      },
+      "artists": [
+        {
+          "name": "Hilda Lizarazu",
+          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Sola En Los Bares",
+      "url": "https://open.spotify.com/track/6ObEOygR2NamE91hlp37gJ"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1415,18 +1395,22 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "La Despedida",
-        "url": "https://open.spotify.com/album/3gWVb2bUlxVyKWJxaxVgnZ"
+        "name": "A punto (feat. Delfina Campos)",
+        "url": "https://open.spotify.com/album/0z8ck6llq2aHAfJ5NjDQ6t"
       },
       "artists": [
         {
-          "name": "Camil\u00fa",
-          "url": "https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF"
+          "name": "Amigos Raros",
+          "url": "https://open.spotify.com/artist/56PatIE4fUjuP4gPlyWVRf"
+        },
+        {
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
         }
       ],
-      "duration_ms": 186380,
-      "name": "La Despedida",
-      "url": "https://open.spotify.com/track/3BzanHA52wCdFTkfB0ZYDJ"
+      "duration_ms": 202794,
+      "name": "A punto (feat. Delfina Campos)",
+      "url": "https://open.spotify.com/track/7sBDv4kLo2GVucy5VGh7GX"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1443,6 +1427,22 @@
       "duration_ms": 181399,
       "name": "Figurita",
       "url": "https://open.spotify.com/track/2u6ZHI2hEGwnXhUbzlQmOc"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "La Despedida",
+        "url": "https://open.spotify.com/album/3gWVb2bUlxVyKWJxaxVgnZ"
+      },
+      "artists": [
+        {
+          "name": "Camil\u00fa",
+          "url": "https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF"
+        }
+      ],
+      "duration_ms": 186380,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/3BzanHA52wCdFTkfB0ZYDJ"
     },
     {
       "added_at": "2023-11-24 03:00:00",

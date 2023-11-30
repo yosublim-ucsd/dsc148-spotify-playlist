@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 
 > The smoothest of smooth Jazz for your romantic evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,156 likes - 75 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,256 likes - 75 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 | 57 | [Midnight In Manhattan](https://open.spotify.com/track/3HMDFevQzJFDInhHmP2sRM) | [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [Perfect Moment](https://open.spotify.com/album/26mZwyn3GPRjgaRZmaCwhr) | 4:49 |
 | 58 | [Get Here](https://open.spotify.com/track/6ojF0t5M1HSB0nsMqPKRya) | [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [It's Love](https://open.spotify.com/album/3puLLf4jLAjL7ji1cHU4WG) | 4:27 |
 | 59 | [Here With You](https://open.spotify.com/track/1c9sIJVZwmLisjzlFav2Ff) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [It's All Good](https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr) | 4:17 |
-| 60 | [The Lady In My Life](https://open.spotify.com/track/7r5B5N1ijHZuDSqNdoYPnK) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Guitar Man](https://open.spotify.com/album/2S7ghQU5xIAm1hW7rMKNC0) | 4:30 |
+| 60 | [Paradise](https://open.spotify.com/track/4iEcxF2XFAGquAOrQlXoBv) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Celebration](https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy) | 4:25 |
 | 61 | [Without Your Love](https://open.spotify.com/track/0SZjsb1TGyEMOH3LfI5tAw) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE) | [Nice & Slow](https://open.spotify.com/album/1ERiUM1WyCUWEu3gnEzKRM) | 4:48 |
-| 62 | [Paradise](https://open.spotify.com/track/4iEcxF2XFAGquAOrQlXoBv) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Celebration](https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy) | 4:25 |
+| 62 | [The Lady In My Life](https://open.spotify.com/track/7r5B5N1ijHZuDSqNdoYPnK) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Guitar Man](https://open.spotify.com/album/2S7ghQU5xIAm1hW7rMKNC0) | 4:30 |
 | 63 | [I Just Can't Let Go](https://open.spotify.com/track/375aCphxz2nRUZziqUS3LB) | [Everette Harp](https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ) | [For The Love](https://open.spotify.com/album/7rH0t9v68yG61kF8fuqRJp) | 4:40 |
 | 64 | [Angel In Paris](https://open.spotify.com/track/1fUa03IMAd3cRKQvrVgEV1) | [Jeff Lorber](https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN) | [Flipside](https://open.spotify.com/album/5jJnmTSaatjd3tXpfXaEzd) | 5:12 |
 | 65 | [Brazilia](https://open.spotify.com/track/1u4RewzgMEpsUQOojZrG4Y) | [Wayman Tisdale](https://open.spotify.com/artist/3h25qUbua6H0dcBJgDPg5c) | [Face To Face \(US Version\)](https://open.spotify.com/album/4dsjIo29fU5QOowQ1hj1z8) | 3:58 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 | 74 | [Grace](https://open.spotify.com/track/4Ld3gMZnlIGuDOaUiybrko) | [Nelson Rangell](https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88) | [Destiny](https://open.spotify.com/album/6dfSJHkRu7PPsg13MjoIbf) | 5:32 |
 | 75 | [Nightlife](https://open.spotify.com/track/2RZ4AXlxoLZbFgHGsfHY8i) | [Paul Taylor](https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ) | [Nightlife](https://open.spotify.com/album/3REfT3hfJrLkfsfmkS8ZHN) | 4:31 |
 
-Snapshot ID: `MCwxNjM4MGFiMmZhNTBjZDdmMDBmZTg1MDlkYjI1ZjZlODkwNGY5N2Ri`
+Snapshot ID: `MCw5YTgyNDBlZDJiZDJkNDQ2ZjBiOGI4Yjg4MWQ5YzU0MzVjMzFhMTg4`

@@ -2,7 +2,7 @@
 
 ### [sad girl starter pack](https://open.spotify.com/playlist/37i9dQZF1DWW2hj3ZtMbuO)
 
-> Sapphic songs that defined your music taste as "yearning."
+> pov: your Spotify Wrapped says you’re from berkeley, burlington, or cambridge
 
 365 songs - 21 hr 54 min
 

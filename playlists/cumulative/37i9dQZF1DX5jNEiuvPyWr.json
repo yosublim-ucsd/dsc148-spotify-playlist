@@ -3444,10 +3444,28 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 183046,
       "name": "MEILLEUR",
       "url": "https://open.spotify.com/track/4LzP3qhx5v3qo1nMn4Fhu9"
+    },
+    {
+      "album": {
+        "name": "HUMAIN",
+        "url": "https://open.spotify.com/album/7JZT9iNvgUcdmiju0ps1z9"
+      },
+      "artists": [
+        {
+          "name": "MPablo",
+          "url": "https://open.spotify.com/artist/4Pmp4phME9ksNwnpPHumHU"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183046,
+      "name": "MEILLEUR",
+      "url": "https://open.spotify.com/track/5atKLIetNSwYT8mYdVRWQO"
     },
     {
       "album": {

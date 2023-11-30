@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 545348,
+  "num_followers": 545447,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODNmMzIwOWI1MjYyMDU4NmQ2NGYxMjk4M2E3OTc4YmU2MzZiM2M1",
+  "snapshot_id": "MCwzNDc3NDY5ZTM1ODdkYmVlZmYzMDUyY2UzM2U3MjZjZWFlMTdkOGVm",
   "tracks": [
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Bruises",
-        "url": "https://open.spotify.com/album/1xYk6pycBgnLYw4ZXwgldj"
-      },
-      "artists": [
-        {
-          "name": "AUGUST 08",
-          "url": "https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi"
-        }
-      ],
-      "duration_ms": 190948,
-      "name": "Bruises",
-      "url": "https://open.spotify.com/track/3pSpLYsOi6fZ6N0P962XaJ"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "retro electrique fever",
         "url": "https://open.spotify.com/album/2y6UGYRHMrQQ1IJZ4vWYbb"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 154687,
       "name": "retro electrique fever",
       "url": "https://open.spotify.com/track/0DRZRfXOWgj2VNJNRRqNnR"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Bruises",
+        "url": "https://open.spotify.com/album/1xYk6pycBgnLYw4ZXwgldj"
+      },
+      "artists": [
+        {
+          "name": "AUGUST 08",
+          "url": "https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi"
+        }
+      ],
+      "duration_ms": 190948,
+      "name": "Bruises",
+      "url": "https://open.spotify.com/track/3pSpLYsOi6fZ6N0P962XaJ"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1123,30 +1123,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Skipping Like A Stone (feat. Beck) [Gerd Janson Remix]",
-        "url": "https://open.spotify.com/album/1sTGjuVWoBksS49T9pOp4b"
-      },
-      "artists": [
-        {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
-        },
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        },
-        {
-          "name": "Gerd Janson",
-          "url": "https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO"
-        }
-      ],
-      "duration_ms": 185821,
-      "name": "Skipping Like A Stone (feat. Beck) - Gerd Janson Remix",
-      "url": "https://open.spotify.com/track/3qDaCdP9xU4wMoLYJCipyo"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Hope For Sale",
         "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
       },
@@ -1175,6 +1151,30 @@
       "duration_ms": 231105,
       "name": "All The Things We Say",
       "url": "https://open.spotify.com/track/1KH8bxeGwgw1IxtzQUx6m5"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Skipping Like A Stone (feat. Beck) [Gerd Janson Remix]",
+        "url": "https://open.spotify.com/album/1sTGjuVWoBksS49T9pOp4b"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        },
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        },
+        {
+          "name": "Gerd Janson",
+          "url": "https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO"
+        }
+      ],
+      "duration_ms": 185821,
+      "name": "Skipping Like A Stone (feat. Beck) - Gerd Janson Remix",
+      "url": "https://open.spotify.com/track/3qDaCdP9xU4wMoLYJCipyo"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1375,6 +1375,26 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "King Of My Castle (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/0JqppbYzqLzTiB7oNqTKBM"
+      },
+      "artists": [
+        {
+          "name": "Wamdue Project",
+          "url": "https://open.spotify.com/artist/2U33UlGhnPqg3B5xJTn3zm"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 199191,
+      "name": "King of My Castle (Purple Disco Machine Remix) (Edit)",
+      "url": "https://open.spotify.com/track/5oQwwbj26sFjxlL1oT4TJU"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "FWD (feat. Rudimental & House Gospel Choir)",
         "url": "https://open.spotify.com/album/2vRGCL4wSoBAWUkuI8KPfj"
       },
@@ -1415,26 +1435,6 @@
       "duration_ms": 147086,
       "name": "I'm A Woman",
       "url": "https://open.spotify.com/track/5dcpLmwjST0jOLvl7S9eRW"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "King Of My Castle (Purple Disco Machine Remix)",
-        "url": "https://open.spotify.com/album/0JqppbYzqLzTiB7oNqTKBM"
-      },
-      "artists": [
-        {
-          "name": "Wamdue Project",
-          "url": "https://open.spotify.com/artist/2U33UlGhnPqg3B5xJTn3zm"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 199191,
-      "name": "King of My Castle (Purple Disco Machine Remix) (Edit)",
-      "url": "https://open.spotify.com/track/5oQwwbj26sFjxlL1oT4TJU"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Motions",
+        "url": "https://open.spotify.com/album/5STBzJGEIATKtZQDf2t94W"
+      },
+      "artists": [
+        {
+          "name": "Midnight Pool Party",
+          "url": "https://open.spotify.com/artist/5SCaNm27aL0t2Vld0DxV4Z"
+        }
+      ],
+      "duration_ms": 232794,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/2ceeWOjkhDVZfBTCcTD5d9"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Call On Me & Lifetime (Remixes)",
         "url": "https://open.spotify.com/album/1CRH8YfN1l16GxyuuFQn18"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 193106,
       "name": "Lifetime - Dimitri From Paris 'Cruising Attitude' Remix",
       "url": "https://open.spotify.com/track/3UG6kDGptSoj8JMavdvZbc"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Motions",
-        "url": "https://open.spotify.com/album/5STBzJGEIATKtZQDf2t94W"
-      },
-      "artists": [
-        {
-          "name": "Midnight Pool Party",
-          "url": "https://open.spotify.com/artist/5SCaNm27aL0t2Vld0DxV4Z"
-        }
-      ],
-      "duration_ms": 232794,
-      "name": "Secret",
-      "url": "https://open.spotify.com/track/2ceeWOjkhDVZfBTCcTD5d9"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1871,6 +1871,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Seventies",
+        "url": "https://open.spotify.com/album/5X6J5NTJIWPCJzcRwIKXmb"
+      },
+      "artists": [
+        {
+          "name": "Theo Kottis",
+          "url": "https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO"
+        }
+      ],
+      "duration_ms": 196035,
+      "name": "Seventies",
+      "url": "https://open.spotify.com/track/4k0vs6zgt0NYq6tmDum4nP"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Last Dance",
         "url": "https://open.spotify.com/album/1pGl9quH4KSsfSjPKz9TT9"
       },
@@ -1895,42 +1911,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Seventies",
-        "url": "https://open.spotify.com/album/5X6J5NTJIWPCJzcRwIKXmb"
+        "name": "Take It Back (feat. Davie)",
+        "url": "https://open.spotify.com/album/5NN6jIlYaOhjirtYiGuPNr"
       },
       "artists": [
         {
-          "name": "Theo Kottis",
-          "url": "https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO"
-        }
-      ],
-      "duration_ms": 196035,
-      "name": "Seventies",
-      "url": "https://open.spotify.com/track/4k0vs6zgt0NYq6tmDum4nP"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Forward",
-        "url": "https://open.spotify.com/album/1pDgEvP1r2JI9HZl39clKx"
-      },
-      "artists": [
-        {
-          "name": "p-rallel",
-          "url": "https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD"
+          "name": "Mousse T.",
+          "url": "https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6"
         },
         {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        },
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+          "name": "Davie",
+          "url": "https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06"
         }
       ],
-      "duration_ms": 197277,
-      "name": "Can't Get Enough (feat. Rachel Chinouriri & Venna)",
-      "url": "https://open.spotify.com/track/7s47cTLl4j1JKawu308yId"
+      "duration_ms": 216020,
+      "name": "Take It Back (feat. Davie)",
+      "url": "https://open.spotify.com/track/60ILwSbZxEZ6qgYZMPAq4D"
     }
   ],
   "unique_name": "Poolside Disco",

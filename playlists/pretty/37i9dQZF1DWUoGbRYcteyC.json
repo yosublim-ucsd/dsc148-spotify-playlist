@@ -1,12 +1,12 @@
 {
   "description": "Qu\u00e9 bonito se siente el amor. \ud83d\udc98",
-  "num_followers": 2001386,
+  "num_followers": 2001385,
   "original_name": "Amor Amor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDMzYjZjNjQyYmYyZThhYjZlNjk2MGViOGJhYTYxZDkwYmU4MzQ2",
+  "snapshot_id": "MCw0OTE1NzU5ZDNmZTFhNmU3YjQzM2FmNTA1Zjg5YzUzZjlhYjQ5YWFi",
   "tracks": [
     {
       "added_at": "2023-11-24 05:00:00",
@@ -299,26 +299,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Amar Es Combatir",
-        "url": "https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        },
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 264720,
-      "name": "Bendita Tu Luz",
-      "url": "https://open.spotify.com/track/2JBs412fpVUuzIaIp3CyIs"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Amantes",
         "url": "https://open.spotify.com/album/4tkqeWRaQHPzPRQFX8o9Vi"
       },
@@ -335,6 +315,26 @@
       "duration_ms": 235424,
       "name": "Amantes",
       "url": "https://open.spotify.com/track/3IyPnNX142pvWx6D5CiimD"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Amar Es Combatir",
+        "url": "https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        },
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 264720,
+      "name": "Bendita Tu Luz",
+      "url": "https://open.spotify.com/track/2JBs412fpVUuzIaIp3CyIs"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "La Llave De Mi Corazon",
-        "url": "https://open.spotify.com/album/5OBRA1jxjtshwdhCOGgZAG"
+        "name": "Mostly Fresh",
+        "url": "https://open.spotify.com/album/53phqGvLGYTs2BrqyF5YvR"
       },
       "artists": [
         {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
         }
       ],
-      "duration_ms": 162066,
-      "name": "Si Tu No Bailas Conmigo",
-      "url": "https://open.spotify.com/track/4TOe4WfqNiBwuS0Wi63xc5"
+      "duration_ms": 167888,
+      "name": "\u00c1ngel",
+      "url": "https://open.spotify.com/track/1cLl605RLNVbleRjNjZZz2"
     }
   ],
   "unique_name": "Amor Amor",

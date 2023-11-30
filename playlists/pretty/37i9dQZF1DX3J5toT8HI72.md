@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 
 > Grandes músicas pra você curtir com seu amorzinho \(ou pensando nele\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 787,391 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 787,469 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 81 | [Sabe](https://open.spotify.com/track/2PTyjGy10dTbYGYxzc3O1U) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Sabe](https://open.spotify.com/album/6xZFZZfrItujSQlRbfOvqN) | 2:11 |
 | 82 | [coisa mais bonita](https://open.spotify.com/track/3mxWZCTWCx0zb5QVEfDh4M) | [Caike Souza](https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa) | [coisa mais bonita](https://open.spotify.com/album/6quZjmU82PLIJQJPoYZTZb) | 2:56 |
 | 83 | [O Leãozinho \- Live](https://open.spotify.com/track/0mDcMtuq4bJieP9LZqmaXZ) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Multishow Ao Vivo Caetano e Maria Gadú](https://open.spotify.com/album/4MbNm26ee65EJm8BKvftWH) | 2:34 |
-| 84 | [Aliança](https://open.spotify.com/track/1eFlkymohjGtRnnYGabg8s) | [Tribalistas](https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD) | [Aliança](https://open.spotify.com/album/7HuXR9KhA5SRybSQoTYLnM) | 3:56 |
-| 85 | [Todo Amor Que Houver Nessa Vida \- Ao Vivo](https://open.spotify.com/track/31RNX9vTwybIGVhteTpfT3) | [Cássia Eller](https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/7mgNhvsT5RpvIoq8q2DHFI) | 3:41 |
+| 84 | [Todo Amor Que Houver Nessa Vida \- Ao Vivo](https://open.spotify.com/track/31RNX9vTwybIGVhteTpfT3) | [Cássia Eller](https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/7mgNhvsT5RpvIoq8q2DHFI) | 3:41 |
+| 85 | [Aliança](https://open.spotify.com/track/1eFlkymohjGtRnnYGabg8s) | [Tribalistas](https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD) | [Aliança](https://open.spotify.com/album/7HuXR9KhA5SRybSQoTYLnM) | 3:56 |
 | 86 | [Alma Gêmea](https://open.spotify.com/track/4XlMzWC8jUKd6nTXcQmWF8) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Rafa Kabelo](https://open.spotify.com/artist/1f45kEQGljLiTKsb3hX5Dj) | [O Glorioso Retorno de Quem Nunca Esteve Aqui](https://open.spotify.com/album/57PWjWHzqzODblomXxnQca) | 4:00 |
 | 87 | [Baby](https://open.spotify.com/track/5zwoN1BAcMh2EcBpKhW7VT) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Nenhuma Dor](https://open.spotify.com/album/3uv833F3xc92vzytEkbmN6) | 3:57 |
 | 88 | [Eu Te Amo](https://open.spotify.com/track/5oXihYXwoWrwJJyPrQF2k1) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [A Vida É Boa](https://open.spotify.com/album/24jHOtYr4QloZTAQSTJgTO) | 3:45 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 92 | [Onde Anda Você](https://open.spotify.com/track/2IKzHKzPulnRsqyGHwhIdT) | [Tiago Nacarato](https://open.spotify.com/artist/3mwYj8Nb9VZbAnLpli7l8X) | [Aquecimento Verão MPB](https://open.spotify.com/album/5D5rxNEHttGjhkAXJ8AUq3) | 2:51 |
 | 93 | [Anjo Protetor](https://open.spotify.com/track/3VdeZzowGusdGH9YbNX5fu) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Outono](https://open.spotify.com/album/2V6U3S4sRuT69AiLFgKU3y) | 3:39 |
 | 94 | [Cosquinha No Coração \- Ao Vivo](https://open.spotify.com/track/67e7dtapoeyCkaHFOaBIQy) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Ao Vivo Em Brasília \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/3QeUaFs0eR6nsuz45OdxLZ) | 3:13 |
-| 95 | [Vem Cá \- Ao Vivo](https://open.spotify.com/track/0EsFrHIUYEJmMDHPbMOb96) | [Malía](https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u) | [Vem Cá \(Ao Vivo\)](https://open.spotify.com/album/4n3V55qm74LHzn5JTH6pLN) | 3:22 |
-| 96 | [Eu Sou Você](https://open.spotify.com/track/1S5xxCLAVai7U3iNn4GztE) | [Eu, Trovador](https://open.spotify.com/artist/5UoJcZMaNYTNDVwKyEJi88) | [Eu Sou Você](https://open.spotify.com/album/7mdQkEIU6pBlz9y9E9lEX1) | 3:35 |
+| 95 | [Eu Sou Você](https://open.spotify.com/track/1S5xxCLAVai7U3iNn4GztE) | [Eu, Trovador](https://open.spotify.com/artist/5UoJcZMaNYTNDVwKyEJi88) | [Eu Sou Você](https://open.spotify.com/album/7mdQkEIU6pBlz9y9E9lEX1) | 3:35 |
+| 96 | [Vem Cá \- Ao Vivo](https://open.spotify.com/track/0EsFrHIUYEJmMDHPbMOb96) | [Malía](https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u) | [Vem Cá \(Ao Vivo\)](https://open.spotify.com/album/4n3V55qm74LHzn5JTH6pLN) | 3:22 |
 | 97 | [Ouro](https://open.spotify.com/track/1VJ93t38cXKJc58CZxyO2O) | [Jhama](https://open.spotify.com/artist/5mXYWM38dlAs01e3XQEtma) | [Ouro](https://open.spotify.com/album/52gcfCi6jBmWSEg3DuNVeR) | 2:58 |
 | 98 | [Luz Dos Olhos \- Ao Vivo](https://open.spotify.com/track/4h4YauU9V7Hckg3nSeDVdA) | [Cássia Eller](https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh) | [Cássia Eller Em Casa](https://open.spotify.com/album/6T6Vo6ACxuxdFRS3b3uKtY) | 4:09 |
 | 99 | [Anel de Coco \- Acústico \| Ao Vivo](https://open.spotify.com/track/7LuLv35fgBvI0FkzxT9r3l) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Anel de Coco Acústico \(Ao Vivo\)](https://open.spotify.com/album/1F3sVbUnq8vA3IR4154jI8) | 3:02 |
 | 100 | [Bem Que Se Quis \- Ao Vivo](https://open.spotify.com/track/1nGI6ent4Eb8jmE4cnq3Gy) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Ao Vivo Em Lisboa](https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k) | 4:16 |
 
-Snapshot ID: `MCw4YWExNGQwMmI0MDVhZjBhZmVkMTRjZGQ1Zjg2ZDY0MGVjZTc0NTBk`
+Snapshot ID: `MCxjNGYxNWEwOTBmNmQxN2M4NDU1NzcwNzRiNDVjMWY0MjBlNTk1MTc3`

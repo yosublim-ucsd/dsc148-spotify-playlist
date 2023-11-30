@@ -4,7 +4,7 @@
 
 > Fresh Latin pop on the rise\. Cover: Yami Safdie
 
-511 songs - 1 day 1 hr 44 min
+512 songs - 1 day 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [ESO VA](https://open.spotify.com/track/3OJHqWUIF06coILsONNcJ4) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X), [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [ESO VA](https://open.spotify.com/album/7G6P1cBAHQqFP3ljX8d27w) | 2:46 | 2023-10-13 |  |
 | [estereotipo](https://open.spotify.com/track/6voO89mK2xygUwHsiPUi6u) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [estereotipo](https://open.spotify.com/album/3ObhlbrQKD8aoUA6ZVyt0n) | 2:54 | 2022-07-25 | 2022-10-29 |
 | [Eva](https://open.spotify.com/track/3kof23H8ZheEzzhARBlf4o) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Eva](https://open.spotify.com/album/5L5zhlV2NQALYptNM3WNIz) | 4:08 | 2023-03-17 | 2023-03-25 |
+| [Extraños de Nuevo](https://open.spotify.com/track/4vV6excnr7nrFInnJgh7Ta) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Extraños de Nuevo](https://open.spotify.com/album/5TW21m3j4vJJJkeVepCHYm) | 3:15 | 2023-11-24 |  |
 | [Falsas Promesas](https://open.spotify.com/track/22CiUJfxqy351cndvSdpSE) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Ozziel](https://open.spotify.com/artist/71AORzwbG15at2XVDp6iyh) | [Falsas Promesas](https://open.spotify.com/album/4NbpHL7tRAHNptRXQcsfak) | 4:28 | 2022-12-02 | 2023-02-11 |
 | [Fantasma](https://open.spotify.com/track/7BW5CXmE4DF91TmMbK4LXg) | [Sergi](https://open.spotify.com/artist/1YdO9GJZicIofAYHnFZSwv), [KID FLEX](https://open.spotify.com/artist/3MG0nEhYET2TCkegY1QBP6) | [Fantasma](https://open.spotify.com/album/11ppugYYbGGEJfnEQWgCfd) | 3:03 | 2022-03-21 | 2022-06-13 |
 | [fantasmas](https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [fantasmas](https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3) | 4:47 | 2023-11-17 |  |
@@ -476,7 +477,7 @@
 | [Trepado](https://open.spotify.com/track/711ngcynIQHVRmTn5R7QVs) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Oscu](https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A) | [Trepado](https://open.spotify.com/album/49YhDMBAxaoaQl1I2kvuCz) | 2:50 | 2022-09-09 | 2022-10-29 |
 | [Tu Apodo](https://open.spotify.com/track/6LDdT2ajmQwa2X8KgjAOSq) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Tu Apodo](https://open.spotify.com/album/1VOfSXkm9fGGhIbZ0GzP5q) | 2:35 | 2023-02-10 | 2023-03-11 |
 | [Tu Boca](https://open.spotify.com/track/3uIfaA9Xe5yHXt5sIxVYsh) | [HALÉ](https://open.spotify.com/artist/0wWRmiISCSkPHDqQFIXBii) | [Tu Boca](https://open.spotify.com/album/0RIIwcidaXFpZNg2cZu9D2) | 3:02 | 2022-05-09 | 2022-07-29 |
-| [Tu Canción](https://open.spotify.com/track/5MEOi4Xbxxtjrcf4WD8ztH) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Tu Canción](https://open.spotify.com/album/73Hd2erTeZ6BeshYv6Rjs2) | 3:11 | 2023-10-27 |  |
+| [Tu Canción](https://open.spotify.com/track/5MEOi4Xbxxtjrcf4WD8ztH) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Tu Canción](https://open.spotify.com/album/73Hd2erTeZ6BeshYv6Rjs2) | 3:11 | 2023-10-27 | 2023-11-30 |
 | [Tu Debilidad \(feat\. Emilia\)](https://open.spotify.com/track/1XzihhvRzOHYmVImIZ9g8Q) | [Mati Gómez](https://open.spotify.com/artist/23mC5tLCbMk9zqrR2dFtNE), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Tu Debilidad \(feat\. Emilia\)](https://open.spotify.com/album/1qrlFEQBcFkWfH0dxjkMDQ) | 2:41 | 2022-03-21 | 2022-06-13 |
 | [Tu Foto](https://open.spotify.com/track/6sbE1uNp4efoI3vR41d0uD) | [Daishan](https://open.spotify.com/artist/3nUAKuxhyBw6JFWNUaZWbE) | [Tu Foto](https://open.spotify.com/album/0t5u5KgV1AEMpey8RcrNUJ) | 3:00 | 2022-03-21 | 2022-06-13 |
 | [Tu Mal](https://open.spotify.com/track/5MM7qBRE7av0neCcsPrll0) | [Mimi Rose](https://open.spotify.com/artist/0gm0s1Jbc0lIuzDLHH1SYB) | [Tu Mal](https://open.spotify.com/album/39uy6LRqVbLbh5pFNCFtgT) | 2:56 | 2023-03-31 | 2023-04-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 
 > music to get fly to ft Erykah Badu and Usher front row at Marni.
 
-[Spotify](https://open.spotify.com/user/spotify) - 527,280 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 527,318 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 | 54 | [Wildin'](https://open.spotify.com/track/4LGg2NY9eHp0jF3L1WbCNl) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Wildin'](https://open.spotify.com/album/7kSFfhqYkwCiBYzYm8o61i) | 2:19 |
 | 55 | [60 Seconds](https://open.spotify.com/track/1NNwTBL6vDgSw14UDGWOte) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Coven Music Session, Vol\. 1](https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc) | 0:58 |
 | 56 | [Indeed](https://open.spotify.com/track/1jASJWOio1y6HX9noE7FWi) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Dog Daze](https://open.spotify.com/album/0APqibgHREHUQyPXOqVzBa) | 2:28 |
-| 57 | [Lullaby](https://open.spotify.com/track/0PiSok4AgEcnVSWSGiz86p) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Janky Star](https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl) | 3:06 |
-| 58 | [All My Girls Like To Fight](https://open.spotify.com/track/6rCuplMDiFQVSca77OQocz) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [All My Girls Like To Fight](https://open.spotify.com/album/0ajMPNNALiabIrvCCaCKcl) | 3:52 |
+| 57 | [All My Girls Like To Fight](https://open.spotify.com/track/6rCuplMDiFQVSca77OQocz) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [All My Girls Like To Fight](https://open.spotify.com/album/0ajMPNNALiabIrvCCaCKcl) | 3:52 |
+| 58 | [Lullaby](https://open.spotify.com/track/0PiSok4AgEcnVSWSGiz86p) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Janky Star](https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl) | 3:06 |
 | 59 | [girls like me don't cry \(remix\) ft\. MIN](https://open.spotify.com/track/78ByURsaVK39jjwTaerCAk) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [girls like me don't cry \(remix\) ft\. MIN](https://open.spotify.com/album/6MmW9GNxUJ7rDoGs5xEbOf) | 3:33 |
 | 60 | [Family Tree](https://open.spotify.com/track/695L0B06tMVsy8RiwC7dHc) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 2:13 |
 | 61 | [If You Won't](https://open.spotify.com/track/7omQcQTiUCS1ZTRriyBqBA) | [Rayana Jay](https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S) | [Love Me Like](https://open.spotify.com/album/4ASozZrX3WMIJplKcfRJYf) | 3:10 |
@@ -82,12 +82,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 | 72 | [Greatest Hits](https://open.spotify.com/track/5eWKybWrLV0JyI2rU0NfA1) | [Jockstrap](https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k) | [I Love You Jennifer B](https://open.spotify.com/album/4YFlC5Abaj48ERwaOPfpu8) | 4:27 |
 | 73 | [For Granted](https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [For Granted](https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ) | 2:41 |
 | 74 | [NICE OUT](https://open.spotify.com/track/47k1Ox90yk7EicCAd3QDhc) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [NICE OUT](https://open.spotify.com/album/2UevF4zIN6rYNEk9I0l8zJ) | 4:06 |
-| 75 | [Protect My Energy](https://open.spotify.com/track/64DqILfBnCXzhEDGUHZet1) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 3:08 |
-| 76 | [Are You In The Room](https://open.spotify.com/track/5d4njBTnGHcaSvjDnicA3N) | [CLUB INDGO](https://open.spotify.com/artist/7npM6EhPHmTWJCCPFZzhpC), [Sança](https://open.spotify.com/artist/1DSFf0RnfYrtNr0eKndzzc), [Ill Addicts](https://open.spotify.com/artist/0M4HBOoYoByb7ErrGMjM3z) | [Are You In The Room](https://open.spotify.com/album/4rxupkFO0No2CVYt77iBej) | 3:07 |
+| 75 | [Are You In The Room](https://open.spotify.com/track/5d4njBTnGHcaSvjDnicA3N) | [CLUB INDGO](https://open.spotify.com/artist/7npM6EhPHmTWJCCPFZzhpC), [Sança](https://open.spotify.com/artist/1DSFf0RnfYrtNr0eKndzzc), [Ill Addicts](https://open.spotify.com/artist/0M4HBOoYoByb7ErrGMjM3z) | [Are You In The Room](https://open.spotify.com/album/4rxupkFO0No2CVYt77iBej) | 3:07 |
+| 76 | [Protect My Energy](https://open.spotify.com/track/64DqILfBnCXzhEDGUHZet1) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 3:08 |
 | 77 | [FLOOR](https://open.spotify.com/track/0YsiXEd69QrZK3AVfBAuV9) | [Flozigg](https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv), [Icee Red](https://open.spotify.com/artist/6G98zoiC4js8JiF1uNOwQC) | [FLOOR](https://open.spotify.com/album/7jgZRd9rDFS1FA6PuOj4Mc) | 2:05 |
 | 78 | [Mr Valentine](https://open.spotify.com/track/2E51gp6rrOPtfvmrk6wIL5) | [YAZ](https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk) | [Mr Valentine](https://open.spotify.com/album/2TuYvh4A25VRWjqxnC4sf0) | 2:37 |
-| 79 | [Conveniency](https://open.spotify.com/track/0hneE3CWTOFd9PC3qKfJcU) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Conveniency](https://open.spotify.com/album/0lXN4MXvk2ix9IOfJdLDwY) | 2:22 |
-| 80 | [Gonna Bleach My Eyebrows](https://open.spotify.com/track/3Am6nVgWd4pwO2hguNHqI7) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Gonna Bleach My Eyebrows](https://open.spotify.com/album/3NNkuonLgIpuUx3KdMczQy) | 2:14 |
+| 79 | [Gonna Bleach My Eyebrows](https://open.spotify.com/track/3Am6nVgWd4pwO2hguNHqI7) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Gonna Bleach My Eyebrows](https://open.spotify.com/album/3NNkuonLgIpuUx3KdMczQy) | 2:14 |
+| 80 | [Conveniency](https://open.spotify.com/track/0hneE3CWTOFd9PC3qKfJcU) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Conveniency](https://open.spotify.com/album/0lXN4MXvk2ix9IOfJdLDwY) | 2:22 |
 | 81 | [BACKWARDS](https://open.spotify.com/track/7zuSn410s3z8Ki7iuO6ZSO) | [RUNNER BOY](https://open.spotify.com/artist/3ZymIpT2ZdBAUCaDncvdBv), [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [BACKWARDS](https://open.spotify.com/album/51WjoBBCY3wZ8Cbqy8TDrQ) | 1:46 |
 | 82 | [CTRL](https://open.spotify.com/track/0cGwZWfdBTLWZSiATC7OXm) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [CTRL](https://open.spotify.com/album/3lg6V1KDuWepNyGt3YSTJ7) | 2:19 |
 | 83 | [Cry Alone](https://open.spotify.com/track/1ijdK77sk67rPi450Pmm8O) | [Cydnee with a C](https://open.spotify.com/artist/5a4kURAuZDYRjLfkJq3zQU) | [Cry Alone](https://open.spotify.com/album/5HNAP2fit3ueHHo5Zsb2dU) | 1:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 | 99 | [silver lining](https://open.spotify.com/track/4tuIihi8Bv5WNHDLe8pkiy) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [froge.mp3](https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7) | 2:34 |
 | 100 | [Follow Me](https://open.spotify.com/track/3XVsJ2JMP3oBUqhXbFReQ3) | [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [Monologues](https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE) | 3:41 |
 
-Snapshot ID: `MCw4OGI2MzJjM2JiYjg1MDg3ZDRkMGU1ZWM4OGVhZjMzMzIwMWY0ZGJh`
+Snapshot ID: `MCw3N2IyMWNiZmM5YTcwNmRhYmFhMjgwZjI4YjFjOGFlNjFlMTVlZDNj`

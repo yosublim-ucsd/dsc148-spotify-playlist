@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0VvfiaR7l5xBzEjCLygDOM.md) - [plain]
 
 > 
 
-[Noah](https://open.spotify.com/user/k4ywenjsouypjg1tkpbu4lt0w) - 4 likes - 42 songs - 2 hr 27 min
+[Noah](https://open.spotify.com/user/k4ywenjsouypjg1tkpbu4lt0w) - 5 likes - 42 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

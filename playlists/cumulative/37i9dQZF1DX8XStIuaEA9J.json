@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Ai need your love",
+        "url": "https://open.spotify.com/album/7fg7uDn8Dhslc4DqBlnbmw"
+      },
+      "artists": [
+        {
+          "name": "\u51a8\u5ca1\u611b",
+          "url": "https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226274,
+      "name": "Ai need your love",
+      "url": "https://open.spotify.com/track/5IKcZuIuzKyx7hyqKTY7cg"
+    },
+    {
+      "album": {
         "name": "Anone",
         "url": "https://open.spotify.com/album/4HjChxXbdVLauxSsAAwFXi"
       },
@@ -82,6 +100,24 @@
       "duration_ms": 204881,
       "name": "Biscuit",
       "url": "https://open.spotify.com/track/4VerfQl7Y8UphNFBWEKMtV"
+    },
+    {
+      "album": {
+        "name": "Buriki No Dance",
+        "url": "https://open.spotify.com/album/434XGVb26I50AvHTKdwAYk"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Buriki No Dance",
+      "url": "https://open.spotify.com/track/1tf23ctEJtmWpCoMwVwFLF"
     },
     {
       "album": {
@@ -287,7 +323,7 @@
     },
     {
       "album": {
-        "name": "KANPAI FUNK feat. \u30d5\u30ec\u30c7\u30ea\u30c3\u30af",
+        "name": "KANPAI FUNK",
         "url": "https://open.spotify.com/album/2DRH6H1Ux7IfCDJRkOmHSG"
       },
       "artists": [
@@ -304,7 +340,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 214133,
-      "name": "KANPAI FUNK feat. \u30d5\u30ec\u30c7\u30ea\u30c3\u30af",
+      "name": "KANPAI FUNK",
       "url": "https://open.spotify.com/track/1Hc3rIP0VvUAcrZZKazxXo"
     },
     {
@@ -627,6 +663,24 @@
     },
     {
       "album": {
+        "name": "TOKYO JOURNEY",
+        "url": "https://open.spotify.com/album/2f6d38S4UgGAF66V7DTwzs"
+      },
+      "artists": [
+        {
+          "name": "MONONOKE",
+          "url": "https://open.spotify.com/artist/145u2V6RMbtZv0taOhfR6x"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258528,
+      "name": "TOKYO JOURNEY",
+      "url": "https://open.spotify.com/track/3eVvBU4nUV2GoVoF4iHo12"
+    },
+    {
+      "album": {
         "name": "Oidaki",
         "url": "https://open.spotify.com/album/5FGKmIasXlcphIo9Z3ihS5"
       },
@@ -866,7 +920,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 188993,
       "name": "\u30b0\u30c3\u30c9\u30df\u30e5\u30fc\u30b8\u30c3\u30af",
       "url": "https://open.spotify.com/track/4Y1HKX8JNTNWikn3pl5uug"
@@ -1004,7 +1058,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 199000,
       "name": "\u30d6\u30ea\u30ad\u30ce\u30c0\u30f3\u30b9",
       "url": "https://open.spotify.com/track/2yVBhde18jnhFGgA52eDt2"
@@ -1148,7 +1202,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 226274,
       "name": "\u611b need your love",
       "url": "https://open.spotify.com/track/7BBaJjWYEfEGFuUyM9zCyB"

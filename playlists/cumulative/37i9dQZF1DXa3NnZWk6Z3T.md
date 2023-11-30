@@ -4,7 +4,7 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-334 songs - 19 hr 13 min
+335 songs - 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Agua](https://open.spotify.com/track/5omgFpiMt1CGHjQGfkwzvz) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Depende](https://open.spotify.com/album/5aLIm5xrN5UxUZOXbjyrrx) | 4:14 | 2021-12-09 | 2022-10-28 |
 | [Ahorita](https://open.spotify.com/track/1OzdGvZ6iSzTHVu9QF7dpT) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Ahorita](https://open.spotify.com/album/62fKzKe3VysgLR9GTajSLj) | 3:19 | 2021-12-09 |  |
 | [Al otro lado del río](https://open.spotify.com/track/5BudpQ0Ct9sss8c9Fqv9MJ) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Al otro lado del rio](https://open.spotify.com/album/5P3g95p2KfPCOlD5Zca9Xi) | 3:14 | 2022-04-07 | 2022-10-28 |
+| [Algo Más](https://open.spotify.com/track/7CjfzkUKIbNrPD6ztRI8xO) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM), [Cheo](https://open.spotify.com/artist/7KoRkLCpcB7svD45xGxEfU) | [Algo Más](https://open.spotify.com/album/0s7AksApzZ6ann92uaNvJ3) | 3:27 | 2023-11-24 |  |
 | [Alice Hyatt](https://open.spotify.com/track/2zvOgRsHsfl75hgnTXKDSC) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [Alice Hyatt](https://open.spotify.com/album/1aa8VzI2W50X3cD8ZMwpJQ) | 2:42 | 2022-04-07 | 2022-04-21 |
 | [Alma Mía \(feat\. Los Macorinos\)](https://open.spotify.com/track/7qVnzohY8VAKFkiJIgStbk) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Musas \(Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos\), Vol\. 2](https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy) | 4:19 | 2021-12-09 | 2022-10-28 |
 | [Amiga Cruel \(Acústico\)](https://open.spotify.com/track/5c8mWRQFH9jFfcxc96QtTI) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Amiga Cruel \(Acústico\)](https://open.spotify.com/album/4nVhklAIoayQe43DB5Qg3K) | 3:37 | 2021-12-09 |  |
@@ -95,7 +96,7 @@
 | [Corazón Gitano](https://open.spotify.com/track/0lOABKEHFsQ5dYvFZO6ssG) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Antonio Carmona](https://open.spotify.com/artist/1YVEF2N8QHkkQ84LM51Xyo) | [Corazón Gitano](https://open.spotify.com/album/6G6kXacmfhK2QoD3FL9QYx) | 3:41 | 2021-12-09 | 2022-07-29 |
 | [costas de coral](https://open.spotify.com/track/258tAJYRrYUtcEgfHXNRAt) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [costas de coral](https://open.spotify.com/album/3hQmxck36h07jfn8UEQLps) | 3:08 | 2022-12-30 |  |
 | [Crazy Love](https://open.spotify.com/track/3C4njwEL5bda64vv1JAQt5) | [Irene Diaz](https://open.spotify.com/artist/1ADOdE5G5ToLJQBP9hv9NF) | [I Love You Madly EP](https://open.spotify.com/album/1OLFfUp0dJ4aVItd0EfCyu) | 3:46 | 2021-12-09 |  |
-| [cómo cuándo y dónde](https://open.spotify.com/track/7JHGipL0wFFuyl54Zknic0) | [Ainoa Buitrago](https://open.spotify.com/artist/4K2wdPQkTRDesavmN66Zk7) | [cómo cuándo y dónde](https://open.spotify.com/album/0Lb3RdzKgGPaOpFiqrGUxG) | 2:43 | 2022-09-06 |  |
+| [cómo cuándo y dónde](https://open.spotify.com/track/7JHGipL0wFFuyl54Zknic0) | [Ainoa Buitrago](https://open.spotify.com/artist/4K2wdPQkTRDesavmN66Zk7) | [cómo cuándo y dónde](https://open.spotify.com/album/0Lb3RdzKgGPaOpFiqrGUxG) | 2:43 | 2022-09-06 | 2023-11-30 |
 | [Cómo Me Sientas Tú Tan Bien](https://open.spotify.com/track/0cGbeeDa9ptxOZcTwSRuUw) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Cómo Me Sientas Tú Tan Bien](https://open.spotify.com/album/77oDZjx7G3mhHleDEaweW0) | 3:21 | 2021-12-09 | 2022-07-29 |
 | [Cómo Me Sientas Tú Tan Bien](https://open.spotify.com/track/5uqvZpriEEMKleWljJdckw) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Tan Difícil de Entender](https://open.spotify.com/album/4llL1SDFfsIsbuBY0seqKd) | 3:23 | 2022-05-14 |  |
 | [De Vez en Cuando](https://open.spotify.com/track/1QZk1of3DuIrqCklUPfy4W) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [All Inclusive](https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI) | 3:24 | 2022-05-14 |  |

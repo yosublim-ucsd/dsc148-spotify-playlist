@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 
 > Talented, brilliant, incredible, amazing, show\-stopping… See also: <a href="spotify:playlist:37i9dQZF1DX7YE2tQ4q86h">OBSESSED</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,244 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,419 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 | 23 | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t) | 3:02 |
 | 24 | [Salt](https://open.spotify.com/track/5iyZwawawLjHYpX4MxUKVF) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 3:00 |
 | 25 | [Be the One](https://open.spotify.com/track/1ixphys4A3NEXp6MDScfih) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Be the One](https://open.spotify.com/album/27BxsWgarjLePdql0KzOLP) | 3:22 |
-| 26 | [Leave \(Get Out\)](https://open.spotify.com/track/3DOxMCaNBNvnjSzpHUSjE3) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [JoJo](https://open.spotify.com/album/1UIesw6QSRT3VrFN36hwgp) | 4:02 |
-| 27 | [I Wanna Go](https://open.spotify.com/track/5cCAZS9VhLGEDV4NCfieeg) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Femme Fatale \(Deluxe Version\)](https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ) | 3:30 |
+| 26 | [I Wanna Go](https://open.spotify.com/track/5cCAZS9VhLGEDV4NCfieeg) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Femme Fatale \(Deluxe Version\)](https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ) | 3:30 |
+| 27 | [Leave \(Get Out\)](https://open.spotify.com/track/3DOxMCaNBNvnjSzpHUSjE3) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [JoJo](https://open.spotify.com/album/1UIesw6QSRT3VrFN36hwgp) | 4:02 |
 | 28 | [Euphoria](https://open.spotify.com/track/2knr7ikPt4l7bk92qS4ZXW) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Heal](https://open.spotify.com/album/73FYKSgOypVgghYr8GsEGl) | 3:34 |
 | 29 | [Dance To This \(feat\. Ariana Grande\)](https://open.spotify.com/track/2NjO87HyT80fsgejd3PLYW) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 3:51 |
 | 30 | [Maybe You’re The Problem](https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Maybe You’re The Problem](https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg) | 3:10 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 | 50 | [Neon Lights](https://open.spotify.com/track/34MJ07N9Bhu6iKPaxSVnCT) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Demi](https://open.spotify.com/album/6Kssm2LosQ0WyLukFZkEG5) | 3:53 |
 | 51 | [disco tits](https://open.spotify.com/track/1TIiWomS4i0Ikaf9EKdcLn) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [BLUE LIPS \(lady wood phase II\)](https://open.spotify.com/album/6jggnLM3SdDnjQ3GWmIZ4L) | 3:43 |
 | 52 | [What Dreams Are Made Of](https://open.spotify.com/track/7J1S5n6Kn4wZEu6xrBT0gk) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [The Lizzie McGuire Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4DduywjewTFQCcshWzXhMh) | 4:02 |
-| 53 | [Pound The Alarm](https://open.spotify.com/track/0LohatbcUXRauoeMlR1jnS) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday ..\. Roman Reloaded](https://open.spotify.com/album/6OfCOPtcPuhlAovGJ52uZO) | 3:25 |
-| 54 | [Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 4:18 |
+| 53 | [Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 4:18 |
+| 54 | [Pound The Alarm](https://open.spotify.com/track/0LohatbcUXRauoeMlR1jnS) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday ..\. Roman Reloaded](https://open.spotify.com/album/6OfCOPtcPuhlAovGJ52uZO) | 3:25 |
 | 55 | [C'Mon](https://open.spotify.com/track/4bO6IzKXMWhmncfIO9GBq2) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Warrior \(Expanded Edition\)](https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu) | 3:34 |
 | 56 | [Sledgehammer](https://open.spotify.com/track/4rUTAkOU7OkVGeQuyQCHhF) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [Reflection \(Deluxe\)](https://open.spotify.com/album/0zAsh6hObeNmFgFPrUiFcP) | 3:50 |
 | 57 | [1999](https://open.spotify.com/track/05mAIVLkIWc2d1UBYZBCp8) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [1999](https://open.spotify.com/album/49Teqcxp4dOBayTBtR3j5W) | 3:09 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 | 73 | [Hush Hush; Hush Hush / I Will Survive \- Medley](https://open.spotify.com/track/2H9CKpZiLDF223BbwehpDF) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [Hush Hush; Hush Hush](https://open.spotify.com/album/760FDehnzYHkDsDqfE1KkU) | 4:12 |
 | 74 | [Ooh La La](https://open.spotify.com/track/3E0gVkirGK2ouGHPuOO9cN) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Supernature](https://open.spotify.com/album/3vtZKHDljhjJORS14a4qKx) | 3:24 |
 | 75 | [Mine](https://open.spotify.com/track/18uOcUO5mNEYHHigeXPgQM) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Mine](https://open.spotify.com/album/3SQr5VHmYRkAGGMTCBbbnP) | 2:39 |
-| 76 | [Break the Rules](https://open.spotify.com/track/38tKqQuqodiUYOsw6HWyeQ) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Break the Rules](https://open.spotify.com/album/6xgUHOu8WA2mEtJqYDQrjs) | 3:23 |
-| 77 | [What If](https://open.spotify.com/track/1EK5Z3jnZh1nHXPUXpaLhK) | [Kate Winslet](https://open.spotify.com/artist/7q6ozanpOpFUoe6jPQ0jVK) | [What If](https://open.spotify.com/album/6Z0009JVnJQlOU3aiZCozL) | 4:03 |
+| 76 | [What If](https://open.spotify.com/track/1EK5Z3jnZh1nHXPUXpaLhK) | [Kate Winslet](https://open.spotify.com/artist/7q6ozanpOpFUoe6jPQ0jVK) | [What If](https://open.spotify.com/album/6Z0009JVnJQlOU3aiZCozL) | 4:03 |
+| 77 | [Break the Rules](https://open.spotify.com/track/38tKqQuqodiUYOsw6HWyeQ) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Break the Rules](https://open.spotify.com/album/6xgUHOu8WA2mEtJqYDQrjs) | 3:23 |
 | 78 | [I Know A Place](https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:32 |
 | 79 | [Perfect Day](https://open.spotify.com/track/4pMyfWdA0eo3JY5RqMotbw) | [Hoku](https://open.spotify.com/artist/7ftZLBtMuNBXnnDFKbAblK) | [Perfect Day Single](https://open.spotify.com/album/5puXns5fNjj1XEnbufYHRJ) | 3:28 |
 | 80 | [4ever](https://open.spotify.com/track/4ECvB9frSDegHfKNRh9dwT) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [The Secret Life Of...](https://open.spotify.com/album/0iFKQKmkSxKjoKvI6j45to) | 3:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 | 99 | [I Don't Want It At All](https://open.spotify.com/track/4xhYxKvAxtrRd83MiqOy29) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [I Don't Want It At All](https://open.spotify.com/album/6TreAlV1VSMi8UmHl7byC4) | 4:10 |
 | 100 | [Legendary Lovers](https://open.spotify.com/track/5Uc37Y6FijZcM538PqqkWd) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:44 |
 
-Snapshot ID: `MCwzODFlOWU0NzJhNGNkNjcxNjgyMzJkMThmY2M4ZmRkYjY2ODY5NDMz`
+Snapshot ID: `MCw1NWFhNGYwNzZlNWE4NTZjYmEyNzc2YWQ3ODg5MDFjNmJmZDkwOGY5`

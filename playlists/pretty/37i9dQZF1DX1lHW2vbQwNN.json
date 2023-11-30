@@ -1,12 +1,12 @@
 {
   "description": "Taking it back to the 2000s. Cover: Nelly",
-  "num_followers": 137435,
+  "num_followers": 138014,
   "original_name": "I Love My 2000s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMGY1YzNmYTg4ODJjM2U0MDcxZWMzZTg1MTJmOTIzNDM3NzQzYjA5",
+  "snapshot_id": "MCw2YThhMWRkZjZkMmY3Y2IyNjIwOTg4NzU4NjVlZjM1NDdlNDc3ZTky",
   "tracks": [
     {
       "added_at": "2023-11-11 09:27:49",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2023-11-11 09:27:49",
       "album": {
-        "name": "Rule 3:36",
-        "url": "https://open.spotify.com/album/2PIXzzS8WEzv8Ws92qspEH"
-      },
-      "artists": [
-        {
-          "name": "Ja Rule",
-          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
-        },
-        {
-          "name": "Vita",
-          "url": "https://open.spotify.com/artist/3ot6fEzKvRrCnWy5BWlnxU"
-        }
-      ],
-      "duration_ms": 262826,
-      "name": "Put It On Me",
-      "url": "https://open.spotify.com/track/0OvwzS8FX73Bw7ykMRmffU"
-    },
-    {
-      "added_at": "2023-11-11 09:27:49",
-      "album": {
         "name": "Thug Matrimony: Married to the Streets",
         "url": "https://open.spotify.com/album/2Ve8rF1LYTRGl3ZAI2z2YT"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 222200,
       "name": "Let's Go (feat. Twista & Lil' Jon)",
       "url": "https://open.spotify.com/track/1fLibtVj3MrNTwRZq5yUOs"
+    },
+    {
+      "added_at": "2023-11-11 09:27:49",
+      "album": {
+        "name": "Rule 3:36",
+        "url": "https://open.spotify.com/album/2PIXzzS8WEzv8Ws92qspEH"
+      },
+      "artists": [
+        {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        },
+        {
+          "name": "Vita",
+          "url": "https://open.spotify.com/artist/3ot6fEzKvRrCnWy5BWlnxU"
+        }
+      ],
+      "duration_ms": 262826,
+      "name": "Put It On Me",
+      "url": "https://open.spotify.com/track/0OvwzS8FX73Bw7ykMRmffU"
     },
     {
       "added_at": "2023-11-11 09:27:49",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2023-11-11 09:27:49",
       "album": {
+        "name": "The Black Album",
+        "url": "https://open.spotify.com/album/4FWvo9oS4gRgHtAwDwUjiO"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 245173,
+      "name": "Dirt Off Your Shoulder",
+      "url": "https://open.spotify.com/track/3IrkbGQCoEPAkzJ0Tkv8nm"
+    },
+    {
+      "added_at": "2023-11-11 09:27:49",
+      "album": {
         "name": "Juve The Great",
         "url": "https://open.spotify.com/album/1JfdhweOku5xDD78eiid4A"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 248200,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/6ihObRBTB8xdSH2mlERtOX"
-    },
-    {
-      "added_at": "2023-11-11 09:27:49",
-      "album": {
-        "name": "The Black Album",
-        "url": "https://open.spotify.com/album/4FWvo9oS4gRgHtAwDwUjiO"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 245173,
-      "name": "Dirt Off Your Shoulder",
-      "url": "https://open.spotify.com/track/3IrkbGQCoEPAkzJ0Tkv8nm"
     },
     {
       "added_at": "2023-11-11 09:27:49",
@@ -1455,30 +1455,6 @@
     {
       "added_at": "2023-11-11 09:27:49",
       "album": {
-        "name": "Still Hot In Herre",
-        "url": "https://open.spotify.com/album/4FyzqUSV3OqNvh0bjF2qaZ"
-      },
-      "artists": [
-        {
-          "name": "Nelly",
-          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
-        },
-        {
-          "name": "Paul Wall",
-          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
-        },
-        {
-          "name": "Ali & Gipp",
-          "url": "https://open.spotify.com/artist/01ZpL2TZ4QxYNDLc70RIiT"
-        }
-      ],
-      "duration_ms": 271160,
-      "name": "Grillz",
-      "url": "https://open.spotify.com/track/0l7DPAKQVayEz9FXC9di2e"
-    },
-    {
-      "added_at": "2023-11-11 09:27:49",
-      "album": {
         "name": "Detroit Deli (A Taste Of Detroit)",
         "url": "https://open.spotify.com/album/2mpzeA7pHNIDAPii4EEKsB"
       },
@@ -1499,6 +1475,30 @@
       "duration_ms": 225400,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/7sZCAHP2duHwr5M5K7lHsb"
+    },
+    {
+      "added_at": "2023-11-11 09:27:49",
+      "album": {
+        "name": "Still Hot In Herre",
+        "url": "https://open.spotify.com/album/4FyzqUSV3OqNvh0bjF2qaZ"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        },
+        {
+          "name": "Paul Wall",
+          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+        },
+        {
+          "name": "Ali & Gipp",
+          "url": "https://open.spotify.com/artist/01ZpL2TZ4QxYNDLc70RIiT"
+        }
+      ],
+      "duration_ms": 271160,
+      "name": "Grillz",
+      "url": "https://open.spotify.com/track/0l7DPAKQVayEz9FXC9di2e"
     },
     {
       "added_at": "2023-11-11 09:27:49",
@@ -1611,30 +1611,6 @@
     {
       "added_at": "2023-11-11 09:27:49",
       "album": {
-        "name": "On Top Of Our Game",
-        "url": "https://open.spotify.com/album/0e0ks1xlvQBOsC3Gsw2EgA"
-      },
-      "artists": [
-        {
-          "name": "Dem Franchize Boyz",
-          "url": "https://open.spotify.com/artist/0VKTLKamj4IH8OfQbUL0kq"
-        },
-        {
-          "name": "Peanut",
-          "url": "https://open.spotify.com/artist/5Q2iqZJMIZVSTEJWOYh4kP"
-        },
-        {
-          "name": "Charlay",
-          "url": "https://open.spotify.com/artist/4FZBzAqTsS12zKdb9Gr2uz"
-        }
-      ],
-      "duration_ms": 229813,
-      "name": "Lean Wit It, Rock Wit It",
-      "url": "https://open.spotify.com/track/7cVmKBwzPsh4Fmb6SplfEm"
-    },
-    {
-      "added_at": "2023-11-11 09:27:49",
-      "album": {
         "name": "Kamikaze",
         "url": "https://open.spotify.com/album/6Xu470gdLgDOnFDj5qND1N"
       },
@@ -1655,6 +1631,30 @@
       "duration_ms": 212146,
       "name": "Slow Jamz (feat. Kanye West & Jamie Foxx)",
       "url": "https://open.spotify.com/track/1boHm9rjmvzxpJASd9dnGK"
+    },
+    {
+      "added_at": "2023-11-11 09:27:49",
+      "album": {
+        "name": "On Top Of Our Game",
+        "url": "https://open.spotify.com/album/0e0ks1xlvQBOsC3Gsw2EgA"
+      },
+      "artists": [
+        {
+          "name": "Dem Franchize Boyz",
+          "url": "https://open.spotify.com/artist/0VKTLKamj4IH8OfQbUL0kq"
+        },
+        {
+          "name": "Peanut",
+          "url": "https://open.spotify.com/artist/5Q2iqZJMIZVSTEJWOYh4kP"
+        },
+        {
+          "name": "Charlay",
+          "url": "https://open.spotify.com/artist/4FZBzAqTsS12zKdb9Gr2uz"
+        }
+      ],
+      "duration_ms": 229813,
+      "name": "Lean Wit It, Rock Wit It",
+      "url": "https://open.spotify.com/track/7cVmKBwzPsh4Fmb6SplfEm"
     },
     {
       "added_at": "2023-11-11 09:27:49",

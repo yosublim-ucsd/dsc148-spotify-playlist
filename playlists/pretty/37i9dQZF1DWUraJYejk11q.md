@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 
 > Instrumental bliss beyond genre classification.
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,553 likes - 50 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 458,565 likes - 50 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 32 | [Closer \- Daniel Avery Edit](https://open.spotify.com/track/57Vf7VMA5QSahRghyzywIa) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Closer \(Daniel Avery Edit\)](https://open.spotify.com/album/7ibaWfGIltYCxmRD9Qjz1G) | 4:06 |
 | 33 | [NPCs have feelings too](https://open.spotify.com/track/2NAb2HxL55cZRhATCQLw3t) | [Artur M Puga](https://open.spotify.com/artist/3eBggjM2o4vL4jMyLgElSn) | [weirdbloom](https://open.spotify.com/album/1VTbpHOo6ks1bjUZNwlvaZ) | 4:39 |
 | 34 | [tracing Rays \[reality glo\]](https://open.spotify.com/track/4YTXY7Ze4njWYH4nDutz4q) | [Brainwaltzera](https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB) | [tracing Rays \[reality glo\]](https://open.spotify.com/album/2A7WqlhXWnDCK84hqsnWGY) | 4:22 |
-| 35 | [Minena](https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa) | [Ranma Entero](https://open.spotify.com/artist/779eiS92bExNWIAWxmiWIB) | [Minena](https://open.spotify.com/album/0IWOooqWyw1lf5xqYGGs3H) | 4:35 |
-| 36 | [SPIN FOREVER](https://open.spotify.com/track/1MmksCcZL31uJu8J4swpsC) | [TUNA DISPLAY](https://open.spotify.com/artist/1x7qdjEwCAGHfHrtqrnO8J) | [VIOLENT GLARE](https://open.spotify.com/album/0EOuU9vymdpcWaRQTQzSPT) | 4:10 |
-| 37 | [Cheve](https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89) | [Siete Catorce](https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr) | [Cruda](https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH) | 5:29 |
-| 38 | [Time to Leave](https://open.spotify.com/track/3guKL9FuFv1HgpHK7W4nhu) | [ŻYŃY](https://open.spotify.com/artist/54zBQHvlW5wxOAhWVPVMlY) | [Time to Leave](https://open.spotify.com/album/62tdWlcufIf8xyRQswdmLh) | 4:52 |
+| 35 | [Time to Leave](https://open.spotify.com/track/3guKL9FuFv1HgpHK7W4nhu) | [ŻYŃY](https://open.spotify.com/artist/54zBQHvlW5wxOAhWVPVMlY) | [Time to Leave](https://open.spotify.com/album/62tdWlcufIf8xyRQswdmLh) | 4:52 |
+| 36 | [Minena](https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa) | [Ranma Entero](https://open.spotify.com/artist/779eiS92bExNWIAWxmiWIB) | [Minena](https://open.spotify.com/album/0IWOooqWyw1lf5xqYGGs3H) | 4:35 |
+| 37 | [SPIN FOREVER](https://open.spotify.com/track/1MmksCcZL31uJu8J4swpsC) | [TUNA DISPLAY](https://open.spotify.com/artist/1x7qdjEwCAGHfHrtqrnO8J) | [VIOLENT GLARE](https://open.spotify.com/album/0EOuU9vymdpcWaRQTQzSPT) | 4:10 |
+| 38 | [Cheve](https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89) | [Siete Catorce](https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr) | [Cruda](https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH) | 5:29 |
 | 39 | [Diamond Beach](https://open.spotify.com/track/5O77vZjVt78PbW6nCKItQq) | [Modula](https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7) | [Paranormal Phenomena – The Icelandic Expedition](https://open.spotify.com/album/7of3FJV3PXkHQ1bWyiFqup) | 3:04 |
 | 40 | [Circuitous](https://open.spotify.com/track/6vu6oVaFUJkHt49OeoaO3k) | [Afrikan Sciences](https://open.spotify.com/artist/4Ewz395zbkN9YjaRc10t0U) | [Circuitous](https://open.spotify.com/album/2zjSQpLovbXE8bUemBiOby) | 5:34 |
 | 41 | [Hoss It](https://open.spotify.com/track/2Gh7Fv6yk1sgbwT6kMVV0U) | [96 Back](https://open.spotify.com/artist/1nj9nHPkz1IbxXEpkW1WTz) | [Crass](https://open.spotify.com/album/0TX1wCyAQw51W6ihMaBceU) | 5:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 49 | [Opak](https://open.spotify.com/track/01XBVQvgUeUMSrznKTR1X7) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Opak](https://open.spotify.com/album/4vnp9u6zjv2U8pp40jpiBz) | 5:37 |
 | 50 | [Bliss](https://open.spotify.com/track/4uxW8xGvAHT2lOCFLG7gUg) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Bliss](https://open.spotify.com/album/3pzfRwPIduKjP0qOF6BYOD) | 3:20 |
 
-Snapshot ID: `MCw0YWQyZTk5ZTBlOGY2MmNiNTU3NWM0OWY2N2M0MmYxNGU4OWZiNmVj`
+Snapshot ID: `MCw4NDFmZDBhMjNlNWY5Mzg2ZDk1ZGYzZGVhOTUxOGMyZjkyNzhiZGNl`

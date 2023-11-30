@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Sapta Sagaradaache Ello - Side B\n",
-  "num_followers": 55911,
+  "num_followers": 55934,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYWE0YTg5YmU3Mzg5OWJkNGMzYmMxNzBjNTdkZjIwNjQyZTEyMDll",
+  "snapshot_id": "MCw4ZDcxOTQxMWFlZTA3OTdjNTZmNzBiNWMxZTBjMDY5ZmM0NjU1ZDU3",
   "tracks": [
     {
       "added_at": "2023-11-28 05:05:06",
@@ -61,6 +61,30 @@
       "url": "https://open.spotify.com/track/1aWNLzd2uMEfI9nZyiZWAI"
     },
     {
+      "added_at": "2023-11-29 11:22:54",
+      "album": {
+        "name": "Byadadha Bhavne (from \"Sugar Factory\")",
+        "url": "https://open.spotify.com/album/2Uzl7ccP2DKV2MorfA2Ssa"
+      },
+      "artists": [
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "Kareemullah",
+          "url": "https://open.spotify.com/artist/04xyKkk9EW7xvbxWQOOXZf"
+        },
+        {
+          "name": "Kabir Rafi",
+          "url": "https://open.spotify.com/artist/2gx6BYmlzkiKtN5QlcUhm2"
+        }
+      ],
+      "duration_ms": 207618,
+      "name": "Byadadha Bhavne (from \"Sugar Factory\")",
+      "url": "https://open.spotify.com/track/4cHz1tcQX6oKqjeBDfU0ND"
+    },
+    {
       "added_at": "2023-11-15 12:36:47",
       "album": {
         "name": "Sapta Sagaradaache Ello - Side B Title Track (From \"Sapta Sagaradaache Ello - Side B\")",
@@ -107,6 +131,30 @@
       "duration_ms": 156111,
       "name": "Dhare Neenididaasare (From \"Sapta Sagaradaache Ello - Side B\")",
       "url": "https://open.spotify.com/track/5rk8XadyFwgJMxy2l73Ynh"
+    },
+    {
+      "added_at": "2023-11-29 11:22:54",
+      "album": {
+        "name": "Odiyamma (From \"Hi Nanna\") [KANNADA]",
+        "url": "https://open.spotify.com/album/3zgsY99mWvaym7rXtHBVhp"
+      },
+      "artists": [
+        {
+          "name": "Yazin Nizar",
+          "url": "https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX"
+        },
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        },
+        {
+          "name": "Vishnupriya Ravi",
+          "url": "https://open.spotify.com/artist/0znqmX3tzZ55FFTmlffAlv"
+        }
+      ],
+      "duration_ms": 195129,
+      "name": "Odiyamma (From \"Hi Nanna\") [KANNADA]",
+      "url": "https://open.spotify.com/track/60228WOjks3tGgzGoSOu0O"
     },
     {
       "added_at": "2023-11-23 08:54:26",
@@ -1647,54 +1695,6 @@
       "duration_ms": 188926,
       "name": "Hosa Vibe",
       "url": "https://open.spotify.com/track/4hLszBKKfmlSofhMcV4kZs"
-    },
-    {
-      "added_at": "2023-09-26 13:41:37",
-      "album": {
-        "name": "Aaneya Maadi (From \"Kathora\")",
-        "url": "https://open.spotify.com/album/6LaBeldNohUdlA62eCztyZ"
-      },
-      "artists": [
-        {
-          "name": "Aishwarya Rangarajan",
-          "url": "https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO"
-        },
-        {
-          "name": "Vijetha Manjaiah",
-          "url": "https://open.spotify.com/artist/4shEtV0cxBRMGw1T1YoavQ"
-        },
-        {
-          "name": "Murthy TM",
-          "url": "https://open.spotify.com/artist/60idM85Gd5WfmEMS2TSCG5"
-        }
-      ],
-      "duration_ms": 215982,
-      "name": "Aaneya Maadi - From \"Kathora\"",
-      "url": "https://open.spotify.com/track/2ViBaE2lmN1hDXqdZpXH4y"
-    },
-    {
-      "added_at": "2023-09-15 11:15:47",
-      "album": {
-        "name": "Suryakanthi (From \"Tagaru Palya\")",
-        "url": "https://open.spotify.com/album/5iRIPbaqFRVBHWroTUBHbE"
-      },
-      "artists": [
-        {
-          "name": "Vasuki Vaibhav",
-          "url": "https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5"
-        },
-        {
-          "name": "Daali Dhananjaya",
-          "url": "https://open.spotify.com/artist/5mMIF7hi9U0WgMjhqHE0eQ"
-        },
-        {
-          "name": "Madhuri Seshadri",
-          "url": "https://open.spotify.com/artist/4so2LO2B3OqrAlpG9ulXqx"
-        }
-      ],
-      "duration_ms": 197534,
-      "name": "Suryakanthi (From \"Tagaru Palya\")",
-      "url": "https://open.spotify.com/track/0KEYk3iSxqfk1qhcF3UF0N"
     }
   ],
   "unique_name": "Latest Kannada",

@@ -4,7 +4,7 @@
 
 > The greatest works from mastermind composer Ryuichi Sakamoto
 
-139 songs - 10 hr 5 min
+141 songs - 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [DNA](https://open.spotify.com/track/2yAllYdt4JIHuwqOgEmkpx) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [トニー滝谷](https://open.spotify.com/album/2NYGYuqNgfOOKozXT88l0c) | 6:30 | 2022-01-18 | 2022-07-29 |
 | [DNA](https://open.spotify.com/track/5UdT3OvM72PP4qSetZ7GvQ) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Tony Takitani](https://open.spotify.com/album/7wbkTFi8Gve3hgYMAJuBw2) | 6:30 | 2022-01-18 | 2023-01-17 |
 | [Dream](https://open.spotify.com/track/66hacKPqwClRgpSmWDWhBx) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [L.O.L\. \(Lack Of Love\)](https://open.spotify.com/album/0ai9izfKKajSJkx9bwtIMP) | 1:24 | 2023-01-16 |  |
-| [energy flow](https://open.spotify.com/track/6rXnP6n3myylS9PV4N53ID) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [BTTB \- 20th Anniversary Edition](https://open.spotify.com/album/6HdFNj6bhQQewtNupqVu5J) | 4:32 | 2022-01-18 |  |
+| [energy flow](https://open.spotify.com/track/38hwMaB4DWUhAWdyk1VljB) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [BTTB \- 20th Anniversary Edition](https://open.spotify.com/album/4MI7PELbBbWJrTgAX1nbKR) | 4:32 | 2023-04-03 |  |
+| [energy flow](https://open.spotify.com/track/6rXnP6n3myylS9PV4N53ID) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [BTTB \- 20th Anniversary Edition](https://open.spotify.com/album/6HdFNj6bhQQewtNupqVu5J) | 4:32 | 2022-01-18 | 2023-11-30 |
 | [energy flow](https://open.spotify.com/track/3lam56BGPAHGpzKeOZwBW1) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [ウラBTTB](https://open.spotify.com/album/5uJn2krSFUsP5CrtP8ccFL) | 4:35 | 2022-01-18 | 2023-09-03 |
 | [Fatalism](https://open.spotify.com/track/28koK0b9NRDZ8Jo5mJy5Za) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Yukihiro Takahashi](https://open.spotify.com/artist/5Rv28BOArteQRhL8YUYgD5) | [Heligoland](https://open.spotify.com/album/1F8y2bg9V9nRoy8zuxo3Jt) | 4:54 | 2022-01-18 | 2023-01-17 |
 | [Fatalism \- 坂本龍一&高橋幸宏 Remix](https://open.spotify.com/track/4j1qIS3cgfG4816UQaI2aZ) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Yukihiro Takahashi](https://open.spotify.com/artist/5Rv28BOArteQRhL8YUYgD5) | [Heligoland](https://open.spotify.com/album/47zwSXi2WmVaWcZN2VVGcq) | 4:54 | 2022-01-18 | 2022-07-29 |
@@ -91,7 +92,8 @@
 | [Mizu no Naka no Bagatelle](https://open.spotify.com/track/6hRxri4fCVRU77uHayZz7J) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Playing the Piano 12122020](https://open.spotify.com/album/5RRib8eRMf8OthdvJX26iU) | 4:15 | 2023-01-16 |  |
 | [Monomom](https://open.spotify.com/track/083hSYQL8F0UScdHIXDBTN) | [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Monomom](https://open.spotify.com/album/2IdpCfBJCkX4GnY99B0MqW) | 5:31 | 2023-01-16 | 2023-04-03 |
 | [MUJI2020](https://open.spotify.com/track/6q4yJfdPmQh5OkzJHrj538) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Playing the Piano 12122020](https://open.spotify.com/album/5RRib8eRMf8OthdvJX26iU) | 2:14 | 2023-01-16 |  |
-| [opus](https://open.spotify.com/track/2rbHghryEuNQVjYaYl0m0D) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [BTTB \- 20th Anniversary Edition](https://open.spotify.com/album/6HdFNj6bhQQewtNupqVu5J) | 4:25 | 2022-01-18 |  |
+| [opus](https://open.spotify.com/track/0U3fV7K4WFfVRgLGEAKh3g) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [BTTB \- 20th Anniversary Edition](https://open.spotify.com/album/4MI7PELbBbWJrTgAX1nbKR) | 4:25 | 2023-04-03 |  |
+| [opus](https://open.spotify.com/track/2rbHghryEuNQVjYaYl0m0D) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [BTTB \- 20th Anniversary Edition](https://open.spotify.com/album/6HdFNj6bhQQewtNupqVu5J) | 4:25 | 2022-01-18 | 2023-11-30 |
 | [opus](https://open.spotify.com/track/0Tl42Sk71peiqrZ4slHv9J) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [BTTB](https://open.spotify.com/album/0UPftEfpaTZRZ2qvFmTcCC) | 4:25 | 2022-01-18 | 2022-07-29 |
 | [Oto](https://open.spotify.com/track/0VhkCytrhq2EjntoAkbjvZ) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Cendre](https://open.spotify.com/album/6Ug9IHC7kmelugY2t0MMQe) | 3:49 | 2023-01-16 | 2023-04-03 |
 | [oxygen \- from "Exception" Soundtrack](https://open.spotify.com/track/3EhgZBz3LPFtR8L6pSKPvK) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Exception \(Soundtrack from the Netflix Anime Series\)](https://open.spotify.com/album/4ToOQ4ZlOLxWKPHqDg3WlJ) | 3:48 | 2023-01-16 |  |

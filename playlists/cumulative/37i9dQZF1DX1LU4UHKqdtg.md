@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: Dreamcatcher
 
-834 songs - 1 day 21 hr 34 min
+835 songs - 1 day 21 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -488,7 +488,8 @@
 | [Nerdy](https://open.spotify.com/track/6KExHY2Eo0DphK63s2dfYi) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [Geekyland](https://open.spotify.com/album/7EDCoH5wfSGYdZ7wXCmTF4) | 2:58 | 2022-07-28 | 2022-10-19 |
 | [NEW DANCE](https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DANCE](https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK) | 3:18 | 2023-08-23 |  |
 | [New Emotions](https://open.spotify.com/track/5fu1d5IE7fSnFPZ0hydoq0) | [INFINITE](https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU) | [13egin](https://open.spotify.com/album/7niD2tsuMKHMXBx5TEyF2W) | 2:44 | 2023-07-31 | 2023-08-19 |
-| [NEW STAR](https://open.spotify.com/track/3DLmZAoUDu4SOo6YrUHrCj) | [n.SSign](https://open.spotify.com/artist/3IHvi45S5SITyNES9VzSjI) | [NEW STAR](https://open.spotify.com/album/4VjojyAZQbfONf7bI1yBaw) | 3:29 | 2023-11-28 |  |
+| [NEW STAR](https://open.spotify.com/track/3DLmZAoUDu4SOo6YrUHrCj) | [n.SSign](https://open.spotify.com/artist/3IHvi45S5SITyNES9VzSjI) | [NEW STAR](https://open.spotify.com/album/4VjojyAZQbfONf7bI1yBaw) | 3:29 | 2023-11-28 | 2023-11-30 |
+| [NEW STAR](https://open.spotify.com/track/4fGkb1BWnzrppNuGUeUSaZ) | [n.SSign](https://open.spotify.com/artist/3IHvi45S5SITyNES9VzSjI) | [NEW STAR](https://open.spotify.com/album/4ohVAtGzJTQCIKJTMzGLAb) | 3:29 | 2023-11-28 |  |
 | [New Tomorrow](https://open.spotify.com/track/2ayD6EPasDViEQa4bwat0c) | [FANTASY BOYS](https://open.spotify.com/artist/4IAcb0MN1CCHpwUaq5iEUU) | [NEW TOMORROW](https://open.spotify.com/album/3H3lbA7Dn1BVIflkUqfYUU) | 3:50 | 2023-09-21 | 2023-10-13 |
 | [Nights Into Days \(Prod\. by Naul\)](https://open.spotify.com/track/7yMSnQEier8Kp4iQuIvt0t) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Naul <Ballad Pop City>](https://open.spotify.com/album/5KN5V04kjs7YeTVyQcpqqZ) | 4:20 | 2023-02-02 | 2023-03-22 |
 | [Nirvana \(feat\. pH\-1 & WDBZ\)](https://open.spotify.com/track/36DcCSKGShF6p3h2JMcPDg) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [WDBZ](https://open.spotify.com/artist/01q9uYIoLmTfAFQaKiNnbh) | [The Story : RETOLD](https://open.spotify.com/album/1W8HpoJr9zJmNxBYP8uCT9) | 3:39 | 2022-11-24 | 2023-01-25 |

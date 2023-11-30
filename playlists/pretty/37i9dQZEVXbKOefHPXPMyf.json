@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzU0NTM2MDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzU0NjIyNDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-11-28 14:09:42",
+      "added_at": "2023-11-29 16:53:38",
       "album": {
         "name": "Patadas de Ahogado",
         "url": "https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl"
     },
     {
-      "added_at": "2023-11-28 14:09:42",
+      "added_at": "2023-11-29 16:53:38",
       "album": {
         "name": "MARTILLAZO",
         "url": "https://open.spotify.com/album/1FX1f4X5yS0wlnItHjvhvo"
@@ -53,7 +53,7 @@
       "url": "https://open.spotify.com/track/283ngLR3LX6cdq9unM7MJ0"
     },
     {
-      "added_at": "2023-11-28 14:09:42",
+      "added_at": "2023-11-29 16:53:38",
       "album": {
         "name": "VERANILLO",
         "url": "https://open.spotify.com/album/0LqIZUc010wWuikGJl7S5Y"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/2xzZRxjzyL5FUR3442n12N"
     },
     {
-      "added_at": "2023-11-28 14:09:42",
+      "added_at": "2023-11-29 16:53:38",
       "album": {
         "name": "Talento De Vida",
         "url": "https://open.spotify.com/album/2z6GzbRNcGdp0cGOoaRLuv"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/4mWiyglEmK9eRAwMdD9tQ6"
     },
     {
-      "added_at": "2023-11-28 14:09:42",
+      "added_at": "2023-11-29 16:53:38",
       "album": {
         "name": "Good God!",
         "url": "https://open.spotify.com/album/3fIxJzinc2MADbgfkLrmYY"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd"
     },
     {
-      "added_at": "2023-11-28 14:09:42",
+      "added_at": "2023-11-29 16:53:38",
       "album": {
         "name": "BONNIE AND CLYDE (REMIX)",
         "url": "https://open.spotify.com/album/2HeKQhQNkXEbaMxawEv4Om"
@@ -129,7 +129,31 @@
       "url": "https://open.spotify.com/track/08s7guLP2nSMxmYqmjf7oV"
     },
     {
-      "added_at": "2023-11-28 14:09:42",
+      "added_at": "2023-11-29 16:53:38",
+      "album": {
+        "name": "Que Onda",
+        "url": "https://open.spotify.com/album/4x6cjOcVz44aiLSOHCLKPd"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        },
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 191466,
+      "name": "Que Onda",
+      "url": "https://open.spotify.com/track/6uIIdjYTxxpWOyWuVXrKQO"
+    },
+    {
+      "added_at": "2023-11-29 16:53:38",
       "album": {
         "name": "Kittyponeo",
         "url": "https://open.spotify.com/album/2u2IVr3kVR13lr517rvcjM"
@@ -149,7 +173,7 @@
       "url": "https://open.spotify.com/track/7yIIeKUxTpn36X6CFJhgEi"
     },
     {
-      "added_at": "2023-11-28 14:09:42",
+      "added_at": "2023-11-29 16:53:38",
       "album": {
         "name": "PARANOIA",
         "url": "https://open.spotify.com/album/1RPJNNRo1WUciegpWfioAc"
@@ -185,31 +209,7 @@
       "url": "https://open.spotify.com/track/29WxJqIfDRMo9isV07kbJP"
     },
     {
-      "added_at": "2023-11-28 14:09:42",
-      "album": {
-        "name": "Que Onda",
-        "url": "https://open.spotify.com/album/4x6cjOcVz44aiLSOHCLKPd"
-      },
-      "artists": [
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        },
-        {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 191466,
-      "name": "Que Onda",
-      "url": "https://open.spotify.com/track/6uIIdjYTxxpWOyWuVXrKQO"
-    },
-    {
-      "added_at": "2023-11-28 14:09:42",
+      "added_at": "2023-11-29 16:53:38",
       "album": {
         "name": "WYA",
         "url": "https://open.spotify.com/album/510YwmkYmdNRSYPQSxDV2O"
@@ -229,7 +229,7 @@
       "url": "https://open.spotify.com/track/5lCMDnVpGTuFC7YejgpTIF"
     },
     {
-      "added_at": "2023-11-28 14:09:42",
+      "added_at": "2023-11-29 16:53:38",
       "album": {
         "name": "The Land Is Inhospitable and So Are We",
         "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
@@ -245,47 +245,7 @@
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
     },
     {
-      "added_at": "2023-11-28 14:09:42",
-      "album": {
-        "name": "Mwaki",
-        "url": "https://open.spotify.com/album/4L43UqvSZKiiKwc1wa89Gz"
-      },
-      "artists": [
-        {
-          "name": "Zerb",
-          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
-        },
-        {
-          "name": "Sofiya Nzau",
-          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
-        }
-      ],
-      "duration_ms": 208135,
-      "name": "Mwaki",
-      "url": "https://open.spotify.com/track/4HDC7Mo6uLTujRvHymiXDf"
-    },
-    {
-      "added_at": "2023-11-28 14:09:42",
-      "album": {
-        "name": "Narcotics (with Bryant Myers)",
-        "url": "https://open.spotify.com/album/1SpjWWwAvgm4LLMFtqOwUc"
-      },
-      "artists": [
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        },
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        }
-      ],
-      "duration_ms": 173991,
-      "name": "Narcotics (with Bryant Myers)",
-      "url": "https://open.spotify.com/track/0p0cOpBujR114Wirv5AM7W"
-    },
-    {
-      "added_at": "2023-11-28 14:09:42",
+      "added_at": "2023-11-29 16:53:38",
       "album": {
         "name": "Bugambilia",
         "url": "https://open.spotify.com/album/2Ex6JjyUiIcQRqFeoTSInw"
@@ -301,7 +261,7 @@
       "url": "https://open.spotify.com/track/5hXCTV8OCsNak8OVry7yzM"
     },
     {
-      "added_at": "2023-11-28 14:09:42",
+      "added_at": "2023-11-29 16:53:38",
       "album": {
         "name": "Con To (feat. Flow Nasty)",
         "url": "https://open.spotify.com/album/2PJRh0xPNmeEZVGNhwHGGf"
@@ -329,7 +289,27 @@
       "url": "https://open.spotify.com/track/1QFJzim9HBPFW9E1B1333Q"
     },
     {
-      "added_at": "2023-11-28 14:09:42",
+      "added_at": "2023-11-29 16:53:38",
+      "album": {
+        "name": "Narcotics (with Bryant Myers)",
+        "url": "https://open.spotify.com/album/1SpjWWwAvgm4LLMFtqOwUc"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 173991,
+      "name": "Narcotics (with Bryant Myers)",
+      "url": "https://open.spotify.com/track/0p0cOpBujR114Wirv5AM7W"
+    },
+    {
+      "added_at": "2023-11-29 16:53:38",
       "album": {
         "name": "Si No Est\u00e1s",
         "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
@@ -345,7 +325,7 @@
       "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
     },
     {
-      "added_at": "2023-11-28 14:09:42",
+      "added_at": "2023-11-29 16:53:38",
       "album": {
         "name": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
         "url": "https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk"
@@ -361,23 +341,7 @@
       "url": "https://open.spotify.com/track/17cia5k4BpGVlyEfqrFH50"
     },
     {
-      "added_at": "2023-11-28 14:09:42",
-      "album": {
-        "name": "Dear Insanity...",
-        "url": "https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 204880,
-      "name": "Don't Go Insane",
-      "url": "https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg"
-    },
-    {
-      "added_at": "2023-11-28 14:09:42",
+      "added_at": "2023-11-29 16:53:38",
       "album": {
         "name": "Pa las Baby's Y Belikeada",
         "url": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8"
@@ -397,7 +361,43 @@
       "url": "https://open.spotify.com/track/6CvTEtGagmzQvkUzzyKR9k"
     },
     {
-      "added_at": "2023-11-28 14:09:42",
+      "added_at": "2023-11-29 16:53:38",
+      "album": {
+        "name": "Dear Insanity...",
+        "url": "https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 204880,
+      "name": "Don't Go Insane",
+      "url": "https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg"
+    },
+    {
+      "added_at": "2023-11-29 16:53:38",
+      "album": {
+        "name": "Mwaki",
+        "url": "https://open.spotify.com/album/4L43UqvSZKiiKwc1wa89Gz"
+      },
+      "artists": [
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "duration_ms": 208135,
+      "name": "Mwaki",
+      "url": "https://open.spotify.com/track/4HDC7Mo6uLTujRvHymiXDf"
+    },
+    {
+      "added_at": "2023-11-29 16:53:38",
       "album": {
         "name": "Lovin On Me",
         "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
@@ -413,7 +413,7 @@
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
     },
     {
-      "added_at": "2023-11-28 14:09:42",
+      "added_at": "2023-11-29 16:53:38",
       "album": {
         "name": "Caballo Homosexual De Las Monta\u00f1as",
         "url": "https://open.spotify.com/album/0tUOF6Ri9RJM99uHQEj4bD"
@@ -429,39 +429,7 @@
       "url": "https://open.spotify.com/track/5qJ1OFXySmyGcs7Sn6r2cf"
     },
     {
-      "added_at": "2023-11-28 14:09:42",
-      "album": {
-        "name": "Perfect Night",
-        "url": "https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 159080,
-      "name": "Perfect Night",
-      "url": "https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8"
-    },
-    {
-      "added_at": "2023-11-28 14:09:42",
-      "album": {
-        "name": "COSAS QUE NO TE DIJE",
-        "url": "https://open.spotify.com/album/52te2AyrVAYPc04onR1Lfy"
-      },
-      "artists": [
-        {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        }
-      ],
-      "duration_ms": 224725,
-      "name": "COSAS QUE NO TE DIJE",
-      "url": "https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z"
-    },
-    {
-      "added_at": "2023-11-28 14:09:42",
+      "added_at": "2023-11-29 16:53:38",
       "album": {
         "name": "GOLDEN",
         "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
@@ -477,23 +445,23 @@
       "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
     },
     {
-      "added_at": "2023-11-28 14:09:42",
+      "added_at": "2023-11-29 16:53:38",
       "album": {
-        "name": "EVERYBODY GO TO THE DISCOTEK",
-        "url": "https://open.spotify.com/album/11UJfH39O0VqLiQGLW0D0e"
+        "name": "COSAS QUE NO TE DIJE",
+        "url": "https://open.spotify.com/album/52te2AyrVAYPc04onR1Lfy"
       },
       "artists": [
         {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
         }
       ],
-      "duration_ms": 199946,
-      "name": "Lollipop",
-      "url": "https://open.spotify.com/track/3cDyocF0Ibdfs1SFQk5cLZ"
+      "duration_ms": 224725,
+      "name": "COSAS QUE NO TE DIJE",
+      "url": "https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z"
     },
     {
-      "added_at": "2023-11-28 14:09:42",
+      "added_at": "2023-11-29 16:53:38",
       "album": {
         "name": "Salitre",
         "url": "https://open.spotify.com/album/4gFK3UVU00iqHcMQdHocv8"
@@ -513,7 +481,7 @@
       "url": "https://open.spotify.com/track/6NXPhNtKgDn7OJaLaELuSH"
     },
     {
-      "added_at": "2023-11-28 14:09:42",
+      "added_at": "2023-11-29 16:53:38",
       "album": {
         "name": "CHUPON",
         "url": "https://open.spotify.com/album/6iZo2sL8hRlzjikyJn5vyh"
@@ -545,23 +513,75 @@
       "url": "https://open.spotify.com/track/7v4JGOsUkblqcvOJ0YpNUU"
     },
     {
-      "added_at": "2023-11-28 14:09:42",
+      "added_at": "2023-11-29 16:53:38",
       "album": {
-        "name": "Houdini",
-        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
+        "name": "EVERYBODY GO TO THE DISCOTEK",
+        "url": "https://open.spotify.com/album/11UJfH39O0VqLiQGLW0D0e"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
         }
       ],
-      "duration_ms": 185917,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
+      "duration_ms": 199946,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/3cDyocF0Ibdfs1SFQk5cLZ"
     },
     {
-      "added_at": "2023-11-28 14:09:42",
+      "added_at": "2023-11-29 16:53:38",
+      "album": {
+        "name": "Perfect Night",
+        "url": "https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 159080,
+      "name": "Perfect Night",
+      "url": "https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8"
+    },
+    {
+      "added_at": "2023-11-29 16:53:38",
+      "album": {
+        "name": "Black Sheep (Brie Larson Vocal Version)",
+        "url": "https://open.spotify.com/album/3blvQlrV0IeDBOWqDz2yYd"
+      },
+      "artists": [
+        {
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+        },
+        {
+          "name": "Brie Larson",
+          "url": "https://open.spotify.com/artist/7g77hiv179GYIwhfCgETGy"
+        }
+      ],
+      "duration_ms": 294065,
+      "name": "Black Sheep - Brie Larson Vocal Version",
+      "url": "https://open.spotify.com/track/60TThBDrPpek5k520l0W0L"
+    },
+    {
+      "added_at": "2023-11-29 16:53:38",
+      "album": {
+        "name": "Pretender",
+        "url": "https://open.spotify.com/album/1u7dKHZMz1V0Skgm2dDFJm"
+      },
+      "artists": [
+        {
+          "name": "The Saint Cecilia",
+          "url": "https://open.spotify.com/artist/2e8gf6BOQ9GOm7nqsLoi3n"
+        }
+      ],
+      "duration_ms": 255239,
+      "name": "Pretender",
+      "url": "https://open.spotify.com/track/1Jq6a9u1fZ69Vyb9PYtFge"
+    },
+    {
+      "added_at": "2023-11-29 16:53:38",
       "album": {
         "name": "ESQUINAS",
         "url": "https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6"
@@ -585,43 +605,7 @@
       "url": "https://open.spotify.com/track/6VsqdsaY4oV06NODea0L0J"
     },
     {
-      "added_at": "2023-11-28 14:09:42",
-      "album": {
-        "name": "All The Little Lights (Anniversary Edition)",
-        "url": "https://open.spotify.com/album/25bKp06DTIMODKnzXQf4gR"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 256986,
-      "name": "Let Her Go (feat. Ed Sheeran) - Anniversary Edition",
-      "url": "https://open.spotify.com/track/1nHKI4L5pWrN5CUvW07nHP"
-    },
-    {
-      "added_at": "2023-11-28 14:09:42",
-      "album": {
-        "name": "Pretender",
-        "url": "https://open.spotify.com/album/1u7dKHZMz1V0Skgm2dDFJm"
-      },
-      "artists": [
-        {
-          "name": "The Saint Cecilia",
-          "url": "https://open.spotify.com/artist/2e8gf6BOQ9GOm7nqsLoi3n"
-        }
-      ],
-      "duration_ms": 255239,
-      "name": "Pretender",
-      "url": "https://open.spotify.com/track/1Jq6a9u1fZ69Vyb9PYtFge"
-    },
-    {
-      "added_at": "2023-11-28 14:09:42",
+      "added_at": "2023-11-29 16:53:38",
       "album": {
         "name": "Drama - The 4th Mini Album",
         "url": "https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs"
@@ -637,7 +621,7 @@
       "url": "https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew"
     },
     {
-      "added_at": "2023-11-28 14:09:42",
+      "added_at": "2023-11-29 16:53:38",
       "album": {
         "name": "GODS",
         "url": "https://open.spotify.com/album/0rAaP1OBxVCn2cIUZNjGRs"
@@ -657,7 +641,7 @@
       "url": "https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g"
     },
     {
-      "added_at": "2023-11-28 14:09:42",
+      "added_at": "2023-11-29 16:53:38",
       "album": {
         "name": "Estrellita",
         "url": "https://open.spotify.com/album/0dSbNOBz88REk7f8SBGXDW"
@@ -673,7 +657,27 @@
       "url": "https://open.spotify.com/track/7wv09FSKH9ZBqXkNRKBony"
     },
     {
-      "added_at": "2023-11-28 14:09:42",
+      "added_at": "2023-11-29 16:53:38",
+      "album": {
+        "name": "All The Little Lights (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/25bKp06DTIMODKnzXQf4gR"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 256986,
+      "name": "Let Her Go (feat. Ed Sheeran) - Anniversary Edition",
+      "url": "https://open.spotify.com/track/1nHKI4L5pWrN5CUvW07nHP"
+    },
+    {
+      "added_at": "2023-11-29 16:53:38",
       "album": {
         "name": "EL AFTER DEL AFTER",
         "url": "https://open.spotify.com/album/4XDH5D7YsE7B8xuhIBDyht"
@@ -701,59 +705,7 @@
       "url": "https://open.spotify.com/track/7jDYmAWdghEWmQyqwLpriE"
     },
     {
-      "added_at": "2023-11-28 14:09:42",
-      "album": {
-        "name": "From Mars to Sirius",
-        "url": "https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 464453,
-      "name": "Flying Whales",
-      "url": "https://open.spotify.com/track/5OjCsHeByDYEGxMrb1z8KQ"
-    },
-    {
-      "added_at": "2023-11-28 14:09:42",
-      "album": {
-        "name": "Black Sheep (Brie Larson Vocal Version)",
-        "url": "https://open.spotify.com/album/3blvQlrV0IeDBOWqDz2yYd"
-      },
-      "artists": [
-        {
-          "name": "Metric",
-          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
-        },
-        {
-          "name": "Brie Larson",
-          "url": "https://open.spotify.com/artist/7g77hiv179GYIwhfCgETGy"
-        }
-      ],
-      "duration_ms": 294065,
-      "name": "Black Sheep - Brie Larson Vocal Version",
-      "url": "https://open.spotify.com/track/60TThBDrPpek5k520l0W0L"
-    },
-    {
-      "added_at": "2023-11-28 14:09:42",
-      "album": {
-        "name": "CANDY",
-        "url": "https://open.spotify.com/album/0dusXsSrBWmJiT4VlzImcN"
-      },
-      "artists": [
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        }
-      ],
-      "duration_ms": 113998,
-      "name": "CANDY",
-      "url": "https://open.spotify.com/track/61KfU2AHAjgdJOCNPkJejw"
-    },
-    {
-      "added_at": "2023-11-28 14:09:42",
+      "added_at": "2023-11-29 16:53:38",
       "album": {
         "name": "Morena",
         "url": "https://open.spotify.com/album/4WRcqPJRVwjF0n6ZFwaD83"
@@ -769,27 +721,71 @@
       "url": "https://open.spotify.com/track/4RPeZbmVON5ZKT5HC9wALt"
     },
     {
-      "added_at": "2023-11-28 14:09:42",
+      "added_at": "2023-11-29 16:53:38",
       "album": {
-        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
-        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 162767,
-      "name": "PERRO NEGRO",
-      "url": "https://open.spotify.com/track/7iQXYTyuG13aoeHxGG28Nh"
+      "duration_ms": 185917,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
     },
     {
-      "added_at": "2023-11-28 14:09:42",
+      "added_at": "2023-11-29 16:53:38",
+      "album": {
+        "name": "CANDY",
+        "url": "https://open.spotify.com/album/0dusXsSrBWmJiT4VlzImcN"
+      },
+      "artists": [
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        }
+      ],
+      "duration_ms": 113998,
+      "name": "CANDY",
+      "url": "https://open.spotify.com/track/61KfU2AHAjgdJOCNPkJejw"
+    },
+    {
+      "added_at": "2023-11-29 16:53:38",
+      "album": {
+        "name": "From Mars to Sirius",
+        "url": "https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 464453,
+      "name": "Flying Whales",
+      "url": "https://open.spotify.com/track/5OjCsHeByDYEGxMrb1z8KQ"
+    },
+    {
+      "added_at": "2023-11-29 16:53:38",
+      "album": {
+        "name": "Radio K.A.O.S.",
+        "url": "https://open.spotify.com/album/7ID0EuIjKxSNFw6dqOWDmo"
+      },
+      "artists": [
+        {
+          "name": "Roger Waters",
+          "url": "https://open.spotify.com/artist/40DqL6Tv84cKT2pH2NMs9r"
+        }
+      ],
+      "duration_ms": 276466,
+      "name": "The Powers That Be",
+      "url": "https://open.spotify.com/track/2I5CHkMbeJs3lCnYqDPejp"
+    },
+    {
+      "added_at": "2023-11-29 16:53:38",
       "album": {
         "name": "The Forever Story (Extended Version)",
         "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
@@ -813,23 +809,59 @@
       "url": "https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u"
     },
     {
-      "added_at": "2023-11-28 14:09:42",
+      "added_at": "2023-11-29 16:53:38",
       "album": {
-        "name": "tu fan",
-        "url": "https://open.spotify.com/album/1vt9k84zvlnJKa3D3CNnzx"
+        "name": "DEMO #5 - nostalgIA (Spanglish Version)",
+        "url": "https://open.spotify.com/album/5lKyz4CLYQXRXytBcq0sxa"
       },
       "artists": [
         {
-          "name": "mafalda cardenal",
-          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
+          "name": "FlowGPT",
+          "url": "https://open.spotify.com/artist/1mxt7qtdBFCHAeEeDHGgiC"
         }
       ],
-      "duration_ms": 240473,
-      "name": "tu fan",
-      "url": "https://open.spotify.com/track/0tLXkjxahQsnZkKP2GXXf6"
+      "duration_ms": 222188,
+      "name": "DEMO #5 - nostalgIA (Spanglish Version)",
+      "url": "https://open.spotify.com/track/4GflbFO7hFzIpzD33CxtgS"
     },
     {
-      "added_at": "2023-11-28 14:09:42",
+      "added_at": "2023-11-29 16:53:38",
+      "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 162767,
+      "name": "PERRO NEGRO",
+      "url": "https://open.spotify.com/track/7iQXYTyuG13aoeHxGG28Nh"
+    },
+    {
+      "added_at": "2023-11-29 16:53:38",
+      "album": {
+        "name": "The Lockdown Sessions",
+        "url": "https://open.spotify.com/album/2kFYChSHSu046vjfGfAr41"
+      },
+      "artists": [
+        {
+          "name": "Roger Waters",
+          "url": "https://open.spotify.com/artist/40DqL6Tv84cKT2pH2NMs9r"
+        }
+      ],
+      "duration_ms": 510338,
+      "name": "Comfortably Numb 2022",
+      "url": "https://open.spotify.com/track/19Kjgxz5XPeagF9ZSPVJeL"
+    },
+    {
+      "added_at": "2023-11-29 16:53:38",
       "album": {
         "name": "The Idol Episode 4 (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU"
@@ -853,23 +885,23 @@
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
     },
     {
-      "added_at": "2023-11-28 14:09:42",
+      "added_at": "2023-11-29 16:53:38",
       "album": {
-        "name": "DEMO #5: nostalgIA (Spanglish Version)",
-        "url": "https://open.spotify.com/album/32eAYvFNmfM0HVo6zY6Lwh"
+        "name": "tu fan",
+        "url": "https://open.spotify.com/album/1vt9k84zvlnJKa3D3CNnzx"
       },
       "artists": [
         {
-          "name": "FlowGPT",
-          "url": "https://open.spotify.com/artist/1mxt7qtdBFCHAeEeDHGgiC"
+          "name": "mafalda cardenal",
+          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
         }
       ],
-      "duration_ms": 222188,
-      "name": "DEMO #5: nostalgIA - Spanglish Version",
-      "url": "https://open.spotify.com/track/092oBVwyJLxHnYEu5E1Rw6"
+      "duration_ms": 240473,
+      "name": "tu fan",
+      "url": "https://open.spotify.com/track/0tLXkjxahQsnZkKP2GXXf6"
     },
     {
-      "added_at": "2023-11-28 14:09:42",
+      "added_at": "2023-11-29 16:53:38",
       "album": {
         "name": "LAS QUE NO TIENEN PAP\u00c1",
         "url": "https://open.spotify.com/album/4jV2xPaptwajnBeamcIhbf"
@@ -885,23 +917,7 @@
       "url": "https://open.spotify.com/track/6TS8WvNunHz3sIePWAxYfE"
     },
     {
-      "added_at": "2023-11-28 14:09:42",
-      "album": {
-        "name": "SPECIALZ",
-        "url": "https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc"
-      },
-      "artists": [
-        {
-          "name": "King Gnu",
-          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
-        }
-      ],
-      "duration_ms": 238986,
-      "name": "SPECIALZ",
-      "url": "https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF"
-    },
-    {
-      "added_at": "2023-11-28 14:09:42",
+      "added_at": "2023-11-29 16:53:38",
       "album": {
         "name": "ABRE LAS PATOTAS",
         "url": "https://open.spotify.com/album/1Vj0Z6awDhe0HEwvnkydJI"
@@ -917,52 +933,36 @@
       "url": "https://open.spotify.com/track/6G75x2FTJ8JSO5iLPKhcYs"
     },
     {
-      "added_at": "2023-11-28 14:09:42",
+      "added_at": "2023-11-29 16:53:38",
       "album": {
-        "name": "Antics",
-        "url": "https://open.spotify.com/album/2OFkUKYNNFQ74kJOSc9gzz"
+        "name": "SPECIALZ",
+        "url": "https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc"
       },
       "artists": [
         {
-          "name": "Interpol",
-          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
         }
       ],
-      "duration_ms": 215826,
-      "name": "Evil",
-      "url": "https://open.spotify.com/track/4absiGHMelB8eH976ytjBj"
+      "duration_ms": 238986,
+      "name": "SPECIALZ",
+      "url": "https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF"
     },
     {
-      "added_at": "2023-11-28 14:09:42",
+      "added_at": "2023-11-29 16:53:38",
       "album": {
-        "name": "ROCK-STAR",
-        "url": "https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a"
+        "name": "Querer Querernos",
+        "url": "https://open.spotify.com/album/7xTUjhiCQyxFFUDHDNcW29"
       },
       "artists": [
         {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
         }
       ],
-      "duration_ms": 182224,
-      "name": "LALALALA",
-      "url": "https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84"
-    },
-    {
-      "added_at": "2023-11-28 14:09:42",
-      "album": {
-        "name": "Una Vida Buena",
-        "url": "https://open.spotify.com/album/5Ol57xPflnNabnALfZehpW"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "Una Vida Buena",
-      "url": "https://open.spotify.com/track/6eMKYBh6GKb8QTjVmbpJJC"
+      "duration_ms": 240047,
+      "name": "Querer Querernos",
+      "url": "https://open.spotify.com/track/6d3q0F9VNtdxQUTVlRcet6"
     }
   ],
   "unique_name": "Viral 50 - Costa Rica",

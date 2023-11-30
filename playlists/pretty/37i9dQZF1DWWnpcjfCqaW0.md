@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 
 > The decade when country and rockabilly came together\. Cover: Johnny Cash
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,726 likes - 75 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,786 likes - 75 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 | 15 | [Long Tall Sally](https://open.spotify.com/track/3EyvLmKst3E6osm8ly5v5A) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Wanda Jackson](https://open.spotify.com/album/3i4ROYpkAL4528HDyp8gKw) | 1:59 |
 | 16 | [It's Only Make Believe](https://open.spotify.com/track/1xVOttVNT27FBTD8iHjOfU) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Conway Twitty Sings](https://open.spotify.com/album/3niZ3iipFSFzO6335VBZiP) | 2:12 |
 | 17 | [Jambalaya \(On The Bayou\)](https://open.spotify.com/track/5gbm0aNo7eXNuOEkQi5m9B) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW) | [Honky Tonkin \(Expanded Undubbed Edition\)](https://open.spotify.com/album/18qEQEBcLbBiDyAW3d73mU) | 2:54 |
-| 18 | [Bye Bye Love](https://open.spotify.com/track/6oRHRkQigTzJ3KwpO3XOV6) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:22 |
+| 18 | [5\-10\-15 Hours](https://open.spotify.com/track/0w20j6tOA22U8Q8brOysGK) | [Ruth Brown](https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY) | [Ruth Brown](https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI) | 3:15 |
 | 19 | [Saddle Tramp](https://open.spotify.com/track/68FTJoO8edSpzuYb6lGW6P) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [Gunfighter Ballads And Trail Songs](https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl) | 2:03 |
-| 20 | [5\-10\-15 Hours](https://open.spotify.com/track/0w20j6tOA22U8Q8brOysGK) | [Ruth Brown](https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY) | [Ruth Brown](https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI) | 3:15 |
+| 20 | [Bye Bye Love](https://open.spotify.com/track/6oRHRkQigTzJ3KwpO3XOV6) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:22 |
 | 21 | [Five Feet High and Rising](https://open.spotify.com/track/0KSHmjK7OFtGocvbo7NZNO) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Songs Of Our Soil](https://open.spotify.com/album/7oWFzGBweoGrFc2lxabmmP) | 1:47 |
 | 22 | [That's All Right](https://open.spotify.com/track/0tHcXWIYt99GY8BONrPIfA) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [For LP Fans Only](https://open.spotify.com/album/1NVsMlJgD5GHf0CT1IewbU) | 1:55 |
 | 23 | [The Battle Of New Orleans](https://open.spotify.com/track/0dwpdcQkeZqpuoAPYD49N3) | [Johnny Horton](https://open.spotify.com/artist/1bBZcz4jP7CoPlqpCFh4gz) | [Johnny Horton'S Greatest Hits](https://open.spotify.com/album/3ZQQjQreYCK9obcS5B5bwI) | 2:31 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 | 68 | [Honky Tonk Man](https://open.spotify.com/track/7m44TrK4qxvhRUh1vaibHL) | [Johnny Horton](https://open.spotify.com/artist/1bBZcz4jP7CoPlqpCFh4gz) | [The Essential Johnny Horton](https://open.spotify.com/album/5kHMuIlNGbEMHsDDTWNmgN) | 2:10 |
 | 69 | [I Love You Because](https://open.spotify.com/track/0ax1ZYtsyAcDwtx5Kfs9e5) | [Margaret Whiting](https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87) | [Margaret](https://open.spotify.com/album/5ckQS8yZaYorW36nLCOqRn) | 2:07 |
 | 70 | [Hey Joe](https://open.spotify.com/track/7HfldGtGQR9FalFBKR14ya) | [Kitty Wells](https://open.spotify.com/artist/4fxdqujwhb2NIQyr7qnnPX) | [The Decca Singles 1952\-1953](https://open.spotify.com/album/3i4OTQnJVagBNrNYnuaiuc) | 2:39 |
-| 71 | [Four Walls](https://open.spotify.com/track/3qReTgtrLsZDISxor3lJW0) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [The Essential Jim Reeves](https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA) | 2:48 |
+| 71 | [Indian Love Call](https://open.spotify.com/track/0WrIaFPKeJtGr1SUeKuYH9) | [Slim Whitman](https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0) | [The Very Best Of Slim Whitman](https://open.spotify.com/album/16smaj9yNDCAPVviKp5FFl) | 3:10 |
 | 72 | [I Can't Stop Loving You](https://open.spotify.com/track/3mewJ611cPqPIk8EQDiA12) | [Don Gibson](https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S) | [The Essential Don Gibson](https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH) | 2:34 |
-| 73 | [Indian Love Call](https://open.spotify.com/track/0WrIaFPKeJtGr1SUeKuYH9) | [Slim Whitman](https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0) | [The Very Best Of Slim Whitman](https://open.spotify.com/album/16smaj9yNDCAPVviKp5FFl) | 3:10 |
+| 73 | [Four Walls](https://open.spotify.com/track/3qReTgtrLsZDISxor3lJW0) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [The Essential Jim Reeves](https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA) | 2:48 |
 | 74 | [Blues, Stay Away From Me](https://open.spotify.com/track/7xVj55oXJ9eesE9f2XVHKe) | [The Delmore Brothers](https://open.spotify.com/artist/10XMe12TQkDF6o4QPJlZFJ) | [16 All Time Favorite Songs](https://open.spotify.com/album/49gjtUiOVrN6nQXLbOX4pi) | 2:54 |
 | 75 | [I'll Sail My Ship Alone](https://open.spotify.com/track/121wbuV1IKpsfnh4ENf5JB) | [Sons of the Pioneers](https://open.spotify.com/artist/05FDFpC7GMP5iLbBwpkJYs) | [Good Old Country Music](https://open.spotify.com/album/4rFH4XdtIsCat15Olnuvkn) | 2:13 |
 
-Snapshot ID: `MCw1MTU0YzRmZTg1MDMxOTcyZDhlMmQzYTIyMDQ2ZTZiZGMyNGZjN2E3`
+Snapshot ID: `MCw5NjI3Y2U0M2Y0YzNkMmVjZGQ2YWJkZTQxZjViZjZmNzEwZGEyM2I5`

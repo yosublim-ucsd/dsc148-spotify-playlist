@@ -4,7 +4,7 @@
 
 > Emotional and powerful \- let your feelings out with these classic power ballads\. Cover: Tina Turner
 
-202 songs - 16 hr 3 min
+203 songs - 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Days Gone By](https://open.spotify.com/track/0OLl48A8q7KqBaCxh8nyDE) | [Slaughter](https://open.spotify.com/artist/4ibNXJiMYOPibpS9DB9Qz3) | [Mass Slaughter](https://open.spotify.com/album/1PLl8ONmplOUyu5Bq8GYJL) | 3:51 | 2020-04-30 | 2022-06-18 |
 | [Don't Close Your Eyes](https://open.spotify.com/track/0r0yw4tbNQSauuWXw0dFwM) | [Kix](https://open.spotify.com/artist/45KpBChrKYWhTlU6N57ofu) | [Don't Close Your Eyes](https://open.spotify.com/album/4fSPG8KKZbarAMWvPB5JqA) | 4:12 | 2022-01-21 | 2022-04-21 |
 | [Don't Go Away Mad \(Just Go Away\)](https://open.spotify.com/track/1YfnuJROv0PeLyvrQQK78N) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr Feelgood](https://open.spotify.com/album/4un307nFYL2FmJEy0GslW4) | 4:39 | 2020-04-30 | 2022-07-29 |
+| [Don't Go Away Mad \(Just Go Away\) \(2021\- Remaster\)](https://open.spotify.com/track/0F5NaGpnJcjQIKgIyZpVCv) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood \(40th Anniversary;2021 \- Remaster\)](https://open.spotify.com/album/2EToovm9UH7cVPepJOg1B6) | 4:38 | 2023-05-24 |  |
 | [Don't Go Away Mad \(Just Go Away\) \- 2021 \- Remaster](https://open.spotify.com/track/4kXV4Kf4IeeA9Ah9RH3VY1) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood \(2021 \- Remaster\)](https://open.spotify.com/album/1pRY36LiSRq5oBwdrLKrF2) | 4:38 | 2022-01-21 | 2023-11-18 |
 | [Don't Know What You Got \(Till It's Gone\)](https://open.spotify.com/track/3vPrFUtWpKT9oNW94NDDEW) | [Cinderella](https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx) | [Long Cold Winter](https://open.spotify.com/album/0DGiVv0CmN2elcLYSeiXPm) | 5:54 | 2020-04-30 | 2022-07-29 |
 | [Don't Know What You Got \(Till It's Gone\)](https://open.spotify.com/track/5QRs63VVKNaqUjg6XSSckM) | [Cinderella](https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx) | [Long Cold Winter](https://open.spotify.com/album/5EsAeGDozof1PIH3WPXLr2) | 5:54 | 2022-01-21 |  |
@@ -163,7 +164,7 @@
 | [Still Loving You](https://open.spotify.com/track/6KGXbG5wEb6WlIFAGKDQh0) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting \(50th Anniversary Deluxe Edition\)](https://open.spotify.com/album/5mtL1sxFQ8vKzv1hk6t0xX) | 6:28 | 2020-04-30 | 2022-07-28 |
 | [Still Lovin’ You](https://open.spotify.com/track/6JeukHIbgOMHEmL4Qpyz7G) | [George Lynch](https://open.spotify.com/artist/4t9bqcZJUC9cAjgRRNVm6u), [Steve Whitman](https://open.spotify.com/artist/3kQb9aSULrdlZWFq1IfiLp) | [80s Metal Essentials](https://open.spotify.com/album/2TVw53GtUSghMd1GJ1rYNU) | 4:54 | 2022-01-21 | 2022-04-21 |
 | [Stone Cold](https://open.spotify.com/track/489G72NyIWlBqZWATHN2hr) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Straight Between The Eyes \(Remastered\)](https://open.spotify.com/album/0yvj6yNOiuNLVpbbP1TWoS) | 5:17 | 2020-04-30 | 2022-07-27 |
-| [Stone Cold](https://open.spotify.com/track/7HXYoe65kmrPrJR1r0DGtW) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Straight Between The Eyes](https://open.spotify.com/album/2TjkjpMXM0fsgmmVjmxNmI) | 5:17 | 2022-01-21 |  |
+| [Stone Cold](https://open.spotify.com/track/7HXYoe65kmrPrJR1r0DGtW) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Straight Between The Eyes](https://open.spotify.com/album/2TjkjpMXM0fsgmmVjmxNmI) | 5:17 | 2022-01-21 | 2023-11-30 |
 | [Surrender](https://open.spotify.com/track/4EEAHK0c3M7CCgcQt9bfts) | [Trixter](https://open.spotify.com/artist/4M3TtMs03DHCYvzbgzBnyZ) | [Trixter](https://open.spotify.com/album/0XZ1S3qHK4OPgA0o8itUMb) | 5:50 | 2022-01-21 | 2022-04-21 |
 | [Take My Breath Away](https://open.spotify.com/track/1hZJcuz9iMoz6tLkFlIaUy) | [Berlin](https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM) | [Take My Breath Away](https://open.spotify.com/album/1gwQ8OK1YHKpzIxLKuc1MQ) | 4:24 | 2022-01-21 |  |
 | [The Angel Song](https://open.spotify.com/track/1JxRLFVoFx2f7zumJwRDSw) | [Great White](https://open.spotify.com/artist/6ZPbX2Lxd40e2UVkXpyxvI) | [Twice Shy](https://open.spotify.com/album/0gPfgxBDkrtJgwIkziS8LI) | 4:51 | 2020-04-30 | 2022-07-29 |

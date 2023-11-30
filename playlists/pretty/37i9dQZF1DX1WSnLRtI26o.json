@@ -1,12 +1,12 @@
 {
   "description": "Let your favorite pop guide you through your daily commute! Cover: Dua Lipa",
-  "num_followers": 418016,
+  "num_followers": 418000,
   "original_name": "Happy Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMGM3ZjA0YjRjMjliZTJlZTFiYjQxMTQyMTM1ODU1MGI5ZGJiNDA4",
+  "snapshot_id": "MCwxODA5ZDdjMzQ4NmE5NDgxNTJiOGFmYzQ5Y2FkOGY0MjYzNjJiMDdl",
   "tracks": [
     {
       "added_at": "2021-08-25 20:28:57",
@@ -115,22 +115,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 233712,
-      "name": "Shape of You",
-      "url": "https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "Native",
         "url": "https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 257265,
       "name": "Counting Stars",
       "url": "https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 233712,
+      "name": "Shape of You",
+      "url": "https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -183,22 +183,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "Hot Fuss",
-        "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
-      },
-      "artists": [
-        {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        }
-      ],
-      "duration_ms": 222973,
-      "name": "Mr. Brightside",
-      "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "Voicenotes",
         "url": "https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 208786,
       "name": "Attention",
       "url": "https://open.spotify.com/track/5cF0dROlMOK5uNZtivgu50"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Hot Fuss",
+        "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 222973,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
     },
     {
       "added_at": "2022-04-13 19:43:54",
@@ -859,6 +859,22 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
+        "name": "Happiness Begins",
+        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 181026,
+      "name": "Sucker",
+      "url": "https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
         "name": "Future Nostalgia",
         "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
       },
@@ -875,18 +891,18 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "Happiness Begins",
-        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
+        "name": "Walking On A Dream (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh"
       },
       "artists": [
         {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+          "name": "Empire of the Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
         }
       ],
-      "duration_ms": 181026,
-      "name": "Sucker",
-      "url": "https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD"
+      "duration_ms": 198440,
+      "name": "Walking On A Dream",
+      "url": "https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ"
     },
     {
       "added_at": "2022-04-13 19:43:54",
@@ -903,22 +919,6 @@
       "duration_ms": 261153,
       "name": "Castle on the Hill",
       "url": "https://open.spotify.com/track/6PCUP3dWmTjcTtXY02oFdT"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "Walking On A Dream (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh"
-      },
-      "artists": [
-        {
-          "name": "Empire of the Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 198440,
-      "name": "Walking On A Dream",
-      "url": "https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -985,22 +985,6 @@
       "url": "https://open.spotify.com/track/2TeLIzFBe3hxkPR5FIQZut"
     },
     {
-      "added_at": "2022-04-13 19:43:54",
-      "album": {
-        "name": "Red (Big Machine Radio Release Special)",
-        "url": "https://open.spotify.com/album/4jTYApZPMapg56gRycOn0D"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 219720,
-      "name": "I Knew You Were Trouble.",
-      "url": "https://open.spotify.com/track/6FB3v4YcR57y4tXFcdxI1E"
-    },
-    {
       "added_at": "2021-08-25 20:28:57",
       "album": {
         "name": "ANTI (Deluxe)",
@@ -1019,6 +1003,22 @@
       "duration_ms": 219320,
       "name": "Work",
       "url": "https://open.spotify.com/track/72TFWvU3wUYdUuxejTTIzt"
+    },
+    {
+      "added_at": "2022-04-13 19:43:54",
+      "album": {
+        "name": "Red (Big Machine Radio Release Special)",
+        "url": "https://open.spotify.com/album/4jTYApZPMapg56gRycOn0D"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 219720,
+      "name": "I Knew You Were Trouble.",
+      "url": "https://open.spotify.com/track/6FB3v4YcR57y4tXFcdxI1E"
     },
     {
       "added_at": "2021-09-24 04:01:00",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
+        "name": "After Laughter",
+        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 182693,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
         "name": "Some Nights",
         "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 250626,
       "name": "We Are Young (feat. Janelle Mon\u00e1e)",
       "url": "https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "After Laughter",
-        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 182693,
-      "name": "Hard Times",
-      "url": "https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -1809,6 +1809,22 @@
       "url": "https://open.spotify.com/track/6IPNp9PfaEqrzotY47TIWy"
     },
     {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Always in Between (Deluxe)",
+        "url": "https://open.spotify.com/album/7GCY1J01hcEpdgeY0vtSsN"
+      },
+      "artists": [
+        {
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
+        }
+      ],
+      "duration_ms": 194386,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/4r1CoAATVuxag55Ct3Y1aX"
+    },
+    {
       "added_at": "2022-04-13 19:43:54",
       "album": {
         "name": "Don\u2019t Wake Me Up",
@@ -1827,22 +1843,6 @@
       "duration_ms": 188894,
       "name": "Don\u2019t Wake Me Up",
       "url": "https://open.spotify.com/track/3LEgGAl9zLcQWGTp7ptqtQ"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "Always in Between (Deluxe)",
-        "url": "https://open.spotify.com/album/7GCY1J01hcEpdgeY0vtSsN"
-      },
-      "artists": [
-        {
-          "name": "Jess Glynne",
-          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
-        }
-      ],
-      "duration_ms": 194386,
-      "name": "I'll Be There",
-      "url": "https://open.spotify.com/track/4r1CoAATVuxag55Ct3Y1aX"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -2481,22 +2481,6 @@
       "url": "https://open.spotify.com/track/7FC9Lng8iXU081lbigu8m8"
     },
     {
-      "added_at": "2022-04-13 19:43:54",
-      "album": {
-        "name": "Get To Know You",
-        "url": "https://open.spotify.com/album/2MUwPFCq8gmtViYhg3NRVU"
-      },
-      "artists": [
-        {
-          "name": "Samantha Harvey",
-          "url": "https://open.spotify.com/artist/78c7nvjh7AbOgTNV7QKMxZ"
-        }
-      ],
-      "duration_ms": 201666,
-      "name": "Get To Know You",
-      "url": "https://open.spotify.com/track/3oiLlbBynuErymca4Dwp5H"
-    },
-    {
       "added_at": "2021-08-25 20:28:57",
       "album": {
         "name": "Dirty Computer",
@@ -2511,6 +2495,22 @@
       "duration_ms": 194230,
       "name": "Make Me Feel",
       "url": "https://open.spotify.com/track/5gW5dSy3vXJxgzma4rQuzH"
+    },
+    {
+      "added_at": "2022-04-13 19:43:54",
+      "album": {
+        "name": "Get To Know You",
+        "url": "https://open.spotify.com/album/2MUwPFCq8gmtViYhg3NRVU"
+      },
+      "artists": [
+        {
+          "name": "Samantha Harvey",
+          "url": "https://open.spotify.com/artist/78c7nvjh7AbOgTNV7QKMxZ"
+        }
+      ],
+      "duration_ms": 201666,
+      "name": "Get To Know You",
+      "url": "https://open.spotify.com/track/3oiLlbBynuErymca4Dwp5H"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -3017,22 +3017,6 @@
       "url": "https://open.spotify.com/track/6JvrOdeiEqWyCta29Xc4mR"
     },
     {
-      "added_at": "2021-09-20 19:34:04",
-      "album": {
-        "name": "State of the Heart",
-        "url": "https://open.spotify.com/album/2kqqKq8hxUDp0i1n0GpsgX"
-      },
-      "artists": [
-        {
-          "name": "Patrick Droney",
-          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
-        }
-      ],
-      "duration_ms": 198693,
-      "name": "When The Lights Go Out",
-      "url": "https://open.spotify.com/track/7xY5PbhYQgCCbpfpn7HDT9"
-    },
-    {
       "added_at": "2021-10-08 04:01:00",
       "album": {
         "name": "DISCO: Guest List Edition",
@@ -3051,6 +3035,22 @@
       "duration_ms": 207986,
       "name": "A Second to Midnight",
       "url": "https://open.spotify.com/track/3lWQgPeo8TrZZQT4qPScxg"
+    },
+    {
+      "added_at": "2021-09-20 19:34:04",
+      "album": {
+        "name": "State of the Heart",
+        "url": "https://open.spotify.com/album/2kqqKq8hxUDp0i1n0GpsgX"
+      },
+      "artists": [
+        {
+          "name": "Patrick Droney",
+          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
+        }
+      ],
+      "duration_ms": 198693,
+      "name": "When The Lights Go Out",
+      "url": "https://open.spotify.com/track/7xY5PbhYQgCCbpfpn7HDT9"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -3175,22 +3175,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "Expectations",
-        "url": "https://open.spotify.com/album/7GyhQBODfoEXl9seWK1wzt"
-      },
-      "artists": [
-        {
-          "name": "MAGIC!",
-          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
-        }
-      ],
-      "duration_ms": 204653,
-      "name": "Kiss Me",
-      "url": "https://open.spotify.com/track/1mypFCdvOhUjRpnctn5Liz"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "Blessings and Miracles",
         "url": "https://open.spotify.com/album/5BsYeVFVdAihPY4srh9Ac7"
       },
@@ -3211,6 +3195,22 @@
       "duration_ms": 165133,
       "name": "Move",
       "url": "https://open.spotify.com/track/1uiNMpDRJSS0r76WzyzpiN"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/7GyhQBODfoEXl9seWK1wzt"
+      },
+      "artists": [
+        {
+          "name": "MAGIC!",
+          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
+        }
+      ],
+      "duration_ms": 204653,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/1mypFCdvOhUjRpnctn5Liz"
     },
     {
       "added_at": "2021-08-25 20:28:57",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyvco9C4Og0.md) - [plain]
 
 > Las leyendas del mariachi están aquí\. Alejandro Fernández en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 903,350 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 903,354 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyvco9C4Og0.md) - [plain]
 | 99 | [Un Cumbión Dolido](https://open.spotify.com/track/7uZ5C69LskNw0B4szvVWI5) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Un Cumbión Dolido](https://open.spotify.com/album/7nCJIsXrNGI0Ya2v1jmWzK) | 3:55 |
 | 100 | [A Quién Vas a Amar Más Que a Mí](https://open.spotify.com/track/1IV8PlSxx5PUiaxKwVrlg9) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 2:47 |
 
-Snapshot ID: `MCwzNTEwNzIzZjA2MmU0ZDYyNzE1NmRjYjVkMWVhZDViZDIyNjdkYTY1`
+Snapshot ID: `MCwyY2YyZDEwMWNkY2JlYzgwMjJhZmQwNzY4NDZmYjNmMDc5MGMwMzA2`

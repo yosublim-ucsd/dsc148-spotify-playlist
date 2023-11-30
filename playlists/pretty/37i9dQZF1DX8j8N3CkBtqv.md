@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover\- Bharg
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,279 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,288 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 49 | [Naina](https://open.spotify.com/track/4N7c9vtfzGawbAjes3h21C) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr) | [Naina](https://open.spotify.com/album/3e7mk0VgLls1ntmmU5mEEf) | 3:27 |
 | 50 | [Semi Automatic Butane](https://open.spotify.com/track/1rN9zRk3KjZyYDTNKih1yi) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Semi Automatic Butane](https://open.spotify.com/album/3Z5Ozc5CVfx8Tojvj8Z8GY) | 3:29 |
 
-Snapshot ID: `MCxmZWY3MGM0MDk3OWJkY2EwMzdlNjhmMGI1MDI5OTIyMTgxYzUwOTJi`
+Snapshot ID: `MCwwYWViYjE4MzQzOTZmOWEzNGI0N2ViMDU1ZTE4Yjk5ZmI0YTliNWIy`

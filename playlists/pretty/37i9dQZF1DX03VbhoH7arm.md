@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03VbhoH7arm.md) - [plain]
 
 > Os grandes hits do momento estão aqui! Foto: Gloria Groove
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,476,627 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,477,073 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03VbhoH7arm.md) - [plain]
 | 15 | [Furduncinho do Rogerinho](https://open.spotify.com/track/6drlqBh6BeYZinmYQ9qR2n) | [MC Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP) | [Furduncinho do Rogerinho](https://open.spotify.com/album/1121oao2lBVzRP4G6CxE6a) | 2:59 |
 | 16 | [Faz um Vuk Vuk \(Teto Espelhado\)](https://open.spotify.com/track/64CovjRwInpOJW4PiGMprY) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Dj Nk Da Serra](https://open.spotify.com/artist/3DIMAAaWSlVl1YQ9nsQmUN), [Mc Magrinho](https://open.spotify.com/artist/4JA9UvIYD3D5kL7utiGJMI) | [Faz um Vuk Vuk \(Teto Espelhado\)](https://open.spotify.com/album/59qldBzRiQutEYO1hqxw7H) | 2:18 |
 | 17 | [Fode Bem](https://open.spotify.com/track/3Zgs8GjLi5hArtyLQhZ06Y) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [Mc Mika](https://open.spotify.com/artist/6exBFuevXZvHrbP3oKtfWe) | [Cadê o After? Pt\. 1](https://open.spotify.com/album/4Vy1Rn4htx3L0ojjaeePww) | 2:16 |
-| 18 | [É Tesão ou É Amor](https://open.spotify.com/track/19TnKf5YHapfrI1FJjbx8i) | [cjnobeat](https://open.spotify.com/artist/4fKJ81BAFxuwAFUI3B1BXM), [Bibi Babydoll](https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [É Tesão ou É Amor](https://open.spotify.com/album/6yimbyJdwJgL4bKA8MfS1s) | 2:38 |
+| 18 | [É Tesão ou É Amor](https://open.spotify.com/track/7tDkT8KRWl7xyghFLwgTgt) | [cjnobeat](https://open.spotify.com/artist/4fKJ81BAFxuwAFUI3B1BXM), [Bibi Babydoll](https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV) | [É Tesão ou É Amor](https://open.spotify.com/album/0Om40W41WEFM4xJeRI7S3a) | 2:38 |
 | 19 | [Piloto](https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [Piloto](https://open.spotify.com/album/0Yzslwaxztdnw9nQX0oDdU) | 3:17 |
 | 20 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 |
 | 21 | [JOIA RARA](https://open.spotify.com/track/6L8aBaqfwMuwhpI9uhbyjp) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Mc Tato](https://open.spotify.com/artist/7lc98VPDdogFv3eLfCX7sq) | [JOIA RARA](https://open.spotify.com/album/2tJzNiUgQ6lPjPkq4HuQPN) | 2:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03VbhoH7arm.md) - [plain]
 | 49 | [Sereia](https://open.spotify.com/track/77UrDaIQq6JZIJWeLgJaRf) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Sereia](https://open.spotify.com/album/56nuoKYRrbcBq73wUuSEyI) | 4:54 |
 | 50 | [Felina](https://open.spotify.com/track/2orGm2E68ODFYOURjaES62) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Felina](https://open.spotify.com/album/28BuR3X6PDJ6rJ5QapLYgn) | 3:45 |
 
-Snapshot ID: `MCxiMjU5MWRmMDU1Mjk2YzhlMDAxMDc3OTU4ODI1YTE1OGU4NGIyMjQ3`
+Snapshot ID: `MCxmNmIwYmY5NDc1NWJiMGQwYWY0Y2MzNGU0MzM5MTM1NjNjODViMTM5`

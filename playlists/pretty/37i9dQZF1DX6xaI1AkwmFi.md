@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xaI1AkwmFi.md) - [plain]
 
 > ストロボライトのように光り輝く楽曲で、今日という日をスタートしよう。 Cover art painted by <a href="spotify:artist:2IUl3m1H1EQ7QfNbNWvgru">Vaundy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,343 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,373 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,31 +32,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xaI1AkwmFi.md) - [plain]
 | 22 | [Burning Friday Night](https://open.spotify.com/track/1NlkoYEA1ndLQIKzXTPh9V) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [FULLCOLOR](https://open.spotify.com/album/1rDLRueueI2ILXOyZE5qWd) | 4:15 |
 | 23 | [Super Ball](https://open.spotify.com/track/6CBqqocRx76YtdMvGqD2HZ) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Two Moon](https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa) | 3:23 |
 | 24 | [Prince Shoutoku](https://open.spotify.com/track/4z85bLqYNMp0ixpiARiCgC) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [Prince Shoutoku](https://open.spotify.com/album/0pF7LdM6RM99pJZXq9dOIN) | 3:29 |
-| 25 | [燈](https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [燈](https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz) | 3:58 |
+| 25 | [TOKYO JOURNEY](https://open.spotify.com/track/3eVvBU4nUV2GoVoF4iHo12) | [MONONOKE](https://open.spotify.com/artist/145u2V6RMbtZv0taOhfR6x) | [TOKYO JOURNEY](https://open.spotify.com/album/2f6d38S4UgGAF66V7DTwzs) | 4:18 |
 | 26 | [hot lemon](https://open.spotify.com/track/1ZTpqhGR9UeBpBVyoBFEXf) | [noa](https://open.spotify.com/artist/7nhWQxOMcfIv29SBPZEcgp), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [hot lemon](https://open.spotify.com/album/5dtQd5fuVHnFs0Siny4eD6) | 2:33 |
 | 27 | [Aftershow](https://open.spotify.com/track/6dyn5n7eQdJ2Br5TKpfDrI) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi), [Harry Teardrop](https://open.spotify.com/artist/3AIYyng1ByLhJC6TimwJJV) | [Aftershow](https://open.spotify.com/album/11aeI5jTdP7gy6bRwS6EEy) | 3:52 |
 | 28 | [Nagisa](https://open.spotify.com/track/0bdAQ9dwLA5cJtgM05PRKW) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Nagisa](https://open.spotify.com/album/1AtPpQ0av1ugXZ1QhjMQkK) | 3:46 |
-| 29 | [花になって \- Be a flower](https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [花になって \- Be a flower](https://open.spotify.com/album/2CmupdP2p1BOYVYh2cjtJc) | 3:19 |
+| 29 | [燈](https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [燈](https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz) | 3:58 |
 | 30 | [Mix](https://open.spotify.com/track/0ObVtzwc7YEuMjDQSTQyCW) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Mix](https://open.spotify.com/album/00p5rwTYsV62tV3RXRYZAO) | 3:29 |
 | 31 | [食卓](https://open.spotify.com/track/1ZgpUVfKTjbr5DjEMu3eQI) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [食卓](https://open.spotify.com/album/6oRq5ENvDdVVcn2BwNGamE) | 3:26 |
 | 32 | [おもかげ \(produced by Vaundy\)](https://open.spotify.com/track/6ts1KCOudfDYXYfyWtq0k1) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [おもかげ \(produced by Vaundy\)](https://open.spotify.com/album/3PQH45Tw7K3IzTLsGze9UE) | 3:08 |
 | 33 | [GO!!!](https://open.spotify.com/track/3y5v0rYHHY9DrkZUM6H2kA) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [GO!!!](https://open.spotify.com/album/2jaLAhsvcf5RWgg5uY3ds0) | 3:24 |
 | 34 | [フシアワセ](https://open.spotify.com/track/26TkBHFwts2pMl0xKoL2Mz) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [フシアワセ](https://open.spotify.com/album/1ynoylwFZ0K7qC85sp8CnP) | 3:30 |
 | 35 | [Kaiju no Hanauta](https://open.spotify.com/track/3gQ19Wo6CbBpdHYmt2GVt0) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/4dKFBa0YCH4636ZtY4L2p7) | 3:44 |
-| 36 | [GRL GVNG](https://open.spotify.com/track/5OqMZ8In8CkCa0SbknnDPl) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [GRL GVNG](https://open.spotify.com/album/0s6tMsTvOqtqmFxJogsIJS) | 3:08 |
+| 36 | [花になって \- Be a flower](https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [花になって \- Be a flower](https://open.spotify.com/album/2CmupdP2p1BOYVYh2cjtJc) | 3:19 |
 | 37 | [TURN IT UP \- feat\. Candee & ZOT on the WAVE](https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH) | [TURN IT UP \(feat\. Candee & ZOT on the WAVE\)](https://open.spotify.com/album/5gTvyYgUsKQ6UwUdavwn5z) | 3:13 |
-| 38 | [怪物](https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [怪物](https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9) | 3:26 |
+| 38 | [GRL GVNG](https://open.spotify.com/track/5OqMZ8In8CkCa0SbknnDPl) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [GRL GVNG](https://open.spotify.com/album/0s6tMsTvOqtqmFxJogsIJS) | 3:08 |
 | 39 | [マジックアワー](https://open.spotify.com/track/5KFwt828Q8lPpUSs69TWZV) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [マジックアワー](https://open.spotify.com/album/1VV09JUhf3tWApPKwszd56) | 3:25 |
 | 40 | [Wrecked](https://open.spotify.com/track/68wXxnlnc3B5r5QrfwRiiH) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Wrecked](https://open.spotify.com/album/41NdOKlkYvk8FJL0Uj4el1) | 2:08 |
 | 41 | [踊り子](https://open.spotify.com/track/1YXot2MLAG9sttepCtBRM7) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:49 |
 | 42 | [VIP](https://open.spotify.com/track/3U8u7YFQvljmsBHsJWPBR3) | [LIL SOFT TENNIS](https://open.spotify.com/artist/4W0x6vtaXBRGr5hPMYcrmQ), [VaVa](https://open.spotify.com/artist/5JlRv2tBZk1f4c7UULHkUY) | [i have a wing](https://open.spotify.com/album/7rLr6RHZ4u7XXNGNsRcu14) | 3:14 |
-| 43 | [色彩](https://open.spotify.com/track/1uveEvgKX4irLcp1BUTIFD) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [色彩](https://open.spotify.com/album/3gQJWupAma6DdzcHVBQ9Bn) | 3:12 |
-| 44 | [01](https://open.spotify.com/track/7r6pHYnNYqxSZr8e40VF8T) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [01](https://open.spotify.com/album/7DkIDS9gWtm6PQs9P7TnBz) | 3:06 |
+| 43 | [怪物](https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [怪物](https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9) | 3:26 |
+| 44 | [色彩](https://open.spotify.com/track/1uveEvgKX4irLcp1BUTIFD) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [色彩](https://open.spotify.com/album/3gQJWupAma6DdzcHVBQ9Bn) | 3:12 |
 | 45 | [鯨の子](https://open.spotify.com/track/1b1XlfWkqe6bAsi5go0Ppg) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [鯨の子](https://open.spotify.com/album/72OedMUACIRxK4gVHnPgKB) | 4:13 |
-| 46 | [サマータイムシンデレラ](https://open.spotify.com/track/6SwATVDZUy3jha72jDyxe2) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [サマータイムシンデレラ](https://open.spotify.com/album/7hjjJpO7sTSbT90FN9hcZ2) | 3:48 |
-| 47 | [Anytime Anywhere](https://open.spotify.com/track/7FeEiAWqWScpMFnlLSUvX2) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Anytime Anywhere](https://open.spotify.com/album/66OrMbPN4equuw2hHbjA1X) | 3:50 |
-| 48 | [ブルーアンビエンス](https://open.spotify.com/track/1S1WSh4uCprvucg6Hx57Eh) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [ブルーアンビエンス](https://open.spotify.com/album/4fbghPZI7ZAQIbO4V7yrVj) | 4:10 |
-| 49 | [ノーダウト](https://open.spotify.com/track/5DMEvbg3gUmiR5HIBWdveV) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [エスカパレード](https://open.spotify.com/album/0Iz8ByVqKvdlyl77DV3y3p) | 3:22 |
-| 50 | [TGIF](https://open.spotify.com/track/3horUXBBgEyTEAxfeT9c0P) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [TGIF](https://open.spotify.com/album/0aNeBf2SZFAUOYuyCBPU0c) | 2:51 |
+| 46 | [01](https://open.spotify.com/track/7r6pHYnNYqxSZr8e40VF8T) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [01](https://open.spotify.com/album/7DkIDS9gWtm6PQs9P7TnBz) | 3:06 |
+| 47 | [サマータイムシンデレラ](https://open.spotify.com/track/6SwATVDZUy3jha72jDyxe2) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [サマータイムシンデレラ](https://open.spotify.com/album/7hjjJpO7sTSbT90FN9hcZ2) | 3:48 |
+| 48 | [Anytime Anywhere](https://open.spotify.com/track/7FeEiAWqWScpMFnlLSUvX2) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Anytime Anywhere](https://open.spotify.com/album/66OrMbPN4equuw2hHbjA1X) | 3:50 |
+| 49 | [ブルーアンビエンス](https://open.spotify.com/track/1S1WSh4uCprvucg6Hx57Eh) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [ブルーアンビエンス](https://open.spotify.com/album/4fbghPZI7ZAQIbO4V7yrVj) | 4:10 |
+| 50 | [ノーダウト](https://open.spotify.com/track/5DMEvbg3gUmiR5HIBWdveV) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [エスカパレード](https://open.spotify.com/album/0Iz8ByVqKvdlyl77DV3y3p) | 3:22 |
 
-Snapshot ID: `MCxmNjlhNzQxZDQwMDA1ZjUzNzM4ZWQ1MjliMzNiNmVlOTg5NDY3MDA5`
+Snapshot ID: `MCwwMzVhMmQzYTcwMDE4ZTM4YjM2MzgwNjllYjY3ZWExNjRjOGIzNzBl`

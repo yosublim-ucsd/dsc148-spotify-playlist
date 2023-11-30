@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/cheetah/\">Tyreek Hill</a>",
-  "num_followers": 33559,
+  "num_followers": 33648,
   "original_name": "Tyreek Hill's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGI3M2FkYmZhODExZDAzMDgwNWViNTA3ZTM5ZDBjMDk3NWQ2MGU1",
+  "snapshot_id": "MCwxYTU5NjZhYTUyNmU1Zjg2ZjgxYzQxOTA0ZTViZmQ2NTk0NjJmYjZl",
   "tracks": [
     {
       "added_at": "2022-10-02 01:51:23",
@@ -27,22 +27,6 @@
     {
       "added_at": "2022-10-02 01:51:23",
       "album": {
-        "name": "T R A P S O U L",
-        "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 194613,
-      "name": "Exchange",
-      "url": "https://open.spotify.com/track/43PuMrRfbyyuz4QpZ3oAwN"
-    },
-    {
-      "added_at": "2022-10-02 01:51:23",
-      "album": {
         "name": "Trip",
         "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 276960,
       "name": "Sativa",
       "url": "https://open.spotify.com/track/2pg2TiYo9Rb8KeB5JjP7jS"
+    },
+    {
+      "added_at": "2022-10-02 01:51:23",
+      "album": {
+        "name": "T R A P S O U L",
+        "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 194613,
+      "name": "Exchange",
+      "url": "https://open.spotify.com/track/43PuMrRfbyyuz4QpZ3oAwN"
     },
     {
       "added_at": "2022-10-02 01:51:23",

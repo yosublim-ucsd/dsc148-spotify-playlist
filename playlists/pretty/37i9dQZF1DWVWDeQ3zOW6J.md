@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWDeQ3zOW6J.md) - [plain]
 
 > ¡Nada le gana a una comida hecha con buena salsa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,345 likes - 60 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,378 likes - 60 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWDeQ3zOW6J.md) - [plain]
 | 33 | [Estamos en Salsa](https://open.spotify.com/track/6nONybSopBGecWPK0pcvva) | [Wayne Gorbea](https://open.spotify.com/artist/0tvNMJ8jl7lHOHv3ykLYvD) | [La Salsa del Conjunto Salsa](https://open.spotify.com/album/7oKUzawRV3aG7THNczUyT8) | 4:49 |
 | 34 | [Sofrito](https://open.spotify.com/track/0FpBO0Pyoh4MZVmNO3zwnc) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Sofrito](https://open.spotify.com/album/6o663c9rSwfKOoLQKs76kS) | 6:06 |
 | 35 | [Merecumbe](https://open.spotify.com/track/3UIdoF8igmzt7gnolINC97) | [Johnny Colon](https://open.spotify.com/artist/4IQvRKcRuA2mzB6lc2E5Pm) | [Fania Live 02 From Miami With DJ LeSpam](https://open.spotify.com/album/3hzWtDzAggtGEkuu6GMmSg) | 5:57 |
-| 36 | [Brujeria](https://open.spotify.com/track/6RVNMkVUHijxWQnGOOeOa1) | [Charlie Aponte](https://open.spotify.com/artist/2fnP86vFqCtBZp6igjAgc7), [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu), [Yayo El Indio](https://open.spotify.com/artist/450R1iQ3HImRJnq1eyNWdG) | [Aqui Estoy Yo, Vol\. 1](https://open.spotify.com/album/00kLg7atNIIaRc63s93Dry) | 3:27 |
-| 37 | [Salsa Y Control](https://open.spotify.com/track/4y6QWwI8lqYYemjYK1PCPc) | [Lebrón Brothers](https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam) | [Salsa Y Control](https://open.spotify.com/album/539af69eELgsPBWn4ZwK8I) | 3:47 |
+| 36 | [Salsa Y Control](https://open.spotify.com/track/4y6QWwI8lqYYemjYK1PCPc) | [Lebrón Brothers](https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam) | [Salsa Y Control](https://open.spotify.com/album/539af69eELgsPBWn4ZwK8I) | 3:47 |
+| 37 | [Brujeria](https://open.spotify.com/track/6RVNMkVUHijxWQnGOOeOa1) | [Charlie Aponte](https://open.spotify.com/artist/2fnP86vFqCtBZp6igjAgc7), [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu), [Yayo El Indio](https://open.spotify.com/artist/450R1iQ3HImRJnq1eyNWdG) | [Aqui Estoy Yo, Vol\. 1](https://open.spotify.com/album/00kLg7atNIIaRc63s93Dry) | 3:27 |
 | 38 | [Quiero Saber](https://open.spotify.com/track/4NSE3aImn1LeqIMpNEKwVL) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Bamboléo](https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2) | 6:29 |
 | 39 | [Linda Guajira](https://open.spotify.com/track/1Ml7gX2S2UVzB1K32puq4W) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Our Man In Havana](https://open.spotify.com/album/2f4PCFmP4AM3PvkC9JcDDN) | 3:03 |
 | 40 | [Vagabundo](https://open.spotify.com/track/3drdfMEzD3EoLCdvAB4bhr) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu), [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Aqui Esta el Reencuentro](https://open.spotify.com/album/2Vpk4g41LQN5eD4A7G48ld) | 4:50 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWDeQ3zOW6J.md) - [plain]
 | 59 | [Marejada Feliz](https://open.spotify.com/track/6yntDRxeKQo8eB5cLY9tkm) | [Roberto Roena Y Su Apollo Sound](https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry) | [Apollo Sound 9](https://open.spotify.com/album/6yivkfOmyn8EP68CYsQ5OT) | 7:22 |
 | 60 | [La Esencia Del Guaguancó](https://open.spotify.com/track/09ivtKa1GxucyzH3qFMBOL) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Pete "El Conde" Rodriguez](https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa) | [Anthology](https://open.spotify.com/album/15w229yWe9GblGtWjJC753) | 4:06 |
 
-Snapshot ID: `MCxiMDJmMjJjNGVmMTk5Y2UyYjY3OWMzZGY2OWIxZDI1ZjYxNDBlZWUx`
+Snapshot ID: `MCxlOTA0NjZlMDk4NDExZWE0OTgyMzJhMjE3YmUyOTRmZDgzMWJmMzYx`

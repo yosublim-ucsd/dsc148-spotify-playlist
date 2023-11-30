@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 
 > Un playlist que te llena de esperanza\.  ¡Con fe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,290 likes - 100 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,414 likes - 100 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 29 | [Abre Mis Ojos](https://open.spotify.com/track/6QN2LDi1HULluoF0cETe6H) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Muéstrame Tu Gloria](https://open.spotify.com/album/6hpV3LugRGS52YfivSY5aF) | 6:43 |
 | 30 | [Qué Se Abra El Cielo](https://open.spotify.com/track/3gfyLSFdjHnYZ3HZVmWiBv) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Marcos Brunet](https://open.spotify.com/artist/3XAsLrjUgQ9V2D8MjTfv8C) | [Eterno \(Live\)](https://open.spotify.com/album/5qB9zWGB4uaihU7R7MGk4c) | 7:25 |
 | 31 | [Dios de Lo Imposible](https://open.spotify.com/track/10AHJmPp1y86W3hYg5fjeH) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [David Reyes](https://open.spotify.com/artist/0Av9Hln262ro0Z8yhEg4HY), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [El Encuentro](https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx) | 7:30 |
-| 32 | [Veo Llover](https://open.spotify.com/track/19Gbb0udRUmOM0vmsKB358) | [Abel Zavala](https://open.spotify.com/artist/0UH4eoqwQgADwRoaKtEKc1) | [Listo Para Nuestro Encuentro](https://open.spotify.com/album/2gnGnvNJzXxlwy837iHs7O) | 3:00 |
+| 32 | [Me rindo ante ti](https://open.spotify.com/track/1yOT1gkct6I0w4wPBNc3y1) | [Esperanza de Vida](https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1) | [Me Has Hecho Libre](https://open.spotify.com/album/0dNBk8BUcnZoA0YouvHGRP) | 6:14 |
 | 33 | [No Crezcas Mas](https://open.spotify.com/track/1RsBgR6T1Put9AD0qPl3Cm) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Irreversible](https://open.spotify.com/album/1swzvWIqMQtG6Z0HA8KoYV) | 4:20 |
-| 34 | [Me rindo ante ti](https://open.spotify.com/track/1yOT1gkct6I0w4wPBNc3y1) | [Esperanza de Vida](https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1) | [Me Has Hecho Libre](https://open.spotify.com/album/0dNBk8BUcnZoA0YouvHGRP) | 6:14 |
+| 34 | [Veo Llover](https://open.spotify.com/track/19Gbb0udRUmOM0vmsKB358) | [Abel Zavala](https://open.spotify.com/artist/0UH4eoqwQgADwRoaKtEKc1) | [Listo Para Nuestro Encuentro](https://open.spotify.com/album/2gnGnvNJzXxlwy837iHs7O) | 3:00 |
 | 35 | [Cuando Oras](https://open.spotify.com/track/5FCDZ3L0Tr0KqYrn3j9v3V) | [Nancy Amancio](https://open.spotify.com/artist/4225vUKDHwHhcYY9IRWwX0) | [Un Toque De Fé](https://open.spotify.com/album/5K06CX20PkHPstgVWLg4Nd) | 4:12 |
 | 36 | [Los Muros Caerán](https://open.spotify.com/track/3Lywk0gqbG3YoW4Mo3eNPW) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Proezas](https://open.spotify.com/album/3tGDxfvq1cBSlBFr302jMU) | 4:29 |
 | 37 | [Si Puedes Creer](https://open.spotify.com/track/03zBrLi4BWMlf09IoK9TIJ) | [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [Vuelve a Casa](https://open.spotify.com/album/6GUNfGkyL4Xi4KiWNCYkNQ) | 4:14 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 61 | [¿A Quién Iré?](https://open.spotify.com/track/2n3PEgcF39O9S5z6gR0175) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2), [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Vuelve](https://open.spotify.com/album/4YXb45eHQPeutBVlzBKWfI) | 6:25 |
 | 62 | [Donde Tú estás](https://open.spotify.com/track/4hvmopV4wO0CTe9DgicOOF) | [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b), [Rebeca Zamorano](https://open.spotify.com/artist/0VYpDFB2cAlvfacFCFvADL) | [Gloria sea a ti](https://open.spotify.com/album/2Iyng7Y20EuZ1VSOafcnPg) | 8:54 |
 | 63 | [El Deseado](https://open.spotify.com/track/44OMyCQXFDR9xUap4KjQrx) | [Gadiel Espinoza](https://open.spotify.com/artist/6LsF1LrB6rmAiWps0Mo1t6) | [Lo Mejor De Gadiel Espinoza](https://open.spotify.com/album/05sRL9QUM72ugGewZ1aF5k) | 4:47 |
-| 64 | [Simplemente Gracias](https://open.spotify.com/track/1dFO3EzDl1bdNm258j2WNK) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Viviré](https://open.spotify.com/album/67uRZ3X95JEwhbxi7GP5gW) | 5:25 |
-| 65 | [Como Hizo David](https://open.spotify.com/track/75IhuMXXHxnSCnaWKwPjSQ) | [Palabra en Acción](https://open.spotify.com/artist/4umfGspINdkBEwCjc1f5Xw), [Juan Carlos Alvarado](https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U) | [Glorificad a Jehová](https://open.spotify.com/album/4lUhv9nQbzpz4fU8WEuGLd) | 3:03 |
+| 64 | [Como Hizo David](https://open.spotify.com/track/75IhuMXXHxnSCnaWKwPjSQ) | [Palabra en Acción](https://open.spotify.com/artist/4umfGspINdkBEwCjc1f5Xw), [Juan Carlos Alvarado](https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U) | [Glorificad a Jehová](https://open.spotify.com/album/4lUhv9nQbzpz4fU8WEuGLd) | 3:03 |
+| 65 | [Simplemente Gracias](https://open.spotify.com/track/1dFO3EzDl1bdNm258j2WNK) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Viviré](https://open.spotify.com/album/67uRZ3X95JEwhbxi7GP5gW) | 5:25 |
 | 66 | [En paz](https://open.spotify.com/track/0rgd3UShOGwxs2Qpp0krBV) | [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [En paz](https://open.spotify.com/album/4j1pfVpEKRB91xgwZRE1mq) | 4:14 |
 | 67 | [De Lo Más Profundo](https://open.spotify.com/track/2YlJSBmdJcGmWAda2m5moL) | [Fuego](https://open.spotify.com/artist/3F5E6wKnGN6qRjtsF2Z6vt) | [Por Fin en Casa](https://open.spotify.com/album/2cg1RtFVrDEf2LRTiSIxH1) | 7:45 |
 | 68 | [Por el Sueño De Dios](https://open.spotify.com/track/1hKVju5eLUkPkYFVYh7hkR) | [Ruth Mixter](https://open.spotify.com/artist/6Y3LN0FCFH8p38tlH7ctJA) | [Dios Lo Hará Otra Vez](https://open.spotify.com/album/1qu2wAOiIGzTCcS5Dad9jI) | 4:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 99 | [Escondido en Èl \- Spanish](https://open.spotify.com/track/5j7zEOjg0ySSGK5R3aSS3s) | [Luigi Castro](https://open.spotify.com/artist/2AXhCIqHOofbAG4ew5WRF9) | [Perdido en Tu Amor](https://open.spotify.com/album/0A92FA4s4a4jM7GuBqVE5F) | 4:57 |
 | 100 | [Hijo Pródigo](https://open.spotify.com/track/3nnICl5SaGPht8Ndnq1IDM) | [Fuego](https://open.spotify.com/artist/3F5E6wKnGN6qRjtsF2Z6vt) | [Por Fin en Casa](https://open.spotify.com/album/2cg1RtFVrDEf2LRTiSIxH1) | 4:47 |
 
-Snapshot ID: `MCxhN2Y0OWFiYzVjNWYzMjM2MTRlNTAwNDA4NjViYjdiMjIwNzUyYjAw`
+Snapshot ID: `MCw2N2MxODljMGZmMTA3ZDUwZjM1NjM2NzVkNDJmYzEwNjhjNmE1ZmFh`

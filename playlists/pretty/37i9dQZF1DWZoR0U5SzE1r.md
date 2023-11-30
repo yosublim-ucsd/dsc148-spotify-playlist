@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 
 > Breathe in deep with arms wide open in worship\. This is going to be epic!
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,674 likes - 100 songs - 9 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,866 likes - 100 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 51 | [Nothing Else \- Live](https://open.spotify.com/track/7sAJH3KsjrZG7tuQvd2OeE) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Awe + Wonder \(Live\)](https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g) | 8:30 |
 | 52 | [Healer](https://open.spotify.com/track/2uDngplEd0RW5hqcAur5uY) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Kari Jobe](https://open.spotify.com/album/43qobCIpLpsxshjc7PbAXb) | 5:07 |
 | 53 | [Insatiable](https://open.spotify.com/track/4akWCQ67naeytv8v0CIhVu) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Insatiable](https://open.spotify.com/album/6FZGWRfo7AVtW8134aKpan) | 4:26 |
-| 54 | [Fire in My Bones](https://open.spotify.com/track/7qWU0OsTG0JBlnCmWZe1vY) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs) | [Fire in My Bones](https://open.spotify.com/album/0zYrhn7yJQLoJfs4x9fcvy) | 4:32 |
-| 55 | [Yes I Will](https://open.spotify.com/track/5vMzNmHm2ec2zrqiYhkQzZ) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Yes I Will](https://open.spotify.com/album/0OOv0GLx4DQc5tPTkRo6sz) | 3:54 |
+| 54 | [Yes I Will](https://open.spotify.com/track/5vMzNmHm2ec2zrqiYhkQzZ) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Yes I Will](https://open.spotify.com/album/0OOv0GLx4DQc5tPTkRo6sz) | 3:54 |
+| 55 | [Fire in My Bones](https://open.spotify.com/track/7qWU0OsTG0JBlnCmWZe1vY) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs) | [Fire in My Bones](https://open.spotify.com/album/0zYrhn7yJQLoJfs4x9fcvy) | 4:32 |
 | 56 | [Call on Your Name](https://open.spotify.com/track/11uopkJGlq3ur9GZIeI7qE) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Call on Your Name](https://open.spotify.com/album/1eW4OSXW82QK5ckhxZriYQ) | 5:09 |
 | 57 | [King Of Glory \- Live](https://open.spotify.com/track/38Gl5B0Ixqmeon96E2xsMl) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [King Of Glory \(Live\)](https://open.spotify.com/album/4zl5e8SW0ckoKiiD32HaLh) | 4:09 |
 | 58 | [Breathe \- Live](https://open.spotify.com/track/5OfIpf1OOrbWYBBAMZpO5N) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Matt Gilman](https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P) | [Touching Heaven \(Live\)](https://open.spotify.com/album/51TJKJhXFke5OZaU56B9qe) | 6:00 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 71 | [Rain Your Glory Down \- Live](https://open.spotify.com/track/6ftibLL1IO1tlGVgYrul0k) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Rain](https://open.spotify.com/album/074R4kqJ2xNe4h8GkGBON8) | 9:07 |
 | 72 | [Exalted Over All \- Live](https://open.spotify.com/track/16b3DajNe0LzMGSEV2ZQP6) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Frontiers](https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY) | 6:23 |
 | 73 | [Abundantly More \(feat\. Seth Condrey\)](https://open.spotify.com/track/4mM0t1EtoONZvwvsiLxd18) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg) | [Abundantly More](https://open.spotify.com/album/6N1WHRaubJg2kCsNJ2hAke) | 4:01 |
-| 74 | [There’s Nothing That Our God Can’t Do \- Live From Passion 2020](https://open.spotify.com/track/25v5O2q4TMYitlz9br8XGt) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Roar \(Live From Passion 2020\)](https://open.spotify.com/album/3TlEGcbneZP4tE2V0dn1em) | 5:45 |
-| 75 | [Fountains](https://open.spotify.com/track/6sIEO9ZDhpW0BhCz1ZFIYV) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [The War Is Over](https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY) | 5:35 |
+| 74 | [Fountains](https://open.spotify.com/track/6sIEO9ZDhpW0BhCz1ZFIYV) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [The War Is Over](https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY) | 5:35 |
+| 75 | [There’s Nothing That Our God Can’t Do \- Live From Passion 2020](https://open.spotify.com/track/25v5O2q4TMYitlz9br8XGt) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Roar \(Live From Passion 2020\)](https://open.spotify.com/album/3TlEGcbneZP4tE2V0dn1em) | 5:45 |
 | 76 | [Even The Impossible \- Live](https://open.spotify.com/track/76MXIf96ZEL7YKIlBA3rp8) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Even The Impossible \(Live\)](https://open.spotify.com/album/1TaGKUChbljBn2UBmzlBjN) | 4:50 |
 | 77 | [Unshakable](https://open.spotify.com/track/05YyiE4iKGzNNwLDlA8v96) | [Mid\-Cities Worship](https://open.spotify.com/artist/3XerAM6cB9YmacAmbafgZP), [Brooklynn Ward](https://open.spotify.com/artist/3A04Fs4pJ2QpQtR8DjRQTv) | [The Songs We Sing](https://open.spotify.com/album/5KWSVv7EOYsOmuKmsLg5pD) | 4:48 |
 | 78 | [Every Beat \(feat\. Seth Condrey\)](https://open.spotify.com/track/2np5AM9Unlb73qyCi1r82W) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg) | [Nothing Ordinary](https://open.spotify.com/album/6WRkJUXDC0TpsnMhVrJ6DM) | 3:37 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 87 | [Fill This Place \(Studio Version\)](https://open.spotify.com/track/6tjlnYnGQRq7YgGBnEBv7K) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Fill This Place \(Studio Version\)](https://open.spotify.com/album/0TOI6K9V6PcAGj3cqs1wLS) | 3:45 |
 | 88 | [Stir a Passion \- Live](https://open.spotify.com/track/5Yd2LrQZg3ouzzvgC1QKvJ) | [Worship Central](https://open.spotify.com/artist/3i0j8jwJKHchZU40nbd2Xt) | [Stir a Passion](https://open.spotify.com/album/5pjsLhandWZP3rUF7NQuZ9) | 8:19 |
 | 89 | [Glory to Glory](https://open.spotify.com/track/0SfGXg7vZmt5OGxET9lhRw) | [Iron Bell Music](https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK) | [Glory to Glory](https://open.spotify.com/album/4QCMs9jcAhEa5zQXjL54YB) | 6:05 |
-| 90 | [Oxygen](https://open.spotify.com/track/78w8tPmfZIMZ2853pe0I6d) | [Lincoln Brewster](https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1) | [Oxygen](https://open.spotify.com/album/3YTaNV8mVGWga0h9Ni1wgi) | 3:29 |
-| 91 | [Is He Worthy?](https://open.spotify.com/track/2fLm3XEZnGnsw0caZh8v8T) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Is He Worthy?](https://open.spotify.com/album/4a3w0ALiId0cypY92u9g8m) | 4:31 |
+| 90 | [Is He Worthy?](https://open.spotify.com/track/2fLm3XEZnGnsw0caZh8v8T) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Is He Worthy?](https://open.spotify.com/album/4a3w0ALiId0cypY92u9g8m) | 4:31 |
+| 91 | [Oxygen](https://open.spotify.com/track/78w8tPmfZIMZ2853pe0I6d) | [Lincoln Brewster](https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1) | [Oxygen](https://open.spotify.com/album/3YTaNV8mVGWga0h9Ni1wgi) | 3:29 |
 | 92 | [Liberator \- Live](https://open.spotify.com/track/6AOHOfoyvCA0tTshLFhCFM) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa), [Madison Street Worship](https://open.spotify.com/artist/5nLMpemYPN9MZMgpEqiv53), [Annalise Bush](https://open.spotify.com/artist/5U7PKEYEqGUnP3SYoj17ek) | [Songs of the House \(Live\)](https://open.spotify.com/album/2hM80SW0Vs6ekzIPFzQrwg) | 5:12 |
 | 93 | [Nobody Like You \(Live\)](https://open.spotify.com/track/3g3OnglwSM3Rij5tIFA1LZ) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Nobody Like You \(Live\)](https://open.spotify.com/album/5SX9vQtcGlUpyJkB3kwry1) | 7:22 |
 | 94 | [This Is Our Story](https://open.spotify.com/track/3qAgzc1GCfBHSAr9UxpNXT) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [This Is Our Story](https://open.spotify.com/album/2Tj6FuYJTT5PmlgIyKCBPo) | 5:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 99 | [Inhabit \- Live](https://open.spotify.com/track/2z2s7KN9tLmijBa6k1ECKd) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Better Word](https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak) | 5:51 |
 | 100 | [Heroes](https://open.spotify.com/track/5YnFuvg0E9L8oIIlavjaNH) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Brave New World](https://open.spotify.com/album/1mwrXnM3nu9NA7Q1OCo0tV) | 4:17 |
 
-Snapshot ID: `MCwyOTAzMDE0ZTFlZDMzZTgwMDNlYTFhMTgwZTkyYmFiMTNlYjZkN2Uy`
+Snapshot ID: `MCwxMGJjZGU3MWM3NzkwYTY4YmNhZGRiM2JjY2FkNTY0OGYxNjFjZWMz`

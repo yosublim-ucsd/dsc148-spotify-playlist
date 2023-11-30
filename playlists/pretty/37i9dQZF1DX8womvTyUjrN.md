@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > Fresh Latin pop on the rise\. Cover: Yami Safdie
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,012 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,033 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 34 | [REVOLUCION AZUL](https://open.spotify.com/track/2ebfsQkDYWCq8d0otA1zbu) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [REVOLUCION AZUL](https://open.spotify.com/album/4qmFz9qSSzSMkqgmszlXBm) | 4:14 |
 | 35 | [Nuez](https://open.spotify.com/track/6Pt1SXtWsjL8tEKV94F5VX) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Nuez](https://open.spotify.com/album/05UGoDqdTiORAjyrt5wtlT) | 3:32 |
 | 36 | [solo x ti \- Remix](https://open.spotify.com/track/4SHCYN7oI5bMzMFUF4RrNj) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [solo x ti \(Remix\)](https://open.spotify.com/album/7xVcOKGRAPLBUk2uLzqk0W) | 3:08 |
-| 37 | [en el pasado](https://open.spotify.com/track/5yaLbxJA06rXg1W3jI7M5Q) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [en el pasado](https://open.spotify.com/album/78EFQKhgET0w845QMun4na) | 3:43 |
-| 38 | [Demasiado](https://open.spotify.com/track/28fOb3d0iXy21ROKrBEo9H) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Demasiado](https://open.spotify.com/album/1JFyrOT7y6kSLBO7r7XZlx) | 2:50 |
+| 37 | [Demasiado](https://open.spotify.com/track/28fOb3d0iXy21ROKrBEo9H) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Demasiado](https://open.spotify.com/album/1JFyrOT7y6kSLBO7r7XZlx) | 2:50 |
+| 38 | [en el pasado](https://open.spotify.com/track/5yaLbxJA06rXg1W3jI7M5Q) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [en el pasado](https://open.spotify.com/album/78EFQKhgET0w845QMun4na) | 3:43 |
 | 39 | [Besos Ricos](https://open.spotify.com/track/1AeVenKA9w42gepptaabsD) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Besos Ricos](https://open.spotify.com/album/53ykeMtGt4deG7mnkMEgeU) | 3:07 |
 | 40 | [Carolina](https://open.spotify.com/track/3xBBuuVVgW7VUZkuX6QfSa) | [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Carolina](https://open.spotify.com/album/3aeYk2orcfRNOt8Z0ZXc0k) | 2:47 |
 | 41 | [Bórrame](https://open.spotify.com/track/28C9fie2Nw8g84LIyKXryW) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Bórrame](https://open.spotify.com/album/6PBHZU81Y7aElnriNbmzRw) | 2:53 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 44 | [En Privado ft\. Ovy On The Drums \- Spotify Singles](https://open.spotify.com/track/62nOLQvhG6l1QAac2CXzJr) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [En Privado ft\. Ovy On The Drums \- Spotify Singles](https://open.spotify.com/album/5IUwO78bOZoPZ6f8cfAmCQ) | 2:19 |
 | 45 | [Quédate](https://open.spotify.com/track/2Zq2coIIUUPBOhfXdDvz61) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Quédate](https://open.spotify.com/album/2YCoLtzdiW3YAiYzEiADm0) | 3:26 |
 | 46 | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL) | 2:01 |
-| 47 | [PAENAMORAR](https://open.spotify.com/track/6N9hiZx8ZvZznXjaWoiPJ1) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC) | [PAENAMORAR](https://open.spotify.com/album/4690a9jilzn3yfvvtKdqMj) | 2:58 |
-| 48 | [La Que Yo Amo](https://open.spotify.com/track/2Ul5bO8HgSd3Tdy7ug1B50) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [DEKKOLETERA 3](https://open.spotify.com/album/1pZHGsYHI8Ks3j2NCIbv8X) | 2:12 |
-| 49 | [Combustible](https://open.spotify.com/track/7B887UeJFfm4uZrWHdVLx2) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Combustible](https://open.spotify.com/album/1zNoHpkZ3BCvkW1LJfTONC) | 2:46 |
-| 50 | [Tu Canción](https://open.spotify.com/track/5MEOi4Xbxxtjrcf4WD8ztH) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Tu Canción](https://open.spotify.com/album/73Hd2erTeZ6BeshYv6Rjs2) | 3:11 |
+| 47 | [Extraños de Nuevo](https://open.spotify.com/track/4vV6excnr7nrFInnJgh7Ta) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Extraños de Nuevo](https://open.spotify.com/album/5TW21m3j4vJJJkeVepCHYm) | 3:15 |
+| 48 | [PAENAMORAR](https://open.spotify.com/track/6N9hiZx8ZvZznXjaWoiPJ1) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC) | [PAENAMORAR](https://open.spotify.com/album/4690a9jilzn3yfvvtKdqMj) | 2:58 |
+| 49 | [La Que Yo Amo](https://open.spotify.com/track/2Ul5bO8HgSd3Tdy7ug1B50) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [DEKKOLETERA 3](https://open.spotify.com/album/1pZHGsYHI8Ks3j2NCIbv8X) | 2:12 |
+| 50 | [Combustible](https://open.spotify.com/track/7B887UeJFfm4uZrWHdVLx2) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Combustible](https://open.spotify.com/album/1zNoHpkZ3BCvkW1LJfTONC) | 2:46 |
 
-Snapshot ID: `MCxkYWVkYjMxMzllMmExMWMwMjgxMDAwYjE1ZGQwZGRiZjQ4M2FmNjY2`
+Snapshot ID: `MCw5ZTdkZGZkZDE2NzU3Y2RlNTQxNDgzMzgyMzcyNDNhNjQ1ZGRhMmRk`

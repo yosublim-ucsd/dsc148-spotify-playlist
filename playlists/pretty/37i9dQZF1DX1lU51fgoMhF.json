@@ -1,12 +1,12 @@
 {
   "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: NAYEON(\ub098\uc5f0))",
-  "num_followers": 181300,
+  "num_followers": 181434,
   "original_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDdhOWNjZDgwNzkyMmI4YTAzY2MyZTIyY2M0MWZiZGFlNDNmYWJm",
+  "snapshot_id": "MCwxZmU5NGYyMTk5NjI3OTk0NmEyMTA1N2RmZmU1NGI3MmNmYjExMDIx",
   "tracks": [
     {
       "added_at": "2023-09-14 10:27:59",
@@ -955,6 +955,26 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
+        "name": "FACE - The 1st Album",
+        "url": "https://open.spotify.com/album/60ySfrb8zjJooMlVbpWGHG"
+      },
+      "artists": [
+        {
+          "name": "KEY",
+          "url": "https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 190328,
+      "name": "One of Those Nights",
+      "url": "https://open.spotify.com/track/2OsH4MtKPVeI8w9sFBLEvZ"
+    },
+    {
+      "added_at": "2023-09-14 10:27:59",
+      "album": {
         "name": "Present : YOU",
         "url": "https://open.spotify.com/album/2Kkte1APGRFuPLmjRUgu4i"
       },
@@ -983,26 +1003,6 @@
       "duration_ms": 207777,
       "name": "Why",
       "url": "https://open.spotify.com/track/4eiPbjcTEJDQcsv7WV0vfD"
-    },
-    {
-      "added_at": "2023-09-14 10:27:59",
-      "album": {
-        "name": "FACE - The 1st Album",
-        "url": "https://open.spotify.com/album/60ySfrb8zjJooMlVbpWGHG"
-      },
-      "artists": [
-        {
-          "name": "KEY",
-          "url": "https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 190328,
-      "name": "One of Those Nights",
-      "url": "https://open.spotify.com/track/2OsH4MtKPVeI8w9sFBLEvZ"
     },
     {
       "added_at": "2023-09-14 10:27:59",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
-        "name": "Summer Special [Flip That]",
-        "url": "https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB"
-      },
-      "artists": [
-        {
-          "name": "LOONA",
-          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
-        }
-      ],
-      "duration_ms": 177373,
-      "name": "Flip That",
-      "url": "https://open.spotify.com/track/7cHXwaBnIBFUPuP376z07E"
-    },
-    {
-      "added_at": "2023-09-14 10:27:59",
-      "album": {
         "name": "GFRIEND The 7th Mini Album `FEVER SEASON`",
         "url": "https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 214293,
       "name": "Fever",
       "url": "https://open.spotify.com/track/7qDbAc6xMW07T7yyMnQqS8"
+    },
+    {
+      "added_at": "2023-09-14 10:27:59",
+      "album": {
+        "name": "Summer Special [Flip That]",
+        "url": "https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB"
+      },
+      "artists": [
+        {
+          "name": "LOONA",
+          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
+        }
+      ],
+      "duration_ms": 177373,
+      "name": "Flip That",
+      "url": "https://open.spotify.com/track/7cHXwaBnIBFUPuP376z07E"
     },
     {
       "added_at": "2023-09-14 10:27:59",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-09-14 10:27:59",
       "album": {
-        "name": "SEE SEA",
-        "url": "https://open.spotify.com/album/1t3IRZpNvtOD1tXfFLrLOe"
-      },
-      "artists": [
-        {
-          "name": "HYOLYN",
-          "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
-        }
-      ],
-      "duration_ms": 200125,
-      "name": "SEE SEA",
-      "url": "https://open.spotify.com/track/09Pp9Q9593vnr91Ldi4let"
-    },
-    {
-      "added_at": "2023-09-14 10:27:59",
-      "album": {
         "name": "ISLAND",
         "url": "https://open.spotify.com/album/252HrrsALUd5ysKCJuRCur"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 197938,
       "name": "ISLAND",
       "url": "https://open.spotify.com/track/7imQKCdSF67V65uMplJMy1"
+    },
+    {
+      "added_at": "2023-09-14 10:27:59",
+      "album": {
+        "name": "SEE SEA",
+        "url": "https://open.spotify.com/album/1t3IRZpNvtOD1tXfFLrLOe"
+      },
+      "artists": [
+        {
+          "name": "HYOLYN",
+          "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
+        }
+      ],
+      "duration_ms": 200125,
+      "name": "SEE SEA",
+      "url": "https://open.spotify.com/track/09Pp9Q9593vnr91Ldi4let"
     },
     {
       "added_at": "2023-09-14 10:27:59",

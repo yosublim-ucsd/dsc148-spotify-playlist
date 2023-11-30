@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Bored At My Grandmas House
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,490 likes - 85 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,626 likes - 85 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 84 | [Everyday Life](https://open.spotify.com/track/33nIBZLkbps2iecMwXKCFs) | [Honas](https://open.spotify.com/artist/6NqnUmcBfI4tWK56ZC1Nkw) | [Everyday Life](https://open.spotify.com/album/39c9kw2EIAHmMS5PcieAuJ) | 2:34 |
 | 85 | [I'll Do What I Can](https://open.spotify.com/track/5XZn0Df8oGreE21uUKOtj2) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [I'll Do What I Can](https://open.spotify.com/album/6fyeUQdaigdmXruw1AtUz4) | 3:46 |
 
-Snapshot ID: `MCwzNTkyNTNmZGUwNjA1ZmZiYTk1ZGIyZTJmOTZhNWM5MjY5MWIzMTIz`
+Snapshot ID: `MCxlNjAwZTk3MGU2OGI1MWZmNjFlOTBlYmUzNmU0ZTZhMzVkYzU3OGFm`

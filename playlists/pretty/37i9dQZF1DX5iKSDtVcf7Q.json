@@ -1,12 +1,12 @@
 {
   "description": "Music paying tribute to the Heartland of America.",
-  "num_followers": 251000,
+  "num_followers": 251164,
   "original_name": "Heartland Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDBlN2M3YTBlMzljZDZkOWEzYzhjMjQzNGVjZTg0NDg5NmU2MmFk",
+  "snapshot_id": "MCw4MzhlMzQ4YjgwZGE0NmI2NDc0ZDQzNGNmMjYwYmMyY2QyZGY4ZDUz",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "What My World Spins Around",
-        "url": "https://open.spotify.com/album/4oTrQ9TmOapgT6uI8W6wsS"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 186790,
-      "name": "What My World Spins Around",
-      "url": "https://open.spotify.com/track/6HBRLaSQ7NB8MNlaqzYen1"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "What You See Is What You Get",
         "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 225253,
       "name": "Even Though I'm Leaving",
       "url": "https://open.spotify.com/track/5Fhe63YOMZsGdB3CgCDuBi"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "What My World Spins Around",
+        "url": "https://open.spotify.com/album/4oTrQ9TmOapgT6uI8W6wsS"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 186790,
+      "name": "What My World Spins Around",
+      "url": "https://open.spotify.com/track/6HBRLaSQ7NB8MNlaqzYen1"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "The Outsiders",
-        "url": "https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 262280,
-      "name": "Talladega",
-      "url": "https://open.spotify.com/track/1TKlBK9cSrM5u4CiL4SETS"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "My Kinda Party",
         "url": "https://open.spotify.com/album/4DDsvEKPW32jeMEAqmOdjv"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 229400,
       "name": "Dirt Road Anthem",
       "url": "https://open.spotify.com/track/5ZVGvay4xwgXMnQWffNYeU"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "The Outsiders",
+        "url": "https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 262280,
+      "name": "Talladega",
+      "url": "https://open.spotify.com/track/1TKlBK9cSrM5u4CiL4SETS"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Rebels On The Run",
-        "url": "https://open.spotify.com/album/2FAmcSDPNqOJYuDBdtiD9k"
-      },
-      "artists": [
-        {
-          "name": "Montgomery Gentry",
-          "url": "https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a"
-        }
-      ],
-      "duration_ms": 201840,
-      "name": "Where I Come From",
-      "url": "https://open.spotify.com/track/07pkQLjLQFFukRAYHSgoxX"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Cole Swindell",
         "url": "https://open.spotify.com/album/2mlPEYhK1KwDD45CCCWxaH"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 196746,
       "name": "Chillin' It",
       "url": "https://open.spotify.com/track/0Utg7sirTPqrs6Cx0FbriQ"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Rebels On The Run",
+        "url": "https://open.spotify.com/album/2FAmcSDPNqOJYuDBdtiD9k"
+      },
+      "artists": [
+        {
+          "name": "Montgomery Gentry",
+          "url": "https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a"
+        }
+      ],
+      "duration_ms": 201840,
+      "name": "Where I Come From",
+      "url": "https://open.spotify.com/track/07pkQLjLQFFukRAYHSgoxX"
     },
     {
       "added_at": "2023-10-06 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVwhnF6uBYH.md) - [plain]
 
 > ¡Alista la hielerona que nos vamos pa' las dunas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,245 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,586 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVwhnF6uBYH.md) - [plain]
 | 57 | [M.L.P](https://open.spotify.com/track/0oYk83uZu4S5ROlM8VZMGl) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9), [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [M.L.P](https://open.spotify.com/album/2Y6PFvErT2EPBIVo7RMXK1) | 3:31 |
 | 58 | [El De Las Mieles](https://open.spotify.com/track/1ON9tDhxK7Omz2vHVWkLCi) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [El De Las Mieles](https://open.spotify.com/album/4MJcGaPyYoGrZeovhjaixp) | 3:25 |
 | 59 | [Belicamente De Acción](https://open.spotify.com/track/5fyWAm1MYH2zZ9BGR5iPFp) | [La Autorización](https://open.spotify.com/artist/1V9705vd14WxDwXeTp2TYJ), [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [Belicamente De Acción](https://open.spotify.com/album/2zd2JBVZaaXjMlMVdfhhgu) | 2:55 |
-| 60 | [cómo dormiste?](https://open.spotify.com/track/4gcVqUyT7lj281442LiBYV) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [cómo dormiste?](https://open.spotify.com/album/02HbzA9lAQTVWuLvaYuSj8) | 3:03 |
-| 61 | [Como Es Arriba Es Abajo](https://open.spotify.com/track/0Dn0h4YdPvM4v0HNdgnyeP) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG) | [Como Es Arriba Es Abajo](https://open.spotify.com/album/5AEvjmTHKQsk1uQr2MCreb) | 2:45 |
+| 60 | [Como Es Arriba Es Abajo](https://open.spotify.com/track/0Dn0h4YdPvM4v0HNdgnyeP) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG) | [Como Es Arriba Es Abajo](https://open.spotify.com/album/5AEvjmTHKQsk1uQr2MCreb) | 2:45 |
+| 61 | [cómo dormiste?](https://open.spotify.com/track/4gcVqUyT7lj281442LiBYV) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [cómo dormiste?](https://open.spotify.com/album/02HbzA9lAQTVWuLvaYuSj8) | 3:03 |
 | 62 | [Antídoto](https://open.spotify.com/track/6cxQ0CafJh50tbiRtr6qou) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Antídoto](https://open.spotify.com/album/6mSBEqGKBR1xw8OHVnrhvB) | 3:13 |
 | 63 | [Solitario \- En Vivo](https://open.spotify.com/track/20obamXOznVCGTRUL4ZX6q) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Solitario \(En Vivo\)](https://open.spotify.com/album/0D3idmPk07CksmgrVaEiKi) | 3:28 |
 | 64 | [No Quiero Perderte](https://open.spotify.com/track/00bc7aBgwI1wD3zEwrcH4h) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [No Quiero Perderte](https://open.spotify.com/album/6N1YHlNxKfAyB2llfHDYIH) | 2:39 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVwhnF6uBYH.md) - [plain]
 | 80 | [Enloquecido](https://open.spotify.com/track/3T5F6ulZvDzBQwq3wS31xZ) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Enloquecido](https://open.spotify.com/album/7pm3bU5WKxGhRI5uyfOKuI) | 3:32 |
 | 81 | [Solo Me Dejaste](https://open.spotify.com/track/0OLLsFyVPrjI3iL03lDFXk) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Solo Me Dejaste](https://open.spotify.com/album/2On4y5Gf1XWFvPYaXnqqOH) | 3:06 |
 | 82 | [Chorumbo](https://open.spotify.com/track/6LQn8zFYS44ak3qAUYsp8b) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [Chorumbo](https://open.spotify.com/album/6RPOQC6rd85F9Nuxp5W2Fh) | 3:20 |
-| 83 | [Pensando](https://open.spotify.com/track/1EiPFREgaMLL88Pxo6zPdC) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9) | [Aprendimos A Jugar](https://open.spotify.com/album/2PWoqmluSdMY2NwEhb2D4o) | 2:32 |
-| 84 | [El Nini](https://open.spotify.com/track/2U1NhCp8wc2m4kYZSBeYl4) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj), [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Nini](https://open.spotify.com/album/4t9ykJcRqh40msncpBbLF0) | 4:31 |
+| 83 | [El Nini](https://open.spotify.com/track/2U1NhCp8wc2m4kYZSBeYl4) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj), [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Nini](https://open.spotify.com/album/4t9ykJcRqh40msncpBbLF0) | 4:31 |
+| 84 | [Pensando](https://open.spotify.com/track/1EiPFREgaMLL88Pxo6zPdC) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9) | [Aprendimos A Jugar](https://open.spotify.com/album/2PWoqmluSdMY2NwEhb2D4o) | 2:32 |
 | 85 | [Serafín](https://open.spotify.com/track/7s9pcSenofBwaNfI0vjisP) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto Y Aparte](https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF) | 3:09 |
 | 86 | [Serafín Zambada](https://open.spotify.com/track/5ZVyu4Ic8XQOomHPaYSaLN) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Serafin Zambada](https://open.spotify.com/album/4wIqGZ9el8QllwpREn1IPA) | 2:08 |
 | 87 | [Clave 18](https://open.spotify.com/track/6my08Qad7A0PzZSlLOlDgG) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV), [Novillos de la Sierra](https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro) | [Clave 18](https://open.spotify.com/album/2Lo2rpX7dX8CtCWMJUEC5S) | 3:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVwhnF6uBYH.md) - [plain]
 | 99 | [Jimmy Neutron](https://open.spotify.com/track/01P0P9xzhkQ3Mzs2QMzrjr) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Las Guardadas](https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4) | 4:15 |
 | 100 | [También Me Llamo Ismael \- En Vivo](https://open.spotify.com/track/4KSaVHKlMWTruKxzUX12uY) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V), [Fraccion EME](https://open.spotify.com/artist/3HKojEpLsM2TgtDHRfAyKD) | [También Me Llamo Ismael \(En Vivo\)](https://open.spotify.com/album/762prAk1zCDNgHV03q2Wgt) | 3:18 |
 
-Snapshot ID: `MCw5NzQxNWFkZjFmMzUyNGQ5NGM2YmYxNDZiMzM0ZjQ1YmNkNmZlZjJh`
+Snapshot ID: `MCxjZjc3NmNjYjI0OGJiYTcyOTc3MDdkMzM0NDI3ZGMwMzRhOGNhZjJh`

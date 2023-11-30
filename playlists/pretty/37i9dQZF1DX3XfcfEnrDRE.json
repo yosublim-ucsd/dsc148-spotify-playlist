@@ -1,12 +1,12 @@
 {
   "description": "The ever-evolving sound of Alt! Cover: Gable Price and Friends",
-  "num_followers": 236301,
+  "num_followers": 236342,
   "original_name": "Ultimate Christian Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGExMGMzYWMxMTkxZDllZjM5M2M1Mzc2NjFlNDU3YjcyZmRiNjA4",
+  "snapshot_id": "MCwxMjk2MThiODJmMGNhMmYzMjBlNDg2MTM3ZjkyMTQyMzVmNjYxMzEw",
   "tracks": [
     {
       "added_at": "2022-12-16 05:02:00",
@@ -375,22 +375,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "January Flower (Deluxe)",
-        "url": "https://open.spotify.com/album/61o3mZcWhcH9DbQjCHxCV4"
-      },
-      "artists": [
-        {
-          "name": "Mat Kearney",
-          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
-        }
-      ],
-      "duration_ms": 203874,
-      "name": "Save Me - Bonus Track",
-      "url": "https://open.spotify.com/track/2FyP26PfA97cgpKut7IH4V"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "TAYA",
         "url": "https://open.spotify.com/album/3FjFpcFhXwYnwEVCovpmCF"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 213760,
       "name": "Carry Me Home",
       "url": "https://open.spotify.com/track/1KqW4dtx6uns3I5R85LaPW"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "January Flower (Deluxe)",
+        "url": "https://open.spotify.com/album/61o3mZcWhcH9DbQjCHxCV4"
+      },
+      "artists": [
+        {
+          "name": "Mat Kearney",
+          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
+        }
+      ],
+      "duration_ms": 203874,
+      "name": "Save Me - Bonus Track",
+      "url": "https://open.spotify.com/track/2FyP26PfA97cgpKut7IH4V"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "hard to dream",
+        "url": "https://open.spotify.com/album/0QFiXNPL6xwYY6wYC8H1jq"
+      },
+      "artists": [
+        {
+          "name": "Paul Whitacre",
+          "url": "https://open.spotify.com/artist/4QcUyC5d8B6rRL61AYAegO"
+        }
+      ],
+      "duration_ms": 232061,
+      "name": "atlas",
+      "url": "https://open.spotify.com/track/283U7PMWoZbPz8eUxPJ9ZS"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Still Mighty",
         "url": "https://open.spotify.com/album/0fGqJjdvlODlS1d0clsMQs"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 151168,
       "name": "whisper",
       "url": "https://open.spotify.com/track/5iCW4em6gVLIiSnbyUlzPF"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "hard to dream",
-        "url": "https://open.spotify.com/album/0QFiXNPL6xwYY6wYC8H1jq"
-      },
-      "artists": [
-        {
-          "name": "Paul Whitacre",
-          "url": "https://open.spotify.com/artist/4QcUyC5d8B6rRL61AYAegO"
-        }
-      ],
-      "duration_ms": 232061,
-      "name": "atlas",
-      "url": "https://open.spotify.com/track/283U7PMWoZbPz8eUxPJ9ZS"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Keep Hopin'",
-        "url": "https://open.spotify.com/album/7G5ZyTvGNdOmTjwtPMf9Dn"
-      },
-      "artists": [
-        {
-          "name": "The Scally Brothers",
-          "url": "https://open.spotify.com/artist/1zxZJBr1JIL8X4zDvpkFos"
-        }
-      ],
-      "duration_ms": 167076,
-      "name": "Keep Hopin'",
-      "url": "https://open.spotify.com/track/0mGZn0WtZipxhZIGH7j6m4"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Nothing To Buy",
         "url": "https://open.spotify.com/album/36XduRuhm8VvFCWAgdr8zl"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 267106,
       "name": "Nothing To Buy",
       "url": "https://open.spotify.com/track/3EuZbohxMO9P7C8UbkEpaT"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Keep Hopin'",
+        "url": "https://open.spotify.com/album/7G5ZyTvGNdOmTjwtPMf9Dn"
+      },
+      "artists": [
+        {
+          "name": "The Scally Brothers",
+          "url": "https://open.spotify.com/artist/1zxZJBr1JIL8X4zDvpkFos"
+        }
+      ],
+      "duration_ms": 167076,
+      "name": "Keep Hopin'",
+      "url": "https://open.spotify.com/track/0mGZn0WtZipxhZIGH7j6m4"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "HOPE OR NOSTALGIA LIVE",
-        "url": "https://open.spotify.com/album/03mLh8NKcmNYxPW4mjIBz0"
-      },
-      "artists": [
-        {
-          "name": "Chris Renzema",
-          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
-        }
-      ],
-      "duration_ms": 189795,
-      "name": "Old Dreams - Live from Kansas City",
-      "url": "https://open.spotify.com/track/6vbM3xlbUdLxtcyDB5YKEC"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "BURNING IN THE RAIN",
         "url": "https://open.spotify.com/album/4rQ5aKcrCfqwL7CdSsa57I"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 202000,
       "name": "BURNING IN THE RAIN",
       "url": "https://open.spotify.com/track/7c0ZefCWafOW57yTPXVdVv"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "HOPE OR NOSTALGIA LIVE",
+        "url": "https://open.spotify.com/album/03mLh8NKcmNYxPW4mjIBz0"
+      },
+      "artists": [
+        {
+          "name": "Chris Renzema",
+          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
+        }
+      ],
+      "duration_ms": 189795,
+      "name": "Old Dreams - Live from Kansas City",
+      "url": "https://open.spotify.com/track/6vbM3xlbUdLxtcyDB5YKEC"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/7xrtDbxo1Clr7M5YIDqJXw"
-      },
-      "artists": [
-        {
-          "name": "Lion of Judah",
-          "url": "https://open.spotify.com/artist/5xMljsTgyAQODxCMD7K2zH"
-        }
-      ],
-      "duration_ms": 192933,
-      "name": "Lifeline",
-      "url": "https://open.spotify.com/track/1XzmSmJvC8vVNTT40BRyP6"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "No Fear In Love",
         "url": "https://open.spotify.com/album/5zmejejlQErGrI0qDJiXoS"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 515318,
       "name": "No Fear In Love",
       "url": "https://open.spotify.com/track/2NXKrBVJYAvVLUPm5lMPaE"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/7xrtDbxo1Clr7M5YIDqJXw"
+      },
+      "artists": [
+        {
+          "name": "Lion of Judah",
+          "url": "https://open.spotify.com/artist/5xMljsTgyAQODxCMD7K2zH"
+        }
+      ],
+      "duration_ms": 192933,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/1XzmSmJvC8vVNTT40BRyP6"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "OLDER",
-        "url": "https://open.spotify.com/album/1dLlSnoQk8tec7Tyubd7u7"
-      },
-      "artists": [
-        {
-          "name": "Alexander Pappas",
-          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
-        }
-      ],
-      "duration_ms": 202386,
-      "name": "OLDER",
-      "url": "https://open.spotify.com/track/74dJdWzKwtxV5s77GOsa8w"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Fighting Myself",
         "url": "https://open.spotify.com/album/22JJVIcCRz2yqjVH5WIZqx"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 218775,
       "name": "Fighting Myself",
       "url": "https://open.spotify.com/track/3W2UszPJ6jF0OYE5FTtetQ"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "OLDER",
+        "url": "https://open.spotify.com/album/1dLlSnoQk8tec7Tyubd7u7"
+      },
+      "artists": [
+        {
+          "name": "Alexander Pappas",
+          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
+        }
+      ],
+      "duration_ms": 202386,
+      "name": "OLDER",
+      "url": "https://open.spotify.com/track/74dJdWzKwtxV5s77GOsa8w"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Treehouse",
+        "url": "https://open.spotify.com/album/5cg63vGGI7Un5TLlpK7XZn"
+      },
+      "artists": [
+        {
+          "name": "He Is We",
+          "url": "https://open.spotify.com/artist/6yFbpXlBH8XHVQGjUPUvKU"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Finish Line",
+      "url": "https://open.spotify.com/track/1gQ8nUg6bVBxW00sFWb4Iy"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Fall On The Nation",
         "url": "https://open.spotify.com/album/2U41cpJltmjsWVXhcNrEML"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 272170,
       "name": "Fall On The Nation",
       "url": "https://open.spotify.com/track/3fFsDBcFycQogyVzen7PQX"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "Treehouse",
-        "url": "https://open.spotify.com/album/5cg63vGGI7Un5TLlpK7XZn"
-      },
-      "artists": [
-        {
-          "name": "He Is We",
-          "url": "https://open.spotify.com/artist/6yFbpXlBH8XHVQGjUPUvKU"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "Finish Line",
-      "url": "https://open.spotify.com/track/1gQ8nUg6bVBxW00sFWb4Iy"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Praise",
-        "url": "https://open.spotify.com/album/1w5KYaGwCBN3w6lYo8JFqY"
-      },
-      "artists": [
-        {
-          "name": "Gungor",
-          "url": "https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif"
-        }
-      ],
-      "duration_ms": 232703,
-      "name": "Here We Are",
-      "url": "https://open.spotify.com/track/0OP39BJAaQ2129up8OxmWO"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Can't Stop My Heart From Singing",
         "url": "https://open.spotify.com/album/7use7LdcOxZ2R7fgo7YyyG"
       },
@@ -1695,6 +1679,38 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Praise",
+        "url": "https://open.spotify.com/album/1w5KYaGwCBN3w6lYo8JFqY"
+      },
+      "artists": [
+        {
+          "name": "Gungor",
+          "url": "https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif"
+        }
+      ],
+      "duration_ms": 232703,
+      "name": "Here We Are",
+      "url": "https://open.spotify.com/track/0OP39BJAaQ2129up8OxmWO"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "DANGEROUS",
+        "url": "https://open.spotify.com/album/4bQ7tfvG5eQSbSoMoWlZ7G"
+      },
+      "artists": [
+        {
+          "name": "Anchor & Braille",
+          "url": "https://open.spotify.com/artist/0ofu3spkMmDV3INNoMtXbM"
+        }
+      ],
+      "duration_ms": 222922,
+      "name": "DANGEROUS",
+      "url": "https://open.spotify.com/track/7j0iPwOZJoqO3J66UbPX6l"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "High Calling",
         "url": "https://open.spotify.com/album/3A3N6gYhQUFK48zRkg5o63"
       },
@@ -1711,26 +1727,6 @@
       "duration_ms": 188731,
       "name": "High Calling",
       "url": "https://open.spotify.com/track/2XIfWKsjf0ufQNzYDCFV3m"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "Somebody You Knew",
-        "url": "https://open.spotify.com/album/3V2XutQhnbyGFH8FSfqw5E"
-      },
-      "artists": [
-        {
-          "name": "Trey Pearson",
-          "url": "https://open.spotify.com/artist/5pjtpHRdrbbw9zZWx83zCF"
-        },
-        {
-          "name": "Semler",
-          "url": "https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g"
-        }
-      ],
-      "duration_ms": 198997,
-      "name": "Hey Jesus",
-      "url": "https://open.spotify.com/track/2Uo4QoDPsHkpUNSVJyJYts"
     }
   ],
   "unique_name": "Ultimate Christian Alternative",

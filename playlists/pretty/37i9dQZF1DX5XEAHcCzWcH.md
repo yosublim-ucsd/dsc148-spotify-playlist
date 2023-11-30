@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 
 > The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre\. Cover: Ray Charles
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,729 likes - 66 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,755 likes - 66 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 | 26 | [If I Hadn't Been High](https://open.spotify.com/track/4AngKkvtjelyQfgBiO9hUt) | [Detroit Junior](https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3) | [Living Chicago Blues, Vol\. 4](https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J) | 4:06 |
 | 27 | [Roll 'Em Pete](https://open.spotify.com/track/4gqwSjQJBaqB1LYNyAfQsj) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7) | [Jumpin' With Joe](https://open.spotify.com/album/20iEYnDg4FqOWLfomgxWhM) | 2:55 |
 | 28 | [Booker's Boogie](https://open.spotify.com/track/2ckb6mS0TcnCxaQ2ywh1CV) | [Booker T\. Laury](https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH) | [Blues On The Prowl](https://open.spotify.com/album/3fQi3rgKy3U3udVg0ojE2N) | 3:37 |
-| 29 | [Lovesick Soul](https://open.spotify.com/track/0E3Ck752Kw29gVpyAVDLDo) | [Eddie Boyd](https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB) | [The Sonet Blues Story](https://open.spotify.com/album/4PTxdqiU8HhL5GW5Zf0pZ0) | 3:56 |
-| 30 | [Fluff Boogie](https://open.spotify.com/track/53JbbJdZKRifKvPhVAOVG9) | [Camille Howard](https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX) | [X\-Temporaneous Boogie](https://open.spotify.com/album/7gKcCISq4MdFPIcslAvznp) | 2:19 |
+| 29 | [Fluff Boogie](https://open.spotify.com/track/53JbbJdZKRifKvPhVAOVG9) | [Camille Howard](https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX) | [X\-Temporaneous Boogie](https://open.spotify.com/album/7gKcCISq4MdFPIcslAvznp) | 2:19 |
+| 30 | [Lovesick Soul](https://open.spotify.com/track/0E3Ck752Kw29gVpyAVDLDo) | [Eddie Boyd](https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB) | [The Sonet Blues Story](https://open.spotify.com/album/4PTxdqiU8HhL5GW5Zf0pZ0) | 3:56 |
 | 31 | [Papa's on the House Top](https://open.spotify.com/track/2O36OWzPpO7qg7CxdmPtN3) | [Leroy Carr](https://open.spotify.com/artist/2FtoVJBkfbE89zyZJ0E9eR) | [The Essential Leroy Carr](https://open.spotify.com/album/02k5tV3zpF2khwjxro1oUT) | 2:55 |
 | 32 | [Ain't Nobody's Business](https://open.spotify.com/track/5AguTIx7t7HqEJHjlizHHs) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [The Biggest Thing Since Colossus](https://open.spotify.com/album/0JTpT75jTlXCJqAoCw1H4b) | 5:15 |
 | 33 | [Take It Easy](https://open.spotify.com/track/7LmI63pR8aUSjKNySdbffC) | [Pinetop Perkins](https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55) | [Down In Mississippi](https://open.spotify.com/album/0QWm32Qy7kRhGzhms5EtKH) | 3:43 |
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 | 40 | [Long Way Home](https://open.spotify.com/track/2psY6edqjF6QMnC8v1Aitj) | [Kelley Hunt](https://open.spotify.com/artist/0L7Y276gBjB2pxuyhpgzgv) | [New Shade of Blue](https://open.spotify.com/album/7LCPGWetHUe8llQPpRacoh) | 4:22 |
 | 41 | [Anytime, Anyplace, Anywhere](https://open.spotify.com/track/1MqeY8vtJ435Oaj2suvtbW) | [Hadda Brooks](https://open.spotify.com/artist/1NJubf2lWeNdXONuic4fir) | [I've Got News For You](https://open.spotify.com/album/4LrFiga7TeKlnDhCngvSUl) | 3:09 |
 | 42 | [Honky Tonk](https://open.spotify.com/track/2jrx9e7piANgdK0M3KhHWV) | [Tuts Washington](https://open.spotify.com/artist/2enlsrrQfQ2uHr5MnHucCI) | [New Orleans Piano Professor](https://open.spotify.com/album/73SUBi6wcCs20JawgcGDWy) | 3:22 |
-| 43 | [Things Have Changed](https://open.spotify.com/track/5fY1xBMbBUwN1ejbK647Yi) | [Big Maceo](https://open.spotify.com/artist/6MaCG0Ef8DahWf6Mn0Ikve) | [The King of Chicago Blues Piano](https://open.spotify.com/album/7B0UpbAjvyWdS6ira2Ns5Z) | 3:00 |
+| 43 | [Tipitina](https://open.spotify.com/track/7acA74x4jbKVKBljh5Qt3L) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD), [Tipitina’s Record Club](https://open.spotify.com/artist/2obtJE8R0kU7EiJoyEXKAQ) | [Fess at Home](https://open.spotify.com/album/1r6jk6qVIYqPlTzvOXMPUE) | 3:51 |
 | 44 | [Wade In The Water](https://open.spotify.com/track/4cfHsToPXfIcBFwIqokmaO) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Plays Mac Rebennack](https://open.spotify.com/album/5mz8zXcWTPKrjDxk6FdYiS) | 4:10 |
-| 45 | [Tipitina](https://open.spotify.com/track/7acA74x4jbKVKBljh5Qt3L) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD), [Tipitina’s Record Club](https://open.spotify.com/artist/2obtJE8R0kU7EiJoyEXKAQ) | [Fess at Home](https://open.spotify.com/album/1r6jk6qVIYqPlTzvOXMPUE) | 3:51 |
+| 45 | [Things Have Changed](https://open.spotify.com/track/5fY1xBMbBUwN1ejbK647Yi) | [Big Maceo](https://open.spotify.com/artist/6MaCG0Ef8DahWf6Mn0Ikve) | [The King of Chicago Blues Piano](https://open.spotify.com/album/7B0UpbAjvyWdS6ira2Ns5Z) | 3:00 |
 | 46 | [Pink Champagne](https://open.spotify.com/track/4NIC2PekIelrjo4DBbGhXG) | [Joe Liggins & The Honeydrippers](https://open.spotify.com/artist/61zdmia3oH5vUieNIqI7iI) | [Joe Liggins & The Honeydrippers](https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO) | 3:00 |
 | 47 | [The Blues Ain't Nothing](https://open.spotify.com/track/0kxvYuAulT8gtAJQMnM52H) | [Julian Fauth](https://open.spotify.com/artist/1q89DTds6UuLXJ9SINH3wr), [Curley Bridges](https://open.spotify.com/artist/734B42JrhaNf5z7J5MvIus) | [Blues Piano\-Rama](https://open.spotify.com/album/1kVLClgeJAWwohZHPbqLGx) | 5:46 |
 | 48 | [Make Me a Pallet on the Floor](https://open.spotify.com/track/14AxqPeIqpVySnvgLf6ZKv) | [Jimmy Yancey](https://open.spotify.com/artist/5Htb3OCSbYrsNjXgFP1LqD), [Mama Yancey](https://open.spotify.com/artist/43jwl4inLITN5Xu7D7XcFu) | [Chicago Piano Volume 1](https://open.spotify.com/album/0YXh5wJhimZePRjFK0NSvC) | 4:34 |
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 | 60 | [Boot That Thing](https://open.spotify.com/track/5rwqwMmEWAqwRTDyUKba0u) | [Ken Saydak](https://open.spotify.com/artist/3CbqTmz4MT9cGAUZsGeFbJ) | [Tribute: Delmark's 65th Anniversary](https://open.spotify.com/album/7mtoUrLaCBwUODx3QwqlUi) | 4:00 |
 | 61 | [My Baby's Gone](https://open.spotify.com/track/1ORs7J8remmKEDvAMotH29) | [Lazy Bill Lucas](https://open.spotify.com/artist/4v9Nt1CRGlHHdDX1sIXuAq) | [Best of Blues Vol\. 6: Postwar Chicago Blues III \(Collection Gerard Herzhaft \- Remastered\)](https://open.spotify.com/album/3wIt6N0fd9c6ittIk8BpcZ) | 2:46 |
 | 62 | [Mean Old Train](https://open.spotify.com/track/0liEBhnL5QiBIAtJ2AK3ax) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD), [Bruce Katz](https://open.spotify.com/artist/3Nzai6Pe5noXPC8JsYtO57), [Giles Robson](https://open.spotify.com/artist/3X0t4rhxfWybl1HrB2x2y3) | [Journeys To The Heart Of The Blues](https://open.spotify.com/album/04IPqjyafoLonfN3LDkb8z) | 3:03 |
-| 63 | [Train](https://open.spotify.com/track/7wKp4mA6hcs13duOudDQ6C) | [Victor Wainwright](https://open.spotify.com/artist/5iXJjikLdfxrmqGkdyW5C9) | [Victor Wainwright and the Train](https://open.spotify.com/album/1F2skCbg4JAAdWjWM2jr9p) | 3:35 |
-| 64 | [Empty Arms](https://open.spotify.com/track/4vuAINkUeHcx9JApp7fZKx) | [Eddie Boyd](https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB) | [The Blue Horizon Story \(1965\-1970\)](https://open.spotify.com/album/6LAgwOR5Rh9VmCIosaSxkM) | 2:50 |
+| 63 | [Empty Arms](https://open.spotify.com/track/4vuAINkUeHcx9JApp7fZKx) | [Eddie Boyd](https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB) | [The Blue Horizon Story \(1965\-1970\)](https://open.spotify.com/album/6LAgwOR5Rh9VmCIosaSxkM) | 2:50 |
+| 64 | [Train](https://open.spotify.com/track/7wKp4mA6hcs13duOudDQ6C) | [Victor Wainwright](https://open.spotify.com/artist/5iXJjikLdfxrmqGkdyW5C9) | [Victor Wainwright and the Train](https://open.spotify.com/album/1F2skCbg4JAAdWjWM2jr9p) | 3:35 |
 | 65 | [Me and My Gin](https://open.spotify.com/track/5L4sfgGbYh7CgXVBTmUcfz) | [Jimmie Gordon](https://open.spotify.com/artist/6XrOb8biVVH7gH09AIjB7l) | [This Is the Blues! Vol\. 7 \(Mono Version\)](https://open.spotify.com/album/4U9fxJlHlKvp5GwKmenuQ3) | 3:12 |
 | 66 | [I'll Be Right Some Day](https://open.spotify.com/track/3OpoVrckZ1J2IhAri7bWKl) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Nail Jumping](https://open.spotify.com/album/2DegOuID6Bx94UtWX4xYf4) | 2:26 |
 
-Snapshot ID: `MCwyMjUxNTc1M2QzMjgwZGExYTJiNTlmM2QwYTZkOWQzMjllZWY1ZTVh`
+Snapshot ID: `MCw0MTE0NzBiNmZiZWNiMTlmZTc2YTM3ODRmYWIzNDhiN2QwODdhNTE5`

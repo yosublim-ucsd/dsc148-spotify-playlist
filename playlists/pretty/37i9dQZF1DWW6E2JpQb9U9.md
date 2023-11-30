@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,428 likes - 100 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,491 likes - 100 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 48 | [De la Guitarra \- En Vivo Luna Park](https://open.spotify.com/track/4vBsZW0vafVcFmlG0ooRc4) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otra Noche en la Luna \(Episodio I\)](https://open.spotify.com/album/49Dc7i19OTFHpmyqxdIGyI) | 5:11 |
 | 49 | [Lo Frágil De La Locura \- En Directo Desde Estadio De Huracán Buenos Aires / 2001](https://open.spotify.com/track/09MFq4vAtlRnC9dQVQJYln) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Insoportablemente Vivo \(En Directo Desde Estadio De Huracán Buenos Aires / 2001\)](https://open.spotify.com/album/5cgGmPTXGyysE1ShAqPh0x) | 4:43 |
 | 50 | [A Dónde Vas \- Acústico en Vivo](https://open.spotify.com/track/5En6kK2Xn4HgYQBhBgcxY0) | [El Bordo](https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg), [Facundo Soto](https://open.spotify.com/artist/7iHo4CLGchMwwtiCxfyGem) | [Instante Eterno \(acústico en Vivo\)](https://open.spotify.com/album/3strzjXT1o3fjp6TmC67ev) | 3:47 |
-| 51 | [Todo Eso Que Nos Queda \- En Vivo en el Gran Rex](https://open.spotify.com/track/37S1A1oGrwCs0R2K5fU9Ht) | [Los Perez García](https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3) | [Todo Eso Que Nos Queda \(En Vivo en el Gran Rex\)](https://open.spotify.com/album/1sD3x5nHHviRWDdjuaMCxT) | 4:04 |
-| 52 | [Absolutismos… \- Live In Buenos Aires / 2016](https://open.spotify.com/track/5CbX94QcX74Xy0l4ArAIQI) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [Vivo De Pastillas: Locura Y Realidad \(Live In Buenos Aires / 2016\)](https://open.spotify.com/album/3l0v842H6eKkHsOmHUUcHe) | 3:42 |
+| 51 | [Absolutismos… \- Live In Buenos Aires / 2016](https://open.spotify.com/track/5CbX94QcX74Xy0l4ArAIQI) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [Vivo De Pastillas: Locura Y Realidad \(Live In Buenos Aires / 2016\)](https://open.spotify.com/album/3l0v842H6eKkHsOmHUUcHe) | 3:42 |
+| 52 | [Todo Eso Que Nos Queda \- En Vivo en el Gran Rex](https://open.spotify.com/track/37S1A1oGrwCs0R2K5fU9Ht) | [Los Perez García](https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3) | [Todo Eso Que Nos Queda \(En Vivo en el Gran Rex\)](https://open.spotify.com/album/1sD3x5nHHviRWDdjuaMCxT) | 4:04 |
 | 53 | [Todo un Palo \- En Vivo](https://open.spotify.com/track/2Cozh3ZhCsatIz9sWk59Y8) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [En Directo](https://open.spotify.com/album/7H3R1THjVZhSeEKK6S6MUE) | 7:41 |
 | 54 | [Reyes de la Noche](https://open.spotify.com/track/5BtQSJAmxP3ezx5ZXR2p8s) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [El Rock De Mi Vida](https://open.spotify.com/album/5UjmKvT1dxShYW7hbLRrym) | 4:23 |
 | 55 | [Avanti Morocha \(En Vivo Provincia Emergente\)](https://open.spotify.com/track/7KEi5XL40fRcqyq9aUcDX6) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [Provincia Emergente Estadio Unico de La Plata \(En Vivo\)](https://open.spotify.com/album/2VPSdVQuuSNyYPIgzxruqi) | 5:34 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 79 | [Fuego \- En Vivo Luna Park](https://open.spotify.com/track/6WtFW6voAmKo5QOf3KTj6K) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Fuego \(En Vivo Luna Park\)](https://open.spotify.com/album/1V8ku6WhML2Z15eiLqIoHA) | 4:46 |
 | 80 | [La Leyenda del Hada y el Mago \- En Vivo](https://open.spotify.com/track/5audspbxagSKYlsrmMdsvn) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [Rata Blanca: Luna Park 2019 \(En Vivo\)](https://open.spotify.com/album/6kmuMZSsLz5rnlXCwp5UgE) | 5:39 |
 | 81 | [Barek \- En Vivo Luna Park](https://open.spotify.com/track/3F6owj1sw7oPul8jedGkhT) | [Cielo Razzo](https://open.spotify.com/artist/7EgR8MOSpxSytMngVCVGEu) | [Barek \(En Vivo Luna Park\)](https://open.spotify.com/album/4qYSyuSs6ErU3W62tstxo5) | 4:03 |
-| 82 | [En el Baldío \- En Vivo](https://open.spotify.com/track/7J8rmygjDWHb3fpwIEJDnH) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Estadio Newell's Old Boys, 18 de Mayo de 2018 \(En Vivo\)](https://open.spotify.com/album/5WOqG6HvWWAd7YvlK6TObB) | 4:13 |
-| 83 | [Solo Voy \- En Vivo](https://open.spotify.com/track/6iFOuRmcqjqOKiM8daR9P6) | [La 25](https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc) | [Vivo X la 25](https://open.spotify.com/album/3ALjIJVwq4AKqMaVPPSIM2) | 4:22 |
+| 82 | [Solo Voy \- En Vivo](https://open.spotify.com/track/6iFOuRmcqjqOKiM8daR9P6) | [La 25](https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc) | [Vivo X la 25](https://open.spotify.com/album/3ALjIJVwq4AKqMaVPPSIM2) | 4:22 |
+| 83 | [En el Baldío \- En Vivo](https://open.spotify.com/track/7J8rmygjDWHb3fpwIEJDnH) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Estadio Newell's Old Boys, 18 de Mayo de 2018 \(En Vivo\)](https://open.spotify.com/album/5WOqG6HvWWAd7YvlK6TObB) | 4:13 |
 | 84 | [Envuelto en Llamas \(En Vivo\)](https://open.spotify.com/track/674zid6QdjoHzafff631N8) | [Los Gardelitos](https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV) | [Sortilegio de Arrabal](https://open.spotify.com/album/4FMIICOCC7pmOdhDwIUkid) | 4:04 |
 | 85 | [Maradó \- En Vivo](https://open.spotify.com/track/6IvGufWgArG0cd8WDeypdH) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Fantasmas Peleándole al Viento \(En Vivo\)](https://open.spotify.com/album/5JG3SpaazCnXheOQQNXBjV) | 6:54 |
 | 86 | [¿Qué Tal? \- En Vivo](https://open.spotify.com/track/0L8j3R0I7PT6dPsITLMhdL) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [En Vivo en el Teatro Coliseo](https://open.spotify.com/album/2HPBjV6pfag0WSo7l1Y8oY) | 8:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 99 | [Oportunidad Oportuna \- En Vivo](https://open.spotify.com/track/6OgghyP8vbOsC2CBvKYArD) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Autódromo de Buenos Aires, 19 de Junio de 2021 \(En Vivo\)](https://open.spotify.com/album/1Sxb0hpU35iLA3WeqEcMr8) | 3:45 |
 | 100 | [Túnel de la Vida \- Vivo en Obras 11/06/2022](https://open.spotify.com/track/04i1O9I6yHG7z9rNQJbSJ6) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [La Fuente \(Vivo en Obras 11/06/2022\)](https://open.spotify.com/album/0UAX7WjcXyGu4YQvg3DeVp) | 4:11 |
 
-Snapshot ID: `MCw3OTFkYTY5NGRkZDEyMGI5ZThjYjZlYzg4MzFmOWU2NDk4OGE3ZTc1`
+Snapshot ID: `MCw3MzA5MGVkYzZkZGViMGQ4ZjgxOTg5NDAzMzg4YjJmNGIwYjc2MWVl`

@@ -1,12 +1,12 @@
 {
   "description": " songs that feel like new and old friends, all stitched together.",
-  "num_followers": 177689,
+  "num_followers": 177742,
   "original_name": "patchwork",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OWFiNWI2OGU5NzUyZmVhMWZiNWM0ODdhNDFjOWQ4NDNmN2QwMmMy",
+  "snapshot_id": "MCw2MTcwMGYxNmI5ZTg4OTI1OGRmZWJmMjI2NGFmMTFkZTZjNmEwNzQ4",
   "tracks": [
     {
       "added_at": "2023-09-26 13:24:44",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-09-26 13:24:44",
       "album": {
-        "name": "Race",
-        "url": "https://open.spotify.com/album/3hY0WIR79EKnQcwUsyRy5m"
-      },
-      "artists": [
-        {
-          "name": "Alex G",
-          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
-        }
-      ],
-      "duration_ms": 75524,
-      "name": "TV",
-      "url": "https://open.spotify.com/track/5gnOGcUA9Thwa611bn3Rp2"
-    },
-    {
-      "added_at": "2023-09-26 13:24:44",
-      "album": {
         "name": "Nothing Matters",
         "url": "https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 181750,
       "name": "Nothing Matters",
       "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
+    },
+    {
+      "added_at": "2023-09-26 13:24:44",
+      "album": {
+        "name": "Race",
+        "url": "https://open.spotify.com/album/3hY0WIR79EKnQcwUsyRy5m"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "duration_ms": 75524,
+      "name": "TV",
+      "url": "https://open.spotify.com/track/5gnOGcUA9Thwa611bn3Rp2"
     },
     {
       "added_at": "2023-09-26 13:24:44",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-09-26 13:24:44",
       "album": {
-        "name": "god of the sunsets",
-        "url": "https://open.spotify.com/album/5ZrAjc3ME3ghkUikJiYrms"
-      },
-      "artists": [
-        {
-          "name": "SEB",
-          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
-        }
-      ],
-      "duration_ms": 124705,
-      "name": "god of the sunsets",
-      "url": "https://open.spotify.com/track/5gOyjqIifZ9NqVcaIIlqv7"
-    },
-    {
-      "added_at": "2023-09-26 13:24:44",
-      "album": {
         "name": "But Not Kiss",
         "url": "https://open.spotify.com/album/0KeY6QJLo4UfpR3jNSZPwh"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 222555,
       "name": "But Not Kiss",
       "url": "https://open.spotify.com/track/0UaqZbfeKuOdPxkyK7782l"
+    },
+    {
+      "added_at": "2023-09-26 13:24:44",
+      "album": {
+        "name": "god of the sunsets",
+        "url": "https://open.spotify.com/album/5ZrAjc3ME3ghkUikJiYrms"
+      },
+      "artists": [
+        {
+          "name": "SEB",
+          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
+        }
+      ],
+      "duration_ms": 124705,
+      "name": "god of the sunsets",
+      "url": "https://open.spotify.com/track/5gOyjqIifZ9NqVcaIIlqv7"
     },
     {
       "added_at": "2023-09-26 13:24:44",

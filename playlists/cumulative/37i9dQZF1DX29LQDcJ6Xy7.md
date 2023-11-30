@@ -4,7 +4,7 @@
 
 > A collection of Industrial Metal \- fresh and old tunes\. Cover: Fear Factory
 
-205 songs - 14 hr 36 min
+206 songs - 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Hengitä](https://open.spotify.com/track/0aRyEPEkEpzUTztEtasDVj) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Hengitä](https://open.spotify.com/album/4Jkym58PA9Nhe96FjI3Ox7) | 3:10 | 2022-07-01 |  |
 | [Hey Man, Nice Shot \- Remastered Version](https://open.spotify.com/track/1IyHPt3b6BrhdMwNyk0VM0) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Short Bus](https://open.spotify.com/album/0UWwEb7weI9WdpxPzD9aqV) | 5:14 | 2022-07-01 |  |
 | [Hey Man, Nice Shot \- Remastered Version](https://open.spotify.com/track/6jc5gHCmrZW1XLcRM3wFlC) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Short Bus](https://open.spotify.com/album/1iQvERlM75GnoUABxlk6nA) | 5:14 | 2022-07-01 | 2022-07-29 |
-| [Hollow \(Project Regeneration\)](https://open.spotify.com/track/0qGbzBx02qt7MwtAgNjRDj) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Hollow \(Project Regeneration\)](https://open.spotify.com/album/2Istkur4ggU2hcahfC38Mf) | 2:41 | 2022-07-01 |  |
+| [Hollow \(Project Regeneration\)](https://open.spotify.com/track/0qGbzBx02qt7MwtAgNjRDj) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Hollow \(Project Regeneration\)](https://open.spotify.com/album/2Istkur4ggU2hcahfC38Mf) | 2:41 | 2022-07-01 | 2023-11-30 |
 | [Hydrochloride](https://open.spotify.com/track/5guQjkjzpIMpX81VAZTHNy) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [ANTI\-ICON](https://open.spotify.com/album/3gEv1vpsDgaEo4TLuu0Lwz) | 2:27 | 2022-07-01 | 2023-05-06 |
 | [HYËNA](https://open.spotify.com/track/2mPYdoSr3T9VLi94oV7ob5) | [KMFDM](https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa) | [HYËNA](https://open.spotify.com/album/3S4k4I4hvcCiLExpGaSPUa) | 5:02 | 2022-09-16 |  |
 | [I Am Nothing](https://open.spotify.com/track/3AbsnquyVPrryreclU5fvx) | [Stabbing Westward](https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG) | [Chasing Ghosts](https://open.spotify.com/album/0xUiYomjFBfg1qbOuSn37E) | 4:03 | 2022-08-15 |  |
@@ -173,6 +173,7 @@
 | [Recharger](https://open.spotify.com/track/3C5jj2rhMP5Qw7AiKyMoWQ) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Re\-Industrialized](https://open.spotify.com/album/3dbC9oQ5is3z8VR4Ninpuv) | 4:09 | 2023-06-27 |  |
 | [Replica](https://open.spotify.com/track/5YeQoMo5py82YmqXMTjM5S) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Demanufacture \(Special Edition\)](https://open.spotify.com/album/6GPHWrMQG5Ns8O3aQKMro2) | 3:57 | 2022-07-01 |  |
 | [Requiem \- 2005 Digital Remaster](https://open.spotify.com/track/29QxWOqd1z0HynG72mAEqn) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Killing Joke](https://open.spotify.com/album/0FfpevxQr8EyNsjc24TbmI) | 3:45 | 2022-08-12 | 2023-04-12 |
+| [Royal Leash](https://open.spotify.com/track/0thtR0AknaM6k7WktFah7z) | [Processor](https://open.spotify.com/artist/3PsLxyLABzuf3dUMpS05Mp) | [Majesty](https://open.spotify.com/album/0S0OF6IQa0Tr0lWivkrUD2) | 3:43 | 2023-11-14 |  |
 | [Royal Leash](https://open.spotify.com/track/7fBy8RKySzM04XrtYm2SJc) | [Processor](https://open.spotify.com/artist/3PsLxyLABzuf3dUMpS05Mp) | [Royal Leash](https://open.spotify.com/album/6eMEO2RnJh2hXoXQyscWgH) | 3:43 | 2022-07-01 | 2022-11-13 |
 | [S E X](https://open.spotify.com/track/3rx6ENPfEGYiQVPP1jsVtx) | [Aesthetic Perfection](https://open.spotify.com/artist/1Jgp0YCPHCJx5XD7nlfGVN), [Sebastian Svalland](https://open.spotify.com/artist/0NS9PpmJrJodmXFLNlRk5B) | [S E X](https://open.spotify.com/album/0ZMVhQvyDY4vVPGqRCDE97) | 3:40 | 2022-07-01 |  |
 | [Save Yourself](https://open.spotify.com/track/13ZS2V2RsGWguOYYvIqDN5) | [Stabbing Westward](https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG) | [Darkest Days](https://open.spotify.com/album/2zbX9auxAGYaWoMEvB2uAg) | 4:13 | 2022-08-12 |  |

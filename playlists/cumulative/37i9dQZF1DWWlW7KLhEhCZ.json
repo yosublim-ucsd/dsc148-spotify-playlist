@@ -22204,10 +22204,28 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 104878,
       "name": "Zidane",
       "url": "https://open.spotify.com/track/12VgvkipRAGWuGAitNo47j"
+    },
+    {
+      "album": {
+        "name": "Zzz, Vol. 2",
+        "url": "https://open.spotify.com/album/5qg05BeqESDoMFCYZl3Od0"
+      },
+      "artists": [
+        {
+          "name": "MC Igu",
+          "url": "https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104878,
+      "name": "Zidane",
+      "url": "https://open.spotify.com/track/5203anqH3H9vJT8URmbF4X"
     },
     {
       "album": {

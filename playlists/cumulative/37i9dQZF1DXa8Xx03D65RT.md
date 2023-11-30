@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-739 songs - 1 day 7 hr 2 min
+740 songs - 1 day 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [D'émeraude](https://open.spotify.com/track/27NsmJyv3hRvtP9V48xYNB) | [Daniel Joaví](https://open.spotify.com/artist/24edSJTejdFtLRivRZ7uGT) | [D'émeraude](https://open.spotify.com/album/6oDTazvN0pOA0ZMLOvR5lJ) | 2:06 | 2022-05-27 |  |
 | [Dagrøm](https://open.spotify.com/track/2x66aNwtjp3riJ1lurDElm) | [Flemming Hoovgard](https://open.spotify.com/artist/4aW1OBhYHyrbMWqbEfE5gT) | [Dagrøm](https://open.spotify.com/album/42mz8sXPvqxfnQGYbmHtbP) | 2:21 | 2022-05-27 |  |
 | [Dahlias](https://open.spotify.com/track/0r0z0VyDa8X5fu3Kl6ybYi) | [Moldoveanu](https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O) | [Dahlias](https://open.spotify.com/album/22hBdp6pvyZzEI3Fu8x58n) | 2:11 | 2022-05-27 | 2023-01-21 |
+| [Daily Routine](https://open.spotify.com/track/3Cjph5SHBAwB3JTTFjAPci) | [Gale Moore](https://open.spotify.com/artist/7D4pGxfKDvTyt90fAAQXxw) | [Daily Routine](https://open.spotify.com/album/2nrC6flLFnb4KFulBMM4VW) | 2:05 | 2023-11-28 |  |
 | [Daj spokój](https://open.spotify.com/track/1pfOIDiq6T9lxMZdkk5Fhj) | [Aleksy Wysocki](https://open.spotify.com/artist/3GXTl6tHXIzPcthbBCEskf) | [Daj spokój](https://open.spotify.com/album/5QaOxxJw9QzOHgrWAnd8TK) | 2:15 | 2022-05-27 | 2023-07-14 |
 | [Dandelion Song](https://open.spotify.com/track/1wDYoGkjEyzH0LgYNuS4YS) | [Maël Alexandrienne](https://open.spotify.com/artist/5VQ1hti6Wtt95mSCrighiu) | [Dandelion Song](https://open.spotify.com/album/26QuZDw2nEtsvVWUUZaLwM) | 3:12 | 2022-05-27 | 2022-09-24 |
 | [dans le Bleu](https://open.spotify.com/track/0f8fnzecrwlGZYOWOHTMz0) | [Ricard Paul](https://open.spotify.com/artist/6N2AxUq3v1faD2lVriyeJu) | [dans le Bleu](https://open.spotify.com/album/4pI7r8JcKxLLWAB7iM5bdu) | 1:49 | 2023-03-13 | 2023-07-25 |
@@ -253,7 +254,7 @@
 | [Haven](https://open.spotify.com/track/5K5WAmv3SxQR8Is4zJklrz) | [Odette Montano](https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC) | [Haven](https://open.spotify.com/album/2GtLmksn6hajz3ZX14bjO7) | 2:45 | 2022-05-27 |  |
 | [Heart in Hand](https://open.spotify.com/track/0huKJwIKDcpnZdlkYUYni9) | [Dakota Fields](https://open.spotify.com/artist/6CtFcUv9Kdu58sdYbCAt8g) | [Heart in Hand](https://open.spotify.com/album/5AvAyomaixNB3mRbdWyGti) | 2:29 | 2022-05-27 | 2022-09-24 |
 | [Heartbeat](https://open.spotify.com/track/5gYcfdwdwQ7eowE3ycuXaW) | [Errol Hayward](https://open.spotify.com/artist/5QqAOx4RRkDlVmHse16kNx) | [Heartbeat](https://open.spotify.com/album/23F1BckCyP3XYDPo7JQtZL) | 2:17 | 2022-05-27 | 2023-05-04 |
-| [Heartland](https://open.spotify.com/track/0M3DaTZsuttjClg5VG8exA) | [Lihua Zhao](https://open.spotify.com/artist/7dsYrsCwrZat4t33c7RXPe) | [Heartland](https://open.spotify.com/album/0fKjmVxLE5o2sDd1b47REq) | 3:28 | 2022-05-27 |  |
+| [Heartland](https://open.spotify.com/track/0M3DaTZsuttjClg5VG8exA) | [Lihua Zhao](https://open.spotify.com/artist/7dsYrsCwrZat4t33c7RXPe) | [Heartland](https://open.spotify.com/album/0fKjmVxLE5o2sDd1b47REq) | 3:28 | 2022-05-27 | 2023-11-30 |
 | [Hearts of Us](https://open.spotify.com/track/2aVPRmQnQ95n2lPG1QjXr2) | [Niels Wang](https://open.spotify.com/artist/5CEH6P4vzHUyHI4WGrWaKT) | [Hearts of Us](https://open.spotify.com/album/4PgiOdtd12ASXZcnG24F1e) | 2:16 | 2022-05-27 |  |
 | [Heather's Croft](https://open.spotify.com/track/1ZDPKU4OiLJoej4IFqOyHP) | [Silje Mørk](https://open.spotify.com/artist/3Th7uQxL5iOFrWHZ4GZIzP) | [Heather's Croft](https://open.spotify.com/album/74RBkn33VQFUsY4SDUqoE0) | 2:57 | 2022-05-27 | 2023-11-27 |
 | [Helgafell](https://open.spotify.com/track/1uLAimb1FsPL3K5n5f81SN) | [Agnes Ross](https://open.spotify.com/artist/6n0EoqtgCg1IHEMaU6J1ML) | [Hekla](https://open.spotify.com/album/7byhTf36ViyuDqCYmf4woy) | 2:23 | 2022-05-27 | 2022-09-24 |

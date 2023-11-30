@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Rombai & Cami Raj.",
-  "num_followers": 1211184,
+  "num_followers": 1211779,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTVmMDA4MjgwOTQ3Y2RhMjM1MDA3MmY0NTUxZjM5MTZiNjA0NjYx",
+  "snapshot_id": "MCwyNDRjZmMwZGQyMzY0YWQ3MzNiNDM5MDI4NzljN2RkY2VkNmMyMTY3",
   "tracks": [
     {
       "added_at": "2023-11-24 03:00:00",
@@ -499,62 +499,6 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "TU AMOR | E7",
-        "url": "https://open.spotify.com/album/772pSj9TMLYJoULLYIEVBX"
-      },
-      "artists": [
-        {
-          "name": "DJ Alex",
-          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
-        },
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        }
-      ],
-      "duration_ms": 153665,
-      "name": "TU AMOR | E7",
-      "url": "https://open.spotify.com/track/3N6rAKpPraBOZqn9RhSrz0"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
-        "name": "La Triple T",
-        "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 167674,
-      "name": "La Triple T",
-      "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
-        "name": "Messirve Mix 5",
-        "url": "https://open.spotify.com/album/4RftZP7sXCsFIADpppavzS"
-      },
-      "artists": [
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        },
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 312737,
-      "name": "Messirve Mix 5",
-      "url": "https://open.spotify.com/track/41VOCbJ4ronoGiRg4bWvV6"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
         "name": "L\u00e1grimas | CROSSOVER #4",
         "url": "https://open.spotify.com/album/30aaqAqle120bcBU5IDkgr"
       },
@@ -575,6 +519,62 @@
       "duration_ms": 167419,
       "name": "L\u00e1grimas | CROSSOVER #4",
       "url": "https://open.spotify.com/track/1lSayCmr2lS6ndxELoabIG"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "La Triple T",
+        "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 167674,
+      "name": "La Triple T",
+      "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "TU AMOR | E7",
+        "url": "https://open.spotify.com/album/772pSj9TMLYJoULLYIEVBX"
+      },
+      "artists": [
+        {
+          "name": "DJ Alex",
+          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        }
+      ],
+      "duration_ms": 153665,
+      "name": "TU AMOR | E7",
+      "url": "https://open.spotify.com/track/3N6rAKpPraBOZqn9RhSrz0"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "Messirve Mix 5",
+        "url": "https://open.spotify.com/album/4RftZP7sXCsFIADpppavzS"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 312737,
+      "name": "Messirve Mix 5",
+      "url": "https://open.spotify.com/track/41VOCbJ4ronoGiRg4bWvV6"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -799,26 +799,6 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Aunque Te Enamores",
-        "url": "https://open.spotify.com/album/4m4KiRsQNV8wWvrfDgqBgA"
-      },
-      "artists": [
-        {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        },
-        {
-          "name": "Luciano Pereyra",
-          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
-        }
-      ],
-      "duration_ms": 130212,
-      "name": "Aunque Te Enamores",
-      "url": "https://open.spotify.com/track/2qDQiPI2F0tMefcNQHGrQS"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
         "name": "DEFINITIVA",
         "url": "https://open.spotify.com/album/4CN4xSKYPY8Cthkyej2uPI"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 192111,
       "name": "DEFINITIVA",
       "url": "https://open.spotify.com/track/2krRK5mPFejIewRSmkTKpb"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "Aunque Te Enamores",
+        "url": "https://open.spotify.com/album/4m4KiRsQNV8wWvrfDgqBgA"
+      },
+      "artists": [
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        },
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "duration_ms": 130212,
+      "name": "Aunque Te Enamores",
+      "url": "https://open.spotify.com/track/2qDQiPI2F0tMefcNQHGrQS"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
+        "name": "Pechito Partido",
+        "url": "https://open.spotify.com/album/2DSB1Vljm1tDrcH6Hk06F7"
+      },
+      "artists": [
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        }
+      ],
+      "duration_ms": 147109,
+      "name": "Pechito Partido",
+      "url": "https://open.spotify.com/track/1IT2VUL1Nx6Y3AdCfm0wcO"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
         "name": "No Se Va",
         "url": "https://open.spotify.com/album/1qYntEy4y4mTAisca3zseT"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 201804,
       "name": "No Se Va",
       "url": "https://open.spotify.com/track/0kS31L4yk4ZpSCvvwyZ6T3"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
-        "name": "Pechito Partido",
-        "url": "https://open.spotify.com/album/2DSB1Vljm1tDrcH6Hk06F7"
-      },
-      "artists": [
-        {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
-        }
-      ],
-      "duration_ms": 147109,
-      "name": "Pechito Partido",
-      "url": "https://open.spotify.com/track/1IT2VUL1Nx6Y3AdCfm0wcO"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
+        "name": "Fuego en la Noche",
+        "url": "https://open.spotify.com/album/3kuFkR32n0p4DEQ9LOXnmU"
+      },
+      "artists": [
+        {
+          "name": "El Super Hobby",
+          "url": "https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V"
+        }
+      ],
+      "duration_ms": 147960,
+      "name": "Chica Brasile\u00f1a",
+      "url": "https://open.spotify.com/track/3cjnOR9smeeqVfj13XSpqS"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
         "name": "\u00a1No Pasa Nada!",
         "url": "https://open.spotify.com/album/2ArZbZyCsuhS5ZNgNxC3Mo"
       },
@@ -1771,22 +1787,6 @@
       "duration_ms": 154386,
       "name": "\u00a1No Pasa Nada!",
       "url": "https://open.spotify.com/track/0XjezKSHXMIa7vldh3hORe"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
-        "name": "Fuego en la Noche",
-        "url": "https://open.spotify.com/album/3kuFkR32n0p4DEQ9LOXnmU"
-      },
-      "artists": [
-        {
-          "name": "El Super Hobby",
-          "url": "https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V"
-        }
-      ],
-      "duration_ms": 147960,
-      "name": "Chica Brasile\u00f1a",
-      "url": "https://open.spotify.com/track/3cjnOR9smeeqVfj13XSpqS"
     },
     {
       "added_at": "2023-11-24 03:00:00",

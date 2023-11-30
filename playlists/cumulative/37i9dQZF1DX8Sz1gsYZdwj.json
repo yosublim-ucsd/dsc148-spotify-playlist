@@ -191,6 +191,24 @@
     },
     {
       "album": {
+        "name": "Adoration",
+        "url": "https://open.spotify.com/album/495Axa6G5QO6M0NjP0zLD2"
+      },
+      "artists": [
+        {
+          "name": "Jacques Blanc",
+          "url": "https://open.spotify.com/artist/2pLiht9WILwFOx7VoxQQJJ"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157894,
+      "name": "Adoration",
+      "url": "https://open.spotify.com/track/14wPl9Hv5LFqZZdz2AbwRL"
+    },
+    {
+      "album": {
         "name": "Afterlight",
         "url": "https://open.spotify.com/album/4dNFgryxb6P7wJDsdPaupX"
       },
@@ -612,6 +630,24 @@
       "duration_ms": 140378,
       "name": "Da una persona cara",
       "url": "https://open.spotify.com/track/0B7YgaCYEmrUGpwV1zSBhN"
+    },
+    {
+      "album": {
+        "name": "Dandelions",
+        "url": "https://open.spotify.com/album/1StyA6SuWHuexqkYAEaJEA"
+      },
+      "artists": [
+        {
+          "name": "Linior",
+          "url": "https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143583,
+      "name": "Dandelions",
+      "url": "https://open.spotify.com/track/1HoCLME8rDSpksyIVgfs5w"
     },
     {
       "album": {
@@ -1871,6 +1907,24 @@
     },
     {
       "album": {
+        "name": "New Era For Me",
+        "url": "https://open.spotify.com/album/3ZnZYWFkWrgSZNWGg1sOl4"
+      },
+      "artists": [
+        {
+          "name": "Dustin Tomas",
+          "url": "https://open.spotify.com/artist/2uflvyKj2mPIzddN3MEjLs"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157134,
+      "name": "New Era For Me",
+      "url": "https://open.spotify.com/track/3e1LaYRy3UgTqOzVEvkaAz"
+    },
+    {
+      "album": {
         "name": "Beyond The Horizon",
         "url": "https://open.spotify.com/album/424n6K5q9ff7X0dUJooPZn"
       },
@@ -2652,6 +2706,24 @@
       "duration_ms": 145750,
       "name": "Silent joy",
       "url": "https://open.spotify.com/track/5lS2q5nrx4qmBUD2ew3QMV"
+    },
+    {
+      "album": {
+        "name": "Sleeping On Clouds",
+        "url": "https://open.spotify.com/album/6EQ1DXLD8BGNnK2hgmcJv3"
+      },
+      "artists": [
+        {
+          "name": "Etne Ski\u00f6ld",
+          "url": "https://open.spotify.com/artist/2hBTCIkNqbHQYTDIhxDfJD"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120177,
+      "name": "Sleeping On Clouds",
+      "url": "https://open.spotify.com/track/3hZOoFLCKOWk7UlHbqQbo0"
     },
     {
       "album": {

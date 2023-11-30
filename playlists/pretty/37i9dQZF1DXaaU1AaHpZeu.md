@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. Simon Grossmann en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,701 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,752 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [Auto](https://open.spotify.com/track/2deq9FLu0FHizs9pPsPCNv) | [El Culto Casero](https://open.spotify.com/artist/5FXQksBW1lPVyzT8QQVwzW), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Auto](https://open.spotify.com/album/3ZdRSfSaKDElyVwAvpRaQf) | 2:22 |
 | 50 | [No Me Quiero Bajar](https://open.spotify.com/track/6gudj3w6nhek5UKpIk8nAY) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [No Me Quiero Bajar](https://open.spotify.com/album/46WiIKS2HdBMUOzy3lJ8qg) | 2:58 |
 
-Snapshot ID: `MCwxZmM5MDM3MDI2MTMyNzc5YWYwOTZiODVkYjQ5YzNjMzgwMGEyNmZk`
+Snapshot ID: `MCw0OGJhMjEwOTZmNDQ5OThhZmNhYjZkNDlkODU0NmNhNzQyZjM2M2Mw`

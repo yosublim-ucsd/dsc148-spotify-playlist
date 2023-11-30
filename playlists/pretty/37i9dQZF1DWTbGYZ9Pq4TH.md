@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 
 > Le canzoni italiane più romantiche di sempre ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,682 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,712 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 | 49 | [D'improvviso](https://open.spotify.com/track/4ykkHvzEE45AlcUq6vkVW6) | [Lorenzo Fragola](https://open.spotify.com/artist/0tTS475qIqv3KXYZMXjsYy) | [Zero Gravity](https://open.spotify.com/album/0FxEbIEYdmAZ7u2oDB0Z4P) | 3:29 |
 | 50 | [Infinito](https://open.spotify.com/track/7KyPP4IenVDrKeewWlAp5L) | [Raf](https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3) | [Iperbole](https://open.spotify.com/album/11ppqhDtSVmjuGCJygZdIG) | 4:56 |
 
-Snapshot ID: `MCw1OTQyYWViZDdiNWI4ZmQxODNjNWM4YjllYzk2MzIzYjFhN2FmZWQ1`
+Snapshot ID: `MCxhOGY0MGRjMTU5ZmEzMWZhZmZlZjEzY2Q0ZDk4ZTkzMTM2NmMwYTgz`

@@ -4,7 +4,7 @@
 
 > Escucha lo mejor del pop electrónico en español.
 
-105 songs - 6 hr 28 min
+106 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Circular](https://open.spotify.com/track/21Rw3bEHD9hdwDIpD3BaWk) | [Dani Umpi](https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI) | [Guazatumba](https://open.spotify.com/album/63nVyKVXvnLNnVR6x3mlxC) | 3:49 | 2023-09-08 |  |
 | [Club de Fans de John Boy](https://open.spotify.com/track/04bVV45KVRvd1h0hfLqRjQ) | [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [Club de Fans de John Boy](https://open.spotify.com/album/0AX6fEdcmURGqUXk5DDf9Y) | 3:38 | 2023-10-26 |  |
 | [Compañerx](https://open.spotify.com/track/1fzGUsPb2RAXOZDHzKXN5Q) | [Fonosida](https://open.spotify.com/artist/6HXJR7OM92v2ncgjL8gVkX) | [Compañera](https://open.spotify.com/album/4CiDkn8I1gRm8VQmffzhW4) | 4:33 | 2023-09-08 |  |
+| [CONEXIÓN DE AMOR](https://open.spotify.com/track/58F5bd40PlBLvoRKzKWDCD) | [Make Mama Proud](https://open.spotify.com/artist/5szSyl9vXGIHY6Ln8K14UI) | [Conexión De Amor](https://open.spotify.com/album/0Ix9AzDcPeQKSNYNzKSxSt) | 3:52 | 2023-11-28 |  |
 | [Cuando Se Apague Todo](https://open.spotify.com/track/2qIWjqbvqHBEwl2p7cvsfk) | [Valdes](https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf) | [Cuando Se Apague Todo](https://open.spotify.com/album/0Obeuspkyeh5UWUcKoeILS) | 3:48 | 2023-09-08 |  |
 | [Cuánto Falta](https://open.spotify.com/track/0ewr3hASTWqJK6hSpKWRdj) | [Ziberia](https://open.spotify.com/artist/3QF7pmiRCZmlvnTzFtCuDH) | [Cuánto Falta](https://open.spotify.com/album/1R7xH7A6kvLXbm3tLktAiD) | 4:00 | 2023-09-08 |  |
 | [DARKSOULS](https://open.spotify.com/track/1pBugwted2IO3pR7APQPP5) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir), [dayvan](https://open.spotify.com/artist/1eTInlBizrAteaACHeE85y), [Evar](https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la) | [eclips3](https://open.spotify.com/album/5PTaRgWmvUnOUhOx800hB9) | 3:32 | 2023-09-08 |  |
@@ -88,7 +89,7 @@
 | [RESPIRAR](https://open.spotify.com/track/4WSrc5DozzVTtZcGafsVvf) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Uri](https://open.spotify.com/artist/1Sdn8kqQIdeQBjwMiwyNNN), [Rodridi](https://open.spotify.com/artist/6ASGA8HXm5wcYHk0dBteDv) | [RESPIRAR](https://open.spotify.com/album/2mdpPhNB6O4BDobUFxI7ai) | 2:25 | 2023-09-08 |  |
 | [Romance de Fin de Semana](https://open.spotify.com/track/2DevAjPcgZ3H2fzw9jYMIm) | [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy), [Antonia Navarro](https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt) | [Romance de Fin de Semana](https://open.spotify.com/album/1OYZ5cJN4YZiUq54DZDcvN) | 4:35 | 2023-09-08 |  |
 | [Se Você Quiser](https://open.spotify.com/track/0Zk7UObYCZLCLd1pqN3Gjb) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Clara x Sofia](https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0), [Breno Miranda](https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n) | [Se Você Quiser](https://open.spotify.com/album/69ULBtdTrF5BxymBScNMQK) | 2:54 | 2023-09-08 |  |
-| [Secreto a Voces](https://open.spotify.com/track/6N9vUjcRG2OPvVXSxlyT2c) | [Juan Baro](https://open.spotify.com/artist/4Qt3SF0nE9YaCDhnX2EnaI), [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy) | [Secreto a Voces](https://open.spotify.com/album/2mnjtPOAd0i4j7HkbL9ie7) | 3:51 | 2023-09-08 |  |
+| [Secreto a Voces](https://open.spotify.com/track/6N9vUjcRG2OPvVXSxlyT2c) | [Juan Baro](https://open.spotify.com/artist/4Qt3SF0nE9YaCDhnX2EnaI), [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy) | [Secreto a Voces](https://open.spotify.com/album/2mnjtPOAd0i4j7HkbL9ie7) | 3:51 | 2023-09-08 | 2023-11-30 |
 | [Sed](https://open.spotify.com/track/0tv5fCvV6pLcwstfO2zxLP) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [Mosaicos](https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC) | 2:26 | 2023-09-08 |  |
 | [SHAMPOO](https://open.spotify.com/track/5nQNuWgtRHzQXTmnrb2Ysn) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [SHAMPOO](https://open.spotify.com/album/0bu5FOI7GA1iL9vvIQFrWy) | 3:01 | 2023-09-08 |  |
 | [Shock \(feat\. Kabasaki\)](https://open.spotify.com/track/0aHZqxYvut2l9cqJ73VrpK) | [Ceaese](https://open.spotify.com/artist/580taoAhpqvyGCRoJsVdw9), [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p), [Fuka](https://open.spotify.com/artist/5TyQ1yXiSsZxrJHrL5kFmZ), [Kabasaki](https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX) | [Shock \(feat\. Kabasaki\)](https://open.spotify.com/album/3Bz8QogW92aM0p6YkXwqsp) | 2:47 | 2023-09-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 
 > The most chill instrumental oud sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,970 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,085 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 | 5 | [Mouassal](https://open.spotify.com/track/7nHhEPcoSSs9t06LdxWhFF) | [Charbel Rouhana](https://open.spotify.com/artist/544JiY0RNPRFaxnkLS3cFL), [Antoine Khalife](https://open.spotify.com/artist/1gjCKGbc7gfW3FFSiSNAld), [Imane Homsy](https://open.spotify.com/artist/3rSLFFNKHgWYbmDi1DoC5R), [Bassam Saleh](https://open.spotify.com/artist/5EqVGwu1oKl89yKKuJnbNv), [Ali El Khatib](https://open.spotify.com/artist/5yIcPZLOTa7K2XRmpMddwk), [Albert Rouhana](https://open.spotify.com/artist/71bU7HnM3LflAuhVJ2WTqt) | [Charbel Rouhana: the Art of the Middle Eastern Oud \- New Perspectives On Trad\. Maqams](https://open.spotify.com/album/3Y2Qk9BMD0Wc8qiS9fYQi6) | 1:21 |
 | 6 | [Nawwâr](https://open.spotify.com/track/70WgBnBaeDzJWxJTjgFijm) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [Asfâr](https://open.spotify.com/album/3MJ3XAgSv92V5VcZTBXYlx) | 4:39 |
 | 7 | [Vague / E la nave va](https://open.spotify.com/track/6avLwPGZvr93PaxBARH5dA) | [Anouar Brahem](https://open.spotify.com/artist/1aO9NulHwrE9pxHXFfCIoM) | [Le Voyage De Sahar](https://open.spotify.com/album/2rqw1pAaWrXmsAZFM3IUXO) | 6:19 |
-| 8 | [Cetacea](https://open.spotify.com/track/0pvwii7cZPahFOflWwsbmL) | [Amanaska](https://open.spotify.com/artist/1OVwwL5UzympXO9NrpDUuY) | [Buddha Bar \- Best Of](https://open.spotify.com/album/4yUEy000KIV0TmU7AlDGne) | 4:12 |
-| 9 | [Flamenco](https://open.spotify.com/track/2C4ksQvwsrBUH4okwq4ghL) | [Marcel Khalifa](https://open.spotify.com/artist/03O78a3lgoVCdAvUhrZwTZ) | [Concerto Al Andalus](https://open.spotify.com/album/77jCXEpGQIAYIcUAumAsc5) | 0:59 |
+| 8 | [Flamenco](https://open.spotify.com/track/2C4ksQvwsrBUH4okwq4ghL) | [Marcel Khalifa](https://open.spotify.com/artist/03O78a3lgoVCdAvUhrZwTZ) | [Concerto Al Andalus](https://open.spotify.com/album/77jCXEpGQIAYIcUAumAsc5) | 0:59 |
+| 9 | [Cetacea](https://open.spotify.com/track/0pvwii7cZPahFOflWwsbmL) | [Amanaska](https://open.spotify.com/artist/1OVwwL5UzympXO9NrpDUuY) | [Buddha Bar \- Best Of](https://open.spotify.com/album/4yUEy000KIV0TmU7AlDGne) | 4:12 |
 | 10 | [Imtinan](https://open.spotify.com/track/4LREyXwaLdFDnr14Udnqh6) | [Driss El Maloumi](https://open.spotify.com/artist/2HnfCI3Zf6r0hWwGJ8p2aB) | [Makan](https://open.spotify.com/album/0EPPt6up82A7e3bKId5s50) | 2:19 |
 | 11 | [Hal Asmar El\-Lon](https://open.spotify.com/track/1LJfErM0iTdKxp2BOM3sEA) | [Lena Chamamyan](https://open.spotify.com/artist/0LH01nWLQote2HIUL87BLc) | [The Collection](https://open.spotify.com/album/2fJ49tfoV8bE0XEQ7eQXq3) | 5:22 |
 | 12 | [Kolaymi](https://open.spotify.com/track/3tT7GisdKZYPW1suW2GVqm) | [Brian Keane](https://open.spotify.com/artist/0YF3htY87UKOd5AOQwEuPh), [Omar Faruk Tekbilek](https://open.spotify.com/artist/0PLhi5tAE8QcXnuEMui2Oe) | [Beyond The Sky](https://open.spotify.com/album/1hQroOWdQx1RXgmjIjrWtS) | 5:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 | 49 | [Faragh](https://open.spotify.com/track/3TXd9i00tDNyZYkqpDguQM) | [Hawa Dafi](https://open.spotify.com/artist/2zazWAnmtbQWG501SsqsU0) | [Our Story](https://open.spotify.com/album/1IKLROADmLfCk8eQrd8S4f) | 3:27 |
 | 50 | [Turkish Coffee](https://open.spotify.com/track/3169aUzrWTznvVupy1f20E) | [Basel Rajoub](https://open.spotify.com/artist/68rxFd814z29ByrpJtXcNp) | [Khameer](https://open.spotify.com/album/1nGR5fdDSZrUkeUrdbPxDC) | 4:24 |
 
-Snapshot ID: `MCw5MDcwZTk1ZWZiNGRkMTE4Y2JmZWNjMTkwOWRiMmNmNjczNmY4YjZh`
+Snapshot ID: `MCxkYTgxMjcyODA0NmM3MjUwZDE1Y2I2ODZlODM0MmZhOTEzYzcyODlh`

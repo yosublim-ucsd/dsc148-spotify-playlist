@@ -1,12 +1,12 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 200594,
+  "num_followers": 200617,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDkyYmM2ODIxMjgzMTMxMjA1ZWE5ZmU0ZGMyN2NkZDQzOWQwZDdj",
+  "snapshot_id": "MCw3NjE1NGRmNjllMWQwMWRkYjlmZTljZDE5MmViZWMyOTIzMWZmZDU2",
   "tracks": [
     {
       "added_at": "2023-01-31 10:01:12",
@@ -95,22 +95,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Cover Sessions, Vol. 4",
-        "url": "https://open.spotify.com/album/4GRswj5X73eFGhe6QDTRCD"
-      },
-      "artists": [
-        {
-          "name": "Boyce Avenue",
-          "url": "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
-        }
-      ],
-      "duration_ms": 216612,
-      "name": "Beautiful Soul",
-      "url": "https://open.spotify.com/track/3g61xRaqII8q1wlQDzv550"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Hills and Valleys (Deluxe Edition)",
         "url": "https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 198140,
       "name": "Known",
       "url": "https://open.spotify.com/track/1hrF6s6kfXuPv14OrD9v6X"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Cover Sessions, Vol. 4",
+        "url": "https://open.spotify.com/album/4GRswj5X73eFGhe6QDTRCD"
+      },
+      "artists": [
+        {
+          "name": "Boyce Avenue",
+          "url": "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
+        }
+      ],
+      "duration_ms": 216612,
+      "name": "Beautiful Soul",
+      "url": "https://open.spotify.com/track/3g61xRaqII8q1wlQDzv550"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "This Is Love",
-        "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
-      },
-      "artists": [
-        {
-          "name": "Stars Go Dim",
-          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
-        }
-      ],
-      "duration_ms": 191476,
-      "name": "This Is Love",
-      "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Love Me Like I Am",
         "url": "https://open.spotify.com/album/7gfQHc3E7j48nKf70PBeJR"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 184103,
       "name": "Love Me Like I Am",
       "url": "https://open.spotify.com/track/1VksnwIqgJrUEIDXVunSzt"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "This Is Love",
+        "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
+      },
+      "artists": [
+        {
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+        }
+      ],
+      "duration_ms": 191476,
+      "name": "This Is Love",
+      "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "All About Love",
-        "url": "https://open.spotify.com/album/0GtzQXs1ecJK73NsRXfXAM"
-      },
-      "artists": [
-        {
-          "name": "Steven Curtis Chapman",
-          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
-        }
-      ],
-      "duration_ms": 280866,
-      "name": "We Will Dance",
-      "url": "https://open.spotify.com/track/1vvKpTt15DT2xWA6mNcF6o"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "I Love You (Remix)",
         "url": "https://open.spotify.com/album/1VX963HeOs6HHWWm8jwxim"
       },
@@ -1063,18 +1047,18 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Wherever I Go",
-        "url": "https://open.spotify.com/album/6b7kXdycXZktv3IppejFI6"
+        "name": "All About Love",
+        "url": "https://open.spotify.com/album/0GtzQXs1ecJK73NsRXfXAM"
       },
       "artists": [
         {
-          "name": "Dan Bremnes",
-          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
+          "name": "Steven Curtis Chapman",
+          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
         }
       ],
-      "duration_ms": 178253,
-      "name": "Going Together",
-      "url": "https://open.spotify.com/track/3s1gWhwN7IFE0dxxYhrJyW"
+      "duration_ms": 280866,
+      "name": "We Will Dance",
+      "url": "https://open.spotify.com/track/1vvKpTt15DT2xWA6mNcF6o"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1095,6 +1079,22 @@
       "duration_ms": 179271,
       "name": "Without Your Love",
       "url": "https://open.spotify.com/track/3iAbaEO9MYGn2tcRxNEG8l"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Wherever I Go",
+        "url": "https://open.spotify.com/album/6b7kXdycXZktv3IppejFI6"
+      },
+      "artists": [
+        {
+          "name": "Dan Bremnes",
+          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
+        }
+      ],
+      "duration_ms": 178253,
+      "name": "Going Together",
+      "url": "https://open.spotify.com/track/3s1gWhwN7IFE0dxxYhrJyW"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Enough Already",
-        "url": "https://open.spotify.com/album/66BLSGfKnG5NnDZGiBstco"
-      },
-      "artists": [
-        {
-          "name": "Brandon Heath",
-          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
-        }
-      ],
-      "duration_ms": 191794,
-      "name": "Another Song About Love",
-      "url": "https://open.spotify.com/track/5EMZ2HoaszF9GZBMy2arss"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "'90s Kids",
         "url": "https://open.spotify.com/album/6gu7Mb2gVC5m4MOL2tFx9h"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 206987,
       "name": "Letters",
       "url": "https://open.spotify.com/track/7CcnoQ1OAwEEsa1t2MBZx8"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Enough Already",
+        "url": "https://open.spotify.com/album/66BLSGfKnG5NnDZGiBstco"
+      },
+      "artists": [
+        {
+          "name": "Brandon Heath",
+          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
+        }
+      ],
+      "duration_ms": 191794,
+      "name": "Another Song About Love",
+      "url": "https://open.spotify.com/track/5EMZ2HoaszF9GZBMy2arss"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Carry Me",
-        "url": "https://open.spotify.com/album/4xjAeY5J7q6iHlRWEF07b0"
-      },
-      "artists": [
-        {
-          "name": "Josh Wilson",
-          "url": "https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2"
-        }
-      ],
-      "duration_ms": 177658,
-      "name": "What A Mystery",
-      "url": "https://open.spotify.com/track/2FYSON92zpz3iiDAmG2IMg"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Fifteen",
         "url": "https://open.spotify.com/album/0VYa8Da3sGtLgBgv9AAejl"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 237573,
       "name": "Endlessly",
       "url": "https://open.spotify.com/track/2JeTGnTYUTdBDmIdJYAKjq"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Carry Me",
+        "url": "https://open.spotify.com/album/4xjAeY5J7q6iHlRWEF07b0"
+      },
+      "artists": [
+        {
+          "name": "Josh Wilson",
+          "url": "https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2"
+        }
+      ],
+      "duration_ms": 177658,
+      "name": "What A Mystery",
+      "url": "https://open.spotify.com/track/2FYSON92zpz3iiDAmG2IMg"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "Dear Future Husband",
+        "url": "https://open.spotify.com/album/0rO72rgU5JGTTuCjZfgrB9"
+      },
+      "artists": [
+        {
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+        }
+      ],
+      "duration_ms": 268179,
+      "name": "Dear Future Husband",
+      "url": "https://open.spotify.com/track/3gkBkVc6QhkeObBHIPpGjh"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "Easy Never Needed You",
         "url": "https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 199826,
       "name": "Love Will Never Fail (I Corinthians 13)",
       "url": "https://open.spotify.com/track/3tXcHkiprWXY3pfkkzoWUY"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "Dear Future Husband",
-        "url": "https://open.spotify.com/album/0rO72rgU5JGTTuCjZfgrB9"
-      },
-      "artists": [
-        {
-          "name": "Cecily",
-          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
-        }
-      ],
-      "duration_ms": 268179,
-      "name": "Dear Future Husband",
-      "url": "https://open.spotify.com/track/3gkBkVc6QhkeObBHIPpGjh"
     },
     {
       "added_at": "2023-01-31 10:01:12",

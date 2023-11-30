@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lVhptIYRda.md) - [plain]
 
 > Today's top country hits\. Cover: Megan Moroney
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,537,614 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,538,323 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lVhptIYRda.md) - [plain]
 | 26 | [Mamaw's House](https://open.spotify.com/track/3eNOyXmzuA46bUvi8FkIoW) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Mamaw's House](https://open.spotify.com/album/33U85sBjvKsbCsYo5DeEUa) | 3:07 |
 | 27 | [If You Were A Song](https://open.spotify.com/track/3vKAQFXRh0lkJdPuS5pclq) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [If You Were A Song](https://open.spotify.com/album/45vV4tTizW88VginnGXeJ9) | 4:19 |
 | 28 | [Let Your Boys Be Country](https://open.spotify.com/track/23bEisUvcSmIELLy4CMhkN) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Highway Desperado](https://open.spotify.com/album/2SCppOPkT7XTKBJV2XIQUw) | 3:16 |
-| 29 | [Straight and Narrow](https://open.spotify.com/track/3fonAuTvuI5KMcmnueLAPq) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Million Eyes](https://open.spotify.com/album/5jrPhnzA00KBWc3bJJUqTY) | 3:19 |
+| 29 | [Straight and Narrow](https://open.spotify.com/track/30fbAXFjj9feoB56NbLFN0) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Straight and Narrow](https://open.spotify.com/album/38SBM2jhA27kEq2SrgfS89) | 3:19 |
 | 30 | [In Your Love](https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [In Your Love](https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc) | 3:45 |
 | 31 | [Back Then Right Now](https://open.spotify.com/track/0GdZqKPBrvkpo7mk2OyHtf) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Back Then Right Now](https://open.spotify.com/album/3IQfOGGUJfBkWIgXzLaub9) | 3:21 |
 | 32 | [goodbye looks good on you \(feat\. Mitchell Tenpenny\)](https://open.spotify.com/track/2otAb5kIGdZzJCqcUHNztT) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [TWENTY SOMETHING](https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lVhptIYRda.md) - [plain]
 | 49 | [See You Next Summer](https://open.spotify.com/track/7Ez0QMtgIQ60BOHGHh3yPc) | [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ) | [See You Next Summer](https://open.spotify.com/album/5HiDygOM1Jx8Crkko9AV1y) | 2:37 |
 | 50 | [Last Rodeo](https://open.spotify.com/track/2neydrTb5GVPRHNNmW0iPP) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Last Rodeo](https://open.spotify.com/album/3BaNqBIic3TSZtXrnooYES) | 3:15 |
 
-Snapshot ID: `MCxmYjcwNjBlZGZlMDdlYmEyNTBiZTc1MTI5MzNiYjExNDIzMTA5MzZl`
+Snapshot ID: `MCxjZmYxNjk3NGEzZTczMDhjOGYyODIxMDk5M2UxOTFmNThkYzM1ZTk4`

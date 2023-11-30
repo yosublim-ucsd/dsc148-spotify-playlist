@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6nwj9J2RnE.md) - [plain]
 
 > edgy muziek met een rand uit eigen land\. cover: Naaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,017 likes - 57 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,018 likes - 57 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

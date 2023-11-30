@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 
 > Jazzy blips and blops\. Cover: berlioz
 
-[Spotify](https://open.spotify.com/user/spotify) - 564,724 likes - 200 songs - 12 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 564,750 likes - 200 songs - 12 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,7 +138,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 | 128 | [Stuck Inside](https://open.spotify.com/track/4CVqjyE6YMhKaTHccyCxXD) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Stuck Inside](https://open.spotify.com/album/4i20QhqCn7StG4RpqqAybt) | 3:33 |
 | 129 | [Agua de Jamaica](https://open.spotify.com/track/7nMwHNG2YuyhI1HOBfn7pE) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [Roberto Verástegui](https://open.spotify.com/artist/0EtZsbcbWVFSeqb6UWL0Wa) | [Agua de Jamaica](https://open.spotify.com/album/3bTbxFk7SO0ERWPVFBM5zE) | 6:17 |
 | 130 | [Tiger's Den \- Radio Edit](https://open.spotify.com/track/0CWG5wltokNkZkrgS38bxE) | [Santi & Tuğçe](https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC) | [Tiger's Den \(Radio Edit\)](https://open.spotify.com/album/2sEVJZfiIUrwkC7ejA3KpP) | 4:31 |
-| 131 | [Viper \- Card On Spokes Remix](https://open.spotify.com/track/1LnUMYEuGZMXdIjjlXv6XO) | [New Cool Collective](https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ), [Card On Spokes](https://open.spotify.com/artist/0U3iJFP70s9Z8cswLdiCIv) | [Viper \(Card On Spokes Remix\)](https://open.spotify.com/album/1X6SwF0DNYYuuj7e0NO2zs) | 4:31 |
+| 131 | [Viper \- Card On Spokes Remix](https://open.spotify.com/track/0VjoYWcUmOMkXhLF7Ae58J) | [New Cool Collective](https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ), [Card On Spokes](https://open.spotify.com/artist/0U3iJFP70s9Z8cswLdiCIv) | [YUNIKōN \(Deluxe Edition\)](https://open.spotify.com/album/7ozWefQLSgQ3nO3uDjGEJl) | 4:31 |
 | 132 | [Skybox](https://open.spotify.com/track/4gdyc5TGWtKD0N7OUtddzp) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Close Distance](https://open.spotify.com/album/1qQCFqeOfLq9LiZKGDdOp1) | 3:01 |
 | 133 | [Pinwheel](https://open.spotify.com/track/36ZQaiSc52GUIbw5YbFUHU) | [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3), [Atura](https://open.spotify.com/artist/5nn0cIrXfm1pZ7jKFFexei), [THREESIXTY](https://open.spotify.com/artist/3uCyergxu3WFt6R1qGe3V5) | [Pinwheel](https://open.spotify.com/album/1pJM4OcGvYHxAuzEm5Akmv) | 4:06 |
 | 134 | [Can We? Take A Break](https://open.spotify.com/track/74nIuOVn5UfOD0PkLTFWV9) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB) | [4 Rooms](https://open.spotify.com/album/2WTroID4vbRr1ZdVPjLevQ) | 2:44 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 | 199 | [New Dawn](https://open.spotify.com/track/4JQmAu7F8tXYA7U83HXsSk) | [Dave Okumu](https://open.spotify.com/artist/3a34v9rZzoFZ7K19NszX9F) | [New Dawn](https://open.spotify.com/album/7fTIinxT4coU1OCQUHNC7w) | 3:34 |
 | 200 | [If U Strike Me Down](https://open.spotify.com/track/2zvvOFRIBql3NfIO9hWNyk) | [Dosh](https://open.spotify.com/artist/1DLrhgKEsP9M64oMmboEPz) | [Tomorrow 1972](https://open.spotify.com/album/5iVtMJKymmpDmi0CerLAKG) | 6:11 |
 
-Snapshot ID: `MCxjNzJlNjAzNzI3OWIwNjBiY2NlZTVmMTQ5ZjIxOTBmOWIzNDU5MGY2`
+Snapshot ID: `MCw2YTJlOTllMjMyNDk0NWU5MjM5ZTM4OTQxZWJmM2Y2N2M0YzQxZDE3`

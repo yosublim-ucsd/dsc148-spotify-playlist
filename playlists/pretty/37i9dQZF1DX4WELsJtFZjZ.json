@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1980s.",
-  "num_followers": 802022,
+  "num_followers": 802531,
   "original_name": "Soft 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMmY2NWUwNzZmMDBmNTFjOTFjOThjZGU0YzVlOGE1NjY1NDBkOGRi",
+  "snapshot_id": "MCxhNmU0ZGFiMGFiNjgxNGVjNjJiZTVjZGExZGQwOTdiYzM2YzFmNWMx",
   "tracks": [
     {
       "added_at": "2023-01-24 23:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Purple Rain",
-        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 520786,
-      "name": "Purple Rain",
-      "url": "https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Chicago 17 (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/1ICKrl6sDjJD1YdR9VDfPR"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 229240,
       "name": "You're the Inspiration - 2006 Remaster",
       "url": "https://open.spotify.com/track/36lkJSDyMEZoWTqtRj8Q8q"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 520786,
+      "name": "Purple Rain",
+      "url": "https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Alannah Myles",
-        "url": "https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv"
-      },
-      "artists": [
-        {
-          "name": "Alannah Myles",
-          "url": "https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj"
-        }
-      ],
-      "duration_ms": 287440,
-      "name": "Black Velvet",
-      "url": "https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "4 (Expanded)",
         "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
       },
@@ -735,18 +719,18 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Lost in Love",
-        "url": "https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW"
+        "name": "Alannah Myles",
+        "url": "https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv"
       },
       "artists": [
         {
-          "name": "Air Supply",
-          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
+          "name": "Alannah Myles",
+          "url": "https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj"
         }
       ],
-      "duration_ms": 243000,
-      "name": "All Out of Love",
-      "url": "https://open.spotify.com/track/7dQC53NiYOY9gKg3Qsu2Bs"
+      "duration_ms": 287440,
+      "name": "Black Velvet",
+      "url": "https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -763,6 +747,22 @@
       "duration_ms": 276280,
       "name": "Eye In The Sky",
       "url": "https://open.spotify.com/track/39qYD4J4BKvZMQgxfXl5bv"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Lost in Love",
+        "url": "https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW"
+      },
+      "artists": [
+        {
+          "name": "Air Supply",
+          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "All Out of Love",
+      "url": "https://open.spotify.com/track/7dQC53NiYOY9gKg3Qsu2Bs"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "Greatest Hits 1985-1995",
+        "url": "https://open.spotify.com/album/5bOhnWhieBJGivUovmtob5"
+      },
+      "artists": [
+        {
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+        }
+      ],
+      "duration_ms": 219293,
+      "name": "Alone - Remastered",
+      "url": "https://open.spotify.com/track/0h17TpfCKbbib1J37Qgj7r"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "Welcome To The Real World",
         "url": "https://open.spotify.com/album/682sQ449vmcJXS2AGIMrsl"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 285333,
       "name": "I Guess That's Why They Call It The Blues",
       "url": "https://open.spotify.com/track/23l1kVpqMVREiwU1YAlcr4"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "Greatest Hits 1985-1995",
-        "url": "https://open.spotify.com/album/5bOhnWhieBJGivUovmtob5"
-      },
-      "artists": [
-        {
-          "name": "Heart",
-          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
-        }
-      ],
-      "duration_ms": 219293,
-      "name": "Alone - Remastered",
-      "url": "https://open.spotify.com/track/0h17TpfCKbbib1J37Qgj7r"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Thriller",
-        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 246040,
-      "name": "Human Nature",
-      "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "We Are The World",
         "url": "https://open.spotify.com/album/2O6gXGWFJcNrLYAqDINrDa"
       },
@@ -1355,6 +1339,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 246040,
+      "name": "Human Nature",
+      "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "Heartbeat City",
         "url": "https://open.spotify.com/album/5ycnwHGkzOlTuMOI3Zh4iO"
       },
@@ -1367,6 +1367,22 @@
       "duration_ms": 234493,
       "name": "Drive",
       "url": "https://open.spotify.com/track/3wfujdbamR3Z46F4xav7LM"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Learning to Crawl (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3"
+      },
+      "artists": [
+        {
+          "name": "Pretenders",
+          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+        }
+      ],
+      "duration_ms": 220426,
+      "name": "2000 Miles - 2007 Remaster",
+      "url": "https://open.spotify.com/track/5wTM2Bm8phDwHAuOsfBwhU"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1403,22 +1419,6 @@
       "duration_ms": 234560,
       "name": "We've Got Tonight",
       "url": "https://open.spotify.com/track/5vXsj8L4DK1gGQ43BBG028"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "Learning to Crawl (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3"
-      },
-      "artists": [
-        {
-          "name": "Pretenders",
-          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
-        }
-      ],
-      "duration_ms": 220426,
-      "name": "2000 Miles - 2007 Remaster",
-      "url": "https://open.spotify.com/track/5wTM2Bm8phDwHAuOsfBwhU"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Bad 25th Anniversary",
-        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 318680,
-      "name": "Man in the Mirror - 2012 Remaster",
-      "url": "https://open.spotify.com/track/1kiNatIrwDusOZfR29W0LJ"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Once Upon A Time (Super Deluxe)",
         "url": "https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 289453,
       "name": "Alive And Kicking",
       "url": "https://open.spotify.com/track/2x5IXUFOcvvBUtEpnCBNlp"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Bad 25th Anniversary",
+        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 318680,
+      "name": "Man in the Mirror - 2012 Remaster",
+      "url": "https://open.spotify.com/track/1kiNatIrwDusOZfR29W0LJ"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "Heart",
+        "url": "https://open.spotify.com/album/0zM8rTVzPoT7SD4ZMds430"
+      },
+      "artists": [
+        {
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+        }
+      ],
+      "duration_ms": 254476,
+      "name": "These Dreams",
+      "url": "https://open.spotify.com/track/22wWxHGHRH8gZXNDXRgSqY"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "Cry Like a Rainstorm Howl Like the Wind (feat. Aaron Neville)",
         "url": "https://open.spotify.com/album/3f8tUCF1ThwqtNdifZiExM"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 211973,
       "name": "Don't Know Much (with Aaron Neville)",
       "url": "https://open.spotify.com/track/5z3ZDMP02xF33yCvPFnct3"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "Heart",
-        "url": "https://open.spotify.com/album/0zM8rTVzPoT7SD4ZMds430"
-      },
-      "artists": [
-        {
-          "name": "Heart",
-          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
-        }
-      ],
-      "duration_ms": 254476,
-      "name": "These Dreams",
-      "url": "https://open.spotify.com/track/22wWxHGHRH8gZXNDXRgSqY"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "Human Racing",
+        "url": "https://open.spotify.com/album/5cl4eOKYrrX0pcFFnEieYR"
+      },
+      "artists": [
+        {
+          "name": "Nik Kershaw",
+          "url": "https://open.spotify.com/artist/7kCL98rPFsNKjAHDmWrMac"
+        }
+      ],
+      "duration_ms": 277053,
+      "name": "Wouldn't It Be Good",
+      "url": "https://open.spotify.com/track/00FDHurakzVEiPutdUxXXq"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "Thriller",
         "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 222333,
       "name": "The Girl Is Mine (with Paul McCartney)",
       "url": "https://open.spotify.com/track/4IT6vDuKprKl6jyVndlY8V"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "Human Racing",
-        "url": "https://open.spotify.com/album/5cl4eOKYrrX0pcFFnEieYR"
-      },
-      "artists": [
-        {
-          "name": "Nik Kershaw",
-          "url": "https://open.spotify.com/artist/7kCL98rPFsNKjAHDmWrMac"
-        }
-      ],
-      "duration_ms": 277053,
-      "name": "Wouldn't It Be Good",
-      "url": "https://open.spotify.com/track/00FDHurakzVEiPutdUxXXq"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2123,6 +2123,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "Juice",
+        "url": "https://open.spotify.com/album/13TOuCZy3QU2Tt1llKPUqc"
+      },
+      "artists": [
+        {
+          "name": "Juice Newton",
+          "url": "https://open.spotify.com/artist/4L1z1IcfK7lbqx8izGHaw5"
+        }
+      ],
+      "duration_ms": 250440,
+      "name": "Angel Of The Morning",
+      "url": "https://open.spotify.com/track/11y8GSP2ASv8S9n0FiiDva"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "The Spy Who Loved Me",
         "url": "https://open.spotify.com/album/5k55f89cnXdy0BikkUeBHJ"
       },
@@ -2139,22 +2155,6 @@
       "duration_ms": 212666,
       "name": "Nobody Does It Better",
       "url": "https://open.spotify.com/track/49RUdNvwSiUTC8fBh4KKoC"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "Juice",
-        "url": "https://open.spotify.com/album/13TOuCZy3QU2Tt1llKPUqc"
-      },
-      "artists": [
-        {
-          "name": "Juice Newton",
-          "url": "https://open.spotify.com/artist/4L1z1IcfK7lbqx8izGHaw5"
-        }
-      ],
-      "duration_ms": 250440,
-      "name": "Angel Of The Morning",
-      "url": "https://open.spotify.com/track/11y8GSP2ASv8S9n0FiiDva"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2239,22 +2239,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Sergio Mendes",
-        "url": "https://open.spotify.com/album/3MWjLK7oyJStLWqQmdDJfU"
-      },
-      "artists": [
-        {
-          "name": "S\u00e9rgio Mendes",
-          "url": "https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7"
-        }
-      ],
-      "duration_ms": 255600,
-      "name": "Never Gonna Let You Go",
-      "url": "https://open.spotify.com/track/5u8bqfaYSh0qVTsgslPknf"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "The Sensual World (2018 Remaster)",
         "url": "https://open.spotify.com/album/5EyDvOit9McsAc9ao1QROt"
       },
@@ -2267,6 +2251,22 @@
       "duration_ms": 216306,
       "name": "This Woman's Work - 2018 Remaster",
       "url": "https://open.spotify.com/track/7ijKen7rccf56qOMGkS22e"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Sergio Mendes",
+        "url": "https://open.spotify.com/album/3MWjLK7oyJStLWqQmdDJfU"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9rgio Mendes",
+          "url": "https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7"
+        }
+      ],
+      "duration_ms": 255600,
+      "name": "Never Gonna Let You Go",
+      "url": "https://open.spotify.com/track/5u8bqfaYSh0qVTsgslPknf"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2351,22 +2351,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Can't Slow Down",
-        "url": "https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "Stuck On You",
-      "url": "https://open.spotify.com/track/0ROwoz82DIW4tOzkxYnSjf"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Best of Bish",
         "url": "https://open.spotify.com/album/3jONwbdCWOJf9uqUBHXvhj"
       },
@@ -2379,6 +2363,22 @@
       "duration_ms": 258901,
       "name": "It Might Be You",
       "url": "https://open.spotify.com/track/2Qmx8W62PEz88T7cGjHDug"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Can't Slow Down",
+        "url": "https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/0ROwoz82DIW4tOzkxYnSjf"
     },
     {
       "added_at": "2023-01-24 23:00:00",

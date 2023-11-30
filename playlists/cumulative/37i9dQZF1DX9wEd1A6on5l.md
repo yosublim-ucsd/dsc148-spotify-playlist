@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-323 songs - 15 hr 49 min
+324 songs - 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Cough \(Odo\)](https://open.spotify.com/track/0u2A4QNAMUyfQbgfVR3HvK) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [EMPIRE](https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD) | [Cough \(Odo\)](https://open.spotify.com/album/3j33Z0rLryDGCZFRhppoZq) | 2:56 | 2022-10-13 | 2023-09-28 |
 | [D O D O \- Adekunle Gold Version](https://open.spotify.com/track/5F9F0SxcAM9bCVyi00tL0W) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [D O D O \(Adekunle Gold Version\)](https://open.spotify.com/album/49s1JEe2mCLJMAVtMplzJo) | 2:59 | 2022-06-09 | 2022-12-29 |
 | [Dada](https://open.spotify.com/track/6SLhDU3r8FLmESRyWZypjT) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Dada](https://open.spotify.com/album/0ogWb5mN0ZG6U1aMX7r4ai) | 2:41 | 2022-06-09 | 2023-03-20 |
-| [Dada \(feat\. Davido\) \[Remix\]](https://open.spotify.com/track/2IBrgYf3Hjw16c6oNwkZ9M) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Dada \(feat\. Davido\) \[Remix\]](https://open.spotify.com/album/0tqiftjjP81odLWXCrhmUD) | 2:57 | 2022-06-09 |  |
+| [Dada \(feat\. Davido\) \[Remix\]](https://open.spotify.com/track/2IBrgYf3Hjw16c6oNwkZ9M) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Dada \(feat\. Davido\) \[Remix\]](https://open.spotify.com/album/0tqiftjjP81odLWXCrhmUD) | 2:57 | 2022-06-09 | 2023-11-30 |
 | [Dagger](https://open.spotify.com/track/7BO9zcAuosnSwmSsXrgiw5) | [Senth](https://open.spotify.com/artist/0ZMEdbOY3ADh3qbia7kH2b) | [Dagger](https://open.spotify.com/album/5V3eRSdrs84Usrd1XAy39p) | 2:17 | 2023-02-11 | 2023-02-17 |
 | [Danger](https://open.spotify.com/track/7aeIvptSeWBdtuPyyjM3wM) | [Terri](https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto) | [Danger](https://open.spotify.com/album/2mDEg7Kh7jjaypZ5WxBxNo) | 2:37 | 2022-06-09 | 2022-10-04 |
 | [DECLAN RICE](https://open.spotify.com/track/0QdQh3umB7stVOExuHlWvl) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 2:04 | 2023-10-13 | 2023-10-20 |
@@ -132,6 +132,7 @@
 | [GIN & JUICE](https://open.spotify.com/track/2ep6Y3iyiI8wcoNWdt6vSf) | [TMXO](https://open.spotify.com/artist/4SwLuQAfzvjEuIx6SVwWZP) | [TMX002: X & The Machine.](https://open.spotify.com/album/5u2601naE6IiDYi7C8JBtO) | 3:21 | 2023-07-28 | 2023-08-11 |
 | [Girl Next Door](https://open.spotify.com/track/000N4CJL8IjQ0f2I4grgBO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Girl Next Door](https://open.spotify.com/album/1FLS0YAOPY3Mcb0o5n5fl4) | 3:00 | 2023-05-11 | 2023-09-28 |
 | [Girlfriend](https://open.spotify.com/track/4MzOppXoeKvDsVaNMeOK3C) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [The Second Wave Deluxe](https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y) | 3:16 | 2022-06-16 | 2023-09-28 |
+| [Go Hard](https://open.spotify.com/track/2GWkO5XkrxGJJWrKxLLRjA) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Disconnect + Go Hard](https://open.spotify.com/album/56TPH8hCFhV8jJr0vxeSvu) | 2:33 | 2023-11-28 |  |
 | [Goat](https://open.spotify.com/track/0jl64IvfpHeD6fzlbVzbP4) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Pheelz](https://open.spotify.com/artist/5ko0eyyi8zdgUYN1wqxifi), [Ma Gang Official](https://open.spotify.com/artist/6oorjOsgeEP2V4gSOFoZHB) | [Mr Big Flexa](https://open.spotify.com/album/07j3fUJnSnzzqV55ENfa6Z) | 4:10 | 2022-11-15 | 2022-12-03 |
 | [Goodbye](https://open.spotify.com/track/6tFDS5LKWQbUFm0vZrhmvO) | [Shilexy](https://open.spotify.com/artist/7syExwVSn7jcM9VWQNU33d), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Goodbye](https://open.spotify.com/album/11Um6mbX3Mi0syR6IpDKqm) | 3:06 | 2023-02-24 | 2023-03-04 |
 | [Guy Man](https://open.spotify.com/track/6eE4ecWXq8Ijh8DYyJQ57s) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Guy Man](https://open.spotify.com/album/7Ef71u8NNLYzlRhKC6PwuD) | 2:46 | 2023-06-16 | 2023-08-11 |

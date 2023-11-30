@@ -1,12 +1,12 @@
 {
   "description": "Entspannung pur oder viel los? Hier findest du die passenden Beats f\u00fcr deine Pl\u00e4ne!",
-  "num_followers": 496378,
+  "num_followers": 496365,
   "original_name": "Wochenende",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OWI2ZWEwNDY0MTg3MmZkYTg4ZDBkYzAzOTJkODg5MjZmYTk2M2M3",
+  "snapshot_id": "MCwyYTgxNjIyZWRiMzU1NTBmNWFjMjU3MDgzMDEyN2Q1OTAxMjNiMGU3",
   "tracks": [
     {
       "added_at": "2023-11-17 11:10:58",
@@ -131,6 +131,42 @@
     {
       "added_at": "2023-11-17 11:10:58",
       "album": {
+        "name": "Call It Love",
+        "url": "https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Ray Dalton",
+          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
+        }
+      ],
+      "duration_ms": 154560,
+      "name": "Call It Love",
+      "url": "https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B"
+    },
+    {
+      "added_at": "2023-11-17 11:10:58",
+      "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 185917,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
+    },
+    {
+      "added_at": "2023-11-17 11:10:58",
+      "album": {
         "name": "Rock My Body (with INNA & Sash!)",
         "url": "https://open.spotify.com/album/1ItxfUvQVlH7sAybyJ1SpB"
       },
@@ -155,18 +191,22 @@
     {
       "added_at": "2023-11-17 11:10:58",
       "album": {
-        "name": "Houdini",
-        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
+        "name": "10:35",
+        "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 185917,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
+      "duration_ms": 172252,
+      "name": "10:35",
+      "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
     },
     {
       "added_at": "2023-11-17 11:10:58",
@@ -195,46 +235,6 @@
       "duration_ms": 148629,
       "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
       "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
-    },
-    {
-      "added_at": "2023-11-17 11:10:58",
-      "album": {
-        "name": "10:35",
-        "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 172252,
-      "name": "10:35",
-      "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
-    },
-    {
-      "added_at": "2023-11-17 11:10:58",
-      "album": {
-        "name": "Call It Love",
-        "url": "https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn"
-      },
-      "artists": [
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "Ray Dalton",
-          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
-        }
-      ],
-      "duration_ms": 154560,
-      "name": "Call It Love",
-      "url": "https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B"
     },
     {
       "added_at": "2023-11-17 11:10:58",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-11-17 11:10:58",
       "album": {
+        "name": "Tension (Deluxe)",
+        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 166266,
+      "name": "Padam Padam",
+      "url": "https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5"
+    },
+    {
+      "added_at": "2023-11-17 11:10:58",
+      "album": {
         "name": "Creep",
         "url": "https://open.spotify.com/album/1JQOUrnGO8cW4ozVKAIbID"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 141027,
       "name": "Delilah",
       "url": "https://open.spotify.com/track/60O0CjviBowszlKb9R4Xjm"
-    },
-    {
-      "added_at": "2023-11-17 11:10:58",
-      "album": {
-        "name": "Tension (Deluxe)",
-        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 166266,
-      "name": "Padam Padam",
-      "url": "https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5"
     },
     {
       "added_at": "2023-11-17 11:10:58",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-11-17 11:10:58",
       "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/4L7JQYnj8oGhI4OfdQjFjv"
-      },
-      "artists": [
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
-        }
-      ],
-      "duration_ms": 196224,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/09rcsC6M15EZPbCVmrqUYK"
-    },
-    {
-      "added_at": "2023-11-17 11:10:58",
-      "album": {
         "name": "HOV (Remix)",
         "url": "https://open.spotify.com/album/0Jum44gDjXoH6BHixA5azg"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 166442,
       "name": "HOV - Remix",
       "url": "https://open.spotify.com/track/35kDv86L9VuUoj29YTHmE6"
+    },
+    {
+      "added_at": "2023-11-17 11:10:58",
+      "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/4L7JQYnj8oGhI4OfdQjFjv"
+      },
+      "artists": [
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        }
+      ],
+      "duration_ms": 196224,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/09rcsC6M15EZPbCVmrqUYK"
     },
     {
       "added_at": "2023-11-17 11:10:58",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2023-11-17 11:10:58",
       "album": {
-        "name": "Dirty Dancing",
-        "url": "https://open.spotify.com/album/0nB12E14XrqbxtbteLPuEo"
-      },
-      "artists": [
-        {
-          "name": "Glockenbach",
-          "url": "https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i"
-        },
-        {
-          "name": "\u00c1SD\u00cdS",
-          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
-        }
-      ],
-      "duration_ms": 160842,
-      "name": "Dirty Dancing",
-      "url": "https://open.spotify.com/track/464F2a58LTaitVUFKvEm1J"
-    },
-    {
-      "added_at": "2023-11-17 11:10:58",
-      "album": {
         "name": "Boots",
         "url": "https://open.spotify.com/album/2DbkReYC72KnO92dAL8V0Z"
       },
@@ -1335,18 +1315,22 @@
     {
       "added_at": "2023-11-17 11:10:58",
       "album": {
-        "name": "Sweet Goodbye",
-        "url": "https://open.spotify.com/album/7mRbem2BY4VVK4fUUjQqzo"
+        "name": "Dirty Dancing",
+        "url": "https://open.spotify.com/album/0nB12E14XrqbxtbteLPuEo"
       },
       "artists": [
         {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          "name": "Glockenbach",
+          "url": "https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i"
+        },
+        {
+          "name": "\u00c1SD\u00cdS",
+          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
         }
       ],
-      "duration_ms": 157619,
-      "name": "Sweet Goodbye",
-      "url": "https://open.spotify.com/track/3s32YmunFgfXVWgLRKLdKm"
+      "duration_ms": 160842,
+      "name": "Dirty Dancing",
+      "url": "https://open.spotify.com/track/464F2a58LTaitVUFKvEm1J"
     },
     {
       "added_at": "2023-11-17 11:10:58",
@@ -1363,6 +1347,22 @@
       "duration_ms": 170928,
       "name": "Angel Eyes",
       "url": "https://open.spotify.com/track/5NId2tRxupzFAOPsRDfCxY"
+    },
+    {
+      "added_at": "2023-11-17 11:10:58",
+      "album": {
+        "name": "Sweet Goodbye",
+        "url": "https://open.spotify.com/album/7mRbem2BY4VVK4fUUjQqzo"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 157619,
+      "name": "Sweet Goodbye",
+      "url": "https://open.spotify.com/track/3s32YmunFgfXVWgLRKLdKm"
     },
     {
       "added_at": "2023-11-17 11:10:58",

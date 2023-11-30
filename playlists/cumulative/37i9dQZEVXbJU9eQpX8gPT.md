@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-1,256 songs - 2 day 21 hr 11 min
+1,257 songs - 2 day 21 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -996,7 +996,7 @@
 | [Search & Rescue](https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Search & Rescue](https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW) | 4:32 | 2023-04-08 | 2023-04-13 |
 | [Sebyan](https://open.spotify.com/track/60apwPsgBtySOwFxnEbu4h) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Jackpot](https://open.spotify.com/album/7rMHyH52FqtVSeMmBRUXDd) | 3:06 | 2021-08-01 | 2021-09-05 |
 | [Set Me Free Pt.2](https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Set Me Free Pt.2](https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz) | 3:20 | 2023-03-18 | 2023-04-21 |
-| [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:03 | 2023-11-04 | 2023-11-27 |
+| [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:03 | 2023-11-04 |  |
 | [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 | 2023-07-15 | 2023-11-05 |
 | [SEYA](https://open.spotify.com/track/6JI15EdgbGuhUjm4tWyIco) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv) | [LES DERNIÈRES VOLONTÉS DE MOZART \(SYMPHONY\)](https://open.spotify.com/album/3zIRFFMBelYsHN0ksstyWU) | 3:08 | 2023-10-13 |  |
 | [Sfina](https://open.spotify.com/track/3LpN2cysYRb35wZmGmCyjR) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Sfina](https://open.spotify.com/album/23dQw5Xou7F6y3GGWAgZPS) | 3:30 | 2021-12-14 | 2022-02-11 |
@@ -1008,7 +1008,7 @@
 | [show me](https://open.spotify.com/track/5JjD1kyv7GW3AYXyBHJ846) | [ilham](https://open.spotify.com/artist/0r7PsZB4ePA6vHrW4agoGN) | [ilham](https://open.spotify.com/album/7mQl8hYhPUwtdyB4jwyO1w) | 3:05 | 2022-10-09 | 2022-10-11 |
 | [Shut Down](https://open.spotify.com/track/7gRFDGEzF9UkBV233yv2dc) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 2:55 | 2022-09-17 | 2022-09-28 |
 | [Si No Estás](https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Si No Estás](https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW) | 3:04 | 2023-10-14 |  |
-| [Si tu savais](https://open.spotify.com/track/2XoeD3lix5eVNEa40ZFtHW) | [Anys](https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Si tu savais](https://open.spotify.com/album/4eJ1pf1NnVRxCUu2sgasiC) | 3:12 | 2023-01-28 |  |
+| [Si tu savais](https://open.spotify.com/track/2XoeD3lix5eVNEa40ZFtHW) | [Anys](https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Si tu savais](https://open.spotify.com/album/4eJ1pf1NnVRxCUu2sgasiC) | 3:12 | 2023-01-28 | 2023-11-30 |
 | [Siba](https://open.spotify.com/track/2uqByr5b5Aci3ZQsAlMKN9) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl) | [٤in \(Act 4\)](https://open.spotify.com/album/6MkkXPfbn9JhriUgIzFfIV) | 3:54 | 2022-12-23 | 2022-12-29 |
 | [Sid Lghram](https://open.spotify.com/track/2b8Pq6m3rGXd7muyBjTh1G) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl), [Asma Lmnawar](https://open.spotify.com/artist/3P3OCB20KqjdkpIP8fnTq3) | [Sid Lghram](https://open.spotify.com/album/57LencHPTBtLmvICFiOwB6) | 3:56 | 2023-01-02 | 2023-02-01 |
 | [Sigue](https://open.spotify.com/track/63ZedTAVRCICh2CNLWnsPZ) | [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [K y B](https://open.spotify.com/artist/1enXMVomlMi88CZFYL1m2f) | [Capítulo 1](https://open.spotify.com/album/0jps45S3BLg0ObqAyboGVb) | 3:31 | 2022-08-09 | 2023-09-04 |
@@ -1022,7 +1022,7 @@
 | [SKITZO](https://open.spotify.com/track/0bkV1iQHSxBaksUqgEkcbc) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 6:06 | 2023-07-29 | 2023-07-31 |
 | [Sky Priority](https://open.spotify.com/track/6ItXr7qOXzK6KlhTbUu6hp) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 2:49 | 2021-12-05 | 2021-12-12 |
 | [Slime You Out \(feat\. SZA\)](https://open.spotify.com/track/3RaCGXCiiMufRPoexXxGkV) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Slime You Out](https://open.spotify.com/album/4DjJtllSDzVDBf7PYtsHaT) | 5:10 | 2023-09-17 | 2023-10-09 |
-| [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 | 2023-09-09 |  |
+| [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 | 2023-09-09 | 2023-11-30 |
 | [Slow Dancing \(Piano Ver.\)](https://open.spotify.com/track/7pgbDdy7ax962o9d2xJceV) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:08 | 2023-09-09 | 2023-09-17 |
 | [Slowmo](https://open.spotify.com/track/1CMO90rRzcZSUJ7U0oi1qX) | [Chaos333](https://open.spotify.com/artist/1fP5b7OUxcCkbhUX3yKVzE) | [Slowmo](https://open.spotify.com/album/3m9DSWdlZOQmu4PBJ6qCah) | 3:00 | 2022-03-24 | 2022-03-28 |
 | [SME3NI](https://open.spotify.com/track/5ovEmtHmbmWmmN1jeoJAyP) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [SME3NI](https://open.spotify.com/album/1rkTH3xM85MYdRXI9FDRGb) | 3:02 | 2023-02-06 | 2023-11-28 |
@@ -1236,6 +1236,7 @@
 | [Yours](https://open.spotify.com/track/10IfXtjKQmOiON7tNAHv0y) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Jirisan \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/2FUiBNFWz47sBPEf3Dcma4) | 4:24 | 2021-11-09 | 2022-05-04 |
 | [YSL](https://open.spotify.com/track/3u2dEwgpdqfAPgSXBpfgpY) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 3:38 | 2021-12-05 | 2021-12-06 |
 | [Zahri](https://open.spotify.com/track/7tbdg8jBXvkdqo1LiuKZ2l) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Arabi](https://open.spotify.com/album/5BYolD1SiHzv16i7sqxhAX) | 3:20 | 2021-03-27\* | 2022-03-12 |
+| [ZANDA](https://open.spotify.com/track/1n8YdvsqgIMMYRnQ6SmScD) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [ZANDA](https://open.spotify.com/album/2trmvgEuBnQXHDruoZo4V6) | 3:07 | 2023-11-29 |  |
 | [Zarzour](https://open.spotify.com/track/7t4XOS9MpF1pC0OBLnMiDy) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Zarzour](https://open.spotify.com/album/49KXJUuZOIXZSi79qEP1Pe) | 3:19 | 2023-06-23 |  |
 | [Zehwani](https://open.spotify.com/track/4tpYFbZhhVAFAFqKyty5oA) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Polygamie](https://open.spotify.com/album/29naWP00flAdzNNi60yohv) | 3:06 | 2022-01-29 | 2022-02-02 |
 | [Zest](https://open.spotify.com/track/2fx7NwHSBNHXTq4p2SVY0h) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Gala](https://open.spotify.com/album/5thNlwr5FFcXWjtZAlfRH0) | 3:01 | 2022-05-07 | 2022-05-29 |

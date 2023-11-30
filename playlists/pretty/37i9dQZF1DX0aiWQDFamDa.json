@@ -1,12 +1,12 @@
 {
   "description": "Sad and gloomy instrumental Jazz.",
-  "num_followers": 45551,
+  "num_followers": 45595,
   "original_name": "Sad Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZWNlOGM5YmRmZjFhMmZiZTQ1Y2E4ZDI1Nzk4YjBlNTUzMTY4ZTNi",
+  "snapshot_id": "MCwxOTAwNDg1MjdhNDhlMTU3MWJiN2I3Y2FkZWM2NDljYWZlOGVjY2U3",
   "tracks": [
     {
       "added_at": "2023-11-17 00:01:00",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/06JPE7P2u5IcjjNKdBeHee"
+      },
+      "artists": [
+        {
+          "name": "Geeder",
+          "url": "https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1"
+        }
+      ],
+      "duration_ms": 225946,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/6Ps13ExvILGA2dYxhNCXG7"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Red Garland's Piano",
         "url": "https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 588840,
       "name": "Please Send Me Someone To Love",
       "url": "https://open.spotify.com/track/6j0mXItB7viXXjB98l3Kwy"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/06JPE7P2u5IcjjNKdBeHee"
-      },
-      "artists": [
-        {
-          "name": "Geeder",
-          "url": "https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1"
-        }
-      ],
-      "duration_ms": 225946,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/6Ps13ExvILGA2dYxhNCXG7"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Withered Flowers",
-        "url": "https://open.spotify.com/album/4BD6urLBwmiEkvlb5R56qU"
-      },
-      "artists": [
-        {
-          "name": "Eddie Harper",
-          "url": "https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Withered Flowers",
-      "url": "https://open.spotify.com/track/7zu57iXTCngCECQrUNVLSN"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "the point above",
         "url": "https://open.spotify.com/album/7EeqlvrMoFYDZjWh1jDyuu"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 168615,
       "name": "the point above",
       "url": "https://open.spotify.com/track/27j2QBudHBt7AYWjCpcnEa"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Withered Flowers",
+        "url": "https://open.spotify.com/album/4BD6urLBwmiEkvlb5R56qU"
+      },
+      "artists": [
+        {
+          "name": "Eddie Harper",
+          "url": "https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Withered Flowers",
+      "url": "https://open.spotify.com/track/7zu57iXTCngCECQrUNVLSN"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -571,18 +571,18 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Waveless Sea",
-        "url": "https://open.spotify.com/album/0y5GVPzc0TspKuOMa8qF3s"
+        "name": "Sleeted Streets",
+        "url": "https://open.spotify.com/album/2lS8BnBmFMczWJ6WrjPAoK"
       },
       "artists": [
         {
-          "name": "Mitch Coleman",
-          "url": "https://open.spotify.com/artist/5YyVZ8kxK9sRVEg1pBh1PV"
+          "name": "Eduard Landings",
+          "url": "https://open.spotify.com/artist/6SF8oe9fw9X65MbLwQfkau"
         }
       ],
-      "duration_ms": 239440,
-      "name": "Waveless Sea",
-      "url": "https://open.spotify.com/track/3U2J9LyloQzn8bTdc3BfF6"
+      "duration_ms": 224776,
+      "name": "Sleeted Streets",
+      "url": "https://open.spotify.com/track/4dX9jhmfLWYYmb1NQ5SCgN"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "Waveless Sea",
+        "url": "https://open.spotify.com/album/0y5GVPzc0TspKuOMa8qF3s"
+      },
+      "artists": [
+        {
+          "name": "Mitch Coleman",
+          "url": "https://open.spotify.com/artist/5YyVZ8kxK9sRVEg1pBh1PV"
+        }
+      ],
+      "duration_ms": 239440,
+      "name": "Waveless Sea",
+      "url": "https://open.spotify.com/track/3U2J9LyloQzn8bTdc3BfF6"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Ballads (Deluxe Edition - Rudy Van Gelder Remaster)",
         "url": "https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 311560,
       "name": "You Don't Know What Love Is",
       "url": "https://open.spotify.com/track/3gKYq33uHC0FKHp8V7yzFi"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Sleeted Streets",
-        "url": "https://open.spotify.com/album/2lS8BnBmFMczWJ6WrjPAoK"
-      },
-      "artists": [
-        {
-          "name": "Eduard Landings",
-          "url": "https://open.spotify.com/artist/6SF8oe9fw9X65MbLwQfkau"
-        }
-      ],
-      "duration_ms": 224776,
-      "name": "Sleeted Streets",
-      "url": "https://open.spotify.com/track/4dX9jhmfLWYYmb1NQ5SCgN"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -747,6 +747,30 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "Everything I Love",
+        "url": "https://open.spotify.com/album/6dXuEdo9u0rM102nuJcf4p"
+      },
+      "artists": [
+        {
+          "name": "Copenhagen Jazzexperience",
+          "url": "https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo"
+        },
+        {
+          "name": "Jacob Christoffersen",
+          "url": "https://open.spotify.com/artist/3ljK3UprmcWotHs686486V"
+        },
+        {
+          "name": "Claus Waidtl\u00f8w",
+          "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
+        }
+      ],
+      "duration_ms": 323184,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/2LHIAzCOGGrtcVS9PRcx3n"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Gnostic",
         "url": "https://open.spotify.com/album/0pTBuVSX0MBAGvVwnpTyis"
       },
@@ -835,30 +859,6 @@
       "duration_ms": 367693,
       "name": "Here's That Rainy Day",
       "url": "https://open.spotify.com/track/1m0dIj1PvGldkiwJUYzc1l"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Everything I Love",
-        "url": "https://open.spotify.com/album/6dXuEdo9u0rM102nuJcf4p"
-      },
-      "artists": [
-        {
-          "name": "Copenhagen Jazzexperience",
-          "url": "https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo"
-        },
-        {
-          "name": "Jacob Christoffersen",
-          "url": "https://open.spotify.com/artist/3ljK3UprmcWotHs686486V"
-        },
-        {
-          "name": "Claus Waidtl\u00f8w",
-          "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
-        }
-      ],
-      "duration_ms": 323184,
-      "name": "Never Let Me Go",
-      "url": "https://open.spotify.com/track/2LHIAzCOGGrtcVS9PRcx3n"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "Anyone Can Dream",
+        "url": "https://open.spotify.com/album/773JrMS5ndOwtXxSss6u2m"
+      },
+      "artists": [
+        {
+          "name": "James Jackson Jazz Trio",
+          "url": "https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ"
+        }
+      ],
+      "duration_ms": 192394,
+      "name": "Winter in Munich",
+      "url": "https://open.spotify.com/track/3b9UgzMQmT1DZGgoHNtLTq"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Late Night Jazz (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4R3CM1E0eEgn4RVAz7ve64"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 329920,
       "name": "Skylark",
       "url": "https://open.spotify.com/track/2FRxAg2NEodIJdCoFqVzv0"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Anyone Can Dream",
-        "url": "https://open.spotify.com/album/773JrMS5ndOwtXxSss6u2m"
-      },
-      "artists": [
-        {
-          "name": "James Jackson Jazz Trio",
-          "url": "https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ"
-        }
-      ],
-      "duration_ms": 192394,
-      "name": "Winter in Munich",
-      "url": "https://open.spotify.com/track/3b9UgzMQmT1DZGgoHNtLTq"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "I wish I did",
-        "url": "https://open.spotify.com/album/1TO02dKaeGtMBXDHlUiwjA"
-      },
-      "artists": [
-        {
-          "name": "The Three Queens",
-          "url": "https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h"
-        }
-      ],
-      "duration_ms": 203175,
-      "name": "I wish I did",
-      "url": "https://open.spotify.com/track/44AchFNfZR9RsnGz76s05b"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Une Histoire Flamande",
         "url": "https://open.spotify.com/album/5FgTkk5OWzO0vyWiZHANLZ"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 206490,
       "name": "Une Histoire Flamande",
       "url": "https://open.spotify.com/track/0gbrsvaa2jjGBPaDCjBaIw"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "I wish I did",
+        "url": "https://open.spotify.com/album/1TO02dKaeGtMBXDHlUiwjA"
+      },
+      "artists": [
+        {
+          "name": "The Three Queens",
+          "url": "https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h"
+        }
+      ],
+      "duration_ms": 203175,
+      "name": "I wish I did",
+      "url": "https://open.spotify.com/track/44AchFNfZR9RsnGz76s05b"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Searching",
-        "url": "https://open.spotify.com/album/4mbAIA87RJPH09XAEdlmtV"
-      },
-      "artists": [
-        {
-          "name": "Geeder",
-          "url": "https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1"
-        }
-      ],
-      "duration_ms": 208606,
-      "name": "Searching",
-      "url": "https://open.spotify.com/track/6psYARJ0RS8CNreEbKsCnD"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Hidden Beauty",
         "url": "https://open.spotify.com/album/5gCvaaa6Kg8iimNzKMcyrF"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 314573,
       "name": "Canci\u00f3n Y Danza VI",
       "url": "https://open.spotify.com/track/1iNE14jpYWtLoeQitCoYaG"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Searching",
+        "url": "https://open.spotify.com/album/4mbAIA87RJPH09XAEdlmtV"
+      },
+      "artists": [
+        {
+          "name": "Geeder",
+          "url": "https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1"
+        }
+      ],
+      "duration_ms": 208606,
+      "name": "Searching",
+      "url": "https://open.spotify.com/track/6psYARJ0RS8CNreEbKsCnD"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "The Now",
+        "url": "https://open.spotify.com/album/0qoyZFWXV1mXquUUvYOrjQ"
+      },
+      "artists": [
+        {
+          "name": "Aaron Goldberg",
+          "url": "https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma"
+        }
+      ],
+      "duration_ms": 302640,
+      "name": "The Wind In The Night",
+      "url": "https://open.spotify.com/track/2IiD9iXyz8OWmRkHcfHdnN"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Powell to the People",
         "url": "https://open.spotify.com/album/0gkHK9HSngJ5N7d5LE1PKE"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 314763,
       "name": "I'll Keep Loving You",
       "url": "https://open.spotify.com/track/42q9VqB8ooQE5yn3mup3h8"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "The Now",
-        "url": "https://open.spotify.com/album/0qoyZFWXV1mXquUUvYOrjQ"
-      },
-      "artists": [
-        {
-          "name": "Aaron Goldberg",
-          "url": "https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma"
-        }
-      ],
-      "duration_ms": 302640,
-      "name": "The Wind In The Night",
-      "url": "https://open.spotify.com/track/2IiD9iXyz8OWmRkHcfHdnN"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1779,6 +1779,30 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "At the Movies",
+        "url": "https://open.spotify.com/album/32V6Uezb7Y7RAHtMfGPjLj"
+      },
+      "artists": [
+        {
+          "name": "Nikolaj Hess",
+          "url": "https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ"
+        },
+        {
+          "name": "Anders Christensen",
+          "url": "https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM"
+        },
+        {
+          "name": "Mikkel Hess",
+          "url": "https://open.spotify.com/artist/2dKB7nFUKZ2zs9kgyTA3Lq"
+        }
+      ],
+      "duration_ms": 240903,
+      "name": "End Music",
+      "url": "https://open.spotify.com/track/2nsq309rIRIhozD60JxPB6"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "\u591c\u306e\u30d6\u30eb\u30fc\u30b9",
         "url": "https://open.spotify.com/album/0bGfW2KduWtUnGwBRb5oYW"
       },
@@ -1823,30 +1847,6 @@
       "duration_ms": 308453,
       "name": "Simplicity",
       "url": "https://open.spotify.com/track/0AEBs3sZ492afceldzJzF0"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "At the Movies",
-        "url": "https://open.spotify.com/album/32V6Uezb7Y7RAHtMfGPjLj"
-      },
-      "artists": [
-        {
-          "name": "Nikolaj Hess",
-          "url": "https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ"
-        },
-        {
-          "name": "Anders Christensen",
-          "url": "https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM"
-        },
-        {
-          "name": "Mikkel Hess",
-          "url": "https://open.spotify.com/artist/2dKB7nFUKZ2zs9kgyTA3Lq"
-        }
-      ],
-      "duration_ms": 240903,
-      "name": "End Music",
-      "url": "https://open.spotify.com/track/2nsq309rIRIhozD60JxPB6"
     },
     {
       "added_at": "2023-11-17 00:01:00",

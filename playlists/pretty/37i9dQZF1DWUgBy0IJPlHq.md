@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Flatland Cavalry
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,079 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,188 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 | 52 | [If You Were Mine](https://open.spotify.com/track/1GL0nollq8IdnV4tfYtEZT) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [If You Were Mine](https://open.spotify.com/album/0FrbfHvjj5olr9w7dUeDrZ) | 3:39 |
 | 53 | [If I Try To Leave](https://open.spotify.com/track/5MfoZhgvQe5FQy8VGzI9Xe) | [Deer Tick](https://open.spotify.com/artist/3rT8xTwSOMDURtWpPyoKIO) | [If I Try To Leave](https://open.spotify.com/album/7cqAkrccSigkZUvKOdgL9Q) | 3:37 |
 | 54 | [Old Kanawha](https://open.spotify.com/track/5AKOojMtH8VWV1hlAk3mg1) | [Philip Bowen](https://open.spotify.com/artist/3Mm4P393IFVqIQDmL691G9), [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Old Kanawha](https://open.spotify.com/album/2L6tOFIueh5O5VB0Vxbvh5) | 4:25 |
-| 55 | [Straight and Narrow](https://open.spotify.com/track/3fonAuTvuI5KMcmnueLAPq) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Million Eyes](https://open.spotify.com/album/5jrPhnzA00KBWc3bJJUqTY) | 3:19 |
+| 55 | [Straight and Narrow](https://open.spotify.com/track/30fbAXFjj9feoB56NbLFN0) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Straight and Narrow](https://open.spotify.com/album/38SBM2jhA27kEq2SrgfS89) | 3:19 |
 | 56 | [Hey Driver \(feat\. The War and Treaty\)](https://open.spotify.com/track/4pCbJC43j3gSqG6Fen6upD) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 |
 | 57 | [Bury Me in My Hometown](https://open.spotify.com/track/1jzQGB2wOOm1AaqA8cf0ic) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [A Lot More Free](https://open.spotify.com/album/3Sh0mtX324JgZ6UXvzgD47) | 3:35 |
 | 58 | [Somebody Just Like Me](https://open.spotify.com/track/3N8P57zfeILMnUP90DZH40) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [BOOTCUT](https://open.spotify.com/album/3tvR5wPT639FKdAfdzPcuC) | 2:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 | 99 | [One Hell of an Angel](https://open.spotify.com/track/1SniaPt656Q2RJFOh5QBPK) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [One Hell of an Angel](https://open.spotify.com/album/4qngZnFUHmu4I3cGpENpWF) | 3:31 |
 | 100 | [Denim & Diamonds](https://open.spotify.com/track/7jAw05wdvqQhKDtKnFOH93) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Denim & Diamonds](https://open.spotify.com/album/1AEHp7Ufjc2GEZGUlfFsML) | 3:12 |
 
-Snapshot ID: `MCw5YTUxMzM2YmEyMzU0MDcyMmVjZTVmMjBlNDk4YzFmZjRmNzdmYTE1`
+Snapshot ID: `MCxkNGE3M2Q5MzA2NjQ0Yjg5NDExZTJiMzY3ZWU3MjMxMDI5NjJjMTIy`

@@ -1,18 +1,18 @@
 {
   "description": "Listen to your favourite tunes for inspiration and upliftment.",
-  "num_followers": 36910,
+  "num_followers": 36962,
   "original_name": "Gospel Greatness",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjJkYmU5YWM0ZTJlNTc4NGM3MGM2ODgxNjhhMGNjZDliYTJhNzkz",
+  "snapshot_id": "MCxlNzdmNGJlMjEzYjc1ZGU4Y2IxMmQ3ZjI2NjIwNGVlM2JiMDNhYTRl",
   "tracks": [
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
         "name": "Sibonga Umusa (Live)",
-        "url": "https://open.spotify.com/album/0yq9apfBkBDmT9I74n0ABX"
+        "url": "https://open.spotify.com/album/0tT13vFUWnAGZNp0BZu0n3"
       },
       "artists": [
         {
@@ -22,7 +22,7 @@
       ],
       "duration_ms": 589875,
       "name": "Thixo Wamadinga Ethu (Live)",
-      "url": "https://open.spotify.com/track/5Y0EPmCymKYHOCJD2B04gi"
+      "url": "https://open.spotify.com/track/67NHjEvUTfqyKqNZF0tSMh"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -927,26 +927,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "How To Start A Housefire (Pt. II)",
-        "url": "https://open.spotify.com/album/00AeTGkKMb4C827JlzT8Uk"
-      },
-      "artists": [
-        {
-          "name": "Housefires",
-          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
-        },
-        {
-          "name": "Cecily",
-          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
-        }
-      ],
-      "duration_ms": 441106,
-      "name": "Look Around",
-      "url": "https://open.spotify.com/track/45MwQxfmmHhYFGQuyPOpt3"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Glory in His Presence",
         "url": "https://open.spotify.com/album/4H0LkLQqfqbryyNUmzDvoq"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 183426,
       "name": "Just Like God",
       "url": "https://open.spotify.com/track/5kc449Mw1upsOITilmFB3f"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "How To Start A Housefire (Pt. II)",
+        "url": "https://open.spotify.com/album/00AeTGkKMb4C827JlzT8Uk"
+      },
+      "artists": [
+        {
+          "name": "Housefires",
+          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
+        },
+        {
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+        }
+      ],
+      "duration_ms": 441106,
+      "name": "Look Around",
+      "url": "https://open.spotify.com/track/45MwQxfmmHhYFGQuyPOpt3"
     }
   ],
   "unique_name": "Gospel Greatness",

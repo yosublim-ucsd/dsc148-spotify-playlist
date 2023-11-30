@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B14ULPIeoA.md) - [plain]
 
 > Con mucha dulzura y sabor para un momento de relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,472 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,493 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B14ULPIeoA.md) - [plain]
 | 39 | [Quiereme Corazon Quiereme](https://open.spotify.com/track/0K38jgUjNNXz6AEgQneS6M) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Quiereme Corazon Quiereme](https://open.spotify.com/album/7z9wIysqZqoUNFso68D3zK) | 2:54 |
 | 40 | [Luna Lunera](https://open.spotify.com/track/119YhbTAwA2txEJNe6Sdjg) | [Cortando Troncos](https://open.spotify.com/artist/5K2ipzlsy5eOnGSr8Q9jCn) | [Luna Lunera](https://open.spotify.com/album/1LHSs9qU9O6bu2OIvav6pr) | 2:04 |
 | 41 | [No](https://open.spotify.com/track/0C69couVwXQPhHPq2f2gSa) | [Los Tres Mariquitas](https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf) | [No](https://open.spotify.com/album/453mZhcGBHRgoJeLfirF6k) | 2:41 |
-| 42 | [Parece Que Fue Ayer](https://open.spotify.com/track/1QbbGANlhCOBQy2swIAgy3) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [Parece Que Fue Ayer](https://open.spotify.com/album/0S3BS29cQXHPIeKZVHxF64) | 2:48 |
-| 43 | [El Camino De La Vida](https://open.spotify.com/track/0d0zDKdDkpyetQarz3wFq7) | [Elias Carrera](https://open.spotify.com/artist/7qKazhBQV8sScUWPr8xVOO) | [Wasi](https://open.spotify.com/album/0PoKRHhIITIb48H5r6M7SJ) | 2:16 |
+| 42 | [El Camino De La Vida](https://open.spotify.com/track/0d0zDKdDkpyetQarz3wFq7) | [Elias Carrera](https://open.spotify.com/artist/7qKazhBQV8sScUWPr8xVOO) | [Wasi](https://open.spotify.com/album/0PoKRHhIITIb48H5r6M7SJ) | 2:16 |
+| 43 | [Parece Que Fue Ayer](https://open.spotify.com/track/1QbbGANlhCOBQy2swIAgy3) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [Parece Que Fue Ayer](https://open.spotify.com/album/0S3BS29cQXHPIeKZVHxF64) | 2:48 |
 | 44 | [Siempre Te Amare](https://open.spotify.com/track/3chlEDJ4tTR1WnitKFVxrB) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Siempre Te Amare](https://open.spotify.com/album/3xuBRLDnpaa0C4kn46LzK4) | 2:29 |
 | 45 | [Esta Melodia](https://open.spotify.com/track/1GQ3Clp4Mvs7f0qt0hLotX) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c) | [Trios](https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT) | 3:08 |
 | 46 | [La cama de piedra](https://open.spotify.com/track/4k2RPbnJ2YIopAFJ2bwmfo) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [15 Inmortales de Pedro Infante](https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba) | 2:29 |
@@ -68,11 +68,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B14ULPIeoA.md) - [plain]
 | 58 | [Que no quede huella](https://open.spotify.com/track/1IpS7AlHPQ4B4AXspsGAq3) | [Mariachi Azteca](https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW) | [Mariachi from Mexico](https://open.spotify.com/album/37XAmBpj05Ohmoql3AFiMM) | 2:54 |
 | 59 | [Yo Ya No Vuelvo Contigo](https://open.spotify.com/track/5dr22Hx7V73QhvT3p5azpf) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [Yo Ya No Vuelvo Contigo](https://open.spotify.com/album/5n6chJVmqXhiF4klgDsYA7) | 3:52 |
 | 60 | [Aguanta Corazón](https://open.spotify.com/track/260DEH0xnh9AN73FdKkuYX) | [M.O.Y.A.](https://open.spotify.com/artist/6AGNGt3OdvlgnvMeTYSllf) | [Aguanta Corazón](https://open.spotify.com/album/0YIQTg5FStD73KRP1UnCI1) | 3:12 |
-| 61 | [Si Te Pudiera Mentir](https://open.spotify.com/track/3kET1UwTaKPpOZI8DyioyE) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Si Te Pudiera Mentir](https://open.spotify.com/album/2h07qjmYJBW1GZUN5DUYeW) | 4:49 |
-| 62 | [Me Vas A Extrañar](https://open.spotify.com/track/5b8rgwkYjdMcJixyCwZYoc) | [Los Vestidos Negros](https://open.spotify.com/artist/08BttjwajJ2WmjsYUhRQr3) | [Me Vas A Extrañar](https://open.spotify.com/album/3cS4nEdOhg1OKLucxA7Uh4) | 2:36 |
+| 61 | [Me Vas A Extrañar](https://open.spotify.com/track/5b8rgwkYjdMcJixyCwZYoc) | [Los Vestidos Negros](https://open.spotify.com/artist/08BttjwajJ2WmjsYUhRQr3) | [Me Vas A Extrañar](https://open.spotify.com/album/3cS4nEdOhg1OKLucxA7Uh4) | 2:36 |
+| 62 | [Si Te Pudiera Mentir](https://open.spotify.com/track/3kET1UwTaKPpOZI8DyioyE) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Si Te Pudiera Mentir](https://open.spotify.com/album/2h07qjmYJBW1GZUN5DUYeW) | 4:49 |
 | 63 | [A Traves Del Vaso](https://open.spotify.com/track/1hkqXThaFrtIvAtH1Pq7zz) | [Yolanda Streep](https://open.spotify.com/artist/3RAcfMK8AOdXDGe5IM4CV8) | [A Traves Del Vaso](https://open.spotify.com/album/3Bd1WTH6KioFvYuv8Z0hOB) | 3:20 |
-| 64 | [Me La Avente](https://open.spotify.com/track/4BVtzn6TkSJ9lTmh1eK2fg) | [Nicole Morenno](https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T) | [Me La Avente](https://open.spotify.com/album/64ACb5cSpTJU9Kzq3CDDiQ) | 2:36 |
-| 65 | [Cruz de olvido](https://open.spotify.com/track/2COQMXlLtvjXFl2sWPmn0o) | [Juan Zaizar](https://open.spotify.com/artist/73jxdVvynjIPx5Frtin9j1) | [Exitos de Juan Zaizar](https://open.spotify.com/album/5L5AW3heSexIq7mmccsi65) | 3:24 |
+| 64 | [Cruz de olvido](https://open.spotify.com/track/2COQMXlLtvjXFl2sWPmn0o) | [Juan Zaizar](https://open.spotify.com/artist/73jxdVvynjIPx5Frtin9j1) | [Exitos de Juan Zaizar](https://open.spotify.com/album/5L5AW3heSexIq7mmccsi65) | 3:24 |
+| 65 | [Me La Avente](https://open.spotify.com/track/4BVtzn6TkSJ9lTmh1eK2fg) | [Nicole Morenno](https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T) | [Me La Avente](https://open.spotify.com/album/64ACb5cSpTJU9Kzq3CDDiQ) | 2:36 |
 | 66 | [Cucurrucucú paloma](https://open.spotify.com/track/6JFqN2RNAlaHkskkf1wUtE) | [Alexandra Gravas](https://open.spotify.com/artist/3jDJ5r0kU32EeVl2Dd5uYv), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Songbook 3 El Amor Es Vida](https://open.spotify.com/album/5xTYvmQhMKxPo0W4O2CdDT) | 5:02 |
 | 67 | [Un Rinconcito En El Cielo](https://open.spotify.com/track/6xVlBIOtzHAKsl3Wuct2qK) | [M.O.Y.A.](https://open.spotify.com/artist/6AGNGt3OdvlgnvMeTYSllf) | [Un Rinconcito En El Cielo](https://open.spotify.com/album/6wofcdCM7B5k6L8j6QI7b0) | 4:11 |
 | 68 | [Piel canela](https://open.spotify.com/track/5UH08BuqNSq3LsAdhftaRG) | [Trio Azteca](https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY) | [Trio Azteca: Folk Songs and Ballads](https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B14ULPIeoA.md) - [plain]
 | 99 | [Dueles](https://open.spotify.com/track/6ekN22D0Amt0tqd2DAeKq4) | [Marta Jobim](https://open.spotify.com/artist/1mdSEV97zy0wyiCU8jfqwj) | [Dueles](https://open.spotify.com/album/72jZEsiUr3shNX6fxrhq8b) | 5:23 |
 | 100 | [Changes](https://open.spotify.com/track/167gl31uOXmVYazZz5TDhx) | [Mariachi Arco Iris](https://open.spotify.com/artist/5TxkKchbD0Joui6g9sUwna) | [Changes](https://open.spotify.com/album/5bl2leCLhSGFwpjEndig0D) | 3:22 |
 
-Snapshot ID: `MCw0YjIxOTFiNGE3ZDQwZGU3YWFlZmI2YmRhN2FkNzYxYTlhYzYyNTU2`
+Snapshot ID: `MCxjODBlM2E0MmY1YmEwMDAyZTVlYjgyNTUxMGVmMzg3YmQwMTlkOTUw`

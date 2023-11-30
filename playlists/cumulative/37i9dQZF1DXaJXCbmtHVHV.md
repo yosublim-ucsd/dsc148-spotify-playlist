@@ -4,7 +4,7 @@
 
 > Top country hits you know and love! Cover: Gabby Barrett
 
-282 songs - 15 hr 15 min
+283 songs - 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [If He Wanted To He Would](https://open.spotify.com/track/3nei8eHEdiwwSfyoOCHPZI) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [P.S.](https://open.spotify.com/album/5HLVKjqh4u4a3NQhnxpz7i) | 2:54 | 2023-07-07 |  |
 | [If I Didn't Love You](https://open.spotify.com/track/1WQ40xJSvgDmD9K7ckJwux) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [MACON](https://open.spotify.com/album/2cydSJJLXu2TtP9VoOnGn4) | 3:32 | 2022-07-22 | 2023-11-18 |
 | [If I Didn't Love You](https://open.spotify.com/track/5f3MXmTmstozFg0BH1yPUk) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [If I Didn't Love You](https://open.spotify.com/album/6gYe3uo5YjJslbXYdSzSdf) | 3:32 | 2021-12-28 | 2022-07-29 |
+| [If I Didn’t Love You](https://open.spotify.com/track/7IYoh1u7dFM1xIWSEYd5B8) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [MACON](https://open.spotify.com/album/4MJPulC5XmELvmbrs1XHC9) | 3:32 | 2023-11-17 |  |
 | [If I Was a Cowboy](https://open.spotify.com/track/6F7UOC6fPWOkPqybOWBHSv) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [If I Was a Cowboy](https://open.spotify.com/album/30ECcjA3lMZPRpdJDyHAnT) | 3:15 | 2021-12-28 |  |
 | [If I Were Rock & Roll](https://open.spotify.com/track/7GMXESVLghURYtnMXl7Ngn) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [If I Were Rock & Roll](https://open.spotify.com/album/5th0dWTiQ0WkGINantPzEC) | 3:14 | 2021-12-28 | 2022-09-03 |
 | [IF YOU GO DOWN \(I'M GOIN' DOWN TOO\)](https://open.spotify.com/track/1jX9wlAgVkAl0fCZqkCI73) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:46 | 2023-02-03 |  |
@@ -194,7 +195,7 @@
 | [Praise The Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/track/4ELynSlkV4OHcBCFenFJ7U) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Praise The Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/album/19IBYeeXLti2wekxA8913l) | 2:40 | 2022-08-19 | 2022-10-12 |
 | [Pretty Little Poison](https://open.spotify.com/track/2gT2iF1YK5r54A2PDEXVv8) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Pretty Little Poison](https://open.spotify.com/album/19EncKM5x6aE207IFFUT2M) | 3:38 | 2023-09-15 |  |
 | [Psychopath](https://open.spotify.com/track/1pxzWiOrRbpXQkk4n0HRs3) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Psychopath](https://open.spotify.com/album/03nIJUuv47IXsP1oooCxPe) | 3:28 | 2023-10-20 | 2023-11-07 |
-| [Record High](https://open.spotify.com/track/7KTouudlySEWXOWHAuFAFv) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Record High](https://open.spotify.com/album/7sbj8haNKScqrV1B4Q4EGY) | 3:28 | 2023-10-06 |  |
+| [Record High](https://open.spotify.com/track/7KTouudlySEWXOWHAuFAFv) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Record High](https://open.spotify.com/album/7sbj8haNKScqrV1B4Q4EGY) | 3:28 | 2023-10-06 | 2023-11-30 |
 | [Religiously](https://open.spotify.com/track/0bILU0UiNDmA5Ff6whhb2R) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 2:58 | 2023-07-21 |  |
 | [Rock and A Hard Place](https://open.spotify.com/track/1TE8AAk9koG0UJco6ZAUfx) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:27 | 2023-06-01 |  |
 | [Rock and A Hard Place](https://open.spotify.com/track/4686eQ81DEswHa90bcdlC9) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Rock and A Hard Place](https://open.spotify.com/album/7Gqqhy2ohX3puChylfkvT0) | 3:27 | 2022-11-25 | 2023-06-07 |

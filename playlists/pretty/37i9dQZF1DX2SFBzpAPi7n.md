@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: BIG Naughty\(서동현\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,348 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,392 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,16 +21,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 11 | [Smoke Sprite \(feat\. RM of BTS\)](https://open.spotify.com/track/5YSkDxmHvzSDWTu4MaEtfa) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Episode1 : Love](https://open.spotify.com/album/7yoMXU6kgxjIsowenBxzwD) | 4:02 |
 | 12 | [Back To Me](https://open.spotify.com/track/4eZpe6SMJQIqAU9VJI84oD) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Back To Me / Alive](https://open.spotify.com/album/7uAydPIaSI5OmH4e8WY0Eo) | 3:44 |
 | 13 | [I ≠ DOLL](https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [I ≠ DOLL](https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT) | 2:30 |
-| 14 | [You Were Beautiful](https://open.spotify.com/track/3FR2yqZsG07NhXz7uPyUyC) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c) | 4:43 |
-| 15 | [daisy.](https://open.spotify.com/track/6vBr2tIHZKaMTpK7r99O3g) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [daisy.](https://open.spotify.com/album/06LUoqFf4VRz193j5GBToN) | 3:38 |
+| 14 | [daisy.](https://open.spotify.com/track/6vBr2tIHZKaMTpK7r99O3g) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [daisy.](https://open.spotify.com/album/06LUoqFf4VRz193j5GBToN) | 3:38 |
+| 15 | [You Were Beautiful](https://open.spotify.com/track/3FR2yqZsG07NhXz7uPyUyC) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c) | 4:43 |
 | 16 | [Awake](https://open.spotify.com/track/3gxNkvcP8scSzL6mGznTn3) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Wings](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) | 3:46 |
 | 17 | [for lovers who hesitate](https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND](https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC) | 4:25 |
 | 18 | [Still Life](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) | 3:08 |
 | 19 | [sorry](https://open.spotify.com/track/2mqN6WJawRJzT2X9T5bdYV) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Void](https://open.spotify.com/album/6kdRAzt9oU3X9eUdeTB0Yk) | 3:35 |
 | 20 | [Don't \(feat\. RM\)](https://open.spotify.com/track/6KE3Fs6LMzi4hJI3eFqyLC) | [eAeon](https://open.spotify.com/artist/3ZSbXArE6mxOleJnsumK4u), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Fragile](https://open.spotify.com/album/58QwKbqqxvic4OsBubpZ6h) | 3:25 |
 | 21 | [BOCA](https://open.spotify.com/track/2u7p3Bzkv8h0Yx7w7R370n) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Lose Myself\]](https://open.spotify.com/album/0cDPkovaIsxLcIghyT9LKz) | 3:09 |
-| 22 | [ride](https://open.spotify.com/track/67KfktISVA3XHSRqge5JiB) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [summer flows 0.02](https://open.spotify.com/album/3NRNR4txhuRLhnQUUlqWXH) | 3:48 |
-| 23 | [Shoot Me](https://open.spotify.com/track/5XZ4yL24BLKkysf4muf4yQ) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Shoot Me : Youth Part 1](https://open.spotify.com/album/2dYvMxAaLu8LBiHjwQElcg) | 2:55 |
+| 22 | [Shoot Me](https://open.spotify.com/track/5XZ4yL24BLKkysf4muf4yQ) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Shoot Me : Youth Part 1](https://open.spotify.com/album/2dYvMxAaLu8LBiHjwQElcg) | 2:55 |
+| 23 | [ride](https://open.spotify.com/track/67KfktISVA3XHSRqge5JiB) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [summer flows 0.02](https://open.spotify.com/album/3NRNR4txhuRLhnQUUlqWXH) | 3:48 |
 | 24 | [WINTER FLOWER\(Feat.RM\)](https://open.spotify.com/track/4Eefey3uN90Abhbr47zKmC) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [UNSTABLE MINDSET](https://open.spotify.com/album/7tY3mqjeJaMr6RFJYnjI2s) | 3:41 |
 | 25 | [Freakin' Bad](https://open.spotify.com/track/1gZxcX80pR6xThd2waYjuq) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Deadlock](https://open.spotify.com/album/3jkLKeTkRsRehIUkPFHubG) | 3:03 |
 | 26 | [NAN CHUN 난춘](https://open.spotify.com/track/320twJYO0LC64eWCuCC5vj) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [NAN CHUN 난춘](https://open.spotify.com/album/5aMMzZZNRZ1yBr6aArv4Dh) | 3:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 49 | [I hate you](https://open.spotify.com/track/1XlSkQeITGEv8r6HIZfpfX) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [COLORFUL TRAUMA](https://open.spotify.com/album/2A3y4U3r7xzgicuJYisnOe) | 3:10 |
 | 50 | [TOMBOY](https://open.spotify.com/track/6DA7kCWYMggJjqPM84V2Ng) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [23](https://open.spotify.com/album/2VDNZYzubQxFNOR3qD1K9B) | 4:01 |
 
-Snapshot ID: `MCw3M2EzODM5NmM2NzI3ZTNhM2Q4ZWVkZjNkOTAxZjgxMTIwMGU0NDJm`
+Snapshot ID: `MCw0MTk4YjE1NjJjOWYwOWQyOTdjMzA5NGE2MWE4OThlOTM5OTljMTg4`

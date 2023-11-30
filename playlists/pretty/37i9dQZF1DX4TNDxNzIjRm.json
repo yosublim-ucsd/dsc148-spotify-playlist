@@ -1,12 +1,12 @@
 {
   "description": "Cuando el jangueo est\u00e1 mejor que la fiesta. Hanging out jams.",
-  "num_followers": 1447223,
+  "num_followers": 1447211,
   "original_name": "Jangueo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2ZlYjcwMTk0MWUxN2UzMzAwZjA4NWZjZmIyZjI5Y2JlY2E2MjVh",
+  "snapshot_id": "MCw3NmE3NTQ2Njc0NTEwNDEwY2FjMmRkZjFhMzdhMGQ1YzcwZGYxMjE5",
   "tracks": [
     {
       "added_at": "2023-10-20 21:02:42",
@@ -259,26 +259,18 @@
     {
       "added_at": "2023-10-20 21:02:42",
       "album": {
-        "name": "VAGABUNDO",
-        "url": "https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc"
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
       },
       "artists": [
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
           "name": "Manuel Turizo",
           "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
         }
       ],
-      "duration_ms": 215600,
-      "name": "VAGABUNDO",
-      "url": "https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG"
+      "duration_ms": 162637,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
     },
     {
       "added_at": "2023-10-20 21:02:42",
@@ -351,18 +343,26 @@
     {
       "added_at": "2023-10-20 21:02:42",
       "album": {
-        "name": "La Bachata",
-        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
+        "name": "VAGABUNDO",
+        "url": "https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc"
       },
       "artists": [
         {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
           "name": "Manuel Turizo",
           "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
         }
       ],
-      "duration_ms": 162637,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
+      "duration_ms": 215600,
+      "name": "VAGABUNDO",
+      "url": "https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG"
     },
     {
       "added_at": "2023-10-20 21:02:42",
@@ -871,26 +871,6 @@
     {
       "added_at": "2023-10-20 21:02:42",
       "album": {
-        "name": "Me Enter\u00e9",
-        "url": "https://open.spotify.com/album/6KBwgofbUBuXuFTuKmi9Js"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 182075,
-      "name": "Me Enter\u00e9",
-      "url": "https://open.spotify.com/track/5FWQLEX0lavdxiWGBNkBQ4"
-    },
-    {
-      "added_at": "2023-10-20 21:02:42",
-      "album": {
         "name": "Adicto (with Anuel AA & Ozuna)",
         "url": "https://open.spotify.com/album/7nqA49hzXJWPH4cnM8nk6x"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 270740,
       "name": "Adicto (with Anuel AA & Ozuna)",
       "url": "https://open.spotify.com/track/3jbT1Y5MoPwEIpZndDDwVq"
+    },
+    {
+      "added_at": "2023-10-20 21:02:42",
+      "album": {
+        "name": "Me Enter\u00e9",
+        "url": "https://open.spotify.com/album/6KBwgofbUBuXuFTuKmi9Js"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 182075,
+      "name": "Me Enter\u00e9",
+      "url": "https://open.spotify.com/track/5FWQLEX0lavdxiWGBNkBQ4"
     },
     {
       "added_at": "2023-10-20 21:02:42",
@@ -1307,26 +1307,6 @@
     {
       "added_at": "2023-10-20 21:02:42",
       "album": {
-        "name": "Calma (Remix)",
-        "url": "https://open.spotify.com/album/1tFnP9PwIMeMIuj92mfswZ"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 238200,
-      "name": "Calma - Remix",
-      "url": "https://open.spotify.com/track/5iwz1NiezX7WWjnCgY5TH4"
-    },
-    {
-      "added_at": "2023-10-20 21:02:42",
-      "album": {
         "name": "Yo x Ti, Tu x Mi",
         "url": "https://open.spotify.com/album/3844bY26oeSkqd06th4EYp"
       },
@@ -1347,18 +1327,22 @@
     {
       "added_at": "2023-10-20 21:02:42",
       "album": {
-        "name": "PARA\u00cdSO",
-        "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
+        "name": "Calma (Remix)",
+        "url": "https://open.spotify.com/album/1tFnP9PwIMeMIuj92mfswZ"
       },
       "artists": [
         {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         }
       ],
-      "duration_ms": 190745,
-      "name": "DOMINGO DE BOTE",
-      "url": "https://open.spotify.com/track/0rvbMTIWwMZaMC9UnubDPb"
+      "duration_ms": 238200,
+      "name": "Calma - Remix",
+      "url": "https://open.spotify.com/track/5iwz1NiezX7WWjnCgY5TH4"
     },
     {
       "added_at": "2023-10-20 21:02:42",
@@ -1379,6 +1363,22 @@
       "duration_ms": 227480,
       "name": "Amigos Con Derechos",
       "url": "https://open.spotify.com/track/4yVO0wOhXsZC1RuPgHP524"
+    },
+    {
+      "added_at": "2023-10-20 21:02:42",
+      "album": {
+        "name": "PARA\u00cdSO",
+        "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "duration_ms": 190745,
+      "name": "DOMINGO DE BOTE",
+      "url": "https://open.spotify.com/track/0rvbMTIWwMZaMC9UnubDPb"
     },
     {
       "added_at": "2023-10-20 21:02:42",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2023-10-20 21:02:42",
       "album": {
-        "name": "DEKKOLETERA 333",
-        "url": "https://open.spotify.com/album/12gXwHN7MFHNc48utTmuGM"
-      },
-      "artists": [
-        {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        }
-      ],
-      "duration_ms": 159200,
-      "name": "12x3",
-      "url": "https://open.spotify.com/track/1k94CNfVliqDs0qYhkG8iV"
-    },
-    {
-      "added_at": "2023-10-20 21:02:42",
-      "album": {
         "name": "Dembow",
         "url": "https://open.spotify.com/album/5kpilAKnaFNV2DX5ewD7x7"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 215082,
       "name": "Dembow",
       "url": "https://open.spotify.com/track/2EzRdhuoPyNJDlep7lnNf2"
+    },
+    {
+      "added_at": "2023-10-20 21:02:42",
+      "album": {
+        "name": "DEKKOLETERA 333",
+        "url": "https://open.spotify.com/album/12gXwHN7MFHNc48utTmuGM"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "duration_ms": 159200,
+      "name": "12x3",
+      "url": "https://open.spotify.com/track/1k94CNfVliqDs0qYhkG8iV"
     },
     {
       "added_at": "2023-10-20 21:02:42",
@@ -1903,26 +1903,6 @@
     {
       "added_at": "2023-10-20 21:02:42",
       "album": {
-        "name": "EL RELOJ (con Maluma)",
-        "url": "https://open.spotify.com/album/7cw2HqGRaimaXNcTfHxMhR"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 180521,
-      "name": "EL RELOJ (con Maluma)",
-      "url": "https://open.spotify.com/track/29eXmdhLZqDUNB8y62rYIZ"
-    },
-    {
-      "added_at": "2023-10-20 21:02:42",
-      "album": {
         "name": "Aloha (feat. Darell, Mambo Kingz & Dj Luian)",
         "url": "https://open.spotify.com/album/7F8Usvm4Vj3XlRztSBRfEH"
       },
@@ -1955,6 +1935,26 @@
       "duration_ms": 241659,
       "name": "Aloha",
       "url": "https://open.spotify.com/track/5RAIMjdrCEjpjaR5tBATXU"
+    },
+    {
+      "added_at": "2023-10-20 21:02:42",
+      "album": {
+        "name": "EL RELOJ (con Maluma)",
+        "url": "https://open.spotify.com/album/7cw2HqGRaimaXNcTfHxMhR"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 180521,
+      "name": "EL RELOJ (con Maluma)",
+      "url": "https://open.spotify.com/track/29eXmdhLZqDUNB8y62rYIZ"
     },
     {
       "added_at": "2023-10-20 21:02:42",

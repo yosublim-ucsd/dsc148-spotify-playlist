@@ -4,7 +4,7 @@
 
 > Lançamentos e novos nomes do trap nacional\. Foto: tchelo rodrigues
 
-933 songs - 1 day 18 hr 45 min
+934 songs - 1 day 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -930,7 +930,8 @@
 | [Yeezy](https://open.spotify.com/track/1qqst8aKtZtA3jSVwzc1gq) | [Liink](https://open.spotify.com/artist/6XAaynGctovNbHNyGohYkA) | [Lembre\-se Disso](https://open.spotify.com/album/6aHP9UPN5rIQZr0MUzAfxz) | 3:40 | 2023-01-20 | 2023-05-13 |
 | [Zero 1](https://open.spotify.com/track/5v1i7dAFe5SqVQodDYPPdy) | [Dimarola](https://open.spotify.com/artist/6H8F5y3oBfI6NKsIDMWLjf), [Millano](https://open.spotify.com/artist/4TRtk6zBU8Rnn2N4IjXpMz) | [Zero 1](https://open.spotify.com/album/5j6T5TSF12zygL5nSQRtJA) | 3:15 | 2023-02-24 | 2023-03-25 |
 | [ZERO MANCADA](https://open.spotify.com/track/0bovoHi2a1wyj63PVAY9dj) | [Menezzes](https://open.spotify.com/artist/7dw3nY1FCvYmcL1LTL1lq6), [Drama 808](https://open.spotify.com/artist/6fNCOhWNXgliXlRJvqYkGm) | [ZERO MANCADA](https://open.spotify.com/album/1SE4EjN9qPKpUmqPWsc7og) | 2:25 | 2022-11-25 | 2023-03-25 |
-| [Zidane](https://open.spotify.com/track/12VgvkipRAGWuGAitNo47j) | [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po) | [Zzz, Vol\. 2](https://open.spotify.com/album/51kX2muIvK8Z8I8mb9H1Y6) | 1:44 | 2023-11-17 |  |
+| [Zidane](https://open.spotify.com/track/12VgvkipRAGWuGAitNo47j) | [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po) | [Zzz, Vol\. 2](https://open.spotify.com/album/51kX2muIvK8Z8I8mb9H1Y6) | 1:44 | 2023-11-17 | 2023-11-30 |
+| [Zidane](https://open.spotify.com/track/5203anqH3H9vJT8URmbF4X) | [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po) | [Zzz, Vol\. 2](https://open.spotify.com/album/5qg05BeqESDoMFCYZl3Od0) | 1:44 | 2023-11-24 |  |
 | [ZOIO BAIXO](https://open.spotify.com/track/37NQVj6DI8VplxhTAdrzq8) | [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK) | [ZOIO BAIXO](https://open.spotify.com/album/5SayPcXz3OnDoPLqLUJvbo) | 1:42 | 2023-06-23 | 2023-07-01 |
 | [Zoião](https://open.spotify.com/track/6TXZW8Bc3nbg3qscln2gLx) | [Toddy Black](https://open.spotify.com/artist/4enjpyVRYCc83KoTpRfQiH), [Eltinho Beats](https://open.spotify.com/artist/4bgMNPTMQDzdJYyTiulHyr) | [Zoião](https://open.spotify.com/album/03H1lXrwcT0UvtzwOLABXu) | 2:44 | 2022-10-28 | 2023-01-28 |
 | [Zona Leste](https://open.spotify.com/track/6tnn3cneF7iQ1byrQ9kixp) | [Nebrugg](https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC) | [The King Of Drill "TKOD"](https://open.spotify.com/album/21sJbIsra7VRrVy9bdSS8z) | 2:27 | 2023-09-01 | 2023-11-11 |

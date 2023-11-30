@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-05-05",
-  "description": "Current Pakistani hits under one roof. Cover: Azaan Sami Khan",
-  "name": "Pakka Hit Hai",
+  "description": "Our editor\u2019s picks for best Pakistani songs of the year. Cover: Adnan Dhool",
+  "name": "Pakka Hit Hai - Best Pakistani Songs 2023",
   "tracks": [
     {
       "album": {
@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "4U",
+        "url": "https://open.spotify.com/album/5jCebkfAdctI7zvlgFGv9m"
+      },
+      "artists": [
+        {
+          "name": "Maanu",
+          "url": "https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202473,
+      "name": "4U",
+      "url": "https://open.spotify.com/track/5E17LNMDov8A01xUxK8Xaf"
+    },
+    {
+      "album": {
         "name": "Aaja We Mahiya",
         "url": "https://open.spotify.com/album/3WPDQfiohVairmvwfgEEok"
       },
@@ -78,7 +96,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 210000,
       "name": "Aaya Na Tu",
       "url": "https://open.spotify.com/track/3T0oPETOdddxJ2xTt2qJe4"
@@ -130,7 +148,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-09",
+      "date_removed": null,
       "duration_ms": 271698,
       "name": "Agency",
       "url": "https://open.spotify.com/track/5ZCHWdMgsdoo78m9prkhOR"
@@ -152,7 +170,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-12",
+      "date_removed": null,
       "duration_ms": 198857,
       "name": "Aisay Kaisay",
       "url": "https://open.spotify.com/track/0mAswKg3RCbmXAV4KYTUxM"
@@ -170,7 +188,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-10",
+      "date_removed": null,
       "duration_ms": 232906,
       "name": "Amplifier",
       "url": "https://open.spotify.com/track/0l1i3nJ4aDMk0inxnvzYTz"
@@ -192,7 +210,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 235297,
       "name": "Baari",
       "url": "https://open.spotify.com/track/0HTb4JfMtMkMYUtyd19In3"
@@ -210,7 +228,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 183577,
       "name": "Beby",
       "url": "https://open.spotify.com/track/5XfpEc8bp8UTHdMQt2ayE5"
@@ -232,6 +250,24 @@
       "duration_ms": 183781,
       "name": "Beqadra",
       "url": "https://open.spotify.com/track/4LIQacKPUjto8rVlVuY09O"
+    },
+    {
+      "album": {
+        "name": "Bewafa",
+        "url": "https://open.spotify.com/album/31EKix5WSmQMNWLj1Je8dg"
+      },
+      "artists": [
+        {
+          "name": "Imran Khan",
+          "url": "https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224853,
+      "name": "Bewafa",
+      "url": "https://open.spotify.com/track/4FcknXDJ8yW2QYUl0cm6uJ"
     },
     {
       "album": {
@@ -272,7 +308,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 221132,
       "name": "Bulleya",
       "url": "https://open.spotify.com/track/6xIhjZX1ZtFIXg1IDa3DAi"
@@ -312,7 +348,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-10",
+      "date_removed": null,
       "duration_ms": 206117,
       "name": "Cold Hours",
       "url": "https://open.spotify.com/track/2uThc9fZx2BEL3t6uuRMO1"
@@ -330,7 +366,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-12",
+      "date_removed": null,
       "duration_ms": 230220,
       "name": "Dard",
       "url": "https://open.spotify.com/track/3MqZKfZyzc9LEhMASXCtV8"
@@ -396,10 +432,40 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 188421,
       "name": "Dil Kay Isharay",
       "url": "https://open.spotify.com/track/2JgSxQenl3eRwewgBUWyKU"
+    },
+    {
+      "album": {
+        "name": "Dont Mind",
+        "url": "https://open.spotify.com/album/2RYxxTiEz84BdXyFT5LrSp"
+      },
+      "artists": [
+        {
+          "name": "Young Stunners",
+          "url": "https://open.spotify.com/artist/01PyusFVbXgoD5Kl1mR8CC"
+        },
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        },
+        {
+          "name": "Talhah Yunus",
+          "url": "https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5"
+        },
+        {
+          "name": "Rap Demon",
+          "url": "https://open.spotify.com/artist/5Op1QmEE3Eye8gdNrla3ok"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194424,
+      "name": "Dont Mind",
+      "url": "https://open.spotify.com/track/4Tol72m7hzEseRnsDc3SWw"
     },
     {
       "album": {
@@ -484,7 +550,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 199735,
       "name": "Faasla",
       "url": "https://open.spotify.com/track/3TB0OtQMzrPoNcmXfUMVzC"
@@ -598,7 +664,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-18",
+      "date_removed": null,
       "duration_ms": 260173,
       "name": "Gumaan",
       "url": "https://open.spotify.com/track/6cdiviyVL3tFYE1eDcmUzL"
@@ -656,7 +722,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-09",
+      "date_removed": null,
       "duration_ms": 195000,
       "name": "Happy Hour",
       "url": "https://open.spotify.com/track/5M0pviz4op3uvRnKTnPoce"
@@ -696,7 +762,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 258857,
       "name": "Ik Lamha",
       "url": "https://open.spotify.com/track/6KtSNVgCmQEvDgIuHoXAkT"
@@ -714,7 +780,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 258857,
       "name": "Ik Lamha",
       "url": "https://open.spotify.com/track/70MVLulHguwdhGo7100hsU"
@@ -816,7 +882,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 189749,
       "name": "Jo Tu Na Mila x Habibi (Mashup)",
       "url": "https://open.spotify.com/track/2weDNfUaaHIy5ck06qCJ54"
@@ -838,7 +904,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 189357,
       "name": "Joona",
       "url": "https://open.spotify.com/track/18twglRl0wFIIMtFOy2CHs"
@@ -978,7 +1044,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 190526,
       "name": "Lagda Nahi",
       "url": "https://open.spotify.com/track/3Kyi9o0PACXBCiwbZ4t65u"
@@ -1060,7 +1126,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 218600,
       "name": "Long time no see",
       "url": "https://open.spotify.com/track/6V4N3h4HYD1Ask9cUTxjjg"
@@ -1104,7 +1170,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 187188,
       "name": "Man Marzi",
       "url": "https://open.spotify.com/track/5I9Wi1rt7JIMUd1liVXB24"
@@ -1122,7 +1188,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 233123,
       "name": "Mangan Aiyaan",
       "url": "https://open.spotify.com/track/1A27G1hOLRBA0nKvakRZHI"
@@ -1188,7 +1254,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 297019,
       "name": "Me & You",
       "url": "https://open.spotify.com/track/5PlvEOKEO40fwk1qHXGuH0"
@@ -1224,7 +1290,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 351250,
       "name": "Mere Humsafar (Original Score) [Female Version]",
       "url": "https://open.spotify.com/track/4BoFJMLSO3ZoD48KgnslSe"
@@ -1264,7 +1330,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 230140,
       "name": "Na Cher Malangaan Nu",
       "url": "https://open.spotify.com/track/2mkzhEH79XteEuzHjenNeg"
@@ -1304,7 +1370,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-23",
+      "date_removed": null,
       "duration_ms": 251818,
       "name": "O Saathi",
       "url": "https://open.spotify.com/track/6fScgF2Y63ScU73nYju0ny"
@@ -1362,7 +1428,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-12",
+      "date_removed": null,
       "duration_ms": 224146,
       "name": "Pasoori",
       "url": "https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB"
@@ -1414,6 +1480,28 @@
       "duration_ms": 312892,
       "name": "Pehli Nazar Mein",
       "url": "https://open.spotify.com/track/17opN752ZQpNuoptelsNQ1"
+    },
+    {
+      "album": {
+        "name": "Phir Milenge",
+        "url": "https://open.spotify.com/album/0X4pR3UTMp4MRiGWuHrvtv"
+      },
+      "artists": [
+        {
+          "name": "Faisal Kapadia",
+          "url": "https://open.spotify.com/artist/5sJRjMmbbpbEZCtkiZYPCR"
+        },
+        {
+          "name": "Young Stunners",
+          "url": "https://open.spotify.com/artist/01PyusFVbXgoD5Kl1mR8CC"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351480,
+      "name": "Phir Milenge",
+      "url": "https://open.spotify.com/track/3yBbbbZNbo4ymn99Y2zoCj"
     },
     {
       "album": {
@@ -1494,7 +1582,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 236674,
       "name": "Sajan Das Na",
       "url": "https://open.spotify.com/track/4TNzipbkHuhp5DtHcZ9osE"
@@ -1512,10 +1600,32 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-09",
+      "date_removed": null,
       "duration_ms": 157048,
       "name": "Sajna",
       "url": "https://open.spotify.com/track/2YJORD2YXFoIDhiqD3bLKg"
+    },
+    {
+      "album": {
+        "name": "Same Beef",
+        "url": "https://open.spotify.com/album/31psNfWEweb2avBzLNiTZk"
+      },
+      "artists": [
+        {
+          "name": "Bohemia",
+          "url": "https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP"
+        },
+        {
+          "name": "Sidhu Moose Wala",
+          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290360,
+      "name": "Same Beef",
+      "url": "https://open.spotify.com/track/65c6VCikt7f5sAS1heoYQC"
     },
     {
       "album": {
@@ -1538,7 +1648,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 162486,
       "name": "Sapna",
       "url": "https://open.spotify.com/track/2dLS3wolNYLQoffbjUYoQy"
@@ -1611,6 +1721,24 @@
     },
     {
       "album": {
+        "name": "Tajdar-E-Haram Coke Studio Season 8",
+        "url": "https://open.spotify.com/album/7aRy86clBdnxlPi1Mo6t3t"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 616509,
+      "name": "Tajdar-E-Haram Coke Studio Season 8",
+      "url": "https://open.spotify.com/track/2TuNVD5u5iAslHp0moLlTn"
+    },
+    {
+      "album": {
         "name": "Therapy",
         "url": "https://open.spotify.com/album/5yRj8G5V3b8t5cIDS3VJZH"
       },
@@ -1634,6 +1762,24 @@
       "duration_ms": 276757,
       "name": "Tasweer",
       "url": "https://open.spotify.com/track/2CMMyIYdieC1RDpxnIPeMG"
+    },
+    {
+      "album": {
+        "name": "Tauseep X Urdu Mashup",
+        "url": "https://open.spotify.com/album/783PFiugJDBdssvYfJVCez"
+      },
+      "artists": [
+        {
+          "name": "Kaifi Khalil",
+          "url": "https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248602,
+      "name": "Tauseep X Urdu Mashup",
+      "url": "https://open.spotify.com/track/6J3Ak1EFUSEjUIC2hASYOq"
     },
     {
       "album": {
@@ -1688,7 +1834,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-23",
+      "date_removed": null,
       "duration_ms": 397546,
       "name": "Tu Jhoom",
       "url": "https://open.spotify.com/track/2xRtXbFAmk3cW6xE1zF7ye"
@@ -1706,7 +1852,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 225119,
       "name": "Udh Chaliye",
       "url": "https://open.spotify.com/track/4wqVxCLrlDxOVXYOGB8GRn"
@@ -1742,7 +1888,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 140730,
       "name": "Under The Stars",
       "url": "https://open.spotify.com/track/7DOCxixTYTuiSGhgICXXk5"

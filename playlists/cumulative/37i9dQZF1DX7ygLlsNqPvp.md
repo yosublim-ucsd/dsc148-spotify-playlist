@@ -4,7 +4,7 @@
 
 > The most intense local drill music firing up the continent\. Cover:  <a href="https://open.spotify.com/artist/05wqlCGQReohsxStVBR052?si=7P7nx9OfTmOxHU1QC3j4IQ"> Pappy Kojo</a>
 
-130 songs - 6 hr 37 min
+131 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Kɔɔ](https://open.spotify.com/track/5XCBMETHAG2klPDEcUP4Jy) | [Uncle Rich](https://open.spotify.com/artist/7B1cOpsjjQEadmCo3psX4l), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Jay Bahd](https://open.spotify.com/artist/5ZpVtG24m3h6pPcwPJQAqN) | [Kɔɔ](https://open.spotify.com/album/1x6Cii1tbEpe35hHklUJTD) | 3:46 | 2023-06-16 | 2023-09-15 |
 | [Lavida Loca](https://open.spotify.com/track/6OOUQ6PiHVK5M63KEfpXUg) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG) | [PITJ](https://open.spotify.com/album/2YLTD3ctvprBZqF3nBspik) | 2:35 | 2023-08-10 |  |
 | [Live From 233](https://open.spotify.com/track/1mxaeq1bLsbLAYfxd8hDAf) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [This Is Not The Tape, Sorry 4 The Wait II](https://open.spotify.com/album/6tE4MR5d8K84Lz1CewM4P8) | 2:44 | 2022-06-09 |  |
+| [LONELY ROAD](https://open.spotify.com/track/5P7d1cYRk786etl1Jbwpk5) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [XlimKid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [PAIN IN GLORY](https://open.spotify.com/album/5mQyfbXSujRUaxTaQBZw4T) | 3:00 | 2023-11-29 |  |
 | [LOWKEY](https://open.spotify.com/track/47Xn4zouOd54MPkJW0b0WL) | [Jo.Real](https://open.spotify.com/artist/6AukcisQx35JShJCQvxCW2) | [LOWKEY](https://open.spotify.com/album/47HqwTpphpRCUrhgvT2H7r) | 3:38 | 2022-10-13 | 2022-11-05 |
 | [M.O.B](https://open.spotify.com/track/5ZjMbsuc7hzTyMlauaJUbt) | [O'kenneth,reggie](https://open.spotify.com/artist/132awLu7WliKxvElyC2Qgu) | [Straight Outta Kumerica](https://open.spotify.com/album/54JOkOQwRCI799ZdqP3EyA) | 3:11 | 2022-06-09 |  |
 | [Ma ba](https://open.spotify.com/track/3uPW36bY5zszIY9yuB0me7) | [Nkay](https://open.spotify.com/artist/1PQcG2ep2nohJCMyRFyWlv) | [Ma ba](https://open.spotify.com/album/7oayvyYgb9kd0dWOjFQ2sF) | 3:24 | 2023-02-10 | 2023-02-24 |

@@ -1,12 +1,12 @@
 {
   "description": "Romance antig\u00fcito en voz de tus artistas pop con Kali Uchis en portada.",
-  "num_followers": 534473,
+  "num_followers": 534518,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzIxMWRjOTJmM2I0ZWY1MDQzZDZhNDFjYmVjMzg5OWNmYWM2M2Jk",
+  "snapshot_id": "MCw3NjBjMmRiY2YxMjhhOTUxMzllMjY5MTUxZGU5ZDk4OGRhYzBiYTM1",
   "tracks": [
     {
       "added_at": "2023-10-21 00:43:02",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-10-21 00:43:02",
       "album": {
+        "name": "Tengo",
+        "url": "https://open.spotify.com/album/2cqrUCizJahsIfhzgE1uH8"
+      },
+      "artists": [
+        {
+          "name": "Tania Matus",
+          "url": "https://open.spotify.com/artist/3AtQAFdXoag2fwVScetgTF"
+        }
+      ],
+      "duration_ms": 248208,
+      "name": "Tengo",
+      "url": "https://open.spotify.com/track/0yOUq6w4cN037OcxdZDQQP"
+    },
+    {
+      "added_at": "2023-10-21 00:43:02",
+      "album": {
         "name": "Grandes \u00c9xitos de las Sonoras, Con la M\u00e1s Grande, La Sonora Santanera",
         "url": "https://open.spotify.com/album/5Gir03Fy6IXYvsdE1G3WfZ"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 188626,
       "name": "Perfume de Gardenia (with Alejandro Fern\u00e1ndez)",
       "url": "https://open.spotify.com/track/7CqoWdCRMBSUGgQg55A6C2"
-    },
-    {
-      "added_at": "2023-10-21 00:43:02",
-      "album": {
-        "name": "Tengo",
-        "url": "https://open.spotify.com/album/2cqrUCizJahsIfhzgE1uH8"
-      },
-      "artists": [
-        {
-          "name": "Tania Matus",
-          "url": "https://open.spotify.com/artist/3AtQAFdXoag2fwVScetgTF"
-        }
-      ],
-      "duration_ms": 248208,
-      "name": "Tengo",
-      "url": "https://open.spotify.com/track/0yOUq6w4cN037OcxdZDQQP"
     },
     {
       "added_at": "2023-10-21 00:43:02",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2023-10-21 00:43:02",
       "album": {
+        "name": "Solo Boleros",
+        "url": "https://open.spotify.com/album/4Pfgh3WJiJH1FUtwiI3oxD"
+      },
+      "artists": [
+        {
+          "name": "Kika Edgar",
+          "url": "https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA"
+        }
+      ],
+      "duration_ms": 178925,
+      "name": "Cuando Vuelva a Tu Lado",
+      "url": "https://open.spotify.com/track/1TtvU2uSTwTaqloJwGItk7"
+    },
+    {
+      "added_at": "2023-10-21 00:43:02",
+      "album": {
         "name": "B\u00e9same mucho",
         "url": "https://open.spotify.com/album/6dFvBCQkwOJwCWQsSHsFEW"
       },
@@ -1343,18 +1359,18 @@
     {
       "added_at": "2023-10-21 00:43:02",
       "album": {
-        "name": "Solo Boleros",
-        "url": "https://open.spotify.com/album/4Pfgh3WJiJH1FUtwiI3oxD"
+        "name": "El palacio de las flores",
+        "url": "https://open.spotify.com/album/5AeKNE9h7MfjCFY0llkDmg"
       },
       "artists": [
         {
-          "name": "Kika Edgar",
-          "url": "https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA"
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 178925,
-      "name": "Cuando Vuelva a Tu Lado",
-      "url": "https://open.spotify.com/track/1TtvU2uSTwTaqloJwGItk7"
+      "duration_ms": 259146,
+      "name": "Contigo aprend\u00ed",
+      "url": "https://open.spotify.com/track/0pO5eDgP67Inq0SrSRbxuB"
     },
     {
       "added_at": "2023-10-21 00:43:02",
@@ -1371,22 +1387,6 @@
       "duration_ms": 165173,
       "name": "En la Orilla del Mar",
       "url": "https://open.spotify.com/track/1RYZwlDS2wt1rj0c249X7x"
-    },
-    {
-      "added_at": "2023-10-21 00:43:02",
-      "album": {
-        "name": "El palacio de las flores",
-        "url": "https://open.spotify.com/album/5AeKNE9h7MfjCFY0llkDmg"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 259146,
-      "name": "Contigo aprend\u00ed",
-      "url": "https://open.spotify.com/track/0pO5eDgP67Inq0SrSRbxuB"
     },
     {
       "added_at": "2023-10-21 00:43:02",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2023-10-21 00:43:02",
       "album": {
+        "name": "Una Buena Se\u00f1al",
+        "url": "https://open.spotify.com/album/7K4Skg7SyLMzLhgSXAcoYC"
+      },
+      "artists": [
+        {
+          "name": "Paco de Mar\u00eda",
+          "url": "https://open.spotify.com/artist/2mbskxBaHE1KFkmul4slY2"
+        }
+      ],
+      "duration_ms": 227400,
+      "name": "Preso",
+      "url": "https://open.spotify.com/track/1HbrJm8GebgXE24ixji0hR"
+    },
+    {
+      "added_at": "2023-10-21 00:43:02",
+      "album": {
         "name": "Te Tocaba A Ti Llorar",
         "url": "https://open.spotify.com/album/1QdQqLnwuQsKnfZ5blD3Al"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 193426,
       "name": "Te Tocaba A Ti Llorar",
       "url": "https://open.spotify.com/track/69wyLBhOeKlS4VcilXZhzN"
-    },
-    {
-      "added_at": "2023-10-21 00:43:02",
-      "album": {
-        "name": "Una Buena Se\u00f1al",
-        "url": "https://open.spotify.com/album/7K4Skg7SyLMzLhgSXAcoYC"
-      },
-      "artists": [
-        {
-          "name": "Paco de Mar\u00eda",
-          "url": "https://open.spotify.com/artist/2mbskxBaHE1KFkmul4slY2"
-        }
-      ],
-      "duration_ms": 227400,
-      "name": "Preso",
-      "url": "https://open.spotify.com/track/1HbrJm8GebgXE24ixji0hR"
     },
     {
       "added_at": "2023-10-21 00:43:02",

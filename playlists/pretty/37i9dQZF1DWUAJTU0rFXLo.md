@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAJTU0rFXLo.md) - [plain]
 
 > Músicas que fazem de qualquer hora, a mais perfeita para um baile! Foto: Carlos Dafé
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,727 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,760 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAJTU0rFXLo.md) - [plain]
 | 29 | [Higher Ground](https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 3:42 |
 | 30 | [All Night Long \- Single Version](https://open.spotify.com/track/4giIdAr7Plyu5LQzBOR4FP) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Back To Front](https://open.spotify.com/album/3oCmLDbxXc1SDZIkwGo0x5) | 4:20 |
 | 31 | [He's the Greatest Dancer \- 1995 Remaster](https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family \(1995 Remaster\)](https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT) | 6:15 |
-| 32 | [Your Song](https://open.spotify.com/track/5TUs6T93fNFvgQov6MlYkP) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [360 Degrees of Billy Paul \(Expanded Edition\)](https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a) | 6:30 |
-| 33 | [Outstanding \- Original 12" Mix](https://open.spotify.com/track/6korvxtUEyt590jUFOfADm) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [The 12" Collection And More \(Funk Essentials\)](https://open.spotify.com/album/2RBgodUUn2EzbMDSq0shGH) | 6:15 |
+| 32 | [Outstanding \- Original 12" Mix](https://open.spotify.com/track/6korvxtUEyt590jUFOfADm) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [The 12" Collection And More \(Funk Essentials\)](https://open.spotify.com/album/2RBgodUUn2EzbMDSq0shGH) | 6:15 |
+| 33 | [Your Song](https://open.spotify.com/track/5TUs6T93fNFvgQov6MlYkP) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [360 Degrees of Billy Paul \(Expanded Edition\)](https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a) | 6:30 |
 | 34 | [Réu Confesso](https://open.spotify.com/track/3BpiaGyTIb7VIoAYbvSzTH) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Tim Maia 1973](https://open.spotify.com/album/6gK1Uf1uZolqGBibGaW5qK) | 3:37 |
 | 35 | [Give Up The Funk \(Tear The Roof Off The Sucker\)](https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Mothership Connection](https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2) | 5:48 |
 | 36 | [I Want You](https://open.spotify.com/track/2gmWJA9oF4GD2Vw5QoRqu1) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [I Want You \(Deluxe Edition\)](https://open.spotify.com/album/28nUWsyczStUhYKXTY1IoW) | 4:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAJTU0rFXLo.md) - [plain]
 | 99 | [Ngiculela\-Es Una Historia\-I Am Singing](https://open.spotify.com/track/49jWPMEvoGPNRYSd4vEXSo) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 3:48 |
 | 100 | [Jhony](https://open.spotify.com/track/2w6y4oJAWTzoLuG7GnIlyb) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Disco Club](https://open.spotify.com/album/5D5OGW1c4enqcI9fqs1XWt) | 2:19 |
 
-Snapshot ID: `MCwwODNlYTU4NjExZTcwZjZiY2U5YmY2MTRhYjBiNDlkZWYxYWQ5Nzgw`
+Snapshot ID: `MCxmYWE0MDdlODBlMWMwZDdiODM0ZGUxMzlhNTdlMjA0YzUxMWVkMjgx`

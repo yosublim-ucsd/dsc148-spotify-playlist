@@ -1,12 +1,12 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
-  "num_followers": 2590663,
+  "num_followers": 2590783,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2RiNmI3MGJjOGQ5ZmJiOWY2NGM0NDcyY2Q3YzNlYmU3NTY1YjQ2",
+  "snapshot_id": "MCxiNDJkNGM0NDVlYjE0ZDFlZmRhNzdlYWRjN2IzMDJjZjVkMzBhNTBh",
   "tracks": [
     {
       "added_at": "2023-10-24 23:00:00",
@@ -707,6 +707,22 @@
     {
       "added_at": "2023-10-24 23:00:00",
       "album": {
+        "name": "Can We Be Free",
+        "url": "https://open.spotify.com/album/3gc3VKoim4ygl5LyfePAfP"
+      },
+      "artists": [
+        {
+          "name": "KUURO",
+          "url": "https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q"
+        }
+      ],
+      "duration_ms": 198315,
+      "name": "Can We Be Free",
+      "url": "https://open.spotify.com/track/4JHfB0tPjE38N5KTSaX39I"
+    },
+    {
+      "added_at": "2023-10-24 23:00:00",
+      "album": {
         "name": "Criminal",
         "url": "https://open.spotify.com/album/1uyc31Iw3pbYXstxykjzfr"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 251862,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/1wlsLLlTQjtqBvrPbKXHXd"
-    },
-    {
-      "added_at": "2023-10-24 23:00:00",
-      "album": {
-        "name": "Can We Be Free",
-        "url": "https://open.spotify.com/album/3gc3VKoim4ygl5LyfePAfP"
-      },
-      "artists": [
-        {
-          "name": "KUURO",
-          "url": "https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q"
-        }
-      ],
-      "duration_ms": 198315,
-      "name": "Can We Be Free",
-      "url": "https://open.spotify.com/track/4JHfB0tPjE38N5KTSaX39I"
     },
     {
       "added_at": "2023-10-24 23:00:00",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2023-10-24 23:00:00",
       "album": {
-        "name": "WRATH OF THE WICKED",
-        "url": "https://open.spotify.com/album/0QfcUPY2N5G1uJk0714XCb"
-      },
-      "artists": [
-        {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
-        },
-        {
-          "name": "Medyk",
-          "url": "https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "SAVE U NOW",
-      "url": "https://open.spotify.com/track/4K0pPcYPRIBDavThi6FD0r"
-    },
-    {
-      "added_at": "2023-10-24 23:00:00",
-      "album": {
         "name": "Bloodbath",
         "url": "https://open.spotify.com/album/1PTOieMAfJSzcxdn2hkjtt"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 200662,
       "name": "Bloodbath",
       "url": "https://open.spotify.com/track/7z35ELbZv0zResMSqwsoKa"
+    },
+    {
+      "added_at": "2023-10-24 23:00:00",
+      "album": {
+        "name": "WRATH OF THE WICKED",
+        "url": "https://open.spotify.com/album/0QfcUPY2N5G1uJk0714XCb"
+      },
+      "artists": [
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        },
+        {
+          "name": "Medyk",
+          "url": "https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "SAVE U NOW",
+      "url": "https://open.spotify.com/track/4K0pPcYPRIBDavThi6FD0r"
     },
     {
       "added_at": "2023-10-24 23:00:00",
@@ -1387,6 +1387,26 @@
     {
       "added_at": "2023-10-24 23:00:00",
       "album": {
+        "name": "2 MUCH (feat. 24hrs)",
+        "url": "https://open.spotify.com/album/01xr9so8umOVL5bwL82noG"
+      },
+      "artists": [
+        {
+          "name": "Flosstradamus",
+          "url": "https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j"
+        },
+        {
+          "name": "24hrs",
+          "url": "https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "2 MUCH (feat. 24hrs)",
+      "url": "https://open.spotify.com/track/5YRmvwA6P4fABxRhc61iH9"
+    },
+    {
+      "added_at": "2023-10-24 23:00:00",
+      "album": {
         "name": "DISRUPTOR LP",
         "url": "https://open.spotify.com/album/1UXLEXcUYHLNouwidskiMa"
       },
@@ -1427,22 +1447,6 @@
     {
       "added_at": "2023-10-24 23:00:00",
       "album": {
-        "name": "Valley Of Violence",
-        "url": "https://open.spotify.com/album/3fblenkjskYmPpOOAm58My"
-      },
-      "artists": [
-        {
-          "name": "Zomboy",
-          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
-        }
-      ],
-      "duration_ms": 238443,
-      "name": "Valley Of Violence",
-      "url": "https://open.spotify.com/track/1jz6nNE00KCKqVXCzBr5JW"
-    },
-    {
-      "added_at": "2023-10-24 23:00:00",
-      "album": {
         "name": "NO FEAR",
         "url": "https://open.spotify.com/album/36SmlBYQsx9egrbscTMe9D"
       },
@@ -1467,22 +1471,18 @@
     {
       "added_at": "2023-10-24 23:00:00",
       "album": {
-        "name": "2 MUCH (feat. 24hrs)",
-        "url": "https://open.spotify.com/album/01xr9so8umOVL5bwL82noG"
+        "name": "Valley Of Violence",
+        "url": "https://open.spotify.com/album/3fblenkjskYmPpOOAm58My"
       },
       "artists": [
         {
-          "name": "Flosstradamus",
-          "url": "https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j"
-        },
-        {
-          "name": "24hrs",
-          "url": "https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J"
+          "name": "Zomboy",
+          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
         }
       ],
-      "duration_ms": 182400,
-      "name": "2 MUCH (feat. 24hrs)",
-      "url": "https://open.spotify.com/track/5YRmvwA6P4fABxRhc61iH9"
+      "duration_ms": 238443,
+      "name": "Valley Of Violence",
+      "url": "https://open.spotify.com/track/1jz6nNE00KCKqVXCzBr5JW"
     },
     {
       "added_at": "2023-10-24 23:00:00",

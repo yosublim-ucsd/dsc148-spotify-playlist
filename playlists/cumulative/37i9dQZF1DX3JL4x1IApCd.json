@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Editor's pick: The best of Gengetone songs of 2022. Cover: Exray Taniua",
-  "name": "Gengetone Fire Presents... Best Gengetone Songs Of 2022",
+  "description": "Editor's pick: The best of Gengetone songs of 2023. Cover: Uncojingjong",
+  "name": "Gengetone Fire Presents...Best Gengetone Songs Of 2023",
   "tracks": [
     {
       "album": {
@@ -116,7 +116,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 180453,
       "name": "Ala",
       "url": "https://open.spotify.com/track/2nOBa9BLxyDOev8sM82LrH"
@@ -175,6 +175,46 @@
     },
     {
       "album": {
+        "name": "Alert",
+        "url": "https://open.spotify.com/album/6R8MrjmK8u5RfIwPHR2lU4"
+      },
+      "artists": [
+        {
+          "name": "Lilmaina",
+          "url": "https://open.spotify.com/artist/1GF4G0q7pW65JWvuKWKDzv"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120228,
+      "name": "Alert",
+      "url": "https://open.spotify.com/track/6Lp23k6v9eSrZf3kS4t1E7"
+    },
+    {
+      "album": {
+        "name": "Kelele (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1KDJyapBIBQjRGiLhJKzTG"
+      },
+      "artists": [
+        {
+          "name": "Mbuzi Gang",
+          "url": "https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl"
+        },
+        {
+          "name": "Odi Wa Muranga",
+          "url": "https://open.spotify.com/artist/789Et77m6EivwPJBTtEcu8"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163160,
+      "name": "Alert",
+      "url": "https://open.spotify.com/track/33htkCWlVopcE4UQRQ8710"
+    },
+    {
+      "album": {
         "name": "Ama Vipi",
         "url": "https://open.spotify.com/album/6odHNSObAjCYG1taehzalf"
       },
@@ -220,10 +260,40 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 186122,
       "name": "Ameiva - Wav",
       "url": "https://open.spotify.com/track/4w4GO37JHlmHlxfSIZuxUd"
+    },
+    {
+      "album": {
+        "name": "Angela (Remix)",
+        "url": "https://open.spotify.com/album/3R0Izl0KAG58L6RtxvBZ58"
+      },
+      "artists": [
+        {
+          "name": "Boutross",
+          "url": "https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y"
+        },
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        },
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        },
+        {
+          "name": "Juicee Mann",
+          "url": "https://open.spotify.com/artist/6pAujzqyffMZaJT2YG7RvQ"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Angela - Remix",
+      "url": "https://open.spotify.com/track/6dsJk2F3gaCFmpHawBAg3t"
     },
     {
       "album": {
@@ -272,7 +342,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 227683,
       "name": "Balance the Ball",
       "url": "https://open.spotify.com/track/6zFxozO5rO7cvSKipJLWTO"
@@ -328,10 +398,48 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 293617,
       "name": "Bandana Ya E-Sir",
       "url": "https://open.spotify.com/track/6gPgR7ezAhBDlxQ3Co0Cuv"
+    },
+    {
+      "album": {
+        "name": "Bariki Mzinga",
+        "url": "https://open.spotify.com/album/5VNkGkBGPp7vSeBI014T47"
+      },
+      "artists": [
+        {
+          "name": "Rico Gang",
+          "url": "https://open.spotify.com/artist/0h07tyuXINVc3kGjHGCZRx"
+        },
+        {
+          "name": "Swat Matire",
+          "url": "https://open.spotify.com/artist/3xt7rgzSvLtQeWJIQHFqlV"
+        },
+        {
+          "name": "Odi Wa Muranga",
+          "url": "https://open.spotify.com/artist/789Et77m6EivwPJBTtEcu8"
+        },
+        {
+          "name": "DJ Joe Mfalme",
+          "url": "https://open.spotify.com/artist/1zKt44Gh5ohrq4wOEwTSVY"
+        },
+        {
+          "name": "K4 Kanali",
+          "url": "https://open.spotify.com/artist/01czKtkZUH1jn3iwtmfD7O"
+        },
+        {
+          "name": "Hypegad",
+          "url": "https://open.spotify.com/artist/5uA11jOHXVu8X9Ewf9Gqnp"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Bariki Mzinga",
+      "url": "https://open.spotify.com/track/1Fntb3jTzqiq24KEvQJDUV"
     },
     {
       "album": {
@@ -380,7 +488,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 192237,
       "name": "Benga Na Mugithi",
       "url": "https://open.spotify.com/track/5vM0Y4MatVHi8laJoHtBtj"
@@ -398,7 +506,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 232800,
       "name": "BIZZ NI BIZZ",
       "url": "https://open.spotify.com/track/2aHwfcPILQmSLOTHHfQqiY"
@@ -420,6 +528,28 @@
       "duration_ms": 188969,
       "name": "Blanda",
       "url": "https://open.spotify.com/track/2MHjWA1bG1REki0VeQheWX"
+    },
+    {
+      "album": {
+        "name": "Blueticks",
+        "url": "https://open.spotify.com/album/4PZ32ERekuiOH4K0QyPyG5"
+      },
+      "artists": [
+        {
+          "name": "Joefes",
+          "url": "https://open.spotify.com/artist/6ZgN5sC0MG0xE7VBkxC318"
+        },
+        {
+          "name": "Unspoken Salaton",
+          "url": "https://open.spotify.com/artist/3FmMDBIQ6C4mEsgPVcVugY"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168979,
+      "name": "Blueticks",
+      "url": "https://open.spotify.com/track/3n9GFwWJZbOHr0bFz62dMm"
     },
     {
       "album": {
@@ -498,6 +628,24 @@
       "duration_ms": 244558,
       "name": "BTW",
       "url": "https://open.spotify.com/track/2EV48VVgvkW1zQuGQTsdED"
+    },
+    {
+      "album": {
+        "name": "Ghetto Genius",
+        "url": "https://open.spotify.com/album/2QijZ5nkbcTtWg7XYv8fMx"
+      },
+      "artists": [
+        {
+          "name": "Boondocks Gang",
+          "url": "https://open.spotify.com/artist/2NCbtxsrqTAf0XWugY749q"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215562,
+      "name": "Bure Kabisa",
+      "url": "https://open.spotify.com/track/4Yla7sZf5R0CRmzlSIrVKD"
     },
     {
       "album": {
@@ -594,7 +742,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 334000,
       "name": "Cheza Kama Wewe",
       "url": "https://open.spotify.com/track/4NAhcKp6YtMDRAMH4UeUE5"
@@ -628,7 +776,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 240837,
       "name": "Chingri",
       "url": "https://open.spotify.com/track/695iTP0Wk2V9gBHRKiplZb"
@@ -715,6 +863,62 @@
     },
     {
       "album": {
+        "name": "Classy Feat (Exray Taniua & Kristoff MWB)",
+        "url": "https://open.spotify.com/album/01fGcRXLXW5PjZJ2E90M1w"
+      },
+      "artists": [
+        {
+          "name": "Mc Rayan The Dj",
+          "url": "https://open.spotify.com/artist/230ekA5qM5ff89XJ7qIN4Z"
+        },
+        {
+          "name": "Exray Taniua",
+          "url": "https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6"
+        },
+        {
+          "name": "Kristoff MWB",
+          "url": "https://open.spotify.com/artist/6rJsKSCMerhXVye0hh3y3e"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Classy Feat (Exray Taniua & Kristoff MWB)",
+      "url": "https://open.spotify.com/track/0tbntItotdcLQ8tb1aFDJ8"
+    },
+    {
+      "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/5QGE7Gq5bxFa5jt8Y6vTIx"
+      },
+      "artists": [
+        {
+          "name": "Joefes",
+          "url": "https://open.spotify.com/artist/6ZgN5sC0MG0xE7VBkxC318"
+        },
+        {
+          "name": "Fathermoh",
+          "url": "https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA"
+        },
+        {
+          "name": "Unspoken Salaton",
+          "url": "https://open.spotify.com/artist/3FmMDBIQ6C4mEsgPVcVugY"
+        },
+        {
+          "name": "Odi Wa Murang'a",
+          "url": "https://open.spotify.com/artist/4LmwDeDzv98ZgzZ4Kbz3UH"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170612,
+      "name": "Confirmed",
+      "url": "https://open.spotify.com/track/7bVpf6S7Uxd0khRwYnUkbu"
+    },
+    {
+      "album": {
         "name": "Dai Dai",
         "url": "https://open.spotify.com/album/3kTpDX8OQWsQ9mRuPwFyoK"
       },
@@ -752,6 +956,32 @@
       "duration_ms": 188823,
       "name": "Daktari",
       "url": "https://open.spotify.com/track/1laXrxT3dSBAbdNZIpFeZB"
+    },
+    {
+      "album": {
+        "name": "Dala Wa",
+        "url": "https://open.spotify.com/album/5w7xl4ONKgqcsGBXXUcjxd"
+      },
+      "artists": [
+        {
+          "name": "Mejja",
+          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
+        },
+        {
+          "name": "Kamwana",
+          "url": "https://open.spotify.com/artist/4CUMYYAed2LFHyCTLb4caq"
+        },
+        {
+          "name": "Veryl Mkali Wao",
+          "url": "https://open.spotify.com/artist/4htwtJq9AaxSbpVnA9yopl"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216470,
+      "name": "Dala Wa",
+      "url": "https://open.spotify.com/track/3vwCLR1fyjeMCkPFfnfnHL"
     },
     {
       "album": {
@@ -796,7 +1026,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 197537,
       "name": "Danshie",
       "url": "https://open.spotify.com/track/2cy5jKcaRg831XEwEyxSR8"
@@ -1055,6 +1285,24 @@
     },
     {
       "album": {
+        "name": "Drunk N Disorderly",
+        "url": "https://open.spotify.com/album/3TePjPiZ3703jTmot3igo0"
+      },
+      "artists": [
+        {
+          "name": "Kushman",
+          "url": "https://open.spotify.com/artist/0iQVMwFTMDQumGIfqbV7gB"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174367,
+      "name": "Drunk N Disorderly",
+      "url": "https://open.spotify.com/track/2wkzB9IwJTATr2ORoqQKzo"
+    },
+    {
+      "album": {
         "name": "DUDU",
         "url": "https://open.spotify.com/album/2EEEWLGzl6UIsPX78F5uCo"
       },
@@ -1106,7 +1354,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 196075,
       "name": "Ex",
       "url": "https://open.spotify.com/track/4IaAncOtb1tpdS5xfML60h"
@@ -1246,6 +1494,28 @@
       "duration_ms": 186998,
       "name": "Foto Moto",
       "url": "https://open.spotify.com/track/66Om7zMk7oNblL8bfVRR1N"
+    },
+    {
+      "album": {
+        "name": "Fukuru",
+        "url": "https://open.spotify.com/album/0SmMmti8sJiW99U9OE4iEp"
+      },
+      "artists": [
+        {
+          "name": "mbogi genje",
+          "url": "https://open.spotify.com/artist/5eQ2ubstDVX3PfioYXETdi"
+        },
+        {
+          "name": "Kushman",
+          "url": "https://open.spotify.com/artist/0iQVMwFTMDQumGIfqbV7gB"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231955,
+      "name": "Fukuru",
+      "url": "https://open.spotify.com/track/0g0EXBEerMRPEGIyRkZihw"
     },
     {
       "album": {
@@ -1406,7 +1676,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 253333,
       "name": "Hatukuelewi",
       "url": "https://open.spotify.com/track/5ZRoeBBRUbGe6zrtcbRnfC"
@@ -1468,7 +1738,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 187559,
       "name": "Hivi Na Hivo",
       "url": "https://open.spotify.com/track/4qgXVPkYela0Ql8svwNbU6"
@@ -1534,7 +1804,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 194586,
       "name": "Ka Unaweza",
       "url": "https://open.spotify.com/track/7lk6GK9hQSXbeornMmYll5"
@@ -1644,6 +1914,28 @@
       "duration_ms": 221332,
       "name": "Kanairo Dating",
       "url": "https://open.spotify.com/track/61yhVznYvsruXvl71ld3ig"
+    },
+    {
+      "album": {
+        "name": "Kaskie Vibaya",
+        "url": "https://open.spotify.com/album/3I2xim6t1W5RqtqXKElICs"
+      },
+      "artists": [
+        {
+          "name": "Fathermoh",
+          "url": "https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA"
+        },
+        {
+          "name": "Ssaru",
+          "url": "https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157844,
+      "name": "Kaskie Vibaya",
+      "url": "https://open.spotify.com/track/1kgxOHGjNsyg4fGZ31YJQT"
     },
     {
       "album": {
@@ -1788,7 +2080,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 220728,
       "name": "Kichwa Mbaya",
       "url": "https://open.spotify.com/track/1Eytt6oPQrAovjGDS1iIdr"
@@ -1814,7 +2106,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 205400,
       "name": "Kichwa Tu",
       "url": "https://open.spotify.com/track/74Z0rYj90V4QDhxygsKhuB"
@@ -1872,6 +2164,28 @@
       "duration_ms": 167114,
       "name": "Kidungi",
       "url": "https://open.spotify.com/track/6TusoL09kQevAiGPH1ln2W"
+    },
+    {
+      "album": {
+        "name": "KINARE",
+        "url": "https://open.spotify.com/album/59RCYnLluTVay2gvf2VWa4"
+      },
+      "artists": [
+        {
+          "name": "Lilmaina",
+          "url": "https://open.spotify.com/artist/1GF4G0q7pW65JWvuKWKDzv"
+        },
+        {
+          "name": "mtap3li",
+          "url": "https://open.spotify.com/artist/5u7wv4T187JbZSulLdVMYJ"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154920,
+      "name": "KINARE",
+      "url": "https://open.spotify.com/track/0B3KgzCTluFTPHsF54MbR6"
     },
     {
       "album": {
@@ -2021,6 +2335,28 @@
     },
     {
       "album": {
+        "name": "LELE",
+        "url": "https://open.spotify.com/album/5kc0Lv9SvPgMa7sAVD9Utu"
+      },
+      "artists": [
+        {
+          "name": "YBW Smith",
+          "url": "https://open.spotify.com/artist/68U6AVEqnL3frYT7udHvYo"
+        },
+        {
+          "name": "Lufasa",
+          "url": "https://open.spotify.com/artist/5fmt1ywQDIrAxPSUmx978J"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184464,
+      "name": "LELE",
+      "url": "https://open.spotify.com/track/2LruoeWC1TSmFte9Fk6hWh"
+    },
+    {
+      "album": {
         "name": "Lewa",
         "url": "https://open.spotify.com/album/3fR1jsqwbUaE2pv2MaLx0j"
       },
@@ -2122,7 +2458,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 190985,
       "name": "Madem Wa Nai",
       "url": "https://open.spotify.com/track/7f3J5D674s54ZaMPkSAHbs"
@@ -2169,6 +2505,80 @@
     },
     {
       "album": {
+        "name": "Makofi",
+        "url": "https://open.spotify.com/album/5Mb2exbthwd15Wn62pqnyC"
+      },
+      "artists": [
+        {
+          "name": "Exray Taniua",
+          "url": "https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6"
+        },
+        {
+          "name": "Omollo",
+          "url": "https://open.spotify.com/artist/7HPHXUb4hjkkVdGe1YzxGf"
+        },
+        {
+          "name": "Odi Wa Muranga",
+          "url": "https://open.spotify.com/artist/789Et77m6EivwPJBTtEcu8"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209397,
+      "name": "Makofi",
+      "url": "https://open.spotify.com/track/0KBjCrxN7mmBmQmzupQxMR"
+    },
+    {
+      "album": {
+        "name": "Makudiro",
+        "url": "https://open.spotify.com/album/6abqMz7DpumeuYkHPkEjtu"
+      },
+      "artists": [
+        {
+          "name": "Kanairo",
+          "url": "https://open.spotify.com/artist/3AJv488pOm46UfLBbVMeGf"
+        },
+        {
+          "name": "Ssaru",
+          "url": "https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149446,
+      "name": "Makudiro",
+      "url": "https://open.spotify.com/track/7pTswKcVWgaGBKtY42e31R"
+    },
+    {
+      "album": {
+        "name": "Mambo Imechemka",
+        "url": "https://open.spotify.com/album/1IKXz7ya3fxqZQyVLkqn0w"
+      },
+      "artists": [
+        {
+          "name": "KRG The Don",
+          "url": "https://open.spotify.com/artist/5fIydBPSYND33r0JwxbKMH"
+        },
+        {
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+        },
+        {
+          "name": "Dufla Diligon",
+          "url": "https://open.spotify.com/artist/26PyZ8WaXDVlYGW3Y8NfT6"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200816,
+      "name": "Mambo Imechemka",
+      "url": "https://open.spotify.com/track/3VWrTzn7d7HWDE8aZKrBOw"
+    },
+    {
+      "album": {
         "name": "Manyuria",
         "url": "https://open.spotify.com/album/1Va6NPyYIHQSQ1tKIwl7A3"
       },
@@ -2202,6 +2612,32 @@
       "duration_ms": 159157,
       "name": "Manyuria",
       "url": "https://open.spotify.com/track/2eHB3OxZwYISuvYuYb9an5"
+    },
+    {
+      "album": {
+        "name": "Mapema Ndio Best",
+        "url": "https://open.spotify.com/album/5qz0x0K2k5b4N8DFjjQPoY"
+      },
+      "artists": [
+        {
+          "name": "Gwaash",
+          "url": "https://open.spotify.com/artist/1F6HFgzRxozLXpqb188uD7"
+        },
+        {
+          "name": "THEONLYDELO",
+          "url": "https://open.spotify.com/artist/20oN1j6cWOJ2GgnBsN0lye"
+        },
+        {
+          "name": "K4kanali",
+          "url": "https://open.spotify.com/artist/6dgXAgAu8iBRCAEk6Ie2TF"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205891,
+      "name": "Mapema Ndio Best",
+      "url": "https://open.spotify.com/track/5b8caYTRWpbi5I0jKrVah1"
     },
     {
       "album": {
@@ -2268,7 +2704,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 168000,
       "name": "Mbogi Ya Madenge",
       "url": "https://open.spotify.com/track/2K14BPDtOZxdBdaDZZtH0n"
@@ -2286,7 +2722,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 252264,
       "name": "Mbona Depression",
       "url": "https://open.spotify.com/track/30dkiusOfYnXcuw0r7rJYS"
@@ -2334,6 +2770,32 @@
       "duration_ms": 184427,
       "name": "Miondoko",
       "url": "https://open.spotify.com/track/4PqHRjNOD0OxOjS9Lk0tar"
+    },
+    {
+      "album": {
+        "name": "Miss Behavior",
+        "url": "https://open.spotify.com/album/7qs2V9CF80wz2vlkeYPmgC"
+      },
+      "artists": [
+        {
+          "name": "Boutross",
+          "url": "https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y"
+        },
+        {
+          "name": "Savara",
+          "url": "https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap"
+        },
+        {
+          "name": "Fathermoh",
+          "url": "https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167058,
+      "name": "Miss Behavior",
+      "url": "https://open.spotify.com/track/0d2WBQpBAgE5VZE1UeoIon"
     },
     {
       "album": {
@@ -2396,10 +2858,40 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 224554,
       "name": "Mzimbiting",
       "url": "https://open.spotify.com/track/0uDiCG0PNkRNc32AjTDDQj"
+    },
+    {
+      "album": {
+        "name": "Naipenda (Remix)",
+        "url": "https://open.spotify.com/album/2Z3RxKuQWN6Cga3C5CHpE0"
+      },
+      "artists": [
+        {
+          "name": "Breeder LW",
+          "url": "https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy"
+        },
+        {
+          "name": "Trio Mio",
+          "url": "https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX"
+        },
+        {
+          "name": "Uncojingjong",
+          "url": "https://open.spotify.com/artist/4TM3Re5tPyINdQRSNlAfIo"
+        },
+        {
+          "name": "Maandy",
+          "url": "https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Naipenda - Remix",
+      "url": "https://open.spotify.com/track/4DtO8nYfN2sXIWpyzWU4CM"
     },
     {
       "album": {
@@ -2426,7 +2918,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 202657,
       "name": "Nakulombotov - Remix",
       "url": "https://open.spotify.com/track/4bZZENtwTQvFzxi9GqllTR"
@@ -2482,6 +2974,36 @@
       "duration_ms": 235682,
       "name": "Namba Za Mapedi",
       "url": "https://open.spotify.com/track/5tY8h0DU07jBU1sSgd3W8C"
+    },
+    {
+      "album": {
+        "name": "Yinga",
+        "url": "https://open.spotify.com/album/2zkSoisn7kPVhKHEBos1sY"
+      },
+      "artists": [
+        {
+          "name": "Iphoolish",
+          "url": "https://open.spotify.com/artist/4vgL7NjTcEXAmObSdo5nmp"
+        },
+        {
+          "name": "Mbuzi Gang",
+          "url": "https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl"
+        },
+        {
+          "name": "Thee Exit Band",
+          "url": "https://open.spotify.com/artist/5tCS32hMdQWpx8gJJsR673"
+        },
+        {
+          "name": "Unco Jingjong",
+          "url": "https://open.spotify.com/artist/22lwvCuVhk527A9WP49im1"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217959,
+      "name": "Napenda Wote",
+      "url": "https://open.spotify.com/track/6KqqpWRJtPmgE4GZaQSyje"
     },
     {
       "album": {
@@ -2619,6 +3141,50 @@
     },
     {
       "album": {
+        "name": "Ngwai",
+        "url": "https://open.spotify.com/album/5CywYpe6tgVV1jhkNsRJ8b"
+      },
+      "artists": [
+        {
+          "name": "danski",
+          "url": "https://open.spotify.com/artist/1QSL2mlVoqSq1xoU67Bf8T"
+        },
+        {
+          "name": "Lilmaina",
+          "url": "https://open.spotify.com/artist/1GF4G0q7pW65JWvuKWKDzv"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132779,
+      "name": "Ngwai",
+      "url": "https://open.spotify.com/track/1CfRqv98t4UmngWTWcgDZK"
+    },
+    {
+      "album": {
+        "name": "Ni Wetu",
+        "url": "https://open.spotify.com/album/5NXk2vlt6UaURtbY2Gda3o"
+      },
+      "artists": [
+        {
+          "name": "Maandy",
+          "url": "https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP"
+        },
+        {
+          "name": "Mejja",
+          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181894,
+      "name": "Ni Wetu",
+      "url": "https://open.spotify.com/track/2N8nINhWcu3CPYAXCgaQRF"
+    },
+    {
+      "album": {
         "name": "Black Ama Regular",
         "url": "https://open.spotify.com/album/4DV838ExgpG87hVZu4sLTq"
       },
@@ -2642,7 +3208,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 259032,
       "name": "Nitakusema",
       "url": "https://open.spotify.com/track/0vTKDdxIJ9gWz91HFhZA1W"
@@ -2757,6 +3323,24 @@
     },
     {
       "album": {
+        "name": "Oa Jane (Mary Jane)",
+        "url": "https://open.spotify.com/album/6GXrNrDyjfoP1CTJTv1Fgb"
+      },
+      "artists": [
+        {
+          "name": "Exray Taniua",
+          "url": "https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168510,
+      "name": "Oa Jane (Mary Jane)",
+      "url": "https://open.spotify.com/track/3eSiZuYmqblGqRm9Kz9y2Q"
+    },
+    {
+      "album": {
         "name": "Pandemik",
         "url": "https://open.spotify.com/album/686UwrTXLaD6lSndiKXqil"
       },
@@ -2812,7 +3396,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 270341,
       "name": "Pattern",
       "url": "https://open.spotify.com/track/0WzSvVL1JKWzRgp2lfl8QM"
@@ -2908,10 +3492,32 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 119823,
       "name": "PEREMENDE",
       "url": "https://open.spotify.com/track/0hb9Zyb9M1RduwcNLB3Y2a"
+    },
+    {
+      "album": {
+        "name": "Pesa Ndogo",
+        "url": "https://open.spotify.com/album/7tgBbKwNZAGHLbqyVEZIXH"
+      },
+      "artists": [
+        {
+          "name": "Exray Taniua",
+          "url": "https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6"
+        },
+        {
+          "name": "Mejja",
+          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188166,
+      "name": "Pesa Ndogo",
+      "url": "https://open.spotify.com/track/17SB8W5WdkVpsA6huzqu1X"
     },
     {
       "album": {
@@ -2934,10 +3540,28 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 201862,
       "name": "Pombe Na Kizungu Mingi",
       "url": "https://open.spotify.com/track/5GGS1P0wgAlCma5d0J5gez"
+    },
+    {
+      "album": {
+        "name": "PUNGUZA EGO",
+        "url": "https://open.spotify.com/album/66K9xtlzsdkOVnGg6kGVtq"
+      },
+      "artists": [
+        {
+          "name": "Mejja",
+          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181475,
+      "name": "PUNGUZA EGO",
+      "url": "https://open.spotify.com/track/7xv1IfCT79cFHzYYYVoQA6"
     },
     {
       "album": {
@@ -2974,6 +3598,28 @@
       "duration_ms": 171734,
       "name": "Pussyprenuer",
       "url": "https://open.spotify.com/track/5g2xP34kZDwptddwkouXTt"
+    },
+    {
+      "album": {
+        "name": "Mawingu",
+        "url": "https://open.spotify.com/album/67yuWyHBKoIcTlQLT72KQN"
+      },
+      "artists": [
+        {
+          "name": "Boutross",
+          "url": "https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y"
+        },
+        {
+          "name": "Maandy",
+          "url": "https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151200,
+      "name": "Rich Rich Man",
+      "url": "https://open.spotify.com/track/3dwtuXIgLUVCdR6r4CAyww"
     },
     {
       "album": {
@@ -3229,6 +3875,24 @@
     },
     {
       "album": {
+        "name": "Shu Shu",
+        "url": "https://open.spotify.com/album/4JgYfTdb3RQ6MCROVWb3nO"
+      },
+      "artists": [
+        {
+          "name": "Gwaash",
+          "url": "https://open.spotify.com/artist/1F6HFgzRxozLXpqb188uD7"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167415,
+      "name": "Shu Shu",
+      "url": "https://open.spotify.com/track/6oI6TJo36NNHCN6XgaXYf7"
+    },
+    {
+      "album": {
         "name": "Si Huchanga",
         "url": "https://open.spotify.com/album/6HOBEezuXbOUH6Vnc55EPk"
       },
@@ -3308,7 +3972,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 186566,
       "name": "Sikusoma",
       "url": "https://open.spotify.com/track/71GCW6cSkWo32gnlARwNbH"
@@ -3386,7 +4050,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 218514,
       "name": "Sirudi Home - Remix",
       "url": "https://open.spotify.com/track/5hs1gahEFK0BFiiU3IEv59"
@@ -3422,7 +4086,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 166582,
       "name": "SO fine",
       "url": "https://open.spotify.com/track/2ciLZrKfJWnMSCLNynhDYc"
@@ -3451,6 +4115,24 @@
     },
     {
       "album": {
+        "name": "Flavour",
+        "url": "https://open.spotify.com/album/5YOqPJBwr15Z9RZOca5K1H"
+      },
+      "artists": [
+        {
+          "name": "Maandy",
+          "url": "https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146938,
+      "name": "Spoil",
+      "url": "https://open.spotify.com/track/3w2WZOz87AHiYpqf5BlT6e"
+    },
+    {
+      "album": {
         "name": "Sugua",
         "url": "https://open.spotify.com/album/0aZ0rdhnmCTklsxy3tEbXn"
       },
@@ -3470,7 +4152,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 183614,
       "name": "Sugua",
       "url": "https://open.spotify.com/track/7wCSgDBaSRcFsnKnPTN0ll"
@@ -3492,10 +4174,32 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 193018,
       "name": "Taki Taki",
       "url": "https://open.spotify.com/track/6NAquV442jG57JGMcANYgN"
+    },
+    {
+      "album": {
+        "name": "Tena",
+        "url": "https://open.spotify.com/album/6vXeMhDzsMVmrm8GueCM2B"
+      },
+      "artists": [
+        {
+          "name": "Maandy",
+          "url": "https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP"
+        },
+        {
+          "name": "Cedo",
+          "url": "https://open.spotify.com/artist/4XnL8ClOo3yWrWU4VJWa6q"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200666,
+      "name": "Tena",
+      "url": "https://open.spotify.com/track/7hNNskVSOIIKM9vkv5vMYf"
     },
     {
       "album": {
@@ -3536,6 +4240,24 @@
       "duration_ms": 206400,
       "name": "Thao",
       "url": "https://open.spotify.com/track/4Rgajil2UKIbWkl0Kb4Dlc"
+    },
+    {
+      "album": {
+        "name": "Tic Tac",
+        "url": "https://open.spotify.com/album/45tM63BQiPw2SIbXkMVgz6"
+      },
+      "artists": [
+        {
+          "name": "RanzScooby",
+          "url": "https://open.spotify.com/artist/4QZongCaHTAfYZo1fpessq"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237593,
+      "name": "Tic Tac",
+      "url": "https://open.spotify.com/track/35KmDvN2PDlwKYNHMkIi7i"
     },
     {
       "album": {
@@ -3669,6 +4391,32 @@
     },
     {
       "album": {
+        "name": "Tunajienjoy",
+        "url": "https://open.spotify.com/album/5QGn8oyBAVabSHcNmHM8bA"
+      },
+      "artists": [
+        {
+          "name": "Trio Mio",
+          "url": "https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX"
+        },
+        {
+          "name": "Ywaya Tajiri",
+          "url": "https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE"
+        },
+        {
+          "name": "Savara",
+          "url": "https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225600,
+      "name": "Tunajienjoy",
+      "url": "https://open.spotify.com/track/5naXm7Cg0tvVbCupoZDvhb"
+    },
+    {
+      "album": {
         "name": "Genge La Bundoski",
         "url": "https://open.spotify.com/album/2MmPVKmqh06x1zEfvqiFLm"
       },
@@ -3732,7 +4480,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 221387,
       "name": "Usherati",
       "url": "https://open.spotify.com/track/6XckSdd5zp9cJpplwOL9nJ"
@@ -3768,7 +4516,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 199909,
       "name": "WABABA",
       "url": "https://open.spotify.com/track/2yK919ZuJ54CQscoSVCPAQ"
@@ -3920,7 +4668,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 175751,
       "name": "Wanjapi",
       "url": "https://open.spotify.com/track/3Axax40ktlCBaoIIEpzsx8"
@@ -3981,6 +4729,24 @@
     },
     {
       "album": {
+        "name": "Weh Decide",
+        "url": "https://open.spotify.com/album/4OLUbUFLHsMaJzU06h98XL"
+      },
+      "artists": [
+        {
+          "name": "Mejja",
+          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154017,
+      "name": "Weh Decide",
+      "url": "https://open.spotify.com/track/18zzepMnPWJX3faAtOUWPQ"
+    },
+    {
+      "album": {
         "name": "Zimenice",
         "url": "https://open.spotify.com/album/36Hqg2CAuLs8mi5G75I6H0"
       },
@@ -3996,7 +4762,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 212307,
       "name": "Zimenice",
       "url": "https://open.spotify.com/track/3glO3AnPdXGhYxJVvMMY18"

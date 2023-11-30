@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 382779,
+  "num_followers": 382768,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjIwMmVlZjIzZDBmY2RmZDhkN2E0YmIxYTFlZWM1YmRkNWY1ZDI2",
+  "snapshot_id": "MCwwOWRmNmVjZTE2MGQ4ZmIxZTRjYWE4MmYwNDBiNTA0YzhiNzJiYTU3",
   "tracks": [
     {
       "added_at": "2023-11-28 15:00:00",
@@ -187,18 +187,18 @@
     {
       "added_at": "2023-11-28 15:00:00",
       "album": {
-        "name": "racy",
-        "url": "https://open.spotify.com/album/1WHbuGwCu7BumeZtxl4k38"
+        "name": "Racy",
+        "url": "https://open.spotify.com/album/2wbqPau2WcFPnmXQ1Bz2Wo"
       },
       "artists": [
         {
-          "name": "a\u5b50",
-          "url": "https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4"
+          "name": "ako",
+          "url": "https://open.spotify.com/artist/02XxVaFe2ZUm1LMIvWRYlo"
         }
       ],
       "duration_ms": 269306,
-      "name": "racy",
-      "url": "https://open.spotify.com/track/56d4QRwypo3gFJCOai7XFS"
+      "name": "Racy",
+      "url": "https://open.spotify.com/track/5AwEOc9BQCOZ88MeWRI4wb"
     },
     {
       "added_at": "2023-11-28 15:00:00",
@@ -252,7 +252,7 @@
       "added_at": "2023-11-28 15:00:00",
       "album": {
         "name": "What the Hell",
-        "url": "https://open.spotify.com/album/5NRA5maQZSLOWVKQsHSOpb"
+        "url": "https://open.spotify.com/album/1qfBbSPj9GQjS8xNGyJqoN"
       },
       "artists": [
         {
@@ -266,7 +266,7 @@
       ],
       "duration_ms": 248842,
       "name": "What the Hell",
-      "url": "https://open.spotify.com/track/4mj9u28GzR6B6fgM45ritm"
+      "url": "https://open.spotify.com/track/3Sio6hsXRUhhd6Hk4W1c7Y"
     },
     {
       "added_at": "2023-11-28 15:00:00",
@@ -812,7 +812,7 @@
       "added_at": "2023-11-28 15:00:00",
       "album": {
         "name": "Dear Lady (Remix) feat. oceanfromtheblue",
-        "url": "https://open.spotify.com/album/13RcTjfgW9Jgf2m2CHw7aR"
+        "url": "https://open.spotify.com/album/0KApwJnFlHqXcPQtmNzwEK"
       },
       "artists": [
         {
@@ -826,7 +826,7 @@
       ],
       "duration_ms": 179999,
       "name": "Dear Lady (Remix) feat. oceanfromtheblue",
-      "url": "https://open.spotify.com/track/0tMywYnMKujizsrkqEfKET"
+      "url": "https://open.spotify.com/track/4Imc18J56GDjFv5s7bygVI"
     },
     {
       "added_at": "2023-11-28 15:00:00",
@@ -848,7 +848,7 @@
       "added_at": "2023-11-28 15:00:00",
       "album": {
         "name": "by the Sea 3",
-        "url": "https://open.spotify.com/album/20A1c3QFeS6SSUkwtffzWJ"
+        "url": "https://open.spotify.com/album/1h5gkqfacQ9cbtSPgj08cz"
       },
       "artists": [
         {
@@ -861,8 +861,8 @@
         }
       ],
       "duration_ms": 272759,
-      "name": "\u771f\u590f\u306e\u679c\u5b9f - Cover",
-      "url": "https://open.spotify.com/track/3Fs7I1kToxhafKWDtU39Pw"
+      "name": "Manatsu No Kajitsu - Cover",
+      "url": "https://open.spotify.com/track/0ZhGefyDN3hKcqqfOfbjkf"
     },
     {
       "added_at": "2023-11-28 15:00:00",
@@ -1707,6 +1707,26 @@
     {
       "added_at": "2023-11-28 15:00:00",
       "album": {
+        "name": "Chaos engineering",
+        "url": "https://open.spotify.com/album/52nu2yZuWpYmFOZJYwUAII"
+      },
+      "artists": [
+        {
+          "name": "Sam is Ohm",
+          "url": "https://open.spotify.com/artist/3OFWImEAUL4Mqc0yH2A0Rg"
+        },
+        {
+          "name": "Aile The Shota",
+          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
+        }
+      ],
+      "duration_ms": 196933,
+      "name": "\u611b\u3058\u3083\u306a\u3044\u304b\u3089 (feat. Aile The Shota)",
+      "url": "https://open.spotify.com/track/7FrYA1uUWpxFVMY0htqJTe"
+    },
+    {
+      "added_at": "2023-11-28 15:00:00",
+      "album": {
         "name": "We'll be fine (English Version)",
         "url": "https://open.spotify.com/album/4zWNpcAvTnQHV3Inckiidi"
       },
@@ -1735,26 +1755,6 @@
       "duration_ms": 235562,
       "name": "\u5e7d\u970a",
       "url": "https://open.spotify.com/track/4dKjOYrXQxuJ2C3VaoWZwJ"
-    },
-    {
-      "added_at": "2023-11-28 15:00:00",
-      "album": {
-        "name": "Chaos engineering",
-        "url": "https://open.spotify.com/album/52nu2yZuWpYmFOZJYwUAII"
-      },
-      "artists": [
-        {
-          "name": "Sam is Ohm",
-          "url": "https://open.spotify.com/artist/3OFWImEAUL4Mqc0yH2A0Rg"
-        },
-        {
-          "name": "Aile The Shota",
-          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
-        }
-      ],
-      "duration_ms": 196933,
-      "name": "\u611b\u3058\u3083\u306a\u3044\u304b\u3089 (feat. Aile The Shota)",
-      "url": "https://open.spotify.com/track/7FrYA1uUWpxFVMY0htqJTe"
     },
     {
       "added_at": "2023-11-28 15:00:00",

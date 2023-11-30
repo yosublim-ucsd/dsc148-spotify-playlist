@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Olga Ta\u00f1\u00f3n",
-  "num_followers": 386571,
+  "num_followers": 386597,
   "original_name": "Merengue Mania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTI4M2JhNTkzMThlMWZhMDI4ZmI1M2MzNmI5NTg1ZjI1NTI5OGVi",
+  "snapshot_id": "MCw2Y2U1MjVkNjdiODNmZmQyMTEyOWZhN2Q5ZTE5Y2ZlYzZkMWQ1NjNj",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Me Enamore",
-        "url": "https://open.spotify.com/album/5yhEOwF6bRo08QhTGU9FQC"
-      },
-      "artists": [
-        {
-          "name": "Eddy Herrera",
-          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
-        }
-      ],
-      "duration_ms": 300426,
-      "name": "Pegame Tu Vicio",
-      "url": "https://open.spotify.com/track/25ILWrCvXPpkUFU0R7znEv"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "12 Golden Hits",
         "url": "https://open.spotify.com/album/04irf8DoODG5y4esqlnLEI"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 298106,
       "name": "Cuarto de Hotel",
       "url": "https://open.spotify.com/track/14O3hLuJMDRC8800QjuILq"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Me Enamore",
+        "url": "https://open.spotify.com/album/5yhEOwF6bRo08QhTGU9FQC"
+      },
+      "artists": [
+        {
+          "name": "Eddy Herrera",
+          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
+        }
+      ],
+      "duration_ms": 300426,
+      "name": "Pegame Tu Vicio",
+      "url": "https://open.spotify.com/track/25ILWrCvXPpkUFU0R7znEv"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "El Virao",
+        "url": "https://open.spotify.com/album/5Le90IA8Ywp9Td8Ad2sw9P"
+      },
+      "artists": [
+        {
+          "name": "Los Cantantes",
+          "url": "https://open.spotify.com/artist/1OK49IC8PfUPbAtQRv2ryh"
+        }
+      ],
+      "duration_ms": 252826,
+      "name": "El Virao",
+      "url": "https://open.spotify.com/track/2GnGoXexzccSQtPEERPgGh"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "\u00c1mame",
         "url": "https://open.spotify.com/album/597baQKoB3ONSe3Q5Q89DK"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 228332,
       "name": "\u00c1mame",
       "url": "https://open.spotify.com/track/0Tj0Kg5cMVV1XiPeb8khrv"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "El Virao",
-        "url": "https://open.spotify.com/album/5Le90IA8Ywp9Td8Ad2sw9P"
-      },
-      "artists": [
-        {
-          "name": "Los Cantantes",
-          "url": "https://open.spotify.com/artist/1OK49IC8PfUPbAtQRv2ryh"
-        }
-      ],
-      "duration_ms": 252826,
-      "name": "El Virao",
-      "url": "https://open.spotify.com/track/2GnGoXexzccSQtPEERPgGh"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1600,9 +1600,9 @@
           "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
         }
       ],
-      "duration_ms": 277946,
-      "name": "Ni Tu Ni Yo",
-      "url": "https://open.spotify.com/track/77cE5knaNTdMi3xwD4qpBv"
+      "duration_ms": 302213,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/1pGgGsZLPNPwVAMZgi0cpL"
     },
     {
       "added_at": "2023-11-17 05:00:00",

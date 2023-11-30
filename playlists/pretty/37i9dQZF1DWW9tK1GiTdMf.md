@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > 🩸 Emo, punk e rock 🇮🇹 e 🌎!  Chakra in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,504 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,493 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 74 | [leave me for dead](https://open.spotify.com/track/3ItJaK3oSkvCE4QiLkaxbi) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [leave me for dead](https://open.spotify.com/album/7cTW6R0SHT2K64F07CY4vO) | 2:56 |
 | 75 | [BOYFRIEND](https://open.spotify.com/track/0Gz8JS4mdWf67lqbslmWZr) | [Decrow](https://open.spotify.com/artist/5FlK8QftyFsvopniOcLdch), [IN6N](https://open.spotify.com/artist/1ijW7A83I3DKVmVID7kjuE), [yuks](https://open.spotify.com/artist/5S1ajwH3erCE1RDfGiAESd) | [BOYFRIEND](https://open.spotify.com/album/37QXWJp84QyTbjhaL2izYD) | 2:01 |
 
-Snapshot ID: `MCwwMjAxYzAyMDE1MTU4OGIxNzQ4YTc5YjUyMTAzMTUxYzZiZWI4OWM4`
+Snapshot ID: `MCwzMzMyZDVhZjc0NjBjNWYzYzdmMWIzMmM2MzVmMWVmOGU2NTY3MmZl`

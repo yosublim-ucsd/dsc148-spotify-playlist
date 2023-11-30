@@ -1,6 +1,6 @@
 {
   "description": "Top country hits you know and love! Cover: Gabby Barrett",
-  "num_followers": 520272,
+  "num_followers": 520510,
   "original_name": "Big Country",
   "owner": {
     "name": "Spotify",
@@ -447,18 +447,18 @@
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
-        "name": "Human The Double Album",
-        "url": "https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb"
+        "name": "23",
+        "url": "https://open.spotify.com/album/2LTt0pFwjPS5Zdc7tlmwyl"
       },
       "artists": [
         {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+          "name": "Chayce Beckham",
+          "url": "https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt"
         }
       ],
-      "duration_ms": 224213,
-      "name": "'Til You Can't",
-      "url": "https://open.spotify.com/track/4k3lPl8YTKuY8c1HelVnm3"
+      "duration_ms": 228144,
+      "name": "23",
+      "url": "https://open.spotify.com/track/1ZpPaBDswjV3VSUKqLDXPE"
     },
     {
       "added_at": "2023-11-17 05:01:00",
@@ -495,18 +495,18 @@
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/2LTt0pFwjPS5Zdc7tlmwyl"
+        "name": "Human The Double Album",
+        "url": "https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb"
       },
       "artists": [
         {
-          "name": "Chayce Beckham",
-          "url": "https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt"
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
         }
       ],
-      "duration_ms": 228144,
-      "name": "23",
-      "url": "https://open.spotify.com/track/1ZpPaBDswjV3VSUKqLDXPE"
+      "duration_ms": 224213,
+      "name": "'Til You Can't",
+      "url": "https://open.spotify.com/track/4k3lPl8YTKuY8c1HelVnm3"
     },
     {
       "added_at": "2023-11-17 05:01:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
-        "name": "Starting Over",
-        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 274520,
-      "name": "Joy Of My Life",
-      "url": "https://open.spotify.com/track/4EuaDcxHmHKS6gZ5iuGba0"
-    },
-    {
-      "added_at": "2023-11-17 05:01:00",
-      "album": {
         "name": "Whitsitt Chapel",
         "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 197400,
       "name": "Need A Favor",
       "url": "https://open.spotify.com/track/07on0OB2cdPt79IFsgdRUy"
+    },
+    {
+      "added_at": "2023-11-17 05:01:00",
+      "album": {
+        "name": "Starting Over",
+        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 274520,
+      "name": "Joy Of My Life",
+      "url": "https://open.spotify.com/track/4EuaDcxHmHKS6gZ5iuGba0"
     },
     {
       "added_at": "2023-11-17 05:01:00",
@@ -715,6 +715,26 @@
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
+        "name": "Blue In The Sky",
+        "url": "https://open.spotify.com/album/2u0DD4sNHOcgbuJrJyMUu3"
+      },
+      "artists": [
+        {
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
+        },
+        {
+          "name": "MacKenzie Porter",
+          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
+        }
+      ],
+      "duration_ms": 171626,
+      "name": "Thinking 'Bout You (feat. MacKenzie Porter)",
+      "url": "https://open.spotify.com/track/5eUpUFdFaAeovPau6lQkqK"
+    },
+    {
+      "added_at": "2023-11-17 05:01:00",
+      "album": {
         "name": "What My World Spins Around",
         "url": "https://open.spotify.com/album/4oTrQ9TmOapgT6uI8W6wsS"
       },
@@ -727,6 +747,38 @@
       "duration_ms": 186790,
       "name": "What My World Spins Around",
       "url": "https://open.spotify.com/track/6HBRLaSQ7NB8MNlaqzYen1"
+    },
+    {
+      "added_at": "2023-11-17 05:01:00",
+      "album": {
+        "name": "Ballads of the Broken",
+        "url": "https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 232093,
+      "name": "Son Of A Sinner",
+      "url": "https://open.spotify.com/track/6ngGiVX91DRmGDH4G5EgeO"
+    },
+    {
+      "added_at": "2023-11-17 05:01:00",
+      "album": {
+        "name": "Fires Don't Start Themselves",
+        "url": "https://open.spotify.com/album/12n7yWhXKfnjn0HMEcrNj9"
+      },
+      "artists": [
+        {
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+        }
+      ],
+      "duration_ms": 225360,
+      "name": "Fires Don't Start Themselves",
+      "url": "https://open.spotify.com/track/6Ahy5fItdBfXRVWYOLo7pM"
     },
     {
       "added_at": "2023-11-17 05:01:00",
@@ -767,58 +819,6 @@
       "duration_ms": 221520,
       "name": "Human",
       "url": "https://open.spotify.com/track/5AihIu9yF3flkw1jFMyfwW"
-    },
-    {
-      "added_at": "2023-11-17 05:01:00",
-      "album": {
-        "name": "Fires Don't Start Themselves",
-        "url": "https://open.spotify.com/album/12n7yWhXKfnjn0HMEcrNj9"
-      },
-      "artists": [
-        {
-          "name": "Darius Rucker",
-          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
-        }
-      ],
-      "duration_ms": 225360,
-      "name": "Fires Don't Start Themselves",
-      "url": "https://open.spotify.com/track/6Ahy5fItdBfXRVWYOLo7pM"
-    },
-    {
-      "added_at": "2023-11-17 05:01:00",
-      "album": {
-        "name": "Ballads of the Broken",
-        "url": "https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 232093,
-      "name": "Son Of A Sinner",
-      "url": "https://open.spotify.com/track/6ngGiVX91DRmGDH4G5EgeO"
-    },
-    {
-      "added_at": "2023-11-17 05:01:00",
-      "album": {
-        "name": "Blue In The Sky",
-        "url": "https://open.spotify.com/album/2u0DD4sNHOcgbuJrJyMUu3"
-      },
-      "artists": [
-        {
-          "name": "Dustin Lynch",
-          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
-        },
-        {
-          "name": "MacKenzie Porter",
-          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
-        }
-      ],
-      "duration_ms": 171626,
-      "name": "Thinking 'Bout You (feat. MacKenzie Porter)",
-      "url": "https://open.spotify.com/track/5eUpUFdFaAeovPau6lQkqK"
     },
     {
       "added_at": "2023-11-17 05:01:00",
@@ -1047,22 +1047,18 @@
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
-        "name": "Drunk (And I Don't Wanna Go Home)",
-        "url": "https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ"
+        "name": "Thought You Should Know",
+        "url": "https://open.spotify.com/album/4kbT7O8zsXUw8CZvhBR46i"
       },
       "artists": [
         {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
-        },
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 245625,
-      "name": "Drunk (And I Don't Wanna Go Home)",
-      "url": "https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa"
+      "duration_ms": 215571,
+      "name": "Thought You Should Know",
+      "url": "https://open.spotify.com/track/6NHpyYvJyQsg2nXXzGYc2R"
     },
     {
       "added_at": "2023-11-17 05:01:00",
@@ -1083,18 +1079,22 @@
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
-        "name": "Thought You Should Know",
-        "url": "https://open.spotify.com/album/4kbT7O8zsXUw8CZvhBR46i"
+        "name": "Drunk (And I Don't Wanna Go Home)",
+        "url": "https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ"
       },
       "artists": [
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 215571,
-      "name": "Thought You Should Know",
-      "url": "https://open.spotify.com/track/6NHpyYvJyQsg2nXXzGYc2R"
+      "duration_ms": 245625,
+      "name": "Drunk (And I Don't Wanna Go Home)",
+      "url": "https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa"
     },
     {
       "added_at": "2023-11-17 05:01:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
-        "name": "Same Truck",
-        "url": "https://open.spotify.com/album/0R9QjGSDl6EX4yWu3Rr1eU"
-      },
-      "artists": [
-        {
-          "name": "Scotty McCreery",
-          "url": "https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29"
-        }
-      ],
-      "duration_ms": 171880,
-      "name": "It Matters To Her",
-      "url": "https://open.spotify.com/track/4aSRUXfKuBbmje0eXNukuL"
-    },
-    {
-      "added_at": "2023-11-17 05:01:00",
-      "album": {
         "name": "Good Things",
         "url": "https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm"
       },
@@ -1415,18 +1399,18 @@
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
-        "name": "Everything She Ain\u2019t",
-        "url": "https://open.spotify.com/album/761yinsOXW3p74dFBge4c7"
+        "name": "Same Truck",
+        "url": "https://open.spotify.com/album/0R9QjGSDl6EX4yWu3Rr1eU"
       },
       "artists": [
         {
-          "name": "Hailey Whitters",
-          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+          "name": "Scotty McCreery",
+          "url": "https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29"
         }
       ],
-      "duration_ms": 151973,
-      "name": "Everything She Ain\u2019t",
-      "url": "https://open.spotify.com/track/3zAOcNGOFq5Q1OsN0tcxA0"
+      "duration_ms": 171880,
+      "name": "It Matters To Her",
+      "url": "https://open.spotify.com/track/4aSRUXfKuBbmje0eXNukuL"
     },
     {
       "added_at": "2023-11-17 05:01:00",
@@ -1443,6 +1427,22 @@
       "duration_ms": 194266,
       "name": "Stars Like Confetti",
       "url": "https://open.spotify.com/track/4HXiZiCbYIiG03OQwXRYnE"
+    },
+    {
+      "added_at": "2023-11-17 05:01:00",
+      "album": {
+        "name": "Everything She Ain\u2019t",
+        "url": "https://open.spotify.com/album/761yinsOXW3p74dFBge4c7"
+      },
+      "artists": [
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        }
+      ],
+      "duration_ms": 151973,
+      "name": "Everything She Ain\u2019t",
+      "url": "https://open.spotify.com/track/3zAOcNGOFq5Q1OsN0tcxA0"
     },
     {
       "added_at": "2023-11-17 05:01:00",
@@ -1579,6 +1579,42 @@
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
+        "name": "For You 2",
+        "url": "https://open.spotify.com/album/2A35FaFPGRANYw0vh0ctRk"
+      },
+      "artists": [
+        {
+          "name": "Parmalee",
+          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
+        }
+      ],
+      "duration_ms": 154733,
+      "name": "Girl In Mine",
+      "url": "https://open.spotify.com/track/7GYwddIIGF1XuZrh1z1Mta"
+    },
+    {
+      "added_at": "2023-11-17 05:01:00",
+      "album": {
+        "name": "MACON",
+        "url": "https://open.spotify.com/album/4MJPulC5XmELvmbrs1XHC9"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        },
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 212893,
+      "name": "If I Didn\u2019t Love You",
+      "url": "https://open.spotify.com/track/7IYoh1u7dFM1xIWSEYd5B8"
+    },
+    {
+      "added_at": "2023-11-17 05:01:00",
+      "album": {
         "name": "Angels (Don\u2019t Always Have Wings)",
         "url": "https://open.spotify.com/album/1Ih8oq6GfJWVMQtIdOqthf"
       },
@@ -1611,22 +1647,6 @@
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
-        "name": "Record High",
-        "url": "https://open.spotify.com/album/7sbj8haNKScqrV1B4Q4EGY"
-      },
-      "artists": [
-        {
-          "name": "Dylan Marlowe",
-          "url": "https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax"
-        }
-      ],
-      "duration_ms": 208453,
-      "name": "Record High",
-      "url": "https://open.spotify.com/track/7KTouudlySEWXOWHAuFAFv"
-    },
-    {
-      "added_at": "2023-11-17 05:01:00",
-      "album": {
         "name": "Weekends Look A Little Different These Days",
         "url": "https://open.spotify.com/album/2JJ2v7A5nR6HaYxyO2T0PX"
       },
@@ -1639,22 +1659,6 @@
       "duration_ms": 225813,
       "name": "You Didn\u2019t",
       "url": "https://open.spotify.com/track/5Jwcv2Le3Klwgrgyqa12ZA"
-    },
-    {
-      "added_at": "2023-11-17 05:01:00",
-      "album": {
-        "name": "For You 2",
-        "url": "https://open.spotify.com/album/2A35FaFPGRANYw0vh0ctRk"
-      },
-      "artists": [
-        {
-          "name": "Parmalee",
-          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
-        }
-      ],
-      "duration_ms": 154733,
-      "name": "Girl In Mine",
-      "url": "https://open.spotify.com/track/7GYwddIIGF1XuZrh1z1Mta"
     }
   ],
   "unique_name": "Big Country",

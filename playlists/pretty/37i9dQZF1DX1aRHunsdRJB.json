@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 10209,
+  "num_followers": 10210,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMmJmNzRlZmE0Njk0NzQzYmY0YTQ4Yzk5OTA4YmM1MzQ2Y2IwZjkx",
+  "snapshot_id": "MCw3MTEzYjIwZGI5MmUxMTgwOWRmOWIyYzM1YzM0ZTA0YmI5OGI4NDEw",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -439,6 +439,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Progress Riddim",
+        "url": "https://open.spotify.com/album/085tctZjqajfyGHgkO3Y07"
+      },
+      "artists": [
+        {
+          "name": "Teejay",
+          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
+        }
+      ],
+      "duration_ms": 210806,
+      "name": "Up Top Boss",
+      "url": "https://open.spotify.com/track/1BgnrgG2lxAdkgwei4KiF7"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "The Art of Flex",
         "url": "https://open.spotify.com/album/7zecbPVfKMGdOj8wfvXNEL"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 183875,
       "name": "Issa Snack",
       "url": "https://open.spotify.com/track/6eIdwZaZNpqvh61NudvQre"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Progress Riddim",
-        "url": "https://open.spotify.com/album/085tctZjqajfyGHgkO3Y07"
-      },
-      "artists": [
-        {
-          "name": "Teejay",
-          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
-        }
-      ],
-      "duration_ms": 210806,
-      "name": "Up Top Boss",
-      "url": "https://open.spotify.com/track/1BgnrgG2lxAdkgwei4KiF7"
     },
     {
       "added_at": "2022-02-24 18:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,833 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,944 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 | 8 | [wandering \(feat\. george\)](https://open.spotify.com/track/6jMcjpMJEjdJa9GQLgQNZ2) | [basecamp](https://open.spotify.com/artist/4MI73VbvvaJFXe1T6iacWx), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [wandering \(feat\. george\)](https://open.spotify.com/album/6hBEslMx5wtLS5wehYiwPP) | 3:24 |
 | 9 | [Comparison Is A Thief Of Joy](https://open.spotify.com/track/1DlyIPZpwuVT7TZvt96Lgd) | [Fruit Distro Collective](https://open.spotify.com/artist/0vPnsaDFU6zMeXLjRIAPLf) | [Some Kind Of Wisdom](https://open.spotify.com/album/6uAMiLgcbEzp5gGfPuO419) | 2:56 |
 | 10 | [LIA](https://open.spotify.com/track/79yUKmyrDvi1QFVaqo9DIL) | [Tom Bailey](https://open.spotify.com/artist/2oazmaA42Jf78TZeTsUIDU) | [LIA](https://open.spotify.com/album/21Dh5zHvadr9S2b31QR2ok) | 3:38 |
-| 11 | [Lost Kingdoms](https://open.spotify.com/track/17YIpKXRkKKqvb8ZbzyOG1) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [Nubya's 5ive](https://open.spotify.com/album/42X2Gyov8AhwjiHfGCfOC4) | 7:38 |
+| 11 | [Lost Kingdoms](https://open.spotify.com/track/6eTT6SQgTfXiKXdvMe0ZID) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [Nubya's 5ive](https://open.spotify.com/album/6gVTOEeb9Hd1EO4A6kYEOE) | 7:38 |
 | 12 | [Alibi](https://open.spotify.com/track/7gdMJKZDKsDzGPfvbOFyjy) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Come Around EP](https://open.spotify.com/album/4cZaBbl9MF60k5194gGbiR) | 3:48 |
 | 13 | [Blue Is All That's Left](https://open.spotify.com/track/1rC3vS4WBvQ9yieSApe84K) | [Eric van der Westen](https://open.spotify.com/artist/0yaTeYrw4ULzSJjbhuRk3d) | [The Crown & Lobster Trilogy, Pt\. II: Blue Is All That's Left](https://open.spotify.com/album/1dFS8wIJxvJpFtOcLsti40) | 5:06 |
 | 14 | [Jusqu'ici tout va bien](https://open.spotify.com/track/4Enwbl0M7hXUU9gYf6l928) | [Okvsho](https://open.spotify.com/artist/30b8dNhkUcfPVsDbwyXlC9) | [Jusqu'ici tout va bien](https://open.spotify.com/album/2KoENXX9CeFjHTuwsV7AUT) | 3:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 | 99 | [Little Life](https://open.spotify.com/track/6k8Ma4BHrQhzF71ogxpKhI) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Hopscotch](https://open.spotify.com/album/3rX0StGwVF3griwE7wEdq5) | 2:59 |
 | 100 | [Kickback](https://open.spotify.com/track/0zgDfVY84eFIzgTvK9KutN) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/1G3k89T6eKqTXU9qbDqmr6) | 2:51 |
 
-Snapshot ID: `MCwwOGI4NGFiYjgwM2I0MTM5NWFjY2U2MTE0MTM0OTQyMDBlNGMwZmVi`
+Snapshot ID: `MCwxMTQ3NGU1ZGFhNzk5OTEzZDE4ZTc3YTAwNWZhMTMzYjlmMGE5OTBi`

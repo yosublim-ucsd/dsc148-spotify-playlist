@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsJXPjB3v.md) - [plain]
 
 > Revisit memories and make new ones with the best Kwaito songs ever released\. Cover: Spikiri
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,383 likes - 58 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,586 likes - 58 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsJXPjB3v.md) - [plain]
 | 10 | [Manyonyoba](https://open.spotify.com/track/2KfKIMj000VYsDxI7Yb4Wi) | [Brothers of Peace](https://open.spotify.com/artist/0OK0qQGF0hJueVZLGRlntj) | [King of Kwaito Uyagawula](https://open.spotify.com/album/4aRbwswWaBF9A5NBg7SjsS) | 5:21 |
 | 11 | [Ghetto Scandalous](https://open.spotify.com/track/1L8CvSH5HDLo0dpW8zlmUM) | [Zola](https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW) | [Mdlwembe](https://open.spotify.com/album/6p14EmutdSfbNqBSQzRJK2) | 4:47 |
 | 12 | [Magasman](https://open.spotify.com/track/73lpchagNBcgfb0Z7nnMp8) | [Trompies](https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018), [Lebo Mathosa](https://open.spotify.com/artist/1Ml1ICUucZgJMx8Y4t9aJo) | [Respect Toasted Gona' Ganati](https://open.spotify.com/album/3FgfVMYu1bCieTLoyx3rpE) | 5:47 |
-| 13 | [Waar Was Jy?](https://open.spotify.com/track/4tdjxGy4a54Hi1fXaDl7Xz) | [Skeem](https://open.spotify.com/artist/03EsSUDsUpGuIKDBhdWnPR) | [Waar Was Jy?](https://open.spotify.com/album/51b8gK2d2z0KUHtsnhMbY7) | 3:49 |
+| 13 | [Ntozabantu](https://open.spotify.com/track/1d6f5DF7ze4mUtvTYDP0ku) | [Lebo Mathosa](https://open.spotify.com/artist/1Ml1ICUucZgJMx8Y4t9aJo) | [Dream](https://open.spotify.com/album/06WmmNtrJiAWf8ofaaTfUK) | 5:09 |
 | 14 | [Mazolo](https://open.spotify.com/track/15eELFlhtNrfrEuNkop7J2) | [M'Du](https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD) | [Always Da Case](https://open.spotify.com/album/5ZL4Mf3do60ZcBtyzlVonT) | 5:44 |
-| 15 | [Ntozabantu](https://open.spotify.com/track/1d6f5DF7ze4mUtvTYDP0ku) | [Lebo Mathosa](https://open.spotify.com/artist/1Ml1ICUucZgJMx8Y4t9aJo) | [Dream](https://open.spotify.com/album/06WmmNtrJiAWf8ofaaTfUK) | 5:09 |
+| 15 | [Waar Was Jy?](https://open.spotify.com/track/4tdjxGy4a54Hi1fXaDl7Xz) | [Skeem](https://open.spotify.com/artist/03EsSUDsUpGuIKDBhdWnPR) | [Waar Was Jy?](https://open.spotify.com/album/51b8gK2d2z0KUHtsnhMbY7) | 3:49 |
 | 16 | [It's About Time](https://open.spotify.com/track/1m9z5GSmXqjafOYlHQVzlC) | [Boom Shaka](https://open.spotify.com/artist/4JGh50rURaCMemmzY3UTCd) | [It's About Time](https://open.spotify.com/album/61hn5xRSprCPfYGgdeW3tl) | 5:39 |
 | 17 | [Ungawa Kum](https://open.spotify.com/track/0MRHaEed5xSYgcZ44YEAoo) | [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [Top Dawg](https://open.spotify.com/album/0GNrvpXxZAAP8hZf8kIc3L) | 5:40 |
 | 18 | [Current](https://open.spotify.com/track/25lPFTQtYnOjH2CMA7ROZ1) | [Spikiri](https://open.spotify.com/artist/3fP5hWCOBvndu3JLD7HlAi) | [Simply The Best](https://open.spotify.com/album/6nM1XBe20EowLogJ5BcFAM) | 5:45 |
@@ -34,11 +34,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsJXPjB3v.md) - [plain]
 | 24 | [Izinja Zam](https://open.spotify.com/track/13kgXxmYBhTx8sG2fhlLLG) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi) | [Guz 2001](https://open.spotify.com/album/7d1lS59Y8vA3hW3u8ir9RV) | 4:25 |
 | 25 | [Mari Ye Phepha](https://open.spotify.com/track/3ClqIdHksnRs2pwyCGSYHd) | [Bongo Maffin](https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ) | [Icon](https://open.spotify.com/album/7AHYVDAOsSJBL6YMKVXWPm) | 5:28 |
 | 26 | [Fester](https://open.spotify.com/track/4QNTWh444lOn7C4kPGUoYR) | [Jacknife](https://open.spotify.com/artist/2MU7y4Bj9rg69oHvc70YGs) | [Vintage Sounds of Johannesburg](https://open.spotify.com/album/45j6bfm5dD2m2V9mjaVYL3) | 4:52 |
-| 27 | [Izinja](https://open.spotify.com/track/6qJpatMdBrN3yRFuLqLCA8) | [Mapaputsi](https://open.spotify.com/artist/22IsfJqYsmzkvuOdUZjBld) | [Tsotsi](https://open.spotify.com/album/7efUI9NRE7rieqrHGD1409) | 4:13 |
+| 27 | [Guqangama Dolo](https://open.spotify.com/track/5sQozSRY5rKLwCspVaFnHe) | [Mzekezeke](https://open.spotify.com/artist/5kCOHJfvrZck0x0nS5KE8e) | [S'guqa Ngamadolo](https://open.spotify.com/album/1GDmNP6PD27rQLSSqxBWzX) | 5:22 |
 | 28 | [Ngeke Balunge](https://open.spotify.com/track/5xJG9LXQhnGbXbYOjetyht) | [Spikiri](https://open.spotify.com/artist/3fP5hWCOBvndu3JLD7HlAi), [Teargas](https://open.spotify.com/artist/6ffbZWFEp3uVx8w46WlNvD), [Brown Dash](https://open.spotify.com/artist/0qfB2AZKBklxVxBVcNqJOG), [Brickz](https://open.spotify.com/artist/0xg74fIMwGk17TIvf422xZ), [Skhokho](https://open.spotify.com/artist/4ack50GWpOabzl8e2mH05Z), [Madluphuthu](https://open.spotify.com/artist/0RbbfEN7Q3ahYF9Kwkz4cd) | [The King Don Father 2.5](https://open.spotify.com/album/05kvjBR6DLNVKqmxeGfCny) | 6:52 |
 | 29 | [Fohloza](https://open.spotify.com/track/3bJ1H9XkqkKjXEeidp9Qm4) | [Trompies](https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018) | [Mapantsula](https://open.spotify.com/album/14x1u7Nyu6nlhKFxeAUcyc) | 7:03 |
 | 30 | [Y U 4 Me](https://open.spotify.com/track/6019mUh1nhmsqDtfbKuZnu) | [M'Du](https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD) | [Y U 4 Me](https://open.spotify.com/album/4RELzas44ynDy4FZb8XRj7) | 7:31 |
-| 31 | [Guqangama Dolo](https://open.spotify.com/track/5sQozSRY5rKLwCspVaFnHe) | [Mzekezeke](https://open.spotify.com/artist/5kCOHJfvrZck0x0nS5KE8e) | [S'guqa Ngamadolo](https://open.spotify.com/album/1GDmNP6PD27rQLSSqxBWzX) | 5:22 |
+| 31 | [Izinja](https://open.spotify.com/track/6qJpatMdBrN3yRFuLqLCA8) | [Mapaputsi](https://open.spotify.com/artist/22IsfJqYsmzkvuOdUZjBld) | [Tsotsi](https://open.spotify.com/album/7efUI9NRE7rieqrHGD1409) | 4:13 |
 | 32 | [Thula Mabota](https://open.spotify.com/track/268w5H4z4D5E8ER4Tt3qRY) | [Mawillies](https://open.spotify.com/artist/6Zd8RQbtBZ2ywALmjzwM7N) | [Intwenjani](https://open.spotify.com/album/4VJK1hwYju24DtMhDAwDli) | 5:43 |
 | 33 | [Bula Boot](https://open.spotify.com/track/3SNBgtfyfrc2CPAHyZYTrK) | [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [Chizboy](https://open.spotify.com/album/6kRcW1KLuahxy5CJP91piF) | 5:34 |
 | 34 | [Mnike](https://open.spotify.com/track/2CsW73MoDsh6ra2Jwa5Ez4) | [Arthur](https://open.spotify.com/artist/5wlKFzRmsjsCCRxlYf2KdU) | [Mnike](https://open.spotify.com/album/7gneORxdnpyAQpzN8Yoldt) | 5:32 |

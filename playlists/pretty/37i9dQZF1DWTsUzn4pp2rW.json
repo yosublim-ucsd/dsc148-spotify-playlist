@@ -1,12 +1,12 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Michael Bubl\u00e9",
-  "num_followers": 142844,
+  "num_followers": 142926,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjIxOTJkNGY2NTYzYTQ0ZGIzZWZmMzIyMWQyNjVlOWVlNmY5NGUy",
+  "snapshot_id": "MCxiODk1YTlhMWY0YmY0Yjg3NmY4OTM5YjcwMDI1NTJlNDJmY2E3NmE1",
   "tracks": [
     {
       "added_at": "2023-11-17 00:01:00",
@@ -227,6 +227,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "Everywhere",
+        "url": "https://open.spotify.com/album/1cOMb8F5PoPBgF79sKxO11"
+      },
+      "artists": [
+        {
+          "name": "Eve St. Jones",
+          "url": "https://open.spotify.com/artist/6NP40ldgw4kYtspZOziuii"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Everywhere",
+      "url": "https://open.spotify.com/track/5UffJ6fz0ikQ0ze8bqRyHQ"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "4 Wheel Drive",
         "url": "https://open.spotify.com/album/6HHbIMi4Hk5wyjGVm4jZb2"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 226558,
       "name": "Maybe I'm Amazed",
       "url": "https://open.spotify.com/track/0VYYhGLcD6IuFvqSzI6rzu"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Everywhere",
-        "url": "https://open.spotify.com/album/1cOMb8F5PoPBgF79sKxO11"
-      },
-      "artists": [
-        {
-          "name": "Eve St. Jones",
-          "url": "https://open.spotify.com/artist/6NP40ldgw4kYtspZOziuii"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Everywhere",
-      "url": "https://open.spotify.com/track/5UffJ6fz0ikQ0ze8bqRyHQ"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "This Is Not Jazz",
-        "url": "https://open.spotify.com/album/5EExcDadXPrglslXW9lHEM"
-      },
-      "artists": [
-        {
-          "name": "Marcell",
-          "url": "https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk"
-        }
-      ],
-      "duration_ms": 299106,
-      "name": "Adventure Of A Lifetime",
-      "url": "https://open.spotify.com/track/1KoJ5FBQslbGGPYMTsNTFL"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Sleeping Satellite",
         "url": "https://open.spotify.com/album/57aN9GJYwKxpSe0bJDTT2G"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 159497,
       "name": "Sleeping Satellite",
       "url": "https://open.spotify.com/track/6mqDkgdHcTSkUujnJZtFnJ"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "This Is Not Jazz",
+        "url": "https://open.spotify.com/album/5EExcDadXPrglslXW9lHEM"
+      },
+      "artists": [
+        {
+          "name": "Marcell",
+          "url": "https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk"
+        }
+      ],
+      "duration_ms": 299106,
+      "name": "Adventure Of A Lifetime",
+      "url": "https://open.spotify.com/track/1KoJ5FBQslbGGPYMTsNTFL"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "For Seasons to Come",
-        "url": "https://open.spotify.com/album/2tVnOZF7F6ohwI7al2TG0G"
-      },
-      "artists": [
-        {
-          "name": "Ginne Marker",
-          "url": "https://open.spotify.com/artist/0NShpiolVrABxF4nKiSL39"
-        }
-      ],
-      "duration_ms": 240009,
-      "name": "Sunny Days",
-      "url": "https://open.spotify.com/track/4Ob8OMyF3uMIHEndVD3II1"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "A Good Goodbye",
         "url": "https://open.spotify.com/album/6RG4OSNR3OfIj9R3GiHWiZ"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 213939,
       "name": "A Good Goodbye",
       "url": "https://open.spotify.com/track/44YADxNo3TdpkwEr5DvV2B"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "For Seasons to Come",
+        "url": "https://open.spotify.com/album/2tVnOZF7F6ohwI7al2TG0G"
+      },
+      "artists": [
+        {
+          "name": "Ginne Marker",
+          "url": "https://open.spotify.com/artist/0NShpiolVrABxF4nKiSL39"
+        }
+      ],
+      "duration_ms": 240009,
+      "name": "Sunny Days",
+      "url": "https://open.spotify.com/track/4Ob8OMyF3uMIHEndVD3II1"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "There is a place",
-        "url": "https://open.spotify.com/album/0BdvVRQ0vqLlhKQHakjf2E"
-      },
-      "artists": [
-        {
-          "name": "Ellen Andrea Wang",
-          "url": "https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf"
-        }
-      ],
-      "duration_ms": 247722,
-      "name": "There is a place",
-      "url": "https://open.spotify.com/track/4PMRpsHIVyQz7m1e6bt7YG"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "I Never Can Say Goodbye",
         "url": "https://open.spotify.com/album/08b0q2JtQvW5xbNSRA2HRU"
       },
@@ -1247,6 +1231,38 @@
       "duration_ms": 253816,
       "name": "I Never Can Say Goodbye",
       "url": "https://open.spotify.com/track/25JxSiJxTicgJ4JZQSKjHv"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Bagatelles",
+        "url": "https://open.spotify.com/album/7dEBdUpqe6c6vprtQiEMX1"
+      },
+      "artists": [
+        {
+          "name": "Nellie McKay",
+          "url": "https://open.spotify.com/artist/1GFVkK9DUecapOZv2HzpiN"
+        }
+      ],
+      "duration_ms": 127426,
+      "name": "How About You",
+      "url": "https://open.spotify.com/track/0OotFG4v6vLS0Im8Ny6cpo"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "There is a place",
+        "url": "https://open.spotify.com/album/0BdvVRQ0vqLlhKQHakjf2E"
+      },
+      "artists": [
+        {
+          "name": "Ellen Andrea Wang",
+          "url": "https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf"
+        }
+      ],
+      "duration_ms": 247722,
+      "name": "There is a place",
+      "url": "https://open.spotify.com/track/4PMRpsHIVyQz7m1e6bt7YG"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1271,22 +1287,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "No Meanness",
-        "url": "https://open.spotify.com/album/1ezRr7TQOVGNLILA2Oe8Xj"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 238524,
-      "name": "No Meanness",
-      "url": "https://open.spotify.com/track/4JlDXh6QcNm6vvHQcDfXqO"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Something My Heart Trusts",
         "url": "https://open.spotify.com/album/0mOcEVuekT3TycU6CSAByw"
       },
@@ -1303,34 +1303,18 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Bagatelles",
-        "url": "https://open.spotify.com/album/7dEBdUpqe6c6vprtQiEMX1"
+        "name": "No Meanness",
+        "url": "https://open.spotify.com/album/1ezRr7TQOVGNLILA2Oe8Xj"
       },
       "artists": [
         {
-          "name": "Nellie McKay",
-          "url": "https://open.spotify.com/artist/1GFVkK9DUecapOZv2HzpiN"
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
         }
       ],
-      "duration_ms": 127426,
-      "name": "How About You",
-      "url": "https://open.spotify.com/track/0OotFG4v6vLS0Im8Ny6cpo"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Melodic Canvas",
-        "url": "https://open.spotify.com/album/64vcz6QZ3l2Sv3MH6dvwSG"
-      },
-      "artists": [
-        {
-          "name": "Robin Mckelle",
-          "url": "https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV"
-        }
-      ],
-      "duration_ms": 207396,
-      "name": "Do You Believe",
-      "url": "https://open.spotify.com/track/3OJMzuuqb6kJkZ95G2ULka"
+      "duration_ms": 238524,
+      "name": "No Meanness",
+      "url": "https://open.spotify.com/track/4JlDXh6QcNm6vvHQcDfXqO"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1351,6 +1335,22 @@
       "duration_ms": 286678,
       "name": "Much Rain",
       "url": "https://open.spotify.com/track/3R7Cy7vHabyoHeWey6n6Dn"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Melodic Canvas",
+        "url": "https://open.spotify.com/album/64vcz6QZ3l2Sv3MH6dvwSG"
+      },
+      "artists": [
+        {
+          "name": "Robin Mckelle",
+          "url": "https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV"
+        }
+      ],
+      "duration_ms": 207396,
+      "name": "Do You Believe",
+      "url": "https://open.spotify.com/track/3OJMzuuqb6kJkZ95G2ULka"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "You Are My Everything",
-        "url": "https://open.spotify.com/album/3rBbcpcZPUwr3F8yFfT7r4"
-      },
-      "artists": [
-        {
-          "name": "Oliver Nosaczynski Bohovi\u010d",
-          "url": "https://open.spotify.com/artist/2dz544MXV8GuN3lCoeNfum"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "You Are My Everything",
-      "url": "https://open.spotify.com/track/3IDM9IoiIZge85sVvqYG0x"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Break In",
         "url": "https://open.spotify.com/album/5LEZDxOK0FRDjj6DlWtPMO"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 199636,
       "name": "Break In",
       "url": "https://open.spotify.com/track/50T4oNyzIMVM2xoC8kvoLw"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "You Are My Everything",
+        "url": "https://open.spotify.com/album/3rBbcpcZPUwr3F8yFfT7r4"
+      },
+      "artists": [
+        {
+          "name": "Oliver Nosaczynski Bohovi\u010d",
+          "url": "https://open.spotify.com/artist/2dz544MXV8GuN3lCoeNfum"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "You Are My Everything",
+      "url": "https://open.spotify.com/track/3IDM9IoiIZge85sVvqYG0x"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "A Little Love",
+        "url": "https://open.spotify.com/album/3s13EHpoHIY8NeksK7rakt"
+      },
+      "artists": [
+        {
+          "name": "Quiana Lynell",
+          "url": "https://open.spotify.com/artist/1VnqxwpVqjPPJ77ij1tE48"
+        }
+      ],
+      "duration_ms": 295560,
+      "name": "Move Me No Mountain",
+      "url": "https://open.spotify.com/track/4obdTojML5jR0RzMOmJEJa"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Humanit\u00e9",
         "url": "https://open.spotify.com/album/3TrSOfTnxrJb9auo2MhiQi"
       },
@@ -1675,22 +1691,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "A Little Love",
-        "url": "https://open.spotify.com/album/3s13EHpoHIY8NeksK7rakt"
-      },
-      "artists": [
-        {
-          "name": "Quiana Lynell",
-          "url": "https://open.spotify.com/artist/1VnqxwpVqjPPJ77ij1tE48"
-        }
-      ],
-      "duration_ms": 295560,
-      "name": "Move Me No Mountain",
-      "url": "https://open.spotify.com/track/4obdTojML5jR0RzMOmJEJa"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Enough to Be on Your Way",
         "url": "https://open.spotify.com/album/1nwhebL6RxGLSP2PFbRqs3"
       },
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "This Is Not Jazz",
-        "url": "https://open.spotify.com/album/5EExcDadXPrglslXW9lHEM"
-      },
-      "artists": [
-        {
-          "name": "Marcell",
-          "url": "https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk"
-        }
-      ],
-      "duration_ms": 283106,
-      "name": "The Very Thought Of You",
-      "url": "https://open.spotify.com/track/5cEDAmOy6U1AF9CAU7FvAk"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Take Me Off to Dreamland",
         "url": "https://open.spotify.com/album/0EmfCjSWHg8evy7OS31JGC"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 288535,
       "name": "Take Me Off to Dreamland",
       "url": "https://open.spotify.com/track/1oMnqVt779JEPlsLPZyql7"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "This Is Not Jazz",
+        "url": "https://open.spotify.com/album/5EExcDadXPrglslXW9lHEM"
+      },
+      "artists": [
+        {
+          "name": "Marcell",
+          "url": "https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk"
+        }
+      ],
+      "duration_ms": 283106,
+      "name": "The Very Thought Of You",
+      "url": "https://open.spotify.com/track/5cEDAmOy6U1AF9CAU7FvAk"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1871,6 +1871,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "Best Time Of The Year",
+        "url": "https://open.spotify.com/album/1t9PkXJNNyLWCMUtE7fIgq"
+      },
+      "artists": [
+        {
+          "name": "Budbud",
+          "url": "https://open.spotify.com/artist/6nuMsxPeVPwxtuApXX53zF"
+        }
+      ],
+      "duration_ms": 189688,
+      "name": "Best Time Of The Year",
+      "url": "https://open.spotify.com/track/3hM4XcR3YV4YvF77FhqYXW"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Collusion",
         "url": "https://open.spotify.com/album/06hyQYD4HmLpKPhtG0BaJD"
       },
@@ -1943,22 +1959,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Best Time Of The Year",
-        "url": "https://open.spotify.com/album/1t9PkXJNNyLWCMUtE7fIgq"
-      },
-      "artists": [
-        {
-          "name": "Budbud",
-          "url": "https://open.spotify.com/artist/6nuMsxPeVPwxtuApXX53zF"
-        }
-      ],
-      "duration_ms": 189688,
-      "name": "Best Time Of The Year",
-      "url": "https://open.spotify.com/track/3hM4XcR3YV4YvF77FhqYXW"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Can't Fight Love",
         "url": "https://open.spotify.com/album/5sA7cYMhDl7Xqx8fPmHpZV"
       },
@@ -1991,22 +1991,18 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Baby, It's Cold Outside",
-        "url": "https://open.spotify.com/album/6NHoiZIcnSvbWY2PKyJcvg"
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/4qSzTvuhsYZ04AwjSBJkpt"
       },
       "artists": [
         {
-          "name": "JP Maurice",
-          "url": "https://open.spotify.com/artist/05ambhctJK0e4o4OtxHsTt"
-        },
-        {
-          "name": "Pyper Geddes",
-          "url": "https://open.spotify.com/artist/7Bfhcpf9ajhLnwmHT2z1TQ"
+          "name": "Untitled Band",
+          "url": "https://open.spotify.com/artist/4gfu5YxjKlaDWdnJ7VAM1I"
         }
       ],
-      "duration_ms": 188273,
-      "name": "Baby, It's Cold Outside",
-      "url": "https://open.spotify.com/track/0B3lVXeu3W5JrjI8hS4cZe"
+      "duration_ms": 229687,
+      "name": "If I'd Had Your Heart",
+      "url": "https://open.spotify.com/track/4L6ZAzBxxMbxu4uTVZCo6U"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -2043,6 +2039,26 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "Baby, It's Cold Outside",
+        "url": "https://open.spotify.com/album/6NHoiZIcnSvbWY2PKyJcvg"
+      },
+      "artists": [
+        {
+          "name": "JP Maurice",
+          "url": "https://open.spotify.com/artist/05ambhctJK0e4o4OtxHsTt"
+        },
+        {
+          "name": "Pyper Geddes",
+          "url": "https://open.spotify.com/artist/7Bfhcpf9ajhLnwmHT2z1TQ"
+        }
+      ],
+      "duration_ms": 188273,
+      "name": "Baby, It's Cold Outside",
+      "url": "https://open.spotify.com/track/0B3lVXeu3W5JrjI8hS4cZe"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "The Revolution of Me",
         "url": "https://open.spotify.com/album/4NAP8F0xgasd8y44YScUmv"
       },
@@ -2055,22 +2071,6 @@
       "duration_ms": 242526,
       "name": "Made Me Cry",
       "url": "https://open.spotify.com/track/51xSOVzWcd1A8sCxZUYEel"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Reverie",
-        "url": "https://open.spotify.com/album/4qSzTvuhsYZ04AwjSBJkpt"
-      },
-      "artists": [
-        {
-          "name": "Untitled Band",
-          "url": "https://open.spotify.com/artist/4gfu5YxjKlaDWdnJ7VAM1I"
-        }
-      ],
-      "duration_ms": 229687,
-      "name": "If I'd Had Your Heart",
-      "url": "https://open.spotify.com/track/4L6ZAzBxxMbxu4uTVZCo6U"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -2143,22 +2143,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Kettle",
-        "url": "https://open.spotify.com/album/2Lt4lgmQWlf1fzCOs699MG"
-      },
-      "artists": [
-        {
-          "name": "Ella Frank",
-          "url": "https://open.spotify.com/artist/73vkRuqONSf8tm9TaE9iEM"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Kettle",
-      "url": "https://open.spotify.com/track/0hDcNOCz9gXXs7akY5PZdD"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Same Soul",
         "url": "https://open.spotify.com/album/12a5B02rFVniKvkCs5KrBx"
       },
@@ -2175,18 +2159,18 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "River",
-        "url": "https://open.spotify.com/album/4bVk8bkgZx4JQwZzWAslTq"
+        "name": "Kettle",
+        "url": "https://open.spotify.com/album/2Lt4lgmQWlf1fzCOs699MG"
       },
       "artists": [
         {
-          "name": "Lyambiko",
-          "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
+          "name": "Ella Frank",
+          "url": "https://open.spotify.com/artist/73vkRuqONSf8tm9TaE9iEM"
         }
       ],
-      "duration_ms": 177680,
-      "name": "River",
-      "url": "https://open.spotify.com/track/57cy5aqH3hqdeYWZpstmaj"
+      "duration_ms": 264000,
+      "name": "Kettle",
+      "url": "https://open.spotify.com/track/0hDcNOCz9gXXs7akY5PZdD"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -2207,6 +2191,22 @@
       "duration_ms": 226240,
       "name": "A Happy Thought (feat. Stu Mindeman)",
       "url": "https://open.spotify.com/track/01Emc4morqvAuCfHjMm6rZ"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "River",
+        "url": "https://open.spotify.com/album/4bVk8bkgZx4JQwZzWAslTq"
+      },
+      "artists": [
+        {
+          "name": "Lyambiko",
+          "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
+        }
+      ],
+      "duration_ms": 177680,
+      "name": "River",
+      "url": "https://open.spotify.com/track/57cy5aqH3hqdeYWZpstmaj"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -2263,6 +2263,38 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "Follow",
+        "url": "https://open.spotify.com/album/0qcy7sm9UaA9qKFSOHVlvD"
+      },
+      "artists": [
+        {
+          "name": "Ragnar H",
+          "url": "https://open.spotify.com/artist/7cU7WCvR7gGHnxaNx7unOT"
+        }
+      ],
+      "duration_ms": 232350,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/17BdO3lx1ovJHyELPJxIYa"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Sorrows Into Silk",
+        "url": "https://open.spotify.com/album/7GW1xaezd0MGJOEVf54sEB"
+      },
+      "artists": [
+        {
+          "name": "Ella Frank",
+          "url": "https://open.spotify.com/artist/73vkRuqONSf8tm9TaE9iEM"
+        }
+      ],
+      "duration_ms": 138320,
+      "name": "Lime",
+      "url": "https://open.spotify.com/track/5mHRBuwBWpbqUDcqiWGbvN"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Beautiful Way",
         "url": "https://open.spotify.com/album/5Upr8xza8nRWoaZWRvwLql"
       },
@@ -2283,22 +2315,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Follow",
-        "url": "https://open.spotify.com/album/0qcy7sm9UaA9qKFSOHVlvD"
-      },
-      "artists": [
-        {
-          "name": "Ragnar H",
-          "url": "https://open.spotify.com/artist/7cU7WCvR7gGHnxaNx7unOT"
-        }
-      ],
-      "duration_ms": 232350,
-      "name": "Follow",
-      "url": "https://open.spotify.com/track/17BdO3lx1ovJHyELPJxIYa"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Loneliness",
         "url": "https://open.spotify.com/album/2vPNtFnHCKBRIsGPlZL9cd"
       },
@@ -2311,22 +2327,6 @@
       "duration_ms": 185653,
       "name": "Loneliness",
       "url": "https://open.spotify.com/track/32OA13wgTrofFyy79cYtyy"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Sorrows Into Silk",
-        "url": "https://open.spotify.com/album/7GW1xaezd0MGJOEVf54sEB"
-      },
-      "artists": [
-        {
-          "name": "Ella Frank",
-          "url": "https://open.spotify.com/artist/73vkRuqONSf8tm9TaE9iEM"
-        }
-      ],
-      "duration_ms": 138320,
-      "name": "Lime",
-      "url": "https://open.spotify.com/track/5mHRBuwBWpbqUDcqiWGbvN"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -2363,6 +2363,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "Fly Again",
+        "url": "https://open.spotify.com/album/0TqXtMckPVwNzBkxExOJyk"
+      },
+      "artists": [
+        {
+          "name": "Tom Petrone",
+          "url": "https://open.spotify.com/artist/76Y7Pfxut1SGgIEF4RWDsb"
+        }
+      ],
+      "duration_ms": 201101,
+      "name": "Fly Again",
+      "url": "https://open.spotify.com/track/6Z5aIVVWy31Wjm0GPoyoWT"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Same Way Home",
         "url": "https://open.spotify.com/album/4tzpMQQJ5JPI6n7xEsxs7e"
       },
@@ -2379,22 +2395,6 @@
       "duration_ms": 178786,
       "name": "Same Way Home",
       "url": "https://open.spotify.com/track/5lYlBcimTYIywerAwZnyi0"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Fly Again",
-        "url": "https://open.spotify.com/album/0TqXtMckPVwNzBkxExOJyk"
-      },
-      "artists": [
-        {
-          "name": "Tom Petrone",
-          "url": "https://open.spotify.com/artist/76Y7Pfxut1SGgIEF4RWDsb"
-        }
-      ],
-      "duration_ms": 201101,
-      "name": "Fly Again",
-      "url": "https://open.spotify.com/track/6Z5aIVVWy31Wjm0GPoyoWT"
     },
     {
       "added_at": "2023-11-17 00:01:00",

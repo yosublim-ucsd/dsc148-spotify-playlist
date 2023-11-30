@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica italiana indipendente, aggiornata ogni mercoledì\. Cover: <a href="spotify:artist:0K0IoIF0ARUBsCeRrIs6iw">Daria Huber</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,699 likes - 55 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,769 likes - 55 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 54 | [D I S T A N T I](https://open.spotify.com/track/3UI3UeiZ5KBL4hFpbGoNxq) | [Comeilmiele](https://open.spotify.com/artist/4OcuLUpqOjSYlrZN8W87Qn) | [D I S T A N T I](https://open.spotify.com/album/0qGSc8llH8kSegbByz9o3I) | 3:00 |
 | 55 | [CAMICIA](https://open.spotify.com/track/1w0VFCBAwFRHlrtIJ28kQY) | [Mazinga Paddon](https://open.spotify.com/artist/41hE2XbxlMwh2jpfUhHjLG) | [CAMICIA](https://open.spotify.com/album/6zfwL3VPDjpjFigvkdohBt) | 3:35 |
 
-Snapshot ID: `MCxhMTI0NTFlNDNlZTk4MzkzZjQ3OGY3NDFlYmVkNzgzMTdjOTFlYzQ2`
+Snapshot ID: `MCw0ZWVhMWNmODU4MWRhNDMyM2M1MDgzOWVhZTFmNTA2Y2UyYmYzNWMz`

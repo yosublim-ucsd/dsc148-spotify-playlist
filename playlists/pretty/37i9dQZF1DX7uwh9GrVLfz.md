@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: Northern19
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,893 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,952 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 19 | [grasp](https://open.spotify.com/track/3yJ0cJV9vuck34ZVrmxr84) | [tact](https://open.spotify.com/artist/6UB1bq3uHbizha44REbJDL) | [dawning](https://open.spotify.com/album/6YGlPSQbU1z1VlTOSnCHxN) | 2:29 |
 | 20 | [Yusho \(ALBUM Mix\)](https://open.spotify.com/track/6YLg2Q6dHcHYNLeu4ZSObj) | [Kyuso Nekokami](https://open.spotify.com/artist/2ZlX1yKrkVz98AVtQCRJbb) | [Watashi Akinu Watashi](https://open.spotify.com/album/4ZXu5KofuIygNs2SBwo9zR) | 3:36 |
 | 21 | [プロローグ](https://open.spotify.com/track/185O8e1UbykLChtWVIpdyp) | [LONGMAN](https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7) | [10/4](https://open.spotify.com/album/1puG16lwC2NGE5nmlj0eab) | 2:59 |
-| 22 | [竜の落とし子](https://open.spotify.com/track/7rB1MjXVEbOSjNOtuZmZok) | [May Forth](https://open.spotify.com/artist/6MYn2A1crz0GWAqp2Ctyxj) | [竜の落とし子](https://open.spotify.com/album/350EStRELQnftigWJ8GXRF) | 3:28 |
+| 22 | [Seahorse](https://open.spotify.com/track/26NdFMwJkFi2L4EWSxcPnV) | [May Forth](https://open.spotify.com/artist/6MYn2A1crz0GWAqp2Ctyxj) | [Seahorse](https://open.spotify.com/album/7jb4aq0bopsiuW1k8i6lDA) | 3:28 |
 | 23 | [I Refuse](https://open.spotify.com/track/0rlVGQ1dhCbxXqy6Z79I32) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [I Refuse](https://open.spotify.com/album/0MrB7qq3mNwegJbkXWsu9R) | 3:47 |
 | 24 | [to be continued](https://open.spotify.com/track/2Vjvy82eYW584ZzSpqRfeK) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [to be continued](https://open.spotify.com/album/2426KIh3FQjMSZfNeXktvA) | 4:04 |
 | 25 | [あなたに](https://open.spotify.com/track/1egQB7JmuDdaWdWtODlrja) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [MESSAGE](https://open.spotify.com/album/2an2zDcyPnHZgodDzgxZj2) | 3:15 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 64 | [My One Wish](https://open.spotify.com/track/5TO9cofRiOhakgaMh3f75i) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [My One Wish](https://open.spotify.com/album/0LPc8YbGDUS4xkphNIQIbk) | 2:52 |
 | 65 | [ハッピーライフ](https://open.spotify.com/track/3IKUuAJghlmAkjBKbXaGjS) | [175R](https://open.spotify.com/artist/40y1P1mpPSpiRxL5LDv6aI) | [175R BEST 「ANNIVERSARY 1998\-2018」](https://open.spotify.com/album/6pmrSKNlVCLwIbG8Mi7E4A) | 3:29 |
 | 66 | [Get Up](https://open.spotify.com/track/1gJsVvWkcLnMLcZBa6FtGw) | [MONOEYES](https://open.spotify.com/artist/6E0nqUTrVRNwUGcbZxeDX9) | [Dim The Lights](https://open.spotify.com/album/6IaqeynN8Mgi5RprUaWbIU) | 4:05 |
-| 67 | [DEEP](https://open.spotify.com/track/3RVr9rPwZ8EwbCshQWonMT) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [A FORLORN HOPE](https://open.spotify.com/album/552gufO6U4IFh3WWwA2kWr) | 2:02 |
-| 68 | [I'M A RAT](https://open.spotify.com/track/1fT9DpNhb5vHoUGcEtoDFa) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [I'M A RAT](https://open.spotify.com/album/7E7uf3z4a1ijeLMTX841vE) | 2:04 |
+| 67 | [I'M A RAT](https://open.spotify.com/track/1fT9DpNhb5vHoUGcEtoDFa) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [I'M A RAT](https://open.spotify.com/album/7E7uf3z4a1ijeLMTX841vE) | 2:04 |
+| 68 | [DEEP](https://open.spotify.com/track/3RVr9rPwZ8EwbCshQWonMT) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [A FORLORN HOPE](https://open.spotify.com/album/552gufO6U4IFh3WWwA2kWr) | 2:02 |
 | 69 | [Dandadan](https://open.spotify.com/track/6PiCVwbOFHXCGgKhhscqXf) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [STOP THE WAR](https://open.spotify.com/album/4FiPEUGopzwNJKxdA9TBaU) | 3:03 |
 | 70 | [SMOKIN' BILLY](https://open.spotify.com/track/6pjCT2TfxXdoNSMmWIkBA8) | [Thee Michelle Gun Elephant](https://open.spotify.com/artist/2DBcgbvakjiv4Yi9bRyjVX) | [GEAR BLUES](https://open.spotify.com/album/7gUem4NLZn4NKR0d5IVeOJ) | 3:27 |
 | 71 | [Silent spear](https://open.spotify.com/track/5l5O5zu4Vnmse6SHbxORDM) | [mildrage](https://open.spotify.com/artist/2LdFzULhmqYvTHBnHSNNcm) | [ROM](https://open.spotify.com/album/1mCJDxhi1kXBQcrz4wv18J) | 3:55 |
@@ -86,27 +86,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 76 | [大切なもの](https://open.spotify.com/track/4QMLig3qhuUz4KYqsGE4Ov) | [Road Of Major](https://open.spotify.com/artist/5m0p1hLwjTBVYdgUyQaNaQ) | [REPLAY 〜Limited Collection〜](https://open.spotify.com/album/331VhS2XHgfSVYBWYdd2Va) | 3:10 |
 | 77 | [フルアイビール](https://open.spotify.com/track/5sqf3htL9JLOmwQtmWliqM) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [ニューマニア](https://open.spotify.com/album/1ogeyMyOVc9xI6ICg4Vwll) | 1:27 |
 | 78 | [もしも君が泣くならば](https://open.spotify.com/track/1xCQa1dJC3jIXGHaTo7273) | [GOING STEADY](https://open.spotify.com/artist/7EyYmxeTBOeaZ09aaAAtCE) | [さくらの唄](https://open.spotify.com/album/48SXTUrfrvgKVPoVQjeur0) | 3:46 |
-| 79 | [MIND YOUR STEP!](https://open.spotify.com/track/2knIZVDFSEefwgTzWF4i5T) | [Snail Ramp](https://open.spotify.com/artist/1FXeQKrufIqfjNAPPV4bfx) | [TRACK\~Single Collection&More](https://open.spotify.com/album/5ZHhiDzLxrDeZnRtr5z9Ca) | 3:37 |
-| 80 | [ストラトキャスター・シーサイド](https://open.spotify.com/track/2BSEWKPGXooXHbDDle1noH) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [ストラトキャスター・シーサイド](https://open.spotify.com/album/0QByJcApTQCzRS2EvWy4gx) | 3:17 |
+| 79 | [ストラトキャスター・シーサイド](https://open.spotify.com/track/2BSEWKPGXooXHbDDle1noH) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [ストラトキャスター・シーサイド](https://open.spotify.com/album/0QByJcApTQCzRS2EvWy4gx) | 3:17 |
+| 80 | [MIND YOUR STEP!](https://open.spotify.com/track/2knIZVDFSEefwgTzWF4i5T) | [Snail Ramp](https://open.spotify.com/artist/1FXeQKrufIqfjNAPPV4bfx) | [TRACK\~Single Collection&More](https://open.spotify.com/album/5ZHhiDzLxrDeZnRtr5z9Ca) | 3:37 |
 | 81 | [Drain Water](https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:11 |
 | 82 | [NAME](https://open.spotify.com/track/38b2nMKtd1qiVBkULMQti2) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [RARA](https://open.spotify.com/album/6vV4OJGtCjvJD6OdaoCQ9c) | 3:55 |
 | 83 | [Open Up My Heart](https://open.spotify.com/track/45KpSMzfMaPpCDfS4zMeCV) | [The Winking Owl](https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE) | [BLOOMING](https://open.spotify.com/album/2XQmTky0Y8phmyKDurxUDN) | 3:41 |
 | 84 | [The Gift](https://open.spotify.com/track/3fvPawYrM5Mz5lacbZI2US) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [THE GIFT](https://open.spotify.com/album/6tSVeeeeJkdMN6mIV4UqsD) | 2:22 |
 | 85 | [情熱たましい](https://open.spotify.com/track/4HUGJkUteNRGnyr2GVFYRp) | [B\-DASH](https://open.spotify.com/artist/1ZUagrWzR2kve94ptFLdSz) | [ビッグ ブラック ストア\(連絡しろ\)](https://open.spotify.com/album/1f5YEXI4Ezn2NEGOr0LdlU) | 3:07 |
 | 86 | [PARDON?](https://open.spotify.com/track/7l6yDpU2vIDXFQpdEYgpNO) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [Super Champon](https://open.spotify.com/album/23oUTiqIPyiA42tXNsIzis) | 1:45 |
-| 87 | [B・M・W](https://open.spotify.com/track/3CBy99A0i7gTKOjOSSIw53) | [Snail Ramp](https://open.spotify.com/artist/1FXeQKrufIqfjNAPPV4bfx) | [FRESH BRASH OLD MAN](https://open.spotify.com/album/6I3h8d1qKsleQ1iq9nQCwH) | 2:37 |
-| 88 | [Riot](https://open.spotify.com/track/223nvf6U6stGS3nkA72KQ3) | [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [Care Package](https://open.spotify.com/album/26xfYpzZgpGWRgJ7azcrIa) | 2:50 |
-| 89 | [ストラトキャスター シーサイド](https://open.spotify.com/track/49du8muj1Z8rgQ79oSDzE7) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [GIANTSTAMP](https://open.spotify.com/album/1jwFlxQGCk9MjlwTZVwmrj) | 3:12 |
-| 90 | [WALK](https://open.spotify.com/track/37XUvKGl59e5TBs6LUqLFv) | [Husking Bee](https://open.spotify.com/artist/3reslfdzWDC8qHVM36KtZy) | [GRIP](https://open.spotify.com/album/1idRGxgQz3hZHnZFQRHPaM) | 2:13 |
+| 87 | [ストラトキャスター シーサイド](https://open.spotify.com/track/49du8muj1Z8rgQ79oSDzE7) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [GIANTSTAMP](https://open.spotify.com/album/1jwFlxQGCk9MjlwTZVwmrj) | 3:12 |
+| 88 | [WALK](https://open.spotify.com/track/37XUvKGl59e5TBs6LUqLFv) | [Husking Bee](https://open.spotify.com/artist/3reslfdzWDC8qHVM36KtZy) | [GRIP](https://open.spotify.com/album/1idRGxgQz3hZHnZFQRHPaM) | 2:13 |
+| 89 | [B・M・W](https://open.spotify.com/track/3CBy99A0i7gTKOjOSSIw53) | [Snail Ramp](https://open.spotify.com/artist/1FXeQKrufIqfjNAPPV4bfx) | [FRESH BRASH OLD MAN](https://open.spotify.com/album/6I3h8d1qKsleQ1iq9nQCwH) | 2:37 |
+| 90 | [Riot](https://open.spotify.com/track/223nvf6U6stGS3nkA72KQ3) | [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [Care Package](https://open.spotify.com/album/26xfYpzZgpGWRgJ7azcrIa) | 2:50 |
 | 91 | [Miracle](https://open.spotify.com/track/1meDmOUSJzltRqEtDMcxkt) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [BAND FOR HAPPY](https://open.spotify.com/album/5xJPX8mkswZHKkYM6dkWTk) | 1:12 |
-| 92 | [クラーク博士と僕](https://open.spotify.com/track/5Tc0JZXCvmS51vVwPyV3RJ) | [su\-xing\-cyu](https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP) | [メジャーデビューというボケ](https://open.spotify.com/album/2gSRGSg2fgVMAIbgWYPDHZ) | 2:18 |
-| 93 | [今夜](https://open.spotify.com/track/3OIZncmhlLb29Ude4fffmj) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [梵唄 \-bonbai\-](https://open.spotify.com/album/15iY1BT28NYAxP1I6TTkXx) | 4:25 |
+| 92 | [今夜](https://open.spotify.com/track/3OIZncmhlLb29Ude4fffmj) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [梵唄 \-bonbai\-](https://open.spotify.com/album/15iY1BT28NYAxP1I6TTkXx) | 4:25 |
+| 93 | [クラーク博士と僕](https://open.spotify.com/track/5Tc0JZXCvmS51vVwPyV3RJ) | [su\-xing\-cyu](https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP) | [メジャーデビューというボケ](https://open.spotify.com/album/2gSRGSg2fgVMAIbgWYPDHZ) | 2:18 |
 | 94 | [愛するPOW](https://open.spotify.com/track/319lAdDWeZxW4YH3nFECUo) | [B\-DASH](https://open.spotify.com/artist/1ZUagrWzR2kve94ptFLdSz) | [ぽ](https://open.spotify.com/album/4Ug3HlCExkmj08eGUifjbY) | 3:20 |
 | 95 | ["Let it die \-Subete wa isutori game\-" \(Let it die \-All is musical chairs\-\)](https://open.spotify.com/track/2TAxUxm124Yt8hvtUS9oXi) | [PAN](https://open.spotify.com/artist/2YKxuLK7kkCTYnTkX4O17T) | [Goo Goo Goo](https://open.spotify.com/album/7xgE9X3dQw5GBMognMf1oE) | 3:12 |
 | 96 | [永遠衝動](https://open.spotify.com/track/5I2A6BkRvTve67HLQbK3WE) | [I's](https://open.spotify.com/artist/2nLJEolH6pXx09IC4LrWBU) | [永遠衝動](https://open.spotify.com/album/1qmSmgNIWi1DwyXGv4Fbtz) | 4:14 |
 | 97 | [HOTARU NO HIKARI](https://open.spotify.com/track/7u0uQ6LPgE5weRPJx8XzzF) | [Snail Ramp](https://open.spotify.com/artist/1FXeQKrufIqfjNAPPV4bfx), [AIR](https://open.spotify.com/artist/1tY72Ioe4SGlALcoIDlCa1) | [GRAVITY](https://open.spotify.com/album/7AotoltMCQTbLyVq73371i) | 3:40 |
 | 98 | [PLAYBACK](https://open.spotify.com/track/7wjPmEzFs2skCMKaXeYzks) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [PLAY](https://open.spotify.com/album/6qq2rGeaSuxtn4szFhLMVg) | 4:14 |
 | 99 | [SAKURA](https://open.spotify.com/track/7JovoyGpmr87X05qn0gZPe) | [175R](https://open.spotify.com/artist/40y1P1mpPSpiRxL5LDv6aI) | [175R BEST 「ANNIVERSARY 1998\-2018」](https://open.spotify.com/album/6pmrSKNlVCLwIbG8Mi7E4A) | 4:35 |
-| 100 | [ZINNIA](https://open.spotify.com/track/453y9UfKiUqrGNOAYcGvhh) | [Over Arm Throw](https://open.spotify.com/artist/0ULdhIbhpUx97klXlmINML) | [Oath and Night War](https://open.spotify.com/album/3DpriibTdXfiioI41LKUxS) | 3:02 |
+| 100 | [STAY GOLD](https://open.spotify.com/track/1YOjTz7D3IdqkxyAUUArLR) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [MAKING THE ROAD](https://open.spotify.com/album/3rwiRN4pofymsM0Ex9oYoY) | 2:00 |
 
-Snapshot ID: `MCw0MTZjODEzMDE5OGNhMmQzNTM5MmNiMDUwZDg4YmFlYzYxZjY0MjRk`
+Snapshot ID: `MCwxZmU2OThmYjFlOWU4MTg3ZDlhMjE4NTUwNDcyMDliYWQ2NmZkYzk3`

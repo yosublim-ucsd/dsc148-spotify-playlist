@@ -1,12 +1,12 @@
 {
   "description": "Escucha lo mejor del pop electr\u00f3nico en espa\u00f1ol.",
-  "num_followers": 23787,
+  "num_followers": 23790,
   "original_name": "ElectroPop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTY5MTM1YzE5YzgwMTAxYjQzMmRiYTlkY2JhM2Y3MjkwYzZhZTZk",
+  "snapshot_id": "MCw0MmJiNTEwNzUxZDY0NTE5YjAzZTg0MzczMjFmYmRkOGY0NTA4N2M0",
   "tracks": [
     {
       "added_at": "2023-11-28 18:25:52",
@@ -143,18 +143,22 @@
     {
       "added_at": "2023-11-28 18:25:52",
       "album": {
-        "name": "Maquillada en la Cama",
-        "url": "https://open.spotify.com/album/62pbw66ZM46EZ30e4cS087"
+        "name": "Club de Fans de John Boy",
+        "url": "https://open.spotify.com/album/0AX6fEdcmURGqUXk5DDf9Y"
       },
       "artists": [
         {
-          "name": "Juliana Gattas",
-          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
+          "name": "Love of Lesbian",
+          "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
+        },
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
         }
       ],
-      "duration_ms": 218663,
-      "name": "Maquillada en la Cama",
-      "url": "https://open.spotify.com/track/7mMphGdi3iDSHwKEe9oXNF"
+      "duration_ms": 218806,
+      "name": "Club de Fans de John Boy",
+      "url": "https://open.spotify.com/track/04bVV45KVRvd1h0hfLqRjQ"
     },
     {
       "added_at": "2023-11-28 18:25:52",
@@ -175,22 +179,18 @@
     {
       "added_at": "2023-11-28 18:25:52",
       "album": {
-        "name": "Club de Fans de John Boy",
-        "url": "https://open.spotify.com/album/0AX6fEdcmURGqUXk5DDf9Y"
+        "name": "Maquillada en la Cama",
+        "url": "https://open.spotify.com/album/62pbw66ZM46EZ30e4cS087"
       },
       "artists": [
         {
-          "name": "Love of Lesbian",
-          "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
-        },
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+          "name": "Juliana Gattas",
+          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
         }
       ],
-      "duration_ms": 218806,
-      "name": "Club de Fans de John Boy",
-      "url": "https://open.spotify.com/track/04bVV45KVRvd1h0hfLqRjQ"
+      "duration_ms": 218663,
+      "name": "Maquillada en la Cama",
+      "url": "https://open.spotify.com/track/7mMphGdi3iDSHwKEe9oXNF"
     },
     {
       "added_at": "2023-11-28 18:25:52",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-11-28 18:25:52",
       "album": {
+        "name": "la noche de ayer",
+        "url": "https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR"
+      },
+      "artists": [
+        {
+          "name": "chicarica",
+          "url": "https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN"
+        }
+      ],
+      "duration_ms": 255591,
+      "name": "la noche de ayer",
+      "url": "https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF"
+    },
+    {
+      "added_at": "2023-11-28 18:25:52",
+      "album": {
         "name": "Espantap\u00e1jaros",
         "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 172500,
       "name": "Espantap\u00e1jaros",
       "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
-    },
-    {
-      "added_at": "2023-11-28 18:25:52",
-      "album": {
-        "name": "la noche de ayer",
-        "url": "https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR"
-      },
-      "artists": [
-        {
-          "name": "chicarica",
-          "url": "https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN"
-        }
-      ],
-      "duration_ms": 255591,
-      "name": "la noche de ayer",
-      "url": "https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF"
     },
     {
       "added_at": "2023-11-28 18:25:52",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-11-28 18:25:52",
       "album": {
-        "name": "Flashback",
-        "url": "https://open.spotify.com/album/46Fs959lZZebQUlZavtmAm"
-      },
-      "artists": [
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 182291,
-      "name": "Flashback",
-      "url": "https://open.spotify.com/track/1na7nf0E4zxiFbN8K7hbfr"
-    },
-    {
-      "added_at": "2023-11-28 18:25:52",
-      "album": {
         "name": "aquiles </3",
         "url": "https://open.spotify.com/album/7dsvbWKSHY2BroTfogx1uK"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 195053,
       "name": "aquiles </3",
       "url": "https://open.spotify.com/track/3JlmPR9gOPy4OC3zQJp71Y"
+    },
+    {
+      "added_at": "2023-11-28 18:25:52",
+      "album": {
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/46Fs959lZZebQUlZavtmAm"
+      },
+      "artists": [
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "duration_ms": 182291,
+      "name": "Flashback",
+      "url": "https://open.spotify.com/track/1na7nf0E4zxiFbN8K7hbfr"
     },
     {
       "added_at": "2023-11-28 18:25:52",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2023-11-28 18:25:52",
       "album": {
-        "name": "blablablablabla",
-        "url": "https://open.spotify.com/album/67PCcqW4kt4CYOzJH1E3mp"
-      },
-      "artists": [
-        {
-          "name": "lisandro skar",
-          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
-        },
-        {
-          "name": "musica gratis",
-          "url": "https://open.spotify.com/artist/4wVcG4AqJ5gyqs9mAYcV9G"
-        }
-      ],
-      "duration_ms": 201706,
-      "name": "blablablablabla",
-      "url": "https://open.spotify.com/track/4b0FSUCnGQ0UGn00cWMoMj"
-    },
-    {
-      "added_at": "2023-11-28 18:25:52",
-      "album": {
         "name": "Teoria Espacial (Remix)",
         "url": "https://open.spotify.com/album/4pfZBCyYE5KMS26hgwqNQx"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 332542,
       "name": "Teoria Espacial (Remix)",
       "url": "https://open.spotify.com/track/6AHPhNfRmMZX9Oj4ulslKw"
+    },
+    {
+      "added_at": "2023-11-28 18:25:52",
+      "album": {
+        "name": "blablablablabla",
+        "url": "https://open.spotify.com/album/67PCcqW4kt4CYOzJH1E3mp"
+      },
+      "artists": [
+        {
+          "name": "lisandro skar",
+          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
+        },
+        {
+          "name": "musica gratis",
+          "url": "https://open.spotify.com/artist/4wVcG4AqJ5gyqs9mAYcV9G"
+        }
+      ],
+      "duration_ms": 201706,
+      "name": "blablablablabla",
+      "url": "https://open.spotify.com/track/4b0FSUCnGQ0UGn00cWMoMj"
     },
     {
       "added_at": "2023-11-28 18:25:52",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-11-28 18:25:52",
       "album": {
-        "name": "ELET\u00c9",
-        "url": "https://open.spotify.com/album/2yrXDD1dTZFPVSKMp9ADpL"
-      },
-      "artists": [
-        {
-          "name": "Lucia Tacchetti",
-          "url": "https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ"
-        }
-      ],
-      "duration_ms": 311386,
-      "name": "El Magnetismo",
-      "url": "https://open.spotify.com/track/4RJpJjhEH1yFizM4CGD65Z"
-    },
-    {
-      "added_at": "2023-11-28 18:25:52",
-      "album": {
         "name": "Trampa",
         "url": "https://open.spotify.com/album/5h0zHqIGlc2gXRQclK3JNL"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 183500,
       "name": "Trampa",
       "url": "https://open.spotify.com/track/24fcNlKEIRBrKvVk1OYCiM"
+    },
+    {
+      "added_at": "2023-11-28 18:25:52",
+      "album": {
+        "name": "ELET\u00c9",
+        "url": "https://open.spotify.com/album/2yrXDD1dTZFPVSKMp9ADpL"
+      },
+      "artists": [
+        {
+          "name": "Lucia Tacchetti",
+          "url": "https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ"
+        }
+      ],
+      "duration_ms": 311386,
+      "name": "El Magnetismo",
+      "url": "https://open.spotify.com/track/4RJpJjhEH1yFizM4CGD65Z"
     },
     {
       "added_at": "2023-11-28 18:25:52",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-11-28 18:25:52",
       "album": {
-        "name": "MA\u00d1ANA ES PEOR :(",
-        "url": "https://open.spotify.com/album/3QT37bIN5jVM4cZ0MgHeGd"
-      },
-      "artists": [
-        {
-          "name": "FERMIN",
-          "url": "https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz"
-        }
-      ],
-      "duration_ms": 225746,
-      "name": "PARQUE DE LA COSTA",
-      "url": "https://open.spotify.com/track/6YAn9OEzg7816kMXnXUYA4"
-    },
-    {
-      "added_at": "2023-11-28 18:25:52",
-      "album": {
         "name": "Desconfiguraci\u00f3n, Vol. 2",
         "url": "https://open.spotify.com/album/1yFI2RRP9WaDO0XqdtwXaX"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 448000,
       "name": "No Van a Parar - Remix",
       "url": "https://open.spotify.com/track/3zY3SqG8uQdD2zhNQi98NY"
+    },
+    {
+      "added_at": "2023-11-28 18:25:52",
+      "album": {
+        "name": "MA\u00d1ANA ES PEOR :(",
+        "url": "https://open.spotify.com/album/3QT37bIN5jVM4cZ0MgHeGd"
+      },
+      "artists": [
+        {
+          "name": "FERMIN",
+          "url": "https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz"
+        }
+      ],
+      "duration_ms": 225746,
+      "name": "PARQUE DE LA COSTA",
+      "url": "https://open.spotify.com/track/6YAn9OEzg7816kMXnXUYA4"
     },
     {
       "added_at": "2023-11-28 18:25:52",
@@ -1343,6 +1343,38 @@
     {
       "added_at": "2023-11-28 18:25:52",
       "album": {
+        "name": "Atemporal",
+        "url": "https://open.spotify.com/album/2MkNHGimCLS2aC0Bny8nnT"
+      },
+      "artists": [
+        {
+          "name": "ZEBRA 93",
+          "url": "https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC"
+        }
+      ],
+      "duration_ms": 226464,
+      "name": "M\u00edstico Mezcal",
+      "url": "https://open.spotify.com/track/4uEvTqHD3KEO7xXuawTSWG"
+    },
+    {
+      "added_at": "2023-11-28 18:25:52",
+      "album": {
+        "name": "Marcha II",
+        "url": "https://open.spotify.com/album/06zWjeOA3MwBHLApKUS3Qs"
+      },
+      "artists": [
+        {
+          "name": "Laika Perra Rusa",
+          "url": "https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb"
+        }
+      ],
+      "duration_ms": 224330,
+      "name": "Atentado en la Pista",
+      "url": "https://open.spotify.com/track/1kvNcx5MoS5XvMcIua4PfG"
+    },
+    {
+      "added_at": "2023-11-28 18:25:52",
+      "album": {
         "name": "7 canciones antes de que nos corten la luz",
         "url": "https://open.spotify.com/album/58Kzrvix7aM7yh0N4CpRVm"
       },
@@ -1383,34 +1415,18 @@
     {
       "added_at": "2023-11-28 18:25:52",
       "album": {
-        "name": "Marcha II",
-        "url": "https://open.spotify.com/album/06zWjeOA3MwBHLApKUS3Qs"
+        "name": "Noche de Vampiros",
+        "url": "https://open.spotify.com/album/2T2TvM0TON3sdK0TOofI5n"
       },
       "artists": [
         {
-          "name": "Laika Perra Rusa",
-          "url": "https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb"
+          "name": "Trashu",
+          "url": "https://open.spotify.com/artist/36LxoJzKgytSD3TWMN54vY"
         }
       ],
-      "duration_ms": 224330,
-      "name": "Atentado en la Pista",
-      "url": "https://open.spotify.com/track/1kvNcx5MoS5XvMcIua4PfG"
-    },
-    {
-      "added_at": "2023-11-28 18:25:52",
-      "album": {
-        "name": "Atemporal",
-        "url": "https://open.spotify.com/album/2MkNHGimCLS2aC0Bny8nnT"
-      },
-      "artists": [
-        {
-          "name": "ZEBRA 93",
-          "url": "https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC"
-        }
-      ],
-      "duration_ms": 226464,
-      "name": "M\u00edstico Mezcal",
-      "url": "https://open.spotify.com/track/4uEvTqHD3KEO7xXuawTSWG"
+      "duration_ms": 185187,
+      "name": "Noche de Vampiros",
+      "url": "https://open.spotify.com/track/4D6XViAmoJGuz6SqPOP0me"
     },
     {
       "added_at": "2023-11-28 18:25:52",
@@ -1431,18 +1447,18 @@
     {
       "added_at": "2023-11-28 18:25:52",
       "album": {
-        "name": "Noche de Vampiros",
-        "url": "https://open.spotify.com/album/2T2TvM0TON3sdK0TOofI5n"
+        "name": "Derrumbe",
+        "url": "https://open.spotify.com/album/23csDME5tEskWfOBPW09mi"
       },
       "artists": [
         {
-          "name": "Trashu",
-          "url": "https://open.spotify.com/artist/36LxoJzKgytSD3TWMN54vY"
+          "name": "Varese",
+          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
         }
       ],
-      "duration_ms": 185187,
-      "name": "Noche de Vampiros",
-      "url": "https://open.spotify.com/track/4D6XViAmoJGuz6SqPOP0me"
+      "duration_ms": 201947,
+      "name": "Derrumbe",
+      "url": "https://open.spotify.com/track/0YSBEGkXPVcJXLdhNIXx4q"
     },
     {
       "added_at": "2023-11-28 18:25:52",
@@ -1463,18 +1479,18 @@
     {
       "added_at": "2023-11-28 18:25:52",
       "album": {
-        "name": "Derrumbe",
-        "url": "https://open.spotify.com/album/23csDME5tEskWfOBPW09mi"
+        "name": "Guazatumba",
+        "url": "https://open.spotify.com/album/63nVyKVXvnLNnVR6x3mlxC"
       },
       "artists": [
         {
-          "name": "Varese",
-          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
+          "name": "Dani Umpi",
+          "url": "https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI"
         }
       ],
-      "duration_ms": 201947,
-      "name": "Derrumbe",
-      "url": "https://open.spotify.com/track/0YSBEGkXPVcJXLdhNIXx4q"
+      "duration_ms": 229726,
+      "name": "Circular",
+      "url": "https://open.spotify.com/track/21Rw3bEHD9hdwDIpD3BaWk"
     },
     {
       "added_at": "2023-11-28 18:25:52",
@@ -1491,22 +1507,6 @@
       "duration_ms": 178050,
       "name": "MELONI",
       "url": "https://open.spotify.com/track/0ErlJwEdhMnZTDveD7GYUX"
-    },
-    {
-      "added_at": "2023-11-28 18:25:52",
-      "album": {
-        "name": "Guazatumba",
-        "url": "https://open.spotify.com/album/63nVyKVXvnLNnVR6x3mlxC"
-      },
-      "artists": [
-        {
-          "name": "Dani Umpi",
-          "url": "https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI"
-        }
-      ],
-      "duration_ms": 229726,
-      "name": "Circular",
-      "url": "https://open.spotify.com/track/21Rw3bEHD9hdwDIpD3BaWk"
     },
     {
       "added_at": "2023-11-28 18:25:52",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2023-11-28 18:25:52",
       "album": {
+        "name": "Conexi\u00f3n De Amor",
+        "url": "https://open.spotify.com/album/0Ix9AzDcPeQKSNYNzKSxSt"
+      },
+      "artists": [
+        {
+          "name": "Make Mama Proud",
+          "url": "https://open.spotify.com/artist/5szSyl9vXGIHY6Ln8K14UI"
+        }
+      ],
+      "duration_ms": 232550,
+      "name": "CONEXI\u00d3N DE AMOR",
+      "url": "https://open.spotify.com/track/58F5bd40PlBLvoRKzKWDCD"
+    },
+    {
+      "added_at": "2023-11-28 18:25:52",
+      "album": {
         "name": "Una Hora para Verte",
         "url": "https://open.spotify.com/album/38Aye9SVpQxuZXTktavk7q"
       },
@@ -1579,6 +1595,22 @@
       "duration_ms": 187250,
       "name": "Una Hora para Verte",
       "url": "https://open.spotify.com/track/0mXS6S5ZxUCiUZLZgz6qTO"
+    },
+    {
+      "added_at": "2023-11-28 18:25:52",
+      "album": {
+        "name": "Formas",
+        "url": "https://open.spotify.com/album/1EGRoPgHHReeUzwtktkirF"
+      },
+      "artists": [
+        {
+          "name": "Entr\u00f3pica",
+          "url": "https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08"
+        }
+      ],
+      "duration_ms": 213018,
+      "name": "Housie",
+      "url": "https://open.spotify.com/track/0bk5rMOL7200N3fvqhSfL6"
     },
     {
       "added_at": "2023-11-28 18:25:52",
@@ -1603,18 +1635,18 @@
     {
       "added_at": "2023-11-28 18:25:52",
       "album": {
-        "name": "Formas",
-        "url": "https://open.spotify.com/album/1EGRoPgHHReeUzwtktkirF"
+        "name": "Luc\u00eda",
+        "url": "https://open.spotify.com/album/4Ni2gs4GGSo6NmJjvKL0NH"
       },
       "artists": [
         {
-          "name": "Entr\u00f3pica",
-          "url": "https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08"
+          "name": "Renata Di Croce",
+          "url": "https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr"
         }
       ],
-      "duration_ms": 213018,
-      "name": "Housie",
-      "url": "https://open.spotify.com/track/0bk5rMOL7200N3fvqhSfL6"
+      "duration_ms": 289333,
+      "name": "Luc\u00eda",
+      "url": "https://open.spotify.com/track/2IKC7XhiH7ZVVESFYmW1Ru"
     },
     {
       "added_at": "2023-11-28 18:25:52",
@@ -1631,22 +1663,6 @@
       "duration_ms": 310890,
       "name": "Sombras en la Pared - Vivo Buenos Aires",
       "url": "https://open.spotify.com/track/22y9nKZDxQu7tgPwkeHPqW"
-    },
-    {
-      "added_at": "2023-11-28 18:25:52",
-      "album": {
-        "name": "Luc\u00eda",
-        "url": "https://open.spotify.com/album/4Ni2gs4GGSo6NmJjvKL0NH"
-      },
-      "artists": [
-        {
-          "name": "Renata Di Croce",
-          "url": "https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr"
-        }
-      ],
-      "duration_ms": 289333,
-      "name": "Luc\u00eda",
-      "url": "https://open.spotify.com/track/2IKC7XhiH7ZVVESFYmW1Ru"
     },
     {
       "added_at": "2023-11-28 18:25:52",
@@ -1715,26 +1731,6 @@
       "duration_ms": 273337,
       "name": "Compa\u00f1erx",
       "url": "https://open.spotify.com/track/1fzGUsPb2RAXOZDHzKXN5Q"
-    },
-    {
-      "added_at": "2023-11-28 18:25:52",
-      "album": {
-        "name": "Secreto a Voces",
-        "url": "https://open.spotify.com/album/2mnjtPOAd0i4j7HkbL9ie7"
-      },
-      "artists": [
-        {
-          "name": "Juan Baro",
-          "url": "https://open.spotify.com/artist/4Qt3SF0nE9YaCDhnX2EnaI"
-        },
-        {
-          "name": "Vita Set",
-          "url": "https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy"
-        }
-      ],
-      "duration_ms": 231569,
-      "name": "Secreto a Voces",
-      "url": "https://open.spotify.com/track/6N9vUjcRG2OPvVXSxlyT2c"
     }
   ],
   "unique_name": "ElectroPop",

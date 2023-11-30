@@ -2533,6 +2533,24 @@
     },
     {
       "album": {
+        "name": "Bejby",
+        "url": "https://open.spotify.com/album/4J2IQ01XunpWumV5rn4ceK"
+      },
+      "artists": [
+        {
+          "name": "Sima",
+          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136124,
+      "name": "Bejby",
+      "url": "https://open.spotify.com/track/11oUseW6uGWlPDQ77M2GT1"
+    },
+    {
+      "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
@@ -8034,7 +8052,7 @@
       ],
       "date_added": "2023-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-29",
+      "date_removed": null,
       "duration_ms": 182066,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
@@ -8400,7 +8418,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-28",
+      "date_removed": null,
       "duration_ms": 178285,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/2xBGURDbav4VEiVrqEXmBD"
@@ -10078,7 +10096,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 142083,
       "name": "Hejtklub 11",
       "url": "https://open.spotify.com/track/1Ts222mGd174xN3ClQRzSw"
@@ -11400,7 +11418,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 175238,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
@@ -11550,7 +11568,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 260111,
       "name": "IDGAF (feat. Yeat)",
       "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
@@ -13088,7 +13106,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 145035,
       "name": "Kdes to vzal?",
       "url": "https://open.spotify.com/track/2FTi3HC3D99tmuDEakF6kD"
@@ -16358,7 +16376,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-29",
+      "date_removed": null,
       "duration_ms": 182946,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
@@ -17062,7 +17080,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 137773,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
@@ -17330,7 +17348,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 156803,
       "name": "M\u00f4j typ \u017eeny",
       "url": "https://open.spotify.com/track/0OsN3na3JJI2502qObTqsG"
@@ -17600,7 +17618,7 @@
       ],
       "date_added": "2023-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-29",
+      "date_removed": null,
       "duration_ms": 180932,
       "name": "Najkraj\u0161ie Vianoce",
       "url": "https://open.spotify.com/track/5pJGyA4ZtXA43x8FrSPRja"
@@ -29324,6 +29342,24 @@
       "duration_ms": 66976,
       "name": "WAE",
       "url": "https://open.spotify.com/track/0XbpDPx8cuA9qnOSsju1MF"
+    },
+    {
+      "album": {
+        "name": "Waiting For The Sun",
+        "url": "https://open.spotify.com/album/6JI3mbXPxMk8eAZBZhIY3L"
+      },
+      "artists": [
+        {
+          "name": "Tugen",
+          "url": "https://open.spotify.com/artist/6G40eqe0sTJ6ssASEvP7Yk"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260508,
+      "name": "Waiting For The Sun",
+      "url": "https://open.spotify.com/track/6HoaFvzlhfZk4662l7Bzfg"
     },
     {
       "album": {

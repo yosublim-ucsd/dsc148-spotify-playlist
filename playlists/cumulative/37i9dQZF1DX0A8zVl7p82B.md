@@ -4,7 +4,7 @@
 
 > All the best in new and classic Christmas Pop! Cover: Ariana Grande
 
-247 songs - 13 hr 37 min
+248 songs - 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [Happy Xmas \(War Is Over\) \- Remastered 2010](https://open.spotify.com/track/3zJw3rugfpVrmBeDDnUYzy) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [The Harlem Community Choir](https://open.spotify.com/artist/0vneleczrRRNPF1vj0x0vy), [The Plastic Ono Band](https://open.spotify.com/artist/4m2kfAHEnK7Z7qLGxeWtro), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ) | [Power To The People \- The Hits](https://open.spotify.com/album/7mXg4fLJHmmnjAahH15Wsj) | 3:33 | 2021-12-24 | 2022-07-29 |
 | [Happy Xmas \(War Is Over\) \- Remastered 2010](https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ) | [Signature Box](https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v) | 3:34 | 2021-12-24 |  |
 | [Hard Candy Christmas](https://open.spotify.com/track/24cTSBqNDT8rX5RjuxAxBR) | [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Hard Candy Christmas](https://open.spotify.com/album/63s2s0ZVgohgW0CEm1NHgd) | 3:28 | 2021-12-24 | 2022-12-01 |
-| [Hard Candy Christmas](https://open.spotify.com/track/6V5MkZb6BkvfcppHRO8zvf) | [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Hard Candy Christmas](https://open.spotify.com/album/3etDoLyTmP4B9CFJj7rsiz) | 3:28 | 2022-11-30 |  |
+| [Hard Candy Christmas](https://open.spotify.com/track/5OotiuR5xoCmLqeq1P8PFn) | [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Hard Candy Christmas](https://open.spotify.com/album/29bRAOozywfaeNNM3hQi2r) | 3:28 | 2023-11-23 |  |
+| [Hard Candy Christmas](https://open.spotify.com/track/6V5MkZb6BkvfcppHRO8zvf) | [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Hard Candy Christmas](https://open.spotify.com/album/3etDoLyTmP4B9CFJj7rsiz) | 3:28 | 2022-11-30 | 2023-11-30 |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/0iV9yfj1knFNOSEiuTHZwl) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [My Kind Of Christmas](https://open.spotify.com/album/0EmIJRj74RImuDbGJh4iOu) | 4:03 | 2021-12-24 | 2022-11-12 |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/1Qi2wh8fFgDV7tl4Sj3f2K) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/3nCpXy6LlyXWuFR08tMycK) | 2:50 | 2021-12-24 |  |
 | [Have Yourself a Merry Little Christmas \(feat\. Esperanza Spalding\)](https://open.spotify.com/track/0FuXrVBkBEn7WmPm8rT4GV) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [A Legendary Christmas](https://open.spotify.com/album/67vlDQxXPo2JKnZ5e6tHKY) | 3:43 | 2021-12-24 | 2022-10-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,209 likes - 50 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,250 likes - 50 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 | 28 | [Three Drums](https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three Drums](https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237) | 8:15 |
 | 29 | [\#20](https://open.spotify.com/track/0Pg0frSTti7d8Ck1OmOYkz) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH) | 4:15 |
 | 30 | [Boreal Kiss Pt\. 1](https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Haunt Me](https://open.spotify.com/album/5MZRB9G4snRWIG0otfxJYq) | 3:28 |
-| 31 | [Clube Da Esquina Nº 2](https://open.spotify.com/track/1sdW2whJr8CLa6bMA67LPQ) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [Clube Da Esquina](https://open.spotify.com/album/5risYG7klZCSLMNxB9dZhf) | 3:38 |
-| 32 | [Gelis](https://open.spotify.com/track/3vy3sOpzkTWc3VsIBjgrrS) | [Flako](https://open.spotify.com/artist/4gYKVizj3uSquuZvokYgZm) | [Gelis](https://open.spotify.com/album/7ezhsL45DIZcUzv8HdGR2l) | 3:08 |
+| 31 | [Gelis](https://open.spotify.com/track/3vy3sOpzkTWc3VsIBjgrrS) | [Flako](https://open.spotify.com/artist/4gYKVizj3uSquuZvokYgZm) | [Gelis](https://open.spotify.com/album/7ezhsL45DIZcUzv8HdGR2l) | 3:08 |
+| 32 | [Clube Da Esquina Nº 2](https://open.spotify.com/track/1sdW2whJr8CLa6bMA67LPQ) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [Clube Da Esquina](https://open.spotify.com/album/5risYG7klZCSLMNxB9dZhf) | 3:38 |
 | 33 | [It Was 9:30 and You Were Beautiful](https://open.spotify.com/track/2juufw7FlVjhDb3vtRwJNS) | [WMD](https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD) | [Reminisce](https://open.spotify.com/album/3b5iksRC1DTnQhY9Mgmv5l) | 4:33 |
 | 34 | [Tobiume](https://open.spotify.com/track/4IQWc6rhJwpFrRKBLx27X6) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 4:38 |
 | 35 | [After Midnight](https://open.spotify.com/track/0L2Q17joitlk1BxqKbbUyM) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [Filoxiny](https://open.spotify.com/album/5F3jI2TClJuyIAUcbgf4Ps) | 4:43 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 | 40 | [Melancholia VI](https://open.spotify.com/track/7HfZJvZMAG5TRecSfLwzZN) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Melancholia](https://open.spotify.com/album/2942iMljVSFpfxH8lJaCZr) | 2:15 |
 | 41 | [Limerence](https://open.spotify.com/track/1KeUP2WeWCXq3yd7MZsnmN) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [When Man Fails You](https://open.spotify.com/album/2jCY7x3xWM2Gn8yWDCIbgK) | 5:48 |
 | 42 | [Space 8](https://open.spotify.com/track/6kpoN7Z1mahkMePKztQdHt) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8) | 17:32 |
-| 43 | [Coconut Mango](https://open.spotify.com/track/6VRgvci0hYokJguaBzGZmj) | [Arrangement](https://open.spotify.com/artist/6RxI3tCP0Olcb9dMar7e9e) | [Coconut Mango](https://open.spotify.com/album/5paYeeVQtrLKO68IaCCtwj) | 5:25 |
+| 43 | [Angel's Flight](https://open.spotify.com/track/3W3xcAOWb0TkMqqI7Rd5xg) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Angel's Flight](https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR) | 5:52 |
 | 44 | [Requiem for CS70 and Strings](https://open.spotify.com/track/5tJZSE0l9xTnRrccjBZZXg) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Crush](https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z) | 2:23 |
-| 45 | [Angel's Flight](https://open.spotify.com/track/3W3xcAOWb0TkMqqI7Rd5xg) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Angel's Flight](https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR) | 5:52 |
+| 45 | [Coconut Mango](https://open.spotify.com/track/6VRgvci0hYokJguaBzGZmj) | [Arrangement](https://open.spotify.com/artist/6RxI3tCP0Olcb9dMar7e9e) | [Coconut Mango](https://open.spotify.com/album/5paYeeVQtrLKO68IaCCtwj) | 5:25 |
 | 46 | [Winter's Lament](https://open.spotify.com/track/6SeSesTsbZgtyoY6GTyrEd) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Winter's Lament](https://open.spotify.com/album/46HYCYxZJjjl2DYPnWBCIC) | 2:50 |
 | 47 | [Briefly](https://open.spotify.com/track/0qSjSC6I0puPWQbyQXOIAf) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for Animals](https://open.spotify.com/album/0w4P2GvCEY7rVxdU1rrnxJ) | 27:02 |
 | 48 | [Broken Hearted Kota](https://open.spotify.com/track/2nP8BQtLMXpaUWjUGWAwhy) | [Joseph Shabason](https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS) | [Broken Hearted Kota](https://open.spotify.com/album/1Wmrt4ojrx2y7NRHVvuoMv) | 5:11 |
 | 49 | [There Were Bells](https://open.spotify.com/track/16e88gyG4rLhaAAYqRPujQ) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W) | 4:52 |
 | 50 | [image no\. 4](https://open.spotify.com/track/1TbDfkXAw8sbd3oewgAOW4) | [Savoir Adore](https://open.spotify.com/artist/2weMnYqCmtNUrSLAJq5dD8), [Image Tapes](https://open.spotify.com/artist/2gi84HSldDZMD7fwwY4xAz) | [Image Tapes Vol\. 1](https://open.spotify.com/album/3yTXYqamF5Kq1FiGjPph0J) | 2:05 |
 
-Snapshot ID: `MCxhN2Y0M2I0N2FhYjAwOWZmZDEyZWYzNjUwNTUyMDYxNGZmMjA0MjZm`
+Snapshot ID: `MCwxOGNiODNkMTk4OWFjZTkwMTJmYzZkMzc0ZjNjNjllY2ZiODY1ZTBi`

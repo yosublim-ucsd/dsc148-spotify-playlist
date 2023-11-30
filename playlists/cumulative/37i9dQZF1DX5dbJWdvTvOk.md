@@ -4,11 +4,12 @@
 
 > Canciones instrumentales de guitarra.
 
-622 songs - 1 day 2 hr 20 min
+624 songs - 1 day 2 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A beautiful promise](https://open.spotify.com/track/1NVbYXCYqpJmPlHEAsPwmz) | [Yolanda Rae](https://open.spotify.com/artist/7hVOcrYbi7ru9tDmWqZnIx) | [A beautiful promise](https://open.spotify.com/album/6GfMrTCB1Kcs0qDtiG77k6) | 2:02 | 2023-04-21 |  |
+| [A Cardinal Moonlight](https://open.spotify.com/track/7s46C3yeQvTSOehOgtmSCR) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [A Cardinal Moonlight](https://open.spotify.com/album/7Ckwv4JpZENq4VywyXBQKo) | 2:54 | 2023-11-24 |  |
 | [A Few Reasons](https://open.spotify.com/track/5f47RLk3HgmaCBrhI9Ibrf) | [Toledo Heights](https://open.spotify.com/artist/1nxXdVa0LIKGjk0eLLRM6q) | [A Few Reasons](https://open.spotify.com/album/6NAR2psL2E6ViUIZgHurEZ) | 2:31 | 2023-04-21 |  |
 | [A Mano](https://open.spotify.com/track/3I543eAVQG6u3Sm9k4PLAM) | [Papió](https://open.spotify.com/artist/14ivAwcaq4oDPoupWn8cQU) | [De Mano A Mano](https://open.spotify.com/album/7ilmeRDYvSLSsIgBBjdPIQ) | 2:40 | 2022-07-15 | 2023-04-22 |
 | [A New Strange Feeling](https://open.spotify.com/track/4k5gLhElD40OwbYu7M4us1) | [Aurelia](https://open.spotify.com/artist/6tnJc05Vcp2PyNBCgkcAiA) | [A New Strange Feeling](https://open.spotify.com/album/2Zr0enscRh1m9sCMubg5Zt) | 3:19 | 2022-10-07 | 2023-04-22 |
@@ -101,7 +102,7 @@
 | [Cappadocia](https://open.spotify.com/track/26CxjkvrjCPMDX9wVMt7U0) | [Nylah Read](https://open.spotify.com/artist/1t57FjgpJN2vjPRo3WS9LZ) | [Cappadocia](https://open.spotify.com/album/7GA7yXEMzZOC7Th3RFYaAD) | 2:08 | 2023-04-21 |  |
 | [Capulet](https://open.spotify.com/track/71cwIqUl6Zuqxdms9Bkwg2) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Capulet](https://open.spotify.com/album/7I2zx3Yc5sAx2qAblV1Mlh) | 2:04 | 2023-04-21 |  |
 | [Carroll Gardens](https://open.spotify.com/track/3dgAbsq1H5NqLJscYPxurR) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Carroll Gardens](https://open.spotify.com/album/6UTtrPhsCgjxjG24Zfn6jq) | 2:44 | 2023-08-10 |  |
-| [Carry Me](https://open.spotify.com/track/2kSUbTGxyd3wDngU35HzSP) | [Luca Tudela](https://open.spotify.com/artist/2gy6cul8rT4vjPjhSlbuo3) | [Carry Me](https://open.spotify.com/album/6i2lhyW1odbDEe3er0rur5) | 2:08 | 2023-04-21 |  |
+| [Carry Me](https://open.spotify.com/track/2kSUbTGxyd3wDngU35HzSP) | [Luca Tudela](https://open.spotify.com/artist/2gy6cul8rT4vjPjhSlbuo3) | [Carry Me](https://open.spotify.com/album/6i2lhyW1odbDEe3er0rur5) | 2:08 | 2023-04-21 | 2023-11-30 |
 | [Cartas da Infância](https://open.spotify.com/track/6oWxIZMs643Wtw2cuDh2b3) | [Willian Rosa](https://open.spotify.com/artist/7prsw90i6r3zf2WUsSajns) | [Cartas da Infância](https://open.spotify.com/album/0BhYFKgYBJydcaDQG6emhd) | 4:23 | 2022-07-15 | 2023-02-25 |
 | [Cast Away](https://open.spotify.com/track/6ELU3LmFt2QjMzLnTUyC5M) | [Andrei Smirnova](https://open.spotify.com/artist/6wLqG3xZFWS0M5pFimbbyr) | [Cast Away](https://open.spotify.com/album/5W2jvQiILAJNhun9k3jKg9) | 1:50 | 2023-04-21 | 2023-08-26 |
 | [Catamount Mountain](https://open.spotify.com/track/0ESy5EctGe01Ko8Oy2JkIO) | [Jacob Ledger](https://open.spotify.com/artist/7Ky67NUialaMahn63a39wg) | [Catamount Mountain](https://open.spotify.com/album/4qkR8LyWFPQ2dnnu0VPYxm) | 2:27 | 2023-02-24 | 2023-04-22 |
@@ -614,7 +615,7 @@
 | [When You Came Along](https://open.spotify.com/track/5ZXGt5CWPJZow2IMyVjGMn) | [Jonnie Snoilsky](https://open.spotify.com/artist/5ycCOf6NSQtvIFdrscOuU4) | [When You Came Along](https://open.spotify.com/album/5pJ21xOidRFlu3EPbuiKEJ) | 2:06 | 2023-03-31 | 2023-04-22 |
 | [Whispering Layers](https://open.spotify.com/track/29HXSiNvjzOadUBozQ1wJC) | [Pacific Strings](https://open.spotify.com/artist/5rMCidkAPpXFooZbVUrbuZ) | [Whispering Layers](https://open.spotify.com/album/1Xo3DXwlMHItplKwelQCMT) | 2:34 | 2022-07-22 | 2022-11-18 |
 | [Whispers At Dawn](https://open.spotify.com/track/5WyGvhxqJjNyFUf7TsZ6ra) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Whispers At Dawn](https://open.spotify.com/album/2Mbd5VHwehYOKADGeuRFqU) | 1:50 | 2022-07-15 | 2023-04-22 |
-| [White Sands](https://open.spotify.com/track/3ANFk4zuBdlLwF8Qf4ogIz) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [White Sands](https://open.spotify.com/album/260yVwxBew0rLttW67e1ex) | 2:31 | 2023-04-21 |  |
+| [White Sands](https://open.spotify.com/track/3ANFk4zuBdlLwF8Qf4ogIz) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [White Sands](https://open.spotify.com/album/260yVwxBew0rLttW67e1ex) | 2:31 | 2023-04-21 | 2023-11-30 |
 | [Window](https://open.spotify.com/track/7Avxe9ZBaBQ8yWk1fpYM8Y) | [Elsa Pelling](https://open.spotify.com/artist/6m3MUFzflTDG8M0r7Isk9U) | [Window](https://open.spotify.com/album/1Qa7H30jLp6XDAxCv7M769) | 2:02 | 2023-10-27 |  |
 | [Wing It](https://open.spotify.com/track/3kxF9scsDgLlF3UP2vPTvZ) | [Jonnie Snoilsky](https://open.spotify.com/artist/5ycCOf6NSQtvIFdrscOuU4) | [Wing It](https://open.spotify.com/album/3YwKDFW3Soe7PC8cm0cfWa) | 1:50 | 2023-04-21 | 2023-08-26 |
 | [Winter Escape](https://open.spotify.com/track/4E7viEoB5ubmacUw6G8obh) | [Mac Lawlor](https://open.spotify.com/artist/0GaniHLie4Bik5osPQxfM3) | [Lake Tahoe](https://open.spotify.com/album/7qDXnV1wkeeCjx3ryDWHyk) | 2:49 | 2022-07-15 | 2022-10-07 |
@@ -626,6 +627,7 @@
 | [wolkenlos](https://open.spotify.com/track/1GtvNtOFcgyapayFKdEPfn) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Waldspaziergang](https://open.spotify.com/album/12zVtMVg3VOEsVZ3nA4BdB) | 3:36 | 2022-07-15 | 2023-04-22 |
 | [Woods](https://open.spotify.com/track/4pqqF7B7YVFHidJ4kDybk2) | [Sergei Baronin](https://open.spotify.com/artist/43F9YqxW89cDIMwYv7Ruoy) | [Woods](https://open.spotify.com/album/6Bsv4F8PGSosuGjvqOn1Pu) | 1:53 | 2023-04-21 | 2023-06-03 |
 | [Yellow](https://open.spotify.com/track/27DodeB1seENJxnWojPa6G) | [Walter Penn](https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9) | [Yellow](https://open.spotify.com/album/6ogaGgYB25jgZmCo405fq6) | 2:31 | 2023-03-31 | 2023-04-22 |
+| [Yesteryear](https://open.spotify.com/track/26onATmE5ib4iKkPfvHtnw) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Yesteryear](https://open.spotify.com/album/5Uu6qKT8FsFyUD0tRDIfxZ) | 2:39 | 2023-11-24 |  |
 | [You And I](https://open.spotify.com/track/6Z4Okg1ZdX9K8Ejq7g0bin) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [You And I](https://open.spotify.com/album/6PuMsLVs2Slyg2AiPq9KGq) | 2:34 | 2023-06-02 |  |
 | [You Never Arrived](https://open.spotify.com/track/78AHmGv11Zs0uXa0Yi0BZS) | [Charlie Miller](https://open.spotify.com/artist/4gedU51ks1jf6BRwzCWosG) | [You Never Arrived](https://open.spotify.com/album/5uFHE8291ozcWVYYwjcnvB) | 2:56 | 2023-04-21 | 2023-06-03 |
 | [Zarabanda](https://open.spotify.com/track/5vURbe2Rn3beBOOsDg92TK) | [Ron Melass](https://open.spotify.com/artist/61JpiETiqqg2JJIKbXO04g) | [Zarabanda](https://open.spotify.com/album/1Wyqcq3dYapOndSfkuN1Mq) | 1:42 | 2022-07-15 | 2023-04-22 |

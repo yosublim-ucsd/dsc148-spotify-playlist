@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4CGLgiKls.md) - [plain]
 
 > Se viene el partido, la previa es con música!
 
-[Spotify](https://open.spotify.com/user/spotify) - 570,150 likes - 65 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 570,198 likes - 65 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4CGLgiKls.md) - [plain]
 | 40 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 |
 | 41 | [ARRANCARMELO](https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ARRANCARMELO](https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt) | 3:03 |
 | 42 | [Segundos Platos](https://open.spotify.com/track/1pHZf30WYm6CQukt7TvNPM) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [SI AYER FUERA HOY](https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts) | 3:04 |
-| 43 | [Entre Nosotros \(Remix\) \[con Nicki Nicole\]](https://open.spotify.com/track/4TGwERXRlyQtBdggYTHo6j) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Entre Nosotros \(Remix\) \[con Nicki Nicole\]](https://open.spotify.com/album/1RXzQq8DhpkYvvbXE9CqLm) | 4:20 |
-| 44 | [Crimen](https://open.spotify.com/track/3oqWr0jDWNXxWufNogGREp) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 3:52 |
+| 43 | [Crimen](https://open.spotify.com/track/3oqWr0jDWNXxWufNogGREp) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 3:52 |
+| 44 | [Entre Nosotros \(Remix\) \[con Nicki Nicole\]](https://open.spotify.com/track/4TGwERXRlyQtBdggYTHo6j) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Entre Nosotros \(Remix\) \[con Nicki Nicole\]](https://open.spotify.com/album/1RXzQq8DhpkYvvbXE9CqLm) | 4:20 |
 | 45 | [PUNTO G](https://open.spotify.com/track/0oBtwScT4B4BR5kZitNWd5) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [PUNTO G](https://open.spotify.com/album/7ushCUbR1asPHeuxA5Dq8N) | 2:31 |
 | 46 | [Villano Antillano: Bzrp Music Sessions, Vol\. 51](https://open.spotify.com/track/4hceSKjrkDTO0nMKFcb3sj) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Villano Antillano: Bzrp Music Sessions, Vol\. 51](https://open.spotify.com/album/1tjIQcE1WoeRfI7t5QFRgR) | 3:07 |
 | 47 | [Miénteme](https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Miénteme](https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg) | 2:45 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4CGLgiKls.md) - [plain]
 | 64 | [L\-Gante: Bzrp Music Sessions, Vol.38](https://open.spotify.com/track/1Crj1zkRMpsEjb9NOR6Zof) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [L\-Gante: Bzrp Music Sessions, Vol\. 38](https://open.spotify.com/album/6ScNKLKYY6rpgCIJThLnMH) | 3:12 |
 | 65 | [Es un Secreto](https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G) | 3:10 |
 
-Snapshot ID: `MCw2OWViNjA3MjcwMjc0MGM1OWNiYTZkNmIyMGJkNWZjZDNjMzYwMjQw`
+Snapshot ID: `MCxhMjdiNGYxMjE1YjZkMWU1NmM5ZTE4Zjc4MWFiYWMwZDBhZmU5OTll`

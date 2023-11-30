@@ -4,7 +4,7 @@
 
 > Anda pa'lante galopante con los grandes del género romántico\. Los Temerarios en portada.
 
-140 songs - 7 hr 56 min
+141 songs - 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,8 +46,9 @@
 | [Déjala Que Se Divierta](https://open.spotify.com/track/3T9kuZcg6HoPlHSwVSdhDj) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [La Coloreteada](https://open.spotify.com/album/112NtpiLJlcKg2vw4Y3b3y) | 3:16 | 2022-03-17 |  |
 | [El Muñeco](https://open.spotify.com/track/19G8XMtHCX6y6eYTLDbaU3) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Pensando En Ella](https://open.spotify.com/album/7chUnyKUwq88xEWfyGEV7a) | 2:42 | 2022-03-17 |  |
 | [El Perro, el Gato y Yo](https://open.spotify.com/track/54TgeMeInoK6wgPWw58ri7) | [Guardianes Del Amor](https://open.spotify.com/artist/3NLDQVyI2LVtQFJt8JeAAx) | [Lo Mejor De Guardianes Del Amor](https://open.spotify.com/album/4Asr02QFyUUEcwtcnGCYhx) | 3:37 | 2022-03-17 |  |
-| [El Regalo](https://open.spotify.com/track/0bjkoyF3RtjVwYVoWnr9ae) | [Los Dueños Del Sol](https://open.spotify.com/artist/1RN7jx2p7hBFXKJ2HyYu8d) | [El Regalo](https://open.spotify.com/album/5LuhrZx5mjU9UQsscVdS2n) | 3:27 | 2022-03-17 |  |
+| [El Regalo](https://open.spotify.com/track/0bjkoyF3RtjVwYVoWnr9ae) | [Los Dueños Del Sol](https://open.spotify.com/artist/1RN7jx2p7hBFXKJ2HyYu8d) | [El Regalo](https://open.spotify.com/album/5LuhrZx5mjU9UQsscVdS2n) | 3:27 | 2022-03-17 | 2023-11-30 |
 | [El Regalo](https://open.spotify.com/track/2YcC5doRA1MVLq2uY9rPay) | [Los Dueños Del Sol](https://open.spotify.com/artist/1RN7jx2p7hBFXKJ2HyYu8d) | [El Regalo](https://open.spotify.com/album/2ZAZqDj4aIqNUoYHYawVE6) | 3:27 | 2022-03-17 | 2023-11-13 |
+| [El Regalo](https://open.spotify.com/track/5D0fWMxBbdyIq9zT9whqrD) | [Los Dueños Del Sol](https://open.spotify.com/artist/1RN7jx2p7hBFXKJ2HyYu8d) | [El Regalo](https://open.spotify.com/album/6mvI4EfiwhQ4tG1HUNZfo0) | 3:27 | 2023-09-05 |  |
 | [El Regalo](https://open.spotify.com/track/7DRE3azMuqMFWWldlfEnui) | [Los Dueños Del Sol](https://open.spotify.com/artist/1RN7jx2p7hBFXKJ2HyYu8d) | [El Regalo](https://open.spotify.com/album/30gaHyjtnyLYg26C90jNKz) | 3:27 | 2022-03-17 | 2023-08-05 |
 | [El Taxista](https://open.spotify.com/track/5ugABx5bnTbKl0j6iPwaku) | [Los Dinnosaurios](https://open.spotify.com/artist/2WI2ub4Nn8cJM70m9IM2Hz) | [Inolvidables](https://open.spotify.com/album/6bMC920IXyDwMQVm6ZtCLU) | 3:44 | 2022-03-17 |  |
 | [El Taxista](https://open.spotify.com/track/6vsxXwgCpGppUKFSDOildp) | [Los Dinnosaurios](https://open.spotify.com/artist/2WI2ub4Nn8cJM70m9IM2Hz) | [Inolvidables](https://open.spotify.com/album/7ARafZyz3I2D7aI2DsTF5P) | 3:44 | 2022-03-17 | 2022-07-29 |

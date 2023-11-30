@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\. Cover: thuy.
 
-666 songs - 1 day 10 hr 33 min
+667 songs - 1 day 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,7 @@
 | [Easily](https://open.spotify.com/track/5kbMmcJtPuTtmmWM2pcbau) | [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [Easily](https://open.spotify.com/album/2M8WcUUESGhKwiDeradUxW) | 3:13 | 2023-08-11 | 2023-10-16 |
 | [east side](https://open.spotify.com/track/2AqZLF7yk7Jf17Be1i6jcO) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [east side](https://open.spotify.com/album/0TqA7jHzMVftg6xeMa9ZZj) | 2:45 | 2023-11-17 |  |
 | [Easy](https://open.spotify.com/track/1MLLW9uH8i7MVPCPZFWwrj) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Easy](https://open.spotify.com/album/3xpvsUs6cAeZu8pVDtanTX) | 2:26 | 2023-07-07 | 2023-08-09 |
-| [Eats The Tale](https://open.spotify.com/track/5pyLmnW31JUqznPiwsoeUR) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Eats The Tale](https://open.spotify.com/album/6AzvKQoqiD8PHz5n9b4XqT) | 3:41 | 2023-08-11 |  |
+| [Eats The Tale](https://open.spotify.com/track/5pyLmnW31JUqznPiwsoeUR) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Eats The Tale](https://open.spotify.com/album/6AzvKQoqiD8PHz5n9b4XqT) | 3:41 | 2023-08-11 | 2023-11-30 |
 | [Echo \(with KSHMR\)](https://open.spotify.com/track/5sbkFKdxVQ2FgEjKMvrHAL) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Echo \(with KSHMR\)](https://open.spotify.com/album/4Pqc9IVg6YRJPKakVOuZ2R) | 3:12 | 2022-05-27 | 2022-11-12 |
 | [ELEVEN](https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) | 2:58 | 2022-05-27 | 2023-04-01 |
 | [Emotion](https://open.spotify.com/track/68mCWJL6JLgiL1yc80Kx2N) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [Circles](https://open.spotify.com/album/4gvbVGjDrPt4Y51tmGpjy1) | 2:37 | 2022-08-19 | 2022-09-13 |
@@ -586,6 +586,7 @@
 | [the space between us](https://open.spotify.com/track/4s0m05iPPuTeFlJxAQivGy) | [siopaolo](https://open.spotify.com/artist/4dXBBVDuriULFiOyu5E8Kf) | [the space between us](https://open.spotify.com/album/3MW0W3uEDPpMQyzdVJ9xAx) | 4:13 | 2023-09-29 |  |
 | [The Weekend](https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [The Weekend](https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq) | 2:47 | 2022-05-27 | 2023-08-12 |
 | [The World Is Mine](https://open.spotify.com/track/2QlHmqaiWxytgiqFn8UL7A) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [The World Is Mine](https://open.spotify.com/album/5QNyRwivuuNW7gw7I9s4zu) | 3:02 | 2023-05-05 | 2023-05-13 |
+| [therapy](https://open.spotify.com/track/4ndTXhzw5vx2KXZXOHOe8S) | [Gloria Kim](https://open.spotify.com/artist/1DUd25ybTBglvAohsXTmBx) | [therapy](https://open.spotify.com/album/2kbQIS1RXna9AWSxd7XnJF) | 2:16 | 2023-11-24 |  |
 | [Thinkin Of U](https://open.spotify.com/track/00jNEiTver5Y7bNOasESLa) | [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv), [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Thinkin Of U](https://open.spotify.com/album/4rS5b9Btr6I3JPhqVCO7BS) | 2:01 | 2023-08-11 |  |
 | [Thinking Bout You](https://open.spotify.com/track/0J8TS2cS0IWff5DPLJJQi8) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Thinking Bout You](https://open.spotify.com/album/4weAfakv01b0hrO7i9Cacu) | 3:10 | 2022-05-27 | 2022-10-13 |
 | [Thinking Bout You](https://open.spotify.com/track/7HJbpVOycx32pDjWvpF9hp) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Xeno](https://open.spotify.com/album/54DKeR5680lyfCrx7Gpmfr) | 3:10 | 2022-10-14 | 2023-08-12 |

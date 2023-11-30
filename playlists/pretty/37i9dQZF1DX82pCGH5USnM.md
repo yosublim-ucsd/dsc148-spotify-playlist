@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 
 > Soft house music for your laidback moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,693,395 likes - 310 songs - 14 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,693,439 likes - 310 songs - 14 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -319,4 +319,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 | 309 | [Clouds & Rainbows](https://open.spotify.com/track/6srEPAMJQ8JaVK9IvXmlCS) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Sunflower](https://open.spotify.com/album/2Go9N5bAStoeqNEzPs7845) | 3:09 |
 | 310 | [Atamasco](https://open.spotify.com/track/7x0p3Zv2c8sPbWKVMowndy) | [SCÆNDALOUS](https://open.spotify.com/artist/1Vg3IL8IPc6KmKBrfxfFUq) | [Atamasco](https://open.spotify.com/album/1Ii3LKFwRry1gGHgtwAmUd) | 2:46 |
 
-Snapshot ID: `MCw3MjIxYTQ4NTVkNDg1YWYwNjBjMjM3ZGY0MTYyOWIzMzE3MDZlZDg3`
+Snapshot ID: `MCxhZWQ3NTM3MGExMGRmNzgzOGE2Y2RmNWQ2NjYwMDBmZjg4NDQyNDJm`

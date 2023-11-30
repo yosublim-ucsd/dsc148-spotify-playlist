@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve! Foto: Melim
 
-499 songs - 1 day 0 hr 48 min
+500 songs - 1 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Coisa Luz](https://open.spotify.com/track/7fOGpThy7S9B8bXkRftLXj) | [duogram](https://open.spotify.com/artist/3fuNvXraxWHImqMp0jfQ8Y) | [Coisa Luz](https://open.spotify.com/album/5gAMEcKyLLcSDjmIYi5con) | 2:52 | 2022-05-13 | 2022-10-11 |
 | [Coisas De Você](https://open.spotify.com/track/2zgYAkkDhKAm5ERlJXSTR9) | [AMARINA](https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG) | [Coisas De Você](https://open.spotify.com/album/5v9Kmw1Wun0wZJ1xpT1kNE) | 3:17 | 2023-03-06 |  |
 | [Coisas Que Eu Sei](https://open.spotify.com/track/5L46X3htydY3tRHyvg7vwn) | [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl) | [Releituras](https://open.spotify.com/album/1sYntoNEfoiNemT9folqjM) | 2:58 | 2023-03-24 |  |
+| [colorida](https://open.spotify.com/track/6RmkIFg8AnHjG3rhITyGJV) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3), [Ananda](https://open.spotify.com/artist/29hJAtMl7ryQc9QBxZWlVr) | [JOVEM \(DELUXE\)](https://open.spotify.com/album/7tDVAA2c0ipIHUaJD9kj0M) | 2:54 | 2023-11-24 |  |
 | [Como cê tá?](https://open.spotify.com/track/20WJwyOoDtxQQCBPLmxxEX) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Friozinho](https://open.spotify.com/album/4QQAQLiiShZ4Ft8ga5Ncb5) | 2:44 | 2023-06-30 |  |
 | [Como Eu Quero](https://open.spotify.com/track/7dsFoAxXjAlvVOXhRkD4sb) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [Como Eu Quero](https://open.spotify.com/album/2egRHyN8fmTQjDi7mRLQjB) | 2:47 | 2022-06-03 | 2022-12-10 |
 | [Como Se O Amanha Não Fosse Chegar \- Ao Vivo](https://open.spotify.com/track/4wxIhBInWQcvbZZMhPt21b) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0) | [Ao Vivo Em São Paulo](https://open.spotify.com/album/2pKxo9wod5y9eKezCaCK3Q) | 3:02 | 2022-10-10 | 2022-10-22 |
@@ -359,7 +360,7 @@
 | [que mal que tem?](https://open.spotify.com/track/7I0Ysu8M7K8PEYeuhUi0Jl) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [que mal que tem?](https://open.spotify.com/album/6pW5TIwS6JWSQyOiZ1e9oY) | 2:37 | 2023-10-06 |  |
 | [que se fosse](https://open.spotify.com/track/6JcDYTSeUb8TIWrmhRXk8K) | [Sophi](https://open.spotify.com/artist/5pm4O3fcYf0iiV1Bm2QqJn) | [que se fosse](https://open.spotify.com/album/7HHVpVi9XkQszG5gYukU9Z) | 2:19 | 2023-08-22 |  |
 | [Quero Bem Mais](https://open.spotify.com/track/3lLiOQwcKrnus49E9CuBNh) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T), [Fuze](https://open.spotify.com/artist/07XCF6HHgQfcYd2Gapo3Jq) | [Quero Bem Mais](https://open.spotify.com/album/67c6vSA5eLN2Q98gIuzdNL) | 3:17 | 2023-11-24 |  |
-| [Quero te dar meu coração](https://open.spotify.com/track/45CeAFE1Y3uVQanrbcz6kh) | [uma Póvoas](https://open.spotify.com/artist/1fP1a8QtAWodK9wm1fIBmx) | [Coração/Movimento](https://open.spotify.com/album/7vcOFM1SoQ3cDiZBS2ME1T) | 3:07 | 2023-11-17 |  |
+| [Quero te dar meu coração](https://open.spotify.com/track/45CeAFE1Y3uVQanrbcz6kh) | [uma Póvoas](https://open.spotify.com/artist/1fP1a8QtAWodK9wm1fIBmx) | [Coração/Movimento](https://open.spotify.com/album/7vcOFM1SoQ3cDiZBS2ME1T) | 3:07 | 2023-11-17 | 2023-11-30 |
 | [Quero Te Ver Pra Sempre](https://open.spotify.com/track/43rrFeyyNkyiVN7iFP5SA1) | [Caike Souza](https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa) | [Quero Te Ver Pra Sempre](https://open.spotify.com/album/7z989gKVwhWO7UKTU5G0Bk) | 3:19 | 2023-08-04 | 2023-09-02 |
 | [Quintal](https://open.spotify.com/track/0d077bftCm5u4Q5PtcSZvs) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Quintal](https://open.spotify.com/album/3XCQxArZadK3ZLgkVAvQN0) | 2:55 | 2022-11-16 | 2023-01-28 |
 | [Quintal](https://open.spotify.com/track/7fgqc1U6SvDVcyWjcVeFd2) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Quintal](https://open.spotify.com/album/6PlVPenyP7YINcDxcPjRfW) | 2:55 | 2023-01-27 | 2023-05-27 |

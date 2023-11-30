@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsTPi6XhWl6.md) - [plain]
 
 > Brighten your morning with these indie, folk and acoustic sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,807 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,804 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsTPi6XhWl6.md) - [plain]
 | 39 | [Burning](https://open.spotify.com/track/2S2nmmJAS5efQ5fVrvYAQj) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz) | 5:48 |
 | 40 | [Penny, Heads Up](https://open.spotify.com/track/7xRS8ys6YvFAcAuVc1ZqQg) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [By and By](https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM) | 3:27 |
 | 41 | [Lake Michigan](https://open.spotify.com/track/30lubdu2sSFsZsGQJVGjRG) | [Rogue Wave](https://open.spotify.com/artist/2JSc53B5cQ31m0xTB7JFpG) | [Asleep At Heaven's Gate \(Remastered And Expanded Edition\)](https://open.spotify.com/album/47B9Lff4byhHeFXL9Wr73F) | 3:48 |
-| 42 | [Twenty Miles](https://open.spotify.com/track/5advEe2ajphfKOguJCt3Gp) | [Deer Tick](https://open.spotify.com/artist/3rT8xTwSOMDURtWpPyoKIO) | [The Black Dirt Sessions](https://open.spotify.com/album/7un6ilrjxO0KfVGj4mz0H2) | 3:43 |
-| 43 | [I Summon You](https://open.spotify.com/track/4k15blneKWudA2gBmlWFIW) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Gimme Fiction \(Deluxe Edition\)](https://open.spotify.com/album/4sjSsxnmBlzxgZ9HGkHDsk) | 3:55 |
-| 44 | [Why Do You Let Me Stay Here?](https://open.spotify.com/track/1ZHYoYfWMYnGAzlwOi2XP4) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume One](https://open.spotify.com/album/2qIu18hUz5c6BzY3Rh6fIJ) | 2:30 |
+| 42 | [I Summon You](https://open.spotify.com/track/4k15blneKWudA2gBmlWFIW) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Gimme Fiction \(Deluxe Edition\)](https://open.spotify.com/album/4sjSsxnmBlzxgZ9HGkHDsk) | 3:55 |
+| 43 | [Why Do You Let Me Stay Here?](https://open.spotify.com/track/1ZHYoYfWMYnGAzlwOi2XP4) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume One](https://open.spotify.com/album/2qIu18hUz5c6BzY3Rh6fIJ) | 2:30 |
+| 44 | [Twenty Miles](https://open.spotify.com/track/5advEe2ajphfKOguJCt3Gp) | [Deer Tick](https://open.spotify.com/artist/3rT8xTwSOMDURtWpPyoKIO) | [The Black Dirt Sessions](https://open.spotify.com/album/7un6ilrjxO0KfVGj4mz0H2) | 3:43 |
 | 45 | [Rambling Man](https://open.spotify.com/track/5qgyfyptP3pLeWs9maKPkg) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [I Speak Because I Can](https://open.spotify.com/album/7x98osNfh0aUookqE7MMQ1) | 3:16 |
 | 46 | [Shadow People](https://open.spotify.com/track/209g8XrYu3ov4Wt4bRk2Yw) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Shame, Shame \(Deluxe Edition\)](https://open.spotify.com/album/16XswZ18xhMs8qUTN51mRl) | 4:13 |
 | 47 | [I Need a Teacher](https://open.spotify.com/track/7nvAdiuXhFeHICyy2OzOcS) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Terms of Surrender](https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu) | 3:17 |
-| 48 | [Younger Years](https://open.spotify.com/track/6UXVFOpFv2WQSs3RF4OC8E) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [All the Things That I Did and All the Things That I Didn't Do](https://open.spotify.com/album/1BpQ1yTs26aKJg0aWqnzEq) | 3:49 |
-| 49 | [Road to Joy](https://open.spotify.com/track/4JHxhiaDpp5omCMtOs1QrB) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [I'm Wide Awake, It's Morning](https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7) | 3:53 |
+| 48 | [Road to Joy](https://open.spotify.com/track/4JHxhiaDpp5omCMtOs1QrB) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [I'm Wide Awake, It's Morning](https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7) | 3:53 |
+| 49 | [Younger Years](https://open.spotify.com/track/6UXVFOpFv2WQSs3RF4OC8E) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [All the Things That I Did and All the Things That I Didn't Do](https://open.spotify.com/album/1BpQ1yTs26aKJg0aWqnzEq) | 3:49 |
 | 50 | [Morning Song](https://open.spotify.com/track/5BM4OgN8Giv7Wi5K8TN02M) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Magpie And The Dandelion \(Deluxe\)](https://open.spotify.com/album/3vxPdhrgTuqqPArgXgEDdj) | 3:54 |
 
-Snapshot ID: `MCw2NjA0MzdlNTMyODZlMWY0YWNjNzM5ZTNjODE2OTY1YmY4MjIxMjZj`
+Snapshot ID: `MCwwYjQwYTQxZDcyOWJjZTYwMjZkMmI5MjQwZGI4ODdiODAxNTc2ZTBi`

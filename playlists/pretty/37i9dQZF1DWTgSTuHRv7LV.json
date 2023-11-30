@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del Hip-Hop y Rap en espa\u00f1ol. Cover: Myke Towers",
-  "num_followers": 496867,
+  "num_followers": 496855,
   "original_name": "Mucho Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjN2ZlYjkzMjgzZGZhOTAxYmJjZWYwMTNhMjUyYTg2NTEzOWMyOTBj",
+  "snapshot_id": "MCwyN2VmYWY1MTQ0ZDM4NzY4OTRlZTQ3Y2U2MmRhMDJmNzdiOWZmNzlj",
   "tracks": [
     {
       "added_at": "2023-11-24 05:00:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Bajo El Sol",
-        "url": "https://open.spotify.com/album/6ziFA6M7TxdCQ2bxplctdK"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 185312,
-      "name": "Bajo El Sol",
-      "url": "https://open.spotify.com/track/57mxKzlcRGGZKLlVVDpztL"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Si Me Sobrara el Tiempo",
         "url": "https://open.spotify.com/album/7EmOzGGWYSu5sH9CfnItkB"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 168960,
       "name": "Si Me Sobrara el Tiempo",
       "url": "https://open.spotify.com/track/2ypbIXW3a7fsLdLtLpZWDZ"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Bajo El Sol",
+        "url": "https://open.spotify.com/album/6ziFA6M7TxdCQ2bxplctdK"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 185312,
+      "name": "Bajo El Sol",
+      "url": "https://open.spotify.com/track/57mxKzlcRGGZKLlVVDpztL"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -615,6 +615,30 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Glizzy Walk 2.5",
+        "url": "https://open.spotify.com/album/65ebh116sDPSsxm2eXExyK"
+      },
+      "artists": [
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Hydro",
+          "url": "https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg"
+        }
+      ],
+      "duration_ms": 224248,
+      "name": "Glizzy Walk 2.5",
+      "url": "https://open.spotify.com/track/3O6dtQDB3MTYFPxlXn7zww"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Lonestar Luchador",
         "url": "https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK"
       },
@@ -647,30 +671,6 @@
       "duration_ms": 187897,
       "name": "M\u00cdRENME AHORA",
       "url": "https://open.spotify.com/track/1QigNNcv8c5X2iL294bZev"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Glizzy Walk 2.5",
-        "url": "https://open.spotify.com/album/65ebh116sDPSsxm2eXExyK"
-      },
-      "artists": [
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Hydro",
-          "url": "https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg"
-        }
-      ],
-      "duration_ms": 224248,
-      "name": "Glizzy Walk 2.5",
-      "url": "https://open.spotify.com/track/3O6dtQDB3MTYFPxlXn7zww"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Haci\u00e9ndolo Fino",
-        "url": "https://open.spotify.com/album/0DDsexe1qhQ2TQ43XztwMl"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 213134,
-      "name": "Maradona",
-      "url": "https://open.spotify.com/track/42HcEeL1pumhrTRF62ssz8"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Chucky73: Bzrp Music Sessions, Vol. 43",
         "url": "https://open.spotify.com/album/4MedBjnVoUYNtQy2rZpHw9"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 141320,
       "name": "Chucky73: Bzrp Music Sessions, Vol. 43",
       "url": "https://open.spotify.com/track/4xTd8fz0mZFK5b9IYdGKNd"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Haci\u00e9ndolo Fino",
+        "url": "https://open.spotify.com/album/0DDsexe1qhQ2TQ43XztwMl"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 213134,
+      "name": "Maradona",
+      "url": "https://open.spotify.com/track/42HcEeL1pumhrTRF62ssz8"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "FUCK EL POLICE (REMIX)",
-        "url": "https://open.spotify.com/album/5c5xfOQXKfJBHXNj1iAO5s"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        },
-        {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
-        }
-      ],
-      "duration_ms": 142916,
-      "name": "FUCK EL POLICE - REMIX",
-      "url": "https://open.spotify.com/track/3oIsx1ixRKtt4bZu9qT8Ut"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Bombas",
         "url": "https://open.spotify.com/album/0Vp8jumrRYGxtWkCZgNswV"
       },
@@ -1287,6 +1267,26 @@
       "duration_ms": 245857,
       "name": "Bombas",
       "url": "https://open.spotify.com/track/32pqQaloLXiFbgl1Kf81SU"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "FUCK EL POLICE (REMIX)",
+        "url": "https://open.spotify.com/album/5c5xfOQXKfJBHXNj1iAO5s"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        }
+      ],
+      "duration_ms": 142916,
+      "name": "FUCK EL POLICE - REMIX",
+      "url": "https://open.spotify.com/track/3oIsx1ixRKtt4bZu9qT8Ut"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1367,18 +1367,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Puerto Rican Mami",
-        "url": "https://open.spotify.com/album/4YNCuFzFnWgUrjtBan9jAy"
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
       },
       "artists": [
         {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Lolita Ayala",
+          "url": "https://open.spotify.com/artist/3vclShttQzqMIebjvfYfKr"
         }
       ],
-      "duration_ms": 199627,
-      "name": "Puerto Rican Mami",
-      "url": "https://open.spotify.com/track/2Vz7y1NOvV3sq3bXvsS2DI"
+      "duration_ms": 108266,
+      "name": "Tocando Tierra",
+      "url": "https://open.spotify.com/track/4TIZmJGQj5dfeLvmt06ycT"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1399,6 +1403,22 @@
       "duration_ms": 243000,
       "name": "Socios",
       "url": "https://open.spotify.com/track/5XEKaGX5bEvZE79KneoLic"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Puerto Rican Mami",
+        "url": "https://open.spotify.com/album/4YNCuFzFnWgUrjtBan9jAy"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 199627,
+      "name": "Puerto Rican Mami",
+      "url": "https://open.spotify.com/track/2Vz7y1NOvV3sq3bXvsS2DI"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1467,26 +1487,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Lolita Ayala",
-          "url": "https://open.spotify.com/artist/3vclShttQzqMIebjvfYfKr"
-        }
-      ],
-      "duration_ms": 108266,
-      "name": "Tocando Tierra",
-      "url": "https://open.spotify.com/track/4TIZmJGQj5dfeLvmt06ycT"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Te Encontr\u00e9",
         "url": "https://open.spotify.com/album/0RvUTJIIZUlDiMMhA63sX9"
       },
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Afuera Que Tengan Miedo",
-        "url": "https://open.spotify.com/album/5RrtVeQtn3IeueXIIKNr51"
-      },
-      "artists": [
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Afuera Que Tengan Miedo",
-      "url": "https://open.spotify.com/track/7lXM1W0RFoHXf4QRqx6U3g"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Gucci En Mis Pies",
         "url": "https://open.spotify.com/album/2BsIAX7gf3766JS3tdH0ys"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 231000,
       "name": "Gucci En Mis Pies",
       "url": "https://open.spotify.com/track/4RhKIBupRs3ID7Svb8kiwX"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Afuera Que Tengan Miedo",
+        "url": "https://open.spotify.com/album/5RrtVeQtn3IeueXIIKNr51"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Afuera Que Tengan Miedo",
+      "url": "https://open.spotify.com/track/7lXM1W0RFoHXf4QRqx6U3g"
     },
     {
       "added_at": "2023-11-24 05:00:00",

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-08-22",
-  "description": "Meet the future.  Cover: Hassan & Roshaan",
-  "name": "RADAR PAKISTAN",
+  "description": "Top 50 tracks from RADAR Pakistan in 2023.   Cover: Hassan & Roshaan",
+  "name": "Best of RADAR PAKISTAN 2023",
   "tracks": [
     {
       "album": {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 191020,
       "name": "Aankhon Mein Aansu",
       "url": "https://open.spotify.com/track/6S9wFxOlnz42LpCKIhlpJR"
@@ -92,7 +92,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 268295,
       "name": "Akhiyaan",
       "url": "https://open.spotify.com/track/3EywoDCSQSykcVgdKvTgAQ"
@@ -114,7 +114,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 162000,
       "name": "Alvida",
       "url": "https://open.spotify.com/track/6WEL0IfG8t9dxlxFxhKPAC"
@@ -132,7 +132,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 186598,
       "name": "Andaaz-E-Karam",
       "url": "https://open.spotify.com/track/7iI9CyxhmRqqk6u8odtvAq"
@@ -150,7 +150,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 186008,
       "name": "Andheri Raat",
       "url": "https://open.spotify.com/track/2ojtfOXp5BR9Jxh3GIdZ6h"
@@ -248,7 +248,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 130909,
       "name": "DESIRE",
       "url": "https://open.spotify.com/track/2eSukmpblBGGf5Iyq7cM4e"
@@ -310,7 +310,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 195558,
       "name": "Diya",
       "url": "https://open.spotify.com/track/6be2Qb95JM8HnKtJHYWpzG"
@@ -562,7 +562,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 178714,
       "name": "Kali Raat",
       "url": "https://open.spotify.com/track/74UHCurjieq16JY1saeasF"
@@ -672,7 +672,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 179466,
       "name": "Mann Mein Tu",
       "url": "https://open.spotify.com/track/3hfEObd2ttNLTEBCVIafKa"
@@ -766,7 +766,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 187857,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/60zoHgHcJhStSg8qUbndjl"
@@ -810,7 +810,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 162000,
       "name": "Mukhtasir Baatein",
       "url": "https://open.spotify.com/track/0SFzTBfG9UgdFGMc2KJD8y"
@@ -850,7 +850,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 151200,
       "name": "Nishana",
       "url": "https://open.spotify.com/track/5yyS3rLURpzQBHZ5yIZQIU"
@@ -970,7 +970,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 161311,
       "name": "Rangeen",
       "url": "https://open.spotify.com/track/5oR58bDC1H53YMEARuTQV6"
@@ -1181,6 +1181,28 @@
     },
     {
       "album": {
+        "name": "Day 5",
+        "url": "https://open.spotify.com/album/1IOyOJS5q1mLur1y0rSoyU"
+      },
+      "artists": [
+        {
+          "name": "Hassan & Roshaan",
+          "url": "https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7"
+        },
+        {
+          "name": "Shae Gill",
+          "url": "https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255764,
+      "name": "Sukoon",
+      "url": "https://open.spotify.com/track/0hOqMsscursarJjpcMgGgu"
+    },
+    {
+      "album": {
         "name": "Sukoon",
         "url": "https://open.spotify.com/album/5T7svmheaHZxJEHTLP6BAB"
       },
@@ -1196,7 +1218,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 255764,
       "name": "Sukoon",
       "url": "https://open.spotify.com/track/4mPZipDmUysKaLxZTDEVsx"
@@ -1222,7 +1244,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 186122,
       "name": "Teray Naam",
       "url": "https://open.spotify.com/track/4dBRaBEild4wQPztOuV2EU"
@@ -1240,7 +1262,7 @@
       ],
       "date_added": "2023-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 194660,
       "name": "Teriyan",
       "url": "https://open.spotify.com/track/4hHPrjRpr1jiqTXdWZn3zz"
@@ -1262,7 +1284,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 160686,
       "name": "Thandi",
       "url": "https://open.spotify.com/track/7tEzOjkyhaY9LSWCsV455b"

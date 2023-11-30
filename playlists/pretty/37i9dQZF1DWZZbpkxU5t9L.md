@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題の曲を週末にまとめてチェック。Cover: Jack Harlow
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,775 likes - 55 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,786 likes - 55 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 37 | [さよならエレジー](https://open.spotify.com/track/3oYD2O31b05fILFpv0AXRI) | [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [PLAY\(Special Edition\)](https://open.spotify.com/album/5JP5NDPvio5ZhkXXjcHVov) | 4:17 |
 | 38 | [はなにあらし](https://open.spotify.com/track/1Y8oe7ucxNjQXTiWOIMSfz) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [はなにあらし](https://open.spotify.com/album/6uL3szP8qRqAJF20s2rNVk) | 4:32 |
 | 39 | [猫](https://open.spotify.com/track/6sIx7Cn37DGEhjy9hBP8Gx) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [僕たちがやりました](https://open.spotify.com/album/0jf58OGRFXs8NG5hcUCJb0) | 4:36 |
-| 40 | [Throw Your Arms Around Me](https://open.spotify.com/track/0CVwSCQOx3CMHjwDCmaElh) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Mushroom: 50 Years Of Making Noise \(Reimagined\)](https://open.spotify.com/album/4SRtPtUkg4izzJZ2Kr2LMJ) | 3:03 |
+| 40 | [Throw Your Arms Around Me](https://open.spotify.com/track/0CVwSCQOx3CMHjwDCmaElh) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Mushroom: 50 Years of Making Noise \(Reimagined\)](https://open.spotify.com/album/4SRtPtUkg4izzJZ2Kr2LMJ) | 3:03 |
 | 41 | [うぉ](https://open.spotify.com/track/7iRoB3hjM7FQm3teSMSpBu) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [弐](https://open.spotify.com/album/6ClMd4vNeZ6cmrRNmOqAoY) | 2:47 |
 | 42 | [Just A Game feat\. Benny Sings](https://open.spotify.com/track/788y834RoRJUQAH2O8jq7u) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Just A Game feat\. Benny Sings](https://open.spotify.com/album/5vrhmmQ8OL0SnNtEpNb5G0) | 4:19 |
 | 43 | [Witness Me \(feat\. Shawn Mendes, Stormzy & Kirk Franklin\)](https://open.spotify.com/track/4lIA2yIyg1nPmJ1rBwNFUG) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Witness Me \(feat\. Shawn Mendes, Stormzy & Kirk Franklin\)](https://open.spotify.com/album/0FNmNqZYPEXQbLajHmR9En) | 3:45 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 54 | [Yozora](https://open.spotify.com/track/33R9K1FOX38TIA3hSgWF4l) | [Sugar Goose](https://open.spotify.com/artist/78XX7wBh49Kk7YXPc0HKj4) | [Yozora](https://open.spotify.com/album/2nCX6mYqdaV3CydVYn407Y) | 2:56 |
 | 55 | [Aihakatsu](https://open.spotify.com/track/7GciDCQ4fSx8K2b8OsRTF8) | [KAN](https://open.spotify.com/artist/0wVJakYe8YCkSjdmiHaVHY) | [la RINASCENTE](https://open.spotify.com/album/5lF6oP8XkIndSxM4ZsBWV3) | 5:32 |
 
-Snapshot ID: `MCxhYmMwMzU2N2ZjNWQxYTNiNjNkMjljMGY1ZmFmMmY1Y2YxNGVhZjI0`
+Snapshot ID: `MCxlYWQ4Zjg2NTI5YTRmZDIxZjc3ZDExNDY3ODEwMjZlYzNkYjg5MmUx`

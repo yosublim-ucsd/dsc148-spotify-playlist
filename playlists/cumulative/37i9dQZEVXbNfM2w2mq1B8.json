@@ -4514,7 +4514,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 201533,
       "name": "Dai Mi Vsichko",
       "url": "https://open.spotify.com/track/7qmV6PWC86hFlYusuxAqwg"
@@ -10316,7 +10316,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 130973,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
@@ -17426,7 +17426,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
@@ -18320,7 +18320,7 @@
       ],
       "date_added": "2021-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 177230,
       "name": "Skupa",
       "url": "https://open.spotify.com/track/6LpL3NUIJuJ3zyBfdMXD2O"
@@ -18622,7 +18622,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 165900,
       "name": "Snowman",
       "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
@@ -23555,6 +23555,28 @@
     },
     {
       "album": {
+        "name": "\u041f\u0435\u0441\u043d\u0438 \u0437\u0430 \u0441\u0432\u0430\u0442\u0431\u0438 \u0438 \u043f\u043e\u0433\u0440\u0435\u0431\u0435\u043d\u0438\u044f",
+        "url": "https://open.spotify.com/album/3UoZjJacxi8N43F52O6M68"
+      },
+      "artists": [
+        {
+          "name": "Boro Purvi",
+          "url": "https://open.spotify.com/artist/27m6NrJXMbLGlkoGBUy2IV"
+        },
+        {
+          "name": "Alex & Vladi",
+          "url": "https://open.spotify.com/artist/7jWNuWVbbbg9z1Er19DkGj"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167401,
+      "name": "\u0430\u0441\u0430\u043d\u0441\u044c\u043e\u0440\u0430",
+      "url": "https://open.spotify.com/track/0PhLrBbFYmJoiGxSvagAYQ"
+    },
+    {
+      "album": {
         "name": "\u0430\u0441\u0430\u043d\u0441\u044c\u043e\u0440\u0430",
         "url": "https://open.spotify.com/album/366i6cEb3nCNhl5WyeGtwq"
       },
@@ -23870,7 +23892,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 259118,
       "name": "\u0411\u044f\u043b \u041b\u0438\u0441\u0442",
       "url": "https://open.spotify.com/track/4IG24A9rmM1AwxOC9QkOXt"
@@ -24241,6 +24263,46 @@
     },
     {
       "album": {
+        "name": "\u041f\u0435\u0441\u043d\u0438 \u0437\u0430 \u0441\u0432\u0430\u0442\u0431\u0438 \u0438 \u043f\u043e\u0433\u0440\u0435\u0431\u0435\u043d\u0438\u044f",
+        "url": "https://open.spotify.com/album/3UoZjJacxi8N43F52O6M68"
+      },
+      "artists": [
+        {
+          "name": "Boro Purvi",
+          "url": "https://open.spotify.com/artist/27m6NrJXMbLGlkoGBUy2IV"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207273,
+      "name": "\u0434\u043e\u043a\u0430\u0442\u043e \u0441\u043c\u044a\u0440\u0442\u0442\u0430 / \u043d\u0438 \u0440\u0430\u0437\u0434\u0435\u043b\u0438",
+      "url": "https://open.spotify.com/track/2Zpv84vK1rp8LPPcNXGZhE"
+    },
+    {
+      "album": {
+        "name": "\u041f\u0435\u0441\u043d\u0438 \u0437\u0430 \u0441\u0432\u0430\u0442\u0431\u0438 \u0438 \u043f\u043e\u0433\u0440\u0435\u0431\u0435\u043d\u0438\u044f",
+        "url": "https://open.spotify.com/album/3UoZjJacxi8N43F52O6M68"
+      },
+      "artists": [
+        {
+          "name": "Boro Purvi",
+          "url": "https://open.spotify.com/artist/27m6NrJXMbLGlkoGBUy2IV"
+        },
+        {
+          "name": "Krisko",
+          "url": "https://open.spotify.com/artist/4oopAFtLdKXCoq2XoEjDZD"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163636,
+      "name": "\u0434\u043e\u043b\u0430\u0440\u0438",
+      "url": "https://open.spotify.com/track/0Ap2c3LTWx0HD7Nx8SW7c7"
+    },
+    {
+      "album": {
         "name": "\u0414\u0440\u0430\u043a\u043e\u043d\u043e\u0432\u0438 \u043d\u0435\u0440\u0432\u0438",
         "url": "https://open.spotify.com/album/6CSn02uE0DaQ4y2fDkVHc7"
       },
@@ -24424,6 +24486,24 @@
       "duration_ms": 272481,
       "name": "\u0415\u0440\u0433\u0435\u043d\u044a\u0442",
       "url": "https://open.spotify.com/track/03bI9QgaNNzCmtwSnhOKsY"
+    },
+    {
+      "album": {
+        "name": "\u041f\u0435\u0441\u043d\u0438 \u0437\u0430 \u0441\u0432\u0430\u0442\u0431\u0438 \u0438 \u043f\u043e\u0433\u0440\u0435\u0431\u0435\u043d\u0438\u044f",
+        "url": "https://open.spotify.com/album/3UoZjJacxi8N43F52O6M68"
+      },
+      "artists": [
+        {
+          "name": "Boro Purvi",
+          "url": "https://open.spotify.com/artist/27m6NrJXMbLGlkoGBUy2IV"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149030,
+      "name": "\u0435\u0445\u043e, \u0435\u0445\u043e",
+      "url": "https://open.spotify.com/track/0dJdyFzu03Cb7bE6a2KQIx"
     },
     {
       "album": {
@@ -24708,7 +24788,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 197071,
       "name": "\u0418\u0437\u0442\u0440\u044a\u043f\u0432\u0430\u043c",
       "url": "https://open.spotify.com/track/4VoATubuei6OrMOPhLBM6T"
@@ -25153,6 +25233,24 @@
     },
     {
       "album": {
+        "name": "\u041f\u0435\u0441\u043d\u0438 \u0437\u0430 \u0441\u0432\u0430\u0442\u0431\u0438 \u0438 \u043f\u043e\u0433\u0440\u0435\u0431\u0435\u043d\u0438\u044f",
+        "url": "https://open.spotify.com/album/3UoZjJacxi8N43F52O6M68"
+      },
+      "artists": [
+        {
+          "name": "Boro Purvi",
+          "url": "https://open.spotify.com/artist/27m6NrJXMbLGlkoGBUy2IV"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209152,
+      "name": "\u043c\u0438\u043b\u0435\u043d\u0438\u0430\u043b",
+      "url": "https://open.spotify.com/track/1yKYffCE8pEx4q56Pye1ic"
+    },
+    {
+      "album": {
         "name": "\u0426\u0435\u0445 \u0414\u0435\u043f\u0440\u0435\u0441\u0438\u044f",
         "url": "https://open.spotify.com/album/76ARQ8ww7bG6Gi9VXYpMli"
       },
@@ -25292,6 +25390,24 @@
       "duration_ms": 201000,
       "name": "\u041c\u0440. \u041f\u0435\u0440\u0444\u0435\u043a\u0442\u0435\u043d",
       "url": "https://open.spotify.com/track/3EafBu8bBdhrkLe84OgnNZ"
+    },
+    {
+      "album": {
+        "name": "\u041f\u0435\u0441\u043d\u0438 \u0437\u0430 \u0441\u0432\u0430\u0442\u0431\u0438 \u0438 \u043f\u043e\u0433\u0440\u0435\u0431\u0435\u043d\u0438\u044f",
+        "url": "https://open.spotify.com/album/3UoZjJacxi8N43F52O6M68"
+      },
+      "artists": [
+        {
+          "name": "Boro Purvi",
+          "url": "https://open.spotify.com/artist/27m6NrJXMbLGlkoGBUy2IV"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148958,
+      "name": "\u043c\u0440\u044a\u0441\u043d\u0438 \u0431\u0430\u043b\u043a\u0430\u043d\u0438",
+      "url": "https://open.spotify.com/track/5VZLotTkLWsBFkejMyAv6i"
     },
     {
       "album": {
@@ -25755,6 +25871,24 @@
     },
     {
       "album": {
+        "name": "\u041f\u0435\u0441\u043d\u0438 \u0437\u0430 \u0441\u0432\u0430\u0442\u0431\u0438 \u0438 \u043f\u043e\u0433\u0440\u0435\u0431\u0435\u043d\u0438\u044f",
+        "url": "https://open.spotify.com/album/3UoZjJacxi8N43F52O6M68"
+      },
+      "artists": [
+        {
+          "name": "Boro Purvi",
+          "url": "https://open.spotify.com/artist/27m6NrJXMbLGlkoGBUy2IV"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161667,
+      "name": "\u043d\u043e\u0449\u043d\u0438 \u043f\u0442\u0438\u0446\u0438",
+      "url": "https://open.spotify.com/track/6SnsZ3klW22MND0ZgKbMLA"
+    },
+    {
+      "album": {
         "name": "\u041d\u044f\u043c\u0430 \u0434\u0430 \u043f\u0430\u0434\u043d\u0430",
         "url": "https://open.spotify.com/album/7ckLi75vLqN0OuvSFjnDaj"
       },
@@ -26160,6 +26294,24 @@
       "duration_ms": 201790,
       "name": "\u041f\u043e\u043b\u0443\u0434\u044f\u0445",
       "url": "https://open.spotify.com/track/5SVhcxTgaQjQZBg8bFWiAV"
+    },
+    {
+      "album": {
+        "name": "\u041f\u0435\u0441\u043d\u0438 \u0437\u0430 \u0441\u0432\u0430\u0442\u0431\u0438 \u0438 \u043f\u043e\u0433\u0440\u0435\u0431\u0435\u043d\u0438\u044f",
+        "url": "https://open.spotify.com/album/3UoZjJacxi8N43F52O6M68"
+      },
+      "artists": [
+        {
+          "name": "Boro Purvi",
+          "url": "https://open.spotify.com/artist/27m6NrJXMbLGlkoGBUy2IV"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168959,
+      "name": "\u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0430\u0442\u0430 \u043c\u0438 \u043f\u0435\u0441\u0435\u043d",
+      "url": "https://open.spotify.com/track/3YqjQfBy8hL0fYjdaz1Gex"
     },
     {
       "album": {
@@ -26840,7 +26992,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 232917,
       "name": "\u0425\u0430\u0439\u0434\u0443\u0442\u0438",
       "url": "https://open.spotify.com/track/2rJb5rh0jR6NzqY9JEbstv"

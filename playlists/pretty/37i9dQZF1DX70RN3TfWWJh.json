@@ -1,12 +1,12 @@
 {
   "description": "Pop hits to keep your workout fresh,",
-  "num_followers": 4846387,
+  "num_followers": 4846465,
   "original_name": "Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTFiM2MwZDVjYmVlZmE5NTA3YzlmYjI1OTRiOWJhOGVhZmM4OWJi",
+  "snapshot_id": "MCwxNmUwZjBiYzRmYmQzMTMxNTM0Zjc4YjlkMWUwMTNiODQxOWMzNmY0",
   "tracks": [
     {
       "added_at": "2023-10-17 00:22:48",
@@ -255,6 +255,22 @@
     {
       "added_at": "2023-10-17 00:22:48",
       "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 207853,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
+    },
+    {
+      "added_at": "2023-10-17 00:22:48",
+      "album": {
         "name": "Desire (with Sam Smith)",
         "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 179161,
       "name": "Desire (with Sam Smith)",
       "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
-    },
-    {
-      "added_at": "2023-10-17 00:22:48",
-      "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 207853,
-      "name": "Shivers",
-      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
     },
     {
       "added_at": "2023-10-17 00:22:48",
@@ -559,6 +559,22 @@
     {
       "added_at": "2023-10-17 00:22:48",
       "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 143901,
+      "name": "THATS WHAT I WANT",
+      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
+    },
+    {
+      "added_at": "2023-10-17 00:22:48",
+      "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
@@ -579,22 +595,6 @@
     {
       "added_at": "2023-10-17 00:22:48",
       "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 143901,
-      "name": "THATS WHAT I WANT",
-      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
-    },
-    {
-      "added_at": "2023-10-17 00:22:48",
-      "album": {
         "name": "BE",
         "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
       },
@@ -607,26 +607,6 @@
       "duration_ms": 199053,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW"
-    },
-    {
-      "added_at": "2023-10-17 00:22:48",
-      "album": {
-        "name": "One in a Million",
-        "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 160529,
-      "name": "One in a Million",
-      "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
     },
     {
       "added_at": "2023-10-17 00:22:48",
@@ -659,6 +639,26 @@
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
+    },
+    {
+      "added_at": "2023-10-17 00:22:48",
+      "album": {
+        "name": "One in a Million",
+        "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 160529,
+      "name": "One in a Million",
+      "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
     },
     {
       "added_at": "2023-10-17 00:22:48",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-10-17 00:22:48",
       "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 225148,
-      "name": "Oh My God",
-      "url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX"
-    },
-    {
-      "added_at": "2023-10-17 00:22:48",
-      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 163854,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B"
+    },
+    {
+      "added_at": "2023-10-17 00:22:48",
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 225148,
+      "name": "Oh My God",
+      "url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX"
     },
     {
       "added_at": "2023-10-17 00:22:48",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-10-17 00:22:48",
       "album": {
-        "name": "Players",
-        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 139560,
-      "name": "Players",
-      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
-    },
-    {
-      "added_at": "2023-10-17 00:22:48",
-      "album": {
         "name": "JORDI (Deluxe)",
         "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 227395,
       "name": "Beautiful Mistakes (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/5zFglKYiknIxks8geR8rcL"
+    },
+    {
+      "added_at": "2023-10-17 00:22:48",
+      "album": {
+        "name": "Players",
+        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 139560,
+      "name": "Players",
+      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
     },
     {
       "added_at": "2023-10-17 00:22:48",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2023-10-17 00:22:48",
       "album": {
-        "name": "AMERICAN HORROR SHOW",
-        "url": "https://open.spotify.com/album/5JyHQrBtMytztLaqG8czrG"
+        "name": "Permission to Dance",
+        "url": "https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ"
       },
       "artists": [
         {
-          "name": "SNOW WIFE",
-          "url": "https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33"
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 149391,
-      "name": "AMERICAN HORROR SHOW",
-      "url": "https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g"
+      "duration_ms": 187585,
+      "name": "Permission to Dance",
+      "url": "https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry"
     },
     {
       "added_at": "2023-10-17 00:22:48",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2023-10-17 00:22:48",
       "album": {
-        "name": "Permission to Dance",
-        "url": "https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ"
+        "name": "AMERICAN HORROR SHOW",
+        "url": "https://open.spotify.com/album/5JyHQrBtMytztLaqG8czrG"
       },
       "artists": [
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          "name": "SNOW WIFE",
+          "url": "https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33"
         }
       ],
-      "duration_ms": 187585,
-      "name": "Permission to Dance",
-      "url": "https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry"
+      "duration_ms": 149391,
+      "name": "AMERICAN HORROR SHOW",
+      "url": "https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g"
     },
     {
       "added_at": "2023-10-17 00:22:48",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2023-10-17 00:22:48",
       "album": {
-        "name": "BREAK MY SOUL",
-        "url": "https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 278281,
-      "name": "BREAK MY SOUL",
-      "url": "https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ"
-    },
-    {
-      "added_at": "2023-10-17 00:22:48",
-      "album": {
         "name": "Tension (Deluxe)",
         "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 166266,
       "name": "Padam Padam",
       "url": "https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5"
+    },
+    {
+      "added_at": "2023-10-17 00:22:48",
+      "album": {
+        "name": "BREAK MY SOUL",
+        "url": "https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 278281,
+      "name": "BREAK MY SOUL",
+      "url": "https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ"
     },
     {
       "added_at": "2023-10-17 00:22:48",

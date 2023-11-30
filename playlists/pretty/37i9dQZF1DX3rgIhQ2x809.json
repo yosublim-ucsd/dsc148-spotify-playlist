@@ -1,12 +1,12 @@
 {
   "description": "De la isla, pa' el mundo! Representando la cultura con orgullo. Cover: Christian Alicea",
-  "num_followers": 70328,
+  "num_followers": 70339,
   "original_name": "Hecho en Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzFiMzcxOTY2ZjlkMTk1YTJjNGFiOTc2ZWJkZmI4NGJlZGU0Njc3",
+  "snapshot_id": "MCwwMmQ2Nzg2MmU2OTk2YzkwZmViNTM2YmEzOWM1N2JlYjk5YTc5NjRm",
   "tracks": [
     {
       "added_at": "2023-06-09 02:27:24",
@@ -771,26 +771,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Bandidos",
-        "url": "https://open.spotify.com/album/1ZWbLN7FGdhNwla71leFnt"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Cosculluela",
-          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
-        }
-      ],
-      "duration_ms": 224194,
-      "name": "Bandidos",
-      "url": "https://open.spotify.com/track/1KEihgohVX0H1R1C6wjYly"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Inseparables",
         "url": "https://open.spotify.com/album/0OUlso6XqDSGVETWB19zdh"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 177142,
       "name": "Inseparables",
       "url": "https://open.spotify.com/track/4AoJmA5TNnqjwTZIb8vX8l"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Bandidos",
+        "url": "https://open.spotify.com/album/1ZWbLN7FGdhNwla71leFnt"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        }
+      ],
+      "duration_ms": 224194,
+      "name": "Bandidos",
+      "url": "https://open.spotify.com/track/1KEihgohVX0H1R1C6wjYly"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -919,8 +919,8 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/4Hlh3k8RaJFxb9W3xbLlTH"
+        "name": "Te La Dedico",
+        "url": "https://open.spotify.com/album/7KGERR76ARYMU0z9AO1Z3Y"
       },
       "artists": [
         {
@@ -928,29 +928,9 @@
           "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
         }
       ],
-      "duration_ms": 182857,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/0xK4UKF4xr21C6pzI7msG3"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "Gimnasta",
-        "url": "https://open.spotify.com/album/5p31Mq9lQGLUEfWhMMBSUp"
-      },
-      "artists": [
-        {
-          "name": "Xyron",
-          "url": "https://open.spotify.com/artist/44WKtA4f1suN0IMmPBQ9be"
-        },
-        {
-          "name": "Veterano Music",
-          "url": "https://open.spotify.com/artist/16hiQsfTkaHbz6o1UpQ0uT"
-        }
-      ],
-      "duration_ms": 175476,
-      "name": "Gimnasta",
-      "url": "https://open.spotify.com/track/5FBS73j8hq7VwdyQiOfweK"
+      "duration_ms": 231724,
+      "name": "Te La Dedico",
+      "url": "https://open.spotify.com/track/6z3IrUfL5HxmpH0Xt84Es8"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -971,6 +951,26 @@
       "duration_ms": 166299,
       "name": "Otra",
       "url": "https://open.spotify.com/track/78Ccuv7ZsjQL3jcPUFFw3f"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Gimnasta",
+        "url": "https://open.spotify.com/album/5p31Mq9lQGLUEfWhMMBSUp"
+      },
+      "artists": [
+        {
+          "name": "Xyron",
+          "url": "https://open.spotify.com/artist/44WKtA4f1suN0IMmPBQ9be"
+        },
+        {
+          "name": "Veterano Music",
+          "url": "https://open.spotify.com/artist/16hiQsfTkaHbz6o1UpQ0uT"
+        }
+      ],
+      "duration_ms": 175476,
+      "name": "Gimnasta",
+      "url": "https://open.spotify.com/track/5FBS73j8hq7VwdyQiOfweK"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1107,8 +1107,8 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Te La Dedico",
-        "url": "https://open.spotify.com/album/7KGERR76ARYMU0z9AO1Z3Y"
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/4Hlh3k8RaJFxb9W3xbLlTH"
       },
       "artists": [
         {
@@ -1116,9 +1116,9 @@
           "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
         }
       ],
-      "duration_ms": 231724,
-      "name": "Te La Dedico",
-      "url": "https://open.spotify.com/track/6z3IrUfL5HxmpH0Xt84Es8"
+      "duration_ms": 182857,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/0xK4UKF4xr21C6pzI7msG3"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "IDGAF",
-        "url": "https://open.spotify.com/album/30BnGphkbKkCmUChAFcxSA"
-      },
-      "artists": [
-        {
-          "name": "Yan Block",
-          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
-        }
-      ],
-      "duration_ms": 134048,
-      "name": "IDGAF",
-      "url": "https://open.spotify.com/track/076GBcif3AM1IHfBJs545o"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "La Familia",
         "url": "https://open.spotify.com/album/3A35XT91xoDYsujfeGQFou"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 197480,
       "name": "La Familia",
       "url": "https://open.spotify.com/track/52ANZNLGCbf8IKin6sQYIk"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "IDGAF",
+        "url": "https://open.spotify.com/album/30BnGphkbKkCmUChAFcxSA"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        }
+      ],
+      "duration_ms": 134048,
+      "name": "IDGAF",
+      "url": "https://open.spotify.com/track/076GBcif3AM1IHfBJs545o"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Ronca",
-        "url": "https://open.spotify.com/album/7DdUS4g3GA2LegRovzMmPw"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 145777,
-      "name": "Ronca",
-      "url": "https://open.spotify.com/track/5J0FhGzHv6QjlZTJfZffHb"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "BRUJULA",
         "url": "https://open.spotify.com/album/0MfA07UgcDNEG8jv0hw6ti"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 165293,
       "name": "BRUJULA",
       "url": "https://open.spotify.com/track/7rM5p9uIjlARBdYYzfEEyf"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Ronca",
+        "url": "https://open.spotify.com/album/7DdUS4g3GA2LegRovzMmPw"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 145777,
+      "name": "Ronca",
+      "url": "https://open.spotify.com/track/5J0FhGzHv6QjlZTJfZffHb"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "T\u00fa Y Yo",
-        "url": "https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo"
-      },
-      "artists": [
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        },
-        {
-          "name": "RaiNao",
-          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
-        }
-      ],
-      "duration_ms": 242373,
-      "name": "T\u00fa Y Yo",
-      "url": "https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Invicta",
         "url": "https://open.spotify.com/album/164fsq8P3kfsSluv7q21rZ"
       },
@@ -1427,6 +1407,26 @@
       "duration_ms": 286767,
       "name": "Invicta",
       "url": "https://open.spotify.com/track/28yQZfH9hoSvZLOKnEODlU"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "T\u00fa Y Yo",
+        "url": "https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo"
+      },
+      "artists": [
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        }
+      ],
+      "duration_ms": 242373,
+      "name": "T\u00fa Y Yo",
+      "url": "https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "diamante$ + espina$",
-        "url": "https://open.spotify.com/album/3nLYJGsqBARtdGRcOmdzgB"
-      },
-      "artists": [
-        {
-          "name": "paopao",
-          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
-        }
-      ],
-      "duration_ms": 178176,
-      "name": "gatx",
-      "url": "https://open.spotify.com/track/3fiYdUULxybJx1M1tOuoip"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Polvos Narcos",
         "url": "https://open.spotify.com/album/3OIeXcf2e3ahdXuHuFsHCw"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 228695,
       "name": "Polvos Narcos",
       "url": "https://open.spotify.com/track/6ckRxmSWoAy1oBrlwrlqhZ"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "diamante$ + espina$",
+        "url": "https://open.spotify.com/album/3nLYJGsqBARtdGRcOmdzgB"
+      },
+      "artists": [
+        {
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+        }
+      ],
+      "duration_ms": 178176,
+      "name": "gatx",
+      "url": "https://open.spotify.com/track/3fiYdUULxybJx1M1tOuoip"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1835,18 +1835,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Por Amor",
-        "url": "https://open.spotify.com/album/19d62Ig61JpexqrepnWXw2"
+        "name": "Nena Buena",
+        "url": "https://open.spotify.com/album/6H0y2FOaj4tPcZTQ1VRTUU"
       },
       "artists": [
         {
-          "name": "TIVGO Cruz",
-          "url": "https://open.spotify.com/artist/3VzpQ5AiGRdFcC3DC0NoGW"
+          "name": "Chanell",
+          "url": "https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
         }
       ],
-      "duration_ms": 184053,
-      "name": "Por Amor",
-      "url": "https://open.spotify.com/track/4QUQ8b2ULrIYkKyQ1ZjcCn"
+      "duration_ms": 208179,
+      "name": "Nena Buena",
+      "url": "https://open.spotify.com/track/1LipU0DjCXaCK8yBfmglm6"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1867,22 +1871,18 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Nena Buena",
-        "url": "https://open.spotify.com/album/6H0y2FOaj4tPcZTQ1VRTUU"
+        "name": "Por Amor",
+        "url": "https://open.spotify.com/album/19d62Ig61JpexqrepnWXw2"
       },
       "artists": [
         {
-          "name": "Chanell",
-          "url": "https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA"
-        },
-        {
-          "name": "De La Rose",
-          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+          "name": "TIVGO Cruz",
+          "url": "https://open.spotify.com/artist/3VzpQ5AiGRdFcC3DC0NoGW"
         }
       ],
-      "duration_ms": 208179,
-      "name": "Nena Buena",
-      "url": "https://open.spotify.com/track/1LipU0DjCXaCK8yBfmglm6"
+      "duration_ms": 184053,
+      "name": "Por Amor",
+      "url": "https://open.spotify.com/track/4QUQ8b2ULrIYkKyQ1ZjcCn"
     }
   ],
   "unique_name": "Hecho en Puerto Rico",

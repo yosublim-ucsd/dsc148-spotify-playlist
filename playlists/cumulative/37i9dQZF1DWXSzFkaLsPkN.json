@@ -468,7 +468,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 233826,
       "name": "Doorie",
       "url": "https://open.spotify.com/track/1Dc4zs4hnrqbz4pV44uT8g"
@@ -1394,6 +1394,24 @@
       "duration_ms": 148389,
       "name": "Kitaab",
       "url": "https://open.spotify.com/track/2xfvb6Y9GBxiFRhd0smDH7"
+    },
+    {
+      "album": {
+        "name": "Kona Kona",
+        "url": "https://open.spotify.com/album/1AxuG5kuXIOd4StNRvlp5g"
+      },
+      "artists": [
+        {
+          "name": "SidB",
+          "url": "https://open.spotify.com/artist/1y6bxUL1fVTzt3YSVBf0FG"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "Kona Kona",
+      "url": "https://open.spotify.com/track/5sgwwNnLMWsGFmRVN0Z9hK"
     },
     {
       "album": {
@@ -2532,8 +2550,8 @@
           "url": "https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4"
         },
         {
-          "name": "JUNO",
-          "url": "https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj"
+          "name": "Juno",
+          "url": "https://open.spotify.com/artist/2CMDAqAE1eM7zHqnzxF4dk"
         },
         {
           "name": "Priyansh Srivastava",

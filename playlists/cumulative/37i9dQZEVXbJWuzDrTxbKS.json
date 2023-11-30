@@ -852,7 +852,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 86709,
       "name": "9mm",
       "url": "https://open.spotify.com/track/3K5KXm1uZjiyQk0J7op1xf"
@@ -1210,7 +1210,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 265360,
       "name": "Agora Hills",
       "url": "https://open.spotify.com/track/5PyDJG7SQRgWXefgexqIge"
@@ -2256,7 +2256,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-24",
+      "date_removed": null,
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -11286,7 +11286,7 @@
       ],
       "date_added": "2023-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 151098,
       "name": "Helsinki",
       "url": "https://open.spotify.com/track/5DV05exkdihpvdaamJrFWm"
@@ -17968,7 +17968,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-29",
+      "date_removed": null,
       "duration_ms": 182946,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
@@ -19732,6 +19732,24 @@
       "duration_ms": 163648,
       "name": "Nonsense",
       "url": "https://open.spotify.com/track/6dgUya35uo964z7GZXM07g"
+    },
+    {
+      "album": {
+        "name": "Norm\u0101la dziesma",
+        "url": "https://open.spotify.com/album/6dG1vBEHPKXCRIg0jXq5Yv"
+      },
+      "artists": [
+        {
+          "name": "Kapteinis Reinis",
+          "url": "https://open.spotify.com/artist/6dYxLwEFo6ky5a9qiqSJ5i"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213027,
+      "name": "Norm\u0101la dziesma",
+      "url": "https://open.spotify.com/track/3RCqL34ZpXmfDdfTSkbwTD"
     },
     {
       "album": {

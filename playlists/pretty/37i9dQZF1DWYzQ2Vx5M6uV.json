@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Feid & Rema",
-  "num_followers": 115027,
+  "num_followers": 115035,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzN2NkOWI5ZjdmNWZmMTUwNWExZjMzZTRjNTFlNzg2ZTE5YWE4Yjdi",
+  "snapshot_id": "MCw2MjhmODFiN2Q5M2RhYTdmZjMzZjdlZTYwNmUxZWFlNDEzMTIzMDhh",
   "tracks": [
     {
       "added_at": "2023-11-24 07:57:26",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-11-24 07:57:26",
       "album": {
-        "name": "Flavors",
-        "url": "https://open.spotify.com/album/4UxU8jwt8UEgqqbOdvZ7Ox"
-      },
-      "artists": [
-        {
-          "name": "LATENIGHTJIGGY",
-          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
-        }
-      ],
-      "duration_ms": 185002,
-      "name": "Mimosas",
-      "url": "https://open.spotify.com/track/1FmI1ftupsWDltedFxAfCS"
-    },
-    {
-      "added_at": "2023-11-24 07:57:26",
-      "album": {
         "name": "b\u00e1ilame en los besos (with Danny Ocean & Daramola)",
         "url": "https://open.spotify.com/album/42xtXqJiVEqAHLCXbKhSVX"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 207980,
       "name": "b\u00e1ilame en los besos (with Danny Ocean & Daramola)",
       "url": "https://open.spotify.com/track/2Ux9T8N2b0GRTOSfenwxlr"
+    },
+    {
+      "added_at": "2023-11-24 07:57:26",
+      "album": {
+        "name": "Flavors",
+        "url": "https://open.spotify.com/album/4UxU8jwt8UEgqqbOdvZ7Ox"
+      },
+      "artists": [
+        {
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+        }
+      ],
+      "duration_ms": 185002,
+      "name": "Mimosas",
+      "url": "https://open.spotify.com/track/1FmI1ftupsWDltedFxAfCS"
     },
     {
       "added_at": "2023-11-24 07:57:26",
@@ -1279,30 +1279,6 @@
     {
       "added_at": "2023-11-24 07:57:26",
       "album": {
-        "name": "Tayari",
-        "url": "https://open.spotify.com/album/5xDq1QkYliIl4gEuTwR52U"
-      },
-      "artists": [
-        {
-          "name": "Serge Ibaka",
-          "url": "https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe"
-        },
-        {
-          "name": "Diamond Platnumz",
-          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
-        },
-        {
-          "name": "Mohombi",
-          "url": "https://open.spotify.com/artist/37GUqxafAvAKGMZbXCUnmr"
-        }
-      ],
-      "duration_ms": 158003,
-      "name": "Tayari",
-      "url": "https://open.spotify.com/track/32YvTUCswxgGAiIzUp4zLy"
-    },
-    {
-      "added_at": "2023-11-24 07:57:26",
-      "album": {
         "name": "Se Fue",
         "url": "https://open.spotify.com/album/4j2DaQTBXSER398hI49Fkj"
       },
@@ -1323,6 +1299,30 @@
       "duration_ms": 215240,
       "name": "Se Fue",
       "url": "https://open.spotify.com/track/00FmMXnkYZ0ymlNcacdB6O"
+    },
+    {
+      "added_at": "2023-11-24 07:57:26",
+      "album": {
+        "name": "Tayari",
+        "url": "https://open.spotify.com/album/5xDq1QkYliIl4gEuTwR52U"
+      },
+      "artists": [
+        {
+          "name": "Serge Ibaka",
+          "url": "https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe"
+        },
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        },
+        {
+          "name": "Mohombi",
+          "url": "https://open.spotify.com/artist/37GUqxafAvAKGMZbXCUnmr"
+        }
+      ],
+      "duration_ms": 158003,
+      "name": "Tayari",
+      "url": "https://open.spotify.com/track/32YvTUCswxgGAiIzUp4zLy"
     },
     {
       "added_at": "2023-11-24 07:57:26",

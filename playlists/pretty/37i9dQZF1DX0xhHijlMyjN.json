@@ -1,12 +1,12 @@
 {
   "description": "Lo que necesita cualquier verbena veraniega.",
-  "num_followers": 355002,
+  "num_followers": 354974,
   "original_name": "Cl\u00e1sicos del Verano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTM0OWE4MTViNjE1NTlhYzM2NjdhYjE4ODE2MWYzZDc3ZWMzZDMx",
+  "snapshot_id": "MCw0YWM1OTcyODVhMzY3YzUxOWM3Mjg0M2YyMmQxYTM4MWM2MGM1YWVm",
   "tracks": [
     {
       "added_at": "2023-06-09 09:38:51",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Katrina & The Waves",
-        "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
-      },
-      "artists": [
-        {
-          "name": "Katrina & The Waves",
-          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
-        }
-      ],
-      "duration_ms": 238733,
-      "name": "Walking On Sunshine",
-      "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "VIDA",
         "url": "https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH"
       },
@@ -319,22 +303,18 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Dangerously In Love",
-        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
+        "name": "Katrina & The Waves",
+        "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+          "name": "Katrina & The Waves",
+          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
         }
       ],
-      "duration_ms": 236133,
-      "name": "Crazy In Love (feat. Jay-Z)",
-      "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
+      "duration_ms": 238733,
+      "name": "Walking On Sunshine",
+      "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -355,6 +335,26 @@
       "duration_ms": 284866,
       "name": "On The Floor",
       "url": "https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Dangerously In Love",
+        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 236133,
+      "name": "Crazy In Love (feat. Jay-Z)",
+      "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
+        "name": "Me Reh\u00faso",
+        "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
         "name": "Europop",
         "url": "https://open.spotify.com/album/54vbD17F1t5q3yHkj1cX37"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 283747,
       "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
       "url": "https://open.spotify.com/track/2yAVzRiEQooPEJ9SYx11L3"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
-        "name": "Me Reh\u00faso",
-        "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Me Reh\u00faso",
-      "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Kiss (Deluxe)",
-        "url": "https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 193400,
-      "name": "Call Me Maybe",
-      "url": "https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Mi Sangre",
         "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 216706,
       "name": "La Camisa Negra",
       "url": "https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Kiss (Deluxe)",
+        "url": "https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 193400,
+      "name": "Call Me Maybe",
+      "url": "https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "DiscO-Zone",
-        "url": "https://open.spotify.com/album/0LUnPpNFYk72u29RAW2aLJ"
-      },
-      "artists": [
-        {
-          "name": "O-Zone",
-          "url": "https://open.spotify.com/artist/5M5PjPSiKeXynM6Ohu350r"
-        }
-      ],
-      "duration_ms": 215386,
-      "name": "Dragostea din tei",
-      "url": "https://open.spotify.com/track/52Zr0sinhWTCRrQhRRY4EP"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Lady Marmalade",
         "url": "https://open.spotify.com/album/5rlAvknHpWuF6m4VMS3vnJ"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 267960,
       "name": "Lady Marmalade - Single Edit",
       "url": "https://open.spotify.com/track/0PSZ9G584Ve27GK6ThlY6P"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "DiscO-Zone",
+        "url": "https://open.spotify.com/album/0LUnPpNFYk72u29RAW2aLJ"
+      },
+      "artists": [
+        {
+          "name": "O-Zone",
+          "url": "https://open.spotify.com/artist/5M5PjPSiKeXynM6Ohu350r"
+        }
+      ],
+      "duration_ms": 215386,
+      "name": "Dragostea din tei",
+      "url": "https://open.spotify.com/track/52Zr0sinhWTCRrQhRRY4EP"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "La Bamba / Charlena",
-        "url": "https://open.spotify.com/album/0FPwLfwQWd91kV5rZTzMlZ"
-      },
-      "artists": [
-        {
-          "name": "Los Lobos",
-          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
-        }
-      ],
-      "duration_ms": 174186,
-      "name": "La Bamba",
-      "url": "https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Pitbull Starring In Rebelution",
         "url": "https://open.spotify.com/album/00zN65JStpVnpJn9ckMsQI"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 237120,
       "name": "I Know You Want Me (Calle Ocho)",
       "url": "https://open.spotify.com/track/5RzFJd6W40SDTyZkX6xx45"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "La Bamba / Charlena",
+        "url": "https://open.spotify.com/album/0FPwLfwQWd91kV5rZTzMlZ"
+      },
+      "artists": [
+        {
+          "name": "Los Lobos",
+          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
+        }
+      ],
+      "duration_ms": 174186,
+      "name": "La Bamba",
+      "url": "https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Tarpeia",
-        "url": "https://open.spotify.com/album/2ckPp0V20I5lKZ6pKWuhpf"
-      },
-      "artists": [
-        {
-          "name": "Paradisio",
-          "url": "https://open.spotify.com/artist/0FfjCldzckJBQNsnQyMJmb"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "Bailando",
-      "url": "https://open.spotify.com/track/6PwbVXIomkvk4YcafiOc6i"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Older",
         "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 324666,
       "name": "Fastlove, Pt. 1",
       "url": "https://open.spotify.com/track/6SaeXxdt0Id6ZzmX0ZGTQK"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Tarpeia",
+        "url": "https://open.spotify.com/album/2ckPp0V20I5lKZ6pKWuhpf"
+      },
+      "artists": [
+        {
+          "name": "Paradisio",
+          "url": "https://open.spotify.com/artist/0FfjCldzckJBQNsnQyMJmb"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "Bailando",
+      "url": "https://open.spotify.com/track/6PwbVXIomkvk4YcafiOc6i"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1839,6 +1839,22 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/4SPD09dxTSb1isoxVSNhAq"
+      },
+      "artists": [
+        {
+          "name": "Kate Ryan",
+          "url": "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
+        }
+      ],
+      "duration_ms": 184693,
+      "name": "Ella Elle L A",
+      "url": "https://open.spotify.com/track/2uWK6uBDfyg78xfiH1iiFP"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
         "name": "Rayos de Sol",
         "url": "https://open.spotify.com/album/3ZXPjs7JZejedxBbXobWRA"
       },
@@ -1855,22 +1871,6 @@
       "duration_ms": 231562,
       "name": "Rayos de Sol",
       "url": "https://open.spotify.com/track/1d5obgzCOtwq9qaxfe4Hpw"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/4SPD09dxTSb1isoxVSNhAq"
-      },
-      "artists": [
-        {
-          "name": "Kate Ryan",
-          "url": "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
-        }
-      ],
-      "duration_ms": 184693,
-      "name": "Ella Elle L A",
-      "url": "https://open.spotify.com/track/2uWK6uBDfyg78xfiH1iiFP"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Todos Los D\u00edas Sale El Sol",
-        "url": "https://open.spotify.com/album/6qpGqHU6oXNUqluVYz0coh"
-      },
-      "artists": [
-        {
-          "name": "Bongo Botrako",
-          "url": "https://open.spotify.com/artist/6XcqNunmoXrhbq6rAYgFxJ"
-        }
-      ],
-      "duration_ms": 146337,
-      "name": "Todos los d\u00edas sale el sol",
-      "url": "https://open.spotify.com/track/1tmwswvJnwOIrskyCKVsgv"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "El misterioso caso de Efecto Pasillo",
         "url": "https://open.spotify.com/album/0eXjOfykk3LkiqPtFnFMji"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 202146,
       "name": "Pan y mantequilla",
       "url": "https://open.spotify.com/track/2kZJ5wrpq1gCdHmVEjahoH"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Todos Los D\u00edas Sale El Sol",
+        "url": "https://open.spotify.com/album/6qpGqHU6oXNUqluVYz0coh"
+      },
+      "artists": [
+        {
+          "name": "Bongo Botrako",
+          "url": "https://open.spotify.com/artist/6XcqNunmoXrhbq6rAYgFxJ"
+        }
+      ],
+      "duration_ms": 146337,
+      "name": "Todos los d\u00edas sale el sol",
+      "url": "https://open.spotify.com/track/1tmwswvJnwOIrskyCKVsgv"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2135,22 +2135,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Macarena (EP)",
-        "url": "https://open.spotify.com/album/1anwf7hhIur6jnVg70pXGc"
-      },
-      "artists": [
-        {
-          "name": "Los Del Rio",
-          "url": "https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk"
-        }
-      ],
-      "duration_ms": 224626,
-      "name": "Macarena - Bayside Boys Remix",
-      "url": "https://open.spotify.com/track/07DcH2UllHvVRKjD2HEJuC"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "One Love (Deluxe)",
         "url": "https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 191000,
       "name": "When Love Takes Over (feat. Kelly Rowland)",
       "url": "https://open.spotify.com/track/77FULy278MulVvGWS8BfK7"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Macarena (EP)",
+        "url": "https://open.spotify.com/album/1anwf7hhIur6jnVg70pXGc"
+      },
+      "artists": [
+        {
+          "name": "Los Del Rio",
+          "url": "https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk"
+        }
+      ],
+      "duration_ms": 224626,
+      "name": "Macarena - Bayside Boys Remix",
+      "url": "https://open.spotify.com/track/07DcH2UllHvVRKjD2HEJuC"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2431,22 +2431,18 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Como te d\u00e9 la gana",
-        "url": "https://open.spotify.com/album/5pZyF7BqhusMyrBd8eOjy8"
+        "name": "Kylie",
+        "url": "https://open.spotify.com/album/7lZXsT33rkuXF3WBZc5rQv"
       },
       "artists": [
         {
-          "name": "Nolasco",
-          "url": "https://open.spotify.com/artist/1iydw0OqyICpB5XlyfZ7qP"
-        },
-        {
-          "name": "Junior Miguez",
-          "url": "https://open.spotify.com/artist/1xaTQJ5aqoB5QcklnScxky"
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 300026,
-      "name": "Las cosas peque\u00f1itas - Mix",
-      "url": "https://open.spotify.com/track/6ILh8Kypi5rnlOV8LzvVtj"
+      "duration_ms": 193540,
+      "name": "The Loco-Motion",
+      "url": "https://open.spotify.com/track/2hBR3npBmnfr1VWB3O64Jt"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2463,6 +2459,26 @@
       "duration_ms": 203173,
       "name": "Bamboleo",
       "url": "https://open.spotify.com/track/5siwoDxCGDYnmfWV5SlUpE"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Como te d\u00e9 la gana",
+        "url": "https://open.spotify.com/album/5pZyF7BqhusMyrBd8eOjy8"
+      },
+      "artists": [
+        {
+          "name": "Nolasco",
+          "url": "https://open.spotify.com/artist/1iydw0OqyICpB5XlyfZ7qP"
+        },
+        {
+          "name": "Junior Miguez",
+          "url": "https://open.spotify.com/artist/1xaTQJ5aqoB5QcklnScxky"
+        }
+      ],
+      "duration_ms": 300026,
+      "name": "Las cosas peque\u00f1itas - Mix",
+      "url": "https://open.spotify.com/track/6ILh8Kypi5rnlOV8LzvVtj"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2511,22 +2527,6 @@
       "duration_ms": 213066,
       "name": "Yo Quiero Bailar",
       "url": "https://open.spotify.com/track/4rFCPjKfgbEeNvs1Ku4nbd"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
-        "name": "Kylie",
-        "url": "https://open.spotify.com/album/7lZXsT33rkuXF3WBZc5rQv"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 193540,
-      "name": "The Loco-Motion",
-      "url": "https://open.spotify.com/track/2hBR3npBmnfr1VWB3O64Jt"
     },
     {
       "added_at": "2023-06-09 09:38:51",

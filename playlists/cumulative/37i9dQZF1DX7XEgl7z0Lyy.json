@@ -400,7 +400,7 @@
     {
       "album": {
         "name": "corpse",
-        "url": "https://open.spotify.com/album/40pduhZqgVOZnvUT7WWRxh"
+        "url": "https://open.spotify.com/album/6vpoUI1PgvmE4zDIiUfg8L"
       },
       "artists": [
         {
@@ -413,7 +413,43 @@
       "date_removed": null,
       "duration_ms": 112018,
       "name": "corpse",
+      "url": "https://open.spotify.com/track/0V6nYXxQCghLMQYtxLu5al"
+    },
+    {
+      "album": {
+        "name": "corpse",
+        "url": "https://open.spotify.com/album/40pduhZqgVOZnvUT7WWRxh"
+      },
+      "artists": [
+        {
+          "name": "kyszenn",
+          "url": "https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-30",
+      "duration_ms": 112018,
+      "name": "corpse",
       "url": "https://open.spotify.com/track/12Tkvx9SClYpEQKrCtqEfY"
+    },
+    {
+      "album": {
+        "name": "crystallize",
+        "url": "https://open.spotify.com/album/5C2g9Zo2Zr1tPpmaPkCD23"
+      },
+      "artists": [
+        {
+          "name": "kyszenn",
+          "url": "https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121881,
+      "name": "crystallize",
+      "url": "https://open.spotify.com/track/1PvmpEdGf0OnE5eINVbrCJ"
     },
     {
       "album": {
@@ -428,7 +464,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 121899,
       "name": "crystallize",
       "url": "https://open.spotify.com/track/6U7O0WPOWTQFh58pB9ZNTI"
@@ -1796,6 +1832,24 @@
     {
       "album": {
         "name": "onyx palace",
+        "url": "https://open.spotify.com/album/74rKGi9bIqDImCGyg9I7Ql"
+      },
+      "artists": [
+        {
+          "name": "kyszenn",
+          "url": "https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133326,
+      "name": "onyx palace",
+      "url": "https://open.spotify.com/track/0n4EP6LzMY6iUBqturCofi"
+    },
+    {
+      "album": {
+        "name": "onyx palace",
         "url": "https://open.spotify.com/album/5EgsZbmgKX9wxsK4OAShSG"
       },
       "artists": [
@@ -1806,7 +1860,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 133326,
       "name": "onyx palace",
       "url": "https://open.spotify.com/track/3tsbNogFr6tPtxR2zlvlnO"

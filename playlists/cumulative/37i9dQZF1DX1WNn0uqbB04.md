@@ -4,14 +4,14 @@
 
 > El Tango está más vivo que nunca\. Disfrutá los clásicos en <a href="spotify:user:spotify:playlist:37i9dQZF1DXcCT9tm6fRIV">Tangos y Milongas</a>
 
-75 songs - 4 hr 45 min
+76 songs - 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Air Concret](https://open.spotify.com/track/7tHtgCV6r5Q61Len2RWuXB) | [Luciano Supervielle](https://open.spotify.com/artist/0cVBzbJ1qk2pergJG8jbSC) | [Bajofondo Tango Club Presenta A Supervielle](https://open.spotify.com/album/6USPX5kkLVt8bXHw4DS0rl) | 1:21 | 2023-08-04 |  |
 | [Al Vacío](https://open.spotify.com/track/6pop1Zy75gRGx4946x3ZGY) | [Max Aguirre](https://open.spotify.com/artist/7Bl5WcUdWdWAwDpCD3o8lk), [EMI](https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1) | [Al Vacío](https://open.spotify.com/album/28xoCj2zTxQJnQQg7lBqHY) | 3:34 | 2023-08-04 |  |
 | [Bahia Blanca](https://open.spotify.com/track/7djvoHOtL85rHJtwOgmCAW) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC) | [Milonguero](https://open.spotify.com/album/3k4njpRBXJDfFvZljMXK7g) | 2:50 | 2023-08-04 |  |
-| [Bye Mom](https://open.spotify.com/track/2kliWnNyvuFRjVITOzkKXr) | [Ariel Hernandez](https://open.spotify.com/artist/0Bx1GJftEUPz40KtPWpdrv) | [Tango Groove](https://open.spotify.com/album/7uRW2LahOcPwUiX68ACG7F) | 3:43 | 2023-08-04 |  |
+| [Bye Mom](https://open.spotify.com/track/2kliWnNyvuFRjVITOzkKXr) | [Ariel Hernandez](https://open.spotify.com/artist/0Bx1GJftEUPz40KtPWpdrv) | [Tango Groove](https://open.spotify.com/album/7uRW2LahOcPwUiX68ACG7F) | 3:43 | 2023-08-04 | 2023-11-30 |
 | [Cafe 1930](https://open.spotify.com/track/1hHhJm5ghxlAYagj8hQgww) | [Al Di Meola](https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q) | [Di Meola Plays Piazzolla](https://open.spotify.com/album/1z737UccnQ0DiLcSIdrpw0) | 6:15 | 2023-08-04 |  |
 | [Canopus](https://open.spotify.com/track/7MmhdgP3Fw2P51C1aBuroS) | [Electro Dub Tango](https://open.spotify.com/artist/5Lgxp1cY9aLySrsmoWtQ3x) | [Tango on Mars](https://open.spotify.com/album/1KQHFteiA1B5H1N47BdZsq) | 3:19 | 2023-08-04 |  |
 | [Carabelas Nada](https://open.spotify.com/track/6vgPBFsZOOjrlVPLlamQHj) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Carabelas Nada](https://open.spotify.com/album/6i37stRS1hsLchPh8qpBtz) | 4:43 | 2023-08-04 |  |
@@ -58,6 +58,7 @@
 | [Plegaria para un niño dormido](https://open.spotify.com/track/3hW3s0ClWYEKdDVZnwKZYU) | [Mariano Godoy](https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR) | [Invierno](https://open.spotify.com/album/7d20OGQ2xh0Io9rsPBjtUa) | 3:47 | 2023-08-04 |  |
 | [Porque Canto Asi](https://open.spotify.com/track/7mhcAUfgNvWpt1kw64UMpw) | [La Milonga Electrica](https://open.spotify.com/artist/7cJt9z3hi4iwfG6v1buiO6) | [Porque Canto Asi](https://open.spotify.com/album/0DVKuygci9kepNkgBfVXmP) | 2:14 | 2023-08-04 |  |
 | [Preludio para el Año 3001 \(Sgoliat vs KoolTURE Remix\)](https://open.spotify.com/track/4sHTrFv2n14HlExW74hEa2) | [Celeste Carballo](https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW), [Sgoliat vs KoolTURE](https://open.spotify.com/artist/1Nj1CJBwJxilEpdplcoun1) | [Preludio para el Año 3001 \(Sgoliat vs KoolTURE Remix\)](https://open.spotify.com/album/6ryjto0IP1T2u03yYQ5UF8) | 3:36 | 2023-08-04 |  |
+| [Purgamorio](https://open.spotify.com/track/137izbynWsYW4PNJGuyYNQ) | [Entangados](https://open.spotify.com/artist/4JwhUf48kn5DD7iUo1ILUu) | [Purgamorio](https://open.spotify.com/album/7cdQH9TufqbcM1HT0A2cjn) | 4:34 | 2023-11-24 |  |
 | [Regina](https://open.spotify.com/track/4HJaTZTBxNZ7kxZExuMMDr) | [Electrocutango](https://open.spotify.com/artist/2cj1R53AEPGh3hNvipWs0i) | [Felino](https://open.spotify.com/album/2fCOloYpBVq62UjAz24FhS) | 5:43 | 2023-08-04 |  |
 | [Roberto](https://open.spotify.com/track/3GITRjbGkiq3H1ZUaiBX3s) | [BIFE](https://open.spotify.com/artist/1UmyLRbgkEd90qEvMECEzk), [Noelia Sinkunas](https://open.spotify.com/artist/4HUdSdEPd2TFlEBO334EuF) | [Veinte Veinte](https://open.spotify.com/album/6ky4237OIoampV0wzjCYyG) | 2:33 | 2023-08-04 |  |
 | [Santa Maria \(Del Buen Ayre\)](https://open.spotify.com/track/3sPkMFWk9zi5LAA0T1qvpc) | [Gotan Project](https://open.spotify.com/artist/44ejFPE33H5aOInxNV2BFP) | [La Revancha Del Tango](https://open.spotify.com/album/4FoqXHGjFrUsjtz7jgaaGo) | 5:57 | 2023-08-04 |  |

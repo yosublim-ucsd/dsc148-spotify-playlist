@@ -1,12 +1,12 @@
 {
   "description": "Push play on the coolest playlist around, and get ready to jump around.",
-  "num_followers": 36218,
+  "num_followers": 36234,
   "original_name": "Hip-Hopscotch & Reggae Recess",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzE3NTA0OTRmZmQxNjQ1ZmFkNWExNTdmZmUxNjNiMDdmMjFlMWQz",
+  "snapshot_id": "MCxhYmE3NWQ5MzA3M2ZiNWJkYjY3MjA2NWRlNDJkZjAzOWJhNmYxNDMy",
   "tracks": [
     {
       "added_at": "2023-10-10 07:55:02",
@@ -251,6 +251,22 @@
     {
       "added_at": "2023-10-10 07:55:02",
       "album": {
+        "name": "Girls Run Everything",
+        "url": "https://open.spotify.com/album/0WWP0LfIdeu6zISoDKbJC3"
+      },
+      "artists": [
+        {
+          "name": "ZaZa",
+          "url": "https://open.spotify.com/artist/7ipwVPuLHQUfpP4wRmj1nn"
+        }
+      ],
+      "duration_ms": 109120,
+      "name": "Girls Run Everything",
+      "url": "https://open.spotify.com/track/79fkHlESwDh9Dq426rbmTn"
+    },
+    {
+      "added_at": "2023-10-10 07:55:02",
+      "album": {
         "name": "Kids Trap",
         "url": "https://open.spotify.com/album/70NZulwHGHVgluy1pwMY3C"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 110675,
       "name": "Getting Silly",
       "url": "https://open.spotify.com/track/60kcJIrsehemBC5S2PTTG3"
-    },
-    {
-      "added_at": "2023-10-10 07:55:02",
-      "album": {
-        "name": "Girls Run Everything",
-        "url": "https://open.spotify.com/album/0WWP0LfIdeu6zISoDKbJC3"
-      },
-      "artists": [
-        {
-          "name": "ZaZa",
-          "url": "https://open.spotify.com/artist/7ipwVPuLHQUfpP4wRmj1nn"
-        }
-      ],
-      "duration_ms": 109120,
-      "name": "Girls Run Everything",
-      "url": "https://open.spotify.com/track/79fkHlESwDh9Dq426rbmTn"
     },
     {
       "added_at": "2023-10-10 07:55:02",
@@ -411,26 +411,6 @@
     {
       "added_at": "2023-10-10 07:55:02",
       "album": {
-        "name": "Kids Trap",
-        "url": "https://open.spotify.com/album/70NZulwHGHVgluy1pwMY3C"
-      },
-      "artists": [
-        {
-          "name": "Blake Rules",
-          "url": "https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8"
-        },
-        {
-          "name": "Netherfriends",
-          "url": "https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY"
-        }
-      ],
-      "duration_ms": 147428,
-      "name": "Go Play Outside",
-      "url": "https://open.spotify.com/track/5oGi3t0P5LJ4Opu87mlLUg"
-    },
-    {
-      "added_at": "2023-10-10 07:55:02",
-      "album": {
         "name": "Mee Wee: Hip Hop For Kids",
         "url": "https://open.spotify.com/album/1yjk5rVfA943EL3QvbVvGU"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 222786,
       "name": "Cha Cha Slide",
       "url": "https://open.spotify.com/track/146IdUhpqJAKpfGPegGtd1"
+    },
+    {
+      "added_at": "2023-10-10 07:55:02",
+      "album": {
+        "name": "Kids Trap",
+        "url": "https://open.spotify.com/album/70NZulwHGHVgluy1pwMY3C"
+      },
+      "artists": [
+        {
+          "name": "Blake Rules",
+          "url": "https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8"
+        },
+        {
+          "name": "Netherfriends",
+          "url": "https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY"
+        }
+      ],
+      "duration_ms": 147428,
+      "name": "Go Play Outside",
+      "url": "https://open.spotify.com/track/5oGi3t0P5LJ4Opu87mlLUg"
     },
     {
       "added_at": "2023-10-10 07:55:02",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-10-10 07:55:02",
       "album": {
+        "name": "Kids Rap Radio",
+        "url": "https://open.spotify.com/album/3rVTfED6gnKVwhU7VEf6y5"
+      },
+      "artists": [
+        {
+          "name": "Giggle Club",
+          "url": "https://open.spotify.com/artist/0VXTiAhwelyAgBsxbbinnf"
+        }
+      ],
+      "duration_ms": 238426,
+      "name": "Shake Ya Tailfeather",
+      "url": "https://open.spotify.com/track/2t3ZxwOLtpRYxctPbXRRns"
+    },
+    {
+      "added_at": "2023-10-10 07:55:02",
+      "album": {
         "name": "Kids Trap",
         "url": "https://open.spotify.com/album/70NZulwHGHVgluy1pwMY3C"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 153239,
       "name": "I'm Healthy",
       "url": "https://open.spotify.com/track/7ECdYi17tlPuGg9YVblRPU"
-    },
-    {
-      "added_at": "2023-10-10 07:55:02",
-      "album": {
-        "name": "Kids Rap Radio",
-        "url": "https://open.spotify.com/album/3rVTfED6gnKVwhU7VEf6y5"
-      },
-      "artists": [
-        {
-          "name": "Giggle Club",
-          "url": "https://open.spotify.com/artist/0VXTiAhwelyAgBsxbbinnf"
-        }
-      ],
-      "duration_ms": 238426,
-      "name": "Shake Ya Tailfeather",
-      "url": "https://open.spotify.com/track/2t3ZxwOLtpRYxctPbXRRns"
     },
     {
       "added_at": "2023-10-10 07:55:02",
@@ -635,18 +635,22 @@
     {
       "added_at": "2023-10-10 07:55:02",
       "album": {
-        "name": "Mee Wee: Hip Hop For Kids",
-        "url": "https://open.spotify.com/album/1yjk5rVfA943EL3QvbVvGU"
+        "name": "Kids Trap (In the House)",
+        "url": "https://open.spotify.com/album/2waS7cb3Rnkr2oZLO6l0Wf"
       },
       "artists": [
         {
-          "name": "Mee Wee",
-          "url": "https://open.spotify.com/artist/53oYcs7ZLh8S3lmt3E5fBp"
+          "name": "Blake Rules",
+          "url": "https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8"
+        },
+        {
+          "name": "Netherfriends",
+          "url": "https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY"
         }
       ],
-      "duration_ms": 130106,
-      "name": "Jumping Jacks - Feat. Jabari & Baby Power",
-      "url": "https://open.spotify.com/track/4WMe7Vxf5Mf6HoE0p28nYR"
+      "duration_ms": 198347,
+      "name": "Dance Party in the House",
+      "url": "https://open.spotify.com/track/6ZSMbNa2ZSmLR7LlC5Bz0m"
     },
     {
       "added_at": "2023-10-10 07:55:02",
@@ -667,6 +671,22 @@
     {
       "added_at": "2023-10-10 07:55:02",
       "album": {
+        "name": "Mee Wee: Hip Hop For Kids",
+        "url": "https://open.spotify.com/album/1yjk5rVfA943EL3QvbVvGU"
+      },
+      "artists": [
+        {
+          "name": "Mee Wee",
+          "url": "https://open.spotify.com/artist/53oYcs7ZLh8S3lmt3E5fBp"
+        }
+      ],
+      "duration_ms": 130106,
+      "name": "Jumping Jacks - Feat. Jabari & Baby Power",
+      "url": "https://open.spotify.com/track/4WMe7Vxf5Mf6HoE0p28nYR"
+    },
+    {
+      "added_at": "2023-10-10 07:55:02",
+      "album": {
         "name": "Reggae for Kids",
         "url": "https://open.spotify.com/album/5jRkWa2bRjwJ6hdPrJ1odi"
       },
@@ -679,26 +699,6 @@
       "duration_ms": 193240,
       "name": "This Old Man",
       "url": "https://open.spotify.com/track/33brRRHTjeMZVXzt4tDOzp"
-    },
-    {
-      "added_at": "2023-10-10 07:55:02",
-      "album": {
-        "name": "Kids Trap (In the House)",
-        "url": "https://open.spotify.com/album/2waS7cb3Rnkr2oZLO6l0Wf"
-      },
-      "artists": [
-        {
-          "name": "Blake Rules",
-          "url": "https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8"
-        },
-        {
-          "name": "Netherfriends",
-          "url": "https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY"
-        }
-      ],
-      "duration_ms": 198347,
-      "name": "Dance Party in the House",
-      "url": "https://open.spotify.com/track/6ZSMbNa2ZSmLR7LlC5Bz0m"
     },
     {
       "added_at": "2023-10-10 07:55:02",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-10-10 07:55:02",
       "album": {
-        "name": "Kids Rap Radio, Vol. 7",
-        "url": "https://open.spotify.com/album/33KsrRSRtZkSaemIaFC6U6"
-      },
-      "artists": [
-        {
-          "name": "Kids Rap Radio",
-          "url": "https://open.spotify.com/artist/2YD4kgyo0midNau1KI6g8x"
-        }
-      ],
-      "duration_ms": 210920,
-      "name": "Kids That Rock",
-      "url": "https://open.spotify.com/track/3MZmpfcmRK73emDMcqNpbe"
-    },
-    {
-      "added_at": "2023-10-10 07:55:02",
-      "album": {
         "name": "Family Time",
         "url": "https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 196293,
       "name": "Walk Tall (feat. Paul Simon)",
       "url": "https://open.spotify.com/track/2n5jNXpu7XrDpsNeU2BZk0"
+    },
+    {
+      "added_at": "2023-10-10 07:55:02",
+      "album": {
+        "name": "Kids Rap Radio, Vol. 7",
+        "url": "https://open.spotify.com/album/33KsrRSRtZkSaemIaFC6U6"
+      },
+      "artists": [
+        {
+          "name": "Kids Rap Radio",
+          "url": "https://open.spotify.com/artist/2YD4kgyo0midNau1KI6g8x"
+        }
+      ],
+      "duration_ms": 210920,
+      "name": "Kids That Rock",
+      "url": "https://open.spotify.com/track/3MZmpfcmRK73emDMcqNpbe"
     },
     {
       "added_at": "2023-10-10 07:55:02",
@@ -815,6 +815,26 @@
     {
       "added_at": "2023-10-10 07:55:02",
       "album": {
+        "name": "One",
+        "url": "https://open.spotify.com/album/5uTpQiaJIt5aSKMXAlCCqW"
+      },
+      "artists": [
+        {
+          "name": "Aaron Nigel Smith",
+          "url": "https://open.spotify.com/artist/5afv4kS3cXl7Rs0oKQj6S4"
+        },
+        {
+          "name": "Father Goose",
+          "url": "https://open.spotify.com/artist/7aufdCkGeBn79Gmb6ir6ys"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Dance to the Reggae Rhythm (feat. Father Goose)",
+      "url": "https://open.spotify.com/track/0PylWiOSendDTztmimb42y"
+    },
+    {
+      "added_at": "2023-10-10 07:55:02",
+      "album": {
         "name": "Hola, Amigo: Songs of Friendship",
         "url": "https://open.spotify.com/album/0V5TLnYXWxNFZ0Bmy5bOza"
       },
@@ -839,42 +859,6 @@
       "duration_ms": 190895,
       "name": "Boomerang",
       "url": "https://open.spotify.com/track/6c3ipL19bLPHrpoj5kKawy"
-    },
-    {
-      "added_at": "2023-10-10 07:55:02",
-      "album": {
-        "name": "One",
-        "url": "https://open.spotify.com/album/5uTpQiaJIt5aSKMXAlCCqW"
-      },
-      "artists": [
-        {
-          "name": "Aaron Nigel Smith",
-          "url": "https://open.spotify.com/artist/5afv4kS3cXl7Rs0oKQj6S4"
-        },
-        {
-          "name": "Father Goose",
-          "url": "https://open.spotify.com/artist/7aufdCkGeBn79Gmb6ir6ys"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Dance to the Reggae Rhythm (feat. Father Goose)",
-      "url": "https://open.spotify.com/track/0PylWiOSendDTztmimb42y"
-    },
-    {
-      "added_at": "2023-10-10 07:55:02",
-      "album": {
-        "name": "Kids Rap Radio, Vol. 7",
-        "url": "https://open.spotify.com/album/33KsrRSRtZkSaemIaFC6U6"
-      },
-      "artists": [
-        {
-          "name": "Kids Rap Radio",
-          "url": "https://open.spotify.com/artist/2YD4kgyo0midNau1KI6g8x"
-        }
-      ],
-      "duration_ms": 211720,
-      "name": "Girls vs. Boys",
-      "url": "https://open.spotify.com/track/1JIICzNjNibNpB3HeefvFm"
     },
     {
       "added_at": "2023-10-10 07:55:02",
@@ -907,6 +891,22 @@
       "duration_ms": 172173,
       "name": "The Cypher",
       "url": "https://open.spotify.com/track/1RlNTr0g5m8b1juzyPEz1e"
+    },
+    {
+      "added_at": "2023-10-10 07:55:02",
+      "album": {
+        "name": "TELL EM",
+        "url": "https://open.spotify.com/album/0cuRGPN7DtPu6M1Y0vAOzX"
+      },
+      "artists": [
+        {
+          "name": "GoKeeKeeGo",
+          "url": "https://open.spotify.com/artist/7zsyllxtoU29NBJPu96jbz"
+        }
+      ],
+      "duration_ms": 174524,
+      "name": "TELL EM",
+      "url": "https://open.spotify.com/track/4IrDPdjKLcQNnCoP4vWF6o"
     }
   ],
   "unique_name": "Hip-Hopscotch & Reggae Recess",

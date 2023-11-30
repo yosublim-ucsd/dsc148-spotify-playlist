@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Foto: Myke Towers
 
-[Spotify](https://open.spotify.com/user/spotify) - 930,786 likes - 52 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 930,759 likes - 52 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 51 | [Eu Ofereço Flores](https://open.spotify.com/track/7sYsluG2bZNHLqDMbfU5T5) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Eu Ofereço Flores](https://open.spotify.com/album/2pGWMaWZIlnKP0hwVX8SQb) | 4:10 |
 | 52 | [MODIFICAR](https://open.spotify.com/track/7lQjAcGb8Nh7KkbYpiuBjh) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [ALMA IMORTAL](https://open.spotify.com/album/2wTVtjLOFxTnHmkCmgTpdp) | 2:44 |
 
-Snapshot ID: `MCw2YzU3OTViNzM3YzQ2ODYyOWNjNGEwNDkxNjY2YmRlMTA0NDc1ODdi`
+Snapshot ID: `MCw1ODc3N2NhMGY4ZDY2NGMzMTEzMjU2OTRkMWVkZDJjMmYyNTk0YzIx`

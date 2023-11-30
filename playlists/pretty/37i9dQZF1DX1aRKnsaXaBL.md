@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRKnsaXaBL.md) - [plain]
 
 > Chasing sunsets con buena música de fondo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,270 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,301 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRKnsaXaBL.md) - [plain]
 | 11 | [Mi Mejor Versión](https://open.spotify.com/track/3JA65Jo8LtmZIjlvhB08pG) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Mi Mejor Versión](https://open.spotify.com/album/3vvreW2zeLSPk2FV97TkH3) | 3:21 |
 | 12 | [Insatisfecho](https://open.spotify.com/track/0QfPd5Z46l1bkDhl9ABV2x) | [PJAMA](https://open.spotify.com/artist/6rEnCeFGwNGiOuBhjOPMVH) | [Pacific Jam At My Apartment](https://open.spotify.com/album/2U1uNbCDt2jDhZpd6bM4wn) | 3:05 |
 | 13 | [Me Estoy Enamorando](https://open.spotify.com/track/56IhOJAcMc28qxDqjmuwJC) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Me Estoy Enamorando](https://open.spotify.com/album/290mTa3886xNkEyOVtC53k) | 3:35 |
-| 14 | [La Puerta](https://open.spotify.com/track/5JM0MaVqz9I38pRzbo9U6l) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [La Puerta](https://open.spotify.com/album/3uW3dr9cYAvk6fouQY0EzH) | 3:03 |
-| 15 | [DAMN!](https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [DAMN!](https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr) | 1:57 |
+| 14 | [DAMN!](https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [DAMN!](https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr) | 1:57 |
+| 15 | [La Puerta](https://open.spotify.com/track/5JM0MaVqz9I38pRzbo9U6l) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [La Puerta](https://open.spotify.com/album/3uW3dr9cYAvk6fouQY0EzH) | 3:03 |
 | 16 | [Apasionado](https://open.spotify.com/track/7nNe66m3zuscn2Tn4nJwAs) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [RIO HOTEL](https://open.spotify.com/album/39X3Jhsy9oT9XzgoUDs5P9) | 4:05 |
 | 17 | [Control](https://open.spotify.com/track/5YVwv9bfy4PX1uRhQUk1sO) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Why You?](https://open.spotify.com/album/1g1STbZaWPnAD4rabVe8tg) | 5:04 |
 | 18 | [Vueltas](https://open.spotify.com/track/27yF4FbBzJ2vy65aqNdCTm) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Vueltas](https://open.spotify.com/album/4yK2y4i9chYEAEwzn1fzSx) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRKnsaXaBL.md) - [plain]
 | 49 | [dejarse querer](https://open.spotify.com/track/2fVVRlRJoqWezN8l6LdpVa) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [LOS FELIZ](https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ) | 3:03 |
 | 50 | [Los Años Maravillosos](https://open.spotify.com/track/42d6mbHHtDTnlmnzYV31Py) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Los Años Maravillosos](https://open.spotify.com/album/4a8QZdeULQRoMTgxVbcsCw) | 4:23 |
 
-Snapshot ID: `MCwwNzU4N2E2NTZhMGQ2Nzc4Y2RiMmVhOThjMzQ2NTg3OGUzN2M2Nzcz`
+Snapshot ID: `MCwzYjViNGRmMjIxN2M0ZGQyMDBhMDE0NzM2NDRjMTE3NDgxZDcwZTcy`

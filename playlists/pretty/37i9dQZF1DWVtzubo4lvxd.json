@@ -1,12 +1,12 @@
 {
   "description": "Chill lo-fi beats to enjoy a great afternoon.",
-  "num_followers": 111529,
+  "num_followers": 111522,
   "original_name": "Sunset Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMWJkYzYwMDBlY2MzYWY3YTc2NzgzNzU0YjQ4OTM2N2IwZDU5NmRi",
+  "snapshot_id": "MCxmYTJjMGQwYThkNTJmZDJkNDI1NmU1ODkxYWM1YTZmYzQxYTk4MjYz",
   "tracks": [
     {
       "added_at": "2022-04-15 12:09:52",
@@ -103,22 +103,22 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Interstellar",
-        "url": "https://open.spotify.com/album/4iRVlAWILJK2sWOBRl18Kl"
+        "name": "summer nights.",
+        "url": "https://open.spotify.com/album/0hv3pidFBxSn1ZFLzD2irc"
       },
       "artists": [
         {
-          "name": "drkmnd",
-          "url": "https://open.spotify.com/artist/1j1zhORHvaQ7DAIKpuK42C"
+          "name": "halberd",
+          "url": "https://open.spotify.com/artist/7ow7nXWCZuMoU09aRki7GB"
         },
         {
-          "name": "Arbour",
-          "url": "https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2"
+          "name": "Nion",
+          "url": "https://open.spotify.com/artist/7J1oHSQmZhh69nOXC3RiM0"
         }
       ],
-      "duration_ms": 164800,
-      "name": "Interstellar",
-      "url": "https://open.spotify.com/track/4Pyfm47MwAKVNyvlzFXnav"
+      "duration_ms": 84315,
+      "name": "summer nights.",
+      "url": "https://open.spotify.com/track/7pDspg2l98EwYQRcBpmQWK"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -139,22 +139,22 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "summer nights.",
-        "url": "https://open.spotify.com/album/0hv3pidFBxSn1ZFLzD2irc"
+        "name": "Interstellar",
+        "url": "https://open.spotify.com/album/4iRVlAWILJK2sWOBRl18Kl"
       },
       "artists": [
         {
-          "name": "halberd",
-          "url": "https://open.spotify.com/artist/7ow7nXWCZuMoU09aRki7GB"
+          "name": "drkmnd",
+          "url": "https://open.spotify.com/artist/1j1zhORHvaQ7DAIKpuK42C"
         },
         {
-          "name": "Nion",
-          "url": "https://open.spotify.com/artist/7J1oHSQmZhh69nOXC3RiM0"
+          "name": "Arbour",
+          "url": "https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2"
         }
       ],
-      "duration_ms": 84315,
-      "name": "summer nights.",
-      "url": "https://open.spotify.com/track/7pDspg2l98EwYQRcBpmQWK"
+      "duration_ms": 164800,
+      "name": "Interstellar",
+      "url": "https://open.spotify.com/track/4Pyfm47MwAKVNyvlzFXnav"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "honshu island",
-        "url": "https://open.spotify.com/album/5R1Cj9GJ2Ur6AIfzjcdWIm"
-      },
-      "artists": [
-        {
-          "name": "mt. fujitive",
-          "url": "https://open.spotify.com/artist/2V9zpugQCHRiu2lPjsUM6d"
-        }
-      ],
-      "duration_ms": 71393,
-      "name": "tequila",
-      "url": "https://open.spotify.com/track/0diOcYSPXO1jhT1XxGKfS3"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "another.wun",
         "url": "https://open.spotify.com/album/5H01iddYzVjiMY7CcMFpnS"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 105789,
       "name": "another.wun",
       "url": "https://open.spotify.com/track/1RaKBL6CSERv4lzPRKgg56"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "honshu island",
+        "url": "https://open.spotify.com/album/5R1Cj9GJ2Ur6AIfzjcdWIm"
+      },
+      "artists": [
+        {
+          "name": "mt. fujitive",
+          "url": "https://open.spotify.com/artist/2V9zpugQCHRiu2lPjsUM6d"
+        }
+      ],
+      "duration_ms": 71393,
+      "name": "tequila",
+      "url": "https://open.spotify.com/track/0diOcYSPXO1jhT1XxGKfS3"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "running around dreaming",
-        "url": "https://open.spotify.com/album/2yTJ6fdaX9ZYGzdEJyrvna"
-      },
-      "artists": [
-        {
-          "name": "Delayde",
-          "url": "https://open.spotify.com/artist/254ga0emOv4GhfUUw5J16h"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "sekao",
-      "url": "https://open.spotify.com/track/4c2TiYoJHIjEPZ5syRZhsY"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "Faces",
         "url": "https://open.spotify.com/album/3hBQuy5dGt1BYSPkwKiqwf"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 133165,
       "name": "Faces",
       "url": "https://open.spotify.com/track/39qwnp9qlLcYd4bq6s5HMj"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "running around dreaming",
+        "url": "https://open.spotify.com/album/2yTJ6fdaX9ZYGzdEJyrvna"
+      },
+      "artists": [
+        {
+          "name": "Delayde",
+          "url": "https://open.spotify.com/artist/254ga0emOv4GhfUUw5J16h"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "sekao",
+      "url": "https://open.spotify.com/track/4c2TiYoJHIjEPZ5syRZhsY"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -795,6 +795,22 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/1vNYKr4KkIcLFug4zMX0rD"
+      },
+      "artists": [
+        {
+          "name": "j^p^n",
+          "url": "https://open.spotify.com/artist/6s3PbveUJMvMwZHyQUAPV4"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Springtime",
+      "url": "https://open.spotify.com/track/6wh61ZuwyFfS9DD6EJCov4"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
         "name": "Directions",
         "url": "https://open.spotify.com/album/1GNYINM8gupBbSdJSPuaud"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 156000,
       "name": "Murmuration",
       "url": "https://open.spotify.com/track/6fkAGXwhsnGecBd1z3dDob"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/1vNYKr4KkIcLFug4zMX0rD"
-      },
-      "artists": [
-        {
-          "name": "j^p^n",
-          "url": "https://open.spotify.com/artist/6s3PbveUJMvMwZHyQUAPV4"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Springtime",
-      "url": "https://open.spotify.com/track/6wh61ZuwyFfS9DD6EJCov4"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Cats Walking",
-        "url": "https://open.spotify.com/album/3E3DuADepz0S6PnlHoKtps"
+        "name": "longing for you",
+        "url": "https://open.spotify.com/album/66uBHTMoJVpedbTq7jyU2M"
       },
       "artists": [
         {
-          "name": "Yomoti",
-          "url": "https://open.spotify.com/artist/1QybrBtERg1gUpJxwRelUC"
+          "name": "Moody.",
+          "url": "https://open.spotify.com/artist/0qdK6GuCLLmh5VHMsozhyb"
         }
       ],
-      "duration_ms": 136470,
-      "name": "Cats Walking",
-      "url": "https://open.spotify.com/track/5cckL4va5OEGcTplcs6Chi"
+      "duration_ms": 73846,
+      "name": "jocelyn",
+      "url": "https://open.spotify.com/track/0piDIO7lJLc007jn2DqPcF"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "b4u.",
-        "url": "https://open.spotify.com/album/5hXOjdUD5thOFrwq6tSDsn"
+        "name": "Cats Walking",
+        "url": "https://open.spotify.com/album/3E3DuADepz0S6PnlHoKtps"
       },
       "artists": [
         {
-          "name": "halberd",
-          "url": "https://open.spotify.com/artist/7ow7nXWCZuMoU09aRki7GB"
+          "name": "Yomoti",
+          "url": "https://open.spotify.com/artist/1QybrBtERg1gUpJxwRelUC"
         }
       ],
-      "duration_ms": 88182,
-      "name": "nvm.",
-      "url": "https://open.spotify.com/track/7ljI7sHNpt5t940veMe5y4"
+      "duration_ms": 136470,
+      "name": "Cats Walking",
+      "url": "https://open.spotify.com/track/5cckL4va5OEGcTplcs6Chi"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "jhfly",
-        "url": "https://open.spotify.com/album/7hmMkesNBhzzGMiCbOCpMo"
+        "name": "b4u.",
+        "url": "https://open.spotify.com/album/5hXOjdUD5thOFrwq6tSDsn"
       },
       "artists": [
         {
-          "name": "jhfly",
-          "url": "https://open.spotify.com/artist/7D6kLgvRHr6DNDavc0LhvI"
+          "name": "halberd",
+          "url": "https://open.spotify.com/artist/7ow7nXWCZuMoU09aRki7GB"
         }
       ],
-      "duration_ms": 188611,
-      "name": "for you",
-      "url": "https://open.spotify.com/track/2iGqmP4YP3hrx3ij9jvZsG"
+      "duration_ms": 88182,
+      "name": "nvm.",
+      "url": "https://open.spotify.com/track/7ljI7sHNpt5t940veMe5y4"
     }
   ],
   "unique_name": "Sunset Chill",

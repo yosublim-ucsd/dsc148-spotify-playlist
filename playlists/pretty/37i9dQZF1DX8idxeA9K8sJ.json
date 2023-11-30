@@ -1,12 +1,12 @@
 {
   "description": "Recuerda los \u00e9xitos ochenteros que sonaron en la radio mexicana.",
-  "num_followers": 930771,
+  "num_followers": 930877,
   "original_name": "Los 80 M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTliOWYwODkzNTQwOWJjMmY5YzAyNWFlODIxMDI0NDkyMWZkNGVk",
+  "snapshot_id": "MCw1MjNkYjQxYThlYmYxZmIyM2M3NTA4YjE5MDRjNjBkODkzMjhiNDY4",
   "tracks": [
     {
       "added_at": "2020-06-24 19:34:30",
@@ -611,22 +611,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Que Hago Aqu\u00ed?",
-        "url": "https://open.spotify.com/album/6CQphijyJq4b6slAFrRXf6"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 221600,
-      "name": "Dr. Psiquiatra",
-      "url": "https://open.spotify.com/track/6FmwfLbteUqHfcz10Ab9yY"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "Intimamente",
         "url": "https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 217866,
       "name": "Insoportablemente Bella",
       "url": "https://open.spotify.com/track/24jLRb0lLtk4U3F2xPh2AH"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Que Hago Aqu\u00ed?",
+        "url": "https://open.spotify.com/album/6CQphijyJq4b6slAFrRXf6"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 221600,
+      "name": "Dr. Psiquiatra",
+      "url": "https://open.spotify.com/track/6FmwfLbteUqHfcz10Ab9yY"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
+        "name": "Completamente Tuya",
+        "url": "https://open.spotify.com/album/5vN1tVAL4qBWurY8UHah7g"
+      },
+      "artists": [
+        {
+          "name": "Marisela",
+          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
+        }
+      ],
+      "duration_ms": 225960,
+      "name": "Sola Con Mi Soledad",
+      "url": "https://open.spotify.com/track/0GU3ULktdxtWMIPXXc1NNS"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
         "name": "Coleccion de Oro",
         "url": "https://open.spotify.com/album/03qbgosLANCuqg2jUgmI9V"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 158253,
       "name": "El Final",
       "url": "https://open.spotify.com/track/39ELDQVDsgBmo5gbTuru9U"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
-        "name": "Completamente Tuya",
-        "url": "https://open.spotify.com/album/5vN1tVAL4qBWurY8UHah7g"
-      },
-      "artists": [
-        {
-          "name": "Marisela",
-          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
-        }
-      ],
-      "duration_ms": 225960,
-      "name": "Sola Con Mi Soledad",
-      "url": "https://open.spotify.com/track/0GU3ULktdxtWMIPXXc1NNS"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Doce Rosas",
-        "url": "https://open.spotify.com/album/4QRBCtIJVQDK6k8fJ9jUFh"
-      },
-      "artists": [
-        {
-          "name": "Lorenzo Antonio",
-          "url": "https://open.spotify.com/artist/4oYvz8seCf2B2JEyB0GIX4"
-        }
-      ],
-      "duration_ms": 229668,
-      "name": "Doce Rosas",
-      "url": "https://open.spotify.com/track/7cGgfuTFHDRA0b7zdzEg6R"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "Descanso Dominical / Une Femme Avec Une Femme",
         "url": "https://open.spotify.com/album/3ddhOdEVme7tbJqHnUBx2J"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 310346,
       "name": "La Fuerza del Destino (Live)",
       "url": "https://open.spotify.com/track/0vOZomyHQgbEmxmAutqJZa"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Doce Rosas",
+        "url": "https://open.spotify.com/album/4QRBCtIJVQDK6k8fJ9jUFh"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo Antonio",
+          "url": "https://open.spotify.com/artist/4oYvz8seCf2B2JEyB0GIX4"
+        }
+      ],
+      "duration_ms": 229668,
+      "name": "Doce Rosas",
+      "url": "https://open.spotify.com/track/7cGgfuTFHDRA0b7zdzEg6R"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Secretos",
-        "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
+        "name": "Que Nada Nos Separe",
+        "url": "https://open.spotify.com/album/0tv0ugArh5TtRPMORE70RY"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
         }
       ],
-      "duration_ms": 235000,
-      "name": "Cuando Vayas Conmigo",
-      "url": "https://open.spotify.com/track/2ygSprUUsLJTu16DzspsDm"
+      "duration_ms": 267000,
+      "name": "No Hace Falta",
+      "url": "https://open.spotify.com/track/5DiHLU0npIbhSTZm8EGeuT"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Que Nada Nos Separe",
-        "url": "https://open.spotify.com/album/0tv0ugArh5TtRPMORE70RY"
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
       },
       "artists": [
         {
-          "name": "Mijares",
-          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
         }
       ],
-      "duration_ms": 267000,
-      "name": "No Hace Falta",
-      "url": "https://open.spotify.com/track/5DiHLU0npIbhSTZm8EGeuT"
+      "duration_ms": 235000,
+      "name": "Cuando Vayas Conmigo",
+      "url": "https://open.spotify.com/track/2ygSprUUsLJTu16DzspsDm"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Coleccion de Oro",
-        "url": "https://open.spotify.com/album/03qbgosLANCuqg2jUgmI9V"
-      },
-      "artists": [
-        {
-          "name": "Lupita D'Alessio",
-          "url": "https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en"
-        }
-      ],
-      "duration_ms": 250644,
-      "name": "Mentiras",
-      "url": "https://open.spotify.com/track/1FkCsyMlPzsIJxqRRHurtT"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "El Angel Del Rock Vol. 2",
         "url": "https://open.spotify.com/album/5ym9ffMyvW91QBixRrcS9x"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 254826,
       "name": "Sue\u00f1os Compartidos",
       "url": "https://open.spotify.com/track/70ZDTO70VvcVBQB3ibtP3m"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Coleccion de Oro",
+        "url": "https://open.spotify.com/album/03qbgosLANCuqg2jUgmI9V"
+      },
+      "artists": [
+        {
+          "name": "Lupita D'Alessio",
+          "url": "https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en"
+        }
+      ],
+      "duration_ms": 250644,
+      "name": "Mentiras",
+      "url": "https://open.spotify.com/track/1FkCsyMlPzsIJxqRRHurtT"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Coleccion de Oro",
-        "url": "https://open.spotify.com/album/03qbgosLANCuqg2jUgmI9V"
-      },
-      "artists": [
-        {
-          "name": "Lupita D'Alessio",
-          "url": "https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en"
-        }
-      ],
-      "duration_ms": 237740,
-      "name": "Inocente Pobre Amiga",
-      "url": "https://open.spotify.com/track/4LMjkpzj8r4RLXKc3adcYV"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "30 A\u00f1os de \u00c9xitos",
         "url": "https://open.spotify.com/album/2LiQiHqbqGuzxXYYnfcySo"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 273133,
       "name": "Coraz\u00f3n de Poeta",
       "url": "https://open.spotify.com/track/5t6GyhawtK5itjpDdvGGx0"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Coleccion de Oro",
+        "url": "https://open.spotify.com/album/03qbgosLANCuqg2jUgmI9V"
+      },
+      "artists": [
+        {
+          "name": "Lupita D'Alessio",
+          "url": "https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en"
+        }
+      ],
+      "duration_ms": 237740,
+      "name": "Inocente Pobre Amiga",
+      "url": "https://open.spotify.com/track/4LMjkpzj8r4RLXKc3adcYV"
     }
   ],
   "unique_name": "Los 80 M\u00e9xico",

@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 105382,
+  "num_followers": 105410,
   "original_name": "Ver\u00e3o 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWY5NTdkMWUzMjQ0MzI1MTZlMTJmMWU5YTViOGI5N2U2OWUzOWQ0",
+  "snapshot_id": "MCw3NWY4Njk3NWY3NzM3ZTM5NGI0N2QzY2Y2NTExOTQ3YjI2Y2Q1N2Q4",
   "tracks": [
     {
       "added_at": "2023-08-29 17:00:51",
@@ -1947,6 +1947,22 @@
     {
       "added_at": "2023-08-29 17:00:51",
       "album": {
+        "name": "pessoa certa hora errada",
+        "url": "https://open.spotify.com/album/7fdrjXirtCLGb1l9oX9psZ"
+      },
+      "artists": [
+        {
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+        }
+      ],
+      "duration_ms": 164170,
+      "name": "pessoa certa hora errada",
+      "url": "https://open.spotify.com/track/0Rq7EzwIvsVqPPUNM3M4as"
+    },
+    {
+      "added_at": "2023-08-29 17:00:51",
+      "album": {
         "name": "Sentir Saudade (feat. Bia Caboz)",
         "url": "https://open.spotify.com/album/1NyzzX2INte0TLjsSsbHqv"
       },
@@ -1963,22 +1979,6 @@
       "duration_ms": 205440,
       "name": "Sentir Saudade (feat. Bia Caboz)",
       "url": "https://open.spotify.com/track/2vpOZH0GPh2uYVap8hHaC1"
-    },
-    {
-      "added_at": "2023-08-29 17:00:51",
-      "album": {
-        "name": "pessoa certa hora errada",
-        "url": "https://open.spotify.com/album/7fdrjXirtCLGb1l9oX9psZ"
-      },
-      "artists": [
-        {
-          "name": "GIULIA BE",
-          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
-        }
-      ],
-      "duration_ms": 164170,
-      "name": "pessoa certa hora errada",
-      "url": "https://open.spotify.com/track/0Rq7EzwIvsVqPPUNM3M4as"
     },
     {
       "added_at": "2023-08-29 17:00:51",

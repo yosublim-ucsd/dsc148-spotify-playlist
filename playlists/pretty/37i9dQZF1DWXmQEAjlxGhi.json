@@ -1,12 +1,12 @@
 {
   "description": "Upbeat Latin songs to keep your heart rate up.",
-  "num_followers": 1394100,
+  "num_followers": 1394064,
   "original_name": "Latin Cardio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTczNzUzYzYyOGE5NDM2OWJlZWNmZmI1MjJmMzNmMGY0NDcwZmVk",
+  "snapshot_id": "MCxhYjRiNGQ2ZmJlOThhYTllYzIzZmM0ZmI1NzAwZDZhOGJiN2JhOGI2",
   "tracks": [
     {
       "added_at": "2023-11-17 12:42:49",
@@ -1115,34 +1115,6 @@
     {
       "added_at": "2023-11-17 12:42:49",
       "album": {
-        "name": "Bien Loco",
-        "url": "https://open.spotify.com/album/4ZmFdjdojnPfXISVRDgCeA"
-      },
-      "artists": [
-        {
-          "name": "Dan Sanchez",
-          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "D-Sides",
-          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
-        }
-      ],
-      "duration_ms": 169062,
-      "name": "Bien Loco",
-      "url": "https://open.spotify.com/track/67iARlR1cb2fAovBwluJLA"
-    },
-    {
-      "added_at": "2023-11-17 12:42:49",
-      "album": {
         "name": "PUNTO 40",
         "url": "https://open.spotify.com/album/3wh0e8pRtMt4HLLUhUM6Hs"
       },
@@ -1175,6 +1147,34 @@
       "duration_ms": 109120,
       "name": "BIZCOCHITO",
       "url": "https://open.spotify.com/track/4kXxEhuatrvwrTQycA7s9B"
+    },
+    {
+      "added_at": "2023-11-17 12:42:49",
+      "album": {
+        "name": "Bien Loco",
+        "url": "https://open.spotify.com/album/4ZmFdjdojnPfXISVRDgCeA"
+      },
+      "artists": [
+        {
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "D-Sides",
+          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
+        }
+      ],
+      "duration_ms": 169062,
+      "name": "Bien Loco",
+      "url": "https://open.spotify.com/track/67iARlR1cb2fAovBwluJLA"
     },
     {
       "added_at": "2023-11-17 12:42:49",
@@ -1275,6 +1275,38 @@
     {
       "added_at": "2023-11-17 12:42:49",
       "album": {
+        "name": "Emmanuel",
+        "url": "https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 301714,
+      "name": "China",
+      "url": "https://open.spotify.com/track/0KkIkfsLEJbrcIhYsCL7L5"
+    },
+    {
+      "added_at": "2023-11-17 12:42:49",
+      "album": {
         "name": "AUTOM\u00c1TICO",
         "url": "https://open.spotify.com/album/5i8WdrKnzvMbujuJhkcFQn"
       },
@@ -1307,38 +1339,6 @@
       "duration_ms": 148644,
       "name": "Hombres y Mujeres",
       "url": "https://open.spotify.com/track/71L9EZo8OEaZINg75dBUSW"
-    },
-    {
-      "added_at": "2023-11-17 12:42:49",
-      "album": {
-        "name": "Emmanuel",
-        "url": "https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 301714,
-      "name": "China",
-      "url": "https://open.spotify.com/track/0KkIkfsLEJbrcIhYsCL7L5"
     },
     {
       "added_at": "2023-11-17 12:42:49",

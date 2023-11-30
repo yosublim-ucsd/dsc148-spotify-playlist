@@ -1,12 +1,12 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 144314,
+  "num_followers": 144430,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjNkMTI2NGM4MTYwOGU5NTVlNzU1NmViZWY1ZjY2ZDc3ZTdkYmMz",
+  "snapshot_id": "MCwxMjU0N2FkMzc5NGFjNGQxNjIzYjI4ZjExYzYzMWY2M2ZlMmQ3OTVi",
   "tracks": [
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "VIP",
-        "url": "https://open.spotify.com/album/0y0rbZ1pjtN3Q9YFA9d7ty"
-      },
-      "artists": [
-        {
-          "name": "Serum",
-          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
-        },
-        {
-          "name": "Inja",
-          "url": "https://open.spotify.com/artist/4jl7rqDfdaWDHD0RdP7ndM"
-        }
-      ],
-      "duration_ms": 240337,
-      "name": "Lumberjackin' - Vocal Mix",
-      "url": "https://open.spotify.com/track/2rrQ5uFbqOpJ1dYFfiV30G"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "All For You",
         "url": "https://open.spotify.com/album/254Y0CD07dB40q84db89EB"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 202691,
       "name": "All For You",
       "url": "https://open.spotify.com/track/3y1fEFFHFv79OYeCbzc774"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "VIP",
+        "url": "https://open.spotify.com/album/0y0rbZ1pjtN3Q9YFA9d7ty"
+      },
+      "artists": [
+        {
+          "name": "Serum",
+          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
+        },
+        {
+          "name": "Inja",
+          "url": "https://open.spotify.com/artist/4jl7rqDfdaWDHD0RdP7ndM"
+        }
+      ],
+      "duration_ms": 240337,
+      "name": "Lumberjackin' - Vocal Mix",
+      "url": "https://open.spotify.com/track/2rrQ5uFbqOpJ1dYFfiV30G"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Bad Gyalz",
-        "url": "https://open.spotify.com/album/0KgiN6gpmIFwjxSIJE3qrb"
-      },
-      "artists": [
-        {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
-        }
-      ],
-      "duration_ms": 159299,
-      "name": "Bad Gyalz",
-      "url": "https://open.spotify.com/track/1sdfHsJC1KytSyhhGpZ2kv"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Want You",
         "url": "https://open.spotify.com/album/1gwNOFmeMRGzIj2752iJEB"
       },
@@ -1163,30 +1147,6 @@
       "duration_ms": 247210,
       "name": "Want You",
       "url": "https://open.spotify.com/track/3QRE0rMSiI6ceS0ZOxFblB"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Through It All (Hedex Remix)",
-        "url": "https://open.spotify.com/album/3g9yPWc8yVPueR4Zk1LPot"
-      },
-      "artists": [
-        {
-          "name": "DJ Zinc",
-          "url": "https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ"
-        },
-        {
-          "name": "Maverick Sabre",
-          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
-        },
-        {
-          "name": "Hedex",
-          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Through It All - Hedex Remix",
-      "url": "https://open.spotify.com/track/5ts712TiZXqdbbkef0mRrI"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1215,6 +1175,46 @@
       "duration_ms": 213793,
       "name": "Infinity (feat. ILIRA, iiola & Tom Cane)",
       "url": "https://open.spotify.com/track/0CkmD2L3xMeZTXOwlOCsVm"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Bad Gyalz",
+        "url": "https://open.spotify.com/album/0KgiN6gpmIFwjxSIJE3qrb"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "duration_ms": 159299,
+      "name": "Bad Gyalz",
+      "url": "https://open.spotify.com/track/1sdfHsJC1KytSyhhGpZ2kv"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Through It All (Hedex Remix)",
+        "url": "https://open.spotify.com/album/3g9yPWc8yVPueR4Zk1LPot"
+      },
+      "artists": [
+        {
+          "name": "DJ Zinc",
+          "url": "https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ"
+        },
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        },
+        {
+          "name": "Hedex",
+          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Through It All - Hedex Remix",
+      "url": "https://open.spotify.com/track/5ts712TiZXqdbbkef0mRrI"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Getting Started (Chase & Status Remix)",
-        "url": "https://open.spotify.com/album/5EoFVpPoxG7JSMtd7JATZ1"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        },
-        {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        }
-      ],
-      "duration_ms": 190344,
-      "name": "Getting Started - Chase & Status Remix",
-      "url": "https://open.spotify.com/track/7BBDanLPLALnu5asuk14r9"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Their Law The Singles 1990 - 2005",
         "url": "https://open.spotify.com/album/0aZZ90ZakcGFzFiBMKHrCy"
       },
@@ -1303,22 +1283,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Let U Know (feat. Charlotte Plank)",
-        "url": "https://open.spotify.com/album/5kRPPrLyW4iXoAuz1GKfOQ"
+        "name": "Getting Started (Chase & Status Remix)",
+        "url": "https://open.spotify.com/album/5EoFVpPoxG7JSMtd7JATZ1"
       },
       "artists": [
         {
-          "name": "Danny Byrd",
-          "url": "https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG"
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
         },
         {
-          "name": "Charlotte Plank",
-          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
         }
       ],
-      "duration_ms": 160498,
-      "name": "Let U Know (feat. Charlotte Plank)",
-      "url": "https://open.spotify.com/track/37KhWdLDRC4UMR8jxvVBdW"
+      "duration_ms": 190344,
+      "name": "Getting Started - Chase & Status Remix",
+      "url": "https://open.spotify.com/track/7BBDanLPLALnu5asuk14r9"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1339,6 +1319,26 @@
       "duration_ms": 178604,
       "name": "Shut It Down",
       "url": "https://open.spotify.com/track/1KsTta93YQGtGid1W1x6ki"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Let U Know (feat. Charlotte Plank)",
+        "url": "https://open.spotify.com/album/5kRPPrLyW4iXoAuz1GKfOQ"
+      },
+      "artists": [
+        {
+          "name": "Danny Byrd",
+          "url": "https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG"
+        },
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+        }
+      ],
+      "duration_ms": 160498,
+      "name": "Let U Know (feat. Charlotte Plank)",
+      "url": "https://open.spotify.com/track/37KhWdLDRC4UMR8jxvVBdW"
     },
     {
       "added_at": "2023-11-17 00:01:00",

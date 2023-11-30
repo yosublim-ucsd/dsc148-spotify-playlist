@@ -1,12 +1,12 @@
 {
   "description": "Stay relaxed with these easy, laid-back songs.",
-  "num_followers": 2081686,
+  "num_followers": 2081755,
   "original_name": "Totally Stress Free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTY0NzAxOTQzMTA5OTY4ODgyYWUwZmY1OTNmYTc5YjY1ZGMwMTM1",
+  "snapshot_id": "MCxhMmU1OGE2ZmNkZjVlNGFjNGYyOGI0ZWM2MDE1ZGU1NDQ0N2Q2NWI2",
   "tracks": [
     {
       "added_at": "2023-11-10 19:54:35",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-11-10 19:54:35",
       "album": {
-        "name": "Songs to Break Up To",
-        "url": "https://open.spotify.com/album/5OVxLrOoXXD2HSKkQNqhQW"
-      },
-      "artists": [
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        }
-      ],
-      "duration_ms": 199391,
-      "name": "Thinking 'Bout Love",
-      "url": "https://open.spotify.com/track/42UaitnwvuKqNcD5Oa2HlD"
-    },
-    {
-      "added_at": "2023-11-10 19:54:35",
-      "album": {
         "name": "Up From Below - 10th Anniversary Edition",
         "url": "https://open.spotify.com/album/2nqKKUI6G3YGYNyjqBxjmd"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 306373,
       "name": "Home (2019 Remaster)",
       "url": "https://open.spotify.com/track/5uGXVcOINWmyUzpz0lKq7m"
+    },
+    {
+      "added_at": "2023-11-10 19:54:35",
+      "album": {
+        "name": "Songs to Break Up To",
+        "url": "https://open.spotify.com/album/5OVxLrOoXXD2HSKkQNqhQW"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "duration_ms": 199391,
+      "name": "Thinking 'Bout Love",
+      "url": "https://open.spotify.com/track/42UaitnwvuKqNcD5Oa2HlD"
     },
     {
       "added_at": "2023-11-10 19:54:35",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-11-10 19:54:35",
       "album": {
+        "name": "Long Blue Light",
+        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 200173,
+      "name": "Long Blue Light",
+      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
+    },
+    {
+      "added_at": "2023-11-10 19:54:35",
+      "album": {
         "name": "My God Has a Telephone",
         "url": "https://open.spotify.com/album/6A6ktPfg9TWvgNmk87FUmk"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 175492,
       "name": "My God Has A Telephone",
       "url": "https://open.spotify.com/track/0vOHWx4itwA0pQeWromAAx"
-    },
-    {
-      "added_at": "2023-11-10 19:54:35",
-      "album": {
-        "name": "Long Blue Light",
-        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 200173,
-      "name": "Long Blue Light",
-      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
     },
     {
       "added_at": "2023-11-10 19:54:35",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-11-10 19:54:35",
       "album": {
-        "name": "BRIGHTSIDE",
-        "url": "https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "WHERE WE ARE",
-      "url": "https://open.spotify.com/track/7l987hjMH9FBNXBE93Hrs7"
-    },
-    {
-      "added_at": "2023-11-10 19:54:35",
-      "album": {
         "name": "Clarity",
         "url": "https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 227240,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr"
+    },
+    {
+      "added_at": "2023-11-10 19:54:35",
+      "album": {
+        "name": "BRIGHTSIDE",
+        "url": "https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "WHERE WE ARE",
+      "url": "https://open.spotify.com/track/7l987hjMH9FBNXBE93Hrs7"
     },
     {
       "added_at": "2023-11-10 19:54:35",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-11-10 19:54:35",
       "album": {
-        "name": "In Your Hands",
-        "url": "https://open.spotify.com/album/0tZj37rUrevqNsoI4N0iEA"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 230164,
-      "name": "In Your Hands - Single Version",
-      "url": "https://open.spotify.com/track/7tJHvRoGvkckZkZk5ORUot"
-    },
-    {
-      "added_at": "2023-11-10 19:54:35",
-      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 252760,
       "name": "That's Where I Am",
       "url": "https://open.spotify.com/track/49EXOlUTFBGdI098L6SXDh"
+    },
+    {
+      "added_at": "2023-11-10 19:54:35",
+      "album": {
+        "name": "In Your Hands",
+        "url": "https://open.spotify.com/album/0tZj37rUrevqNsoI4N0iEA"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 230164,
+      "name": "In Your Hands - Single Version",
+      "url": "https://open.spotify.com/track/7tJHvRoGvkckZkZk5ORUot"
     },
     {
       "added_at": "2023-11-10 19:54:35",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-11-10 19:54:35",
       "album": {
-        "name": "Sad Hunk",
-        "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 204453,
-      "name": "Trick To Happy",
-      "url": "https://open.spotify.com/track/4lrkAUjZqFCofSF4QplDYd"
-    },
-    {
-      "added_at": "2023-11-10 19:54:35",
-      "album": {
         "name": "Wilderado",
         "url": "https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 210895,
       "name": "Take Some Time",
       "url": "https://open.spotify.com/track/3C3KF3yVvF7iIsGxkmr6VB"
+    },
+    {
+      "added_at": "2023-11-10 19:54:35",
+      "album": {
+        "name": "Sad Hunk",
+        "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 204453,
+      "name": "Trick To Happy",
+      "url": "https://open.spotify.com/track/4lrkAUjZqFCofSF4QplDYd"
     },
     {
       "added_at": "2023-11-10 19:54:35",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2023-11-10 19:54:35",
       "album": {
-        "name": "It Will Never Be The Same",
-        "url": "https://open.spotify.com/album/0yIOi8b3saNbLzoxIqKWCX"
-      },
-      "artists": [
-        {
-          "name": "Michigander",
-          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
-        }
-      ],
-      "duration_ms": 250362,
-      "name": "Superglue",
-      "url": "https://open.spotify.com/track/1xppwXzb1L9dwPigcki6Tf"
-    },
-    {
-      "added_at": "2023-11-10 19:54:35",
-      "album": {
         "name": "Sermon on the Rocks",
         "url": "https://open.spotify.com/album/5OF3OR07FFYm89YJqk7jEH"
       },
@@ -1775,18 +1759,18 @@
     {
       "added_at": "2023-11-10 19:54:35",
       "album": {
-        "name": "Wanted on Voyage (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E"
+        "name": "It Will Never Be The Same",
+        "url": "https://open.spotify.com/album/0yIOi8b3saNbLzoxIqKWCX"
       },
       "artists": [
         {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+          "name": "Michigander",
+          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
         }
       ],
-      "duration_ms": 216453,
-      "name": "Leaving It Up to You",
-      "url": "https://open.spotify.com/track/2PAQygVRwdmwzY955cn2FS"
+      "duration_ms": 250362,
+      "name": "Superglue",
+      "url": "https://open.spotify.com/track/1xppwXzb1L9dwPigcki6Tf"
     },
     {
       "added_at": "2023-11-10 19:54:35",
@@ -1803,6 +1787,22 @@
       "duration_ms": 212945,
       "name": "Joyride",
       "url": "https://open.spotify.com/track/0VcVy0kpfwyd5rMS5URyVD"
+    },
+    {
+      "added_at": "2023-11-10 19:54:35",
+      "album": {
+        "name": "Wanted on Voyage (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 216453,
+      "name": "Leaving It Up to You",
+      "url": "https://open.spotify.com/track/2PAQygVRwdmwzY955cn2FS"
     },
     {
       "added_at": "2023-11-10 19:54:35",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2023-11-10 19:54:35",
       "album": {
-        "name": "in defense of my own happiness (the beginnings)",
-        "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 193786,
-      "name": "sunday",
-      "url": "https://open.spotify.com/track/5zYiD0qYctWMiLHGAiEcd3"
-    },
-    {
-      "added_at": "2023-11-10 19:54:35",
-      "album": {
         "name": "Pink Shades",
         "url": "https://open.spotify.com/album/5u14nFR2NAMX1R0DslsyH9"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 206903,
       "name": "Pink Shades",
       "url": "https://open.spotify.com/track/3YsjOrar28TbRQAOZ7z63r"
+    },
+    {
+      "added_at": "2023-11-10 19:54:35",
+      "album": {
+        "name": "in defense of my own happiness (the beginnings)",
+        "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 193786,
+      "name": "sunday",
+      "url": "https://open.spotify.com/track/5zYiD0qYctWMiLHGAiEcd3"
     },
     {
       "added_at": "2023-11-10 19:54:35",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2023-11-10 19:54:35",
       "album": {
-        "name": "Virginia (Wind In The Night)",
-        "url": "https://open.spotify.com/album/0NgrmQ40zdQLLqZF09wiIx"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 205293,
-      "name": "Virginia (Wind In The Night)",
-      "url": "https://open.spotify.com/track/03gx5xXMcfEK7ZnOHsjvJL"
-    },
-    {
-      "added_at": "2023-11-10 19:54:35",
-      "album": {
         "name": "Love Lines",
         "url": "https://open.spotify.com/album/6E7FmOKkt2McJF0I411HzL"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 207294,
       "name": "Golden",
       "url": "https://open.spotify.com/track/5149LIHpBivPrcQsX5HZO6"
+    },
+    {
+      "added_at": "2023-11-10 19:54:35",
+      "album": {
+        "name": "Virginia (Wind In The Night)",
+        "url": "https://open.spotify.com/album/0NgrmQ40zdQLLqZF09wiIx"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 205293,
+      "name": "Virginia (Wind In The Night)",
+      "url": "https://open.spotify.com/track/03gx5xXMcfEK7ZnOHsjvJL"
     },
     {
       "added_at": "2023-11-10 19:54:35",

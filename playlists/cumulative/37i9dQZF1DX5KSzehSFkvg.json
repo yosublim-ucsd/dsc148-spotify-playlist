@@ -1006,7 +1006,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 172022,
       "name": "Nsiti",
       "url": "https://open.spotify.com/track/0qvOa81HDkZs2c07K6XtCE"
@@ -1176,6 +1176,24 @@
       "duration_ms": 211230,
       "name": "Talet Lghiba",
       "url": "https://open.spotify.com/track/6vEtT2Vu5MprdI69pATbLm"
+    },
+    {
+      "album": {
+        "name": "Taline",
+        "url": "https://open.spotify.com/album/1RKFJci69gAvYiezUyPB89"
+      },
+      "artists": [
+        {
+          "name": "Rajaa Belmir",
+          "url": "https://open.spotify.com/artist/6Ap4eCAS7mQixYK8mbbYAp"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199923,
+      "name": "Taline",
+      "url": "https://open.spotify.com/track/0RwL13X9AdtPI2SCSaJd3J"
     },
     {
       "album": {

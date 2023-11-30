@@ -1,29 +1,13 @@
 {
   "description": "You bring the ingredients. We bring the flavor. Enjoy la cena... Thanksgiving edition!",
-  "num_followers": 398726,
+  "num_followers": 398771,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjQ3NTRmOWFmMzhkMjExZmUwNWU4ODY0M2FmOTFlMDJmYjEyODI1",
+  "snapshot_id": "MCw5ZjIzNjJjODY2MDgxMmYyN2M3MDNlYWQxMDI4MTg2N2QwZGY0MWE2",
   "tracks": [
-    {
-      "added_at": "2023-11-20 19:57:55",
-      "album": {
-        "name": "Zona De Perigo",
-        "url": "https://open.spotify.com/album/6dj4bRg0LCMm7B2P5Xenq5"
-      },
-      "artists": [
-        {
-          "name": "Leo Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        }
-      ],
-      "duration_ms": 142151,
-      "name": "Zona De Perigo",
-      "url": "https://open.spotify.com/track/1jHgfC8T5KxUyC5Ldw6lk9"
-    },
     {
       "added_at": "2023-11-20 19:57:55",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 197186,
       "name": "La Distancia",
       "url": "https://open.spotify.com/track/0LpEr3qpmDQ1gEabnsQlGC"
+    },
+    {
+      "added_at": "2023-11-20 19:57:55",
+      "album": {
+        "name": "Zona De Perigo",
+        "url": "https://open.spotify.com/album/6dj4bRg0LCMm7B2P5Xenq5"
+      },
+      "artists": [
+        {
+          "name": "Leo Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        }
+      ],
+      "duration_ms": 142151,
+      "name": "Zona De Perigo",
+      "url": "https://open.spotify.com/track/1jHgfC8T5KxUyC5Ldw6lk9"
     },
     {
       "added_at": "2023-11-20 19:57:55",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-11-20 19:57:55",
       "album": {
-        "name": "Bienvenido a mi habitaci\u00f3n",
-        "url": "https://open.spotify.com/album/4nEsMSMUDN7x646cLbaXBp"
-      },
-      "artists": [
-        {
-          "name": "Georgina",
-          "url": "https://open.spotify.com/artist/71cjWNRukkIF8Ulh006x3b"
-        }
-      ],
-      "duration_ms": 192007,
-      "name": "Bienvenido a mi habitaci\u00f3n",
-      "url": "https://open.spotify.com/track/4NtU5Yq5SqaIbGjpbPmXw7"
-    },
-    {
-      "added_at": "2023-11-20 19:57:55",
-      "album": {
         "name": "Bailables",
         "url": "https://open.spotify.com/album/2LXPajOlTfGvlm6jm1oFtW"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 224133,
       "name": "Chocolat (Swing)",
       "url": "https://open.spotify.com/track/42gaDDxNCrQMkri7sQcqGq"
+    },
+    {
+      "added_at": "2023-11-20 19:57:55",
+      "album": {
+        "name": "Bienvenido a mi habitaci\u00f3n",
+        "url": "https://open.spotify.com/album/4nEsMSMUDN7x646cLbaXBp"
+      },
+      "artists": [
+        {
+          "name": "Georgina",
+          "url": "https://open.spotify.com/artist/71cjWNRukkIF8Ulh006x3b"
+        }
+      ],
+      "duration_ms": 192007,
+      "name": "Bienvenido a mi habitaci\u00f3n",
+      "url": "https://open.spotify.com/track/4NtU5Yq5SqaIbGjpbPmXw7"
     },
     {
       "added_at": "2023-11-20 19:57:55",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2023-11-20 19:57:55",
       "album": {
-        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
-        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
-      },
-      "artists": [
-        {
-          "name": "La Marisoul",
-          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
-        },
-        {
-          "name": "La Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
-        }
-      ],
-      "duration_ms": 185160,
-      "name": "Mar Y Cielo",
-      "url": "https://open.spotify.com/track/01OHq1JrkmDeyQTLQVxdTL"
-    },
-    {
-      "added_at": "2023-11-20 19:57:55",
-      "album": {
         "name": "Para Llevar",
         "url": "https://open.spotify.com/album/4WElfalmHN3xVtVcMJJxNW"
       },
@@ -1291,18 +1271,22 @@
     {
       "added_at": "2023-11-20 19:57:55",
       "album": {
-        "name": "It's Time",
-        "url": "https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx"
+        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
+        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
       },
       "artists": [
         {
-          "name": "Las Cafeteras",
-          "url": "https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz"
+          "name": "La Marisoul",
+          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+        },
+        {
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
         }
       ],
-      "duration_ms": 208320,
-      "name": "El Chuchumb\u00e9",
-      "url": "https://open.spotify.com/track/7lm82SH3x1PJGDeaNgpFc8"
+      "duration_ms": 185160,
+      "name": "Mar Y Cielo",
+      "url": "https://open.spotify.com/track/01OHq1JrkmDeyQTLQVxdTL"
     },
     {
       "added_at": "2023-11-20 19:57:55",
@@ -1331,18 +1315,18 @@
     {
       "added_at": "2023-11-20 19:57:55",
       "album": {
-        "name": "So\u00f1ar Contigo. Una Colecci\u00f3n de Sus Grandes Canciones",
-        "url": "https://open.spotify.com/album/2NsgXX7zdnsp3Ph6un8S08"
+        "name": "It's Time",
+        "url": "https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx"
       },
       "artists": [
         {
-          "name": "Zenet",
-          "url": "https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i"
+          "name": "Las Cafeteras",
+          "url": "https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz"
         }
       ],
-      "duration_ms": 239800,
-      "name": "Quien Sabe",
-      "url": "https://open.spotify.com/track/2bhLqV1h7texAwg4uEhBIx"
+      "duration_ms": 208320,
+      "name": "El Chuchumb\u00e9",
+      "url": "https://open.spotify.com/track/7lm82SH3x1PJGDeaNgpFc8"
     },
     {
       "added_at": "2023-11-20 19:57:55",
@@ -1359,6 +1343,22 @@
       "duration_ms": 131897,
       "name": "Una Piedra en el Cielo",
       "url": "https://open.spotify.com/track/5lJurIvlMy2V1NiF6Wasxu"
+    },
+    {
+      "added_at": "2023-11-20 19:57:55",
+      "album": {
+        "name": "So\u00f1ar Contigo. Una Colecci\u00f3n de Sus Grandes Canciones",
+        "url": "https://open.spotify.com/album/2NsgXX7zdnsp3Ph6un8S08"
+      },
+      "artists": [
+        {
+          "name": "Zenet",
+          "url": "https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i"
+        }
+      ],
+      "duration_ms": 239800,
+      "name": "Quien Sabe",
+      "url": "https://open.spotify.com/track/2bhLqV1h7texAwg4uEhBIx"
     },
     {
       "added_at": "2023-11-20 19:57:55",
@@ -1503,26 +1503,6 @@
     {
       "added_at": "2023-11-20 19:57:55",
       "album": {
-        "name": "Todo Cambi\u00f3",
-        "url": "https://open.spotify.com/album/1Zc8gfpNoHmszL1ybIF2jb"
-      },
-      "artists": [
-        {
-          "name": "Arthur Hanlon",
-          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
-        },
-        {
-          "name": "Mariangela",
-          "url": "https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf"
-        }
-      ],
-      "duration_ms": 218909,
-      "name": "Todo Cambi\u00f3",
-      "url": "https://open.spotify.com/track/0sYhfDMlg2G1NC0OclLoTx"
-    },
-    {
-      "added_at": "2023-11-20 19:57:55",
-      "album": {
         "name": "Guajira",
         "url": "https://open.spotify.com/album/4S06ERzg9mgSwWlfyZdO2V"
       },
@@ -1539,6 +1519,26 @@
       "duration_ms": 210461,
       "name": "Guajira",
       "url": "https://open.spotify.com/track/4HMLjIO0JWKskd4OcO66re"
+    },
+    {
+      "added_at": "2023-11-20 19:57:55",
+      "album": {
+        "name": "Todo Cambi\u00f3",
+        "url": "https://open.spotify.com/album/1Zc8gfpNoHmszL1ybIF2jb"
+      },
+      "artists": [
+        {
+          "name": "Arthur Hanlon",
+          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
+        },
+        {
+          "name": "Mariangela",
+          "url": "https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf"
+        }
+      ],
+      "duration_ms": 218909,
+      "name": "Todo Cambi\u00f3",
+      "url": "https://open.spotify.com/track/0sYhfDMlg2G1NC0OclLoTx"
     },
     {
       "added_at": "2023-11-20 19:57:55",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2023-11-20 19:57:55",
       "album": {
-        "name": "Rosalie (Espa\u00f1ol)",
-        "url": "https://open.spotify.com/album/67GSrPEYXBDbUL3QJB5eVk"
-      },
-      "artists": [
-        {
-          "name": "Lewis Del Mar",
-          "url": "https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR"
-        }
-      ],
-      "duration_ms": 258845,
-      "name": "Rosalie (Espa\u00f1ol)",
-      "url": "https://open.spotify.com/track/40Kms8jOb2c1fFcCWEoc9O"
-    },
-    {
-      "added_at": "2023-11-20 19:57:55",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/01NDjxuV02b5rlRHyT3nUU"
       },
@@ -1715,18 +1699,18 @@
     {
       "added_at": "2023-11-20 19:57:55",
       "album": {
-        "name": "Caminando por Quisqueya",
-        "url": "https://open.spotify.com/album/1z6vx39dIoXCScxQ8c6xn4"
+        "name": "Rosalie (Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/67GSrPEYXBDbUL3QJB5eVk"
       },
       "artists": [
         {
-          "name": "ChiChi Peralta",
-          "url": "https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou"
+          "name": "Lewis Del Mar",
+          "url": "https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR"
         }
       ],
-      "duration_ms": 360000,
-      "name": "Caminando por Quisqueya",
-      "url": "https://open.spotify.com/track/2avb4jaEXShHqfAF3yuKhX"
+      "duration_ms": 258845,
+      "name": "Rosalie (Espa\u00f1ol)",
+      "url": "https://open.spotify.com/track/40Kms8jOb2c1fFcCWEoc9O"
     },
     {
       "added_at": "2023-11-20 19:57:55",
@@ -1743,6 +1727,22 @@
       "duration_ms": 221986,
       "name": "En Medio Del Jard\u00edn",
       "url": "https://open.spotify.com/track/3Yqh9YIKQaI7EwhKWIXUI5"
+    },
+    {
+      "added_at": "2023-11-20 19:57:55",
+      "album": {
+        "name": "Caminando por Quisqueya",
+        "url": "https://open.spotify.com/album/1z6vx39dIoXCScxQ8c6xn4"
+      },
+      "artists": [
+        {
+          "name": "ChiChi Peralta",
+          "url": "https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou"
+        }
+      ],
+      "duration_ms": 360000,
+      "name": "Caminando por Quisqueya",
+      "url": "https://open.spotify.com/track/2avb4jaEXShHqfAF3yuKhX"
     },
     {
       "added_at": "2023-11-20 19:57:55",

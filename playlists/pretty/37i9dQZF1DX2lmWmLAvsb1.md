@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lmWmLAvsb1.md) - [plain]
 
 > The biggest songs in Latin America in 2019\. Cover: Daddy Yankee
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,813 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,844 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lmWmLAvsb1.md) - [plain]
 | 46 | [Jangueo](https://open.spotify.com/track/1bRpSCFv6P2OUhciByeRYR) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [LOST](https://open.spotify.com/album/3bncOq9bM24eCefxlJvrtK) | 4:19 |
 | 47 | [Aleluya](https://open.spotify.com/track/23CsjGOYDQiJpX44BSn9TM) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Ahora](https://open.spotify.com/album/4BvD9caT3ZohqNQFcR8dVD) | 2:38 |
 | 48 | [Sigues Con El](https://open.spotify.com/track/7sQKy5vlPQllr0k9IjYJv3) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx) | [Sigues Con El](https://open.spotify.com/album/1y0pdsLO6cixGzAv7Sf8rf) | 3:46 |
-| 49 | [La Boca](https://open.spotify.com/track/0UQwlF2pRkr1lMN6kNNUj3) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Para Aventuras y Curiosidades](https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff) | 3:26 |
-| 50 | [Te Quemaste](https://open.spotify.com/track/4fj7e6Tc48Bmomwyz2Z2XC) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [ADN](https://open.spotify.com/album/0CUMVFalkFhZM6Xo0ErxLi) | 3:19 |
+| 49 | [Te Quemaste](https://open.spotify.com/track/4fj7e6Tc48Bmomwyz2Z2XC) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [ADN](https://open.spotify.com/album/0CUMVFalkFhZM6Xo0ErxLi) | 3:19 |
+| 50 | [La Boca](https://open.spotify.com/track/0UQwlF2pRkr1lMN6kNNUj3) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Para Aventuras y Curiosidades](https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff) | 3:26 |
 
-Snapshot ID: `MCwxODVkMmUwNmZiMmM5YTgyZTllNWJiZTlhOTRhMjg5YTE3YWY0ZGIz`
+Snapshot ID: `MCxmOTVhYzliNmI1YTUzMWE4NjBjMmNhYWU2NDI2NDljOTZjMTRhZWU1`

@@ -1,12 +1,12 @@
 {
   "description": "Solo piano recordings of classic rags",
-  "num_followers": 4513,
+  "num_followers": 4518,
   "original_name": "Ragtime Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOWQ1N2M5NGI2ZWE3YjA5MGM3NzZiYzJiZjdjMWM1NTUwMjUwYjU3",
+  "snapshot_id": "MCxkNzdlNDIyMTllNmM3ZmY3ZTNhYzU3OGEyZDE0NzYzN2M2OTkwMmEz",
   "tracks": [
     {
       "added_at": "2020-08-19 17:18:36",
@@ -299,22 +299,6 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Ol' Muddy",
-        "url": "https://open.spotify.com/album/4N3q6DQATMXo0Bj5z9DQwe"
-      },
-      "artists": [
-        {
-          "name": "Sue Keller",
-          "url": "https://open.spotify.com/artist/1LjB5pWtBa02kIACdPb6tx"
-        }
-      ],
-      "duration_ms": 210253,
-      "name": "Castle House Rag (James Reese Europe, 1914)",
-      "url": "https://open.spotify.com/track/07ZKL0jVrjxD1DqxizHXSL"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
         "name": "50 Ragtime Classics: The Best of Scott Joplin",
         "url": "https://open.spotify.com/album/2EoRBT3U0HLCnbWl7swfXY"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 112684,
       "name": "Wall Street Rag",
       "url": "https://open.spotify.com/track/3hTDYslHMaFW29u4yU07Vb"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
+        "name": "Ol' Muddy",
+        "url": "https://open.spotify.com/album/4N3q6DQATMXo0Bj5z9DQwe"
+      },
+      "artists": [
+        {
+          "name": "Sue Keller",
+          "url": "https://open.spotify.com/artist/1LjB5pWtBa02kIACdPb6tx"
+        }
+      ],
+      "duration_ms": 210253,
+      "name": "Castle House Rag (James Reese Europe, 1914)",
+      "url": "https://open.spotify.com/track/07ZKL0jVrjxD1DqxizHXSL"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -383,22 +383,6 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Syncopated Musings: Classic Piano Rags And Ragtime Waltzes",
-        "url": "https://open.spotify.com/album/7b8BlvfYIPvB31z8XxfXx3"
-      },
-      "artists": [
-        {
-          "name": "Bryan Wright",
-          "url": "https://open.spotify.com/artist/03KJxEQYBqhmSqdqI1tEgf"
-        }
-      ],
-      "duration_ms": 255826,
-      "name": "Weeping Willow (Scott Joplin)",
-      "url": "https://open.spotify.com/track/5STf3aWfQmVQmv5VPzxS1N"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
         "name": "100 Years of Ragtime",
         "url": "https://open.spotify.com/album/5DHHZDFHXM1iBKCvG45ODR"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 209247,
       "name": "American Beauty Rag",
       "url": "https://open.spotify.com/track/69suUSUufKh4IlTRG2t88Z"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
+        "name": "Syncopated Musings: Classic Piano Rags And Ragtime Waltzes",
+        "url": "https://open.spotify.com/album/7b8BlvfYIPvB31z8XxfXx3"
+      },
+      "artists": [
+        {
+          "name": "Bryan Wright",
+          "url": "https://open.spotify.com/artist/03KJxEQYBqhmSqdqI1tEgf"
+        }
+      ],
+      "duration_ms": 255826,
+      "name": "Weeping Willow (Scott Joplin)",
+      "url": "https://open.spotify.com/track/5STf3aWfQmVQmv5VPzxS1N"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -579,6 +579,22 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
+        "name": "Joseph F. Lamb: The Complete Stark Rags (1908-1919)",
+        "url": "https://open.spotify.com/album/0b5ts7qqK1ovw09OJFOUiv"
+      },
+      "artists": [
+        {
+          "name": "Guido Nielsen",
+          "url": "https://open.spotify.com/artist/2hk0CLU0IghkuxFs4jx8ZU"
+        }
+      ],
+      "duration_ms": 251906,
+      "name": "Ethiopia",
+      "url": "https://open.spotify.com/track/6vKrEa3NCMxkGstSrBI71I"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
         "name": "Ragtime Classics, 1901-1919",
         "url": "https://open.spotify.com/album/5HQEWztM9JM2jOdXVZpb9b"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 205773,
       "name": "Grace and Beauty",
       "url": "https://open.spotify.com/track/0TtzBFuB0p0bqsucSbwYaJ"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
-        "name": "Joseph F. Lamb: The Complete Stark Rags (1908-1919)",
-        "url": "https://open.spotify.com/album/0b5ts7qqK1ovw09OJFOUiv"
-      },
-      "artists": [
-        {
-          "name": "Guido Nielsen",
-          "url": "https://open.spotify.com/artist/2hk0CLU0IghkuxFs4jx8ZU"
-        }
-      ],
-      "duration_ms": 251906,
-      "name": "Ethiopia",
-      "url": "https://open.spotify.com/track/6vKrEa3NCMxkGstSrBI71I"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -695,22 +695,6 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "James Scott: The Complete Works (Rags, Waltzes & Songs)",
-        "url": "https://open.spotify.com/album/0j118C9e7zYtG2bV8JdiI4"
-      },
-      "artists": [
-        {
-          "name": "Guido Nielsen",
-          "url": "https://open.spotify.com/artist/2hk0CLU0IghkuxFs4jx8ZU"
-        }
-      ],
-      "duration_ms": 233893,
-      "name": "Rag Sentimental",
-      "url": "https://open.spotify.com/track/3bG4me64hbVIVO0zAIkohe"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
         "name": "The Complete Piano Music Of Scott Joplin",
         "url": "https://open.spotify.com/album/1Ylmy8lsNu3LIlGqYCdUhZ"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 159960,
       "name": "Harlem Rag",
       "url": "https://open.spotify.com/track/3NcbV4lOWtvMZuyiWk4pt9"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
+        "name": "James Scott: The Complete Works (Rags, Waltzes & Songs)",
+        "url": "https://open.spotify.com/album/0j118C9e7zYtG2bV8JdiI4"
+      },
+      "artists": [
+        {
+          "name": "Guido Nielsen",
+          "url": "https://open.spotify.com/artist/2hk0CLU0IghkuxFs4jx8ZU"
+        }
+      ],
+      "duration_ms": 233893,
+      "name": "Rag Sentimental",
+      "url": "https://open.spotify.com/track/3bG4me64hbVIVO0zAIkohe"
     },
     {
       "added_at": "2020-08-19 17:18:36",

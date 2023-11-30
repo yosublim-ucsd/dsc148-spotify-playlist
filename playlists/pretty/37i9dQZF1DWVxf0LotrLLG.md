@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: Ozuna
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,772 likes - 205 songs - 10 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,801 likes - 205 songs - 10 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -214,4 +214,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 204 | [Sale Pa la Calle](https://open.spotify.com/track/5oAzWgKYosXee4Xfjpkbt6) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [EVERYBODY GO TO THE DISCOTEK](https://open.spotify.com/album/11UJfH39O0VqLiQGLW0D0e) | 3:31 |
 | 205 | [Lollipop](https://open.spotify.com/track/3cDyocF0Ibdfs1SFQk5cLZ) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [EVERYBODY GO TO THE DISCOTEK](https://open.spotify.com/album/11UJfH39O0VqLiQGLW0D0e) | 3:19 |
 
-Snapshot ID: `MCxmMzU2OGViNDZmNmRjNzc3ODg4MjI2YTRkZmMxNWYwYjQyN2Y4MDMw`
+Snapshot ID: `MCw3Mzk3N2E2NzQ5NDJlNzg4NjVlZDZlYmRmYzA2NjVkYzNlZDMxYTBh`

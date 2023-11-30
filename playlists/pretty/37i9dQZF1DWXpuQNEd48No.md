@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 
 > Yo Hai Haryanvi Hip\-Hop! Cover: Elvish Yadav
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,789 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,873 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 | 28 | [Meter Khench Ke](https://open.spotify.com/track/5nvzggXBYnjxp4Vvhl1EEF) | [R Cruze](https://open.spotify.com/artist/3KvTpIp5PcyoMTKRmi2H4s), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp), [VIRTUAL\_AF](https://open.spotify.com/artist/1Ik6g05IoSfFmpqi4Jg7Kc), [Love Kataria](https://open.spotify.com/artist/68Zi4yF7GdesbYgTEEZPDZ), [Fiza Choudhary](https://open.spotify.com/artist/2mMUQGaKHQGZieMXnJpHiB) | [Meter Khench Ke](https://open.spotify.com/album/1iipktugZewHMt2zpdT1wc) | 2:57 |
 | 29 | [Pataka](https://open.spotify.com/track/23jHzNShbAaRsuEmQJN5hE) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ), [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY) | [Pataka](https://open.spotify.com/album/1RHx6SdPqgoYkmpiOqV29P) | 3:24 |
 | 30 | [Convoy](https://open.spotify.com/track/70ouErfLUxUY2WQwcQI2fO) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [Convoy](https://open.spotify.com/album/4ZcTQRJtPrN8azjI83NHNg) | 4:35 |
-| 31 | [Shok Albaadi](https://open.spotify.com/track/5cJlyLJumez6qSJyhfoDD7) | [Monty Badanpur](https://open.spotify.com/artist/0sS5ed7XGTBxG0PhOK8SYa) | [Shok Albaadi](https://open.spotify.com/album/3qXAk8FMwN1oY4y4QQeUFw) | 2:50 |
+| 31 | [Been](https://open.spotify.com/track/4hs1cApFZPa3OeVgwqt0eG) | [Kaka WRLD](https://open.spotify.com/artist/3U9BgfNjBB0CXWhrXdtdbv), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Renuka Panwar](https://open.spotify.com/artist/2wDTo0nO2ZKJN7VUeGmuyg), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me) | [Been](https://open.spotify.com/album/4YGwBcyeLlawZd9QYg21Xg) | 3:04 |
 | 32 | [Death Row](https://open.spotify.com/track/0Rx6TVOQ137NAN4UZF6GmT) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Death Row](https://open.spotify.com/album/7IflR8avCHPbAfp5wOpoD3) | 3:41 |
-| 33 | [Been](https://open.spotify.com/track/4hs1cApFZPa3OeVgwqt0eG) | [Kaka WRLD](https://open.spotify.com/artist/3U9BgfNjBB0CXWhrXdtdbv), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Renuka Panwar](https://open.spotify.com/artist/2wDTo0nO2ZKJN7VUeGmuyg), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me) | [Been](https://open.spotify.com/album/4YGwBcyeLlawZd9QYg21Xg) | 3:04 |
+| 33 | [Shok Albaadi](https://open.spotify.com/track/5cJlyLJumez6qSJyhfoDD7) | [Monty Badanpur](https://open.spotify.com/artist/0sS5ed7XGTBxG0PhOK8SYa) | [Shok Albaadi](https://open.spotify.com/album/3qXAk8FMwN1oY4y4QQeUFw) | 2:50 |
 | 34 | [Badmos Chora](https://open.spotify.com/track/1aN0nqXAM5fgrsmltCMUgq) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [Mtv Hustle 2.0](https://open.spotify.com/album/2WbTyQKy64ReQPkxN4pR8R) | 2:21 |
 | 35 | [Haryane Aale](https://open.spotify.com/track/5RQHt34f1wn4W8QMetB3Nf) | [Badal](https://open.spotify.com/artist/0aLbfu2yo1hLo6J0SNBSPp), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Mtv Hustle 03 Represent Episode 5](https://open.spotify.com/album/1ilZ2aAxhdtzQDqBvtm1FR) | 2:52 |
 | 36 | [Success](https://open.spotify.com/track/4dO5LtlRj5wqdVVrDHjeh3) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [Success](https://open.spotify.com/album/7K4xHrateeQtpa7n3bV0XN) | 4:01 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 | 47 | [MAHAKAAL](https://open.spotify.com/track/6bwmcJiXjx2297D0mgdeFF) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [MAHAKAAL](https://open.spotify.com/album/6P1oRqxxhiRkmOvSdG0hw0) | 3:19 |
 | 48 | [Jaat Warriors](https://open.spotify.com/track/6oWxnsiYG5bj2tqhDcdlRY) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE), [PRNCE SIDHU](https://open.spotify.com/artist/1qRoIdvXPOUe0Omn4NsFp4) | [Jaat Warriors](https://open.spotify.com/album/0XMUkwivt9uRvZtVhrSk4J) | 2:43 |
 | 49 | [Sneeze](https://open.spotify.com/track/0ssV2OWkon59eAeR7gEpXZ) | [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM), [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Sneeze](https://open.spotify.com/album/0i9EeZFCVSRa3FbSeLF64o) | 4:16 |
-| 50 | [Mcoca](https://open.spotify.com/track/1xbltijhuDs1FqqnBplv8l) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Mcoca](https://open.spotify.com/album/1LTxGYiIFEo8KzqpEkJKS1) | 3:13 |
+| 50 | [Criminal](https://open.spotify.com/track/4yIUYWDDXTDkYl616suCaw) | [Devender Ahlawat](https://open.spotify.com/artist/0qzAeY2wBeUBxDUbBex1Hg) | [Criminal](https://open.spotify.com/album/4RXG9KfqTKbtWhsSZwVTel) | 3:51 |
 
-Snapshot ID: `MCw1ZDI3NTZkZjU1ZmM2MjQzNjEzMjE5NzkyYWU5ZmNlNDJlZTFlNmVi`
+Snapshot ID: `MCw1MDVmYWE4ODg0YzIyZDQ3MjU3ZDAyZmE2MDQzMTAwNjNkYjExMGNi`

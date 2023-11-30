@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVF0pvJ1YrL7.md) - [plain]
 
 > Chaos in electronic form.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,168 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,222 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVF0pvJ1YrL7.md) - [plain]
 | 3 | [Fake Sweat](https://open.spotify.com/track/4Htt6eBXW3Kwby7r81FldQ) | [VHS Head](https://open.spotify.com/artist/4yeeydDo3JBOENa72J7KdV) | [Phocus](https://open.spotify.com/album/7uQddY2cwsWdH6Oc0uhbwg) | 3:59 |
 | 4 | [Junkie](https://open.spotify.com/track/3WIJ9GLscKxOIG1oszGvFo) | [urika's bedroom](https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw) | [Junkie](https://open.spotify.com/album/4GcXFLrJYvYYiu9NXV51yg) | 3:36 |
 | 5 | [‡Damontoid](https://open.spotify.com/track/12S65ewG2HEKUvG3zsjL5C) | [Yuko Araki](https://open.spotify.com/artist/4QebQToYFU8PDWW21ZWw4U) | [IV](https://open.spotify.com/album/0JbWPM7xG2da5hL8eOtW3S) | 4:32 |
-| 6 | [Barcarolle](https://open.spotify.com/track/5yTYVsQPA7ujLOANcjdDTW) | [Saloli](https://open.spotify.com/artist/6tZ3TVCfSW7ZuoPovDYKWj) | [The Deep End](https://open.spotify.com/album/3Fwmzb3B5GXy6aUWfFEFXm) | 4:42 |
+| 6 | [Blow Up Yr Life \(U Need To\)](https://open.spotify.com/track/5c56mfcwKfh788koF3CCRy) | [Nina Keith](https://open.spotify.com/artist/1nuCYFGzi0e4xb8lE18m2i), [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g), [Qur'an Shaheed](https://open.spotify.com/artist/6zYf3M745APT179QsjrlB4) | [Blow Up Yr Life \(U Need To\)](https://open.spotify.com/album/0Hn0apOsWV86eg8YDjsMAB) | 4:46 |
 | 7 | [Patterns](https://open.spotify.com/track/7hP1frR53QoyVsDnlypOdm) | [Just Bee](https://open.spotify.com/artist/1bd502sofLQ6fHDPnU5JPx), [David Boring](https://open.spotify.com/artist/3jlBKVMzOyLuwLWxkkiwKj) | [Patterns](https://open.spotify.com/album/5VF24DhApN026eJJMMWrW6) | 3:51 |
-| 8 | [Blow Up Yr Life \(U Need To\)](https://open.spotify.com/track/5c56mfcwKfh788koF3CCRy) | [Nina Keith](https://open.spotify.com/artist/1nuCYFGzi0e4xb8lE18m2i), [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g), [Qur'an Shaheed](https://open.spotify.com/artist/6zYf3M745APT179QsjrlB4) | [Blow Up Yr Life \(U Need To\)](https://open.spotify.com/album/0Hn0apOsWV86eg8YDjsMAB) | 4:46 |
+| 8 | [Barcarolle](https://open.spotify.com/track/5yTYVsQPA7ujLOANcjdDTW) | [Saloli](https://open.spotify.com/artist/6tZ3TVCfSW7ZuoPovDYKWj) | [The Deep End](https://open.spotify.com/album/3Fwmzb3B5GXy6aUWfFEFXm) | 4:42 |
 | 9 | [wondering dub](https://open.spotify.com/track/6zadbcR4B6WgdOYydQK1bv) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [wondering dub](https://open.spotify.com/album/335nWdnySpRgISVX7hEb4f) | 2:07 |
 | 10 | [Disposal Unit \(Imperium Mix\)](https://open.spotify.com/track/2BPvUFVjoIphztzsnHJTi2) | [Jesper Kyd](https://open.spotify.com/artist/3m6alJyeKYSCZ8078ttfaH) | [Warhammer 40,000: Darktide \(Original Soundtrack\)](https://open.spotify.com/album/3Ie6KjbPXKiCTFiEAxNBO0) | 3:33 |
 | 11 | [Eden Transit](https://open.spotify.com/track/16q8cwecGhHKGGiwTnkutf) | [猫 シ Corp.](https://open.spotify.com/artist/4eYVVrnphe4blxWuzahYQE) | [Hiraeth](https://open.spotify.com/album/6VFTvpLVvfzUTMtNBloDEv) | 4:15 |
@@ -43,13 +43,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVF0pvJ1YrL7.md) - [plain]
 | 33 | [The Steady Heart](https://open.spotify.com/track/0ZRoGWrVDfK5J6nbZTywr2) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [The Mosaic of Transformation](https://open.spotify.com/album/2uacatJeUrWB2Fj3epyMgA) | 5:39 |
 | 34 | [Lost and Found \(Lost Mix\)](https://open.spotify.com/track/0t0hsYPyMuE4siG7GkDded) | [Objekt](https://open.spotify.com/artist/44z1nVVXZE8d4njcQmQLWc) | [Cocoon Crush](https://open.spotify.com/album/2vE3mTa7olXTXbHb6t2XjE) | 2:32 |
 | 35 | [Berries](https://open.spotify.com/track/19g98vnDqahXd7VuPx6LaF) | [Kapitan](https://open.spotify.com/artist/0d1tWd8tcaMhKHn8fHKgY9) | [Alaska](https://open.spotify.com/album/41Kfl8Sn5L2S6blNTeB4lY) | 3:12 |
-| 36 | [Loba](https://open.spotify.com/track/2Ou5kaMPS1GW0S06y584s3) | [Quixosis](https://open.spotify.com/artist/1kBj1OQBW8iSmYbxIIQgcA) | [Especies Afines](https://open.spotify.com/album/31XwRvy0U28EMB3Yqb6I1g) | 5:48 |
-| 37 | [Senhor Zalla](https://open.spotify.com/track/2veEIrSGcCszmVKyEuiIVd) | [Shelter](https://open.spotify.com/artist/3k2mZ2vmhiARdgLHAuCkGT) | [Zon Zon Zon](https://open.spotify.com/album/7fUIL0vt55dn93nWfRgBWj) | 5:08 |
+| 36 | [Senhor Zalla](https://open.spotify.com/track/2veEIrSGcCszmVKyEuiIVd) | [Shelter](https://open.spotify.com/artist/3k2mZ2vmhiARdgLHAuCkGT) | [Zon Zon Zon](https://open.spotify.com/album/7fUIL0vt55dn93nWfRgBWj) | 5:08 |
+| 37 | [Loba](https://open.spotify.com/track/2Ou5kaMPS1GW0S06y584s3) | [Quixosis](https://open.spotify.com/artist/1kBj1OQBW8iSmYbxIIQgcA) | [Especies Afines](https://open.spotify.com/album/31XwRvy0U28EMB3Yqb6I1g) | 5:48 |
 | 38 | [Cradle \- Patience Rework](https://open.spotify.com/track/66Qij0mjaVDgFiaQpQkPY3) | [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm), [Ben Frost](https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl) | [Cradle \(Patience Rework\)](https://open.spotify.com/album/2SOtUwtSq0hOOT2X7FtziA) | 5:24 |
 | 39 | [Low](https://open.spotify.com/track/2nJ5KcsR3jDf4XKB2nSlTi) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [Donne che Corrono coi Lupi](https://open.spotify.com/album/0hMOgkYpG0Koyu4turzyQ1) | 1:38 |
-| 40 | [Spafft Moutafft Seeall + California](https://open.spotify.com/track/4iveIsFbEyag9lKazFiXg6) | [Rimarimba](https://open.spotify.com/artist/1i51O70gGrEqrngjNWW3nm) | [In the Woods](https://open.spotify.com/album/0lHutFsPzdkHiR1tcJ3Hhm) | 4:35 |
+| 40 | [Island Birdy](https://open.spotify.com/track/2MchMFQ0BSYrIWd5eMqIpy) | [Howie Lee](https://open.spotify.com/artist/5y2TmxjZITDjLsfUxjlkcD) | [Birdy Island](https://open.spotify.com/album/2Juy4gK69leZMQohtTDJKv) | 4:18 |
 | 41 | [Dazzle Anew](https://open.spotify.com/track/4jPGf8NTH7H5L9zbH8r7KK) | [Objekt](https://open.spotify.com/artist/44z1nVVXZE8d4njcQmQLWc) | [Cocoon Crush](https://open.spotify.com/album/2vE3mTa7olXTXbHb6t2XjE) | 3:36 |
-| 42 | [Island Birdy](https://open.spotify.com/track/2MchMFQ0BSYrIWd5eMqIpy) | [Howie Lee](https://open.spotify.com/artist/5y2TmxjZITDjLsfUxjlkcD) | [Birdy Island](https://open.spotify.com/album/2Juy4gK69leZMQohtTDJKv) | 4:18 |
+| 42 | [Spafft Moutafft Seeall + California](https://open.spotify.com/track/4iveIsFbEyag9lKazFiXg6) | [Rimarimba](https://open.spotify.com/artist/1i51O70gGrEqrngjNWW3nm) | [In the Woods](https://open.spotify.com/album/0lHutFsPzdkHiR1tcJ3Hhm) | 4:35 |
 | 43 | [Punta Alem](https://open.spotify.com/track/6rWyZPJd3Pmn6ng44kg4Wr) | [Gora Sou](https://open.spotify.com/artist/6GqE7gm7ep2CLEjN03wReS) | [Ramifications](https://open.spotify.com/album/2sbW0BHAt4RibZnl5jHGtZ) | 4:46 |
 | 44 | [Occurrence at the Triple Door](https://open.spotify.com/track/1VJC2cp8lqk8zTEujQDWPu) | [Strategy](https://open.spotify.com/artist/5EkvvANKznoDO5bi8W7nXs) | [The Infinity File](https://open.spotify.com/album/6Mpti6xmLwJMRVLAPL6M3Y) | 3:40 |
 | 45 | [Dencity](https://open.spotify.com/track/76IRaPhfYRF9xVZC3qTdR7) | [Trans\-4M](https://open.spotify.com/artist/19BCL3CRrl1hMq8cIJV4fj) | [Sublunar Oracles](https://open.spotify.com/album/0ErOiDberv4cJ2Kxj4J2fk) | 6:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVF0pvJ1YrL7.md) - [plain]
 | 49 | [Hypogean](https://open.spotify.com/track/2Dmu5AIckVaWZAYq5w7jhU) | [Ans M](https://open.spotify.com/artist/5JSQJFQcdMQIvt1iKnbOyF) | [Cicada Lullaby](https://open.spotify.com/album/3cRBLw9qVfwjz6jwNGkKDb) | 4:30 |
 | 50 | [Coris](https://open.spotify.com/track/1G5b1MCRsBsC9T53vv5SH9) | [OVSICORI](https://open.spotify.com/artist/0MVM5Khj39EkpVtLvU9Ujp) | [Bucle](https://open.spotify.com/album/0e2ihe6UiQ1SL73u98L98b) | 7:00 |
 
-Snapshot ID: `MCw2YzAxNjliOTYyZDEyMDAwZmJjYWVkYjZkZjRjNmI4ZGUxYzk1NDYz`
+Snapshot ID: `MCxkOWE1MGRiODZhNjg1YjU2NDQ3ZDIyMzI5NWNkOTFkMGNjOTgwOTdh`

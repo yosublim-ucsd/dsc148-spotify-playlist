@@ -5424,10 +5424,28 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 149623,
       "name": "Stuck On You",
       "url": "https://open.spotify.com/track/3MPGIPuYWDP3ToQtcHd6cK"
+    },
+    {
+      "album": {
+        "name": "Stuck On You",
+        "url": "https://open.spotify.com/album/3L26xsJtlMRvbB4ECsjEX6"
+      },
+      "artists": [
+        {
+          "name": "MashBit",
+          "url": "https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149631,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/6aevLJZYhcT7IW8WVspnIS"
     },
     {
       "album": {

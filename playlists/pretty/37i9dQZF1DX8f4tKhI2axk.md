@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f4tKhI2axk.md) - [plain]
 
 > Island vibes for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,151 likes - 40 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,230 likes - 40 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f4tKhI2axk.md) - [plain]
 | 28 | [Could You Be Loved](https://open.spotify.com/track/6ZXmTH4DpP07a2TvHx1EF9) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \- The Best Of Bob Marley And The Wailers](https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn) | 3:57 |
 | 29 | [Tomorrow People](https://open.spotify.com/track/07QZEz7d4OS6vmS1iiwJCc) | [Ziggy Marley & The Melody Makers](https://open.spotify.com/artist/3Z2jmNAP2UaGa8lPpi54wD) | [Conscious Party](https://open.spotify.com/album/31dATgHjk7MwSkzrtNUurs) | 3:38 |
 | 30 | [The Harder They Come](https://open.spotify.com/track/2XIr0KTybGQsC1SFfeaZhI) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Harder They Come \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4oxdKcC9epGo9viy1j8fN7) | 3:39 |
-| 31 | [Oh Carolina](https://open.spotify.com/track/7MjTPvXSAYB1NyzXLQKsMn) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Pure Pleasure](https://open.spotify.com/album/4tOYuq5DyDsY1rOSluTUcg) | 3:10 |
-| 32 | [007 \(Shanty Town\)](https://open.spotify.com/track/0lwHFB5OUlBeiXyaEOKJd6) | [Desmond Dekker & The Aces](https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt) | [007 Shanty Town](https://open.spotify.com/album/76noJaSuS2UFRm3QBU2hZl) | 2:34 |
+| 31 | [007 \(Shanty Town\)](https://open.spotify.com/track/0lwHFB5OUlBeiXyaEOKJd6) | [Desmond Dekker & The Aces](https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt) | [007 Shanty Town](https://open.spotify.com/album/76noJaSuS2UFRm3QBU2hZl) | 2:34 |
+| 32 | [Oh Carolina](https://open.spotify.com/track/7MjTPvXSAYB1NyzXLQKsMn) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Pure Pleasure](https://open.spotify.com/album/4tOYuq5DyDsY1rOSluTUcg) | 3:10 |
 | 33 | [Country Road](https://open.spotify.com/track/78idK1ANg6tbO8d67GD09B) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Funky Kingston](https://open.spotify.com/album/7a341nZsSfwyBsq1tMPETz) | 3:25 |
 | 34 | [Zungguzungguguzungguzeng](https://open.spotify.com/track/4czopM9AcLjrH4IunzRoBg) | [Yellowman](https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a) | [Most Wanted Series \- Yellowman](https://open.spotify.com/album/7nPRCptBHN7td5mKb6ON3N) | 6:27 |
 | 35 | [Here I Go Again](https://open.spotify.com/track/07gLSfLyr23jSKaUpRgR1B) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [J\-Status](https://open.spotify.com/artist/28ykFujzSxWjvgZ7owaROx) | [Music Of The Sun](https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz) | 4:11 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f4tKhI2axk.md) - [plain]
 | 39 | [Put a Little Love](https://open.spotify.com/track/0yQLIH6DH7Hop9K1eHLzVL) | [Natural Vibrations](https://open.spotify.com/artist/2u0CzUCFU8OEoIFORUq6wJ) | [All Natural](https://open.spotify.com/album/3pwOfQqtWgH4duJxZm5pax) | 4:24 |
 | 40 | [Pressure \(feat\. Buju Banton\) \- Remix](https://open.spotify.com/track/3mjsWpaYzIWJQcYgO7VtUA) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Pressure \(feat\. Buju Banton\) \[Remix\]](https://open.spotify.com/album/4ECWzBSar0g4vOfVZJRjp2) | 3:58 |
 
-Snapshot ID: `MCw1ZDYwYjE0NTJlNTUzZTE5YjNiZTdkOGU4YjM2NGNlYjYyMThjZjZj`
+Snapshot ID: `MCxlMmM2ODRjZTE4ZTg3NmM2MDRjZDFiZjkyNDg2OWYxZDRmOGYzY2Zm`

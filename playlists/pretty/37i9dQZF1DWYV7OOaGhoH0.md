@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > The best in folk & acoustic today featuring music from Rachel Zegler
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,864,437 likes - 101 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,864,598 likes - 101 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 | 100 | [Miles Are Wide](https://open.spotify.com/track/7CGfeNaZoVLJRBKB15B1jK) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [What Remains](https://open.spotify.com/album/69vVun5LtcOyTDYJEp5UEb) | 3:54 |
 | 101 | [Honey](https://open.spotify.com/track/1ALH9oRd8FqjfsSH0d8Ft4) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Honey](https://open.spotify.com/album/37OWM40EuYKeBHWCBHJyq9) | 4:36 |
 
-Snapshot ID: `MCxjZjIyZjFjOTljYWRiZTg3MmQ5MTJkMjQxMjBlM2U2ZDBhMjJlNjIx`
+Snapshot ID: `MCwzOWZhOWJhYjU2MWIwYTM2YTVlMDU3NTgzNWU4OTAwYjljNGY4NWZj`

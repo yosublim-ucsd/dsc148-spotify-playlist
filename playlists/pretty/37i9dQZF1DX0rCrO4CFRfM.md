@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 
 > Relax to acoustic versions of your favorite rock songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 960,150 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 960,294 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 | 22 | [Freak on a Leash \(feat\. Amy Lee\) \- Live At MTV Studio, NYC, 2006](https://open.spotify.com/track/0CMo36AWojJ04Gb3GKf604) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk) | [MTV Unplugged \(Live\)](https://open.spotify.com/album/3IdmuALhor6bV32o4VVSFo) | 3:55 |
 | 23 | [Control \- Acoustic Version](https://open.spotify.com/track/325aNb4eh8HesYlrJmLSMX) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 4:07 |
 | 24 | [I Wanna Get Lost With You \(Acoustic 2015\)](https://open.spotify.com/track/1gLVsT8unGZfx1G6DGJyp2) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Keep the Village Alive \(Deluxe\)](https://open.spotify.com/album/5NKgyV3NPyX3ErJCgctHgW) | 4:17 |
-| 25 | [Boxes \- Acoustic](https://open.spotify.com/track/09gtDKL49tnLXMwN68D7JO) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Boxes \(Acoustic\)](https://open.spotify.com/album/7z93UaPhXkm2bMjoWltATK) | 4:22 |
-| 26 | [Vagabond \- Acoustic Version](https://open.spotify.com/track/6HzpmmaLVHC88XQY4e0YZL) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6TqFe1KFG3NdofscJrSPc4) | 2:40 |
+| 25 | [Vagabond \- Acoustic Version](https://open.spotify.com/track/6HzpmmaLVHC88XQY4e0YZL) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6TqFe1KFG3NdofscJrSPc4) | 2:40 |
+| 26 | [Boxes \- Acoustic](https://open.spotify.com/track/09gtDKL49tnLXMwN68D7JO) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Boxes \(Acoustic\)](https://open.spotify.com/album/7z93UaPhXkm2bMjoWltATK) | 4:22 |
 | 27 | [Talihina Sky \- Acoustic Version](https://open.spotify.com/track/1DNM1bkIEzqGrCcQndWl1C) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Talihina Sky](https://open.spotify.com/album/7f9i3ESobBA31kfdfqXQSG) | 3:26 |
 | 28 | [The Funeral \- Live Acoustic](https://open.spotify.com/track/5t6CC8sf3ffzDozMcboqBx) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Acoustic at The Ryman \(Live\)](https://open.spotify.com/album/7aXRvfGlrAyi8ALrvQBWTR) | 5:07 |
 | 29 | [Radioactive \- Live London Sessions / 2013](https://open.spotify.com/track/3T09JC1tNKcHZPhisKKUm8) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions \(Expanded Edition / Super Deluxe\)](https://open.spotify.com/album/0LLA5YL3g2UReWlP7nWqGh) | 4:30 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 | 38 | [7 \- Acoustic](https://open.spotify.com/track/2Nz14MtLy82a3togG2EI8l) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [7 \(Acoustic\)](https://open.spotify.com/album/6IKwv5Fu9q2xAwAIKDlakX) | 4:12 |
 | 39 | [I Sat by the Ocean \- Live Acoustic](https://open.spotify.com/track/7mGAH8wfCljwG0tBi9WMGJ) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [...Like Cologne \(Spotify Exclusive\)](https://open.spotify.com/album/4emoC6C9fCDkWPdTuxN9an) | 4:35 |
 | 40 | [Shooting Stars \- in the Woods](https://open.spotify.com/track/69mwPY097BcpVDYHOFIAT7) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Shooting Stars \(in the Woods\)](https://open.spotify.com/album/3PDSx1HCnP3I2byYCTjrG1) | 4:23 |
-| 41 | [Teenage Dirtbag \(Acoustic\)](https://open.spotify.com/track/2l2i0FeYCBkK0OdPMuBGeW) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Teenage Dirtbag 2020 / Mope](https://open.spotify.com/album/0lCvikSjJ1QwvHRTfDEs16) | 4:32 |
-| 42 | [Youth Of The Nation \- Acoustic Version](https://open.spotify.com/track/4gkzgIySsIKS4FAlF724Bm) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [SoCal Sessions](https://open.spotify.com/album/6ZLA8OYBtkOXuY7IBXYWDo) | 4:22 |
+| 41 | [Youth Of The Nation \- Acoustic Version](https://open.spotify.com/track/4gkzgIySsIKS4FAlF724Bm) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [SoCal Sessions](https://open.spotify.com/album/6ZLA8OYBtkOXuY7IBXYWDo) | 4:22 |
+| 42 | [Teenage Dirtbag \(Acoustic\)](https://open.spotify.com/track/2l2i0FeYCBkK0OdPMuBGeW) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Teenage Dirtbag 2020 / Mope](https://open.spotify.com/album/0lCvikSjJ1QwvHRTfDEs16) | 4:32 |
 | 43 | [Kill The Noise \- Acoustic](https://open.spotify.com/track/7oLfJtNvOFHYo02uProOfr) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Kill The Noise \(Acoustic\)](https://open.spotify.com/album/4NuxF7PTPbjtboHpQ6b3NI) | 2:41 |
 | 44 | [Walk On Water \- Acoustic](https://open.spotify.com/track/4sNbnjnqIKkT16XuUtwU88) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Walk On Water \(Acoustic\)](https://open.spotify.com/album/6AYKHtLtX2M9WnHcM2s142) | 3:08 |
 | 45 | [In Bloom \(Acoustic\)](https://open.spotify.com/track/0MkIn6BHsrQswE5v44kToW) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [In Bloom: Versions](https://open.spotify.com/album/6UjgPXbovoEObPAYEfuC85) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 | 49 | [Pardon Me \- Acoustic](https://open.spotify.com/track/6L7CK4TVDKdfEhLHGk9Lg6) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [When Incubus Attacks, Vol\. 1](https://open.spotify.com/album/1d1ClEJ1KUcWkyDtLnv4Pw) | 3:47 |
 | 50 | [Legendary \- Acoustic](https://open.spotify.com/track/5l4O7VzsZhKpAJO8w2jrC9) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [Legendary \(Acoustic\)](https://open.spotify.com/album/1hj9cR7EcEIisOX3eeke2x) | 3:36 |
 
-Snapshot ID: `MCxlYjM4NDM0MmNhMjAyZjdlMDJhYTMxNzc0ZDdlNjFmYWE1Y2M1Nzc0`
+Snapshot ID: `MCw1OTA5NjdkODJjZWQ2YjhmMDEzMDJiYjI3MjE0OWFlM2JmYjRhMWU5`

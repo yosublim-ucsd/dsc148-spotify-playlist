@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zsi9ZiA1Xt.md) - [plain]
 
 > Con un poco de buena salsa todo queda limpio y reluciente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,785 likes - 50 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,816 likes - 50 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zsi9ZiA1Xt.md) - [plain]
 | 24 | [Y No Hago Mas Na'](https://open.spotify.com/track/4fHYtAHpAmsFDq7kTLzgh5) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [La Universidad de La Salsa](https://open.spotify.com/album/4DsJh2ZUJMbAIZ3tdpI6Zf) | 5:01 |
 | 25 | [La Murga](https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [Asalto Navideño](https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe) | 5:34 |
 | 26 | [Estamos en Salsa](https://open.spotify.com/track/6nONybSopBGecWPK0pcvva) | [Wayne Gorbea](https://open.spotify.com/artist/0tvNMJ8jl7lHOHv3ykLYvD) | [La Salsa del Conjunto Salsa](https://open.spotify.com/album/7oKUzawRV3aG7THNczUyT8) | 4:49 |
-| 27 | [Brujeria](https://open.spotify.com/track/6RVNMkVUHijxWQnGOOeOa1) | [Charlie Aponte](https://open.spotify.com/artist/2fnP86vFqCtBZp6igjAgc7), [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu), [Yayo El Indio](https://open.spotify.com/artist/450R1iQ3HImRJnq1eyNWdG) | [Aqui Estoy Yo, Vol\. 1](https://open.spotify.com/album/00kLg7atNIIaRc63s93Dry) | 3:27 |
-| 28 | [Salsa Y Control](https://open.spotify.com/track/4y6QWwI8lqYYemjYK1PCPc) | [Lebrón Brothers](https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam) | [Salsa Y Control](https://open.spotify.com/album/539af69eELgsPBWn4ZwK8I) | 3:47 |
+| 27 | [Salsa Y Control](https://open.spotify.com/track/4y6QWwI8lqYYemjYK1PCPc) | [Lebrón Brothers](https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam) | [Salsa Y Control](https://open.spotify.com/album/539af69eELgsPBWn4ZwK8I) | 3:47 |
+| 28 | [Brujeria](https://open.spotify.com/track/6RVNMkVUHijxWQnGOOeOa1) | [Charlie Aponte](https://open.spotify.com/artist/2fnP86vFqCtBZp6igjAgc7), [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu), [Yayo El Indio](https://open.spotify.com/artist/450R1iQ3HImRJnq1eyNWdG) | [Aqui Estoy Yo, Vol\. 1](https://open.spotify.com/album/00kLg7atNIIaRc63s93Dry) | 3:27 |
 | 29 | [Sandra Mora](https://open.spotify.com/track/1Lyg0T9xKFXIyIj3jHpOm8) | [Velvet Salsa All Stars](https://open.spotify.com/artist/0Vb0pkmuJAdJkFGJtSe3mI), [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v), [Maritza Blanco De Puchi](https://open.spotify.com/artist/2Z23kB3gIu7mNJ4PG76yqI), [PABLO ÁLVAREZ](https://open.spotify.com/artist/0p0TwkF6LO1fYdx8NxcgGK) | [Velvet Salsa All Stars](https://open.spotify.com/album/0cFRprKvLnPrTJ7eWpG9ON) | 4:14 |
 | 30 | [El Sol de la Noche](https://open.spotify.com/track/0PAf4n8jN2Jo6QXcqirRVq) | [Salsa Celtica](https://open.spotify.com/artist/1L4dh63UjFVKTCBZTmbPSZ) | [El Agua de la Vida](https://open.spotify.com/album/6qn0EfY7hr2skTfoRFXHR6) | 5:54 |
 | 31 | [Ché Ché Colé](https://open.spotify.com/track/4rPtnAmfvHkVSCO2KKkiC1) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Crime Pays](https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K) | 3:31 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zsi9ZiA1Xt.md) - [plain]
 | 43 | [Pa'l 23](https://open.spotify.com/track/1mSdpVmDxvZKa80PykOlHZ) | [Ray Perez](https://open.spotify.com/artist/5bRPdkLc8yyAsdgUmdCMwK) | [Lo Mejor de Ray Perez \- Salsa](https://open.spotify.com/album/3mrztnhqCv54Lzb3s4jFCF) | 3:13 |
 | 44 | [Salsa Y Sabor](https://open.spotify.com/track/6PK9NhUfcPQL5vfkg44dYE) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Para los Rumberos](https://open.spotify.com/album/0NO0lAOqHxaM5wCdSZ8x8P) | 3:01 |
 | 45 | [Azúcar](https://open.spotify.com/track/4j0CkYOhOdPyWjfpEL1sWM) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Azúcar pa' Ti](https://open.spotify.com/album/7ABnsWLl8iiyVqkpR9ZRGT) | 9:29 |
-| 46 | [Traigo Salsa](https://open.spotify.com/track/21o9ccByT4ApG6msAqGqYy) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Esto Fué Lo Que Trajo El Barco](https://open.spotify.com/album/5EPIgQStd9oMGLf6BIgSEf) | 4:16 |
+| 46 | [La Esquina Del Movimiento](https://open.spotify.com/track/28eTHRQGyFfQPqzwNWCYws) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Nelson Pinedo](https://open.spotify.com/artist/68YsvVAGVdlaJpk5sA21pq) | [¿Quién Será?](https://open.spotify.com/album/1RajdvWppURk9ULx1dzNSV) | 2:36 |
 | 47 | [Marejada Feliz](https://open.spotify.com/track/6yntDRxeKQo8eB5cLY9tkm) | [Roberto Roena Y Su Apollo Sound](https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry) | [Apollo Sound 9](https://open.spotify.com/album/6yivkfOmyn8EP68CYsQ5OT) | 7:22 |
-| 48 | [La Esquina Del Movimiento](https://open.spotify.com/track/28eTHRQGyFfQPqzwNWCYws) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Nelson Pinedo](https://open.spotify.com/artist/68YsvVAGVdlaJpk5sA21pq) | [¿Quién Será?](https://open.spotify.com/album/1RajdvWppURk9ULx1dzNSV) | 2:36 |
+| 48 | [Traigo Salsa](https://open.spotify.com/track/21o9ccByT4ApG6msAqGqYy) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Esto Fué Lo Que Trajo El Barco](https://open.spotify.com/album/5EPIgQStd9oMGLf6BIgSEf) | 4:16 |
 | 49 | [Manyoma](https://open.spotify.com/track/2MGT7BNwjf3c6DbhXqBaW9) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Fruko el Grande](https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C) | 4:08 |
 | 50 | [Como Mi Salsa Ninguna](https://open.spotify.com/track/2pGrvFiWSrqw2POyEEeFui) | [Pirulo y la Tribu](https://open.spotify.com/artist/7yUFtMptVtCtg3vIR018vO) | [Calle Linda \(Golden Edition\)](https://open.spotify.com/album/66FlKUgkg7EQY6nzWtuX8V) | 6:21 |
 
-Snapshot ID: `MCxkMzE0YWZkNjIxOWQ5NTNlM2Y1Y2NmNmMxZGFmOTdmMjE3ZWVmNDMy`
+Snapshot ID: `MCwzZGRjYzNmYTZlOTc2MGMzYjEyZTQ1YmY0MWU3ZTUwYzIzZjcxZWEx`

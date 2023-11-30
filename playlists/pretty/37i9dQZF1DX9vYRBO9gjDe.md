@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。11月26日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,212 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,276 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [Just A Game feat\. Benny Sings](https://open.spotify.com/track/788y834RoRJUQAH2O8jq7u) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Just A Game feat\. Benny Sings](https://open.spotify.com/album/5vrhmmQ8OL0SnNtEpNb5G0) | 4:19 |
 | 50 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW) | 2:31 |
 
-Snapshot ID: `MCwzY2JmNzQ0NTA1ZmM3N2VjOGUzYjY1ZGQ1YTJmMTEzOTI5OGFkZDlm`
+Snapshot ID: `MCw0OWIwNzYxYTM2YzQ3MGI4N2Q1MWI3OTU3ODJlNTZlYjJiYzI2OTMy`

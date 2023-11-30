@@ -951,6 +951,24 @@
     },
     {
       "album": {
+        "name": "Ai need your love",
+        "url": "https://open.spotify.com/album/7fg7uDn8Dhslc4DqBlnbmw"
+      },
+      "artists": [
+        {
+          "name": "\u51a8\u5ca1\u611b",
+          "url": "https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226274,
+      "name": "Ai need your love",
+      "url": "https://open.spotify.com/track/5IKcZuIuzKyx7hyqKTY7cg"
+    },
+    {
+      "album": {
         "name": "ai no hana",
         "url": "https://open.spotify.com/album/05BmOU0qWEmrkLoGxwoV1p"
       },
@@ -3224,6 +3242,24 @@
       "duration_ms": 249200,
       "name": "Budo Juice",
       "url": "https://open.spotify.com/track/6mUCPz6VnyA62upkWEbYNA"
+    },
+    {
+      "album": {
+        "name": "Buriki No Dance",
+        "url": "https://open.spotify.com/album/434XGVb26I50AvHTKdwAYk"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Buriki No Dance",
+      "url": "https://open.spotify.com/track/1tf23ctEJtmWpCoMwVwFLF"
     },
     {
       "album": {
@@ -14753,6 +14789,24 @@
     },
     {
       "album": {
+        "name": "Please Santa Claus",
+        "url": "https://open.spotify.com/album/3r1tMcAaFHoL3egzPH1OtX"
+      },
+      "artists": [
+        {
+          "name": "Koresawa",
+          "url": "https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225880,
+      "name": "Please Santa Claus",
+      "url": "https://open.spotify.com/track/1XxNDJTwMwIRVhb0zd5coc"
+    },
+    {
+      "album": {
         "name": "\u4f4f",
         "url": "https://open.spotify.com/album/1AbYtHL8CaXQgJIu8ctq7C"
       },
@@ -15051,6 +15105,24 @@
     },
     {
       "album": {
+        "name": "Racy",
+        "url": "https://open.spotify.com/album/2wbqPau2WcFPnmXQ1Bz2Wo"
+      },
+      "artists": [
+        {
+          "name": "ako",
+          "url": "https://open.spotify.com/artist/02XxVaFe2ZUm1LMIvWRYlo"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269306,
+      "name": "Racy",
+      "url": "https://open.spotify.com/track/5AwEOc9BQCOZ88MeWRI4wb"
+    },
+    {
+      "album": {
         "name": "racy",
         "url": "https://open.spotify.com/album/1WHbuGwCu7BumeZtxl4k38"
       },
@@ -15062,7 +15134,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 269306,
       "name": "racy",
       "url": "https://open.spotify.com/track/56d4QRwypo3gFJCOai7XFS"
@@ -21110,7 +21182,7 @@
     {
       "album": {
         "name": "What the Hell",
-        "url": "https://open.spotify.com/album/5NRA5maQZSLOWVKQsHSOpb"
+        "url": "https://open.spotify.com/album/1qfBbSPj9GQjS8xNGyJqoN"
       },
       "artists": [
         {
@@ -21125,6 +21197,28 @@
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 248842,
+      "name": "What the Hell",
+      "url": "https://open.spotify.com/track/3Sio6hsXRUhhd6Hk4W1c7Y"
+    },
+    {
+      "album": {
+        "name": "What the Hell",
+        "url": "https://open.spotify.com/album/5NRA5maQZSLOWVKQsHSOpb"
+      },
+      "artists": [
+        {
+          "name": "TOSHIKI HAYASHI(%C)",
+          "url": "https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI"
+        },
+        {
+          "name": "Emi Okamoto",
+          "url": "https://open.spotify.com/artist/20RZYpmOiZTCdkl4c5u4li"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-30",
       "duration_ms": 248842,
       "name": "What the Hell",
       "url": "https://open.spotify.com/track/4mj9u28GzR6B6fgM45ritm"
@@ -22850,7 +22944,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 225880,
       "name": "\u304a\u9858\u3044\u30b5\u30f3\u30bf\u30af\u30ed\u30fc\u30b9",
       "url": "https://open.spotify.com/track/4u2WH90886TRkImWvPg2QY"
@@ -27454,7 +27548,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 199000,
       "name": "\u30d6\u30ea\u30ad\u30ce\u30c0\u30f3\u30b9",
       "url": "https://open.spotify.com/track/2yVBhde18jnhFGgA52eDt2"
@@ -32264,7 +32358,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 226274,
       "name": "\u611b need your love",
       "url": "https://open.spotify.com/track/7BBaJjWYEfEGFuUyM9zCyB"

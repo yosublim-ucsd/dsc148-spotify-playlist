@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 
 > Cantoras y compositoras de nuestra tierra, con Soledad en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,781 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,802 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 69 | [La Noche Sin Ti](https://open.spotify.com/track/2u6BZDzWCs4OLcneXXaJjh) | [Mariel Trimaglio](https://open.spotify.com/artist/2S6kkn26CPRWCsBoY6L1Bu) | [La Noche Sin Ti](https://open.spotify.com/album/5WUPK5lwWj0QSSorIl3cOU) | 4:44 |
 | 70 | [La de los Humildes](https://open.spotify.com/track/2xoJstLwBDTtczvKUI6F7A) | [Nadia Larcher](https://open.spotify.com/artist/7qCEjoCmUjJ0F8ACB0WUX5) | [Armando Tejada Gómez](https://open.spotify.com/album/6hYlxzIksLuMOyDGK4yx9c) | 4:29 |
 | 71 | [Dime](https://open.spotify.com/track/6Wkn5y6FqH8Yu4LSAROKn1) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Las Simples Cosas](https://open.spotify.com/album/3kHitnmEYn8oMrKD8IZl6a) | 2:50 |
-| 72 | [Volverè Siempre a San Juan](https://open.spotify.com/track/3S9Z0cuE5E6po46Mej4Yui) | [Claudia Pirán](https://open.spotify.com/artist/51SK2K3KAlKxpGzc8zja7P) | [Pasaje al Corazón](https://open.spotify.com/album/5mDREF3d8nq1k3PGEs4IZc) | 3:31 |
+| 72 | [La Luminosa](https://open.spotify.com/track/4LaPXJhWXZeFphemEgp6M0) | [Don Olimpio](https://open.spotify.com/artist/0S9BuBCtPWNNiQgvXvk1y9), [Agustín Lumerman](https://open.spotify.com/artist/0ohmaLwafoITPezmLL9WtE), [Juan Pablo Di Leone](https://open.spotify.com/artist/6oDkfDNI4obD3rvv8WRpU9) | [Mi Fortuna](https://open.spotify.com/album/5S5fXBVVgU0E56OKh5dowP) | 3:37 |
 | 73 | [Morenito](https://open.spotify.com/track/4JeNZ4z648L1D1c2Gdlt8h) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26) | [Soy Semilla](https://open.spotify.com/album/5OM1ghjw8slI1C0dX9OmOD) | 3:34 |
-| 74 | [La Luminosa](https://open.spotify.com/track/4LaPXJhWXZeFphemEgp6M0) | [Don Olimpio](https://open.spotify.com/artist/0S9BuBCtPWNNiQgvXvk1y9), [Agustín Lumerman](https://open.spotify.com/artist/0ohmaLwafoITPezmLL9WtE), [Juan Pablo Di Leone](https://open.spotify.com/artist/6oDkfDNI4obD3rvv8WRpU9) | [Mi Fortuna](https://open.spotify.com/album/5S5fXBVVgU0E56OKh5dowP) | 3:37 |
+| 74 | [Volverè Siempre a San Juan](https://open.spotify.com/track/3S9Z0cuE5E6po46Mej4Yui) | [Claudia Pirán](https://open.spotify.com/artist/51SK2K3KAlKxpGzc8zja7P) | [Pasaje al Corazón](https://open.spotify.com/album/5mDREF3d8nq1k3PGEs4IZc) | 3:31 |
 | 75 | [El Otro País](https://open.spotify.com/track/0YlsXdXjBWt9KDLJpjwfii) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK) | [El Otro País](https://open.spotify.com/album/1XbuwOs0M0UTManSQD3dF1) | 4:26 |
 | 76 | [La Estrella Azul](https://open.spotify.com/track/3dV4z78Q0qNo4f2zjBIN5y) | [Liliana Vitale](https://open.spotify.com/artist/3lXtbYD0IVuJUKEtqBFcvF), [Veronica Condomi](https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be) | [Humanas Voces](https://open.spotify.com/album/57Ag2rbnSe4GWfLwoBELac) | 3:09 |
 | 77 | [La Marejada](https://open.spotify.com/track/4OGGt6aw0DeNR1UQW1APN9) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK) | [La Charo](https://open.spotify.com/album/2f2aoYUcR17shrpyTe6fj8) | 3:27 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 89 | [Pétalo de Sal](https://open.spotify.com/track/4ivf9l9t9Mnbg5wB20wI7c) | [Vero Marjbein](https://open.spotify.com/artist/6xZKJnHq8zpj0c9tCjwhGi) | [Buscando el sol](https://open.spotify.com/album/0z6ZovAkZ1nhmWwZx6KBqT) | 3:15 |
 | 90 | [Saravá](https://open.spotify.com/track/5Cd4EkEdeDppjU3DpGduWV) | [La Bruja Salguero](https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda) | [Saravá](https://open.spotify.com/album/67RXMS6LdgDRTQpjCSjjGi) | 4:03 |
 | 91 | [La Canastita](https://open.spotify.com/track/43AzIdY7QJbDuxMx11Fozi) | [Melania Perez](https://open.spotify.com/artist/4kBzSQOAfn2TbUvsc8auN6) | [Luz Del Aire](https://open.spotify.com/album/05gqff5GwrLBXnk2WErcdj) | 3:18 |
-| 92 | [Caminante](https://open.spotify.com/track/0Tvd59KWbv8rPMMtmZmRI2) | [Soema Montenegro](https://open.spotify.com/artist/3k4DZyXoTNV3aU940gXJUO) | [Caminante](https://open.spotify.com/album/1SsiLXLCEC4J4EZvapU1K0) | 3:28 |
-| 93 | [La Arruguita](https://open.spotify.com/track/27ZRd4JyUtaRAx6RgKNZET) | [Mavi Diaz &  Las Folkies](https://open.spotify.com/artist/7hxEyNaUhWIl2tBNYBXR9Z) | [Gaucha](https://open.spotify.com/album/03OShV7EW4Q1AGy3MbLkE0) | 1:47 |
-| 94 | [Distinto](https://open.spotify.com/track/3VtRTDL0ecFzROdU4IQ6cD) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK) | [Distinto](https://open.spotify.com/album/1UL1AsHbjRw2Wu8hASGPfP) | 3:46 |
-| 95 | [Astilla de Tus Montes](https://open.spotify.com/track/1oyglyKvUdZflbmHMqpX0b) | [Rocío Sanjurjo Abalos](https://open.spotify.com/artist/6jBoGQrIq53YHEI7nnaqr5), [Darío Barozzi](https://open.spotify.com/artist/7wWcoNAI3kXg6vBcVYV74Z) | [Anidar](https://open.spotify.com/album/59qJErVdXwuD3ywHTZa7uD) | 2:36 |
-| 96 | [Sueñero](https://open.spotify.com/track/3iJCbESRoT3JX1WC918Uqr) | [Mili Escudero y Agus Solá](https://open.spotify.com/artist/5NSSu93FUTCN93dple5WbU) | [Cuando Vuelva a encontrarte](https://open.spotify.com/album/5oOdnHLgljOSkE5vjSKVRp) | 2:55 |
+| 92 | [La Arruguita](https://open.spotify.com/track/27ZRd4JyUtaRAx6RgKNZET) | [Mavi Diaz &  Las Folkies](https://open.spotify.com/artist/7hxEyNaUhWIl2tBNYBXR9Z) | [Gaucha](https://open.spotify.com/album/03OShV7EW4Q1AGy3MbLkE0) | 1:47 |
+| 93 | [Distinto](https://open.spotify.com/track/3VtRTDL0ecFzROdU4IQ6cD) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK) | [Distinto](https://open.spotify.com/album/1UL1AsHbjRw2Wu8hASGPfP) | 3:46 |
+| 94 | [Sueñero](https://open.spotify.com/track/3iJCbESRoT3JX1WC918Uqr) | [Mili Escudero y Agus Solá](https://open.spotify.com/artist/5NSSu93FUTCN93dple5WbU) | [Cuando Vuelva a encontrarte](https://open.spotify.com/album/5oOdnHLgljOSkE5vjSKVRp) | 2:55 |
+| 95 | [Caminante](https://open.spotify.com/track/0Tvd59KWbv8rPMMtmZmRI2) | [Soema Montenegro](https://open.spotify.com/artist/3k4DZyXoTNV3aU940gXJUO) | [Caminante](https://open.spotify.com/album/1SsiLXLCEC4J4EZvapU1K0) | 3:28 |
+| 96 | [Astilla de Tus Montes](https://open.spotify.com/track/1oyglyKvUdZflbmHMqpX0b) | [Rocío Sanjurjo Abalos](https://open.spotify.com/artist/6jBoGQrIq53YHEI7nnaqr5), [Darío Barozzi](https://open.spotify.com/artist/7wWcoNAI3kXg6vBcVYV74Z) | [Anidar](https://open.spotify.com/album/59qJErVdXwuD3ywHTZa7uD) | 2:36 |
 | 97 | [Cómo Pájaros en el Aire](https://open.spotify.com/track/5ZA0iEXMqSs7f9YzRnqj1u) | [Anabella Zoch](https://open.spotify.com/artist/7hxv4viTwAh1SxAFcB2u2v) | [Espejo de Amor: Anabella Zoch Canta a Peteco Carabajal](https://open.spotify.com/album/5EvslgD1DNVwI7OOXBGviw) | 4:27 |
 | 98 | [Maria Sabina](https://open.spotify.com/track/59WZZenkOSwmCN1BzbXHBO) | [Paola Bernal](https://open.spotify.com/artist/4tL93YWLvL0kNlg42d6I8f) | [Pajaro Rojo](https://open.spotify.com/album/30CNaOBBICXPs1CcmqC0RL) | 4:59 |
 | 99 | [Chacarera del Santiagueño](https://open.spotify.com/track/1N8GNBG9WzqMWLTGBSO6xn) | [Hilda Herrera](https://open.spotify.com/artist/0qzpjA8ZRuHJnJJN6OsePI) | [La Diablera](https://open.spotify.com/album/42r79ADDoRR1RIh27z9rdS) | 2:11 |
 | 100 | [Zamba de Carnaval](https://open.spotify.com/track/3RpSwGmzKDbbZbd7ck91QP) | [Rocio Araujo](https://open.spotify.com/artist/6UtYC4NKlcaHeRjiYFaeBg) | [Conviccion](https://open.spotify.com/album/0wj18e2GExiXfHbEObWwy2) | 4:19 |
 
-Snapshot ID: `MCxlMzE5N2Y4ODYyODczMDFkMTg2ZjQxOTljZDNjYmRhZDc0NjlhYmZh`
+Snapshot ID: `MCw3YTU0NjAwMzk5ZWFmZjIxYTg5ZGZhOWNlYzViZWU2N2IyMzJmODA3`

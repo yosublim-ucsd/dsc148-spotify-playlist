@@ -4,7 +4,7 @@
 
 > The biggest Christmas songs of all time.
 
-215 songs - 11 hr 30 min
+216 songs - 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,8 @@
 | [Sleigh Ride](https://open.spotify.com/track/79a2ejVzj2SpXkpWdfv1Co) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/15up0e6AFIYZbmErIVPU3p) | 2:55 | 2021-12-16 | 2022-07-29 |
 | [Sleigh Ride](https://open.spotify.com/track/5ASM6Qjiav2xPe7gRkQMsQ) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [A Christmas Gift For You From Phil Spector](https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu) | 3:01 | 2021-12-16 |  |
 | [Snowman](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 2:45 | 2021-12-16 |  |
-| [Someday At Christmas](https://open.spotify.com/track/0GMbNoVqoycx9qd9ggIP8V) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Jingle Bells](https://open.spotify.com/album/5NlA5cPHtHxIMOO9tqH7ar) | 2:49 | 2021-12-16 |  |
+| [Someday At Christmas](https://open.spotify.com/track/2X5noCM9Klrm4zXfyyPdRN) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Mono Singles](https://open.spotify.com/album/7oMcO4p7P1JtJR2G1v2NoK) | 2:48 | 2023-11-29 |  |
+| [Someday At Christmas](https://open.spotify.com/track/0GMbNoVqoycx9qd9ggIP8V) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Jingle Bells](https://open.spotify.com/album/5NlA5cPHtHxIMOO9tqH7ar) | 2:49 | 2021-12-16 | 2023-11-30 |
 | [Step Into Christmas](https://open.spotify.com/track/10HDoLPz2bucGBkoNEjDHW) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou \(Remastered\)](https://open.spotify.com/album/4wBEBXmZSMUnscian0hgCI) | 4:32 | 2021-12-16 | 2022-07-29 |
 | [Step Into Christmas](https://open.spotify.com/track/5AG7WObBQyMrmAfP5X9FKw) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Happy Navidad](https://open.spotify.com/album/1PpiyGryY19O7Lk6L1IbFu) | 4:32 | 2022-10-27 | 2022-11-13 |
 | [Step Into Christmas](https://open.spotify.com/track/6sBWmE23q6xQHlnEZ8jYPT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(40th Anniversary Celebration / Super Deluxe\)](https://open.spotify.com/album/5u5AXYtYIxnIs4S7K3xHAN) | 4:32 | 2022-06-01 | 2023-05-13 |

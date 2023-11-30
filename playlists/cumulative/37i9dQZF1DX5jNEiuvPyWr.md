@@ -4,7 +4,7 @@
 
 > Le meilleur du rap français version cloud\. Photo : joysad
 
-304 songs - 15 hr 7 min
+305 songs - 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,8 @@
 | [Maudit](https://open.spotify.com/track/0SDdToMgBtqdd7WJnT2iGi) | [Elh Kmer](https://open.spotify.com/artist/6DTpmzMa0Gz93kRKUo4JfQ) | [Maudit](https://open.spotify.com/album/5VhQXyXXmdn7bPqODOkOmV) | 3:49 | 2022-11-03 | 2023-01-13 |
 | [mayday](https://open.spotify.com/track/6Ax8LuViU7B5YrJBX8V8oe) | [LVZ](https://open.spotify.com/artist/7B8kPWR00p96IXVH6u4zrf) | [SOUS L'AVERSE](https://open.spotify.com/album/2kQVXn6S6Dk7KOs5UCbjGZ) | 2:19 | 2023-11-23 |  |
 | [Medellín](https://open.spotify.com/track/5A6krUMRdMEHE2XT1qaBFB) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [Fissure de vie](https://open.spotify.com/album/1jDCzsViwRa0trfppiwWTC) | 3:13 | 2022-07-14 | 2022-08-19 |
-| [MEILLEUR](https://open.spotify.com/track/4LzP3qhx5v3qo1nMn4Fhu9) | [MPablo](https://open.spotify.com/artist/4Pmp4phME9ksNwnpPHumHU) | [HUMAIN](https://open.spotify.com/album/5SBWcUHPeO7suJtkQxEj1b) | 3:03 | 2023-10-12 |  |
+| [MEILLEUR](https://open.spotify.com/track/4LzP3qhx5v3qo1nMn4Fhu9) | [MPablo](https://open.spotify.com/artist/4Pmp4phME9ksNwnpPHumHU) | [HUMAIN](https://open.spotify.com/album/5SBWcUHPeO7suJtkQxEj1b) | 3:03 | 2023-10-12 | 2023-11-30 |
+| [MEILLEUR](https://open.spotify.com/track/5atKLIetNSwYT8mYdVRWQO) | [MPablo](https://open.spotify.com/artist/4Pmp4phME9ksNwnpPHumHU) | [HUMAIN](https://open.spotify.com/album/7JZT9iNvgUcdmiju0ps1z9) | 3:03 | 2023-11-23 |  |
 | [Miami Vice](https://open.spotify.com/track/7okGX2stmpuVyyCm2CSbXa) | [Siaka](https://open.spotify.com/artist/7iXdTXVgCMV5v1c8DFAUoz) | [Bel Air](https://open.spotify.com/album/2acXYtO8RQqEcQyrywwlxa) | 2:56 | 2023-04-27 | 2023-06-09 |
 | [Minuit](https://open.spotify.com/track/3qppQ6d1ffg1NUp4uGVY3g) | [THABITI](https://open.spotify.com/artist/5Ea2kDQeQNQrIcI6tCthaQ) | [Minuit](https://open.spotify.com/album/1VvnLoLqEjpGw3MqgWVFzp) | 2:33 | 2023-03-16 | 2023-06-16 |
 | [Miracle](https://open.spotify.com/track/7gLIgciyl0LiLeX7LXAACB) | [Chanje](https://open.spotify.com/artist/5BZQ1LKKtw3uu6NIJdlU4Y), [EDGE](https://open.spotify.com/artist/0ZCX1rGywF2LATUUCq0nOg) | [Miracle](https://open.spotify.com/album/3ApUvBtVEP475jtilOY4jy) | 2:58 | 2022-07-14 | 2022-09-16 |

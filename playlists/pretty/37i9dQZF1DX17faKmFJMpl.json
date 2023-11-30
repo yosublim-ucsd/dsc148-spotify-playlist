@@ -1,12 +1,12 @@
 {
   "description": "\ud55c\uad6d \ud799\ud569\uc758 \ubfcc\ub9ac, \uc62c\ub4dc\uc2a4\ucfe8 \ud55c\uad6d \ud799\ud569\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (\ucee4\ubc84: Tiger JK)",
-  "num_followers": 3252,
+  "num_followers": 3259,
   "original_name": "\uc62c\ub4dc\uc2a4\ucfe8 \ud55c\uad6d\ud799\ud569 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTBmOWNjNmNlZWNkMGM4OTdlODc5ZWZmNjBkYzZlOWQ5YzY5ZDVh",
+  "snapshot_id": "MCxmNjE1NTNiNWZhZmZiMDgyYjJlOWNiMDlkN2IzZTc5NmYwZmQyNmFh",
   "tracks": [
     {
       "added_at": "2023-08-10 14:02:26",
@@ -960,9 +960,9 @@
           "url": "https://open.spotify.com/artist/1uqY5wsMbmNuHOQQ0pD8nJ"
         }
       ],
-      "duration_ms": 294986,
-      "name": "\uc544\uc5d0\uc774\uc624\uc6b0 \uc5b4 ?!",
-      "url": "https://open.spotify.com/track/2TU1lpHBd1C0DvvSsdVdiI"
+      "duration_ms": 278639,
+      "name": "\uc544\uc5d0\uc774\uc624\uc6b0 \uc5b4 ?! Pt.2",
+      "url": "https://open.spotify.com/track/0Xp0DHasuTlxYUntHoJJ2r"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -1052,9 +1052,9 @@
           "url": "https://open.spotify.com/artist/1uqY5wsMbmNuHOQQ0pD8nJ"
         }
       ],
-      "duration_ms": 278639,
-      "name": "\uc544\uc5d0\uc774\uc624\uc6b0 \uc5b4 ?! Pt.2",
-      "url": "https://open.spotify.com/track/0Xp0DHasuTlxYUntHoJJ2r"
+      "duration_ms": 294986,
+      "name": "\uc544\uc5d0\uc774\uc624\uc6b0 \uc5b4 ?!",
+      "url": "https://open.spotify.com/track/2TU1lpHBd1C0DvvSsdVdiI"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
-        "name": "Beatz 4 Da Streetz",
-        "url": "https://open.spotify.com/album/5fW9o5IqCJxz7jt3tJk7oh"
-      },
-      "artists": [
-        {
-          "name": "Joosuc",
-          "url": "https://open.spotify.com/artist/38Q6PDXhnt4Riuj5DxqRhf"
-        },
-        {
-          "name": "YURI",
-          "url": "https://open.spotify.com/artist/3YXQOd2FjcAdsulPQNwRIX"
-        }
-      ],
-      "duration_ms": 242826,
-      "name": "4 Life (feat. YURI)",
-      "url": "https://open.spotify.com/track/5BfZj4ajLxQstbAtBCmGW2"
-    },
-    {
-      "added_at": "2023-08-10 14:02:26",
-      "album": {
         "name": "Best of Best",
         "url": "https://open.spotify.com/album/2AVhUS6I0EUAVdJlwV7iZ7"
       },
@@ -1135,22 +1115,38 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
-        "name": "Positive Mind",
-        "url": "https://open.spotify.com/album/62jph9R2nDWa4YxtV9kv7e"
+        "name": "Beatz 4 Da Streetz",
+        "url": "https://open.spotify.com/album/5fW9o5IqCJxz7jt3tJk7oh"
       },
       "artists": [
         {
-          "name": "ILLSON",
-          "url": "https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd"
+          "name": "Joosuc",
+          "url": "https://open.spotify.com/artist/38Q6PDXhnt4Riuj5DxqRhf"
         },
         {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+          "name": "YURI",
+          "url": "https://open.spotify.com/artist/3YXQOd2FjcAdsulPQNwRIX"
         }
       ],
-      "duration_ms": 254640,
-      "name": "\ub208\uc744 \ub728\uba74",
-      "url": "https://open.spotify.com/track/5KjsLl2CzFgMojgjlDYGC6"
+      "duration_ms": 242826,
+      "name": "4 Life (feat. YURI)",
+      "url": "https://open.spotify.com/track/5BfZj4ajLxQstbAtBCmGW2"
+    },
+    {
+      "added_at": "2023-08-10 14:02:26",
+      "album": {
+        "name": "Thunderground",
+        "url": "https://open.spotify.com/album/30yMI8AM6gfZEnQu25KBfw"
+      },
+      "artists": [
+        {
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        }
+      ],
+      "duration_ms": 223640,
+      "name": "You Don\u2019t Know",
+      "url": "https://open.spotify.com/track/2uXFpDJqHr1fgaHmYIoozA"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -1175,6 +1171,26 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
+        "name": "Positive Mind",
+        "url": "https://open.spotify.com/album/62jph9R2nDWa4YxtV9kv7e"
+      },
+      "artists": [
+        {
+          "name": "ILLSON",
+          "url": "https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd"
+        },
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        }
+      ],
+      "duration_ms": 254640,
+      "name": "\ub208\uc744 \ub728\uba74",
+      "url": "https://open.spotify.com/track/5KjsLl2CzFgMojgjlDYGC6"
+    },
+    {
+      "added_at": "2023-08-10 14:02:26",
+      "album": {
         "name": "GO HARD Part 1 : \uc591\uac00\uce58",
         "url": "https://open.spotify.com/album/1ldHyFmrirxBjgsXS0hEZf"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 182033,
       "name": "\ud76c\uadc0\uc885 (feat. YDG)",
       "url": "https://open.spotify.com/track/4K9utewCqeRnV2Q64Daflb"
-    },
-    {
-      "added_at": "2023-08-10 14:02:26",
-      "album": {
-        "name": "Thunderground",
-        "url": "https://open.spotify.com/album/30yMI8AM6gfZEnQu25KBfw"
-      },
-      "artists": [
-        {
-          "name": "Dok2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
-        }
-      ],
-      "duration_ms": 223640,
-      "name": "You Don\u2019t Know",
-      "url": "https://open.spotify.com/track/2uXFpDJqHr1fgaHmYIoozA"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -1243,6 +1243,30 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1SW0tDZHq8t4YkuFWddBNa"
+      },
+      "artists": [
+        {
+          "name": "Soul Company",
+          "url": "https://open.spotify.com/artist/1uqY5wsMbmNuHOQQ0pD8nJ"
+        },
+        {
+          "name": "Mad Clown",
+          "url": "https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd"
+        },
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        }
+      ],
+      "duration_ms": 216967,
+      "name": "Strike The Gold (feat. The Quiett)",
+      "url": "https://open.spotify.com/track/1rNfanETuJbKQhVpZtV8V5"
+    },
+    {
+      "added_at": "2023-08-10 14:02:26",
+      "album": {
         "name": "Yangdonggeun a.k.a Madman",
         "url": "https://open.spotify.com/album/305r3dhQ3aVqsfwHCf531R"
       },
@@ -1255,26 +1279,6 @@
       "duration_ms": 243621,
       "name": "\uc120\ubb38\ub2f5",
       "url": "https://open.spotify.com/track/5I4uO1Ff81E0ltkPbQl5Uw"
-    },
-    {
-      "added_at": "2023-08-10 14:02:26",
-      "album": {
-        "name": "Poetree Syndrome",
-        "url": "https://open.spotify.com/album/2BBRKCB78xTmsyMPDt6FOo"
-      },
-      "artists": [
-        {
-          "name": "Kebee",
-          "url": "https://open.spotify.com/artist/3TLffOgVLta1P3b7mQypvt"
-        },
-        {
-          "name": "Satbyeol",
-          "url": "https://open.spotify.com/artist/5M5vseorwT7yJbEXI5CxIq"
-        }
-      ],
-      "duration_ms": 208066,
-      "name": "Feeling You",
-      "url": "https://open.spotify.com/track/6RCgCE0UuHV3FaLwE3DSwa"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -1319,26 +1323,22 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/1SW0tDZHq8t4YkuFWddBNa"
+        "name": "Poetree Syndrome",
+        "url": "https://open.spotify.com/album/2BBRKCB78xTmsyMPDt6FOo"
       },
       "artists": [
         {
-          "name": "Soul Company",
-          "url": "https://open.spotify.com/artist/1uqY5wsMbmNuHOQQ0pD8nJ"
+          "name": "Kebee",
+          "url": "https://open.spotify.com/artist/3TLffOgVLta1P3b7mQypvt"
         },
         {
-          "name": "Mad Clown",
-          "url": "https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd"
-        },
-        {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+          "name": "Satbyeol",
+          "url": "https://open.spotify.com/artist/5M5vseorwT7yJbEXI5CxIq"
         }
       ],
-      "duration_ms": 216967,
-      "name": "Strike The Gold (feat. The Quiett)",
-      "url": "https://open.spotify.com/track/1rNfanETuJbKQhVpZtV8V5"
+      "duration_ms": 208066,
+      "name": "Feeling You",
+      "url": "https://open.spotify.com/track/6RCgCE0UuHV3FaLwE3DSwa"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -1447,46 +1447,6 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
-        "name": "Poetree Syndrome",
-        "url": "https://open.spotify.com/album/2BBRKCB78xTmsyMPDt6FOo"
-      },
-      "artists": [
-        {
-          "name": "Kebee",
-          "url": "https://open.spotify.com/artist/3TLffOgVLta1P3b7mQypvt"
-        },
-        {
-          "name": "Zito",
-          "url": "https://open.spotify.com/artist/1WSXciPLlOnr0DcLVWqext"
-        },
-        {
-          "name": "E SENS",
-          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
-        }
-      ],
-      "duration_ms": 230506,
-      "name": "Twisted Words",
-      "url": "https://open.spotify.com/track/14qjYcNnyyK0hbBpRZdS5W"
-    },
-    {
-      "added_at": "2023-08-10 14:02:26",
-      "album": {
-        "name": "Classic",
-        "url": "https://open.spotify.com/album/5Pn1BoYDuV1u8vSGRIZY2Y"
-      },
-      "artists": [
-        {
-          "name": "Verbal Jint",
-          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "Classic",
-      "url": "https://open.spotify.com/track/2jjLNku7WN4Mn4RY19QVrb"
-    },
-    {
-      "added_at": "2023-08-10 14:02:26",
-      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/1SW0tDZHq8t4YkuFWddBNa"
       },
@@ -1507,6 +1467,22 @@
       "duration_ms": 222911,
       "name": "Superstar (feat. Celma)",
       "url": "https://open.spotify.com/track/7yAGggmGxkcSr37n8kn2XA"
+    },
+    {
+      "added_at": "2023-08-10 14:02:26",
+      "album": {
+        "name": "Classic",
+        "url": "https://open.spotify.com/album/5Pn1BoYDuV1u8vSGRIZY2Y"
+      },
+      "artists": [
+        {
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "Classic",
+      "url": "https://open.spotify.com/track/2jjLNku7WN4Mn4RY19QVrb"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -1547,6 +1523,30 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
+        "name": "Poetree Syndrome",
+        "url": "https://open.spotify.com/album/2BBRKCB78xTmsyMPDt6FOo"
+      },
+      "artists": [
+        {
+          "name": "Kebee",
+          "url": "https://open.spotify.com/artist/3TLffOgVLta1P3b7mQypvt"
+        },
+        {
+          "name": "Zito",
+          "url": "https://open.spotify.com/artist/1WSXciPLlOnr0DcLVWqext"
+        },
+        {
+          "name": "E SENS",
+          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
+        }
+      ],
+      "duration_ms": 230506,
+      "name": "Twisted Words",
+      "url": "https://open.spotify.com/track/14qjYcNnyyK0hbBpRZdS5W"
+    },
+    {
+      "added_at": "2023-08-10 14:02:26",
+      "album": {
         "name": "Heavy Bass",
         "url": "https://open.spotify.com/album/3fSQ0q58tU7ENEzGC3MsuK"
       },
@@ -1559,26 +1559,6 @@
       "duration_ms": 187466,
       "name": "P-TYPE the Big Cat",
       "url": "https://open.spotify.com/track/7vy8urTi3DY2845ApsXlHG"
-    },
-    {
-      "added_at": "2023-08-10 14:02:26",
-      "album": {
-        "name": "Positive Mind",
-        "url": "https://open.spotify.com/album/62jph9R2nDWa4YxtV9kv7e"
-      },
-      "artists": [
-        {
-          "name": "ILLSON",
-          "url": "https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd"
-        },
-        {
-          "name": "Juvie Train",
-          "url": "https://open.spotify.com/artist/2CEVA02kVlfCD2ASpvadw4"
-        }
-      ],
-      "duration_ms": 201066,
-      "name": "But I Go",
-      "url": "https://open.spotify.com/track/3aLFsHsklwOV1yatI8Z9ZQ"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -1603,6 +1583,26 @@
       "duration_ms": 291333,
       "name": "Alchemy (feat. Kebee, Paloalto)",
       "url": "https://open.spotify.com/track/7mB6gNS7nALqjiMHlGDUVC"
+    },
+    {
+      "added_at": "2023-08-10 14:02:26",
+      "album": {
+        "name": "Positive Mind",
+        "url": "https://open.spotify.com/album/62jph9R2nDWa4YxtV9kv7e"
+      },
+      "artists": [
+        {
+          "name": "ILLSON",
+          "url": "https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd"
+        },
+        {
+          "name": "Juvie Train",
+          "url": "https://open.spotify.com/artist/2CEVA02kVlfCD2ASpvadw4"
+        }
+      ],
+      "duration_ms": 201066,
+      "name": "But I Go",
+      "url": "https://open.spotify.com/track/3aLFsHsklwOV1yatI8Z9ZQ"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
-        "name": "Beatz 4 Da Streetz",
-        "url": "https://open.spotify.com/album/5fW9o5IqCJxz7jt3tJk7oh"
-      },
-      "artists": [
-        {
-          "name": "Joosuc",
-          "url": "https://open.spotify.com/artist/38Q6PDXhnt4Riuj5DxqRhf"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Lastman Standing",
-      "url": "https://open.spotify.com/track/46P9ESmF3WAGEpllZFAWbd"
-    },
-    {
-      "added_at": "2023-08-10 14:02:26",
-      "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/2ltQS10O2Tz9PyE3PeeEUr"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 247666,
       "name": "Nu Skool",
       "url": "https://open.spotify.com/track/330s3OIUha9yPqm8WPsDOG"
+    },
+    {
+      "added_at": "2023-08-10 14:02:26",
+      "album": {
+        "name": "Beatz 4 Da Streetz",
+        "url": "https://open.spotify.com/album/5fW9o5IqCJxz7jt3tJk7oh"
+      },
+      "artists": [
+        {
+          "name": "Joosuc",
+          "url": "https://open.spotify.com/artist/38Q6PDXhnt4Riuj5DxqRhf"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Lastman Standing",
+      "url": "https://open.spotify.com/track/46P9ESmF3WAGEpllZFAWbd"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -1807,26 +1807,6 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
-        "name": "The Vintage",
-        "url": "https://open.spotify.com/album/7orYFPZrVEjtcsJjzWF7CN"
-      },
-      "artists": [
-        {
-          "name": "P-Type",
-          "url": "https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq"
-        },
-        {
-          "name": "Heritage",
-          "url": "https://open.spotify.com/artist/7Bi1bkRJF0g9l81yusFQZP"
-        }
-      ],
-      "duration_ms": 238133,
-      "name": "A Long Time Ago (feat. Heritage)",
-      "url": "https://open.spotify.com/track/0ECcBoAhm3VML4sTbfSXgn"
-    },
-    {
-      "added_at": "2023-08-10 14:02:26",
-      "album": {
         "name": "Respect 4 Brotha",
         "url": "https://open.spotify.com/album/5Bv2IsJcWaidMMPdpBqFzT"
       },
@@ -1847,6 +1827,26 @@
       "duration_ms": 313893,
       "name": "Respect 4 Brotha (feat. Ill Skillz, K.O.D.)",
       "url": "https://open.spotify.com/track/4lcPZcMao0N1c61w7OC0sg"
+    },
+    {
+      "added_at": "2023-08-10 14:02:26",
+      "album": {
+        "name": "The Vintage",
+        "url": "https://open.spotify.com/album/7orYFPZrVEjtcsJjzWF7CN"
+      },
+      "artists": [
+        {
+          "name": "P-Type",
+          "url": "https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq"
+        },
+        {
+          "name": "Heritage",
+          "url": "https://open.spotify.com/artist/7Bi1bkRJF0g9l81yusFQZP"
+        }
+      ],
+      "duration_ms": 238133,
+      "name": "A Long Time Ago (feat. Heritage)",
+      "url": "https://open.spotify.com/track/0ECcBoAhm3VML4sTbfSXgn"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -1948,17 +1948,17 @@
           "url": "https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z"
         },
         {
-          "name": "Juvie Train",
-          "url": "https://open.spotify.com/artist/2CEVA02kVlfCD2ASpvadw4"
+          "name": "Geegooin",
+          "url": "https://open.spotify.com/artist/6i47wcSLvsZ9M01UO7zsua"
         },
         {
-          "name": "KOONTA",
-          "url": "https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c"
+          "name": "New Champ",
+          "url": "https://open.spotify.com/artist/4Ozg6A5tcPatPxTEBe019x"
         }
       ],
-      "duration_ms": 263575,
-      "name": "\uc0dd\uae34\ub300\ub85c \ub180\uc544 (feat. Juvie Train & Koonta)",
-      "url": "https://open.spotify.com/track/2sFF5YXdrsC39zLEERtmjV"
+      "duration_ms": 231993,
+      "name": "\uc774 \uad6c\uc5ed\uc5d0 \ubbf8\uce5c\ub188\uc740 \ub098\uc57c (feat. Geegooin & New Champ)",
+      "url": "https://open.spotify.com/track/3diybLrU4zkdF4Ka1ICrEa"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -1983,18 +1983,26 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
-        "name": "The Blue Album",
-        "url": "https://open.spotify.com/album/7mBRI8TtXIHOT66CL27CHx"
+        "name": "One Nation",
+        "url": "https://open.spotify.com/album/6lspY215eSyzOThJHq0WFq"
       },
       "artists": [
         {
-          "name": "Jiggy Fellaz",
-          "url": "https://open.spotify.com/artist/6fGVi4kzWPmzoz7FKGwnIl"
+          "name": "DEADP",
+          "url": "https://open.spotify.com/artist/3hk800Fb8F8IQe1WfFGT1w"
+        },
+        {
+          "name": "DEEPFLOW",
+          "url": "https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z"
+        },
+        {
+          "name": "Nastyz",
+          "url": "https://open.spotify.com/artist/7i3DzAwRJW84LWLHGjzY6g"
         }
       ],
-      "duration_ms": 186973,
-      "name": "New-$-Cool - Jiggy Fellaz",
-      "url": "https://open.spotify.com/track/5xwdzYgQFK9ALpeqb95Cnc"
+      "duration_ms": 228066,
+      "name": "I Don't Give a F**k (With DEADP, DEEPFLOW)",
+      "url": "https://open.spotify.com/track/5JLuYzihQrbSUChde9wCFn"
     },
     {
       "added_at": "2023-08-10 14:02:26",

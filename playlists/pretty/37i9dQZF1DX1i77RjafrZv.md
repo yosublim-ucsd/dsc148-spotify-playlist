@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i77RjafrZv.md) - [plain]
 
 > Les plus belles chansons d'amour de la variété française.
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,711 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,747 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i77RjafrZv.md) - [plain]
 | 9 | [Et même après je t'aimerai](https://open.spotify.com/track/5Pl4OxV9RGWNMO8MGmAoDP) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Étoile flippante \(Version deluxe\)](https://open.spotify.com/album/3exYaNDjha1sFreVSqlWGW) | 3:15 |
 | 10 | [Le temps de l'amour](https://open.spotify.com/track/6rqUOLt9dpfMANLMKTzoWj) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Françoise Hardy \(Tous les garçons et les filles\)](https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2) | 2:24 |
 | 11 | [Elle a les yeux revolver](https://open.spotify.com/track/1fU9wVDi3yZrawv1Rc4vcS) | [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf) | [Marc Lavoine](https://open.spotify.com/album/1kGhulcVIZIB3TYTce9TDc) | 3:39 |
-| 12 | [Quelqu'un m'a dit](https://open.spotify.com/track/5lIOhDGfy2lQJWWwxBm8L4) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Quelqu'un m'a dit](https://open.spotify.com/album/5i2pYUFwnFnNCfXVK4hj1k) | 2:48 |
-| 13 | [Aline](https://open.spotify.com/track/7Jqh8o6yV7EeFokJX5gQsa) | [Christophe](https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ) | [Original Album Classics](https://open.spotify.com/album/2AIYwfhUGyroQaXLRXxZm2) | 2:50 |
+| 12 | [Aline](https://open.spotify.com/track/7Jqh8o6yV7EeFokJX5gQsa) | [Christophe](https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ) | [Original Album Classics](https://open.spotify.com/album/2AIYwfhUGyroQaXLRXxZm2) | 2:50 |
+| 13 | [Quelqu'un m'a dit](https://open.spotify.com/track/5lIOhDGfy2lQJWWwxBm8L4) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Quelqu'un m'a dit](https://open.spotify.com/album/5i2pYUFwnFnNCfXVK4hj1k) | 2:48 |
 | 14 | [Une belle histoire](https://open.spotify.com/track/5oxKrYimzs8AZp8lkoar6V) | [Michel Fugain & Le Big Bazar](https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY) | [Fais comme l'oiseau](https://open.spotify.com/album/3F2NC1OGndItyXyR6uJevP) | 3:15 |
 | 15 | [Et si tu n'existais pas](https://open.spotify.com/track/1GeszH3DWCOKwK0d8D5gEZ) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Joe Dassin](https://open.spotify.com/album/32ZaJ7p8xvsYE8udh6vyOg) | 3:26 |
 | 16 | [Je vous trouve un charme fou \- En duo avec Gaëtan Roussel](https://open.spotify.com/track/0C2yaSWVgCUiiqPyYxSOkd) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ), [Gaëtan Roussel](https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf) | [Il suffit d'y croire \(Version deluxe\)](https://open.spotify.com/album/6jQJaCZB3mCM73p7JE5XNJ) | 2:52 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i77RjafrZv.md) - [plain]
 | 57 | [La chanson des vieux amants](https://open.spotify.com/track/2nn7R5ESQhN5MhWcrHFjLi) | [Jacques Brel](https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs) | [15 Ans D'Amour](https://open.spotify.com/album/6Us9T05UuNDMP2NtVrSVyG) | 4:27 |
 | 58 | [Pas toi](https://open.spotify.com/track/0UcPuBlICvhGbCjnGOHyHj) | [Jean\-Jacques Goldman](https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2) | [Non homologué](https://open.spotify.com/album/3svVRotnkGO3jhrPcCeeCA) | 5:31 |
 | 59 | [L'amour à la machine](https://open.spotify.com/track/2qHYEIBD2g14bOT2YkZ2Ye) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [C'est déjà ça](https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5) | 3:46 |
-| 60 | [Je dis aime](https://open.spotify.com/track/5cwlOmStS0IdMEH0nAuXNO) | [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [Je Dis Aime](https://open.spotify.com/album/0kTDINWpwSWZP2ohupAGav) | 3:56 |
-| 61 | [Aimer est plus fort que d'être aimé](https://open.spotify.com/track/112mJNSudZnvXE3x4mPb6C) | [Daniel Balavoine](https://open.spotify.com/artist/28IqYhzq3UU46bbY0mRgn7) | [Sauver l'amour \(Remastered\)](https://open.spotify.com/album/7MeWkif2iSlOTHh3H7uzyh) | 4:05 |
+| 60 | [Aimer est plus fort que d'être aimé](https://open.spotify.com/track/112mJNSudZnvXE3x4mPb6C) | [Daniel Balavoine](https://open.spotify.com/artist/28IqYhzq3UU46bbY0mRgn7) | [Sauver l'amour \(Remastered\)](https://open.spotify.com/album/7MeWkif2iSlOTHh3H7uzyh) | 4:05 |
+| 61 | [Je dis aime](https://open.spotify.com/track/5cwlOmStS0IdMEH0nAuXNO) | [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [Je Dis Aime](https://open.spotify.com/album/0kTDINWpwSWZP2ohupAGav) | 3:56 |
 | 62 | [Belle \(with Patrick Fiori & Garou\)](https://open.spotify.com/track/0a8sR4JpMM4mcFNItKOjRg) | [Daniel Lavoie](https://open.spotify.com/artist/6S4WAihWktrOYeJdslsjcM), [Patrick Fiori](https://open.spotify.com/artist/18PkzXDURSTyGZTg9w66qq), [Garou](https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn) | [Notre Dame de Paris \- Studio](https://open.spotify.com/album/07jQJEWYAPlISmakXFSmzs) | 4:37 |
 | 63 | [Une autre histoire d'amour](https://open.spotify.com/track/1y472Lgq4XgGDPeKQQKsPQ) | [Tim Dup](https://open.spotify.com/artist/2Ksaxtwx8hMgjUkzIoGDXE) | [Qu'en restera\-t\-il ?](https://open.spotify.com/album/0MlkTeAZHpHembBGF6ga55) | 4:12 |
 | 64 | [Je ne veux qu'elle](https://open.spotify.com/track/0AwSGcHfNy5rRBIZTG4lfe) | [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf), [Claire Keim](https://open.spotify.com/artist/2zsZCvnjzbTBpAb0TI9Ri5) | [Marc Lavoine](https://open.spotify.com/album/3rAiEREUQbY2YQUPpUJWcI) | 3:58 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i77RjafrZv.md) - [plain]
 | 70 | [Hymne à l'amour](https://open.spotify.com/track/7vBb8Ls4yNkNah0Lbo5jTY) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Triple Best Of](https://open.spotify.com/album/2cgWvXNypu7gi27yC7pB18) | 3:26 |
 | 71 | [Un Homme Et Une Femme](https://open.spotify.com/track/5ZvaHksc9o4AuZVrtOOU0r) | [Francis Lai](https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn), [Nicole Croisille](https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV), [Pierre Barouh](https://open.spotify.com/artist/2YjZP3rHnFiJNTw6ZkCJkl) | [Le Cinéma De Francis Lai](https://open.spotify.com/album/4q2uIRtXzeSXEtNegxFR56) | 2:42 |
 | 72 | [Que serais\-je sans toi](https://open.spotify.com/track/2GnJ1XGXv7emJvtuOrM7lQ) | [Jean Ferrat](https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt) | [La montagne 1964](https://open.spotify.com/album/6uZiAcFO8d758nOs687gfg) | 3:03 |
-| 73 | [Capri c'est fini](https://open.spotify.com/track/0PIAMCcvkLZ6P2YwWZ1e5H) | [Hervé Vilard](https://open.spotify.com/artist/1HkC0LOaynhYSGcNklyIcd) | [Capri C'Est Fini](https://open.spotify.com/album/6ZsIMeATSXlD60nK0kADB7) | 3:37 |
+| 73 | [Le coeur grenadine](https://open.spotify.com/track/2OWUD3BSV3yyuYYSpDBhwb) | [Laurent Voulzy](https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z) | [Le coeur grenadine](https://open.spotify.com/album/1Rk16GLTOxgDyfJkUDWFot) | 5:47 |
 | 74 | [Toi mon amour](https://open.spotify.com/track/1moFtJmSZHc8CwSkvGJ7kg) | [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf), [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Best Of \- Morceaux d’amour](https://open.spotify.com/album/7BauVijZ5bgc9J5qqbShce) | 3:40 |
-| 75 | [Le coeur grenadine](https://open.spotify.com/track/2OWUD3BSV3yyuYYSpDBhwb) | [Laurent Voulzy](https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z) | [Le coeur grenadine](https://open.spotify.com/album/1Rk16GLTOxgDyfJkUDWFot) | 5:47 |
+| 75 | [Capri c'est fini](https://open.spotify.com/track/0PIAMCcvkLZ6P2YwWZ1e5H) | [Hervé Vilard](https://open.spotify.com/artist/1HkC0LOaynhYSGcNklyIcd) | [Capri C'Est Fini](https://open.spotify.com/album/6ZsIMeATSXlD60nK0kADB7) | 3:37 |
 
-Snapshot ID: `MCxkNmI5M2EwMWUxM2Y0NDg4MjgyODM2OTFiYjZiMjY5NGY1M2Q3MjQ1`
+Snapshot ID: `MCxkMDRmMGNlMDE0M2NhYjYwMjY5NjJkNThjYjk3YWU4NmJhYTVjOTkw`

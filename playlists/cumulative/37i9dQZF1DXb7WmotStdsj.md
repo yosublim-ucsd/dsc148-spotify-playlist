@@ -4,7 +4,7 @@
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Djalil
 
-179 songs - 14 hr 37 min
+180 songs - 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Allah Ghaleb](https://open.spotify.com/track/4wqi6XARco9AQohzx82qti) | [Abdou Gambitta](https://open.spotify.com/artist/1Wvj6pS5vEqLFeg6c3YpiC) | [Allah Ghaleb](https://open.spotify.com/album/166IIJAv1paB97IjvM4fGF) | 5:11 | 2023-10-19 |  |
 | [Allo Gatli Nsani](https://open.spotify.com/track/121uD1clN6btttnxb2K9Dt) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [amine la colombe](https://open.spotify.com/artist/38ODAyQq6fM934Xv9vCjoX) | [Allo Gatli Nsani](https://open.spotify.com/album/17OmiViuVUN1ejZmVY9cl7) | 5:33 | 2021-10-19 | 2022-11-02 |
 | [Allo Gatli Nsani](https://open.spotify.com/track/1aqDhCas4pdRphE1xISQUa) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [Allo Gatli Nsani](https://open.spotify.com/album/1USeU5Fjj3Z5NPIVyOukQS) | 5:33 | 2022-10-30 |  |
+| [Allo Oui](https://open.spotify.com/track/0FvnIUp3c3YRawAkprTCp6) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [Allo Oui](https://open.spotify.com/album/0Y98q8LciCVvefjIvkCZlR) | 3:20 | 2023-11-28 |  |
 | [Amoune talens zahri win w ana win](https://open.spotify.com/track/5CLJ2AUPt5FEehRBKlaP2I) | [Chiheb Records](https://open.spotify.com/artist/1BzNuIZWSLjzzSGdhrAVzE) | [Amoune talens zahri win w ana win](https://open.spotify.com/album/1lBG8SHriKycg8252UOGX3) | 3:05 | 2022-09-08 | 2022-09-20 |
 | [Amour éternel](https://open.spotify.com/track/4Sea9Lf0PINpNxhZi1N0eK) | [Cheb Wahid](https://open.spotify.com/artist/41pjPOVGlvetRYm4xx7bYw) | [Amour éternel](https://open.spotify.com/album/0rnOYqNe9BKgJw9VS12Zp0) | 5:02 | 2022-08-28 | 2023-05-02 |
 | [Ana wiyak](https://open.spotify.com/track/4dw3HdccXL0pQQTgSwdRs6) | [Bilal Assarguini](https://open.spotify.com/artist/2taSKJRDLOVQg0g0RnFDVH) | [Ana wiyak](https://open.spotify.com/album/7kuIaZYSdwLrufUJu8YRmk) | 3:03 | 2022-09-20 | 2023-07-19 |
@@ -44,7 +45,7 @@
 | [Cheikh Mamidou Mazal Tama3 Fe Retour](https://open.spotify.com/track/2Z2orYLp8Ox5gnlVPP5oQY) | [Tipo Bel Abbes](https://open.spotify.com/artist/1YvBlQFAF0qeOZjYLN83xF) | [Cheikh Mamidou Mazal Tama3 Fe Retour](https://open.spotify.com/album/58EVW8ZXLjD3ThafQaDCMy) | 4:45 | 2022-09-20 | 2023-01-26 |
 | [Chira brune](https://open.spotify.com/track/5ykL3LdQ7Ls8T2Ii2YMmfG) | [Cheb Mourad](https://open.spotify.com/artist/2zjXHi6RZyaS2t0P1BrxBs) | [Chira brune](https://open.spotify.com/album/2mF9wTY2zWXkU1SczMu1nl) | 8:52 | 2021-10-19 | 2023-01-04 |
 | [Choufi Bentek Ma Daret Fiya](https://open.spotify.com/track/4hQgTdJF1Z1PdDrhjYBiUC) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2) | [Choufi Bentek Ma Daret Fiya](https://open.spotify.com/album/2FN9F2iscX3gYpuqvsxAdD) | 5:25 | 2021-10-19 | 2023-03-25 |
-| [Choufou lamour madar fiya](https://open.spotify.com/track/1lduNwd2JPXTlTBgYlGmre) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [Choufou lamour madar fiya](https://open.spotify.com/album/0ZVGBiwlUZIFKljBm7btnG) | 3:08 | 2023-11-03 |  |
+| [Choufou lamour madar fiya](https://open.spotify.com/track/1lduNwd2JPXTlTBgYlGmre) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [Choufou lamour madar fiya](https://open.spotify.com/album/0ZVGBiwlUZIFKljBm7btnG) | 3:08 | 2023-11-03 | 2023-11-30 |
 | [Classico](https://open.spotify.com/track/2J4q5rfEpzy8bHPzlEOkQx) | [Cheb Bilal](https://open.spotify.com/artist/59N7N5tX53jyPhAmsRi4or) | [Classico](https://open.spotify.com/album/4zMmjcQdRXH9Bd13d5Mm2V) | 3:49 | 2023-08-02 | 2023-11-06 |
 | [Corona](https://open.spotify.com/track/3FBCyQCJMBPzAMdtY6c1bP) | [Cheb Bello](https://open.spotify.com/artist/5Io1qNaw4iKM3t7kHgCsBo), [DJ Moulay](https://open.spotify.com/artist/3RHFZVCcl94jZRgIT51Yig) | [Corona](https://open.spotify.com/album/3xrsu3KBqRQ15AlDIjGkyL) | 4:02 | 2021-10-19 | 2022-05-12 |
 | [Célibataire Taajabni](https://open.spotify.com/track/5b1Ha5pzXLE5t6VjwJnbJz) | [Hbib Himoune](https://open.spotify.com/artist/3SMU7cRz5Li03TpmGncVg6) | [Célibataire Taajabni](https://open.spotify.com/album/73YRT6VgEfaPcS4mRoF2Er) | 5:03 | 2022-09-20 | 2022-12-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ziQH0F90kL.md) - [plain]
 
 > Hoy es noche de...
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,615 likes - 90 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,675 likes - 90 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ziQH0F90kL.md) - [plain]
 | 33 | [Medallo](https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Hecho En Medellín](https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh) | 3:53 |
 | 34 | [Qué Más Pues?](https://open.spotify.com/track/6D2TCm4nf5nxAcdGJ7w3QP) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 3:37 |
 | 35 | [Girl](https://open.spotify.com/track/43NqTeL8pgBxKHPMiJKUP5) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Easy Money Baby](https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ) | 3:06 |
-| 36 | [PUNTO G](https://open.spotify.com/track/0oBtwScT4B4BR5kZitNWd5) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [PUNTO G](https://open.spotify.com/album/7ushCUbR1asPHeuxA5Dq8N) | 2:31 |
-| 37 | [Porno](https://open.spotify.com/track/34ZngZgo8xicbt1EE8Ob8Z) | [Rich Music LTD](https://open.spotify.com/artist/2kqUKsTuEj1lPbm6BSn1AU), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [The Academy](https://open.spotify.com/album/1faqBAWocW4ZOe0OFjudGw) | 3:32 |
+| 36 | [Porno](https://open.spotify.com/track/34ZngZgo8xicbt1EE8Ob8Z) | [Rich Music LTD](https://open.spotify.com/artist/2kqUKsTuEj1lPbm6BSn1AU), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [The Academy](https://open.spotify.com/album/1faqBAWocW4ZOe0OFjudGw) | 3:32 |
+| 37 | [PUNTO G](https://open.spotify.com/track/0oBtwScT4B4BR5kZitNWd5) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [PUNTO G](https://open.spotify.com/album/7ushCUbR1asPHeuxA5Dq8N) | 2:31 |
 | 38 | [Downtown](https://open.spotify.com/track/3Ga6eKrUFf12ouh9Yw3v2D) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Downtown](https://open.spotify.com/album/1qifX05Cb36CfsIgnhv2Lt) | 3:13 |
 | 39 | [Normal](https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Normal](https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu) | 2:51 |
 | 40 | [Mi Cuarto](https://open.spotify.com/track/6fmQjRuo7XvRFCK2qex5hQ) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [DI LETRA](https://open.spotify.com/album/1NTAPW8MixdsXxAi4v9hBn) | 3:17 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ziQH0F90kL.md) - [plain]
 | 89 | [D X VIDA](https://open.spotify.com/track/3Eir8UUB1pFuaarEsAWBWS) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [D X VIDA](https://open.spotify.com/album/5kr54C0vWd6aZq3IarPMdk) | 3:02 |
 | 90 | [Maléfica](https://open.spotify.com/track/0U9OZFbn82oICL2jNbpNHy) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Nena Trampa](https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48) | 3:03 |
 
-Snapshot ID: `MCxiOWZiMDY2MmJiOTMxYjNhMzcxOGRjM2E1OTJlNjcwZDNlYTM0NjIx`
+Snapshot ID: `MCxlN2ZkZmUxYzczNjFhNmNkMmE5OGM5NGE5MmYyNmQ3YzJiODgwYjUx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,695 likes - 60 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,789 likes - 60 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 | 59 | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU) | 2:10 |
 | 60 | [Cardboard Box](https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Cardboard Box](https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj) | 2:41 |
 
-Snapshot ID: `MCwzYjE2Njc3MTc0NjUyMmQ0YzkzZGY1ODQ1YmFkM2U4MDAxNzRlZDEx`
+Snapshot ID: `MCxlMjE2Y2E1NDc2M2E1ODRiNDE1ZmE2ZDY1NDYxYTIyN2FhOTM5NWE2`

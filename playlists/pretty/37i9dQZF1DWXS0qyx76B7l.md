@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXS0qyx76B7l.md) - [plain]
 
 > Songs about the iconic city\. Welcome to the Big Apple!
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,385 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,445 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXS0qyx76B7l.md) - [plain]
 | 31 | [Loungin \(Who Do Ya Luv\) \- Remix](https://open.spotify.com/track/0UN5OvKlbg06LnZyVk48ll) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Mr\. Smith \(Deluxe Edition\)](https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA) | 3:49 |
 | 32 | [I And Love And You](https://open.spotify.com/track/7CEV9VwA8XO9wwxTXgYKvY) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [I And Love And You](https://open.spotify.com/album/2PPFtYUnnqMYflIEn3b7ON) | 5:00 |
 | 33 | [Children's Story](https://open.spotify.com/track/15HgR9Ht4obJOcMG4wregp) | [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1) | [The Great Adventures Of Slick Rick \(Deluxe Edition\)](https://open.spotify.com/album/4TzJROIsnfOkLUWmeOjt2F) | 4:02 |
-| 34 | [New York Groove](https://open.spotify.com/track/1BvpeiApX8qhof8Pmi3YlH) | [Ace Frehley](https://open.spotify.com/artist/62olK5zZHSgFUXGDykgBL8) | [Kiss: Ace Frehley](https://open.spotify.com/album/1NbNjch8MgBHxmRwm0OFhg) | 3:03 |
-| 35 | [Manhattan](https://open.spotify.com/track/2d5vz9uU5Jan1rX8mkxw2w) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp) | 3:24 |
+| 34 | [Manhattan](https://open.spotify.com/track/2d5vz9uU5Jan1rX8mkxw2w) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp) | 3:24 |
+| 35 | [New York Groove](https://open.spotify.com/track/1BvpeiApX8qhof8Pmi3YlH) | [Ace Frehley](https://open.spotify.com/artist/62olK5zZHSgFUXGDykgBL8) | [Kiss: Ace Frehley](https://open.spotify.com/album/1NbNjch8MgBHxmRwm0OFhg) | 3:03 |
 | 36 | [Downtown](https://open.spotify.com/track/6S55C80YzjhSrCRRd1p80b) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [The Ultimate Petula Clark](https://open.spotify.com/album/3YQNnpZGnTAxgQ2CQ8C1l8) | 3:07 |
 | 37 | [6th Avenue Heartache](https://open.spotify.com/track/1qEyqHR1xsj2MC4Qy0dsaI) | [The Wallflowers](https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB) | [Bringing Down The Horse](https://open.spotify.com/album/2BOlaNQt6WJ1HO5pQcKHGh) | 5:37 |
 | 38 | [Autumn In New York](https://open.spotify.com/track/6o5RbQYhmF4yRRw7ZArxGL) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Recital](https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXS0qyx76B7l.md) - [plain]
 | 49 | [Brooklyn In The Summer](https://open.spotify.com/track/5bTysxqGHXdSGiZVgljzCY) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Brooklyn In The Summer](https://open.spotify.com/album/2e2K7qbaFSqnBQWvYmgS4L) | 3:28 |
 | 50 | [girl in new york](https://open.spotify.com/track/6APTEV2EIRpBEvuTrS5XTv) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [girl in new york](https://open.spotify.com/album/5VcW0GioIrLZ8WZbhrhcL5) | 3:31 |
 
-Snapshot ID: `MCwxOWY0YWVhOWY4ODkyMTliYmM5ZjIyNjg3NTEwZDgwYzY0ZGQ4MDQ4`
+Snapshot ID: `MCxkOGM3YmU4YzhiMzljYzAzNzlhMzk0ZDVhOGFjN2U2MDMyYWNhMjhi`

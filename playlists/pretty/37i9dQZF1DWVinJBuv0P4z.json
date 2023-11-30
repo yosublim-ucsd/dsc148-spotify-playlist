@@ -1,12 +1,12 @@
 {
   "description": "Happy tunes from the 50s, 60s & 70s. Cover: The Beach Boys.",
-  "num_followers": 371613,
+  "num_followers": 371711,
   "original_name": "Feel Good Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDc2ZmQ4MmY1ODRmZTA0MjY1MGU3NzI3Yjk4ZTc0MWIzYjFjYjNh",
+  "snapshot_id": "MCw5MzQ2MGJhMzMwZjM1OTIwZmYwYmNmODIzNWQ0M2UzY2VmMzEyNDE2",
   "tracks": [
     {
       "added_at": "2023-01-03 15:04:36",
@@ -825,6 +825,22 @@
       "url": "https://open.spotify.com/track/6Ac4NVYYl2U73QiTt11ZKd"
     },
     {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
+        "name": "Born to Be Alive (The Original)",
+        "url": "https://open.spotify.com/album/0kVK9lFFTzhnEb4ETElbCD"
+      },
+      "artists": [
+        {
+          "name": "Patrick Hernandez",
+          "url": "https://open.spotify.com/artist/1CcEgi464SWZsKY5579u7z"
+        }
+      ],
+      "duration_ms": 188133,
+      "name": "Born to Be Alive - The Original",
+      "url": "https://open.spotify.com/track/3XIEWK1V9n25PS9Vb6axj5"
+    },
+    {
       "added_at": "2023-05-23 07:27:41",
       "album": {
         "name": "Grease (The Original Motion Picture Soundtrack)",
@@ -843,22 +859,6 @@
       "duration_ms": 169840,
       "name": "You're The One That I Want - From \u201cGrease\u201d",
       "url": "https://open.spotify.com/track/0B9x2BRHqj3Qer7biM3pU3"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
-        "name": "Born to Be Alive (The Original)",
-        "url": "https://open.spotify.com/album/0kVK9lFFTzhnEb4ETElbCD"
-      },
-      "artists": [
-        {
-          "name": "Patrick Hernandez",
-          "url": "https://open.spotify.com/artist/1CcEgi464SWZsKY5579u7z"
-        }
-      ],
-      "duration_ms": 188133,
-      "name": "Born to Be Alive - The Original",
-      "url": "https://open.spotify.com/track/3XIEWK1V9n25PS9Vb6axj5"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -957,6 +957,22 @@
       "url": "https://open.spotify.com/track/4GhtDORJiSRYxj6M1bv0vX"
     },
     {
+      "added_at": "2023-05-23 07:27:41",
+      "album": {
+        "name": "Take The Heat Off Me",
+        "url": "https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4"
+      },
+      "artists": [
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "duration_ms": 242240,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt"
+    },
+    {
       "added_at": "2023-11-10 14:47:14",
       "album": {
         "name": "Fire And Water",
@@ -975,18 +991,18 @@
     {
       "added_at": "2023-05-23 07:27:41",
       "album": {
-        "name": "Take The Heat Off Me",
-        "url": "https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4"
+        "name": "Young Hearts Run Free (US Internet Release)",
+        "url": "https://open.spotify.com/album/39ntuIhbcC8rsmRV2qXkmZ"
       },
       "artists": [
         {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+          "name": "Candi Staton",
+          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
         }
       ],
-      "duration_ms": 242240,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt"
+      "duration_ms": 248360,
+      "name": "Young Hearts Run Free",
+      "url": "https://open.spotify.com/track/3MFa9idQuY4iJLWsZl3tIQ"
     },
     {
       "added_at": "2023-05-23 07:27:41",
@@ -1007,22 +1023,6 @@
       "duration_ms": 216906,
       "name": "Summer Nights - From \u201cGrease\u201d",
       "url": "https://open.spotify.com/track/2AVkArcfALVk2X8sfPRzya"
-    },
-    {
-      "added_at": "2023-05-23 07:27:41",
-      "album": {
-        "name": "Young Hearts Run Free (US Internet Release)",
-        "url": "https://open.spotify.com/album/39ntuIhbcC8rsmRV2qXkmZ"
-      },
-      "artists": [
-        {
-          "name": "Candi Staton",
-          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
-        }
-      ],
-      "duration_ms": 248360,
-      "name": "Young Hearts Run Free",
-      "url": "https://open.spotify.com/track/3MFa9idQuY4iJLWsZl3tIQ"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "Back Stabbers",
-        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 178400,
-      "name": "Love Train",
-      "url": "https://open.spotify.com/track/28285KFbyCq8sJofn58qlD"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
         "name": "Teaser And The Firecat (Remastered 2021)",
         "url": "https://open.spotify.com/album/7ez8WRX4sGhKHZryJPJCNg"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 199453,
       "name": "Morning Has Broken - Remastered 2021",
       "url": "https://open.spotify.com/track/5y8d8RHvxb0KiTa9Nq0xWp"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
+        "name": "Back Stabbers",
+        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 178400,
+      "name": "Love Train",
+      "url": "https://open.spotify.com/track/28285KFbyCq8sJofn58qlD"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "The Birds, The Bees, & The Monkees",
-        "url": "https://open.spotify.com/album/2Ov6zb7NfgDh3EXSIIWrb2"
-      },
-      "artists": [
-        {
-          "name": "The Monkees",
-          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
-        }
-      ],
-      "duration_ms": 179613,
-      "name": "Daydream Believer",
-      "url": "https://open.spotify.com/track/7uEcCGtM1FBBGIhPozhJjv"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
         "name": "Kung Fu Fighter",
         "url": "https://open.spotify.com/album/53DDpuRxvNAUby9WODE3h2"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 197935,
       "name": "Kung Fu Fighting",
       "url": "https://open.spotify.com/track/7K8QsHbmUpSX37oOCL4e2g"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
+        "name": "The Birds, The Bees, & The Monkees",
+        "url": "https://open.spotify.com/album/2Ov6zb7NfgDh3EXSIIWrb2"
+      },
+      "artists": [
+        {
+          "name": "The Monkees",
+          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
+        }
+      ],
+      "duration_ms": 179613,
+      "name": "Daydream Believer",
+      "url": "https://open.spotify.com/track/7uEcCGtM1FBBGIhPozhJjv"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "The Very Best Of \"The Archies\"",
-        "url": "https://open.spotify.com/album/7spOTrIPTM8RrMIAhCjLJi"
-      },
-      "artists": [
-        {
-          "name": "The Archies",
-          "url": "https://open.spotify.com/artist/33QmoCkSqADuQEtMCysYLh"
-        }
-      ],
-      "duration_ms": 167186,
-      "name": "Sugar, Sugar",
-      "url": "https://open.spotify.com/track/3iSws76HjaU7k49EqJVTfF"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
         "name": "Classic Hits",
         "url": "https://open.spotify.com/album/03T5bXMySvcTGqm8RpIJsV"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 208866,
       "name": "Love Is in the Air",
       "url": "https://open.spotify.com/track/4v2K1ZcRXUc87CLtEXI3Pf"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
+        "name": "The Very Best Of \"The Archies\"",
+        "url": "https://open.spotify.com/album/7spOTrIPTM8RrMIAhCjLJi"
+      },
+      "artists": [
+        {
+          "name": "The Archies",
+          "url": "https://open.spotify.com/artist/33QmoCkSqADuQEtMCysYLh"
+        }
+      ],
+      "duration_ms": 167186,
+      "name": "Sugar, Sugar",
+      "url": "https://open.spotify.com/track/3iSws76HjaU7k49EqJVTfF"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "I'll Cry If I Want To",
-        "url": "https://open.spotify.com/album/7KSrseQi4wJDUfMT4mxNo8"
-      },
-      "artists": [
-        {
-          "name": "Lesley Gore",
-          "url": "https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "It's My Party",
-      "url": "https://open.spotify.com/track/1Pq47iFLC5U7j8xeNiNcuS"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
         "name": "Elvis' Golden Records",
         "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 136026,
       "name": "Hound Dog",
       "url": "https://open.spotify.com/track/64Ny7djQ6rNJspquof2KoX"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
+        "name": "I'll Cry If I Want To",
+        "url": "https://open.spotify.com/album/7KSrseQi4wJDUfMT4mxNo8"
+      },
+      "artists": [
+        {
+          "name": "Lesley Gore",
+          "url": "https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "It's My Party",
+      "url": "https://open.spotify.com/track/1Pq47iFLC5U7j8xeNiNcuS"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/678WzpMIeszIatLVnczSnS"
-      },
-      "artists": [
-        {
-          "name": "The Lovin' Spoonful",
-          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
-        }
-      ],
-      "duration_ms": 139093,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/3c06k9x6MHHdPQi3ix68yF"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
         "name": "Mary Wells Sings My Guy",
         "url": "https://open.spotify.com/album/6pUoPt9A6P1G8YJ5vw6GBP"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 174440,
       "name": "My Guy",
       "url": "https://open.spotify.com/track/4591VqUIXysNlmI5NcAIUd"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/678WzpMIeszIatLVnczSnS"
+      },
+      "artists": [
+        {
+          "name": "The Lovin' Spoonful",
+          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
+        }
+      ],
+      "duration_ms": 139093,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/3c06k9x6MHHdPQi3ix68yF"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "Endless Flight",
-        "url": "https://open.spotify.com/album/1d79WI0e5XKTpBymbKADDQ"
-      },
-      "artists": [
-        {
-          "name": "Leo Sayer",
-          "url": "https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV"
-        }
-      ],
-      "duration_ms": 219466,
-      "name": "You Make Me Feel Like Dancing - Remastered",
-      "url": "https://open.spotify.com/track/6gTrbqZnyljwXdYQTyBkSx"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
         "name": "Close To You",
         "url": "https://open.spotify.com/album/1CsuCA05y9r7ftG9bGGtWV"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 276000,
       "name": "(They Long To Be) Close To You",
       "url": "https://open.spotify.com/track/50q2aUjWoTn6CJIfSPRJQA"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
+        "name": "Endless Flight",
+        "url": "https://open.spotify.com/album/1d79WI0e5XKTpBymbKADDQ"
+      },
+      "artists": [
+        {
+          "name": "Leo Sayer",
+          "url": "https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV"
+        }
+      ],
+      "duration_ms": 219466,
+      "name": "You Make Me Feel Like Dancing - Remastered",
+      "url": "https://open.spotify.com/track/6gTrbqZnyljwXdYQTyBkSx"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "Step II",
-        "url": "https://open.spotify.com/album/6y64gP67AegGu2rspM2GHo"
-      },
-      "artists": [
-        {
-          "name": "Sylvester",
-          "url": "https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y"
-        }
-      ],
-      "duration_ms": 400115,
-      "name": "You Make Me Feel (Mighty Real)",
-      "url": "https://open.spotify.com/track/0RnCUYXa7jhgTXtiMXF2PQ"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
         "name": "Main Course",
         "url": "https://open.spotify.com/album/2blsPE3sO5SnroFjfEAlfj"
       },
@@ -1987,18 +1971,18 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "Dancin' Party: The Chubby Checker Collection (1960-1966)",
-        "url": "https://open.spotify.com/album/0YgWInMbwTXPCaHRUHqoeY"
+        "name": "Step II",
+        "url": "https://open.spotify.com/album/6y64gP67AegGu2rspM2GHo"
       },
       "artists": [
         {
-          "name": "Chubby Checker",
-          "url": "https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2"
+          "name": "Sylvester",
+          "url": "https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y"
         }
       ],
-      "duration_ms": 155040,
-      "name": "The Twist",
-      "url": "https://open.spotify.com/track/4YCnTYbq3oL1Lqpyxg33CU"
+      "duration_ms": 400115,
+      "name": "You Make Me Feel (Mighty Real)",
+      "url": "https://open.spotify.com/track/0RnCUYXa7jhgTXtiMXF2PQ"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -2015,6 +1999,22 @@
       "duration_ms": 491933,
       "name": "Ring My Bell",
       "url": "https://open.spotify.com/track/7GK2KVYH8FrTC9zehmjVMd"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
+        "name": "Dancin' Party: The Chubby Checker Collection (1960-1966)",
+        "url": "https://open.spotify.com/album/0YgWInMbwTXPCaHRUHqoeY"
+      },
+      "artists": [
+        {
+          "name": "Chubby Checker",
+          "url": "https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2"
+        }
+      ],
+      "duration_ms": 155040,
+      "name": "The Twist",
+      "url": "https://open.spotify.com/track/4YCnTYbq3oL1Lqpyxg33CU"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -2183,22 +2183,6 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "Greatest Hits / Tequila",
-        "url": "https://open.spotify.com/album/7dcrUMOet5HIHYiDaVk89R"
-      },
-      "artists": [
-        {
-          "name": "The Champs",
-          "url": "https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp"
-        }
-      ],
-      "duration_ms": 135240,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/5gJKsGij5oGt5H5RSFYXPa"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
         "name": "Da Doo Ron Ron: The Very Best of The Crystals",
         "url": "https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm"
       },
@@ -2211,6 +2195,22 @@
       "duration_ms": 158853,
       "name": "Then He Kissed Me",
       "url": "https://open.spotify.com/track/7jeOETwLUP84mPQzxlD5nh"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
+        "name": "Greatest Hits / Tequila",
+        "url": "https://open.spotify.com/album/7dcrUMOet5HIHYiDaVk89R"
+      },
+      "artists": [
+        {
+          "name": "The Champs",
+          "url": "https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp"
+        }
+      ],
+      "duration_ms": 135240,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/5gJKsGij5oGt5H5RSFYXPa"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -2359,22 +2359,6 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "I Love To Love - The Best Of",
-        "url": "https://open.spotify.com/album/4tQ54MqaSzOZmi5aL2G647"
-      },
-      "artists": [
-        {
-          "name": "Tina Charles",
-          "url": "https://open.spotify.com/artist/7Jbs4wPCLaKXPxrTxZ2zaa"
-        }
-      ],
-      "duration_ms": 183693,
-      "name": "I Love to Love",
-      "url": "https://open.spotify.com/track/5jWI1xNxABzDRFTnD2yp8L"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
         "name": "Risqu\u00e9 (2018 Remaster)",
         "url": "https://open.spotify.com/album/7rAk4WPpYlYr0fElVfXTOF"
       },
@@ -2387,6 +2371,22 @@
       "duration_ms": 486186,
       "name": "Good Times - 2018 Remaster",
       "url": "https://open.spotify.com/track/2wYKNcoqKW4IEcllj42xz1"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
+        "name": "I Love To Love - The Best Of",
+        "url": "https://open.spotify.com/album/4tQ54MqaSzOZmi5aL2G647"
+      },
+      "artists": [
+        {
+          "name": "Tina Charles",
+          "url": "https://open.spotify.com/artist/7Jbs4wPCLaKXPxrTxZ2zaa"
+        }
+      ],
+      "duration_ms": 183693,
+      "name": "I Love to Love",
+      "url": "https://open.spotify.com/track/5jWI1xNxABzDRFTnD2yp8L"
     },
     {
       "added_at": "2023-01-03 15:04:36",

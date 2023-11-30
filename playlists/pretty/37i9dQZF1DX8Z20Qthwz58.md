@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Z20Qthwz58.md) - [plain]
 
 > Enjoy mysterious and dreamy music as if walking in a dream\. \(꿈 속을 거닐듯 신비롭고 몽환적인 음악들을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,757 likes - 78 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,843 likes - 78 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Z20Qthwz58.md) - [plain]
 | 67 | [Bird](https://open.spotify.com/track/3ZbGV3tQ7nnJaqArImPw3M) | [OurR](https://open.spotify.com/artist/5lC9qDfzcZb5iQp6x17ASP) | [can't](https://open.spotify.com/album/5XKIoRiJI9U2NXBOB7nhjI) | 5:40 |
 | 68 | [Shutdown \(Feat\. Seori\)](https://open.spotify.com/track/3mjSO8tQD78ht78SlFMKd1) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL), [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [6equence](https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1) | 3:21 |
 | 69 | [Overthinking](https://open.spotify.com/track/1OJExKEuSvIdtw9NIaszOc) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 6:10 |
-| 70 | [RAL 9002](https://open.spotify.com/track/1XyMBACv8WJzmnAobpgXiW) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [RAL 9002](https://open.spotify.com/album/5GSpWXgjEc3r0rMcS8yrmY) | 3:09 |
+| 70 | [RAL 9002 \(Feat\. Heize\)](https://open.spotify.com/track/1XyMBACv8WJzmnAobpgXiW) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [RAL 9002](https://open.spotify.com/album/5GSpWXgjEc3r0rMcS8yrmY) | 3:09 |
 | 71 | [lovememore.](https://open.spotify.com/track/0P9XwjnnIPQFTwdqvu01Mf) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [dosii](https://open.spotify.com/album/0nrhKqYSxc2gwoMFzTckU6) | 3:51 |
 | 72 | [걸어서 달까지 walk to the moon \(feat\. kim seungyoon\)](https://open.spotify.com/track/6KK53NBegVg1DjUh9w5Wtn) | [verycoybunny](https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB), [kim seungyoon](https://open.spotify.com/artist/4JLS2R4A5ob8Fra7UpUtBI) | [걸어서 달까지 walk to the moon \(feat\. kim seungyoon\)](https://open.spotify.com/album/0BgBKmOe0WnWjMkVuxLSAS) | 3:18 |
 | 73 | [In other season](https://open.spotify.com/track/6Mwlui0zUBumPzXg0paLxN) | [SUNGHWI](https://open.spotify.com/artist/7rlrjdWClWXnQ0flmhBMXR) | [In other season](https://open.spotify.com/album/6RbTynTTbEM5XBO0AKrFl8) | 4:04 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Z20Qthwz58.md) - [plain]
 | 77 | [FALLING \(Prod\. by DPR CREAM\)](https://open.spotify.com/track/1sGc6tYogGNv3t09uGlucD) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [FALLING](https://open.spotify.com/album/2MKQwaFRybLOoQ1Cl19OLm) | 3:34 |
 | 78 | [Butterfly](https://open.spotify.com/track/6wNKKoUQfLPmch7cqSFytV) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[X X\]](https://open.spotify.com/album/49CwarPH45v2tFRHhnjtPf) | 3:57 |
 
-Snapshot ID: `MCwzZTk2ODA5ODUzMzg3Yjg1ZWZjZDU3ODBkNjlhODc5MjhmY2NjNjhj`
+Snapshot ID: `MCw4ZWU2MDk2YTI2YTU3ODE0OGY5OGRmZjM3MGQzMWU2ZTQ5MWZmNWYw`

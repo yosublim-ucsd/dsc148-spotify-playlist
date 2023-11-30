@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FsCLsHeMrM.md) - [plain]
 
 > Gettin' figgy with it, bana\-na\-na\-nanana
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,011,179 likes - 150 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,011,407 likes - 150 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FsCLsHeMrM.md) - [plain]
 | 149 | [Turnin' Me Up](https://open.spotify.com/track/5MjAFPcmrR1DYCgZrXCN4d) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [In My Mind](https://open.spotify.com/album/15iSR05cslUeYgf2kuWDhu) | 4:29 |
 | 150 | [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/13Irp51zj01BZu2XtDrnAg) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1KtDsGsSRGbnmH07v5hB1I) | 3:07 |
 
-Snapshot ID: `MCwyMjFiNWQ2Y2ExNjc3Yzg4ZDlmM2UxZDdkM2Y1MDA3NmVmYTFlNGM4`
+Snapshot ID: `MCwwM2M1ZmYxOWE0MDdhZTA1ZjE4NTE0NDAzMTBlMGJlZGNhNWI4NmMw`

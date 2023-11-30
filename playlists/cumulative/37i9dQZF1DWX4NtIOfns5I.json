@@ -2108,10 +2108,28 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 216791,
       "name": "very overdue goodbye",
       "url": "https://open.spotify.com/track/2OVZqrdQ6QgaYPvm7L4EYD"
+    },
+    {
+      "album": {
+        "name": "earlier from '20",
+        "url": "https://open.spotify.com/album/2AekUERWbAA27Eyux7Gj9Z"
+      },
+      "artists": [
+        {
+          "name": "runo plum",
+          "url": "https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216791,
+      "name": "very overdue goodbye",
+      "url": "https://open.spotify.com/track/6onEf8upjTGmqve2G6dm3h"
     },
     {
       "album": {

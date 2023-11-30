@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 
 > wru? OTW! Cover: Jaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,604 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,668 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 40 | [Loneliness](https://open.spotify.com/track/3ILYKzQBhKPQ58FgibMt5N) | [Putri Ariani](https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On) | [Loneliness](https://open.spotify.com/album/5wYwKu8dqEcnrgoGonXAbc) | 3:01 |
 | 41 | [terima kasih](https://open.spotify.com/track/2m1ozXAKFam3YQXRPDnEfE) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [terima kasih](https://open.spotify.com/album/0RIVNgA95YzOPDHD4aYbqZ) | 3:24 |
 | 42 | [Asing](https://open.spotify.com/track/1QLZjY2AUftrVR7I3E0c4J) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Asing](https://open.spotify.com/album/08pl2TGC3mp8XJ9CUfzID7) | 3:13 |
-| 43 | [Jalan Pulang](https://open.spotify.com/track/1ado6H8nwj0izGVinobwuP) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Jalan Pulang](https://open.spotify.com/album/0LqqN2YAboL8vcXqJYpEme) | 3:36 |
-| 44 | [Bunga Hati](https://open.spotify.com/track/4AfhlJghKIWkXa8sfFEXVd) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Bunga Hati](https://open.spotify.com/album/4F4XK6lkrHveOTKSGMeGF4) | 2:53 |
+| 43 | [Bunga Hati](https://open.spotify.com/track/4AfhlJghKIWkXa8sfFEXVd) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Bunga Hati](https://open.spotify.com/album/4F4XK6lkrHveOTKSGMeGF4) | 2:53 |
+| 44 | [Jalan Pulang](https://open.spotify.com/track/1ado6H8nwj0izGVinobwuP) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Jalan Pulang](https://open.spotify.com/album/0LqqN2YAboL8vcXqJYpEme) | 3:36 |
 | 45 | [Aku Memilihmu](https://open.spotify.com/track/7EKp3CMq9Eb0TF8TLsDne4) | [Brisia Jodie](https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb), [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Aku Memilihmu](https://open.spotify.com/album/4Eupz9BkITuFqlHttMeu9K) | 3:51 |
 | 46 | [Malampagi](https://open.spotify.com/track/6QV8eV3QVFp5upaTYjm7Xy) | [Saixse](https://open.spotify.com/artist/1gV4xyIbGBTuARpaQoFzJQ) | [Malampagi](https://open.spotify.com/album/1FTrY9mP0Cs22oIK6cIcfO) | 4:06 |
 | 47 | [Terima Kasih Cinta](https://open.spotify.com/track/3YNMHA6FqeqWzZyw0JVyIi) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Confession No.1](https://open.spotify.com/album/1ahdxVWtqETWgYIuO4Uv8v) | 4:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 49 | [Pujaanku \(feat\. Aisyah Aziz\)](https://open.spotify.com/track/5GqeQ8Xozl7ymUVV7RXjNg) | [Masdo](https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO), [Aisyah Aziz](https://open.spotify.com/artist/4DBXSxqzYS9jcuOpkn0Mh4) | [Pujaanku \(feat\. Aisyah Aziz\)](https://open.spotify.com/album/2m8JrO1U3rXYULpZCtAoHZ) | 3:54 |
 | 50 | [Luka](https://open.spotify.com/track/3uAbxlHUC7hZkUMQ2NfIOp) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Berona](https://open.spotify.com/album/6sV7rZpvGIIQS1ccs61YXV) | 3:13 |
 
-Snapshot ID: `MCwxOTgwYmQ4ZTE2ZDEzNjgyOWUyYzAwNjkwZjk2ZTY5ZWY1MjJlNTc1`
+Snapshot ID: `MCxhYmRjNmZmNGYwMzA5Zjg5YmMzNWI4ZWVlMWFmODQ3ZWUzZTA2YWU4`

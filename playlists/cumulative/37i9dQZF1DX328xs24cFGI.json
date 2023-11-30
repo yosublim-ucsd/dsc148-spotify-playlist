@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Ai need your love",
+        "url": "https://open.spotify.com/album/7fg7uDn8Dhslc4DqBlnbmw"
+      },
+      "artists": [
+        {
+          "name": "\u51a8\u5ca1\u611b",
+          "url": "https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226274,
+      "name": "Ai need your love",
+      "url": "https://open.spotify.com/track/5IKcZuIuzKyx7hyqKTY7cg"
+    },
+    {
+      "album": {
         "name": "ai no hana",
         "url": "https://open.spotify.com/album/05BmOU0qWEmrkLoGxwoV1p"
       },
@@ -333,6 +351,24 @@
     },
     {
       "album": {
+        "name": "Candle",
+        "url": "https://open.spotify.com/album/1Dy7aa6yDhK1X0RdrVnHhq"
+      },
+      "artists": [
+        {
+          "name": "\u30de\u30eb\u30b7\u30a3",
+          "url": "https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235346,
+      "name": "Calm",
+      "url": "https://open.spotify.com/track/0B4QXKyErj0nhM2WZZeUoR"
+    },
+    {
+      "album": {
         "name": "SiX",
         "url": "https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku"
       },
@@ -380,10 +416,28 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 186845,
       "name": "Darlin'",
       "url": "https://open.spotify.com/track/2sf21oF3XMuEl5uj7zS3oE"
+    },
+    {
+      "album": {
+        "name": "Darlin'",
+        "url": "https://open.spotify.com/album/2qlU1ZkAgL649iwJ9O8aLU"
+      },
+      "artists": [
+        {
+          "name": "Yumcha",
+          "url": "https://open.spotify.com/artist/2xZeyR38yb0Wru7qwAeT1g"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186845,
+      "name": "Darlin'",
+      "url": "https://open.spotify.com/track/49gahZG8BL6CDL0fcO03cY"
     },
     {
       "album": {
@@ -1521,6 +1575,24 @@
     },
     {
       "album": {
+        "name": "Shiritai",
+        "url": "https://open.spotify.com/album/5oxdlAISKzaDASZT2UFojf"
+      },
+      "artists": [
+        {
+          "name": "LUA",
+          "url": "https://open.spotify.com/artist/6Kn5qpqJoHEY2D8uvgUQut"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187520,
+      "name": "Shiritai",
+      "url": "https://open.spotify.com/track/04iVugMr9elupIsmDVwaDq"
+    },
+    {
+      "album": {
         "name": "something about kiss",
         "url": "https://open.spotify.com/album/2ReKtitdhRxSgXiRvFJlh0"
       },
@@ -2264,7 +2336,7 @@
       ],
       "date_added": "2023-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 262693,
       "name": "\u30a2\u30a4\u30ce\u30ab\u30bf\u30c1",
       "url": "https://open.spotify.com/track/7mSVOYRseiZi20xtBKhHnF"
@@ -2838,7 +2910,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-29",
+      "date_removed": null,
       "duration_ms": 196800,
       "name": "\u30ea\u30c3\u30c4\u30d1\u30fc\u30c6\u30a3\u30fc",
       "url": "https://open.spotify.com/track/1FDrCBlNru2OrVXePw1BFQ"
@@ -3000,7 +3072,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 235346,
       "name": "\u51ea",
       "url": "https://open.spotify.com/track/0o0i6AYvStQb7W7AK3KCwr"
@@ -3486,7 +3558,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 226274,
       "name": "\u611b need your love",
       "url": "https://open.spotify.com/track/7BBaJjWYEfEGFuUyM9zCyB"
@@ -3738,7 +3810,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 187520,
       "name": "\u77e5\u308a\u305f\u3044",
       "url": "https://open.spotify.com/track/0ZzlTt1awceD0HCG2ntBi3"

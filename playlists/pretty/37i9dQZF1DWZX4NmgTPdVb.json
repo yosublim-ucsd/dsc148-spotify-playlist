@@ -1,12 +1,12 @@
 {
   "description": "The songs of the 1970s that will make you dance all summer long!",
-  "num_followers": 185532,
+  "num_followers": 185669,
   "original_name": "Summer Hits of the 70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYmVkNDIxYTYxOGFlOGFiZDgwOGI4ZTkwYjI1ZGNiNzhkMjZjZTkz",
+  "snapshot_id": "MCw4MGVkMWRjZWFjMTMwOTgwZGJjN2RjZmNmZWMxZDgzYmRjMmEwMDk1",
   "tracks": [
     {
       "added_at": "2022-04-18 23:11:58",
@@ -399,6 +399,22 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
+        "name": "Little Queen",
+        "url": "https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF"
+      },
+      "artists": [
+        {
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+        }
+      ],
+      "duration_ms": 261933,
+      "name": "Barracuda",
+      "url": "https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
         "name": "The Gambler",
         "url": "https://open.spotify.com/album/3XdvQjIMjdwxRivZrg1ziJ"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 197146,
       "name": "December, 1963 (Oh What a Night!)",
       "url": "https://open.spotify.com/track/1hQFF33xi8ruavZNyovtUN"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
-        "name": "Little Queen",
-        "url": "https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF"
-      },
-      "artists": [
-        {
-          "name": "Heart",
-          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
-        }
-      ],
-      "duration_ms": 261933,
-      "name": "Barracuda",
-      "url": "https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 174826,
-      "name": "Cecilia",
-      "url": "https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
         "name": "The Captain and Me",
         "url": "https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 207266,
       "name": "Long Train Runnin'",
       "url": "https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 174826,
+      "name": "Cecilia",
+      "url": "https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "A Day At The Races (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/0lmQ6rAGcChLjGXM52Qu3i"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 296493,
-      "name": "Somebody To Love - Remastered 2011",
-      "url": "https://open.spotify.com/track/6cFZ4PLC19taNlpl9pbGMf"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
         "name": "Chaka",
         "url": "https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 249600,
       "name": "I'm Every Woman",
       "url": "https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "A Day At The Races (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/0lmQ6rAGcChLjGXM52Qu3i"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 296493,
+      "name": "Somebody To Love - Remastered 2011",
+      "url": "https://open.spotify.com/track/6cFZ4PLC19taNlpl9pbGMf"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Changes In Latitudes, Changes In Attitudes",
-        "url": "https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
-        }
-      ],
-      "duration_ms": 250933,
-      "name": "Margaritaville",
-      "url": "https://open.spotify.com/track/4EEjMyQub6tgFVshlM9j1M"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
         "name": "Mud Slide Slim and the Blue Horizon (2019 Remaster)",
         "url": "https://open.spotify.com/album/3ahHxtwRwMIdHcAo0MEXxX"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 268866,
       "name": "You've Got a Friend - 2019 Remaster",
       "url": "https://open.spotify.com/track/6zV8IpLvw0tkRSVCFQJB1y"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "Changes In Latitudes, Changes In Attitudes",
+        "url": "https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        }
+      ],
+      "duration_ms": 250933,
+      "name": "Margaritaville",
+      "url": "https://open.spotify.com/track/4EEjMyQub6tgFVshlM9j1M"
     },
     {
       "added_at": "2022-04-18 23:11:58",

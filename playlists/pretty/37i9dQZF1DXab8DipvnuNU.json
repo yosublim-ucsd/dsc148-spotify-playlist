@@ -1,12 +1,12 @@
 {
   "description": "Essential tunes for time with the family.",
-  "num_followers": 19952,
+  "num_followers": 20022,
   "original_name": "The Cookout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZGZjMmE3ZWFlNWM3YWFhOWNlZTFlYzFjZTk0ZDlkYjhiYmRlNjAw",
+  "snapshot_id": "MCw0ZmQ2NTVlZGQ0ZmIyYjgwZDExNjljMDZiZDhmMGE5MjFhYzRlNWMw",
   "tracks": [
     {
       "added_at": "2020-07-23 21:45:59",
@@ -219,6 +219,22 @@
     {
       "added_at": "2023-06-16 17:58:31",
       "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 267413,
+      "name": "Love On Top",
+      "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
+    },
+    {
+      "added_at": "2023-06-16 17:58:31",
+      "album": {
         "name": "I Am",
         "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 288293,
       "name": "Boogie Wonderland",
       "url": "https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD"
-    },
-    {
-      "added_at": "2023-06-16 17:58:31",
-      "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 267413,
-      "name": "Love On Top",
-      "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
     },
     {
       "added_at": "2023-06-16 17:58:31",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-06-16 17:58:31",
       "album": {
-        "name": "Street Songs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5"
-      },
-      "artists": [
-        {
-          "name": "Rick James",
-          "url": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
-        }
-      ],
-      "duration_ms": 205466,
-      "name": "Super Freak",
-      "url": "https://open.spotify.com/track/2dCmGcEOQrMQhMMS8Vj7Ca"
-    },
-    {
-      "added_at": "2023-06-16 17:58:31",
-      "album": {
         "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
         "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 226240,
       "name": "Kiss",
       "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"
+    },
+    {
+      "added_at": "2023-06-16 17:58:31",
+      "album": {
+        "name": "Street Songs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5"
+      },
+      "artists": [
+        {
+          "name": "Rick James",
+          "url": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
+        }
+      ],
+      "duration_ms": 205466,
+      "name": "Super Freak",
+      "url": "https://open.spotify.com/track/2dCmGcEOQrMQhMMS8Vj7Ca"
     },
     {
       "added_at": "2023-06-16 17:58:31",
@@ -333,20 +333,36 @@
       "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
     },
     {
-      "added_at": "2020-07-23 21:45:59",
+      "added_at": "2023-06-16 17:58:31",
       "album": {
-        "name": "Very Necessary",
-        "url": "https://open.spotify.com/album/2W2EmEpud13QHlhCFS9P8g"
+        "name": "Kaleidoscope Dream",
+        "url": "https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD"
       },
       "artists": [
         {
-          "name": "Salt-N-Pepa",
-          "url": "https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ"
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
         }
       ],
-      "duration_ms": 248573,
-      "name": "Shoop",
-      "url": "https://open.spotify.com/track/0Pu71wxadDlB8fJXfjIjeJ"
+      "duration_ms": 193146,
+      "name": "Adorn",
+      "url": "https://open.spotify.com/track/25cUhiAod71TIQSNicOaW3"
+    },
+    {
+      "added_at": "2023-06-16 17:58:31",
+      "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 239226,
+      "name": "Remember the Time",
+      "url": "https://open.spotify.com/track/4jnFqNWeJCeCRHc4HCdxfd"
     },
     {
       "added_at": "2023-06-16 17:58:31",
@@ -365,20 +381,20 @@
       "url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8"
     },
     {
-      "added_at": "2023-06-16 17:58:31",
+      "added_at": "2020-07-23 21:45:59",
       "album": {
-        "name": "Kaleidoscope Dream",
-        "url": "https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD"
+        "name": "Very Necessary",
+        "url": "https://open.spotify.com/album/2W2EmEpud13QHlhCFS9P8g"
       },
       "artists": [
         {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+          "name": "Salt-N-Pepa",
+          "url": "https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ"
         }
       ],
-      "duration_ms": 193146,
-      "name": "Adorn",
-      "url": "https://open.spotify.com/track/25cUhiAod71TIQSNicOaW3"
+      "duration_ms": 248573,
+      "name": "Shoop",
+      "url": "https://open.spotify.com/track/0Pu71wxadDlB8fJXfjIjeJ"
     },
     {
       "added_at": "2020-07-23 21:45:59",
@@ -395,22 +411,6 @@
       "duration_ms": 261853,
       "name": "Poison",
       "url": "https://open.spotify.com/track/6m59VvDUi0UQsB2eZ9wVbH"
-    },
-    {
-      "added_at": "2023-06-16 17:58:31",
-      "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 239226,
-      "name": "Remember the Time",
-      "url": "https://open.spotify.com/track/4jnFqNWeJCeCRHc4HCdxfd"
     },
     {
       "added_at": "2023-06-16 17:58:31",
@@ -481,6 +481,22 @@
       "url": "https://open.spotify.com/track/3eRE1KwnUma75nu1HhoNY4"
     },
     {
+      "added_at": "2023-06-16 17:58:31",
+      "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 239026,
+      "name": "P.Y.T. (Pretty Young Thing)",
+      "url": "https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k"
+    },
+    {
       "added_at": "2020-07-23 21:45:59",
       "album": {
         "name": "Every Great Motown Hit Of Marvin Gaye",
@@ -499,18 +515,18 @@
     {
       "added_at": "2023-06-16 17:58:31",
       "album": {
-        "name": "Thriller",
-        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+        "name": "Keep the Faith",
+        "url": "https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL"
       },
       "artists": [
         {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
         }
       ],
-      "duration_ms": 239026,
-      "name": "P.Y.T. (Pretty Young Thing)",
-      "url": "https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k"
+      "duration_ms": 275706,
+      "name": "Love Like This",
+      "url": "https://open.spotify.com/track/7MQywXGHEev7JmwwIzMcao"
     },
     {
       "added_at": "2023-06-16 17:58:31",
@@ -527,22 +543,6 @@
       "duration_ms": 307946,
       "name": "Got to Be Real",
       "url": "https://open.spotify.com/track/58r4JuwHhXLAkttkaUZfLw"
-    },
-    {
-      "added_at": "2023-06-16 17:58:31",
-      "album": {
-        "name": "Keep the Faith",
-        "url": "https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL"
-      },
-      "artists": [
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
-        }
-      ],
-      "duration_ms": 275706,
-      "name": "Love Like This",
-      "url": "https://open.spotify.com/track/7MQywXGHEev7JmwwIzMcao"
     },
     {
       "added_at": "2023-06-16 17:58:31",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-06-16 17:58:31",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 268706,
-      "name": "One More Chance / Stay with Me - Remix; 2007 Remaster",
-      "url": "https://open.spotify.com/track/7fXhkARAtS66kxexMIAx8O"
-    },
-    {
-      "added_at": "2023-06-16 17:58:31",
-      "album": {
         "name": "Oh Honey",
         "url": "https://open.spotify.com/album/2Hu144ydKhUydmnhfEEqfi"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 356200,
       "name": "Oh Honey",
       "url": "https://open.spotify.com/track/3TiCuJiisBOB9HzKAM6FDG"
+    },
+    {
+      "added_at": "2023-06-16 17:58:31",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 268706,
+      "name": "One More Chance / Stay with Me - Remix; 2007 Remaster",
+      "url": "https://open.spotify.com/track/7fXhkARAtS66kxexMIAx8O"
     },
     {
       "added_at": "2020-07-23 21:45:59",
@@ -883,6 +883,54 @@
     {
       "added_at": "2020-07-23 21:45:59",
       "album": {
+        "name": "Light Of Worlds",
+        "url": "https://open.spotify.com/album/46kA6zL7Cga656urk1nJNo"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "duration_ms": 257866,
+      "name": "Summer Madness",
+      "url": "https://open.spotify.com/track/2uMqG8w8oi09fB2YA2QLOm"
+    },
+    {
+      "added_at": "2023-06-16 17:58:31",
+      "album": {
+        "name": "Between the Sheets",
+        "url": "https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 340013,
+      "name": "Between the Sheets",
+      "url": "https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv"
+    },
+    {
+      "added_at": "2020-07-23 21:45:59",
+      "album": {
+        "name": "Aijuswanaseing",
+        "url": "https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c"
+      },
+      "artists": [
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "duration_ms": 251426,
+      "name": "Just Friends (Sunny)",
+      "url": "https://open.spotify.com/track/5jgEJXjECdlhzNgfITSTVm"
+    },
+    {
+      "added_at": "2020-07-23 21:45:59",
+      "album": {
         "name": "4",
         "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
       },
@@ -903,34 +951,18 @@
     {
       "added_at": "2020-07-23 21:45:59",
       "album": {
-        "name": "Aijuswanaseing",
-        "url": "https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c"
+        "name": "Brown Sugar",
+        "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
       },
       "artists": [
         {
-          "name": "Musiq Soulchild",
-          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 251426,
-      "name": "Just Friends (Sunny)",
-      "url": "https://open.spotify.com/track/5jgEJXjECdlhzNgfITSTVm"
-    },
-    {
-      "added_at": "2023-06-16 17:58:31",
-      "album": {
-        "name": "Between the Sheets",
-        "url": "https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 340013,
-      "name": "Between the Sheets",
-      "url": "https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv"
+      "duration_ms": 346266,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66"
     },
     {
       "added_at": "2023-06-16 17:58:31",
@@ -947,22 +979,6 @@
       "duration_ms": 352920,
       "name": "Cruisin'",
       "url": "https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje"
-    },
-    {
-      "added_at": "2020-07-23 21:45:59",
-      "album": {
-        "name": "Light Of Worlds",
-        "url": "https://open.spotify.com/album/46kA6zL7Cga656urk1nJNo"
-      },
-      "artists": [
-        {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
-        }
-      ],
-      "duration_ms": 257866,
-      "name": "Summer Madness",
-      "url": "https://open.spotify.com/track/2uMqG8w8oi09fB2YA2QLOm"
     },
     {
       "added_at": "2023-06-16 17:58:31",
@@ -983,22 +999,6 @@
       "duration_ms": 236906,
       "name": "Still Not a Player (feat. Joe)",
       "url": "https://open.spotify.com/track/5PG3h38oiQLEJlOuOvIs80"
-    },
-    {
-      "added_at": "2020-07-23 21:45:59",
-      "album": {
-        "name": "Brown Sugar",
-        "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 346266,
-      "name": "Lady",
-      "url": "https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66"
     },
     {
       "added_at": "2020-07-23 21:45:59",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-06-16 17:58:31",
       "album": {
+        "name": "The Gap Band IV",
+        "url": "https://open.spotify.com/album/3pJ0uie1bu662cOCCu5cfG"
+      },
+      "artists": [
+        {
+          "name": "The Gap Band",
+          "url": "https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp"
+        }
+      ],
+      "duration_ms": 198800,
+      "name": "Outstanding",
+      "url": "https://open.spotify.com/track/2yd0XI7g0BhAgY9GkpPClU"
+    },
+    {
+      "added_at": "2023-06-16 17:58:31",
+      "album": {
         "name": "Rufus Featuring Chaka Khan",
         "url": "https://open.spotify.com/album/3iWfRfxjYYQFN2Kvh3GuYX"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 291320,
       "name": "Thank You (Falettinme Be Mice Elf Agin) - Single Version",
       "url": "https://open.spotify.com/track/74iQ3gahRTOGc19bYadBE3"
-    },
-    {
-      "added_at": "2023-06-16 17:58:31",
-      "album": {
-        "name": "The Gap Band IV",
-        "url": "https://open.spotify.com/album/3pJ0uie1bu662cOCCu5cfG"
-      },
-      "artists": [
-        {
-          "name": "The Gap Band",
-          "url": "https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp"
-        }
-      ],
-      "duration_ms": 198800,
-      "name": "Outstanding",
-      "url": "https://open.spotify.com/track/2yd0XI7g0BhAgY9GkpPClU"
     },
     {
       "added_at": "2020-07-23 21:45:59",

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Marshmello & Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,581 likes - 84 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,629 likes - 84 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Water](https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Water](https://open.spotify.com/album/2GyIYK9C2K870xKjo5HI9D) | 3:11 |
-| 2 | [Still Got It Bad](https://open.spotify.com/track/3sBekLF0BJII3VhcmqzMHg) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio) | [Still Got It bad](https://open.spotify.com/album/6XqCdGxjzalzwAWE3ekh68) | 2:21 |
+| 2 | [Still Got It Bad](https://open.spotify.com/track/3sBekLF0BJII3VhcmqzMHg) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio) | [Still Got It Bad](https://open.spotify.com/album/6XqCdGxjzalzwAWE3ekh68) | 2:21 |
 | 3 | [You Don't Even Know Me](https://open.spotify.com/track/0gqspClYQRq1Bdc3R48lnj) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [You Don’t Even Know Me](https://open.spotify.com/album/1YSZG8X5xJNi3KL9pxgghn) | 2:31 |
 | 4 | [Vocation](https://open.spotify.com/track/6vkEJP0K2rPfe0ucPnKkLd) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Cosmo](https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE) | 3:04 |
 | 5 | [Body Moving](https://open.spotify.com/track/5SFCEkybGYmmzKqewtDEaN) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Body Moving](https://open.spotify.com/album/5EcypjAXyzxlrF5AKCNg9K) | 2:34 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 83 | [Girls Just Wanna Have Fun](https://open.spotify.com/track/24XAAZIbQriREBFYshbMxV) | [Carine](https://open.spotify.com/artist/5EADzWzO9nhqVZdNW7hrBi), [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [Girls Just Wanna Have Fun](https://open.spotify.com/album/7EIBCfvFJeDwPOIVn1FIq9) | 2:42 |
 | 84 | [Don't Look Down \(feat\. BANKS\)](https://open.spotify.com/track/0NUsMgXjITsbxk5WC4aleu) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Don't Look Down \(feat\. BANKS\)](https://open.spotify.com/album/1tBi2zMsVkQYk8VBkdCNnu) | 3:25 |
 
-Snapshot ID: `MCxjOGUwOTQ5OTNlMzMzM2FkNjA0NDMwODhiZWY3Mjk0NmU5NmM4NmRm`
+Snapshot ID: `MCxiNWY0OTIyNDllYzhiMDE1YWMxMmQ2MTY3NDViMmM3NTdlOGVmYTZk`

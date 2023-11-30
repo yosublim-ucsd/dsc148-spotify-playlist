@@ -1,12 +1,12 @@
 {
   "description": "Uplifting anthems to power you through 'til the weekend.",
-  "num_followers": 1088019,
+  "num_followers": 1087969,
   "original_name": "Feel Good Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDMwMzU0NGQ0MTExOTk5YTljMDg3YTliZDVkZTk1MWE1ZGFjOWY2",
+  "snapshot_id": "MCwzZWM5YmM4YjcyMDVmOWIwMTUwMDgwZTY1NmM2NzI4YTlkZThmYjc1",
   "tracks": [
     {
       "added_at": "2020-08-27 16:10:25",
@@ -387,22 +387,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Diana Ross Presents The Jackson 5",
-        "url": "https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1"
-      },
-      "artists": [
-        {
-          "name": "The Jackson 5",
-          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
-        }
-      ],
-      "duration_ms": 176333,
-      "name": "I Want You Back",
-      "url": "https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "Version",
         "url": "https://open.spotify.com/album/15uqXXD0sAdZuxNxTxktlR"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 219413,
       "name": "Valerie (feat. Amy Winehouse) - Version Revisited",
       "url": "https://open.spotify.com/track/6kopmMZiyLmw7h66uXcXR7"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "Diana Ross Presents The Jackson 5",
+        "url": "https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "duration_ms": 176333,
+      "name": "I Want You Back",
+      "url": "https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -559,22 +559,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Graceland (25th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "You Can Call Me Al",
-      "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "THE E.N.D. (THE ENERGY NEVER DIES)",
         "url": "https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 289133,
       "name": "I Gotta Feeling",
       "url": "https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "Graceland (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "You Can Call Me Al",
+      "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Together - The Best Of",
-        "url": "https://open.spotify.com/album/6ksyAGg2voMofLSmaQycHq"
-      },
-      "artists": [
-        {
-          "name": "Reef",
-          "url": "https://open.spotify.com/artist/191Koh7PSIi28IrGAGoINO"
-        }
-      ],
-      "duration_ms": 217413,
-      "name": "Place Your Hands",
-      "url": "https://open.spotify.com/track/29OrKlVi8EM1u8VDIlF4qO"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "Stereo Typical",
         "url": "https://open.spotify.com/album/7dn5EHt0T7jdPf4q0ljrmp"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 175081,
       "name": "When I Was A Youngster",
       "url": "https://open.spotify.com/track/2LrTrVQc3jblY2lh61zNsu"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "Together - The Best Of",
+        "url": "https://open.spotify.com/album/6ksyAGg2voMofLSmaQycHq"
+      },
+      "artists": [
+        {
+          "name": "Reef",
+          "url": "https://open.spotify.com/artist/191Koh7PSIi28IrGAGoINO"
+        }
+      ],
+      "duration_ms": 217413,
+      "name": "Place Your Hands",
+      "url": "https://open.spotify.com/track/29OrKlVi8EM1u8VDIlF4qO"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Bright Idea",
-        "url": "https://open.spotify.com/album/1hkpfGagWyjViaKQlkwrnG"
-      },
-      "artists": [
-        {
-          "name": "Orson",
-          "url": "https://open.spotify.com/artist/5zgc8pooHxd4un0F49YaCJ"
-        }
-      ],
-      "duration_ms": 254786,
-      "name": "Bright Idea",
-      "url": "https://open.spotify.com/track/1zy1Rc0OFMaLOXjQkp14Ae"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "Sunmachine (25th Anniversary Edition)",
         "url": "https://open.spotify.com/album/0anIASKjSOCbsX901aIJPU"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 235430,
       "name": "Sunchyme (Radio Edit) [Instrumental] - 2023 Remaster",
       "url": "https://open.spotify.com/track/1YnXX2CraK8O3G5V9KiWNY"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "Bright Idea",
+        "url": "https://open.spotify.com/album/1hkpfGagWyjViaKQlkwrnG"
+      },
+      "artists": [
+        {
+          "name": "Orson",
+          "url": "https://open.spotify.com/artist/5zgc8pooHxd4un0F49YaCJ"
+        }
+      ],
+      "duration_ms": 254786,
+      "name": "Bright Idea",
+      "url": "https://open.spotify.com/track/1zy1Rc0OFMaLOXjQkp14Ae"
     }
   ],
   "unique_name": "Feel Good Friday",

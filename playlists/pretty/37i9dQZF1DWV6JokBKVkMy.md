@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 
 > The sound and soul that keeps Mauritius jamming
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,235 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,241 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 | 8 | [Trottinette](https://open.spotify.com/track/7wRYnhZoNWtqcFJHAycRiC) | [P.L.L](https://open.spotify.com/artist/13RiaFe3XEZ4jw8t6YRquf), [Abdoul](https://open.spotify.com/artist/23IOAUeDv9mxdPgXvGW8ES), [DJ SEBB](https://open.spotify.com/artist/6tWA0KYYzAiQzgKzImRQGF) | [Trottinette](https://open.spotify.com/album/5pBlzWYCpI1ftHAEF5IE0Z) | 3:04 |
 | 9 | [Rève nou ancètre](https://open.spotify.com/track/7CJjb2vLJSQPqUIEX1TpRV) | [Cassiya](https://open.spotify.com/artist/2OIKHs5XFIbEcwpLaIdLSo) | [Séparation \(Zenfants perdi simé\)](https://open.spotify.com/album/6kF1jWTjju83CRUsy8ITBY) | 5:06 |
 | 10 | [La force l'amour](https://open.spotify.com/track/0JIvxiw7QnoNeyQSo9PV5D) | [Clara](https://open.spotify.com/artist/443OVqDhZDFnORwaL5QRuB) | [Mon univers](https://open.spotify.com/album/5qQ2QdNViIJp553V4KS86y) | 3:40 |
-| 11 | [Vilain manière](https://open.spotify.com/track/6tfUdpb4AMvQWUgo72qdZl) | [Missty](https://open.spotify.com/artist/046Doq33XrspImCS9IpnuC) | [Roule a li même](https://open.spotify.com/album/61HHyJnfDxcHjV2kuxNhWs) | 3:46 |
-| 12 | [Alimé difé \- Version originale](https://open.spotify.com/track/1eW6Go45BRf63uRPsZ3XeJ) | [Cariño](https://open.spotify.com/artist/0DZpMT7NzKkrCPjYBtT3K0) | [Alimé difé \(Ile Maurice\)](https://open.spotify.com/album/70LlYn7WYSI6QLSBUCAjFb) | 5:13 |
+| 11 | [Alimé difé \- Version originale](https://open.spotify.com/track/1eW6Go45BRf63uRPsZ3XeJ) | [Cariño](https://open.spotify.com/artist/0DZpMT7NzKkrCPjYBtT3K0) | [Alimé difé \(Ile Maurice\)](https://open.spotify.com/album/70LlYn7WYSI6QLSBUCAjFb) | 5:13 |
+| 12 | [Vilain manière](https://open.spotify.com/track/6tfUdpb4AMvQWUgo72qdZl) | [Missty](https://open.spotify.com/artist/046Doq33XrspImCS9IpnuC) | [Roule a li même](https://open.spotify.com/album/61HHyJnfDxcHjV2kuxNhWs) | 3:46 |
 | 13 | [Zoli](https://open.spotify.com/track/7JrGJYwOf7qoXCe4CGsyj8) | [JSB Morning Game](https://open.spotify.com/artist/6B9Kbq1Jds4MxuYWXSAoj7), [Madii](https://open.spotify.com/artist/4WVU7WxxBuOaOvzT5cvUwN) | [Zoli](https://open.spotify.com/album/5V6V6Ox9iETTcoGCVVLi8T) | 5:16 |
 | 14 | [Di pain griyé](https://open.spotify.com/track/7oHhCJYWfrQC6000ZhGrEk) | [Désiré François](https://open.spotify.com/artist/7uq44YtefJQWMa2Gkz66C9), [Cassiya](https://open.spotify.com/artist/2OIKHs5XFIbEcwpLaIdLSo) | [Di pain griyé](https://open.spotify.com/album/2jCW2gVLxfJ7Sj1KtNyWgr) | 4:02 |
 | 15 | [Ena Ennta Zetwal](https://open.spotify.com/track/7dMsbTGUUg06S0j75VdbQT) | [Bigg Frankii](https://open.spotify.com/artist/2Xi6Sscx1ZPJ3opKWFm8ya) | [ZENFAN LAKAZ TOL](https://open.spotify.com/album/1GBg8Y6eqNGic3rLWVg5DR) | 4:12 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 | 25 | [Viré](https://open.spotify.com/track/20U9P7HP7tPzVMaqYjY0h3) | [Alain Ramanisum](https://open.spotify.com/artist/3mKlu8EOxqgz8FGQzhoZI1), [Le Groupe Ravanna](https://open.spotify.com/artist/50X4qPAQVtwQGQju0NFmk3) | [Main dans la main](https://open.spotify.com/album/0lizQfOuuxUcmAXNlosdsv) | 5:04 |
 | 26 | [Ingra](https://open.spotify.com/track/2s87WVUExrg6x979SqMdwL) | [Jason Heerah](https://open.spotify.com/artist/3bHZcXXpgcQWHFNVJqbYGl), [Otentik Groove](https://open.spotify.com/artist/6OTvKPpBX7i2HM5NDo8dtK), [Désiré François](https://open.spotify.com/artist/7uq44YtefJQWMa2Gkz66C9) | [La famille](https://open.spotify.com/album/5SAJBPp2Cny5DAGZjw3Kt7) | 4:07 |
 | 27 | [Sega Ar Pwa](https://open.spotify.com/track/2SS0rS7nObBiXaAv7iAoZ2) | [Sky to Be](https://open.spotify.com/artist/7uWVHfDA75struQziMT7Ch) | [Sega Ar Pwa](https://open.spotify.com/album/5m1fAvzB5et9ka6sjSlVSn) | 4:47 |
-| 28 | [Bhai Aboo](https://open.spotify.com/track/2M6DNq1HqzEOTtLRENGrTw) | [Claudio](https://open.spotify.com/artist/53dJpxJvzAbr4hntW9gfAT) | [Soul Sok Séga](https://open.spotify.com/album/05QHCNR4jFKJJ2rwsJrT5f) | 4:21 |
-| 29 | [Mario](https://open.spotify.com/track/74beHnWiIdINBtXaqU5sSJ) | [IVANN](https://open.spotify.com/artist/4u3TXX9deH83yOdIGyuLvm), [Bomboclak](https://open.spotify.com/artist/3XttXqwftYJosFdH5pNcVf), [Frank J](https://open.spotify.com/artist/7vf2a26PIY6jHSkriioJrT) | [Mario](https://open.spotify.com/album/3ddiv84hCD2DU3RWhHTczv) | 3:50 |
+| 28 | [Mario](https://open.spotify.com/track/74beHnWiIdINBtXaqU5sSJ) | [IVANN](https://open.spotify.com/artist/4u3TXX9deH83yOdIGyuLvm), [Bomboclak](https://open.spotify.com/artist/3XttXqwftYJosFdH5pNcVf), [Frank J](https://open.spotify.com/artist/7vf2a26PIY6jHSkriioJrT) | [Mario](https://open.spotify.com/album/3ddiv84hCD2DU3RWhHTczv) | 3:50 |
+| 29 | [Bhai Aboo](https://open.spotify.com/track/2M6DNq1HqzEOTtLRENGrTw) | [Claudio](https://open.spotify.com/artist/53dJpxJvzAbr4hntW9gfAT) | [Soul Sok Séga](https://open.spotify.com/album/05QHCNR4jFKJJ2rwsJrT5f) | 4:21 |
 | 30 | [La Route Karanbol](https://open.spotify.com/track/2jUcmHFWjsrwvOsvSAhzE2) | [Jason Lejuste](https://open.spotify.com/artist/1x41Q8BgCOA6QsJrYZrGG7) | [La Route Karanbol](https://open.spotify.com/album/1ndDvQAsYaUaDUcK7JSYJ6) | 4:47 |
 | 31 | [Sa Pa Zot Traka](https://open.spotify.com/track/3h9cg05iOZh0OxygaQysSL) | [Lin](https://open.spotify.com/artist/1T6UhDmdCVCPG1qtswbRTN) | [Sa Pa Zot Traka](https://open.spotify.com/album/0TmbeFuM2ZKDuAnKFF7Y0H) | 4:45 |
 | 32 | [Ti lipié fer rozet](https://open.spotify.com/track/31pGdVTn8adJ9FV2515Lkd) | [JSB Morning Game](https://open.spotify.com/artist/6B9Kbq1Jds4MxuYWXSAoj7), [Julien Verloppe](https://open.spotify.com/artist/40ld1lEZz0y0r3cHngak60) | [Zalouzi](https://open.spotify.com/album/4i8Ud0mH48W6TV0lfTr6UK) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 | 49 | [Sega Champagne](https://open.spotify.com/track/1e2rj3iOYXGEJ6Ybftt5Uc) | [Dj sebak](https://open.spotify.com/artist/2UuZrG6o0LIr6DHfRmaCaW), [Allkind](https://open.spotify.com/artist/4wwdxuQPc2GPHX7floaX97) | [Sega Champagne](https://open.spotify.com/album/3Cml3TVka9BZIw3Rz6st5Q) | 3:51 |
 | 50 | [Medley: créole comme l'espagnol / Séga charlot](https://open.spotify.com/track/2DwjoEPD7o6fibRYnd4Zyd) | [Narmine Ducap](https://open.spotify.com/artist/5Y9cLaiuHNHVI6cXDcBpbC) | [Crazé salle verte](https://open.spotify.com/album/3u7u5R4RCYrLbQSmUuoFKK) | 3:35 |
 
-Snapshot ID: `MCw4YjFiNmIxNDQ4MGFlODc0OTFmZGQwNGJlMDA2ZTdmYTcxNDdlYWJh`
+Snapshot ID: `MCw0OGFmNTIxNDRjNzE4OGU1MzdhODI5OTZmZDQ5ZGM4N2MxNmQ3Yzc5`

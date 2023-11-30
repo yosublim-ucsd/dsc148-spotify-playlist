@@ -1,12 +1,12 @@
 {
   "description": "Versiones ac\u00fasticas de tus canciones favoritas. ",
-  "num_followers": 149397,
+  "num_followers": 149481,
   "original_name": "Covers Ac\u00fasticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDM2MWZmY2IxMzJjNGExODJjNzA4YThhOGYzM2ZmMGJmODM2YmY0",
+  "snapshot_id": "MCw1ZWVjOWFjM2RhMmI5Yjc0MDk1YTRiNDk4YjFjYmEyMzkzZjVmMDg1",
   "tracks": [
     {
       "added_at": "2022-02-18 06:00:00",
@@ -323,18 +323,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "De Musica Ligera",
-        "url": "https://open.spotify.com/album/5vSmAtrh1r2BEaMjibhXgK"
+        "name": "Covers, Demos y Otras Travesuras de Blanco",
+        "url": "https://open.spotify.com/album/4VQapZIWdrrXDMCJw0zZCT"
       },
       "artists": [
         {
-          "name": "S\u00e1mdalo",
-          "url": "https://open.spotify.com/artist/3bN66LSNd6HV80aVnehBo7"
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        },
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
         }
       ],
-      "duration_ms": 174096,
-      "name": "De Musica Ligera",
-      "url": "https://open.spotify.com/track/1GS8GZYrkYqLrhTHxDpNqT"
+      "duration_ms": 215931,
+      "name": "El Amor Que Me Ten\u00eda - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/6mt72Dsl80Q69kREndCnk5"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -355,22 +359,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Covers, Demos y Otras Travesuras de Blanco",
-        "url": "https://open.spotify.com/album/4VQapZIWdrrXDMCJw0zZCT"
+        "name": "De Musica Ligera",
+        "url": "https://open.spotify.com/album/5vSmAtrh1r2BEaMjibhXgK"
       },
       "artists": [
         {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-        },
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+          "name": "S\u00e1mdalo",
+          "url": "https://open.spotify.com/artist/3bN66LSNd6HV80aVnehBo7"
         }
       ],
-      "duration_ms": 215931,
-      "name": "El Amor Que Me Ten\u00eda - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/6mt72Dsl80Q69kREndCnk5"
+      "duration_ms": 174096,
+      "name": "De Musica Ligera",
+      "url": "https://open.spotify.com/track/1GS8GZYrkYqLrhTHxDpNqT"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -559,6 +559,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
+        "name": "El Microbito",
+        "url": "https://open.spotify.com/album/1JNiJzyqgPtKD7xIBizamR"
+      },
+      "artists": [
+        {
+          "name": "Kendra Soliz",
+          "url": "https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ"
+        }
+      ],
+      "duration_ms": 194874,
+      "name": "El Microbito",
+      "url": "https://open.spotify.com/track/3RZuoHtuX5ZJsqbAtJu8Cw"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
         "name": "Mis Covers, Vol. 3",
         "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
       },
@@ -591,22 +607,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "El Microbito",
-        "url": "https://open.spotify.com/album/1JNiJzyqgPtKD7xIBizamR"
-      },
-      "artists": [
-        {
-          "name": "Kendra Soliz",
-          "url": "https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ"
-        }
-      ],
-      "duration_ms": 194874,
-      "name": "El Microbito",
-      "url": "https://open.spotify.com/track/3RZuoHtuX5ZJsqbAtJu8Cw"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Burbujas De Amor",
         "url": "https://open.spotify.com/album/5KxfxXMZ1iQnrBTRZsiMwq"
       },
@@ -619,22 +619,6 @@
       "duration_ms": 243684,
       "name": "Burbujas De Amor",
       "url": "https://open.spotify.com/track/7mFya2xWCV656q9MtUelFw"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Viral Hits, Vol. 1",
-        "url": "https://open.spotify.com/album/31JdJ3MW0AF5NWmLECQwnU"
-      },
-      "artists": [
-        {
-          "name": "Reggaeton Ac\u00fastico",
-          "url": "https://open.spotify.com/artist/2VG4iLloPFUXdzWZ9knh7c"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Bailame",
-      "url": "https://open.spotify.com/track/2LCU2czGbhjboUOUjB9NUK"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -655,6 +639,22 @@
       "duration_ms": 180094,
       "name": "\u00c9chame La Culpa",
       "url": "https://open.spotify.com/track/0qo4ywp67nbYaxI2hRBVts"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Viral Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/31JdJ3MW0AF5NWmLECQwnU"
+      },
+      "artists": [
+        {
+          "name": "Reggaeton Ac\u00fastico",
+          "url": "https://open.spotify.com/artist/2VG4iLloPFUXdzWZ9knh7c"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Bailame",
+      "url": "https://open.spotify.com/track/2LCU2czGbhjboUOUjB9NUK"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Rojo",
-        "url": "https://open.spotify.com/album/3U0nGrF9ZnDkXg8xLnPLPF"
-      },
-      "artists": [
-        {
-          "name": "Melanie Espinosa",
-          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Rojo",
-      "url": "https://open.spotify.com/track/773HRKZFlA0X7fVyeIBHdY"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Covers, Vol. 2",
         "url": "https://open.spotify.com/album/6KMPmqSSPMWe8HImn6q4S5"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 149292,
       "name": "Esc\u00e1pate Conmigo",
       "url": "https://open.spotify.com/track/0OWuNa52w8ZqQo0pBGdDAL"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Rojo",
+        "url": "https://open.spotify.com/album/3U0nGrF9ZnDkXg8xLnPLPF"
+      },
+      "artists": [
+        {
+          "name": "Melanie Espinosa",
+          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Rojo",
+      "url": "https://open.spotify.com/track/773HRKZFlA0X7fVyeIBHdY"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1015,18 +1015,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Muerte En Hawaii",
-        "url": "https://open.spotify.com/album/2oSkI5ztZQV313ZNifkbDM"
+        "name": "Otro trago",
+        "url": "https://open.spotify.com/album/6YjTRY19KnNn9hU04Uq9Gx"
       },
       "artists": [
         {
-          "name": "Pau Sotomayor",
-          "url": "https://open.spotify.com/artist/056E7SvpkfW3APQoHf35zN"
+          "name": "Xandra Garsem",
+          "url": "https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s"
+        },
+        {
+          "name": "Paul Fourmy",
+          "url": "https://open.spotify.com/artist/0wEhgN98ys7Fzv7FIKUAQo"
         }
       ],
-      "duration_ms": 186689,
-      "name": "Muerte En Hawaii",
-      "url": "https://open.spotify.com/track/4y2wnQgN93puWVDavsMTUi"
+      "duration_ms": 167710,
+      "name": "Otro trago",
+      "url": "https://open.spotify.com/track/6VFsWv9LkBMAnSE4vVqvJV"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1047,22 +1051,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Otro trago",
-        "url": "https://open.spotify.com/album/6YjTRY19KnNn9hU04Uq9Gx"
+        "name": "Muerte En Hawaii",
+        "url": "https://open.spotify.com/album/2oSkI5ztZQV313ZNifkbDM"
       },
       "artists": [
         {
-          "name": "Xandra Garsem",
-          "url": "https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s"
-        },
-        {
-          "name": "Paul Fourmy",
-          "url": "https://open.spotify.com/artist/0wEhgN98ys7Fzv7FIKUAQo"
+          "name": "Pau Sotomayor",
+          "url": "https://open.spotify.com/artist/056E7SvpkfW3APQoHf35zN"
         }
       ],
-      "duration_ms": 167710,
-      "name": "Otro trago",
-      "url": "https://open.spotify.com/track/6VFsWv9LkBMAnSE4vVqvJV"
+      "duration_ms": 186689,
+      "name": "Muerte En Hawaii",
+      "url": "https://open.spotify.com/track/4y2wnQgN93puWVDavsMTUi"
     },
     {
       "added_at": "2022-02-18 06:00:00",

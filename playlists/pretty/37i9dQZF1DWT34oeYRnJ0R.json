@@ -1,12 +1,12 @@
 {
   "description": "Just vibes. Cover: Farruko, La Factoria & Eddy Lover. ",
-  "num_followers": 690248,
+  "num_followers": 690250,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzUyOTlkZTAxYWFhMDg0Y2Y4NDI3OGFkOTQ1MmUwOTg2MWRhMWMy",
+  "snapshot_id": "MCxjMjc3MzYxNTZmYzVlMDgwNWM1ZTY2MDVkYjAyZTA2YmZkY2VlNjQ0",
   "tracks": [
     {
       "added_at": "2023-11-17 16:14:25",
@@ -403,22 +403,18 @@
     {
       "added_at": "2023-11-17 16:14:25",
       "album": {
-        "name": "Santorini",
-        "url": "https://open.spotify.com/album/43pq1lauxP6T2c4ySugI0Z"
+        "name": "Me Gusta Tu Flow",
+        "url": "https://open.spotify.com/album/1625TAr0aacB03dTtcLg5W"
       },
       "artists": [
         {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         }
       ],
-      "duration_ms": 160893,
-      "name": "Santorini",
-      "url": "https://open.spotify.com/track/2FVSQR0FXAIBkPtkkIMigS"
+      "duration_ms": 177500,
+      "name": "Me Gusta Tu Flow",
+      "url": "https://open.spotify.com/track/1jeaCBXzfpy9kPBuLSQNmo"
     },
     {
       "added_at": "2023-11-17 16:14:25",
@@ -443,18 +439,22 @@
     {
       "added_at": "2023-11-17 16:14:25",
       "album": {
-        "name": "Me Gusta Tu Flow",
-        "url": "https://open.spotify.com/album/1625TAr0aacB03dTtcLg5W"
+        "name": "Santorini",
+        "url": "https://open.spotify.com/album/43pq1lauxP6T2c4ySugI0Z"
       },
       "artists": [
         {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         }
       ],
-      "duration_ms": 177500,
-      "name": "Me Gusta Tu Flow",
-      "url": "https://open.spotify.com/track/1jeaCBXzfpy9kPBuLSQNmo"
+      "duration_ms": 160893,
+      "name": "Santorini",
+      "url": "https://open.spotify.com/track/2FVSQR0FXAIBkPtkkIMigS"
     },
     {
       "added_at": "2023-11-17 16:14:25",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2023-11-17 16:14:25",
       "album": {
+        "name": "Don Juan",
+        "url": "https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 173240,
+      "name": "Hace Un Mes",
+      "url": "https://open.spotify.com/track/1mq5Ts1TBYiXGX8D0QEhHf"
+    },
+    {
+      "added_at": "2023-11-17 16:14:25",
+      "album": {
         "name": "DEKKOLETERA 333",
         "url": "https://open.spotify.com/album/12gXwHN7MFHNc48utTmuGM"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 191561,
       "name": "No Te Creas Tanto",
       "url": "https://open.spotify.com/track/3lTqxHwO6NqyGZhOxhWFvV"
-    },
-    {
-      "added_at": "2023-11-17 16:14:25",
-      "album": {
-        "name": "Don Juan",
-        "url": "https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 173240,
-      "name": "Hace Un Mes",
-      "url": "https://open.spotify.com/track/1mq5Ts1TBYiXGX8D0QEhHf"
     },
     {
       "added_at": "2023-11-17 16:14:25",

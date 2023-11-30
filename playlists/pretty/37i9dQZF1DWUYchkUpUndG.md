@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5?si=G3JrVxFDTYK3iTIAyf720A>Sneziey</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,673 likes - 127 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,696 likes - 127 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [For Days](https://open.spotify.com/track/1eAnuw6ZvT4PpI93kwZImV) | [Ink Boy](https://open.spotify.com/artist/5h08861M7tKrIOmO3aZnCt), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [For Days](https://open.spotify.com/album/5nrP882U8mOIPRdkmJvjbK) | 2:22 |
 | 2 | [Witness Me \(feat\. Shawn Mendes, Stormzy & Kirk Franklin\)](https://open.spotify.com/track/4lIA2yIyg1nPmJ1rBwNFUG) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Witness Me \(feat\. Shawn Mendes, Stormzy & Kirk Franklin\)](https://open.spotify.com/album/0FNmNqZYPEXQbLajHmR9En) | 3:45 |
-| 3 | [Thixo Wamadinga Ethu \(Live\)](https://open.spotify.com/track/5Y0EPmCymKYHOCJD2B04gi) | [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Sibonga Umusa \(Live\)](https://open.spotify.com/album/0yq9apfBkBDmT9I74n0ABX) | 9:49 |
+| 3 | [Thixo Wamadinga Ethu \(Live\)](https://open.spotify.com/track/67NHjEvUTfqyKqNZF0tSMh) | [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Sibonga Umusa \(Live\)](https://open.spotify.com/album/0tT13vFUWnAGZNp0BZu0n3) | 9:49 |
 | 4 | [My Race](https://open.spotify.com/track/3avHchHg8ik9FzU5nqoFVd) | [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [My Race](https://open.spotify.com/album/14sRUUD8WKaINl3E8RKKcq) | 2:54 |
 | 5 | [Yeah Yeah](https://open.spotify.com/track/0xgMPIsSl8xxUIZj0x1wVD) | [Jlyricz](https://open.spotify.com/artist/4cubKpeUAFDsrOnFRs9DGi) | [Yeah Yeah](https://open.spotify.com/album/7DuDyLFqbQ4XoErRQNgLFu) | 3:01 |
 | 6 | [NOBODY](https://open.spotify.com/track/5Jf1U7ne9nukbiu3cvJ15B) | [LC Beatz](https://open.spotify.com/artist/5XkBrq2jCva8S9IKRphUVi), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [NOBODY](https://open.spotify.com/album/4Ol0vyjNORjlXdMzS5zNp7) | 2:29 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 17 | [Reminiscing](https://open.spotify.com/track/0ZidbacZoSVEraGBabJr14) | [Jimohsoundz](https://open.spotify.com/artist/0Jt3O4jM9QL5Atkl3WRhCJ), [Susss](https://open.spotify.com/artist/7N2kuRISbJNGXCJhXUizaq) | [Reminiscing](https://open.spotify.com/album/6AJTQUo5OgC3ZhlZTVedBs) | 2:19 |
 | 18 | [MAJO](https://open.spotify.com/track/3ixbMvMSAZLWRhqNdlQbnd) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F) | [MAJO](https://open.spotify.com/album/3rcxWLvZXA2ZtmZzvPNqec) | 2:53 |
 | 19 | [YOUR BABY \- Sped up Version](https://open.spotify.com/track/7MMSFLA69DuRERGwIYYe0L) | [Echow Clay](https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [YOUR BABY \(Sped up Version\)](https://open.spotify.com/album/4pj0M0m7ZxDC3J2uD3zUac) | 2:30 |
-| 20 | [UnguThixo Onomusa \(Live\)](https://open.spotify.com/track/12SS9xcUrNBWWiMIGCGRNQ) | [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Sibonga Umusa \(Live\)](https://open.spotify.com/album/0yq9apfBkBDmT9I74n0ABX) | 6:15 |
+| 20 | [UnguThixo Onomusa \(Live\)](https://open.spotify.com/track/1CKjWM9UvF5aemROunyZLi) | [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Sibonga Umusa \(Live\)](https://open.spotify.com/album/0tT13vFUWnAGZNp0BZu0n3) | 6:15 |
 | 21 | [When The Lights Came On](https://open.spotify.com/track/15y72VdB2zj17ha4jWxkPp) | [The Shelter](https://open.spotify.com/artist/0twZSsD7f6PPINVUMHVBbC), [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [When The Lights Came On](https://open.spotify.com/album/57vCZInTfq1WX6VFvP1faU) | 3:27 |
 | 22 | [Formula 1](https://open.spotify.com/track/7qJtU5f9m6yulehi4GjktK) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce) | [Formula 1](https://open.spotify.com/album/5tEiXnkdcYcSGZyGPuaDDH) | 2:38 |
 | 23 | [Do You Know Jesus?](https://open.spotify.com/track/2cZuuJ61c7qSct57or0h9Y) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Pillar YRR](https://open.spotify.com/artist/62jRIwQ6eUifptPOGRBHqd), [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB) | [Do You Know Jesus?](https://open.spotify.com/album/7hhYpFCgnlJaSsbuVPHxQq) | 2:35 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 126 | [Wait for You](https://open.spotify.com/track/35s5pUBjdKhWrotJNqjv5R) | [Baron Jay](https://open.spotify.com/artist/3I92MLYQY4V30w9jXnKhbv), [Clinton Flames](https://open.spotify.com/artist/3LEYSk47eQzeiwihi4f1Ye) | [Wait for You](https://open.spotify.com/album/1iqreF9TqTK8jMlbvCClnq) | 2:51 |
 | 127 | [Amazing](https://open.spotify.com/track/1NeXj9w2kZWoHmgbvtsWj3) | [Prophetess Rose Kelvin](https://open.spotify.com/artist/0EEHdqFQVcnostaJD5XEUN) | [Amazing](https://open.spotify.com/album/7BOypLrVCZoAZN5JQmiI0l) | 4:39 |
 
-Snapshot ID: `MCw1YTc2NTI4MmNiYTg3NDU1N2Q0NTUxODY4YWE5MzNmYTJlZjE3MzAx`
+Snapshot ID: `MCw5Yzg2ZTJhMjYwZDIyMmM1MGQ4MDMyNWYxODhmYWU1YmI3ZmFlYjYx`

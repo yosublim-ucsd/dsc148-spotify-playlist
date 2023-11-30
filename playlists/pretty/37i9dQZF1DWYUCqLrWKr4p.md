@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUCqLrWKr4p.md) - [plain]
 
 > Unforgettable love songs from the 1960s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,940 likes - 73 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,043 likes - 73 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUCqLrWKr4p.md) - [plain]
 | 61 | [Lady Willpower](https://open.spotify.com/track/1wXUeV5w6MkRFwMZu060U9) | [Gary Puckett & The Union Gap](https://open.spotify.com/artist/4asCC4oxQcDzFXhCth2SgQ) | [Super Hits](https://open.spotify.com/album/6J4iMx3rWJ0lFmSPdI14Io) | 2:45 |
 | 62 | [Forever](https://open.spotify.com/track/3s2inuLbQQZ7z1GJrdlQr6) | [The Marvelettes](https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH) | [Playboy](https://open.spotify.com/album/0XuV6U9ee6UB1faItAbEic) | 2:21 |
 | 63 | [I Love How You Love Me](https://open.spotify.com/track/6wceQSqQDvdcw0cMNKdp7s) | [Bobby Vinton](https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK) | [I Love How You Love Me](https://open.spotify.com/album/4gurJ6L9p3piSJutIH2E3z) | 2:30 |
-| 64 | [\(Today I Met\) The Boy I'm Gonna Marry](https://open.spotify.com/track/2Px4PrbPBMeWB1silbjI5H) | [Darlene Love](https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu) | [The Sound Of Love: The Very Best Of Darlene Love](https://open.spotify.com/album/2KMh9uqFrGblh1Ui23yoXU) | 2:46 |
-| 65 | [Poetry In Motion](https://open.spotify.com/track/1ASWAH866Xn0gWeX3zC2SW) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Johnny Tillotson's Best](https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb) | 2:34 |
+| 64 | [Poetry In Motion](https://open.spotify.com/track/1ASWAH866Xn0gWeX3zC2SW) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Johnny Tillotson's Best](https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb) | 2:34 |
+| 65 | [\(Today I Met\) The Boy I'm Gonna Marry](https://open.spotify.com/track/2Px4PrbPBMeWB1silbjI5H) | [Darlene Love](https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu) | [The Sound Of Love: The Very Best Of Darlene Love](https://open.spotify.com/album/2KMh9uqFrGblh1Ui23yoXU) | 2:46 |
 | 66 | [\('Til\) I Kissed You](https://open.spotify.com/track/2erTdgDOZmjJNaNhjhWXhJ) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:26 |
 | 67 | [When the Girl in Your Arms Is the Girl in Your Heart \- 2005 Remaster](https://open.spotify.com/track/1jJVls8580ru1Glnumcyig) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy) | [The Young Ones](https://open.spotify.com/album/07UPkUx165h6EttjbOjguo) | 2:23 |
 | 68 | [When Something Is Wrong with My Baby](https://open.spotify.com/track/056rtilqF4cqLOgDQGqYqv) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [The Best of Sam & Dave](https://open.spotify.com/album/4IDa38FYTYlqHFbZM6rb5I) | 3:14 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUCqLrWKr4p.md) - [plain]
 | 72 | [Love Child](https://open.spotify.com/track/1JguzruTnY4PrbWu7BKD38) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq) | [The Definitive Collection](https://open.spotify.com/album/4SFKj31HM4ZHONVy5TZoGR) | 2:55 |
 | 73 | [You Can Count On Me](https://open.spotify.com/track/0SShdjTlefnYkLOqlVzGZH) | [Mel Carter](https://open.spotify.com/artist/3CgsVtt7tP8iduzkTCfel9) | [You Can Count On Me](https://open.spotify.com/album/6bHotJZZGphw5gHRCdwETH) | 3:16 |
 
-Snapshot ID: `MCw5NTUyZDM1MzE2NGU5NmZmZjE2MGZiNGE5NDZkYmE0NzY0YzdlZWY2`
+Snapshot ID: `MCw5NjgwZTZhNjI5ZGM0YTg4YTA2MjAwNzVhZGQwYTIxYjc1MzQ0ODFi`

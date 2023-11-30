@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 
 > nü\-metal revival is happening here and now with Dope.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,525 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,787 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 | 49 | [VIOLENT PRINCIPLES](https://open.spotify.com/track/1DIeftYBThGuFnSE0uUv6J) | [Adema](https://open.spotify.com/artist/3n4ersmDo55xV4fPSCKpXb) | [VIOLENT PRINCIPLES](https://open.spotify.com/album/7kv5aRv6tltcgjHOmCmUIT) | 3:47 |
 | 50 | [Worship The Internet](https://open.spotify.com/track/4TYsmhG3Iba4uxnSdAIOvU) | [Banks Arcade](https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D) | [Worship The Internet](https://open.spotify.com/album/2vt3z8PJEoKIWdwV1YtqSB) | 3:40 |
 
-Snapshot ID: `MCw0Njk0ZWY0YTMwOTkyMzBiM2QzMjYzMzhkYmNmMjRiNmRjMmQ3ZjZm`
+Snapshot ID: `MCwyZTY3ZjMxYjJmZjdiZjY1NDZiNmI3MmY3YWU3YmVlMjI3YTYwZmFj`

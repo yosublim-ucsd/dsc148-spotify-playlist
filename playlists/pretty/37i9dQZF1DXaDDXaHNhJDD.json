@@ -1,12 +1,12 @@
 {
-  "description": "Your ultimate playlist for the best in Mollywood!\nCover: 2018",
-  "num_followers": 81643,
-  "original_name": "Mollywood Gold",
+  "description": "Best performed tracks of Mollywood Gold in 2023 #SpotifyWrapped Cover : King Of Kotha",
+  "num_followers": 81848,
+  "original_name": " Best of Mollywood Gold in 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzUyMzEzMGI4ZTM5OWM4Mzk0M2U5OThmMWI2Yzk1MWJlMjFmYmY4",
+  "snapshot_id": "MCxjZDUzYWU4ZGQzMzNhOTkzMGJiZjU2ZGUxNDBlYjg4MGM2YTk2Yzhj",
   "tracks": [
     {
       "added_at": "2023-09-15 11:12:56",
@@ -200,7 +200,7 @@
       "added_at": "2023-09-15 11:12:56",
       "album": {
         "name": "Pala Palli (From \"Kaduva\")",
-        "url": "https://open.spotify.com/album/0tnVc5jTzoQuLr7QiGK5Uk"
+        "url": "https://open.spotify.com/album/6nrGCjW99iWaqvMtP5vedP"
       },
       "artists": [
         {
@@ -210,11 +210,19 @@
         {
           "name": "Athul Narukara",
           "url": "https://open.spotify.com/artist/7d6mBwW3zN59r4vm8TnrWR"
+        },
+        {
+          "name": "Sreehari Tharayil",
+          "url": "https://open.spotify.com/artist/55R7HwzGK04R3Mb86Gq9D7"
+        },
+        {
+          "name": "Santhosh Varma",
+          "url": "https://open.spotify.com/artist/57muzX4Ow2NbBL4nOa5bvp"
         }
       ],
       "duration_ms": 270157,
-      "name": "Pala Palli - From \"Kaduva\"",
-      "url": "https://open.spotify.com/track/65orA4uL6HAdy9j9VeXxFC"
+      "name": "Pala Palli (From \"Kaduva\")",
+      "url": "https://open.spotify.com/track/22bYBTbMlfs95PWLLdrCRv"
     },
     {
       "added_at": "2023-09-27 10:00:03",
@@ -284,7 +292,7 @@
       "added_at": "2023-09-15 11:12:56",
       "album": {
         "name": "Malik (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4nEDUHDqYhwz2OqBzCIHZV"
+        "url": "https://open.spotify.com/album/1JSu2Oir7oRN2EcdfL6KbQ"
       },
       "artists": [
         {
@@ -298,11 +306,15 @@
         {
           "name": "Sooraj Santhosh",
           "url": "https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB"
+        },
+        {
+          "name": "Anwar Ali",
+          "url": "https://open.spotify.com/artist/6ccDjsU6h03TcrKOvBeiu2"
         }
       ],
       "duration_ms": 263082,
       "name": "Theerame",
-      "url": "https://open.spotify.com/track/3UHB6erVvDNX0OaqX3ncO3"
+      "url": "https://open.spotify.com/track/4mjS1p9StkylrZPj6LIkjg"
     },
     {
       "added_at": "2023-11-24 10:18:25",
@@ -776,21 +788,25 @@
       "added_at": "2023-11-24 10:18:25",
       "album": {
         "name": "Sakhiyeee (From \"Thrissur Pooram\")",
-        "url": "https://open.spotify.com/album/3p3Uxg1wnnEjzZTmfRWz0D"
+        "url": "https://open.spotify.com/album/1ykaTShNVmXd5o8iUcWu5e"
       },
       "artists": [
+        {
+          "name": "Ratheesh Vega",
+          "url": "https://open.spotify.com/artist/0t1SWo8gEEppMdY6IEzRsl"
+        },
         {
           "name": "Haricharan",
           "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
         },
         {
-          "name": "Ratheesh Vega",
-          "url": "https://open.spotify.com/artist/0t1SWo8gEEppMdY6IEzRsl"
+          "name": "B.K. Harinarayanan",
+          "url": "https://open.spotify.com/artist/2NwWBme8V5okH9vQWrNxAV"
         }
       ],
-      "duration_ms": 294124,
-      "name": "Sakhiyeee - From \"Thrissur Pooram\"",
-      "url": "https://open.spotify.com/track/1h9a23OsWfQbrazCujBqlc"
+      "duration_ms": 294144,
+      "name": "Sakhiyeee (From \"Thrissur Pooram\")",
+      "url": "https://open.spotify.com/track/6v1lIN2biwtz9oCagGe0c6"
     },
     {
       "added_at": "2023-09-15 11:12:56",
@@ -1653,6 +1669,6 @@
       "url": "https://open.spotify.com/track/6BvRT4pR5sr3jHgrTYAtbp"
     }
   ],
-  "unique_name": "Mollywood Gold",
+  "unique_name": " Best of Mollywood Gold in 2023",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXaDDXaHNhJDD"
 }

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 
 > Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,777,009 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,777,076 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 31 | [Naked as We Came](https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days \(Deluxe Edition\)](https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m) | 2:32 |
 | 32 | [Jolene](https://open.spotify.com/track/2fSIF8CJhoc9CJhF9vJDXp) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9) | 4:10 |
 | 33 | [If You Ever Wanna Be In Love \- James Bay Spotify Session 2015](https://open.spotify.com/track/359lSGQwvAM3aZA5UNwqiQ) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [James Bay Spotify Session 2015](https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf) | 3:56 |
-| 34 | [People Change](https://open.spotify.com/track/5VYOUBkObeGOnCt30YDTJ3) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Edges Run](https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk) | 3:32 |
-| 35 | [Never in My Wildest Dreams](https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Waiting on a Song](https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F) | 2:56 |
+| 34 | [Never in My Wildest Dreams](https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Waiting on a Song](https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F) | 2:56 |
+| 35 | [People Change](https://open.spotify.com/track/5VYOUBkObeGOnCt30YDTJ3) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Edges Run](https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk) | 3:32 |
 | 36 | [Falling Slowly](https://open.spotify.com/track/6EIVLz5xM1xE29r0OmIkWt) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0), [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx) | [Music From The Motion Picture Once](https://open.spotify.com/album/4BUG3kfPOB6DWVKKDY2icE) | 4:04 |
 | 37 | [Hearts Don't Break Around Here](https://open.spotify.com/track/2dfHh7ECGxfNqZTQno09Vk) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:08 |
 | 38 | [Friday I’m In Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm) | 3:40 |
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 86 | [Land Of The Living](https://open.spotify.com/track/34f6sZPLPVsGwgBOrW3iLu) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Tiger Striped Sky](https://open.spotify.com/album/12AP94kXbpnXg6Zk8DmB0s) | 4:24 |
 | 87 | [No Right To Love You \- Acoustic](https://open.spotify.com/track/58VJmNB8oeoE2PRqCrduEo) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Things I Chose To Remember](https://open.spotify.com/album/13DpMn525oKHXLQSgq96TF) | 3:49 |
 | 88 | [Little Birds](https://open.spotify.com/track/3ePJFt2th9XXwaGFUmn2pr) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [First Time Feeling](https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu) | 3:25 |
-| 89 | [My Lover](https://open.spotify.com/track/3PgZ3mM7KT9YubwfrYqb7H) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [My Lover](https://open.spotify.com/album/1XNcrrRz2cCXzYXLfuK3TQ) | 4:29 |
-| 90 | [Does Anybody Know](https://open.spotify.com/track/1YAgRoxeqVip0wIjurbJ3P) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Jade Bird](https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8) | 3:27 |
-| 91 | [Take Me to Church \- Live From Spotify London](https://open.spotify.com/track/6d0wEqM0jJTNv1asKflGGi) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Spotify Sessions London](https://open.spotify.com/album/4IEY5pUQMlTAAMfMNCc4pb) | 4:06 |
-| 92 | [Dark Four Door](https://open.spotify.com/track/6f9yc5iK8wQzaiK25gdua0) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [A Few More Hours at YYZ](https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0) | 3:28 |
-| 93 | [Both Hands](https://open.spotify.com/track/1pQhpD3hn0IBcY2sDdjIdg) | [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [Ani DiFranco](https://open.spotify.com/album/0831E4Cmgg52SYn6TEuw3K) | 3:38 |
-| 94 | [Sweet Love of Mine \(Acoustic\)](https://open.spotify.com/track/1d4QAtlNQCnMARsacnkoyC) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Venus \(Acoustic\)](https://open.spotify.com/album/2Qet80S6mts6V5dWy4y1sj) | 2:55 |
-| 95 | [I'd Have to Think About It](https://open.spotify.com/track/3MkEVGXroAZV4BAtBV9yOf) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [I'd Have to Think About It](https://open.spotify.com/album/13NV9whHhEz1qhD2XqiawI) | 2:30 |
-| 96 | [Lovers' Eyes](https://open.spotify.com/track/60XAcN6U4FyH10movaioLz) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y) | 5:21 |
-| 97 | [White Fawn](https://open.spotify.com/track/5fvLVlM1doZORDxGVBZlkD) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Colony of Bees](https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU) | 3:06 |
+| 89 | [Does Anybody Know](https://open.spotify.com/track/1YAgRoxeqVip0wIjurbJ3P) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Jade Bird](https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8) | 3:27 |
+| 90 | [My Lover](https://open.spotify.com/track/3PgZ3mM7KT9YubwfrYqb7H) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [My Lover](https://open.spotify.com/album/1XNcrrRz2cCXzYXLfuK3TQ) | 4:29 |
+| 91 | [I'd Have to Think About It](https://open.spotify.com/track/3MkEVGXroAZV4BAtBV9yOf) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [I'd Have to Think About It](https://open.spotify.com/album/13NV9whHhEz1qhD2XqiawI) | 2:30 |
+| 92 | [Take Me to Church \- Live From Spotify London](https://open.spotify.com/track/6d0wEqM0jJTNv1asKflGGi) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Spotify Sessions London](https://open.spotify.com/album/4IEY5pUQMlTAAMfMNCc4pb) | 4:06 |
+| 93 | [Dark Four Door](https://open.spotify.com/track/6f9yc5iK8wQzaiK25gdua0) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [A Few More Hours at YYZ](https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0) | 3:28 |
+| 94 | [Both Hands](https://open.spotify.com/track/1pQhpD3hn0IBcY2sDdjIdg) | [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [Ani DiFranco](https://open.spotify.com/album/0831E4Cmgg52SYn6TEuw3K) | 3:38 |
+| 95 | [Sweet Love of Mine \(Acoustic\)](https://open.spotify.com/track/1d4QAtlNQCnMARsacnkoyC) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Venus \(Acoustic\)](https://open.spotify.com/album/2Qet80S6mts6V5dWy4y1sj) | 2:55 |
+| 96 | [White Fawn](https://open.spotify.com/track/5fvLVlM1doZORDxGVBZlkD) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Colony of Bees](https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU) | 3:06 |
+| 97 | [Lovers' Eyes](https://open.spotify.com/track/60XAcN6U4FyH10movaioLz) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y) | 5:21 |
 | 98 | [Immune](https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Immune](https://open.spotify.com/album/1UQp3aKtwOaczyLpvf5NYn) | 3:30 |
 | 99 | [Lonelily](https://open.spotify.com/track/4bdjQvuoDBAsxdUPmEIltt) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [B\-Sides](https://open.spotify.com/album/3nvaY45C0yn3jIZc2W4VoA) | 3:13 |
-| 100 | [Last Time](https://open.spotify.com/track/5ctQUn7CnXhw5IN3ipcPUt) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Last Time](https://open.spotify.com/album/3E9bLoDvWxhJiBQ7Y71Asn) | 3:13 |
+| 100 | [Great Divide](https://open.spotify.com/track/5zuelgle0Aqxyc9EooIPVl) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [The Closest Thing to Home](https://open.spotify.com/album/5n8ppNRmmYvkFGnQZPHdNc) | 4:01 |
 
-Snapshot ID: `MCxmYjgwOWU5M2M1YmNiODcwNzBjZDg0MTJmYjA2NmUwMWMyZDUwMDQw`
+Snapshot ID: `MCwzMDcwNWJmNjRjYjMzMTdmMDk2NTNjZTZiNjcwMjkzMDYzZmY0MTgy`

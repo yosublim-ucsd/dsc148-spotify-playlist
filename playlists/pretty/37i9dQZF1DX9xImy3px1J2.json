@@ -1,6 +1,6 @@
 {
   "description": "L'unica party playlist di cui hai bisogno, sempre aggiornata \ud83c\udf7e Top hit italiane e internazionali! ",
-  "num_followers": 326759,
+  "num_followers": 326796,
   "original_name": "Party 2023",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,22 @@
     {
       "added_at": "2023-11-24 09:33:30",
       "album": {
+        "name": "Una Noche en Medell\u00edn",
+        "url": "https://open.spotify.com/album/77HpsjuhHrcZhIp0PyiROw"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "Una Noche en Medell\u00edn",
+      "url": "https://open.spotify.com/track/0lREs0EdgrMQQKw00yx0Ct"
+    },
+    {
+      "added_at": "2023-11-24 09:33:30",
+      "album": {
         "name": "Cynical",
         "url": "https://open.spotify.com/album/2FSVbytdzBlR6SBT4AFewv"
       },
@@ -391,42 +407,6 @@
       "duration_ms": 191365,
       "name": "Cynical",
       "url": "https://open.spotify.com/track/2grS8y9w2vVp7sDJ3RnSx9"
-    },
-    {
-      "added_at": "2023-11-24 09:33:30",
-      "album": {
-        "name": "Una Noche en Medell\u00edn",
-        "url": "https://open.spotify.com/album/77HpsjuhHrcZhIp0PyiROw"
-      },
-      "artists": [
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Una Noche en Medell\u00edn",
-      "url": "https://open.spotify.com/track/0lREs0EdgrMQQKw00yx0Ct"
-    },
-    {
-      "added_at": "2023-11-24 09:33:30",
-      "album": {
-        "name": "In My Mind",
-        "url": "https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa"
-      },
-      "artists": [
-        {
-          "name": "Dynoro",
-          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
-        },
-        {
-          "name": "Gigi D'Agostino",
-          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
-        }
-      ],
-      "duration_ms": 184560,
-      "name": "In My Mind",
-      "url": "https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33"
     },
     {
       "added_at": "2023-11-24 09:33:30",
@@ -459,6 +439,26 @@
     {
       "added_at": "2023-11-24 09:33:30",
       "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa"
+      },
+      "artists": [
+        {
+          "name": "Dynoro",
+          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
+        },
+        {
+          "name": "Gigi D'Agostino",
+          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+        }
+      ],
+      "duration_ms": 184560,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33"
+    },
+    {
+      "added_at": "2023-11-24 09:33:30",
+      "album": {
         "name": "Alone In A Crowd",
         "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
       },
@@ -475,22 +475,6 @@
       "duration_ms": 206000,
       "name": "Miss You - Bonus Track",
       "url": "https://open.spotify.com/track/1ypwNj8eK2qAMDEs4EiIIX"
-    },
-    {
-      "added_at": "2023-11-24 09:33:30",
-      "album": {
-        "name": "ITALODISCO",
-        "url": "https://open.spotify.com/album/38cYOdPjt5btA4AMYmbZjn"
-      },
-      "artists": [
-        {
-          "name": "The Kolors",
-          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
-        }
-      ],
-      "duration_ms": 199512,
-      "name": "ITALODISCO",
-      "url": "https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV"
     },
     {
       "added_at": "2023-11-24 09:33:30",
@@ -519,6 +503,22 @@
     {
       "added_at": "2023-11-24 09:33:30",
       "album": {
+        "name": "ITALODISCO",
+        "url": "https://open.spotify.com/album/38cYOdPjt5btA4AMYmbZjn"
+      },
+      "artists": [
+        {
+          "name": "The Kolors",
+          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
+        }
+      ],
+      "duration_ms": 199512,
+      "name": "ITALODISCO",
+      "url": "https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV"
+    },
+    {
+      "added_at": "2023-11-24 09:33:30",
+      "album": {
         "name": "Dangerously In Love",
         "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
       },
@@ -535,30 +535,6 @@
       "duration_ms": 236133,
       "name": "Crazy In Love (feat. Jay-Z)",
       "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
-    },
-    {
-      "added_at": "2023-11-24 09:33:30",
-      "album": {
-        "name": "Come Into My Life (The Album)",
-        "url": "https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe"
-      },
-      "artists": [
-        {
-          "name": "Gala",
-          "url": "https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ"
-        },
-        {
-          "name": "Molella",
-          "url": "https://open.spotify.com/artist/6PozOimyS8a9OxMddMSBCf"
-        },
-        {
-          "name": "Phil Jay",
-          "url": "https://open.spotify.com/artist/2yUcByiqLsQiJgGKIn1xeb"
-        }
-      ],
-      "duration_ms": 213394,
-      "name": "Freed From Desire - prod. Molella, Phil Jay",
-      "url": "https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q"
     },
     {
       "added_at": "2023-11-24 09:33:30",
@@ -583,6 +559,30 @@
       "duration_ms": 160000,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"
+    },
+    {
+      "added_at": "2023-11-24 09:33:30",
+      "album": {
+        "name": "Come Into My Life (The Album)",
+        "url": "https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe"
+      },
+      "artists": [
+        {
+          "name": "Gala",
+          "url": "https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ"
+        },
+        {
+          "name": "Molella",
+          "url": "https://open.spotify.com/artist/6PozOimyS8a9OxMddMSBCf"
+        },
+        {
+          "name": "Phil Jay",
+          "url": "https://open.spotify.com/artist/2yUcByiqLsQiJgGKIn1xeb"
+        }
+      ],
+      "duration_ms": 213394,
+      "name": "Freed From Desire - prod. Molella, Phil Jay",
+      "url": "https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q"
     },
     {
       "added_at": "2023-11-24 09:33:30",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-11-24 09:33:30",
       "album": {
-        "name": "Afraid To Feel",
-        "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
-      },
-      "artists": [
-        {
-          "name": "LF SYSTEM",
-          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
-        }
-      ],
-      "duration_ms": 177524,
-      "name": "Afraid To Feel",
-      "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
-    },
-    {
-      "added_at": "2023-11-24 09:33:30",
-      "album": {
         "name": "Your Love (9PM)",
         "url": "https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 150052,
       "name": "Your Love (9PM)",
       "url": "https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx"
+    },
+    {
+      "added_at": "2023-11-24 09:33:30",
+      "album": {
+        "name": "Afraid To Feel",
+        "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "duration_ms": 177524,
+      "name": "Afraid To Feel",
+      "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
     },
     {
       "added_at": "2023-11-24 09:33:30",
@@ -855,6 +855,26 @@
     {
       "added_at": "2023-11-24 09:33:30",
       "album": {
+        "name": "Where Did You Go (feat. MNEK)",
+        "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 177689,
+      "name": "Where Did You Go? (feat. MNEK)",
+      "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
+    },
+    {
+      "added_at": "2023-11-24 09:33:30",
+      "album": {
         "name": "VETRI NERI",
         "url": "https://open.spotify.com/album/1vU1ePx8IOwsYRo5nh63nn"
       },
@@ -879,22 +899,6 @@
     {
       "added_at": "2023-11-24 09:33:30",
       "album": {
-        "name": "Calm Down",
-        "url": "https://open.spotify.com/album/37iaWiKMa9YBbEDlw5c3Qh"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 219813,
-      "name": "Calm Down",
-      "url": "https://open.spotify.com/track/6hgoYQDUcPyCz7LcTUHKxa"
-    },
-    {
-      "added_at": "2023-11-24 09:33:30",
-      "album": {
         "name": "The Business",
         "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
       },
@@ -911,22 +915,18 @@
     {
       "added_at": "2023-11-24 09:33:30",
       "album": {
-        "name": "Where Did You Go (feat. MNEK)",
-        "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
+        "name": "Calm Down",
+        "url": "https://open.spotify.com/album/37iaWiKMa9YBbEDlw5c3Qh"
       },
       "artists": [
         {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 177689,
-      "name": "Where Did You Go? (feat. MNEK)",
-      "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
+      "duration_ms": 219813,
+      "name": "Calm Down",
+      "url": "https://open.spotify.com/track/6hgoYQDUcPyCz7LcTUHKxa"
     },
     {
       "added_at": "2023-11-24 09:33:30",
@@ -943,6 +943,26 @@
       "duration_ms": 190306,
       "name": "Take You Dancing",
       "url": "https://open.spotify.com/track/59qrUpoplZxbIZxk6X0Bm3"
+    },
+    {
+      "added_at": "2023-11-24 09:33:30",
+      "album": {
+        "name": "Whistle (feat. Calum Scott)",
+        "url": "https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 181957,
+      "name": "Whistle (feat. Calum Scott)",
+      "url": "https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF"
     },
     {
       "added_at": "2023-11-24 09:33:30",
@@ -1043,22 +1063,6 @@
     {
       "added_at": "2023-11-24 09:33:30",
       "album": {
-        "name": "Drugs From Amsterdam",
-        "url": "https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 235785,
-      "name": "Drugs From Amsterdam",
-      "url": "https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv"
-    },
-    {
-      "added_at": "2023-11-24 09:33:30",
-      "album": {
         "name": "Acapulco",
         "url": "https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW"
       },
@@ -1075,6 +1079,22 @@
     {
       "added_at": "2023-11-24 09:33:30",
       "album": {
+        "name": "Drugs From Amsterdam",
+        "url": "https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 235785,
+      "name": "Drugs From Amsterdam",
+      "url": "https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv"
+    },
+    {
+      "added_at": "2023-11-24 09:33:30",
+      "album": {
         "name": "L'Amour Toujours",
         "url": "https://open.spotify.com/album/61hGQNFwmqGHXm5eeMkd4d"
       },
@@ -1087,26 +1107,6 @@
       "duration_ms": 242053,
       "name": "L'Amour Toujours",
       "url": "https://open.spotify.com/track/52LJ3hyknOijCrE5gCD0rE"
-    },
-    {
-      "added_at": "2023-11-24 09:33:30",
-      "album": {
-        "name": "Whistle (feat. Calum Scott)",
-        "url": "https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 181957,
-      "name": "Whistle (feat. Calum Scott)",
-      "url": "https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF"
     },
     {
       "added_at": "2023-11-24 09:33:30",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-11-24 09:33:30",
       "album": {
-        "name": "Papaya",
-        "url": "https://open.spotify.com/album/4elBzZLFdhXTNqEvRxqSzQ"
-      },
-      "artists": [
-        {
-          "name": "VillaBanks",
-          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
-        }
-      ],
-      "duration_ms": 139714,
-      "name": "Papaya",
-      "url": "https://open.spotify.com/track/4nyRpOBvLUhwMVNAQ7rZwf"
-    },
-    {
-      "added_at": "2023-11-24 09:33:30",
-      "album": {
         "name": "Ivy To Roses (Mixtape)",
         "url": "https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 178480,
       "name": "Don't Call Me Up",
       "url": "https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8"
+    },
+    {
+      "added_at": "2023-11-24 09:33:30",
+      "album": {
+        "name": "Papaya",
+        "url": "https://open.spotify.com/album/4elBzZLFdhXTNqEvRxqSzQ"
+      },
+      "artists": [
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        }
+      ],
+      "duration_ms": 139714,
+      "name": "Papaya",
+      "url": "https://open.spotify.com/track/4nyRpOBvLUhwMVNAQ7rZwf"
     },
     {
       "added_at": "2023-11-24 09:33:30",
@@ -1203,6 +1203,26 @@
     {
       "added_at": "2023-11-24 09:33:30",
       "album": {
+        "name": "Memories (feat. Kid Cudi) [2021 Remix]",
+        "url": "https://open.spotify.com/album/6YjGFGvxaNPwD2sQjECHSX"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "duration_ms": 162992,
+      "name": "Memories (feat. Kid Cudi) - 2021 Remix",
+      "url": "https://open.spotify.com/track/59o6ojGNGJOYiVJSzC6Lsa"
+    },
+    {
+      "added_at": "2023-11-24 09:33:30",
+      "album": {
         "name": "TAXI SULLA LUNA",
         "url": "https://open.spotify.com/album/1Q2gs2NTXULiFqwCiv5JdG"
       },
@@ -1223,26 +1243,6 @@
       "duration_ms": 143500,
       "name": "TAXI SULLA LUNA",
       "url": "https://open.spotify.com/track/0JONs2ETXIHvYVxNris8Bf"
-    },
-    {
-      "added_at": "2023-11-24 09:33:30",
-      "album": {
-        "name": "Memories (feat. Kid Cudi) [2021 Remix]",
-        "url": "https://open.spotify.com/album/6YjGFGvxaNPwD2sQjECHSX"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        }
-      ],
-      "duration_ms": 162992,
-      "name": "Memories (feat. Kid Cudi) - 2021 Remix",
-      "url": "https://open.spotify.com/track/59o6ojGNGJOYiVJSzC6Lsa"
     },
     {
       "added_at": "2023-11-24 09:33:30",

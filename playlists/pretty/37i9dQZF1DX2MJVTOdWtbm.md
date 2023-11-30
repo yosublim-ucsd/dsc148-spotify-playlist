@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 
 > The home of Latin R&B\. La casa del R&B Latino\. Cover: Nicole Horts
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,197 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,238 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 | 72 | [Ruido](https://open.spotify.com/track/0rQv29gK4jSBbU9pcmfODP) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Emociones](https://open.spotify.com/album/4we3WMZMCvKmk6jfGe6t4t) | 2:57 |
 | 73 | [Frío](https://open.spotify.com/track/2fw6liEffYRav3ORECpqvQ) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Frío](https://open.spotify.com/album/251ubhwCkD47ljB7FLK9DN) | 2:25 |
 | 74 | [Chulita](https://open.spotify.com/track/1evtsHnfBKGvUO2pSDCTww) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi) | [Chulita](https://open.spotify.com/album/41A7H4P1B9wHLK8KCJQO0I) | 2:54 |
-| 75 | [Summer Nights](https://open.spotify.com/track/2J6KEv2z0LWUsMc2bHBAOR) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) | [Summer Nights](https://open.spotify.com/album/3noBkmNZz14QcgIRgIzAZQ) | 2:31 |
-| 76 | [Truth Is \(Spanish Version\)](https://open.spotify.com/track/4DkmvgEtrLZ9vzmDAHFzVZ) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Truth Is](https://open.spotify.com/album/4vfE56g4oK4p8VVx7pThrU) | 3:45 |
+| 75 | [Truth Is \(Spanish Version\)](https://open.spotify.com/track/4DkmvgEtrLZ9vzmDAHFzVZ) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Truth Is](https://open.spotify.com/album/4vfE56g4oK4p8VVx7pThrU) | 3:45 |
+| 76 | [Summer Nights](https://open.spotify.com/track/2J6KEv2z0LWUsMc2bHBAOR) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) | [Summer Nights](https://open.spotify.com/album/3noBkmNZz14QcgIRgIzAZQ) | 2:31 |
 | 77 | [Te La Dedico](https://open.spotify.com/track/6xAARuLFMtSZhhFERpB7vC) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Emociones 1.5](https://open.spotify.com/album/1iggkqIrsfiO7RtEFGcaGr) | 3:51 |
 | 78 | [antes que sea tarde](https://open.spotify.com/track/1NhsPILt0sgxY0DHruZ9ao) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN) | [antes que sea tarde](https://open.spotify.com/album/23yhtkPNPwEjeoz6MyWBDZ) | 2:48 |
 | 79 | [Pleasure \(feat\. RINI\)](https://open.spotify.com/track/6vZVtJgg7G16h2XxSa2mKI) | [Abrina](https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58), [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Pleasure \(feat\. RINI\)](https://open.spotify.com/album/3FeCrMtnuv4FZiSc3EHeEz) | 2:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 | 99 | [Gallo Pinto](https://open.spotify.com/track/5Iwm1QINtdFzRjT9AQaqAe) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Gallo Pinto](https://open.spotify.com/album/5siyy5mV4vl9qwjd7mshAk) | 3:29 |
 | 100 | [Ten Cuidao'](https://open.spotify.com/track/0FPMwL6lPQP5dYZr4fVKvp) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Ten Cuidao'](https://open.spotify.com/album/13ixtSvxnOOCjcsA19x28i) | 2:54 |
 
-Snapshot ID: `MCxjMTgzZGE1ZjRjZmZiYmI4YTI3M2Q3ZjExN2Q4NzVlMzUyOTQ1YTMx`
+Snapshot ID: `MCwyZTlkZjQwMTJiODdkZTc2NjIxYzdiZWZjMjU3YWI3ODZkZDVmZDhl`

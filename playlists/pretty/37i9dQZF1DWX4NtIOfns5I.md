@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > where folk flowers bloom\. cover: Olivia Rodrigo <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,852 likes - 119 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,079 likes - 119 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 | 67 | [Blood Moon](https://open.spotify.com/track/37J6sYIBny0g0YJi88FPnc) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [2022](https://open.spotify.com/album/0oYyYL3eh3JFQa6BoncBJC) | 2:48 |
 | 68 | [You'd Like Me More](https://open.spotify.com/track/5AoZ4uqkpRvUgBclqxBbxc) | [Axel & Lolo](https://open.spotify.com/artist/66uREfgVhvjUiK3RXcTAdq) | [You'd Like Me More](https://open.spotify.com/album/2SJZIS9MFmKiIKZVNFFOqD) | 3:44 |
 | 69 | [Soup Song](https://open.spotify.com/track/3kfqthibmWsfYyCApilYPm) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Soup Song](https://open.spotify.com/album/2l3QigfQrALpDyAkvN6Hl8) | 2:30 |
-| 70 | [very overdue goodbye](https://open.spotify.com/track/2OVZqrdQ6QgaYPvm7L4EYD) | [runo plum](https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39) | [very overdue goodbye](https://open.spotify.com/album/0wuatDVylahYnftpjrD1Gy) | 3:36 |
+| 70 | [very overdue goodbye](https://open.spotify.com/track/6onEf8upjTGmqve2G6dm3h) | [runo plum](https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39) | [earlier from '20](https://open.spotify.com/album/2AekUERWbAA27Eyux7Gj9Z) | 3:36 |
 | 71 | [Curl up & Die](https://open.spotify.com/track/0mDn9q0XZBVI3xICivkTY1) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Krystal](https://open.spotify.com/album/0DMKZZanrzK36YjFyI5nfF) | 3:22 |
 | 72 | [Heavy Handed](https://open.spotify.com/track/27vxMDq3CkXdNdPsKvMlsX) | [Kaleah Lee](https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ) | [Heavy Handed](https://open.spotify.com/album/4QZPwH9ALMRJp4G3llnDqK) | 3:21 |
 | 73 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT) | 4:50 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 | 118 | [Pressing Down](https://open.spotify.com/track/7FiiXwfEJnQ21sTktQ5gDm) | [Sister Ray](https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC) | [Teeth](https://open.spotify.com/album/7tTD3rUp3MltWeCdwviCl0) | 3:59 |
 | 119 | [Uncovered](https://open.spotify.com/track/0u3Ck6jifvedbQL0ZjBP1l) | [Max Helgemo](https://open.spotify.com/artist/25tISYfzQFqAvNdmWPspGS) | [Uncovered](https://open.spotify.com/album/7A8zAcXTRDKJdt7HpRmwAT) | 3:44 |
 
-Snapshot ID: `MCwzZWUxMWFlMGZkZmM3OGE1NzRiZjJmNWZjOGJjMTRlYjdkODcxOTc1`
+Snapshot ID: `MCwyZWY1YjFkMTYxNjkyMzNiMzhkN2Y1NDg0ZDIxNmFmODg1NmNiMjky`

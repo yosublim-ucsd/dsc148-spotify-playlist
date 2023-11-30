@@ -4,7 +4,7 @@
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world.
 
-230 songs - 14 hr 26 min
+232 songs - 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Audiotool Day 2016](https://open.spotify.com/track/0j0BYhRSoVbYDvDlVoSP4a) | [Xtract](https://open.spotify.com/artist/24Czv2dNQjRYh7thO4y2re) | [Audiotool Day 2016](https://open.spotify.com/album/5flSmZT9JHd4qQUmAnetPj) | 4:00 | 2023-04-28 | 2023-09-01 |
 | [Backwards Directions](https://open.spotify.com/track/427b6RggEs9SFyhR18Xd8X) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k), [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Backwards Directions](https://open.spotify.com/album/34uEJAXUILJFGZijIWSOhf) | 2:55 | 2023-05-05 | 2023-07-12 |
 | [Bad Night at Black's Beach](https://open.spotify.com/track/462Sv9QLexPjExQE8dZeam) | [L.A\. Takedown](https://open.spotify.com/artist/1XB4jI2i8cikuntyOuUi1v) | [II](https://open.spotify.com/album/3hRA9H6ESgJua9SdHZwe73) | 2:50 | 2020-12-21 | 2023-05-12 |
-| [Beauty & The Beast](https://open.spotify.com/track/5hAl0rQhehsglsiR0VF7Y8) | [Nyxjvh](https://open.spotify.com/artist/0qynm6lz4zZ8lJZygwfovX) | [Beauty & The Beast](https://open.spotify.com/album/7aOS3r9ORnPGUcD6G2jUyq) | 2:48 | 2023-08-31 |  |
+| [Beauty & The Beast](https://open.spotify.com/track/4y5lSLNph2pbhsGBtx6Ijy) | [Nyxjvh](https://open.spotify.com/artist/0qynm6lz4zZ8lJZygwfovX) | [Beauty & The Beast](https://open.spotify.com/album/2dCLlJHR37aJE8y8IYm4d9) | 2:48 | 2023-08-31 |  |
+| [Beauty & The Beast](https://open.spotify.com/track/5hAl0rQhehsglsiR0VF7Y8) | [Nyxjvh](https://open.spotify.com/artist/0qynm6lz4zZ8lJZygwfovX) | [Beauty & The Beast](https://open.spotify.com/album/7aOS3r9ORnPGUcD6G2jUyq) | 2:48 | 2023-08-31 | 2023-11-30 |
 | [Bela Lugosi's Dead \(Official Version\)](https://open.spotify.com/track/1wyVyr8OhYsC9l0WgPPbh8) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [The Bela Session](https://open.spotify.com/album/5NhiaFlFGgymG2rDNqAcm1) | 9:36 | 2023-02-09 |  |
 | [Bichota \(Post\-Punk\)](https://open.spotify.com/track/3o8tpXm59d9a8wulsGLZ3y) | [FrioLento](https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn) | [Bichota \(Post\-Punk\)](https://open.spotify.com/album/0u9yvtJJdXmqMOOa53VuUD) | 3:01 | 2023-04-03 | 2023-09-01 |
 | [Biessensoŭnasć](https://open.spotify.com/track/2R1Yk6vm11P3pLIrtBR4eM) | [Nürnberg](https://open.spotify.com/artist/2IkTGThCeQAPGMru4uXzs4) | [Skryvaj](https://open.spotify.com/album/4v7LVUKXfXJwsomhfHaefk) | 2:56 | 2023-02-09 | 2023-09-01 |
@@ -131,7 +132,8 @@
 | [Mirror Twin](https://open.spotify.com/track/45wU0gt5K1RGPGqfhP71Vx) | [Harsh Symmetry](https://open.spotify.com/artist/2iw3bPHWeP872IeCAk2JmR) | [Mirror Twin](https://open.spotify.com/album/7vp0nLwMqpXKYHaGcovydU) | 3:45 | 2023-08-31 |  |
 | [mitleerenhänden](https://open.spotify.com/track/0sACOMcyDjLAO7Pe4NR2l3) | [Edwin Rosen](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J) | [mitleerenhänden](https://open.spotify.com/album/2uUl09ieBEaFtKStbPrjmA) | 3:29 | 2021-09-24 | 2023-09-01 |
 | [Mora](https://open.spotify.com/track/2whPbdXij9laysK0mPT5Lc) | [Nürnberg](https://open.spotify.com/artist/2IkTGThCeQAPGMru4uXzs4) | [Mora](https://open.spotify.com/album/5ww9uPwQ5AL3jpGEPAgncm) | 3:15 | 2020-12-21 | 2023-02-10 |
-| [MOTHS](https://open.spotify.com/track/2dT5M4bdibcfjLiqfzawi1) | [Nyxjvh](https://open.spotify.com/artist/0qynm6lz4zZ8lJZygwfovX) | [MOTHS](https://open.spotify.com/album/6YhEVN0VrEINMMLZlkiOv1) | 1:20 | 2023-08-31 |  |
+| [MOTHS](https://open.spotify.com/track/198k5g8F2FYnwYbhHV4rRB) | [Nyxjvh](https://open.spotify.com/artist/0qynm6lz4zZ8lJZygwfovX) | [MOTHS](https://open.spotify.com/album/7zWkTgmsawLX1XHAwbUZrW) | 1:20 | 2023-08-31 |  |
+| [MOTHS](https://open.spotify.com/track/2dT5M4bdibcfjLiqfzawi1) | [Nyxjvh](https://open.spotify.com/artist/0qynm6lz4zZ8lJZygwfovX) | [MOTHS](https://open.spotify.com/album/6YhEVN0VrEINMMLZlkiOv1) | 1:20 | 2023-08-31 | 2023-11-30 |
 | [Motion](https://open.spotify.com/track/0fKyRv26iIdZo9XCQ56jPO) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Country Girl Uncut](https://open.spotify.com/album/73lHzvuzmDsRscdaCQoj9B) | 3:59 | 2023-08-31 |  |
 | [Nadie Es Leal](https://open.spotify.com/track/1kTMe7VPlUt2gby7NqWzoi) | [VVV \[Trippin'you\]](https://open.spotify.com/artist/7tszuN9emjCCsC7kccXTFU) | [Turboviolencia](https://open.spotify.com/album/6dqnfkFIk2k450lqaCPTKq) | 2:18 | 2022-02-18 | 2023-02-10 |
 | [Narc](https://open.spotify.com/track/7uZHeWnTkO9KfQpvOJytEj) | [Cutouts](https://open.spotify.com/artist/6ZYpTpvAwv0T78s6Ueh5g1) | [Narc](https://open.spotify.com/album/6BsqNNzQzCB9pHwZJiOwc1) | 2:45 | 2022-09-11 | 2023-09-01 |

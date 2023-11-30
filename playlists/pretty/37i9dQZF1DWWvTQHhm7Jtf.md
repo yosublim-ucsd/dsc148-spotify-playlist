@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 
 > A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 \- Possible Musics'.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,302 likes - 70 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,316 likes - 70 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,16 +67,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 | 57 | [The Blue of Distance](https://open.spotify.com/track/6ZWKWSVd57ofFsgEez8aI6) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [The Blue of Distance](https://open.spotify.com/album/2fgYV6cTjFeqb0yPbj4piy) | 7:05 |
 | 58 | [The Loss of Wilderness](https://open.spotify.com/track/04tFCehRHa8mbwhXu00StW) | [ILUITEQ](https://open.spotify.com/artist/1J6vVQgVSsWTwVhPz1wQmq) | [The Loss of Wilderness](https://open.spotify.com/album/4BRp0FYalzuIdl2TBOQWB7) | 5:57 |
 | 59 | [Dreams](https://open.spotify.com/track/3OTzXu6oTZNQbZmyU7podJ) | [Asaph Sánchez](https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI) | [Dreams](https://open.spotify.com/album/5HVZHQ5JYhzGTEuD4xsrgT) | 5:16 |
-| 60 | [Virgin Ice](https://open.spotify.com/track/5CmYgfxDfGjUENk5UKhktc) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Trans\-Millenia Music](https://open.spotify.com/album/4hY9BjX7ydDk7hlXaP8ykw) | 4:38 |
+| 60 | [Time Changes](https://open.spotify.com/track/5hGQQu04tYHWt0zzDpYA1D) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Henrik Jespersen](https://open.spotify.com/artist/6ec9qybPAfeFylOZWEkbPy) | [Skyline \- Instant Composition Vol\. 2](https://open.spotify.com/album/6XB7R05FqrtyCLQBQOw00K) | 4:17 |
 | 61 | [Agua Azul](https://open.spotify.com/track/6ltgJwPbkprpKTUaysPS0i) | [Carmen Villain](https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l) | [Sketch for Winter IX: Perlita](https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8) | 5:16 |
-| 62 | [Time Changes](https://open.spotify.com/track/5hGQQu04tYHWt0zzDpYA1D) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Henrik Jespersen](https://open.spotify.com/artist/6ec9qybPAfeFylOZWEkbPy) | [Skyline \- Instant Composition Vol\. 2](https://open.spotify.com/album/6XB7R05FqrtyCLQBQOw00K) | 4:17 |
+| 62 | [Virgin Ice](https://open.spotify.com/track/5CmYgfxDfGjUENk5UKhktc) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Trans\-Millenia Music](https://open.spotify.com/album/4hY9BjX7ydDk7hlXaP8ykw) | 4:38 |
 | 63 | [The Brook](https://open.spotify.com/track/1ZGoURXFfkQ9STyFXtqsIu) | [Oils](https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI) | [Noodles](https://open.spotify.com/album/2osw99nWs2Ksyccj99sZ60) | 5:26 |
 | 64 | [Whisper Fold Brush, Pt\. One](https://open.spotify.com/track/2onDSsrIdCaAm9p5ji0bbk) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Whisper Fold Brush](https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7) | 19:50 |
 | 65 | [Ba\-benzélé](https://open.spotify.com/track/3c9lr5HgwAGEJbThGnkp3i) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Fourth World Vol 1 Possible Musics](https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9) | 6:17 |
 | 66 | [1/2 SCULPTURE](https://open.spotify.com/track/17G2vjTbT1niPRGsUCbza2) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk), [Ethan Braun](https://open.spotify.com/artist/6YFpKWCQ9nZG4B3snroNLi) | [Rio Nilo 66](https://open.spotify.com/album/4N8JdnLYaUCPR3C5bHfoCz) | 8:11 |
 | 67 | [Ether](https://open.spotify.com/track/3OXf3f3t3Yx9TMVsZHh2lD) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Tripoli](https://open.spotify.com/artist/5kO8Lt8fTaDRmvwcmjDO46) | [Plutón](https://open.spotify.com/album/3lA2Wy5OpKlsRMlogDznKW) | 6:56 |
-| 68 | [Paper Marble](https://open.spotify.com/track/4CUwlWnCgjWI434Gy0NwPo) | [David Kuckhermann](https://open.spotify.com/artist/4Yp7P4A82tNbZmMYRTSW9c) | [The Path of the Metal Turtle](https://open.spotify.com/album/2j4wLYGVcXgaleCBlvFA7o) | 6:15 |
-| 69 | [Aurobindo](https://open.spotify.com/track/1C7RELF3UfbZzyb7eQ2KZg) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [Our Hands Against the Dusk](https://open.spotify.com/album/6mtOF3M7pLQTQZlPtAFwn9) | 8:07 |
+| 68 | [Aurobindo](https://open.spotify.com/track/1C7RELF3UfbZzyb7eQ2KZg) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [Our Hands Against the Dusk](https://open.spotify.com/album/6mtOF3M7pLQTQZlPtAFwn9) | 8:07 |
+| 69 | [Paper Marble](https://open.spotify.com/track/4CUwlWnCgjWI434Gy0NwPo) | [David Kuckhermann](https://open.spotify.com/artist/4Yp7P4A82tNbZmMYRTSW9c) | [The Path of the Metal Turtle](https://open.spotify.com/album/2j4wLYGVcXgaleCBlvFA7o) | 6:15 |
 | 70 | [Malinalli Koatl](https://open.spotify.com/track/1JDsCg42TAQyGP02tMNCf6) | [Xochimoki](https://open.spotify.com/artist/2r9Sm0NknfL0xMMaRYQiiG) | [Temple Of The New Sun](https://open.spotify.com/album/00wrOJOHlmNR63kIKK6x7R) | 4:07 |
 
-Snapshot ID: `MCxmZTQ2ZDQ3YTJhMjQ1YTRlNDdkNmMxYWE0ZTA3ODQ0MjhiZTJhZjdl`
+Snapshot ID: `MCxkMGMzNmQxMWQwYzVkOWUzZTlhY2YyZTMzZDk1ZmEwMjFkM2M4ZGFj`

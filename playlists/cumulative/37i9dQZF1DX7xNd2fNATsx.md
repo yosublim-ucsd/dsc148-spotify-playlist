@@ -4,7 +4,7 @@
 
 > Quand l'indie et l'electro ne font qu'un.
 
-59 songs - 4 hr 13 min
+60 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,10 +12,11 @@
 | [Agenda Suicide](https://open.spotify.com/track/1eX0GWObMA2EAnkv5vuWw2) | [The Faint](https://open.spotify.com/artist/4A1yfFuBmBOgzv4Oe3fFHk) | [Danse Macabre](https://open.spotify.com/album/4avCxtm2y5e8so2aipSIfV) | 3:58 | 2023-02-07 |  |
 | [Always On the Run](https://open.spotify.com/track/1WuqCvOaCVDgbu12AROnCr) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [Living On The Edge Of Time](https://open.spotify.com/album/3BBzKiwVV4TI94yWwL8ICg) | 3:43 | 2023-10-16 |  |
 | [Always On The Run](https://open.spotify.com/track/52EPPbUf2chJt14NbQIu9a) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [Living On The Edge Of Time](https://open.spotify.com/album/3YPOlrizHDAktT0CJBhz6D) | 3:43 | 2023-02-07 | 2023-10-19 |
+| [Armatron](https://open.spotify.com/track/05x6pBQelgwQJs3ZeVfdEC) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Armatron](https://open.spotify.com/album/7pYfAkU5CwZFOgIzQncD3r) | 4:12 | 2023-11-29 |  |
 | [Blind](https://open.spotify.com/track/6EGfgNUSxVINKcmpbyssUE) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W) | [Hercules & Love Affair](https://open.spotify.com/album/7EMv3oMKUEpNrKFVZd1XYJ) | 6:18 | 2023-02-07 |  |
 | [Boy From School](https://open.spotify.com/track/1L8H6AuK4TaMmolSL0N0mR) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [The Warning](https://open.spotify.com/album/25wuY7cXE8zjFnJRiU1ehS) | 5:19 | 2023-02-07 |  |
 | [Boys Latin](https://open.spotify.com/track/178yi3jvbIHwnaxeAVUCD9) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Panda Bear Meets The Grim Reaper](https://open.spotify.com/album/4iRqf2zoGhh7yO5evg1NYj) | 4:12 | 2023-02-07 |  |
-| [Bulletproof](https://open.spotify.com/track/3kMrazSvILsgcwtidZd1Qd) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [La Roux](https://open.spotify.com/album/3CcCqXsbyjCDDSA3omcGoy) | 3:25 | 2023-02-07 |  |
+| [Bulletproof](https://open.spotify.com/track/3kMrazSvILsgcwtidZd1Qd) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [La Roux](https://open.spotify.com/album/3CcCqXsbyjCDDSA3omcGoy) | 3:25 | 2023-02-07 | 2023-11-30 |
 | [Circles](https://open.spotify.com/track/7BpRe7He8r2MV6MZPqAKmj) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [I Love You, Dude](https://open.spotify.com/album/40FCwDLlSKNZZ8tT3jWH5r) | 3:47 | 2023-02-07 |  |
 | [Complete Me \(feat\. Self Esteem\)](https://open.spotify.com/track/4PLpEoutbbBKXQX4Ymkgvq) | [Django Django](https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab), [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [Complete Me \(feat\. Self Esteem\)](https://open.spotify.com/album/6YQ5IjxTphaqI365Y8CNiO) | 4:46 | 2023-02-10 |  |
 | [Danser seul \(Ne suffit pas\)](https://open.spotify.com/track/1Dy89Uwb65YjAp5CC1sUzN) | [Bagarre](https://open.spotify.com/artist/3oDsNnVKW3T4MflgJlLysJ) | [CLUB 12345](https://open.spotify.com/album/0QbPKsLZqu9OhiotHNINhr) | 3:54 | 2023-02-07 | 2023-11-16 |

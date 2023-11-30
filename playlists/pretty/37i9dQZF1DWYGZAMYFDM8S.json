@@ -1,12 +1,12 @@
 {
   "description": "Keep calm with this mix of laidback, acoustic tracks.",
-  "num_followers": 301019,
+  "num_followers": 301060,
   "original_name": "Acoustic Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzI1NjUwNmRhOGU2MTA1NGU0OGMwZmViMmVlMDgyZmRlYWFiY2Y4",
+  "snapshot_id": "MCwzZWFkZmM4ZGE2ZDI4OWE5OGE0NTZiNDE2ZDg3ZDViODVhOGZiMzVi",
   "tracks": [
     {
       "added_at": "2023-11-10 05:00:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Long Blue Light",
-        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 200173,
-      "name": "Long Blue Light",
-      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "All The Little Lights (Anniversary Edition)",
         "url": "https://open.spotify.com/album/25bKp06DTIMODKnzXQf4gR"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 256986,
       "name": "Let Her Go (feat. Ed Sheeran) - Anniversary Edition",
       "url": "https://open.spotify.com/track/1nHKI4L5pWrN5CUvW07nHP"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Long Blue Light",
+        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 200173,
+      "name": "Long Blue Light",
+      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Only Real When Shared",
-        "url": "https://open.spotify.com/album/2T2MfSCQzdh15zFLdnN0Eh"
-      },
-      "artists": [
-        {
-          "name": "Caiola",
-          "url": "https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV"
-        }
-      ],
-      "duration_ms": 225378,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/5HTHYYmcoqh1FrAhchKeSF"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Breathe Again (Acoustic)",
         "url": "https://open.spotify.com/album/2l6DPIMm6wtP1230819k1D"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 198381,
       "name": "Breathe Again - Acoustic",
       "url": "https://open.spotify.com/track/2Y29DHOl92FAqXy6Oe6f5h"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Only Real When Shared",
+        "url": "https://open.spotify.com/album/2T2MfSCQzdh15zFLdnN0Eh"
+      },
+      "artists": [
+        {
+          "name": "Caiola",
+          "url": "https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV"
+        }
+      ],
+      "duration_ms": 225378,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/5HTHYYmcoqh1FrAhchKeSF"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Meet The Moonlight",
-        "url": "https://open.spotify.com/album/6A5YfsWJbtLqFenuOQCsDG"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 305607,
-      "name": "Meet The Moonlight",
-      "url": "https://open.spotify.com/track/6M70kLblnAfCQ9uj8BdcUR"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "A Pillar of Salt",
         "url": "https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 319053,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Meet The Moonlight",
+        "url": "https://open.spotify.com/album/6A5YfsWJbtLqFenuOQCsDG"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 305607,
+      "name": "Meet The Moonlight",
+      "url": "https://open.spotify.com/track/6M70kLblnAfCQ9uj8BdcUR"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "The Head And The Heart",
+        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 163973,
+      "name": "Winter Song",
+      "url": "https://open.spotify.com/track/5nbzSunBRFGCI4Pb6PoCat"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "Neptune",
         "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 200800,
       "name": "My Arms Were Always Around You",
       "url": "https://open.spotify.com/track/02a2RQEICEzbdPPYh0aLnJ"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "The Head And The Heart",
-        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 163973,
-      "name": "Winter Song",
-      "url": "https://open.spotify.com/track/5nbzSunBRFGCI4Pb6PoCat"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Moments",
-        "url": "https://open.spotify.com/album/1AdV0dbxTNI6ihLCJYyE96"
-      },
-      "artists": [
-        {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
-        }
-      ],
-      "duration_ms": 255099,
-      "name": "Ran Away",
-      "url": "https://open.spotify.com/track/2nQUwM55eYkY2bWtF3EzCm"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "On Hold",
         "url": "https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 216252,
       "name": "Top to Toe",
       "url": "https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Moments",
+        "url": "https://open.spotify.com/album/1AdV0dbxTNI6ihLCJYyE96"
+      },
+      "artists": [
+        {
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        }
+      ],
+      "duration_ms": 255099,
+      "name": "Ran Away",
+      "url": "https://open.spotify.com/track/2nQUwM55eYkY2bWtF3EzCm"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Purple",
-        "url": "https://open.spotify.com/album/2tsB8pb7S525A50GUVL1IE"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk"
       },
       "artists": [
         {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
         }
       ],
-      "duration_ms": 265962,
-      "name": "Purple",
-      "url": "https://open.spotify.com/track/5zzbToGMuEli0E7RVFIhDA"
+      "duration_ms": 280827,
+      "name": "When Doves Cry - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4LLTqpc4ywNrx89seBQi3w"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1595,34 +1595,18 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk"
+        "name": "Purple",
+        "url": "https://open.spotify.com/album/2tsB8pb7S525A50GUVL1IE"
       },
       "artists": [
         {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
         }
       ],
-      "duration_ms": 280827,
-      "name": "When Doves Cry - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4LLTqpc4ywNrx89seBQi3w"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Purple Haze",
-        "url": "https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 205395,
-      "name": "Purple Haze",
-      "url": "https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0"
+      "duration_ms": 265962,
+      "name": "Purple",
+      "url": "https://open.spotify.com/track/5zzbToGMuEli0E7RVFIhDA"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1639,6 +1623,22 @@
       "duration_ms": 173969,
       "name": "On The Road Again",
       "url": "https://open.spotify.com/track/4Uc8xnNu2Mm1yObB0uxZI6"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Extralife",
+        "url": "https://open.spotify.com/album/5OK6JHJhkSwle7EIeZZQ2E"
+      },
+      "artists": [
+        {
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+        }
+      ],
+      "duration_ms": 148200,
+      "name": "Old Friend",
+      "url": "https://open.spotify.com/track/5v2nPcapVA5eXClN6pSKCy"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Extralife",
-        "url": "https://open.spotify.com/album/5OK6JHJhkSwle7EIeZZQ2E"
+        "name": "Purple Haze",
+        "url": "https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm"
       },
       "artists": [
         {
-          "name": "Darlingside",
-          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 148200,
-      "name": "Old Friend",
-      "url": "https://open.spotify.com/track/5v2nPcapVA5eXClN6pSKCy"
+      "duration_ms": 205395,
+      "name": "Purple Haze",
+      "url": "https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "More",
-        "url": "https://open.spotify.com/album/7GUGks0NaGRWCGp5ARyGdQ"
-      },
-      "artists": [
-        {
-          "name": "Gatton",
-          "url": "https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE"
-        }
-      ],
-      "duration_ms": 222567,
-      "name": "More",
-      "url": "https://open.spotify.com/track/1UX01mLr9tdZoOatFpo1t0"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Blue Heron Suite",
         "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 208746,
       "name": "Morning",
       "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/7GUGks0NaGRWCGp5ARyGdQ"
+      },
+      "artists": [
+        {
+          "name": "Gatton",
+          "url": "https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE"
+        }
+      ],
+      "duration_ms": 222567,
+      "name": "More",
+      "url": "https://open.spotify.com/track/1UX01mLr9tdZoOatFpo1t0"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Build Me Up From Bones",
-        "url": "https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 216173,
-      "name": "Build Me Up From Bones",
-      "url": "https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "We Don't Eat EP",
         "url": "https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 233013,
       "name": "Shiver",
       "url": "https://open.spotify.com/track/1ODA4mZMaoBzT1TbPBW8B1"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Build Me Up From Bones",
+        "url": "https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 216173,
+      "name": "Build Me Up From Bones",
+      "url": "https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg"
     },
     {
       "added_at": "2023-11-10 05:00:00",

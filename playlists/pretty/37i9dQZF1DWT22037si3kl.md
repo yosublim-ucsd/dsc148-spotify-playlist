@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > Chique e confortável como a realeza do trap\. Foto: Kyan
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,578 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,577 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 35 | [Broncudão \(feat\. Lotta\)](https://open.spotify.com/track/3vMLoG513lbA3ATxIJi0z9) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [4Genesis](https://open.spotify.com/artist/67D2Ml4TLOBf7nolQgDev8), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Lotta](https://open.spotify.com/artist/4fpd51wyl42OhrUPK7R5aJ) | [Broncudão \(feat\. Lotta\)](https://open.spotify.com/album/03M2TXranFleMIW6zTQF7d) | 3:45 |
 | 36 | [Fases](https://open.spotify.com/track/7jEi9ueOKZkwsnqIuWB2PB) | [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [Raffé](https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m) | [Fases](https://open.spotify.com/album/5OwBKcZtC3sa8Pwnu9Mqho) | 2:10 |
 | 37 | [Passo de Piet](https://open.spotify.com/track/1hk75DQiC1mRc2pdu8yAmM) | [Phl Notunrboy](https://open.spotify.com/artist/6OR5QDOXtB0dAKK3VEmXHr), [lucashenriqeee](https://open.spotify.com/artist/3PlfbUseluH6JMWkrM5EIP), [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS) | [Passo de Piet](https://open.spotify.com/album/4zxOwhte3u716LoZJVisfY) | 3:14 |
-| 38 | [Design](https://open.spotify.com/track/1xvmdJ7DKsbNvYJTI4hmRJ) | [tchelo rodrigues](https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY), [retroboy](https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY) | [Design](https://open.spotify.com/album/5YUqf5vn12UjbfdNvGjQlR) | 2:20 |
-| 39 | [BLOCKO](https://open.spotify.com/track/34Tg2hUpJ0KfHktOEOmv8G) | [N.A.N.A.](https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND), [The Boy](https://open.spotify.com/artist/2RDrgRouTQ289ET075WYuC) | [BLOCKO](https://open.spotify.com/album/2AUYOZad5ek65kNUprn5EM) | 2:31 |
+| 38 | [BLOCKO](https://open.spotify.com/track/34Tg2hUpJ0KfHktOEOmv8G) | [N.A.N.A.](https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND), [The Boy](https://open.spotify.com/artist/2RDrgRouTQ289ET075WYuC) | [BLOCKO](https://open.spotify.com/album/2AUYOZad5ek65kNUprn5EM) | 2:31 |
+| 39 | [Design](https://open.spotify.com/track/1xvmdJ7DKsbNvYJTI4hmRJ) | [tchelo rodrigues](https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY), [retroboy](https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY) | [Design](https://open.spotify.com/album/5YUqf5vn12UjbfdNvGjQlR) | 2:20 |
 | 40 | [FREDDIE MERCURY](https://open.spotify.com/track/4EpS720DSnhvLM9TV995M1) | [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS), [TTF](https://open.spotify.com/artist/71YqA2qY3ZzGdPAEOf4k7A) | [FREDDIE MERCURY](https://open.spotify.com/album/030z6Qb2ol8uilw8a6npJx) | 2:39 |
 | 41 | [Criminal Love](https://open.spotify.com/track/0lXSJqe80Mdr9Np56AwVoh) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [DaHype](https://open.spotify.com/artist/1Vqrbqh0krEgbroMuqp4aM), [Andy](https://open.spotify.com/artist/3IHfZEC6zpFC24Ox8T8Q3G) | [Criminal Love](https://open.spotify.com/album/2n3IYM5kthpXqiRHUX3UI3) | 2:57 |
 | 42 | [Santa Fé](https://open.spotify.com/track/4v0raTKKlRlDb4590foEiR) | [2ZDinizz](https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Santa Fé](https://open.spotify.com/album/2Jzpbx6aNhCZc7eFy6CmRa) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 49 | [TAMBOR](https://open.spotify.com/track/5I3fsOI8IJjOkmgqCyZVfY) | [Fúria](https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS), [Diego Kairo](https://open.spotify.com/artist/6D0yjB3AE6xTi137BEQkWb), [L300](https://open.spotify.com/artist/0PVUOzL3xWKnD1lMEE3tPw), [Slain Rúbia](https://open.spotify.com/artist/0PWSIUUy2RF5TYkx6JXoit), [FELINA](https://open.spotify.com/artist/3RwgTYuexocU1QLpiOhhNO), [RUI'f](https://open.spotify.com/artist/7eAOkFsB01T4iRqfC4cjH9) | [ISSO Ñ É GPT](https://open.spotify.com/album/79Ie0NdfCAMkZQakRrMLFI) | 6:03 |
 | 50 | [Na Caça do Dinheiro](https://open.spotify.com/track/1DBIZGADOAkXDUhgGQdlPO) | [Tas Mc](https://open.spotify.com/artist/75LrYEzGI5S9Akg3FwvK6H), [Poison Venuz](https://open.spotify.com/artist/24PpNwMiLQ53mVKHUNvCQo), [Baruan](https://open.spotify.com/artist/15kt3VcbrDtWgrmgCOyRsw) | [Sobre Verdades](https://open.spotify.com/album/6djVDlhWBuln5h0WoyJoHe) | 2:51 |
 
-Snapshot ID: `MCwzYzE5MTZiNThlMTI0YzA3OWVjNzY0MjUyOTQ0NGYyNzc3MDVhYTYy`
+Snapshot ID: `MCxlYmQ5ODJiYWU3NzVhYWIwMWYyNGZiYTk3N2E3MTM4ODljMGQxYTg0`

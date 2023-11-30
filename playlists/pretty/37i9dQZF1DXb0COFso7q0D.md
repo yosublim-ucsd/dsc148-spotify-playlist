@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 
 > The playlist sin fronteras\. Cover: Codigo FN & Gabito Ballesteros
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,162,527 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,164,399 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 | 59 | [Dame Amor](https://open.spotify.com/track/5pzdnCfGS2uz5XjXx6gem3) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Dame Amor](https://open.spotify.com/album/5ahfnUbjVFr0dxwZYJLcHs) | 3:29 |
 | 60 | [Pal Amor Soy Malo \- Remix](https://open.spotify.com/track/5u9W6O6RiCRbJIOhE4Nmzy) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Pal Amor Soy Malo \(Remix\)](https://open.spotify.com/album/5zwIedXvNKxtqWuZJNWKmF) | 2:36 |
 
-Snapshot ID: `MCw3ZWZjMDliZTIwMWNkNzliYzhkZTFkM2QzYzI4ZGUwYzgxZGRkNWNk`
+Snapshot ID: `MCwxZjI0YjMzN2EyNmYyNTNmMzk1Y2RlOWVjNjQxYzk0ODNiZjRhMGM0`

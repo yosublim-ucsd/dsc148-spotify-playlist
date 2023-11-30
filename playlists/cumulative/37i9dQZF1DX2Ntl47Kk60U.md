@@ -4,7 +4,7 @@
 
 > Tara and Darcy's mixtape\. Watch <a href="https://open.spotify.com/playlist/37i9dQZF1DX5KARSfd7WcM?si=990a337ebd6d4033">Heartstopper</a> now on Netflix.
 
-70 songs - 3 hr 50 min
+71 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [midnight love](https://open.spotify.com/track/32XaqPVTVkkuOiOPQZ3SpA) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:13 | 2023-08-02 |  |
 | [My Mother & I](https://open.spotify.com/track/3zNFFDW3eBEQXwyreBODoj) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [My Mother & I](https://open.spotify.com/album/5sghOmYOvIRhA9vhi37tMU) | 4:39 | 2023-08-02 |  |
 | [Pegasus \(ft\. Phoebe Bridgers\)](https://open.spotify.com/track/79rDSeSX1tm97qaYDmPSnD) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [My Soft Machine](https://open.spotify.com/album/4YCScpRHPfvu81qmsIGGmn) | 3:06 | 2023-08-02 |  |
-| [prom dress](https://open.spotify.com/track/2xCGBWfzTe8l2kvHpgvB6M) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade](https://open.spotify.com/album/5mNk0mLiGcJHLGiT0mjHmX) | 3:17 | 2022-05-26 |  |
+| [prom dress](https://open.spotify.com/track/2u4XZR5A8cRPTPxBLJbAFC) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade](https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C) | 3:17 | 2022-05-31 |  |
+| [prom dress](https://open.spotify.com/track/2xCGBWfzTe8l2kvHpgvB6M) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade](https://open.spotify.com/album/5mNk0mLiGcJHLGiT0mjHmX) | 3:17 | 2022-05-26 | 2023-11-30 |
 | [Purple](https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:22 | 2023-08-02 |  |
 | [Put Your Records On](https://open.spotify.com/track/4Wd48CF1H2DvhpETlcFrbN) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [NOW That's What I Call Music, Vol\. 77](https://open.spotify.com/album/3P2f6BPhDskUbM5hnvzkLQ) | 3:24 | 2022-05-31 | 2022-11-13 |
 | [Put Your Records On](https://open.spotify.com/track/1fah1uAs7HeTYDlNftKr3K) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Put Your Records On](https://open.spotify.com/album/48UWtRgO3MWkhUINPy3DjM) | 3:30 | 2022-05-26 | 2022-07-29 |

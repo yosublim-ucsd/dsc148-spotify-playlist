@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 
 > Dejate llevar por los mejores lentos del rock\. Foto: Fabiana Cantilo
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,694 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,891 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 | 60 | [Te Encontré \(Acústico\)](https://open.spotify.com/track/1yB0GiaDvlGfLDJlaHSJyl) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Guerras \(Un Viaje en el Tiempo\)](https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR) | 3:14 |
 | 61 | [Roto](https://open.spotify.com/track/0G0qz1tF8IgGc2pANlH7X3) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Roto](https://open.spotify.com/album/06cMimO1BixYYuhsyNwXPV) | 3:48 |
 | 62 | [Va a Ser Difícil Olvidar](https://open.spotify.com/track/0Nylt3biQgd30wwgGqFCPm) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Al Parecer Todo Ha Sido una Trampa](https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q) | 3:53 |
-| 63 | [Nena, dime algo.](https://open.spotify.com/track/3McO6jC6I8FT8wd5EJAHCA) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 2:36 |
+| 63 | [Como un Cuento](https://open.spotify.com/track/3EissuXjQZQrjpHh8gRCG1) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Narigón del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre](https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU) | 4:46 |
 | 64 | [Hay Momentos \- Acústico](https://open.spotify.com/track/19KbiCmPqcAcG3sYMrWPzN) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Hay Momentos \(Acústico\)](https://open.spotify.com/album/6FKHKWtyIN49H0PHIiHhpG) | 4:39 |
-| 65 | [Como un Cuento](https://open.spotify.com/track/3EissuXjQZQrjpHh8gRCG1) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Narigón del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre](https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU) | 4:46 |
+| 65 | [Nena, dime algo.](https://open.spotify.com/track/3McO6jC6I8FT8wd5EJAHCA) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 2:36 |
 | 66 | [Otro Jueves Cobarde](https://open.spotify.com/track/09T8jYEV0b1z6tqghjTBZO) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [Fulanos de Nadie](https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB) | 5:20 |
 | 67 | [Heroína](https://open.spotify.com/track/7ERzS9KIggtCp9oslPzEc0) | [Sumo](https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W) | [Llegando Los Monos](https://open.spotify.com/album/2kn0EF90FuahMHtPpwVsX4) | 5:41 |
 | 68 | [A Veces Vuelvo \- Acustico](https://open.spotify.com/track/1dfXnEZgqnYD3C5ydo8kxs) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [Laberintos Entre Aristas Y Dialectos](https://open.spotify.com/album/7C7NKOfiox4LXLgXwHYlCz) | 4:33 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 | 96 | [El Regalo](https://open.spotify.com/track/47fOMQaJ6vELtlB7qDLnJX) | [Javier Calamaro](https://open.spotify.com/artist/6tPLRbaYWgZXppgsyKQ2M5) | [El Regalo](https://open.spotify.com/album/1XpoVhWP8TzsXDQWEtj0N8) | 4:03 |
 | 97 | [Tu Mirada](https://open.spotify.com/track/4wSHlr7aUYTYlyO1dtfblV) | [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Tu Mirada](https://open.spotify.com/album/6e45aH8gfnLjPqd9jX25HX) | 3:21 |
 | 98 | [La Canción que Pegó en el Palo](https://open.spotify.com/track/22vZWcv2TDPn0qocJgbvVj) | [Antonio Birabent](https://open.spotify.com/artist/66DfDCITtbXcmQnQfOMPqZ) | [La Canción que Pegó en el Palo](https://open.spotify.com/album/3XzxczDjDX13dF9Jspa9OQ) | 3:05 |
-| 99 | [Medalla de Oro](https://open.spotify.com/track/3foBo7v9p1AJQ26GgmTq4S) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS) | 5:40 |
-| 100 | [Balada Del Diablo y La Muerte](https://open.spotify.com/track/2eaGcVlo52WljP0gxl20zC) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Todo el día MÚSICA](https://open.spotify.com/album/6h6cdHzP4xPvbnj5TKBwan) | 5:36 |
+| 99 | [Balada Del Diablo y La Muerte](https://open.spotify.com/track/2eaGcVlo52WljP0gxl20zC) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Todo el día MÚSICA](https://open.spotify.com/album/6h6cdHzP4xPvbnj5TKBwan) | 5:36 |
+| 100 | [Medalla de Oro](https://open.spotify.com/track/3foBo7v9p1AJQ26GgmTq4S) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS) | 5:40 |
 
-Snapshot ID: `MCw5NzE0M2IzYzRlMTM5Mzk2MDUzZjczNmM1NmM4YzExNWY3ZTUwODk5`
+Snapshot ID: `MCw3NTg4ZmM1ZmI0MjY3YWFhYzEwMzRkZDBmZGIzYzE0NDE2MzkxZGZl`

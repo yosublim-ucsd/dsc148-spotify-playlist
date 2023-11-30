@@ -1,12 +1,12 @@
 {
   "description": "und macht laune",
-  "num_followers": 528362,
+  "num_followers": 528689,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYWRiZWRmYTRiZmQ5MDVlODRhOGU2N2VkZmMxZTFjZWQwNmUwMmM3",
+  "snapshot_id": "MCxkY2E2NDI5MmQ0NDE0NmE3OWMwMjM5MTg4ZjJmMzIzMWM0OTc5NTIy",
   "tracks": [
     {
       "added_at": "2023-11-24 13:27:59",
@@ -399,6 +399,22 @@
     {
       "added_at": "2023-11-24 13:27:59",
       "album": {
+        "name": "Drugs From Amsterdam",
+        "url": "https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 235785,
+      "name": "Drugs From Amsterdam",
+      "url": "https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv"
+    },
+    {
+      "added_at": "2023-11-24 13:27:59",
+      "album": {
         "name": "Friesenjung",
         "url": "https://open.spotify.com/album/4yavemUxS14K84SLwsHNmn"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 146086,
       "name": "Friesenjung",
       "url": "https://open.spotify.com/track/6tAKikIvnoWfUeZrfkopLL"
-    },
-    {
-      "added_at": "2023-11-24 13:27:59",
-      "album": {
-        "name": "Drugs From Amsterdam",
-        "url": "https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 235785,
-      "name": "Drugs From Amsterdam",
-      "url": "https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv"
     },
     {
       "added_at": "2023-11-24 13:27:59",
@@ -463,26 +463,6 @@
     {
       "added_at": "2023-11-24 13:27:59",
       "album": {
-        "name": "Weekends",
-        "url": "https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 127003,
-      "name": "Weekends",
-      "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"
-    },
-    {
-      "added_at": "2023-11-24 13:27:59",
-      "album": {
         "name": "This Is The Life",
         "url": "https://open.spotify.com/album/5hFY0oK1Ow8h9xIAtliOvp"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 131388,
       "name": "This Is The Life",
       "url": "https://open.spotify.com/track/3Me5bYXeDXqjBVgug53Ula"
+    },
+    {
+      "added_at": "2023-11-24 13:27:59",
+      "album": {
+        "name": "Weekends",
+        "url": "https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 127003,
+      "name": "Weekends",
+      "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"
     },
     {
       "added_at": "2023-11-24 13:27:59",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-11-24 13:27:59",
       "album": {
+        "name": "Be The One",
+        "url": "https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 169852,
+      "name": "Be The One",
+      "url": "https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW"
+    },
+    {
+      "added_at": "2023-11-24 13:27:59",
+      "album": {
         "name": "Ich will nur dass du wei\u00dft (IIVEN Remix)",
         "url": "https://open.spotify.com/album/2prLFss2H7K0y4ZY094MZA"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 156387,
       "name": "Ich will nur dass du wei\u00dft - IIVEN Remix",
       "url": "https://open.spotify.com/track/7MCNurIGh8Hg9SYaCPP9vv"
-    },
-    {
-      "added_at": "2023-11-24 13:27:59",
-      "album": {
-        "name": "Be The One",
-        "url": "https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 169852,
-      "name": "Be The One",
-      "url": "https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW"
     },
     {
       "added_at": "2023-11-24 13:27:59",
@@ -687,8 +687,8 @@
     {
       "added_at": "2023-11-24 13:27:59",
       "album": {
-        "name": "2022 war film gewesen",
-        "url": "https://open.spotify.com/album/4OBzAh7kXYVdeBp1LTrZwZ"
+        "name": "denk mal dr\u00fcber nach...",
+        "url": "https://open.spotify.com/album/2amQje8nzCnpbbjYpTJizx"
       },
       "artists": [
         {
@@ -696,17 +696,13 @@
           "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
         },
         {
-          "name": "Endzone",
-          "url": "https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7"
-        },
-        {
-          "name": "Ericson",
-          "url": "https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa"
+          "name": "SIRA",
+          "url": "https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA"
         }
       ],
-      "duration_ms": 137847,
-      "name": "Party Sahne",
-      "url": "https://open.spotify.com/track/2hFOXN8Eq2gXIGGMIdHdWJ"
+      "duration_ms": 141026,
+      "name": "mietfrei",
+      "url": "https://open.spotify.com/track/0fq2RzyyUoqELsONRF8ZzP"
     },
     {
       "added_at": "2023-11-24 13:27:59",
@@ -895,8 +891,8 @@
     {
       "added_at": "2023-11-24 13:27:59",
       "album": {
-        "name": "denk mal dr\u00fcber nach...",
-        "url": "https://open.spotify.com/album/2amQje8nzCnpbbjYpTJizx"
+        "name": "2022 war film gewesen",
+        "url": "https://open.spotify.com/album/4OBzAh7kXYVdeBp1LTrZwZ"
       },
       "artists": [
         {
@@ -904,13 +900,17 @@
           "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
         },
         {
-          "name": "SIRA",
-          "url": "https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA"
+          "name": "Endzone",
+          "url": "https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7"
+        },
+        {
+          "name": "Ericson",
+          "url": "https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa"
         }
       ],
-      "duration_ms": 141026,
-      "name": "mietfrei",
-      "url": "https://open.spotify.com/track/0fq2RzyyUoqELsONRF8ZzP"
+      "duration_ms": 137847,
+      "name": "Party Sahne",
+      "url": "https://open.spotify.com/track/2hFOXN8Eq2gXIGGMIdHdWJ"
     },
     {
       "added_at": "2023-11-24 13:27:59",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-11-24 13:27:59",
       "album": {
-        "name": "Schmetterling",
-        "url": "https://open.spotify.com/album/18LPHcIbr5G6oFx9Mf3lU3"
-      },
-      "artists": [
-        {
-          "name": "Baby B3ns",
-          "url": "https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP"
-        }
-      ],
-      "duration_ms": 120840,
-      "name": "Schmetterling",
-      "url": "https://open.spotify.com/track/5E3BK90EQQxmrDz3zLG2l9"
-    },
-    {
-      "added_at": "2023-11-24 13:27:59",
-      "album": {
         "name": "Cooler Than Me",
         "url": "https://open.spotify.com/album/5BmY6ZPLmhyIm9bRdN4mWP"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 179760,
       "name": "Cooler Than Me",
       "url": "https://open.spotify.com/track/525GY0mXYnxajolwgS8Eaz"
+    },
+    {
+      "added_at": "2023-11-24 13:27:59",
+      "album": {
+        "name": "Schmetterling",
+        "url": "https://open.spotify.com/album/18LPHcIbr5G6oFx9Mf3lU3"
+      },
+      "artists": [
+        {
+          "name": "Baby B3ns",
+          "url": "https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP"
+        }
+      ],
+      "duration_ms": 120840,
+      "name": "Schmetterling",
+      "url": "https://open.spotify.com/track/5E3BK90EQQxmrDz3zLG2l9"
     },
     {
       "added_at": "2023-11-24 13:27:59",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-11-24 13:27:59",
       "album": {
-        "name": "Dunes",
-        "url": "https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB"
-      },
-      "artists": [
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 184752,
-      "name": "Typa Girl",
-      "url": "https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm"
-    },
-    {
-      "added_at": "2023-11-24 13:27:59",
-      "album": {
         "name": "CHASE THE SUN",
         "url": "https://open.spotify.com/album/7aWwnUeQPDuBor9y5h8duc"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 211288,
       "name": "CHASE THE SUN",
       "url": "https://open.spotify.com/track/0v9FopnUjdazLkHb2vzcdt"
+    },
+    {
+      "added_at": "2023-11-24 13:27:59",
+      "album": {
+        "name": "Dunes",
+        "url": "https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 184752,
+      "name": "Typa Girl",
+      "url": "https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm"
     },
     {
       "added_at": "2023-11-24 13:27:59",
@@ -1171,6 +1171,26 @@
       "duration_ms": 148800,
       "name": "ONLY 4 LIFE - Remix",
       "url": "https://open.spotify.com/track/7jYwZOptDPesQgzj7vhsEF"
+    },
+    {
+      "added_at": "2023-11-24 13:27:59",
+      "album": {
+        "name": "Thank You (Not So Bad)",
+        "url": "https://open.spotify.com/album/3SmoOc6Jcej35ioy9xpB7j"
+      },
+      "artists": [
+        {
+          "name": "RobxDan",
+          "url": "https://open.spotify.com/artist/3LCCYKMCRF8ckGSHbhVS01"
+        },
+        {
+          "name": "Consilium",
+          "url": "https://open.spotify.com/artist/6qNTW3XIYFh6xV9V6Ymcgo"
+        }
+      ],
+      "duration_ms": 148965,
+      "name": "Thank You (Not So Bad)",
+      "url": "https://open.spotify.com/track/6a39HPcHKbPD536syYsRra"
     },
     {
       "added_at": "2023-11-24 13:27:59",
@@ -1227,26 +1247,6 @@
       "duration_ms": 224186,
       "name": "Von Party zu Party",
       "url": "https://open.spotify.com/track/4h6UIDvGWTYZvu4BLf2GpO"
-    },
-    {
-      "added_at": "2023-11-24 13:27:59",
-      "album": {
-        "name": "Thank You (Not So Bad)",
-        "url": "https://open.spotify.com/album/3SmoOc6Jcej35ioy9xpB7j"
-      },
-      "artists": [
-        {
-          "name": "RobxDan",
-          "url": "https://open.spotify.com/artist/3LCCYKMCRF8ckGSHbhVS01"
-        },
-        {
-          "name": "Consilium",
-          "url": "https://open.spotify.com/artist/6qNTW3XIYFh6xV9V6Ymcgo"
-        }
-      ],
-      "duration_ms": 148965,
-      "name": "Thank You (Not So Bad)",
-      "url": "https://open.spotify.com/track/6a39HPcHKbPD536syYsRra"
     },
     {
       "added_at": "2023-11-24 13:27:59",
@@ -1355,46 +1355,6 @@
     {
       "added_at": "2023-11-24 13:27:59",
       "album": {
-        "name": "Auf die Party",
-        "url": "https://open.spotify.com/album/57Mo2UNrJR14lhdZU5WXbt"
-      },
-      "artists": [
-        {
-          "name": "badm\u00f3mzjay",
-          "url": "https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h"
-        },
-        {
-          "name": "Domiziana",
-          "url": "https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN"
-        }
-      ],
-      "duration_ms": 164199,
-      "name": "Auf die Party",
-      "url": "https://open.spotify.com/track/5qDzKUTHCUiKhewBa9STsE"
-    },
-    {
-      "added_at": "2023-11-24 13:27:59",
-      "album": {
-        "name": "Es kracht in Buxtehude",
-        "url": "https://open.spotify.com/album/1eOfCZvt4oRKS10xyLkvLO"
-      },
-      "artists": [
-        {
-          "name": "Trizto",
-          "url": "https://open.spotify.com/artist/34hL467mqffW7Z5WQhM1MS"
-        },
-        {
-          "name": "MontanaBlack",
-          "url": "https://open.spotify.com/artist/3G48828EYRdDAQ77Z6HidC"
-        }
-      ],
-      "duration_ms": 161454,
-      "name": "Es kracht in Buxtehude",
-      "url": "https://open.spotify.com/track/1oryzuL2gSZMmTGgKD3sh1"
-    },
-    {
-      "added_at": "2023-11-24 13:27:59",
-      "album": {
         "name": "Nothing but the Beat 2.0",
         "url": "https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn"
       },
@@ -1435,6 +1395,46 @@
       "duration_ms": 153674,
       "name": "All Night",
       "url": "https://open.spotify.com/track/4taclmQm9wFcK4dKQjR5ny"
+    },
+    {
+      "added_at": "2023-11-24 13:27:59",
+      "album": {
+        "name": "Es kracht in Buxtehude",
+        "url": "https://open.spotify.com/album/1eOfCZvt4oRKS10xyLkvLO"
+      },
+      "artists": [
+        {
+          "name": "Trizto",
+          "url": "https://open.spotify.com/artist/34hL467mqffW7Z5WQhM1MS"
+        },
+        {
+          "name": "MontanaBlack",
+          "url": "https://open.spotify.com/artist/3G48828EYRdDAQ77Z6HidC"
+        }
+      ],
+      "duration_ms": 161454,
+      "name": "Es kracht in Buxtehude",
+      "url": "https://open.spotify.com/track/1oryzuL2gSZMmTGgKD3sh1"
+    },
+    {
+      "added_at": "2023-11-24 13:27:59",
+      "album": {
+        "name": "Auf die Party",
+        "url": "https://open.spotify.com/album/57Mo2UNrJR14lhdZU5WXbt"
+      },
+      "artists": [
+        {
+          "name": "badm\u00f3mzjay",
+          "url": "https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h"
+        },
+        {
+          "name": "Domiziana",
+          "url": "https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN"
+        }
+      ],
+      "duration_ms": 164199,
+      "name": "Auf die Party",
+      "url": "https://open.spotify.com/track/5qDzKUTHCUiKhewBa9STsE"
     },
     {
       "added_at": "2023-11-24 13:27:59",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2023-11-24 13:27:59",
       "album": {
+        "name": "All The Things She Said (Teaboy Flip)",
+        "url": "https://open.spotify.com/album/69vWxMtXxJsbB4AXP4NFEe"
+      },
+      "artists": [
+        {
+          "name": "TEABOY",
+          "url": "https://open.spotify.com/artist/5iGDVVnLBTuVlgZRQd7L1x"
+        }
+      ],
+      "duration_ms": 164327,
+      "name": "All The Things She Said - Teaboy Flip",
+      "url": "https://open.spotify.com/track/4r8vtv55ZqVxRAXdcLGS8J"
+    },
+    {
+      "added_at": "2023-11-24 13:27:59",
+      "album": {
         "name": "TABU RMX",
         "url": "https://open.spotify.com/album/1tZuWiSl8PJUq8DHZcVYn7"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 138181,
       "name": "TABU RMX",
       "url": "https://open.spotify.com/track/7DsflyKZZAMXFUzZtho9mr"
-    },
-    {
-      "added_at": "2023-11-24 13:27:59",
-      "album": {
-        "name": "All The Things She Said (Teaboy Flip)",
-        "url": "https://open.spotify.com/album/69vWxMtXxJsbB4AXP4NFEe"
-      },
-      "artists": [
-        {
-          "name": "TEABOY",
-          "url": "https://open.spotify.com/artist/5iGDVVnLBTuVlgZRQd7L1x"
-        }
-      ],
-      "duration_ms": 164327,
-      "name": "All The Things She Said - Teaboy Flip",
-      "url": "https://open.spotify.com/track/4r8vtv55ZqVxRAXdcLGS8J"
     },
     {
       "added_at": "2023-11-24 13:27:59",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-11-24 13:27:59",
       "album": {
-        "name": "Mangos mit Chili",
-        "url": "https://open.spotify.com/album/3qsz2ytKVv0pn17TISastM"
-      },
-      "artists": [
-        {
-          "name": "Nina Chuba",
-          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
-        }
-      ],
-      "duration_ms": 134887,
-      "name": "Mangos mit Chili",
-      "url": "https://open.spotify.com/track/11eYmv0tA3wEoyD1Sad2Nv"
-    },
-    {
-      "added_at": "2023-11-24 13:27:59",
-      "album": {
         "name": "Herz an Herz",
         "url": "https://open.spotify.com/album/2ErXScnw552ExYN83eloZw"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 143347,
       "name": "Herz an Herz",
       "url": "https://open.spotify.com/track/3JfKaDVt5I1egdhm2V5GRG"
+    },
+    {
+      "added_at": "2023-11-24 13:27:59",
+      "album": {
+        "name": "Mangos mit Chili",
+        "url": "https://open.spotify.com/album/3qsz2ytKVv0pn17TISastM"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        }
+      ],
+      "duration_ms": 134887,
+      "name": "Mangos mit Chili",
+      "url": "https://open.spotify.com/track/11eYmv0tA3wEoyD1Sad2Nv"
     },
     {
       "added_at": "2023-11-24 13:27:59",

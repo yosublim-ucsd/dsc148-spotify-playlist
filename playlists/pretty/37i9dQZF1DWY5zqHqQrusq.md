@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5zqHqQrusq.md) - [plain]
 
 > Chill, take a long walk and clear your mind
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,278 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,292 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5zqHqQrusq.md) - [plain]
 | 49 | [Njia Moja](https://open.spotify.com/track/0G1vjYaNDUtntJF0hCq5YL) | [Rafiiki](https://open.spotify.com/artist/3RQugbKSKDSg8oHS1MdMXn) | [Njia Moja](https://open.spotify.com/album/0DhkCfovACaJcz26OjNtwp) | 3:32 |
 | 50 | [Lock me](https://open.spotify.com/track/69Pv8rfP3biRUE6HZvy4A4) | [X.O](https://open.spotify.com/artist/2zu7sut23i4vR8OZPAxWyJ) | [Lock me](https://open.spotify.com/album/4xPEootVjy1AmsVr6vYZkL) | 2:56 |
 
-Snapshot ID: `MCw5MmZiMGIyNzM0M2IyYjg5NzA2MzdiZmQyYzg0NjA3ZDAxNjQ1Y2Mw`
+Snapshot ID: `MCw4MTMwOWI1NjlkYTZjYjQyMTE2Y2RkMTRlZDkzMjg4NWViMmNiNzYw`

@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del mundo tropical. Cover: Moa Rivera",
-  "num_followers": 255844,
+  "num_followers": 255858,
   "original_name": "el nuevo tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOGI1MGI1ZTQ0MzJiYjE2Y2EyMTBhYTAzNzMzMTFlOTA2NzA0MmQx",
+  "snapshot_id": "MCxmNTQ2YmQ4MjdlNTk0NjYxYjJmOTY1M2I1NzY5OTEyYWVlYzA0YmQ1",
   "tracks": [
     {
       "added_at": "2023-11-24 06:56:26",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-11-24 06:56:26",
       "album": {
-        "name": "Me EnRD",
-        "url": "https://open.spotify.com/album/3BumcT1ophGlEOHCi1fzoW"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 185822,
-      "name": "Me EnRD",
-      "url": "https://open.spotify.com/track/3GkctxmZmeGmW4K5Oya0Z1"
-    },
-    {
-      "added_at": "2023-11-24 06:56:26",
-      "album": {
         "name": "LVEU: VIVE LA TUYA...NO LA MIA",
         "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 202360,
       "name": "LA CAPI",
       "url": "https://open.spotify.com/track/68OXeY9CUQebrOAAh3b3Jw"
+    },
+    {
+      "added_at": "2023-11-24 06:56:26",
+      "album": {
+        "name": "Me EnRD",
+        "url": "https://open.spotify.com/album/3BumcT1ophGlEOHCi1fzoW"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 185822,
+      "name": "Me EnRD",
+      "url": "https://open.spotify.com/track/3GkctxmZmeGmW4K5Oya0Z1"
     },
     {
       "added_at": "2023-11-24 06:56:26",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-11-24 06:56:26",
       "album": {
+        "name": "DESAHOGO",
+        "url": "https://open.spotify.com/album/1mMPzNKVMKcgux2WtZx5ak"
+      },
+      "artists": [
+        {
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+        }
+      ],
+      "duration_ms": 202360,
+      "name": "ORGULLO",
+      "url": "https://open.spotify.com/track/6FChr93F3ECYRaIKwL7DOa"
+    },
+    {
+      "added_at": "2023-11-24 06:56:26",
+      "album": {
         "name": "DLUX",
         "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 175637,
       "name": "MI HOGAR (with maye)",
       "url": "https://open.spotify.com/track/19MC63Kwcy5eETHclYnXhe"
-    },
-    {
-      "added_at": "2023-11-24 06:56:26",
-      "album": {
-        "name": "DESAHOGO",
-        "url": "https://open.spotify.com/album/1mMPzNKVMKcgux2WtZx5ak"
-      },
-      "artists": [
-        {
-          "name": "Gonzy",
-          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
-        }
-      ],
-      "duration_ms": 202360,
-      "name": "ORGULLO",
-      "url": "https://open.spotify.com/track/6FChr93F3ECYRaIKwL7DOa"
     },
     {
       "added_at": "2023-11-24 06:56:26",

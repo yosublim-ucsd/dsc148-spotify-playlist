@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > Tate deze week op de cover van Fresh Pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,406 likes - 99 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,419 likes - 99 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 98 | [Tension](https://open.spotify.com/track/6435Ra0NWQzPyZAcd1ojWI) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 3:36 |
 | 99 | [Miracles](https://open.spotify.com/track/5acs33Z7tV5aopOM7LClgL) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Miracles](https://open.spotify.com/album/2EhTv5KlLWkNaoVXZnlzAM) | 3:22 |
 
-Snapshot ID: `MCxkNjY1YjAyMGNjY2RkMGZlMzdjNTlmOWYyODQ0NjViNjllYzMyNmJj`
+Snapshot ID: `MCw3MzlhZjNkMGY2OTIxMGY1MzMyY2I2ZjVjM2ExODdkZGQwNjllZmRh`

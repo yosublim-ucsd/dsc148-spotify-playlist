@@ -4,7 +4,7 @@
 
 > Tristeza independiente para aquellos días de bajón.
 
-182 songs - 10 hr 30 min
+183 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Adiós Amor](https://open.spotify.com/track/5rpQcu6N5omwxP8ai4UYmO) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Adiós Amor](https://open.spotify.com/album/0XDiT3wvemIhWDfuBvAJWo) | 3:47 | 2022-05-27 | 2022-10-15 |
 | [Aeroplanos](https://open.spotify.com/track/1ujis0ZrwUNGVXgjvu4uCU) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Aeroplanos](https://open.spotify.com/album/4Ar13KcjSsBGCWmcueqYtz) | 3:59 | 2022-05-27 | 2022-07-20 |
 | [Al Final](https://open.spotify.com/track/1fZofOT5ZxvQGvSPRGDHZ6) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Al Final](https://open.spotify.com/album/7470r66cxX10eauslHS9hS) | 3:17 | 2022-05-27 | 2022-07-29 |
+| [Al Final](https://open.spotify.com/track/64evbvaNb4twXgBPV42jlG) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Mundo De Dos](https://open.spotify.com/album/3FcPCDNcLerTah8e4QuEsi) | 3:17 | 2023-02-24 |  |
 | [Al Final](https://open.spotify.com/track/6YwQwgNUvquozKP41xGmRs) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Mundo De Dos](https://open.spotify.com/album/2prBuM9hprQROvEI5MDZ5C) | 3:17 | 2022-09-09 | 2023-09-09 |
 | [Al Norte](https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3) | 3:19 | 2022-07-11 |  |
 | [Alguien Como Tú](https://open.spotify.com/track/2qXwXciJwW4Qdg7KDesOCQ) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [El Futuro No Existe](https://open.spotify.com/album/7u4Q7oQOCM6tB5v806Ya84) | 3:45 | 2022-05-27 | 2022-07-06 |
@@ -37,7 +38,7 @@
 | [café de las ocho](https://open.spotify.com/track/75HRhHdxSupU4JdnaLZtq8) | [Covi Quintana](https://open.spotify.com/artist/2sSqkk6j5gRa7MzeQqMfIN) | [Mañana Te Escribo Otra Canción](https://open.spotify.com/album/13fka9ET1RGpC4jQx2W9kE) | 3:55 | 2022-07-11 |  |
 | [Catorce](https://open.spotify.com/track/1s3WD4gbNoEXHiuSTmAKaK) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Catorce](https://open.spotify.com/album/0DxFyFTHGHtQSuKXFhvOeN) | 3:44 | 2022-05-27 |  |
 | [Chachachá](https://open.spotify.com/track/6aommJFM8i3iT4inKuDSXh) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Háblate de Mí](https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ) | 3:35 | 2022-05-27 |  |
-| [Cigarrito y Café](https://open.spotify.com/track/4zCcsSId3HZ6DvjFcxmg2l) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [Cigarrito y Café](https://open.spotify.com/album/40BCKQLAweweUfSrr4Pyhj) | 2:51 | 2022-05-27 |  |
+| [Cigarrito y Café](https://open.spotify.com/track/4zCcsSId3HZ6DvjFcxmg2l) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [Cigarrito y Café](https://open.spotify.com/album/40BCKQLAweweUfSrr4Pyhj) | 2:51 | 2022-05-27 | 2023-11-30 |
 | [Colapso](https://open.spotify.com/track/7dT9D6117e5DbhnKxDLNW9) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Hasta el Fin Del Mundo](https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7) | 3:55 | 2022-05-27 |  |
 | [Combustión](https://open.spotify.com/track/1zDuB9BuEt9Bm3J8OtKEvq) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Háblame de Tú](https://open.spotify.com/album/5Rao7KC9RIrW96DjBkQFiu) | 3:58 | 2022-05-27 |  |
 | [Conexión Divina](https://open.spotify.com/track/6cozAT3eT2cgb2SRvXsmnl) | [LÚA](https://open.spotify.com/artist/1sEGUJyocmOnW6emzgoHMM) | [Conexión Divina](https://open.spotify.com/album/1TJBzwXQuMJcePpmExCxrA) | 2:24 | 2022-05-27 | 2022-07-09 |

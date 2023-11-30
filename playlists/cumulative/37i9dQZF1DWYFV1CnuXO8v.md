@@ -4,7 +4,7 @@
 
 > عيش أجمل حالة حب 🫶❤️<br/> كوفر: <a href="https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg?si=SaDgQlWvTb2aXAi94J\-UOA"> انغام </a>
 
-266 songs - 16 hr 41 min
+267 songs - 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Farha](https://open.spotify.com/track/1tKPUMbKrJ7lHpnHW1jc1w) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Farha](https://open.spotify.com/album/6CO9kHdDHltgyhClt55JUC) | 4:28 | 2023-02-13 | 2023-05-23 |
 | [Fe Einy](https://open.spotify.com/track/2TyixRw1j8Ojuh29akRROH) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Fe Einy](https://open.spotify.com/album/6ULzQQv9nJKrpFah0RqHlt) | 3:08 | 2023-02-13 |  |
 | [Fe Hetta Tanya](https://open.spotify.com/track/6lCoHq4ZBVAVSk83G55nnp) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Fe Hetta Tanya](https://open.spotify.com/album/2BHwb6p6sLzdNRZkepJNtF) | 4:17 | 2023-02-13 |  |
-| [Fe Keda](https://open.spotify.com/track/3J2v3X92FYxq5vCK9gs7oq) | [Mohamed Mohie](https://open.spotify.com/artist/0kx1MvP6InHp52v64yCRx4) | [Fe Keda](https://open.spotify.com/album/2AvAE36IYscAmnOMUjHhX9) | 5:05 | 2023-09-08 |  |
+| [Fe Keda](https://open.spotify.com/track/3J2v3X92FYxq5vCK9gs7oq) | [Mohamed Mohie](https://open.spotify.com/artist/0kx1MvP6InHp52v64yCRx4) | [Fe Keda](https://open.spotify.com/album/2AvAE36IYscAmnOMUjHhX9) | 5:05 | 2023-09-08 | 2023-11-30 |
 | [Felfel W Shatta](https://open.spotify.com/track/5ochjQf3Sm80KNIARwaqTi) | [Mohamed Osama](https://open.spotify.com/artist/4NH8A2q0S9Pkx2t2J3a2Z7) | [Felfel W Shatta](https://open.spotify.com/album/3Jis71LRlNV1wR8BTkFyrL) | 3:01 | 2023-08-08 | 2023-09-09 |
 | [Fenoh](https://open.spotify.com/track/6dzfREL5EwPZxPGIgKsieT) | [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [Gowa Fe Alby](https://open.spotify.com/album/27VrCWi59R8keOizrwJjGA) | 4:51 | 2023-02-13 | 2023-05-23 |
 | [Fi kteer Helween](https://open.spotify.com/track/3KPWu8HQtC0tjLPP3wOSXQ) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [Fi kteer Helween](https://open.spotify.com/album/0iyo4Rdmz1BJK80ADyfXk0) | 2:46 | 2023-06-20 | 2023-07-14 |
@@ -140,6 +140,7 @@
 | [Lamastak](https://open.spotify.com/track/0IGpoBDmY2CJNeOP2YjQPm) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [Ayamy](https://open.spotify.com/album/3JMzFom0BGg3PxUgdSS4WH) | 3:53 | 2023-02-13 | 2023-05-23 |
 | [Law Hatsib](https://open.spotify.com/track/7h7FKF2JBDa6xChi3z9KxC) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Ya Fatenny](https://open.spotify.com/album/4c7UeqkDVT5AZI3hN7oitj) | 3:48 | 2023-02-13 | 2023-05-24 |
 | [Lela](https://open.spotify.com/track/2QAi4scKA8gb5QdbFPHpa6) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Lela](https://open.spotify.com/album/34FAOuyGpr0rbvbGZu4qbT) | 3:44 | 2023-09-08 | 2023-11-28 |
+| [Lela](https://open.spotify.com/track/2qzU4kzcQU34S8tKh6AZTZ) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Lela](https://open.spotify.com/album/3AMyVk8NP2wOxLIpx0FS9W) | 3:45 | 2023-11-13 |  |
 | [Lela](https://open.spotify.com/track/55ks39FCn2Zfep9w2McjAd) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Lela](https://open.spotify.com/album/0LDkFCSQgOC46KvPDqC8N9) | 3:45 | 2023-10-26 | 2023-11-24 |
 | [Loha Bahta](https://open.spotify.com/track/4qzZfVfmn8eSIRjHANyacT) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Loha Bahta](https://open.spotify.com/album/2f4UyBHV6OigpFp0GG5drs) | 4:22 | 2023-02-13 | 2023-05-23 |
 | [Maaloba Hayaty](https://open.spotify.com/track/1J3fMjtLX9Am5iLNrhHRmR) | [Shaza](https://open.spotify.com/artist/1EfSs3W0Qb8i6Rbw60nv5b) | [Maaloba Hayaty](https://open.spotify.com/album/6zn3nAXGhehDhp2enqc00j) | 4:08 | 2023-02-13 | 2023-02-22 |

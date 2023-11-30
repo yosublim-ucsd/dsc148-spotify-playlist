@@ -1,12 +1,12 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes.",
-  "num_followers": 132978,
+  "num_followers": 133073,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MWM5OTJiNmQ2ZmNmOWYwNjc0MDQ4YmI0NGQ2NGQzNGZlYWM3NTdk",
+  "snapshot_id": "MCxlYTEzNmQ1ZjczYTA0ODU2ZjQxNDc0YzhlNDI2MTc5MWY0ZDViMGYw",
   "tracks": [
     {
       "added_at": "2023-11-17 03:00:00",
@@ -755,18 +755,22 @@
     {
       "added_at": "2023-11-17 03:00:00",
       "album": {
-        "name": "Ay, Amor (En Vivo)",
-        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
+        "name": "Jurabas T\u00fa / Mis Sentimientos (En Vivo)",
+        "url": "https://open.spotify.com/album/4n43selPpgHWfgrUkHGjCL"
       },
       "artists": [
         {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+          "name": "Roc\u00edo Quiroz",
+          "url": "https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn"
+        },
+        {
+          "name": "La Kuppe",
+          "url": "https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb"
         }
       ],
-      "duration_ms": 278133,
-      "name": "Como Podr\u00e9",
-      "url": "https://open.spotify.com/track/3b1KrXLLqt9KbZvMdZ4fpN"
+      "duration_ms": 330339,
+      "name": "Jurabas T\u00fa / Mis Sentimientos (En Vivo)",
+      "url": "https://open.spotify.com/track/4M2oCrINgfIbOfSoD2YoLY"
     },
     {
       "added_at": "2023-11-17 03:00:00",
@@ -787,22 +791,18 @@
     {
       "added_at": "2023-11-17 03:00:00",
       "album": {
-        "name": "Jurabas T\u00fa / Mis Sentimientos (En Vivo)",
-        "url": "https://open.spotify.com/album/4n43selPpgHWfgrUkHGjCL"
+        "name": "Ay, Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
       },
       "artists": [
         {
-          "name": "Roc\u00edo Quiroz",
-          "url": "https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn"
-        },
-        {
-          "name": "La Kuppe",
-          "url": "https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb"
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
         }
       ],
-      "duration_ms": 330339,
-      "name": "Jurabas T\u00fa / Mis Sentimientos (En Vivo)",
-      "url": "https://open.spotify.com/track/4M2oCrINgfIbOfSoD2YoLY"
+      "duration_ms": 278133,
+      "name": "Como Podr\u00e9",
+      "url": "https://open.spotify.com/track/3b1KrXLLqt9KbZvMdZ4fpN"
     },
     {
       "added_at": "2023-11-17 03:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-11-17 03:00:00",
       "album": {
-        "name": "10 A\u00f1os Movistar Arena",
-        "url": "https://open.spotify.com/album/0a08iXh2r7gh0BmS2ijuI4"
-      },
-      "artists": [
-        {
-          "name": "Santaferia",
-          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
-        }
-      ],
-      "duration_ms": 243275,
-      "name": "Amor Sin Fronteras",
-      "url": "https://open.spotify.com/track/6xXAMSAUOuVpmwgwBNuzfQ"
-    },
-    {
-      "added_at": "2023-11-17 03:00:00",
-      "album": {
         "name": "Mi Vida (En Vivo)",
         "url": "https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 439586,
       "name": "Boquita De Caramelo / Una Copita Mas / Porque Yo / Otra Noche De Amor",
       "url": "https://open.spotify.com/track/6AqhV2E7fO7tENpESQFhXv"
+    },
+    {
+      "added_at": "2023-11-17 03:00:00",
+      "album": {
+        "name": "10 A\u00f1os Movistar Arena",
+        "url": "https://open.spotify.com/album/0a08iXh2r7gh0BmS2ijuI4"
+      },
+      "artists": [
+        {
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        }
+      ],
+      "duration_ms": 243275,
+      "name": "Amor Sin Fronteras",
+      "url": "https://open.spotify.com/track/6xXAMSAUOuVpmwgwBNuzfQ"
     },
     {
       "added_at": "2023-11-17 03:00:00",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2023-11-17 03:00:00",
       "album": {
-        "name": "En Vivo En La Quinta Vergara",
-        "url": "https://open.spotify.com/album/1ufPsyIKQ45i4nKN5urv2C"
+        "name": "Mi Vida (En Vivo)",
+        "url": "https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD"
       },
       "artists": [
         {
-          "name": "Santaferia",
-          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+          "name": "Daniel Agostini",
+          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
         }
       ],
-      "duration_ms": 224806,
-      "name": "Ahora Te Vas - En Vivo",
-      "url": "https://open.spotify.com/track/1a47ltENRUWMRlNnlqVsvs"
+      "duration_ms": 483693,
+      "name": "La Ventanita / Beso a Beso",
+      "url": "https://open.spotify.com/track/3rs08x2D6DEQ5kgwZW82qq"
     },
     {
       "added_at": "2023-11-17 03:00:00",

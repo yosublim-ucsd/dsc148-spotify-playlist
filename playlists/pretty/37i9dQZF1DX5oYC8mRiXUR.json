@@ -1,12 +1,12 @@
 {
   "description": "No dust was found after cleaning to this playlist.",
-  "num_followers": 662219,
+  "num_followers": 662174,
   "original_name": "Cleaning Kit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzU5MTZkNWU1M2RkYWQzYTAyNWE3MjAwMjNjYjI4MWM2MTVjNjJl",
+  "snapshot_id": "MCwxMDUyMmZhMmE5MThlODY4OTkxYzkxNzE1Y2I0ZTFlZTZiZDNjMmQ3",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Motivando a la Yal",
-        "url": "https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 232019,
-      "name": "Yo Voy (feat. Daddy Yankee)",
-      "url": "https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
       },
@@ -951,22 +935,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Mon Amour (Remix)",
-        "url": "https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5"
+        "name": "Motivando a la Yal",
+        "url": "https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF"
       },
       "artists": [
         {
-          "name": "zzoilo",
-          "url": "https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b"
-        },
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
         }
       ],
-      "duration_ms": 179940,
-      "name": "Mon Amour - Remix",
-      "url": "https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R"
+      "duration_ms": 232019,
+      "name": "Yo Voy (feat. Daddy Yankee)",
+      "url": "https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -983,6 +963,26 @@
       "duration_ms": 219159,
       "name": "My Way",
       "url": "https://open.spotify.com/track/1vvNmPOiUuyCbgWmtc6yfm"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Mon Amour (Remix)",
+        "url": "https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5"
+      },
+      "artists": [
+        {
+          "name": "zzoilo",
+          "url": "https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 179940,
+      "name": "Mon Amour - Remix",
+      "url": "https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "John Newman",
-          "url": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
-        }
-      ],
-      "duration_ms": 212960,
-      "name": "Blame (feat. John Newman)",
-      "url": "https://open.spotify.com/track/07nH4ifBxUB4lZcsf44Brn"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "KG0516",
         "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 140500,
       "name": "Don't Be Shy",
       "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "John Newman",
+          "url": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
+        }
+      ],
+      "duration_ms": 212960,
+      "name": "Blame (feat. John Newman)",
+      "url": "https://open.spotify.com/track/07nH4ifBxUB4lZcsf44Brn"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "PROVENZA",
+        "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "PROVENZA",
+      "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
@@ -1251,54 +1267,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Don't Start Now",
-        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 183290,
-      "name": "Don't Start Now",
-      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "PROVENZA",
-        "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "PROVENZA",
-      "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Todo De Ti",
-        "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 199604,
-      "name": "Todo De Ti",
-      "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Hold Me Closer",
         "url": "https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6"
       },
@@ -1315,6 +1283,38 @@
       "duration_ms": 202245,
       "name": "Hold Me Closer",
       "url": "https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Don't Start Now",
+        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 183290,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Todo De Ti",
+        "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 199604,
+      "name": "Todo De Ti",
+      "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1363,6 +1363,26 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Cosmo",
+        "url": "https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 184320,
+      "name": "Vocation",
+      "url": "https://open.spotify.com/track/6vkEJP0K2rPfe0ucPnKkLd"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "About Damn Time",
         "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
       },
@@ -1399,26 +1419,6 @@
       "duration_ms": 207301,
       "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
       "url": "https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Cosmo",
-        "url": "https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 184320,
-      "name": "Vocation",
-      "url": "https://open.spotify.com/track/6vkEJP0K2rPfe0ucPnKkLd"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Stereo Hits",
+        "url": "https://open.spotify.com/album/6y3FTrfW6zFquk2V1qU2as"
+      },
+      "artists": [
+        {
+          "name": "M\u0153nia",
+          "url": "https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV"
+        }
+      ],
+      "duration_ms": 219533,
+      "name": "Ni T\u00fa Ni Nadie",
+      "url": "https://open.spotify.com/track/16J6wH4Evm97ta1hDQIYQC"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Summer Of Love",
         "url": "https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk"
       },
@@ -1715,22 +1731,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Stereo Hits",
-        "url": "https://open.spotify.com/album/6y3FTrfW6zFquk2V1qU2as"
-      },
-      "artists": [
-        {
-          "name": "M\u0153nia",
-          "url": "https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV"
-        }
-      ],
-      "duration_ms": 219533,
-      "name": "Ni T\u00fa Ni Nadie",
-      "url": "https://open.spotify.com/track/16J6wH4Evm97ta1hDQIYQC"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "\u00bfQu\u00e9 Nos Pas\u00f3?",
         "url": "https://open.spotify.com/album/4q4kJrDt0OcTP2of4YUuHR"
       },
@@ -1743,6 +1743,22 @@
       "duration_ms": 245738,
       "name": "\u00bfQu\u00e9 Nos Pas\u00f3?",
       "url": "https://open.spotify.com/track/7k3qWn8D43a5ISa3x8lJux"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 153190,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/5dPz35akJjPqb17yeqNwqH"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1763,22 +1779,6 @@
       "duration_ms": 263253,
       "name": "Ley Seca",
       "url": "https://open.spotify.com/track/3JCaq3KDSROg3TXhdiDa9n"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 153190,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/5dPz35akJjPqb17yeqNwqH"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2163,6 +2163,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Agua Nueva",
+        "url": "https://open.spotify.com/album/2SrDD376jiXS671kbC3BdL"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 240480,
+      "name": "No Podras",
+      "url": "https://open.spotify.com/track/6ZIwZmQ2ph6QK13sItmDEx"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Soltera (Remix)",
         "url": "https://open.spotify.com/album/2m9Vuc9Q19qhSm6RQmBgsR"
       },
@@ -2183,22 +2199,6 @@
       "duration_ms": 266086,
       "name": "Soltera (Remix)",
       "url": "https://open.spotify.com/track/1c0hsvHLELX6y8qymnpLKL"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Agua Nueva",
-        "url": "https://open.spotify.com/album/2SrDD376jiXS671kbC3BdL"
-      },
-      "artists": [
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 240480,
-      "name": "No Podras",
-      "url": "https://open.spotify.com/track/6ZIwZmQ2ph6QK13sItmDEx"
     },
     {
       "added_at": "2023-11-17 05:00:00",

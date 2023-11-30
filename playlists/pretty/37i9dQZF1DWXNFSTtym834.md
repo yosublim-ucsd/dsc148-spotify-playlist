@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 
 > The biggest metal songs of the 2000s\. Cover: Slipknot
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,238,398 likes - 100 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,239,043 likes - 100 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 | 25 | [Break](https://open.spotify.com/track/4urxRqBRiaH0i20OKBsgxc) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Life Starts Now](https://open.spotify.com/album/0vv1zKShlm7WuawEup5Mf4) | 3:13 |
 | 26 | [People = Shit](https://open.spotify.com/track/0Y2i84QWPFiFHQfEQDgHya) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 3:35 |
 | 27 | [One Step Closer](https://open.spotify.com/track/3K4HG9evC7dg3N0R9cYqk4) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 2:37 |
-| 28 | [Bad Company](https://open.spotify.com/track/2KZXCH4npY28gtZKXcB2N8) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War Is the Answer](https://open.spotify.com/album/5wqJcLJsFqVg1lWowuyv3V) | 4:22 |
+| 28 | [I Don't Wanna Be Me](https://open.spotify.com/track/4eGHEHqoDMMejzPhRFTc7p) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [Life Is Killing Me](https://open.spotify.com/album/4AdGr92Z6Ff2WbKP5Ja2QC) | 5:08 |
 | 29 | [Bat Country](https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [City of Evil](https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA) | 5:11 |
-| 30 | [I Don't Wanna Be Me](https://open.spotify.com/track/4eGHEHqoDMMejzPhRFTc7p) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [Life Is Killing Me](https://open.spotify.com/album/4AdGr92Z6Ff2WbKP5Ja2QC) | 5:08 |
+| 30 | [Bad Company](https://open.spotify.com/track/2KZXCH4npY28gtZKXcB2N8) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War Is the Answer](https://open.spotify.com/album/5wqJcLJsFqVg1lWowuyv3V) | 4:22 |
 | 31 | [The Pot](https://open.spotify.com/track/1lATXTBJDHwawvT1UfxWu3) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [10,000 Days](https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk) | 6:21 |
 | 32 | [Faint](https://open.spotify.com/track/4Yf5bqU3NK4kNOypcrLYwU) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora](https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3) | 2:42 |
 | 33 | [Crazy Bitch](https://open.spotify.com/track/3Lc65aYhtNRO19Fnq2oMb8) | [Buckcherry](https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7) | [15](https://open.spotify.com/album/2KhDo0Er6dNxcK8zL6252l) | 3:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 | 99 | [Distortion Sleep](https://open.spotify.com/track/3yPQrLnNIthn4I5wQ51X26) | [Soilwork](https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx) | [Figure Number Five](https://open.spotify.com/album/6n86brHTe54lipUckY9InO) | 3:45 |
 | 100 | [Step Up](https://open.spotify.com/track/4Q1w4Ryyi8KNxxaFlOQClK) | [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v) | [Desensitized](https://open.spotify.com/album/2rLw6qyXE3fx4abX8acmhy) | 3:17 |
 
-Snapshot ID: `MCxmZjNmMTk3MGUyNDY4MjBlZDI2NzNhMDFmYThhYjdmNmNiMDliMTUx`
+Snapshot ID: `MCxjMzQ1YjlhOGI5ZTc5NTQwYTJmOTdlM2EyM2JlODZmNjQ0ODI2Yzgw`

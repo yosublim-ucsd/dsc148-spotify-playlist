@@ -1,12 +1,12 @@
 {
   "description": "The biggest hits from country artists around the globe. Cover: Riaan Benade\u0301",
-  "num_followers": 44143,
+  "num_followers": 44272,
   "original_name": "Country Worldwide",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYWEwMTg3ODAwYzgzMTQ3YTM3ZmMwNmIwNDgyZjAxZDNiMWYyODE1",
+  "snapshot_id": "MCw3MWM4YjI4OGIwNjQ1MWY2MGM2MjMzMTVjYTYwMDU0YjJiYWNjZTUx",
   "tracks": [
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Whiskey On You",
-        "url": "https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        }
-      ],
-      "duration_ms": 183789,
-      "name": "Whiskey On You",
-      "url": "https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Bell Bottom Country",
         "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 199040,
       "name": "Heart Like A Truck",
       "url": "https://open.spotify.com/track/5DIBVDJOHh7djepAjKHWCO"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Whiskey On You",
+        "url": "https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "duration_ms": 183789,
+      "name": "Whiskey On You",
+      "url": "https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Do It Anyway",
-        "url": "https://open.spotify.com/album/4TTTx17C8jwiQqxDbrxW8Y"
-      },
-      "artists": [
-        {
-          "name": "Jade Eagleson",
-          "url": "https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP"
-        }
-      ],
-      "duration_ms": 184372,
-      "name": "Telluride",
-      "url": "https://open.spotify.com/track/5ADo2azXSsHQu0mC2RxgXq"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Love,Heartbreak, & Everything in Between",
         "url": "https://open.spotify.com/album/478FbS6cYoaEYreO0H4YOx"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 188853,
       "name": "I Hate This",
       "url": "https://open.spotify.com/track/6c90n39x5VKMsxOSTEeNRv"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Do It Anyway",
+        "url": "https://open.spotify.com/album/4TTTx17C8jwiQqxDbrxW8Y"
+      },
+      "artists": [
+        {
+          "name": "Jade Eagleson",
+          "url": "https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP"
+        }
+      ],
+      "duration_ms": 184372,
+      "name": "Telluride",
+      "url": "https://open.spotify.com/track/5ADo2azXSsHQu0mC2RxgXq"
     },
     {
       "added_at": "2023-11-24 05:00:00",

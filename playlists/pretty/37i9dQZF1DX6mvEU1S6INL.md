@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 
 > It's just us—and this awesome alt soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,130,086 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,130,106 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 | 57 | [If I Get High](https://open.spotify.com/track/3O2pB9JHreUZ9F83qSNmu8) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Nothing But Thieves \(Deluxe\)](https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2) | 3:26 |
 | 58 | [Honest \- From The Amazing Spider\-Man 2 Soundtrack](https://open.spotify.com/track/1xJ8RjDucztPOKB0ek95tf) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [The Amazing Spider\-Man 2 \(The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/11c2pVVBENFMufPqJMIC3R) | 3:57 |
 | 59 | [Echo](https://open.spotify.com/track/3ypXaNibspfxvUIKpzUkfz) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Morning View](https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY) | 3:34 |
-| 60 | [Empire](https://open.spotify.com/track/4M9lfUgDeLHu1fL2ZxZSlu) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Beneath The Skin](https://open.spotify.com/album/2mD97VgxTRfwB8F5tvkwrL) | 4:20 |
-| 61 | [Crystal Clear](https://open.spotify.com/track/3fV4kgcQzh2aLGSJbSAtoV) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Petals For Armor](https://open.spotify.com/album/4HXpQ5KQBVWN25ltjnX7xa) | 3:32 |
+| 60 | [Crystal Clear](https://open.spotify.com/track/3fV4kgcQzh2aLGSJbSAtoV) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Petals For Armor](https://open.spotify.com/album/4HXpQ5KQBVWN25ltjnX7xa) | 3:32 |
+| 61 | [Empire](https://open.spotify.com/track/4M9lfUgDeLHu1fL2ZxZSlu) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Beneath The Skin](https://open.spotify.com/album/2mD97VgxTRfwB8F5tvkwrL) | 4:20 |
 | 62 | [The Enemy](https://open.spotify.com/track/6xJOhSm4SvZwzy3uhWz26O) | [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [Black Bear](https://open.spotify.com/album/2Objy4bpKyIT4JsUsBr8ka) | 4:46 |
 | 63 | [Dream](https://open.spotify.com/track/25DpvTS4zsmLiVLx8Zv3N0) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Smoke + Mirrors](https://open.spotify.com/album/0gmsXcmrcnxdZBrD5EyJEL) | 4:18 |
 | 64 | [Dreaming My Dreams](https://open.spotify.com/track/4UTl2IO4zwZkU4KXbShgUg) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21) | 3:37 |
@@ -79,10 +79,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 | 69 | [Shake, Shake, Shake](https://open.spotify.com/track/4dI4oscajpdtjpg2dP1x28) | [Bronze Radio Return](https://open.spotify.com/artist/2ic4xySjQ39N7DJ0HZemeG) | [Shake! Shake! Shake!](https://open.spotify.com/album/0hO7tdTpSVN1ADtLbvJiQ5) | 2:43 |
 | 70 | [Youuu](https://open.spotify.com/track/1JsVSz41mZAl02GXUApmGp) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Dreamland](https://open.spotify.com/album/1zXLcR0hdNeg8YajPkNCqB) | 3:55 |
 | 71 | [Lover, Please Stay](https://open.spotify.com/track/3QxCvkqWdkMqy3CPxOhZ24) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Nothing But Thieves \(Deluxe\)](https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2) | 4:07 |
-| 72 | [Call Me Back](https://open.spotify.com/track/14KP6cmTImZmrcAC5m0Azd) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Mirror Master](https://open.spotify.com/album/6blMxezujKgPe8HjHNveuG) | 3:57 |
-| 73 | [Our Love](https://open.spotify.com/track/2WCCyU7CazujWXYOqNjsLW) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 3:52 |
-| 74 | [Astronaut \(Something About Your Love\)](https://open.spotify.com/track/61c96X4Th7oYdSDxIOEV3k) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Shadowboxer](https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV) | 3:22 |
-| 75 | [Kiss City](https://open.spotify.com/track/7f1mKhZ8s6di51f76Qf03E) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8) | 2:23 |
+| 72 | [Kiss City](https://open.spotify.com/track/7f1mKhZ8s6di51f76Qf03E) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8) | 2:23 |
+| 73 | [Call Me Back](https://open.spotify.com/track/14KP6cmTImZmrcAC5m0Azd) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Mirror Master](https://open.spotify.com/album/6blMxezujKgPe8HjHNveuG) | 3:57 |
+| 74 | [Our Love](https://open.spotify.com/track/2WCCyU7CazujWXYOqNjsLW) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 3:52 |
+| 75 | [Astronaut \(Something About Your Love\)](https://open.spotify.com/track/61c96X4Th7oYdSDxIOEV3k) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Shadowboxer](https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV) | 3:22 |
 | 76 | [Adore](https://open.spotify.com/track/1rPCgtaIF0CyKRgAwhtpbF) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Adore](https://open.spotify.com/album/4XW4uoRtDulaUs4Qb81UDx) | 3:04 |
 | 77 | [Want You Like That](https://open.spotify.com/track/0aKWr5K7ydkegVoxd3dBeM) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Love and Other Lies](https://open.spotify.com/album/5l7whBWhClQiC0pFLpPcRi) | 2:54 |
 | 78 | [Cherry](https://open.spotify.com/track/2HQY0sXTrBJCuxqJxbeMWB) | [Moose Blood](https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q) | [I'll Keep You In Mind, From Time to Time](https://open.spotify.com/album/7aMvv0lYIhPyudfM1TmItV) | 2:39 |
@@ -92,11 +92,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 | 82 | [Loveless](https://open.spotify.com/track/3XujDGA7LqWSHNQ0PaE7X0) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Use Me](https://open.spotify.com/album/40J4xZREcFpeJVnXDXntvk) | 3:49 |
 | 83 | [She's Casual](https://open.spotify.com/track/3WLwkFXJpZ1VpDxAh0DXzz) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [100](https://open.spotify.com/album/4JqtQJR0R6xSJqlmGH31X3) | 3:03 |
 | 84 | [Stars Are on Your Side](https://open.spotify.com/track/5dH4xnErpUOIDrGySWGkfJ) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Stars Are on Your Side](https://open.spotify.com/album/5hzwL3gTvGugF4qOXUCQar) | 3:38 |
-| 85 | [Litost](https://open.spotify.com/track/7HyvbdOddwXEGzKoLNxhKG) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Love Songs Drug Songs](https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK) | 5:21 |
-| 86 | [Heart Beat Here](https://open.spotify.com/track/4NEAoEh4hZF1Tgp1QXrUHC) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Crooked Shadows](https://open.spotify.com/album/0qByP4IV1nNHhLs3RfDrGB) | 3:27 |
-| 87 | [Love Song](https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Love Song](https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH) | 2:51 |
-| 88 | [Weekends](https://open.spotify.com/track/7vEeYo34dX7geZhQVotCJi) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Weekends](https://open.spotify.com/album/72YMCWtcqKgOhAUsn6bEO4) | 3:10 |
-| 89 | [Love's The Only Way](https://open.spotify.com/track/7eIODQbTgKeNawQtowZJEM) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 4:00 |
+| 85 | [Heart Beat Here](https://open.spotify.com/track/4NEAoEh4hZF1Tgp1QXrUHC) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Crooked Shadows](https://open.spotify.com/album/0qByP4IV1nNHhLs3RfDrGB) | 3:27 |
+| 86 | [Litost](https://open.spotify.com/track/7HyvbdOddwXEGzKoLNxhKG) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Love Songs Drug Songs](https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK) | 5:21 |
+| 87 | [Love's The Only Way](https://open.spotify.com/track/7eIODQbTgKeNawQtowZJEM) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 4:00 |
+| 88 | [Love Song](https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Love Song](https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH) | 2:51 |
+| 89 | [Weekends](https://open.spotify.com/track/7vEeYo34dX7geZhQVotCJi) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Weekends](https://open.spotify.com/album/72YMCWtcqKgOhAUsn6bEO4) | 3:10 |
 | 90 | [The Birthday Party](https://open.spotify.com/track/3qZwJ1SiY32JW70JqgiFbY) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The Birthday Party](https://open.spotify.com/album/6sZzx2xabT42pyknjFG6zR) | 4:37 |
 | 91 | [Hanging On](https://open.spotify.com/track/7kyubWDfd6Lv6ItXgENaM4) | [Active Child](https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU) | [You Are All I See](https://open.spotify.com/album/3ognTnle2G22rlIv9iU9JR) | 5:21 |
 | 92 | [Just Say When \- Version 2.0](https://open.spotify.com/track/1D1yuEDp0EqvX1yFxWqeuS) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [Just Say When \(Version 2.0\)](https://open.spotify.com/album/7LkSukso0Smyx9sMGl8R2d) | 3:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 | 99 | [Shell Suite](https://open.spotify.com/track/7qeuKRyUjXehDIz9FRYiAM) | [Chad Valley](https://open.spotify.com/artist/1rzpgMqxYjRQo4UmWZimFc) | [Equatorial Ultravox](https://open.spotify.com/album/3td9tHMjCicLCiJuChJtdl) | 4:22 |
 | 100 | [Be There](https://open.spotify.com/track/2ZtkaadDGzsD1Mpd9TZ6DB) | [Andrew Simple](https://open.spotify.com/artist/1M0cxaU3RraBiLTci09gxG) | [Wake](https://open.spotify.com/album/6m4eLJW8fFSVuYLFrwpQCB) | 3:55 |
 
-Snapshot ID: `MCxmNTk4OWI3ZDQ3OWVmMGEzNWVlMzM0M2Q2YWFmY2YxMjE2ZGExMjE5`
+Snapshot ID: `MCwxZDQ0NzFhMGRmZTQ4OTRmZTk4Y2YxMmEwYWU1NDA4NTY4NGQzM2U3`

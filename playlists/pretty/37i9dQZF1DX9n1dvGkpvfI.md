@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9n1dvGkpvfI.md) - [plain]
 
 > Challenging norms, breaking boundaries with <a href="https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp?si=rU2VcJGgRrCOQz\-98MRBAw">Scowl</a> and the songs that shape their alternative spirit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,484 likes - 30 songs - 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,568 likes - 30 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9n1dvGkpvfI.md) - [plain]
 | 29 | [No Justice, No Peace](https://open.spotify.com/track/1Yc3ZItIejmZNP7VRYjHnC) | [Aus Rotten](https://open.spotify.com/artist/2AEBd7Gd3l28yVkLLGlD3a) | [The System Works for Them](https://open.spotify.com/album/1oLnRaiMdQf4LH9GmQ5TqL) | 3:03 |
 | 30 | [Heading For Hell](https://open.spotify.com/track/7811tVgmykmUS1TEGRYpWV) | [Anti Cimex](https://open.spotify.com/artist/1mLYahiL1Os2Ill7PRkldB) | [Scandinavian Jawbreaker](https://open.spotify.com/album/4FrDKIfFKugO4jQbjcTEzv) | 3:48 |
 
-Snapshot ID: `MCxkOTg4YWM2ODYxYTVkMjA3ZWQ2M2Y2Yzg0NjUwMDUwOTRiOWRlOTlj`
+Snapshot ID: `MCwwMDMwNzg4NWZiYjZhYjY0YTEzNjYzYjUyOTUzMDAzOGJiYzg2ZDY1`

@@ -3599,6 +3599,24 @@
     },
     {
       "album": {
+        "name": "Never Learned To Dance",
+        "url": "https://open.spotify.com/album/15DLC8piIZiAbi5g5tfOHG"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224080,
+      "name": "Never Learned To Dance",
+      "url": "https://open.spotify.com/track/6Q91XsqLpcBOK71BsCNl3U"
+    },
+    {
+      "album": {
         "name": "Maria Taylor",
         "url": "https://open.spotify.com/album/46yJ5yYiR7au7xFVhRVVcW"
       },

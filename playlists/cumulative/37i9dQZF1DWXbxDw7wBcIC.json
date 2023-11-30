@@ -599,6 +599,24 @@
     },
     {
       "album": {
+        "name": "Street Talkin'",
+        "url": "https://open.spotify.com/album/1po8PLsiylhu2cuvR1Xw3L"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "date_added": "2017-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192661,
+      "name": "It Hurts Me Too",
+      "url": "https://open.spotify.com/track/7egQm3o9Qem3FhzUNi66rI"
+    },
+    {
+      "album": {
         "name": "The Very Best of Elmore James",
         "url": "https://open.spotify.com/album/0RZFOxY3XpAZiEeTLh1o4g"
       },
@@ -614,24 +632,6 @@
       "duration_ms": 199786,
       "name": "It Hurts Me Too",
       "url": "https://open.spotify.com/track/0m4cEL8cwcRwqdQIDzgzUt"
-    },
-    {
-      "album": {
-        "name": "Street Talkin'",
-        "url": "https://open.spotify.com/album/1po8PLsiylhu2cuvR1Xw3L"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "date_added": "2017-11-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 200240,
-      "name": "It Hurts Me Too",
-      "url": "https://open.spotify.com/track/7egQm3o9Qem3FhzUNi66rI"
     },
     {
       "album": {

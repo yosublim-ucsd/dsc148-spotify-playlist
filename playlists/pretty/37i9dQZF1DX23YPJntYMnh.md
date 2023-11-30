@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 
 > Funk\. But heavier\. Cover: Red Hot Chili Peppers
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,420 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,468 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 | 64 | [Sister Midnight](https://open.spotify.com/track/4pU9OwAXdwghkgUhaZQQ3Q) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6) | 4:20 |
 | 65 | [Promenade](https://open.spotify.com/track/4KQlPYIchV2VWo8SaWOs9C) | [Street Sweeper Social Club](https://open.spotify.com/artist/1YghQU3PwfnDu94PRfE4pv) | [Street Sweeper Social Club](https://open.spotify.com/album/62R1tsiIXUb9Iq6MuRoaMp) | 2:31 |
 | 66 | [Midlife Crisis](https://open.spotify.com/track/62HyVeSK4fpxjKj6dsI5MP) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [Angel Dust](https://open.spotify.com/album/59GwovfBk0Kp2HJw1G7E5Q) | 4:19 |
-| 67 | [Violent & Funky](https://open.spotify.com/track/7je6HRz7AoYt0HoW0gEUdP) | [Infectious Grooves](https://open.spotify.com/artist/32R6YbLokiJpZpvFX9Ewo9) | [Groove Family Cyco / Snapped Lika Mutha](https://open.spotify.com/album/55u43mARrmqFDHNb2qQ59M) | 4:16 |
+| 67 | [Violent & Funky](https://open.spotify.com/track/7je6HRz7AoYt0HoW0gEUdP) | [Infectious Grooves](https://open.spotify.com/artist/32R6YbLokiJpZpvFX9Ewo9) | [GROOVE FAMILY CYCO](https://open.spotify.com/album/55u43mARrmqFDHNb2qQ59M) | 4:16 |
 | 68 | [My Name Is Mud](https://open.spotify.com/track/7axVaL2WO7cC3fXxtd9Zlj) | [Primus](https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx) | [They Can't All Be Zingers](https://open.spotify.com/album/3eI0FhygfWcdgI3GZdLXFT) | 4:45 |
 | 69 | [Tahitian Moon](https://open.spotify.com/track/3DwzYRgOgojl0EcdOaJLYr) | [Porno for Pyros](https://open.spotify.com/artist/58etTNn7xmsQZhjnfjpAXL) | [Good God's Urge](https://open.spotify.com/album/6Sa5vHSMHnIm1m0LG82xBM) | 3:47 |
 | 70 | [Please Excuse This Funk Up](https://open.spotify.com/track/2RPs5rAbwaMrjlguUC9jux) | [Infectious Grooves](https://open.spotify.com/artist/32R6YbLokiJpZpvFX9Ewo9) | [Mas Borracho](https://open.spotify.com/album/5DYPTOnwkK4f8qmuhoowKH) | 4:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 | 99 | [The Rougarou](https://open.spotify.com/track/6Y0E6cel8EllxaxIpCjjih) | [Mashup & Cozy Condition](https://open.spotify.com/artist/4Xgz0ZH1mIhD1E5wSjrj1V) | [The Rougarou](https://open.spotify.com/album/7zFE0ofJbtgK3vzBhAmQMA) | 3:17 |
 | 100 | [Clap For The Killers](https://open.spotify.com/track/1LHvNi1ji3OU26lHASBzaz) | [Street Sweeper Social Club](https://open.spotify.com/artist/1YghQU3PwfnDu94PRfE4pv) | [Street Sweeper Social Club](https://open.spotify.com/album/62R1tsiIXUb9Iq6MuRoaMp) | 3:55 |
 
-Snapshot ID: `MCw5OTAxNTJhZTY4NjFlMTA4YzBmYzBiZGU0ZDk5YjRjMjc3NGRmZDY4`
+Snapshot ID: `MCxhMDU1Njg4YzY3ZWVmMjczMmY3ZTc1YjYxNWFjNjhiMDJjMWNlZGI0`

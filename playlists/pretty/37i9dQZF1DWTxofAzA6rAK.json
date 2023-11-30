@@ -1,12 +1,12 @@
 {
   "description": "Latest and biggest tracks from Jamaica's Dancehall scene. Cover: Intence ",
-  "num_followers": 56097,
+  "num_followers": 56163,
   "original_name": "Back a Yard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWRkYjgzYmVlMjc1ZTQyY2Q3MzA5M2UyMmVkNDdlMmJlYjQ3MGI5",
+  "snapshot_id": "MCwzZTU4YzUzOGYzNDY1MzFiNzM0MTIxZTE3MzE0ZWU4MGYzNmUzNDRi",
   "tracks": [
     {
       "added_at": "2023-05-24 08:21:37",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Wi Deh Yah",
-        "url": "https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1"
-      },
-      "artists": [
-        {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "Wi Deh Yah",
-      "url": "https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "1Uptown",
         "url": "https://open.spotify.com/album/64Vqg5KJpTMnRGHIj0LhyX"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 137160,
       "name": "1Uptown",
       "url": "https://open.spotify.com/track/0wi1ky0zqwG8195E4omWui"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Wi Deh Yah",
+        "url": "https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "Wi Deh Yah",
+      "url": "https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Top Tier",
-        "url": "https://open.spotify.com/album/5RQDN8PlDQELozxIeUKVXC"
-      },
-      "artists": [
-        {
-          "name": "Bayka",
-          "url": "https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2"
-        }
-      ],
-      "duration_ms": 141696,
-      "name": "Top Tier",
-      "url": "https://open.spotify.com/track/57RxPPRCpdFkx1q6pNn0Hd"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Queen Radio: Volume 1",
         "url": "https://open.spotify.com/album/30jNbSUWscm8OXxOMPk1L6"
       },
@@ -499,22 +483,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "I'll Never Die",
-        "url": "https://open.spotify.com/album/6ZDK2wcGJqmfk3hrP3ZHXu"
-      },
-      "artists": [
-        {
-          "name": "Skillibeng",
-          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
-        }
-      ],
-      "duration_ms": 146311,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/3iSr9hJ5Ho56LhKXILErsJ"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Vibes Weekend",
         "url": "https://open.spotify.com/album/5xLNwO9hSAWMEQN1fNcIsK"
       },
@@ -527,6 +495,38 @@
       "duration_ms": 173266,
       "name": "Vibes Weekend",
       "url": "https://open.spotify.com/track/0Vx37NnFDCBLjTn1TmOq1Y"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Top Tier",
+        "url": "https://open.spotify.com/album/5RQDN8PlDQELozxIeUKVXC"
+      },
+      "artists": [
+        {
+          "name": "Bayka",
+          "url": "https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2"
+        }
+      ],
+      "duration_ms": 141696,
+      "name": "Top Tier",
+      "url": "https://open.spotify.com/track/57RxPPRCpdFkx1q6pNn0Hd"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "I'll Never Die",
+        "url": "https://open.spotify.com/album/6ZDK2wcGJqmfk3hrP3ZHXu"
+      },
+      "artists": [
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        }
+      ],
+      "duration_ms": 146311,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/3iSr9hJ5Ho56LhKXILErsJ"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "I Wish",
-        "url": "https://open.spotify.com/album/1OMDWu1SbiOvYA7idzWm2h"
-      },
-      "artists": [
-        {
-          "name": "Masicka",
-          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
-        }
-      ],
-      "duration_ms": 175187,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/0eFqA7YetI2Wp95GgdJbiK"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Live n' Learn",
         "url": "https://open.spotify.com/album/1CzlfsRqL1sgMuhniUU5CZ"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 161610,
       "name": "Live n' Learn",
       "url": "https://open.spotify.com/track/4YSbKyNXJ1vHVgM4bYerDs"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/1OMDWu1SbiOvYA7idzWm2h"
+      },
+      "artists": [
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        }
+      ],
+      "duration_ms": 175187,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/0eFqA7YetI2Wp95GgdJbiK"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -675,22 +675,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Pieces",
-        "url": "https://open.spotify.com/album/1qWTEKdNqMDHIq0mSivRTW"
+        "name": "Crawsis",
+        "url": "https://open.spotify.com/album/5mZcGBQSVljkJYJLUUUC8D"
       },
       "artists": [
         {
-          "name": "Masicka",
-          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+          "name": "450",
+          "url": "https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL"
         },
         {
-          "name": "Jahshii",
-          "url": "https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7"
+          "name": "Shaneil Muir",
+          "url": "https://open.spotify.com/artist/6ilIhmo2Ijzq3BnKuxf2KQ"
         }
       ],
-      "duration_ms": 219574,
-      "name": "Pieces (with Jahshii)",
-      "url": "https://open.spotify.com/track/6NaeXUltqK5j9NqCaiqRO4"
+      "duration_ms": 173740,
+      "name": "Crawsis",
+      "url": "https://open.spotify.com/track/5CdbxsfDbD8Xy8SSVLyvrA"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -711,6 +711,26 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/1qWTEKdNqMDHIq0mSivRTW"
+      },
+      "artists": [
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        },
+        {
+          "name": "Jahshii",
+          "url": "https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7"
+        }
+      ],
+      "duration_ms": 219574,
+      "name": "Pieces (with Jahshii)",
+      "url": "https://open.spotify.com/track/6NaeXUltqK5j9NqCaiqRO4"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "GPP",
         "url": "https://open.spotify.com/album/05JFI9UgHFBD6gvanViaTW"
       },
@@ -727,26 +747,6 @@
       "duration_ms": 193958,
       "name": "GPP",
       "url": "https://open.spotify.com/track/3rnMusaZSGqhvWJG63Li55"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Crawsis",
-        "url": "https://open.spotify.com/album/5mZcGBQSVljkJYJLUUUC8D"
-      },
-      "artists": [
-        {
-          "name": "450",
-          "url": "https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL"
-        },
-        {
-          "name": "Shaneil Muir",
-          "url": "https://open.spotify.com/artist/6ilIhmo2Ijzq3BnKuxf2KQ"
-        }
-      ],
-      "duration_ms": 173740,
-      "name": "Crawsis",
-      "url": "https://open.spotify.com/track/5CdbxsfDbD8Xy8SSVLyvrA"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -799,6 +799,26 @@
       "duration_ms": 156081,
       "name": "Dunce Bat",
       "url": "https://open.spotify.com/track/3hDwJFAZcw0kOwwjzQBAWo"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Imperfections",
+        "url": "https://open.spotify.com/album/4Y6O56WU1RCfEXPmBnMhFf"
+      },
+      "artists": [
+        {
+          "name": "450",
+          "url": "https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL"
+        },
+        {
+          "name": "Weekday",
+          "url": "https://open.spotify.com/artist/2ZoRuY63B7fzl9HaKjlWoF"
+        }
+      ],
+      "duration_ms": 166687,
+      "name": "Imperfections",
+      "url": "https://open.spotify.com/track/7Hly3BuOvebTEuRRRKjsGC"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -879,42 +899,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Great Is He",
-        "url": "https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR"
-      },
-      "artists": [
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        }
-      ],
-      "duration_ms": 221583,
-      "name": "Skeleton Cartier",
-      "url": "https://open.spotify.com/track/7vRm8Bzniw9mtHoFtnoxB0"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Imperfections",
-        "url": "https://open.spotify.com/album/4Y6O56WU1RCfEXPmBnMhFf"
-      },
-      "artists": [
-        {
-          "name": "450",
-          "url": "https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL"
-        },
-        {
-          "name": "Weekday",
-          "url": "https://open.spotify.com/artist/2ZoRuY63B7fzl9HaKjlWoF"
-        }
-      ],
-      "duration_ms": 166687,
-      "name": "Imperfections",
-      "url": "https://open.spotify.com/track/7Hly3BuOvebTEuRRRKjsGC"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Empty",
         "url": "https://open.spotify.com/album/6I4pA1YFu1ujWabNzhRVUi"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 206393,
       "name": "Empty",
       "url": "https://open.spotify.com/track/2TlWUtnJz1SdlWi5B0tORD"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Great Is He",
+        "url": "https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "duration_ms": 221583,
+      "name": "Skeleton Cartier",
+      "url": "https://open.spotify.com/track/7vRm8Bzniw9mtHoFtnoxB0"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Solemn Request",
-        "url": "https://open.spotify.com/album/6rnacNkcCAOybo9DZNKHXM"
-      },
-      "artists": [
-        {
-          "name": "Chronic Law",
-          "url": "https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w"
-        }
-      ],
-      "duration_ms": 186958,
-      "name": "Solemn Request",
-      "url": "https://open.spotify.com/track/4svJStfE1Z3lMpcPeqDYlD"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Try Dat Riddim, Vol.2",
         "url": "https://open.spotify.com/album/5Ujgt78gz3JRjku4oGKKhR"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 165564,
       "name": "DUNCE BARBIE",
       "url": "https://open.spotify.com/track/2I1fpOTZmVr6ATXe6fCTXI"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Solemn Request",
+        "url": "https://open.spotify.com/album/6rnacNkcCAOybo9DZNKHXM"
+      },
+      "artists": [
+        {
+          "name": "Chronic Law",
+          "url": "https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w"
+        }
+      ],
+      "duration_ms": 186958,
+      "name": "Solemn Request",
+      "url": "https://open.spotify.com/track/4svJStfE1Z3lMpcPeqDYlD"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Crook",
+        "url": "https://open.spotify.com/album/42swaElolib5BwSAtaZYQl"
+      },
+      "artists": [
+        {
+          "name": "Malie Donn",
+          "url": "https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW"
+        }
+      ],
+      "duration_ms": 245995,
+      "name": "Crook",
+      "url": "https://open.spotify.com/track/5mXpQWrAZoPVgp4cV0Avh0"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Yahoo Boyz",
         "url": "https://open.spotify.com/album/6h8yCyZibQMYez5ZgzFUDt"
       },
@@ -1155,38 +1171,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Crook",
-        "url": "https://open.spotify.com/album/42swaElolib5BwSAtaZYQl"
-      },
-      "artists": [
-        {
-          "name": "Malie Donn",
-          "url": "https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW"
-        }
-      ],
-      "duration_ms": 245995,
-      "name": "Crook",
-      "url": "https://open.spotify.com/track/5mXpQWrAZoPVgp4cV0Avh0"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Still a Bleed",
-        "url": "https://open.spotify.com/album/7yXsnGPX5pmfHxvoEDMyuG"
-      },
-      "artists": [
-        {
-          "name": "Chronic Law",
-          "url": "https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w"
-        }
-      ],
-      "duration_ms": 216528,
-      "name": "Still a Bleed",
-      "url": "https://open.spotify.com/track/34uBKj0bzsVkI70I8Xvpab"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Guzu Bunx (Fada Rock)",
         "url": "https://open.spotify.com/album/3BkkaOV017yFknzAZzQ8By"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 188041,
       "name": "Guzu Bunx (Fada Rock)",
       "url": "https://open.spotify.com/track/0aypZqcK5pDscPH5SyOTbw"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Still a Bleed",
+        "url": "https://open.spotify.com/album/7yXsnGPX5pmfHxvoEDMyuG"
+      },
+      "artists": [
+        {
+          "name": "Chronic Law",
+          "url": "https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w"
+        }
+      ],
+      "duration_ms": 216528,
+      "name": "Still a Bleed",
+      "url": "https://open.spotify.com/track/34uBKj0bzsVkI70I8Xvpab"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Three Little Birds",
-        "url": "https://open.spotify.com/album/5hnQr1o6d92rF3xQ78xngP"
-      },
-      "artists": [
-        {
-          "name": "Vybz Kartel",
-          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
-        }
-      ],
-      "duration_ms": 208835,
-      "name": "Three Little Birds",
-      "url": "https://open.spotify.com/track/4bfAZUN7Y2yxxrANVpcErC"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Ride (Remix)",
         "url": "https://open.spotify.com/album/5ksTZQyb1EcTen6NYlEgL5"
       },
@@ -2143,22 +2127,18 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Gal Academy",
-        "url": "https://open.spotify.com/album/6E0I4vxf0BmX4YQqthzpp6"
+        "name": "Three Little Birds",
+        "url": "https://open.spotify.com/album/5hnQr1o6d92rF3xQ78xngP"
       },
       "artists": [
         {
-          "name": "DiCelebrityy",
-          "url": "https://open.spotify.com/artist/5VEEIed5Y6YYoYN8c5pLzg"
-        },
-        {
-          "name": "Teejay",
-          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
         }
       ],
-      "duration_ms": 191051,
-      "name": "Gal Academy",
-      "url": "https://open.spotify.com/track/4ae1MztEbIn1ZDGnTmYD5P"
+      "duration_ms": 208835,
+      "name": "Three Little Birds",
+      "url": "https://open.spotify.com/track/4bfAZUN7Y2yxxrANVpcErC"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -2179,6 +2159,26 @@
       "duration_ms": 265337,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/2mGOKW9vv5UrwoZxgX2v9T"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Gal Academy",
+        "url": "https://open.spotify.com/album/6E0I4vxf0BmX4YQqthzpp6"
+      },
+      "artists": [
+        {
+          "name": "DiCelebrityy",
+          "url": "https://open.spotify.com/artist/5VEEIed5Y6YYoYN8c5pLzg"
+        },
+        {
+          "name": "Teejay",
+          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
+        }
+      ],
+      "duration_ms": 191051,
+      "name": "Gal Academy",
+      "url": "https://open.spotify.com/track/4ae1MztEbIn1ZDGnTmYD5P"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -2435,22 +2435,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Weak Spot",
-        "url": "https://open.spotify.com/album/6S6hs9wcy2hxJwkmQdKLwO"
-      },
-      "artists": [
-        {
-          "name": "Elephant Man",
-          "url": "https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on"
-        }
-      ],
-      "duration_ms": 213760,
-      "name": "Weak Spot",
-      "url": "https://open.spotify.com/track/0G7OH0l8A8qipYKUh4KsSJ"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Good Feeling",
         "url": "https://open.spotify.com/album/24uvA5S694cXu1cgwENmXZ"
       },
@@ -2467,6 +2451,22 @@
       "duration_ms": 156000,
       "name": "Good Feeling",
       "url": "https://open.spotify.com/track/5tqwkL3YOAGIfUHuaD7z01"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Weak Spot",
+        "url": "https://open.spotify.com/album/6S6hs9wcy2hxJwkmQdKLwO"
+      },
+      "artists": [
+        {
+          "name": "Elephant Man",
+          "url": "https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on"
+        }
+      ],
+      "duration_ms": 213760,
+      "name": "Weak Spot",
+      "url": "https://open.spotify.com/track/0G7OH0l8A8qipYKUh4KsSJ"
     },
     {
       "added_at": "2023-05-24 08:21:37",

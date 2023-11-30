@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 
 > Una dosis con lo más chingón pa'l gusto mexicano\. Molotov en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,011,381 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,011,485 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,10 +74,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 | 64 | [Sin Rencor](https://open.spotify.com/track/5XlcdeVwKUz0iZhPQTeh0c) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 3:52 |
 | 65 | [16 De Febrero](https://open.spotify.com/track/1SY9VFGNeOrFYepm4WzbR5) | [Emmanuel Del Real](https://open.spotify.com/artist/3zsKni86bXvCrbu8HxSIAM), [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Fuera Del Cielo](https://open.spotify.com/album/31cZKWtP8UL8WCko2UFDQ1) | 3:52 |
 | 66 | [Cada Vez Que Me Voy](https://open.spotify.com/track/2poAH0O2ori8T3SJztgv4Q) | [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB) | [D.D\. Y Ponle Play](https://open.spotify.com/album/4LXKLEQwKSOPTjdQJ12AZW) | 2:54 |
-| 67 | [Con Vos](https://open.spotify.com/track/5DNRryBkStHmqKtwigXZFR) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Con Vos](https://open.spotify.com/album/7xHsHJ5JbDXhiHhoCfeiN9) | 2:42 |
-| 68 | [Lamento Boliviano](https://open.spotify.com/track/69xAODJbGD64reFIgp8MxX) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1), [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Lamento Boliviano](https://open.spotify.com/album/4832tSPhuJCtT46DCaGiGR) | 4:03 |
+| 67 | [Ella Es Azul](https://open.spotify.com/track/3FEOiLNmS51wlq4ZcouLj6) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA) | [Volovan](https://open.spotify.com/album/7jSqVU6kH01jgroHwYXBSr) | 3:29 |
+| 68 | [Con Vos](https://open.spotify.com/track/5DNRryBkStHmqKtwigXZFR) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Con Vos](https://open.spotify.com/album/7xHsHJ5JbDXhiHhoCfeiN9) | 2:42 |
 | 69 | [Muñequita Sintética](https://open.spotify.com/track/0SztZWdbPLXk7EcvQJ6MLt) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [Muñequita Sintética](https://open.spotify.com/album/2iPJkJKGh18tLEVvesivr6) | 4:43 |
-| 70 | [Ella Es Azul](https://open.spotify.com/track/3FEOiLNmS51wlq4ZcouLj6) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA) | [Volovan](https://open.spotify.com/album/7jSqVU6kH01jgroHwYXBSr) | 3:29 |
+| 70 | [Lamento Boliviano](https://open.spotify.com/track/69xAODJbGD64reFIgp8MxX) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1), [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Lamento Boliviano](https://open.spotify.com/album/4832tSPhuJCtT46DCaGiGR) | 4:03 |
 | 71 | [Frances Limon](https://open.spotify.com/track/2BPmAFsiy6vwDceybqIAjw) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Amores Lejanos](https://open.spotify.com/album/6JlMb03WAKr2QcilmUzRkC) | 5:17 |
 | 72 | [No Puede Parar De Soñar](https://open.spotify.com/track/7ujRdKjA7G7QvFkq0YV0dO) | [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7), [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [No Puede Parar De Soñar](https://open.spotify.com/album/5BmtSXjM8FVLNGVWGz63z8) | 3:17 |
 | 73 | [Contra Todo Pronóstico](https://open.spotify.com/track/2jcBXpWt5lD1qsZZGZjMPO) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Contra Todo Pronóstico](https://open.spotify.com/album/2asORa7yF9FCpjL1DRbPf4) | 4:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 | 99 | [En la Ciudad de la Furia](https://open.spotify.com/track/27gtnNdE3iEcCA0Uu1IhNg) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Tropiplop](https://open.spotify.com/album/2VFu8zHWiB5VtctWZp8SfG) | 4:24 |
 | 100 | [Mi Vida sin tu Amor \(featuring Miño\)](https://open.spotify.com/track/63TFbfWD0zH9Y2tf3uqoRB) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V), [Miño](https://open.spotify.com/artist/4ceRa2fprkKr9byxABIyTf) | [Batuco](https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX) | 5:28 |
 
-Snapshot ID: `MCw4OTdlMTNiZGRiNDAyOTA2MTNkNjk0ZGZiOTA3ZmIxMDExNGRjZTU2`
+Snapshot ID: `MCw0ZWE3MjZkZmM5YTYxZGFjYmM1NmZhZGU2ODI0YzE0Y2NkMTA0MDk3`

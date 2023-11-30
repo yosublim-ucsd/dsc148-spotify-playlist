@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2hj3ZtMbuO.md) - [plain]
 
 ### [sad girl starter pack](https://open.spotify.com/playlist/37i9dQZF1DWW2hj3ZtMbuO)
 
-> Sapphic songs that defined your music taste as "yearning."
+> pov: your Spotify Wrapped says you’re from berkeley, burlington, or cambridge
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,452,315 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,452,164 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,12 +37,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2hj3ZtMbuO.md) - [plain]
 | 27 | [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 |
 | 28 | [Easy Thing](https://open.spotify.com/track/3UgSN3Sk0Bj1EdschiKTRB) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Easy Thing](https://open.spotify.com/album/1IMObMG6eLRwu6ZVTkACWa) | 2:43 |
 | 29 | [Mary](https://open.spotify.com/track/4p9iQNEmsIGkB6eG8Val8n) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/1i8WVUZhMVNurF8rmlMeSH) | 3:17 |
-| 30 | [I Think I Like When It Rains](https://open.spotify.com/track/1A3tuE6ti9qoZDwB3LB0t2) | [WILLIS](https://open.spotify.com/artist/3OykSjAE6F2Mb51WplFoRk) | [Locals 2](https://open.spotify.com/album/3DRdTebuRYHafp1XJKJ0g2) | 4:38 |
-| 31 | [The Gold \- Phoebe Bridgers Version](https://open.spotify.com/track/7qcXUzPwoxSBFxjTbNrV0B) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [The Gold \(Phoebe Bridgers Version\)](https://open.spotify.com/album/5pCfjopxazLdvmLae6My9w) | 3:53 |
+| 30 | [The Gold \- Phoebe Bridgers Version](https://open.spotify.com/track/7qcXUzPwoxSBFxjTbNrV0B) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [The Gold \(Phoebe Bridgers Version\)](https://open.spotify.com/album/5pCfjopxazLdvmLae6My9w) | 3:53 |
+| 31 | [I Think I Like When It Rains](https://open.spotify.com/track/1A3tuE6ti9qoZDwB3LB0t2) | [WILLIS](https://open.spotify.com/artist/3OykSjAE6F2Mb51WplFoRk) | [Locals 2](https://open.spotify.com/album/3DRdTebuRYHafp1XJKJ0g2) | 4:38 |
 | 32 | [The Fear of Losing This](https://open.spotify.com/track/1h44AOekmUQtwtSpMZ9S2t) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [If Blue Could Be Happiness](https://open.spotify.com/album/0EB4zV2Vfi0FeM6jZNOO87) | 3:53 |
-| 33 | [October Passed Me By](https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [October Passed Me By](https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E) | 2:45 |
+| 33 | [You're All I Want](https://open.spotify.com/track/4nvLuqwTOZdEJI1fcHXv8h) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [You're All I Want](https://open.spotify.com/album/0C4YWH1f1zcPhIhNIB6S82) | 4:24 |
 | 34 | [Kill Her Freak Out](https://open.spotify.com/track/4Deng6kMpDkfLY6RBLuwuz) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Honey](https://open.spotify.com/album/6xQIAbfKyR8HaoJmxTnOHv) | 4:20 |
-| 35 | [You're All I Want](https://open.spotify.com/track/4nvLuqwTOZdEJI1fcHXv8h) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [You're All I Want](https://open.spotify.com/album/0C4YWH1f1zcPhIhNIB6S82) | 4:24 |
+| 35 | [October Passed Me By](https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [October Passed Me By](https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E) | 2:45 |
 | 36 | [Moon Song](https://open.spotify.com/track/46RNrAkGsqWTDrv2ZPOAbx) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 4:37 |
 | 37 | [Fear](https://open.spotify.com/track/4rHfpAN2CK3H6eRWd7j7E0) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [A Different Age](https://open.spotify.com/album/7tZp8ZodRmNpf1DTcHfV61) | 3:36 |
 | 38 | [Don’t Know How To Keep Loving You](https://open.spotify.com/track/0h5icusBVQgQqSyZdPvtxG) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v) | 5:32 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2hj3ZtMbuO.md) - [plain]
 | 40 | [American Teenager](https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 4:18 |
 | 41 | [Emily I'm Sorry](https://open.spotify.com/track/693xmBAOD4xwkS4W71W1Jn) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:34 |
 | 42 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT) | 4:50 |
-| 43 | [midnight love](https://open.spotify.com/track/32XaqPVTVkkuOiOPQZ3SpA) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:13 |
-| 44 | [Pancakes for Dinner](https://open.spotify.com/track/1WThEmIxSyaqG6fVsyCmcL) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 3:55 |
+| 43 | [Pancakes for Dinner](https://open.spotify.com/track/1WThEmIxSyaqG6fVsyCmcL) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 3:55 |
+| 44 | [midnight love](https://open.spotify.com/track/32XaqPVTVkkuOiOPQZ3SpA) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:13 |
 | 45 | [Myth](https://open.spotify.com/track/2NfxtzCIrpCmJX5Z2KMdD5) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Bloom](https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp) | 4:18 |
 | 46 | [Between the Bars](https://open.spotify.com/track/1JbUMtVkQuaAPdHOvncVTm) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy) | 2:21 |
 | 47 | [We'll Never Have Sex](https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [We'll Never Have Sex](https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3) | 1:39 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2hj3ZtMbuO.md) - [plain]
 | 74 | [Kokomo, IN](https://open.spotify.com/track/0O4sIQ728ugLlwBVaxF8UM) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 3:38 |
 | 75 | [Is It Too Much To Ask](https://open.spotify.com/track/2UkoyDNn9bJbGl6sH87xXc) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Faye Webster](https://open.spotify.com/album/0pEHMpnX1jA44pzhW3n0JB) | 3:10 |
 
-Snapshot ID: `MCxjY2FmZDFhNzA5ZTc1MWVjYjBhNGU3ZmJlYTFiZjg0MDgzMmMyYWM4`
+Snapshot ID: `MCwzMGM5YjJmZDljNjgxNDFjYWQyNDkxODc0NjA3NDdhZTI0NTQ3OGVm`

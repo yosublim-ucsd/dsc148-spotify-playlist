@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 
 > Beautifully dark, dramatic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 795,517 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 795,702 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 49 | [When You Break](https://open.spotify.com/track/26X9sBKoalJBEPQ4CqZzPU) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Agape](https://open.spotify.com/album/4baa1BQ5dRO8Bsvjnt3FwH) | 4:45 |
 | 50 | [Crush \- Stripped](https://open.spotify.com/track/0doTgRQa7qyw5JYPfwhPcK) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Crush \(Stripped\)](https://open.spotify.com/album/10fYQ1V2fQb9JVTFFdr5TA) | 3:49 |
 | 51 | [It Will Come Back](https://open.spotify.com/track/13CyXxYgWD9N5KwWqRYU1U) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 4:37 |
-| 52 | [Devil's Resting Place](https://open.spotify.com/track/7mDFMh8pghY0MRToYb01eI) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Once I Was An Eagle](https://open.spotify.com/album/35He6RuwS8C2KjG067Gobl) | 3:14 |
-| 53 | [Nica Libres At Dusk](https://open.spotify.com/track/5eSH7Aubn6Ol80ynF4MV2L) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Noonday Dream](https://open.spotify.com/album/6astw05cTiXEc2OvyByaPs) | 6:34 |
+| 52 | [Nica Libres At Dusk](https://open.spotify.com/track/5eSH7Aubn6Ol80ynF4MV2L) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Noonday Dream](https://open.spotify.com/album/6astw05cTiXEc2OvyByaPs) | 6:34 |
+| 53 | [Devil's Resting Place](https://open.spotify.com/track/7mDFMh8pghY0MRToYb01eI) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Once I Was An Eagle](https://open.spotify.com/album/35He6RuwS8C2KjG067Gobl) | 3:14 |
 | 54 | [Hey Now](https://open.spotify.com/track/51ZPtAuqT0V5lNONYZTrxy) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [If You Wait](https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU) | 3:27 |
 | 55 | [The Fold](https://open.spotify.com/track/660D1KONP5QoayR5MUGGcK) | [Wickerbird](https://open.spotify.com/artist/5JnB0pjUaCDOuRKRzuS5ti) | [The Crow Mother](https://open.spotify.com/album/5hbE2sd26TIlxF6Yw65rDD) | 3:36 |
 | 56 | [Take The Journey](https://open.spotify.com/track/3cGblMVSNAG6UgIsro3kQ0) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [When You're Ready](https://open.spotify.com/album/1w0K4edsnTTxo2p6ZCErUV) | 2:42 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 67 | [In the Dark](https://open.spotify.com/track/49gE0a0YPRMXRp43QhnHH8) | [Cathedrals](https://open.spotify.com/artist/7HIjKw4rHS0MtmV0cqSlpB) | [Cathedrals \- EP](https://open.spotify.com/album/5pMbkSjNGEcKjnRwbF8kwv) | 3:43 |
 | 68 | [Lost It All](https://open.spotify.com/track/0HrhMgGtRk6wOxUUCqvf4i) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Lost It All](https://open.spotify.com/album/26TDhagwH7yap92e04ObFu) | 3:43 |
 | 69 | [Esmerelda](https://open.spotify.com/track/5kFTqniUPljjMVCP37xRyd) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [The Burgh Island EP](https://open.spotify.com/album/0SudjNaf3DuVpZzM7bGNZ5) | 4:44 |
-| 70 | [Deep Green](https://open.spotify.com/track/3y7SaLukj7ONKxdZLAoQtH) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Deaf Heat EP](https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC) | 3:35 |
-| 71 | [I Love You, But I Need Another Year](https://open.spotify.com/track/2UQYVFUrqybUciB3ULiysS) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Fine But Dying](https://open.spotify.com/album/6ELuMj5lPWzmvHhi3YeIOp) | 3:42 |
+| 70 | [I Love You, But I Need Another Year](https://open.spotify.com/track/2UQYVFUrqybUciB3ULiysS) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Fine But Dying](https://open.spotify.com/album/6ELuMj5lPWzmvHhi3YeIOp) | 3:42 |
+| 71 | [Deep Green](https://open.spotify.com/track/3y7SaLukj7ONKxdZLAoQtH) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Deaf Heat EP](https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC) | 3:35 |
 | 72 | [The Place I Left Behind](https://open.spotify.com/track/7BbAqle8lyB3S56Q9MPTZB) | [The Deep Dark Woods](https://open.spotify.com/artist/4ug92W02N1YsgX0t5wuXSl) | [The Place I Left Behind](https://open.spotify.com/album/7sdf7F7WFPdCZt20wHR9rU) | 4:04 |
 | 73 | [Volcano](https://open.spotify.com/track/3AkxSspcYOvhWTkaMvqyaD) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 4:38 |
 | 74 | [Sausalito](https://open.spotify.com/track/7dbkkve2z5PQ0Jy3e1KixE) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Azalea](https://open.spotify.com/album/0b1pEut6nYAQhX6EMzXGGv) | 3:42 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 81 | [Goodbye \(with Soap & Skin\)](https://open.spotify.com/track/6BJXuY0lY0EUtSDCgkYnqE) | [Apparat](https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot), [Soap&Skin](https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku) | [The Devil's Walk](https://open.spotify.com/album/5EHvg6pPmS7wBzcCjXZIs3) | 4:29 |
 | 82 | [Don't Know Who I Am](https://open.spotify.com/track/0BlWn4ZadRmT6Ksnvzc7Jp) | [Rebecca Roubion](https://open.spotify.com/artist/1eaYzzk8AQ47QxLjCI3ck2) | [Sleepless Nights](https://open.spotify.com/album/2qnldWV2h89LcrnAeb3X04) | 2:20 |
 | 83 | [Sane](https://open.spotify.com/track/7fW3FdTNVNe5PixRIEQ6Pc) | [Fear of Men](https://open.spotify.com/artist/0CRpYpI1sFle7hwVWdLOEd) | [Fall Forever](https://open.spotify.com/album/7hPVqeniaW7KBITPBam9If) | 4:42 |
-| 84 | [Wasted Time](https://open.spotify.com/track/2C10W0lrLhC09g8TLUcRKV) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [One Big Nothing](https://open.spotify.com/album/16OaQjGBTLJy6ZashcbJRm) | 4:04 |
-| 85 | [How Come You Never Go There](https://open.spotify.com/track/1f4YlPYTV3H3Namp0NvVMp) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Metals](https://open.spotify.com/album/16EdRx2P4PVgZFK53UF3JD) | 3:24 |
+| 84 | [How Come You Never Go There](https://open.spotify.com/track/1f4YlPYTV3H3Namp0NvVMp) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Metals](https://open.spotify.com/album/16EdRx2P4PVgZFK53UF3JD) | 3:24 |
+| 85 | [Wasted Time](https://open.spotify.com/track/2C10W0lrLhC09g8TLUcRKV) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [One Big Nothing](https://open.spotify.com/album/16OaQjGBTLJy6ZashcbJRm) | 4:04 |
 | 86 | [B a noBody](https://open.spotify.com/track/7uu9k6xfRSn2NjdwJXqWGQ) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Before We Forgot How To Dream](https://open.spotify.com/album/0Z8DuysabM6vo3y7HSlTbA) | 4:48 |
 | 87 | [My Love Took Me Down To the River To Silence Me](https://open.spotify.com/track/1Me1LN4tpFc3rCRkmHAu0q) | [Little Green Cars](https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy) | [Absolute Zero](https://open.spotify.com/album/1kqlpogKhHGn8zJTXUtZbW) | 5:00 |
 | 88 | [Boris](https://open.spotify.com/track/1rfSdNJodNnBxLlPok0YFB) | [Lo\-Fang](https://open.spotify.com/artist/5EDkJDlRNcMs3ewliB24QA) | [Blue Film](https://open.spotify.com/album/7D8AeZSOdO2eO2Htuyubd8) | 3:37 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 95 | [Beautiful Undone](https://open.spotify.com/track/3v8V9sj0bGB4xNtAWvdyNO) | [Laura Doggett](https://open.spotify.com/artist/2lFvv8FA5ersMzaJyvmeae) | [Into the Glass \- EP](https://open.spotify.com/album/5ZH8smBHtaFy4NLDAOW7of) | 3:23 |
 | 96 | [Farm](https://open.spotify.com/track/2C4ESQIc6lROCWKMwffsU6) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Farm b/w Lift](https://open.spotify.com/album/7L0CdrL4wrljsZvpIB3yVK) | 4:43 |
 | 97 | [Habit](https://open.spotify.com/track/2C6VccxGHyESHZMDeTYRRD) | [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [Gabrielle Shonk](https://open.spotify.com/album/0pNGsGr8OQu7ohqCv6KLco) | 4:09 |
-| 98 | [Magnolia Blues](https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Magnolia Blues](https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr) | 3:28 |
+| 98 | [Stakes](https://open.spotify.com/track/5hxrx9IwZcGpuPS9yYiwls) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Winter](https://open.spotify.com/album/1qqUyfL75uIRPAzziRaLFe) | 5:11 |
 | 99 | [Deliverance](https://open.spotify.com/track/0lTmVz7A8YJM2fI9k1iMcV) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv) | 3:50 |
-| 100 | [Stakes](https://open.spotify.com/track/5hxrx9IwZcGpuPS9yYiwls) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Winter](https://open.spotify.com/album/1qqUyfL75uIRPAzziRaLFe) | 5:11 |
+| 100 | [Magnolia Blues](https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Magnolia Blues](https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr) | 3:28 |
 
-Snapshot ID: `MCw2NTgxYmZiZjdmNjY0ZGM3NTRkMzU2OTYwNGI3NWRmMjU4M2E5MmY5`
+Snapshot ID: `MCxhZjcwZjhlZDk5YTAxMzdmYTk2NTUwMmFjNTEyNWE3ZTg5NDM3MTg5`

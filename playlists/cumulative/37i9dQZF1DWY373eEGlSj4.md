@@ -4,7 +4,7 @@
 
 > The most unforgettable love songs from the 70s.
 
-166 songs - 10 hr 51 min
+167 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [How Much I Feel](https://open.spotify.com/track/3GVhCuS4BRxCTvVj4Cmc8w) | [Ambrosia](https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw) | [Life Beyond L.A.](https://open.spotify.com/album/5CyhDBUqDk2XMptRFsj7c2) | 4:43 | 2022-03-28 | 2022-04-16 |
 | [How Sweet It Is \(To Be Loved by You\)](https://open.spotify.com/track/2RwFdFIN9JAyVUzevwkzez) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Gorilla](https://open.spotify.com/album/4mMlhHLgeVQHymeJPzP93p) | 3:34 | 2022-03-28 | 2022-04-21 |
 | [How Sweet It Is \(To Be Loved By You\) \- 2019 Remaster](https://open.spotify.com/track/75Nlnd9AJ4CYrLXgWGsuTF) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Gorilla \(2019 Remaster\)](https://open.spotify.com/album/0x491s63vRDvG25x2Fzrny) | 3:36 | 2022-07-25 |  |
-| [I Can't Tell You Why \- 2013 Remaster](https://open.spotify.com/track/02BsTeJE4q5gWOTt58ur5U) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Long Run \(2013 Remaster\)](https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP) | 4:55 | 2022-03-28 |  |
+| [I Can't Tell You Why \- 2013 Remaster](https://open.spotify.com/track/02BsTeJE4q5gWOTt58ur5U) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Long Run \(2013 Remaster\)](https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP) | 4:55 | 2022-03-28 | 2023-11-30 |
 | [I Go Crazy](https://open.spotify.com/track/08kvJTpcthAvvvW0BAcGHN) | [Paul Davis](https://open.spotify.com/artist/6EJmqnuK0r6qiAevFFiNNR) | [Singer of Songs, Teller of Tales](https://open.spotify.com/album/4HNv2JkhmTpa346v8KeazE) | 3:53 | 2022-03-28 | 2022-04-20 |
 | [I Honestly Love You](https://open.spotify.com/track/2iTpAjIM15wHKpV36xKG1e) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Hopelessly Devoted: The Hits](https://open.spotify.com/album/4LZhAy9UsJ0EiqqeKyrlts) | 3:37 | 2021-12-27 | 2022-07-29 |
 | [I Hope That I Don't Fall In Love With You](https://open.spotify.com/track/23Uv9xqLumDqEBNIdHhCcO) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Closing Time \(Remastered\)](https://open.spotify.com/album/67F2ya9fonXH0jVVgLa7sb) | 3:53 | 2022-03-28 | 2022-04-20 |
@@ -145,6 +145,7 @@
 | [Time for Me to Fly](https://open.spotify.com/track/0cO7JEo8deKuQMWpDyjenY) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [You Can Tune a Piano, But You Can't Tuna Fish](https://open.spotify.com/album/3w0BIqN0uMoOT2l2ppKuXx) | 3:41 | 2022-03-28 | 2022-04-19 |
 | [Time in a Bottle](https://open.spotify.com/track/561F1zqRwGPCTMRsLsXVtL) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [You Don't Mess Around With Jim](https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy) | 2:26 | 2022-03-28 | 2023-11-04 |
 | [Time in a Bottle](https://open.spotify.com/track/6FlNxt8Mw5ki0Ccjt2mNWJ) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [The Original Albums…Plus](https://open.spotify.com/album/0MJESR6xqCtsmM0CB4Pjlu) | 2:28 | 2023-05-22 | 2023-11-19 |
+| [Time in a Bottle](https://open.spotify.com/track/7uWFUpGuEfmxYeymkV95jn) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [You Don't Mess Around With Jim](https://open.spotify.com/album/0dZaHQ0OJlIyVrEuvnXmS9) | 2:28 | 2023-05-22 |  |
 | [Time Passes On](https://open.spotify.com/track/1MxGA46FSVW2yLvJTGHwr3) | [Orleans](https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c) | [Let There Be Music](https://open.spotify.com/album/5Qc4aewca50EzFMU4sc4Rz) | 3:35 | 2022-03-28 | 2022-04-18 |
 | [Torn Between Two Lovers](https://open.spotify.com/track/4VIpspaQ1frWWzTj8suyHR) | [Mary MacGregor](https://open.spotify.com/artist/6GlDsAkQHOmNgtUZdJ4Amq) | [Essential Memories Of Love](https://open.spotify.com/album/1EQEIZIv1DAyo62wmQlDhY) | 3:50 | 2021-12-27 | 2022-07-29 |
 | [Touch Me In The Morning](https://open.spotify.com/track/4sIkDCqNjTubfb5UVs8lEA) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Touch Me In The Morning](https://open.spotify.com/album/42cU6f6ei3kDi1KfN14EA7) | 3:27 | 2022-01-10 | 2022-06-25 |

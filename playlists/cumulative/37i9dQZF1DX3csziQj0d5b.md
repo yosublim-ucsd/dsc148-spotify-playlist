@@ -4,7 +4,7 @@
 
 > Some bops to take the pain of homework away.
 
-601 songs - 1 day 8 hr 38 min
+602 songs - 1 day 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [hate to be lame \(feat\. FINNEAS\)](https://open.spotify.com/track/3QEX5O23KVp1yg1tj6Hycp) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [hate to be lame](https://open.spotify.com/album/5op9qDxPxMSBpV593Nxsaj) | 2:36 | 2022-04-29 | 2022-07-27 |
 | [hate u love u](https://open.spotify.com/track/6ATgDc6e4sPn84hvJsAmPt) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [hate u love u](https://open.spotify.com/album/0rajxwGsaQ1sqoegXK6gvw) | 2:55 | 2022-04-14 |  |
 | [Hazy Moonlight](https://open.spotify.com/track/1kQnVUBJpa3jeCbUv7MDeG) | [Seek Shelter](https://open.spotify.com/artist/1ocQlCLuRIc3fotjIRf3R8) | [Hazy Moonlight](https://open.spotify.com/album/4TUwNqseEm7Q3O8ZQJh2FY) | 2:17 | 2022-07-01 | 2022-07-27 |
+| [he never will](https://open.spotify.com/track/3gt3BD4A92u4nv6oS5Jkmq) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [he never will](https://open.spotify.com/album/3LRXevJN62aaXJZuxPPVJI) | 2:51 | 2023-11-21 |  |
 | [Heartbreak Anniversary](https://open.spotify.com/track/27tDoZsybt3KvJWTDoW9id) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done..\. Take Time](https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd) | 3:18 | 2023-02-03 | 2023-02-19 |
 | [Heartbreak Anniversary](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:18 | 2022-12-09 |  |
 | [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 | 2022-04-14 |  |
@@ -427,7 +428,7 @@
 | [Potion \(with Dua Lipa & Young Thug\)](https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Potion \(with Dua Lipa & Young Thug\)](https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc) | 3:34 | 2022-09-09 | 2022-09-17 |
 | [Pray](https://open.spotify.com/track/2gbRKKSyW7e7vAkyvrJkte) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Pray](https://open.spotify.com/album/0bIr7aFjLBuAkMbsUsWY3I) | 2:26 | 2022-04-14 | 2022-11-13 |
 | [Pray](https://open.spotify.com/track/7MOCaEUbfGyq1K96umNVwJ) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [drowning](https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN) | 2:26 | 2023-04-07 |  |
-| [prom dress](https://open.spotify.com/track/2xCGBWfzTe8l2kvHpgvB6M) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade](https://open.spotify.com/album/5mNk0mLiGcJHLGiT0mjHmX) | 3:17 | 2022-10-28 |  |
+| [prom dress](https://open.spotify.com/track/2xCGBWfzTe8l2kvHpgvB6M) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade](https://open.spotify.com/album/5mNk0mLiGcJHLGiT0mjHmX) | 3:17 | 2022-10-28 | 2023-11-30 |
 | [Promise](https://open.spotify.com/track/4LHq10VKu3fSIg8EeVRi09) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Promise](https://open.spotify.com/album/21QZu3y3ewBQfmehshqMmZ) | 3:54 | 2023-07-03 | 2023-07-22 |
 | [puddles](https://open.spotify.com/track/4J9j0ZO5WzTJoM5B0zTN3B) | [Gbli](https://open.spotify.com/artist/0jD9LFWGpjG6WvkrnZ6928), [Kid Kio](https://open.spotify.com/artist/5Y2wHchGaDlDsk9FPC0YSE) | [raindrops](https://open.spotify.com/album/6wAA4XdvEJ0wRQyn8XEfhq) | 2:04 | 2022-04-14 | 2022-04-21 |
 | [Purple](https://open.spotify.com/track/4E81DtplPvQb0db3v2M7bB) | [Celine del Carmen](https://open.spotify.com/artist/0Uio2mqycWxzpG1LUatzu3) | [Purple](https://open.spotify.com/album/3cwyPpxZUSPi1JCMVUPB37) | 2:55 | 2022-04-14 | 2022-04-21 |

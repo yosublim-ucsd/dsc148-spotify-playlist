@@ -4,7 +4,7 @@
 
 > Just try not to move to this mix of recent hits\. Cover: Kx5
 
-349 songs - 18 hr 4 min
+350 songs - 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,7 @@
 | [Motion](https://open.spotify.com/track/7GRfEf5BG1OCSMpeVotldQ) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Motion](https://open.spotify.com/album/3NkinGi0Fv1BPYhh06hzjU) | 3:07 | 2022-05-27 | 2022-07-29 |
 | [Move It](https://open.spotify.com/track/2YUVIkvZ2tPEZYTepX6oT9) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Move It](https://open.spotify.com/album/77jDTOiz2yoBETypeoYgza) | 3:21 | 2022-09-02 | 2022-11-13 |
 | [Move Your Body](https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Move Your Body](https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL) | 2:37 | 2022-05-27 |  |
-| [My Heart Goes \(La Di Da\)](https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [My Heart Goes \(La Di Da\)](https://open.spotify.com/album/3xDukGLEHBX2uylxb6S9jc) | 2:28 | 2022-05-27 |  |
+| [My Heart Goes \(La Di Da\)](https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [My Heart Goes \(La Di Da\)](https://open.spotify.com/album/3xDukGLEHBX2uylxb6S9jc) | 2:28 | 2022-05-27 | 2023-11-30 |
 | [My Humps](https://open.spotify.com/track/5WoBAyXaOnKEfvsZocrPeT) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip) | [My Humps](https://open.spotify.com/album/5oIu4GbSrhxQLUhipFQiYb) | 3:06 | 2022-05-27 | 2022-07-22 |
 | [My Humps](https://open.spotify.com/track/3BbD2sqk7P7Rc9V0KF9o4s) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip) | [My Humps](https://open.spotify.com/album/4mnGRL7lErjyRJsoCwgJT4) | 3:06 | 2022-05-27 | 2023-03-21 |
 | [My Mind](https://open.spotify.com/track/57WUsRphWcS69G9OnTJEsg) | [Ali Bakgor](https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs) | [My Mind](https://open.spotify.com/album/0uqLsKuFKhgKvuC6o7RRxQ) | 3:30 | 2022-05-27 | 2022-07-24 |
@@ -227,6 +227,7 @@
 | [Original Sin](https://open.spotify.com/track/0fp6PDlnCkmdE0F3s0tfr6) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Original Sin](https://open.spotify.com/album/4DB6Xuvp4AlrNRNGRdhdEW) | 2:51 | 2022-05-27 | 2022-08-30 |
 | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8) | 2:42 | 2022-05-27 |  |
 | [Padam Padam](https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV) | 2:46 | 2023-08-04 | 2023-11-18 |
+| [Padam Padam](https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 2:46 | 2023-09-29 |  |
 | [Paradise \(feat\. Dermot Kennedy\)](https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Paradise](https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA) | 2:47 | 2022-05-27 |  |
 | [Paradise \(with Sam Feldt\)](https://open.spotify.com/track/2zPWT2axxNsXMU6CZn3PS5) | [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Paradise \(with Sam Feldt\)](https://open.spotify.com/album/5Tr4VgDrUDYifGz5G3TXu6) | 2:40 | 2022-05-27 | 2022-07-04 |
 | [Phoenix](https://open.spotify.com/track/2nsuUT8ey4AhPkkyM74shh) | [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [Immunity EP](https://open.spotify.com/album/1XrBkrwPVsP8DmPfEtyjt3) | 4:21 | 2022-06-17 | 2022-07-29 |

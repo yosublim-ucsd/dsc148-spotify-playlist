@@ -4,7 +4,7 @@
 
 > Les meilleurs Pop Hits Maghrébins sont ici\. Cover: Manal
 
-78 songs - 4 hr 19 min
+79 songs - 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Mriyech](https://open.spotify.com/track/7735rwGeak348luaiQVRNE) | [Mehdi Fadili](https://open.spotify.com/artist/3fRwXTuOQctGeBiWD456cG) | [Mriyech](https://open.spotify.com/album/4eLxm3sq1QQ8y22wZi7n2H) | 3:28 | 2023-07-07 |  |
 | [Mtitti](https://open.spotify.com/track/6k1nMH5vxZPIG6UFtlZqdV) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Mtitti](https://open.spotify.com/album/2iNdSLozlzr9Q9HW8AHRNf) | 3:53 | 2023-08-05 |  |
 | [Ness Lil](https://open.spotify.com/track/07F2Rm83gNLKwiBi2ucRep) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Ness Lil](https://open.spotify.com/album/63EmbDWn9juvJwL4iqgmPx) | 3:24 | 2023-08-14 |  |
-| [Nsiti](https://open.spotify.com/track/0qvOa81HDkZs2c07K6XtCE) | [Oussama](https://open.spotify.com/artist/473J09XfjAXYQPbYQQS9Ml) | [Nsiti](https://open.spotify.com/album/2d3GvYdZTh6DnvdOnO1ObG) | 2:52 | 2023-07-07 |  |
+| [Nsiti](https://open.spotify.com/track/0qvOa81HDkZs2c07K6XtCE) | [Oussama](https://open.spotify.com/artist/473J09XfjAXYQPbYQQS9Ml) | [Nsiti](https://open.spotify.com/album/2d3GvYdZTh6DnvdOnO1ObG) | 2:52 | 2023-07-07 | 2023-11-30 |
 | [Omri \(feat\. kouz1\)](https://open.spotify.com/track/0UoPZZKHTNXyAKvnQC0PrY) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Omri \(feat\. kouz1\)](https://open.spotify.com/album/6uPeVzOEUmO69h6gsNt2rn) | 3:20 | 2023-07-07 | 2023-11-29 |
 | [Papa](https://open.spotify.com/track/38oGhiphXiXM3bZrr8p4QL) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Papa](https://open.spotify.com/album/0R6c5bHmnp1MeHiXr2Z928) | 2:41 | 2023-07-07 |  |
 | [Rmadi](https://open.spotify.com/track/0muYqG3zcO7STxOBSErQ7s) | [Muslim](https://open.spotify.com/artist/6eQdvOOIyiwu6kfzdbUnxU) | [Rmadi](https://open.spotify.com/album/0nRgtWj4KcY9ZMSWepds3P) | 3:48 | 2023-07-07 |  |
@@ -71,6 +71,7 @@
 | [Sharara](https://open.spotify.com/track/5ZYEXWjn0u2W0r9KxjgOjJ) | [Jamila](https://open.spotify.com/artist/7K0Se2JHfaWPp6OUS2gvgI) | [Sharara](https://open.spotify.com/album/4g58khCt50ohrpG1G10fzR) | 2:41 | 2023-08-10 |  |
 | [Symphonia](https://open.spotify.com/track/0FMWWmtZ5PlOKuhtXVeaoD) | [Abdeelgha4](https://open.spotify.com/artist/714WB17jXnpvAmSRQJpYGv) | [Symphonia](https://open.spotify.com/album/4QZfpbH0dWrsNxAXlB04m3) | 3:24 | 2023-10-03 |  |
 | [Talet Lghiba](https://open.spotify.com/track/6vEtT2Vu5MprdI69pATbLm) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Talet Lghiba](https://open.spotify.com/album/27Kol8rD0EJsQsrkE7A0mJ) | 3:31 | 2023-07-07 |  |
+| [Taline](https://open.spotify.com/track/0RwL13X9AdtPI2SCSaJd3J) | [Rajaa Belmir](https://open.spotify.com/artist/6Ap4eCAS7mQixYK8mbbYAp) | [Taline](https://open.spotify.com/album/1RKFJci69gAvYiezUyPB89) | 3:19 | 2023-11-29 |  |
 | [Toi & moi](https://open.spotify.com/track/4C9bUSwqwVZ8eu2jsnctm6) | [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW), [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [Toi & moi](https://open.spotify.com/album/4qAOLbreEqTtzFgcGePfZL) | 3:10 | 2023-07-07 | 2023-08-01 |
 | [WAJAHNI](https://open.spotify.com/track/74ej9D4v1lsgepeEetuB0J) | [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [WAJAHNI](https://open.spotify.com/album/0sx8JWJDbiT3oUuusuU5ZV) | 3:26 | 2023-07-07 |  |
 | [Wala Bghiti](https://open.spotify.com/track/6MrdoWkAdnnlyVCd2qdriE) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8), [Zina Daoudia](https://open.spotify.com/artist/7z6FZ4HMfpp3zHy5OFq93i) | [Wala Bghiti](https://open.spotify.com/album/5pEvTUwO8EC0f3rxubqbKC) | 3:54 | 2023-07-07 |  |

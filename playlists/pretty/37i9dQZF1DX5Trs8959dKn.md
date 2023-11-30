@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Trs8959dKn.md) - [plain]
 
 > Knees go down and the prayers go up
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,020 likes - 50 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,124 likes - 50 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Trs8959dKn.md) - [plain]
 | 13 | [Breathe](https://open.spotify.com/track/2GBaCowYlscaEClL9bciuL) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Kingdom Now](https://open.spotify.com/album/2M2BBowaeYPd211IYmKNqn) | 11:36 |
 | 14 | [TOBECHUKWU](https://open.spotify.com/track/0gsd7GzrNK9f1sDCWp6TUh) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [MERCY CHINWO BLESSED](https://open.spotify.com/artist/1wo9fKt92KBDi8UxJyGFJI) | [TOBECHUKWU](https://open.spotify.com/album/47LudPhVqHz7bEEuM4LUcr) | 8:07 |
 | 15 | [Jesus Oh](https://open.spotify.com/track/6xEE5orPvEG63CHH8WosnD) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Jesus Oh](https://open.spotify.com/album/62srZNS6dHIfKMjU1CHxNL) | 4:15 |
-| 16 | [Jesus at the Centre](https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [Victory](https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6) | 6:09 |
-| 17 | [Out of My Belly \- Live](https://open.spotify.com/track/50nShU4u2162BawAOHjH03) | [Prospa Ochimana](https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6), [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [Out of My Belly \(Live\)](https://open.spotify.com/album/1nqWp6JtcCYJSAqczv8rsM) | 14:24 |
+| 16 | [Out of My Belly \- Live](https://open.spotify.com/track/50nShU4u2162BawAOHjH03) | [Prospa Ochimana](https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6), [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [Out of My Belly \(Live\)](https://open.spotify.com/album/1nqWp6JtcCYJSAqczv8rsM) | 14:24 |
+| 17 | [Jesus at the Centre](https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [Victory](https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6) | 6:09 |
 | 18 | [Miracle Worker \(feat\. Nathaniel Bassey\)](https://open.spotify.com/track/7lbzZjOuAP1SgdbBntWENT) | [Glowreeyah Braimah](https://open.spotify.com/artist/4xn29UFDYZE3V9knQ2JSh1), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [The Expression](https://open.spotify.com/album/1DTO9Qm1Cx2nVKzMbuwrMm) | 4:50 |
 | 19 | [Kumama](https://open.spotify.com/track/3DhC1to2LhIihmWtufsGIA) | [ABOSEDE](https://open.spotify.com/artist/6gzSZLr4GiPCcW4WWWcXoS) | [Kumama](https://open.spotify.com/album/1roldFx55pNuxcmyy1o3U6) | 1:32 |
 | 20 | [Daddy wey dey Pamper](https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Lyrical HI](https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU) | [Daddy wey dey Pamper](https://open.spotify.com/album/6sKADIMwrpbz7W2w54bZZI) | 12:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Trs8959dKn.md) - [plain]
 | 49 | [Onye \(Here by Your Grace\)](https://open.spotify.com/track/75POWlcXylJsi50mqHxRoY) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Onye \(Here by Your Grace\)](https://open.spotify.com/album/0qx0uFWGKK1OK9qlwGCRYq) | 8:16 |
 | 50 | [IBUKA](https://open.spotify.com/track/1L6CfVaAwXZ2Btfial9Uo8) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [IBUKA](https://open.spotify.com/album/60LewVA2ONlxDPAXOhfwCQ) | 5:02 |
 
-Snapshot ID: `MCw1Y2IxYTViMmNhNWQ0YWM3MDM1MWViZDIwODI2OTUzNzA5MDgxOGJl`
+Snapshot ID: `MCxkN2YwMjFhZTU0MWE5YWVhYmJmMDNhNjlhYWI3OThjNTdhNzE5Mjg3`

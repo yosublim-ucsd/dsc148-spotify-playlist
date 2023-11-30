@@ -5619,6 +5619,28 @@
     },
     {
       "album": {
+        "name": "Sax To Me",
+        "url": "https://open.spotify.com/album/3hDSkYuQHsIUc5sQYY7Laq"
+      },
+      "artists": [
+        {
+          "name": "Dayvi",
+          "url": "https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf"
+        },
+        {
+          "name": "Joseph Qas",
+          "url": "https://open.spotify.com/artist/1vs2vlQyZqBSVeD4ezeICI"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364971,
+      "name": "Sax To Me",
+      "url": "https://open.spotify.com/track/01HkaXEkNgxty2lewZ0jqk"
+    },
+    {
+      "album": {
         "name": "Sax to Me",
         "url": "https://open.spotify.com/album/63GVsnGmXuYtn9zs56ck6Q"
       },
@@ -5634,7 +5656,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 364971,
       "name": "Sax to Me",
       "url": "https://open.spotify.com/track/7oSPHLta1VJPFcUvEE9Gvj"

@@ -2,7 +2,7 @@
 
 ### [GENERAZIONE Z](https://open.spotify.com/playlist/37i9dQZF1DWYCIYGXn56uz)
 
-> ✨giovane✨pop✨z✨ Cover: Petit
+> ✨giovane✨pop✨z✨ Cover: Petit <a href="spotify:playlist:37i9dQZF1DWTDcvdOAx9xg">Scopri il Best Of del 2023 qui!</a>
 
 283 songs - 13 hr 1 min
 

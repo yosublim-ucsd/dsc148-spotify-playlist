@@ -1,12 +1,12 @@
 {
   "description": "2018 highlights from the home of indie music.",
-  "num_followers": 79403,
+  "num_followers": 79437,
   "original_name": "Best of Indie 2018",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjdkOWUyZTRhNDI4NGQ5YTk4Mzk1MDFmMjAyNGNjNjFhODRiNjYz",
+  "snapshot_id": "MCwxZWE3YTJiNTE3NmU1ZTJiNjMxNWI2NDZjYWYxYmY4MmY0MjUwNmQ3",
   "tracks": [
     {
       "added_at": "2022-03-08 15:07:06",
@@ -479,22 +479,22 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Geography",
-        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
+        "name": "Lucy",
+        "url": "https://open.spotify.com/album/4VPzKudemKpbuuyEHIhFSU"
       },
       "artists": [
         {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
         },
         {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+          "name": "ODIE",
+          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
         }
       ],
-      "duration_ms": 261881,
-      "name": "It Runs Through Me",
-      "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
+      "duration_ms": 142500,
+      "name": "Lucy",
+      "url": "https://open.spotify.com/track/5RxpYHVbGJPOvSEATQyg9P"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -515,22 +515,22 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Lucy",
-        "url": "https://open.spotify.com/album/4VPzKudemKpbuuyEHIhFSU"
+        "name": "Geography",
+        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
       },
       "artists": [
         {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         },
         {
-          "name": "ODIE",
-          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
         }
       ],
-      "duration_ms": 142500,
-      "name": "Lucy",
-      "url": "https://open.spotify.com/track/5RxpYHVbGJPOvSEATQyg9P"
+      "duration_ms": 261881,
+      "name": "It Runs Through Me",
+      "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
+        "name": "Soy Pablo",
+        "url": "https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw"
+      },
+      "artists": [
+        {
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+        }
+      ],
+      "duration_ms": 197946,
+      "name": "Feeling Lonely",
+      "url": "https://open.spotify.com/track/5uIRujGRZv5t4fGKkUTv4n"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
         "name": "Chiquito",
         "url": "https://open.spotify.com/album/4gjhrTin1WwrEHd8GslZ7O"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 208067,
       "name": "Summer Time High Time",
       "url": "https://open.spotify.com/track/77ZnKnZvitYTwGNWshn53V"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
-        "name": "Soy Pablo",
-        "url": "https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw"
-      },
-      "artists": [
-        {
-          "name": "boy pablo",
-          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
-        }
-      ],
-      "duration_ms": 197946,
-      "name": "Feeling Lonely",
-      "url": "https://open.spotify.com/track/5uIRujGRZv5t4fGKkUTv4n"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1167,22 +1167,18 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Drown",
-        "url": "https://open.spotify.com/album/22y4jRBJ3WK5plaTLg0Vn4"
+        "name": "Damaged Vol. 2",
+        "url": "https://open.spotify.com/album/1gZ3Wi966cliRIktXiaWij"
       },
       "artists": [
         {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        },
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+          "name": "b\u00fclow",
+          "url": "https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4"
         }
       ],
-      "duration_ms": 234055,
-      "name": "Drown",
-      "url": "https://open.spotify.com/track/0r3EjWduZ249mBlXAfcHyL"
+      "duration_ms": 159453,
+      "name": "You & Jennifer",
+      "url": "https://open.spotify.com/track/0g21KZ1XJuhwexWPLpuEt1"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1199,22 +1195,6 @@
       "duration_ms": 236746,
       "name": "Greek God",
       "url": "https://open.spotify.com/track/7KJXiuMXQu723ODChoxENp"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
-        "name": "Damaged Vol. 2",
-        "url": "https://open.spotify.com/album/1gZ3Wi966cliRIktXiaWij"
-      },
-      "artists": [
-        {
-          "name": "b\u00fclow",
-          "url": "https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4"
-        }
-      ],
-      "duration_ms": 159453,
-      "name": "You & Jennifer",
-      "url": "https://open.spotify.com/track/0g21KZ1XJuhwexWPLpuEt1"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1247,6 +1227,26 @@
       "duration_ms": 208200,
       "name": "No Going Back",
       "url": "https://open.spotify.com/track/356aM3w6i5v1cltIzOnVTP"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "Drown",
+        "url": "https://open.spotify.com/album/22y4jRBJ3WK5plaTLg0Vn4"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 234055,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/0r3EjWduZ249mBlXAfcHyL"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Lenses",
-        "url": "https://open.spotify.com/album/1RTm973fIk4zlqW69bqXOU"
-      },
-      "artists": [
-        {
-          "name": "Shoffy",
-          "url": "https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG"
-        }
-      ],
-      "duration_ms": 191935,
-      "name": "Cool Again",
-      "url": "https://open.spotify.com/track/4CFJuKGq5CiGF95M2Jrw3S"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "Lush",
         "url": "https://open.spotify.com/album/2ZlrWJ4Ev4DhG6mRo5h1AP"
       },
@@ -1395,18 +1379,18 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Quarter Past Midnight",
-        "url": "https://open.spotify.com/album/70p5NvBOkvaxU1UeIxhE1Z"
+        "name": "Lenses",
+        "url": "https://open.spotify.com/album/1RTm973fIk4zlqW69bqXOU"
       },
       "artists": [
         {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+          "name": "Shoffy",
+          "url": "https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG"
         }
       ],
-      "duration_ms": 201799,
-      "name": "Quarter Past Midnight",
-      "url": "https://open.spotify.com/track/1etiUDkISHELzQGMY79ryt"
+      "duration_ms": 191935,
+      "name": "Cool Again",
+      "url": "https://open.spotify.com/track/4CFJuKGq5CiGF95M2Jrw3S"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1423,6 +1407,22 @@
       "duration_ms": 226160,
       "name": "Sky Full Of Song",
       "url": "https://open.spotify.com/track/64fzn2ewOdSH57wrxTPGov"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "Quarter Past Midnight",
+        "url": "https://open.spotify.com/album/70p5NvBOkvaxU1UeIxhE1Z"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 201799,
+      "name": "Quarter Past Midnight",
+      "url": "https://open.spotify.com/track/1etiUDkISHELzQGMY79ryt"
     },
     {
       "added_at": "2022-03-08 15:07:06",

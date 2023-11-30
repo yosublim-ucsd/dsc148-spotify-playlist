@@ -1,12 +1,12 @@
 {
   "description": "Scopa, paletta e musica!",
-  "num_followers": 81270,
+  "num_followers": 81291,
   "original_name": "Pulizie di Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjM5YzM4ZTZjYmY2YTdkODUzMTc5YzQ1ZDJmNjEwZjQ4N2VjOGFh",
+  "snapshot_id": "MCw2YmIyMWU0YWZmMWJjZDIxMDlkN2FiMGIzYTlhZWVmZjc0Yzk1NzU1",
   "tracks": [
     {
       "added_at": "2023-07-14 13:59:48",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-07-14 13:59:48",
       "album": {
-        "name": "Appetite For Destruction",
-        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 356066,
-      "name": "Sweet Child O' Mine",
-      "url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW"
-    },
-    {
-      "added_at": "2023-07-14 13:59:48",
-      "album": {
         "name": "Dizzy up the Girl",
         "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
       },
@@ -451,18 +435,18 @@
     {
       "added_at": "2023-07-14 13:59:48",
       "album": {
-        "name": "Hot Fuss",
-        "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
       },
       "artists": [
         {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 222973,
-      "name": "Mr. Brightside",
-      "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
+      "duration_ms": 356066,
+      "name": "Sweet Child O' Mine",
+      "url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW"
     },
     {
       "added_at": "2023-07-14 13:59:48",
@@ -479,6 +463,22 @@
       "duration_ms": 208786,
       "name": "Attention",
       "url": "https://open.spotify.com/track/5cF0dROlMOK5uNZtivgu50"
+    },
+    {
+      "added_at": "2023-07-14 13:59:48",
+      "album": {
+        "name": "Hot Fuss",
+        "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 222973,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
     },
     {
       "added_at": "2023-07-14 13:59:48",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-07-14 13:59:48",
       "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 187436,
-      "name": "Sweet but Psycho",
-      "url": "https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI"
-    },
-    {
-      "added_at": "2023-07-14 13:59:48",
-      "album": {
         "name": "Blood Sugar Sex Magik (Deluxe Edition)",
         "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 264306,
       "name": "Under the Bridge",
       "url": "https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0"
+    },
+    {
+      "added_at": "2023-07-14 13:59:48",
+      "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 187436,
+      "name": "Sweet but Psycho",
+      "url": "https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI"
     },
     {
       "added_at": "2023-07-14 13:59:48",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-07-14 13:59:48",
       "album": {
+        "name": "Lukas Graham",
+        "url": "https://open.spotify.com/album/4rFrdkSWs0dtj0rWPzOk1v"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "duration_ms": 237300,
+      "name": "7 Years",
+      "url": "https://open.spotify.com/track/5kqIPrATaCc2LqxVWzQGbk"
+    },
+    {
+      "added_at": "2023-07-14 13:59:48",
+      "album": {
         "name": "One Kiss (with Dua Lipa)",
         "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 214846,
       "name": "One Kiss (with Dua Lipa)",
       "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
-    },
-    {
-      "added_at": "2023-07-14 13:59:48",
-      "album": {
-        "name": "Lukas Graham",
-        "url": "https://open.spotify.com/album/4rFrdkSWs0dtj0rWPzOk1v"
-      },
-      "artists": [
-        {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
-        }
-      ],
-      "duration_ms": 237300,
-      "name": "7 Years",
-      "url": "https://open.spotify.com/track/5kqIPrATaCc2LqxVWzQGbk"
     },
     {
       "added_at": "2023-07-14 13:59:48",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-07-14 13:59:48",
       "album": {
-        "name": "JORDI (Deluxe)",
-        "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 189486,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI"
-    },
-    {
-      "added_at": "2023-07-14 13:59:48",
-      "album": {
         "name": "By the Way (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 269000,
       "name": "Can't Stop",
       "url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx"
+    },
+    {
+      "added_at": "2023-07-14 13:59:48",
+      "album": {
+        "name": "JORDI (Deluxe)",
+        "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 189486,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI"
     },
     {
       "added_at": "2023-07-14 13:59:48",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-07-14 13:59:48",
       "album": {
-        "name": "Save Me, San Francisco (Golden Gate Edition)",
-        "url": "https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR"
-      },
-      "artists": [
-        {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
-        }
-      ],
-      "duration_ms": 216773,
-      "name": "Hey, Soul Sister",
-      "url": "https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv"
-    },
-    {
-      "added_at": "2023-07-14 13:59:48",
-      "album": {
         "name": "Happier",
         "url": "https://open.spotify.com/album/2u4Yp2ADTKYPwFSBFL4ffa"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 214289,
       "name": "Happier",
       "url": "https://open.spotify.com/track/7BqHUALzNBTanL6OvsqmC1"
+    },
+    {
+      "added_at": "2023-07-14 13:59:48",
+      "album": {
+        "name": "Save Me, San Francisco (Golden Gate Edition)",
+        "url": "https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "duration_ms": 216773,
+      "name": "Hey, Soul Sister",
+      "url": "https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv"
     },
     {
       "added_at": "2023-07-14 13:59:48",
@@ -1271,6 +1271,26 @@
     {
       "added_at": "2023-07-14 13:59:48",
       "album": {
+        "name": "reputation Stadium Tour Surprise Song Playlist",
+        "url": "https://open.spotify.com/album/1MPAXuTVL2Ej5x0JHiSPq8"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 247160,
+      "name": "I Don\u2019t Wanna Live Forever (Fifty Shades Darker)",
+      "url": "https://open.spotify.com/track/55n9yjI6qqXh5F2mYvUc2y"
+    },
+    {
+      "added_at": "2023-07-14 13:59:48",
+      "album": {
         "name": "Millennium",
         "url": "https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ"
       },
@@ -1303,22 +1323,18 @@
     {
       "added_at": "2023-07-14 13:59:48",
       "album": {
-        "name": "reputation Stadium Tour Surprise Song Playlist",
-        "url": "https://open.spotify.com/album/1MPAXuTVL2Ej5x0JHiSPq8"
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
       },
       "artists": [
         {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        },
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
         }
       ],
-      "duration_ms": 247160,
-      "name": "I Don\u2019t Wanna Live Forever (Fifty Shades Darker)",
-      "url": "https://open.spotify.com/track/55n9yjI6qqXh5F2mYvUc2y"
+      "duration_ms": 210173,
+      "name": "You Shook Me All Night Long",
+      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
     },
     {
       "added_at": "2023-07-14 13:59:48",
@@ -1335,22 +1351,6 @@
       "duration_ms": 171360,
       "name": "You Need To Calm Down",
       "url": "https://open.spotify.com/track/6RRNNciQGZEXnqk8SQ9yv5"
-    },
-    {
-      "added_at": "2023-07-14 13:59:48",
-      "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "You Shook Me All Night Long",
-      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
     },
     {
       "added_at": "2023-07-14 13:59:48",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-07-14 13:59:48",
       "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 291293,
-      "name": "I Wanna Dance with Somebody (Who Loves Me)",
-      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
-    },
-    {
-      "added_at": "2023-07-14 13:59:48",
-      "album": {
         "name": "Eyes Open",
         "url": "https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 267960,
       "name": "Chasing Cars",
       "url": "https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6"
+    },
+    {
+      "added_at": "2023-07-14 13:59:48",
+      "album": {
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 291293,
+      "name": "I Wanna Dance with Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
     },
     {
       "added_at": "2023-07-14 13:59:48",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-07-14 13:59:48",
       "album": {
-        "name": "Spice",
-        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 173026,
-      "name": "Wannabe",
-      "url": "https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT"
-    },
-    {
-      "added_at": "2023-07-14 13:59:48",
-      "album": {
         "name": "21",
         "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 191946,
       "name": "Roxanne",
       "url": "https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo"
+    },
+    {
+      "added_at": "2023-07-14 13:59:48",
+      "album": {
+        "name": "Spice",
+        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 173026,
+      "name": "Wannabe",
+      "url": "https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT"
     },
     {
       "added_at": "2023-07-14 13:59:48",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-07-14 13:59:48",
       "album": {
-        "name": "Green River (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 141600,
-      "name": "Bad Moon Rising",
-      "url": "https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj"
-    },
-    {
-      "added_at": "2023-07-14 13:59:48",
-      "album": {
         "name": "Illuminate (Deluxe)",
         "url": "https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 208733,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/0AS63m1wHv9n4VVRizK6Hc"
+    },
+    {
+      "added_at": "2023-07-14 13:59:48",
+      "album": {
+        "name": "Green River (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 141600,
+      "name": "Bad Moon Rising",
+      "url": "https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj"
     }
   ],
   "unique_name": "Pulizie di Casa",

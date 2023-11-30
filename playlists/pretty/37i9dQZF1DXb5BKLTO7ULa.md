@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Donnie & Marco Schuitmaker
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,351 likes - 96 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,480 likes - 96 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 41 | [Beautiful View](https://open.spotify.com/track/1L1YNvHGQk5si8wxhABVQz) | [Rianne Downey](https://open.spotify.com/artist/254gmlnuhtyLCJmHiodIri) | [Beautiful View](https://open.spotify.com/album/20Fa3LrHum284BwcuuVhJj) | 2:55 |
 | 42 | [My Kinda Woman](https://open.spotify.com/track/2iVWKU78MURQCwfyj8Yy7T) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [My Kinda Woman](https://open.spotify.com/album/2XxNT2RrPizKoRaHvF4Eye) | 3:04 |
 | 43 | [Arizona](https://open.spotify.com/track/3SA6Rfor4ghxWbyxxdpV3c) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Arizona](https://open.spotify.com/album/0qiVeOmNPdZy5ky2j74Cga) | 2:19 |
-| 44 | [Throw Your Arms Around Me](https://open.spotify.com/track/0CVwSCQOx3CMHjwDCmaElh) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Mushroom: 50 Years Of Making Noise \(Reimagined\)](https://open.spotify.com/album/4SRtPtUkg4izzJZ2Kr2LMJ) | 3:03 |
+| 44 | [Throw Your Arms Around Me](https://open.spotify.com/track/0CVwSCQOx3CMHjwDCmaElh) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Mushroom: 50 Years of Making Noise \(Reimagined\)](https://open.spotify.com/album/4SRtPtUkg4izzJZ2Kr2LMJ) | 3:03 |
 | 45 | [KUNNEN WE PRATEN](https://open.spotify.com/track/4E0IT7J2bAtsSRuWDdT5rO) | [TIJN](https://open.spotify.com/artist/13cnCFcBgn9RdB5k0Skoc4) | [ONZEKERE LIEFDE](https://open.spotify.com/album/5TfjjNzTjvkv0mEV69Z7jo) | 3:37 |
 | 46 | [Leisure](https://open.spotify.com/track/6ChV9Auc5TFamlL7d8mAHF) | [Leonard Luka](https://open.spotify.com/artist/3SKNnTmxj8h3CqGcaTYlew), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y) | [Leisure](https://open.spotify.com/album/0ULPs8g8roCkzq7SXOtiuv) | 2:40 |
 | 47 | [Talk Appalachian](https://open.spotify.com/track/6y5xydZInBtiwZs0gXWe35) | [Ciao Lucifer](https://open.spotify.com/artist/7HJjZdoBrnDMtKKrWpjJII) | [Talk Appalachian](https://open.spotify.com/album/1jqXFTSBd1nHxY645EsRR8) | 2:27 |
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 57 | [Where We Are](https://open.spotify.com/track/2rZ7c57535FWSMpwkZJ5Tq) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [This Life](https://open.spotify.com/album/4uWcWrnFw0c0cl6Z8Q0lPN) | 4:29 |
 | 58 | [dreams](https://open.spotify.com/track/0LsF3ZpOl79EQeI9JHPhBa) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [dreams](https://open.spotify.com/album/4IoiwlfqPINgg1HRFMUJCX) | 3:22 |
 | 59 | [Alienated](https://open.spotify.com/track/2xaJ5Fs68sk1G7vffVBSSe) | [CHARLOT](https://open.spotify.com/artist/4jwyHfEELByxcUm6JEP5yC) | [Alienated](https://open.spotify.com/album/1RHGhUKbzR9N5nPsx9AL5O) | 3:21 |
-| 60 | [I don't run wild](https://open.spotify.com/track/5ZSoXMCJIvxUQas0ZLGhJE) | [Kyara Shereen](https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q), [This Lema](https://open.spotify.com/artist/6vzX2qagOcu1OciTgU91LP) | [I don't run wild](https://open.spotify.com/album/4k0COw2BBK7bZ0jYUSZNS4) | 4:04 |
+| 60 | [I don't run wild](https://open.spotify.com/track/5ZSoXMCJIvxUQas0ZLGhJE) | [Kyara Shereen](https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q), [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv) | [I don't run wild](https://open.spotify.com/album/4k0COw2BBK7bZ0jYUSZNS4) | 4:04 |
 | 61 | [Drifté](https://open.spotify.com/track/2RhLQNIhtQRPU2I2ExxBS3) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Sincèrement](https://open.spotify.com/album/573smzehvvzd4Nl5QoW1MW) | 2:40 |
 | 62 | [Free](https://open.spotify.com/track/5oxqtbOcGrtngCmVBKO50i) | [Yacn](https://open.spotify.com/artist/1GJs903cqCxvcxyLoKTeDH) | [Free](https://open.spotify.com/album/2tGQUAYe9tAv0cb5FyZPxp) | 2:09 |
 | 63 | [Head In The Ground](https://open.spotify.com/track/1kbUDBZ6ORICXCXZAQCQq2) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT) | [Head In The Ground](https://open.spotify.com/album/4eCIhpR9BlftjlDWb1t0WD) | 2:55 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 95 | [Moet Je Niet Willen](https://open.spotify.com/track/1yo67eiis9YI3rU7xXbaSR) | [Primaat](https://open.spotify.com/artist/6J0yzuCa1ID2YLUAk4gT3u) | [Moet Je Niet Willen](https://open.spotify.com/album/5OI64khgKqT7ft5GAgK2MH) | 3:02 |
 | 96 | [BAD](https://open.spotify.com/track/7HJ36tzl7OSLgFeRuCNvdZ) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Novak](https://open.spotify.com/artist/4RqAxYmN6sJO2Ty0tJ2RMy) | [BAD](https://open.spotify.com/album/1EzcPlcG2jDgxZE7TuHVdR) | 2:21 |
 
-Snapshot ID: `MCxlN2I2MWVkZDg4OTQxZjZkMzAyMTlkNjIzNzFhMDgzZWE4Y2ZiOWM5`
+Snapshot ID: `MCw0ZWM3MjMyM2M0MjMwMjY2ODJiN2U2MTBiZmUzYzU1ODgyZTkxODU2`

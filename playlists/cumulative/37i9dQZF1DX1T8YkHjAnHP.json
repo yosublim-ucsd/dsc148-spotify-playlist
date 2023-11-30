@@ -454,7 +454,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 465743,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/0G4QCpJMA6u8MGXxzg4gm9"
@@ -840,7 +840,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 199375,
       "name": "Duma - Radio Edit",
       "url": "https://open.spotify.com/track/2IEeAoSJiLCpgs05oTqqfn"
@@ -1043,6 +1043,28 @@
     },
     {
       "album": {
+        "name": "Temple Of Dreams (Remixes Part 4)",
+        "url": "https://open.spotify.com/album/6AFxHL0dUCQfFf0f03nvOJ"
+      },
+      "artists": [
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        },
+        {
+          "name": "Harry Romero",
+          "url": "https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205161,
+      "name": "Flore Chico (feat. Chico Castillo) - Harry Romero Remix",
+      "url": "https://open.spotify.com/track/0bMG2O0EVDSDuzha6iNyCI"
+    },
+    {
+      "album": {
         "name": "Inconformisme EP",
         "url": "https://open.spotify.com/album/2g3Xn9WFQDO161ap711YFy"
       },
@@ -1072,10 +1094,32 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-07",
+      "date_removed": null,
       "duration_ms": 277894,
       "name": "Fortune Teller",
       "url": "https://open.spotify.com/track/1t8Q66Stnzgm6VExvVmNHG"
+    },
+    {
+      "album": {
+        "name": "Temple Of Dreams (Remixes Part 4)",
+        "url": "https://open.spotify.com/album/6AFxHL0dUCQfFf0f03nvOJ"
+      },
+      "artists": [
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        },
+        {
+          "name": "Anja Schneider",
+          "url": "https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200059,
+      "name": "Fortune Teller - Anja Schneider Remix",
+      "url": "https://open.spotify.com/track/05OpsHtJMGFkjds655hsAS"
     },
     {
       "album": {
@@ -1623,6 +1667,24 @@
     },
     {
       "album": {
+        "name": "Last Night",
+        "url": "https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB"
+      },
+      "artists": [
+        {
+          "name": "Loofy",
+          "url": "https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169302,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN"
+    },
+    {
+      "album": {
         "name": "Second Chances & New Romances, Vol. 3",
         "url": "https://open.spotify.com/album/5pl7NFIfAxNkMtPcUL0lnJ"
       },
@@ -1638,7 +1700,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 460800,
       "name": "Leadbelly",
       "url": "https://open.spotify.com/track/0PQjbbMtd13OPeKm9FvyGr"
@@ -1692,7 +1754,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 724043,
       "name": "M.I.T.T.",
       "url": "https://open.spotify.com/track/3YpkOkDGJd7FObXEPsqacg"
@@ -1806,7 +1868,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-07",
+      "date_removed": null,
       "duration_ms": 305345,
       "name": "Medieval",
       "url": "https://open.spotify.com/track/2BME859AuqQFpHSNvSpqWN"
@@ -2291,6 +2353,24 @@
     },
     {
       "album": {
+        "name": "Get Down EP",
+        "url": "https://open.spotify.com/album/1GiStB0oGRElP49xAQo2A3"
+      },
+      "artists": [
+        {
+          "name": "Bontan",
+          "url": "https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345815,
+      "name": "Purple Rose",
+      "url": "https://open.spotify.com/track/16fW4Z3Czn1XN3qc8SqstW"
+    },
+    {
+      "album": {
         "name": "Que Lo Que",
         "url": "https://open.spotify.com/album/7LjzvsJT0ImNudTh8SDaQE"
       },
@@ -2466,7 +2546,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-07",
+      "date_removed": null,
       "duration_ms": 273488,
       "name": "Rise And Fall",
       "url": "https://open.spotify.com/track/4zjDcQXCyGUOEXL1LiwELj"
@@ -2612,6 +2692,28 @@
       "duration_ms": 183307,
       "name": "Sirocco",
       "url": "https://open.spotify.com/track/45FKshmWlKziZFcb4vajXH"
+    },
+    {
+      "album": {
+        "name": "Soul Rain (Incl. Paco Osuna RMX)",
+        "url": "https://open.spotify.com/album/13tXtbjF5QUY6CtpWPmboF"
+      },
+      "artists": [
+        {
+          "name": "Pablo Cahn",
+          "url": "https://open.spotify.com/artist/6pGnwCBvcT0yrLeBY5WQWa"
+        },
+        {
+          "name": "Paco Osuna",
+          "url": "https://open.spotify.com/artist/6vdIozDDsH4uJEAHN8tyS3"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 485027,
+      "name": "Soul Rain - Paco Osuna Remix",
+      "url": "https://open.spotify.com/track/3hZfZwNQ5tAxMiQCYlbe25"
     },
     {
       "album": {
@@ -3008,7 +3110,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 219840,
       "name": "Try",
       "url": "https://open.spotify.com/track/12Pnf23BSnTZTTOOrzYBIu"
@@ -3222,7 +3324,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-07",
+      "date_removed": null,
       "duration_ms": 314181,
       "name": "Wash Away",
       "url": "https://open.spotify.com/track/3QL6Q8HFEhAURfU5AqOBj7"

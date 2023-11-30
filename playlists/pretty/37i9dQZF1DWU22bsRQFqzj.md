@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU22bsRQFqzj.md) - [plain]
 
 > La musica è la tua marcia in più! 🏃 Hit dance e pop per le tue sessioni di cardio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,824 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,881 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU22bsRQFqzj.md) - [plain]
 | 74 | [Quédate \- Tiësto Remix](https://open.spotify.com/track/79wDq3jpGu0yew1ngQpAAi) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Quédate \(Tiësto Remix\)](https://open.spotify.com/album/5IZcEkLkf0oQNFlgFGocxr) | 3:52 |
 | 75 | [Do It To It \- Tiësto Remix](https://open.spotify.com/track/2XKsHHNCtKqk9cF35TRFyC) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It \(Tiësto Remix\)](https://open.spotify.com/album/19WRWWmZJvhypam9o6heVJ) | 2:05 |
 
-Snapshot ID: `MCxmM2RjMTFmYjlkYTgzYzE0Nzk3OTZhMWMyY2FhMzViMmM4YTNlMmNm`
+Snapshot ID: `MCwyMGQ1M2FmNDJkNGUxMTc2NTlkM2YyNDIwZjViNjkwOWJjZjA3NWFi`

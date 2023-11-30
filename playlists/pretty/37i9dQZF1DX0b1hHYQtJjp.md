@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b1hHYQtJjp.md) - [plain]
 
 > Recent hits and new songs from your fave artists\. Cover: Jonas Brothers & Bailey Zimmerman
 
-[Spotify](https://open.spotify.com/user/spotify) - 866,983 likes - 79 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 866,973 likes - 79 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b1hHYQtJjp.md) - [plain]
 | 78 | [I Wanna Dance With Somebody \- Who Loves Me](https://open.spotify.com/track/0cgFnx6yIVv3RrqXlZTiGZ) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/album/32eU7uDLs7JNgYXoFtG2AW) | 3:23 |
 | 79 | [Stronger \(Grey's Anatomy Version\)](https://open.spotify.com/track/2h444Cn1pbZjKPD4jbjY3E) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Stronger](https://open.spotify.com/album/4KrEjdnGDVtiRyZ4poxNTk) | 2:59 |
 
-Snapshot ID: `MCwwOGVjMTJhYzgwOWI0ZmNkNGMzOGZhNmExYTRjNDdmYzk0ZGU4Mzdi`
+Snapshot ID: `MCxhOTc5YzAxNDBlOTYxYWVmZWQxMWE1ZThkN2MyY2FhN2YwMjgyOGVk`

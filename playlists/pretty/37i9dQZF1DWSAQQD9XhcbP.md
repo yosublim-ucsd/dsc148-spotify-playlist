@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAQQD9XhcbP.md) - [plain]
 
 > Cozy Christmas vibes\. Cover: Norah Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,060 likes - 85 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,577 likes - 85 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAQQD9XhcbP.md) - [plain]
 | 3 | [I'll Be Home For Christmas \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4G0YpYB1Ullb5rgJeJoMcP) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Spotify Singles \- Holiday](https://open.spotify.com/album/2kpdorrZmanV015tDKqZY1) | 3:26 |
 | 4 | [Silver Bells \(feat\. Naturally 7\)](https://open.spotify.com/track/2dnNCViz7wU5FclmN5KcT2) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [Naturally 7](https://open.spotify.com/artist/769D3IwCDrdPospAd3Hlpi) | [Christmas \(Deluxe 10th Anniversary Edition\)](https://open.spotify.com/album/0FHpjWlnUmplF5ciL84Wpa) | 3:09 |
 | 5 | [The Christmas Waltz](https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd) | 2:47 |
-| 6 | [Hard Candy Christmas](https://open.spotify.com/track/6V5MkZb6BkvfcppHRO8zvf) | [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Hard Candy Christmas](https://open.spotify.com/album/3etDoLyTmP4B9CFJj7rsiz) | 3:28 |
+| 6 | [Hard Candy Christmas](https://open.spotify.com/track/5OotiuR5xoCmLqeq1P8PFn) | [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Hard Candy Christmas](https://open.spotify.com/album/29bRAOozywfaeNNM3hQi2r) | 3:28 |
 | 7 | [It's The Most Wonderful Time Of The Year](https://open.spotify.com/track/2AYgvrtpFIbF6Fkb02WVZ6) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Merry Christmas, Y’all](https://open.spotify.com/album/23PILNfWCzNg9M4tSpBoaA) | 2:56 |
 | 8 | [White Christmas \- Spotify Singles \- Christmas, Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/71azyw4EJDlGru5Uw6DGzT) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [White Christmas \(Spotify Singles \- Christmas, Recorded at Sound Stage Studios Nashville\)](https://open.spotify.com/album/4khvhw7hfvRpSU1EokuED4) | 3:14 |
 | 9 | [This Christmas](https://open.spotify.com/track/69ICDnEzZqopqoQ7LG2e2u) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [This Christmas](https://open.spotify.com/album/1NWj1i8hK3e08JDDrKkVLL) | 2:27 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAQQD9XhcbP.md) - [plain]
 | 84 | [Kissin' In The Cold](https://open.spotify.com/track/2nZq5WQOW4FEPxCVTdNGfB) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kissin' In The Cold](https://open.spotify.com/album/1HsifiywuteSStUutGfkpO) | 3:44 |
 | 85 | [The Lighthouse Keeper](https://open.spotify.com/track/2WUVQQAsWvScEdBVilRYaR) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Lighthouse Keeper](https://open.spotify.com/album/30Nf68hbXjDvoacY0K5fFB) | 4:07 |
 
-Snapshot ID: `MCw3MmNmZjVjMTQ5NDVmNWJiZWI2OWZiMzI5YmY1ZTc2OTczYzdhZmVj`
+Snapshot ID: `MCw5YjhiMjkyOGE2OWFjOWUxMDMyMDJhN2NkYjQwNmZjZWVjZDYwYzY0`

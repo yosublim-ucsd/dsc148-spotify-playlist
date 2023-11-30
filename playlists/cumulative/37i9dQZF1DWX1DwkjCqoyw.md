@@ -4,7 +4,7 @@
 
 > The biggest crossover songs from the islands all in one place\. Cover: Shaggy
 
-137 songs - 6 hr 55 min
+138 songs - 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Dog Bite](https://open.spotify.com/track/7tazJKabwp7AqcYZCLZqrS) | [King Bubba Fm](https://open.spotify.com/artist/5c0GuKNlRiK90pq5FPaR78) | [Olympic Riddim](https://open.spotify.com/album/4hdMmJrcEsaEHykt6vQqrR) | 3:19 | 2021-12-20 | 2022-02-25 |
 | [Dolly](https://open.spotify.com/track/6s4QPMUt2zPoiFb9pjvdZi) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Dolly](https://open.spotify.com/album/7FRco0qMlKJIG6zCWKunqD) | 2:16 | 2022-08-18 | 2023-05-16 |
 | [DUNCE BARBIE](https://open.spotify.com/track/2I1fpOTZmVr6ATXe6fCTXI) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey), [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc) | [Dunce Barbie](https://open.spotify.com/album/6jwIFkOJ1blyCR0hzsY0MP) | 2:45 | 2023-05-15 |  |
-| [Energy](https://open.spotify.com/track/60NWySy9UQUs0uhkW8KG3L) | [Mystic Marley](https://open.spotify.com/artist/5WhXMSMSiOyEhXBNI6Lf2h) | [Energy](https://open.spotify.com/album/1ugvgS5zZC3YizYlhJ8TBf) | 2:37 | 2023-05-15 |  |
+| [Energy](https://open.spotify.com/track/60NWySy9UQUs0uhkW8KG3L) | [Mystic Marley](https://open.spotify.com/artist/5WhXMSMSiOyEhXBNI6Lf2h) | [Energy](https://open.spotify.com/album/1ugvgS5zZC3YizYlhJ8TBf) | 2:37 | 2023-05-15 | 2023-11-30 |
+| [Energy](https://open.spotify.com/track/6iH3aLFWxvjl4XfoDPfpNP) | [Mystic Marley](https://open.spotify.com/artist/5WhXMSMSiOyEhXBNI6Lf2h) | [Energy](https://open.spotify.com/album/3ecvu0AVEQIUFEIrC2Cjgb) | 2:37 | 2023-05-16 |  |
 | [Feelings](https://open.spotify.com/track/2KzIR1FI5GLsF5UK2HF73L) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Feelings](https://open.spotify.com/album/2pW2gzJ33UZYvkBurZaF1r) | 3:22 | 2022-02-24 | 2022-08-19 |
 | [Feelings \(Remix\)](https://open.spotify.com/track/5Bij2gXhLEUUxyPGcZZFFj) | [D'yani](https://open.spotify.com/artist/3c4mJY5ixVvzRBdYvBtxci), [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Feelings \(Remix\)](https://open.spotify.com/album/3DgIXwqAlgbDSIJZhLj3ba) | 3:37 | 2021-12-20 |  |
 | [Finesse](https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1) | 2:35 | 2022-08-18 |  |

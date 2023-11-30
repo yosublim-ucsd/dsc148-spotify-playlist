@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0PYkdiz2e8k.md) - [plain]
 
 > Hated is out! Foto: YUNGBLUD
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,381 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,514 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0PYkdiz2e8k.md) - [plain]
 | 30 | [Confident \- Rock Version](https://open.spotify.com/track/1bQl53TZeNOWKuRdihOHx0) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Confident \(Rock Version\)](https://open.spotify.com/album/3kGLuBEi0kaIgJI9AtmiP1) | 3:25 |
 | 31 | [RED](https://open.spotify.com/track/66Rl6HThnoHCRRVCUbslIG) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [RED](https://open.spotify.com/album/6jS6EMy8bdawl6dbBzag1X) | 3:54 |
 | 32 | [Three Minutes More](https://open.spotify.com/track/08CL08RywVhA1HQteJHuT3) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf), [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Three Minutes More](https://open.spotify.com/album/4Ht4iaL8A3DwlmiduQLWNX) | 3:23 |
-| 33 | [Kiss Ur Face Forever](https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Kiss Ur Face Forever](https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s) | 2:46 |
-| 34 | [Backtrack](https://open.spotify.com/track/6XFtHhrlPKL4qEVDVMOcd6) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Backtrack](https://open.spotify.com/album/0X3WVWpooMcgdYUCGQDzJy) | 2:38 |
+| 33 | [Backtrack](https://open.spotify.com/track/6XFtHhrlPKL4qEVDVMOcd6) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Backtrack](https://open.spotify.com/album/0X3WVWpooMcgdYUCGQDzJy) | 2:38 |
+| 34 | [Kiss Ur Face Forever](https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Kiss Ur Face Forever](https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s) | 2:46 |
 | 35 | [Irish Goodbye \(feat\. Vic Fuentes of Pierce The Veil\)](https://open.spotify.com/track/2BtFhZlm9Sz5FAiYIjChUl) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr), [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Irish Goodbye \(feat\. Vic Fuentes of Pierce The Veil\)](https://open.spotify.com/album/523PqkfY2F5mtL1Rdg0g84) | 3:02 |
 | 36 | [ur just horny](https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [ur just horny](https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A) | 2:58 |
 | 37 | [<maybe> it's my fault](https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<maybe> it's my fault](https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0PYkdiz2e8k.md) - [plain]
 | 49 | [indieedgycool](https://open.spotify.com/track/1wo8pUckwcg6yQmwSuepvX) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [hello this is the setlist for my tour](https://open.spotify.com/album/1jUrf0KNgZirx7g7672X0s) | 2:26 |
 | 50 | [fmk \(with blackbear\) \- messier](https://open.spotify.com/track/5CO8EbwcxnvA28O7NCDKfJ) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [fmk \(with blackbear\) \[messier\]](https://open.spotify.com/album/6awuYwlqz9cN5h3yCOffbg) | 3:06 |
 
-Snapshot ID: `MCw2Y2E3YjlhMjczNTY0MzNiZDAwNTBhYjYzZTY0ZWQ2OGU3MDc2MTc1`
+Snapshot ID: `MCwyMjRhYmE5NzZiOTM3ODQ4MjY3MTBiNWE2YTc3MGNiNDdiNjEzZDdm`

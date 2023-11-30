@@ -4,7 +4,7 @@
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Nerissima Serpe
 
-829 songs - 1 day 12 hr 6 min
+830 songs - 1 day 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,7 +358,7 @@
 | [Impliqué](https://open.spotify.com/track/1w6tgbznwNUxacR6bTAYxY) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [Impliqué](https://open.spotify.com/album/5fgtL0uuUrVb3bdI6UIKhC) | 2:28 | 2022-12-15 | 2023-04-21 |
 | [In 2 Sulla Moto](https://open.spotify.com/track/6M0grxjyfbfKvQu2Tg4cM7) | [LJK](https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd) | [In 2 Sulla Moto](https://open.spotify.com/album/1bSg1N33JDAwo4jHlrVhhb) | 2:30 | 2023-07-06 | 2023-07-28 |
 | [IN PIÙ](https://open.spotify.com/track/4qanxGjKd2ts4MvOkcDTIp) | [Security](https://open.spotify.com/artist/7MKJc8WAYeq779QzmWPzlw), [Gengar](https://open.spotify.com/artist/6QeMwZYfi1MkcKcQadFK05) | [BLK](https://open.spotify.com/album/2lKYVgw0G8FChnrXbFmYWs) | 3:14 | 2022-10-20 | 2022-11-11 |
-| [In Silenzio](https://open.spotify.com/track/5rgFC6gPgSen5E6a9gpmks) | [KAYLER](https://open.spotify.com/artist/3RfIKCBcJ6Nb7OLrk2fV4S), [Dr\. Wesh](https://open.spotify.com/artist/5qTA5yhqkIYIwFNwdCLFP0) | [In Silenzio](https://open.spotify.com/album/0hTsRDnkp8F78lJfSuQNlU) | 1:44 | 2023-11-09 |  |
+| [In Silenzio](https://open.spotify.com/track/5rgFC6gPgSen5E6a9gpmks) | [KAYLER](https://open.spotify.com/artist/3RfIKCBcJ6Nb7OLrk2fV4S), [Dr\. Wesh](https://open.spotify.com/artist/5qTA5yhqkIYIwFNwdCLFP0) | [In Silenzio](https://open.spotify.com/album/0hTsRDnkp8F78lJfSuQNlU) | 1:44 | 2023-11-09 | 2023-11-30 |
 | [In una bara](https://open.spotify.com/track/2uVwlsxxHMJw5BHYLo0kRj) | [Not Good](https://open.spotify.com/artist/1PG5WX3LZJHM4p6HO4qMq8) | [Vero Liricista](https://open.spotify.com/album/12cQXC8ieSjXMEPvklwXmF) | 2:25 | 2022-05-19 | 2022-07-01 |
 | [Inchiostro sulla face \(feat\. MamboLosco\)](https://open.spotify.com/track/04bOah0UkqeUKrqc4QUalZ) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [Dark Days](https://open.spotify.com/album/4KLl1gfpWPK2orHkhyyAVH) | 3:36 | 2022-06-16 | 2022-07-01 |
 | [INFERNO](https://open.spotify.com/track/5jz7OO7VT8eWmWW9dBTBRD) | [Radical](https://open.spotify.com/artist/4k6hMjEI3XFfMcRLCa9yd3) | [INFERNO](https://open.spotify.com/album/1XnwJ4yuT6F0rjcGVjEZz0) | 1:32 | 2023-09-28 | 2023-10-13 |
@@ -556,6 +556,7 @@
 | [OH MIO DIO](https://open.spotify.com/track/4oy0YfpS0jl68DD0QBNyzX) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt), [Ago](https://open.spotify.com/artist/6glXq3t35awYBHo1b96imY) | [OH MIO DIO](https://open.spotify.com/album/5zFDxiDnv7dk7xmcwpfjVO) | 1:52 | 2023-08-31 | 2023-10-06 |
 | [Oh Mà](https://open.spotify.com/track/5x629g2VVGrBWUR2DSRVhg) | [Kalash247](https://open.spotify.com/artist/0uWqSeCUMHjnUwa3Ia3ZcL) | [Oh Mà](https://open.spotify.com/album/0CS2ggLHqLMTbotnb1Hney) | 2:37 | 2023-02-16 | 2023-05-19 |
 | [Ohh mama](https://open.spotify.com/track/6x5Onig2VvZR96vzD5QG5B) | [hmizo](https://open.spotify.com/artist/364qkrUT2TKnSW6YmIfeai) | [Ohh mama](https://open.spotify.com/album/0RbUmgxIWpKBzywTnnMdZR) | 2:44 | 2023-03-23 | 2023-03-31 |
+| [OLLARE](https://open.spotify.com/track/3a69j3abFyDFkXehj2dnSR) | [Sapobully](https://open.spotify.com/artist/2u5doTfPeC2gnLwislKGLE) | [OLLARE](https://open.spotify.com/album/1GImvWb34QIw4Ps0ISx540) | 3:13 | 2023-11-29 |  |
 | [OMC 1](https://open.spotify.com/track/4qrX0dnwtzWmr2d9Tq1B2a) | [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768) | [OMC 1](https://open.spotify.com/album/3lv09vp2TtuXze4OoezrXh) | 1:46 | 2022-09-01 | 2022-09-30 |
 | [OMC 2](https://open.spotify.com/track/3nMLwOUE2U8KWOMWZK7ve6) | [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768) | [OMC 2](https://open.spotify.com/album/2Jdeflesd2uNZJ6DKTlEIq) | 2:26 | 2022-09-29 | 2022-10-14 |
 | [ONE SHOT](https://open.spotify.com/track/3q9xch4Q3OoEvOqSZ14xgh) | [Fata](https://open.spotify.com/artist/2e0HLVyPlF5jP9khNWfV3m) | [ONE SHOT](https://open.spotify.com/album/2X7c0HR5EVzB8dHrYN0DrA) | 2:51 | 2023-09-07 | 2023-09-29 |

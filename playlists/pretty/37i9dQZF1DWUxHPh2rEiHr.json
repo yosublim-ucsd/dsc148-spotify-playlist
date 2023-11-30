@@ -1,12 +1,12 @@
 {
   "description": "Discover rhythmic crossover hits from cultures around the world. Cover: Tyla",
-  "num_followers": 494531,
+  "num_followers": 494579,
   "original_name": "Global X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzQ4MDU1ODg2OTE3NGRkMWJkMzA0ZWNkMGY4MGIxODIxOWViZjBh",
+  "snapshot_id": "MCw0YzI0ZDJhZWM2NjQ1YzNlMjI1ZTE4ODI2ZmE4M2E0ZmE1ODM1OTcw",
   "tracks": [
     {
       "added_at": "2023-11-24 05:00:00",
@@ -547,22 +547,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Ella Baila Sola",
-        "url": "https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU"
+        "name": "SNAP",
+        "url": "https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR"
       },
       "artists": [
         {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
         }
       ],
-      "duration_ms": 165671,
-      "name": "Ella Baila Sola",
-      "url": "https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb"
+      "duration_ms": 179551,
+      "name": "SNAP",
+      "url": "https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -583,18 +579,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "SNAP",
-        "url": "https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR"
+        "name": "Ella Baila Sola",
+        "url": "https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU"
       },
       "artists": [
         {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 179551,
-      "name": "SNAP",
-      "url": "https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc"
+      "duration_ms": 165671,
+      "name": "Ella Baila Sola",
+      "url": "https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 187557,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "un x100to",
         "url": "https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 194563,
       "name": "un x100to",
       "url": "https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 187557,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -839,26 +839,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "3MEN2 KBRN",
-        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 208125,
-      "name": "Coco Chanel",
-      "url": "https://open.spotify.com/track/0PB0O24JqAuNdOAFVJljMS"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 163551,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/3RA55zrRkyPK8Fd86hrMy8"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "3MEN2 KBRN",
+        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 208125,
+      "name": "Coco Chanel",
+      "url": "https://open.spotify.com/track/0PB0O24JqAuNdOAFVJljMS"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "ERE",
-        "url": "https://open.spotify.com/album/5Rg4hF4geeE5e01y7Z1JfD"
-      },
-      "artists": [
-        {
-          "name": "juan karlos",
-          "url": "https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ"
-        }
-      ],
-      "duration_ms": 284812,
-      "name": "ERE",
-      "url": "https://open.spotify.com/track/0SuQMjb2TleiKg1ebQSDnX"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Resistencia",
         "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 216148,
       "name": "Yandel 150",
       "url": "https://open.spotify.com/track/4FAKtPVycI4DxoOHC01YqD"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "ERE",
+        "url": "https://open.spotify.com/album/5Rg4hF4geeE5e01y7Z1JfD"
+      },
+      "artists": [
+        {
+          "name": "juan karlos",
+          "url": "https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ"
+        }
+      ],
+      "duration_ms": 284812,
+      "name": "ERE",
+      "url": "https://open.spotify.com/track/0SuQMjb2TleiKg1ebQSDnX"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Paradise Again",
-        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Moth To A Flame (with The Weeknd)",
-      "url": "https://open.spotify.com/track/0VO8gYVDSwM1Qdd2GsMoYK"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Hass Hass",
         "url": "https://open.spotify.com/album/7F8VISoJUWFEY57b66QZxC"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 153016,
       "name": "Hass Hass",
       "url": "https://open.spotify.com/track/72vuBPMhwFNlSYpTSf6fVD"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Paradise Again",
+        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Moth To A Flame (with The Weeknd)",
+      "url": "https://open.spotify.com/track/0VO8gYVDSwM1Qdd2GsMoYK"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Lisa",
+        "url": "https://open.spotify.com/album/2jy7QlJB9hWgYsajBv4IOt"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 159306,
+      "name": "Lisa",
+      "url": "https://open.spotify.com/track/44FzVABpR2cciquTqADA0D"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Rauw Alejandro: Bzrp Music Sessions, Vol. 56",
         "url": "https://open.spotify.com/album/6N4eyhCAqaGoT3lcEpzBmf"
       },
@@ -1399,18 +1415,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Lisa",
-        "url": "https://open.spotify.com/album/2jy7QlJB9hWgYsajBv4IOt"
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
       },
       "artists": [
         {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 159306,
-      "name": "Lisa",
-      "url": "https://open.spotify.com/track/44FzVABpR2cciquTqADA0D"
+      "duration_ms": 172342,
+      "name": "Last Last",
+      "url": "https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1435,22 +1451,6 @@
       "duration_ms": 201391,
       "name": "Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack]",
       "url": "https://open.spotify.com/track/1RDvyOk4WtPCtoqciJwVn8"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 172342,
-      "name": "Last Last",
-      "url": "https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ"
     },
     {
       "added_at": "2023-11-24 05:00:00",

@@ -464,7 +464,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
@@ -592,7 +592,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 179161,
       "name": "Desire (with Sam Smith)",
       "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
@@ -687,6 +687,32 @@
     },
     {
       "album": {
+        "name": "Dreaming",
+        "url": "https://open.spotify.com/album/7msKLkViyWdF6X3QdlC6wK"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        },
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170261,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/4NUmZ5svM1Bbmaz5udqUeJ"
+    },
+    {
+      "album": {
         "name": "Emorio",
         "url": "https://open.spotify.com/album/3yP0Nsb8jyXY4HMNb6tkO9"
       },
@@ -706,6 +732,24 @@
       "duration_ms": 163840,
       "name": "Emorio",
       "url": "https://open.spotify.com/track/14VthBnru6kiREQUYAuNSL"
+    },
+    {
+      "album": {
+        "name": "Rupture 2 merde",
+        "url": "https://open.spotify.com/album/7gKZ1HukHMcMI5PYQNMIWy"
+      },
+      "artists": [
+        {
+          "name": "Therapie TAXI",
+          "url": "https://open.spotify.com/artist/5MynxBz4ZMqvUzpcxTZl4C"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192613,
+      "name": "Et\u00e9 90",
+      "url": "https://open.spotify.com/track/1p9dxTMtG4gZpLp7yzvT54"
     },
     {
       "album": {
@@ -1016,10 +1060,32 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 182857,
       "name": "Iko Iko (My Bestie)",
       "url": "https://open.spotify.com/track/7MC4XR9M9amdmKQr2iDF7i"
+    },
+    {
+      "album": {
+        "name": "Il y a",
+        "url": "https://open.spotify.com/album/55RuSf55f21hk6VLj55JYs"
+      },
+      "artists": [
+        {
+          "name": "Amir",
+          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205365,
+      "name": "Il y a",
+      "url": "https://open.spotify.com/track/5H3s6pH2SQsp6a0n8k0BrW"
     },
     {
       "album": {
@@ -1056,7 +1122,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 143669,
       "name": "Is It Love",
       "url": "https://open.spotify.com/track/5JEzgajKcC4eIQfRu3cZk7"
@@ -1291,6 +1357,24 @@
     },
     {
       "album": {
+        "name": "Life Is Life (C'est la vie)",
+        "url": "https://open.spotify.com/album/0wGjk4xe1uiNbW3DxehqNy"
+      },
+      "artists": [
+        {
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145525,
+      "name": "Life Is Life (C'est la vie)",
+      "url": "https://open.spotify.com/track/1ds4c5ehLBwn8PEghUMbTl"
+    },
+    {
+      "album": {
         "name": "Lil Boo Thang",
         "url": "https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c"
       },
@@ -1462,7 +1546,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 201160,
       "name": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
       "url": "https://open.spotify.com/track/7LcfRTgAVTs5pQGEQgUEzN"
@@ -1538,7 +1622,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 169946,
       "name": "Never Going Home",
       "url": "https://open.spotify.com/track/6ju5Ntn5pYksvkKxVkjEPK"
@@ -1560,6 +1644,28 @@
       "duration_ms": 162587,
       "name": "Never Look Back",
       "url": "https://open.spotify.com/track/3K3bZDkHev8R7Clcqs2u8M"
+    },
+    {
+      "album": {
+        "name": "On My Love",
+        "url": "https://open.spotify.com/album/1NoYjCb7ReBR4kfmjntHTi"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222911,
+      "name": "On My Love",
+      "url": "https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN"
     },
     {
       "album": {
@@ -1652,6 +1758,24 @@
       "duration_ms": 222295,
       "name": "Premier Gaou - Nitefreak Remix",
       "url": "https://open.spotify.com/track/57e5ib2PnvuiaTvaI4jGDp"
+    },
+    {
+      "album": {
+        "name": "R.O.O.T.S. (Route of Overcoming the Struggle)",
+        "url": "https://open.spotify.com/album/2vBLKFrI1rZqB7VtGxcsR5"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204640,
+      "name": "Right Round",
+      "url": "https://open.spotify.com/track/3GpbwCm3YxiWDvy29Uo3vP"
     },
     {
       "album": {
@@ -1856,7 +1980,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 181786,
       "name": "SKEU SKEU (feat. wilsko & 7ia)",
       "url": "https://open.spotify.com/track/0sZEwII5Qe3r7izOgdOvLT"
@@ -1878,6 +2002,28 @@
       "duration_ms": 148124,
       "name": "Some Kind Of Kiss",
       "url": "https://open.spotify.com/track/2xsRIYRAC0mXttKR4sZscl"
+    },
+    {
+      "album": {
+        "name": "The Papercut Chronicles II",
+        "url": "https://open.spotify.com/album/2mumCpGmuE9iDeOvMx6XrB"
+      },
+      "artists": [
+        {
+          "name": "Gym Class Heroes",
+          "url": "https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli"
+        },
+        {
+          "name": "Adam Levine",
+          "url": "https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210960,
+      "name": "Stereo Hearts (feat. Adam Levine)",
+      "url": "https://open.spotify.com/track/0qOnSQQF0yzuPWsXrQ9paz"
     },
     {
       "album": {
@@ -2234,7 +2380,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 178156,
       "name": "Vois sur ton chemin - Techno Mix",
       "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
@@ -2354,6 +2500,24 @@
       "duration_ms": 214480,
       "name": "Work from Home (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/4tCtwWceOPWzenK2HAIJSb"
+    },
+    {
+      "album": {
+        "name": "You Keep Me Hangin' On",
+        "url": "https://open.spotify.com/album/2LQwEkWtjKtUacX1uaw0PF"
+      },
+      "artists": [
+        {
+          "name": "Sound Of Legend",
+          "url": "https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162440,
+      "name": "You Keep Me Hangin' On",
+      "url": "https://open.spotify.com/track/2B65GgIvpaodTEPWLxUzLz"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8685vIIepKh"

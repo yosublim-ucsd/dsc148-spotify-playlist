@@ -11876,24 +11876,6 @@
     {
       "album": {
         "name": "Easy Greasy",
-        "url": "https://open.spotify.com/album/3TMU1qtNiq9C9y3GlWvyPx"
-      },
-      "artists": [
-        {
-          "name": "Gentle",
-          "url": "https://open.spotify.com/artist/4J5A7WeY47c1F2HmaYBpOK"
-        }
-      ],
-      "date_added": "2022-07-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 208319,
-      "name": "Easy Greasy, Pt. 1",
-      "url": "https://open.spotify.com/track/3pazqZ3akYInpPcjnjiKFf"
-    },
-    {
-      "album": {
-        "name": "Easy Greasy",
         "url": "https://open.spotify.com/album/48BRA4KiEUo2zGVXOSCo3d"
       },
       "artists": [
@@ -11908,6 +11890,28 @@
       "duration_ms": 208319,
       "name": "Easy Greasy, Pt. 1",
       "url": "https://open.spotify.com/track/6EJBgSePiBgh7rN7srsxrm"
+    },
+    {
+      "album": {
+        "name": "Easy Greasy",
+        "url": "https://open.spotify.com/album/3TMU1qtNiq9C9y3GlWvyPx"
+      },
+      "artists": [
+        {
+          "name": "Gentle",
+          "url": "https://open.spotify.com/artist/4J5A7WeY47c1F2HmaYBpOK"
+        },
+        {
+          "name": "Janion",
+          "url": "https://open.spotify.com/artist/04mv5tetTKmfmtf4TNzOa9"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208319,
+      "name": "Easy Greasy, Pt. 1",
+      "url": "https://open.spotify.com/track/3pazqZ3akYInpPcjnjiKFf"
     },
     {
       "album": {
@@ -34334,6 +34338,32 @@
       "duration_ms": 167233,
       "name": "Stories??",
       "url": "https://open.spotify.com/track/2sQpHRF6hpyCYenzOjinr4"
+    },
+    {
+      "album": {
+        "name": "Sua Pele",
+        "url": "https://open.spotify.com/album/60HwSfREMsWDXK6wJthEj7"
+      },
+      "artists": [
+        {
+          "name": "iZem",
+          "url": "https://open.spotify.com/artist/2dJpwMtmOBr9ad4D7vRf2r"
+        },
+        {
+          "name": "Flavia Coelho",
+          "url": "https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc"
+        },
+        {
+          "name": "LUIZA",
+          "url": "https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226176,
+      "name": "Sua Pele",
+      "url": "https://open.spotify.com/track/0m0TazZcn82i5uRlesEW32"
     },
     {
       "album": {

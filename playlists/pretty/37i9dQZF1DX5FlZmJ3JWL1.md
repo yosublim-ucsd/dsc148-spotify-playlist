@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 
 > Let's go! 💪
 
-[Spotify](https://open.spotify.com/user/spotify) - 724,143 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 724,424 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 19 | [Turn All The Lights On](https://open.spotify.com/track/3AxoLYBDzx5hTCSJR2W4i9) | [Valexus](https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1) | [Turn All The Lights On](https://open.spotify.com/album/2So8QRALJzGvefJp86htBu) | 2:17 |
 | 20 | [Sweat](https://open.spotify.com/track/2uoaR6QNRYMB0zu0cUcM65) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx) | [Sweat](https://open.spotify.com/album/0s6xr1TAPOzNXYNEmlHksU) | 2:12 |
 | 21 | [Rhyme Dust](https://open.spotify.com/track/5mKiwDDrwG22qKKVL6JZqF) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Rhyme Dust](https://open.spotify.com/album/53MYxcczbSWNjO6KIG5DuG) | 3:01 |
-| 22 | [My Humps](https://open.spotify.com/track/3BbD2sqk7P7Rc9V0KF9o4s) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip) | [My Humps](https://open.spotify.com/album/4mnGRL7lErjyRJsoCwgJT4) | 3:06 |
-| 23 | [Do It To It \- Tiësto Remix](https://open.spotify.com/track/2XKsHHNCtKqk9cF35TRFyC) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It \(Tiësto Remix\)](https://open.spotify.com/album/19WRWWmZJvhypam9o6heVJ) | 2:05 |
+| 22 | [Do It To It \- Tiësto Remix](https://open.spotify.com/track/2XKsHHNCtKqk9cF35TRFyC) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It \(Tiësto Remix\)](https://open.spotify.com/album/19WRWWmZJvhypam9o6heVJ) | 2:05 |
+| 23 | [My Humps](https://open.spotify.com/track/3BbD2sqk7P7Rc9V0KF9o4s) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip) | [My Humps](https://open.spotify.com/album/4mnGRL7lErjyRJsoCwgJT4) | 3:06 |
 | 24 | [We Are The People \- southstar Remix](https://open.spotify.com/track/3vLMN02wGnPBdjRVvewedS) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [We Are The People \(southstar Remix\)](https://open.spotify.com/album/28E0EqraSPvGhUQ0jNkUvb) | 3:56 |
 | 25 | [Wrong or Right \(The Riddle\)](https://open.spotify.com/track/78VSoe3vn4gR4pYSTBiAXA) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Wrong or Right \(The Riddle\)](https://open.spotify.com/album/7f9y6wyXMLW9NfHHkMtccm) | 2:34 |
 | 26 | [Lose You \- Felix Jaehn Remix](https://open.spotify.com/track/1YXS5uFWQnwQbN9dmXgYrC) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Lose You \(Felix Jaehn Remix\)](https://open.spotify.com/album/2cEfd4AeRYQRRxiT0Q4BHu) | 2:36 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 45 | [Drinkin](https://open.spotify.com/track/1Usa0Fv8L9NmRKY4UYk4sD) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Drinkin](https://open.spotify.com/album/2M4jhdsyvC0xpuXXc1SKWE) | 2:16 |
 | 46 | [What's Up](https://open.spotify.com/track/12yj178KaJo8PrddT0StaL) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K), [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [What's Up](https://open.spotify.com/album/5FRUHD0aFh5GvSo3WGbKDd) | 2:27 |
 | 47 | [Not Fair](https://open.spotify.com/track/0QlOkt8nkZ8zqu8xb2SHU8) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Old Jim](https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu), [Enny\-Mae](https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE) | [Not Fair](https://open.spotify.com/album/5PObKgSkHWD1mRNOJWr1cZ) | 2:43 |
-| 48 | [Bailando](https://open.spotify.com/track/60DGBqku2Iq7m2xrpJEcOp) | [Loona](https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF), [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [DJ Sammy](https://open.spotify.com/artist/4z4m1P0iX2nRSPDBEZ8LBT) | [Bailando](https://open.spotify.com/album/3jMmPvArFAhJbdKcFwCazV) | 2:16 |
-| 49 | [No Fun](https://open.spotify.com/track/3YOZWCREvKsxhcZNJix5xd) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [No Fun](https://open.spotify.com/album/5MOMnX1NgMpjRD0iAHcttM) | 2:10 |
+| 48 | [No Fun](https://open.spotify.com/track/3YOZWCREvKsxhcZNJix5xd) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [No Fun](https://open.spotify.com/album/5MOMnX1NgMpjRD0iAHcttM) | 2:10 |
+| 49 | [Bailando](https://open.spotify.com/track/60DGBqku2Iq7m2xrpJEcOp) | [Loona](https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF), [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [DJ Sammy](https://open.spotify.com/artist/4z4m1P0iX2nRSPDBEZ8LBT) | [Bailando](https://open.spotify.com/album/3jMmPvArFAhJbdKcFwCazV) | 2:16 |
 | 50 | [edamame \(feat\. Rich Brian\) \- Diplo Remix](https://open.spotify.com/track/1fvEC5ksBfgjGWVNP9eJ2t) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [edamame \(feat\. Rich Brian\) \[Diplo Remix\]](https://open.spotify.com/album/2pcFjaO7Eouy8DiDV9mmjW) | 2:55 |
 
-Snapshot ID: `MCxhMmIyNWQ2MzlhMGVkMWMzZDlhZWRlMDFlNzg0YWRmYjQzYjZjODRk`
+Snapshot ID: `MCxjMzUyNDVkOGE3YzdlNjU2OGI1ZWFhODg5MjVlYzE4ODc3MGJjOTMz`

@@ -1,12 +1,12 @@
 {
   "description": "The best of the best from oldies to new classics. Cover: Mac DeMarco",
-  "num_followers": 936671,
+  "num_followers": 937352,
   "original_name": "Essential Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDI4OGRlYWMzZDc1NWZjMDdjMmRiOWEzZGMxNmMzMTViZWNiNjYw",
+  "snapshot_id": "MCwzMjVjMDVlNGU1MTc5MDNmZGJkNzAwOGQyZWU0Y2YzYmNlMzk4MzQ2",
   "tracks": [
     {
       "added_at": "2023-04-21 01:33:59",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-04-21 01:33:59",
       "album": {
-        "name": "recently",
-        "url": "https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux"
-      },
-      "artists": [
-        {
-          "name": "Liana Flores",
-          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
-        }
-      ],
-      "duration_ms": 161929,
-      "name": "rises the moon",
-      "url": "https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI"
-    },
-    {
-      "added_at": "2023-04-21 01:33:59",
-      "album": {
         "name": "OK Computer",
         "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 229120,
       "name": "No Surprises",
       "url": "https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB"
+    },
+    {
+      "added_at": "2023-04-21 01:33:59",
+      "album": {
+        "name": "recently",
+        "url": "https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux"
+      },
+      "artists": [
+        {
+          "name": "Liana Flores",
+          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+        }
+      ],
+      "duration_ms": 161929,
+      "name": "rises the moon",
+      "url": "https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI"
     },
     {
       "added_at": "2023-08-01 17:15:23",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2023-04-21 01:33:59",
       "album": {
+        "name": "Good News For People Who Love Bad News",
+        "url": "https://open.spotify.com/album/0TGTGuc2vXv6ZECoAf52N0"
+      },
+      "artists": [
+        {
+          "name": "Modest Mouse",
+          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+        }
+      ],
+      "duration_ms": 208466,
+      "name": "Float On",
+      "url": "https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R"
+    },
+    {
+      "added_at": "2023-04-21 01:33:59",
+      "album": {
         "name": "Texas Sun",
         "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 252811,
       "name": "Texas Sun",
       "url": "https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY"
-    },
-    {
-      "added_at": "2023-04-21 01:33:59",
-      "album": {
-        "name": "Good News For People Who Love Bad News",
-        "url": "https://open.spotify.com/album/0TGTGuc2vXv6ZECoAf52N0"
-      },
-      "artists": [
-        {
-          "name": "Modest Mouse",
-          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
-        }
-      ],
-      "duration_ms": 208466,
-      "name": "Float On",
-      "url": "https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R"
     },
     {
       "added_at": "2023-04-21 01:33:59",

@@ -1,12 +1,12 @@
 {
   "description": "The genre-defying artists inspired by classical music. Photo: Nils Frahm.",
-  "num_followers": 103045,
+  "num_followers": 103107,
   "original_name": "Classical X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODg4NmEyZWE3NGRmMTg5MDhhYmQwZDI5MDNlODFmYzUxNzc3MDU4",
+  "snapshot_id": "MCwyZWUwODA4ZjczNmMyZWMxNjQ4MDYwNzExMzRlODI3YjQ4ODc3NjZk",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Our True Nature",
-        "url": "https://open.spotify.com/album/3QsWVLbBZB9P2cHPHn4AQ7"
-      },
-      "artists": [
-        {
-          "name": "Teodor Wolgers",
-          "url": "https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr"
-        }
-      ],
-      "duration_ms": 343666,
-      "name": "Abandoned Places",
-      "url": "https://open.spotify.com/track/6KbkmrCXCBanKxhdpqkRfB"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Stillness (Reworked)",
         "url": "https://open.spotify.com/album/43FhNhRPe70SCy4NuEQuy1"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 210240,
       "name": "Stillness - Reworked",
       "url": "https://open.spotify.com/track/38e2GidL9UTv430biHt3a5"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Our True Nature",
+        "url": "https://open.spotify.com/album/3QsWVLbBZB9P2cHPHn4AQ7"
+      },
+      "artists": [
+        {
+          "name": "Teodor Wolgers",
+          "url": "https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr"
+        }
+      ],
+      "duration_ms": 343666,
+      "name": "Abandoned Places",
+      "url": "https://open.spotify.com/track/6KbkmrCXCBanKxhdpqkRfB"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -679,30 +679,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "L(oo)ping [Live with ONL]",
-        "url": "https://open.spotify.com/album/1vilAgPngRqfMUWHffyR4O"
-      },
-      "artists": [
-        {
-          "name": "Rone",
-          "url": "https://open.spotify.com/artist/3Dw9w3jnmr58ocgxiwITcq"
-        },
-        {
-          "name": "Dirk Bross\u00e9",
-          "url": "https://open.spotify.com/artist/34bKiLjmHfp1mAX5Tq3d2y"
-        },
-        {
-          "name": "Orchestre National De Lyon",
-          "url": "https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo"
-        }
-      ],
-      "duration_ms": 312653,
-      "name": "Ghosts - Live with ONL",
-      "url": "https://open.spotify.com/track/30I4KLVCqUtRR1JICkr4PY"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Traveller (Lambert rework)",
         "url": "https://open.spotify.com/album/6cMwZymDA1uYLXb47Bqeql"
       },
@@ -739,6 +715,30 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "L(oo)ping [Live with ONL]",
+        "url": "https://open.spotify.com/album/1vilAgPngRqfMUWHffyR4O"
+      },
+      "artists": [
+        {
+          "name": "Rone",
+          "url": "https://open.spotify.com/artist/3Dw9w3jnmr58ocgxiwITcq"
+        },
+        {
+          "name": "Dirk Bross\u00e9",
+          "url": "https://open.spotify.com/artist/34bKiLjmHfp1mAX5Tq3d2y"
+        },
+        {
+          "name": "Orchestre National De Lyon",
+          "url": "https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo"
+        }
+      ],
+      "duration_ms": 312653,
+      "name": "Ghosts - Live with ONL",
+      "url": "https://open.spotify.com/track/30I4KLVCqUtRR1JICkr4PY"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Falling Colour",
         "url": "https://open.spotify.com/album/1mvRZHRMIwG0uAVgedZVNd"
       },
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Apricity",
-        "url": "https://open.spotify.com/album/6gw9cTHx6LsTpixClO4xJe"
-      },
-      "artists": [
-        {
-          "name": "Aukai",
-          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Caf\u00e9 Papantla",
-      "url": "https://open.spotify.com/track/3LpMime27p6chEwOIZbluE"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Pi\u00e8ces froides: II. Danses de travers, 2. Passer [TWO LANES Rework (FRAGMENTS / Erik Satie)]",
         "url": "https://open.spotify.com/album/4f6WOROkFAHPvikfrY54Lh"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 335149,
       "name": "Pi\u00e8ces froides: II. Danses de travers, 2. Passer - TWO LANES Rework (FRAGMENTS / Erik Satie)",
       "url": "https://open.spotify.com/track/1lj5ruJAs5WDmVQO4pavbU"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Apricity",
+        "url": "https://open.spotify.com/album/6gw9cTHx6LsTpixClO4xJe"
+      },
+      "artists": [
+        {
+          "name": "Aukai",
+          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Caf\u00e9 Papantla",
+      "url": "https://open.spotify.com/track/3LpMime27p6chEwOIZbluE"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -947,18 +947,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Solitudes",
-        "url": "https://open.spotify.com/album/4p7hOvFyTVUe5h59jZmeYq"
+        "name": "A Light Without Flame",
+        "url": "https://open.spotify.com/album/0dypri6yEpgORaQbPFJmxK"
       },
       "artists": [
         {
-          "name": "Tom Ashbrook",
-          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+          "name": "Slow Meadow",
+          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
         }
       ],
-      "duration_ms": 277021,
-      "name": "We Begin",
-      "url": "https://open.spotify.com/track/48lkDJzIk3UKd3Eeclay4k"
+      "duration_ms": 203994,
+      "name": "A Light Without Flame",
+      "url": "https://open.spotify.com/track/7iFOhRAni6M6bPyfsmvapG"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "A Light Without Flame",
-        "url": "https://open.spotify.com/album/0dypri6yEpgORaQbPFJmxK"
-      },
-      "artists": [
-        {
-          "name": "Slow Meadow",
-          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
-        }
-      ],
-      "duration_ms": 203994,
-      "name": "A Light Without Flame",
-      "url": "https://open.spotify.com/track/7iFOhRAni6M6bPyfsmvapG"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "The Wind (Deluxe)",
         "url": "https://open.spotify.com/album/0o9rSszHt4kikYbAPtlokj"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 133335,
       "name": "Nos - C.B. Rework",
       "url": "https://open.spotify.com/track/1zVbL4ZCLbEE8fmVl881Gj"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Solitudes",
+        "url": "https://open.spotify.com/album/4p7hOvFyTVUe5h59jZmeYq"
+      },
+      "artists": [
+        {
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+        }
+      ],
+      "duration_ms": 277021,
+      "name": "We Begin",
+      "url": "https://open.spotify.com/track/48lkDJzIk3UKd3Eeclay4k"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1243,18 +1243,26 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/7LRGLAQd2fdDOU7ygP0DrF"
+        "name": "Gabriel (Tom Player Strings Version)",
+        "url": "https://open.spotify.com/album/3u59XcWfFkoPeZFDWbH0bc"
       },
       "artists": [
         {
-          "name": "S\u00f8ndag S\u00f8ndag",
-          "url": "https://open.spotify.com/artist/5JXcRgvs6LG0vYLZnk9i7H"
+          "name": "Joe Goddard",
+          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
+        },
+        {
+          "name": "Valentina",
+          "url": "https://open.spotify.com/artist/0qDEhyfeFBVihHtyPWCDdh"
+        },
+        {
+          "name": "Tom Player",
+          "url": "https://open.spotify.com/artist/6kEt6wb2fUfh3iB7Sr0PrJ"
         }
       ],
-      "duration_ms": 238764,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/3boXyamYzmzAvMbu5Rwmlv"
+      "duration_ms": 182212,
+      "name": "Gabriel - Tom Player Strings Version",
+      "url": "https://open.spotify.com/track/5wPWz3tdfiW2ZDRHEFpgjN"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1299,26 +1307,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Gabriel (Tom Player Strings Version)",
-        "url": "https://open.spotify.com/album/3u59XcWfFkoPeZFDWbH0bc"
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/7LRGLAQd2fdDOU7ygP0DrF"
       },
       "artists": [
         {
-          "name": "Joe Goddard",
-          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
-        },
-        {
-          "name": "Valentina",
-          "url": "https://open.spotify.com/artist/0qDEhyfeFBVihHtyPWCDdh"
-        },
-        {
-          "name": "Tom Player",
-          "url": "https://open.spotify.com/artist/6kEt6wb2fUfh3iB7Sr0PrJ"
+          "name": "S\u00f8ndag S\u00f8ndag",
+          "url": "https://open.spotify.com/artist/5JXcRgvs6LG0vYLZnk9i7H"
         }
       ],
-      "duration_ms": 182212,
-      "name": "Gabriel - Tom Player Strings Version",
-      "url": "https://open.spotify.com/track/5wPWz3tdfiW2ZDRHEFpgjN"
+      "duration_ms": 238764,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/3boXyamYzmzAvMbu5Rwmlv"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Late Reflections",
-        "url": "https://open.spotify.com/album/614ZeZtRqXvqa6kGieLDqM"
-      },
-      "artists": [
-        {
-          "name": "Grandbrothers",
-          "url": "https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY"
-        }
-      ],
-      "duration_ms": 263708,
-      "name": "North/South",
-      "url": "https://open.spotify.com/track/5SpBzfFNL8MQczqBYhtSeY"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Solitudes",
         "url": "https://open.spotify.com/album/4p7hOvFyTVUe5h59jZmeYq"
       },
@@ -1391,18 +1375,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Philanthropy",
-        "url": "https://open.spotify.com/album/3025WVTCNtHpOXugys7yuV"
+        "name": "Late Reflections",
+        "url": "https://open.spotify.com/album/614ZeZtRqXvqa6kGieLDqM"
       },
       "artists": [
         {
-          "name": "Hauschka",
-          "url": "https://open.spotify.com/artist/6fTuDQJqqMDrrEXSFmgyJt"
+          "name": "Grandbrothers",
+          "url": "https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY"
         }
       ],
-      "duration_ms": 347555,
-      "name": "Nature",
-      "url": "https://open.spotify.com/track/5heSMKHPcP7cjWefeJ89d3"
+      "duration_ms": 263708,
+      "name": "North/South",
+      "url": "https://open.spotify.com/track/5SpBzfFNL8MQczqBYhtSeY"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1431,6 +1415,30 @@
       "duration_ms": 247301,
       "name": "By This River",
       "url": "https://open.spotify.com/track/1ZZV73dkqJx1Wc9THSXpGZ"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Pavane (Sam Thompson Rework)",
+        "url": "https://open.spotify.com/album/4bp10nfuQAiVcDKyw6WmYc"
+      },
+      "artists": [
+        {
+          "name": "Sam Thompson",
+          "url": "https://open.spotify.com/artist/6SL5UTNnsI4It0HdLqq2TV"
+        },
+        {
+          "name": "Peter Gregson",
+          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+        },
+        {
+          "name": "Martha Thompson",
+          "url": "https://open.spotify.com/artist/5C81k4PwWoslwZGH6wpNaX"
+        }
+      ],
+      "duration_ms": 323693,
+      "name": "Pavane - Sam Thompson Rework",
+      "url": "https://open.spotify.com/track/5Bu4lKPV75Qn9leB3AHaVM"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1471,26 +1479,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Pavane (Sam Thompson Rework)",
-        "url": "https://open.spotify.com/album/4bp10nfuQAiVcDKyw6WmYc"
+        "name": "Philanthropy",
+        "url": "https://open.spotify.com/album/3025WVTCNtHpOXugys7yuV"
       },
       "artists": [
         {
-          "name": "Sam Thompson",
-          "url": "https://open.spotify.com/artist/6SL5UTNnsI4It0HdLqq2TV"
-        },
-        {
-          "name": "Peter Gregson",
-          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
-        },
-        {
-          "name": "Martha Thompson",
-          "url": "https://open.spotify.com/artist/5C81k4PwWoslwZGH6wpNaX"
+          "name": "Hauschka",
+          "url": "https://open.spotify.com/artist/6fTuDQJqqMDrrEXSFmgyJt"
         }
       ],
-      "duration_ms": 323693,
-      "name": "Pavane - Sam Thompson Rework",
-      "url": "https://open.spotify.com/track/5Bu4lKPV75Qn9leB3AHaVM"
+      "duration_ms": 347555,
+      "name": "Nature",
+      "url": "https://open.spotify.com/track/5heSMKHPcP7cjWefeJ89d3"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1531,18 +1531,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Thaw",
-        "url": "https://open.spotify.com/album/1iM5rggZglIiV4ISx0HBG7"
+        "name": "We All Have Places That We Miss",
+        "url": "https://open.spotify.com/album/6fkKyjBBqmc7gmEGqshSAa"
       },
       "artists": [
         {
-          "name": "Aukai",
-          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
+          "name": "Hollie Kenniff",
+          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
+        },
+        {
+          "name": "Goldmund",
+          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Thaw",
-      "url": "https://open.spotify.com/track/63FVStUF6Dk6UGjkjmOsLU"
+      "duration_ms": 310000,
+      "name": "Remembered Words",
+      "url": "https://open.spotify.com/track/2EYXp9N9xFOejfAmj5skO8"
     }
   ],
   "unique_name": "Classical X",

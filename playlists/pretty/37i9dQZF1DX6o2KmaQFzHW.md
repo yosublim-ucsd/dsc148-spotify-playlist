@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 
 > Clásicos del folklore argentino de la mano de sus más grandes intérpretes\. Foto: Chaqueño Palavecino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,171 likes - 90 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,232 likes - 90 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,10 +64,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 54 | [Bloque Romantico: Nada Tengo de Ti / Quiero Tu Voz / No Quisiera Quererte / Amar Amando \- En Vivo](https://open.spotify.com/track/4DP2160LC4dW6RTNeYQvMB) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Horacio Guarany](https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl) | [Sole y Horacio juntos por Única Vez \(Grabado en Vivo en el Luna Park\)](https://open.spotify.com/album/3H8CgdJTlIrZ5QIJFssYVc) | 8:31 |
 | 55 | [El Arriero](https://open.spotify.com/track/0DDk5QBU6Fsj4OtaDNHtfa) | [Atahualpa Yupanqui](https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b) | [From Argentina To The World](https://open.spotify.com/album/6s6i8lmBcB27bjpzsNkksR) | 3:30 |
 | 56 | [La Descreída](https://open.spotify.com/track/3iRMUBsU6dF9qByGhDpMId) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Signos](https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q) | 2:50 |
-| 57 | [El Preso, No\. 9](https://open.spotify.com/track/3KYyx4vhhLev3up8EMqY6U) | [Los 3 Del Río](https://open.spotify.com/artist/36d5z1gYjS3JTSkG7qh61z) | [Los 3 del Río](https://open.spotify.com/album/5xPYEnF8FHzPffAILoTblq) | 4:44 |
+| 57 | [Candombe del Olvido](https://open.spotify.com/track/6fdZSdKd2ukOJ9rYH559ru) | [Alfredo Zitarrosa](https://open.spotify.com/artist/4xQFKlQXtzYxfZOnk799m2) | [Antología III 1936\-1989](https://open.spotify.com/album/2sjqPvxZ3VVKgF5iaRVU6E) | 6:56 |
 | 58 | [El Que Toca Nunca Baila](https://open.spotify.com/track/0AKvW2NHJ2B5QaRlm45tap) | [Los Cantores del Alba](https://open.spotify.com/artist/2kRyLphTQyz7eaHhfLpMVl) | [Te esperaré cantando](https://open.spotify.com/album/0H08ED5uLTJYGtlAUhPhnr) | 2:43 |
 | 59 | [Agitando Pañuelos](https://open.spotify.com/track/5nIWvFvfmVxmF379f5WUP3) | [Duo Coplanacu](https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ) | [Paisaje](https://open.spotify.com/album/6Q34gyyCVKMjD5GVFEMF1a) | 4:15 |
-| 60 | [Candombe del Olvido](https://open.spotify.com/track/6fdZSdKd2ukOJ9rYH559ru) | [Alfredo Zitarrosa](https://open.spotify.com/artist/4xQFKlQXtzYxfZOnk799m2) | [Antología III 1936\-1989](https://open.spotify.com/album/2sjqPvxZ3VVKgF5iaRVU6E) | 6:56 |
+| 60 | [El Preso, No\. 9](https://open.spotify.com/track/3KYyx4vhhLev3up8EMqY6U) | [Los 3 Del Río](https://open.spotify.com/artist/36d5z1gYjS3JTSkG7qh61z) | [Los 3 del Río](https://open.spotify.com/album/5xPYEnF8FHzPffAILoTblq) | 4:44 |
 | 61 | [Jazmin de Luna](https://open.spotify.com/track/52KJTES45cbNkZOvdWj7d7) | [Los Tucu Tucu](https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU) | [Leyenda](https://open.spotify.com/album/0ElncY7qEVIgOs0QXBZUUO) | 3:09 |
 | 62 | [Criollita Santiagueña](https://open.spotify.com/track/5rux26qMQRfEEO4W3eJS9X) | [Hernan Figueroa Reyes](https://open.spotify.com/artist/4uIoOdivSAzUdJB8CTfP8S) | [Para Que Vuelvas](https://open.spotify.com/album/1YzBnvHJKVVTHvJqnmyL3n) | 3:02 |
 | 63 | [Maricón](https://open.spotify.com/track/2Oai4riWXNOaLiqw8m5Dki) | [Aca Seca Trio](https://open.spotify.com/artist/6nvkqGQVDZLm0y1TxubrFA) | [Avenido](https://open.spotify.com/album/0IDRD7oisVkSyZKfpTA5wM) | 1:58 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 89 | [Serenata Otoñal](https://open.spotify.com/track/39YzTZ5TP1zjtNQOiD3x5B) | [Los Cantores del Alba](https://open.spotify.com/artist/2kRyLphTQyz7eaHhfLpMVl) | [Confitería Europea 100 Años](https://open.spotify.com/album/3wcwbHnuDa07nEFmK3qmua) | 2:28 |
 | 90 | [Guitarra de Medianoche](https://open.spotify.com/track/3MFZmrTRante4uZegBgzbt) | [Los Fronterizos](https://open.spotify.com/artist/3JY4oF6rBQ45FSVUJtXixb) | [Greatest Hits](https://open.spotify.com/album/3ccvDDuAXDgTBcEJsrotLV) | 3:16 |
 
-Snapshot ID: `MCxjOTg5ZWU0ZDIwZTA4ZWJlMGEwZjg2NTczNjEwMDY0YWY1YzljOGE0`
+Snapshot ID: `MCxlZDdkZjcwMzYzZGIyYjRmYmUzZTgyNzIyNzdjMjA1ZDM2OGVmOTFm`

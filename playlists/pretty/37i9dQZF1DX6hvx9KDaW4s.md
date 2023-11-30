@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hvx9KDaW4s.md) - [plain]
 
 > For when only raw rock will do...
 
-[Spotify](https://open.spotify.com/user/spotify) - 575,360 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 575,440 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hvx9KDaW4s.md) - [plain]
 | 49 | [Joker And The Thief](https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother](https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC) | 4:40 |
 | 50 | [Cherry Pie](https://open.spotify.com/track/18ESXa5mEm1V4Pkt5GSXWx) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Cherry Pie \(Expanded Edition\)](https://open.spotify.com/album/5TMMmKdys49eu6QSPC9sdB) | 3:21 |
 
-Snapshot ID: `MCw3YzdhYzllYTU0NDIxMzg1YWIwOTNmYzkxYWE2MDkwZGM1NjNkMjFl`
+Snapshot ID: `MCxlOWJmNjI0ZGI2NDFjZmQ4ZjhmZjA2OTU2MzI4YzYwNzk0ZGM3Y2Jj`

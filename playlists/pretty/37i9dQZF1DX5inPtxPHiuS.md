@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 
 > ¡Disfruta con los grandes del rock colombiano! Foto: Diamante Eléctrico
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,711 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,732 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 27 | [La Manifestacion](https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9) | [Skampida](https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno) | [Inflammable](https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al) | 2:51 |
 | 28 | [Somos Coyotes](https://open.spotify.com/track/0RGuPZmtJxMblQwZIvcNsQ) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Doce Vientos](https://open.spotify.com/album/7iJkzoo9QSgy0nW13uIohq) | 3:42 |
 | 29 | [Planetas](https://open.spotify.com/track/3OAr3wALlfcBz88S1oyu0z) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [Anaranjado](https://open.spotify.com/album/6pgtJt1lDEZmoOC2fhgD0Y) | 3:16 |
-| 30 | [Una Canción](https://open.spotify.com/track/1X5Hcf0u95e76eqv10NbiA) | [Poligamia](https://open.spotify.com/artist/3l8MpG7CL6zqYDBhbcNG1O) | [15 Grandes Éxitos](https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk) | 3:07 |
-| 31 | [Nómada](https://open.spotify.com/track/6Wrhk7QBtj8q1fKB6QTVX8) | [La Banda del Bisonte](https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Nómada](https://open.spotify.com/album/0MUi6hTyoZHMH5iFe7eynb) | 4:47 |
+| 30 | [Nómada](https://open.spotify.com/track/6Wrhk7QBtj8q1fKB6QTVX8) | [La Banda del Bisonte](https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Nómada](https://open.spotify.com/album/0MUi6hTyoZHMH5iFe7eynb) | 4:47 |
+| 31 | [Una Canción](https://open.spotify.com/track/1X5Hcf0u95e76eqv10NbiA) | [Poligamia](https://open.spotify.com/artist/3l8MpG7CL6zqYDBhbcNG1O) | [15 Grandes Éxitos](https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk) | 3:07 |
 | 32 | [Hacia la Noche](https://open.spotify.com/track/2vd58HO8mKz1yBkh2mJjlo) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Buitres](https://open.spotify.com/album/1DQ3KAs2WuIVMVKwrEeseh) | 3:55 |
 | 33 | [Salvaje Vagabundo](https://open.spotify.com/track/0gOvLUA0IHMUiDFPPINFnr) | [1280 Almas](https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM) | [Marteko Euriak](https://open.spotify.com/album/6FD2WgISjrdvvr7XSjKgYT) | 3:07 |
 | 34 | [A Tu Lado](https://open.spotify.com/track/4Yx4NDik0QW3hpKXTMOQNw) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [A Tu Lado](https://open.spotify.com/album/603lFzzUSI0yVjfQxlpXN2) | 3:23 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 49 | [Salir Ileso](https://open.spotify.com/track/4x5YCTYmHCJV32RO5TAbr0) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [Barco de Papel](https://open.spotify.com/album/7HmHk8sLbDpg8t3rO8PSz1) | 3:23 |
 | 50 | [Antiamor](https://open.spotify.com/track/5vLg2iDE8pb6uLu11e1Vvf) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [Antiamor](https://open.spotify.com/album/0uIgAixzHB6PT6MChRONXu) | 3:43 |
 | 51 | [Gemas](https://open.spotify.com/track/2mBvyVRiv8hJBsSmZTNE8X) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Manglares \(B\-Sides\) \- EP](https://open.spotify.com/album/7kug1J54BtHHJ8iJXagHnE) | 3:38 |
-| 52 | [Cangrejo](https://open.spotify.com/track/08IybVfdaHDLiJiAxO7R4e) | [Arbol De Ojos](https://open.spotify.com/artist/0Of5C76gJn3CBJ4xxkUTs9) | [Cangrejo](https://open.spotify.com/album/3MvaFYJpFswQIHN8qCYThP) | 2:42 |
-| 53 | [Sigo](https://open.spotify.com/track/55zNzKBlbbSBMKmeDAuq3I) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Sigo](https://open.spotify.com/album/3Zrd8cJji2EZsKcO4loQ6K) | 3:19 |
+| 52 | [Sigo](https://open.spotify.com/track/55zNzKBlbbSBMKmeDAuq3I) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Sigo](https://open.spotify.com/album/3Zrd8cJji2EZsKcO4loQ6K) | 3:19 |
+| 53 | [Cangrejo](https://open.spotify.com/track/08IybVfdaHDLiJiAxO7R4e) | [Arbol De Ojos](https://open.spotify.com/artist/0Of5C76gJn3CBJ4xxkUTs9) | [Cangrejo](https://open.spotify.com/album/3MvaFYJpFswQIHN8qCYThP) | 2:42 |
 | 54 | [Cielo](https://open.spotify.com/track/4GGLQlWCSbVlbBiWxeqzTz) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [Anaranjado, Pt\. 1](https://open.spotify.com/album/12j02XXjXMDjZoqCSqmoKt) | 4:36 |
 | 55 | [Pimpinella](https://open.spotify.com/track/15wAbJ9CQRwQ1qjxaObWCk) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx), [Francesca Collavini](https://open.spotify.com/artist/5v076gGHAwFFq2uAVPlHzg) | [Grita \- II](https://open.spotify.com/album/4z8CUoe6p3VIQewnjGJB10) | 4:13 |
 | 56 | [Voy a olvidarme de mi](https://open.spotify.com/track/2AklN5bNjuVAg3U3bKZ0Dk) | [Tr3sdeCoraZón](https://open.spotify.com/artist/1KSBih5CRHtXP3yb8GSn0M), [Andrés Felipe Muñoz Lara](https://open.spotify.com/artist/70k6TbiV5FfziomRQvHrX7), [Sebastián Mejía](https://open.spotify.com/artist/2GcxW1f5KFCz3Rgc3OSAZS), [Jorge Iván Botero](https://open.spotify.com/artist/1rcnDmNR0ajpqHOrnNmsKO), [Julio Osorio](https://open.spotify.com/artist/1fcdwrNb20Yjm5P4kgnxsB) | [Covers](https://open.spotify.com/album/2ETz2y2dJ7bD7XfXXUaKjq) | 3:33 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 59 | [El Pasado Fue Mejor \(feat\. Don Tetto\)](https://open.spotify.com/track/61WodHXkoMsddMRcWTnI6Z) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI), [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [El Pasado Fue Mejor \(feat\. Don Tetto\)](https://open.spotify.com/album/4vfwmzv1lPoDCvwF5WJaic) | 3:00 |
 | 60 | [Lejos De Aqui](https://open.spotify.com/track/6nifdAaB5BMc69bzSbLYtV) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [Grandes Exitos](https://open.spotify.com/album/7y8YhSMVq5hKIfbb3LdaaW) | 2:59 |
 
-Snapshot ID: `MCw4OGY0N2M1YzhjMzE5N2Q4YjdkYWNlNWY0ODJlZmVjZmIyNjBlYmM0`
+Snapshot ID: `MCxmOGQ5N2I1MDcxZDRkOGFmNDAxNWM3NzFjNzRkOTY2Y2JhODg3Zjgx`

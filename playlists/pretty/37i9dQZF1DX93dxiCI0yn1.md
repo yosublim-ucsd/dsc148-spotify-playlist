@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93dxiCI0yn1.md) - [plain]
 
 > 新たな“ラップスタア“を発掘する人気オーディション番組<a href="https://rapstar2023.jp/">「ラップスタア誕生」</a>歴代出場者、審査員の楽曲を特集。 Cover: ShowyVICTOR
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,991 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,997 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [返答](https://open.spotify.com/track/0w7IwkrMz5wPDK8qSzD2ZK) | [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA), [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY) | [REVENGE](https://open.spotify.com/album/4w98BIOWdMhWPGT2SnHiXQ) | 4:18 |
-| 2 | [Boss Bitch](https://open.spotify.com/track/4KzhDBgWcTEAJ0tiSQqDPz) | [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH) | [7](https://open.spotify.com/album/0olQG0GzI6blLvXYDLX8iz) | 2:36 |
+| 1 | [Hentou](https://open.spotify.com/track/2XYm2ozeqdTVDn3AfVC9ir) | [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA), [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY) | [REVENGE](https://open.spotify.com/album/5kRY3ZglYMF8AevPp8imUZ) | 4:18 |
+| 2 | [Boss Bitch](https://open.spotify.com/track/1dp66PGJzXhBdfR9M4nX24) | [nana](https://open.spotify.com/artist/7uzEQGrUAupBJK2j3uQsoC), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH) | [7](https://open.spotify.com/album/5aQg6EAjCubsij9OcXhZe3) | 2:36 |
 | 3 | [Young Boy](https://open.spotify.com/track/0pmE2OAqk0YIoQBHUfR2Pw) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [ICON](https://open.spotify.com/album/2T9uqa1ZOZiHu2FGrbOWgR) | 3:01 |
 | 4 | [Run This Town](https://open.spotify.com/track/17PLoEyJFNwsRN5y0M53Sg) | [Kay\-on](https://open.spotify.com/artist/2F81r2H2weMXa83CD2VD9H) | [Run This Town](https://open.spotify.com/album/0LtPST8JfL2ATb4IsBtRCS) | 2:34 |
 | 5 | [Back and Forth](https://open.spotify.com/track/25eEcgHpDEJYLJeFpKyXt4) | [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [Back and Forth](https://open.spotify.com/album/5WezzeLLpbwdtmjb8sZbbq) | 2:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93dxiCI0yn1.md) - [plain]
 | 99 | [Self Made 2](https://open.spotify.com/track/5wIye7EwWRyTZSGN19E4i3) | [KOWICHI](https://open.spotify.com/artist/6CbooCqOA6MI23syacRER2), [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo) | [Higher](https://open.spotify.com/album/14tw5k8TACNP7vaUSM3M6s) | 3:03 |
 | 100 | [Madoguchi](https://open.spotify.com/track/7niuHNCb7ObPcE9lP63bAV) | [noma](https://open.spotify.com/artist/5lL3ZTc535xQeLqXH9cB3V) | [6th Anniversery Best Mixtape](https://open.spotify.com/album/16AybzZDQLpAwJUy4KrmXu) | 2:57 |
 
-Snapshot ID: `MCxkYWNmYzA0ZTI0OTYwZTI0NjI0M2MxN2ViZTNiNDJjMmU2NzVjYzRk`
+Snapshot ID: `MCw4YzU0ZTUxMGFkNmM2MmEzNDQ4MTUzMmI0NTA4YjZlZmRjMzhiYjQx`

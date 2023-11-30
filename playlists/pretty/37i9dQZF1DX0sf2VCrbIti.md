@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sf2VCrbIti.md) - [plain]
 
 > Que no falte la música, la familia y los amigos\. ¡Felices fiestas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 240 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 275 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sf2VCrbIti.md) - [plain]
 | 43 | [Amparito](https://open.spotify.com/track/7JROzRIIqOlXCLeqKUMhb2) | [Maracaibo 15](https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz) | [Super Éxitos Maracaibo 15](https://open.spotify.com/album/2eosHIm0MBOnhvbiBANIH5) | 3:12 |
 | 44 | [Plástico](https://open.spotify.com/track/3ZIE8flTJ6WWn8wF0YzaaQ) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Siembra](https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy) | 6:41 |
 | 45 | [Ella Dice](https://open.spotify.com/track/4DBXjmV7W7igXSDwvlfH4C) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Mudanza y Acarreo](https://open.spotify.com/album/3OrV9YokDdQgnHN0wLcSJL) | 3:31 |
-| 46 | [EL YATE \(feat\. Sergio George\) \- Versión Salsa](https://open.spotify.com/track/6BOuw1v7iJbOPYR9PigeJ4) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC) | [EL YATE \(feat\. Sergio George\) \[Versión Salsa\]](https://open.spotify.com/album/6BRLupgfPwOkWkVrtCg9D1) | 3:13 |
-| 47 | [Año Nuevo](https://open.spotify.com/track/32LOpPngSkY8V0sIVCVjPb) | [Billo's](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6), [Cheo Garcia](https://open.spotify.com/artist/4qmK4DVyKkbpKe2VRanvTR) | [Billos Caracas Boys Fin de Año](https://open.spotify.com/album/4vdoIChGSZtQnOAPnEGe9R) | 2:51 |
+| 46 | [Año Nuevo](https://open.spotify.com/track/32LOpPngSkY8V0sIVCVjPb) | [Billo's](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6), [Cheo Garcia](https://open.spotify.com/artist/4qmK4DVyKkbpKe2VRanvTR) | [Billos Caracas Boys Fin de Año](https://open.spotify.com/album/4vdoIChGSZtQnOAPnEGe9R) | 2:51 |
+| 47 | [EL YATE \(feat\. Sergio George\) \- Versión Salsa](https://open.spotify.com/track/6BOuw1v7iJbOPYR9PigeJ4) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC) | [EL YATE \(feat\. Sergio George\) \[Versión Salsa\]](https://open.spotify.com/album/6BRLupgfPwOkWkVrtCg9D1) | 3:13 |
 | 48 | [El Merecumbe](https://open.spotify.com/track/6Ni5cSEp0cNutVN0w2578Y) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW), [La Billo's y Los Melodicos](https://open.spotify.com/artist/62okGmZQ0Yr2lQhBUL6h86) | [La Billo's y Los Melodicos de coleccion, vol.1](https://open.spotify.com/album/4oI9hX7GLmynB3iscdKhfY) | 2:37 |
 | 49 | [Volveré](https://open.spotify.com/track/6THn83A87GCDaDZp9UQsPl) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Los Años Dorados](https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg) | 4:19 |
 | 50 | [Gaita Onomatopéyica](https://open.spotify.com/track/2BZUWYA2NcvrtWdStRn1KX) | [Gran Coquivacoa](https://open.spotify.com/artist/0D8yIOlFPxp7OL6n6UzJ38) | [La Maquina del Sabor '88](https://open.spotify.com/album/7nCZDVKgBlQDpgPpCS2XfL) | 2:51 |
 
-Snapshot ID: `MCw3ZjM2MjBlMGYyZTJjOTRiYWMyNzQ1YzM5ZGY5Zjc1NmExOTk3MDI0`
+Snapshot ID: `MCwxOWEwMTY0ZGM2NDg3ODU2Njg4NDdjMzk2YTk1MmRjZjNiZjA1ZjBj`

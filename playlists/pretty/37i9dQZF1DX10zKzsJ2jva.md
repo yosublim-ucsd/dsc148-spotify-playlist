@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10zKzsJ2jva.md) - [plain]
 
 > Today's top Latin hits, elevando nuestra música\. Cover: Kali Uchis & KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,477,641 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,480,307 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10zKzsJ2jva.md) - [plain]
 | 49 | [ANDO](https://open.spotify.com/track/6hwGwCfCwHoSJQw7AYPEQu) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Gittobeatz](https://open.spotify.com/artist/4rRwh9ghjocFABAwIwnunp) | [ANDO](https://open.spotify.com/album/6UJ9acnNOzxZCq9lv8Mo8D) | 2:52 |
 | 50 | [El Correcto](https://open.spotify.com/track/4tYgQrGwhpvjfq4ryajgUo) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Correcto](https://open.spotify.com/album/1mM3IeOAt840NlJXVNWUWH) | 2:48 |
 
-Snapshot ID: `MCwxZjM3YTc2NjAxZmUyN2Y5MDdhOTI0NzAzZDljMjI5YjA4M2ZlMTE3`
+Snapshot ID: `MCxmNGMwZTM2ODk1NGQ2ZDFmZTlkZGNjMWQ0MmE0NjBiM2ViM2FmMDll`

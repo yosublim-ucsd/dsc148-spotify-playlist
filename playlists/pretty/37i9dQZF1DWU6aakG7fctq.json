@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin Indie. Cover: Gus",
-  "num_followers": 508449,
+  "num_followers": 508431,
   "original_name": "el nuevo indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjYyMGFhZTM3MDk5OWI0NWQ0MGFhYzUxOGU1M2QzNzE0OTk1Yzk4",
+  "snapshot_id": "MCxhNGJmNjBiMTI0ZWY1MWY4MjRkM2QxNDkyNDFhZjkxNTE5MTU4M2Iz",
   "tracks": [
     {
       "added_at": "2023-11-24 06:55:04",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-11-24 06:55:04",
       "album": {
-        "name": "Hermoso",
-        "url": "https://open.spotify.com/album/3sv2FSWLRDPt9xM2yw78aA"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 207274,
-      "name": "Hermoso",
-      "url": "https://open.spotify.com/track/5PLzR95zxVYpOlpWKtaygC"
-    },
-    {
-      "added_at": "2023-11-24 06:55:04",
-      "album": {
         "name": "Cuando Ella me Bes\u00f3 Prob\u00e9 a Dios",
         "url": "https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 154070,
       "name": "Eutanasia",
       "url": "https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj"
+    },
+    {
+      "added_at": "2023-11-24 06:55:04",
+      "album": {
+        "name": "Hermoso",
+        "url": "https://open.spotify.com/album/3sv2FSWLRDPt9xM2yw78aA"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 207274,
+      "name": "Hermoso",
+      "url": "https://open.spotify.com/track/5PLzR95zxVYpOlpWKtaygC"
     },
     {
       "added_at": "2023-11-24 06:55:04",
@@ -783,18 +783,18 @@
     {
       "added_at": "2023-11-24 06:55:04",
       "album": {
-        "name": "Presente",
-        "url": "https://open.spotify.com/album/1KXUO7PewjHjEJfHyENj70"
+        "name": "En Tus Aguas",
+        "url": "https://open.spotify.com/album/5gEcPV40FRmHGzrFKpUAMP"
       },
       "artists": [
         {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+          "name": "Dariann Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ"
         }
       ],
-      "duration_ms": 312652,
-      "name": "Presente",
-      "url": "https://open.spotify.com/track/1CEySvaIp9SkDg4Kni0tb9"
+      "duration_ms": 228250,
+      "name": "Volando",
+      "url": "https://open.spotify.com/track/0aTWyIrYm4QkGGR0m7INY7"
     },
     {
       "added_at": "2023-11-24 06:55:04",
@@ -815,18 +815,18 @@
     {
       "added_at": "2023-11-24 06:55:04",
       "album": {
-        "name": "En Tus Aguas",
-        "url": "https://open.spotify.com/album/5gEcPV40FRmHGzrFKpUAMP"
+        "name": "Presente",
+        "url": "https://open.spotify.com/album/1KXUO7PewjHjEJfHyENj70"
       },
       "artists": [
         {
-          "name": "Dariann Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ"
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
         }
       ],
-      "duration_ms": 228250,
-      "name": "Volando",
-      "url": "https://open.spotify.com/track/0aTWyIrYm4QkGGR0m7INY7"
+      "duration_ms": 312652,
+      "name": "Presente",
+      "url": "https://open.spotify.com/track/1CEySvaIp9SkDg4Kni0tb9"
     },
     {
       "added_at": "2023-11-24 06:55:04",
@@ -847,6 +847,26 @@
       "duration_ms": 213829,
       "name": "No Hu\u00ed",
       "url": "https://open.spotify.com/track/313jYZDkgH8CSnnhu849cD"
+    },
+    {
+      "added_at": "2023-11-24 06:55:04",
+      "album": {
+        "name": "Por Si No Vuelvo A Casa",
+        "url": "https://open.spotify.com/album/4VXlxaBQHvjgHuloYsQ7kU"
+      },
+      "artists": [
+        {
+          "name": "KYOTTO",
+          "url": "https://open.spotify.com/artist/6DGfzsM8doRBRyvYmgibkd"
+        },
+        {
+          "name": "mauvetrip",
+          "url": "https://open.spotify.com/artist/5tGSRe3Dn91WESmIuRssIR"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "D\u00f3nde Tu Est\u00e1s",
+      "url": "https://open.spotify.com/track/2evmjqcUcR6nRWjfz7GjWU"
     },
     {
       "added_at": "2023-11-24 06:55:04",
@@ -911,26 +931,6 @@
       "duration_ms": 202586,
       "name": "Estos D\u00edas",
       "url": "https://open.spotify.com/track/4lMENCVL77QTWBtEL5VBX6"
-    },
-    {
-      "added_at": "2023-11-24 06:55:04",
-      "album": {
-        "name": "Por Si No Vuelvo A Casa",
-        "url": "https://open.spotify.com/album/4VXlxaBQHvjgHuloYsQ7kU"
-      },
-      "artists": [
-        {
-          "name": "KYOTTO",
-          "url": "https://open.spotify.com/artist/6DGfzsM8doRBRyvYmgibkd"
-        },
-        {
-          "name": "mauvetrip",
-          "url": "https://open.spotify.com/artist/5tGSRe3Dn91WESmIuRssIR"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "D\u00f3nde Tu Est\u00e1s",
-      "url": "https://open.spotify.com/track/2evmjqcUcR6nRWjfz7GjWU"
     },
     {
       "added_at": "2023-11-24 06:55:04",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-11-24 06:55:04",
       "album": {
-        "name": "LOBA Vol. I",
-        "url": "https://open.spotify.com/album/55D4qx1HrxXt5eD9AciIf2"
-      },
-      "artists": [
-        {
-          "name": "Loyal Lobos",
-          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
-        }
-      ],
-      "duration_ms": 173642,
-      "name": "Tengo Sed",
-      "url": "https://open.spotify.com/track/66UioEE9acy6rYWJ02ruwA"
-    },
-    {
-      "added_at": "2023-11-24 06:55:04",
-      "album": {
         "name": "azul",
         "url": "https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 165200,
       "name": "azul",
       "url": "https://open.spotify.com/track/0KqWGI9OozmFKkHAIRdQ27"
+    },
+    {
+      "added_at": "2023-11-24 06:55:04",
+      "album": {
+        "name": "LOBA Vol. I",
+        "url": "https://open.spotify.com/album/55D4qx1HrxXt5eD9AciIf2"
+      },
+      "artists": [
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        }
+      ],
+      "duration_ms": 173642,
+      "name": "Tengo Sed",
+      "url": "https://open.spotify.com/track/66UioEE9acy6rYWJ02ruwA"
     },
     {
       "added_at": "2023-11-24 06:55:04",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-11-24 06:55:04",
       "album": {
+        "name": "Mi Historia Entre Tus Dedos",
+        "url": "https://open.spotify.com/album/7r6vkoLXv4y7aCJOns15NG"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        }
+      ],
+      "duration_ms": 250178,
+      "name": "Mi Historia Entre Tus Dedos",
+      "url": "https://open.spotify.com/track/7ns39yx54DOHmmqWetPV6v"
+    },
+    {
+      "added_at": "2023-11-24 06:55:04",
+      "album": {
         "name": "Todo Lo Que Es Bueno",
         "url": "https://open.spotify.com/album/06gKFFCsifj9HFausMxMyy"
       },
@@ -1275,38 +1291,6 @@
     {
       "added_at": "2023-11-24 06:55:04",
       "album": {
-        "name": "Agosto",
-        "url": "https://open.spotify.com/album/77jrfRbgvoHpwKxM02CAU5"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 219666,
-      "name": "Agosto",
-      "url": "https://open.spotify.com/track/52t0Du4DIIsA46MMayUf0x"
-    },
-    {
-      "added_at": "2023-11-24 06:55:04",
-      "album": {
-        "name": "Gran Turismo",
-        "url": "https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn"
-      },
-      "artists": [
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        }
-      ],
-      "duration_ms": 133693,
-      "name": "Insurgentes",
-      "url": "https://open.spotify.com/track/6ADCLS1XOCRC1ZK66TlXyH"
-    },
-    {
-      "added_at": "2023-11-24 06:55:04",
-      "album": {
         "name": "Migajas",
         "url": "https://open.spotify.com/album/6hyFTP9WF7wDN3fuUyE2X0"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 161147,
       "name": "Migajas",
       "url": "https://open.spotify.com/track/7o9mOCFRSHhGQNiZ0nBa9M"
+    },
+    {
+      "added_at": "2023-11-24 06:55:04",
+      "album": {
+        "name": "Agosto",
+        "url": "https://open.spotify.com/album/77jrfRbgvoHpwKxM02CAU5"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 219666,
+      "name": "Agosto",
+      "url": "https://open.spotify.com/track/52t0Du4DIIsA46MMayUf0x"
     },
     {
       "added_at": "2023-11-24 06:55:04",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-11-24 06:55:04",
       "album": {
-        "name": "odiarte",
-        "url": "https://open.spotify.com/album/4MfTBFDwxb1Hz0uUxrswPA"
-      },
-      "artists": [
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "odiarte",
-      "url": "https://open.spotify.com/track/7ljgbvaKZi1W4rhXWMfsxU"
-    },
-    {
-      "added_at": "2023-11-24 06:55:04",
-      "album": {
         "name": "Historia de un Amor",
         "url": "https://open.spotify.com/album/7GNyEER5rbwEVpAWeep70c"
       },
@@ -1399,18 +1383,34 @@
     {
       "added_at": "2023-11-24 06:55:04",
       "album": {
-        "name": "no es culpa m\u00eda",
-        "url": "https://open.spotify.com/album/5ZbHwgfry7ONiynI2424Uq"
+        "name": "Gran Turismo",
+        "url": "https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn"
       },
       "artists": [
         {
-          "name": "Pink Pablo",
-          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
         }
       ],
-      "duration_ms": 185667,
-      "name": "no es culpa m\u00eda",
-      "url": "https://open.spotify.com/track/3carpytTJk59ujDuX0gs8I"
+      "duration_ms": 133693,
+      "name": "Insurgentes",
+      "url": "https://open.spotify.com/track/6ADCLS1XOCRC1ZK66TlXyH"
+    },
+    {
+      "added_at": "2023-11-24 06:55:04",
+      "album": {
+        "name": "odiarte",
+        "url": "https://open.spotify.com/album/4MfTBFDwxb1Hz0uUxrswPA"
+      },
+      "artists": [
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "odiarte",
+      "url": "https://open.spotify.com/track/7ljgbvaKZi1W4rhXWMfsxU"
     },
     {
       "added_at": "2023-11-24 06:55:04",
@@ -1431,6 +1431,22 @@
       "duration_ms": 222666,
       "name": "Laguna",
       "url": "https://open.spotify.com/track/1IXlvfEQyufn2NehDTUmdA"
+    },
+    {
+      "added_at": "2023-11-24 06:55:04",
+      "album": {
+        "name": "no es culpa m\u00eda",
+        "url": "https://open.spotify.com/album/5ZbHwgfry7ONiynI2424Uq"
+      },
+      "artists": [
+        {
+          "name": "Pink Pablo",
+          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
+        }
+      ],
+      "duration_ms": 185667,
+      "name": "no es culpa m\u00eda",
+      "url": "https://open.spotify.com/track/3carpytTJk59ujDuX0gs8I"
     },
     {
       "added_at": "2023-11-24 06:55:04",
@@ -1467,18 +1483,18 @@
     {
       "added_at": "2023-11-24 06:55:04",
       "album": {
-        "name": "Mi Historia Entre Tus Dedos",
-        "url": "https://open.spotify.com/album/7r6vkoLXv4y7aCJOns15NG"
+        "name": "Esperando",
+        "url": "https://open.spotify.com/album/0LalAUtAHroRqJZiF13axO"
       },
       "artists": [
         {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+          "name": "Leanys",
+          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
         }
       ],
-      "duration_ms": 250178,
-      "name": "Mi Historia Entre Tus Dedos",
-      "url": "https://open.spotify.com/track/7ns39yx54DOHmmqWetPV6v"
+      "duration_ms": 141200,
+      "name": "Esperando",
+      "url": "https://open.spotify.com/track/51qtiFrcp7g6QHFHF59FX4"
     },
     {
       "added_at": "2023-11-24 06:55:04",
@@ -1495,42 +1511,6 @@
       "duration_ms": 195437,
       "name": "Caf\u00e9 con Miel",
       "url": "https://open.spotify.com/track/5JeonPxXiD7yTHklwxNwiZ"
-    },
-    {
-      "added_at": "2023-11-24 06:55:04",
-      "album": {
-        "name": "La Sombra del Amanecer",
-        "url": "https://open.spotify.com/album/25i71egTd0RdShae3PQcve"
-      },
-      "artists": [
-        {
-          "name": "La Vida Boh\u00e8me",
-          "url": "https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79"
-        }
-      ],
-      "duration_ms": 376325,
-      "name": "La Sombra del Amanecer",
-      "url": "https://open.spotify.com/track/6Rtf7VGfor2jIfkLkLula0"
-    },
-    {
-      "added_at": "2023-11-24 06:55:04",
-      "album": {
-        "name": "Maybe Baby",
-        "url": "https://open.spotify.com/album/4tnEnvRN4d6GE6JpKzZNZe"
-      },
-      "artists": [
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        },
-        {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
-        }
-      ],
-      "duration_ms": 227736,
-      "name": "Maybe Baby",
-      "url": "https://open.spotify.com/track/0qKCO9DXAH7kqc2JF3U5jd"
     },
     {
       "added_at": "2023-11-24 06:55:04",
@@ -1555,18 +1535,18 @@
     {
       "added_at": "2023-11-24 06:55:04",
       "album": {
-        "name": "80's",
-        "url": "https://open.spotify.com/album/0dLBUX8WEaabSqpkAFnQES"
+        "name": "La Sombra del Amanecer",
+        "url": "https://open.spotify.com/album/25i71egTd0RdShae3PQcve"
       },
       "artists": [
         {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+          "name": "La Vida Boh\u00e8me",
+          "url": "https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79"
         }
       ],
-      "duration_ms": 213088,
-      "name": "80's",
-      "url": "https://open.spotify.com/track/1SzFUihB1muYUkQOb41fbx"
+      "duration_ms": 376325,
+      "name": "La Sombra del Amanecer",
+      "url": "https://open.spotify.com/track/6Rtf7VGfor2jIfkLkLula0"
     },
     {
       "added_at": "2023-11-24 06:55:04",
@@ -1583,6 +1563,42 @@
       "duration_ms": 134884,
       "name": "El Rio",
       "url": "https://open.spotify.com/track/2NqjGg4EqGXJdByHPE3ptK"
+    },
+    {
+      "added_at": "2023-11-24 06:55:04",
+      "album": {
+        "name": "Maybe Baby",
+        "url": "https://open.spotify.com/album/4tnEnvRN4d6GE6JpKzZNZe"
+      },
+      "artists": [
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        },
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 227736,
+      "name": "Maybe Baby",
+      "url": "https://open.spotify.com/track/0qKCO9DXAH7kqc2JF3U5jd"
+    },
+    {
+      "added_at": "2023-11-24 06:55:04",
+      "album": {
+        "name": "80's",
+        "url": "https://open.spotify.com/album/0dLBUX8WEaabSqpkAFnQES"
+      },
+      "artists": [
+        {
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        }
+      ],
+      "duration_ms": 213088,
+      "name": "80's",
+      "url": "https://open.spotify.com/track/1SzFUihB1muYUkQOb41fbx"
     },
     {
       "added_at": "2023-11-24 06:55:04",
@@ -1631,22 +1647,6 @@
       "duration_ms": 226125,
       "name": "Dama",
       "url": "https://open.spotify.com/track/0Tmi4OKz5CTFnWNjeR2j1G"
-    },
-    {
-      "added_at": "2023-11-24 06:55:04",
-      "album": {
-        "name": "Esperando",
-        "url": "https://open.spotify.com/album/0LalAUtAHroRqJZiF13axO"
-      },
-      "artists": [
-        {
-          "name": "Leanys",
-          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
-        }
-      ],
-      "duration_ms": 141200,
-      "name": "Esperando",
-      "url": "https://open.spotify.com/track/51qtiFrcp7g6QHFHF59FX4"
     },
     {
       "added_at": "2023-11-24 06:55:04",
@@ -1715,18 +1715,18 @@
     {
       "added_at": "2023-11-24 06:55:04",
       "album": {
-        "name": "MAKIA",
-        "url": "https://open.spotify.com/album/2zMjcbAV32pgiNPe5cuaDv"
+        "name": "Si Volviera A Conocerte",
+        "url": "https://open.spotify.com/album/7zfm25FnJAkDghWQZNTDD4"
       },
       "artists": [
         {
-          "name": "ARIA VEGA",
-          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
         }
       ],
-      "duration_ms": 195411,
-      "name": "LA DROGA ES MIA (Yuca_Ab_120BPM)",
-      "url": "https://open.spotify.com/track/1S5StNTWW8ZCBNS9EtF7E0"
+      "duration_ms": 191924,
+      "name": "Si Volviera A Conocerte",
+      "url": "https://open.spotify.com/track/5fRvUrRQHWfnwssgPQKQ49"
     }
   ],
   "unique_name": "el nuevo indie",

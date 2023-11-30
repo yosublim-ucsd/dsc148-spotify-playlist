@@ -1,12 +1,12 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 295857,
+  "num_followers": 295906,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTc3MWJkOTQ2ZWYwYmJiODUwMGRkMDgyMzY1NDVhNzI2N2JkN2Q5",
+  "snapshot_id": "MCw5NTEyMzUwZjBkZjEzNGU0MzI3M2U5YTkwMjAyMjNkNTdhZDhlOTcy",
   "tracks": [
     {
       "added_at": "2023-10-25 14:30:59",
@@ -967,18 +967,18 @@
     {
       "added_at": "2023-10-25 14:30:59",
       "album": {
-        "name": "Hooray For Boobies",
-        "url": "https://open.spotify.com/album/7BuCGZPiQkZpyn0Wj8rxIh"
+        "name": "Meteora (Bonus Edition)",
+        "url": "https://open.spotify.com/album/0y13VbGddQ4azdVWakksAL"
       },
       "artists": [
         {
-          "name": "Bloodhound Gang",
-          "url": "https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh"
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 201826,
-      "name": "Along Comes Mary",
-      "url": "https://open.spotify.com/track/5YpWUYiyidrtRzYedpXKiU"
+      "duration_ms": 187933,
+      "name": "Don't Stay",
+      "url": "https://open.spotify.com/track/27gUeiai56GKF6TxvmPJut"
     },
     {
       "added_at": "2023-10-25 14:30:59",
@@ -999,18 +999,18 @@
     {
       "added_at": "2023-10-25 14:30:59",
       "album": {
-        "name": "Meteora (Bonus Edition)",
-        "url": "https://open.spotify.com/album/0y13VbGddQ4azdVWakksAL"
+        "name": "Hooray For Boobies",
+        "url": "https://open.spotify.com/album/7BuCGZPiQkZpyn0Wj8rxIh"
       },
       "artists": [
         {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+          "name": "Bloodhound Gang",
+          "url": "https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh"
         }
       ],
-      "duration_ms": 187933,
-      "name": "Don't Stay",
-      "url": "https://open.spotify.com/track/27gUeiai56GKF6TxvmPJut"
+      "duration_ms": 201826,
+      "name": "Along Comes Mary",
+      "url": "https://open.spotify.com/track/5YpWUYiyidrtRzYedpXKiU"
     },
     {
       "added_at": "2023-10-25 14:30:59",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2023-10-25 14:30:59",
       "album": {
+        "name": "The Good Life",
+        "url": "https://open.spotify.com/album/5cxdVsmUNjq5w3D6Pgk4yJ"
+      },
+      "artists": [
+        {
+          "name": "Makeout",
+          "url": "https://open.spotify.com/artist/4RkIeqeY7seRZby4X73Ajk"
+        }
+      ],
+      "duration_ms": 150924,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/4e5GTUlVObWYB7WUkyKa7g"
+    },
+    {
+      "added_at": "2023-10-25 14:30:59",
+      "album": {
         "name": "Ours Is Chrome",
         "url": "https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 190133,
       "name": "Who Needs Friends",
       "url": "https://open.spotify.com/track/7AXoSHtReIvoJPi5XKXecl"
-    },
-    {
-      "added_at": "2023-10-25 14:30:59",
-      "album": {
-        "name": "The Good Life",
-        "url": "https://open.spotify.com/album/5cxdVsmUNjq5w3D6Pgk4yJ"
-      },
-      "artists": [
-        {
-          "name": "Makeout",
-          "url": "https://open.spotify.com/artist/4RkIeqeY7seRZby4X73Ajk"
-        }
-      ],
-      "duration_ms": 150924,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/4e5GTUlVObWYB7WUkyKa7g"
     }
   ],
   "unique_name": "Anger Management",

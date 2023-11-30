@@ -1,12 +1,12 @@
 {
   "description": "Afrobeats love stories have the best beginnings",
-  "num_followers": 23342,
+  "num_followers": 23494,
   "original_name": "Lovin' Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWE2MWJmYzQ4MzYxZDJiOWQzNzU1NWUxOTVjMjkyYzY2ZWQ0ZjA3",
+  "snapshot_id": "MCw2MWVhYWMwNjEyNzllYjU3ZDhmN2UwOGFlZmRkOTBlNTgyOTA5YzI0",
   "tracks": [
     {
       "added_at": "2023-11-28 09:53:20",
@@ -647,18 +647,22 @@
     {
       "added_at": "2023-11-28 09:53:20",
       "album": {
-        "name": "Boy Alone (Deluxe)",
-        "url": "https://open.spotify.com/album/5NI7LqHIf9hDtH640m7VI6"
+        "name": "Forever (Remix)",
+        "url": "https://open.spotify.com/album/4aVhyknHZk1updZEHkwd0H"
       },
       "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        },
         {
           "name": "Omah Lay",
           "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 147363,
-      "name": "reason",
-      "url": "https://open.spotify.com/track/2D0HvqDFPK7YmT7kbrzZch"
+      "duration_ms": 201600,
+      "name": "Forever (Remix)",
+      "url": "https://open.spotify.com/track/4vLY6fJQWgBzQYHzguDZme"
     },
     {
       "added_at": "2023-11-28 09:53:20",
@@ -679,6 +683,22 @@
     {
       "added_at": "2023-11-28 09:53:20",
       "album": {
+        "name": "Boy Alone (Deluxe)",
+        "url": "https://open.spotify.com/album/5NI7LqHIf9hDtH640m7VI6"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 147363,
+      "name": "reason",
+      "url": "https://open.spotify.com/track/2D0HvqDFPK7YmT7kbrzZch"
+    },
+    {
+      "added_at": "2023-11-28 09:53:20",
+      "album": {
         "name": "The Evil Genius",
         "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 149387,
       "name": "Panadol",
       "url": "https://open.spotify.com/track/2VkxvwW5Vb3hWrB9so0cQ4"
-    },
-    {
-      "added_at": "2023-11-28 09:53:20",
-      "album": {
-        "name": "Forever (Remix)",
-        "url": "https://open.spotify.com/album/4aVhyknHZk1updZEHkwd0H"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Forever (Remix)",
-      "url": "https://open.spotify.com/track/4vLY6fJQWgBzQYHzguDZme"
     },
     {
       "added_at": "2023-11-28 09:53:20",
@@ -811,18 +811,18 @@
     {
       "added_at": "2023-11-28 09:53:20",
       "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+        "name": "SOMETHING",
+        "url": "https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D"
       },
       "artists": [
         {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
         }
       ],
-      "duration_ms": 168742,
-      "name": "woman",
-      "url": "https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt"
+      "duration_ms": 188411,
+      "name": "SOMETHING",
+      "url": "https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w"
     },
     {
       "added_at": "2023-11-28 09:53:20",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-11-28 09:53:20",
       "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 168742,
+      "name": "woman",
+      "url": "https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt"
+    },
+    {
+      "added_at": "2023-11-28 09:53:20",
+      "album": {
         "name": "My Darling + Angelus",
         "url": "https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 193500,
       "name": "My Darling",
       "url": "https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz"
-    },
-    {
-      "added_at": "2023-11-28 09:53:20",
-      "album": {
-        "name": "SOMETHING",
-        "url": "https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 188411,
-      "name": "SOMETHING",
-      "url": "https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w"
     },
     {
       "added_at": "2023-11-28 09:53:20",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2023-11-28 09:53:20",
       "album": {
+        "name": "Rent Free",
+        "url": "https://open.spotify.com/album/6cryLTyBj54kNA59giEvbA"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 136842,
+      "name": "Rent Free",
+      "url": "https://open.spotify.com/track/320cXn7htYGuAzNyxLDs3M"
+    },
+    {
+      "added_at": "2023-11-28 09:53:20",
+      "album": {
         "name": "Sunflawa",
         "url": "https://open.spotify.com/album/2pNhCqk1IJvwnBjeULmoNz"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 227328,
       "name": "Many Ways (feat. Wizkid)",
       "url": "https://open.spotify.com/track/0lWW0X74IvjNlgY5glykvY"
-    },
-    {
-      "added_at": "2023-11-28 09:53:20",
-      "album": {
-        "name": "Rent Free",
-        "url": "https://open.spotify.com/album/6cryLTyBj54kNA59giEvbA"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 136842,
-      "name": "Rent Free",
-      "url": "https://open.spotify.com/track/320cXn7htYGuAzNyxLDs3M"
     },
     {
       "added_at": "2023-11-28 09:53:20",
@@ -1387,6 +1387,26 @@
     {
       "added_at": "2023-11-28 09:53:20",
       "album": {
+        "name": "PARIWO",
+        "url": "https://open.spotify.com/album/0Jkvu3rltjFQC0khKkivk8"
+      },
+      "artists": [
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 120439,
+      "name": "PARIWO",
+      "url": "https://open.spotify.com/track/20fEWd3EZSTTLuHHllpRl9"
+    },
+    {
+      "added_at": "2023-11-28 09:53:20",
+      "album": {
         "name": "For Days",
         "url": "https://open.spotify.com/album/0B2ciZrwX6zv2ADSniu4i2"
       },
@@ -1419,26 +1439,6 @@
       "duration_ms": 236181,
       "name": "Single Again (feat. Ruger) - Remix",
       "url": "https://open.spotify.com/track/463mgOOvzTeyL2u2cmqKIE"
-    },
-    {
-      "added_at": "2023-11-28 09:53:20",
-      "album": {
-        "name": "PARIWO",
-        "url": "https://open.spotify.com/album/0Jkvu3rltjFQC0khKkivk8"
-      },
-      "artists": [
-        {
-          "name": "Mohbad",
-          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 120439,
-      "name": "PARIWO",
-      "url": "https://open.spotify.com/track/20fEWd3EZSTTLuHHllpRl9"
     },
     {
       "added_at": "2023-11-28 09:53:20",

@@ -1,12 +1,12 @@
 {
   "description": "Una mezcla de rock y punk para motivarte. Get pumped!",
-  "num_followers": 15512,
+  "num_followers": 15935,
   "original_name": "Gym & Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTAzZDg1YTJmZjAyYTdjOTZlYzk0ZGI2MGZiNzVjODQxNmM0ZmYw",
+  "snapshot_id": "MCwwZTY3Yjc5NjM2NTkxZGJhNDg4ZDUwYWM1MWI4MTE1ZTg0MTg0MTRl",
   "tracks": [
     {
       "added_at": "2023-11-09 23:48:34",
@@ -111,6 +111,22 @@
     {
       "added_at": "2023-11-09 23:48:34",
       "album": {
+        "name": "Sue\u00f1os L\u00edquidos",
+        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 310813,
+      "name": "Clavado en Un Bar",
+      "url": "https://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE"
+    },
+    {
+      "added_at": "2023-11-09 23:48:34",
+      "album": {
         "name": "El Ritmo Mundial",
         "url": "https://open.spotify.com/album/4jrl8361FYPSK2gdEEKATh"
       },
@@ -143,22 +159,6 @@
     {
       "added_at": "2023-11-09 23:48:34",
       "album": {
-        "name": "Donde Estan Los Ladrones",
-        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 210266,
-      "name": "Si Te Vas",
-      "url": "https://open.spotify.com/track/7Apo6o7oxgFyXaSmdx6NHN"
-    },
-    {
-      "added_at": "2023-11-09 23:48:34",
-      "album": {
         "name": "El Silencio",
         "url": "https://open.spotify.com/album/1WrK98KVZxkTgMD3a9Kpnl"
       },
@@ -175,34 +175,18 @@
     {
       "added_at": "2023-11-09 23:48:34",
       "album": {
-        "name": "Senderos De Traici\u00f3n - Edici\u00f3n Especial",
-        "url": "https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y"
+        "name": "Donde Estan Los Ladrones",
+        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
       },
       "artists": [
         {
-          "name": "Heroes Del Silencio",
-          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         }
       ],
-      "duration_ms": 253186,
-      "name": "Maldito duende",
-      "url": "https://open.spotify.com/track/7vcDJCAO356RYkCfiUozmE"
-    },
-    {
-      "added_at": "2023-11-09 23:48:34",
-      "album": {
-        "name": "Sue\u00f1os L\u00edquidos",
-        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 310813,
-      "name": "Clavado en Un Bar",
-      "url": "https://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE"
+      "duration_ms": 210266,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/7Apo6o7oxgFyXaSmdx6NHN"
     },
     {
       "added_at": "2023-11-09 23:48:34",
@@ -219,6 +203,22 @@
       "duration_ms": 156197,
       "name": "Irresponsables",
       "url": "https://open.spotify.com/track/0dsViRiDTIuexAL42Nc1Kh"
+    },
+    {
+      "added_at": "2023-11-09 23:48:34",
+      "album": {
+        "name": "Senderos De Traici\u00f3n - Edici\u00f3n Especial",
+        "url": "https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y"
+      },
+      "artists": [
+        {
+          "name": "Heroes Del Silencio",
+          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+        }
+      ],
+      "duration_ms": 253186,
+      "name": "Maldito duende",
+      "url": "https://open.spotify.com/track/7vcDJCAO356RYkCfiUozmE"
     },
     {
       "added_at": "2023-11-09 23:48:34",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-11-09 23:48:34",
       "album": {
-        "name": "Vasos Vac\u00edos",
-        "url": "https://open.spotify.com/album/54A9Agody2BGDXtTGMdFn4"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 275893,
-      "name": "Matador - Remasterizado 2008",
-      "url": "https://open.spotify.com/track/7d4pdMym8ZBOgf1oVPTiPb"
-    },
-    {
-      "added_at": "2023-11-09 23:48:34",
-      "album": {
         "name": "Detector De Metal",
         "url": "https://open.spotify.com/album/3CZjT6RXkAJmmPZipcDg1N"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 250866,
       "name": "Muriendo Lento (feat. Belinda)",
       "url": "https://open.spotify.com/track/2QFjBBDcrnEIqQcKSwZdv0"
+    },
+    {
+      "added_at": "2023-11-09 23:48:34",
+      "album": {
+        "name": "Vasos Vac\u00edos",
+        "url": "https://open.spotify.com/album/54A9Agody2BGDXtTGMdFn4"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 275893,
+      "name": "Matador - Remasterizado 2008",
+      "url": "https://open.spotify.com/track/7d4pdMym8ZBOgf1oVPTiPb"
     },
     {
       "added_at": "2023-11-09 23:48:34",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-11-09 23:48:34",
       "album": {
-        "name": "Coleccion Suprema",
-        "url": "https://open.spotify.com/album/62mYqA8S00dcrD42jmml86"
-      },
-      "artists": [
-        {
-          "name": "Los Prisioneros",
-          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
-        }
-      ],
-      "duration_ms": 338253,
-      "name": "Tren Al Sur",
-      "url": "https://open.spotify.com/track/5nvS1vouQkX0HxOohfqCoS"
-    },
-    {
-      "added_at": "2023-11-09 23:48:34",
-      "album": {
         "name": "Lo Mejor De Los Hombres G",
         "url": "https://open.spotify.com/album/0luVrYnp61bSbpScEHXyt0"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 181782,
       "name": "DESCARTABLE",
       "url": "https://open.spotify.com/track/7J00DHotXFrXatl9X6xY9r"
+    },
+    {
+      "added_at": "2023-11-09 23:48:34",
+      "album": {
+        "name": "Coleccion Suprema",
+        "url": "https://open.spotify.com/album/62mYqA8S00dcrD42jmml86"
+      },
+      "artists": [
+        {
+          "name": "Los Prisioneros",
+          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
+        }
+      ],
+      "duration_ms": 338253,
+      "name": "Tren Al Sur",
+      "url": "https://open.spotify.com/track/5nvS1vouQkX0HxOohfqCoS"
     },
     {
       "added_at": "2023-11-09 23:48:34",
@@ -651,18 +651,18 @@
     {
       "added_at": "2023-11-09 23:48:34",
       "album": {
-        "name": "Donde Jugaran Las Ni\u00f1as",
-        "url": "https://open.spotify.com/album/7h9NpO38NZFD8vcEHw4lkZ"
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/5KSmyxLneU9PjuBZQguAnf"
       },
       "artists": [
         {
-          "name": "Molotov",
-          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+          "name": "Aterciopelados",
+          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
         }
       ],
-      "duration_ms": 250640,
-      "name": "Gimme Tha Power",
-      "url": "https://open.spotify.com/track/6grtIVjVPuZWup0fIXF900"
+      "duration_ms": 177786,
+      "name": "Florecita Rockera",
+      "url": "https://open.spotify.com/track/7dg3Q2HXM5tlaV5B5KXhTr"
     },
     {
       "added_at": "2023-11-09 23:48:34",
@@ -683,18 +683,18 @@
     {
       "added_at": "2023-11-09 23:48:34",
       "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/5KSmyxLneU9PjuBZQguAnf"
+        "name": "Donde Jugaran Las Ni\u00f1as",
+        "url": "https://open.spotify.com/album/7h9NpO38NZFD8vcEHw4lkZ"
       },
       "artists": [
         {
-          "name": "Aterciopelados",
-          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
         }
       ],
-      "duration_ms": 177786,
-      "name": "Florecita Rockera",
-      "url": "https://open.spotify.com/track/7dg3Q2HXM5tlaV5B5KXhTr"
+      "duration_ms": 250640,
+      "name": "Gimme Tha Power",
+      "url": "https://open.spotify.com/track/6grtIVjVPuZWup0fIXF900"
     },
     {
       "added_at": "2023-11-09 23:48:34",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-11-09 23:48:34",
       "album": {
-        "name": "Donde Jugaran Las Ni\u00f1as",
-        "url": "https://open.spotify.com/album/7h9NpO38NZFD8vcEHw4lkZ"
-      },
-      "artists": [
-        {
-          "name": "Molotov",
-          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
-        }
-      ],
-      "duration_ms": 127373,
-      "name": "Puto",
-      "url": "https://open.spotify.com/track/5OWF7n0zX8kyTJvv1jTvZX"
-    },
-    {
-      "added_at": "2023-11-09 23:48:34",
-      "album": {
         "name": "Back To The Game",
         "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 189466,
       "name": "Entre Tus Jardines",
       "url": "https://open.spotify.com/track/1Ij7mdEnt87PqwyrLbfCp8"
+    },
+    {
+      "added_at": "2023-11-09 23:48:34",
+      "album": {
+        "name": "Donde Jugaran Las Ni\u00f1as",
+        "url": "https://open.spotify.com/album/7h9NpO38NZFD8vcEHw4lkZ"
+      },
+      "artists": [
+        {
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+        }
+      ],
+      "duration_ms": 127373,
+      "name": "Puto",
+      "url": "https://open.spotify.com/track/5OWF7n0zX8kyTJvv1jTvZX"
     },
     {
       "added_at": "2023-11-09 23:48:34",
@@ -823,22 +823,18 @@
     {
       "added_at": "2023-11-09 23:48:34",
       "album": {
-        "name": "Cansado de estar triste",
-        "url": "https://open.spotify.com/album/65JzMj5NQD539KQ0FzGBU2"
+        "name": "Historias De La Calle",
+        "url": "https://open.spotify.com/album/0It6LpqmGgPSMdXMSXKS1w"
       },
       "artists": [
         {
-          "name": "Xavibo",
-          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
-        },
-        {
-          "name": "Walls",
-          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+          "name": "GUFI",
+          "url": "https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN"
         }
       ],
-      "duration_ms": 175867,
-      "name": "Cansado de estar triste",
-      "url": "https://open.spotify.com/track/0KhvJklV4bqAuXwFLEEX3x"
+      "duration_ms": 210337,
+      "name": "Eso Es Todo Lo Que Soy",
+      "url": "https://open.spotify.com/track/3A0t8Bg8kFoVuCZFiKhY9k"
     }
   ],
   "unique_name": "Gym & Rock",

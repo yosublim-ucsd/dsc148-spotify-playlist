@@ -4,7 +4,7 @@
 
 > The essential tracks, all in one playlist.
 
-189 songs - 12 hr 27 min
+190 songs - 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [You Belong With Me \(Taylor’s Version\)](https://open.spotify.com/track/4P7LVHDbzn7aI6wWRh5AHc) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor’s Version\): The I Remember What You Said Last Night Chapter](https://open.spotify.com/album/0XCoR1j5Sa2su9uDS9AScR) | 3:51 | 2023-01-09 |  |
 | [You Need To Calm Down](https://open.spotify.com/track/6RRNNciQGZEXnqk8SQ9yv5) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:51 | 2023-01-09 |  |
 | [You're On Your Own, Kid](https://open.spotify.com/track/4D7BCuvgdJlYvlX5WlN54t) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:14 | 2023-01-09 |  |
+| [You’re Losing Me \(From The Vault\)](https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [You're Losing Me \(From The Vault\)](https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7) | 4:37 | 2023-11-29 |  |
 | [‘tis the damn season](https://open.spotify.com/track/7dW84mWkdWE5a6lFWxJCBG) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 3:49 | 2023-01-09 |  |
 
 \*This playlist was first scraped on 2023-01-21. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 
 > California music breaking waves\. Cover: <a href="spotify:artist:7MNEVabc4cs19CbzAFZmXz">Terrace Martin</a> and <a href="spotify:artist:7E2ioKxoxI2J94tUkIx6As">Alex Isley</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,845 likes - 63 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,866 likes - 63 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 | 62 | [Gifted Creatures](https://open.spotify.com/track/01j6ga5rGndEldo5EY2llN) | [Domo Genesis](https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6), [Graymatter](https://open.spotify.com/artist/79sVZ1pbm24IZ9GbbCWlLv) | [What You Don’t Get?!](https://open.spotify.com/album/21nWEdfRl0qTZOpaqy2GuK) | 3:07 |
 | 63 | [OKAY!](https://open.spotify.com/track/0VTBZdSjY7aG3T8i5bmitt) | [Joe Maynor](https://open.spotify.com/artist/1PCPY2XwqDjKWiPEUJuQYf), [Lil Vada](https://open.spotify.com/artist/61HlkUsczjBP7IODEMFtrB) | [Party Pack Vol 1.](https://open.spotify.com/album/0UhOnOrEKvl9vvmtJ2Xoq4) | 3:08 |
 
-Snapshot ID: `MCw1MGVlZTdjMTZlYzE0ZTliZGIzZTlmOWVmNzhlYWUzMWRmNmY2MjNj`
+Snapshot ID: `MCxhMWMxOGRlYzc0ZjIxNDgzZTQwZGRlZDg3NThkNTEyZGQ0ZDQ2NzZi`

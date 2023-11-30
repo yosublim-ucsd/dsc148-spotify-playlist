@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 ### [Plus Ultra](https://open.spotify.com/playlist/37i9dQZF1DX14EWeH2Pwf3)
 
-> La playlist urban più grande d'Italia 🔥 Cover: Sfera Ebbasta
+> La playlist urban più grande d'Italia 🔥 Cover: Sfera Ebbasta\.  <a href="spotify:playlist:37i9dQZF1DWYQKKZPHGppf">Scopri il Best Of del 2023 qui!</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 907,841 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 908,115 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [GRAMMELOT](https://open.spotify.com/track/0QZYznuUxIPXs7gY8CPvS4) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [The Globe](https://open.spotify.com/album/0Wp32iRbmSA3VvGZmAYjDv) | 1:36 |
 | 50 | [FASHION](https://open.spotify.com/track/2GrgmzXmNHOfqIcrDSQmQa) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [FASHION](https://open.spotify.com/album/6F9abOtP5f8U6AVCHFN8Tl) | 2:29 |
 
-Snapshot ID: `MCxjODBhMzBkYzEwZjgzMDg3YzEyMjJkZmQwMjE1ODczZTE4NDRkOTg2`
+Snapshot ID: `MCwwYTgzODhkY2FiOTAzY2Q1NTEzMWZjM2Q0ZTMxMmRkM2I5MWM2OTgx`

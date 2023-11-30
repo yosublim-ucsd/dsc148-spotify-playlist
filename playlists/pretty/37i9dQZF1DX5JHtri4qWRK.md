@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JHtri4qWRK.md) - [plain]
 
 > R&B jams for the brokenhearted.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,930 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,939 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,10 +87,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JHtri4qWRK.md) - [plain]
 | 77 | [Missing You](https://open.spotify.com/track/0CmXXEwul09Kf8X68lPA5l) | [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy) | [Open Letter](https://open.spotify.com/album/5nfFCN6B0AhReHctfLi1vL) | 4:44 |
 | 78 | [Losing You](https://open.spotify.com/track/5hR0wTnydz6lmErOV4c0sp) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [Losing You](https://open.spotify.com/album/6VCjvboIlNJ3N881Xja6ng) | 4:20 |
 | 79 | [Heard It All Before](https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co) | [Sunshine Anderson](https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK) | [Your Woman](https://open.spotify.com/album/2y7sSNd02a5uTfauRPY0lp) | 4:55 |
-| 80 | [It's Over Now](https://open.spotify.com/track/769geiA8btidGHda4BBDOJ) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Part III](https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb) | 4:24 |
-| 81 | [You Can't Save Me](https://open.spotify.com/track/1OykBmq3vmMSEOQShNIBLv) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Chasing Summer](https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7) | 2:54 |
-| 82 | [Hallucinations](https://open.spotify.com/track/3J6I2S9sTNVStKhkrPp3yd) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [SEPT 5TH](https://open.spotify.com/album/2XhC7JL4ULFBP1qlqoR0Vv) | 4:06 |
-| 83 | [Make Me Cry](https://open.spotify.com/track/6zR3jAXgWCs9wmW1r4XGyk) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Make Me Cry](https://open.spotify.com/album/71SoFumWoKRAZkH2ekWYpF) | 2:42 |
+| 80 | [You Can't Save Me](https://open.spotify.com/track/1OykBmq3vmMSEOQShNIBLv) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Chasing Summer](https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7) | 2:54 |
+| 81 | [It's Over Now](https://open.spotify.com/track/769geiA8btidGHda4BBDOJ) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Part III](https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb) | 4:24 |
+| 82 | [Make Me Cry](https://open.spotify.com/track/6zR3jAXgWCs9wmW1r4XGyk) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Make Me Cry](https://open.spotify.com/album/71SoFumWoKRAZkH2ekWYpF) | 2:42 |
+| 83 | [Hallucinations](https://open.spotify.com/track/3J6I2S9sTNVStKhkrPp3yd) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [SEPT 5TH](https://open.spotify.com/album/2XhC7JL4ULFBP1qlqoR0Vv) | 4:06 |
 | 84 | [I Get Lonely](https://open.spotify.com/track/4FTq81I0X4J6y9X06GcZIN) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [The Velvet Rope](https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj) | 5:17 |
 | 85 | [I Bet](https://open.spotify.com/track/20lNo44eUUCnyNNInzwkv9) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Jackie \(Deluxe\)](https://open.spotify.com/album/1vxEYHEzZI2l1AyZOtVHKJ) | 4:47 |
 | 86 | [Need U Bad](https://open.spotify.com/track/0Ri0LzOMJmqi9HGZE5cRYV) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Fearless](https://open.spotify.com/album/2V99Z0aZgSK6XTbh19UYTU) | 4:17 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JHtri4qWRK.md) - [plain]
 | 95 | [If I Was Your Man](https://open.spotify.com/track/5PH2eU6P5LdnwDezBu8334) | [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [Ain't Nothin' Like Me](https://open.spotify.com/album/0dd14CK6sAyTBse2l54qBi) | 3:52 |
 | 96 | [Officially Missing You](https://open.spotify.com/track/6CUTYJQKcDwcQ63EulINUo) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [More](https://open.spotify.com/album/43QuYbSfbTjcsghwJyUnyP) | 4:02 |
 | 97 | [We Need A Resolution \(feat\. Timbaland\)](https://open.spotify.com/track/2c7huQpWR29bcXrrvLcG2j) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Aaliyah](https://open.spotify.com/album/0cNaDPtbHC1PMJMRTY2GFc) | 4:02 |
-| 98 | [Think About Me](https://open.spotify.com/track/2WUGnxLyK24CbGCcTIjEBY) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Morning After](https://open.spotify.com/album/0hzJ9hfyUIK0LEAIth4JWd) | 4:06 |
-| 99 | [All I Have](https://open.spotify.com/track/1RQE33QW6K4YFKGPLHjbcC) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [10](https://open.spotify.com/album/7E2TsBS4jPmfdjjTRUJ9Hn) | 4:14 |
+| 98 | [All I Have](https://open.spotify.com/track/1RQE33QW6K4YFKGPLHjbcC) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [10](https://open.spotify.com/album/7E2TsBS4jPmfdjjTRUJ9Hn) | 4:14 |
+| 99 | [Think About Me](https://open.spotify.com/track/2WUGnxLyK24CbGCcTIjEBY) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Morning After](https://open.spotify.com/album/0hzJ9hfyUIK0LEAIth4JWd) | 4:06 |
 | 100 | [Anytime](https://open.spotify.com/track/2gQ3lDcFYa3yFOkaw8PtuO) | [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9) | [Anytime](https://open.spotify.com/album/7qxIzUF6FoGTu62oeRdNFd) | 4:33 |
 
-Snapshot ID: `MCwyZmVlNDYwYTkwNmRlYmQyMDU0NmIxNmU2MTIwNWZkODEwNWYzZjAy`
+Snapshot ID: `MCxiZTcyYWQ3ZjI3OWFlNTQ2ZjM2ZjQ5NmU5Yjg1MzM5MGNkOWEyYjBm`

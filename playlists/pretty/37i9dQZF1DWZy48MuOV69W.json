@@ -1,12 +1,12 @@
 {
   "description": "Cozy and jazzy interpretations of all your favourite Christmas songs.",
-  "num_followers": 63293,
+  "num_followers": 63505,
   "original_name": "Fireside Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjJhNGFlM2ZlYjY2ZDg1M2Y5NDE1Zjc4NWQ2MGM1ODNjMzNhN2Ez",
+  "snapshot_id": "MCwwZDMyY2ZiNmU2NjA1NmQ1YzJkYmExMjk5YWFmYTA5MTBlZTYyYTg5",
   "tracks": [
     {
       "added_at": "2023-11-28 12:40:28",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-11-28 12:40:28",
       "album": {
+        "name": "All I Want For Christmas Is You",
+        "url": "https://open.spotify.com/album/6NG2YLKoP9ZrSPpUIiexj8"
+      },
+      "artists": [
+        {
+          "name": "Midtown Players",
+          "url": "https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO"
+        }
+      ],
+      "duration_ms": 241374,
+      "name": "All I Want For Christmas Is You",
+      "url": "https://open.spotify.com/track/5495y2sQOmH2lTeki2cTkD"
+    },
+    {
+      "added_at": "2023-11-28 12:40:28",
+      "album": {
         "name": "Merry Christmas Darling",
         "url": "https://open.spotify.com/album/1tHctD2yAOz3P7fxWCj5aF"
       },
@@ -823,34 +839,18 @@
     {
       "added_at": "2023-11-28 12:40:28",
       "album": {
-        "name": "All I Want For Christmas Is You",
-        "url": "https://open.spotify.com/album/6NG2YLKoP9ZrSPpUIiexj8"
+        "name": "The Very Best Time Of Year",
+        "url": "https://open.spotify.com/album/5OYaZZMzjUuPmj1OZgDwh1"
       },
       "artists": [
         {
-          "name": "Midtown Players",
-          "url": "https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO"
+          "name": "Laura Fygi",
+          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
         }
       ],
-      "duration_ms": 241374,
-      "name": "All I Want For Christmas Is You",
-      "url": "https://open.spotify.com/track/5495y2sQOmH2lTeki2cTkD"
-    },
-    {
-      "added_at": "2023-11-28 12:40:28",
-      "album": {
-        "name": "A Nancy Wilson Christmas",
-        "url": "https://open.spotify.com/album/5tI1MB1rVlks6MYEPARQI1"
-      },
-      "artists": [
-        {
-          "name": "Nancy Wilson",
-          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
-        }
-      ],
-      "duration_ms": 237320,
-      "name": "All Through The Night",
-      "url": "https://open.spotify.com/track/560YAqeXWWXZ1u9ydYQanQ"
+      "duration_ms": 174066,
+      "name": "A Song For Christmas",
+      "url": "https://open.spotify.com/track/1UyTgv5uA2AWeEzl8xhRxW"
     },
     {
       "added_at": "2023-11-28 12:40:28",
@@ -871,18 +871,18 @@
     {
       "added_at": "2023-11-28 12:40:28",
       "album": {
-        "name": "The Very Best Time Of Year",
-        "url": "https://open.spotify.com/album/5OYaZZMzjUuPmj1OZgDwh1"
+        "name": "A Nancy Wilson Christmas",
+        "url": "https://open.spotify.com/album/5tI1MB1rVlks6MYEPARQI1"
       },
       "artists": [
         {
-          "name": "Laura Fygi",
-          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
         }
       ],
-      "duration_ms": 174066,
-      "name": "A Song For Christmas",
-      "url": "https://open.spotify.com/track/1UyTgv5uA2AWeEzl8xhRxW"
+      "duration_ms": 237320,
+      "name": "All Through The Night",
+      "url": "https://open.spotify.com/track/560YAqeXWWXZ1u9ydYQanQ"
     },
     {
       "added_at": "2023-11-28 12:40:28",

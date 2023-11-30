@@ -1,12 +1,12 @@
 {
   "description": "The songs of the 1990s that will make you dance all summer long!",
-  "num_followers": 553407,
+  "num_followers": 553435,
   "original_name": "Summer Hits of the 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTRjYzM2ZWNjOTMwNDZhNDE2ZmZkYzNmNGVkZTRiYjU4OWE1ZWY5",
+  "snapshot_id": "MCw3YjdhYzExNjljMGEyMDdiMmNlYjQ1NDgyMmI3NTllMmQ3YjNjZGM5",
   "tracks": [
     {
       "added_at": "2023-06-16 18:37:43",
@@ -279,22 +279,6 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "Aquarium (Special Edition)",
-        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
-      },
-      "artists": [
-        {
-          "name": "Aqua",
-          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
-        }
-      ],
-      "duration_ms": 197960,
-      "name": "Barbie Girl",
-      "url": "https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
         "name": "The Writing's On The Wall",
         "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 271333,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
+        "name": "Aquarium (Special Edition)",
+        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
+      },
+      "artists": [
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        }
+      ],
+      "duration_ms": 197960,
+      "name": "Barbie Girl",
+      "url": "https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "Now in a Minute",
-        "url": "https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL"
-      },
-      "artists": [
-        {
-          "name": "Donna Lewis",
-          "url": "https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2"
-        }
-      ],
-      "duration_ms": 239960,
-      "name": "I Love You Always Forever",
-      "url": "https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
         "name": "I Should Coco",
         "url": "https://open.spotify.com/album/4XeQWsW3K9qjfv5FP9Jtcv"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 180880,
       "name": "Alright",
       "url": "https://open.spotify.com/track/5CQvKyzkWI7TnUu2oB9QZ0"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
+        "name": "Now in a Minute",
+        "url": "https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL"
+      },
+      "artists": [
+        {
+          "name": "Donna Lewis",
+          "url": "https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2"
+        }
+      ],
+      "duration_ms": 239960,
+      "name": "I Love You Always Forever",
+      "url": "https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "Middle Of Nowhere",
-        "url": "https://open.spotify.com/album/3StpQT9Qd87FSeWeQAdg1h"
-      },
-      "artists": [
-        {
-          "name": "Hanson",
-          "url": "https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58"
-        }
-      ],
-      "duration_ms": 268653,
-      "name": "MMMBop",
-      "url": "https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
         "name": "...Baby One More Time (Digital Deluxe Version)",
         "url": "https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 198066,
       "name": "(You Drive Me) Crazy",
       "url": "https://open.spotify.com/track/1DSJNBNhGZCigg9ll5VeZv"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
+        "name": "Middle Of Nowhere",
+        "url": "https://open.spotify.com/album/3StpQT9Qd87FSeWeQAdg1h"
+      },
+      "artists": [
+        {
+          "name": "Hanson",
+          "url": "https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58"
+        }
+      ],
+      "duration_ms": 268653,
+      "name": "MMMBop",
+      "url": "https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "Sweet Dreams",
-        "url": "https://open.spotify.com/album/71RkrTSvnL2Ke6xvYIMoOy"
-      },
-      "artists": [
-        {
-          "name": "La Bouche",
-          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
-        }
-      ],
-      "duration_ms": 241133,
-      "name": "Be My Lover",
-      "url": "https://open.spotify.com/track/3YB6nCSuFqNiqOvPtAPK9X"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
         "name": "The Madman's Return",
         "url": "https://open.spotify.com/album/4XbUZbCiZynKWMCWFoNSbY"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 225882,
       "name": "Rhythm Is a Dancer (7\" Edit)",
       "url": "https://open.spotify.com/track/5mFQCdbvuzVATC7tP7XsPp"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
+        "name": "Sweet Dreams",
+        "url": "https://open.spotify.com/album/71RkrTSvnL2Ke6xvYIMoOy"
+      },
+      "artists": [
+        {
+          "name": "La Bouche",
+          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
+        }
+      ],
+      "duration_ms": 241133,
+      "name": "Be My Lover",
+      "url": "https://open.spotify.com/track/3YB6nCSuFqNiqOvPtAPK9X"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 264560,
-      "name": "American Woman",
-      "url": "https://open.spotify.com/track/3X6iIrFuQoCshIWBseEKPl"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
         "name": "Let\u2019s Face It",
         "url": "https://open.spotify.com/album/5Q9CP8RlnRY3MfcRliWj6r"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 195195,
       "name": "The Impression That I Get",
       "url": "https://open.spotify.com/track/3a3EDrWejkryzeGFkPypOR"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 264560,
+      "name": "American Woman",
+      "url": "https://open.spotify.com/track/3X6iIrFuQoCshIWBseEKPl"
     },
     {
       "added_at": "2023-06-16 18:37:43",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-06-16 18:37:43",
       "album": {
-        "name": "Hits!",
-        "url": "https://open.spotify.com/album/3GKFt0Fc0iW0OoTt4qHoV2"
-      },
-      "artists": [
-        {
-          "name": "Right Said Fred",
-          "url": "https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL"
-        }
-      ],
-      "duration_ms": 171679,
-      "name": "I'm Too Sexy",
-      "url": "https://open.spotify.com/track/76gbXfMpFoZJGkPgxgzvFt"
-    },
-    {
-      "added_at": "2023-06-16 18:37:43",
-      "album": {
         "name": "Another Night",
         "url": "https://open.spotify.com/album/0m4EUHpp4mVnV8AWHT7T7x"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 236933,
       "name": "Another Night",
       "url": "https://open.spotify.com/track/3pEuO9J2MTEmec8kUfYYvl"
+    },
+    {
+      "added_at": "2023-06-16 18:37:43",
+      "album": {
+        "name": "Hits!",
+        "url": "https://open.spotify.com/album/3GKFt0Fc0iW0OoTt4qHoV2"
+      },
+      "artists": [
+        {
+          "name": "Right Said Fred",
+          "url": "https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL"
+        }
+      ],
+      "duration_ms": 171679,
+      "name": "I'm Too Sexy",
+      "url": "https://open.spotify.com/track/76gbXfMpFoZJGkPgxgzvFt"
     }
   ],
   "unique_name": "Summer Hits of the 90s",

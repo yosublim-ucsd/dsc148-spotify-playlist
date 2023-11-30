@@ -1,12 +1,12 @@
 {
   "description": "Bossa Nova e MPB como acompanhamento / Bossa y m\u00fasica brasile\u00f1a para todo momento.",
-  "num_followers": 203766,
+  "num_followers": 203891,
   "original_name": "Caf\u00e9 Bossa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTZjYWUwZmRkZjJiZmNkMWZmMjY1NTY5MzkzZjVmNjQzNWUzOTZk",
+  "snapshot_id": "MCwyNmI2NmNiMmZjYjYwYTIxZGEyNjU1YjgzNDhlNWZjNWIzYTExZmM1",
   "tracks": [
     {
       "added_at": "2023-11-24 08:43:33",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
-        "name": "Ataraxia",
-        "url": "https://open.spotify.com/album/2qm9RP68WSIOpjeuz9Y8bk"
-      },
-      "artists": [
-        {
-          "name": "Emma dos Santos",
-          "url": "https://open.spotify.com/artist/5BCrXE0QF0mUKYmQTk43gp"
-        }
-      ],
-      "duration_ms": 183656,
-      "name": "Ataraxia",
-      "url": "https://open.spotify.com/track/59eUAGih69vhMrwQoHrQNP"
-    },
-    {
-      "added_at": "2023-11-24 08:43:33",
-      "album": {
         "name": "Vaidoso",
         "url": "https://open.spotify.com/album/1c8sfO9ugBr4SHYChqewTC"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 180641,
       "name": "Vaidoso",
       "url": "https://open.spotify.com/track/30wH1ebVpN4yCfXqEbNhMG"
+    },
+    {
+      "added_at": "2023-11-24 08:43:33",
+      "album": {
+        "name": "Ataraxia",
+        "url": "https://open.spotify.com/album/2qm9RP68WSIOpjeuz9Y8bk"
+      },
+      "artists": [
+        {
+          "name": "Emma dos Santos",
+          "url": "https://open.spotify.com/artist/5BCrXE0QF0mUKYmQTk43gp"
+        }
+      ],
+      "duration_ms": 183656,
+      "name": "Ataraxia",
+      "url": "https://open.spotify.com/track/59eUAGih69vhMrwQoHrQNP"
     },
     {
       "added_at": "2023-11-24 08:43:33",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
-        "name": "Anos Dourados",
-        "url": "https://open.spotify.com/album/5uap9XbIdjhq3W1b6YjiKx"
-      },
-      "artists": [
-        {
-          "name": "Luiz Lucas",
-          "url": "https://open.spotify.com/artist/37Z26WT0bfNIrRztWbGv0p"
-        }
-      ],
-      "duration_ms": 333251,
-      "name": "A Paz",
-      "url": "https://open.spotify.com/track/55TtEDqfXTOKdjI53ruLpA"
-    },
-    {
-      "added_at": "2023-11-24 08:43:33",
-      "album": {
         "name": "Balan\u00e7o na Quebrada",
         "url": "https://open.spotify.com/album/3aE7O0WQoaLqzranUowU3r"
       },
@@ -387,18 +371,18 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
-        "name": "S\u00f3 Tinha de Ser com Voc\u00ea",
-        "url": "https://open.spotify.com/album/7nUM7a3z2pGH5pII2MEy8n"
+        "name": "Anos Dourados",
+        "url": "https://open.spotify.com/album/5uap9XbIdjhq3W1b6YjiKx"
       },
       "artists": [
         {
-          "name": "Joao Silva Oliveira",
-          "url": "https://open.spotify.com/artist/2H9tPIniwpdz9EvKYvRKFq"
+          "name": "Luiz Lucas",
+          "url": "https://open.spotify.com/artist/37Z26WT0bfNIrRztWbGv0p"
         }
       ],
-      "duration_ms": 238310,
-      "name": "S\u00f3 Tinha de Ser com Voc\u00ea",
-      "url": "https://open.spotify.com/track/5KrmPhZXWsrn1xVey30806"
+      "duration_ms": 333251,
+      "name": "A Paz",
+      "url": "https://open.spotify.com/track/55TtEDqfXTOKdjI53ruLpA"
     },
     {
       "added_at": "2023-11-24 08:43:33",
@@ -415,6 +399,22 @@
       "duration_ms": 265861,
       "name": "Ing\u00eanuo",
       "url": "https://open.spotify.com/track/5WdwAOjgo2uE6xdnHfbRRx"
+    },
+    {
+      "added_at": "2023-11-24 08:43:33",
+      "album": {
+        "name": "S\u00f3 Tinha de Ser com Voc\u00ea",
+        "url": "https://open.spotify.com/album/7nUM7a3z2pGH5pII2MEy8n"
+      },
+      "artists": [
+        {
+          "name": "Joao Silva Oliveira",
+          "url": "https://open.spotify.com/artist/2H9tPIniwpdz9EvKYvRKFq"
+        }
+      ],
+      "duration_ms": 238310,
+      "name": "S\u00f3 Tinha de Ser com Voc\u00ea",
+      "url": "https://open.spotify.com/track/5KrmPhZXWsrn1xVey30806"
     },
     {
       "added_at": "2023-11-24 08:43:33",
@@ -847,26 +847,6 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
-        "name": "Veja Bem Meu Bem (Single)",
-        "url": "https://open.spotify.com/album/395WtO1KY2VMx5NVcilT1R"
-      },
-      "artists": [
-        {
-          "name": "Daniela Soledade",
-          "url": "https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl"
-        },
-        {
-          "name": "Yves Dharamraj",
-          "url": "https://open.spotify.com/artist/7KcNnfR1aLjOj9EFbRe63W"
-        }
-      ],
-      "duration_ms": 322202,
-      "name": "Veja Bem Meu Bem",
-      "url": "https://open.spotify.com/track/293QQHlGCVFmWoS2YMbjot"
-    },
-    {
-      "added_at": "2023-11-24 08:43:33",
-      "album": {
         "name": "Samba Sem Ver\u00e3o",
         "url": "https://open.spotify.com/album/76pPBEo0uNo1NB1t7BKijH"
       },
@@ -891,6 +871,26 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
+        "name": "Veja Bem Meu Bem (Single)",
+        "url": "https://open.spotify.com/album/395WtO1KY2VMx5NVcilT1R"
+      },
+      "artists": [
+        {
+          "name": "Daniela Soledade",
+          "url": "https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl"
+        },
+        {
+          "name": "Yves Dharamraj",
+          "url": "https://open.spotify.com/artist/7KcNnfR1aLjOj9EFbRe63W"
+        }
+      ],
+      "duration_ms": 322202,
+      "name": "Veja Bem Meu Bem",
+      "url": "https://open.spotify.com/track/293QQHlGCVFmWoS2YMbjot"
+    },
+    {
+      "added_at": "2023-11-24 08:43:33",
+      "album": {
         "name": "A Ma\u00e7\u00e3",
         "url": "https://open.spotify.com/album/5C6P51oL3rfqLLG9Ve3S1H"
       },
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
-        "name": "Selfie",
-        "url": "https://open.spotify.com/album/7Al9VuPMLbkh6hjL90GFgz"
-      },
-      "artists": [
-        {
-          "name": "Jair Oliveira",
-          "url": "https://open.spotify.com/artist/1kuKDHZD1oPXwVZviVgRbV"
-        }
-      ],
-      "duration_ms": 187905,
-      "name": "Seres Incriveis",
-      "url": "https://open.spotify.com/track/6k1V8fUxya4uGTu5gRZ1OW"
-    },
-    {
-      "added_at": "2023-11-24 08:43:33",
-      "album": {
         "name": "Giordano Rosa",
         "url": "https://open.spotify.com/album/0SHzAgEULVIquqUqZmm7ni"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 151875,
       "name": "Marinheiro",
       "url": "https://open.spotify.com/track/5iaG80CUlrQrMte5ZiBXMY"
+    },
+    {
+      "added_at": "2023-11-24 08:43:33",
+      "album": {
+        "name": "Selfie",
+        "url": "https://open.spotify.com/album/7Al9VuPMLbkh6hjL90GFgz"
+      },
+      "artists": [
+        {
+          "name": "Jair Oliveira",
+          "url": "https://open.spotify.com/artist/1kuKDHZD1oPXwVZviVgRbV"
+        }
+      ],
+      "duration_ms": 187905,
+      "name": "Seres Incriveis",
+      "url": "https://open.spotify.com/track/6k1V8fUxya4uGTu5gRZ1OW"
     },
     {
       "added_at": "2023-11-24 08:43:33",
@@ -1083,6 +1083,30 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
+        "name": "Saudade Fez um Samba",
+        "url": "https://open.spotify.com/album/7nUUtvmgriNDiRYrgJmiG7"
+      },
+      "artists": [
+        {
+          "name": "Carlos Lyra",
+          "url": "https://open.spotify.com/artist/3LokxmaXXZpL7sLZASDzCS"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        },
+        {
+          "name": "Jo\u00e3o Donato",
+          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+        }
+      ],
+      "duration_ms": 170880,
+      "name": "Saudade Fez um Samba",
+      "url": "https://open.spotify.com/track/6DqwMVBqftG7yoPb2Uu0Rq"
+    },
+    {
+      "added_at": "2023-11-24 08:43:33",
+      "album": {
         "name": "Tin Tin Por Tin Tin",
         "url": "https://open.spotify.com/album/6DP8FaANahc0bYzH1AlnYK"
       },
@@ -1111,26 +1135,6 @@
       "duration_ms": 248000,
       "name": "Eu Sambo Mesmo",
       "url": "https://open.spotify.com/track/5Fx820lVuAT6bI3Dj5kfpk"
-    },
-    {
-      "added_at": "2023-11-24 08:43:33",
-      "album": {
-        "name": "Al\u00e9m da Bossa",
-        "url": "https://open.spotify.com/album/19GvUGWM0Nxpeu9tAT3fnq"
-      },
-      "artists": [
-        {
-          "name": "Carlos Lyra",
-          "url": "https://open.spotify.com/artist/3LokxmaXXZpL7sLZASDzCS"
-        },
-        {
-          "name": "Marcos Valle",
-          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
-        }
-      ],
-      "duration_ms": 225040,
-      "name": "Al\u00e9m da Bossa",
-      "url": "https://open.spotify.com/track/7eoYRn9t2a0XprCvLLW7lZ"
     },
     {
       "added_at": "2023-11-24 08:43:33",
@@ -1215,18 +1219,22 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
-        "name": "Caminhos Cruzados",
-        "url": "https://open.spotify.com/album/1QbDrylgpdaB6wwbU7aFbo"
+        "name": "Al\u00e9m da Bossa",
+        "url": "https://open.spotify.com/album/19GvUGWM0Nxpeu9tAT3fnq"
       },
       "artists": [
         {
-          "name": "Ana Solari",
-          "url": "https://open.spotify.com/artist/1Gv09zvQN6BmMpFygO3SiP"
+          "name": "Carlos Lyra",
+          "url": "https://open.spotify.com/artist/3LokxmaXXZpL7sLZASDzCS"
+        },
+        {
+          "name": "Marcos Valle",
+          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
         }
       ],
-      "duration_ms": 152752,
-      "name": "Caminhos Cruzados",
-      "url": "https://open.spotify.com/track/1W8h3WiCfHyh3YG1UwdWqq"
+      "duration_ms": 225040,
+      "name": "Al\u00e9m da Bossa",
+      "url": "https://open.spotify.com/track/7eoYRn9t2a0XprCvLLW7lZ"
     },
     {
       "added_at": "2023-11-24 08:43:33",
@@ -1243,6 +1251,22 @@
       "duration_ms": 234973,
       "name": "Samba Dolente",
       "url": "https://open.spotify.com/track/6qbo26M43ipM0bTF5SgzzR"
+    },
+    {
+      "added_at": "2023-11-24 08:43:33",
+      "album": {
+        "name": "Caminhos Cruzados",
+        "url": "https://open.spotify.com/album/1QbDrylgpdaB6wwbU7aFbo"
+      },
+      "artists": [
+        {
+          "name": "Ana Solari",
+          "url": "https://open.spotify.com/artist/1Gv09zvQN6BmMpFygO3SiP"
+        }
+      ],
+      "duration_ms": 152752,
+      "name": "Caminhos Cruzados",
+      "url": "https://open.spotify.com/track/1W8h3WiCfHyh3YG1UwdWqq"
     },
     {
       "added_at": "2023-11-24 08:43:33",
@@ -1283,30 +1307,6 @@
       "duration_ms": 173213,
       "name": "Pega Esse Sambete A\u00ed",
       "url": "https://open.spotify.com/track/6gZPzCXKSgE6aQrLfSw6O9"
-    },
-    {
-      "added_at": "2023-11-24 08:43:33",
-      "album": {
-        "name": "Saudade Fez um Samba",
-        "url": "https://open.spotify.com/album/7nUUtvmgriNDiRYrgJmiG7"
-      },
-      "artists": [
-        {
-          "name": "Carlos Lyra",
-          "url": "https://open.spotify.com/artist/3LokxmaXXZpL7sLZASDzCS"
-        },
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        },
-        {
-          "name": "Jo\u00e3o Donato",
-          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
-        }
-      ],
-      "duration_ms": 170880,
-      "name": "Saudade Fez um Samba",
-      "url": "https://open.spotify.com/track/6DqwMVBqftG7yoPb2Uu0Rq"
     },
     {
       "added_at": "2023-11-24 08:43:33",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-11-24 08:43:33",
       "album": {
-        "name": "O Samba, a Roseira e o Vento",
-        "url": "https://open.spotify.com/album/1zVeyQapR2zvcR9xqTMemg"
-      },
-      "artists": [
-        {
-          "name": "Eliza Meireles",
-          "url": "https://open.spotify.com/artist/7jfxSuNVObDzGcmTO9keuV"
-        }
-      ],
-      "duration_ms": 173178,
-      "name": "Compro o Vento",
-      "url": "https://open.spotify.com/track/1Ihq48VjNlON6ZbAlOderq"
-    },
-    {
-      "added_at": "2023-11-24 08:43:33",
-      "album": {
         "name": "Feito \u00e0 M\u00e3o",
         "url": "https://open.spotify.com/album/7DbIWez1aLdPY0yskPKazw"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 279456,
       "name": "Bossa de Maio",
       "url": "https://open.spotify.com/track/2ID1RkSkuOYvnJCn0X2ljv"
+    },
+    {
+      "added_at": "2023-11-24 08:43:33",
+      "album": {
+        "name": "O Samba, a Roseira e o Vento",
+        "url": "https://open.spotify.com/album/1zVeyQapR2zvcR9xqTMemg"
+      },
+      "artists": [
+        {
+          "name": "Eliza Meireles",
+          "url": "https://open.spotify.com/artist/7jfxSuNVObDzGcmTO9keuV"
+        }
+      ],
+      "duration_ms": 173178,
+      "name": "Compro o Vento",
+      "url": "https://open.spotify.com/track/1Ihq48VjNlON6ZbAlOderq"
     },
     {
       "added_at": "2023-11-24 08:43:33",

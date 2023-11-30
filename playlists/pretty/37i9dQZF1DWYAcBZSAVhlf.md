@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAcBZSAVhlf.md) - [plain]
 
 > The best feel\-good songs of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,927 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,077 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAcBZSAVhlf.md) - [plain]
 | 7 | [You Make My Dreams \(Come True\)](https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Voices](https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS) | 3:10 |
 | 8 | [Wake Me Up Before You Go\-Go](https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Make It Big](https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI) | 3:51 |
 | 9 | [Start Me Up \- Remastered 2009](https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Tattoo You \(2009 Re\-Mastered\)](https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ) | 3:33 |
-| 10 | [Jump \- 2015 Remaster](https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984 \(Remastered\)](https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0) | 4:01 |
-| 11 | [Cheri Cheri Lady](https://open.spotify.com/track/2aEuA8PSqLa17Y4hKPj5rr) | [Modern Talking](https://open.spotify.com/artist/79bxUQsBIXO8nVLB9fYKf7) | [Let's Talk About Love](https://open.spotify.com/album/1JDlLoZugxdneiaTnGyaKr) | 3:46 |
+| 10 | [Cheri Cheri Lady](https://open.spotify.com/track/2aEuA8PSqLa17Y4hKPj5rr) | [Modern Talking](https://open.spotify.com/artist/79bxUQsBIXO8nVLB9fYKf7) | [Let's Talk About Love](https://open.spotify.com/album/1JDlLoZugxdneiaTnGyaKr) | 3:46 |
+| 11 | [Jump \- 2015 Remaster](https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984 \(Remastered\)](https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0) | 4:01 |
 | 12 | [Walking On Sunshine](https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0) | [Katrina & The Waves](https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3) | [Katrina & The Waves](https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7) | 3:58 |
 | 13 | [Flashdance...What a Feeling \- Radio Edit](https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [What a Feelin'](https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS) | 3:57 |
 | 14 | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/67iAlVNDDdddxqSD2EZhFs) | [The Proclaimers](https://open.spotify.com/artist/1A92IAcd7A6npCA33oGM5i) | [Sunshine on Leith](https://open.spotify.com/album/5sK78apv4yOoXjxRL4kOdJ) | 3:39 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAcBZSAVhlf.md) - [plain]
 | 37 | [Celebration](https://open.spotify.com/track/3K7Q9PHUWPTaknlbFPThn2) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Celebrate!](https://open.spotify.com/album/2kc4mhFRsoIRVD0XEYnwhI) | 4:58 |
 | 38 | [The Way You Make Me Feel \- 2012 Remaster](https://open.spotify.com/track/0sKlV58cODrjxGFOyf9IXY) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad 25th Anniversary](https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm) | 4:58 |
 | 39 | [Crazy Little Thing Called Love \- Remastered 2011](https://open.spotify.com/track/35ItUJlMtjOQW3SSiTCrrw) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 2:43 |
-| 40 | [Centerfold](https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt) | [The J\. Geils Band](https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F) | [Freeze Frame](https://open.spotify.com/album/48joW5905AMbTFLvy8ZWch) | 3:36 |
-| 41 | [Got My Mind Set on You](https://open.spotify.com/track/4wswaG5vmNINMZcVBsAyBP) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Cloud Nine](https://open.spotify.com/album/7MD06W6wJm7J6jqkBszV22) | 3:54 |
+| 40 | [Got My Mind Set on You](https://open.spotify.com/track/4wswaG5vmNINMZcVBsAyBP) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Cloud Nine](https://open.spotify.com/album/7MD06W6wJm7J6jqkBszV22) | 3:54 |
+| 41 | [Centerfold](https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt) | [The J\. Geils Band](https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F) | [Freeze Frame](https://open.spotify.com/album/48joW5905AMbTFLvy8ZWch) | 3:36 |
 | 42 | [I'm Coming Out](https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI) | 5:23 |
 | 43 | [What A Feeling](https://open.spotify.com/track/0aAR5HogGoT68EWFbyRFqx) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [What A Feeling](https://open.spotify.com/album/7C65CLdoGCQZ739kfYVcwY) | 4:04 |
 | 44 | [Glory Days](https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:14 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAcBZSAVhlf.md) - [plain]
 | 78 | [Faith \- Remastered](https://open.spotify.com/track/0nd1Vs5BIoIU4TJlzR8KVB) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/5E68z4OgQrR446xVOxZKs6) | 3:13 |
 | 79 | [We Don't Have To Take Our Clothes Off](https://open.spotify.com/track/7o9KG7iQY8KACz7PZXYpyv) | [Jermaine Stewart](https://open.spotify.com/artist/7FAkzV0YOw0EIXFhmY4RE3) | [Frantic Romantic](https://open.spotify.com/album/3OCmVGmewrfW3eZmLhRAIX) | 4:53 |
 | 80 | [Beautiful Boy \(Darling Boy\) \- 2010 Remastered](https://open.spotify.com/track/5GMQdzgtI7vtpmtps2YiYx) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Beautiful Boy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4rbWJkt4gXZI2UYvpNR0mD) | 4:02 |
-| 81 | [Ghostbusters](https://open.spotify.com/track/300zfRaCgTmEm5Eqe3HqZZ) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK) | [Arista Heritage Series: Ray Parker](https://open.spotify.com/album/1Fq1oCtmlSQabl1zIdoWCg) | 4:00 |
-| 82 | [Boys \- Summertime Love](https://open.spotify.com/track/1uI848raFaNWwe9HjHpjQ5) | [Sabrina](https://open.spotify.com/artist/1YB5pnFfL7Y2vjRJLPxaLU) | [Sabrina](https://open.spotify.com/album/2VlucjjwY5zQCdnyzPU75v) | 3:54 |
+| 81 | [Boys \- Summertime Love](https://open.spotify.com/track/1uI848raFaNWwe9HjHpjQ5) | [Sabrina](https://open.spotify.com/artist/1YB5pnFfL7Y2vjRJLPxaLU) | [Sabrina](https://open.spotify.com/album/2VlucjjwY5zQCdnyzPU75v) | 3:54 |
+| 82 | [Ghostbusters](https://open.spotify.com/track/300zfRaCgTmEm5Eqe3HqZZ) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK) | [Arista Heritage Series: Ray Parker](https://open.spotify.com/album/1Fq1oCtmlSQabl1zIdoWCg) | 4:00 |
 | 83 | [Our House](https://open.spotify.com/track/1qV6e4ITnfGmA6m6Vklvbi) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [Madness](https://open.spotify.com/album/2P1bkVHSonLBBSKvrBbdbw) | 3:21 |
 | 84 | [Tell Her About It](https://open.spotify.com/track/6kCJMxv445L2okuTiou1fR) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [An Innocent Man](https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc) | 3:49 |
 | 85 | [Loco in Acapulco](https://open.spotify.com/track/7gfAYm7X5HMSuKcO4dy8Wi) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Indestructible](https://open.spotify.com/album/1pbPkhuest1I4RGpz3rWmC) | 4:34 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAcBZSAVhlf.md) - [plain]
 | 90 | [Lambada \- Original Radio Edit](https://open.spotify.com/track/2VpdG2QLhVv6qAPdDt9Ipr) | [Kaoma](https://open.spotify.com/artist/1LsXqDdYVyONhrjAORENbu) | [World Beat](https://open.spotify.com/album/3RWIENzO8frYhajwCHl7SL) | 3:28 |
 | 91 | [I'm Your Man](https://open.spotify.com/track/2gG7E5OZi5D5QLRIctv63z) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [The Final](https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd) | 4:03 |
 | 92 | [Hot In The City](https://open.spotify.com/track/5LeDMHIZ5YDZ2b1VOcYVcG) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Billy Idol](https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k) | 3:39 |
-| 93 | [Tarzan Boy](https://open.spotify.com/track/6FwMGM0Dtmf0vz6BdIc8uP) | [Baltimora](https://open.spotify.com/artist/6czfQ8MjHVmvJKA4LAnviG) | [Tarzan Boy: The World Of Baltimora](https://open.spotify.com/album/3z0bIoLOQwn7CYOz0vUePj) | 3:50 |
-| 94 | [Morning Train \(Nine to Five\) \- Edit](https://open.spotify.com/track/1qvDt6W8oaTO9Q4pFNMFEm) | [Sheena Easton](https://open.spotify.com/artist/5dcOK4stT4JDkP6Dqhbz5s) | [Take My Time](https://open.spotify.com/album/7bNpYL4bvBMLRyafghBrCs) | 3:20 |
+| 93 | [Morning Train \(Nine to Five\) \- Edit](https://open.spotify.com/track/1qvDt6W8oaTO9Q4pFNMFEm) | [Sheena Easton](https://open.spotify.com/artist/5dcOK4stT4JDkP6Dqhbz5s) | [Take My Time](https://open.spotify.com/album/7bNpYL4bvBMLRyafghBrCs) | 3:20 |
+| 94 | [Tarzan Boy](https://open.spotify.com/track/6FwMGM0Dtmf0vz6BdIc8uP) | [Baltimora](https://open.spotify.com/artist/6czfQ8MjHVmvJKA4LAnviG) | [Tarzan Boy: The World Of Baltimora](https://open.spotify.com/album/3z0bIoLOQwn7CYOz0vUePj) | 3:50 |
 | 95 | [The Look](https://open.spotify.com/track/79LdvxXi5JYUjhnO7v9Fi3) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp!](https://open.spotify.com/album/487Xg1a57O6pDfkyYcbuFx) | 3:57 |
 | 96 | [Good Life](https://open.spotify.com/track/5sJiLlgQKBL81QCTOkoLB5) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp) | [Paradise](https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs) | 4:04 |
 | 97 | [A Kind Of Magic \- Remastered 2011](https://open.spotify.com/track/1LFK84nUerBbYfFd1LmnTm) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Kind of Magic \(Deluxe Remastered Version\)](https://open.spotify.com/album/6QYnikkyKvjmFtTiZVeCW7) | 4:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAcBZSAVhlf.md) - [plain]
 | 99 | [You Drive Me Crazy](https://open.spotify.com/track/2j8bXaOBeEeyoY4ZpCcFIW) | [Shakin' Stevens](https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib) | [Shaky](https://open.spotify.com/album/05rSaDParyh27b5eomSA8P) | 2:51 |
 | 100 | [The Edge of Heaven](https://open.spotify.com/track/5AhRNIjYPBleR1lfHphcrE) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Music From The Edge Of Heaven](https://open.spotify.com/album/099le4PQZ57X2LY9xVNOpc) | 4:30 |
 
-Snapshot ID: `MCwyYWRiZTY1NTJmYzRjMWIxNDBhYjcxYWZkNzg4M2I5YzRlMzgxNjE2`
+Snapshot ID: `MCw0Zjk3YWFmYmY0NWMyYWYzYmM4MmYzMDE3ODBhNmRlZjRjYzY5OWZi`

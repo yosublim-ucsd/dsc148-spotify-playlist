@@ -1920,7 +1920,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 224106,
       "name": "Donkomi - Remix",
       "url": "https://open.spotify.com/track/5c802IbmurF2U8AMLGxgYt"
@@ -2926,6 +2926,28 @@
     {
       "album": {
         "name": "PAIN IN GLORY",
+        "url": "https://open.spotify.com/album/5mQyfbXSujRUaxTaQBZw4T"
+      },
+      "artists": [
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        },
+        {
+          "name": "XlimKid",
+          "url": "https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158783,
+      "name": "GLORY IN PAIN",
+      "url": "https://open.spotify.com/track/08sfOSEJMKEQ8HwGzqg8yT"
+    },
+    {
+      "album": {
+        "name": "PAIN IN GLORY",
         "url": "https://open.spotify.com/album/2RMzKqHpoxVKMNJu73Anha"
       },
       "artists": [
@@ -2940,7 +2962,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 158783,
       "name": "GLORY IN PAIN",
       "url": "https://open.spotify.com/track/3uHGOib7oXzIYhdcQp4Mg5"
@@ -4092,6 +4114,28 @@
       "duration_ms": 249213,
       "name": "LONELY (feat. Sarkodie)",
       "url": "https://open.spotify.com/track/1z29fkHyKrvZDglpyptvq3"
+    },
+    {
+      "album": {
+        "name": "PAIN IN GLORY",
+        "url": "https://open.spotify.com/album/5mQyfbXSujRUaxTaQBZw4T"
+      },
+      "artists": [
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        },
+        {
+          "name": "XlimKid",
+          "url": "https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180937,
+      "name": "LONELY ROAD",
+      "url": "https://open.spotify.com/track/5P7d1cYRk786etl1Jbwpk5"
     },
     {
       "album": {

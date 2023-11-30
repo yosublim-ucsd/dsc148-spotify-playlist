@@ -1,12 +1,12 @@
 {
   "description": "Instant classics from over the years loaded into one sweet mix.",
-  "num_followers": 3966854,
+  "num_followers": 3966904,
   "original_name": "Acoustic Hits: Oldies but Goodies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjY4Y2Q1ZjgxNDc5MzY3ZmJmYTYxOWU1NDc0YWJmYmVlZWI4NGFl",
+  "snapshot_id": "MCxhZDc5OTk1ODcwYjBhZDFjMDQ4YjVlMGRkNWMyZGZiY2ZiYjY5Y2Jk",
   "tracks": [
     {
       "added_at": "2023-10-23 17:16:25",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-10-23 17:16:25",
       "album": {
-        "name": "Tracy Chapman",
-        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
-      },
-      "artists": [
-        {
-          "name": "Tracy Chapman",
-          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
-        }
-      ],
-      "duration_ms": 296800,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo"
-    },
-    {
-      "added_at": "2023-10-23 17:16:25",
-      "album": {
         "name": "How To Save A Life",
         "url": "https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 262533,
       "name": "How to Save a Life",
       "url": "https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J"
+    },
+    {
+      "added_at": "2023-10-23 17:16:25",
+      "album": {
+        "name": "Tracy Chapman",
+        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
+      },
+      "artists": [
+        {
+          "name": "Tracy Chapman",
+          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
+        }
+      ],
+      "duration_ms": 296800,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo"
     },
     {
       "added_at": "2023-10-23 17:16:25",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-10-23 17:16:25",
       "album": {
-        "name": "In Between Dreams",
-        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 207680,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
-    },
-    {
-      "added_at": "2023-10-23 17:16:25",
-      "album": {
         "name": "Up From Below - 10th Anniversary Edition",
         "url": "https://open.spotify.com/album/2nqKKUI6G3YGYNyjqBxjmd"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 306373,
       "name": "Home (2019 Remaster)",
       "url": "https://open.spotify.com/track/5uGXVcOINWmyUzpz0lKq7m"
+    },
+    {
+      "added_at": "2023-10-23 17:16:25",
+      "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 207680,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
     },
     {
       "added_at": "2023-10-23 17:16:25",
@@ -599,8 +599,8 @@
     {
       "added_at": "2023-10-23 17:16:25",
       "album": {
-        "name": "Sigh No More",
-        "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
+        "name": "Babel (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 217984,
-      "name": "The Cave",
-      "url": "https://open.spotify.com/track/3vUn7FE3ZaQgJmkhIrIirF"
+      "duration_ms": 276720,
+      "name": "I Will Wait",
+      "url": "https://open.spotify.com/track/1fXiYSWmkKJfRKMegCkI11"
     },
     {
       "added_at": "2023-10-23 17:16:25",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-10-23 17:16:25",
       "album": {
-        "name": "Misguided Roses",
-        "url": "https://open.spotify.com/album/1JB1Zvcddt81PiipQQC319"
-      },
-      "artists": [
-        {
-          "name": "Edwin McCain",
-          "url": "https://open.spotify.com/artist/0L6Gwm0JDrgIQJfjarWSUR"
-        }
-      ],
-      "duration_ms": 266533,
-      "name": "I'll Be",
-      "url": "https://open.spotify.com/track/5K7AMlpc4796JRWXb26nCV"
-    },
-    {
-      "added_at": "2023-10-23 17:16:25",
-      "album": {
         "name": "Parachutes",
         "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 304200,
       "name": "Shiver",
       "url": "https://open.spotify.com/track/0qksx8mV28lztYIZ1om8ml"
+    },
+    {
+      "added_at": "2023-10-23 17:16:25",
+      "album": {
+        "name": "Misguided Roses",
+        "url": "https://open.spotify.com/album/1JB1Zvcddt81PiipQQC319"
+      },
+      "artists": [
+        {
+          "name": "Edwin McCain",
+          "url": "https://open.spotify.com/artist/0L6Gwm0JDrgIQJfjarWSUR"
+        }
+      ],
+      "duration_ms": 266533,
+      "name": "I'll Be",
+      "url": "https://open.spotify.com/track/5K7AMlpc4796JRWXb26nCV"
     },
     {
       "added_at": "2023-10-23 17:16:25",
@@ -727,8 +727,8 @@
     {
       "added_at": "2023-10-23 17:16:25",
       "album": {
-        "name": "Babel (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y"
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
       },
       "artists": [
         {
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 276720,
-      "name": "I Will Wait",
-      "url": "https://open.spotify.com/track/1fXiYSWmkKJfRKMegCkI11"
+      "duration_ms": 217984,
+      "name": "The Cave",
+      "url": "https://open.spotify.com/track/3vUn7FE3ZaQgJmkhIrIirF"
     },
     {
       "added_at": "2023-10-23 17:16:25",

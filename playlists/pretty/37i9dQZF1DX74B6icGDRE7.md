@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74B6icGDRE7.md) - [plain]
 
 > my intrusive thoughts 🤝 this playlist\. para esas horas nostálgicas & melancólicas de la noche.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,004 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,080 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74B6icGDRE7.md) - [plain]
 | 30 | [Imaginándote](https://open.spotify.com/track/6zxkr2tSIZMIKHaALNvoCr) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Satus](https://open.spotify.com/album/1lOibSxSky80FXEzR5Z2Gn) | 2:29 |
 | 31 | [brujita](https://open.spotify.com/track/6kYLN1jiNx0e7cdj6QsHrM) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir) | [BABAYAGA](https://open.spotify.com/album/2p8CEb59obQ62nhqLbTE6I) | 2:39 |
 | 32 | [Versos de Placer](https://open.spotify.com/track/4z11brnmIkePDnP3L1siz5) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Versos de Placer](https://open.spotify.com/album/3rJcFj3XgniFRAUpgEbcX0) | 2:48 |
-| 33 | [POKE FREESTYLE](https://open.spotify.com/track/44nurfcBvWwOI2bMBPRzZA) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Papi Sousa](https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7) | [POKE FREESTYLE](https://open.spotify.com/album/2GWvS2DZKb8ovA7HquXJQ3) | 3:23 |
-| 34 | [nos queda mucho dolor por recorrer.](https://open.spotify.com/track/4ezNkGZYWpYKdjqvh0jaSl) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT), [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [eduardo](https://open.spotify.com/album/6ylPT54V3iwJY2trdxTzTX) | 5:53 |
+| 33 | [nos queda mucho dolor por recorrer.](https://open.spotify.com/track/4ezNkGZYWpYKdjqvh0jaSl) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT), [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [eduardo](https://open.spotify.com/album/6ylPT54V3iwJY2trdxTzTX) | 5:53 |
+| 34 | [POKE FREESTYLE](https://open.spotify.com/track/44nurfcBvWwOI2bMBPRzZA) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Papi Sousa](https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7) | [POKE FREESTYLE](https://open.spotify.com/album/2GWvS2DZKb8ovA7HquXJQ3) | 3:23 |
 | 35 | [siempre lo hago y te extraño](https://open.spotify.com/track/2wzh1Yr9j7TLmJLGo317u0) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 4:04 |
 | 36 | [Lo que elegiste.](https://open.spotify.com/track/3wsiNOSGIKbU5JKxcqUPvg) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [Lo que elegiste](https://open.spotify.com/album/7zV1JgdA6e8nt8wJKSeXtJ) | 1:04 |
 | 37 | [DameLove \(feat\. Cuco\)](https://open.spotify.com/track/2ALEhWrcpAdOC7YYJBQIre) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Nuevos Aires](https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu) | 3:46 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74B6icGDRE7.md) - [plain]
 | 48 | [SAKURA](https://open.spotify.com/track/2EXEfxvAQz9cIZGIX60PJ8) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 3:21 |
 | 49 | [Mañana](https://open.spotify.com/track/6Rzk7iqpQRMZALiC9yr9Zr) | [Xadi](https://open.spotify.com/artist/3nTY0gzNvMAkUJeOp4MzEO), [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Mañana](https://open.spotify.com/album/1Bjt5bUlj6nPzsHulKTWpL) | 2:52 |
 | 50 | [No Me Dejes Así](https://open.spotify.com/track/6W05VQuFPVdU07SFmAQML3) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d) | [No Me Dejes Así](https://open.spotify.com/album/5IDQ5SebTTV9zL32FEsjxB) | 3:04 |
-| 51 | [Timeless](https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Timeless](https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g) | 3:38 |
-| 52 | [Eternamente](https://open.spotify.com/track/3fC9kIUdPidr4gaedvNwDp) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Timelezz](https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y) | 3:30 |
+| 51 | [Eternamente](https://open.spotify.com/track/3fC9kIUdPidr4gaedvNwDp) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Timelezz](https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y) | 3:30 |
+| 52 | [Timeless](https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Timeless](https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g) | 3:38 |
 | 53 | [lo que pasó](https://open.spotify.com/track/6SWwMXdb0XGGsUmNVxjP76) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [lo que pasó](https://open.spotify.com/album/0dhZYPGnqu0hVxVS9saFQa) | 2:30 |
 | 54 | [tonada de la luz • madrugada](https://open.spotify.com/track/5TCDHkTwR072lFEO64syoC) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [de la luz](https://open.spotify.com/album/378yGSuUhqGyPCsI3eWzFK) | 1:05 |
 | 55 | [Bad Habits](https://open.spotify.com/track/64uKfB3sXD1PSRZ9R9djTM) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [Bad Habits](https://open.spotify.com/album/5jbQD8hGieC5nMF3fbgBZT) | 3:19 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74B6icGDRE7.md) - [plain]
 | 59 | [Nubes](https://open.spotify.com/track/4bKKVfhH3pmMEWCMTViBVf) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [Nubes](https://open.spotify.com/album/3woQ2AxMJRfEJaEV9BIDR1) | 2:54 |
 | 60 | [n la disco](https://open.spotify.com/track/0he3cLVpfsVymLeruJqI14) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [diamante$ + espina$](https://open.spotify.com/album/3nLYJGsqBARtdGRcOmdzgB) | 3:02 |
 
-Snapshot ID: `MCw5Y2Q4MWZkMTliYjM1YzdlMGE0ZGRmZmI3NThhYzBhZTMwZjlhMDcw`
+Snapshot ID: `MCwyZTgxODkxMjMyMDY0ZWE4MGExNjRmN2U5NGMxYWQwMGI3ZGI1YTZl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy48MuOV69W.md) - [plain]
 
 > Cozy and jazzy interpretations of all your favourite Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,293 likes - 55 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,505 likes - 55 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,15 +53,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy48MuOV69W.md) - [plain]
 | 43 | [Winter Wonderland \- 1959 Version](https://open.spotify.com/track/4519fZrw2YqSdPOkzPkYYX) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [Season's Greetings](https://open.spotify.com/album/62nWLvkugm41tvnzjMw7a9) | 3:26 |
 | 44 | [Santa Baby](https://open.spotify.com/track/49HH1FubuHZSbdF64N8OEK) | [Javon Jackson](https://open.spotify.com/artist/57vcT3Th6V43bi5Jr5aSZl) | [Blue Christmas](https://open.spotify.com/album/3EP7C0h2BiVEGH7g8PUaFM) | 4:22 |
 | 45 | [What Are You Doing New Year's Eve](https://open.spotify.com/track/0K5JvHdRiqnMKtNfDfljJx) | [Joe Stilgoe](https://open.spotify.com/artist/3mbE8KcHOtqusTu843P6Am) | [Joe Stilgoe's Christmas Album](https://open.spotify.com/album/5Dic2tDaLuLf3HdwD8Tbc1) | 2:50 |
-| 46 | [Merry Christmas Darling](https://open.spotify.com/track/6yO8zPQZFMT2u4VUUZ1AO3) | [James Lanman](https://open.spotify.com/artist/1AdskP8cgmAIqfRQkDTJ36), [Alanna Vicente](https://open.spotify.com/artist/7q8ZRdJqcvmbwKBoJCiufK) | [Merry Christmas Darling](https://open.spotify.com/album/1tHctD2yAOz3P7fxWCj5aF) | 2:35 |
-| 47 | [All I Want For Christmas Is You](https://open.spotify.com/track/5495y2sQOmH2lTeki2cTkD) | [Midtown Players](https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO) | [All I Want For Christmas Is You](https://open.spotify.com/album/6NG2YLKoP9ZrSPpUIiexj8) | 4:01 |
-| 48 | [All Through The Night](https://open.spotify.com/track/560YAqeXWWXZ1u9ydYQanQ) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [A Nancy Wilson Christmas](https://open.spotify.com/album/5tI1MB1rVlks6MYEPARQI1) | 3:57 |
+| 46 | [All I Want For Christmas Is You](https://open.spotify.com/track/5495y2sQOmH2lTeki2cTkD) | [Midtown Players](https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO) | [All I Want For Christmas Is You](https://open.spotify.com/album/6NG2YLKoP9ZrSPpUIiexj8) | 4:01 |
+| 47 | [Merry Christmas Darling](https://open.spotify.com/track/6yO8zPQZFMT2u4VUUZ1AO3) | [James Lanman](https://open.spotify.com/artist/1AdskP8cgmAIqfRQkDTJ36), [Alanna Vicente](https://open.spotify.com/artist/7q8ZRdJqcvmbwKBoJCiufK) | [Merry Christmas Darling](https://open.spotify.com/album/1tHctD2yAOz3P7fxWCj5aF) | 2:35 |
+| 48 | [A Song For Christmas](https://open.spotify.com/track/1UyTgv5uA2AWeEzl8xhRxW) | [Laura Fygi](https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB) | [The Very Best Time Of Year](https://open.spotify.com/album/5OYaZZMzjUuPmj1OZgDwh1) | 2:54 |
 | 49 | [Christmas Blues](https://open.spotify.com/track/3zGmF8FaNTnHq25YlWYhIQ) | [Holly Cole](https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX) | [Jazz To The World](https://open.spotify.com/album/48ZEjUeHqGxS6icwwRMuRh) | 2:57 |
-| 50 | [A Song For Christmas](https://open.spotify.com/track/1UyTgv5uA2AWeEzl8xhRxW) | [Laura Fygi](https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB) | [The Very Best Time Of Year](https://open.spotify.com/album/5OYaZZMzjUuPmj1OZgDwh1) | 2:54 |
+| 50 | [All Through The Night](https://open.spotify.com/track/560YAqeXWWXZ1u9ydYQanQ) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [A Nancy Wilson Christmas](https://open.spotify.com/album/5tI1MB1rVlks6MYEPARQI1) | 3:57 |
 | 51 | [Auld Lang Syne](https://open.spotify.com/track/2rQ9JzgsnYrY4mmlMaSDUH) | [David Tobin](https://open.spotify.com/artist/4URqQyKF1NuIVmYiJtQIHb), [Jeff Meegan](https://open.spotify.com/artist/2XS2MrkksPqxbs0jputTr8) | [Pretty Swingin' Christmas](https://open.spotify.com/album/6gC08N6tOwaZutYVa1okgU) | 2:09 |
 | 52 | [Christmas Memories](https://open.spotify.com/track/1g7y6l9D4nd9N0f34sNHyy) | [Peter Asplund](https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz), [Vivian Buczek](https://open.spotify.com/artist/7pvJqc7hW0HQjoa89jfDPq) | [The Christmas Feeling](https://open.spotify.com/album/2PAGkZAGKuOT3SWqoLwNLx) | 4:58 |
 | 53 | [Jingle Bells](https://open.spotify.com/track/42xLgS2PPfJMj45AHNDLfb) | [Luca Francis](https://open.spotify.com/artist/3FgLeRMQZpS804lwNv3i7a) | [It's Christmas Time](https://open.spotify.com/album/33c9tUex88FIIpVhGtdXYO) | 2:39 |
 | 54 | [Rest in Peace](https://open.spotify.com/track/5MUp64SC6HDHCLly5R4fP7) | [Joe Stilgoe](https://open.spotify.com/artist/3mbE8KcHOtqusTu843P6Am), [Canterbury Cathedral Girls' Choir](https://open.spotify.com/artist/0PvYJwsHYAaKLNBadoQwC4) | [Joe Stilgoe's Christmas Album](https://open.spotify.com/album/5Dic2tDaLuLf3HdwD8Tbc1) | 4:08 |
 | 55 | [Silent Night](https://open.spotify.com/track/0yplKXN6RMNEEF54PRo9DG) | [Silvio Thompson Band](https://open.spotify.com/artist/0lnYAYDUAQD1kWQ5lvD08C) | ['Tis The Season](https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ) | 3:20 |
 
-Snapshot ID: `MCw0YjJhNGFlM2ZlYjY2ZDg1M2Y5NDE1Zjc4NWQ2MGM1ODNjMzNhN2Ez`
+Snapshot ID: `MCwwZDMyY2ZiNmU2NjA1NmQ1YzJkYmExMjk5YWFmYTA5MTBlZTYyYTg5`

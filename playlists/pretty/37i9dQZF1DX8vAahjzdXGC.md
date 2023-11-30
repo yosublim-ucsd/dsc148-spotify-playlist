@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: James Arthur
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,632 likes - 95 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,691 likes - 95 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 11 | [Oral](https://open.spotify.com/track/6VCNxAwxA83j2jE3QZpYPr) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Oral](https://open.spotify.com/album/0Jldmuyjx6v7nMefI7y00r) | 3:42 |
 | 12 | [Memory Lane](https://open.spotify.com/track/7hHrs2q5c5rtzHLJ2DKHTT) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Memory Lane & Winter Song](https://open.spotify.com/album/5IvpvVd9LKgHACcUSHL5Y8) | 3:12 |
 | 13 | [orbit](https://open.spotify.com/track/1xMtUb8b1DxW89FJfxOwPN) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [orbit](https://open.spotify.com/album/5xLRIrNswkxjD0U0z47Rw2) | 3:09 |
-| 14 | [Throw Your Arms Around Me](https://open.spotify.com/track/0CVwSCQOx3CMHjwDCmaElh) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Mushroom: 50 Years Of Making Noise \(Reimagined\)](https://open.spotify.com/album/4SRtPtUkg4izzJZ2Kr2LMJ) | 3:03 |
+| 14 | [Throw Your Arms Around Me](https://open.spotify.com/track/0CVwSCQOx3CMHjwDCmaElh) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Mushroom: 50 Years of Making Noise \(Reimagined\)](https://open.spotify.com/album/4SRtPtUkg4izzJZ2Kr2LMJ) | 3:03 |
 | 15 | [ドレスコード \(Prod\. imase\)](https://open.spotify.com/track/3o0Nlc7DVVC39pfv4nTi9Y) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ドレスコード \(Prod\. imase\)](https://open.spotify.com/album/6IDmSxLLVK1EaJtC9Y6KmV) | 3:36 |
 | 16 | [Jingle Bell Rock](https://open.spotify.com/track/0ijCESscFXtRc0dtDgu1Uv) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Jingle Bell Rock](https://open.spotify.com/album/7dSaBwUid0hjWdJ5QzIKyu) | 2:10 |
 | 17 | [Jam Satu](https://open.spotify.com/track/6EZnOxLN0ccGA7U7YYtQ6F) | [Satine Zaneta](https://open.spotify.com/artist/6knRMh5dYEPnItzvpOJk2j) | [Jam Satu](https://open.spotify.com/album/4xb1xUdR8bSoRIJVIYBTDg) | 3:26 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 30 | [Cukuplah](https://open.spotify.com/track/67Waz67okfBOlMVpg1UitI) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [A.R](https://open.spotify.com/album/5Jearm6TNWQC1QF2pu7ojR) | 3:34 |
 | 31 | [The Deceiving](https://open.spotify.com/track/3GXVVxYAL6sTG8ICC6pD9R) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [The Deceiving](https://open.spotify.com/album/32AeGVho713wI8Wm6jdgni) | 2:47 |
 | 32 | [Like a Star](https://open.spotify.com/track/4GJiE80kebGeyLotk6CNnG) | [Marizka Juwita](https://open.spotify.com/artist/5r4gOmUjJEcCjj749iGCsf) | [Like a Star](https://open.spotify.com/album/3ZPuWVHbKFHflPdooQAMNL) | 4:17 |
-| 33 | [Tresna](https://open.spotify.com/track/7wtp4tiGjvF3wc2Vsz9yoV) | [Sara Fajira](https://open.spotify.com/artist/5YwqDzUzArjMlfxI6sQRgP) | [Tresna](https://open.spotify.com/album/6rMAGg2yM8Lf0leXmghzNJ) | 2:33 |
+| 33 | [Tresna](https://open.spotify.com/track/1nzGri88vuEyeOS0KgY2J4) | [Sara Fajira](https://open.spotify.com/artist/5YwqDzUzArjMlfxI6sQRgP) | [Tresna](https://open.spotify.com/album/6z1u2nKLi32wz97soJ8PsQ) | 2:33 |
 | 34 | [Matematika Cinta](https://open.spotify.com/track/7HgP1kHySXYNzGPpQ8rdlY) | [Aidil Saputra](https://open.spotify.com/artist/3kaVaY8A7Qe48YCkJuZZXd) | [Matematika Cinta](https://open.spotify.com/album/1JJ5rkhnUTTaLq9DsIIvwC) | 3:14 |
 | 35 | [Menanti](https://open.spotify.com/track/2zqJuPypULzxunGpc8WEOe) | [Tatjana Saphira](https://open.spotify.com/artist/3HOa5hXtbHiiWZmMVmRatl) | [Menanti](https://open.spotify.com/album/7zezsnFGhnAI1trGfZ7qd4) | 3:41 |
 | 36 | [Anak Lanang](https://open.spotify.com/track/3WV04K6iHFtoDy5NJ3eYQ9) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Anak Lanang](https://open.spotify.com/album/37UR4PopF3odzG2214LRW2) | 6:36 |
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 49 | [Denial](https://open.spotify.com/track/7J7bv8GnGKDgKKqmsYsY4H) | [Kastra](https://open.spotify.com/artist/6sQYSV8XvcA9CQZb6OBHHC), [Alex Byrne](https://open.spotify.com/artist/7FhCOc9LXEP4tAFgqb46Zw) | [Denial](https://open.spotify.com/album/6TpaCyIaFhx9irjC6jkGS8) | 3:10 |
 | 50 | [Another Minute](https://open.spotify.com/track/4NrI7NKikhlOt9Hxa3sR0T) | [Kosling](https://open.spotify.com/artist/1dsilrkrvxXE6I02SWfDYD), [NONIK](https://open.spotify.com/artist/2Zw4OTbItVXfEj2HPi3I9D), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Another Minute](https://open.spotify.com/album/3hq9sZY8AAWaKeMDzFpEy0) | 3:13 |
 | 51 | [The Ambivert Song](https://open.spotify.com/track/7msEDj6SjvBhakZejLrfLe) | [Chris Andrian Yang](https://open.spotify.com/artist/74DSMvAfXpnN3c1KCfvFwQ) | [The Ambivert Song](https://open.spotify.com/album/6THr1Yg9JPhhQKURi6cc2R) | 2:58 |
-| 52 | [Djakarta](https://open.spotify.com/track/5v9QnR8OsHg9ubTuRwH8RT) | [Monkey Boots](https://open.spotify.com/artist/2em9Wx3OVERPedOAh3gUb7) | [Djakarta](https://open.spotify.com/album/3GxiTb8cS9xjvvOdBq7WMr) | 3:45 |
+| 52 | [Djakarta \- Original Version](https://open.spotify.com/track/5v9QnR8OsHg9ubTuRwH8RT) | [Monkey Boots](https://open.spotify.com/artist/2em9Wx3OVERPedOAh3gUb7) | [Djakarta \(Original Version\)](https://open.spotify.com/album/3GxiTb8cS9xjvvOdBq7WMr) | 3:45 |
 | 53 | [SACRIFICE \(feat\. HRZN\)](https://open.spotify.com/track/1tfsNhd3HBGLbR5p3dkwQp) | [CVX](https://open.spotify.com/artist/3YDAdiXuKjmL0SsiCr1eyz), [HRZN](https://open.spotify.com/artist/5GgW9kZdiWNHkqlxAjvcP6) | [SACRIFICE \(feat\. HRZN\)](https://open.spotify.com/album/7lPnlIWq65DjPbkZxZCmUd) | 2:21 |
 | 54 | [How Much Do You Love Me](https://open.spotify.com/track/6LwpW2WMxPqICW1dBXsV7a) | [TERUNA](https://open.spotify.com/artist/0YTMep6ABS7gI4txhB1DFL) | [The Surrealist Party](https://open.spotify.com/album/5esuY8C9LUggVuV7XQ24Ky) | 3:46 |
 | 55 | [Passed Out](https://open.spotify.com/track/2tEUa3YuDBRXhUfK5Vn52P) | [cellosux](https://open.spotify.com/artist/2rkmXRyKp3HRmGOgP968Kj) | [Passed Out](https://open.spotify.com/album/1ajrFe76fzZazAs7MThd2X) | 1:53 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 94 | [higher love](https://open.spotify.com/track/1qeUqkv5ysr4aY5TRbYVv7) | [GARETH FERNANDEZ](https://open.spotify.com/artist/5OCCRySomkXZXoE1JQ5Hkb) | [higher love](https://open.spotify.com/album/3v8rZiLsW5UyLKyhHlhYCL) | 2:58 |
 | 95 | [Memory Lane](https://open.spotify.com/track/6Z9dmhwOZ3wlCfCrjkWMNk) | [CHUROSE](https://open.spotify.com/artist/4y9Jhm3jRfDCgGJ3kgyGDp) | [Memory Lane](https://open.spotify.com/album/0aLUKwVWBquLge7Ztf2LO4) | 3:18 |
 
-Snapshot ID: `MCw4MWI4N2FiZDRjYjkzNmQyYzUwZDczODQ4YzViMmQxNzA1ODkyNTM0`
+Snapshot ID: `MCw5NDkzOGVjZTI0NWNjYTU5ZTI1ZGZmODM4YTJjMTAzOGVhYjUyNTI3`

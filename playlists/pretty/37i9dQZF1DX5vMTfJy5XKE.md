@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,637 likes - 135 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,997 likes - 135 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 134 | [Please Come Home for Christmas](https://open.spotify.com/track/3GZwaCUpDIOtZxZF7AbQLz) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Please Come Home for Christmas](https://open.spotify.com/album/6vRbT0SJ0jkIj66OT4yrs8) | 2:45 |
 | 135 | [At Least I Have Santa](https://open.spotify.com/track/78InQyI314pCq9GVTrUBib) | [Jackie Evancho](https://open.spotify.com/artist/7FukyKMUPL10mDN9LgAngI) | [At Least I Have Santa](https://open.spotify.com/album/6cpaLiEmVaQrpPUPiAePDF) | 3:24 |
 
-Snapshot ID: `MCw3ZGEyM2VkNWY4MzRiZjViMDViN2MzMjFlMGY0NmZhNjc1ZWRmNmRj`
+Snapshot ID: `MCxhMGIyOTMyYWI1MTQ3MzgxYTI5YmYyNTc1Yzc0YTdlYzJhY2UyYmEz`

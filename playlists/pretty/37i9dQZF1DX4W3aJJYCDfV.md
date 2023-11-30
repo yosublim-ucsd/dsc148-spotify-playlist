@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Jacob Collier + Stormzy + Shawn Mendes \(pictured\), Take That, Björk + ROSALÍA and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 843,645 likes - 132 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 843,657 likes - 132 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 12 | [Double Rum](https://open.spotify.com/track/6LaMXYSAxWYKMFIELplsph) | [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2) | [Double Rum](https://open.spotify.com/album/3Yj8cWXW4Bxu2AoAPJqrtu) | 3:40 |
 | 13 | [Snowflake Suzie](https://open.spotify.com/track/0B2hkwmDeDi2Tx87YgHQui) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Snowflake Suzie](https://open.spotify.com/album/6HBxIk9HDOQy1qPuC9oaRm) | 3:40 |
 | 14 | [Gave You My All](https://open.spotify.com/track/2WEgOHRhsCMNiV4qcWNxAX) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [emil](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 3:01 |
-| 15 | [Throw Your Arms Around Me](https://open.spotify.com/track/0CVwSCQOx3CMHjwDCmaElh) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Mushroom: 50 Years Of Making Noise \(Reimagined\)](https://open.spotify.com/album/4SRtPtUkg4izzJZ2Kr2LMJ) | 3:03 |
+| 15 | [Throw Your Arms Around Me](https://open.spotify.com/track/0CVwSCQOx3CMHjwDCmaElh) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Mushroom: 50 Years of Making Noise \(Reimagined\)](https://open.spotify.com/album/4SRtPtUkg4izzJZ2Kr2LMJ) | 3:03 |
 | 16 | [Say Less](https://open.spotify.com/track/2CsqSlX0MLd85XZjF9JQqM) | [CLIPZ](https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE), [Obi Franky](https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0) | [Say Less](https://open.spotify.com/album/395NFYwauFnfNlzuek2dIi) | 2:04 |
 | 17 | [Memory Lane](https://open.spotify.com/track/7hHrs2q5c5rtzHLJ2DKHTT) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Memory Lane & Winter Song](https://open.spotify.com/album/5IvpvVd9LKgHACcUSHL5Y8) | 3:12 |
 | 18 | [ROBOSHOTTA \(feat\. Burna Boy\)](https://open.spotify.com/track/7DiylLh1Kdcd1q1dWRcJNq) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [BLOCKBUSTA](https://open.spotify.com/album/4XN6Kx1iUxtuhuAfh0zqZN) | 2:05 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 131 | [Hard to Love](https://open.spotify.com/track/6QV6miSjUtqppivpjwDZgI) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Hard To Love](https://open.spotify.com/album/0jXxDV0TkGE6f5MezsGFrU) | 2:47 |
 | 132 | [Lover & Friend](https://open.spotify.com/track/10m5CT42VKtDifUiAczDdk) | [Kadeem Tyrell](https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh) | [Lover & Friend](https://open.spotify.com/album/4Ccmc7eguhAphHJeOsfefZ) | 2:57 |
 
-Snapshot ID: `MCxiZDE5YTc1ODYxZTBjMjJiOGJlYTk3YWRmZTA3YWFiMmI0MzhiYWEw`
+Snapshot ID: `MCxlNGM5ZjMzNDlmYTUwNzFhNDMzNjQyNmFmYTc4NDQ5Y2ZlZDk0M2Ez`

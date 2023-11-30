@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HRj9P7NxeE.md) - [plain]
 
 > Get your body right with this workout twerkout
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,758,929 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,758,919 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HRj9P7NxeE.md) - [plain]
 | 3 | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK) | 2:52 |
 | 4 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 |
 | 5 | [GEEKALEEK \(feat\. BIA\)](https://open.spotify.com/track/51hjlwiTLAHZxkKS28R38R) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [GEEKALEEK \(feat\. BIA\)](https://open.spotify.com/album/2ZaMFmBHgflgxKcmy05tuH) | 2:08 |
-| 6 | [Get Into It \(Yuh\)](https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:18 |
-| 7 | [Soak City \(Do it\)](https://open.spotify.com/track/5C8h9PY9oTneqJihbn10NB) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [Soak City \(Do it\)](https://open.spotify.com/album/2w59tnyiYwj7cgHZSUP8pW) | 2:03 |
+| 6 | [Soak City \(Do it\)](https://open.spotify.com/track/5C8h9PY9oTneqJihbn10NB) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [Soak City \(Do it\)](https://open.spotify.com/album/2w59tnyiYwj7cgHZSUP8pW) | 2:03 |
+| 7 | [Get Into It \(Yuh\)](https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:18 |
 | 8 | [Ick](https://open.spotify.com/track/7nn4MXs89QymmNzRreTywe) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Now You See Me](https://open.spotify.com/album/6WFa2y2gaNb7561mFsYG7T) | 1:55 |
 | 9 | [Red Ruby Da Sleeze](https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Red Ruby Da Sleeze](https://open.spotify.com/album/0zCHOD0Z8yOrIP1fw7u1J6) | 3:34 |
 | 10 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HRj9P7NxeE.md) - [plain]
 | 49 | [Act Bad](https://open.spotify.com/track/1Bgga0poKKUZftx5p8b16y) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Act Bad](https://open.spotify.com/album/7rzfZdTVwlL2gSHPLdizlQ) | 3:12 |
 | 50 | [SHAKE SUMN \(with Sexyy Red\) \- REMIX](https://open.spotify.com/track/3IxGpAFxBAAfCQ6dv6sBiw) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [SHAKE SUMN \(with Sexyy Red\) \[REMIX\]](https://open.spotify.com/album/7drTkl9fjKDq51rRdye9ZS) | 2:04 |
 
-Snapshot ID: `MCxmY2QzNDVjMWQzN2I4NjcxNzNkYjkwMDBlMzE2MzQ4OTBiZGI2ZDA4`
+Snapshot ID: `MCw0MGRmMDM3YTc5MzA1M2I3ZWNkYzUyNGIxYjRiYjNjNTVjOWY3MjY4`

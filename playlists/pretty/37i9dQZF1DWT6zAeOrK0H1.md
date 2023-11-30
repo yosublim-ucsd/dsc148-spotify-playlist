@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6zAeOrK0H1.md) - [plain]
 
 > Home of the best bands orbiting the universe right now\. Cover: The Beaches
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,052 likes - 80 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,099 likes - 80 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6zAeOrK0H1.md) - [plain]
 | 19 | [When Am I Gonna Lose You](https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Violet Street](https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY) | 4:24 |
 | 20 | [Ring of Past](https://open.spotify.com/track/11sfRkHdvsop5DdHVmGpt1) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Ring of Past](https://open.spotify.com/album/4zTH06G28TKcid3B8Vhy8L) | 3:21 |
 | 21 | [Deep End \(Paul’s in Pieces\)](https://open.spotify.com/track/5QD7OqeRVdpFys4QZ3UxeS) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Laugh Track](https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi) | 4:29 |
-| 22 | [One That Got Away](https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [One That Got Away](https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond) | 3:52 |
-| 23 | [Can I Believe You](https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:04 |
+| 22 | [Can I Believe You](https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:04 |
+| 23 | [One That Got Away](https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [One That Got Away](https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond) | 3:52 |
 | 24 | [boy](https://open.spotify.com/track/3Qw0WuniULBdYjXe2jsqCy) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [boy](https://open.spotify.com/album/7ddxzwtg0QQj9kXYK29rpG) | 3:18 |
 | 25 | [I Don't Live Here Anymore \(feat\. Lucius\)](https://open.spotify.com/track/5Uou8idst1XJc0F6MRAk5S) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [I Don’t Live Here Anymore](https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB) | 5:27 |
 | 26 | [Your Girlfriend](https://open.spotify.com/track/3tzU46wNOVaFiYRNtNYY66) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Foolish Loving Spaces \(Deluxe Edition\)](https://open.spotify.com/album/0yMTm5gz3ZoUItDgE2kVru) | 2:41 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6zAeOrK0H1.md) - [plain]
 | 34 | [Over](https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Over](https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE) | 3:37 |
 | 35 | [Burning](https://open.spotify.com/track/4JFet0crxTPHFV2n1ZqZKV) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:05 |
 | 36 | [Tropic Morning News](https://open.spotify.com/track/6oYXnC1pi6S8GJF32jvdmx) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 5:09 |
-| 37 | [The Walk Home](https://open.spotify.com/track/0sfrbCvmUUfJgZlKqXQbQ6) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [American Bollywood](https://open.spotify.com/album/78F0kmsAMlPgTYqdr8VaDd) | 3:16 |
-| 38 | [The Bandit](https://open.spotify.com/track/7aYBo6hxjhJc8ECkbKAqnR) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [When You See Yourself](https://open.spotify.com/album/5mi6IbVDNVKpOO702ejPn6) | 4:10 |
+| 37 | [The Bandit](https://open.spotify.com/track/7aYBo6hxjhJc8ECkbKAqnR) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [When You See Yourself](https://open.spotify.com/album/5mi6IbVDNVKpOO702ejPn6) | 4:10 |
+| 38 | [The Walk Home](https://open.spotify.com/track/0sfrbCvmUUfJgZlKqXQbQ6) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [American Bollywood](https://open.spotify.com/album/78F0kmsAMlPgTYqdr8VaDd) | 3:16 |
 | 39 | [Holiday House](https://open.spotify.com/track/0Hz3Bf0SjlKlqYvIwH9a70) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Become](https://open.spotify.com/album/6nx7O0T24xjbCpiATB4Rga) | 5:06 |
 | 40 | [Easy On Your Own?](https://open.spotify.com/track/42oq4KDYcBwAHpEkV3PuWc) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 2:54 |
 | 41 | [U&ME](https://open.spotify.com/track/3i4ColsuZEvjeLz63m0jPt) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [The Dream](https://open.spotify.com/album/5ogYKSRRlVAgMzv09HFeIn) | 3:18 |
@@ -62,12 +62,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6zAeOrK0H1.md) - [plain]
 | 52 | [Entropy](https://open.spotify.com/track/5Dp8m5EWFkNc3TbCSxKSzu) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Emotional Creature](https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8) | 3:41 |
 | 53 | [The Hardest Cut](https://open.spotify.com/track/4ZifmvedzdccUUuiGDAbTU) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Lucifer On The Sofa](https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ) | 3:13 |
 | 54 | [Dressed to Kill](https://open.spotify.com/track/6j7s4efnQGF19g6Jp2HE9D) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Is This What It Feels Like to Feel Like This?](https://open.spotify.com/album/2YoatZbkNsBRrfmX0pq9Ay) | 2:52 |
-| 55 | [My Big Day](https://open.spotify.com/track/5GXX6ynEUMy6FTJuyLviIb) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [My Big Day](https://open.spotify.com/album/5l1WChtDQQFQvKSMFfnaKD) | 2:47 |
-| 56 | [the angel of 8th ave.](https://open.spotify.com/track/3ono1eRCqwTW9PJMx9u2Ru) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [angel in realtime.](https://open.spotify.com/album/4xrHCOnujQW9DDLmntffLP) | 3:58 |
+| 55 | [the angel of 8th ave.](https://open.spotify.com/track/3ono1eRCqwTW9PJMx9u2Ru) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [angel in realtime.](https://open.spotify.com/album/4xrHCOnujQW9DDLmntffLP) | 3:58 |
+| 56 | [My Big Day](https://open.spotify.com/track/5GXX6ynEUMy6FTJuyLviIb) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [My Big Day](https://open.spotify.com/album/5l1WChtDQQFQvKSMFfnaKD) | 2:47 |
 | 57 | [When You Know You Know](https://open.spotify.com/track/5LgpO5RdeHPEDSww4XP0WO) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/1nAQg0AjzpuT7lINu1J87y) | 4:08 |
 | 58 | [Fyodor Dormant](https://open.spotify.com/track/13NiyfKg0aELrTWvgVL7eH) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Artifacts](https://open.spotify.com/album/26G7PfSLTyLiIcITVl7GAK) | 2:46 |
-| 59 | [Alpha Zulu](https://open.spotify.com/track/1QgegXUzfvRJxNRHM9sP3F) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/4kLWiOcd9HWMx4VhRR1XHV) | 2:50 |
-| 60 | [I Love You](https://open.spotify.com/track/5sWxjNIEShZQHxAOjhzA9n) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [I Love You](https://open.spotify.com/album/2xivxT3O20OUxWYJ0FDAFX) | 5:05 |
+| 59 | [I Love You](https://open.spotify.com/track/5sWxjNIEShZQHxAOjhzA9n) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [I Love You](https://open.spotify.com/album/2xivxT3O20OUxWYJ0FDAFX) | 5:05 |
+| 60 | [Alpha Zulu](https://open.spotify.com/track/1QgegXUzfvRJxNRHM9sP3F) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/4kLWiOcd9HWMx4VhRR1XHV) | 2:50 |
 | 61 | [Security](https://open.spotify.com/track/2MYFQY0BKWPdgqnIYses9T) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Comfort To Me](https://open.spotify.com/album/1zAAQOVEfxCNmtPDtbLC9c) | 3:47 |
 | 62 | [Empty Mansions](https://open.spotify.com/track/5GdSPrFUgE6bGpyVYxxqyK) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Time Will Wait For No One](https://open.spotify.com/album/26sOnKsHrZqqo9agigUH4y) | 3:25 |
 | 63 | [We're Not In Orbit Yet…](https://open.spotify.com/track/15byzavN7tdiwSTjirvyfh) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [INTO THE BLUE](https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0) | 5:10 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6zAeOrK0H1.md) - [plain]
 | 74 | [Donuts Mind If I Do](https://open.spotify.com/track/1zT7GD8H6aZmkkbk395cbq) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [WINK](https://open.spotify.com/album/105329tEvmR4S5ofi0EZig) | 3:48 |
 | 75 | [Famous \- Single Version](https://open.spotify.com/track/3Mfg7kJLvEPBMnIwSly02u) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Day/Night](https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd) | 3:23 |
 | 76 | [Bambina](https://open.spotify.com/track/3Cnp5gloHCyXZsMimaHKTt) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Father of the Bride \(Deluxe\)](https://open.spotify.com/album/5WWu3iYAXLgqghjU9696Nk) | 1:42 |
-| 77 | [As You Move Through The World](https://open.spotify.com/track/1UoNPvDGbt1kWbT0TNdNvP) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [As You Move Through The World](https://open.spotify.com/album/7jhhiPwTyiofLgRDrlGYej) | 7:35 |
-| 78 | [Swim Back](https://open.spotify.com/track/0SB7Ew45h690xWhmWvWixm) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Stereo Mind Game](https://open.spotify.com/album/6xzsQpZtlqLFxmO1GeM7Cf) | 4:34 |
+| 77 | [Swim Back](https://open.spotify.com/track/0SB7Ew45h690xWhmWvWixm) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Stereo Mind Game](https://open.spotify.com/album/6xzsQpZtlqLFxmO1GeM7Cf) | 4:34 |
+| 78 | [As You Move Through The World](https://open.spotify.com/track/1UoNPvDGbt1kWbT0TNdNvP) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [As You Move Through The World](https://open.spotify.com/album/7jhhiPwTyiofLgRDrlGYej) | 7:35 |
 | 79 | [Trouble](https://open.spotify.com/track/2NZyf2jJaf0PntMfTe5fPf) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Trouble](https://open.spotify.com/album/3LdfZrdlKsanntRZHYncJr) | 3:51 |
 | 80 | [Fading Like A Picture](https://open.spotify.com/track/4SWJLsevxubDCwM8RTLZT9) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Fading Like A Picture](https://open.spotify.com/album/2WfT0hWX7QSG4KlRtXjoDw) | 3:56 |
 
-Snapshot ID: `MCxkMTJiZDI2NWUzNTBkODRkN2ZiYTFiNjM3YmVhYjIzZTcwMTQ0MmVk`
+Snapshot ID: `MCw0ZjFhNWVkZTEzZjRiN2YzODQxZWVmYjBkZDM4ODg3M2NjOWIxNzQ4`

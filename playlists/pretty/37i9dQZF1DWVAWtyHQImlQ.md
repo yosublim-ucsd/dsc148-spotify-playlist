@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAWtyHQImlQ.md) - [plain]
 
 > All 60s, all ballads\. Cover: Etta James
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,017 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,057 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAWtyHQImlQ.md) - [plain]
 | 49 | [Oh, What A Night](https://open.spotify.com/track/2ht21Rlf8L6cPLBkYmhpcs) | [The Dells](https://open.spotify.com/artist/0wbrRIw2po5DV4LeaHw55S) | [Oh, What A Night! / The Great Ballads](https://open.spotify.com/album/5IjlGKFY636wmz3eqE7V1N) | 4:07 |
 | 50 | [Daddy's Home](https://open.spotify.com/track/6pLYCkA0j6dcjMSP4IrgxW) | [Shep](https://open.spotify.com/artist/4FrUg4jMTAlZHhBsOIYGJV), [The Limelites](https://open.spotify.com/artist/2pEAs011HTyChRqX8VR8lW) | [Doo Wop Classics Vol\. 1](https://open.spotify.com/album/74o0BLyhgBt6bvNqflYNmp) | 2:54 |
 
-Snapshot ID: `MCxhM2U3N2I4YjFjNzAyY2EwY2U3Mzc1NDAxMTM4YmQwYmY2YWVkNDdk`
+Snapshot ID: `MCw1ODA0YzNkNjUxOTUxYjdiMWJjZTFiZTYzNzQ5NTE4NDY2Njk0ZTdm`

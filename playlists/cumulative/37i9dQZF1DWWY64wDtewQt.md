@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-626 songs - 23 hr 59 min
+628 songs - 1 day 0 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [ALARM](https://open.spotify.com/track/4r4A0sPJCht0qP4DoOzwFJ) | [KXNVRA](https://open.spotify.com/artist/5UJkhYfIETGF5PMO0DT3aj), [HIDEOUS MORBID](https://open.spotify.com/artist/7G5D01HWj1IELY5nfLQrw6) | [ALARM](https://open.spotify.com/album/6rjfUMDvJcicRolDPVfZ9p) | 2:06 | 2023-07-21 | 2023-07-29 |
 | [ALCHEMY](https://open.spotify.com/track/53GU3nsawC307mKyhH22W2) | [MC ORSEN](https://open.spotify.com/artist/2DXPtOc14uPVvK7qggj2a3), [ARCHEZ](https://open.spotify.com/artist/2sADpsTiKjzV9DRVDMXAeN) | [ALCHEMY](https://open.spotify.com/album/5TpBVt5Q2u6VIW6aZ9K01m) | 2:20 | 2022-06-03 | 2022-08-06 |
 | [ALL GAS NO BRAKES](https://open.spotify.com/track/7lrWNB3WKgVGe1q7UP14pR) | [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8), [Kaito Shoma](https://open.spotify.com/artist/3Tv1UzQAvn0v0hKTxisXnR) | [ALL GAS NO BRAKES](https://open.spotify.com/album/3kmuOoRDxLUziLPSzbA5m2) | 2:20 | 2022-06-17 | 2022-07-23 |
-| [ALORS BRAZIL](https://open.spotify.com/track/0ZOBrgBm0Rs4Ot7PQfAy8B) | [Jevio](https://open.spotify.com/artist/2bRqeQN0PGPakfgytsXq67) | [ALORS BRAZIL](https://open.spotify.com/album/4Sem9dJiZ2xJk4IuKCgAKX) | 1:40 | 2023-09-15 |  |
+| [ALORS BRAZIL](https://open.spotify.com/track/6c5u3KmfMlBxW7bFSLfGNV) | [fatit](https://open.spotify.com/artist/42zw1tQc4mHAo0Ejfd4HgT) | [ALORS BRAZIL](https://open.spotify.com/album/3WblrqsrqkJ72Lm09vAHE4) | 1:41 | 2023-09-15 |  |
+| [ALORS BRAZIL](https://open.spotify.com/track/0ZOBrgBm0Rs4Ot7PQfAy8B) | [Jevio](https://open.spotify.com/artist/2bRqeQN0PGPakfgytsXq67) | [ALORS BRAZIL](https://open.spotify.com/album/4Sem9dJiZ2xJk4IuKCgAKX) | 1:40 | 2023-09-15 | 2023-11-30 |
 | [ALORS BRAZIL](https://open.spotify.com/track/0k9k2Mr1gR7zeSLiNAqimY) | [NONTHENSE](https://open.spotify.com/artist/2APh66XEiqOiDt3bKhBWmn) | [ALORS BRAZIL](https://open.spotify.com/album/2el6zQ2h7fcrjaAMUaFp6P) | 1:41 | 2023-09-15 | 2023-11-27 |
 | [Always Want Me](https://open.spotify.com/track/24HvJre1s9gcYsgm5kV3Wz) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [Always Want Me](https://open.spotify.com/album/7hnUt41M77FkCfwn7wMcXo) | 2:10 | 2022-12-02 | 2023-02-05 |
 | [AMBAL](https://open.spotify.com/track/7usbKajM9jbTQUWGdfXCiu) | [Goos](https://open.spotify.com/artist/3qbEungOBNy6JhQGP8v5cr) | [AMBAL](https://open.spotify.com/album/0uafNnjgxsjXeU91wRoWCe) | 2:32 | 2023-01-06 | 2023-03-04 |
@@ -39,7 +40,8 @@
 | [AREAMATE MIZ](https://open.spotify.com/track/6A3uNmMItYREVU0mKY84DO) | [Anar](https://open.spotify.com/artist/4C5EDmZfgkkSwUVFSvuUNP) | [AREAMATE MIZ](https://open.spotify.com/album/2cuN40DJHCdsfxqx7jM8w3) | 1:20 | 2023-09-29 | 2023-11-08 |
 | [AREAMATE MIZ](https://open.spotify.com/track/0jFVh6ZKnTa7YeXhegoizc) | [Imprviious](https://open.spotify.com/artist/3542zdQigI42Ldk3KOrZ77) | [AREAMATE MIZ](https://open.spotify.com/album/5zjPzj6uBC7cKbBehDtsqc) | 1:20 | 2023-09-29 | 2023-11-12 |
 | [AREAMATE MIZ](https://open.spotify.com/track/5fidhv2cY1UFSmM0IfzXUc) | [Imprviious](https://open.spotify.com/artist/3542zdQigI42Ldk3KOrZ77) | [AREAMATE MIZ](https://open.spotify.com/album/3PUiEfbilwe50AC5AqaMLX) | 1:20 | 2023-09-29 | 2023-11-25 |
-| [AREAMATE MIZ](https://open.spotify.com/track/7iTkZfuWTGTMLfCSKiGKKz) | [Imprviious](https://open.spotify.com/artist/3542zdQigI42Ldk3KOrZ77) | [AREAMATE MIZ](https://open.spotify.com/album/5In521cVolHQ12SbPSg50a) | 1:20 | 2023-09-29 |  |
+| [AREAMATE MIZ](https://open.spotify.com/track/5tOuixKq2uczw2km4SOh3s) | [Imprviious](https://open.spotify.com/artist/3542zdQigI42Ldk3KOrZ77) | [AREAMATE MIZ](https://open.spotify.com/album/4xqoA91s0OEIo3r3DElsL5) | 1:20 | 2023-09-29 |  |
+| [AREAMATE MIZ](https://open.spotify.com/track/7iTkZfuWTGTMLfCSKiGKKz) | [Imprviious](https://open.spotify.com/artist/3542zdQigI42Ldk3KOrZ77) | [AREAMATE MIZ](https://open.spotify.com/album/5In521cVolHQ12SbPSg50a) | 1:20 | 2023-09-29 | 2023-11-30 |
 | [Arumanakku Mk Iii](https://open.spotify.com/track/1eXjYLn5POhiBLZuxFbZA6) | [SMKY LPRD](https://open.spotify.com/artist/2yDqXxG97zwpFIy9o1ZEQr) | [ARUMANAKKU MK III](https://open.spotify.com/album/5rTkqyJBPAFENcGeGlqCm6) | 5:18 | 2022-01-14 | 2022-02-05 |
 | [ASTRO](https://open.spotify.com/track/54sEjr0FU2YTPbEliJ1YPh) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [IVOXYGEN](https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm), [zaichkou888](https://open.spotify.com/artist/7yzEddrxGDljtj9TmeCfte) | [ASTRO](https://open.spotify.com/album/3c8QZL2igzmAcM8IfupjTC) | 2:24 | 2023-11-06 |  |
 | [Attack of the Killer Beast \(Phonk\)](https://open.spotify.com/track/1nJOtOQJqzHaxh8kzuudxR) | [SXCREDMANE](https://open.spotify.com/artist/7MLzeghYGtox25YcP078j9) | [Attack of the Killer Beast \(Phonk\)](https://open.spotify.com/album/2Co4pvEvpsBHIGXufGc3p3) | 2:16 | 2023-02-10 | 2023-06-17 |

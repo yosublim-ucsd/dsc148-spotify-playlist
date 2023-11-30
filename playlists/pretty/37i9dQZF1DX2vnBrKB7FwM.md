@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vnBrKB7FwM.md) - [plain]
 
 > Porque Colombia es tierra de MCs, Rap y Hip\-Hop\. Foto: Vic Deal
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,666 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,722 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vnBrKB7FwM.md) - [plain]
 | 60 | [Nrs In Da Area](https://open.spotify.com/track/2nwyBoKRKAemGvgRhHELg0) | [No Rules Clan](https://open.spotify.com/artist/6i28S1MHCSNJtufoq0DnPv) | [Nrs In Da Area](https://open.spotify.com/album/29HcQVOLpnwwmaI7Qlv665) | 3:31 |
 | 61 | [Siempre Recuerdos](https://open.spotify.com/track/0bKZbVfPE5vNKCw40ej9Cc) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo) | [Universos Mixtape](https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN) | 4:00 |
 | 62 | [Arde Roma](https://open.spotify.com/track/0q9snu1krPuk1FgpSK3KAg) | [Luis7Lunes](https://open.spotify.com/artist/6IQraFTvYMjzlx6AsrmsuB), [Afterclass](https://open.spotify.com/artist/66Q5qHfWVPJDj6m1nmIK0N), [Vic Deal](https://open.spotify.com/artist/0NcNqG01boinOKgb7ImmEJ) | [El Armador del Sol](https://open.spotify.com/album/2lkWXxgXtvqg0yQQAv5mYj) | 3:27 |
-| 63 | [Mielmesabe](https://open.spotify.com/track/5MN9YfKzoMwXhtds1U4uUh) | [AvenREC](https://open.spotify.com/artist/6DYx07DTxaB1GfSnJsB8tB), [Lianna](https://open.spotify.com/artist/0DvVlPVedwq6LF3jQqkZXa), [Ily Wonder](https://open.spotify.com/artist/25DD0Rmi6vCjhnuWL3C0FI) | [S.A.L.T \(Chapter 4 \- Figues À La Crème\)](https://open.spotify.com/album/1Vf36DRLwGjfXnBMtPieUf) | 3:54 |
+| 63 | [Mielmesabe](https://open.spotify.com/track/5MN9YfKzoMwXhtds1U4uUh) | [AvenREC](https://open.spotify.com/artist/6DYx07DTxaB1GfSnJsB8tB), [Lianna](https://open.spotify.com/artist/0DvVlPVedwq6LF3jQqkZXa), [Ily Wonder](https://open.spotify.com/artist/3qbVPv7ocFlmDNopJsqpnI) | [S.A.L.T \(Chapter 4 \- Figues À La Crème\)](https://open.spotify.com/album/1Vf36DRLwGjfXnBMtPieUf) | 3:54 |
 | 64 | [Flaca](https://open.spotify.com/track/18PywrD2EQCVJEXMjETy8p) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Flaca](https://open.spotify.com/album/1rGB0EkQQ96tB4iYTklDIy) | 3:24 |
 | 65 | [Perro Juan](https://open.spotify.com/track/5cl4qEH0TWy22V75VTXRJB) | [Luis7Lunes](https://open.spotify.com/artist/6IQraFTvYMjzlx6AsrmsuB), [Afterclass](https://open.spotify.com/artist/66Q5qHfWVPJDj6m1nmIK0N), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij) | [Perro Juan](https://open.spotify.com/album/7G1nzx1H4kp8Rc4qUp0qcz) | 2:07 |
 | 66 | [Esperaré por Ti](https://open.spotify.com/track/36Rix2ddUNOg7eMJOEGxNk) | [Aerophon](https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep) | [Esperaré por Ti](https://open.spotify.com/album/4OptL4DWShK5i4P1XP6V2Y) | 3:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vnBrKB7FwM.md) - [plain]
 | 74 | [Deja](https://open.spotify.com/track/6Kc4xRgbOxNqoVoXIP6h4e) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu) | [Mestizo](https://open.spotify.com/album/3q3CUqz2XqQwDOFjmWphbw) | 3:31 |
 | 75 | [Horas Extras](https://open.spotify.com/track/5oFX4zn4CIDN0l2RCVuObT) | [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53), [DJ Dmoe](https://open.spotify.com/artist/0UO7aldjXU5OjHiYKXUwrK) | [Todos Tienen Que Comer](https://open.spotify.com/album/6vPnYHNVtdT9V76xUy3e2d) | 3:52 |
 
-Snapshot ID: `MCwxYjg4NGQ2YjRiN2FlMjk3NzI4ZmQxNjVhZDQyOTkzZWQ3NTI1NDhj`
+Snapshot ID: `MCwyNWEyMzhmMDQ0YjA5MDc4NDFhOTM0NWJjMjM2NTI3YmMxNTMzODk0`

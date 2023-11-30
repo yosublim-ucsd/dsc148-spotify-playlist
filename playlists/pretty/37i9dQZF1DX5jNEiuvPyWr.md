@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 
 > Le meilleur du rap français version cloud\. Photo : joysad
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,730 likes - 40 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,727 likes - 40 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 | 25 | [STRESS!](https://open.spotify.com/track/5PSTc9QCtJicfuMYF9OIIb) | [OSO](https://open.spotify.com/artist/7v8eES96R5p4lUkinWKY1g) | [osowhereRu?](https://open.spotify.com/album/2XFlLaI8vYV8Q1gzPrGgZt) | 2:13 |
 | 26 | [NUIT ET JOUR](https://open.spotify.com/track/400rEn95uXwJ6akAq4jSNY) | [HAKAI](https://open.spotify.com/artist/33v1e0a3iVU2BBzW3orMrN) | [NUIT ET JOUR](https://open.spotify.com/album/6ooUr10tF4PtDsa9yhP5sy) | 1:53 |
 | 27 | [MÖDI](https://open.spotify.com/track/3KXmiKG3D0imrkAJfMKv3X) | [Sokuu](https://open.spotify.com/artist/0et1mZYLCSVBIBUY94B8Xn) | [MÖDI](https://open.spotify.com/album/6oGbaQspWtK4A3cCLC5noJ) | 2:19 |
-| 28 | [MEILLEUR](https://open.spotify.com/track/4LzP3qhx5v3qo1nMn4Fhu9) | [MPablo](https://open.spotify.com/artist/4Pmp4phME9ksNwnpPHumHU) | [HUMAIN](https://open.spotify.com/album/5SBWcUHPeO7suJtkQxEj1b) | 3:03 |
+| 28 | [MEILLEUR](https://open.spotify.com/track/5atKLIetNSwYT8mYdVRWQO) | [MPablo](https://open.spotify.com/artist/4Pmp4phME9ksNwnpPHumHU) | [HUMAIN](https://open.spotify.com/album/7JZT9iNvgUcdmiju0ps1z9) | 3:03 |
 | 29 | [Jour de pluie](https://open.spotify.com/track/7Cuca28lbRnHCWlpgEwxCu) | [F430](https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG) | [Jour de pluie](https://open.spotify.com/album/55HrsnQR83ZjEiaSYnXdRO) | 3:17 |
 | 30 | [JAUNE CRÉMEUX](https://open.spotify.com/track/5MZ7AYuPDyjSYRWdSu7N1l) | [Laroma](https://open.spotify.com/artist/7Hv2hIVAkEylgEKAOyF7bw) | [JAUNE CRÉMEUX](https://open.spotify.com/album/05B6weLYEjhrIIJwECtOdV) | 3:28 |
 | 31 | [VAGUE](https://open.spotify.com/track/4zTbR7badAt5Xxj2I8Wo5J) | [GEAVN](https://open.spotify.com/artist/1wRjJI80Z1xUT2aFdn7aru) | [CYNE](https://open.spotify.com/album/13nrCbkuJantG09mJDcikJ) | 3:07 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 | 39 | [MAL](https://open.spotify.com/track/1kaCrC3OD8nZF1MLKik7Td) | [Chat noir](https://open.spotify.com/artist/7ikmRMoCZRg3DNAzG0tAN8) | [MAL](https://open.spotify.com/album/37z6z2yjoIDEDBezztDN3G) | 3:54 |
 | 40 | [Vide](https://open.spotify.com/track/20jeEnFijJd4tRAtcww0tl) | [Sicario](https://open.spotify.com/artist/0ajjnGmVt2aVGD70lDbVl6) | [Vide](https://open.spotify.com/album/5j0mtAW5OGpVv7vO7MfEOF) | 3:18 |
 
-Snapshot ID: `MCwxM2FiYjJjYzUyZTYyNzdmMzI3NTA1MjRjNjM1MDM3OTgxZmZiN2Yx`
+Snapshot ID: `MCw2YWRiM2EwOGEwOTFlODdlZjkwN2ExNDhjZWRiNmMzZGE5YzcyNDAz`

@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do trap. Foto: Kyan",
-  "num_followers": 135578,
+  "num_followers": 135577,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzE5MTZiNThlMTI0YzA3OWVjNzY0MjUyOTQ0NGYyNzc3MDVhYTYy",
+  "snapshot_id": "MCxlYmQ5ODJiYWU3NzVhYWIwMWYyNGZiYTk3N2E3MTM4ODljMGQxYTg0",
   "tracks": [
     {
       "added_at": "2023-11-24 14:38:11",
@@ -967,26 +967,6 @@
     {
       "added_at": "2023-11-24 14:38:11",
       "album": {
-        "name": "Design",
-        "url": "https://open.spotify.com/album/5YUqf5vn12UjbfdNvGjQlR"
-      },
-      "artists": [
-        {
-          "name": "tchelo rodrigues",
-          "url": "https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY"
-        },
-        {
-          "name": "retroboy",
-          "url": "https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY"
-        }
-      ],
-      "duration_ms": 140488,
-      "name": "Design",
-      "url": "https://open.spotify.com/track/1xvmdJ7DKsbNvYJTI4hmRJ"
-    },
-    {
-      "added_at": "2023-11-24 14:38:11",
-      "album": {
         "name": "BLOCKO",
         "url": "https://open.spotify.com/album/2AUYOZad5ek65kNUprn5EM"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 151489,
       "name": "BLOCKO",
       "url": "https://open.spotify.com/track/34Tg2hUpJ0KfHktOEOmv8G"
+    },
+    {
+      "added_at": "2023-11-24 14:38:11",
+      "album": {
+        "name": "Design",
+        "url": "https://open.spotify.com/album/5YUqf5vn12UjbfdNvGjQlR"
+      },
+      "artists": [
+        {
+          "name": "tchelo rodrigues",
+          "url": "https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY"
+        },
+        {
+          "name": "retroboy",
+          "url": "https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY"
+        }
+      ],
+      "duration_ms": 140488,
+      "name": "Design",
+      "url": "https://open.spotify.com/track/1xvmdJ7DKsbNvYJTI4hmRJ"
     },
     {
       "added_at": "2023-11-24 14:38:11",

@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 31489,
+  "num_followers": 31514,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTU4MzM5OTYzNGQ3MzE2NjcxZDViMTEzM2I2Mjg1NjEyMmNlN2Ji",
+  "snapshot_id": "MCw0MDA3NzYwZTQ4YzVmMjNmMWYzM2ZjNDA5NDU0MjdjZGU3OGVlNmYz",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -415,18 +415,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: Get Up (Mixed by Armand Van Helden)",
-        "url": "https://open.spotify.com/album/6sW08qvj1KH5UdDiuWSQ8L"
+        "name": "Witch Doktor (Eddie Thoneick Remix)",
+        "url": "https://open.spotify.com/album/4twj4eYghihhYHeVhM0TkM"
       },
       "artists": [
         {
           "name": "Armand Van Helden",
           "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        {
+          "name": "Eddie Thoneick",
+          "url": "https://open.spotify.com/artist/5bZtLLqlPwps3vdb8ElAkt"
         }
       ],
-      "duration_ms": 595093,
-      "name": "Witch Doktor (The Dark Ages Mix)",
-      "url": "https://open.spotify.com/track/5HOWxh7rS6kCumiu3xMIeN"
+      "duration_ms": 442739,
+      "name": "Witch Doktor (Eddie Thoneick Remix)",
+      "url": "https://open.spotify.com/track/7xHUqMQfeiPUpQOlCxTYkY"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -527,22 +531,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Witch Doktor (Eddie Thoneick Remix)",
-        "url": "https://open.spotify.com/album/4twj4eYghihhYHeVhM0TkM"
+        "name": "The Lost Tapes: Get Up (Mixed by Armand Van Helden)",
+        "url": "https://open.spotify.com/album/6sW08qvj1KH5UdDiuWSQ8L"
       },
       "artists": [
         {
           "name": "Armand Van Helden",
           "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
-        },
-        {
-          "name": "Eddie Thoneick",
-          "url": "https://open.spotify.com/artist/5bZtLLqlPwps3vdb8ElAkt"
         }
       ],
-      "duration_ms": 442739,
-      "name": "Witch Doktor (Eddie Thoneick Remix)",
-      "url": "https://open.spotify.com/track/7xHUqMQfeiPUpQOlCxTYkY"
+      "duration_ms": 595093,
+      "name": "Witch Doktor (The Dark Ages Mix)",
+      "url": "https://open.spotify.com/track/5HOWxh7rS6kCumiu3xMIeN"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
-        "url": "https://open.spotify.com/album/6714X9DTEcUC6K6yv1uQpE"
-      },
-      "artists": [
-        {
-          "name": "Shadii",
-          "url": "https://open.spotify.com/artist/1Kn2EZ3n656E7R9Cl6p9l2"
-        }
-      ],
-      "duration_ms": 342621,
-      "name": "My People (My People Mix)",
-      "url": "https://open.spotify.com/track/23kx0OirzCk4PQbbKs6rya"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Spark da Meth",
         "url": "https://open.spotify.com/album/0CK0eq8QWkn1xRp4LXYx8j"
       },
@@ -931,18 +915,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Just An Organ / Getting Bigger (Mixes)",
-        "url": "https://open.spotify.com/album/5BnDOPtqUI0eR3yIorHn7j"
+        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
+        "url": "https://open.spotify.com/album/6714X9DTEcUC6K6yv1uQpE"
       },
       "artists": [
         {
-          "name": "D-Tune",
-          "url": "https://open.spotify.com/artist/26P8hiVKDgo3V5CfdYwSWm"
+          "name": "Shadii",
+          "url": "https://open.spotify.com/artist/1Kn2EZ3n656E7R9Cl6p9l2"
         }
       ],
-      "duration_ms": 337901,
-      "name": "Just an Organ (Just An Organ Mix)",
-      "url": "https://open.spotify.com/track/5sUqzg4M6ghFpcTciCiSiH"
+      "duration_ms": 342621,
+      "name": "My People (My People Mix)",
+      "url": "https://open.spotify.com/track/23kx0OirzCk4PQbbKs6rya"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -963,18 +947,34 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Choices",
-        "url": "https://open.spotify.com/album/1GrIg6TtWx42HcBpIHu1gh"
+        "name": "Boom / I Need Your Love",
+        "url": "https://open.spotify.com/album/1G7KXTJydP5w5UIQCQBL2t"
       },
       "artists": [
         {
-          "name": "Full Swing",
-          "url": "https://open.spotify.com/artist/61u5dnJOUnu9mddENoTJeQ"
+          "name": "House 2 House",
+          "url": "https://open.spotify.com/artist/70iQImFp3CMD1MXnDvmAIz"
         }
       ],
-      "duration_ms": 472984,
-      "name": "Choices (Choices Vocal Mix)",
-      "url": "https://open.spotify.com/track/5N7cwa4semi11gavRLxWGu"
+      "duration_ms": 358546,
+      "name": "Boom (Radio Mix)",
+      "url": "https://open.spotify.com/track/2Mnqeirws7LI60BXCKRA3S"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Just An Organ / Getting Bigger (Mixes)",
+        "url": "https://open.spotify.com/album/5BnDOPtqUI0eR3yIorHn7j"
+      },
+      "artists": [
+        {
+          "name": "D-Tune",
+          "url": "https://open.spotify.com/artist/26P8hiVKDgo3V5CfdYwSWm"
+        }
+      ],
+      "duration_ms": 337901,
+      "name": "Just an Organ (Just An Organ Mix)",
+      "url": "https://open.spotify.com/track/5sUqzg4M6ghFpcTciCiSiH"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -991,6 +991,22 @@
       "duration_ms": 341200,
       "name": "Jump & Sing (Hard Metro Mix)",
       "url": "https://open.spotify.com/track/0a47CdRlKFkKTMX6ZSH2nL"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Choices",
+        "url": "https://open.spotify.com/album/1GrIg6TtWx42HcBpIHu1gh"
+      },
+      "artists": [
+        {
+          "name": "Full Swing",
+          "url": "https://open.spotify.com/artist/61u5dnJOUnu9mddENoTJeQ"
+        }
+      ],
+      "duration_ms": 472984,
+      "name": "Choices (Choices Vocal Mix)",
+      "url": "https://open.spotify.com/track/5N7cwa4semi11gavRLxWGu"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1027,26 +1043,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Beat That Makes U Move",
-        "url": "https://open.spotify.com/album/5GyM1JW6iNfthvDAAuQZnX"
-      },
-      "artists": [
-        {
-          "name": "Bass Hitt",
-          "url": "https://open.spotify.com/artist/1AzJbkaxkRGTXx25UoVPbR"
-        },
-        {
-          "name": "Dreamgirl Vee",
-          "url": "https://open.spotify.com/artist/4D7oLTG2VmYSHZkWfYkduN"
-        }
-      ],
-      "duration_ms": 458306,
-      "name": "The Beat That Makes U Move (The Rhythm Hype Mix)",
-      "url": "https://open.spotify.com/track/2un4L4HUr8Q17tHtehjM81"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Get Up",
         "url": "https://open.spotify.com/album/4ZwpOTuIbV15jhyWfJMb7D"
       },
@@ -1063,18 +1059,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Boom / I Need Your Love",
-        "url": "https://open.spotify.com/album/1G7KXTJydP5w5UIQCQBL2t"
+        "name": "The Beat That Makes U Move",
+        "url": "https://open.spotify.com/album/5GyM1JW6iNfthvDAAuQZnX"
       },
       "artists": [
         {
-          "name": "House 2 House",
-          "url": "https://open.spotify.com/artist/70iQImFp3CMD1MXnDvmAIz"
+          "name": "Bass Hitt",
+          "url": "https://open.spotify.com/artist/1AzJbkaxkRGTXx25UoVPbR"
+        },
+        {
+          "name": "Dreamgirl Vee",
+          "url": "https://open.spotify.com/artist/4D7oLTG2VmYSHZkWfYkduN"
         }
       ],
-      "duration_ms": 358546,
-      "name": "Boom (Radio Mix)",
-      "url": "https://open.spotify.com/track/2Mnqeirws7LI60BXCKRA3S"
+      "duration_ms": 458306,
+      "name": "The Beat That Makes U Move (The Rhythm Hype Mix)",
+      "url": "https://open.spotify.com/track/2un4L4HUr8Q17tHtehjM81"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1147,22 +1147,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Equinox",
-        "url": "https://open.spotify.com/album/55amN0lWdcvH5QVZ5egjor"
+        "name": "Strictly Rhythms, Vol. 1",
+        "url": "https://open.spotify.com/album/6VfiD0SC34baxLDlDxtPI2"
       },
       "artists": [
         {
-          "name": "Code 718",
-          "url": "https://open.spotify.com/artist/4kSrRAfjG8flVU9ITYpVkW"
-        },
-        {
-          "name": "Henrik Schwarz",
-          "url": "https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R"
+          "name": "Kenny Dope",
+          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
         }
       ],
-      "duration_ms": 368466,
-      "name": "Equinox (Henrik Schwarz Remix)",
-      "url": "https://open.spotify.com/track/5E1DUqZWjJXjUsOFXLh9RC"
+      "duration_ms": 766733,
+      "name": "Tribal Seagulls",
+      "url": "https://open.spotify.com/track/0QsxEwYwa7FeF3u5lE6lc6"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1203,18 +1199,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Strictly Rhythms, Vol. 1",
-        "url": "https://open.spotify.com/album/6VfiD0SC34baxLDlDxtPI2"
+        "name": "Equinox",
+        "url": "https://open.spotify.com/album/55amN0lWdcvH5QVZ5egjor"
       },
       "artists": [
         {
-          "name": "Kenny Dope",
-          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
+          "name": "Code 718",
+          "url": "https://open.spotify.com/artist/4kSrRAfjG8flVU9ITYpVkW"
+        },
+        {
+          "name": "Henrik Schwarz",
+          "url": "https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R"
         }
       ],
-      "duration_ms": 766733,
-      "name": "Tribal Seagulls",
-      "url": "https://open.spotify.com/track/0QsxEwYwa7FeF3u5lE6lc6"
+      "duration_ms": 368466,
+      "name": "Equinox (Henrik Schwarz Remix)",
+      "url": "https://open.spotify.com/track/5E1DUqZWjJXjUsOFXLh9RC"
     },
     {
       "added_at": "2022-03-03 13:59:16",

@@ -1,12 +1,12 @@
 {
   "description": "A mediterranean sundown soundtrack.",
-  "num_followers": 114222,
+  "num_followers": 114345,
   "original_name": "Balearic Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmM2JkNWQyNDVjMzdhNjhiNzBiZDE2ZDQ1MDIyNTQ1ODY0YTAzYzRm",
+  "snapshot_id": "MCxlYzE3ZGQyYmM1NjBmMmNlNTNlYTJlNzZmZDJkZDFlMzRkNGJhMGI4",
   "tracks": [
     {
       "added_at": "2023-07-14 11:01:37",
@@ -231,22 +231,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Happy Music",
-        "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
-      },
-      "artists": [
-        {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        }
-      ],
-      "duration_ms": 232625,
-      "name": "Happy Music",
-      "url": "https://open.spotify.com/track/0LbZxI8FZU1E48EqF9XgC0"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "The North Borders",
         "url": "https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 352246,
       "name": "Cirrus",
       "url": "https://open.spotify.com/track/2lJ4d8MCT6ZlDRHKJ1br14"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Happy Music",
+        "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        }
+      ],
+      "duration_ms": 232625,
+      "name": "Happy Music",
+      "url": "https://open.spotify.com/track/0LbZxI8FZU1E48EqF9XgC0"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -379,6 +379,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "Migration",
+        "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 237546,
+      "name": "Kerala",
+      "url": "https://open.spotify.com/track/5DAjrJqXqYtgr67pVhmUeR"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "All In A Dream",
         "url": "https://open.spotify.com/album/6X8Qi8j1bvHv7FYoJ04fE6"
       },
@@ -423,18 +439,18 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Migration",
-        "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
+        "name": "Blurred",
+        "url": "https://open.spotify.com/album/6buz46xNMKBZ5xItTu5rDK"
       },
       "artists": [
         {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+          "name": "Kiasmos",
+          "url": "https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD"
         }
       ],
-      "duration_ms": 237546,
-      "name": "Kerala",
-      "url": "https://open.spotify.com/track/5DAjrJqXqYtgr67pVhmUeR"
+      "duration_ms": 305546,
+      "name": "Blurred",
+      "url": "https://open.spotify.com/track/0jJLwPDpyuZRpd800yScN0"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -451,22 +467,6 @@
       "duration_ms": 379367,
       "name": "Les Nuits",
       "url": "https://open.spotify.com/track/64EfSAF5nxhIfUw1GbPPCC"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "Blurred",
-        "url": "https://open.spotify.com/album/6buz46xNMKBZ5xItTu5rDK"
-      },
-      "artists": [
-        {
-          "name": "Kiasmos",
-          "url": "https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD"
-        }
-      ],
-      "duration_ms": 305546,
-      "name": "Blurred",
-      "url": "https://open.spotify.com/track/0jJLwPDpyuZRpd800yScN0"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "In The Music The Village Never Ends",
-        "url": "https://open.spotify.com/album/2RtJZfZgfyyW8OzxWRCHaR"
-      },
-      "artists": [
-        {
-          "name": "Letta Mbulu",
-          "url": "https://open.spotify.com/artist/7iwwcDXXToUdUoDYP70EA0"
-        }
-      ],
-      "duration_ms": 311866,
-      "name": "Nomalizo",
-      "url": "https://open.spotify.com/track/3lB31lvF4GEwKwMgFWwCJ7"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Purple Noon",
         "url": "https://open.spotify.com/album/5YzzV7NMiiVGKMve73OBYc"
       },
@@ -567,18 +551,18 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Mirrorwriting",
-        "url": "https://open.spotify.com/album/30MSPzoWz0TzaFY7zx02XD"
+        "name": "In The Music The Village Never Ends",
+        "url": "https://open.spotify.com/album/2RtJZfZgfyyW8OzxWRCHaR"
       },
       "artists": [
         {
-          "name": "Jamie Woon",
-          "url": "https://open.spotify.com/artist/1fUMEn4Yk7ZUloozE0fRLL"
+          "name": "Letta Mbulu",
+          "url": "https://open.spotify.com/artist/7iwwcDXXToUdUoDYP70EA0"
         }
       ],
-      "duration_ms": 322400,
-      "name": "Night Air",
-      "url": "https://open.spotify.com/track/73C8W2PBSEbfoNIi1J93MN"
+      "duration_ms": 311866,
+      "name": "Nomalizo",
+      "url": "https://open.spotify.com/track/3lB31lvF4GEwKwMgFWwCJ7"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -595,6 +579,22 @@
       "duration_ms": 280266,
       "name": "Nights Introlude",
       "url": "https://open.spotify.com/track/5I6jxFTcbN8sHT3MPUeTAH"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Mirrorwriting",
+        "url": "https://open.spotify.com/album/30MSPzoWz0TzaFY7zx02XD"
+      },
+      "artists": [
+        {
+          "name": "Jamie Woon",
+          "url": "https://open.spotify.com/artist/1fUMEn4Yk7ZUloozE0fRLL"
+        }
+      ],
+      "duration_ms": 322400,
+      "name": "Night Air",
+      "url": "https://open.spotify.com/track/73C8W2PBSEbfoNIi1J93MN"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "Protection",
+        "url": "https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC"
+      },
+      "artists": [
+        {
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+        }
+      ],
+      "duration_ms": 299960,
+      "name": "Weather Storm",
+      "url": "https://open.spotify.com/track/4u5KFWcW1ptk0hJqp2lrCE"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "The Best Of Cheryl Lynn: Got To Be Real",
         "url": "https://open.spotify.com/album/4iHg9LCYV1ajkqyFjl3sXy"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 305893,
       "name": "Georgy Porgy (feat. Cheryl Lynn) - Disco Version",
       "url": "https://open.spotify.com/track/2zgVJFC1zMX552Ein72J81"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "Protection",
-        "url": "https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC"
-      },
-      "artists": [
-        {
-          "name": "Massive Attack",
-          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
-        }
-      ],
-      "duration_ms": 299960,
-      "name": "Weather Storm",
-      "url": "https://open.spotify.com/track/4u5KFWcW1ptk0hJqp2lrCE"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "Wandering",
+        "url": "https://open.spotify.com/album/0otC2s8AupBtfGUe0UUhYg"
+      },
+      "artists": [
+        {
+          "name": "Yosi Horikawa",
+          "url": "https://open.spotify.com/artist/1JSPpoXFLcEG2WhYlvmHPJ"
+        }
+      ],
+      "duration_ms": 347250,
+      "name": "Bubbles",
+      "url": "https://open.spotify.com/track/2MYPFXScWdR3PQihBQxu7x"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "Indoor Fireworks (Re-Release)",
         "url": "https://open.spotify.com/album/7CKn2PMMpKU2XXR8F9Qgzj"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 505453,
       "name": "Caf\u00e9 de Flore",
       "url": "https://open.spotify.com/track/5tOd8Y5zNe8cEu2eCsJgpR"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "Wandering",
-        "url": "https://open.spotify.com/album/0otC2s8AupBtfGUe0UUhYg"
-      },
-      "artists": [
-        {
-          "name": "Yosi Horikawa",
-          "url": "https://open.spotify.com/artist/1JSPpoXFLcEG2WhYlvmHPJ"
-        }
-      ],
-      "duration_ms": 347250,
-      "name": "Bubbles",
-      "url": "https://open.spotify.com/track/2MYPFXScWdR3PQihBQxu7x"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Pina Colada (And Other Early Tunes)",
-        "url": "https://open.spotify.com/album/1tzIjTWqLA6GbBCOKiukjc"
-      },
-      "artists": [
-        {
-          "name": "Digby Jones",
-          "url": "https://open.spotify.com/artist/4RSNNGdvEfBA2s3ziDFUlU"
-        }
-      ],
-      "duration_ms": 359586,
-      "name": "Under the Sea",
-      "url": "https://open.spotify.com/track/6LGrEXeLdxgY5zuvJ6S89I"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Flashlight EP",
         "url": "https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 302542,
       "name": "Return to Air",
       "url": "https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Pina Colada (And Other Early Tunes)",
+        "url": "https://open.spotify.com/album/1tzIjTWqLA6GbBCOKiukjc"
+      },
+      "artists": [
+        {
+          "name": "Digby Jones",
+          "url": "https://open.spotify.com/artist/4RSNNGdvEfBA2s3ziDFUlU"
+        }
+      ],
+      "duration_ms": 359586,
+      "name": "Under the Sea",
+      "url": "https://open.spotify.com/track/6LGrEXeLdxgY5zuvJ6S89I"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Time out of Mind",
-        "url": "https://open.spotify.com/album/3XS2DDdGE8dPdtfQy4gQxb"
-      },
-      "artists": [
-        {
-          "name": "Troubleman",
-          "url": "https://open.spotify.com/artist/0qjTWul9cULRUuKF6P2frK"
-        },
-        {
-          "name": "Nina Miranda",
-          "url": "https://open.spotify.com/artist/3AXxvXhECGeTQCUU0Lj3ln"
-        }
-      ],
-      "duration_ms": 224840,
-      "name": "Paz",
-      "url": "https://open.spotify.com/track/70cxjdNUHzSnk8SSeAHlLs"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Soft Power",
         "url": "https://open.spotify.com/album/1BTjS1GvXAOauIJeK2ppmW"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 262281,
       "name": "Caf\u00e9 Com Leite",
       "url": "https://open.spotify.com/track/3zlC6H9LLQQhpJYOBofEZ0"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Time out of Mind",
+        "url": "https://open.spotify.com/album/3XS2DDdGE8dPdtfQy4gQxb"
+      },
+      "artists": [
+        {
+          "name": "Troubleman",
+          "url": "https://open.spotify.com/artist/0qjTWul9cULRUuKF6P2frK"
+        },
+        {
+          "name": "Nina Miranda",
+          "url": "https://open.spotify.com/artist/3AXxvXhECGeTQCUU0Lj3ln"
+        }
+      ],
+      "duration_ms": 224840,
+      "name": "Paz",
+      "url": "https://open.spotify.com/track/70cxjdNUHzSnk8SSeAHlLs"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "Suddenly",
+        "url": "https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "duration_ms": 243946,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/2np2e0pDBBmUgcdItVb6d3"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "Quiet Night",
         "url": "https://open.spotify.com/album/3qrdALmql8njlLqI0Ek4ep"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 212000,
       "name": "Quiet Night",
       "url": "https://open.spotify.com/track/37uDjCFbCIj8Doz8NMyiHT"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "Suddenly",
-        "url": "https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC"
-      },
-      "artists": [
-        {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
-        }
-      ],
-      "duration_ms": 243946,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/2np2e0pDBBmUgcdItVb6d3"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "Pina Colada (And Other Early Tunes)",
+        "url": "https://open.spotify.com/album/1tzIjTWqLA6GbBCOKiukjc"
+      },
+      "artists": [
+        {
+          "name": "Digby Jones",
+          "url": "https://open.spotify.com/artist/4RSNNGdvEfBA2s3ziDFUlU"
+        }
+      ],
+      "duration_ms": 366946,
+      "name": "Pina Colada (Jazz Mix)",
+      "url": "https://open.spotify.com/track/4ygxOijRQ07KUiYvaRdBQv"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "Into Daylight",
         "url": "https://open.spotify.com/album/6BqQtWIZEpt4HgLF3de81l"
       },
@@ -1467,22 +1483,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Pina Colada (And Other Early Tunes)",
-        "url": "https://open.spotify.com/album/1tzIjTWqLA6GbBCOKiukjc"
-      },
-      "artists": [
-        {
-          "name": "Digby Jones",
-          "url": "https://open.spotify.com/artist/4RSNNGdvEfBA2s3ziDFUlU"
-        }
-      ],
-      "duration_ms": 366946,
-      "name": "Pina Colada (Jazz Mix)",
-      "url": "https://open.spotify.com/track/4ygxOijRQ07KUiYvaRdBQv"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "D\u00e9epalma Ibiza 2023 - 10th Anniversary",
         "url": "https://open.spotify.com/album/6oqOdRBJ8KZFcAJusUNKWs"
       },
@@ -1495,6 +1495,22 @@
       "duration_ms": 377849,
       "name": "Starz - Original Mix",
       "url": "https://open.spotify.com/track/2aMJ48BAhYKxwsVBNd0kgR"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Le Fruit Disco",
+        "url": "https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc"
+      },
+      "artists": [
+        {
+          "name": "Stuzzi",
+          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
+        }
+      ],
+      "duration_ms": 215080,
+      "name": "maracuya massage",
+      "url": "https://open.spotify.com/track/6puPeC2EToXfnPOcVGhNTh"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1519,22 +1535,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Le Fruit Disco",
-        "url": "https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc"
-      },
-      "artists": [
-        {
-          "name": "Stuzzi",
-          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
-        }
-      ],
-      "duration_ms": 215080,
-      "name": "maracuya massage",
-      "url": "https://open.spotify.com/track/6puPeC2EToXfnPOcVGhNTh"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Peace Now (Folamour Remix)",
         "url": "https://open.spotify.com/album/7HrFmMMJVi3RXaM8iSz1vR"
       },
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Gentle EP",
-        "url": "https://open.spotify.com/album/45LfyUaK6GsKpNb7uFfcm3"
-      },
-      "artists": [
-        {
-          "name": "Lovebirds",
-          "url": "https://open.spotify.com/artist/4UW65n6QZ8YmanLPuUXVui"
-        }
-      ],
-      "duration_ms": 347505,
-      "name": "Tuesday",
-      "url": "https://open.spotify.com/track/4fZxYrLJd92r8MJtqgjZjv"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Cantoma (Deluxe)",
         "url": "https://open.spotify.com/album/6lskV9a36IHabSEEN45dRm"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 325760,
       "name": "Pandajero",
       "url": "https://open.spotify.com/track/6TgwzcTeYxNZ7adg0rc2gb"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Gentle EP",
+        "url": "https://open.spotify.com/album/45LfyUaK6GsKpNb7uFfcm3"
+      },
+      "artists": [
+        {
+          "name": "Lovebirds",
+          "url": "https://open.spotify.com/artist/4UW65n6QZ8YmanLPuUXVui"
+        }
+      ],
+      "duration_ms": 347505,
+      "name": "Tuesday",
+      "url": "https://open.spotify.com/track/4fZxYrLJd92r8MJtqgjZjv"
     },
     {
       "added_at": "2023-07-14 11:01:37",

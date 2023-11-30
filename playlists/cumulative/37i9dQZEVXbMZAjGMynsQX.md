@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Costa Rica.
 
-895 songs - 2 day 2 hr 46 min
+896 songs - 2 day 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -394,7 +394,7 @@
 | [La Bachata](https://open.spotify.com/track/3tt9i3Hhzq84dPS8H7iSiJ) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [2000](https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH) | 2:42 | 2023-03-18 |  |
 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 | 2022-06-28 | 2023-03-19 |
 | [La Bebe](https://open.spotify.com/track/6odrHMSLjP3aOXC4ipKUC6) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [LPM](https://open.spotify.com/album/0CPD6yP11H86RohYYNBD76) | 3:43 | 2023-03-05 | 2023-05-07 |
-| [La Bebe \- Remix](https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Bebe \(Remix\)](https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti) | 3:54 | 2023-03-25 |  |
+| [La Bebe \- Remix](https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Bebe \(Remix\)](https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti) | 3:54 | 2023-03-25 | 2023-11-30 |
 | [La Buena Fai](https://open.spotify.com/track/188Iohmux4LrDaj6e6eeEx) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 2:24 | 2022-09-15 | 2022-09-18 |
 | [LA CANCIÓN](https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 4:02 | 2021-06-07 | 2023-07-30 |
 | [La Corriente](https://open.spotify.com/track/1797zYiX4cKosMH836X9Gt) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:18 | 2022-05-07 | 2023-01-18 |
@@ -680,6 +680,7 @@
 | [Rara Vez](https://open.spotify.com/track/7MVIfkyzuUmQ716j8U7yGR) | [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Rara Vez](https://open.spotify.com/album/26wRfIX4WqKLKHll9O3KnF) | 2:08 | 2023-02-22 |  |
 | [Rauw Alejandro: Bzrp Music Sessions, Vol\. 56](https://open.spotify.com/track/2NFadq6pUeiVEihLvUlOSr) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Rauw Alejandro: Bzrp Music Sessions, Vol\. 56](https://open.spotify.com/album/6N4eyhCAqaGoT3lcEpzBmf) | 3:11 | 2023-06-23 | 2023-07-09 |
 | [Real Hasta la Muerte](https://open.spotify.com/track/06HLRbv3Vzkvd5bjQVL12c) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Las Leyendas Nunca Mueren](https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA) | 10:01 | 2021-11-28 | 2021-11-28 |
+| [Reggaeton Champagne](https://open.spotify.com/track/7yIIeKUxTpn36X6CFJhgEi) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ) | [Kittyponeo](https://open.spotify.com/album/2u2IVr3kVR13lr517rvcjM) | 2:39 | 2023-11-29 |  |
 | [REINA](https://open.spotify.com/track/0QRHOAeU8JRaVVn3UoZBih) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [ESTRELLA](https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3) | 3:31 | 2023-08-30 | 2023-10-08 |
 | [Relación \- Remix](https://open.spotify.com/track/35UUpTmrcFXNIVIN26ujXl) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Relación \(Remix\)](https://open.spotify.com/album/2O985DZAb4i6M6iu4HWqSX) | 4:07 | 2021-03-27\* | 2021-04-26 |
 | [Reloj](https://open.spotify.com/track/4loQgPwJHocL3dFwLfjb1J) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Afrodisíaco](https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v) | 3:51 | 2021-03-27\* | 2021-08-17 |

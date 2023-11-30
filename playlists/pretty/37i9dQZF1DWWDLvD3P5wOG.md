@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 
 > Throwbacks you can catch a wine to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 584,941 likes - 80 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 585,210 likes - 80 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 | 39 | [Dutty Whine](https://open.spotify.com/track/0faQCjG6E7VecroZfmSA3J) | [Tony Matterhorn](https://open.spotify.com/artist/6taesTUSevB9eK8bm5Y7b9) | [Dutty Whine](https://open.spotify.com/album/7fv1oxFvj0feUywPYZKpR0) | 3:13 |
 | 40 | [Ova Dweet](https://open.spotify.com/track/0RQEpWykgNyAMCeuZJDKJt) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Ova Dweet \- Single](https://open.spotify.com/album/3I6muahdIVAN75q0k1Cpc5) | 3:41 |
 | 41 | [Bicycle](https://open.spotify.com/track/1jUuRNEIHITr1xecjeG5So) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Dancehall Hero Raw: Deluxe](https://open.spotify.com/album/3XROPn9zW3o0RnwkZCCEbs) | 2:17 |
-| 42 | [Pon De River Pon De Bank](https://open.spotify.com/track/46l7fOJggsNqrNPJeFk0og) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Good 2 Go](https://open.spotify.com/album/4N8f7aP3lVNkn7sKHTnHVZ) | 3:59 |
-| 43 | [Gal A Bubble](https://open.spotify.com/track/3Ib4YrvFEug9vY4JaCmBBw) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Strictly The Best Vol\. 51](https://open.spotify.com/album/6EFR4aXlC8CtacHf30uOnH) | 3:31 |
+| 42 | [Gal A Bubble](https://open.spotify.com/track/3Ib4YrvFEug9vY4JaCmBBw) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Strictly The Best Vol\. 51](https://open.spotify.com/album/6EFR4aXlC8CtacHf30uOnH) | 3:31 |
+| 43 | [Pon De River Pon De Bank](https://open.spotify.com/track/46l7fOJggsNqrNPJeFk0og) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Good 2 Go](https://open.spotify.com/album/4N8f7aP3lVNkn7sKHTnHVZ) | 3:59 |
 | 44 | [Settle Down \(Destiny\)](https://open.spotify.com/track/3No90yqhFHg1vcFCHrCR6b) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Settle Down \(Destiny\)](https://open.spotify.com/album/5wqSokkE06joXVP6Pe3tlf) | 3:09 |
 | 45 | [Romie](https://open.spotify.com/track/1y7sKhBWlJxH6OXSDjcEKw) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [Maestro](https://open.spotify.com/album/6D9fr78fZr3H4UA8eEaSv1) | 3:51 |
 | 46 | [Missing You](https://open.spotify.com/track/5BkEtAa7LHwm5qs2vLegX3) | [Sanchez](https://open.spotify.com/artist/6550dJCDSrZ8Cv6IDAjHpf) | [Missing You](https://open.spotify.com/album/3688VgiRVASa05x5FHEmc9) | 3:22 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 | 55 | [Beautiful](https://open.spotify.com/track/5tLDX5Z50VZAvga5695enB) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi), [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE) | [Welcome to Jamrock](https://open.spotify.com/album/4Y0PrDckfFKxKaVXsscDLB) | 4:47 |
 | 56 | [Party Shot \(Ravin Part\. 2\)](https://open.spotify.com/track/0rGKPQZZxLlNBPfhYQ2JU1) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [When Mi Party](https://open.spotify.com/album/0tE82B0ff2X8Ss6JSMqpMH) | 3:50 |
 | 57 | [Gal a Weh Do You](https://open.spotify.com/track/0a4zxSLBnluX4aNHlBQWcn) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Pon Di Gaza 2.0](https://open.spotify.com/album/5xkTjyLPKbSeNuY7QLgnqT) | 2:56 |
-| 58 | [Ganja Farmer](https://open.spotify.com/track/4IPQwZBtK0B2DabP0rQvV0) | [Marlon Asher](https://open.spotify.com/artist/4DeCJnS3fuqohKk4FCVl0y) | [Unconditional Love](https://open.spotify.com/album/6vCafqC9POiyyLxqC4kdpf) | 3:56 |
-| 59 | [Kotch](https://open.spotify.com/track/0V64KIinm3gUN04DhxEHwW) | [RDX](https://open.spotify.com/artist/4GpVRyxDYccJrbQkO3KWws) | [Kotch](https://open.spotify.com/album/0oprdfurN8Dhv9mdLl0iPC) | 3:15 |
+| 58 | [Kotch](https://open.spotify.com/track/0V64KIinm3gUN04DhxEHwW) | [RDX](https://open.spotify.com/artist/4GpVRyxDYccJrbQkO3KWws) | [Kotch](https://open.spotify.com/album/0oprdfurN8Dhv9mdLl0iPC) | 3:15 |
+| 59 | [Ganja Farmer](https://open.spotify.com/track/4IPQwZBtK0B2DabP0rQvV0) | [Marlon Asher](https://open.spotify.com/artist/4DeCJnS3fuqohKk4FCVl0y) | [Unconditional Love](https://open.spotify.com/album/6vCafqC9POiyyLxqC4kdpf) | 3:56 |
 | 60 | [Dye Dye \(Raw\)](https://open.spotify.com/track/0fz2jINcCa4iD7j4dmioCa) | [Macka Diamond](https://open.spotify.com/artist/6ETpDuVbzktDEfNza1CN8i) | [Dye Dye \- Single](https://open.spotify.com/album/5kOOn0ChRFeAohElEPTqkz) | 3:06 |
 | 61 | [Needle Eye](https://open.spotify.com/track/6gt4crRNZ5Soua4BP52HXv) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Needle Eye \- Single](https://open.spotify.com/album/3xMal1HXLb88nb1EpVi8mv) | 3:05 |
 | 62 | [Hold You \- Hold Yuh](https://open.spotify.com/track/0cQddC2RETfJ3USeGXiuJA) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Reggae Masterpiece: Gyptian](https://open.spotify.com/album/2R4q64PtGbPzTUL90gPIXK) | 3:53 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 | 64 | [Likes](https://open.spotify.com/track/0L7ByJIFyro93nWs7wwioM) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Chronology](https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm) | 4:18 |
 | 65 | [Things Mi Love](https://open.spotify.com/track/0ANTPHMeOjPIyfGHiKDGU9) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ), [Notnice](https://open.spotify.com/artist/3xE5Mbgql6pnTTaTifw8UX) | [Things Mi Love](https://open.spotify.com/album/2Ultkk4UOH342Elt4y1dDT) | 3:27 |
 | 66 | [Bad Man Forward](https://open.spotify.com/track/1KW6PVabkLbthK4y0sPX5a) | [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Bad Man Forward, Bad Man Pull Up](https://open.spotify.com/album/4pWeMGhrk1bvKE3Od3jePT) | 3:15 |
-| 67 | [Nuh Linga](https://open.spotify.com/track/1XDu72IZMRTO2gDPaMydXE) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Dance & Sweep! \- Adventures Of The Energy God](https://open.spotify.com/album/1h6idb5MNxRtSz4EWsMe84) | 2:08 |
-| 68 | [Always](https://open.spotify.com/track/1ge5u2oNzB340gHdMCdTSl) | [Gaza Slim](https://open.spotify.com/artist/7mPRzTE0BI6QMFmWhevSog) | [Girl Boss \- The Realest Girl](https://open.spotify.com/album/3m2CNO9jD3BKz8vusgkDYE) | 3:14 |
-| 69 | [Bend Ova](https://open.spotify.com/track/6ajqSWogEt8ngg7ErtEaVa) | [RDX](https://open.spotify.com/artist/4GpVRyxDYccJrbQkO3KWws) | [Kotch EP](https://open.spotify.com/album/0xXIL4sAD2GXXjUk1NFV2y) | 3:09 |
+| 67 | [Bend Ova](https://open.spotify.com/track/6ajqSWogEt8ngg7ErtEaVa) | [RDX](https://open.spotify.com/artist/4GpVRyxDYccJrbQkO3KWws) | [Kotch EP](https://open.spotify.com/album/0xXIL4sAD2GXXjUk1NFV2y) | 3:09 |
+| 68 | [Nuh Linga](https://open.spotify.com/track/1XDu72IZMRTO2gDPaMydXE) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Dance & Sweep! \- Adventures Of The Energy God](https://open.spotify.com/album/1h6idb5MNxRtSz4EWsMe84) | 2:08 |
+| 69 | [Always](https://open.spotify.com/track/1ge5u2oNzB340gHdMCdTSl) | [Gaza Slim](https://open.spotify.com/artist/7mPRzTE0BI6QMFmWhevSog) | [Girl Boss \- The Realest Girl](https://open.spotify.com/album/3m2CNO9jD3BKz8vusgkDYE) | 3:14 |
 | 70 | [Bounce Along](https://open.spotify.com/track/6hDdz3s6TMHF6ohnCIa1z6) | [Wayne Wonder](https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO) | [No Holding Back](https://open.spotify.com/album/3WH8Q7LS2p143e5PrKGLeA) | 4:50 |
 | 71 | [Nuh Boring Gyal](https://open.spotify.com/track/09EmEP62OJa0anCob6k0pl) | [Aidonia](https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs) | [Project Sweat](https://open.spotify.com/album/7b7jhNRjKkoApz1KdmyIiJ) | 2:14 |
 | 72 | [Ghetto Story](https://open.spotify.com/track/00bnP8RyknzZMkNlEAO2ih) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK) | [Ghetto Story \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/35NmvuGyzxJcHMCkh68v5y) | 4:11 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 | 79 | [Hot Fuk / Hot Wuk](https://open.spotify.com/track/1aoq8ZJBdrqdM1FSzciy4G) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Mr Vegas: The Hits](https://open.spotify.com/album/2ImQoEEg93DwKIIBtb5RLg) | 2:47 |
 | 80 | [Life \(Is What You Make of It\)](https://open.spotify.com/track/1GPr2bSZGp3FY8WLUIz6kD) | [Frighty](https://open.spotify.com/artist/3sJ4PdcDMz8f54s58xsNzt), [Colonel Mite](https://open.spotify.com/artist/3uKvf6v8ivXfxa3UrJx738) | [Life \(Is What You Make of It\)](https://open.spotify.com/album/5PnaOrdPmijULnutsP7DQt) | 3:32 |
 
-Snapshot ID: `MCw0Y2ZlYmJkN2I0MTYzMjJjMzcxMTRhNzU4MzRhNzk4MDMxMTE0ODRh`
+Snapshot ID: `MCxhYjZlYjFiNThmZTkzYTg4NTZkZmZkMWVmYmUyNmMzYTZjZjllYThl`

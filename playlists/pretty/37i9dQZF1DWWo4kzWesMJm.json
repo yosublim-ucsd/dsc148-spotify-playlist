@@ -1,12 +1,12 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 141834,
+  "num_followers": 141896,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjc1YzY3ZWI4NjJiZDg0NDVkMzQ0NjQ5ZTIyNjRhOWZlZjBkOWVi",
+  "snapshot_id": "MCw3MjY2OGE1ZjRlNGY0MmYzYTQyNTZmODI3NTBkZTcwNzhlZmRjMjEx",
   "tracks": [
     {
       "added_at": "2023-11-16 16:29:20",
@@ -215,22 +215,6 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
-        "name": "Photos de voyages (Remastered)",
-        "url": "https://open.spotify.com/album/6Mhp0Fb0RoraaLNZ0fFRwR"
-      },
-      "artists": [
-        {
-          "name": "Francis Cabrel",
-          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
-        }
-      ],
-      "duration_ms": 273680,
-      "name": "Encore et encore - Remastered",
-      "url": "https://open.spotify.com/track/2KzUa9x2TNzHVsx4sVuHsx"
-    },
-    {
-      "added_at": "2023-11-16 16:29:20",
-      "album": {
         "name": "Fais comme l'oiseau",
         "url": "https://open.spotify.com/album/3F2NC1OGndItyXyR6uJevP"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 195306,
       "name": "Une belle histoire",
       "url": "https://open.spotify.com/track/5oxKrYimzs8AZp8lkoar6V"
+    },
+    {
+      "added_at": "2023-11-16 16:29:20",
+      "album": {
+        "name": "Photos de voyages (Remastered)",
+        "url": "https://open.spotify.com/album/6Mhp0Fb0RoraaLNZ0fFRwR"
+      },
+      "artists": [
+        {
+          "name": "Francis Cabrel",
+          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
+        }
+      ],
+      "duration_ms": 273680,
+      "name": "Encore et encore - Remastered",
+      "url": "https://open.spotify.com/track/2KzUa9x2TNzHVsx4sVuHsx"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
-        "name": "Le Premier Jour",
-        "url": "https://open.spotify.com/album/3MPQylPQwIPtyLJRNBc44w"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Daho",
-          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
-        }
-      ],
-      "duration_ms": 250413,
-      "name": "Le Premier jour (Du reste de ta vie)",
-      "url": "https://open.spotify.com/track/7ycDyrJEPBwzy2uAvtTZyh"
-    },
-    {
-      "added_at": "2023-11-16 16:29:20",
-      "album": {
         "name": "Sacha Distel: Crooner",
         "url": "https://open.spotify.com/album/1HioIbajn5pHxM7A0uMpKV"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 123053,
       "name": "La belle vie",
       "url": "https://open.spotify.com/track/78OdnOhPOk19xYhGAKgjCO"
+    },
+    {
+      "added_at": "2023-11-16 16:29:20",
+      "album": {
+        "name": "Le Premier Jour",
+        "url": "https://open.spotify.com/album/3MPQylPQwIPtyLJRNBc44w"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Daho",
+          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
+        }
+      ],
+      "duration_ms": 250413,
+      "name": "Le Premier jour (Du reste de ta vie)",
+      "url": "https://open.spotify.com/track/7ycDyrJEPBwzy2uAvtTZyh"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
+        "name": "Ailleurs Land",
+        "url": "https://open.spotify.com/album/5IW71KAikTujML1ZNOnSzg"
+      },
+      "artists": [
+        {
+          "name": "Florent Pagny",
+          "url": "https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9"
+        }
+      ],
+      "duration_ms": 204546,
+      "name": "Ma libert\u00e9 de penser",
+      "url": "https://open.spotify.com/track/6zxJh3RIzm6Qk7HauhCg9j"
+    },
+    {
+      "added_at": "2023-11-16 16:29:20",
+      "album": {
         "name": "\u00c9ph\u00e9m\u00e8re",
         "url": "https://open.spotify.com/album/3THI8m0WtBsYrdxKsRuS3w"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 225240,
       "name": "Tailler la route",
       "url": "https://open.spotify.com/track/3G6gPn5Ux19JYSXkrK34A3"
-    },
-    {
-      "added_at": "2023-11-16 16:29:20",
-      "album": {
-        "name": "Ailleurs Land",
-        "url": "https://open.spotify.com/album/5IW71KAikTujML1ZNOnSzg"
-      },
-      "artists": [
-        {
-          "name": "Florent Pagny",
-          "url": "https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9"
-        }
-      ],
-      "duration_ms": 204546,
-      "name": "Ma libert\u00e9 de penser",
-      "url": "https://open.spotify.com/track/6zxJh3RIzm6Qk7HauhCg9j"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
+        "name": "La loi du papillon",
+        "url": "https://open.spotify.com/album/4bes8iyhIgbzo98sS5KVy3"
+      },
+      "artists": [
+        {
+          "name": "Nuit Incolore",
+          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
+        }
+      ],
+      "duration_ms": 173266,
+      "name": "D\u00e9pass\u00e9",
+      "url": "https://open.spotify.com/track/3kkLa7nOjDH3bYTAt54oYh"
+    },
+    {
+      "added_at": "2023-11-16 16:29:20",
+      "album": {
         "name": "La recette",
         "url": "https://open.spotify.com/album/5GbC8vKAEPFmMl40Wf0i8v"
       },
@@ -871,22 +887,6 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
-        "name": "La loi du papillon",
-        "url": "https://open.spotify.com/album/4bes8iyhIgbzo98sS5KVy3"
-      },
-      "artists": [
-        {
-          "name": "Nuit Incolore",
-          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
-        }
-      ],
-      "duration_ms": 173266,
-      "name": "D\u00e9pass\u00e9",
-      "url": "https://open.spotify.com/track/3kkLa7nOjDH3bYTAt54oYh"
-    },
-    {
-      "added_at": "2023-11-16 16:29:20",
-      "album": {
         "name": "Camelia Jordana",
         "url": "https://open.spotify.com/album/1WrPo6fzTlwJHaB1qOAwJT"
       },
@@ -899,22 +899,6 @@
       "duration_ms": 166493,
       "name": "Non non non (Ecouter Barbara)",
       "url": "https://open.spotify.com/track/6M6jVoM0ULQ2P12iQg1BOc"
-    },
-    {
-      "added_at": "2023-11-16 16:29:20",
-      "album": {
-        "name": "La femme id\u00e9ale",
-        "url": "https://open.spotify.com/album/1YCcGk8gFgNo6xuOyaidne"
-      },
-      "artists": [
-        {
-          "name": "Ben Mazu\u00e9",
-          "url": "https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou"
-        }
-      ],
-      "duration_ms": 222413,
-      "name": "Nous deux contre le reste du monde",
-      "url": "https://open.spotify.com/track/0Uy2DEV9vQRFrCg4CLY6wY"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -935,6 +919,22 @@
       "duration_ms": 201138,
       "name": "Call on me - feat. Ed Sheeran",
       "url": "https://open.spotify.com/track/2Hn8kSDjl8qAJ0BVgFYcnp"
+    },
+    {
+      "added_at": "2023-11-16 16:29:20",
+      "album": {
+        "name": "La femme id\u00e9ale",
+        "url": "https://open.spotify.com/album/1YCcGk8gFgNo6xuOyaidne"
+      },
+      "artists": [
+        {
+          "name": "Ben Mazu\u00e9",
+          "url": "https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou"
+        }
+      ],
+      "duration_ms": 222413,
+      "name": "Nous deux contre le reste du monde",
+      "url": "https://open.spotify.com/track/0Uy2DEV9vQRFrCg4CLY6wY"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
-        "name": "Derri\u00e8re l'amour",
-        "url": "https://open.spotify.com/album/4zYFpEEJe1hH5a12DlgT6e"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hallyday",
-          "url": "https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"
-        }
-      ],
-      "duration_ms": 173733,
-      "name": "Gabrielle",
-      "url": "https://open.spotify.com/track/5Ti7ocP3fdlsYo47rCk80P"
-    },
-    {
-      "added_at": "2023-11-16 16:29:20",
-      "album": {
         "name": "Collection",
         "url": "https://open.spotify.com/album/7CidHDoNltKs2NfPSIn3Ol"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 216400,
       "name": "La vie ne vaut rien",
       "url": "https://open.spotify.com/track/2PQ06bEO6VKuiEsPAisJ1V"
+    },
+    {
+      "added_at": "2023-11-16 16:29:20",
+      "album": {
+        "name": "Derri\u00e8re l'amour",
+        "url": "https://open.spotify.com/album/4zYFpEEJe1hH5a12DlgT6e"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hallyday",
+          "url": "https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"
+        }
+      ],
+      "duration_ms": 173733,
+      "name": "Gabrielle",
+      "url": "https://open.spotify.com/track/5Ti7ocP3fdlsYo47rCk80P"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
+        "name": "Je sais pas si \u00e7a va",
+        "url": "https://open.spotify.com/album/1r5psC4qWm8sJvqDYCbY9X"
+      },
+      "artists": [
+        {
+          "name": "Marie-Flore",
+          "url": "https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr"
+        }
+      ],
+      "duration_ms": 166293,
+      "name": "Mal barr\u00e9",
+      "url": "https://open.spotify.com/track/4c3sC3cX8RFwKz9KMUNxt9"
+    },
+    {
+      "added_at": "2023-11-16 16:29:20",
+      "album": {
         "name": "40 succ\u00e8s en or",
         "url": "https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 250746,
       "name": "Rockollection",
       "url": "https://open.spotify.com/track/1jL4dBrmBpkAwxiMFzHulz"
-    },
-    {
-      "added_at": "2023-11-16 16:29:20",
-      "album": {
-        "name": "Je sais pas si \u00e7a va",
-        "url": "https://open.spotify.com/album/1r5psC4qWm8sJvqDYCbY9X"
-      },
-      "artists": [
-        {
-          "name": "Marie-Flore",
-          "url": "https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr"
-        }
-      ],
-      "duration_ms": 166293,
-      "name": "Mal barr\u00e9",
-      "url": "https://open.spotify.com/track/4c3sC3cX8RFwKz9KMUNxt9"
     },
     {
       "added_at": "2023-11-16 16:29:20",

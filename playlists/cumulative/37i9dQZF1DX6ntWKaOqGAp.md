@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: King Gnu
 
-1,048 songs - 2 day 17 hr 57 min
+1,049 songs - 2 day 18 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [calcium](https://open.spotify.com/track/60k3N3B3KOtZhcuoz293yu) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [ai no hana](https://open.spotify.com/album/6TmiRpJSwhfRXyp0u2yKmH) | 3:35 | 2023-06-08 | 2023-07-14 |
 | [California coconuts](https://open.spotify.com/track/0lNrG9JiNQIrSQJ3vzQdcx) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [California coconuts](https://open.spotify.com/album/6jTHO0OfY0J7FjlokGXzH9) | 3:55 | 2023-08-08 | 2023-09-20 |
 | [California coconuts](https://open.spotify.com/track/2VAnn7QXr1jXP3GGvpcYhp) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [California coconuts](https://open.spotify.com/album/7na5aZq54qDZblhOiVRnj0) | 3:55 | 2023-08-08 | 2023-08-10 |
+| [Calm](https://open.spotify.com/track/0B4QXKyErj0nhM2WZZeUoR) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Candle](https://open.spotify.com/album/1Dy7aa6yDhK1X0RdrVnHhq) | 3:55 | 2023-11-28 |  |
 | [canary](https://open.spotify.com/track/4EbHLjQSDR3zBUl8f5ZUpK) | [tacica](https://open.spotify.com/artist/6iglpAqZTAmvm0ffNKlaFS) | [canary](https://open.spotify.com/album/5ij14ELuI2F4sB1IqWRTeW) | 4:45 | 2023-04-04 | 2023-04-26 |
 | [Cantabile](https://open.spotify.com/track/4Y5avL0StifbsLNUtzWH58) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [Cantabile](https://open.spotify.com/album/4nCi6OEl9dW978qgBL6X8F) | 3:46 | 2023-04-11 | 2023-06-28 |
 | [Catch The Miracle](https://open.spotify.com/track/0veerJcFJTSumChnxuLD0i) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [Catch The Miracle](https://open.spotify.com/album/2jHtSMczXw6jiUfFL64Vjz) | 5:24 | 2023-08-31 | 2023-10-04 |
@@ -839,7 +840,7 @@
 | [克己心](https://open.spotify.com/track/6yFMWYm58u166jylc5T1vZ) | [Mr.ふぉるて](https://open.spotify.com/artist/4JmNcZTOHBnR8PYl4LfIX6) | [克己心](https://open.spotify.com/album/0Wlqk9zfvANGyN3ipKKe9F) | 3:06 | 2023-09-26 | 2023-09-28 |
 | [再去見尓](https://open.spotify.com/track/7bgRTIf6UK4On666SfRiqE) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [Whisper of the heart](https://open.spotify.com/album/5CrA7m27kYyEdTp1PIgtbe) | 3:12 | 2023-10-17 | 2023-10-19 |
 | [凛と](https://open.spotify.com/track/3IB0WE4bAoYWdSuZnTVtRC) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [凛と](https://open.spotify.com/album/2YAul7X7i7JkcSOkNBtFUm) | 3:34 | 2023-03-23 | 2023-05-10 |
-| [凪](https://open.spotify.com/track/0o0i6AYvStQb7W7AK3KCwr) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Candle](https://open.spotify.com/album/2QKtmakVNgVWejUQRjZm1S) | 3:55 | 2023-11-28 |  |
+| [凪](https://open.spotify.com/track/0o0i6AYvStQb7W7AK3KCwr) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Candle](https://open.spotify.com/album/2QKtmakVNgVWejUQRjZm1S) | 3:55 | 2023-11-28 | 2023-11-30 |
 | [初恋](https://open.spotify.com/track/6TwzwaTeNOEqxDJcBJDyQm) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [初恋](https://open.spotify.com/album/5j59Yk7RbdJTsfxWprg2hD) | 3:15 | 2023-11-28 |  |
 | [化け猫](https://open.spotify.com/track/7wag9tAwUdqyfQMDUgY1g9) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [化け猫](https://open.spotify.com/album/4nDK96OK3zDeE3rZkvG9E7) | 2:47 | 2023-01-13 | 2023-03-29 |
 | [千両役者 \(ALBUM ver.\)](https://open.spotify.com/track/7Bo66ZWgFGwRUmsVrW6lT1) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 2:59 | 2023-11-28 |  |

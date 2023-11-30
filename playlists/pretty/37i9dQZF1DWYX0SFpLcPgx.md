@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYX0SFpLcPgx.md) - [plain]
 
 > Les 60 titres incontournables de ces dernières années\. Photo : ROSALÍA
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,523 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,566 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYX0SFpLcPgx.md) - [plain]
 | 59 | [Savage Love \(Laxed \- Siren Beat\)](https://open.spotify.com/track/1xQ6trAsedVPCdbtDAmk0c) | [Jawsh 685](https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Savage Love \(Laxed \- Siren Beat\)](https://open.spotify.com/album/1XMw3pBrYeXzNXZXc84DNw) | 2:51 |
 | 60 | [Coup de vieux](https://open.spotify.com/track/63siBeZzxXVaY0uASns1V2) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs), [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [Les autres c’est nous](https://open.spotify.com/album/07WjNDav7akW13k90qeqGw) | 3:52 |
 
-Snapshot ID: `MCxjMTk3ZDkyMjE0ODczYjhmNzU1MzIxYmIxNTEyN2MwNjhkYTA1OTJk`
+Snapshot ID: `MCxiNGVhNGVmNDcxMDNiMTAyYjhmZDIyMGVhZGE2NjAxZWEzNDA4ODhm`

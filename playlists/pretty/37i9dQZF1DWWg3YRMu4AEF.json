@@ -1,12 +1,12 @@
 {
   "description": "Feel on top of the world with these uplifting anthems of the 70s.",
-  "num_followers": 127030,
+  "num_followers": 127145,
   "original_name": "Good Feeling 70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjIwNjJmMmIyMWMwM2E0MGI1Zjg0YTllOWY2NDNhMWY1NWEyNjIw",
+  "snapshot_id": "MCwwNDZmNmQ5ZjU1YjNjYjAwYmQ2YWNhMjRlNjljODg0ZjliNjIzYTE2",
   "tracks": [
     {
       "added_at": "2022-06-08 06:26:41",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-06-08 06:26:41",
       "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 172933,
-      "name": "One Love / People Get Ready - Medley",
-      "url": "https://open.spotify.com/track/6SR0dDuXH2vtgBfMLrivKV"
-    },
-    {
-      "added_at": "2022-06-08 06:26:41",
-      "album": {
         "name": "Hot Chocolate",
         "url": "https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 244920,
       "name": "You Sexy Thing",
       "url": "https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO"
+    },
+    {
+      "added_at": "2022-06-08 06:26:41",
+      "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 172933,
+      "name": "One Love / People Get Ready - Medley",
+      "url": "https://open.spotify.com/track/6SR0dDuXH2vtgBfMLrivKV"
     },
     {
       "added_at": "2022-06-08 06:26:41",
@@ -623,6 +623,22 @@
       "duration_ms": 172866,
       "name": "Hooked On A Feeling",
       "url": "https://open.spotify.com/track/6Ac4NVYYl2U73QiTt11ZKd"
+    },
+    {
+      "added_at": "2022-06-08 06:26:41",
+      "album": {
+        "name": "All Things Must Pass (2014 Remaster)",
+        "url": "https://open.spotify.com/album/7j7lsExGJtBHLgDYzjclwk"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "duration_ms": 281231,
+      "name": "My Sweet Lord (2014 Remaster)",
+      "url": "https://open.spotify.com/track/0KZodeWxqxd88F9wY1cqgs"
     },
     {
       "added_at": "2022-06-08 06:26:41",
@@ -659,6 +675,22 @@
     {
       "added_at": "2022-06-08 06:26:41",
       "album": {
+        "name": "Born to Be Alive (The Original)",
+        "url": "https://open.spotify.com/album/0kVK9lFFTzhnEb4ETElbCD"
+      },
+      "artists": [
+        {
+          "name": "Patrick Hernandez",
+          "url": "https://open.spotify.com/artist/1CcEgi464SWZsKY5579u7z"
+        }
+      ],
+      "duration_ms": 188133,
+      "name": "Born to Be Alive - The Original",
+      "url": "https://open.spotify.com/track/3XIEWK1V9n25PS9Vb6axj5"
+    },
+    {
+      "added_at": "2022-06-08 06:26:41",
+      "album": {
         "name": "Grease (The Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
       },
@@ -679,54 +711,6 @@
     {
       "added_at": "2022-06-08 06:26:41",
       "album": {
-        "name": "Born to Be Alive (The Original)",
-        "url": "https://open.spotify.com/album/0kVK9lFFTzhnEb4ETElbCD"
-      },
-      "artists": [
-        {
-          "name": "Patrick Hernandez",
-          "url": "https://open.spotify.com/artist/1CcEgi464SWZsKY5579u7z"
-        }
-      ],
-      "duration_ms": 188133,
-      "name": "Born to Be Alive - The Original",
-      "url": "https://open.spotify.com/track/3XIEWK1V9n25PS9Vb6axj5"
-    },
-    {
-      "added_at": "2022-06-08 06:26:41",
-      "album": {
-        "name": "All Things Must Pass (2014 Remaster)",
-        "url": "https://open.spotify.com/album/7j7lsExGJtBHLgDYzjclwk"
-      },
-      "artists": [
-        {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
-        }
-      ],
-      "duration_ms": 281231,
-      "name": "My Sweet Lord (2014 Remaster)",
-      "url": "https://open.spotify.com/track/0KZodeWxqxd88F9wY1cqgs"
-    },
-    {
-      "added_at": "2022-06-08 06:26:41",
-      "album": {
-        "name": "52nd Street",
-        "url": "https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "My Life",
-      "url": "https://open.spotify.com/track/4ZoBC5MhSEzuknIgAkBaoT"
-    },
-    {
-      "added_at": "2022-06-08 06:26:41",
-      "album": {
         "name": "Homecoming",
         "url": "https://open.spotify.com/album/7eqBAR9pblivMBOI70q2um"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 211386,
       "name": "Ventura Highway",
       "url": "https://open.spotify.com/track/4IU1RL4BKvFyXtbTwaHAvW"
+    },
+    {
+      "added_at": "2022-06-08 06:26:41",
+      "album": {
+        "name": "52nd Street",
+        "url": "https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/4ZoBC5MhSEzuknIgAkBaoT"
     },
     {
       "added_at": "2022-06-08 06:26:41",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-06-08 06:26:41",
       "album": {
-        "name": "Paul Simon",
-        "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 164813,
-      "name": "Me and Julio Down by the Schoolyard",
-      "url": "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
-    },
-    {
-      "added_at": "2022-06-08 06:26:41",
-      "album": {
         "name": "Hotel California (2013 Remaster)",
         "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 286219,
       "name": "Life in the Fast Lane - 2013 Remaster",
       "url": "https://open.spotify.com/track/6gXrEUzibufX9xYPk3HD5p"
+    },
+    {
+      "added_at": "2022-06-08 06:26:41",
+      "album": {
+        "name": "Paul Simon",
+        "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 164813,
+      "name": "Me and Julio Down by the Schoolyard",
+      "url": "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
     },
     {
       "added_at": "2022-06-08 06:26:41",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Pedro Guerra y Bunbury.
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,623 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,686 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,22 +91,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 81 | [No puedo vivir sin ti \- Versión Acustica](https://open.spotify.com/track/0XUbxCMfZVWqCudk047CaQ) | [Coque Malla](https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV) | [La hora de los gigantes](https://open.spotify.com/album/6U0fTUroL70nySX5heirW8) | 3:44 |
 | 82 | [Agua](https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Agua](https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu) | 4:00 |
 | 83 | [Antes De Verte \(with Kevin Johansen\)](https://open.spotify.com/track/7btOWcAo8FLUCuhltFlz6v) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Cuando el Río Suena...](https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL) | 3:54 |
-| 84 | [Manifiesto](https://open.spotify.com/track/55ZrFdC27uqQC5WA8mdXSR) | [Victor Jara](https://open.spotify.com/artist/440MEFxEmF9othCXbz3Y6a) | [Manifiesto](https://open.spotify.com/album/10SO9wTdCvi8M9HMiJee3a) | 4:29 |
+| 84 | [Un Día de Estos](https://open.spotify.com/track/0eRrshPPfWfo1sbzdsGQLq) | [Marwán](https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO) | [Apuntes Sobre Mi Paso por el Invierno](https://open.spotify.com/album/1bRyXcN5qtq5aGf0GBss1b) | 4:01 |
 | 85 | [Te Doy Una Cancion](https://open.spotify.com/track/6yGx5fJ2C6YrmZhVadd7vC) | [Silvio Rodriguez and Pablo Milanes](https://open.spotify.com/artist/182fhYiodsjX2AZnZlWWzK) | [Silvio Rodriguez y Pablo Milanes](https://open.spotify.com/album/5Dn5RWgcjL462SXPTGYF9f) | 3:10 |
-| 86 | [Un Día de Estos](https://open.spotify.com/track/0eRrshPPfWfo1sbzdsGQLq) | [Marwán](https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO) | [Apuntes Sobre Mi Paso por el Invierno](https://open.spotify.com/album/1bRyXcN5qtq5aGf0GBss1b) | 4:01 |
+| 86 | [Manifiesto](https://open.spotify.com/track/55ZrFdC27uqQC5WA8mdXSR) | [Victor Jara](https://open.spotify.com/artist/440MEFxEmF9othCXbz3Y6a) | [Manifiesto](https://open.spotify.com/album/10SO9wTdCvi8M9HMiJee3a) | 4:29 |
 | 87 | [Que yo no lo sabía \(feat\. Antonio Vega\)](https://open.spotify.com/track/0XlybA6F3v5XcHl6rqmNRw) | [Elefantes](https://open.spotify.com/artist/5ykyeZYA8wEGQ0WhhH8AKn), [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [Gracias](https://open.spotify.com/album/0rU0glgG267Tm44RkfJawd) | 3:51 |
 | 88 | [Coyotes \- Versión en Acústico El Embarcadero](https://open.spotify.com/track/1avkjAAaGaUOSfDpiLvkFw) | [Travis Birds](https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB) | [Coyotes \(Versión en Acústico El Embarcadero\)](https://open.spotify.com/album/5orCEANMD3ajFiqMH5Og4w) | 3:50 |
 | 89 | [Mechita](https://open.spotify.com/track/5whakz21q29cP0BlGfR2A7) | [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [Vestida De Nit](https://open.spotify.com/album/2FjvTumNw0T9JjgXWdk8wu) | 2:38 |
 | 90 | [Dama Dama \(Album Version\)](https://open.spotify.com/track/50tK3gc47HHVffxRehbRuC) | [Cecilia](https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR) | [Cecilia](https://open.spotify.com/album/50Pefah2v2rCOfXSdLNkg0) | 3:18 |
 | 91 | [Algo contigo](https://open.spotify.com/track/5zuW9T5REjejF9tSEG0sxp) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Algo contigo](https://open.spotify.com/album/1SsMdo5QqpKYd8MSRtmDtI) | 2:50 |
 | 92 | [Contigo](https://open.spotify.com/track/5XBY1Hxg0L6Cf3wyjCGftT) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Contigo](https://open.spotify.com/album/0g7NM1WVbqY8nK8mJTbXvQ) | 4:54 |
-| 93 | [SENCILLO](https://open.spotify.com/track/5knUczKxRmqga38xt3Dpx6) | [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [SENCILLO](https://open.spotify.com/album/2mGzOvYjy6sMqUelE2advD) | 3:27 |
-| 94 | [Lucha de gigantes \- Live](https://open.spotify.com/track/0WWSqjiV8czuWNQ05C5aXl) | [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [Básico](https://open.spotify.com/album/29MlnmVjoff9GwJQT9bTka) | 3:57 |
-| 95 | [Mi Problema](https://open.spotify.com/track/6PIRiVNVZk0vN9ZyUJTqKj) | [Ismael Serrano](https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34) | [La Llamada](https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21) | 6:05 |
+| 93 | [Lucha de gigantes \- Live](https://open.spotify.com/track/0WWSqjiV8czuWNQ05C5aXl) | [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [Básico](https://open.spotify.com/album/29MlnmVjoff9GwJQT9bTka) | 3:57 |
+| 94 | [Mi Problema](https://open.spotify.com/track/6PIRiVNVZk0vN9ZyUJTqKj) | [Ismael Serrano](https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34) | [La Llamada](https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21) | 6:05 |
+| 95 | [SENCILLO](https://open.spotify.com/track/5knUczKxRmqga38xt3Dpx6) | [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [SENCILLO](https://open.spotify.com/album/2mGzOvYjy6sMqUelE2advD) | 3:27 |
 | 96 | [Mi Querida España](https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w) | [Cecilia](https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR) | [Un Ramito De Violetas](https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw) | 2:39 |
 | 97 | [Verde Selva](https://open.spotify.com/track/5xUdjeu6jLea7OniZP7d8e) | [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP) | [La Vida Plena](https://open.spotify.com/album/0ji205YLsJO7V4tJVl0lEk) | 3:44 |
 | 98 | [Aunque tú no lo sepas](https://open.spotify.com/track/2XXec5RwkNrjpBNfCjNhAv) | [Quique González](https://open.spotify.com/artist/0uCwhAtvXQlTGZJWDJQykZ) | [Ajuste de cuentas](https://open.spotify.com/album/7dzKozUpXXWYZb5ofCSLze) | 4:02 |
 | 99 | [Guapa](https://open.spotify.com/track/6FCrZ2Eh3T0Wk45EsB3auG) | [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl), [Diego Ojeda](https://open.spotify.com/artist/0eDQlGtmwyq67ApA0Yhyfl) | [Maldita Vocación](https://open.spotify.com/album/3CuB8tyC9WnmtwA1Fee3ku) | 4:45 |
 | 100 | [Quiéreme Bien \(feat\. Leiva\)](https://open.spotify.com/track/52kEfpan3auLao9pbnOJ6m) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Quiéreme Bien \(feat\. Leiva\)](https://open.spotify.com/album/1aUj6H7XCzFRRznXIsArqm) | 4:41 |
 
-Snapshot ID: `MCxkNjJjNDdiMDcyYTg3NjQ5ODk5NzYyNDk1M2UyM2Q0ZGJlMmMwOWY0`
+Snapshot ID: `MCxmYTZiNGRiZTc4YzViNzFkNTQ1NGUyZjMxYjkyNmI5ZjE4MDgxM2Y0`

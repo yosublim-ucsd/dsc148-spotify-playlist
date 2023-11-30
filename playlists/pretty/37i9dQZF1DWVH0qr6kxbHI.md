@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 
 > Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra música\. Foto: Rocío Jurado
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,973 likes - 75 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,050 likes - 75 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 | 48 | [Maria Se Bebe las Calles](https://open.spotify.com/track/1IF2G18XKNrToVG1yiCmsj) | [Pasión Vega](https://open.spotify.com/artist/1SP2KiLZvq07zY1KUoZ3ey) | [Banderas De Nadie](https://open.spotify.com/album/5fhK35LQpXRXyRJoxpC1Kr) | 4:05 |
 | 49 | [Que seas feliz](https://open.spotify.com/track/1nZMtFO99lI9ks0g3Iqugo) | [Mari Trini](https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ) | [Escúchame](https://open.spotify.com/album/6xFDhmKZHP8nnUewCwcnTu) | 3:52 |
 | 50 | [Sevillanas de los Bloques](https://open.spotify.com/track/5I2t3LU5UTMdxc9sODCT1d) | [Martirio](https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav), [Isidro Sanlucar](https://open.spotify.com/artist/3CmNkHj1gWBUw3ZKfRmm42), [Vicente Amigo](https://open.spotify.com/artist/4uo8Bp99zyj8HQW1ynweoY) | [Cristalitos Machacaos](https://open.spotify.com/album/1Ftarn4wOspiKUBODeu5Rj) | 3:15 |
-| 51 | [Y se amaron dos caballos](https://open.spotify.com/track/2VD2r9lDh1FgaoBI0H2K5Z) | [Maria Del Monte](https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW) | [De siempre \- Antología de las sevillanas Vol\. 1](https://open.spotify.com/album/28m2JE16jXiHf6z2Rqlj2R) | 3:35 |
+| 51 | [Cántame](https://open.spotify.com/track/40yczJ7VRenkAPVctWQfqp) | [Maria Del Monte](https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW) | [Cántame Sevillanas](https://open.spotify.com/album/7hJrIlgMWFgZoacK5G3v5j) | 4:02 |
 | 52 | [Te Quiero Te Quiero](https://open.spotify.com/track/55ekUAzFSBgKDj2gWziFsd) | [Carmen Sevilla](https://open.spotify.com/artist/0yy9TKpNruDeQ5FbhEXLOO) | [Carmen de España](https://open.spotify.com/album/4gRMzAVEmQp1aSIkxplmpn) | 3:04 |
 | 53 | [Sin Tí No Puedo Vivir](https://open.spotify.com/track/2xDZ2IKvMUC1nYvc6oXKlZ) | [Carlos Cano](https://open.spotify.com/artist/3DmpE6oHcvPFhtMTSlLMFB), [Estrella Morente](https://open.spotify.com/artist/5gKJbL392PiokTPUoL7N6D) | [Viva Carlos Cano \(Remasterizado\)](https://open.spotify.com/album/4cGadXY3rcIvwxUGvsILly) | 3:53 |
 | 54 | [La niña de fuego](https://open.spotify.com/track/49cz5QoR3gQepQFTA6tjZu) | [Buika](https://open.spotify.com/artist/1gbXoccc8bjK8eUh92mILy) | [Niña de fuego \(Standard version\)](https://open.spotify.com/album/0ISrJWxZE7Pt54vQTcIhbP) | 3:39 |
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 | 58 | [El Talismán](https://open.spotify.com/track/2DY2ZBvw0YK4fha1Ou5zNv) | [Sole Gimenez](https://open.spotify.com/artist/56FObtReljLqgs2bgQ0kZS) | [Mujeres de Música](https://open.spotify.com/album/3R5uLGZ1DpE9HqG7Vgcoim) | 4:03 |
 | 59 | [Tatuaje](https://open.spotify.com/track/4bSTSglkBr2mtv9bgKR8Th) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t) | [Tatuaje](https://open.spotify.com/album/6z0xxhlPljQvIMgCrfkwTn) | 4:31 |
 | 60 | [Alma Mía](https://open.spotify.com/track/2zDaBWpjsLnciaxQBU3mVY) | [Martirio](https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav), [Chano Dominguez](https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI) | [A Bola De Nieve](https://open.spotify.com/album/0EI7n1PYhbPayZzbTaZt7o) | 4:22 |
-| 61 | [Cántame](https://open.spotify.com/track/40yczJ7VRenkAPVctWQfqp) | [Maria Del Monte](https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW) | [Cántame Sevillanas](https://open.spotify.com/album/7hJrIlgMWFgZoacK5G3v5j) | 4:02 |
+| 61 | [Y se amaron dos caballos](https://open.spotify.com/track/2VD2r9lDh1FgaoBI0H2K5Z) | [Maria Del Monte](https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW) | [De siempre \- Antología de las sevillanas Vol\. 1](https://open.spotify.com/album/28m2JE16jXiHf6z2Rqlj2R) | 3:35 |
 | 62 | [Quizas, Quizas, Quizas](https://open.spotify.com/track/1dbVT7RwxBekrWJ0UrPDZb) | [Sara Montiel](https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF) | [The Ultimate Collection](https://open.spotify.com/album/3Sw6xkIaBH2eZtU727ONHX) | 2:43 |
 | 63 | [Ponte la Mano en el Pecho](https://open.spotify.com/track/5R9D7LIue9bA2acd75Tfuv) | [María Jiménez](https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS) | [Decálogo \(Sus 10 Mayores Éxitos\)](https://open.spotify.com/album/1hCgERvuup6uAg45GpwrL7) | 3:31 |
 | 64 | [Cariño Trianero](https://open.spotify.com/track/2N5EguFWYgUCc5uiazKLAE) | [Carmen Sevilla](https://open.spotify.com/artist/0yy9TKpNruDeQ5FbhEXLOO) | [Carmen Sevilla : Sus Grandes Exitos](https://open.spotify.com/album/6LFXCD0B5MkbSLmVfph57R) | 2:04 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 | 74 | [Se Nos Rompio el Amor \(with Malú\)](https://open.spotify.com/track/2Wp7kX7Kj38MgIBe3p0MBE) | [Rocío Jurado](https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9), [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR) | [Rocio Siempre](https://open.spotify.com/album/74YcUbPOS42uQJGpWTo9bn) | 4:39 |
 | 75 | [Dejandonos La Piel \(with Lolita\)](https://open.spotify.com/track/7FjpkYUDZhR66hR1Us8PrW) | [Rocío Jurado](https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9), [Lolita](https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK) | [Rocio Siempre](https://open.spotify.com/album/74YcUbPOS42uQJGpWTo9bn) | 4:42 |
 
-Snapshot ID: `MCwxNDY3NTllMzJkYzczOTFlOGM3N2Y5ZDI0ODMyOWRiZjgyZDM1NmE3`
+Snapshot ID: `MCxkMDlmZmZjMmUxMmY3MWY1NTYzMjcxY2IwMWJhOGNkMTYzMjRjMzFh`

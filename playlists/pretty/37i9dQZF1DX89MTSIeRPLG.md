@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/funnymarco/">Funny Marco</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,956 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,997 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 | 19 | [BIG PURR \(Prrdd\) \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/5byWPNSh2hi0ULmDxBgLyV) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [BIG PURR \(Prrdd\)](https://open.spotify.com/album/4I7EKdVEB8S9LjRfNoOV0o) | 1:56 |
 | 20 | [Blackberry Zap](https://open.spotify.com/track/7nQ5vYfpRleN1UPTD1vgj1) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Jackboy](https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB) | [Gardner Express](https://open.spotify.com/album/24nydg8i966CawS06yCtZh) | 2:58 |
 | 21 | [DO BETTER](https://open.spotify.com/track/3BOosbDTBZKTOwTbfaQmHY) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [WUNNA \(Deluxe\)](https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq) | 2:32 |
-| 22 | [I'll Never Tell Em Shit](https://open.spotify.com/track/1BFXOnTTLceecy6N2xDgCV) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [I'll Never Tell Em Shit](https://open.spotify.com/album/6OPXGevMn8h54jmk4LWgG1) | 2:57 |
-| 23 | [Boys To Men](https://open.spotify.com/track/5EBrAbr17vTY143Fo1Cwop) | [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg) | [Blessed, I Guess](https://open.spotify.com/album/2g74qnJkJJcXB0XAZbBXAL) | 2:04 |
+| 22 | [Boys To Men](https://open.spotify.com/track/5EBrAbr17vTY143Fo1Cwop) | [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg) | [Blessed, I Guess](https://open.spotify.com/album/2g74qnJkJJcXB0XAZbBXAL) | 2:04 |
+| 23 | [I'll Never Tell Em Shit](https://open.spotify.com/track/1BFXOnTTLceecy6N2xDgCV) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [I'll Never Tell Em Shit](https://open.spotify.com/album/6OPXGevMn8h54jmk4LWgG1) | 2:57 |
 | 24 | [Ain't It Funny ft\. Meek Mill](https://open.spotify.com/track/0ftCFsa6FKV37aB2CVtkzd) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [VORY](https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA) | 3:03 |
 | 25 | [Freaky As Me \(feat\. latto\)](https://open.spotify.com/track/3T6YpSTeFtJBLgGulRk5Mi) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Freaky As Me](https://open.spotify.com/album/4DY4dzCmlC0qvZgk62HXru) | 2:09 |
 | 26 | [LOVE \(feat\. Trippie Redd\)](https://open.spotify.com/track/19FE7YCq8xxijzQNqFnGAd) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Memory Lane](https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp) | 4:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 | 49 | [Bounty](https://open.spotify.com/track/1q8rLyDciaRexy0AzNF0Eg) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [!llmind](https://open.spotify.com/artist/0bw7sLDsNQTScMpmsNFukJ) | [Bounty](https://open.spotify.com/album/6jiBo4BcX2JkH8SPGEmrrS) | 3:46 |
 | 50 | [Sunset](https://open.spotify.com/track/7mdIUcGgAWjX8jTnrTVhJ1) | [18veno](https://open.spotify.com/artist/36uT4b5dk9vfJ7GBLjtqBh) | [Pablo](https://open.spotify.com/album/7FkML5E2VcIEiGIP3zqYqs) | 2:04 |
 
-Snapshot ID: `MCxmMzY4MWMwZWY2YTk1N2Y3ODUzODMxMzBjNDQyYzE1MTQ5OGU3ODBm`
+Snapshot ID: `MCwwMmI1Nzk3MWQ1NjE1ZDg5MWZmMjE3OGU5MWJiZjYxYzA0Y2IzZTY4`

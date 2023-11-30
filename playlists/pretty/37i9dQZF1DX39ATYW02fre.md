@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 
 > Beautiful electronic music for melancholy moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,192 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,283 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 | 14 | [Burns \- Edit](https://open.spotify.com/track/7J8iTj9FU0Mw8VBbGBpFIY) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Burns \(Edit\)](https://open.spotify.com/album/1R4DzksK2cx84kO7B4SEoa) | 3:10 |
 | 15 | [Me \(heavy\)](https://open.spotify.com/track/3MhbnxA1JnksiATu9xyB2c) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 3:03 |
 | 16 | [Eulers Disc](https://open.spotify.com/track/6v5VhfFrjKs90ADdKfw5K1) | [Louf](https://open.spotify.com/artist/6FuiYA7qfyWvCzyWxepEjy) | [Our Intervals](https://open.spotify.com/album/4VaMZuSITaM8JVJn60HRow) | 5:52 |
-| 17 | [On Hold](https://open.spotify.com/track/5w3CRkbTWXfbYepIdFpGUN) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [I See You](https://open.spotify.com/album/6Zw6NKh3oIUhDRMOyBmsUU) | 3:44 |
+| 17 | [Road](https://open.spotify.com/track/6kckNpuM5oXZrObLExRg6d) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Brightest Lights](https://open.spotify.com/album/6EdbqQvOCialJuOjEEUlsL) | 3:58 |
 | 18 | [Shapeless](https://open.spotify.com/track/1PDkQCBKrza8FSiAmmm7n7) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Caring EP](https://open.spotify.com/album/3pIUvgrnnoHYdTv0pts9wX) | 4:34 |
 | 19 | [aisatsana \[102\]](https://open.spotify.com/track/5ljMlD10En5rRGZU0cs2Np) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w) | 5:21 |
 | 20 | [Spinning Heart](https://open.spotify.com/track/17nnRPp1cTVQ8XUacodl5c) | [Christian Cohle](https://open.spotify.com/artist/17FYVu6ik77NQMZdl6zdsQ) | [WETLANDS](https://open.spotify.com/album/56l7sgYUPRc7kPX1DseBCv) | 5:14 |
-| 21 | [Road](https://open.spotify.com/track/6kckNpuM5oXZrObLExRg6d) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Brightest Lights](https://open.spotify.com/album/6EdbqQvOCialJuOjEEUlsL) | 3:58 |
+| 21 | [On Hold](https://open.spotify.com/track/5w3CRkbTWXfbYepIdFpGUN) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [I See You](https://open.spotify.com/album/6Zw6NKh3oIUhDRMOyBmsUU) | 3:44 |
 | 22 | [Faisal \(envelops me\)](https://open.spotify.com/track/1uyQNwG1sFl7etjFTEHlQp) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 \(February 2 \- October 15 2021\)](https://open.spotify.com/album/0SFtIrRytNI4kcf93Tbhdf) | 4:10 |
 | 23 | [Throwaway \(with Clairo\)](https://open.spotify.com/track/2MnEG4htbbdfoUsyzxZ4BM) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Dawn](https://open.spotify.com/album/57TxOlFzG9yvAKEdjjm2yB) | 3:00 |
 | 24 | [I Need A Forest Fire](https://open.spotify.com/track/0TLAptKgYxe7F0KewWH6X6) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [The Colour In Anything](https://open.spotify.com/album/1WyrGCkFDlH1xPadZ5qTkL) | 4:17 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 | 46 | [October](https://open.spotify.com/track/6FIQ8o2hqlDmHQFoBKmKgW) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [October](https://open.spotify.com/album/5PdBG1Q3tLZlSLoxB1LtK8) | 5:54 |
 | 47 | [Waste \- RY X Remix](https://open.spotify.com/track/08HR9PoLSeovgXWvJEZrvi) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Blood Remixed](https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1) | 9:13 |
 | 48 | [Howling](https://open.spotify.com/track/34hMOtKwf5nm8tjvkGV0Dk) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv) | 5:09 |
-| 49 | [Made To Stray](https://open.spotify.com/track/0BVdNCqYq6offkjRGKVRDB) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Cold Spring Fault Less Youth](https://open.spotify.com/album/4jaLRarRRCScr5v6Y6vUQu) | 4:46 |
+| 49 | [Roll Back \- Single Mix](https://open.spotify.com/track/7ko64FZgc63TnZuYhusU21) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [Roll Back](https://open.spotify.com/album/5b6TuPfFvUpIllFHZgCUy2) | 3:04 |
 | 50 | [Versailles \(Hold\) \- Edit](https://open.spotify.com/track/4Yf9QLUM8EeHaCS7EnaHnX) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Versailles \(Hold\)](https://open.spotify.com/album/0LKvGM4ka3ESkrCaiOuD15) | 3:38 |
 
-Snapshot ID: `MCxmNTQyMjBlODMwOTc3Nzc3NTQ2YzY1ZGM1ZjFkNjJjMDg5NzM4MWM1`
+Snapshot ID: `MCw2YmZhODE2NTcyNWRlY2FjNmVkOWY4ZDg3MzhiOTM1MDM4ZDllZWM2`

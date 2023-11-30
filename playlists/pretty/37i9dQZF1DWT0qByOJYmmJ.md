@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 
 > Tristeza independiente para aquellos días de bajón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 645,238 likes - 80 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 645,298 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 | 28 | [Ropa De Bazar](https://open.spotify.com/track/7kWFRZdedr2gtfE8JDumVZ) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Ropa De Bazar](https://open.spotify.com/album/7z9qYJVpdYt9zplriyrrZI) | 3:17 |
 | 29 | [TRELLAS](https://open.spotify.com/track/09WAnxdBuebQopKhJT3oZS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:37 |
 | 30 | [Dueles Tan Bien](https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Dueles Tan Bien](https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq) | 2:54 |
-| 31 | [Soñar Contigo](https://open.spotify.com/track/0E6DZBx42XXXIE1v1iP9O3) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Mundo De Dos](https://open.spotify.com/album/3FcPCDNcLerTah8e4QuEsi) | 2:48 |
-| 32 | [Honey, No Estás](https://open.spotify.com/track/4tiMBMyoWSRPmLHg16VpUs) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Delusión](https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN) | 3:27 |
+| 31 | [Honey, No Estás](https://open.spotify.com/track/4tiMBMyoWSRPmLHg16VpUs) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Delusión](https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN) | 3:27 |
+| 32 | [Soñar Contigo](https://open.spotify.com/track/0E6DZBx42XXXIE1v1iP9O3) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Mundo De Dos](https://open.spotify.com/album/3FcPCDNcLerTah8e4QuEsi) | 2:48 |
 | 33 | [Quiéreme Así](https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Quiéreme Así](https://open.spotify.com/album/5ugHOB3qvt50RpLkuoIYYN) | 3:08 |
 | 34 | [Si Supieras](https://open.spotify.com/track/1RQkKTyJZhFERJy6t5gIbv) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Hasta el Fin Del Mundo](https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7) | 4:11 |
 | 35 | [siempreestoypati](https://open.spotify.com/track/75ZohPJVqJOD8GUCZH94mk) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [Transiciones](https://open.spotify.com/album/1UgfO8ixyCL019F9Fo1gaf) | 3:26 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 | 76 | [lejos](https://open.spotify.com/track/2ehzgbfJuRUvEB4Pkm4Ic1) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 3:22 |
 | 77 | [café de las ocho](https://open.spotify.com/track/75HRhHdxSupU4JdnaLZtq8) | [Covi Quintana](https://open.spotify.com/artist/2sSqkk6j5gRa7MzeQqMfIN) | [Mañana Te Escribo Otra Canción](https://open.spotify.com/album/13fka9ET1RGpC4jQx2W9kE) | 3:55 |
 | 78 | [Me La Saludan \(Versión Acústica\)](https://open.spotify.com/track/39IorjgSqhwcXOA3GHsXc4) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Me La Saludan](https://open.spotify.com/album/0onsACtccTsYDdjF04SqFm) | 3:50 |
-| 79 | [Cigarrito y Café](https://open.spotify.com/track/4zCcsSId3HZ6DvjFcxmg2l) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [Cigarrito y Café](https://open.spotify.com/album/40BCKQLAweweUfSrr4Pyhj) | 2:51 |
+| 79 | [Al Final](https://open.spotify.com/track/64evbvaNb4twXgBPV42jlG) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Mundo De Dos](https://open.spotify.com/album/3FcPCDNcLerTah8e4QuEsi) | 3:17 |
 | 80 | [Vengo Del Futuro \- Remix](https://open.spotify.com/track/4fQkGF3euv3UIoOXEXsPZo) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [En Medio De Este Ruido \(Deluxe\)](https://open.spotify.com/album/3dQMAkuJBVVZoe2xVTZzqB) | 4:15 |
 
-Snapshot ID: `MCw1OWY4MzYxMmUyYTBkMTY2ZTQyZGFhODJmMGMwYzBmNWE2YjIzMDE5`
+Snapshot ID: `MCxjYTljNzkwMDM3OGJlM2JiNDg0YWQzMzZiZjAzY2IzYzM0YWQzYTQ0`

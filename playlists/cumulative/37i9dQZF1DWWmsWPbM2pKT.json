@@ -352,7 +352,7 @@
     {
       "album": {
         "name": "Beauty & The Beast",
-        "url": "https://open.spotify.com/album/7aOS3r9ORnPGUcD6G2jUyq"
+        "url": "https://open.spotify.com/album/2dCLlJHR37aJE8y8IYm4d9"
       },
       "artists": [
         {
@@ -363,6 +363,24 @@
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 168551,
+      "name": "Beauty & The Beast",
+      "url": "https://open.spotify.com/track/4y5lSLNph2pbhsGBtx6Ijy"
+    },
+    {
+      "album": {
+        "name": "Beauty & The Beast",
+        "url": "https://open.spotify.com/album/7aOS3r9ORnPGUcD6G2jUyq"
+      },
+      "artists": [
+        {
+          "name": "Nyxjvh",
+          "url": "https://open.spotify.com/artist/0qynm6lz4zZ8lJZygwfovX"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-30",
       "duration_ms": 168551,
       "name": "Beauty & The Beast",
       "url": "https://open.spotify.com/track/5hAl0rQhehsglsiR0VF7Y8"
@@ -2248,7 +2266,7 @@
     {
       "album": {
         "name": "MOTHS",
-        "url": "https://open.spotify.com/album/6YhEVN0VrEINMMLZlkiOv1"
+        "url": "https://open.spotify.com/album/7zWkTgmsawLX1XHAwbUZrW"
       },
       "artists": [
         {
@@ -2259,6 +2277,24 @@
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 80153,
+      "name": "MOTHS",
+      "url": "https://open.spotify.com/track/198k5g8F2FYnwYbhHV4rRB"
+    },
+    {
+      "album": {
+        "name": "MOTHS",
+        "url": "https://open.spotify.com/album/6YhEVN0VrEINMMLZlkiOv1"
+      },
+      "artists": [
+        {
+          "name": "Nyxjvh",
+          "url": "https://open.spotify.com/artist/0qynm6lz4zZ8lJZygwfovX"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-30",
       "duration_ms": 80153,
       "name": "MOTHS",
       "url": "https://open.spotify.com/track/2dT5M4bdibcfjLiqfzawi1"

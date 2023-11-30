@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-07",
-  "description": "Batter up. ",
+  "description": "Game time.",
   "name": "Laced Up",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 234215,
       "name": "3005",
       "url": "https://open.spotify.com/track/5cc9Zbfp9u10sfJeKZ3h16"
@@ -74,10 +74,28 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 221840,
       "name": "A Milli",
       "url": "https://open.spotify.com/track/6ScJMrlpiLfZUGtWp4QIVt"
+    },
+    {
+      "album": {
+        "name": "Heaven Or Hell",
+        "url": "https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167915,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/527k23H0A4Q0UJN3vGs0Da"
     },
     {
       "album": {
@@ -150,6 +168,28 @@
       "duration_ms": 212653,
       "name": "Backseat Freestyle",
       "url": "https://open.spotify.com/track/3aGibUHhQyBsyumYHylw0K"
+    },
+    {
+      "album": {
+        "name": "1989 (Taylor's Version) [Deluxe]",
+        "url": "https://open.spotify.com/album/1o59UpKw81iHR0HPiSkJR0"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199773,
+      "name": "Bad Blood (feat. Kendrick Lamar) (Taylor's Version)",
+      "url": "https://open.spotify.com/track/6qAcApH8obo8eqatCKUHd9"
     },
     {
       "album": {
@@ -279,6 +319,28 @@
     },
     {
       "album": {
+        "name": "Oxymoron (Deluxe)",
+        "url": "https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS"
+      },
+      "artists": [
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299960,
+      "name": "Collard Greens",
+      "url": "https://open.spotify.com/track/0zO8ctW0UiuOefR87OeJOZ"
+    },
+    {
+      "album": {
         "name": "Con Calma",
         "url": "https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh"
       },
@@ -294,7 +356,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 193226,
       "name": "Con Calma",
       "url": "https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m"
@@ -492,7 +554,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-03",
+      "date_removed": null,
       "duration_ms": 245640,
       "name": "Eye of the Tiger",
       "url": "https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2"
@@ -562,6 +624,28 @@
       "duration_ms": 135920,
       "name": "Father Stretch My Hands Pt. 1",
       "url": "https://open.spotify.com/track/4KW1lqgSr8TKrvBII0Brf8"
+    },
+    {
+      "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247444,
+      "name": "First Person Shooter (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU"
     },
     {
       "album": {
@@ -674,7 +758,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 198973,
       "name": "God's Plan",
       "url": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
@@ -775,6 +859,28 @@
     },
     {
       "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260111,
+      "name": "IDGAF (feat. Yeat)",
+      "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
+    },
+    {
+      "album": {
         "name": "In Ha Mood",
         "url": "https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW"
       },
@@ -804,7 +910,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-26",
+      "date_removed": null,
       "duration_ms": 127546,
       "name": "Invincible",
       "url": "https://open.spotify.com/track/792HwhrdO3ErRKL5yRe4Ge"
@@ -822,7 +928,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 260000,
       "name": "It Was A Good Day",
       "url": "https://open.spotify.com/track/2qOm7ukLyHUXWyR4ZWLwxA"
@@ -844,7 +950,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 218364,
       "name": "Jimmy Cooks (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
@@ -988,7 +1094,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 255053,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/2XHzzp1j4IfTNp1FTn7YFg"
@@ -1100,7 +1206,7 @@
       ],
       "date_added": "2023-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-26",
+      "date_removed": null,
       "duration_ms": 183906,
       "name": "Mo Bamba",
       "url": "https://open.spotify.com/track/1xzBco0xcoJEDXktl7Jxrr"
@@ -1122,7 +1228,7 @@
       ],
       "date_added": "2023-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-03",
+      "date_removed": null,
       "duration_ms": 205426,
       "name": "Money In The Grave (Drake ft. Rick Ross)",
       "url": "https://open.spotify.com/track/5ry2OE6R2zPQFDO85XkgRb"
@@ -1380,7 +1486,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 275253,
       "name": "PRIDE.",
       "url": "https://open.spotify.com/track/6IZvVAP7VPPnsGX6bvgkqg"
@@ -1438,6 +1544,24 @@
       "duration_ms": 154023,
       "name": "Pure Cocaine",
       "url": "https://open.spotify.com/track/577YBGuskWkVDCxZrLRB4v"
+    },
+    {
+      "album": {
+        "name": "Push Up (Main Edit)",
+        "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
+      },
+      "artists": [
+        {
+          "name": "Creeds",
+          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139300,
+      "name": "Push Up - Main Edit",
+      "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
     },
     {
       "album": {
@@ -1518,7 +1642,7 @@
       ],
       "date_added": "2023-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 239359,
       "name": "Rich Flex",
       "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
@@ -1670,7 +1794,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 265996,
       "name": "Solo",
       "url": "https://open.spotify.com/track/4lH6nENd1y81jp7Yt9lTBX"
@@ -1692,7 +1816,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 203266,
       "name": "Space Cadet (feat. Gunna)",
       "url": "https://open.spotify.com/track/1fewSx2d5KIZ04wsooEBOz"
@@ -1714,10 +1838,32 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 214588,
       "name": "Spin Bout U",
       "url": "https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC"
+    },
+    {
+      "album": {
+        "name": "Sprinter",
+        "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229133,
+      "name": "Sprinter",
+      "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
     },
     {
       "album": {
@@ -1732,10 +1878,28 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 323720,
       "name": "Square Dance",
       "url": "https://open.spotify.com/track/27mgDrExPa3obPAYXd3yQg"
+    },
+    {
+      "album": {
+        "name": "Culture II",
+        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190288,
+      "name": "Stir Fry",
+      "url": "https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf"
     },
     {
       "album": {
@@ -1801,6 +1965,24 @@
     },
     {
       "album": {
+        "name": "High Voltage",
+        "url": "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214666,
+      "name": "T.N.T.",
+      "url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb"
+    },
+    {
+      "album": {
         "name": "Tell Em",
         "url": "https://open.spotify.com/album/3OE8gkPLqI9zr3hlEz6ruQ"
       },
@@ -1816,7 +1998,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-13",
+      "date_removed": null,
       "duration_ms": 180379,
       "name": "Tell Em",
       "url": "https://open.spotify.com/track/7nc7mlSdWYeFom84zZ8Wr8"
@@ -1838,6 +2020,24 @@
       "duration_ms": 91288,
       "name": "The Grinch",
       "url": "https://open.spotify.com/track/1W24W6jQegnNh0x5DfBBPT"
+    },
+    {
+      "album": {
+        "name": "A Love Letter To You 4",
+        "url": "https://open.spotify.com/album/5nDqjtvRwDYElIflvoNDdE"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91288,
+      "name": "The Grinch",
+      "url": "https://open.spotify.com/track/2VKHWIONh47ntN7wyoSxEQ"
     },
     {
       "album": {
@@ -1892,7 +2092,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 243716,
       "name": "Tit\u00ed Me Pregunt\u00f3",
       "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
@@ -2042,7 +2242,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 268480,
       "name": "Used To",
       "url": "https://open.spotify.com/track/63p3Slj0shAFP0Q7dQetj5"
@@ -2068,6 +2268,24 @@
       "duration_ms": 192956,
       "name": "Wants and Needs (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/65OVbaJR5O1RmwOQx0875b"
+    },
+    {
+      "album": {
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273480,
+      "name": "Welcome To The Jungle",
+      "url": "https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8"
     },
     {
       "album": {
@@ -2144,7 +2362,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 142273,
       "name": "Yes Indeed",
       "url": "https://open.spotify.com/track/6vN77lE9LK6HP2DewaN6HZ"

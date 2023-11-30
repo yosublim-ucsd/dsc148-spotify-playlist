@@ -1,12 +1,12 @@
 {
   "description": "New indie driving the current. Cover: Jordan Ward",
-  "num_followers": 38461,
+  "num_followers": 38603,
   "original_name": "Indie Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjZhMDA3NWU5OWExZWViMjg0ZGRmZDJjNDljYTRjMGY1NDY4YmM2",
+  "snapshot_id": "MCw2Yzc1YjFhYzFkNzY2ZTMxYjQ1MGY5YmQ2YWIxNjVmZjA1MmExMGZm",
   "tracks": [
     {
       "added_at": "2023-11-17 03:58:18",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-11-17 03:58:18",
       "album": {
-        "name": "Just Cool",
-        "url": "https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ"
-      },
-      "artists": [
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        }
-      ],
-      "duration_ms": 220243,
-      "name": "Just Cool",
-      "url": "https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP"
-    },
-    {
-      "added_at": "2023-11-17 03:58:18",
-      "album": {
         "name": "The End of the World",
         "url": "https://open.spotify.com/album/1IhJclrz77F5stIY0oMh7i"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 235773,
       "name": "Basquiat",
       "url": "https://open.spotify.com/track/1KeXz6D76LhEaBhYR9n5vI"
+    },
+    {
+      "added_at": "2023-11-17 03:58:18",
+      "album": {
+        "name": "Just Cool",
+        "url": "https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "duration_ms": 220243,
+      "name": "Just Cool",
+      "url": "https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP"
     },
     {
       "added_at": "2023-11-17 03:58:18",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-11-17 03:58:18",
       "album": {
-        "name": "This City is a Graveyard",
-        "url": "https://open.spotify.com/album/2ZLMegn1V02WxJEXsW4OlH"
-      },
-      "artists": [
-        {
-          "name": "Baby Storme",
-          "url": "https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe"
-        }
-      ],
-      "duration_ms": 187377,
-      "name": "This City is a Graveyard",
-      "url": "https://open.spotify.com/track/7KCgYJ7DF33PpPU3UF6NBH"
-    },
-    {
-      "added_at": "2023-11-17 03:58:18",
-      "album": {
         "name": "What Box?",
         "url": "https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ"
       },
@@ -579,18 +563,18 @@
     {
       "added_at": "2023-11-17 03:58:18",
       "album": {
-        "name": "GO GO GO",
-        "url": "https://open.spotify.com/album/0AD4xVslP0qraEZQKQ5O3S"
+        "name": "This City is a Graveyard",
+        "url": "https://open.spotify.com/album/2ZLMegn1V02WxJEXsW4OlH"
       },
       "artists": [
         {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+          "name": "Baby Storme",
+          "url": "https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe"
         }
       ],
-      "duration_ms": 145893,
-      "name": "GO GO GO",
-      "url": "https://open.spotify.com/track/7uiXg5Ec2teUAxhIEiD00N"
+      "duration_ms": 187377,
+      "name": "This City is a Graveyard",
+      "url": "https://open.spotify.com/track/7KCgYJ7DF33PpPU3UF6NBH"
     },
     {
       "added_at": "2023-11-17 03:58:18",
@@ -607,6 +591,22 @@
       "duration_ms": 161266,
       "name": "Come Over And Love Me",
       "url": "https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo"
+    },
+    {
+      "added_at": "2023-11-17 03:58:18",
+      "album": {
+        "name": "GO GO GO",
+        "url": "https://open.spotify.com/album/0AD4xVslP0qraEZQKQ5O3S"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 145893,
+      "name": "GO GO GO",
+      "url": "https://open.spotify.com/track/7uiXg5Ec2teUAxhIEiD00N"
     },
     {
       "added_at": "2023-11-17 03:58:18",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-11-17 03:58:18",
       "album": {
-        "name": "Four Songs",
-        "url": "https://open.spotify.com/album/4hsC2oeoSkJiULLob8zM98"
-      },
-      "artists": [
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        }
-      ],
-      "duration_ms": 181453,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/545N3VnU7ZSBEUtdRGSUS9"
-    },
-    {
-      "added_at": "2023-11-17 03:58:18",
-      "album": {
         "name": "The Party",
         "url": "https://open.spotify.com/album/7rlcKShyYfr0MEIVH3BeaA"
       },
@@ -691,18 +675,18 @@
     {
       "added_at": "2023-11-17 03:58:18",
       "album": {
-        "name": "no way out",
-        "url": "https://open.spotify.com/album/6jSwImVIktHykGxGWURFWP"
+        "name": "Four Songs",
+        "url": "https://open.spotify.com/album/4hsC2oeoSkJiULLob8zM98"
       },
       "artists": [
         {
-          "name": "ivri",
-          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
         }
       ],
-      "duration_ms": 113624,
-      "name": "no way out",
-      "url": "https://open.spotify.com/track/2jPbjvYVWWzQNkMLKP30nX"
+      "duration_ms": 181453,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/545N3VnU7ZSBEUtdRGSUS9"
     },
     {
       "added_at": "2023-11-17 03:58:18",
@@ -719,6 +703,22 @@
       "duration_ms": 152141,
       "name": "Maybe I\u2019m Lonely",
       "url": "https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo"
+    },
+    {
+      "added_at": "2023-11-17 03:58:18",
+      "album": {
+        "name": "no way out",
+        "url": "https://open.spotify.com/album/6jSwImVIktHykGxGWURFWP"
+      },
+      "artists": [
+        {
+          "name": "ivri",
+          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
+        }
+      ],
+      "duration_ms": 113624,
+      "name": "no way out",
+      "url": "https://open.spotify.com/track/2jPbjvYVWWzQNkMLKP30nX"
     },
     {
       "added_at": "2023-11-17 03:58:18",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-11-17 03:58:18",
       "album": {
-        "name": "going...going...GONE!",
-        "url": "https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf"
-      },
-      "artists": [
-        {
-          "name": "hemlocke springs",
-          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
-        }
-      ],
-      "duration_ms": 224240,
-      "name": "enknee1",
-      "url": "https://open.spotify.com/track/4F7lnSgxGKifUoWOppBJ8W"
-    },
-    {
-      "added_at": "2023-11-17 03:58:18",
-      "album": {
         "name": "Love You",
         "url": "https://open.spotify.com/album/52WW7hHCH0hlS77PVWplta"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 176214,
       "name": "Love You",
       "url": "https://open.spotify.com/track/7lTWrTbrL3BFcc2UZRMSzy"
+    },
+    {
+      "added_at": "2023-11-17 03:58:18",
+      "album": {
+        "name": "going...going...GONE!",
+        "url": "https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf"
+      },
+      "artists": [
+        {
+          "name": "hemlocke springs",
+          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+        }
+      ],
+      "duration_ms": 224240,
+      "name": "enknee1",
+      "url": "https://open.spotify.com/track/4F7lnSgxGKifUoWOppBJ8W"
     }
   ],
   "unique_name": "Indie Frequency",

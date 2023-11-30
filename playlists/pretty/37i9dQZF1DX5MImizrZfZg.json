@@ -1,12 +1,12 @@
 {
   "description": "The smoothest jazz of the 2000s. Cover: Rick Braun",
-  "num_followers": 57849,
+  "num_followers": 57888,
   "original_name": "Smooth Jazz 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzVjNjQ4MjUxOTk5MDE4NTI5YmQyMWZiODYyMmU2Y2MzOTJiNDkz",
+  "snapshot_id": "MCxkMGI5ZDI2NTUwZjAyNTE4NWI3ZDJhOWJjNjVkMGVhNWRlZDAyYTVl",
   "tracks": [
     {
       "added_at": "2020-08-19 19:15:51",
@@ -107,22 +107,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/0ivqeO68UTwDwuaVIo0sU3"
-      },
-      "artists": [
-        {
-          "name": "Michael Lington",
-          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
-        }
-      ],
-      "duration_ms": 256973,
-      "name": "Pacifica",
-      "url": "https://open.spotify.com/track/4zfF62Jy2mtNCG2wlGy2VK"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Just Doing What I do",
         "url": "https://open.spotify.com/album/7meHD0fPbZ8AZKOSlpKnCn"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 210773,
       "name": "18th & M",
       "url": "https://open.spotify.com/track/4jZCaGd8dbeuPy707up4g2"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/0ivqeO68UTwDwuaVIo0sU3"
+      },
+      "artists": [
+        {
+          "name": "Michael Lington",
+          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
+        }
+      ],
+      "duration_ms": 256973,
+      "name": "Pacifica",
+      "url": "https://open.spotify.com/track/4zfF62Jy2mtNCG2wlGy2VK"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -203,22 +203,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Embrace",
-        "url": "https://open.spotify.com/album/03PWH8UYNt3it6HVUThJf3"
-      },
-      "artists": [
-        {
-          "name": "Najee",
-          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
-        }
-      ],
-      "duration_ms": 283266,
-      "name": "Eye 2 Eye",
-      "url": "https://open.spotify.com/track/4gvWlsrQogixhISq7Oz1r4"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Temptation",
         "url": "https://open.spotify.com/album/1xkLVUGXlLZv5zsvJHMfxV"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 266106,
       "name": "On The Wes Side",
       "url": "https://open.spotify.com/track/1v8gTqiwsGZycNqn0dEvGh"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/03PWH8UYNt3it6HVUThJf3"
+      },
+      "artists": [
+        {
+          "name": "Najee",
+          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
+        }
+      ],
+      "duration_ms": 283266,
+      "name": "Eye 2 Eye",
+      "url": "https://open.spotify.com/track/4gvWlsrQogixhISq7Oz1r4"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -531,6 +531,22 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
+        "name": "Soul Express",
+        "url": "https://open.spotify.com/album/69nPaDqMk2Nyy5V77STGdH"
+      },
+      "artists": [
+        {
+          "name": "Chris Standring",
+          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
+        }
+      ],
+      "duration_ms": 282506,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/0qD9zBjyp5GRhdkXxFFSVQ"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
         "name": "Pure",
         "url": "https://open.spotify.com/album/2xbF9okrdq3tct4UuEKqzh"
       },
@@ -551,18 +567,18 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Soul Express",
-        "url": "https://open.spotify.com/album/69nPaDqMk2Nyy5V77STGdH"
+        "name": "Radiant",
+        "url": "https://open.spotify.com/album/0Y2T4tZJtOfnEGUgxsmnuQ"
       },
       "artists": [
         {
-          "name": "Chris Standring",
-          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
+          "name": "Steve Oliver",
+          "url": "https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL"
         }
       ],
-      "duration_ms": 282506,
-      "name": "Kaleidoscope",
-      "url": "https://open.spotify.com/track/0qD9zBjyp5GRhdkXxFFSVQ"
+      "duration_ms": 299493,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/2LC4PhDDtZPEuGe0kz2qM7"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -579,22 +595,6 @@
       "duration_ms": 238066,
       "name": "Chopsticks",
       "url": "https://open.spotify.com/track/5y6miCQfw005Bgc5BfML1w"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
-        "name": "Radiant",
-        "url": "https://open.spotify.com/album/0Y2T4tZJtOfnEGUgxsmnuQ"
-      },
-      "artists": [
-        {
-          "name": "Steve Oliver",
-          "url": "https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL"
-        }
-      ],
-      "duration_ms": 299493,
-      "name": "Feeling Good",
-      "url": "https://open.spotify.com/track/2LC4PhDDtZPEuGe0kz2qM7"
     },
     {
       "added_at": "2020-08-19 19:15:51",

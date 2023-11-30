@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4MTfCb9IRyO.md) - [plain]
 | 14 | [Junker's Blues](https://open.spotify.com/track/31GIhpOQpKCzlnuPn03pBQ) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues From The Gutter](https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL) | 3:12 |
 | 15 | [Crosscut Saw \- Mono Mix](https://open.spotify.com/track/0WvSYVnEXD7QLa5pDJ920S) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Born Under A Bad Sign \(Mono\)](https://open.spotify.com/album/0Ez9S8Dhzr1fa6ZCkcIJiR) | 2:36 |
 | 16 | [Mean Old World](https://open.spotify.com/track/3gg0xEc2b4eEbYySLmfFU1) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 4:07 |
-| 17 | [Stumble](https://open.spotify.com/track/0RTjFVHvqjTdpX2NawwyXI) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [My Feeling For the Blues](https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz) | 3:36 |
-| 18 | [Bad News Is Coming](https://open.spotify.com/track/1TRIYxcVJYPki5AX2hZzZT) | [Luther Allison](https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv) | [Bad News Is Coming](https://open.spotify.com/album/7wTiVd5wU0aFVXxceOsvHT) | 7:25 |
+| 17 | [Bad News Is Coming](https://open.spotify.com/track/1TRIYxcVJYPki5AX2hZzZT) | [Luther Allison](https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv) | [Bad News Is Coming](https://open.spotify.com/album/7wTiVd5wU0aFVXxceOsvHT) | 7:25 |
+| 18 | [Stumble](https://open.spotify.com/track/0RTjFVHvqjTdpX2NawwyXI) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [My Feeling For the Blues](https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz) | 3:36 |
 | 19 | [You Don't Know What Love Is](https://open.spotify.com/track/6NTCurUHy71S0XKVtyQtqT) | [Fenton Robinson](https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT) | [Somebody Loan Me A Dime](https://open.spotify.com/album/5SynQAltvwPyTbz3m8axVl) | 3:57 |
 | 20 | [I Don't Know](https://open.spotify.com/track/047Ip9c6dijAJfuwloV3NF) | [Ruth Brown](https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY) | [The Essentials: Ruth Brown](https://open.spotify.com/album/5hUfSBla2buX5rW8aCeAl7) | 2:53 |
 | 21 | [Killing Floor](https://open.spotify.com/track/1a8vVeidOsauNu6rQmHBRS) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Real Folk Blues](https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0) | 2:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4MTfCb9IRyO.md) - [plain]
 | 49 | [It Serves Me Right To Suffer](https://open.spotify.com/track/1R6geFUwTaYU8vnMkAtD2N) | [Jimmy Dawkins](https://open.spotify.com/artist/69mMUlfVNVGQsw733rBShc) | [Fast Fingers](https://open.spotify.com/album/6lcVXsUyWa9WvgBMTuLz5l) | 4:11 |
 | 50 | [Let the Good Times Roll](https://open.spotify.com/track/7e5etB94Bx7fVbJtlgkhjM) | [Louis Jordan](https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2) | [Jack, You're Dead: The Essential Blue Archive](https://open.spotify.com/album/2s0dl1Uf59BlayS3m47FDy) | 2:48 |
 
-Snapshot ID: `MCxkNGY4M2E1ZWE0NTMzM2MyZjA4YjI0YTc1OWNjMjlmMjMwYTQ4NTEw`
+Snapshot ID: `MCxhODZkNTc0ZDY4MjU4ODQxNzBiMDIxZmFjYTFlMDQ3YTAxZWE2YzI3`

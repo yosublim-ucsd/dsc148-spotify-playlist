@@ -4,7 +4,7 @@
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes.
 
-209 songs - 13 hr 31 min
+210 songs - 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,8 @@
 | [LIA](https://open.spotify.com/track/79yUKmyrDvi1QFVaqo9DIL) | [Tom Bailey](https://open.spotify.com/artist/2oazmaA42Jf78TZeTsUIDU) | [LIA](https://open.spotify.com/album/21Dh5zHvadr9S2b31QR2ok) | 3:38 | 2022-12-05 |  |
 | [Light Blue for the Common Good](https://open.spotify.com/track/6mSixe8RKZ3rKOvYMxlMxz) | [Nuvole](https://open.spotify.com/artist/5X65Iv1V1AcOZhFM1AzjJ1) | [Light Blue for the Common Good](https://open.spotify.com/album/3OqbmJ15UcOpFoq9eU70nD) | 7:00 | 2023-10-03 |  |
 | [Little Life](https://open.spotify.com/track/6k8Ma4BHrQhzF71ogxpKhI) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Hopscotch](https://open.spotify.com/album/3rX0StGwVF3griwE7wEdq5) | 2:59 | 2021-12-13 |  |
-| [Lost Kingdoms](https://open.spotify.com/track/17YIpKXRkKKqvb8ZbzyOG1) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [Nubya's 5ive](https://open.spotify.com/album/42X2Gyov8AhwjiHfGCfOC4) | 7:38 | 2022-10-30 |  |
+| [Lost Kingdoms](https://open.spotify.com/track/17YIpKXRkKKqvb8ZbzyOG1) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [Nubya's 5ive](https://open.spotify.com/album/42X2Gyov8AhwjiHfGCfOC4) | 7:38 | 2022-10-30 | 2023-11-30 |
+| [Lost Kingdoms](https://open.spotify.com/track/6eTT6SQgTfXiKXdvMe0ZID) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [Nubya's 5ive](https://open.spotify.com/album/6gVTOEeb9Hd1EO4A6kYEOE) | 7:38 | 2023-10-19 |  |
 | [Love Falls Down](https://open.spotify.com/track/4K9i7f2Wi3Fx0N5DhMxbIH) | [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [Love Falls Down](https://open.spotify.com/album/3FQbYHvVYJg6zX76gvUwDG) | 5:15 | 2022-07-05 | 2022-10-31 |
 | [Love Falls Down](https://open.spotify.com/track/5X5XhvErlZwcy9Mj0O2aVV) | [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [Love Falls Down](https://open.spotify.com/album/08WEyVCx9yGsm8as4jbyOZ) | 5:15 | 2021-12-13 | 2022-07-29 |
 | [Love Is Back](https://open.spotify.com/track/2xAffWASC4yddor8wW037Z) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Love Is Back](https://open.spotify.com/album/5SzPWTx8cNuBeIpuo21bPk) | 4:16 | 2022-04-28 |  |

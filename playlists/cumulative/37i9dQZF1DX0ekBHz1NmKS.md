@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-879 songs - 1 day 22 hr 24 min
+881 songs - 1 day 22 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [Closer](https://open.spotify.com/track/6qC839XTjnK0oKUoCDcnkL) | [Freja The Dragon](https://open.spotify.com/artist/78zIVRdVKJ8tl8TTtsC3Ke), [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Closer](https://open.spotify.com/album/0Dt2mixDqlbO4xO5QNwTZv) | 3:28 | 2022-09-22 | 2022-10-13 |
 | [Coast \(feat\. Cherrie\)](https://open.spotify.com/track/43bSOU2d9fFauUMbPual0S) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS), [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [The Forgotten Ones](https://open.spotify.com/album/78WnZ89oNI95ISnWHEiy61) | 3:50 | 2021-12-16 | 2022-03-10 |
 | [Cold Shoulder](https://open.spotify.com/track/34snSDVVV1KB4bbTZjIB05) | [Juliander](https://open.spotify.com/artist/4gvkdged3Xw3ImXFm3jiay) | [Cold Shoulder](https://open.spotify.com/album/5gO8l10JAF0ONPQILQNJ0Z) | 3:04 | 2022-05-05 | 2022-07-17 |
-| [Cold Turkey](https://open.spotify.com/track/3f17XRSpPLhtdt3ofn56qG) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Cold Turkey](https://open.spotify.com/album/6cMalQrIbI5ycQijYAjHMc) | 2:33 | 2023-08-25 |  |
+| [Cold Turkey](https://open.spotify.com/track/3f17XRSpPLhtdt3ofn56qG) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Cold Turkey](https://open.spotify.com/album/6cMalQrIbI5ycQijYAjHMc) | 2:33 | 2023-08-25 | 2023-11-30 |
 | [Coldtrain](https://open.spotify.com/track/4vSno0DWQgIWvpaSHa4SXX) | [Caspar Camitz](https://open.spotify.com/artist/7Mymyw9vEuRvJKD9Fy919Q), [Katmanlo](https://open.spotify.com/artist/1jXMfZgRIg0JlqF5MMst97) | [By The End Of Coldtrain](https://open.spotify.com/album/4wFhlNN5WJ9hs33mFgTZaT) | 3:31 | 2021-12-16 | 2022-04-02 |
 | [Come Get Me Out](https://open.spotify.com/track/54DpQsG4eustUJp2hKKWcS) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [don't look at the moon...](https://open.spotify.com/album/0GEc7foEpk3JCkR1kh8fK6) | 3:22 | 2023-10-13 |  |
 | [Cool Kids](https://open.spotify.com/track/48w0n6R4pVu0gamM91ZQcE) | [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Cool Kids](https://open.spotify.com/album/5VctleKkq3DNVXv6zjcVzt) | 2:31 | 2022-03-10 | 2022-07-13 |
@@ -358,6 +358,7 @@
 | [Hundra år till](https://open.spotify.com/track/6QnCjXSIBaUY9FgB9g0fD4) | [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Du Gamla Du Nya](https://open.spotify.com/album/5jphm8Wj2TcNQi1PLjksV7) | 3:35 | 2022-03-10 | 2022-04-28 |
 | [Hundratusen \(feat\. GAMMAL\)](https://open.spotify.com/track/6cla7irIr3I99T63MGaPBR) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r), [GAMMAL](https://open.spotify.com/artist/3O6DpqAKwn7L1KS9s9x0w5) | [Hundratusen \(feat\. GAMMAL\)](https://open.spotify.com/album/2HMz8xfQSrEgVLM5hMeC9R) | 3:39 | 2022-03-04 | 2022-07-28 |
 | [Hungover \(Head In A Can\)](https://open.spotify.com/track/6cOisxrHjB34qn81ZOfwhQ) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Hungover \(Head In A Can\)](https://open.spotify.com/album/5QwgmdXMl8OHc4S7CwzWRB) | 3:44 | 2023-02-23 | 2023-04-10 |
+| [Hurt](https://open.spotify.com/track/76hEkLg6onuuxavpw4aqlq) | [Amanda Fondell](https://open.spotify.com/artist/5rL1bpxszSXKHmVPXR5ZGs) | [Hurt](https://open.spotify.com/album/1SEG2kYABTDeOs2WMwxD0d) | 3:10 | 2023-11-23 |  |
 | [Hälften är rakt från hjärtat](https://open.spotify.com/track/28irQUos9MYFrNzTuRCXzf) | [Timo Räisänen](https://open.spotify.com/artist/3Z6WVJzHQ12kzNjhzDkIYP), [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Hälften är rakt från hjärtat](https://open.spotify.com/album/4Vq2qQiX6deoCpyKvkPbB4) | 2:48 | 2023-08-25 |  |
 | [Häntextra](https://open.spotify.com/track/350vNDJoqRwYN1pKzAAFj7) | [Fricky](https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2) | [Horizon Inn](https://open.spotify.com/album/04GQbaJ5RCOHZu1P6zRan1) | 3:47 | 2023-05-25 | 2023-10-20 |
 | [Här tog det vackra slut](https://open.spotify.com/track/3T6OQHYXf8a0ExKgdF581H) | [Klockrent!](https://open.spotify.com/artist/6XFNM3VxPM64ATHs1EYJn9), [Lisa Ajax](https://open.spotify.com/artist/15k33gArN2NU6cEYyQC3xZ) | [Här tog det vackra slut](https://open.spotify.com/album/4wAsFZpd8dRNU2R5g0VLGO) | 3:24 | 2021-12-16 | 2022-03-11 |
@@ -501,7 +502,7 @@
 | [Midnatt](https://open.spotify.com/track/2WbFll5FxW0JEKIyijHNcb) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Midnatt](https://open.spotify.com/album/3suLV5WJS3L9v7kG3IKAbM) | 3:04 | 2022-09-29 | 2022-12-16 |
 | [Mildest High](https://open.spotify.com/track/6YCe7aJVBWDEkJklrjVwmy) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Mildest High](https://open.spotify.com/album/5V7zY5PJ0sl5hgT7Jow9pQ) | 3:03 | 2022-06-23 | 2022-07-23 |
 | [Minnet Av Ett Hav](https://open.spotify.com/track/17xpeHftsvBZRt9OYfNZ00) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Minnet Av Ett Hav](https://open.spotify.com/album/7KWH3xa5MMcXvqW4CgnxMd) | 3:46 | 2021-12-16 | 2022-04-02 |
-| [Misemotional](https://open.spotify.com/track/02veTwzG1FDUKtcFzpC9mJ) | [sixten](https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF) | [Misemotional](https://open.spotify.com/album/0EtJROuWrnhxRTm1EjH9RK) | 3:34 | 2023-10-19 |  |
+| [Misemotional](https://open.spotify.com/track/02veTwzG1FDUKtcFzpC9mJ) | [sixten](https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF) | [Misemotional](https://open.spotify.com/album/0EtJROuWrnhxRTm1EjH9RK) | 3:34 | 2023-10-19 | 2023-11-30 |
 | [Miss The Party](https://open.spotify.com/track/1u70gXN0eulrXoeZEiIXyv) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu), [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Learning Experience](https://open.spotify.com/album/2oFo9ugJ7G6jRAGh1uX3Wp) | 3:12 | 2022-04-07 | 2023-05-08 |
 | [Missing you](https://open.spotify.com/track/3uUk6gJUmXKjO4m7igBk3X) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [Missing you](https://open.spotify.com/album/2X2E6TWZTDGTsWeCJ3NFvn) | 2:06 | 2023-11-16 |  |
 | [Missing You Sucks](https://open.spotify.com/track/57zslQlwkYyVqErssPWDvA) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Missing You Sucks](https://open.spotify.com/album/4MPVizOXoqdsmdxdFxY0dv) | 2:58 | 2022-02-05 | 2022-04-02 |
@@ -616,6 +617,7 @@
 | [Rules](https://open.spotify.com/track/5L4eBTgKImJ38Il24RNfKw) | [Melanie Wehbe](https://open.spotify.com/artist/1cLipMi0mKHQft01CiTuGn) | [Bloom](https://open.spotify.com/album/3m7WDstzCDmAvvXFEfamyj) | 2:46 | 2022-12-22 | 2023-03-10 |
 | [Rulla eftertexten](https://open.spotify.com/track/32DulelwqqHmiNS3k9Wyxn) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Alla gör slut](https://open.spotify.com/album/4NqV0pKjmtudnuZ7SArHtG) | 3:26 | 2021-12-16 | 2022-03-11 |
 | [Run To The Hills](https://open.spotify.com/track/6k4e5H3MbDzhEX3qJSWwpd) | [Klara Hammarström](https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6) | [Run To The Hills](https://open.spotify.com/album/2JWYQBemvSb20WykqdApO0) | 2:55 | 2022-03-03 | 2022-09-16 |
+| [Ruta Noll](https://open.spotify.com/track/6sl4osOhY4Phx4tCsdj9Yn) | [Wilden](https://open.spotify.com/artist/6Idl2AxJCkWHN4VTVfOEuK) | [Ruta Noll](https://open.spotify.com/album/543XPoKgO1q8T2Yj1Rsmk7) | 2:46 | 2023-11-23 |  |
 | [Rymden och tillbaks](https://open.spotify.com/track/37CgRnlN3p5eeIv9ZLKBw5) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Så mycket bättre 2022 – Tolkningarna](https://open.spotify.com/album/6CxfNDPEZUluQdfnB5CTon) | 2:53 | 2022-11-17 | 2023-10-06 |
 | [Rymden och tillbaks](https://open.spotify.com/track/3T66ZaObDiVo0XJxLqXoyY) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Rymden och tillbaks \(Space Invades My Mind\)](https://open.spotify.com/album/7qqzQse7Mkex7RT9FrtNF3) | 2:53 | 2022-11-04 | 2022-11-18 |
 | [Räkna dagar](https://open.spotify.com/track/7GWtRLE1ZeFat9k9iauEef) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Barn av vår tid](https://open.spotify.com/album/1StOdefPDHrQiwQLm3teNm) | 2:55 | 2021-12-16 | 2022-09-16 |

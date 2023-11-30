@@ -4,7 +4,7 @@
 
 > Todo el sonido indie de Chile\. Foto: Estoy Bien
 
-435 songs - 1 day 2 hr 13 min
+436 songs - 1 day 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [correr](https://open.spotify.com/track/5D4NZPyvA7lGtKrouJS9ZR) | [Vicenta](https://open.spotify.com/artist/0fMFxEzzksKzDMk4bFZodo), [Cabiria](https://open.spotify.com/artist/2y7OtEBQuQCeFh2a8bYZVC) | [virgen suicida](https://open.spotify.com/album/1ON6oGHI5yilSXfYxA77Kz) | 2:53 | 2023-03-24 | 2023-08-05 |
 | [Cruz Negra](https://open.spotify.com/track/6L1f3lp4S1YCPIFiN6Nx1A) | [Isla del Sol](https://open.spotify.com/artist/5YyFD8u6XkZyYBWRPVwKrR) | [Cruz Negra](https://open.spotify.com/album/5vsNUDgWHid7nuKQuwHdvG) | 5:41 | 2022-05-27 | 2022-07-19 |
 | [Cuando Estoy con El \- Sesión Jeanette](https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Cuando Estoy con El \(Sesión Jeanette\)](https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno) | 5:26 | 2023-02-24 |  |
+| [cuando pienses en el destino](https://open.spotify.com/track/6eGkYDbB2e5LOZ4jBnlfdS) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [quién llama a esta hora](https://open.spotify.com/album/0kxhAbkGpkSqxQCV7Z1hzJ) | 3:45 | 2023-11-24 |  |
 | [Cuando Sea Abuela](https://open.spotify.com/track/1m0cRuKnkpkfX68eF7fir0) | [Kurmi](https://open.spotify.com/artist/1BF5IPlIOTc6JJWQPuqG3W) | [Historias para Cuando Sea Abuela](https://open.spotify.com/album/0LtK9bUcKNtbu0iwZBgyGU) | 4:17 | 2022-04-15 | 2022-07-29 |
 | [Cuotas](https://open.spotify.com/track/7pRYt9hsBvUjdiWFGKigld) | [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo), [Dj Perez](https://open.spotify.com/artist/4pYx5PDavOZqKec3vIX9Xr) | [Hecho en Casa](https://open.spotify.com/album/3p2eoHbgQS5XRCxUPWLfs1) | 4:12 | 2022-04-15 | 2022-12-10 |
 | [Cuántas Veces](https://open.spotify.com/track/6uvvl0MaveeEQlxmeP1x5W) | [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Recopilatorio](https://open.spotify.com/album/5GZRekxFsqDFURqsVitGxy) | 3:06 | 2022-04-15 | 2022-12-10 |
@@ -240,7 +241,7 @@
 | [Me Siento Que No](https://open.spotify.com/track/715WLRXs9Jrc65K2KH1lNS) | [Magnolia Nojutsu](https://open.spotify.com/artist/7xZnQkIOFUIhG4tnGIOY92), [Valentina](https://open.spotify.com/artist/2U9GIgYg7Olybp6vI0otld) | [Me Siento Que No](https://open.spotify.com/album/2jjrnQTIGnT3wPufY0dlrG) | 3:56 | 2023-02-03 | 2023-08-12 |
 | [Metatrón](https://open.spotify.com/track/6qUsTRejNR8WuUVqClm8Li) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [Metatrón](https://open.spotify.com/album/5ATddaIPfN60xIgidfZSEV) | 3:56 | 2023-10-12 |  |
 | [Mi Camino Es Apenas Una Huella](https://open.spotify.com/track/5wnn9v60XXqJIdP2e7yPHK) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [Mi Camino Es Apenas Una Huella](https://open.spotify.com/album/5YqfkhcnCPjF7JF5eBY2U0) | 3:18 | 2022-04-15 | 2022-08-03 |
-| [Mi querida tempestad \(en un vaso de agua\)](https://open.spotify.com/track/3szaRx7HP75ENQTXfchzOC) | [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Mi querida tempestad \(en un vaso de agua\)](https://open.spotify.com/album/0vdhJS8mJiBAocCggPFf7D) | 2:57 | 2022-08-26 |  |
+| [Mi querida tempestad \(en un vaso de agua\)](https://open.spotify.com/track/3szaRx7HP75ENQTXfchzOC) | [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Mi querida tempestad \(en un vaso de agua\)](https://open.spotify.com/album/0vdhJS8mJiBAocCggPFf7D) | 2:57 | 2022-08-26 | 2023-11-30 |
 | [Mi Sol Menor](https://open.spotify.com/track/0HJfgUh8DE2FzNqKwjR1St) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [Mi Sol Menor](https://open.spotify.com/album/47JB62v141rFEtfppIGVj7) | 4:30 | 2022-04-15 | 2022-07-28 |
 | [Milagros](https://open.spotify.com/track/2TBePNbBTf5wbDI7Rebmp8) | [DINDI JANE](https://open.spotify.com/artist/3NtqMR9pkptsO9mRHUmYDJ) | [Milagros](https://open.spotify.com/album/0kPuuj3n0l0Wi2Sg1Gj5H1) | 3:10 | 2022-04-15 | 2022-08-25 |
 | [Miraflor](https://open.spotify.com/track/3yYcOSB0WVJkpx1wgyOTVg) | [Felics](https://open.spotify.com/artist/2MDZPWYR5xuLWVIQ9ybC3l), [Los Días Silvestres](https://open.spotify.com/artist/51ewyZ0SAKgCG9dqme1Rff) | [Miraflor](https://open.spotify.com/album/1SZpLRbjijkts5toPVJ4HZ) | 5:58 | 2022-09-02 | 2023-04-10 |

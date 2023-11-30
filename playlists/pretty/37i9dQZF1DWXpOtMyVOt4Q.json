@@ -1,18 +1,18 @@
 {
   "description": "Chill tunes to soundtrack your gaming session.",
-  "num_followers": 251762,
+  "num_followers": 251840,
   "original_name": "Chill Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTUwYmNiODJjMzA1MTM0NmVjZjYwYmIwNWRmODYxYzhmYTYxYjYz",
+  "snapshot_id": "MCw2Yzc4Mzc2ZTQ4MjBmZGVlZDc4NTkyODMwZWVhMTRlNzliYzFmOTEy",
   "tracks": [
     {
       "added_at": "2023-09-08 14:39:34",
       "album": {
-        "name": "snowfall",
-        "url": "https://open.spotify.com/album/4NRsGHlWBTl4rdLcq8CKcH"
+        "name": "snowfall (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/3odz9MUzucRfbCCH8hxqCK"
       },
       "artists": [
         {
@@ -24,41 +24,9 @@
           "url": "https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP"
         }
       ],
-      "duration_ms": 124065,
-      "name": "snowfall",
-      "url": "https://open.spotify.com/track/4xF4ZBGPZKxECeDFrqSAG4"
-    },
-    {
-      "added_at": "2023-09-08 14:39:34",
-      "album": {
-        "name": "Not Songs",
-        "url": "https://open.spotify.com/album/5ucsbLLlsgfWOrCHl8uCiO"
-      },
-      "artists": [
-        {
-          "name": "Other Nothing",
-          "url": "https://open.spotify.com/artist/4DXOz58gkpdeCcsW4Xjxgd"
-        }
-      ],
-      "duration_ms": 93000,
-      "name": "Ww",
-      "url": "https://open.spotify.com/track/5PHSyGMwRTpB2iP6pYjoWV"
-    },
-    {
-      "added_at": "2023-09-08 14:39:34",
-      "album": {
-        "name": "memories",
-        "url": "https://open.spotify.com/album/1W7locJBenHBGz0Z8OzBcq"
-      },
-      "artists": [
-        {
-          "name": "leadwave",
-          "url": "https://open.spotify.com/artist/4v6Vm2UFM3PS4iHY9TZfcb"
-        }
-      ],
-      "duration_ms": 86319,
-      "name": "memories",
-      "url": "https://open.spotify.com/track/4VkRQSpG16JxrXaVlNyWdX"
+      "duration_ms": 150660,
+      "name": "snowfall (Slowed + Reverb)",
+      "url": "https://open.spotify.com/track/4VkEkljlOC5cMbRMhREO5E"
     },
     {
       "added_at": "2023-09-08 14:39:34",
@@ -103,26 +71,6 @@
     {
       "added_at": "2023-09-08 14:39:34",
       "album": {
-        "name": "snowfall (Slowed + Reverb)",
-        "url": "https://open.spotify.com/album/3odz9MUzucRfbCCH8hxqCK"
-      },
-      "artists": [
-        {
-          "name": "\u00d8neheart",
-          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
-        },
-        {
-          "name": "reidenshi",
-          "url": "https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP"
-        }
-      ],
-      "duration_ms": 150660,
-      "name": "snowfall (Slowed + Reverb)",
-      "url": "https://open.spotify.com/track/4VkEkljlOC5cMbRMhREO5E"
-    },
-    {
-      "added_at": "2023-09-08 14:39:34",
-      "album": {
         "name": "Preludes, Book 2 - Torrents",
         "url": "https://open.spotify.com/album/23evXngVDHzY3P9A2wNDJY"
       },
@@ -151,6 +99,22 @@
       "duration_ms": 146000,
       "name": "Solas",
       "url": "https://open.spotify.com/track/0yfMign5fsLtw5I4pK73ge"
+    },
+    {
+      "added_at": "2023-09-08 14:39:34",
+      "album": {
+        "name": "apathy",
+        "url": "https://open.spotify.com/album/1N99dokdMWpcIDa9r6BqYk"
+      },
+      "artists": [
+        {
+          "name": "\u00d8neheart",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        }
+      ],
+      "duration_ms": 117073,
+      "name": "apathy",
+      "url": "https://open.spotify.com/track/6WUgqFZhbNRaeBuzG2ahfJ"
     },
     {
       "added_at": "2023-09-08 14:39:34",
@@ -205,38 +169,6 @@
       "url": "https://open.spotify.com/track/3g4KjrkyzdPyKW7iMBb6Zs"
     },
     {
-      "added_at": "2023-09-08 14:39:34",
-      "album": {
-        "name": "apathy",
-        "url": "https://open.spotify.com/album/1N99dokdMWpcIDa9r6BqYk"
-      },
-      "artists": [
-        {
-          "name": "\u00d8neheart",
-          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
-        }
-      ],
-      "duration_ms": 117073,
-      "name": "apathy",
-      "url": "https://open.spotify.com/track/6WUgqFZhbNRaeBuzG2ahfJ"
-    },
-    {
-      "added_at": "2023-09-08 14:39:34",
-      "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/1YO2U8t5Enh14ouHTKGR4k"
-      },
-      "artists": [
-        {
-          "name": "ghostlycheeks",
-          "url": "https://open.spotify.com/artist/4uQ0iSRBd2jAuRtxaelbnv"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Let Go",
-      "url": "https://open.spotify.com/track/07Mde29eZ6MxAErYEwI5eG"
-    },
-    {
       "added_at": "2023-09-20 19:49:54",
       "album": {
         "name": "comfortable silence",
@@ -267,6 +199,26 @@
       "duration_ms": 184285,
       "name": "if it's real, then i'll stay",
       "url": "https://open.spotify.com/track/6MIouIaP6WqE6o9Uo25gdO"
+    },
+    {
+      "added_at": "2023-09-08 14:39:34",
+      "album": {
+        "name": "rescue",
+        "url": "https://open.spotify.com/album/4zVgqmITVLk905VoQ7mbVA"
+      },
+      "artists": [
+        {
+          "name": "\u00d8neheart",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        },
+        {
+          "name": "ashess",
+          "url": "https://open.spotify.com/artist/1hhLt9cFkv19R49FGbQAow"
+        }
+      ],
+      "duration_ms": 136363,
+      "name": "rescue",
+      "url": "https://open.spotify.com/track/7zGy5IJuIH6r9lxLLLRJ1m"
     },
     {
       "added_at": "2023-09-08 14:39:34",
@@ -311,26 +263,6 @@
     {
       "added_at": "2023-09-08 14:39:34",
       "album": {
-        "name": "rescue",
-        "url": "https://open.spotify.com/album/4zVgqmITVLk905VoQ7mbVA"
-      },
-      "artists": [
-        {
-          "name": "\u00d8neheart",
-          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
-        },
-        {
-          "name": "ashess",
-          "url": "https://open.spotify.com/artist/1hhLt9cFkv19R49FGbQAow"
-        }
-      ],
-      "duration_ms": 136363,
-      "name": "rescue",
-      "url": "https://open.spotify.com/track/7zGy5IJuIH6r9lxLLLRJ1m"
-    },
-    {
-      "added_at": "2023-09-08 14:39:34",
-      "album": {
         "name": "Origin",
         "url": "https://open.spotify.com/album/72j49pGy439dhNFAIUTUjy"
       },
@@ -343,6 +275,22 @@
       "duration_ms": 60003,
       "name": "Past, Present & Future - Intro",
       "url": "https://open.spotify.com/track/254QTqbIfInFIF38D2N48W"
+    },
+    {
+      "added_at": "2023-11-29 20:21:28",
+      "album": {
+        "name": "in the bleak midwinter",
+        "url": "https://open.spotify.com/album/5Mp2pQSKz87APGM0FW1uL4"
+      },
+      "artists": [
+        {
+          "name": ".diedlonely",
+          "url": "https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "in the bleak midwinter",
+      "url": "https://open.spotify.com/track/5WEBVd7HoSDLMAaJnk6yTT"
     },
     {
       "added_at": "2023-09-08 14:39:34",
@@ -359,6 +307,26 @@
       "duration_ms": 132869,
       "name": "It feels like I've forgotten something",
       "url": "https://open.spotify.com/track/3zaFQTIBcEjLKuh2E2CX6X"
+    },
+    {
+      "added_at": "2023-11-29 20:21:28",
+      "album": {
+        "name": "fairytale",
+        "url": "https://open.spotify.com/album/0bdTwJydCNRYCyqiqb8UUV"
+      },
+      "artists": [
+        {
+          "name": "\u00d8neheart",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        },
+        {
+          "name": "leadwave",
+          "url": "https://open.spotify.com/artist/4v6Vm2UFM3PS4iHY9TZfcb"
+        }
+      ],
+      "duration_ms": 100000,
+      "name": "fairytale",
+      "url": "https://open.spotify.com/track/0mHCR2WCxeM22a7Na8dMU6"
     },
     {
       "added_at": "2023-09-08 14:39:34",
@@ -499,22 +467,6 @@
     {
       "added_at": "2023-09-08 14:39:34",
       "album": {
-        "name": "Help Me Out",
-        "url": "https://open.spotify.com/album/5aOvfgizZIKyUeZ37oNYRi"
-      },
-      "artists": [
-        {
-          "name": "Alicks",
-          "url": "https://open.spotify.com/artist/60J5TDNg9Xxp9zxDXpBOjM"
-        }
-      ],
-      "duration_ms": 207046,
-      "name": "A Time to Wait",
-      "url": "https://open.spotify.com/track/5KXdGGSVtKLinb8NCPUb0X"
-    },
-    {
-      "added_at": "2023-09-08 14:39:34",
-      "album": {
         "name": "Fallen Down (Reprise)",
         "url": "https://open.spotify.com/album/5jqDoz4ZXsfUQyh6PrQO9b"
       },
@@ -531,18 +483,18 @@
     {
       "added_at": "2023-09-08 14:39:34",
       "album": {
-        "name": "Agony (Instrumental)",
-        "url": "https://open.spotify.com/album/6WF6Q0Ihfc5ZmbxICIuRnN"
+        "name": "Help Me Out",
+        "url": "https://open.spotify.com/album/5aOvfgizZIKyUeZ37oNYRi"
       },
       "artists": [
         {
-          "name": "TheExorcist",
-          "url": "https://open.spotify.com/artist/4RP2lKGYgYkC0TUiTT2JTR"
+          "name": "Alicks",
+          "url": "https://open.spotify.com/artist/60J5TDNg9Xxp9zxDXpBOjM"
         }
       ],
-      "duration_ms": 301740,
-      "name": "Agony - Instrumental",
-      "url": "https://open.spotify.com/track/1nO49nVkqlqOHU8mrjAVWu"
+      "duration_ms": 207046,
+      "name": "A Time to Wait",
+      "url": "https://open.spotify.com/track/5KXdGGSVtKLinb8NCPUb0X"
     },
     {
       "added_at": "2023-09-08 14:39:34",
@@ -577,24 +529,20 @@
       "url": "https://open.spotify.com/track/7hlBb5jUQH764VF99CinP4"
     },
     {
-      "added_at": "2023-09-08 14:39:34",
+      "added_at": "2023-11-29 20:21:28",
       "album": {
-        "name": "Shootout (8D Version)",
-        "url": "https://open.spotify.com/album/0xzDvef5MR20wNTwyTkhSJ"
+        "name": "against me",
+        "url": "https://open.spotify.com/album/2Ouy3w7JR2SuWPomoa5qz7"
       },
       "artists": [
         {
-          "name": "Izzamuzzic",
-          "url": "https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8"
-        },
-        {
-          "name": "Julien Marchal",
-          "url": "https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU"
+          "name": "abece",
+          "url": "https://open.spotify.com/artist/30EAeQTgUhGDScjjT3gHXs"
         }
       ],
-      "duration_ms": 293142,
-      "name": "Shootout (8D Version)",
-      "url": "https://open.spotify.com/track/2SYciSIUYvHMPItZhWY3mI"
+      "duration_ms": 94435,
+      "name": "against me",
+      "url": "https://open.spotify.com/track/7lyEwN7BB2XufCMWMjEaGk"
     },
     {
       "added_at": "2023-09-08 14:39:34",
@@ -701,6 +649,22 @@
       "url": "https://open.spotify.com/track/5uTnqjoCiHCZJ3TmQpOhpH"
     },
     {
+      "added_at": "2023-11-29 20:21:28",
+      "album": {
+        "name": "A Collection of Soul Crushing Songs",
+        "url": "https://open.spotify.com/album/1lSL83KK9CuxdfbP6dSC5r"
+      },
+      "artists": [
+        {
+          "name": "kxrrvpt",
+          "url": "https://open.spotify.com/artist/3GeAdMUV0vvmyZrYBuGcwl"
+        }
+      ],
+      "duration_ms": 47204,
+      "name": "i'm tired",
+      "url": "https://open.spotify.com/track/4JkoMKb96mV3nlXRq6yeTP"
+    },
+    {
       "added_at": "2023-09-08 14:39:34",
       "album": {
         "name": "Drifting Away",
@@ -765,20 +729,28 @@
       "url": "https://open.spotify.com/track/1ZHRQbm7S54eSKEhKiw1rl"
     },
     {
-      "added_at": "2023-09-08 14:39:34",
+      "added_at": "2023-11-29 20:21:28",
       "album": {
-        "name": "NARUTO-\u30ca\u30eb\u30c8- \u75be\u98a8\u4f1d \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/4f5CITLlnnTPE49n5Bd0zN"
+        "name": "laleconparticulere.",
+        "url": "https://open.spotify.com/album/4koTRhv7vJHays2gNvf31v"
       },
       "artists": [
         {
-          "name": "Yasuharu Takanashi",
-          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+          "name": "pandora.",
+          "url": "https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM"
+        },
+        {
+          "name": "chillwithme",
+          "url": "https://open.spotify.com/artist/7AvcFSTZCBcqx0Uf03lrP8"
+        },
+        {
+          "name": "c\u00f8dy",
+          "url": "https://open.spotify.com/artist/0CLVTdLvMwJzZtHovVneAC"
         }
       ],
-      "duration_ms": 175266,
-      "name": "\u7a7a\u8749",
-      "url": "https://open.spotify.com/track/512AumOSEWMM6zQXgohm0P"
+      "duration_ms": 63158,
+      "name": "laleconparticulere.",
+      "url": "https://open.spotify.com/track/3sUo9q67Pl3izLgUgfyHKK"
     },
     {
       "added_at": "2023-09-08 14:39:34",
@@ -797,6 +769,22 @@
       "url": "https://open.spotify.com/track/6wv5lxSg3U9DSC5KvbQdfr"
     },
     {
+      "added_at": "2023-11-29 20:21:28",
+      "album": {
+        "name": "im fine i promise",
+        "url": "https://open.spotify.com/album/5IZx8gvWoXufbLsUGFyvZ2"
+      },
+      "artists": [
+        {
+          "name": "vic",
+          "url": "https://open.spotify.com/artist/4lc3yLPyNJpyOTpUB8U8Pa"
+        }
+      ],
+      "duration_ms": 50664,
+      "name": "i need to be honest",
+      "url": "https://open.spotify.com/track/5pMTNM75nUpdfbV9N0MMGV"
+    },
+    {
       "added_at": "2023-09-08 14:39:34",
       "album": {
         "name": "Exo One (Original Game Soundtrack)",
@@ -811,6 +799,22 @@
       "duration_ms": 65000,
       "name": "Dead Metal",
       "url": "https://open.spotify.com/track/7CCPRhIy6VHd4ZmquuIggW"
+    },
+    {
+      "added_at": "2023-11-29 20:21:28",
+      "album": {
+        "name": "star struck",
+        "url": "https://open.spotify.com/album/0lWOg0zxjpIS81tzwUB0qr"
+      },
+      "artists": [
+        {
+          "name": "alixe.",
+          "url": "https://open.spotify.com/artist/5CqGgJNg6sTMBr8KbBCqYn"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "star struck",
+      "url": "https://open.spotify.com/track/3JcRY9LLi7aLBqceAbAJaC"
     },
     {
       "added_at": "2023-09-08 14:39:34",
@@ -847,18 +851,18 @@
     {
       "added_at": "2023-09-08 14:39:34",
       "album": {
-        "name": "There Is Hope",
-        "url": "https://open.spotify.com/album/5rf69U8NuO3plvtgmdwvQj"
+        "name": "for B.",
+        "url": "https://open.spotify.com/album/3l3JcGx513fCNPY6nGarLk"
       },
       "artists": [
         {
-          "name": "Kochetkovv",
-          "url": "https://open.spotify.com/artist/7BPQzcw927WoBtakErDh6d"
+          "name": "Linearwave",
+          "url": "https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk"
         }
       ],
-      "duration_ms": 115200,
-      "name": "There Is Hope",
-      "url": "https://open.spotify.com/track/2V8KZNr3T4ZwvYgTa0qvNf"
+      "duration_ms": 89491,
+      "name": "for B.",
+      "url": "https://open.spotify.com/track/4eqYoFG2SGQqMFCvKrjtiu"
     }
   ],
   "unique_name": "Chill Gaming",

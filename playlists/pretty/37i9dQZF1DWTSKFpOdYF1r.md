@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 
 > The songs that defined the other side of the 80s\. Cover: Kate Bush
 
-[Spotify](https://open.spotify.com/user/spotify) - 941,407 likes - 80 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 941,687 likes - 80 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 62 | [Lorelei](https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 3:43 |
 | 63 | [Hounds Of Love](https://open.spotify.com/track/6jWx7mD5oblxybTaWpiPZN) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 3:03 |
 | 64 | [Gigantic \- Remastered](https://open.spotify.com/track/5G2g1EbEtFSMkMbAnhl7FV) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa](https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9) | 3:55 |
-| 65 | [I Want Candy](https://open.spotify.com/track/2FMcDUopGfjBh3xMsrm78S) | [Bow Wow Wow](https://open.spotify.com/artist/52K4ArhA4OgMO7AsyEgqCT) | [We Are The '80s](https://open.spotify.com/album/3gTAnUMTCOtCHp0zb4gdSF) | 2:44 |
-| 66 | [Eighties \- 2007 Digital Remaster](https://open.spotify.com/track/0BUCVTLKMipDJDRiv6118M) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Night Time](https://open.spotify.com/album/5VLAt18707WnG1UlJH7Z2f) | 3:59 |
-| 67 | [Don't Change](https://open.spotify.com/track/6ck0CGe9BN9gW5oMmzbhs9) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Shabooh Shoobah](https://open.spotify.com/album/3Amln0PtCGwm5RfM4hdDBI) | 4:26 |
+| 65 | [Eighties \- 2007 Digital Remaster](https://open.spotify.com/track/0BUCVTLKMipDJDRiv6118M) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Night Time](https://open.spotify.com/album/5VLAt18707WnG1UlJH7Z2f) | 3:59 |
+| 66 | [I Want Candy](https://open.spotify.com/track/2FMcDUopGfjBh3xMsrm78S) | [Bow Wow Wow](https://open.spotify.com/artist/52K4ArhA4OgMO7AsyEgqCT) | [We Are The '80s](https://open.spotify.com/album/3gTAnUMTCOtCHp0zb4gdSF) | 2:44 |
+| 67 | [Don't Go](https://open.spotify.com/track/3KuAa8Y79xlfJgYtBKbynY) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [Upstairs At Eric's](https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V) | 3:11 |
 | 68 | [Babooshka \- 2018 Remaster](https://open.spotify.com/track/4DkKgGqqfx8C79RFo8ZuTl) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/7uNjeNs5AmDqZHzIbyPkZH) | 3:19 |
-| 69 | [Don't Go](https://open.spotify.com/track/3KuAa8Y79xlfJgYtBKbynY) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [Upstairs At Eric's](https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V) | 3:11 |
+| 69 | [Don't Change](https://open.spotify.com/track/6ck0CGe9BN9gW5oMmzbhs9) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Shabooh Shoobah](https://open.spotify.com/album/3Amln0PtCGwm5RfM4hdDBI) | 4:26 |
 | 70 | [Duel](https://open.spotify.com/track/1sgMo3mjFB8mA7KLzETTeO) | [Propaganda](https://open.spotify.com/artist/28yIUgPYZqgJoNZjeBvrHn) | [A Secret Wish \(Analogue Sequence\)](https://open.spotify.com/album/4W0pFYAaKVuJwY9ZMTmsUW) | 4:42 |
 | 71 | [The Chauffeur \- 2009 Remaster](https://open.spotify.com/track/4kZOi9K2i06Syi2DiSfEqT) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Rio \(Collector's Edition\)](https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm) | 5:21 |
 | 72 | [Are 'Friends' Electric? \- 1998 Remaster](https://open.spotify.com/track/3xfOF1wyjUZocifZ5WLeFx) | [Tubeway Army](https://open.spotify.com/artist/6SXZyMIzYNNfZ3NFQc3vtv) | [Replicas \(1998 Remaster\)](https://open.spotify.com/album/14chsctrt7Rx38fQUbfqFz) | 5:23 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 79 | [I Will Dare](https://open.spotify.com/track/1MV5BzujqyRQ417qj0rXNS) | [The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3) | [Let It Be \(Expanded\)](https://open.spotify.com/album/4LwFCUyV4wM6SEg84PaLuL) | 3:17 |
 | 80 | [Love Action \(I Believe In Love\)](https://open.spotify.com/track/5RBPXlIiZVrr8hab7LpRJB) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 5:01 |
 
-Snapshot ID: `MCw2MTg0MWE0MGQyMDUzZGY1MjdmYTE1NWVhNWI4NDIyNzNkY2Y0Nzhj`
+Snapshot ID: `MCw3NDY5YjlhZTRkNDAxOGRmMjk1YTY2MmFkZDdlMjk5OTYxZTc2NzBm`

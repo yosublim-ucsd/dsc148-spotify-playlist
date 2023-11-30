@@ -1,12 +1,12 @@
 {
   "description": "Hip hop hits, version dancefloor !",
-  "num_followers": 96460,
+  "num_followers": 96466,
   "original_name": "Hip Hop Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzUzYWVkZjBiMGFkZWViZjgzNjlhY2EwN2E1NzE3MzhhMWFmOTYw",
+  "snapshot_id": "MCwyNWUzMTIzNTJiMjc0M2MyODFhYTdmZmRhNTU4ZDVkOGJmZWY2MmZh",
   "tracks": [
     {
       "added_at": "2023-11-23 15:05:30",
@@ -495,26 +495,18 @@
     {
       "added_at": "2023-11-23 15:05:30",
       "album": {
-        "name": "Another Level",
-        "url": "https://open.spotify.com/album/2zGZLQiFl9UubtrVmtIkbi"
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },
       "artists": [
         {
-          "name": "Blackstreet",
-          "url": "https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA"
-        },
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        },
-        {
-          "name": "Queen Pen",
-          "url": "https://open.spotify.com/artist/0VbIlorLz3I5SEtIsc5vAr"
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
         }
       ],
-      "duration_ms": 304600,
-      "name": "No Diggity",
-      "url": "https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ"
+      "duration_ms": 137704,
+      "name": "MONTERO (Call Me By Your Name)",
+      "url": "https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W"
     },
     {
       "added_at": "2023-11-23 15:05:30",
@@ -543,18 +535,26 @@
     {
       "added_at": "2023-11-23 15:05:30",
       "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+        "name": "Another Level",
+        "url": "https://open.spotify.com/album/2zGZLQiFl9UubtrVmtIkbi"
       },
       "artists": [
         {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+          "name": "Blackstreet",
+          "url": "https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Queen Pen",
+          "url": "https://open.spotify.com/artist/0VbIlorLz3I5SEtIsc5vAr"
         }
       ],
-      "duration_ms": 137704,
-      "name": "MONTERO (Call Me By Your Name)",
-      "url": "https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W"
+      "duration_ms": 304600,
+      "name": "No Diggity",
+      "url": "https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ"
     },
     {
       "added_at": "2023-11-23 15:05:30",
@@ -679,26 +679,6 @@
     {
       "added_at": "2023-11-23 15:05:30",
       "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 212352,
-      "name": "INDUSTRY BABY (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
-    },
-    {
-      "added_at": "2023-11-23 15:05:30",
-      "album": {
         "name": "X 100PRE",
         "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 210367,
       "name": "MIA",
       "url": "https://open.spotify.com/track/3gE4eQH3K83Sght0ZLvuBK"
+    },
+    {
+      "added_at": "2023-11-23 15:05:30",
+      "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 212352,
+      "name": "INDUSTRY BABY (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
     },
     {
       "added_at": "2023-11-23 15:05:30",
@@ -855,26 +855,6 @@
     {
       "added_at": "2023-11-23 15:05:30",
       "album": {
-        "name": "7 EP",
-        "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Billy Ray Cyrus",
-          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
-        }
-      ],
-      "duration_ms": 157066,
-      "name": "Old Town Road - Remix",
-      "url": "https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG"
-    },
-    {
-      "added_at": "2023-11-23 15:05:30",
-      "album": {
         "name": "Scorpion",
         "url": "https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 230133,
       "name": "Let Me Blow Ya Mind",
       "url": "https://open.spotify.com/track/3RmKpob8xzv1pzHEQrMJah"
+    },
+    {
+      "added_at": "2023-11-23 15:05:30",
+      "album": {
+        "name": "7 EP",
+        "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "Billy Ray Cyrus",
+          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
+        }
+      ],
+      "duration_ms": 157066,
+      "name": "Old Town Road - Remix",
+      "url": "https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG"
     },
     {
       "added_at": "2023-11-23 15:05:30",

@@ -4,7 +4,7 @@
 
 > 日本で活躍するボーイズグループを特集。cover: GENERATIONS from EXILE TRIBE
 
-57 songs - 3 hr 19 min
+58 songs - 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Moving Pieces](https://open.spotify.com/track/7z5ntslVYEBFtunuEYA9e5) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Moving Pieces](https://open.spotify.com/album/4IeJCO4rFxksf0Wcxc0bmR) | 2:51 | 2023-11-23 | 2023-11-29 |
 | [Museum:0](https://open.spotify.com/track/7iXhqF9wwmi2wi5F6fvx5G) | [原因は自分にある。](https://open.spotify.com/artist/752sVqd0A0Hki7Gd2iOOV6) | [Museum:0](https://open.spotify.com/album/5ZW0izZ8SaXSlUTSqrBS41) | 3:21 | 2023-11-23 |  |
 | [NANAKORO!](https://open.spotify.com/track/2gdcsqjx4y0ioJmu4o9B15) | [BMK](https://open.spotify.com/artist/6iCVcgkf5Jv4rlcSAswaz6) | [NANAKORO! \(B.M.K Special Edition\)](https://open.spotify.com/album/37JfmhJs4VEsMyKICUkTBQ) | 3:32 | 2023-11-23 |  |
-| [NEW STAR](https://open.spotify.com/track/3DLmZAoUDu4SOo6YrUHrCj) | [n.SSign](https://open.spotify.com/artist/3IHvi45S5SITyNES9VzSjI) | [NEW STAR](https://open.spotify.com/album/4VjojyAZQbfONf7bI1yBaw) | 3:29 | 2023-11-28 |  |
+| [NEW STAR](https://open.spotify.com/track/3DLmZAoUDu4SOo6YrUHrCj) | [n.SSign](https://open.spotify.com/artist/3IHvi45S5SITyNES9VzSjI) | [NEW STAR](https://open.spotify.com/album/4VjojyAZQbfONf7bI1yBaw) | 3:29 | 2023-11-28 | 2023-11-30 |
+| [NEW STAR](https://open.spotify.com/track/4fGkb1BWnzrppNuGUeUSaZ) | [n.SSign](https://open.spotify.com/artist/3IHvi45S5SITyNES9VzSjI) | [NEW STAR](https://open.spotify.com/album/4ohVAtGzJTQCIKJTMzGLAb) | 3:29 | 2023-11-28 |  |
 | [Next](https://open.spotify.com/track/69u9PoISpJxSfL2bMkmyWA) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [First Flight \(Special Edition\)](https://open.spotify.com/album/6bFZd12JlAzzSXGKJSmVcd) | 3:33 | 2023-11-23 |  |
 | [PHOTOGENIC](https://open.spotify.com/track/1KZZGKxtges95QLiiCQ1pU) | [THE JET BOY BANGERZ from EXILE TRIBE](https://open.spotify.com/artist/3fjFsQiDcaCYsbcnFz3Rhi) | [PHOTOGENIC](https://open.spotify.com/album/2K0VX8by8hTI9YEJZvsJpZ) | 3:42 | 2023-11-28 |  |
 | [Purple Dawn](https://open.spotify.com/track/0okC5ms3JHc4Gywlc1LGop) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [存在証明](https://open.spotify.com/album/5qNH1s1LqjukHAapYmvlMF) | 3:04 | 2023-11-28 |  |

@@ -1412,10 +1412,28 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 231385,
       "name": "BOY",
       "url": "https://open.spotify.com/track/3oQaOjaIYPsnJbGNzXcIID"
+    },
+    {
+      "album": {
+        "name": "THE GREATEST UNKNOWN",
+        "url": "https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234733,
+      "name": "BOY",
+      "url": "https://open.spotify.com/track/4UShpOJdauir54vMuaFLEV"
     },
     {
       "album": {
@@ -3478,10 +3496,28 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 279746,
       "name": "God knows... - from CrosSing",
       "url": "https://open.spotify.com/track/4L0hLwho2DEd1wPnboLcQ0"
+    },
+    {
+      "album": {
+        "name": "God Knows... - From CrosSing",
+        "url": "https://open.spotify.com/album/2fUAIomKJaQYwPRm7Bmm7w"
+      },
+      "artists": [
+        {
+          "name": "\u5965\u4e95\u96c5\u7f8e",
+          "url": "https://open.spotify.com/artist/4Ii7UojF0YlO2h2dIhdWfU"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279746,
+      "name": "God Knows... - From CrosSing",
+      "url": "https://open.spotify.com/track/5zXinlzLM41ZR5VpS6AJBT"
     },
     {
       "album": {
@@ -5112,6 +5148,24 @@
       "duration_ms": 249506,
       "name": "Kaerimichi no Iro",
       "url": "https://open.spotify.com/track/78c6wtbj63K6xdK7GOtrbt"
+    },
+    {
+      "album": {
+        "name": "Kaiju In The Night",
+        "url": "https://open.spotify.com/album/2nWAW2UL4vCOaWAhfDoJMq"
+      },
+      "artists": [
+        {
+          "name": "Nao Toyama",
+          "url": "https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194800,
+      "name": "Kaiju In The Night",
+      "url": "https://open.spotify.com/track/5XikQ1yJjQqiznvnDfyWnm"
     },
     {
       "album": {
@@ -13508,6 +13562,24 @@
     {
       "album": {
         "name": "\u30b0\u30c3\u30c9\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0EAEDD03aWTf4TqQ0cRMQP"
+      },
+      "artists": [
+        {
+          "name": "\u7560\u4e2d \u7950",
+          "url": "https://open.spotify.com/artist/0TaoRyKuOZG8BUcWKfcPIp"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224426,
+      "name": "\u30b0\u30c3\u30c9\u30e9\u30c3\u30af",
+      "url": "https://open.spotify.com/track/5BiQrlfZvPFvulmepPa9Z8"
+    },
+    {
+      "album": {
+        "name": "\u30b0\u30c3\u30c9\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/5wRDA6czlaHl7lvBEPq4cC"
       },
       "artists": [
@@ -13518,7 +13590,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 224426,
       "name": "\u30b0\u30c3\u30c9\u30e9\u30c3\u30af",
       "url": "https://open.spotify.com/track/5vQTBsKNSmhWx4uMCOubaj"
@@ -18610,7 +18682,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 194800,
       "name": "\u771f\u591c\u4e2d\u306e\u602a\u7363",
       "url": "https://open.spotify.com/track/7vO8y6LjA5j40vEEZItUEr"

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Ouve estas extraordin\u00e1rias artistas, como Sara Correia, com o volume no m\u00e1ximo.",
-  "name": "EQUAL Portugal",
+  "description": "As artistas femeninas do ano, como Sara Tavares (in memoriam).",
+  "name": "EQUAL Portugal: O melhor de 2023",
   "tracks": [
     {
       "album": {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 179333,
       "name": "422",
       "url": "https://open.spotify.com/track/6HIYcehCvKWw5oc0C8V2b5"
@@ -146,7 +146,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 167854,
       "name": "A M\u00eduda do 319",
       "url": "https://open.spotify.com/track/5bmbFZIghmCaLWKGiPZ4XT"
@@ -287,6 +287,24 @@
     },
     {
       "album": {
+        "name": "Mary Jane, wassup!?",
+        "url": "https://open.spotify.com/album/1uycX7dLoN78tswkjR4GrJ"
+      },
+      "artists": [
+        {
+          "name": "Mary Jane",
+          "url": "https://open.spotify.com/artist/7De3aXysEvuHh3pEGZqBau"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172905,
+      "name": "A+",
+      "url": "https://open.spotify.com/track/5I9btHsspV5ZRp6CCnfGtr"
+    },
+    {
+      "album": {
         "name": "Acaso feat. Sopa de Pedra",
         "url": "https://open.spotify.com/album/6snJtn7WuItddSTIi3yq5s"
       },
@@ -302,7 +320,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 216328,
       "name": "Acaso feat. Sopa de Pedra",
       "url": "https://open.spotify.com/track/6wgYMMOCb9sktG0JCe2jsO"
@@ -338,7 +356,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-05",
+      "date_removed": null,
       "duration_ms": 202000,
       "name": "Afrodite",
       "url": "https://open.spotify.com/track/2LGTy30DW5wJCgb5Pe8l4e"
@@ -432,7 +450,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-04",
+      "date_removed": null,
       "duration_ms": 137624,
       "name": "Algu\u00e9m me leve",
       "url": "https://open.spotify.com/track/6s0oK7V9nUfCHqwK1bKWtX"
@@ -710,7 +728,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-04",
+      "date_removed": null,
       "duration_ms": 237772,
       "name": "Animais",
       "url": "https://open.spotify.com/track/1OkPYQrertkavsGTKupdrM"
@@ -818,7 +836,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 128750,
       "name": "Assim",
       "url": "https://open.spotify.com/track/2qJ0alAK9ja55NUAafSykX"
@@ -840,7 +858,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-06",
+      "date_removed": null,
       "duration_ms": 169180,
       "name": "Assim Assim",
       "url": "https://open.spotify.com/track/2m0o8Mdg6SxG4ALP2bH00j"
@@ -916,7 +934,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-04",
+      "date_removed": null,
       "duration_ms": 310256,
       "name": "At\u00e9 Te Fazia",
       "url": "https://open.spotify.com/track/22Ij3Hrp6vLmGoe10bITwE"
@@ -956,7 +974,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-05",
+      "date_removed": null,
       "duration_ms": 198832,
       "name": "aventura",
       "url": "https://open.spotify.com/track/1vfTcheHkwGSSbNQjiaom8"
@@ -1010,7 +1028,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 152556,
       "name": "Azar o Teu",
       "url": "https://open.spotify.com/track/3b5W0fBorvtDeciKa0rSe8"
@@ -1072,7 +1090,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 146564,
       "name": "BAG",
       "url": "https://open.spotify.com/track/7utsad5kHaDF8V0P8WFEZx"
@@ -1470,7 +1488,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-04",
+      "date_removed": null,
       "duration_ms": 185576,
       "name": "Caminho",
       "url": "https://open.spotify.com/track/6a1OsFyxays4Jm5dSS5skj"
@@ -1542,7 +1560,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-04",
+      "date_removed": null,
       "duration_ms": 224347,
       "name": "cansada de ti",
       "url": "https://open.spotify.com/track/2eQaSvC6yEnXbBPNX23DM3"
@@ -1654,7 +1672,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 220343,
       "name": "Cetam",
       "url": "https://open.spotify.com/track/2MLB1Yr7ZCXP54kjWSwVNX"
@@ -1766,7 +1784,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-08",
+      "date_removed": null,
       "duration_ms": 200500,
       "name": "Chelas",
       "url": "https://open.spotify.com/track/0VzOLgOKDgkA0DGc8X5MYV"
@@ -2058,7 +2076,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 202436,
       "name": "Come\u00e7ar tudo outra vez",
       "url": "https://open.spotify.com/track/5LojwPhGKeIh69LfOTckSJ"
@@ -2112,7 +2130,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 202440,
       "name": "como se in\u00edcio",
       "url": "https://open.spotify.com/track/30yMiAaJXtU6mMFOHR4ETq"
@@ -2240,7 +2258,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 163800,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/3uWXhajyf1xCVIfYGxHSnQ"
@@ -2276,7 +2294,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 237333,
       "name": "Contra O Vento",
       "url": "https://open.spotify.com/track/2o1kLp5UZwIRloS2kjvPlG"
@@ -2402,7 +2420,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 180468,
       "name": "Cristaliza",
       "url": "https://open.spotify.com/track/6wS8IWbQbDDs9ptDrSMnc9"
@@ -2756,7 +2774,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-02",
+      "date_removed": null,
       "duration_ms": 260061,
       "name": "del\u00edrios mensais",
       "url": "https://open.spotify.com/track/3cx5XFljN7ctdY0eMjmC6l"
@@ -2774,7 +2792,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 201600,
       "name": "Desconhecidos",
       "url": "https://open.spotify.com/track/1LJqrYczieYdQDtjHaH1wW"
@@ -3106,7 +3124,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 179076,
       "name": "Dormente",
       "url": "https://open.spotify.com/track/5WKwElSme2Jmoyt1jbFGa7"
@@ -3178,7 +3196,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-04",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Dum Durum",
       "url": "https://open.spotify.com/track/6RCx3JQ1BatALyi7tAXRt2"
@@ -3412,7 +3430,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 152313,
       "name": "Escuro",
       "url": "https://open.spotify.com/track/1dfY2YzTOshmVyd4KLWya5"
@@ -3430,7 +3448,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 172000,
       "name": "ESPELHO",
       "url": "https://open.spotify.com/track/1mKt2lAzDqrYzE2B5oIOFL"
@@ -3448,7 +3466,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 197613,
       "name": "Espera",
       "url": "https://open.spotify.com/track/33pgVDXFcL4CeAE69XqEs2"
@@ -3538,7 +3556,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 160000,
       "name": "Estrela Cadente",
       "url": "https://open.spotify.com/track/3mxgU9nZVpcMknqF1nQYfi"
@@ -3592,7 +3610,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 202750,
       "name": "Eu Disse Adeus",
       "url": "https://open.spotify.com/track/1nE2XZ5H2WGy7zXwMC0fj8"
@@ -3808,7 +3826,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 261924,
       "name": "Festa da Boa",
       "url": "https://open.spotify.com/track/3qFlddJvzBxJJ5z0Bacou8"
@@ -4064,7 +4082,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 164571,
       "name": "FLEX",
       "url": "https://open.spotify.com/track/1jLWGpo6KWHDknCPz4Zltm"
@@ -4176,7 +4194,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 185856,
       "name": "Forma",
       "url": "https://open.spotify.com/track/7IY4vvXSzvC9NG2QbbOiCz"
@@ -4454,7 +4472,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-05",
+      "date_removed": null,
       "duration_ms": 177360,
       "name": "Goodnight",
       "url": "https://open.spotify.com/track/2zBVLxBa67NP7rO4wjJMmP"
@@ -4544,7 +4562,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-05",
+      "date_removed": null,
       "duration_ms": 188389,
       "name": "Grog d'Pilha",
       "url": "https://open.spotify.com/track/38y0HYQgnw8Y6VuTOAFmkx"
@@ -4976,7 +4994,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 206117,
       "name": "Jackie Chan!",
       "url": "https://open.spotify.com/track/7HECEbLSDrBEtVEsJ2QiwY"
@@ -5356,7 +5374,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 224303,
       "name": "Lava",
       "url": "https://open.spotify.com/track/7uhyatxcp9QpRI0FNL8DvA"
@@ -5374,7 +5392,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 201186,
       "name": "Lembra-me De Respirar",
       "url": "https://open.spotify.com/track/7lTI3jgO3FG4XvlwlpRbRd"
@@ -5428,7 +5446,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 222250,
       "name": "Liberdade",
       "url": "https://open.spotify.com/track/6ANtLretTUmIOw3tBc9LyN"
@@ -5554,7 +5572,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 131520,
       "name": "Lisboa e o Fado",
       "url": "https://open.spotify.com/track/0qorcjpSohxYGB6ZybGNXU"
@@ -5666,7 +5684,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-04",
+      "date_removed": null,
       "duration_ms": 229333,
       "name": "Lourdes",
       "url": "https://open.spotify.com/track/24hRsmQ5wftbfAbWu3sQUN"
@@ -5792,7 +5810,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 275906,
       "name": "Madrid Ou Pequim",
       "url": "https://open.spotify.com/track/2liftLLxeIN4RSdqloixtD"
@@ -5810,7 +5828,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-05",
+      "date_removed": null,
       "duration_ms": 176770,
       "name": "Mais Nada",
       "url": "https://open.spotify.com/track/2DDBR1QD9d9Qjg0a1hwOAJ"
@@ -5850,6 +5868,24 @@
       "duration_ms": 168510,
       "name": "Mais Que Ao Sol",
       "url": "https://open.spotify.com/track/1kf99fR0FT7l5FqRZJFFU5"
+    },
+    {
+      "album": {
+        "name": "De Sombra A Sombra",
+        "url": "https://open.spotify.com/album/1B4sUTPixJzind9Ayu7soa"
+      },
+      "artists": [
+        {
+          "name": "Milhanas",
+          "url": "https://open.spotify.com/artist/4NbHlXvmfisJ4e9tNkTqgC"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168510,
+      "name": "Mais Que Ao Sol",
+      "url": "https://open.spotify.com/track/3G9qYQACEef9f4IK10WzwS"
     },
     {
       "album": {
@@ -5936,7 +5972,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 204705,
       "name": "MALHAO DO RAPAZ DA CIDADE",
       "url": "https://open.spotify.com/track/2y1iYieTINAXMBBPZnSGXS"
@@ -6116,7 +6152,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 155667,
       "name": "ME DEIXOU",
       "url": "https://open.spotify.com/track/6EHlmwn16PdJCoHfkkoWnG"
@@ -6170,7 +6206,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-04",
+      "date_removed": null,
       "duration_ms": 139039,
       "name": "Menina Da Praia",
       "url": "https://open.spotify.com/track/6XjKdI4vpyYxBTKQUKubti"
@@ -6224,7 +6260,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-03",
+      "date_removed": null,
       "duration_ms": 291283,
       "name": "merc\u00fario retr\u00f3grado",
       "url": "https://open.spotify.com/track/6gJKY5S6exkeLg1lQOJF5H"
@@ -6498,7 +6534,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-05",
+      "date_removed": null,
       "duration_ms": 219960,
       "name": "Murm\u00fario",
       "url": "https://open.spotify.com/track/7apGWzMY7mKXvXCaHQRbQe"
@@ -6516,7 +6552,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-01",
+      "date_removed": null,
       "duration_ms": 206226,
       "name": "M\u00e1zia",
       "url": "https://open.spotify.com/track/4W2eyKnZa4iDpOM0B7fBpY"
@@ -6820,7 +6856,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-03",
+      "date_removed": null,
       "duration_ms": 189817,
       "name": "Nha Kabelu (feat. Nayela)",
       "url": "https://open.spotify.com/track/13t0QukUq6xgwBHGRUcV4C"
@@ -6878,7 +6914,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 185086,
       "name": "NINA",
       "url": "https://open.spotify.com/track/3yyijjMIkv150JXDmBpdZ2"
@@ -6896,7 +6932,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-06",
+      "date_removed": null,
       "duration_ms": 152537,
       "name": "Ninja",
       "url": "https://open.spotify.com/track/6rFrw2q9nHux9FnZkmlzYd"
@@ -6968,7 +7004,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-06",
+      "date_removed": null,
       "duration_ms": 161431,
       "name": "Nos Meus Len\u00e7\u00f3is",
       "url": "https://open.spotify.com/track/7DgpAZhwqBYWnIAfpqCfT4"
@@ -7174,7 +7210,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-01",
+      "date_removed": null,
       "duration_ms": 253066,
       "name": "Nyanyana",
       "url": "https://open.spotify.com/track/686Gapb3LQuK8LhfYcnYG9"
@@ -7232,7 +7268,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 305879,
       "name": "N\u00e3o Pensar",
       "url": "https://open.spotify.com/track/0hQJGdIWWlUFycH01GVjmT"
@@ -7362,7 +7398,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 137087,
       "name": "N\u00e3o Vales Nada",
       "url": "https://open.spotify.com/track/15Z4aCDU6w9ZQVhRMm9zDz"
@@ -7380,7 +7416,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-04",
+      "date_removed": null,
       "duration_ms": 161109,
       "name": "N\u00e3o Voltes",
       "url": "https://open.spotify.com/track/4YruHUe2FsBDjogFkvKilL"
@@ -7416,7 +7452,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-04",
+      "date_removed": null,
       "duration_ms": 191706,
       "name": "N\u00e3o V\u00e1s J\u00e1",
       "url": "https://open.spotify.com/track/4DYmYAfqfZuByZVkMzKo8s"
@@ -7434,7 +7470,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 158871,
       "name": "N\u00e3o \u00e9 um trabalho",
       "url": "https://open.spotify.com/track/3OMuG1EbpHcfK34PxBwDFI"
@@ -7470,10 +7506,28 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 180000,
       "name": "O Problema Sou Eu",
       "url": "https://open.spotify.com/track/39SwwhEyeSBFzdFx1KES1t"
+    },
+    {
+      "album": {
+        "name": "Portuguesa",
+        "url": "https://open.spotify.com/album/3YYC6lQ2PV71ncQrJbV1HE"
+      },
+      "artists": [
+        {
+          "name": "Carminho",
+          "url": "https://open.spotify.com/artist/6I1r8xKn6bCeionvZVdzdR"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "O quarto (fado Pagem)",
+      "url": "https://open.spotify.com/track/1RRPG0YWTTMI5Npos4XrK4"
     },
     {
       "album": {
@@ -7708,7 +7762,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-04",
+      "date_removed": null,
       "duration_ms": 213760,
       "name": "os croquetes acabam",
       "url": "https://open.spotify.com/track/3Kv9393GtI3N8MCxZBW8xf"
@@ -7744,7 +7798,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 178928,
       "name": "OUTRA",
       "url": "https://open.spotify.com/track/0HAoJZJ0if9BmP82Kpdm7x"
@@ -8003,6 +8057,24 @@
     },
     {
       "album": {
+        "name": "hortel\u00e3",
+        "url": "https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270635,
+      "name": "oxal\u00e1",
+      "url": "https://open.spotify.com/track/7mAJkfcgzu9NWSxZzgc94e"
+    },
+    {
+      "album": {
         "name": "oxal\u00e1",
         "url": "https://open.spotify.com/album/7bmqrprnXd6k06srmXagPF"
       },
@@ -8130,7 +8202,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 137768,
       "name": "Passos Certos",
       "url": "https://open.spotify.com/track/0l4knsqSxGEUExtuv7dHhr"
@@ -8440,7 +8512,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 222210,
       "name": "Podes Ficar",
       "url": "https://open.spotify.com/track/3jjScb8B10lvzttFAtvmHa"
@@ -8584,7 +8656,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 196000,
       "name": "pose",
       "url": "https://open.spotify.com/track/0nHZgaP0A7dCkSFDGcR2qH"
@@ -9050,7 +9122,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 179081,
       "name": "Queen Size",
       "url": "https://open.spotify.com/track/6j5QPkoQOgD1RDzLENv78B"
@@ -9306,7 +9378,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 176357,
       "name": "Respirar",
       "url": "https://open.spotify.com/track/1ltBbJNKFNKz8K7yekj5T6"
@@ -9652,7 +9724,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-05",
+      "date_removed": null,
       "duration_ms": 229566,
       "name": "se queres voar",
       "url": "https://open.spotify.com/track/2ZBrnF19ERWXnHh51bAU3u"
@@ -9818,7 +9890,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-04",
+      "date_removed": null,
       "duration_ms": 204138,
       "name": "Sente-me",
       "url": "https://open.spotify.com/track/6ySYTYcp4mryfcZ2LNfnv2"
@@ -9902,7 +9974,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-04",
+      "date_removed": null,
       "duration_ms": 217400,
       "name": "Ser\u00e1 o que Ser\u00e1",
       "url": "https://open.spotify.com/track/13zIXFdZlVUvzVDcdOyUso"
@@ -9920,7 +9992,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-06",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Ser\u00e1 Que Tu V\u00eas",
       "url": "https://open.spotify.com/track/1UjN8fGtex4VXwfh3DkLU3"
@@ -9978,7 +10050,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-06",
+      "date_removed": null,
       "duration_ms": 246000,
       "name": "Sinergy",
       "url": "https://open.spotify.com/track/6psG1I3i4mW8Fe97svskoK"
@@ -10282,7 +10354,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-06",
+      "date_removed": null,
       "duration_ms": 243720,
       "name": "Surpresa",
       "url": "https://open.spotify.com/track/1LnBHgrh0ugqJLkBKqPzi3"
@@ -10318,7 +10390,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 208117,
       "name": "S\u00f3 d\u00e1 voc\u00ea",
       "url": "https://open.spotify.com/track/3MeMie4MYEbJPGDc0XoqbK"
@@ -10336,7 +10408,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-06",
+      "date_removed": null,
       "duration_ms": 229347,
       "name": "S\u00f3 N\u00f3s 2",
       "url": "https://open.spotify.com/track/2u9wh68pKs26SY0N18d8U3"
@@ -10354,7 +10426,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 189802,
       "name": "S\u00f3 Tu",
       "url": "https://open.spotify.com/track/5WlWZOXZdy9mA3b9GygJWa"
@@ -10524,7 +10596,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 201846,
       "name": "Tensa",
       "url": "https://open.spotify.com/track/3dnpcmta1PYyK7KnBQmk5p"
@@ -10578,7 +10650,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-05",
+      "date_removed": null,
       "duration_ms": 170548,
       "name": "Teu Corpo",
       "url": "https://open.spotify.com/track/0iMMM4RZlHlAzO6SUoTZem"
@@ -10765,7 +10837,7 @@
     },
     {
       "album": {
-        "name": "Trompete",
+        "name": "TROMPETE",
         "url": "https://open.spotify.com/album/6xGbYgroEdQLyEMdSeQqeS"
       },
       "artists": [
@@ -10780,9 +10852,9 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-01",
+      "date_removed": null,
       "duration_ms": 257137,
-      "name": "Trompete",
+      "name": "TROMPETE",
       "url": "https://open.spotify.com/track/2PEIsEdhCs1ykvN9tY6erM"
     },
     {
@@ -10928,7 +11000,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 171878,
       "name": "T\u00eate-\u00c0-T\u00eate",
       "url": "https://open.spotify.com/track/0kj8OUOm2jWCjoFbYyNUck"
@@ -11090,7 +11162,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 283546,
       "name": "Vem Dizer",
       "url": "https://open.spotify.com/track/3zgO5yp5hG3OLrW0H2BFeu"
@@ -11220,7 +11292,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-01",
+      "date_removed": null,
       "duration_ms": 192750,
       "name": "voltarpramim",
       "url": "https://open.spotify.com/track/2yCPz8xE5n5hyaunPjZ5T8"
@@ -11400,7 +11472,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 177428,
       "name": "Where I Belong",
       "url": "https://open.spotify.com/track/3rpDGQIIB4wQuvD83974Xg"
@@ -11506,7 +11578,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-04",
+      "date_removed": null,
       "duration_ms": 166298,
       "name": "Yo No Cambio Nada",
       "url": "https://open.spotify.com/track/6PV5RuhCHMKaRak7CueUdg"

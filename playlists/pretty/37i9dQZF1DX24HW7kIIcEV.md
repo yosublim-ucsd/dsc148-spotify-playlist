@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24HW7kIIcEV.md) - [plain]
 
 > this is what dreams are made of!
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,514 likes - 85 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,830 likes - 85 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24HW7kIIcEV.md) - [plain]
 | 75 | [Can't Help Falling In Love](https://open.spotify.com/track/6zLXWVAskybBaM2L5rCxiG) | [A\*Teens](https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9) | [Lilo & Stitch](https://open.spotify.com/album/0tNLpUZfJKyxMS0nKlnyXP) | 3:07 |
 | 76 | [So Far So Great \- Theme Song to Sonny with a Chance](https://open.spotify.com/track/6bggFlWw1UcfiYepg8B3KH) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Here We Go Again](https://open.spotify.com/album/01yg4gm9pFOJbwQKj46ZYK) | 2:14 |
 | 77 | [When You Look Me In The Eyes](https://open.spotify.com/track/4kf33kU0KAlkNBK9pNbYNU) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Jonas Brothers](https://open.spotify.com/album/4myOCm6FzD9TMdK7Q0Nzx0) | 4:09 |
-| 78 | [Hero](https://open.spotify.com/track/3q3pZHncNkvIWJebMeuQqQ) | [Christopher Wilde](https://open.spotify.com/artist/533HtQP5btWIZcKlHJtEWK), [Stubby](https://open.spotify.com/artist/0HsUBJ2C2wSkazmGH7cTvq) | [StarStruck](https://open.spotify.com/album/3FmqQtzrqovhBNjJfqTjsx) | 3:16 |
+| 78 | [Hero](https://open.spotify.com/track/3q3pZHncNkvIWJebMeuQqQ) | [Christopher Wilde](https://open.spotify.com/artist/533HtQP5btWIZcKlHJtEWK) | [StarStruck](https://open.spotify.com/album/3FmqQtzrqovhBNjJfqTjsx) | 3:16 |
 | 79 | [What You Mean to Me](https://open.spotify.com/track/6hXYNf8WmAI8SOhEzohUrn) | [Christopher Wilde](https://open.spotify.com/artist/533HtQP5btWIZcKlHJtEWK) | [StarStruck](https://open.spotify.com/album/3FmqQtzrqovhBNjJfqTjsx) | 4:17 |
 | 80 | [Pop Princess](https://open.spotify.com/track/4KOfCjk1xnMphqkmbn7yYN) | [The Click Five](https://open.spotify.com/artist/01lz5VBfkMFDteSA9pKJuP) | [Greetings From Imrie House \(U.S\. Version\)](https://open.spotify.com/album/7gZilZGYr8M7UwEeYvdAKZ) | 4:18 |
 | 81 | [I Wanna Know You](https://open.spotify.com/track/6ftcAmQPmGbk7Gkr5MJe4T) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana 3](https://open.spotify.com/album/0bKrYLZrKCH5qGzgwPxLcl) | 2:46 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24HW7kIIcEV.md) - [plain]
 | 84 | [Jump To The Rhythm](https://open.spotify.com/track/4QFbZ1cSkL718J6A8cMJdA) | [Jordan Pruitt](https://open.spotify.com/artist/1JfkqBTXs6VC3JZ7RJNu7h) | [No Ordinary Girl](https://open.spotify.com/album/3ZN6vRXDZhoYf9Zdc5ubpE) | 3:47 |
 | 85 | [Make You Believe](https://open.spotify.com/track/6IvOCyrwW7VuCjQFCD7h7r) | [Lucy Hale](https://open.spotify.com/artist/4gWAItIMhYCdD82T8tvv3T) | [A Cinderella Story: Once Upon A Song \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5fDujJMK88H9vZYRjVb2Bz) | 3:31 |
 
-Snapshot ID: `MCwxYWMyZDc3ZGI4YzBlMzU0ZDk0NzVhZDI0YTJlODNhYTNiZDI0ZDAz`
+Snapshot ID: `MCwwNDcwZjkwYjBiZmRlZmU4MzYyMmM2ZGE0MDJlN2M1MjBmMmUwNDcx`

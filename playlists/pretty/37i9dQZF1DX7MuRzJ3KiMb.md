@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 
 > el amor es <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,434 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,502 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 30 | [Miel](https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Miel](https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B) | 2:04 |
 | 31 | [86.400](https://open.spotify.com/track/3AncVybdw2UmiT8ulIGScN) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Sensaciones](https://open.spotify.com/album/7Hr8FOf7NQIe7UhLcllXq9) | 1:08 |
 | 32 | [Me Gustas Más Que Salir a Fumar](https://open.spotify.com/track/3e5qNP3CSArQiLLBMJQkUM) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Me Gustas Más Que Salir a Fumar](https://open.spotify.com/album/0D1v1FFqRnSxLhxbU93gvs) | 3:23 |
-| 33 | [Sólo Tú](https://open.spotify.com/track/3YdrHNjaBSOO71L3tyH3Iz) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Sólo Tú](https://open.spotify.com/album/4CGAThyWRrQJ2P8TcHiUob) | 3:07 |
-| 34 | [Como Tú](https://open.spotify.com/track/7BuDf00x8RNcMTlNaxE70f) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [ECOS](https://open.spotify.com/album/49Qd6nYCgc2ra4E3TJHEty) | 3:13 |
+| 33 | [Como Tú](https://open.spotify.com/track/7BuDf00x8RNcMTlNaxE70f) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [ECOS](https://open.spotify.com/album/49Qd6nYCgc2ra4E3TJHEty) | 3:13 |
+| 34 | [Sólo Tú](https://open.spotify.com/track/3YdrHNjaBSOO71L3tyH3Iz) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Sólo Tú](https://open.spotify.com/album/4CGAThyWRrQJ2P8TcHiUob) | 3:07 |
 | 35 | [Permanente](https://open.spotify.com/track/3lDXncCCsimJ17cHYodtRl) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Permanente](https://open.spotify.com/album/5CCwwqcE6HCHSBYgRNS4zz) | 3:55 |
 | 36 | [Siempre Te Voy a Querer](https://open.spotify.com/track/2f0LLHCip3EIflKwKlSAJV) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Los Días en la Sala](https://open.spotify.com/album/3n8yXa8oKTRbja348a3V45) | 2:43 |
 | 37 | [Fin Del Mundo \(with Bratty\)](https://open.spotify.com/track/4bWKxHYB7QGYobbiQawHXQ) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Fantasy Gateway](https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM) | 2:54 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 63 | [Bolero Estelar](https://open.spotify.com/track/46ZNN9JUQFl0LXiTLKKkMZ) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Bolero Estelar](https://open.spotify.com/album/5m0fMRnEneLg8pZaoL9F4E) | 3:58 |
 | 64 | [Pasatiempo](https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:02 |
 | 65 | [La Final](https://open.spotify.com/track/0Zqpxe6UdF80IYommiUV3j) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [La Final](https://open.spotify.com/album/2sqCeR4NoJOJ6wN2mkiOP3) | 3:18 |
-| 66 | [Señorita](https://open.spotify.com/track/7IOwZ2dsEZCg2NCeX7MCsm) | [Felipe Botello y El Sonoro Rugir](https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr) | [Señorita](https://open.spotify.com/album/6j6DsW88KYbKSe7qrzJLPE) | 3:29 |
-| 67 | [Te Encontré](https://open.spotify.com/track/1LlyK223zyuDRCRjJbWPue) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Tu Historia](https://open.spotify.com/album/37hygnVgTNDZxFQ9FJMLII) | 3:32 |
+| 66 | [Te Encontré](https://open.spotify.com/track/1LlyK223zyuDRCRjJbWPue) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Tu Historia](https://open.spotify.com/album/37hygnVgTNDZxFQ9FJMLII) | 3:32 |
+| 67 | [Señorita](https://open.spotify.com/track/7IOwZ2dsEZCg2NCeX7MCsm) | [Felipe Botello y El Sonoro Rugir](https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr) | [Señorita](https://open.spotify.com/album/6j6DsW88KYbKSe7qrzJLPE) | 3:29 |
 | 68 | [Hubo Algo](https://open.spotify.com/track/2mjfefMcjK9w6cN6oE5xV4) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Hubo Algo](https://open.spotify.com/album/5pJYHPBXmibLJSFDSUYeaM) | 5:11 |
 | 69 | [Volver](https://open.spotify.com/track/0PSmtygePqmxByr5eh0HST) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Volver](https://open.spotify.com/album/68M1eXLRiP9zLQOZbmSth7) | 3:10 |
 | 70 | [Bonito](https://open.spotify.com/track/0QvLRuiBiNN1BWa2oVKvNA) | [Mau Moctezuma](https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q), [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Bonito](https://open.spotify.com/album/6LyiWORGEUBMbphHMdZNSL) | 3:03 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 74 | [Para la Eternidad](https://open.spotify.com/track/7irtPPH6Jdb4n8dh2DRCFy) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Jonaz](https://open.spotify.com/artist/3Qldsib1smRXVBihCbSKrV) | [45 RPM](https://open.spotify.com/album/7A8QtKKDMM2Rs91Sq5fcfr) | 4:23 |
 | 75 | [Ir por un Café](https://open.spotify.com/track/0oYWgghilCHzscMzQOVONP) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF) | [Ir por un Café](https://open.spotify.com/album/56uFQSAHC1c2PwWux1GeaD) | 3:20 |
 
-Snapshot ID: `MCxiYzY3YWMxN2UxMzUzOTE2NDkxNTNiODRmZmI5MzliMzk0MzFlMWFj`
+Snapshot ID: `MCwyOGVjZTQxOWFmOTZiYmNiZWFmMzc2Njg2ZGU1YmJmOGRmZmQzNGNi`

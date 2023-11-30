@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Drax Project
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,319 likes - 88 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,355 likes - 88 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 7 | [Stay High](https://open.spotify.com/track/7LXimIqTYO76Utly8VFABu) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Stay High](https://open.spotify.com/album/3E3JRB0gGzHuc56GB3hUPJ) | 3:08 |
 | 8 | [The Way \(Faraway Downs Theme\) \- From "Faraway Downs"](https://open.spotify.com/track/7ffAS0WDXtx7GQ2rjTvcoI) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [The Way \(Faraway Downs Theme\) \[From "Faraway Downs"\]](https://open.spotify.com/album/755yHPrtRKmlnSF8wKazgc) | 2:27 |
 | 9 | [Oral](https://open.spotify.com/track/6VCNxAwxA83j2jE3QZpYPr) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Oral](https://open.spotify.com/album/0Jldmuyjx6v7nMefI7y00r) | 3:42 |
-| 10 | [Throw Your Arms Around Me](https://open.spotify.com/track/0CVwSCQOx3CMHjwDCmaElh) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Mushroom: 50 Years Of Making Noise \(Reimagined\)](https://open.spotify.com/album/4SRtPtUkg4izzJZ2Kr2LMJ) | 3:03 |
+| 10 | [Throw Your Arms Around Me](https://open.spotify.com/track/0CVwSCQOx3CMHjwDCmaElh) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Mushroom: 50 Years of Making Noise \(Reimagined\)](https://open.spotify.com/album/4SRtPtUkg4izzJZ2Kr2LMJ) | 3:03 |
 | 11 | [Miracles](https://open.spotify.com/track/0132woHTsOzDxlfVs3PuqO) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [Miracles](https://open.spotify.com/album/4TlsN3iiRcwKrxG8TiQ015) | 3:03 |
 | 12 | [Memory Lane](https://open.spotify.com/track/7hHrs2q5c5rtzHLJ2DKHTT) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Memory Lane & Winter Song](https://open.spotify.com/album/5IvpvVd9LKgHACcUSHL5Y8) | 3:12 |
 | 13 | [ROBOSHOTTA \(feat\. Burna Boy\)](https://open.spotify.com/track/7DiylLh1Kdcd1q1dWRcJNq) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [BLOCKBUSTA](https://open.spotify.com/album/4XN6Kx1iUxtuhuAfh0zqZN) | 2:05 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 48 | [Skinfade](https://open.spotify.com/track/4UCEIGRovOmBuJz0oOHjI2) | [M1onTheBeat](https://open.spotify.com/artist/7gOJzXf9msdY8JUhMQypSH), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [M1onTheBeat The Mixtape](https://open.spotify.com/album/2eNxE5vYk1YgZGQx6BT8UL) | 2:02 |
 | 49 | [LA FALDA](https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 2:54 |
 | 50 | [I Don't Wanna Know](https://open.spotify.com/track/0e54hafB9PLkwhpzLJabDS) | [Chloe Parché](https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov) | [I Don't Wanna Know](https://open.spotify.com/album/7tMuu6I26M8lLhS7dQo3Bm) | 3:50 |
-| 51 | [SEE YOU TRY...](https://open.spotify.com/track/2wQl3xTp4Xc0L37BSKY7py) | [Yawdoesitall](https://open.spotify.com/artist/3TtvX6o3U5yzsEIAw0Ls1P), [Yasmina Sadiki](https://open.spotify.com/artist/1GMfLePMU7XpevYhEltnpN), [TAWANDA](https://open.spotify.com/artist/3F4FCqwmeTAp08WDVG9li5), [DEVAURA](https://open.spotify.com/artist/7MPlrCtiMvRiqSuww4uSiX) | [SEE YOU TRY...](https://open.spotify.com/album/1Jehaxde2CWArAasfAVvkV) | 3:00 |
+| 51 | [SEE YOU TRY...](https://open.spotify.com/track/2wQl3xTp4Xc0L37BSKY7py) | [Yawdoesitall](https://open.spotify.com/artist/3TtvX6o3U5yzsEIAw0Ls1P), [Yasmina Sadiki](https://open.spotify.com/artist/4t29fzCiwTpsufS6mOOdgh), [TAWANDA](https://open.spotify.com/artist/3F4FCqwmeTAp08WDVG9li5), [DEVAURA](https://open.spotify.com/artist/7MPlrCtiMvRiqSuww4uSiX) | [SEE YOU TRY...](https://open.spotify.com/album/1Jehaxde2CWArAasfAVvkV) | 3:00 |
 | 52 | [You Nice](https://open.spotify.com/track/1m72s5AsmYdgofTN3cHtYC) | [Mike Akox](https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp) | [You Nice](https://open.spotify.com/album/2RQYc38nSd1GeGc4xRrPNB) | 3:39 |
 | 53 | [Outside](https://open.spotify.com/track/5HUxZN7PuTML2SkJnBuP5a) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [King Zoo](https://open.spotify.com/album/1fboUYBvu86pCmFNrLb615) | 1:58 |
 | 54 | [Me & You](https://open.spotify.com/track/2RwplCLcXj175j64LoxSIq) | [Lepani](https://open.spotify.com/artist/2BP4XXvv9754tQZ0Pumcml), [Divided](https://open.spotify.com/artist/066oX6JvEDNhAOQRkuR7Q1) | [Me & You](https://open.spotify.com/album/0HOJk8CVRGIlvKplT4zPgD) | 3:18 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 87 | [Heaven](https://open.spotify.com/track/5qpL3VKrTeaCxfDwICBRXn) | [Ocean Sleeper](https://open.spotify.com/artist/04LbaB3D3XOMbfPnWmObAi) | [Heaven](https://open.spotify.com/album/57hsuGuUiT3XmEQi3VymM7) | 3:29 |
 | 88 | [Second Chances](https://open.spotify.com/track/3sI8AhKWC5rD000cZR1BZG) | [Complete](https://open.spotify.com/artist/7Fe4vD5WyjtFxlxSO0d7lP) | [Second Chances](https://open.spotify.com/album/3ktZAWNj6CLs5EwA9i0WMu) | 2:43 |
 
-Snapshot ID: `MCw1MGEyMTc1MTgwNTY2YzU5MzIzZjhiMzE0NWI0ZDhkNTVjOTE0MTli`
+Snapshot ID: `MCxlZWFkZjYxMGI2NDEwMDFiYWY0Zjg3NzM0YWM3NTY3ZjU4ZmZkNDdi`

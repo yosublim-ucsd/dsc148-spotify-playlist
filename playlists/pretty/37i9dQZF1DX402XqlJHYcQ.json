@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicos del rock en ingl\u00e9s y en espa\u00f1ol. Foto: Radiohead",
-  "num_followers": 126821,
+  "num_followers": 126924,
   "original_name": "rock X rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTU4MDlmYTVjZWJmOWQ3NzE5YzFkZWJlZmUxMDQyYmYxYWIwZWEx",
+  "snapshot_id": "MCxkMTVlYmI5YjU5Y2I3YjRiMDFmMWExMGVlMGQ2YjYwMjgxNTNiN2Mw",
   "tracks": [
     {
       "added_at": "2021-12-24 12:40:54",
@@ -91,18 +91,18 @@
     {
       "added_at": "2021-12-24 12:40:54",
       "album": {
-        "name": "Appetite For Destruction",
-        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
+        "name": "Dizzy up the Girl",
+        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
       },
       "artists": [
         {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
         }
       ],
-      "duration_ms": 356066,
-      "name": "Sweet Child O' Mine",
-      "url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW"
+      "duration_ms": 289533,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
     },
     {
       "added_at": "2021-12-24 12:40:54",
@@ -123,18 +123,18 @@
     {
       "added_at": "2021-12-24 12:40:54",
       "album": {
-        "name": "Dizzy up the Girl",
-        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
       },
       "artists": [
         {
-          "name": "The Goo Goo Dolls",
-          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 289533,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
+      "duration_ms": 356066,
+      "name": "Sweet Child O' Mine",
+      "url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW"
     },
     {
       "added_at": "2021-12-24 12:40:54",
@@ -795,22 +795,6 @@
     {
       "added_at": "2021-12-24 12:40:54",
       "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 241306,
-      "name": "Dancing In the Dark",
-      "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
-    },
-    {
-      "added_at": "2021-12-24 12:40:54",
-      "album": {
         "name": "Big Bang",
         "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 222226,
       "name": "Lamento Boliviano",
       "url": "https://open.spotify.com/track/6Pur3hWy6Nzc27ilmsp5HA"
+    },
+    {
+      "added_at": "2021-12-24 12:40:54",
+      "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 241306,
+      "name": "Dancing In the Dark",
+      "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
     },
     {
       "added_at": "2021-12-24 12:40:54",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2021-12-24 12:40:54",
       "album": {
-        "name": "Led Zeppelin IV (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 482830,
-      "name": "Stairway to Heaven - Remaster",
-      "url": "https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc"
-    },
-    {
-      "added_at": "2021-12-24 12:40:54",
-      "album": {
         "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
         "url": "https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 254293,
       "name": "Starman - 2012 Remaster",
       "url": "https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq"
+    },
+    {
+      "added_at": "2021-12-24 12:40:54",
+      "album": {
+        "name": "Led Zeppelin IV (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 482830,
+      "name": "Stairway to Heaven - Remaster",
+      "url": "https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc"
     },
     {
       "added_at": "2021-12-24 12:40:54",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2021-12-24 12:40:54",
       "album": {
-        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
-        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 258773,
-      "name": "Wonderwall - Remastered",
-      "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
-    },
-    {
-      "added_at": "2021-12-24 12:40:54",
-      "album": {
         "name": "Nevermind (Remastered)",
         "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 301920,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T"
+    },
+    {
+      "added_at": "2021-12-24 12:40:54",
+      "album": {
+        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
+        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 258773,
+      "name": "Wonderwall - Remastered",
+      "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
     },
     {
       "added_at": "2021-12-24 12:40:54",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2021-12-24 12:40:54",
       "album": {
-        "name": "Breakfast In America (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
-      },
-      "artists": [
-        {
-          "name": "Supertramp",
-          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
-        }
-      ],
-      "duration_ms": 159346,
-      "name": "Breakfast In America - 2010 Remastered",
-      "url": "https://open.spotify.com/track/4a5pNRjwmzYQuEY1E7O6pj"
-    },
-    {
-      "added_at": "2021-12-24 12:40:54",
-      "album": {
         "name": "The Bends",
         "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 257480,
       "name": "High and Dry",
       "url": "https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf"
+    },
+    {
+      "added_at": "2021-12-24 12:40:54",
+      "album": {
+        "name": "Breakfast In America (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
+      },
+      "artists": [
+        {
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+        }
+      ],
+      "duration_ms": 159346,
+      "name": "Breakfast In America - 2010 Remastered",
+      "url": "https://open.spotify.com/track/4a5pNRjwmzYQuEY1E7O6pj"
     },
     {
       "added_at": "2021-12-24 12:40:54",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2021-12-24 12:40:54",
       "album": {
-        "name": "Once Upon A Time (Super Deluxe)",
-        "url": "https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm"
-      },
-      "artists": [
-        {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
-        }
-      ],
-      "duration_ms": 263040,
-      "name": "Don't You (Forget About Me)",
-      "url": "https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9"
-    },
-    {
-      "added_at": "2021-12-24 12:40:54",
-      "album": {
         "name": "In Your Honor",
         "url": "https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 255626,
       "name": "Best of You",
       "url": "https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp"
+    },
+    {
+      "added_at": "2021-12-24 12:40:54",
+      "album": {
+        "name": "Once Upon A Time (Super Deluxe)",
+        "url": "https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "duration_ms": 263040,
+      "name": "Don't You (Forget About Me)",
+      "url": "https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9"
     },
     {
       "added_at": "2021-12-24 12:40:54",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2021-12-24 12:40:54",
       "album": {
-        "name": "Toulouse Street",
-        "url": "https://open.spotify.com/album/2x1Yi30lsWJUoBj1kmovnm"
-      },
-      "artists": [
-        {
-          "name": "The Doobie Brothers",
-          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
-        }
-      ],
-      "duration_ms": 227266,
-      "name": "Listen to the Music",
-      "url": "https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5"
-    },
-    {
-      "added_at": "2021-12-24 12:40:54",
-      "album": {
         "name": "Born In The U.S.A.",
         "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 155880,
       "name": "I'm On Fire",
       "url": "https://open.spotify.com/track/3PzsbWSQdLCKDLxn7YZfkM"
+    },
+    {
+      "added_at": "2021-12-24 12:40:54",
+      "album": {
+        "name": "Toulouse Street",
+        "url": "https://open.spotify.com/album/2x1Yi30lsWJUoBj1kmovnm"
+      },
+      "artists": [
+        {
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+        }
+      ],
+      "duration_ms": 227266,
+      "name": "Listen to the Music",
+      "url": "https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5"
     },
     {
       "added_at": "2021-12-24 12:40:54",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2021-12-24 12:40:54",
       "album": {
-        "name": "Who's Next (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 300400,
-      "name": "Baba O'Riley",
-      "url": "https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD"
-    },
-    {
-      "added_at": "2021-12-24 12:40:54",
-      "album": {
         "name": "Get Born",
         "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 213800,
       "name": "Are You Gonna Be My Girl",
       "url": "https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6"
+    },
+    {
+      "added_at": "2021-12-24 12:40:54",
+      "album": {
+        "name": "Who's Next (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 300400,
+      "name": "Baba O'Riley",
+      "url": "https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD"
     }
   ],
   "unique_name": "rock X rock",

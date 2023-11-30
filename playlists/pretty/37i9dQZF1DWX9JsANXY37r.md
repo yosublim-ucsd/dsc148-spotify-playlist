@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 
 > beber gin em casa, nada melhor
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,895 likes - 60 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,029 likes - 60 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,17 +25,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 | 15 | [Keep Moving](https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh) | 4:00 |
 | 16 | [It Runs Through Me](https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Geography](https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW) | 4:21 |
 | 17 | [Pretty Please](https://open.spotify.com/track/6DXZiYUbrYgrVIhfX3U9Z2) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:14 |
-| 18 | [Over Now \(with The Weeknd\)](https://open.spotify.com/track/58AGoOGbwsQMhBbH0eFLRR) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Over Now \(with The Weeknd\)](https://open.spotify.com/album/3GPiefSRSOxqTrgKJIB7RL) | 3:30 |
-| 19 | [Everybody Loves The Sunshine](https://open.spotify.com/track/5le4sn0iMcnKU56bdmNzso) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Everybody Loves The Sunshine \(Reissue\)](https://open.spotify.com/album/5JehGpTedBPXzhUcwXoIlf) | 3:59 |
+| 18 | [Everybody Loves The Sunshine](https://open.spotify.com/track/5le4sn0iMcnKU56bdmNzso) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Everybody Loves The Sunshine \(Reissue\)](https://open.spotify.com/album/5JehGpTedBPXzhUcwXoIlf) | 3:59 |
+| 19 | [Over Now \(with The Weeknd\)](https://open.spotify.com/track/58AGoOGbwsQMhBbH0eFLRR) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Over Now \(with The Weeknd\)](https://open.spotify.com/album/3GPiefSRSOxqTrgKJIB7RL) | 3:30 |
 | 20 | [Flight's Booked](https://open.spotify.com/track/6Yj7Zhxt73uvwFFvzQXdxO) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:14 |
-| 21 | [On My Mind \(Jorja Smith X Preditah\)](https://open.spotify.com/track/1OxL1FWSEd7QmJoWLRP2NO) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Preditah](https://open.spotify.com/artist/5qYCZ5FQuzZSjOnesvuYiD) | [On My Mind \(Jorja Smith X Preditah\)](https://open.spotify.com/album/471LijcvJ7tV7ePoX4S0RE) | 3:01 |
-| 22 | [Paradise](https://open.spotify.com/track/4tReFKumS5bcFahdXDiM1b) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 3:37 |
+| 21 | [Paradise](https://open.spotify.com/track/4tReFKumS5bcFahdXDiM1b) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 3:37 |
+| 22 | [On My Mind \(Jorja Smith X Preditah\)](https://open.spotify.com/track/1OxL1FWSEd7QmJoWLRP2NO) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Preditah](https://open.spotify.com/artist/5qYCZ5FQuzZSjOnesvuYiD) | [On My Mind \(Jorja Smith X Preditah\)](https://open.spotify.com/album/471LijcvJ7tV7ePoX4S0RE) | 3:01 |
 | 23 | [Agitations tropicales](https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Odyssée \- EP](https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA) | 4:08 |
 | 24 | [Love Song \(feat\. Glasses\)](https://open.spotify.com/track/0fD6vPYWty2Jy4VVozWzfp) | [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH), [Glasses](https://open.spotify.com/artist/1aZqKXeEfZFRR4QvKvqi1g) | [33 000 FT.](https://open.spotify.com/album/1DP1CM6GndWiLkYKMudhek) | 2:50 |
 | 25 | [What You Need](https://open.spotify.com/track/4O9t8Qq941SAzdGlex4noA) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:03 |
 | 26 | [Cherry](https://open.spotify.com/track/5k44yc5bXO1XRedzjaugdQ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [For Ever](https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm) | 3:16 |
-| 27 | [Cry Your Heart Out](https://open.spotify.com/track/09u787BYeYIGd2mFIJ505t) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 4:15 |
-| 28 | [I Don't Know You](https://open.spotify.com/track/06cqIVC8kRAT02qfHQT65v) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. I](https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO) | 3:29 |
+| 27 | [I Don't Know You](https://open.spotify.com/track/06cqIVC8kRAT02qfHQT65v) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. I](https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO) | 3:29 |
+| 28 | [Cry Your Heart Out](https://open.spotify.com/track/09u787BYeYIGd2mFIJ505t) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 4:15 |
 | 29 | [Love's Train](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Love's Train](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) | 5:07 |
 | 30 | [ANGOSTURA](https://open.spotify.com/track/38umMmZQdeoOG7Zojor4g3) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:51 |
 | 31 | [Make It Better \(feat\. Smokey Robinson\)](https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 3:39 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 | 59 | [Quem Não Quer Sou Eu](https://open.spotify.com/track/7JFGnfONNe5vepbGwZBkhL) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Musica para Churrasco, Vol\. 1](https://open.spotify.com/album/3LVFK1YwvyZMU1u20U2dMg) | 5:26 |
 | 60 | [FIND YOUR WAY BACK](https://open.spotify.com/track/65kk9CAAqFI3LWBEhUwVqd) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 2:42 |
 
-Snapshot ID: `MCw2YjE5ZGUwODNiYTIxYmUwNzQ1NTJkYTUyNjA2MTYxZTMyODU1MTI3`
+Snapshot ID: `MCxiNWNmNDcyYWYxMmE3ZThkMTJhMzI3MjJmNjEyZjAyNTcxZjM3MGI5`

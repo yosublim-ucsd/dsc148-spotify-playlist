@@ -4,7 +4,7 @@
 
 > Fresh & new Christmas songs para los días festivos\. Cover: Matisse
 
-164 songs - 8 hr 52 min
+165 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [El Burrito De Belen \(El Burrito Sabanero\)](https://open.spotify.com/track/0WeJsUesMV7yXCKkpnteoD) | [La Rondallita](https://open.spotify.com/artist/3UjWu4XVz5QJs2KgqM3Eor) | [Feliz Navidad: El Burrito de Belen, Feliz Navidad, Triste Navidad, El Cascabel, El Burrito Sabanero, El Nacimiento y Mas](https://open.spotify.com/album/06LZvXxhqZhXri7wQtbTer) | 3:06 | 2022-12-18 | 2022-12-20 |
 | [El Burrito De Belén](https://open.spotify.com/track/1s8opuqalYMgW0fPM42kgE) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [El Burrito De Belen](https://open.spotify.com/album/2NLDIgiA60k5FukGh5vGHY) | 3:11 | 2021-12-15 | 2022-12-19 |
 | [El Burrito De Belén](https://open.spotify.com/track/7DxJqMhtaqJJNBROZxgj5u) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [El Burrito De Belen](https://open.spotify.com/album/3KD3ORPP0rNiWB8H4Ezkjg) | 3:11 | 2021-12-15 | 2022-07-29 |
+| [El Mejor Regalo](https://open.spotify.com/track/1IWAy4qkSoNrqCYTuYXlo2) | [Saak](https://open.spotify.com/artist/6n7rxaNHjaGIkfRmzEVHKU) | [El Mejor Regalo](https://open.spotify.com/album/4huFSpufroQjcBio8jr4JN) | 2:39 | 2023-11-24 |  |
 | [El Niño del Tambor](https://open.spotify.com/track/7pFXmdN6QMqwBc4ME6qptI) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg) | [La Mejor Música Navideña](https://open.spotify.com/album/1JWEolxSf2FPXP8akSKPrW) | 4:18 | 2022-12-18 | 2022-12-20 |
 | [El pequeño tamborilero](https://open.spotify.com/track/4IGpk6yRhP3Vk5t3NxIzSR) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Navidad En España](https://open.spotify.com/album/4C4U9Rmq9gdtAUreLkh5oO) | 3:03 | 2021-12-15 | 2022-12-20 |
 | [El Tamborilero](https://open.spotify.com/track/5MfxwmRXFzGsvn2yR0HI9v) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl), [MON SIERRA](https://open.spotify.com/artist/07AkiNkIfcD9XqqmqakiCK) | [Villancicos](https://open.spotify.com/album/0plHwd26dot1EiYNqE1imb) | 4:20 | 2022-11-25 |  |
@@ -103,7 +104,7 @@
 | [Más Allá \- Beyond](https://open.spotify.com/track/39hWBcO7wRuxaUF6iKc73q) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Abriendo Puertas](https://open.spotify.com/album/58L3coHWC8BOho10VpDHXV) | 5:22 | 2021-12-15 | 2022-12-20 |
 | [Navidad Contigo](https://open.spotify.com/track/481jZRK94eCVslwavhdY8n) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Jean & Alex](https://open.spotify.com/artist/2yq1SMEHxxNNXKf8Dx3S4V) | [Navidad Contigo](https://open.spotify.com/album/3VlditEUUTeSXRw4r3RFGn) | 3:08 | 2022-12-19 |  |
 | [Navidad en América](https://open.spotify.com/track/2ccmP0Y9mO8VAsJ1tA8HUX) | [Mariachi Sol De Mexico De Jose Hernandez](https://open.spotify.com/artist/0MnQvecFg1VbNkiFcPnsaG) | [Navidad en America](https://open.spotify.com/album/1YFFQDQgGIqc6rhGa97FXH) | 7:58 | 2021-12-15 | 2022-12-20 |
-| [Navidad En Pr](https://open.spotify.com/track/13mE3Skl0hCb1oigQzobQl) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Dalmata](https://open.spotify.com/artist/3jGlU8UMMo44I2xeLQ6FD3) | [Navidad En Pr](https://open.spotify.com/album/7p7YqBXRbW5vEohzUDB6eq) | 4:11 | 2022-12-19 |  |
+| [Navidad En Pr](https://open.spotify.com/track/13mE3Skl0hCb1oigQzobQl) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Dalmata](https://open.spotify.com/artist/3jGlU8UMMo44I2xeLQ6FD3) | [Navidad En Pr](https://open.spotify.com/album/7p7YqBXRbW5vEohzUDB6eq) | 4:11 | 2022-12-19 | 2023-11-30 |
 | [Navidad Navidad](https://open.spotify.com/track/1d22ht3d8DTsth5dUfbgwZ) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Navidad Navidad](https://open.spotify.com/album/0q3WxfSpGFRKBn060efmip) | 2:22 | 2022-12-19 |  |
 | [Navidad Sin Ti](https://open.spotify.com/track/54xXNECMC5RPXOGYYfYyTS) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Navidad Sin Ti](https://open.spotify.com/album/0vfbRwJqaEy1RT063cvsYq) | 2:43 | 2022-12-19 |  |
 | [Navidad Sin Ti](https://open.spotify.com/track/0BgKO3jvcTWhJ8Y8egyAn1) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Me Volvi A Acordar De Ti](https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy) | 4:14 | 2021-12-15 | 2022-12-20 |

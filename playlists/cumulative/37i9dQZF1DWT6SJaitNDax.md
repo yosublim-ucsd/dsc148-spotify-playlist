@@ -4,7 +4,7 @@
 
 > Afro sounds crossing borders\.  Cover: H.E.R\. & Asake
 
-416 songs - 22 hr 33 min
+417 songs - 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Anybody](https://open.spotify.com/track/44SSviC4R1TkAdsyptjDpE) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:08 | 2022-07-25 | 2023-08-25 |
 | [Anybody](https://open.spotify.com/track/6BtXtwOOy9CfpdlClUscJv) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Anybody](https://open.spotify.com/album/0iiyqZDjLMi7qb9UwnTrwT) | 3:09 | 2021-09-10 | 2022-07-27 |
 | [Apotheke](https://open.spotify.com/track/4rijFxOY3GvhHopiWwHX71) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi) | [5th Dimension](https://open.spotify.com/album/6P09BN0UfWRJt4jCIaAGS4) | 4:34 | 2023-05-14 | 2023-08-25 |
+| [Arizona](https://open.spotify.com/track/3SA6Rfor4ghxWbyxxdpV3c) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Arizona](https://open.spotify.com/album/0qiVeOmNPdZy5ky2j74Cga) | 2:19 | 2023-11-28 |  |
 | [ASE \- A COLORS SHOW](https://open.spotify.com/track/5fM2O9Lz5T8yN9YiJJs2qp) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [ASE \- A COLORS SHOW](https://open.spotify.com/album/2fr1fy0P8A1Cjt1NjaPN3E) | 2:44 | 2022-06-10 | 2022-12-27 |
 | [Attention](https://open.spotify.com/track/00pg6ROBxCsQ8lL9fpmosR) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Attention](https://open.spotify.com/album/2dwAAJpNawqPDfoSQvjEKS) | 3:00 | 2022-03-04 | 2022-07-29 |
 | [Attention](https://open.spotify.com/track/4rEuaYXYUrHtcpIo26pxAt) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Attention](https://open.spotify.com/album/2pNZIXtAV4ppfe6VCS9zfq) | 3:28 | 2021-09-10 | 2022-07-01 |
@@ -59,7 +60,7 @@
 | [Blessing](https://open.spotify.com/track/18aLGK4o5W41lc8T7jPMJ0) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [Blessing](https://open.spotify.com/album/1QQiHqjKzRU5Rd0Uo0cpzZ) | 3:48 | 2021-09-10 | 2022-07-03 |
 | [Blessings REMIX \(feat\. French Montana & Davido\)](https://open.spotify.com/track/4qxWose1KJgPDYQkMs0Ng5) | [Angel](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Blessings REMIX \(feat\. French Montana & Davido\)](https://open.spotify.com/album/3kxuAgeGxSrMLi9qu4F6x9) | 3:45 | 2021-09-10 | 2023-07-22 |
 | [BLOOD ON THE DANCE FLOOR \(feat\. Bloody Civilian and Wale\)](https://open.spotify.com/track/35MU2MEhQMw0NhXZztAP9m) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 3:53 | 2023-10-15 |  |
-| [Bloody Samaritan](https://open.spotify.com/track/3Keas2doqXf1veo2DOOIdz) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Bloody Samaritan](https://open.spotify.com/album/6yVmMVK9QFBPECEAft4mOd) | 3:07 | 2021-09-10 |  |
+| [Bloody Samaritan](https://open.spotify.com/track/3Keas2doqXf1veo2DOOIdz) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Bloody Samaritan](https://open.spotify.com/album/6yVmMVK9QFBPECEAft4mOd) | 3:07 | 2021-09-10 | 2023-11-30 |
 | [Bobo](https://open.spotify.com/track/6wL9pSXJ4roDSEoBpYyQy7) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Bobo](https://open.spotify.com/album/5SCo5QT25AqRFb5CnipuTI) | 3:07 | 2021-09-10 |  |
 | [Body](https://open.spotify.com/track/6mMs3kv7TmqF2v8S3YlvoO) | [Reen](https://open.spotify.com/artist/1PFtz57h7GTlU7xMSIi6qg) | [Body](https://open.spotify.com/album/3PG3V71aKlzwh3YqHcCYFj) | 2:35 | 2021-09-10 | 2022-07-28 |
 | [Body Riddim](https://open.spotify.com/track/3ZeTNbQNPIXrsUg54dz01m) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Body Riddim](https://open.spotify.com/album/5VEmnTmgYmoM02nZpWqDqs) | 2:50 | 2021-09-10 | 2022-05-14 |

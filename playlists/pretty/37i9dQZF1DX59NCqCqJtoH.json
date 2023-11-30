@@ -1,12 +1,12 @@
 {
   "description": "We hear you.",
-  "num_followers": 1173087,
+  "num_followers": 1173056,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MGY0NWRhNDZhMDFlZTVmOGNkMjBjMDIwYTViNDFiYzBkODk4Njli",
+  "snapshot_id": "MCxkOGUzNGExNGFhNmI1MDYyMjU4ZTRkOWI2OThiZTU4YzhiYmIwZDNj",
   "tracks": [
     {
       "added_at": "2023-11-09 23:50:22",
@@ -401,22 +401,6 @@
       "url": "https://open.spotify.com/track/2sLAKUdiwa7Ik8XY2ow3DE"
     },
     {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "Forever & Always",
-        "url": "https://open.spotify.com/album/5aHk92PHl9hDm2TEZMdfdB"
-      },
-      "artists": [
-        {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
-        }
-      ],
-      "duration_ms": 249705,
-      "name": "Forever & Always",
-      "url": "https://open.spotify.com/track/3aI4n3KHtrQ2MDeGmXhgWt"
-    },
-    {
       "added_at": "2023-11-20 20:27:12",
       "album": {
         "name": "would've been you",
@@ -431,6 +415,22 @@
       "duration_ms": 183586,
       "name": "would've been you",
       "url": "https://open.spotify.com/track/2U7svZUGvR4tfKdyxv9mXu"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Forever & Always",
+        "url": "https://open.spotify.com/album/5aHk92PHl9hDm2TEZMdfdB"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "duration_ms": 249705,
+      "name": "Forever & Always",
+      "url": "https://open.spotify.com/track/3aI4n3KHtrQ2MDeGmXhgWt"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Hurting",
-        "url": "https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT"
-      },
-      "artists": [
-        {
-          "name": "sign crushes motorist",
-          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "I'm Always Here",
-      "url": "https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "Blood Harmony",
         "url": "https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 261471,
       "name": "Die Alone",
       "url": "https://open.spotify.com/track/6q2MA87tphYrGm5Jr7xHMl"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Hurting",
+        "url": "https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT"
+      },
+      "artists": [
+        {
+          "name": "sign crushes motorist",
+          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "I'm Always Here",
+      "url": "https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -821,6 +821,22 @@
       "url": "https://open.spotify.com/track/5dXiKFepHXZktud7z5635H"
     },
     {
+      "added_at": "2023-11-20 20:27:12",
+      "album": {
+        "name": "The Long Breath / The Willows",
+        "url": "https://open.spotify.com/album/0phsQExgJ5IKweBTgJNdp3"
+      },
+      "artists": [
+        {
+          "name": "Rowan Drake",
+          "url": "https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC"
+        }
+      ],
+      "duration_ms": 288597,
+      "name": "The Long Breath",
+      "url": "https://open.spotify.com/track/2jQWDgZhvkTREAXi7R0Vnf"
+    },
+    {
       "added_at": "2023-09-29 20:20:52",
       "album": {
         "name": "Pendant",
@@ -835,22 +851,6 @@
       "duration_ms": 235832,
       "name": "Pendant",
       "url": "https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "Worn Out Heart",
-        "url": "https://open.spotify.com/album/4LzEBzni6lrIqW37VP1Z6g"
-      },
-      "artists": [
-        {
-          "name": "yaeow",
-          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
-        }
-      ],
-      "duration_ms": 142588,
-      "name": "I Need U",
-      "url": "https://open.spotify.com/track/6tmZRSTEAW90RI8nXsly1f"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
+        "name": "Worn Out Heart",
+        "url": "https://open.spotify.com/album/4LzEBzni6lrIqW37VP1Z6g"
+      },
+      "artists": [
+        {
+          "name": "yaeow",
+          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
+        }
+      ],
+      "duration_ms": 142588,
+      "name": "I Need U",
+      "url": "https://open.spotify.com/track/6tmZRSTEAW90RI8nXsly1f"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
         "name": "Man\u2019s Best Friend",
         "url": "https://open.spotify.com/album/2L1GB55rNVE3rQYPjCeUTt"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 168960,
       "name": "Idea of Her",
       "url": "https://open.spotify.com/track/167NK7xPIRNKnSmUE9dBrQ"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/0R2eIVnmPN3dXRj77Gb4Up"
-      },
-      "artists": [
-        {
-          "name": "Laica",
-          "url": "https://open.spotify.com/artist/2DqImimq9vdEbnQBxGgihQ"
-        }
-      ],
-      "duration_ms": 211746,
-      "name": "Close to Me",
-      "url": "https://open.spotify.com/track/4jPr49jXRJHftXlwTEA2w4"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -921,20 +921,20 @@
       "url": "https://open.spotify.com/track/2VL573wd9nlqXYHaQoFXfV"
     },
     {
-      "added_at": "2023-11-20 20:27:12",
+      "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "The Long Breath / The Willows",
-        "url": "https://open.spotify.com/album/0phsQExgJ5IKweBTgJNdp3"
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0R2eIVnmPN3dXRj77Gb4Up"
       },
       "artists": [
         {
-          "name": "Rowan Drake",
-          "url": "https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC"
+          "name": "Laica",
+          "url": "https://open.spotify.com/artist/2DqImimq9vdEbnQBxGgihQ"
         }
       ],
-      "duration_ms": 288597,
-      "name": "The Long Breath",
-      "url": "https://open.spotify.com/track/2jQWDgZhvkTREAXi7R0Vnf"
+      "duration_ms": 211746,
+      "name": "Close to Me",
+      "url": "https://open.spotify.com/track/4jPr49jXRJHftXlwTEA2w4"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1277,20 +1277,20 @@
       "url": "https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo"
     },
     {
-      "added_at": "2023-10-16 20:29:38",
+      "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "trust exercises",
-        "url": "https://open.spotify.com/album/7F8Up4TqiQZO2cdsVUDUY8"
+        "name": "handgun",
+        "url": "https://open.spotify.com/album/2ybvSMYSgIh1fKcFGD2XTL"
       },
       "artists": [
         {
-          "name": "easy life",
-          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
+          "name": "jake minch",
+          "url": "https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC"
         }
       ],
-      "duration_ms": 214002,
-      "name": "trust exercises",
-      "url": "https://open.spotify.com/track/3NEPYiw4V5tmQLguweXgPP"
+      "duration_ms": 173446,
+      "name": "handgun",
+      "url": "https://open.spotify.com/track/5ScV9dmyjpNeQp7UwIKwTM"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1329,20 +1329,20 @@
       "url": "https://open.spotify.com/track/1fgC2MHbJnPgvDfdTpC62c"
     },
     {
-      "added_at": "2023-09-29 20:20:52",
+      "added_at": "2023-10-16 20:29:38",
       "album": {
-        "name": "handgun",
-        "url": "https://open.spotify.com/album/2ybvSMYSgIh1fKcFGD2XTL"
+        "name": "trust exercises",
+        "url": "https://open.spotify.com/album/7F8Up4TqiQZO2cdsVUDUY8"
       },
       "artists": [
         {
-          "name": "jake minch",
-          "url": "https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC"
+          "name": "easy life",
+          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
         }
       ],
-      "duration_ms": 173446,
-      "name": "handgun",
-      "url": "https://open.spotify.com/track/5ScV9dmyjpNeQp7UwIKwTM"
+      "duration_ms": 214002,
+      "name": "trust exercises",
+      "url": "https://open.spotify.com/track/3NEPYiw4V5tmQLguweXgPP"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "hortel\u00e3",
-        "url": "https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU"
-      },
-      "artists": [
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        }
-      ],
-      "duration_ms": 289058,
-      "name": "just wanna forget you",
-      "url": "https://open.spotify.com/track/67sznBMSDKrj1zeFFNCQHo"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "Second Place",
         "url": "https://open.spotify.com/album/3kp3ueUC5QZIHYmjnxE9yK"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 128729,
       "name": "Second Place",
       "url": "https://open.spotify.com/track/5vO71tywH4g5RnxVcRWGLz"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "hortel\u00e3",
+        "url": "https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 289058,
+      "name": "just wanna forget you",
+      "url": "https://open.spotify.com/track/67sznBMSDKrj1zeFFNCQHo"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1445,20 +1445,20 @@
       "url": "https://open.spotify.com/track/3twtKmTjKfNjavNLZg5jLH"
     },
     {
-      "added_at": "2023-09-29 20:20:52",
+      "added_at": "2023-10-16 20:29:38",
       "album": {
-        "name": "Falling Down",
-        "url": "https://open.spotify.com/album/6LBvi01O6nf03Et9ylZV7P"
+        "name": "Hitchhiker",
+        "url": "https://open.spotify.com/album/32Srim9ACKmJsJvszNNlTe"
       },
       "artists": [
         {
-          "name": "Puma Blue",
-          "url": "https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG"
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
         }
       ],
-      "duration_ms": 215306,
-      "name": "Falling Down",
-      "url": "https://open.spotify.com/track/5IMlULsFntQDQrCrvRpXFd"
+      "duration_ms": 260446,
+      "name": "Planet Express",
+      "url": "https://open.spotify.com/track/7HY0lAbWyJr6JqvKgRQDEL"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1477,20 +1477,20 @@
       "url": "https://open.spotify.com/track/4Kjo34blxmLG5HNUKEvHRM"
     },
     {
-      "added_at": "2023-10-16 20:29:38",
+      "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Hitchhiker",
-        "url": "https://open.spotify.com/album/32Srim9ACKmJsJvszNNlTe"
+        "name": "Falling Down",
+        "url": "https://open.spotify.com/album/6LBvi01O6nf03Et9ylZV7P"
       },
       "artists": [
         {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+          "name": "Puma Blue",
+          "url": "https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG"
         }
       ],
-      "duration_ms": 260446,
-      "name": "Planet Express",
-      "url": "https://open.spotify.com/track/7HY0lAbWyJr6JqvKgRQDEL"
+      "duration_ms": 215306,
+      "name": "Falling Down",
+      "url": "https://open.spotify.com/track/5IMlULsFntQDQrCrvRpXFd"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Insane",
-        "url": "https://open.spotify.com/album/21gi2LoATc1aYgKLD39uVy"
-      },
-      "artists": [
-        {
-          "name": "Sky McCreery",
-          "url": "https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh"
-        }
-      ],
-      "duration_ms": 166389,
-      "name": "Insane",
-      "url": "https://open.spotify.com/track/3mLFCocZgUvih60frphM6l"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "the way we used to love.",
         "url": "https://open.spotify.com/album/5TpuZa5jlD6Jf3Kf6qglHo"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 225600,
       "name": "disappear",
       "url": "https://open.spotify.com/track/5YVuTCLDxjS8pORppZhNsf"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Insane",
+        "url": "https://open.spotify.com/album/21gi2LoATc1aYgKLD39uVy"
+      },
+      "artists": [
+        {
+          "name": "Sky McCreery",
+          "url": "https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh"
+        }
+      ],
+      "duration_ms": 166389,
+      "name": "Insane",
+      "url": "https://open.spotify.com/track/3mLFCocZgUvih60frphM6l"
     },
     {
       "added_at": "2023-09-29 20:20:52",

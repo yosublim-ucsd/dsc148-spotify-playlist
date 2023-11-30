@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5?si=jFt0P\-mPQlCUwBwBAk1rRQ">Sneziey</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,199 likes - 90 songs - 9 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,396 likes - 90 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Thixo Wamadinga Ethu \(Live\)](https://open.spotify.com/track/5Y0EPmCymKYHOCJD2B04gi) | [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Sibonga Umusa \(Live\)](https://open.spotify.com/album/0yq9apfBkBDmT9I74n0ABX) | 9:49 |
+| 1 | [Thixo Wamadinga Ethu \(Live\)](https://open.spotify.com/track/67NHjEvUTfqyKqNZF0tSMh) | [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Sibonga Umusa \(Live\)](https://open.spotify.com/album/0tT13vFUWnAGZNp0BZu0n3) | 9:49 |
 | 2 | [Wakhazimula \- Live](https://open.spotify.com/track/7FfwSYKinjefexPoH8XSrm) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Wakhazimula \(Live\)](https://open.spotify.com/album/7G9ZPEePMWoWw4ZXcWc1hg) | 8:07 |
 | 3 | [Thath'Indawo \(Live\)](https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mpumi Mtsweni](https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ) | [Spirit of Praise, Vol\. 8 \(Live\)](https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt) | 7:55 |
 | 4 | [IMTHANDAZO YAMI](https://open.spotify.com/track/2PTqfW2JIhX1Rw4VykTbg4) | [Lungelo Hlongwane](https://open.spotify.com/artist/5tV1nKSYdBNGEBBAODXqrv) | [IMTHANDAZO YAMI](https://open.spotify.com/album/2UEZeMkxZuHTmsL2umqtQY) | 5:16 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 89 | [Ngiphe Baba Izindlebe](https://open.spotify.com/track/7BEN78AfaIw5d7BXPanX9s) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Ngiphe Baba Izindlebe](https://open.spotify.com/album/6GstVqXZsRARDQqwYgftj2) | 7:24 |
 | 90 | [Hold On \(Live\)](https://open.spotify.com/track/3g6sGNlPxe6dPn1jMUQkVO) | [Sibusiso Nzima](https://open.spotify.com/artist/6AtfG1qMpauT1Z4JXcaJ8b), [Bobo Jay Nzima](https://open.spotify.com/artist/02A9pWLktquvrirqhv0jt1) | [Hold On \(Live\)](https://open.spotify.com/album/0vZ05bOnla5UbYCdWAkgmS) | 6:45 |
 
-Snapshot ID: `MCxjMzE5MGUxNGQxNmM2YTgyODk1MTYwMDgwM2I1N2E4MDgxYjgyMjQz`
+Snapshot ID: `MCwxZDQ2ODY3YWJmZGNkYTM0ODRkNTg5NjkwYjE4MGVkODQ2NjNkYTU1`

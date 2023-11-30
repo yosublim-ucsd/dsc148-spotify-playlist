@@ -6315,6 +6315,24 @@
     },
     {
       "album": {
+        "name": "Seahorse",
+        "url": "https://open.spotify.com/album/7jb4aq0bopsiuW1k8i6lDA"
+      },
+      "artists": [
+        {
+          "name": "May Forth",
+          "url": "https://open.spotify.com/artist/6MYn2A1crz0GWAqp2Ctyxj"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208977,
+      "name": "Seahorse",
+      "url": "https://open.spotify.com/track/26NdFMwJkFi2L4EWSxcPnV"
+    },
+    {
+      "album": {
         "name": "Second March",
         "url": "https://open.spotify.com/album/1B5tRFGQUrcXDihzlsW8Q0"
       },
@@ -7026,7 +7044,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-19",
+      "date_removed": null,
       "duration_ms": 120200,
       "name": "STAY GOLD",
       "url": "https://open.spotify.com/track/1YOjTz7D3IdqkxyAUUArLR"
@@ -8796,7 +8814,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 182480,
       "name": "ZINNIA",
       "url": "https://open.spotify.com/track/453y9UfKiUqrGNOAYcGvhh"
@@ -11750,7 +11768,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 208977,
       "name": "\u7adc\u306e\u843d\u3068\u3057\u5b50",
       "url": "https://open.spotify.com/track/7rB1MjXVEbOSjNOtuZmZok"

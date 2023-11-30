@@ -4,7 +4,7 @@
 
 > New music breaking waves\.  Guest Curator:   <a href="spotify:artist:1K15GRZZATsCJyGJ4bYiEz">Luh Tyler</a>
 
-559 songs - 1 day 2 hr 47 min
+560 songs - 1 day 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Catch Another Body](https://open.spotify.com/track/7g23Ror3VlN0Xo4wjBHTS6) | [Idontknowjeffery](https://open.spotify.com/artist/7Fx7ZCiOsh5eVpFuK25VD6), [Denaro Love](https://open.spotify.com/artist/3UQ4t7zbgnxHGuNuuVlewc) | [Catch Another Body](https://open.spotify.com/album/2zeMfb20Oa57Jj1ZbZ6Ccn) | 3:32 | 2022-03-04 | 2022-03-06 |
 | [Cemetery Freestyle](https://open.spotify.com/track/4bDgMYC4RfOrc3n1oVLXfX) | [JoeVille](https://open.spotify.com/artist/6Rf6w9LrInrRvLTh0sEzVW) | [Cemetery Freestyle](https://open.spotify.com/album/79j5iEvu1BVgQZlGuiQGKy) | 2:39 | 2022-03-04 | 2022-06-25 |
 | [chain](https://open.spotify.com/track/73m5RI0Mx2SNo5P6fu148x) | [Aziya](https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW) | [chain](https://open.spotify.com/album/1pD3mUqv8jSN4Jv08dMKmJ) | 2:48 | 2023-07-14 | 2023-09-30 |
+| [Change My Wayz](https://open.spotify.com/track/0x8vQaiUn7BZ37Wpxd4Mms) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Change My Wayz](https://open.spotify.com/album/0TwgVRH8pQ5tN2j7b8M0eB) | 1:55 | 2023-11-29 |  |
 | [Changes](https://open.spotify.com/track/7lLp5dtiWkM8d0oVfnD2WS) | [EXUM](https://open.spotify.com/artist/5KJX1Zh0zfHcbwSCk5cPk0) | [Changes](https://open.spotify.com/album/5MCauxko02CqzLRjptNIuX) | 3:55 | 2023-09-15 |  |
 | [Chardonnay](https://open.spotify.com/track/1ukGTynnAZik3zzdEbU3tY) | [Nova](https://open.spotify.com/artist/1OXLdL4Qs8rh3LzoqjaUUb), [Esquire](https://open.spotify.com/artist/41zs0yeWeQNNwSMp8yAKY7) | [Chardonnay](https://open.spotify.com/album/0KxMCnYlNr9YkKdP0JFctu) | 3:12 | 2021-09-24 | 2022-03-05 |
 | [Check](https://open.spotify.com/track/17LsSRsnpOJ5910GtSixaC) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Check](https://open.spotify.com/album/0oUW916No7iVMeYUYDENIk) | 2:42 | 2023-04-28 | 2023-07-22 |
@@ -336,7 +337,7 @@
 | [Monday](https://open.spotify.com/track/0ZYPXpIc80adkNnFZrscT9) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Monday \(feat\. Mac Miller\) \- Single](https://open.spotify.com/album/0AHoIDlYn5fu5ilAP8TJNN) | 5:17 | 2023-10-25 | 2023-11-01 |
 | [Moon Chasers](https://open.spotify.com/track/5FQSHEXB1gJj1CAjHlbC28) | [Oxymorrons](https://open.spotify.com/artist/3GDw9k8FzlOUxPzDUaUhlZ) | [Melanin Punk](https://open.spotify.com/album/0l0pfg7fOxU9YHQkHhXTTD) | 3:23 | 2023-10-20 |  |
 | [Moonlight](https://open.spotify.com/track/3hIpTc5IwchQUWJkzLXDfK) | [Samoht](https://open.spotify.com/artist/25uXu4OnYB9IH9GI6OgxsK) | [Moonlight](https://open.spotify.com/album/33Eg1v4Pw6xVs7IaZz9qWZ) | 3:06 | 2023-08-25 | 2023-10-26 |
-| [Mrs Lonely](https://open.spotify.com/track/2i4ytaPgdc78B7TP16Wzjc) | [Bugzy Malone](https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL) | [Mrs Lonely](https://open.spotify.com/album/3Qzw5DoS3nIbVK7fOqTPGo) | 3:18 | 2023-08-25 |  |
+| [Mrs Lonely](https://open.spotify.com/track/2i4ytaPgdc78B7TP16Wzjc) | [Bugzy Malone](https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL) | [Mrs Lonely](https://open.spotify.com/album/3Qzw5DoS3nIbVK7fOqTPGo) | 3:18 | 2023-08-25 | 2023-11-30 |
 | [Munch \(Feelin’ U\)](https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Munch \(Feelin’ U\)](https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv) | 1:44 | 2022-09-09 | 2023-01-21 |
 | [My Ability](https://open.spotify.com/track/3nppDJiBDPiawKKuvDpE5R) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [My Ability](https://open.spotify.com/album/4ksFUZlag8pQV82WLLxivc) | 3:19 | 2023-06-24 | 2023-07-29 |
 | [MY FAVORITE DRUG](https://open.spotify.com/track/52DsauCIVMK9a9lB2qXslC) | [Peter $un](https://open.spotify.com/artist/7cLB1w50gSrBCzcD68UMuG) | [MY FAVORITE DRUG](https://open.spotify.com/album/719fKUhTNVCTKd0mhlYIR5) | 3:03 | 2023-07-21 | 2023-10-21 |

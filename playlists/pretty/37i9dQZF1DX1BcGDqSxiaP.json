@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary Blues label.",
-  "num_followers": 21379,
+  "num_followers": 21405,
   "original_name": "Legendary Labels: Alligator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzZkNjU2ODIyMzg5ODE5N2YzZTlhODQ0ODg2N2ZlZGNhOTlhZGUw",
+  "snapshot_id": "MCxkNWZkN2YyOTRlODQ0ODU0Yzc2MDg2ZWNmMzA5Njk2NmQwNTU3ZTY2",
   "tracks": [
     {
       "added_at": "2023-05-17 15:52:13",
@@ -639,8 +639,8 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "Guitar Slinger",
-        "url": "https://open.spotify.com/album/2rwEAdpLYZEOuze2uukn7x"
+        "name": "Serious Business",
+        "url": "https://open.spotify.com/album/30XtgsTePORy5sbslFewYU"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
         }
       ],
-      "duration_ms": 323986,
-      "name": "Don't Take Advantage Of Me - Remastered",
-      "url": "https://open.spotify.com/track/3sHgMnbPhxt5ZIm3CKXx0a"
+      "duration_ms": 221293,
+      "name": "Master Mechanic",
+      "url": "https://open.spotify.com/track/4165vsiricmCuE4eKeuZ4v"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -819,8 +819,8 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "Serious Business",
-        "url": "https://open.spotify.com/album/30XtgsTePORy5sbslFewYU"
+        "name": "Guitar Slinger",
+        "url": "https://open.spotify.com/album/2rwEAdpLYZEOuze2uukn7x"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
         }
       ],
-      "duration_ms": 221293,
-      "name": "Master Mechanic",
-      "url": "https://open.spotify.com/track/4165vsiricmCuE4eKeuZ4v"
+      "duration_ms": 323986,
+      "name": "Don't Take Advantage Of Me - Remastered",
+      "url": "https://open.spotify.com/track/3sHgMnbPhxt5ZIm3CKXx0a"
     },
     {
       "added_at": "2023-05-17 15:52:13",

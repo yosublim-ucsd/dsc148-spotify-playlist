@@ -1323,6 +1323,24 @@
     },
     {
       "album": {
+        "name": "Liquid Air",
+        "url": "https://open.spotify.com/album/4hiQgffYfQsnjf2BHAx6dS"
+      },
+      "artists": [
+        {
+          "name": "Jake and Jake",
+          "url": "https://open.spotify.com/artist/7mWxGDIMAJ2HhVKomW0C55"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237176,
+      "name": "Noplace",
+      "url": "https://open.spotify.com/track/1aAEZKKjtCcV4ghd2aXmEz"
+    },
+    {
+      "album": {
         "name": "Not Alone",
         "url": "https://open.spotify.com/album/3uAGplw7cRRx927H35iokm"
       },

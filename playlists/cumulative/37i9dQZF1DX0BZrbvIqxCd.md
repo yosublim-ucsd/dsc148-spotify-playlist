@@ -4,7 +4,7 @@
 
 > A mix of punk rock to get you through your workout.
 
-285 songs - 15 hr 10 min
+286 songs - 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,8 @@
 | [Getaway Green](https://open.spotify.com/track/6lMPUipRF49L8AxLW3F40B) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Wake Up, Sunshine](https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE) | 2:47 | 2020-11-20 | 2022-11-13 |
 | [Ghost in My Home](https://open.spotify.com/track/0bjwkqQ0lZSIes3IW7Aeq8) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Ghost in My Home](https://open.spotify.com/album/1gfShNUI5uB4qR2MRQJIGu) | 3:20 | 2020-11-20 |  |
 | [Ghost in My Home](https://open.spotify.com/track/59Ku2whuuXy9y3ZiUiYqHP) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Ghost in My Home](https://open.spotify.com/album/18EL26qP11mySASVZGWIAf) | 3:20 | 2020-11-20 | 2022-07-29 |
-| [Go Down in History](https://open.spotify.com/track/2axAqRd2SSKmbA6fTuoRzM) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [Four Year Strong](https://open.spotify.com/album/3vV8Tam4ubcWalQSGZWuC8) | 3:39 | 2020-11-20 |  |
+| [Go Down in History](https://open.spotify.com/track/2axAqRd2SSKmbA6fTuoRzM) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [Four Year Strong](https://open.spotify.com/album/3vV8Tam4ubcWalQSGZWuC8) | 3:39 | 2020-11-20 | 2023-11-30 |
+| [Gone](https://open.spotify.com/track/4BFmoq1AU7k5GrPnymjgdd) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Shapeshifter](https://open.spotify.com/album/4pIwtCO5U55WjclTKwf8Ah) | 3:05 | 2020-11-20 |  |
 | [Gone](https://open.spotify.com/track/2MyUIH6eOOfzgxAEw8qz5R) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Shapeshifter](https://open.spotify.com/album/1ljgNdyFCcnQxAbzejZrax) | 3:05 | 2020-11-20 | 2023-11-04 |
 | [Greatest Of All Time](https://open.spotify.com/track/6tJ8T00sdozc2ZSkPT8Qj1) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Greatest Of All Time](https://open.spotify.com/album/4ULjQJSTpbibgr8cKFBr9o) | 2:57 | 2020-11-20 | 2022-07-29 |
 | [Grey Goose](https://open.spotify.com/track/50UpQeRX0Pebo76v3AK6S1) | [Carousel Kings](https://open.spotify.com/artist/2Dr2zHoPEuASW1kOODc5I2) | [Charm City](https://open.spotify.com/album/3IM9F9wRCdGQcmYgHS6jFx) | 3:27 | 2020-11-20 | 2022-07-26 |

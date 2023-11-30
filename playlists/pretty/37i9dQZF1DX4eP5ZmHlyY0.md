@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 > 日本で活躍するボーイズグループを特集。cover: GENERATIONS from EXILE TRIBE
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,953 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,963 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 42 | [JUST DANCE!](https://open.spotify.com/track/337dZo6Fo3hIq0iMANoZmS) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [JUST DANCE!](https://open.spotify.com/album/5pNQWKfMgZXtN6rCXoFgLT) | 2:57 |
 | 43 | [存在証明](https://open.spotify.com/track/0r1o3u1hfslfqiAu5ZA51O) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [存在証明](https://open.spotify.com/album/5ltpF1aQJAWeuEIBgpU6dK) | 3:27 |
 | 44 | [Crazy Love](https://open.spotify.com/track/4PXjBiPCSYd5YwsvKutokh) | [XY](https://open.spotify.com/artist/2MOWJsCM7TRwG7K7eIZzxC) | [Crazy Love](https://open.spotify.com/album/7fegzwJexmObtgCpqhI0vt) | 5:02 |
-| 45 | [NEW STAR](https://open.spotify.com/track/3DLmZAoUDu4SOo6YrUHrCj) | [n.SSign](https://open.spotify.com/artist/3IHvi45S5SITyNES9VzSjI) | [NEW STAR](https://open.spotify.com/album/4VjojyAZQbfONf7bI1yBaw) | 3:29 |
+| 45 | [NEW STAR](https://open.spotify.com/track/4fGkb1BWnzrppNuGUeUSaZ) | [n.SSign](https://open.spotify.com/artist/3IHvi45S5SITyNES9VzSjI) | [NEW STAR](https://open.spotify.com/album/4ohVAtGzJTQCIKJTMzGLAb) | 3:29 |
 | 46 | [スターマイン](https://open.spotify.com/track/0akvgdebTkERlRqNKJZuFy) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [イマ](https://open.spotify.com/album/4jvQHJZWEBoYhFSsXTmPEP) | 3:47 |
 | 47 | [Under the skin](https://open.spotify.com/track/14OcSHjrsHoZBJHwaYefH7) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [Under the skin](https://open.spotify.com/album/0UVj9I0OG2Ti1QjHVRpO2K) | 3:11 |
 | 48 | [SIN](https://open.spotify.com/track/4uRh2YgZgcg7x2QsyllrbI) | [MADKID](https://open.spotify.com/artist/1tofuk7dTZwb6ZKsr7XRKB) | [SIN](https://open.spotify.com/album/3W6jQO7l9BPGV2uhgr6l28) | 3:44 |
 | 49 | [SOS](https://open.spotify.com/track/3gahDIUGQT0Hlmf5zNN4ta) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Mainstream](https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j) | 2:56 |
 | 50 | [CRUISIN'](https://open.spotify.com/track/4eYkFk3D1GCvk6sFTCpEq7) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [CRUISIN'](https://open.spotify.com/album/0BNzYtcvaEw8oD8SKp5OF8) | 3:25 |
 
-Snapshot ID: `MCw5M2U4NWUyM2IzN2ViMzEyZTkwNTg4ODhkMmQ4NDMzOTNlZTllZGNh`
+Snapshot ID: `MCwzMGM0NzNiZjc1N2NhNWVmMDY2ZmYyOWJmNWIxYTliYWNlMmM0YzY2`

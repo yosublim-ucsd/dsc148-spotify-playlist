@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Ana Mena",
-  "num_followers": 990754,
+  "num_followers": 990823,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODk3NTg1MjVjOTJjNThlNGU3NDE1OTljM2ZiMjg5NTljOTdiODM3",
+  "snapshot_id": "MCwxOTE3NzY4NjZiN2EyOTRkMzUwMGRkMTdiZTc2ZTU4ODkxZTBlNmUy",
   "tracks": [
     {
       "added_at": "2023-11-28 18:51:03",
@@ -143,18 +143,22 @@
     {
       "added_at": "2023-11-28 18:51:03",
       "album": {
-        "name": "Energ\u00eda Bacana",
-        "url": "https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq"
+        "name": "Por Dentro",
+        "url": "https://open.spotify.com/album/0eurPgSTFcfvsgGSqIciS4"
       },
       "artists": [
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        },
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 147720,
-      "name": "Energ\u00eda Bacana",
-      "url": "https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi"
+      "duration_ms": 165981,
+      "name": "Por Dentro",
+      "url": "https://open.spotify.com/track/671fHUAB2n0MocazS1bMB8"
     },
     {
       "added_at": "2023-11-28 18:51:03",
@@ -199,18 +203,18 @@
     {
       "added_at": "2023-11-28 18:51:03",
       "album": {
-        "name": "Bailando Bachata",
-        "url": "https://open.spotify.com/album/6NthM7pMQaf9oO8KO4zrNe"
+        "name": "Energ\u00eda Bacana",
+        "url": "https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq"
       },
       "artists": [
         {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         }
       ],
-      "duration_ms": 170809,
-      "name": "Bailando Bachata",
-      "url": "https://open.spotify.com/track/0nKu6ysQjldXxABnxMu7kL"
+      "duration_ms": 147720,
+      "name": "Energ\u00eda Bacana",
+      "url": "https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi"
     },
     {
       "added_at": "2023-11-28 18:51:03",
@@ -235,22 +239,18 @@
     {
       "added_at": "2023-11-28 18:51:03",
       "album": {
-        "name": "Por Dentro",
-        "url": "https://open.spotify.com/album/0eurPgSTFcfvsgGSqIciS4"
+        "name": "Bailando Bachata",
+        "url": "https://open.spotify.com/album/6NthM7pMQaf9oO8KO4zrNe"
       },
       "artists": [
         {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        },
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
         }
       ],
-      "duration_ms": 165981,
-      "name": "Por Dentro",
-      "url": "https://open.spotify.com/track/671fHUAB2n0MocazS1bMB8"
+      "duration_ms": 170809,
+      "name": "Bailando Bachata",
+      "url": "https://open.spotify.com/track/0nKu6ysQjldXxABnxMu7kL"
     },
     {
       "added_at": "2023-11-28 18:51:03",
@@ -379,18 +379,18 @@
     {
       "added_at": "2023-11-28 18:51:03",
       "album": {
-        "name": "Algo Sencillito",
-        "url": "https://open.spotify.com/album/5KD3zAPmFm1uiTXDHTBDZm"
+        "name": "No te enamores de \u00e9l",
+        "url": "https://open.spotify.com/album/0iqIzRLZwJlE757cS7Ow6Z"
       },
       "artists": [
         {
-          "name": "Marta Santos",
-          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 177338,
-      "name": "Algo Sencillito",
-      "url": "https://open.spotify.com/track/2mlccfOj0SdzAoOQRca7vn"
+      "duration_ms": 197366,
+      "name": "No te enamores de \u00e9l",
+      "url": "https://open.spotify.com/track/6R0DBvEERp0MrxqxNsQ6rw"
     },
     {
       "added_at": "2023-11-28 18:51:03",
@@ -411,6 +411,22 @@
     {
       "added_at": "2023-11-28 18:51:03",
       "album": {
+        "name": "Algo Sencillito",
+        "url": "https://open.spotify.com/album/5KD3zAPmFm1uiTXDHTBDZm"
+      },
+      "artists": [
+        {
+          "name": "Marta Santos",
+          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
+        }
+      ],
+      "duration_ms": 177338,
+      "name": "Algo Sencillito",
+      "url": "https://open.spotify.com/track/2mlccfOj0SdzAoOQRca7vn"
+    },
+    {
+      "added_at": "2023-11-28 18:51:03",
+      "album": {
         "name": "La Noche Perfecta",
         "url": "https://open.spotify.com/album/68WN58KU9vJg23y9P15Rwa"
       },
@@ -427,18 +443,18 @@
     {
       "added_at": "2023-11-28 18:51:03",
       "album": {
-        "name": "No te enamores de \u00e9l",
-        "url": "https://open.spotify.com/album/0iqIzRLZwJlE757cS7Ow6Z"
+        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
+        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
       },
       "artists": [
         {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 197366,
-      "name": "No te enamores de \u00e9l",
-      "url": "https://open.spotify.com/track/6R0DBvEERp0MrxqxNsQ6rw"
+      "duration_ms": 202360,
+      "name": "LA CAPI",
+      "url": "https://open.spotify.com/track/68OXeY9CUQebrOAAh3b3Jw"
     },
     {
       "added_at": "2023-11-28 18:51:03",
@@ -519,22 +535,6 @@
     {
       "added_at": "2023-11-28 18:51:03",
       "album": {
-        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
-        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 202360,
-      "name": "LA CAPI",
-      "url": "https://open.spotify.com/track/68OXeY9CUQebrOAAh3b3Jw"
-    },
-    {
-      "added_at": "2023-11-28 18:51:03",
-      "album": {
         "name": "Olvid\u00e9 Olvidarte",
         "url": "https://open.spotify.com/album/3HKHxcUZx0qPs6iLacsp1P"
       },
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-11-28 18:51:03",
       "album": {
+        "name": "RED FLAGS",
+        "url": "https://open.spotify.com/album/3xmrtrlaAAjBX7kVcAMB8G"
+      },
+      "artists": [
+        {
+          "name": "MARLENA",
+          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
+        }
+      ],
+      "duration_ms": 190243,
+      "name": "RED FLAGS",
+      "url": "https://open.spotify.com/track/4ihlB1pDXbQEtaDoMfyaYs"
+    },
+    {
+      "added_at": "2023-11-28 18:51:03",
+      "album": {
         "name": "El Wey",
         "url": "https://open.spotify.com/album/52neKij6fmer1UfXcau0Dr"
       },
@@ -599,38 +615,22 @@
     {
       "added_at": "2023-11-28 18:51:03",
       "album": {
-        "name": "RED FLAGS",
-        "url": "https://open.spotify.com/album/3xmrtrlaAAjBX7kVcAMB8G"
+        "name": "Tarde",
+        "url": "https://open.spotify.com/album/1sRH4OWpSusGI266WHwTPu"
       },
       "artists": [
         {
-          "name": "MARLENA",
-          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
-        }
-      ],
-      "duration_ms": 190243,
-      "name": "RED FLAGS",
-      "url": "https://open.spotify.com/track/4ihlB1pDXbQEtaDoMfyaYs"
-    },
-    {
-      "added_at": "2023-11-28 18:51:03",
-      "album": {
-        "name": "S\u00e9 lo Que Hicisteis",
-        "url": "https://open.spotify.com/album/4R6Bw8W5WPocIjynDm7BsL"
-      },
-      "artists": [
-        {
-          "name": "Melendi",
-          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
         },
         {
-          "name": "Natos y Waor",
-          "url": "https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw"
+          "name": "Babi",
+          "url": "https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg"
         }
       ],
-      "duration_ms": 209265,
-      "name": "S\u00e9 lo Que Hicisteis",
-      "url": "https://open.spotify.com/track/7HZBJjlhBVSjHMm5YMMcNd"
+      "duration_ms": 205027,
+      "name": "Tarde",
+      "url": "https://open.spotify.com/track/6zmn8g3wqzXs75rs6gJW8T"
     },
     {
       "added_at": "2023-11-28 18:51:03",
@@ -675,26 +675,6 @@
     {
       "added_at": "2023-11-28 18:51:03",
       "album": {
-        "name": "Tarde",
-        "url": "https://open.spotify.com/album/1sRH4OWpSusGI266WHwTPu"
-      },
-      "artists": [
-        {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
-        },
-        {
-          "name": "Babi",
-          "url": "https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg"
-        }
-      ],
-      "duration_ms": 205027,
-      "name": "Tarde",
-      "url": "https://open.spotify.com/track/6zmn8g3wqzXs75rs6gJW8T"
-    },
-    {
-      "added_at": "2023-11-28 18:51:03",
-      "album": {
         "name": "bellodrama",
         "url": "https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 164351,
       "name": "Me Enamoro",
       "url": "https://open.spotify.com/track/7JTqqfnDlXxkhtQnf4bsKp"
+    },
+    {
+      "added_at": "2023-11-28 18:51:03",
+      "album": {
+        "name": "S\u00e9 lo Que Hicisteis",
+        "url": "https://open.spotify.com/album/4R6Bw8W5WPocIjynDm7BsL"
+      },
+      "artists": [
+        {
+          "name": "Melendi",
+          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
+        },
+        {
+          "name": "Natos y Waor",
+          "url": "https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw"
+        }
+      ],
+      "duration_ms": 209265,
+      "name": "S\u00e9 lo Que Hicisteis",
+      "url": "https://open.spotify.com/track/7HZBJjlhBVSjHMm5YMMcNd"
     },
     {
       "added_at": "2023-11-28 18:51:03",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-11-28 18:51:03",
       "album": {
+        "name": "PALANTE",
+        "url": "https://open.spotify.com/album/1XiLA8WVP7MMDvDCHJ9uKj"
+      },
+      "artists": [
+        {
+          "name": "Funzo & Baby Loud",
+          "url": "https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC"
+        }
+      ],
+      "duration_ms": 146264,
+      "name": "PALANTE",
+      "url": "https://open.spotify.com/track/28cN5fxRkyri38B7vYA6rp"
+    },
+    {
+      "added_at": "2023-11-28 18:51:03",
+      "album": {
         "name": "RESPIRAR",
         "url": "https://open.spotify.com/album/2mdpPhNB6O4BDobUFxI7ai"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 145573,
       "name": "RESPIRAR",
       "url": "https://open.spotify.com/track/4WSrc5DozzVTtZcGafsVvf"
-    },
-    {
-      "added_at": "2023-11-28 18:51:03",
-      "album": {
-        "name": "PALANTE",
-        "url": "https://open.spotify.com/album/1XiLA8WVP7MMDvDCHJ9uKj"
-      },
-      "artists": [
-        {
-          "name": "Funzo & Baby Loud",
-          "url": "https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC"
-        }
-      ],
-      "duration_ms": 146264,
-      "name": "PALANTE",
-      "url": "https://open.spotify.com/track/28cN5fxRkyri38B7vYA6rp"
     },
     {
       "added_at": "2023-11-28 18:51:03",

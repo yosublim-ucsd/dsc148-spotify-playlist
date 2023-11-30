@@ -353,6 +353,24 @@
     },
     {
       "album": {
+        "name": "Chaos",
+        "url": "https://open.spotify.com/album/0lsnWYZZxrgwRhdFzdfu7c"
+      },
+      "artists": [
+        {
+          "name": "Tenors In Chaos",
+          "url": "https://open.spotify.com/artist/2dPi2IGldPZJEjY3Aj4UzT"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282600,
+      "name": "BAKKI BAKI",
+      "url": "https://open.spotify.com/track/5S7qQI8RiZU4LvnACoOUip"
+    },
+    {
+      "album": {
         "name": "Baum",
         "url": "https://open.spotify.com/album/3vsv6V67g4nSAqwaZmAXIO"
       },
@@ -4460,7 +4478,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 294400,
       "name": "\u6700\u5f8c\u306e\u591c\u6c7d\u8eca",
       "url": "https://open.spotify.com/track/6zQvFxPFLSmisCA1UYAr4c"

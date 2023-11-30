@@ -1,12 +1,12 @@
 {
   "description": "21st Century nomadic expressions interwoven into a very unexpected patchwork.",
-  "num_followers": 163628,
+  "num_followers": 163720,
   "original_name": "Folk Fabrique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDVjYmIxYmNlMTcyMTM5OGUyYTc4ZmQ1ODAwODMxY2ZhNmExZTgx",
+  "snapshot_id": "MCw5NDEyNTk3ZjQ5OWY2YzE3MDhmNjA3MWNhNTRkNWFjY2M2OTc5YjI0",
   "tracks": [
     {
       "added_at": "2021-10-20 20:05:06",
@@ -733,6 +733,22 @@
       "url": "https://open.spotify.com/track/03CS8ifzdYuzNCyzshYl7Z"
     },
     {
+      "added_at": "2022-02-03 23:38:31",
+      "album": {
+        "name": "Aboogi",
+        "url": "https://open.spotify.com/album/4HtjxGyTwAPzU8nrg4BGtw"
+      },
+      "artists": [
+        {
+          "name": "Imarhan",
+          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
+        }
+      ],
+      "duration_ms": 256320,
+      "name": "Achinkad",
+      "url": "https://open.spotify.com/track/7eArOOr6p5TiYNGH6jHALx"
+    },
+    {
       "added_at": "2022-02-18 02:21:25",
       "album": {
         "name": "Elegancia Tropical",
@@ -763,22 +779,6 @@
       "duration_ms": 268640,
       "name": "Amidinine",
       "url": "https://open.spotify.com/track/0JRBZ5RZGLhZKUoDIgaxQc"
-    },
-    {
-      "added_at": "2022-02-03 23:38:31",
-      "album": {
-        "name": "Aboogi",
-        "url": "https://open.spotify.com/album/4HtjxGyTwAPzU8nrg4BGtw"
-      },
-      "artists": [
-        {
-          "name": "Imarhan",
-          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
-        }
-      ],
-      "duration_ms": 256320,
-      "name": "Achinkad",
-      "url": "https://open.spotify.com/track/7eArOOr6p5TiYNGH6jHALx"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -917,22 +917,6 @@
       "url": "https://open.spotify.com/track/4WjB2aDvfjAYsukbbxYVUd"
     },
     {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
-        "name": "TANDEM",
-        "url": "https://open.spotify.com/album/1qm1yaOMS8Hhz4QS4aUB69"
-      },
-      "artists": [
-        {
-          "name": "Mit\u00fa",
-          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
-        }
-      ],
-      "duration_ms": 174882,
-      "name": "PERLA",
-      "url": "https://open.spotify.com/track/2Xr1RQQ15GeaJ7TFa8CTBj"
-    },
-    {
       "added_at": "2023-11-23 03:51:02",
       "album": {
         "name": "The Livelong Day",
@@ -947,6 +931,22 @@
       "duration_ms": 331500,
       "name": "Bear Creek",
       "url": "https://open.spotify.com/track/1olcVMgFm2KGCDVK4g5b76"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "TANDEM",
+        "url": "https://open.spotify.com/album/1qm1yaOMS8Hhz4QS4aUB69"
+      },
+      "artists": [
+        {
+          "name": "Mit\u00fa",
+          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
+        }
+      ],
+      "duration_ms": 174882,
+      "name": "PERLA",
+      "url": "https://open.spotify.com/track/2Xr1RQQ15GeaJ7TFa8CTBj"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1117,6 +1117,22 @@
       "url": "https://open.spotify.com/track/5Q2kmykzh6TUFBBqskiHjK"
     },
     {
+      "added_at": "2022-02-03 23:25:28",
+      "album": {
+        "name": "Tonkori In The Moonlight",
+        "url": "https://open.spotify.com/album/5R83YBUE67ySdEaSc1Wpsx"
+      },
+      "artists": [
+        {
+          "name": "OKI",
+          "url": "https://open.spotify.com/artist/1DyqDoMaDbFucSdywPnwhO"
+        }
+      ],
+      "duration_ms": 310446,
+      "name": "Yaykatekar Dub (Love Dub)",
+      "url": "https://open.spotify.com/track/6RAt5KUqAzW3XT8pVHTuTT"
+    },
+    {
       "added_at": "2022-04-06 01:47:33",
       "album": {
         "name": "\u015einanay / French Disko (Lagniappe Session)",
@@ -1131,6 +1147,22 @@
       "duration_ms": 236578,
       "name": "\u015einanay",
       "url": "https://open.spotify.com/track/2fXrL66WMT93qlrqreWXqa"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Bayti Fi Rasi",
+        "url": "https://open.spotify.com/album/7MV14EK7eAdEZdDVB5xHk6"
+      },
+      "artists": [
+        {
+          "name": "A-WA",
+          "url": "https://open.spotify.com/artist/1EK3SHXyGFZsuj4vrOLhAX"
+        }
+      ],
+      "duration_ms": 251319,
+      "name": "Hana Mash Hu Al Yaman",
+      "url": "https://open.spotify.com/track/4tnksYPh1C7j4qEoJipDFO"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1151,34 +1183,18 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Bayti Fi Rasi",
-        "url": "https://open.spotify.com/album/7MV14EK7eAdEZdDVB5xHk6"
+        "name": "Light",
+        "url": "https://open.spotify.com/album/3ZtpOPSQuN6hOtAlyBJqFT"
       },
       "artists": [
         {
-          "name": "A-WA",
-          "url": "https://open.spotify.com/artist/1EK3SHXyGFZsuj4vrOLhAX"
+          "name": "DakhaBrakha",
+          "url": "https://open.spotify.com/artist/5hQYZqZaPcRceL82mFZTO5"
         }
       ],
-      "duration_ms": 251319,
-      "name": "Hana Mash Hu Al Yaman",
-      "url": "https://open.spotify.com/track/4tnksYPh1C7j4qEoJipDFO"
-    },
-    {
-      "added_at": "2022-02-03 23:25:28",
-      "album": {
-        "name": "Tonkori In The Moonlight",
-        "url": "https://open.spotify.com/album/5R83YBUE67ySdEaSc1Wpsx"
-      },
-      "artists": [
-        {
-          "name": "OKI",
-          "url": "https://open.spotify.com/artist/1DyqDoMaDbFucSdywPnwhO"
-        }
-      ],
-      "duration_ms": 310446,
-      "name": "Yaykatekar Dub (Love Dub)",
-      "url": "https://open.spotify.com/track/6RAt5KUqAzW3XT8pVHTuTT"
+      "duration_ms": 346413,
+      "name": "Kolyskova",
+      "url": "https://open.spotify.com/track/02aLw97KKhqN6iMqjJntf3"
     },
     {
       "added_at": "2022-02-23 18:02:26",
@@ -1195,22 +1211,6 @@
       "duration_ms": 351374,
       "name": "Agrim Agadez",
       "url": "https://open.spotify.com/track/784k9MLp8Sce2hcItg5eaL"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
-        "name": "Light",
-        "url": "https://open.spotify.com/album/3ZtpOPSQuN6hOtAlyBJqFT"
-      },
-      "artists": [
-        {
-          "name": "DakhaBrakha",
-          "url": "https://open.spotify.com/artist/5hQYZqZaPcRceL82mFZTO5"
-        }
-      ],
-      "duration_ms": 346413,
-      "name": "Kolyskova",
-      "url": "https://open.spotify.com/track/02aLw97KKhqN6iMqjJntf3"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1353,22 +1353,6 @@
       "url": "https://open.spotify.com/track/2pKdE8YhzKRshWuQkolWlV"
     },
     {
-      "added_at": "2023-06-07 04:01:30",
-      "album": {
-        "name": "Taivshral",
-        "url": "https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq"
-      },
-      "artists": [
-        {
-          "name": "Enji",
-          "url": "https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s"
-        }
-      ],
-      "duration_ms": 187166,
-      "name": "Taivshral",
-      "url": "https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO"
-    },
-    {
       "added_at": "2022-02-18 03:47:28",
       "album": {
         "name": "Solst\u00edcio",
@@ -1389,6 +1373,22 @@
       "url": "https://open.spotify.com/track/1OvgFEAdvQp7va0C68UaiW"
     },
     {
+      "added_at": "2023-06-07 04:01:30",
+      "album": {
+        "name": "Taivshral",
+        "url": "https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq"
+      },
+      "artists": [
+        {
+          "name": "Enji",
+          "url": "https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s"
+        }
+      ],
+      "duration_ms": 187166,
+      "name": "Taivshral",
+      "url": "https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO"
+    },
+    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "\u0434\u043b\u044f FOR",
@@ -1403,22 +1403,6 @@
       "duration_ms": 96923,
       "name": "\u0434\u0432a TWO",
       "url": "https://open.spotify.com/track/0ycbHO4SfIOGKkviEO1GK1"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
-        "name": "Afrique Victime",
-        "url": "https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2"
-      },
-      "artists": [
-        {
-          "name": "Mdou Moctar",
-          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
-        }
-      ],
-      "duration_ms": 445816,
-      "name": "Afrique Victime",
-      "url": "https://open.spotify.com/track/1RhL5PGWaiYXwVmqOpj0Nm"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1441,20 +1425,20 @@
       "url": "https://open.spotify.com/track/250EZZGyjYplBum6Simk1B"
     },
     {
-      "added_at": "2022-08-31 05:11:30",
+      "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Enter J's Chamber",
-        "url": "https://open.spotify.com/album/0SYCOHLxNJksWTbAtP9PYo"
+        "name": "Afrique Victime",
+        "url": "https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2"
       },
       "artists": [
         {
-          "name": "Takeshi's Cashew",
-          "url": "https://open.spotify.com/artist/6Fz85Ih5XufwQ1TH4s0pHA"
+          "name": "Mdou Moctar",
+          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
         }
       ],
-      "duration_ms": 287026,
-      "name": "Serpentines (to Nik\u0161i\u0107)",
-      "url": "https://open.spotify.com/track/3qOF9KosQNYRlyoWQF5eAY"
+      "duration_ms": 445816,
+      "name": "Afrique Victime",
+      "url": "https://open.spotify.com/track/1RhL5PGWaiYXwVmqOpj0Nm"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1471,6 +1455,22 @@
       "duration_ms": 191963,
       "name": "Impasto",
       "url": "https://open.spotify.com/track/1z7SGD6F6OYGinYGyym9uC"
+    },
+    {
+      "added_at": "2022-08-31 05:11:30",
+      "album": {
+        "name": "Enter J's Chamber",
+        "url": "https://open.spotify.com/album/0SYCOHLxNJksWTbAtP9PYo"
+      },
+      "artists": [
+        {
+          "name": "Takeshi's Cashew",
+          "url": "https://open.spotify.com/artist/6Fz85Ih5XufwQ1TH4s0pHA"
+        }
+      ],
+      "duration_ms": 287026,
+      "name": "Serpentines (to Nik\u0161i\u0107)",
+      "url": "https://open.spotify.com/track/3qOF9KosQNYRlyoWQF5eAY"
     },
     {
       "added_at": "2023-03-29 18:06:57",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Zan",
-        "url": "https://open.spotify.com/album/3gzvo3s0ZBcBaQ5AJeYR77"
-      },
-      "artists": [
-        {
-          "name": "Liraz",
-          "url": "https://open.spotify.com/artist/0qTgfqWyTcC1VAYn2vSMpk"
-        }
-      ],
-      "duration_ms": 216640,
-      "name": "Bia Bia",
-      "url": "https://open.spotify.com/track/4IDK0f5LqdadZDSPhstlHb"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
         "name": "Te Ao M\u0101rama",
         "url": "https://open.spotify.com/album/0fPuf1jv42CH5okF6MjKmE"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 190653,
       "name": "Te Ao M\u0101rama / Solar Power",
       "url": "https://open.spotify.com/track/3Oz6UMkZPQFP14wLXYWLul"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Zan",
+        "url": "https://open.spotify.com/album/3gzvo3s0ZBcBaQ5AJeYR77"
+      },
+      "artists": [
+        {
+          "name": "Liraz",
+          "url": "https://open.spotify.com/artist/0qTgfqWyTcC1VAYn2vSMpk"
+        }
+      ],
+      "duration_ms": 216640,
+      "name": "Bia Bia",
+      "url": "https://open.spotify.com/track/4IDK0f5LqdadZDSPhstlHb"
     },
     {
       "added_at": "2022-03-04 21:17:03",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Calling England Home",
-        "url": "https://open.spotify.com/album/4qO6OhmdEda5cfBjDOTduz"
-      },
-      "artists": [
-        {
-          "name": "Anthony Joseph",
-          "url": "https://open.spotify.com/artist/622cbugSJevUkEanSBCab9"
-        }
-      ],
-      "duration_ms": 373893,
-      "name": "Calling England Home",
-      "url": "https://open.spotify.com/track/6jd5uWEpV3zdgnR0obsXZ2"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
         "name": "Optimisme",
         "url": "https://open.spotify.com/album/6uK3gAaZuQEh5cpB33B5GF"
       },
@@ -1667,22 +1651,18 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Global Control / Invisible Invasion",
-        "url": "https://open.spotify.com/album/1teOHeiThN9wbZLcYKfqjI"
+        "name": "Calling England Home",
+        "url": "https://open.spotify.com/album/4qO6OhmdEda5cfBjDOTduz"
       },
       "artists": [
         {
-          "name": "Ammar 808",
-          "url": "https://open.spotify.com/artist/0TAPEEcG2NQAfSKkreQWAM"
-        },
-        {
-          "name": "Susha",
-          "url": "https://open.spotify.com/artist/1ZwNmkTnRKkILlrPV2yPpC"
+          "name": "Anthony Joseph",
+          "url": "https://open.spotify.com/artist/622cbugSJevUkEanSBCab9"
         }
       ],
-      "duration_ms": 212946,
-      "name": "Geeta duniki",
-      "url": "https://open.spotify.com/track/6Y4txHIZfSfFfON6SG8484"
+      "duration_ms": 373893,
+      "name": "Calling England Home",
+      "url": "https://open.spotify.com/track/6jd5uWEpV3zdgnR0obsXZ2"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1711,6 +1691,26 @@
       "duration_ms": 305866,
       "name": "Sierra Madre (Remix)",
       "url": "https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Global Control / Invisible Invasion",
+        "url": "https://open.spotify.com/album/1teOHeiThN9wbZLcYKfqjI"
+      },
+      "artists": [
+        {
+          "name": "Ammar 808",
+          "url": "https://open.spotify.com/artist/0TAPEEcG2NQAfSKkreQWAM"
+        },
+        {
+          "name": "Susha",
+          "url": "https://open.spotify.com/artist/1ZwNmkTnRKkILlrPV2yPpC"
+        }
+      ],
+      "duration_ms": 212946,
+      "name": "Geeta duniki",
+      "url": "https://open.spotify.com/track/6Y4txHIZfSfFfON6SG8484"
     },
     {
       "added_at": "2022-03-04 03:59:12",

@@ -4,7 +4,7 @@
 
 > Unwind and restore with the sounds of the Flute, from Indian maestros & modern geniuses\. Cover : Shriram Sampath
 
-90 songs - 7 hr 52 min
+91 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Dance with the Gods](https://open.spotify.com/track/2CbuXkrjjd5SlbleoqUKhB) | [Mystic Flute](https://open.spotify.com/artist/6M39PKc1oDclJBcQVpOgyc) | [Vaayu \- Elemental Indian Bamboo Flute](https://open.spotify.com/album/7cNbb370gpMoNVvgKgTOJ7) | 10:59 | 2023-06-20 |  |
 | [Divine](https://open.spotify.com/track/66wXImRKuhTGpZ69DvZg7B) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Divine](https://open.spotify.com/album/6OrR8pnQUICQns5IRJVPay) | 4:05 | 2023-06-20 |  |
 | [Durga](https://open.spotify.com/track/1f3Etpk0UmSDoj4zHYqIHu) | [Flute Navin](https://open.spotify.com/artist/3apnz04XPisQ04dTfz2Gaw), [Sriram Ramesh](https://open.spotify.com/artist/0DxF5hX19dKuP5x4oE5N2F), [Marina Albero](https://open.spotify.com/artist/2jWfppHhFHZewG8RWk8LHb), [Evan Flory\-Barnes](https://open.spotify.com/artist/4OXSAa2INCHHC74mkGy80D) | [The London Bridge Sessions](https://open.spotify.com/album/4e3EI9dcP63C8kzY4n0qyj) | 3:58 | 2023-06-20 |  |
+| [Enchanting Flute](https://open.spotify.com/track/0zqWV67DuqFzLXiLJsAk9Z) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Krishna Aur Kans](https://open.spotify.com/album/4860cfaunfgt4lu0OGbZjv) | 3:17 | 2023-11-30 |  |
 | [Evening Solace](https://open.spotify.com/track/01jSVjoqH6QpjYTMGQhJx2) | [Iftekharul Anam](https://open.spotify.com/artist/49tDgukB5sliWr6MfgS0SY) | [Evening Solace](https://open.spotify.com/album/0vxPTagdaH4znrF1p0jNWX) | 7:03 | 2023-06-20 |  |
 | [Flute Music \- Krishna flute](https://open.spotify.com/track/0yfD9XIMKAbySuM7cmsEYc) | [Jeetu Bhowmik](https://open.spotify.com/artist/0cvOk0AMDkgfNwDMjEWiAV), [Subham jossi](https://open.spotify.com/artist/2AyLAsSZ03yoOx92gMD30U) | [Flute Music \(Krishna flute\)](https://open.spotify.com/album/58gnufbwqLbNE0OZQbUfDT) | 1:21 | 2023-06-20 |  |
 | [Flute Puriya Dhanashri](https://open.spotify.com/track/25m6wScMul9ga6xH7eo9Md) | [Bapu Padmanabha](https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x) | [Relaxing Ragas, Vol\. 5](https://open.spotify.com/album/5lSKOHtzMpxfh1nVr53dGI) | 2:08 | 2023-06-20 |  |
@@ -55,7 +56,7 @@
 | [Kautilya \(The Echo Project\)](https://open.spotify.com/track/0CS28Nfq8ZiVhwQrZpE85X) | [Rishab Rikhiram Sharma](https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu), [Naveen Kumar](https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR), [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT) | [Kautilya \(The Echo Project\)](https://open.spotify.com/album/2mjGYbVGCYiSHE0ZYJS1gE) | 3:11 | 2023-08-18 |  |
 | [Krishna Bansuri](https://open.spotify.com/track/4rFZgG0MTumGJBadcF66G6) | [Subham jossi](https://open.spotify.com/artist/2AyLAsSZ03yoOx92gMD30U), [Jeetu Bhowmik](https://open.spotify.com/artist/0cvOk0AMDkgfNwDMjEWiAV) | [Krishna Bansuri](https://open.spotify.com/album/1rA8kzZkghg5OI4AzwCQ4j) | 1:31 | 2023-06-20 |  |
 | [Light of Night](https://open.spotify.com/track/7rjWPpOeQPWtan08othxfi) | [Iftekharul Anam](https://open.spotify.com/artist/49tDgukB5sliWr6MfgS0SY) | [Light of Night](https://open.spotify.com/album/4hxC0op0FiyhjcMHWwHGvb) | 3:17 | 2023-06-20 |  |
-| [Lost In The Moment](https://open.spotify.com/track/1EQjRFsujGt5MXWcZ3e41d) | [Bansuri Tribe](https://open.spotify.com/artist/3lDjq6pzHn0pxLMw5gYgr0) | [Lost In The Moment](https://open.spotify.com/album/0XyDvrRxaVpme3G218gzJ5) | 3:32 | 2023-06-25 |  |
+| [Lost In The Moment](https://open.spotify.com/track/1EQjRFsujGt5MXWcZ3e41d) | [Bansuri Tribe](https://open.spotify.com/artist/3lDjq6pzHn0pxLMw5gYgr0) | [Lost In The Moment](https://open.spotify.com/album/0XyDvrRxaVpme3G218gzJ5) | 3:32 | 2023-06-25 | 2023-11-30 |
 | [Love Is My Cure](https://open.spotify.com/track/4kqekA8aWuYbvbn2WGecPW) | [Iftekharul Anam](https://open.spotify.com/artist/49tDgukB5sliWr6MfgS0SY), [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Love Is My Cure](https://open.spotify.com/album/3CQJtBcKv6o2yz7UrYLoV8) | 5:08 | 2023-06-20 |  |
 | [Mohana](https://open.spotify.com/track/63QIf46bybNGLt5sKIfljg) | [Naveen Kumar](https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR) | [Fluid \(Flute Grooves by Naveen Kumar\)](https://open.spotify.com/album/0FznvOl4NZqN1J9X2xuFEC) | 6:40 | 2023-09-18 |  |
 | [Monsoon Moon](https://open.spotify.com/track/53l3hRGFDvakOGlZNmOEJO) | [Sonic Xaman](https://open.spotify.com/artist/13vgYRGlLirVXX6Yoxzm8c) | [Monsoon Moon](https://open.spotify.com/album/5vkFkrsacJzdO1JuW0mLB1) | 4:04 | 2023-06-25 | 2023-11-02 |

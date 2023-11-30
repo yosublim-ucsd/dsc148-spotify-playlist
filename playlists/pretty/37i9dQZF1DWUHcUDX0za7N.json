@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU?si=trFsKDswS6WMzSd-RVFl4w\"> Shallipopi </a> and <a href=\"https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy?si=U8w7_PIuTm6h7wIv43Ji2g\"> ODUMODUBLVCK</a>",
-  "num_followers": 35205,
+  "num_followers": 35461,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTUwZWY1NTM3M2RjYTY4Y2VlMjJhZjBmZTVkMjUxZTJjZWFlN2Nm",
+  "snapshot_id": "MCw3YjBlNWIxYjdjZTdjYmVlNGVhZWRhMTQ0MTAzMjdlYjU0YWU4OGYw",
   "tracks": [
     {
       "added_at": "2023-11-24 00:01:00",
@@ -469,7 +469,7 @@
         }
       ],
       "duration_ms": 122374,
-      "name": "Panic Island )",
+      "name": "Panic Island",
       "url": "https://open.spotify.com/track/03TKqOsWlyjFA5IhWflp5t"
     },
     {
@@ -651,26 +651,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Kpe Paso",
-        "url": "https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR"
-      },
-      "artists": [
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 177915,
-      "name": "Kpe Paso",
-      "url": "https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Family Time",
         "url": "https://open.spotify.com/album/5kbGns9MNOAyvRhadymdy2"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 222056,
       "name": "Family time",
       "url": "https://open.spotify.com/track/20hAjy3wYx3VW8pWr3AgGx"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Kpe Paso",
+        "url": "https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 177915,
+      "name": "Kpe Paso",
+      "url": "https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Earth Song",
-        "url": "https://open.spotify.com/album/5a6ZjVaabN6JakII4rHBdo"
-      },
-      "artists": [
-        {
-          "name": "Wizard Chan",
-          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
-        }
-      ],
-      "duration_ms": 183536,
-      "name": "Earth Song",
-      "url": "https://open.spotify.com/track/2kstLu8PSeQl2A5ks13fm0"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Letter From Overseas (feat. Black Sherif)",
         "url": "https://open.spotify.com/album/6ucz02tBn7xRIRjJJ5kfHA"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 138243,
       "name": "Letter From Overseas (feat. Black Sherif)",
       "url": "https://open.spotify.com/track/67KA6E6erqyx2lL3ib0mxZ"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Earth Song",
+        "url": "https://open.spotify.com/album/5a6ZjVaabN6JakII4rHBdo"
+      },
+      "artists": [
+        {
+          "name": "Wizard Chan",
+          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
+        }
+      ],
+      "duration_ms": 183536,
+      "name": "Earth Song",
+      "url": "https://open.spotify.com/track/2kstLu8PSeQl2A5ks13fm0"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "SHUT IT DOWN",
-        "url": "https://open.spotify.com/album/0zoAELio4zrfT3tnYTkOdM"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Chocobantis",
-          "url": "https://open.spotify.com/artist/70Jve0OujgQxmXXxMBoVON"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "SHUT IT DOWN",
-      "url": "https://open.spotify.com/track/7209lSaT96QO2FEm7BYDLX"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Sere",
         "url": "https://open.spotify.com/album/5fzyuJuRuonlLJDnXzYx8q"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 130890,
       "name": "Sere",
       "url": "https://open.spotify.com/track/7bhCJLuXAhD7VXkjvwrtG4"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "SHUT IT DOWN",
+        "url": "https://open.spotify.com/album/0zoAELio4zrfT3tnYTkOdM"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Chocobantis",
+          "url": "https://open.spotify.com/artist/70Jve0OujgQxmXXxMBoVON"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "SHUT IT DOWN",
+      "url": "https://open.spotify.com/track/7209lSaT96QO2FEm7BYDLX"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "ALA BEKE 2",
-        "url": "https://open.spotify.com/album/2sDHYMxotwVrr40MSel3PG"
-      },
-      "artists": [
-        {
-          "name": "EverythingOShauN",
-          "url": "https://open.spotify.com/artist/5OTdYlGM1r6HuTFAonqq03"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 179571,
-      "name": "ALA BEKE 2",
-      "url": "https://open.spotify.com/track/4K9AA4YDiI3y4NPKevpyGN"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "2 Pac",
         "url": "https://open.spotify.com/album/7nVSprHJxzWVvVdlD4YP4D"
       },
@@ -1347,6 +1327,26 @@
       "duration_ms": 205090,
       "name": "Crown of Clay",
       "url": "https://open.spotify.com/track/4Zpa3krRpcTA7cPSb9vZ6l"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "ALA BEKE 2",
+        "url": "https://open.spotify.com/album/2sDHYMxotwVrr40MSel3PG"
+      },
+      "artists": [
+        {
+          "name": "EverythingOShauN",
+          "url": "https://open.spotify.com/artist/5OTdYlGM1r6HuTFAonqq03"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 179571,
+      "name": "ALA BEKE 2",
+      "url": "https://open.spotify.com/track/4K9AA4YDiI3y4NPKevpyGN"
     },
     {
       "added_at": "2023-11-24 00:01:00",

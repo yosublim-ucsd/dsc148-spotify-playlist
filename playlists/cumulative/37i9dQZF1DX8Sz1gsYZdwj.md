@@ -4,7 +4,7 @@
 
 > Drift off to these peaceful classical melodies.
 
-176 songs - 8 hr 31 min
+180 songs - 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [A Bad Dream That Will Pass Away](https://open.spotify.com/track/6XTKYGyydndSUV3OHHDwZU) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [A Bad Dream That Will Pass Away](https://open.spotify.com/album/4VCzs0bZIXVoNxQq5sGAnm) | 2:56 | 2022-03-18 |  |
 | [A Catalogue of Afternoons](https://open.spotify.com/track/2WkuESwWyJ1txlbXnDIwPm) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Voyager \- Essential Max Richter](https://open.spotify.com/album/3vEiYqSfrz7tHnHq14XHQd) | 1:48 | 2021-11-09 | 2023-10-25 |
 | [A Simple Little Lullaby](https://open.spotify.com/track/0If3zfg7N68SAaDgPAQa9l) | [Eamonn Watt](https://open.spotify.com/artist/2T4ifP8x0qzmkB2iY1LRZ7) | [A Simple Little Lullaby](https://open.spotify.com/album/5ro6Pk3RdEAVaf3HywFSOe) | 2:40 | 2021-11-09 |  |
+| [Adoration](https://open.spotify.com/track/14wPl9Hv5LFqZZdz2AbwRL) | [Jacques Blanc](https://open.spotify.com/artist/2pLiht9WILwFOx7VoxQQJJ) | [Adoration](https://open.spotify.com/album/495Axa6G5QO6M0NjP0zLD2) | 2:37 | 2023-11-29 |  |
 | [Afterlight](https://open.spotify.com/track/0X3mDFl8poPzyNQmrTe9fr) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Afterlight](https://open.spotify.com/album/4dNFgryxb6P7wJDsdPaupX) | 3:20 | 2023-10-10 |  |
 | [Album for the Young, Op\. 39: No\. 3\. Mamma \(Maman\)](https://open.spotify.com/track/4GjfVYoUJ0OCmDiL869kUJ) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Carol Rosenberger](https://open.spotify.com/artist/3lYDYx5OUgPVrVvFLCCRB7) | [Piano Recital: Rosenberger, Carol \- Kabalevsky, D\. / Tchaikovsky, P\. \(Perchance To Dream \- A Lullaby Album for Children and Adults\)](https://open.spotify.com/album/2wiv4F0IkUWwFkv453uEkT) | 1:33 | 2021-11-09 | 2023-10-25 |
 | [All We Shared](https://open.spotify.com/track/2VIqbLiw40FESThOqVcUtr) | [Laurent Wilks](https://open.spotify.com/artist/2jpGlziwuj9JAqH8kZXnes) | [All We Shared](https://open.spotify.com/album/37r4pHddFZxrafYpqPv7pl) | 2:04 | 2023-09-29 |  |
@@ -39,6 +40,7 @@
 | [Connemara](https://open.spotify.com/track/7JinB2F0516WbcPMtFepu6) | [Calan McIntyre](https://open.spotify.com/artist/10ikUifTOz1UW6yo1C4aKz) | [Connemara](https://open.spotify.com/album/5OkQ447PqYUX6t0zwSIhND) | 3:07 | 2023-09-29 |  |
 | [Currents](https://open.spotify.com/track/5pDfqYDr6sOiYcUqReOqV0) | [Michael Logozar](https://open.spotify.com/artist/3CdSdPQ1G7MjoUWr3Hm2P2) | [Currents](https://open.spotify.com/album/6Le87TgUSamNkbE8DLOXx0) | 2:04 | 2023-02-28 |  |
 | [Da una persona cara](https://open.spotify.com/track/0B7YgaCYEmrUGpwV1zSBhN) | [Belle Margaux](https://open.spotify.com/artist/3WKsLlBJ9kQc0ccsuEuZdu) | [Da una persona cara](https://open.spotify.com/album/2N0O1JDj8QFgqFiJ9uIrc5) | 2:20 | 2023-09-29 |  |
+| [Dandelions](https://open.spotify.com/track/1HoCLME8rDSpksyIVgfs5w) | [Linior](https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw) | [Dandelions](https://open.spotify.com/album/1StyA6SuWHuexqkYAEaJEA) | 2:23 | 2023-11-29 |  |
 | [Deux Pensées](https://open.spotify.com/track/4jgazYikKO5Xhctuhc0snS) | [Darker In Vine](https://open.spotify.com/artist/58jh9fSzagZAZLbetSDIIg) | [Deux Pensées](https://open.spotify.com/album/25AWPRVmAbWIiGe7pIm9xA) | 2:49 | 2021-11-09 | 2022-08-02 |
 | [Dream 1 \(before the wind blows it all away\) \- Pt\. 8](https://open.spotify.com/track/1A8qD0Ygjzsby5OmXh1PTa) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Sleep](https://open.spotify.com/album/0JLN7JryQ2T7lBEYIrSQF1) | 1:58 | 2023-02-28 | 2023-10-25 |
 | [Due tramonti](https://open.spotify.com/track/1Zv6RyHM08gyC4qvOlCZUL) | [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Passaggio](https://open.spotify.com/album/7FLcizCIuoOOTEKUZlrANJ) | 4:27 | 2021-11-09 |  |
@@ -103,6 +105,7 @@
 | [Nederlag](https://open.spotify.com/track/2Ibyx9m0rs3MSVWdqaCWkI) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Nederlag](https://open.spotify.com/album/7aSmFOHD0J5i8Chj24XDzQ) | 2:17 | 2022-06-21 |  |
 | [Nederlag](https://open.spotify.com/track/2Or57lFpdUW3dtjg82VrBt) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Nederlag](https://open.spotify.com/album/39AL4A5Eq7QEDW0TU36UzT) | 2:17 | 2022-02-21 | 2022-07-29 |
 | [New Day](https://open.spotify.com/track/5p7DcsDqbHeMO02ZusP48R) | [Andrea Monet](https://open.spotify.com/artist/44OGVPM58fHybAAajAAHxk) | [New Day](https://open.spotify.com/album/0eYAsTv3fBqPMwY1FlbDvl) | 2:51 | 2023-09-29 |  |
+| [New Era For Me](https://open.spotify.com/track/3e1LaYRy3UgTqOzVEvkaAz) | [Dustin Tomas](https://open.spotify.com/artist/2uflvyKj2mPIzddN3MEjLs) | [New Era For Me](https://open.spotify.com/album/3ZnZYWFkWrgSZNWGg1sOl4) | 2:37 | 2023-11-29 |  |
 | [New Moon](https://open.spotify.com/track/4SWqlyQxKodNKeirLkcysT) | [Hakone](https://open.spotify.com/artist/21exwUEFwK59KTe51vTfjI) | [Beyond The Horizon](https://open.spotify.com/album/424n6K5q9ff7X0dUJooPZn) | 3:00 | 2023-09-29 |  |
 | [Night Clouds](https://open.spotify.com/track/0OpqhQTV2qBimQyFhQAuDF) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Night Clouds](https://open.spotify.com/album/7lSnDLFVQkxKYmtPQWeFTd) | 2:52 | 2023-10-10 |  |
 | [Night Studies: Study 1.1.1 \(Nachts\)](https://open.spotify.com/track/265m4RXrWWR9AJ11jujV47) | [Marino Formenti](https://open.spotify.com/artist/6yX3HigXXYXLv2auxRNkbB) | [Night Studies](https://open.spotify.com/album/30VdZldbyFfiu7ti1Bnw9R) | 2:32 | 2022-01-24 | 2022-02-01 |
@@ -143,6 +146,7 @@
 | [Satori](https://open.spotify.com/track/24gIZr0tHpmgg92zkc8YMm) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Satori](https://open.spotify.com/album/3q8rTx0wU3FaaGwmuhhfcn) | 2:18 | 2023-09-29 |  |
 | [Shroud of Night](https://open.spotify.com/track/55gJzsjaRb0nSv8ZyuUBqC) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Shroud of Night](https://open.spotify.com/album/5jIsBJGqv1y994K54N1QTp) | 3:19 | 2023-02-28 |  |
 | [Silent joy](https://open.spotify.com/track/5lS2q5nrx4qmBUD2ew3QMV) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [Silent joy](https://open.spotify.com/album/29NkfVf1QGHv64uleVpGqo) | 2:25 | 2023-09-29 |  |
+| [Sleeping On Clouds](https://open.spotify.com/track/3hZOoFLCKOWk7UlHbqQbo0) | [Etne Skiöld](https://open.spotify.com/artist/2hBTCIkNqbHQYTDIhxDfJD) | [Sleeping On Clouds](https://open.spotify.com/album/6EQ1DXLD8BGNnK2hgmcJv3) | 2:00 | 2023-11-29 |  |
 | [Slow Sorrow](https://open.spotify.com/track/5rJVqzACUYjXwLqA4sAbib) | [Minnie Aoyama](https://open.spotify.com/artist/5AmhcDvUI7dmOI8U57NoC4) | [Slow Sorrow](https://open.spotify.com/album/1EGFcI9mmUc9KmorkNZyGx) | 2:04 | 2023-09-29 |  |
 | [Slowly](https://open.spotify.com/track/3i5Qo75v7ijp9YE0iOnFS5) | [Carl Moir](https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO) | [Slowly](https://open.spotify.com/album/1eVrn1rTgnQZQuQOIZ0jfD) | 3:16 | 2023-09-29 |  |
 | [Smoothness](https://open.spotify.com/track/2Fn9MiptYoek7WhvXxoGdD) | [Nikola Zolkiewska](https://open.spotify.com/artist/0SA6z90K5j50moLpfjA5vC) | [Cinematic Beauty](https://open.spotify.com/album/1qz2IKRnTVNklb6LcuwXYN) | 2:33 | 2021-11-09 | 2022-02-01 |

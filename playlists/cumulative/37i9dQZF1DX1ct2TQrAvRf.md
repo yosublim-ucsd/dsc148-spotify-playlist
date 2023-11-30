@@ -4,7 +4,7 @@
 
 > India's Rap Scene\. Cover\- Raftaar
 
-118 songs - 6 hr 37 min
+119 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,10 +72,11 @@
 | [KALESHI CHORI](https://open.spotify.com/track/6FrihRowEuYfNehH0zcx0e) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Harjas Harjaayi](https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ), [VIRTUAL\_AF](https://open.spotify.com/artist/1Ik6g05IoSfFmpqi4Jg7Kc), [DARK HORSE](https://open.spotify.com/artist/4v9G79IPGEpwTbgB6TUUaY) | [KALESHI CHORI](https://open.spotify.com/album/0Hgw8x1UFcmeReCtxDW24U) | 3:31 | 2023-03-27 |  |
 | [Keka](https://open.spotify.com/track/3SpiVieZ0v5rRoKPwE6Vhi) | [Asura](https://open.spotify.com/artist/3nCR5IOuKcua8VQJToRuT6), [neevbruv](https://open.spotify.com/artist/6vRNUVku9U6OorQsoS4Cu8) | [Astra](https://open.spotify.com/album/76ED3HjMJXYLx40VBzqydN) | 2:24 | 2023-06-01 | 2023-06-09 |
 | [Khadhhar](https://open.spotify.com/track/6BlFOA7vsaG83IMAbEgkEY) | [MC Hari](https://open.spotify.com/artist/5fAyRRV9ivuTIRFVpwzxF8) | [Khadhhar](https://open.spotify.com/album/74QC2sAPIRHcHwr6zg8b3z) | 2:43 | 2023-06-01 | 2023-06-09 |
+| [Kheench Maari](https://open.spotify.com/track/2W45HI9Tfj1YdhMHJE0Lnd) | [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Nitin Randhawa](https://open.spotify.com/artist/0WIMfLnFgEZkwlzCaemJkS) | [Kheench Maari](https://open.spotify.com/album/1Vp9PMPUHVdITIdbtzlQmH) | 2:48 | 2023-11-29 |  |
 | [King Of Indian Hip Hop](https://open.spotify.com/track/21noylFh40f8j2lyWah95R) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [King Of Indian Hip Hop](https://open.spotify.com/album/6CiopvBPnSPd7G6l3qbbHt) | 7:20 | 2023-06-08 |  |
 | [Kohinoor](https://open.spotify.com/track/6SNFuJXjkgauo3Kg9XJcj6) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Kohinoor](https://open.spotify.com/album/47prNGpfOQnYYf5mIKaGNL) | 3:18 | 2023-03-27 | 2023-09-02 |
 | [Koi Nahi Puchta](https://open.spotify.com/track/08y3eOkOpfQ9VE49XMDBiz) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Robin Hood](https://open.spotify.com/album/6sVYed41ypnAPwcoHOXzWu) | 3:45 | 2023-10-26 |  |
-| [Krantinaari](https://open.spotify.com/track/7g8Tz72jAN2IdrZs7q13zG) | [Krantinaari](https://open.spotify.com/artist/6Tu5CwG6fBnZqlH5jac6XP), [RaaKshaS Sound](https://open.spotify.com/artist/5UvJGAboUH4MluIk0o5CS0) | [Krantinaari](https://open.spotify.com/album/1pV4OORNDkksKLH5M8cmHG) | 2:34 | 2023-10-26 |  |
+| [Krantinaari](https://open.spotify.com/track/7g8Tz72jAN2IdrZs7q13zG) | [Krantinaari](https://open.spotify.com/artist/6Tu5CwG6fBnZqlH5jac6XP), [RaaKshaS Sound](https://open.spotify.com/artist/5UvJGAboUH4MluIk0o5CS0) | [Krantinaari](https://open.spotify.com/album/1pV4OORNDkksKLH5M8cmHG) | 2:34 | 2023-10-26 | 2023-11-30 |
 | [Kudi](https://open.spotify.com/track/0oRcVOYsdFICJsH5FD9Rj5) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I), [Swaalina](https://open.spotify.com/artist/2mIcM14FamHYPzBbHRIsPE) | [Kudi](https://open.spotify.com/album/73ATQ9LpJkVKtUDTyZ9aob) | 3:10 | 2023-08-03 |  |
 | [Kya Bolti Public](https://open.spotify.com/track/5pbabJiM6eIIm1x3pWBnbl) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I), [Young Galib](https://open.spotify.com/artist/7oSaiYIWj9u22z7afFZc5o) | [Kya Bolti Public](https://open.spotify.com/album/3C6F1TyvCL67WNnYLNlzvK) | 2:24 | 2023-05-08 | 2023-08-18 |
 | [Laado](https://open.spotify.com/track/0NuWRfZRWzn1oc9piFhK9n) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Laado](https://open.spotify.com/album/0vEzErGiuiczFnmuOD35sB) | 2:28 | 2023-09-01 |  |

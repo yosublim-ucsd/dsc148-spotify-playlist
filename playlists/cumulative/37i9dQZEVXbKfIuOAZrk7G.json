@@ -4506,7 +4506,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 169990,
       "name": "BLEED",
       "url": "https://open.spotify.com/track/2m6HgwjakjAXimujX8m4sk"
@@ -14316,7 +14316,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-29",
+      "date_removed": null,
       "duration_ms": 143327,
       "name": "HARLEY QUINN",
       "url": "https://open.spotify.com/track/6CvTEtGagmzQvkUzzyKR9k"
@@ -15154,6 +15154,24 @@
       "duration_ms": 187693,
       "name": "Hollywood Baby",
       "url": "https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU"
+    },
+    {
+      "album": {
+        "name": "Holy Ghost",
+        "url": "https://open.spotify.com/album/5y1s96lknw32i5O1OObkhg"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186153,
+      "name": "Holy Ghost",
+      "url": "https://open.spotify.com/track/0zVk3uuV9UhxAt48F3OL12"
     },
     {
       "album": {
@@ -17732,7 +17750,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-29",
+      "date_removed": null,
       "duration_ms": 201066,
       "name": "Intrusive Thoughts",
       "url": "https://open.spotify.com/track/6PwrZtyXv480zMraalNzPd"
@@ -33008,7 +33026,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 206019,
       "name": "Standing Next to You",
       "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
@@ -36448,7 +36466,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 219883,
       "name": "To Be A Man (feat. Darius Rucker)",
       "url": "https://open.spotify.com/track/0dXPW8HPmTl4oIGkshXo9F"
@@ -37510,6 +37528,14 @@
         {
           "name": "Jay Hound",
           "url": "https://open.spotify.com/artist/57BGWi9z8Ay8NCKNSwUfF8"
+        },
+        {
+          "name": "Jay5ive",
+          "url": "https://open.spotify.com/artist/18s69FZXxRIRCpr6Of5mRB"
+        },
+        {
+          "name": "SweepersENT",
+          "url": "https://open.spotify.com/artist/3gQoRf2OOQucNCzox0TI9l"
         }
       ],
       "date_added": "2023-11-17",

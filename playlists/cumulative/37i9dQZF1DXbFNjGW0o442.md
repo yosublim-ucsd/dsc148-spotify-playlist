@@ -4,7 +4,7 @@
 
 > Guerreras del rock latinoamericano\. Foto: Barbi Recanati
 
-258 songs - 15 hr 24 min
+259 songs - 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Cancion Del Pinar](https://open.spotify.com/track/4YPLZxPs21yQQ1noPsLWNo) | [Silvina Garre](https://open.spotify.com/artist/6q9n20PmMRLtZc1xCgq0r3) | [La Mañana Siguiente](https://open.spotify.com/album/3FiojM8DKWg6Jo4fYbc4qg) | 3:41 | 2022-01-20 |  |
 | [Carapazón](https://open.spotify.com/track/0mjtqNKNsTyEugEbZ6aXji) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Seremos Primavera](https://open.spotify.com/album/0tSMSwjfT12rseYGq7I3SB) | 3:25 | 2022-01-20 |  |
 | [Change Your Mind](https://open.spotify.com/track/5yqgKyX1TOG41LBSosE1X8) | [Pacifica](https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse) | [Change Your Mind](https://open.spotify.com/album/4DmQXKj0chk1Prwe0rbkhe) | 2:27 | 2023-08-25 |  |
-| [Chica Rutera](https://open.spotify.com/track/7mULoTsK56Nfyf7o50LKk3) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3), [Poseidotica](https://open.spotify.com/artist/35c7I7m05XIsgtiCq1o99U) | [Chica Rutera](https://open.spotify.com/album/677rkyQAwxStGoAqiRiLiy) | 5:08 | 2022-01-20 |  |
+| [Chica Rutera](https://open.spotify.com/track/7mULoTsK56Nfyf7o50LKk3) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3), [Poseidotica](https://open.spotify.com/artist/35c7I7m05XIsgtiCq1o99U) | [Chica Rutera](https://open.spotify.com/album/677rkyQAwxStGoAqiRiLiy) | 5:08 | 2022-01-20 | 2023-11-30 |
 | [Chica Violeta](https://open.spotify.com/track/33LXQJNNaKTHEZitBkU6w4) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [Chica Violeta](https://open.spotify.com/album/6kyBU0La8C9ulnPamJzcD7) | 6:26 | 2023-09-01 |  |
 | [Clavícula](https://open.spotify.com/track/3hXiJ5n6IIqTqWAtZSg90P) | [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Lucy Patané](https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w) | 2:49 | 2022-01-20 |  |
 | [Close Talker](https://open.spotify.com/track/6Xz6yDLA9s5U0odqQJyr1w) | [Las Kellies](https://open.spotify.com/artist/39BGM7H9RgvHrLoTuqHtze) | [Close Talker](https://open.spotify.com/album/7KNPZWmHzgoPK0dEs9Hpoy) | 3:17 | 2022-01-20 | 2022-07-15 |
@@ -68,7 +68,7 @@
 | [Dibujo un Corazón](https://open.spotify.com/track/1VgY592fUbgh7m9FAEmQsy) | [Sr Tomate](https://open.spotify.com/artist/4H1MDie4DNcC292GeGPoZ8) | [Allá en la Tierra](https://open.spotify.com/album/1olQzg5FvSWIAVTBwMsp7T) | 3:59 | 2022-01-20 | 2022-07-27 |
 | [Dibujo un Corazón](https://open.spotify.com/track/3MYyanjnZPzyEMWT9DuhII) | [Sr Tomate](https://open.spotify.com/artist/4H1MDie4DNcC292GeGPoZ8) | [Allá en la Tierra](https://open.spotify.com/album/6d5HzBPGmyjgZLjCs99IIn) | 3:59 | 2022-07-15 |  |
 | [Difícil](https://open.spotify.com/track/7vSk4iRkEZlhAo8cHTv43h) | [Manena Duel](https://open.spotify.com/artist/0xTjgMdSazGzYwhu6WCQft) | [Difícil](https://open.spotify.com/album/6wSCmwzqdAbD3PQ0uIqAjy) | 3:22 | 2022-01-20 | 2022-07-29 |
-| [Dime Si \- remix](https://open.spotify.com/track/0loFeCW1BOS6hclCR34I84) | [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl) | [Dime Si \(remix\)](https://open.spotify.com/album/6dhowGbbDriIPxZLZuisVO) | 4:14 | 2023-11-24 |  |
+| [Dime Si \- remix](https://open.spotify.com/track/0loFeCW1BOS6hclCR34I84) | [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl) | [Dime Si \(remix\)](https://open.spotify.com/album/6dhowGbbDriIPxZLZuisVO) | 4:14 | 2023-11-24 | 2023-11-30 |
 | [Directa](https://open.spotify.com/track/4SuLvV6N2mpxucwiWLJ4oc) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [Gracias por Cuidar el Equipo](https://open.spotify.com/album/4eVPY8ZtGm1KDS8P1RKsCY) | 3:47 | 2022-01-20 |  |
 | [Donde Van Mis Pies](https://open.spotify.com/track/2i9ocfwryqSKDxJVOCjsWg) | [María Rosa Yorio](https://open.spotify.com/artist/2GrKE2j3FFdSw8eAtrZqmq) | [Puertos](https://open.spotify.com/album/3DAwdIJ9cQC0K4its1cbyV) | 2:54 | 2022-01-20 | 2022-07-27 |
 | [Dormis?](https://open.spotify.com/track/5QmbF5VO4HmSRuTrBQTloW) | [Andrea Álvarez](https://open.spotify.com/artist/3yqDlJ3CJ7ke94UNVqKE7n) | [Dormis?](https://open.spotify.com/album/5QxZ0o2KsC2zCmSZI1W1kd) | 3:09 | 2022-01-20 | 2022-07-29 |
@@ -110,6 +110,7 @@
 | [Gira por el Interior](https://open.spotify.com/track/5vfifUxxB7OdXiqNSlGAvE) | [Marina Wil](https://open.spotify.com/artist/6QxpTfXermR3g5udEQGTe4) | [Gira por el Interior](https://open.spotify.com/album/3PdyLzRWeHoOAnkD4dONO3) | 3:54 | 2022-01-20 | 2022-10-28 |
 | [give/UP](https://open.spotify.com/track/3VjCRe4un6MDLH5Bt1CqLh) | [Le Butcherettes](https://open.spotify.com/artist/1d7CbKqK4lFpKyU442bZC6) | [bi/MENTAL](https://open.spotify.com/album/3XuJE4Y50tva93lL4uxfle) | 3:40 | 2022-01-20 | 2023-11-10 |
 | [Génesis](https://open.spotify.com/track/2Xx1vZX9UEBnwx11RfiElg) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [La Génesis](https://open.spotify.com/album/7INDQXcbx1ybFp6flr2bah) | 4:26 | 2022-01-20 | 2023-06-26 |
+| [Haku \- Bonus Track](https://open.spotify.com/track/3NNCxji6geukyGjPzDaRlZ) | [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Mala \(Edición Malísima\)](https://open.spotify.com/album/5OaoeHCPd7Q3UwXpXOAknq) | 3:40 | 2023-11-24 |  |
 | [Hey](https://open.spotify.com/track/58GQd1iu8VizO0lYM1pMs7) | [Denisse Malebrán](https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr) | [Hey](https://open.spotify.com/album/0OBfPwgHs21rpksGctLtzM) | 3:12 | 2022-01-20 | 2022-07-28 |
 | [Hice Todo Mal](https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Hice Todo Mal](https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb) | 3:14 | 2022-01-20 |  |
 | [Hilary D.](https://open.spotify.com/track/6NUfAIEW5Hj3qo8Cj5pEaP) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Hilary D.](https://open.spotify.com/album/38Re6Gvisocy40gAON78H3) | 4:02 | 2022-01-20 | 2023-06-11 |
@@ -239,7 +240,7 @@
 | [Te agradezco el amor](https://open.spotify.com/track/46BaZ59np0gv09H31naITO) | [Cecilia Toussaint](https://open.spotify.com/artist/7a2z7CIBSPqXtuN6NzSpGb) | [El lado sur de mi corazón](https://open.spotify.com/album/2Ds1yMcaZxlqq5qh3Uun8o) | 2:55 | 2022-01-20 | 2022-07-29 |
 | [Tengo Ganas](https://open.spotify.com/track/2XIgbgLK1303sJzh3ijDY6) | [Piba](https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb) | [Tengo Ganas](https://open.spotify.com/album/6sLKSZ4mYBOcXjbTPDqOQI) | 4:00 | 2022-01-20 | 2023-04-05 |
 | [Teoria Espacial](https://open.spotify.com/track/5VizzlCG9Dk90xauIBB0Ym) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Teoria Espacial](https://open.spotify.com/album/4Xu9USd1LkXxBAu2GETnqi) | 3:50 | 2022-01-20 |  |
-| [Tiro de Gracia](https://open.spotify.com/track/60tZwScYfPsB314xJ3zuYc) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Tiro de Gracia](https://open.spotify.com/album/6ro7NdgISN4SVWrea2V2SU) | 3:42 | 2022-07-06 | 2023-11-25 |
+| [Tiro de Gracia](https://open.spotify.com/track/60tZwScYfPsB314xJ3zuYc) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Tiro de Gracia](https://open.spotify.com/album/6ro7NdgISN4SVWrea2V2SU) | 3:42 | 2022-07-06 |  |
 | [Todo el mundo miente](https://open.spotify.com/track/6ZMgbNbxY8galJWreQd2ZV) | [Las Dianas](https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm) | [Todo el mundo miente](https://open.spotify.com/album/0sBB4s7wiQkFzsq9JPYE1T) | 3:27 | 2022-01-20 | 2023-05-16 |
 | [Todo Se Está Cayendo](https://open.spotify.com/track/06qkUcnKSLVobh8wc4RhBV) | [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk) | [Todo Se Está Cayendo](https://open.spotify.com/album/7ncc7rL0uXgBkf9vXNCSB1) | 4:15 | 2022-01-20 | 2023-01-28 |
 | [Todo Se Está Cayendo](https://open.spotify.com/track/2on6Uws8Ku8izt4Kb1PYG8) | [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk) | [Todo Se Está Cayendo](https://open.spotify.com/album/1B60TuVtUl7PPsrWbuOAn6) | 4:15 | 2023-02-03 |  |

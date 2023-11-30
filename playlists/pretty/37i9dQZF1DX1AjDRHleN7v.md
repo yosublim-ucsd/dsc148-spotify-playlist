@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 
 > Um pouco de reggae pra acompanhar a brisa do mar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,241 likes - 60 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,342 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,11 +48,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 38 | [Vou Agradecer](https://open.spotify.com/track/6FpK0zclfVVqFBQHxxp4cl) | [Gabriel Carmo](https://open.spotify.com/artist/5apI1VSAPnJvQWMMUpQXPc), [Manu Testa](https://open.spotify.com/artist/15xByX487ejik5EeNySqxQ) | [Vou Agradecer](https://open.spotify.com/album/41TqnxKqqb5N0HlkVlBk0A) | 3:39 |
 | 39 | [Toda Molhada \(Casa do Sol\) \- Ao Vivo 25 Anos](https://open.spotify.com/track/1g6Ng6XKGC8ns0aWFS5Zun) | [Comunidade Nin\-jitsu](https://open.spotify.com/artist/46Jgh80vLc36SBFi9UXpcg) | [Toda Molhada \(Casa do Sol\) \- Ao Vivo 25 Anos](https://open.spotify.com/album/3qDRvHE5ZYck86T7SrGdS1) | 4:35 |
 | 40 | [Por aí](https://open.spotify.com/track/7zfACboYexn19rWa8mwCFA) | [Suwave](https://open.spotify.com/artist/3Phb6QnBcerqU7CgREycRe) | [Por Aí](https://open.spotify.com/album/1dlrX9KQDl0iGEvrj1ho8L) | 3:05 |
-| 41 | [Sem Medo](https://open.spotify.com/track/2zEdAMvFYrYjuWk6lExQfB) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Sessão Aberta Acústico](https://open.spotify.com/album/0WpWvWY5iKQTYuNnqum8qI) | 4:05 |
-| 42 | [Filho do Mar](https://open.spotify.com/track/3kVixQI3JlFiIUPy3jjck9) | [Banda Nossa Praia](https://open.spotify.com/artist/7ES8RFsuGv3pM0x34FSTIv) | [Filho do Mar](https://open.spotify.com/album/4ZVhVkoYsJn5ZykZfQGfBO) | 3:35 |
+| 41 | [Filho do Mar](https://open.spotify.com/track/3kVixQI3JlFiIUPy3jjck9) | [Banda Nossa Praia](https://open.spotify.com/artist/7ES8RFsuGv3pM0x34FSTIv) | [Filho do Mar](https://open.spotify.com/album/4ZVhVkoYsJn5ZykZfQGfBO) | 3:35 |
+| 42 | [Sem Medo](https://open.spotify.com/track/2zEdAMvFYrYjuWk6lExQfB) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Sessão Aberta Acústico](https://open.spotify.com/album/0WpWvWY5iKQTYuNnqum8qI) | 4:05 |
 | 43 | [40 Graus](https://open.spotify.com/track/1XHJzC9TKXgbrMk3KFc9tj) | [Igor Borborema](https://open.spotify.com/artist/1y9uZNOkz8wDHfjCqi22D2), [Khouri](https://open.spotify.com/artist/41gBrGxvxCloe8iijf1iDQ), [Menestrel Republicano](https://open.spotify.com/artist/2chZH9QmVHdoiDyKQSNXZ8) | [40 Graus](https://open.spotify.com/album/423mOe8bfFnYPyoZjyIp56) | 3:06 |
-| 44 | [Saquarema \- Remix](https://open.spotify.com/track/3UroqLcI69FDBw4l41iVGO) | [Blitz](https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ) | [Saquarema \(Remix\)](https://open.spotify.com/album/7sWij8NaethU2vuouVcjgr) | 3:52 |
-| 45 | [Avenida da Paixão](https://open.spotify.com/track/6G0KUN8I6R0xN9M2jmDlNX) | [Pagui](https://open.spotify.com/artist/7bSkVdJAG3faHcw3lnBK7y) | [Avenida da Paixão](https://open.spotify.com/album/4k7qkWs4sfeJc4cl628ynJ) | 2:32 |
+| 44 | [Avenida da Paixão](https://open.spotify.com/track/6G0KUN8I6R0xN9M2jmDlNX) | [Pagui](https://open.spotify.com/artist/7bSkVdJAG3faHcw3lnBK7y) | [Avenida da Paixão](https://open.spotify.com/album/4k7qkWs4sfeJc4cl628ynJ) | 2:32 |
+| 45 | [Saquarema \- Remix](https://open.spotify.com/track/3UroqLcI69FDBw4l41iVGO) | [Blitz](https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ) | [Saquarema \(Remix\)](https://open.spotify.com/album/7sWij8NaethU2vuouVcjgr) | 3:52 |
 | 46 | [Caiçara](https://open.spotify.com/track/348fxaFJRVpt775GjR31aM) | [Vitti Romera](https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk) | [Caiçara](https://open.spotify.com/album/7GRtOhtBDFj6jRTFKrgoZK) | 2:54 |
 | 47 | [Eleva](https://open.spotify.com/track/5sRGPPWfKuP6ytamjiZX00) | [Refinaria](https://open.spotify.com/artist/6d3WINgz7m8IPEt9rlYVgJ), [Chico Martins](https://open.spotify.com/artist/4AixCL5u5yznkGKB4DKCAw) | [Eleva](https://open.spotify.com/album/2ihl3JKPKWTIS342D41zFA) | 3:34 |
 | 48 | [Tchau Querido](https://open.spotify.com/track/5YRYqGDj8I2QVq9hihSZA8) | [Pilar](https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe) | [Ascenda](https://open.spotify.com/album/17vkIbWTbSp2oy4ZlXn0y8) | 3:37 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 59 | [Pôr do Sol](https://open.spotify.com/track/14OvMZKORBzPf16ZWwQtUL) | [Noel Ferrari](https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux) | [Pôr do Sol](https://open.spotify.com/album/5vdy3biDY8tZP2OzcHiC0w) | 3:48 |
 | 60 | [Enquanto Houver](https://open.spotify.com/track/3tMOge7zmbH20bw78vWTGj) | [Walace Fonseca](https://open.spotify.com/artist/4xgWOvc4WXipnXYfA3JYIW), [Bruno Harry](https://open.spotify.com/artist/4t793GwdVTpumLvvKDkVsF) | [Enquanto Houver](https://open.spotify.com/album/2MXJJpkpyxiUHO1c0Y405O) | 3:00 |
 
-Snapshot ID: `MCwxNTI2ZDA0MWU5MzM1ZGJjNWE1M2I2NTg5MDMzMzI4NDNjNjc2ZTRi`
+Snapshot ID: `MCxkM2YwMzBjZDNhZGFjM2MzZDlmYmFjYTYxMmY2OTA2N2ZjZDc2NjNj`

@@ -1,12 +1,12 @@
 {
   "description": "El amor no se escucha, se siente...",
-  "num_followers": 526127,
+  "num_followers": 526217,
   "original_name": "Radio Coraz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1N2QwOTllYTA2ODE2NDYwYTY0MTZkYTAyOGViNTYyNmJkOTdmN2Nh",
+  "snapshot_id": "MCxhZmMyZjc2M2JhYjk2YWYyZGVhNjUxYjg4ZjQxNTAzNTMzYjhjNmE3",
   "tracks": [
     {
       "added_at": "2023-10-20 23:43:16",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-10-20 23:43:16",
       "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 343413,
-      "name": "Coraz\u00f3n part\u00edo",
-      "url": "https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ"
-    },
-    {
-      "added_at": "2023-10-20 23:43:16",
-      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 224973,
       "name": "S\u00e1lvame",
       "url": "https://open.spotify.com/track/3hbTkJ0yFzHbawnKyhvTQj"
+    },
+    {
+      "added_at": "2023-10-20 23:43:16",
+      "album": {
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 343413,
+      "name": "Coraz\u00f3n part\u00edo",
+      "url": "https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ"
     },
     {
       "added_at": "2023-10-20 23:43:16",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-10-20 23:43:16",
       "album": {
-        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
-        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 292760,
-      "name": "Te Llor\u00e9 Un R\u00edo",
-      "url": "https://open.spotify.com/track/4HrX1xb0RsnmmJqN52hhHj"
-    },
-    {
-      "added_at": "2023-10-20 23:43:16",
-      "album": {
         "name": "En Total Plenitud",
         "url": "https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 228920,
       "name": "\u00bfA D\u00f3nde Vamos A Parar?",
       "url": "https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv"
+    },
+    {
+      "added_at": "2023-10-20 23:43:16",
+      "album": {
+        "name": "Si",
+        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 239226,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5"
     },
     {
       "added_at": "2023-10-20 23:43:16",
@@ -943,18 +943,18 @@
     {
       "added_at": "2023-10-20 23:43:16",
       "album": {
-        "name": "Si",
-        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
+        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
+        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
       },
       "artists": [
         {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         }
       ],
-      "duration_ms": 239226,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5"
+      "duration_ms": 292760,
+      "name": "Te Llor\u00e9 Un R\u00edo",
+      "url": "https://open.spotify.com/track/4HrX1xb0RsnmmJqN52hhHj"
     },
     {
       "added_at": "2023-10-20 23:43:16",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-10-20 23:43:16",
       "album": {
-        "name": "Primera Fila (En Vivo)",
-        "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 225480,
-      "name": "Amigos No por Favor (Primera Fila) - En Vivo",
-      "url": "https://open.spotify.com/track/2hyAEExgoEfxrVJKUJTqZV"
-    },
-    {
-      "added_at": "2023-10-20 23:43:16",
-      "album": {
         "name": "Amigos (con Maria Becerra)",
         "url": "https://open.spotify.com/album/3znR1F0VbgfKsDyTeC0Nt8"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 233755,
       "name": "Amigos (con Maria Becerra)",
       "url": "https://open.spotify.com/track/34tHZJLk0adg5tW49iybbE"
+    },
+    {
+      "added_at": "2023-10-20 23:43:16",
+      "album": {
+        "name": "Primera Fila (En Vivo)",
+        "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 225480,
+      "name": "Amigos No por Favor (Primera Fila) - En Vivo",
+      "url": "https://open.spotify.com/track/2hyAEExgoEfxrVJKUJTqZV"
     },
     {
       "added_at": "2023-10-20 23:43:16",
@@ -1347,6 +1347,26 @@
     {
       "added_at": "2023-10-20 23:43:16",
       "album": {
+        "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
+        "url": "https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 185038,
+      "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
+      "url": "https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT"
+    },
+    {
+      "added_at": "2023-10-20 23:43:16",
+      "album": {
         "name": "Eres la Persona Correcta en el Momento Equivocado (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4yLZWoiV6At9flI5Qcyagr"
       },
@@ -1383,26 +1403,6 @@
       "duration_ms": 185573,
       "name": "100 A\u00f1os",
       "url": "https://open.spotify.com/track/4gJzpOMYyOpVnbDXlT5aWL"
-    },
-    {
-      "added_at": "2023-10-20 23:43:16",
-      "album": {
-        "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
-        "url": "https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 185038,
-      "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
-      "url": "https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT"
     },
     {
       "added_at": "2023-10-20 23:43:16",

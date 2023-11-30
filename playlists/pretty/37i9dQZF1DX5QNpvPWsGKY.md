@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5QNpvPWsGKY.md) - [plain]
 
 > Un buffet de ritmos sabrositos para satisfacer tu paladar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,990 likes - 125 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,079 likes - 125 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5QNpvPWsGKY.md) - [plain]
 | 92 | [Tan Bella Y Tan Presumida](https://open.spotify.com/track/5KOu0YxjEPkbFjP9yPCNoP) | [Tropical Panamá](https://open.spotify.com/artist/5ztS529zLHyaHXhGi0kwsb) | [Eva María](https://open.spotify.com/album/7nsXFT6vkw3cwbv1Igyv3y) | 3:05 |
 | 93 | [Ritmo Facil](https://open.spotify.com/track/0sWGUO2EJrDvVsz3AVlRDF) | [Grupo Flash](https://open.spotify.com/artist/7z8b1bQhJLtJYr3xd9jTsK) | [Me Gustas](https://open.spotify.com/album/0300057YTq7KtpJL3Q454p) | 2:22 |
 | 94 | [Juana la Cubana](https://open.spotify.com/track/4QJ3RDrv5WQBDP36IoLqDh) | [Los Flamers](https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq) | [Y Es por Ti](https://open.spotify.com/album/5HHGQxwgUibH2gDmN7CA0m) | 3:13 |
-| 95 | [El Perro, el Gato y Yo](https://open.spotify.com/track/54TgeMeInoK6wgPWw58ri7) | [Guardianes Del Amor](https://open.spotify.com/artist/3NLDQVyI2LVtQFJt8JeAAx) | [Lo Mejor De Guardianes Del Amor](https://open.spotify.com/album/4Asr02QFyUUEcwtcnGCYhx) | 3:37 |
-| 96 | [Mentirosa](https://open.spotify.com/track/3KTfwLP1ohmZNPLGbWxcjb) | [Nelson Henriquez](https://open.spotify.com/artist/4de5H6yG1hXqYXsL4YHRon), [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Nelson Henríquez vs\. Pastor López](https://open.spotify.com/album/4dniAe3ER3NCfMl60ByGaW) | 4:08 |
+| 95 | [Mentirosa](https://open.spotify.com/track/3KTfwLP1ohmZNPLGbWxcjb) | [Nelson Henriquez](https://open.spotify.com/artist/4de5H6yG1hXqYXsL4YHRon), [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Nelson Henríquez vs\. Pastor López](https://open.spotify.com/album/4dniAe3ER3NCfMl60ByGaW) | 4:08 |
+| 96 | [El Perro, el Gato y Yo](https://open.spotify.com/track/54TgeMeInoK6wgPWw58ri7) | [Guardianes Del Amor](https://open.spotify.com/artist/3NLDQVyI2LVtQFJt8JeAAx) | [Lo Mejor De Guardianes Del Amor](https://open.spotify.com/album/4Asr02QFyUUEcwtcnGCYhx) | 3:37 |
 | 97 | [Donde Estas](https://open.spotify.com/track/2zfeUz2xzgrtM2kF5bprCY) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Me Volvi A Acordar De Ti](https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy) | 3:25 |
 | 98 | [Dejenla Que Baile](https://open.spotify.com/track/6sPin3aCx0NAVtYtIE4Ev9) | [Impacto De Montemorelos](https://open.spotify.com/artist/4pldrrIcYcMofdprdL2yFm) | [Impacto de Montemorelos Sus Mejores 25 Canciones](https://open.spotify.com/album/4389s7PxAGjzaOFOw915rf) | 2:57 |
 | 99 | [Muchacha Triste](https://open.spotify.com/track/5aJtDBC3y4jyK63Af8yFbX) | [Los Fantasmas del Caribe](https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha) | [Caramelo](https://open.spotify.com/album/1WgwIZMerQkpGMTesIlBHX) | 4:04 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5QNpvPWsGKY.md) - [plain]
 | 124 | [El Muñeco](https://open.spotify.com/track/19G8XMtHCX6y6eYTLDbaU3) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Pensando En Ella](https://open.spotify.com/album/7chUnyKUwq88xEWfyGEV7a) | 2:42 |
 | 125 | [Ojitos Mentirosos](https://open.spotify.com/track/3ZPxSh4Tif71ilz50LOrAT) | [Los Dinamiteros de Colombia](https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW) | [20 Exitos: Lo Mejor de la Cumbia](https://open.spotify.com/album/6J9GMOkFYIg8wPPmsiirSt) | 3:37 |
 
-Snapshot ID: `MCw0OGUxNGNlMjZiM2YyOTA0NjQzNDc2YWVjYmM3NDMxODQ3ZDQ2MzQ1`
+Snapshot ID: `MCw5MmFlZDAxN2VhZjE0ZGIzMjI5M2IxZGFhOGM5MWNlMmMzNzBjZWVm`

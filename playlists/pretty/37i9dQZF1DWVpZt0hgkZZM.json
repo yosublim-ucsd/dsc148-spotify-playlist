@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pasad\u00eda y sabrosura!",
-  "num_followers": 25414,
+  "num_followers": 25459,
   "original_name": "\u00c9xitos de Balneario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTBmNjU3Y2UyMDQxMjI3MWFiNjJiNmQ1NGI2NzM4MDM4YmJjNzY2",
+  "snapshot_id": "MCxhZWI4MDZmOWY0NjJjYzQzNTQ4OThmODU4YTM4NTU0MjkzZTQ5MGVi",
   "tracks": [
     {
       "added_at": "2021-12-16 22:41:17",
@@ -527,6 +527,22 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
+        "name": "The Reventon: 30 Pegaditas",
+        "url": "https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 263253,
+      "name": "El Baile del Perrito",
+      "url": "https://open.spotify.com/track/2XESoQVXG9ssxyjxXSrmxo"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
         "name": "Fruko el Grande",
         "url": "https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 294000,
       "name": "El Preso",
       "url": "https://open.spotify.com/track/1Fp4njyRHJYyMTKP899c0q"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
-        "name": "The Reventon: 30 Pegaditas",
-        "url": "https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 263253,
-      "name": "El Baile del Perrito",
-      "url": "https://open.spotify.com/track/2XESoQVXG9ssxyjxXSrmxo"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -883,22 +883,6 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Tierra Mala",
-        "url": "https://open.spotify.com/album/1ifSWefkAmzfDlBowUtmjU"
-      },
-      "artists": [
-        {
-          "name": "Los Chiches Vallenatos",
-          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
-        }
-      ],
-      "duration_ms": 289933,
-      "name": "Tierra Mala",
-      "url": "https://open.spotify.com/track/1kWIPZYKp8pel13Wzrzocf"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
         "name": "De Pel\u00edcula",
         "url": "https://open.spotify.com/album/5zrHyuF84953CZ1PLwTQeb"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 176509,
       "name": "Fantas\u00eda Nocturna",
       "url": "https://open.spotify.com/track/2tcv4KCa1jPl0DuOm5pkJv"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "Tierra Mala",
+        "url": "https://open.spotify.com/album/1ifSWefkAmzfDlBowUtmjU"
+      },
+      "artists": [
+        {
+          "name": "Los Chiches Vallenatos",
+          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
+        }
+      ],
+      "duration_ms": 289933,
+      "name": "Tierra Mala",
+      "url": "https://open.spotify.com/track/1kWIPZYKp8pel13Wzrzocf"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
+        "name": "Los A\u00f1os Dorados",
+        "url": "https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 259186,
+      "name": "El Comejen",
+      "url": "https://open.spotify.com/track/6KWj4TAjZMVwZWxXzvHIGD"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
         "name": "Greatest Cumbia Classics Of Colombia, Vol. 1",
         "url": "https://open.spotify.com/album/53W9qG1q6xaKlUVuzkBNPV"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 252186,
       "name": "El Viejo del Sombrer\u00f3n",
       "url": "https://open.spotify.com/track/02bm1KDGRX3saB1iupRa3h"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
-        "name": "Los A\u00f1os Dorados",
-        "url": "https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 259186,
-      "name": "El Comejen",
-      "url": "https://open.spotify.com/track/6KWj4TAjZMVwZWxXzvHIGD"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "18 Exitos",
-        "url": "https://open.spotify.com/album/6BGEdqEaJ5PuNz64Vs2coI"
-      },
-      "artists": [
-        {
-          "name": "Hernan Hernandez",
-          "url": "https://open.spotify.com/artist/49UMX5QVC2PaTG6CNjLQDH"
-        }
-      ],
-      "duration_ms": 206239,
-      "name": "Tonto Amor",
-      "url": "https://open.spotify.com/track/0ftARxjabx2Bs2wvLLkltc"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/2irtmCoBvtFbvPqARMflg6"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 219980,
       "name": "La Colegiada (Live)",
       "url": "https://open.spotify.com/track/5uCehav0pF99E5wdQylxWl"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "18 Exitos",
+        "url": "https://open.spotify.com/album/6BGEdqEaJ5PuNz64Vs2coI"
+      },
+      "artists": [
+        {
+          "name": "Hernan Hernandez",
+          "url": "https://open.spotify.com/artist/49UMX5QVC2PaTG6CNjLQDH"
+        }
+      ],
+      "duration_ms": 206239,
+      "name": "Tonto Amor",
+      "url": "https://open.spotify.com/track/0ftARxjabx2Bs2wvLLkltc"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/7kV3KWcCEPi4HeDVFzSh0L"
-      },
-      "artists": [
-        {
-          "name": "Los Embajadores Vallenatos",
-          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
-        }
-      ],
-      "duration_ms": 269191,
-      "name": "El Santo Cachon",
-      "url": "https://open.spotify.com/track/5MDeca8IiesNdQsOZC894q"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
         "name": "Juanito Pregunt\u00f3n",
         "url": "https://open.spotify.com/album/0ChvjVVzLBOam8NDs9nL5p"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 146718,
       "name": "Asi empezaron papa y mama",
       "url": "https://open.spotify.com/track/7MvJSxFokYigdTshWdoOPW"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/7kV3KWcCEPi4HeDVFzSh0L"
+      },
+      "artists": [
+        {
+          "name": "Los Embajadores Vallenatos",
+          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
+        }
+      ],
+      "duration_ms": 269191,
+      "name": "El Santo Cachon",
+      "url": "https://open.spotify.com/track/5MDeca8IiesNdQsOZC894q"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Mas Rika Que Nunca",
-        "url": "https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO"
-      },
-      "artists": [
-        {
-          "name": "Rikarena",
-          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
-        }
-      ],
-      "duration_ms": 264800,
-      "name": "Te Voy a Hacer Falta",
-      "url": "https://open.spotify.com/track/4KU0EUeD26y6PUGiHGjGBz"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
         "name": "Mentirosa",
         "url": "https://open.spotify.com/album/1WfKKkx38gcIJrdekcDwO4"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 231183,
       "name": "Noches de Fantasia",
       "url": "https://open.spotify.com/track/3PeQq6jHoOXcEi3OjDO6xu"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "Mas Rika Que Nunca",
+        "url": "https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO"
+      },
+      "artists": [
+        {
+          "name": "Rikarena",
+          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
+        }
+      ],
+      "duration_ms": 264800,
+      "name": "Te Voy a Hacer Falta",
+      "url": "https://open.spotify.com/track/4KU0EUeD26y6PUGiHGjGBz"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Natusha & Kondor Band",
-        "url": "https://open.spotify.com/album/6IuWxlioIdpZ4jCLbGZlg3"
-      },
-      "artists": [
-        {
-          "name": "Natusha & Kondor Band",
-          "url": "https://open.spotify.com/artist/7sGxXAdEUg5uZ9xsZxE3Sj"
-        }
-      ],
-      "duration_ms": 227333,
-      "name": "El la Enga\u00f1\u00f3",
-      "url": "https://open.spotify.com/track/5jr886Foyigc6j1qtJtvsX"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
         "name": "Y Como Se Mata El Gusano?",
         "url": "https://open.spotify.com/album/4XYaFGWLlnQoOsUanKU4NK"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 232173,
       "name": "Dulcemente Bella",
       "url": "https://open.spotify.com/track/3anFu90Cfdwgt31a2tYJix"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "Natusha & Kondor Band",
+        "url": "https://open.spotify.com/album/6IuWxlioIdpZ4jCLbGZlg3"
+      },
+      "artists": [
+        {
+          "name": "Natusha & Kondor Band",
+          "url": "https://open.spotify.com/artist/7sGxXAdEUg5uZ9xsZxE3Sj"
+        }
+      ],
+      "duration_ms": 227333,
+      "name": "El la Enga\u00f1\u00f3",
+      "url": "https://open.spotify.com/track/5jr886Foyigc6j1qtJtvsX"
     },
     {
       "added_at": "2021-12-16 22:41:17",

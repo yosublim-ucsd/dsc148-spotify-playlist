@@ -1,12 +1,12 @@
 {
   "description": "Ll\u00e9vatela tranqui con los hits m\u00e1s relajados del urbano.",
-  "num_followers": 169922,
+  "num_followers": 169935,
   "original_name": "Tranqui",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZmE2MTY3ZDNiYjZkNmEyMDg2ODQ4ODUwYzk1ZjlhYTMwMWRhMWJk",
+  "snapshot_id": "MCxlNDdlNzVlMDIwNDRlNDViZWI3N2UzYWU3NWJjNzkwMDI3MzZiNzU3",
   "tracks": [
     {
       "added_at": "2023-11-17 06:00:00",
@@ -399,30 +399,22 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "Entre Nosotros (Remix) [con Nicki Nicole]",
-        "url": "https://open.spotify.com/album/1RXzQq8DhpkYvvbXE9CqLm"
+        "name": "Bandido",
+        "url": "https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t"
       },
       "artists": [
         {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         },
         {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+          "name": "Juhn",
+          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
         }
       ],
-      "duration_ms": 260000,
-      "name": "Entre Nosotros (Remix) [con Nicki Nicole]",
-      "url": "https://open.spotify.com/track/4TGwERXRlyQtBdggYTHo6j"
+      "duration_ms": 232853,
+      "name": "Bandido",
+      "url": "https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -447,22 +439,30 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "Bandido",
-        "url": "https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t"
+        "name": "Entre Nosotros (Remix) [con Nicki Nicole]",
+        "url": "https://open.spotify.com/album/1RXzQq8DhpkYvvbXE9CqLm"
       },
       "artists": [
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
         },
         {
-          "name": "Juhn",
-          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
         }
       ],
-      "duration_ms": 232853,
-      "name": "Bandido",
-      "url": "https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb"
+      "duration_ms": 260000,
+      "name": "Entre Nosotros (Remix) [con Nicki Nicole]",
+      "url": "https://open.spotify.com/track/4TGwERXRlyQtBdggYTHo6j"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
+        "name": "Como Estrellas",
+        "url": "https://open.spotify.com/album/3MTmvjSJiWMecnmlo66rKM"
+      },
+      "artists": [
+        {
+          "name": "LA YOUNG",
+          "url": "https://open.spotify.com/artist/2Xi0zO1N71Ff9KymMs93YX"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Como Estrellas",
+      "url": "https://open.spotify.com/track/4XlO5sSZiR5SGv5fGuptHV"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
         "name": "Problem\u00f3n",
         "url": "https://open.spotify.com/album/0A6sjLzd6wPSye48ipLBBj"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 193013,
       "name": "Problem\u00f3n",
       "url": "https://open.spotify.com/track/2Q4MRMnSAMckugCtR5jgXT"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
-        "name": "Como Estrellas",
-        "url": "https://open.spotify.com/album/3MTmvjSJiWMecnmlo66rKM"
-      },
-      "artists": [
-        {
-          "name": "LA YOUNG",
-          "url": "https://open.spotify.com/artist/2Xi0zO1N71Ff9KymMs93YX"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Como Estrellas",
-      "url": "https://open.spotify.com/track/4XlO5sSZiR5SGv5fGuptHV"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "Seguro Te Pierdo",
-        "url": "https://open.spotify.com/album/7h3OzZVHw9pFcnmwuYVoKt"
-      },
-      "artists": [
-        {
-          "name": "Sergi",
-          "url": "https://open.spotify.com/artist/1YdO9GJZicIofAYHnFZSwv"
-        },
-        {
-          "name": "KID FLEX",
-          "url": "https://open.spotify.com/artist/3MG0nEhYET2TCkegY1QBP6"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Seguro Te Pierdo",
-      "url": "https://open.spotify.com/track/5FGE7nybrywkX6tDfRDf55"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
         "name": "Te Necesito",
         "url": "https://open.spotify.com/album/0aTJrqOxUoEpXr4EEyX9Tx"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 197960,
       "name": "Te Necesito",
       "url": "https://open.spotify.com/track/1iYCHzSdZPPoyWuRAJET0l"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
+        "name": "Seguro Te Pierdo",
+        "url": "https://open.spotify.com/album/7h3OzZVHw9pFcnmwuYVoKt"
+      },
+      "artists": [
+        {
+          "name": "Sergi",
+          "url": "https://open.spotify.com/artist/1YdO9GJZicIofAYHnFZSwv"
+        },
+        {
+          "name": "KID FLEX",
+          "url": "https://open.spotify.com/artist/3MG0nEhYET2TCkegY1QBP6"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Seguro Te Pierdo",
+      "url": "https://open.spotify.com/track/5FGE7nybrywkX6tDfRDf55"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "LUNA",
-        "url": "https://open.spotify.com/album/7zxhGn6Fq3pcpOpHAcOpAD"
-      },
-      "artists": [
-        {
-          "name": "Jd Pantoja",
-          "url": "https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK"
-        },
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        }
-      ],
-      "duration_ms": 225640,
-      "name": "LUNA",
-      "url": "https://open.spotify.com/track/4lFKjvCI3fQ1yMuKvdEvGS"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
         "name": "HASTA ABAJO",
         "url": "https://open.spotify.com/album/2eM85kZYl1Lz7tjp0MTGo1"
       },
@@ -1471,6 +1451,26 @@
       "duration_ms": 229946,
       "name": "HASTA ABAJO",
       "url": "https://open.spotify.com/track/54FoR5osiOJtVae7SCdSnq"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
+        "name": "LUNA",
+        "url": "https://open.spotify.com/album/7zxhGn6Fq3pcpOpHAcOpAD"
+      },
+      "artists": [
+        {
+          "name": "Jd Pantoja",
+          "url": "https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK"
+        },
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        }
+      ],
+      "duration_ms": 225640,
+      "name": "LUNA",
+      "url": "https://open.spotify.com/track/4lFKjvCI3fQ1yMuKvdEvGS"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
+        "name": "K.O.",
+        "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 161813,
+      "name": "Calla T\u00fa",
+      "url": "https://open.spotify.com/track/7jL2tCE0Xn2tunqWayBkte"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
         "name": "Ya No Somos",
         "url": "https://open.spotify.com/album/5CGjusSMsLJwCCe0rn2cv8"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 189152,
       "name": "Ya No Somos",
       "url": "https://open.spotify.com/track/7s6yrTbRWxKo9z42M3OP17"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
-        "name": "K.O.",
-        "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 161813,
-      "name": "Calla T\u00fa",
-      "url": "https://open.spotify.com/track/7jL2tCE0Xn2tunqWayBkte"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "Cardellino",
-        "url": "https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC"
-      },
-      "artists": [
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        }
-      ],
-      "duration_ms": 169776,
-      "name": "TOSCANA",
-      "url": "https://open.spotify.com/track/6ejAYAdo08qbPLrH4FEfYe"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/32gGR2it3KcYu8geETxC3V"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 239206,
       "name": "Loco",
       "url": "https://open.spotify.com/track/6WeJGp7MB7sEEf9InLEvh1"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
+        "name": "Cardellino",
+        "url": "https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        }
+      ],
+      "duration_ms": 169776,
+      "name": "TOSCANA",
+      "url": "https://open.spotify.com/track/6ejAYAdo08qbPLrH4FEfYe"
     },
     {
       "added_at": "2023-11-17 06:00:00",

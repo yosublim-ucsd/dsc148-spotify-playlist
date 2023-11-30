@@ -4,7 +4,7 @@
 
 > Tus canciones favoritas de Música Mexicana, all in one place! Cover: Gerardo Coronel & Grupo Firme
 
-355 songs - 19 hr 14 min
+356 songs - 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Amor Tóxico](https://open.spotify.com/track/5LPlvbxA6bJQHvUW12Mr22) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [AYAYAY!](https://open.spotify.com/album/4In6hAxpuu07JqkzY8cjtg) | 2:10 | 2022-05-12 | 2022-07-29 |
 | [Ando Enfocado](https://open.spotify.com/track/1Gm2qMRuxnuqnM62xyp89d) | [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Ando Enfocado](https://open.spotify.com/album/74aFegGXDQOr3fJPtf5QYq) | 3:04 | 2023-05-26 |  |
 | [Aparentemente Bien \- Versión Banda](https://open.spotify.com/track/2nHekPOutiUg9MiCp74NjH) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Aparentemente Bien](https://open.spotify.com/album/1932flu69zKoy3j2Qgz0P2) | 4:17 | 2022-05-12 | 2022-09-19 |
-| [Aquí Algo Cambió](https://open.spotify.com/track/7wfzVpDwmkpIlQ35vTl6OG) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [De Hoy En Adelante, Que Te Vaya Bien](https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh) | 2:45 | 2023-02-24 |  |
+| [Aquí Algo Cambió](https://open.spotify.com/track/7wfzVpDwmkpIlQ35vTl6OG) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [De Hoy En Adelante, Que Te Vaya Bien](https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh) | 2:45 | 2023-02-24 | 2023-11-30 |
 | [Así las Cosas por Acá](https://open.spotify.com/track/4uXiePuk1xJzEsfuICZOJ2) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Así las Cosas por Acá](https://open.spotify.com/album/0pWhayKED4nhPeMX0Al0ZO) | 3:22 | 2023-11-24 |  |
 | [Así Tocó Mi Vida](https://open.spotify.com/track/2YekzGSNDRlEvRLmvfRZfb) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Así Tocó Mi Vida](https://open.spotify.com/album/58E0nQ2a7axyw3rETsiB9r) | 4:10 | 2022-05-12 |  |
 | [Barquillero](https://open.spotify.com/track/7EYCioIJy7PVVryIHjlGRr) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Barquillero](https://open.spotify.com/album/6FrtpkD2DmlpoFh5FAtniX) | 3:20 | 2022-05-12 | 2022-06-28 |
@@ -174,6 +174,7 @@
 | [Llamada Perdida](https://open.spotify.com/track/4tJUCO8EwJkOW7wtm39zxG) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [30 Aniversario](https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf) | 3:34 | 2022-09-23 | 2022-11-13 |
 | [Lo Que Nunca Será](https://open.spotify.com/track/4nzozHiDVY5VXHo9KlP9Dp) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [30 Aniversario](https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf) | 2:46 | 2022-07-01 | 2023-11-25 |
 | [Lo Que Nunca Será](https://open.spotify.com/track/0zRXFeYeeJmc8CI2SiJ6C6) | [La Adictiva Banda San José de Mesillas](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [30 Aniversario](https://open.spotify.com/album/7bvOvntSA0iqc0BmOy8wz2) | 2:46 | 2022-07-01 | 2022-07-29 |
+| [Lo Tienes Todo](https://open.spotify.com/track/29vIEdxgMT9H1fnBMecWjA) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [PRESENTE](https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9) | 2:44 | 2023-11-24 |  |
 | [Loco Enamorado](https://open.spotify.com/track/0V6NB0qBW7Vvm7RuSoHszG) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Loco Enamorado](https://open.spotify.com/album/506DULSIp4Bs7qDdUWpq0N) | 3:46 | 2022-12-22 |  |
 | [Los Caminos de la Vida \- Spotify Singles](https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Los Caminos de la Vida \(Spotify Singles\)](https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5) | 5:28 | 2022-05-12 | 2023-01-07 |
 | [Los Inadaptados](https://open.spotify.com/track/15v0ra246PDmiT5Vh9YzWO) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Los Inadaptados](https://open.spotify.com/album/7Fz369S1erEQYmnrbZawsB) | 2:55 | 2022-05-12 | 2023-05-27 |

@@ -4,7 +4,7 @@
 
 > Not NOT pop\. Cover: beabadoobee, Mac Wetha, Aminé
 
-1,573 songs - 3 day 3 hr 52 min
+1,574 songs - 3 day 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -696,7 +696,8 @@
 | [idk idk wtf](https://open.spotify.com/track/7dUhr4rhm9rBuxuojNwTt5) | [screwyounick](https://open.spotify.com/artist/6uUXtzAE4Rm9nuLTdh9YxK), [kii.](https://open.spotify.com/artist/0YID73jGBDgGtyjwPrGtvm), [JOLLY WRLD](https://open.spotify.com/artist/6iQQaCotqs1waJnO44rGt4) | [idk idk wtf](https://open.spotify.com/album/6SWFGC3QUrzMa9Vom2wbVc) | 2:00 | 2022-06-03 | 2022-08-06 |
 | [IDWK](https://open.spotify.com/track/3awnZSyvKdi7rBLttHk36K) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [IDWK](https://open.spotify.com/album/6s7fnQZkQ6ZqmRxpJ22OjF) | 2:03 | 2021-01-27 | 2022-04-29 |
 | [If I Could Hold Your Soul](https://open.spotify.com/track/5QDjiZPJosipiZ8VZEMWXq) | [Cities Aviv](https://open.spotify.com/artist/4m0HRALRlPxbZp5SwvktFX) | [If I Could Hold Your Soul](https://open.spotify.com/album/39m6U4CrVMRxfHqcbqYTKS) | 1:47 | 2022-05-09 | 2022-06-11 |
-| [if u think i'm pretty](https://open.spotify.com/track/3RWl1dP90FXmZDUeIAO20j) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [if u think i'm pretty](https://open.spotify.com/album/6qGsOOm1b2ZwG58fQp617s) | 2:08 | 2023-11-10 |  |
+| [if u think i'm pretty](https://open.spotify.com/track/34Yl756FwYuZldE9xnshj5) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [if u think i'm pretty](https://open.spotify.com/album/4bH2fufFWKIdtVbOI8em1u) | 2:08 | 2023-11-10 |  |
+| [if u think i'm pretty](https://open.spotify.com/track/3RWl1dP90FXmZDUeIAO20j) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [if u think i'm pretty](https://open.spotify.com/album/6qGsOOm1b2ZwG58fQp617s) | 2:08 | 2023-11-10 | 2023-11-30 |
 | [ifhy](https://open.spotify.com/track/01yiSZ6GzLj5YxGv02IrNd) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [ifhy](https://open.spotify.com/album/3LQvpJQg1IyRqKQGkVYlM7) | 2:49 | 2020-11-13 | 2021-10-12 |
 | [IFHY \(feat\. Pharrell\)](https://open.spotify.com/track/0NjW4SKY3gbfl2orl1p8hr) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Wolf](https://open.spotify.com/album/40QTqOBBxCEIQlLNdSjFQB) | 5:19 | 2023-10-13 |  |
 | [ignorance is bliss](https://open.spotify.com/track/4nC2R5thxOEUfcEQ5a0q3B) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [ignorance is bliss](https://open.spotify.com/album/2l2OLcnXmhvxmQG9MWksXI) | 2:54 | 2022-04-21 | 2022-05-12 |

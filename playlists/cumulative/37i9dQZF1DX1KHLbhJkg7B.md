@@ -4,7 +4,7 @@
 
 > Unique versions of hit songs by other artists\. Cover: Dolly Parton and Lainey Wilson
 
-352 songs - 22 hr 7 min
+353 songs - 22 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [Grandpa \(Tell Me ‘Bout The Good Old Days\) \(feat\. Sonya Isaacs\)](https://open.spotify.com/track/7cZjwz3PPzPcmiUVgS7hvJ) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [Sonya Isaacs](https://open.spotify.com/artist/4weums6IzU9u5hNt7lR31b) | [A Tribute To The Judds](https://open.spotify.com/album/6aj3JYiBuWaJrlDSKBFmaG) | 3:48 | 2023-11-03 |  |
 | [Gravity](https://open.spotify.com/track/50bl0NTA9dEgHCQmgZ4mgh) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [The Continuum Project](https://open.spotify.com/album/7ljTrfut56dtqVFM3nDmyI) | 4:24 | 2022-01-07 | 2022-07-29 |
 | [Hallelujah](https://open.spotify.com/track/7dJQE9KR1E8rNKw6MQKVbb) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Hallelujah](https://open.spotify.com/album/0a5b336bi3yEiuEKDgkggS) | 4:07 | 2021-12-10 | 2023-02-25 |
-| [Hallelujah](https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Hallelujah](https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE) | 3:49 | 2021-12-10 |  |
+| [Hallelujah](https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Hallelujah](https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE) | 3:49 | 2021-12-10 | 2023-11-30 |
 | [Handsomer](https://open.spotify.com/track/0T6y71ITwHF0Ab4fqoz9nr) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Handsomer](https://open.spotify.com/album/639QBBCG2rzXg2nOOOPwS3) | 2:17 | 2022-07-08 | 2022-07-29 |
 | [Happier \- Recorded At Sound Stage Studios Nashville](https://open.spotify.com/track/57DVaIfWIKSx3zW9mcVFhc) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Spotify Singles](https://open.spotify.com/album/10hkWR17NEvncSn3w1sYPz) | 3:45 | 2021-12-10 | 2023-03-05 |
 | [Hard To Say I'm Sorry](https://open.spotify.com/track/03DLfg93LxUViViOKPoFXH) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Copy That](https://open.spotify.com/album/2hWqaMLhAvTQRD85eNO10H) | 5:22 | 2021-12-10 | 2022-07-29 |
@@ -195,6 +195,7 @@
 | [Louisiana Woman, Mississippi Man \(with Martina McBride\)](https://open.spotify.com/track/1us6oZFgV57a0aPSZt69ZL) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS), [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [The Essential Martina McBride](https://open.spotify.com/album/0HiQVsQdNpLarQJN3RgOhU) | 3:00 | 2021-12-10 | 2022-07-29 |
 | [Love Can Build A Bridge](https://open.spotify.com/track/0TaJn96DJs4zDmlrlcH7ha) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx), [The Fisk Jubilee Singers](https://open.spotify.com/artist/0UGSKGxAJfltNONQ4AtETL) | [A Tribute To The Judds](https://open.spotify.com/album/24C6lc3X1I18wfRmuiAkiy) | 4:37 | 2023-10-27 | 2023-11-12 |
 | [Love Can Build A Bridge](https://open.spotify.com/track/74FRX1yPdHxH2Bw0kkVY0X) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx), [The Fisk Jubilee Singers](https://open.spotify.com/artist/0UGSKGxAJfltNONQ4AtETL) | [A Tribute To The Judds](https://open.spotify.com/album/6aj3JYiBuWaJrlDSKBFmaG) | 4:37 | 2023-11-03 |  |
+| [Love Is Alive](https://open.spotify.com/track/623qVmC3LmsRQeFk3jlkLc) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Love Is Alive](https://open.spotify.com/album/5osk5V7uL3lQzejyvan1Bt) | 3:52 | 2023-11-24 |  |
 | [Love Is Alive](https://open.spotify.com/track/65Tyq0mmbLzayumvoK6Ixw) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Love Is Alive](https://open.spotify.com/album/6crsCEK6qj2PmK00pETlAK) | 3:52 | 2023-08-18 | 2023-11-17 |
 | [Love Yourself](https://open.spotify.com/track/7g6KRfjT9n3JWNJtyZtcA5) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Love Yourself](https://open.spotify.com/album/2WHKbOZVfSDTJny1dNQnsJ) | 3:39 | 2022-01-21 | 2022-05-30 |
 | [Lover, Lover](https://open.spotify.com/track/5UzU0qw21okODBNUnxptVo) | [Jerrod Niemann](https://open.spotify.com/artist/0RKP52f5PNDCRZ9Luq2Sr7) | [Judge Jerrod & The Hung Jury](https://open.spotify.com/album/3VzLXlCQo9voFegEhlJPd9) | 3:13 | 2021-12-10 |  |

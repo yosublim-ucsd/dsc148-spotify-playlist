@@ -4,7 +4,7 @@
 
 > heartbreak feels good in a place like this Cover: Chance Peña
 
-617 songs - 1 day 10 hr 2 min
+618 songs - 1 day 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -511,7 +511,7 @@
 | [Stayed Strangers](https://open.spotify.com/track/5fHc27dNyLvzXStTjbONxm) | [Abigail Barlow](https://open.spotify.com/artist/5rw6jWzcS6bQimR39VPBXu), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [Stayed Strangers](https://open.spotify.com/album/6YNrf1L0zVgswRMsSDZu8g) | 3:25 | 2022-02-18 | 2022-05-20 |
 | [Step On Me](https://open.spotify.com/track/6ZaiqbV2GfUtrUlhsu58fN) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon \(Remastered\)](https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ) | 3:50 | 2023-03-10 | 2023-05-27 |
 | [Strange](https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not Your Muse \(Deluxe\)](https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep) | 4:15 | 2021-12-17 | 2022-12-17 |
-| [Stranger](https://open.spotify.com/track/3Sda4D07uUlpyI0aa9WMWH) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Love Me For Another Day](https://open.spotify.com/album/65LmFuLBa1yBX5yfuuOMh2) | 2:16 | 2023-10-27 |  |
+| [Stranger](https://open.spotify.com/track/3Sda4D07uUlpyI0aa9WMWH) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Love Me For Another Day](https://open.spotify.com/album/65LmFuLBa1yBX5yfuuOMh2) | 2:16 | 2023-10-27 | 2023-11-30 |
 | [Stupid](https://open.spotify.com/track/42c7aUxtj89o7CxXO6bJo5) | [noelle](https://open.spotify.com/artist/0UBB7UD8Lvt7UesGnXDRpy) | [Stupid](https://open.spotify.com/album/4nZL6dJ1pZk81IA7sPkpWz) | 2:38 | 2022-03-18 | 2022-04-21 |
 | [Stupid Cupid](https://open.spotify.com/track/08uYRkYyBrEBAolgY5irVW) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Stupid Cupid](https://open.spotify.com/album/5L3H6uXdvsSUkgSZTeU3fv) | 2:53 | 2023-03-17 | 2023-06-03 |
 | [Sunday](https://open.spotify.com/track/7xxmW8ieHp9YnACGc0PfNz) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sunday](https://open.spotify.com/album/34Pax5tBAPlhxGXfmfypNO) | 2:58 | 2023-10-20 |  |
@@ -625,5 +625,6 @@
 | [you'd never know](https://open.spotify.com/track/1I2zZtHCrBkoTgfwxnNKZ9) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [you'd never know](https://open.spotify.com/album/7lv1W2OS7elIXJ8whpCYJW) | 3:05 | 2022-09-16 | 2023-04-01 |
 | [Young & Sad](https://open.spotify.com/track/0gySkOOewOdZtHG8stPEB8) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [THE END OF EVERYTHING](https://open.spotify.com/album/6ZLlJLTscXUJIMwpwSAcOm) | 3:10 | 2021-12-17 | 2022-12-17 |
 | [Yours](https://open.spotify.com/track/7BpqydHSxMviDR0DNTne6J) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Yours](https://open.spotify.com/album/2i4vxgeB2Sn97KeBs2vYtO) | 3:24 | 2022-05-20 | 2023-10-18 |
+| [You’re Losing Me \(From The Vault\)](https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [You're Losing Me \(From The Vault\)](https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7) | 4:37 | 2023-11-29 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

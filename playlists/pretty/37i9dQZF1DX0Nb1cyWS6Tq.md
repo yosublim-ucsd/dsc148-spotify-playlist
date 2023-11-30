@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 
 > Come closer and see..\. into the dark\. The Cure on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 708,888 likes - 80 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 709,441 likes - 80 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 21 | [Lorelei](https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 3:43 |
 | 22 | [The Hanging Garden \- 2005 Remaster](https://open.spotify.com/track/6mbZmbZ8wr5DA2CAB3q1GW) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Pornography](https://open.spotify.com/album/33TDfmEXufojT6jxgb3BTK) | 4:34 |
 | 23 | [Dark Entries](https://open.spotify.com/track/67MkU3b7k2fBL6oHHUiM09) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [In the Flat Field](https://open.spotify.com/album/4hPJRedKOmbvKnLdzV9w1w) | 3:51 |
-| 24 | [Temple of Love \- 1992](https://open.spotify.com/track/53O11dqezFoFYaaMjr1SPP) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Some Girls Wander by Mistake](https://open.spotify.com/album/5fdbQYbqTnCLNTibBdoerT) | 8:08 |
+| 24 | [Eighties \- 2007 Digital Remaster](https://open.spotify.com/track/0BUCVTLKMipDJDRiv6118M) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Night Time](https://open.spotify.com/album/5VLAt18707WnG1UlJH7Z2f) | 3:59 |
 | 25 | [Ekpyrosis](https://open.spotify.com/track/5x8eW8WVdSGGNS8hRcLxmB) | [Lathe of Heaven](https://open.spotify.com/artist/6sU6B7cuctosL0gOhgeBdr) | [Bound By Naked Skies](https://open.spotify.com/album/5lY7DOXHvN5uCBUffyuRY1) | 2:52 |
-| 26 | [Eighties \- 2007 Digital Remaster](https://open.spotify.com/track/0BUCVTLKMipDJDRiv6118M) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Night Time](https://open.spotify.com/album/5VLAt18707WnG1UlJH7Z2f) | 3:59 |
+| 26 | [Temple of Love \- 1992](https://open.spotify.com/track/53O11dqezFoFYaaMjr1SPP) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Some Girls Wander by Mistake](https://open.spotify.com/album/5fdbQYbqTnCLNTibBdoerT) | 8:08 |
 | 27 | [Fantasmas](https://open.spotify.com/track/07LRjvNrvSE311BWlwRptq) | [Twin Tribes](https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl) | [Ceremony](https://open.spotify.com/album/1PXN2w8N4kg4rd8i2ri711) | 3:10 |
 | 28 | [Cuts You Up](https://open.spotify.com/track/1rnoM73nG7HsyOqV5X7lPF) | [Peter Murphy](https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY) | [Deep](https://open.spotify.com/album/63VVK15ZBJI5TZu525KTVa) | 5:27 |
 | 29 | [Christian Woman](https://open.spotify.com/track/3634aKisKlGdUfD9V3MOY5) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [Bloody Kisses \(Top Shelf Edition\)](https://open.spotify.com/album/22PP61GmfGKAhIQo2ZSRxG) | 8:58 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 76 | [The Shadow Of Love](https://open.spotify.com/track/4QaOESIMfFp1MYOOOBHXrE) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [Phantasmagoria](https://open.spotify.com/album/1uLToBhDc3RDVXJhhZ0yK2) | 3:49 |
 | 77 | [Beatrix](https://open.spotify.com/track/00kG2B5W9MQYdPxrICYhNg) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 3:12 |
 | 78 | [One by One](https://open.spotify.com/track/5F1ZjpCFKcgk4VcsL2on2h) | [Bloody Dead And Sexy](https://open.spotify.com/artist/47YmKMWnvn1TfBanzvAUTc) | [Bad Ambient](https://open.spotify.com/album/24KvacOpWn4tdCti5KGCrK) | 4:55 |
-| 79 | [Go! \- Club Mix](https://open.spotify.com/track/5El6bpLd8nYPsvWgZLdHio) | [Tones On Tail](https://open.spotify.com/artist/5aBEGOeWQCJfptic9xyaAb) | [Everything!](https://open.spotify.com/album/440zYLMcBZhHc93WSGKDKo) | 4:28 |
-| 80 | [Ghost Rider \(2019 \- Remaster\)](https://open.spotify.com/track/0sTMWWSms4Mt6vy33rdqgv) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [Suicide \(2019 \- Remaster\)](https://open.spotify.com/album/46kw5FsFdJhNRL8wfHM9Bp) | 2:33 |
+| 79 | [Ghost Rider \(2019 \- Remaster\)](https://open.spotify.com/track/0sTMWWSms4Mt6vy33rdqgv) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [Suicide \(2019 \- Remaster\)](https://open.spotify.com/album/46kw5FsFdJhNRL8wfHM9Bp) | 2:33 |
+| 80 | [Face Meets Glass](https://open.spotify.com/track/7a7G6UxSuYRF7kIaCPAYRT) | [ACTORS](https://open.spotify.com/artist/2Gs4t6zBT69DSluLvaEBWK) | [It Will Come to You](https://open.spotify.com/album/0yIIcvuqXZWqhMizP6w5jJ) | 3:36 |
 
-Snapshot ID: `MCw3ZjkxYjI4OTFkYmY3NzliODVhMmVlNTVhZWIyYWRmNjJlYWY4ZWVi`
+Snapshot ID: `MCwxNjNlODdmNzhlODUyNTdiN2E1NDRmNTJhNmJhZjllZmY5OTFmYzg4`

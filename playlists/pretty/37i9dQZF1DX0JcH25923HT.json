@@ -1,12 +1,12 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 418114,
+  "num_followers": 418196,
   "original_name": "Trap Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Yjg1MTNiM2YzZmQxMzg5MDY3MjY0ZWVhZDVhODU1MmExMzk4M2Q2",
+  "snapshot_id": "MCw2N2M1Yjg1MGYzYTkyMzBjNDUxYjQ0NzU3ZWRiMmU0ODY3ODgwZWE0",
   "tracks": [
     {
       "added_at": "2022-06-08 18:27:09",
@@ -491,22 +491,18 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Me Acostumbre (feat. Bad Bunny)",
-        "url": "https://open.spotify.com/album/4yE7L5RhMkjX7KkweWjFYk"
+        "name": "M\u00e1quina do Tempo",
+        "url": "https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6"
       },
       "artists": [
         {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
         }
       ],
-      "duration_ms": 263288,
-      "name": "Me Acostumbre (feat. Bad Bunny)",
-      "url": "https://open.spotify.com/track/2FIm6YsSGL5acOqSuJDh5s"
+      "duration_ms": 230400,
+      "name": "M\u00e1quina do Tempo",
+      "url": "https://open.spotify.com/track/5oI9blwsXC8AkTWw6wASY8"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -543,18 +539,22 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "M\u00e1quina do Tempo",
-        "url": "https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6"
+        "name": "Me Acostumbre (feat. Bad Bunny)",
+        "url": "https://open.spotify.com/album/4yE7L5RhMkjX7KkweWjFYk"
       },
       "artists": [
         {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 230400,
-      "name": "M\u00e1quina do Tempo",
-      "url": "https://open.spotify.com/track/5oI9blwsXC8AkTWw6wASY8"
+      "duration_ms": 263288,
+      "name": "Me Acostumbre (feat. Bad Bunny)",
+      "url": "https://open.spotify.com/track/2FIm6YsSGL5acOqSuJDh5s"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1275,6 +1275,62 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
+        "name": "Trap Capos: Season 1",
+        "url": "https://open.spotify.com/album/74vYzfJqytyzhahNopSwtg"
+      },
+      "artists": [
+        {
+          "name": "Trap Capos",
+          "url": "https://open.spotify.com/artist/2pQAUIesBqfT87PaM1ijtk"
+        },
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Juhn",
+          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+        },
+        {
+          "name": "Baby Rasta",
+          "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
+        }
+      ],
+      "duration_ms": 258146,
+      "name": "Quieres Enamorarme (feat. Bryant Myers, Juhn & Baby Rasta)",
+      "url": "https://open.spotify.com/track/4zbok3tDaKsnL76CQ07L4L"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Hijo de la Noche",
+        "url": "https://open.spotify.com/album/4w1tpW0oR0CrHEUODdeNh4"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        },
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        }
+      ],
+      "duration_ms": 206884,
+      "name": "Hijo de la Noche",
+      "url": "https://open.spotify.com/track/46xx1V1UK5085ekWgIntp8"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
         "name": "The Greatest Hits, Vol. I",
         "url": "https://open.spotify.com/album/3oDUZCH3VNFKYNBCZbrFkM"
       },
@@ -1307,62 +1363,6 @@
       "duration_ms": 446098,
       "name": "Punto G - (Remix)",
       "url": "https://open.spotify.com/track/2AoKiaQylcQaUwsJNKdJOo"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "Hijo de la Noche",
-        "url": "https://open.spotify.com/album/4w1tpW0oR0CrHEUODdeNh4"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
-        },
-        {
-          "name": "YSY A",
-          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
-        }
-      ],
-      "duration_ms": 206884,
-      "name": "Hijo de la Noche",
-      "url": "https://open.spotify.com/track/46xx1V1UK5085ekWgIntp8"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "Trap Capos: Season 1",
-        "url": "https://open.spotify.com/album/74vYzfJqytyzhahNopSwtg"
-      },
-      "artists": [
-        {
-          "name": "Trap Capos",
-          "url": "https://open.spotify.com/artist/2pQAUIesBqfT87PaM1ijtk"
-        },
-        {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-        },
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Juhn",
-          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
-        },
-        {
-          "name": "Baby Rasta",
-          "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
-        }
-      ],
-      "duration_ms": 258146,
-      "name": "Quieres Enamorarme (feat. Bryant Myers, Juhn & Baby Rasta)",
-      "url": "https://open.spotify.com/track/4zbok3tDaKsnL76CQ07L4L"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
+        "name": "Flakk Daniel's Lp",
+        "url": "https://open.spotify.com/album/3Bzyfh9ZBRx6lnniuOuMvX"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 179078,
+      "name": "Es Mejor",
+      "url": "https://open.spotify.com/track/6HSnLmg25CFVozSlimAzF4"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
         "name": "Real G4 Life Vol. 3",
         "url": "https://open.spotify.com/album/4fIyZEKAUwrH6o4rWrdmT0"
       },
@@ -1555,22 +1571,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Flakk Daniel's Lp",
-        "url": "https://open.spotify.com/album/3Bzyfh9ZBRx6lnniuOuMvX"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 179078,
-      "name": "Es Mejor",
-      "url": "https://open.spotify.com/track/6HSnLmg25CFVozSlimAzF4"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "Tres Rosas",
         "url": "https://open.spotify.com/album/6mvvlcmcxcEb5dGRbGPa06"
       },
@@ -1583,6 +1583,22 @@
       "duration_ms": 163080,
       "name": "Tres Rosas",
       "url": "https://open.spotify.com/track/2r1Ovp2SgP1ybHNbbEAg1S"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 222376,
+      "name": "Condenado Para El Mill\u00f3n",
+      "url": "https://open.spotify.com/track/5VIlWNT4PbYNoZLwVNz4lk"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1603,22 +1619,6 @@
       "duration_ms": 198703,
       "name": "KHEA: Bzrp Music Sessions, Vol. 34",
       "url": "https://open.spotify.com/track/7bidsoy3nzCDNYzAzrV7NN"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "Homerun",
-        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 222376,
-      "name": "Condenado Para El Mill\u00f3n",
-      "url": "https://open.spotify.com/track/5VIlWNT4PbYNoZLwVNz4lk"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Kobe En LA",
-        "url": "https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 225906,
-      "name": "Kobe En LA",
-      "url": "https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "Tacos Altos",
         "url": "https://open.spotify.com/album/5RiwLnLiHPWh5DfLqsfobN"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 306946,
       "name": "Tacos Altos",
       "url": "https://open.spotify.com/track/66pK7thQ0yw1xlqw8AQSlw"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Kobe En LA",
+        "url": "https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 225906,
+      "name": "Kobe En LA",
+      "url": "https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -2235,22 +2235,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Si Te Vas",
-        "url": "https://open.spotify.com/album/70pzt9WWiOAgyOugEXpF2b"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        }
-      ],
-      "duration_ms": 240441,
-      "name": "Si Te Vas",
-      "url": "https://open.spotify.com/track/5VsHkOtg0Llpa6mTGZhp5e"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "Calle Amor",
         "url": "https://open.spotify.com/album/3sZC4DBqa36m3u2xh08U7K"
       },
@@ -2287,6 +2271,22 @@
       "duration_ms": 233813,
       "name": "A fuego",
       "url": "https://open.spotify.com/track/5gkSbR9E0jDgv65XeT5v5R"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Si Te Vas",
+        "url": "https://open.spotify.com/album/70pzt9WWiOAgyOugEXpF2b"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 240441,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/5VsHkOtg0Llpa6mTGZhp5e"
     },
     {
       "added_at": "2022-06-08 18:27:09",

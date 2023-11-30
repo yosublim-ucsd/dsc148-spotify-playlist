@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9DbXKSie1VN.md) - [plain]
 
 > Legendary tracks featured in music video games and rhythm games over the years.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,702 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,847 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9DbXKSie1VN.md) - [plain]
 | 49 | [Everytime We Touch](https://open.spotify.com/track/5YJtMNWKe55yr49cyJgxva) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Everytime We Touch \(Premium Edition\)](https://open.spotify.com/album/2unbJ7dUr9mITQiMwWFqQD) | 3:17 |
 | 50 | [Therefore I Am](https://open.spotify.com/track/54bFM56PmE4YLRnqpW6Tha) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Therefore I Am](https://open.spotify.com/album/5G58VVE9ub1KE01Mvbd8XM) | 2:54 |
 
-Snapshot ID: `MCxlNzJkZTNkNjc1ZGNlNDFiNDRmMTI2N2IwOTUzMDc1OGNmMTE5NDE5`
+Snapshot ID: `MCwwZjU5ODJkZGY1ZDlmNThmOTIzMWQyYjgyYjZkZmM2ZDNkZjVmNTdh`

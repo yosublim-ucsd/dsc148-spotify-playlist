@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR954ExpGKR.md) - [plain]
 
 > The best Latin music from all around the world! Cover: Maria Becerra & Prabh Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,969 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,070 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR954ExpGKR.md) - [plain]
 | 21 | [X](https://open.spotify.com/track/5YUyW9opqNsMSEzzecZih1) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Intimo](https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt) | 2:52 |
 | 22 | [Mi Gente](https://open.spotify.com/track/7COfe3P7KgfwDwIRB8LIDw) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq) | [Vibras](https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT) | 3:05 |
 | 23 | [Loco Contigo \(feat\. J\. Balvin & Tyga\)](https://open.spotify.com/track/6osaMSJh9NguagEDQcZaKx) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Carte Blanche](https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR) | 3:05 |
-| 24 | [Esta Vida](https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Esta Vida](https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL) | 3:29 |
-| 25 | [Mayores](https://open.spotify.com/track/2AY1UAimvTqjJC8vDJsOyy) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 3:23 |
+| 24 | [Mayores](https://open.spotify.com/track/2AY1UAimvTqjJC8vDJsOyy) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 3:23 |
+| 25 | [Esta Vida](https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Esta Vida](https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL) | 3:29 |
 | 26 | [Limbo](https://open.spotify.com/track/3pDhN3qB33AOPhQEkUCaWt) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Prestige](https://open.spotify.com/album/6Hu1DObY1WeKWxHfeaOcFg) | 3:44 |
 | 27 | [MIRAGE \(feat\. Ozuna, GIMS & Sfera Ebbasta\)](https://open.spotify.com/track/4e1U6KRJGed8gh3uRbAv3P) | [AriBeatz](https://open.spotify.com/artist/6cNWiizYLCClZdnIvqU968), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [MIRAGE \(feat\. Ozuna, Sfera Ebbasta & GIMS\)](https://open.spotify.com/album/5WbgkuQehIgUQn9s5gpbZH) | 3:26 |
 | 28 | [Te Menti](https://open.spotify.com/track/1QtKYyXEw9tSMIlK4RfA8B) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Te Menti](https://open.spotify.com/album/0ucVAnzaNBmu2fQIF459tl) | 3:07 |

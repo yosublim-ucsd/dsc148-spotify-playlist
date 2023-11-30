@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 
 > All the vibes, enjoyment and future hits right here
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,471 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,657 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 47 | [Joy in Chaos](https://open.spotify.com/track/1HDMh5q6NQAYlos9fFLmOB) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j) | [Joy in Chaos](https://open.spotify.com/album/7x1iXdhcoN8Aw9pE15Ajvp) | 1:10 |
 | 48 | [uMalume](https://open.spotify.com/track/2dbUeQlYxomReWXJPdqDv8) | [Pexi\-Tonic SA](https://open.spotify.com/artist/68UHjRwOCXyo1lZMyDoPeT), [Dj 9.8 SA](https://open.spotify.com/artist/44Flrn3IvTq84uGUtcuXyN), [Laanoss](https://open.spotify.com/artist/0VDpq9YoShWSrkxQUev5EM), [Ceekay Musiq](https://open.spotify.com/artist/6cdkg9u8yFsuAhaWxyTK9A) | [uMalume](https://open.spotify.com/album/0qazgbQD6PQmFsEyqqeX3H) | 4:11 |
 | 49 | [Bachelor](https://open.spotify.com/track/35gu7pEQ2gOLUvskspCD3Y) | [Turbo](https://open.spotify.com/artist/002HSjuWsGMinkXTa7JcRp), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Bachelor](https://open.spotify.com/album/5csXVq16N67kRKWhgUmWpk) | 4:01 |
-| 50 | [if u think i'm pretty](https://open.spotify.com/track/3RWl1dP90FXmZDUeIAO20j) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [if u think i'm pretty](https://open.spotify.com/album/6qGsOOm1b2ZwG58fQp617s) | 2:08 |
+| 50 | [if u think i'm pretty](https://open.spotify.com/track/34Yl756FwYuZldE9xnshj5) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [if u think i'm pretty](https://open.spotify.com/album/4bH2fufFWKIdtVbOI8em1u) | 2:08 |
 
-Snapshot ID: `MCxmMGM0ZGIyNTU3NmFjY2Q0YzllNjBjZjZiNjE0YTc2MGNiN2EwZDhi`
+Snapshot ID: `MCxmNGFjZTA3MmVmMGUzNWRiYTRkODJiMGFmMDdiMWU2MTk2N2JjZTQ3`

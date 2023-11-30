@@ -1,12 +1,12 @@
 {
   "description": "Kick back to the best new and recent chill hits.",
-  "num_followers": 8876762,
+  "num_followers": 8877258,
   "original_name": "Chill Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjkwOTg0MDUyMjNlYjAwYjdkZmI1YWQyNWYwODJmZGMzOTNhZWFm",
+  "snapshot_id": "MCxkMjNjZDY1MzQzMzFjYWQ2ZTZiYTk4OGJiNTFmYTM1ZGJiMjA0Nzlj",
   "tracks": [
     {
       "added_at": "2023-09-28 00:00:00",
@@ -355,18 +355,18 @@
     {
       "added_at": "2023-09-28 00:00:00",
       "album": {
-        "name": "All Of The Girls You Loved Before",
-        "url": "https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD"
+        "name": "Glimpse of Us",
+        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
         }
       ],
-      "duration_ms": 221407,
-      "name": "All Of The Girls You Loved Before",
-      "url": "https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy"
+      "duration_ms": 233456,
+      "name": "Glimpse of Us",
+      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
     },
     {
       "added_at": "2023-09-28 00:00:00",
@@ -387,18 +387,18 @@
     {
       "added_at": "2023-09-28 00:00:00",
       "album": {
-        "name": "Glimpse of Us",
-        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
+        "name": "All Of The Girls You Loved Before",
+        "url": "https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD"
       },
       "artists": [
         {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 233456,
-      "name": "Glimpse of Us",
-      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
+      "duration_ms": 221407,
+      "name": "All Of The Girls You Loved Before",
+      "url": "https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy"
     },
     {
       "added_at": "2023-09-28 00:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-09-28 00:00:00",
       "album": {
-        "name": "Feel Something (Deluxe)",
-        "url": "https://open.spotify.com/album/5NE8n9E4dMUFvOUZo0tv6p"
-      },
-      "artists": [
-        {
-          "name": "Jaymes Young",
-          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
-        }
-      ],
-      "duration_ms": 228442,
-      "name": "Happiest Year",
-      "url": "https://open.spotify.com/track/219slQu3ALbTSAe9P22hvE"
-    },
-    {
-      "added_at": "2023-09-28 00:00:00",
-      "album": {
         "name": "IDK You Yet (Live on Piano)",
         "url": "https://open.spotify.com/album/2MV7PrKdCcislKUAPMyEA2"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 184638,
       "name": "IDK You Yet",
       "url": "https://open.spotify.com/track/0j1Ia2lQWrcXrQZI4AdJlk"
+    },
+    {
+      "added_at": "2023-09-28 00:00:00",
+      "album": {
+        "name": "Feel Something (Deluxe)",
+        "url": "https://open.spotify.com/album/5NE8n9E4dMUFvOUZo0tv6p"
+      },
+      "artists": [
+        {
+          "name": "Jaymes Young",
+          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
+        }
+      ],
+      "duration_ms": 228442,
+      "name": "Happiest Year",
+      "url": "https://open.spotify.com/track/219slQu3ALbTSAe9P22hvE"
     },
     {
       "added_at": "2023-09-28 00:00:00",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2023-09-28 00:00:00",
       "album": {
+        "name": "birthday cake",
+        "url": "https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT"
+      },
+      "artists": [
+        {
+          "name": "Dylan Conrique",
+          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
+        }
+      ],
+      "duration_ms": 205280,
+      "name": "birthday cake",
+      "url": "https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme"
+    },
+    {
+      "added_at": "2023-09-28 00:00:00",
+      "album": {
         "name": "World War Joy",
         "url": "https://open.spotify.com/album/01GR4NL5O5CZM51k0aejKD"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 209880,
       "name": "Takeaway",
       "url": "https://open.spotify.com/track/3g0mEQx3NTanacLseoP0Gw"
-    },
-    {
-      "added_at": "2023-09-28 00:00:00",
-      "album": {
-        "name": "birthday cake",
-        "url": "https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT"
-      },
-      "artists": [
-        {
-          "name": "Dylan Conrique",
-          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
-        }
-      ],
-      "duration_ms": 205280,
-      "name": "birthday cake",
-      "url": "https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme"
     },
     {
       "added_at": "2023-09-28 00:00:00",
@@ -1751,22 +1751,22 @@
     {
       "added_at": "2023-09-28 00:00:00",
       "album": {
-        "name": "First Two Pages of Frankenstein",
-        "url": "https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6"
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/4hR7jjsPvRwwcHx8ntJSQS"
       },
       "artists": [
         {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         },
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         }
       ],
-      "duration_ms": 267773,
-      "name": "The Alcott (feat. Taylor Swift)",
-      "url": "https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP"
+      "duration_ms": 212093,
+      "name": "Holy (feat. Chance The Rapper)",
+      "url": "https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy"
     },
     {
       "added_at": "2023-09-28 00:00:00",
@@ -1787,22 +1787,22 @@
     {
       "added_at": "2023-09-28 00:00:00",
       "album": {
-        "name": "Holy",
-        "url": "https://open.spotify.com/album/4hR7jjsPvRwwcHx8ntJSQS"
+        "name": "First Two Pages of Frankenstein",
+        "url": "https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
         },
         {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 212093,
-      "name": "Holy (feat. Chance The Rapper)",
-      "url": "https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy"
+      "duration_ms": 267773,
+      "name": "The Alcott (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP"
     },
     {
       "added_at": "2023-09-28 00:00:00",
@@ -1855,6 +1855,26 @@
     {
       "added_at": "2023-09-28 00:00:00",
       "album": {
+        "name": "Intentions",
+        "url": "https://open.spotify.com/album/55zg331p7m1EFA4uRggkwt"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "duration_ms": 212868,
+      "name": "Intentions",
+      "url": "https://open.spotify.com/track/364dI1bYnvamSnBJ8JcNzN"
+    },
+    {
+      "added_at": "2023-09-28 00:00:00",
+      "album": {
         "name": "TO THE MOON",
         "url": "https://open.spotify.com/album/70uNWLPkbci5L1bZI1Mzp6"
       },
@@ -1875,22 +1895,6 @@
     {
       "added_at": "2023-09-28 00:00:00",
       "album": {
-        "name": "SHE IS COMING",
-        "url": "https://open.spotify.com/album/45wbw92Z6V8G8iPKFzSEPN"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 233654,
-      "name": "Slide Away",
-      "url": "https://open.spotify.com/track/6QQtHdz4PNJWQX4nrAQGC9"
-    },
-    {
-      "added_at": "2023-09-28 00:00:00",
-      "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
@@ -1903,6 +1907,22 @@
       "duration_ms": 215506,
       "name": "Visiting Hours",
       "url": "https://open.spotify.com/track/0rt63HYAAIzUZo5O2D0uA6"
+    },
+    {
+      "added_at": "2023-09-28 00:00:00",
+      "album": {
+        "name": "SHE IS COMING",
+        "url": "https://open.spotify.com/album/45wbw92Z6V8G8iPKFzSEPN"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 233654,
+      "name": "Slide Away",
+      "url": "https://open.spotify.com/track/6QQtHdz4PNJWQX4nrAQGC9"
     },
     {
       "added_at": "2023-09-28 00:00:00",
@@ -1923,26 +1943,6 @@
       "duration_ms": 171200,
       "name": "I Quit Drinking",
       "url": "https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM"
-    },
-    {
-      "added_at": "2023-09-28 00:00:00",
-      "album": {
-        "name": "Intentions",
-        "url": "https://open.spotify.com/album/55zg331p7m1EFA4uRggkwt"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        }
-      ],
-      "duration_ms": 212868,
-      "name": "Intentions",
-      "url": "https://open.spotify.com/track/364dI1bYnvamSnBJ8JcNzN"
     },
     {
       "added_at": "2023-09-28 00:00:00",
@@ -1987,18 +1987,22 @@
     {
       "added_at": "2023-09-28 00:00:00",
       "album": {
-        "name": "Peter Pan Was Right",
-        "url": "https://open.spotify.com/album/7qrZu53xdYZvbCrLpoA92t"
+        "name": "Lonely (with benny blanco)",
+        "url": "https://open.spotify.com/album/3P5WIUJO0Ots1lQx09TOxk"
       },
       "artists": [
         {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
         }
       ],
-      "duration_ms": 192497,
-      "name": "Peter Pan Was Right",
-      "url": "https://open.spotify.com/track/2At18rPHOuTEjGEppwGV0A"
+      "duration_ms": 149297,
+      "name": "Lonely (with benny blanco)",
+      "url": "https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q"
     },
     {
       "added_at": "2023-09-28 00:00:00",
@@ -2015,6 +2019,22 @@
       "duration_ms": 174000,
       "name": "I Hate U",
       "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
+    },
+    {
+      "added_at": "2023-09-28 00:00:00",
+      "album": {
+        "name": "Peter Pan Was Right",
+        "url": "https://open.spotify.com/album/7qrZu53xdYZvbCrLpoA92t"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "duration_ms": 192497,
+      "name": "Peter Pan Was Right",
+      "url": "https://open.spotify.com/track/2At18rPHOuTEjGEppwGV0A"
     },
     {
       "added_at": "2023-09-28 00:00:00",
@@ -2051,26 +2071,6 @@
       "duration_ms": 222860,
       "name": "Till Forever Falls Apart",
       "url": "https://open.spotify.com/track/2769RhOZs0ezRncRW1vryp"
-    },
-    {
-      "added_at": "2023-09-28 00:00:00",
-      "album": {
-        "name": "Lonely (with benny blanco)",
-        "url": "https://open.spotify.com/album/3P5WIUJO0Ots1lQx09TOxk"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        }
-      ],
-      "duration_ms": 149297,
-      "name": "Lonely (with benny blanco)",
-      "url": "https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q"
     },
     {
       "added_at": "2023-09-28 00:00:00",
@@ -2199,6 +2199,22 @@
     {
       "added_at": "2023-09-28 00:00:00",
       "album": {
+        "name": "Miserable Man",
+        "url": "https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 232991,
+      "name": "Miserable Man",
+      "url": "https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo"
+    },
+    {
+      "added_at": "2023-09-28 00:00:00",
+      "album": {
         "name": "Punk",
         "url": "https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW"
       },
@@ -2219,22 +2235,6 @@
       "duration_ms": 210906,
       "name": "Livin It Up (with Post Malone & A$AP Rocky)",
       "url": "https://open.spotify.com/track/7zjEyeBsaw9gV0jofJLfOM"
-    },
-    {
-      "added_at": "2023-09-28 00:00:00",
-      "album": {
-        "name": "Miserable Man",
-        "url": "https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 232991,
-      "name": "Miserable Man",
-      "url": "https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo"
     },
     {
       "added_at": "2023-09-28 00:00:00",

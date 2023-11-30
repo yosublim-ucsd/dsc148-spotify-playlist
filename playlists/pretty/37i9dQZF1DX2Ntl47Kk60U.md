@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ntl47Kk60U.md) - [plain]
 
 > Tara and Darcy's mixtape\. Watch <a href="https://open.spotify.com/playlist/37i9dQZF1DX5KARSfd7WcM?si=990a337ebd6d4033">Heartstopper</a> now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,617 likes - 53 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,576 likes - 53 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ntl47Kk60U.md) - [plain]
 | 30 | [A Loving Feeling](https://open.spotify.com/track/5usQET86kxSpLdk7iCP1pw) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2](https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q) | 1:32 |
 | 31 | [She's My Religion](https://open.spotify.com/track/0LwJllN73QYBHEBdGUTyEp) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Who Am I?](https://open.spotify.com/album/5FLKDb9bvbMu0yTahZtgHO) | 3:09 |
 | 32 | [Kissing Lessons](https://open.spotify.com/track/3KRdLDjxlAY7ku93tOG0b1) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Kissing Lessons](https://open.spotify.com/album/0uXVaGNDshKcJr0CXlWeYj) | 1:54 |
-| 33 | [prom dress](https://open.spotify.com/track/2xCGBWfzTe8l2kvHpgvB6M) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade](https://open.spotify.com/album/5mNk0mLiGcJHLGiT0mjHmX) | 3:17 |
+| 33 | [prom dress](https://open.spotify.com/track/2u4XZR5A8cRPTPxBLJbAFC) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade](https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C) | 3:17 |
 | 34 | [Sappho](https://open.spotify.com/track/5DIGt883aHs3KqWSziy4gR) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Next Thing](https://open.spotify.com/album/0vhRTvVCv9O5orRMgFjxT1) | 1:52 |
 | 35 | [Clearest Blue](https://open.spotify.com/track/7LvgXDcFRcu9zgWfZm65H0) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Every Open Eye](https://open.spotify.com/album/11kNM2Qz9AnObYsX3PQzuM) | 3:53 |
 | 36 | [Flirting with Her](https://open.spotify.com/track/2kDTgtrBqoEWNrdYte9hSo) | [Sir Babygirl](https://open.spotify.com/artist/3Z9b1MnVKbJw8LpgQclsls) | [Crush on Me](https://open.spotify.com/album/2Nr6Y9RNI7eehIi4YeSZDu) | 3:50 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ntl47Kk60U.md) - [plain]
 | 52 | [Girlfriends](https://open.spotify.com/track/2Q4MmopoxXdWfTkC9WelOT) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Tales from the Backseat](https://open.spotify.com/album/4YP202ZTbhy7F9fSQsbKPL) | 3:31 |
 | 53 | [I'll Call You Mine](https://open.spotify.com/track/6rYgEHuyhO064Lgj48qlIe) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:21 |
 
-Snapshot ID: `MCxjYTI3MzM5OWEwMmRiYzljZjg1YzgwMjVmNWVhMzg0ZTNmNmUwYjMz`
+Snapshot ID: `MCw3Y2IwYjIyY2Y0NTgxM2Y5Yjk5NmVjMTQ0MTRiNGQxYTc4MzFjMWFi`

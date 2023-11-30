@@ -2,7 +2,7 @@
 
 ### [Taste](https://open.spotify.com/playlist/37i9dQZF1DWSUur0QPPsOn)
 
-> Sophisticated palates only\. Curated by: <a href="spotify:playlist:37i9dQZF1DWYvLAVPovEAe">Milan Harris</a>
+> Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/iammilanrouge/">Milan Harris</a>
 
 1,263 songs - 3 day 9 hr 22 min
 

@@ -9076,10 +9076,28 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 209826,
       "name": "NEW STAR",
       "url": "https://open.spotify.com/track/3DLmZAoUDu4SOo6YrUHrCj"
+    },
+    {
+      "album": {
+        "name": "NEW STAR",
+        "url": "https://open.spotify.com/album/4ohVAtGzJTQCIKJTMzGLAb"
+      },
+      "artists": [
+        {
+          "name": "n.SSign",
+          "url": "https://open.spotify.com/artist/3IHvi45S5SITyNES9VzSjI"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209826,
+      "name": "NEW STAR",
+      "url": "https://open.spotify.com/track/4fGkb1BWnzrppNuGUeUSaZ"
     },
     {
       "album": {

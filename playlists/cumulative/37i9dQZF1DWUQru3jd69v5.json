@@ -7480,7 +7480,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 104559,
       "name": "In Silenzio",
       "url": "https://open.spotify.com/track/5rgFC6gPgSen5E6a9gpmks"
@@ -11722,6 +11722,24 @@
       "duration_ms": 164543,
       "name": "Ohh mama",
       "url": "https://open.spotify.com/track/6x5Onig2VvZR96vzD5QG5B"
+    },
+    {
+      "album": {
+        "name": "OLLARE",
+        "url": "https://open.spotify.com/album/1GImvWb34QIw4Ps0ISx540"
+      },
+      "artists": [
+        {
+          "name": "Sapobully",
+          "url": "https://open.spotify.com/artist/2u5doTfPeC2gnLwislKGLE"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193655,
+      "name": "OLLARE",
+      "url": "https://open.spotify.com/track/3a69j3abFyDFkXehj2dnSR"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Trap de la isla, con Yeruza en portada.",
-  "num_followers": 11224,
+  "num_followers": 11318,
   "original_name": "Trap Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDI3NDQzZDA1MjRmZDE0MGQ2NmVjZmFiYzkyN2ZjOTRmZmZmMDI2",
+  "snapshot_id": "MCxkM2QyMTQwYWNkOTQxNDBiOWY3MjdmYzRhMjRiZDdlYWMzZjA2ZGQz",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "LUKEANDO",
+        "url": "https://open.spotify.com/album/16gcnqKh83gvfUSdNrpWKM"
+      },
+      "artists": [
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "duration_ms": 135953,
+      "name": "LUKEANDO",
+      "url": "https://open.spotify.com/track/6wvl4xyrmllgSXlHMLUAPo"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Carbon Fiber Hits",
         "url": "https://open.spotify.com/album/2Uld8jdkYagsj9j7xBom0T"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 331413,
       "name": "Diabla (Official Remix)",
       "url": "https://open.spotify.com/track/1OPVFxzEgHEdfvCTiB7nh2"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "LUKEANDO",
-        "url": "https://open.spotify.com/album/16gcnqKh83gvfUSdNrpWKM"
-      },
-      "artists": [
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        }
-      ],
-      "duration_ms": 135953,
-      "name": "LUKEANDO",
-      "url": "https://open.spotify.com/track/6wvl4xyrmllgSXlHMLUAPo"
     },
     {
       "added_at": "2023-09-01 04:00:00",

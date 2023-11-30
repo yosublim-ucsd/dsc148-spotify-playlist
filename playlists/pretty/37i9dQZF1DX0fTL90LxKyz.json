@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home!",
-  "num_followers": 55773,
+  "num_followers": 55771,
   "original_name": "Drill Work",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2M4MzVjMjI1ZGE1MDRjN2ExZTE3OWQ5NDVlZDA5YTJjMzY4ZDg1",
+  "snapshot_id": "MCxhOGUyNjljODc0MDdhYWQ5ZDVjOGFiYzM4ZWY5YTMzNzA4ZGZmY2I4",
   "tracks": [
     {
       "added_at": "2022-10-23 18:38:51",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-10-23 18:38:51",
       "album": {
-        "name": "Talk To Me Nice",
-        "url": "https://open.spotify.com/album/4wt9ueqBx4ngkdrD3Rd41Z"
-      },
-      "artists": [
-        {
-          "name": "Russ Millions",
-          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Talk To Me Nice",
-      "url": "https://open.spotify.com/track/1JTnvQEXkqf0ZovtKPDh9j"
-    },
-    {
-      "added_at": "2022-10-23 18:38:51",
-      "album": {
         "name": "Call Me A Spartan",
         "url": "https://open.spotify.com/album/0L3E3Q7E8vGe64qn30FuUN"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 220000,
       "name": "Call Me A Spartan",
       "url": "https://open.spotify.com/track/3tvtBZEkBPhrusKwj0Bhft"
+    },
+    {
+      "added_at": "2022-10-23 18:38:51",
+      "album": {
+        "name": "Talk To Me Nice",
+        "url": "https://open.spotify.com/album/4wt9ueqBx4ngkdrD3Rd41Z"
+      },
+      "artists": [
+        {
+          "name": "Russ Millions",
+          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Talk To Me Nice",
+      "url": "https://open.spotify.com/track/1JTnvQEXkqf0ZovtKPDh9j"
     },
     {
       "added_at": "2022-10-23 18:38:51",

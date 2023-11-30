@@ -4,7 +4,7 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-238 songs - 23 hr 45 min
+239 songs - 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [DüN](https://open.spotify.com/track/2Q8eKyLWsmdmNBKrgdWVf6) | [KeuS](https://open.spotify.com/artist/1DWdkfnG0twxn7hIrGb4YC) | [DüN](https://open.spotify.com/album/0hQnHGP8TLX88RnLDTx9SB) | 6:55 | 2022-04-13 | 2023-07-06 |
 | [Elgoa](https://open.spotify.com/track/4hLv1dWaXMwUjgyfRmE56p) | [Kawtar Sadik](https://open.spotify.com/artist/76hWhGu3o57UxXrt5BLljb), [Hamada Hammy](https://open.spotify.com/artist/3ynNwCnPhBjoUFpNe3zoXl) | [Elgoa EP](https://open.spotify.com/album/794UFSLjBzEsZslOOC3ylc) | 7:01 | 2023-11-24 |  |
 | [Elya](https://open.spotify.com/track/3BMyGkAvosGkqTquzNAiEr) | [Satori](https://open.spotify.com/artist/5nri3hyKmKBGAfvjBi0mK0) | [Elya](https://open.spotify.com/album/4eggQ1mmUdI3o0QYdx7eVv) | 6:32 | 2022-10-13 |  |
-| [Emowe](https://open.spotify.com/track/1GydcJBhEsjXVOwffBVyhr) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Emowe](https://open.spotify.com/album/0T2YlhZHMFUHf3xKrxeFle) | 7:40 | 2023-07-05 |  |
+| [Emowe](https://open.spotify.com/track/0HEmkRtbVxUJGcZOXWYiNf) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Emowe](https://open.spotify.com/album/6vWHRHnbKMN5OeqAZcoIbI) | 7:40 | 2023-11-24 |  |
+| [Emowe](https://open.spotify.com/track/1GydcJBhEsjXVOwffBVyhr) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Emowe](https://open.spotify.com/album/0T2YlhZHMFUHf3xKrxeFle) | 7:40 | 2023-07-05 | 2023-11-30 |
 | [Endless History](https://open.spotify.com/track/5OhycGO6E8HwsbtOPeCRxI) | [Gorje Hewek](https://open.spotify.com/artist/0HBaoUIo3fXlnWz1dc4mro), [Facundo Losardo](https://open.spotify.com/artist/4saM6vfv68Mb1xB3EEb9IQ) | [Greatness of Blooming Twig](https://open.spotify.com/album/3jQnaplLlukpbKQlUh6SCM) | 5:04 | 2022-04-13 | 2023-05-13 |
 | [Ese Soy Yo \- FNX Omar Remix](https://open.spotify.com/track/6X3OOJNZtxhDFh956b2OsN) | [Hallex M](https://open.spotify.com/artist/0f270Jn8Iq2r631GA5429f), [Floyd Lavine](https://open.spotify.com/artist/5VjxZ6Ik0cmnVlXZ3in6nw), [Afrosideral](https://open.spotify.com/artist/6gwlTwJNBRJ8l8phOAQCEI), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW) | [Ese Soy Yo](https://open.spotify.com/album/2Vpr8XJiX09cv173UUKPqH) | 7:34 | 2023-04-07 |  |
 | [Eternal Roots](https://open.spotify.com/track/6FhUtyw0Y8q1xR22XlFNXg) | [Safar \(FR\)](https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm) | [Eternal Roots](https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL) | 5:05 | 2022-08-04 |  |

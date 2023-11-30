@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDkmaK3cAib.md) - [plain]
 
 > let's get it on
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,114 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,227 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDkmaK3cAib.md) - [plain]
 | 50 | [Malibú](https://open.spotify.com/track/4GR2VDGNBpGyE4wZy0VTSj) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Malibú](https://open.spotify.com/album/62bGLItJa7M2TGq4WMhvlz) | 3:40 |
 | 51 | [Close friends ☆](https://open.spotify.com/track/0GIdaVAY3go0PhjNFmAyfA) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [Me Muevo Con Dios](https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT) | 2:06 |
 | 52 | [DVD](https://open.spotify.com/track/2Uk2XAamvFG6AecKgayLKU) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:18 |
-| 53 | [atravesao](https://open.spotify.com/track/6ZQau5OYmv8C3iZb8WUQLF) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [ya no somos los mismos](https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH) | 3:20 |
-| 54 | [Nagano](https://open.spotify.com/track/5qTnlwbe18VRvDJQYAreGW) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK), [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [Destellos](https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k) | 3:03 |
+| 53 | [Nagano](https://open.spotify.com/track/5qTnlwbe18VRvDJQYAreGW) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK), [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [Destellos](https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k) | 3:03 |
+| 54 | [atravesao](https://open.spotify.com/track/6ZQau5OYmv8C3iZb8WUQLF) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [ya no somos los mismos](https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH) | 3:20 |
 | 55 | [Para Estar](https://open.spotify.com/track/2wrQ0tzuFnKj9BVgIsVcwV) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Dulzura](https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A) | 4:56 |
 | 56 | [Double Cheese & Bacon \(feat\. Willie DeVille & Veztalone\)](https://open.spotify.com/track/6t6VYuRaisYZLynvLhizsF) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Willie DeVille](https://open.spotify.com/artist/18vnqu7XJRHPmua3tsejG5) | [Double Cheese & Bacon \(feat\. Willie DeVille & Veztalone\)](https://open.spotify.com/album/1zZxxzuPxKHMiQypEx54yx) | 4:13 |
 | 57 | [For Ya](https://open.spotify.com/track/02qrtIRuwbGgs2wCvdOFme) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 2:27 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDkmaK3cAib.md) - [plain]
 | 64 | [Religiosa](https://open.spotify.com/track/33IHBjSXpamVSajAQ3wSER) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 2:40 |
 | 65 | [No Fue](https://open.spotify.com/track/5KgGV5yykkThL3rk5mQWfr) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf) | [No Fue](https://open.spotify.com/album/01hu8HlyUnBnITx30aDTbD) | 3:15 |
 | 66 | [COLTRANE](https://open.spotify.com/track/4hM63GBOU82xdvxDa0RxJm) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Carlota Urdiales](https://open.spotify.com/artist/25OjIyCWup505eb4tS2AUl) | [Cardellino](https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC) | 2:43 |
-| 67 | [Acércate](https://open.spotify.com/track/26lQpQ4qsnVrH6QjDwrzUZ) | [Beruti](https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI), [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Acércate](https://open.spotify.com/album/5d8ygrapgzsFXavPw9Snkl) | 2:47 |
-| 68 | [Aire](https://open.spotify.com/track/6KD13DHZyT3hRvcVg1sZfZ) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Aire](https://open.spotify.com/album/3JUzKnPSx25f6XGmFlmOQM) | 2:54 |
+| 67 | [Aire](https://open.spotify.com/track/6KD13DHZyT3hRvcVg1sZfZ) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Aire](https://open.spotify.com/album/3JUzKnPSx25f6XGmFlmOQM) | 2:54 |
+| 68 | [Acércate](https://open.spotify.com/track/26lQpQ4qsnVrH6QjDwrzUZ) | [Beruti](https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI), [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Acércate](https://open.spotify.com/album/5d8ygrapgzsFXavPw9Snkl) | 2:47 |
 | 69 | [Bachatica](https://open.spotify.com/track/4DZYmpPrr6agOFB1qQSJ8I) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc) | [Bachatica](https://open.spotify.com/album/4RKlBiJIMMhQ9yXOeoJwi8) | 3:16 |
 | 70 | [Commitment](https://open.spotify.com/track/66wc0nPLPztqdyjEdWzPRP) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [Carousel](https://open.spotify.com/album/6VgqpgAkaud6KjgkXiKPMY) | 4:07 |
 | 71 | [La Ducha](https://open.spotify.com/track/6K8b79GjwyTgg0Juafi5v1) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [La Ducha](https://open.spotify.com/album/3cRg2kyX1JIc1bCKnjbdnp) | 3:29 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDkmaK3cAib.md) - [plain]
 | 74 | [Curvas](https://open.spotify.com/track/6TO05VYYHCkZpy0V1XVOdI) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Claruz](https://open.spotify.com/artist/5NtQw3vT27cspk8K7krlJv), [Floyd](https://open.spotify.com/artist/4yURrK9HEczFPGPya2yBu2) | [Curvas](https://open.spotify.com/album/4epp2PoR2TdOkYN90EG1MT) | 2:48 |
 | 75 | [Quédate](https://open.spotify.com/track/3Ci9L1hytziZxJ1LzU5wHg) | [Debi Nova](https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [3:33](https://open.spotify.com/album/2uQbBt3Ot0Qpj6grNS11bK) | 2:54 |
 
-Snapshot ID: `MCw5MTBiNDVhYzU3YzNjY2YwOTliZTczNDU4NjNhYzk0YjZhMGZmZThh`
+Snapshot ID: `MCw0MjZkOTMwNWI3MzRlZjc4YzY5ZjljMmIzOGQwODA0NTEyMjQzY2Vi`

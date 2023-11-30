@@ -1,12 +1,12 @@
 {
   "description": "\u604b\u3057\u3066\u308b\u3042\u306a\u305f\u306b\u5bc4\u308a\u6dfb\u3046\u3001\u7d20\u6575\u306a\u30e9\u30d6\u30bd\u30f3\u30b0\u3092\u96c6\u3081\u307e\u3057\u305f\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 151149,
+  "num_followers": 151236,
   "original_name": "\u604b\u3059\u308b\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGU4YWYxYzMzOGY1NGMzODcwN2NmMWFhM2ZhOTQxMzAxMTE1NzRm",
+  "snapshot_id": "MCw4ZDU4NjRhZGE5MjQwYjRhMjhiOGQ0ZDg3ZmYyYjkyY2QzYmQ1OGE2",
   "tracks": [
     {
       "added_at": "2023-11-28 15:00:00",
@@ -124,7 +124,7 @@
       "added_at": "2023-11-28 15:00:00",
       "album": {
         "name": "Candle",
-        "url": "https://open.spotify.com/album/2QKtmakVNgVWejUQRjZm1S"
+        "url": "https://open.spotify.com/album/1Dy7aa6yDhK1X0RdrVnHhq"
       },
       "artists": [
         {
@@ -133,8 +133,8 @@
         }
       ],
       "duration_ms": 235346,
-      "name": "\u51ea",
-      "url": "https://open.spotify.com/track/0o0i6AYvStQb7W7AK3KCwr"
+      "name": "Calm",
+      "url": "https://open.spotify.com/track/0B4QXKyErj0nhM2WZZeUoR"
     },
     {
       "added_at": "2023-11-28 15:00:00",
@@ -187,8 +187,8 @@
     {
       "added_at": "2023-11-28 15:00:00",
       "album": {
-        "name": "\u611b need your love",
-        "url": "https://open.spotify.com/album/7aNVI1dGbfpGZUQV0zkPRa"
+        "name": "Ai need your love",
+        "url": "https://open.spotify.com/album/7fg7uDn8Dhslc4DqBlnbmw"
       },
       "artists": [
         {
@@ -197,8 +197,8 @@
         }
       ],
       "duration_ms": 226274,
-      "name": "\u611b need your love",
-      "url": "https://open.spotify.com/track/7BBaJjWYEfEGFuUyM9zCyB"
+      "name": "Ai need your love",
+      "url": "https://open.spotify.com/track/5IKcZuIuzKyx7hyqKTY7cg"
     },
     {
       "added_at": "2023-11-28 15:00:00",
@@ -347,18 +347,18 @@
     {
       "added_at": "2023-11-28 15:00:00",
       "album": {
-        "name": "\u30a8\u30b9\u30ab\u30d1\u30ec\u30fc\u30c9",
-        "url": "https://open.spotify.com/album/0Iz8ByVqKvdlyl77DV3y3p"
+        "name": "\u30e9\u30d6\u30b9\u30c8\u30fc\u30ea\u30fc",
+        "url": "https://open.spotify.com/album/6Elim2fDkGOu1ObNwZHvuQ"
       },
       "artists": [
         {
-          "name": "OFFICIAL HIGE DANDISM",
-          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+          "name": "back number",
+          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
         }
       ],
-      "duration_ms": 324633,
-      "name": "115\u4e07\u30ad\u30ed\u306e\u30d5\u30a3\u30eb\u30e0",
-      "url": "https://open.spotify.com/track/278JqkBGkjDovOYAwE8TW7"
+      "duration_ms": 294813,
+      "name": "\u9ad8\u5dba\u306e\u82b1\u5b50\u3055\u3093",
+      "url": "https://open.spotify.com/track/2jdbZGFp8KVTuk0YxDNL4l"
     },
     {
       "added_at": "2023-11-28 15:00:00",
@@ -379,18 +379,18 @@
     {
       "added_at": "2023-11-28 15:00:00",
       "album": {
-        "name": "\u30e9\u30d6\u30b9\u30c8\u30fc\u30ea\u30fc",
-        "url": "https://open.spotify.com/album/6Elim2fDkGOu1ObNwZHvuQ"
+        "name": "\u30a8\u30b9\u30ab\u30d1\u30ec\u30fc\u30c9",
+        "url": "https://open.spotify.com/album/0Iz8ByVqKvdlyl77DV3y3p"
       },
       "artists": [
         {
-          "name": "back number",
-          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
         }
       ],
-      "duration_ms": 294813,
-      "name": "\u9ad8\u5dba\u306e\u82b1\u5b50\u3055\u3093",
-      "url": "https://open.spotify.com/track/2jdbZGFp8KVTuk0YxDNL4l"
+      "duration_ms": 324633,
+      "name": "115\u4e07\u30ad\u30ed\u306e\u30d5\u30a3\u30eb\u30e0",
+      "url": "https://open.spotify.com/track/278JqkBGkjDovOYAwE8TW7"
     },
     {
       "added_at": "2023-11-28 15:00:00",
@@ -475,18 +475,18 @@
     {
       "added_at": "2023-11-28 15:00:00",
       "album": {
-        "name": "\u9752\u6625\u306e\u30a8\u30ad\u30b5\u30a4\u30c8\u30e1\u30f3\u30c8",
-        "url": "https://open.spotify.com/album/0ct8ESCAYEpDGYJOndCfft"
+        "name": "\u30b9\u30fc\u30d1\u30fc\u30b9\u30bf\u30fc",
+        "url": "https://open.spotify.com/album/4x70QIHYGdMgV9rRgByZbI"
       },
       "artists": [
         {
-          "name": "Aimyon",
-          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
+          "name": "back number",
+          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
         }
       ],
-      "duration_ms": 246306,
-      "name": "\u541b\u306f\u30ed\u30c3\u30af\u3092\u8074\u304b\u306a\u3044",
-      "url": "https://open.spotify.com/track/59eluCMn0XbOWqeWQ91FTM"
+      "duration_ms": 286053,
+      "name": "\u82b1\u675f",
+      "url": "https://open.spotify.com/track/3QIAwtEEDOrv0g5NKCGrXZ"
     },
     {
       "added_at": "2023-11-28 15:00:00",
@@ -507,18 +507,18 @@
     {
       "added_at": "2023-11-28 15:00:00",
       "album": {
-        "name": "\u30b9\u30fc\u30d1\u30fc\u30b9\u30bf\u30fc",
-        "url": "https://open.spotify.com/album/4x70QIHYGdMgV9rRgByZbI"
+        "name": "\u9752\u6625\u306e\u30a8\u30ad\u30b5\u30a4\u30c8\u30e1\u30f3\u30c8",
+        "url": "https://open.spotify.com/album/0ct8ESCAYEpDGYJOndCfft"
       },
       "artists": [
         {
-          "name": "back number",
-          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
+          "name": "Aimyon",
+          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
         }
       ],
-      "duration_ms": 286053,
-      "name": "\u82b1\u675f",
-      "url": "https://open.spotify.com/track/3QIAwtEEDOrv0g5NKCGrXZ"
+      "duration_ms": 246306,
+      "name": "\u541b\u306f\u30ed\u30c3\u30af\u3092\u8074\u304b\u306a\u3044",
+      "url": "https://open.spotify.com/track/59eluCMn0XbOWqeWQ91FTM"
     },
     {
       "added_at": "2023-11-28 15:00:00",
@@ -615,18 +615,18 @@
     {
       "added_at": "2023-11-28 15:00:00",
       "album": {
-        "name": "Nagisa",
-        "url": "https://open.spotify.com/album/1AtPpQ0av1ugXZ1QhjMQkK"
+        "name": "MAGIC",
+        "url": "https://open.spotify.com/album/4dERKKPWhbvX7zxFTzNzNn"
       },
       "artists": [
         {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+          "name": "back number",
+          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
         }
       ],
-      "duration_ms": 226489,
-      "name": "Nagisa",
-      "url": "https://open.spotify.com/track/0bdAQ9dwLA5cJtgM05PRKW"
+      "duration_ms": 254440,
+      "name": "\u30aa\u30fc\u30eb\u30c9\u30d5\u30a1\u30c3\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/0Xn30nT5EKFPsWvpiJ2Iav"
     },
     {
       "added_at": "2023-11-28 15:00:00",
@@ -647,24 +647,24 @@
     {
       "added_at": "2023-11-28 15:00:00",
       "album": {
-        "name": "MAGIC",
-        "url": "https://open.spotify.com/album/4dERKKPWhbvX7zxFTzNzNn"
+        "name": "YANKEE",
+        "url": "https://open.spotify.com/album/64SAjax288grKsmuLDfA6G"
       },
       "artists": [
         {
-          "name": "back number",
-          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
         }
       ],
-      "duration_ms": 254440,
-      "name": "\u30aa\u30fc\u30eb\u30c9\u30d5\u30a1\u30c3\u30b7\u30e7\u30f3",
-      "url": "https://open.spotify.com/track/0Xn30nT5EKFPsWvpiJ2Iav"
+      "duration_ms": 288013,
+      "name": "\u30a2\u30a4\u30cd\u30af\u30e9\u30a4\u30cd",
+      "url": "https://open.spotify.com/track/45YBVp6zMwQZRbUDcPzmMB"
     },
     {
       "added_at": "2023-11-28 15:00:00",
       "album": {
-        "name": "\u77e5\u308a\u305f\u3044",
-        "url": "https://open.spotify.com/album/2A9DObdoMkFhBu9OVof8ec"
+        "name": "Shiritai",
+        "url": "https://open.spotify.com/album/5oxdlAISKzaDASZT2UFojf"
       },
       "artists": [
         {
@@ -673,14 +673,14 @@
         }
       ],
       "duration_ms": 187520,
-      "name": "\u77e5\u308a\u305f\u3044",
-      "url": "https://open.spotify.com/track/0ZzlTt1awceD0HCG2ntBi3"
+      "name": "Shiritai",
+      "url": "https://open.spotify.com/track/04iVugMr9elupIsmDVwaDq"
     },
     {
       "added_at": "2023-11-28 15:00:00",
       "album": {
         "name": "Darlin'",
-        "url": "https://open.spotify.com/album/6iBVOqqrsWUaI4zN2c0GxQ"
+        "url": "https://open.spotify.com/album/2qlU1ZkAgL649iwJ9O8aLU"
       },
       "artists": [
         {
@@ -690,7 +690,7 @@
       ],
       "duration_ms": 186845,
       "name": "Darlin'",
-      "url": "https://open.spotify.com/track/2sf21oF3XMuEl5uj7zS3oE"
+      "url": "https://open.spotify.com/track/49gahZG8BL6CDL0fcO03cY"
     },
     {
       "added_at": "2023-11-28 15:00:00",
@@ -743,18 +743,18 @@
     {
       "added_at": "2023-11-28 15:00:00",
       "album": {
-        "name": "YANKEE",
-        "url": "https://open.spotify.com/album/64SAjax288grKsmuLDfA6G"
+        "name": "Nagisa",
+        "url": "https://open.spotify.com/album/1AtPpQ0av1ugXZ1QhjMQkK"
       },
       "artists": [
         {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
         }
       ],
-      "duration_ms": 288013,
-      "name": "\u30a2\u30a4\u30cd\u30af\u30e9\u30a4\u30cd",
-      "url": "https://open.spotify.com/track/45YBVp6zMwQZRbUDcPzmMB"
+      "duration_ms": 226489,
+      "name": "Nagisa",
+      "url": "https://open.spotify.com/track/0bdAQ9dwLA5cJtgM05PRKW"
     },
     {
       "added_at": "2023-11-28 15:00:00",
@@ -1127,22 +1127,18 @@
     {
       "added_at": "2023-11-28 15:00:00",
       "album": {
-        "name": "Life is going on and on",
-        "url": "https://open.spotify.com/album/6shpoVTIdAcPmUYwIDNdBz"
+        "name": "\u30b9\u30fc\u30d1\u30fc\u30b9\u30bf\u30fc",
+        "url": "https://open.spotify.com/album/4x70QIHYGdMgV9rRgByZbI"
       },
       "artists": [
         {
-          "name": "MISIA",
-          "url": "https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk"
-        },
-        {
-          "name": "HIDE (GReeeeN)",
-          "url": "https://open.spotify.com/artist/4SFP5kBIqqjFrrPknaVnbG"
+          "name": "back number",
+          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
         }
       ],
-      "duration_ms": 262693,
-      "name": "\u30a2\u30a4\u30ce\u30ab\u30bf\u30c1",
-      "url": "https://open.spotify.com/track/7mSVOYRseiZi20xtBKhHnF"
+      "duration_ms": 196800,
+      "name": "\u30ea\u30c3\u30c4\u30d1\u30fc\u30c6\u30a3\u30fc",
+      "url": "https://open.spotify.com/track/1FDrCBlNru2OrVXePw1BFQ"
     }
   ],
   "unique_name": "\u604b\u3059\u308b\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8",

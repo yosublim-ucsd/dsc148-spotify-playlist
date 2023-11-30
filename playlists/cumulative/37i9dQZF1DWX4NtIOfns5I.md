@@ -4,7 +4,7 @@
 
 > where folk flowers bloom\. cover: Olivia Rodrigo <3
 
-123 songs - 7 hr 13 min
+124 songs - 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,8 @@
 | [Uncovered](https://open.spotify.com/track/0u3Ck6jifvedbQL0ZjBP1l) | [Max Helgemo](https://open.spotify.com/artist/25tISYfzQFqAvNdmWPspGS) | [Uncovered](https://open.spotify.com/album/7A8zAcXTRDKJdt7HpRmwAT) | 3:44 | 2023-10-06 |  |
 | [Unknown / Nth](https://open.spotify.com/track/1ptwL6lZNLc654XAaHqcHb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:40 | 2023-10-06 |  |
 | [Vampire Empire](https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire](https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm) | 3:12 | 2023-10-06 |  |
-| [very overdue goodbye](https://open.spotify.com/track/2OVZqrdQ6QgaYPvm7L4EYD) | [runo plum](https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39) | [very overdue goodbye](https://open.spotify.com/album/0wuatDVylahYnftpjrD1Gy) | 3:36 | 2023-10-06 |  |
+| [very overdue goodbye](https://open.spotify.com/track/2OVZqrdQ6QgaYPvm7L4EYD) | [runo plum](https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39) | [very overdue goodbye](https://open.spotify.com/album/0wuatDVylahYnftpjrD1Gy) | 3:36 | 2023-10-06 | 2023-11-30 |
+| [very overdue goodbye](https://open.spotify.com/track/6onEf8upjTGmqve2G6dm3h) | [runo plum](https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39) | [earlier from '20](https://open.spotify.com/album/2AekUERWbAA27Eyux7Gj9Z) | 3:36 | 2023-11-10 |  |
 | [Voyager](https://open.spotify.com/track/6Xl18Edf3v9Z2FLw1H69cr) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw) | [the rest](https://open.spotify.com/album/1n0esOkFQdL74PwMwTVgtz) | 2:48 | 2023-10-17 |  |
 | [Where'd The Time Go?](https://open.spotify.com/track/2dXU17E5YrtwfQBlpyu8Ut) | [Kaleah Lee](https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ) | [Where'd The Time Go?](https://open.spotify.com/album/7ttGJ6CYogFKE2twKTjSHM) | 1:45 | 2023-10-20 |  |
 | [Whole](https://open.spotify.com/track/26nQglIAtzdWhpe0wa7R7V) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [Anarchist Gospel](https://open.spotify.com/album/1clekgjwj7TdXgYjQjm1BJ) | 3:19 | 2023-10-06 |  |

@@ -4,7 +4,7 @@
 
 > Os grandes hits do momento estão aqui! Foto: Gloria Groove
 
-222 songs - 10 hr 41 min
+223 songs - 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [Yo No Se \(feat\. L7NNON & Maffio\)](https://open.spotify.com/track/2K176iGMIBESoxbTzyoFsH) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Versions of Me \(Deluxe\)](https://open.spotify.com/album/7mJHNN7NNnPBofreezMbef) | 3:01 | 2022-08-26 | 2023-02-25 |
 | [Zero a Cem](https://open.spotify.com/track/5dpDnd3Nnw5dRql80RcI7M) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp) | [Zero a Cem](https://open.spotify.com/album/196Sp6RFxVhYFGYjACcsCG) | 3:10 | 2023-10-25 |  |
 | [Zona De Perigo](https://open.spotify.com/track/1jHgfC8T5KxUyC5Ldw6lk9) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Zona De Perigo](https://open.spotify.com/album/6dj4bRg0LCMm7B2P5Xenq5) | 2:22 | 2023-02-16 | 2023-08-17 |
-| [É Tesão ou É Amor](https://open.spotify.com/track/19TnKf5YHapfrI1FJjbx8i) | [cjnobeat](https://open.spotify.com/artist/4fKJ81BAFxuwAFUI3B1BXM), [Bibi Babydoll](https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [É Tesão ou É Amor](https://open.spotify.com/album/6yimbyJdwJgL4bKA8MfS1s) | 2:38 | 2023-10-13 |  |
+| [É Tesão ou É Amor](https://open.spotify.com/track/7tDkT8KRWl7xyghFLwgTgt) | [cjnobeat](https://open.spotify.com/artist/4fKJ81BAFxuwAFUI3B1BXM), [Bibi Babydoll](https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV) | [É Tesão ou É Amor](https://open.spotify.com/album/0Om40W41WEFM4xJeRI7S3a) | 2:38 | 2023-11-24 |  |
+| [É Tesão ou É Amor](https://open.spotify.com/track/19TnKf5YHapfrI1FJjbx8i) | [cjnobeat](https://open.spotify.com/artist/4fKJ81BAFxuwAFUI3B1BXM), [Bibi Babydoll](https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [É Tesão ou É Amor](https://open.spotify.com/album/6yimbyJdwJgL4bKA8MfS1s) | 2:38 | 2023-10-13 | 2023-11-30 |
 
 \*This playlist was first scraped on 2022-05-27. Prior content cannot be recovered.

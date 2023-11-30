@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 
 > ¡Esto sí es Bachata! Portada: Romeo Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,631 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,770 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 | 36 | [Maestra](https://open.spotify.com/track/6NOgTDhJDbsxGzyseTXe0c) | [Elvis Martinez El Camarón](https://open.spotify.com/artist/0lk9ZWji6LAxpqlfcXMspP) | [Tres Palabras](https://open.spotify.com/album/15V8Q5wvYKMVm1tagU4ms5) | 3:51 |
 | 37 | [Inmortal](https://open.spotify.com/track/2swZ0X1njeU32SNJeBKIfW) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Utopia](https://open.spotify.com/album/1yM8iaMk4Slsqr94LabgN1) | 4:16 |
 | 38 | [Medicina De Amor](https://open.spotify.com/track/5hwbK5XM8AqY8DEQRJgjOZ) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Medicina De Amor](https://open.spotify.com/album/5NgeAujhCfKL1jcTAU6qKx) | 6:00 |
-| 39 | [Vagabundo, Borracho y Loco](https://open.spotify.com/track/7HaK3CjawpQc6kKJXAIrcw) | [Kiko Rodriguez](https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV) | [Directo Al Corazon](https://open.spotify.com/album/0QzvLqVXEsUWLIAh58WaXM) | 4:29 |
+| 39 | [Nuestro Amor](https://open.spotify.com/track/197PCRC6OSRsJvYCurlsdz) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Nuestro Amor](https://open.spotify.com/album/4xpeeztYL2ensw5QYD4rDg) | 3:24 |
 | 40 | [Ya No Te Buscaré](https://open.spotify.com/track/1CIUos10Or0tFaf4ZhaSfW) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [El Amor](https://open.spotify.com/album/47hm8FIBjBtP5pYjO0fJUq) | 3:36 |
-| 41 | [Nuestro Amor](https://open.spotify.com/track/197PCRC6OSRsJvYCurlsdz) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Nuestro Amor](https://open.spotify.com/album/4xpeeztYL2ensw5QYD4rDg) | 3:24 |
+| 41 | [Vagabundo, Borracho y Loco](https://open.spotify.com/track/7HaK3CjawpQc6kKJXAIrcw) | [Kiko Rodriguez](https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV) | [Directo Al Corazon](https://open.spotify.com/album/0QzvLqVXEsUWLIAh58WaXM) | 4:29 |
 | 42 | [Estoy Perdido](https://open.spotify.com/track/5a7AwolGAcBjZgNQDhRrLm) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Mil historias Edición De Lujo](https://open.spotify.com/album/75tSeRl3ukttjNf0FDcBNQ) | 4:11 |
 | 43 | [No Tengo Suerte En El Amor](https://open.spotify.com/track/6Yeiqec7xM5qssOH1FWV1g) | [Yoskar Sarante](https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4) | [No Es Casualidad](https://open.spotify.com/album/3CFK4hbF6HfIXEpWXJV3CF) | 3:59 |
 | 44 | [Morire Bebiendo](https://open.spotify.com/track/5MghSaEvkfuqDJLhRdY30o) | [Teodoro Reyes](https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy) | [Sentimiento](https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo) | 3:14 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 | 70 | [Me Voy de Ti](https://open.spotify.com/track/513D1s7hHXD8xneGDHOatZ) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Para Toda La Vida](https://open.spotify.com/album/4LgZqa5JapYTlGjOv85FNa) | 5:45 |
 | 71 | [Vine A Decirte Adios](https://open.spotify.com/track/40dliSTZf3ABIqfvenH9TI) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Vine a Decirte Adios](https://open.spotify.com/album/5QShP54MICYu2VqkwfEnGm) | 4:37 |
 | 72 | [La Pared](https://open.spotify.com/track/6OXuPBJvkktBQ5I0B3wLgR) | [Joe Veras](https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K) | [Tonto Corazón](https://open.spotify.com/album/3F0W5hKLkbgGsyhwxSKmwi) | 4:44 |
-| 73 | [atravesao](https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [atravesao](https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr) | 3:20 |
-| 74 | [De Rodillas Te Pido](https://open.spotify.com/track/5RR49uwtf6kMHYRCU2b6A1) | [Luis Miguel Del Amargue](https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ) | [De Rodillas Te Pido](https://open.spotify.com/album/6nUMn31Sn9VsEMY01PZlyH) | 3:53 |
+| 73 | [De Rodillas Te Pido](https://open.spotify.com/track/5RR49uwtf6kMHYRCU2b6A1) | [Luis Miguel Del Amargue](https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ) | [De Rodillas Te Pido](https://open.spotify.com/album/6nUMn31Sn9VsEMY01PZlyH) | 3:53 |
+| 74 | [atravesao](https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [atravesao](https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr) | 3:20 |
 | 75 | [Se Acabo El Abuso: La Historia De Mi Vida El Final, Vol.1](https://open.spotify.com/track/3ocPf13AZvX6QlNuQf6RVV) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Se Acabo El Abuso: La Historia De Mi Vida El Final, Vol.1](https://open.spotify.com/album/4CwW8sORJ7AuVjUKBJkeoQ) | 4:08 |
 | 76 | [Corazón Con Candado](https://open.spotify.com/track/6BrJFyOcW5El8YLp3DtTJ7) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Hablamos En La Cama](https://open.spotify.com/album/2U6skaTPCGdtHbpAfb8Bap) | 4:22 |
 | 77 | [A Quien Le Importa \(Versión Bachata\)](https://open.spotify.com/track/0PjlzKDwfuFVpvCT2Ev7KO) | [Andy Andy](https://open.spotify.com/artist/6uEyybDR7K1r88t6iT1oBw) | [Ironia](https://open.spotify.com/album/6KjK5fJcSWe7sayESVW6VB) | 4:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 | 99 | [Dame Un Chance](https://open.spotify.com/track/1tiKYmk7ATZrbONySWFQ4L) | [JFab & Paola Fabre](https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds) | [Dame Un Chance](https://open.spotify.com/album/3X0hdnr8zM30Pl89zPr5cs) | 3:27 |
 | 100 | [Debate De 4](https://open.spotify.com/track/1dZe54pxTPI1XsISVTR6ns) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A), [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq), [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Fórmula Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK) | 4:39 |
 
-Snapshot ID: `MCxjNjM4NDllZThmOTI4Y2E2NmQ5YWM3MmUzYWY1NDIxYTAwYzFjYWJm`
+Snapshot ID: `MCxiYTA2YmE4NjFiY2JlNTI0OTUwYmI2NmRiYmRlNmNkYzZkMWExY2Qx`

@@ -1,12 +1,12 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Abby Sage",
-  "num_followers": 82428,
+  "num_followers": 82645,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Y2E5MWRjZTg0OGZmN2M1N2ZhMjE1YzRlMDY2ZGQwMTFhZGJiYTE4",
+  "snapshot_id": "MCw1MTI5ZTgwYjFiMDE1NzA4YjdiOTJhMzJmYTc1ODI5NTJiMjEwZjI5",
   "tracks": [
     {
       "added_at": "2023-11-10 05:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "History Of A Feeling",
-        "url": "https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt"
-      },
-      "artists": [
-        {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
-        }
-      ],
-      "duration_ms": 173426,
-      "name": "Resentment",
-      "url": "https://open.spotify.com/track/2Dms8axOrrjXETwVwtvBF5"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "To Enjoy is the Only Thing",
         "url": "https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 252454,
       "name": "Good Thing",
       "url": "https://open.spotify.com/track/1avgH7udg2X4mx82V1ChDC"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "History Of A Feeling",
+        "url": "https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        }
+      ],
+      "duration_ms": 173426,
+      "name": "Resentment",
+      "url": "https://open.spotify.com/track/2Dms8axOrrjXETwVwtvBF5"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Because I Wanted You to Know",
-        "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 184301,
-      "name": "As It Is",
-      "url": "https://open.spotify.com/track/3nqhacrhmERFCAO6YTCAMB"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "The Baby",
         "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 210173,
       "name": "Is There Something in the Movies?",
       "url": "https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Because I Wanted You to Know",
+        "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 184301,
+      "name": "As It Is",
+      "url": "https://open.spotify.com/track/3nqhacrhmERFCAO6YTCAMB"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1059,54 +1059,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "This Is A Photograph",
-        "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
-      },
-      "artists": [
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "This Is A Photograph",
-      "url": "https://open.spotify.com/track/1hj8os1Xxiuo95atpJzfCp"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Why You?",
-        "url": "https://open.spotify.com/album/046qCSIYim69H3Vt7pM9cq"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 160613,
-      "name": "Why You?",
-      "url": "https://open.spotify.com/track/2eRMRIXoOSNLl3xHiztwBM"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Somewhere",
-        "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
-      },
-      "artists": [
-        {
-          "name": "Sun June",
-          "url": "https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb"
-        }
-      ],
-      "duration_ms": 246666,
-      "name": "Everything I had",
-      "url": "https://open.spotify.com/track/3ZWtCPAWcE7hh00mjQDOXq"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Lotta Love",
         "url": "https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE"
       },
@@ -1127,18 +1079,50 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/5IjgL0lZlvCBrkXwvK2NrE"
+        "name": "This Is A Photograph",
+        "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
       },
       "artists": [
         {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
         }
       ],
-      "duration_ms": 217293,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/7jUitZww3URFitXC32ezRd"
+      "duration_ms": 210333,
+      "name": "This Is A Photograph",
+      "url": "https://open.spotify.com/track/1hj8os1Xxiuo95atpJzfCp"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Somewhere",
+        "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
+      },
+      "artists": [
+        {
+          "name": "Sun June",
+          "url": "https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb"
+        }
+      ],
+      "duration_ms": 246666,
+      "name": "Everything I had",
+      "url": "https://open.spotify.com/track/3ZWtCPAWcE7hh00mjQDOXq"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Why You?",
+        "url": "https://open.spotify.com/album/046qCSIYim69H3Vt7pM9cq"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 160613,
+      "name": "Why You?",
+      "url": "https://open.spotify.com/track/2eRMRIXoOSNLl3xHiztwBM"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1159,6 +1143,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/5IjgL0lZlvCBrkXwvK2NrE"
+      },
+      "artists": [
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        }
+      ],
+      "duration_ms": 217293,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/7jUitZww3URFitXC32ezRd"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Norm",
         "url": "https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC"
       },
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Live at Electric Lady",
-        "url": "https://open.spotify.com/album/2bxBgkzYqo9WBQgl0ZraY6"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 193666,
-      "name": "Blouse - Recorded At Electric Lady Studios",
-      "url": "https://open.spotify.com/track/127CAKy0KyYoR0r7QNbvVR"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Mozart in My Mind",
         "url": "https://open.spotify.com/album/3yrSqrGXFiRjjETGudPFLQ"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 186050,
       "name": "Mozart in My Mind",
       "url": "https://open.spotify.com/track/1fTKaYCVdkPrFLto9Q36G8"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Live at Electric Lady",
+        "url": "https://open.spotify.com/album/2bxBgkzYqo9WBQgl0ZraY6"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 193666,
+      "name": "Blouse - Recorded At Electric Lady Studios",
+      "url": "https://open.spotify.com/track/127CAKy0KyYoR0r7QNbvVR"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Shove",
-        "url": "https://open.spotify.com/album/1Zn4cAAjfE9ymJ6PYA34Jb"
-      },
-      "artists": [
-        {
-          "name": "Mali Velasquez",
-          "url": "https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP"
-        }
-      ],
-      "duration_ms": 159852,
-      "name": "Shove",
-      "url": "https://open.spotify.com/track/3zY86yn3L9l2OvDaVju6iP"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Song for Nick Drake",
         "url": "https://open.spotify.com/album/0tD7F0mOkgQliDESDRBLey"
       },
@@ -1383,18 +1367,34 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "To Enjoy is the Only Thing",
-        "url": "https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK"
+        "name": "Spell",
+        "url": "https://open.spotify.com/album/4DW2TnIuLYckzD1fPIgOrK"
       },
       "artists": [
         {
-          "name": "Maple Glider",
-          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
         }
       ],
-      "duration_ms": 252413,
-      "name": "Swimming",
-      "url": "https://open.spotify.com/track/0HVxfx5x8dZSTaK7EnIByn"
+      "duration_ms": 247267,
+      "name": "Spell",
+      "url": "https://open.spotify.com/track/6VnKIbHslTmwhEmH36ln4Q"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Shove",
+        "url": "https://open.spotify.com/album/1Zn4cAAjfE9ymJ6PYA34Jb"
+      },
+      "artists": [
+        {
+          "name": "Mali Velasquez",
+          "url": "https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP"
+        }
+      ],
+      "duration_ms": 159852,
+      "name": "Shove",
+      "url": "https://open.spotify.com/track/3zY86yn3L9l2OvDaVju6iP"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Spell",
-        "url": "https://open.spotify.com/album/4DW2TnIuLYckzD1fPIgOrK"
+        "name": "To Enjoy is the Only Thing",
+        "url": "https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK"
       },
       "artists": [
         {
-          "name": "Dora Jar",
-          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+          "name": "Maple Glider",
+          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
         }
       ],
-      "duration_ms": 247267,
-      "name": "Spell",
-      "url": "https://open.spotify.com/track/6VnKIbHslTmwhEmH36ln4Q"
+      "duration_ms": 252413,
+      "name": "Swimming",
+      "url": "https://open.spotify.com/track/0HVxfx5x8dZSTaK7EnIByn"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "The Spur",
-        "url": "https://open.spotify.com/album/5zjQU3GjKhWFVHG5pHLqwI"
-      },
-      "artists": [
-        {
-          "name": "Joan Shelley",
-          "url": "https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw"
-        }
-      ],
-      "duration_ms": 232748,
-      "name": "The Spur",
-      "url": "https://open.spotify.com/track/27ViD2ifBwYqlwzpY5LoTB"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Sundowner",
         "url": "https://open.spotify.com/album/7qmhqRQL8WRl4B0PMlYfHk"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 319053,
       "name": "Campfire",
       "url": "https://open.spotify.com/track/3kkTF2ffofmjrKA3pf5kDF"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "The Spur",
+        "url": "https://open.spotify.com/album/5zjQU3GjKhWFVHG5pHLqwI"
+      },
+      "artists": [
+        {
+          "name": "Joan Shelley",
+          "url": "https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw"
+        }
+      ],
+      "duration_ms": 232748,
+      "name": "The Spur",
+      "url": "https://open.spotify.com/track/27ViD2ifBwYqlwzpY5LoTB"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "unposted letters",
+        "url": "https://open.spotify.com/album/6GHaGnLbjpvGCqXWxQpemG"
+      },
+      "artists": [
+        {
+          "name": "Liang Lawrence",
+          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
+        }
+      ],
+      "duration_ms": 205230,
+      "name": "unposted letters",
+      "url": "https://open.spotify.com/track/2IvWwO7uGWthBDqifdv9kc"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "serious person (part 2)",
         "url": "https://open.spotify.com/album/7LDOkHuqa8vZxIYf0J4p4q"
       },
@@ -1811,22 +1827,6 @@
       "duration_ms": 198631,
       "name": "alien",
       "url": "https://open.spotify.com/track/0VXQiOS3qpyAQNSX8jX88I"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "It's All Happening Now",
-        "url": "https://open.spotify.com/album/1FrQGwymQK3vfXS6Z1NBHK"
-      },
-      "artists": [
-        {
-          "name": "Baerd",
-          "url": "https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t"
-        }
-      ],
-      "duration_ms": 152760,
-      "name": "It's All Happening Now",
-      "url": "https://open.spotify.com/track/0z5mi9793H8u6JLO5u2mSf"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1847,18 +1847,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "unposted letters",
-        "url": "https://open.spotify.com/album/6GHaGnLbjpvGCqXWxQpemG"
+        "name": "I'm Green",
+        "url": "https://open.spotify.com/album/1upKvbsQau0k852Ol079dD"
       },
       "artists": [
         {
-          "name": "Liang Lawrence",
-          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
+          "name": "Mali Velasquez",
+          "url": "https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP"
         }
       ],
-      "duration_ms": 205230,
-      "name": "unposted letters",
-      "url": "https://open.spotify.com/track/2IvWwO7uGWthBDqifdv9kc"
+      "duration_ms": 291587,
+      "name": "Clovers",
+      "url": "https://open.spotify.com/track/5k8oU9p71fIhYiTCPudwdh"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1879,18 +1879,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "I'm Green",
-        "url": "https://open.spotify.com/album/1upKvbsQau0k852Ol079dD"
+        "name": "It's All Happening Now",
+        "url": "https://open.spotify.com/album/1FrQGwymQK3vfXS6Z1NBHK"
       },
       "artists": [
         {
-          "name": "Mali Velasquez",
-          "url": "https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP"
+          "name": "Baerd",
+          "url": "https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t"
         }
       ],
-      "duration_ms": 291587,
-      "name": "Clovers",
-      "url": "https://open.spotify.com/track/5k8oU9p71fIhYiTCPudwdh"
+      "duration_ms": 152760,
+      "name": "It's All Happening Now",
+      "url": "https://open.spotify.com/track/0z5mi9793H8u6JLO5u2mSf"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -2023,6 +2023,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/0kGzSpCAb6tLLuyI9vhOOg"
+      },
+      "artists": [
+        {
+          "name": "Lunar Vacation",
+          "url": "https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB"
+        }
+      ],
+      "duration_ms": 276880,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/7BaYmGOuHwdosJil9lObDL"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Three Hours",
         "url": "https://open.spotify.com/album/2mYlWSBNyu22LyQ9qy50hT"
       },
@@ -2039,22 +2055,6 @@
       "duration_ms": 272567,
       "name": "Three Hours",
       "url": "https://open.spotify.com/track/7iGcDYlAdinPkG3zLrtZTX"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/0kGzSpCAb6tLLuyI9vhOOg"
-      },
-      "artists": [
-        {
-          "name": "Lunar Vacation",
-          "url": "https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB"
-        }
-      ],
-      "duration_ms": 276880,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/7BaYmGOuHwdosJil9lObDL"
     },
     {
       "added_at": "2023-10-20 04:00:00",

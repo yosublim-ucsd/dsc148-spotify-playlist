@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Pedro Sampaio, Simone Mendes, MC Hariel, DUDA BEAT, Chefin e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,921,894 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,921,987 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 99 | [desanuviar](https://open.spotify.com/track/6dv427zxWatn55rEml3TlB) | [saudade](https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA), [Bruna Mendez](https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc), [Fs.aiff](https://open.spotify.com/artist/5mCR2OZdHbeSAp7NuS4Rbp) | [desanuviar](https://open.spotify.com/album/1i6hCNGOrRxCCvKmE1cB8f) | 2:56 |
 | 100 | [Duas da Manhã](https://open.spotify.com/track/4njPGT7H3RNdAy1Lkh3cYI) | [Santaella](https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p) | [Duas da Manhã](https://open.spotify.com/album/00zcJl8VAUdohbTZfPJnY5) | 3:18 |
 
-Snapshot ID: `MCwzNDlmYzYxYWM4ZGEyYTMwOWM0NDQ3ODUwMzRmZDM5YmMxM2I0OTM5`
+Snapshot ID: `MCxhNjQwYmIzNTlkMzY4ZDYxNjA5MDJlNzY5ZmQ0YWNhZjJiZGI3ZmQ4`

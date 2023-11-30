@@ -4,7 +4,7 @@
 
 > 綺麗事は聞きたくない。本音でつづられた唄。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-56 songs - 3 hr 28 min
+59 songs - 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,10 +28,12 @@
 | [Never Let You Go](https://open.spotify.com/track/4eehPzTBl5UaENQi04Yzgc) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 4:16 | 2023-11-23 |  |
 | [OTONABLUE](https://open.spotify.com/track/3h1XlHgx0m1dO6nNSO1kSV) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 3:04 | 2023-11-23 |  |
 | [Overdose](https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Overdose](https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa) | 3:17 | 2023-11-23 |  |
+| [Reincarnation](https://open.spotify.com/track/0sqnyvAzus3puMUcE0C0xa) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Reincarnation](https://open.spotify.com/album/30BWPdioslpPR0mhGt6BlM) | 2:45 | 2023-11-29 |  |
 | [rendez\-vous](https://open.spotify.com/track/5i8lwhzx9FyilInJWa5lhn) | [shy taupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [kidnapping / rendez\-vous](https://open.spotify.com/album/0TxOw3GSb01frvQeBbP8MP) | 3:57 | 2023-11-23 |  |
 | [replica](https://open.spotify.com/track/2ZLdeyeaIQdP4mqcMCB9yR) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 5:13 | 2023-11-23 | 2023-11-28 |
 | [SCENE!](https://open.spotify.com/track/56WASWOmOq6PGDA0NWuZOO) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [SCENE!](https://open.spotify.com/album/08O2jixS5hkpjsI0KZUzP2) | 2:26 | 2023-11-23 |  |
 | [slash](https://open.spotify.com/track/7ecWzYoWecy0fiUu6FKZ3T) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [slash](https://open.spotify.com/album/4oLomJzmXTSNYrOYsEg4u3) | 3:58 | 2023-11-23 | 2023-11-29 |
+| [TOKYO JOURNEY](https://open.spotify.com/track/3eVvBU4nUV2GoVoF4iHo12) | [MONONOKE](https://open.spotify.com/artist/145u2V6RMbtZv0taOhfR6x) | [TOKYO JOURNEY](https://open.spotify.com/album/2f6d38S4UgGAF66V7DTwzs) | 4:18 | 2023-11-29 |  |
 | [Tsumugu](https://open.spotify.com/track/0vfBB5CXn4CwpmQ2M5EZOe) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Oidaki](https://open.spotify.com/album/5FGKmIasXlcphIo9Z3ihS5) | 3:52 | 2023-11-23 |  |
 | [TURN IT UP \- feat\. Candee & ZOT on the WAVE](https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH) | [TURN IT UP \(feat\. Candee & ZOT on the WAVE\)](https://open.spotify.com/album/5gTvyYgUsKQ6UwUdavwn5z) | 3:13 | 2023-11-23 |  |
 | [Us, again](https://open.spotify.com/track/6MLjClUSZWUNDJrqVdIi3o) | [SG](https://open.spotify.com/artist/216arN9tLMMn2ltwEAxmF5) | [FINALE](https://open.spotify.com/album/6GWl6eBo7ckJjsewEsu6zu) | 3:19 | 2023-11-23 |  |
@@ -42,9 +44,9 @@
 | [だから僕は音楽を辞めた](https://open.spotify.com/track/5j7ixaLeGTGSv4DzKs0pCM) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [だから僕は音楽を辞めた](https://open.spotify.com/album/4b9nOSXSf1LROzgfYFxdxI) | 4:02 | 2023-11-27 |  |
 | [はなにあらし](https://open.spotify.com/track/1Y8oe7ucxNjQXTiWOIMSfz) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [はなにあらし](https://open.spotify.com/album/6uL3szP8qRqAJF20s2rNVk) | 4:32 | 2023-11-23 |  |
 | [アイネクライネ](https://open.spotify.com/track/45YBVp6zMwQZRbUDcPzmMB) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [YANKEE](https://open.spotify.com/album/64SAjax288grKsmuLDfA6G) | 4:48 | 2023-11-23 |  |
-| [クロノスタシス](https://open.spotify.com/track/6Pd73yNBtoVpTRM6xLwOGp) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [クロノスタシス](https://open.spotify.com/album/4upctURy2F1F2rVfltc2P6) | 5:39 | 2023-11-23 |  |
+| [クロノスタシス](https://open.spotify.com/track/6Pd73yNBtoVpTRM6xLwOGp) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [クロノスタシス](https://open.spotify.com/album/4upctURy2F1F2rVfltc2P6) | 5:39 | 2023-11-23 | 2023-11-30 |
 | [グッドな音楽を](https://open.spotify.com/track/2vAtN2fB1zqTzfPGxqHmyO) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [グッドな音楽を](https://open.spotify.com/album/3yp1DVS4dSKvkgJqcxXfcA) | 3:35 | 2023-11-23 |  |
-| [スターマイン](https://open.spotify.com/track/0akvgdebTkERlRqNKJZuFy) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [イマ](https://open.spotify.com/album/4jvQHJZWEBoYhFSsXTmPEP) | 3:47 | 2023-11-23 |  |
+| [スターマイン](https://open.spotify.com/track/0akvgdebTkERlRqNKJZuFy) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [イマ](https://open.spotify.com/album/4jvQHJZWEBoYhFSsXTmPEP) | 3:47 | 2023-11-23 | 2023-11-30 |
 | [チノカテ](https://open.spotify.com/track/7HIfg6iQgXkVEUMHAAXW2d) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [幻燈](https://open.spotify.com/album/4LBtT0FZ3JMjbklNwnW0Ms) | 4:07 | 2023-11-23 | 2023-11-28 |
 | [ヒッチコック](https://open.spotify.com/track/153lRbNmhQZVi69kbhmjY8) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:42 | 2023-11-27 |  |
 | [ビリミリオン](https://open.spotify.com/track/7M0dIdZWN1FDcveRdoOzbZ) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [弐](https://open.spotify.com/album/6ClMd4vNeZ6cmrRNmOqAoY) | 3:48 | 2023-11-23 |  |
@@ -53,7 +55,8 @@
 | [ホムンクルス](https://open.spotify.com/track/7KYZQay4ok85FWx1e5SweU) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [ホムンクルス](https://open.spotify.com/album/6r0PC1UIkeOvYBUWO79ohw) | 3:23 | 2023-11-23 |  |
 | [ボーイズ ドント クライ](https://open.spotify.com/track/2oZM29QXfk0Oi6d15PjoSp) | [YOAKE](https://open.spotify.com/artist/0psEe4IooMjolOPMrz9A5M) | [ボーイズ ドント クライ](https://open.spotify.com/album/2ukBR6yPc7n60KjGcXxy0V) | 3:01 | 2023-11-23 |  |
 | [マジックアワー](https://open.spotify.com/track/5KFwt828Q8lPpUSs69TWZV) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [マジックアワー](https://open.spotify.com/album/1VV09JUhf3tWApPKwszd56) | 3:25 | 2023-11-23 |  |
-| [リインカーネーション](https://open.spotify.com/track/6mdZ2qRHAcdqTUNqGKJ2rw) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [リインカーネーション](https://open.spotify.com/album/5ZGFKaiMwWrIxpj6Za2yU3) | 2:45 | 2023-11-28 |  |
+| [リインカーネーション](https://open.spotify.com/track/6mdZ2qRHAcdqTUNqGKJ2rw) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [リインカーネーション](https://open.spotify.com/album/5ZGFKaiMwWrIxpj6Za2yU3) | 2:45 | 2023-11-28 | 2023-11-30 |
+| [一輪花](https://open.spotify.com/track/456rgV2smcOpAhhSlQVPK8) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [一輪花](https://open.spotify.com/album/2ozJ1C7HXquEWd8Fv8azgY) | 3:44 | 2023-11-29 |  |
 | [初恋](https://open.spotify.com/track/6TwzwaTeNOEqxDJcBJDyQm) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [初恋](https://open.spotify.com/album/5j59Yk7RbdJTsfxWprg2hD) | 3:15 | 2023-11-28 |  |
 | [愛してみてよ減るもんじゃないし](https://open.spotify.com/track/4sCiH4LCVfHsMUmiK6GNGS) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [愛してみてよ減るもんじゃないし](https://open.spotify.com/album/19I3Qy0znrTCbXxoJLGOGH) | 3:18 | 2023-11-23 | 2023-11-29 |
 | [愛を伝えたいだとか](https://open.spotify.com/track/0N8Xztr4pBHJ7V0moJWhbO) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [青春のエキサイトメント](https://open.spotify.com/album/0ct8ESCAYEpDGYJOndCfft) | 3:55 | 2023-11-23 |  |

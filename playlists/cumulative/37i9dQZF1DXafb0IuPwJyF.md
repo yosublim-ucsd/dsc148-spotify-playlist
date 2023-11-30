@@ -4,7 +4,7 @@
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover: Vaundy
 
-1,114 songs - 2 day 21 hr 28 min
+1,115 songs - 2 day 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -517,7 +517,8 @@
 | [Sparklers](https://open.spotify.com/track/2sPrM5v1J4JoCCvMlfyxxV) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Sparklers](https://open.spotify.com/album/0TLkKfHSdOBXXK4kFKfL3v) | 3:22 | 2022-10-30 | 2022-12-05 |
 | [Sparks](https://open.spotify.com/track/2z6EbZR9tXxESExgrUjVyP) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Sparks](https://open.spotify.com/album/3NIn670h7MTBhU1VGfmQF7) | 4:23 | 2023-05-21 | 2023-05-30 |
 | [Special Days](https://open.spotify.com/track/4or4paBDr7wpOKosYPaz7b) | [Joint Beauty](https://open.spotify.com/artist/74RJ7LQOOa3A0FiCw15PxG), [Takashi Fujii](https://open.spotify.com/artist/50CvRcUXhLkVVN6jGH9X12), [PeanutsKun](https://open.spotify.com/artist/5GITFRQqu23xgb82VKRWUc) | [Special Days](https://open.spotify.com/album/2XsEUQBbE5ZE6XSBxHucbE) | 3:39 | 2023-08-27 | 2023-09-04 |
-| [SPECIALZ](https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [SPECIALZ](https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc) | 3:58 | 2023-09-03 |  |
+| [SPECIALZ](https://open.spotify.com/track/5oQpH1uuZte4axR411rIlN) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 3:53 | 2023-11-28 |  |
+| [SPECIALZ](https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [SPECIALZ](https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc) | 3:58 | 2023-09-03 | 2023-11-30 |
 | [SPEED AGETE \(Prod\. Chaki Zulu\)](https://open.spotify.com/track/7wte64HKNL0keeCHfanAG6) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Chaki Zulu](https://open.spotify.com/artist/1OZZwe2ji8xjfVC8qjrQup) | [SPEED AGETE \(Prod\. Chaki Zulu\)](https://open.spotify.com/album/0s5YEX9wcWOR6CxNxywvBk) | 2:46 | 2023-02-26 | 2023-03-27 |
 | [Spinning World](https://open.spotify.com/track/396RicrQNol7GhMCIfC6Cv) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [Spinning World](https://open.spotify.com/album/3nxqM96vJyyjF8DMfYJBaQ) | 4:00 | 2022-07-17 | 2022-08-01 |
 | [STAR STATUS](https://open.spotify.com/track/3hGnKxKKdcgCl2XbjkslH9) | [Mashinomi](https://open.spotify.com/artist/38ekEKl28kPuKUoQqSFlKi), [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ), [80KIDZ](https://open.spotify.com/artist/6ah9gnwgMJ1PMKhkKOwH1D) | [STAR STATUS](https://open.spotify.com/album/1SX4III94nkOvAnShZJcIH) | 2:37 | 2022-09-11 | 2022-09-19 |

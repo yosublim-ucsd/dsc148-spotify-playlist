@@ -4,7 +4,7 @@
 
 > Let these country songs get your tailgate going!
 
-187 songs - 10 hr 40 min
+188 songs - 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Boot Scootin' Boogie](https://open.spotify.com/track/7Fq9RwQxSn3kW85PrDUf0M) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [\#1s ..\. and then some](https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO) | 3:18 | 2023-09-22 |  |
 | [Bottoms Up](https://open.spotify.com/track/477pWnF7WFWb9Qs6g8rs4J) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Just As I Am \(Platinum Edition\)](https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il) | 3:40 | 2021-02-03 | 2023-09-23 |
 | [Boys 'Round Here \(feat\. Pistol Annies & Friends\)](https://open.spotify.com/track/39FwE8edwuyiaa4PrGBkP7) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [Pistol Annies](https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny) | [Based on a True Story..\. \(Deluxe Edition\)](https://open.spotify.com/album/6MzrSTAQdDR92tHLLAhYp0) | 4:48 | 2021-02-03 | 2023-09-23 |
+| [But I Got A Beer In My Hand](https://open.spotify.com/track/3jhV8I9sIPXsjPs2ZOnSaf) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [But I Got A Beer In My Hand](https://open.spotify.com/album/2g95B2AWT2gDusBqYO7it3) | 2:56 | 2023-11-29 |  |
 | [Buy My Own Drinks](https://open.spotify.com/track/3WBY2lhKzkxaG5bNscQrOG) | [Runaway June](https://open.spotify.com/artist/7yPbJOX7olhT3ynAyuj3Zl) | [Blue Roses](https://open.spotify.com/album/0BUbVHeDmGXl3lzOENF9Wc) | 3:26 | 2021-02-03 | 2023-07-22 |
 | [Chattahoochee](https://open.spotify.com/track/59kHPbwyyCApYA8RQQEuXm) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [A Lot About Livin' \(And A Little 'Bout Love\)](https://open.spotify.com/album/79yCfWigSGt94zi1CIkkJZ) | 2:28 | 2023-09-22 |  |
 | [Cheers](https://open.spotify.com/track/5sE5w8lzxAg5fNeXbSWIOw) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [Cheers](https://open.spotify.com/album/659uBz3TUG2ZjxQUYFeuEH) | 2:45 | 2021-05-14 | 2023-07-22 |
@@ -51,7 +52,7 @@
 | [Country Girl \(Shake It For Me\)](https://open.spotify.com/track/0JbSghVDghtFEurrSO8JrC) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Tailgates & Tanlines](https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe) | 3:45 | 2022-07-24 |  |
 | [Country Girl \(Shake It For Me\)](https://open.spotify.com/track/0yD66650JxhqKbW76C2qCo) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Tailgates & Tanlines](https://open.spotify.com/album/4ybWq0AegFFAvHULAe7q0K) | 3:45 | 2021-02-03 | 2022-07-29 |
 | [Country Girl \(Shake It For Me\)](https://open.spotify.com/track/2QPk0d8rW7fI8HTwn0p2A3) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Spring Break 2022: Country Favourites](https://open.spotify.com/album/1uhNDQ24SrZf0PyTzGaFv8) | 3:45 | 2022-09-23 | 2022-11-14 |
-| [Creek Will Rise](https://open.spotify.com/track/5owS9iWWGd6mDlFjUFzBsw) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [Creek Will Rise](https://open.spotify.com/album/4UXS7my7tmdX117YcfpXnx) | 2:49 | 2023-09-29 |  |
+| [Creek Will Rise](https://open.spotify.com/track/5owS9iWWGd6mDlFjUFzBsw) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [Creek Will Rise](https://open.spotify.com/album/4UXS7my7tmdX117YcfpXnx) | 2:49 | 2023-09-29 | 2023-11-30 |
 | [Dancin’ In The Country](https://open.spotify.com/track/6Z1bV93BP95h4YjIavrQPf) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Dancin' In The Country](https://open.spotify.com/album/5Sb6flBcIYmm5gTGwOVMbn) | 2:59 | 2023-09-22 |  |
 | [Dates In Pickup Trucks](https://open.spotify.com/track/5U4iPIXYJ5h6H7zJhx6VVF) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Dates In Pickup Trucks](https://open.spotify.com/album/6zE2YtMcQHpgK2HQKr86UK) | 2:45 | 2022-07-24 | 2023-07-22 |
 | [Day Drinking](https://open.spotify.com/track/1pxXqJZBrCREdC0s4Xs6Xz) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Pain Killer](https://open.spotify.com/album/49lwR8y1i51wrQRnhw5C3H) | 2:58 | 2021-02-03 |  |

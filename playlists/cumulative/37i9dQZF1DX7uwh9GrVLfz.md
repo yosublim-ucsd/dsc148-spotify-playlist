@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: Northern19
 
-663 songs - 1 day 11 hr 37 min
+664 songs - 1 day 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,6 +355,7 @@
 | [SCAR](https://open.spotify.com/track/5OpXHN9hwW1V1YBiChGt7q) | [Baja](https://open.spotify.com/artist/5eNUcwvXeKJcLIrVJQhtp1) | [SCAR](https://open.spotify.com/album/5DvfInAZNzhoyxAOXV4OVT) | 2:45 | 2022-09-14 | 2022-11-02 |
 | [scorpion.](https://open.spotify.com/track/3JGeI4YN3Luqsvo0EXjXND) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [scorpion.](https://open.spotify.com/album/572kvsrM2Jb4EmO93m65Om) | 2:43 | 2023-08-03 |  |
 | [SCRAP AN OLD BRAIN](https://open.spotify.com/track/05NSGCH9lO8SP24FwyAsMc) | [GANZ HASE](https://open.spotify.com/artist/4ITNZW9R7fuSSpr5OqHs2E) | [BLOOD IN BLOOD OUT](https://open.spotify.com/album/6sYqB2z0ESuPjqEmpu1wJI) | 3:37 | 2022-06-02 | 2022-07-29 |
+| [Seahorse](https://open.spotify.com/track/26NdFMwJkFi2L4EWSxcPnV) | [May Forth](https://open.spotify.com/artist/6MYn2A1crz0GWAqp2Ctyxj) | [Seahorse](https://open.spotify.com/album/7jb4aq0bopsiuW1k8i6lDA) | 3:28 | 2023-11-28 |  |
 | [Second March](https://open.spotify.com/track/5sKL7KmuGkv080aa1GLSYe) | [Danablu](https://open.spotify.com/artist/7rOm14pDj1CaXtrbFfIjRt) | [Second March](https://open.spotify.com/album/1B5tRFGQUrcXDihzlsW8Q0) | 2:45 | 2023-08-01 | 2023-08-23 |
 | [SEE OFF](https://open.spotify.com/track/2Imt3fMqKbdG2WGKW9ZJa7) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [ETERNAL RECURRENCE](https://open.spotify.com/album/6KxD8LRLX3WRXM7pr7eEJW) | 2:18 | 2022-05-24 |  |
 | [see you walking](https://open.spotify.com/track/2S77Zkxf7eckj4gaq3zn1O) | [ALiVE](https://open.spotify.com/artist/5pSPKQkHGRGaTyY3vMG8Hz) | [Olive branch](https://open.spotify.com/album/0piB3BJMmZ82AFte4dy7XL) | 0:35 | 2023-07-11 | 2023-08-16 |
@@ -393,7 +394,7 @@
 | [STAR HIGH](https://open.spotify.com/track/6FX5Lz5hv454VbJCUZBqsy) | [WESTERN STAGE](https://open.spotify.com/artist/6TDe4nZC9oHCeANm5iAeFW) | [STAR HIGH](https://open.spotify.com/album/6TXnScqi7HwxgPPnoGbxLr) | 3:21 | 2023-08-22 | 2023-10-04 |
 | [Starting Over](https://open.spotify.com/track/1QjYeLtMl3hCdAvUGfEsOV) | [LOW IQ 01](https://open.spotify.com/artist/03iXYfVe4ZvZ0Q0dfLxzKc), [Takeshi Hosomi](https://open.spotify.com/artist/1XptSgswMTLHwDNN3js2B4), [TOSHI\-LOW](https://open.spotify.com/artist/0dqiMqznI1h0vFn1j4jwfz) | [Starting Over](https://open.spotify.com/album/2erFzGSZP5HVNfW97BM5BN) | 3:42 | 2022-11-22 | 2023-09-08 |
 | [STAY GLOW](https://open.spotify.com/track/3JdLuVZzVu8NAb6n2Ml49h) | [KYONO](https://open.spotify.com/artist/4LgM76I3ubiFUtX0nuVgmr), [TAKUMA](https://open.spotify.com/artist/4nOzNf1MhztxPec9rMTQ1i) | [S.A.L](https://open.spotify.com/album/7sWgmxbx6fOYBxiQbyMG2L) | 5:10 | 2022-05-19 | 2022-07-27 |
-| [STAY GOLD](https://open.spotify.com/track/1YOjTz7D3IdqkxyAUUArLR) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [MAKING THE ROAD](https://open.spotify.com/album/3rwiRN4pofymsM0Ex9oYoY) | 2:00 | 2022-08-02 | 2023-07-19 |
+| [STAY GOLD](https://open.spotify.com/track/1YOjTz7D3IdqkxyAUUArLR) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [MAKING THE ROAD](https://open.spotify.com/album/3rwiRN4pofymsM0Ex9oYoY) | 2:00 | 2022-08-02 |  |
 | [STAY GOLD](https://open.spotify.com/track/4fyZ8EqPZzxPyrpMmr1CYQ) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [MAKING THE ROAD](https://open.spotify.com/album/5ZLz1cMuiUoRDHx9qLmqqg) | 2:00 | 2022-05-12 | 2022-07-27 |
 | [STAY GOLD \- PUNK ROCK THROUGH THE NIGHT☆ 2011.3.4 @ SHIBUYA QUATTRO](https://open.spotify.com/track/1bFjI57VlMreMqR4Vtp2TJ) | [Akihiro Namba](https://open.spotify.com/artist/7F1stPkk7RZf19mw2mwtJH) | [PUNK ROCK THROUGH THE NIGHT☆ 2011.3.4 @ SHIBUYA QUATTRO](https://open.spotify.com/album/02tJBtvZr9frKBKY2cIJaW) | 2:29 | 2022-05-19 | 2022-07-27 |
 | [Stay Punk Forever](https://open.spotify.com/track/4kO0rBpUaPKV0d2r9w3Fip) | [THE STARBEMS](https://open.spotify.com/artist/6SXxBrj5sKrSXiAV2tpWWq) | [STAY PUNK FOREVER](https://open.spotify.com/album/0bIO2OKQ3k4fnE8tqUw03U) | 2:41 | 2022-05-19 | 2022-07-28 |
@@ -490,7 +491,7 @@
 | [Yuriah](https://open.spotify.com/track/36wTuS95ghkdbMrEKNakE5) | [HOTSQUALL](https://open.spotify.com/artist/6DkswbIQ8sHITQC6KqBFMP) | [LAUGH AT LIFE](https://open.spotify.com/album/3Z3pABiK1AJkaVtaAV37P7) | 3:07 | 2022-05-12 | 2022-06-22 |
 | [Yusho \(ALBUM Mix\)](https://open.spotify.com/track/6YLg2Q6dHcHYNLeu4ZSObj) | [Kyuso Nekokami](https://open.spotify.com/artist/2ZlX1yKrkVz98AVtQCRJbb) | [Watashi Akinu Watashi](https://open.spotify.com/album/4ZXu5KofuIygNs2SBwo9zR) | 3:36 | 2023-03-28 |  |
 | [Zero](https://open.spotify.com/track/5styNIwvP009zHUCdIsZlo) | [RIZE](https://open.spotify.com/artist/36wyiJipzsPL3IHMe7JzPX) | [Zero \- Single](https://open.spotify.com/album/0tyftZWAOYq3wh9bVrCR5J) | 4:11 | 2022-05-19 | 2022-07-11 |
-| [ZINNIA](https://open.spotify.com/track/453y9UfKiUqrGNOAYcGvhh) | [Over Arm Throw](https://open.spotify.com/artist/0ULdhIbhpUx97klXlmINML) | [Oath and Night War](https://open.spotify.com/album/3DpriibTdXfiioI41LKUxS) | 3:02 | 2022-07-21 |  |
+| [ZINNIA](https://open.spotify.com/track/453y9UfKiUqrGNOAYcGvhh) | [Over Arm Throw](https://open.spotify.com/artist/0ULdhIbhpUx97klXlmINML) | [Oath and Night War](https://open.spotify.com/album/3DpriibTdXfiioI41LKUxS) | 3:02 | 2022-07-21 | 2023-11-30 |
 | [ZINNIA](https://open.spotify.com/track/5NoGmXzuApY0bQXLZ9XOHm) | [OVER ARM THROW](https://open.spotify.com/artist/6NXGRhQFf3sfHqKnIDHrGL) | [Oath and Night War](https://open.spotify.com/album/7dVt1eGWmxrAL3pg0IcdfC) | 3:02 | 2022-05-12 | 2022-07-24 |
 | [Z好調](https://open.spotify.com/track/4P21YYDymMRhUZlEANJo4Q) | [PAN](https://open.spotify.com/artist/2YKxuLK7kkCTYnTkX4O17T) | [Positive And Negative](https://open.spotify.com/album/1c6L8dn0s1409cRlFnK4UX) | 2:34 | 2022-05-12 | 2022-07-28 |
 | [あなたに](https://open.spotify.com/track/1egQB7JmuDdaWdWtODlrja) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [MESSAGE](https://open.spotify.com/album/2an2zDcyPnHZgodDzgxZj2) | 3:15 | 2022-07-21 |  |
@@ -653,7 +654,7 @@
 | [眩光](https://open.spotify.com/track/0Imzg052WsTbxUNDMnZhmp) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [あの日、あの場所/眩光](https://open.spotify.com/album/1VSTDVmonKezz5ZiBtc66c) | 3:34 | 2022-05-12 |  |
 | [神社](https://open.spotify.com/track/4Z4tIMYd11bo5x16w2WjXf) | [かずき山盛り](https://open.spotify.com/artist/3wzWXrDWCw5xTrINkYkhTH) | [神社](https://open.spotify.com/album/1F35k5gQ4OjwJWDKqScdIQ) | 3:22 | 2022-12-27 | 2022-12-29 |
 | [空に唄えば](https://open.spotify.com/track/0CATStPGs7sxXxM7CJLdPa) | [175R](https://open.spotify.com/artist/40y1P1mpPSpiRxL5LDv6aI) | [175R BEST 「ANNIVERSARY 1998\-2018」](https://open.spotify.com/album/6pmrSKNlVCLwIbG8Mi7E4A) | 4:18 | 2022-06-02 |  |
-| [竜の落とし子](https://open.spotify.com/track/7rB1MjXVEbOSjNOtuZmZok) | [May Forth](https://open.spotify.com/artist/6MYn2A1crz0GWAqp2Ctyxj) | [竜の落とし子](https://open.spotify.com/album/350EStRELQnftigWJ8GXRF) | 3:28 | 2023-11-28 |  |
+| [竜の落とし子](https://open.spotify.com/track/7rB1MjXVEbOSjNOtuZmZok) | [May Forth](https://open.spotify.com/artist/6MYn2A1crz0GWAqp2Ctyxj) | [竜の落とし子](https://open.spotify.com/album/350EStRELQnftigWJ8GXRF) | 3:28 | 2023-11-28 | 2023-11-30 |
 | [笑っていようぜ](https://open.spotify.com/track/1QgHgUb7Fy1P8YNJTF2TpL) | [THE FOREVER YOUNG](https://open.spotify.com/artist/6frp4bEF93k77mFn6AbwQd) | [ビューティフルユース](https://open.spotify.com/album/421Ct2V48lwkcLbTySapDj) | 1:49 | 2022-05-12 | 2023-02-22 |
 | [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 | 2022-11-08 |  |
 | [素晴らしき世界](https://open.spotify.com/track/4C1JnGn5Gj2IAXxD8G3U06) | [THE FOREVER YOUNG](https://open.spotify.com/artist/6frp4bEF93k77mFn6AbwQd) | [生きる](https://open.spotify.com/album/73mCJ3q1VsTxQx1QzgZltK) | 4:33 | 2022-05-19 | 2022-07-09 |

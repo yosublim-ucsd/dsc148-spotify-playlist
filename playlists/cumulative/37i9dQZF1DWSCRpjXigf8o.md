@@ -4,7 +4,7 @@
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-464 songs - 1 day 4 hr 28 min
+465 songs - 1 day 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Ashita Tenki Ni Nare \- Cover](https://open.spotify.com/track/7E95CpDp0MERvOhcPTDuv0) | [Lisa Halim](https://open.spotify.com/artist/52kXMSVvJpQ9RWABFBt9H9), [Kenny](https://open.spotify.com/artist/3i0SazQig71kiRdJLBkq9p) | [Ashita Tenki Ni Nare \(Cover\)](https://open.spotify.com/album/46oivT9zupslDZBLGCGBKR) | 4:29 | 2023-11-14 |  |
 | [Back Pocket](https://open.spotify.com/track/1DrlLvlYd1FIjNavRm6NdX) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv) | [Thrill of the Arts](https://open.spotify.com/album/0LyGgFrZFXpRKpgj664Xu7) | 3:01 | 2023-03-07 | 2023-07-12 |
 | [back to me](https://open.spotify.com/track/2DKMdkAal5If57D4ltQQur) | [Vivien Yap](https://open.spotify.com/artist/71gWfXRZ2vs5cQ7Bfh9M53) | [back to me](https://open.spotify.com/album/2J7Utc8BqKvS4HWDOyRDlf) | 3:10 | 2023-05-25 | 2023-09-15 |
+| [Ballad Kibun](https://open.spotify.com/track/4so7Q5JTkr8wkW45MOeqVe) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [Hazard Of Love](https://open.spotify.com/album/618qCFzzmmL4iN3TlH2SPC) | 3:58 | 2023-11-28 |  |
 | [Be Alright](https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Be Alright](https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD) | 3:16 | 2022-10-20 |  |
 | [Be More](https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Be More](https://open.spotify.com/album/3td8YUGhx5odYjMPV7HPNF) | 3:51 | 2023-08-03 |  |
 | [Be Okay](https://open.spotify.com/track/0CqwUsUphvO4ATggdyET1e) | [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb) | [We'll Be Okay EP](https://open.spotify.com/album/5MORMgMuV6qiV2uMo6cE86) | 3:56 | 2022-10-20 | 2022-11-09 |
@@ -429,7 +430,7 @@
 | [ナスティ・ハウス](https://open.spotify.com/track/5GmPGaSokdG5KAfiahOdeF) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [ナスティ・ハウス](https://open.spotify.com/album/2AMBIQoUR9oCq3Y5SJ5rXC) | 2:14 | 2023-02-14 | 2023-03-01 |
 | [ハアト](https://open.spotify.com/track/6ghxqAEmAy369mF3O0t2N3) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [ハアト](https://open.spotify.com/album/6wGLVnsYsN0o6RpobFs4Ux) | 3:58 | 2023-10-03 | 2023-11-01 |
 | [ハローソング](https://open.spotify.com/track/07FLYYBSqru9qs5hFlMa2N) | [エンヤコーラーズ](https://open.spotify.com/artist/2VmYWki0mkdmHAgbacjdZE) | [ハローソング](https://open.spotify.com/album/1QPajmQ6wMNWfIlGLiPAt9) | 2:56 | 2023-07-20 | 2023-08-02 |
-| [バラード気分](https://open.spotify.com/track/4XQ95yHjkLVfPFdEQW6P0X) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [ハザードオブラブ](https://open.spotify.com/album/4mnLjBxlCFOlMLs017DURJ) | 3:58 | 2023-11-28 |  |
+| [バラード気分](https://open.spotify.com/track/4XQ95yHjkLVfPFdEQW6P0X) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [ハザードオブラブ](https://open.spotify.com/album/4mnLjBxlCFOlMLs017DURJ) | 3:58 | 2023-11-28 | 2023-11-30 |
 | [ブラスバンド \- Remastered](https://open.spotify.com/track/4qdmJJsYlpnRxdCWTkRhaE) | [豪起](https://open.spotify.com/artist/4dlhWjRj1R2K9PcfSzQQVQ) | [ブラスバンド \(Remastered\)](https://open.spotify.com/album/02Tgubit8DqujEzmTN8EY6) | 4:02 | 2023-01-24 | 2023-02-15 |
 | [ブルーグラス](https://open.spotify.com/track/7Lp7f1LepstiBcED0WZHXb) | [the hollows](https://open.spotify.com/artist/4WfM6bTmKWlemJydz5SHTA), [田中カズ](https://open.spotify.com/artist/57Gil4buf0JDxk8h29FGUw) | [ブルーグラス](https://open.spotify.com/album/2vkRImsgwYenvjNrw0c2Jw) | 4:28 | 2023-02-14 | 2023-03-01 |
 | [マシかもしれない](https://open.spotify.com/track/6UfkIgoZtKwj7U0vBES2EF) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [マシかもしれない](https://open.spotify.com/album/4BQ5ivnlanw4yUuqL3ugdA) | 3:15 | 2022-10-20 | 2022-11-09 |

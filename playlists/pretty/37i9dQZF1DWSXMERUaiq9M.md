@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 
 > love peace techno
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,234 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,732 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 20 | [KETA UND KRAWALL](https://open.spotify.com/track/6zP4Utvok4QRXlNYBZkpGa) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn), [Barré](https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl) | [KETA UND KRAWALL](https://open.spotify.com/album/1J45kvnBanNkQebLmKvXTa) | 2:05 |
 | 21 | [Süchtig](https://open.spotify.com/track/7kfNHOOQv8OiugNq8EBTJq) | [Alfred Heinrichs](https://open.spotify.com/artist/6kzCLJOC7MU8mAbhIJNpIo), [Haexxa](https://open.spotify.com/artist/0GY1LiRaEjFG0n8rP8wvrC) | [Süchtig](https://open.spotify.com/album/1JHZkE47fe2K9oO3NUN4iA) | 2:59 |
 | 22 | [Get Shaky](https://open.spotify.com/track/267DliVFe67u89luc9v6UD) | [KXXMA](https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx), [TurboKevin](https://open.spotify.com/artist/2nxyC1TQywKkvfkvuaiaW6) | [Get Shaky](https://open.spotify.com/album/11Xrum0ysuitc8vtBrlmQM) | 3:57 |
-| 23 | [All The Things She Said \- Teaboy Flip](https://open.spotify.com/track/4r8vtv55ZqVxRAXdcLGS8J) | [TEABOY](https://open.spotify.com/artist/5iGDVVnLBTuVlgZRQd7L1x) | [All The Things She Said \(Teaboy Flip\)](https://open.spotify.com/album/69vWxMtXxJsbB4AXP4NFEe) | 2:44 |
-| 24 | [Sarà perché ti amo](https://open.spotify.com/track/6nQLIugrQVRZ7UKaTVdnmS) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv), [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB) | [Sarà perché ti amo](https://open.spotify.com/album/42TliMaS2eKrHcVEzggsAh) | 2:14 |
+| 23 | [Sarà perché ti amo](https://open.spotify.com/track/6nQLIugrQVRZ7UKaTVdnmS) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv), [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB) | [Sarà perché ti amo](https://open.spotify.com/album/42TliMaS2eKrHcVEzggsAh) | 2:14 |
+| 24 | [All The Things She Said \- Teaboy Flip](https://open.spotify.com/track/4r8vtv55ZqVxRAXdcLGS8J) | [TEABOY](https://open.spotify.com/artist/5iGDVVnLBTuVlgZRQd7L1x) | [All The Things She Said \(Teaboy Flip\)](https://open.spotify.com/album/69vWxMtXxJsbB4AXP4NFEe) | 2:44 |
 | 25 | [I Told The Stars About You](https://open.spotify.com/track/0gH48CJYOsoA2vl9ERM9W5) | [DJ GUESTLIST](https://open.spotify.com/artist/2n7VLaVMlGpxqmt05OiMCB) | [I Told The Stars About You](https://open.spotify.com/album/01X97e3r4Nt76UXPIXiWEO) | 4:21 |
 | 26 | [Space Train](https://open.spotify.com/track/4eVXJrgK3AXU0IgujAgEjB) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y), [Kevin D](https://open.spotify.com/artist/7IwSYMdY2qHT0H6tIGH6l3) | [Space Train](https://open.spotify.com/album/6jFLFLzf3ILnZ1hUF4wGpn) | 2:26 |
 | 27 | [Jet Plane](https://open.spotify.com/track/7c87NBp808HkgxfDzQCs4j) | [Gusted](https://open.spotify.com/artist/2BRM24K0fU89hsKIZZXeuZ) | [Jet Plane](https://open.spotify.com/album/0hax7oeHg8KrpWqwEsJayV) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 49 | [Day 'N' Night](https://open.spotify.com/track/6NT2Yovx1t0mMvbwBzRsYc) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Day 'N' Night](https://open.spotify.com/album/0nnIZNFYODXvnI9gOFqrI0) | 3:20 |
 | 50 | [DIE LIEBE KOMMT NICHT AUS BERLIN](https://open.spotify.com/track/3bYEYuHHiX1TmdLUiWykIc) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [DIE LIEBE KOMMT NICHT AUS BERLIN](https://open.spotify.com/album/6NquqivifGK4u1fqazCxqi) | 3:26 |
 
-Snapshot ID: `MCw0YzRiMjZkYjUzMTQ5OGY4OTQ5MTE2OGVhMjJjY2EwMjlhNmJlZTNj`
+Snapshot ID: `MCwwMjA1Y2RhZTg5ZTIxMDdlZjkyN2U5MzUxYjU2NjcyYTgyZDNhOGIx`

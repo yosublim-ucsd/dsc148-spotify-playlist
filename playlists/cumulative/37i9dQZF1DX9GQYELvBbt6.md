@@ -4,7 +4,7 @@
 
 > 陰キャでもいい。集団になじめなくてもいい。ひとりで過ごす時間にも、音楽はそっと寄り添ってくれる。 Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-53 songs - 3 hr 23 min
+54 songs - 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Opal](https://open.spotify.com/track/1mxsOeet26zHpCrMlxWrKJ) | [碧海祐人](https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk) | [Opal](https://open.spotify.com/album/154NpAyn5bQ66Ar3W0N5hr) | 3:33 | 2023-11-28 |  |
 | [rendez\-vous](https://open.spotify.com/track/5i8lwhzx9FyilInJWa5lhn) | [shy taupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [kidnapping / rendez\-vous](https://open.spotify.com/album/0TxOw3GSb01frvQeBbP8MP) | 3:57 | 2023-11-21 |  |
 | [shower room rendezvous](https://open.spotify.com/track/4656G8EnjFhXdKQDpTnUPg) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [shower room rendezvous](https://open.spotify.com/album/04nZ0av3cPzR8J32FSwjbw) | 3:24 | 2023-11-21 |  |
-| [slash](https://open.spotify.com/track/7ecWzYoWecy0fiUu6FKZ3T) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [slash](https://open.spotify.com/album/4oLomJzmXTSNYrOYsEg4u3) | 3:58 | 2023-11-21 |  |
+| [slash](https://open.spotify.com/track/7ecWzYoWecy0fiUu6FKZ3T) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [slash](https://open.spotify.com/album/4oLomJzmXTSNYrOYsEg4u3) | 3:58 | 2023-11-21 | 2023-11-30 |
 | [Soranji](https://open.spotify.com/track/6O4twzzHHIM6mmTqPpJNYE) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Soranji](https://open.spotify.com/album/62yXiiuhWiIwgurRnXC16V) | 5:41 | 2023-11-21 |  |
 | [Suzume](https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 3:58 | 2023-11-21 |  |
 | [Véranda](https://open.spotify.com/track/6h5ndow0y3PdcW6nFsxLFz) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [Véranda](https://open.spotify.com/album/0BuqNtULCov27tKzycHoWT) | 3:23 | 2023-11-21 |  |
@@ -48,6 +48,7 @@
 | [ビリミリオン](https://open.spotify.com/track/7KExqPOvjFzAI4d49mQxt9) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [ビリミリオン](https://open.spotify.com/album/3dsbKkYZTyhuN3W3aSBHcu) | 3:46 | 2023-11-21 |  |
 | [マジックアワー](https://open.spotify.com/track/5KFwt828Q8lPpUSs69TWZV) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [マジックアワー](https://open.spotify.com/album/1VV09JUhf3tWApPKwszd56) | 3:25 | 2023-11-21 |  |
 | [ユアーズ](https://open.spotify.com/track/6eS0ZKrSBScOPE74eOLGQC) | [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [ユアーズ](https://open.spotify.com/album/2KCZ6tmHpxjC5VuRzTtY8R) | 4:26 | 2023-11-21 | 2023-11-29 |
+| [一輪花](https://open.spotify.com/track/456rgV2smcOpAhhSlQVPK8) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [一輪花](https://open.spotify.com/album/2ozJ1C7HXquEWd8Fv8azgY) | 3:44 | 2023-11-29 |  |
 | [三文小説](https://open.spotify.com/track/7BMKWT0Vw0EKDELXLvuWCp) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [三文小説](https://open.spotify.com/album/6Q5PZMhX9eKHW2jHSoGF0G) | 4:40 | 2023-11-21 |  |
 | [不屈に花](https://open.spotify.com/track/0YN5Tb3ui1yon2qSqDR4VM) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [475](https://open.spotify.com/album/2wQuSgcO8nbUhdfXQpd6Rn) | 3:17 | 2023-11-21 |  |
 | [初恋](https://open.spotify.com/track/6TwzwaTeNOEqxDJcBJDyQm) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [初恋](https://open.spotify.com/album/5j59Yk7RbdJTsfxWprg2hD) | 3:15 | 2023-11-28 |  |

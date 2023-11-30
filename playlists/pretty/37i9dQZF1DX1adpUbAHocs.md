@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1adpUbAHocs.md) - [plain]
 
 > hop in and take the long way.
 
-[Spotify](https://open.spotify.com/user/spotify) - 678,161 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 678,138 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1adpUbAHocs.md) - [plain]
 | 38 | [Highs & Lows](https://open.spotify.com/track/7IA1Rvt3w8p0PihpYH9JTB) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Highs & Lows](https://open.spotify.com/album/5xcCwJuG2hWwWIwWSWXxw8) | 3:29 |
 | 39 | [Until You](https://open.spotify.com/track/7iH6cflAGYwR82sNMZiGuq) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Until You](https://open.spotify.com/album/03MCMaTPo8CiVxwcCvgyem) | 3:18 |
 | 40 | [Call Me When You Land](https://open.spotify.com/track/24AlaGqIZd2nUspgzc2ph1) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45), [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Call Me When You Land](https://open.spotify.com/album/0xff0oGrrPLKSbBjXbEZ3D) | 4:47 |
-| 41 | [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 3:08 |
-| 42 | [She Lit a Fire](https://open.spotify.com/track/4c2k3NdkIwhi0eogpTnteI) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams \(Bonus Track Version\)](https://open.spotify.com/album/0AG1T3Wbq7TnYMItBqXp2c) | 4:30 |
+| 41 | [She Lit a Fire](https://open.spotify.com/track/4c2k3NdkIwhi0eogpTnteI) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams \(Bonus Track Version\)](https://open.spotify.com/album/0AG1T3Wbq7TnYMItBqXp2c) | 4:30 |
+| 42 | [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 3:08 |
 | 43 | [California Stars](https://open.spotify.com/track/5B2mJIk8yso3ugyvfHR62A) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO), [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Mermaid Avenue](https://open.spotify.com/album/22rLwPW3QCaLB8UgWDY9bM) | 4:58 |
 | 44 | [Signal Sender](https://open.spotify.com/track/1XHTJ2n4ajw9dDzuPGY4Rm) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Signal Sender](https://open.spotify.com/album/4ILDW93NPJE8kEJSrUXuIy) | 3:20 |
 | 45 | [Salt And The Sea](https://open.spotify.com/track/5EKqsMU2tn1iAYNQF8h0ll) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [III](https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s) | 4:30 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1adpUbAHocs.md) - [plain]
 | 51 | [Rearview](https://open.spotify.com/track/3iE4Jss20H7mJm1Zw8TAkN) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Rearview](https://open.spotify.com/album/5wVWj2Nwq93ucLX10IqFyV) | 3:51 |
 | 52 | [Witness](https://open.spotify.com/track/56GEhx9XahoD6sxkJwczod) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Rearrange Us](https://open.spotify.com/album/0JEbkW1a2Ws7P8vMflSPc9) | 3:54 |
 | 53 | [Can't Fight](https://open.spotify.com/track/2gnvh9HRH5fCo5iDQXMvQN) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 3:10 |
-| 54 | [House Of My Soul \(You Light The Rooms\)](https://open.spotify.com/track/7JA24QmrS7YbSRuyU2E8LV) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy) | [Lost At Last Vol\. 1](https://open.spotify.com/album/4XlvkGpGZ0wqf13YkHyrXd) | 2:53 |
-| 55 | [Wildflowers & Wine](https://open.spotify.com/track/1l8TpQdbsiQvMB9SuPsaiv) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [El Dorado](https://open.spotify.com/album/0twx7uqxPQtmtpeURTlZB0) | 4:48 |
+| 54 | [Wildflowers & Wine](https://open.spotify.com/track/1l8TpQdbsiQvMB9SuPsaiv) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [El Dorado](https://open.spotify.com/album/0twx7uqxPQtmtpeURTlZB0) | 4:48 |
+| 55 | [House Of My Soul \(You Light The Rooms\)](https://open.spotify.com/track/7JA24QmrS7YbSRuyU2E8LV) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy) | [Lost At Last Vol\. 1](https://open.spotify.com/album/4XlvkGpGZ0wqf13YkHyrXd) | 2:53 |
 | 56 | [The Barrel](https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI) | 4:59 |
 | 57 | [Stolen Love](https://open.spotify.com/track/6ZW6Q3Fzt9fGzC4nbhA5pf) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Motel Mayday](https://open.spotify.com/album/4dJgUM5aZ8GhXQp0QPkOS0) | 3:43 |
 | 58 | [Highwomen](https://open.spotify.com/track/0CTNLJMN9dMG4cl5qgsZSv) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN), [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 3:32 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1adpUbAHocs.md) - [plain]
 | 82 | [Rolling](https://open.spotify.com/track/3CQBal6JaIQziWGgX7FUqB) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [KIWANUKA](https://open.spotify.com/album/1yIqauTni1V7l7djYAKSsZ) | 2:51 |
 | 83 | [Sunset Canyon](https://open.spotify.com/track/4YvOkz9IrldHkWiDZremSr) | [Foxwarren](https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV), [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx), [Darryl Kissick](https://open.spotify.com/artist/1VbP2VbyU1Ht1wtIAMn4Gc) | [Foxwarren](https://open.spotify.com/album/27NP9XgsqFi9sfV9RZaqOa) | 4:20 |
 | 84 | [Bad Love](https://open.spotify.com/track/0atclF6Pp5MffEEi7CSFlE) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Blue Skies](https://open.spotify.com/album/1vzqa9wcGcflSTyVbQPRFE) | 2:30 |
-| 85 | [Circles](https://open.spotify.com/track/59FqreVbI6rLyFaxIUnAEg) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [American Love Call](https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY) | 3:18 |
-| 86 | [Telepath](https://open.spotify.com/track/2i8fcnTT5iItxMNwa8mfr3) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [The Million Masks Of God](https://open.spotify.com/album/3GJ7F5BNIZjY5fhiu8ui4B) | 2:28 |
+| 85 | [Telepath](https://open.spotify.com/track/2i8fcnTT5iItxMNwa8mfr3) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [The Million Masks Of God](https://open.spotify.com/album/3GJ7F5BNIZjY5fhiu8ui4B) | 2:28 |
+| 86 | [Circles](https://open.spotify.com/track/59FqreVbI6rLyFaxIUnAEg) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [American Love Call](https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY) | 3:18 |
 | 87 | [B61](https://open.spotify.com/track/48I5zrBAbKfGp7lqfBZ0Ll) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Age of Apathy](https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo) | 3:41 |
 | 88 | [Misnomer](https://open.spotify.com/track/0AXHqychsqAuL0ZNXI3kWq) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Yard Sale](https://open.spotify.com/album/3QtYZFAUnjY7M8FjpXvBFC) | 3:43 |
 | 89 | [Sugar in the Creek](https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Fits Of Laughter](https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D) | 4:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1adpUbAHocs.md) - [plain]
 | 99 | [Mountain Man](https://open.spotify.com/track/3QnxeNu890sL0Lcfy0iFzQ) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH), [The Stampede](https://open.spotify.com/artist/6naWDjIIvxOhHfu99ubAC7) | [Window Flowers](https://open.spotify.com/album/799tX7gorQNl08X2e6Bdt8) | 3:58 |
 | 100 | [Dreamsicle](https://open.spotify.com/track/68wI8QNqMeIraj7Ix16hS3) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Reunions](https://open.spotify.com/album/5XIafkwTpyvL7jjLJx1xKz) | 3:44 |
 
-Snapshot ID: `MCxhYzkzMGZmM2FkODE0ZTQ5OWI2ZThlYzcyODU3ZDRlMDEzMWY3ZmZm`
+Snapshot ID: `MCw3NDNhNzdmMDU2MzA3YjE3ZTI1OGU1MGU4ODM0NDY3NGIzMzFhZmM5`

@@ -1,12 +1,12 @@
 {
   "description": "The official playlist for the 64th GRAMMY Awards.",
-  "num_followers": 126583,
+  "num_followers": 126590,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTVkYTZhYTMzNjA4MTBmZGNlZDdlMTIyYTIwOGFmMzAzMjAxYmY1",
+  "snapshot_id": "MCxkMDY2N2MxZGY2ZGY0NzU4ZGJlNWMwNDZlNDRmOGU3OWRlZDhlMjdk",
   "tracks": [
     {
       "added_at": "2023-11-10 16:50:05",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
-        "name": "White Horse",
-        "url": "https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 267893,
-      "name": "White Horse",
-      "url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg"
-    },
-    {
-      "added_at": "2023-11-10 16:50:05",
-      "album": {
         "name": "Just Wanna Rock",
         "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 123890,
       "name": "Just Wanna Rock",
       "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
+    },
+    {
+      "added_at": "2023-11-10 16:50:05",
+      "album": {
+        "name": "White Horse",
+        "url": "https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 267893,
+      "name": "White Horse",
+      "url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg"
     },
     {
       "added_at": "2023-11-10 16:50:05",
@@ -707,6 +707,22 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
+        "name": "JAGUAR II",
+        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 184258,
+      "name": "On My Mama",
+      "url": "https://open.spotify.com/track/7DswEZZthZ6piQpL25qGAM"
+    },
+    {
+      "added_at": "2023-11-10 16:50:05",
+      "album": {
         "name": "Actual Life (April 14 - December 17 2020)",
         "url": "https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 285375,
       "name": "Marea (we\u2019ve lost dancing)",
       "url": "https://open.spotify.com/track/5Z8Dj3LtbyCMiwE86rhg2f"
-    },
-    {
-      "added_at": "2023-11-10 16:50:05",
-      "album": {
-        "name": "JAGUAR II",
-        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 184258,
-      "name": "On My Mama",
-      "url": "https://open.spotify.com/track/7DswEZZthZ6piQpL25qGAM"
     },
     {
       "added_at": "2023-11-10 16:50:05",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
+        "name": "Whitsitt Chapel",
+        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 197400,
+      "name": "Need A Favor",
+      "url": "https://open.spotify.com/track/07on0OB2cdPt79IFsgdRUy"
+    },
+    {
+      "added_at": "2023-11-10 16:50:05",
+      "album": {
         "name": "Don Juan",
         "url": "https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA"
       },
@@ -903,22 +919,6 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
-        "name": "Barbie The Album",
-        "url": "https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW"
-      },
-      "artists": [
-        {
-          "name": "Ryan Gosling",
-          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
-        }
-      ],
-      "duration_ms": 222633,
-      "name": "I\u2019m Just Ken",
-      "url": "https://open.spotify.com/track/3zXIvb4nZ3cTdT8CsbTy3U"
-    },
-    {
-      "added_at": "2023-11-10 16:50:05",
-      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
       },
@@ -935,18 +935,18 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
-        "name": "Whitsitt Chapel",
-        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
+        "name": "Barbie The Album",
+        "url": "https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW"
       },
       "artists": [
         {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+          "name": "Ryan Gosling",
+          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
         }
       ],
-      "duration_ms": 197400,
-      "name": "Need A Favor",
-      "url": "https://open.spotify.com/track/07on0OB2cdPt79IFsgdRUy"
+      "duration_ms": 222633,
+      "name": "I\u2019m Just Ken",
+      "url": "https://open.spotify.com/track/3zXIvb4nZ3cTdT8CsbTy3U"
     },
     {
       "added_at": "2023-11-10 16:50:05",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
+        "name": "Tension (Deluxe)",
+        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 166266,
+      "name": "Padam Padam",
+      "url": "https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5"
+    },
+    {
+      "added_at": "2023-11-10 16:50:05",
+      "album": {
         "name": "Work Of Art",
         "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
       },
@@ -1123,22 +1139,6 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
-        "name": "Tension (Deluxe)",
-        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 166266,
-      "name": "Padam Padam",
-      "url": "https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5"
-    },
-    {
-      "added_at": "2023-11-10 16:50:05",
-      "album": {
         "name": "Angry",
         "url": "https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE"
       },
@@ -1151,6 +1151,22 @@
       "duration_ms": 226735,
       "name": "Angry",
       "url": "https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG"
+    },
+    {
+      "added_at": "2023-11-10 16:50:05",
+      "album": {
+        "name": "Bell Bottom Country",
+        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 199040,
+      "name": "Heart Like A Truck",
+      "url": "https://open.spotify.com/track/5DIBVDJOHh7djepAjKHWCO"
     },
     {
       "added_at": "2023-11-10 16:50:05",
@@ -1183,22 +1199,6 @@
       "duration_ms": 188504,
       "name": "Summer Too Hot",
       "url": "https://open.spotify.com/track/7g6FlLHxbVqMi1s7S8tDTp"
-    },
-    {
-      "added_at": "2023-11-10 16:50:05",
-      "album": {
-        "name": "Bell Bottom Country",
-        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 199040,
-      "name": "Heart Like A Truck",
-      "url": "https://open.spotify.com/track/5DIBVDJOHh7djepAjKHWCO"
     },
     {
       "added_at": "2023-11-10 16:50:05",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
+        "name": "Jaded",
+        "url": "https://open.spotify.com/album/28sBiYcFfkpAldZodapMyU"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 262631,
+      "name": "Jaded",
+      "url": "https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn"
+    },
+    {
+      "added_at": "2023-11-10 16:50:05",
+      "album": {
         "name": "Starcatcher",
         "url": "https://open.spotify.com/album/7i1NJXQNNFZPyjE0W3GPgE"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 196598,
       "name": "Higher Than Ever Before",
       "url": "https://open.spotify.com/track/0H2idlyIDxyotmpAJ2NUeh"
-    },
-    {
-      "added_at": "2023-11-10 16:50:05",
-      "album": {
-        "name": "Jaded",
-        "url": "https://open.spotify.com/album/28sBiYcFfkpAldZodapMyU"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 262631,
-      "name": "Jaded",
-      "url": "https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn"
     },
     {
       "added_at": "2023-11-10 16:50:05",
@@ -1819,22 +1819,18 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
-        "name": "For That Beautiful Feeling",
-        "url": "https://open.spotify.com/album/5cLkbqs0qo552lJvXH1JTH"
+        "name": "Blue Rev",
+        "url": "https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz"
       },
       "artists": [
         {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
-        },
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+          "name": "Alvvays",
+          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
         }
       ],
-      "duration_ms": 283093,
-      "name": "Skipping Like A Stone (feat. Beck)",
-      "url": "https://open.spotify.com/track/6yjhWDg1b5YW3Vkr52Mf4L"
+      "duration_ms": 165445,
+      "name": "Belinda Says",
+      "url": "https://open.spotify.com/track/1kSMqCHHCrNwsJJXJRLEoT"
     },
     {
       "added_at": "2023-11-10 16:50:05",
@@ -1855,18 +1851,22 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
-        "name": "Blue Rev",
-        "url": "https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz"
+        "name": "For That Beautiful Feeling",
+        "url": "https://open.spotify.com/album/5cLkbqs0qo552lJvXH1JTH"
       },
       "artists": [
         {
-          "name": "Alvvays",
-          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        },
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
         }
       ],
-      "duration_ms": 165445,
-      "name": "Belinda Says",
-      "url": "https://open.spotify.com/track/1kSMqCHHCrNwsJJXJRLEoT"
+      "duration_ms": 283093,
+      "name": "Skipping Like A Stone (feat. Beck)",
+      "url": "https://open.spotify.com/track/6yjhWDg1b5YW3Vkr52Mf4L"
     },
     {
       "added_at": "2023-11-10 16:50:05",
@@ -2223,26 +2223,6 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
-        "name": "Dear Insecurity (feat. Brandi Carlile)",
-        "url": "https://open.spotify.com/album/5vLQakn5RIIinS715tqgjI"
-      },
-      "artists": [
-        {
-          "name": "Brandy Clark",
-          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 276146,
-      "name": "Dear Insecurity (feat. Brandi Carlile)",
-      "url": "https://open.spotify.com/track/53KC9qJL3wxqbKQ7dkdR7E"
-    },
-    {
-      "added_at": "2023-11-10 16:50:05",
-      "album": {
         "name": "X M\u00ed (Vol. 1)",
         "url": "https://open.spotify.com/album/6acPZRAg6LmiWEX3FPtmQF"
       },
@@ -2259,6 +2239,26 @@
       "duration_ms": 198430,
       "name": "Luna de Xelaj\u00fa (feat. Oscar Isaac)",
       "url": "https://open.spotify.com/track/4oXSMpRHeGANQzmzcOsRjq"
+    },
+    {
+      "added_at": "2023-11-10 16:50:05",
+      "album": {
+        "name": "Dear Insecurity (feat. Brandi Carlile)",
+        "url": "https://open.spotify.com/album/5vLQakn5RIIinS715tqgjI"
+      },
+      "artists": [
+        {
+          "name": "Brandy Clark",
+          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 276146,
+      "name": "Dear Insecurity (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/53KC9qJL3wxqbKQ7dkdR7E"
     },
     {
       "added_at": "2023-11-10 16:50:05",
@@ -2339,6 +2339,22 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
+        "name": "Brandy Clark",
+        "url": "https://open.spotify.com/album/6O2KuP5ggSI341L4yufEhg"
+      },
+      "artists": [
+        {
+          "name": "Brandy Clark",
+          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
+        }
+      ],
+      "duration_ms": 185746,
+      "name": "Buried",
+      "url": "https://open.spotify.com/track/2TX7653Pn8n6g0PI6zZh2t"
+    },
+    {
+      "added_at": "2023-11-10 16:50:05",
+      "album": {
         "name": "You're the One",
         "url": "https://open.spotify.com/album/3k6GZZ7QUpFQlNjuPizVEZ"
       },
@@ -2375,22 +2391,6 @@
       "duration_ms": 844005,
       "name": "Shadow Forces",
       "url": "https://open.spotify.com/track/0Vh8ykJFAowwy7w5ila6xC"
-    },
-    {
-      "added_at": "2023-11-10 16:50:05",
-      "album": {
-        "name": "Brandy Clark",
-        "url": "https://open.spotify.com/album/6O2KuP5ggSI341L4yufEhg"
-      },
-      "artists": [
-        {
-          "name": "Brandy Clark",
-          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
-        }
-      ],
-      "duration_ms": 185746,
-      "name": "Buried",
-      "url": "https://open.spotify.com/track/2TX7653Pn8n6g0PI6zZh2t"
     },
     {
       "added_at": "2023-11-10 16:50:05",

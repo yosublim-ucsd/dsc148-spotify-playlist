@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: 名誉伝説
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,175 likes - 70 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,187 likes - 70 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 69 | [Futaba](https://open.spotify.com/track/1orwxUzvNOgv02NwPORbS4) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Falling into your eyes Record](https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz) | 4:37 |
 | 70 | [Line](https://open.spotify.com/track/5ySQdNH0V0xQB7N3LmjtAt) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Around Dusk](https://open.spotify.com/album/2ROkLQv3yr62pu56JjM483) | 3:01 |
 
-Snapshot ID: `MCw1ZWNmOTBlYjI5MDhhY2Q1YjFiZTRlZWU4YjMzNmQzMDA4NGViYmRl`
+Snapshot ID: `MCw3NTIyYmU0ODVmMGU0ZDQzNjA5Yzg4OThkYTgwZDNmNzMzZDY3MzQ4`

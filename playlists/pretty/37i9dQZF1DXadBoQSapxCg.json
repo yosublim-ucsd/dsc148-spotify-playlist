@@ -1,12 +1,12 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 306084,
+  "num_followers": 306425,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiY2M4ZDdjYmFiNDkxYWJhYjI4YTIxZDQyOTMzNDRkZDA1NmRkZjg4",
+  "snapshot_id": "MCxmYTQxZmQ4OTI1YzllN2Q2YmViZjM5NmY2MGI5N2QzOGUxYTBkNWVj",
   "tracks": [
     {
       "added_at": "2023-11-24 17:02:27",
@@ -247,26 +247,6 @@
     {
       "added_at": "2023-11-24 17:02:27",
       "album": {
-        "name": "Bluesman",
-        "url": "https://open.spotify.com/album/0QMVSKhzT4u2DEd8qdlz4I"
-      },
-      "artists": [
-        {
-          "name": "Baco Exu do Blues",
-          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
-        },
-        {
-          "name": "Tuyo",
-          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
-        }
-      ],
-      "duration_ms": 237898,
-      "name": "Flamingos",
-      "url": "https://open.spotify.com/track/7wcDSsREsX9wn8P1iEdBgj"
-    },
-    {
-      "added_at": "2023-11-24 17:02:27",
-      "album": {
         "name": "Aladdin",
         "url": "https://open.spotify.com/album/2OX5dCrbWu0Yorv9vO2jZk"
       },
@@ -283,6 +263,26 @@
       "duration_ms": 154374,
       "name": "Aladdin",
       "url": "https://open.spotify.com/track/0Bb8wTRAiaiZYuYYELvVJA"
+    },
+    {
+      "added_at": "2023-11-24 17:02:27",
+      "album": {
+        "name": "Bluesman",
+        "url": "https://open.spotify.com/album/0QMVSKhzT4u2DEd8qdlz4I"
+      },
+      "artists": [
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        },
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+        }
+      ],
+      "duration_ms": 237898,
+      "name": "Flamingos",
+      "url": "https://open.spotify.com/track/7wcDSsREsX9wn8P1iEdBgj"
     },
     {
       "added_at": "2023-11-24 17:02:27",
@@ -367,6 +367,34 @@
       "duration_ms": 194821,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/0571RzyEWagSsz0pA45VxJ"
+    },
+    {
+      "added_at": "2023-11-24 17:02:27",
+      "album": {
+        "name": "N\u00e3o Tenho Tempo",
+        "url": "https://open.spotify.com/album/0DU5qPWKr1bR86WsRjiiPP"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        }
+      ],
+      "duration_ms": 125624,
+      "name": "N\u00e3o Tenho Tempo",
+      "url": "https://open.spotify.com/track/42Lqgo4o80uHEKKtaGOkj1"
     },
     {
       "added_at": "2023-11-24 17:02:27",
@@ -551,34 +579,6 @@
     {
       "added_at": "2023-11-24 17:02:27",
       "album": {
-        "name": "N\u00e3o Tenho Tempo",
-        "url": "https://open.spotify.com/album/0DU5qPWKr1bR86WsRjiiPP"
-      },
-      "artists": [
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "WEY",
-          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
-        }
-      ],
-      "duration_ms": 125624,
-      "name": "N\u00e3o Tenho Tempo",
-      "url": "https://open.spotify.com/track/42Lqgo4o80uHEKKtaGOkj1"
-    },
-    {
-      "added_at": "2023-11-24 17:02:27",
-      "album": {
         "name": "Day",
         "url": "https://open.spotify.com/album/1H9uCuBYQzu2n5j0i728YF"
       },
@@ -599,26 +599,6 @@
     {
       "added_at": "2023-11-24 17:02:27",
       "album": {
-        "name": "Dolores Dala Guardi\u00e3o do Al\u00edvio",
-        "url": "https://open.spotify.com/album/5hEHhvlgbM3PmNflPbmoZg"
-      },
-      "artists": [
-        {
-          "name": "Rico Dalasam",
-          "url": "https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97"
-        },
-        {
-          "name": "Dinho",
-          "url": "https://open.spotify.com/artist/6T0EkNbGdhqyb5N5uMAI9p"
-        }
-      ],
-      "duration_ms": 229199,
-      "name": "Braille",
-      "url": "https://open.spotify.com/track/2hAcX39Tm3XRuxioc86hNq"
-    },
-    {
-      "added_at": "2023-11-24 17:02:27",
-      "album": {
         "name": "Voc\u00ea Tem",
         "url": "https://open.spotify.com/album/1HlIJFkzruHJ0LsgVth2tX"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 164583,
       "name": "Voc\u00ea Tem",
       "url": "https://open.spotify.com/track/6MMeHHFx8H30NoxkfAD5Bn"
+    },
+    {
+      "added_at": "2023-11-24 17:02:27",
+      "album": {
+        "name": "Dolores Dala Guardi\u00e3o do Al\u00edvio",
+        "url": "https://open.spotify.com/album/5hEHhvlgbM3PmNflPbmoZg"
+      },
+      "artists": [
+        {
+          "name": "Rico Dalasam",
+          "url": "https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97"
+        },
+        {
+          "name": "Dinho",
+          "url": "https://open.spotify.com/artist/6T0EkNbGdhqyb5N5uMAI9p"
+        }
+      ],
+      "duration_ms": 229199,
+      "name": "Braille",
+      "url": "https://open.spotify.com/track/2hAcX39Tm3XRuxioc86hNq"
     },
     {
       "added_at": "2023-11-24 17:02:27",
@@ -743,6 +743,26 @@
     {
       "added_at": "2023-11-24 17:02:27",
       "album": {
+        "name": "Confundindo S\u00e1bios",
+        "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "duration_ms": 235740,
+      "name": "V\u00edcio",
+      "url": "https://open.spotify.com/track/0ZajFsbQ6fZ4LMT2elOFuB"
+    },
+    {
+      "added_at": "2023-11-24 17:02:27",
+      "album": {
         "name": "Djavan",
         "url": "https://open.spotify.com/album/7FrPBgxnDtKXFF0fDo02VU"
       },
@@ -771,38 +791,22 @@
     {
       "added_at": "2023-11-24 17:02:27",
       "album": {
-        "name": "Confundindo S\u00e1bios",
-        "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
+        "name": "S\u00f3 Vem",
+        "url": "https://open.spotify.com/album/0ZN6uJremDuf27alIbotKn"
       },
       "artists": [
         {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+          "name": "Leo Guima",
+          "url": "https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d"
         },
         {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+          "name": "Os Garotin",
+          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
         }
       ],
-      "duration_ms": 235740,
-      "name": "V\u00edcio",
-      "url": "https://open.spotify.com/track/0ZajFsbQ6fZ4LMT2elOFuB"
-    },
-    {
-      "added_at": "2023-11-24 17:02:27",
-      "album": {
-        "name": "Viver (Mais leve que o ar)",
-        "url": "https://open.spotify.com/album/2TSwxXVstj31Js9PAgJ55u"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
-        }
-      ],
-      "duration_ms": 259453,
-      "name": "Gold Coast",
-      "url": "https://open.spotify.com/track/27hudnRUnesKNOZoiuLPVs"
+      "duration_ms": 177715,
+      "name": "Depois da Briga",
+      "url": "https://open.spotify.com/track/4JHh4XKEjrSYIq0NbUxfDz"
     },
     {
       "added_at": "2023-11-24 17:02:27",
@@ -827,22 +831,18 @@
     {
       "added_at": "2023-11-24 17:02:27",
       "album": {
-        "name": "S\u00f3 Vem",
-        "url": "https://open.spotify.com/album/0ZN6uJremDuf27alIbotKn"
+        "name": "Viver (Mais leve que o ar)",
+        "url": "https://open.spotify.com/album/2TSwxXVstj31Js9PAgJ55u"
       },
       "artists": [
         {
-          "name": "Leo Guima",
-          "url": "https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d"
-        },
-        {
-          "name": "Os Garotin",
-          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
         }
       ],
-      "duration_ms": 177715,
-      "name": "Depois da Briga",
-      "url": "https://open.spotify.com/track/4JHh4XKEjrSYIq0NbUxfDz"
+      "duration_ms": 259453,
+      "name": "Gold Coast",
+      "url": "https://open.spotify.com/track/27hudnRUnesKNOZoiuLPVs"
     },
     {
       "added_at": "2023-11-24 17:02:27",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2023-11-24 17:02:27",
       "album": {
+        "name": "VemK",
+        "url": "https://open.spotify.com/album/60XOOFfjxGj3k09wS5rF3N"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        }
+      ],
+      "duration_ms": 185099,
+      "name": "Meia Noite",
+      "url": "https://open.spotify.com/track/2ZkY7Gt9jWppQRrhDsWmf8"
+    },
+    {
+      "added_at": "2023-11-24 17:02:27",
+      "album": {
         "name": "Luzes Apagadas",
         "url": "https://open.spotify.com/album/4wFOxzqJLIlt6x6P1zNaSH"
       },
@@ -1187,38 +1203,22 @@
     {
       "added_at": "2023-11-24 17:02:27",
       "album": {
-        "name": "VemK",
-        "url": "https://open.spotify.com/album/60XOOFfjxGj3k09wS5rF3N"
+        "name": "Playlist Transante",
+        "url": "https://open.spotify.com/album/5kU7Es6oEU01pfXhkG9YBS"
       },
       "artists": [
         {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
-        }
-      ],
-      "duration_ms": 185099,
-      "name": "Meia Noite",
-      "url": "https://open.spotify.com/track/2ZkY7Gt9jWppQRrhDsWmf8"
-    },
-    {
-      "added_at": "2023-11-24 17:02:27",
-      "album": {
-        "name": "Contato",
-        "url": "https://open.spotify.com/album/2vB6ge6OvcZwBCmFGRAVvL"
-      },
-      "artists": [
-        {
-          "name": "Ana Vilela",
-          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
+          "name": "Lary",
+          "url": "https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX"
         },
         {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+          "name": "Choice",
+          "url": "https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu"
         }
       ],
-      "duration_ms": 193971,
-      "name": "Fala",
-      "url": "https://open.spotify.com/track/2Cy32aNVzCoZqneuVNvIiw"
+      "duration_ms": 197494,
+      "name": "Playlist Transante",
+      "url": "https://open.spotify.com/track/2qCps28vIziXwOKmici1g7"
     }
   ],
   "unique_name": "Rala e Rola",

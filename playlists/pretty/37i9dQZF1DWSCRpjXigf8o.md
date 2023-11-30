@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,096 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,106 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 58 | [Something Just Like This](https://open.spotify.com/track/1dNIEtp7AY3oDAKCGg2XkH) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Something Just Like This](https://open.spotify.com/album/7IzpJkWQqgz1BTutQvSitX) | 4:07 |
 | 59 | [There She Goes](https://open.spotify.com/track/4c6vZqYHFur11FbWATIJ9P) | [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [The La's](https://open.spotify.com/album/1djwiQ802xeU8Q45jv1b0x) | 2:42 |
 | 60 | [Hold My Girl](https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:31 |
-| 61 | [Beyond](https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:00 |
+| 61 | [Liability](https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 2:51 |
 | 62 | [Adore You \- Acoustic](https://open.spotify.com/track/0JTjvbwGOoo7YIWlaAs03u) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Adore You \(Acoustic\)](https://open.spotify.com/album/2QvW21dkK5Wp3Od7DiHOZo) | 3:01 |
-| 63 | [Liability](https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 2:51 |
+| 63 | [Beyond](https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:00 |
 | 64 | [Goodbye Evergreen](https://open.spotify.com/track/2GEs9D56FRHqUAEwvlvBpw) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 3:35 |
 | 65 | [beside you](https://open.spotify.com/track/1Fhb9iJPufNMZSwupsXiRe) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [beside you](https://open.spotify.com/album/3boOG8cQ8szHDizPKUyBFD) | 2:46 |
 | 66 | [音の記憶](https://open.spotify.com/track/48CztoIkzgIucZ6ynPUrmr) | [Kei Owada](https://open.spotify.com/artist/3uxdiisUeUl9eXJ9KfDy4C) | [甘い予感](https://open.spotify.com/album/3aCsWq38elPFkdUdVGDj5n) | 5:00 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 95 | [Love & War in Your Twenties](https://open.spotify.com/track/3m9al81IVXLFCF4vG8Nqjw) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Dark in the City](https://open.spotify.com/album/7ls3OeXqL0DtUSxVVfqLdQ) | 4:10 |
 | 96 | [Sad Forever](https://open.spotify.com/track/63jCeAYGLcRL21xm0jKlgn) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Mirror \(Deluxe\)](https://open.spotify.com/album/5mm7YZkfxMlprJTOJEWfxq) | 2:55 |
 | 97 | [reckless driving](https://open.spotify.com/track/5GpEHUNI0T7L7H3DnAaBXh) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:09 |
-| 98 | [バラード気分](https://open.spotify.com/track/4XQ95yHjkLVfPFdEQW6P0X) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [ハザードオブラブ](https://open.spotify.com/album/4mnLjBxlCFOlMLs017DURJ) | 3:58 |
+| 98 | [Ballad Kibun](https://open.spotify.com/track/4so7Q5JTkr8wkW45MOeqVe) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [Hazard Of Love](https://open.spotify.com/album/618qCFzzmmL4iN3TlH2SPC) | 3:58 |
 | 99 | [愛を知ったんだ](https://open.spotify.com/track/0eumnjplJhN4QCHpPiL88C) | [Kuniyuki Natsu](https://open.spotify.com/artist/7bk618HWzQDdQ5XDp5OoE2) | [Kotae](https://open.spotify.com/album/4noihhGHVTfr6bXB6r7u9i) | 4:43 |
 | 100 | [The translator sings](https://open.spotify.com/track/2DUjwpK2MEWL745k5vEOzM) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [The translator sings](https://open.spotify.com/album/1J0uPRxwn9MqJBX1DU30Qt) | 2:49 |
 
-Snapshot ID: `MCw2NGNiZGE1NDJjNGMyMWIxYzcxOTM3NGI0NzQ1YTg0MWVjZWY0OGYz`
+Snapshot ID: `MCwxYTE0N2FjY2QxNTM5YjdjYWJhYzAzMTg0YzM4NWYxYjVmMjJiODMw`

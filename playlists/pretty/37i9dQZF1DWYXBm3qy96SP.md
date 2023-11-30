@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXBm3qy96SP.md) - [plain]
 
 > 話題のロックヒットをVolume上げて爆音で。Cover: Blink 182
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,515 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,536 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,25 +88,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXBm3qy96SP.md) - [plain]
 | 78 | [The Gate](https://open.spotify.com/track/7oyTjbCHE46CGwG0nSY4PJ) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [The Gate](https://open.spotify.com/album/1fSnoyiKXCg9Oy1iBoWefR) | 2:56 |
 | 79 | [Star](https://open.spotify.com/track/5ijSUALHfNot7KSafyLI4E) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:59 |
 | 80 | [straight out the oven !](https://open.spotify.com/track/4RNFQj2OhHlaeQK6S3hKac) | [SPIDER](https://open.spotify.com/artist/4SKFiKjEPLdlpXSOQZhlsi) | [straight out the oven !](https://open.spotify.com/album/1xMSlBl1FaPiCJIZ8ppofk) | 3:04 |
-| 81 | [Modern Girl](https://open.spotify.com/track/4TPgBDOEVwywalXHFUUUQY) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Modern Girl](https://open.spotify.com/album/4a6PlF2W6n5oZsKFyLqmP2) | 3:43 |
+| 81 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 |
 | 82 | [Sharkbait](https://open.spotify.com/track/2XybqMpL67EfQErfR00HID) | [Mouth Culture](https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd) | [Mishaps Of My Mid Twenties](https://open.spotify.com/album/5Rjyhc3YdFNM3qv6wikP8E) | 3:31 |
-| 83 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 |
+| 83 | [Modern Girl](https://open.spotify.com/track/4TPgBDOEVwywalXHFUUUQY) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Modern Girl](https://open.spotify.com/album/4a6PlF2W6n5oZsKFyLqmP2) | 3:43 |
 | 84 | [Only This Could Happen To Me](https://open.spotify.com/track/4tkNRCnN7TGV1ukMfIXuaU) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [Karaoke Sellouts](https://open.spotify.com/album/6HinBdxcvcnRmm4QKvDP1d) | 3:24 |
 | 85 | [WORTHLESS](https://open.spotify.com/track/26vDr5jgWQoJOTH4Bu3KCQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:43 |
 | 86 | [Hollywood \(feat\. BESTIES\)](https://open.spotify.com/track/59o9EdS3KILK36hXJErOw6) | [Somber Hills](https://open.spotify.com/artist/32ERIC9nktHUbxT63ML95P), [BESTIES](https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj) | [where’s my guitar?](https://open.spotify.com/album/7z72T1V68FtxFS9B0VBM6F) | 2:46 |
 | 87 | [Wrecking Ball](https://open.spotify.com/track/1Fl4vSE3PegDGtkNL7JXNl) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Wrecking Ball](https://open.spotify.com/album/6ckYZ5KfxoZisFywOMThYd) | 3:55 |
 | 88 | [Insane Supermarket](https://open.spotify.com/track/22gzwnbf0gnDtzRrW6IFHE) | [CIGARETTE in your bed](https://open.spotify.com/artist/0ybUYq7tgOifr9Y1yaY281) | [Insane Supermarket](https://open.spotify.com/album/6KJxZCc3cV7axMuAXGbSL2) | 3:51 |
 | 89 | [Bubblegum](https://open.spotify.com/track/7oEQMrBcT9kvJF1mJpk5IP) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Bubblegum](https://open.spotify.com/album/6EIC2a6khsh1h1DfG8WlBW) | 4:39 |
-| 90 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 |
-| 91 | [Hold Me Like a Grudge](https://open.spotify.com/track/7LJETXmpThAx6IvUzczYNR) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3) | 3:35 |
-| 92 | [Eyes Open \(Taylor's Version\)](https://open.spotify.com/track/2NIBaWXdjaTDmytjjwbEfP) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Eyes Open \(Taylor's Version\)](https://open.spotify.com/album/6AeF9IkXFpHz5H3wUNX3L3) | 4:03 |
+| 90 | [Eyes Open \(Taylor's Version\)](https://open.spotify.com/track/2NIBaWXdjaTDmytjjwbEfP) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Eyes Open \(Taylor's Version\)](https://open.spotify.com/album/6AeF9IkXFpHz5H3wUNX3L3) | 4:03 |
+| 91 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 |
+| 92 | [Hold Me Like a Grudge](https://open.spotify.com/track/7LJETXmpThAx6IvUzczYNR) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3) | 3:35 |
 | 93 | [Think Fast \(feat\. Weezer\)](https://open.spotify.com/track/4Z59a9hIn8EMsni3OiqGso) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 3:42 |
 | 94 | [Jesus He Knows Me](https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Jesus He Knows Me](https://open.spotify.com/album/5ATKAJjDVbFIoQVuaHrLNK) | 4:05 |
 | 95 | [Stuck](https://open.spotify.com/track/483ngpflrHCLnkBSXsSnsb) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [It’s The End Of The World But It’s A Beautiful Day](https://open.spotify.com/album/08qd1EHSPOu0RHlIOgyYDf) | 3:02 |
 | 96 | [Dancer](https://open.spotify.com/track/2F7dO7OCqrxff66epaNPEU) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C), [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Dancer](https://open.spotify.com/album/6AGtvMucIA2IRrLpVIP6ZR) | 3:09 |
 | 97 | [A Little Bit Happy](https://open.spotify.com/track/0QligzLNiKkIKW1Ea2MFHt) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [A Little Bit Happy](https://open.spotify.com/album/1sijQqTWjxFFCYg71WR0oh) | 3:15 |
-| 98 | [DANCE WITH ME](https://open.spotify.com/track/0FnuaL9AcJxAdzwGPcIHVr) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [DANCE WITH ME](https://open.spotify.com/album/3Uo59FndkcDDp0H7k9yJmh) | 3:08 |
-| 99 | [Eyes Wide Shut](https://open.spotify.com/track/556awMv4WQP0h1VXMU8rSU) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 2:32 |
-| 100 | [Lowlife](https://open.spotify.com/track/2kDApipZtTzjwGfKujcg2z) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Lowlife](https://open.spotify.com/album/4MwosQ9tTm95DAaHdoNs5E) | 3:53 |
+| 98 | [Eyes Wide Shut](https://open.spotify.com/track/556awMv4WQP0h1VXMU8rSU) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 2:32 |
+| 99 | [Lowlife](https://open.spotify.com/track/2kDApipZtTzjwGfKujcg2z) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Lowlife](https://open.spotify.com/album/4MwosQ9tTm95DAaHdoNs5E) | 3:53 |
+| 100 | [DANCE WITH ME](https://open.spotify.com/track/0FnuaL9AcJxAdzwGPcIHVr) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [DANCE WITH ME](https://open.spotify.com/album/3Uo59FndkcDDp0H7k9yJmh) | 3:08 |
 
-Snapshot ID: `MCxhNWYwNzVhODI4MjNlZjFlZjM0NzExMzY5YTYyMjc3NzRiYzEwZjAz`
+Snapshot ID: `MCwxZDQyY2MwMzQ1ZThhZmQxMDZlYTlkNzJiODI5YTE0YjE5OTA4YzM1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 
 > Blue skies, nothing but blue skies\. Sun in your eyes and uplifting jazz in your ears on a sunny day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,877 likes - 87 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,918 likes - 87 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 | 34 | [Something Happens To Me](https://open.spotify.com/track/1kKf0BRGJhPTndA4hkGOAj) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [May I Come In?](https://open.spotify.com/album/0fdUAA238IRVBctEX8f3JA) | 2:04 |
 | 35 | [You're The Top](https://open.spotify.com/track/1RLrKHljWXVJ8cWQKd0zHn) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Anita](https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw) | 2:25 |
 | 36 | ['S Wonderful](https://open.spotify.com/track/2ijBcYi7FZXt7bvuVb7NQz) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [Mr\. Top Hat](https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz) | 2:55 |
-| 37 | [Cannonball](https://open.spotify.com/track/1jWOaHSKT7CUcBuLdIcOTp) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Julian "Cannonball" Adderley](https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8) | 4:14 |
-| 38 | [Happy Little Sunbeam](https://open.spotify.com/track/2ffSVIHPaQaHCDxkXXnJDn) | [Chet Baker Quartet](https://open.spotify.com/artist/3UcvB0rDa44LfjsOO5Btfc) | [Saga Jazz: Easy to Love \(Modern Series\)](https://open.spotify.com/album/4HGoxGmE65LXZgedyupHjY) | 2:47 |
+| 37 | [Happy Little Sunbeam](https://open.spotify.com/track/2ffSVIHPaQaHCDxkXXnJDn) | [Chet Baker Quartet](https://open.spotify.com/artist/3UcvB0rDa44LfjsOO5Btfc) | [Saga Jazz: Easy to Love \(Modern Series\)](https://open.spotify.com/album/4HGoxGmE65LXZgedyupHjY) | 2:47 |
+| 38 | [Cannonball](https://open.spotify.com/track/1jWOaHSKT7CUcBuLdIcOTp) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Julian "Cannonball" Adderley](https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8) | 4:14 |
 | 39 | [Oh! Look At Me Now](https://open.spotify.com/track/2QgtqdIQJTNhStSWal6ceV) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [But Beautiful](https://open.spotify.com/album/6AjdJUoXWogissT2Opkebq) | 2:22 |
 | 40 | [When You're Smiling \(The Whole World Smiles with You\) \(with Teddy Wilson & His Orchestra\) \- Take 3](https://open.spotify.com/track/61rbcfCY9ldEZYGCzpvfSt) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp), [Teddy Wilson](https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii) | [A Musical Romance](https://open.spotify.com/album/4WmDWM4jSLl3EcJ716V1cu) | 2:49 |
 | 41 | [Lou's Blues](https://open.spotify.com/track/6nXk6cBsgoyvNePVb8sdvt) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Quartet / Quintet / Sextet](https://open.spotify.com/album/2Aflwf98ECEhjpowdENj7d) | 3:44 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 | 86 | [Deed I Do](https://open.spotify.com/track/0RqNcBJILvtCJH82auUnKs) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Buddy Bregman](https://open.spotify.com/artist/6t6zRn7Wo4ctJPVLNJlhOs) | [Bing Sings Whilst Bregman Swings](https://open.spotify.com/album/73o2GaqcTroIzxh7bggyrY) | 2:49 |
 | 87 | [Nice Work If You Can Get It \(2012 \- Remaster\)](https://open.spotify.com/track/2WMksdlzNvs5O8EdwFWw4b) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Mel Tormé Sings Fred Astaire \(2012 \- Remaster\)](https://open.spotify.com/album/01xKHe137Bs6g3HcBMjLD7) | 3:08 |
 
-Snapshot ID: `MCwxYjAzMWQ0NDM4YThmODg4OWE1OThjN2Q0NTY3MmI5NDY2MTViMGZk`
+Snapshot ID: `MCwwY2I3N2M3NGU0ZWI4MGViZmRjNjZjMDdjNTZlNGY3MzM5YzQ1NjM0`

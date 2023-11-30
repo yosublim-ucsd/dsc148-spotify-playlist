@@ -286,7 +286,7 @@
       ],
       "date_added": "2019-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 189120,
       "name": "Blood",
       "url": "https://open.spotify.com/track/7gQ7DfSSc3b8e4cHtFnDxu"
@@ -308,6 +308,24 @@
       "duration_ms": 201960,
       "name": "Bodies",
       "url": "https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y"
+    },
+    {
+      "album": {
+        "name": "When Legends Rise",
+        "url": "https://open.spotify.com/album/2wOY4tZ3bcJecD5ypBPHg9"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "date_added": "2019-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177048,
+      "name": "Bulletproof",
+      "url": "https://open.spotify.com/track/0baguYeIsl8FtArOv1jV5o"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,259 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,264 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 46 | [3D \(Justin Timberlake Remix\)](https://open.spotify.com/track/2mHw0KoEyDw8Yaw3yPoke6) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [3D \(Justin Timberlake Remix\)](https://open.spotify.com/album/4SNBgrYqk2aV4LyXbTSkYA) | 2:40 |
 | 47 | [Vultures](https://open.spotify.com/track/21vc2kQZMS00cAyNT82a1M) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Bump J](https://open.spotify.com/artist/3L6bhGrHegoci41Jx2nP0V) | [Vultures](https://open.spotify.com/album/4BdfszFenZ1eMrISGvourZ) | 3:57 |
 | 48 | [GANTZ \(feat\. EK\)](https://open.spotify.com/track/2NEYKsbrZn7K2eTsdyFU9L) | [1300](https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P), [EK](https://open.spotify.com/artist/56YvXhxjnImPI8N5dvtjm7) | [GANTZ \(feat\. EK\)](https://open.spotify.com/album/3LiojQxWIZGce2OhlDp91a) | 3:30 |
-| 49 | [Panic Island \)](https://open.spotify.com/track/03TKqOsWlyjFA5IhWflp5t) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Cincinnati Pumpin!!](https://open.spotify.com/album/5krskJ12OhkTlYuGwxJ0W3) | 2:02 |
+| 49 | [Panic Island](https://open.spotify.com/track/03TKqOsWlyjFA5IhWflp5t) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Cincinnati Pumpin!!](https://open.spotify.com/album/5krskJ12OhkTlYuGwxJ0W3) | 2:02 |
 | 50 | [オリジナル REGGAETON REMIX](https://open.spotify.com/track/6LkjnvyBL7c3PeAkYyI4EK) | [ASOUND](https://open.spotify.com/artist/4pzv2ytPQ4JKkty8Qtnbvk), [ZENDAMAN](https://open.spotify.com/artist/2NfJkHz3wokHxqlHYWMw45), [Gacha](https://open.spotify.com/artist/2t78DCpXcdNdFGFtxbRklF) | [オリジナル REGGAETON REMIX](https://open.spotify.com/album/42Ga3fuKKK1RMhk8xQVivq) | 3:24 |
 | 51 | [93 FREESTYLE](https://open.spotify.com/track/4Ko4KObjTuuC7len0DMaCU) | [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo) | [93 FREESTYLE](https://open.spotify.com/album/4OSLiPFBM0YvTocVBVkr3Q) | 2:30 |
 | 52 | [Welcome to the sky over Himeji](https://open.spotify.com/track/1Ab87r5d4oqyuPwe91hfj1) | [Minchanbaby](https://open.spotify.com/artist/1gbTvzWZ32tJXVmjgYPK2f), [vio moon](https://open.spotify.com/artist/7cYPGQ10qB3PklTzhhrms1) | [Welcome to the sky over Himeji](https://open.spotify.com/album/0L0WpLbn5xaLa9spm8LHjA) | 3:02 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [On My Luv](https://open.spotify.com/track/6H9mffNOKeXnTGQ5xwUPGe) | [TeN](https://open.spotify.com/artist/13SGM3N74r68XG6d1OsECc) | [On My Luv](https://open.spotify.com/album/4MyDeuS50PrvyE0exx8tqb) | 2:27 |
 | 60 | [Ivy](https://open.spotify.com/track/1eBqCeR7Pf5aMD8uCbiTZR) | [tsubasa sasaki](https://open.spotify.com/artist/2FtdjGHCKCbbcciiHS0WMZ) | [Ivy](https://open.spotify.com/album/0fxQhDoIzwvgsI50arzKQa) | 2:48 |
 
-Snapshot ID: `MCxmYTc4ZWJjM2RiZjk1OTI4MmRlNjM5MzkwZmY4MDE3MjU3MzFjYjNh`
+Snapshot ID: `MCxlYzlhY2RmMjE4YjQ5M2YwNDVhYzM5MWZjZTQ5N2I3YTY4MWI0ZDZh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,812 likes - 116 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,511 likes - 116 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 15 | [I THINK IM LOSING MY MIND](https://open.spotify.com/track/7GSRHm7qfwy4PH5KjBr9jM) | [DustBowlChampion](https://open.spotify.com/artist/151Si9irFNyY0kzsGNFuRc) | [I THINK IM LOSING MY MIND](https://open.spotify.com/album/3o68MTMJCZCmiiDzLxzVI7) | 3:36 |
 | 16 | [Lucretia My Reflection \- Vinyl Version](https://open.spotify.com/track/20goDx14UZviYtCPtLbqvs) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Floodland](https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc) | 4:55 |
 | 17 | [Lovers From The Past](https://open.spotify.com/track/29P3bJSzsI5fUvwxSItkvr) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Lovers From The Past](https://open.spotify.com/album/5ACGaSKEybDGrdthNiGCfY) | 3:19 |
-| 18 | [MOTHS](https://open.spotify.com/track/2dT5M4bdibcfjLiqfzawi1) | [Nyxjvh](https://open.spotify.com/artist/0qynm6lz4zZ8lJZygwfovX) | [MOTHS](https://open.spotify.com/album/6YhEVN0VrEINMMLZlkiOv1) | 1:20 |
+| 18 | [MOTHS](https://open.spotify.com/track/198k5g8F2FYnwYbhHV4rRB) | [Nyxjvh](https://open.spotify.com/artist/0qynm6lz4zZ8lJZygwfovX) | [MOTHS](https://open.spotify.com/album/7zWkTgmsawLX1XHAwbUZrW) | 1:20 |
 | 19 | [Boys](https://open.spotify.com/track/3mIijo7WcIfMLx1PJPHbit) | [Social Order](https://open.spotify.com/artist/7J3iqTNIMXafmNKtwfRQ48) | [Boys](https://open.spotify.com/album/3f5a36R6YXw7ykuAKkcxkU) | 3:04 |
 | 20 | [Pain](https://open.spotify.com/track/13HYthybjhM3iyWcfl8VcN) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Lesser Man EP](https://open.spotify.com/album/0U0KLShCpe3rWkcfOLJl9Y) | 7:19 |
 | 21 | [How to Slow a Dream](https://open.spotify.com/track/5IQ1lVitMg6YCNAH3EgOtL) | [R\. Missing](https://open.spotify.com/artist/4EVSMYb2zBDoSHSGEqeztu) | [How to Slow a Dream](https://open.spotify.com/album/0LCWCiU903ZdIXXwaE2iTh) | 2:57 |
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 57 | [Ivo](https://open.spotify.com/track/7anJBerQqBKIbbKvLf9eAq) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 3:53 |
 | 58 | [Distance](https://open.spotify.com/track/4jU6Vuq0e1KSc1vOAKL3k2) | [Rendez Vous](https://open.spotify.com/artist/4a118edzJsiImCyPCZk6mY) | [Distance](https://open.spotify.com/album/2snog7U5uihIur22blJwwg) | 3:29 |
 | 59 | [Over It](https://open.spotify.com/track/3Vkl2lLObnQ9LDohDopxHH) | [Future Nobodies](https://open.spotify.com/artist/4GMN5lzHF0l56piLOQXhBH) | [Apasionada / Over It](https://open.spotify.com/album/1p6XSjHnvwwbsQNUv2oCvq) | 2:49 |
-| 60 | [Beauty & The Beast](https://open.spotify.com/track/5hAl0rQhehsglsiR0VF7Y8) | [Nyxjvh](https://open.spotify.com/artist/0qynm6lz4zZ8lJZygwfovX) | [Beauty & The Beast](https://open.spotify.com/album/7aOS3r9ORnPGUcD6G2jUyq) | 2:48 |
+| 60 | [Beauty & The Beast](https://open.spotify.com/track/4y5lSLNph2pbhsGBtx6Ijy) | [Nyxjvh](https://open.spotify.com/artist/0qynm6lz4zZ8lJZygwfovX) | [Beauty & The Beast](https://open.spotify.com/album/2dCLlJHR37aJE8y8IYm4d9) | 2:48 |
 | 61 | [Club De Vampiros](https://open.spotify.com/track/7yQbHXCnBieG8tLJj1SEiW) | [French Police](https://open.spotify.com/artist/75vqTLIltGApfI0NxcsJaC) | [Club De Vampiros](https://open.spotify.com/album/2xjEFklVuHKvJ0D3OKTsIL) | 3:09 |
 | 62 | [Die World](https://open.spotify.com/track/3ZLFDPE35lm04kHyJEfkLV) | [Lebanon Hanover](https://open.spotify.com/artist/6w8h2uD28BEdg7bX4k3Lh7) | [The World Is Getting Colder](https://open.spotify.com/album/4IJBHdhLNFx7UC1AXsXJAO) | 4:33 |
 | 63 | [Lucid Dreaming](https://open.spotify.com/track/7iQM3uHalxTDWF9yfnLWUY) | [Forever Grey](https://open.spotify.com/artist/3HSpbkijRqVAa1bn0hyEfz) | [Sympathy Garden](https://open.spotify.com/album/0lJDsMUvO0gnnYMEjISatI) | 2:35 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 115 | [Bela Lugosi's Dead \(Official Version\)](https://open.spotify.com/track/1wyVyr8OhYsC9l0WgPPbh8) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [The Bela Session](https://open.spotify.com/album/5NhiaFlFGgymG2rDNqAcm1) | 9:36 |
 | 116 | [Dark Entries](https://open.spotify.com/track/67MkU3b7k2fBL6oHHUiM09) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [In the Flat Field](https://open.spotify.com/album/4hPJRedKOmbvKnLdzV9w1w) | 3:51 |
 
-Snapshot ID: `MCxhZDkxZjliZjc0Zjc0ZGY4YmVhNzM2MWZkNzMyMzNjMTZkODZmZTI2`
+Snapshot ID: `MCw0NzE2ZjRjMmFkNWVkYzA3OWExNmQ3M2NmYmQ2ZDAyZmFlOTJlMWNh`

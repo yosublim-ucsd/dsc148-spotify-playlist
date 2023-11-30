@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXncK9DGeLh7.md) - [plain]
 
 > 100% soul et funk ! Photo : Silk Sonic
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,354 likes - 60 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,517 likes - 60 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXncK9DGeLh7.md) - [plain]
 | 55 | [In the Midnight Hour](https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [In the Midnight Hour](https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU) | 2:37 |
 | 56 | [Rock the Boat](https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW) | [Hues Corporation](https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts) | [Freedom for the Stallion \(Expanded Edition\)](https://open.spotify.com/album/3hXP4r93CpigdFy4BiwaqH) | 3:22 |
 | 57 | [Papa Was A Rollin' Stone \- Single Version](https://open.spotify.com/track/7MiLmLbwNoyf47xQ4TCVYp) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol\. 2 \- The '70s, '80s, '90s](https://open.spotify.com/album/2kzUxFepw1uLjbgqV537eP) | 6:59 |
-| 58 | [Let's Hear It for the Boy \- From "Footloose" Original Soundtrack](https://open.spotify.com/track/4VyU9Tg4drTj2mOUZHSK2u) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [Let's Hear It for the Boy \(Expanded Edition\)](https://open.spotify.com/album/5SQ28k8Esr8yY55ZKvgC5u) | 4:22 |
+| 58 | [I Wish](https://open.spotify.com/track/687YZan9Gol1UVvbpUSO6Y) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 4:12 |
 | 59 | [Brick House](https://open.spotify.com/track/5VJjhHyG8NZ5xdgG6uTb3P) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Commodores](https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl) | 3:28 |
-| 60 | [I Wish](https://open.spotify.com/track/687YZan9Gol1UVvbpUSO6Y) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 4:12 |
+| 60 | [Let's Hear It for the Boy \- From "Footloose" Original Soundtrack](https://open.spotify.com/track/4VyU9Tg4drTj2mOUZHSK2u) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [Let's Hear It for the Boy \(Expanded Edition\)](https://open.spotify.com/album/5SQ28k8Esr8yY55ZKvgC5u) | 4:22 |
 
-Snapshot ID: `MCxkMTVhYmE5MmZiOTBhODdjMjI1ODgyOTQ0NzFlOTY0YTc5NzY1ZDQ3`
+Snapshot ID: `MCxiMDYyYWU1ZTUxZTM2MjkxNzg4OWY2YzMzMzVkNzk5NmY3MDM3NmNl`

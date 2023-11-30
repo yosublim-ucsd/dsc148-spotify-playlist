@@ -1,12 +1,12 @@
 {
   "description": "New makes old. Cover: Sierra Ferrell",
-  "num_followers": 289783,
+  "num_followers": 289834,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZWM4MmJkMWUxZDg1MWZjOGYwYjRhNjY0NDQyNWE0NTE3ZWY1NTU1",
+  "snapshot_id": "MCwwNGVmMjUxNzM1NzU2NmMwZjEzOWY3YjM1NjM3MTIyZWQ4MDU4YmQ0",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Nobody Lives Here Anymore",
+        "url": "https://open.spotify.com/album/28iSGTnbDa3i5wwEoCYg8c"
+      },
+      "artists": [
+        {
+          "name": "Cut Worms",
+          "url": "https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l"
+        }
+      ],
+      "duration_ms": 371976,
+      "name": "Sold My Soul",
+      "url": "https://open.spotify.com/track/7C6hHmGVWw4SzewfvFU2Hc"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Interstate Gospel",
         "url": "https://open.spotify.com/album/0IXxmmlfSQxgJNWnNjHhgJ"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 174253,
       "name": "Got My Name Changed Back",
       "url": "https://open.spotify.com/track/2WPE0Z7u5PafvN2aWk5pFl"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Nobody Lives Here Anymore",
-        "url": "https://open.spotify.com/album/28iSGTnbDa3i5wwEoCYg8c"
-      },
-      "artists": [
-        {
-          "name": "Cut Worms",
-          "url": "https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l"
-        }
-      ],
-      "duration_ms": 371976,
-      "name": "Sold My Soul",
-      "url": "https://open.spotify.com/track/7C6hHmGVWw4SzewfvFU2Hc"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Make Way for Love",
-        "url": "https://open.spotify.com/album/69wIdpWYSwdYMkYdn6iviH"
-      },
-      "artists": [
-        {
-          "name": "Marlon Williams",
-          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
-        }
-      ],
-      "duration_ms": 153548,
-      "name": "Party Boy",
-      "url": "https://open.spotify.com/track/6iyXhFNl11mcuyuuPnqhBW"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "With Me in the Summer",
         "url": "https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 300895,
       "name": "Weather",
       "url": "https://open.spotify.com/track/1WwAqeweh8B5WVO041pRFf"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Make Way for Love",
+        "url": "https://open.spotify.com/album/69wIdpWYSwdYMkYdn6iviH"
+      },
+      "artists": [
+        {
+          "name": "Marlon Williams",
+          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
+        }
+      ],
+      "duration_ms": 153548,
+      "name": "Party Boy",
+      "url": "https://open.spotify.com/track/6iyXhFNl11mcuyuuPnqhBW"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Highway Queen",
-        "url": "https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW"
-      },
-      "artists": [
-        {
-          "name": "Nikki Lane",
-          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
-        }
-      ],
-      "duration_ms": 188240,
-      "name": "Companion",
-      "url": "https://open.spotify.com/track/3XrXvjH1dMaSzNz5uOKdTS"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Welcome to Hard Times",
         "url": "https://open.spotify.com/album/4HYMmAYjEyDAOQsP9B5giS"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 185754,
       "name": "Welcome to Hard Times",
       "url": "https://open.spotify.com/track/0i3BdHdGazxdCxJHj6Jdvx"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Highway Queen",
+        "url": "https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW"
+      },
+      "artists": [
+        {
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
+        }
+      ],
+      "duration_ms": 188240,
+      "name": "Companion",
+      "url": "https://open.spotify.com/track/3XrXvjH1dMaSzNz5uOKdTS"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Demons",
-        "url": "https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 269133,
-      "name": "Demons",
-      "url": "https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "All American Made",
         "url": "https://open.spotify.com/album/5XbPhu08VoGqOT06oLpHhN"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 379855,
       "name": "Learning to Lose (feat. Willie Nelson)",
       "url": "https://open.spotify.com/track/7AA9ZppMBiNOGSW0nR6hxc"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 269133,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8"
     },
     {
       "added_at": "2023-10-06 04:00:00",

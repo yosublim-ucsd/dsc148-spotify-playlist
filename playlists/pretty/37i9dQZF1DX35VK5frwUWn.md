@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35VK5frwUWn.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/rjbarrett/">RJ Barrett</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,526 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,530 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35VK5frwUWn.md) - [plain]
 | 49 | [SRT \(feat\. BIG30 & Pooh Shiesty\)](https://open.spotify.com/track/0VohK45FIUHEMBbfUw8iBM) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [Code Red](https://open.spotify.com/album/4faPRidDvKRvHnWdvmvVHv) | 2:37 |
 | 50 | [how you did that \(feat\. Kodak Black\)](https://open.spotify.com/track/3ABFD8SzXwMbUspLFxbbwK) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 2:40 |
 
-Snapshot ID: `MCwwYjRkNzgyOGNhMTY0ZDc1YjZkNmQyNWFiMzg3ZDhmOWNlOGQ5ZDk2`
+Snapshot ID: `MCxmNjk2NWE1YzY1NDc5MTFiZmMzMGI2MDk2YjE3Y2I5Yjc3NzBhY2Zl`

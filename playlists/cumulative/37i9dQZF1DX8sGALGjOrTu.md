@@ -2,7 +2,7 @@
 
 ### [Chaos Anthems](https://open.spotify.com/playlist/37i9dQZF1DX8sGALGjOrTu)
 
-> Back to the golden age of the scene\. Cover: Finch
+> Back to the golden age of the scene\. Cover: Thrice
 
 222 songs - 14 hr 6 min
 

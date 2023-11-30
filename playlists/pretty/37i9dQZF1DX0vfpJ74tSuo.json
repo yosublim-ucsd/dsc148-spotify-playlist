@@ -1,12 +1,12 @@
 {
   "description": "I woke up this morning\u2026 to the chilled sound of the Blues.",
-  "num_followers": 65153,
+  "num_followers": 65184,
   "original_name": "Morning Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDFhNmRmZDBlMzQxYWQ2ZGZlOWQyY2QyOTdiNjZlNTU4Mjk0M2Fj",
+  "snapshot_id": "MCxhM2EzMzNhMmYyMjhkNjEwNzgyMWE2ODk0YzY2MzBmNzg3NjYyMzJi",
   "tracks": [
     {
       "added_at": "2023-09-15 11:42:41",
@@ -139,6 +139,22 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
+        "name": "Talking Timbuktu",
+        "url": "https://open.spotify.com/album/0pOL9eM3BPolgD5jjQInAk"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "duration_ms": 429973,
+      "name": "Ai Du (with Ry Cooder)",
+      "url": "https://open.spotify.com/track/5ksSzUpY892Gga1BlDN9ey"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
         "name": "T-Bone Blues",
         "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 138426,
       "name": "Am I Wrong",
       "url": "https://open.spotify.com/track/3xoMRK8egNvtjrCEQieLko"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
-        "name": "Talking Timbuktu",
-        "url": "https://open.spotify.com/album/0pOL9eM3BPolgD5jjQInAk"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        }
-      ],
-      "duration_ms": 429973,
-      "name": "Ai Du (with Ry Cooder)",
-      "url": "https://open.spotify.com/track/5ksSzUpY892Gga1BlDN9ey"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Kidney Stew (The Definitive Black & Blue Sessions)",
-        "url": "https://open.spotify.com/album/5rhEotbutxakrvWpftQq5G"
-      },
-      "artists": [
-        {
-          "name": "Eddie \"Cleanhead\" Vinson",
-          "url": "https://open.spotify.com/artist/0R3bGv703d8JFKdZxsHr58"
-        }
-      ],
-      "duration_ms": 200506,
-      "name": "Wee Baby Blues",
-      "url": "https://open.spotify.com/track/0LA1P4jVcRRY5RgYPONRy2"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Blue River Rising",
         "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 190706,
       "name": "Won't Get Any Better",
       "url": "https://open.spotify.com/track/28r1vNoAGRfy3i8972hOS5"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Kidney Stew (The Definitive Black & Blue Sessions)",
+        "url": "https://open.spotify.com/album/5rhEotbutxakrvWpftQq5G"
+      },
+      "artists": [
+        {
+          "name": "Eddie \"Cleanhead\" Vinson",
+          "url": "https://open.spotify.com/artist/0R3bGv703d8JFKdZxsHr58"
+        }
+      ],
+      "duration_ms": 200506,
+      "name": "Wee Baby Blues",
+      "url": "https://open.spotify.com/track/0LA1P4jVcRRY5RgYPONRy2"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "I Am The Moon: IV. Farewell",
-        "url": "https://open.spotify.com/album/6hCN857vBAs2oN8aZQih2x"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 227893,
-      "name": "I Can Feel You Smiling",
-      "url": "https://open.spotify.com/track/6xVr5ivengIkx4q4VacaEJ"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Buffalo Nichols",
         "url": "https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 222853,
       "name": "Lost & Lonesome",
       "url": "https://open.spotify.com/track/5nVK0rgBaHqRioBoWBWS8f"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "I Am The Moon: IV. Farewell",
+        "url": "https://open.spotify.com/album/6hCN857vBAs2oN8aZQih2x"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "duration_ms": 227893,
+      "name": "I Can Feel You Smiling",
+      "url": "https://open.spotify.com/track/6xVr5ivengIkx4q4VacaEJ"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Aboogi",
-        "url": "https://open.spotify.com/album/4HtjxGyTwAPzU8nrg4BGtw"
-      },
-      "artists": [
-        {
-          "name": "Imarhan",
-          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
-        }
-      ],
-      "duration_ms": 177106,
-      "name": "Assossam",
-      "url": "https://open.spotify.com/track/0kkU5wgY8w4l3RSTSSaAgz"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "The Midnight Broadcast",
         "url": "https://open.spotify.com/album/5XWkAsBVccgg9FFC77e9B6"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 214933,
       "name": "Bumble Bee",
       "url": "https://open.spotify.com/track/1FgQnc7KZLvaB89eWOfQ2R"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Aboogi",
+        "url": "https://open.spotify.com/album/4HtjxGyTwAPzU8nrg4BGtw"
+      },
+      "artists": [
+        {
+          "name": "Imarhan",
+          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
+        }
+      ],
+      "duration_ms": 177106,
+      "name": "Assossam",
+      "url": "https://open.spotify.com/track/0kkU5wgY8w4l3RSTSSaAgz"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Burnin'",
-        "url": "https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 229150,
-      "name": "Blues Before Sunrise",
-      "url": "https://open.spotify.com/track/0gHeDEGKk5Pnm3LfgrY9tG"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Blues Kingpins",
         "url": "https://open.spotify.com/album/7Lxd3Sj8L3Wwx4Hctxjx3p"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 179813,
       "name": "Rock Me Baby",
       "url": "https://open.spotify.com/track/3xY7sD1mmOiCAeDfVZ4Qv5"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Burnin'",
+        "url": "https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 229150,
+      "name": "Blues Before Sunrise",
+      "url": "https://open.spotify.com/track/0gHeDEGKk5Pnm3LfgrY9tG"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
+        "name": "I Be Trying",
+        "url": "https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY"
+      },
+      "artists": [
+        {
+          "name": "Cedric Burnside",
+          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
+        }
+      ],
+      "duration_ms": 206040,
+      "name": "The World Can Be So Cold",
+      "url": "https://open.spotify.com/track/0U1M0MLvbw0ZZQDR2BXELd"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
         "name": "Dear America",
         "url": "https://open.spotify.com/album/3lrysOZwArhHFtnI1JEBtZ"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 227503,
       "name": "Born Of A Woman",
       "url": "https://open.spotify.com/track/6NMY2CP95XrD8ZkecH8IXA"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
-        "name": "I Be Trying",
-        "url": "https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY"
-      },
-      "artists": [
-        {
-          "name": "Cedric Burnside",
-          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
-        }
-      ],
-      "duration_ms": 206040,
-      "name": "The World Can Be So Cold",
-      "url": "https://open.spotify.com/track/0U1M0MLvbw0ZZQDR2BXELd"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
+        "name": "Between Midnight And Day",
+        "url": "https://open.spotify.com/album/6fuRNpnOE7QgyT1IcdvpED"
+      },
+      "artists": [
+        {
+          "name": "Corey Harris",
+          "url": "https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH"
+        }
+      ],
+      "duration_ms": 160213,
+      "name": "Catfish Blues",
+      "url": "https://open.spotify.com/track/4Zw7WWHOGCExXuMcxk0CCy"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
         "name": "Been Worryin'",
         "url": "https://open.spotify.com/album/0wqmYZL5CugLyro5p73EtD"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 182761,
       "name": "Been Worryin'",
       "url": "https://open.spotify.com/track/088kWm2bfPw22I3jIa6Yll"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
-        "name": "Between Midnight And Day",
-        "url": "https://open.spotify.com/album/6fuRNpnOE7QgyT1IcdvpED"
-      },
-      "artists": [
-        {
-          "name": "Corey Harris",
-          "url": "https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH"
-        }
-      ],
-      "duration_ms": 160213,
-      "name": "Catfish Blues",
-      "url": "https://open.spotify.com/track/4Zw7WWHOGCExXuMcxk0CCy"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
+        "name": "Dark Was The Night (Mojo Workin'- Blues For The Next Generation)",
+        "url": "https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt"
+      },
+      "artists": [
+        {
+          "name": "Blind Willie Johnson",
+          "url": "https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ"
+        }
+      ],
+      "duration_ms": 179226,
+      "name": "God Moves On the Water",
+      "url": "https://open.spotify.com/track/5PaW8VeYRpS3N728fFa15b"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
         "name": "GET ON BOARD",
         "url": "https://open.spotify.com/album/3d5mOvPLoAggvWctC7L12Z"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 304026,
       "name": "Who You Gonna Hoo-Doo Now",
       "url": "https://open.spotify.com/track/65LUKFzNaTOChsZPAZIUq2"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
-        "name": "Dark Was The Night (Mojo Workin'- Blues For The Next Generation)",
-        "url": "https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt"
-      },
-      "artists": [
-        {
-          "name": "Blind Willie Johnson",
-          "url": "https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ"
-        }
-      ],
-      "duration_ms": 179226,
-      "name": "God Moves On the Water",
-      "url": "https://open.spotify.com/track/5PaW8VeYRpS3N728fFa15b"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Throw That Stone",
-        "url": "https://open.spotify.com/album/408CkVwXz2NDA1au1j5cJV"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 178668,
-      "name": "Throw That Stone",
-      "url": "https://open.spotify.com/track/0BGr6RE0hPLyDjCTlYzfcx"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Trying to Hold On",
         "url": "https://open.spotify.com/album/4eYqi12IL2UvjNbnrZYP5s"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 249626,
       "name": "Be for Me",
       "url": "https://open.spotify.com/track/5QNR5H81d2G2BZk4uDdaR7"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Throw That Stone",
+        "url": "https://open.spotify.com/album/408CkVwXz2NDA1au1j5cJV"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 178668,
+      "name": "Throw That Stone",
+      "url": "https://open.spotify.com/track/0BGr6RE0hPLyDjCTlYzfcx"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Brownie McGhee and Sonny Terry Sing",
-        "url": "https://open.spotify.com/album/1bnGRRSXinuQPmeeQM7AIv"
-      },
-      "artists": [
-        {
-          "name": "Sonny Terry and Brownie McGhee",
-          "url": "https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw"
-        }
-      ],
-      "duration_ms": 153493,
-      "name": "Preachin' the Blues",
-      "url": "https://open.spotify.com/track/2tGxma55fb0GeAsTESNGaH"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "75-71",
         "url": "https://open.spotify.com/album/7uCEA2hPC30z4FFmbaYPjj"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 224186,
       "name": "75-71",
       "url": "https://open.spotify.com/track/5LqU6Ve7S71ZLD6m4Blhuq"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Brownie McGhee and Sonny Terry Sing",
+        "url": "https://open.spotify.com/album/1bnGRRSXinuQPmeeQM7AIv"
+      },
+      "artists": [
+        {
+          "name": "Sonny Terry and Brownie McGhee",
+          "url": "https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw"
+        }
+      ],
+      "duration_ms": 153493,
+      "name": "Preachin' the Blues",
+      "url": "https://open.spotify.com/track/2tGxma55fb0GeAsTESNGaH"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -2215,22 +2215,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "New Orleans Street Singer",
-        "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
-      },
-      "artists": [
-        {
-          "name": "Snooks Eaglin",
-          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
-        }
-      ],
-      "duration_ms": 232133,
-      "name": "Everyday I Have the Blues",
-      "url": "https://open.spotify.com/track/5Qizcr47Esrf54Pu1eF30E"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Jalopy Records 7\" Series: Jerron Paxton",
         "url": "https://open.spotify.com/album/24kpVLAlAEbbxExLG0Z9D5"
       },
@@ -2243,6 +2227,22 @@
       "duration_ms": 144763,
       "name": "Painting the Clouds with Sunshine",
       "url": "https://open.spotify.com/track/2S1zh33AX8zXEplNpwvMPI"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "New Orleans Street Singer",
+        "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
+      },
+      "artists": [
+        {
+          "name": "Snooks Eaglin",
+          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
+        }
+      ],
+      "duration_ms": 232133,
+      "name": "Everyday I Have the Blues",
+      "url": "https://open.spotify.com/track/5Qizcr47Esrf54Pu1eF30E"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -2379,22 +2379,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Mashing Rain",
-        "url": "https://open.spotify.com/album/3x9VyS2BCTAWtW71X2Yhbu"
-      },
-      "artists": [
-        {
-          "name": "Honky Fish",
-          "url": "https://open.spotify.com/artist/0Cnqt7ZhpE7wDK5hJzbU96"
-        }
-      ],
-      "duration_ms": 134333,
-      "name": "Mashing Rain",
-      "url": "https://open.spotify.com/track/31rViVUzJfb9EybyfTxTDI"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Raging Moon",
         "url": "https://open.spotify.com/album/27iF9Y0FuYVLCWJyU3Srqy"
       },
@@ -2407,6 +2391,22 @@
       "duration_ms": 339394,
       "name": "High Fever Blues",
       "url": "https://open.spotify.com/track/2lHlfG7kAhkIlG6eQmAKgH"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Mashing Rain",
+        "url": "https://open.spotify.com/album/3x9VyS2BCTAWtW71X2Yhbu"
+      },
+      "artists": [
+        {
+          "name": "Honky Fish",
+          "url": "https://open.spotify.com/artist/0Cnqt7ZhpE7wDK5hJzbU96"
+        }
+      ],
+      "duration_ms": 134333,
+      "name": "Mashing Rain",
+      "url": "https://open.spotify.com/track/31rViVUzJfb9EybyfTxTDI"
     },
     {
       "added_at": "2023-09-15 11:42:41",

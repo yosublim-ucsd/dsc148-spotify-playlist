@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 
 > Silky sounds for the sheets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,067,931 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,067,784 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 46 | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/track/4KVSdwwJ67JHu5s9vIA0zi) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [HYPNOS](https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ) | 3:47 |
 | 47 | [Damage](https://open.spotify.com/track/0KS2h61pHQ4WmOwruD7uxD) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Damage](https://open.spotify.com/album/2pPGkrEYiHUmqSyg3sAGII) | 3:43 |
 | 48 | [Come Over \(feat\. Tank\)](https://open.spotify.com/track/28RaFrB9gSS48XXumZMobc) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4), [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [I Care 4 U](https://open.spotify.com/album/50GHwAog5gmnqkypVkDso8) | 3:55 |
-| 49 | [Any Time, Any Place](https://open.spotify.com/track/2yOm4lN7aTygtXanJFNFWU) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Janet](https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg) | 7:08 |
-| 50 | [F.U.C.K.](https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [F.U.C.K.](https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC) | 3:25 |
+| 49 | [F.U.C.K.](https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [F.U.C.K.](https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC) | 3:25 |
+| 50 | [Any Time, Any Place](https://open.spotify.com/track/2yOm4lN7aTygtXanJFNFWU) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Janet](https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg) | 7:08 |
 | 51 | [Hate the Club \(feat\. Masego\)](https://open.spotify.com/track/0QUbiLQySWPq5Lh3f7A9bN) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 4:38 |
 | 52 | [Moonlight](https://open.spotify.com/track/2ZqOCKuFkKhAZDRYI90EHb) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Phases III \- EP](https://open.spotify.com/album/1bLdis3p35wB1HX2ODuKhO) | 2:40 |
 | 53 | [Nobody Else](https://open.spotify.com/track/6eipQrmTw1N3nUfgLlEa2R) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 3:53 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 61 | [THINGS & SUCH](https://open.spotify.com/track/4Hv8QuMQfG7e6GWOWcXYKk) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 3:57 |
 | 62 | [Calling On You](https://open.spotify.com/track/7wYhcfgPUyML3FKfLwvBwk) | [Jon B.](https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX) | [Pleasures U Like](https://open.spotify.com/album/1uVZharbta7UF0rqb1AU1F) | 4:40 |
 | 63 | [On It](https://open.spotify.com/track/4Xr6BbSSu5HhImp8vfxMbg) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Heaux Tales](https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9) | 3:25 |
-| 64 | [Like Her Too](https://open.spotify.com/track/1Nxx1LHMLKxC6yGaZjpPO5) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Like Her Too](https://open.spotify.com/album/2fw7ZZewq0CRvqwmoTmjIe) | 2:57 |
-| 65 | [I'm Baby \(ft\. Jvck James\)](https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [3000°](https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF) | 3:22 |
+| 64 | [I'm Baby \(ft\. Jvck James\)](https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [3000°](https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF) | 3:22 |
+| 65 | [Like Her Too](https://open.spotify.com/track/1Nxx1LHMLKxC6yGaZjpPO5) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Like Her Too](https://open.spotify.com/album/2fw7ZZewq0CRvqwmoTmjIe) | 2:57 |
 | 66 | [That's Why I Love You](https://open.spotify.com/track/1826XXl1rbdbhFk5xdnXNA) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Chasing Summer](https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7) | 4:01 |
 | 67 | [AMBRÉ'S INTERLUDE](https://open.spotify.com/track/3WwvdFw13kO3JF26XCKsGz) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 1:41 |
 | 68 | [Luv Songs \(Unruly\)](https://open.spotify.com/track/0puWG0IhM981IsC1hd2640) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Don't Get Too Cozy](https://open.spotify.com/album/3fGURvjAC7mZz3nMfPRRBI) | 2:55 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 74 | [ANOTHER DAY](https://open.spotify.com/track/3SQz76liYsbuuXyNLSLQu1) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16) | 2:32 |
 | 75 | [Touch Me](https://open.spotify.com/track/4U9gm9Icd8rzJoVb8siDED) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR](https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR) | 3:11 |
 
-Snapshot ID: `MCxkYWM0OTI2MDEzYTIyMzNkYmY1ZmE5ZjRmNzQxZTA3MjE3ZTQ1ODE4`
+Snapshot ID: `MCxkZjc4MWY2NWMxNzMwMjhiNDUxOGJlM2Q5MmVjMWM5MTIwNWEzM2Vj`

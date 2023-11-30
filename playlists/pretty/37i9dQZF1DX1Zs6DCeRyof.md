@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Zs6DCeRyof.md) - [plain]
 
 > Aquí viven los hits más grandes en La Isla del Encanto\. Bad Bunny en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,930 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,043 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Zs6DCeRyof.md) - [plain]
 | 49 | [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 |
 | 50 | [Un Cigarrillo](https://open.spotify.com/track/4k7CNPArKLf4QuvGfMeHDk) | [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Un Cigarrillo](https://open.spotify.com/album/4thYGFvkQPc1qwSR4vdRN9) | 3:04 |
 
-Snapshot ID: `MCxmZDBkM2EwOGYyZTg4YmU5MTgxNWQ3M2NmNDNiZWI1ODVjMDM5MjZl`
+Snapshot ID: `MCxjNjIxNzE3ZWQ5MTlhMDg0NzYxZGEwMzA3MDY3N2Y5YThhOWZhNDA1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Billyrrom
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,606 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,626 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 12 | [九天](https://open.spotify.com/track/6MxCy5eKmABtf4oEfh0ezz) | [fishbowl](https://open.spotify.com/artist/1nyeiKFHnbe9QsI8bOjGK5) | [九天](https://open.spotify.com/album/0tbk6jn81uKwLUBmy2Iw6Z) | 3:30 |
 | 13 | [Midnight Mission](https://open.spotify.com/track/7CvPGnVTiEJEgz5551gIih) | [Midnight Grand Orchestra](https://open.spotify.com/artist/60lgIOOISxGcxyjX4GJeii) | [Midnight Mission](https://open.spotify.com/album/2Y6hwwMCcNKz3ojiGdh5Nd) | 3:41 |
 | 14 | [Lalala Sayonara Eien ni](https://open.spotify.com/track/1VeB86yd4Jmjjc0CYWjE99) | [Yamato Mori](https://open.spotify.com/artist/6oekdBDEP3aA9j07IEal9w) | [Lalala Sayonara Eien ni](https://open.spotify.com/album/2GL4nvzN4ftoPlsRc5ktCU) | 4:34 |
-| 15 | [KANPAI FUNK feat\. フレデリック](https://open.spotify.com/track/1Hc3rIP0VvUAcrZZKazxXo) | [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9), [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [KANPAI FUNK feat\. フレデリック](https://open.spotify.com/album/2DRH6H1Ux7IfCDJRkOmHSG) | 3:34 |
+| 15 | [KANPAI FUNK](https://open.spotify.com/track/1Hc3rIP0VvUAcrZZKazxXo) | [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9), [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [KANPAI FUNK](https://open.spotify.com/album/2DRH6H1Ux7IfCDJRkOmHSG) | 3:34 |
 | 16 | [ケタタマ \- feat\. Mori Calliope](https://open.spotify.com/track/2LHNdyP8WcDUi70Y7LHOmL) | [KERENMI](https://open.spotify.com/artist/2vieV6ozoaMtYS6QsuScfn), [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [ケタタマ \(feat\. Mori Calliope\)](https://open.spotify.com/album/3tliDt4FKNpQ02aPI2Ftet) | 3:26 |
 | 17 | [こしょばい](https://open.spotify.com/track/4cj594OxhRNKRCJTpeX6cz) | [ミヤケ武器](https://open.spotify.com/artist/463Nb39aQCqo5DJFqTkHHv) | [大グロス](https://open.spotify.com/album/40ODUQcSpVqc0UdIDLFKrl) | 3:25 |
 | 18 | [Biscuit](https://open.spotify.com/track/4VerfQl7Y8UphNFBWEKMtV) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Biscuit](https://open.spotify.com/album/6P68HkiZanv6UJSSklu4jg) | 3:24 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [Heartbeat](https://open.spotify.com/track/4rZJHTkmgFQ5G0SEW4d2mo) | [元松美紅](https://open.spotify.com/artist/41N9Jebt998GWt7nlUadB3) | [Heartbeat](https://open.spotify.com/album/3DB4iAfEtK2uxU1WzlHvY4) | 4:40 |
 | 80 | [You & I](https://open.spotify.com/track/72ssNVSfuvYH39CLVDGh3F) | [Emerald](https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs) | [You & I](https://open.spotify.com/album/45N5Sz0eCAuU90MYKF61Xl) | 4:30 |
 
-Snapshot ID: `MCw2ODM0YWEzMGJjZjVhNWQ2MzdiZDVhNmYwN2M1M2JmOTM4NWMxY2Y5`
+Snapshot ID: `MCw4ZjQ0OTFkZjU2ZDAwMDM0MTg4ZmMyOGFhZTFmMzhmZTc3ZDY3MTcy`

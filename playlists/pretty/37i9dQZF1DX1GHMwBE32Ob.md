@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 
 > The sounds keeping the streets of Nigeria on fire\. <br/>Cover: Shallipoppi
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,682 likes - 60 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,881 likes - 60 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 18 | [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 |
 | 19 | [Many Things](https://open.spotify.com/track/7rIHP8C7oHYONnJpLjVnAc) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Many Things](https://open.spotify.com/album/1yS7tbUsMdT1D1tcwGKNIe) | 2:47 |
 | 20 | [Off The Planet \(OTP\)](https://open.spotify.com/track/5oObSi6drHYOKYjfyVQkC0) | [Bahd Man Niko](https://open.spotify.com/artist/2wzUPRXpsHccu7ZxIlqJsb) | [Off The Planet \(OTP\)](https://open.spotify.com/album/4Z4iIaVurEoRR3dUpzpzi4) | 2:37 |
-| 21 | [Unleash](https://open.spotify.com/track/1dHHDoPwSXpVMQfybFQvqG) | [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Unleash](https://open.spotify.com/album/76qUSyLrwAs4EOHrqypy7A) | 2:21 |
+| 21 | [Child's Play](https://open.spotify.com/track/7nr3wqDwJkiSDbcbct67Um) | [Tega Boi Dc](https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Child's Play](https://open.spotify.com/album/06kfG0SpfO1jgulBUQBLkD) | 2:31 |
 | 22 | [Ex Convict](https://open.spotify.com/track/5WAFaje0Cs3hHhNqjUIfY6) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Ex Convict](https://open.spotify.com/album/5Y0FIl4JX5S1vvm5Kc8OHh) | 3:22 |
-| 23 | [Child's Play](https://open.spotify.com/track/7nr3wqDwJkiSDbcbct67Um) | [Tega Boi Dc](https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Child's Play](https://open.spotify.com/album/06kfG0SpfO1jgulBUQBLkD) | 2:31 |
+| 23 | [Unleash](https://open.spotify.com/track/1dHHDoPwSXpVMQfybFQvqG) | [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Unleash](https://open.spotify.com/album/76qUSyLrwAs4EOHrqypy7A) | 2:21 |
 | 24 | [La Pio Pio](https://open.spotify.com/track/6nK5Zt2RI6xqEaU8CgMojZ) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Blessed](https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst) | 2:25 |
 | 25 | [Oyinmo](https://open.spotify.com/track/1jRn3FbiRwlFWD5PYfxM51) | [Carterefe](https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n), [Young Duu](https://open.spotify.com/artist/4QzINVALvIeNE1Ml5vdCDK) | [Oyinmo](https://open.spotify.com/album/0spOl1XlOfTs2LwOO30907) | 2:15 |
 | 26 | [New Religion](https://open.spotify.com/track/2KwnwVXtAlpSDdRVO9ccTJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [New Religion](https://open.spotify.com/album/6TVnbiHfSh4UX5fCJC4sG1) | 2:33 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 43 | [HBP](https://open.spotify.com/track/3xY9AUbeibAeVDyPkHm8Kj) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [HBP](https://open.spotify.com/album/5SOS13paz0WPPdIf9CL0Y8) | 2:47 |
 | 44 | [PARIWO](https://open.spotify.com/track/20fEWd3EZSTTLuHHllpRl9) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [PARIWO](https://open.spotify.com/album/0Jkvu3rltjFQC0khKkivk8) | 2:00 |
 | 45 | [Cash App](https://open.spotify.com/track/66OmUVUiuja0zp423wGqhr) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Lincoln](https://open.spotify.com/artist/3xm6dLNdCqqgkv9AkNZNQu) | [Cash App](https://open.spotify.com/album/4sP46SuU8qdDzKOUA926qT) | 3:56 |
-| 46 | [HOV](https://open.spotify.com/track/3jtPLQ4eBEcfyry5148T9x) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 2:18 |
-| 47 | [In Battle](https://open.spotify.com/track/4A1HJZwX7krIq8qk20nc3W) | [PaBrymo](https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [In Battle](https://open.spotify.com/album/3OlFbSNU6yn5xQuXjYpHnW) | 3:16 |
+| 46 | [In Battle](https://open.spotify.com/track/4A1HJZwX7krIq8qk20nc3W) | [PaBrymo](https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [In Battle](https://open.spotify.com/album/3OlFbSNU6yn5xQuXjYpHnW) | 3:16 |
+| 47 | [HOV](https://open.spotify.com/track/3jtPLQ4eBEcfyry5148T9x) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 2:18 |
 | 48 | [Good Bad Boy](https://open.spotify.com/track/3ZRee35yTrQLeck0yWBYep) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT) | [Good Bad Boy](https://open.spotify.com/album/6aneMaptAsMI6EwKwQva1E) | 2:43 |
 | 49 | [Hat\-trick](https://open.spotify.com/track/6kq3Twa8T9Rf9nxpf111hx) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Vibe Till Thy Kingdom Come](https://open.spotify.com/album/5sXH36sWuho5Xei85Ru5sj) | 2:40 |
 | 50 | [Wire](https://open.spotify.com/track/3IvE1iyRbBProcJDsHBsnH) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Dangerous Wavy Baby](https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW) | 2:24 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 55 | [In Charge](https://open.spotify.com/track/1cPAiQ4CochzkCk8Ebu1x9) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [DND](https://open.spotify.com/album/4P84VNKfBLVKhIliJ5D0dW) | 2:25 |
 | 56 | [Call of Duty](https://open.spotify.com/track/2wfWK2cmM5DZ4VnT7rDnFO) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Call of Duty](https://open.spotify.com/album/4ULxpCQINF17EWAhbE8w2T) | 2:24 |
 | 57 | [Chance \(Na Ham\)](https://open.spotify.com/track/6sHKdsMcu7k8G1ZaVCsYTj) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Billion Dollar Baby](https://open.spotify.com/album/33mcBtk7Vu7uaKjYPvqzKV) | 2:57 |
-| 58 | [Jaboti](https://open.spotify.com/track/1qi9wSY9usNeP5OHfBWtsX) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Jaboti](https://open.spotify.com/album/0Zibh5biKDOCMSjgzpcO6i) | 2:33 |
-| 59 | [Sere](https://open.spotify.com/track/7bhCJLuXAhD7VXkjvwrtG4) | [Evil Beast](https://open.spotify.com/artist/5u8fXdV50qHK0ywnVWbmmw), [Tega Boi Dc](https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M) | [Sere](https://open.spotify.com/album/5fzyuJuRuonlLJDnXzYx8q) | 2:10 |
+| 58 | [Sere](https://open.spotify.com/track/7bhCJLuXAhD7VXkjvwrtG4) | [Evil Beast](https://open.spotify.com/artist/5u8fXdV50qHK0ywnVWbmmw), [Tega Boi Dc](https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M) | [Sere](https://open.spotify.com/album/5fzyuJuRuonlLJDnXzYx8q) | 2:10 |
+| 59 | [Jaboti](https://open.spotify.com/track/1qi9wSY9usNeP5OHfBWtsX) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Jaboti](https://open.spotify.com/album/0Zibh5biKDOCMSjgzpcO6i) | 2:33 |
 | 60 | [Feel Better](https://open.spotify.com/track/2d3hsKUez4aoqs5E0uPyS0) | [Anonymous Music](https://open.spotify.com/artist/4WhsLR2xiykGDAXg1ozqBG), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Feel Better](https://open.spotify.com/album/6PXWungbDlNlNvfZJe42GD) | 2:23 |
 
-Snapshot ID: `MCxiYTdmYzY4ZTliZjNhNmZiNjI2YWZkNWJjMzc5ODhhZGRhNDAzYTU3`
+Snapshot ID: `MCw4N2E5ZDgxMDVmN2M5OTIyNmQ0NmU1M2M3M2Q2YmFlMzcyZmY1YzAy`

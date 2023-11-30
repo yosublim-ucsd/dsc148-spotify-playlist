@@ -4,7 +4,7 @@
 
 > Classic hits from the 50s and 60s.
 
-379 songs - 17 hr 11 min
+380 songs - 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Crying](https://open.spotify.com/track/6eLL7QTdMWdhhG4i3jHDR9) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Crying](https://open.spotify.com/album/21REQ6X34DCAcoxtj654TI) | 2:46 | 2022-03-07 |  |
 | [Crying in the Rain](https://open.spotify.com/track/3lWuagNhAzcqOikD5KnBku) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Golden Hits of The Everly Brothers](https://open.spotify.com/album/3wWjXsqngYcPmd4hQzjNAD) | 2:00 | 2020-12-16 | 2022-10-11 |
 | [Cupid](https://open.spotify.com/track/5Iev69m1Jnf7oc79VvPjpd) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Best of Sam Cooke](https://open.spotify.com/album/2Dpw2XUAsBvuNdNLarNzz8) | 2:38 | 2023-03-04 |  |
-| [Da Doo Ron Ron \(When He Walked Me Home\)](https://open.spotify.com/track/0fonScmHUzC0MglSLn9saA) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Da Doo Ron Ron: The Very Best of The Crystals](https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm) | 2:20 | 2022-03-07 |  |
+| [Da Doo Ron Ron \(When He Walked Me Home\)](https://open.spotify.com/track/0fonScmHUzC0MglSLn9saA) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Da Doo Ron Ron: The Very Best of The Crystals](https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm) | 2:20 | 2022-03-07 | 2023-11-30 |
 | [Dance to the Music](https://open.spotify.com/track/1MQWtVcs0PKsY4PA6ZvLiy) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Dance To The Music](https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX) | 2:59 | 2020-12-16 |  |
 | [Dancing In The Street \- Stereo](https://open.spotify.com/track/5wJcMwXuy1x6EatowWOxha) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [The Definitive Collection](https://open.spotify.com/album/01RvfxmmHb3cmgYHv8ghip) | 2:39 | 2020-12-16 | 2022-11-13 |
 | [Day\-O](https://open.spotify.com/track/3wBEiVtKNaLBRImRtlZRbZ) | [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z) | [All Time Greatest Hits Volume 1](https://open.spotify.com/album/7fi394FGU8dioWCI02DqXr) | 3:03 | 2022-03-07 | 2022-04-20 |
@@ -349,6 +349,7 @@
 | [Walk Right In](https://open.spotify.com/track/4WhT2YADjcU58IUgroWZQZ) | [The Rooftop Singers](https://open.spotify.com/artist/6Gb08eT3LlkGynDscl9vbz) | [Vanguard Visionaries](https://open.spotify.com/album/1BuP3K4tWcL1WSpUcLQHyz) | 2:37 | 2022-03-07 | 2022-04-18 |
 | [Walking To New Orleans \- Remastered](https://open.spotify.com/track/5I3hQNKjCwalENrab1SBtt) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Greatest Hits: Walking To New Orleans](https://open.spotify.com/album/0SFClXD5CAnZ6vzrcTzXgQ) | 2:01 | 2020-12-16 | 2022-07-29 |
 | [Waterloo Sunset](https://open.spotify.com/track/5nrmGFJ87crVoJF5xdRqwn) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Something Else \(Deluxe\)](https://open.spotify.com/album/5ktMgVAJtsv4HagfFliWpR) | 3:14 | 2022-10-11 | 2023-11-19 |
+| [Waterloo Sunset](https://open.spotify.com/track/3G0EALIIp5DAeIERxXBHmo) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Something Else \(Deluxe\)](https://open.spotify.com/album/3n0mKh1yuR5QjX6Vm0GKj2) | 3:14 | 2023-08-03 |  |
 | [We Belong Together](https://open.spotify.com/track/7caj6X6NMX3tlhWnu1du6V) | [Ritchie Valens](https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P) | [Ritchie Valens](https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W) | 1:56 | 2022-10-11 |  |
 | [What A Wonderful World](https://open.spotify.com/track/29U7stRjqHU6rMiS8BfaI9) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) | 2:19 | 2022-10-11 |  |
 | [What Becomes Of The Brokenhearted](https://open.spotify.com/track/0wBaPbJ2qsbGqgnGbqBDgP) | [Jimmy Ruffin](https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy) | [Sings Top Ten](https://open.spotify.com/album/5zRvMt37YxCPddq09ivuPV) | 2:58 | 2022-10-11 | 2022-11-13 |

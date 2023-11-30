@@ -1,12 +1,12 @@
 {
   "description": "Rap de alta gama. Foto: Juice WRLD",
-  "num_followers": 57092,
+  "num_followers": 57156,
   "original_name": "808.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYmMwYjJmMjRjMDRkNzk0NmNjMThkNjRhMzZkNzIyYWMxYzdlM2Q2",
+  "snapshot_id": "MCwxNDFlNjQ2NjUzOTU2ZWYzOTA3NzBlN2JhNDI4Mjc3MGRjMGY0Zjcy",
   "tracks": [
     {
       "added_at": "2023-09-01 14:43:51",
@@ -1091,46 +1091,6 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
-        "name": "Los Bo",
-        "url": "https://open.spotify.com/album/3mJIhr6rLuSoMnGcl4ilrD"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 239120,
-      "name": "Los Bo",
-      "url": "https://open.spotify.com/track/71CIZGbBZR71GfQFB8c2xU"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
-        "name": "Real As It Gets (feat. EST Gee)",
-        "url": "https://open.spotify.com/album/0SO86DCFiwaTqchBpujace"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 192804,
-      "name": "Real As It Gets (feat. EST Gee)",
-      "url": "https://open.spotify.com/track/7eX3um6NpOQKWJMGCi97XD"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
         "name": "Featuring Ty Dolla $ign",
         "url": "https://open.spotify.com/album/1zg6QT0eGqLBlhAT2FPoFj"
       },
@@ -1155,6 +1115,46 @@
       "duration_ms": 231618,
       "name": "Ego Death (feat. Kanye West, FKA twigs & Skrillex)",
       "url": "https://open.spotify.com/track/3Q5cLvkKsHJvYltf8k7HkO"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
+        "name": "Real As It Gets (feat. EST Gee)",
+        "url": "https://open.spotify.com/album/0SO86DCFiwaTqchBpujace"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 192804,
+      "name": "Real As It Gets (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/7eX3um6NpOQKWJMGCi97XD"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
+        "name": "Los Bo",
+        "url": "https://open.spotify.com/album/3mJIhr6rLuSoMnGcl4ilrD"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 239120,
+      "name": "Los Bo",
+      "url": "https://open.spotify.com/track/71CIZGbBZR71GfQFB8c2xU"
     },
     {
       "added_at": "2023-09-01 14:43:51",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
-        "name": "Kobe En LA",
-        "url": "https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 225906,
-      "name": "Kobe En LA",
-      "url": "https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
         "name": "Monarca",
         "url": "https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 165500,
       "name": "Tata",
       "url": "https://open.spotify.com/track/4h4ZykphGhv6HoomNndhm3"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
+        "name": "Kobe En LA",
+        "url": "https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 225906,
+      "name": "Kobe En LA",
+      "url": "https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi"
     },
     {
       "added_at": "2023-09-01 14:43:51",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
+        "name": "Hall of Fame",
+        "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 116256,
+      "name": "GNF (OKOKOK)",
+      "url": "https://open.spotify.com/track/3gntlMjzCV42fREUUbOHCN"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
         "name": "Tren Thomas",
         "url": "https://open.spotify.com/album/63Bc1jFmC0eRj07FrE12tF"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 195807,
       "name": "Tren Thomas",
       "url": "https://open.spotify.com/track/2215X6fteco2cgMa8I8ifV"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
-        "name": "Hall of Fame",
-        "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 116256,
-      "name": "GNF (OKOKOK)",
-      "url": "https://open.spotify.com/track/3gntlMjzCV42fREUUbOHCN"
     },
     {
       "added_at": "2023-09-01 14:43:51",

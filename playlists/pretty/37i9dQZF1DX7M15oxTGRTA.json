@@ -1,12 +1,12 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 88777,
+  "num_followers": 88847,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiM2JlMWRjMzg3YjM5MjJkN2NhNzZiNTY4MGZlN2VkOTFlOThhNzJj",
+  "snapshot_id": "MCxiYWM4Y2M0YmNmYjJhZTQyYjU3ZWVkOTg3OGU4OWVjZGM2NjM2ZTVi",
   "tracks": [
     {
       "added_at": "2023-09-14 19:15:58",
@@ -451,22 +451,18 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "Diana & Marvin",
-        "url": "https://open.spotify.com/album/1jbl32APgmqzDulRIqLQwC"
+        "name": "I've Got So Much To Give",
+        "url": "https://open.spotify.com/album/0ldkrsBFHXhKHlynq8tJVI"
       },
       "artists": [
         {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        },
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 190440,
-      "name": "You Are Everything",
-      "url": "https://open.spotify.com/track/1SjqD5q2WvpjOFIklP7sxD"
+      "duration_ms": 431506,
+      "name": "I'm Gonna Love You Just A Little More Baby",
+      "url": "https://open.spotify.com/track/1QR3Wcba5NBidmxEE8DW3w"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -487,18 +483,22 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "I've Got So Much To Give",
-        "url": "https://open.spotify.com/album/0ldkrsBFHXhKHlynq8tJVI"
+        "name": "Diana & Marvin",
+        "url": "https://open.spotify.com/album/1jbl32APgmqzDulRIqLQwC"
       },
       "artists": [
         {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        },
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
         }
       ],
-      "duration_ms": 431506,
-      "name": "I'm Gonna Love You Just A Little More Baby",
-      "url": "https://open.spotify.com/track/1QR3Wcba5NBidmxEE8DW3w"
+      "duration_ms": 190440,
+      "name": "You Are Everything",
+      "url": "https://open.spotify.com/track/1SjqD5q2WvpjOFIklP7sxD"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "Breakin' Away",
-        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 226066,
-      "name": "We're in This Love Together",
-      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
         "name": "Shadow Dancing",
         "url": "https://open.spotify.com/album/3Ru1PEQBFI88kBIWcPGGS8"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 250200,
       "name": "(Our Love) Don't Throw It All Away",
       "url": "https://open.spotify.com/track/1RsxUuB1Q5OdseLpHMBkEN"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
+        "name": "Breakin' Away",
+        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 226066,
+      "name": "We're in This Love Together",
+      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
+        "name": "Rhythm Nation 1814",
+        "url": "https://open.spotify.com/album/4OD3LU6001esAtFshDX46M"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "duration_ms": 332741,
+      "name": "Come Back To Me",
+      "url": "https://open.spotify.com/track/0NSSqYISjnav81CEn6EgBY"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
         "name": "Patti LaBelle's Greatest Hits",
         "url": "https://open.spotify.com/album/12ENRe4Pw9qXVXz10nng3R"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 283440,
       "name": "On My Own - Single Version",
       "url": "https://open.spotify.com/track/29UXndgjLVTUZ8b1Mhz9CR"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
-        "name": "Rhythm Nation 1814",
-        "url": "https://open.spotify.com/album/4OD3LU6001esAtFshDX46M"
-      },
-      "artists": [
-        {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
-        }
-      ],
-      "duration_ms": 332741,
-      "name": "Come Back To Me",
-      "url": "https://open.spotify.com/track/0NSSqYISjnav81CEn6EgBY"
     },
     {
       "added_at": "2023-09-14 19:15:58",

@@ -1,12 +1,12 @@
 {
   "description": "Left of center indie/alternative LGBTQIA+ artists. Cover: The Japanese House",
-  "num_followers": 143724,
+  "num_followers": 143836,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYmNjZGU4Y2E1MTM0MDkyNGIwMDI5NTgxNmE1OWYxY2E4YjE3NTMy",
+  "snapshot_id": "MCxiYzJkZDVmYzM5ZGJlNTQzMjUwYTU3MmE2YzNhMTMxMGY2NGEyMDlk",
   "tracks": [
     {
       "added_at": "2023-06-01 04:00:00",
@@ -185,24 +185,20 @@
       "url": "https://open.spotify.com/track/52zzYSu7RUsSFn8cZlVjWp"
     },
     {
-      "added_at": "2023-06-01 04:00:00",
+      "added_at": "2023-03-07 19:29:41",
       "album": {
-        "name": "if i were a fish (feat. Olivia Barton)",
-        "url": "https://open.spotify.com/album/4FspuxJM0FCRvV4apMLMaI"
+        "name": "Clean",
+        "url": "https://open.spotify.com/album/36NLDBi2kX7XRHnyLzLOS8"
       },
       "artists": [
         {
-          "name": "corook",
-          "url": "https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt"
-        },
-        {
-          "name": "Olivia Barton",
-          "url": "https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1"
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
         }
       ],
-      "duration_ms": 141903,
-      "name": "if i were a fish (feat. Olivia Barton)",
-      "url": "https://open.spotify.com/track/6uL6HCOsEwvnmCX4cDf65g"
+      "duration_ms": 194009,
+      "name": "Your Dog",
+      "url": "https://open.spotify.com/track/3BpUZB0tw4zNmG3Iw1mclL"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -237,20 +233,24 @@
       "url": "https://open.spotify.com/track/7tLTxOJY6cjQz4aJYMs8Nu"
     },
     {
-      "added_at": "2023-03-07 19:29:41",
+      "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "Clean",
-        "url": "https://open.spotify.com/album/36NLDBi2kX7XRHnyLzLOS8"
+        "name": "if i were a fish (feat. Olivia Barton)",
+        "url": "https://open.spotify.com/album/4FspuxJM0FCRvV4apMLMaI"
       },
       "artists": [
         {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+          "name": "corook",
+          "url": "https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt"
+        },
+        {
+          "name": "Olivia Barton",
+          "url": "https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1"
         }
       ],
-      "duration_ms": 194009,
-      "name": "Your Dog",
-      "url": "https://open.spotify.com/track/3BpUZB0tw4zNmG3Iw1mclL"
+      "duration_ms": 141903,
+      "name": "if i were a fish (feat. Olivia Barton)",
+      "url": "https://open.spotify.com/track/6uL6HCOsEwvnmCX4cDf65g"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -323,18 +323,18 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
-        "name": "Collapsed In Sunbeams",
-        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
+        "name": "Blondshell",
+        "url": "https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8"
       },
       "artists": [
         {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
         }
       ],
-      "duration_ms": 223413,
-      "name": "Eugene",
-      "url": "https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y"
+      "duration_ms": 216852,
+      "name": "Olympus",
+      "url": "https://open.spotify.com/track/2pqi703QQcp2zsuS3NgCii"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -353,6 +353,22 @@
       "url": "https://open.spotify.com/track/6OpU3cvY19M2hFxTbLKy5L"
     },
     {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "Collapsed In Sunbeams",
+        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 223413,
+      "name": "Eugene",
+      "url": "https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y"
+    },
+    {
       "added_at": "2023-06-01 04:00:00",
       "album": {
         "name": "Be Your Man",
@@ -367,22 +383,6 @@
       "duration_ms": 212414,
       "name": "Be Your Man",
       "url": "https://open.spotify.com/track/0vUGBxV9t1nNkmdWYDhHOH"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
-        "name": "Blondshell",
-        "url": "https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        }
-      ],
-      "duration_ms": 216852,
-      "name": "Olympus",
-      "url": "https://open.spotify.com/track/2pqi703QQcp2zsuS3NgCii"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
-        "name": "Set My Heart On Fire Immediately",
-        "url": "https://open.spotify.com/album/5qWrp5RcqjxB8ak7dtK6Iv"
-      },
-      "artists": [
-        {
-          "name": "Perfume Genius",
-          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
-        }
-      ],
-      "duration_ms": 303600,
-      "name": "On the Floor",
-      "url": "https://open.spotify.com/track/05HElY3EVth4SMuOJOGusl"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
         "name": "Valentine",
         "url": "https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 196173,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/1RcGoniZzjY3oOatGifYK1"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "Set My Heart On Fire Immediately",
+        "url": "https://open.spotify.com/album/5qWrp5RcqjxB8ak7dtK6Iv"
+      },
+      "artists": [
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+        }
+      ],
+      "duration_ms": 303600,
+      "name": "On the Floor",
+      "url": "https://open.spotify.com/track/05HElY3EVth4SMuOJOGusl"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -849,22 +849,6 @@
       "url": "https://open.spotify.com/track/3WD3w5uSzAGJWrNFnHhi1a"
     },
     {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "like everyone else",
-        "url": "https://open.spotify.com/album/1vd3pYHU1ajgRU4iYWDKVk"
-      },
-      "artists": [
-        {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
-        }
-      ],
-      "duration_ms": 201133,
-      "name": "like everyone else",
-      "url": "https://open.spotify.com/track/0ygbYIcGd0PULV4ykfff5J"
-    },
-    {
       "added_at": "2023-03-07 19:29:41",
       "album": {
         "name": "Set My Heart On Fire Immediately",
@@ -879,6 +863,22 @@
       "duration_ms": 185826,
       "name": "Jason",
       "url": "https://open.spotify.com/track/34B5INdEjbTXvNkCC5GtYz"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "like everyone else",
+        "url": "https://open.spotify.com/album/1vd3pYHU1ajgRU4iYWDKVk"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "duration_ms": 201133,
+      "name": "like everyone else",
+      "url": "https://open.spotify.com/track/0ygbYIcGd0PULV4ykfff5J"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -1057,22 +1057,6 @@
       "url": "https://open.spotify.com/track/75IJJjmjryq1SGHWlcMj2K"
     },
     {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "Tears can be so soft",
-        "url": "https://open.spotify.com/album/1OdiuYoGwzTCuIiSu5v20O"
-      },
-      "artists": [
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        }
-      ],
-      "duration_ms": 311928,
-      "name": "Tears can be so soft",
-      "url": "https://open.spotify.com/track/47UhZ9fjTEIOjOe4gktZN9"
-    },
-    {
       "added_at": "2023-03-07 19:29:41",
       "album": {
         "name": "Someone Else",
@@ -1087,6 +1071,22 @@
       "duration_ms": 207946,
       "name": "Someone Else",
       "url": "https://open.spotify.com/track/43tQOLiTfoVwURdx5Ei7yr"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Tears can be so soft",
+        "url": "https://open.spotify.com/album/1OdiuYoGwzTCuIiSu5v20O"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "duration_ms": 311928,
+      "name": "Tears can be so soft",
+      "url": "https://open.spotify.com/track/47UhZ9fjTEIOjOe4gktZN9"
     },
     {
       "added_at": "2023-06-01 04:00:00",

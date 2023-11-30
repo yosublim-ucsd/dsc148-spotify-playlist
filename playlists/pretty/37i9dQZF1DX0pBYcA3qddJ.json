@@ -1,12 +1,12 @@
 {
   "description": "\u591c\u306b\u306a\u308b\u4e00\u6b69\u624b\u524d\u306e\u6642\u523b\u306b\u4e00\u77ac\u3067\u3082\u30ea\u30e9\u30c3\u30af\u30b9\u3067\u304d\u308b\u3088\u3046\u306a\u3001\u97f3\u97ff\u7cfb\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u3068\u30af\u30e9\u30b7\u30c3\u30af\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u3002",
-  "num_followers": 51447,
+  "num_followers": 51470,
   "original_name": "\u9759\u5bc2\u3068\u9ec4\u660f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTIzZjc5Y2QyYTA0ZTk5ZjVkMDVhZWM4NWMzNzg1MDNkY2U2ZTBj",
+  "snapshot_id": "MCwyMGMwZGMyN2EwY2RmMmE1MmQ3ZTRlYTU0NmU1M2Y4YTNjMmFjN2Rk",
   "tracks": [
     {
       "added_at": "2023-11-28 15:00:00",
@@ -531,8 +531,8 @@
     {
       "added_at": "2023-11-28 15:00:00",
       "album": {
-        "name": "\u30ea\u30b9\u30c8: \u30d4\u30a2\u30ce\u30fb\u30bd\u30ca\u30bf",
-        "url": "https://open.spotify.com/album/4r4ElrIYKSbUrSJOVfQACQ"
+        "name": "Liszt: Piano Sonata",
+        "url": "https://open.spotify.com/album/5XNVrljXjcwKnzo2YHUjrY"
       },
       "artists": [
         {
@@ -545,8 +545,8 @@
         }
       ],
       "duration_ms": 721906,
-      "name": "\u30d4\u30a2\u30ce\u30fb\u30bd\u30ca\u30bf \u30ed\u77ed\u8abf S.178 Lento assai - Allegro energico",
-      "url": "https://open.spotify.com/track/1SzoVGg51SC9ecy3wIMhOu"
+      "name": "Piano Sonata in B Minor, S. 178: Lento assai - Allegro energico",
+      "url": "https://open.spotify.com/track/7dS8h3dvUTyxzuppAZdPEe"
     },
     {
       "added_at": "2023-11-28 15:00:00",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2023-11-28 15:00:00",
       "album": {
-        "name": "Sentimental",
-        "url": "https://open.spotify.com/album/7vcX2nndbcQzkpqJbatqM2"
+        "name": "Remember When",
+        "url": "https://open.spotify.com/album/4s84jh2NBDv4HF7iRysA3U"
       },
       "artists": [
         {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
         }
       ],
-      "duration_ms": 218021,
-      "name": "Sentimental",
-      "url": "https://open.spotify.com/track/5zQraIoPAXGCBRx9spNtCn"
+      "duration_ms": 192079,
+      "name": "Remember When",
+      "url": "https://open.spotify.com/track/1KyLAl3R61UiXK9o14SUJm"
     },
     {
       "added_at": "2023-11-28 15:00:00",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2023-11-28 15:00:00",
       "album": {
-        "name": "Remember When",
-        "url": "https://open.spotify.com/album/4s84jh2NBDv4HF7iRysA3U"
+        "name": "Sentimental",
+        "url": "https://open.spotify.com/album/7vcX2nndbcQzkpqJbatqM2"
       },
       "artists": [
         {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
         }
       ],
-      "duration_ms": 192079,
-      "name": "Remember When",
-      "url": "https://open.spotify.com/track/1KyLAl3R61UiXK9o14SUJm"
+      "duration_ms": 218021,
+      "name": "Sentimental",
+      "url": "https://open.spotify.com/track/5zQraIoPAXGCBRx9spNtCn"
     },
     {
       "added_at": "2023-11-28 15:00:00",
@@ -1163,18 +1163,22 @@
     {
       "added_at": "2023-11-28 15:00:00",
       "album": {
-        "name": "NOCHE",
-        "url": "https://open.spotify.com/album/4miUxGfTsngMRsrVKwB2D4"
+        "name": "Lost At Sea",
+        "url": "https://open.spotify.com/album/5z82RVDMCeczopEXA5JghQ"
       },
       "artists": [
         {
-          "name": "Sofiane Pamart",
-          "url": "https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg"
+          "name": "Rob Grant",
+          "url": "https://open.spotify.com/artist/5Y1ry2fgj4VzEjWndZu8Rw"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 136881,
-      "name": "Vera",
-      "url": "https://open.spotify.com/track/5Lu0PGLEEPGNtj1YOREOCe"
+      "duration_ms": 187906,
+      "name": "Lost at Sea",
+      "url": "https://open.spotify.com/track/6N7NO9Z1Hi6la8dqG3Aoew"
     },
     {
       "added_at": "2023-11-28 15:00:00",
@@ -1207,22 +1211,18 @@
     {
       "added_at": "2023-11-28 15:00:00",
       "album": {
-        "name": "Lost At Sea",
-        "url": "https://open.spotify.com/album/5z82RVDMCeczopEXA5JghQ"
+        "name": "NOCHE",
+        "url": "https://open.spotify.com/album/4miUxGfTsngMRsrVKwB2D4"
       },
       "artists": [
         {
-          "name": "Rob Grant",
-          "url": "https://open.spotify.com/artist/5Y1ry2fgj4VzEjWndZu8Rw"
-        },
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "Sofiane Pamart",
+          "url": "https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg"
         }
       ],
-      "duration_ms": 187906,
-      "name": "Lost at Sea",
-      "url": "https://open.spotify.com/track/6N7NO9Z1Hi6la8dqG3Aoew"
+      "duration_ms": 136881,
+      "name": "Vera",
+      "url": "https://open.spotify.com/track/5Lu0PGLEEPGNtj1YOREOCe"
     },
     {
       "added_at": "2023-11-28 15:00:00",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2023-11-28 15:00:00",
       "album": {
-        "name": "Nocturnes op.3",
-        "url": "https://open.spotify.com/album/6blHb8WgNhwNNPJURD6ZMT"
+        "name": "ITEIAD Sessions",
+        "url": "https://open.spotify.com/album/49FYWXZPpRXP2wewK6PRhu"
       },
       "artists": [
         {
-          "name": "Taichi Chishaki",
-          "url": "https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ"
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
         }
       ],
-      "duration_ms": 154714,
-      "name": "Nocturnes op.3",
-      "url": "https://open.spotify.com/track/2n4tgkKIrN1DPOUamOFnrO"
+      "duration_ms": 179091,
+      "name": "Super Trouper",
+      "url": "https://open.spotify.com/track/6NDRkX3h4iiyKcJOngaVZ8"
     },
     {
       "added_at": "2023-11-28 15:00:00",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2023-11-28 15:00:00",
       "album": {
-        "name": "ITEIAD Sessions",
-        "url": "https://open.spotify.com/album/49FYWXZPpRXP2wewK6PRhu"
+        "name": "Nocturnes op.3",
+        "url": "https://open.spotify.com/album/6blHb8WgNhwNNPJURD6ZMT"
       },
       "artists": [
         {
-          "name": "The Japanese House",
-          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+          "name": "Taichi Chishaki",
+          "url": "https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ"
         }
       ],
-      "duration_ms": 179091,
-      "name": "Super Trouper",
-      "url": "https://open.spotify.com/track/6NDRkX3h4iiyKcJOngaVZ8"
+      "duration_ms": 154714,
+      "name": "Nocturnes op.3",
+      "url": "https://open.spotify.com/track/2n4tgkKIrN1DPOUamOFnrO"
     },
     {
       "added_at": "2023-11-28 15:00:00",
@@ -1568,7 +1568,7 @@
       "added_at": "2023-11-28 15:00:00",
       "album": {
         "name": "BTTB - 20th Anniversary Edition",
-        "url": "https://open.spotify.com/album/6HdFNj6bhQQewtNupqVu5J"
+        "url": "https://open.spotify.com/album/4MI7PELbBbWJrTgAX1nbKR"
       },
       "artists": [
         {
@@ -1578,7 +1578,7 @@
       ],
       "duration_ms": 272501,
       "name": "energy flow",
-      "url": "https://open.spotify.com/track/6rXnP6n3myylS9PV4N53ID"
+      "url": "https://open.spotify.com/track/38hwMaB4DWUhAWdyk1VljB"
     },
     {
       "added_at": "2023-11-28 15:00:00",

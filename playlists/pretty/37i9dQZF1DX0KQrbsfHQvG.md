@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KQrbsfHQvG.md) - [plain]
 
 > Get up\. Stand up\. Be the revolution.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,429 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,488 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KQrbsfHQvG.md) - [plain]
 | 37 | [Save Us](https://open.spotify.com/track/3fHpYJimyZ4Nzk3mHgRTBk) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Baptize](https://open.spotify.com/album/0onI0aisDxDHLmhgjD5tYF) | 2:21 |
 | 38 | [Machine Gun \(F\*\*k The NRA\)](https://open.spotify.com/track/223Ng7eyUcCmFwX9lZdqjD) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [21st Century Liability](https://open.spotify.com/album/1p64R5tjTpC2oH24YLdQgq) | 3:13 |
 | 39 | [Heroes](https://open.spotify.com/track/3mwLIWu6drN0n6t9e5bwjG) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Us and Them \(Deluxe Edition\)](https://open.spotify.com/album/311sQUy4H8IFHsY9j8kx5q) | 3:24 |
-| 40 | [Hail To The Victor](https://open.spotify.com/track/64gbzSMPloO2SNBTk3PG3h) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [AMERICA](https://open.spotify.com/album/0XcHdI2ZyNADjfvo5Ubs39) | 3:21 |
-| 41 | [DOA \[Feat\. Joyner Lucas\]](https://open.spotify.com/track/78fUyqhfdpL5aaD12QSGCi) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V), [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [DOA \[Feat\. Joyner Lucas\]](https://open.spotify.com/album/4mcoqib00QAFwabXPGH9kY) | 3:38 |
+| 40 | [DOA \[Feat\. Joyner Lucas\]](https://open.spotify.com/track/78fUyqhfdpL5aaD12QSGCi) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V), [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [DOA \[Feat\. Joyner Lucas\]](https://open.spotify.com/album/4mcoqib00QAFwabXPGH9kY) | 3:38 |
+| 41 | [Hail To The Victor](https://open.spotify.com/track/64gbzSMPloO2SNBTk3PG3h) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [AMERICA](https://open.spotify.com/album/0XcHdI2ZyNADjfvo5Ubs39) | 3:21 |
 | 42 | [American Attraction](https://open.spotify.com/track/7p2xDNGlBBTQu2YEb6qLqG) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Fall](https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts) | 2:56 |
 | 43 | [Rise](https://open.spotify.com/track/66bz5iH5p8zBSbgvs84ygh) | [Sixx:A.M.](https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6) | [Prayers for the Damned](https://open.spotify.com/album/1BRJvLviuSqyFpInvec0lk) | 3:53 |
 | 44 | [Prophets Of Rage](https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg) | [Prophets Of Rage](https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY) | [Prophets Of Rage](https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j) | 3:10 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KQrbsfHQvG.md) - [plain]
 | 69 | [This Land \- Single Version](https://open.spotify.com/track/3lCfyDeaEYxEvJSnhv1ek3) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [This Land](https://open.spotify.com/album/5ddGu25wPSngfwhehpaFpR) | 3:56 |
 | 70 | [Stand Up \(Tom Morello, Shea Diamond, Dan Reynolds & The Bloody Beetroots\)](https://open.spotify.com/track/0FdCFfb5xb7thJMaSjLFsH) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Shea Diamond](https://open.spotify.com/artist/5blcro89qJueGv0DGQ2rsH), [Dan Reynolds](https://open.spotify.com/artist/3k3gbUT7bF0jYmFmAKBQtU), [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5) | [Stand Up \(Tom Morello, Shea Diamond, Dan Reynolds & The Bloody Beetroots\)](https://open.spotify.com/album/0aMmyg5wDhpn0DDY7sjfyE) | 3:13 |
 | 71 | [Polygraph Eyes](https://open.spotify.com/track/1PlODCjGsbZRKlDljoBd4m) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [YUNGBLUD](https://open.spotify.com/album/7HNJT97QuNFvJLUpQXCIp3) | 3:43 |
-| 72 | [Can't Deny Me](https://open.spotify.com/track/4PwGt5dBTmdRu4HTN8ZWgR) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Can't Deny Me](https://open.spotify.com/album/7N3t4G1okTBsoQ6dBmPXAV) | 2:43 |
-| 73 | [The Culling](https://open.spotify.com/track/5y6QzkFz2fuy3RbLxS2oCj) | [Everlast](https://open.spotify.com/artist/14ZxDAK6ITtZZqPdiWrvSn) | [Whitey Ford's House of Pain](https://open.spotify.com/album/79W0NJcUJHuQpvygtu6Mj7) | 3:14 |
+| 72 | [The Culling](https://open.spotify.com/track/5y6QzkFz2fuy3RbLxS2oCj) | [Everlast](https://open.spotify.com/artist/14ZxDAK6ITtZZqPdiWrvSn) | [Whitey Ford's House of Pain](https://open.spotify.com/album/79W0NJcUJHuQpvygtu6Mj7) | 3:14 |
+| 73 | [Can't Deny Me](https://open.spotify.com/track/4PwGt5dBTmdRu4HTN8ZWgR) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Can't Deny Me](https://open.spotify.com/album/7N3t4G1okTBsoQ6dBmPXAV) | 2:43 |
 | 74 | [Power \(feat\. Frank Carter\)](https://open.spotify.com/track/1hoNvw0gHJTRYWuFRGuk8I) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU), [Frank Carter](https://open.spotify.com/artist/1DzJ1Edw9hfy8sVnkAnhCf) | [Foreign Language](https://open.spotify.com/album/60awL9wRAPqkETLzNgVGvi) | 1:52 |
 | 75 | [We Won’t Go Back](https://open.spotify.com/track/1IdQoRuVaRyJlU5YwTLG3F) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8), [BIIANCO](https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt), [Autumn Rowe](https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH), [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [We Won’t Go Back](https://open.spotify.com/album/1CUsQWiNWr3LmAfB56Kpmm) | 3:20 |
 
-Snapshot ID: `MCwzOGFkZDA0MGQ5N2FkYjE5YjBhNGRhMmU3NDU4MDgxZDllOTA1MzVk`
+Snapshot ID: `MCxkZGU4OWRmY2Y5OWRiNDNmYTI3MmViNTgwM2UyYTA4MTc4YTcyOGVj`

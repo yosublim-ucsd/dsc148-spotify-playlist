@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 
 > Los próceres de la historia del rock nacional\. Julieta Venegas en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 519,135 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 519,267 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 | 74 | [Mi Vida es un Tango](https://open.spotify.com/track/7dCOvIWIepwEn9Vxa2dpR6) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Salon Victoria](https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o) | 3:03 |
 | 75 | [Un Toque Mágico](https://open.spotify.com/track/39bxZQn6wJ4TmO6ZoY9AhJ) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Lo Mejor de Tex Tex](https://open.spotify.com/album/1yicTVpvbAWlZMPdiyXf0X) | 4:14 |
 | 76 | [Cada Vez Que Me Voy](https://open.spotify.com/track/2poAH0O2ori8T3SJztgv4Q) | [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB) | [D.D\. Y Ponle Play](https://open.spotify.com/album/4LXKLEQwKSOPTjdQJ12AZW) | 2:54 |
-| 77 | [Tres Lunares](https://open.spotify.com/track/0THa3Vl0Ad1ksflpK10AJw) | [Kerigma](https://open.spotify.com/artist/7t3VRQukdpeWyhKTgodDxB) | [Esquizofrenia](https://open.spotify.com/album/2KAIEIj96L0yLif1Urh3Mr) | 4:10 |
-| 78 | [Ella Es Azul](https://open.spotify.com/track/3FEOiLNmS51wlq4ZcouLj6) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA) | [Volovan](https://open.spotify.com/album/7jSqVU6kH01jgroHwYXBSr) | 3:29 |
+| 77 | [Ella Es Azul](https://open.spotify.com/track/3FEOiLNmS51wlq4ZcouLj6) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA) | [Volovan](https://open.spotify.com/album/7jSqVU6kH01jgroHwYXBSr) | 3:29 |
+| 78 | [Tres Lunares](https://open.spotify.com/track/0THa3Vl0Ad1ksflpK10AJw) | [Kerigma](https://open.spotify.com/artist/7t3VRQukdpeWyhKTgodDxB) | [Esquizofrenia](https://open.spotify.com/album/2KAIEIj96L0yLif1Urh3Mr) | 4:10 |
 | 79 | [Ojos Claros, Labios Rosas](https://open.spotify.com/track/34tCEtUZP9JaPZ6KqFUHvh) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Sweet & Sour \- Hot & Spicy](https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7) | 4:22 |
 | 80 | [Chavo de Onda](https://open.spotify.com/track/5OefRQlG7PuOMXuRLq5wuf) | [Three Souls In My Mind](https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R) | [Adicto al Rock N Roll](https://open.spotify.com/album/5V0WSZ1ihWk7bbDZ9O4LoQ) | 3:28 |
 | 81 | [El Último Ska](https://open.spotify.com/track/5xx3UJqIo8SsSc00znFPtK) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [Dub Inc](https://open.spotify.com/artist/0fSuChlRe8ZYtVFYDoG87U) | [El Último Ska](https://open.spotify.com/album/6Nk8Oethod52ndZwJ5FOI0) | 4:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 | 99 | [No Huyas De Mi](https://open.spotify.com/track/3MYGzRPoLWZGu939zvB9Po) | [Kenny y los Eléctricos](https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N) | [Rock en Español 80's & 90's](https://open.spotify.com/album/4DkxlFoBgGH9EPp1bG6MKh) | 3:47 |
 | 100 | [Voto Latino](https://open.spotify.com/track/3w8eRp9mjGY48zpmIJ920R) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Donde Jugaran Las Niñas](https://open.spotify.com/album/7h9NpO38NZFD8vcEHw4lkZ) | 2:58 |
 
-Snapshot ID: `MCxlNDk4Zjg2YjlmM2QwZjE0ZTllN2Y3NmMwZjdmYWRmZGNhY2U1ZGM3`
+Snapshot ID: `MCw4OTZiMjdjNjNlZjE2MTI2OTIzZmFkMWZmNTQzNzQ1MmZhOTdjM2Nm`

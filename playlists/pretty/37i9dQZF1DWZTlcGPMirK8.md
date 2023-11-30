@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 
 > The biggest pop hits to come from the land down under.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,023 likes - 70 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,021 likes - 70 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 | 29 | [Cosby Sweater](https://open.spotify.com/track/6myDPrp86x4Lhyp5aqU0EV) | [Hilltop Hoods](https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4) | [Walking Under Stars](https://open.spotify.com/album/7Lp5k5j4kHtTT8zOpJkfUN) | 3:37 |
 | 30 | [Fire and the Flood](https://open.spotify.com/track/6liNJDyWJjyHAgDnAX95bw) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 4:09 |
 | 31 | [Love Is in the Air](https://open.spotify.com/track/4v2K1ZcRXUc87CLtEXI3Pf) | [John Paul Young](https://open.spotify.com/artist/2wMcQIxzH2LYHJZNxo9FcN) | [Classic Hits](https://open.spotify.com/album/03T5bXMySvcTGqm8RpIJsV) | 3:28 |
-| 32 | [I Touch Myself](https://open.spotify.com/track/6oNvmplQGUkmAh441Teows) | [Divinyls](https://open.spotify.com/artist/5t06MTkDD3yr5LVs3YFLQC) | [Divinyls](https://open.spotify.com/album/50bQGJWB4VoD1GY3c4vYbv) | 3:47 |
+| 32 | [Untouched](https://open.spotify.com/track/0KlahhzNb98zyN83Vwae0l) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Hook Me Up](https://open.spotify.com/album/6aL2SwYj5kSEvIcYORHP37) | 4:15 |
 | 33 | [YOUTH](https://open.spotify.com/track/1cOyWWUr3oXJIxY0AjJEx9) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Blue Neighbourhood \(Deluxe\)](https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW) | 3:05 |
-| 34 | [Untouched](https://open.spotify.com/track/0KlahhzNb98zyN83Vwae0l) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Hook Me Up](https://open.spotify.com/album/6aL2SwYj5kSEvIcYORHP37) | 4:15 |
+| 34 | [I Touch Myself](https://open.spotify.com/track/6oNvmplQGUkmAh441Teows) | [Divinyls](https://open.spotify.com/artist/5t06MTkDD3yr5LVs3YFLQC) | [Divinyls](https://open.spotify.com/album/50bQGJWB4VoD1GY3c4vYbv) | 3:47 |
 | 35 | [Amnesia](https://open.spotify.com/track/1JCCdiru7fhstOIF4N7WJC) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5 Seconds Of Summer](https://open.spotify.com/album/2LkWHNNHgD6BRNeZI2SL1L) | 3:57 |
 | 36 | [Lay It on Me](https://open.spotify.com/track/7oekneJCJO74ycdLzdk16v) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:35 |
 | 37 | [1955](https://open.spotify.com/track/6oSmp7qnvAxUXeUKhl67a6) | [Hilltop Hoods](https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4), [Montaigne](https://open.spotify.com/artist/1ZcnsSFqWusWlRK01vKE6b), [Tom Thum](https://open.spotify.com/artist/41Sy5j6hSOXJ6Pl1yR296B) | [Drinking From The Sun, Walking Under Stars Restrung](https://open.spotify.com/album/4ijUWjOHZ5VnUADcOsL1vS) | 3:59 |
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 | 60 | [Better in Blak](https://open.spotify.com/track/1c5iUY7Zg1SxtROg1yr5ad) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Better in Blak](https://open.spotify.com/album/0QuumkXPKBWR7wOKUfqQ34) | 3:12 |
 | 61 | [We Run The Night](https://open.spotify.com/track/0mtPNQl5vePVwiI9Vykp7L) | [Havana Brown](https://open.spotify.com/artist/1EVWYRr2obCRDoSoD6KSuM), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [We Run The Night](https://open.spotify.com/album/5sXFvaw0RB34LqKvJYQcaI) | 3:48 |
 | 62 | [Calypso](https://open.spotify.com/track/6qWG7dpOSs5dfgJ7d35am5) | [Spiderbait](https://open.spotify.com/artist/6P7kkhED6EPrfoZuxz20Fo) | [Ivy & The Big Apples](https://open.spotify.com/album/39vgclyyab7l2WMMUTmdmC) | 1:51 |
-| 63 | [In the Summertime \- Single Version](https://open.spotify.com/track/5r7XHPnTPeLKcBeDMLzkse) | [Thirsty Merc](https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no) | [In The Summertime](https://open.spotify.com/album/1x4C6S1FIkcRBFwYDWFEen) | 3:48 |
-| 64 | [Kiss Kiss](https://open.spotify.com/track/5TWL2K9Q9QuUTW15I6ZLpP) | [Holly Valance](https://open.spotify.com/artist/7gRmesSjINzb4xXApfMV5E) | [Footprints](https://open.spotify.com/album/0canrrqYujUeehzkS9sUZV) | 3:24 |
-| 65 | [Xanadu](https://open.spotify.com/track/4zdspHPxpExPiU8RolxBUH) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Xanadu](https://open.spotify.com/album/0dWzFLXRM8F1IsEYdKopAa) | 3:28 |
-| 66 | [The Loco\-Motion](https://open.spotify.com/track/2hBR3npBmnfr1VWB3O64Jt) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie](https://open.spotify.com/album/7lZXsT33rkuXF3WBZc5rQv) | 3:13 |
+| 63 | [The Loco\-Motion](https://open.spotify.com/track/2hBR3npBmnfr1VWB3O64Jt) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie](https://open.spotify.com/album/7lZXsT33rkuXF3WBZc5rQv) | 3:13 |
+| 64 | [In the Summertime \- Single Version](https://open.spotify.com/track/5r7XHPnTPeLKcBeDMLzkse) | [Thirsty Merc](https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no) | [In The Summertime](https://open.spotify.com/album/1x4C6S1FIkcRBFwYDWFEen) | 3:48 |
+| 65 | [Kiss Kiss](https://open.spotify.com/track/5TWL2K9Q9QuUTW15I6ZLpP) | [Holly Valance](https://open.spotify.com/artist/7gRmesSjINzb4xXApfMV5E) | [Footprints](https://open.spotify.com/album/0canrrqYujUeehzkS9sUZV) | 3:24 |
+| 66 | [Xanadu](https://open.spotify.com/track/4zdspHPxpExPiU8RolxBUH) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Xanadu](https://open.spotify.com/album/0dWzFLXRM8F1IsEYdKopAa) | 3:28 |
 | 67 | [Lost Without You](https://open.spotify.com/track/1w0JL6vJdl82xqyRW30HrK) | [Delta Goodrem](https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR) | [Innocent Eyes](https://open.spotify.com/album/26h1O5W89WLiEzxTztbGfu) | 4:08 |
 | 68 | [Shiver](https://open.spotify.com/track/2ZudaDYcCTgqqYPV0TrNn8) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [Counting Down The Days](https://open.spotify.com/album/1PD3hNs0PRMtOeU11DPpim) | 3:42 |
 | 69 | [Catch My Disease](https://open.spotify.com/track/4vqHz44pzFSfDNIE20QRBu) | [Ben Lee](https://open.spotify.com/artist/06y1hH4hu3rcTUXHJevPCf) | [Awake Is the New Sleep](https://open.spotify.com/album/4LiDSTPH86zTRUFnu7tYam) | 4:14 |
-| 70 | [Regular Touch](https://open.spotify.com/track/2qiYw6eNM2rwv2vgtzH5o5) | [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Perennial](https://open.spotify.com/album/735RlBqveqycIrQgyld7JK) | 3:28 |
+| 70 | [20 Good Reasons](https://open.spotify.com/track/7uCQb1MoL0kC4nw6WsGk38) | [Thirsty Merc](https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no) | [Slideshows](https://open.spotify.com/album/72ofNtyCnr54WRoZa6K289) | 3:49 |
 
-Snapshot ID: `MCwzMWEyYTlkYjNkMzcwMDM2ZDZkNzlkZTkzNzQ1NzA1OTE3ZDE0NWZl`
+Snapshot ID: `MCw1YzUwMDE1M2ZhZWJkNTZjNWQ2YzUzYjdmMDRiMDk3MjZlYmY4YmI2`

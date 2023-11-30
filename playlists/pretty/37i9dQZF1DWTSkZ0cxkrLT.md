@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSkZ0cxkrLT.md) - [plain]
 
 > Música ideal para tomar el té y relajar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,825 likes - 90 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,855 likes - 90 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,10 +93,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSkZ0cxkrLT.md) - [plain]
 | 83 | [Una Vez Más](https://open.spotify.com/track/6OOxQbWcBMCcucTsQnS7yu) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Una Vez Más](https://open.spotify.com/album/4MMZysMSiZxdQo34c2r8Gi) | 3:37 |
 | 84 | [Viernes](https://open.spotify.com/track/3kc4EBrXw7K3ACbeODqFOD) | [Molok0](https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J) | [Viernes](https://open.spotify.com/album/7xgun8d6qqSI66tIUQEZR0) | 3:11 |
 | 85 | [Me Entrego](https://open.spotify.com/track/2lft7FPs5Js1tYbwZ99wvc) | [Juan Solo](https://open.spotify.com/artist/033ki1tu7MbVUn1nhuD2yV), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Me Entrego](https://open.spotify.com/album/2jhUW0bDLjyfORs3KGiuS4) | 3:27 |
-| 86 | [Sensei](https://open.spotify.com/track/2KZPFCkQWT7Wt6OS4bPaF6) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Sensei](https://open.spotify.com/album/4UmvMCp8mznPpqY65qKz5X) | 2:54 |
-| 87 | [Tu Pirata Soy Yo](https://open.spotify.com/track/6O1o9VfjMgZEZeir5Ws6pF) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Tu Pirata Soy Yo](https://open.spotify.com/album/3CK1MWQvuf8LVJWhmldkUU) | 2:47 |
+| 86 | [Tu Pirata Soy Yo](https://open.spotify.com/track/6O1o9VfjMgZEZeir5Ws6pF) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Tu Pirata Soy Yo](https://open.spotify.com/album/3CK1MWQvuf8LVJWhmldkUU) | 2:47 |
+| 87 | [Sensei](https://open.spotify.com/track/2KZPFCkQWT7Wt6OS4bPaF6) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Sensei](https://open.spotify.com/album/4UmvMCp8mznPpqY65qKz5X) | 2:54 |
 | 88 | [Ojitos de Md \- Remix](https://open.spotify.com/track/6otnCYlQqNYVZqNrSHn1AF) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Ojitos de Md \(Remix\)](https://open.spotify.com/album/3gYti5PmUFrV9NnJim60Ik) | 2:50 |
-| 89 | [BIG BANG](https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [BIG BANG](https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS) | 3:03 |
-| 90 | [Quiero \- Acústico](https://open.spotify.com/track/3fnc1SnKSPWTFG2B0MKa3f) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Canciones para escuchar en el río](https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk) | 2:45 |
+| 89 | [Quiero \- Acústico](https://open.spotify.com/track/3fnc1SnKSPWTFG2B0MKa3f) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Canciones para escuchar en el río](https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk) | 2:45 |
+| 90 | [BIG BANG](https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [BIG BANG](https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS) | 3:03 |
 
-Snapshot ID: `MCwzNTdjNWNiOWE5M2I5OGIzY2Q3ZTIyZjEzMTA0YjNmMjE2N2VmY2Rh`
+Snapshot ID: `MCw0NDcwZDkwNWU2N2M1NzE1ZmZhNWU0MGYyZjIxYTljYzI4NDI4ZGJk`

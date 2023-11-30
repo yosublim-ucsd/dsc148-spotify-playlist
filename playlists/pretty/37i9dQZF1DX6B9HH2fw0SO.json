@@ -1,12 +1,12 @@
 {
   "description": "2015 highlights from the home of indie music.",
-  "num_followers": 56876,
+  "num_followers": 56930,
   "original_name": "Best of Indie 2015",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzkyYzdlMjRkNmNiZWVmNGJjZDE0ZmIzYWNmMzFlNzVlY2QwM2Zl",
+  "snapshot_id": "MCw5MTZhNjQ0Y2NlOTk3Yjg5MDliNDg2YzYxOTQxMjg1ZjZhYzQ1MTg1",
   "tracks": [
     {
       "added_at": "2021-09-14 05:14:45",
@@ -703,22 +703,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "b'lieve i'm goin down...",
-        "url": "https://open.spotify.com/album/07W2z9W0uWJPdG8Po0MDiR"
-      },
-      "artists": [
-        {
-          "name": "Kurt Vile",
-          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
-        }
-      ],
-      "duration_ms": 298760,
-      "name": "Pretty Pimpin",
-      "url": "https://open.spotify.com/track/47cNDW1xyM03mT2kseO41a"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Tell Me I'm Pretty",
         "url": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 173173,
       "name": "Mess Around",
       "url": "https://open.spotify.com/track/0X0Lz7LwpiIWcdGqVWaxXD"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "b'lieve i'm goin down...",
+        "url": "https://open.spotify.com/album/07W2z9W0uWJPdG8Po0MDiR"
+      },
+      "artists": [
+        {
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+        }
+      ],
+      "duration_ms": 298760,
+      "name": "Pretty Pimpin",
+      "url": "https://open.spotify.com/track/47cNDW1xyM03mT2kseO41a"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Prologue",
-        "url": "https://open.spotify.com/album/4LX7YTmfrI758TVF1xSvtt"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 227368,
-      "name": "Painting Greys",
-      "url": "https://open.spotify.com/track/00ML9bd4jcQYGJ1h9dWR2q"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Treasure - EP",
         "url": "https://open.spotify.com/album/0pMPk0E9YCgU1PzxDViKf5"
       },
@@ -1439,18 +1423,18 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Why Make Sense? (Definitive Version)",
-        "url": "https://open.spotify.com/album/1ID4yRgxYUutcLKzYDcln4"
+        "name": "Prologue",
+        "url": "https://open.spotify.com/album/4LX7YTmfrI758TVF1xSvtt"
       },
       "artists": [
         {
-          "name": "Hot Chip",
-          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
         }
       ],
-      "duration_ms": 285565,
-      "name": "Need You Now",
-      "url": "https://open.spotify.com/track/5MRYyecW552BEq2nRBfIQX"
+      "duration_ms": 227368,
+      "name": "Painting Greys",
+      "url": "https://open.spotify.com/track/00ML9bd4jcQYGJ1h9dWR2q"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1471,6 +1455,22 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
+        "name": "Why Make Sense? (Definitive Version)",
+        "url": "https://open.spotify.com/album/1ID4yRgxYUutcLKzYDcln4"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        }
+      ],
+      "duration_ms": 285565,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/5MRYyecW552BEq2nRBfIQX"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
         "name": "Are You Alone?",
         "url": "https://open.spotify.com/album/732AeYhmKrOSU0G3pPnlkB"
       },
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 258860,
-      "name": "Hollow Moon (Bad Wolf)",
-      "url": "https://open.spotify.com/track/7cfr3F2jpzjwqL6ZhGfjtH"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Hold My Home (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0TVRC5LerpnNkti1gWsuW7"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 188106,
       "name": "All This Could Be Yours",
       "url": "https://open.spotify.com/track/1bbcAQuGuAxKS1HM96B8uh"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 258860,
+      "name": "Hollow Moon (Bad Wolf)",
+      "url": "https://open.spotify.com/track/7cfr3F2jpzjwqL6ZhGfjtH"
     },
     {
       "added_at": "2021-09-14 05:14:45",

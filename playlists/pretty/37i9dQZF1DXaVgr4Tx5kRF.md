@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 
 > The songs that defined a golden era of British indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 638,683 likes - 65 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 638,903 likes - 65 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 | 26 | [You & Me Song](https://open.spotify.com/track/5KiKFJdmU6m0QWxpW9xjOB) | [The Wannadies](https://open.spotify.com/artist/7GBLSeDdlx3gl2cxHvYuOh) | [Be A Girl](https://open.spotify.com/album/7bx60z6sWg9fz9Ve2AruOI) | 2:50 |
 | 27 | [I Am the Resurrection \- Remastered](https://open.spotify.com/track/5ikdUUm6JbnEVnp35c7dvy) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 8:12 |
 | 28 | [Stupid Girl \- Remastered 2015](https://open.spotify.com/track/3fNf71Ktya4CYMqGM6eRud) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage \(20th Anniversary Deluxe Edition/Remastered\)](https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7) | 4:18 |
-| 29 | [Chasing Rainbows](https://open.spotify.com/track/4IFC2bM8SquqQYOu9tiQ8C) | [Shed Seven](https://open.spotify.com/artist/3iejrAcqxYoVgyxp6zkWgs) | [Let It Ride](https://open.spotify.com/album/6CET3JYJyXlmfVLLQx2XeG) | 4:25 |
-| 30 | [Good Enough](https://open.spotify.com/track/3uvTySdxejOSPEACJsajdW) | [Dodgy](https://open.spotify.com/artist/1dekSPU23UC5hw5b8Uxk9W) | [Free Peace Sweet](https://open.spotify.com/album/2C5AMWVyaTWboPCe49JVnl) | 4:01 |
+| 29 | [Good Enough](https://open.spotify.com/track/3uvTySdxejOSPEACJsajdW) | [Dodgy](https://open.spotify.com/artist/1dekSPU23UC5hw5b8Uxk9W) | [Free Peace Sweet](https://open.spotify.com/album/2C5AMWVyaTWboPCe49JVnl) | 4:01 |
+| 30 | [Chasing Rainbows](https://open.spotify.com/track/4IFC2bM8SquqQYOu9tiQ8C) | [Shed Seven](https://open.spotify.com/artist/3iejrAcqxYoVgyxp6zkWgs) | [Let It Ride](https://open.spotify.com/album/6CET3JYJyXlmfVLLQx2XeG) | 4:25 |
 | 31 | [Cigarettes & Alcohol \- Remastered](https://open.spotify.com/track/5adjc9rGazKvYcyEHNtoz1) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 4:49 |
 | 32 | [The Universal](https://open.spotify.com/track/0qmCWYu7hOvriyuqXfPw7I) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 4:00 |
 | 33 | [Girl from Mars](https://open.spotify.com/track/0cA41ydiosNCgmmGiCST65) | [Ash](https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE) | [1977](https://open.spotify.com/album/1fxOFs3nc2mGf69PEbEQbf) | 3:30 |
@@ -46,11 +46,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 | 36 | [This Is How It Feels](https://open.spotify.com/track/0usG7DLWUEoAHFEv9rWfoP) | [Inspiral Carpets](https://open.spotify.com/artist/66GWpx9iLxrvvfhDsG9STP) | [Life](https://open.spotify.com/album/4ygxhp2YRRuOEfw1J40FdQ) | 3:05 |
 | 37 | [Brimful Of Asha \- Norman Cook Remix Single Version](https://open.spotify.com/track/6gbdLLUhocAjThL3GvV6Lx) | [Cornershop](https://open.spotify.com/artist/3Kf7VEIRWquxrNIuyJZnfF) | [The Greatest Hits: Why Try Harder](https://open.spotify.com/album/6GSF3YIop0uuOUkSx8n9QJ) | 4:00 |
 | 38 | [Movin' on Up](https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Screamadelica](https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL) | 3:50 |
-| 39 | [Ready to Go](https://open.spotify.com/track/2bEbTqj36jmuwMhvvCRC2y) | [Republica](https://open.spotify.com/artist/06YQ6XwCdPUn8rAXV70gge) | [Ready To Go](https://open.spotify.com/album/2lxv4za6tEk3J8vN73NWHp) | 5:01 |
-| 40 | [Going For Gold](https://open.spotify.com/track/5TBXjIlpKHlVrUVwlpY5e5) | [Shed Seven](https://open.spotify.com/artist/3iejrAcqxYoVgyxp6zkWgs) | [Going For Gold](https://open.spotify.com/album/4LtKB45GXvEsbZV9tKEEn3) | 4:25 |
+| 39 | [You're Gorgeous](https://open.spotify.com/track/5IaJ6YghsvtGBDyF7H6vkU) | [Babybird](https://open.spotify.com/artist/1QCANeffsBIHjzhMqUIxBh) | [Ugly Beautiful](https://open.spotify.com/album/0bqAqbOsbQ145KcqNXbWQT) | 3:42 |
+| 40 | [Ready to Go](https://open.spotify.com/track/2bEbTqj36jmuwMhvvCRC2y) | [Republica](https://open.spotify.com/artist/06YQ6XwCdPUn8rAXV70gge) | [Ready To Go](https://open.spotify.com/album/2lxv4za6tEk3J8vN73NWHp) | 5:01 |
 | 41 | [Lucky You](https://open.spotify.com/track/4RG9Ulx2XrTg2achBTPaoo) | [The Lightning Seeds](https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5) | [Jollification](https://open.spotify.com/album/2aPTNYJ6MjDj7UvIHnJs26) | 4:19 |
 | 42 | [Alright](https://open.spotify.com/track/1SqY3rqLazvQlDz24GJ1TO) | [Cast](https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z) | [All Change](https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5) | 3:37 |
-| 43 | [You're Gorgeous](https://open.spotify.com/track/5IaJ6YghsvtGBDyF7H6vkU) | [Babybird](https://open.spotify.com/artist/1QCANeffsBIHjzhMqUIxBh) | [Ugly Beautiful](https://open.spotify.com/album/0bqAqbOsbQ145KcqNXbWQT) | 3:42 |
+| 43 | [Going For Gold](https://open.spotify.com/track/5TBXjIlpKHlVrUVwlpY5e5) | [Shed Seven](https://open.spotify.com/artist/3iejrAcqxYoVgyxp6zkWgs) | [Going For Gold](https://open.spotify.com/album/4LtKB45GXvEsbZV9tKEEn3) | 4:25 |
 | 44 | [Come Back To What You Know](https://open.spotify.com/track/2BjvbCwtueWDGi0QKgT3yy) | [Embrace](https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7) | [The Good Will Out](https://open.spotify.com/album/3eNC1W7Y3mkEVA10eTojFK) | 4:10 |
 | 45 | [Tattva](https://open.spotify.com/track/4FH658GYnS4g5u0eI9dUcS) | [Kula Shaker](https://open.spotify.com/artist/6bGcpvHbRHg8s0wiNyIZK1) | [K](https://open.spotify.com/album/29l6MzHPuJ0KrMDRiM7u56) | 3:46 |
 | 46 | [Staying Out For The Summer](https://open.spotify.com/track/0Z8CJq9ntVrA8PHT35ZANv) | [Dodgy](https://open.spotify.com/artist/1dekSPU23UC5hw5b8Uxk9W) | [Homegrown](https://open.spotify.com/album/2QsbjNai1nFSl0xFOyV0F7) | 3:12 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 | 57 | [Crystal](https://open.spotify.com/track/2M4PVaTJGjXV91X8HAVQEx) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Get Ready](https://open.spotify.com/album/6V0NOI7IaZDO9mBvHNc1jt) | 6:50 |
 | 58 | [Beautiful Ones](https://open.spotify.com/track/7lYkggWrQNo4tsGpY4yOOG) | [The London Suede](https://open.spotify.com/artist/6GuRYj1MEnu1WZhDA2Xy0t) | [Coming up \- 20th Anniversary Edition \(Audio Version\)](https://open.spotify.com/album/3YBbEumtx9naxbCQWoeu41) | 3:50 |
 | 59 | [The Day We Caught The Train](https://open.spotify.com/track/4oPF43XotiOin8UroIsE0t) | [Ocean Colour Scene](https://open.spotify.com/artist/5vIOGcdmx1eIkq3ZtuS12U) | [Moseley Shoals](https://open.spotify.com/album/2z6VxH2NdkmxYpTygmlI0W) | 3:06 |
-| 60 | [One To Another](https://open.spotify.com/track/0svfKznUXTbPhqGi2v9uDc) | [The Charlatans](https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd) | [Tellin' Stories](https://open.spotify.com/album/2JcSP59a6uz4xrtfF5ysgv) | 4:29 |
-| 61 | [Slight Return](https://open.spotify.com/track/6Pmr3g62IviFy4sBVII5Jp) | [The Bluetones](https://open.spotify.com/artist/66nOkPJTFgK25NMmojG04V) | [The Singles](https://open.spotify.com/album/3R9Lp4s38Y9pMfcwG9YP27) | 3:19 |
+| 60 | [Slight Return](https://open.spotify.com/track/6Pmr3g62IviFy4sBVII5Jp) | [The Bluetones](https://open.spotify.com/artist/66nOkPJTFgK25NMmojG04V) | [The Singles](https://open.spotify.com/album/3R9Lp4s38Y9pMfcwG9YP27) | 3:19 |
+| 61 | [One To Another](https://open.spotify.com/track/0svfKznUXTbPhqGi2v9uDc) | [The Charlatans](https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd) | [Tellin' Stories](https://open.spotify.com/album/2JcSP59a6uz4xrtfF5ysgv) | 4:29 |
 | 62 | [Wide Open Space](https://open.spotify.com/track/0Q4fqnPKrbOT6HYDhlvbNw) | [Mansun](https://open.spotify.com/artist/7rqRuB0wgUaStDN73PlV4U) | [Attack of the Grey Lantern](https://open.spotify.com/album/7v04VQBNE3VmBxf7vbnpnL) | 4:31 |
 | 63 | [Road Rage](https://open.spotify.com/track/439IqYqbfvhbioXkvaeg20) | [Catatonia](https://open.spotify.com/artist/4Bgfzia8wyaGaTn42egzTv) | [International Velvet](https://open.spotify.com/album/5JKgetvj4148279DoZG7XE) | 5:09 |
 | 64 | [Rocks](https://open.spotify.com/track/2MjYMvn7PlS4HAE1EtP7BJ) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Give Out But Don't Give Up](https://open.spotify.com/album/51wKnaqc8kVTPeR99dpXg8) | 3:37 |

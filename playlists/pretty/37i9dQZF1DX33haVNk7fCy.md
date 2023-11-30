@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 
 > When everything around you is falling apart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,141 likes - 78 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,219 likes - 78 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 38 | [Beqadra](https://open.spotify.com/track/4LIQacKPUjto8rVlVuY09O) | [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Beqadra](https://open.spotify.com/album/5SGHD9oHkRZ2zkYDcfGqq5) | 3:03 |
 | 39 | [Dhaaga](https://open.spotify.com/track/4wUtptr1RLnHyTlkbUKutH) | [Nilotpal Bora](https://open.spotify.com/artist/2JexWjjyHRNgAiDXNn7rsV) | [Aspirants: Season 1 \(Music From the TVF Original Series\)](https://open.spotify.com/album/3hFz046pdpJkSIGSXtG5jE) | 3:52 |
 | 40 | [Aana Nahi](https://open.spotify.com/track/3nvJWarZv8kNyusyXfdu44) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Aana Nahi](https://open.spotify.com/album/6KUEDNzv39oXcvuxklZoxn) | 3:01 |
-| 41 | [Dhaaga](https://open.spotify.com/track/4yrsSQgfXaHuPQ4prMPvzV) | [SickLot](https://open.spotify.com/artist/2NYWuAn8LPsebNkudbSLA6), [Big Scratch](https://open.spotify.com/artist/5YlvUMiPPR0aT4pfeGlq6u) | [Khaali Panne](https://open.spotify.com/album/6rq6XwTPgShV3wlGkVciqy) | 3:41 |
-| 42 | [Faasle](https://open.spotify.com/track/6YNl1rXbhKvmbMrw9cp3RQ) | [Kaavish](https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3), [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Coke Studio Season 10: Episode 2](https://open.spotify.com/album/0WJn9oPJOjaZenZ4OVQEgy) | 5:11 |
+| 41 | [Faasle](https://open.spotify.com/track/6YNl1rXbhKvmbMrw9cp3RQ) | [Kaavish](https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3), [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Coke Studio Season 10: Episode 2](https://open.spotify.com/album/0WJn9oPJOjaZenZ4OVQEgy) | 5:11 |
+| 42 | [Dhaaga](https://open.spotify.com/track/4yrsSQgfXaHuPQ4prMPvzV) | [SickLot](https://open.spotify.com/artist/2NYWuAn8LPsebNkudbSLA6), [Big Scratch](https://open.spotify.com/artist/5YlvUMiPPR0aT4pfeGlq6u) | [Khaali Panne](https://open.spotify.com/album/6rq6XwTPgShV3wlGkVciqy) | 3:41 |
 | 43 | [Saaya](https://open.spotify.com/track/5fMbzjIsGUT4tVm55TOn8O) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Saaya](https://open.spotify.com/album/1Ov7xUOV1socUOw4KNKRLu) | 2:44 |
 | 44 | [Akela Hoon](https://open.spotify.com/track/7pWAX5kJBULFTDNiH8oB42) | [AMAN](https://open.spotify.com/artist/2fbOTJal9uKzOkYEWxaiCK) | [Akela Hoon](https://open.spotify.com/album/3N8AcmFbxtKV8YfeYMFEKk) | 3:44 |
 | 45 | [Ek Tukda Dhoop \(From "Thappad"\)](https://open.spotify.com/track/50Emj7dvfU5NTCQsS7ECJ7) | [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK), [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G) | [Ek Tukda Dhoop \(From "Thappad"\)](https://open.spotify.com/album/0qHOnEEAja3oeBJQDp7zGY) | 5:25 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 58 | [Na Kehna Tum](https://open.spotify.com/track/6cCLkL72zw70bOVV88D0Ep) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Na Kehna Tum](https://open.spotify.com/album/6SJ5POIysL58YneSv1w0VY) | 4:25 |
 | 59 | [Kya Tum Naraaz Ho? \(Raw\)](https://open.spotify.com/track/2rjCLFdX8n9xLoMZgdMMxt) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Kya Tum Naraaz Ho? \(Raw\)](https://open.spotify.com/album/6jN4E5miEwdQBUqU0HP0Dg) | 3:32 |
 | 60 | [Lehrein](https://open.spotify.com/track/2n6Y0uDH6hzDj9sWh34f68) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Anusha Mani](https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry), [Neuman Pinto](https://open.spotify.com/artist/6LyiUcIr0wG0mC8E01kyI6), [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Aisha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4h2SfJt00zfnnoQSCuOmkc) | 4:50 |
-| 61 | [Doobay](https://open.spotify.com/track/6i1UFSwXOzrbnfaNnRkpHT) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [Akela](https://open.spotify.com/album/2UtPYtrj2QPpvFV4PPwSCw) | 4:15 |
-| 62 | [Koi Jaane Na](https://open.spotify.com/track/3g572Upfd1UZat0EBLGtns) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H) | [Koi Jaane Na](https://open.spotify.com/album/2rNs9qqP3dovmTUuNPXJwT) | 4:16 |
+| 61 | [Koi Jaane Na](https://open.spotify.com/track/3g572Upfd1UZat0EBLGtns) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H) | [Koi Jaane Na](https://open.spotify.com/album/2rNs9qqP3dovmTUuNPXJwT) | 4:16 |
+| 62 | [Doobay](https://open.spotify.com/track/6i1UFSwXOzrbnfaNnRkpHT) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [Akela](https://open.spotify.com/album/2UtPYtrj2QPpvFV4PPwSCw) | 4:15 |
 | 63 | [Tu Hoti Toh](https://open.spotify.com/track/57VPW07ksriiQIFUzLDvBJ) | [Bharat Chauhan](https://open.spotify.com/artist/2sSTjTnRtGa3KrEjMoMaAe) | [Tu Hoti Toh \- Single](https://open.spotify.com/album/7iGmP0HgO41vBDixEdcPcB) | 5:34 |
 | 64 | [Khud Se](https://open.spotify.com/track/5hL9yKGJAMUxfwsjFnJ0aR) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK) | [Wahaan](https://open.spotify.com/album/0sIWkQuV1D7PDH2icX4KvL) | 3:08 |
 | 65 | [Duur Hai Wo](https://open.spotify.com/track/2xdKGuM3SMXYxZIytizcVP) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Duur Hai Wo](https://open.spotify.com/album/21ZHoICkVEBGFnoNiSPhBz) | 4:42 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 77 | [Channa Mereya \(From "Ae Dil Hai Mushkil"\)](https://open.spotify.com/track/1plFCZ6QFAjSRutT02GTCn) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Channa Mereya \(From "Ae Dil Hai Mushkil"\)](https://open.spotify.com/album/7IuYiJjqLtPUqgDYlUTuML) | 4:49 |
 | 78 | [Ve Kamleya \(From "Rocky Aur Rani Kii Prem Kahaani"\)](https://open.spotify.com/track/1AmwIgy0WYLJJ5e24aCFTm) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Shadab Faridi](https://open.spotify.com/artist/6WixbETKEXH0xBf0OB9kRB), [Altamash Faridi](https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Ve Kamleya \(From "Rocky Aur Rani Kii Prem Kahaani"\)](https://open.spotify.com/album/7q4DcFIuSUzOoQs3QMvwNe) | 4:06 |
 
-Snapshot ID: `MCw1OTE3ZmJiNWRmMzk4MmFhNjVmNjQxOGQ0YzI5ODA2ZmY1MGI3ZGFm`
+Snapshot ID: `MCw2OWQyNTBiZGYyM2Y2MmE2ZTEwMjc4NmEwNjQ3OTkyZmE4NDFjM2Nm`

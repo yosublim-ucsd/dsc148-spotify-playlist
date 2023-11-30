@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX5tULOO5PjY.md) - [plain]
 
 > 80s electronic boogie and post\-disco
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,828 likes - 60 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,869 likes - 60 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX5tULOO5PjY.md) - [plain]
 | 59 | [I Loved Every Minute of It](https://open.spotify.com/track/5OVto0axRHGWAAWOCf6cZD) | [Gayle Adams](https://open.spotify.com/artist/15BDxaGYlN3CPzUdWddake) | [Love Fever](https://open.spotify.com/album/52ZVYXSDSMUmpmlzmNKvAh) | 5:48 |
 | 60 | [He's a Freak Undercover](https://open.spotify.com/track/2WFS0puLBFzV698XkYbt3Z) | [Fatback Band](https://open.spotify.com/artist/6PWU6JQvvYv5sz5FOODHg6) | [With Love](https://open.spotify.com/album/1rj8M1ano07y53htwMsCem) | 5:19 |
 
-Snapshot ID: `MCwzMjAzNTkzYmFiZGE3ZjEwZjRlNWFlOGEyYWYyZjg3MjE5OGQ2ODI3`
+Snapshot ID: `MCxhYWQyZWYyZWJiYWNkNDkwYWYzN2MxMDU2MzdiNDM2NzE0MmJmMDg0`

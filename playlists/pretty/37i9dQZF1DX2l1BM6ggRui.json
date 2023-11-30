@@ -1,12 +1,12 @@
 {
   "description": "\ub4e3\uace0\ub9cc \uc788\uc5b4\ub3c4 \ud589\ubcf5\ud55c \ub178\ub798\ub4e4\uacfc \ub354\ub354\uc6b1 \ud589\ubcf5\ud558\uc138\uc694 ;)",
-  "num_followers": 6162,
+  "num_followers": 6178,
   "original_name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Nzg0MGY2OTg0OTAzNTViZTE5M2JiMTlkMmQyZDg5YzUyYzA0YjE0",
+  "snapshot_id": "MCw2ZDhlYmQzNWYxMDZlMjBlYTIwMDdmNmJhOTEzOWY2MWZhNmE1MTRm",
   "tracks": [
     {
       "added_at": "2023-11-03 06:14:32",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-11-03 06:14:32",
       "album": {
-        "name": "HOODIE E BANBAJI",
-        "url": "https://open.spotify.com/album/7k3M7ITqDwJwlMirEAL7SZ"
-      },
-      "artists": [
-        {
-          "name": "Lee Hyori",
-          "url": "https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5"
-        }
-      ],
-      "duration_ms": 189973,
-      "name": "HOODIE E BANBAJI",
-      "url": "https://open.spotify.com/track/3VNlscYTSeZqbREFoOe3KE"
-    },
-    {
-      "added_at": "2023-11-03 06:14:32",
-      "album": {
         "name": "PSY 9th",
         "url": "https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 182266,
       "name": "Can you stay",
       "url": "https://open.spotify.com/track/1u2WfYwwpnI9MnC9LolkRF"
+    },
+    {
+      "added_at": "2023-11-03 06:14:32",
+      "album": {
+        "name": "HOODIE E BANBAJI",
+        "url": "https://open.spotify.com/album/7k3M7ITqDwJwlMirEAL7SZ"
+      },
+      "artists": [
+        {
+          "name": "Lee Hyori",
+          "url": "https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5"
+        }
+      ],
+      "duration_ms": 189973,
+      "name": "HOODIE E BANBAJI",
+      "url": "https://open.spotify.com/track/3VNlscYTSeZqbREFoOe3KE"
     },
     {
       "added_at": "2023-11-03 06:14:32",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-11-03 06:14:32",
       "album": {
-        "name": "Answer",
-        "url": "https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r"
-      },
-      "artists": [
-        {
-          "name": "homezone",
-          "url": "https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK"
-        }
-      ],
-      "duration_ms": 224500,
-      "name": "Answer",
-      "url": "https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht"
-    },
-    {
-      "added_at": "2023-11-03 06:14:32",
-      "album": {
         "name": "Dearest",
         "url": "https://open.spotify.com/album/0acWIHNrFzz54y5GyiVua8"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 206093,
       "name": "I Like You",
       "url": "https://open.spotify.com/track/11S43bdWSQ9ZZOrtcR1jpJ"
+    },
+    {
+      "added_at": "2023-11-03 06:14:32",
+      "album": {
+        "name": "Answer",
+        "url": "https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r"
+      },
+      "artists": [
+        {
+          "name": "homezone",
+          "url": "https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK"
+        }
+      ],
+      "duration_ms": 224500,
+      "name": "Answer",
+      "url": "https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht"
     },
     {
       "added_at": "2023-11-03 06:14:32",

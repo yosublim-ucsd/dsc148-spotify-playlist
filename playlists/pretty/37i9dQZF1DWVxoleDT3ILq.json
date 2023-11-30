@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NGJmY2I2MzdjZWJhNGQ4OThjNzdjZDA4NGZiOTQxMDBjNzFhYzcw",
+  "snapshot_id": "MCw2NmVjMDRhOTYyMmJhOTYyMWEzNGI2ZDVjNjM3YzgzMjhmZGYxOTEx",
   "tracks": [
     {
       "added_at": "2023-11-24 03:00:00",
@@ -247,26 +247,6 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Herida",
-        "url": "https://open.spotify.com/album/3EjIOQ9uPmQtxXW1mGOhNq"
-      },
-      "artists": [
-        {
-          "name": "Francisco Victoria",
-          "url": "https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv"
-        },
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Te lo pido por favor",
-      "url": "https://open.spotify.com/track/6g3VvDH5AX42fx2KfcCsmb"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
         "name": "Cool & Casual",
         "url": "https://open.spotify.com/album/3z1lTlNi3AQ7g9Sh1TyPMD"
       },
@@ -291,6 +271,26 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
+        "name": "Herida",
+        "url": "https://open.spotify.com/album/3EjIOQ9uPmQtxXW1mGOhNq"
+      },
+      "artists": [
+        {
+          "name": "Francisco Victoria",
+          "url": "https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv"
+        },
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Te lo pido por favor",
+      "url": "https://open.spotify.com/track/6g3VvDH5AX42fx2KfcCsmb"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
         "name": "D\u00edas Que No Lloro",
         "url": "https://open.spotify.com/album/5kmZJiLAcepWRBg6sDWH14"
       },
@@ -311,22 +311,18 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Pantallas y Desiertos",
-        "url": "https://open.spotify.com/album/40qq0w8Z2vP1qqXVMQJ5jb"
+        "name": "Riley (S)",
+        "url": "https://open.spotify.com/album/3qiAqPoSj9fpCiDLwgENe0"
       },
       "artists": [
         {
-          "name": "Mec\u00e1nico",
-          "url": "https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct"
-        },
-        {
-          "name": "Rayos L\u00e1ser",
-          "url": "https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs"
+          "name": "I AM",
+          "url": "https://open.spotify.com/artist/67g2E0HwTkrMj3nPvw46mR"
         }
       ],
-      "duration_ms": 212812,
-      "name": "Pantallas y Desiertos",
-      "url": "https://open.spotify.com/track/5TooZOGWPmbP8aS2ISwTKA"
+      "duration_ms": 178040,
+      "name": "Riley",
+      "url": "https://open.spotify.com/track/3tQpd0YrAwWK8YGP3aRj8D"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -379,18 +375,22 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Riley (S)",
-        "url": "https://open.spotify.com/album/3qiAqPoSj9fpCiDLwgENe0"
+        "name": "Pantallas y Desiertos",
+        "url": "https://open.spotify.com/album/40qq0w8Z2vP1qqXVMQJ5jb"
       },
       "artists": [
         {
-          "name": "I AM",
-          "url": "https://open.spotify.com/artist/67g2E0HwTkrMj3nPvw46mR"
+          "name": "Mec\u00e1nico",
+          "url": "https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct"
+        },
+        {
+          "name": "Rayos L\u00e1ser",
+          "url": "https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs"
         }
       ],
-      "duration_ms": 178040,
-      "name": "Riley",
-      "url": "https://open.spotify.com/track/3tQpd0YrAwWK8YGP3aRj8D"
+      "duration_ms": 212812,
+      "name": "Pantallas y Desiertos",
+      "url": "https://open.spotify.com/track/5TooZOGWPmbP8aS2ISwTKA"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -547,26 +547,6 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Te puedes ir, amor",
-        "url": "https://open.spotify.com/album/3xTDzgJme7JW24tMfS1fUt"
-      },
-      "artists": [
-        {
-          "name": "Francisco Victoria",
-          "url": "https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv"
-        },
-        {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
-        }
-      ],
-      "duration_ms": 189625,
-      "name": "Te puedes ir, amor",
-      "url": "https://open.spotify.com/track/3e3eeimc7V6oqZbcyDu0Ls"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
         "name": "Pelusita al ojo",
         "url": "https://open.spotify.com/album/3qH24SRUhygnrJea5RVWdF"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 113852,
       "name": "Lo Nuestro",
       "url": "https://open.spotify.com/track/3QvNiDrsc51gBlSEnpfidy"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "Te puedes ir, amor",
+        "url": "https://open.spotify.com/album/3xTDzgJme7JW24tMfS1fUt"
+      },
+      "artists": [
+        {
+          "name": "Francisco Victoria",
+          "url": "https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv"
+        },
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "duration_ms": 189625,
+      "name": "Te puedes ir, amor",
+      "url": "https://open.spotify.com/track/3e3eeimc7V6oqZbcyDu0Ls"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -843,8 +843,8 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Esta casa hace rato dej\u00f3 de ser un hogar",
-        "url": "https://open.spotify.com/album/3LA2gnmgO9iz2Jv7zj1nIY"
+        "name": "Desolaci\u00f3n",
+        "url": "https://open.spotify.com/album/38O6hcwjBjM0RRosOQAj7M"
       },
       "artists": [
         {
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
         }
       ],
-      "duration_ms": 209579,
-      "name": "Esta casa hace rato dej\u00f3 de ser un hogar",
-      "url": "https://open.spotify.com/track/63YbNqEhNmyTEkuKeN5wIE"
+      "duration_ms": 271656,
+      "name": "Desolaci\u00f3n",
+      "url": "https://open.spotify.com/track/7yTpN2yTC8CMUfhYmdjSdQ"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Lo Que No Hablas",
-        "url": "https://open.spotify.com/album/1nKw1J4wJ5H040r1cKPwPE"
-      },
-      "artists": [
-        {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
-        }
-      ],
-      "duration_ms": 208441,
-      "name": "Lo Que No Hablas",
-      "url": "https://open.spotify.com/track/0ma6SYCcqYUyaejkmxubjb"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
         "name": "Sobre habitar la depresi\u00f3n intermedia",
         "url": "https://open.spotify.com/album/3jF9U4Zd7HdiRyvYrpJvaC"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 222257,
       "name": "Polvo",
       "url": "https://open.spotify.com/track/4p9iPAQ5q3twlJJ0x8HInz"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "Lo Que No Hablas",
+        "url": "https://open.spotify.com/album/1nKw1J4wJ5H040r1cKPwPE"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "duration_ms": 208441,
+      "name": "Lo Que No Hablas",
+      "url": "https://open.spotify.com/track/0ma6SYCcqYUyaejkmxubjb"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -991,8 +991,8 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Desolaci\u00f3n",
-        "url": "https://open.spotify.com/album/38O6hcwjBjM0RRosOQAj7M"
+        "name": "Esta casa hace rato dej\u00f3 de ser un hogar",
+        "url": "https://open.spotify.com/album/3LA2gnmgO9iz2Jv7zj1nIY"
       },
       "artists": [
         {
@@ -1000,9 +1000,9 @@
           "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
         }
       ],
-      "duration_ms": 271656,
-      "name": "Desolaci\u00f3n",
-      "url": "https://open.spotify.com/track/7yTpN2yTC8CMUfhYmdjSdQ"
+      "duration_ms": 209579,
+      "name": "Esta casa hace rato dej\u00f3 de ser un hogar",
+      "url": "https://open.spotify.com/track/63YbNqEhNmyTEkuKeN5wIE"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "\u00cdndigo",
-        "url": "https://open.spotify.com/album/1JUFR4Qgot2SmMssrlsYNz"
-      },
-      "artists": [
-        {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
-        }
-      ],
-      "duration_ms": 229740,
-      "name": "Pasos de Gigantes",
-      "url": "https://open.spotify.com/track/1DJQMFVIMbECJ4ElDoSYth"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
         "name": "Cuando Estoy con El (Sesi\u00f3n Jeanette)",
         "url": "https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 326961,
       "name": "Cuando Estoy con El - Sesi\u00f3n Jeanette",
       "url": "https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "\u00cdndigo",
+        "url": "https://open.spotify.com/album/1JUFR4Qgot2SmMssrlsYNz"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "duration_ms": 229740,
+      "name": "Pasos de Gigantes",
+      "url": "https://open.spotify.com/track/1DJQMFVIMbECJ4ElDoSYth"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
+        "name": "\u00c9pica",
+        "url": "https://open.spotify.com/album/4nqQnsYw58gEOZeMWkQ6XV"
+      },
+      "artists": [
+        {
+          "name": "Triciclo Parlante",
+          "url": "https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp"
+        }
+      ],
+      "duration_ms": 194756,
+      "name": "Sin Fama ni Fortuna",
+      "url": "https://open.spotify.com/track/0jL1naowZfg9x79IVmP9jf"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
         "name": "Espiral, Pt. 1",
         "url": "https://open.spotify.com/album/77BAbdA4KSnWqkdBGFxFft"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 174526,
       "name": "Sabes",
       "url": "https://open.spotify.com/track/1zvFHmZkxyxUOpAaMRi2qm"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
-        "name": "Nunca Estuvo en Ti el Litoral",
-        "url": "https://open.spotify.com/album/62Wwf9DHae5Hi6X9vp8QBN"
-      },
-      "artists": [
-        {
-          "name": "Sim\u00f3n Campusano",
-          "url": "https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU"
-        }
-      ],
-      "duration_ms": 178773,
-      "name": "Nunca Estuvo en Ti el Litoral",
-      "url": "https://open.spotify.com/track/0ealZ87kbyY8gsgDZwWGVq"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "\u00c9pica",
-        "url": "https://open.spotify.com/album/4nqQnsYw58gEOZeMWkQ6XV"
+        "name": "Nunca Estuvo en Ti el Litoral",
+        "url": "https://open.spotify.com/album/62Wwf9DHae5Hi6X9vp8QBN"
       },
       "artists": [
         {
-          "name": "Triciclo Parlante",
-          "url": "https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp"
+          "name": "Sim\u00f3n Campusano",
+          "url": "https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU"
         }
       ],
-      "duration_ms": 194756,
-      "name": "Sin Fama ni Fortuna",
-      "url": "https://open.spotify.com/track/0jL1naowZfg9x79IVmP9jf"
+      "duration_ms": 178773,
+      "name": "Nunca Estuvo en Ti el Litoral",
+      "url": "https://open.spotify.com/track/0ealZ87kbyY8gsgDZwWGVq"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1295,22 +1295,18 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Tur Blues",
-        "url": "https://open.spotify.com/album/0FFTFsQQz0E8eldoOpSlxg"
+        "name": "Me Hace Bien Amarte",
+        "url": "https://open.spotify.com/album/7MllTlZeTUSLYWKL6IvYrh"
       },
       "artists": [
         {
-          "name": "pau",
-          "url": "https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3"
-        },
-        {
-          "name": "Diego Lorenzini",
-          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
         }
       ],
-      "duration_ms": 213112,
-      "name": "Tur Blues",
-      "url": "https://open.spotify.com/track/1uiNMtfqJh6pzOXUsSiWOu"
+      "duration_ms": 168714,
+      "name": "Me Hace Bien Amarte",
+      "url": "https://open.spotify.com/track/3Ef1CBavoZnZ2v6Mjfq6Xg"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1331,18 +1327,22 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Me Hace Bien Amarte",
-        "url": "https://open.spotify.com/album/7MllTlZeTUSLYWKL6IvYrh"
+        "name": "Tur Blues",
+        "url": "https://open.spotify.com/album/0FFTFsQQz0E8eldoOpSlxg"
       },
       "artists": [
         {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+          "name": "pau",
+          "url": "https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3"
+        },
+        {
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
         }
       ],
-      "duration_ms": 168714,
-      "name": "Me Hace Bien Amarte",
-      "url": "https://open.spotify.com/track/3Ef1CBavoZnZ2v6Mjfq6Xg"
+      "duration_ms": 213112,
+      "name": "Tur Blues",
+      "url": "https://open.spotify.com/track/1uiNMtfqJh6pzOXUsSiWOu"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1379,26 +1379,6 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Fuera de Campo (Edici\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/5MvyTXQx5v4SUQ9A5BdPSz"
-      },
-      "artists": [
-        {
-          "name": "D\u00ebnver",
-          "url": "https://open.spotify.com/artist/0KPHupxNcc9XMQ0SSn3LKo"
-        },
-        {
-          "name": "Alejandro Paz",
-          "url": "https://open.spotify.com/artist/58JUcJgPMahuJHcVQM5CNL"
-        }
-      ],
-      "duration_ms": 296909,
-      "name": "Revista de Gimnasia - Alejandro Paz Remix",
-      "url": "https://open.spotify.com/track/5FR4gA58DZ7rzDb3LQVYyW"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
         "name": "El cigarrito",
         "url": "https://open.spotify.com/album/0hYqGC2CTjS70O1Jzvtiss"
       },
@@ -1415,6 +1395,26 @@
       "duration_ms": 188244,
       "name": "El cigarrito",
       "url": "https://open.spotify.com/track/1hgsjd1wklneSNLPgjL9fK"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "Fuera de Campo (Edici\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/5MvyTXQx5v4SUQ9A5BdPSz"
+      },
+      "artists": [
+        {
+          "name": "D\u00ebnver",
+          "url": "https://open.spotify.com/artist/0KPHupxNcc9XMQ0SSn3LKo"
+        },
+        {
+          "name": "Alejandro Paz",
+          "url": "https://open.spotify.com/artist/58JUcJgPMahuJHcVQM5CNL"
+        }
+      ],
+      "duration_ms": 296909,
+      "name": "Revista de Gimnasia - Alejandro Paz Remix",
+      "url": "https://open.spotify.com/track/5FR4gA58DZ7rzDb3LQVYyW"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1459,30 +1459,6 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Tu Demente",
-        "url": "https://open.spotify.com/album/2f2GQUGbHkoc1RH7qTT4t0"
-      },
-      "artists": [
-        {
-          "name": "Entr\u00f3pica",
-          "url": "https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08"
-        },
-        {
-          "name": "Ambar Luna",
-          "url": "https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML"
-        },
-        {
-          "name": "Franz Mesko",
-          "url": "https://open.spotify.com/artist/1wMmRP78FDRAIV0eehnlXS"
-        }
-      ],
-      "duration_ms": 183845,
-      "name": "Tu Demente",
-      "url": "https://open.spotify.com/track/0FNThAjRDsWq3HP0Yknr4V"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
         "name": "Donde Mueren Todos",
         "url": "https://open.spotify.com/album/7H9luEo8S8ZrmfTXeBvpgM"
       },
@@ -1511,6 +1487,30 @@
       "duration_ms": 245317,
       "name": "Frenes\u00ed (Te Perd\u00ed)",
       "url": "https://open.spotify.com/track/4J0ToGvK1ft0siVhKl8PPN"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
+        "name": "Tu Demente",
+        "url": "https://open.spotify.com/album/2f2GQUGbHkoc1RH7qTT4t0"
+      },
+      "artists": [
+        {
+          "name": "Entr\u00f3pica",
+          "url": "https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08"
+        },
+        {
+          "name": "Ambar Luna",
+          "url": "https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML"
+        },
+        {
+          "name": "Franz Mesko",
+          "url": "https://open.spotify.com/artist/1wMmRP78FDRAIV0eehnlXS"
+        }
+      ],
+      "duration_ms": 183845,
+      "name": "Tu Demente",
+      "url": "https://open.spotify.com/track/0FNThAjRDsWq3HP0Yknr4V"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
+        "name": "traves\u00eda",
+        "url": "https://open.spotify.com/album/6rYhu4elCJMNgreuzQfK4H"
+      },
+      "artists": [
+        {
+          "name": "J18",
+          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "y las flores? (en bruto 1/2)",
+      "url": "https://open.spotify.com/track/7f5jzJFTBifZHuJTkOrLyt"
+    },
+    {
+      "added_at": "2023-11-24 03:00:00",
+      "album": {
         "name": "como antes :(",
         "url": "https://open.spotify.com/album/1UbEziMtTNXhCJadyMWP55"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 237888,
       "name": "como antes :(",
       "url": "https://open.spotify.com/track/6MXABAwOJbAT3kmKLi8clB"
-    },
-    {
-      "added_at": "2023-11-24 03:00:00",
-      "album": {
-        "name": "traves\u00eda",
-        "url": "https://open.spotify.com/album/6rYhu4elCJMNgreuzQfK4H"
-      },
-      "artists": [
-        {
-          "name": "J18",
-          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "y las flores? (en bruto 1/2)",
-      "url": "https://open.spotify.com/track/7f5jzJFTBifZHuJTkOrLyt"
     },
     {
       "added_at": "2023-11-24 03:00:00",
@@ -1755,22 +1755,18 @@
     {
       "added_at": "2023-11-24 03:00:00",
       "album": {
-        "name": "Mi querida tempestad (en un vaso de agua)",
-        "url": "https://open.spotify.com/album/0vdhJS8mJiBAocCggPFf7D"
+        "name": "qui\u00e9n llama a esta hora",
+        "url": "https://open.spotify.com/album/0kxhAbkGpkSqxQCV7Z1hzJ"
       },
       "artists": [
         {
-          "name": "Planeta No",
-          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
-        },
-        {
-          "name": "Dromedarios M\u00e1gicos",
-          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+          "name": "gabriela arcos",
+          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
         }
       ],
-      "duration_ms": 177428,
-      "name": "Mi querida tempestad (en un vaso de agua)",
-      "url": "https://open.spotify.com/track/3szaRx7HP75ENQTXfchzOC"
+      "duration_ms": 225932,
+      "name": "cuando pienses en el destino",
+      "url": "https://open.spotify.com/track/6eGkYDbB2e5LOZ4jBnlfdS"
     }
   ],
   "unique_name": "Indie Chile",

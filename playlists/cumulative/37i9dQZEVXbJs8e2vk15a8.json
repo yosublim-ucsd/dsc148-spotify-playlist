@@ -6181,6 +6181,24 @@
     },
     {
       "album": {
+        "name": "COSAS QUE NO TE DIJE",
+        "url": "https://open.spotify.com/album/52te2AyrVAYPc04onR1Lfy"
+      },
+      "artists": [
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224725,
+      "name": "COSAS QUE NO TE DIJE",
+      "url": "https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z"
+    },
+    {
+      "album": {
         "name": "Phonk MixTape (Remix)",
         "url": "https://open.spotify.com/album/6CPevPVAkExLmMzVu1EO5u"
       },
@@ -7025,6 +7043,24 @@
     },
     {
       "album": {
+        "name": "DEMO #5 - nostalgIA (Spanglish Version)",
+        "url": "https://open.spotify.com/album/5lKyz4CLYQXRXytBcq0sxa"
+      },
+      "artists": [
+        {
+          "name": "FlowGPT",
+          "url": "https://open.spotify.com/artist/1mxt7qtdBFCHAeEeDHGgiC"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222188,
+      "name": "DEMO #5 - nostalgIA (Spanglish Version)",
+      "url": "https://open.spotify.com/track/4GflbFO7hFzIpzD33CxtgS"
+    },
+    {
+      "album": {
         "name": "DEMO #5: nostalgIA",
         "url": "https://open.spotify.com/album/1F4P8ry4GpaSoDpeemyqht"
       },
@@ -7054,7 +7090,7 @@
       ],
       "date_added": "2023-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 222188,
       "name": "DEMO #5: nostalgIA - Spanglish Version",
       "url": "https://open.spotify.com/track/092oBVwyJLxHnYEu5E1Rw6"
@@ -7780,7 +7816,7 @@
       ],
       "date_added": "2023-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 204880,
       "name": "Don't Go Insane",
       "url": "https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg"
@@ -11838,7 +11874,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 221714,
       "name": "Heridas",
       "url": "https://open.spotify.com/track/1bectpQhg99WBgecDJIntY"
@@ -19010,7 +19046,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-29",
+      "date_removed": null,
       "duration_ms": 148314,
       "name": "No Me Sueltes",
       "url": "https://open.spotify.com/track/0nxTx0b1KOKwycQESSeZym"

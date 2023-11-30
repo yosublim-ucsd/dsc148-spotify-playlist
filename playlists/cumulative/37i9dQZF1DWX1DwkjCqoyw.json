@@ -710,10 +710,28 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 157974,
       "name": "Energy",
       "url": "https://open.spotify.com/track/60NWySy9UQUs0uhkW8KG3L"
+    },
+    {
+      "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/3ecvu0AVEQIUFEIrC2Cjgb"
+      },
+      "artists": [
+        {
+          "name": "Mystic Marley",
+          "url": "https://open.spotify.com/artist/5WhXMSMSiOyEhXBNI6Lf2h"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157974,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/6iH3aLFWxvjl4XfoDPfpNP"
     },
     {
       "album": {

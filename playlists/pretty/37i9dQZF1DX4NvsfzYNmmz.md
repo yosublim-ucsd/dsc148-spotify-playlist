@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NvsfzYNmmz.md) - [plain]
 
 > Only the tastiest Christmas jams\. Cover: Paul Simon
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,449 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,568 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NvsfzYNmmz.md) - [plain]
 | 32 | [Christmastime](https://open.spotify.com/track/414Cn0i6PWFZzvxfzcLSSV) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [20th Century Masters \- The Best of Stevie Wonder: The Christmas Collection](https://open.spotify.com/album/734TT1LYLvM5gAAYvG0DSw) | 2:31 |
 | 33 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/4qKNfMKr3ZIyTgtdT7QJz9) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [A Christmas Album](https://open.spotify.com/album/49tPV1MI5wKbuXPdJs8axH) | 3:08 |
 | 34 | [When You Wish Upon A Star](https://open.spotify.com/track/7DfiVEGVGAF85DGMEmtgqc) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Collected Additional Masters](https://open.spotify.com/album/7aibAYQuwa2cU2OEmidqbt) | 3:41 |
-| 35 | [The Wonderful World of Christmas](https://open.spotify.com/track/0Fp3B6lKPXjy5QNKBMghgf) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis Sings the Wonderful World of Christmas](https://open.spotify.com/album/67WNQsweOZ94qxgAUDGXAk) | 2:00 |
-| 36 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/5BUJ3RhKqT2lFsrEkKzm8t) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago Christmas: What's It Gonna Be, Santa?](https://open.spotify.com/album/2IVVlq6ue3yaJTEeaQEnD5) | 3:28 |
+| 35 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/5BUJ3RhKqT2lFsrEkKzm8t) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago Christmas: What's It Gonna Be, Santa?](https://open.spotify.com/album/2IVVlq6ue3yaJTEeaQEnD5) | 3:28 |
+| 36 | [The Wonderful World of Christmas](https://open.spotify.com/track/0Fp3B6lKPXjy5QNKBMghgf) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis Sings the Wonderful World of Christmas](https://open.spotify.com/album/67WNQsweOZ94qxgAUDGXAk) | 2:00 |
 | 37 | [Merry Christmas All \(Tom Moulton Remix\) \(2022 \- Remaster\)](https://open.spotify.com/track/61CwMSqjU3SZt9j9m7MiWF) | [The Salsoul Orchestra](https://open.spotify.com/artist/0m04NLVsIfjqZMBfw7vTf4), [Tom Moulton](https://open.spotify.com/artist/6xDW6TfPeBAiq1gmqMJnM6) | [Christmas Jollies \(Tom Moulton Remix;2022 \- Remaster\)](https://open.spotify.com/album/2nEDg0fIQFVbPCcuSNDBpK) | 3:16 |
 | 38 | [Old Toy Trains](https://open.spotify.com/track/2Og7CqkL9EIknatnURMLgP) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [That Christmas Feeling](https://open.spotify.com/album/2xlhfPgJiHs0MAVhK1QR2g) | 2:20 |
 | 39 | [The First Noel \- 2004 Remaster](https://open.spotify.com/track/0HoBChp8kED3vN81I5wA5l) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Light of the Stable \(Expanded & Remastered\)](https://open.spotify.com/album/3FGUuuml7BwQVDrhb20Elz) | 2:41 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NvsfzYNmmz.md) - [plain]
 | 44 | [Santa Claus Is Comin' to Town \- Live at C.W\. Post College, Greenvale, NY \- December 1975](https://open.spotify.com/track/3VGzoSo6S4JcCRPQTqeT9W) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Caroling at Christmas](https://open.spotify.com/album/4M1iQdniPtcweGDfem5yS1) | 4:27 |
 | 45 | [Go Tell It On the Mountain](https://open.spotify.com/track/6EXMLtiFCnJT4TmONRRBH3) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Christmas Cafe](https://open.spotify.com/album/60o7io2Q1sgIv0psxcfsDQ) | 2:03 |
 | 46 | [Go Tell It On The Mountain](https://open.spotify.com/track/2KcdIIkNsOWAP7XhLqfJqK) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [20th Century Masters \- The Best of Smokey Robinson & The Miracles: The Christmas Collection](https://open.spotify.com/album/3R4NS486mXBcQ9CrLUmDhQ) | 3:47 |
-| 47 | [Little Christmas Tree](https://open.spotify.com/track/2xBJS5zxvaTjoDoFT9oNOb) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Christmas with The Jackson 5](https://open.spotify.com/album/0BRTKpudDZbBrZzqPHfijR) | 3:36 |
-| 48 | [It Won't Be Long 'Til Christmas \- Bonus Track / 2015 Mix](https://open.spotify.com/track/0d8JxzRzUgTN6aUu7Aii0I) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq) | [Merry Christmas \(Expanded Edition\)](https://open.spotify.com/album/3mKxD3slkstGtfDxBI8p62) | 2:41 |
+| 47 | [It Won't Be Long 'Til Christmas \- Bonus Track / 2015 Mix](https://open.spotify.com/track/0d8JxzRzUgTN6aUu7Aii0I) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq) | [Merry Christmas \(Expanded Edition\)](https://open.spotify.com/album/3mKxD3slkstGtfDxBI8p62) | 2:41 |
+| 48 | [Little Christmas Tree](https://open.spotify.com/track/2xBJS5zxvaTjoDoFT9oNOb) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Christmas with The Jackson 5](https://open.spotify.com/album/0BRTKpudDZbBrZzqPHfijR) | 3:36 |
 | 49 | [Ho! Ho! Ho! \(Who'd Be A Turkey At Christmas\)](https://open.spotify.com/track/3xabch3USCqA0JkvVc7Sb8) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Step Into Christmas](https://open.spotify.com/album/3IOAHHCKjlxiwerwUplMMo) | 4:06 |
 | 50 | [My Grown\-Up Christmas List](https://open.spotify.com/track/0i4l97vplepWtxmJfPdcDn) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [This Christmas](https://open.spotify.com/album/3r8Q53TiFAKYR19SBLYL75) | 5:14 |
 
-Snapshot ID: `MCxlYmQyZDYzMzczN2IzNzg2MzQzNjAyZTkxN2JkNjQ0YzA1OTIyM2Jj`
+Snapshot ID: `MCw0NjAwOWY1ZGNmMDJjNzdkYzM0ZjFlNDE3NWFiNDk3ODgxODQ4ZTdi`

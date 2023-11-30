@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35UmSKx1jwI.md) - [plain]
 
 > Feel good, high energy beats to keep you motivated for that every day workout!
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,583 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,725 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35UmSKx1jwI.md) - [plain]
 | 16 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 |
 | 17 | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B) | 2:56 |
 | 18 | [Dance Monkey](https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse \(Deluxe\)](https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN) | 3:29 |
-| 19 | [My Love](https://open.spotify.com/track/4N1MFKjziFHH4IS3RYYUrU) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [My Love](https://open.spotify.com/album/4ZD1KnBqghtSAEyqrZAkU4) | 4:19 |
-| 20 | [Prayer in C \- Robin Schulz Radio Edit](https://open.spotify.com/track/5fnA9mkIfScSqHIpeDyvck) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Prayer in C](https://open.spotify.com/album/6Ps0kbvAjuz75uK0uuZzWa) | 3:09 |
+| 19 | [Prayer in C \- Robin Schulz Radio Edit](https://open.spotify.com/track/5fnA9mkIfScSqHIpeDyvck) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Prayer in C](https://open.spotify.com/album/6Ps0kbvAjuz75uK0uuZzWa) | 3:09 |
+| 20 | [My Love](https://open.spotify.com/track/4N1MFKjziFHH4IS3RYYUrU) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [My Love](https://open.spotify.com/album/4ZD1KnBqghtSAEyqrZAkU4) | 4:19 |
 | 21 | [Sweet Dreams](https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Sweet Dreams](https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR) | 2:18 |
 | 22 | [The Business](https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [The Business](https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm) | 2:44 |
 | 23 | [Loco Contigo \(feat\. J\. Balvin & Tyga\)](https://open.spotify.com/track/6osaMSJh9NguagEDQcZaKx) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Carte Blanche](https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR) | 3:05 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35UmSKx1jwI.md) - [plain]
 | 59 | [Caught A Body \(with Ty Dolla $ign\)](https://open.spotify.com/track/4JvJj733DNy6nuVcC1NzCq) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Caught A Body \(with Ty Dolla $ign\)](https://open.spotify.com/album/5JEgZa6di9DVcftMmEoN2r) | 2:29 |
 | 60 | [Believe](https://open.spotify.com/track/2iRQKePYqxqXLW01HCVZzG) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Believe](https://open.spotify.com/album/6ZWhhiys8UVoTKSVQdklan) | 2:09 |
 
-Snapshot ID: `MCw2NWYxMzc3Yzc1ZTBjMDFkMzU1OWExMjE4ZjIyZTVlNjhmZjhmNjJk`
+Snapshot ID: `MCxlYWU5NzJhMzQ2MTk3OTJlNGQ0MjFlYzRkOWM0MWRkYzllZDA2OTQ3`

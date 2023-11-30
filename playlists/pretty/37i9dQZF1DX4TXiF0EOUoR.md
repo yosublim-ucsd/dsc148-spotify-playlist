@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 
 > ¡Los reyes del jaripeo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,841 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,044 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 | 40 | [El Guapo](https://open.spotify.com/track/51zDKkKUFMpKtT40t80lpq) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [El Guapo](https://open.spotify.com/album/1pSk7ehWJhdmJYaU8JobaP) | 3:08 |
 | 41 | [El Toro Pinto](https://open.spotify.com/track/4Iehg5erUkn9UMvyc1N2fB) | [Banda Zirahuen](https://open.spotify.com/artist/7HLRLMnyM5R8wHIds5PfZ7) | [Exitos](https://open.spotify.com/album/0oduvh6rT62D4y2vTBPJAj) | 4:49 |
 | 42 | [El Muchacho Alegre](https://open.spotify.com/track/5R9M8yBGVGs3VpkBWXAyll) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Decimo Aniversario](https://open.spotify.com/album/1zhTxS7ylCGBu2tKivVdyF) | 3:19 |
-| 43 | [Chinelo Carnavalero](https://open.spotify.com/track/03RZNxQS4tgclnqCpRf3uv) | [Banda Bucanera](https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy), [Salvador Yañez](https://open.spotify.com/artist/1ER7kw9u3miriELlOluY3e) | [Puras Carnavaleras, Vol\. 2](https://open.spotify.com/album/332rbeyvixuVxaVsNoS02G) | 3:46 |
-| 44 | [Cinco De Té \- En Vivo](https://open.spotify.com/track/5z00b6yYj7hKiE2MCVgeZM) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [La Parranda De Los Amigos \(Vol\. 2 / En Vivo\)](https://open.spotify.com/album/6zAsjRleHzUXZxCI2XEDWX) | 3:40 |
+| 43 | [Cinco De Té \- En Vivo](https://open.spotify.com/track/5z00b6yYj7hKiE2MCVgeZM) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [La Parranda De Los Amigos \(Vol\. 2 / En Vivo\)](https://open.spotify.com/album/6zAsjRleHzUXZxCI2XEDWX) | 3:40 |
+| 44 | [Chinelo Carnavalero](https://open.spotify.com/track/03RZNxQS4tgclnqCpRf3uv) | [Banda Bucanera](https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy), [Salvador Yañez](https://open.spotify.com/artist/1ER7kw9u3miriELlOluY3e) | [Puras Carnavaleras, Vol\. 2](https://open.spotify.com/album/332rbeyvixuVxaVsNoS02G) | 3:46 |
 | 45 | [Mi Gusto Es](https://open.spotify.com/track/7t2ix5iyt6UPwKkaXbgL8s) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Era Cab \- El Viejo](https://open.spotify.com/album/5BQIRjVPuSGgT9AB11jzKu) | 2:33 |
 | 46 | [Y Claro Que Se Puede \- Sones para Jaripeo](https://open.spotify.com/track/5HH3ziXLVxqXYnDk7mJkLf) | [Banda los Chirimoyos](https://open.spotify.com/artist/6mr0v6JRCgoEEZVZXcbFKb) | [Aquel Amor \(Desde Tingambato Michoacan\)](https://open.spotify.com/album/0P2YrsgLMeypYMjenrM7hr) | 4:06 |
 | 47 | [El Son de los Ocampo](https://open.spotify.com/track/1SbZqxZoxZKuJTQzEDwV2M) | [Banda La Fregona](https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7) | [De la Ciudad pal' Rancho \(Puro Añuuu Weiii\)](https://open.spotify.com/album/2JN6smXOqkzHF0dXAtCFcJ) | 2:45 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 | 66 | [Pelea De Gallos \- En Vivo](https://open.spotify.com/track/0Ytws5SI0vLt2uPWvkgsj0) | [La Explosiva Banda de Maza](https://open.spotify.com/artist/2KgVCSjwMY3lqnXElXFqTR) | [En Vivo Desde El Rancho](https://open.spotify.com/album/4zgtbXo3phFaCdBnGQ4x8N) | 3:16 |
 | 67 | [Los Colorados \(feat\. Banda los Escamilla\)](https://open.spotify.com/track/5xLUgaS5V8x2cDfvdwH4Je) | [Marco Flores Y La Jerez](https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80), [Banda Los Escamilla](https://open.spotify.com/artist/1QOcySvn6xdJQlWVnn9LVE) | [Zapateado Perron](https://open.spotify.com/album/3Lz2dyR7iYlDI600eyCDD6) | 2:47 |
 | 68 | [El Toro De Once \(En Vivo\)](https://open.spotify.com/track/4jAO429cfLZ4ctSM0QqYOZ) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Puras De Viento En Vivo, Vol\. 2](https://open.spotify.com/album/2I1QM5M1gqlrpV6IbkYUrz) | 1:59 |
-| 69 | [El Novillo Despuntado / Toro Pinto](https://open.spotify.com/track/4nkSKijMRBnFNF5rOckLPL) | [La Razza del Compa Edgar](https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K) | [El Novillo Despuntado / Toro Pinto](https://open.spotify.com/album/1EhpKhG4GZk68qlAtupGzv) | 4:37 |
-| 70 | [El Tiliche](https://open.spotify.com/track/1Nzjgrrt5viVSG8ZSVS4WJ) | [Banda Zirahuen](https://open.spotify.com/artist/7HLRLMnyM5R8wHIds5PfZ7) | [Que Lindo Es Michoacán! \(Puros Sones!\)](https://open.spotify.com/album/2SZ3bcNDilMhbkhCBZv8WR) | 2:18 |
+| 69 | [El Tiliche](https://open.spotify.com/track/1Nzjgrrt5viVSG8ZSVS4WJ) | [Banda Zirahuen](https://open.spotify.com/artist/7HLRLMnyM5R8wHIds5PfZ7) | [Que Lindo Es Michoacán! \(Puros Sones!\)](https://open.spotify.com/album/2SZ3bcNDilMhbkhCBZv8WR) | 2:18 |
+| 70 | [El Novillo Despuntado / Toro Pinto](https://open.spotify.com/track/4nkSKijMRBnFNF5rOckLPL) | [La Razza del Compa Edgar](https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K) | [El Novillo Despuntado / Toro Pinto](https://open.spotify.com/album/1EhpKhG4GZk68qlAtupGzv) | 4:37 |
 | 71 | [Recuerdos a Hernán](https://open.spotify.com/track/6Jii7DExy2n4XzOGOhingJ) | [Banda Alteñita de Morelia](https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA) | [De Michoacán al Guamuchil \(Los Mejores Sones de Jaripeo\)](https://open.spotify.com/album/5L4DglvthWqL4C95K4xhzQ) | 3:03 |
 | 72 | [Las Consentidas del Maka / El Coyotito / Los Colorados / Flor de Piña \- En Vivo](https://open.spotify.com/track/7BbnJBLTG8ldzDHfED34iA) | [Banda La Fregona](https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7) | [Banda la Fregona: Primer Aniversario \(En Vivo\)](https://open.spotify.com/album/1OvXeQz11E5mRcz0cqQNx4) | 7:41 |
 | 73 | [El Torito de Petate \- La Fiesta del Carnaval](https://open.spotify.com/track/3gnPTcrVXDY0fN3gjMCCB2) | [Banda Monarca de Morelia](https://open.spotify.com/artist/5iGyyOAirGdcluvetz7mMn) | [Y Seguimos Loqueando!](https://open.spotify.com/album/03RRx4Txfj8Q151lsqoJAq) | 4:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 | 99 | [La Vaquilla, El Pájaro Chogüi](https://open.spotify.com/track/5hiixMpxeytn72OjwV0eFt) | [Los Infinitos Puro Zirahuen](https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9) | [Las Alegres de los Infinitos](https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d) | 5:00 |
 | 100 | [El Colirio](https://open.spotify.com/track/5mP19u1ndgdqtegwiTXpoU) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Sones Raíces](https://open.spotify.com/album/3NBDJkiyvtvl77Zvs2JIph) | 2:07 |
 
-Snapshot ID: `MCw0MjA5NDM3YmI2ZDJiOTlmMmQ1MTEyYzFmY2M4MzgwZWIxZmI2OWE5`
+Snapshot ID: `MCxhYWE1NDk1ZGJhNjhiYWJiM2E0OGQ5YmZiZjVjNWUxYWQ1YzI4NzMz`

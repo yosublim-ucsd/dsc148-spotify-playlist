@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Lazy slow lofi beats for laid\-back moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 626,365 likes - 344 songs - 13 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 626,851 likes - 344 songs - 13 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -353,4 +353,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 343 | [Tough Night](https://open.spotify.com/track/4qzBVxq0XSjUuqWTEu5QON) | [Paxkalito](https://open.spotify.com/artist/3GzNXHI7uiWVe0TnkUvP0f), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Tough Night](https://open.spotify.com/album/61qouf83vvQBSFpHUXGZkN) | 2:13 |
 | 344 | [Waves](https://open.spotify.com/track/1sv9a2DenuK90P0rBkXKEe) | [Frogman](https://open.spotify.com/artist/6yctnLGapq1IRKYFxvXHbI), [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Waves](https://open.spotify.com/album/4RE8BchKFFeqiijkE965MR) | 2:31 |
 
-Snapshot ID: `MCxiYmFiMmRmMzU4N2E4YzdlZDNmY2IyZGZkNWFjNmI4NDU2ODJkMjQx`
+Snapshot ID: `MCwzZjM5NjNhMzg1ZmNjYTVjMDFkNDllNDM0YmIxZDg1YWEzMGM4MTU2`

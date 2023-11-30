@@ -1,12 +1,12 @@
 {
   "description": "Pop ac\u00fastico para tu d\u00eda.",
-  "num_followers": 1994348,
+  "num_followers": 1994334,
   "original_name": "Mediod\u00eda Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNmY2MTc0ZWE1Y2U3Yjg3ZGU2ODcyODYwYzUyYzMyODBmNmEwNWI4",
+  "snapshot_id": "MCxhMjQ3OWZiMzUwNTZiNzRiOGY2MWYwMGY3MmI1OGNmMDAyYjkzZTA5",
   "tracks": [
     {
       "added_at": "2023-11-24 05:00:00",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "La \u00daltima Canci\u00f3n",
-        "url": "https://open.spotify.com/album/0pSYqGyZXM9SlyTdyB1t1N"
-      },
-      "artists": [
-        {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
-        }
-      ],
-      "duration_ms": 195789,
-      "name": "La \u00daltima Canci\u00f3n",
-      "url": "https://open.spotify.com/track/0wKivXf3kIW91AtEll1Aqa"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Julieta Venegas - MTV Unplugged",
         "url": "https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 226373,
       "name": "Ilusion (Unplugged) (En Vivo) (with Marisa Monte)",
       "url": "https://open.spotify.com/track/2EGDo3bF1gbRvRqFxoKoV3"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "La \u00daltima Canci\u00f3n",
+        "url": "https://open.spotify.com/album/0pSYqGyZXM9SlyTdyB1t1N"
+      },
+      "artists": [
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        }
+      ],
+      "duration_ms": 195789,
+      "name": "La \u00daltima Canci\u00f3n",
+      "url": "https://open.spotify.com/track/0wKivXf3kIW91AtEll1Aqa"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Soldadito de Hierro",
-        "url": "https://open.spotify.com/album/4aF473yAU7HOafe47RWrLk"
-      },
-      "artists": [
-        {
-          "name": "Nil Moliner",
-          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
-        }
-      ],
-      "duration_ms": 142964,
-      "name": "Soldadito de Hierro",
-      "url": "https://open.spotify.com/track/3DfUO7e24abpbIreUpUK4B"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "desde que estas en mi vida",
         "url": "https://open.spotify.com/album/0YV5IL1vIj4oxqY7EJb7hX"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 202826,
       "name": "desde que estas en mi vida",
       "url": "https://open.spotify.com/track/0e43i8zcjJrAPUztNJro3X"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Soldadito de Hierro",
+        "url": "https://open.spotify.com/album/4aF473yAU7HOafe47RWrLk"
+      },
+      "artists": [
+        {
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        }
+      ],
+      "duration_ms": 142964,
+      "name": "Soldadito de Hierro",
+      "url": "https://open.spotify.com/track/3DfUO7e24abpbIreUpUK4B"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Planeando Madrid",
+        "url": "https://open.spotify.com/album/6nKhhgRiT0icKwW12lgVKS"
+      },
+      "artists": [
+        {
+          "name": "Gonza Silva",
+          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
+        }
+      ],
+      "duration_ms": 252736,
+      "name": "Planeando Madrid",
+      "url": "https://open.spotify.com/track/6SreMzzAJ5OFN396IJnBlq"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Tr3s Presents Juanes MTV Unplugged",
         "url": "https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 255514,
       "name": "Tus Ojitos",
       "url": "https://open.spotify.com/track/0zoxIUnCEpCXayf35r17gd"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Planeando Madrid",
-        "url": "https://open.spotify.com/album/6nKhhgRiT0icKwW12lgVKS"
-      },
-      "artists": [
-        {
-          "name": "Gonza Silva",
-          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
-        }
-      ],
-      "duration_ms": 252736,
-      "name": "Planeando Madrid",
-      "url": "https://open.spotify.com/track/6SreMzzAJ5OFN396IJnBlq"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Tusa",
-        "url": "https://open.spotify.com/album/6MwzNJsdOyTx6b6dbAv1wc"
-      },
-      "artists": [
-        {
-          "name": "Las Alas",
-          "url": "https://open.spotify.com/artist/7EDkJGsKXojvsTgh8Yt1ar"
-        }
-      ],
-      "duration_ms": 153564,
-      "name": "Tusa",
-      "url": "https://open.spotify.com/track/2KhQWu0rUU6zGu53c6nkVs"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/0fO8mzViUoz12iCHrPppE9"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 255133,
       "name": "Mar\u00eda - Unplugged",
       "url": "https://open.spotify.com/track/4KDHQ9jwEg03Ex7TG6tdm8"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Tusa",
+        "url": "https://open.spotify.com/album/6MwzNJsdOyTx6b6dbAv1wc"
+      },
+      "artists": [
+        {
+          "name": "Las Alas",
+          "url": "https://open.spotify.com/artist/7EDkJGsKXojvsTgh8Yt1ar"
+        }
+      ],
+      "duration_ms": 153564,
+      "name": "Tusa",
+      "url": "https://open.spotify.com/track/2KhQWu0rUU6zGu53c6nkVs"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "BIG BANG",
-        "url": "https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS"
-      },
-      "artists": [
-        {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
-        }
-      ],
-      "duration_ms": 183131,
-      "name": "BIG BANG",
-      "url": "https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Voy Cantando",
         "url": "https://open.spotify.com/album/27rvAk3yuyxiv5cdKihsXY"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 262050,
       "name": "Voy Cantando",
       "url": "https://open.spotify.com/track/0iROP0Xo315A0ImonYR499"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "BIG BANG",
+        "url": "https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 183131,
+      "name": "BIG BANG",
+      "url": "https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Si Te Soy M\u00e1s Sincera",
-        "url": "https://open.spotify.com/album/3j5jBheSpnsonl8m8Fdga3"
-      },
-      "artists": [
-        {
-          "name": "Valentina Rico",
-          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
-        }
-      ],
-      "duration_ms": 169666,
-      "name": "Cinco Letras",
-      "url": "https://open.spotify.com/track/2TVSNN2hGNYsOay9QWCnym"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Flotando (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 256708,
       "name": "Flotando (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/1UmmEBHP4MKyExlob4MJbu"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Si Te Soy M\u00e1s Sincera",
+        "url": "https://open.spotify.com/album/3j5jBheSpnsonl8m8Fdga3"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "duration_ms": 169666,
+      "name": "Cinco Letras",
+      "url": "https://open.spotify.com/track/2TVSNN2hGNYsOay9QWCnym"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1615,6 +1615,38 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Amiga Cruel (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4nVhklAIoayQe43DB5Qg3K"
+      },
+      "artists": [
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        }
+      ],
+      "duration_ms": 217031,
+      "name": "Amiga Cruel (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/5c8mWRQFH9jFfcxc96QtTI"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "En Ac\u00fastico",
+        "url": "https://open.spotify.com/album/6SIva4NYVKvJoJVfExZYDk"
+      },
+      "artists": [
+        {
+          "name": "Jxta Martin",
+          "url": "https://open.spotify.com/artist/689Xz3YbAUBmCsDYUxLu7P"
+        }
+      ],
+      "duration_ms": 207207,
+      "name": "Destino - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1UUAtmVInu4DNChh5HYiHk"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "rimas del verbo amar",
         "url": "https://open.spotify.com/album/7Dbf6NKWAFQu991Qm1MROn"
       },
@@ -1651,38 +1683,6 @@
       "duration_ms": 223634,
       "name": "La Parte Buena",
       "url": "https://open.spotify.com/track/7qXpn9MV3tBoEWI7kr13rQ"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Amiga Cruel (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/4nVhklAIoayQe43DB5Qg3K"
-      },
-      "artists": [
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
-        }
-      ],
-      "duration_ms": 217031,
-      "name": "Amiga Cruel (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/5c8mWRQFH9jFfcxc96QtTI"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "En Ac\u00fastico",
-        "url": "https://open.spotify.com/album/6SIva4NYVKvJoJVfExZYDk"
-      },
-      "artists": [
-        {
-          "name": "Jxta Martin",
-          "url": "https://open.spotify.com/artist/689Xz3YbAUBmCsDYUxLu7P"
-        }
-      ],
-      "duration_ms": 207207,
-      "name": "Destino - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/1UUAtmVInu4DNChh5HYiHk"
     },
     {
       "added_at": "2023-11-24 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 
 > This is what folk sounds like en español\. Cover: Mateo Falgas
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,872 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,886 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 | 39 | [My Best Self](https://open.spotify.com/track/58e3Ax9ugjBhlSd5V0pMH1) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [My Best Self](https://open.spotify.com/album/2z07bBhBWhhCEuGPD6FiEl) | 3:05 |
 | 40 | [La Casa de la Esquina](https://open.spotify.com/track/20WdW4UdJHtYcaQEyEktaa) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Te mereces un amor](https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF) | 3:44 |
 | 41 | [Romancera](https://open.spotify.com/track/4HED7T9WqduhZ6TgMl7ugE) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Romancera](https://open.spotify.com/album/427UD26U4IkJqIUicqVMZ9) | 3:52 |
-| 42 | [Ojos Del Sol](https://open.spotify.com/track/2gke8YaJQur5OpkWAeIMdz) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Ojos Del Sol](https://open.spotify.com/album/1bv229IwMr6O2Id5jVZqmc) | 4:05 |
-| 43 | [Found Love](https://open.spotify.com/track/06bP5fBUljQLN6GPEMpiFr) | [We The Lion](https://open.spotify.com/artist/0D8xIv7lt4m33tauA1HP0z) | [Violet](https://open.spotify.com/album/5hUBJd7VEVWEbsugJLTU9G) | 3:16 |
+| 42 | [Found Love](https://open.spotify.com/track/06bP5fBUljQLN6GPEMpiFr) | [We The Lion](https://open.spotify.com/artist/0D8xIv7lt4m33tauA1HP0z) | [Violet](https://open.spotify.com/album/5hUBJd7VEVWEbsugJLTU9G) | 3:16 |
+| 43 | [Ojos Del Sol](https://open.spotify.com/track/2gke8YaJQur5OpkWAeIMdz) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Ojos Del Sol](https://open.spotify.com/album/1bv229IwMr6O2Id5jVZqmc) | 4:05 |
 | 44 | [¿Y Si Te Invito?](https://open.spotify.com/track/0foW7sax16CI8UizVAek32) | [Axel Márquez](https://open.spotify.com/artist/0nY0rYPHRYTji024zspDCw) | [¿Y Si Te Invito?](https://open.spotify.com/album/2OV0dtRMPMLrL1kdEQCdTR) | 3:06 |
 | 45 | [Norte](https://open.spotify.com/track/14DdKjlEHuI1DlSS8aKW0o) | [Inazio](https://open.spotify.com/artist/29KrMIwUUqCvc66OHLcSMl) | [Norte](https://open.spotify.com/album/7rFobKKdxE3gRflCho8mUY) | 3:10 |
 | 46 | [Hermosa Drive](https://open.spotify.com/track/5kIdVCUXE6JzR08sxRxNwc) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [El Bueno Y El Malo](https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ) | 3:54 |
@@ -63,14 +63,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 | 53 | [Otros Colores](https://open.spotify.com/track/6VbEA6Zk7964dwD2fd2HbD) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Aroma A Nostalgia \(Deluxe Edition\)](https://open.spotify.com/album/3K6S0Mt1ZMrcjuCiOztmBJ) | 5:51 |
 | 54 | [Laberinto](https://open.spotify.com/track/1byWs41iY3MDKPS8V9QZY9) | [Adrián Berra](https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO) | [Respirar Bajo el Agua](https://open.spotify.com/album/79GGYEs02s4cfJKaEFLVyZ) | 2:45 |
 | 55 | [Nada Para Ti](https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nada Para Ti](https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t) | 3:56 |
-| 56 | [Qué Problema](https://open.spotify.com/track/5fiOIyutgV4TszPKySLCkK) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Qué Problema](https://open.spotify.com/album/1u8GnaKIBV0PiUY67c3WOp) | 3:24 |
-| 57 | [Quiero Sentirlo Todo](https://open.spotify.com/track/4nM3NRbtpF2gQwI1pl7Y2T) | [Arath Herce](https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs) | [Balboa](https://open.spotify.com/album/5Tpwq4dowN61wcGVAbO79I) | 3:40 |
+| 56 | [Quiero Sentirlo Todo](https://open.spotify.com/track/4nM3NRbtpF2gQwI1pl7Y2T) | [Arath Herce](https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs) | [Balboa](https://open.spotify.com/album/5Tpwq4dowN61wcGVAbO79I) | 3:40 |
+| 57 | [Qué Problema](https://open.spotify.com/track/5fiOIyutgV4TszPKySLCkK) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Qué Problema](https://open.spotify.com/album/1u8GnaKIBV0PiUY67c3WOp) | 3:24 |
 | 58 | [El Hombre Que Casi Conoció a Michi Panero](https://open.spotify.com/track/4DLQ9mWBFWj7XjpQk1FtmP) | [Nacho Vegas](https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn) | [Desaparezca Aquí](https://open.spotify.com/album/2L8X2C1ySndk4McTP6lfpf) | 5:45 |
 | 59 | [Luna de Xelajú \(feat\. Oscar Isaac\)](https://open.spotify.com/track/34ajEsNwrD90F2K80UjeLs) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW), [Oscar Isaac](https://open.spotify.com/artist/5opRYqktzpMFqZ7jtnp7yy) | [Luna de Xelajú \(feat\. Oscar Isaac\)](https://open.spotify.com/album/17gVN1sl8a6wg1yBLPyCiE) | 3:18 |
 | 60 | [Qué Tal](https://open.spotify.com/track/6EcdAJ3z6fb3xdMJCIukgV) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy) | [Qué Tal](https://open.spotify.com/album/5z7Aq8OR67uY4iWTuIh8E7) | 2:44 |
 | 61 | [El Invento](https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [El Invento](https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa) | 2:33 |
-| 62 | [Una Noche Más](https://open.spotify.com/track/6pvI4K60p2al6jJkpvQljv) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Una Noche Más](https://open.spotify.com/album/1r21c8aJPF8XFY0zJT5poD) | 3:20 |
-| 63 | [Cósmosis](https://open.spotify.com/track/3vttNxDd4DyFbOJqCsuklx) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [Cósmosis](https://open.spotify.com/album/6NESna540i2qvjwpeUmEhx) | 4:06 |
+| 62 | [Cósmosis](https://open.spotify.com/track/3vttNxDd4DyFbOJqCsuklx) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [Cósmosis](https://open.spotify.com/album/6NESna540i2qvjwpeUmEhx) | 4:06 |
+| 63 | [Una Noche Más](https://open.spotify.com/track/6pvI4K60p2al6jJkpvQljv) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Una Noche Más](https://open.spotify.com/album/1r21c8aJPF8XFY0zJT5poD) | 3:20 |
 | 64 | [¿Qué Será De Mí?](https://open.spotify.com/track/0LpvtGk7G8MhRB5bczQe8p) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [TRES](https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu) | 3:26 |
 | 65 | [azul](https://open.spotify.com/track/0KqWGI9OozmFKkHAIRdQ27) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Vacación](https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd) | [azul](https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK) | 2:45 |
 | 66 | [Más](https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X) | [Sofía Paola](https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx) | [Más](https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7) | 3:07 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 | 74 | [Ganas de Dejarte](https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [Ganas de Dejarte](https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za) | 2:19 |
 | 75 | [Café Conmigo](https://open.spotify.com/track/3X6zoxS109LGpWrz7WysW0) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Café Conmigo](https://open.spotify.com/album/22jSbACBDtGXlqMbZPeIu5) | 2:56 |
 
-Snapshot ID: `MCwwYmE2YWNjMTA4Nzk3ZTY5OGFjMTQyYWYyMWMzN2U0OGM3Y2QwNjhh`
+Snapshot ID: `MCxmN2VlMDk3ZjBkNmFiM2E2ZTVmNmRiN2Y5MzkwOTQ4MzJiNTNhMDE1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 
 > Prepare for Easter week by reflecting on songs of Jesus' life, death, and resurrection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,907 likes - 75 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,906 likes - 75 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 | 11 | [Holy Water](https://open.spotify.com/track/1xI9KSGNJB2eka8FMvovvi) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Holy Water](https://open.spotify.com/album/5xAesqK2Ke6g4Y0W9CSijV) | 4:02 |
 | 12 | [I Surrender](https://open.spotify.com/track/13p3U002Sv8z722mFjTuWi) | [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir), [Leslie Jordan](https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh), [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Poets & Saints](https://open.spotify.com/album/4Ep9pR8RIXphUEEkgeELBK) | 4:13 |
 | 13 | [Resurrection Day](https://open.spotify.com/track/36AKA4ge37GanDDTYKFg2g) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Good News \(Deluxe Edition\)](https://open.spotify.com/album/1do9XXkq2SLwDV7vsEjtjg) | 3:43 |
-| 14 | [Sunday Is Coming](https://open.spotify.com/track/0dfxpz0mUoucs8Gv56oH1D) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I Believe](https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc) | 4:52 |
-| 15 | [God Of Miracles \- Live](https://open.spotify.com/track/2RwzuFDm2uqTaMMXXSZSw6) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Everything And Nothing Less \(Live\)](https://open.spotify.com/album/66663xiz1SATmBnF78aEpA) | 5:26 |
+| 14 | [God Of Miracles \- Live](https://open.spotify.com/track/2RwzuFDm2uqTaMMXXSZSw6) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Everything And Nothing Less \(Live\)](https://open.spotify.com/album/66663xiz1SATmBnF78aEpA) | 5:26 |
+| 15 | [Sunday Is Coming](https://open.spotify.com/track/0dfxpz0mUoucs8Gv56oH1D) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I Believe](https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc) | 4:52 |
 | 16 | [Wake Up Sleeper](https://open.spotify.com/track/72X6vrEvMcadOLnXCBZnbv) | [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU) | [Wake Up Sleeper \- EP](https://open.spotify.com/album/0MhvhlFYutt9n9NGAYPzg5) | 2:47 |
 | 17 | [Grace Alone](https://open.spotify.com/track/5ufigJk0mtxqgWUsQ0PzwS) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [Becoming Who We Are](https://open.spotify.com/album/6BPm1T672Bd3SR0PnyLRif) | 3:38 |
 | 18 | [To the Table](https://open.spotify.com/track/0qriSYsqivuTCm0J8mYICj) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Chain Breaker \(Deluxe Edition\)](https://open.spotify.com/album/1SIDIEoYi0EAlRqa1J6J7N) | 4:00 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 | 72 | [Unveil My Eyes](https://open.spotify.com/track/3q2YCR0NGK1cTm9epl4q23) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Echoes Of Wonder](https://open.spotify.com/album/0DuV8V9ZQQ7LnD22evmLsd) | 2:03 |
 | 73 | [Hallelujah Amen \(feat\. Jon Guerra\)](https://open.spotify.com/track/78wyAJJM6TsN428S5ScPg7) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o), [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Hallelujah Amen \(feat\. Jon Guerra\)](https://open.spotify.com/album/7Dfu32GbtgxM3asJTI8zlZ) | 5:18 |
 | 74 | [Glorious](https://open.spotify.com/track/1jOzjWWNdIEKfX8g48FDEu) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [See The Morning](https://open.spotify.com/album/1rt1h8pDDeJoVJrr5jbAmi) | 4:01 |
-| 75 | [Celebration at the Empty Grave](https://open.spotify.com/track/55QERSLUTHM82JBsoTO78m) | [Down East Boys](https://open.spotify.com/artist/0Zg0qh2ZQsBDm68196Ofln) | [Celebration at the Empty Grave](https://open.spotify.com/album/3lAyWpRS4zkP4tBOWOTL4d) | 3:40 |
+| 75 | [Ashes \(feat\. Chris McClarney\)](https://open.spotify.com/track/01F2MJzSFzD0Wqhg2bpmvG) | [Dara Maclean](https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm), [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Ashes \(feat\. Chris McClarney\)](https://open.spotify.com/album/1SFDjdhnnT087ZPbKL33st) | 4:39 |
 
-Snapshot ID: `MCw1YTI5NWM2N2YyZDI3MGUwZmEzMmJhMDFkMjk2Yjg5M2M5Y2Y3ZGZi`
+Snapshot ID: `MCwwNDNlNjBlOGVmMTZiOTFjMjYzYjhmZTEwYTBiZjBiZWIxNDQ5ZmQ3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,811 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,875 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,10 +72,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 62 | [Tides](https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Tides](https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY) | 3:46 |
 | 63 | [What About Me \(feat\. Sosamann\)](https://open.spotify.com/track/3JX0dOCIAiaR8MP3ryXWuM) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Sosamann](https://open.spotify.com/artist/3Bj81IbILbuj2uEwWXMdXI) | [Tha Carter V](https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg) | 3:36 |
 | 64 | [The Mannequin Song](https://open.spotify.com/track/0m35SoBcW7jLn9jpF1WktE) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [The Mannequin Song](https://open.spotify.com/album/0Im43RZaQ5RIKHRn6mKTAQ) | 2:44 |
-| 65 | [Way Out](https://open.spotify.com/track/54vmnIj6yLipSrw1KMK3zg) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:20 |
-| 66 | [Want U Bad](https://open.spotify.com/track/5Oh1oHKCGN0LhlOp9RUhP3) | [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF) | [Want U Bad](https://open.spotify.com/album/2CNJGfWY7q1ZwiQa3Gk8IT) | 3:42 |
-| 67 | [Awake](https://open.spotify.com/track/5XMtZsNkezcv695DQSZo0L) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:46 |
-| 68 | [Revenge Of The Number](https://open.spotify.com/track/1ScZSUcqKAYPoBhL8KL5pU) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Numb](https://open.spotify.com/album/16TtKhePgbLxoqSOvJVQKu) | 3:22 |
+| 65 | [Revenge Of The Number](https://open.spotify.com/track/1ScZSUcqKAYPoBhL8KL5pU) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Numb](https://open.spotify.com/album/16TtKhePgbLxoqSOvJVQKu) | 3:22 |
+| 66 | [Way Out](https://open.spotify.com/track/54vmnIj6yLipSrw1KMK3zg) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:20 |
+| 67 | [Want U Bad](https://open.spotify.com/track/5Oh1oHKCGN0LhlOp9RUhP3) | [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF) | [Want U Bad](https://open.spotify.com/album/2CNJGfWY7q1ZwiQa3Gk8IT) | 3:42 |
+| 68 | [Awake](https://open.spotify.com/track/5XMtZsNkezcv695DQSZo0L) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:46 |
 | 69 | [Feel A Way](https://open.spotify.com/track/0Nt3UdaA4KrHEUSNwq9nCI) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [I Used To Know Her](https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg) | 3:28 |
 | 70 | [Cheap Vacations \(feat\. Glassface\)](https://open.spotify.com/track/7fGmx2dHgPwynQrfwPMemP) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [Glassface](https://open.spotify.com/artist/4X4M4anXziw63YWbKxZwiP) | [Live on Ice](https://open.spotify.com/album/6K7SjlIebufubxXGf4uA7a) | 3:35 |
 | 71 | [Slowing Down](https://open.spotify.com/track/7mV7MXnHBHMhKC3aRQX6z4) | [Bronze Whale](https://open.spotify.com/artist/448VwSmqc6SpRDqK5WYXIt) | [Slowing Down](https://open.spotify.com/album/3D7t1vyMzSbE98hO5yLHiG) | 2:55 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 89 | [Can't Find](https://open.spotify.com/track/7KKuseiLhKfoP353BjJduf) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [Me In Dat Blue](https://open.spotify.com/album/5nWNY2ELKVX8cfukWR0Rfx) | 4:19 |
 | 90 | [Some Place Else](https://open.spotify.com/track/4gO4OomMLvV3l9KoyMpeft) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Some Place Else](https://open.spotify.com/album/5lGV6B08akg9VD5VhqHb5v) | 3:34 |
 | 91 | [Queen Space \(with Summer Walker\)](https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Queen Space \(with Summer Walker\)](https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV) | 3:50 |
-| 92 | [TRAVELIN'](https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [TRAVELIN'](https://open.spotify.com/album/2y0dyhEYehIoXnEkXLuD7y) | 3:37 |
-| 93 | [Secrets](https://open.spotify.com/track/4tn5zAuILpz5GjsdoosU3G) | [Nomyn](https://open.spotify.com/artist/5VbsCwCoxtsC4nRCyLJveN), [Angelicca](https://open.spotify.com/artist/5Jxv8p3dEf5cFKiDaNdvLP) | [Secrets](https://open.spotify.com/album/059780GUzrYPDmQF1tlsek) | 3:16 |
+| 92 | [Secrets](https://open.spotify.com/track/4tn5zAuILpz5GjsdoosU3G) | [Nomyn](https://open.spotify.com/artist/5VbsCwCoxtsC4nRCyLJveN), [Angelicca](https://open.spotify.com/artist/5Jxv8p3dEf5cFKiDaNdvLP) | [Secrets](https://open.spotify.com/album/059780GUzrYPDmQF1tlsek) | 3:16 |
+| 93 | [TRAVELIN'](https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [TRAVELIN'](https://open.spotify.com/album/2y0dyhEYehIoXnEkXLuD7y) | 3:37 |
 | 94 | [Remember](https://open.spotify.com/track/0rCBbW26RIbOH4i1CHmxP3) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Remember](https://open.spotify.com/album/29YT1RXwT1qtQFAw5PMmjL) | 3:19 |
-| 95 | [walk but in a garden \(with mxmtoon\)](https://open.spotify.com/track/4Kpt4pk9xgOlIgu9qvUrxC) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [walk but in a garden](https://open.spotify.com/album/73B3H18jWD1TVDWId6CifF) | 1:52 |
-| 96 | [Forever](https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Forever](https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S) | 4:13 |
+| 95 | [Forever](https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Forever](https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S) | 4:13 |
+| 96 | [walk but in a garden \(with mxmtoon\)](https://open.spotify.com/track/4Kpt4pk9xgOlIgu9qvUrxC) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [walk but in a garden](https://open.spotify.com/album/73B3H18jWD1TVDWId6CifF) | 1:52 |
 | 97 | [Heat](https://open.spotify.com/track/1WMgD7XURLt8bb5p8uM2Pj) | [breathe.](https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE), [L.A\. Rose](https://open.spotify.com/artist/0gKIGwEwHA8mOrLyzbRAjr) | [breathe.](https://open.spotify.com/album/29l6kAoHxTK5vYF5fsbiRs) | 3:10 |
 | 98 | [Oceansize](https://open.spotify.com/track/37oz0tZXDhBDOzPSAvxX9W) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Home Tapes](https://open.spotify.com/album/6ZGs1cTdS7wvHa10DicJuw) | 3:43 |
 | 99 | [Gone 2 Long](https://open.spotify.com/track/0V6p1at8MSW6WEhSp5EzVG) | [PRETTYMUCH](https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1) | [Gone 2 Long](https://open.spotify.com/album/7qMx6YrIMl5XjjZLRyR9OZ) | 3:15 |
 | 100 | [Something to Feel](https://open.spotify.com/track/1IRELSd0k5ycjtvPUlUEXI) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Something to Feel](https://open.spotify.com/album/02dq5KH5htRQNedTyplLu8) | 3:33 |
 
-Snapshot ID: `MCxlYjlhNTlkNTNmOTEzOTY2ODlkMGI1ZDQwNGJlZTYzM2UzNTJlNmU3`
+Snapshot ID: `MCxjODc3NmMyMzFiZjc5MDY0MDQ0ODVkZmU4ZTk5NjMwMDk5YzVlNGYw`

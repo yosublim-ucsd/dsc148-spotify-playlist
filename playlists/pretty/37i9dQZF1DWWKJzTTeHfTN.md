@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKJzTTeHfTN.md) - [plain]
 
 > Prepare for the upcoming world tour finale by listening to TXT's best songs! \(TXT의 베스트 곡들을 들으며 다가오는 월드 투어 피날레를 준비해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 799 likes - 97 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,495 likes - 97 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKJzTTeHfTN.md) - [plain]
 | 96 | [君じゃない誰かの愛し方 \(Ring\) \- Unplugged Ver.](https://open.spotify.com/track/0K1jAnEXaT5BPK6Q6z7WQT) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [SWEET](https://open.spotify.com/album/60A86b5rgjI35DzjphO0Iy) | 3:25 |
 | 97 | [Outro : FALLING](https://open.spotify.com/track/4e6VsQ4MBI6hAFXMrEFSUV) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [SWEET](https://open.spotify.com/album/60A86b5rgjI35DzjphO0Iy) | 2:09 |
 
-Snapshot ID: `MCw2NTlhNzRjYjllYzk0N2QwYjQ5NTg4YjgxOGJkMDFiMTdkNzQwNTQy`
+Snapshot ID: `MCxlYmI2MzNlOTYxM2VjY2Q5NzkxY2I4OGY3NDgyNDBmNzExMmYyMjMy`

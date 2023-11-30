@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-779 songs - 1 day 23 hr 21 min
+780 songs - 1 day 23 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [Feel Alive](https://open.spotify.com/track/1PuV3bBaTdRTETZl0w55Ua) | [Christina Novelli](https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n), [Dave Neven](https://open.spotify.com/artist/3nmkZFOvLJkwj6r54ievPs) | [Feel Alive](https://open.spotify.com/album/61PlRXPL4DaxCwMJI8HbEQ) | 4:01 | 2022-08-12 |  |
 | [Feel It in My Soul](https://open.spotify.com/track/64XX2sg5YsAnOyTwhfTHlG) | [Basslovers United](https://open.spotify.com/artist/4KpgeSLtjj0txr6drzaedu), [Andy Jay Powell](https://open.spotify.com/artist/6LcWcssoNHGP2WHVA9Fk51) | [Feel It in My Soul](https://open.spotify.com/album/4JdyE6xgvTGZsAiHJ90D9e) | 3:16 | 2023-11-17 |  |
 | [Feel The Rain](https://open.spotify.com/track/6cXuTXqe24QmUB4afxgiUe) | [Jordan Tobias](https://open.spotify.com/artist/0hMFrL7Fn79LC30jv0h9l3) | [Feel The Rain](https://open.spotify.com/album/2hHez1jeKZ7Aa0EhbJoGhW) | 3:24 | 2022-05-13 | 2022-05-16 |
+| [Feels Like Home](https://open.spotify.com/track/6Zw6luYOUOIVImIxsqdL6D) | [Alex Sonata & TheRio](https://open.spotify.com/artist/0R3Imkf3vLjMsdx46OC2Ej) | [Feels Like Home EP](https://open.spotify.com/album/3WwsF5STZmlPximgBj5FIW) | 3:39 | 2023-11-17 |  |
 | [Feels Like Home](https://open.spotify.com/track/2OfDYA3xkEQ2fILrBlknHD) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [AIDYL](https://open.spotify.com/artist/63YNSGgVHzU8j43ngzTw1f) | [Feels Like Home](https://open.spotify.com/album/2qNzaIxSP07ELzsFOPrspG) | 4:26 | 2022-09-02 | 2023-07-08 |
 | [Feels Like NRJ](https://open.spotify.com/track/5U7dzRwurlZW5zhKk51vdM) | [Orjan Nilsen](https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM) | [Feels Like NRJ](https://open.spotify.com/album/18RK40PDNG8OJ1oFP5bG6x) | 2:41 | 2023-04-07 |  |
 | [Final Frontier](https://open.spotify.com/track/46g1FfId8eLl42Easxyly1) | [ALPHA 9](https://open.spotify.com/artist/6ckI88Ggj8DPe0TNAAVkjn) | [Final Frontier](https://open.spotify.com/album/7bvDmNHTNykKUCbyXj5Uwg) | 4:52 | 2022-12-13 |  |
@@ -298,7 +299,7 @@
 | [Halcyon](https://open.spotify.com/track/0VWxONjwAB5ECKUDKDfYD2) | [Exouler](https://open.spotify.com/artist/0iGNYF6J9JmfpBHAmYAucM) | [True Hits, Vol\. 8](https://open.spotify.com/album/1THD37jO55fFKytiSpskWQ) | 3:40 | 2022-07-22 | 2023-06-02 |
 | [Halcyon](https://open.spotify.com/track/1UwdPwhkyr8X4lr0HAoKMV) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV) | [Halcyon / Mirage](https://open.spotify.com/album/5poQ53iK8aEysv02gdjWkZ) | 3:45 | 2022-11-25 |  |
 | [Halfway](https://open.spotify.com/track/5L1QyeUnZFi81hOnj6RsoR) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv) | [Halfway](https://open.spotify.com/album/3IYVqDEsGUltuWbk4lORHH) | 2:50 | 2022-04-15 | 2022-04-19 |
-| [Hanalei](https://open.spotify.com/track/6QOcNreYipY813Zwg1VW8r) | [Alex Sonata & TheRio](https://open.spotify.com/artist/0R3Imkf3vLjMsdx46OC2Ej), [Elevven](https://open.spotify.com/artist/1x72oeaWJ5kdXMXZoq0Icu) | [Hanalei](https://open.spotify.com/album/5RIaliC1umIEAHWfKbJuPZ) | 3:41 | 2023-08-25 |  |
+| [Hanalei](https://open.spotify.com/track/6QOcNreYipY813Zwg1VW8r) | [Alex Sonata & TheRio](https://open.spotify.com/artist/0R3Imkf3vLjMsdx46OC2Ej), [Elevven](https://open.spotify.com/artist/1x72oeaWJ5kdXMXZoq0Icu) | [Hanalei](https://open.spotify.com/album/5RIaliC1umIEAHWfKbJuPZ) | 3:41 | 2023-08-25 | 2023-11-30 |
 | [Happier Than Now](https://open.spotify.com/track/2y8J80BwsxKggLzZeSeziX) | [Dennis Sheperd](https://open.spotify.com/artist/1wzytoanlxHqWXGCpUxnbY), [Gid Sedgwick](https://open.spotify.com/artist/3Y43xMeiPftAookVOSKu1Y) | [Happier Than Now](https://open.spotify.com/album/1pP24kJOK557G4cKyVSpfD) | 3:12 | 2023-10-06 | 2023-11-21 |
 | [Haunted](https://open.spotify.com/track/6L20m3aZDpSqnimtOk1tRj) | [Simon Leon](https://open.spotify.com/artist/6kxG8o1NKDFwF6daEHNtzA), [Daniel Kandi](https://open.spotify.com/artist/1eRYyElVUGEF92i35eVLsb), [Christina Novelli](https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n) | [Haunted](https://open.spotify.com/album/7bYRDRqBeIW1XaehNdmyx3) | 3:27 | 2023-08-18 |  |
 | [Haze \- Marlon Hoffstadt AKA DJ Daddy Trance Remix](https://open.spotify.com/track/3IAxJkFW0AeEHhmSFHjX0G) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Haze Remixes](https://open.spotify.com/album/7g1Rj26ma74ZKBPmnAA09M) | 6:56 | 2023-01-20 | 2023-05-20 |

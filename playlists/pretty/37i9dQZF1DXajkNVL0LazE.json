@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2000s.",
-  "num_followers": 84260,
+  "num_followers": 84624,
   "original_name": "00s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzcyNTBkNGQwMTg5MTRmNWFhN2IxZTBiODcxOTI5MWVkODI3MjVh",
+  "snapshot_id": "MCxmZjBhN2M3MzE1YjYwM2U0NGMzOGIzNGIyNGM2OTgxY2IxNTZkYmYz",
   "tracks": [
     {
       "added_at": "2022-02-04 22:01:34",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Sigh No More",
-        "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 247002,
-      "name": "Little Lion Man",
-      "url": "https://open.spotify.com/track/4B4vB3oB8csotplfoQcAd6"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Up From Below - 10th Anniversary Edition",
         "url": "https://open.spotify.com/album/2nqKKUI6G3YGYNyjqBxjmd"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 306373,
       "name": "Home (2019 Remaster)",
       "url": "https://open.spotify.com/track/5uGXVcOINWmyUzpz0lKq7m"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 247002,
+      "name": "Little Lion Man",
+      "url": "https://open.spotify.com/track/4B4vB3oB8csotplfoQcAd6"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -303,6 +303,22 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
+        "name": "Seven Swans",
+        "url": "https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 168040,
+      "name": "To Be Alone With You",
+      "url": "https://open.spotify.com/track/12homE4JpBey5cckgoepR7"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
         "name": "Sigh No More",
         "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
       },
@@ -335,18 +351,18 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Seven Swans",
-        "url": "https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA"
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
       },
       "artists": [
         {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 168040,
-      "name": "To Be Alone With You",
-      "url": "https://open.spotify.com/track/12homE4JpBey5cckgoepR7"
+      "duration_ms": 401413,
+      "name": "Re: Stacks",
+      "url": "https://open.spotify.com/track/20AC70RUlVz6A6dCcQ5tRS"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -363,22 +379,6 @@
       "duration_ms": 259120,
       "name": "Lost in My Mind",
       "url": "https://open.spotify.com/track/3n263SWk3jGYfGMxHIRukn"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 401413,
-      "name": "Re: Stacks",
-      "url": "https://open.spotify.com/track/20AC70RUlVz6A6dCcQ5tRS"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -447,6 +447,38 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
+        "name": "Illinois",
+        "url": "https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 364613,
+      "name": "Chicago",
+      "url": "https://open.spotify.com/track/1yupbrI7ROhigIHpQBevPh"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Flume",
+      "url": "https://open.spotify.com/track/0bhBtXHQX3u6dSAPF59qGx"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
         "name": "Cease To Begin",
         "url": "https://open.spotify.com/album/0zWsqSsamm615uHbVj7uiZ"
       },
@@ -495,22 +527,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Illinois",
-        "url": "https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 364613,
-      "name": "Chicago",
-      "url": "https://open.spotify.com/track/1yupbrI7ROhigIHpQBevPh"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "I And Love And You",
         "url": "https://open.spotify.com/album/2PPFtYUnnqMYflIEn3b7ON"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 300840,
       "name": "I And Love And You",
       "url": "https://open.spotify.com/track/7CEV9VwA8XO9wwxTXgYKvY"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Flume",
-      "url": "https://open.spotify.com/track/0bhBtXHQX3u6dSAPF59qGx"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "About A Boy Soundtrack",
-        "url": "https://open.spotify.com/album/6P2Bd7VCudP8LcFGNb5orx"
-      },
-      "artists": [
-        {
-          "name": "Badly Drawn Boy",
-          "url": "https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO"
-        }
-      ],
-      "duration_ms": 220866,
-      "name": "Something to Talk About",
-      "url": "https://open.spotify.com/track/4rwOvI1E7CAlOX0XZ5EMyG"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Volume One",
         "url": "https://open.spotify.com/album/2qIu18hUz5c6BzY3Rh6fIJ"
       },
@@ -1071,18 +1055,18 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Cripple Crow",
-        "url": "https://open.spotify.com/album/67YNh7PePfDUgjgZOcBvu5"
+        "name": "About A Boy Soundtrack",
+        "url": "https://open.spotify.com/album/6P2Bd7VCudP8LcFGNb5orx"
       },
       "artists": [
         {
-          "name": "Devendra Banhart",
-          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+          "name": "Badly Drawn Boy",
+          "url": "https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO"
         }
       ],
-      "duration_ms": 275493,
-      "name": "Santa Maria De Feira",
-      "url": "https://open.spotify.com/track/6Yf2HCrWLUo8sgm7KuQagg"
+      "duration_ms": 220866,
+      "name": "Something to Talk About",
+      "url": "https://open.spotify.com/track/4rwOvI1E7CAlOX0XZ5EMyG"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1103,18 +1087,18 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Sometimes I Wish We Were An Eagle",
-        "url": "https://open.spotify.com/album/4bKHXqEVmt32YU7u51GIHB"
+        "name": "Cripple Crow",
+        "url": "https://open.spotify.com/album/67YNh7PePfDUgjgZOcBvu5"
       },
       "artists": [
         {
-          "name": "Bill Callahan",
-          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
+          "name": "Devendra Banhart",
+          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
         }
       ],
-      "duration_ms": 279253,
-      "name": "Jim Cain",
-      "url": "https://open.spotify.com/track/3KZRkM7Uv0F2oCTUHAvv0a"
+      "duration_ms": 275493,
+      "name": "Santa Maria De Feira",
+      "url": "https://open.spotify.com/track/6Yf2HCrWLUo8sgm7KuQagg"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1131,6 +1115,22 @@
       "duration_ms": 332880,
       "name": "I Want Wind to Blow",
       "url": "https://open.spotify.com/track/1bAZV1EBTRi9t1cVg75i8t"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Sometimes I Wish We Were An Eagle",
+        "url": "https://open.spotify.com/album/4bKHXqEVmt32YU7u51GIHB"
+      },
+      "artists": [
+        {
+          "name": "Bill Callahan",
+          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
+        }
+      ],
+      "duration_ms": 279253,
+      "name": "Jim Cain",
+      "url": "https://open.spotify.com/track/3KZRkM7Uv0F2oCTUHAvv0a"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "The Midnight Organ Fight",
-        "url": "https://open.spotify.com/album/42UPwzHW8rhA13t5JJxp09"
-      },
-      "artists": [
-        {
-          "name": "Frightened Rabbit",
-          "url": "https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr"
-        }
-      ],
-      "duration_ms": 228453,
-      "name": "The Modern Leper",
-      "url": "https://open.spotify.com/track/3aunzvczA4MkwIrHuARjqM"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Picaresque",
         "url": "https://open.spotify.com/album/0eGxAVwdwV2mHrUgLJ8R6Y"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 184280,
       "name": "We Both Go Down Together",
       "url": "https://open.spotify.com/track/4osQRyD4y6IU0aCNbayD2D"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "The Midnight Organ Fight",
+        "url": "https://open.spotify.com/album/42UPwzHW8rhA13t5JJxp09"
+      },
+      "artists": [
+        {
+          "name": "Frightened Rabbit",
+          "url": "https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr"
+        }
+      ],
+      "duration_ms": 228453,
+      "name": "The Modern Leper",
+      "url": "https://open.spotify.com/track/3aunzvczA4MkwIrHuARjqM"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1279,38 +1279,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Music For A French Elevator And Other Oddities",
-        "url": "https://open.spotify.com/album/4naPotuOdRMQga4C8ZAm2C"
-      },
-      "artists": [
-        {
-          "name": "The Books",
-          "url": "https://open.spotify.com/artist/4UvhuGdFf75Cfan7lEU1J1"
-        }
-      ],
-      "duration_ms": 234106,
-      "name": "Cello Song Feat. Jose Gonzales",
-      "url": "https://open.spotify.com/track/55Q6Pf0xufUM8MEjbqEfcp"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
-        "name": "Middle Cyclone",
-        "url": "https://open.spotify.com/album/3gMzehYCxYMrW6pYlcThWJ"
-      },
-      "artists": [
-        {
-          "name": "Neko Case",
-          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
-        }
-      ],
-      "duration_ms": 199226,
-      "name": "This Tornado Loves You",
-      "url": "https://open.spotify.com/track/5FRmsiVS8ybJHQCV0fjuI1"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "All Hail West Texas (Remastered)",
         "url": "https://open.spotify.com/album/3yreM49ULtR2xW4fSENo3K"
       },
@@ -1323,6 +1291,22 @@
       "duration_ms": 156960,
       "name": "The Best Ever Death Metal Band in Denton",
       "url": "https://open.spotify.com/track/4AtUqjDgRO2S3jBzAjRvh7"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Music For A French Elevator And Other Oddities",
+        "url": "https://open.spotify.com/album/4naPotuOdRMQga4C8ZAm2C"
+      },
+      "artists": [
+        {
+          "name": "The Books",
+          "url": "https://open.spotify.com/artist/4UvhuGdFf75Cfan7lEU1J1"
+        }
+      ],
+      "duration_ms": 234106,
+      "name": "Cello Song Feat. Jose Gonzales",
+      "url": "https://open.spotify.com/track/55Q6Pf0xufUM8MEjbqEfcp"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1343,22 +1327,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "The Midnight Organ Fight",
-        "url": "https://open.spotify.com/album/42UPwzHW8rhA13t5JJxp09"
-      },
-      "artists": [
-        {
-          "name": "Frightened Rabbit",
-          "url": "https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr"
-        }
-      ],
-      "duration_ms": 333026,
-      "name": "Keep Yourself Warm",
-      "url": "https://open.spotify.com/track/5P9mYadNNzRuDo49cKpBNs"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Emotionalism (Bonus Track Version)",
         "url": "https://open.spotify.com/album/4pb5b6XKuzzh5CqPFOzptQ"
       },
@@ -1375,6 +1343,22 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
+        "name": "Middle Cyclone",
+        "url": "https://open.spotify.com/album/3gMzehYCxYMrW6pYlcThWJ"
+      },
+      "artists": [
+        {
+          "name": "Neko Case",
+          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
+        }
+      ],
+      "duration_ms": 199226,
+      "name": "This Tornado Loves You",
+      "url": "https://open.spotify.com/track/5FRmsiVS8ybJHQCV0fjuI1"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
         "name": "Cassadaga",
         "url": "https://open.spotify.com/album/12g6dnsHEdhzS3BGB4CefB"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 256262,
       "name": "Four Winds",
       "url": "https://open.spotify.com/track/7iV2w73aB3oL7UWgEAWuiN"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "The Midnight Organ Fight",
+        "url": "https://open.spotify.com/album/42UPwzHW8rhA13t5JJxp09"
+      },
+      "artists": [
+        {
+          "name": "Frightened Rabbit",
+          "url": "https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr"
+        }
+      ],
+      "duration_ms": 333026,
+      "name": "Keep Yourself Warm",
+      "url": "https://open.spotify.com/track/5P9mYadNNzRuDo49cKpBNs"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Transfiguration of Vincent",
-        "url": "https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS"
-      },
-      "artists": [
-        {
-          "name": "M. Ward",
-          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
-        }
-      ],
-      "duration_ms": 300186,
-      "name": "Let\u2019s Dance",
-      "url": "https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Woke On A Whaleheart",
         "url": "https://open.spotify.com/album/4ZrfprqjbFWKGV0prZfDGH"
       },
@@ -1507,34 +1491,18 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "The Animal Years",
-        "url": "https://open.spotify.com/album/123dbllYoWDsMqESeUqAbw"
+        "name": "Transfiguration of Vincent",
+        "url": "https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS"
       },
       "artists": [
         {
-          "name": "Josh Ritter",
-          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
+          "name": "M. Ward",
+          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
         }
       ],
-      "duration_ms": 263862,
-      "name": "Girl in the War",
-      "url": "https://open.spotify.com/track/2XQ6xhvd1q5JQyY21F198g"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
-        "name": "A Ghost Is Born (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1f8UM82zkRXTLy7qGp4lJF"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 363000,
-      "name": "Handshake Drugs",
-      "url": "https://open.spotify.com/track/7wOXAS9DfepmybaTYyfYwd"
+      "duration_ms": 300186,
+      "name": "Let\u2019s Dance",
+      "url": "https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1571,22 +1539,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/3YDgcFDTqU755BsfAtBVQS"
-      },
-      "artists": [
-        {
-          "name": "Nada Surf",
-          "url": "https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy"
-        }
-      ],
-      "duration_ms": 298666,
-      "name": "Inside Of Love",
-      "url": "https://open.spotify.com/track/3xWHYLJMnhwpXYb3oq1KU3"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Lookaftering",
         "url": "https://open.spotify.com/album/6jFHLKqnzRHI0ByuQxO37n"
       },
@@ -1599,6 +1551,54 @@
       "duration_ms": 135440,
       "name": "If I Were",
       "url": "https://open.spotify.com/track/1Jri474VM7yyIlglywQOx5"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "A Ghost Is Born (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1f8UM82zkRXTLy7qGp4lJF"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 363000,
+      "name": "Handshake Drugs",
+      "url": "https://open.spotify.com/track/7wOXAS9DfepmybaTYyfYwd"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "The Animal Years",
+        "url": "https://open.spotify.com/album/123dbllYoWDsMqESeUqAbw"
+      },
+      "artists": [
+        {
+          "name": "Josh Ritter",
+          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
+        }
+      ],
+      "duration_ms": 263862,
+      "name": "Girl in the War",
+      "url": "https://open.spotify.com/track/2XQ6xhvd1q5JQyY21F198g"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/3YDgcFDTqU755BsfAtBVQS"
+      },
+      "artists": [
+        {
+          "name": "Nada Surf",
+          "url": "https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy"
+        }
+      ],
+      "duration_ms": 298666,
+      "name": "Inside Of Love",
+      "url": "https://open.spotify.com/track/3xWHYLJMnhwpXYb3oq1KU3"
     },
     {
       "added_at": "2022-02-04 22:01:34",

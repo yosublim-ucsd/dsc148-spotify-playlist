@@ -1,12 +1,12 @@
 {
   "description": "y kn m quida no duerme viejo de los korridones q traemos totalment n vivo y markele kmpa tolo watata watata ",
-  "num_followers": 20136,
+  "num_followers": 20621,
   "original_name": "XD",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTU1Y2Y1NTEzYjVmYjlmM2VkODI1MDgwZTUzOTZlNDhjNzY0NTlk",
+  "snapshot_id": "MCxkMWQ4YWFkNDVlMjYwYjA2ODIyNmMwZjMxZjBhNWVkOGM1M2UyY2Nk",
   "tracks": [
     {
       "added_at": "2023-11-24 06:00:00",
@@ -219,6 +219,22 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
+        "name": "Nata Montana",
+        "url": "https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 188666,
+      "name": "Mi Bello Angel",
+      "url": "https://open.spotify.com/track/4t46soaqA758rbukTO5pp1"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
         "name": "Automotivo Bibi Fogosa",
         "url": "https://open.spotify.com/album/0Hj2X0CQBjpWapFzNQGbk2"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 129776,
       "name": "Automotivo Bibi Fogosa",
       "url": "https://open.spotify.com/track/4kRLRWnn5u9wO2wOKAAdEN"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "Nata Montana",
-        "url": "https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 188666,
-      "name": "Mi Bello Angel",
-      "url": "https://open.spotify.com/track/4t46soaqA758rbukTO5pp1"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Prom Queen",
-        "url": "https://open.spotify.com/album/1lgr82yCJYR5lgsSyxXgBH"
-      },
-      "artists": [
-        {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
-        }
-      ],
-      "duration_ms": 136562,
-      "name": "Prom Queen",
-      "url": "https://open.spotify.com/track/6MpCaSIOfqBqbMED4kXgNY"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "Los Collares",
         "url": "https://open.spotify.com/album/1JKGaS4Mr4ZjFRlbDbAFzf"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 148793,
       "name": "Los Collares",
       "url": "https://open.spotify.com/track/46FdwGMcgz6gik4RCpWBAW"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "Prom Queen",
+        "url": "https://open.spotify.com/album/1lgr82yCJYR5lgsSyxXgBH"
+      },
+      "artists": [
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        }
+      ],
+      "duration_ms": 136562,
+      "name": "Prom Queen",
+      "url": "https://open.spotify.com/track/6MpCaSIOfqBqbMED4kXgNY"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "TRANKY FUNKY",
-        "url": "https://open.spotify.com/album/34zRh1AFk8bibU6vYfZ1kD"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        }
-      ],
-      "duration_ms": 158325,
-      "name": "TRANKY FUNKY",
-      "url": "https://open.spotify.com/track/28iQz5gnZyqhUebzeOYCwH"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
         "name": "RAPTURE",
         "url": "https://open.spotify.com/album/6OpEcUBwj9Sp4rY5xcnC8g"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 164577,
       "name": "RAPTURE",
       "url": "https://open.spotify.com/track/3thB8qaxyKtLJ7ao1NpkRB"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "TRANKY FUNKY",
+        "url": "https://open.spotify.com/album/34zRh1AFk8bibU6vYfZ1kD"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "duration_ms": 158325,
+      "name": "TRANKY FUNKY",
+      "url": "https://open.spotify.com/track/28iQz5gnZyqhUebzeOYCwH"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -611,18 +611,18 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "RITMADINHA DAN\u00c7ANTE",
-        "url": "https://open.spotify.com/album/0QHgS2V9X2lZfMoi09Hsdu"
+        "name": "METAMORPHOSIS (Sped Up)",
+        "url": "https://open.spotify.com/album/13WLopNIcmZjic5PtYK6Hh"
       },
       "artists": [
         {
-          "name": "DJ GUDOG",
-          "url": "https://open.spotify.com/artist/2tqbdiza6tmlpAtKUZwhnE"
+          "name": "INTERWORLD",
+          "url": "https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN"
         }
       ],
-      "duration_ms": 125508,
-      "name": "RITMADINHA DAN\u00c7ANTE",
-      "url": "https://open.spotify.com/track/4sVrOA0sytAzv102tnQmr7"
+      "duration_ms": 110936,
+      "name": "METAMORPHOSIS - Sped Up",
+      "url": "https://open.spotify.com/track/6MlIIJwO4FxnOlrpOrS4hU"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -643,18 +643,18 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "DLUX",
-        "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
+        "name": "RITMADINHA DAN\u00c7ANTE",
+        "url": "https://open.spotify.com/album/0QHgS2V9X2lZfMoi09Hsdu"
       },
       "artists": [
         {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+          "name": "DJ GUDOG",
+          "url": "https://open.spotify.com/artist/2tqbdiza6tmlpAtKUZwhnE"
         }
       ],
-      "duration_ms": 140735,
-      "name": "HOUSE OF LUX",
-      "url": "https://open.spotify.com/track/3CU1qWV0h0PvWXQg71YUoo"
+      "duration_ms": 125508,
+      "name": "RITMADINHA DAN\u00c7ANTE",
+      "url": "https://open.spotify.com/track/4sVrOA0sytAzv102tnQmr7"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -683,34 +683,18 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "METAMORPHOSIS (Sped Up)",
-        "url": "https://open.spotify.com/album/13WLopNIcmZjic5PtYK6Hh"
+        "name": "DLUX",
+        "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
       },
       "artists": [
         {
-          "name": "INTERWORLD",
-          "url": "https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN"
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 110936,
-      "name": "METAMORPHOSIS - Sped Up",
-      "url": "https://open.spotify.com/track/6MlIIJwO4FxnOlrpOrS4hU"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "Da\u00f1ado",
-        "url": "https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh"
-      },
-      "artists": [
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        }
-      ],
-      "duration_ms": 234613,
-      "name": "J.",
-      "url": "https://open.spotify.com/track/4lUsBLTAiufWocWtg4H0my"
+      "duration_ms": 140735,
+      "name": "HOUSE OF LUX",
+      "url": "https://open.spotify.com/track/3CU1qWV0h0PvWXQg71YUoo"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -727,6 +711,22 @@
       "duration_ms": 169386,
       "name": "ABRE LAS PATOTAS",
       "url": "https://open.spotify.com/track/6G75x2FTJ8JSO5iLPKhcYs"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "Da\u00f1ado",
+        "url": "https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "duration_ms": 234613,
+      "name": "J.",
+      "url": "https://open.spotify.com/track/4lUsBLTAiufWocWtg4H0my"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -799,30 +799,22 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "Bien Loco",
-        "url": "https://open.spotify.com/album/4ZmFdjdojnPfXISVRDgCeA"
+        "name": "classical phonk",
+        "url": "https://open.spotify.com/album/0Ol07P6QUMgXjBlunBCFok"
       },
       "artists": [
         {
-          "name": "Dan Sanchez",
-          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+          "name": "0to8",
+          "url": "https://open.spotify.com/artist/5MQG067ASfGn0Cf1nE0S8g"
         },
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "D-Sides",
-          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
+          "name": "madeinnline",
+          "url": "https://open.spotify.com/artist/5Uf6QGQDs3EqsxgiGR4O4f"
         }
       ],
-      "duration_ms": 169062,
-      "name": "Bien Loco",
-      "url": "https://open.spotify.com/track/67iARlR1cb2fAovBwluJLA"
+      "duration_ms": 86160,
+      "name": "classical phonk",
+      "url": "https://open.spotify.com/track/7gl5qUaVpN6xOg4mkzGHSl"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -851,22 +843,30 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "classical phonk",
-        "url": "https://open.spotify.com/album/0Ol07P6QUMgXjBlunBCFok"
+        "name": "Bien Loco",
+        "url": "https://open.spotify.com/album/4ZmFdjdojnPfXISVRDgCeA"
       },
       "artists": [
         {
-          "name": "0to8",
-          "url": "https://open.spotify.com/artist/5MQG067ASfGn0Cf1nE0S8g"
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
         },
         {
-          "name": "madeinnline",
-          "url": "https://open.spotify.com/artist/5Uf6QGQDs3EqsxgiGR4O4f"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "D-Sides",
+          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
         }
       ],
-      "duration_ms": 86160,
-      "name": "classical phonk",
-      "url": "https://open.spotify.com/track/7gl5qUaVpN6xOg4mkzGHSl"
+      "duration_ms": 169062,
+      "name": "Bien Loco",
+      "url": "https://open.spotify.com/track/67iARlR1cb2fAovBwluJLA"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -883,26 +883,6 @@
       "duration_ms": 141040,
       "name": "COWBELL GOTH",
       "url": "https://open.spotify.com/track/0zcvETeNHWNO050bqZAjOs"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "FATAL FANTASSY",
-        "url": "https://open.spotify.com/album/7k4Bir5CEDU14ZzW9FsWqn"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        }
-      ],
-      "duration_ms": 149360,
-      "name": "FATAL FANTASSY",
-      "url": "https://open.spotify.com/track/0TZJzQCOkVtyzjOD8wzAHh"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -943,6 +923,26 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
+        "name": "FATAL FANTASSY",
+        "url": "https://open.spotify.com/album/7k4Bir5CEDU14ZzW9FsWqn"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "duration_ms": 149360,
+      "name": "FATAL FANTASSY",
+      "url": "https://open.spotify.com/track/0TZJzQCOkVtyzjOD8wzAHh"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
         "name": "|BONKERS|",
         "url": "https://open.spotify.com/album/0WQa2WyVWjNNiTB7ACrWwr"
       },
@@ -971,6 +971,22 @@
       "duration_ms": 198000,
       "name": "Tatuajes - Deluxe",
       "url": "https://open.spotify.com/track/2b4YJ0j60w3YPIFot0oodu"
+    },
+    {
+      "added_at": "2023-11-24 06:00:00",
+      "album": {
+        "name": "ALV",
+        "url": "https://open.spotify.com/album/4AU32F3DgVEo2azUpLlNjM"
+      },
+      "artists": [
+        {
+          "name": "Manuelvezz",
+          "url": "https://open.spotify.com/artist/2LmoZUme24SWelkOHXzacB"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "ALV",
+      "url": "https://open.spotify.com/track/0yBcdmjFu13pmOCowHGpzJ"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1011,18 +1027,18 @@
     {
       "added_at": "2023-11-24 06:00:00",
       "album": {
-        "name": "ALV",
-        "url": "https://open.spotify.com/album/4AU32F3DgVEo2azUpLlNjM"
+        "name": "Inmortales",
+        "url": "https://open.spotify.com/album/4EYOgNTo3rdmsmZaQSFbmV"
       },
       "artists": [
         {
-          "name": "Manuelvezz",
-          "url": "https://open.spotify.com/artist/2LmoZUme24SWelkOHXzacB"
+          "name": "Bardero$",
+          "url": "https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G"
         }
       ],
-      "duration_ms": 174000,
-      "name": "ALV",
-      "url": "https://open.spotify.com/track/0yBcdmjFu13pmOCowHGpzJ"
+      "duration_ms": 190017,
+      "name": "Aquella Noche",
+      "url": "https://open.spotify.com/track/5H71u2ItpVo99e5KbLEvX9"
     },
     {
       "added_at": "2023-11-24 06:00:00",
@@ -1043,22 +1059,6 @@
       "duration_ms": 182783,
       "name": "VAI DJ NPC SOCA COM VONTADE / MACHUCA MACHUCA",
       "url": "https://open.spotify.com/track/3qV8bXiqsR35JEMOy0tpJv"
-    },
-    {
-      "added_at": "2023-11-24 06:00:00",
-      "album": {
-        "name": "Inmortales",
-        "url": "https://open.spotify.com/album/4EYOgNTo3rdmsmZaQSFbmV"
-      },
-      "artists": [
-        {
-          "name": "Bardero$",
-          "url": "https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G"
-        }
-      ],
-      "duration_ms": 190017,
-      "name": "Aquella Noche",
-      "url": "https://open.spotify.com/track/5H71u2ItpVo99e5KbLEvX9"
     },
     {
       "added_at": "2023-11-24 06:00:00",

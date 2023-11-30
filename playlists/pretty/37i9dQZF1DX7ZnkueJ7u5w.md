@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnkueJ7u5w.md) - [plain]
 
 > Música sabrosa para festejar la temporada de carnavales en México.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,712 likes - 75 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,729 likes - 75 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnkueJ7u5w.md) - [plain]
 | 22 | [El Taxi](https://open.spotify.com/track/1LbGorB0xOfpiXQJFKB2Nd) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Sensato](https://open.spotify.com/artist/7iJrDbKM5fEkGdm5kpjFzS), [Osmani Garcia "La Voz"](https://open.spotify.com/artist/37G8DfNgO4mQ3PKh5droSo) | [Dale](https://open.spotify.com/album/5PZWGWwRwA0PJCET9BwBAm) | 4:09 |
 | 23 | [Lloraras](https://open.spotify.com/track/6QJ1F9DrlsRSmKDcdVS0Oy) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Traicionera \(Baile Total\)](https://open.spotify.com/album/1ESXDx2MI2QGcxTZXaAfRH) | 3:42 |
 | 24 | [Suavecito Suavecito](https://open.spotify.com/track/6cKWDVak6o362TElLvwtmU) | [Laura Leon](https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX) | [15 Éxitos](https://open.spotify.com/album/48FUru9enVg1NlLrkZyJW6) | 3:45 |
-| 25 | [Suavemente](https://open.spotify.com/track/1YwPNemawMgGe6sF4U0FTE) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente...Los Exitos](https://open.spotify.com/album/4p7YUpyEWoFheYconnjTqh) | 4:26 |
-| 26 | [La Vaca](https://open.spotify.com/track/7neWp4incUBLP1XQTNWmP0) | [Mala Fe](https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp) | [Con Su Loquera](https://open.spotify.com/album/4S18mM72RcD7OY9WiyHE8q) | 4:15 |
+| 25 | [La Vaca](https://open.spotify.com/track/7neWp4incUBLP1XQTNWmP0) | [Mala Fe](https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp) | [Con Su Loquera](https://open.spotify.com/album/4S18mM72RcD7OY9WiyHE8q) | 4:15 |
+| 26 | [Suavemente](https://open.spotify.com/track/1YwPNemawMgGe6sF4U0FTE) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente...Los Exitos](https://open.spotify.com/album/4p7YUpyEWoFheYconnjTqh) | 4:26 |
 | 27 | [Mayonesa](https://open.spotify.com/track/5Qjx4obghhfhsh6DiUwpNM) | [Chocolate](https://open.spotify.com/artist/4e3lv5qRgFpdILdEOHchbn) | [2000 Grandes Exitos](https://open.spotify.com/album/4dqiQqmKsYhgmrocMXhogw) | 3:51 |
 | 28 | [Guallando](https://open.spotify.com/track/4jRxEVNituPZObHbCSBZL3) | [Fulanito](https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE) | [El Hombre Mas Famoso De La Tierra](https://open.spotify.com/album/59IdVahjfUKyRxPcGiAp98) | 3:25 |
 | 29 | [Amor De Tres](https://open.spotify.com/track/2EAXWHqQhNxgJbg1ZnOXZ3) | [Aroma](https://open.spotify.com/artist/0IZ9yCkg8kUjJNwMA8SHYX) | [Amor De 3](https://open.spotify.com/album/70l7WreOvHkn9Jqbh0aqsF) | 3:08 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnkueJ7u5w.md) - [plain]
 | 41 | [Punta a Punta](https://open.spotify.com/track/1mQbPN7dPldCLlDVvWbMKO) | [Grupo Caneo](https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z) | [Grandes Éxitos Grupo Caneo, Vol\. 1](https://open.spotify.com/album/4rtetkd2vcIDjOIn8CsJBM) | 4:21 |
 | 42 | [María](https://open.spotify.com/track/0QQHPRbgLJJ5XNzJV1l9BW) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Medio Vivir](https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM) | 4:22 |
 | 43 | [El Gato Volador](https://open.spotify.com/track/3K9h28l1trUlOMkiAh09Pb) | [El Chombo](https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD), [Cracker Jack & Jr Crack](https://open.spotify.com/artist/0sAajIvpY4U0ATVq0n1DM8) | [Cuentos de la Cripta 3](https://open.spotify.com/album/6y07fZcNzVsvLgACeUuBli) | 1:53 |
-| 44 | [Estupido](https://open.spotify.com/track/1hA3c7Rf0oLHFNR4ZVL030) | [Los Papis RA7](https://open.spotify.com/artist/1y7GWTEfMzxafQ4mL0uZpq) | [Tonto Cariño](https://open.spotify.com/album/1jsyIp7OFTpIHDkKXl0kgS) | 4:59 |
-| 45 | [El Ladrón \(with Julieta Venegas\)](https://open.spotify.com/track/7oRifTMLmeNCnTGtDH7KLV) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [La Sonora Santanera en Su 60 Aniversario](https://open.spotify.com/album/3xgFRfjD0wkntTxiSa7c8U) | 3:02 |
+| 44 | [El Ladrón \(with Julieta Venegas\)](https://open.spotify.com/track/7oRifTMLmeNCnTGtDH7KLV) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [La Sonora Santanera en Su 60 Aniversario](https://open.spotify.com/album/3xgFRfjD0wkntTxiSa7c8U) | 3:02 |
+| 45 | [Estupido](https://open.spotify.com/track/1hA3c7Rf0oLHFNR4ZVL030) | [Los Papis RA7](https://open.spotify.com/artist/1y7GWTEfMzxafQ4mL0uZpq) | [Tonto Cariño](https://open.spotify.com/album/1jsyIp7OFTpIHDkKXl0kgS) | 4:59 |
 | 46 | [El Baile del Perrito](https://open.spotify.com/track/2XESoQVXG9ssxyjxXSrmxo) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [The Reventon: 30 Pegaditas](https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD) | 4:23 |
 | 47 | [Chiquetere](https://open.spotify.com/track/4hjr315izfD3i8uAHJhpUA) | [Rafa Villalba](https://open.spotify.com/artist/55r5KF4IQdMkhXEzoluxUm) | [Chiquetere](https://open.spotify.com/album/0rid7a3i8rgeKhdk7UlTNx) | 4:52 |
 | 48 | [Juana La Cubana](https://open.spotify.com/track/1cdpDAE7LHSHviJ73SGuGS) | [Fito Olivares y Su Grupo](https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE) | [Exitos Inolvidables](https://open.spotify.com/album/1vmEJQwpLyDznLxVsr1WCv) | 3:10 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnkueJ7u5w.md) - [plain]
 | 74 | [Los Luchadores](https://open.spotify.com/track/0HBiHi1FZBpI8QOqiS0oBm) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [La Sonora Santanera en Su 60 Aniversario](https://open.spotify.com/album/3xgFRfjD0wkntTxiSa7c8U) | 3:24 |
 | 75 | [Baila Esta Cumbia](https://open.spotify.com/track/23TUteFlo4GRVKy2zRvtMC) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [A.B\. Quintanilla III & Kumbia Kumbia Kings Present The Duets](https://open.spotify.com/album/05CvQnHFWD0JrII6bfM07e) | 4:22 |
 
-Snapshot ID: `MCxiMGM3ZjQwMDk4MjFhZjk2YzYxYzlhNGJlMjBiOWQzOWQ3MDlmNzFi`
+Snapshot ID: `MCxkZDlmMWE3YTFjY2YxM2UxNTIyNDEwNThiNmVkOWVhNDQyNzcwY2Zh`

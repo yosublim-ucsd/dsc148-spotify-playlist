@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 
 > A palavra de Jesus embalada pelo ritmo sertanejo\. Foto: Canção & Louvor
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,855 likes - 60 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,900 likes - 60 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 32 | [Chuva de Poder](https://open.spotify.com/track/3MEgEIhFanSXp7dxmb7fmb) | [Gabriela Rodrigues](https://open.spotify.com/artist/3dCQ53bhVYWtm6VDtEMRqb) | [Chuva de Poder](https://open.spotify.com/album/0RpR497V9U9U6sPsEhITGr) | 3:16 |
 | 33 | [A Reforma](https://open.spotify.com/track/6kNQNhGAovsClhTxgQS1Rm) | [Jayana Moreira](https://open.spotify.com/artist/0UqskVGZu74OjVGF2KmvBH) | [A Reforma](https://open.spotify.com/album/1sP2MouMuWffJbewWHBUv2) | 4:47 |
 | 34 | [Adorador por Excelência \- Ao Vivo](https://open.spotify.com/track/7hjuwRZx76dcxlmsUgVVzc) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Adorador por Excelência \(Ao Vivo\)](https://open.spotify.com/album/53CN56MYCjXDkDBkWmmusF) | 3:59 |
-| 35 | [Oliveira Verdadeira \- Ao Vivo em São Paulo](https://open.spotify.com/track/7u0d3etlKZIj2dGvXvJfXq) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR) | [Louvor Raíz \(Ao Vivo em São Paulo\)](https://open.spotify.com/album/2Vu9z0dwmSBVKmXB8mOXPF) | 4:14 |
+| 35 | [Confia no Processo](https://open.spotify.com/track/3ZJbvLFRJKqBxLk1zHstuv) | [João Marcos & Danilo](https://open.spotify.com/artist/27HdKF8P7IOhGzwgVi2w4F) | [Confia no Processo](https://open.spotify.com/album/6suujei9SvAs3eKoGfoLtp) | 3:03 |
 | 36 | [O Crente e a Palmeira](https://open.spotify.com/track/72X7Rf5j7tQijxriFQedRJ) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Viola e Adoração](https://open.spotify.com/album/4NMlbn7ybVM2VJMyCjj76l) | 2:38 |
 | 37 | [Assim Como Deus Quer](https://open.spotify.com/track/2xvZtpiHJL0iXsrIU3cGBX) | [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [Assim Como Deus Quer](https://open.spotify.com/album/6a81t6Y2AyENXQubLiVnBD) | 2:43 |
-| 38 | [Quem Procura Acha](https://open.spotify.com/track/0t34g5rLBbVubjIzQdgCKn) | [Joy Camargo](https://open.spotify.com/artist/6fRHIW5YdnSr2eJorBBECK) | [Quem Procura Acha](https://open.spotify.com/album/30VFooHGuhOWOFMJkSKJZn) | 3:02 |
-| 39 | [Confia no Processo](https://open.spotify.com/track/3ZJbvLFRJKqBxLk1zHstuv) | [João Marcos & Danilo](https://open.spotify.com/artist/27HdKF8P7IOhGzwgVi2w4F) | [Confia no Processo](https://open.spotify.com/album/6suujei9SvAs3eKoGfoLtp) | 3:03 |
+| 38 | [Oliveira Verdadeira \- Ao Vivo em São Paulo](https://open.spotify.com/track/7u0d3etlKZIj2dGvXvJfXq) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR) | [Louvor Raíz \(Ao Vivo em São Paulo\)](https://open.spotify.com/album/2Vu9z0dwmSBVKmXB8mOXPF) | 4:14 |
+| 39 | [Quem Procura Acha](https://open.spotify.com/track/0t34g5rLBbVubjIzQdgCKn) | [Joy Camargo](https://open.spotify.com/artist/6fRHIW5YdnSr2eJorBBECK) | [Quem Procura Acha](https://open.spotify.com/album/30VFooHGuhOWOFMJkSKJZn) | 3:02 |
 | 40 | [Eu Vou para o Céu](https://open.spotify.com/track/0qacmh2FDALRfili16U6wk) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P) | [Eu Vou para o Céu](https://open.spotify.com/album/79ystA3RcQXeTnJVRjqUpf) | 3:21 |
 | 41 | [Deus É Fiel \- Ao Vivo](https://open.spotify.com/track/6mtq9R1uS3wqszirOeiDdl) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Deus É Fiel \(Ao Vivo\)](https://open.spotify.com/album/5vv2yytZnxkTEl019l7L48) | 4:29 |
 | 42 | [Minha Ilha](https://open.spotify.com/track/0DKrKNKy0Mi7alxkaebj5x) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Minha Ilha](https://open.spotify.com/album/02Tuv2t5HpJcHCu9bjyrCb) | 4:44 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 59 | [Volta pra Casa](https://open.spotify.com/track/0bfNDO7ArF4kdVL3M8QRUd) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Volta pra Casa](https://open.spotify.com/album/5tnNq4VX6QSaQVC9haxdjC) | 4:49 |
 | 60 | [Uma Música, uma História: Vendavais](https://open.spotify.com/track/32BFnIiEV8SQf1RYWsi0cz) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Uma Música, uma História: Vendavais](https://open.spotify.com/album/65AR5SWnfULr33MQngy9at) | 4:30 |
 
-Snapshot ID: `MCxhY2FiMTQzMjgwMDE0YjU4YTc4MzdjMmY3YjVkNThkNjIzMzkwMjQw`
+Snapshot ID: `MCw3NjEzODE5ZjU0MjJhNzI0ZTRhYjgxNTBlYTY1MGYwMzUxOTZhMzZi`

@@ -6708,7 +6708,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 169590,
       "name": "Only",
       "url": "https://open.spotify.com/track/3XiIO5kw2UxoY6Aph8Tcd5"
@@ -10288,7 +10288,7 @@
     {
       "album": {
         "name": "What the Hell",
-        "url": "https://open.spotify.com/album/5NRA5maQZSLOWVKQsHSOpb"
+        "url": "https://open.spotify.com/album/1qfBbSPj9GQjS8xNGyJqoN"
       },
       "artists": [
         {
@@ -10303,6 +10303,28 @@
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 248842,
+      "name": "What the Hell",
+      "url": "https://open.spotify.com/track/3Sio6hsXRUhhd6Hk4W1c7Y"
+    },
+    {
+      "album": {
+        "name": "What the Hell",
+        "url": "https://open.spotify.com/album/5NRA5maQZSLOWVKQsHSOpb"
+      },
+      "artists": [
+        {
+          "name": "TOSHIKI HAYASHI(%C)",
+          "url": "https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI"
+        },
+        {
+          "name": "Emi Okamoto",
+          "url": "https://open.spotify.com/artist/20RZYpmOiZTCdkl4c5u4li"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-30",
       "duration_ms": 248842,
       "name": "What the Hell",
       "url": "https://open.spotify.com/track/4mj9u28GzR6B6fgM45ritm"
@@ -10324,7 +10346,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-08",
+      "date_removed": null,
       "duration_ms": 234736,
       "name": "When We Were Younger (feat. Cavetown)",
       "url": "https://open.spotify.com/track/7dlkFdNPITZL1OAWQ1fqOm"

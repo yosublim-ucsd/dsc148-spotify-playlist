@@ -4,7 +4,7 @@
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-243 songs - 9 hr 27 min
+244 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [flumes](https://open.spotify.com/track/2RJLaVIbhv4TvYAyHUWEYs) | [dxwg](https://open.spotify.com/artist/3R7gYMibAfCIW7D9tN0UL5) | [flumes](https://open.spotify.com/album/4HOnws27YBHCLfI2Sx5JVH) | 2:30 | 2022-04-15 | 2022-07-29 |
 | [For Her](https://open.spotify.com/track/3CJpS12RnQe4gf00ssQnA7) | [Caleb Belkin](https://open.spotify.com/artist/12TcsyqAd3lJUcZFJVogXZ) | [Discography](https://open.spotify.com/album/1z2EULhFIYioLEV4K6DEHp) | 1:47 | 2022-04-15 | 2022-08-12 |
 | [For Her](https://open.spotify.com/track/5rzCO5V9AVV0zvgJbEfUos) | [Caleb Belkin](https://open.spotify.com/artist/12TcsyqAd3lJUcZFJVogXZ) | [Discography](https://open.spotify.com/album/17KY09ISAVpJ30vTaiTW3n) | 1:47 | 2022-04-15 |  |
-| [for you](https://open.spotify.com/track/2iGqmP4YP3hrx3ij9jvZsG) | [jhfly](https://open.spotify.com/artist/7D6kLgvRHr6DNDavc0LhvI) | [jhfly](https://open.spotify.com/album/7hmMkesNBhzzGMiCbOCpMo) | 3:08 | 2022-04-15 |  |
+| [for you](https://open.spotify.com/track/2iGqmP4YP3hrx3ij9jvZsG) | [jhfly](https://open.spotify.com/artist/7D6kLgvRHr6DNDavc0LhvI) | [jhfly](https://open.spotify.com/album/7hmMkesNBhzzGMiCbOCpMo) | 3:08 | 2022-04-15 | 2023-11-30 |
 | [for you](https://open.spotify.com/track/5hgX8pSZSOcKhsvzldsgWy) | [jhfly](https://open.spotify.com/artist/7D6kLgvRHr6DNDavc0LhvI) | [jhfly](https://open.spotify.com/album/3W8IdpgA3elbN4BVggHCcd) | 3:08 | 2022-04-15 | 2022-11-19 |
 | [Found you by the Sea](https://open.spotify.com/track/2ovlA6kPP1XaR8hg7qgtnM) | [9thchord](https://open.spotify.com/artist/1FnAtXNjnVfTk157yQWzy5), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Found you by the Sea](https://open.spotify.com/album/2wH0zEupJScB87nbQhfFJt) | 2:56 | 2022-04-15 | 2022-07-29 |
 | [Gaze](https://open.spotify.com/track/2bWSSn9tMf9JeJB3ZPnUbB) | [Thorn.vii](https://open.spotify.com/artist/2VcprDJUxkV4uiaMbKmrWO), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Gaze](https://open.spotify.com/album/3o7rNZqM0CkoVAwyWUXaro) | 1:35 | 2022-04-15 | 2022-07-29 |
@@ -99,6 +99,7 @@
 | [Istoria Mias Kalpikis Liras](https://open.spotify.com/track/56zxZc1luYs2HIXTkFGs05) | [Padma Purana](https://open.spotify.com/artist/2nebIURM77CcBY8Q5y187K) | [The Sketch](https://open.spotify.com/album/4YZ2pr5CNPPlX916nvUcnC) | 4:59 | 2022-04-15 | 2022-05-29 |
 | [It's Ok](https://open.spotify.com/track/19K24V0kGvNLFYCR8jMs88) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [It's Ok](https://open.spotify.com/album/0sDMveXrOxXh8eYtdREMek) | 2:48 | 2022-04-15 |  |
 | [Joan of Arc.](https://open.spotify.com/track/2DrrxuNOhnpqJXLH36eR1S) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 2:58 | 2022-04-15 |  |
+| [jocelyn](https://open.spotify.com/track/0piDIO7lJLc007jn2DqPcF) | [Moody.](https://open.spotify.com/artist/0qdK6GuCLLmh5VHMsozhyb) | [longing for you](https://open.spotify.com/album/66uBHTMoJVpedbTq7jyU2M) | 1:13 | 2022-04-15 |  |
 | [jocelyn](https://open.spotify.com/track/2ectLlq6GLnwUCX12tlEHc) | [Moody.](https://open.spotify.com/artist/0qdK6GuCLLmh5VHMsozhyb) | [longing for you](https://open.spotify.com/album/5g1Wmg2jW2F11eX4aNKcBV) | 1:13 | 2022-04-15 | 2022-11-19 |
 | [Jocelyn](https://open.spotify.com/track/6c17BmTDCcOk9SRdCW8gPv) | [Moody.](https://open.spotify.com/artist/0qdK6GuCLLmh5VHMsozhyb) | [Longing for You](https://open.spotify.com/album/2MHX68LB8hbdFvuOu9bxvD) | 1:13 | 2022-04-15 | 2023-11-08 |
 | [Joy](https://open.spotify.com/track/2zipR1XbPTWpoKedTbeiuW) | [MFakka](https://open.spotify.com/artist/4AwWk21kRgNYUqldVgdjJC), [johto](https://open.spotify.com/artist/7B2DA6KU0k3hJaENyOBXB4), [S I M](https://open.spotify.com/artist/6IUKOT5oMnQ8ZUyJlZFxO2) | [Sweet Journey](https://open.spotify.com/album/3cvSg8qQkJXbgfW3hxerbh) | 1:16 | 2022-04-15 | 2022-07-21 |

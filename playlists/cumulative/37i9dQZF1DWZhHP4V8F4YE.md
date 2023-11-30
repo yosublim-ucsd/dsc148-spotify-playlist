@@ -4,7 +4,7 @@
 
 > All the vibes, enjoyment and future hits right here
 
-539 songs - 1 day 8 hr 44 min
+540 songs - 1 day 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,7 +218,8 @@
 | [ICU](https://open.spotify.com/track/58cMDjQSUdWJUgFmHxRhjt) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn't Tell You](https://open.spotify.com/album/0ZXTkMwilEQdz3KHe0dEPA) | 4:01 | 2023-03-27 | 2023-04-04 |
 | [Id.Me](https://open.spotify.com/track/4rPaeHBlWY8MIruSNe5yZl) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Id.Me](https://open.spotify.com/album/6fTG5tvXWsc7dv22HALIPt) | 2:49 | 2023-11-13 |  |
 | [If Anything's Left](https://open.spotify.com/track/1CViD4tJqNMF4jjgP5Ug62) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [If Anything's Left](https://open.spotify.com/album/6A49EyetnYOdFfM8IWKCqY) | 2:54 | 2023-04-24 | 2023-05-30 |
-| [if u think i'm pretty](https://open.spotify.com/track/3RWl1dP90FXmZDUeIAO20j) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [if u think i'm pretty](https://open.spotify.com/album/6qGsOOm1b2ZwG58fQp617s) | 2:08 | 2023-11-13 |  |
+| [if u think i'm pretty](https://open.spotify.com/track/34Yl756FwYuZldE9xnshj5) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [if u think i'm pretty](https://open.spotify.com/album/4bH2fufFWKIdtVbOI8em1u) | 2:08 | 2023-11-27 |  |
+| [if u think i'm pretty](https://open.spotify.com/track/3RWl1dP90FXmZDUeIAO20j) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [if u think i'm pretty](https://open.spotify.com/album/6qGsOOm1b2ZwG58fQp617s) | 2:08 | 2023-11-13 | 2023-11-30 |
 | [If You Leave](https://open.spotify.com/track/2eknBYpfzA4Mp5zWHMGac5) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Love Is Not Enough, Vol\. 2](https://open.spotify.com/album/4Z8XKYQDIVxQx6s2LTqDiG) | 2:29 | 2022-11-22 | 2022-11-30 |
 | [Igwinya](https://open.spotify.com/track/3IYNx9OQbhfQGAAvXPZk1E) | [Khanyi Mbau](https://open.spotify.com/artist/6mfZMX6n9Ebxp4er6xFwr8) | [Khanyi Mbau](https://open.spotify.com/album/6VK8hsfcAA2qjs7jWzO9Gf) | 5:36 | 2023-03-20 | 2023-04-25 |
 | [Imagine t'es déscolarisé](https://open.spotify.com/track/09KjFPA3wIxxyPxqrARAjz) | [Louse](https://open.spotify.com/artist/42vyJiEswxCBCVUpgKZyT6) | [Imagine t'es déscolarisé](https://open.spotify.com/album/6Il9ZeBjrvfMJszYmB8TYV) | 2:26 | 2023-01-31 | 2023-02-05 |

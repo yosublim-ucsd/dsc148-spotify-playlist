@@ -1,12 +1,12 @@
 {
   "description": "Chill afro music to study with.",
-  "num_followers": 25830,
+  "num_followers": 25863,
   "original_name": "Sound Semester ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2N2Y5YzZlOTQxYzk0ZjljMWZjMzI2MDU0MThiOTY5N2ZkOTJkYTAx",
+  "snapshot_id": "MCwyZjA4NjExOTc3ZWU3NmYxMGY2ODY2Y2E2YTZjZTIwMDI2OWY3ODFh",
   "tracks": [
     {
       "added_at": "2023-11-24 00:01:00",
@@ -311,6 +311,22 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
+        "name": "To Last",
+        "url": "https://open.spotify.com/album/00RMnS3psKLla6O7sYp8mB"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 176283,
+      "name": "To Last",
+      "url": "https://open.spotify.com/track/10aCY2jJFNYGf9qpiN2LZy"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/1YDZJz0EVdKuusZojxdTPL"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 186382,
       "name": "Fever",
       "url": "https://open.spotify.com/track/3GAu2fSg9deV207noxMKl0"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
-        "name": "To Last",
-        "url": "https://open.spotify.com/album/00RMnS3psKLla6O7sYp8mB"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 176283,
-      "name": "To Last",
-      "url": "https://open.spotify.com/track/10aCY2jJFNYGf9qpiN2LZy"
     },
     {
       "added_at": "2023-11-24 00:01:00",

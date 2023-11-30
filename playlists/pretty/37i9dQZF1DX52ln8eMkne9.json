@@ -1,12 +1,12 @@
 {
   "description": "Soft and cozy vocal and instrumental Jazz. Cover: Melody Gardot",
-  "num_followers": 142355,
+  "num_followers": 142447,
   "original_name": "Cozy Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYWUxZDZlZTM1NzAzMmYzZTYzMWExYWM2OWMwMTMzOGQzM2QzYWE3",
+  "snapshot_id": "MCw0OGRiMzNiMjkyOGI4ZWZjMGFhZTg5NmNkMWIzODU0NDBhOTdjNjFh",
   "tracks": [
     {
       "added_at": "2023-11-28 12:34:38",
@@ -895,26 +895,6 @@
     {
       "added_at": "2023-11-28 12:34:38",
       "album": {
-        "name": "Entre eux deux",
-        "url": "https://open.spotify.com/album/73n8nSybQyRr7MxUIi82K7"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        },
-        {
-          "name": "Philippe Powell",
-          "url": "https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe"
-        }
-      ],
-      "duration_ms": 284986,
-      "name": "Darling Fare Thee Well",
-      "url": "https://open.spotify.com/track/2IB2SEntcZb2tc0oD49P5U"
-    },
-    {
-      "added_at": "2023-11-28 12:34:38",
-      "album": {
         "name": "Out of the Blue",
         "url": "https://open.spotify.com/album/1g7TW3FbyhPzxBLLGSNFkd"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 216124,
       "name": "Out of the Blue",
       "url": "https://open.spotify.com/track/4vgJoEztJ2uXCgU5fXxxGW"
+    },
+    {
+      "added_at": "2023-11-28 12:34:38",
+      "album": {
+        "name": "Entre eux deux",
+        "url": "https://open.spotify.com/album/73n8nSybQyRr7MxUIi82K7"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        },
+        {
+          "name": "Philippe Powell",
+          "url": "https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe"
+        }
+      ],
+      "duration_ms": 284986,
+      "name": "Darling Fare Thee Well",
+      "url": "https://open.spotify.com/track/2IB2SEntcZb2tc0oD49P5U"
     },
     {
       "added_at": "2023-11-28 12:34:38",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-11-28 12:34:38",
       "album": {
-        "name": "Meshuga Baby",
-        "url": "https://open.spotify.com/album/5z86H0ClvGTNehrhbmqiDx"
-      },
-      "artists": [
-        {
-          "name": "Emma Smith",
-          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
-        }
-      ],
-      "duration_ms": 264751,
-      "name": "Makin' Whoopee",
-      "url": "https://open.spotify.com/track/04rcEAa4UW7Wn8fRwIEWZt"
-    },
-    {
-      "added_at": "2023-11-28 12:34:38",
-      "album": {
         "name": "Over The Years",
         "url": "https://open.spotify.com/album/3XE2b9grofAamuVk72wdn5"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 449000,
       "name": "Lucky To Be Me",
       "url": "https://open.spotify.com/track/1NeeobDoLiJb8U7X10vw3t"
+    },
+    {
+      "added_at": "2023-11-28 12:34:38",
+      "album": {
+        "name": "Meshuga Baby",
+        "url": "https://open.spotify.com/album/5z86H0ClvGTNehrhbmqiDx"
+      },
+      "artists": [
+        {
+          "name": "Emma Smith",
+          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
+        }
+      ],
+      "duration_ms": 264751,
+      "name": "Makin' Whoopee",
+      "url": "https://open.spotify.com/track/04rcEAa4UW7Wn8fRwIEWZt"
     },
     {
       "added_at": "2023-11-28 12:34:38",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-11-28 12:34:38",
       "album": {
-        "name": "This Bitter Earth",
-        "url": "https://open.spotify.com/album/46Kn3u0Fzlvo1Zmba26EB7"
-      },
-      "artists": [
-        {
-          "name": "Veronica Swift",
-          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
-        }
-      ],
-      "duration_ms": 290119,
-      "name": "The Man I Love",
-      "url": "https://open.spotify.com/track/5ZjbzXgHWwyYB6rotYuP01"
-    },
-    {
-      "added_at": "2023-11-28 12:34:38",
-      "album": {
         "name": "Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster)",
         "url": "https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 306893,
       "name": "I\u2019m Old Fashioned",
       "url": "https://open.spotify.com/track/6KM0MJaeSXK87u6iLhHBu6"
+    },
+    {
+      "added_at": "2023-11-28 12:34:38",
+      "album": {
+        "name": "This Bitter Earth",
+        "url": "https://open.spotify.com/album/46Kn3u0Fzlvo1Zmba26EB7"
+      },
+      "artists": [
+        {
+          "name": "Veronica Swift",
+          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
+        }
+      ],
+      "duration_ms": 290119,
+      "name": "The Man I Love",
+      "url": "https://open.spotify.com/track/5ZjbzXgHWwyYB6rotYuP01"
     },
     {
       "added_at": "2023-11-28 12:34:38",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-11-28 12:34:38",
       "album": {
-        "name": "The Art of Jazz with Miriam Netti",
-        "url": "https://open.spotify.com/album/4lfb694MUymWtIMowS1SO2"
-      },
-      "artists": [
-        {
-          "name": "Miriam Netti",
-          "url": "https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP"
-        }
-      ],
-      "duration_ms": 310275,
-      "name": "May I Come In",
-      "url": "https://open.spotify.com/track/0YhFeyMLMbQ09mMFa8Konr"
-    },
-    {
-      "added_at": "2023-11-28 12:34:38",
-      "album": {
         "name": "No Guarantees",
         "url": "https://open.spotify.com/album/1nR6FaZr89igcbaPow6y8z"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 188545,
       "name": "No Guarantees",
       "url": "https://open.spotify.com/track/6ZVC9vfwMNEKD2CwyrhMOp"
+    },
+    {
+      "added_at": "2023-11-28 12:34:38",
+      "album": {
+        "name": "The Art of Jazz with Miriam Netti",
+        "url": "https://open.spotify.com/album/4lfb694MUymWtIMowS1SO2"
+      },
+      "artists": [
+        {
+          "name": "Miriam Netti",
+          "url": "https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP"
+        }
+      ],
+      "duration_ms": 310275,
+      "name": "May I Come In",
+      "url": "https://open.spotify.com/track/0YhFeyMLMbQ09mMFa8Konr"
     },
     {
       "added_at": "2023-11-28 12:34:38",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-11-28 12:34:38",
       "album": {
-        "name": "City of Sounds",
-        "url": "https://open.spotify.com/album/7eCsq51INi4VOW6VxEQATr"
-      },
-      "artists": [
-        {
-          "name": "Joe Farnsworth",
-          "url": "https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4"
-        }
-      ],
-      "duration_ms": 464093,
-      "name": "Ojos Cari\u00f1osos",
-      "url": "https://open.spotify.com/track/0MJP086n8wHT0rrMNt9ag8"
-    },
-    {
-      "added_at": "2023-11-28 12:34:38",
-      "album": {
         "name": "Roadhouse",
         "url": "https://open.spotify.com/album/1hOiFphQN0xvJS9gNGWaqx"
       },
@@ -1575,26 +1559,6 @@
       "duration_ms": 311906,
       "name": "One For My Baby",
       "url": "https://open.spotify.com/track/3tH1hpTg9fBtuvX1ghzNON"
-    },
-    {
-      "added_at": "2023-11-28 12:34:38",
-      "album": {
-        "name": "Alice Carreri & The Sidecar Trio",
-        "url": "https://open.spotify.com/album/3xBomY6Gc4o0LG0wvssp4V"
-      },
-      "artists": [
-        {
-          "name": "Alice Carreri",
-          "url": "https://open.spotify.com/artist/2qErnWAGdPnpxE1GmQjloh"
-        },
-        {
-          "name": "The Sidecar Trio",
-          "url": "https://open.spotify.com/artist/2wOhxGipTeYeM9FcbjbF0A"
-        }
-      ],
-      "duration_ms": 258863,
-      "name": "You Fascinate Me So",
-      "url": "https://open.spotify.com/track/4U4GeHxfnBnVFEUINkrfZn"
     },
     {
       "added_at": "2023-11-28 12:34:38",
@@ -1627,6 +1591,42 @@
       "duration_ms": 216654,
       "name": "Violets for Your Furs",
       "url": "https://open.spotify.com/track/5fVwnzlWnYEdJnL9KRQZ0d"
+    },
+    {
+      "added_at": "2023-11-28 12:34:38",
+      "album": {
+        "name": "City of Sounds",
+        "url": "https://open.spotify.com/album/7eCsq51INi4VOW6VxEQATr"
+      },
+      "artists": [
+        {
+          "name": "Joe Farnsworth",
+          "url": "https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4"
+        }
+      ],
+      "duration_ms": 464093,
+      "name": "Ojos Cari\u00f1osos",
+      "url": "https://open.spotify.com/track/0MJP086n8wHT0rrMNt9ag8"
+    },
+    {
+      "added_at": "2023-11-28 12:34:38",
+      "album": {
+        "name": "Alice Carreri & The Sidecar Trio",
+        "url": "https://open.spotify.com/album/3xBomY6Gc4o0LG0wvssp4V"
+      },
+      "artists": [
+        {
+          "name": "Alice Carreri",
+          "url": "https://open.spotify.com/artist/2qErnWAGdPnpxE1GmQjloh"
+        },
+        {
+          "name": "The Sidecar Trio",
+          "url": "https://open.spotify.com/artist/2wOhxGipTeYeM9FcbjbF0A"
+        }
+      ],
+      "duration_ms": 258863,
+      "name": "You Fascinate Me So",
+      "url": "https://open.spotify.com/track/4U4GeHxfnBnVFEUINkrfZn"
     },
     {
       "added_at": "2023-11-28 12:34:38",
@@ -1915,6 +1915,22 @@
     {
       "added_at": "2023-11-28 12:34:38",
       "album": {
+        "name": "Lounge Lizard",
+        "url": "https://open.spotify.com/album/4W6s4LdmewGx1WB1f0kWR0"
+      },
+      "artists": [
+        {
+          "name": "Molly Lewis",
+          "url": "https://open.spotify.com/artist/16eM95zw2t0KRDniuNFKVt"
+        }
+      ],
+      "duration_ms": 229720,
+      "name": "Lounge Lizard",
+      "url": "https://open.spotify.com/track/39mehRLHX9wvfrooKeiWxa"
+    },
+    {
+      "added_at": "2023-11-28 12:34:38",
+      "album": {
         "name": "Voces Veladas, Vol.2-Un Homenaje a Letristas e Int\u00e9rpretes de Jazz",
         "url": "https://open.spotify.com/album/68Zzm6yDNA2CUBGA5rsjbe"
       },
@@ -2043,18 +2059,18 @@
     {
       "added_at": "2023-11-28 12:34:38",
       "album": {
-        "name": "Lounge Lizard",
-        "url": "https://open.spotify.com/album/4W6s4LdmewGx1WB1f0kWR0"
+        "name": "The Art of Jazz with Ben Besiakov",
+        "url": "https://open.spotify.com/album/2mqPHMDt8VDECQV1VNQmh3"
       },
       "artists": [
         {
-          "name": "Molly Lewis",
-          "url": "https://open.spotify.com/artist/16eM95zw2t0KRDniuNFKVt"
+          "name": "Ben Besiakov",
+          "url": "https://open.spotify.com/artist/5yZadAMrFsD1BPOC01DpJ4"
         }
       ],
-      "duration_ms": 229720,
-      "name": "Lounge Lizard",
-      "url": "https://open.spotify.com/track/39mehRLHX9wvfrooKeiWxa"
+      "duration_ms": 319955,
+      "name": "Emily",
+      "url": "https://open.spotify.com/track/5Ug1JZFSNu4YBEfF5gAtPI"
     },
     {
       "added_at": "2023-11-28 12:34:38",
@@ -2071,22 +2087,6 @@
       "duration_ms": 334933,
       "name": "Alfie",
       "url": "https://open.spotify.com/track/0HKf7o2cKrbsCUelKF8Cri"
-    },
-    {
-      "added_at": "2023-11-28 12:34:38",
-      "album": {
-        "name": "The Art of Jazz with Ben Besiakov",
-        "url": "https://open.spotify.com/album/2mqPHMDt8VDECQV1VNQmh3"
-      },
-      "artists": [
-        {
-          "name": "Ben Besiakov",
-          "url": "https://open.spotify.com/artist/5yZadAMrFsD1BPOC01DpJ4"
-        }
-      ],
-      "duration_ms": 319955,
-      "name": "Emily",
-      "url": "https://open.spotify.com/track/5Ug1JZFSNu4YBEfF5gAtPI"
     },
     {
       "added_at": "2023-11-28 12:34:38",
@@ -2323,18 +2323,18 @@
     {
       "added_at": "2023-11-28 12:34:38",
       "album": {
-        "name": "Now Pronouncing: Caity Gyorgy",
-        "url": "https://open.spotify.com/album/4uhLfLaqoYyOww0elnoSyv"
+        "name": "Tis Autumn",
+        "url": "https://open.spotify.com/album/01lnZ9TUIeK5Wl8IbziDpS"
       },
       "artists": [
         {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+          "name": "Belle-Skinner",
+          "url": "https://open.spotify.com/artist/7BFkFoYUrl7Hab2PGxr9fA"
         }
       ],
-      "duration_ms": 221480,
-      "name": "There by the Door",
-      "url": "https://open.spotify.com/track/6xuskbyiFsUyHKiibJyDsQ"
+      "duration_ms": 130162,
+      "name": "Tis Autumn",
+      "url": "https://open.spotify.com/track/2xkjxUit9oF8aC3057JybK"
     },
     {
       "added_at": "2023-11-28 12:34:38",
@@ -2355,18 +2355,18 @@
     {
       "added_at": "2023-11-28 12:34:38",
       "album": {
-        "name": "Tis Autumn",
-        "url": "https://open.spotify.com/album/01lnZ9TUIeK5Wl8IbziDpS"
+        "name": "Now Pronouncing: Caity Gyorgy",
+        "url": "https://open.spotify.com/album/4uhLfLaqoYyOww0elnoSyv"
       },
       "artists": [
         {
-          "name": "Belle-Skinner",
-          "url": "https://open.spotify.com/artist/7BFkFoYUrl7Hab2PGxr9fA"
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
         }
       ],
-      "duration_ms": 130162,
-      "name": "Tis Autumn",
-      "url": "https://open.spotify.com/track/2xkjxUit9oF8aC3057JybK"
+      "duration_ms": 221480,
+      "name": "There by the Door",
+      "url": "https://open.spotify.com/track/6xuskbyiFsUyHKiibJyDsQ"
     },
     {
       "added_at": "2023-11-28 12:34:38",
@@ -2407,22 +2407,6 @@
     {
       "added_at": "2023-11-28 12:34:38",
       "album": {
-        "name": "A Child Is Born",
-        "url": "https://open.spotify.com/album/69ClUZBQVjOXSDf00pzLvx"
-      },
-      "artists": [
-        {
-          "name": "Dara Tucker",
-          "url": "https://open.spotify.com/artist/5pSRNxDFAIW18vu0im7kql"
-        }
-      ],
-      "duration_ms": 174186,
-      "name": "A Child Is Born",
-      "url": "https://open.spotify.com/track/1AGn0quGIiPiSTtyRzj1rM"
-    },
-    {
-      "added_at": "2023-11-28 12:34:38",
-      "album": {
         "name": "Ballads",
         "url": "https://open.spotify.com/album/7fb7qwGqfdxJH1fKegVMTr"
       },
@@ -2451,6 +2435,22 @@
       "duration_ms": 263026,
       "name": "They Say It's Wonderful",
       "url": "https://open.spotify.com/track/7c7LB2gAiXKssztP4DJMFo"
+    },
+    {
+      "added_at": "2023-11-28 12:34:38",
+      "album": {
+        "name": "A Child Is Born",
+        "url": "https://open.spotify.com/album/69ClUZBQVjOXSDf00pzLvx"
+      },
+      "artists": [
+        {
+          "name": "Dara Tucker",
+          "url": "https://open.spotify.com/artist/5pSRNxDFAIW18vu0im7kql"
+        }
+      ],
+      "duration_ms": 174186,
+      "name": "A Child Is Born",
+      "url": "https://open.spotify.com/track/1AGn0quGIiPiSTtyRzj1rM"
     },
     {
       "added_at": "2023-11-28 12:34:38",
@@ -2559,18 +2559,18 @@
     {
       "added_at": "2023-11-28 12:34:38",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/5dFmnDotQPcuXAA2kdogmo"
+        "name": "More Than You Know",
+        "url": "https://open.spotify.com/album/3E1qoQI2HeUjrizaAi5eY0"
       },
       "artists": [
         {
-          "name": "Jane Monheit",
-          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
+          "name": "Silva & Steini",
+          "url": "https://open.spotify.com/artist/2Fm2civCaH94nJt0KPvF5c"
         }
       ],
-      "duration_ms": 301320,
-      "name": "A Time For Love",
-      "url": "https://open.spotify.com/track/0Oho1Elt6nNyiHZyZR8OaG"
+      "duration_ms": 240300,
+      "name": "Ev'ry Time We Say Goodbye",
+      "url": "https://open.spotify.com/track/7zPr0wXnW2zTeWA4MNxRQy"
     },
     {
       "added_at": "2023-11-28 12:34:38",
@@ -2591,22 +2591,6 @@
     {
       "added_at": "2023-11-28 12:34:38",
       "album": {
-        "name": "More Than You Know",
-        "url": "https://open.spotify.com/album/3E1qoQI2HeUjrizaAi5eY0"
-      },
-      "artists": [
-        {
-          "name": "Silva & Steini",
-          "url": "https://open.spotify.com/artist/2Fm2civCaH94nJt0KPvF5c"
-        }
-      ],
-      "duration_ms": 240300,
-      "name": "Ev'ry Time We Say Goodbye",
-      "url": "https://open.spotify.com/track/7zPr0wXnW2zTeWA4MNxRQy"
-    },
-    {
-      "added_at": "2023-11-28 12:34:38",
-      "album": {
         "name": "It Ends Now",
         "url": "https://open.spotify.com/album/2n5vb0l7yIB44vb7H1DDF4"
       },
@@ -2623,6 +2607,22 @@
       "duration_ms": 363893,
       "name": "It Ends Now",
       "url": "https://open.spotify.com/track/2VNHGQazdShPrH1wxz5evd"
+    },
+    {
+      "added_at": "2023-11-28 12:34:38",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/5dFmnDotQPcuXAA2kdogmo"
+      },
+      "artists": [
+        {
+          "name": "Jane Monheit",
+          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
+        }
+      ],
+      "duration_ms": 301320,
+      "name": "A Time For Love",
+      "url": "https://open.spotify.com/track/0Oho1Elt6nNyiHZyZR8OaG"
     },
     {
       "added_at": "2023-11-28 12:34:38",
@@ -2723,22 +2723,6 @@
     {
       "added_at": "2023-11-28 12:34:38",
       "album": {
-        "name": "Come What May",
-        "url": "https://open.spotify.com/album/1PfdkCao8Kpvpwn977xklZ"
-      },
-      "artists": [
-        {
-          "name": "Jane Monheit",
-          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
-        }
-      ],
-      "duration_ms": 329093,
-      "name": "The Man That Got Away",
-      "url": "https://open.spotify.com/track/0cweXV4g3behXK3wXGgk37"
-    },
-    {
-      "added_at": "2023-11-28 12:34:38",
-      "album": {
         "name": "In the Space Between Our Souls",
         "url": "https://open.spotify.com/album/2p6JHhn0lEekYls1t0o5NS"
       },
@@ -2767,6 +2751,38 @@
       "duration_ms": 618107,
       "name": "Tenderly",
       "url": "https://open.spotify.com/track/2zcovmEg4YesrC3F88cpfa"
+    },
+    {
+      "added_at": "2023-11-28 12:34:38",
+      "album": {
+        "name": "Bewitched, Bothered and Bewildered",
+        "url": "https://open.spotify.com/album/67s4gPfQRUR1z2CfN1BrGW"
+      },
+      "artists": [
+        {
+          "name": "Johanna Linnea Jakobsson",
+          "url": "https://open.spotify.com/artist/69am8UyQyXz2KgO2bnxkfP"
+        }
+      ],
+      "duration_ms": 403702,
+      "name": "Bewitched, Bothered and Bewildered",
+      "url": "https://open.spotify.com/track/51SL2r0y3w73bK1iCvi2nN"
+    },
+    {
+      "added_at": "2023-11-28 12:34:38",
+      "album": {
+        "name": "Come What May",
+        "url": "https://open.spotify.com/album/1PfdkCao8Kpvpwn977xklZ"
+      },
+      "artists": [
+        {
+          "name": "Jane Monheit",
+          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
+        }
+      ],
+      "duration_ms": 329093,
+      "name": "The Man That Got Away",
+      "url": "https://open.spotify.com/track/0cweXV4g3behXK3wXGgk37"
     },
     {
       "added_at": "2023-11-28 12:34:38",
@@ -2803,22 +2819,6 @@
     {
       "added_at": "2023-11-28 12:34:38",
       "album": {
-        "name": "Bewitched, Bothered and Bewildered",
-        "url": "https://open.spotify.com/album/67s4gPfQRUR1z2CfN1BrGW"
-      },
-      "artists": [
-        {
-          "name": "Johanna Linnea Jakobsson",
-          "url": "https://open.spotify.com/artist/69am8UyQyXz2KgO2bnxkfP"
-        }
-      ],
-      "duration_ms": 403702,
-      "name": "Bewitched, Bothered and Bewildered",
-      "url": "https://open.spotify.com/track/51SL2r0y3w73bK1iCvi2nN"
-    },
-    {
-      "added_at": "2023-11-28 12:34:38",
-      "album": {
         "name": "Fourteen",
         "url": "https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X"
       },
@@ -2831,22 +2831,6 @@
       "duration_ms": 359000,
       "name": "Black Coffee",
       "url": "https://open.spotify.com/track/3598gM7OA4kWCYNGl1Ma8l"
-    },
-    {
-      "added_at": "2023-11-28 12:34:38",
-      "album": {
-        "name": "On My Worst Day (I'm Still In Love With You)",
-        "url": "https://open.spotify.com/album/05usim6u1byXZXYzYq70JO"
-      },
-      "artists": [
-        {
-          "name": "Erika Ingrid",
-          "url": "https://open.spotify.com/artist/5qykgTkNRZf1P5QZL1r4Nr"
-        }
-      ],
-      "duration_ms": 224660,
-      "name": "On My Worst Day (I'm Still In Love With You)",
-      "url": "https://open.spotify.com/track/3wbCw5YUZbHbVpJB4VkCyy"
     },
     {
       "added_at": "2023-11-28 12:34:38",
@@ -2867,6 +2851,22 @@
       "duration_ms": 166506,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/66lXU76DwetHysKwFyLLQd"
+    },
+    {
+      "added_at": "2023-11-28 12:34:38",
+      "album": {
+        "name": "On My Worst Day (I'm Still In Love With You)",
+        "url": "https://open.spotify.com/album/05usim6u1byXZXYzYq70JO"
+      },
+      "artists": [
+        {
+          "name": "Erika Ingrid",
+          "url": "https://open.spotify.com/artist/5qykgTkNRZf1P5QZL1r4Nr"
+        }
+      ],
+      "duration_ms": 224660,
+      "name": "On My Worst Day (I'm Still In Love With You)",
+      "url": "https://open.spotify.com/track/3wbCw5YUZbHbVpJB4VkCyy"
     },
     {
       "added_at": "2023-11-28 12:34:38",
@@ -3067,6 +3067,22 @@
     {
       "added_at": "2023-11-28 12:34:38",
       "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/71mom1riIUOTcVZLgLhcD2"
+      },
+      "artists": [
+        {
+          "name": "Kaiak",
+          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
+        }
+      ],
+      "duration_ms": 176720,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/1vNN2Zaps5wRToq3poqAV3"
+    },
+    {
+      "added_at": "2023-11-28 12:34:38",
+      "album": {
         "name": "Something Cool",
         "url": "https://open.spotify.com/album/4jEw3uFBNJqFZz43DDTbgQ"
       },
@@ -3247,22 +3263,6 @@
       "duration_ms": 341040,
       "name": "Sweet Kentucky Ham",
       "url": "https://open.spotify.com/track/7rAShsMrZEArdLb5IemOUz"
-    },
-    {
-      "added_at": "2023-11-28 12:34:38",
-      "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/71mom1riIUOTcVZLgLhcD2"
-      },
-      "artists": [
-        {
-          "name": "Kaiak",
-          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
-        }
-      ],
-      "duration_ms": 176720,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/1vNN2Zaps5wRToq3poqAV3"
     },
     {
       "added_at": "2023-11-28 12:34:38",

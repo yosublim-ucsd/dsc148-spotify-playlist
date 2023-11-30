@@ -1,12 +1,12 @@
 {
   "description": "Un surtido rico de canciones con sabor a M\u00e9xico. ",
-  "num_followers": 178813,
+  "num_followers": 178871,
   "original_name": "La Pozoliza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjQ0MmRlZjBhM2YyYmZjMjcwZDY4NjQ0NzM4NzU1ZDNiNThlM2Vk",
+  "snapshot_id": "MCxjMTQ4ZDQ2NWYyZWQ1MGVkOThhYzk5N2YxNjc0NTM1MjI0YTAwMDA4",
   "tracks": [
     {
       "added_at": "2023-08-08 22:27:59",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
-        "name": "Simbolo Sexual",
-        "url": "https://open.spotify.com/album/2WJhXkMXbuXnwkWVb2u0PJ"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 180208,
-      "name": "S\u00edmbolo Sexual",
-      "url": "https://open.spotify.com/track/7nDgUvJLsinxKYyQhv3tAK"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
         "name": "Joan Sebastian Con Mariachi",
         "url": "https://open.spotify.com/album/7Ml2mSF97d0zz3mDCKdx9M"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 211255,
       "name": "Tatuajes",
       "url": "https://open.spotify.com/track/57dG9il4j7Hi7G8Cqgi0Ts"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
+        "name": "Simbolo Sexual",
+        "url": "https://open.spotify.com/album/2WJhXkMXbuXnwkWVb2u0PJ"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 180208,
+      "name": "S\u00edmbolo Sexual",
+      "url": "https://open.spotify.com/track/7nDgUvJLsinxKYyQhv3tAK"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
+        "name": "D\u00e9cimo Aniversario",
+        "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 164360,
+      "name": "Tranquilito",
+      "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
         "name": "Qu\u00e9 Agon\u00eda",
         "url": "https://open.spotify.com/album/5OhmDEdu6pM2rTLOpOAk4v"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 152923,
       "name": "Qu\u00e9 Agon\u00eda",
       "url": "https://open.spotify.com/track/5WEt9MiZPNmCbhu8GOR9Kk"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
-        "name": "D\u00e9cimo Aniversario",
-        "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 164360,
-      "name": "Tranquilito",
-      "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
-        "name": "Amor Plat\u00f3nico",
-        "url": "https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 183080,
-      "name": "Espejeando",
-      "url": "https://open.spotify.com/track/6mEp3WgXcjJw5yjG2C4GuH"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
         "name": "Partido En Dos",
         "url": "https://open.spotify.com/album/3dWmlJJXZtKofrXUHSkfgw"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 226003,
       "name": "Partido En Dos",
       "url": "https://open.spotify.com/track/1GBaQ3nnwxO3WVDUzKZ4kX"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
+        "name": "Amor Plat\u00f3nico",
+        "url": "https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 183080,
+      "name": "Espejeando",
+      "url": "https://open.spotify.com/track/6mEp3WgXcjJw5yjG2C4GuH"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
+        "name": "Me Robaste El Corazon",
+        "url": "https://open.spotify.com/album/127PyrgkTjtB5HTFNlIG2Y"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 198920,
+      "name": "La Chona",
+      "url": "https://open.spotify.com/track/6pq7EtEDWgD5Sh02RJaXK7"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
         "name": "Amor Prohibido",
         "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 182480,
       "name": "Y Me Da Verg\u00fcenza",
       "url": "https://open.spotify.com/track/3FR3GIiCGl3NzBYgbbpLJe"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
-        "name": "Me Robaste El Corazon",
-        "url": "https://open.spotify.com/album/127PyrgkTjtB5HTFNlIG2Y"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 198920,
-      "name": "La Chona",
-      "url": "https://open.spotify.com/track/6pq7EtEDWgD5Sh02RJaXK7"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
+        "name": "Soy Todo Tuyo",
+        "url": "https://open.spotify.com/album/0ExMixEC3UmmcUqajTEGUx"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 187373,
+      "name": "Soy Todo Tuyo",
+      "url": "https://open.spotify.com/track/1qgsZJWKgpVXV1AzOTaKPt"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
         "name": "Que Sea",
         "url": "https://open.spotify.com/album/59uULSbzUmeuVBiDGbLsqR"
       },
@@ -1279,38 +1295,18 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
-        "name": "Soy Todo Tuyo",
-        "url": "https://open.spotify.com/album/0ExMixEC3UmmcUqajTEGUx"
+        "name": "Por Mujeres Como T\u00fa",
+        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
       },
       "artists": [
         {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 187373,
-      "name": "Soy Todo Tuyo",
-      "url": "https://open.spotify.com/track/1qgsZJWKgpVXV1AzOTaKPt"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
-        "name": "C\u00f3mo Te Voy a Olvidar",
-        "url": "https://open.spotify.com/album/3hgqQV4fVY9QfSyJOopuRl"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 216986,
-      "name": "Mis Sentimientos",
-      "url": "https://open.spotify.com/track/2tyEPvpKX4m20YOGo5W6O4"
+      "duration_ms": 200480,
+      "name": "Directo Al Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -1335,18 +1331,22 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
-        "name": "Por Mujeres Como T\u00fa",
-        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
+        "name": "C\u00f3mo Te Voy a Olvidar",
+        "url": "https://open.spotify.com/album/3hgqQV4fVY9QfSyJOopuRl"
       },
       "artists": [
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
         }
       ],
-      "duration_ms": 200480,
-      "name": "Directo Al Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB"
+      "duration_ms": 216986,
+      "name": "Mis Sentimientos",
+      "url": "https://open.spotify.com/track/2tyEPvpKX4m20YOGo5W6O4"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
-        "name": "Esto S\u00ed Es Cumbia",
-        "url": "https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 266213,
-      "name": "Nunca Es Suficiente",
-      "url": "https://open.spotify.com/track/63USmok1OioBzKuWGW9wAg"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
         "name": "Borracho Enamorado",
         "url": "https://open.spotify.com/album/0sr6urbaaWIMexVmk97TZK"
       },
@@ -1487,22 +1467,6 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
-        "name": "Todo",
-        "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 229040,
-      "name": "Caray",
-      "url": "https://open.spotify.com/track/3SPqDiyU1dKcWfBBWpPEC3"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
         "name": "En Vivo en el Palacio de los Deportes - 25 Aniversario",
         "url": "https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC"
       },
@@ -1523,6 +1487,22 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
+        "name": "Todo",
+        "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 229040,
+      "name": "Caray",
+      "url": "https://open.spotify.com/track/3SPqDiyU1dKcWfBBWpPEC3"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
         "name": "Tucanes De Oro ... Secuestro De Amor",
         "url": "https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ"
       },
@@ -1535,6 +1515,26 @@
       "duration_ms": 174160,
       "name": "El Tucanazo",
       "url": "https://open.spotify.com/track/07Ag8vm1pW409NrhpPokFg"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
+        "name": "Esto S\u00ed Es Cumbia",
+        "url": "https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 266213,
+      "name": "Nunca Es Suficiente",
+      "url": "https://open.spotify.com/track/63USmok1OioBzKuWGW9wAg"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/352LrVMlDficyblK9e7Olr"
+      },
+      "artists": [
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        }
+      ],
+      "duration_ms": 210932,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/02hdaX3rWzdjZL6uqBZNhG"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
         "name": "100 A\u00f1os",
         "url": "https://open.spotify.com/album/1LmIj33OFO9d1XMh9jRecz"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 185074,
       "name": "100 A\u00f1os",
       "url": "https://open.spotify.com/track/4XKC4nfeXgyd4KQDu8arKL"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/352LrVMlDficyblK9e7Olr"
-      },
-      "artists": [
-        {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
-        }
-      ],
-      "duration_ms": 210932,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/02hdaX3rWzdjZL6uqBZNhG"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
+        "name": "De Parranda Lives Vol. 5",
+        "url": "https://open.spotify.com/album/0IbYtGUcmCxEqOenGvcZRh"
+      },
+      "artists": [
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        }
+      ],
+      "duration_ms": 252888,
+      "name": "Te Vez Buena",
+      "url": "https://open.spotify.com/track/4fTFCw9sUnJFZNrVBecAUn"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
         "name": "Cuando Te Acuerdes De Mi (En Vivo)",
         "url": "https://open.spotify.com/album/3c985F15MGQkPkUlCBPj79"
       },
@@ -1771,22 +1787,6 @@
       "duration_ms": 199314,
       "name": "Huapango Amor Ranchero",
       "url": "https://open.spotify.com/track/4h8xnS3HBT19lpOvOfctS5"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
-        "name": "De Parranda Lives Vol. 5",
-        "url": "https://open.spotify.com/album/0IbYtGUcmCxEqOenGvcZRh"
-      },
-      "artists": [
-        {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
-        }
-      ],
-      "duration_ms": 252888,
-      "name": "Te Vez Buena",
-      "url": "https://open.spotify.com/track/4fTFCw9sUnJFZNrVBecAUn"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -2171,18 +2171,18 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
-        "name": "Las Compuse para Ti",
-        "url": "https://open.spotify.com/album/6MPAzfdQFWe5IadlxhcUNv"
+        "name": "Locos De Amor",
+        "url": "https://open.spotify.com/album/68mkOfI8mKH9HULGOBO3O8"
       },
       "artists": [
         {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+          "name": "Los Hor\u00f3scopos De Durango",
+          "url": "https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid"
         }
       ],
-      "duration_ms": 226285,
-      "name": "La Mushasha Shula",
-      "url": "https://open.spotify.com/track/4H8AfSDk1cWrYiV35VCdyA"
+      "duration_ms": 206146,
+      "name": "Dos Locos",
+      "url": "https://open.spotify.com/track/4GzrlsibHiAfMqyWvSBvgh"
     }
   ],
   "unique_name": "La Pozoliza",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 
 > The classic Jazz guitarists and their finest pieces\. Cover: Grant Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,921 likes - 100 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,972 likes - 100 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 53 | [You Are Too Beautiful](https://open.spotify.com/track/7dOfAphsqSBeYQWtBPa8xO) | [Don Thompson](https://open.spotify.com/artist/1l2y80b850BRWQ3Y6YhLaX), [Ed Bickert](https://open.spotify.com/artist/28OasCag6MpcSYdG8blWHA) | [At the Garden Party](https://open.spotify.com/album/2GHEmpg1poRNNgLSh8Q81q) | 6:34 |
 | 54 | [The Nearness Of You \- Instrumental](https://open.spotify.com/track/118oSpIpxvMlnpeX2TOiKr) | [George Van Eps](https://open.spotify.com/artist/6QL3lIEWRff6Nn0Iy1yIps), [Howard Alden](https://open.spotify.com/artist/7sgBK9xjqtnAFTfm2SvWMR) | [Hand\-Crafted Swing](https://open.spotify.com/album/1qb8YfycUTV28M85dBT5kZ) | 6:10 |
 | 55 | [Jean De Fleur \- Rudy Van Gelder Edition / Remastered 1999](https://open.spotify.com/track/6ZniDtZIvYjdYHG8sHh2jD) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Idle Moments](https://open.spotify.com/album/1lDtUlOPGKp56gQ24MvmNG) | 6:49 |
-| 56 | [Night And Day](https://open.spotify.com/track/3uydYrCQIkBAi2BG2fgjaF) | [Joe Pass](https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ) | [For Django](https://open.spotify.com/album/52hlifh2FGBhx4BQVl2OJD) | 3:44 |
-| 57 | [When The Sun Comes Out](https://open.spotify.com/track/6AVztYjd9LnVjXtDHK73NU) | [Howard Roberts](https://open.spotify.com/artist/1E4UIKgZgGsuAZ4CFS0Cel) | [Good Pickin's](https://open.spotify.com/album/0CVGXahh2o0Wg4asysJ9OS) | 4:15 |
+| 56 | [When The Sun Comes Out](https://open.spotify.com/track/6AVztYjd9LnVjXtDHK73NU) | [Howard Roberts](https://open.spotify.com/artist/1E4UIKgZgGsuAZ4CFS0Cel) | [Good Pickin's](https://open.spotify.com/album/0CVGXahh2o0Wg4asysJ9OS) | 4:15 |
+| 57 | [Night And Day](https://open.spotify.com/track/3uydYrCQIkBAi2BG2fgjaF) | [Joe Pass](https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ) | [For Django](https://open.spotify.com/album/52hlifh2FGBhx4BQVl2OJD) | 3:44 |
 | 58 | [Wholly Cats](https://open.spotify.com/track/4p9naPxsiai1ayHWKvvhCS) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve), [Charlie Christian](https://open.spotify.com/artist/0WdDpEeDIDmtYh5sqRrdI6), [Benny Goodman Sextet](https://open.spotify.com/artist/33N6sGOKJwLGOnq31ZmEl1) | [The Essential Benny Goodman](https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK) | 3:02 |
 | 59 | [It's a Blue World](https://open.spotify.com/track/2CXfxQY057JczwoKonH8dl) | [Billy Bauer](https://open.spotify.com/artist/2Stsu7b2rXjs8idU9wjQgf) | [Plectrist](https://open.spotify.com/album/4yXQl7UAIbrszxlYSgEqla) | 4:14 |
 | 60 | [Nimbus](https://open.spotify.com/track/2wpyQnXMfrbwJi2LND6DOY) | [Ralph Towner](https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535), [Jan Garbarek](https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym), [Eberhard Weber](https://open.spotify.com/artist/2BPSfZHtSYon5DKvp95xXT), [Jon Christensen](https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr) | [Solstice](https://open.spotify.com/album/3sKuk1zytR31B2Vdi5d4B0) | 6:25 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 74 | [Ralph's Piano Waltz](https://open.spotify.com/track/6eldKsQmwvE8W8RJvE4bF8) | [John Abercrombie](https://open.spotify.com/artist/1OCdpTg8d7Ehpj8B9j4iqa), [Jan Hammer](https://open.spotify.com/artist/50zRydJXfkLzGIOj9mITfy), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Timeless](https://open.spotify.com/album/0nI82CyOhfSVAlElZlAUXW) | 4:52 |
 | 75 | [I Never Knew](https://open.spotify.com/track/6Xugk0xzYvSkmH77VL1GwL) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Kenny Burrell & John Coltrane](https://open.spotify.com/album/4BZcEZub79xqoEJwtVNQoY) | 7:02 |
 | 76 | [Rambler](https://open.spotify.com/track/09AbZLx0X2GsRSXFgEpLKA) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Rambler](https://open.spotify.com/album/1vkLfWBiL2wHMxdGpDCbPC) | 8:12 |
-| 77 | [You'd Be So Nice To Come Home To \- alt\. take](https://open.spotify.com/track/1XTSIuZKon87IZortCLsWV) | [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr) | [Concierto \(CTI Records 40th Anniversary Edition\)](https://open.spotify.com/album/7N3ZysMrLSuJAtPPCjCba0) | 7:27 |
-| 78 | [Let's Say We Did](https://open.spotify.com/track/301YnLmQmSX7mURPKvWOy5) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Time On My Hands](https://open.spotify.com/album/204uhoOaWn4a1XK8RmJi92) | 4:27 |
+| 77 | [Let's Say We Did](https://open.spotify.com/track/301YnLmQmSX7mURPKvWOy5) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Time On My Hands](https://open.spotify.com/album/204uhoOaWn4a1XK8RmJi92) | 4:27 |
+| 78 | [You'd Be So Nice To Come Home To \- alt\. take](https://open.spotify.com/track/1XTSIuZKon87IZortCLsWV) | [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr) | [Concierto \(CTI Records 40th Anniversary Edition\)](https://open.spotify.com/album/7N3ZysMrLSuJAtPPCjCba0) | 7:27 |
 | 79 | [Dexterity](https://open.spotify.com/track/1XWNom3RjC845iyW9vx6X3) | [Adam Rogers](https://open.spotify.com/artist/68u79CqTqTgKncfDRbjDLH), [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH), [Clarence Penn](https://open.spotify.com/artist/5rJj8HrmzwTut6lKzChcEh) | [Sight](https://open.spotify.com/album/4Hud8C5AEW8aKw1AdIVPgt) | 6:28 |
 | 80 | ['Round Midnight](https://open.spotify.com/track/2qaFycbq4YZ3ZspWbB57dr) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Jimmy Raney](https://open.spotify.com/artist/42MZam7rropEzPCxlGTmOs), [Terry Gibbs](https://open.spotify.com/artist/4vc7AQ05GYmIYTzly9xjbp) | [Early Stan](https://open.spotify.com/album/1V0xTNXZSiQEpkcM1vdc56) | 5:18 |
 | 81 | [Silver Lining](https://open.spotify.com/track/5Pp8j3brmuE1m2ssreqFcN) | [Mike Stern](https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP) | [These Times](https://open.spotify.com/album/0b0yP9HN3TrKfZ7llb0LwR) | 6:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 99 | [For Toddlers Only](https://open.spotify.com/track/0ZjG7vhjZrpPItoMOZmXH6) | [Russell Malone](https://open.spotify.com/artist/4U5eHAv5qBumRcWEl84ZCb) | [Sweet Georgia Peach](https://open.spotify.com/album/5uip0ZOqDmZb6GqFfLpqOw) | 5:18 |
 | 100 | [Tenderly](https://open.spotify.com/track/7kxl3YY1zqfybhYMylZGRz) | [Barney Kessel](https://open.spotify.com/artist/6pVkGhtBvjj1P52yn0tNLG) | [Easy Like](https://open.spotify.com/album/4FEQUVniR5kClrtPy9uVJD) | 3:15 |
 
-Snapshot ID: `MCxiYzY3NDZjZDM0MjRmMGE0ZmRmNzI0YWFmNDJlMzVjZDcyNjIxODgz`
+Snapshot ID: `MCwxYzMxNjYwOTQxZTM2ZGM4MTVkYjcyZGE2OGQ0YTliNTg4NTc2Y2Vm`

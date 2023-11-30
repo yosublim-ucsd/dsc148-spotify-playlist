@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Jude York
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,147 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,163 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 2 | [Memory Lane](https://open.spotify.com/track/7hHrs2q5c5rtzHLJ2DKHTT) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Memory Lane & Winter Song](https://open.spotify.com/album/5IvpvVd9LKgHACcUSHL5Y8) | 3:12 |
 | 3 | [Luxury](https://open.spotify.com/track/7AJn6nHmWouUAdd7bJAheL) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Upside](https://open.spotify.com/album/3DJIsKB1vlhdn0hDAwqiTH) | 3:17 |
 | 4 | [Summer's for Lovers](https://open.spotify.com/track/06NIJ4rtzsdPCpQ55EFOEb) | [Glades](https://open.spotify.com/artist/14rP13jdQNgQvuPA2AkBgm) | [Summer's for Lovers](https://open.spotify.com/album/1MGHfU36OVN8QREjULRFEg) | 2:27 |
-| 5 | [Throw Your Arms Around Me](https://open.spotify.com/track/0CVwSCQOx3CMHjwDCmaElh) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Mushroom: 50 Years Of Making Noise \(Reimagined\)](https://open.spotify.com/album/4SRtPtUkg4izzJZ2Kr2LMJ) | 3:03 |
+| 5 | [Throw Your Arms Around Me](https://open.spotify.com/track/0CVwSCQOx3CMHjwDCmaElh) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Mushroom: 50 Years of Making Noise \(Reimagined\)](https://open.spotify.com/album/4SRtPtUkg4izzJZ2Kr2LMJ) | 3:03 |
 | 6 | [Cheerleaders and Jocks](https://open.spotify.com/track/6AJbBmXX4GCr5ANj9goh0j) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [Cheerleaders and Jocks](https://open.spotify.com/album/0x1qVcEYZiyq36Ps01Til8) | 3:47 |
 | 7 | [Hard to Love](https://open.spotify.com/track/6QV6miSjUtqppivpjwDZgI) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Hard To Love](https://open.spotify.com/album/0jXxDV0TkGE6f5MezsGFrU) | 2:47 |
 | 8 | [exes](https://open.spotify.com/track/0HD8mbiPjp3o94X3EaZp0o) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [exes](https://open.spotify.com/album/54FpKE2Pug3xbPz26WUVSH) | 2:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 99 | [Don't Let Him Say Goodbye \- Demo](https://open.spotify.com/track/1tTzJnFVZVuGJyFWDXFdE2) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [Don't Let Him Say Goodbye \- Demo](https://open.spotify.com/album/3h8zMEpUS5xqCMloCaTRuc) | 2:41 |
 | 100 | [I'll Be There](https://open.spotify.com/track/0JwXH0xA7o7HUfVfyFh1H6) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [I'll Be There](https://open.spotify.com/album/0fO4oE2tNqegemqaq8byqQ) | 2:46 |
 
-Snapshot ID: `MCw4NGM4YjU2NjVlMmE0NjVlZDJiODk5ODkyYjcxNGNlMzYxM2ZmOGQ3`
+Snapshot ID: `MCwzZmY3OTBhNjA0NThiN2VkZjJhYzc5Y2FiZWJiN2NiZDRmOWJiZDA0`

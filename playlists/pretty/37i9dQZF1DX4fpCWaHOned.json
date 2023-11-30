@@ -1,12 +1,12 @@
 {
   "description": "You're on top of the world. Don't forget it.",
-  "num_followers": 3781140,
+  "num_followers": 3781451,
   "original_name": "Confidence Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODA0YzI5MDRkYzU5NzVmNDFkYTdiYWU3MWRiODhjOGZkMDIwYmQw",
+  "snapshot_id": "MCw4ZGViMWM0NjA5YTFkN2VhMjkwYTVlMTFhNDE2ZmNiNTYxZmY5YTA3",
   "tracks": [
     {
       "added_at": "2023-11-01 00:34:12",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-11-01 00:34:12",
       "album": {
-        "name": "Single Soon",
-        "url": "https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 171655,
-      "name": "Single Soon",
-      "url": "https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3"
-    },
-    {
-      "added_at": "2023-11-01 00:34:12",
-      "album": {
         "name": "emails i can\u2019t send fwd:",
         "url": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 185552,
       "name": "Feather",
       "url": "https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID"
+    },
+    {
+      "added_at": "2023-11-01 00:34:12",
+      "album": {
+        "name": "Single Soon",
+        "url": "https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 171655,
+      "name": "Single Soon",
+      "url": "https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3"
     },
     {
       "added_at": "2023-11-01 00:34:12",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-11-01 00:34:12",
       "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 164801,
-      "name": "Vigilante Shit",
-      "url": "https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O"
-    },
-    {
-      "added_at": "2023-11-01 00:34:12",
-      "album": {
         "name": "Confident",
         "url": "https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 214739,
       "name": "Cool for the Summer",
       "url": "https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz"
+    },
+    {
+      "added_at": "2023-11-01 00:34:12",
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 164801,
+      "name": "Vigilante Shit",
+      "url": "https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O"
     },
     {
       "added_at": "2023-11-01 00:34:12",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-11-01 00:34:12",
       "album": {
-        "name": "AMERICAN HORROR SHOW",
-        "url": "https://open.spotify.com/album/5JyHQrBtMytztLaqG8czrG"
-      },
-      "artists": [
-        {
-          "name": "SNOW WIFE",
-          "url": "https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33"
-        }
-      ],
-      "duration_ms": 149391,
-      "name": "AMERICAN HORROR SHOW",
-      "url": "https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g"
-    },
-    {
-      "added_at": "2023-11-01 00:34:12",
-      "album": {
         "name": "Tell Me You Love Me",
         "url": "https://open.spotify.com/album/5Mu891tmjTbt64meovPSuf"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 203760,
       "name": "Sorry Not Sorry",
       "url": "https://open.spotify.com/track/0yvPEnB032fojLfVluFjUv"
+    },
+    {
+      "added_at": "2023-11-01 00:34:12",
+      "album": {
+        "name": "AMERICAN HORROR SHOW",
+        "url": "https://open.spotify.com/album/5JyHQrBtMytztLaqG8czrG"
+      },
+      "artists": [
+        {
+          "name": "SNOW WIFE",
+          "url": "https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33"
+        }
+      ],
+      "duration_ms": 149391,
+      "name": "AMERICAN HORROR SHOW",
+      "url": "https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g"
     },
     {
       "added_at": "2023-11-01 00:34:12",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-11-01 00:34:12",
       "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 187107,
+      "name": "2 Be Loved (Am I Ready)",
+      "url": "https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT"
+    },
+    {
+      "added_at": "2023-11-01 00:34:12",
+      "album": {
         "name": "Gloria",
         "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 229604,
       "name": "I'm Not Here To Make Friends",
       "url": "https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM"
-    },
-    {
-      "added_at": "2023-11-01 00:34:12",
-      "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 187107,
-      "name": "2 Be Loved (Am I Ready)",
-      "url": "https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT"
     },
     {
       "added_at": "2023-11-01 00:34:12",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-11-01 00:34:12",
       "album": {
-        "name": "HAIZ",
-        "url": "https://open.spotify.com/album/1ABRc0UFHY3x6rKQeFBTQ0"
-      },
-      "artists": [
-        {
-          "name": "Hailee Steinfeld",
-          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
-        }
-      ],
-      "duration_ms": 218773,
-      "name": "Love Myself",
-      "url": "https://open.spotify.com/track/36phXHOKx8rO7CMp2vNX4x"
-    },
-    {
-      "added_at": "2023-11-01 00:34:12",
-      "album": {
         "name": "Na\u00efve",
         "url": "https://open.spotify.com/album/4NkgzNCOzuki4FuWUOY28R"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 196187,
       "name": "Don't Give Up On Me",
       "url": "https://open.spotify.com/track/0fiijtFXDJ9MOVwgSaEQJ5"
+    },
+    {
+      "added_at": "2023-11-01 00:34:12",
+      "album": {
+        "name": "HAIZ",
+        "url": "https://open.spotify.com/album/1ABRc0UFHY3x6rKQeFBTQ0"
+      },
+      "artists": [
+        {
+          "name": "Hailee Steinfeld",
+          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
+        }
+      ],
+      "duration_ms": 218773,
+      "name": "Love Myself",
+      "url": "https://open.spotify.com/track/36phXHOKx8rO7CMp2vNX4x"
     },
     {
       "added_at": "2023-11-01 00:34:12",

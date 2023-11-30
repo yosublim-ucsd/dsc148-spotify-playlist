@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Kali Uchis, KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,850 likes - 119 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,855 likes - 119 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 44 | [Ouragan](https://open.spotify.com/track/4uB57FLLnkytm3Hoc8KRtT) | [Mattyeux](https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Ouragan](https://open.spotify.com/album/3iJHdURPYUgJsWMFZfW4uz) | 2:28 |
 | 45 | [Kaputt](https://open.spotify.com/track/1aQ6rhGG5vnv3SsJSSz7sT) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Kaputt](https://open.spotify.com/album/4pvyXZsPcrZQHVqoGuQGa5) | 1:56 |
 | 46 | [Hold Me Down](https://open.spotify.com/track/7H0IVPy0d5H2KErdVwVFNR) | [Nomuel](https://open.spotify.com/artist/0Hz78L3EHCCOdD4hWEiWMY) | [Hold Me Down](https://open.spotify.com/album/4q93rSRdiG1OZ27JPj4QFr) | 1:55 |
-| 47 | [Still Got It Bad](https://open.spotify.com/track/3sBekLF0BJII3VhcmqzMHg) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio) | [Still Got It bad](https://open.spotify.com/album/6XqCdGxjzalzwAWE3ekh68) | 2:21 |
+| 47 | [Still Got It Bad](https://open.spotify.com/track/3sBekLF0BJII3VhcmqzMHg) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio) | [Still Got It Bad](https://open.spotify.com/album/6XqCdGxjzalzwAWE3ekh68) | 2:21 |
 | 48 | [Punk Rock](https://open.spotify.com/track/2bGzrNHXDPCyyj7bP41CjC) | [Edb](https://open.spotify.com/artist/6HsOYlhc6djdiv6ikVfrGE) | [Punk Rock](https://open.spotify.com/album/1eZJdnDkCORvUa8OaGxi4Z) | 3:08 |
 | 49 | [Abhauen](https://open.spotify.com/track/5QzQJsLlFqpF9Bo6ap9LUe) | [KXXMA](https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx), [Anstandslos & Durchgeknallt](https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO), [JOELINA](https://open.spotify.com/artist/5ED5Q2eSMroI6fSWgpxi7U) | [Abhauen](https://open.spotify.com/album/6Ru34e8FlA3ZylbGEJLEjn) | 2:26 |
-| 50 | [Weihnachtslied 2023](https://open.spotify.com/track/75pat6BKtU00aVVFheGu9k) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Dani](https://open.spotify.com/artist/5lCJ034qFUkrWNFXUTxLVn), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [Weihnachtslied 2023](https://open.spotify.com/album/7mf1UQK6QfUd0UG97rUUwT) | 2:32 |
+| 50 | [Weihnachtslied 2023](https://open.spotify.com/track/75pat6BKtU00aVVFheGu9k) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Dani](https://open.spotify.com/artist/49WxFZy9aXHc45IMLc2xyj), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [Weihnachtslied 2023](https://open.spotify.com/album/7mf1UQK6QfUd0UG97rUUwT) | 2:32 |
 | 51 | [A2B](https://open.spotify.com/track/0tpFnS7urlRsXFnAjYmfpw) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [A2B](https://open.spotify.com/album/6CM5H3hwKPAeGZ1lxOArj6) | 2:10 |
 | 52 | [Paranoid](https://open.spotify.com/track/67woDFm8vsIqFlBxaJvRP0) | [Landro](https://open.spotify.com/artist/62hXoQGR23AcFW6h1dkACK) | [Paranoid](https://open.spotify.com/album/5KJTpTlmPvfufxXkXZb20C) | 2:10 |
 | 53 | [Loca Loca](https://open.spotify.com/track/3JbxNrWdx6Di9I5E62vZzK) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Pelican](https://open.spotify.com/artist/2uzcKKlZZ4eIanI41raEZ8) | [Loca Loca](https://open.spotify.com/album/2ijafytsdehzweHgZKv2mm) | 2:12 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 118 | [therapy](https://open.spotify.com/track/4ndTXhzw5vx2KXZXOHOe8S) | [Gloria Kim](https://open.spotify.com/artist/1DUd25ybTBglvAohsXTmBx) | [therapy](https://open.spotify.com/album/2kbQIS1RXna9AWSxd7XnJF) | 2:16 |
 | 119 | [Weltuntergang](https://open.spotify.com/track/7LMSGi0VCRrjElTXj7DGgJ) | [Jona Straub](https://open.spotify.com/artist/42mdVKdNJDsmQasPjTqVao) | [Weltuntergang](https://open.spotify.com/album/3Kn5I7WfJtMoeK0toJGEDx) | 3:21 |
 
-Snapshot ID: `MCxiYzMzMThmMjlkMTNjMTIwNTViOGIzYTVmMDkwZDg0ODgwMDM5NmQ1`
+Snapshot ID: `MCwzZjYyZWJlODVkYzQzYmM0OTEyMGUxNjk0OWRlNTdkYzk4NmNkZWNk`

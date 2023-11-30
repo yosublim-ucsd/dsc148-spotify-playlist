@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 
 > Vibey indie tracks for just hanging out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 807,156 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 807,265 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 | 18 | [Rose Pink Cadillac](https://open.spotify.com/track/5J59tqY0Ad4r27tJJajzyB) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/2VaOn32haUapQOYnerK32W) | 4:21 |
 | 19 | [White Gloves](https://open.spotify.com/track/4AKUOaCRcoKTFnVI9LtsrN) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You](https://open.spotify.com/album/2OPcQNLP8DQVumD8kBRAH3) | 3:38 |
 | 20 | [Snowbank Blues](https://open.spotify.com/track/3SsGrCb1eaSpGhRDqPaTln) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 3:17 |
-| 21 | [Passion](https://open.spotify.com/track/3yydZof4pq6N4zeyTzLwQk) | [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC), [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [BOY](https://open.spotify.com/album/4ZpCZs3zu8tFnJL0vrQIh1) | 2:12 |
-| 22 | [Roddy](https://open.spotify.com/track/5hS8s1Vf4CeSRBT1bTWa39) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Twenty Twenty](https://open.spotify.com/album/3kxxxUQ9HFVUSg2pDLYoZ0) | 4:12 |
+| 21 | [Roddy](https://open.spotify.com/track/5hS8s1Vf4CeSRBT1bTWa39) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Twenty Twenty](https://open.spotify.com/album/3kxxxUQ9HFVUSg2pDLYoZ0) | 4:12 |
+| 22 | [Passion](https://open.spotify.com/track/3yydZof4pq6N4zeyTzLwQk) | [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC), [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [BOY](https://open.spotify.com/album/4ZpCZs3zu8tFnJL0vrQIh1) | 2:12 |
 | 23 | [Take You Higher](https://open.spotify.com/track/3QtNPpwrajozNB5AORHYzP) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:48 |
 | 24 | [Casita](https://open.spotify.com/track/3HjAGIYYXG7PS7OegQa0xM) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Casita](https://open.spotify.com/album/584aNZB5CF6IXG90Ch28KC) | 3:26 |
 | 25 | [Tailwhip](https://open.spotify.com/track/2DoO0sn4SbUrz7Uay9ACTM) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Tailwhip](https://open.spotify.com/album/7eJd4HvbzBoufq7pnKAIiy) | 3:45 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 | 75 | [My Shadow Life](https://open.spotify.com/track/6HiK9qjs0yuppNUR1LB9Bh) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL), [Oddbody](https://open.spotify.com/artist/3ASxxkRVFetiJFHvxaNdZX) | [LOVE + POP](https://open.spotify.com/album/5God4dounbNrQtR8otCSHD) | 1:37 |
 | 76 | [Rockaway](https://open.spotify.com/track/3Mc1wHPrWcXiLeokUZ3Oab) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Five Easy Hot Dogs](https://open.spotify.com/album/2Ao4brMpPgMyyuh9dPK4oK) | 2:06 |
 | 77 | [Charmed](https://open.spotify.com/track/6F5jUW0lOVlCSvhCH0yl3f) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Charmed](https://open.spotify.com/album/3jfaxyujChdnrEbjYDaYax) | 2:38 |
-| 78 | [Sunday Funday](https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 4:16 |
-| 79 | [PARADISE](https://open.spotify.com/track/6rZjqLz4k7psYLWDgDTw8l) | [NOT THE TWOS](https://open.spotify.com/artist/1CxS0TjLxZZ8QERRRZTxEn) | [PARADISE](https://open.spotify.com/album/5oLudn7CAOILun2yHH48jB) | 2:21 |
+| 78 | [PARADISE](https://open.spotify.com/track/6rZjqLz4k7psYLWDgDTw8l) | [NOT THE TWOS](https://open.spotify.com/artist/1CxS0TjLxZZ8QERRRZTxEn) | [PARADISE](https://open.spotify.com/album/5oLudn7CAOILun2yHH48jB) | 2:21 |
+| 79 | [Sunday Funday](https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 4:16 |
 | 80 | [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/track/0LuB69EEijTVyNHOXHiqhN) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/album/0AmJGPvtL6Kj0MBp7gh8BK) | 2:48 |
 | 81 | [More Than a Love Song](https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [More Than a Love Song](https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX) | 4:47 |
 | 82 | [Warning Sign](https://open.spotify.com/track/3HpfHYxvRacvmEPFR9ovF7) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 3:26 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 | 93 | [Terms & Conditions](https://open.spotify.com/track/7AyjVbkONi9ENQOyorxsIT) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Terms & Conditions](https://open.spotify.com/album/2M2POTrivOaYTX8TGwTE5B) | 4:04 |
 | 94 | [Shadows](https://open.spotify.com/track/7gF4K3K2EqWHkLHh1gE3vO) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Shadows](https://open.spotify.com/album/1zByU7wtJp0Z1dev808ePd) | 2:37 |
 | 95 | [Waiting For The Weekend](https://open.spotify.com/track/0F4yHSdgxU9NC8I8lXEiLB) | [sir Was](https://open.spotify.com/artist/2pRRvc1D9seqK4txoe8laT) | [Let The Morning Come](https://open.spotify.com/album/64BdSNPkLVXReRgCVNe29H) | 3:33 |
-| 96 | [All The Things I Couldn't Say To You](https://open.spotify.com/track/06hH8CY1z9v1xxKsWEIVlf) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK) | [All The Things I Couldn't Say To You](https://open.spotify.com/album/7Ce8T8ok6ayEXddV7uDvAK) | 4:24 |
-| 97 | [Forever Thing](https://open.spotify.com/track/5c3NEMjZKsohIiQCygJiKv) | [Frex](https://open.spotify.com/artist/2sjktXSuCqEU42XUox2oXr) | [Forever Thing](https://open.spotify.com/album/5dmpDT2OwpoR8h3VzUSO0o) | 2:18 |
+| 96 | [Forever Thing](https://open.spotify.com/track/5c3NEMjZKsohIiQCygJiKv) | [Frex](https://open.spotify.com/artist/2sjktXSuCqEU42XUox2oXr) | [Forever Thing](https://open.spotify.com/album/5dmpDT2OwpoR8h3VzUSO0o) | 2:18 |
+| 97 | [All The Things I Couldn't Say To You](https://open.spotify.com/track/06hH8CY1z9v1xxKsWEIVlf) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK) | [All The Things I Couldn't Say To You](https://open.spotify.com/album/7Ce8T8ok6ayEXddV7uDvAK) | 4:24 |
 | 98 | [This Dream](https://open.spotify.com/track/7iQLRgSmPz9q7DpamvFKwc) | [Kowloon](https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE) | [This Dream](https://open.spotify.com/album/5Eyf6s980EoZBTY7Hld3g4) | 2:33 |
 | 99 | [Gimme A Chance](https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Princess Forever](https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR) | 3:31 |
 | 100 | [Borderline Insane](https://open.spotify.com/track/3G48URkjBTbQLTwW8mz1Po) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Borderline Insane](https://open.spotify.com/album/5Qh5HPMvrJfFujCGAV9GDB) | 2:19 |
 
-Snapshot ID: `MCxlMzQwYmYyNzBhNjQ1Yjk3ZmM0MTliNjJkYTdiNjhlNTZhZDUxZDcz`
+Snapshot ID: `MCxjZTkwYjUzMjUxM2FmNzkzZGE3Y2E2YmY5MjBmMjdjM2RkYThmYzg3`

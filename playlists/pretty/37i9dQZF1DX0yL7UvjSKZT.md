@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: Sierra Ferrell
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,898 likes - 166 songs - 10 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,955 likes - 166 songs - 10 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,7 +132,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 122 | [Where the Long Line Leads](https://open.spotify.com/track/2nl7VPKy1XQ2NiUrdI5AeY) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [Celebrants](https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq) | 3:24 |
 | 123 | [Whirlwind](https://open.spotify.com/track/4iyzKBDP4JlMbYvHYwaHOV) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [Volunteer](https://open.spotify.com/album/1hSUUe3NM9HWTSMRWPZK6l) | 4:04 |
 | 124 | [Pride of Man](https://open.spotify.com/track/3e3sDRflULRApZmJZkGiRP) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Hell on Church Street](https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA) | 3:53 |
-| 125 | [Drowning](https://open.spotify.com/track/2mxn3WDopcpvCMEwz4DFFH) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Million Eyes](https://open.spotify.com/album/5jrPhnzA00KBWc3bJJUqTY) | 3:02 |
+| 125 | [Drowning](https://open.spotify.com/track/5dXBit91O3HQg6jonJbqaQ) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Drowning](https://open.spotify.com/album/0sHHqhHLztj8XsZfZAJvnw) | 3:02 |
 | 126 | [Do They Call to You?](https://open.spotify.com/track/56WXU9UwoiSDRrTNy9WLlV) | [Andrew Montana](https://open.spotify.com/artist/05MbxRG8XyYmFhv7ZUMylc) | [Do They Call to You?](https://open.spotify.com/album/186rWk1HzVlUXNwecQSDIZ) | 3:08 |
 | 127 | [Everything Changed](https://open.spotify.com/track/2a69GIAmyBciRjmCquCDPZ) | [Lindsay Lou](https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ) | [Ionia](https://open.spotify.com/album/3e5lY3xDNMVrcoQTPR3Deg) | 4:05 |
 | 128 | [Weevils in the Grits](https://open.spotify.com/track/5npvIsHPd35M5JioSnVJHs) | [Sami Braman](https://open.spotify.com/artist/3ESdsDgxcy5caRV6Ufcwre), [Brittany Haas](https://open.spotify.com/artist/35HI5ILDlg2vduaII47ItP) | [Weevils in the Grits](https://open.spotify.com/album/40Yxmocscw8TzoyID1h45C) | 3:41 |
@@ -175,4 +175,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 165 | [Part of Life](https://open.spotify.com/track/0BAVO0LRCe7CZzodzCFmal) | [Josh Oliver](https://open.spotify.com/artist/1SP0JtRy2Am9t3HTswRbrv) | [Part of Life](https://open.spotify.com/album/5QOtllslGWHQJg4u1T6GyD) | 3:06 |
 | 166 | [Easton](https://open.spotify.com/track/7zAYWInWkAiJ72hgpABu3F) | [Rachel Sumner](https://open.spotify.com/artist/5PYJwfdGBtiT2NuH0Z1CqU) | [Rachel Sumner & Traveling Light](https://open.spotify.com/album/4kZeNt7qRwoO8KTOgQ0QTb) | 5:34 |
 
-Snapshot ID: `MCwwOTgyODhlY2ZkYjE1YTI4N2FmNGQwYjAwZmFmNmRkNmQzMmNmNzcz`
+Snapshot ID: `MCxlZDkyYTRkZDM2MTIwOWYwZGFhZWFmMGJhZDkxMWZjZTJkMDdlMTJh`

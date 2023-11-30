@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eQiqG0uCMB.md) - [plain]
 
 > Chill afro music to study with.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,830 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,863 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eQiqG0uCMB.md) - [plain]
 | 15 | [Hide & Seek](https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hide & Seek](https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe) | 3:28 |
 | 16 | [King](https://open.spotify.com/track/1IARNA3zsu39Kul2ov9n3J) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Laughter, Tears & Goosebumps](https://open.spotify.com/album/4dZjYBEciWomanesAv3fie) | 2:45 |
 | 17 | [AMEN](https://open.spotify.com/track/3GGqmMO9i3fS3kONWUsSxE) | [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D), [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [AMEN](https://open.spotify.com/album/1HNJe2oOOTJFm04zLVaOB5) | 2:08 |
-| 18 | [Fever](https://open.spotify.com/track/3GAu2fSg9deV207noxMKl0) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0), [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Fever](https://open.spotify.com/album/1YDZJz0EVdKuusZojxdTPL) | 3:06 |
-| 19 | [To Last](https://open.spotify.com/track/10aCY2jJFNYGf9qpiN2LZy) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [To Last](https://open.spotify.com/album/00RMnS3psKLla6O7sYp8mB) | 2:56 |
+| 18 | [To Last](https://open.spotify.com/track/10aCY2jJFNYGf9qpiN2LZy) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [To Last](https://open.spotify.com/album/00RMnS3psKLla6O7sYp8mB) | 2:56 |
+| 19 | [Fever](https://open.spotify.com/track/3GAu2fSg9deV207noxMKl0) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0), [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Fever](https://open.spotify.com/album/1YDZJz0EVdKuusZojxdTPL) | 3:06 |
 | 20 | [Nazama \- A COLORS SHOW](https://open.spotify.com/track/2YX0cRQN7xSMpEhyokEUXM) | [Nyokabi Kariuki](https://open.spotify.com/artist/04vacT34stkfP2TFkNvDf2) | [Nazama \- A COLORS SHOW](https://open.spotify.com/album/6fdfkp29lb9ur7tDcVRzqA) | 2:35 |
 | 21 | [Okay](https://open.spotify.com/track/2Iv3GHM3xFKIPbYSnhJAXO) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Afro Pop, Vol\. 1](https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR) | 3:06 |
 | 22 | [Tighter](https://open.spotify.com/track/2WRnCb0v84HQ8ZzGavDrXX) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Tighter](https://open.spotify.com/album/2bVycA3gdEqU51o5rILZUI) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eQiqG0uCMB.md) - [plain]
 | 49 | [Want You](https://open.spotify.com/track/0vyg6EqfMiu45hQzFmi0YF) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Want You](https://open.spotify.com/album/7I2CUrd8gtIBHVXXhFbCuX) | 3:25 |
 | 50 | [Airplane Mode](https://open.spotify.com/track/3wrlAsyyrqVoC9fuDWyziG) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 2:57 |
 
-Snapshot ID: `MCw2N2Y5YzZlOTQxYzk0ZjljMWZjMzI2MDU0MThiOTY5N2ZkOTJkYTAx`
+Snapshot ID: `MCwyZjA4NjExOTc3ZWU3NmYxMGY2ODY2Y2E2YTZjZTIwMDI2OWY3ODFh`

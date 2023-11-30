@@ -1,15 +1,47 @@
 {
   "description": "Listen to the soundtracks of the Castaway Diva. (\ubb34\uc778\ub3c4\uc758 \ub514\ubc14 \uc0ac\uc6b4\ub4dc \ud2b8\ub799\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) You can also listen to songs selected by the cast. (\ucd9c\uc5f0\uc9c4\ub4e4\uc774 \uc9c1\uc811 \uc120\uc815\ud55c \ucd94\ucc9c\uace1\ub4e4\ub3c4 \ub4e4\uc5b4\ubcf4\uc2e4 \uc218 \uc788\uc2b5\ub2c8\ub2e4.)",
-  "num_followers": 4327,
+  "num_followers": 4469,
   "original_name": "\ubb34\uc778\ub3c4\uc758 \ub514\ubc14 (Castaway Diva)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YThmMDMxNTIyM2E4MzdlMzU2Nzk5YWNlNzdiZDFlMTJjNWM3ZmZm",
+  "snapshot_id": "MCxjODQwNDNkNjBhOWM3ZmRmNjgyMjFjZmM4OWRiYzE1Nzk1N2JkYzIw",
   "tracks": [
     {
-      "added_at": "2023-11-21 06:38:06",
+      "added_at": "2023-11-29 06:55:35",
+      "album": {
+        "name": "CASTAWAY DIVA OST SEO MOK HA (PARK EUN BIN) Vol.5",
+        "url": "https://open.spotify.com/album/0u5Sm0ZblxRv5Km3W6fomi"
+      },
+      "artists": [
+        {
+          "name": "Park Eunbin",
+          "url": "https://open.spotify.com/artist/1ANiPe6RWnAKnfwORN5vxP"
+        }
+      ],
+      "duration_ms": 196386,
+      "name": "Until The End",
+      "url": "https://open.spotify.com/track/0LG5FfYTkos8XQituzaGX1"
+    },
+    {
+      "added_at": "2023-11-29 06:55:35",
+      "album": {
+        "name": "CASTAWAY DIVA OST Part.9",
+        "url": "https://open.spotify.com/album/2CMMWmUcim52sqmzOR712T"
+      },
+      "artists": [
+        {
+          "name": "Sandeul",
+          "url": "https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx"
+        }
+      ],
+      "duration_ms": 266626,
+      "name": "You're leaving like the season",
+      "url": "https://open.spotify.com/track/1Pa3xyjrAzYyrkhxDJeLMw"
+    },
+    {
+      "added_at": "2023-11-29 06:55:35",
       "album": {
         "name": "CASTAWAY DIVA OST SEO MOK HA (PARK EUN BIN) Vol.4",
         "url": "https://open.spotify.com/album/4yLlp2CKXFmk4HuFrXtfaA"
@@ -25,7 +57,7 @@
       "url": "https://open.spotify.com/track/0z3nhpdXbtvvBxy1RCKjca"
     },
     {
-      "added_at": "2023-11-21 06:38:06",
+      "added_at": "2023-11-29 06:55:35",
       "album": {
         "name": "CASTAWAY DIVA OST SEO MOK HA (PARK EUN BIN) Vol.3",
         "url": "https://open.spotify.com/album/4nFDAJoOmOAy4m46WmKUAq"
@@ -41,7 +73,7 @@
       "url": "https://open.spotify.com/track/1UjOkWLjzBq7KPuIsaO2jy"
     },
     {
-      "added_at": "2023-11-21 06:38:06",
+      "added_at": "2023-11-29 06:55:35",
       "album": {
         "name": "CASTAWAY DIVA OST SEO MOK HA (PARK EUN BIN) Vol.3",
         "url": "https://open.spotify.com/album/4nFDAJoOmOAy4m46WmKUAq"
@@ -57,7 +89,7 @@
       "url": "https://open.spotify.com/track/6W90XEWaOfZimmRMOODVN8"
     },
     {
-      "added_at": "2023-11-21 06:38:06",
+      "added_at": "2023-11-29 06:55:35",
       "album": {
         "name": "CASTAWAY DIVA OST Part.6",
         "url": "https://open.spotify.com/album/5hL2T779HTraXkK9393LCA"
@@ -73,7 +105,7 @@
       "url": "https://open.spotify.com/track/0vEy6yAnaRKNub6ReRIRhO"
     },
     {
-      "added_at": "2023-11-21 06:38:06",
+      "added_at": "2023-11-29 06:55:35",
       "album": {
         "name": "CASTAWAY DIVA OST Part.5",
         "url": "https://open.spotify.com/album/76PcyLQsYqziDN1tdw0mjt"
@@ -89,7 +121,7 @@
       "url": "https://open.spotify.com/track/63LRh32O1eE0NbN2JsA8Rx"
     },
     {
-      "added_at": "2023-11-21 06:38:06",
+      "added_at": "2023-11-29 06:55:35",
       "album": {
         "name": "CASTAWAY DIVA OST SEO MOK HA (PARK EUN BIN) Vol.2",
         "url": "https://open.spotify.com/album/1T93wAxZlZwzUUTlNpEmq0"
@@ -105,7 +137,7 @@
       "url": "https://open.spotify.com/track/3TyUUpKmsJ6bqtPT4g5dOF"
     },
     {
-      "added_at": "2023-11-21 06:38:06",
+      "added_at": "2023-11-29 06:55:35",
       "album": {
         "name": "CASTAWAY DIVA OST SEO MOK HA (PARK EUN BIN) Vol.2",
         "url": "https://open.spotify.com/album/1T93wAxZlZwzUUTlNpEmq0"
@@ -121,7 +153,7 @@
       "url": "https://open.spotify.com/track/0lwW5qHH7S6XfxYEKScVoe"
     },
     {
-      "added_at": "2023-11-21 06:38:06",
+      "added_at": "2023-11-29 06:55:35",
       "album": {
         "name": "CASTAWAY DIVA OST Part.4",
         "url": "https://open.spotify.com/album/3MN6ZyB8yfxdfDtAHQ2LNF"
@@ -137,7 +169,7 @@
       "url": "https://open.spotify.com/track/37x2x6UQfUcvbM8NVHRngO"
     },
     {
-      "added_at": "2023-11-21 06:38:06",
+      "added_at": "2023-11-29 06:55:35",
       "album": {
         "name": "CASTAWAY DIVA OST Part.3",
         "url": "https://open.spotify.com/album/0QIzWo1Ly5l26INuULPO6Z"
@@ -153,7 +185,7 @@
       "url": "https://open.spotify.com/track/6F3JheiZtQnzGfjbAocreQ"
     },
     {
-      "added_at": "2023-11-21 06:38:06",
+      "added_at": "2023-11-29 06:55:35",
       "album": {
         "name": "CASTAWAY DIVA OST SEO MOK HA (PARK EUN BIN) Vol.1",
         "url": "https://open.spotify.com/album/3IJEj5V5TA7Dbz0LpE7nhJ"
@@ -169,7 +201,7 @@
       "url": "https://open.spotify.com/track/3uZxAOpw6ZjMT36GrxqDoK"
     },
     {
-      "added_at": "2023-11-21 06:38:06",
+      "added_at": "2023-11-29 06:55:35",
       "album": {
         "name": "CASTAWAY DIVA OST Part.2",
         "url": "https://open.spotify.com/album/2BNNCPXXFjTBBbRYfHJ4ix"
@@ -185,7 +217,7 @@
       "url": "https://open.spotify.com/track/7kAs2Dw6ymVkriLrbjtGDD"
     },
     {
-      "added_at": "2023-11-21 06:38:06",
+      "added_at": "2023-11-29 06:55:35",
       "album": {
         "name": "CASTAWAY DIVA OST Part.1",
         "url": "https://open.spotify.com/album/1tWQWkixw1RM7fqRONLMU6"
@@ -201,7 +233,23 @@
       "url": "https://open.spotify.com/track/6a2cutO8pmtSA9atoH041j"
     },
     {
-      "added_at": "2023-11-21 06:38:06",
+      "added_at": "2023-11-29 06:55:35",
+      "album": {
+        "name": "CASTAWAY DIVA OST Part.9",
+        "url": "https://open.spotify.com/album/2CMMWmUcim52sqmzOR712T"
+      },
+      "artists": [
+        {
+          "name": "Sandeul",
+          "url": "https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx"
+        }
+      ],
+      "duration_ms": 266626,
+      "name": "You're leaving like the season (Inst.)",
+      "url": "https://open.spotify.com/track/0Cf9p3XZ9NqOFm30OjzlrD"
+    },
+    {
+      "added_at": "2023-11-29 06:55:35",
       "album": {
         "name": "CASTAWAY DIVA OST Part.6",
         "url": "https://open.spotify.com/album/5hL2T779HTraXkK9393LCA"
@@ -217,7 +265,7 @@
       "url": "https://open.spotify.com/track/1HzNevFrx0No5FdtshcVDB"
     },
     {
-      "added_at": "2023-11-21 06:38:06",
+      "added_at": "2023-11-29 06:55:35",
       "album": {
         "name": "CASTAWAY DIVA OST Part.5",
         "url": "https://open.spotify.com/album/76PcyLQsYqziDN1tdw0mjt"
@@ -233,7 +281,7 @@
       "url": "https://open.spotify.com/track/3BcuKOI95PKAuBLP2EXnAj"
     },
     {
-      "added_at": "2023-11-21 06:38:06",
+      "added_at": "2023-11-29 06:55:35",
       "album": {
         "name": "CASTAWAY DIVA OST Part.3",
         "url": "https://open.spotify.com/album/0QIzWo1Ly5l26INuULPO6Z"
@@ -249,7 +297,7 @@
       "url": "https://open.spotify.com/track/47DASVFyegev3sT21EbV9c"
     },
     {
-      "added_at": "2023-11-21 06:38:06",
+      "added_at": "2023-11-29 06:55:35",
       "album": {
         "name": "CASTAWAY DIVA OST Part.2",
         "url": "https://open.spotify.com/album/2BNNCPXXFjTBBbRYfHJ4ix"
@@ -265,7 +313,7 @@
       "url": "https://open.spotify.com/track/08zV3QMrjLEpCfrvKlk4jn"
     },
     {
-      "added_at": "2023-11-21 06:38:06",
+      "added_at": "2023-11-29 06:55:35",
       "album": {
         "name": "CASTAWAY DIVA OST Part.1",
         "url": "https://open.spotify.com/album/1tWQWkixw1RM7fqRONLMU6"
@@ -281,7 +329,7 @@
       "url": "https://open.spotify.com/track/652CEApT97GNb3Q4EYxe3F"
     },
     {
-      "added_at": "2023-11-21 06:38:06",
+      "added_at": "2023-11-29 06:55:35",
       "album": {
         "name": "CASTAWAY DIVA OST Part.4",
         "url": "https://open.spotify.com/album/3MN6ZyB8yfxdfDtAHQ2LNF"
@@ -297,7 +345,7 @@
       "url": "https://open.spotify.com/track/1LbYPBhiYtJHxBN9Uuz5BV"
     },
     {
-      "added_at": "2023-11-21 06:38:06",
+      "added_at": "2023-11-29 06:55:35",
       "album": {
         "name": "GAME PLAN",
         "url": "https://open.spotify.com/album/7xMXoWstClAzBIo5lOAASu"
@@ -313,7 +361,7 @@
       "url": "https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d"
     },
     {
-      "added_at": "2023-11-21 06:38:06",
+      "added_at": "2023-11-29 06:55:35",
       "album": {
         "name": "Stylish\u2026",
         "url": "https://open.spotify.com/album/2uTwUONoLUhlpM6r324B2b"
@@ -329,7 +377,7 @@
       "url": "https://open.spotify.com/track/2Tfv41qZ0U3ahZiKiDBa4a"
     },
     {
-      "added_at": "2023-11-21 06:38:06",
+      "added_at": "2023-11-29 06:55:35",
       "album": {
         "name": "SUNMI SPECIAL EDITION [Gashina]",
         "url": "https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN"
@@ -345,7 +393,7 @@
       "url": "https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST"
     },
     {
-      "added_at": "2023-11-21 06:38:06",
+      "added_at": "2023-11-29 06:55:35",
       "album": {
         "name": "Gotta Go",
         "url": "https://open.spotify.com/album/3WgHekDElv10Kam9aCMwnx"
@@ -361,7 +409,7 @@
       "url": "https://open.spotify.com/track/1exnDFdC34GyBcaLt9ZJfX"
     },
     {
-      "added_at": "2023-11-21 06:38:06",
+      "added_at": "2023-11-29 06:55:35",
       "album": {
         "name": "NUNA",
         "url": "https://open.spotify.com/album/6XBIkDFhDgc3PQOUEcO2fd"
@@ -377,7 +425,7 @@
       "url": "https://open.spotify.com/track/2cUzIBGMvx2BZ2Q1fzjdl1"
     },
     {
-      "added_at": "2023-11-21 06:38:06",
+      "added_at": "2023-11-29 06:55:35",
       "album": {
         "name": "Invitation",
         "url": "https://open.spotify.com/album/5JgddHGpRW0BxtkIT0LZB4"
@@ -393,7 +441,7 @@
       "url": "https://open.spotify.com/track/0HmNuAoSYVsRRjKiAucFn7"
     },
     {
-      "added_at": "2023-11-21 06:38:06",
+      "added_at": "2023-11-29 06:55:35",
       "album": {
         "name": "The Third Eye",
         "url": "https://open.spotify.com/album/0B3aIlP9B06FS9oF1DIKxq"
@@ -409,7 +457,7 @@
       "url": "https://open.spotify.com/track/6hXay0R9yHoV2FpmrXpepw"
     },
     {
-      "added_at": "2023-11-21 06:38:06",
+      "added_at": "2023-11-29 06:55:35",
       "album": {
         "name": "Lowlife Princess: Noir",
         "url": "https://open.spotify.com/album/2ZYIby6irhfnCE3uQDBCi0"
@@ -425,7 +473,7 @@
       "url": "https://open.spotify.com/track/0ra3bPUOj2YnY4FJHXtgHZ"
     },
     {
-      "added_at": "2023-11-21 06:38:06",
+      "added_at": "2023-11-29 06:55:35",
       "album": {
         "name": "Let's Go To My Star",
         "url": "https://open.spotify.com/album/2DGCxLMvM06pMkTOEsx3x6"
@@ -441,7 +489,7 @@
       "url": "https://open.spotify.com/track/1XrfEfQj3x4XfIM1nxMJJW"
     },
     {
-      "added_at": "2023-11-21 06:38:06",
+      "added_at": "2023-11-29 06:55:35",
       "album": {
         "name": "INVU - The 3rd Album",
         "url": "https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9"
@@ -457,7 +505,7 @@
       "url": "https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV"
     },
     {
-      "added_at": "2023-11-21 06:38:06",
+      "added_at": "2023-11-29 06:55:35",
       "album": {
         "name": "A`wesome",
         "url": "https://open.spotify.com/album/7MxQlxbJRYm9mZr8spbBke"
@@ -473,7 +521,7 @@
       "url": "https://open.spotify.com/track/6Wqmn89a8tItOh3NLEhNTD"
     },
     {
-      "added_at": "2023-11-21 06:38:06",
+      "added_at": "2023-11-29 06:55:35",
       "album": {
         "name": "Dally (feat. GRAY)",
         "url": "https://open.spotify.com/album/29V7CreOSbyquvDJYiEs1Y"
@@ -493,7 +541,7 @@
       "url": "https://open.spotify.com/track/1JD37Pmj6xJj8dlWHgLG9C"
     },
     {
-      "added_at": "2023-11-21 06:38:06",
+      "added_at": "2023-11-29 06:55:35",
       "album": {
         "name": "Coming of age ceremony",
         "url": "https://open.spotify.com/album/05plPnpK2TV7kYxM9S9kIF"
@@ -509,7 +557,7 @@
       "url": "https://open.spotify.com/track/2adWXRegCboef5ZOjW3ffe"
     },
     {
-      "added_at": "2023-11-21 06:38:06",
+      "added_at": "2023-11-29 06:55:35",
       "album": {
         "name": "Type B (1)",
         "url": "https://open.spotify.com/album/017upK3dMmJeQygGsuJyzC"
@@ -525,7 +573,7 @@
       "url": "https://open.spotify.com/track/4Y5IS0sbhbm7Yrc0EFnHuj"
     },
     {
-      "added_at": "2023-11-21 06:38:06",
+      "added_at": "2023-11-29 06:55:35",
       "album": {
         "name": "Lexury",
         "url": "https://open.spotify.com/album/1S0t8xkMJqpO4IfX7Pz6Lj"
@@ -541,7 +589,7 @@
       "url": "https://open.spotify.com/track/2g0ZIGBR0gur3LMOiGBNfD"
     },
     {
-      "added_at": "2023-11-21 06:38:06",
+      "added_at": "2023-11-29 06:55:35",
       "album": {
         "name": "A Sweet Moment",
         "url": "https://open.spotify.com/album/1JQEpesj1YaomwFhSSYsK8"
@@ -557,7 +605,7 @@
       "url": "https://open.spotify.com/track/3SmsqaN5Hr7IFrvnzMQqvG"
     },
     {
-      "added_at": "2023-11-21 06:38:06",
+      "added_at": "2023-11-29 06:55:35",
       "album": {
         "name": "Snappy Diva's Second Album",
         "url": "https://open.spotify.com/album/4XG3swP5XIOrFzs1xd2lqF"
@@ -573,7 +621,7 @@
       "url": "https://open.spotify.com/track/6JrNdcEqbwt50I19SxJr2x"
     },
     {
-      "added_at": "2023-11-21 06:38:06",
+      "added_at": "2023-11-29 06:55:35",
       "album": {
         "name": "Piero laughs at us",
         "url": "https://open.spotify.com/album/7wla8Ntrpvs2VjRj5NB9qj"
@@ -589,7 +637,7 @@
       "url": "https://open.spotify.com/track/0fGbon58TJAGc3wNRkAUKV"
     },
     {
-      "added_at": "2023-11-21 06:38:06",
+      "added_at": "2023-11-29 06:55:35",
       "album": {
         "name": "Rendezvous",
         "url": "https://open.spotify.com/album/7A1EVYsZJWJZsltnLGPkJa"
@@ -605,7 +653,7 @@
       "url": "https://open.spotify.com/track/0jtnTCnfUwTPFxEJLAg9ff"
     },
     {
-      "added_at": "2023-11-21 06:38:06",
+      "added_at": "2023-11-29 06:55:35",
       "album": {
         "name": "Virginalness Bloom",
         "url": "https://open.spotify.com/album/2ir57bADoholy7t2fvKCmY"
@@ -621,7 +669,7 @@
       "url": "https://open.spotify.com/track/3Kb2FrKuXnwUJkjKGcY1kK"
     },
     {
-      "added_at": "2023-11-21 06:38:06",
+      "added_at": "2023-11-29 06:55:35",
       "album": {
         "name": "Dangerously In Love",
         "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
@@ -641,7 +689,7 @@
       "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
     },
     {
-      "added_at": "2023-11-21 06:38:06",
+      "added_at": "2023-11-29 06:55:35",
       "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
@@ -657,7 +705,7 @@
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
     },
     {
-      "added_at": "2023-11-21 06:38:06",
+      "added_at": "2023-11-29 06:55:35",
       "album": {
         "name": "The Fame",
         "url": "https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV"
@@ -673,7 +721,7 @@
       "url": "https://open.spotify.com/track/5R8dQOPq8haW94K7mgERlO"
     },
     {
-      "added_at": "2023-11-21 06:38:06",
+      "added_at": "2023-11-29 06:55:35",
       "album": {
         "name": "thank u, next",
         "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
@@ -689,7 +737,7 @@
       "url": "https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ"
     },
     {
-      "added_at": "2023-11-21 06:38:06",
+      "added_at": "2023-11-29 06:55:35",
       "album": {
         "name": "PRISM",
         "url": "https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk"
@@ -709,7 +757,7 @@
       "url": "https://open.spotify.com/track/4jbmgIyjGoXjY01XxatOx6"
     },
     {
-      "added_at": "2023-11-21 06:38:06",
+      "added_at": "2023-11-29 06:55:35",
       "album": {
         "name": "Rated R",
         "url": "https://open.spotify.com/album/7uGmyYwDFJbSc1xs4hkEs2"
@@ -725,7 +773,7 @@
       "url": "https://open.spotify.com/track/60jzFy6Nn4M0iD1d94oteF"
     },
     {
-      "added_at": "2023-11-21 06:38:06",
+      "added_at": "2023-11-29 06:55:35",
       "album": {
         "name": "21",
         "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
@@ -741,7 +789,7 @@
       "url": "https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV"
     },
     {
-      "added_at": "2023-11-21 06:38:06",
+      "added_at": "2023-11-29 06:55:35",
       "album": {
         "name": "The Bodyguard - Original Soundtrack Album",
         "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
@@ -757,7 +805,7 @@
       "url": "https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm"
     },
     {
-      "added_at": "2023-11-21 06:38:06",
+      "added_at": "2023-11-29 06:55:35",
       "album": {
         "name": "Celebration (double disc version)",
         "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
@@ -773,7 +821,7 @@
       "url": "https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5"
     },
     {
-      "added_at": "2023-11-21 06:38:06",
+      "added_at": "2023-11-29 06:55:35",
       "album": {
         "name": "The Emancipation of Mimi",
         "url": "https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo"

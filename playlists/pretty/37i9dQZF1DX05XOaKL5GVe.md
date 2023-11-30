@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05XOaKL5GVe.md) - [plain]
 
 > Tesoros musicales del ayer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 739,743 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 740,140 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05XOaKL5GVe.md) - [plain]
 | 23 | [Cruz de Navajas](https://open.spotify.com/track/5laT2a6iEq4IxgEDV9dSCr) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Entre el Cielo y el Suelo \(Bonus Tracks Edition\)](https://open.spotify.com/album/1vDYLED9bQwm3FzIdXs5H9) | 5:02 |
 | 24 | [Te Juro Que Te Amo](https://open.spotify.com/track/3slDIEuZJqMRq0P0UI8Ps9) | [Los Terricolas](https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m) | [Llorarás](https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7) | 4:01 |
 | 25 | [Asi Fue](https://open.spotify.com/track/419FFiitGchOUaIMEY7Dqi) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Desde Andalucia](https://open.spotify.com/album/2z0nGeab4W4lk2AjxG3kbw) | 5:25 |
-| 26 | [Todo Se Derrumbó Dentro de Mí](https://open.spotify.com/track/4hWUYwFwJKpu4o49Gon76Z) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Solo Exitos](https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1) | 5:12 |
-| 27 | [Palabras Tristes](https://open.spotify.com/track/57xX3bw17BSVUu5WXGwoNw) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [Solo Baladas](https://open.spotify.com/album/6ThVFZhZjPiHwkeoxjJZjh) | 3:26 |
+| 26 | [Palabras Tristes](https://open.spotify.com/track/57xX3bw17BSVUu5WXGwoNw) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [Solo Baladas](https://open.spotify.com/album/6ThVFZhZjPiHwkeoxjJZjh) | 3:26 |
+| 27 | [Todo Se Derrumbó Dentro de Mí](https://open.spotify.com/track/4hWUYwFwJKpu4o49Gon76Z) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Solo Exitos](https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1) | 5:12 |
 | 28 | [El Privilegio De Amar](https://open.spotify.com/track/3NGG1do9lT815M5REcCzzm) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [El Privilegio De Amar](https://open.spotify.com/album/6Gz4ADhuPTy6CeyL52Ks2f) | 3:56 |
 | 29 | [O Tu O Ninguna](https://open.spotify.com/track/7u5wdRqlAC4qeRp47e7hce) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Amarte Es Un Placer](https://open.spotify.com/album/59hPa94rgOLoOBKHz98i7n) | 3:16 |
 | 30 | [O Quizás Simplemente Le Regale una Rosa](https://open.spotify.com/track/3kCCDi4L4yVw2FklTpEBdv) | [Leonardo Favio](https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq) | [Fuiste Mía un Verano](https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm) | 3:19 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05XOaKL5GVe.md) - [plain]
 | 48 | [Mi gran noche](https://open.spotify.com/track/6Tnnk7MAnZiDx67DJN2hnx) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Digan Lo Que Digan: Banda Sonora Original De La Pe](https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ) | 3:00 |
 | 49 | [Castillos](https://open.spotify.com/track/1Wv08uEqny4IZk45kPH6rx) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN) | [El Sonido Vol\. 2](https://open.spotify.com/album/2FR08dbmd2F3NNSwx92jzO) | 4:21 |
 | 50 | [Mi Amiga, Mi Esposa, Mi Amante](https://open.spotify.com/track/6AgSJsbx0DRnH0jIwDVOGF) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Recordando Monterrey](https://open.spotify.com/album/2n1CryXhnIVXisogTOd9JF) | 3:03 |
-| 51 | [Amor de Estudiante](https://open.spotify.com/track/0nwKAvbDJeBs5dPH8sdeRO) | [Roberto Jordan](https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx) | [RCA 100 Años De Musica](https://open.spotify.com/album/7vMnaKzlmBN2GRVYCMOMqc) | 2:10 |
-| 52 | [Nada de tu amor](https://open.spotify.com/track/3N7oZZG0sPkdBITPI7LwYf) | [Los Solitarios](https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj) | [Antología\. \. \. Los Solitarios](https://open.spotify.com/album/0yui0kzwnX3DgfpKKYIlrg) | 2:53 |
+| 51 | [Nada de tu amor](https://open.spotify.com/track/3N7oZZG0sPkdBITPI7LwYf) | [Los Solitarios](https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj) | [Antología\. \. \. Los Solitarios](https://open.spotify.com/album/0yui0kzwnX3DgfpKKYIlrg) | 2:53 |
+| 52 | [Amor de Estudiante](https://open.spotify.com/track/0nwKAvbDJeBs5dPH8sdeRO) | [Roberto Jordan](https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx) | [RCA 100 Años De Musica](https://open.spotify.com/album/7vMnaKzlmBN2GRVYCMOMqc) | 2:10 |
 | 53 | [Soy Yo](https://open.spotify.com/track/49NsFSiOiBOYDAYfZz4fjl) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [16 Éxitos De Oro](https://open.spotify.com/album/3E6LOBclSiqtnKW3WWJND9) | 3:33 |
 | 54 | [Con Olor a Hierba](https://open.spotify.com/track/30PNkwSPcer18CoQ8uyUct) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Solo Exitos](https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1) | 3:39 |
 | 55 | [Debut Y Despedida](https://open.spotify.com/track/1Ab8M5xfQ0nUTGSldQzAA2) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Serie De Oro](https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d) | 2:54 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05XOaKL5GVe.md) - [plain]
 | 83 | [Rosa..\. Rosa](https://open.spotify.com/track/2xWNLtRPgcQwjTWjhncnJF) | [Sandro](https://open.spotify.com/artist/5srsgtoePlsp0eQIXmta1O) | [Sandro de América](https://open.spotify.com/album/5KWGSBbAvNO1ycytBsPiT9) | 2:33 |
 | 84 | [No Se Ha Dado Cuenta](https://open.spotify.com/track/3lzkOHkG5yH3xj40sY4nVI) | [Roberto Jordan](https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx) | [RCA 100 Años De Musica](https://open.spotify.com/album/7vMnaKzlmBN2GRVYCMOMqc) | 2:38 |
 | 85 | [Por volverte a ver](https://open.spotify.com/track/2FcleEUIUJbhS5Lh6a94Gf) | [Dyango](https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb) | [Bienvenido al Club](https://open.spotify.com/album/4AtWbdrwpxM0vpKc7X55Rv) | 4:01 |
-| 86 | [Rio Rebelde](https://open.spotify.com/track/2PSotAVp5KY6HBEhlRzwvV) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Por Una Mujer](https://open.spotify.com/album/7nsnSpfQp5tpELjZwWmcyg) | 2:52 |
-| 87 | [Barco a Venus](https://open.spotify.com/track/11glwadtd8zwDamSDOX5cJ) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [¿Dónde Está el Pais de las Hadas? \(Bonus Tracks Edition\)](https://open.spotify.com/album/395Ts8cMrWtmDHxrlYcTxz) | 3:21 |
+| 86 | [Barco a Venus](https://open.spotify.com/track/11glwadtd8zwDamSDOX5cJ) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [¿Dónde Está el Pais de las Hadas? \(Bonus Tracks Edition\)](https://open.spotify.com/album/395Ts8cMrWtmDHxrlYcTxz) | 3:21 |
+| 87 | [Rio Rebelde](https://open.spotify.com/track/2PSotAVp5KY6HBEhlRzwvV) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Por Una Mujer](https://open.spotify.com/album/7nsnSpfQp5tpELjZwWmcyg) | 2:52 |
 | 88 | [Triángulo](https://open.spotify.com/track/24VnFu3wCGaUYsR8LyBgIi) | [Los Baby's](https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9) | [Sólo para enamorados](https://open.spotify.com/album/0aKX7SIu3MGX01ST8NANy8) | 3:10 |
 | 89 | [Hipocresía](https://open.spotify.com/track/5Cf4aRX1Kr6Y0DMb18zaqi) | [Los Pasteles Verdes](https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y) | [Éxitos Eternos](https://open.spotify.com/album/3P9Y7c860rgTpYjK8SBMon) | 4:19 |
 | 90 | [De Mi Enamórate](https://open.spotify.com/track/5UXgeLTzAyhgfRJubZRemE) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Original Masters](https://open.spotify.com/album/4CxnKxTQuQKXWrWHAVtaMO) | 3:30 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05XOaKL5GVe.md) - [plain]
 | 95 | [Cien años](https://open.spotify.com/track/1Ag6NwYwfBxZuNixLMT5a8) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Cien años..\. pensando en ti](https://open.spotify.com/album/5K5BgnDkPONrnmL35nHrFc) | 3:32 |
 | 96 | [Acariciame](https://open.spotify.com/track/2Cg1fj6jAMXc3F9sobVfaR) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Las 15 Consagradas](https://open.spotify.com/album/6m5h3OTjm2V0Jo5I2ckwTa) | 4:52 |
 | 97 | [Penas](https://open.spotify.com/track/3xef9cUovCAdblrNkP1CRF) | [Sandro](https://open.spotify.com/artist/5srsgtoePlsp0eQIXmta1O) | [La Magia de Sandro](https://open.spotify.com/album/5AoO2XU5pild42akpbfv9s) | 3:16 |
-| 98 | [Llamarada](https://open.spotify.com/track/0q8Ibx0l0varKmNQnlWTLZ) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Rock, Balada y Sentimiento, Vol\. I](https://open.spotify.com/album/1RlQD9D7ejT2KkSpGxJT9C) | 3:19 |
+| 98 | [Detalles \(Detalhes\)](https://open.spotify.com/track/0WBaLzQeqMKc1CAX80jnS3) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Pra Sempre Em Espanhol \- Vol\. 1](https://open.spotify.com/album/2Xq3ImnZEspHHITZy3DOZH) | 5:07 |
 | 99 | [La Historia de Tommy](https://open.spotify.com/track/1LZZNt7iehSyCtsBvEk4EZ) | [Cesar Costa](https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP) | [Grandes Éxitos Vol.2](https://open.spotify.com/album/73HgDlnXFSEWv7qmKDogeN) | 2:40 |
 | 100 | [Oiga](https://open.spotify.com/track/1vJOhtqk2fjKHi7vVToylw) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Prisma](https://open.spotify.com/artist/1TyHjg9GOQ8b2oFSRAQhf3) | [Disco De Oro: Baladas, Vol\. 1](https://open.spotify.com/album/4BqbJnEBxaFr21syHgr6bc) | 3:29 |
 
-Snapshot ID: `MCwyNzJkMjYyY2E3NDI3YmUwM2IyNzBmMzM3YTBjZDhlYzcxZDMzOGE4`
+Snapshot ID: `MCxjMTU3MzcwMGZjMzM0ZjU2MjQxZjY4YTViMjQ0YzM2MWViZjBlMmE1`

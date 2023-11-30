@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUGhrXBsyMVJ.md) - [plain]
 
 > Unforgettable love songs from the 1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,822 likes - 54 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,948 likes - 54 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUGhrXBsyMVJ.md) - [plain]
 | 44 | [Kiss](https://open.spotify.com/track/1IAMWO6YGFzwagaGtBSuD1) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 3 \(1951\-1952\)](https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu) | 2:25 |
 | 45 | [No Other Love](https://open.spotify.com/track/17XdGYRzYd0bbVTlghPF1Y) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw), [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [The Ultimate](https://open.spotify.com/album/7FAu65eXZrds9zcezKtYhl) | 2:59 |
 | 46 | [Loving You](https://open.spotify.com/track/036VdTP0ggdePwbvbFuT8w) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Loving You](https://open.spotify.com/album/7KZSeiE569txmIxoNBQLS2) | 2:13 |
-| 47 | [Hold My Hand](https://open.spotify.com/track/5DqtlVbnKtI9m2btve7nR9) | [Don Cornell](https://open.spotify.com/artist/2Oe27JVtJqG8OLkgYDGzvS) | [Presenting Don Cornell](https://open.spotify.com/album/3w8PulMSQH97DjIQldA2ja) | 2:49 |
-| 48 | [Why Do I Love You So](https://open.spotify.com/track/6e63bXWJcCMu8tunixbFa9) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Johnny Tillotson's Best](https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb) | 2:07 |
+| 47 | [Why Do I Love You So](https://open.spotify.com/track/6e63bXWJcCMu8tunixbFa9) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Johnny Tillotson's Best](https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb) | 2:07 |
+| 48 | [Hold My Hand](https://open.spotify.com/track/5DqtlVbnKtI9m2btve7nR9) | [Don Cornell](https://open.spotify.com/artist/2Oe27JVtJqG8OLkgYDGzvS) | [Presenting Don Cornell](https://open.spotify.com/album/3w8PulMSQH97DjIQldA2ja) | 2:49 |
 | 49 | [You Are My One Desire](https://open.spotify.com/track/4Ypc4CISFdkHHbOrrKQtrn) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [That'll Be The Day](https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY) | 2:25 |
 | 50 | [True Love](https://open.spotify.com/track/7fFBLMq8tiwawU2vtJwrVb) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Grace Kelly](https://open.spotify.com/artist/0wW7doqiNErx0Rsu0d5Vji) | [Takes Two to Tango \(Duets for Him and Her \- Music for Valentine's Day\)](https://open.spotify.com/album/6Ez1BPJcARYJTDdPlsCE8O) | 3:05 |
 | 51 | [Love Me Forever](https://open.spotify.com/track/3jtuTk2DS22xjOEJbbkTjC) | [Marion Ryan](https://open.spotify.com/artist/3i3CrQSW3chMBUDavwXUQe) | [Presenting Marion Ryan](https://open.spotify.com/album/07J0yWEzGdx2ElM6p4iP9D) | 2:55 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUGhrXBsyMVJ.md) - [plain]
 | 53 | [The Story of My Life \- Remastered](https://open.spotify.com/track/63EGslqVxh4qwvqGMl3vMA) | [michael holliday](https://open.spotify.com/artist/0dl2GgafJKRSnIjhjtxhAW) | [Anthology: The Deluxe Collection \(Remastered\)](https://open.spotify.com/album/6seqT2pCoa0JcgvVvss5z2) | 2:15 |
 | 54 | [All The Way \- 2006 Digital Remaster/24 Bit Mastering](https://open.spotify.com/track/7fanCwOck16J9MPJ3SR39P) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Romance: Songs From The Heart](https://open.spotify.com/album/6gLsNre727RSLK2j0LGmCp) | 2:52 |
 
-Snapshot ID: `MCw2ZTgxYmFmZTU3OTA2MWE0MTJhZjM4YTZlNzkwMDg4ZTAwOGU3OWJm`
+Snapshot ID: `MCxlOGZiNWFkZjgxYmFlZjRhNzFhNmFkYjhiNzE5ZDVlZDA3NTE3MGFj`

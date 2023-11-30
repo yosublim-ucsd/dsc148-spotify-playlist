@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 
 > MP El Juvenil & Lucho SSJ en la casa del Trap Argentino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 619,484 likes - 101 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 619,578 likes - 101 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 | 47 | [Paradise](https://open.spotify.com/track/3p9g6gz2jMqnfUc2GJTryq) | [Nissa](https://open.spotify.com/artist/2bqyNDhVFDuK4wZUrZh6xy), [Phontana](https://open.spotify.com/artist/41BZwHjzWGfT4wsOP3yZOz), [Federico Iván](https://open.spotify.com/artist/5kh1pBADKzJQ5f3J5M2MKh) | [Paradise](https://open.spotify.com/album/0FIgoa0MlSs7uD67y7A7Kf) | 2:03 |
 | 48 | [Sin Seguro](https://open.spotify.com/track/1UdeNGfkn5EpXjyEHJAwO0) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Sin Seguro](https://open.spotify.com/album/6kLqLQ54MsqhTirkuDZfu8) | 2:33 |
 | 49 | [uNO dOS](https://open.spotify.com/track/43tSc5PlZvGJ39Cnrs94AL) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [Antes de Ameri](https://open.spotify.com/album/26nUVuonXEdbJTo9PeBYoR) | 2:45 |
-| 50 | [Y ustedes?](https://open.spotify.com/track/6UdKndtKQUPWeYNkcUbikU) | [Después de la fiesta](https://open.spotify.com/artist/6RGri3BX7P64gUBuf6uU7p), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [Y ustedes?](https://open.spotify.com/album/12Z8itqVuIXECLPRwceAYd) | 2:13 |
+| 50 | [Y ustedes?](https://open.spotify.com/track/6UdKndtKQUPWeYNkcUbikU) | [AFTER](https://open.spotify.com/artist/6RGri3BX7P64gUBuf6uU7p), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [Y ustedes?](https://open.spotify.com/album/12Z8itqVuIXECLPRwceAYd) | 2:13 |
 | 51 | [hARAkiRi](https://open.spotify.com/track/4m0ypZ1c1l0WulMk3fkVA0) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [hARAkiRi](https://open.spotify.com/album/6jJL6sH7cT8f2kDYPI4N5D) | 2:49 |
 | 52 | [SPACE SEX](https://open.spotify.com/track/0gk8KeUZy6MGycu06QgBf1) | [COSMIC KID](https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h) | [SPACE SEX](https://open.spotify.com/album/5LGvRtKKfzkQPbVLy1u80o) | 3:07 |
 | 53 | [WOW](https://open.spotify.com/track/7dnWwiWTF7JSEAXhmeUBpa) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Obie Wanshot](https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV) | [WOW](https://open.spotify.com/album/6vFeKKeRjOrndZ4OT80E7g) | 3:37 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 | 100 | [Tengo 30 \(feat\. Duki, Cazzu, Neo Pistea & Tali Goya\)](https://open.spotify.com/track/0VuRUZhflBYpC3bzQJ0PXu) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Tali Goya](https://open.spotify.com/artist/0LvzywQsf3X6Gt6aGAdlDq) | [Tengo 30 \(feat\. Duki, Cazzu, Neo Pistea & Tali Goya\)](https://open.spotify.com/album/5xt2j4mLyUjnH3bajaaHc3) | 4:29 |
 | 101 | [GASTO](https://open.spotify.com/track/5ULCGfNrYTwyRnHrGzkBDF) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [ABDUCCION](https://open.spotify.com/album/1pVQsEYJ0eBV3Prih46o91) | 2:04 |
 
-Snapshot ID: `MCw3MTVhMjM2ZDlkZWFkMDE4NGFmZWZlMTIxZDNlYTYxODIxMmRkM2U2`
+Snapshot ID: `MCwwMjQ1YzM3YWY0MGE1ODE2MTRlZDc0NzliY2RiYWEyNjk5MGRjYTMy`

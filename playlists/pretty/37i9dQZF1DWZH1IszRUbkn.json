@@ -1,12 +1,12 @@
 {
   "description": "Canta juntos con tus artistas favoritos.",
-  "num_followers": 6764,
+  "num_followers": 6766,
   "original_name": "Cantando con tus Favoritos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzQ4NmE0MTgzMjc5NWFkZWZjMDY1NDhiZTJlMWU1ZWQwNThkZjU2",
+  "snapshot_id": "MCxjNzEwNjAxNDgxNjgyNzBkYTJiYzZjMDZmNzYyMGI0OTMyMGI2YzFj",
   "tracks": [
     {
       "added_at": "2020-04-27 15:43:16",
@@ -707,22 +707,6 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "We Love Disney (Latino)",
-        "url": "https://open.spotify.com/album/2Aoj9UQGgww7hWnziqtFLo"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 250093,
-      "name": "Bajo El Mar",
-      "url": "https://open.spotify.com/track/6woIpjACNI7t5p5ziGfl5t"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
         "name": "Yo Soy Franky (M\u00fasica Original de la Serie)",
         "url": "https://open.spotify.com/album/4b1h8Ne7RKTyIpQ9WfWm8F"
       },
@@ -739,34 +723,18 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "La Casita de Patylu",
-        "url": "https://open.spotify.com/album/3xfTZePmvXmlPTlaUeDHuT"
+        "name": "We Love Disney (Latino)",
+        "url": "https://open.spotify.com/album/2Aoj9UQGgww7hWnziqtFLo"
       },
       "artists": [
         {
-          "name": "Patylu",
-          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
         }
       ],
-      "duration_ms": 234880,
-      "name": "La Bruja de Nueva York",
-      "url": "https://open.spotify.com/track/7atPDraoeT4FjHRDM82VOr"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
-        "name": "Alibombo",
-        "url": "https://open.spotify.com/album/1jDS8IS5toJZ7g25gfqIHG"
-      },
-      "artists": [
-        {
-          "name": "Payasitas Nifu Nifa",
-          "url": "https://open.spotify.com/artist/3p8aW7ByUTuXOA7RI9A10T"
-        }
-      ],
-      "duration_ms": 176557,
-      "name": "Alibombo",
-      "url": "https://open.spotify.com/track/4B2Oac5PIY1aVJ83rCIgce"
+      "duration_ms": 250093,
+      "name": "Bajo El Mar",
+      "url": "https://open.spotify.com/track/6woIpjACNI7t5p5ziGfl5t"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -831,18 +799,50 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Nanas y Canciones para Ni\u00f1os, Vol. 5 (Cantar y Aprender con LittleBabyBum)",
-        "url": "https://open.spotify.com/album/6HfilJnTxnoWW1MA9ZgwiS"
+        "name": "Alibombo",
+        "url": "https://open.spotify.com/album/1jDS8IS5toJZ7g25gfqIHG"
       },
       "artists": [
         {
-          "name": "Little Baby Bum en Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/64eFqyIS1dsTv725lcQ25w"
+          "name": "Payasitas Nifu Nifa",
+          "url": "https://open.spotify.com/artist/3p8aW7ByUTuXOA7RI9A10T"
         }
       ],
-      "duration_ms": 132925,
-      "name": "Tres Gatitos (Sin Pastel)",
-      "url": "https://open.spotify.com/track/1qq8bfHsFQX6rP1Wz9HOOY"
+      "duration_ms": 176557,
+      "name": "Alibombo",
+      "url": "https://open.spotify.com/track/4B2Oac5PIY1aVJ83rCIgce"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "La Casita de Patylu",
+        "url": "https://open.spotify.com/album/3xfTZePmvXmlPTlaUeDHuT"
+      },
+      "artists": [
+        {
+          "name": "Patylu",
+          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
+        }
+      ],
+      "duration_ms": 234880,
+      "name": "La Bruja de Nueva York",
+      "url": "https://open.spotify.com/track/7atPDraoeT4FjHRDM82VOr"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "Rondas y Cl\u00e1sicos Infantiles 2",
+        "url": "https://open.spotify.com/album/6LSxhgKPmhfElYHtZnoTKg"
+      },
+      "artists": [
+        {
+          "name": "El Reino Infantil",
+          "url": "https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Mi Familia",
+      "url": "https://open.spotify.com/track/2bsMa5r165wLPih4iM3uBn"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -879,18 +879,18 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Rondas y Cl\u00e1sicos Infantiles 2",
-        "url": "https://open.spotify.com/album/6LSxhgKPmhfElYHtZnoTKg"
+        "name": "Nanas y Canciones para Ni\u00f1os, Vol. 5 (Cantar y Aprender con LittleBabyBum)",
+        "url": "https://open.spotify.com/album/6HfilJnTxnoWW1MA9ZgwiS"
       },
       "artists": [
         {
-          "name": "El Reino Infantil",
-          "url": "https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH"
+          "name": "Little Baby Bum en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/64eFqyIS1dsTv725lcQ25w"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Mi Familia",
-      "url": "https://open.spotify.com/track/2bsMa5r165wLPih4iM3uBn"
+      "duration_ms": 132925,
+      "name": "Tres Gatitos (Sin Pastel)",
+      "url": "https://open.spotify.com/track/1qq8bfHsFQX6rP1Wz9HOOY"
     },
     {
       "added_at": "2020-04-27 15:43:16",

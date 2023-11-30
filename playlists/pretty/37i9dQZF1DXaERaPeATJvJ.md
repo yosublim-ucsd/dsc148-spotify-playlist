@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 
 > Thank you for the music, Barefood \(2009\-2023\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,462 likes - 110 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,494 likes - 110 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

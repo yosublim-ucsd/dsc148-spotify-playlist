@@ -369,6 +369,24 @@
     },
     {
       "album": {
+        "name": "Reincarnation",
+        "url": "https://open.spotify.com/album/30BWPdioslpPR0mhGt6BlM"
+      },
+      "artists": [
+        {
+          "name": "\u30ed\u30af\u30c7\u30ca\u30b7",
+          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165378,
+      "name": "Reincarnation",
+      "url": "https://open.spotify.com/track/0sqnyvAzus3puMUcE0C0xa"
+    },
+    {
+      "album": {
         "name": "kidnapping / rendez-vous",
         "url": "https://open.spotify.com/album/0TxOw3GSb01frvQeBbP8MP"
       },
@@ -442,6 +460,24 @@
       "duration_ms": 238833,
       "name": "slash",
       "url": "https://open.spotify.com/track/7ecWzYoWecy0fiUu6FKZ3T"
+    },
+    {
+      "album": {
+        "name": "TOKYO JOURNEY",
+        "url": "https://open.spotify.com/album/2f6d38S4UgGAF66V7DTwzs"
+      },
+      "artists": [
+        {
+          "name": "MONONOKE",
+          "url": "https://open.spotify.com/artist/145u2V6RMbtZv0taOhfR6x"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258528,
+      "name": "TOKYO JOURNEY",
+      "url": "https://open.spotify.com/track/3eVvBU4nUV2GoVoF4iHo12"
     },
     {
       "album": {
@@ -648,7 +684,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 339870,
       "name": "\u30af\u30ed\u30ce\u30b9\u30bf\u30b7\u30b9",
       "url": "https://open.spotify.com/track/6Pd73yNBtoVpTRM6xLwOGp"
@@ -684,7 +720,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 227662,
       "name": "\u30b9\u30bf\u30fc\u30de\u30a4\u30f3",
       "url": "https://open.spotify.com/track/0akvgdebTkERlRqNKJZuFy"
@@ -846,10 +882,28 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 165378,
       "name": "\u30ea\u30a4\u30f3\u30ab\u30fc\u30cd\u30fc\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/6mdZ2qRHAcdqTUNqGKJ2rw"
+    },
+    {
+      "album": {
+        "name": "\u4e00\u8f2a\u82b1",
+        "url": "https://open.spotify.com/album/2ozJ1C7HXquEWd8Fv8azgY"
+      },
+      "artists": [
+        {
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224866,
+      "name": "\u4e00\u8f2a\u82b1",
+      "url": "https://open.spotify.com/track/456rgV2smcOpAhhSlQVPK8"
     },
     {
       "album": {

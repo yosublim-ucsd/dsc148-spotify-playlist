@@ -4,7 +4,7 @@
 
 > Lo último y lo mejor de la salsa\. Cover: Mon Laferte
 
-245 songs - 18 hr 26 min
+246 songs - 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Mis Ojos Lloran por Tí](https://open.spotify.com/track/1hvtQqJSaRAWP0PCW3P80Q) | [You Salsa](https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU) | [Mis Ojos Lloran por Tí](https://open.spotify.com/album/1Yfa4XmFw6Y7L7YIKSPG7R) | 4:18 | 2022-01-01 |  |
 | [Muchachita](https://open.spotify.com/track/1bZ3HVLOlIKEe7RPeq3ByD) | [Sabotage](https://open.spotify.com/artist/1KNORYnqVhiI74Daro0xop) | [Salsa Andina](https://open.spotify.com/album/4KoUwHSjUGM9nYM7cNEp9M) | 3:49 | 2022-01-21 | 2022-02-25 |
 | [Nada de Nada](https://open.spotify.com/track/4CX96IInUaO0d6COMz62Qp) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Pa'lla Voy](https://open.spotify.com/album/463Gp4DWFkicvZ3DCfgj0S) | 4:12 | 2022-03-18 | 2023-05-01 |
+| [No Es Amor](https://open.spotify.com/track/126uD4iuwvOVE3ifkZKAZQ) | [Gian Marco](https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g), [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [No Es Amor](https://open.spotify.com/album/3QS22ZODgzWwuJoPboESgN) | 5:19 | 2023-11-24 |  |
 | [No Estás Solo: Canción Para Los Enfermos](https://open.spotify.com/track/4Uu7gj5r0I082cm6QhcKxG) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [No Estás Solo: Canción Para Los Enfermos](https://open.spotify.com/album/3BbpvRzauAdImL7I2hkML7) | 4:05 | 2022-01-01 | 2022-09-10 |
 | [No Estás Solo: Canción Para Los Enfermos](https://open.spotify.com/track/6UvWIRLjwI9b0fEmrxh9vR) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [No Estás Solo: Canción Para Los Enfermos](https://open.spotify.com/album/5MFfheOjs1cTwPNAd2AsPi) | 4:05 | 2022-09-09 | 2023-01-25 |
 | [No Me Lo Creo](https://open.spotify.com/track/4gwHxA0k6vffsqrlQM5KqI) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR), [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [No Me Lo Creo](https://open.spotify.com/album/1uEJjZcUacPru75YliRbJg) | 4:28 | 2022-04-29 |  |
@@ -233,7 +234,7 @@
 | [Valió la Pena \- Salsa Version](https://open.spotify.com/track/4pUmQqaZklcCOB3rFdWc7g) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Sigo Siendo Yo](https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ) | 4:49 | 2022-01-01 | 2022-07-29 |
 | [Vamo' a Ver Si el Gas Pela \(feat\. Miky Woodz & Marvin Santiago\)](https://open.spotify.com/track/6UhC5S3GcFyHNcD2EX0zvi) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay), [Marvin Santiago](https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE) | [Vamo' a Ver Si el Gas Pela \(feat\. Miky Woodz & Marvin Santiago\)](https://open.spotify.com/album/6voTsTj7qktcItEfbyV5fH) | 3:04 | 2022-04-29 | 2022-07-29 |
 | [Veinte Años](https://open.spotify.com/track/2v8yZk1pRloz1Kuj4YRFeP) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Veinte Años](https://open.spotify.com/album/7MsuZloTIyAxsrMNEMIdLq) | 5:27 | 2022-02-18 | 2022-03-12 |
-| [Ven a Medellín](https://open.spotify.com/track/2BoOKq8gU4QNSRkdSLQXYk) | [Grupo Galé](https://open.spotify.com/artist/4152ZUds7gXsqYQexUonDP) | [Afirmando](https://open.spotify.com/album/4YrnCdJtjxxZVMNfCsgHpl) | 5:35 | 2022-05-20 |  |
+| [Ven a Medellín](https://open.spotify.com/track/2BoOKq8gU4QNSRkdSLQXYk) | [Grupo Galé](https://open.spotify.com/artist/4152ZUds7gXsqYQexUonDP) | [Afirmando](https://open.spotify.com/album/4YrnCdJtjxxZVMNfCsgHpl) | 5:35 | 2022-05-20 | 2023-11-30 |
 | [Ven a Medellín](https://open.spotify.com/track/5OYAkymF4NECxYhNIero4j) | [Grupo Galé](https://open.spotify.com/artist/4152ZUds7gXsqYQexUonDP) | [Grandes Hits](https://open.spotify.com/album/43d93eNSEC3jfizdtuOrUE) | 5:36 | 2022-01-21 | 2022-02-13 |
 | [Ven Devórame Otra Vez](https://open.spotify.com/track/2HbmLkHkkI15eES8kpWRuI) | [Lalo Rodriguez](https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U) | [Oro Salsero](https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS) | 5:11 | 2022-01-01 |  |
 | [Ven, Devórame Otra Vez](https://open.spotify.com/track/77K4xv3gZ8LNt1TamTQbPo) | [Charlie Cruz](https://open.spotify.com/artist/3BiAkgxrLIXhB4evNuF2hn) | [Noches Latinas 3](https://open.spotify.com/album/0s0La7WuGMvIygNDPbdjgr) | 4:03 | 2022-05-20 | 2022-09-24 |

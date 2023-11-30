@@ -4,7 +4,7 @@
 
 > La playlist idéale pour prendre la route.
 
-173 songs - 10 hr 18 min
+174 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Don't Speak](https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 4:23 | 2022-12-04 |  |
 | [Don't Wait For Me](https://open.spotify.com/track/0LRIic8CC7KkwJNA1yLgnE) | [Hyphen Hyphen](https://open.spotify.com/artist/5KQuLhckFhcox1K9UCgLuV) | [C'est La vie](https://open.spotify.com/album/2DpWqMGAYZlpIJhNpTZN9u) | 2:58 | 2023-02-14 | 2023-05-23 |
 | [Dusty Men](https://open.spotify.com/track/5ctC6DgXGGZ0SOMou48GkW) | [Saule](https://open.spotify.com/artist/2n2CmLay2NP2Iolah62W34), [Charlie Winston](https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3) | [Géant](https://open.spotify.com/album/4gFtfEd67PRQi5USmVwh45) | 3:25 | 2022-12-04 | 2023-09-19 |
-| [Eté 90](https://open.spotify.com/track/1p9dxTMtG4gZpLp7yzvT54) | [Therapie TAXI](https://open.spotify.com/artist/5MynxBz4ZMqvUzpcxTZl4C) | [Rupture 2 merde](https://open.spotify.com/album/7gKZ1HukHMcMI5PYQNMIWy) | 3:12 | 2023-10-26 |  |
+| [Eté 90](https://open.spotify.com/track/1p9dxTMtG4gZpLp7yzvT54) | [Therapie TAXI](https://open.spotify.com/artist/5MynxBz4ZMqvUzpcxTZl4C) | [Rupture 2 merde](https://open.spotify.com/album/7gKZ1HukHMcMI5PYQNMIWy) | 3:12 | 2023-10-26 | 2023-11-30 |
 | [Every Breath You Take](https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:13 | 2022-12-04 |  |
 | [Everywhere](https://open.spotify.com/track/1u0l8zWpQeMYStFkc2mLD7) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [The Spirit Room](https://open.spotify.com/album/1agL7TUoZXr0Xd4Irievqi) | 3:34 | 2023-11-02 |  |
 | [Eyes Closed](https://open.spotify.com/track/3p7XQpdt8Dr6oMXSvRZ9bg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:14 | 2023-10-26 |  |
@@ -180,6 +180,7 @@
 | [You Know I'm No Good](https://open.spotify.com/track/4zQuwW24dweWcaX0fEJkP2) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 4:16 | 2022-12-04 | 2023-11-17 |
 | [Young Blood](https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 4:06 | 2022-12-04 |  |
 | [Youngblood](https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Youngblood \(Deluxe\)](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) | 3:23 | 2023-11-16 |  |
+| [Your Woman](https://open.spotify.com/track/3UBItNVbFQiVC5hBQlBvnr) | [White Town](https://open.spotify.com/artist/1MPcILKoMCJym9KscdYxuM) | [Women in Technology](https://open.spotify.com/album/6z6qZbY7mDuyzstPSCy5Xq) | 4:19 | 2023-11-16 |  |
 | [Your Woman](https://open.spotify.com/track/4ACxa9buEUnOdYEoPcnMpi) | [White Town](https://open.spotify.com/artist/1MPcILKoMCJym9KscdYxuM) | [Women In Technology](https://open.spotify.com/album/3Xp1KG3G31VGZgV8JpMSX6) | 4:19 | 2022-12-04 | 2023-11-04 |
 
 \*This playlist was first scraped on 2022-12-28. Prior content cannot be recovered.

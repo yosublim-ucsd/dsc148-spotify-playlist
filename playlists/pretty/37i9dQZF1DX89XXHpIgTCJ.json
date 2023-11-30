@@ -1,12 +1,12 @@
 {
   "description": "When Rock meets Rap: covers, collabs, mashups and everything that rhymes.",
-  "num_followers": 297083,
+  "num_followers": 297220,
   "original_name": "Rap 'n' Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOWZiZTYxNzRjNjgzZWU0NjM0YzhmMGIzZTkzNGVkYjk4NTY0OWQx",
+  "snapshot_id": "MCxlOGQxMDIyNGM0ZmNkZDUwNzc3Nzc1YjQ1Y2E1Y2Y4ZGIzZmI4ZDY5",
   "tracks": [
     {
       "added_at": "2023-10-01 21:11:39",
@@ -79,22 +79,6 @@
     {
       "added_at": "2023-10-01 21:11:39",
       "album": {
-        "name": "Ill Communication",
-        "url": "https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8"
-      },
-      "artists": [
-        {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
-        }
-      ],
-      "duration_ms": 178440,
-      "name": "Sabotage",
-      "url": "https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9"
-    },
-    {
-      "added_at": "2023-10-01 21:11:39",
-      "album": {
         "name": "Hollywood's Bleeding",
         "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
       },
@@ -115,6 +99,22 @@
       "duration_ms": 229573,
       "name": "Take What You Want (feat. Ozzy Osbourne & Travis Scott)",
       "url": "https://open.spotify.com/track/7CZyCXKG6d5ALeq41sLzbw"
+    },
+    {
+      "added_at": "2023-10-01 21:11:39",
+      "album": {
+        "name": "Ill Communication",
+        "url": "https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "duration_ms": 178440,
+      "name": "Sabotage",
+      "url": "https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9"
     },
     {
       "added_at": "2023-10-01 21:11:39",
@@ -167,22 +167,6 @@
       "duration_ms": 293653,
       "name": "Epic",
       "url": "https://open.spotify.com/track/4ReyTz0y3TGkX48wO3Llot"
-    },
-    {
-      "added_at": "2023-10-01 21:11:39",
-      "album": {
-        "name": "Licensed To Ill",
-        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
-      },
-      "artists": [
-        {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
-        }
-      ],
-      "duration_ms": 208653,
-      "name": "Fight For Your Right",
-      "url": "https://open.spotify.com/track/5NLuC70kZQv8q34QyQa1DP"
     },
     {
       "added_at": "2023-10-01 21:11:39",
@@ -279,6 +263,22 @@
       "duration_ms": 239863,
       "name": "Werewolf (feat. Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/3ySqZ8yGoh4Emi9HiPCCdP"
+    },
+    {
+      "added_at": "2023-10-01 21:11:39",
+      "album": {
+        "name": "Licensed To Ill",
+        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "duration_ms": 208653,
+      "name": "Fight For Your Right",
+      "url": "https://open.spotify.com/track/5NLuC70kZQv8q34QyQa1DP"
     },
     {
       "added_at": "2023-10-01 21:11:39",
@@ -1007,6 +1007,26 @@
     {
       "added_at": "2023-10-01 21:11:39",
       "album": {
+        "name": "Remember That You Will Die",
+        "url": "https://open.spotify.com/album/3cN3mENkACWuRCDOuQUtfw"
+      },
+      "artists": [
+        {
+          "name": "Polyphia",
+          "url": "https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ"
+        },
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+        }
+      ],
+      "duration_ms": 151318,
+      "name": "Fuck Around and Find Out (feat. $NOT)",
+      "url": "https://open.spotify.com/track/4d0ySS7ajnuH4FFPaf3EQK"
+    },
+    {
+      "added_at": "2023-10-01 21:11:39",
+      "album": {
         "name": "Save Rock And Roll",
         "url": "https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU"
       },
@@ -1039,26 +1059,6 @@
       "duration_ms": 240493,
       "name": "Rock The Bells",
       "url": "https://open.spotify.com/track/4F4neui0edP1ozygvFiCi7"
-    },
-    {
-      "added_at": "2023-10-01 21:11:39",
-      "album": {
-        "name": "Remember That You Will Die",
-        "url": "https://open.spotify.com/album/3cN3mENkACWuRCDOuQUtfw"
-      },
-      "artists": [
-        {
-          "name": "Polyphia",
-          "url": "https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ"
-        },
-        {
-          "name": "$NOT",
-          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
-        }
-      ],
-      "duration_ms": 151318,
-      "name": "Fuck Around and Find Out (feat. $NOT)",
-      "url": "https://open.spotify.com/track/4d0ySS7ajnuH4FFPaf3EQK"
     },
     {
       "added_at": "2023-10-01 21:11:39",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2023-10-01 21:11:39",
       "album": {
+        "name": "Body Count",
+        "url": "https://open.spotify.com/album/2J5Lf1s0Q42e31xjSwVd8J"
+      },
+      "artists": [
+        {
+          "name": "Body Count",
+          "url": "https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i"
+        }
+      ],
+      "duration_ms": 204200,
+      "name": "Body Count's in the House",
+      "url": "https://open.spotify.com/track/0ei5rAVjRCUQATivnVwkLN"
+    },
+    {
+      "added_at": "2023-10-01 21:11:39",
+      "album": {
         "name": "Extinction Level Event: The Final World Front",
         "url": "https://open.spotify.com/album/4zb4gmGzDYtlWMjmc1NZWW"
       },
@@ -1135,38 +1151,22 @@
     {
       "added_at": "2023-10-01 21:11:39",
       "album": {
-        "name": "Body Count",
-        "url": "https://open.spotify.com/album/2J5Lf1s0Q42e31xjSwVd8J"
+        "name": "Judgement Night: Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/1qwrbuNLtDcuj2myhuESlh"
       },
       "artists": [
         {
-          "name": "Body Count",
-          "url": "https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i"
-        }
-      ],
-      "duration_ms": 204200,
-      "name": "Body Count's in the House",
-      "url": "https://open.spotify.com/track/0ei5rAVjRCUQATivnVwkLN"
-    },
-    {
-      "added_at": "2023-10-01 21:11:39",
-      "album": {
-        "name": "Apocalypse 91\u2026 The Enemy Strikes Black",
-        "url": "https://open.spotify.com/album/2UqKqZofb9pdapHk4HzRUo"
-      },
-      "artists": [
-        {
-          "name": "Public Enemy",
-          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+          "name": "Sonic Youth",
+          "url": "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
         },
         {
-          "name": "Anthrax",
-          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
         }
       ],
-      "duration_ms": 227360,
-      "name": "Bring Tha Noize",
-      "url": "https://open.spotify.com/track/0goVj3eJV1oD5yqXzkjqLA"
+      "duration_ms": 229266,
+      "name": "I Love You Mary Jane",
+      "url": "https://open.spotify.com/track/4eObWNJwTvfQe66wIzfHjb"
     },
     {
       "added_at": "2023-10-01 21:11:39",

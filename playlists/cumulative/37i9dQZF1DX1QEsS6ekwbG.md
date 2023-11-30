@@ -4,7 +4,7 @@
 
 > La mejor compañía mientras llueve.
 
-118 songs - 7 hr 46 min
+119 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Luz De Dia](https://open.spotify.com/track/6TqXieeBcZZHyaO14hQpKx) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Nectar](https://open.spotify.com/album/6g9Bcwy0fBb5kgnfQQrvV0) | 4:28 | 2022-07-06 |  |
 | [Manto Estelar](https://open.spotify.com/track/1WdjZ4QEHvz3AJJpHZ6TaB) | [Mœnia](https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV) | [Grandes Exitos](https://open.spotify.com/album/1f34JO0Wtr9YFa4uXM27Vy) | 4:12 | 2021-11-12 | 2022-07-29 |
 | [Me cuesta tanto olvidarte](https://open.spotify.com/track/1w2Nnj1HEUgoOglVRWfZj8) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Entre el Cielo y el Suelo \(Bonus Tracks Edition\)](https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy) | 2:54 | 2021-11-12 | 2023-11-04 |
+| [Me Cuesta Tanto Olvidarte](https://open.spotify.com/track/5xsY1Bm1FItKFFoJ3b964t) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Entre el Cielo y el Suelo \(Bonus Tracks Edition\)](https://open.spotify.com/album/1vDYLED9bQwm3FzIdXs5H9) | 2:54 | 2023-11-10 |  |
 | [Me Dediqué a Perderte](https://open.spotify.com/track/4NUt1fcnO9aQAELBgXq3Kr) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [A Corazón Abierto](https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA) | 3:51 | 2021-11-12 |  |
 | [Me Voy](https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:07 | 2021-11-12 |  |
 | [Me Voy](https://open.spotify.com/track/5ZeHfdSULRdlFUw4qErPlJ) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Realmente Lo Mejor](https://open.spotify.com/album/15nyu7FeiBqN11o9flo5cZ) | 3:08 | 2021-11-12 | 2022-07-15 |
@@ -113,7 +114,7 @@
 | [Te Lo Pido por Favor](https://open.spotify.com/track/6iRkrVOhCjgKFB2cBWnx4M) | [Jaguares](https://open.spotify.com/artist/1RgXxY6uzWo9cjYYwwgVGq) | [El Primer Instinto](https://open.spotify.com/album/7BDdocfgBjmh5bw2VKA6JL) | 3:26 | 2021-11-12 |  |
 | [Te quiero](https://open.spotify.com/track/6tu2FHuKL9C8pwNrityweQ) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Las baladas \(Los singles vol II\)](https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN) | 3:45 | 2022-07-06 |  |
 | [Tiburones](https://open.spotify.com/track/1zIshc2P9l5AZsOpJWmdTM) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Tiburones](https://open.spotify.com/album/5MeIHVfD8WaFm2NlkNPsCW) | 3:13 | 2021-11-12 | 2022-07-28 |
-| [Tu Recuerdo \(feat\. La Mari De Chambao & Tommy Torres\) \- MTV Unplugged Version](https://open.spotify.com/track/61hJK3EfAd1LDk7x5OrCTc) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Lamari](https://open.spotify.com/artist/1Rv4Ogfu7pg6QMo09XWtWK), [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [Ricky Martin MTV Unplugged](https://open.spotify.com/album/7qhZvYXFgsaSzuukZw9WCM) | 4:07 | 2021-11-12 |  |
+| [Tu Recuerdo \(feat\. La Mari De Chambao & Tommy Torres\) \- MTV Unplugged Version](https://open.spotify.com/track/61hJK3EfAd1LDk7x5OrCTc) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Lamari](https://open.spotify.com/artist/1Rv4Ogfu7pg6QMo09XWtWK), [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [Ricky Martin MTV Unplugged](https://open.spotify.com/album/7qhZvYXFgsaSzuukZw9WCM) | 4:07 | 2021-11-12 | 2023-11-30 |
 | [Tu Recuerdo Divino \(feat\. Los Ángeles Azules\) \- Versión Bodas](https://open.spotify.com/track/6jGgYKzoKFZxV2whojKcKz) | [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Romántico Desliz](https://open.spotify.com/album/6UlH9VLq1S6TJtY0xojINt) | 4:09 | 2021-11-12 | 2022-07-27 |
 | [Tu Sin Mi](https://open.spotify.com/track/0gWa0Y7I6Y78QWjuudv58R) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Vivi En Do](https://open.spotify.com/album/3cNjZlb1MFudbcirJsn4f2) | 4:05 | 2021-11-12 | 2022-07-28 |
 | [Tu Sin Mi](https://open.spotify.com/track/2cIDetbjLPkhYf4r7z86WH) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Vivi En Do](https://open.spotify.com/album/1nqhr6N5KbIaUbsTXq5WCa) | 4:05 | 2022-07-06 |  |

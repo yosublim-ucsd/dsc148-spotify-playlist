@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX12KGbWhMort.md) - [plain]
 
 > Dale play, y que el amor no pare.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,416 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,464 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX12KGbWhMort.md) - [plain]
 | 32 | [Vuelve](https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Vuelve](https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL) | 5:07 |
 | 33 | [Oye](https://open.spotify.com/track/6Jsfaw9b0hopNZ1SVHEXmW) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [TINI TINI TINI](https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI) | 2:53 |
 | 34 | [Algo Contigo](https://open.spotify.com/track/4zsDA31stWMtLveU61hejd) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Vicentico](https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo) | 3:38 |
-| 35 | [Carita de Inocente \(feat\. Myke Towers\) \- Remix](https://open.spotify.com/track/5kQre7o8ky5DXeEPcyaCR1) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Carita de Inocente \(feat\. Myke Towers\) \[Remix\]](https://open.spotify.com/album/54m2Pe3Khdiarwv2PCS8DY) | 3:12 |
+| 35 | [Sin miedo a nada \(feat\. Amaia Montero\)](https://open.spotify.com/track/02bKaAG61tMw9c63fzKXal) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X), [Amaia Montero](https://open.spotify.com/artist/4LbuSjHhhAddvN44qXpRJo) | [¿Qué pides tú? \(Argentina\)](https://open.spotify.com/album/7cJiLvzLDaEhi2K4pfPYjl) | 5:10 |
 | 36 | [Y Tú Te Vas](https://open.spotify.com/track/34hM4PLlhyBysgL50IWdHf) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN) | 4:45 |
-| 37 | [Sin miedo a nada \(feat\. Amaia Montero\)](https://open.spotify.com/track/02bKaAG61tMw9c63fzKXal) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X), [Amaia Montero](https://open.spotify.com/artist/4LbuSjHhhAddvN44qXpRJo) | [¿Qué pides tú? \(Argentina\)](https://open.spotify.com/album/7cJiLvzLDaEhi2K4pfPYjl) | 5:10 |
+| 37 | [Carita de Inocente \(feat\. Myke Towers\) \- Remix](https://open.spotify.com/track/5kQre7o8ky5DXeEPcyaCR1) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Carita de Inocente \(feat\. Myke Towers\) \[Remix\]](https://open.spotify.com/album/54m2Pe3Khdiarwv2PCS8DY) | 3:12 |
 | 38 | [Rosas](https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [París](https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8) | 3:57 |
 | 39 | [Otra Como Tu](https://open.spotify.com/track/2cSXotAohYx0EWCNljCzs7) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Todo Historias](https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4) | 4:41 |
 | 40 | [Te Amo](https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Franco De Vita En Primera Fila](https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX) | 3:38 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX12KGbWhMort.md) - [plain]
 | 79 | [La Difícil](https://open.spotify.com/track/0PaNKfwdqHjmW7hVEQ0lbu) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [La Difícil](https://open.spotify.com/album/6Pc3YAtxdkZba2tpmeXAXW) | 2:38 |
 | 80 | [Bailar Pegados \- En Concierto](https://open.spotify.com/track/4Z7hD7n1hmjbqAmitLFY5V) | [Sergio Dalma](https://open.spotify.com/artist/7x6XYw3yCC67Pizi4o0wvZ) | [Sergio Dalma En Concierto](https://open.spotify.com/album/0luSmXE3F4tZWmomnjLF0r) | 4:34 |
 | 81 | [No Se Si Es Amor \(It Must Have Been Love\)](https://open.spotify.com/track/1kAJFyicakML1Bjd3Tqt1B) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Baladas En Español](https://open.spotify.com/album/7iKhBP0N1KgoQsoCr3YvI2) | 4:42 |
-| 82 | [Voy A Olvidarme De Mi](https://open.spotify.com/track/2s66rxdujHHVhNNnJfgL2D) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [El Rock De Mi Pueblo](https://open.spotify.com/album/605XadNlpraxshOvMt9UXl) | 3:34 |
-| 83 | [Me Haces Falta](https://open.spotify.com/track/7wCqmkAjudO0oKRASmv8Wg) | [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8) | [A Un Milímetro De Ti](https://open.spotify.com/album/7aAYfzJAOZaETczNmMcoMY) | 3:28 |
+| 82 | [Me Haces Falta](https://open.spotify.com/track/7wCqmkAjudO0oKRASmv8Wg) | [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8) | [A Un Milímetro De Ti](https://open.spotify.com/album/7aAYfzJAOZaETczNmMcoMY) | 3:28 |
+| 83 | [Voy A Olvidarme De Mi](https://open.spotify.com/track/2s66rxdujHHVhNNnJfgL2D) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [El Rock De Mi Pueblo](https://open.spotify.com/album/605XadNlpraxshOvMt9UXl) | 3:34 |
 | 84 | [Seré](https://open.spotify.com/track/50M1kLXHo81fX9puNdB5ER) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Tu Mano](https://open.spotify.com/album/0ofPx6C6bKrF23aZbDwbLR) | 4:09 |
 | 85 | [De Enero a Enero](https://open.spotify.com/track/1UQw9rjhed1P8vNxNWJ0tR) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Sabroso](https://open.spotify.com/album/7Bw4f5B4VlYURukRFjBov0) | 3:10 |
 | 86 | [Con La Miel En Los Labios](https://open.spotify.com/track/5VOPzPBHcubxHK1BEru2G5) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Con La Miel En Los Labios](https://open.spotify.com/album/4pIf4sqEVKaTjXUgLsG6aD) | 3:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX12KGbWhMort.md) - [plain]
 | 99 | [Aunque no te pueda ver](https://open.spotify.com/track/6UTRKQhyERZY5Jduii5Jmv) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X) | [Fantasía o realidad \(american edition\)](https://open.spotify.com/album/2NVUSpunMuwYEFaqJsTRd1) | 4:25 |
 | 100 | [Dame La Llave De Tu Corazón](https://open.spotify.com/track/2d7SjuRbbQVddAWuhivrvT) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Dame La Llave De Tu Corazón](https://open.spotify.com/album/1V5VHepWfoiD7mRXCnEK4O) | 3:18 |
 
-Snapshot ID: `MCxlMzhlYmEzOWNjMGI4NmFmODkwYzQ1NzE0NjAxMWZhNzc5ZTkxMDE0`
+Snapshot ID: `MCw0YjFkOTNjM2M0MDE1NDVhNzNkYThiNDkzZWFkN2E3ZjhjZDZkNGZm`

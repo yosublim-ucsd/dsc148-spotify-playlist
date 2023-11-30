@@ -3517,6 +3517,24 @@
     },
     {
       "album": {
+        "name": "You're Losing Me (From The Vault)",
+        "url": "https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277831,
+      "name": "You\u2019re Losing Me (From The Vault)",
+      "url": "https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4"
+    },
+    {
+      "album": {
         "name": "evermore",
         "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
       },

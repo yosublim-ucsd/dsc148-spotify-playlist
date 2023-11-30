@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 
 > music from the underworld
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,074 likes - 80 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,309 likes - 80 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,18 +46,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 | 36 | [KNOW WHAT YOU WANT](https://open.spotify.com/track/6fSaAUqapniPZmOBiFPCaG) | [removeface](https://open.spotify.com/artist/4V83nubSLv0NZBo69fz8PF), [kyszenn](https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY) | [KNOW WHAT YOU WANT](https://open.spotify.com/album/6opVAqg6oX15LDGKoa4Yh4) | 2:22 |
 | 37 | [BABY I'M HOME \(w/ Kanii & 9lives\)](https://open.spotify.com/track/34lGv6KdMFWZtsvvVcnp8S) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [BABY I'M HOME \(w/ Kanii & 9lives\)](https://open.spotify.com/album/4O7irFDDsdS9tYUaiVnO2H) | 3:28 |
 | 38 | [CRYSTALS](https://open.spotify.com/track/2iD5hLjSCYFZROnyW0VfFo) | [PR1SVX](https://open.spotify.com/artist/12NSBgMVPKhwB8tDMsoYpP) | [CRYSTALS \(Remixes\)](https://open.spotify.com/album/6Mm3ztOCaGqwRudNjtPyv5) | 1:08 |
-| 39 | [crystallize](https://open.spotify.com/track/6U7O0WPOWTQFh58pB9ZNTI) | [kyszenn](https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY) | [crystallize](https://open.spotify.com/album/283UywJaDCdRfr9pjnUTEQ) | 2:01 |
+| 39 | [crystallize](https://open.spotify.com/track/1PvmpEdGf0OnE5eINVbrCJ) | [kyszenn](https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY) | [crystallize](https://open.spotify.com/album/5C2g9Zo2Zr1tPpmaPkCD23) | 2:01 |
 | 40 | [2BIPOLAR](https://open.spotify.com/track/0LKrP0sD4PK0Y46kKWOTk6) | [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh), [cW](https://open.spotify.com/artist/2RWEvEloRDEO2tiOL6JEjh) | [2BIPOLAR](https://open.spotify.com/album/65jfpqh8Nf8qeHT77KXLIe) | 1:47 |
 | 41 | [ESSENCE](https://open.spotify.com/track/0rsENxgWZFX7hsRDXXlLcp) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp), [Marluxiam](https://open.spotify.com/artist/5QmW7zYwGfW9YZWBVKeqBU) | [ESSENCE](https://open.spotify.com/album/1DduJ6kIDWQP2mtN4xiWzs) | 2:27 |
 | 42 | [UDNTHAVE2KNOW](https://open.spotify.com/track/1O8FFruddXtdS97wBbsbqK) | [Marluxiam](https://open.spotify.com/artist/5QmW7zYwGfW9YZWBVKeqBU) | [UDNTHAVE2KNOW](https://open.spotify.com/album/2VUWjYLGWXE6cWsqY4tkXj) | 2:54 |
 | 43 | [GOOD LOYAL THOTS](https://open.spotify.com/track/06tNJ27nVxbDwhiQMChWyr) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [GOOD LOYAL THOTS](https://open.spotify.com/album/0uj4fkv8FHhc7sZyxMnAAw) | 1:42 |
 | 44 | [sharp fangs](https://open.spotify.com/track/5FvE6L92NLw7qQcmtl6dPB) | [whatsaheart](https://open.spotify.com/artist/1Ry6DudE0QFcXoUdXsCQfV), [removeface](https://open.spotify.com/artist/4V83nubSLv0NZBo69fz8PF) | [sharp fangs](https://open.spotify.com/album/2LHH01c9fE0F4ZdJxlY1qa) | 2:15 |
 | 45 | [help\_urself](https://open.spotify.com/track/6bxKECVRnkLmtpeU22Ve9p) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q) | [Ezekiel Singles ’18\-‘20](https://open.spotify.com/album/2myOeDsuEGTSUhmkRQMH0v) | 2:19 |
-| 46 | [onyx palace](https://open.spotify.com/track/3tsbNogFr6tPtxR2zlvlnO) | [kyszenn](https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY) | [onyx palace](https://open.spotify.com/album/5EgsZbmgKX9wxsK4OAShSG) | 2:13 |
+| 46 | [onyx palace](https://open.spotify.com/track/0n4EP6LzMY6iUBqturCofi) | [kyszenn](https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY) | [onyx palace](https://open.spotify.com/album/74rKGi9bIqDImCGyg9I7Ql) | 2:13 |
 | 47 | [change](https://open.spotify.com/track/55IuUrRQ51CkcOHEjssAeC) | [Sephe](https://open.spotify.com/artist/6xBfkx9eLqhTWN8Czcpj3G) | [change](https://open.spotify.com/album/3hfLhZ8aZDeFxqPPzHPMGS) | 1:33 |
 | 48 | [Won't Last Long](https://open.spotify.com/track/5yeNAyTWcAXGlRUinVjmjQ) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [Pröz](https://open.spotify.com/artist/2Iu7bGRaGHmvTuVWp8wMzX) | [Myspace Addiction](https://open.spotify.com/album/2Q2ZtKYsGAtTdnqSPWaA1S) | 2:35 |
 | 49 | [GREEN GOBLIN \- Spotify Singles](https://open.spotify.com/track/1OiiHxQFLMftJpw5C8Vrar) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [Spotify Singles](https://open.spotify.com/album/1fCKaE5RLL5N26iReqbVPp) | 2:09 |
-| 50 | [corpse](https://open.spotify.com/track/12Tkvx9SClYpEQKrCtqEfY) | [kyszenn](https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY) | [corpse](https://open.spotify.com/album/40pduhZqgVOZnvUT7WWRxh) | 1:52 |
+| 50 | [corpse](https://open.spotify.com/track/0V6nYXxQCghLMQYtxLu5al) | [kyszenn](https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY) | [corpse](https://open.spotify.com/album/6vpoUI1PgvmE4zDIiUfg8L) | 1:52 |
 | 51 | [U](https://open.spotify.com/track/2ipus3rmwO1i0VBPT7vQvr) | [axxturel](https://open.spotify.com/artist/5I7ErPVeubiYhds5DFcbfM) | [U](https://open.spotify.com/album/7MtII3Ot1Mc1eJulm4t5Qm) | 2:02 |
 | 52 | [XTAYALIVE](https://open.spotify.com/track/1JjiTsqfpfMoukoIW9cM5O) | [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [XTAYALIVE](https://open.spotify.com/album/48QWy8mreJlAa6XdruLXtl) | 2:06 |
 | 53 | [rock that body shawty](https://open.spotify.com/track/4jJRFxeC9ubCvs9F3phcJL) | [d3r](https://open.spotify.com/artist/41PE0deubI6MpwYruSEWHG), [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [blood pup](https://open.spotify.com/artist/6vcxEEdH5HuxnMMksl6EMR) | [rock that body shawty](https://open.spotify.com/album/376Gm1ANMn5oFVF6ZYs5Nz) | 1:54 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 | 79 | [So Fast](https://open.spotify.com/track/2JhhwzWuNYa8JtXduJE3Aj) | [Luci4](https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6), [Linxo](https://open.spotify.com/artist/6LYNuLh5TZQAYxuhsK8lcX) | [So Fast](https://open.spotify.com/album/5G8vICzPb4gk5KzS8N7ci4) | 1:28 |
 | 80 | [Cycle mix \(crea x creon\)](https://open.spotify.com/track/0Be7vipfSZvIaV8fuF68yc) | [Nuvfr](https://open.spotify.com/artist/2fWukyNksCO4foi0KYnRJy) | [Cycle mix \(crea x creon\)](https://open.spotify.com/album/5SdCyzEI6C6oCazIClXQTo) | 3:39 |
 
-Snapshot ID: `MCwwNmYyMzM4YTQzYmQ3ZGQ5ZWZiOGUxNGY3MWNhODkxYmRlODJjMzlm`
+Snapshot ID: `MCxhNGZhNTU3NDVkN2NjM2IxNzliNTQ1NDE2MDI1MmZmOGRmYjZjM2Zi`

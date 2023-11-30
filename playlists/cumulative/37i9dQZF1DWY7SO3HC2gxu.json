@@ -77,7 +77,7 @@
       "artists": [
         {
           "name": "Jupiter Sky",
-          "url": "https://open.spotify.com/artist/0Q6xrLYqCIOLqnBSGCnaIe"
+          "url": "https://open.spotify.com/artist/3IrrIr36E38ozdtqZUlGLX"
         }
       ],
       "date_added": "2022-08-01",
@@ -2624,10 +2624,44 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-30",
       "duration_ms": 372625,
       "name": "We Belong - Breeze and The Sun & Neil Amarey Remix",
       "url": "https://open.spotify.com/track/0AZY6dQC8KDdTHReXHzeEm"
+    },
+    {
+      "album": {
+        "name": "We Belong (Breeze and The Sun & Neil Amarey Remix)",
+        "url": "https://open.spotify.com/album/5zUVVukk44LonjiLe5GBtv"
+      },
+      "artists": [
+        {
+          "name": "Shredder SA",
+          "url": "https://open.spotify.com/artist/6hBPDqbndpJwIQjTXJRd7h"
+        },
+        {
+          "name": "ADJUMA",
+          "url": "https://open.spotify.com/artist/5BDQAVSa4c1UsvXlmufpio"
+        },
+        {
+          "name": "Lyrical Ivy",
+          "url": "https://open.spotify.com/artist/00gOWMo5dBzdqNDD4Far5L"
+        },
+        {
+          "name": "Neil Amarey",
+          "url": "https://open.spotify.com/artist/5zQ05706IGQbarXquNWAuQ"
+        },
+        {
+          "name": "Breeze and The Sun",
+          "url": "https://open.spotify.com/artist/6cc71VVfi25FC7OzhblV6q"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372625,
+      "name": "We Belong - Breeze and The Sun & Neil Amarey Remix",
+      "url": "https://open.spotify.com/track/1Wusyq8vwzJMaaKhN82c2z"
     },
     {
       "album": {

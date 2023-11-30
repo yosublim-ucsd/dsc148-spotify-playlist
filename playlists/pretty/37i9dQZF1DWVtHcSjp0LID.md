@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 
 > Deep beats to study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,025 likes - 50 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,093 likes - 50 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 14 | [Trinity \- Amelie Lens Remix](https://open.spotify.com/track/14K7vrt1x7axRIXvHP0e2r) | [TRYM](https://open.spotify.com/artist/5Nd385K2g3s0828W8Ab70z), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Trinity](https://open.spotify.com/album/1EqeS2WcAaUwzVGsDGiJBN) | 7:23 |
 | 15 | [Blurred \- Bonobo Remix](https://open.spotify.com/track/4uayzCHBoZ1cpTSpMmdMXB) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Blurred](https://open.spotify.com/album/6buz46xNMKBZ5xItTu5rDK) | 6:01 |
 | 16 | [Poly](https://open.spotify.com/track/70GeFg0Hy8uvIoujccyWgz) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Joli Mai](https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj) | 2:18 |
-| 17 | [Gosh](https://open.spotify.com/track/4mlZurguzNJior9siewA8C) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:51 |
-| 18 | [Ghostly](https://open.spotify.com/track/0nKe1H75sjT2lQMH1gjR3e) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Syvsover](https://open.spotify.com/album/3Se55Em2mSqYwuQLqS7XDb) | 6:00 |
+| 17 | [Ghostly](https://open.spotify.com/track/0nKe1H75sjT2lQMH1gjR3e) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Syvsover](https://open.spotify.com/album/3Se55Em2mSqYwuQLqS7XDb) | 6:00 |
+| 18 | [Gosh](https://open.spotify.com/track/4mlZurguzNJior9siewA8C) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:51 |
 | 19 | [Rain](https://open.spotify.com/track/6sFGBvo8qD2SVNPIuS0xSn) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [11am](https://open.spotify.com/album/6O7SMt9EaEj5ReO3qmvpU7) | 3:42 |
 | 20 | [Epoch](https://open.spotify.com/track/2NUiXYNB58RqRvETWEjJp7) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Epoch \(Deluxe Version\)](https://open.spotify.com/album/1aiREFtQHpZTglHRw9r1xg) | 5:45 |
 | 21 | [Ayaya](https://open.spotify.com/track/25L371GlKBBBnIJhtlYRVI) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Bicep](https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo) | 3:36 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 26 | [Perfect in a Way \- Ben Böhmer Remix](https://open.spotify.com/track/0G57FO3IP8Q6TTLiAMRLuc) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [Kaktus Einarsson](https://open.spotify.com/artist/6JNguRWD1fs6lOR6IXQlp3), [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Perfect in a Way \(Remixes\)](https://open.spotify.com/album/17doTJCIOkuz5LzMRioJvA) | 6:23 |
 | 27 | [Dubmission \- Original](https://open.spotify.com/track/23AKDhAiWJSyLOdn5AB9Gs) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Dubmission \(Original Edit\)](https://open.spotify.com/album/3gMvOnZHnahNKmw1k5MqJ4) | 6:35 |
 | 28 | [Zeit für Sommer](https://open.spotify.com/track/7jJUfG00mR9VtBeRdtU9H2) | [Herr Lang](https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5) | [Davon](https://open.spotify.com/album/2c0kuubSze3tSfrhDB1kbR) | 6:01 |
-| 29 | [Pay Phone](https://open.spotify.com/track/6udA6tzAZ2bolSfaSibQEV) | [Fantom '87](https://open.spotify.com/artist/2T4w33dLBJyXVZugL5ZrwU) | [Discovery](https://open.spotify.com/album/0Hnl1IyMwvwT3ieAqR1fSa) | 5:53 |
-| 30 | [Pacer](https://open.spotify.com/track/7edXzWL0NdmKOpGe6NKHyO) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Pacer](https://open.spotify.com/album/37phnoxKPcmDZ0rxmC5hZw) | 7:39 |
+| 29 | [Pacer](https://open.spotify.com/track/7edXzWL0NdmKOpGe6NKHyO) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Pacer](https://open.spotify.com/album/37phnoxKPcmDZ0rxmC5hZw) | 7:39 |
+| 30 | [Pay Phone](https://open.spotify.com/track/6udA6tzAZ2bolSfaSibQEV) | [Fantom '87](https://open.spotify.com/artist/2T4w33dLBJyXVZugL5ZrwU) | [Discovery](https://open.spotify.com/album/0Hnl1IyMwvwT3ieAqR1fSa) | 5:53 |
 | 31 | [Luscious Rain](https://open.spotify.com/track/5Cq74SxpiW6llWC4JfKbe3) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Luscious Rain](https://open.spotify.com/album/5X7TUEwe3dnQKeqN3qBQZv) | 3:09 |
 | 32 | [Arterial](https://open.spotify.com/track/5G67YWTwKKRBkk1EH8aw3S) | [Lusine](https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub) | [Arterial](https://open.spotify.com/album/11IULm1RrL6acmTm3qQzLH) | 4:14 |
 | 33 | [The Only Way Out Is Through](https://open.spotify.com/track/35bAjRIbS6LGuxCR9aP92T) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [The Only Way Out Is Through](https://open.spotify.com/album/7xHkCvvUUAN7vDz9CrtJb5) | 8:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 49 | [Simple Child](https://open.spotify.com/track/091XExKLCNuX2sIJ3UvP1X) | [Meloko](https://open.spotify.com/artist/59FM2BoNHA8kpDnPwELvIg), [LKF Project](https://open.spotify.com/artist/2RuOG1js6Y29wWnyN7xx2d), [Selim Sivade](https://open.spotify.com/artist/6zQCqwr5oCLdfbvY3n3LIn), [Rondo Mo](https://open.spotify.com/artist/0irPzWV6n0kStz8rffpERG) | [Simple Child](https://open.spotify.com/album/3YRYyLIIgyWaCZ5okstYIi) | 6:16 |
 | 50 | [The Other Room](https://open.spotify.com/track/3BqEAXUXFoBLm2JXbEuG7o) | [Iron Curtis](https://open.spotify.com/artist/3SxSMKGboN9d8DxDRIB7pH), [Johannes Albert](https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt) | [Moon III](https://open.spotify.com/album/27iqJdbf0OjVwFyDdw4nq4) | 1:57 |
 
-Snapshot ID: `MCwwMTFlOGY3OTg2ZjJiNjk1MTEyOTM3NzY2ZTQ3N2FmNDQwMjQ4ZDUy`
+Snapshot ID: `MCxmZDM0ZGEyMjgwZGU3OTUwMGQ2NDYzMzU1MTY0YTg5ZDU3MDczNmQ2`

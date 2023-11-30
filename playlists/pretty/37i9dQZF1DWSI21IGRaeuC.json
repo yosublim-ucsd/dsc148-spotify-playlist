@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 29867,
+  "num_followers": 29947,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjA0ZmMwNmE5YzllZWU5ZWMxMDA4NDliZGM0NDI4ZDc1YjNjZTM5",
+  "snapshot_id": "MCw5M2UxNzIzN2I1MWJkN2MwMzhhNGMwZDA1NDlmMTIyZTU5ODM1YmEx",
   "tracks": [
     {
       "added_at": "2023-11-24 05:00:00",
@@ -451,6 +451,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "Dimension",
+        "url": "https://open.spotify.com/album/6x0CBRdU8588pZ40icfONg"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 481920,
+      "name": "Dimension",
+      "url": "https://open.spotify.com/track/2kWWPlO74XtWFY0xiaFFqH"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Midtown Playground",
         "url": "https://open.spotify.com/album/4wJmh4uUgDAAAyFdRMIE7K"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 373032,
       "name": "The Ciggie",
       "url": "https://open.spotify.com/track/1r8ZqfggYqW1R2JjiDGBQV"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Dimension",
-        "url": "https://open.spotify.com/album/6x0CBRdU8588pZ40icfONg"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 481920,
-      "name": "Dimension",
-      "url": "https://open.spotify.com/track/2kWWPlO74XtWFY0xiaFFqH"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -831,38 +831,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/72WcPNbUc5Zpxj6uyUnk6u"
-      },
-      "artists": [
-        {
-          "name": "Hot Since 82",
-          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
-        }
-      ],
-      "duration_ms": 251500,
-      "name": "Atomic Sun",
-      "url": "https://open.spotify.com/track/4npTB0nSyvWZognt9ovoZ5"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "I Am Somebody",
-        "url": "https://open.spotify.com/album/1G3BKcXKXfUaZ3qz8lNsWv"
-      },
-      "artists": [
-        {
-          "name": "Technasia",
-          "url": "https://open.spotify.com/artist/0rnKlPis7AQgoIe2NEVWa5"
-        }
-      ],
-      "duration_ms": 417145,
-      "name": "I Am Somebody",
-      "url": "https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Nywtf (feat. Mikhail Beltran)",
         "url": "https://open.spotify.com/album/1xiDEFjzO0Il22pdIk3oo7"
       },
@@ -883,18 +851,34 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "TAKE ME HIGH",
-        "url": "https://open.spotify.com/album/60JU0EUfjJBHRp5Fb0sZYT"
+        "name": "I Am Somebody",
+        "url": "https://open.spotify.com/album/1G3BKcXKXfUaZ3qz8lNsWv"
       },
       "artists": [
         {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+          "name": "Technasia",
+          "url": "https://open.spotify.com/artist/0rnKlPis7AQgoIe2NEVWa5"
         }
       ],
-      "duration_ms": 220531,
-      "name": "TAKE ME HIGH",
-      "url": "https://open.spotify.com/track/4dzNNV0t2Xn1XmDxEfbMmy"
+      "duration_ms": 417145,
+      "name": "I Am Somebody",
+      "url": "https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/72WcPNbUc5Zpxj6uyUnk6u"
+      },
+      "artists": [
+        {
+          "name": "Hot Since 82",
+          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
+        }
+      ],
+      "duration_ms": 251500,
+      "name": "Atomic Sun",
+      "url": "https://open.spotify.com/track/4npTB0nSyvWZognt9ovoZ5"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -911,6 +895,22 @@
       "duration_ms": 206265,
       "name": "Bionic Boy",
       "url": "https://open.spotify.com/track/0CtMpuQoedYSaVBVni2rtE"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "TAKE ME HIGH",
+        "url": "https://open.spotify.com/album/60JU0EUfjJBHRp5Fb0sZYT"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        }
+      ],
+      "duration_ms": 220531,
+      "name": "TAKE ME HIGH",
+      "url": "https://open.spotify.com/track/4dzNNV0t2Xn1XmDxEfbMmy"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "What's Your Name",
-        "url": "https://open.spotify.com/album/7JrzBm1nyUSYZ0VD6TCN59"
-      },
-      "artists": [
-        {
-          "name": "Us Two",
-          "url": "https://open.spotify.com/artist/4zTMBc60g05ykRN18LqIlN"
-        }
-      ],
-      "duration_ms": 444444,
-      "name": "What's Your Name",
-      "url": "https://open.spotify.com/track/2hGFAk0wIN0HYOnKXLopC3"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Fuck The Regs EP",
         "url": "https://open.spotify.com/album/4haBApGeAHHH11EPiHaghy"
       },
@@ -1187,6 +1171,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "What's Your Name",
+        "url": "https://open.spotify.com/album/7JrzBm1nyUSYZ0VD6TCN59"
+      },
+      "artists": [
+        {
+          "name": "Us Two",
+          "url": "https://open.spotify.com/artist/4zTMBc60g05ykRN18LqIlN"
+        }
+      ],
+      "duration_ms": 444444,
+      "name": "What's Your Name",
+      "url": "https://open.spotify.com/track/2hGFAk0wIN0HYOnKXLopC3"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "This Energy EP",
         "url": "https://open.spotify.com/album/6BhhDPtDrqadoXUT3y9FUU"
       },
@@ -1199,6 +1199,38 @@
       "duration_ms": 198750,
       "name": "This Energy",
       "url": "https://open.spotify.com/track/0FAIsPkDqH7IYxVtetwvrU"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Rudeboi",
+        "url": "https://open.spotify.com/album/2TDe6STKY9g4aZJNAYaHjq"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 181054,
+      "name": "Rudeboi",
+      "url": "https://open.spotify.com/track/4ViEI1gmu2hsyYNPVZnenR"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Alley Rave",
+        "url": "https://open.spotify.com/album/125AHdT7Yan1Nw5vUwwBnq"
+      },
+      "artists": [
+        {
+          "name": "Andrea Oliva",
+          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
+        }
+      ],
+      "duration_ms": 364099,
+      "name": "Alley Rave",
+      "url": "https://open.spotify.com/track/1Zc0AQvQNk5UfjVOMD1Dxq"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1239,38 +1271,6 @@
       "duration_ms": 195348,
       "name": "take notes.",
       "url": "https://open.spotify.com/track/58J7fIZAgLrCwqpucV2JKG"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Rudeboi",
-        "url": "https://open.spotify.com/album/2TDe6STKY9g4aZJNAYaHjq"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 181054,
-      "name": "Rudeboi",
-      "url": "https://open.spotify.com/track/4ViEI1gmu2hsyYNPVZnenR"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Alley Rave",
-        "url": "https://open.spotify.com/album/125AHdT7Yan1Nw5vUwwBnq"
-      },
-      "artists": [
-        {
-          "name": "Andrea Oliva",
-          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
-        }
-      ],
-      "duration_ms": 364099,
-      "name": "Alley Rave",
-      "url": "https://open.spotify.com/track/1Zc0AQvQNk5UfjVOMD1Dxq"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
+        "name": "N NIGHT",
+        "url": "https://open.spotify.com/album/59dqu4xpSWOarQt4nh9sdg"
+      },
+      "artists": [
+        {
+          "name": "Wheats",
+          "url": "https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF"
+        }
+      ],
+      "duration_ms": 454000,
+      "name": "N NIGHT",
+      "url": "https://open.spotify.com/track/72YERGjA9X5F6NuE4GLLmC"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
         "name": "Targa (Logic1000 Remix)",
         "url": "https://open.spotify.com/album/6kpoHaj6R6DbN8Y2nSxZlo"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 215642,
       "name": "Targa - Logic1000 Remix",
       "url": "https://open.spotify.com/track/6Q9RgcT8pB3USUFjG9MY9s"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "N NIGHT",
-        "url": "https://open.spotify.com/album/59dqu4xpSWOarQt4nh9sdg"
-      },
-      "artists": [
-        {
-          "name": "Wheats",
-          "url": "https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF"
-        }
-      ],
-      "duration_ms": 454000,
-      "name": "N NIGHT",
-      "url": "https://open.spotify.com/track/72YERGjA9X5F6NuE4GLLmC"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1499,22 +1499,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Scout",
-        "url": "https://open.spotify.com/album/5FMzEjhMgICTx0ynFYbTig"
+        "name": "Ole",
+        "url": "https://open.spotify.com/album/0l4eUj59yCd8EfXuiNCnen"
       },
       "artists": [
         {
-          "name": "SLUMBERJACK",
-          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
-        },
-        {
-          "name": "Posij",
-          "url": "https://open.spotify.com/artist/7nmucrDZXxIQNGLwCqPQpO"
+          "name": "Zilka",
+          "url": "https://open.spotify.com/artist/0SoSPYY6c3UihbZfluCvjP"
         }
       ],
-      "duration_ms": 234193,
-      "name": "Scout",
-      "url": "https://open.spotify.com/track/1wvlh0A1mMVAb7Gw2dGV9a"
+      "duration_ms": 158343,
+      "name": "Ole",
+      "url": "https://open.spotify.com/track/22u9Mz1YIpNeOgLxiQ7VIe"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1535,18 +1531,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Ole",
-        "url": "https://open.spotify.com/album/0l4eUj59yCd8EfXuiNCnen"
+        "name": "Scout",
+        "url": "https://open.spotify.com/album/5FMzEjhMgICTx0ynFYbTig"
       },
       "artists": [
         {
-          "name": "Zilka",
-          "url": "https://open.spotify.com/artist/0SoSPYY6c3UihbZfluCvjP"
+          "name": "SLUMBERJACK",
+          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
+        },
+        {
+          "name": "Posij",
+          "url": "https://open.spotify.com/artist/7nmucrDZXxIQNGLwCqPQpO"
         }
       ],
-      "duration_ms": 158343,
-      "name": "Ole",
-      "url": "https://open.spotify.com/track/22u9Mz1YIpNeOgLxiQ7VIe"
+      "duration_ms": 234193,
+      "name": "Scout",
+      "url": "https://open.spotify.com/track/1wvlh0A1mMVAb7Gw2dGV9a"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "LOL",
-        "url": "https://open.spotify.com/album/5TnjkmrtNYmN4sURWdEGbX"
-      },
-      "artists": [
-        {
-          "name": "Marco Strous",
-          "url": "https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i"
-        }
-      ],
-      "duration_ms": 321818,
-      "name": "LOL",
-      "url": "https://open.spotify.com/track/4UneXzywX6fsUZv4v4pflY"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Jump Ship",
         "url": "https://open.spotify.com/album/4BvWZEC1BIYEq0GM7Bw3qC"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 381431,
       "name": "Jump Ship",
       "url": "https://open.spotify.com/track/5V6srZGdQEeOMbwlcEOLqy"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "LOL",
+        "url": "https://open.spotify.com/album/5TnjkmrtNYmN4sURWdEGbX"
+      },
+      "artists": [
+        {
+          "name": "Marco Strous",
+          "url": "https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i"
+        }
+      ],
+      "duration_ms": 321818,
+      "name": "LOL",
+      "url": "https://open.spotify.com/track/4UneXzywX6fsUZv4v4pflY"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1767,26 +1767,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Thrill Me (LO'99 Remix)",
-        "url": "https://open.spotify.com/album/3EK4iKouxMfsNlD8EXAUGj"
-      },
-      "artists": [
-        {
-          "name": "Junior Jack",
-          "url": "https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k"
-        },
-        {
-          "name": "LO'99",
-          "url": "https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy"
-        }
-      ],
-      "duration_ms": 186018,
-      "name": "Thrill Me - LO'99 Remix",
-      "url": "https://open.spotify.com/track/0AiLHyJny7YiQ0GT8jCbdR"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Superlicious",
         "url": "https://open.spotify.com/album/1blY0k0w4peV2SB8sVjB6y"
       },
@@ -1799,6 +1779,22 @@
       "duration_ms": 181417,
       "name": "Superlicious",
       "url": "https://open.spotify.com/track/31D6WOQYjLdcKMXoNGWKSV"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Single Kiss",
+        "url": "https://open.spotify.com/album/4la24fDXi6Mvc0HMmHijhf"
+      },
+      "artists": [
+        {
+          "name": "Salom\u00e9 Le Chat",
+          "url": "https://open.spotify.com/artist/1ClOAC5th0n8BGUD22KpIV"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Single Kiss",
+      "url": "https://open.spotify.com/track/1mSQFLT4CEEdJdtby96FUL"
     }
   ],
   "unique_name": "Minimal Tech",

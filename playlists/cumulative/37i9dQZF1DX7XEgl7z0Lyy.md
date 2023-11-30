@@ -4,7 +4,7 @@
 
 > music from the underworld
 
-135 songs - 4 hr 35 min
+138 songs - 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,8 +27,10 @@
 | [change](https://open.spotify.com/track/55IuUrRQ51CkcOHEjssAeC) | [Sephe](https://open.spotify.com/artist/6xBfkx9eLqhTWN8Czcpj3G) | [change](https://open.spotify.com/album/3hfLhZ8aZDeFxqPPzHPMGS) | 1:33 | 2023-09-22 |  |
 | [change](https://open.spotify.com/track/1ll5tr64qJ7uuupyNgcgN2) | [Sephe](https://open.spotify.com/artist/6xBfkx9eLqhTWN8Czcpj3G) | [change](https://open.spotify.com/album/1EwCoJPEovnbePAjomvhp1) | 1:33 | 2023-07-21 | 2023-10-19 |
 | [CHARDONNAY](https://open.spotify.com/track/1ELfye9x78mVvKgcKKaJVe) | [Marluxiam](https://open.spotify.com/artist/5QmW7zYwGfW9YZWBVKeqBU), [xxanteeria](https://open.spotify.com/artist/0D1keAaUWZZHAIt7CasYO2) | [CHARDONNAY](https://open.spotify.com/album/7qFrc9Qf28w1HblrOlH6gX) | 1:51 | 2023-08-25 | 2023-09-02 |
-| [corpse](https://open.spotify.com/track/12Tkvx9SClYpEQKrCtqEfY) | [kyszenn](https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY) | [corpse](https://open.spotify.com/album/40pduhZqgVOZnvUT7WWRxh) | 1:52 | 2023-10-20 |  |
-| [crystallize](https://open.spotify.com/track/6U7O0WPOWTQFh58pB9ZNTI) | [kyszenn](https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY) | [crystallize](https://open.spotify.com/album/283UywJaDCdRfr9pjnUTEQ) | 2:01 | 2023-09-01 |  |
+| [corpse](https://open.spotify.com/track/0V6nYXxQCghLMQYtxLu5al) | [kyszenn](https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY) | [corpse](https://open.spotify.com/album/6vpoUI1PgvmE4zDIiUfg8L) | 1:52 | 2023-10-20 |  |
+| [corpse](https://open.spotify.com/track/12Tkvx9SClYpEQKrCtqEfY) | [kyszenn](https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY) | [corpse](https://open.spotify.com/album/40pduhZqgVOZnvUT7WWRxh) | 1:52 | 2023-10-20 | 2023-11-30 |
+| [crystallize](https://open.spotify.com/track/1PvmpEdGf0OnE5eINVbrCJ) | [kyszenn](https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY) | [crystallize](https://open.spotify.com/album/5C2g9Zo2Zr1tPpmaPkCD23) | 2:01 | 2023-09-22 |  |
+| [crystallize](https://open.spotify.com/track/6U7O0WPOWTQFh58pB9ZNTI) | [kyszenn](https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY) | [crystallize](https://open.spotify.com/album/283UywJaDCdRfr9pjnUTEQ) | 2:01 | 2023-09-01 | 2023-11-30 |
 | [CRYSTALS](https://open.spotify.com/track/2iD5hLjSCYFZROnyW0VfFo) | [PR1SVX](https://open.spotify.com/artist/12NSBgMVPKhwB8tDMsoYpP) | [CRYSTALS \(Remixes\)](https://open.spotify.com/album/6Mm3ztOCaGqwRudNjtPyv5) | 1:08 | 2023-07-21 |  |
 | [CRYSTALS](https://open.spotify.com/track/5bYFgV2KMMC6IVQ2gUyMGg) | [PR1SVX](https://open.spotify.com/artist/12NSBgMVPKhwB8tDMsoYpP) | [CRYSTALS](https://open.spotify.com/album/4QEU39Ov79qOM6oBC013Uc) | 1:08 | 2023-07-28 | 2023-08-11 |
 | [cutecore](https://open.spotify.com/track/0EoPVPK0vg4UHPyccKP6PH) | [Sabuze](https://open.spotify.com/artist/2u8F3wXa6IjZM3sVTwQLag), [ONIMXRU](https://open.spotify.com/artist/3ysIyoivMDpeqLg0VMRPQw) | [cutecore](https://open.spotify.com/album/4gbscLnxa7XLxNtt3WaaO8) | 2:20 | 2023-10-20 |  |
@@ -95,7 +97,8 @@
 | [OK WE SININ](https://open.spotify.com/track/3chuJrGz159KoAJ7wbDuGI) | [gaptoothv4mp](https://open.spotify.com/artist/7DIlL1MSilsc1jNsEsH2CJ), [knieyn](https://open.spotify.com/artist/0DEmgXcgJqx7pAnJT8AAQV) | [OK WE SININ](https://open.spotify.com/album/5FMPea4GvLcbEA1GMW5zKA) | 1:20 | 2023-09-01 | 2023-10-11 |
 | [OK WE SININ](https://open.spotify.com/track/3stbW6MArOPEjS2yr8tCRA) | [gaptoothv4mp](https://open.spotify.com/artist/7DIlL1MSilsc1jNsEsH2CJ), [knieyn](https://open.spotify.com/artist/6mFJ6p0JXGBH8z38219P7r) | [OK WE SININ](https://open.spotify.com/album/3LA7ZCMNSH17iZYMd2TBqd) | 1:20 | 2023-09-22 |  |
 | [ON THE FLOOR](https://open.spotify.com/track/3j9Ivwkg9sYcaR9mlnjsAX) | [removeface](https://open.spotify.com/artist/4V83nubSLv0NZBo69fz8PF), [kyszenn](https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY) | [ON THE FLOOR!](https://open.spotify.com/album/4Xbo3AY9xw4yTi1OpFXQDI) | 1:59 | 2023-09-08 |  |
-| [onyx palace](https://open.spotify.com/track/3tsbNogFr6tPtxR2zlvlnO) | [kyszenn](https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY) | [onyx palace](https://open.spotify.com/album/5EgsZbmgKX9wxsK4OAShSG) | 2:13 | 2023-07-21 |  |
+| [onyx palace](https://open.spotify.com/track/0n4EP6LzMY6iUBqturCofi) | [kyszenn](https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY) | [onyx palace](https://open.spotify.com/album/74rKGi9bIqDImCGyg9I7Ql) | 2:13 | 2023-09-22 |  |
+| [onyx palace](https://open.spotify.com/track/3tsbNogFr6tPtxR2zlvlnO) | [kyszenn](https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY) | [onyx palace](https://open.spotify.com/album/5EgsZbmgKX9wxsK4OAShSG) | 2:13 | 2023-07-21 | 2023-11-30 |
 | [party addict](https://open.spotify.com/track/0i5Lv2pnFSqZopukoniHcv) | [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [Nosgov](https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh), [kojo](https://open.spotify.com/artist/18AWDR2N9U6HkTZ6wgmbRV) | [party addict](https://open.spotify.com/album/52zsEp1nlqjnzxBFRN9TCm) | 2:05 | 2023-09-22 |  |
 | [party addict](https://open.spotify.com/track/1fp1tsLHqwy1Aj40GVyqVX) | [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [Nosgov](https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh), [kojo](https://open.spotify.com/artist/18AWDR2N9U6HkTZ6wgmbRV) | [party addict](https://open.spotify.com/album/0asjbwtUwjHskzsK3nQf6A) | 2:05 | 2023-07-21 | 2023-10-18 |
 | [PARTY ALL NIGHT!](https://open.spotify.com/track/3IV3qgNIzvlf2dmeXX6ADw) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm) | [PARTY ALL NIGHT!](https://open.spotify.com/album/3R7c7RQHgK0a7lMyIwq0Km) | 1:47 | 2023-10-17 |  |

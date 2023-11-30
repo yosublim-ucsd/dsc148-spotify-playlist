@@ -1,12 +1,12 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Taylor Swift",
-  "num_followers": 65782,
+  "num_followers": 65859,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxM2QxOGI1YzZmZmMwMDdkY2RiMDY0MjQyMTE2OWYxNjczNTg5NWJh",
+  "snapshot_id": "MCw5MTg2MTYxYzcwYzBhZTE2NmJhMTM2OGY1NThiZTE1NzliMmMyYjdh",
   "tracks": [
     {
       "added_at": "2023-11-03 04:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Live 1976 - 1998: Tonight's the Night",
-        "url": "https://open.spotify.com/album/6427BkrSWr5rVBOEWcYILd"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 307173,
-      "name": "I Don't Want to Talk About It - Live at Newcastle, England, 12/17/1976",
-      "url": "https://open.spotify.com/track/1ADpmLJK8WhPEIZM3ZaQTK"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "C\u00e9line... Une seule fois / Live 2013",
         "url": "https://open.spotify.com/album/7Ek9Es4B8AucqFfDTFA6LL"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 401840,
       "name": "My Heart Will Go On (Live in Quebec City) - Live from Quebec City, Canada - July 2013",
       "url": "https://open.spotify.com/track/0y1a3gibwfwvUZAmXp3sgj"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Live 1976 - 1998: Tonight's the Night",
+        "url": "https://open.spotify.com/album/6427BkrSWr5rVBOEWcYILd"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 307173,
+      "name": "I Don't Want to Talk About It - Live at Newcastle, England, 12/17/1976",
+      "url": "https://open.spotify.com/track/1ADpmLJK8WhPEIZM3ZaQTK"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Alicia Keys - VH1 Storytellers",
-        "url": "https://open.spotify.com/album/2JimBGRjtQcmMriFKlNaf9"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 258040,
-      "name": "Empire State of Mind (Part II) Broken Down - Live at Metropolis Studios, New York, NY - May 2013",
-      "url": "https://open.spotify.com/track/63kqWV4uJovbh830PAwC1J"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "In The Lonely Hour (Drowning Shadows Edition)",
         "url": "https://open.spotify.com/album/0f8RtEC5UUqMX2cveYlylg"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 486889,
       "name": "Latch - Live From Madison Square Garden",
       "url": "https://open.spotify.com/track/63i2WzJd0BIyyOT2aVLGVO"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Alicia Keys - VH1 Storytellers",
+        "url": "https://open.spotify.com/album/2JimBGRjtQcmMriFKlNaf9"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 258040,
+      "name": "Empire State of Mind (Part II) Broken Down - Live at Metropolis Studios, New York, NY - May 2013",
+      "url": "https://open.spotify.com/track/63kqWV4uJovbh830PAwC1J"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Infinite Disco",
+        "url": "https://open.spotify.com/album/22FbsSjPqf7kxayE4M5ut3"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 193026,
+      "name": "Slow / Love to Love You Baby (From the Infinite Disco Livestream)",
+      "url": "https://open.spotify.com/track/0AocMj1DZuKPXGVrCICNNu"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Best Song Ever (From THIS IS US)",
         "url": "https://open.spotify.com/album/7slbkjkfIPufuEa858735n"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 343933,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/4ws6ZvEjihoJ9i4pd4wPnI"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Infinite Disco",
-        "url": "https://open.spotify.com/album/22FbsSjPqf7kxayE4M5ut3"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 193026,
-      "name": "Slow / Love to Love You Baby (From the Infinite Disco Livestream)",
-      "url": "https://open.spotify.com/track/0AocMj1DZuKPXGVrCICNNu"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Pandemonium (Live at the O2 Arena, London - 21 December 2009)",
-        "url": "https://open.spotify.com/album/3ndAvT7Tca2KclpKe9BbbL"
-      },
-      "artists": [
-        {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
-        }
-      ],
-      "duration_ms": 223226,
-      "name": "Always on My Mind - Live at the O2 Arena, London - 21 December 2009",
-      "url": "https://open.spotify.com/track/78j9FMDQ5hRt0JTDHYEvg3"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Live At Madison Square Garden",
         "url": "https://open.spotify.com/album/6kTIdOmlTbxh7vzNwb4n0L"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 256740,
       "name": "Treat You Better - Live",
       "url": "https://open.spotify.com/track/4LEtCNmFV5NyWcANGZC9si"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Pandemonium (Live at the O2 Arena, London - 21 December 2009)",
+        "url": "https://open.spotify.com/album/3ndAvT7Tca2KclpKe9BbbL"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "duration_ms": 223226,
+      "name": "Always on My Mind - Live at the O2 Arena, London - 21 December 2009",
+      "url": "https://open.spotify.com/track/78j9FMDQ5hRt0JTDHYEvg3"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "On the Road to Nashville (Live)",
+        "url": "https://open.spotify.com/album/7FKtqGJK8DhnAOUqHSfPqU"
+      },
+      "artists": [
+        {
+          "name": "Erasure",
+          "url": "https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89"
+        }
+      ],
+      "duration_ms": 218240,
+      "name": "A Little Respect (Live in Nashville)",
+      "url": "https://open.spotify.com/track/4a2dbJunlLGd87U7bNrwHh"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Live At Madison Square Garden",
         "url": "https://open.spotify.com/album/6kTIdOmlTbxh7vzNwb4n0L"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 267263,
       "name": "Feel - Live at Live 8, Hyde Park, London, 2nd July 2005",
       "url": "https://open.spotify.com/track/2Smji1HNCbqpFFMtrrzPHN"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "On the Road to Nashville (Live)",
-        "url": "https://open.spotify.com/album/7FKtqGJK8DhnAOUqHSfPqU"
-      },
-      "artists": [
-        {
-          "name": "Erasure",
-          "url": "https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89"
-        }
-      ],
-      "duration_ms": 218240,
-      "name": "A Little Respect (Live in Nashville)",
-      "url": "https://open.spotify.com/track/4a2dbJunlLGd87U7bNrwHh"
     },
     {
       "added_at": "2023-11-03 04:00:00",

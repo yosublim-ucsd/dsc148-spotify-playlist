@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 
 > Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario\. Foto: Cata Raybaud y Benjamin Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,045 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,075 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,18 +74,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 | 64 | [Mensajes en el Mar](https://open.spotify.com/track/6SGwV4wEmaJ6GNiEcS29Jv) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32), [Las Migas](https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3) | [Mensajes en el Mar](https://open.spotify.com/album/0cIaMMo2FAhe1AfpKUyUre) | 4:07 |
 | 65 | [Un Pacto](https://open.spotify.com/track/3g8vgAx9nQWBWw2USi5xEA) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [De la Cabeza 2](https://open.spotify.com/album/3p2WuAT2zLzKwVoDFaPwml) | 4:37 |
 | 66 | [yen3](https://open.spotify.com/track/4OjtJ3VuA51RYAFcr4O8vV) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [yen3](https://open.spotify.com/album/2V3ZN5QG0b5TLBaP9sBmBy) | 3:06 |
-| 67 | [Pitada](https://open.spotify.com/track/2IAfP9ex8Vv70VESb0D3C0) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI) | [PITADA](https://open.spotify.com/album/5zSmYPGllvnokcYJfKBHYH) | 4:03 |
-| 68 | [No me pidas que no sea un inconsciente](https://open.spotify.com/track/7zHsLEE8CDXjzHyaw3Klc2) | [Sir Hope](https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA) | [No me pidas que no sea un inconsciente](https://open.spotify.com/album/40RaXs4L3REotbG4aUQh9g) | 2:13 |
+| 67 | [No me pidas que no sea un inconsciente](https://open.spotify.com/track/7zHsLEE8CDXjzHyaw3Klc2) | [Sir Hope](https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA) | [No me pidas que no sea un inconsciente](https://open.spotify.com/album/40RaXs4L3REotbG4aUQh9g) | 2:13 |
+| 68 | [Pitada](https://open.spotify.com/track/2IAfP9ex8Vv70VESb0D3C0) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI) | [PITADA](https://open.spotify.com/album/5zSmYPGllvnokcYJfKBHYH) | 4:03 |
 | 69 | [Como vos \- En vivo](https://open.spotify.com/track/2On90QefesETPtJw7LePV2) | [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ), [Vitali Sessions](https://open.spotify.com/artist/0qygzhCoNDqxeoer3H2M4Y) | [Vitali Sessions \#3 \(En vivo\)](https://open.spotify.com/album/5u2FYSwtiZr6LiDxdRnJO1) | 3:18 |
 | 70 | [Las Plantas Crecen](https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Las Plantas Crecen](https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV) | 1:55 |
 | 71 | [Laberinto](https://open.spotify.com/track/1byWs41iY3MDKPS8V9QZY9) | [Adrián Berra](https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO) | [Respirar Bajo el Agua](https://open.spotify.com/album/79GGYEs02s4cfJKaEFLVyZ) | 2:45 |
 | 72 | [Nada Tengo](https://open.spotify.com/track/4byXAZwR336SCQ2UfzrNrY) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Nada Tengo](https://open.spotify.com/album/7i6Tt4suoPjWD8Wb59JdWY) | 4:32 |
-| 73 | [BIG BANG](https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [BIG BANG](https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS) | 3:03 |
-| 74 | [Quiero \- Acústico](https://open.spotify.com/track/3fnc1SnKSPWTFG2B0MKa3f) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Canciones para escuchar en el río](https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk) | 2:45 |
+| 73 | [Quiero \- Acústico](https://open.spotify.com/track/3fnc1SnKSPWTFG2B0MKa3f) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Canciones para escuchar en el río](https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk) | 2:45 |
+| 74 | [BIG BANG](https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [BIG BANG](https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS) | 3:03 |
 | 75 | [Mírenla \(Acústico\)](https://open.spotify.com/track/3adqew32aN0DuInXYwwAzA) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Guerras \(Un Viaje en el Tiempo\)](https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR) | 4:25 |
 | 76 | [Desapego](https://open.spotify.com/track/6PscXiZTVBaoEzDAMr46uN) | [Purahei Soul](https://open.spotify.com/artist/4P0LGc8P3PhXCH29S5bU5p) | [Desapego](https://open.spotify.com/album/0MPnc6VlU541t0tzoHqbxi) | 3:38 |
-| 77 | [Ojos de Río](https://open.spotify.com/track/53O5lFOaitGbeEfb6OMFxs) | [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Ojos de Río](https://open.spotify.com/album/0FDjjaaAOmUSmEyGlcPJtM) | 2:16 |
-| 78 | [Fin del Mundo](https://open.spotify.com/track/4s6KoIwPyCL8vXFCTCXKCw) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [Fin del Mundo](https://open.spotify.com/album/1T24IS66qX4DlVj1xIhUv0) | 3:52 |
+| 77 | [Fin del Mundo](https://open.spotify.com/track/4s6KoIwPyCL8vXFCTCXKCw) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [Fin del Mundo](https://open.spotify.com/album/1T24IS66qX4DlVj1xIhUv0) | 3:52 |
+| 78 | [Ojos de Río](https://open.spotify.com/track/53O5lFOaitGbeEfb6OMFxs) | [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Ojos de Río](https://open.spotify.com/album/0FDjjaaAOmUSmEyGlcPJtM) | 2:16 |
 | 79 | [Déjame Dejarte Atrás](https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [Déjame Dejarte Atrás](https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx) | 3:24 |
 | 80 | [A Little Respect](https://open.spotify.com/track/1DHGAP0gcEfQwMiu6jvHNV) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Tú Ve](https://open.spotify.com/album/4KSwWkeERQnwgucugHziPV) | 3:28 |
 | 81 | [De Musica Ligera](https://open.spotify.com/track/1GS8GZYrkYqLrhTHxDpNqT) | [Sámdalo](https://open.spotify.com/artist/3bN66LSNd6HV80aVnehBo7) | [De Musica Ligera](https://open.spotify.com/album/5vSmAtrh1r2BEaMjibhXgK) | 2:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 | 99 | [Sad Balada](https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [La Negación](https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2) | 3:12 |
 | 100 | [AWCH \- Acústico](https://open.spotify.com/track/4jFT1VnKshlmMFJYDXNlQL) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [AWCH \(Acústico\)](https://open.spotify.com/album/6gMcC5nNeCd8F4HmCSGnwf) | 3:16 |
 
-Snapshot ID: `MCxmNjJhOWIxZmJmMTcyOGVhNTdiOGUyMmNhZDI3MTg4ZjllYTVjMTA3`
+Snapshot ID: `MCw4YWRmZjg4NDc0MzQ4OTY0ZDU1YTg3Y2YwNjFmNDliMDlkYTAxNDUw`

@@ -1,12 +1,12 @@
 {
   "description": "The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene. Cover: The Judds",
-  "num_followers": 592459,
+  "num_followers": 592635,
   "original_name": "80s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTg1ZTliZTY5MTNmY2IwZDUxMzdkNmUwMGE2ZmY4NTI0ZTNlZDY2",
+  "snapshot_id": "MCw0MTcwYmRjZWFlMGNlNWQ4ZWViNjZhMmQ4ZDFmZDQwMDhhNTMyMzk4",
   "tracks": [
     {
       "added_at": "2023-08-21 19:29:52",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Classics",
-        "url": "https://open.spotify.com/album/22qEaAJ03kdo8L2qge5Chc"
-      },
-      "artists": [
-        {
-          "name": "John Conlee",
-          "url": "https://open.spotify.com/artist/4Wfq6fHhifS8MmQOcJ18TP"
-        }
-      ],
-      "duration_ms": 163106,
-      "name": "Common Man",
-      "url": "https://open.spotify.com/track/7qYQBg8ljLvLfWPOajfo6u"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "Fancy Free",
         "url": "https://open.spotify.com/album/5B089xYxcKyuZOE2B9jj1J"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 225626,
       "name": "Elvira",
       "url": "https://open.spotify.com/track/0mG66FLhO0iZ6XCAGdjpax"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "Classics",
+        "url": "https://open.spotify.com/album/22qEaAJ03kdo8L2qge5Chc"
+      },
+      "artists": [
+        {
+          "name": "John Conlee",
+          "url": "https://open.spotify.com/artist/4Wfq6fHhifS8MmQOcJ18TP"
+        }
+      ],
+      "duration_ms": 163106,
+      "name": "Common Man",
+      "url": "https://open.spotify.com/track/7qYQBg8ljLvLfWPOajfo6u"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/4LN572kqxZfNyNgt2rGGKR"
-      },
-      "artists": [
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "Who's Gonna Fill Their Shoes",
-      "url": "https://open.spotify.com/track/4wDpjRQOvOHXE9AtNWpdVQ"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "The Essential Waylon Jennings",
         "url": "https://open.spotify.com/album/76v3XMhmRuxlakE6e3lKox"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 286120,
       "name": "I Ain't Living Long Like This",
       "url": "https://open.spotify.com/track/0NBKvnJAAG865ENj9bOhvD"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/4LN572kqxZfNyNgt2rGGKR"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Who's Gonna Fill Their Shoes",
+      "url": "https://open.spotify.com/track/4wDpjRQOvOHXE9AtNWpdVQ"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/7jXiQrYTKNXnXL7WLpPqkZ"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams, Jr.",
-          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
-        }
-      ],
-      "duration_ms": 240373,
-      "name": "All My Rowdy Friends (Have Settled Down)",
-      "url": "https://open.spotify.com/track/7hBrO5jpSGEbd9X6zxGxQI"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "West By West",
         "url": "https://open.spotify.com/album/5TxtoLv0Y7uvgjb14Bculc"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 160533,
       "name": "Jose Cuervo",
       "url": "https://open.spotify.com/track/3lrlZLY4RL816J0ersG63f"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7jXiQrYTKNXnXL7WLpPqkZ"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams, Jr.",
+          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
+        }
+      ],
+      "duration_ms": 240373,
+      "name": "All My Rowdy Friends (Have Settled Down)",
+      "url": "https://open.spotify.com/track/7hBrO5jpSGEbd9X6zxGxQI"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Conway Twitty",
-        "url": "https://open.spotify.com/album/1Qj1C6YA9SQvuJsgsZdeTE"
-      },
-      "artists": [
-        {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
-        }
-      ],
-      "duration_ms": 170266,
-      "name": "Tight Fittin' Jeans",
-      "url": "https://open.spotify.com/track/7A7gHOXvDJ12CRfiZ18Uro"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "The Best Of Michael Martin Murphey",
         "url": "https://open.spotify.com/album/4oNkliPdTLg2FHIDp4PgDN"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 171906,
       "name": "What's Forever For?",
       "url": "https://open.spotify.com/track/5j2yIrnbgDW51GM95ZjqDj"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of Conway Twitty",
+        "url": "https://open.spotify.com/album/1Qj1C6YA9SQvuJsgsZdeTE"
+      },
+      "artists": [
+        {
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+        }
+      ],
+      "duration_ms": 170266,
+      "name": "Tight Fittin' Jeans",
+      "url": "https://open.spotify.com/track/7A7gHOXvDJ12CRfiZ18Uro"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "The Very Best Of Rosanne Cash",
-        "url": "https://open.spotify.com/album/2Wc3y0qSYX4fxYBWeiYnFa"
-      },
-      "artists": [
-        {
-          "name": "Rosanne Cash",
-          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
-        }
-      ],
-      "duration_ms": 194853,
-      "name": "Seven Year Ache",
-      "url": "https://open.spotify.com/track/2bYp7DYfjXULM24FUh9Z3Q"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/0bP76IDtXusEmR3b1MG3ao"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 199600,
       "name": "I'd Love To Lay You Down",
       "url": "https://open.spotify.com/track/4VF5XIZ7EiMfLElRzYG2E8"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "The Very Best Of Rosanne Cash",
+        "url": "https://open.spotify.com/album/2Wc3y0qSYX4fxYBWeiYnFa"
+      },
+      "artists": [
+        {
+          "name": "Rosanne Cash",
+          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
+        }
+      ],
+      "duration_ms": 194853,
+      "name": "Seven Year Ache",
+      "url": "https://open.spotify.com/track/2bYp7DYfjXULM24FUh9Z3Q"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "The Forester Sisters",
-        "url": "https://open.spotify.com/album/3LDzLEr1jGClFSMrdwdjcA"
-      },
-      "artists": [
-        {
-          "name": "The Forester Sisters",
-          "url": "https://open.spotify.com/artist/27Zy5YAD3Atf56oSRfrfis"
-        }
-      ],
-      "duration_ms": 170146,
-      "name": "Mama's Never Seen Those Eyes",
-      "url": "https://open.spotify.com/track/2CpnNgpSYSjwkyXAJqHSnP"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "Greatest Hits--\"Songs from an Aging Sex Bomb\"",
         "url": "https://open.spotify.com/album/1kXK1pSK2uRUtWml9WA92X"
       },
@@ -2283,6 +2267,22 @@
       "duration_ms": 245733,
       "name": "Do Ya'",
       "url": "https://open.spotify.com/track/4uhDXoLPOR60UWIQNfdJjk"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "The Forester Sisters",
+        "url": "https://open.spotify.com/album/3LDzLEr1jGClFSMrdwdjcA"
+      },
+      "artists": [
+        {
+          "name": "The Forester Sisters",
+          "url": "https://open.spotify.com/artist/27Zy5YAD3Atf56oSRfrfis"
+        }
+      ],
+      "duration_ms": 170146,
+      "name": "Mama's Never Seen Those Eyes",
+      "url": "https://open.spotify.com/track/2CpnNgpSYSjwkyXAJqHSnP"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -2319,6 +2319,22 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
+        "name": "The First Of A Million Kisses",
+        "url": "https://open.spotify.com/album/6va9WpXLiBCPS86QWKgOFi"
+      },
+      "artists": [
+        {
+          "name": "Fairground Attraction",
+          "url": "https://open.spotify.com/artist/1sAkg8871iPVI0wPbOfIZa"
+        }
+      ],
+      "duration_ms": 216573,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/2X90tKH59XlulLjbT4vci1"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
         "name": "Duets",
         "url": "https://open.spotify.com/album/2QM56YvhiO7uhXMe4z45Wn"
       },
@@ -2335,22 +2351,6 @@
       "duration_ms": 239440,
       "name": "That Lovin' You Feelin' Again (with Roy Orbison) - 2008 Remaster",
       "url": "https://open.spotify.com/track/4PsXJjKjUQzuX5o9UAsNF2"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
-        "name": "The First Of A Million Kisses",
-        "url": "https://open.spotify.com/album/6va9WpXLiBCPS86QWKgOFi"
-      },
-      "artists": [
-        {
-          "name": "Fairground Attraction",
-          "url": "https://open.spotify.com/artist/1sAkg8871iPVI0wPbOfIZa"
-        }
-      ],
-      "duration_ms": 216573,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/2X90tKH59XlulLjbT4vci1"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -2459,22 +2459,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "The Very Best Of Dan Seals",
-        "url": "https://open.spotify.com/album/0a6aMfflvm0xFsaa2ZEqSC"
-      },
-      "artists": [
-        {
-          "name": "Dan Seals",
-          "url": "https://open.spotify.com/artist/55yEsJBqyn27JPsw5hHzqi"
-        }
-      ],
-      "duration_ms": 209439,
-      "name": "My Baby's Got Good Timing",
-      "url": "https://open.spotify.com/track/4F2JyLPNoCIUshjktmHxCN"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "The Forester Sisters",
         "url": "https://open.spotify.com/album/3LDzLEr1jGClFSMrdwdjcA"
       },
@@ -2487,6 +2471,22 @@
       "duration_ms": 184946,
       "name": "(That's What You Do) When You're in Love",
       "url": "https://open.spotify.com/track/0zd4IzrpBnA1giNE6KkYby"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "The Very Best Of Dan Seals",
+        "url": "https://open.spotify.com/album/0a6aMfflvm0xFsaa2ZEqSC"
+      },
+      "artists": [
+        {
+          "name": "Dan Seals",
+          "url": "https://open.spotify.com/artist/55yEsJBqyn27JPsw5hHzqi"
+        }
+      ],
+      "duration_ms": 209439,
+      "name": "My Baby's Got Good Timing",
+      "url": "https://open.spotify.com/track/4F2JyLPNoCIUshjktmHxCN"
     }
   ],
   "unique_name": "80s Country",

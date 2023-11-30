@@ -4,7 +4,7 @@
 
 > If your mood is to Praise and Worship the Almighty God for what He has done, then this is the right playlist\. A mix of both African and International songs.
 
-232 songs - 21 hr 25 min
+233 songs - 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,8 @@
 | [This can only be God](https://open.spotify.com/track/4In9fCMSz4SyK51pGQ7n7l) | [Jimmy D Psalmist](https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [This can only be God](https://open.spotify.com/album/0XRw5DvPkwMXbxii2Gvk3q) | 3:38 | 2023-03-03 | 2023-10-08 |
 | [This Is A Move \- Live](https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [This Is A Move \(Live\)](https://open.spotify.com/album/5SH3LZPcZVx5fr6uQ7R2pF) | 7:25 | 2023-06-02 |  |
 | [This Loving](https://open.spotify.com/track/1Trsjxw3OfwzIVsSuItgIa) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [This Loving](https://open.spotify.com/album/49HeWMNhVUSt8AolqOBBxr) | 2:36 | 2022-06-30 | 2023-06-30 |
-| [Thixo Wamadinga Ethu \(Live\)](https://open.spotify.com/track/5Y0EPmCymKYHOCJD2B04gi) | [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Sibonga Umusa \(Live\)](https://open.spotify.com/album/0yq9apfBkBDmT9I74n0ABX) | 9:49 | 2023-11-24 |  |
+| [Thixo Wamadinga Ethu \(Live\)](https://open.spotify.com/track/5Y0EPmCymKYHOCJD2B04gi) | [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Sibonga Umusa \(Live\)](https://open.spotify.com/album/0yq9apfBkBDmT9I74n0ABX) | 9:49 | 2023-11-24 | 2023-11-30 |
+| [Thixo Wamadinga Ethu \(Live\)](https://open.spotify.com/track/67NHjEvUTfqyKqNZF0tSMh) | [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Sibonga Umusa \(Live\)](https://open.spotify.com/album/0tT13vFUWnAGZNp0BZu0n3) | 9:49 | 2023-11-24 |  |
 | [TOBECHUKWU](https://open.spotify.com/track/0gsd7GzrNK9f1sDCWp6TUh) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [MERCY CHINWO BLESSED](https://open.spotify.com/artist/1wo9fKt92KBDi8UxJyGFJI) | [TOBECHUKWU](https://open.spotify.com/album/47LudPhVqHz7bEEuM4LUcr) | 8:07 | 2023-02-20 |  |
 | [TOTORI \(The Name of Jesus\)](https://open.spotify.com/track/21rTE3IBtnxuVE1tmt90Ac) | [Mike Aremu](https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [TOTORI \(The Name of Jesus\)](https://open.spotify.com/album/6QKDQjlkZlsm2V0T4gxjZj) | 3:24 | 2023-05-12 | 2023-06-23 |
 | [Trust In God \- Radio Version](https://open.spotify.com/track/7mqEjKUiNZUfsDD9QQHqaw) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Trust In God \(Radio Version\)](https://open.spotify.com/album/6IW9jcM4HMToKGO1aE8dbv) | 4:03 | 2023-07-28 |  |

@@ -4,7 +4,7 @@
 
 > Instrumental and vocal versions of the incredible Cole Porter\. Cover: Cole Porter
 
-91 songs - 4 hr 56 min
+92 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Blue Swing](https://open.spotify.com/track/4vGA0LrAJNp8NFGx95ZYHZ) | [Behia Jazz Band](https://open.spotify.com/artist/2ota4coMovWERC4ywnuKi1), [Jérôme Achat](https://open.spotify.com/artist/5Wrns8a1qsWVYunrmnulyg), [Manu Carré](https://open.spotify.com/artist/5khEP0cfvy3wf6NaiEEqll), [Philippe Brassoud](https://open.spotify.com/artist/1n46ryCFjWCsGxytnD4D3w), [Philippe Cocogne](https://open.spotify.com/artist/20Qd3bXpn4RcR2F5JkJP9L) | [Night and Day With Cole Porter](https://open.spotify.com/album/4qagheCzxxQhK22jGY2LEE) | 4:41 | 2022-01-14 |  |
 | [C'est Magnifique](https://open.spotify.com/track/4oG0FEI8Ghc03RIdpRRYTC) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [French Style](https://open.spotify.com/album/64Hm00agTC7eMQZuFQNnLm) | 2:36 | 2022-01-14 |  |
 | [Conversation Blues](https://open.spotify.com/track/1ZKkiLSA1f4oC0igz3kTvR) | [Behia Jazz Band](https://open.spotify.com/artist/2ota4coMovWERC4ywnuKi1), [Jérôme Achat](https://open.spotify.com/artist/5Wrns8a1qsWVYunrmnulyg), [Manu Carré](https://open.spotify.com/artist/5khEP0cfvy3wf6NaiEEqll), [Philippe Brassoud](https://open.spotify.com/artist/1n46ryCFjWCsGxytnD4D3w), [Philippe Cocogne](https://open.spotify.com/artist/20Qd3bXpn4RcR2F5JkJP9L) | [Night and Day With Cole Porter](https://open.spotify.com/album/4qagheCzxxQhK22jGY2LEE) | 3:54 | 2022-01-14 |  |
-| [Do I Love You? \- Live In Miami, FL/1959](https://open.spotify.com/track/2CehTPb4F4syASYv3NmLix) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc), [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [Beauty And The Beat! \(Expanded Edition / Remastered\)](https://open.spotify.com/album/7b4fckolZouZSA2OnnAl5z) | 3:03 | 2022-01-14 |  |
+| [Do I Love You? \- Live In Miami, FL/1959](https://open.spotify.com/track/2CehTPb4F4syASYv3NmLix) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc), [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [Beauty And The Beat! \(Expanded Edition / Remastered\)](https://open.spotify.com/album/7b4fckolZouZSA2OnnAl5z) | 3:03 | 2022-01-14 | 2023-11-30 |
+| [Do I Love You? \- Live In Miami, FL/1959](https://open.spotify.com/track/32k3wUYW5lOUKa5waNJKu9) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc), [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [Beauty And The Beat! \(Expanded Edition\)](https://open.spotify.com/album/1lfNVAwkwZLIPwAmkSUtlQ) | 3:03 | 2023-11-16 |  |
 | [Don't Fence Me In](https://open.spotify.com/track/1Bis647TLxkQ6T2hhIFyC5) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM), [Vic Schoen & His Orchestra](https://open.spotify.com/artist/5wHn4S5C2d5fqXIPnJWe42) | [Their Greatest Hits And Finest Performances](https://open.spotify.com/album/3GK2W9eAOQ6585VCGKvKkh) | 3:07 | 2022-01-14 |  |
 | [Don't Look At Me That Way](https://open.spotify.com/track/7b2q8bdtVI0AaVBhhpMP2y) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [Jeri Southern Meets Cole Porter](https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O) | 2:59 | 2022-01-14 |  |
 | [Easy To Love](https://open.spotify.com/track/67Bz7gVmb1F5xZMKhjdV6B) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [Charlie Parker With Strings \(Deluxe Edition\)](https://open.spotify.com/album/1DPRDrZgfU3rAo2SL4GrZw) | 3:32 | 2022-01-14 |  |

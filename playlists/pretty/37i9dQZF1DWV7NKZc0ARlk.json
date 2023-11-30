@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos del pop suenan mejor en vivo. Foto: Thalia ",
-  "num_followers": 136211,
+  "num_followers": 136481,
   "original_name": "Vivo de Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDMwN2M3ZThhN2Q0NWEyMmE5Y2Y0ZjA4Mjg2MWVjZjcxYjQwMzM0",
+  "snapshot_id": "MCwyMzIyMDUxNzBkZTIyYzM0ZjQxMjkwODFlN2E2MzkxZmJhYzExM2Ez",
   "tracks": [
     {
       "added_at": "2023-08-11 13:33:49",
@@ -911,18 +911,22 @@
     {
       "added_at": "2023-08-11 13:33:49",
       "album": {
-        "name": "DESAFIANDO EL DESTINO (Live Version)",
-        "url": "https://open.spotify.com/album/3CDM4XQS50I1LidXOYvnhW"
+        "name": "Primera Fila (En Vivo)",
+        "url": "https://open.spotify.com/album/19FjT2Eq5zuZqscnwhjNFH"
       },
       "artists": [
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "Yuri",
+          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
+        },
+        {
+          "name": "Pandora",
+          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
         }
       ],
-      "duration_ms": 250081,
-      "name": "DESAFIANDO EL DESTINO (Live Version)",
-      "url": "https://open.spotify.com/track/2jq4WtL6KfoED5a5hKxFNf"
+      "duration_ms": 282133,
+      "name": "Yo Te Pido Amor (Primera Fila) (feat. Pandora) - En Vivo",
+      "url": "https://open.spotify.com/track/0QIKg7unxus0JeC8PhzCXQ"
     }
   ],
   "unique_name": "Vivo de Pop",

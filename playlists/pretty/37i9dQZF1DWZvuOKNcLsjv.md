@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: Paul Russel
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,530 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,552 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 47 | [Strong Enough \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/66VuIGcM7fd8NLMoORCqVJ) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Strong Enough](https://open.spotify.com/album/7DTTXmNJFIXdf5QyA0Y9JX) | 2:29 |
 | 48 | [Homecoming](https://open.spotify.com/track/6Q1VMEsgtuOXZxdduuj4lG) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Homecoming](https://open.spotify.com/album/3WHRzQYzTFmIVnYiqGWBra) | 2:52 |
 | 49 | [Stay High](https://open.spotify.com/track/7LXimIqTYO76Utly8VFABu) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Stay High](https://open.spotify.com/album/3E3JRB0gGzHuc56GB3hUPJ) | 3:08 |
-| 50 | [Throw Your Arms Around Me](https://open.spotify.com/track/0CVwSCQOx3CMHjwDCmaElh) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Mushroom: 50 Years Of Making Noise \(Reimagined\)](https://open.spotify.com/album/4SRtPtUkg4izzJZ2Kr2LMJ) | 3:03 |
+| 50 | [Throw Your Arms Around Me](https://open.spotify.com/track/0CVwSCQOx3CMHjwDCmaElh) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Mushroom: 50 Years of Making Noise \(Reimagined\)](https://open.spotify.com/album/4SRtPtUkg4izzJZ2Kr2LMJ) | 3:03 |
 | 51 | [LOVE \(XL\)](https://open.spotify.com/track/5GAjhDdUw6vA33k2DvEbYJ) | [Hedigan’s](https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls) | [LOVE \(XL\)](https://open.spotify.com/album/4OpHb4ubmIAxWM945jNyfj) | 4:45 |
 | 52 | [Wind Rise](https://open.spotify.com/track/7ft8cpFbv0E9SOUiUMcPuW) | [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [Speed Tape](https://open.spotify.com/album/0pYpedPWmSW8BABYhG4QDD) | 3:05 |
 | 53 | [Alcohol\-Free \(English ver.\)](https://open.spotify.com/track/6rJjT5kPYhtXkUsot7tkjI) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THE REMIXES](https://open.spotify.com/album/37WsLE5Eny9CTmF9CPzWIq) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 99 | [Dancing When You're Dead](https://open.spotify.com/track/6DFbeSxrQ0e2PsUCCCiH4i) | [STAP Sigh Boys](https://open.spotify.com/artist/0CaylYCVMWiEhpoZxxdDeu) | [Dancing When You're Dead](https://open.spotify.com/album/1qynxmWVJti2YubCEWb2bg) | 2:31 |
 | 100 | [CHARM](https://open.spotify.com/track/75EFQbfTgsm0exvk6ZJl6Q) | [青山みつ紀](https://open.spotify.com/artist/5cEt7kS0IIWeiTow3vOtsV) | [CHARM](https://open.spotify.com/album/0XSNjTZuZhlcmaMkShTuka) | 3:28 |
 
-Snapshot ID: `MCxhYWEzNjUxODIwZTgxYmUzNjMxNGQ0YzQ1OWIyMjM4MjhkNmZlZmMz`
+Snapshot ID: `MCw2ZGU1ODkyOWNiMjY3ZjkzZjBmYTIyNjdlMmZhZjQ1NmU4NDViMzRk`

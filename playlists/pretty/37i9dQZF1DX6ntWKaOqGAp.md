@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: King Gnu
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,423 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,544 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 5 | [蜃気楼](https://open.spotify.com/track/2K2fKGu0wJuByM2dTBTUsr) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [蜃気楼](https://open.spotify.com/album/6Jhc9KCqAkl1NqFhQ1dORC) | 3:10 |
 | 6 | [\):阿修羅:\(](https://open.spotify.com/track/0jSHwhowInP7AgP9BkWudl) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 2:31 |
 | 7 | [決心](https://open.spotify.com/track/6DwA4Aj9Ug1J7KPDnAiv0Y) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [決心](https://open.spotify.com/album/3bfvo4XrL2fShcEbttCCWL) | 4:29 |
-| 8 | [凪](https://open.spotify.com/track/0o0i6AYvStQb7W7AK3KCwr) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Candle](https://open.spotify.com/album/2QKtmakVNgVWejUQRjZm1S) | 3:55 |
+| 8 | [Calm](https://open.spotify.com/track/0B4QXKyErj0nhM2WZZeUoR) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Candle](https://open.spotify.com/album/1Dy7aa6yDhK1X0RdrVnHhq) | 3:55 |
 | 9 | [花になって \- Be a flower](https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [花になって \- Be a flower](https://open.spotify.com/album/2CmupdP2p1BOYVYh2cjtJc) | 3:19 |
 | 10 | [あなたに](https://open.spotify.com/track/3OnG3WS3d6GBJxszaAFOgG) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [あなたに](https://open.spotify.com/album/5uO2gUDNb4WgcmhV5XE1jI) | 3:28 |
 | 11 | [01](https://open.spotify.com/track/7r6pHYnNYqxSZr8e40VF8T) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [01](https://open.spotify.com/album/7DkIDS9gWtm6PQs9P7TnBz) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [Maybe I should die with you](https://open.spotify.com/track/1SUUK6C8DAteFfcOygsdJo) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [Maybe I should die with you](https://open.spotify.com/album/0FEkgIsDVj9Aeyd1iApTG3) | 5:35 |
 | 100 | [SweetSweet](https://open.spotify.com/track/7LgPH3O0HkHYo5IJBcwpTG) | [Puffy AmiYumi](https://open.spotify.com/artist/2wPaW7JIZGyM16donpyBmW) | [SweetSweet](https://open.spotify.com/album/3GeS61a2vvPT50oKHaOoIv) | 4:20 |
 
-Snapshot ID: `MCwyNDAwYzI2M2I2NTI3MDExN2Y4NDU3NmQ2YjQ4NWRjNmE4M2JkNGEz`
+Snapshot ID: `MCw1NjliODc5ZmIxMGNmOWRlOTIxOWEwZDExNGYxMDI1MzAwYjMxZTlh`

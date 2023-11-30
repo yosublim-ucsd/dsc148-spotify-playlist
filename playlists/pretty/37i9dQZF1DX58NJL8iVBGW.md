@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 
 > Deep, dark, dramatic\. Roots rock, folk, and Americana—with a gothic soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 588,389 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 588,492 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,15 +61,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 51 | [Get Right Church](https://open.spotify.com/track/5qX4r5vT9bY8xMsiKuZhQn) | [Ben Miller Band](https://open.spotify.com/artist/692LYMl7s0bV6X3iduX5rG) | [Heavy Load](https://open.spotify.com/album/1BgJCVNqPuzwbGD0e27dCx) | 3:44 |
 | 52 | [Things That Scare Me](https://open.spotify.com/track/1GMphu4rFfW80ME1EN8IJo) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Blacklisted](https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU) | 2:30 |
 | 53 | [Meet Me in the Alleyway](https://open.spotify.com/track/1m4E3gYFqZ0RTxGlZWxP7k) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [I'll Never Get out of This World Alive](https://open.spotify.com/album/4TpbQA23m33nGTWzWBkuZy) | 4:25 |
-| 54 | [How's It Gonna End](https://open.spotify.com/track/2UZxUSA4TxbS5tXUB5QSoL) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Real Gone \(Remastered\)](https://open.spotify.com/album/6F17MbloTeRoXs7JI3lTHy) | 4:50 |
-| 55 | [Devil Don't You Fool Me](https://open.spotify.com/track/5UKMxE8Ec8pa8YLXlqDkSZ) | [Josh Farrow](https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d) | [Devil Don't You Fool Me](https://open.spotify.com/album/6va8aqvQD3YBcqAjLYfgkY) | 2:50 |
+| 54 | [Devil Don't You Fool Me](https://open.spotify.com/track/5UKMxE8Ec8pa8YLXlqDkSZ) | [Josh Farrow](https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d) | [Devil Don't You Fool Me](https://open.spotify.com/album/6va8aqvQD3YBcqAjLYfgkY) | 2:50 |
+| 55 | [How's It Gonna End](https://open.spotify.com/track/2UZxUSA4TxbS5tXUB5QSoL) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Real Gone \(Remastered\)](https://open.spotify.com/album/6F17MbloTeRoXs7JI3lTHy) | 4:50 |
 | 56 | [Snake Song](https://open.spotify.com/track/75bNIPy58AL7MYYp8cnj4A) | [Isobel Campbell](https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq), [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ) | [Hawk](https://open.spotify.com/album/4vPZUSwLbvknOOo9UJZQVs) | 2:48 |
 | 57 | [Bottom of the River](https://open.spotify.com/track/279D0iY34aVyZWTxsAPYUd) | [Delta Rae](https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my) | [Bottom of the River](https://open.spotify.com/album/2FXmlkD0prW5bIzO2MpAED) | 3:21 |
 | 58 | [Too Dry To Cry](https://open.spotify.com/track/5oG9KGz90VbBGNH25BFWYL) | [Willis Earl Beal](https://open.spotify.com/artist/58CUVLn2xm7I9iFg97t9XC) | [Nobody knows.](https://open.spotify.com/album/307byX8K0rtQ6vOJ4OEMm2) | 4:39 |
 | 59 | [Gallows Pole](https://open.spotify.com/track/5L1BHZ2uApRTpP95yGykjv) | [Willie Watson](https://open.spotify.com/artist/5j9IEu1SEY0JslCPmfVsgq) | [Folksinger Vol\. 2](https://open.spotify.com/album/2CBLeaL8ProyeOOhc1QFpb) | 4:06 |
 | 60 | [Diggin A Grave](https://open.spotify.com/track/5uR72lBzHxcf2YlbK8iRp1) | [Micah P\. Hinson](https://open.spotify.com/artist/6M5FR3JkFFVDkgwtO6Vtz6) | [Micah P\. Hinson and the Opera Circuit](https://open.spotify.com/album/1CIVVV6GUgNfS5nmDh0V5z) | 2:05 |
-| 61 | [Magnolia Blues](https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Magnolia Blues](https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr) | 3:28 |
-| 62 | [Oak Tree](https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK) | 3:00 |
+| 61 | [Oak Tree](https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK) | 3:00 |
+| 62 | [Magnolia Blues](https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Magnolia Blues](https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr) | 3:28 |
 | 63 | [Apple Tree](https://open.spotify.com/track/6EqCxnulMcawu0qN8B8Y5W) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [I'm Not Your Man](https://open.spotify.com/album/6cDRHxpDNgEMgmkCIVdlP2) | 2:55 |
 | 64 | [Herd](https://open.spotify.com/track/7Gp6rliJK9iw8CEJvvD8oe) | [O'Death](https://open.spotify.com/artist/5oTGxE6TDRsEr0jfbIlp7O) | [Out Of Hands We Go](https://open.spotify.com/album/2TBHUDbwjZoNir22a43aSr) | 3:53 |
 | 65 | [Sharecropper’s Son](https://open.spotify.com/track/5TTctmQn2AlFAgdCB5sGoU) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sharecropper's Son](https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf) | 3:06 |
@@ -91,14 +91,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 81 | [Devils](https://open.spotify.com/track/2cjlGKF1b3ZOMWdGJybQNs) | [Amelia Curran](https://open.spotify.com/artist/4ovISfvdFHqGNI4ZuHzh69) | [War Brides](https://open.spotify.com/album/5hglONXTikY7aLfrWbkBjb) | 2:24 |
 | 82 | [Iuka](https://open.spotify.com/track/574zpZaSSWXMhk0eDzHrDn) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Put Your Needle Down](https://open.spotify.com/album/3pinz3pk3eno43xbwqWvok) | 4:42 |
 | 83 | [Get What You Give](https://open.spotify.com/track/5eNhIzwEPKnZZNItD5l8ke) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf) | [By The Rule](https://open.spotify.com/album/3dnZ6Hg3vRfAmxzeIh549T) | 3:10 |
-| 84 | [Heaven Help Me](https://open.spotify.com/track/1Sn2eyETeYKc1WMmDMijKh) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Heaven Help Me](https://open.spotify.com/album/3llXzAOhba5SpNnJnTLD9m) | 3:04 |
-| 85 | [Long Time Travelin'](https://open.spotify.com/track/2oYGqILoEyt0cTncwjEHk2) | [Anna & Elizabeth](https://open.spotify.com/artist/1Zd2jFygzaM9fyijiieSI7) | [Anna & Elizabeth](https://open.spotify.com/album/71F0gAJ6JYuYhAr98mcoVZ) | 1:28 |
+| 84 | [Long Time Travelin'](https://open.spotify.com/track/2oYGqILoEyt0cTncwjEHk2) | [Anna & Elizabeth](https://open.spotify.com/artist/1Zd2jFygzaM9fyijiieSI7) | [Anna & Elizabeth](https://open.spotify.com/album/71F0gAJ6JYuYhAr98mcoVZ) | 1:28 |
+| 85 | [Heaven Help Me](https://open.spotify.com/track/1Sn2eyETeYKc1WMmDMijKh) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Heaven Help Me](https://open.spotify.com/album/3llXzAOhba5SpNnJnTLD9m) | 3:04 |
 | 86 | [Psalms](https://open.spotify.com/track/4Q4qJYgs4zZ1FFHX2nleB9) | [Vudu Sister](https://open.spotify.com/artist/5Gu7iDoQjE7anHIbCXckC8) | [Bastard Children](https://open.spotify.com/album/2c04IHW1EnOkIMkivr5NPG) | 3:40 |
-| 87 | [Filthy Dirty South](https://open.spotify.com/track/2VifjGJJ8d0yGUk1LHn81y) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Filthy Dirty South](https://open.spotify.com/album/5o4cfFDhtA8GMYGMsHXLiZ) | 5:46 |
-| 88 | [The Devil Had A Hold Of Me](https://open.spotify.com/track/4oGtTW6RoaK9tMCNT5ZJcY) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Hell Among The Yearlings](https://open.spotify.com/album/7lj5fnqPOsrdANEyn9t8pM) | 4:30 |
-| 89 | [Pull the Moon](https://open.spotify.com/track/0fhybVaiwileWneFHOBhhd) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Quiet Flame](https://open.spotify.com/album/2Uyhtk4U9TxSFIIj8dOyZO) | 4:02 |
+| 87 | [The Devil Had A Hold Of Me](https://open.spotify.com/track/4oGtTW6RoaK9tMCNT5ZJcY) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Hell Among The Yearlings](https://open.spotify.com/album/7lj5fnqPOsrdANEyn9t8pM) | 4:30 |
+| 88 | [Filthy Dirty South](https://open.spotify.com/track/2VifjGJJ8d0yGUk1LHn81y) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Filthy Dirty South](https://open.spotify.com/album/5o4cfFDhtA8GMYGMsHXLiZ) | 5:46 |
+| 89 | [Sister Death](https://open.spotify.com/track/5ZIlSYLOLplrFVRdtSXAxH) | [Look Homeward](https://open.spotify.com/artist/5Z1ANSIGrMWGVKAtJNpOFH) | [Look Homeward](https://open.spotify.com/album/563YScqSxw5TPbx5pYZbXt) | 2:53 |
 | 90 | [Fire in the Empire](https://open.spotify.com/track/7nBlwy9FltJKrO23b6edNi) | [William Crighton](https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM) | [Empire](https://open.spotify.com/album/2ayE2lKEyIyBP2EcuWiB0d) | 3:37 |
-| 91 | [Sister Death](https://open.spotify.com/track/5ZIlSYLOLplrFVRdtSXAxH) | [Look Homeward](https://open.spotify.com/artist/5Z1ANSIGrMWGVKAtJNpOFH) | [Look Homeward](https://open.spotify.com/album/563YScqSxw5TPbx5pYZbXt) | 2:53 |
+| 91 | [Pull the Moon](https://open.spotify.com/track/0fhybVaiwileWneFHOBhhd) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Quiet Flame](https://open.spotify.com/album/2Uyhtk4U9TxSFIIj8dOyZO) | 4:02 |
 | 92 | [Highway 9](https://open.spotify.com/track/5T5BIueWzBI6TMDpsyST4z) | [Barnaby Bright](https://open.spotify.com/artist/6LQfYurqiaL6tB19ynez50) | [The Longest Day](https://open.spotify.com/album/0Y4z9ikteEZYLf46b80f81) | 4:30 |
 | 93 | [Little Wing](https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Little Wing](https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF) | 2:55 |
 | 94 | [Boy Got It Bad](https://open.spotify.com/track/3k6QU7zzhlJ8ODb24uuLP9) | [KaiL Baxley](https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx) | [Heatstroke/The Wind and the War](https://open.spotify.com/album/4bU9I5NtFLbmChbhAqGKwJ) | 2:38 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 96 | [Bless Your Soul](https://open.spotify.com/track/6SP4CyAK8qbdajsmzYQm9g) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Bless Your Soul](https://open.spotify.com/album/72ikagjWsSJebCaqohnrHB) | 3:32 |
 | 97 | [Saint Elizabeth](https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Nine Pin](https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs) | 3:59 |
 | 98 | [Lungs](https://open.spotify.com/track/59yvm9n65pPkykLU3e0Kf0) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Lungs](https://open.spotify.com/album/2gXXc2kHhKHtDpaXNi0M6g) | 2:57 |
-| 99 | [Stolen Roses](https://open.spotify.com/track/4iA8sr24vIQkDmNeS8W1RR) | [Karen Elson](https://open.spotify.com/artist/0XKPHX4BZDrtSEr3Pd1Q4k) | [The Ghost Who Walks](https://open.spotify.com/album/3kROejW59eSIewYwDdPtx1) | 3:07 |
-| 100 | [Cadillac Dust](https://open.spotify.com/track/6EqH6OTtC3KMxRsU2OGF9A) | [Elliott BROOD](https://open.spotify.com/artist/51RfVK8q11xKW7bi7bcMpJ) | [Tin Type](https://open.spotify.com/album/1dA2zNQJAgjd7ZO06wZqiu) | 3:14 |
+| 99 | [Cadillac Dust](https://open.spotify.com/track/6EqH6OTtC3KMxRsU2OGF9A) | [Elliott BROOD](https://open.spotify.com/artist/51RfVK8q11xKW7bi7bcMpJ) | [Tin Type](https://open.spotify.com/album/1dA2zNQJAgjd7ZO06wZqiu) | 3:14 |
+| 100 | [Stolen Roses](https://open.spotify.com/track/4iA8sr24vIQkDmNeS8W1RR) | [Karen Elson](https://open.spotify.com/artist/0XKPHX4BZDrtSEr3Pd1Q4k) | [The Ghost Who Walks](https://open.spotify.com/album/3kROejW59eSIewYwDdPtx1) | 3:07 |
 
-Snapshot ID: `MCw1Y2UxZTNmN2U4ZmMyYTQ5MWEzMmUzZjQ5MjI1MzIzNmJjZWZiMjk2`
+Snapshot ID: `MCw1NjI4N2IwYjgwMzA2ZTA3ZmNkZTcwOGU4M2U3ZmE3ZTViOGY1NDk5`

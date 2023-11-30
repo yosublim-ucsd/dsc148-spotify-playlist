@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tyCD9QhIWF.md) - [plain]
 
 > Big riffs and pounding drums to help you strut the streets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,309,873 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,309,773 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tyCD9QhIWF.md) - [plain]
 | 8 | [Elephant](https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:31 |
 | 9 | [Pass The Nirvana](https://open.spotify.com/track/7I93h9I0RUqt1ci3Bfa290) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 3:17 |
 | 10 | [Hold Me Like a Grudge](https://open.spotify.com/track/7LJETXmpThAx6IvUzczYNR) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3) | 3:35 |
-| 11 | [Stuck](https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Stuck](https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq) | 3:02 |
-| 12 | [Icky Thump](https://open.spotify.com/track/2LMq1O0NiqGhPOlXo3McYQ) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Icky Thump](https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC) | 4:14 |
+| 11 | [Icky Thump](https://open.spotify.com/track/2LMq1O0NiqGhPOlXo3McYQ) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Icky Thump](https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC) | 4:14 |
+| 12 | [Stuck](https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Stuck](https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq) | 3:02 |
 | 13 | [Jumpsuit](https://open.spotify.com/track/1E1uGhNdBe6Dddbgs2KqtZ) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 3:58 |
 | 14 | [Lowlife](https://open.spotify.com/track/2kDApipZtTzjwGfKujcg2z) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Lowlife](https://open.spotify.com/album/4MwosQ9tTm95DAaHdoNs5E) | 3:53 |
 | 15 | [The News](https://open.spotify.com/track/59RjIhWIpthNpwrlChUvXm) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:07 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tyCD9QhIWF.md) - [plain]
 | 63 | [Aye](https://open.spotify.com/track/5n7yP1qQiXs9uCE3m1eyGB) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Aye](https://open.spotify.com/album/1MNI54DBCm3plChv9rY7C3) | 3:06 |
 | 64 | [I EXIST](https://open.spotify.com/track/3eI62ZWWxkl4LUaBqXvA6Y) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [I EXIST](https://open.spotify.com/album/278scJHsCyBRWl94O0C0d5) | 4:29 |
 | 65 | [THREE HEADS\*](https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [THREE HEADS\*](https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN) | 2:51 |
-| 66 | [Selfish](https://open.spotify.com/track/4FFec7v5TnYdwNzyrmBGM9) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Selfish](https://open.spotify.com/album/6UXzkhMXm0jqZ3k3ogjp6W) | 3:12 |
-| 67 | [Ready For Something](https://open.spotify.com/track/0Tep6Kp3UHzpewyC0iSsDd) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [How Will I Know If Heaven Will Find Me?](https://open.spotify.com/album/5wtPiwfkmZQSbrMUODMD4f) | 3:57 |
+| 66 | [Ready For Something](https://open.spotify.com/track/0Tep6Kp3UHzpewyC0iSsDd) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [How Will I Know If Heaven Will Find Me?](https://open.spotify.com/album/5wtPiwfkmZQSbrMUODMD4f) | 3:57 |
+| 67 | [Selfish](https://open.spotify.com/track/4FFec7v5TnYdwNzyrmBGM9) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Selfish](https://open.spotify.com/album/6UXzkhMXm0jqZ3k3ogjp6W) | 3:12 |
 | 68 | [New York Transit Queen](https://open.spotify.com/track/6CjJtGi2x7xiBghJ4E8YIN) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [New York Transit Queen](https://open.spotify.com/album/3iP85a7yaqMQxtSs4bBvZm) | 1:49 |
 | 69 | [Slow](https://open.spotify.com/track/7llRb02z7gNG2cWKmtuKaq) | [Airways](https://open.spotify.com/artist/5fRpvt0RU5UL6YwQekpofE) | [Slow](https://open.spotify.com/album/5lQGSDgLordQGd0Mq0LF4D) | 3:07 |
 | 70 | [Country Life](https://open.spotify.com/track/5mZJ5BCODAWK22CtWHgJvn) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Country Life](https://open.spotify.com/album/1lPzPrmioCkfZIGLzg2XgT) | 2:27 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tyCD9QhIWF.md) - [plain]
 | 74 | [All I Wanna Do Is Hate](https://open.spotify.com/track/62wdj6E0AiXV6rh8tqJTUb) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [All I Wanna Do Is Hate](https://open.spotify.com/album/2A4OPZOkKblkfpMi1zUCfz) | 2:45 |
 | 75 | [GIMME](https://open.spotify.com/track/1d9pnTuvvi0AVgcO8DkP1S) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [GIMME](https://open.spotify.com/album/65bHWObuGFN9SQqitY9dMi) | 1:40 |
 
-Snapshot ID: `MCxhNDZjMTBjZDI5MDI4NzYyYjlhZGI2OWQ1NWU1NTBiMzdmYzY5N2Ix`
+Snapshot ID: `MCxhYmU0NDM4MGE0YWRjNWYzZWVjYmRlNWRhZGIzNjY0NTFkYWRiOGU0`

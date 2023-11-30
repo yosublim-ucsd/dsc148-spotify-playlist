@@ -5124,6 +5124,24 @@
     {
       "album": {
         "name": "The End Is Where We Begin",
+        "url": "https://open.spotify.com/album/6YJYFQ1Zz9I49YQknK4wIn"
+      },
+      "artists": [
+        {
+          "name": "Thousand Foot Krutch",
+          "url": "https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246131,
+      "name": "Let the Sparks Fly",
+      "url": "https://open.spotify.com/track/1591zSWxS0xqHniiIDowDQ"
+    },
+    {
+      "album": {
+        "name": "The End Is Where We Begin",
         "url": "https://open.spotify.com/album/0XOUeOsnNh9rTDB0ONO7O9"
       },
       "artists": [
@@ -5138,32 +5156,6 @@
       "duration_ms": 246131,
       "name": "Let the Sparks Fly",
       "url": "https://open.spotify.com/track/20expv6UNB9q8iJpyzaPcQ"
-    },
-    {
-      "album": {
-        "name": "The End Is Where We Begin",
-        "url": "https://open.spotify.com/album/6YJYFQ1Zz9I49YQknK4wIn"
-      },
-      "artists": [
-        {
-          "name": "Thousand Foot Krutch",
-          "url": "https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr"
-        },
-        {
-          "name": "Saint Asonia",
-          "url": "https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8"
-        },
-        {
-          "name": "Adam Gontier",
-          "url": "https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT"
-        }
-      ],
-      "date_added": "2022-05-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 246131,
-      "name": "Let the Sparks Fly",
-      "url": "https://open.spotify.com/track/1591zSWxS0xqHniiIDowDQ"
     },
     {
       "album": {

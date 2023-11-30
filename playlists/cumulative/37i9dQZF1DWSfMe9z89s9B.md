@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: MiLES
 
-1,033 songs - 2 day 7 hr 16 min
+1,034 songs - 2 day 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,7 +217,8 @@
 | [Coolest Girl In California](https://open.spotify.com/track/12j3vi8b1f3mdR5phhSv0d) | [Dounia](https://open.spotify.com/artist/4fJsnm9CeDAPrwO4MAEToj) | [sPaCe \(528hz\) / Coolest Girl In California](https://open.spotify.com/album/6p6IFdRzEhIz5hE190x4sR) | 2:18 | 2023-10-06 | 2023-10-21 |
 | [Crayons](https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [Crayons](https://open.spotify.com/album/6HZYUn33trHEZ78tFsFnCS) | 2:23 | 2022-08-12 | 2022-09-21 |
 | [CRISIS](https://open.spotify.com/track/43czZSFDYr2i6HDJw580n5) | [Sam Ezeh](https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK) | [CRISIS](https://open.spotify.com/album/3sAJ892CzDIa869oCpgj1G) | 3:13 | 2021-03-19 | 2022-07-30 |
-| [cross my heart](https://open.spotify.com/track/4yJ1fD1LvIVtTDOu4NyKLU) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [cross my heart](https://open.spotify.com/album/1MpZGsYzbDWKLwfJOijcVA) | 2:26 | 2023-09-22 |  |
+| [cross my heart](https://open.spotify.com/track/3nLSxpwZrU4ugAMVxYOHJe) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [cross my heart](https://open.spotify.com/album/4NK2abDnkV5FqI0q32DLL9) | 2:26 | 2023-09-22 |  |
+| [cross my heart](https://open.spotify.com/track/4yJ1fD1LvIVtTDOu4NyKLU) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [cross my heart](https://open.spotify.com/album/1MpZGsYzbDWKLwfJOijcVA) | 2:26 | 2023-09-22 | 2023-11-30 |
 | [Cruel](https://open.spotify.com/track/6uJdUARnEctC9X4nrbaNP5) | [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [Cruel](https://open.spotify.com/album/62ft4e9TqvJRNaUt9QYk2F) | 3:06 | 2023-09-08 |  |
 | [Cruel World \- Jim\-E Stack Remix](https://open.spotify.com/track/1xKNnjZkSyj2QbkqruJyCr) | [Active Child](https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Cruel World \(Jim\-E Stack Remix\)](https://open.spotify.com/album/5Dh7p39Uf8JUkT8P74LfgS) | 3:12 | 2022-04-01 | 2022-04-13 |
 | [Cry No More](https://open.spotify.com/track/6OwH1gyEMEZHDfQ3li6R3z) | [Chlo Chlo](https://open.spotify.com/artist/5WSw7GP4vHRXIFz648S3OW), [Ranger](https://open.spotify.com/artist/6QtbSwzlGllHgDOk5EiTwM) | [Cry No More](https://open.spotify.com/album/1RAljLiZBe7u0QXIIqFJWS) | 3:18 | 2021-11-05 | 2022-01-06 |

@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Cami.",
-  "num_followers": 761478,
+  "num_followers": 761455,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODc5N2Q3MTdkZjkyZGMyZjQ2ZDRkZDA4NTVlOGI1MzMyYzQ3ZjE3",
+  "snapshot_id": "MCw2YzU0NjRiNWViMjg3MjQ5MjEyNjRiZjViY2VmNjEyZWVlY2UyOTEw",
   "tracks": [
     {
       "added_at": "2023-11-24 06:54:48",
@@ -471,6 +471,26 @@
     {
       "added_at": "2023-11-24 06:54:48",
       "album": {
+        "name": "Chispeo ft. Ovy On The Drums - Spotify Singles",
+        "url": "https://open.spotify.com/album/19bgWVSbdr6hodfxeJd4wU"
+      },
+      "artists": [
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 130602,
+      "name": "Chispeo ft. Ovy On The Drums - Spotify Singles",
+      "url": "https://open.spotify.com/track/2xfDE32mrcMyk9MpBVfY0F"
+    },
+    {
+      "added_at": "2023-11-24 06:54:48",
+      "album": {
         "name": "NOS SOLTAMOS chiliado",
         "url": "https://open.spotify.com/album/3Mmkzg9JwpsW5tMFXdR9TU"
       },
@@ -527,26 +547,6 @@
       "duration_ms": 269000,
       "name": "Te Hice Mal (Remix)",
       "url": "https://open.spotify.com/track/5GScJWskAOiLZz9upeOKaI"
-    },
-    {
-      "added_at": "2023-11-24 06:54:48",
-      "album": {
-        "name": "Chispeo ft. Ovy On The Drums - Spotify Singles",
-        "url": "https://open.spotify.com/album/19bgWVSbdr6hodfxeJd4wU"
-      },
-      "artists": [
-        {
-          "name": "Loyal Lobos",
-          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 130602,
-      "name": "Chispeo ft. Ovy On The Drums - Spotify Singles",
-      "url": "https://open.spotify.com/track/2xfDE32mrcMyk9MpBVfY0F"
     },
     {
       "added_at": "2023-11-24 06:54:48",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-11-24 06:54:48",
       "album": {
-        "name": "Mam\u00e1 Flor",
-        "url": "https://open.spotify.com/album/2Kh4wcnhEPSbbrExSSpOOz"
-      },
-      "artists": [
-        {
-          "name": "Motherflowers",
-          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Rayo de Sol",
-      "url": "https://open.spotify.com/track/4drV7E6Js7fUFi9DPytzFP"
-    },
-    {
-      "added_at": "2023-11-24 06:54:48",
-      "album": {
         "name": "Nervios de Acero",
         "url": "https://open.spotify.com/album/0Q1CgNC7kxF5R1Ln5LfTO2"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 201626,
       "name": "Gualero REFF12.31",
       "url": "https://open.spotify.com/track/2gKLtFP8HSTPfPshO0GsuM"
+    },
+    {
+      "added_at": "2023-11-24 06:54:48",
+      "album": {
+        "name": "Mam\u00e1 Flor",
+        "url": "https://open.spotify.com/album/2Kh4wcnhEPSbbrExSSpOOz"
+      },
+      "artists": [
+        {
+          "name": "Motherflowers",
+          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Rayo de Sol",
+      "url": "https://open.spotify.com/track/4drV7E6Js7fUFi9DPytzFP"
     },
     {
       "added_at": "2023-11-24 06:54:48",
@@ -823,22 +823,18 @@
     {
       "added_at": "2023-11-24 06:54:48",
       "album": {
-        "name": "Monumento",
-        "url": "https://open.spotify.com/album/0KCzvW9btMbZpM2JVPZj4s"
+        "name": "GRANDE",
+        "url": "https://open.spotify.com/album/6cV5ziMH2KfyIxxooKNA4L"
       },
       "artists": [
         {
-          "name": "Jarina De Marco",
-          "url": "https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL"
-        },
-        {
-          "name": "Calacote",
-          "url": "https://open.spotify.com/artist/52PhGA4a6erATMkWfLuFvO"
+          "name": "Maria Blaya",
+          "url": "https://open.spotify.com/artist/0Ln3BisQiL0t2w7bsmju75"
         }
       ],
-      "duration_ms": 162120,
-      "name": "Monumento",
-      "url": "https://open.spotify.com/track/1Lb0j0vG9oNCvZYqhXLa4s"
+      "duration_ms": 148790,
+      "name": "DEMONIO",
+      "url": "https://open.spotify.com/track/6FQ4GVuaq7hTsFcSh7mqMZ"
     },
     {
       "added_at": "2023-11-24 06:54:48",
@@ -859,6 +855,26 @@
     {
       "added_at": "2023-11-24 06:54:48",
       "album": {
+        "name": "Monumento",
+        "url": "https://open.spotify.com/album/0KCzvW9btMbZpM2JVPZj4s"
+      },
+      "artists": [
+        {
+          "name": "Jarina De Marco",
+          "url": "https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL"
+        },
+        {
+          "name": "Calacote",
+          "url": "https://open.spotify.com/artist/52PhGA4a6erATMkWfLuFvO"
+        }
+      ],
+      "duration_ms": 162120,
+      "name": "Monumento",
+      "url": "https://open.spotify.com/track/1Lb0j0vG9oNCvZYqhXLa4s"
+    },
+    {
+      "added_at": "2023-11-24 06:54:48",
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/3ofWk0ZjZQNmhsjlVud2y9"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 253747,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/3t9HCHioZ2hmHhWQEjOjPA"
-    },
-    {
-      "added_at": "2023-11-24 06:54:48",
-      "album": {
-        "name": "GRANDE",
-        "url": "https://open.spotify.com/album/6cV5ziMH2KfyIxxooKNA4L"
-      },
-      "artists": [
-        {
-          "name": "Maria Blaya",
-          "url": "https://open.spotify.com/artist/0Ln3BisQiL0t2w7bsmju75"
-        }
-      ],
-      "duration_ms": 148790,
-      "name": "DEMONIO",
-      "url": "https://open.spotify.com/track/6FQ4GVuaq7hTsFcSh7mqMZ"
     }
   ],
   "unique_name": "Mixto",

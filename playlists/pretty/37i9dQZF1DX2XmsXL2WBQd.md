@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 
 > Anthems from the early days of recorded rap music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,813 likes - 70 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,882 likes - 70 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 35 | [Hold It Now, Hit It](https://open.spotify.com/track/3C8xkK4Cir2QmiaN07GIZs) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Licensed To Ill](https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb) | 3:26 |
 | 36 | [Planet Rock \- Original 12" Version](https://open.spotify.com/track/5aD3fAa1fy8XUesj3lgr19) | [Afrika Bambaataa](https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p), [The Soulsonic Force](https://open.spotify.com/artist/4zdcKwAK7lkYxgER54yfcP) | [Planet Rock: The Album](https://open.spotify.com/album/3qX0GugLujpIodkT6r06hf) | 6:23 |
 | 37 | [Strictly Business](https://open.spotify.com/track/1xZdjsAGrY4BUIbIlYy3EX) | [EPMD](https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN) | [Strictly Business](https://open.spotify.com/album/2HOl8gDiGGpt7wsIDi9jy5) | 4:45 |
-| 38 | [Freaks Come Out at Night](https://open.spotify.com/track/743DaI0d44SpwV2ArTPGmy) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [The Collection](https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5) | 4:42 |
+| 38 | [Rapper's Delight](https://open.spotify.com/track/3aSZe61cG5tU7BzdJxKBvz) | [The Sugarhill Gang](https://open.spotify.com/artist/7zliF6Q946WznVk3ZMYhZX) | [NOW Hip\-Hop At 50](https://open.spotify.com/album/21dSLsquSIRfQqACMgITXH) | 3:52 |
 | 39 | [Bring The Noise](https://open.spotify.com/track/5BiuxSuxOZ9CcQ6SqICsDv) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back \(Deluxe Edition\)](https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ) | 3:46 |
-| 40 | [Rapper's Delight](https://open.spotify.com/track/3aSZe61cG5tU7BzdJxKBvz) | [The Sugarhill Gang](https://open.spotify.com/artist/7zliF6Q946WznVk3ZMYhZX) | [NOW Hip\-Hop At 50](https://open.spotify.com/album/21dSLsquSIRfQqACMgITXH) | 3:52 |
+| 40 | [Freaks Come Out at Night](https://open.spotify.com/track/743DaI0d44SpwV2ArTPGmy) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [The Collection](https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5) | 4:42 |
 | 41 | [King of Rock](https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [King Of Rock \(Expanded Edition\)](https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6) | 5:14 |
 | 42 | [Talkin' All That Jazz](https://open.spotify.com/track/6ZF3dNXVuA6E8rOL4FX2EY) | [Stetsasonic](https://open.spotify.com/artist/6gl67jXbrwnMYZNZv88MKk) | [In Full Gear](https://open.spotify.com/album/5MGulPuRADl4COIrbMfvmw) | 4:48 |
 | 43 | [I Know You Got Soul](https://open.spotify.com/track/5D2lp16FQ0VIfLGRDn5jcG) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Paid In Full](https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz) | 4:44 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 48 | [I Need Love](https://open.spotify.com/track/3UP7dzy4ISy8S3HOReCd1q) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [All World](https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M) | 5:21 |
 | 49 | [I Got It Made](https://open.spotify.com/track/68DGiGtJrVcGBeOf5UNpVz) | [Special Ed](https://open.spotify.com/artist/3vIFTM70CYTYr122vTVpzx) | [Youngest in Charge](https://open.spotify.com/album/3R6qOZ2QsPj6yWism4b7vk) | 3:41 |
 | 50 | [Paid In Full \- Seven Minutes Of Madness \- The Coldcut Remix](https://open.spotify.com/track/5XQPpKiBjXUI4bIenLBxci) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Paid In Full \(Deluxe Edition\)](https://open.spotify.com/album/0SHeOTuKXo4cM1CWyAwDcj) | 7:09 |
-| 51 | [Wild Wild West](https://open.spotify.com/track/0fmjCC6ItD4vixqwLTNGfg) | [Kool Moe Dee](https://open.spotify.com/artist/2RE8NwNxsOyuNZDD0jRxHP) | [How Ya Like Me Now \(Expanded Edition\)](https://open.spotify.com/album/0V3b2bczRgZ4qrGq1L5BVI) | 4:40 |
-| 52 | [Colors \- 2014 Remaster](https://open.spotify.com/track/7CMww2nlc2THVjJeLOYBrk) | [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Greatest Hits](https://open.spotify.com/album/13AED1HGzWlkxETo6aquK1) | 4:26 |
+| 51 | [Colors \- 2014 Remaster](https://open.spotify.com/track/7CMww2nlc2THVjJeLOYBrk) | [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Greatest Hits](https://open.spotify.com/album/13AED1HGzWlkxETo6aquK1) | 4:26 |
+| 52 | [Wild Wild West](https://open.spotify.com/track/0fmjCC6ItD4vixqwLTNGfg) | [Kool Moe Dee](https://open.spotify.com/artist/2RE8NwNxsOyuNZDD0jRxHP) | [How Ya Like Me Now \(Expanded Edition\)](https://open.spotify.com/album/0V3b2bczRgZ4qrGq1L5BVI) | 4:40 |
 | 53 | [My Philosophy](https://open.spotify.com/track/2P8KBF5BtraQiGpxDXrCnF) | [Boogie Down Productions](https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA) | [By All Means Necessary \(Expanded Edition\)](https://open.spotify.com/album/1ucCcn3bSPePeI67kUapwB) | 5:40 |
 | 54 | [Top Billin \- Acapella](https://open.spotify.com/track/59vYYvb9JS5IQAp8xpf0CY) | [Audio Two](https://open.spotify.com/artist/10toSzLMkc2zIYiiAemHt1) | [What More Can I Say](https://open.spotify.com/album/4ULe1bx6XkffNvsbB9DHr6) | 2:55 |
 | 55 | [Vapors](https://open.spotify.com/track/73lzOeqHJSH8ddRls5GonC) | [Biz Markie](https://open.spotify.com/artist/22282KfMxDo2PMjnBc82I4) | [Biz's Baddest Beats: The Best of Biz Markie](https://open.spotify.com/album/2OKf5WlgqFgszrDsxMq07t) | 6:02 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 69 | [Bassline](https://open.spotify.com/track/4iuO0dinw5Bm18pXbZok8w) | [Mantronix](https://open.spotify.com/artist/0grZF2s6ADKiTGwf8EVZEY) | [The Album](https://open.spotify.com/album/10kEW14CpfmiAkXnE5Ic3K) | 5:26 |
 | 70 | [P.S.K\. 'What Does It Mean'?](https://open.spotify.com/track/3StKzbpR9dRZB8epDx4KDW) | [Schoolly D](https://open.spotify.com/artist/63NXL9k1RkJYcQ5MkUETLL) | [Schoolly D](https://open.spotify.com/album/57LWYtFS2xn5pIDHLqjatU) | 6:28 |
 
-Snapshot ID: `MCxhNWU1ZmNiN2E5MGEwMDRhMDYzNWM3ZTNhNTMwZDIzOWU5YTg5NDUx`
+Snapshot ID: `MCxlZmUwYTYxMjBkMGY1MjRlZTI3MjA2OTRkNzMxOGU0NzI4NzBjOWYx`

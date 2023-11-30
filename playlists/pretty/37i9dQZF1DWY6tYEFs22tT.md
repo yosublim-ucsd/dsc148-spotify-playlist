@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > Today's Hip\-Hop with 2 Chainz, Lil Wayne, Drake and Jack Harlow!
 
-[Spotify](https://open.spotify.com/user/spotify) - 825,779 likes - 74 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 825,911 likes - 74 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 | 47 | [Trendsetter](https://open.spotify.com/track/09VW2o6EHSWwzCdhW4ARU1) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u) | [Trendsetter](https://open.spotify.com/album/1Hxam85Bhf98cIkMRKX9QA) | 2:22 |
 | 48 | [Another One Of Me \(feat\. 21 Savage\)](https://open.spotify.com/track/4hGmQboiou09EwhcTWa0H6) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 3:40 |
 | 49 | [Drift](https://open.spotify.com/track/0ydoqpTVhaDzjDg7WVcg4m) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Drift](https://open.spotify.com/album/3MZbcKtTrzsjh0iNOEgHcP) | 2:43 |
-| 50 | [First Day Out \(Freestyle\), Pt\. 2](https://open.spotify.com/track/5rgBgO4HZfem8Pdf6j9d3y) | [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK) | [First Day Out \(Freestyle\), Pt\. 2](https://open.spotify.com/album/3VQJA4yTdEPDe8konqav6f) | 3:17 |
+| 50 | [First Day Out \(Freestyle\) Pt\. 2](https://open.spotify.com/track/4oeUol0xLGJYCmiPypgUvi) | [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK) | [First Day Out \(Freestyle\) Pt\. 2](https://open.spotify.com/album/2GMbT6TVTPmb8XQc2IOBNW) | 3:17 |
 | 51 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 |
 | 52 | [Sideways \(with NLE Choppa\)](https://open.spotify.com/track/3dX2DItyqF78yNhPJZakmM) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Sideways](https://open.spotify.com/album/0ylJgtYMwhgSeiz7bgtWr1) | 2:00 |
 | 53 | [False Idols \(with Lil Baby, Suzanna Son\)](https://open.spotify.com/track/6cViXqp01e3FrAaseuiSAV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Suzanna Son](https://open.spotify.com/artist/0KVIja3XDIh9zXkKO2FI2A) | [The Idol Episode 5 Part 1 \(Music from the HBO Original Series\)](https://open.spotify.com/album/4q3wUuIReEjGSYzmSsxtl6) | 4:22 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 | 73 | [$WISH ft\. G\-Eazy and Chance The Rapper](https://open.spotify.com/track/2xWTbOsDclkxRarvshyReu) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [$WISH ft\. G\-Eazy and Chance The Rapper](https://open.spotify.com/album/0suVVYEcV3LWxREKaLyOGn) | 3:45 |
 | 74 | [Johnny Dang \(with Paul Wall & DRODi\)](https://open.spotify.com/track/1kwPxt35W7cG3rryxR48PO) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [DRODi](https://open.spotify.com/artist/7xsuKSqVVN2JzUIpZV0GeW) | [Johnny Dang \(with Paul Wall & DRODi\)](https://open.spotify.com/album/005G0y1M64Y9LmPRuHcD0U) | 3:12 |
 
-Snapshot ID: `MCw1MGViOWVhZWQxYjBjNWUyMzk1MzYzOTQzMTk0ZTBhYzRhZjYxZGUx`
+Snapshot ID: `MCw3OTAxODA5NzFkOWEyMTZhMDc5ZTljZGY0MDlkMWVhYmMzMDcyOTBj`

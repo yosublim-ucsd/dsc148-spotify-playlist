@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Emis Killa, yungest Moonstar, Artie 5ive, Geolier e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,566 likes - 80 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,581 likes - 80 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 79 | [DEAD BROKE](https://open.spotify.com/track/6uyyELd94hx5aSATZMgwke) | [Young Kofla](https://open.spotify.com/artist/6NcPuIV1hhaupm3wGsSx1R), [Fluss Uchiha](https://open.spotify.com/artist/1iqQyjmk9FN45sd8V8CPJo) | [DEAD BROKE](https://open.spotify.com/album/5T7z5jkvGvQdzbq8fWbLyB) | 2:46 |
 | 80 | [+Freddo](https://open.spotify.com/track/1WRAGwxtrW7oqRM6n8xIS2) | [Ombrv](https://open.spotify.com/artist/3k0UmxDhNM3pdvDlQjhg82) | [+Freddo](https://open.spotify.com/album/0zW7laPPT6VM49UZEFkAPK) | 2:16 |
 
-Snapshot ID: `MCwxNGFhZDhlZmUwYTU0YjdkZWU1NjRiN2UzNDVhZmMzYzI5ZGQ4MzNh`
+Snapshot ID: `MCw5NzExZWMwOGZjNzc3Mzc4YTJiMmRlNzU0NDNhNTY0NTE2NDNhOTcy`
