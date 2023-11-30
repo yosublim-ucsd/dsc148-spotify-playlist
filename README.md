@@ -44,12 +44,10 @@ To recreate an old version of a playlist:
 
 ## How it works
 
-This repository contains a script for scraping Spotify playlists and publishing
-them back to the repo. The script is run daily via
+This repository uses a
+[script](https://github.com/mackorone/spotify-playlist-archive-src)
+to scrape Spotify playlists and publish them back to the repo. The script is run daily via
 [GitHub Actions](https://github.com/mackorone/spotify-playlist-archive/actions/workflows/main.yml).
-It's also run after every commit, which means that playlists get regenerated
-whenever the scraping or formatting logic changes, or when new playlists are
-added.
 
 The script determines which playlists to scrape by looking at the file names in
 `playlists/registry`. Files get regenerated as follows: a pretty version of each
